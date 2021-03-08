@@ -34,6 +34,9 @@ subTitle: Tradition auf dem Bau
   
 ---
 
+**Das Richtfest wird auch als Firstbier, Hebefest, Weihefest, Bauheben,
+Fensterbeer oder Aufschlagfest bezeichnet.**
+
 Regional ist das ganz unterschiedlich. Im Landkreis Aichach-Friedberg, wo mir
 diese Aufnahme gelungen ist, nennt man es Hebauf.
 
@@ -48,8 +51,8 @@ keinen klassischen Dachstuhl, feiert man "Deckenfest".
 ## Das Richtfest hat Tradition
 
 Geschichtlichen Aufzeichnungen nach, wurde das Fest bereits im 14. Jahrhundert
-begangen. Der Braucht geht auf rituelle Formen der Zahlung von Zinsen zurück. Im
-Mittelalter waren diese allgemein üblich.
+begangen. Der Braucht geht auf rituelle Formen der Zahlung von Zinsen zurück. 
+Im Mittelalter waren diese allgemein üblich.
 
 Bei der Zeremonie wird ein sogenannter Richtkranz oder Richtbaum auf dem Dach
 angebracht. Dabei hält der Polier oder einer der Zimmerleute eine kurze
@@ -60,12 +63,10 @@ bringen Glück. Anschließend wird der Bauherr dazu aufgerufen, den letzten Nage
 einzuschlagen. Dabei wird ihm gerne ein Streich gespielt. Im Anschluss wird
 ausgelassen gefeiert.
 
-<RemoteImage
-  alt="Richtfest"
-  size="large"
-  title="Richtfest"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_02_img_5087__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_02_img_5087__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBQYH/8QAJxAAAgIBAwQCAQUAAAAAAAAAAQIDBBEAEiEFBjFBBxMyJEJRYXH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAgH/xAAdEQEAAgICAwAAAAAAAAAAAAABAAIRMQMSEzJB/9oADAMBAAIRAxEAPwBS1WgMBtIQka/lk/jqioyWLF7hdqE4yORx6zrU2636KxGih8qRt3Absar+2ujNv+3axIyWGeS3o8DxjSfJZ7gah1fVfsYjhZiBt59Y1MQyQuHj4I96X7rmmhpdbop0oSTV6KWPtMjgyB3VRGACADls7sZ5GD6Osq0GtVkkESosiq6oAzFQQD5xz51TzVzib40BnE4u+uvvZWvNcDo6tuxGq5G0n+P61Kl8m901ULRXwCNv7API0aNCWvZ2xOtQ0SNv5H69ekeS4ak7yBUdpIclgrBlB55wVBH+DTU/yV3FHZWpHNAsMLiOJQrAIBwMANjgaNGpyy5//9k=" />
+<RemoteImage alt={`Richtfest`} size="large" title={`Richtfest`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_02_img_5087__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_02_img_5087__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBQYH/8QAJxAAAgIBAwQCAQUAAAAAAAAAAQIDBBEAEiEFBjFBBxMyJEJRYXH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAgH/xAAdEQEAAgICAwAAAAAAAAAAAAABAAIRMQMSEzJB/9oADAMBAAIRAxEAPwBS1WgMBtIQka/lk/jqioyWLF7hdqE4yORx6zrU2636KxGih8qRt3Absar+2ujNv+3axIyWGeS3o8DxjSfJZ7gah1fVfsYjhZiBt59Y1MQyQuHj4I96X7rmmhpdbop0oSTV6KWPtMjgyB3VRGACADls7sZ5GD6Osq0GtVkkESosiq6oAzFQQD5xz51TzVzib40BnE4u+uvvZWvNcDo6tuxGq5G0n+P61Kl8m901ULRXwCNv7API0aNCWvZ2xOtQ0SNv5H69ekeS4ak7yBUdpIclgrBlB55wVBH+DTU/yV3FHZWpHNAsMLiOJQrAIBwMANjgaNGpyy5//9k="
+/>
 
   

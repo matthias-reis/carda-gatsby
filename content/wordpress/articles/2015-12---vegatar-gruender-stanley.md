@@ -12,12 +12,11 @@ focusKeyword: veganes Leder
 labels:
   - Ananasleder
   - Eukalyptusleder
-  - Interview
+  - Interviews
   - PETA approved
   - PETA Vegan Fashion Award
   - vegane Handtaschen
   - vegane Lederalternativen
-  - Vegane Produkte
   - vegane Schuhe
   - veganes Leder
   - Vegatar
@@ -36,6 +35,15 @@ subTitle: '"Vegan bedeutet Respekt vor dem Leben"'
   
 ---
 
+**Sein Motto "Sei Du selbst die Veränderung, die Du Dir wünschst für die Welt"
+(Gandhi), seine Berufung: Vegane Lederalternativen. Vegatar Gründer Stanley
+betreibt sein Geschäft aus Überzeugung. Ich habe mich mit ihm über sein veganes
+Leben und seine Kollektion unterhalten.**
+
+**Anne:** Hallo Stanley! Vielen Dank, dass Du Dich meinem Interview stellst! Wie
+geht es Dir? Ihr steckt ja gerade mitten im Weihnachtsgeschäft. Gibt es viel zu
+tun?
+
 **Stanley:** Hi Anne, danke ebenfalls für die tolle Möglichkeit. Mir geht es
 ausgesprochen fantastisch. Es gibt viel zu tun und es wird immer mehr - das ist
 gut so! Es ist schön, zu sehen, dass die Nachfrage nach umweltschonenden und
@@ -43,15 +51,19 @@ Tier- aber auch Menschenleid-freien Produkten zunimmt.
 
 **Anne:** Wie bist Du auf die Idee gekommen, vegane Taschen herzustellen?
 
-<RemoteImage
-  alt="Vegatar Gründer Stanley"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_DSC_9544_Fotor_small-373x250__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_DSC_9544_Fotor_small-373x250__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBQIH/8QAKxAAAgICAQIFAQkAAAAAAAAAAQIDBAURABIxBhMhQVHBFDJCUmFxkaGx/8QAFwEBAQEBAAAAAAAAAAAAAAAABQQAAf/EABwRAAIDAQEBAQAAAAAAAAAAAAECAAMRIfAUwf/aAAwDAQACEQMRAD8Ab8d26Aylxa8M8gHQ7LX0rq2vf5HsD37/ABycrUauUhsLepsIzMOqK28hkJ1sMNnRH15u2MlirmaRKdWoqSgoQrKeoa7ld6PLJsPi4qUdu9TMkc1YwSys5PkuQV0PyCTpQhx+Jdem+FGr5gCfcixtS7QBp9+SfhGIUusdOk3UOllYb6gPbTe3px3GRY2jZNqjiKVecgr5teBEbR7jYXtyTu46F2cVWyFXf3S1hZgPnalfrxJa2brMWpXak/6Opib+Rsf5yqu5LBqyCyh6zhmQPBWKnQiM2YCwI6onAP8AYPPQIcpcgwlDFrMfstOBK66HSXCjQLEdz6ftw4cKsdn4x2JqgUcETLljs84YDWx34cOZDh5ON2f/2Q==" />
+## "Ich war auf der Suche nach Lederalternativen
 
-## "Ich war auf der Suche nach Lederalternativen **Stanley:** Irgendwann war ich auf der Suche nach Alternativen zu tierischem Leder. Das Material sollte auf Basis nachwachsender und pflanzlicher Ressourcen sein und ich bin auch fündig geworden. Heute bieten wir bei Vegatar verschiedenen Materialien an: Eukalyptusfasern, Bio-Baumwolle und sogar Ananasfasern.
+<RemoteImage alt={`Vegatar Gründer Stanley`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_DSC_9544_Fotor_small-373x250__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_DSC_9544_Fotor_small-373x250__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBQIH/8QAKxAAAgICAQIFAQkAAAAAAAAAAQIDBAURABIxBhMhQVHBFDJCUmFxkaGx/8QAFwEBAQEBAAAAAAAAAAAAAAAABQQAAf/EABwRAAIDAQEBAQAAAAAAAAAAAAECAAMRIfAUwf/aAAwDAQACEQMRAD8Ab8d26Aylxa8M8gHQ7LX0rq2vf5HsD37/ABycrUauUhsLepsIzMOqK28hkJ1sMNnRH15u2MlirmaRKdWoqSgoQrKeoa7ld6PLJsPi4qUdu9TMkc1YwSys5PkuQV0PyCTpQhx+Jdem+FGr5gCfcixtS7QBp9+SfhGIUusdOk3UOllYb6gPbTe3px3GRY2jZNqjiKVecgr5teBEbR7jYXtyTu46F2cVWyFXf3S1hZgPnalfrxJa2brMWpXak/6Opib+Rsf5yqu5LBqyCyh6zhmQPBWKnQiM2YCwI6onAP8AYPPQIcpcgwlDFrMfstOBK66HSXCjQLEdz6ftw4cKsdn4x2JqgUcETLljs84YDWx34cOZDh5ON2f/2Q=="
+/>
+
+**Stanley:** Irgendwann war ich auf der Suche nach Alternativen zu tierischem
+Leder. Das Material sollte auf Basis nachwachsender und pflanzlicher Ressourcen
+sein und ich bin auch fündig geworden. Heute bieten wir bei Vegatar
+verschiedenen Materialien an: Eukalyptusfasern, Bio-Baumwolle und sogar
+Ananasfasern.
 
 Neben den Materialien, die man direkt bei uns beziehen kann, gehen wir auch auf
 unsere Kundenwünsche ein. Diese sind vor allem auch Handtaschen, welche stylisch
@@ -68,7 +80,10 @@ Darüber hinaus ist meine Mom mit verantwortlich für den Versand in und aus
 Deutschland. Bei der Herstellung in Handarbeit greifen wir auf verschiedene,
 kleinere Familienbetriebe zurück, welche wir sorgfältig auswählen.
 
-## "Der Name spiegelt unsere Firmenphilosophie wider" **Anne:** Wie seid Ihr auf den tollen Namen Vegatar gekommen? Hat er eine besondere Bedeutung?
+## "Der Name spiegelt unsere Firmenphilosophie wider"
+
+**Anne:** Wie seid Ihr auf den tollen Namen Vegatar gekommen? Hat er eine
+besondere Bedeutung?
 
 **Stanley:** Auf der Suche nach einem universellen und allumfassenden Namen, der
 unsere Firmenphilosophie widerspiegelt, fiel mir die Bedeutung des Wortes
@@ -102,7 +117,14 @@ fühlen darf, der auch die Vision lebt, körperlich und geistig stets lebhaft,
 munter, und voller Freude zu sein, das Leben zu genießen und dazu beitragen zu
 wollen, diese Freude mit der Welt zu teilen.
 
-## "Mit dem wachsenden Bewusstsein wachsen die Möglichkeiten" **Anne:** Ich persönlich trage schon lange Zeit Schuhe und Taschen aus Stoff und Kunstleder, da ich das Tragen von Tierhaut schon immer sehr befremdlich fand. Erst seit Kurzem gibt es diese Dinge ja jetzt mit dem Label "vegan", sprich, es gibt Firmen, die garantieren, dass nicht nur das Obermaterial, sondern auch alle weiteren verarbeiteten Materialien, wie zum Beispiel der Kleber ohne tierische Stoffe auskommen.
+## "Mit dem wachsenden Bewusstsein wachsen die Möglichkeiten"
+
+**Anne:** Ich persönlich trage schon lange Zeit Schuhe und Taschen aus Stoff und
+Kunstleder, da ich das Tragen von Tierhaut schon immer sehr befremdlich fand.
+Erst seit Kurzem gibt es diese Dinge ja jetzt mit dem Label "vegan", sprich, es
+gibt Firmen, die garantieren, dass nicht nur das Obermaterial, sondern auch alle
+weiteren verarbeiteten Materialien, wie zum Beispiel der Kleber ohne tierische
+Stoffe auskommen.
 
 Einige dieser Produkte habe ich auch schon ausprobiert. Ein paar Mal musste ich
 leider feststellen, dass die Qualität nicht so toll war. Entweder war die
@@ -113,15 +135,19 @@ Nähte waren aufgegangen. Wie erklärst du Dir das? Liegt das daran, dass die
 veganen Produkte oft von Newcomern hergestellt werden, die noch dazulernen
 müssen?
 
-<RemoteImage
-  alt="Vegatar Gründer Stanley"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_IMG_4870_Fotor_small-333x250__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_IMG_4870_Fotor_small-333x250__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQgE/8QALBAAAQQBAwMDAQkAAAAAAAAAAQIDBBEFABIhBhMxB1FhcRQVIjJBQpGSof/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAcEQEAAgMAAwAAAAAAAAAAAAABABECAyEEMVH/2gAMAwEAAhEDEQA/AEN1siMOts992iognvhoXfG8+Pi7r40QoT08xWI7LrzslYZZDKdyio8ba9zzrkdQ6525cor7swuPAqQRuG4jeD4Nq3/11fYcOvOQHMW6uJIBQGnG1bO0+BSTfyRV/I1uqxr5Gbqa39PswnLdGYqW7IQuWhkRpYSoGnmwEKv+L+ihqzelxQrc5ISgfvJWOfb9frpB+heRWxkJWCkpUW5QVKDZApt1KacF+xA/waaT7DbcntlhJBtQUlNi/NeNStnhhk0wpvQ9RT+sLMPIYPJzkLDuRguQmnQ03+BoIDiXLPgWXhx8aVWCyT0YKYYjIkOuLSUJKSVbvAAA881x7gaNGqYcgNbZNJdJ9OsdP4kKiRWImWlRkLlPSF95fcIBWirFJBJ/LxxzepiT3V9mY0PtKQKKApAVXgIUb4Jq9GjSw31g8ns//9k=" />
+## "Wir sollten die zukunftsweisenden Materialien tiefer erforschen"
 
-## "Wir sollten die zukunftsweisenden Materialien tiefer erforschen" **Stanley:** Zum einen liegt es sicherlich daran, dass an solchen zukunftsweisenden Materialien noch nicht sehr lang geforscht und entwickelt wird. Mit wachsendem Bewusstsein und der Nachfrage nach solchen Materialien, unseren heutigen Technologien und Möglichkeiten sind wir allerdings auf einem sehr guten Weg.
+<RemoteImage alt={`Vegatar Gründer Stanley`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_IMG_4870_Fotor_small-333x250__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_IMG_4870_Fotor_small-333x250__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQgE/8QALBAAAQQBAwMDAQkAAAAAAAAAAQIDBBEFABIhBhMxB1FhcRQVIjJBQpGSof/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAcEQEAAgMAAwAAAAAAAAAAAAABABECAyEEMVH/2gAMAwEAAhEDEQA/AEN1siMOts992iognvhoXfG8+Pi7r40QoT08xWI7LrzslYZZDKdyio8ba9zzrkdQ6525cor7swuPAqQRuG4jeD4Nq3/11fYcOvOQHMW6uJIBQGnG1bO0+BSTfyRV/I1uqxr5Gbqa39PswnLdGYqW7IQuWhkRpYSoGnmwEKv+L+ihqzelxQrc5ISgfvJWOfb9frpB+heRWxkJWCkpUW5QVKDZApt1KacF+xA/waaT7DbcntlhJBtQUlNi/NeNStnhhk0wpvQ9RT+sLMPIYPJzkLDuRguQmnQ03+BoIDiXLPgWXhx8aVWCyT0YKYYjIkOuLSUJKSVbvAAA881x7gaNGqYcgNbZNJdJ9OsdP4kKiRWImWlRkLlPSF95fcIBWirFJBJ/LxxzepiT3V9mY0PtKQKKApAVXgIUb4Jq9GjSw31g8ns//9k="
+/>
+
+**Stanley:** Zum einen liegt es sicherlich daran, dass an solchen
+zukunftsweisenden Materialien noch nicht sehr lang geforscht und entwickelt
+wird. Mit wachsendem Bewusstsein und der Nachfrage nach solchen Materialien,
+unseren heutigen Technologien und Möglichkeiten sind wir allerdings auf einem
+sehr guten Weg.
 
 Bei Newcomern spielen die Erfahrungswerte bestimmt auch eine Rolle und positiv
 betrachtet kann man daran festhalten, dass diese dazulernen und sich auch
@@ -164,7 +190,11 @@ Bewusstseinsentwicklung der Menschheit, einen Paradigmenwechsel. Wir alle
 wünschen uns Frieden und Harmonie und wir haben die Macht, das in allen
 Lebensbereichen zu verwirklichen.
 
-## "Über 80 Prozent natürliche Inhaltsstoffe" **Anne:** Du hast ja schon erzählt, dass bei Euch zum Beispiel Ananas- und Eukalyptusfasern verarbeitet. werden. Möchtest Du mir etwas über Eure Erfahrungen damit erzählen?
+## "Über 80 Prozent natürliche Inhaltsstoffe"
+
+**Anne:** Du hast ja schon erzählt, dass bei Euch zum Beispiel Ananas- und
+Eukalyptusfasern verarbeitet. werden. Möchtest Du mir etwas über Eure
+Erfahrungen damit erzählen?
 
 **Stanley:** Bei der ersten Kollektion der DiOsA Handtaschen setzen wir auf ein
 bewährtes Material aus Eukalyptusfaser. Bei der Entwicklung des
@@ -197,7 +227,12 @@ somit eine absolute Neuheit darstellt.
 
 **Anne:** Wo bezieht Ihr das Material?
 
-## "Das Material wird in Deutschland hergestellt" **Stanley:** Das Material aus Eukalyptusfasern wird in Deutschland hergestellt und die Fasern selbst stammen aus verschiedenen Ländern. Das Material aus Ananasfasern wird in England und Spanien entwickelt und die Fasern stammen von den Philippinen.
+## "Das Material wird in Deutschland hergestellt"
+
+**Stanley:** Das Material aus Eukalyptusfasern wird in Deutschland hergestellt
+und die Fasern selbst stammen aus verschiedenen Ländern. Das Material aus
+Ananasfasern wird in England und Spanien entwickelt und die Fasern stammen von
+den Philippinen.
 
 **Anne:** Wo werden deine Taschen gefertigt?
 
@@ -209,12 +244,23 @@ einzelnen Produktionsschritt.
 sondern zudem auch Erdöl. Wie schreiten die Pläne voran, in Zukunft ganz auf
 Naturfasern zu setzen?
 
-## "Das Ananasleder ist frei von Erdöl" **Stanley:** Beim Eukalyptusmaterial sind noch knapp 20 Prozent erdölbasiert. Das Ziel sind eindeutig 100 Prozent nachwachsende und natürliche Ressourcen. Status quo zählt es zu den nachhaltigsten Materialien auf dem Markt, mit einer ausgesprochen hohen Qualität. Das Ananasfasermaterial beinhaltet sogar null Komma null Erdölanteil.
+## "Das Ananasleder ist frei von Erdöl"
+
+**Stanley:** Beim Eukalyptusmaterial sind noch knapp 20 Prozent erdölbasiert.
+Das Ziel sind eindeutig 100 Prozent nachwachsende und natürliche Ressourcen.
+Status quo zählt es zu den nachhaltigsten Materialien auf dem Markt, mit einer
+ausgesprochen hohen Qualität. Das Ananasfasermaterial beinhaltet sogar null
+Komma null Erdölanteil.
 
 **Anne:** Plant Ihr auch, Euer Geschäft irgendwann auszuweiten? Wird es
 vielleicht schon bald Schuhe oder Jacken aus veganem Leder geben?
 
-## "Wir haben auch vegane Schuhe im Sortiment" **Stanley:** Pläne dazu gibt es, ja. Zum einen soll Vegatar der weltweit größte Zulieferer für vegane Materialen und Lederalternativen werden. Zum anderen soll auch die Palette an Produkten aus nachhaltigen Materialien zunehmen. Dabei orientieren wir uns an den Wünschen unserer Kund⋆innen.
+## "Wir haben auch vegane Schuhe im Sortiment"
+
+**Stanley:** Pläne dazu gibt es, ja. Zum einen soll Vegatar der weltweit größte
+Zulieferer für vegane Materialen und Lederalternativen werden. Zum anderen soll
+auch die Palette an Produkten aus nachhaltigen Materialien zunehmen. Dabei
+orientieren wir uns an den Wünschen unserer Kund⋆innen.
 
 Schuhe haben wir unter anderem schon im Sortiment. Jedoch ist hier der Aufwand
 noch mal ein anderer, da bekanntlich jeder Fuß ganz individuell ist und der
@@ -233,15 +279,15 @@ Zunächst begann es bei mir auch bei der Ernährung. Ziemlich schnell wurde mir
 dann bewusst, dass das Thema viel umfassender ist und ich gern in allen
 Lebensbereichen einen positiven Wandel bewirken möchte.
 
-<RemoteImage
-  alt="Vegatar Gründer Stanley"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_DSC_9432_Fotor_small-373x250__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_DSC_9432_Fotor_small-373x250__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgME/8QAKRAAAgEDAwIGAgMAAAAAAAAAAQIDBAURAAYhEhMHFCIxQWEyUXGB4f/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAgQF/8QAHBEAAgIDAQEAAAAAAAAAAAAAAAECEQMhMRIy/9oADAMBAAIRAxEAPwBUs24bnalFBLNdKmCJigjmyUjZXKq0eAfRjgjn+xpq2/u+9VVVVWu5Vc0NLFGvbl8ukgVQrMVCgBs/akYHOqvUbS2bFbJJZ7ZRIjA57MroWJOeMN++dSLxHqrPZlNZaKaVZO95YwvIW7YwPV1N6vVyAOBn61mup5KbLOOEvtcRhtW6RwruFq+bE1HEyR+ZCLJIhyyjg8nAx8+3POlrZ246WvkpjLAFqniMk6UYdpFBTpyq8nOOeOMnWixUNn3DuilinqZoaKpdYp3jPS6L/JBwckj299XeDw4t9oVxb7lc6aUklpUMQkY8DJPR8AAYAxgDTJY/NUCbt60d0e3bdWwR5WeAq3UphmK4OP8AdLHiB4Yx1VqhNPclhiiMjFGpQ5ct0nJYMCSCowTo0aXF+eBcnfSVbcsTSbhmp4qkQJCFd+3H+eD9k4+T8++rRXbwq1p5HMEJ6VLY55wNGjT/AKqyM9M//9k=" />
+## "Bevor wir Mitgefühl erwarten, sollten wir Mitgefühl zeigen"
 
-## "Bevor wir Mitgefühl erwarten, sollten wir Mitgefühl zeigen" **Anne:** Wie kann man hier am besten aufklären?
+<RemoteImage alt={`Vegatar Gründer Stanley`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_DSC_9432_Fotor_small-373x250__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_DSC_9432_Fotor_small-373x250__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgME/8QAKRAAAgEDAwIGAgMAAAAAAAAAAQIDBAURAAYhEhMHFCIxQWEyUXGB4f/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAgQF/8QAHBEAAgIDAQEAAAAAAAAAAAAAAAECEQMhMRIy/9oADAMBAAIRAxEAPwBUs24bnalFBLNdKmCJigjmyUjZXKq0eAfRjgjn+xpq2/u+9VVVVWu5Vc0NLFGvbl8ukgVQrMVCgBs/akYHOqvUbS2bFbJJZ7ZRIjA57MroWJOeMN++dSLxHqrPZlNZaKaVZO95YwvIW7YwPV1N6vVyAOBn61mup5KbLOOEvtcRhtW6RwruFq+bE1HEyR+ZCLJIhyyjg8nAx8+3POlrZ246WvkpjLAFqniMk6UYdpFBTpyq8nOOeOMnWixUNn3DuilinqZoaKpdYp3jPS6L/JBwckj299XeDw4t9oVxb7lc6aUklpUMQkY8DJPR8AAYAxgDTJY/NUCbt60d0e3bdWwR5WeAq3UphmK4OP8AdLHiB4Yx1VqhNPclhiiMjFGpQ5ct0nJYMCSCowTo0aXF+eBcnfSVbcsTSbhmp4qkQJCFd+3H+eD9k4+T8++rRXbwq1p5HMEJ6VLY55wNGjT/AKqyM9M//9k="
+/>
+
+**Anne:** Wie kann man hier am besten aufklären?
 
 **Stanley:** Die Motivation und Entscheidung steckt in jedem von uns. Meiner
 Meinung nach können wir nur mit Liebe und Fürsorge an das Thema herangehen. Das
@@ -255,7 +301,11 @@ Dies schließt aber auch das Leben ein, welches eine abweichende Erkenntnis zu
 meiner besitzt. Wir können nur selbst Vorbilder sein, indem wir vorleben, was
 möglich ist. Das ist in meinen Augen die Beste Aufklärung.
 
-## "Viele inspirierende Menschen leben vegan" **Anne:** Du hast mir ja schon erzählt, dass auch Du vegan lebst. Wann hast Du Dich für die Umstellung entschieden? Du meintest, dass Du mit der Ernährung angefangen hast?
+## "Viele inspirierende Menschen leben vegan"
+
+**Anne:** Du hast mir ja schon erzählt, dass auch Du vegan lebst. Wann hast Du
+Dich für die Umstellung entschieden? Du meintest, dass Du mit der Ernährung
+angefangen hast?
 
 **Stanley:** 2010 rückte in mein Bewusstsein, dass viele für mich inspirierende
 Menschen vegan oder vegetarisch leben. Persönlichkeiten, die auf
@@ -276,10 +326,10 @@ Vegan Fashion Award von PETA für die Kategorie "Beste Accessoires Herren".
 **Anne:** Gab es einen bestimmten Auslöser für dich?
 
 **Stanley:** Den ersten Schlüsselmoment hatte ich 2009 bei der Dokumentation
-"Earthlings". Dieser Film brachte mich kräftig zum Nachdenken. Unter anderem
-darüber, welch großen Einfluss wir anhand unseres Essverhaltens auf unseren
-Planeten haben. Ich war am Heulen wie ein Schlosshund und rührte das erste Mal
-in meinem Leben wochenlang kein Fleisch an.
+"[Earthlings](/2020/07/earthlings/)" . Dieser Film brachte mich kräftig zum
+Nachdenken. Unter anderem darüber, welch großen Einfluss wir anhand unseres
+Essverhaltens auf unseren Planeten haben. Ich war am Heulen wie ein Schlosshund
+und rührte das erste Mal in meinem Leben wochenlang kein Fleisch an.
 
 **Anne:** Gerade läuft in Paris die Klimakonferenz. Unser täglicher Konsum
 tierischer Produkte ist einer der größten Treiber der Klimaerwärmung, der leider
@@ -287,7 +337,12 @@ viel zu häufig vergessen wird. Ist unser Klima noch zu retten? Wie kann man
 deiner Meinung nach möglichst viele Menschen davon überzeugen, woran es wirklich
 hakt?
 
-## "Viele befinden sich in einem Zustand der Ohnmacht" **Stanley:** Meiner Meinung nach hakt es unter anderem daran, dass sich die meisten Menschen in einem Zustand der Ohnmacht befinden und nicht daran glauben, etwas bewirken zu können. Der einzelne Mensch trägt einen enormen Beitrag dazu bei, dass sich das Klima und die Natur verändern.
+## "Viele befinden sich in einem Zustand der Ohnmacht"
+
+**Stanley:** Meiner Meinung nach hakt es unter anderem daran, dass sich die
+meisten Menschen in einem Zustand der Ohnmacht befinden und nicht daran glauben,
+etwas bewirken zu können. Der einzelne Mensch trägt einen enormen Beitrag dazu
+bei, dass sich das Klima und die Natur verändern.
 
 Noch vor wenigen hundert Jahren waren noch etwa 98 Prozent der Tiere Wildtiere.
 Der Bestand an "Nutztieren", die sich die Menschen hielten war mit zwei Prozent
@@ -313,7 +368,9 @@ meiner Meinung nach die Überzeugungskraft darin, dass die Macht, einen positive
 Wandel zu bewirken, in jedem von uns steckt. So lassen sich am schnellsten
 Ergebnisse erzielen, ohne dass wir Jahre und Jahrzehnte debattieren müssen.
 
-## "Durch mein veganes Leben begegne ich wundervollen Menschen" **Anne:** Was ist für dich das Schönste am veganen Leben?
+## "Durch mein veganes Leben begegne ich wundervollen Menschen"
+
+**Anne:** Was ist für dich das Schönste am veganen Leben?
 
 **Stanley:** Die lieben und wundervollen Menschen, mit denen ich dadurch in
 Kontakt komme. Darüber hinaus natürlich mein fantastisches Wohlbefinden,

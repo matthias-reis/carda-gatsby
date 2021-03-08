@@ -12,9 +12,10 @@ excerpt: Das weltberühmte Kilkenny Castle befindet sich auf einer leichten
   zurück.
 focusKeyword: Kilkenny Castle
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
   - Castle
   - Castle Of Butlers
+  - Fernweh
   - Geschichte
   - Ireland
   - Irland
@@ -22,7 +23,6 @@ labels:
   - Kilkenny
   - Kilkenny Castle
   - Office of Public Works
-  - Reisen
   - Reisen
   - travelling
 type: Galerie mit Bild

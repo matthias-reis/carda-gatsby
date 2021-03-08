@@ -12,7 +12,7 @@ excerpt: Es ist soweit! Unser Roman wurde veröffentlicht und kann ab sofort
   präsentieren.
 focusKeyword: Die Hermetiker
 labels:
-  - Tagebuch
+  - Geschichten & Erlebtes
 type: Artikel
 typeName: Artikel
 date: 2019-03-11T15:23:31.000Z
@@ -35,13 +35,10 @@ _Werbung in eigener Sache\*_
 werden! Wir sind sehr stolz und freuen uns! Alle Fans von Thriller und Urban
 Fantasy sollten jetzt in den Buchladen gehen!**
 
-<RemoteImage
-  alt=""
-  size="medium"
-  title=""
-  mediumUrl="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=3748126522&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL250_&amp;tag=cardamonchai-21"
-  largeUrl="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=3748126522&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL250_&amp;tag=cardamonchai-21"
-  loadingUrl="undefined" />
+<RemoteImage alt={`} size="medium" title={`}
+mediumUrl="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=3748126522&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=\_SL250_&amp;tag=cardamonchai-21"
+largeUrl="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=3748126522&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=\_SL250_&amp;tag=cardamonchai-21"
+loadingUrl="undefined" />
 
 Die letzten Tage waren sehr spannend für Matze und mich. Am Sonntag, den 3.
 Februar haben wir unser Buch bei BOD veröffentlicht. Das bedeutet: An diesem Tag

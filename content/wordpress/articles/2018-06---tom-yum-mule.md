@@ -17,6 +17,7 @@ labels:
   - Limette
   - Tom Yum
   - vegan
+  - vegane Rezepte
   - Vegane Rezepte
   - Zitronengras
 type: Artikel

@@ -11,11 +11,11 @@ excerpt: Was bedeutet Glück auf Erden? Erdbeeren mit Sahne? Ist nicht alles
 focusKeyword: spielt keine Rolle
 labels:
   - Gedicht
+  - Geschichten & Erlebtes
   - Gesellschaft
-  - Lyrik
   - Politik
   - Wille
-type: Galerie
+type: Artikel
 typeName: Gedicht
 date: 2018-11-11T17:26:38.000Z
 status: publish
@@ -30,15 +30,9 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
   
 ---
 
-<RemoteImage
-  alt="spielt-keine-rolle"
-  size="large"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_experiment-schmetteraffe-in-wasserraum_11844120086_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_experiment-schmetteraffe-in-wasserraum_11844120086_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAaACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFAgj/xAAnEAACAQIFBAIDAQAAAAAAAAABAgMEEQAFBhIhEyIxQWFxBxRRkf/EABcBAAMBAAAAAAAAAAAAAAAAAAIEBQP/xAAdEQACAgMBAQEAAAAAAAAAAAABAgMRAAQhElFx/9oADAMBAAIRAxEAPwDzsLk2Hn7GKltLLPQQVOVTtWPtH7MS2LRMQDxxyPIv/RbEpR1KdYFu23yMWWRzlq6IU1RsdwVFnFj8H7xdIuMyIer2vuNKARec1umYulDL1VpkSmUSptu5kF73FrAn5xIS2ildHIG025thA11IGyxu94Z4pUBKuLS3S5Df0rYf7zg1mcSyd7Et9+cT9NpRF6ka7PPzNtmSNyCi1m9lenf3qlIgACxAvuNhhKy78YRZfNSVZrl6kMiS7Xa68G/I9ji1vnEbkzFapipKkDgji3GEDTc8sgqhJLI432szE+0xAfalDUGOOR68fi6zC1Bps1WWGiikNxVS1rT7SS5kLAqp9L2qcHGb6brMr757AHxcYetSTSwxFYpHjVQQArEW5wH55PLLmi9SWR7xAncxPvBx7UjNV8wZNaMJZHc//9k=" />
+<blockquote>
 
-> Glück auf Erden Kummer und Sorgen Erdbeeren mit Sahne Dreck und Staub
+Glück auf Erden Kummer und Sorgen Erdbeeren mit Sahne Dreck und Staub
 
 Schönheit und Respekt Ich spuck Dir in die Suppe Harmonische Klänge Es kracht im
 Gebälk
@@ -52,5 +46,13 @@ Du brauchst nicht wegzurennen Sie kriegen Dich Überbringen Dir ihre Nachrichten
 Und zeigen Dir ihr Mitgefühl
 
 Ob Du es willst, ist zweitrangig Es spielt keine Rolle
+
+</blockquote>
+
+<RemoteImage alt={`spielt-keine-rolle`} size="large" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_experiment-schmetteraffe-in-wasserraum_11844120086_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_experiment-schmetteraffe-in-wasserraum_11844120086_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAaACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFAgj/xAAnEAACAQIFBAIDAQAAAAAAAAABAgMEEQAFBhIhEyIxQWFxBxRRkf/EABcBAAMBAAAAAAAAAAAAAAAAAAIEBQP/xAAdEQACAgMBAQEAAAAAAAAAAAABAgMRAAQhElFx/9oADAMBAAIRAxEAPwDzsLk2Hn7GKltLLPQQVOVTtWPtH7MS2LRMQDxxyPIv/RbEpR1KdYFu23yMWWRzlq6IU1RsdwVFnFj8H7xdIuMyIer2vuNKARec1umYulDL1VpkSmUSptu5kF73FrAn5xIS2ildHIG025thA11IGyxu94Z4pUBKuLS3S5Df0rYf7zg1mcSyd7Et9+cT9NpRF6ka7PPzNtmSNyCi1m9lenf3qlIgACxAvuNhhKy78YRZfNSVZrl6kMiS7Xa68G/I9ji1vnEbkzFapipKkDgji3GEDTc8sgqhJLI432szE+0xAfalDUGOOR68fi6zC1Bps1WWGiikNxVS1rT7SS5kLAqp9L2qcHGb6brMr757AHxcYetSTSwxFYpHjVQQArEW5wH55PLLmi9SWR7xAncxPvBx7UjNV8wZNaMJZHc//9k="
+/>
 
   

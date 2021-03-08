@@ -1,6 +1,6 @@
 ---
 title: Die Bastelei
-seoTitle: Der Mixtape-Tausch Teil 1 - Die Bastelei
+seoTitle: Der Mixtape-Tausch Teil 1/2 - Die Bastelei
 slug: der-mixtape-tausch
 path: /2011/08/der-mixtape-tausch/
 fileName: 2011-08---die-bastelei.md
@@ -16,7 +16,7 @@ labels:
   - And You Will Know Us By The Trail Of Dead
   - Angus & Julia Stone
   - Austausch
-  - Bands & Reviews
+  - Bands
   - Black Rebel Motorcylcle Club
   - Blogger
   - Bon Iver
@@ -26,11 +26,11 @@ labels:
   - Death Cab For Cutie
   - Die Sterne
   - digital
-  - DIY
   - DJ
   - Fantasie
   - Fotostory
   - Freundschaft
+  - Geschichten & Erlebtes
   - Ginsberg
   - Gisbert zu Knyphausen
   - gute alte Zeiten
@@ -63,9 +63,14 @@ thumbnailId: "2520"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_img_8192__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_img_8192__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAFAwf/xAAnEAACAQMEAgIBBQAAAAAAAAABAgMEBREAEiExBkEUUSITMmFxsf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAX/xAAeEQACAgICAwAAAAAAAAAAAAABAgADETEEIUFR8P/aAAwDAQACEQMRAD8AIUNcYVqUr5YRT7gr7iCIZNucn6A4PHr+takkUdwSOSaoYtE0bqI3AV32neG7z2ONHornZaW4z1dUI565oVk2xxBSVz0AeCWyvfoa9I8WNGfE6/yiliqkqKl3nIAQygRnZtAwVAwvOOcDvQRArDA6gp5DlXLecTJtlBBLOV/Sp8lWP5RA4IGfrSnxm2235pkuFrt9fACBtlplkPK9kH1n1/Gu1jkj8g8aW71eVqIZ/wAJGQIxAIBGRgMpz3gc5Gjy36GlrUSWREKuFJIYHAO04xxyBnT3EBg2JXWDZUVH2oNhoKSGKArArFMqrSEuwGOsn1rXhna3QK8WdqZwinaBnvGOs6tWlY4EyuH2Dn3FtP5F8OFhJTNKEXIAl2/6DoJ5Xflut3etamaMmFI9hk3ftz72j761atT2u2pp0qNz/9k=
-subTitle: Der Mixtape-Tausch Teil 1
+subTitle: Der Mixtape-Tausch Teil 1/2
   
 ---
+
+**Nachdem ich mich mit einem anderen Blogger eine ganze Zeit lang über Musik
+unterhalten hatte und wir uns auch den ein oder anderen Musiktipp via
+youtube-Link geschickt hatten, kamen wir auf die Idee, wie in den guten alten
+Zeiten ein Mixtape zusammenzustellen.**
 
 Richtig auf Kassette mit zwei Seiten und Vor- und Zurückspulen und allen
 Schikanen. Zusätzlich sollte Das Tape noch auf CD gebrannt werden, um das
@@ -73,7 +78,7 @@ Abspielen auf modernen Geräten zu gewährleisten.
 
 Gesagt getan. Jeder machte sich daran, eine Kassette zusammenzustellen, übers
 Wochenende sollte alles fertig sein, damit wir beide unser Werk am Montag zur
-Post bringen konnten, um den Tausch perfekt zu machen, sollten natürlich beide
+Post bringen konnten, um den Tausch perfekt zu machen,  sollten natürlich beide
 Musikpakete gleichzeitig ankommen. Dieser Beitrag widmet sich nun der Bastelei
 des Mixtapes, das ich dem Blogger "Ginsberg" zugeschickt habe, der nächste
 Beitrag handelt von seinem Tape.
@@ -84,51 +89,70 @@ Beitrag handelt von seinem Tape.
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8222__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8222__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8221__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8221__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8219__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8219__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8212__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8212__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8208__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8208__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8207__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8207__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8204__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8204__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8203__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8203__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8202__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8202__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8200__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8200__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8199__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8199__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8198__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8198__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8196__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8196__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8194__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8194__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8192__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8192__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8191__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8191__l.jpg"}]}
 />
 
-## Die Musik### Seite A **1.) Sigur Ròs - Með Blóðnasir**
+## Die Musik
 
-[youtube=http://www.youtube.com/watch?v=2Eck_inLh-0&amp;feature=watch_response]
+### Seite A
 
-2.) **Bon Iver - Blood Bank**
+<h5>1.) Sigur Ròs - "Með Blóðnasir"
+<iframe src="https://www.youtube.com/embed/5U2zFQxbVa0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h5>
 
-[youtube=http://www.youtube.com/watch?v=k-BZ0D92mtU] **3.)** **Death Cab For
-Cutie - Crooked Teeth**
+#### 2.) Bon Iver - "Blood Bank"
 
-[youtube=http://www.youtube.com/watch?v=fz9zh5eLRi8]
+<h5><iframe src="https://www.youtube.com/embed/ltIozO0pBms" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ ____ 3.)  Death Cab For Cutie - "Crooked Teeth"</h5>
 
-4.) **And You Will Know Us By The Trail Of Dead - Will You Smile Again?**
-**[youtube=http://www.youtube.com/watch?v=wbTRGuP6XeU]** **5.) Black Rebel
-Motorcycle Club - As Sure As The Sun**
+<h5><iframe src="https://www.youtube.com/embed/ar1_tEg4Nxs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+4.) And You Will Know Us By The Trail Of Dead - "Will You Smile Again?"
+<iframe src="https://www.youtube.com/embed/5yKeUQcNsdI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h5>
 
-[youtube=http://www.youtube.com/watch?v=b3Hc45Wy-gI]
+#### 5.) Black Rebel Motorcycle Club - "As Sure As The Sun"
 
-**6.) Die Sterne - Themenläden** **
-[die-sterne-themenladen-1](http://soundcloud.com/tichy-1313/die-sterne-themenladen-1)
-** (Soundclouddatei, zum Anhören einfach auf den Link klicken)
+<iframe src="https://www.youtube.com/embed/pbT-ooPlSqQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**7.) Calexico - All The Pretty Horses**
+#### 6.) Die Sterne - "Themenläden"
 
-[youtube=http://www.youtube.com/watch?v=iytkbMbahvY]
+<iframe src="https://www.youtube.com/embed/RIAroIpnE0Q" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-### Seite B **8.) The Tallest Man On Earth - Where Do My Bluebird Fly**
+#### 7.) Calexico - "All The Pretty Horses"
 
-[youtube=http://www.youtube.com/watch?v=zG2ccH8jlCA]
+<iframe src="https://www.youtube.com/embed/WyX4xeEU_30" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**9.) The Pixies - Hey**
+### Seite B
 
-[youtube=http://www.youtube.com/watch?v=PIkWJZf33UY]
+#### 8.) The Tallest Man On Earth - "Where Do My Bluebird Fly"
 
-**10.) Pavement - Shady Lane**
+<iframe src="https://www.youtube-nocookie.com/embed/zG2ccH8jlCA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-[youtube=http://www.youtube.com/watch?v=iY91hVZqhHY]
+#### 9.) Pixies - "Hey"
 
-**11.) Two Gallants - Despite What You´ve Been Told**
+<iframe src="https://www.youtube-nocookie.com/embed/tVCUAXOBF7w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-[youtube=http://www.youtube.com/watch?v=JmK3h71cN80]
+#### 10.) Pavement - "Shady Lane"
 
-**12.) Junip - To The Grain**
+<iframe src="https://www.youtube-nocookie.com/embed/G-mQxmrZJn8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-[youtube=http://www.youtube.com/watch?v=FmLFJOvWGw0]
+#### 11.) Two Gallants - "Despite What You´ve Been Told"
 
-### Bonus **13.) The Tallest Man On Earth - The Gardener** **[youtube=http://www.youtube.com/watch?v=M5DyCIdYfpA]** **14.) Gisbert zu Knyphausen - Kräne** **[youtube=http://www.youtube.com/watch?v=HUHCplJij4U]** **15.) Angus &amp; Julia Stone - For You** **[youtube=http://www.youtube.com/watch?v=9uWh-TlEQ4k&amp;list=FLaNjgTF8glhKXAJ-T3331qw&amp;index=212&amp;feature=plpp]** _ [Hier geht's zu Teil 2...](/2011/08/der-mixtape-tausch-2/) ** [](http://www.youtube.com/watch?v=b3Hc45Wy-gI) ** _ [](http://www.youtube.com/watch?v=b3Hc45Wy-gI) \_**\_ \_\_** **\_\_**
+<iframe src="https://www.youtube-nocookie.com/embed/_eVef-ub44k" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+#### 12.) Junip - "To The Grain"
+
+<iframe src="https://www.youtube-nocookie.com/embed/QnrMLKJr7eY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+### Bonus
+
+#### 13.) The Tallest Man On Earth - "The Gardener"
+
+<iframe src="https://www.youtube-nocookie.com/embed/Wa3lyo_Eowc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+#### 14.) Gisbert zu Knyphausen - "Kräne"
+
+<iframe src="https://www.youtube-nocookie.com/embed/HUHCplJij4U" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+#### 15.) Angus &amp; Julia Stone - "For You"
+
+<iframe src="https://www.youtube-nocookie.com/embed/9uWh-TlEQ4k" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+[Hier geht's zu Teil 2/2](/2011/08/der-mixtape-tausch-2/)
 
   

@@ -13,9 +13,10 @@ labels:
   - Botanik
   - Botanische Gärten
   - Botanischer Garten
-  - Brititsche Inseln
+  - Britische Inseln
   - Canterbury
   - England2009
+  - Fernweh
   - Flora
   - Fotos
   - Frühling
@@ -24,7 +25,6 @@ labels:
   - Natur
   - Pflanzen
   - Reise
-  - Reisen
   - Reisen
   - Sissighurst
   - Sissinghurst Garden
@@ -44,6 +44,12 @@ subTitle: Erinnerungen an den Frühling in England 2009 - Teil 2/17
   
 ---
 
+[_Teil 1/17_](/2009/05/uberfahrt-von-duncerque-nach-dover-10-05-2009/?preview=true&preview_id=1038&preview_nonce=6a6c4ce7e9)
+Sissinghurst liegt ca. 40 km südwestlich von Canterbury. Der Garten um den
+Landsitz wurde ab 1930 angelegt. Der Schlosspark ist gegen eine Spende an den
+National Trust öffentlich zugänglich und ist auf jeden Fall einen Besuch wert.
+Jährlich werden mehr als 16.000 Besucher gezählt.
+
 _ [Wikipedia](http://de.wikipedia.org/wiki/Sissinghurst_Castle) Sissinghurst
 Castle_ _
 [National Trust](http://www.nationaltrust.org.uk/main/w-vh/w-visits/w-findaplace/w-sissinghurst-castle/)
@@ -52,10 +58,12 @@ National Trust_
 
 <Gallery name="flickr/annesissinghurst2009" />
 
-_Hier geht's zu [Teil 3/17](/2009/05/glastonbury-11-05-2009/) _ ## England 2009
-Wegweiser1. 10. Mai 2009
-[Überfahrt von Duncerque nach Dover](/2009/05/uberfahrt-von-duncerque-nach-dover-10-05-2009/)
+_Hier geht's zu [Teil 3/17](/2009/05/glastonbury-11-05-2009/) _
 
+## England 2009 Wegweiser
+
+1.  10. Mai 2009
+        [Überfahrt von Duncerque nach Dover](/2009/05/uberfahrt-von-duncerque-nach-dover-10-05-2009/)
 1.  10. Mai 2009 [Sissinghurst Castle](/2009/05/sissinghurst-castle/)
 1.  11. Mai 2009 [Glastonbury](/2009/05/glastonbury-11-05-2009/)
 1.  11. Mai 2009 [Stonehenge](/2009/05/stonehenge-11-05-2009/)
@@ -73,6 +81,7 @@ Wegweiser1. 10. Mai 2009
 1.  19. Mai 2009 [Bradstock](/2009/05/bradstock-19-05-2009/)
 1.  20. Mai 2009 [Dorchester](/2009/05/dorchester/)
 1.  21. Mai 2009 [London](/2009/05/london-21-05-2009/)
-        [Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+[Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
   

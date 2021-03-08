@@ -11,6 +11,7 @@ excerpt: Heute habe ich meine lieben Stubentiger fotografiert. Sie haben sich
   Meisterstück." (Leonardo da Vinci)
 focusKeyword: Stubentiger
 labels:
+  - Geschichten & Erlebtes
   - Igers
   - Instagram
   - Katzen
@@ -18,7 +19,6 @@ labels:
   - Sanni
   - Sannilejo
   - Stubentiger
-  - Tagebuch
 type: Galerie
 typeName: Galerie
 date: 2015-12-09T19:47:22.000Z
@@ -34,9 +34,11 @@ subTitle: Fotosessin mit Oskar und Chili
   
 ---
 
+> Das kleinste Katzentier ist ein Meisterstück. (Leonardo da Vinci)
+
 Heute war die liebe Sanni [<sup>1</sup>](#1) zu Besuch. Gemeinsam haben wir eine
 Fotosession mit Chili und Oskar gemacht. Ich bin schon supergespannt auf ihre
-Aufnahmen, sie fotografiert sehr oft Tiere und ich finde sie macht wirklich
+Aufnahmen, sie fotografiert sehr oft Tiere und ich finde sie macht wirklich
 klasse Bilder.
 
 ## Die Stubentiger haben posiert
@@ -48,10 +50,11 @@ ist dabei doch eine kleine Galerie entstanden, die ich hier mit Euch teile.
 <Gallery name="flickr/anneoskarchili20151209" />
 
 > Das Leben und dazu ein Stubentiger, das gibt eine unglaubliche Summe (Frei
-> nach Rainer-Maria Rilke)-
-> [1][sanni bei instagram](https://www.instagram.com/sannialejo/)
+> nach Rainer-Maria Rilke)
 
+- [1][sanni bei instagram](https://www.instagram.com/sannialejo/)
 - [2][ich bei instagram](https://www.instagram.com/anne_reko/)
-  [Hier gehts zur "ODE AN DEN KATER" Ein Text, wie er ehrlicher nicht sein könnte, gewidmet Chili und Oskar, den beiden tollsten Katern auf der Welt](/2012/08/ode-an-den-kater/)
+
+[Hier gehts zur "ODE AN DEN KATER" Ein Text, wie er ehrlicher nicht sein könnte, gewidmet Chili und Oskar, den beiden tollsten Katern auf der Welt](/2012/08/ode-an-den-kater/)
 
   

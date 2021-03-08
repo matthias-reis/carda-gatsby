@@ -16,12 +16,12 @@ labels:
   - Frühling
   - Gedanken
   - Gedicht
-  - Lyrik
+  - Geschichten & Erlebtes
   - Lyrik
   - Ostern
   - Sonne
 type: Artikel
-typeName: Artikel
+typeName: Gedicht
 date: 2016-03-24T13:31:38.000Z
 status: publish
 isWerbung: false
@@ -35,13 +35,11 @@ subTitle: Flarf-Gedicht zum Frühling
   
 ---
 
-<RemoteImage
-  alt="Sonne"
-  size="medium"
-  title="Sonne und Frieden"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-1-von-4__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-1-von-4__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EACkQAAIBAwIEBQUAAAAAAAAAAAECAwQFEQASBhMhMSJBUZGxBxQjYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AgaL6l2iaOO11xkdgCgCu6ENnIG9Bhsk5ycdjkHUTPebRNQOBFWNTmdYqq5VDyNDEclljGCQpYA4PxqpcGcILcuIad6+Xl0LwvWbVxmWMKS20jtg9O3fVVVJpJjRSNLCJZlVo5CVAJOAWX1AOg6foIFknmYAYEcLAlumdin4xql3iqitthq6yXlgCtYePdtJwQAcAnz9NOuF5Lnb6aCmrubzIaBEcyKQDKrBdoY9/CB28gNI3ekV7MlKzuzyVLT/jxndkYAyOvfQO7aKW3RqtDRxQpHkqqk4GT1x76xnitAvGFyKhVX7/AAFUYABKnp/NGjQbVxDJJdacwlzBypDIrRjqCD+9QNvmqHv9uR5t0YlIYbR4sg+3l7aNGg//2Q==" />
+<RemoteImage alt={`Sonne`} size="medium" title={`Sonne und Frieden`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-1-von-4__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-1-von-4__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EACkQAAIBAwIEBQUAAAAAAAAAAAECAwQFEQASBhMhMSJBUZGxBxQjYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AgaL6l2iaOO11xkdgCgCu6ENnIG9Bhsk5ycdjkHUTPebRNQOBFWNTmdYqq5VDyNDEclljGCQpYA4PxqpcGcILcuIad6+Xl0LwvWbVxmWMKS20jtg9O3fVVVJpJjRSNLCJZlVo5CVAJOAWX1AOg6foIFknmYAYEcLAlumdin4xql3iqitthq6yXlgCtYePdtJwQAcAnz9NOuF5Lnb6aCmrubzIaBEcyKQDKrBdoY9/CB28gNI3ekV7MlKzuzyVLT/jxndkYAyOvfQO7aKW3RqtDRxQpHkqqk4GT1x76xnitAvGFyKhVX7/AAFUYABKnp/NGjQbVxDJJdacwlzBypDIrRjqCD+9QNvmqHv9uR5t0YlIYbR4sg+3l7aNGg//2Q=="
+/>
 
 **Sonne und Frieden. Das sind die beiden Wörter, die ich dieses Mal als Gerüst
 für mein Gedicht verwendet habe. Dabei ist ein sehr nachdenklicher Text
@@ -58,6 +56,8 @@ anderen und schicke Euch zu Ostern nur ein Bisschen Sonne. Für mehr fehlt die
 Kraft. Die Bilder zum Gedicht habe ich aus meiner Sammlung ausgesucht. Ich
 finde, sie passen.
 
+<blockquote>
+
 ## Sonne und Frieden
 
 Eine schmale Landzung in der Ostsee. Frieden. Hoch im Himmel stand die Sonne.
@@ -70,6 +70,8 @@ Energien ab, fordert der Autor.
 Umwelthinweis. Unser Platz an der Sonne.
 
 Sag nein zu Gewalt. Sonne, Du sinkst.
+
+</blockquote>
 
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-4-von-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-4-von-4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-2-von-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-2-von-4__l.jpg"}]}

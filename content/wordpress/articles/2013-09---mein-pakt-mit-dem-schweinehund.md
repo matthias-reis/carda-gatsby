@@ -17,6 +17,7 @@ labels:
   - aufhören zu Rauchen
   - Blausäure
   - endlich Nichtraucher
+  - Geschichten & Erlebtes
   - Gestank durch Rauchen
   - Gift in Zigaretten
   - Glimmstengel
@@ -32,7 +33,6 @@ labels:
   - Selbstversuch mit Rauchen aufzuhören
   - Sucht
   - Suchtentwöhnung
-  - Tagebuch
   - Zigaretten
 type: Artikel
 typeName: Artikel
@@ -50,13 +50,12 @@ subTitle: Ich habe aufgehört zu rauchen...
   
 ---
 
-<RemoteImage
-  alt="Schweinehund"
-  size="medium"
-  title="Hässlichstes Bild in meinem Blog bisher und in Zukunft"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9707307969_f3e68eba49_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9707307969_f3e68eba49_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYIBAf/xAAoEAABAwMDAwQDAQAAAAAAAAABAgMEBRESAAYhMUFRBxMiYTKBkaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4MiMnd9QrVfqc1TJVILjiAjI2WSQAb9B0HHbTPStq0uHtyn7gFPM6NIkqYSmQo3snL5WsE2OB86D7PipjGQw2oqYqMRxxKXQLlbSuxHFj8rHW3Z8Rx+ZGa9xwNl3HEqJAFz26aA3617SEaj0SowIbUcFYjFlptKLBYyRcJFuuQv5OuMupxVbx/uro3bs81HZyng2JElFISWo6fipx5DYW2QfOQHbUR1uOmJU3o6CSlqyLkWJsBfjQNVenopNcoaAVKRDhpS5zdRzyPP3iU6I7QqoiyWFpVgMgbfV+mt/qP6XV6PUpNQhuM1Jhw3HsjFSEgAAY+AAB17aRSJFPeQ1JQuOu34ujE2/egtumVGNUocOFOqMhAdihKVh8MBKvbFuEWJtx1UfvUQb0juRN01Nh9BQ6h9QWk9lX5H901Peoe6320ojzTFQlAbAjIQ1wAB1SMieOpUdI1VekvzXHJrqnX1cqUo3J78nvoP/2Q==" />
+<RemoteImage alt={`Schweinehund`} size="medium"
+title={`Hässlichstes Bild in meinem Blog bisher und in Zukunft`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9707307969_f3e68eba49_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9707307969_f3e68eba49_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYIBAf/xAAoEAABAwMDAwQDAQAAAAAAAAABAgMEBRESAAYhMUFRBxMiYTKBkaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4MiMnd9QrVfqc1TJVILjiAjI2WSQAb9B0HHbTPStq0uHtyn7gFPM6NIkqYSmQo3snL5WsE2OB86D7PipjGQw2oqYqMRxxKXQLlbSuxHFj8rHW3Z8Rx+ZGa9xwNl3HEqJAFz26aA3617SEaj0SowIbUcFYjFlptKLBYyRcJFuuQv5OuMupxVbx/uro3bs81HZyng2JElFISWo6fipx5DYW2QfOQHbUR1uOmJU3o6CSlqyLkWJsBfjQNVenopNcoaAVKRDhpS5zdRzyPP3iU6I7QqoiyWFpVgMgbfV+mt/qP6XV6PUpNQhuM1Jhw3HsjFSEgAAY+AAB17aRSJFPeQ1JQuOu34ujE2/egtumVGNUocOFOqMhAdihKVh8MBKvbFuEWJtx1UfvUQb0juRN01Nh9BQ6h9QWk9lX5H901Peoe6320ojzTFQlAbAjIQ1wAB1SMieOpUdI1VekvzXHJrqnX1cqUo3J78nvoP/2Q=="
+/>
 
 **... und das vor ziemlich genau vier Stunden. Um 13:30 habe ich die letzte
 Kippe in den Sand des Aschenbechers vor dem Bürogebäude gedrückt. Jetzt meint
@@ -104,13 +103,12 @@ sitzen? Fährt in einem stinkenden Klapperauto rum, obwohl man sich schon vor
 Monaten ein neues Spritsparmodell hätte leisten können, hätte man das Geld nicht
 in dreckigen, verklebten Automaten versenkt?
 
-<RemoteImage
-  alt="Schweinehund"
-  size="medium"
-  title="Der fiese Schweinehund - Ist er am Ende gar nicht böse?"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_foto__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_foto__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFAQP/xAAuEAACAgIBAwIDBwUAAAAAAAABAgMEBREGACExEiIHE1EUFSMyQWKBQ2FxkaH/xAAXAQEBAQEAAAAAAAAAAAAAAAABBAID/8QAHxEAAgEEAgMAAAAAAAAAAAAAAQIAAxEhMQRREkFh/9oADAMBAAIRAxEAPwDvw14dgrPHcLZsYPEWV+y1lsfNqq8ssksYf278kKQxABLbIHjql1eDcWmaKCDh+IR2/q2MTHGn/V2x/br+R0T+Dk1ZOF0lz0VewKlenkKzTqrLARCiKy7G1IGiW/cdeD09gy+Dy/IsZHOtexcrSSyVXevLG1eZV/EUhh2b0EH6j6dx1A/kWMpamVmNU4NxfIYmvZfiuCiklUllWhFoEMV7e3wdb/nqb/FnguEx/Es1apYbH15IazOskVZUKkEeCB26pGL5VbXGV5lp1/ukNNHHJI5id0WRgjA9wSRrsASd7+uhnxUho8q4byDJeudVo0TJDDIgHf3+7RHb3L5HkDpQsGzqNXjNTy2hPLAm3i+IcYzVWMT1fuepDPEWADsFXXq2DsD+/bsO3Wk/IGt4+OKjSqVZZa6q89GEEwI3zI0UCNQQfUFI/MQH1r3dFeDc+w0PBsZjZc7jqlhKUcLfaAJBGQADtG7HtsaPSOLk/HZnYTcy4/HA6NHIkcVdWlX1Bk9RI/TWu2v99+uhFtibTkCwDC9vfyOKubw9PCvQx8tZZKMRVaWQkWu4AJI9at+UHRPj/PUl5VPffjXJrhj3TsYuVHlFVovnb0Vcu7Ev32B40P0G+tTOZfiV6qtaTmOIFVVUfKgjrr33tiGHuHq7+ob0d9CeW8i43T4TlsThstHZ+dEyxh5zK+iRpQfGhropp1B61MIQoye8z//Z" />
+<RemoteImage alt={`Schweinehund`} size="medium"
+title={`Der fiese Schweinehund - Ist er am Ende gar nicht böse?`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_foto__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_foto__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFAQP/xAAuEAACAgIBAwIDBwUAAAAAAAABAgMEBREGACExEiIHE1EUFSMyQWKBQ2FxkaH/xAAXAQEBAQEAAAAAAAAAAAAAAAABBAID/8QAHxEAAgEEAgMAAAAAAAAAAAAAAQIAAxEhMQRREkFh/9oADAMBAAIRAxEAPwDvw14dgrPHcLZsYPEWV+y1lsfNqq8ssksYf278kKQxABLbIHjql1eDcWmaKCDh+IR2/q2MTHGn/V2x/br+R0T+Dk1ZOF0lz0VewKlenkKzTqrLARCiKy7G1IGiW/cdeD09gy+Dy/IsZHOtexcrSSyVXevLG1eZV/EUhh2b0EH6j6dx1A/kWMpamVmNU4NxfIYmvZfiuCiklUllWhFoEMV7e3wdb/nqb/FnguEx/Es1apYbH15IazOskVZUKkEeCB26pGL5VbXGV5lp1/ukNNHHJI5id0WRgjA9wSRrsASd7+uhnxUho8q4byDJeudVo0TJDDIgHf3+7RHb3L5HkDpQsGzqNXjNTy2hPLAm3i+IcYzVWMT1fuepDPEWADsFXXq2DsD+/bsO3Wk/IGt4+OKjSqVZZa6q89GEEwI3zI0UCNQQfUFI/MQH1r3dFeDc+w0PBsZjZc7jqlhKUcLfaAJBGQADtG7HtsaPSOLk/HZnYTcy4/HA6NHIkcVdWlX1Bk9RI/TWu2v99+uhFtibTkCwDC9vfyOKubw9PCvQx8tZZKMRVaWQkWu4AJI9at+UHRPj/PUl5VPffjXJrhj3TsYuVHlFVovnb0Vcu7Ev32B40P0G+tTOZfiV6qtaTmOIFVVUfKgjrr33tiGHuHq7+ob0d9CeW8i43T4TlsThstHZ+dEyxh5zK+iRpQfGhropp1B61MIQoye8z//Z"
+/>
 
 Ich beginne, Euch zu langweilen. Ich weiß. Ihr kennt die Gründe. Daher komme ich
 besser schnell zum Punkt. Ich habe wochenlang überlegt. Die Stange aus dem
@@ -128,7 +126,7 @@ nicht. Tut man etwas ständig, was man eigentlich nicht tun will, ist das nichts
 anderes als lächerlich. Und ich möchte nicht rauchen. Ich habe keine Lust mehr,
 diesen Schatten aus der Vergangenheit noch länger mit mir herum zutragen. Denn
 genau das ist es. Richtig heftig angefangen zu Rauchen habe ich während meiner
-Ausbildung. Das kommt mir vor, als sei es Ewigkeiten her. Damals gab es sogar
+Ausbildung. Das kommt mir vor, als sei es Ewigkeiten her.  Damals gab es sogar
 noch Raucherabteile. Mensch, bin ich alt. Aber ich schweife ab, ich weiß. Ich
 wollte ja hier auf keinen Fall den Rahmen sprengen.
 
@@ -158,36 +156,42 @@ Netz. Und wenn ich es nicht schaffe, könnt Ihr mich alle öffentlich auslachen.
 Es ist hart. Ich weiß. Eure Fanpost könnt Ihr also direkt an das Postfach
 zwischen Al Pacino und Bruce Willis senden. :-P Hier kommt der Vertrag:
 
-<div style="border: solid 2px #990033;">##  __Vertrag__ <address style="text-align: left;">Ich werde ab Montag, 09. September 2013 14:00 Uhr nicht mehr rauchen. Hier sind die Hauptgründe:</address>-  <address>Gesundheit</address>
+<div style="border: solid 2px #990033;">
+##  __Vertrag__ 
+<address style="text-align: left;">Ich werde ab Montag, 09. September 2013 14:00 Uhr nicht mehr rauchen. Hier sind die Hauptgründe:</address>
+-  <address>Gesundheit</address>
 -  <address>Kinderarbeit</address>
--  <address>Spart Geld</address><address style="text-align: left;">Als Belohnung bekommt der Schweinehund folgende Zuckerbrote von mir, die ich im Anschluss genießen werde:</address>-  <address>Nach einer Woche (16.09.13): Six Feed Under Season 1</address>
+-  <address>Spart Geld</address>
+<address style="text-align: left;">Als Belohnung bekommt der Schweinehund folgende Zuckerbrote von mir, die ich im Anschluss genießen werde:</address>
+-  <address>Nach einer Woche (16.09.13): Six Feed Under Season 1</address>
 -  <address>Nach einem Monat (09.10.13): Ein Paar neue Stiefel</address>
 -  <address>Nach drei Monaten (09.12.13): Eine Serienkomplettbox</address>
--  <address>Nach einem halben Jahr (09.03.14): Die Kette, die mir so gut gefällt</address><address style="text-align: left;">Mit dem gesparten Stinkezigarettengeld sollte ich das alles locker hinkriegen.</address><address style="text-align: left;">Wenn ich den Vertrag erfüllt habe, werde ich:</address>-  <address>Einen weiteren Blogeintrag zum Thema schreiben</address>
+-  <address>Nach einem halben Jahr (09.03.14): Die Kette, die mir so gut gefällt</address>
+<address style="text-align: left;">Mit dem gesparten Stinkezigarettengeld sollte ich das alles locker hinkriegen.</address><address style="text-align: left;">Wenn ich den Vertrag erfüllt habe, werde ich:</address>
+-  <address>Einen weiteren Blogeintrag zum Thema schreiben</address>
 -  <address>Mit dem Herzmann lecker essen gehen</address>
--  <address>Die Sucht besiegt haben</address> __Gezeichnet__ <address style="text-align: left;"> __Anne__ (auch i. A. des fürchterlichen Schweinehunds)</address> __Zeugen__  __Evelyn__  _(Meine liebe Arbeitskollegen, die seit 4 Jahren rauchfrei ist, und mich mit ihrer heiteren Art unterstützt, wo sie kann.)_
+-  <address>Die Sucht besiegt haben</address>
+ __Gezeichnet__
 
-<RemoteImage
-  alt="Evelyn"
-  size="medium"
-  title="Evelyn"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9680795254_0fc1099280_o.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9680795254_0fc1099280_o.jpg?w=300"
-  loadingUrl="undefined" />
+<address style="text-align: left;"> __Anne__ (auch i. A. des fürchterlichen Schweinehunds)</address>
+ __Zeugen__ 
+ __Evelyn__   _(Meine liebe Arbeitskollegen, die seit 4 Jahren rauchfrei ist, und mich mit ihrer heiteren Art unterstützt, wo sie kann.)_
 
-**Der Herzmann** _(Der noch nie einen Glimmstengel angefasst hat und heute
+<RemoteImage alt={`Evelyn`} size="medium" title={`Evelyn`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9680795254_0fc1099280_o.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9680795254_0fc1099280_o.jpg?w=300"
+loadingUrl="undefined" />
+
+**Der Herzmann**   _(Der noch nie einen Glimmstengel angefasst hat und heute
 Abend, beim Stöbern in meinem Blog völlig unvorbereitet von meinem Vorhaben
 erfahren wird.)_
 
-<RemoteImage
-  alt="Der Herzmann"
-  size="medium"
-  title="Der Herzmann"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/189270_1914558587933_3844410_n.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/189270_1914558587933_3844410_n.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Der Herzmann`} size="medium" title={`Der Herzmann`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/189270_1914558587933_3844410_n.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/09/189270_1914558587933_3844410_n.jpg?w=300"
+loadingUrl="undefined" />
 
-<address style="text-align: left;"></address></div>
+<address style="text-align: left;"> </address></div>
 
 Klingt doch alles ganz durchdacht, oder? Ich bin auf jeden Fall schon ziemlich
 gespannt und gehe nun erstmal raus auf den Balkon. Den vollen Aschenbecher samt

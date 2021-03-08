@@ -14,6 +14,7 @@ focusKeyword: Norwegen
 labels:
   - Angst
   - Anklage
+  - Antifaschismus & Feminismus
   - Attentat
   - Attentäter
   - Bombe
@@ -47,7 +48,6 @@ labels:
   - Norwegen
   - Opfer
   - Oslo
-  - Politik & Soziales
   - Pranger
   - Presse
   - rechtsradikal
@@ -80,5 +80,16 @@ subTitle: In stillem Gedenken
   
 ---
 
+**Heute werde ich bewusst keinen Text und keinen Song einstellen. Ich möchte nur
+jeden, der auf dieser Seite vorbeikommt, darum bitten, eine kurze Schweigeminute
+für die Opfer der Attentate in Norwegen einzulegen.**
+
+Zudem gibt es einen Link des Tages, der uns zu Denken geben sollte.
+
+&nbsp;
+
+## Link des Tages:
+
+[Norwegen und das Medienmassaker](http://www.wuv.de/nachrichten/medien/norwegen_%20und_das_medien_massaker_ein_taeter_darf_nicht_abgebildet_werden)
 
   

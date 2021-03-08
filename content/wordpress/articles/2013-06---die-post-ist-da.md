@@ -9,11 +9,12 @@ excerpt: Bereits letzte Woche Mittwoch hatte der Schallplattenhändler meines
   Vertrauens ein Paket für mich aufgegeben.
 focusKeyword: ""
 labels:
-  - Bands & Reviews
+  - Bands
   - Boot Boo Hook
   - Coco Rosie
   - Fehlfarben
   - French Films
+  - Geschichten & Erlebtes
   - karton
   - Liebe
   - Like A Stuntman
@@ -34,7 +35,6 @@ labels:
   - Queens Of The Stone Age Like Clockwork
   - Records
   - Schallplatten
-  - Tagebuch
   - The Late Call
   - The Late Call You Already Have A Home
   - The Veils
@@ -58,6 +58,10 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Neue Schallplatten in meiner Sammlung
   
 ---
+
+**Bereits letzte Woche Mittwoch hatte der Schallplattenhändler meines Vertrauens
+ein Paket für mich aufgegeben. Vielleicht haben ja einige von Euch auf Twitter
+mitverfolgt, was für eine spannende Reise es hinter sich hat.**
 
 Nachdem ich leider keine Nachricht vom Paketdienst bekommen hatte, fuhr ich
 heute auf gut Glück zum Paketshop, der normalerweise meine Pakete entgegennimmt.

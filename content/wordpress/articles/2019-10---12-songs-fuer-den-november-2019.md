@@ -1,8 +1,8 @@
 ---
 title: 12 Songs für den November 2019
 seoTitle: 12 Songs für den November - präsentiert von den drei von der Bande
-slug: 12-songs-fuer-den-november
-path: /2019/10/12-songs-fuer-den-november/
+slug: 12-songs-fuer-den-november-2019
+path: /2019/10/12-songs-fuer-den-november-2019/
 fileName: 2019-10---12-songs-fuer-den-november-2019.md
 description: Es ist soweit! Die heiß ersehnte Musikliste für den November ist
   da! Der goldene Oktober hat gleich eine ganze Reihe Goldschätze mitgebracht.
@@ -10,8 +10,9 @@ excerpt: Es ist soweit! Die heiß ersehnte Musikliste für den November ist da!
   Der goldene Oktober hat gleich eine ganze Reihe Goldschätze mitgebracht.
 focusKeyword: Songs für den November
 labels:
+  - 12 Songs
   - Alternative
-  - Bands & Reviews
+  - Bands
   - Battles
   - Bruce Soord
   - die drei von der Bande
@@ -23,12 +24,12 @@ labels:
   - Kim Gordon
   - Leprous
   - Life Of Agony
-  - marilyn manson
   - Metal
   - Musik
   - Musikliste
+  - No Wave
   - Opeth
-  - Post Rock
+  - Post-Rock
   - Prog
   - Rock
   - Rosetta
@@ -184,16 +185,6 @@ stilistisch eher in Richtung Riverside oder Katatonia.
 
 <iframe src="https://www.youtube.com/embed/r8HUeCKNxVw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-## 12. Marilyn Manson - "God's Gonna Cut You Down" (Single)
-
-Die neue Single von Marilyn Manson ist ein Johnny Cash Cover. Sie begeistert
-nicht nur Valentin, der sie auf die Liste gesetzt hat. Das hat er dazu zu sagen:
-"Mr. Brian Warner bringt dieser Coverversion sehr überzeugend rüber. Er hat das
-Stück vor ein paar Jahren schon mal live gespielt. Gut, dass er es jetzt auch
-aufgenommen hat."
-
-<iframe src="https://www.youtube.com/embed/Nu__TzWfpss" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 ## Sachdienlicher Hinweis
 
 Diese Liste ist keine Hitliste. Die Songs sind zufällig durchgewürfelt. Es lohnt
@@ -237,11 +228,11 @@ Jam, Boris, ...
 <iframe src="https://open.spotify.com/embed/playlist/1mMeJKGqzImH7oKZzBj5Cu" width="300" height="380" frameborder="0"></iframe>
 
 <RemoteImage
-  alt="12-songs-fuer-den-november-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin"
-  size="large"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_12-songs-fuer-den-november-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_12-songs-fuer-den-november-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin.png__l.jpg"
-  loadingUrl="data:image/jpeg;base64,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" />
+alt={`12-songs-fuer-den-november-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin`}
+size="large" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_12-songs-fuer-den-november-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_12-songs-fuer-den-november-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,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"
+/>
 
   

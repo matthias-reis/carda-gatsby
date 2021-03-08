@@ -15,7 +15,7 @@ labels:
   - Andalusien
   - Costa del Sol
   - Estepona
-  - Reisen
+  - Fernweh
   - Roadtrip
   - Spanien
   - unterwegs

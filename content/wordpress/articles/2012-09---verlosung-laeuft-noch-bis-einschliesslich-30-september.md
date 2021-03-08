@@ -52,10 +52,21 @@ subTitle: Tolle Goodies zu gewinnen!
   
 ---
 
-<hr /> __Hiermit möchte ich nochmal offiziell auf  [mein Gewinnspiel](//2012/08/16/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/)  hinweisen. Die Verlosung läuft noch bis einschließlich 30. September. Hier nochmal eine kurze Anleitung für alle, die noch nichts vom Gewinnspiel mitbekommen haben:__
+<hr />
+
+**Hinweis:** Die Aktion ist beendet.
+[Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
+
+<hr />
+
+**Hiermit möchte ich nochmal offiziell auf
+[mein Gewinnspiel](//2012/08/16/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/)
+hinweisen. Die Verlosung läuft noch bis einschließlich 30. September. Hier
+nochmal eine kurze Anleitung für alle, die noch nichts vom Gewinnspiel
+mitbekommen haben:**
 
 Alle, die mitmachen wollen, senden unter dem Betreff "T-Shirt-Idee" bis zum 30.
-September ein Foto von ihrem Lieblings-T-Shirt, im Idealfall sogar mit einer
+September ein Foto  von ihrem Lieblings-T-Shirt, im Idealfall sogar mit einer
 kleinen Geschichte dazu (2-10 Sätze reichen schon) an info@cardamonchai.com.
 Natürlich sind auch Lieblings-Blusen und Lieblings-Pullis erlaubt. Aus den
 Bildern entsteht dann hier im Blog eine schöne T-Shirt-Galerie.
@@ -70,16 +81,16 @@ T-Shirt vom diesjährigen Herzberg-Festival zu gewinnen.
 
 Vor Kurzem ist zu den Gewinnen noch das Herzberg Festival T-Shirt und die CD von
 HASENSCHEISSE dazugekommen. Daher wird es nicht, wie zuerst angekündigt, drei,
-sondern fünf Gewinner geben. Die Gewinne stellen meine Freunde von
+sondern  fünf Gewinner geben. Die Gewinne stellen meine Freunde von
 "[Marleen Schallplatten](https://www.facebook.com/marleen.schallplatten)" , dem
 Plattenladen meines Vertrauens in Fulda und Gunter vom
-[Herzberg Festival Veranstaltungsteam](http://www.burgherzberg-festival.de/) zur
-Verfügung. Vielen Dank an dieser Stelle für die freundliche Unterstützung!
-Natürlich freue ich mich, wenn möglichst viele mitmachen, damit am Ende auch
-eine schöne T-Shirt-Galerie entsteht.
+[Herzberg Festival Veranstaltungsteam](http://www.burgherzberg-festival.de/)
+ zur Verfügung. Vielen Dank an dieser Stelle für die freundliche
+Unterstützung! Natürlich freue ich mich, wenn möglichst viele mitmachen, damit
+am Ende auch eine schöne T-Shirt-Galerie entsteht.
 
 Bitte sendet Eure Fotos und Texte bis zum 30. September 2012 unter dem Betreff
-"T-Shirt-Idee" an info@cardamonchai.com. Die Gewinner werden von einer neutralen
+"T-Shirt-Idee" an info@cardamonchai.com. Die Gewinner werden von einer neutralen
 Person gezogen und per E-Mail über ihren Gewinn benachrichtigt. Die Gewinne
 werden per Post versendet. Der Rechtsweg ist ausgeschlossen.
 
@@ -87,54 +98,39 @@ werden per Post versendet. Der Rechtsweg ist ausgeschlossen.
 
 I. Preis: Was Aktuelles - CD TRAIN - "California 37"
 
-<RemoteImage
-  alt=""
-  size="full"
-  title=""
-  mediumUrl="http://cardamonchai.files.wordpress.com/2012/09/51brzls6u2l-_sl500_aa240_.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2012/09/51brzls6u2l-_sl500_aa240_.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`} size="full" title={`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2012/09/51brzls6u2l-_sl500_aa240_.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2012/09/51brzls6u2l-_sl500_aa240_.jpg"
+loadingUrl="undefined" />
 
-II. Preis: Was Lustiges - CD HASENSCHEISSE - "Für ein paar Köttel mehr"
+II. Preis: Was Lustiges - CD HASENSCHEISSE - "Für ein paar Köttel mehr"
 
-<RemoteImage
-  alt=""
-  size="full"
-  title=""
-  mediumUrl="http://cardamonchai.files.wordpress.com/2012/09/51aqjni6uql-_sl500_aa240_.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2012/09/51aqjni6uql-_sl500_aa240_.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`} size="full" title={`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2012/09/51aqjni6uql-_sl500_aa240_.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2012/09/51aqjni6uql-_sl500_aa240_.jpg"
+loadingUrl="undefined" />
 
-III. Preis: Vinyl - 12" Die Ärzte - M+F (3 Tracks auf der A-Seite, B-Seite mit
+III. Preis: Vinyl - 12" Die Ärzte - M+F (3 Tracks auf der A-Seite, B-Seite mit
 Etching)
 
-<RemoteImage
-  alt=""
-  size="full"
-  title=""
-  mediumUrl="http://cardamonchai.files.wordpress.com/2012/09/51uwqgbnctl-_sl500_aa240_.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2012/09/51uwqgbnctl-_sl500_aa240_.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`} size="full" title={`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2012/09/51uwqgbnctl-_sl500_aa240_.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2012/09/51uwqgbnctl-_sl500_aa240_.jpg"
+loadingUrl="undefined" />
 
 IV. Preis: T-Shirt von INDICA (kommt als Girl-Shirt oder Men-Shirt)
 
-<RemoteImage
-  alt=""
-  size="full"
-  title=""
-  mediumUrl="http://cardamonchai.files.wordpress.com/2012/09/41nknvbkztl-_sl246_sx190_cr00190246_.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2012/09/41nknvbkztl-_sl246_sx190_cr00190246_.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`} size="full" title={`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2012/09/41nknvbkztl-_sl246_sx190_cr00190246_.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2012/09/41nknvbkztl-_sl246_sx190_cr00190246_.jpg"
+loadingUrl="undefined" />
 
 V. Preis (aber noch lange nicht Trostpreis): Make Love Work - Herzberg Festival
 2012 T-Shirt
 
-<RemoteImage
-  alt=""
-  size="full"
-  title=""
-  mediumUrl="http://cardamonchai.files.wordpress.com/2012/09/mysticrot.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2012/09/mysticrot.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`} size="full" title={`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2012/09/mysticrot.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2012/09/mysticrot.jpg"
+loadingUrl="undefined" />
 
   

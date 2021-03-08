@@ -12,7 +12,6 @@ excerpt: "Morgen um 12 Uhr geht es los: Überall auf der Welt treffen ich
   streiken. Kommt mit!"
 focusKeyword: Klimastreik
 labels:
-  - Darum vegan
   - fridaysforfuture
   - Fridaysforfuture global
   - fridaysforfuture Hamburg
@@ -45,13 +44,12 @@ streiken.**
 Beim letzten weltweiten Streik waren allein in Hamburg 25.000 Menschen auf der
 Straße. Weltweit waren es mehr als 1,6 Millionen.
 
-<RemoteImage
-  alt="klimastreik"
-  size="medium"
-  title="Klimastreik am 20. September. Grafik: Tierrechtsaktivistenbündnis Hamburg"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_trab-klimastreik__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_trab-klimastreik__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAARACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAEEBQYD/8QAKRAAAgEDBAEDAwUAAAAAAAAAAQIDAAQRBQYhMUESE0IUMnIWImGBwf/EABkBAAIDAQAAAAAAAAAAAAAAAAIFAAMEBv/EAB4RAAEDBAMAAAAAAAAAAAAAAAABAxECEkHRIZGh/9oADAMBAAIRAxEAPwC43RuKe3uGt7RnTPqVAh9JOMguW5IGQcAY6JPgUts7wkXUtPs76ATrekxe5Phwj8enHy5JwQSfBHms9urRL623DOzxtNYXTM8UrtlEB5KEngYPQP8AGKnbV0Frq5sbm5dz9HOsxKfZleSMnsk4AA6wST4o73FdjmZOWlcGu/UV+ZGA0rTQFLd28uSB155Ndo9eupp4IDp1gglYLI6wSKUBA5BzgHvvzTfYmuyufb1LTU9QMin2TkKWJAOV7/cB/VFtszXLeSC8n1LT3jiVZXQIVdlHJ+PeCR/tXJXVOfNjOppmFi7pNltD1L+NE/UX4UUVvwLCKfup/KiioCf/2Q==" />
+<RemoteImage alt={`klimastreik`} size="medium"
+title={`Klimastreik am 20. September. Grafik: Tierrechtsaktivistenbündnis Hamburg`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_trab-klimastreik__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_trab-klimastreik__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAARACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAEEBQYD/8QAKRAAAgEDBAEDAwUAAAAAAAAAAQIDAAQRBQYhMUESE0IUMnIWImGBwf/EABkBAAIDAQAAAAAAAAAAAAAAAAIFAAMEBv/EAB4RAAEDBAMAAAAAAAAAAAAAAAABAxECEkHRIZGh/9oADAMBAAIRAxEAPwC43RuKe3uGt7RnTPqVAh9JOMguW5IGQcAY6JPgUts7wkXUtPs76ATrekxe5Phwj8enHy5JwQSfBHms9urRL623DOzxtNYXTM8UrtlEB5KEngYPQP8AGKnbV0Frq5sbm5dz9HOsxKfZleSMnsk4AA6wST4o73FdjmZOWlcGu/UV+ZGA0rTQFLd28uSB155Ndo9eupp4IDp1gglYLI6wSKUBA5BzgHvvzTfYmuyufb1LTU9QMin2TkKWJAOV7/cB/VFtszXLeSC8n1LT3jiVZXQIVdlHJ+PeCR/tXJXVOfNjOppmFi7pNltD1L+NE/UX4UUVvwLCKfup/KiioCf/2Q=="
+/>
 
 Auch wir sind mit dem veganen Block morgen mit dabei und sind laut für das
 Klima, für die Tiere, für die Umwelt und für die Zukunft. Kommt auch Ihr vorbei

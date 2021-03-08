@@ -14,10 +14,10 @@ focusKeyword: Lufterfrischer
 labels:
   - ätherische Öle
   - Bergamotte
-  - DIY
   - gemahlener Kaffee
   - Geranium
   - Kaffee
+  - Klima & Umweltschutz
   - Lavendel
   - Lufterfrischer
   - Orangenöl
@@ -53,13 +53,12 @@ Toilette oder die Küchentheke stellen.
 
 ## Mein besonderer Tipp:
 
-<RemoteImage
-  alt="lufterfrischer"
-  size="medium"
-  title="Raumduft einfach selbst herstellen"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-diy-lufterfrischer-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-diy-lufterfrischer-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAGAQT/xAAsEAABAwMCBQQABwAAAAAAAAABAgMEAAUREiEGEzFRYQciQYEUMkNxcpHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAIREAAgICAgEFAAAAAAAAAAAAAQIAAxEhBBIxE2GRofD/2gAMAwEAAhEDEQA/AOluJbbdBly1Nx7QuMhTLpHtACcKT/IKCgR1zv8ANFsccx485ldshyEJH6he5Tn0AD/Rp2w3w2dmTDeSm7WKcsKQw5GDojOY9yVDfbYHOMnqNwRTl14Y4SetBmtcPspdAC+UzIfYQvffRpJB8YHUYOKEMWUdDERqu7K43nxnf73iPB3qZEmz2IlwS8iTI9jbjmClas4A1DHU9wKF9c2YD9vt63AgXNTp06fzFrBzq8Zxjz90Clyy2uSkt2KPBWDqZ5nMkPunAKQhKzgdck4wMd6y06S9MAmTH33X3VKC1SDhSiCc+SB07dqxZa3pEHcpHHVLlYaHz9z22O8NxHEqCEuMnCVtEghYz56EHcH4Nad3iVVts/4WG6DHkFSg4JAURnGMNgZB67Y27/NVVS0uVBAmuVx1u6knB8amTUWH5rklBQy8ANS3llTpKfnSSQk7nc5P7UfcVIbQtwEFa9y4peon7P8AtVVEbGsOWMoSpaV6oJ//2Q==" />
+<RemoteImage alt={`lufterfrischer`} size="medium"
+title={`Raumduft einfach selbst herstellen`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-diy-lufterfrischer-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-diy-lufterfrischer-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAGAQT/xAAsEAABAwMCBQQABwAAAAAAAAABAgMEAAUREiEGEzFRYQciQYEUMkNxcpHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAIREAAgICAgEFAAAAAAAAAAAAAQIAAxEhBBIxE2GRofD/2gAMAwEAAhEDEQA/AOluJbbdBly1Nx7QuMhTLpHtACcKT/IKCgR1zv8ANFsccx485ldshyEJH6he5Tn0AD/Rp2w3w2dmTDeSm7WKcsKQw5GDojOY9yVDfbYHOMnqNwRTl14Y4SetBmtcPspdAC+UzIfYQvffRpJB8YHUYOKEMWUdDERqu7K43nxnf73iPB3qZEmz2IlwS8iTI9jbjmClas4A1DHU9wKF9c2YD9vt63AgXNTp06fzFrBzq8Zxjz90Clyy2uSkt2KPBWDqZ5nMkPunAKQhKzgdck4wMd6y06S9MAmTH33X3VKC1SDhSiCc+SB07dqxZa3pEHcpHHVLlYaHz9z22O8NxHEqCEuMnCVtEghYz56EHcH4Nad3iVVts/4WG6DHkFSg4JAURnGMNgZB67Y27/NVVS0uVBAmuVx1u6knB8amTUWH5rklBQy8ANS3llTpKfnSSQk7nc5P7UfcVIbQtwEFa9y4peon7P8AtVVEbGsOWMoSpaV6oJ//2Q=="
+/>
 
 Saugt eine Portion Lufterfrischer mit Eurem Staubsauger auf. Jedes Mal, wenn Ihr
 dann mit dem Ding Eure Runden durch die Wohnung dreht, hinterlasst Ihr eine

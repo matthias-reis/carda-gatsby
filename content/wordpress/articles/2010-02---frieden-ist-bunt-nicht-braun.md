@@ -9,9 +9,9 @@ description: Große Friedensdemonstration in Augsburg anlässlich der des
 excerpt: Um 12:00 startete in Augsburg die Gegendemo gegen den Naziaufmarsch.
 focusKeyword: Frieden
 labels:
+  - Antifaschismus & Feminismus
   - Demo
   - gegen Neonazis
-  - Politik & Soziales
 type: Galerie
 typeName: Galerie
 date: 2010-02-26T20:43:44.000Z
@@ -26,6 +26,10 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Großdemonstration gegen Neonazis in Augsburg
   
 ---
+
+**Zum Jahrestag der Bombenangriffe der Alliierten auf Augsburg in der Nacht
+vom 25. auf den 26. Februar 1944 hatten Neonazis heute erneut einen Aufmarsch in
+Augsburg geplant.**
 
 Deshalb startete um 12:00 am Stadttheater eine große Gegendemo an der sich alle
 Vereine, Institutionen, Gewerkschaften und politischen Parteien beteiligten.

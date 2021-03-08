@@ -10,7 +10,7 @@ excerpt: Am 13. August 2009 starb der Erfinder der Les Paul Gitarren Les Paul im
   Alter von 94 Jahren - ein Nachruf
 focusKeyword: Les Paul
 labels:
-  - Bands & Reviews
+  - Bands
   - Gibson Les Paul
   - Gitarren
   - Les Paul
@@ -30,6 +30,9 @@ subTitle: Nachruf für einen Giganten
   
 ---
 
+**_Plains, New York_ Am 13. August 2009 starb der Erfinder der Les Paul Gitarren
+Les Paul im Alter von 94 Jahren an einer Lungenentzündung.**
+
 Les Paul wurde am 9. Juni 1915 in der Kleinstadt Waukesha im US-Bundesstaat
 Wisconsin als Lester William Polsfuss geboren. Seine Familie vereinfachte den
 Familiennamen später auf Polfus. Lester Polfus stellte sich fortan nur noch mit
@@ -41,13 +44,12 @@ er bereits als Country-Gitarrist auf. Sein größtes Hobby war allerdings die
 Bastelei an Elektrogeräten. Schon als Kind schraubte er an Mikrophonen und
 Plattenspielern herum.
 
-<RemoteImage
-  alt="Bild: Klicker Pixelio"
-  size="medium"
-  title="Bild: Klicker Pixelio"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_08_81952_r_k_b_by_klicker_pixelio-de__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_08_81952_r_k_b_by_klicker_pixelio-de__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACkQAAIBAwMDAwQDAAAAAAAAAAECAwQFEQASIQYTMRRBYSMzQpFRYpL/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUG/8QAIBEAAgEEAwADAAAAAAAAAAAAAQIDAAQRMRIhkWGh4f/aAAwDAQACEQMRAD8AoHTvQdqvCtUWKelmSQr9KvJbs85IBUZIPv4OBj31XJrBbbZcZTNSpPWxM5mpp5e3DGAcEknGBzxycnHBzqWutjunT96qqvphkSknVZfTrMsZUYIbAbjaDj/QGqT1JdoOpLqsw9QZWVYw8m0Hao4zg84/ePnUKz53DclfKn0fBrW38kNvEEaMBlOsb72Dj6ov6x198qhaGeekOOx3QMquAT7DgHPOPGmtJSxQSlYe3UVSjLyN9qH5+dcJpJEp1R02Rw7gD+R3eQPjz+9RjynYY4ywiJztz5P8nVoIUQKtZxLiMymRhnPf4N+91oNL1HV3S3V9NQLI0iU71MisMEgEFiWySR/XxxrP0DoRJGxVhyCPOjRoEEKQlggot5ey3vEynVKqKiSVsMzFAeAx5xpvo0aaFIV//9k=" />
+<RemoteImage alt={`Bild: Klicker Pixelio`} size="medium"
+title={`Bild: Klicker Pixelio`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_08_81952_r_k_b_by_klicker_pixelio-de__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_08_81952_r_k_b_by_klicker_pixelio-de__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACkQAAIBAwMDAwQDAAAAAAAAAAECAwQFEQASIQYTMRRBYSMzQpFRYpL/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUG/8QAIBEAAgEEAwADAAAAAAAAAAAAAQIDAAQRMRIhkWGh4f/aAAwDAQACEQMRAD8AoHTvQdqvCtUWKelmSQr9KvJbs85IBUZIPv4OBj31XJrBbbZcZTNSpPWxM5mpp5e3DGAcEknGBzxycnHBzqWutjunT96qqvphkSknVZfTrMsZUYIbAbjaDj/QGqT1JdoOpLqsw9QZWVYw8m0Hao4zg84/ePnUKz53DclfKn0fBrW38kNvEEaMBlOsb72Dj6ov6x198qhaGeekOOx3QMquAT7DgHPOPGmtJSxQSlYe3UVSjLyN9qH5+dcJpJEp1R02Rw7gD+R3eQPjz+9RjynYY4ywiJztz5P8nVoIUQKtZxLiMymRhnPf4N+91oNL1HV3S3V9NQLI0iU71MisMEgEFiWySR/XxxrP0DoRJGxVhyCPOjRoEEKQlggot5ey3vEynVKqKiSVsMzFAeAx5xpvo0aaFIV//9k="
+/>
 
 In den 30er- und 40er-Jahren trat Les Paul zusammen mit Musikgrößen wie Bing
 Crosby, Nat King Cole und Frank Sinatra auf. Diese Auftritte machten ihn
@@ -85,7 +87,7 @@ mehrere Spuren hintereinander aufzunehmen und je nach Wunsch abzumischen.
 
 Les Paul hatte zusammen mit der Country-Sängerin Mary Ford (bürgerlicher Name
 Colleen Summers), mit der er von 1949 bis 1962 verheiratet war, zehn Nummer Eins
-Hits in den amerikanischen Pop-Charts. Wer kennt nicht Stücke wie "Vaya Con
+Hits in den amerikanischen Pop-Charts.  Wer kennt nicht Stücke wie "Vaya Con
 Dios" und "How High The Moon". Mitte der fünfziger Jahre hatten die beiden sogar
 eine eigene TV-Show, die "Les Paul and Mary Ford at Home Show".
 
@@ -103,11 +105,17 @@ Die Welt trauert um einen genialen Musiker - den Gitarrenpionier Les Paul, der
 die von Musikern liebevoll "Paula" genannte, wohl berühmteste Gitarre der Welt
 erfand.
 
-**Les Paul \*1915 +2009** ### Quellen:
+**Les Paul \*1915 +2009**
+
+### Quellen:
+
 [http://www.mediabiz.de/musik/news/les-paul-gestorb...](http://www.mediabiz.de/musik/news/les-paul-gestorben/278216)
+
 [http://de.wikipedia.org/wiki/Les_Paul](http://de.wikipedia.org/wiki/Les_Paul)
-[http://www.spiegel.de/kultur/musik/0,1518,642358,0...](http://www.spiegel.de/kultur/musik/0,1518,642358,00.html) ###
-Bild im Header:
+
+[http://www.spiegel.de/kultur/musik/0,1518,642358,0...](http://www.spiegel.de/kultur/musik/0,1518,642358,00.html)
+
+### Bild im Header:
 
 Heiko Bragenitz Pixelio
 

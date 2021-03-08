@@ -15,8 +15,9 @@ labels:
   - Bikini
   - Bikinis aus Fischernetzen
   - Bikinis aus Meeresmüll
+  - Fair Fashion & Beauty
   - Inaska
-  - Mode & Beauty
+  - Interviews
   - Open Office
   - Sportbikini
   - Sportbikinis
@@ -24,7 +25,6 @@ labels:
   - Surfen
   - Surfwear
   - Two Magics
-  - Vegane Produkte
 type: Artikel
 typeName: Interview
 date: 2019-08-13T16:21:29.000Z
@@ -60,13 +60,12 @@ Office und stimmen uns ständig miteinander ab.
 
 ## INASKA wurde 2016 gegründet
 
-<RemoteImage
-  alt="Inaska"
-  size="medium"
-  title="Franziska und das Inaska Team"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_inaska-team__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_inaska-team__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAIEBgcDBQj/xAAoEAACAQMDAgYDAQAAAAAAAAABAgMEBREAEiEGEwcVIjFRYTKRobH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEA//EACMRAAIBAgYCAwAAAAAAAAAAAAECAAMRBBIxQVGhEyEyweH/2gAMAwEAAhEDEQA/ALpmq6eiu1utxhZpa1ZGDAgBAm33+clh/dNZ7s8cFXJ5WQsFc1JuaUEMihj3OBkE7SAp+V55006naZZ3lhqqKkeGkeQzVIJKrhuFwePWqtk8ekfeoP0ndoeqIaO2t1XQT0z08feMdtkpZA22TLHuHDFmfnGACBgc6I9ZhmttHUsMrBCTr9fnEtOe3wSEMqgqRkH5GjSra0aWujWNxJGsKqrgY3ADAOPsDRpKtmUGDdcrFeJC/EG2U93utnt0ksam5xzW6VjyVjJR9w+wQf3qlPD+1pB0hebvJMzy+Yx0IIckKpTf+9wX/NdKzdJQSXa3Vys6tRu7hWyfyGOOR/dYbP0FRWyxeWUvZWF7h5hMGjJEjb1YDknGAoHxx7akyXDC2sbRxPjNIg/G/Z99QpZmgt1FFICGSBFII9vSNGt/caOOSbcB750auBYWgWYsxY7z/9k=" />
+<RemoteImage alt={`Inaska`} size="medium"
+title={`Franziska und das Inaska Team`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_inaska-team__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_inaska-team__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAIEBgcDBQj/xAAoEAACAQMDAgYDAQAAAAAAAAABAgMEBREAEiEGEwcVIjFRYTKRobH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEA//EACMRAAIBAgYCAwAAAAAAAAAAAAECAAMRBBIxQVGhEyEyweH/2gAMAwEAAhEDEQA/ALpmq6eiu1utxhZpa1ZGDAgBAm33+clh/dNZ7s8cFXJ5WQsFc1JuaUEMihj3OBkE7SAp+V55006naZZ3lhqqKkeGkeQzVIJKrhuFwePWqtk8ekfeoP0ndoeqIaO2t1XQT0z08feMdtkpZA22TLHuHDFmfnGACBgc6I9ZhmttHUsMrBCTr9fnEtOe3wSEMqgqRkH5GjSra0aWujWNxJGsKqrgY3ADAOPsDRpKtmUGDdcrFeJC/EG2U93utnt0ksam5xzW6VjyVjJR9w+wQf3qlPD+1pB0hebvJMzy+Yx0IIckKpTf+9wX/NdKzdJQSXa3Vys6tRu7hWyfyGOOR/dYbP0FRWyxeWUvZWF7h5hMGjJEjb1YDknGAoHxx7akyXDC2sbRxPjNIg/G/Z99QpZmgt1FFICGSBFII9vSNGt/caOOSbcB750auBYWgWYsxY7z/9k="
+/>
 
 **Anne:** Was bedeutet der Name INASKA?
 
@@ -99,13 +98,12 @@ nachhaltigen Lebensstil.
 
 ## Nachhaltige Produktion in Portugal
 
-<RemoteImage
-  alt="Inaska"
-  size="medium"
-  title="Das fröhlich bunte Inaska Team"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_inaska-team-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_inaska-team-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAb/xAAtEAABAwQBAQUIAwAAAAAAAAABAgMEAAUREiEGExQWMVEHFSIjM0FhgXGCkv/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAHREBAAIDAQADAAAAAAAAAAAAAQACAxEhMQQSE//aAAwDAQACEQMRAD8Av6yy2G1OJ+FZ1zjgcE8+g4PNJ7LIN6nXpIhtJgxX0tRZKFk94ToCpRSQMAK2AI4OPxWhNztfiOHZH3FGc6jvSGy2SjRCgMlXlnJ8qknsv60tlt8Re9LCm3x40jZBitOYWO3eSSvdZSSlXoBztxR2vru+EbFicj9air5KfdbG2HU4SPKiulDrUtlp9vJS4nYZHP7opS2zkC1EdMkPX/U6Y90tE23x5rj8cSGnW2mcrCSgKOAcgZ04PrWmw9K3ZPTExbmqlXmG485FkK7NTDq3C6deOdlrPH8VS5bNmuaUGQlO6SFJcbWULH9hzj8U1M+IkcuJwftmp3Buyr7LqfL/ADxlKnR9nN2C2XW3W5uDOfdkOsj6znOwJJ1B++ucfqin7t4ipI+aj/VFNUKmiR3s3s2Z/9k=" />
+<RemoteImage alt={`Inaska`} size="medium"
+title={`Das fröhlich bunte Inaska Team`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_inaska-team-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_inaska-team-2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAb/xAAtEAABAwQBAQUIAwAAAAAAAAABAgMEAAUREiEGExQWMVEHFSIjM0FhgXGCkv/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAHREBAAIDAQADAAAAAAAAAAAAAQACAxEhMQQSE//aAAwDAQACEQMRAD8Av6yy2G1OJ+FZ1zjgcE8+g4PNJ7LIN6nXpIhtJgxX0tRZKFk94ToCpRSQMAK2AI4OPxWhNztfiOHZH3FGc6jvSGy2SjRCgMlXlnJ8qknsv60tlt8Re9LCm3x40jZBitOYWO3eSSvdZSSlXoBztxR2vru+EbFicj9air5KfdbG2HU4SPKiulDrUtlp9vJS4nYZHP7opS2zkC1EdMkPX/U6Y90tE23x5rj8cSGnW2mcrCSgKOAcgZ04PrWmw9K3ZPTExbmqlXmG485FkK7NTDq3C6deOdlrPH8VS5bNmuaUGQlO6SFJcbWULH9hzj8U1M+IkcuJwftmp3Buyr7LqfL/ADxlKnR9nN2C2XW3W5uDOfdkOsj6znOwJJ1B++ucfqin7t4ipI+aj/VFNUKmiR3s3s2Z/9k="
+/>
 
 **Anne:** Die Bikinis werden im Surferparadies Portugal hergestellt. Wo genau
 und warum?
@@ -167,13 +165,11 @@ sind, kann sich jede\*r individuell einbringen.
 
 ## "Arctic und Lava sind die Farben des Sommers 2019"
 
-<RemoteImage
-  alt="Inaska"
-  size="medium"
-  title="Sport mit Inaska"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_INASKA-Swimwear-Sportbikini-FREE-Lava-Sand-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_INASKA-Swimwear-Sportbikini-FREE-Lava-Sand-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAH/xAArEAABBAEDAwMDBQEAAAAAAAABAgMEEQUABhIhIlETFDEjMmEHFUFScYH/xAAYAQEAAwEAAAAAAAAAAAAAAAAAAgMEBf/EABsRAAICAwEAAAAAAAAAAAAAAAABAhESITED/9oADAMBAAIRAxEAPwBnQxuJDsqRjMZKlxOCQFTkNxk9nUqSgkKIV16qV0AAA1o2hnNwRkNMZmKxGgvNtqgrKEN9pu0qJUBzAocReteXy2TzW0GDimes9ltRWgJJShxIIISpQ5VYBAN+NAMnvjFx2fY7hx0391aYIbGQYKUocAr1EMEBJAuwbJ6VesPDoRjkqo5tPa5aflYrakmVAyDyy7KkynEkoZQVcW2y11V3rTd+PxWmhvJ5+HGnxPZt5ObF+kj2pUVrUlsFSlCqCSuwkEgmj/GkDZeUebkJfziJhcluJaDMJxTLskFRPJdVx+77QbV834v6I0eDH9tEZbYaSTSGxQvyfJ/J0hse1QddEWCmDt7Aw5GVfbjNQ47LThMgpb9RDQT6bY63ZBodbNnxqezmZ25snDy+dxb0hlyU0zF+nRbtwdjPKiel2QKv5NnVAxj8aU3GyaRKf9FtXtnJyD286KnAK6E18/16AAaF5fCSJsrHbgTkJys28mm0r4p9Jq7QsII7ePaeI6m/PXRqxB4uw9nV7PgIgJdxa5+QYcLkDHMxFpeecFC+KgAQOhKl9o+dG3shM9iJeRRFxTYRzfLz4eLfkWKR/wBs/wCaVspmWNjYZmQzj8jlEKdEaTkAechxVX6jhVZKSbqjxGhuF/UTHZGMhWTejQpCgHW0uvJQ2tBJAUk2bIIIINH4PwdTtLRTTez/2Q==" />
+<RemoteImage alt={`Inaska`} size="medium" title={`Sport mit Inaska`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_INASKA-Swimwear-Sportbikini-FREE-Lava-Sand-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_INASKA-Swimwear-Sportbikini-FREE-Lava-Sand-2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAH/xAArEAABBAEDAwMDBQEAAAAAAAABAgMEEQUABhIhIlETFDEjMmEHFUFScYH/xAAYAQEAAwEAAAAAAAAAAAAAAAAAAgMEBf/EABsRAAICAwEAAAAAAAAAAAAAAAABAhESITED/9oADAMBAAIRAxEAPwBnQxuJDsqRjMZKlxOCQFTkNxk9nUqSgkKIV16qV0AAA1o2hnNwRkNMZmKxGgvNtqgrKEN9pu0qJUBzAocReteXy2TzW0GDimes9ltRWgJJShxIIISpQ5VYBAN+NAMnvjFx2fY7hx0391aYIbGQYKUocAr1EMEBJAuwbJ6VesPDoRjkqo5tPa5aflYrakmVAyDyy7KkynEkoZQVcW2y11V3rTd+PxWmhvJ5+HGnxPZt5ObF+kj2pUVrUlsFSlCqCSuwkEgmj/GkDZeUebkJfziJhcluJaDMJxTLskFRPJdVx+77QbV834v6I0eDH9tEZbYaSTSGxQvyfJ/J0hse1QddEWCmDt7Aw5GVfbjNQ47LThMgpb9RDQT6bY63ZBodbNnxqezmZ25snDy+dxb0hlyU0zF+nRbtwdjPKiel2QKv5NnVAxj8aU3GyaRKf9FtXtnJyD286KnAK6E18/16AAaF5fCSJsrHbgTkJys28mm0r4p9Jq7QsII7ePaeI6m/PXRqxB4uw9nV7PgIgJdxa5+QYcLkDHMxFpeecFC+KgAQOhKl9o+dG3shM9iJeRRFxTYRzfLz4eLfkWKR/wBs/wCaVspmWNjYZmQzj8jlEKdEaTkAechxVX6jhVZKSbqjxGhuF/UTHZGMhWTejQpCgHW0uvJQ2tBJAUk2bIIIINH4PwdTtLRTTez/2Q=="
+/>
 
 **Franziska:** Für mich sind die Farben Arctic (Königsblau) und Lava (Rostrot)
 der Trend des Sommers 2019. Arctic ist die Farbe für alle, die sich dem Wasser

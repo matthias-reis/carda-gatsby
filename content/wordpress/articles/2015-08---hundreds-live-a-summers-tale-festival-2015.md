@@ -36,10 +36,15 @@ subTitle: Tanzen, zappeln und abhotten...
   
 ---
 
+**... konnte man nach Herzenslust auf dem wunderschönen Hundreds Konzert am
+Samstag auf dem A Summer's Tale Festival 2015. Die fröhliche Sängerin Eva Milner
+sorgte für tolle Stimmung und gab auch noch eine ganz persönliche Björk-Anekdote
+zum Besten, die mich mitten ins Herz traf.**
+
 Genau wie bei
 [Get Well Soon](/2015/08/get-well-soon-live-a-summers-tale-festival-2015/)
 handelt es sich bei Hundreds auch um ein musikalisches Geschwisterpaar mit Band,
-weil Philipp ausfiel, musste sich Eva einen Ersatz suchen, der mit seiner
+weil Philipp ausfiel, musste sich Eva einen Ersatz suchen, der mit seiner
 virtuosen Art von Anfang an überzeugte.
 
 ## Hundreds treffen mitten ins Herz
@@ -51,9 +56,15 @@ Einfach genießen.
 
 <Gallery name="flickr/annehundredsasummerstale2015" />
 
-<iframe src="https://www.youtube.com/embed/U_QrYmw2wjQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>## A Summer's Tale 2015 Wegweiser1.  [Get Well soon live @ A Summer's Tale Festival 2015](/2015/08/get-well-soon-live-a-summers-tale-festival-2015/)
+<iframe src="https://www.youtube.com/embed/U_QrYmw2wjQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+## A Summer's Tale 2015 Wegweiser
+
+1.  [Get Well soon live @ A Summer's Tale Festival 2015](/2015/08/get-well-soon-live-a-summers-tale-festival-2015/)
 1.  [Hundreds live @ A Summer's Tale Festival 2015](/2015/08/hundreds-live-a-summers-tale-festival-2015/)
 1.  [Calexico live @ A Summer's Tale Festival 2015](/2015/08/calexico-live-a-summers-tale-festival-2015/)
-1.  [Bildergalerie und Fazit A Summer's Tale Festival 2015](/2015/08/a-summers-tale-festival-2015/) [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+1.  [Bildergalerie und Fazit A Summer's Tale Festival 2015](/2015/08/a-summers-tale-festival-2015/)
+
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
   

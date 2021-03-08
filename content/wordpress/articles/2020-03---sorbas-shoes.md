@@ -13,11 +13,11 @@ excerpt: Werbung & Affiliate Links - Sorbas Shoes werden in kleinen
 focusKeyword: Sorbas
 labels:
   - Berlin
-  - Mode & Beauty
+  - Fair Fashion & Beauty
   - Schuhe vegan
   - Sorbas Shoes
-  - Vegane Produkte
   - vegane Schuhe
+  - veganes Leder
 type: Artikel
 typeName: Produkttest
 date: 2020-03-25T07:00:25.000Z

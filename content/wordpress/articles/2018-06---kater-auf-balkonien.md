@@ -16,11 +16,11 @@ labels:
   - daheim
   - dankbar
   - freier Tag
+  - Geschichten & Erlebtes
   - Hamburg
   - Katze
   - Sommer
   - Stadt
-  - Tagebuch
   - Tagebuch
 type: Galerie
 typeName: Galerie

@@ -12,8 +12,8 @@ excerpt: Ich habe mich mit Matteo Mureddu, dem Gründer von "Vegan Travel
   Motiviation verraten.
 focusKeyword: Vegane Strandäuser auf Sardinien
 labels:
-  - Interview
-  - Reisen
+  - Fernweh
+  - Interviews
 type: Artikel
 typeName: Interview
 date: 2015-04-07T08:02:41.000Z
@@ -29,6 +29,10 @@ subTitle: Vegan Holiday Sardinia
   
 ---
 
+**Ich habe mich mit Matteo Mureddu, dem Gründer von "Vegan Travel Sardinia"
+unterhalten. Er hat mir viele Details über Sardinien und seine Motiviation
+verraten.**
+
 Matteo lebt seit zwei Jahren vegan. Der Italiener ist Mitglied der
 Aktivistengruppe „Antipecism Sardinian“, die auf Sardinien viele Events für die
 Rechte der Tiere veranstaltet. Er hat Agrarwirtschaft studiert und ist
@@ -36,13 +40,12 @@ ganzheitlicher Massagetherapeut.
 
 ## Matteo und der Strand
 
-<RemoteImage
-  alt="vegane-strandhaeuser-auf-sardinien"
-  size="medium"
-  title="Matteo liebt Sardinien"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQgG/8QAKRAAAQMDAwQCAQUAAAAAAAAAAQIDBAAFEQYhMRITIkEHMhQkUWFxkf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EACQRAAIBAwMDBQAAAAAAAAAAAAECAwARIRITcZGh8QRBYcHR/9oADAMBAAIRAxEAPwDU5IAJJwByTVKdTQFWOTdI/ffZYOFtoaKXc5AA6VY3ORjOKg1DeDFsU15ooDgbKUFX1CleIJ/gE5NJLQvyI1qpFys0WOUJfjoffWpJHbWFAFKTncHkH+6km9Q6SaEF8XP11saeKNWTUx97fvS9aEgT2ZsCPLZ6g282HEhYwoAjgj0aK4OzX4hkwXVjMZtKUqSMdQG3+8cUVZHZ1DVFLIUYrSetfyDLkWt6Bdpcua082lKHXmG21t7/AGUUnyPHqlPo7Udw0Tqa4SpUH8hzK4z6XSWx3ArOeoDGdicfsatIsC5Jz+mSvyCT0KHnt4jf16Jqu1W5LlWRTyG3XIrJStxeCUoVsCSePeMc8VkiR92zZ1Y4t5PatbbXaJGNOeb+B3pmWHXrd0ixbhcCmA8FvMBpoqUhZJSQATvxvRSksUpxEGZFUhzo7qusoBPaUAME44HrNFJuyoSFYAfIoRBFIAWUng1//9k=" />
+<RemoteImage alt={`vegane-strandhaeuser-auf-sardinien`} size="medium"
+title={`Matteo liebt Sardinien`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQgG/8QAKRAAAQMDAwQCAQUAAAAAAAAAAQIDBAAFEQYhMRITIkEHMhQkUWFxkf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EACQRAAIBAwMDBQAAAAAAAAAAAAECAwARIRITcZGh8QRBYcHR/9oADAMBAAIRAxEAPwDU5IAJJwByTVKdTQFWOTdI/ffZYOFtoaKXc5AA6VY3ORjOKg1DeDFsU15ooDgbKUFX1CleIJ/gE5NJLQvyI1qpFys0WOUJfjoffWpJHbWFAFKTncHkH+6km9Q6SaEF8XP11saeKNWTUx97fvS9aEgT2ZsCPLZ6g282HEhYwoAjgj0aK4OzX4hkwXVjMZtKUqSMdQG3+8cUVZHZ1DVFLIUYrSetfyDLkWt6Bdpcua082lKHXmG21t7/AGUUnyPHqlPo7Udw0Tqa4SpUH8hzK4z6XSWx3ArOeoDGdicfsatIsC5Jz+mSvyCT0KHnt4jf16Jqu1W5LlWRTyG3XIrJStxeCUoVsCSePeMc8VkiR92zZ1Y4t5PatbbXaJGNOeb+B3pmWHXrd0ixbhcCmA8FvMBpoqUhZJSQATvxvRSksUpxEGZFUhzo7qusoBPaUAME44HrNFJuyoSFYAfIoRBFIAWUng1//9k="
+/>
 
 In seiner Freizeit ist er gerne mit seinem Kanu oder dem Fahrrad unterwegs,
 klettert oder trainiert im Studio. Außerdem reist er für sein Leben gern. Bei
@@ -81,13 +84,12 @@ kommt.
 
 ## Es kann nach Herzenslust gekocht werden
 
-<RemoteImage
-  alt="vegane-strandhaeuser-auf-sardinien"
-  size="medium"
-  title="Jeden Morgen schwimmen"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-7__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-7__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAIEBQYBAwf/xAArEAABAwMDAgUEAwAAAAAAAAABAgMEAAUREiExBmETFEFxoSIyQlFSYpH/xAAXAQEBAQEAAAAAAAAAAAAAAAABBgIF/8QAJBEAAQMDBAEFAAAAAAAAAAAAAQACAwQRIQUSMZFBIlGBsfD/2gAMAwEAAhEDEQA/AJhNsP8AH4rci1HP21XW+s+oLgInkLDGgpf0lSppVrb3wrKTpBwM++37qxWSX1Y66S7bLfPZA38srQoE5x6nsfiqEau1xwD0uAdKc0eogfKdtWr+vxTtFqx+NSqJPl1soujYguOJJ0up3PsM770t5T0yIpdslseoz4Qzxz9ShgDnv2odqgHg9Ibp98XHa5tbuqLNdXEx5Mdll1YJxDWlt0n9kJ1Nnb0wOOak3lW2F4a2760tDp0IaMMiTnnACTpPHOQKKKnxWTQna12D75VG6ggnG5zc8YwlM3JoAFpLy3cbLlKC9B7IThP+k1ibPnaMLhTpLSBhK46EuJzjdWlPvvtRRWqeV1TLaU3H7xwieBlLHeEW+++V/9k=" />
+<RemoteImage alt={`vegane-strandhaeuser-auf-sardinien`} size="medium"
+title={`Jeden Morgen schwimmen`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-7__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-7__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAIEBQYBAwf/xAArEAABAwMDAgUEAwAAAAAAAAABAgMEAAUREiExBmETFEFxoSIyQlFSYpH/xAAXAQEBAQEAAAAAAAAAAAAAAAABBgIF/8QAJBEAAQMDBAEFAAAAAAAAAAAAAQACAwQRIQUSMZFBIlGBsfD/2gAMAwEAAhEDEQA/AJhNsP8AH4rci1HP21XW+s+oLgInkLDGgpf0lSppVrb3wrKTpBwM++37qxWSX1Y66S7bLfPZA38srQoE5x6nsfiqEau1xwD0uAdKc0eogfKdtWr+vxTtFqx+NSqJPl1soujYguOJJ0up3PsM770t5T0yIpdslseoz4Qzxz9ShgDnv2odqgHg9Ibp98XHa5tbuqLNdXEx5Mdll1YJxDWlt0n9kJ1Nnb0wOOak3lW2F4a2760tDp0IaMMiTnnACTpPHOQKKKnxWTQna12D75VG6ggnG5zc8YwlM3JoAFpLy3cbLlKC9B7IThP+k1ibPnaMLhTpLSBhK46EuJzjdWlPvvtRRWqeV1TLaU3H7xwieBlLHeEW+++V/9k="
+/>
 
 Gekocht werden kann dann nach Herzenslust mit den Miturlaubern in der
 vollständig ausgestatteten, gemütlich eingerichteten Ferienhausküche. Perfekt
@@ -108,7 +110,7 @@ am besten aufgehoben fühlte, antwortete Matteo:
 "Tunesien, England, Irland, Holland, Tschechien und Spanien. Mit Abstand am
 besten lässt es sich als Veganer in Barcelona leben. Also Spanien. Und jetzt
 natürlich auch Sardinien. Könnt Ihr das bestätigen? Was sind Eure liebsten
-[Reiseziele](/category/unterwegs/reisen/) ? Soll ich über eine bestimmte
+[Reiseziele](/category/slow-travel/fernweh/) ? Soll ich über eine bestimmte
 Location berichten? Dann schreibt mir!
 
 Wer gerne mehr über Matteo und seine Ferienhäuser erfahren möchte, kann ihn

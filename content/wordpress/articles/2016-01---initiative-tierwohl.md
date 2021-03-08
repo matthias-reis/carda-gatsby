@@ -12,10 +12,10 @@ excerpt: Seit Kurzem gibt es eine neue Tierschutzinitiative. Die Tiere sollen
   viel.
 focusKeyword: Initiative Tierwohl
 labels:
-  - Darum vegan
   - Fleischindustrie
   - Initiative Tierwohl
   - Tierethik
+  - Tierhaltung
   - Tierrechte
   - Tierrechte
   - Tierschutz
@@ -69,13 +69,11 @@ bestanden.
 
 ## "Die Unternehmen der Fleischwirtschaft sind ein wichtiger Baustein"
 
-<RemoteImage
-  alt="Initiative Tierwohl"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Initiative-Tierwohl__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Initiative-Tierwohl__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGB//EACkQAAICAQMDAgYDAAAAAAAAAAECAwQRAAUhEjFBEyIGBxQjUYFhcZH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgX/xAAdEQACAwACAwAAAAAAAAAAAAABAgADERIhMlFh/9oADAMBAAIRAxEAPwCOmoSpY9S4LMIDgyWUJlV8kAN36SOM5zgnTKClYvXYq9e5tq2yvplQoibqHhuAPPfsdLrG7zblJXlkEnrKcS9IYHg8nAOCO3twMY1oPyz2RrdIXdzM2HlSSupftGuDn+mIBx5AH51nV1tZgIlahYctz5E+17VZX4N3ncrih7880VSsGUYUrIGZsdscH/NJTVs1FEZ3BZ+n3mGKw0YcjjBJGMDv+sfjV782ZIa2w7VURlR3uPY6eOllUHkjIzy41nFn6/cMJalvfc6TBChDxsh7kKCAOQTqbqiCFU9CQGK+MXBWRZ4qk1QTP7Io5ZfukZAHuXCZbnknx4Otk2Hf6Um2UwJoo3SFEZSwTo6VAIx+tGjTUuVdliFBmj3I75o7g243tvZDGEjR2HQeqQFiMcDtkLn+NRqy0rKz/VyH1epFVTICGHkcDOeV76NGjt0sYbKBhn//2Q==" />
+<RemoteImage alt={`Initiative Tierwohl`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Initiative-Tierwohl__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Initiative-Tierwohl__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGB//EACkQAAICAQMDAgYDAAAAAAAAAAECAwQRAAUhEjFBEyIGBxQjUYFhcZH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgX/xAAdEQACAwACAwAAAAAAAAAAAAABAgADERIhMlFh/9oADAMBAAIRAxEAPwCOmoSpY9S4LMIDgyWUJlV8kAN36SOM5zgnTKClYvXYq9e5tq2yvplQoibqHhuAPPfsdLrG7zblJXlkEnrKcS9IYHg8nAOCO3twMY1oPyz2RrdIXdzM2HlSSupftGuDn+mIBx5AH51nV1tZgIlahYctz5E+17VZX4N3ncrih7880VSsGUYUrIGZsdscH/NJTVs1FEZ3BZ+n3mGKw0YcjjBJGMDv+sfjV782ZIa2w7VURlR3uPY6eOllUHkjIzy41nFn6/cMJalvfc6TBChDxsh7kKCAOQTqbqiCFU9CQGK+MXBWRZ4qk1QTP7Io5ZfukZAHuXCZbnknx4Otk2Hf6Um2UwJoo3SFEZSwTo6VAIx+tGjTUuVdliFBmj3I75o7g243tvZDGEjR2HQeqQFiMcDtkLn+NRqy0rKz/VyH1epFVTICGHkcDOeV76NGjt0sYbKBhn//2Q=="
+/>
 
 Die Unternehmen der Fleischwirtschaft sind ein wichtiger Baustein der Initiative
 Tierwohl. Wie sich das wirtschaftlich auf die Organisation auswirkt, darüber

@@ -11,7 +11,7 @@ excerpt: Jack White setzt mal wieder noch eins obendrauf - Jetzt veröffentlicht
   er die schnellste Platte der Welt! Ich habe sie schon mal angehört!
 focusKeyword: Schnellste Platte der Welt
 labels:
-  - Bands & Reviews
+  - Bands
   - Guinness
   - Guinness Book of Records
   - Guinness Record
@@ -30,7 +30,7 @@ labels:
   - White Stripes
   - World Record Jack White
 type: Artikel
-typeName: Rezension
+typeName: Review
 date: 2014-04-22T17:49:04.000Z
 status: publish
 isWerbung: false
@@ -45,13 +45,14 @@ subTitle: Jack White setzt noch eins obendrauf!
   
 ---
 
-<RemoteImage
-  alt="Bild: Jack White Interview Magazine That Eric Alper"
-  size="medium"
-  title="[ ](http://www.google.de/imgres?imgurl=http%3A%2F%2Fwww.thatericalper.com%2Fwp-content%2Fuploads%2F2014%2F04%2FJack-White-Interview-Magazine-02.jpg&amp;imgrefurl=http%3A%2F%2Fwww.thatericalper.com%2F2014%2F04%2F07%2Fjack-white-announces-headlining-tour-dates%2F&amp;h=1600&amp;w=1238&amp;tbnid=oPRi6DO3D07_5M%3A&amp;zoom=1&amp;docid=96jHXz6LoCOvXM&amp;ei=c6hWU_6zB4LQtAb5s4DgCA&amp;tbm=isch&amp;client=safari&amp;iact=rc&amp;uact=3&amp;dur=226&amp;page=1&amp;start=0&amp;ndsp=23&amp;ved=0CF8QrQMwAAhttp://)  Bild: Jack White Interview Magazine That Eric Alper"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/04/jack-white-interview-magazine-02-700x904.jpg?w=232"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/04/jack-white-interview-magazine-02-700x904.jpg?w=232"
-  loadingUrl="undefined" />
+<h3>Nachtrag zu meinem heutigen Artikel über Jacks neue Single
+"High Ball Stepper"</h3>
+
+<RemoteImage alt={`Bild: Interview Magazine That Eric Alper`} size="medium"
+title={`Bild: Interview Magazine That Eric Alper`}
+mediumUrl="http://cardamonchai.com/wp-content/uploads/2014/04/jack-white-interview-magazine-02-700x904-640x827.jpg"
+largeUrl="http://cardamonchai.com/wp-content/uploads/2014/04/jack-white-interview-magazine-02-700x904-640x827.jpg"
+loadingUrl="undefined" />
 
 **Bereits vor ein paar Stunden
 [titelte ich mit Jack White](//2014/04/22/jack-white-stellt-neuen-song-vor/).
@@ -72,10 +73,15 @@ innerhalb von 24 Stunden zu produzieren und verkaufsfertig zu machen. Und wie
 alles, was er sich vornimmt, ist ihm auch dieser Coup gelungen. Mir fehlen die
 Worte.
 
-## Die schnellste Platte der Welt stand in Rekordzeit im Schaufenster [Third Man Records](http://thirdmanrecords.com) berichtet: Um 10 Uhr am Morgen des 20. April nahm Jack White "Lazaretto" live auf der Bühne des Blue Room im Headquater des Labels in Nashville auf, um 15:55 Ortszeit des gleichen Tages standen bereits die ersten 7"-Vinyls im Schaufenster.
+## Die schnellste Platte der Welt stand in Rekordzeit im Schaufenster
+
+[Third Man Records](http://thirdmanrecords.com) berichtet: Um 10 Uhr am Morgen
+des 20. April nahm Jack White "Lazaretto" live auf der Bühne des Blue Room im
+Headquater des Labels in Nashville auf, um 15:55 Ortszeit des gleichen Tages
+standen bereits die ersten 7"-Vinyls im Schaufenster.
 
 Jack White hat somit den Guinness World Record der Schweizer Polka Band "Vollgas
-Kompanie" gebrochen und geht mit der schnellsten Platte der Welt in die Annalen
+Kompanie" gebrochen und geht mit der schnellsten Platte der Welt  in die Annalen
 ein. "Vollgas Kompanie" hatten 2008 ihr Debut-Album "Live" nur einen Tag nach
 der Aufnahme zum Verkauf gestellt.
 
@@ -89,12 +95,14 @@ meiner Freude teilhaben.
 Der Song rockt, stampft, faucht, Jacks Gitarre schnurrt wie tausend Kätzchen und
 dann diese Geigen! Es ist ein wahrer Genuss und ich bin immer noch ganz
 verloren, höre mir "Lazaretto" gerade zum fünften Mal an und suche wie verrückt
-nach Buchstaben, die sich irgendwie nicht zu den passenden Worten formen lassen.
-Daher lasse ich an dieser Stelle einfach die Musik für sich sprechen.
+nach  Buchstaben, die sich irgendwie nicht zu den passenden Worten formen
+lassen. Daher lasse ich an dieser Stelle einfach die Musik für sich sprechen.
 
-**Vorhang auf für die dritte Stufe der Rakete! Hier ist für Euch Jack White mit
-Lazaretto!**
+Vorhang auf für die dritte Stufe der Rakete! Hier ist für Euch Jack White mit
+Lazaretto!
 
-[youtube http://www.youtube.com/watch?v=cYF0LtfUvJs]
+## Jack White – "Lazaretto"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qI-95cTMeLM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   

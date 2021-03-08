@@ -14,7 +14,6 @@ labels:
   - Computer
   - iMac
   - Kabelsalat
-  - Kunst
   - Mac
   - modern
   - Moderne
@@ -39,6 +38,9 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Bildergalerie aus der Pinakothek der Moderne
   
 ---
+
+**Hier ist meine Technik-Galerie aus der Pinakothek der Moderne. Wart Ihr schon
+mal dort? Was hat Euch besonders gut gefallen?**
 
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0082__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0082__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0083__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0083__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0084__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0084__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0086__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0086__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0088__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0088__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0093__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0093__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0095__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0095__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0098__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0098__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0100__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0100__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0102__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0102__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0113__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0113__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0114__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0114__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0116__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0116__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0117__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0117__l.jpg"}]}

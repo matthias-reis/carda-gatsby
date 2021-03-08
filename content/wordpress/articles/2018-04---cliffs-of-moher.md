@@ -11,14 +11,14 @@ excerpt: Die Cliffs Of Moher sind eine der bekanntesten Klippenlandschaften der
 focusKeyword: Cliffs Of Moher
 labels:
   - Aran Islands
-  - Brititsche Inseln
+  - Britische Inseln
   - Cliffs Of Moher
+  - Fernweh
   - Fotos
   - Ireland
   - Irland
   - Irland2017
   - Klippen
-  - Reisen
   - Reisen
   - Steilküste
 type: Galerie

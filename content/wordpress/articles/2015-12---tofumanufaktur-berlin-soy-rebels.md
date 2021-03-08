@@ -11,14 +11,15 @@ excerpt: Ich habe mich mit Mateusz Wawrzyniak von der Tofumanufaktur über das
 focusKeyword: Tofu
 labels:
   - Berlin
-  - Interview
+  - Interviews
   - Tofu
   - Tofu aus Deutschland
   - Tofuherstellung
   - Tofumanufaktur
   - Tofumanufaktur Berlin
   - Tofumanufaktur Soy Rebels
-  - Vegane Produkte
+  - Vegane Lokale
+  - vegane Lokale
 type: Artikel
 typeName: Interview
 date: 2015-12-02T15:16:51.000Z
@@ -33,6 +34,9 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: '"Tofu ist nicht gleich Tofu"'
   
 ---
+
+**Ich habe mich mit Mateusz Wawrzyniak von der Tofumanufaktur über das Kollektiv
+unterhalten. Dabei habe ich einiges über Tofu erfahren.**
 
 Auf ihrer Homepage beschreiben sich die Gründer der Tofumanufaktur Berlin mit
 den Worten "Wir sind ein vierköpfiges Kollektiv, das es sich zur Aufgabe gemacht
@@ -67,15 +71,15 @@ dem gängigen Tofu, den ich in Kühltheke im Supermarkt finde?
 einfach viel zu häufig in Verbindung gebracht mit Allergien, Impotenz und
 Genmalipulation. Wir sorgen da für einen besseren Ruf.
 
-<RemoteImage
-  alt="Tofumanufaktur"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Tofumanufaktur__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Tofumanufaktur__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EACoQAAEDAwMDAwQDAAAAAAAAAAECAwQABREGEiExQVETImEUI3GRMkKB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AFxIS2pIQWv7pBHxkVduuMxDKUxG9Yx3/RcQE/xV4/VQX7/aheXUl5SG0bVFS0YBwQTjueB4rPN6hmWzVN3LE1qRZbhcZUibtaO8IU3tZ4UAoEE4O0HpzQb+x3SO2pLseysFStyg6EgnvkZA+KnT77Ou8eRBciMsR0IDitoOSQrABJ/39VUaIRppjQFotWopKQ/DW6tse8FSwpRSsBHVOFd+KZvmrbbL1BOiW9cj6ZppbqX1YCF8JT+TyCRnpk4xzQcjtSro4lt5ptpS07z9zkHcAB89s9alSr1qNdwkuSEgGQ8XiUL9iFE7jgEeeaKKB964Oz7zGckvnCGktZBCVHB6fnGa3Wp50Ndo0vapzgYiLeW9IdSpLbmxMclIKu53Eec0UUH/2Q==" />
+## 100 Prozent regional und unverpackt
 
-## 100 Prozent regional und unverpackt-neutrale Lieferung mit dem Fahrrad und 100 Prozent regionale Zutaten.
+<RemoteImage alt={`Tofumanufaktur`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Tofumanufaktur__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Tofumanufaktur__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EACoQAAEDAwMDAwQDAAAAAAAAAAECAwQABREGEiExQVETImEUI3GRMkKB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AFxIS2pIQWv7pBHxkVduuMxDKUxG9Yx3/RcQE/xV4/VQX7/aheXUl5SG0bVFS0YBwQTjueB4rPN6hmWzVN3LE1qRZbhcZUibtaO8IU3tZ4UAoEE4O0HpzQb+x3SO2pLseysFStyg6EgnvkZA+KnT77Ou8eRBciMsR0IDitoOSQrABJ/39VUaIRppjQFotWopKQ/DW6tse8FSwpRSsBHVOFd+KZvmrbbL1BOiW9cj6ZppbqX1YCF8JT+TyCRnpk4xzQcjtSro4lt5ptpS07z9zkHcAB89s9alSr1qNdwkuSEgGQ8XiUL9iFE7jgEeeaKKB964Oz7zGckvnCGktZBCVHB6fnGa3Wp50Ndo0vapzgYiLeW9IdSpLbmxMclIKu53Eec0UUH/2Q=="
+/>
+
+-neutrale Lieferung mit dem Fahrrad und 100 Prozent regionale Zutaten.
 
 Mit dieser Kombination konnten wir bereits einige Leute, die früher Tofu nicht
 mochten, davon überzeugen. Außerdem sind wir fest der Meinung, dass wenn man
@@ -107,7 +111,11 @@ gut funktioniert hat (lacht). Im Anschluss war ich als Packer beim Bäcker täti
 anschließend im Verkauf beim Bio Backhaus. Naja und schlussendlich bin ich dann
 eben bei den Soy Rebels gelandet.
 
-## Samstags gibt es auch Burger **Anne:** Das klingt ja sehr vielseitig und abwechslungsreich! Ich habe gehört, Ihr seid, was den Verkauf angeht, auch ziemlich vielseitig aufgestellt. Wo kann man eure Produkte denn überall kaufen?
+## Samstags gibt es auch Burger
+
+**Anne:** Das klingt ja sehr vielseitig und abwechslungsreich! Ich habe gehört,
+Ihr seid, was den Verkauf angeht, auch ziemlich vielseitig aufgestellt. Wo kann
+man eure Produkte denn überall kaufen?
 
 **Mateusz:** In ausgewählten Bioläden, die Adressen sind auf unserer Homepage zu
 finden,\* und jeden Donnerstag und Samstag auf dem Wochenmarkt am Kollwitzplatz.
@@ -153,7 +161,12 @@ Ecke findet man inzwischen vegane Cafés, Restaurants, Läden etc, überall werd
 vegane Alternativen angeboten. Wie konnte sich das so toll entwickeln? Was
 unterscheidet Berlin in der Hinsicht von anderen Städten?
 
-## Über das vegane Berlin könnte man ein Buch schreiben **Mateusz:** Darüber könnte man ein Buch schreiben. Ich glaube dadurch, dass wir in einer sehr schönen Zeit leben, fühlen die Menschen sich freier. Sie haben Zeit, sich mit den verschiedensten Dingen auseinanderzusetzen, die man früher für Unsinn gehalten hätte und probieren gerne Neues aus.
+## Über das vegane Berlin könnte man ein Buch schreiben
+
+**Mateusz:** Darüber könnte man ein Buch schreiben. Ich glaube dadurch, dass wir
+in einer sehr schönen Zeit leben, fühlen die Menschen sich freier. Sie haben
+Zeit, sich mit den verschiedensten Dingen auseinanderzusetzen, die man früher
+für Unsinn gehalten hätte und probieren gerne Neues aus.
 
 **Anne:** Gibt es Pläne, Euer Sortiment zu erweitern?
 

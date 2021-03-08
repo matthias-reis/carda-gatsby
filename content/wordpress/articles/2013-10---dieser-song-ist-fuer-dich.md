@@ -13,6 +13,7 @@ excerpt: Im Moment scheine ich an einer echten Schreibblockade zu leiden. Doch
 focusKeyword: Schreibblockade
 labels:
   - Der Song
+  - Geschichten & Erlebtes
   - Herbst
   - Kater
   - Katze
@@ -24,15 +25,13 @@ labels:
   - Schreibblockade
   - Statusnachricht
   - Tagebuch
-  - Tagebuch
 type: Artikel
 typeName: Artikel
 date: 2013-10-17T10:49:01.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "7391"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_10_p1000534__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_10_p1000534__l.jpg
@@ -41,13 +40,17 @@ subTitle: Herbstliche Schreibblockade
   
 ---
 
-<RemoteImage
-  alt="Jeden Tag kommen Päckchen an"
-  size="medium"
-  title="Jeden Tag kommen Päckchen an"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/10/foto.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/10/foto.jpg?w=300"
-  loadingUrl="undefined" />
+**Ich scheine im Moment leider unter einer Art Schreibblockade zu leiden,
+weshalb ich schon länger nichts Sinnvolles mehr zu Papier gebracht habe. Ich
+möchte Euch nicht im Stich lassen, daher nutze ich heute die Mittagspause um
+zumindest eine kleine Statusmeldung abzusetzen.**
+
+<RemoteImage alt={`Jeden Tag kommen Päckchen an`} size="medium"
+title={`Jeden Tag kommen Päckchen an`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_10_foto__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_10_foto__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgUH/8QALRAAAQIEAgcJAQAAAAAAAAAAAQACAwQFBxEhBhIyNlFhwRMUFyNSYnGDk9H/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgQD/8QAHxEAAgECBwAAAAAAAAAAAAAAAAEDAhETITFBUbHR/9oADAMBAAIRAxEAPwDnDrlViNNsbFp+jLSx51IsOkQWPbzBCebcSrO24NEefdIwynhcC3p26DUT9EP+qTcC3AG7VQeecGGOqlqxNn34VJR8GeLg1Rpx7lQHO9Rp8PFJ124NTnJNjJ2m6PzRY7yzFkGudD4hpxyByx+AtrxBtvhudPP/ADHVLxriW/z7PQWYdw1phg6JLyPUZKNZpHHCc1GKEKgxLY5KhcEIQkMf/9k="
+/>
 
 Wir sind inzwischen umgezogen. Da ich inzwischen nicht mehr viel Lust auf
 Möbelhäuser habe, lasse ich mir so einiges ins Büro liefern. Jeden Tag kommen
@@ -69,13 +72,12 @@ Er kann uns sehen! Und er freut sich jedes Mal, wenn wir ihn auf den Arm nehmen,
 um ihn für ein Stündchen aus seiner Höhle zu befreien, damit er seine Runden mit
 den Staubmäusen drehen kann.
 
-<RemoteImage
-  alt="Dem Kater geht es wieder besser"
-  size="medium"
-  title="Dem Kater geht es wieder besser"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/10/9817_643714558984010_654150013_n.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/10/9817_643714558984010_654150013_n.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Dem Kater geht es wieder besser`} size="medium"
+title={`Dem Kater geht es wieder besser`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_10_9817_643714558984010_654150013_n__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_10_9817_643714558984010_654150013_n__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABwUGAAIDBP/EACkQAAIBAwMEAAYDAAAAAAAAAAECAwQFEQAGIRITMWEUIjJBUaFxkbH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQABAgP/xAAdEQABAwUBAAAAAAAAAAAAAAABAAIDBBESITFB/9oADAMBAAIRAxEAPwAXpIYZo7fHUu0KZJ6lwT9BH59asW0LhFbqiZJS89OFxETy6gkZH6Gs2/ZFXbtPX1ausnaEKkkdI88jH3xqMoK6ipKv5FlPbYsHYjBx4x/moZDcgeLsyLV3epQlqKCrs1RGkqpLKFPQ/BUA5Of40Zbpiprmjw0jF5IiXWbpxH7Xq966w3yKqLdx440wwUvnGc8ZI9edQ95BeHtu8XD8BD549cY1qNzgbFVIxtrhNl02/aqXaUNAa1KeuXpVQnKsx4xg85z9hrzbD2ha7TBWi9LFdZJoWQQiEDoyDhlzkhvv1DWt2W0Xms+Jo7pTzhHMscEYziReM4PvOrNFZ561lAGZsZPSMkE+OPI0uEhx6mLo980jm8bFtdmsQnimepr2Kl2nIjAbByFQcf3ovrZHFVOZUw3gH8gadt8bVpKKhiuF5rI6aNZBG7MWLesAcluD8v7GhDdMVK7/ABVsk7lOD5ZDG2Paknn2Dounky6UJUNxGl//2Q=="
+/>
 
 Wir sind wirklich froh, dass sich alles so zum Guten gewendet hat. Die Ärzte in
 der Rehaklinik sagen, es grenzt an ein Wunder. Chili hat viele Fans dort. Am
@@ -103,18 +105,25 @@ dem Laufenden halten.
 geschrieben. Große Veröffentlichungen werfen die glänzenden Schatten ihres
 funkelnden Lichts voraus:
 
-> _"Hallo Martin, wie sieht es denn mit Dodos, Russian Circles, Pearl Jam, Mark
-> Lanegan, Pelican und Arcade Fire aus?"_ _"Hallo Anne, Dodos ist da, Pearl Jam
-> CD ist raus, Vinyl ist aber verschoben worden, Lanegan LP ist da,
-> Russian/Pelican/Arcade kommen erst Ende Oktober raus. Gruß Martin"_
+<blockquote>
+
+"Hallo Martin, wie sieht es denn mit Dodos, Russian Circles, Pearl Jam, Mark
+Lanegan, Pelican und Arcade Fire aus?"
 
 <RemoteImage
-  alt="Eddie Vedder Pearl Jam Isle Of Wight Festival 2012 mit dem Herzmann"
-  size="medium"
-  title="Eddie Vedder Pearl Jam Isle Of Wight Festival 2012 mit dem Herzmann"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/10/p1000534.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/10/p1000534.jpg?w=300"
-  loadingUrl="undefined" />
+alt={`Eddie Vedder Pearl Jam Isle Of Wight Festival 2012 mit dem Herzmann`}
+size="medium"
+title={`Eddie Vedder Pearl Jam Isle Of Wight Festival 2012 mit dem Herzmann`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_10_p1000534__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_10_p1000534__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQEDCP/EACcQAAIBAwEIAgMAAAAAAAAAAAECAwAEERIFEyExQVFhcQYjFKHw/8QAGAEBAAMBAAAAAAAAAAAAAAAABAECAwX/xAAiEQACAgEDBAMAAAAAAAAAAAABAgARAwQTMSEiQbESUcH/2gAMAwEAAhEDEQA/AOeLC4e0u4Z4WKyRkMCDTDcwy7dWS8C/ZnJx+zSxHx5An0Kc/hF7HahjMAIjw1H+910cuIhd7GtsPXmP0Dh22Mh7T7ipcWzRSFWXiKzDatM+AMe6v9qXVptZvyLSJ4YA5B1nJx381STz7pSI+XInvTKBT5V1hnxoj82siPJ9LhSFDkdSBjpUtb5RbQRhoTofUxIbUcdCeRHoUUVidS69B5FfsMEF39TZdbUe9u2lnmU63LkRrhVzgYA7YAqHK8Txk7xS3M6QfHiiioGcqoFcy57uZ//Z"
+/>
+
+"Hallo Anne, Dodos ist da, Pearl Jam CD ist raus, Vinyl ist aber verschoben
+worden, Lanegan LP ist da, Russian/Pelican/Arcade kommen erst Ende Oktober
+raus. Gruß Martin"
+
+</blockquote>
 
 Ich bin schon unglaublich gespannt, Ihr auch? Einen kleinen Teaser hat mir
 Martin ja schon geschickt, Ihr findet Ihn
@@ -127,8 +136,8 @@ werde mich heute Abend auch auf jeden Fall noch etwas eingehender damit
 beschäftigen. Vorab hier schon mal ein wundervoller Auszug daraus. Der Song
 heißt Sirens.
 
-Mathis, dieser Song ist für Dich. &lt;3
-[Weißt Du noch](//2012/07/29/isle-of-wight-festival-2012/) ? :-)
+Mathis, dieser Song ist für Dich.
+[Weißt Du noch](//2012/07/29/isle-of-wight-festival-2012/) ?
 
 [youtube=http://www.youtube.com/watch?v=qQXP6TDtW0w&amp;w=560&amp;h=315]
 

@@ -16,6 +16,7 @@ labels:
   - Dampfbad
   - Dünen
   - dusche
+  - Fair Fashion & Beauty
   - Flip Flops
   - Gumbies
   - Reisen
@@ -28,7 +29,6 @@ labels:
   - Surfstyle
   - Urlaub
   - vegane Flip Flops
-  - Vegane Produkte
   - vegane Schuhe
   - Wandern
   - Workout
@@ -59,13 +59,11 @@ Der Australien-Auswanderer stellte sich die Frage
 > "Zwei bis vier Mal in unserem Leben laufen wir um die ganze Erde. Wie schön
 > wäre es, einen Teil davon in Strandsandalen zu gehen?"
 
-<RemoteImage
-  alt="Gumbies"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39720943915_f9432d3838_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39720943915_f9432d3838_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwAEBQYI/8QAJxAAAQMDBAICAgMAAAAAAAAAAQIDBAAFEQYSITETQSJhQlGBkbH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAIxEAAQQCAQMFAAAAAAAAAAAAAQACAxEEIQUSUfAiMUFhsf/aAAwDAQACEQMRAD8AcjbgIKnCB8W1qH8JJoKuOo97cAy48F4sgqPiY8ZJKCMHaR0ee6WXtdWk2+RHYktTJSG9qo8Z1C3EBQ27lc8JBIyaFo2kpMdLjTrjr0htbaVLDSi2lOOcE4zx+vVSS8fHnPaX16b2fvRSJuSGA0/JNaAvwd1l6RvU24ahtsCSA7HceSkLdJUoYBPBJJPXunWXbwGgtI7GaGYbln04wzLkxFtut/NuQ6lKF+RXKcEkgewME8c5pF0zrO23e1Nlm6RpUlKMONoUNwUOyE94+/8AOqczGjxtRigdoIc45hJI9ted/wAXlay3aZZ7giXAd8atwaW3+DiNw+Ch7T9V3Vz17dkXabDhpYbZjuqYQXQXFgDHSsj+qqqT1Fp0qZIWSini1zF5vlwuclJuEhx5SR8TuI2/Q9gfValMlxh+K/HPicQ4Cko4IOR7FVVbdmyia0MHS0UF/9k=" />
+<RemoteImage alt={`Gumbies`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39720943915_f9432d3838_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39720943915_f9432d3838_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwAEBQYI/8QAJxAAAQMDBAICAgMAAAAAAAAAAQIDBAAFEQYSITETQSJhQlGBkbH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAIxEAAQQCAQMFAAAAAAAAAAAAAQACAxEEIQUSUfAiMUFhsf/aAAwDAQACEQMRAD8AcjbgIKnCB8W1qH8JJoKuOo97cAy48F4sgqPiY8ZJKCMHaR0ee6WXtdWk2+RHYktTJSG9qo8Z1C3EBQ27lc8JBIyaFo2kpMdLjTrjr0htbaVLDSi2lOOcE4zx+vVSS8fHnPaX16b2fvRSJuSGA0/JNaAvwd1l6RvU24ahtsCSA7HceSkLdJUoYBPBJJPXunWXbwGgtI7GaGYbln04wzLkxFtut/NuQ6lKF+RXKcEkgewME8c5pF0zrO23e1Nlm6RpUlKMONoUNwUOyE94+/8AOqczGjxtRigdoIc45hJI9ted/wAXlay3aZZ7giXAd8atwaW3+DiNw+Ch7T9V3Vz17dkXabDhpYbZjuqYQXQXFgDHSsj+qqqT1Fp0qZIWSini1zF5vlwuclJuEhx5SR8TuI2/Q9gfValMlxh+K/HPicQ4Cko4IOR7FVVbdmyia0MHS0UF/9k="
+/>
 
 In diesem Moment waren Gumbies geboren. Inspiriert von der schroffen und
 bezaubernden Natur Australiens. Getrieben von seiner Leidenschaft und
@@ -94,13 +92,11 @@ neidische Blicke erntete.
 
 > "Wo kann man die denn kaufen?",
 
-<RemoteImage
-  alt="Gumbies"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40574308322_a1729de6c1_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40574308322_a1729de6c1_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAUD/8QAKhAAAQQBAwIGAQUAAAAAAAAAAQIDBBEABRIxIUEGBxMiYXEUFVGBobH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAcEQADAAIDAQAAAAAAAAAAAAAAAQIRMQMTIUH/2gAMAwEAAhEDEQA/AGomdGhMpe1SdGiNkWC+6lFj+T1zB8SeZUKE2yzoC/zluEpcfbbVtaFDqncmlHr9Ymf13T3n3X9cStepOG1SHG95WntRAND4FfWRc1+CW0usocWGTZLcVV8jk1XNZPY/iJqcrGhowfM59BKZEGTKaULSpclvd88J4rtm9C8WaRq7Z9KQIckVbEtQbWb7p60oX3GJFHiSChaXnpiitAoJW2pPSvr4F38ZX1TW4urhCYcbcEHcXK9iRX7kf5krkpbGZSWEZcd00AQCQee+Xos73rBYbNoolXuJF8f0MMMxZqdVPdFFTaCeTQq8lo8Net65CgLe9FMhQTuCb2j6sYYYyvQZ/9k=" />
+<RemoteImage alt={`Gumbies`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40574308322_a1729de6c1_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40574308322_a1729de6c1_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAUD/8QAKhAAAQQBAwIGAQUAAAAAAAAAAQIDBBEABRIxIUEGBxMiYXEUFVGBobH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAcEQADAAIDAQAAAAAAAAAAAAAAAQIRMQMTIUH/2gAMAwEAAhEDEQA/AGomdGhMpe1SdGiNkWC+6lFj+T1zB8SeZUKE2yzoC/zluEpcfbbVtaFDqncmlHr9Ymf13T3n3X9cStepOG1SHG95WntRAND4FfWRc1+CW0usocWGTZLcVV8jk1XNZPY/iJqcrGhowfM59BKZEGTKaULSpclvd88J4rtm9C8WaRq7Z9KQIckVbEtQbWb7p60oX3GJFHiSChaXnpiitAoJW2pPSvr4F38ZX1TW4urhCYcbcEHcXK9iRX7kf5krkpbGZSWEZcd00AQCQee+Xos73rBYbNoolXuJF8f0MMMxZqdVPdFFTaCeTQq8lo8Net65CgLe9FMhQTuCb2j6sYYYyvQZ/9k="
+/>
 
 wurde ich gefragt und schickte gleich mal Links rum. Von der Umkleide in die
 Turnhalle und wieder zurück ist jetzt kein großer Weg, aber ich fühlte mich gut
@@ -131,13 +127,11 @@ Fall begleiten.
 
 ## Fazit: Sie werden mich noch lange begleiten
 
-<RemoteImage
-  alt="Gumbies"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40574298002_0dafffba75_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40574298002_0dafffba75_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAqEAACAQMCAwkAAwAAAAAAAAABAgMEBREAEiExUQcTFSIyQWFxgRQjof/EABkBAAEFAAAAAAAAAAAAAAAAAAUBAgMEBv/EACMRAAIBAwMEAwAAAAAAAAAAAAECAAMEESExURJBcYEikeH/2gAMAwEAAhEDEQA/ALqt0tVPK8dRX0yyR+td+Sv3jl+6R1faLbaYhloKw05cxiRo38zbsD0qQAepOOWpffPFbBWTPTFqu1SkkR7FZ4STnK54Ng+zfQI1w25fHaSYSSLWxPIryMkjKwYbuBBIKsM+lhwJ/dPVQyk5145gq5uK1FwGHxPcYOPv88yg3TtYcVcsFtsTssbbDJUlufLO0AEDPU5+BpLZu0G8isLXv+PUUMkoRjHCIu4BPMEcwOhyfnSt6NlhqKtKtzUTAuEqkC7s+x6Z++mksi1dTQVELb4UBC4ljJTcvso3Ak7sYx76vdVsKeFXJ78+oEFzfvWBZ8DcceDpN5dataaiklki70AcVzjP+HWWNkt17RbhBFNQVfECWCXDDHyAMj4PDRo0KJmvxpEN1ivVq2x09+ndHbb/AG08bEcOoAz10wmt81Na2r7rc66vBTcYI2WmQgjBHkGSP3Ro0hdjuZEtCkpyFA9T/9k=" />
+<RemoteImage alt={`Gumbies`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40574298002_0dafffba75_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40574298002_0dafffba75_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAqEAACAQMCAwkAAwAAAAAAAAABAgMEBREAEiExUQcTFSIyQWFxgRQjof/EABkBAAEFAAAAAAAAAAAAAAAAAAUBAgMEBv/EACMRAAIBAwMEAwAAAAAAAAAAAAECAAMEESExURJBcYEikeH/2gAMAwEAAhEDEQA/ALqt0tVPK8dRX0yyR+td+Sv3jl+6R1faLbaYhloKw05cxiRo38zbsD0qQAepOOWpffPFbBWTPTFqu1SkkR7FZ4STnK54Ng+zfQI1w25fHaSYSSLWxPIryMkjKwYbuBBIKsM+lhwJ/dPVQyk5145gq5uK1FwGHxPcYOPv88yg3TtYcVcsFtsTssbbDJUlufLO0AEDPU5+BpLZu0G8isLXv+PUUMkoRjHCIu4BPMEcwOhyfnSt6NlhqKtKtzUTAuEqkC7s+x6Z++mksi1dTQVELb4UBC4ljJTcvso3Ak7sYx76vdVsKeFXJ78+oEFzfvWBZ8DcceDpN5dataaiklki70AcVzjP+HWWNkt17RbhBFNQVfECWCXDDHyAMj4PDRo0KJmvxpEN1ivVq2x09+ndHbb/AG08bEcOoAz10wmt81Na2r7rc66vBTcYI2WmQgjBHkGSP3Ro0hdjuZEtCkpyFA9T/9k="
+/>
 
 Von mir bekommen die Gumbies 10 von 10 Punkten und Ihr meine Empfehlung.
 Besonders mag ich den nachhaltigen Gedanken dahinter. Ich kann mir nach der

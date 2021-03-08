@@ -52,7 +52,7 @@ leckeres, winterliches Gericht, dass Ihr ganz schnell zubereiten könnt.
 
 - 1 Pfund Schwarzwurzeln
 - Ungefähr 1 Kilo kleine Kartoffeln (Drillinge)
-- 1 Handvoll Hefeflocken
+- 1 Handvoll [Hefeflocken](/2021/01/hefe-ist-vegan/)
 - rund 1 Prise Paprika Edelsüß
 - 1 Zwiebel
 - Pfeffer grob gemahlen
@@ -79,10 +79,10 @@ besten probiert ihr nach rund 15 Minuten Garzeit mal einen der Erdäpfel - Ist e
 gar, könnt Ihr alles andere auch vom Herd nehmen.
 
 Während das Gemüse auf dem Herd kocht, bereitet Ihr die Sauce zu. Schält dazu
-die Zwiebel und gebt sie mit den Hefeflocken, einer Prise Meersalz, dem
-Paprikapulver, den Cashewkernen, rund einem Teelöffel süßem Senf sowie Pfeffer
-nach Geschmack in den Mixer und lasst sie zusammen mit der Sojamilch ordentlich
-tanzen.
+die Zwiebel und gebt sie mit den [Hefeflocken](/2021/01/hefe-ist-vegan/), einer
+Prise Meersalz, dem Paprikapulver, den Cashewkernen, rund einem Teelöffel süßem
+Senf sowie Pfeffer nach Geschmack in den Mixer und lasst sie zusammen mit der
+Sojamilch ordentlich tanzen.
 
 Angerichtet sieht das Ganze dann so aus, wie auf dem Bild oben.
 

@@ -1,6 +1,6 @@
 ---
 title: Schichtkartoffeln & Kürbis
-seoTitle: Schichtkartoffeln und Kürbis aus dem Ofen - winterliches Rezept
+seoTitle: Schichtkartoffeln und Kürbis aus dem Ofen
 slug: schichtkartoffeln-kuerbis-aus-dem-ofen
 path: /2019/11/schichtkartoffeln-kuerbis-aus-dem-ofen/
 fileName: 2019-11---schichtkartoffeln-und-kuerbis.md
@@ -12,6 +12,7 @@ excerpt: Werbung & Affiliate Link - Winter ist Kartoffelzeit. Besonders lecker
   Kürbis gut - hier ist mein Rezept.
 focusKeyword: Schichtkartoffeln
 labels:
+  - Birkenzucker
   - Butternuss-Kürbis
   - einfach kochen
   - günstig vegan kochen
@@ -20,9 +21,11 @@ labels:
   - Kürbis
   - Ofenkartoffeln
   - Schichtkartoffeln
+  - vegane Rezepte
   - Vegane Rezepte
   - Winter
   - winterliche Küche
+  - Xucker
 type: Artikel
 typeName: Rezept
 date: 2019-11-18T17:27:53.000Z

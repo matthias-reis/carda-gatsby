@@ -13,14 +13,14 @@ excerpt: Es ist soweit! Ich bin wieder zurück in Hamburg! Jetzt geht es so
 focusKeyword: wieder da
 labels:
   - Berlin
+  - Fernweh
+  - Geschichten & Erlebtes
   - Kopenhagen
   - Reisblog
-  - Reisen
   - Reisen
   - Reisetagebuch
   - Roadtrip
   - Stockholm
-  - Tagebuch
   - travelling
   - Urlaub
 type: Artikel

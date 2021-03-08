@@ -18,6 +18,7 @@ labels:
   - Paranuss
   - Paranuss-Brotaufsstrich
   - vegan
+  - vegane Rezepte
   - Vegane Rezepte
   - Veganer
   - veganer Brotaufstrich
@@ -36,26 +37,37 @@ subTitle: Veganer Frühstücksaufstrich zum Selbermachen
   
 ---
 
+**Liebt Ihr es auch auch so sehr, am Wochenende ausgedehnt zu frühstücken?
+Selbstgemachte Brotaufstriche dürfen dabei nicht fehlen. Ich verrate Euch heute
+mein Rezept für einen leckeren Paranuss-Tomaten-Aufstrich.**
+
 Paranüsse, auch Amazonenmandeln oder Marahonkastanie genannt, sind sehr gesund.
 Sie stecken voll mit gesunden Fettsäuren, Proteinen und Nährstoffen. Nur
 Vorsicht, nicht zuviel davon genießen, sonst bleibt kein Platz mehr im Magen für
 Eure [Bananenwaffeln](/2015/03/bananenwaffeln/) und das
 [Rührtofu](/2014/09/ruhrtofu/), denn die Dinger sind auch ganz schön fettig. ;-)
 
-## Ihr braucht- Blender
+## Ihr braucht
 
+- Blender
 - Glas mit Deckel
-- Plastiklöffel## Zutaten- 200 g geschälte Paranüsse
+- Plastiklöffel
+
+## Zutaten
+
+- 200 g geschälte Paranüsse
 - 3 mittelgroße getrocknete Tomaten
 - 2 El kaltgepresstes Olivenöl
 - 1 El Sojasauce
 - 1 Tl süßes Paprikapulver
-- 1 kleine Tasse Wasser## Zubereitung
+- 1 kleine Tasse Wasser
 
-Alle Zutaten zusammen in den Blender geben und in kurzen Hüben pürieren, bis
+## Zubereitung
+
+Alle Zutaten zusammen in den Blender geben und in kurzen Hüben pürieren, bis
 sich eine gleichmäßige Masse ergeben hat. Habt Geduld, es kann eine kleine Weile
 dauern. Achtet darauf, zwischendurch ein paar kleine Pausen einzulegen, damit
-der Blender nicht überhitzt. Für unser 2 PS Modell stellt das kein Problem dar,
+der Blender nicht überhitzt. Für unser 2 PS Modell stellt das kein Problem dar,
 für kleinere Mixer ist es evtl. schwieriger und es kann dann auch Sinn machen,
 die Nüsse vorher schon mal ein Bisschen mit dem Messer zu zerkleinern.
 
@@ -70,6 +82,6 @@ Studentenfutter einen genialen Frühstücksaufstrich herstellen. Viel Spaß beim
 Ausprobieren!
 
 Weitere Rezepte aus meiner Feder
-[sind hier zu finden](/category/vegan-2/rezepte/).
+[sind hier zu finden](/category/vegan/vegane-rezepte/).
 
   

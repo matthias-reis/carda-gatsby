@@ -13,11 +13,11 @@ labels:
   - Berlin
   - Berlin Fashion Week
   - Fair Fashion
+  - Fair Fashion & Beauty
   - Fake Fur
   - Fashion Week
   - High Fashion
-  - Interview
-  - Mode & Beauty
+  - Interviews
   - New York Fashion Week
   - PETA approved
   - PETA Award
@@ -41,11 +41,20 @@ subTitle: '"Der Trend der Saison ist Unisex"'
   
 ---
 
+**Für den innovativen Ausbau des Nachhaltigkeits-Gedankens wurde das junge
+vegane Modelabel Umasan mehrfach ausgezeichnet, zuletzt mit dem PETA Award 2014.
+Ich habe mich mit den beiden Gründerinnen unterhalten Sandra und Anja Umann
+unterhalten.**
+
 Bei der Fashion Week ist die vegane Mode von Umasan dieses Jahr mit einem
 privaten Showroom vertreten, zudem stellt das angesagte Label auf der Tranoi
 Messe in Paris und New York aus.
 
-## 20 Fragen an die Gründerinnen des veganen Modelabels Umasan **Anne:** Zunächst mal vielen Dank, dass Ihr Euch die Zeit für das Interview nehmt! Ihr steckt ja sicherlich ganz schön im Stress rund um die Vorbereitungen zu Fashion Week. Wo kommt Ihr gerade her?
+## 20 Fragen an die Gründerinnen des veganen Modelabels Umasan
+
+**Anne:** Zunächst mal vielen Dank, dass Ihr Euch die Zeit für das Interview
+nehmt! Ihr steckt ja sicherlich ganz schön im Stress rund um die Vorbereitungen
+zu Fashion Week. Wo kommt Ihr gerade her?
 
 **Sandra:** Zur Zeit sind wir noch in Berlin, übermorgen geht es dann nach Paris
 
@@ -55,7 +64,12 @@ Messe in Paris und New York aus.
 
 **Anne:** Wie lautet Euer Motto?
 
-## Wir möchten ein neues Wertebewusstsein vermitteln **Sandra:** Unser Ziel ist es, Menschen, für die Lifestyle eine wichtige Rolle spielt, durch ein neues Erlebnis zu inspirieren, eine neuartige Sinneserfahrung für Körper und Geist zu schaffen, inspirierende Momente zu kreieren und ein neues Wertebewusstsein und einen Unterschied zu machen.
+## Wir möchten ein neues Wertebewusstsein vermitteln
+
+**Sandra:** Unser Ziel ist es, Menschen, für die Lifestyle eine wichtige Rolle
+spielt, durch ein neues Erlebnis zu inspirieren, eine neuartige Sinneserfahrung
+für Körper und Geist zu schaffen, inspirierende Momente zu kreieren und ein
+neues Wertebewusstsein und einen Unterschied zu machen.
 
 **Anne:** Wie seid Ihr auf die Idee gekommen, vegane Mode zu machen?
 
@@ -67,7 +81,10 @@ Dogmen brechen.
 
 **Anja:** Aktuell sechs Mitarbeiter, plus wir beide. Also insgesamt acht.
 
-## Individuelle Mode in Anlehnung an die japanische Schnittkunst **Anne:** Umasan – Das klingt schon richtig nach toller Mode. Was bedeutet es genau?
+## Individuelle Mode in Anlehnung an die japanische Schnittkunst
+
+**Anne:** Umasan – Das klingt schon richtig nach toller Mode. Was bedeutet es
+genau?
 
 **Anja:** Umasan steht für individuelle Mode mit perfektionierter Formsprache in
 Anlehnung an die japanische Schnittkunst. Das Design fokussiert sich auf zeitlos
@@ -79,7 +96,10 @@ Nachhaltigkeit.
 **Anne:** Eure Mode verbindet japanische mit europäischen Elementen. Was
 verbindet Euch mit Japan?
 
-## Anja hat für Yohji Yamamoto gearbeitet **Sandra:** Anja arbeitete erfolgreich für Yohji Yamamoto in Tokyo. Ferner interessiert uns die japanische Philosophie und Ästhetik sehr.
+## Anja hat für Yohji Yamamoto gearbeitet
+
+**Sandra:** Anja arbeitete erfolgreich für Yohji Yamamoto in Tokyo. Ferner
+interessiert uns die japanische Philosophie und Ästhetik sehr.
 
 **Anne:** Vegane, umweltfreundliche Labels schießen zur Zeit wie Pilze aus dem
 Boden. Was unterscheidet Euch von den anderen?
@@ -92,7 +112,9 @@ zweite Haut tragen. Die Kombination aus dem Anspruch der Nachhaltigkeit und der
 sozialen Verantwortung lässt eine kraftvolle, zukunftsweisende Synergie
 entstehen.
 
-## "Wir leben seit neun Jahren vegan" **Anne:** Wie lange lebt Ihr selbst schon vegan?
+## "Wir leben seit neun Jahren vegan"
+
+**Anne:** Wie lange lebt Ihr selbst schon vegan?
 
 **Sandra und Anja:** Seit neun Jahren!
 
@@ -101,7 +123,16 @@ entstehen.
 **Sandra:** Wir haben uns zunächst vegetarisch ernährt und und dann aus
 ethisch-moralischen Gründen dafür entschieden, vegan zu leben.
 
-## "Fake-Pelz kann eine Alternative sein" **Anne:** Pelze sind ja (sogar im Sommer) momentan ein großer Modetrend. Dass Veganer⋆innen keinen Pelz tragen, ist klar. Jedoch überschwemmen Pelzimitate jeglicher Art mehr und mehr den Markt. Ein kontroverses, heißdiskutiertes Thema, kann man doch ["echt" nur schlecht von "fake" unterscheiden](/2014/11/fakepelz-echtpelz/). Zudem sind viele der Meinung, auch "fake" setze ein Statement für "echt". Wie seht Ihr das? Was ist Eure Einstellung zu Pelz und zur aufkeimenden, neuen Pelzmode im Allgemeinen?
+## "Fake-Pelz kann eine Alternative sein"
+
+**Anne:** Pelze sind ja (sogar im Sommer) momentan ein großer Modetrend. Dass
+Veganer⋆innen keinen Pelz tragen, ist klar. Jedoch überschwemmen Pelzimitate
+jeglicher Art mehr und mehr den Markt. Ein kontroverses, heißdiskutiertes Thema,
+kann man doch
+["echt" nur schlecht von "fake" unterscheiden](/2014/11/fakepelz-echtpelz/).
+Zudem sind viele der Meinung, auch "fake" setze ein Statement für "echt". Wie
+seht Ihr das? Was ist Eure Einstellung zu Pelz und zur aufkeimenden, neuen
+Pelzmode im Allgemeinen?
 
 **Anja:** Ich denke, dass "fake” ist eine absolute Alternative ist und sehe dies
 auch nicht negativ. Echter Pelz ist ein absolutes Tabu und durchweg veraltet. Es
@@ -112,7 +143,9 @@ die Zukunft sind und individuellen Ansprüchen gerecht werden.
 
 **Sandra:** Unisex!
 
-## Weniger ist oft mehr **Anne:** Wie kann ich für mehr Nachhaltigkeit in meinem Kleiderschrank sorgen?
+## Weniger ist oft mehr
+
+**Anne:** Wie kann ich für mehr Nachhaltigkeit in meinem Kleiderschrank sorgen?
 
 **Anja:** Nachfragen, genau hinschauen und Interesse an der gesamten
 Herstellungskette eines Produkts haben. Und: Weniger ist oft mehr im
@@ -124,7 +157,10 @@ Kleiderschrank.
 
 **Anne:** Was bietet Eure Kollektion?
 
-## "Unsere Kollektion bietet für jede⋆n etwas" **Anja:** Alles! Von Kleidern und Röcken, über Hosen, Mäntel, Jacken, Blusen und Hemden, Tops und Sweatshirts. Für Herren und Damen. Für jeden ist was dabei.
+## "Unsere Kollektion bietet für jede⋆n etwas"
+
+**Anja:** Alles! Von Kleidern und Röcken, über Hosen, Mäntel, Jacken, Blusen und
+Hemden, Tops und Sweatshirts. Für Herren und Damen. Für jeden ist was dabei.
 
 **Anne:** Als nächstes steht ja für Euch die Fashion Week an. Gibt es schon
 Pläne, wie es danach weitergehen soll?
@@ -132,7 +168,10 @@ Pläne, wie es danach weitergehen soll?
 **Anja:** Die Saison geht bis Mitte Oktober, was bedeutet, nach Berlin kommen
 die internationalen Märkte in New York und Paris.
 
-## "Yohji Yamamoto ist die größte Modeikone aller Zeiten" **Anne:** Vervollständigt diesen Satz: "Die größte Modeikone aller Zeiten ist..."
+## "Yohji Yamamoto ist die größte Modeikone aller Zeiten"
+
+**Anne:** Vervollständigt diesen Satz: "Die größte Modeikone aller Zeiten
+ist..."
 
 **Anja:** Yohji Yamamoto!
 

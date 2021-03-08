@@ -13,6 +13,8 @@ focusKeyword: Teehaus
 labels:
   - Cey
   - Chai
+  - Ernährung
+  - Ernährung & Gesundheit
   - Grüner Tee
   - guter Tee
   - hochwertiger Tee
@@ -21,7 +23,6 @@ labels:
   - Oolong
   - Oolong-Tee
   - Roberts Teehaus
-  - Roibos
   - Rooibos
   - Rotbusch
   - Schwarzer Tee
@@ -29,7 +30,7 @@ labels:
   - Tee
   - Teetest
   - Teeverkostung
-  - Vegane Produkte
+  - vegane Ernährung
   - Weißer Tee
 type: Artikel
 typeName: Produkttest
@@ -37,8 +38,7 @@ date: 2019-12-04T18:08:16.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Unexpected token (74:68)"
+errors: {}
 thumbnailId: "26844"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-roberts-teehaus-9__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-roberts-teehaus-9__l.jpg
@@ -47,9 +47,6 @@ subTitle: Hochwertige Tees zum fairen Preis
   
 ---
 
-## unknown: Unexpected token (74:68)
-
-<!--
 _Werbung &amp; Affiliate Links\*_
 
 **Kennt Ihr schon Roberts Teehaus? Im Onlineshop könnt Ihr leckere Teesorten
@@ -78,13 +75,12 @@ Das klingt auf jeden Fall schon mal alles gut, finde ich. Der Versand erfolgte
 prompt nach der Bestellung - die Lieferung traf in Windeseile bei mir ein. Aus
 meinem Paket purzelten
 
-<RemoteImage
-  alt="Roberts Teehaus Lieblingssorte"
-  size="medium"
-  title="Meine Lieblingssorte von Roberts Teehaus"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-roberts-teehaus-4__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-roberts-teehaus-4__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAcIAQUG/8QAKRAAAgEDAgYCAQUAAAAAAAAAAQIDAAQRBSEGBxIxQWETIggyUVJxgf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAHREAAgMAAgMAAAAAAAAAAAAAAQIAERIhQQMTUf/aAAwDAQACEQMRAD8Am9UMEdrLLG3Q3SC3jp7NVEWfAellI5U0vQ0jdsIHLsT6wFqf5Y4xpsTSSCQzZRV6sAHq3wPQ8n9xVRcutWt5uCNKvZYy85WMiQAFgwRcjf2DWYr7GAJqN2fGhYC4pucugx6a2kx2VrYI+ZGcWkXxdagIwwfOzHc70sJYsBjGjCRAcZ+yyJ3OSPIBp1/kbdRSHSZ7R36C7plcbEKMYx3H1FJQyK5O7/zHSSN8DI/rxVhCtj5BZtUx7qZYRLADGFLn6jI/T79Ux+A+YcfDmhW1jeykJ87HC2yyhUPY77jBYjAooqVfFwgc9XNNzK40t+KHtbaBp5Y4Zi4mlQIvSVxhV79ye9cVPIiooyAykg4AOR6/yiimIueIDNoz/9k=" />
+<RemoteImage alt={`Roberts Teehaus Lieblingssorte`} size="medium"
+title={`Meine Lieblingssorte von Roberts Teehaus`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-roberts-teehaus-4__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-roberts-teehaus-4__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAcIAQUG/8QAKRAAAgEDAgYCAQUAAAAAAAAAAQIDAAQRBSEGBxIxQWETIggyUVJxgf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAHREAAgMAAgMAAAAAAAAAAAAAAQIAERIhQQMTUf/aAAwDAQACEQMRAD8Am9UMEdrLLG3Q3SC3jp7NVEWfAellI5U0vQ0jdsIHLsT6wFqf5Y4xpsTSSCQzZRV6sAHq3wPQ8n9xVRcutWt5uCNKvZYy85WMiQAFgwRcjf2DWYr7GAJqN2fGhYC4pucugx6a2kx2VrYI+ZGcWkXxdagIwwfOzHc70sJYsBjGjCRAcZ+yyJ3OSPIBp1/kbdRSHSZ7R36C7plcbEKMYx3H1FJQyK5O7/zHSSN8DI/rxVhCtj5BZtUx7qZYRLADGFLn6jI/T79Ux+A+YcfDmhW1jeykJ87HC2yyhUPY77jBYjAooqVfFwgc9XNNzK40t+KHtbaBp5Y4Zi4mlQIvSVxhV79ye9cVPIiooyAykg4AOR6/yiimIueIDNoz/9k="
+/>
 
 "Silbernadeltee" ("Bai Hao Yinzhen"), "Gyokuro Asahi", "Rooibos Super Grande
 Long Cut", "Ti Kuan Yin", "Java Red Tea", "Cui Lu" und "Jasmin Pearls".
@@ -96,15 +92,18 @@ Der grüne Cui Lu wird auf einer Teefarm in der chinesischen Hubei Provinz auf
 eingehüllt. Die Pflanzen, von denen die Teeblätter geerntet werden, sind etwa 15
 Jahre alt.
 
-Die Tradition des Cui Lu Tees reicht zurück bis ins Jahr 1784. Noch heute
-erfreut sich die Sorte großer Beliebtheit. Der Geschmack ist etwas blumig,
-aufgebrüht hat der Cui Lu eine leicht gelbliche Färbung.
+Die Tradition des
+[Cui Lu Tees](https://t.adcell.com/p/click?promoId=161287&slotId=80259&param0=https%3A%2F%2Fwww.roberts-teehaus.de%2F%3Fstore-page%3DGreen-Cui-Lu-20-Gramm-p133125150)
+reicht zurück bis ins Jahr 1784. Noch heute erfreut sich die Sorte großer
+Beliebtheit. Der Geschmack ist etwas blumig, aufgebrüht hat der Cui Lu eine
+leicht gelbliche Färbung.
 
 ## "Silbernadeltee" - weißer Tee aus China
 
 Weißer Tee ist besonders bekömmlich, da er lediglich zu zwei Prozent fermentiert
 ist. Silbernadeltee gilt als der hochwertigste Weiße Tee. Früher war er dem
-Kaiser und besonders hohen Beamten vorbehalten.  Auch heute macht Silbernadeltee
+Kaiser und besonders hohen Beamten vorbehalten.  Auch heute macht
+[Silbernadeltee](https://t.adcell.com/p/click?promoId=161287&slotId=80259&param0=https%3A%2F%2Fwww.roberts-teehaus.de%2F%3Fstore-page%3DSilbernadel-Tee-20-Gramm-p133125326v)
 nur rund zehn Prozent der chinesischen Teeproduktion aus.
 
 Bei der Herstellung werden im Frühjahr die jungen Knospen von den Pflanzen
@@ -113,21 +112,23 @@ der Tasse schimmert die Sorte dezent grünlich.
 
 ## "Gyokuro Asahi" - der edle Tautropfen aus Japan
 
-"Gyokuro Asahi" heißt auf deutsch so viel wie "edler Tautropfen". Zusammen mit
-hochwertigen Sencha- und Matcha-Sorten gilt er als Japans edelster Grüner Tee.
-Er besitzt nur sehr wenig Bitterstoffe. Im Land der aufgehenden Sonne wird er zu
-besonderen Anlässen aufgebrüht. Das passiert am besten mit 50 bis 60 Grad warmem
-Wasser, sonst verliert der im Schatten herangezogene Tee seinen Geschmack.
+"[Gyokuro Asahi](https://t.adcell.com/p/click?promoId=161287&slotId=80259&param0=https%3A%2F%2Fwww.roberts-teehaus.de%2F%3Fstore-page%3DGyokuro-Asahi-20-Gramm-p133125098)"
+heißt auf deutsch so viel wie "edler Tautropfen". Zusammen mit hochwertigen
+Sencha- und Matcha-Sorten gilt er als Japans edelster Grüner Tee. Er besitzt nur
+sehr wenig Bitterstoffe. Im Land der aufgehenden Sonne wird er zu besonderen
+Anlässen aufgebrüht. Das passiert am besten mit 50 bis 60 Grad warmem Wasser,
+sonst verliert der im Schatten herangezogene Tee seinen Geschmack.
 
-## "Jasmin Pearls"
+## "Jasmine Pearls"
 
 Jasmin-Tee wird in China bereits seit der Song-Dynastie (960 bis 1279)
 getrunken. Auch heute gilt er nach wie vor als das Nationalgetränk des Landes.
 Üblicherweise handelt es sich dabei um mit Jasmin angereicherten Grüntee.
 
-"Jasmin Pears" ist eine besonders hochwertige Variante dieser Spezialität. Dafür
-wird Grüner Tee zum Welken gebracht und anschließend in die charakteristischen
-Kugeln gerollt. Der Geschmack ist blumig zart bis herb.
+"[Jasmine Pearls](https://t.adcell.com/p/click?promoId=161287&slotId=80259&param0=https%3A%2F%2Fwww.roberts-teehaus.de%2F%3Fstore-page%3DJasmine-Pearls-20-Gramm-p133125180)"
+ist eine besonders hochwertige Variante dieser Spezialität. Dafür wird Grüner
+Tee zum Welken gebracht und anschließend in die charakteristischen Kugeln
+gerollt. Der Geschmack ist blumig zart bis herb.
 
 ## "Rooibos Super Grande Long Cut"
 
@@ -135,13 +136,14 @@ Rooibos oder "Rotbusch" wird auf den Cedarbergen im Norden Kapstadts angebaut.
 Seit einigen Jahren erfreut er sich weltweit immer größerer Beliebtheit. Es
 handelt sich dabei um eine Ginsterpflanze, deren schmale Blätter eher an an
 Nadeln erinnern. Der kräftige, süße Geschmack passt gut zu Herzhaftem. Mir
-gefällt das Aroma sehr gut - einfach mal was komplett anderes. Aufgegossen ist
-er rötlich-braun.
+gefällt das Aroma des
+[Rooibos Super Grande Long Cut](https://t.adcell.com/p/click?promoId=161287&slotId=80259&param0=https%3A%2F%2Fwww.roberts-teehaus.de%2F%3Fstore-page%3DRooibos-Super-Grade-Long-Cut-20-Gramm-p142694703)
+sehr gut - einfach mal was komplett anderes. Aufgegossen ist er rötlich-braun.
 
 ## "Ti Kuan Yin"
 
-<RemoteImage alt="roberts-teehaus" size="medium" title=""Ti Kuan Yin" und "Java
-Red Tea""
+<RemoteImage alt={`roberts-teehaus`} size="medium"
+title={`"Ti Kuan Yin" und "Java Red Tea"`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-4__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-4__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwT/xAAqEAABBAEDBAAFBQAAAAAAAAABAgMEEQUAEiEGBxMxFSIjMlFhcYKRwf/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQH/xAAhEQACAQQCAgMAAAAAAAAAAAABAgADBBEhEvExYVGRsf/aAAwDAQACEQMRAD8AieOxeT6pp3FwEFhg7T9RKaUeeSSLNAehp2wXbiWyuPJmPsRXRYUlH1b4PHFVx+usOxwbc+Iw33VbFOoUDdEApUAa/jqtZOOxiE4uRGSVnzjy2q9wraR79fMdIvQc0yF0g199xlHQMAcliM+tdRFndFRImNmS25K3JJoBZaCUkUQEcnnmv71Nm8CthLzk1sOLRaUNpIAJq/8AfROr33LSzJ6GOxxcFDbgPk4QEi0gWfxz70hYTBM4jFOxS8l2asrcStSiop3JH2q1OuibNyit5x8/sIrCuobESO2GQi456VKfeUSWwgt7SBYVYFgGyef2079R9x8c3C8TEV1yRQUhs7gLsWFKPoVZsD3o0ao8maqaROuoFSFUOBsRdPcaVkIisfPhtIiOtBpbq3lOq+4EklXAHH4OuvJdSMS9tgIlLWpTJBIAoAp4qyNGjS15bJzB9GatVs5zP//Z"
@@ -149,9 +151,11 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 
 "Göttin der Barmherzigkeit" lautet die Übersetzung für "Ti Kuan Yin". Der
 geröstete und handgerollte Oolong-Tee stammt aus der chinesischen Küstenprovinz
-Fujian. "Ti Kuan Yin" ist halbfermentiert. Der Geschmack ist ziemlich kräftig
-mit einem Hauch von Blumen. In der Tasse kann er mehrmals aufgegossen werden.
-Für mich ist er ein klasse Frühstückstee.
+Fujian.
+"[Ti Kuan Yin](https://t.adcell.com/p/click?promoId=161287&slotId=80259&param0=https%3A%2F%2Fwww.roberts-teehaus.de%2F%3Fstore-page%3DTi-Kuan-Yin-Oolong-20-Gramm-p142696444)"
+ist halbfermentiert. Der Geschmack ist ziemlich kräftig mit einem Hauch von
+Blumen. In der Tasse kann er mehrmals aufgegossen werden. Für mich ist er ein
+klasse Frühstückstee.
 
 ## "Java Red Tea"
 
@@ -163,8 +167,9 @@ wird er dann rötlich.
 Die Niederländer brachten die Red Tea Pflanzen nach Indonesien und kultivierten
 sie dort. Er wächst und gedeiht auf 600 bis 1000 Metern Höhe in kühlem Klima. Er
 ist weniger kräftig, als die "Göttin der Barmherzigkeit" und enthält im Übrigen
-auch nur drei Prozent Koffein. Das macht ihn für mich zu einem schönen
-Nachmittagstee.
+auch nur drei Prozent Koffein. Das macht den
+[Java Red Tea](https://t.adcell.com/p/click?promoId=161287&slotId=80259&param0=https%3A%2F%2Fwww.roberts-teehaus.de%2F%3Fstore-page%3DJava-Red-Tea-20-Gramm-p142598727)
+für mich zu einem schönen Nachmittagstee.
 
 Alle Sorten, die ich bis jetzt gekostet habe, haben eins gemeinsam - sie sind
 ausgesprochen lecker. So toll ausgestattet kann die kalte Jahreszeit für mich
@@ -183,13 +188,9 @@ dicht. Ich persönlich bin angenehm überrascht von der Qualität und Vielfalt u
 werde ganz bestimmt wieder bestellen.
 
 Wer jetzt neugierig geworden ist und die Tees von Roberts Teehaus gerne auch mal
-testen möchte, kann ganz einfach im Onlineshop seine Bestellung aufgeben.
-
-## Gutscheincode für Euch
-
-Mit dem Gutscheincode WEIHNACHTEN erhalten meine Leser\*innen bis zum 26
-Dezember 19 **20 Prozent Rabatt**
-[auf alle Produkte im Roberts Teehaus Onlineshop](https://www.adcell.de/promotion/click/promoId/207071/slotId/80259).
+testen möchte, kann ganz einfach
+[im Onlineshop](https://t.adcell.com/p/click?promoId=161287&slotId=80259&param0=https%3A%2F%2Fwww.roberts-teehaus.de%2F%3Fstore)
+seine Bestellung aufgeben.
 
 <Gallery name="robertsteehaus" />
 
@@ -201,7 +202,5 @@ _\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
 meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
 [Transparenz-Seite](/werbung/). _
-
--->
 
   

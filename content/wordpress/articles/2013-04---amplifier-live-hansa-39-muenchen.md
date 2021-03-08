@@ -42,15 +42,13 @@ subTitle: Vielleicht das beste Konzert aller Zeiten
   
 ---
 
-<RemoteImage
-  alt="Warten auf die beste Band der Welt"
-  size="medium"
-  title="Warten auf die beste Band der Welt"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4521.png?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4521.png?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Warten auf die beste Band der Welt`} size="medium"
+title={`Warten auf die beste Band der Welt`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4521.png?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4521.png?w=300"
+loadingUrl="undefined" />
 
-**Am Mittwoch war es endlich mal wieder so weit und
+**Am Mittwoch war es endlich mal wieder so weit und  
 [Amplifier](http://www.amplifiertheband.com) spielten ein Konzert in unserer
 Nähe. Das letzte Mal habe ich sie auf dem letztjährigen
 [Herzberg Festival](//2012/08/02/burg-herzberg-festival-2012/) gesehen, das
@@ -65,13 +63,11 @@ Macbook und eine Loopmachine ausgestattet. Als seine Gitarre bei einer kleinen
 Bodypercussion-Einlage einen Riss bekam, trug er es mit Humor 'Schließlich ist
 es immer noch irgendwie Rock´n`Roll', lachte er.
 
-<RemoteImage
-  alt="Charlie Barnes"
-  size="medium"
-  title="[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4525.jpg)  Charlie Barnes"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4525.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4525.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Charlie Barnes`} size="medium"
+title={`[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4525.jpg) Charlie Barnes`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4525.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4525.jpg?w=300"
+loadingUrl="undefined" />
 
 Als Amplifier die Bühne betraten, glühte das Publikum nur so. Man konnte
 regelrecht spüren, wie sich alle freuten, ihr 'alten Bekannten' endlich wieder
@@ -81,7 +77,7 @@ an, waren sie voll dabei und beeindruckten alle sichtlich.
 Sie starteten mit dem letzten Song der neuen LP 'Echo Street' 'Mary Rose'.
 Sofort waren alle in den magischen Bann der Band gezogen. Bis auf ein weiteres
 Stück vom neuen Album ('Matmos'), schwelgten sie gemeinsam mit ihren Fans in
-vergangenen Zeiten und packten u. a. Lieblingsstücke wie 'Interstellar',
+vergangenen Zeiten und packten u. a. Lieblingsstücke wie 'Interstellar',
 'Motorhead' und 'UFO's'aus. Zur Freude aller. Die Menge war zwar anfangs etwas
 schüchtern, spätestens, als Sel nach dem vierten Song ('The Wheel') dazu
 aufrief, doch etwas näher an die Bühne heranzutreten, brachen alle Dämme und es
@@ -91,34 +87,30 @@ im Publikum wiedererkannten und sich für die Treue bedankten.
 
 ## Entspannte Künstler
 
-<RemoteImage
-  alt="Ampflifier"
-  size="medium"
-  title="[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4526.jpg)  Ampflifier"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4526.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4526.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Ampflifier`} size="medium"
+title={`[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4526.jpg) Ampflifier`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4526.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4526.jpg?w=300"
+loadingUrl="undefined" />
 
 Doch nicht genug: Sel legte seine Gitarre ab, lies uns daran zupfen (ich konnte
-ihr sogar einen Kuss aufdrücken!), badetet ein Bisschen in der Menge und gab
-allen höflich die Hand. Nachdem wir alle drei noch ein Plec ergattern konnten
-und die Playlist aufgehoben hatten, gingen wir, immer noch vom Rausch der guten
-Stimmung und der tollen Musik mitgerissen Richtung Vorraum, wo uns Sel entgegen
-kam! Normalerweise bin ich keine Autogrammjägerin und lasse Künstler lieber in
-Ruhe, wenn sie verschwitzt und abgekämpft von der Bühne steigen.
+ihr sogar einen Kuss aufdrücken!), badetet ein Bisschen in der Menge und
+gab allen höflich die Hand. Nachdem wir alle drei noch ein Plec ergattern
+konnten und die Playlist aufgehoben hatten, gingen wir, immer noch vom Rausch
+der guten Stimmung und der tollen Musik mitgerissen Richtung Vorraum, wo uns Sel
+entgegen kam! Normalerweise bin ich keine Autogrammjägerin und lasse Künstler
+lieber in Ruhe, wenn sie verschwitzt und abgekämpft von der Bühne steigen.
 
 Irgendwie wirkte Sel derart entspannt und freundlich-offen, dass ich geradewegs
 auf ihn zustiefelte, mich für die gelungene Show bedankte und ihm erzählte, dass
 ich Amplifier inzwischen 10 Mal auf der Bühne gesehen hätte und mich schon auf
 das nächste Konzert freuen würde.
 
-<RemoteImage
-  alt="Sel Balamir"
-  size="medium"
-  title="[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4578.jpg)  Sel Balamir"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4578.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4578.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Sel Balamir`} size="medium"
+title={`[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4578.jpg) Sel Balamir`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4578.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4578.jpg?w=300"
+loadingUrl="undefined" />
 
 Ich drückte ihm meine Eintrittskarte in die Hand und wir begannen beide nach
 einen Kugelschreiber zu wühlen. Schließlich stellte ich enttäuscht fest, dass
@@ -131,15 +123,13 @@ klingt viel romantischer', meinte er und signierte das Ticket: 'To Anne - Thanks
 10 Million Times &lt;3 Sel.' Anschließend drückte er mich noch, bis mir fast die
 Luft weg blieb und ich bedankte mich noch mal.
 
-<RemoteImage
-  alt="Das Autogram"
-  size="medium"
-  title="[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4580.jpg)  Das Autogram"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4580.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4580.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Das Autogram`} size="medium"
+title={`[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4580.jpg) Das Autogram`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4580.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4580.jpg?w=300"
+loadingUrl="undefined" />
 
-Das Ganze filmte er mit der Helm-Kamera, die Matt Brobin beim großen Finale an
+Das Ganze filmte er mit der Helm-Kamera, die Matt Brobin beim großen Finale an
 den Drums getragen hatte. Wir trafen noch einen jungen Mann, der uns erzählte,
 dass er den Auftritt der Band beim
 [Herzberg Festival](//2012/08/02/burg-herzberg-festival-2012/) komplett gefilmt
@@ -152,13 +142,11 @@ Entschädigung für den Stau, der verhinderte, dass wir pünktlich zum Steven
 Wilson Konzert kamen und für das abgesagt
 [Amanda Palmer Konzert](//2013/03/11/konzert-abgesagt-ticketshop-uberfordert-neues-aus-der-servicewuste/).
 
-<RemoteImage
-  alt="Die Setlist"
-  size="medium"
-  title="[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4582.jpg)  Die Setlist"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4582.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4582.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Die Setlist`} size="medium"
+title={`[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4582.jpg) Die Setlist`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4582.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4582.jpg?w=300"
+loadingUrl="undefined" />
 
 Ich bin schon sehr gespannt auf das nächste Amplifier-Konzert und hoffe, dass
 ich nicht so lange darauf warten muss!

@@ -15,8 +15,8 @@ labels:
   - Birdwatching
   - der frühe Vogel
   - Enten
+  - Fernweh
   - Juni
-  - Reisen
   - Roadtrip
   - Schweden
   - Schweden2018

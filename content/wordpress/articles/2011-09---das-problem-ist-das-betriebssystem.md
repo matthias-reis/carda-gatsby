@@ -29,6 +29,7 @@ labels:
   - Fotostory
   - Franz
   - Geeks
+  - Geschichten & Erlebtes
   - Linux
   - Mac
   - Monaco Franze
@@ -42,7 +43,6 @@ labels:
   - Silicon Valley
   - SOKO
   - Steve Jobs
-  - Tagebuch
   - über sich selbst lachen
   - Windows
 type: Artikel
@@ -60,28 +60,39 @@ subTitle: Zurück in die Zukunft
   
 ---
 
+**In Ermangelung der Fotos, die die eigentlich geplante Fotostory über Franz und
+Sissi bebildern sollten, unterhalten sich die beiden Protagonisten nun über das
+mysteriöse Ereignis, welches zum Verlust eben jener Lichtbilder geführt hat.**
+**Der gezeigte Dialog trägt den ironischen Untertitel:**
+
+## „Eine tragikomische, realistische Geschichte, in der ich mich nicht nur ein kleines Bisschen wiedererkenne.“
+
+**Franz:** „Sei gegrüßt! Wie geht es Dir heute Morgen?“
+
 **Sissi:** „Alles prima, Franzl. Ich habe mir gerade einen Kaffee geholt. Denke
 nur noch ein ganz wenig über den Verlust der Bilder nach... Traurig. Aber ein
 Grund, neue zu machen... Und deshalb auch ein Bisschen schön… irgendwie.“
 
 _Beruhigende Worte von Franz mit dem Vorschlag, die Festplatte noch mal genauer
 zu untersuchen. Es könnte ja auch sein, dass versehentlich in den falschen
-Ordner gerutscht sind._ **Sissi:** „Das ist ein guter Gedanke. Ich müsste
-einfach mal alle Ordner ganz genau unter die Lupe nehmen. Aber irgendwie kann
-ich es mir auch nicht vorstellen, denn sie sind ja vom Rechner auch
-verschwunden. Außerdem hatte ich den Ordnern, die ich kopiert habe, ja auch
-schon Namen gegeben, die ich gestern schon in die Suchfunktion eingegeben habe,
-aber ich schaue nochmal genau nach. Irgendwas muss da auf jeden Fall schrecklich
-schief gegangen sein. Vielleicht hat auch die Externe einen Schaden. Ich hätte
-mir damals vielleicht einfach die teurere kaufen sollen... Naja, hinterher ist
-man immer schlauer. Der „Datendetektiv begibt sich auf jeden Fall heute Abend
-nochmal auf die Suche.“
+Ordner gerutscht sind._
+
+**Sissi:** „Das ist ein guter Gedanke. Ich müsste einfach mal alle Ordner ganz
+genau unter die Lupe nehmen. Aber irgendwie kann ich es mir auch nicht
+vorstellen, denn sie sind ja vom Rechner auch verschwunden. Außerdem hatte ich
+den Ordnern, die ich kopiert habe, ja auch schon Namen gegeben, die ich gestern
+schon in die Suchfunktion eingegeben habe, aber ich schaue nochmal genau nach.
+Irgendwas muss da auf jeden Fall schrecklich schief gegangen sein. Vielleicht
+hat auch die Externe einen Schaden. Ich hätte mir damals vielleicht einfach die
+teurere kaufen sollen... Naja, hinterher ist man immer schlauer. Der
+„Datendetektiv begibt sich auf jeden Fall heute Abend nochmal auf die Suche.“
 
 > „Watson, was meinen Sie zu dieser verlorenen Datei?“ „Ich denke, wir befinden
 > uns auf einer heißen Spur und stehen kurz vor der Lösung des Falles.“
-> **Franz:** „Es könnte auch sein, dass die Bilder verschoben wurden und nicht
-> kopiert. Das würde auch erklären, dass sie weder auf dem Computer, noch auf
-> der Festplatte zu finden sind.“
+
+**Franz:** „Es könnte auch sein, dass die Bilder verschoben wurden und nicht
+kopiert. Das würde auch erklären, dass sie weder auf dem Computer, noch auf der
+Festplatte zu finden sind.“
 
 **Sissi** _(nun schon etwas optimistischer):_ „Hm, dazu hätte ich auf
 "Ausschneiden", anstatt auf "Kopieren" klicken müssen. Es kann höchstens sein,
@@ -99,7 +110,10 @@ Irgendwann kommt jeder an den Punkt, an dem er sich das eingestehen sollte.“
 den Moment, in dem ich das passende Kleingeld auf der Seite habe, um diesem
 Silicon-Valley-Alptraum endlich ein Ende zu setzen.“
 
-## Und dann wäre da noch die Sache mit der Hardware… **Franz:** „Nach einem Jahr sollte die Festplatte jedenfalls noch nicht dem Altersschwachsinn zum Opfer gefallen sein.“
+## Und dann wäre da noch die Sache mit der Hardware…
+
+**Franz:** „Nach einem Jahr sollte die Festplatte jedenfalls noch nicht dem
+Altersschwachsinn zum Opfer gefallen sein.“
 
 **Sissi:** „Dem Laptop ging es allerdings schon nach einem halben Jahr so. Als
 erstes hat er vergessen, dass er Boxen hat, Musik kann ich seitdem nur noch über
@@ -128,25 +142,25 @@ doch noch geben wird._
 
 &nbsp;
 
-> "So starten Sie die Datenträgerprüfung: Beenden Sie nach Möglichkeit alle
+> "So starten Sie die Datenträgerprüfung: Beenden Sie nach Möglichkeit alle
 > laufenden Programme, und starten Sie den Windows-Explorer. Klicken Sie dazu
 > mit der rechten Maustaste auf das Windows-Symbol klicken. Klicken Sie im
 > Kontextmenü auf den Befehl "Eigenschaften". Der Windows-Explorer startet mit
 > einer Ansicht Ihrer Laufwerke. Klicken Sie auf das Laufwerk, das Sie
-> überprüfen wollen mit der rechten Maustaste. Es öffnet sich ein Kontextmenü.
-> Wählen Sie hier den Befehl "Eigenschaften". Klicken Sie dann auf die
-> Registerkarte "Tools". Klicken Sie auf die Schaltfläche "Jetzt prüfen", um die
-> Datenträgerprüfung zu starten. Anschließend öffnet sich das Dialogfeld
-> "Optionen für die Datenträgerprüfung". Schalten Sie jetzt das Kontrollkästchen
+> überprüfen wollen mit der rechten Maustaste. Es öffnet sich ein
+> Kontextmenü. Wählen Sie hier den Befehl "Eigenschaften". Klicken Sie dann auf
+> die Registerkarte "Tools". Klicken Sie auf die Schaltfläche "Jetzt prüfen", um
+> die Datenträgerprüfung zu starten. Anschließend öffnet sich das Dialogfeld
+> "Optionen für die Datenträgerprüfung". Schalten Sie jetzt das Kontrollkästchen
 > "Dateisystemfehler automatisch korrigieren" ein, damit Windows Fehler, die im
-> Dateisystem gefunden werden, repariert. Wenn Sie einen intensiven Test der
+> Dateisystem gefunden werden, repariert. Wenn Sie einen intensiven Test der
 > Festplatte durchführen wollen, dann schalten Sie das Kontrollkästchen
-> "Fehlerhafte Sektoren suchen/wiederherstellen ein". Klicken Sie nun auf
-> "Starten". Wenn das Laufwerk, das Sie prüfen wollen, aktuell verwendet wird,
-> sehen Sie ein Dialogfeld mit einer Fehlermeldung. Klicken Sie in diesem Fall
+> "Fehlerhafte Sektoren suchen/wiederherstellen ein". Klicken Sie nun auf
+> "Starten". Wenn das Laufwerk, das Sie prüfen wollen, aktuell verwendet wird,
+> sehen Sie ein Dialogfeld mit einer Fehlermeldung. Klicken Sie in diesem Fall
 > auf "Aufhebung der Bereitstellung erzwingen". Bedenken Sie, dass Sie in diesem
 > Fall für die Dauer der Prüfung nicht mehr auf das zu prüfende Laufwerk
-> zugreifen können. Die Prüfung startet umgehend."
+> zugreifen können. Die Prüfung startet umgehend."
 
 [youtube=http://www.youtube.com/watch?v=e6A9PaWNSec]
 

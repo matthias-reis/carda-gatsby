@@ -12,7 +12,6 @@ excerpt: Die Haltung von Iltissen, Nerzen, Rotfüchsen, Chinchillas und Bibern
 focusKeyword: Pelztierhaltung
 labels:
   - Anti Pelz
-  - Darum vegan
   - fckfur
   - govegan
   - no fur
@@ -20,7 +19,10 @@ labels:
   - Pelz nein danke
   - Pelztierhaltung
   - Pelzverbot
+  - Tierhaltung
   - Tierrechte
+  - Tierrechte
+  - Tierschutz
 type: Artikel
 typeName: Artikel
 date: 2016-03-16T11:36:11.000Z
@@ -51,12 +53,13 @@ bestehen, beispielsweise noch für weitere zehn Jahre produzieren.
 ## Pelztierhaltung ist qualvoll
 
 <RemoteImage
-  alt="In diesen Käfigen werden die Tiere auf den Pelzfarmen gehalten"
-  size="medium"
-  title="In diesen Käfigen werden die Tiere auf den Pelzfarmen gehalten"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_tierrechtsdemo__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_tierrechtsdemo__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAGA//EACoQAAIBAwMEAQIHAAAAAAAAAAECAwQFEQASIQYTIjFBBxQVI1FhcZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAGhEBAQEAAwEAAAAAAAAAAAAAAQARAgMhEv/aAAwDAQACEQMRAD8AB7VTzvR0EMMcm5pihQAn2QPjSR1TZbRRJUJ0oK5QKPJerfEndwS+CcYGNdrT0tTdL1tvu1Be3lmomaeLNMCqN48kZ59DXfquguVXdpLjVzQL+Lbu5IkeSxYBzhSRt405vpQ8s8YrulD2bi8MtVC0qxoZGMWfM5yPfOOOfnOrSXP9MrTOkU0fUar3F3ZdWVyDyN3ieRn9dWhBaxQtz1ssD0iRsqqWpyfyYghzu+ccf3o67lJFX0iVM9SIhgkoSxPieAMnB9DW6uj0tdaJzHWSyVqxBVppKUhG5yRv3fzjj41i7jbrvEFkoDCJo2ByjqRwOMAj98HWh6/p3ZOit9se30LNTUzkwJlhI4ydoz6OrRwl76ojp4I/s4HCIFBEQP8AobVrVX//2Q==" />
+alt={`In diesen Käfigen werden die Tiere auf den Pelzfarmen gehalten`}
+size="medium"
+title={`In diesen Käfigen werden die Tiere auf den Pelzfarmen gehalten`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_tierrechtsdemo__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_tierrechtsdemo__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAGA//EACoQAAIBAwMEAQIHAAAAAAAAAAECAwQFEQASIQYTIjFBBxQVI1FhcZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAGhEBAQEAAwEAAAAAAAAAAAAAAQARAgMhEv/aAAwDAQACEQMRAD8AB7VTzvR0EMMcm5pihQAn2QPjSR1TZbRRJUJ0oK5QKPJerfEndwS+CcYGNdrT0tTdL1tvu1Be3lmomaeLNMCqN48kZ59DXfquguVXdpLjVzQL+Lbu5IkeSxYBzhSRt405vpQ8s8YrulD2bi8MtVC0qxoZGMWfM5yPfOOOfnOrSXP9MrTOkU0fUar3F3ZdWVyDyN3ieRn9dWhBaxQtz1ssD0iRsqqWpyfyYghzu+ccf3o67lJFX0iVM9SIhgkoSxPieAMnB9DW6uj0tdaJzHWSyVqxBVppKUhG5yRv3fzjj41i7jbrvEFkoDCJo2ByjqRwOMAj98HWh6/p3ZOit9se30LNTUzkwJlhI4ydoz6OrRwl76ojp4I/s4HCIFBEQP8AobVrVX//2Q=="
+/>
 
 Pelztierhaltung ist äußerst qualvoll, die Tiere werden wider ihrer Natur in
 kleinen Käfigen gehalten und unter unvorstellbaren Schmerzen getötet. Die

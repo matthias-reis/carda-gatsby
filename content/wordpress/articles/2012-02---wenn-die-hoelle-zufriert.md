@@ -21,6 +21,7 @@ labels:
   - Eisbären
   - Eiszapfen an der Nase
   - Frieden
+  - Geschichten & Erlebtes
   - Glühwein
   - Heizung
   - Hirnfrost
@@ -33,10 +34,8 @@ labels:
   - petition
   - PJ Harvey
   - Politiker
-  - Prosa
   - Schnee
   - Strand
-  - Tagebuch
   - Tweets
   - Twitter
   - warum liegt hier Schnee rum
@@ -50,8 +49,7 @@ date: 2012-02-02T10:30:07.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "2762"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_02_download__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_02_download__l.jpg
@@ -59,6 +57,9 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Tagebucheintrag
   
 ---
+
+**Draußen sind es gefühlte - 21 ° C. Drinnen wird es Zeit für einen neuen
+Blogeintrag.**
 
 Manchmal steht man am Fenster, hört einen Zug vorbeirattern und denkt an die
 Ferne. Wo man jetzt überall sein könnte. Beim Gummistiefeleinkaufen in
@@ -88,14 +89,10 @@ ausmachen.
 
 Vielleicht ist es ja dann draußen schon wieder ein kleines Bisschen wärmer.
 
-<RemoteImage
-  alt="Foto: cardamonchai 12/2011"
-  size="full"
-  title="[ ](http://cardamonchai.files.wordpress.com/2012/02/download.jpg)  Foto: cardamonchai 12/2011"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2012/02/download.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2012/02/download.jpg"
-  loadingUrl="undefined" />
+## Song des Tages: PJ Harvey/Tom Yorke – "This Mess We´re In"
 
-## Song des Tages: PJ Harvey/Tom Yorke - This Mess We´re In **[youtube=http://www.youtube.com/watch?v=GbYIiGu8duk]** <h1 id="watch-headline-title"></h1>
+[youtube=http://www.youtube.com/watch?v=GbYIiGu8duk]
+
+<h1 id="watch-headline-title"></h1>
 
   

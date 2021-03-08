@@ -12,7 +12,7 @@ excerpt: Die erste Auskopplung der neuen Calexico Platte "The Thread That Keeps
   glücklich.
 focusKeyword: The Thread That Keeps Us
 labels:
-  - Bands & Reviews
+  - Bands
   - Calxico
   - Dessert
   - End Of The World With You
@@ -31,7 +31,7 @@ labels:
   - Tuscon Dessert Rock
   - WaveLab Studio
 type: Artikel
-typeName: Rezension
+typeName: Review
 date: 2017-10-18T07:03:05.000Z
 status: publish
 isWerbung: false
@@ -51,13 +51,12 @@ schon wieder ein neues vorgestellt. Das ist auch jetzt wieder der Fall. In Kürz
 soll "The Thread That Keeps Us" in die Plattenregale einziehen. Die
 Vorab-Auskopplung "End Of The World With You" verspricht einiges.**
 
-<RemoteImage
-  alt="End Of The World With You"
-  size="medium"
-  title="Sänger und Gitarrist Joey Burns"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_9917203896_a04e9ce147_k__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_9917203896_a04e9ce147_k__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGB//EACcQAAIBAgYABwEBAAAAAAAAAAECAwAEBQYREiExFBVRcYGRoQdB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAQFAgb/xAAfEQADAAIBBQEAAAAAAAAAAAABAgMABDERExQiUbH/2gAMAwEAAhEDEQA/AM7tCNoqryxgMeNG4DyvGIhxs26sdCdND31/lRdjdxwxsHSFyRxu1ZgfggD9q7ynmS0ilEcNna2XIfXezl36GhYnnv7pm9HWZKc5J0teVLqtj64mzJhMNlFHJbyysrMVZZUAIPx81HXqroa2zPmAT41g0V7ZuVv43KCxdGV7jviJdOXHOo9AaxTFUmtbiW3uopYJ4zteOVCjKfQg8isxqaIGPOMbWr49ii8Yrt5m2iqfKtp5niNtBJIyJJPHESo5G4nn8/aKKHJCEjCCK1VBGXoxy/vceInuZ3W0iMUIkkLFVLEHn2RR9+tJv6zJ5pljDMXuFHj4ZfCGUdyRncQG9ivHuaKKnTY97pnVURToMSPv7n//2Q==" />
+<RemoteImage alt={`End Of The World With You`} size="medium"
+title={`Sänger und Gitarrist Joey Burns`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_9917203896_a04e9ce147_k__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_9917203896_a04e9ce147_k__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGB//EACcQAAIBAgYABwEBAAAAAAAAAAECAwAEBQYREiExFBVRcYGRoQdB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAQFAgb/xAAfEQADAAIBBQEAAAAAAAAAAAABAgMABDERExQiUbH/2gAMAwEAAhEDEQA/AM7tCNoqryxgMeNG4DyvGIhxs26sdCdND31/lRdjdxwxsHSFyRxu1ZgfggD9q7ynmS0ilEcNna2XIfXezl36GhYnnv7pm9HWZKc5J0teVLqtj64mzJhMNlFHJbyysrMVZZUAIPx81HXqroa2zPmAT41g0V7ZuVv43KCxdGV7jviJdOXHOo9AaxTFUmtbiW3uopYJ4zteOVCjKfQg8isxqaIGPOMbWr49ii8Yrt5m2iqfKtp5niNtBJIyJJPHESo5G4nn8/aKKHJCEjCCK1VBGXoxy/vceInuZ3W0iMUIkkLFVLEHn2RR9+tJv6zJ5pljDMXuFHj4ZfCGUdyRncQG9ivHuaKKnTY97pnVURToMSPv7n//2Q=="
+/>
 
 "It's Rocktober everyone and we are super excited to announce that we have a new
 album! It's titled "The Thread That Keeps Us" and will be released January 26th,
@@ -78,13 +77,12 @@ Studio_ \*\*  who came with us on our travels to studios from El Paso to the
 Northern California coast.", kündigt Joey weiter auf der _Calexico_
 Facebook-Seite an.
 
-<RemoteImage
-  alt="The Thread That Keeps Us"
-  size="medium"
-  title="So wird das neue Album aussehen"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_The-Thread-That-Keeps-Us__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_The-Thread-That-Keeps-Us__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUAAwYH/8QAKxAAAgEDAwMDAgcAAAAAAAAAAQIDBAURABIhEzFRBiJBMmEUFkJxgZHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQAAQP/xAAgEQACAQQCAwEAAAAAAAAAAAABAgADESExEoEEceHw/9oADAMBAAIRAxEAPwDrctbDTvcqm43W4LClVInTieVmBMpVFQKfkkADHjRLXSyU08iG63aplhkWFoY5JpCJGkEYTAP1bjgj476CrrbS3YV9NX0LSQSVD7sbHDgSE8jOfHxnjVVL6R9ME4NvoGfJbY8CKSc55yM9wP60s+9yqTDTD93LPzP6dmJdLzeUX3SkBZsLGgYM32UFSCfPGtDaKmCstENbRT1c8byYVpS6OrLJsZWUnOQQQQfGks1hsdEqmf0pStApDZijiYA4IyAR3wSP2On1qegiooaS20cNJSIUWOKIqoT3A4Cjgd9Yk6zGF4XwInYs1VIgkfHVfjaGB958r/upUtLFC5+oNxjZpLUUFWK2rJoLgytNIcNFMyn3tyMeR40qp6SukujTGz3OAJ2P4WYLIexY8c8cDS9SrxJJU29fZAAcTRdeWQBJIICV5B6Yzpjbqyo66RSLHt60YykYX9a99Z6Sy18sq1C113hl52JGtQEGSO4Kfb+NCU9huzeoLZUTS3mRYqqEttLlGAkBJfco4xnOgXyUYgWI6himVzef/9k=" />
+<RemoteImage alt={`The Thread That Keeps Us`} size="medium"
+title={`So wird das neue Album aussehen`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_The-Thread-That-Keeps-Us__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_The-Thread-That-Keeps-Us__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUAAwYH/8QAKxAAAgEDAwMDAgcAAAAAAAAAAQIDBAURABIhEzFRBiJBMmEUFkJxgZHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQAAQP/xAAgEQACAQQCAwEAAAAAAAAAAAABAgADESExEoEEceHw/9oADAMBAAIRAxEAPwDrctbDTvcqm43W4LClVInTieVmBMpVFQKfkkADHjRLXSyU08iG63aplhkWFoY5JpCJGkEYTAP1bjgj476CrrbS3YV9NX0LSQSVD7sbHDgSE8jOfHxnjVVL6R9ME4NvoGfJbY8CKSc55yM9wP60s+9yqTDTD93LPzP6dmJdLzeUX3SkBZsLGgYM32UFSCfPGtDaKmCstENbRT1c8byYVpS6OrLJsZWUnOQQQQfGks1hsdEqmf0pStApDZijiYA4IyAR3wSP2On1qegiooaS20cNJSIUWOKIqoT3A4Cjgd9Yk6zGF4XwInYs1VIgkfHVfjaGB958r/upUtLFC5+oNxjZpLUUFWK2rJoLgytNIcNFMyn3tyMeR40qp6SukujTGz3OAJ2P4WYLIexY8c8cDS9SrxJJU29fZAAcTRdeWQBJIICV5B6Yzpjbqyo66RSLHt60YykYX9a99Z6Sy18sq1C113hl52JGtQEGSO4Kfb+NCU9huzeoLZUTS3mRYqqEttLlGAkBJfco4xnOgXyUYgWI6himVzef/9k="
+/>
 
 Neugierige können also schon einen ersten Einblick bekommen, indem sie sich den
 ersten Song "End Of The World With You" nicht nur anhören, sondern auch noch
@@ -113,13 +111,12 @@ extremes." Hope you enjoy!", freut sich Joey.
 
 ## "Eine durchgeprügelte, verzerrte Gitarre"
 
-<RemoteImage
-  alt="End Of The World With You"
-  size="medium"
-  title="Schlagzeuger und Mitbegründer von Calexico John Convertino"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_9917639354_af1d05b7b6_k__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_9917639354_af1d05b7b6_k__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHA//EACgQAAIBAwMEAgEFAAAAAAAAAAECAwAEEQUSIQYiMUEUUXETQ2GBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQGAwX/xAAfEQACAgICAwEAAAAAAAAAAAABAgADESEEMUNRkeH/2gAMAwEAAhEDEQA/AE6f6YtprNJWiBkA7y0rMW95VVwAP9p507o0Gs2c8kSTW7Quyk7jxgnHY3njHgiqTo/UmpaOUS2l3wj9uVNwH49j+qcaX1RfwWKx2CRhI4VztEj7VHGSNx4/moazj88MxBB9fssRbQRrX2T0twdN1N7C5ID4BjkUZRifGR5wfv0amLS7WSHLZHHcSKzK96j+UZJZZ995vUq/K4xnkcYA4HFPYur2mgEEkMMbSEAzRMVGc+15GPxiujTS/k7h7ypXKGZ8Zp7WCw+LKYy1qGYnu3Z3Eg59VZ+krq5lMvxbiaxm/RBSe2cpIFbI2kg8jgfWaKKdbpCw7hawC6qepWL6aZ5FkuJWmkdAzO5yT9ZPvzXC3uHEgT0TiiilqBiYMcan/9k=" />
+<RemoteImage alt={`End Of The World With You`} size="medium"
+title={`Schlagzeuger und Mitbegründer von Calexico John Convertino`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_9917639354_af1d05b7b6_k__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_9917639354_af1d05b7b6_k__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHA//EACgQAAIBAwMEAgEFAAAAAAAAAAECAwAEEQUSIQYiMUEUUXETQ2GBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQGAwX/xAAfEQACAgICAwEAAAAAAAAAAAABAgADESEEMUNRkeH/2gAMAwEAAhEDEQA/AE6f6YtprNJWiBkA7y0rMW95VVwAP9p507o0Gs2c8kSTW7Quyk7jxgnHY3njHgiqTo/UmpaOUS2l3wj9uVNwH49j+qcaX1RfwWKx2CRhI4VztEj7VHGSNx4/moazj88MxBB9fssRbQRrX2T0twdN1N7C5ID4BjkUZRifGR5wfv0amLS7WSHLZHHcSKzK96j+UZJZZ995vUq/K4xnkcYA4HFPYur2mgEEkMMbSEAzRMVGc+15GPxiujTS/k7h7ypXKGZ8Zp7WCw+LKYy1qGYnu3Z3Eg59VZ+krq5lMvxbiaxm/RBSe2cpIFbI2kg8jgfWaKKdbpCw7hawC6qepWL6aZ5FkuJWmkdAzO5yT9ZPvzXC3uHEgT0TiiilqBiYMcan/9k="
+/>
 
 "Es ist Klirren zu hören und eine durchgprügelte, verzerrte Gitarre. Dazu kommt
 eine süße Melodie, die an Liebe und Licht erinnern soll  im "Zeitalter der der

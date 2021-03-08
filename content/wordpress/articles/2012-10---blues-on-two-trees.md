@@ -14,7 +14,7 @@ labels:
   - 7"
   - B-Seite
   - B-Seite Jacke White
-  - Bands & Reviews
+  - Bands
   - Blog
   - Blues On Two Trees
   - Herz
@@ -40,13 +40,12 @@ labels:
   - Vinyl
   - White Stripes
 type: Artikel
-typeName: Rezension
+typeName: Review
 date: 2012-10-30T14:21:25.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Unexpected token (8:69)"
+errors: {}
 thumbnailId: "4414"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_10_51gysednnl-_sl500_aa240___m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_10_51gysednnl-_sl500_aa240___l.jpg
@@ -55,12 +54,14 @@ subTitle: Jack White stellt neuen B-Seiten-Song vor
   
 ---
 
-## unknown: Unexpected token (8:69)
+**Da ist man grade zurück aus dem Urlaub und hat den schlimmsten Jetlag
+überstanden, da liest man so etwas: Jack White hat soeben eine neue Single
+vorgestellt! Da lacht das grippegeplagte Winterherz.**
 
-<!--
-<RemoteImage alt="&quot;Blues On Two Trees&quot; von Jack White erscheint auf
-der B-Seite von 'I´m Shakin''" size="full" title=""Blues On Two Trees" von Jack
-White erscheint auf der B-Seite von 'I´m Shakin''"
+<RemoteImage
+alt={`&quot;Blues On Two Trees&quot; von Jack White erscheint auf der B-Seite von 'I´m Shakin''`}
+size="full"
+title={`"Blues On Two Trees" von Jack White erscheint auf der B-Seite von 'I´m Shakin''`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_51gysednnl-_sl500_aa240___m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_51gysednnl-_sl500_aa240___l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcBBAYD/8QALBAAAgEDBAAFAgcBAAAAAAAAAQIDBAURAAYSIQcTFDFBUYEIFRYkMmFxwf/EABcBAQEBAQAAAAAAAAAAAAAAAAUDAgT/xAAfEQABBAICAwAAAAAAAAAAAAABAAIDEQQSITFBwfD/2gAMAwEAAhEDEQA/AAn4b7HBJTXa+TwQVEvJaOAOf4Y4uzHo+4wBj+9W/F+Xa1ZUPT/la1d+iCNFHC7sVTmpdW4jADKGGWOVyMax3hLcLlF6OkskVweb1fKcCb9t5bYHJk6yQARnv7aPJY5r/urdlDR3F6adqiTBI5YRWAxn+v8AvxpIMBHKCfKWSX97WLqdx7FWSZIPD+WIqjqnm3WRyr5TBYdAgcW66/lqN5/p2ms1FJQ2GKlmuduimgaKVz6eUS5diWJDAphcAdHvOg2+9rT7WvHpZZlqI5FykyjGT8gj6657pQLbduniQ7UIJJiCchkAHp2LDo9kL7e2O9R0q7SDZdwCOk4/AdaOu8OrvS1B8stLJDPKG4ssZTo5+McmP31RtE9kot0JWbesNxRiCiTs2IzkcWk4s2SCMdn/AHS48M94naF6kkqEaW21aeVVRjsgfDgfJH0+QTp07s3btu2iULTNV18iBirIy5GOvoBq8ZBReS1zHGvKV/ihKamvaKYgyxuG6ORg6W+BzYj2JzrTXutq7zcJZzEDI+W8uFekQDPX+D50DraSWlEJmjZOcayDI91YZB++sy8m104g0ZqSv//Z"
@@ -76,7 +77,10 @@ seiner schillernden, multiinstrumentalistischen Persönlichkeit auszupacken. Was
 ihm auch mit der Auskopplung dieser Single gelungen ist. Hätte doch zu diesem
 Zeitpunkt erstmal keiner mehr mit News aus dem Hause White gerechnet.
 
-## Blues On Two Trees als Snippet im Stream ["Blues On Two Trees"](http://soundcloud.com/thirdmanrecords/blues-on-two-trees) ist als Snippet im Stream verfügbar:
+## Blues On Two Trees als Snippet im Stream
+
+["Blues On Two Trees"](http://soundcloud.com/thirdmanrecords/blues-on-two-trees)
+ist als Snippet im Stream verfügbar:
 
 Die Single kann derzeit
 [auf Jacks Homepage vorbestellt werden](http://jackwhiteiii.com/im-shakin-7-inch-vinyl-pre-order/).
@@ -91,8 +95,7 @@ Hört selbst. Und bestellt Euch die Platte. Ich lege sie Euch ans Herz.
 
 _Wer sich fragt, wo meine Blogeinträge zu meinem letztwöchigen Urlaub bleiben:
 Sind in Arbeit. Einige Erlebnisse müssen noch ein Wenig verarbeitet werden._
-_Wir lesen uns._
 
--->
+_Wir lesen uns._
 
   

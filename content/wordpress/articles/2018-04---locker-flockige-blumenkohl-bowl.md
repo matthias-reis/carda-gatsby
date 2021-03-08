@@ -22,6 +22,7 @@ labels:
   - Sonnenblumenkerne
   - vegan
   - vegane Bowl
+  - vegane Rezepte
   - Vegane Rezepte
   - Vinaigrette
   - wenig Salz
@@ -112,12 +113,10 @@ Kleinasien. Die dort beheimatete Urform nennt sich Brassica oleracea var.
 silvestris. Varianten sind unter anderem Romanesco sowie die in Frankreich sehr
 beliebten bunten Sorten.
 
-<RemoteImage
-  alt="Blumenkohl"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41169032582_474ff2e2f0_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41169032582_474ff2e2f0_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAUH/8QAKxAAAgECBQMCBgMAAAAAAAAAAQIDBBEABRIhMRNBYQYyFCJCUXGhgZHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQBBf/EACcRAAIBAwIEBwEAAAAAAAAAAAECBAARIQMSMUFhkRMUUYGhwdHw/9oADAMBAAIRAxEAPwDDyKN6LMFeExp1EMbSMAQgPg/f/MMFPRyU6GDSoMftsmhQ6gqQQRv3Pm/kYVqaog6h6wBAXgkAkXH1Hjth4ekpswqEgoalZpYIo3KVEnuLfQtxYkcam348YgmvK8AJGa3XvXZExo6LYYI+z+nvS5ndPUU0NRKsUA6SJCXWMXjUMWD88b2/eEb1enxVc0zIqu6g7KAG5sRjpFdmRjhkXMFlRJY5KczIqI6mwuWGkar3FrjvzhGzVqg5W7z/ACRdcrHC0NnIAtdm/gbD74WD5p9AiQ263T+61rSHlabbhgc7e9vi9ZtbO0TjQBZex8YhPUVdTQMVkJbU7lr2JJsf1v8A3gwYZGK8KmiMS2w5GcceVD+qKieonmMZMmnShkkL6LgDv+NsU63MKmvqnqap9Ulr7bDfbYfgDBgwj6jFQt8U0wlVVV9K/9k=" />
+<RemoteImage alt={`Blumenkohl`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41169032582_474ff2e2f0_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41169032582_474ff2e2f0_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAUH/8QAKxAAAgECBQMCBgMAAAAAAAAAAQIDBBEABRIhMRNBYQYyFCJCUXGhgZHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQBBf/EACcRAAIBAwIEBwEAAAAAAAAAAAECBAARIQMSMUFhkRMUUYGhwdHw/9oADAMBAAIRAxEAPwDDyKN6LMFeExp1EMbSMAQgPg/f/MMFPRyU6GDSoMftsmhQ6gqQQRv3Pm/kYVqaog6h6wBAXgkAkXH1Hjth4ekpswqEgoalZpYIo3KVEnuLfQtxYkcam348YgmvK8AJGa3XvXZExo6LYYI+z+nvS5ndPUU0NRKsUA6SJCXWMXjUMWD88b2/eEb1enxVc0zIqu6g7KAG5sRjpFdmRjhkXMFlRJY5KczIqI6mwuWGkar3FrjvzhGzVqg5W7z/ACRdcrHC0NnIAtdm/gbD74WD5p9AiQ263T+61rSHlabbhgc7e9vi9ZtbO0TjQBZex8YhPUVdTQMVkJbU7lr2JJsf1v8A3gwYZGK8KmiMS2w5GcceVD+qKieonmMZMmnShkkL6LgDv+NsU63MKmvqnqap9Ulr7bDfbYfgDBgwj6jFQt8U0wlVVV9K/9k="
+/>
 
   

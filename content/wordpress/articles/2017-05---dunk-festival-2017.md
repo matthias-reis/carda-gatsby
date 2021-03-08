@@ -12,7 +12,7 @@ excerpt: Es geht los! Der Rucksack ist schon gepackt und wartet darauf, mit uns
 focusKeyword: festival 2017
 labels:
   - ALL WE EXPECTED
-  - AND SO I WATCH YOU FROM AFAR
+  - And So I Watch You From Afar
   - Ardents Pears
   - ARMS AND SLEEPERS
   - ASHTORETH
@@ -23,11 +23,12 @@ labels:
   - CHVE
   - dnk17
   - DUMBSAINT
-  - Dunk
   - Dunk Festival
-  - Dunkfestival
+  - Dunk Records
+  - DUNK! Festival
+  - DUNK! Records
   - EARTH
-  - EMMA RUTH RUNDLE
+  - Emma Ruth Rundle
   - Error Design
   - Festivals
   - FLASH THE READIES
@@ -40,14 +41,14 @@ labels:
   - LA CIENCIA SIMPLE
   - LOST IN KIEV
   - M[[O]]ON
-  - MALÄMMAR
+  - Malämmar
   - MENISCUS
   - MOONCAKE
   - Munity On The Bounty
   - PG.LOST
-  - Post Rock
+  - Post-Rock
   - Postrock
-  - PRAY FOR SOUND
+  - Pray for Sound
   - RUN GOLDEN BOYS
   - Searica Alma
   - SET AND SETTING
@@ -92,13 +93,11 @@ _Dunk!festival_ veröffentlicht.
 
 Inzwischen steht natürlich auch das komplett Lineup fest, beeindruckend, oder?
 
-<RemoteImage
-  alt="Dunk!Festival"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_17966573_10154140072511887_6065221029203399504_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_17966573_10154140072511887_6065221029203399504_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwEDBP/EAC0QAAIBAwMCBQEJAAAAAAAAAAECAwAEEQUSIQYxExQiQVFhBxUyM0JicYGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARAv/aAAwDAQACEQMRAD8An/UN3Dptk19cXdxbwxrjw7dVJY988j4/wUk0nqW11KaAW17fR+KR+eUU+3OCO1NuorSCdbZr5Vks0WVpI95DsdowEXsxIz+I4/kkVT3SuoQWX3nZnTIrhtQZfLyEbpIxkFVAJAA/VwCfasoyZX3YrLCh8a4ecthg0hGcfTAxRS77PNQbUtKjh1Bit1HBHIYmjKlFYfJ+vGP2minl02kxtvU9jFqmhXVo4YeMBGGXb6Cc+r1cEcdqgTdABNTt7xL6TNvIrJFsAJdVAyx3cAnnjkYqz4+LedVZVLbcFj8ZrAlBKqHy3YjcSf7Oamrg6Z0zyCXDFhiYIQcnPG7PBJ9z80U3l9RTDLwijv2wKKYv/9k=" />
+<RemoteImage alt={`Dunk!Festival`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_17966573_10154140072511887_6065221029203399504_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_17966573_10154140072511887_6065221029203399504_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwEDBP/EAC0QAAIBAwMCBQEJAAAAAAAAAAECAwAEEQUSIQYxExQiQVFhBxUyM0JicYGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARAv/aAAwDAQACEQMRAD8An/UN3Dptk19cXdxbwxrjw7dVJY988j4/wUk0nqW11KaAW17fR+KR+eUU+3OCO1NuorSCdbZr5Vks0WVpI95DsdowEXsxIz+I4/kkVT3SuoQWX3nZnTIrhtQZfLyEbpIxkFVAJAA/VwCfasoyZX3YrLCh8a4ecthg0hGcfTAxRS77PNQbUtKjh1Bit1HBHIYmjKlFYfJ+vGP2minl02kxtvU9jFqmhXVo4YeMBGGXb6Cc+r1cEcdqgTdABNTt7xL6TNvIrJFsAJdVAyx3cAnnjkYqz4+LedVZVLbcFj8ZrAlBKqHy3YjcSf7Oamrg6Z0zyCXDFhiYIQcnPG7PBJ9z80U3l9RTDLwijv2wKKYv/9k="
+/>
 
 Drei Tage Post-Rock pur stehen uns bevor und ich bin gespannt wie zwei
 Regenschirme.
@@ -113,27 +112,28 @@ und losplanen!
 
 Viel Spaß, rock on und bis bald! &lt;3
 
-<RemoteImage
-  alt="Dunk!festival"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_18556485_10154236337136887_6452039886214141882_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_18556485_10154236337136887_6452039886214141882_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREAEiEGMUETFCJRB2FxsdH/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAgMF/8QAIBEAAgIBAwUAAAAAAAAAAAAAAQIAEQMSMbEEIUFRcf/aAAwDAQACEQMRAD8AqV3rVihMiemyq6OGd9qEZxy3jg6mkHUNZbaoUdPdqyaOmcpF7mjEyEKCOGUk4x/HGtHc+qrNR18VrmpGlpc+3d1jHpxMI0cR4J+R+a5xwM9/Gk9qvnT9zvUMVp6fnmhMU0izJABvOBgKM4LNtYLkjJ47c6IuDKGJsVFJnVRVcTIfkHqGulr1hhmKS+kjOY0aMbmyzDDDIHI7/WnH4muDSUVZ7t9wVWMIfcXkfOSRxjAGe/2POlt7aK7UVorq2hhFZIJ45JguwVARwobBJwR2OCRlTgkaXW+xXNqQRQVWyk4J2blBxnvj9nUX04x3q94VyNRI+yi3+O21FBHdJI3kZqWKKVYookeXgAZlZS2B9D/NLbx1nc1hoo7e9BTxypIskaAzOoGMb9wAyeTnHnRo0Veryud/fEYuJaBieuqqmWOJamQOsEYWAfFQi+QqqAFH6Guu13SdMLj1adjypGQT/Y0aNVFiRq8zMclchqf/2Q==" />
+<RemoteImage alt={`Dunk!festival`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_18556485_10154236337136887_6452039886214141882_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_18556485_10154236337136887_6452039886214141882_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREAEiEGMUETFCJRB2FxsdH/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAgMF/8QAIBEAAgIBAwUAAAAAAAAAAAAAAQIAEQMSMbEEIUFRcf/aAAwDAQACEQMRAD8AqV3rVihMiemyq6OGd9qEZxy3jg6mkHUNZbaoUdPdqyaOmcpF7mjEyEKCOGUk4x/HGtHc+qrNR18VrmpGlpc+3d1jHpxMI0cR4J+R+a5xwM9/Gk9qvnT9zvUMVp6fnmhMU0izJABvOBgKM4LNtYLkjJ47c6IuDKGJsVFJnVRVcTIfkHqGulr1hhmKS+kjOY0aMbmyzDDDIHI7/WnH4muDSUVZ7t9wVWMIfcXkfOSRxjAGe/2POlt7aK7UVorq2hhFZIJ45JguwVARwobBJwR2OCRlTgkaXW+xXNqQRQVWyk4J2blBxnvj9nUX04x3q94VyNRI+yi3+O21FBHdJI3kZqWKKVYookeXgAZlZS2B9D/NLbx1nc1hoo7e9BTxypIskaAzOoGMb9wAyeTnHnRo0Veryud/fEYuJaBieuqqmWOJamQOsEYWAfFQi+QqqAFH6Guu13SdMLj1adjypGQT/Y0aNVFiRq8zMclchqf/2Q=="
+/>
 
 Das DUNK!festival findet Ihr [hier](https://www.dunkfestival.be/).
 
-## Wegweiser Dunk!Festival
+## Wegweiser DUNK!festival
 
 1.  [DUNK!festival 2017 - Post-Rock in Begien](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/)
-1.  DUNK!festival 2017 - Wir kommen!
+1.  [DUNK!festival 2017 - Wir kommen!](/2017/05/dunkfestival-2017-es-geht-los/)
 1.  [DUNK!festival 2017 - Liebe auf den ersten Blick](/2017/06/dunk-festival-2017-eindruecke-und-bilder/)
 1.  [DUNK!festival 2018 - Das Line-up](/2018/04/dunkfest-2018-wir-kommen/)
 1.  [Wir läuten die Festivalsaison ein - Kurze Auszeit](/2018/05/wir-laeuten-die-festivalsaison-ein/)
 1.  [DUNK!festival 2018 - Liebe für immer](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/)
-1.  DUNK!festival 2019 - Das Line-up
+1.  [DUNK!festival 2019 - das Line-up](/2019/05/dunkfestival-2019/)
+1.  [DUNK!festival 2020 - Playlist - 28 ganz besondere Songs](/2020/05/dunk-festival-2020/)
 
-Bilder &amp; Artwork: Dunk!Festival (Error Design)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+Artwork: [Error! Design](https://error-design.com/)
 
 &nbsp;
 

@@ -15,9 +15,9 @@ labels:
   - Cruelty Free
   - crueltyfree
   - empfindliche Haut
+  - Fair Fashion & Beauty
   - Homeoffice
   - Make-up Homeoffice
-  - Mode & Beauty
   - Natrue
   - Rosacea
   - Rosazea

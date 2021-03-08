@@ -22,6 +22,7 @@ labels:
   - Freunde
   - fühlt man sich scheiße
   - Gedanken
+  - Geschichten & Erlebtes
   - Hit The City
   - Hobby
   - Karibik
@@ -42,7 +43,6 @@ labels:
   - Sommer
   - Strand
   - Strandbar
-  - Tagebuch
   - Wenn man seine Freunde im Stich lässt
 type: Artikel
 typeName: Konzertbericht
@@ -50,8 +50,7 @@ date: 2012-08-14T23:17:54.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "10335"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_9918517073_1c699d6bcc_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_9918517073_1c699d6bcc_z__l.jpg
@@ -60,19 +59,14 @@ subTitle: "Oder: Die Geschichte mit der Dachterrasse"
   
 ---
 
-Eigentlich hatte ich geplant, mich gestern Abend mit ein paar Leuten auf der
+**Gestern ist mir etwas passiert, was mir zuvor noch nie passiert ist und auch
+hoffentlich nicht mehr passieren wird. Trotzdem war es schön.**
+
+Eigentlich hatte ich geplant, mich gestern Abend mit ein paar Leuten auf der
 Dachterasse eines Parkhauses zu treffen, das ein Wirt mit Sand ausgelegt und mit
 Bars bestückt hat, damit man dort bei schöner Musik gepflegte Sommerabende mit
 Strandgefühl verbringen kann. Leider hat mir meine chaotische 'Planung' dabei
 einen Strich durch die Rechnung gemacht.
-
-<RemoteImage
-  alt="Die Geschichte von der Dachterrasse"
-  size="medium"
-  title="[ ](http://cardamonchai.aithir.de/wp-content/uploads/2012/08/9918517073_1c699d6bcc_z.jpg)  Die Geschichte von der Dachterrasse"
-  mediumUrl="http://cardamonchai.aithir.de/wp-content/uploads/2012/08/9918517073_1c699d6bcc_z-640x480.jpg"
-  largeUrl="http://cardamonchai.aithir.de/wp-content/uploads/2012/08/9918517073_1c699d6bcc_z-640x480.jpg"
-  loadingUrl="undefined" />
 
 Alles fing damit an, dass mein Bruder vor ca. 1/2 Jahr Konzertkarten für Mark
 Lanegan besorgt hatte. Natürlich war ich sofort Feuer und Flamme und habe mich
@@ -93,7 +87,7 @@ sehr und hattet trotz meiner Untreue einen ganz wundervollen Abend.)
 Das Konzert war großartig. Im Vorprogramm spielte die belgische Band '
 [Creature With The Atom Brain](http://creaturewiththeatombrain.com/) '. Die
 Jungs haben im April ein neues Album (ihr Drittes +1 EP) veröffentlicht und sind
-nun zusammen mit Mark on Tour. Alle lauschten fast schon andächtig, als
+nun zusammen mit Mark on Tour. Alle lauschten fast schon andächtig, als 
 [Mark Lanegan](http://marklanegan.com/) auf die Bühne kam. Der schlaksige Sänger
 wirkte wie immer ziemlich schüchtern, außer 'Thank you' und 'Good Night' hörte
 man nicht viele gesprochene Worte von ihm. Was aber auf keinen Fall störend war,
@@ -104,29 +98,24 @@ Besonders gut gefiel mir auch das Spiel des Creature With The Atom Brain
 Gitarristen Aldo Struyf (auch Mitglied der Band 'Millionaire'), der sich später
 als Multiinstrumentalist entpuppte, als er zusammen mit Mark wieder auf die
 Bühne kam und abwechselnd Keyboard und Gitarre spielte, manchmal auch beides
-gleichzeitig. Hier sind meine Eindrücke des Abends für Euch. Entschuldigt bitte
+gleichzeitig.  Hier sind meine Eindrücke des Abends für Euch. Entschuldigt bitte
 die schlecht Bildqualität, ich hatte nur eine Klickoflex dabei, aber ich wollte
 unbedingt vom Konzert berichten. Ich werde auch wieder bessere Konzertbilder
 machen, Indianerehrenwort.
 
-_ **Hier sind für Euch Creature With the Atom Brain mit 'Mind Your Own God' von
-ihrem 2007er Album 'I Am The Golden Gate Bridge'** _
+## Hier sind für Euch Creature With the Atom Brain mit "Mind Your Own God" von ihrem 2007er Album "I Am The Golden Gate Bridge"
 
-[youtube=http://www.youtube.com/watch?v=thwbycCs5Eo]
+<iframe src="https://www.youtube.com/embed/OaMkIEwrxUw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-_ **Und selbstverständlich habe ich auch von Mark Lenegan noch einen für Euch
-auf Lager: 'The Gravedigger´s Song'** _
+## Und selbstverständlich habe ich auch von Mark Lenegan noch einen für Euch auf Lager: "The Gravedigger´s Song"
 
-[youtube=http://www.youtube.com/watch?v=zP5GWYXp4d0]
+<iframe src="https://www.youtube.com/embed/mVCNSZPPr9M" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-_ **Ach und weil es so schön ist und man es einfach hier nicht weglassen kann,
-hier noch 'Hit The City'** _
+## Ach und weil es so schön ist und man es einfach hier nicht weglassen kann, hier noch "Hit The City"
 
-[youtube=http://www.youtube.com/watch?v=_xMvw9lCOBw]
+<iframe src="https://www.youtube.com/embed/azH5eEXtllc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Das war´s jetzt aber für heute (eigentlich ist ja schon morgen) Gute Nacht und
 ♥lichen Dank für die Aufmerksamkeit.
-
-_Dieser Blogeintrag ist Caro, Milchkaffee, Tanja und Silva gewidmet._
 
   

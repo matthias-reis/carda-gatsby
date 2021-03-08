@@ -13,7 +13,7 @@ labels:
   - Empathie
   - Evolution
   - Gedicht
-  - Lyrik
+  - Geschichten & Erlebtes
   - Lyrik
   - Menschen
   - Nachhaltigkeit

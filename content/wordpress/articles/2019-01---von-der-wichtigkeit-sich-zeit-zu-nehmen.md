@@ -12,12 +12,12 @@ excerpt: Im Moment habe ich leider viel zu wenig Zeit. Ständig geht es hektisch
 focusKeyword: Kaffee
 labels:
   - Achtsamkeit
+  - Achtsamkeit
   - Café
   - Coffe to go
   - draußen nur Kännchen
   - Kaffee
   - Porzellan
-  - Tagebuch
 type: Artikel
 typeName: Artikel
 date: 2019-01-19T16:03:11.000Z

@@ -13,21 +13,19 @@ excerpt: Ganz aktuell macht Denise Slapansky unter dem Logo WYOB vegane
 focusKeyword: Vegane Häkelmützen
 labels:
   - Anti Pelz
-  - Darum vegan
   - Denise Slapansky
+  - Fair Fashion & Beauty
   - Friedberg bei Augsburg
   - gehäkelt
   - Häkelmütze
   - Häkelmützen
   - häkeln
-  - Interview
-  - Mode & Beauty
+  - Interviews
   - Mützen
   - Tierschutz
   - vegan
   - vegane Häkelmützen
   - vegane Mode
-  - Vegane Produkte
   - vegane Wolle
   - vegane Wollmützen
   - Veganer
@@ -51,13 +49,14 @@ subTitle: Vegane Häkelmützen mit Statement
   
 ---
 
-<RemoteImage
-  alt="Denise in Aktion - Foto: Norbert Zawe"
-  size="medium"
-  title="Denise in Aktion - Foto: Norbert Zawe"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Denise-action__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Denise-action__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcC/8QAKhAAAgEDAwIFBAMAAAAAAAAAAQIDBAURAAYhEkETFDFRcQcVImEygcH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgQB/8QAIREAAgIBBAIDAAAAAAAAAAAAAQIDEQASEzFxBCFBkdH/2gAMAwEAAhEDEQA/AMXueyL1LuSaJqORBPMViOMiQs2FAx3ORp9fPpPerNSpFcZ6BkjmCVC0s3iPDxnkY9tXTZFzlmvsMtUrzi2xS1HhAFmBX8Fbj15cH5xplv27UwvtPEK2oqH6o0AZEAKSZzwuMgKVHyufXUUXk6SuoXVE9ZVsbiEg1+5lG/rVJU11untdKBSGhiRUBwVxn1+eNGrUNpbnuMdP56yVAEECRK4kChzyScZ/Y0apeVQxCChZrrNRIyoMl6vn2OfrJtp2WusrWbcC1rwivgcmMRArLGzEdHX2/ip4B5xo3NaqJYrheKaOqFyjQPTxx4fxCoxg8ZJA5/rSHem7oaW0bYooF85Db6OOIjrKAyYLtj2AJA9zjTW9114+wUdXT+TWaWOF5qZ43JDOgkXpYHI49+/fSIiSISVo8YjMY2Cg2Mk2/um+2jbluXcNyMkU6Gaj6S0rrG3PSzfrIwMnA47aNd2++qsBG4IEpZ+o9CrCrEjvnsP90aaOJnUM5o94SSojFUFjP//Z" />
+> "Wear Your Own Bommel - Save lives"
+
+<RemoteImage alt={`Denise in Aktion - Foto: Norbert Zawe`} size="medium"
+title={`Denise in Aktion - Foto: Norbert Zawe`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Denise-action__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Denise-action__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcC/8QAKhAAAgEDAwIFBAMAAAAAAAAAAQIDBAURAAYhEkETFDFRcQcVImEygcH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgQB/8QAIREAAgIBBAIDAAAAAAAAAAAAAQIDEQASEzFxBCFBkdH/2gAMAwEAAhEDEQA/AMXueyL1LuSaJqORBPMViOMiQs2FAx3ORp9fPpPerNSpFcZ6BkjmCVC0s3iPDxnkY9tXTZFzlmvsMtUrzi2xS1HhAFmBX8Fbj15cH5xplv27UwvtPEK2oqH6o0AZEAKSZzwuMgKVHyufXUUXk6SuoXVE9ZVsbiEg1+5lG/rVJU11untdKBSGhiRUBwVxn1+eNGrUNpbnuMdP56yVAEECRK4kChzyScZ/Y0apeVQxCChZrrNRIyoMl6vn2OfrJtp2WusrWbcC1rwivgcmMRArLGzEdHX2/ip4B5xo3NaqJYrheKaOqFyjQPTxx4fxCoxg8ZJA5/rSHem7oaW0bYooF85Db6OOIjrKAyYLtj2AJA9zjTW9114+wUdXT+TWaWOF5qZ43JDOgkXpYHI49+/fSIiSISVo8YjMY2Cg2Mk2/um+2jbluXcNyMkU6Gaj6S0rrG3PSzfrIwMnA47aNd2++qsBG4IEpZ+o9CrCrEjvnsP90aaOJnUM5o94SSojFUFjP//Z"
+/>
 
 **Denise lernte ich vor ziemlich genau einem Jahr über eine vegane
 Facebook-Gruppe kennen. Damals unterhielt ich mich mit ihr über ihre Arbeit als
@@ -80,13 +79,12 @@ zum Interview verabredet.
 Wie geht es dir heute? Bei dir geht es ja immer sehr turbulent zu. Wo kommst du
 gerade her?
 
-<RemoteImage
-  alt="WYOB - Häkelmütze mit Kuhaufnäher"
-  size="medium"
-  title="WYOB - Häkelmütze mit Kuhaufnäher"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11088258_924554010924678_1871320469_n__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11088258_924554010924678_1871320469_n__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAABwABBAUGCP/EACcQAAIBAwMEAgIDAAAAAAAAAAECAwQFEQASIQYTIjFBUQdhI3Gx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEE/8QAHREAAgMAAgMAAAAAAAAAAAAAAQIAAxESIRMxYf/aAAwDAQACEQMRAD8AEKD8fdVXG1JcaHpy61FDIMxzJTkhx9qPbD9ga4659IdQW5Q1fYbtTKfRlpHUf5r2XfKy/wA9VI1upZuyU3xtle0i7SNpH34kD+xgjQJ1NPMKqV6tZopAxLxEnMbZ5GAT6zj3jRV2F4xqAgiyhWKnhh7B4OrTcYKy5WGGsqFoqyFtyRxT4JiVAVATdyclfr496tU2YcyTx/Y4V15t1RA/bliqECEphUfJRu4h5B2jB4Lso9nGhn8jVVfH1C9TbFlipDsnSBASWBUMwGwMGU58uf16Gj7ph7rdIIaGw0Bkron7vfifaWxnBkLHbgAkc/HGu+01VW2WOC2dRy0BDrFE709SzAKGLNvAZRkjAyM+tCp4HJqNbMuj1NC0XGCnscSPBUU9TCgE0jZDBTKWWGI+sN5k58vgZwNWs3K50MtvNTJSxyR/yXCSIFVjkYuBFuRmO7PHOM4GPnVpeKt3MxZh1P/Z" />
+<RemoteImage alt={`WYOB - Häkelmütze mit Kuhaufnäher`} size="medium"
+title={`WYOB - Häkelmütze mit Kuhaufnäher`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11088258_924554010924678_1871320469_n__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11088258_924554010924678_1871320469_n__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAABwABBAUGCP/EACcQAAIBAwMEAgIDAAAAAAAAAAECAwQFEQASIQYTIjFBUQdhI3Gx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEE/8QAHREAAgMAAgMAAAAAAAAAAAAAAQIAAxESIRMxYf/aAAwDAQACEQMRAD8AEKD8fdVXG1JcaHpy61FDIMxzJTkhx9qPbD9ga4659IdQW5Q1fYbtTKfRlpHUf5r2XfKy/wA9VI1upZuyU3xtle0i7SNpH34kD+xgjQJ1NPMKqV6tZopAxLxEnMbZ5GAT6zj3jRV2F4xqAgiyhWKnhh7B4OrTcYKy5WGGsqFoqyFtyRxT4JiVAVATdyclfr496tU2YcyTx/Y4V15t1RA/bliqECEphUfJRu4h5B2jB4Lso9nGhn8jVVfH1C9TbFlipDsnSBASWBUMwGwMGU58uf16Gj7ph7rdIIaGw0Bkron7vfifaWxnBkLHbgAkc/HGu+01VW2WOC2dRy0BDrFE709SzAKGLNvAZRkjAyM+tCp4HJqNbMuj1NC0XGCnscSPBUU9TCgE0jZDBTKWWGI+sN5k58vgZwNWs3K50MtvNTJSxyR/yXCSIFVjkYuBFuRmO7PHOM4GPnVpeKt3MxZh1P/Z"
+/>
 
 **Denise:** Es geht mir gut, ich bin voller Tatendrang! Ich komme aus meinem
 WYOB-Zimmer, wo ich neue Mützen mit dem Label versehen habe
@@ -94,27 +92,31 @@ WYOB-Zimmer, wo ich neue Mützen mit dem Label versehen habe
 **Anne:** Mit WYOB möchtest du in der heutigen Zeit ein Statement setzen.
 Welches genau?
 
-> ## "Ich möchte die 'Nutztiere' aus dem Dunkel holen" **Denise:** Ich möchte Tiere, sogenannte NUTZ-Tiere, aus dem Dunkel holen. Ich möchte ein Bewusstsein wecken für ihre Schönheit, ihre Persönlichkeit, aber und vor allem auch für ihr Leiden. Das Statement heisst – kurz gefasst – FÜR DAS LEBEN.
+> ## "Ich möchte die 'Nutztiere' aus dem Dunkel holen"
+
+**Denise:** Ich möchte Tiere, sogenannte NUTZ-Tiere, aus dem Dunkel holen. Ich
+möchte ein Bewusstsein wecken für ihre Schönheit, ihre Persönlichkeit, aber und
+vor allem auch für ihr Leiden. Das Statement heisst – kurz gefasst – FÜR DAS
+LEBEN.
 
 **Anne:** Was bedeutet eigentlich WYOB? Wofür steht die Abkürzung und was
 bedeutet der Name genau?
 
 **Denise:** WYOB bedeutet: " **Wear Your Own Bommel – save lives** ". Trage
 Deinen eigenen Bommel und rette Leben. Das ist entstanden, weil ich diesen
-unsäglichen Echtpelzbommeln ein Zeichen entgegensetzen wollte.
+unsäglichen Echtpelzbommeln ein Zeichen entgegensetzen wollte.
 
-<RemoteImage
-  alt="WYOB - Foto: Norbert Zawe"
-  size="medium"
-  title="WYOB - Foto: Norbert Zawe"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130325_980268688672783_3126736224858087273_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130325_980268688672783_3126736224858087273_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKhAAAgIBAwMCBQUAAAAAAAAAAQIDBBEABRIGITFRYQcTFCJBIzNxgdH/xAAXAQADAQAAAAAAAAAAAAAAAAACBAUG/8QAKBEAAgAEBAQHAAAAAAAAAAAAAQIAAwQRIUFR8AUxocESEzNCYZGx/9oADAMBAAIRAxEAPwBJBtH19SelUsV60ky/vpXHNBkZIGf5x7nTmls1GpR/TtjcXrSqHLrGJBkYAJXAPcemffWd9P3a8N6jXE1kWLUi0i7vjnkqGAH47ADP+6v/AFxvuy7NQoUphYqNYlaSJabBygXAORjKj+/OfOpEyXMM8HxkDIADHW+HQW1vGhp1kNTMWF3/ADT7MTKFurG5MG3yNXC82l+kDKoA+48wPHqdOaz17HIcVjwFIKQgkDPrqh7F8RYY+kLEcVCeXc4g8UaYlYNnPFmYdgApOQfOBjP4i7HveYI7RJVJWIljSwxKg+cIQQo9CNMhW9y269hvSDrJcsqGkKQBzxvv5jI6nKTcKDI3y5TaVQ4Hglxg49u3b2076v3abe+rHs2FVQldFijXOEBUE+fOSSdGjT7KCQSOUSOHsfOVcrjvHKlNGiIk8bSsePFg/Hj279sHOrT8Omkn3C5EXwr8xjGR9pwNGjQPiCI1FT6DjeUf/9k=" />
+<RemoteImage alt={`WYOB - Foto: Norbert Zawe`} size="medium"
+title={`WYOB - Foto: Norbert Zawe`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130325_980268688672783_3126736224858087273_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130325_980268688672783_3126736224858087273_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKhAAAgIBAwMCBQUAAAAAAAAAAQIDBBEABRIGITFRYQcTFCJBIzNxgdH/xAAXAQADAQAAAAAAAAAAAAAAAAACBAUG/8QAKBEAAgAEBAQHAAAAAAAAAAAAAQIAAwQRIUFR8AUxocESEzNCYZGx/9oADAMBAAIRAxEAPwBJBtH19SelUsV60ky/vpXHNBkZIGf5x7nTmls1GpR/TtjcXrSqHLrGJBkYAJXAPcemffWd9P3a8N6jXE1kWLUi0i7vjnkqGAH47ADP+6v/AFxvuy7NQoUphYqNYlaSJabBygXAORjKj+/OfOpEyXMM8HxkDIADHW+HQW1vGhp1kNTMWF3/ADT7MTKFurG5MG3yNXC82l+kDKoA+48wPHqdOaz17HIcVjwFIKQgkDPrqh7F8RYY+kLEcVCeXc4g8UaYlYNnPFmYdgApOQfOBjP4i7HveYI7RJVJWIljSwxKg+cIQQo9CNMhW9y269hvSDrJcsqGkKQBzxvv5jI6nKTcKDI3y5TaVQ4Hglxg49u3b2076v3abe+rHs2FVQldFijXOEBUE+fOSSdGjT7KCQSOUSOHsfOVcrjvHKlNGiIk8bSsePFg/Hj279sHOrT8Omkn3C5EXwr8xjGR9pwNGjQPiCI1FT6DjeUf/9k="
+/>
 
 **Anne:** Das Fell des Marderhundes, der das Logotier von WYOB ist, wird ja sehr
 gerne für die Herstellung von Pelzbommeln und Pelzbesätzen verwendet. Anstelle
 eines Bommels hatten die ersten Mützen aus deiner Herstellung, die in Serie
-gingen, eine elastische Öffnung an der Oberseite, durch das die Trägerin/der
+gingen, eine elastische Öffnung an der Oberseite, durch das die Trägerin/der
 Träger ihren/seinen Zopf/Dutt stecken kann. Ein schönes Statement gegen die
 Pelzindustrie "Ich brauche keinen Pelzbommel, ich zeige meinen eigenen Pelz!"
 Liegt dir das Thema Pelze als aktive Tierrechtsaktivistin besonders am Herzen?
@@ -126,48 +128,51 @@ Sinnlosigkeit des Leidens der Tiere besonders deutlich.
 
 **Denise:** Die Mützen werden hier in Friedberg von mir und einer weiteren
 Friedbergerin, die ich dafür eingestellt habe, hergestellt. Die Applikationen,
-Tiere etc. mache ich noch alle selbst. Momentan ist alles noch sehr jung, da wir
-erst vor zwei Monaten angefangen haben. Vieles muss noch auf Serientauglichkeit
-geprüft werden. Manche Mützen häkeln wir vier-, fünf Mal, bis alles passt.
+Tiere etc. mache ich noch alle selbst. Momentan ist alles noch sehr jung, da wir
+erst vor zwei Monaten angefangen haben. Vieles muss noch auf Serientauglichkeit
+geprüft werden. Manche Mützen häkeln wir vier-, fünf Mal, bis alles passt.
 
-**Anne:** Dann arbeitet ihr derzeit zu zweit an **WYOB** ?
+**Anne:**  Dann arbeitet ihr derzeit zu zweit an **WYOB** ?
 
-<RemoteImage
-  alt="WYOB - Foto: Norbert Zawe"
-  size="medium"
-  title="WYOB - Foto: Norbert Zawe"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2508__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2508__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAqEAABAwQBBAECBwAAAAAAAAABAgMEAAURIRIGMUFREwcUJCVCYbHB4f/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAIhEAAgIBAwQDAAAAAAAAAAAAAQIAAxESIjEEIUGBUaHB/9oADAMBAAIRAxEAPwBEXGDLYPxEodAOSoq8+h/FY19kXKAtj5GPtoj4KmHBhXyJSeJOfBB8aNNcRuO+lpTgkMxgpaghtOeOs6JPj+qbL/07b+o7ClIfkJlrVzZVMVgqPEAAgDGdaUMnsNgVPXZWp3zqU0LcCpbSfB8e/ruOPgxJ+m/UsBm8txr/ABUSGZSg2mSVELaUe2ANYz67VRJDsBoqQ1OHBBKE/q147GpFH6KuVuvX5uDFbjLQ4CWyS4c6APbGu41VAaWw64n8W+txOVI5tBAKvX+Uq9FL5WYVbKspZyPf7MqXGQ1LcZYQ0gBPHnxys5Ayc50a53bq/wBN28X1ARKXDwG2XRrKgQN+h6oooKNT4MLba9Q5xJpE6guaL8brKluypDxPzB1RIcCiMj9vGMdsDFW+VASpHBpxTYQUnOAScgHdFFO6gAEYk9BJBn//2Q==" />
+<RemoteImage alt={`WYOB - Foto: Norbert Zawe`} size="medium"
+title={`WYOB - Foto: Norbert Zawe`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2508__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2508__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAqEAABAwQBBAECBwAAAAAAAAABAgMEAAURIRIGMUFREwcUJCVCYbHB4f/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAIhEAAgIBAwQDAAAAAAAAAAAAAQIAAxESIjEEIUGBUaHB/9oADAMBAAIRAxEAPwBEXGDLYPxEodAOSoq8+h/FY19kXKAtj5GPtoj4KmHBhXyJSeJOfBB8aNNcRuO+lpTgkMxgpaghtOeOs6JPj+qbL/07b+o7ClIfkJlrVzZVMVgqPEAAgDGdaUMnsNgVPXZWp3zqU0LcCpbSfB8e/ruOPgxJ+m/UsBm8txr/ABUSGZSg2mSVELaUe2ANYz67VRJDsBoqQ1OHBBKE/q147GpFH6KuVuvX5uDFbjLQ4CWyS4c6APbGu41VAaWw64n8W+txOVI5tBAKvX+Uq9FL5WYVbKspZyPf7MqXGQ1LcZYQ0gBPHnxys5Ayc50a53bq/wBN28X1ARKXDwG2XRrKgQN+h6oooKNT4MLba9Q5xJpE6guaL8brKluypDxPzB1RIcCiMj9vGMdsDFW+VASpHBpxTYQUnOAScgHdFFO6gAEYk9BJBn//2Q=="
+/>
 
-**Denise:** Momentan zu zweit, ich hoffe natürlich auf steigende Tendenz.
+**Denise:** Momentan zu zweit, ich hoffe natürlich auf steigende Tendenz.
 
-**Anne:** Bei mir daheim in Hamburg ist es ja von Januar bis Dezember windig und
+**Anne:** Bei mir daheim in Hamburg ist es ja von Januar bis Dezember windig und
 ich gehöre sowieso zu den Menschen, die das ganze Jahr über gerne Mützen tragen.
 Wo kann ich "mein" WYOB-Modell denn käuflich erwerben?
 
-## "Der Shop geht in Kürze online" **Denise:** Der Shop geht in Kürze online. Derzeit kann per PN über unsere Facebook-Seite [<sup>1</sup>](#1) bestellt werden. Auf diesem Weg ist alles noch sehr persönlich, was ich sehr schön finde, mal sehen, ob das auf Dauer so machbar ist.
+## "Der Shop geht in Kürze online"
+
+**Denise:** Der Shop geht in Kürze online. Derzeit kann per PN über unsere
+Facebook-Seite [<sup>1</sup>](#1)  bestellt werden. Auf diesem Weg ist alles
+noch sehr persönlich, was ich sehr schön finde, mal sehen, ob das auf Dauer so
+machbar ist.
 
 **Anne:** Welche Materialien werden für die Herstellung der Mützen verwendet?
 
 **Denise:** Für die Wintermützen benutzen wir eine **Flauschwolle** , die ist
 aus 100 Prozent Polyacryl, atmungsaktiv, sehr leicht und angenehm. Die
-Sommerversionen sind aus Baumwolle. Der Filz aus dem die aufgenähten Tiere
-hergestellt sind, ist ebenfalls zu 100 Prozent aus Kunstfaser, ebenso die Garne,
-die meist aus Baumwolle bestehen.
+Sommerversionen sind aus Baumwolle. Der Filz aus dem die aufgenähten Tiere
+hergestellt sind, ist ebenfalls zu 100 Prozent aus Kunstfaser, ebenso die
+Garne, die meist aus Baumwolle bestehen.
 
 **Anne:** Denise, du bist ja selbst auch Veganerin. Wie lange lebst du schon
 vegan und was waren deine Gründe? Hattest du bei deiner Umstellung Vorbilder?
 
-<RemoteImage
-  alt="Polarfuchs - Foto: Norbert Zawe"
-  size="medium"
-  title="Polarfuchs - Foto: Norbert Zawe"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130489_980262822006703_5414786716132520222_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130489_980262822006703_5414786716132520222_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGB//EACoQAAIBAwIGAgEFAQAAAAAAAAECBAMFEQAGBxITITFBUWEyCBQVgqHC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAHBEAAQQDAQAAAAAAAAAAAAAAAQACAxESIVFB/9oADAMBAAIRAxEAPwBfZbVInNRipQbnqDNSuzKxGD3YgHPf1qgn7GprSpi1SAZf5M1asFVlIPc59kgYAI8/GNZlwn4nXBbtNoXlaE1ZAV15sU+QDIIXAxjuDj3jTX9Q1ymQd22eLQeq1s/ZiV0VbBaoXIcsw7kkKo+hrM2aeA4sNera6KCZhc4bqr4tF2xtiO8JluLsskMGchuwbJx2zj6yc/1PlNu21VIdxrIa3QmPmoidMlai58q2fHgeO2pXgnvGnM3tWs5Y04MlTWpI5IZaoAzyt5/Ed/nHfUzx9ukmffILV2YdJ5IpEMQFXqBQAPWOX1qS6Wd1yONq8YoGAxgGtX2kr4F2eNdt3gS+YpTCkAfeT/z/AKdOt5ym3Fx6p22eCIUeR/HKiHB6eDzHPySzHP2PjRo0oFzb4huoNdWV2e5SLRcotwhMFkR3FRSR2PyD9EZGqXfm7zu6alUwKcKnSBC01qGpgk5Y5I9k6NGlxF5eoA9wbjel/9k=" />
+<RemoteImage alt={`Polarfuchs - Foto: Norbert Zawe`} size="medium"
+title={`Polarfuchs - Foto: Norbert Zawe`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130489_980262822006703_5414786716132520222_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130489_980262822006703_5414786716132520222_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGB//EACoQAAIBAwIGAgEFAQAAAAAAAAECBAMFEQAGBxITITFBUWEyCBQVgqHC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAHBEAAQQDAQAAAAAAAAAAAAAAAQACAxESIVFB/9oADAMBAAIRAxEAPwBfZbVInNRipQbnqDNSuzKxGD3YgHPf1qgn7GprSpi1SAZf5M1asFVlIPc59kgYAI8/GNZlwn4nXBbtNoXlaE1ZAV15sU+QDIIXAxjuDj3jTX9Q1ymQd22eLQeq1s/ZiV0VbBaoXIcsw7kkKo+hrM2aeA4sNera6KCZhc4bqr4tF2xtiO8JluLsskMGchuwbJx2zj6yc/1PlNu21VIdxrIa3QmPmoidMlai58q2fHgeO2pXgnvGnM3tWs5Y04MlTWpI5IZaoAzyt5/Ed/nHfUzx9ukmffILV2YdJ5IpEMQFXqBQAPWOX1qS6Wd1yONq8YoGAxgGtX2kr4F2eNdt3gS+YpTCkAfeT/z/AKdOt5ym3Fx6p22eCIUeR/HKiHB6eDzHPySzHP2PjRo0oFzb4huoNdWV2e5SLRcotwhMFkR3FRSR2PyD9EZGqXfm7zu6alUwKcKnSBC01qGpgk5Y5I9k6NGlxF5eoA9wbjel/9k="
+/>
 
-**Denise:** Ich bin – muss ich leider sagen – erst seit drei Jahren vegan.
+**Denise:** Ich bin – muss ich leider sagen – erst seit drei Jahren vegan.
 Direkte Vorbilder hatte ich keine, ich bin ja von jetzt auf nachher vegan
 geworden. Eine **Tierrechtsaktivistin** von der Tierrechtsinitiative Augsburg
 hat den Schlüsselsatz zu mir gesagt, als ich sie wegen der Streunerhunde und
@@ -187,15 +192,19 @@ Hunde bei dir. Bleibt da ab und an auch noch Zeit zum Durchatmen?
 
 **Denise:** Nein, nicht wirklich. (lacht)
 
-> ## "'Die werden ja sowieso geschlachtet' ist keine Ausrede!" **Anne:** Eine Frage, die ich schon einigen Tierrechtsaktivisten gestellt habe, heute auch an dich: Wie erklärst du dir den Widerspruch, dass ein Großteil der Menschen das Tragen von Pelzen ablehnt, Leder aber für selbstverständlich gehalten wird? Leder ist doch auch Tierhaut!
+> ## "'Die werden ja sowieso geschlachtet' ist keine Ausrede!"
 
-<RemoteImage
-  alt="Gut be(hütet)mützt"
-  size="medium"
-  title="Gut be(hütet)mützt"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_10156985_924554094258003_1421355744_n__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_10156985_924554094258003_1421355744_n__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgX/xAAnEAACAQIFAwUBAQAAAAAAAAABAgMEEQAFBhIhEzFBFBUiUWEykf/EABcBAQADAAAAAAAAAAAAAAAAAAUCAwT/xAAgEQACAgEDBQAAAAAAAAAAAAABAgADERIiUQQFEyGB/9oADAMBAAIRAxEAPwCwZnH7PWrTrV18cMi9RGWrdURSxG2wB7HsB4P5hfNfVey1NdBnc7xQ7Ruaax3E/wA2ZN374viR5zqJ8y1JLUNVVMtVUE7YRJ8Y1vxYDwMdKqzthpWq9JLU9aKWNpWeJtoUXDBj228+Rwbc4OW97G0hdsYv7elNBYtv4m6y3ULpR75mrtr2YkRQupt2vdPrzgxNKDWDZiIqUK5k6DOsjOBtRW22Fl++1vvBifkWvaRn7B8tzJHlGZ9TXFfLTUpghaVtkKFrxIrcDkk37E89ycULWmp5I9N1Hps0QZm8cVLFSyOVlZWkBY7SbFbA3JFsIZBpJKLUbVkcjAsh3IRcEkcm5/RfDmpNNLmNUlXAAuYxqZI5SbH42KqT+2P+4vOGcYETV2Wogmauq017blcUz0FF6lTttHAgkivZrEJ2ve37cYMafRrJV5dT9amqvcJEhgm6c5GyM8M1r7RYAc2PA8cnBjJ1Cvr9nMPA4n//2Q==" />
+**Anne:** Eine Frage, die ich schon einigen Tierrechtsaktivisten gestellt habe,
+heute auch an dich: Wie erklärst du dir den Widerspruch, dass ein Großteil der
+Menschen das Tragen von Pelzen ablehnt, Leder aber für selbstverständlich
+gehalten wird? Leder ist doch auch Tierhaut!
+
+<RemoteImage alt={`Gut be(hütet)mützt`} size="medium"
+title={`Gut be(hütet)mützt`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_10156985_924554094258003_1421355744_n__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_10156985_924554094258003_1421355744_n__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgX/xAAnEAACAQIFAwUBAQAAAAAAAAABAgMEEQAFBhIhEzFBFBUiUWEykf/EABcBAQADAAAAAAAAAAAAAAAAAAUCAwT/xAAgEQACAgEDBQAAAAAAAAAAAAABAgADERIiUQQFEyGB/9oADAMBAAIRAxEAPwCwZnH7PWrTrV18cMi9RGWrdURSxG2wB7HsB4P5hfNfVey1NdBnc7xQ7Ruaax3E/wA2ZN374viR5zqJ8y1JLUNVVMtVUE7YRJ8Y1vxYDwMdKqzthpWq9JLU9aKWNpWeJtoUXDBj228+Rwbc4OW97G0hdsYv7elNBYtv4m6y3ULpR75mrtr2YkRQupt2vdPrzgxNKDWDZiIqUK5k6DOsjOBtRW22Fl++1vvBifkWvaRn7B8tzJHlGZ9TXFfLTUpghaVtkKFrxIrcDkk37E89ycULWmp5I9N1Hps0QZm8cVLFSyOVlZWkBY7SbFbA3JFsIZBpJKLUbVkcjAsh3IRcEkcm5/RfDmpNNLmNUlXAAuYxqZI5SbH42KqT+2P+4vOGcYETV2Wogmauq017blcUz0FF6lTttHAgkivZrEJ2ve37cYMafRrJV5dT9amqvcJEhgm6c5GyM8M1r7RYAc2PA8cnBjJ1Cvr9nMPA4n//2Q=="
+/>
 
 **Denise:** Ja, da kommt wieder mal der Satz zum Tragen: Die werden ja sowieso
 geschlachtet. Nach dem Motto: Wenn sie schon ihr Leben geben, ist das in
@@ -207,9 +216,9 @@ ja eine Zeitlang schier unmöglich, noch eine Jacke oder Mütze ohne Pelzbesatz 
 finden. Wir haben vor ein paar Wochen ja sogar gemeinsam dagegen demonstriert
 [<sup>2</sup>](#2).
 
-**Denise:** Zum Einen ist die Aufklärung über **Pelze** seit den 80er-Jahren,
+**Denise:** Zum Einen ist die Aufklärung über **Pelze** seit den 80er-Jahren,
 damals wurden Pelze ganz stark an den Pranger gestellt, stark zurück gegangen.
-Hinzu kommt, dass kaum noch komplette Mäntel und Jacken aus Pelz getragen
+Hinzu kommt, dass kaum noch komplette Mäntel und Jacken aus Pelz getragen
 werden, sondern eben nur Teile davon mit Pelz besetzt sind.
 
 Das Labeling der Pelzbesätze ist mangelhaft, obwohl jeder, der es wissen will,
@@ -217,27 +226,31 @@ fühlen, sehen und somit auch erfahren kann, ob der Pelzbesatz echt ist oder
 nicht. Es gibt auch sehr guten Fake fur, von Weitem mag man das nicht sofort
 erkennen, wohl aber sofort beim Anfassen. Die Pelztiere aus China, bzw. was von
 ihnen übrig ist und importiert wird, sind so billig, dass viele meinen, das kann
-nicht echt sein und aufgrund des Preises ihren Verstand ausschalten.
+nicht echt sein und aufgrund des Preises ihren Verstand ausschalten.
 
-**Anne:** Die meisten Menschen wissen ja leider nicht mal, dass sie Echtpelz
+**Anne:** Die meisten Menschen wissen ja leider nicht mal, dass sie Echtpelz
 tragen, da das von der Pelzindustrie
 [geschickt verschleiert](/2014/11/fakepelz-echtpelz/) wird.
 
-> ## "Gegen Pelze!" **Denise:** Ich denke, dass wer wirklich GEGEN Pelz ist, bzw. das Tragen von Pelzen ablehnt, es wissen kann, egal wie geschickt die Industrie das zu Verschleiern versucht. Wir müssen einfach unsere Sinne einschalten: Im Sinne von Wear your own BRAIN!
+> ## "Gegen Pelze!"
 
-<RemoteImage
-  alt="WYOB - Foto: Norbert Zawe"
-  size="medium"
-  title="WYOB - Foto: Norbert Zawe"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2555__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2555__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAApEAACAQIFAwQCAwAAAAAAAAABAgMEEQAFEiExBhRBB1FhcROBQpHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAgEQACAQMEAwAAAAAAAAAAAAABAgADESEEMUFRE6Hh/9oADAMBAAIRAxEAPwBf6QyWCbMJK/NBFUxwqkdPTi4i1Wuzsv8AI8ABvY/GKPnGSUOcdOzSwUH4ayFGZJqeERKLeGIIDA+dtsT6kzGCiBRRPJOxVjqsA19lIUcW3v8AWHbLZqGallkNPVS0xUSytNUERpp4sV4Uex3384lVq1Ut41NgB1ufnu/EtafTUnQu2TfvYSf0uWTTVSQxVCpJJtdtTgX+Qbf3h0yvpTtoD3gp6hyDpMbFSu/3hYly3Q5NPmEThW06RNcAeCL72+8bGWd0lK8YlQhSRraq0lifOn2wrXOxgLYcSX+oc01J0xT1EMzrLWVhRmWykKiBrbW5Zgf1jd6d6srqr08fMGSFaunzSCiqZAtjVpKp3a3DA2JI5t8nBgwzIrICRm8Gm7K5AOLR1yBmrlkE5BjV1UjSLnzz/mONRQQQdw6LddTaVIG37884MGBEZ8HE/9k=" />
+**Denise:** Ich denke, dass wer wirklich GEGEN Pelz ist, bzw. das Tragen von
+Pelzen ablehnt, es wissen kann, egal wie geschickt die Industrie das zu
+Verschleiern versucht. Wir müssen einfach unsere Sinne einschalten: Im Sinne von
+Wear your own BRAIN!
+
+<RemoteImage alt={`WYOB - Foto: Norbert Zawe`} size="medium"
+title={`WYOB - Foto: Norbert Zawe`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2555__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2555__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAApEAACAQIFAwQCAwAAAAAAAAABAgMEEQAFEiExBhRBB1FhcROBQpHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAgEQACAQMEAwAAAAAAAAAAAAABAgADESEEMUFRE6Hh/9oADAMBAAIRAxEAPwBf6QyWCbMJK/NBFUxwqkdPTi4i1Wuzsv8AI8ABvY/GKPnGSUOcdOzSwUH4ayFGZJqeERKLeGIIDA+dtsT6kzGCiBRRPJOxVjqsA19lIUcW3v8AWHbLZqGallkNPVS0xUSytNUERpp4sV4Uex3384lVq1Ut41NgB1ufnu/EtafTUnQu2TfvYSf0uWTTVSQxVCpJJtdtTgX+Qbf3h0yvpTtoD3gp6hyDpMbFSu/3hYly3Q5NPmEThW06RNcAeCL72+8bGWd0lK8YlQhSRraq0lifOn2wrXOxgLYcSX+oc01J0xT1EMzrLWVhRmWykKiBrbW5Zgf1jd6d6srqr08fMGSFaunzSCiqZAtjVpKp3a3DA2JI5t8nBgwzIrICRm8Gm7K5AOLR1yBmrlkE5BjV1UjSLnzz/mONRQQQdw6LddTaVIG37884MGBEZ8HE/9k="
+/>
 
 **Anne:** Vor Kurzem berichtete ich für Vegan News über eine Jungdesignerin, die
 Pelzmode aus "Roadkill", also aus überfahrenen Tieren herstellt, die sie selbst
 aufsammelt. Was ist davon zu halten?
 
-**Denise:** Ist das notwendig? Brauchen wir Pelz? Und wer sieht von weitem, dass
+**Denise:** Ist das notwendig? Brauchen wir Pelz? Und wer sieht von weitem, dass
 das mal ein überfahrenes Tier war. Und kann man dem toten Tier nicht auch seine
 Würde lassen? Das hat was von Leichenfledderei. Für mich nicht vertretbar.
 
@@ -247,19 +260,18 @@ ganze Bewegung entwickelt, während meiner Zeit in Augsburg habe ich davon
 einiges mitbekommen. Möchtest du uns erzählen, wie es dazu kam und wie sich das
 (aus Sicht der Gründerin) entwickelt hat?
 
-<RemoteImage
-  alt="Huhn - Wear Your Own Bommel"
-  size="medium"
-  title="Huhn - Wear Your Own Bommel"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11121140_924554274257985_544938426_n__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11121140_924554274257985_544938426_n__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHA//EACsQAAIBAwMCBQMFAAAAAAAAAAECEQMEIQASMQUGEyIyQWFxgZEjM4Khsf/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAQYH/8QAIxEAAgECBQUBAAAAAAAAAAAAAQIAAxEEBRIhQSIjMXGRof/aAAwDAQACEQMRAD8AhlpsBD0wquQzM6+o4GJxHxAaCCNKGt9oRLt3LHy+IJVz6sEj3AnHzrSLHtXo97YWdWhNGoKSg1KDh1cczHHPuM6fL2d0lH3VTcV1gg0qrgo8+zADPJ/J1ThgapM0I5xhwD5v6mNdToT+m6EuFmAYxjIn6/0dGpTuChard3tPp9saFC3rHwyqsA8SDtWBAAkYEHmSZOjQ7oSqm9o4vcUORa/EsfZnWatncVba4/YZWrLtBJXBYz8Yb8fOpfqndAubIL0ZjVvnUsaL+R9ojzLgg8ieYkHVRSrUpVkNMU2IXa0+b1ciP4g4PMfXTQrT3U2pBqgAlSSzFTtidzfEjUJjXVNEWfLKdSqavP58jQNRtqVctQA3naUaA4ILe5YhpLYz78aNcr9dmfVtBBgH/OfsftGjQqNW8ePTtP/Z" />
+<RemoteImage alt={`Huhn - Wear Your Own Bommel`} size="medium"
+title={`Huhn - Wear Your Own Bommel`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11121140_924554274257985_544938426_n__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11121140_924554274257985_544938426_n__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHA//EACsQAAIBAwMCBQMFAAAAAAAAAAECEQMEIQASMQUGEyIyQWFxgZEjM4Khsf/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAQYH/8QAIxEAAgECBQUBAAAAAAAAAAAAAQIAAxEEBRIhQSIjMXGRof/aAAwDAQACEQMRAD8AhlpsBD0wquQzM6+o4GJxHxAaCCNKGt9oRLt3LHy+IJVz6sEj3AnHzrSLHtXo97YWdWhNGoKSg1KDh1cczHHPuM6fL2d0lH3VTcV1gg0qrgo8+zADPJ/J1ThgapM0I5xhwD5v6mNdToT+m6EuFmAYxjIn6/0dGpTuChard3tPp9saFC3rHwyqsA8SDtWBAAkYEHmSZOjQ7oSqm9o4vcUORa/EsfZnWatncVba4/YZWrLtBJXBYz8Yb8fOpfqndAubIL0ZjVvnUsaL+R9ojzLgg8ieYkHVRSrUpVkNMU2IXa0+b1ciP4g4PMfXTQrT3U2pBqgAlSSzFTtidzfEjUJjXVNEWfLKdSqavP58jQNRtqVctQA3naUaA4ILe5YhpLYz78aNcr9dmfVtBBgH/OfsftGjQqNW8ePTtP/Z"
+/>
 
 **Denise:** Die oben erwähnte Tierrechtlerin Elke Skiba und ich haben vor allem
 diesen Schweigemarsch mit mehreren Kundgebungen ins Leben gerufen. Jedes Jahr
 werden es mehr Menschen. Wir wollten eine lebensfreundliche Demo darstellen, den
 Veganismus als Lösung vieler Probleme: Welthunger, Umweltverschmutzung, Wasser
-und natürlich die ethische Untragbarkeit der Tiernutzung in unserer Zeit.
+und natürlich die ethische Untragbarkeit der Tiernutzung in unserer Zeit.
 
 **Anne:** Bist du zufrieden mit dem Feedback zu "Augsburg is(s)t vegan"?
 
@@ -268,24 +280,26 @@ jahrelangen Infoarbeit der TIA (Tierrechtsinitiative Augsburg)
 [<sup>3</sup>](#3) zu verdanken ist. Mit Infoständen und Kostproben klären
 engagierte, junge Leute seit Jahren mit sehr gutem Infomaterial Verbraucher auf.
 Es gibt viele verschiedene Events (z. B. "Peace Food Rocks "[<sup>4</sup>](#4)
-), bei denen sich die Veganerinnen und Veganer regelmässig treffen und
+), bei denen sich die Veganerinnen und Veganer regelmässig treffen und
 engagieren können. Das ist absolut wunderbar und ich bin froh, dass Augsburgs
 vegane Szene so gut vernetzt ist. Jede Bewegung trägt dazu bei.
 
 **Anne:** Findest du das vegane Angebot in Augsburg gut? Was könnte noch besser
 werden?
 
-> ## "Das vegane Angebot kann nie groß genug sein!" **Denise:** Es kann nie genug geben. Wir müssten an jeder Ecke was zu essen finden können, so wie in Berlin. Augsburg go vegan like Berlin!
+> ## "Das vegane Angebot kann nie groß genug sein!"
+
+**Denise:** Es kann nie genug geben. Wir müssten an jeder Ecke was zu essen
+finden können, so wie in Berlin. Augsburg go vegan like Berlin!
 
 **Anne:** Erzähl uns etwas über Paul!
 
-<RemoteImage
-  alt="Paul - Foto: Thomas Zinnecker"
-  size="medium"
-  title="Paul - Foto: Thomas Zinnecker"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_15423985063_8be34150d1_k__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_15423985063_8be34150d1_k__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcCBgQFCP/EACkQAAEDAwQABQUBAAAAAAAAAAECAwQABREGEiExBxMiQVEUI2FxoVL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAeEQEAAgICAwEAAAAAAAAAAAABAAIRIQMSMUHwcf/aAAwDAQACEQMRAD8AeEnUkKzzEN3IyPu8Bwpykf3nHviqdrDxbgRru3b7VHM5sOYW+hexIx333VpZTar2IMx9tt1IHmNocUAcE5IWjP6yCOKQl3tNvdv9+aiNzFSrat95YS0PJKQs8AjoYKQPnmjwi2sXPEvyIFbV1OiLZqy2zITD/wBXHy4E5bQ4FqTuGU5x8jkVgXvWcSFPisuvNsMKILi1ZJwo4T+hnv4peKDNoimGzbYrk1tqO4++pat6l7PUOz6U8JH4BFLu43m6XmUIl32PPMLI3pSSVerO3Pe3oVSlUu9jWNQN+1QPPv778mgsniPqmGuOWL1OP07ZabDrgcCQdoxhQP8An3yeTUZGsb2Uwpjs91TySVApwncrn1LAGFHn3FFFWTDqDAxx+Hl6l60tkh++POOSoKtiXE7EhaVJ3YUAnv8AOasWn9BQbQidNdeVLlPtfbWtAHlZHx7/AM6oorMCbgbNXU//2Q==" />
+<RemoteImage alt={`Paul - Foto: Thomas Zinnecker`} size="medium"
+title={`Paul - Foto: Thomas Zinnecker`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_15423985063_8be34150d1_k__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_15423985063_8be34150d1_k__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcCBgQFCP/EACkQAAEDAwQABQUBAAAAAAAAAAECAwQABREGEiExBxMiQVEUI2FxoVL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAeEQEAAgICAwEAAAAAAAAAAAABAAIRIQMSMUHwcf/aAAwDAQACEQMRAD8AeEnUkKzzEN3IyPu8Bwpykf3nHviqdrDxbgRru3b7VHM5sOYW+hexIx333VpZTar2IMx9tt1IHmNocUAcE5IWjP6yCOKQl3tNvdv9+aiNzFSrat95YS0PJKQs8AjoYKQPnmjwi2sXPEvyIFbV1OiLZqy2zITD/wBXHy4E5bQ4FqTuGU5x8jkVgXvWcSFPisuvNsMKILi1ZJwo4T+hnv4peKDNoimGzbYrk1tqO4++pat6l7PUOz6U8JH4BFLu43m6XmUIl32PPMLI3pSSVerO3Pe3oVSlUu9jWNQN+1QPPv778mgsniPqmGuOWL1OP07ZabDrgcCQdoxhQP8An3yeTUZGsb2Uwpjs91TySVApwncrn1LAGFHn3FFFWTDqDAxx+Hl6l60tkh++POOSoKtiXE7EhaVJ3YUAnv8AOasWn9BQbQidNdeVLlPtfbWtAHlZHx7/AM6oorMCbgbNXU//2Q=="
+/>
 
 **Denise:** Ich habe eine Freundin, vegan und **Tierärztin** , die Abläufe im
 Schlachthof überwacht. Sie rettet regelmässig Tiere. Am 15.Dezember 2014 rief
@@ -300,23 +314,24 @@ Kälbcheneimer, Freundin zur Unterstützung, Anhänger.
 
 Als wir dort ankamen, zitterten mir die Knie. Ich mussste "da" reingehen,
 drumherum Metzger mit bluttriefenden weissen Plastikschürzen. Nicole, die
-Ärztin, hatte dem Kalb einen Strick umgebunden. Zu dem kleinen Kerl, der voller
+Ärztin, hatte dem Kalb einen Strick umgebunden. Zu dem kleinen Kerl, der voller
 Panik war sagte sie: "Vertrau mir". Das werde ich NIE vergessen. Sie übergab ihn
-mir und Paul und ich liefen zusammen im Höchsttempo vor diesem Ort davon, rauf
+mir und Paul und ich liefen zusammen im Höchsttempo vor diesem Ort davon, rauf
 auf den Hänger, Klappe zu – Sicherheit. Ich umarmte ihn und ich versprach ihm,
 mich um ihn zu kümmern. Das tat ich dann auch, bis er nach Hof Butenland durfte,
 dort ist Paul heute ein Star. Der Überlebenshof Hof Butenland [<sup>5</sup>](#5)
 ist für jedes gerettete Tier ein absoluter Hauptgewinn.
 
-> ## "Wir sollten alle mehr nachdenken!" **Anne:** Eine Sache, die jeder für den Tierschutz tun sollte?
+> ## "Wir sollten alle mehr nachdenken!"
 
-<RemoteImage
-  alt="WYOB - Foto: Norbert Zawe"
-  size="medium"
-  title="WYOB - Foto: Norbert Zawe"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2579__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2579__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAwcI/8QALRAAAgEDAgQEBQUAAAAAAAAAAQIDBAURABIGEyExIjJBUQcWQlKBcZGhsfD/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUEBv/EACURAAEDAgUEAwAAAAAAAAAAAAECBBEAAwUSITFBE1FhoRQykf/aAAwDAQACEQMRAD8ATW8VENWKd4HptgIMoDI6Efac9DnVLLUR3UKlfK8rKPBI7ZdT/R99T8dPIuEWKOWcMMSRS7hsYHO448OMe3pqmt9sVJk2JFUBYjMXWRQuQfKVbJ/Pb+daWbpg3tH5AlR8SY8e6kYth2LvXCSyUUoAGyoEydxOvHcftIaa1XGprpYWiq2Xed84BIZh9WST31U/L8MUTBXMrAjA5e0n8k6V0dyvFPXSZhaGJ5m3RQxg9T2AH7afU1XcZJgKkzpCcLgquS3cjAz6euo93VRy7cV01gHpp6n2gT2nn3XMdm4+vtsvS3JahZsbg9M6DksjeZdo7fqOo99bR4juzS/DK1cT2dDbppbgIZYCRMJFwx2lioIXKjoO+jRp7i0iUKjWaBtdXlWmdIqmtyR3jhShu3LWmlnSFuXGSVG5ckd+o1np5kt1dHDy+bE65dS2A3+zo0aTGsUQUYr/2Q==" />
+**Anne:** Eine Sache, die jeder für den Tierschutz tun sollte?
+
+<RemoteImage alt={`WYOB - Foto: Norbert Zawe`} size="medium"
+title={`WYOB - Foto: Norbert Zawe`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2579__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2579__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAwcI/8QALRAAAgEDAgQEBQUAAAAAAAAAAQIDBAURABIGEyExIjJBUQcWQlKBcZGhsfD/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUEBv/EACURAAEDAgUEAwAAAAAAAAAAAAECBBEAAwUSITFBE1FhoRQykf/aAAwDAQACEQMRAD8ATW8VENWKd4HptgIMoDI6Efac9DnVLLUR3UKlfK8rKPBI7ZdT/R99T8dPIuEWKOWcMMSRS7hsYHO448OMe3pqmt9sVJk2JFUBYjMXWRQuQfKVbJ/Pb+daWbpg3tH5AlR8SY8e6kYth2LvXCSyUUoAGyoEydxOvHcftIaa1XGprpYWiq2Xed84BIZh9WST31U/L8MUTBXMrAjA5e0n8k6V0dyvFPXSZhaGJ5m3RQxg9T2AH7afU1XcZJgKkzpCcLgquS3cjAz6euo93VRy7cV01gHpp6n2gT2nn3XMdm4+vtsvS3JahZsbg9M6DksjeZdo7fqOo99bR4juzS/DK1cT2dDbppbgIZYCRMJFwx2lioIXKjoO+jRp7i0iUKjWaBtdXlWmdIqmtyR3jhShu3LWmlnSFuXGSVG5ckd+o1np5kt1dHDy+bE65dS2A3+zo0aTGsUQUYr/2Q=="
+/>
 
 **Denise:** In erster Linie: Nachdenken im Sinne von Lebenserhaltung für ALLE
 
@@ -330,13 +345,16 @@ Erfolg für Wear Your Own Bommel, alles gute für die Zukunft!
 
 **Denise:** Ich danke dir, das hat sehr viel Spass gemacht!
 
-### Fussnoten- [1][facebook-seite von wyob](https://www.facebook.com/pages/WYOB-save-lives-statement-kleidung/944915775541408?fref=nf)
+### Fussnoten
 
+- [1][facebook-seite von wyob](https://www.facebook.com/pages/WYOB-save-lives-statement-kleidung/944915775541408?fref=nf)
 - [2][tierrechtsdemo augsburg bei vegan news](http://www.vegan-news.de/thomas-laschyk/)
 - [3][tierrechtsinitiative augsburg](http://www.tierrechte-augsburg.de)
 - [4][peace food rocks](https://www.facebook.com/events/351493638369110/)
 - [5][hof butenland](http://www.stiftung-fuer-tierschutz.de)
-  [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
-  Merken
+
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+Merken
 
   

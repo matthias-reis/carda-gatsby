@@ -12,14 +12,14 @@ excerpt: Werbung & Affiliate Links - Die Yoga-Tücher von Isle Of Mind bestehen
   nie wieder hergeben.
 focusKeyword: Isle Of Mind
 labels:
+  - Achtsamkeit
+  - Fair Fashion & Beauty
   - Guppyfriend
   - Guppyfriend Washbag
   - Handtuch
-  - Hatha-Yoga
   - Isle Of Mind
   - Surfer
   - vegan
-  - Vegane Produkte
   - Washbag
   - Yoga
   - Yoga-Handtuch
@@ -86,8 +86,8 @@ Die Verarbeitung ist sehr hochwertig und auch nach mehrfachem Einsatz sind die
 Nähte fest und der Stoff peelt nicht. Die Tücher sind mit 59 Euro zwar nicht von
 der billigsten Sorte, aber die Ausgabe lohnt sich, wie ich finde,  auf jeden
 Fall. Mein Yogatuch lässt sich schön klein zusammenfalten und passt sogar in die
-Handtasche. Ich kann mir gut vorstellen, es auf
-[Reisen](/category/unterwegs/reisen/) mitzunehmen. Mit dem
+Handtasche. Ich kann mir gut vorstellen, es auf [Reisen](/category/slow-travel/)
+mitzunehmen. Mit dem
 [Laken](https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Fall-products)
  kann man seinen morgendlichen Sonnengruß auch prima mal ohne Yogamatte machen.
 Ein weiterer Pluspunkt ist, dass es extrem schnell trocknet. Das ist besonders,

@@ -14,15 +14,15 @@ focusKeyword: Dauerregen
 labels:
   - Dauerregen
   - Flarf
+  - Geschichten & Erlebtes
   - Hamburg
   - Kiez
-  - Lyrik
   - Poesie
   - Regen
   - St. Pauli
   - Wärme
 type: Artikel
-typeName: Artikel
+typeName: Gedicht
 date: 2017-02-22T17:09:28.000Z
 status: publish
 isWerbung: false
@@ -43,6 +43,8 @@ sind Kiez, Wärme und Regen.**
 Dauerregen sorgt für ruhige Stunden am Schreibtisch. Mit Block und Bleistift
 sitzt man hinter seiner Teetasse und skizziert Ideen. Doch das ist schon der
 nächste Blogeintrag. Hier kommt das heutige Gedicht.
+
+<blockquote>
 
 ## Dauerregen an der Glasfensterfront - In den Straßen von St. Pauli
 
@@ -65,6 +67,8 @@ Seit 47 Jahren wohnt sie hier im Kiez Das Zelt schützt sie vor dem anhaltenden
 Dauerregen
 
 Wärme sollte preisgünstiger sei, als Regen meint sie und fotografiert eine Wand
+
+</blockquote>
 
 ## Flarf-Gedichte Wegweiser
 

@@ -12,8 +12,9 @@ excerpt: Seit einiger Zeit ist alles anders. Meiner Meinung nach hat sich die
   verändert.
 focusKeyword: ""
 labels:
-  - Bands & Reviews
+  - Bands
   - Enttäuschung
+  - Geschichten & Erlebtes
   - Kritik
   - Kündigung Abo
   - Meinung
@@ -22,7 +23,6 @@ labels:
   - Musikzeitschrift
   - NIN
   - Nine Inch Nails
-  - Tagebuch
   - Trent Reznor
   - Zeitschrift
 type: Artikel
@@ -41,13 +41,11 @@ subTitle: Enttäuschung ist nicht immer gleich Griesgrämigkeit
   
 ---
 
-<RemoteImage
-  alt="Der Wächter über die Visions-Sammlung"
-  size="medium"
-  title="Der Wächter über die Visions-Sammlung"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9464603612_ca7c464246_o.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9464603612_ca7c464246_o.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Der Wächter über die Visions-Sammlung`} size="medium"
+title={`Der Wächter über die Visions-Sammlung`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9464603612_ca7c464246_o.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9464603612_ca7c464246_o.jpg?w=300"
+loadingUrl="undefined" />
 
 **Seit ich denken kann, lese ich schon das Musikmagazin Visions. In der
 Vergangenheit habe ich dadurch viele interessante Bands kennengelernt. Ich
@@ -82,13 +80,25 @@ Punkten.
 Ich werde Euch also auf jeden Fall weiterhin informieren. Hier nun der
 Facebook-Beitrag und mein Kommentar dazu:
 
-<RemoteImage
-  alt="V1"
-  size="full"
-  title=""
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/v1.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/v1.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`V1`} size="full" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/v1.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/09/v1.jpg"
+loadingUrl="undefined" />
+
+<RemoteImage alt={`V2`} size="full" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/v2.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/09/v2.jpg"
+loadingUrl="undefined" />
+
+<RemoteImage alt={`V3`} size="full" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/v3.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/09/v3.jpg"
+loadingUrl="undefined" />
+
+<RemoteImage alt={`V4`} size="full" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/v4.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/09/v4.jpg"
+loadingUrl="undefined" />
 
 _Nachtrag ein paar Minuten später:_
 
@@ -100,13 +110,10 @@ wie es weitergeht. Ob sich noch was tut? Ob mein Blogeintag gelesen wird? Sich
 Gleichgesinnte melden? Oder sich gar etwas ändert? Ich bleibe auf jeden Fall
 weiter dran. Hier ist übrigens die Antwort:
 
-<RemoteImage
-  alt="Antwort"
-  size="full"
-  title=""
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/antwort.png"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/antwort.png"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Antwort`} size="full" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/antwort.png"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/09/antwort.png"
+loadingUrl="undefined" />
 
 Höflich sind die ja auf jeden Fall. :-)
 
@@ -114,13 +121,25 @@ _Erneuter Nachtrag, ca. 2 Stunden später:_
 
 Lest einfach selbst.
 
-<RemoteImage
-  alt="Dennis 1"
-  size="full"
-  title=""
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/dennis-1.png"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/dennis-1.png"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Dennis 1`} size="full" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/dennis-1.png"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/09/dennis-1.png"
+loadingUrl="undefined" />
+
+<RemoteImage alt={`Dennis 2.1`} size="full" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/dennis-2-1.png"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/09/dennis-2-1.png"
+loadingUrl="undefined" />
+
+<RemoteImage alt={`Dennis 2`} size="full" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/dennis-2.png"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/09/dennis-2.png"
+loadingUrl="undefined" />
+
+<RemoteImage alt={`Dennis 3`} size="full" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/dennis-3.png"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/09/dennis-3.png"
+loadingUrl="undefined" />
 
 Ich bin gespannt auf Dennis' E-Mail. Und auf Eure selbstverständlich auch!
 Bleibt dran!

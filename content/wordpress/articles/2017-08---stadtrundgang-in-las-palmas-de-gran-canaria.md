@@ -13,12 +13,12 @@ excerpt: In Las Palmas de Gran Canaria gibt es viel zu entdecken. Ihr solltet
 focusKeyword: Las Palmas
 labels:
   - entdecken
+  - Fernweh
   - Gran Canaria
   - Jugendstil
   - Las Palmas
   - Plaza Santa Ana
   - Reisefieber
-  - Reisen
   - Reisen
   - Spanien
   - travelling
@@ -38,13 +38,11 @@ subTitle: Jugendstilhäuser und verwinkelte Gassen
   
 ---
 
-<RemoteImage
-  alt="Las Palmas"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36912834425_94a67096c3_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36912834425_94a67096c3_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCAwQFB//EACsQAAEDAwMDAgYDAAAAAAAAAAECAxEABAUGEiETIjEHFBZBUWFxgTNSsf/EABcBAQADAAAAAAAAAAAAAAAAAAEAAgP/xAAbEQEBAAIDAQAAAAAAAAAAAAABAAIREiExUf/aAAwDAQACEQMRAD8Ap9O9Yt4XVWWy13cru3b21d7XwsKdcDidg3bTHaImIgCmr4us1+oyM8rPqGny/tVb7ngtMNbZ6O3aW9wiZ3TzFc0trtdtZpddaaaYWj+d27S2E9wESUiOeAKzTn4yCLMtNDIFO5Nt70SUzPjb9OfxzTubba510jJa8xGYsXk2Ps7ZlCi13qRLi+olSinntMcDwqilTJEZq2VsZaeZQCA8m7Sru3RAVHPJj9UUOSVXFfK+70dmszihauoskI4Mrd3EGSfpz5qbOl8g7qBFyn2qbhBU301JWEktpCSoEiPHg/OnfH5FKUju4/NRWrHnON5BPV96lpTZKZ2FJgSflP8AsfatHE+Riu+2R7bRmZxOLVbMrsoA/sUyZBngfainfIX6VIALxEgx2k/qipxI23//2Q==" />
+<RemoteImage alt={`Las Palmas`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36912834425_94a67096c3_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36912834425_94a67096c3_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCAwQFB//EACsQAAEDAwMDAgYDAAAAAAAAAAECAxEABAUGEiETIjEHFBZBUWFxgTNSsf/EABcBAQADAAAAAAAAAAAAAAAAAAEAAgP/xAAbEQEBAAIDAQAAAAAAAAAAAAABAAIREiExUf/aAAwDAQACEQMRAD8Ap9O9Yt4XVWWy13cru3b21d7XwsKdcDidg3bTHaImIgCmr4us1+oyM8rPqGny/tVb7ngtMNbZ6O3aW9wiZ3TzFc0trtdtZpddaaaYWj+d27S2E9wESUiOeAKzTn4yCLMtNDIFO5Nt70SUzPjb9OfxzTubba510jJa8xGYsXk2Ps7ZlCi13qRLi+olSinntMcDwqilTJEZq2VsZaeZQCA8m7Sru3RAVHPJj9UUOSVXFfK+70dmszihauoskI4Mrd3EGSfpz5qbOl8g7qBFyn2qbhBU301JWEktpCSoEiPHg/OnfH5FKUju4/NRWrHnON5BPV96lpTZKZ2FJgSflP8AsfatHE+Riu+2R7bRmZxOLVbMrsoA/sUyZBngfainfIX6VIALxEgx2k/qipxI23//2Q=="
+/>
 
 **_Las Palmas de Gran Canaria Mai 2017 -_ Es ist jetzt schon eine ganze Weile
 her, seit ich meinen letzten Artikel über Gran Canaria veröffentlicht habe. Ich

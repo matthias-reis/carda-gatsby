@@ -11,14 +11,14 @@ excerpt: Der vegane und vegetarische Lighthouse Tea Room in Galway zählt zu den
   besonderen Entdeckungen, die wir während unserer Irlandreise gemacht haben.
 focusKeyword: Lighthouse Tea Room
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
+  - Fernweh
   - Galway
   - Ireland
   - Irland
   - Irland2017
   - Lighthouse Galway
   - Lightroom Tea Room Galway
-  - Reisen
   - Tea Room
   - vegan
   - vegan in Irland
@@ -46,8 +46,8 @@ subTitle: Vegane Küche vom Feinsten
 Entdeckungen, die wir während unserer Irlandreise gemacht haben.**
 
 Gemütlich und mit Liebe zum Detail eingerichtet, beeindruckte uns das
-[Lokal](/category/vegan-2/vegane-lokale/) bereits beim Betreten. Ein Blick in
-die Speisekarte machte es dann noch besser. Dass sie komplett aus veganen und
+[Lokal](/category/vegan/vegane-lokale/) bereits beim Betreten. Ein Blick in die
+Speisekarte machte es dann noch besser. Dass sie komplett aus veganen und
 vegetarischen Speisen besteht, wussten wir, aber mit einer so großen Vielfalt
 hatten wir nicht gerechnet.
 

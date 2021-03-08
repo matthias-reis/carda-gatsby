@@ -15,10 +15,12 @@ labels:
   - Altona
   - Besuch
   - Familie
+  - Fernweh
   - Flarf
   - Freunde
   - Gedanken
   - Gedicht
+  - Geschichten & Erlebtes
   - Hafen
   - Hamburg
   - Heimat
@@ -27,11 +29,10 @@ labels:
   - Leben
   - Liebe Menschen
   - Lyrik
-  - Lyrik
   - Schiff
   - Suchmaschine
 type: Galerie
-typeName: Galerie
+typeName: Gedicht
 date: 2018-01-24T17:18:29.000Z
 status: publish
 isWerbung: false
@@ -49,16 +50,16 @@ subTitle: Lieber Besuch in Hamburg
 kleinen Gedicht inspiriert, welches, wie ich finde, gut zu den Bildern passt,
 die ich während der Streifzüge mit den Besuchern aufgenommen habe.**
 
+<blockquote>
+
 Begegnungen, die das Herz berühren. Kommt mit an Bord. Der Blick ist
 spektakulär.
 
-<RemoteImage
-  alt="Herz"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39748264511_5d5828c5c6_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39748264511_5d5828c5c6_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUHAgMGCP/EACgQAAIBAwMDBAIDAAAAAAAAAAECAwQFEQAGIRIxQRMUUWEicWKRof/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwT/xAAdEQACAQUBAQAAAAAAAAAAAAAAAgEDESExQQQS/9oADAMBAAIRAxEAPwCgxbx2wtXEgrvUjLOpZImbIChgwwOx5XHBz9aa2fflkmpRLC/pSrIytFOPTbpz+JGeD4z8ahDVFzj3DYpKajusNPHXFmmlt8ql4xGRwo5Pc5X9fGuiuN0qlr4Y4pa6oqCeh19hOuOrtwV/sDWpvR9RljOtCFnEHpCpvNuSGHrq4hFMSqSDJTj+XYD70lrrzYoCwnvNuj8nqnGpUu8Qdx3uA1Fwgjjp6SCnDUU56vTjPUzp05BJcdxnGPrSO17qjeu3DNPeaeKKSsUQwSRTZVVjUF8Y/DPHH1nSUmVdzYaoktwlVRBDDKpi9wkj9QBWpcBcfAzn/dNKCjZq2KKCtr43djl/dSHse/DD686NGoTov0xWprYdxTxJdLmjAqrSR1ciu5ZRyTnPgcfr41unqbjS1qGC9XaNp58SMtUwLNjhifJ4899GjRbIRo//2Q==" />
+<RemoteImage alt={`Herz`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39748264511_5d5828c5c6_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39748264511_5d5828c5c6_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUHAgMGCP/EACgQAAIBAwMDBAIDAAAAAAAAAAECAwQFEQAGIRIxQRMUUWEicWKRof/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwT/xAAdEQACAQUBAQAAAAAAAAAAAAAAAgEDESExQQQS/9oADAMBAAIRAxEAPwCgxbx2wtXEgrvUjLOpZImbIChgwwOx5XHBz9aa2fflkmpRLC/pSrIytFOPTbpz+JGeD4z8ahDVFzj3DYpKajusNPHXFmmlt8ql4xGRwo5Pc5X9fGuiuN0qlr4Y4pa6oqCeh19hOuOrtwV/sDWpvR9RljOtCFnEHpCpvNuSGHrq4hFMSqSDJTj+XYD70lrrzYoCwnvNuj8nqnGpUu8Qdx3uA1Fwgjjp6SCnDUU56vTjPUzp05BJcdxnGPrSO17qjeu3DNPeaeKKSsUQwSRTZVVjUF8Y/DPHH1nSUmVdzYaoktwlVRBDDKpi9wkj9QBWpcBcfAzn/dNKCjZq2KKCtr43djl/dSHse/DD686NGoTov0xWprYdxTxJdLmjAqrSR1ciu5ZRyTnPgcfr41unqbjS1qGC9XaNp58SMtUwLNjhifJ4899GjRbIRo//2Q=="
+/>
 
 Wir besuchen das Herz. Wandern Sandstrände entlang. Das Wetter ändert sich fast
 minütlich. Nachrichten, Neuigkeiten und schöne Geschichten.
@@ -66,13 +67,11 @@ minütlich. Nachrichten, Neuigkeiten und schöne Geschichten.
 Das Leben auf Schiffen ist anders. Viele Schiffsliebhaber schwärmen davon. Das
 äußere und das innere Schiffsleben. Schiff und Kapitän dulden keinen Streit.
 
-<RemoteImage
-  alt="Herz"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_24832309767_b4e1e0f0e4_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_24832309767_b4e1e0f0e4_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKRAAAgEDAwIGAgMAAAAAAAAAAQIDAAQRBRIhBgcTMTNBUXEjkWGhwf/EABgBAAMBAQAAAAAAAAAAAAAAAAECBQME/8QAHREAAgEEAwAAAAAAAAAAAAAAAAECBAURMQMTIf/aAAwDAQACEQMRAD8An0rpzxACy8fVaODpqJV9MfqsyndbpuzihCO7bpdjb02YQDJbnH0B55qzZd19Ml1W6jKwiGOFnQG4BdiAWAwOPPAz581XddgixtspvWTRP01Ew4jH6pRqHTXhglU4+qX6/wB4dDtYdTW2uIp3WSJLYAEhhtBc8fByP5pH1h3Nhv44p9Omuba3ktL4xqY2VmJh/GWXGDhh8n5pXXPQytvmTl9rfLxvhikb23bT/dMI7q0UuyW9ur4I9NT9+1FFYqbOxwRKNQt8ELbWpDceko/yqOpaiLgKjwQbVVlA5GAwweAPiiij2SaAuOKZ/9k=" />
+<RemoteImage alt={`Herz`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_24832309767_b4e1e0f0e4_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_24832309767_b4e1e0f0e4_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKRAAAgEDAwIGAgMAAAAAAAAAAQIDAAQRBRIhBgcTMTNBUXEjkWGhwf/EABgBAAMBAQAAAAAAAAAAAAAAAAECBQME/8QAHREAAgEEAwAAAAAAAAAAAAAAAAECBAURMQMTIf/aAAwDAQACEQMRAD8An0rpzxACy8fVaODpqJV9MfqsyndbpuzihCO7bpdjb02YQDJbnH0B55qzZd19Ml1W6jKwiGOFnQG4BdiAWAwOPPAz581XddgixtspvWTRP01Ew4jH6pRqHTXhglU4+qX6/wB4dDtYdTW2uIp3WSJLYAEhhtBc8fByP5pH1h3Nhv44p9Omuba3ktL4xqY2VmJh/GWXGDhh8n5pXXPQytvmTl9rfLxvhikb23bT/dMI7q0UuyW9ur4I9NT9+1FFYqbOxwRKNQt8ELbWpDceko/yqOpaiLgKjwQbVVlA5GAwweAPiiij2SaAuOKZ/9k="
+/>
 
 Langsam gleitet das Schiff übers Wasser. Familie und Freunde an Bord. Ein
 einzigartiges Ambiente. Ankerplatz am Hafenholz.
@@ -83,6 +82,8 @@ Ort, der eigentlich woanders liegt.
 Das Herz des Leuchtturms schlägt. Stimmungsvolle Atmosphäre liegt uns am Herzen.
 Am Abend werden sie bereits im nächsten Hafen erwartet. Und immer bleibt der
 Wunsch, auf einem Schiff zu leben.
+
+</blockquote>
 
 <Gallery name="flickr/dasherzdesleuchturmcardamonchai" />
 

@@ -16,7 +16,7 @@ labels:
   - Dankbarkeit
   - Entspannung
   - Erinnerung
-  - Reisen
+  - Fernweh
   - Seelenheimat
   - Slow Travel
   - Sommer

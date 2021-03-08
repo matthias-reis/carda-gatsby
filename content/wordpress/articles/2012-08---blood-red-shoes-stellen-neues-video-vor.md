@@ -10,11 +10,12 @@ excerpt: Heute ist Freitag. Freitag und es regnet. Aber das macht mir nichts
   aus, weil die BLOOD RED SHOES heute ihr neues Video vorgestellt haben.
 focusKeyword: Blood Red Shoes
 labels:
-  - Bands & Reviews
+  - Bands
   - Blood Red Shoes
   - Blood Red Shoes neues Video
   - Bloodred
   - Freitag
+  - Geschichten & Erlebtes
   - Kino
   - Laura
   - Leben
@@ -29,19 +30,17 @@ labels:
   - Schlagzeug
   - Schuhe
   - Steven
-  - Tagebuch
   - Video
   - Video Blood Red Shoes
   - Video-Premiere
   - voices in time
 type: Artikel
-typeName: Rezension
+typeName: Review
 date: 2012-08-24T12:40:38.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "4081"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_15695_105416536147151_5021614_n-e1587460509836__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_15695_105416536147151_5021614_n-e1587460509836__l.jpg
@@ -49,14 +48,6 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Regen am Freitag macht mir nichts aus
   
 ---
-
-<RemoteImage
-  alt=""
-  size="thumbnail"
-  title="Blood Red Schlagzeug Anne Reko 3/2010"
-  mediumUrl="http://cardamonchai.com/wp-content/uploads/2012/08/15695_105416536147151_5021614_n-150x150.jpg"
-  largeUrl="http://cardamonchai.com/wp-content/uploads/2012/08/15695_105416536147151_5021614_n-150x150.jpg"
-  loadingUrl="undefined" />
 
 **Heute ist Freitag. Freitag und es regnet. Aber das macht mir nichts aus, weil
 die ♥BLOOD RED SHOES♥ heute ihr neues Video vorgestellt haben. Und es ist toll!
@@ -66,34 +57,24 @@ sollte.**
 Heute schreiben sie auf Ihrer Facebook-Seite, dass es sich um bisheriges
 Lieblingsvideo handelt:
 
-_'well we said we wanted to do something special for our next video...so here it
-is! this is probably our favourite video that we've made to date, so please
-share it around!'_
+> "well we said we wanted to do something special for our next video...so here
+> it is! this is probably our favourite video that we've made to date, so please
+> share it around!"
 
 Natürlich gibt es noch weitere Gründe, gute Laune zu haben. Es ist Freitag.
 Freitag und es regnet. Und ich werde heute ins Kino gehen. Und tanzen. Und
 morgen ist das Wetter wieder schön. Außerdem trage ich heute meine Glücksschuhe.
-Ich habe sie vor ein paar Jahren auf einem Bazar in der Türkei erstanden. Sie
+Ich habe sie  vor ein paar Jahren auf einem Bazar in der Türkei erstanden. Sie
 sind nicht die Bequemsten, muss ich gestehen, aber dafür sehen sie toll aus und
 sie bringen Glück. Außerdem sind rubinrote Steine dran. Und ich mag Rubinrot.
 Bloodred.
 
-_ **Naja, nun genug vom Smalltalk, ich möchte Euch ja nicht unnötig lange auf
-die Folter spannen. Hier sind für Euch die Blood Red Shoes mit 'In Time To
-Voices' aus dem gleichnamigen, brillanten, im März 2012 erschienen Album:** _
+Naja, nun genug vom Smalltalk, ich möchte Euch ja nicht unnötig lange auf die
+Folter spannen. Hier sind für Euch die Blood Red Shoes mit 'In Time To Voices'
+aus dem gleichnamigen, brillanten, im März 2012 erschienen Album.
+
+## Blood Red Shoes – "In Time To Voices"
 
 [youtube=http://www.youtube.com/watch?v=3N69hRav3WI]
-
-_Set on fire like a paper plane_ _Falling down again, back to the start_ _I
-built you up just like a pack of cards_ _Walking separate paths into the dark_
-_In time to voices_ _In time to voices_ _Twisting, turning like a Catherine
-Wheel_ _It burns through everything_ _Pulls you apart_ _A bleeding candle on a
-mantlepiece_ _The flicker reminds me_ _Beat of a heart_ _In time to voices_ _In
-time to voices_ _Closer, closer_ _Feeding the hunger_ _Closer, closer_ _Taking
-me over_ _How long, how long_ _Til I feel stronger_ _How long, how long_
-_Slipping back under_ _In time to voices_ _In time to voices_ _Closer, closer_
-_Feeding the hunger_ _Closer, closer_ _Taking me over_ _How long, how long_ _Til
-I feel stronger_ _How long, how long_ _Slipping back under_ _In time to voices_
-_In time to voices_
 
   

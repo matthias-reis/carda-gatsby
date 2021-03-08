@@ -10,7 +10,6 @@ excerpt: Rund 10 Prozent der in Deutschland geschlachteten weiblichen Kühe sind
   trächtig - das Leid der älber und ihrer Mütter ist unermesslich.
 focusKeyword: Kälbchen
 labels:
-  - Darum vegan
   - govegan
   - Milchkühe
   - Tierrechte
@@ -22,8 +21,7 @@ date: 2014-09-03T10:46:43.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <h3> (100:16)"
+errors: {}
 thumbnailId: "24306"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_kuehe-333x250__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_kuehe-333x250__l.jpg
@@ -32,9 +30,16 @@ subTitle: Das unfassbare Leid der Kühe
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;h3> (100:16)
+<div class="page" title="Page 1">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
 
-<!--
+**Rund 10 Prozent der in Deutschland geschlachteten weiblichen Kühe sind
+trächtig, der überwiegende Teil von ihnen befindet sich in einem
+fortgeschrittenen Trächtigkeitsstadium. Pro Jahr sind davon rund 180.000 Tiere
+betroffen.**
+
 Dies geht aus der Studie von Rhien et. al. (2011) hervor, in der Daten aus 53
 deutschen Schlachtbetrieben ausgewertet werden.
 
@@ -153,14 +158,15 @@ momentan, ob ein nationales Schlachtungsverbot für trächtige Rinder
 ausgesprochen werden darf. Eine Änderung der EU-Verordnung steht wohl auch
 weiterhin in den Sternen.
 
-### Quellen:</div>- [1][drucksache von bündnis 90/die grünen vom 08.05.2014](http://dip21.bundestag.de/dip21/btd/18/013/1801391.pdf)
+### Quellen:
 
-- [2][panorama 3,](https://nebenan.de/)
-  [NDR Sendung vom 25.03.2014](https://www.ardmediathek.de/ard/player/Y3JpZDovL25kci5kZS9mMzRlZDNlNS1iMWYxLTQ0OGItYTAwMC1mNzQzMjlmNWNkOGE/)
-- [3][begriffserklärung "hipoxie"](https://de.wikipedia.org/wiki/Hypoxie_(Medizin))
-- [4][erkenntnis zur schlachtung gravider tiere,](https://www.youtube.com/watch?time_continue=1225&amp;v=tNZXy6hfvhM)
-  [Stellungnahme des Amtstierarztes Dr. Wolfgang Kulow](https://www.amtstierarzt.de/)</div></div></div>
-
--->
+</div>
+-  [1]  [Drucksache von Bündnis 90/DIE GRÜNEN vom 08.05.2014](http://dip21.bundestag.de/dip21/btd/18/013/1801391.pdf)
+-  [2]  [Panorama 3,](https://nebenan.de/)  [NDR Sendung vom 25.03.2014](https://www.ardmediathek.de/ard/player/Y3JpZDovL25kci5kZS9mMzRlZDNlNS1iMWYxLTQ0OGItYTAwMC1mNzQzMjlmNWNkOGE/)
+-  [3]  [Begriffserklärung "Hipoxie"](https://de.wikipedia.org/wiki/Hypoxie_(Medizin))
+-  [4]  [Erkenntnis zur Schlachtung gravider Tiere,](https://www.youtube.com/watch?time_continue=1225&amp;v=tNZXy6hfvhM)  [Stellungnahme des Amtstierarztes Dr. Wolfgang Kulow](https://www.amtstierarzt.de/)
+</div>
+</div>
+</div>
 
   

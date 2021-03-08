@@ -17,10 +17,10 @@ labels:
   - Federn
   - Frühling
   - Gefühle
+  - Geschichten & Erlebtes
   - Herz
   - Liebe
   - Melodie
-  - Prosa
   - Ruhe
   - Sonne
   - Tauben
@@ -47,9 +47,9 @@ Menschen sitzen auf dem Gehsteig in der Sonne und entspannen sich. Sie haben Eis
 und Getränke dabei, lesen Zeitung, blicken einfach so ins Weite, oder
 unterhalten sich.
 
-In der Ferne kann man das Getöse der Großstadt wahrnehmen. Tauben bevölkern die
+In der Ferne  kann man das Getöse der Großstadt wahrnehmen. Tauben bevölkern die
 Straße. Sie picken vereinzelt nach ein paar Brotkrumen. Aus einer Box, die
-jemand vor sein Geschäft gestellt hat, klingen leise die Sounds von Roxy Music.
+jemand vor sein Geschäft gestellt hat,  klingen leise die Sounds von Roxy Music.
 Eine Mutter füttert ihr Kind.
 
 Im Straßencafé gegenüber ist eine junge Frau in ihrem Korbsessel eingenickt. Ihr
@@ -66,8 +66,11 @@ Federn. Blut. Auf dem grauen Asphalt. Einer von ihnen hat es nicht geschafft.
 Eine Wolke schiebt sich vor die Sonne. Es beginnt zu regnen. Die Marktfrauen
 packen ihre Gewürze ein. Die Musik verstummt.
 
-_ **Abspann** _ _Dieser Text ist Rudi gewidmet._ **Musik: Shearwater - Believing
-Makes It Easy**
+_ **Abspann** _
+
+_Dieser Text ist Rudi gewidmet._
+
+**Musik: Shearwater - Believing Makes It Easy**
 
 [youtube=http://www.youtube.com/watch?v=m6BrTOy54kA]
 

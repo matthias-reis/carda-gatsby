@@ -34,6 +34,9 @@ subTitle: Ein perfektes Konzert
   
 ---
 
+**Es war ein perfektes Konzert - mehr braucht man über das Russian Circles
+Konzert in der Kranhalle fast nicht sagen.**
+
 Die Band war in toller Stimmung, das Publikum war toll, die Stimmung war noch
 besser, als beim letzten Mal im benachbarten Feierwerk.
 

@@ -14,15 +14,15 @@ labels:
   - es reimt sich nicht
   - Flarf
   - Gedicht
+  - Geschichten & Erlebtes
   - Ideen
   - Kreativität
-  - Lyrik
   - Lyrik
   - Phantasie
   - Poesie
   - schreiben
 type: Artikel
-typeName: Artikel
+typeName: Gedicht
 date: 2016-03-11T11:18:20.000Z
 status: publish
 isWerbung: false
@@ -36,13 +36,11 @@ subTitle: Poesie der Vernetzung
   
 ---
 
-<RemoteImage
-  alt="Flarf"
-  size="medium"
-  title="Flarf regt die Phantasie an"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_16277877741_01b8d8a4b5_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_16277877741_01b8d8a4b5_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAEBQb/xAAoEAABBAECBAYDAAAAAAAAAAABAgMEEQUAIQYSEzEHMkFRUmEicYH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAMEBf/EABgRAQEBAQEAAAAAAAAAAAAAAAECABEx/9oADAMBAAIRAxEAPwAfjOrdUpTigEK2cUd7v30t8C4mG9gnltw3sqplT3RbHIhDQDIWoJ591kg3W9UPfRBFYktECqqlJT9aUfDOY1FyzrraktrLDgWX3OVsD8VLofMpSQK7mgbGuXHZrjgB3m9pm8A3k8JGiTok1bjTKZTcpxgq6nMLS300HzJuhVAmrq60SeIWFf4adbpRchyE2y4FCyQLUmib2tJuq3ruDpuyOUxsuDOcfnmZgoJjuRxGfBJbCAUqdsEmgkjY3fpe4O/EiJFjYDEORCl9t1an3VBlQa6q0gq5Fq72KJH6/uipHNg9xTj2XsjN5FSCjptKcBKb8ouu41pzGRei44Fve6RR7WfU++rVqpiVFxk3Q4Wzc7GJWuM4jnCVAqKAfMmiRewNE0e4vbWHIZWTlpKFSV7FBCU/FIJofdXsT6UOw1atGF5ob//Z" />
+<RemoteImage alt={`Flarf`} size="medium" title={`Flarf regt die Phantasie an`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_16277877741_01b8d8a4b5_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_16277877741_01b8d8a4b5_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAEBQb/xAAoEAABBAECBAYDAAAAAAAAAAABAgMEEQUAIQYSEzEHMkFRUmEicYH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAMEBf/EABgRAQEBAQEAAAAAAAAAAAAAAAECABEx/9oADAMBAAIRAxEAPwAfjOrdUpTigEK2cUd7v30t8C4mG9gnltw3sqplT3RbHIhDQDIWoJ591kg3W9UPfRBFYktECqqlJT9aUfDOY1FyzrraktrLDgWX3OVsD8VLofMpSQK7mgbGuXHZrjgB3m9pm8A3k8JGiTok1bjTKZTcpxgq6nMLS300HzJuhVAmrq60SeIWFf4adbpRchyE2y4FCyQLUmib2tJuq3ruDpuyOUxsuDOcfnmZgoJjuRxGfBJbCAUqdsEmgkjY3fpe4O/EiJFjYDEORCl9t1an3VBlQa6q0gq5Fq72KJH6/uipHNg9xTj2XsjN5FSCjptKcBKb8ouu41pzGRei44Fve6RR7WfU++rVqpiVFxk3Q4Wzc7GJWuM4jnCVAqKAfMmiRewNE0e4vbWHIZWTlpKFSV7FBCU/FIJofdXsT6UOw1atGF5ob//Z"
+/>
 
 **Flarf - Kennt Ihr das? Nein, das ist kein Wort, das ich mir eben ausgedacht
 habe und es stammt auch nicht aus der Villa Kunterbunt.**
@@ -60,13 +58,12 @@ oder ein neues Kapitel verfassen und was lässt leider mal wieder zu wünschen
 
 ## Flarf stimuliert die Kreativität
 
-<RemoteImage
-  alt="Flarf"
-  size="medium"
-  title="Ein Gedicht über Wasser und Frühling"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_11153925974_fe91f672d3_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_11153925974_fe91f672d3_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBQcG/8QAJxAAAQMEAQMDBQAAAAAAAAAAAQIDBAAFBhEhEjFhExRRFSJBgbH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAREh/9oADAMBAAIRAxEAPwCgzvDUzZZj22I20pa9ApHB5rTLBiVttmJQIk5lL64jaUtqWN9JH51+zVUcqjR1JQFQklKtqSiMHFE+VrPAozK+PT8Surjqm48dcN37m1aU0Cg8jQ5NHTkPqtMBt919tvpLp2oDtvxSsmDFbbUUgEfB71zcXK/bQGEfTPU00jRMpA2Okc7qtumeoQyS5aCB4mNn+c0ytjL8iyaXLfeHQ22nZ4QPNLsZbdG4KYPq7YVsHffWjxRRVJRNxfdSSVqGgOxpORIWvlZUrfyaKKkv/9k=" />
+<RemoteImage alt={`Flarf`} size="medium"
+title={`Ein Gedicht über Wasser und Frühling`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_11153925974_fe91f672d3_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_11153925974_fe91f672d3_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBQcG/8QAJxAAAQMEAQMDBQAAAAAAAAAAAQIDBAAFBhEhEjFhExRRFSJBgbH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAREh/9oADAMBAAIRAxEAPwCgzvDUzZZj22I20pa9ApHB5rTLBiVttmJQIk5lL64jaUtqWN9JH51+zVUcqjR1JQFQklKtqSiMHFE+VrPAozK+PT8Surjqm48dcN37m1aU0Cg8jQ5NHTkPqtMBt919tvpLp2oDtvxSsmDFbbUUgEfB71zcXK/bQGEfTPU00jRMpA2Okc7qtumeoQyS5aCB4mNn+c0ytjL8iyaXLfeHQ22nZ4QPNLsZbdG4KYPq7YVsHffWjxRRVJRNxfdSSVqGgOxpORIWvlZUrfyaKKkv/9k="
+/>
 
 Flarf ist eine tolle Möglichkeit, die Kreativität zu stimulieren, die Phantasie
 anzuregen und die Tastatur wieder in Schwung zu bringen. Und nicht nur als Übung
@@ -116,7 +113,7 @@ trotzdem schön. Unter anderem geht es darin um frittierte Glückseligkeit.
 festgelegt, ich biete Euch Artikel zu den verschiedensten Themen. Findet Ihr das
 sperrig? Oder gefällt es Euch besonders gut? Auch Vorschläge könnt Ihr mir gerne
 jederzeit zukommen lassen! Gerne mache ich z. B. auch ein
-[Interview](/category/bleistift-2-0/interview/) mit Euch, wenn Ihr etwas
+[Interview](/category/rock-n-roll/interviews/) mit Euch, wenn Ihr etwas
 Spannendes zu berichten habt. [Schreibt mir](mailto:info@cardamonchai.com) gerne
 jederzeit.
 

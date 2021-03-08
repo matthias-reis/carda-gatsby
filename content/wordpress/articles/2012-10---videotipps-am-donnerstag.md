@@ -9,7 +9,7 @@ description: Heute habe ich zwei ganz besondere Videotipps für Euch, Song No. 1
 excerpt: Heute möchte ich hier mal wieder zwei wundervolle Videos vorstellen.
 focusKeyword: Videotipps
 labels:
-  - Bands & Reviews
+  - Bands
   - BBC Live Lounge
   - BBC Live Lounge Special
   - BBC Musik
@@ -40,8 +40,7 @@ date: 2012-10-11T13:45:39.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "4406"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_10_videotipps2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_10_videotipps2__l.jpg
@@ -50,17 +49,11 @@ subTitle: Die Geschichte von der tanzenden Redaktion
   
 ---
 
+**Heute möchte ich hier mal wieder zwei wundervolle Videos vorstellen.**
+
 Das erste schickte mir [@Ulle](http://thatgirlthere.wordpress.com/) heute über
 Twitter. Sie ist ein genau so großer Muse-Fan wie ich und musste sofort an mich
 denken, als sie es sah.
-
-<RemoteImage
-  alt="Videotipps auf cardamonchai.com"
-  size="medium"
-  title="Videotipps auf cardamonchai.com"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2012/10/videotipps2.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2012/10/videotipps2.jpg?w=300"
-  loadingUrl="undefined" />
 
 Übrigens möchte ich an dieser Stelle nochmal bemerken, wie wundervoll ich es
 finde, wie viele musikalisch interessierte Leute man über so ein Weblog und auch
@@ -71,7 +64,7 @@ länger vorenthalten.
 
 ## Hier sind für Euch MUSE mit ihrem BBC Live Lounge Special:
 
-[youtube=http://www.youtube.com/watch?v=hpjciAuKBT0&amp;feature=plcp]
+<iframe src="https://www.youtube.com/embed/hpjciAuKBT0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Das zweite Video habe ich heute Morgen schon entdeckt. Es handelt sich um das
 offizielle Musik-Video zum Song 'I'm Shakin'' von Jack Whites aktueller Platte
@@ -79,14 +72,12 @@ offizielle Musik-Video zum Song 'I'm Shakin'' von Jack Whites aktueller Platte
 beiden Begleitbands (die Ihr vielleicht schon von seinem iTunes Festival
 Auftritt kennt) gegeneinander anspielen. Großes Kino, wie ich finde.
 
-Ich habe den Videolink auch an [@Ulle](http://thatgirlthere.wordpress.com/)
-weitergeleitet. Ihr Kommentar: "Uah! Jetzt springt und shaked die ganze
-Redaktion. Danke!!!" Herrlich. Natürlich freue ich mich, wenn ich in Euch gleich
-eine ähnliche Reaktion auslöse.
+Ich habe den Videolink auch an Ulle weitergeleitet. Ihr Kommentar: "Uah! Jetzt
+springt und shaked die ganze Redaktion. Danke!!!" Herrlich. Natürlich freue ich
+mich, wenn ich in Euch gleich eine ähnliche Reaktion auslöse.
 
-## Hier ist für Euch JACK WHITE mit 'I'm Shakin'': [[youtube=http://www.youtube.com/watch?v=MvpoiiBW9bc]](http://JackWhite)
+## Hier ist für Euch JACK WHITE mit 'I'm Shakin'':
 
-Stay tuned, bald gibt's an dieser Stelle wieder neue **Videotipps** für Euch!
-&lt;3
+<iframe src="https://www.youtube.com/embed/XkcGuZHPbKk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
   

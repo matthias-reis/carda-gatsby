@@ -49,6 +49,12 @@ subTitle: Da kommen Erinnerungen hoch!
   
 ---
 
+**Gerade habe ich mir das neue [Beatsteaks](http://beatsteaks.com) -Album (
+[Muffensausen](http://www.thestereoboutique.com/de/s/beatsteaks/?intcmp=120506/beatsteaks/wmde/hp/s_hp/ban/bdy/de/Beatsteaks_Website_News_Bundle)
+) vorbestellt und aus diesem Anlass mal meine alten Konzertbilder gesichtet.
+Dabei bin ich auf eine (zugegeben sehr verwackelte) Bilderserie von ihrem
+legendären Kantine-Gig im August 2005 gestoßen.**
+
 Da kommen Erinnerungen hoch! Was für ein Konzert! Schuhe im Gesicht und zu
 Schluss standen wir alle unter Wasser! Genial! Sagenhaft! Und überall blaue
 Flecken! Was freue ich mich drauf, die Jungs bald wieder auf der Bühne zu sehen!

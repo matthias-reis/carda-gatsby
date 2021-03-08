@@ -11,6 +11,7 @@ excerpt: Schon Wochen vor G20 fing Hamburg an, sich auf den Gipfel
 focusKeyword: Was G20 mit unserer Stadt macht - Bestandsaufnahme einer Hamburgerin
 labels:
   - Altona
+  - Antifaschismus & Feminismus
   - Demonstration
   - freie Meinung
   - G20
@@ -18,7 +19,6 @@ labels:
   - Hamburg
   - Massencornern
   - nog20
-  - Politik & Soziales
   - Sankt Pauli
   - Schanze
   - St. Pauli
@@ -39,13 +39,11 @@ subTitle: Bestandsaufnahme einer Hamburgerin
   
 ---
 
-<RemoteImage
-  alt="G20"
-  size="medium"
-  title="Schwarzer Block im Schaufenster"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-7__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-7__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAIH/8QAJRAAAgEDAwQDAQEAAAAAAAAAAQIDBAURABIhBhMxQQciUTKB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EAB0RAQACAgIDAAAAAAAAAAAAAAEAAhESA1EhMWH/2gAMAwEAAhEDEQA/AI6T5IvtHS0pNxoZ90YKwzwNI0f0XlXPs8/o451oNzqevbxWVNkpIzJTUDtKTEoMK90Mm1sDBXgb/PPOkt26Zt8VmS6XK6VczdmNuzSUIwmdufs7r5yfXvxxrmjoo5OkKqooLK0ca0jwvUzy7jKFJJYqFOCcgYBAG3Ojmqdyrt6iS4SVttuUFRWzq7pUq4fIkKshDHJHnyCRqs67e4VnWUVd1HFTU8hhjAClSXiUnD7VZtobcTgnn81KGzND06pnhppO7UTBTgl1KIV4ww4JB4wfGvQrXYLdTWy51lzSpnWOIRZqI2TDopO3kceuNa+EQkiuHLGLhL18RgQxd+taiXc0Kl98kbesAAfwfPrVl8ZWu23j46FkqpFiuCUj09WiHusiSM2GVsbQSG9ZIOjRpWppZ6Y7d2D5HVi6NpKHp6O2XWnpK2mppHemlmhzLEGYs25s8kk/g/3Wi49H017jEFeJBbwoXBc91wMYwx8DA8nnRo1Hjd1WGxqeJ//Z" />
+<RemoteImage alt={`G20`} size="medium" title={`Schwarzer Block im Schaufenster`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-7__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-7__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAIH/8QAJRAAAgEDAwQDAQEAAAAAAAAAAQIDBAURABIhBhMxQQciUTKB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EAB0RAQACAgIDAAAAAAAAAAAAAAEAAhESA1EhMWH/2gAMAwEAAhEDEQA/AI6T5IvtHS0pNxoZ90YKwzwNI0f0XlXPs8/o451oNzqevbxWVNkpIzJTUDtKTEoMK90Mm1sDBXgb/PPOkt26Zt8VmS6XK6VczdmNuzSUIwmdufs7r5yfXvxxrmjoo5OkKqooLK0ca0jwvUzy7jKFJJYqFOCcgYBAG3Ojmqdyrt6iS4SVttuUFRWzq7pUq4fIkKshDHJHnyCRqs67e4VnWUVd1HFTU8hhjAClSXiUnD7VZtobcTgnn81KGzND06pnhppO7UTBTgl1KIV4ww4JB4wfGvQrXYLdTWy51lzSpnWOIRZqI2TDopO3kceuNa+EQkiuHLGLhL18RgQxd+taiXc0Kl98kbesAAfwfPrVl8ZWu23j46FkqpFiuCUj09WiHusiSM2GVsbQSG9ZIOjRpWppZ6Y7d2D5HVi6NpKHp6O2XWnpK2mppHemlmhzLEGYs25s8kk/g/3Wi49H017jEFeJBbwoXBc91wMYwx8DA8nnRo1Hjd1WGxqeJ//Z"
+/>
 
 **Lange Zeit habe ich hin und her überlegt, ob ich zu diesem Thema etwas bringen
 werde. Und ich muss etwas bringen. G20 macht etwas mit unserer Stadt und das
@@ -81,13 +79,11 @@ schienen.
 
 ## Gespenstisch Szenerie
 
-<RemoteImage
-  alt="G20"
-  size="medium"
-  title="Tanzveranstaltung gegen G20"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-4__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-4__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECAwQGB//EACsQAAIBAwIFAwMFAAAAAAAAAAECAwQFEQAxBhITIUEiUWEHI0IUFRZScf/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAAIF/8QAJxEAAQIFAgUFAAAAAAAAAAAAAQIDAAQREiExoRMjQdHwYXGBkcH/2gAMAwEAAhEDEQA/AOYVvB9upql0eJY4WhBjaSVucP3IyqnY8uPjmXOlsHA8N7uKUlHTF2eJ3BEjhQypnJPsD4841u6CKplu1UlnQMkIVMVJV5MOg/tuQQQdtgSM72I7ZxCRJI/2XAZXEMyGQMe3LgAAkEefcdzpBBVS4BVPN9o1eGFItSj58H7rGWqfpfHQR1FVX0mKKPADJMxIPkv27DbA+To1paimrJIulWV9Tbl/GJwXaoA9TFsHG4A2G3jRqKnpdk2ukg+x7QFEsgDmHMU+KKmpVKd0EioYI1YmIIZAvNyuVHcDDHfz7avcLVMc6p1TVTRikBQ9aVcSgjIYc2MEfkc74/x38l4PuFxoZ7de6akWAFXS5080TOGY5HUGRjBG+T2zpLVw7FJJPPQftl0JA6T2+7I5jbBU+gjuDnJUjPtpVudaS0A6Cg164641ND96YgJaWpziN0PpXvE1fVCWBxcYR+mjRyjc4H3dsM2/fvtuPnRqa4cMVFu4YlLwhJI4Q6yxRtJJGzdh6Sckgn1YznRqoVLzK1FlQtGOpGwO+YI5eqlqTpvH/9k=" />
+<RemoteImage alt={`G20`} size="medium" title={`Tanzveranstaltung gegen G20`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-4__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-4__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECAwQGB//EACsQAAIBAwIFAwMFAAAAAAAAAAECAwQFEQAxBhITIUEiUWEHI0IUFRZScf/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAAIF/8QAJxEAAQIFAgUFAAAAAAAAAAAAAQIDAAQREiExoRMjQdHwYXGBkcH/2gAMAwEAAhEDEQA/AOYVvB9upql0eJY4WhBjaSVucP3IyqnY8uPjmXOlsHA8N7uKUlHTF2eJ3BEjhQypnJPsD4841u6CKplu1UlnQMkIVMVJV5MOg/tuQQQdtgSM72I7ZxCRJI/2XAZXEMyGQMe3LgAAkEefcdzpBBVS4BVPN9o1eGFItSj58H7rGWqfpfHQR1FVX0mKKPADJMxIPkv27DbA+To1paimrJIulWV9Tbl/GJwXaoA9TFsHG4A2G3jRqKnpdk2ukg+x7QFEsgDmHMU+KKmpVKd0EioYI1YmIIZAvNyuVHcDDHfz7avcLVMc6p1TVTRikBQ9aVcSgjIYc2MEfkc74/x38l4PuFxoZ7de6akWAFXS5080TOGY5HUGRjBG+T2zpLVw7FJJPPQftl0JA6T2+7I5jbBU+gjuDnJUjPtpVudaS0A6Cg164641ND96YgJaWpziN0PpXvE1fVCWBxcYR+mjRyjc4H3dsM2/fvtuPnRqa4cMVFu4YlLwhJI4Q6yxRtJJGzdh6Sckgn1YznRqoVLzK1FlQtGOpGwO+YI5eqlqTpvH/9k="
+/>
 
 Gespenstisch ob der Nachrichten der letzten Tage. Ein genehmigtes
 Übernachtungscamp war in der Nacht zum Mittwoch mit Gewalt geräumt worden. Ein
@@ -136,13 +132,11 @@ verschwinden, wachsen am nächsten Tag neue nach.
 
 ## G20 - Tut das Not?
 
-<RemoteImage
-  alt="G20"
-  size="medium"
-  title="Vernageltes Schaufenster"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-5__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-5__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKRAAAgIBAwMCBgMAAAAAAAAAAQIDBBEABSEGEjETQRQiUWGBkQcyof/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGxEAAwADAQEAAAAAAAAAAAAAAAECERIhAzH/2gAMAwEAAhEDEQA/AHMH8h9LX5wm617e2WWT1DLCyyx93uoBAIHnz+9VjrLqs3pmvbPYdKsMkMEbSQBSAAGOQCQctz+dZfPSnsTKY452m7W9RY4iWRhxggZx/mpvT1O1uVX4NGdYHxYyYwSeOByfpg/nOnXpiek5h7Dme4k/TF+Uwy/EtMjzSkYSQl5VAUDgY9wPqNLbE8r9PVpHlWOvFWCGGR8MzI3kKBznA8n21ys7duUFSWGGK/Niy4UEfJ6fGCFHHd3A6S7jQtSvOTVkAjjUNkcggc5z75Ptqec9K6r4b+1atEzNFDFGzf27VwW5zzx9z9fOk67RQqzrPFHIJEQxqPWYqqkAYAPGMAfoaNGoDIe8S1dtrl5o2bub5UDeTnPn251WLe+U7Uc0G41J5IJCO5InXBI8HlfsNGjSmU0Fto//2Q==" />
+<RemoteImage alt={`G20`} size="medium" title={`Vernageltes Schaufenster`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-5__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-5__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKRAAAgIBAwMCBgMAAAAAAAAAAQIDBBEABSEGEjETQRQiUWGBkQcyof/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGxEAAwADAQEAAAAAAAAAAAAAAAECERIhAzH/2gAMAwEAAhEDEQA/AHMH8h9LX5wm617e2WWT1DLCyyx93uoBAIHnz+9VjrLqs3pmvbPYdKsMkMEbSQBSAAGOQCQctz+dZfPSnsTKY452m7W9RY4iWRhxggZx/mpvT1O1uVX4NGdYHxYyYwSeOByfpg/nOnXpiek5h7Dme4k/TF+Uwy/EtMjzSkYSQl5VAUDgY9wPqNLbE8r9PVpHlWOvFWCGGR8MzI3kKBznA8n21ys7duUFSWGGK/Niy4UEfJ6fGCFHHd3A6S7jQtSvOTVkAjjUNkcggc5z75Ptqec9K6r4b+1atEzNFDFGzf27VwW5zzx9z9fOk67RQqzrPFHIJEQxqPWYqqkAYAPGMAfoaNGoDIe8S1dtrl5o2bub5UDeTnPn251WLe+U7Uc0G41J5IJCO5InXBI8HlfsNGjSmU0Fto//2Q=="
+/>
 
 Die Stadt ist in Aufruhr. Gestern Abend wurden in der Schanze Wasserwerfer gegen
 ein paar friedlich auf der Straße sitzende Menschen eingesetzt. Wieder wurde ein

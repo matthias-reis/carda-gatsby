@@ -57,13 +57,11 @@ unterrichteten wiederum ihre Kinder.
 
 ## 90 Prozent der Bürger von Curitiba beteiligen sich aktiv
 
-<RemoteImage
-  alt="Curitiba"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_plastic-bottles-388679_960_720__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_plastic-bottles-388679_960_720__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAYD/8QAKxAAAgECBgAFAwUAAAAAAAAAAQIDBBEABRIhMUEGEyJRYRQVIzJicZGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEBf/EABoRAQADAQEBAAAAAAAAAAAAAAEAAhEDEiH/2gAMAwEAAhEDEQA/AKNVLKqvSCfzfOZSiE72FvSOSeL97/xi7LV1aUMk+YFKSYIbJFZmta12PR7AHGEfhPMEWN7FJKi582bSQw/apPA2vhhUKMwmMNNAaiZgLvpISMX69t++calqlfkyaimM4Jnk00SRF5Ku1tX4SuhgLjcrufkd4YU8zujKWalOghQz+ok9237H+4VVC5jl2YfbKcUbs4FigBYk+4Jv7m+IqolpZn+om8+VWG/6Qq8nnvbCq1KK6wV5eXdibwhCKjPosuJIpdbBxyWCi/PR25xvfEeZnKKOOjyuCOnEin1jcqB7fPzgwYPcDohKeTtdifwvToMsnzBiXqEXSHY3Y7XuSdycZ/OKmSny9a02dysjaTxcORv/AHgwYnupG8wcGf/Z" />
+<RemoteImage alt={`Curitiba`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_plastic-bottles-388679_960_720__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_plastic-bottles-388679_960_720__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAYD/8QAKxAAAgECBgAFAwUAAAAAAAAAAQIDBBEABRIhMUEGEyJRYRQVIzJicZGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEBf/EABoRAQADAQEBAAAAAAAAAAAAAAEAAhEDEiH/2gAMAwEAAhEDEQA/AKNVLKqvSCfzfOZSiE72FvSOSeL97/xi7LV1aUMk+YFKSYIbJFZmta12PR7AHGEfhPMEWN7FJKi582bSQw/apPA2vhhUKMwmMNNAaiZgLvpISMX69t++calqlfkyaimM4Jnk00SRF5Ku1tX4SuhgLjcrufkd4YU8zujKWalOghQz+ok9237H+4VVC5jl2YfbKcUbs4FigBYk+4Jv7m+IqolpZn+om8+VWG/6Qq8nnvbCq1KK6wV5eXdibwhCKjPosuJIpdbBxyWCi/PR25xvfEeZnKKOOjyuCOnEin1jcqB7fPzgwYPcDohKeTtdifwvToMsnzBiXqEXSHY3Y7XuSdycZ/OKmSny9a02dysjaTxcORv/AHgwYnupG8wcGf/Z"
+/>
 
 Heute beteiligen sich 90 Prozent der Bewohner von Curitiba aktiv am Recycling.
 Und das Konzept geht auf: Nicht nur im Bereich Umweltschutz ergeben sich viele

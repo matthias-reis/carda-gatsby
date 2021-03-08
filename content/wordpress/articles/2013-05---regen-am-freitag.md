@@ -15,6 +15,7 @@ labels:
   - Buch
   - Dave Grohl
   - film sound
+  - Geschichten & Erlebtes
   - John Niven
   - Josh Homme
   - kalt
@@ -32,7 +33,6 @@ labels:
   - Nachbarn
   - Sommer
   - Sound City
-  - Tagebuch
   - Trent Reznor
   - Umzug
   - Wetter
@@ -53,21 +53,25 @@ subTitle: Mit musikalischer Untermalung
   
 ---
 
-<RemoteImage
-  alt="Die Nachbarn flüchten schon"
-  size="medium"
-  title="Die Nachbarn flüchten schon"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5504.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5504.jpg?w=300"
-  loadingUrl="undefined" />
+### Meine Lieben,
 
-<RemoteImage
-  alt="Der Kater wärmt schon mal das Handtuch"
-  size="medium"
-  title="Der Kater wärmt schon mal das Handtuch"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5505.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5505.jpg?w=300"
-  loadingUrl="undefined" />
+**ich wünsche Euch ein tolles Wochenende! Hierzulande regnet es, soweit das Auge
+reicht. Die Hoffnung, dass das diesen Sommer mit dem Wetter noch was wird, habe
+ich nur noch nicht verloren, weil mir Freunde aus dem Ausland immer wieder vom
+Sonnenbaden und anderen tollen Sommeraktivitäten berichten. Und irgendwann muss
+der blaue Himmel ja schließlich auch zu uns kommen.**
+
+<RemoteImage alt={`Die Nachbarn flüchten schon`} size="medium"
+title={`Die Nachbarn flüchten schon`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5504.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5504.jpg?w=300"
+loadingUrl="undefined" />
+
+<RemoteImage alt={`Der Kater wärmt schon mal das Handtuch`} size="medium"
+title={`Der Kater wärmt schon mal das Handtuch`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5505.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5505.jpg?w=300"
+loadingUrl="undefined" />
 
 Außerdem habe ich das Wetter ja auch
 [vorgestern erst offiziell zur Nebensache erklärt](//2013/05/29/neues-nine-inch-nails-album-in-kurze-und-queens-of-the-stone-age-schon-auf-dem-weg/),
@@ -82,32 +86,32 @@ Meine Postkartenaktion läuft wunderbar an. Eine ganze Menge Twitterer haben mir
 schon Ansichtskarten zukommen lassen. Heute habe ich schon die ersten
 zurückgeschrieben. Ein paar Tage werde ich wohl noch warten, dann werde ich die
 Bildergalerie hier im Blog einstellen. Wer schon mal ein paar Karten sehen
-möchte, [kann das hier tun](http://instagram.com/anne_reko/). Außerdem werde ich
-schon sehr bald an dieser Stelle über ein tolles Filmprojekt berichten, der Text
-ist bereits fertig, nur am Grafischen muss noch ein Bisschen gefeilt werden.
+möchte, kann das in meinem Instagram tun. Außerdem werde ich schon sehr bald an
+dieser Stelle über ein tolles Filmprojekt berichten, der Text ist bereits
+fertig, nur am Grafischen muss noch ein Bisschen gefeilt werden.
 
 Jetzt fragt Ihr Euch sicherlich "Was schwallt sie denn heute wieder? Hat sie
 denn gar nichts zu erzählen?" - Doch! Das habe ich! Oder besser: Josh Homme,
 Trent Reznor und Dave Grohl haben Euch was zu erzählen. Hier ist ein
-wundervolles Video mit einem Stück, das die drei für den Film
-[SOUND CITY](http://buy.soundcitymovie.com) aufgenommen haben. Ihr müsst es Euch
-einfach anhören/ansehen, es ist zu genial.
+wundervolles Video mit einem Stück, das die drei für den Film SOUND CITY
+aufgenommen haben. Ihr müsst es Euch einfach anhören/ansehen, es ist zu genial.
 
 _ **Hier sind für Euch Josh Homme, Dave Grohl und Trent Reznor mit MANTRA** _
+
 [[youtube http://www.youtube.com/watch?v=L2kGNdE0b5Q&amp;w=560&amp;h=315]](https://www.youtube.com/watch?v=L2kGNdE0b5Q&feature=player_detailpage)
+
 _Viel Spaß damit! Und ein wundertolles Wochenende! Ich tauche jetzt mit der
 Musik von Dave, Trent und Josh in der Badewanne ab und lese ein paar Seiten in
 diesem wundervollen Buch:_
 
-<RemoteImage
-  alt="Stay home read a book"
-  size="full"
-  title="Stay home read a book"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5507.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5507.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Stay home read a book`} size="full"
+title={`Stay home read a book`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5507.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5507.jpg"
+loadingUrl="undefined" />
 
 _Bis bald! Tschüss!_
+
 [Die ultimative FestivallisteJetzt runterladen und ausdrucken](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)
 
   

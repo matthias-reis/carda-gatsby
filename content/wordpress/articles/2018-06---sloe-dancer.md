@@ -21,6 +21,7 @@ labels:
   - Sloe Gin
   - Sommer
   - Tanzen
+  - vegane Rezepte
   - Vegane Rezepte
   - Vorglühen
 type: Artikel
@@ -46,13 +47,11 @@ Wir haben uns vor Kurzem das passende Rezept für solche Gelegenheiten
 ausgedacht. Voilà: Hier kommt der Sloe Dancer. Oder soll ich besser sagen Slow
 Dancer? Ihr tanzt damit nämlich ziemlich gediegen in den Abend.
 
-<RemoteImage
-  alt="Sloe Dancer - Vorglüh-Cocktail"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41782985481_7d3681cbd1_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41782985481_7d3681cbd1_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAJxAAAgIBAwQCAQUAAAAAAAAAAQIDBBEABRIGITFhE0EHFBUycZH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBQIE/8QAJBEAAgEDAwMFAAAAAAAAAAAAAQIAAwQREhMxIWHwcYGxwfH/2gAMAwEAAhEDEQA/ANk6X3yluFm3TWCVLULyBT8DfGqKSFLsewJx41ZPvW2xbO1zdilUI5ikbB4BgCcgn6IH+9s6Qujtm6ot9SoN42FaO3OrLPM14SsgxkcU85JAGTqZ+UTV6cSp+6T232+0WQfArEDjgnmM/wBePepoa7VdZ5GffjB58zOkWQZttXBJ4l9fgqTLDPBJC0Ug5K3MEEdvBB76NIHTNXaesUnbptJpFqcVnJDRrybOCMnBOF749aNIK9yeuiZazVDpdwDNQi6x2uK7+hmt1Y73YGAyEkHOMePOfrVnanktVx8lWCSHOQ6sGx7HvzrmLcKM1yNt0o3rXzxtGFW3CEhdGbsC2Q2cjsBk/WRnWpfiXfbW79BJZ3GNEupK6cY0MSuoIwQp8fY9kE6oVFXGUOfz0H3EqUDRI1DB87x9m3GKs5SGqY1yf4YHL2cfejSzfvcWQswQEdg7AHRosmHtoepHzP/Z" />
+<RemoteImage alt={`Sloe Dancer - Vorglüh-Cocktail`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41782985481_7d3681cbd1_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41782985481_7d3681cbd1_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAJxAAAgIBAwQCAQUAAAAAAAAAAQIDBBEABRIGITFhE0EHFBUycZH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBQIE/8QAJBEAAgEDAwMFAAAAAAAAAAAAAQIAAwQREhMxIWHwcYGxwfH/2gAMAwEAAhEDEQA/ANk6X3yluFm3TWCVLULyBT8DfGqKSFLsewJx41ZPvW2xbO1zdilUI5ikbB4BgCcgn6IH+9s6Qujtm6ot9SoN42FaO3OrLPM14SsgxkcU85JAGTqZ+UTV6cSp+6T232+0WQfArEDjgnmM/wBePepoa7VdZ5GffjB58zOkWQZttXBJ4l9fgqTLDPBJC0Ug5K3MEEdvBB76NIHTNXaesUnbptJpFqcVnJDRrybOCMnBOF749aNIK9yeuiZazVDpdwDNQi6x2uK7+hmt1Y73YGAyEkHOMePOfrVnanktVx8lWCSHOQ6sGx7HvzrmLcKM1yNt0o3rXzxtGFW3CEhdGbsC2Q2cjsBk/WRnWpfiXfbW79BJZ3GNEupK6cY0MSuoIwQp8fY9kE6oVFXGUOfz0H3EqUDRI1DB87x9m3GKs5SGqY1yf4YHL2cfejSzfvcWQswQEdg7AHRosmHtoepHzP/Z"
+/>
 
 ## Zutaten für 2 Gläser Sloe Dancer
 

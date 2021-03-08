@@ -52,6 +52,7 @@ labels:
   - Senf
   - Stachelbeeren
   - vegan
+  - vegane Rezepte
   - Vegane Rezepte
   - Walnüsse
   - Wildkräuter

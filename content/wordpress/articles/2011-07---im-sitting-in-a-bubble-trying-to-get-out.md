@@ -16,20 +16,19 @@ labels:
   - Donnerstag
   - England
   - Gedanken
+  - Geschichten & Erlebtes
   - Gewitter
   - José Gonzalez
   - Junip
   - Melancholie
   - Musik
-  - Tagebuch
 type: Artikel
 typeName: Artikel
 date: 2011-07-07T18:17:41.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "11580"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_07_Treppe__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_07_Treppe__l.jpg
@@ -38,24 +37,13 @@ subTitle: Tagebucheintrag
   
 ---
 
+**Erst kündigt sich das Gewitter lautstark an, dann zieht es vorbei.**
+
 Der Song des Tages kommt heute von der schwedischen Band JUNIP mit ihrem
 großartigen Sänger José Gonzalez.
 
-**Song des Tages:**
+## **Song des Tages: Junip - "To The Grain"**
 
-Junip - To The Grain
-
-[youtube=http://www.youtube.com/watch?v=FmLFJOvWGw0] _faded to the grain_ _can't
-hear the mumbling complaints_ _where canons rust_ _swim against the current with
-trust_ _running up hill_ _in the morning when waters are still_ _ropes are cut_
-_unclear patterns when eyes are shut_ _faded to the grain_
-
-<RemoteImage
-  alt="Foto: Cornwall Mai 2009 cardamon82"
-  size="full"
-  title="Foto: Cornwall Mai 2009 cardamon82"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2011/07/p5130035.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2011/07/p5130035.jpg"
-  loadingUrl="undefined" />
+<iframe src="https://www.youtube.com/embed/FmLFJOvWGw0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
   

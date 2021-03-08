@@ -15,13 +15,16 @@ labels:
   - Bambus
   - Bambusbecher
   - Chi
+  - Ernährung
+  - Ernährung & Gesundheit
+  - Fair Fashion & Beauty
   - ganzheitlich
   - Juwel der klaren Augenkraft
   - Naturkosmetik
   - TCM
   - Tee
   - Traditionelle Chinesische Medizin
-  - Vegane Produkte
+  - vegane Ernährung
   - Yin Yang
 type: Artikel
 typeName: Produkttest
@@ -29,8 +32,7 @@ date: 2018-04-21T11:55:15.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "20558"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41045840562_186eb626e7_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41045840562_186eb626e7_z__l.jpg
@@ -45,13 +47,11 @@ _Werbung\*_
 Gelegenheit. Gerne möchte ich Euch an meinem Fazit teilhaben lassen, daher habe
 ich es hier mal zusammengefasst.**
 
-<RemoteImage
-  alt="Tee von Ashéra"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_39280301510_058a873b00_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_39280301510_058a873b00_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMGBAUH/8QALBAAAgECBAQDCQAAAAAAAAAAAQIDAAQFESFBBhITMVFxgQcUFSIykaHB8P/EABcBAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAbEQEAAwEBAQEAAAAAAAAAAAABAAIRIRIDE//aAAwDAQACEQMRAD8AkMDtraZQZHQN4E9qqJMKtobNpvlVQPqY8oJ8zVp7OsUw9eD8JaPplkQRu3TVSWVipzNauOsdsk4ZxdJxBKqRF4kmcgGVTmuQGvfw8t6K5yPy5qzya6sY3BIXvv41P4ph/KrEADSlfFMQvriflmjtoo9DkrKvop1pV3NN7p1GkYq+7DIn0plsHJzL13yMRh+IXaR9BLq4jgLFulHIUUE9+2v5raXVcpOQmXInnLEsNNidaKKxlPTsz3N5cLEsaSZKRygsAzKN9d9tTn2rgYhcSNKWJzOX2/v3RRT0vGTX51q6E//Z" />
+<RemoteImage alt={`Tee von Ashéra`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_39280301510_058a873b00_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_39280301510_058a873b00_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMGBAUH/8QALBAAAgECBAQDCQAAAAAAAAAAAQIDAAQFESFBBhITMVFxgQcUFSIykaHB8P/EABcBAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAbEQEAAwEBAQEAAAAAAAAAAAABAAIRIRIDE//aAAwDAQACEQMRAD8AkMDtraZQZHQN4E9qqJMKtobNpvlVQPqY8oJ8zVp7OsUw9eD8JaPplkQRu3TVSWVipzNauOsdsk4ZxdJxBKqRF4kmcgGVTmuQGvfw8t6K5yPy5qzya6sY3BIXvv41P4ph/KrEADSlfFMQvriflmjtoo9DkrKvop1pV3NN7p1GkYq+7DIn0plsHJzL13yMRh+IXaR9BLq4jgLFulHIUUE9+2v5raXVcpOQmXInnLEsNNidaKKxlPTsz3N5cLEsaSZKRygsAzKN9d9tTn2rgYhcSNKWJzOX2/v3RRT0vGTX51q6E//Z"
+/>
 
 Vor Kurzem hatte ich die Gelegenheit, die
 [ganzheitliche Kosmetik von Ashéra](/2018/01/ashera-yin-yang-balance/) zu
@@ -78,53 +78,17 @@ im Brief von Ashéra heißt.
 > "Trinkt man ihn regelmäßig, können Gifte ausgespült werden und man regeneriert
 > schneller.",
 
-<RemoteImage
-  alt="Tee von Ashéra"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_40194925465_d935cc2e6e_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_40194925465_d935cc2e6e_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAcD/8QAKBAAAQMDAwMDBQAAAAAAAAAAAQIDBAAFERMhMQYSURYiQWFxgcHx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQMC/8QAHBEAAwEAAgMAAAAAAAAAAAAAAQIRAAMxEiEi/9oADAMBAAIRAxEAPwBBYepHIyEZbCknGx8VCTNuynVy5b8NlbqTK0EEupWwNvajOU+8BJrjCZbLbaVJTsOR81psWbZXuj4SnW4HqCOwqMkraSHVgHIIURwRjJ8ijlLz5M00RWYeWxu53FuXPW41DCAdkg7kUunzAlntSgZA8Uxulol2LQMvRU0+SNVsleFc9pzgj90tmN5bJ+PvRb7Bu2hPREzSLPcYjgAZ/NU5fUcmG+3JQhKls5wFE4ORiiituKJhO9WuPWMi/QY7LkZplLbmqrtUVdxwQOeMbn+Usflr0ztz9aKKmoAEGsxp3//Z" />
-
 Erzählt mir Olivia von Ashéra, die mir das Päckchen mit dem Tee so liebevoll
 zusammengestellt hat. Mir schmeckt der Tee außerdem noch ziemlich gut und ich
 erfreue mich morgens jedes Mal daran, wenn ich beim Kochen sehe, wie die Blüten
 sich öffnen.
 
-## Tee von Ashera abstauben - Jetzt kommentieren!
-
 Gegen weniger trockene Augen habe ich als Kontaktlinsenträgerin in der
-feinstaubreichen Sommerzeit ganz sicher auch nichts einzuwenden. Wer den Tee wie
-ich gerne mal probieren möchte, sollte sich am besten beeilen: Der/die erste,
-der unter diesem Beitrag hier direkt im Blog einen Kommentar hinterlässt,
-bekommt von mir einen Gutscheincode für eine Dose Ashéra "Juwel der klaren
-Augenkraft"! Das gilt, wenn der Kommentar vor dem 31.12.2018 hier gepostet wird.
-
-<RemoteImage
-  alt=""
-  size="medium"
-  title=""
-  mediumUrl="https://www.adcell.de/promotion/view/promoId/172497/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/view/promoId/172497/slotId/80259"
-  loadingUrl="undefined" />
-
-Zum Onlineshop von Ashéra geht es
-[hier entlang](https://www.adcell.de/promotion/click/promoId/172497/slotId/80259?param0=https%3A%2F%2Fwww.ashera-cosmetics.de%2Fshop%2F)
-.
+feinstaubreichen Sommerzeit ganz sicher auch nichts einzuwenden.
 
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_39792146650_0433534cea_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_39792146650_0433534cea_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41559714092_af36d7e457_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41559714092_af36d7e457_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_26217768937_22df8c7696_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_26217768937_22df8c7696_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_40379662044_381cd6fa80_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_40379662044_381cd6fa80_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_26217765197_8792749f4e_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_26217765197_8792749f4e_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27216599508_1a386a041b_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27216599508_1a386a041b_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27216606058_ebf38b4a1a_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27216606058_ebf38b4a1a_z__l.jpg"}]}
 />
-
-<RemoteImage
-  alt="Ashéra Naturkosmetik"
-  size="medium"
-  title=""
-  mediumUrl="https://www.adcell.de/promotion/image/promoId/172492/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/image/promoId/172492/slotId/80259"
-  loadingUrl="undefined" />
-
-[](https://www.adcell.de/promotion/click/promoId/172492/slotId/80259)
 
 - _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
   dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

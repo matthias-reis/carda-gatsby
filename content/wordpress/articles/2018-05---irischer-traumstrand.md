@@ -11,11 +11,11 @@ excerpt: Wo sich dieser Traumstrand befindet, wird nicht verraten. Ich lade Euch
 focusKeyword: Traumstrand
 labels:
   - Beach
-  - Brititsche Inseln
+  - Britische Inseln
+  - Fernweh
   - Ireland
   - Irland
   - Irland2017
-  - Reisen
   - Reisen
   - The Beach
   - Traumstrand
@@ -37,21 +37,17 @@ subTitle: Ein Ort der Ruhe
 Wo in Irland sich dieser Strand befindet, wird nicht verraten. Ihr dürft
 trotzdem die Aussicht mit mir genießen.
 
-<RemoteImage
-  alt="Traumstrand"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38452580050_15f56bbc2d_k__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38452580050_15f56bbc2d_k__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAKxAAAQMDAQMNAAAAAAAAAAAAAQIDBAAFERIGM3EHExQVITFEYXKBgpKy/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAAwQRMVL/2gAMAwEAAhEDEQA/ADsrlNkz3dF1gslAGlAQ8UhP1SBWJy/WqQ4pZs7KlKIOrpByeJxQRze1ZO5HqpEyLEGlMJqEY7Ijnr+GhpxLdrgl09idaucx7YrDJ2gfYVqFviuEJyUNkNkeeEgUaid6uIqviJnx/IrGyrvRkKKxxZ//2Q==" />
+<RemoteImage alt={`Traumstrand`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38452580050_15f56bbc2d_k__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38452580050_15f56bbc2d_k__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAKxAAAQMDAQMNAAAAAAAAAAAAAQIDBAAFERIGM3EHExQVITFEYXKBgpKy/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAAwQRMVL/2gAMAwEAAhEDEQA/ADsrlNkz3dF1gslAGlAQ8UhP1SBWJy/WqQ4pZs7KlKIOrpByeJxQRze1ZO5HqpEyLEGlMJqEY7Ijnr+GhpxLdrgl09idaucx7YrDJ2gfYVqFviuEJyUNkNkeeEgUaid6uIqviJnx/IrGyrvRkKKxxZ//2Q=="
+/>
 
-<RemoteImage
-  alt="Traumstrand"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26390516718_9a860e911a_k__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26390516718_9a860e911a_k__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIEBQb/xAAnEAABBAECAwkAAAAAAAAAAAABAgMEEQAGEgUHIRMkMUFRYXGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABwRAAICAwEBAAAAAAAAAAAAAAECAAMREiIEE//aAAwDAQACEQMRAD8A5lPMjiqozKZCYj7AvdtQsKJvzJVZr5OVVapiSllxfCIBUaO8hwn9vGMpL7EHJmbVI56EmnUCHwhuNCgIUDaldhdj0s9R9ZnSNRyWmE91gutOGkKO9J8elgH2xjB/VcDnYw+FeMaz/9k=" />
+<RemoteImage alt={`Traumstrand`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26390516718_9a860e911a_k__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26390516718_9a860e911a_k__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIEBQb/xAAnEAABBAECAwkAAAAAAAAAAAABAgMEEQAGEgUHIRMkMUFRYXGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABwRAAICAwEBAAAAAAAAAAAAAAECAAMREiIEE//aAAwDAQACEQMRAD8A5lPMjiqozKZCYj7AvdtQsKJvzJVZr5OVVapiSllxfCIBUaO8hwn9vGMpL7EHJmbVI56EmnUCHwhuNCgIUDaldhdj0s9R9ZnSNRyWmE91gutOGkKO9J8elgH2xjB/VcDnYw+FeMaz/9k="
+/>
 
 ## Wegweiser Irland 2017
 

@@ -12,9 +12,9 @@ focusKeyword: Bahatika
 labels:
   - Bahatika
   - Fair Fashion
-  - Interview
-  - Vegane Produkte
+  - Interviews
   - vegane Schuhe
+  - veganes Leder
 type: Artikel
 typeName: Interview
 date: 2016-02-26T12:04:21.000Z
@@ -53,13 +53,12 @@ schenken, zu begeistern und Bewusstsein zu schaffen.
 
 ## Bahatika gibt es seit April 2015
 
-<RemoteImage
-  alt="Bahatika Gründerin Sheila"
-  size="medium"
-  title="Modell Rocha. Bild: Bahatika"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_ROCHA_Sand_1_1024x1024@2x__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_ROCHA_Sand_1_1024x1024@2x__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBQYI/8QAKBAAAgEEAQIEBwAAAAAAAAAAAQIDAAQRIQUSQRMxUWEUcZGhscHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABkRAAMBAQEAAAAAAAAAAAAAAAABAhIhEf/aAAwDAQACEQMRAD8A6aA9qTdXdvaGP4mZYzIcLnv/AD3pN/eC0tnlWMyMoyEHesPNNPy808yTMQrlCGRkd8Y0CQMAZPbf3pXeeGszo3Fry3H3VvaTQXsDR3bdNuS/SZTvSg7PkT8t1LkAINZ7iuIiD208sccksDdccjqGaMkEEg9iQSNeuKvzJksPQ/qnLbXRNeCUfIGvOlSWNo83jPawPMNB2QFvrRRVEEgHA1SWfBfXcfiiigD/2Q==" />
+<RemoteImage alt={`Bahatika Gründerin Sheila`} size="medium"
+title={`Modell Rocha. Bild: Bahatika`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_ROCHA_Sand_1_1024x1024@2x__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_ROCHA_Sand_1_1024x1024@2x__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBQYI/8QAKBAAAgEEAQIEBwAAAAAAAAAAAQIDAAQRIQUSQRMxUWEUcZGhscHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABkRAAMBAQEAAAAAAAAAAAAAAAABAhIhEf/aAAwDAQACEQMRAD8A6aA9qTdXdvaGP4mZYzIcLnv/AD3pN/eC0tnlWMyMoyEHesPNNPy808yTMQrlCGRkd8Y0CQMAZPbf3pXeeGszo3Fry3H3VvaTQXsDR3bdNuS/SZTvSg7PkT8t1LkAINZ7iuIiD208sccksDdccjqGaMkEEg9iQSNeuKvzJksPQ/qnLbXRNeCUfIGvOlSWNo83jPawPMNB2QFvrRRVEEgHA1SWfBfXcfiiigD/2Q=="
+/>
 
 **Anne:** Seit wann macht Ihr schon vegane Schuhe?
 
@@ -143,13 +142,12 @@ schwierig und braucht leider immer einen Anstoß von Außen.
 
 ## "Die Grausamkeiten werden erst enden, wenn die Konsument\*innen sich weigern, Tierhäute zu tragen"
 
-<RemoteImage
-  alt="Bahatika Gründerin Sheila"
-  size="medium"
-  title="Modell Thibiti. Foto: Bahatika"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_THIBITI_Black_1_1024x1024@2x__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_THIBITI_Black_1_1024x1024@2x__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAcIBv/EACQQAAIBBAEEAwEBAAAAAAAAAAECAwAEBREGBxIhMRQiQVHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAHBEBAAMAAwEBAAAAAAAAAAAAAQACEQMhMQQS/9oADAMBAAIRAxEAPwCqaTnPOeZTHc5uLPGyzLDjRD32yRBhclwGI8jZJDBRo+/3dOOpT6hy3trzu7zty93FHbZUfSWdGaRUlBVURRoD6DXcT486oOdwAc7icR2sZXTfmeZv+Xw4/JTS3CXscsrpIoX45QA6AA8DZK6O/X99uKpT6Xm6k5rj8xbi4k+RkNOiXJjeJXZiVdGHa3hyToje9iqsrPnX8ou5N5TvSFZ/LcTxOSy0OQuYXFwrKzdjlVlK613j99UUU1qljLEMU8hi+J4rH5mbJQRSG4dmZQ7lliLb32D89n/K0FFFValTAkq+z//Z" />
+<RemoteImage alt={`Bahatika Gründerin Sheila`} size="medium"
+title={`Modell Thibiti. Foto: Bahatika`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_THIBITI_Black_1_1024x1024@2x__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_THIBITI_Black_1_1024x1024@2x__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAcIBv/EACQQAAIBBAEEAwEBAAAAAAAAAAECAwAEBREGBxIhMRQiQVHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAHBEBAAMAAwEBAAAAAAAAAAAAAQACEQMhMQQS/9oADAMBAAIRAxEAPwCqaTnPOeZTHc5uLPGyzLDjRD32yRBhclwGI8jZJDBRo+/3dOOpT6hy3trzu7zty93FHbZUfSWdGaRUlBVURRoD6DXcT486oOdwAc7icR2sZXTfmeZv+Xw4/JTS3CXscsrpIoX45QA6AA8DZK6O/X99uKpT6Xm6k5rj8xbi4k+RkNOiXJjeJXZiVdGHa3hyToje9iqsrPnX8ou5N5TvSFZ/LcTxOSy0OQuYXFwrKzdjlVlK613j99UUU1qljLEMU8hi+J4rH5mbJQRSG4dmZQ7lliLb32D89n/K0FFFValTAkq+z//Z"
+/>
 
 **Anne:** Viele Leute sind von Pelzen geschockt, würden nie welche tragen und
 empfinden die Herstellung als Tierquälerei, was ja auch richtig ist. Allerdings

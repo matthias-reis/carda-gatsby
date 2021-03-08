@@ -31,8 +31,7 @@ date: 2013-05-24T07:00:09.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "5442"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_towel_day-e1425405110473__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_towel_day-e1425405110473__l.jpg
@@ -41,17 +40,19 @@ subTitle: Die Sache mit den Handtüchern
   
 ---
 
+**Wie jedes Jahr am 25. Mai, wird auch morgen wieder weltweit der Towel Day zu
+Ehren des britischen Autors Douglas Adams gefeiert.**
+
 Natürlich wissen seine Jünger (zu denen auch ich mich zähle) ganz genau, dass
 man, nicht nur an diesem Tag, das so ziemlich Nützlichste, was es überhaupt
 gibt, stets mit sich führen sollte: Ein Handtuch.
 
-<RemoteImage
-  alt="Douglas Adams - der Mann mit der Antwort"
-  size="medium"
-  title="Douglas Adams - der Mann mit der Antwort"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/douglas-adams.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/douglas-adams.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Towel Day`} size="medium"
+title={`Douglas Adams - der Mann mit der Antwort`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_douglas-adams__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_douglas-adams__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAeACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcGCAECBP/EAC0QAAEEAQQBAwEIAwAAAAAAAAECAwQRBQAGEiEHIjFBExQVMkJRYXGBgpGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AGnB8G7QwuIYRhIC28pFClInOOkuvKKOKg4fYpULBSAALNAak+B3Hhtwuz8E/Nhu5RjkzMx/1QVgVSrT/fdWAer1DPNnnHG+OpK8RFhuZHPrYDqUcgllnlYT9Q3yvq+IHY+RYOgm34m2M/tONuwyIcjeM3gpmQOLDqJSuCRxCT6eSkgnv8yhdEggyjubam0HW8AmQxEUw2FiJHaW6ppKlABbgQDwBUr8SiLu70Wd2/jMvjpaMtBiS/vFI+0gjklfVCiT1Q6BFfqO9Rje22sAqLnMo5AjJyq461PuMp4vPoQQoesd2kBJFdghPdVqq+x/PG5dvZHGw5E9yZt6PJHNLw5PrZ5/K/cnj/zQLDcuXn7m3DNyk51+XKfUCpxZK1cRSE2f2ASP9aP7OlR33cXh90ZF/DYJx1azMEYuACu+gLV6kpA9wmyaHegO2piYs1tlcdLqX32bVyUkgJXddfBNH/Ea7s3CbiYoNpfWpYUJDlt0CtYA4j1dAA+9WT/A0Di8peTsJi9hM7U2TlVZeXIaLUzKpYMdKGSqy2hND1K6s99XZJPVeR8a24FSgLFnWCkg6D//2Q=="
+/>
 
 Das tat schließlich auch schon Arthur Dent, der Protagonist, des
 [besten Buchs aller Zeiten](http://de.wikipedia.org/wiki/Per_Anhalter_durch_die_Galaxis).
@@ -63,13 +64,12 @@ haben, um auch wirklich in jedem Winkel der Galaxis anzukommen.
 
 ## Vorbereitungen für den Towel Day
 
-<RemoteImage
-  alt="Die Antwort auf alle Fragen"
-  size="medium"
-  title="Die Antwort auf alle Fragen"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4208.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4208.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Die Antwort auf alle Fragen`} size="medium"
+title={`Die Antwort auf alle Fragen`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_4208__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_4208__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgb/xAArEAABAwMDAQYHAAAAAAAAAAABAgMRAAQSEyExQQUicYGCkSMyQqGiseH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBQP/xAAYEQEBAQEBAAAAAAAAAAAAAAAAATECEf/aAAwDAQACEQMRAD8A6+0m3t7G2QiVYBJA+lKUbn3gedP1QVuo3ybiQYEyJAFSPN29xibhpDhROOXSef0Kj0+zmGbp1+3tktaxT3mkmYhIAkdSKkYpWrnFv4lSmUARJGtuPxj71G+G7q0IUDpvNwQRvCh/aWq6aeT8VxOmOGGwVD1EDfwG3jWVXbTpVgsKI5EER70+N0fVKUGPmNCWcEkIWoAqKiAepMmiijCpDyOZW4fOobhIgyVn1UUVryL/2Q=="
+/>
 
 Nachdem der Tag einmal am 25. Mai gefeiert worden war, wollte niemand mehr ein
 anderes Datum (beispielsweise an seinem Geburtstag, dem 11. März, seinem
@@ -84,25 +84,23 @@ große Sammlung, um jeden Tag perfekt ausgestattet zu bestreiten
 
 Das Original Fan-Towel
 
-<RemoteImage
-  alt="Das original Fan-Towel"
-  size="full"
-  title="Das original Fan-Towel"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_towel_day-e1425405110473__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_towel_day-e1425405110473__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYC/8QAKRAAAgIBAwMDAwUAAAAAAAAAAQIDEQQABSESEzEGQVEiYYEycXKx0f/EABkBAAIDAQAAAAAAAAAAAAAAAAEDAAQGB//EACMRAAEEAQQBBQAAAAAAAAAAAAEAAgMRMQQFIUESUXGBsdH/2gAMAwEAAhEDEQA/AEWFj5eTK0OBgrlCHHGRJ0qSwWhbHn5I8DTAYOenQJdmylJCsKVyaIsHwfbVXYt3Ozbg2QMZMh3xowgZygR1dXVuAbAZBxxfzrQT+sMjJ2vOwMfC7QzFZnZJWZlkZ+tnWhwLJoewJFnVA+PNldI0u2slgiIgaQWt5weQLPBv9SyaGWBpFysDNgeMhXVozakiwCCBVgWPkDUDduX6R3A1Hh468Amr092/1Jm4WTlTR4FrkyJM6P1VSxFALq656vwPbUW/eo232bG6sbsGJX4WXqVrVuSK/V9/3+dSh6pWs2WARvcIappNh2CBeCT2seixTdpjMyssYQqsdmwT9xq9CkUZtZ5gfH0qAT+erRo0CBdrPQ79roo2xMfQArA69wrAWA+87fykH+a5YwxcpGAaIssSRY5/vRo0BlJn3jWzNLXyGj8fVL//2Q==" />
+<RemoteImage alt={`Das original Fan-Towel`} size="full"
+title={`Das original Fan-Towel`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_towel_day-e1425405110473__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_towel_day-e1425405110473__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYC/8QAKRAAAgIBAwMDAwUAAAAAAAAAAQIDEQQABSESEzEGQVEiYYEycXKx0f/EABkBAAIDAQAAAAAAAAAAAAAAAAEDAAQGB//EACMRAAEEAQQBBQAAAAAAAAAAAAEAAgMRMQQFIUESUXGBsdH/2gAMAwEAAhEDEQA/AEWFj5eTK0OBgrlCHHGRJ0qSwWhbHn5I8DTAYOenQJdmylJCsKVyaIsHwfbVXYt3Ozbg2QMZMh3xowgZygR1dXVuAbAZBxxfzrQT+sMjJ2vOwMfC7QzFZnZJWZlkZ+tnWhwLJoewJFnVA+PNldI0u2slgiIgaQWt5weQLPBv9SyaGWBpFysDNgeMhXVozakiwCCBVgWPkDUDduX6R3A1Hh468Amr092/1Jm4WTlTR4FrkyJM6P1VSxFALq656vwPbUW/eo232bG6sbsGJX4WXqVrVuSK/V9/3+dSh6pWs2WARvcIappNh2CBeCT2seixTdpjMyssYQqsdmwT9xq9CkUZtZ5gfH0qAT+erRo0CBdrPQ79roo2xMfQArA69wrAWA+87fykH+a5YwxcpGAaIssSRY5/vRo0BlJn3jWzNLXyGj8fVL//2Q=="
+/>
 
 ## Handtuch No. 2
 
-Ein Urlaubsmitbringsel aus einem meiner [Lieblingsländer](/category/turkei/).
+Ein Urlaubsmitbringsel aus einem meiner Lieblingsländer.
 
-<RemoteImage
-  alt="Mitbringsel- Handtuch"
-  size="medium"
-  title="Mitbringsel- Handtuch"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4199.jpg?w=490"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4199.jpg?w=490"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Mitbringsel- Handtuch`} size="large"
+title={`Mitbringsel- Handtuch`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_4199__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_4199__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHAwUI/8QALBAAAQQBAwMCBAcAAAAAAAAAAQIDBAURAAYSByExYXEIFDJBEyJRUpGhsf/EABcBAAMBAAAAAAAAAAAAAAAAAAEEBQL/xAAhEQACAQMFAAMAAAAAAAAAAAABAgADESEEEjFBUROBof/aAAwDAQACEQMRAD8Aqm5dwbiXc3kGrtYtdHguNNBxxgKKQphtxRJOfHInxrWRuWykU78mJKbmlrmVGO6UBaQgqACgDhRIx98ZGuFZSMb73Oyy4lDwsW5C1uHCUNIiR+RJ8BP29NK9P1Rpm7R6ukSY7ldIUUw0xWiUsqTgFs+CpK8lQWQO5IPbGEapbcQJcFFDQQ2F8eA5PfZzgS4dPLdy42fWSJrocsEMoamdhlL6UjmDjtnP6aNZ9PLGNYbShSo0dMdLhWVNpAGFcjnOPJ9dGmwwIvJNekadRkI4JEg2+90Vu3upO4nbZCH48uwTAdY5YUWFx2Q6oj9oSrPvjUKv4h29uSZDbkF75KQPwHgn60D8yFD3TjT31ZvahXUjd0S1qkzCJx4OcgkpIZbR584HHxnSrcW9FeTPm7BicJACUrWyUJLmBgZ747DA/rWLbWlEL89NW3gFQABnr65nrLobYMTditmK4VtpeUR6cgDgfz/ujSB8MVxCjVl5CgHDLS2VlL2QoKUF59/pHjRorgWieudn1DN75kX7/Z//2Q=="
+/>
 
 ## Handtuch No. 3
 
@@ -123,13 +121,12 @@ dem Festival-Handtuch eine Nest aus ihrer eigenen Wolle, Papierschnipseln und
 sonstigem Kram gebastelt. Seit diesem Zeitpunkt vergesse ich nie wieder mein
 Handtuch
 
-<RemoteImage
-  alt="Sündhaft teures Handtuch"
-  size="medium"
-  title="Sündhaft teures Handtuch"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4201.jpg?w=490"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4201.jpg?w=490"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Sündhaft teures Handtuch`} size="large"
+title={`Sündhaft teures Handtuch`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_4201__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_4201__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGCAIH/8QAKhAAAQQCAAUDAwUAAAAAAAAAAQIDBBEABQYSITFBBxNRFBUiUmGRocH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFBgf/xAAmEQABAwMCBQUAAAAAAAAAAAABAAIDBBExEiEFEyIyUUFhgaGx/9oADAMBAAIRAxEAPwDrdcdbRzjOfHRvt+yj7k40hpp1AbSPdICR55R2xlH4o2/1zRTvt0VB4HlW7aTR7EX26ZATXda9xvKWEzg6vZuEUpsoJ9814BrKLWiM/soyGlyPccc6BSU1ZvubyaqpHhwsftaQKaERdvp4C1XDdRJjNvJApxIV/Iwya9O9g9N0VPApLaglN/p5R589ebDHKaTmxNeRkLPJWFjy1ZE1sjXSeIESAqal5csuJSUoUmysq6mwcsuGywrfQAy64tznSQlTYTdC+9n5xA16c8V6zaBw6tT7DazTkd1DlgXRABv48Y90mq2mo4hhv7LXyoraFWFut0k9BX5dr/bBKyJw304v5V6ayF0LtEgO2Lj3+V7Z6eTSmJPjFK21Mv3Sh4ULH93hivTyG4szYL5xyrc5RR+LP+4Ypwy4pWDGf0qGqeqUkL//2Q=="
+/>
 
 ## Handtuch No. 4
 
@@ -145,13 +142,11 @@ Festivals durchaus von Vorteil ist. Trotzdem ist es groß genug, um es als Turba
 zu benutzen, es als Sonnenschutz um die Schultern zu schlingen oder als
 Sonnensegel über das Vordach des Iglu-Zelts zu legen.
 
-<RemoteImage
-  alt="Festival-Handtuch"
-  size="medium"
-  title="Festival-Handtuch"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4203.jpg?w=490"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4203.jpg?w=490"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Towel Day`} size="large" title={`Festival-Handtuch`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_4203__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_4203__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAJxAAAgIBAgYCAgMAAAAAAAAAAQIDEQQAEgUTISIxQVHwcaEGkdH/xAAZAQACAwEAAAAAAAAAAAAAAAACBQABAwT/xAAbEQEBAAMAAwAAAAAAAAAAAAABAAIDERIhMf/aAAwDAQACEQMRAD8Aak4hPygi5uSdqmyZiqJXom/tarrnSMY+ZmCYMWHZNLuPxX61HjSxSdCImIKkjaO0+rP96tTyTNDUNCQC1Y+D+TpenGZHusfxnimRjNlHEBZZdrkTPurzVX+/xo1lYlTZE4LlSu2wFFWbvRozAftXky/i8cxI5JAN7FHVdoWgWF31v7WtmHP5+ySGKUbid3b48e/Y1zBcvGbOyNzmJudSrVg0DZPzZ008JyGfGVd8RVVdFJ7gAR0B++NHljc+vZkvGZeHzK+dnLIsdKy7aHqv9B0awMTiYXKmVTHSogCoQQB1+NGoFv2//9k="
+/>
 
 ## Handtuch No. 5
 
@@ -165,13 +160,11 @@ glaubt mir: Spätestens nach dem ersten
 [Baggersee-Besuch](/2011/08/15/lieder-am-ufer/) wird es schon was zu erzählen
 haben
 
-<RemoteImage
-  alt="Kauf-Handtuch"
-  size="medium"
-  title="Kauf-Handtuch"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4198.jpg?w=490"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4198.jpg?w=490"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Kauf-Handtuch`} size="large" title={`Kauf-Handtuch`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_4198__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_4198__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAJxAAAgEDAwQBBQEAAAAAAAAAAQIDBAURAAZBEhMhMQcUIjJRYaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEBQP/xAAhEQACAQQCAgMAAAAAAAAAAAABAgMABBEhMbETgaHB8P/aAAwDAQACEQMRAD8A0u73WtgnSNa6WGBKeIAd3oUEoD7/AKTpGqtx3KIW4Xu5U1puNXJ0tFPUMxkhHK+cKcnHk8jzxpf+Ytv1W59+bet4rqKmoHoWMjVTDpjYKMv0kjLEEBfPsH9HVBV/HlDcY7Za6veMLUdG1TT0dW8KN3MdDGL88YVi3nJz6HGSeME7NXI7sxR4WME4Gz+xv3sV1btyviu1loq1SjGaJWYg5BbGD/o0aRfh95LX8cWShlkjklpo3gd43DIxWV1ypHtcAYOjWJh3QGcZ1Sbuvb9vvN8gqqpJi8cSxOkcwTuKF+0ZKsAQSeOTpDptmXVLy/1lGotbFyDFXRPL0gfYG6lAwOccn1rRbjT3GatM9FND2gU6o3QEnH5ecgjIx6PHrUSoe6Kyj6KJk7Z6nWRgQcD0MHPnPP696xuJowzK6Ec7x0eqsWd7KkaKkuAMayPv5q12ElXadpUNHWgLMhkIAkD4QuxXyABnGjVdaWqFolFPSSQxhjhTOrZPsnjAySMfzPOjTI3RkDJxUe4LNKzNySa//9k="
+/>
 
 ## Nun denn:
 
@@ -179,13 +172,12 @@ Ich wünsche Euch einen wundervollen Towel Day. Feiert schön! Lasst Euch nicht
 unterkriegen! Nehmt Euch in acht vor dem pangalaktischen Donnergurgler und was
 am wichtigsten ist: Vergesst im Namen der 42 Euer Handtuch nicht!
 
-<RemoteImage
-  alt="Pangalaktischer Donnergurgler"
-  size="medium"
-  title="Pangalaktischer Donnergurgler"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5144.jpg?w=490"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5144.jpg?w=490"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Pangalaktischer Donnergurgler`} size="large"
+title={`Pangalaktischer Donnergurgler`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_5144__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_5144__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgf/xAAvEAACAQMCBAQDCQAAAAAAAAABAgMEBREABgcSMVETIUGRFBeBMlJhYnFysbLB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwUGAQT/xAAnEQABAwIFAgcAAAAAAAAAAAABAgMRAAUEEhMhQTGxFGFx0eHw8f/aAAwDAQACEQMRAD8AscMNi7eptsW2orrLb55mpo5ZZJoFcsSoPqOuTp+71m345WjoNt2JVHRvgYDn3TRbdcG+X9FFCjGZlSIFfurECR7A6y3gliX+1+Ol7bOs4pbx52FW1nsjBSVviY2+aeoq+1tV4n29YqmEDDRPboEY/tZU66JvvZW1L1sO4XmxWyjjZaeRl5IVRonUEkEAeRGNQJVCV0BAOHyGH+6v7KmlNm3tSTZMD0DzgHorcjqSP1GPYaPiGdFIfZMRG3BExRL/AGTDpwqn2U5Sn3ihcPJ1ulhktgAeviVaimUnHOPDCuB3IBz9dU4bRWBSUp+dPIZTzwex1xbbG54RWW2pguMNG1OIyrNMqMhHXr6nXd7XxF25cPHa8SWp5YkB+IirEjaX0AIyPP6+2tuLLuHXnaGZJ39P2uheLyJ1WYKTG0iR08x17zS9JturlmRmgMXXlc+Tk/l9Qvc9s60F3tMFg2ffphy+NNRSh2xjOI2/k6HT8QdtpByW6e10yd3q4s/21i+K3EaznZ9ypYLrSTVk0LIqRTK5OQR6E99Kx4rFOJQpMCfs1OXm6POIyL2B45Pev//Z"
+/>
 
 Für alle, die meinen Text nicht verstanden haben (gibt es solche Leute
 überhaupt?): **Lest verdammt nochmal das Buch!** Ich rede sonst nicht mehr mit
@@ -196,6 +188,15 @@ Hause gerade so rumlagen:
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4207__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4207__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4204__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4204__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4206__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4206__l.jpg"}]}
 />
 
-### Hier noch ein paar nützliche Links: [The Hitchhikers Guide through the Galaxy](http://www.douglasadams.com/creations/hhgg.html) [Die vierteilige Trilogie in fünf Bänden](http://de.wikipedia.org/wiki/Per_Anhalter_durch_die_Galaxis) ### Ich werde Euch dann morgen darüber berichten, für welches Handtuch ich mich entschieden habe! [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+## Hier noch ein paar nützliche Links:
+
+[The Hitchhikers Guide through the Galaxy](http://www.douglasadams.com/creations/hhgg.html)
+
+[Die vierteilige Trilogie in fünf Bänden](http://de.wikipedia.org/wiki/Per_Anhalter_durch_die_Galaxis)
+
+Ich werde Euch dann morgen darüber berichten, für welches Handtuch ich mich
+entschieden habe!
+
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
   

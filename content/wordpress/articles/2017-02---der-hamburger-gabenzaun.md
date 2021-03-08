@@ -12,13 +12,13 @@ excerpt: Am Hamburger Hauptbahnhof wurde ein Zaun gebaut, um Obdachlose zu
   wird?
 focusKeyword: Hamburger Gabenzaun
 labels:
+  - Antifaschismus & Feminismus
   - Hamburg
   - Hamburg
   - Hamburger Gabenzaun
   - Hauptbahnhof
   - Obdachlose
   - Platte
-  - Politik & Soziales
   - Straße
   - Trebe
 type: Artikel

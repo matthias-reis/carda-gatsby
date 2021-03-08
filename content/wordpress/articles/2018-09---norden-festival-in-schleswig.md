@@ -102,11 +102,11 @@ man sein Festivalticket nicht an der Abendkasse und kann es somit im Bus bereits
 vorlegen, ist der Fahrtpreis inbegriffen.
 
 Für ausbaufähig halten wir nach unserem Besuch das Angebot an
-[veganem Essen](/category/vegan-2/rezepte/) (einzig gefüllte Kartoffeln wurden
-auf Anfrage hin auch vegan zubereitet) und Skandinavischer Kultur. Aber was
-nicht ist, kann ja noch werden und das NORDEN Festival steckt ja auch noch in
-den Kinderschuhen. Wir sind auf jeden Fall gespannt auf nächstes Jahr und werden
-bestimmt auch wieder hinfahren.
+[veganem Essen](/category/vegan/vegane-rezepte/) (einzig gefüllte Kartoffeln
+wurden auf Anfrage hin auch vegan zubereitet) und Skandinavischer Kultur. Aber
+was nicht ist, kann ja noch werden und das NORDEN Festival steckt ja auch noch
+in den Kinderschuhen. Wir sind auf jeden Fall gespannt auf nächstes Jahr und
+werden bestimmt auch wieder hinfahren.
 
 ## Nächstes Jahr wird gepaddelt!
 

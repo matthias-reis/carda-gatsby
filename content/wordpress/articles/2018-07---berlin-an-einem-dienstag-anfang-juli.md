@@ -16,11 +16,11 @@ labels:
   - Berlin
   - Berlin vegan
   - Currywurst
+  - Fernweh
   - Friedrichshain
   - Lieblingsberlin
   - Papaya
   - Prenzlauer Berg
-  - Reisen
   - Smartphone-Fotografie
   - Sommer
   - Spree

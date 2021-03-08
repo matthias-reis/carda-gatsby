@@ -12,7 +12,7 @@ excerpt: Neulich fiel mir die Decke ein Bisschen auf den Kopf und ich begann
 focusKeyword: Handtasche
 labels:
   - diy
-  - DIY
+  - Fair Fashion & Beauty
   - Handarbeit
   - Handtasche nähen
   - nähen
@@ -31,13 +31,12 @@ subTitle: Selbstgemacht an nur einem Nachmittag
   
 ---
 
-<RemoteImage
-  alt="Daraus ist meine neue Handtasche entstanden"
-  size="medium"
-  title="Daraus ist meine neue Handtasche entstanden"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Meine-neue-Handtasche-3__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Meine-neue-Handtasche-3__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBQIEB//EACwQAAIBAwMEAAQHAQAAAAAAAAECAwQREgAFIQYTMUEUImFxFSQyQlKBkaH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQABAwb/xAAkEQABAgUDBQEAAAAAAAAAAAABAAIDBBESITFRsUFhkaHB0f/aAAwDAQACEQMRAD8AbOgduki2Pa6VY0EYpIsmvySUFwAPB5PP+acYDtdcKikWsgkmhYRyAPkYm/bf+x/zSPD1aaTafyG3sZeyxjtIFwRVALEni4v4+x+ml3bquphqklo5zNOrQxrPSWSnke2Td39RJIuD7+ZB5JGufnJpwJa0g08JrCaMHddfEo+ASlVMKlSEVsrKQD6Pi3FvtpN67kaPbhXLjFN3lEJ7hBSym9h/E351lQdWQ7hWmgcRQ7kHkpxDmXRgvllZgLeja3F/PGqbr2rE7wUyJEFVlPzyZMLi9j6x+uljpmbMQXupTbTjP3GESIcK0loSnu9VST0mxzx08Q3GqujyOLqrI4Y4i/LNiePBtzYDUxV614o3ndaqWpb4x0kYLCkYGCtY5KSD2rcm7hieANGjRk6A1xI2r6PjQadVjLi8gHqQPY/Tqtb8Rkgm6fYSU0UC7g2NOgv2L5jAMGIKrdgxxU3K+rat9/eqq6qWanpo2UzDF8SFxA9E2GOjRqoMFsWILu/JUvLWY7cBf//Z" />
+<RemoteImage alt={`Daraus ist meine neue Handtasche entstanden`} size="medium"
+title={`Daraus ist meine neue Handtasche entstanden`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Meine-neue-Handtasche-3__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Meine-neue-Handtasche-3__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBQIEB//EACwQAAIBAwMEAAQHAQAAAAAAAAECAwQREgAFIQYTMUEUImFxFSQyQlKBkaH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQABAwb/xAAkEQABAgUDBQEAAAAAAAAAAAABAAIDBBESITFRsUFhkaHB0f/aAAwDAQACEQMRAD8AbOgduki2Pa6VY0EYpIsmvySUFwAPB5PP+acYDtdcKikWsgkmhYRyAPkYm/bf+x/zSPD1aaTafyG3sZeyxjtIFwRVALEni4v4+x+ml3bquphqklo5zNOrQxrPSWSnke2Td39RJIuD7+ZB5JGufnJpwJa0g08JrCaMHddfEo+ASlVMKlSEVsrKQD6Pi3FvtpN67kaPbhXLjFN3lEJ7hBSym9h/E351lQdWQ7hWmgcRQ7kHkpxDmXRgvllZgLeja3F/PGqbr2rE7wUyJEFVlPzyZMLi9j6x+uljpmbMQXupTbTjP3GESIcK0loSnu9VST0mxzx08Q3GqujyOLqrI4Y4i/LNiePBtzYDUxV614o3ndaqWpb4x0kYLCkYGCtY5KSD2rcm7hieANGjRk6A1xI2r6PjQadVjLi8gHqQPY/Tqtb8Rkgm6fYSU0UC7g2NOgv2L5jAMGIKrdgxxU3K+rat9/eqq6qWanpo2UzDF8SFxA9E2GOjRqoMFsWILu/JUvLWY7cBf//Z"
+/>
 
 **Neulich fiel mir die Decke ein Bisschen auf den Kopf und ich begann nach
 Stoffen und Schnittmustern zu googeln. Ziemlich schnell stand fest: Eine neue
@@ -68,6 +67,10 @@ Anleitung ist wirklich klasse, zusätzlich gibt es noch ein Video, ich bette es
 mal hier mit ein, mir hat es beim Nähen sehr geholfen. Vielen Dank an Patty Doo
 an dieser Stelle!
 
-<iframe src="https://www.youtube.com/embed/azq48f3065s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>## Link zum Schnittmuster-  [1]  [Schnittmuster Tasche "Carrie" bei Patty Doo](https://www.pattydoo.de/schnittmuster/tasche-carrie)
+<iframe src="https://www.youtube.com/embed/azq48f3065s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+## Link zum Schnittmuster
+
+- [1][schnittmuster tasche "carrie" bei patty doo](https://www.pattydoo.de/schnittmuster/tasche-carrie)
 
   

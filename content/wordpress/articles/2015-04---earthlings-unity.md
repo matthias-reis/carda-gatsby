@@ -14,7 +14,6 @@ labels:
   - Ben Kingsley
   - Bücher & Filme
   - Carrie-Anne Moss
-  - Darum vegan
   - David Copperfield
   - Earthling Unity
   - Earthlings
@@ -22,6 +21,7 @@ labels:
   - Moby
   - Olivia Wilde
   - Shaun Monson
+  - Tierrechte
   - Tony Hawk
   - Watch Earthlings
 type: Artikel
@@ -38,6 +38,10 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Der neue Film von Shaun Monson
   
 ---
+
+**Shaun Monson hat seinen neuen Dokumentarfilm "Earthlings Unity" nicht nur
+produziert, er hat auch selbst Regie geführt. Das Werk knüpft dort an, wo
+Monsons erster Film "Earthlings" von 2005 aufhört.**
 
 Der Film wird von zahlreichen namenhaften Schauspielern, Künstlern, Sportlern,
 Autoren, Filmemachern und Musikern kommentiert und gesprochen. Neben vielen
@@ -78,7 +82,8 @@ dazu. [Ihr findet "Earthlings Unity" hier](http://www.nationearth.com/films).
 Wer lieber erstmal den Vorgänger schauen möchte, klickt einfach auf den folgen
 Link
 
-[Watch Earthlings](http://www.nationearth.com/films) **Filmplakat:** Nation
-Earth Film
+[Watch Earthlings](/2020/07/earthlings/)
+
+**Filmplakat:** Nation Earth Film
 
   

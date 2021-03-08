@@ -14,9 +14,8 @@ labels:
   - Amsterdam2018
   - Art
   - Die Nachtwache
+  - Fernweh
   - Kunst
-  - Kunst
-  - Reisen
   - Reisen
   - Rembrandt
   - Rijksmuseum

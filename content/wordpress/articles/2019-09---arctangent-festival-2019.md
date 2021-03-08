@@ -15,8 +15,8 @@ labels:
   - England
   - Festival
   - Festivals
-  - Post Rock
   - Post-Metal
+  - Post-Rock
   - Sumerset
 type: Artikel
 typeName: Konzertbericht
@@ -36,13 +36,11 @@ subTitle: Die ganz große Festival-Liebe
 **Vom ArcTanGent Festival habe ich Euch vor Kurzem schon erzählt. Hier kommt
 mein Nachbericht - in Form einer verliebten Lobhudelei.**
 
-<RemoteImage
-  alt="arctangent"
-  size="medium"
-  title="Silent Disco"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_2019-08-28-arctangent-10__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_2019-08-28-arctangent-10__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBQb/xAAqEAABAwMDAwQBBQAAAAAAAAABAgMEBREhAAYSBzFBExRRkSIjMkJhof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC7VTfNPpNMflT3Q002kErPgY8fOcDU53L1Yg7jgx2KbCqjbCpHBUgxlFvsR+4diCR865Lqu77ejFiTNYRJeW2UJWviAnl+SzjIF/8AD8axN77dotFacfpqy3zeQIzImOALBF1LH5ZHbtjPfQZm5etFRenFdJodHhx2x6aEvIcectcW5KKwPHa33qm9Op+3d+0RmVUmnqVNR+nIBaJZVfBLbn8QoYybi5F/OpZHb25CkTqlFjSXHpRvETKQj00BWbgAnwcX8aZ6Q9Q4mx6g5SqtFj+0ek8JU5kFZ4XFjx78Rknjm/g2toOF3bVZVQnOrlLLjilFSlk3Jvn6+NZCpkpxqM05IdW1HBbaQpRIbBOeIPa/9aNGgenPSY8ZFPblviI1ZSW+XY2tf60nSaeiUtXNaglChcDzo0aD/9k=" />
+<RemoteImage alt={`arctangent`} size="medium" title={`Silent Disco`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_2019-08-28-arctangent-10__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_2019-08-28-arctangent-10__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBQb/xAAqEAABAwMDAwQBBQAAAAAAAAABAgMEBREhAAYSBzFBExRRkSIjMkJhof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC7VTfNPpNMflT3Q002kErPgY8fOcDU53L1Yg7jgx2KbCqjbCpHBUgxlFvsR+4diCR865Lqu77ejFiTNYRJeW2UJWviAnl+SzjIF/8AD8axN77dotFacfpqy3zeQIzImOALBF1LH5ZHbtjPfQZm5etFRenFdJodHhx2x6aEvIcectcW5KKwPHa33qm9Op+3d+0RmVUmnqVNR+nIBaJZVfBLbn8QoYybi5F/OpZHb25CkTqlFjSXHpRvETKQj00BWbgAnwcX8aZ6Q9Q4mx6g5SqtFj+0ek8JU5kFZ4XFjx78Rknjm/g2toOF3bVZVQnOrlLLjilFSlk3Jvn6+NZCpkpxqM05IdW1HBbaQpRIbBOeIPa/9aNGgenPSY8ZFPblviI1ZSW+XY2tf60nSaeiUtXNaglChcDzo0aD/9k="
+/>
 
 Das [ArcTanGent Festival](/2019/05/arctangent-festival-2019/) fand vom 15.
 bis 17. August in der Nähe von Bristol in England statt. Wir waren auch dabei
@@ -73,13 +71,11 @@ Bands auf.
 Coheed &amp; Cambria, Zeal &amp; Ardor, Cultdreams, Ithaka, Bossk und Carpenter
 Brut.**
 
-<RemoteImage
-  alt="arctangent"
-  size="medium"
-  title="Leckeres veganes Essen"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_2019-08-28-arctangent-15__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_2019-08-28-arctangent-15__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAQFBgcBAgP/xAApEAACAQMEAQIGAwAAAAAAAAABAgMEBREABhIhEwcxFDJBUWFxFSJC/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQCBQb/xAAjEQABAwQCAQUAAAAAAAAAAAACAAEDBBESIQUxQRORobHR/9oADAMBAAIRAxEAPwDN23RZ7ZcEonYSVjsq+KEHrLYOSeuvfGkdy3vBTUsk9HRNJDG5iaSVuIDfQ498HvTIYzdfT59w3dKSsXxSSLRrL4zGFZl5k4Jz18vWc6hW29w2+ovdJTjb9PUoYyHSRiqhhk+Q8e+Kj/PeiR8mRsTC9radTqeKCMhwfJis7eO/r3V4WWSouVqgq6qmjiaUclETlgR98EZGjVbb6M+3orbVW2reOuMskRWN28ccZHLCt+DlcfYaNHg5QZQyFK1fFHTSvGdr/qle2BbR6fU9jvFTTxkQukkXF+RLSMenC4+Vu+/pqN7q23YNv7aqKnb3gqqgyYcfFAyKpVlBUkA4DFSQPcdHGtf4u709KKhkPgYZDjBx+xnXFmqJKeWGUEqwKnC46/estHCQy+oJ6vd28K7knkeNozBtNZtbS/1atdRDsHbYaWCoqoDHTslIeRyIif7YJzgj30abkgpyUaonqn4gDj5CFOPwMaNGpSKmDDvv5S1VIdQeZMv/2Q==" />
+<RemoteImage alt={`arctangent`} size="medium" title={`Leckeres veganes Essen`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_2019-08-28-arctangent-15__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_2019-08-28-arctangent-15__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAQFBgcBAgP/xAApEAACAQMEAQIGAwAAAAAAAAABAgMEBREABhIhEwcxFDJBUWFxFSJC/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQCBQb/xAAjEQABAwQCAQUAAAAAAAAAAAACAAEDBBESIQUxQRORobHR/9oADAMBAAIRAxEAPwDN23RZ7ZcEonYSVjsq+KEHrLYOSeuvfGkdy3vBTUsk9HRNJDG5iaSVuIDfQ498HvTIYzdfT59w3dKSsXxSSLRrL4zGFZl5k4Jz18vWc6hW29w2+ovdJTjb9PUoYyHSRiqhhk+Q8e+Kj/PeiR8mRsTC9radTqeKCMhwfJis7eO/r3V4WWSouVqgq6qmjiaUclETlgR98EZGjVbb6M+3orbVW2reOuMskRWN28ccZHLCt+DlcfYaNHg5QZQyFK1fFHTSvGdr/qle2BbR6fU9jvFTTxkQukkXF+RLSMenC4+Vu+/pqN7q23YNv7aqKnb3gqqgyYcfFAyKpVlBUkA4DFSQPcdHGtf4u709KKhkPgYZDjBx+xnXFmqJKeWGUEqwKnC46/estHCQy+oJ6vd28K7knkeNozBtNZtbS/1atdRDsHbYaWCoqoDHTslIeRyIif7YJzgj30abkgpyUaonqn4gDj5CFOPwMaNGpSKmDDvv5S1VIdQeZMv/2Q=="
+/>
 
 Meine geliebten **Toska** und **Sleep Token** habe ich leider verpasst. Aber es
 gab auch einfach so wahnsinnig viel zu sehen, zu hören und zu entdecken!

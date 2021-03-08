@@ -15,9 +15,9 @@ labels:
   - Flarf
   - Flarf-Gedicht
   - Gedicht
+  - Geschichten & Erlebtes
   - Kunst
   - Liebe
-  - Lyrik
   - Musik
   - Neid
   - Postmoderne
@@ -26,7 +26,7 @@ labels:
   - Streetart
   - Suchmaschine
 type: Artikel
-typeName: Artikel
+typeName: Gedicht
 date: 2017-02-17T18:25:12.000Z
 status: publish
 isWerbung: false
@@ -46,6 +46,8 @@ subTitle: Neidische Romantik-Diebe
 Doch nicht aus diesem Grund habe ich heute wieder ein neues für Euch. Etwas
 anderes hat zu seiner Entstehung geführt: Ich wurde inspiriert. Ich danke der
 Welt dafür!
+
+<blockquote>
 
 ## Die Sehnsucht der Postmoderne - Neidische Romantik-Diebe
 
@@ -85,6 +87,8 @@ Der Neid der Alten auf die Jungen verschärft den Konflikt. Nun sitzt er wegen
 eines Brotdiebstahls in Haft
 
 Wartet auf Seelenheilung
+
+</blockquote>
 
 ## Flarf-Gedichte Wegweiser
 

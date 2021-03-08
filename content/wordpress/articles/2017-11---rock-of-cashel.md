@@ -11,20 +11,20 @@ excerpt: Der Rock Of Cashel ist ein mystischer Ort. Längst vergangene Zeiten,
   Macht und Ohnmacht spiegeln sich in ihm wieder. Raben ziehen ihre Kreise.
 focusKeyword: Rock Of Cashel
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
   - Burg
   - Burgen
   - Cashel
   - Dreifaltigkeit
   - Edward mit den Scherenhänden
   - Feen
+  - Fernweh
   - Game Of Thrones
   - Heritage Ireland
   - Ireland
   - Irland
   - Irland2017
   - Legenden
-  - Reisen
   - Rock Of Cashel
   - St. Patrick
 type: Galerie mit Bild

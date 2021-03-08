@@ -10,11 +10,14 @@ excerpt: Nachforschungen von Foodwatch brachten ans Licht, dass im
   Ernährungsreport 2016 Umfrageergebnisse falsch dargestellt werden.
 focusKeyword: Ernährungsreport
 labels:
+  - Antifaschismus & Feminismus
   - Christian Schmidt
+  - Ernährung
+  - Ernährung & Gesundheit
   - Ernährungsreport
   - Ernährungsreport 2016
   - Foodwatch
-  - Politik & Soziales
+  - vegane Ernährung
   - Veganer
 type: Artikel
 typeName: Artikel

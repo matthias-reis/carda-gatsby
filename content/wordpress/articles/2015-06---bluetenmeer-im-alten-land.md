@@ -43,6 +43,14 @@ subTitle: Kirschblüten und Elbstrand
   
 ---
 
+**Vor ein paar Tagen, pünktlich zur Kirsch- und Apfelblüte, unternahmen wir
+einen Tagesausflug ins Alte Land. Dafür, dass das Wetter etwas kühl und wenig
+sonnig war, wurden wir mit einem wunderschönen Blütenmeer à la Martial Arts Film
+entschädigt. Zwischenstopps wurden unter anderem im hübschen Ferienörtchen Stade
+und am Elbstrand eingelegt.**
+
+## Frischer Spargel aus dem Alten Land
+
 Zum Schluss wurden dann noch Äpfel getestet und frischer Spargel geshoppt. Eins
 ist sicher: Der Ausflug hat sich gelohnt und wir werden auf jeden Fall ganz bald
 wieder ins Alte Land fahren. Spätestens, wenn die Äpfel im Herbst reif an den
@@ -55,6 +63,7 @@ Im Beitragsbild ganz oben ist übrigens eine Apfelblüte zu sehen.
 
 Weitere Bilder findet Ihr wie immer in meinem
 [Flickr](https://www.flickr.com/photos/99929697@N07/)
+
 [Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
   

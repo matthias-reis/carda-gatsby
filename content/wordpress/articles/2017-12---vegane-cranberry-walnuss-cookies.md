@@ -20,6 +20,7 @@ labels:
   - Plätzchen backen
   - Rezepte für vegane Plätzchen
   - vegane Plätzchen backen
+  - vegane Rezepte
   - Vegane Rezepte
   - Walnüsse
   - Weihnachten
@@ -48,13 +49,12 @@ Vorsicht: Die Dinger sind richtig schön süß und man ist nach dem ersten süch
 Aber sie sorgen auch für gute Laune und passen hervorragend zu Glühwein oder
 Grog.
 
-<RemoteImage
-  alt="Cranberry-Wanuss-Cookies"
-  size="medium"
-  title="So sehen die Cranberry-Wanuss-Cookies vor dem Backen aus."
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Kalender-2-von-3__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Kalender-2-von-3__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYD/8QAKhAAAQMDAwIFBQEAAAAAAAAAAQIDBAAFERIhMQZBExQiUXFCUmGBocH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAbEQACAwEBAQAAAAAAAAAAAAABAgADERIiIf/aAAwDAQACEQMRAD8AZ2iHIsHSqZDLLynZD5fSlpZSokJ9IUBykjscA0/stzmSLK3KucdHnEatTaTnXjgH52zWf6yui7dcYzrNxnFoMqZRbI4BadUATrVtn0jB77422IpjDuDjtriLlJQw4ptJcQkAeGTzxWMAEtmzSzEARFbLy449JjvCX4BUpxK5jpcWVKOSlOTskb4HAorl1Fd2Y82c4/IgriuOITEbbY0Ot7HVqV9QJxvzn2oo1HpfMTHk/Ywul3tcmXIix5Tb8+E3qcaQQnCRsrBO2R/oqKpjL8JtyKSplxIKTxt+f7WN6klvifNRb7MpEmWkJfdSzoJ7ZWsbkDYgDuOad2xhqFZYcYSNIaaCDrTpJPfNUrdjvUFiDfMqXuyWuA3GmXCYmK9Md8OIFtZAURkajynJ22+aKpdRdSN+TbjT2EyAwsKbcKAtI+1XvqT++KKjtgjxJ//Z" />
+<RemoteImage alt={`Cranberry-Wanuss-Cookies`} size="medium"
+title={`So sehen die Cranberry-Wanuss-Cookies vor dem Backen aus.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Kalender-2-von-3__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Kalender-2-von-3__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYD/8QAKhAAAQMDAwIFBQEAAAAAAAAAAQIDBAAFERIhMQZBExQiUXFCUmGBocH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAbEQACAwEBAQAAAAAAAAAAAAABAgADERIiIf/aAAwDAQACEQMRAD8AZ2iHIsHSqZDLLynZD5fSlpZSokJ9IUBykjscA0/stzmSLK3KucdHnEatTaTnXjgH52zWf6yui7dcYzrNxnFoMqZRbI4BadUATrVtn0jB77422IpjDuDjtriLlJQw4ptJcQkAeGTzxWMAEtmzSzEARFbLy449JjvCX4BUpxK5jpcWVKOSlOTskb4HAorl1Fd2Y82c4/IgriuOITEbbY0Ot7HVqV9QJxvzn2oo1HpfMTHk/Ywul3tcmXIix5Tb8+E3qcaQQnCRsrBO2R/oqKpjL8JtyKSplxIKTxt+f7WN6klvifNRb7MpEmWkJfdSzoJ7ZWsbkDYgDuOad2xhqFZYcYSNIaaCDrTpJPfNUrdjvUFiDfMqXuyWuA3GmXCYmK9Md8OIFtZAURkajynJ22+aKpdRdSN+TbjT2EyAwsKbcKAtI+1XvqT++KKjtgjxJ//Z"
+/>
 
 ## Rezept für ein Blech
 
@@ -78,13 +78,12 @@ Schwierigkeitsgrad: Leicht
 
 ## Zubereitung
 
-<RemoteImage
-  alt="Cranberry-Wanuss-Cookies"
-  size="medium"
-  title="Die Deko steht."
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Kalender-1-von-3__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Kalender-1-von-3__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEEBQYCBwj/xAAoEAACAgIBAwIGAwAAAAAAAAABAgMEBREAEiExBjIHEyJBUWFxgaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEA//EABwRAAIDAAMBAAAAAAAAAAAAAAECAAMhERJBcf/aAAwDAQACEQMRAD8A5/rQuSNo367ctGUwMUdB7uKneWr7oy6gyMN6brUe3Xfi/DzHtlM/BG1I3oYgZHhExh6tKe+9jwdH+uXP01RAzEkVPFQWSIZEeu0yqJeoHZZ2Ota4S+7o3A8+R4mqkmDIWQ917HXjfDju7SWGWwQnywzHUQOwmie2/wDOHGKcl1dwNkr6fnjGIdbVUpXsSloLDVdlpEGumOTz9xsePHJK6a8tyKPEtNKH6A5fUXQzDTAfgAnXV+ieVzB5mbFWal+BkFik4lhaRQ6o356T25lksxas5CW4JtvI5dnVQqnfnQA1re+HNZL9jDo3pjjNypJAs1esI4A5iMoYkO489z/B4cjrHqa9Ji56UVmWOtOVM0S/Ssmt66h99HhyyAgbKtZuT//Z" />
+<RemoteImage alt={`Cranberry-Wanuss-Cookies`} size="medium"
+title={`Die Deko steht.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Kalender-1-von-3__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Kalender-1-von-3__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEEBQYCBwj/xAAoEAACAgIBAwIGAwAAAAAAAAABAgMEBREAEiExBjIHEyJBUWFxgaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEA//EABwRAAIDAAMBAAAAAAAAAAAAAAECAAMhERJBcf/aAAwDAQACEQMRAD8A5/rQuSNo367ctGUwMUdB7uKneWr7oy6gyMN6brUe3Xfi/DzHtlM/BG1I3oYgZHhExh6tKe+9jwdH+uXP01RAzEkVPFQWSIZEeu0yqJeoHZZ2Ota4S+7o3A8+R4mqkmDIWQ917HXjfDju7SWGWwQnywzHUQOwmie2/wDOHGKcl1dwNkr6fnjGIdbVUpXsSloLDVdlpEGumOTz9xsePHJK6a8tyKPEtNKH6A5fUXQzDTAfgAnXV+ieVzB5mbFWal+BkFik4lhaRQ6o356T25lksxas5CW4JtvI5dnVQqnfnQA1re+HNZL9jDo3pjjNypJAs1esI4A5iMoYkO489z/B4cjrHqa9Ji56UVmWOtOVM0S/Ssmt66h99HhyyAgbKtZuT//Z"
+/>
 
 Als Erstes heizt Ihr den Backofen auf 180 Grad vor und legt Euer Backblech mit
 Backpapier aus. Dann schüttet ihr alle Zutaten bis auf die Nüsse in eine

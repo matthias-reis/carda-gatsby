@@ -13,16 +13,16 @@ excerpt: Haters - Was für ein mächtiges Wort und eigentlich doch kein Wort. Di
 focusKeyword: Haters
 labels:
   - Anker
+  - Geschichten & Erlebtes
   - hamburgerschule
   - Haters
   - Liebe
-  - Lyrik
   - marambdage
   - stpauli
   - stpoesie
   - Streetart
 type: Artikel
-typeName: Artikel
+typeName: Gedicht
 date: 2017-02-15T18:48:36.000Z
 status: publish
 isWerbung: false
@@ -48,6 +48,8 @@ Beschäftigung geworden.
 Vielleicht ist es mir ja dieses Mal dabei sogar gelungen, ein kleines Bisschen
 Hass in Liebe umzuwandeln. Seht selbst.
 
+<blockquote>
+
 ## Haters rest in poetry - Der Traum, den Anker zu lichten
 
 Ahoi! Entdecken Sie unsere Anker-Kollektion! Das Geschäft mit der Liebe.
@@ -70,6 +72,8 @@ Findet Euren Anker. Liebe ist der Anker unseres Lebens.
 Statement Ring Haters Hatespeech verklingt
 
 Liebe Grüße aus Hamburg
+
+</blockquote>
 
 ## Flarf-Gedichte Wegweiser
 

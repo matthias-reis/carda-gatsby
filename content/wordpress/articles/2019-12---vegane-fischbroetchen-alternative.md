@@ -13,8 +13,9 @@ excerpt: "Werbung - Am 18. November war ich in die vegane Kochschule Kurkuma in
 focusKeyword: Fischbrötchen
 labels:
   - Alternative Fisch
-  - Darum vegan
   - Eimsbüttel
+  - Ernährung
+  - Ernährung & Gesundheit
   - Fisch ist kein Gemüse
   - Fischalternative
   - fischbroetchenforfuture
@@ -26,8 +27,8 @@ labels:
   - sofine
   - thefriendlyfood
   - vegan
+  - vegane Ernährung
   - vegane Fischalternative
-  - Vegane Produkte
 type: Artikel
 typeName: Produkttest
 date: 2019-12-06T13:02:39.000Z
@@ -59,13 +60,11 @@ Intelligenz und dem Lernvermögen von Fischen.
 
 ## Tofu-Pioniere aus den Niederlanden
 
-<RemoteImage
-  alt="vegane-fischbroetchen-for-future"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-03-so-fine-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-03-so-fine-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBAURAAYhBxIxE0FRFSJCgSOx4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAJBEAAgIBAgUFAAAAAAAAAAAAAQIDEQAFUQQSMUHhExQhIoH/2gAMAwEAAhEDEQA/AET0qsVJfd40dFdFL0ZWSaSNX7S4RC3bn2BONdER9KNmusVQ9iQUjSrEzCtk7gPyIAfBxxxpS9HaGWxbmivQt1Ywpaef7ZWVO9mTAGPI858Hj206qoXrcf028U8c1KabvVaN5FRhnH8iFwPIyMMAcc++l+IZ/bmSFbo9dvy7OFjjBmCO1Dbzig39ta37d6kW21WRpPpU8K1yxSYb03w4IDkdxH28An31i+oFOIVp0QAsfYeeT/mm9u6G1QbzpXrUiuN2SmjIiWX1ZRnvyMg+Bn4/eq6/RN6LOYoaTC4CqBpZdSKxhXSmPXt5w76fcvOrfWspdvVEFXG8NVMTC6lXwwUHjgZ+NWM+47Rc0pqIWZ4fSiEMccKtH6r8AdzY8Y5J0aNJemCSds0IZjH2BvfJdPU0toVjTNElS6hZZIl+PxUnOB/esle7osgZjKXfnJPJ/ZOjRqI0BazlJZCfnP/Z" />
+<RemoteImage alt={`vegane-fischbroetchen-for-future`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-03-so-fine-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-03-so-fine-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBAURAAYhBxIxE0FRFSJCgSOx4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAJBEAAgIBAgUFAAAAAAAAAAAAAQIDEQAFUQQSMUHhExQhIoH/2gAMAwEAAhEDEQA/AET0qsVJfd40dFdFL0ZWSaSNX7S4RC3bn2BONdER9KNmusVQ9iQUjSrEzCtk7gPyIAfBxxxpS9HaGWxbmivQt1Ywpaef7ZWVO9mTAGPI858Hj206qoXrcf028U8c1KabvVaN5FRhnH8iFwPIyMMAcc++l+IZ/bmSFbo9dvy7OFjjBmCO1Dbzig39ta37d6kW21WRpPpU8K1yxSYb03w4IDkdxH28An31i+oFOIVp0QAsfYeeT/mm9u6G1QbzpXrUiuN2SmjIiWX1ZRnvyMg+Bn4/eq6/RN6LOYoaTC4CqBpZdSKxhXSmPXt5w76fcvOrfWspdvVEFXG8NVMTC6lXwwUHjgZ+NWM+47Rc0pqIWZ4fSiEMccKtH6r8AdzY8Y5J0aNJemCSds0IZjH2BvfJdPU0toVjTNElS6hZZIl+PxUnOB/esle7osgZjKXfnJPJ/ZOjRqI0BazlJZCfnP/Z"
+/>
 
 SoFine [<sup>2</sup>](#2) gehört zu den Pionieren im Tofugeschäft. Das
 Unternehmen wurde 1963 in den Niederlanden gegründet. Die Mission lautete:
@@ -139,7 +138,8 @@ so Dr. Kulke [<sup>4</sup>](#4).
 
 Ihrer Meinung nach überwiegen die negativen gesundheitlichen, ökologischen und
 ethischen Aspekte gegenüber den Vorteilen von Fischkonsum. Um den Bedarf an
-Omega-3-Fettsäure zu decken, rät sie zum Konsum von Mikroalgenöl.
+Omega-3-Fettsäure zu decken, rät sie zum
+[Konsum von Mikroalgenöl](/2020/06/vitamine-fettsaeuren-und-spurenelemente/).
 
 "Die Fische nehmen die wertvollen Fettsäuren durch den Konsum dieser Algen auf.
 Die Gewinnung von Algenöl ist schadstofffrei, da die Algen oftmals in

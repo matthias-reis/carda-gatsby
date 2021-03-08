@@ -14,7 +14,7 @@ labels:
   - Elch
   - Elche
   - F. W. Berstein
-  - Reisen
+  - Fernweh
   - Schweden
   - Schweden2018
   - Skandinavien
@@ -36,7 +36,7 @@ subTitle: Meine erste Elch-Begegnung
 ---
 
 **Zwar häufen sich die Zusammenstöße mit Elchen laut Statistik in
-[Skandinavien](/category/unterwegs/skandinavien/), einem von ihnen wirklich
+[Skandinavien](/category/slow-travel/skandinavien/), einem von ihnen wirklich
 vis-a-vis zu begegnen ist dennoch gar nicht so einfach.**
 
 [Matze und ich](/2018/10/kurzgeschichte-die-vierte-welle/)  haben jahrelang die

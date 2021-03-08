@@ -17,6 +17,7 @@ labels:
   - frische Brise
   - Gedanken
   - Geniale Musiker
+  - Geschichten & Erlebtes
   - Glück
   - Gute Laune
   - Küste
@@ -27,7 +28,6 @@ labels:
   - LP
   - luftig
   - Lyrics
-  - Lyrik
   - Lyrik
   - Major/Minor
   - Multiinstrumentalisten
@@ -53,15 +53,16 @@ date: 2011-07-20T15:16:19.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "11578"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_07_papastrand__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_07_papastrand__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAj/xAAkEAACAgICAQQDAQAAAAAAAAABAgMEABEFEiEGMUFRBxNhIv/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAZEQADAQEBAAAAAAAAAAAAAAAAAhEBEjH/2gAMAwEAAhEDEQA/AOp1YMuxifl4Vn7ePBzXYu06c9WC1bhimsllgR3AMhVSxC/egCcV89zvGcfSsyvdq/sjjZkRpB/pgDoffvi9T02Ugn5t9QCibHAVI2Wd0U2Jj40rDYVdfJ+T9HWc+8ipG9e7ZR/yHy9jn+ds8lZiSKabqvSMHqoVQBrfn2GTvk1Y6Cqd69v7k3fXajqvOFH5b1Vcv2qNgzCSWq7sHlJYjsvU6OYbPPzz9jJMWPxhhk4VEtm8zMdyN/POK7E/be28/OGGAH//2Q==
-subTitle: Prosa ohne Wolken
+subTitle: Lyrik ohne Wolken
   
 ---
+
+<blockquote>
 
 Es hat aufgehört zu regnen Alles ist viel klarer jetzt Ganz anders, als wenn es
 langsam nachlässt
@@ -75,28 +76,16 @@ verzogen
 Diesen harten, sauren Regen Aus grauen, stählernen Containerwolken Wird es für
 dich nun nicht mehr geben.
 
-_Der Song des Tages kommt heute von der Band Thrice. "Yellow Belly" ist die
+</blockquote>
+
+Der Song des Tages kommt heute von der Band Thrice.  "Yellow Belly" ist die
 erste Auskopplung aus dem neuen Album "Major/Minor", das im September erscheinen
-wird._ **Song des Tages:**
+wird.
 
-Thrice - Yellow Belly
+## Song des Tages: Thrice – "Yellow Belly"
 
-[youtube=http://www.youtube.com/watch?v=Tfv4PqEOZCU]
+[youtube=http://www.youtube.com/watch?v=Tfv4PqEOZCU] \_\_
 
-_You were built for blessing_ _But you only make them bleed_ _You don´t care_
-_You don´t care_ _And bruises are but shadows_ _Of the blackness that you
-breathe_ _You don´t care_ _You don´t care_ _Life is left inside the rock_ _Stuck
-in day by day_ _You don´t care_ _You don´t care_ _Presence boroughs the colour_
-_From the world to low less gray_ _You don´t care_ _You don´t care_
-
-<RemoteImage
-  alt="Foto: cardamon82 Cornwall 2009"
-  size="full"
-  title="Foto: cardamon82 Cornwall 2009"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2011/07/p51900171.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2011/07/p51900171.jpg"
-  loadingUrl="undefined" />
-
-\_\_ <pre></pre>
+<pre></pre>
 
   

@@ -12,16 +12,16 @@ excerpt: "Heute möchte ich Euch eines meiner größten Vorbilder vorstellen: De
   ausgestellt."
 focusKeyword: Anton Corbijn
 labels:
-  - 1-2-3-4
   - 33 STILL LIVES
   - A Most Wanted Man
   - Anton Corbijn
-  - Bands & Reviews
+  - Bands
   - Bucerius Kunst Forum
   - Control
   - David Bowie
   - FAMOUZ
   - Fotografie
+  - Hamburg
   - Hamburg
   - Hasselblatt
   - Heart Shaped Box
@@ -32,7 +32,6 @@ labels:
   - Joy Division
   - Kamera
   - Kleinbildkamera
-  - Kunst
   - Kurt Cobain
   - London
   - Mittelformatkamera

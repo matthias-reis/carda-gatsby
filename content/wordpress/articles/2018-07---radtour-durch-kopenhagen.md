@@ -15,9 +15,9 @@ labels:
   - Dänemark
   - Fahrrad
   - Fahrradtour
+  - Fernweh
   - I Want To Ride My Bicycle
   - Kopenhagen
-  - Reisen
   - Rokoko
   - Schloss Amalienburg
   - Schweden2018
@@ -45,8 +45,8 @@ sie für uns zu entdecken.**
 Breite, ausgebaute, vom Autoverkehr komplett getrennte Fahrradwege soweit das
 Auge reicht. In Kopenhagen ist das keine Zukunftsmusik und auch kein Traum. Was
 in anderen Städten unmöglich erscheint, ist hier längst Wirklichkeit. Tja,
-[Hamburg](/category/unterwegs/hamburg/), da kannst Du Dir echt mal eine Scheibe
-davon abschneiden. Das würde auch Dir gut stehen.
+[Hamburg](/category/slow-travel/hamburg/), da kannst Du Dir echt mal eine
+Scheibe davon abschneiden. Das würde auch Dir gut stehen.
 
 ## Eine Radtour durch Kopenhagen die ist schön
 

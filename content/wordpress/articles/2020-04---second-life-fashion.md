@@ -11,7 +11,7 @@ excerpt: Werbung & Affiliate Links - Das Second-Hand Start-up Second Life
   jetzt ein Outfit bestellt.
 focusKeyword: Second-Hand
 labels:
-  - Mode & Beauty
+  - Fair Fashion & Beauty
   - Online Second-Hand Shop
   - Online-Shopping
   - Second Life Fashion

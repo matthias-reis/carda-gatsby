@@ -10,11 +10,10 @@ excerpt: Im zweiten Teil meines Interview mit Kara erfahrt Ihr heute alles über
   die Irische Tier-Auffangstation Puss in Boots Animal Rescue and Adoption.
 focusKeyword: Puss In Boots
 labels:
-  - Brititsche Inseln
-  - Darum vegan
+  - Britische Inseln
   - Hamburg
   - Hunde
-  - Interview
+  - Interviews
   - Irland
   - Katzen
   - Pferde
@@ -22,6 +21,7 @@ labels:
   - PussIBoots
   - Tiere
   - Tierethik
+  - Tierhaltung
   - Tierrechte
   - Tierrechte
   - Tierschutz
@@ -66,13 +66,11 @@ Situation vieler Tiere in Irland aufmerksam zu machen.
 
 ## „Tiere sind so pur! Sie gehen mit Dir durch dick und dünn!“
 
-<RemoteImage
-  alt="Puss In Boots"
-  size="medium"
-  title="Kara auf dem Hof"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kara-auf-dem-Hof-1-von-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kara-auf-dem-Hof-1-von-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgL/xAAsEAABBAAFBAAEBwAAAAAAAAABAgMEEQAFEiExBhMiQQcyUWEVUnGBscHR/8QAGAEBAAMBAAAAAAAAAAAAAAAABAABAgP/xAAfEQACAgEEAwAAAAAAAAAAAAABAgADEgQRITFRcYH/2gAMAwEAAhEDEQA/AFej4Lsd9ydnTrb8Ptr0WkgLX+UckGrN/rQ5xBzXK2n8rzbPIgYYyyPPbhoZcta1OLGqkq4oX7/rFqC+rM+koUUsPNuI3Uz3CFLpR9mrJ+o3wRMyht/DefHnJDK2s97jMfRTia07AHk2VGzzvgxpFQBB7nes5rjt1Lvw76ty3IchVGzgPIUtWttaGlOgiq328arjBhFh9LENJdkvKRxblVzt72ODBk1ttYxCb/YcSJMShvpaEsuKjMtJK1LQT9VWAbHsjb7YyUZTszqBt6TmEhxtrW4gPArSnTwkE2Rv9vWI06Q5MnsNA+JeTpSuy2NAJ3HGNL+IqdiOtyGme6tZWVt2AN7+U3/OG2uAqjyJEPE7Et+UhyLNcS4yBqKSkoVYPje2DE6dmzLfh33EVt8hUAf2/wAwYywZzkuw9cSlQgdz/9k=" />
+<RemoteImage alt={`Puss In Boots`} size="medium" title={`Kara auf dem Hof`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kara-auf-dem-Hof-1-von-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kara-auf-dem-Hof-1-von-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgL/xAAsEAABBAAFBAAEBwAAAAAAAAABAgMEEQAFEiExBhMiQQcyUWEVUnGBscHR/8QAGAEBAAMBAAAAAAAAAAAAAAAABAABAgP/xAAfEQACAgEEAwAAAAAAAAAAAAABAgADEgQRITFRcYH/2gAMAwEAAhEDEQA/AFej4Lsd9ydnTrb8Ptr0WkgLX+UckGrN/rQ5xBzXK2n8rzbPIgYYyyPPbhoZcta1OLGqkq4oX7/rFqC+rM+koUUsPNuI3Uz3CFLpR9mrJ+o3wRMyht/DefHnJDK2s97jMfRTia07AHk2VGzzvgxpFQBB7nes5rjt1Lvw76ty3IchVGzgPIUtWttaGlOgiq328arjBhFh9LENJdkvKRxblVzt72ODBk1ttYxCb/YcSJMShvpaEsuKjMtJK1LQT9VWAbHsjb7YyUZTszqBt6TmEhxtrW4gPArSnTwkE2Rv9vWI06Q5MnsNA+JeTpSuy2NAJ3HGNL+IqdiOtyGme6tZWVt2AN7+U3/OG2uAqjyJEPE7Et+UhyLNcS4yBqKSkoVYPje2DE6dmzLfh33EVt8hUAf2/wAwYywZzkuw9cSlQgdz/9k="
+/>
 
 **Kara:** Ich kenne es nicht anders. Als ich auf die Welt gekommen bin, hatten
 wir schon Katzen und Hunde aus dem Tierschutz. Ich habe sehr viel von meiner
@@ -95,13 +93,11 @@ Irland gegründet. Wie kam es dazu?
 
 ## „In Irland gibt es eine sehr aktive Hunderenn-Szene“
 
-<RemoteImage
-  alt="Puss In Boots"
-  size="medium"
-  title="Einfahrt der Station"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Einfahrt-der-Station__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Einfahrt-der-Station__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAYF/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURAAYSEyExFCJBUSShYYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgADBP/EAB0RAAIDAAMBAQAAAAAAAAAAAAECAAMEERIxIeH/2gAMAwEAAhEDEQA/AF5Zd5ybevoqaUK0QASSAAL1RnJAH1n5znvnT/pRa98UIuFm9PPWwwo340mB7xkKVY8gwwcj7B0qanbm3Ip7ncLbEahFglieKWQSKOKE+0tkggjz9eNWdl3CKK0WmW4+op+ESkyxkMZ245HJOKlgc4zk41Zd7ZwOv0Tn0ZRZ77NFVblipLjdrTXGSnkWnWKJaeMgrPnLZAwBhfnsQcedYi37qu+3ZYpKaSqaobkzpLiWIoOSop8+AxIHwdar09srqsH0wc1cgDzP7jy5L/GRgjz5xqC7YhipPWPPB1OPLpOrZLEdu4OOwJP9awv2tbYbCPyOnMEXrzF1VXB7bSrPX2SsETgos0sIw+R3UuOwJHbHnVI7gt7JEILdBTKg7KHY/wC6NGnVUpXmMsRLVBuuniV0emUh0MZZWIPE/H7866lJu2igt9PS00cqRwR8F6r9Rl9uPPbt+9GjSNKyDmf/2Q==" />
+<RemoteImage alt={`Puss In Boots`} size="medium" title={`Einfahrt der Station`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Einfahrt-der-Station__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Einfahrt-der-Station__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAYF/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURAAYSEyExFCJBUSShYYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgADBP/EAB0RAAIDAAMBAQAAAAAAAAAAAAECAAMEERIxIeH/2gAMAwEAAhEDEQA/AF5Zd5ybevoqaUK0QASSAAL1RnJAH1n5znvnT/pRa98UIuFm9PPWwwo340mB7xkKVY8gwwcj7B0qanbm3Ip7ncLbEahFglieKWQSKOKE+0tkggjz9eNWdl3CKK0WmW4+op+ESkyxkMZ245HJOKlgc4zk41Zd7ZwOv0Tn0ZRZ77NFVblipLjdrTXGSnkWnWKJaeMgrPnLZAwBhfnsQcedYi37qu+3ZYpKaSqaobkzpLiWIoOSop8+AxIHwdar09srqsH0wc1cgDzP7jy5L/GRgjz5xqC7YhipPWPPB1OPLpOrZLEdu4OOwJP9awv2tbYbCPyOnMEXrzF1VXB7bSrPX2SsETgos0sIw+R3UuOwJHbHnVI7gt7JEILdBTKg7KHY/wC6NGnVUpXmMsRLVBuuniV0emUh0MZZWIPE/H7866lJu2igt9PS00cqRwR8F6r9Rl9uPPbt+9GjSNKyDmf/2Q=="
+/>
 
 **Kara:** Wir sind beide große Windhundfreunde. Wegen ihnen ist meine Mutter
 nach Irland gegangen. Ich bin mit den verschiedensten Windhunden groß geworden.
@@ -126,13 +122,12 @@ Auffangstation von _Puss In Boots_ in Irland?
 
 ## „Meine Mutter kümmert sich bei Puss In Boots in Irland alleine um 50 Tiere“
 
-<RemoteImage
-  alt="Puss In Boots"
-  size="medium"
-  title="So werden manchmal Katzenbaby auf dem Hof abgegeben"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_So-wurde-ein-Katzenbaby-auf-dem-Hof-abgegegen__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_So-wurde-ein-Katzenbaby-auf-dem-Hof-abgegegen__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYI/8QAJxAAAgICAQMDBAMAAAAAAAAAAQIDBAURIQASMQYTQRQiI1EHYtH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAgEQACAgEEAwEAAAAAAAAAAAABAgADESExQZEEEjLw/9oADAMBAAIRAxEAPwDNHCYZpIe+jXLxkun4vk+Tx58fPUjFhaa2gtehAigPMGRVOiOCQedcdZr05Yy+ayyNkbV6ri/uNgYuFWnChSf19o45c8L1Wy9LDeqfV8M2FktQV7aEPDkfuaAgaBRw35BySN6515HWYeDaPswCwMcCXqbel7ljvs4+hBhkbUsixIstjXlY/BVf23n4GvPSr+Rs9VylYWa1OrBTiP01GGvCBDXUHfaNcFtaJJ2ST10Pdp4aysMVnH48ytEUWxJWQEBRrnQ8f50ir4STG4S3Tjo15FerMPopIYjE6EBFZWbQHaQhK6JLfO22N9KhRhN5G7KMC+0XeiM7iMDlvUtzD+wuQihSOvj3HZZFVEZ3KqwUAuAp+WCjZ5PGleTCZvMZunfxNem+DaKSWyiMkoikXvHaUQ6A7v7DXOtc9HR0PYudYnUVDI/dSxW9PUMxlqtjA3hlaFKtJMY3te6HkYp7KMUCjt1uQqSSSoBGunONzVN7rzCc/USR+8xYdhkrRlmMylFCnv4JBJ5Pxvo6OkuDxxI2llJ1O4HZE//Z" />
+<RemoteImage alt={`Puss In Boots`} size="medium"
+title={`So werden manchmal Katzenbaby auf dem Hof abgegeben`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_So-wurde-ein-Katzenbaby-auf-dem-Hof-abgegegen__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_So-wurde-ein-Katzenbaby-auf-dem-Hof-abgegegen__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYI/8QAJxAAAgICAQMDBAMAAAAAAAAAAQIDBAURIQASMQYTQRQiI1EHYtH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAgEQACAgEEAwEAAAAAAAAAAAABAgADESExQZEEEjLw/9oADAMBAAIRAxEAPwDNHCYZpIe+jXLxkun4vk+Tx58fPUjFhaa2gtehAigPMGRVOiOCQedcdZr05Yy+ayyNkbV6ri/uNgYuFWnChSf19o45c8L1Wy9LDeqfV8M2FktQV7aEPDkfuaAgaBRw35BySN6515HWYeDaPswCwMcCXqbel7ljvs4+hBhkbUsixIstjXlY/BVf23n4GvPSr+Rs9VylYWa1OrBTiP01GGvCBDXUHfaNcFtaJJ2ST10Pdp4aysMVnH48ytEUWxJWQEBRrnQ8f50ir4STG4S3Tjo15FerMPopIYjE6EBFZWbQHaQhK6JLfO22N9KhRhN5G7KMC+0XeiM7iMDlvUtzD+wuQihSOvj3HZZFVEZ3KqwUAuAp+WCjZ5PGleTCZvMZunfxNem+DaKSWyiMkoikXvHaUQ6A7v7DXOtc9HR0PYudYnUVDI/dSxW9PUMxlqtjA3hlaFKtJMY3te6HkYp7KMUCjt1uQqSSSoBGunONzVN7rzCc/USR+8xYdhkrRlmMylFCnv4JBJ5Pxvo6OkuDxxI2llJ1O4HZE//Z"
+/>
 
 **Kara:** Ja, sie lebt ganz alleine dort und kümmert sich vor Ort um die Tiere.
 Das heißt natürlich, dass wir immer nur eine bestimmte Zahl an Tieren aufnehmen
@@ -162,13 +157,12 @@ läuft die Frist nach 24 Stunden ab. Da ist schnelles Handeln gefragt.
 
 ## „Es gibt jede Menge Handlungs- und Aufklärungsbedarf“
 
-<RemoteImage
-  alt="Puss In Boots"
-  size="medium"
-  title="Bei Sturm dürfen sich die Hunde bei Puss In Boots unter der Decke verkriechen"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_22519352_1670423856355290_8082388805347579265_n__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_22519352_1670423856355290_8082388805347579265_n__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAtEAACAQMDAgMHBQAAAAAAAAABAgMEBREAITEGEiJBgQcUFVFhodEjMlJx8P/EABYBAQEBAAAAAAAAAAAAAAAAAAMBBP/EAB4RAAICAgIDAAAAAAAAAAAAAAABAhEDBDFhEyFx/9oADAMBAAIRAxEAPwCR6YslkijUx2qF4QPC0wVmJzksW5+W22Ma6j0nSTGzPHHQW9ISwIR0IDAcDOc+upu3ydP0Qc+81E7MxZmWInGfIHjWTqC/vBPRL09ca2meYPGyGPbbBzhgQDju3+uk8ygrTJLEpuq9dj+6Wqeaesjpi9KyIFJWQ9hVt8DPPG/pqY9o7xHpUwVUERlkkUYx3Dbc4+XGl1Rer8AyfEqqVCfPtLL9M40gu8k9TI89dUPJgbtK37Px/WjybLn9Fx68YVSSXRXUkAkhUKPDjkb/AH1oaiCnkDfgDOfzo0azMZCm+VdHa4S1RJ+pjIhUju9f4j765hfrtU3BiSwjgXZUUYCj/eejRpEkuCcn/9k=" />
+<RemoteImage alt={`Puss In Boots`} size="medium"
+title={`Bei Sturm dürfen sich die Hunde bei Puss In Boots unter der Decke verkriechen`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_22519352_1670423856355290_8082388805347579265_n__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_22519352_1670423856355290_8082388805347579265_n__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAtEAACAQMDAgMHBQAAAAAAAAABAgMEBREAITEGEiJBgQcUFVFhodEjMlJx8P/EABYBAQEBAAAAAAAAAAAAAAAAAAMBBP/EAB4RAAICAgIDAAAAAAAAAAAAAAABAhEDBDFhEyFx/9oADAMBAAIRAxEAPwCR6YslkijUx2qF4QPC0wVmJzksW5+W22Ma6j0nSTGzPHHQW9ISwIR0IDAcDOc+upu3ydP0Qc+81E7MxZmWInGfIHjWTqC/vBPRL09ca2meYPGyGPbbBzhgQDju3+uk8ygrTJLEpuq9dj+6Wqeaesjpi9KyIFJWQ9hVt8DPPG/pqY9o7xHpUwVUERlkkUYx3Dbc4+XGl1Rer8AyfEqqVCfPtLL9M40gu8k9TI89dUPJgbtK37Px/WjybLn9Fx68YVSSXRXUkAkhUKPDjkb/AH1oaiCnkDfgDOfzo0azMZCm+VdHa4S1RJ+pjIhUju9f4j765hfrtU3BiSwjgXZUUYCj/eejRpEkuCcn/9k="
+/>
 
 **Kara:** Man muss dazu sagen: Die Tötungsstationen müssen keinen Tierschutz
 machen. Sie müssen keine Bilder von den Tieren auf Facebook posten und einen
@@ -203,13 +197,12 @@ finden nicht mal mehr Gras. Dann wird es kritisch.
 
 ## „Sogar mit den ärmsten Lebewesen versuchen Menschen noch Kohle zu machen“
 
-<RemoteImage
-  alt="Puss In Boots"
-  size="medium"
-  title="Sheila wird Ende des Jahres 39"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Sheila-wird-Ende-des-Jahres-39__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Sheila-wird-Ende-des-Jahres-39__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAgME/8QAKRAAAgIBAwMCBgMAAAAAAAAAAQIDBBEABRIhQYExMgYHExRRYSNScf/EABcBAQEBAQAAAAAAAAAAAAAAAAMBAgT/xAAcEQACAgMBAQAAAAAAAAAAAAABAgADERIhQQT/2gAMAwEAAhEDEQA/ALKCzVoxImxV4pVjiysrllCjPTimOo9TnSCL5g7zfglpPVgNSTlG31ZcchkjK8R0yPzk50k2p2i2iLbK1yZa9HKxjlyKj8A+pByeh/OttDaLLtK9DlE7KMdOSonbyewGuRaxWMtH2B4BKD4PtLQt1nmuS37TSGvYnDHEkbkgcwekmB3IPpqH+OtwSTbGqJGYY57iQyPyVeKK/InyBp5slWepvYjvzPVCc2hQucSoT1UdjjPUHHprKlSO5fNzbYDAY6MEk9llAygdgI1U+X5D9Yxo7q1ZlceTDAk9iwARAw1kisWbJEaIr+5u3Xt/v61fzUalHZ61KvYNaKIKmI3B5H+zNnOSQfBxo0av0k7BYlM4rdP7vb/4HIdm5cskEMD7gMfrzqP+/jpbfvtgzmKzHWCxNIwDPIZ4/b4B8DRo0CMchfJXPRP/2Q==" />
+<RemoteImage alt={`Puss In Boots`} size="medium"
+title={`Sheila wird Ende des Jahres 39`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Sheila-wird-Ende-des-Jahres-39__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Sheila-wird-Ende-des-Jahres-39__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAgME/8QAKRAAAgIBAwMCBgMAAAAAAAAAAQIDBBEABRIhQYExMgYHExRRYSNScf/EABcBAQEBAQAAAAAAAAAAAAAAAAMBAgT/xAAcEQACAgMBAQAAAAAAAAAAAAABAgADERIhQQT/2gAMAwEAAhEDEQA/ALKCzVoxImxV4pVjiysrllCjPTimOo9TnSCL5g7zfglpPVgNSTlG31ZcchkjK8R0yPzk50k2p2i2iLbK1yZa9HKxjlyKj8A+pByeh/OttDaLLtK9DlE7KMdOSonbyewGuRaxWMtH2B4BKD4PtLQt1nmuS37TSGvYnDHEkbkgcwekmB3IPpqH+OtwSTbGqJGYY57iQyPyVeKK/InyBp5slWepvYjvzPVCc2hQucSoT1UdjjPUHHprKlSO5fNzbYDAY6MEk9llAygdgI1U+X5D9Yxo7q1ZlceTDAk9iwARAw1kisWbJEaIr+5u3Xt/v61fzUalHZ61KvYNaKIKmI3B5H+zNnOSQfBxo0av0k7BYlM4rdP7vb/4HIdm5cskEMD7gMfrzqP+/jpbfvtgzmKzHWCxNIwDPIZ4/b4B8DRo0CMchfJXPRP/2Q=="
+/>
 
 Inzwischen kommt noch ein weiteres Problem hinzu: Es gibt Banden, die die Pferde
 von den Wiesen einsammeln und als Schlachtpferde zum Beispiel nach Italien
@@ -231,13 +224,12 @@ Greyhound mitnehmen?
 
 ## Die Besitzer unterschreiben das Todesurteil der Greyhounds
 
-<RemoteImage
-  alt="Puss In Boots"
-  size="medium"
-  title="Typisches Bild eine Rennhundes in einer Tötungsstation (Milli)"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Typisches-Rennhund-Foto-aus-einer-T%C3%B6tungsstation-So-sah-Milli-aus-als-sie-abgeholt-wurde__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Typisches-Rennhund-Foto-aus-einer-T%C3%B6tungsstation-So-sah-Milli-aus-als-sie-abgeholt-wurde__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcE/8QAKBAAAgEDAwQBBAMAAAAAAAAAAQIDAAQRBQYSEyExQWEUIlFxUoGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQACITH/2gAMAwEAAhEDEQA/ALXaWru17bBQS5lUY/Iz3qG6dy3st+6WUfKCNHLygZ6ZUE+PBAAOT6qu0ae00p3urm9i60OcKqs3FwDj1jOR+qSbrcty8k+maaIhBdQJbPc9Iu4jkfDIoIP3EHBPwceanS8Jxk62nbL3Kup2xE/S+pjbi3Tbkrj+Q/dObTIVLIwPvOfVZ/tjbVlbhG0+V0ljUK6NGw+MHIpsnsxHayN1W5qAeOPNOfaWyC40ySO/mR4pSSQwZo3HMk9gDxyc/wCV022iM1ys81rcS3IlDyF45OQwQQc8P6+KKK1QsxZ+0vWrO0mjabSp52TILvBIskYPvPgjHur8appmo8orOO+WUHvG1swI7gdvz59UUUHsrf/Z" />
+<RemoteImage alt={`Puss In Boots`} size="medium"
+title={`Typisches Bild eine Rennhundes in einer Tötungsstation (Milli)`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Typisches-Rennhund-Foto-aus-einer-T%C3%B6tungsstation-So-sah-Milli-aus-als-sie-abgeholt-wurde__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Typisches-Rennhund-Foto-aus-einer-T%C3%B6tungsstation-So-sah-Milli-aus-als-sie-abgeholt-wurde__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcE/8QAKBAAAgEDAwQBBAMAAAAAAAAAAQIDAAQRBQYSEyExQWEUIlFxUoGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQACITH/2gAMAwEAAhEDEQA/ALXaWru17bBQS5lUY/Iz3qG6dy3st+6WUfKCNHLygZ6ZUE+PBAAOT6qu0ae00p3urm9i60OcKqs3FwDj1jOR+qSbrcty8k+maaIhBdQJbPc9Iu4jkfDIoIP3EHBPwceanS8Jxk62nbL3Kup2xE/S+pjbi3Tbkrj+Q/dObTIVLIwPvOfVZ/tjbVlbhG0+V0ljUK6NGw+MHIpsnsxHayN1W5qAeOPNOfaWyC40ySO/mR4pSSQwZo3HMk9gDxyc/wCV022iM1ys81rcS3IlDyF45OQwQQc8P6+KKK1QsxZ+0vWrO0mjabSp52TILvBIskYPvPgjHur8appmo8orOO+WUHvG1swI7gdvz59UUUHsrf/Z"
+/>
 
 **Kara:** Das ist tatsächlich leider speziell bei den Greyhounds so, dass die
 Besitzer beim Abgeben in der Station ein Schreiben unterzeichnen können, das
@@ -275,13 +267,12 @@ können?
 
 ## „Vermutlich hat Puss In Boots bis jetzt nur an der Oberfläche gekratzt“
 
-<RemoteImage
-  alt="Puss In Boots"
-  size="medium"
-  title="Der aktuelle Sorgenfall Bumblebee"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Der-aktuelle-Sorgenfall-Bumblebee__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Der-aktuelle-Sorgenfall-Bumblebee__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABIDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBgcIA//EACsQAAICAQMCAwgDAAAAAAAAAAECAwQRAAUhBhIHMXETFCIjMkFhgUJRof/EABcBAQADAAAAAAAAAAAAAAAAAAEAAgP/xAAfEQACAgEEAwAAAAAAAAAAAAABAgARIQMSE2FRkfD/2gAMAwEAAhEDEQA/AIj1R1hvHUW6Ryi2swqFhXMfDquc5DA5PJz98frWhOhPEOC74dPav3Y4tyqQtH82QPLNIq/UI89x5I9dZW92lh3JJIaoSLGWMPbj0xnVpeGQhkhr3h7KGWK63vnw4lkARkCOCchSzBsY5K+mgOHIprgFxYkkTxP6uVFC7ZGwAwGksDuP5bHGf7xo07ubtYFucQWPld7dmJAOM8aNJ1EGK+9yU0qZtvqqB2x5I4IZ8A65rt0djfa1uK2YGftjlMTBhIgwCjgfUcfy/AP20ue0t6GKSORI2IDMFYMRnPnpw+4Q1qcFuw4kswMrFETDMScAeXPB/eg6a0dmIo209SGbrS6oqbpcrxy7g6QzPGrYLdwDEZznnRq/ksWAij2BPHmUPP8AmjVeVvE24u5//9k=" />
+<RemoteImage alt={`Puss In Boots`} size="medium"
+title={`Der aktuelle Sorgenfall Bumblebee`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Der-aktuelle-Sorgenfall-Bumblebee__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Der-aktuelle-Sorgenfall-Bumblebee__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABIDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBgcIA//EACsQAAICAQMCAwgDAAAAAAAAAAECAwQRAAUhBhIHMXETFCIjMkFhgUJRof/EABcBAQADAAAAAAAAAAAAAAAAAAEAAgP/xAAfEQACAgEEAwAAAAAAAAAAAAABAgARIQMSE2FRkfD/2gAMAwEAAhEDEQA/AIj1R1hvHUW6Ryi2swqFhXMfDquc5DA5PJz98frWhOhPEOC74dPav3Y4tyqQtH82QPLNIq/UI89x5I9dZW92lh3JJIaoSLGWMPbj0xnVpeGQhkhr3h7KGWK63vnw4lkARkCOCchSzBsY5K+mgOHIprgFxYkkTxP6uVFC7ZGwAwGksDuP5bHGf7xo07ubtYFucQWPld7dmJAOM8aNJ1EGK+9yU0qZtvqqB2x5I4IZ8A65rt0djfa1uK2YGftjlMTBhIgwCjgfUcfy/AP20ue0t6GKSORI2IDMFYMRnPnpw+4Q1qcFuw4kswMrFETDMScAeXPB/eg6a0dmIo209SGbrS6oqbpcrxy7g6QzPGrYLdwDEZznnRq/ksWAij2BPHmUPP8AmjVeVvE24u5//9k="
+/>
 
 **Kara:** In Irland zählen Hunde als Haustiere. Rennhunde jedoch als
 landwirtschaftliche Nutztiere. Man darf sie genauso halten wie Schweine, Schafe
@@ -309,13 +300,12 @@ Greyhound-Welpen sieht?
 
 ## „Die Trainer sorgen für das schlechte Image der Greyhounds in der Bevölkerung“
 
-<RemoteImage
-  alt="Puss In Boots"
-  size="medium"
-  title="Blue Mouse am Tag ihrer Ankunft"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Blue-Mouse-am-Tag-ihrer-Ankunft__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Blue-Mouse-am-Tag-ihrer-Ankunft__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAwQH/8QAJxAAAgEDAwMEAwEAAAAAAAAAAQIDAAQRBRIhBhMxIkFRYXGBobH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQEBAQEBAAAAAAAAAAAAAAABAAIRUf/aAAwDAQACEQMRAD8AR6PqzdOdArdQxAXMgwihjzI5zuP6wT+AKUWXWWuxKFkvnfjKljkff2DW71Dpjr0bZugylu43H5G3bn+f2pS1EEjYuwVDDbuX2+/uqqtnOTk+XWb3WdRsHvbx5BDOsiLwFUhh7D/TVzqE8/akxKTxkkDjzUNo9hA9zBFDGu9ptvknKjHqz4xXRb+xJ7hVfQ4Pvz4qC2nJ5Z7CyRrSOC4G6LaxZWG4Y4zxUte9DEXPc0x1e1J9SzNgpzgc458/miikKl0Lpez0wd2ZlluRjz4Hzj5preukcUrKY8KpXg+4Hiiilb//2Q==" />
+<RemoteImage alt={`Puss In Boots`} size="medium"
+title={`Blue Mouse am Tag ihrer Ankunft`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Blue-Mouse-am-Tag-ihrer-Ankunft__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Blue-Mouse-am-Tag-ihrer-Ankunft__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAwQH/8QAJxAAAgEDAwMEAwEAAAAAAAAAAQIDAAQRBRIhBhMxIkFRYXGBobH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQEBAQEBAAAAAAAAAAAAAAABAAIRUf/aAAwDAQACEQMRAD8AR6PqzdOdArdQxAXMgwihjzI5zuP6wT+AKUWXWWuxKFkvnfjKljkff2DW71Dpjr0bZugylu43H5G3bn+f2pS1EEjYuwVDDbuX2+/uqqtnOTk+XWb3WdRsHvbx5BDOsiLwFUhh7D/TVzqE8/akxKTxkkDjzUNo9hA9zBFDGu9ptvknKjHqz4xXRb+xJ7hVfQ4Pvz4qC2nJ5Z7CyRrSOC4G6LaxZWG4Y4zxUte9DEXPc0x1e1J9SzNgpzgc458/miikKl0Lpez0wd2ZlluRjz4Hzj5preukcUrKY8KpXg+4Hiiilb//2Q=="
+/>
 
 **Kara:** Ganz genau. Das und die Tatsache, dass der Renn-Industrie nach wir vor
 etwas daran gelegen ist, die Angst vor diesen Hunden in der Bevölkerung zu
@@ -337,13 +327,11 @@ Deutschland kommt?
 
 ## Puss In Boots bringt die Tiere direkt nach Hamburg
 
-<RemoteImage
-  alt="Puss In Boots"
-  size="medium"
-  title="Blue Mouse heute"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Blue-Mouse-heute__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Blue-Mouse-heute__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcFBggD/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBAURAAYhEiIxB0FhE1GBkRQycf/EABYBAQEBAAAAAAAAAAAAAAAAAAQFAf/EACIRAAICAQIHAQAAAAAAAAAAAAECAAMhERIEBRMUQVHR8P/aAAwDAQACEQMRAD8Ab9wuNpSOFrZQ1tapCl2gUMiqTgtkkZx9h+cah75u/aFoUmsrJFAwpIiIAb3AJxnHxrhdauDbG0rZeL1FDU0c8wjKFyrI3UXQoPBHa4IPx86zj68Xqnue7nrLPM4ttYhqFRhhkcnEinnkZGQfsfjW95xB0KtDvy+jyssW+K0bt3NLLbSy21UHQ71KhUB4zwT3HKnp86UVRUSU9RUq7uhV8AyAEsAfYff3ydMb04s1Vc7JXRRUkc3VJGSsnYOoKMjIYHPSc/ke+qPvSmFHuq704jR5IZ1U9TZ5AwePck5/zR2ffad2TEKgrQKoxHVu+WS/2uW2QVxq1aVayjo4++QyIhXsA8KQ3JPbwCdQFi9O6OlpKZt51sLo1SopqCNxhXkOBG8o5bz/AET940aNT+o1dSkHJ/YlGwBrGXTAjA2zFU1dLMlVBS2qgEv0aaijHdDGMYeQL4ZvOMePOs4b/mp5d5X6WllkI/nSqEIwCgbAP7zxo0aXSoDY9fIOw6gT/9k=" />
+<RemoteImage alt={`Puss In Boots`} size="medium" title={`Blue Mouse heute`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Blue-Mouse-heute__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Blue-Mouse-heute__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcFBggD/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBAURAAYhEiIxB0FhE1GBkRQycf/EABYBAQEBAAAAAAAAAAAAAAAAAAQFAf/EACIRAAICAQIHAQAAAAAAAAAAAAECAAMhERIEBRMUQVHR8P/aAAwDAQACEQMRAD8Ab9wuNpSOFrZQ1tapCl2gUMiqTgtkkZx9h+cah75u/aFoUmsrJFAwpIiIAb3AJxnHxrhdauDbG0rZeL1FDU0c8wjKFyrI3UXQoPBHa4IPx86zj68Xqnue7nrLPM4ttYhqFRhhkcnEinnkZGQfsfjW95xB0KtDvy+jyssW+K0bt3NLLbSy21UHQ71KhUB4zwT3HKnp86UVRUSU9RUq7uhV8AyAEsAfYff3ydMb04s1Vc7JXRRUkc3VJGSsnYOoKMjIYHPSc/ke+qPvSmFHuq704jR5IZ1U9TZ5AwePck5/zR2ffad2TEKgrQKoxHVu+WS/2uW2QVxq1aVayjo4++QyIhXsA8KQ3JPbwCdQFi9O6OlpKZt51sLo1SopqCNxhXkOBG8o5bz/AET940aNT+o1dSkHJ/YlGwBrGXTAjA2zFU1dLMlVBS2qgEv0aaijHdDGMYeQL4ZvOMePOs4b/mp5d5X6WllkI/nSqEIwCgbAP7zxo0aXSoDY9fIOw6gT/9k="
+/>
 
 **Kara:** Als erstes muss das Tier ausreisefertig gemacht werden. Das bedeutet,
 dass am Abreisetag ein Amtstierarzt da sein muss, der das Tier und seinen Chip
@@ -363,13 +351,12 @@ hat das Dein Leben mit dem Tierschutz mit sich gebracht?
 
 ## „Mit 11 habe ich beschlossen, kein Fleisch mehr zu essen“
 
-<RemoteImage
-  alt="Puss In Boots"
-  size="medium"
-  title="Hier wurde Monkey gefunden"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Monkey__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Monkey__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgj/xAAsEAABAwMCAwcFAQAAAAAAAAABAgMEAAURBhITISIxQVFSYZHRBxQycYHx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwIAAf/EABoRAAIDAQEAAAAAAAAAAAAAAAACAREhEjH/2gAMAwEAAhEDEQA/AGF6tkhVmmNREbHeA4toIBzvSMpxj1Ap/YZ8W96YgXmMW1MSWUrIBCihwgb0qx3gml2tfum9H3xyGp8SVRFpaA6uvafxHrUn+hepmrPMZtK3Eog3VwNBCuXClAYB5+YdJPjtrLPpTQVbVltEuxXmEFJHHhuhJA5Y2HAB/YorQzSkvBKQDv3Zx39nyaKoO6kRXXUMeTb7pbIymVSg3tUysdSyOwox7/yuanY8+zIuCoslxsuOqbLaDguDdlOfHCsVQjcBG1k0sOApef2AqTzGU7eZB7D80svMSOvXLKS22GJLPFRlOQl0KAWfHGDR91o/FlsjT3HoER+WEh9bSFLI8xRk+5zRWRm3pLbS20qOG8H0x/lFch8CZdP/2Q==" />
+<RemoteImage alt={`Puss In Boots`} size="medium"
+title={`Hier wurde Monkey gefunden`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Monkey__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Monkey__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgj/xAAsEAABAwMCAwcFAQAAAAAAAAABAgMEAAURBhITISIxQVFSYZHRBxQycYHx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwIAAf/EABoRAAIDAQEAAAAAAAAAAAAAAAACAREhEjH/2gAMAwEAAhEDEQA/AGF6tkhVmmNREbHeA4toIBzvSMpxj1Ap/YZ8W96YgXmMW1MSWUrIBCihwgb0qx3gml2tfum9H3xyGp8SVRFpaA6uvafxHrUn+hepmrPMZtK3Eog3VwNBCuXClAYB5+YdJPjtrLPpTQVbVltEuxXmEFJHHhuhJA5Y2HAB/YorQzSkvBKQDv3Zx39nyaKoO6kRXXUMeTb7pbIymVSg3tUysdSyOwox7/yuanY8+zIuCoslxsuOqbLaDguDdlOfHCsVQjcBG1k0sOApef2AqTzGU7eZB7D80svMSOvXLKS22GJLPFRlOQl0KAWfHGDR91o/FlsjT3HoER+WEh9bSFLI8xRk+5zRWRm3pLbS20qOG8H0x/lFch8CZdP/2Q=="
+/>
 
 **Kara:** Eines Tages im Alter von 11 Jahren lief ich aus der Schule nach Hause.
 Bei uns im Ort gab es einen Schlachter, der noch selbst geschlachtet hat. Ich
@@ -396,13 +383,11 @@ Kleinigkeit, die jeder dazu beitragen kann, dass es den Tieren besser geht.
 
 ## "Es ist ein Mythos, dass es keinen Lebendrupf gibt"
 
-<RemoteImage
-  alt="Puss In Boots"
-  size="medium"
-  title="Monkey heute"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Monkey-heute-e1510485774962__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Monkey-heute-e1510485774962__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAsEAABAwIFBAECBwAAAAAAAAABAgMEBREABhITIQciMVFBFHEVMjNhgZHB/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUBAgP/xAAgEQABAwQCAwAAAAAAAAAAAAABAAIDERIhMgRBkaGx/9oADAMBAAIRAxEAPwBhXei7cmQqRElNbhRZXIQlSrC6ikpIF+fFsQIyhIbryqAhMCTUW5KowaWVIUDtbgVe2nSRwFe/jGyx+oVOajzFiQZaoSy3JYaIS8kjz2OFPHm/2PrGK5Azcw/n7MGaJ7Mj6MSnZ4ShzUU3uEoveyrC3H7cYWwOmcHXdD2j5WsaQG9p1I6UVv8ADNEylRHFtqWptLEoFaUqtYeO7x44wYtovWnJ7zSlKmyojqeFNzYqwokccFGoe/nBiol5LcWnwVJjhObvigM1UuNVZMeRWFxER2ApL7kj9SxSbELv3AG3b/WF+RaVKdYkx6rH32pay2xLcG2NsFI1aOLXSj78847oDj9fmuVGrU+RHd3HXUQywEMMpPgoJN1mxI9j+cO49QbQsK1gfKAj8o/zDDYUQuhqsp6jZaNKqb9QhtpbpD8goZSV3WhYFylQNjzyQRcWODDHqI8VZog1GYkyIJCBsaim4QRrT6STgwQ0YCxJqV//2Q==" />
+<RemoteImage alt={`Puss In Boots`} size="medium" title={`Monkey heute`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Monkey-heute-e1510485774962__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Monkey-heute-e1510485774962__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAsEAABAwIFBAECBwAAAAAAAAABAgMEBREABhITIQciMVFBFHEVMjNhgZHB/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUBAgP/xAAgEQABAwQCAwAAAAAAAAAAAAABAAIDERIhMgRBkaGx/9oADAMBAAIRAxEAPwBhXei7cmQqRElNbhRZXIQlSrC6ikpIF+fFsQIyhIbryqAhMCTUW5KowaWVIUDtbgVe2nSRwFe/jGyx+oVOajzFiQZaoSy3JYaIS8kjz2OFPHm/2PrGK5Azcw/n7MGaJ7Mj6MSnZ4ShzUU3uEoveyrC3H7cYWwOmcHXdD2j5WsaQG9p1I6UVv8ADNEylRHFtqWptLEoFaUqtYeO7x44wYtovWnJ7zSlKmyojqeFNzYqwokccFGoe/nBiol5LcWnwVJjhObvigM1UuNVZMeRWFxER2ApL7kj9SxSbELv3AG3b/WF+RaVKdYkx6rH32pay2xLcG2NsFI1aOLXSj78847oDj9fmuVGrU+RHd3HXUQywEMMpPgoJN1mxI9j+cO49QbQsK1gfKAj8o/zDDYUQuhqsp6jZaNKqb9QhtpbpD8goZSV3WhYFylQNjzyQRcWODDHqI8VZog1GYkyIJCBsaim4QRrT6STgwQ0YCxJqV//2Q=="
+/>
 
 **Kara:** Es wäre zum Beispiel toll, wenn alle darauf verzichten würden, in
 Daunenbettwäsche zu schlafen. Das ist wirklich eine Kleinigkeit. Für die Gänse

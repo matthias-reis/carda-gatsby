@@ -16,14 +16,14 @@ labels:
   - Alternative
   - AMENRA
   - Amplifier
-  - AND SO I WATCH YOU FROM AFAR
+  - And So I Watch You From Afar
   - And You Will Know Us By The Trail Of Dead
   - anders
   - Angelo Bardelamenti
   - Anti Flag
   - Arcade Fire
   - At The Drive In
-  - Bands & Reviews
+  - Bands
   - BARST
   - Briqueville
   - Calexico
@@ -49,7 +49,7 @@ labels:
   - musikalisch
   - Nine Inch Nails
   - Opeth
-  - Post Rock
+  - Post-Rock
   - Postrock
   - Primus
   - Pulled Apart By Horses
@@ -110,13 +110,11 @@ Die Church of Ra ist eine sehr musikalische. Bewiesen wird das auf diesem Album.
 ### And So I Watch You From Afar - "Three Triangles" vom Album The Endless Shimmering
 Als Fan der ersten Stunde bekam ich glänzende Augen, als ich vom neuen Album erfuhr. Schwelgen konnte ich darin ausgiebig auf dem diesjährigen  [Dunk Festival](/2017/06/dunk-festival-2017-eindruecke-und-bilder/).  Ich genieße es nach wie vor regelmäßig
 
-<RemoteImage
-  alt="songliste-2017"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_And-So-I-Watch-You-From-Afar_ENDLESS__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_And-So-I-Watch-You-From-Afar_ENDLESS__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcDBAAGCP/EACsQAAICAQIFAwIHAAAAAAAAAAECAxEEAAUGEhMhMQciUUFhFBUXMnGB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAECBf/EAB4RAAIBBAMBAAAAAAAAAAAAAAABAhESEzEEIUED/9oADAMBAAIRAxEAPwBh5kRSy3PV3VnQ3nAvn6oB+/8AmgO8Z+/4nqjjwyZ5GwPKEkgZV6KQshCtzVYk5qNef61Z4m3jF2cl8uaOJGfprb93arpfk6lciNbfRfHmld4S5LKEpBJzEV+49ta/nt76slR8/wA/U6D5HFaS56YkTqk0sgjCyEg2SAO1eLI76iTN3P8AOM/FyopDFiymOQJAG6dELbOGoW3MQKsjTkS2GOT0NTjH0+3LeuJ5c+LMTGxM6aNZoYQWZFVa6jOe1+SFrsTqtxr6dZ3Fm4K2buESLjQt+EKLcq+BTsABbeSVHnt401pGs1fbUTtQ86zNOqZoXOSozm/9It/3fEx9ygzMHbs3HSIY8cpdmLIAbkpfa10fr9xrMnbt0XjLG3DirYcfqZjGDLieX2hgQUyIyPawDfewCew0/GwsWLOmzIYo1yp1VZZQCC4XxfzXz50P3TCxtxhMObDHNGDzBXFi9TL7ujjLtDj7uif/2Q==" />
+<RemoteImage alt={`songliste-2017`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_And-So-I-Watch-You-From-Afar_ENDLESS__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_And-So-I-Watch-You-From-Afar_ENDLESS__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcDBAAGCP/EACsQAAICAQIFAwIHAAAAAAAAAAECAxEEAAUGEhMhMQciUUFhFBUXMnGB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAECBf/EAB4RAAIBBAMBAAAAAAAAAAAAAAABAhESEzEEIUED/9oADAMBAAIRAxEAPwBh5kRSy3PV3VnQ3nAvn6oB+/8AmgO8Z+/4nqjjwyZ5GwPKEkgZV6KQshCtzVYk5qNef61Z4m3jF2cl8uaOJGfprb93arpfk6lciNbfRfHmld4S5LKEpBJzEV+49ta/nt76slR8/wA/U6D5HFaS56YkTqk0sgjCyEg2SAO1eLI76iTN3P8AOM/FyopDFiymOQJAG6dELbOGoW3MQKsjTkS2GOT0NTjH0+3LeuJ5c+LMTGxM6aNZoYQWZFVa6jOe1+SFrsTqtxr6dZ3Fm4K2buESLjQt+EKLcq+BTsABbeSVHnt401pGs1fbUTtQ86zNOqZoXOSozm/9It/3fEx9ygzMHbs3HSIY8cpdmLIAbkpfa10fr9xrMnbt0XjLG3DirYcfqZjGDLieX2hgQUyIyPawDfewCew0/GwsWLOmzIYo1yp1VZZQCC4XxfzXz50P3TCxtxhMObDHNGDzBXFi9TL7ujjLtDj7uif/2Q=="
+/>
 
 ### Amplifier - "Anubis" vom Album Trippin' With Dr. Faustus
 
@@ -133,7 +131,7 @@ Eine kleine Sensation war die neue Single von A Perfect Circle. Eingefleischten 
 <iframe src="https://www.youtube.com/embed/SDvfbvuJtS8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ### Calexico - "Voices In The Field" vom Album The Tread That Keeps Us
-Die zweite Auskopplung vom für Januar angekündigten neuen  [Calexico](/category/musik/calexico/)  Werk The Tread That Keeps Us geht meiner Meinung nach noch mehr ins Ohr als „ [End Of The World With You](/2017/10/calexico-the-thread-that-keeps-us/) “. Doch hört selbst. Es ist Geschmacksache. Auf das Album bin ich allemal gespannt wie zwei Regenschirme.
+Die zweite Auskopplung vom für Januar angekündigten neuen Calexico Werk The Tread That Keeps Us geht meiner Meinung nach noch mehr ins Ohr als „ [End Of The World With You](/2017/10/calexico-the-thread-that-keeps-us/) “. Doch hört selbst. Es ist Geschmacksache. Auf das Album bin ich allemal gespannt wie zwei Regenschirme.
 
 <iframe src="https://www.youtube.com/embed/9Xq2CnmSB_M" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>

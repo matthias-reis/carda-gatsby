@@ -14,6 +14,7 @@ labels:
   - banana yoshimoto
   - dark knight
   - Feierabend
+  - Geschichten & Erlebtes
   - herzberg festival
   - Listener
   - Mittagspause
@@ -21,7 +22,6 @@ labels:
   - Nicola Tesla
   - Schlafstörungen
   - Schnappschuss
-  - Tagebuch
   - Weltpremiere
   - Wooden Heart
 type: Artikel
@@ -39,17 +39,19 @@ subTitle: Ein ganz normaler Donnerstag
   
 ---
 
+**Leider hat es gestern mit dem Fotobeitrag nicht mehr geklappt. Dafür
+entschuldige ich mich hiermit.**
+
 Heute Abend dürfte die Zeit auch wieder knapp werden, aber vielleicht wird dafür
 der Beitrag zum Herzberg Festival fertig, der wesentlich kürzer ist. Versprechen
 werde ich das aber auch nicht.
 
-<RemoteImage
-  alt=""
-  size="medium"
-  title="Aufregender Mittagspausenschnappschuss"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120802_125542__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120802_125542__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAAwEAABBAECBAMFCQAAAAAAAAABAgMEBREABgcSITETIoEUQVFhoRYjJDJCUpHw8f/EABgBAAMBAQAAAAAAAAAAAAAAAAECBAMF/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxESIaH/2gAMAwEAAhEDEQA/AGDcd1Lrr61mWlzeIi+2vNtNRPHWlCEqwAEtjCQAB3xoZA4xbWU74Tl/dITnHiPNvcoPzIJP00xMyJUXcV3yKXyme+UgL93OTqdcf9uRJlF9ooUNtqxjOpEpxocvisqyOZQHchRT5u+Ce+udVYjvy+zQkgeSyxX3bOvZmVlvIkxXkc7bzElSkqHxBB/zQtpdzG3LVKTaz1MmU2lxtb6lIUgqAUCknB6HXMPDXc8iu3FQQZ9zIg7fZsky30Bag2D0yVAdcHlAOegyTjvrrjyqsoCgUn8Q0QQcggqBGD7xp7qzUw9hU9CIbs3xd13TKXQCJ8hAzj8wWrAx/emlTjjYqj7EEZRWXpspDPb9Iysgfwkevz1st6zcsfe9+oUNu42uyedYeZiqUhballSVBaRg9D6djo+5VTZrkN+btyU6/EdDrK3Yi8tqOMqHTv0+g1HhrtDkaI/OrIDfcOb6j26xcymm1MlsLktJP3kXJwAse/oU5x2Jwe2dXbgvdF/ZO0WZZKnUPCOhR/al4pSPQYHprZexrWVTzoblJYvpkMuNFIiOeYKSR8Pjpb2PQX8Cw2jXIpbVtiHIjl55yMtttICudxSlKAGM8301Q173IAw935AECnRP/9k=" />
+<RemoteImage alt={``} size="medium"
+title={`Aufregender Mittagspausenschnappschuss`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120802_125542__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120802_125542__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAAwEAABBAECBAMFCQAAAAAAAAABAgMEBREABgcSITETIoEUQVFhoRYjJDJCUpHw8f/EABgBAAMBAQAAAAAAAAAAAAAAAAECBAMF/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxESIaH/2gAMAwEAAhEDEQA/AGDcd1Lrr61mWlzeIi+2vNtNRPHWlCEqwAEtjCQAB3xoZA4xbWU74Tl/dITnHiPNvcoPzIJP00xMyJUXcV3yKXyme+UgL93OTqdcf9uRJlF9ooUNtqxjOpEpxocvisqyOZQHchRT5u+Ce+udVYjvy+zQkgeSyxX3bOvZmVlvIkxXkc7bzElSkqHxBB/zQtpdzG3LVKTaz1MmU2lxtb6lIUgqAUCknB6HXMPDXc8iu3FQQZ9zIg7fZsky30Bag2D0yVAdcHlAOegyTjvrrjyqsoCgUn8Q0QQcggqBGD7xp7qzUw9hU9CIbs3xd13TKXQCJ8hAzj8wWrAx/emlTjjYqj7EEZRWXpspDPb9Iysgfwkevz1st6zcsfe9+oUNu42uyedYeZiqUhballSVBaRg9D6djo+5VTZrkN+btyU6/EdDrK3Yi8tqOMqHTv0+g1HhrtDkaI/OrIDfcOb6j26xcymm1MlsLktJP3kXJwAse/oU5x2Jwe2dXbgvdF/ZO0WZZKnUPCOhR/al4pSPQYHprZexrWVTzoblJYvpkMuNFIiOeYKSR8Pjpb2PQX8Cw2jXIpbVtiHIjl55yMtttICudxSlKAGM8301Q173IAw935AECnRP/9k="
+/>
 
 Heute Nacht hat es geregnet, inzwischen ist auf dem Asphalt allerdings jedes
 kleinste Bisschen Wasser schon wieder verdampft.
@@ -90,7 +92,7 @@ ich den Preis nicht einsehe.)** **22.11.2012 Archive** **29.11.2012 Calexico**
 Ich freue mich. Das werden wirklich tolle Konzerte.
 
 Und das Wochenende. Großstadt. Läden abklappern. Flohmarkt. Sonne. Eis im Park.
-Doch nun erstmal einen Kaffee. Schwarz mit Zucker. An dieser Stelle möchte ich
+Doch nun erstmal einen Kaffee. Schwarz mit Zucker. An dieser Stelle möchte ich
 heute mal Nicola Tesla zitieren. Mir macht das auch nichts aus, wenn man meinen
 Gedankensprüngen nicht folgen kann.
 
@@ -130,26 +132,30 @@ shipwrecks, every single board_ _washed and bound like crooked teeth on these
 rocky shores_ _so come on and let’s wash each other with tears of joy and tears
 of grief_ _and fold our lives like crashing waves and run up on this beach_
 _come on and sew us together, tattered rags stained forever_ _we only have what
-we remember_ _I am the barely living son of a woman and man who barely made it_
-_but we’re making it taped together on borrowed crutches and new starts_ _we all
-have the same holes in our hearts..._ _everything falls apart at the exact same
-time_ _that it all comes together perfectly for the next step_ _but my fear is
-this prison... that I keep locked below the main deck_ _I keep a key under my
-pillow, it’s quiet and it’s hidden_ _and my hopes are weapons that I’m still
-learning how to use right_ _but they’re heavy and I’m awkward...always running
-out of fight_ _so I’ve carved a wooden heart, put it in this sinking ship_
-_hoping it would help me float for just a few more weeks_ _because I am made out
-of shipwrecks, every twisted beam_ _lost and found like you and me scattered out
-on the sea_ _so come on let’s wash each other with tears of joy and tears of
-grief_ _and fold our lives like crashing waves and run up on this beach_ _come
-on and sew us together, just some tattered rags stained forever_ _we only have
-what we remember_ _My throat it still tastes like house fire and salt water_ _I
-wear this tide like loose skin, rock me to sea_ _if we hold on tight we’ll hold
-each other together_ _and not just be some fools rushing to die in our sleep_
-_all these machines will rust I promise, but we'll still be electric_ _shocking
-each other back to life_ _Your hand in mine, my fingers in your veins connected_
-_our bones grown together inside_ _our hands entwined, your fingers in my veins
-braided_ _our spines grown stronger in time_ _because are church is made out of
+we remember_
+
+_I am the barely living son of a woman and man who barely made it_ _but we’re
+making it taped together on borrowed crutches and new starts_ _we all have the
+same holes in our hearts..._ _everything falls apart at the exact same time_
+_that it all comes together perfectly for the next step_ _but my fear is this
+prison... that I keep locked below the main deck_ _I keep a key under my pillow,
+it’s quiet and it’s hidden_ _and my hopes are weapons that I’m still learning
+how to use right_ _but they’re heavy and I’m awkward...always running out of
+fight_ _so I’ve carved a wooden heart, put it in this sinking ship_ _hoping it
+would help me float for just a few more weeks_ _because I am made out of
+shipwrecks, every twisted beam_ _lost and found like you and me scattered out on
+the sea_ _so come on let’s wash each other with tears of joy and tears of grief_
+_and fold our lives like crashing waves and run up on this beach_ _come on and
+sew us together, just some tattered rags stained forever_ _we only have what we
+remember_
+
+_My throat it still tastes like house fire and salt water_ _I wear this tide
+like loose skin, rock me to sea_ _if we hold on tight we’ll hold each other
+together_ _and not just be some fools rushing to die in our sleep_ _all these
+machines will rust I promise, but we'll still be electric_ _shocking each other
+back to life_ _Your hand in mine, my fingers in your veins connected_ _our bones
+grown together inside_ _our hands entwined, your fingers in my veins braided_
+_our spines grown stronger in time_ _because are church is made out of
 shipwrecks_ _from every hull these rocks have claimed_ _but we pick ourselves
 up, and try and grow better through the change_ _so come on yall and let’s wash
 each other with tears of joy and tears of grief_ _and fold our lives like

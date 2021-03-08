@@ -12,6 +12,7 @@ excerpt: Affiliate Link - Friedensnobelpreisträger Muhammad Yunus findet es im
   überdenken. Ich habe sein neues Buch gelesen.
 focusKeyword: Kapitalismus
 labels:
+  - Antifaschismus & Feminismus
   - Bangladesh
   - Bücher & Filme
   - Cittadong University
@@ -26,7 +27,6 @@ labels:
   - Muhammad Yunus
   - Nachhaltigkeit
   - Perspektive
-  - Politik & Soziales
   - Social Business
   - Sozialismus
   - Umwelt
@@ -95,9 +95,8 @@ zwischenmenschlichen Beziehungen. Er stellte fest, dass sich Menschen zwar
 durchaus auch egoistisch, aber in gleichem Maße auch selbstlos und fürsorglich
 verhalten. Ihnen sei nicht nur das eigene Vermögen wichtig, sondern ebenso die
 gegenseitige Unterstützung, die Weiterentwicklung der Gesellschaft als Ganzes,
-der [Schutz der Umwelt](/category/gesellschaft/klima-umweltschutz/), sowie die
-Freude, Liebe und Schönheit. Besonders das Thema Selbstlosigkeit arbeitet er
-heraus.
+der [Schutz der Umwelt](/category/vegan/klima-umweltschutz/), sowie die Freude,
+Liebe und Schönheit. Besonders das Thema Selbstlosigkeit arbeitet er heraus.
 
 ## Auf der Suche nach Lösungen für Umweltprobleme
 

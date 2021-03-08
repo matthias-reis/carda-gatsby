@@ -19,6 +19,7 @@ labels:
   - Fell
   - Frühstück bei Tiffany
   - Frühstück bei Tiffanys
+  - Geschichten & Erlebtes
   - Hauskatze
   - Hauskatzen
   - Haustiere
@@ -37,7 +38,6 @@ labels:
   - Liebe
   - live
   - Me
-  - Prosa
   - sofa
   - teppich
   - Tiere
@@ -48,8 +48,7 @@ date: 2012-08-30T08:55:11.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Unexpected token (81:9)"
+errors: {}
 thumbnailId: "4116"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_cat2-kc3b6rnung-und-aufhellung-horzgerahmt__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_cat2-kc3b6rnung-und-aufhellung-horzgerahmt__l.jpg
@@ -58,9 +57,9 @@ subTitle: Geschichte zum Thema Katzenliebe
   
 ---
 
-## unknown: Unexpected token (81:9)
+**Du freust Dich jedes Mal, wenn jemand die Tür aufschließt. Du drehst Deine
+Runden um die Hosenbeine, bis diese ganz grau sind von Deinem Fell.**
 
-<!--
 Du bist für mich da, wenn es mir schlecht geht, und tobst mit mir herum, wenn
 die Laune wieder besser ist. Du bringst mich auf die Palme und holst mich zurück
 auf den Teppich.
@@ -82,13 +81,11 @@ immer mit diesem teils fragenden, teils schlitzohrigen Blick, den Kopf leicht
 schräg, bereit zum Absprung davor, wenn die Tür geöffnet ist. Bis jetzt habe ich
 es noch immer geschafft, ihn rechtzeitig zu schließen.
 
-<RemoteImage
-  alt=""
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_chili-perfekt__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_chili-perfekt__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYIBwP/xAAtEAABAwMDBAIBAgcAAAAAAAABAgMEBREhAAYSBxMiMRRBURUjJDIzYXGBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAEDAAL/xAAaEQADAAMBAAAAAAAAAAAAAAAAARECEiFB/9oADAMBAAIRAxEAPwDbtwCpt1l1cfc0+HHPbKYzcOO4hFkZAUpsq8iQSSTa2MaXa/J3LHhzX4W8JgX5dhApDDnFSiShJNhcDAvb0LnOdN1eqEemOVSVMTzZai9wpF7kpSDbGon3lv8ArVdqC33JL0ZPI/Hj8xZlOPEWAvn796O0rcNJOlCsdSK444lpVVW1LjOgyWlw2eKwkJ5oT95yRm4J/Ato30+6kjcO6GKX+rLkqW29dpyGlskhJUFck+iOKh+D/nOpj6d7lq0KW1H+PIqcdsur+KE8wkL/AKihjxJxc/eNPnQcxl9aYzlNYe+KsSFc3lfyDsL8QQfLJt/zSSKd3O20GH1L7X7iUpUlSeRUkgAjjcXxrAq7smhU3e8hn9EoMHZ7AjuSqhPDiv4rgpRbasq6rpcHgfHx/I1SrgSpzke2rA9lN/XrOsi6jbOqu8qGiE7S30PGQ48lZlsISwpRsV+K/M29Aj/Y0enVUgnU3b3R6pUubEpE3j2mip19Up9kkE4UOVgbH0LEDGDor04epDm/NsU6kPuyWKPCfjMPOoSOae0u6griCfoevrXKj9IZdJjdqNTkrcsLvPSWlrUR/flj79aPbI2JWKRven1OZGZRGZDwWsPoJHJpSRgKv7I1gTaTP//Z" />
+<RemoteImage alt={`} size="medium" title={`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_chili-perfekt__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_chili-perfekt__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYIBwP/xAAtEAABAwMDBAIBAgcAAAAAAAABAgMEBREhAAYSBxMiMRRBURUjJDIzYXGBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAEDAAL/xAAaEQADAAMBAAAAAAAAAAAAAAAAARECEiFB/9oADAMBAAIRAxEAPwDbtwCpt1l1cfc0+HHPbKYzcOO4hFkZAUpsq8iQSSTa2MaXa/J3LHhzX4W8JgX5dhApDDnFSiShJNhcDAvb0LnOdN1eqEemOVSVMTzZai9wpF7kpSDbGon3lv8ArVdqC33JL0ZPI/Hj8xZlOPEWAvn796O0rcNJOlCsdSK444lpVVW1LjOgyWlw2eKwkJ5oT95yRm4J/Ato30+6kjcO6GKX+rLkqW29dpyGlskhJUFck+iOKh+D/nOpj6d7lq0KW1H+PIqcdsur+KE8wkL/AKihjxJxc/eNPnQcxl9aYzlNYe+KsSFc3lfyDsL8QQfLJt/zSSKd3O20GH1L7X7iUpUlSeRUkgAjjcXxrAq7smhU3e8hn9EoMHZ7AjuSqhPDiv4rgpRbasq6rpcHgfHx/I1SrgSpzke2rA9lN/XrOsi6jbOqu8qGiE7S30PGQ48lZlsISwpRsV+K/M29Aj/Y0enVUgnU3b3R6pUubEpE3j2mip19Up9kkE4UOVgbH0LEDGDor04epDm/NsU6kPuyWKPCfjMPOoSOae0u6griCfoevrXKj9IZdJjdqNTkrcsLvPSWlrUR/flj79aPbI2JWKRven1OZGZRGZDwWsPoJHJpSRgKv7I1gTaTP//Z"
+/>
 
 Du magst gerne Blumenerde. Und Palmenblätter. Genüsslich zernagst Du sie, bis
 nur noch das Gerippe übrig ist. Dein Bruder bevorzugt Gräser. Und Rosenblätter,
@@ -102,11 +99,11 @@ und der Liebe zum Kunststoff mit lautem Gekecker Ausdruck verliehen.
 
 Wenn es um die Ernährung geht, seid Ihr beide sehr wählerisch. Ihr gebt Euch
 nicht mit allem zufrieden, was auf den Tisch kommt. Auch scheinst Du
-grundsätzlich immer etwas Anderes zu wollen, als Dein Bruder. Habt Ihr Euch doch
-mal auf eine Leibspeise geeinigt, die Ihr dann ein paar Wochen lang zu lieben
-scheint, ziehe ich los, um einen großen Sack davon zu erstehen. Kaum bin ich mit
-diesem Sack zu Hause angekommen, hasst Ihr diese Leibspeise plötzlich auf den
-Tod. Was ich natürlich niedlich finde.
+grundsätzlich immer etwas Anderes  zu wollen, als Dein Bruder. Habt Ihr Euch
+doch mal auf eine Leibspeise geeinigt, die Ihr dann ein paar Wochen lang zu
+lieben scheint, ziehe ich los, um einen großen Sack davon zu erstehen. Kaum bin
+ich mit diesem Sack zu Hause angekommen, hasst Ihr diese Leibspeise plötzlich
+auf den Tod. Was ich natürlich niedlich finde.
 
 Genau wie das Verteilen Eures wunderbar weichen, seidigen Haarkleides über all
 meine Habseligkeiten, das Verstreuen der Katzenkistensteinchen, die ich schon an
@@ -126,7 +123,7 @@ gespannt darauf, ob ihn vielleicht doch noch ein paar vereinzelte Tropfen
 verlassen.
 
 Ich drehe ihn dann etwas auf, ganz leicht, gerade so, dass ein bindfadendünnes
-Rinnsal herauskommt. Du spielst damit, möchtest es fangen. Innerlich wirst Du
+ Rinnsal herauskommt. Du spielst damit, möchtest es fangen. Innerlich wirst Du
 wieder zum kleinen Kätzchen.
 
 Wenn Du Dich ausgetobt hast, springst Du aus der Wanne und lässt Dich gemütlich
@@ -149,15 +146,13 @@ Taten. Auf leisen Tatzen.
 _Dieser Text ist Oskar und Chili gewidmet. Eigentlich sollte es heißen "Ode an
 DIE Kater", denn ich liebe Euch beide, meine wolligen Mitbewohner._
 
-<RemoteImage alt=" &quot;I'm like cat here, a no-name slob. We belong to nobody,
-and nobody belongs to us. We don't even belong to each other.&quot;" size="full"
-title=""I'm like cat here, a no-name slob. We belong to nobody, and nobody
-belongs to us. We don't even belong to each other.""
+<RemoteImage
+alt={`&quot;I'm like cat here, a no-name slob. We belong to nobody, and nobody belongs to us. We don't even belong to each other.&quot;`}
+size="full"
+title={`"I'm like cat here, a no-name slob. We belong to nobody, and nobody belongs to us. We don't even belong to each other."`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_cat2-kc3b6rnung-und-aufhellung-horzgerahmt__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_cat2-kc3b6rnung-und-aufhellung-horzgerahmt__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYBBAcI/8QAJxAAAgICAQQCAQUBAAAAAAAAAQIDBQQRBgAHEiETMSIUFRYyYUH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIRAyH/2gAMAwEAAhEDEQA/AE67uecZ3dK2q6a9vmklucmDExksZlQ6mcAa8tKgGvf0AOqnPbLmnGJf0r8vvZB8QkSRbGZS2yVYEFyRpkYD39aPreuuhuOdva7A7hX17FnWLWDHIeJneMjHMknkxQeH+ke9+j0D7qdp6O9u47HIy7OCeeACRYJIwh8T6IBQ6+/+aHU9PcCJzyurEWjz7zlONY4ldzPNNhAiyp8drMjS+UeyiKzL+QbQZSQRrY8upxaXmVDacVzbLn1lM89riQ5NbLnZPkoeVdD2xVgy72rBTo/RHWl1HEv2atxqqru7XFw3HyajXHDKwJ/IH4thvX9vv/ehKds6v+Q1WXJYWs08NhDk+UrxMXdXUjZMe/sDetdZ+Zbd2PdoKBP/2Q=="
 />
-
--->
 
   

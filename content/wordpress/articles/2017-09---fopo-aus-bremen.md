@@ -17,6 +17,7 @@ labels:
   - Erasmus
   - Essen retten
   - fopo
+  - Klima & Umweltschutz
   - klimaneutral
   - Klimawandel
   - loveuglyfood
@@ -28,7 +29,6 @@ labels:
   - save food
   - Stevia
   - Thought For Food
-  - Vegane Produkte
   - Wasser sparen
 type: Artikel
 typeName: Produkttest
@@ -37,7 +37,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <sub> (46:121)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <sub> (44:121)"
 thumbnailId: "17824"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_36120796434_a5e06c5c5e_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_36120796434_a5e06c5c5e_k__l.jpg
@@ -46,7 +46,7 @@ subTitle: Trockenfrüchte fürs Klima
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;sub> (46:121)
+## unknown: Expected corresponding JSX closing tag for &lt;sub> (44:121)
 
 <!--
 Werbung\*
@@ -70,13 +70,11 @@ _FoPo_ . Die Produkte gibt es im Online-Shop oder im Supermarkt.
 
 ## Ein Projekt von Studienkollegen
 
-<RemoteImage
-  alt="FoPo"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_36146928163_15f28fcbe8_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_36146928163_15f28fcbe8_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUD/8QAKBAAAgEDAwQBBAMAAAAAAAAAAQIDBAURABIhBhMiMRQyQVHhFSTR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMFBv/EACURAAECBQMEAwAAAAAAAAAAAAECAwAEERIhBUFhEzHB8CJRgf/aAAwDAQACEQMRAD8As3LqKvobrNRQwwVlPGqkPPLINwZQT444/WoW2+V1fVNTSxxxRmNpP6xkeQlfsATzqFFcLbWdUqbwkUTyRIscMUZ7bMMjy5P+a1aW1wxXBay2U7bey+CHbcGxnjJPB8lx7BweOdRmH0dJQQklVpNdoPLS02qaCrhYDkb0xxz98xz6jdrVQrWSS/JnSFnjjcbHUKN5Gc++ADwfekGq64qKiED+NVVGTgVTcn8/TpvvddFPaZoLe0aSz0vYaSQF2IxjLHk5AJ9aXLtPZfgPJbaihqYlR1PbTa6HZtQEMA3s5+/0+9B0mYU4hReznB7beiHanLOFVUECg7fvpPEX3pkVWkXAkw3lgZAHPB0yi2Ctub1E1XVtIsfyFBl8VIXfgL6xnRo1KUSHJhd2cx0U+4pmUa6ZpjwI2lhhNJE0NPTwqm7IjjAZtp4yf1pD6lggkr5GWCOMNsfEahcnnk/k8+9GjTNUSlDXxFIz9AcW4+bzXHmP/9k=" />
+<RemoteImage alt={`FoPo`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_36146928163_15f28fcbe8_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_36146928163_15f28fcbe8_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUD/8QAKBAAAgEDAwQBBAMAAAAAAAAAAQIDBAURABIhBhMiMRQyQVHhFSTR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMFBv/EACURAAECBQMEAwAAAAAAAAAAAAECAwAEERIhBUFhEzHB8CJRgf/aAAwDAQACEQMRAD8As3LqKvobrNRQwwVlPGqkPPLINwZQT444/WoW2+V1fVNTSxxxRmNpP6xkeQlfsATzqFFcLbWdUqbwkUTyRIscMUZ7bMMjy5P+a1aW1wxXBay2U7bey+CHbcGxnjJPB8lx7BweOdRmH0dJQQklVpNdoPLS02qaCrhYDkb0xxz98xz6jdrVQrWSS/JnSFnjjcbHUKN5Gc++ADwfekGq64qKiED+NVVGTgVTcn8/TpvvddFPaZoLe0aSz0vYaSQF2IxjLHk5AJ9aXLtPZfgPJbaihqYlR1PbTa6HZtQEMA3s5+/0+9B0mYU4hReznB7beiHanLOFVUECg7fvpPEX3pkVWkXAkw3lgZAHPB0yi2Ctub1E1XVtIsfyFBl8VIXfgL6xnRo1KUSHJhd2cx0U+4pmUa6ZpjwI2lhhNJE0NPTwqm7IjjAZtp4yf1pD6lggkr5GWCOMNsfEahcnnk/k8+9GjTNUSlDXxFIz9AcW4+bzXHmP/9k="
+/>
 
 Das internationale Team von _FoPo_ traf sich während eines Erasmus Mundus
 Masterprogramms in Lebensmittelinnovation und Produktdesign. _FoPo_ entwickelten
@@ -100,13 +98,11 @@ Mit jeder Packung eines _FoPo_ Produkts wird die Emission von 265 Gramm CO<sub>2
 
 ## FoPo im Test
 
-<RemoteImage
-  alt="FoPo"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_36146929993_21f53f63dc_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_36146929993_21f53f63dc_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYD/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDAAQRBRIhFDEGIkFRYQcTcRWBkaHh/8QAGgEAAQUBAAAAAAAAAAAAAAAAAwABAgQFBv/EACIRAAECBgIDAQAAAAAAAAAAAAIBEQADBCExQRITBVHhgf/aAAwDAQACEQMRAD8A2PiKdtKeOQWtvNIVZVWZWy5GCACBxwT39qutAueu1EW0FkPIA7XFupMZBXIGDyPT81ReNbg3MGi9Aiz3HUAKsinaz44Bxz2z/FL36gzahY3+lPb6dJp5xKxWBJCN3kAztUjtk8j3qi5FVdaYzD9pWF7fIetxcpDeJDJECpTdufK5+MYNUFoxu/1EziOOcTlpCJN4JYcKMdsKFH9+tKL6e6xqs/iW16d5gq2szDeriM5K8DyqMdx75JpuT3sdvbzMwP3C2Rn04HP5o5TFGd1/sLkLcWjJ3tyG0OEbMrcO8biTD+UAdsjjOe9RrHUJtPWfoSIPvAB9gxnjAP7UUVsyZQcUJkf3uOM8rVTgqlATVkaz2wmsbiNfTPqNwk90S7qoUZY4A+OeK4XV7LHHbxKcIDsAz8/7RRQqmSCS1JEv9iXiKuedSIEaqivbWF1H/9k=" />
+<RemoteImage alt={`FoPo`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_36146929993_21f53f63dc_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_36146929993_21f53f63dc_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYD/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDAAQRBRIhFDEGIkFRYQcTcRWBkaHh/8QAGgEAAQUBAAAAAAAAAAAAAAAAAwABAgQFBv/EACIRAAECBgIDAQAAAAAAAAAAAAIBEQADBCExQRITBVHhgf/aAAwDAQACEQMRAD8A2PiKdtKeOQWtvNIVZVWZWy5GCACBxwT39qutAueu1EW0FkPIA7XFupMZBXIGDyPT81ReNbg3MGi9Aiz3HUAKsinaz44Bxz2z/FL36gzahY3+lPb6dJp5xKxWBJCN3kAztUjtk8j3qi5FVdaYzD9pWF7fIetxcpDeJDJECpTdufK5+MYNUFoxu/1EziOOcTlpCJN4JYcKMdsKFH9+tKL6e6xqs/iW16d5gq2szDeriM5K8DyqMdx75JpuT3sdvbzMwP3C2Rn04HP5o5TFGd1/sLkLcWjJ3tyG0OEbMrcO8biTD+UAdsjjOe9RrHUJtPWfoSIPvAB9gxnjAP7UUVsyZQcUJkf3uOM8rVTgqlATVkaz2wmsbiNfTPqNwk90S7qoUZY4A+OeK4XV7LHHbxKcIDsAz8/7RRQqmSCS1JEv9iXiKuedSIEaqivbWF1H/9k="
+/>
 
 Für mich hörte sich das gleich so an, als müsste ich es mal probieren mit _FoPo_
 . Und ich bin zu folgendem Schluss gekommen:
@@ -142,10 +138,8 @@ ANNEBLOGGTCARDAMONCHAI
 eingeben.
 
 Ich wünsche auch Euch viel Spaß beim Testen! Und psst! Auf meiner
-[Instagram-Seite](https://www.instagram.com/anne_reko/) und auf
-[Facebook](https://www.facebook.com/cardamonchai/) verlose ich zwei _FoPo_
--Produktpakete! Hier geht es zu den
-[Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/).
+Instagram-Seite und auf Facebook verlose ich zwei _FoPo_ -Produktpakete! Hier
+geht es zu den [Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/).
 
 <Gallery name="flickr/annefopo" />
 

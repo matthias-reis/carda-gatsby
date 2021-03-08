@@ -26,6 +26,7 @@ labels:
   - Tofu
   - Tomaten
   - vegan
+  - vegane Rezepte
   - Vegane Rezepte
   - Veganer
   - Zucchini
@@ -45,39 +46,43 @@ subTitle: Herzhaft und saftig
   
 ---
 
-<RemoteImage
-  alt="Gemüseauflauf mit Gelber Beete und Basilikumtofu"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Gemüseauflauf mit Gelber Bete und Basilikumtofu"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/gemc3bcseauflauf-211.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/09/gemc3bcseauflauf-211.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Gemüseauflauf mit Gelber Beete und Basilikumtofu`}
+size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Gemüseauflauf mit Gelber Bete und Basilikumtofu`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/gemc3bcseauflauf-211.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/09/gemc3bcseauflauf-211.jpg?w=300"
+loadingUrl="undefined" />
 
 **Nachdem ich gestern Abend wieder mal ein Bisschen in unserer Küche
-herumexperimentiert habe, gibt es heute wieder ein frisches Rezept für Euch. Es
+herumexperimentiert habe, gibt es heute wieder ein frisches Rezept für Euch. Es
 ist ganz leicht zuzubereiten, lecker und steckt voller Vitamine.**
 
-Vor ein paar Tagen habe ich das erste Mal Basilikumtofu bestellt und wollte
-daraus zusammen mit dem Gemüse, das ich gestern bei uns im Gemüselädchen um die
-Ecke erstanden habe, ein neues Gericht kreieren.
+Vor ein paar Tagen habe ich das erste Mal Basilikumtofu bestellt und wollte
+daraus zusammen mit dem Gemüse, das ich gestern bei uns im Gemüselädchen um die
+Ecke erstanden habe, ein neues Gericht kreieren.
 
 Man muss dazu sagen, dass das Basilikumtofu ungefähr die Konsistenz von
 Mozzarella hat und auch geschmacklich sehr in die Richtung von Mozzarella mit
 Basilikum geht. ganz bewusst wollte ich es jedoch nicht als "Caprese"-Gericht
 auf den Tisch bringen. Dabei heraus kam ein schmackhafter
 
-## Gemüseauflauf mit Basilikum-Tofu und Gelber Bete \_**\_ **Zutaten:\_\_ - 1 Gelbe Bete
+## Gemüseauflauf mit Basilikum-Tofu und Gelber Bete \_\_\_\_
 
+**Zutaten:**
+
+- 1 Gelbe Bete
 - 4-5 mittelgroße Kartoffeln
 - 1 gelbe Zucchini
 - 1 Packung Basilikum Tofu (gibt's z. B. von "Lord of Tofu" bei Smilefood,
   Veganz und Denns)
 - 3 Flaschentomaten
 - 2 Limetten
-- Evtl. etwas Vit B12 Bierhefe, ein paar Mandeln und 1-2 Handvoll veganen
-  Pizzaschmelz
+- Evtl. etwas Vit B12 [Bierhefe](/2021/01/hefe-ist-vegan/), ein paar Mandeln und
+  1-2 Handvoll veganen Pizzaschmelz
 - Pfeffer
-- Salz **Zubereitung:**
+- Salz
+
+**Zubereitung:**
 
 Die gelbe Bete, die Kartoffeln, die Zucchini, die Tomaten und das Tofu in ca.
 1/2 cm dicke Scheiben schneiden und alles schön in einer Backform aufschichten.
@@ -89,8 +94,9 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_0
 Das Ganze ordentlich mit Meersalz, Pfeffer, Chili und was der Gewürzschrank
 sonst noch so bietet, würzen und mit Jamie Oliver Gewürz (Olivenöl) und
 reichlich Limettensaft übergießen. Die Limetten drücke ich immer einfach direkt
-mit den Händen aus. Ich habe noch etwas Vit B12 Bierhefe, einen Rest veganen
-Pizzaschmelz und ein paar zerstampfte Mandeln darüber gegeben.
+mit den Händen aus. Ich habe noch etwas Vit B12
+[Bierhefe](/2021/01/hefe-ist-vegan/), einen Rest veganen Pizzaschmelz und ein
+paar zerstampfte Mandeln darüber gegeben.
 
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-111__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-111__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-13__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-13__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-10__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-10__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-14-e1409742159362__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-14-e1409742159362__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-15__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-15__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-16__l.jpg"}]}
@@ -113,12 +119,10 @@ Kussi Anne &lt;3
 
 Übrigens hatte ich beim Kochen gestern Abend hohen Besuch! :-)
 
-<RemoteImage
-  alt="Oskar schau zu"
-  size="large"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Oskar kuckt zu"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/gemc3bcseauflauf-11.jpg?w=646"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/09/gemc3bcseauflauf-11.jpg?w=646"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Oskar schau zu`} size="large"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Oskar kuckt zu`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/gemc3bcseauflauf-11.jpg?w=646"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/09/gemc3bcseauflauf-11.jpg?w=646"
+loadingUrl="undefined" />
 
   

@@ -32,6 +32,10 @@ subTitle: Bildergalerie
   
 ---
 
+**Letzen Sonntag stand uns bei dem herrlichen Wetter der Sinn nach Wattwandern,
+also brachen wir nach Cuxhafen auf. Hier eine kleine Galerie aus meinem
+Istagram-Account, die an dem Tag entstanden ist.**
+
 <Gallery name="flickr/annecuxhafen2015" />
 
   

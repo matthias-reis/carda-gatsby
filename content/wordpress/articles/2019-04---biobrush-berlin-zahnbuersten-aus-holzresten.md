@@ -14,15 +14,14 @@ labels:
   - Biobrush
   - Biobrush Berlin
   - Biokunststoff
+  - Fair Fashion & Beauty
   - Kinderzahnbürste
   - Kunststoff
-  - Mode & Beauty
   - nachhaltige Kinderzahnbürste
   - nachhaltige Zahnbürste
   - Plastik
   - Startup
   - umweltfreunliche Zahnbürsten
-  - Vegane Produkte
   - Zahnbürste
   - Zahnbürsten
 type: Artikel
@@ -56,13 +55,11 @@ nette Antwort noch etwas größer.
 
 ## Biokunststoff statt Bambus
 
-<RemoteImage
-  alt="biobrush"
-  size="medium"
-  title="Biobrush Berlin im Test"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-8__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-8__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKxAAAgEEAQEHAwUAAAAAAAAAAQIDAAQFESExBhITFCJBYXGBkRUWMlFi/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMEBQb/xAAgEQABAwQCAwAAAAAAAAAAAAABAAMRAgQSMSEiUXGR/9oADAMBAAIRAxEAPwBPuLIN2Zyfp5FuT+DulnE2qfqyo6IfMRIsTSDhXDEHXz0/Ip0juIpMDkE7y+q1kA5/zWP2ZPjQSKTLGscJdZo3ClX2NDej13/XtWZsHTR9Vi+DukwRyPY0rk2Pl8/PBIBLcxN4cgRedgkb0N8HqPrVW+sTHtZEKOBsqw0R9jUlvmZb+2vAuUyTrE7QtFPL/Jgu+CNHXHvUNs1ubU3EAGpkVug2OvH2oLhkt9pTDch6uY2up4/I4e+i7seTspww1pxA+x9CoNVO12Jx/wC1cicfFYRzsq+uC2SNioYEjaHpr4ooqMBjWAPKI6lJM4F9NZo93DNNGjKvhb07P17+xsn5ArYxvZyGPFRxX9vI8wGu9bXCjQ9uGoopl1NBxB4S2TkJK//Z" />
+<RemoteImage alt={`biobrush`} size="medium" title={`Biobrush Berlin im Test`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-8__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-8__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKxAAAgEEAQEHAwUAAAAAAAAAAQIDAAQFESExBhITFCJBYXGBkRUWMlFi/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMEBQb/xAAgEQABAwQCAwAAAAAAAAAAAAABAAMRAgQSMSEiUXGR/9oADAMBAAIRAxEAPwBPuLIN2Zyfp5FuT+DulnE2qfqyo6IfMRIsTSDhXDEHXz0/Ip0juIpMDkE7y+q1kA5/zWP2ZPjQSKTLGscJdZo3ClX2NDej13/XtWZsHTR9Vi+DukwRyPY0rk2Pl8/PBIBLcxN4cgRedgkb0N8HqPrVW+sTHtZEKOBsqw0R9jUlvmZb+2vAuUyTrE7QtFPL/Jgu+CNHXHvUNs1ubU3EAGpkVug2OvH2oLhkt9pTDch6uY2up4/I4e+i7seTspww1pxA+x9CoNVO12Jx/wC1cicfFYRzsq+uC2SNioYEjaHpr4ooqMBjWAPKI6lJM4F9NZo93DNNGjKvhb07P17+xsn5ArYxvZyGPFRxX9vI8wGu9bXCjQ9uGoopl1NBxB4S2TkJK//Z"
+/>
 
 Die **Biobrush Berlin** Bürsten samt Verpackung werden im Gegensatz zu den
 Bambusbürsten, die ich normalerweise verwende, aus Holzresten aus nachhaltiger
@@ -76,13 +73,12 @@ dass sie zudem ziemlich robust sind.
 
 ## Die Biobrush Verpackung kann kompostiert werden
 
-<RemoteImage
-  alt="biobrush"
-  size="medium"
-  title="Keine Panik - die Verpackung kann kompostiert werden."
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwT/xAAoEAACAQMCBQMFAAAAAAAAAAABAgMABBEFIQYSMUFxEyKRMjNRgcH/xAAYAQADAQEAAAAAAAAAAAAAAAAEBQYCA//EACIRAAIBBAIBBQAAAAAAAAAAAAECAwAEESEFEqEiMUFhkf/aAAwDAQACEQMRAD8ARaVaoJ7cuBguoPzVQ9ncqjiCyidFH3GZQM+KQ2bEQqy/WuGHkb1XJLbzEyW8MjygFzlduw7533xgClvud1bXhZOrKua5bO1R0cXNhB6pXCAOrb4/HapG5twYSeXcCnScTrHqsdi9j6cocKWL9N8dMDfNY6ogS5uFOAGYsB53rrLC8JAcYzQvEchHe92jOQD96/aR6feKFALCnlveLJaxAcruvMArjIJA9v8AKKKzjdMJtx0q4oljvNajn0cF45VWRWccpVgcEEnqQwPzW2u3eHjc+0sm+/7FFFE3Mhfqp+APIFT/AAdolqZHjz6mbwzAV//Z" />
+<RemoteImage alt={`biobrush`} size="medium"
+title={`Keine Panik - die Verpackung kann kompostiert werden.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwT/xAAoEAACAQMCBQMFAAAAAAAAAAABAgMABBEFIQYSMUFxEyKRMjNRgcH/xAAYAQADAQEAAAAAAAAAAAAAAAAEBQYCA//EACIRAAIBBAIBBQAAAAAAAAAAAAECAwAEESEFEqEiMUFhkf/aAAwDAQACEQMRAD8ARaVaoJ7cuBguoPzVQ9ncqjiCyidFH3GZQM+KQ2bEQqy/WuGHkb1XJLbzEyW8MjygFzlduw7533xgClvud1bXhZOrKua5bO1R0cXNhB6pXCAOrb4/HapG5twYSeXcCnScTrHqsdi9j6cocKWL9N8dMDfNY6ogS5uFOAGYsB53rrLC8JAcYzQvEchHe92jOQD96/aR6feKFALCnlveLJaxAcruvMArjIJA9v8AKKKzjdMJtx0q4oljvNajn0cF45VWRWccpVgcEEnqQwPzW2u3eHjc+0sm+/7FFFE3Mhfqp+APIFT/AAdolqZHjz6mbwzAV//Z"
+/>
 
 Die Folienverpackung soll nach 42 Tagen im Blumentopf verrotten und ist somit
 kompostierbar. Die CO<sub>2 </sub>-Bilanz ist laut Biobrush Berlin sehr gering.
@@ -101,13 +97,12 @@ Backenzähne optimal erreicht werden können.
 
 ## Ungiftiger Kunststoff aus Holzresten
 
-<RemoteImage
-  alt="biobrush"
-  size="medium"
-  title="Der Kunststoff ist aus Holzresten."
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-5__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-5__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAJxAAAgIBAwMCBwAAAAAAAAAAAQIDBAAFESESEzEUYiIyQYGRscH/xAAZAQABBQAAAAAAAAAAAAAAAAACAAMEBQb/xAAhEQACAQQCAgMAAAAAAAAAAAABAhEABAUhAzFxkTJBUf/aAAwDAQACEQMRAD8Ajo1IYIGlk6I4kXqZjwFA8k4xpT6faIWrcqzOfCpKpb8ecr9tLWnzVnJCTIUYjzscxXo7Gk30twV+1NCSUdedhyPlbjxjFpaG6JCsAR+/dbTLZdMaivyozAz8RMRHex3OvFdDmqgqdhiLU6g6W4GVZta1dkA9dpkW43+BdmP2I/uJr2p6ydyNRqPv9C5G37xLZ856U+qHkzeNQS1wniZPoVoKN9dhzjOO6m3JBGGGRjVqDUN6zWnQrNFFIPcoOZTVaGnSKxSJYz7D04YYSkjqhfYg7r//2Q==" />
+<RemoteImage alt={`biobrush`} size="medium"
+title={`Der Kunststoff ist aus Holzresten.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-5__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-5__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAJxAAAgIBAwMCBwAAAAAAAAAAAQIDBAAFESESEzEUYiIyQYGRscH/xAAZAQABBQAAAAAAAAAAAAAAAAACAAMEBQb/xAAhEQACAQQCAgMAAAAAAAAAAAABAhEABAUhAzFxkTJBUf/aAAwDAQACEQMRAD8Ajo1IYIGlk6I4kXqZjwFA8k4xpT6faIWrcqzOfCpKpb8ecr9tLWnzVnJCTIUYjzscxXo7Gk30twV+1NCSUdedhyPlbjxjFpaG6JCsAR+/dbTLZdMaivyozAz8RMRHex3OvFdDmqgqdhiLU6g6W4GVZta1dkA9dpkW43+BdmP2I/uJr2p6ydyNRqPv9C5G37xLZ856U+qHkzeNQS1wniZPoVoKN9dhzjOO6m3JBGGGRjVqDUN6zWnQrNFFIPcoOZTVaGnSKxSJYz7D04YYSkjqhfYg7r//2Q=="
+/>
 
 Und wie entsteht das Plastik? Wie Holzreste sehen die fertigen Bürsten ja
 schließlich nicht aus. Auf der Homepage von Biobrush Berlin steht dazu
@@ -130,13 +125,12 @@ gängigen DIN EN 13432. Hergestellt wird in Deutschland.
 
 ## Eine gute Alternative
 
-<RemoteImage
-  alt="biobrush"
-  size="medium"
-  title="Biobrush Berlin - eine gute Alternative"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAQQH/8QAKBAAAgEDAwIHAAMAAAAAAAAAAQIDAAQRBRIhMVETIkFhcYGRMrHR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMBBAb/xAAiEQACAgEBCQAAAAAAAAAAAAABAgARAxIEEyEiMUFxobH/2gAMAwEAAhEDEQA/AJPTdHCQxuY/Kx2/Bx69qfyWESpbxxWz5dfEMuBhduAyn9Bo0yOO/SCKeSRZoW3QsH2hu6N3H+U3gZ57K6tShiuoWD7W4PHDD3BB/qqXU1Njlc401E1pN+R3mlf6dDbzq624ZBGZCgHUkZwM9cVM6rpUTxvOEWHOAImwD/HJOPmugXyGW3gdSAy2hds9z0H6aj9XVmvyJ4VAjQbH77uTj6AoAxBqL3yHSqnmJr3fwGJtM1NQq+bNUz674ywynJnGEfb5dy55bPfHp80UU0iMbGudaeYudXDQ+GyRhTGsTHqdobPHvxikGt6sJpnmZgGbjYpOFAGABn7ooqFUXBbZseMhlHET/9k=" />
+<RemoteImage alt={`biobrush`} size="medium"
+title={`Biobrush Berlin - eine gute Alternative`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAQQH/8QAKBAAAgEDAwIHAAMAAAAAAAAAAQIDAAQRBRIhMVETIkFhcYGRMrHR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMBBAb/xAAiEQACAgEBCQAAAAAAAAAAAAABAgARAxIEEyEiMUFxobH/2gAMAwEAAhEDEQA/AJPTdHCQxuY/Kx2/Bx69qfyWESpbxxWz5dfEMuBhduAyn9Bo0yOO/SCKeSRZoW3QsH2hu6N3H+U3gZ57K6tShiuoWD7W4PHDD3BB/qqXU1Njlc401E1pN+R3mlf6dDbzq624ZBGZCgHUkZwM9cVM6rpUTxvOEWHOAImwD/HJOPmugXyGW3gdSAy2hds9z0H6aj9XVmvyJ4VAjQbH77uTj6AoAxBqL3yHSqnmJr3fwGJtM1NQq+bNUz674ywynJnGEfb5dy55bPfHp80UU0iMbGudaeYudXDQ+GyRhTGsTHqdobPHvxikGt6sJpnmZgGbjYpOFAGABn7ooqFUXBbZseMhlHET/9k="
+/>
 
 Zu herkömmlichen Bürsten aus
 [Erdöl-Plastik](/2017/08/kenia-sagt-plastiktueten-nein-danke/) sind sie auf
@@ -153,13 +147,12 @@ verwendete Nylon wird aus Zuckerrohr hergestellt.
 
 ## Was passiert, wenn ich meine Biobrush wegwerfe?
 
-<RemoteImage
-  alt="biobrush"
-  size="medium"
-  title="Zu 94 Prozent biologisch abbaubar."
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-6__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-6__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBAIDBv/EACcQAAIBBAECBQUAAAAAAAAAAAECAwAEBREhEiITMVGBoQYyQWFy/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAEEAwb/xAAkEQABAgUDBQEAAAAAAAAAAAABAAIDERIhMQRxgTJBYWLRov/aAAwDAQACEQMRAD8AWYa9xbX8tieqC4hJB8VQito67W3o11dutmT0JcW5YeaiRSR80ohwuNvH8WeAGU77h6n86PG6mf6XhbZiEL/0pQj3UipaITjZ0tx8Xcu1GrYDVCqM7UkY7dUr8y8p9LZqV2AKQ5WzARuKpnFZKwJaynvIePJJRKp9jWkZe7WUQ5R7boPHWyNE+9enKn4oMBwu0h23zKUPXw3WiAsPsJfoTYeHEqzjcguh3U6jv1191FFYEK/KxmyChT3UiyeQVlIJBH7ooptCML//2Q==" />
+<RemoteImage alt={`biobrush`} size="medium"
+title={`Zu 94 Prozent biologisch abbaubar.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-6__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-6__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBAIDBv/EACcQAAIBBAECBQUAAAAAAAAAAAECAwAEBREhEiITMVGBoQYyQWFy/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAEEAwb/xAAkEQABAgUDBQEAAAAAAAAAAAABAAIDERIhMQRxgTJBYWLRov/aAAwDAQACEQMRAD8AWYa9xbX8tieqC4hJB8VQito67W3o11dutmT0JcW5YeaiRSR80ohwuNvH8WeAGU77h6n86PG6mf6XhbZiEL/0pQj3UipaITjZ0tx8Xcu1GrYDVCqM7UkY7dUr8y8p9LZqV2AKQ5WzARuKpnFZKwJaynvIePJJRKp9jWkZe7WUQ5R7boPHWyNE+9enKn4oMBwu0h23zKUPXw3WiAsPsJfoTYeHEqzjcguh3U6jv1191FFYEK/KxmyChT3UiyeQVlIJBH7ooptCML//2Q=="
+/>
 
 Wirft man seine Biobrush weg, gibt man sie derzeit am besten in den Hausmüll.
 Hier wird sie dann der thermischen Verwertung, sprich Verbrennung, zugeführt.
@@ -177,13 +170,12 @@ würden somit als Fremdkörper in der Umwelt landen.
 
 ## Die Suche nach biologisch abbaubaren Borsten geht weiter
 
-<RemoteImage
-  alt="biobrush"
-  size="medium"
-  title="Hoffentlich sind auch die Borsten bald kompostierbar."
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-3__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-3__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgf/xAAoEAACAQMDAwMFAQAAAAAAAAABAgMABBEFEiExQXETUYEUIiMzscH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAACBv/EACARAAEDBAIDAAAAAAAAAAAAAAEAAgMEERIhIjFBcZH/2gAMAwEAAhEDEQA/AJTTtFEccW5Vy4J2jqvkU+ezj+pht4bMLGY/VM2R1BwUx7d6zo8FrdSxSTIDeRqVjlJOSD2PvT6CGS4t3gnT0riJt6855Ht5H9pIbNitfNIYmZE7bv2PKW3enRwyxyRQofxlwuOCeeB4xUxqthA8PrThIJJNiJGehODn5rorLDJbWCs4H7Gbnnvn4+2o3WoJBHaSpIjW438dydvWh5EFBfVRY8Tu9vrkm0nVFCrhueoOaqjrK3EAZ2BmUBSp4VlzyfP+80UUUhMujbM0ZjpEutOsarG+wIWKYOMZ7Y+amdZ1MvFGjuGSIEIMDOT1OaKKgaCbqr6aJrQAOl//2Q==" />
+<RemoteImage alt={`biobrush`} size="medium"
+title={`Hoffentlich sind auch die Borsten bald kompostierbar.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-3__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-3__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgf/xAAoEAACAQMDAwMFAQAAAAAAAAABAgMABBEFEiExQXETUYEUIiMzscH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAACBv/EACARAAEDBAIDAAAAAAAAAAAAAAEAAgMEERIhIjFBcZH/2gAMAwEAAhEDEQA/AJTTtFEccW5Vy4J2jqvkU+ezj+pht4bMLGY/VM2R1BwUx7d6zo8FrdSxSTIDeRqVjlJOSD2PvT6CGS4t3gnT0riJt6855Ht5H9pIbNitfNIYmZE7bv2PKW3enRwyxyRQofxlwuOCeeB4xUxqthA8PrThIJJNiJGehODn5rorLDJbWCs4H7Gbnnvn4+2o3WoJBHaSpIjW438dydvWh5EFBfVRY8Tu9vrkm0nVFCrhueoOaqjrK3EAZ2BmUBSp4VlzyfP+80UUUhMujbM0ZjpEutOsarG+wIWKYOMZ7Y+amdZ1MvFGjuGSIEIMDOT1OaKKgaCbqr6aJrQAOl//2Q=="
+/>
 
 Biobrush Berlin forscht und entwickelt permanent weiter. Es wird eine
 nachhaltige Alternative zu den derzeit verwendeten Borsten zum Einsatz kommen,
@@ -198,13 +190,11 @@ einem definitiv sofort ins Auge.
 
 ## Transparenz und faire Preise
 
-<RemoteImage
-  alt="biobrush"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-4__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-4__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgEDB//EACkQAAIBAwMCBAcAAAAAAAAAAAECAwAEEQUSISKhBkKR0RMjMkFRcbL/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQACAwb/xAAjEQACAQQCAgIDAAAAAAAAAAABAgMABBExBSESQSKBQmGR/9oADAMBAAIRAxEAPwDMECQWkszKCI42fH5wCcdqUab4xsZAiX1rJbuQOqM/EXP6+od6scLfKIXGSCBVA1TTGtnD3EI3RncsgTIODnnHIPas7KyF35AMAw0D7rr+X5xOJ8GmiZkbbD8dY/vfsaroc9uDkbaR6naAK3Fa4dX1tIdzxW9ypAbeo3MM/ZlyCD61Bu/FGEK3UMKyc9I3p/QoQxsrFTsU4hIuIhNEcqdYpxZ3oKDqFTJJLeeMpOiSIeMMMiiiq61UIBGDSzUoEPXaOEYeVhlfcVUtUvFVWS9hZSfMx3r6+9FFHQ3UnSt8h++6RXnA2jhpogY33lCVP3jo/YzX/9k=" />
+<RemoteImage alt={`biobrush`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-4__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-4__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgEDB//EACkQAAIBAwMCBAcAAAAAAAAAAAECAwAEEQUSISKhBkKR0RMjMkFRcbL/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQACAwb/xAAjEQACAQQCAgIDAAAAAAAAAAABAgMABBExBSESQSKBQmGR/9oADAMBAAIRAxEAPwDMECQWkszKCI42fH5wCcdqUab4xsZAiX1rJbuQOqM/EXP6+od6scLfKIXGSCBVA1TTGtnD3EI3RncsgTIODnnHIPas7KyF35AMAw0D7rr+X5xOJ8GmiZkbbD8dY/vfsaroc9uDkbaR6naAK3Fa4dX1tIdzxW9ypAbeo3MM/ZlyCD61Bu/FGEK3UMKyc9I3p/QoQxsrFTsU4hIuIhNEcqdYpxZ3oKDqFTJJLeeMpOiSIeMMMiiiq61UIBGDSzUoEPXaOEYeVhlfcVUtUvFVWS9hZSfMx3r6+9FFHQ3UnSt8h++6RXnA2jhpogY33lCVP3jo/YzX/9k="
+/>
 
 Was mir neben der wirklich guten Haptik, Optik und Alltagstauglichkeit der
 Berlin Biobrush besonders gefällt ist, dass das Startup in seiner Kommunikation

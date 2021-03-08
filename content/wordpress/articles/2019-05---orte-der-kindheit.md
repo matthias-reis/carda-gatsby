@@ -11,12 +11,13 @@ excerpt: "Warum ich erst jetzt nach Bielefeld gefahren bin, weiß ich nicht.
 focusKeyword: Bielefeld
 labels:
   - Achtsamkeit
+  - Achtsamkeit
   - Ausflug
   - Bielefeld
+  - Geschichten & Erlebtes
   - Kindheit
   - NRW
   - Ostwestfalen
-  - Tagebuch
   - Teutoburger Wald
 type: Artikel
 typeName: Artikel
@@ -48,13 +49,11 @@ hingefahren.
 
 ## Warum nicht einfach hinfahren?
 
-<RemoteImage
-  alt="bielefeld"
-  size="medium"
-  title="Zu Besuch in Bielefeld"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-21-externsteine-teutoburger-wald-36__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-21-externsteine-teutoburger-wald-36__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQDBQECBv/EACcQAAIBAwMDBAMBAAAAAAAAAAECAwAEERIhMQVBcRMiMmEUUZHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAD/8QAGhEAAwADAQAAAAAAAAAAAAAAAAERAjFBUf/aAAwDAQACEQMRAD8A4yzi9KMSNrIXsuMn+1fxvESYoZXlOVwVXbJ7Z7msdMhjcIJU1hmUMDxiobYRJfRxmNkm1FEfJdsatm85PFFaHko0I9atmUyK+pXTIZSOCDuDRVn1u4/Ou7+adlMzzOzgDHfAP1nHFFG+ii4LRzLHEivF6ityDIw48VJPNCIsxWaJKB7HE7ZU+P8AcUvYmO4ijVnKlTn45zT8lvDGUkDBypDaWT2tjsd+KNaM6VyyvPZl5cM+pvcNifOOe9Fa9ReKANHbtqj+WdOkAncgD9A5A+gKKVI//9k=" />
+<RemoteImage alt={`bielefeld`} size="medium" title={`Zu Besuch in Bielefeld`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-21-externsteine-teutoburger-wald-36__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-21-externsteine-teutoburger-wald-36__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQDBQECBv/EACcQAAIBAwMDBAMBAAAAAAAAAAECAwAEERIhMQVBcRMiMmEUUZHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAD/8QAGhEAAwADAQAAAAAAAAAAAAAAAAERAjFBUf/aAAwDAQACEQMRAD8A4yzi9KMSNrIXsuMn+1fxvESYoZXlOVwVXbJ7Z7msdMhjcIJU1hmUMDxiobYRJfRxmNkm1FEfJdsatm85PFFaHko0I9atmUyK+pXTIZSOCDuDRVn1u4/Ou7+adlMzzOzgDHfAP1nHFFG+ii4LRzLHEivF6ityDIw48VJPNCIsxWaJKB7HE7ZU+P8AcUvYmO4ijVnKlTn45zT8lvDGUkDBypDaWT2tjsd+KNaM6VyyvPZl5cM+pvcNifOOe9Fa9ReKANHbtqj+WdOkAncgD9A5A+gKKVI//9k="
+/>
 
 Ein Bekannter, der in Bielefeld lebt, machte dann vor Kurzem eine Bemerkung, die
 mir zu Denken gab:
@@ -87,13 +86,11 @@ ausgeblendet.
 
 ## Wir idealisieren unsere Kindheit
 
-<RemoteImage
-  alt="bielefeld"
-  size="medium"
-  title="Das Bielefelder Rathaus"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-19-bielefeld-10__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-19-bielefeld-10__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAJhAAAgIBAwQCAgMAAAAAAAAAAQIDBBEABSEGEjFBIlETFDKB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAIFBP/EACIRAAEDBAICAwAAAAAAAAAAAAECAxEABAUhUaETQTFxkf/aAAwDAQACEQMRAD8AzyltyRws7g9nk4GnVPa671zOXKR57VJIQs318uMffOpd0hlp16JjbFaVZGdh2/IhQUwT/Z403gsbfL0+tXcqiu8I+LPC03lWPy7QQGPHj171uy+YcbeNpbmBA3750Z4ipGKx7TjQuLgEqkwPUfGxzMmqtuFEdoZUjETDCt3BVLe+SOfBHA0lVK8iRfkIiLR5DfyLf761pU2xR3dwNySYpFGyANICA4UMR55XHGRn1zpRei2Haen5bO/S3Yp4rskKpEqt3YdiAoP0OOTo22aQ6seQRr7k9VpfxKkIhoz1A7n8qr7XYnW3ObrXmrlSR+JAjgkNnliQ/nzxpvBcm2raopH3OjUEtMqhsRd7Rz5zk4JyGXIIIHbnjRo1IctkLXJqihwprrTqnZq9fc/3r+33El7VrRxL2lV9rknHtvl5OdVXqXqVLf7yV6DTl7MlivIrKfxnIUcDj7zg+86NGm3boRsUlOqNf//Z" />
+<RemoteImage alt={`bielefeld`} size="medium" title={`Das Bielefelder Rathaus`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-19-bielefeld-10__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-19-bielefeld-10__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAJhAAAgIBAwQCAgMAAAAAAAAAAQIDBBEABSEGEjFBIlETFDKB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAIFBP/EACIRAAEDBAICAwAAAAAAAAAAAAECAxEABAUhUaETQTFxkf/aAAwDAQACEQMRAD8AzyltyRws7g9nk4GnVPa671zOXKR57VJIQs318uMffOpd0hlp16JjbFaVZGdh2/IhQUwT/Z403gsbfL0+tXcqiu8I+LPC03lWPy7QQGPHj171uy+YcbeNpbmBA3750Z4ipGKx7TjQuLgEqkwPUfGxzMmqtuFEdoZUjETDCt3BVLe+SOfBHA0lVK8iRfkIiLR5DfyLf761pU2xR3dwNySYpFGyANICA4UMR55XHGRn1zpRei2Haen5bO/S3Yp4rskKpEqt3YdiAoP0OOTo22aQ6seQRr7k9VpfxKkIhoz1A7n8qr7XYnW3ObrXmrlSR+JAjgkNnliQ/nzxpvBcm2raopH3OjUEtMqhsRd7Rz5zk4JyGXIIIHbnjRo1IctkLXJqihwprrTqnZq9fc/3r+33El7VrRxL2lV9rknHtvl5OdVXqXqVLf7yV6DTl7MlivIrKfxnIUcDj7zg+86NGm3boRsUlOqNf//Z"
+/>
 
 Forscher\*innen haben herausgefunden, dass Menschen die Kindheit in ihrer
 Erinnerung stark idealisieren. Dieses Gefühl der Freiheit und Zwanglosigkeit
@@ -119,13 +116,12 @@ Folgendes geschrieben:
 > sind! Und dann: Totale Reizüberflutung! Es riecht sogar noch genauso wie
 > damals!"
 
-<RemoteImage
-  alt="bielefeld"
-  size="medium"
-  title="Bielefeld ist zum Glück gar nicht so weit weg!"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-21-externsteine-teutoburger-wald-43__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-21-externsteine-teutoburger-wald-43__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcI/8QAKxAAAgIABQIGAAcAAAAAAAAAAQIDEQAEBSExEiIGExRBUWEHFSNxgZGS/8QAFwEBAAMAAAAAAAAAAAAAAAAABQMEBv/EAB8RAAICAgIDAQAAAAAAAAAAAAIDAAEEESFRBRITI//aAAwDAQACEQMRAD8A58QdqitvrFk8A9J1bOK9V6NzZBrZkPt9WP5wijgLLtXOLN+G0VeJkBYANDIt0Dv2/Jr+8Q5F6WVxPDr9w33HEvlJHGSfMlkmKxFF6dg3Vufnaq+sGHOswenyupLmBLeVzAfrWlBZmWtueAdvvBg5baOt1HmBay1cy6PMIEtbJIxoun6po58VaZPE6LloND6Z2jHDqiCmFC+efc7+2IumeEMlatNCXVR3LQjZf9E3hj+TaFlctmpgrlGQo8Mbfq9NC1JrtHaOa/c4UZazGw7mUU8lmJ9cyTnRlc3Nq2nly/VUxIuQs5sLxzsBucGFuZZ860cmnCdI40YufKtfkDq24NUd/fBimvD+e/Uoqfk1t5Ktz//Z" />
+<RemoteImage alt={`bielefeld`} size="medium"
+title={`Bielefeld ist zum Glück gar nicht so weit weg!`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-21-externsteine-teutoburger-wald-43__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-21-externsteine-teutoburger-wald-43__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcI/8QAKxAAAgIABQIGAAcAAAAAAAAAAQIDEQAEBSExEiIGExRBUWEHFSNxgZGS/8QAFwEBAAMAAAAAAAAAAAAAAAAABQMEBv/EAB8RAAICAgIDAQAAAAAAAAAAAAIDAAEEESFRBRITI//aAAwDAQACEQMRAD8A58QdqitvrFk8A9J1bOK9V6NzZBrZkPt9WP5wijgLLtXOLN+G0VeJkBYANDIt0Dv2/Jr+8Q5F6WVxPDr9w33HEvlJHGSfMlkmKxFF6dg3Vufnaq+sGHOswenyupLmBLeVzAfrWlBZmWtueAdvvBg5baOt1HmBay1cy6PMIEtbJIxoun6po58VaZPE6LloND6Z2jHDqiCmFC+efc7+2IumeEMlatNCXVR3LQjZf9E3hj+TaFlctmpgrlGQo8Mbfq9NC1JrtHaOa/c4UZazGw7mUU8lmJ9cyTnRlc3Nq2nly/VUxIuQs5sLxzsBucGFuZZ860cmnCdI40YufKtfkDq24NUd/fBimvD+e/Uoqfk1t5Ktz//Z"
+/>
 
 In unseren insgesamt drei Tagen in Bielefeld und Umgebung haben wir einiges
 gesehen und erlebt und ich habe jede Menge Bilder gemacht. Einige davon bekommt

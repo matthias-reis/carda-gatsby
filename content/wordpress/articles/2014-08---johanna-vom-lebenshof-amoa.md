@@ -15,11 +15,10 @@ labels:
   - behinderte tiere
   - buddha
   - buddhismus
-  - Darum vegan
   - gnadenhof
   - go vegan
   - Interview
-  - Interview
+  - Interviews
   - Johanna Schlitzkus
   - Leben
   - Liebe
@@ -28,7 +27,9 @@ labels:
   - Problemhunde
   - schutz für tiere
   - Tiere retten
+  - Tierhaltung
   - tierhof amoa
+  - Tierrechte
   - Tierschutz
   - Tierschützer
   - tolle Menschen
@@ -51,13 +52,19 @@ subTitle: '"Der Schutz und die Rechte der Tiere stehen an erster Stelle"'
   
 ---
 
-<RemoteImage
-  alt="Lebenshof"
-  size="medium"
-  title="Johanna Schlitzkus"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/johanna.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/johanna.jpg"
-  loadingUrl="undefined" />
+> Ich glaube, dass geistiger Fortschritt an einem gewissen Punkt von uns
+> verlangt, dass wir aufhören, unsere Mitlebewesen zur Befriedigung unseres
+> körperlichen Verlangens zu töten. (Mahatma Gandhi)
+
+**Johanna Schlitzkus ist 1965 in Friedrichsdorf im Taunus geboren. Die Autorin
+lebt mit Ihrer Frau Britta und der gemeinsamen Tochter Shaya auf dem
+[Lebenshof AMOA](http://www.tierhof-amoa.de) in Südhessen einen veganen,
+buddhistischen Alltag.**
+
+<RemoteImage alt={`Lebenshof`} size="medium" title={`Johanna Schlitzkus`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/johanna.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/08/johanna.jpg"
+loadingUrl="undefined" />
 
 Nach und nach haben sie sich und ihren Tieren mit
 [AMOA](http://www.tierhof-amoa.de) ein großes, gemütliches Zuhause aufgebaut.
@@ -72,18 +79,18 @@ nimmst.
 **Anne:** Seit wann gibt es das Projekt/den Hof
 [AMOA](http://www.tierhof-amoa.de) ?
 
-## Den Lebenshof AMOA gibt es seit 2011 **Johanna:** Im Grunde genommen schon immer im Kopf und in meiner Phantasie und seit 2011 auch real.
+## Den Lebenshof AMOA gibt es seit 2011
+
+**Johanna:** Im Grunde genommen schon immer im Kopf und in meiner Phantasie und
+seit 2011 auch real.
 
 **Anne:** Wie kam es dazu, dass Ihr [AMOA](http://www.tierhof-amoa.de) gegründet
 habt?
 
-<RemoteImage
-  alt="Lebenshof"
-  size="medium"
-  title="Der Hof 2011"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/hof-2011.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/hof-2011.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Lebenshof`} size="medium" title={`Der Hof 2011`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/hof-2011.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/08/hof-2011.jpg"
+loadingUrl="undefined" />
 
 **Johanna:** Wir haben es nicht geplant, es ist entstanden. Wir hatten bereits 2
 Katzen, einen gehörlosen Kater und zwei "Problemhunde". Eigentlich suchten wir
@@ -107,13 +114,11 @@ Und so kamen die ersten Katzen zu uns. Blinde Katzen, einäugige Katzen, Katzen
 mit psychischen Auffälligkeiten, halb verhungerte Katzen, schwer misshandelte
 Katzen…
 
-<RemoteImage
-  alt="Lebenshof"
-  size="full"
-  title="Die Gackack-Gang"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_die-gackack-gang__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_die-gackack-gang__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAYHAQMEBf/EACkQAAEDAwQBAwQDAAAAAAAAAAECAwQFBhEAEiExEwciQTJRYXEjkcH/xAAXAQEAAwAAAAAAAAAAAAAAAAADAAIE/8QAGhEBAAMBAQEAAAAAAAAAAAAAAQACESEDE//aAAwDAQACEQMRAD8AWbMseZddpvVBmOhuazILaAtW3ygJBI+wxng/3rop3pyw1TaxVbrnopcCPHC4zocbWlxRySQQTkcAY7JI0tWRfdWtqoPeEl6DJc3yo6wSAcbdwx0vrj54B1VLSripdnT6nIt6LApcd7zx9xCmpCSCF4QrOME8HonrrWE7FblhkaoNvS7vuGHDgpUlUo5CtvsbTt3KUfwB8fnHzpour0+k0S1qNW6UG5cxLK1VFLCcoS2ojarYc7k7c5x9+uM6xW6/FiTZjdMLKFzGkqT4mAlRyCDtI6H6x8Y616Fo+qD1FpDERMYPuIQr2qwUAJGEgA/PQ7+ND5+newiwcYsWFEosy4oMWqP/AEqDwaaGEOrTk4WTnOccjA4GqF6q3p/HEpdOcCHCVqdcCcqKB9KQAOM6NGk3KOSWz5iSLqeV5UNtkhSF8IKfdgZUnA+2TrV5WsIaUpW9aiQspwSf85Iz+tGjVK1GAGs//9k=" />
+<RemoteImage alt={`Lebenshof`} size="full" title={`Die Gackack-Gang`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_die-gackack-gang__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_die-gackack-gang__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAYHAQMEBf/EACkQAAEDAwQBAwQDAAAAAAAAAAECAwQFBhEAEiExEwciQTJRYXEjkcH/xAAXAQEAAwAAAAAAAAAAAAAAAAADAAIE/8QAGhEBAAMBAQEAAAAAAAAAAAAAAQACESEDE//aAAwDAQACEQMRAD8AWbMseZddpvVBmOhuazILaAtW3ygJBI+wxng/3rop3pyw1TaxVbrnopcCPHC4zocbWlxRySQQTkcAY7JI0tWRfdWtqoPeEl6DJc3yo6wSAcbdwx0vrj54B1VLSripdnT6nIt6LApcd7zx9xCmpCSCF4QrOME8HonrrWE7FblhkaoNvS7vuGHDgpUlUo5CtvsbTt3KUfwB8fnHzpour0+k0S1qNW6UG5cxLK1VFLCcoS2ojarYc7k7c5x9+uM6xW6/FiTZjdMLKFzGkqT4mAlRyCDtI6H6x8Y616Fo+qD1FpDERMYPuIQr2qwUAJGEgA/PQ7+ND5+newiwcYsWFEosy4oMWqP/AEqDwaaGEOrTk4WTnOccjA4GqF6q3p/HEpdOcCHCVqdcCcqKB9KQAOM6NGk3KOSWz5iSLqeV5UNtkhSF8IKfdgZUnA+2TrV5WsIaUpW9aiQspwSf85Iz+tGjVK1GAGs//9k="
+/>
 
 Zwischendurch kamen Hühner von "[Rettet Das Huhn](http://rettetdashuhn.de)" ,
 Hühner aus der Massentierhaltung. Alles was diese Tiere brauchten, war eine
@@ -125,15 +130,19 @@ können.
 **Anne:** Ihr seid alle drei Veganerinnen und wart früher Vegetarierinnen. Wann
 kam die Veränderung?
 
-## Mit dem Bewusstsein, dass vegetarisch nichts ändert, kam die Umstellung **Johanna:** Mit dem Bewusstsein, dass wir mit unserer Vegetarischen Einstellung nichts verändern. Ich sah mir mit meiner Familie ein Video über die konventionelle Kuhhaltung an. In diesem Video wurde ein Kalb der Mutter weggenommen. Es wurde auf einen Anhänger gelegt und dann fuhr der Bauer mit dem Kälbchen davon. Die Kuh lief lange hinter dem Anhänger her und beide schrien fürchterlich. Dieses Video hat für mich den Ausschlag gegeben.
+## Mit dem Bewusstsein, dass vegetarisch nichts ändert, kam die Umstellung
 
-<RemoteImage
-  alt="Lebenshof"
-  size="medium"
-  title="Asha"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/asha.jpg?w=225"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/asha.jpg?w=225"
-  loadingUrl="undefined" />
+**Johanna:** Mit dem Bewusstsein, dass wir mit unserer Vegetarischen Einstellung
+nichts verändern. Ich sah mir mit meiner Familie ein Video über die
+konventionelle Kuhhaltung an. In diesem Video wurde ein Kalb der Mutter
+weggenommen. Es wurde auf einen Anhänger gelegt und dann fuhr der Bauer mit dem
+Kälbchen davon. Die Kuh lief lange hinter dem Anhänger her und beide schrien
+fürchterlich. Dieses Video hat für mich den Ausschlag gegeben.
+
+<RemoteImage alt={`Lebenshof`} size="medium" title={`Asha`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/asha.jpg?w=225"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/08/asha.jpg?w=225"
+loadingUrl="undefined" />
 
 Wir haben alle vor dem Bildschirm gesessen und geweint. Danach haben wir ein
 Datum festgesetzt, so dass wir noch Zeit hatten unsere vegetarischen
@@ -143,7 +152,7 @@ hat sich zusammen mit meiner Frau einen Film über die Milchindustrie angesehen.
 Im Anschluss sagte sie sehr ernst: "Ich esse keine Milchprodukte mehr! Auch
 keinen Käse bei Oma!"
 
-Zunächst haben wir nur gelächelt, sie ist ja erst 6 Jahre alt. Aber seitdem isst
+Zunächst haben wir nur gelächelt, sie ist ja erst 6 Jahre alt. Aber seitdem isst
 sie weder Milchschokolade noch sonstige Milchprodukte, sie lehnt es kategorisch
 ab. Sie ist als Vegetarierin aufgewachsen, aber zum Veganismus hat sie sich
 selbst entschieden.
@@ -152,13 +161,10 @@ selbst entschieden.
 Arterhaltung beiträgt. War das schon immer Dein Hauptthemengebiet, oder gab es
 schon mal ein anderes?
 
-<RemoteImage
-  alt="Lebenshof"
-  size="medium"
-  title="Maxi"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/mini.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/mini.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Lebenshof`} size="medium" title={`Maxi`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/mini.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/08/mini.jpg?w=300"
+loadingUrl="undefined" />
 
 **Johanna:** Es gibt immer Themen die mich faszinieren oder so dermaßen wütend
 machen, dass ich darüber schreiben muss. Tierschutz im "Kleinen" war schon immer
@@ -172,20 +178,21 @@ stehen und dass die vegane Ernährung letztendlich daraus resultiert.
 **Anne:** Wie macht Ihr das mit dem Hof, bewirtschaftet Ihr ihn komplett zu
 zweit, oder habt Ihr Leute, die Euch dabei unterstützen?
 
-## "Wir bewirtschaften den Lebenshof zu zweit" **Johanna:** Theoretisch bewirtschaften wir ihn nur zu zweit. Aber wir haben zwei Frauen die uns in der Not zur Seite stehen. Bei uns lebt die Frauenpower.
+## "Wir bewirtschaften den Lebenshof zu zweit"
+
+**Johanna:** Theoretisch bewirtschaften wir ihn nur zu zweit. Aber wir haben
+zwei Frauen die uns in der Not zur Seite stehen. Bei uns lebt die Frauenpower.
 
 Das war nicht immer so, wir haben bis vor einigen Monaten noch einen Helfer,
 aber ihm war die Arbeit bei uns zu viel. Ich muss dazu sagen, bei uns kann man
 nichts verdienen, man muss also schon sehr individuell und selbstlos sein, um
 mit uns arbeiten zu wollen.
 
-<RemoteImage
-  alt="Lebenshof"
-  size="full"
-  title="Agata"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_agata__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_agata__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhQVFhBgcTMRQiYnGR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEBQb/xAAdEQACAwACAwAAAAAAAAAAAAABAgADEQQSBSIx/9oADAMBAAIRAxEAPwDYHqVVFliVVmj4KzKM5IYAB88ndxn61ltd7m0dRWzW+nt1xn+BgskzwqpiOSrbiCSeozkDzpjuXqiwyisIuNBIzKdwD4DgKAMjgZ/rGsgna3fg1FdaKho5qhgoXa37Drk/TYbn/NQEma5RkwkR6tHuvaaGnFJPT3ALBJt3mEfqqFcZAbuvTTdR+o7beKP57dURyoWZlK/xDbQR05WLjXMlejxOxfbndli3jqe41H9NXC4w3dY7fPJHvddyg8NyCc9uB96caRuwrZ7AZ9jcoX4iqkAKdxJ+x586iyq0UUNOkStBHlwUGHAJzjOeRnRo0xAnXX8avkL1cSir6SqkqXVY3VRzywPB8501e39PaLZNK90dfnlXAMkZITnkAjv30aNBl7LkgXxtNZ7Ddn//2Q==" />
+<RemoteImage alt={`Lebenshof`} size="full" title={`Agata`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_agata__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_agata__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhQVFhBgcTMRQiYnGR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEBQb/xAAdEQACAwACAwAAAAAAAAAAAAABAgADEQQSBSIx/9oADAMBAAIRAxEAPwDYHqVVFliVVmj4KzKM5IYAB88ndxn61ltd7m0dRWzW+nt1xn+BgskzwqpiOSrbiCSeozkDzpjuXqiwyisIuNBIzKdwD4DgKAMjgZ/rGsgna3fg1FdaKho5qhgoXa37Drk/TYbn/NQEma5RkwkR6tHuvaaGnFJPT3ALBJt3mEfqqFcZAbuvTTdR+o7beKP57dURyoWZlK/xDbQR05WLjXMlejxOxfbndli3jqe41H9NXC4w3dY7fPJHvddyg8NyCc9uB96caRuwrZ7AZ9jcoX4iqkAKdxJ+x586iyq0UUNOkStBHlwUGHAJzjOeRnRo0xAnXX8avkL1cSir6SqkqXVY3VRzywPB8501e39PaLZNK90dfnlXAMkZITnkAjv30aNBl7LkgXxtNZ7Ddn//2Q=="
+/>
 
 Zu den ehrenamtlichen Helfern kommen noch Spender und Sponsoren. Wir konnten
 drei Firmen gewinnen die uns hin und wieder mit Futterspenden unterstützen. Und
@@ -198,18 +205,15 @@ Es ist ein ewiger Kreislauf aus geben und verzehren.
 **Anne:** Bleibt bei der ganzen Arbeit auf dem Hof und als Autorin eigentlich
 auch noch Zeit für Euch? Was macht Ihr, wenn Ihr mal wegfahren wollt?
 
-<RemoteImage
-  alt="Lebenshof"
-  size="medium"
-  title="Toffi"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/toffi.jpg?w=225"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/toffi.jpg?w=225"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Lebenshof`} size="medium" title={`Toffi`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/toffi.jpg?w=225"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/08/toffi.jpg?w=225"
+loadingUrl="undefined" />
 
 **Johanna:** Wir versuchen alles halbe Jahr mal ins Kino zu gehen. Ansonsten ist
 wegfahren so eine Sache. Über Nacht geht nur im Notfall, da wir unsere Hunde
 dann in die Hundepension im Nachbarort abgeben müssen und das können wir uns
-nicht immer leisten. Urlaub ist für die nächsten _(lacht)_ – nun, wie lange
+nicht immer leisten. Urlaub ist für die nächsten _(lacht)_  – nun, wie lange
 leben Katzen? - Jahre gestrichen. Wir haben vor, in diesen Ferien mit unser
 Tochter in einen Freizeitpark zu fahren, ich hoffe, dass das klappt. Hin und
 wieder besuchen wir außerdem Brittas Eltern.
@@ -221,36 +225,39 @@ ertränkt werden. Mein Opa hat ihn gerettet und mit nach Hause gebracht. Ich bin
 mit ihm aufgewachsen und er starb kurz vor meinem 19 Lebensjahr.
 
 **Anne:** Du schreibst ja unter anderem für die
-"[Vegan News](http://www.vegan-news.de)" und führst außerdem auch noch
+"[Vegan News](http://www.vegan-news.de)"  und führst außerdem auch noch
 [ein persönliches Blog](http://tierhof-amoa.blogspot.de) zum Thema vegane
 Lebensweise und Tierrecht. Gibt es noch mehr von Dir im Netz zu finden?
 
-<RemoteImage
-  alt="Lebenshof"
-  size="full"
-  title="Stefano Emo"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_stefano-emo__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_stefano-emo__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBgcF/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBBEhAAUSMUFhE1GBBjJCwXGR8f/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAaEQADAAMBAAAAAAAAAAAAAAAAARECITFB/9oADAMBAAIRAxEAPwDSaWGKKKeV6dkYxkRsyD7hkfHv46aVt9RHLWGCfmoSQI8jKCGut7gDpntqRTVwppw9TLTEhbJzRYxzLDAHtjpfWfV+5STVW6QUFDNG1VKruZH5FAjXZFtm1za5z+54ybLPFto0uWMBZCwYRgcRg4/nOdQlkLSIomUSAEnkOSt8H921ShvtalPNHTTTh+d0laTkQoPa+P8AdWv6d3mbcKbjOEEq55gBVfGTbtpGoNF4MrYxX00cVVEbLIHV0JVhb8hnJGuK+1V1RWRz1FFIzrfm/qqhIuT57BfPXRo0WbnCVWUs0jPURxtG7m4p44FfibZZT/dvF76dsdHuNIwSGA+mxBdnQISl72t7+NGjRBD/2Q==" />
+<RemoteImage alt={`Lebenshof`} size="full" title={`Stefano Emo`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_stefano-emo__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_stefano-emo__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBgcF/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBBEhAAUSMUFhE1GBBjJCwXGR8f/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAaEQADAAMBAAAAAAAAAAAAAAAAARECITFB/9oADAMBAAIRAxEAPwDSaWGKKKeV6dkYxkRsyD7hkfHv46aVt9RHLWGCfmoSQI8jKCGut7gDpntqRTVwppw9TLTEhbJzRYxzLDAHtjpfWfV+5STVW6QUFDNG1VKruZH5FAjXZFtm1za5z+54ybLPFto0uWMBZCwYRgcRg4/nOdQlkLSIomUSAEnkOSt8H921ShvtalPNHTTTh+d0laTkQoPa+P8AdWv6d3mbcKbjOEEq55gBVfGTbtpGoNF4MrYxX00cVVEbLIHV0JVhb8hnJGuK+1V1RWRz1FFIzrfm/qqhIuT57BfPXRo0WbnCVWUs0jPURxtG7m4p44FfibZZT/dvF76dsdHuNIwSGA+mxBdnQISl72t7+NGjRBD/2Q=="
+/>
 
 **Johanna:** Ja, einiges, ich habe für das Online-Magazin
 [Tuckenalarm](http://www.tuckenalarm.com) einen Artikel geschrieben. Ich
 schreibe hin und wieder Rezensionen für Bücher und Hörbücher. Man findet manche
 Kommentare auf der Seite der TAZ und der Frankfurter Rundschau zu
 unterschiedlichen politischen Themen. Außerdem habe ich zwei Bücher
-herausgebracht und führe noch zwei weitere , recht persönliche Blogs zu meinem
+herausgebracht und führe noch zwei weitere , recht persönliche Blogs zu meinem
 Leben und Erlebten.
 
 **Anne:** Wie seit Ihr zum Buddhismus gekommen?
 
-## "Ich glaube, ich war schon immer Buddistin" **Johanna:** Ich glaube ich war schon immer Buddhistin. Ich habe mir als Kind schon Gedanken über die Welt und das Leben im Allgemeinen gemacht. Leid war dabei immer ein großes Thema. Mit 12 habe ich das alte Testament gelesen und mich dann entschieden keine Christin mehr zu sein.
+## "Ich glaube, ich war schon immer Buddistin"
+
+**Johanna:** Ich glaube ich war schon immer Buddhistin. Ich habe mir als Kind
+schon Gedanken über die Welt und das Leben im Allgemeinen gemacht. Leid war
+dabei immer ein großes Thema. Mit 12 habe ich das alte Testament gelesen und
+mich dann entschieden keine Christin mehr zu sein.
 
 Später habe ich dann die Tora und den Koran gelesen, beides nur halbherzig. Ich
 habe mich für das Heidentum und für die indische Mythologie interessiert, aber
 ich bin nirgends richtig hängen geblieben. Bis eine buddhistische Freundin bei
-einem Autounfall gestorben ist. Ab diesem Zeitpunkt habe ich mich mehr mit dem
-Buddhismus auseinandergesetzt. Aber es hat viele Jahre gedauert, bis ich mich
-dazu entschlossen habe, als Buddhistin zu leben.
+einem Autounfall gestorben ist. Ab diesem Zeitpunkt habe ich mich mehr mit
+dem Buddhismus auseinandergesetzt. Aber es hat viele Jahre gedauert, bis ich
+mich dazu entschlossen habe, als Buddhistin zu leben.
 
 Im November 2009 habe ich dann auch äußerlich den Schritt gewagt. Ich habe mir
 den Kopf rasiert und das
@@ -259,13 +266,11 @@ abgelegt. Seitdem lebe ich offen als Buddhistin. Ich bin bewusst keiner Schule
 anhängig, ich gebe den Weg des Pacceka Bodhi, ein Weg, den alten Überlieferungen
 zufolge auch Buddha gegangen ist.
 
-<RemoteImage
-  alt="Lebenshof"
-  size="full"
-  title="Shadi"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_shadi__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_shadi__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAHAAAAQMFAAAAAAAAAAAAAAAAAAEGCAIDBAUH/8QAKhAAAgIBAwMCBgMBAAAAAAAAAQIDBBEABSEGEjETUQcUIkFhcRYykbH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgME/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAEQMEEiEiMf/aAAwDAQACEQMRAD8Axdk62Nh7B3RkhiUqAq57snnBx5GP+6clH5u/t9+hsyPa3e3CDSZVCgHPcCSeAuODqPXTm8RSSLXmQhyFXJI+rB1Jn4cb3a/jwijtwVLvzCmSOZOSmMAL91JB8/vGlC8oXU19jqH5GpWtb56ezSJIKsiWSMtMv9uF8gD3/Gl3aWjuFmU7XLE8cky8o+MePuPA4Jz+dXer6FSP4gbfvfUe3TWNjjrii00TBY0klOA3bnuZee0k5Pg+Bpp2OmaS3bc0W9Sh0f068daTtd1X3bzjwP1qbY6lAbkeNml9K1HIM96MGVwOQQeDrq20dVWK1OR6lplM8haSV8GTIADZzznGOP8ANGjTH7NGqqs3oXHBQ6mg3FozZtMYg31IYu1gvv5wR7/cap3cQPfdFaOWszEoyyEPGAMgZ86NGhe6uaNnGMYLKaqf/9k=" />
+<RemoteImage alt={`Lebenshof`} size="full" title={`Shadi`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_shadi__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_shadi__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAHAAAAQMFAAAAAAAAAAAAAAAAAAEGCAIDBAUH/8QAKhAAAgIBAwMCBgMBAAAAAAAAAQIDBBEABSEGEjETUQcUIkFhcRYykbH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgME/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAEQMEEiEiMf/aAAwDAQACEQMRAD8Axdk62Nh7B3RkhiUqAq57snnBx5GP+6clH5u/t9+hsyPa3e3CDSZVCgHPcCSeAuODqPXTm8RSSLXmQhyFXJI+rB1Jn4cb3a/jwijtwVLvzCmSOZOSmMAL91JB8/vGlC8oXU19jqH5GpWtb56ezSJIKsiWSMtMv9uF8gD3/Gl3aWjuFmU7XLE8cky8o+MePuPA4Jz+dXer6FSP4gbfvfUe3TWNjjrii00TBY0klOA3bnuZee0k5Pg+Bpp2OmaS3bc0W9Sh0f068daTtd1X3bzjwP1qbY6lAbkeNml9K1HIM96MGVwOQQeDrq20dVWK1OR6lplM8haSV8GTIADZzznGOP8ANGjTH7NGqqs3oXHBQ6mg3FozZtMYg31IYu1gvv5wR7/cap3cQPfdFaOWszEoyyEPGAMgZ86NGhe6uaNnGMYLKaqf/9k="
+/>
 
 Meine Frau teilt den Weg mit mir. Jedoch geht sie ihn leiser und bedachter als
 ich. Shaya wird buddhistisch erzogen, das bedeutet zunächst einmal, dass sie
@@ -278,7 +283,7 @@ wird sie für sich herausfinden.
 
 **Johanna:** Nein, ich denke eher, das Erste setzte das Zweite voraus. Hier
 würden mir sicherlich viele Buddhisten widersprechen. Aber ich glaube an
-[die 5 Sila](http://de.wikipedia.org/wiki/Fünf_Silas) _(Tugendregeln,
+[die 5 Sila](http://de.wikipedia.org/wiki/Fünf_Silas)   _(Tugendregeln,
 buddhistische Übungsregeln, Anm. Anne)_ , die ähnlich wie die 10 Gebote
 aufgebaut sind, auch hier heißt es: "Ich nehme mich der Übungsregel an, keinen
 anderen zu gefährden oder zu töten."
@@ -287,17 +292,14 @@ Da ich mich in der Verantwortung sehe, auch dafür zu sorgen, das niemand
 gefährdet oder getötet wird, um mich zu ernähren, gehört das Ablehnen von
 Fleisch und Milchkonsum für mich unbedingt dazu.
 
-<RemoteImage
-  alt="Lebenshof"
-  size="medium"
-  title="Der Tierhof AMOA"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/hof-jetzt.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/hof-jetzt.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Lebenshof`} size="medium" title={`Der Tierhof AMOA`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/hof-jetzt.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/08/hof-jetzt.jpg"
+loadingUrl="undefined" />
 
 **Anne:** Shaya _(Name von Johannas und Brittas Tochter, Anm. Anne)_ ,
 [AMOA](http://www.tierhof-amoa.de), das klingt nach sehr bedeutungsvollen Namen.
-Möchtest Du uns Ihre Bedeutung erklären? [AMOA](http://www.tierhof-amoa.de) ist
+Möchtest Du uns Ihre Bedeutung erklären? [AMOA](http://www.tierhof-amoa.de) ist
 eine Zusammenfassung aus einem Vornamen unserer Tochter und der richtigen
 buddhistischen Bedeutung zu Amoha, was in Sanskrit soviel bedeutet wie:
 Unverblendet, realistisch und klar.
@@ -308,15 +310,17 @@ würdevolle wunderschöne klare Lotusblüte".
 **Anne:** Liebe Johanna, möchtest Du uns vielleicht erzählen, wie Shaya in Euer
 Leben gekommen ist?
 
-## "Ich habe mir immer ein Kind gewünscht" **Johanna:** Ich selbst kann aus traumatischen Gründen keine Kinder bekommen. Dennoch habe ich mir immer ein Kind gewünscht, so sehr, dass ich dadurch sehr unglücklich wurde. Als ich Britta kennenlernte, wollte sie zunächst keine Kinder.
+## "Ich habe mir immer ein Kind gewünscht"
 
-<RemoteImage
-  alt="Lebenshof"
-  size="medium"
-  title="Die blinde Bebbles"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/bebbles-ist-blind.jpg?w=222"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/bebbles-ist-blind.jpg?w=222"
-  loadingUrl="undefined" />
+**Johanna:** Ich selbst kann aus traumatischen Gründen keine Kinder bekommen.
+Dennoch habe ich mir immer ein Kind gewünscht, so sehr, dass ich dadurch sehr
+unglücklich wurde. Als ich Britta kennenlernte, wollte sie zunächst keine
+Kinder.
+
+<RemoteImage alt={`Lebenshof`} size="medium" title={`Die blinde Bebbles`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/bebbles-ist-blind.jpg?w=222"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/08/bebbles-ist-blind.jpg?w=222"
+loadingUrl="undefined" />
 
 Also habe ich es noch einmal versucht. Ich dachte tatsächlich, wenn ich nicht
 versuche, schwanger zu werden, sterbe ich. So hat es sich für mich wirklich
@@ -346,16 +350,14 @@ geschlossen, ich weiß gar nicht, ob da heute überhaupt noch eine Bar drin ist.
 
 ## "Ich war sofort bis über beide Ohren verliebt"
 
-<RemoteImage
-  alt="Lebenshof"
-  size="medium"
-  title="Maxi Mumm und Mini (v. l. n. r.)"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/maxi-mumm-und-mini-v-l-n-r.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/maxi-mumm-und-mini-v-l-n-r.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Lebenshof`} size="medium"
+title={`Maxi Mumm und Mini (v. l. n. r.)`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/maxi-mumm-und-mini-v-l-n-r.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/08/maxi-mumm-und-mini-v-l-n-r.jpg?w=300"
+loadingUrl="undefined" />
 
 **Johanna:** Bei mir ja, ich habe Britta von hinten gesehen und war sofort bis
-über beide Ohren verliebt. Nachdem ich ihr zum Abschied einen Kuss auf die Stirn
+über beide Ohren verliebt. Nachdem ich ihr zum Abschied einen Kuss auf die Stirn
 gedrückt hatte, konnte sie auf dem Heimweg die Kupplung ihres Wagens nicht mehr
 bedienen, ich glaube, ab dem Zeitpunkt war es auch um sie geschehen. _(lacht)_
 
@@ -370,13 +372,11 @@ Interessen, gründen eine Familie und retten hilflosen Tieren das Leben...
 Ich war im Grunde meines Herzens schon immer und bin es wohl auch nach wie vor,
 ein Punk mit Leib und Seele, Britta hingegen ist eine Polizistin.
 
-<RemoteImage
-  alt="Lebenshof"
-  size="medium"
-  title="Natchi wurde in Bulgarien gefunden. Sie hat keine Augen."
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/nachti.jpg?w=225"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/nachti.jpg?w=225"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Lebenshof`} size="medium"
+title={`Natchi wurde in Bulgarien gefunden. Sie hat keine Augen.`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/nachti.jpg?w=225"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/08/nachti.jpg?w=225"
+loadingUrl="undefined" />
 
 Als ich erfahren habe, dass sie Bullin ist (das ist liebevoll gemeint), bin ich
 fast in Ohnmacht gefallen. Nachdem ich ihr von meiner Drogenvergangenheit
@@ -392,17 +392,14 @@ Wie kann man aktiv werden?
 
 **Johanna:** Wir sind kein Verein. Wir werden noch diesen Monat die
 Gemeinnützigkeit beim Finanzamt beantragen, so dass wir Spendenquittungen
-ausstellen können. Bis dahin sind alle Spenden selbstlos.
+ausstellen können. Bis dahin sind alle Spenden selbstlos.
 
 ## "Wir haben eine Spendenliste"
 
-<RemoteImage
-  alt="Lebenshof"
-  size="medium"
-  title="Flecki"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/flecki.jpg?w=225"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/flecki.jpg?w=225"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Lebenshof`} size="medium" title={`Flecki`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/flecki.jpg?w=225"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/08/flecki.jpg?w=225"
+loadingUrl="undefined" />
 
 Wir benötigen immer dringend Katzenfutter und Katzenstreu. Aus dem Grund habe
 ich [eine Spendenliste](http://www.amazon.de/registry/wishlist/2P1NRWBUCJD71)
@@ -415,19 +412,18 @@ ausgeben.
 Am Tag verfüttern wir 11 Dosen Katzenfutter, außerdem abends noch Trockenfutter.
 Im Monat sind das ca. 330 Dosen. Die Erfahrung zeigt, dass die gespendeten Dosen
 nie bis zum Ende des Monats reichen. Letzen Monat waren es ca. 200, diesen Monat
-werden es etwas mehr sein, da für uns einige Spendenaktionen gemacht haben. Im
+werden es etwas mehr sein, da für uns einige Spendenaktionen gemacht haben. Im
 Winter nehmen die Spenden ab. Im Notfall kaufen wir dann ein paar Dosen von der
 tierversuchsfreien DM-Hausmarke.
 
 **Anne:** Vermittelt Ihr auch Tiere?
 
-<RemoteImage
-  alt="Lebenshof"
-  size="medium"
-  title="Katzenmutter Bommel mit ihren Babies"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bommel-mit-ihren-babies__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bommel-mit-ihren-babies__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAuEAACAQMCBAMHBQAAAAAAAAABAgMEBREABgcSITETFEEVIjI0UWFxQlKBgpH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAHREAAgIDAAMAAAAAAAAAAAAAAQIAEQMSIRNBkf/aAAwDAQACEQMRAD8AyWmxROFe/XqlsqP8McyF5SPqVyAo/Jz9tdO68Poae1PcFv61wHvKtNByKU/fzMewHU6je/dv3Db17b27fIJb1yePJR07tI8DHOAz9RkevUka0WxN374tdcsNRJSbaooQtZUSSkU4wB1Yt3JIGcfD3xpYxgDojXazyVE8LNyVNriuFpgp5w6c4gqpgkg/qOhPrgkaiNdS3G07gqaO80s9HXRseaKZCjfkA9x9x01Srxu/deyK2l2rQKtdVU8CMlVT80geJwCjArksB25iPtgY1UPa9v4icOaqHcFn83dKOFnSOTCTwsRjnR/04IJ+hA6jQlVPIYzPQvoEUKThhYxWpcLq9RcLiW8SWSR8JK5OSxX6Z9M412Wst0hr6hrbd4YKCpBjlpHgLp4ZwSoQELkkDqR2GNGjVTKJv+DHWuvIwbdWko7Bu26RU/mJigt6tK3O8pRMKGJ9Azf4NIfD6iqKW33jzssskNfST0bzOvy7sp98dsrnvjt/OjRpQUEiSpgRxkse6+VP/9k=" />
+<RemoteImage alt={`Lebenshof`} size="medium"
+title={`Katzenmutter Bommel mit ihren Babies`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bommel-mit-ihren-babies__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bommel-mit-ihren-babies__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAuEAACAQMCBAMHBQAAAAAAAAABAgMEBREABgcSITETFEEVIjI0UWFxQlKBgpH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAHREAAgIDAAMAAAAAAAAAAAAAAQIAEQMSIRNBkf/aAAwDAQACEQMRAD8AyWmxROFe/XqlsqP8McyF5SPqVyAo/Jz9tdO68Poae1PcFv61wHvKtNByKU/fzMewHU6je/dv3Db17b27fIJb1yePJR07tI8DHOAz9RkevUka0WxN374tdcsNRJSbaooQtZUSSkU4wB1Yt3JIGcfD3xpYxgDojXazyVE8LNyVNriuFpgp5w6c4gqpgkg/qOhPrgkaiNdS3G07gqaO80s9HXRseaKZCjfkA9x9x01Srxu/deyK2l2rQKtdVU8CMlVT80geJwCjArksB25iPtgY1UPa9v4icOaqHcFn83dKOFnSOTCTwsRjnR/04IJ+hA6jQlVPIYzPQvoEUKThhYxWpcLq9RcLiW8SWSR8JK5OSxX6Z9M412Wst0hr6hrbd4YKCpBjlpHgLp4ZwSoQELkkDqR2GNGjVTKJv+DHWuvIwbdWko7Bu26RU/mJigt6tK3O8pRMKGJ9Azf4NIfD6iqKW33jzssskNfST0bzOvy7sp98dsrnvjt/OjRpQUEiSpgRxkse6+VP/9k="
+/>
 
 **Johanna:** Nur in Ausnahmesituationen. Momentan ist so eine Ausnahmesituation.
 Wir haben im Mai eine trächtige Katze aufgenommen, die am 2. Juli 6 Welpen
@@ -444,13 +440,11 @@ vermittelt.
 Die Regenbogenbrücke ist eigentlich die Asenbrücke, eine Verbindung zwischen
 Midgart (Himmel) und Asgart (Erde).
 
-<RemoteImage
-  alt="Lebenshof"
-  size="medium"
-  title="Bommels verstorbener Sohn Mary"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/mary-verstorben.jpg?w=225"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/mary-verstorben.jpg?w=225"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Lebenshof`} size="medium"
+title={`Bommels verstorbener Sohn Mary`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/mary-verstorben.jpg?w=225"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/08/mary-verstorben.jpg?w=225"
+loadingUrl="undefined" />
 
 Ich weiß nicht, wer diese Mythologie mit in die Tierhalterwelt brachte. Auf
 jeden Fall bedeutet sie einen kleinen Hoffnungsschimmer in der Trauer um ein
@@ -461,7 +455,7 @@ immerwährendes (Will)Kommen und Gehen (Abschiednehmen).
 allen das Beste für die Zukunft! Nachdem wir das Interview mit einem Deiner
 Lieblingszitate begonnen haben, lass uns eines meiner Lieblingszitate an das
 Ende setzen: "Sei Du selbst die Veränderung, die Du Dir wünschst für diese
-Welt." (Mahatma Gandhi) - In diesem Sinne: Namasté &lt;3
+Welt." (Mahatma Gandhi) - In diesem Sinne: Namasté &lt;3
 
 **Johanna:** ( _lacht_ ) Das ist auch eines MEINER Lieblingszitate! ( _faltet
 die Hände in Brusthöhe, beugt den Kopf leicht, führt die gefalteten Hände mit

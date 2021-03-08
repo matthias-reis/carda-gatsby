@@ -13,9 +13,9 @@ excerpt: Mein Jahresrückblick 2013 ist fertig - Ihr Lieben, ich hoffe, Ihr seid
 focusKeyword: Jahresrückblick 2013
 labels:
   - "2013"
+  - Geschichten & Erlebtes
   - Jahresbericht
   - Jahresrückblick
-  - Tagebuch
 type: Artikel
 typeName: Artikel
 date: 2014-01-09T09:29:13.000Z
@@ -32,18 +32,19 @@ subTitle: Das war 2013
   
 ---
 
+**Lang ist es her, dass ich mich das letzte Mal bei Euch gemeldet habe. Ich
+wünsche Euch ein frohes Neues! Ich hoffe, Ihr seid alle gut in 2014 angekommen
+und es geht Euch gut!**
+
 Schon seit gefühlten Ewigkeiten habe ich mir vorgenommen, endlich meinen
 Jahresrückblick zu veröffentlichen und heute ist es soweit! Die Statistik-Elfen
 haben ihn für mich erstellt und ich finde ihn sehr interessant, daher möchte ich
 ihn Euch natürlich ungern vorenthalten.
 
-<RemoteImage
-  alt=""
-  size="medium"
-  title=""
-  mediumUrl="http://www.wordpress.com/wp-content/mu-plugins/annual-reports/img/2012-emailteaser.png"
-  largeUrl="http://www.wordpress.com/wp-content/mu-plugins/annual-reports/img/2012-emailteaser.png"
-  loadingUrl="undefined" />
+<RemoteImage alt={`} size="medium" title={`}
+mediumUrl="http://www.wordpress.com/wp-content/mu-plugins/annual-reports/img/2012-emailteaser.png"
+largeUrl="http://www.wordpress.com/wp-content/mu-plugins/annual-reports/img/2012-emailteaser.png"
+loadingUrl="undefined" />
 
 [](//2013/annual-report/)
 

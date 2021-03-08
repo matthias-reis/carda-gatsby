@@ -12,17 +12,17 @@ excerpt: Bunratty Castle wird in nahezu jedem Reiseführer als legendär
   wilde Geschichte zurück.
 focusKeyword: Bunratty Castle
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
   - Bunratty Castle
   - Burg
   - Burgen
   - Burgfestung
+  - Fernweh
   - Feste
   - Festung
   - Irland
   - Irland2017
   - Normannen
-  - Reisen
   - Wikinger
 type: Artikel
 typeName: Artikel

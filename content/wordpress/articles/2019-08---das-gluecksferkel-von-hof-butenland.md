@@ -11,7 +11,6 @@ excerpt: "Frederik brachte ein Abenteuer auf Hof Butenland: Das Ferkel rettete
   sich durch einen Sprung vom Tiertransporter - bei 90 km/h auf der Autobahn."
 focusKeyword: Tiertransporter
 labels:
-  - Darum vegan
   - Ethik
   - ethischer Veganer
   - Ferkel
@@ -60,13 +59,12 @@ keine Verletzungen davontrug.
 
 ## Ein gefährlicher Sprung in die Freiheit
 
-<RemoteImage
-  alt="Frederik kann sich jetzt entspannen."
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_frederik-gaehnt__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_frederik-gaehnt__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHAv/EACkQAAICAQMDAwMFAAAAAAAAAAECAxEEAAUhBhIxEyJBByNhMkJRcZH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQECAwb/xAAhEQABAwMEAwAAAAAAAAAAAAABAAIDBCExBRFB4RJR8P/aAAwDAQACEQMRAD8AzZ8ZKfMzHDEgByEC0BSj2j8Vf+6n+mem9yyZpYtr2v0QVSQyZEhRSrEgO3FkcfFk/Gq/BnqY+3L+9GOHaywYDxzzRr5/nTnYuo99gyBiwbjLDcqUVJjZYrHtDA8fNnS4jlxXYQyyS7iljHiBzb7pa9H9M9xfdVbLzMWHZaBEwQ+u7UO5Qh4HN+4mqrydJ1Z0d03tmzZcsORlRzrE7RyTzBl7lUt+kAXdVXnnjTRvqDljZOos+GUZAi9FYbQqne7MCaPPAW/zesn3LesvdMhcnccl8iV/3M3j+h4GrmRotlZ0ejTVTiZCGBtsXwDi3vpTewIrYwseTR13uW24TZcfdjRl3ai/IYUD4o/jRo0M5OoidgmmTseMccn1cn3IHI9Ti61R5ZmjynhFdqmhejRqWoljjvlf/9k=" />
+<RemoteImage alt={`Frederik kann sich jetzt entspannen.`} size="medium"
+title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_frederik-gaehnt__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_frederik-gaehnt__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHAv/EACkQAAICAQMDAwMFAAAAAAAAAAECAxEEAAUhBhIxEyJBByNhMkJRcZH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQECAwb/xAAhEQABAwMEAwAAAAAAAAAAAAABAAIDBCExBRFB4RJR8P/aAAwDAQACEQMRAD8AzZ8ZKfMzHDEgByEC0BSj2j8Vf+6n+mem9yyZpYtr2v0QVSQyZEhRSrEgO3FkcfFk/Gq/BnqY+3L+9GOHaywYDxzzRr5/nTnYuo99gyBiwbjLDcqUVJjZYrHtDA8fNnS4jlxXYQyyS7iljHiBzb7pa9H9M9xfdVbLzMWHZaBEwQ+u7UO5Qh4HN+4mqrydJ1Z0d03tmzZcsORlRzrE7RyTzBl7lUt+kAXdVXnnjTRvqDljZOos+GUZAi9FYbQqne7MCaPPAW/zesn3LesvdMhcnccl8iV/3M3j+h4GrmRotlZ0ejTVTiZCGBtsXwDi3vpTewIrYwseTR13uW24TZcfdjRl3ai/IYUD4o/jRo0M5OoidgmmTseMccn1cn3IHI9Ti61R5ZmjynhFdqmhejRqWoljjvlf/9k="
+/>
 
 Eine Frau, die mit ihrem Auto hinter dem Transporter fuhr, nahm die nächste
 Ausfahrt und machte sich gemeinsam mit der Polizei auf die Suche nach dem
@@ -91,24 +89,22 @@ konnte inzwischen erfolgreich operiert werden und ist bereits abgeheilt. Der
 Kleine ist wohlauf und erfreut sich seines Lebens.
 
 Weil mich das Schicksal von Frederik und seinen Artgenossen so bewegt, habe ich
-mich vor Jahren dazu entschieden, [vegan zu leben](/category/vegan-2/go-vegan/).
-Für mich hat jedes Lebewesen das Recht auf ein schmerzfreies Leben ohne Angst.
-Es macht keinen Unterschied, ob es sich um eine Katze, einen Hund, ein
-Kaninchen, ein Schwein, eine Kuh oder [einen Nerz](/2014/11/fakepelz-echtpelz/)
-handelt.
+mich vor Jahren dazu entschieden,
+[vegan zu leben](/category/vegan/veganes-leben/). Für mich hat jedes Lebewesen
+das Recht auf ein schmerzfreies Leben ohne Angst. Es macht keinen Unterschied,
+ob es sich um eine Katze, einen Hund, ein Kaninchen, ein Schwein, eine Kuh oder
+[einen Nerz](/2014/11/fakepelz-echtpelz/) handelt.
 
 Aus diesem Grund habe ich heute auch eine Tierpatenschaft für Frederik
 übernommen. Ich habe ihn in mein Herz geschlossen und freue mich, dass es ihm
 gut geht. Wer weiß: Vielleicht kann ich ihn ja sogar eines Tages mal besuchen.
 Ich würde mich sehr freuen, ihn persönlich kennenzulernen.
 
-<RemoteImage
-  alt="Frederik ist jetzt mein Pate"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_Bildschirmfoto-2019-08-13-um-10.20.30.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_Bildschirmfoto-2019-08-13-um-10.20.30.png__l.jpg"
-  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAYAAABNChwpAAAACXBIWXMAAAsTAAALEwEAmpwYAAADjUlEQVRIx8VX2U7bUBDN7/YXeEcVTzwgJHgA8YCAkoIQBUEk1gBZSllFAqRJIQESSAJOsy+2T30GrutAm7IY9UojO9e+nrlzzpy58cAapmlaZvAGatzPWfb4t0umvulpm6DpTZiG3h4I3BlOx20BcBilC0CLAnd7QHIGZnZHgoEd2tMP/c3JY0edgvGIcy0G44cXtUwYd+kYtKtDtNJr1tyUjYreamF8fBzd3d2YnZ3F6Ogoenp6MDQ0hIGBAXR1dcnc+vo6pqenMTIyAq/Xi+HhYfT29mJiYgJ9fX0YHBxEvV53ZKBVBVJf0Cgmkc/l0Wg0USnXoN3mgMIODCsTaoTDYZyfnyMSiWB/fx8rKytYXl7G5uYmZmZm5Hp4eIhoNCrPj4+PcXBwgIWFBWxsbMh6rmk2m44A6pqV+j0UcpfQshnbWWD+E74HvUBuzQagVCqhWq0in8/DMAxX+OB5SDDGPn6Af3oIzXoNp9/W8NX3GZHAnL3A0HX4fD7ZJXeztbUlO00mk/K8ZUHEoJTp1vvq+tjaSGgxDXp6A2cHS9hZnUfm7ASR0DKOwn5c708C5bhNxEQiIRBommYHRsf/IlynLNyTMG6luhHDTSry+6lRBM7GYeT2Ht42EIvFZMcM5OTkBFdXV692robn/gOWv0ICrdgojGs/dIuUemIKuhZve7lcLgsHeC0Wi6hUKn+s7xcF4Fxkli9h/DwTTTDrhWfV/VuHx7TF40EJnWaRyCmfimCd5PWVEJiulNTrMvCwWOErRWmVSqlUFobzXjG90WjYuLsFjYcORHgCAfT392N1dRVjY2OYm5sTKWXtU24nJydFXkOh0BPNf0swnv+Z/rYAqM/xeFxqvdNwktAVDihNp7CwUezu7gochGJ7e1skl1e/3490Oi0cKBQK0hfeUv9PMkACUtlyuZwYGw6Jmc1mxRnllyR8NwheOhR5XYOAPZ59myxnx1taWkIwGJTOR0gIDw8bnGfP56FCrXUFApKQGN/c3Igx/Zwj5tQBXm9vbwUedaBwR4odHLi4uJBup7pcp0pw8sEVCFh+FB2yn5XA1DPli4uLAk0qlUKtVpMuSFIyI65WAUcmkxEYWGaP6/7dhYi7Ojo6wunpqZx6nCxXHGEGCBWN965kQEFAFWTKyXwGQuZThAgBoeEJl46Uc3W0dhUCBqM6n3PuXXvBSz7U6T/em7vhc/9Qup2FX8SmgzrdWM2WAAAAAElFTkSuQmCC" />
+<RemoteImage alt={`Frederik ist jetzt mein Pate`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_Bildschirmfoto-2019-08-13-um-10.20.30.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_Bildschirmfoto-2019-08-13-um-10.20.30.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAYAAABNChwpAAAACXBIWXMAAAsTAAALEwEAmpwYAAADjUlEQVRIx8VX2U7bUBDN7/YXeEcVTzwgJHgA8YCAkoIQBUEk1gBZSllFAqRJIQESSAJOsy+2T30GrutAm7IY9UojO9e+nrlzzpy58cAapmlaZvAGatzPWfb4t0umvulpm6DpTZiG3h4I3BlOx20BcBilC0CLAnd7QHIGZnZHgoEd2tMP/c3JY0edgvGIcy0G44cXtUwYd+kYtKtDtNJr1tyUjYreamF8fBzd3d2YnZ3F6Ogoenp6MDQ0hIGBAXR1dcnc+vo6pqenMTIyAq/Xi+HhYfT29mJiYgJ9fX0YHBxEvV53ZKBVBVJf0Cgmkc/l0Wg0USnXoN3mgMIODCsTaoTDYZyfnyMSiWB/fx8rKytYXl7G5uYmZmZm5Hp4eIhoNCrPj4+PcXBwgIWFBWxsbMh6rmk2m44A6pqV+j0UcpfQshnbWWD+E74HvUBuzQagVCqhWq0in8/DMAxX+OB5SDDGPn6Af3oIzXoNp9/W8NX3GZHAnL3A0HX4fD7ZJXeztbUlO00mk/K8ZUHEoJTp1vvq+tjaSGgxDXp6A2cHS9hZnUfm7ASR0DKOwn5c708C5bhNxEQiIRBommYHRsf/IlynLNyTMG6luhHDTSry+6lRBM7GYeT2Ht42EIvFZMcM5OTkBFdXV692robn/gOWv0ICrdgojGs/dIuUemIKuhZve7lcLgsHeC0Wi6hUKn+s7xcF4Fxkli9h/DwTTTDrhWfV/VuHx7TF40EJnWaRyCmfimCd5PWVEJiulNTrMvCwWOErRWmVSqlUFobzXjG90WjYuLsFjYcORHgCAfT392N1dRVjY2OYm5sTKWXtU24nJydFXkOh0BPNf0swnv+Z/rYAqM/xeFxqvdNwktAVDihNp7CwUezu7gochGJ7e1skl1e/3490Oi0cKBQK0hfeUv9PMkACUtlyuZwYGw6Jmc1mxRnllyR8NwheOhR5XYOAPZ59myxnx1taWkIwGJTOR0gIDw8bnGfP56FCrXUFApKQGN/c3Igx/Zwj5tQBXm9vbwUedaBwR4odHLi4uJBup7pcp0pw8sEVCFh+FB2yn5XA1DPli4uLAk0qlUKtVpMuSFIyI65WAUcmkxEYWGaP6/7dhYi7Ojo6wunpqZx6nCxXHGEGCBWN965kQEFAFWTKyXwGQuZThAgBoeEJl46Uc3W0dhUCBqM6n3PuXXvBSz7U6T/em7vhc/9Qup2FX8SmgzrdWM2WAAAAAElFTkSuQmCC"
+/>
 
 Wer auch Interesse an einer Patenschaft hat, findet auf der Seite von Hof
 Butenland noch viele weitere Tiere mit ähnlichen Schicksalen. Auf dem Hof können

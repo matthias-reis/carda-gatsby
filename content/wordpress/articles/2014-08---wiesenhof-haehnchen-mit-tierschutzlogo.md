@@ -13,6 +13,7 @@ excerpt: Wiesenhof-Hähnchen mit Tierschutzlogo? Was hat das mit Tierschutz zu
 focusKeyword: Wiesenhof
 labels:
   - Animal Rights
+  - Antifaschismus & Feminismus
   - Biofleisch
   - Bioland
   - der Deutsche Tierschutzbund
@@ -35,13 +36,13 @@ labels:
   - PETA
   - PETA Deutschland
   - petition
-  - Politik & Soziales
   - Quälfleisch
   - Schweine
   - Schweinefleisch
   - Schweinemast
   - Skandal
   - Tiere
+  - Tierhaltung
   - Tierquälerei
   - Tierrechte
   - Tierrechte
@@ -62,7 +63,6 @@ isWerbung: false
 isAffiliate: false
 errors:
   outsideImage: article has at least one image from another domain
-  invalidMdx: "unknown: Unexpected token (11:14)"
 thumbnailId: "8140"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_hahn__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_hahn__l.jpg
@@ -71,15 +71,17 @@ subTitle: Skandal um Tierschutzbund
   
 ---
 
-## unknown: Unexpected token (11:14)
+**Wie jeden Morgen öffnete ich auch heute noch vor dem ersten Tee Facebook und
+las dort auch die neuesten Updates in der Veganergruppe "Tofunutte", in der ich
+seit ein paar Wochen mitdiskutiere. Was ich dort sah, ließ mir das Blut in den
+Adern gefrieren.**
 
-<!--
 Zuerst glaubte ich an einen bösen Scherz, doch es stellte sich ziemlich schnell
 heraus, dass es keiner war. Ein Gruppenmitglied hatte einen Ausschnitt aus einem
 Werbeblättchen gepostet:
 
-<RemoteImage alt="Wiesenhof" size="large" title="Tierschutz-Chlorhähnchen aus
-dem "Privathof" - Ob das die Verbraucher glauben?"
+<RemoteImage alt={`Wiesenhof`} size="large"
+title={`Tierschutz-Chlorhähnchen aus dem "Privathof" - Ob das die Verbraucher glauben?`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_wiesenhof__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_wiesenhof__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwT/xAApEAACAgEDAgUEAwAAAAAAAAABAgMEEQAFEiExBhMUIkEVYYGRQlNx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAIF/8QAHxEAAgMAAgIDAAAAAAAAAAAAAQIAAxEEIRJBE8HR/9oADAMBAAIRAxEAPwDTbqlbaqMUagpXroI1eRuyL0BY9u2uiTb6tyOWR9trOAMgvWVi3fqDjU7tVXdN8X6jJsdeRLDRmA80OEXiQCCc5OevT41YVQJNxiiXiKriXlEi4MZUHoCMg/gfBGitxbkBJHX7FryaHIAYEn67iw+H9thFeeenTqNOoMflV0DYPT3NjC6Y8TVgvTwbjIreQ4DGwck8SRgjqDkY/PfW2+SQxWY4rk0qFSCpC+4KFXC4C9hp/wCFbTWnjimkZIrMfllXdSw5dM4P2PbHzqVr1s2U9qis4O4k8L1oE2HbCsMYPpYf4j+tdJt+tzUt+KVSsaD3BQi4yy4PTH3P70aNP5lj/Fmn1BcGmsXb4jcPqTVjeb72zznzxPEZReg/WnXh7dbnrqMfnZjMwJUqMZB/zRo1kqx2azqANAn/2Q=="
@@ -89,22 +91,21 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 
 Wiesenhof wirbt mit dem Deutschen Tierschutzbund? Ich wollte meinen Augen nicht
 trauen. _"Ganzes Hähnchen frisch, ohne Hals und Innereien 0,49 €/100g
-Aktionspreis"_ heißt es in der Anzeige. Und _"Für mehr Tierschutz - Zertifiziert
-nach den Richtlinien des Deutschen Tierschutzbundes. Das Tierschutzlabel
-verhilft Millionen von Tieren zu besseren Haltungsbedingungen: Ställe mit
-Sitzstangen, mehr Platz durch geringeren "Besatz", mehr Zeit zum Heranwachsen
-und Begrenzung der Transportdauer auf 4 Stunden"._
+Aktionspreis"_ heißt es in der Anzeige.  Und _"Für mehr Tierschutz -
+Zertifiziert nach den Richtlinien des Deutschen Tierschutzbundes. Das
+Tierschutzlabel verhilft Millionen von Tieren zu besseren Haltungsbedingungen:
+Ställe mit Sitzstangen, mehr Platz durch geringeren "Besatz", mehr Zeit zum
+Heranwachsen und Begrenzung  der Transportdauer auf 4 Stunden"._
 
 Nachdem ich den ersten Schock verdaut hatte, begab ich mich zunächst mal auf die
 Seite des Deutschen Tierschutzbundes und fand folgendes vor:
 
-<RemoteImage
-  alt="Wiesenhof"
-  size="thumbnail"
-  title="Hühnermast Wiesenhof Bild: PETA"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_peta-hc3bchnermast-wiesenhof__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_peta-hc3bchnermast-wiesenhof__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKhAAAgEDBAEDAgcAAAAAAAAAAQIDAAQRBRIhMRMGImEUQUJRcYGhscH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBQH/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRITH/2gAMAwEAAhEDEQA/AM702CUxM8WxCpCsOEOPgdn9q6FhAskskl4Fa2CkrufYxIBJBIHxUFrKkkg2AgKgIHQNONrE8GmeS9SRoLthsjOMYB5fB45Ptye8HFRb0q1grXemCEgvbvHFJErRqGJAH4hlhnIznuqWtem7uy06G9lhieCZiEKSq+38s7Scf78VoV7q1nq7W9pFptzbyxp4DLIFwS3tGME5xgEnjukjU0ntbaa1llaIbyJIlfAUjOeP14pJ0F6U9KvPHAWMYKhc7dxGfbnk0yCV/pbeV2LnaqDJ6XHQ/uiihLo08JdxWG5dSQYzs775xn+KX/UV1JIJ7iU+RyoJyfuQOaKK2PQs/9k=" />
+<RemoteImage alt={`Wiesenhof`} size="thumbnail"
+title={`Hühnermast Wiesenhof Bild: PETA`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_peta-hc3bchnermast-wiesenhof__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_peta-hc3bchnermast-wiesenhof__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKhAAAgEDBAEDAgcAAAAAAAAAAQIDAAQRBRIhMRMGImEUQUJRcYGhscH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBQH/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRITH/2gAMAwEAAhEDEQA/AM702CUxM8WxCpCsOEOPgdn9q6FhAskskl4Fa2CkrufYxIBJBIHxUFrKkkg2AgKgIHQNONrE8GmeS9SRoLthsjOMYB5fB45Ptye8HFRb0q1grXemCEgvbvHFJErRqGJAH4hlhnIznuqWtem7uy06G9lhieCZiEKSq+38s7Scf78VoV7q1nq7W9pFptzbyxp4DLIFwS3tGME5xgEnjukjU0ntbaa1llaIbyJIlfAUjOeP14pJ0F6U9KvPHAWMYKhc7dxGfbnk0yCV/pbeV2LnaqDJ6XHQ/uiihLo08JdxWG5dSQYzs775xn+KX/UV1JIJ7iU+RyoJyfuQOaKK2PQs/9k="
+/>
 
 _"Mit dem Tierschutzlabel 'Für Mehr Tierschutz' des Deutschen Tierschutzbundes
 werden Produkte tierischen Ursprungs gekennzeichnet, denen Tierschutzstandards
@@ -119,39 +120,37 @@ Tieren zu Ernährungszwecken als vernünftigen Grund akzeptiert, gilt es, alle
 Möglichkeiten auszuschöpfen, die Situation der Tiere zu verbessern._ **
 _Gestartet wird zunächst mit einem Label für Produkte von Masthühnern und
 Mastschweinen. Die Kriterien sollen aber langfristig für alle landwirtschaftlich
-genutzten Tiere erarbeitet werden."_ ## Macht der Deutsche Tierschutzbund
-gemeinsame Sache mit Skandal-Tierfabriken?
+genutzten Tiere erarbeitet werden."_
+
+## Macht der Deutsche Tierschutzbund gemeinsame Sache mit Skandal-Tierfabriken?
 
 Unter dem Text prangen zwei Logos, denn von dem sogenannten "Tierschutzlabel",
-das offensichtlich Teil einer großangelegte Imagekampagne der PHW-Gruppe (dazu
+das offensichtlich Teil einer großangelegte Imagekampagne der PHW-Gruppe (dazu
 zählt unter anderem Wiesenhof) gehört, gibt es zwei Stufen:
 
-<RemoteImage
-  alt="Wiesenhof"
-  size="full"
-  title="Fragwürdiger Tierschutz in zwei Abstufungen"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_tierschutzlabel_mit_internetadresse_01__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_tierschutzlabel_mit_internetadresse_01__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAeACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcC/8QAKxAAAQMEAgECBAcAAAAAAAAAAQIDBAUREiEABjFBURMUInEjQlJTVJHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMF/8QAJxEAAQMDAgQHAAAAAAAAAAAAAQIDEQAEIaHwElFh0QUxQXGBscH/2gAMAwEAAhEDEQA/ANWpcpw9lqaXH1YZveZKiNPEC4v9OtW4f+OjK5fBFv5CtG53y0/QYLsmSUqAU44VLwU2kk3vvV/PvzgdZiG11uDf7qTrmkFtxknZn1Px9QMVhN27zYgAHftvWg9fqK4NJefjuqU6iwGLql7OvHAnVOwVluRSpb8tciJUHVoDKtnFJCcj9RtskD3xPHRPW4gC05OFKxZQLiSCP65PROp0ynyky20KU+k3GRSQk++hvlRcsJbKSJJ7aZoGzuXHkrSYA69dcYikmlqZR2aqrWI4AW8FKDRuCXjbI+p/zh/5mFlllHOrbbPud8YpNDYfccUtsLClFRycV9/HIh1qH+aO359Fq8cmbhCsqJ03vOabVk60OFMa0oV+WlukPrgBtb6LWLaLEX1ffAHTpk2PNpMlmY449LeWl6L8S5bQFADMWvcnIgegA5pyeuRUk4x2wFCyvxFbHLNMoNPgPB9mMkP/AKioqt9r+OUF42hsoiZ7UD4c848lziAjlPPz/K//2Q==" />
+<RemoteImage alt={`Wiesenhof`} size="full"
+title={`Fragwürdiger Tierschutz in zwei Abstufungen`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_tierschutzlabel_mit_internetadresse_01__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_tierschutzlabel_mit_internetadresse_01__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAeACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcC/8QAKxAAAQMEAgECBAcAAAAAAAAAAQIDBAUREiEABjFBURMUInEjQlJTVJHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMF/8QAJxEAAQMDAgQHAAAAAAAAAAAAAQIDEQAEIaHwElFh0QUxQXGBscH/2gAMAwEAAhEDEQA/ANWpcpw9lqaXH1YZveZKiNPEC4v9OtW4f+OjK5fBFv5CtG53y0/QYLsmSUqAU44VLwU2kk3vvV/PvzgdZiG11uDf7qTrmkFtxknZn1Px9QMVhN27zYgAHftvWg9fqK4NJefjuqU6iwGLql7OvHAnVOwVluRSpb8tciJUHVoDKtnFJCcj9RtskD3xPHRPW4gC05OFKxZQLiSCP65PROp0ynyky20KU+k3GRSQk++hvlRcsJbKSJJ7aZoGzuXHkrSYA69dcYikmlqZR2aqrWI4AW8FKDRuCXjbI+p/zh/5mFlllHOrbbPud8YpNDYfccUtsLClFRycV9/HIh1qH+aO359Fq8cmbhCsqJ03vOabVk60OFMa0oV+WlukPrgBtb6LWLaLEX1ffAHTpk2PNpMlmY449LeWl6L8S5bQFADMWvcnIgegA5pyeuRUk4x2wFCyvxFbHLNMoNPgPB9mMkP/AKioqt9r+OUF42hsoiZ7UD4c848lziAjlPPz/K//2Q=="
+/>
 
 Immer noch ganz baff, ging ich zurück auf die Facebook-Seite, wo
 [die Diskussion unter dem Bild](https://www.facebook.com/groups/663824773653889/permalink/711147608921605/)
 inzwischen in vollem Gange war. Mir fehlen nach wie vor die Worte, Ihr müsst mir
 bitte verzeihen, wenn es mir gerade etwas schwerfällt, mich auszudrücken.
 
-<RemoteImage
-  alt="Schweinetransporter Bild: PETA"
-  size="medium"
-  title="Schweinetransporter Bild: PETA"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/schweinetransporter-peta.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/schweinetransporter-peta.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Schweinetransporter Bild: PETA`} size="medium"
+title={`Schweinetransporter Bild: PETA`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/schweinetransporter-peta.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/08/schweinetransporter-peta.jpg?w=300"
+loadingUrl="undefined" />
 
 Hier werden ganz bewusst Verbraucher getäuscht. Menschen, die der Meinung sind,
-noch Fleisch essen zu müssen, aber gerne auf die Herkunft achten möchten. Es
-muss ganz klar gesagt werden, dass es sich hier NICHT um Biofleisch handelt,
+noch Fleisch essen zu müssen, aber gerne auf die Herkunft achten möchten. Es
+muss ganz klar gesagt werden, dass es sich hier NICHT um Biofleisch handelt,
 sondern um Tiere, die ihr kurzes Leben bei Wiesenhof und anderen Tierfabriken
-unter den schlimmsten Bedingungen verbracht haben. (Selbst Biofleisch bedeutet
+unter den schlimmsten Bedingungen verbracht haben. (Selbst Biofleisch bedeutet
 nicht, dass es den Tieren gut ging, Fleisch bedeutet immer, dass Tiere sterben
 müssen und auch Bio bedeutet nicht immer, dass die Tiere auch artgerecht
 aufgezogen und gehalten werden, aber das nur am Rande)
@@ -203,19 +202,18 @@ Bereits vorgestern war einem andere Gruppenmitglied in einer Kaisers-Filiale
 [etwas Ähnliches](https://www.facebook.com/photo.php?fbid=1458259771099644&set=gm.710465795656453&type=1&theater)
 aufgefallen:
 
-<RemoteImage
-  alt="Wiesenhof"
-  size="large"
-  title="Grillfleisch von zweifelhafter Herkunft"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_grillfleisch__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_grillfleisch__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABIDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBQb/xAApEAACAQMDBAIABwAAAAAAAAABAgMEBREABiESEzFBFCIyQlFhgaGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwUAAQIE/8QAIREAAQQBAwUAAAAAAAAAAAAAAQACESEDEzGhQVFxsfD/2gAMAwEAAhEDEQA/AM5bjtizWsUS1oWuKK4NRKxkUOUJ9BSuB+/vWnT3ywXOuhpBcaWRZ5BCVDHJ6vy+POuG3BJBQ7iPQ5RPhxZbBKjAKsDgZ1kWTt0lyh+eZozRO1SJogvcKojMHDMekllxy3+6Wue4uMjblOG4cUCzsJvavCqXZ2o32hW3vGeVbEh6h6P4dGpJDcqVYY1XckyKFACgx4Ufpo0e/gVwgY+vsKlUO36a+0FRUVkU3fMnbVgxVREACAyqRzydIbrsNDbNuVlZFG0tzpoo0pTEHMiYdPGcg8H3nzppa+7fHqW27Wy0NvMatJN9WjjcnGSzglnOOFHHH8h600+8bmIairkqpqDqcgxsgIKkjPaPDjKjPSSc+jqi2LUDzEE2ptNcKeaZ5ZbDeDI7FmPxfJPn3o1RDa+okzW68iQ8t0mMDPvAJB/rRrGse3KHplf/2Q==" />
+<RemoteImage alt={`Wiesenhof`} size="large"
+title={`Grillfleisch von zweifelhafter Herkunft`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_grillfleisch__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_grillfleisch__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABIDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBQb/xAApEAACAQMDBAIABwAAAAAAAAABAgMEBREABiESEzFBFCIyQlFhgaGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwUAAQIE/8QAIREAAQQBAwUAAAAAAAAAAAAAAQACESEDEzGhQVFxsfD/2gAMAwEAAhEDEQA/AM5bjtizWsUS1oWuKK4NRKxkUOUJ9BSuB+/vWnT3ywXOuhpBcaWRZ5BCVDHJ6vy+POuG3BJBQ7iPQ5RPhxZbBKjAKsDgZ1kWTt0lyh+eZozRO1SJogvcKojMHDMekllxy3+6Wue4uMjblOG4cUCzsJvavCqXZ2o32hW3vGeVbEh6h6P4dGpJDcqVYY1XckyKFACgx4Ufpo0e/gVwgY+vsKlUO36a+0FRUVkU3fMnbVgxVREACAyqRzydIbrsNDbNuVlZFG0tzpoo0pTEHMiYdPGcg8H3nzppa+7fHqW27Wy0NvMatJN9WjjcnGSzglnOOFHHH8h600+8bmIairkqpqDqcgxsgIKkjPaPDjKjPSSc+jqi2LUDzEE2ptNcKeaZ5ZbDeDI7FmPxfJPn3o1RDa+okzW68iQ8t0mMDPvAJB/rRrGse3KHplf/2Q=="
+/>
 
-Hier hatten wir noch gerätselt und daran gedacht, dass das evtl. ein böser
-Fauxpas des Filialleiters sein könnte. Dass es sich dabei um das nächste Große
-Dinge von Seiten der Fleischlobby handelt und der Schriftzug ein tatsächliches
-"Gütesiegel" darstellen soll, habe ich zu dem Zeitpunkt noch nicht genauer
-hinterfragt, mich kurz geärgert und nicht weiter nachrecherchiert.
+Hier hatten wir noch gerätselt und daran gedacht, dass das evtl. ein böser
+Fauxpas des Filialleiters sein könnte. Dass es sich dabei um das nächste Große
+Dinge von Seiten der Fleischlobby handelt und der Schriftzug ein tatsächliches
+"Gütesiegel" darstellen soll, habe ich zu dem Zeitpunkt noch nicht
+genauer hinterfragt, mich kurz geärgert und nicht weiter nachrecherchiert.
 
 Erst mit dem heutigen Facebook-Beitrag ist der Groschen bei mir hörbar gefallen.
 Ich habe mich ein Bisschen schlau gemacht und bin sofort auf ähnliche Aktionen
@@ -225,8 +223,8 @@ anzulocken, ähnliches gilt für Kooperationen, die derzeit vom WWF und dem Vere
 [Vier Pfoten](http://www.vier-pfoten.de/kampagnen/nutztiere/kaninchen/mastkaninchen/zertifikat/)
 gefahren werden.
 
-<RemoteImage alt="Bild: &quot;WWF-Scheiss&quot; Quelle: Der Artgenosse"
-size="large" title="Bild: "WWF-Scheiss" Quelle: Der Artgenosse"
+<RemoteImage alt={`Bild: &quot;WWF-Scheiss&quot; Quelle: Der Artgenosse`}
+size="large" title={`Bild: "WWF-Scheiss" Quelle: Der Artgenosse`}
 mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/wwf-scheiss.jpg?w=646"
 largeUrl="http://cardamonchai.files.wordpress.com/2014/08/wwf-scheiss.jpg?w=646"
 loadingUrl="undefined" />
@@ -236,46 +234,66 @@ mit den folgenden Worten gekündigt:
 
 _"Hiermit kündige ich meine Mitgliedschaft (Nr. xxxxx) ab sofort, da ich es
 ethisch nicht vertreten kann, dass Wiesenhof und andere Tierausbeuterbetriebe
-mit dem Deutschen Tierschutzbund auf ihren Verpackungen werben.
+mit dem Deutschen Tierschutzbund auf ihren Verpackungen werben. 
 [http://www.tierschutzbund.de/tierschutzlabel.html](http://www.tierschutzbund.de/tierschutzlabel.html)
-Für mich war es bisher immer wichtig den Tierschutzbund zu unterstützen, gerade
+ Für mich war es bisher immer wichtig den Tierschutzbund zu unterstützen, gerade
 wegen der Shelter etc., doch dies zwingt mich nun zur Kündigung meiner
 Mitgliedschaft. Meine Spenden werde ich in Zukunft lieber Organisationen
 zukommen lassen, die sich wirklich um das Wohlergehen von Tieren kümmern und die
-nicht lobbygetrieben handeln. Ich bitte um eine schriftliche Bestätigung per
-Mail. Beste Grüße Anne Reis"_
+nicht lobbygetrieben handeln. Ich bitte um eine schriftliche Bestätigung per
+Mail. Beste Grüße Anne Reis"_
 
 Ich denke, dass dem nichts mehr hinzuzufügen ist.
 
-Die liebe Corinna, deren Bekanntschaft ich heute morgen in der Facebook
-Tofu-Gruppe machen durfte, hat einen Brief aufgesetzt. Ich möchte hiermit jedem
+Die liebe Corinna, deren Bekanntschaft ich heute morgen in der Facebook
+Tofu-Gruppe machen durfte, hat einen Brief aufgesetzt. Ich möchte hiermit jedem
 ans Herz legen, diesen Brief per E-Mail an den Deutschen Tierschutzbund
 (kontakt@tierschutzlabel.info) zu schicken und an deren
 [Facebook-Pinnwand](https://www.facebook.com/tierschutzbund?fref=ts) zu posten,
 gerne auch in leicht abgewandelter Form und persönlich auf Euch angepasst. Je
-mehr Briefe und Mails dort eingehen, desto besser. Hier der Brief, Ihr könnt ihn
+mehr Briefe und Mails dort eingehen, desto besser. Hier der Brief, Ihr könnt ihn
 gerne einfach aus meinem Text rauskopieren und weiterverwenden. Bitte gebt ihn
 weiter und teilt ihn mit so vielen Menschen, wie möglich, damit sie ihn auch an
-den Tierschutzbund schicken!
+den Tierschutzbund schicken!
 
-<address>Sehr geehrte Damen und Herren,</address><address>Dienstags flattert bei mir immer eine Menge Werbung in Haus, aktuell dabei war ein Prospekt von Netto. Üblicherweise überblättere ich den Bereich Fleisch einfach, bin allerdings bei dem Wort Tierschutz, in der Spalte Fleisch, dieses Mal hängen geblieben. Fleisch beim Discounter = Tierschutz? Klingt spannend.</address><address>Erstaunt stelle ich bei genauerem Hinsehen fest, dass es sich um ein Label handelt, dass ausgerechnet an die Firma Wiesenhof vergeben wurde. Wiesenhof ist nun wirklich nicht für artgerechte Haltung oder besonders guten Umgang mit Tieren bekannt. Der Wiesenhof Skandal, aufgedeckt von SOKO Tierschutz, ging erst vor wenigen Monaten durch die bundesweite Presse und ist somit nicht nur in den einschlägigen Tierschutzkreisen bekannt.</address><address>Ehrliches Befremden setzte allerdings ein, als ich feststellen musste, dass es sich um ein Label aus Ihrem, wie ich bisher dachte renommierten, Hause handelt. Einen größeren, selbst zugefügten, Imageschaden kann ich mir kaum vorstellen. Falls Sie die oben angesprochenen Bilder noch nicht kennen, sende ich Ihnen gerne Anschauungsmaterial mit:  [https://www.youtube.com/results?search_query=soko+tierschutz+wiesenhof](https://www.youtube.com/results?search_query=soko+tierschutz+wiesenhof) </address><address>Das es sich bei der Firma Wiesenhof und deren Umgang mit Lebewesen nicht um einen Einzelfall handelt, ist ebenfalls kein Geheimnis.</address><address>Ich kann selbstverständlich verstehen, dass Tierschutz Geld kostet. Ich kann auch verstehen, dass Sie als große Organisation selbiges dringend benötigen, aber ein Label auf dem "Tierschutz" steht, an Firmen zu verkaufen, die nachweislich und bewusst Tierquälerei betreiben ist wirklich grotesk.</address><address>In meinen Augen ist es eine Farce auf ein totes Tier "Tierschutz" zu schreiben. Das es grundsätzlich falsch ist Tiere zu töten um diese zu essen, ist ein Grundsatz den ich persönlich vertrete, Ihnen als "Tierschutz"-Organisation jedoch selbstverständlich nicht aufdrängen will. Auch wenn ich dies irgendwie erwartet hätte.</address><address>Ich weiß nicht genau wie es Ihnen geht, aber wenn ich 4 Stunden am Stück auf engstem Raum stehen muss, ohne was zu trinken und was zu essen, ohne zu wissen warum und was mich erwartet, würde ich mich nicht besonders geschützt fühlen. Und ich behaupte mal das es dem von Ihnen geschütztem Geflügel genauso geht. Von den Schweinen, die übrigens dem Menschen biologisch ähnlicher sind als der Affe und intelligenter als Hunde, spreche ich an dieser Stelle einfach erstmal gar nicht.</address><address>Entsprechend würde mich eine Stellungnahme Ihrerseits sehr interessieren, wonach das "Tierschutz"-Label vergeben wird. Bekommt dieses jeder der bereit ist die nötige Menge Geld zu bezahlen und interne "Kontrollen" durchführt, ob die Tiere wirklich "nur" 4 Stunden am Stück transportiert werden? Wie werden die Kontrollen durch Sie durchgeführt und durch wen?</address><address>Mit freundlichen Grüßen</address><address>XXX</address><address>PS Der Inhalt Ihrer Homepage  [http://www.tierschutzlabel.info/](http://www.tierschutzlabel.info/)  ist mir bekannt, ich bitte daher um eine persönliche Antwort ohne Standardtext. Vielen Dank.</address>
+<address>Sehr geehrte Damen und Herren,</address>
+
+<address>Dienstags flattert bei mir immer eine Menge Werbung in Haus, aktuell dabei war ein Prospekt von Netto. Üblicherweise überblättere ich den Bereich Fleisch einfach, bin allerdings bei dem Wort Tierschutz, in der Spalte Fleisch, dieses Mal hängen geblieben. Fleisch beim Discounter = Tierschutz? Klingt spannend.</address>
+
+<address>Erstaunt stelle ich bei genauerem Hinsehen fest, dass es sich um ein Label handelt, dass ausgerechnet an die Firma Wiesenhof vergeben wurde. Wiesenhof ist nun wirklich nicht für artgerechte Haltung oder besonders guten Umgang mit Tieren bekannt. Der Wiesenhof Skandal, aufgedeckt von SOKO Tierschutz, ging erst vor wenigen Monaten durch die bundesweite Presse und ist somit nicht nur in den einschlägigen Tierschutzkreisen bekannt.</address>
+
+<address>Ehrliches Befremden setzte allerdings ein, als ich feststellen musste, dass es sich um ein Label aus Ihrem, wie ich bisher dachte renommierten, Hause handelt. Einen größeren, selbst zugefügten, Imageschaden kann ich mir kaum vorstellen. Falls Sie die oben angesprochenen Bilder noch nicht kennen, sende ich Ihnen gerne Anschauungsmaterial mit:  [https://www.youtube.com/results?search_query=soko+tierschutz+wiesenhof](https://www.youtube.com/results?search_query=soko+tierschutz+wiesenhof) </address>
+
+<address>Das es sich bei der Firma Wiesenhof und deren Umgang mit Lebewesen nicht um einen Einzelfall handelt, ist ebenfalls kein Geheimnis.</address>
+
+<address>Ich kann selbstverständlich verstehen, dass Tierschutz Geld kostet. Ich kann auch verstehen, dass Sie als große Organisation selbiges dringend benötigen, aber ein Label auf dem "Tierschutz" steht, an Firmen zu verkaufen, die nachweislich und bewusst Tierquälerei betreiben ist wirklich grotesk.</address>
+
+<address>In meinen Augen ist es eine Farce auf ein totes Tier "Tierschutz" zu schreiben. Das es grundsätzlich falsch ist Tiere zu töten um diese zu essen, ist ein Grundsatz den ich persönlich vertrete, Ihnen als "Tierschutz"-Organisation jedoch selbstverständlich nicht aufdrängen will. Auch wenn ich dies irgendwie erwartet hätte.</address>
+
+<address>Ich weiß nicht genau wie es Ihnen geht, aber wenn ich 4 Stunden am Stück auf engstem Raum stehen muss, ohne was zu trinken und was zu essen, ohne zu wissen warum und was mich erwartet, würde ich mich nicht besonders geschützt fühlen. Und ich behaupte mal das es dem von Ihnen geschütztem Geflügel genauso geht. Von den Schweinen, die übrigens dem Menschen biologisch ähnlicher sind als der Affe und intelligenter als Hunde, spreche ich an dieser Stelle einfach erstmal gar nicht.</address>
+
+<address>Entsprechend würde mich eine Stellungnahme Ihrerseits sehr interessieren, wonach das "Tierschutz"-Label vergeben wird. Bekommt dieses jeder der bereit ist die nötige Menge Geld zu bezahlen und interne "Kontrollen" durchführt, ob die Tiere wirklich "nur" 4 Stunden am Stück transportiert werden? Wie werden die Kontrollen durch Sie durchgeführt und durch wen?</address>
+
+<address>Mit freundlichen Grüßen</address>
+
+<address>XXX</address>
+
+<address>PS Der Inhalt Ihrer Homepage  [http://www.tierschutzlabel.info/](http://www.tierschutzlabel.info/)  ist mir bekannt, ich bitte daher um eine persönliche Antwort ohne Standardtext. Vielen Dank.</address>
 
 Vielen Dank für die E-Mail, liebe Corinna!
 
-Matthias S., ebenfalls in der Facebook-Gruppe aktiv, hat vor ein paar Stunden zu
-dem Thema eine Petition eingereicht, die nun seit ein paar Minuten online ist.
+Matthias S., ebenfalls in der Facebook-Gruppe aktiv, hat vor ein paar Stunden zu
+dem Thema eine Petition eingereicht, die nun seit ein paar Minuten online ist.
 Ich möchte Euch bitten
 [diesem Link hier](https://www.openpetition.de/petition/online/ehrlicher-tierschutz)
 zu folgen, die Petition zu unterschreiben und an alle Eure Bekannten, Freunde,
 Facebook-Fans und Twitter-Follower weiterzugeben!
 
-<RemoteImage
-  alt="Petition für ehrlichen Tierschutz"
-  size="large"
-  title="[ ](https://www.openpetition.de/petition/online/ehrlicher-tierschutz)  Petition für ehrlichen Tierschutz"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/bildschirmfoto-2014-08-06-um-16-47-26.png?w=646"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/bildschirmfoto-2014-08-06-um-16-47-26.png?w=646"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Petition für ehrlichen Tierschutz`} size="large"
+title={`[ ](https://www.openpetition.de/petition/online/ehrlicher-tierschutz) Petition für ehrlichen Tierschutz`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/bildschirmfoto-2014-08-06-um-16-47-26.png?w=646"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/08/bildschirmfoto-2014-08-06-um-16-47-26.png?w=646"
+loadingUrl="undefined" />
 
 Mit PETA habe ich auch Kontakt aufgenommen, ich gebe Euch Bescheid, sobald ich
 eine Antwort bekomme:
@@ -289,18 +307,17 @@ Verbrauchern handelt. Meine Frage wäre nun, ob sich PETA hier schon
 eingeschaltet, hat, was man machen kann, um diese Misssände aufzudecken und ob
 es möglich wäre, hier eine Petition etc zu starten? Beste Grüße Anne Reis"_
 
-<RemoteImage
-  alt="Wiesenhof"
-  size="thumbnail"
-  title="Biohühnerfarm Edeka Twistringen Bild: PETA"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_biohc3bchnerfar-edeka-twistringen-peta__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_biohc3bchnerfar-edeka-twistringen-peta__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EACYQAAICAQQBBAIDAAAAAAAAAAECAwQRAAUSITEGExRRIkEVYYH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAHhEBAAICAgMBAAAAAAAAAAAAAQACBBExURITFCH/2gAMAwEAAhEDEQA/AKW2+rtqrQ1aUxs1puChYTEQS2O1A/ZznrSN03ura26SaluopQ4y5QIrrgkEuCCVXIIwSvLwCfGkvBcrWasTJUnjhbiomlIV3wG4vhS3WSC2PJP9adb9PQbduFmjDDUngrz/ADGGBKwLhlUfftj7wcZ/3U1cjsllsTpknaZjDatO2+W3iVik8k+YzG464k/kIlKlWXKkdsM51Z/l4btMSC3EY4gSzrKrYH2zLgZ1C+K0m3WbN/Z6kqrCJXIkMptBSwbk2OwoGewcAZ8azr6b245WaPbqlanUjs3o5wUSN2yVb8D0xResgn99aIyBfwgfI62stQzwVUnljrk/JwXVmVgGUFeYJUnlj7JHQ660ncbNaSmrTQ2ZRFyYBrRHLIIKnAGVwSOPjx9aNGkgbmt7a5m+3s1ewErukfx41ULDhwmCFcgqGGR2Qc+RnWGXZY60jTQeynuFSy8GIfhkLzy/54BwM/rH1o0ab4BF+yzyz//Z" />
+<RemoteImage alt={`Wiesenhof`} size="thumbnail"
+title={`Biohühnerfarm Edeka Twistringen Bild: PETA`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_biohc3bchnerfar-edeka-twistringen-peta__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_biohc3bchnerfar-edeka-twistringen-peta__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EACYQAAICAQQBBAIDAAAAAAAAAAECAwQRAAUSITEGExRRIkEVYYH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAHhEBAAICAgMBAAAAAAAAAAAAAQACBBExURITFCH/2gAMAwEAAhEDEQA/AKW2+rtqrQ1aUxs1puChYTEQS2O1A/ZznrSN03ura26SaluopQ4y5QIrrgkEuCCVXIIwSvLwCfGkvBcrWasTJUnjhbiomlIV3wG4vhS3WSC2PJP9adb9PQbduFmjDDUngrz/ADGGBKwLhlUfftj7wcZ/3U1cjsllsTpknaZjDatO2+W3iVik8k+YzG464k/kIlKlWXKkdsM51Z/l4btMSC3EY4gSzrKrYH2zLgZ1C+K0m3WbN/Z6kqrCJXIkMptBSwbk2OwoGewcAZ8azr6b245WaPbqlanUjs3o5wUSN2yVb8D0xResgn99aIyBfwgfI62stQzwVUnljrk/JwXVmVgGUFeYJUnlj7JHQ660ncbNaSmrTQ2ZRFyYBrRHLIIKnAGVwSOPjx9aNGkgbmt7a5m+3s1ewErukfx41ULDhwmCFcgqGGR2Qc+RnWGXZY60jTQeynuFSy8GIfhkLzy/54BwM/rH1o0ab4BF+yzyz//Z"
+/>
 
 Ich habe natürlich alle wichtigen Links uns Fotos mit angehängt, obwohl ich mir
 ziemlich sicher bin, dass das Problem dort schon längst auf dem Tisch liegt.
 Sicher kann ein kleines Licht wie ich nicht viel ausrichten und ein paar
-Tierschützer, die sich in einer Facebook-Gruppe unterhalten, machen auch nicht
+Tierschützer, die sich in einer Facebook-Gruppe unterhalten, machen auch nicht
 viel mehr aus, aber wie hat das Corinna heute so schön gesagt? _"Auch wenn es
 vielleicht erstmal sinnlos erscheinen mag, finde ich dennoch, dass die merken
 dürfen, dass es auffällt und Menschen dagegen Sturm laufen!"_ Und dieser Meinung
@@ -313,33 +330,31 @@ aber nach diesen Bildern kann Euch Euch nur eins ans Herz legen:
 
 GO VEGAN!
 
-Interessante Artikel zum Thema gibt es auf
+Interessante Artikel zum Thema gibt es auf 
 [der Seite des Tierhofs Amoa](http://tierhof-amoa.blogspot.de/2014/08/tierschutzorgas-im-namen-der.html)
 und
 [im Blog des Artgenossen](http://www.google.de/imgres?imgurl=http%3A%2F%2Fgraslutscher.de%2Fwp-content%2Fuploads%2F2014%2F07%2FWWF-SCheiss.jpg&imgrefurl=http%3A%2F%2Fgraslutscher.de%2Fjetzt-hackt-doch-nicht-alle-auf-dem-armen-wwf-rum%2F&h=743&w=1000&tbnid=h_RcaIaN3OOA8M%3A&zoom=1&docid=mMpX0q3HukfZmM&ei=Yy3iU7TwFqiM4gS004HICA&tbm=isch&client=safari&iact=rc&uact=3&dur=516&page=1&start=0&ndsp=30&ved=0CCUQrQMwAQ).
 
 _ **Quellen:** Tofunutte,
 [der Artgenosse](http://www.google.de/imgres?imgurl=http%3A%2F%2Fgraslutscher.de%2Fwp-content%2Fuploads%2F2014%2F07%2FWWF-SCheiss.jpg&imgrefurl=http%3A%2F%2Fgraslutscher.de%2Fjetzt-hackt-doch-nicht-alle-auf-dem-armen-wwf-rum%2F&h=743&w=1000&tbnid=h_RcaIaN3OOA8M%3A&zoom=1&docid=mMpX0q3HukfZmM&ei=Yy3iU7TwFqiM4gS004HICA&tbm=isch&client=safari&iact=rc&uact=3&dur=516&page=1&start=0&ndsp=30&ved=0CCUQrQMwAQ),
-PETA, Deutscher Tierschutzbund, WWF_ ## **Nachtrag (18:45)**
+PETA, Deutscher Tierschutzbund, WWF_
+
+## **Nachtrag (18:45)**
 
 Hier einige Kommentare, die unter meinem Link zum Artikel auf Facebook
 aufgetaucht sind:
 
-<RemoteImage
-  alt="Neuland und der Tierschutzbund"
-  size="large"
-  title="Neuland und der Tierschutzbund"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/neuland-33.jpg?w=646"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/neuland-33.jpg?w=646"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Neuland und der Tierschutzbund`} size="large"
+title={`Neuland und der Tierschutzbund`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/neuland-33.jpg?w=646"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/08/neuland-33.jpg?w=646"
+loadingUrl="undefined" />
 
-<RemoteImage
-  alt="Wiesenhof"
-  size="large"
-  title="Abgründe tun sich auf"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_vier-pfoten1-49__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_vier-pfoten1-49__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUAAwIGCP/EAC0QAAICAQMCBQALAAAAAAAAAAECAxEABBIhBTETFEFRcSIkMkNSYWKBobHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFREBAQAAAAAAAAAAAAAAAAAAAEH/2gAMAwEAAhEDEQA/AOgtT0vbq38I6aPSud5V5XDGRiSx717V++W6aAEVJBvofdgXXwb/ALwV531TtN5bqenQlojDIoUmmI3cE8GrH5EZYdDDx9W6rR/Uvv8AOaiGcUEZWxoWscW6KCcL+e+J1iTcB5LW8n1SKscURwLAHpkVrHU0h0euaLTp4SSjcam2KSbLXfvhWk6FD9B5SjIygkI5N+veucz6iSvUw5mmjj2KB4ce6zzwL4xjFHvjVhLqkFfZYhSPkVxgDjo2hDWsTA+hEh4w1YkVQoXgCu5/3JHGUu5JXv8AG11/GWYH/9k=" />
+<RemoteImage alt={`Wiesenhof`} size="large" title={`Abgründe tun sich auf`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_vier-pfoten1-49__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_vier-pfoten1-49__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUAAwIGCP/EAC0QAAICAQMCBQALAAAAAAAAAAECAxEABBIhBTETFEFRcSIkMkNSYWKBobHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFREBAQAAAAAAAAAAAAAAAAAAAEH/2gAMAwEAAhEDEQA/AOgtT0vbq38I6aPSud5V5XDGRiSx717V++W6aAEVJBvofdgXXwb/ALwV531TtN5bqenQlojDIoUmmI3cE8GrH5EZYdDDx9W6rR/Uvv8AOaiGcUEZWxoWscW6KCcL+e+J1iTcB5LW8n1SKscURwLAHpkVrHU0h0euaLTp4SSjcam2KSbLXfvhWk6FD9B5SjIygkI5N+veucz6iSvUw5mmjj2KB4ce6zzwL4xjFHvjVhLqkFfZYhSPkVxgDjo2hDWsTA+hEh4w1YkVQoXgCu5/3JHGUu5JXv8AG11/GWYH/9k="
+/>
 
 Für mich tun sich gerade ganz neue Abgründe auf. Sicher haben das einige außer
 mir auch noch nicht gewusst, oder? ODER?!
@@ -357,53 +372,63 @@ rechnen sie wohl auch nach wie vor damit, dass ich wieder beitrete. Ich bin
 grade nicht nur ein Bisschen aus der Haut gefahren, das dürft Ihr mir glauben.
 Doch lest selbst:
 
-_Sehr geehrte Frau Reis,_ _wir bedauern sehr, dass Sie sich vor dem Hintergrund
-der Vergabe eines Tierschutzlabels durch den Deutschen Tierschutzbund
-entschlossen haben, unsere Gemeinschaft zu verlassen. Uns ist bewusst, dass
-dieses Thema sehr stark polarisiert und an grundlegende ethische Fragestellungen
-über den Umgang mit unseren Mitgeschöpfen rührt. Auch wir haben uns die
-Entscheidung für das Tierschutzlabel nicht leicht gemacht und daher möchte ich
-an dieser Stelle nochmals die Hintergründe für diesen Schritt ausführen:_ _Grund
-für uns überhaupt zu handeln ist, dass die Politik bei dem Mehrheitswunsch der
-Verbraucher nach Kennzeichnung bisher versagt hat. Wir sehen uns daher vor die
-Herausforderung gestellt, die Landwirte da abholen zu müssen, wo sie stehen und
-machbare Lösungen anzubieten. Deshalb haben wir uns auch zu einem zweistufigen
-System entschlossen. Das ist sicherlich eine Herausforderung, gerade für den
-Tierschutz. Aber so lange Fleisch gegessen wird und der Gesetzgeber nicht
-handelt, müssen wir uns um die Tiere kümmern, die immer noch in
-tierschutzwidrigen Haltungssystemen leben._ _Es steht aber außer Zweifel, dass
-das Tierschutzlabel zu echten Verbesserungen für die Tiere führt. Bereits bei
-der Einstiegsstufe des zweistufigen Labels liegen die Anforderungen deutlich
-über den gesetzlichen Regelungen. Entsprechend fordern die Richtlinien des
-Tierschutzbundes mehr Platz pro Tier, tiergerechtere Stallbeschaffenheit,
-Beschäftigungs- und Auslaufmöglichkeiten für die Tiere, kürzere Tiertransporte
-und eine zuverlässige und schnelle Betäubung. Mit tierbezogenen Kriterien wird
-das Management überprüfbar und Impulse für Verbesserungen gesetzt. Für die
-großindustrielle Tierhaltung ist das Tierschutzlabel nicht erreichbar, denn es
-gelten Bestandsobergrenzen und Gentechnik ist langfristig ausgeschlossen.
-Umfangreiche Zertifizierungs- und unabhängige Kontrollsysteme sichern die
-Aussagen des Tierschutzlabels ab._ _Während die Einstiegsstufe einen ersten
-wichtigen Schritt zu mehr Tierschutz darstellt, entspricht die Premiumstufe den
-aktuellen Erkenntnissen im Tierschutz und ist damit das Ziel für alle Tiere.
-Über einen Vertrag und die damit verbundenen Gestaltungsrichtlinien stellen wir
-sicher, dass das Label nur in Zusammenhang mit tatsächlich geprüften und
-gelabelten Produkten verwendet wird, das wirkt einem „Green Washing“ entgegen.
-Und wir behalten uns das Recht vor, die üblichen Intensivhaltungen weiterhin zu
-kritisieren. Weitere Informationen zum Tierschutzlabel finden Sie unter
+_Sehr geehrte Frau Reis,_
+
+_wir bedauern sehr, dass Sie sich vor dem Hintergrund der Vergabe eines
+Tierschutzlabels durch den Deutschen Tierschutzbund entschlossen haben, unsere
+Gemeinschaft zu verlassen. Uns ist bewusst, dass dieses Thema sehr stark
+polarisiert und an grundlegende ethische Fragestellungen über den Umgang mit
+unseren Mitgeschöpfen rührt. Auch wir haben uns die Entscheidung für das
+Tierschutzlabel nicht leicht gemacht und daher möchte ich an dieser Stelle
+nochmals die Hintergründe für diesen Schritt ausführen:_
+
+_Grund für uns überhaupt zu handeln ist, dass die Politik bei dem
+Mehrheitswunsch der Verbraucher nach Kennzeichnung bisher versagt hat. Wir sehen
+uns daher vor die Herausforderung gestellt, die Landwirte da abholen zu müssen,
+wo sie stehen und machbare Lösungen anzubieten. Deshalb haben wir uns auch zu
+einem  zweistufigen System entschlossen. Das ist sicherlich eine
+Herausforderung, gerade für den Tierschutz. Aber so lange Fleisch gegessen wird
+und der Gesetzgeber nicht handelt, müssen wir uns um die Tiere kümmern, die
+immer noch in tierschutzwidrigen Haltungssystemen leben._
+
+_Es steht aber außer Zweifel, dass das Tierschutzlabel zu echten Verbesserungen
+für die Tiere führt. Bereits bei der Einstiegsstufe des zweistufigen Labels
+liegen die Anforderungen deutlich über den gesetzlichen Regelungen. Entsprechend
+fordern die Richtlinien des Tierschutzbundes mehr Platz pro Tier, tiergerechtere
+Stallbeschaffenheit, Beschäftigungs- und Auslaufmöglichkeiten für die Tiere,
+kürzere Tiertransporte und eine zuverlässige und schnelle Betäubung. Mit
+tierbezogenen Kriterien wird das Management überprüfbar und Impulse für
+Verbesserungen gesetzt. Für die großindustrielle Tierhaltung ist das
+Tierschutzlabel nicht erreichbar, denn es gelten Bestandsobergrenzen und
+Gentechnik ist langfristig ausgeschlossen. Umfangreiche Zertifizierungs- und
+unabhängige Kontrollsysteme sichern die Aussagen des Tierschutzlabels ab._
+
+_Während die Einstiegsstufe einen ersten wichtigen Schritt zu mehr Tierschutz
+darstellt, entspricht die Premiumstufe den aktuellen Erkenntnissen im Tierschutz
+und ist damit das Ziel für alle Tiere. Über einen Vertrag und die damit
+verbundenen Gestaltungsrichtlinien stellen wir sicher, dass das Label nur in
+Zusammenhang mit tatsächlich geprüften und gelabelten Produkten verwendet wird,
+das wirkt einem „Green Washing“ entgegen. Und wir behalten uns das Recht vor,
+die üblichen Intensivhaltungen weiterhin zu kritisieren. Weitere Informationen
+zum Tierschutzlabel finden Sie unter 
 [http://www.tierschutzlabel.info/home/](http://www.tierschutzlabel.info/home/).
-_ _Sehr geehrte Frau Reis, vielleicht überdenken Sie Ihre Kündigung vor dem
+_
+
+_Sehr geehrte Frau Reis, vielleicht überdenken Sie Ihre Kündigung vor dem
 Hintergrund der von uns zur Verfügung gestellten Informationen noch einmal. Wir
 würden uns sehr freuen. Sollten wir nichts mehr von Ihren hören, endet Ihre
 Mitgliedschaft am 30.09.2014. Aber vielleicht bleiben Sie im Kampf doch an
-unserer Seite?_ _Anderenfalls danken wir Ihnen für die bisherige Unterstützung
-und Ihr Engagement für die Tiere und verbleiben_ _mit freundlichen Grüßen_
+unserer Seite?_
+
+_Anderenfalls danken wir Ihnen für die bisherige Unterstützung und Ihr
+Engagement für die Tiere und verbleiben_
+
+_mit freundlichen Grüßen_
 
 &nbsp;
 
 &nbsp;
 
 &nbsp;
-
--->
 
   

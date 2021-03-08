@@ -12,14 +12,17 @@ excerpt: Anzeige & Affiliate Links - Draußen wird es langsam kühler - Zeit ein
   gelingen sie auf jeden Fall.
 focusKeyword: Cookies
 labels:
+  - Birkenzucker
   - Cookies
   - Schoko-Walnuss-Cookies
   - vegan
   - vegane Cookies
   - vegane Kekse
   - vegane Plätzchen
+  - vegane Rezepte
   - Vegane Rezepte
   - Walnuss
+  - Xucker
 type: Artikel
 typeName: Rezept
 date: 2019-11-28T06:55:37.000Z
@@ -113,13 +116,10 @@ Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
 
 <!-- START ADVERTISER: Xucker DE from awin.com -->
 
-<RemoteImage
-  alt="null"
-  size="medium"
-  title=""
-  mediumUrl="https://www.awin1.com/cshow.php?s=2269518&amp;v=11793&amp;q=348986&amp;r=632580"
-  largeUrl="https://www.awin1.com/cshow.php?s=2269518&amp;v=11793&amp;q=348986&amp;r=632580"
-  loadingUrl="undefined" />
+<RemoteImage alt={`null`} size="medium" title={``}
+mediumUrl="https://www.awin1.com/cshow.php?s=2269518&amp;v=11793&amp;q=348986&amp;r=632580"
+largeUrl="https://www.awin1.com/cshow.php?s=2269518&amp;v=11793&amp;q=348986&amp;r=632580"
+loadingUrl="undefined" />
 
 [](https://www.awin1.com/cread.php?s=2269518&v=11793&q=348986&r=632580)
 

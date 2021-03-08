@@ -7,7 +7,7 @@ fileName: 2015-04---calexico-live-open-air-dachau-25-07-2007.md
 description: Hier sind meine Eindrücke vom Calexico-Auftritt auf dem Open Air in
   Dachau 2007.
 excerpt: Anlässlich der neuen Platte und des tollen Konzerts gestern in der
-  Großen Freiheit, gibt es gleich drei Nostalgie-Konzert-Beiträge von mir.
+  Großen Freiheit, gibt es gleich drei Nostalgie-Konzert-Beiträge von mir.
 focusKeyword: Calexico
 labels:
   - Festivals
@@ -27,6 +27,12 @@ subTitle: Bildergalerie
   
 ---
 
+**Anlässlich der [neuen Platte](/2015/04/calexico-edge-of-the-sun-ist-da/) und
+des tollen Konzerts gestern in der Großen Freiheit, gibt es gleich drei
+Nostalgie-Konzert-Beiträge von mir. Hier ist Beitrag Nummer 1, zum zweiten geht
+es [hier entlang](/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/), zum
+dritten [hier entlang](/2015/04/calexico-live-southside-festival-2008/). **
+
 Gezeigt werden die Fotos von dem wundervollen Calexico-Auftritt im Juli 2007 in
 Dachau. Das Konzert wird mir immer in Erinnerung bleiben. Damals war es mit
 meinem digitalen Fotoequipment noch nicht so weit her, als verzeiht mir bitte
@@ -34,8 +40,9 @@ die Bildqualität.
 
 <Gallery name="flickr/calexicodachau2008" />
 
-## Calexico Wegweiser1. [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
+## Calexico Wegweiser
 
+1.  [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
 1.  [live @ Southside Festival Neuhausen ob Eck Juni 2008](/2015/04/calexico-live-southside-festival-2008/)
 1.  [live @ Muffathalle München 16.10.2008](/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/)
 1.  [live @ Roxy Ulm 27.01.2009](/2009/01/calexico-live-roxy-ulm/)
@@ -46,7 +53,8 @@ die Bildqualität.
 1.  [live @ Große Freiheit 36 Hamburg 15.04.2015](/2015/04/calexico-live-grosse-freiheit-36-15-04-2015/)
 1.  [live @ A Summer's Tale Festival 08.08.2015](/2015/08/calexico-live-a-summers-tale-festival-2015/)
 1.  [stellen neue Single "End Of The World With You" vor](/2017/10/calexico-the-thread-that-keeps-us/)
-    [Homepage](http://www.casadecalexico.com) Calexico
+
+[Homepage](http://www.casadecalexico.com) Calexico
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

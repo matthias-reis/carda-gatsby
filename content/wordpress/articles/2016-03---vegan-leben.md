@@ -10,9 +10,9 @@ excerpt: Werbung - Die Macher von "vegan leben" haben sich dazu entschlossen,
   ihre eigene vegane Lebensmittelmarke zu gründen. Ich habe schon mal probiert.
 focusKeyword: vegan leben
 labels:
+  - Ernährung & Gesundheit
   - Vegan Leben
   - vegane Basis-Produkte
-  - Vegane Produkte
 type: Artikel
 typeName: Artikel
 date: 2016-03-02T18:05:53.000Z

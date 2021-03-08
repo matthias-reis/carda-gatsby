@@ -12,7 +12,7 @@ excerpt: Tagesschau - Modernisierung bedeutet nicht gleichzeitig auch
   Millionen Zuschauer.
 focusKeyword: Tagesschau
 labels:
-  - Lyrik
+  - Geschichten & Erlebtes
   - Nachrichten
   - Tagesschau
   - Welt

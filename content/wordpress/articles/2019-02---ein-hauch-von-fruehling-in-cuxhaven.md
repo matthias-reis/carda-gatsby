@@ -56,13 +56,11 @@ sonnenhungrige, blasse Großstädter\*innen, auf dem Pilgerweg in Richtung
 Frühling. Birdwatching war trotzdem möglich. Im **Watt** und am Strand sind mir
 sogar ein paar Schnappschüsse gelungen.
 
-<RemoteImage
-  alt="cuxhaven"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAJxAAAgEDBAICAQUAAAAAAAAAAQIDBAURABIhMQYTFFEiQUJhgZH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQQF/8QAHhEAAgMAAQUAAAAAAAAAAAAAAQIAAxEhBBIxQdH/2gAMAwEAAhEDEQA/AEVtdxNDTrEkvvRlEM3qdHVWP4qxIwRnIGT+ulJrBfrhR/JSanEUo3hFUlsA4yN3HJ5x3rbEjhqYHinDlHXawDHkai7/AB1lgpIbta7nVrQ0CM09AdrRSqSCSxxuH7uj2RjXMr6YFs9RWrXNmb3+tu9f4/47Z3p6qomt2+EsqH2PnADEY44IGTx0dVS92GsWQRVrQRCQ4MpVQCAONzIcZ+9ajYfLrH5F5E1zgqXijeExSx7z7EfYAMbOWBK4BHf0DxqxkmWRvUlyjiAyJKsKoJ/gN+f9kDS1VMO4t5BI+QlAJ5nWkqUYjBkHXBA098jfE8QZgGUqwwDkHsc8daNGiBM3kSu0filptk9LUW5ZKaopGDQSoqb0AzlNwUMVIJBBJ/3nUnXVLHdvUY+9GjVe1t5kVFn/2Q==" />
+<RemoteImage alt={`cuxhaven`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAJxAAAgEDBAICAQUAAAAAAAAAAQIDBAURABIhMQYTFFEiQUJhgZH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQQF/8QAHhEAAgMAAQUAAAAAAAAAAAAAAQIAAxEhBBIxQdH/2gAMAwEAAhEDEQA/AEVtdxNDTrEkvvRlEM3qdHVWP4qxIwRnIGT+ulJrBfrhR/JSanEUo3hFUlsA4yN3HJ5x3rbEjhqYHinDlHXawDHkai7/AB1lgpIbta7nVrQ0CM09AdrRSqSCSxxuH7uj2RjXMr6YFs9RWrXNmb3+tu9f4/47Z3p6qomt2+EsqH2PnADEY44IGTx0dVS92GsWQRVrQRCQ4MpVQCAONzIcZ+9ajYfLrH5F5E1zgqXijeExSx7z7EfYAMbOWBK4BHf0DxqxkmWRvUlyjiAyJKsKoJ/gN+f9kDS1VMO4t5BI+QlAJ5nWkqUYjBkHXBA098jfE8QZgGUqwwDkHsc8daNGiBM3kSu0filptk9LUW5ZKaopGDQSoqb0AzlNwUMVIJBBJ/3nUnXVLHdvUY+9GjVe1t5kVFn/2Q=="
+/>
 
 Von Hamburg aus ist Cuxhaven ein gutes Ausflugsziel. Mit dem Regionalzug ist man
 in gut zwei Stunden da, es gilt das Niedersachsen-Ticket. Die Kreisstadt an der
@@ -92,13 +90,11 @@ Die heutige Kugelbake von **Cuxhaven** ist nicht die erste. Diese war etwas
 kleiner (24,4 Meter) und wurde im Jahr 1703 erbaut. Damals musste man sie alle
 30 Jahre austauschen, da sie durch das raue Klima verwitterte.
 
-<RemoteImage
-  alt="cuxhaven"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-6__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-6__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAL/xAArEAABAwMCBAQHAAAAAAAAAAABAAIEAxEhBRIiMpGhExQjMUFRUnKDk9H/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQF/8QAGREBAQEBAQEAAAAAAAAAAAAAAQIAMRES/9oADAMBAAIRAxEAPwCihwcDh7JiyFYcp6KBjapVbtFWjqNMfV4biOoJ+SZwNd0xkyidSlyPKB3qtYXMftz7XxdbiwHrWxj7XwnVb4WOXsl0yDg8PZI6mrRdzwzUqZaCbbq+bfC+fe3dY5U1jgdsxp/OP6ifDyjBqzsuyxHbRzAdUwZUfmznOtbCEKg0i7ioS8WdQoO+5gJSibSom4fCi/rCEJWR7mKTm//Z" />
+<RemoteImage alt={`cuxhaven`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-6__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-6__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAL/xAArEAABAwMCBAQHAAAAAAAAAAABAAIEAxEhBRIiMpGhExQjMUFRUnKDk9H/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQF/8QAGREBAQEBAQEAAAAAAAAAAAAAAQIAMRES/9oADAMBAAIRAxEAPwCihwcDh7JiyFYcp6KBjapVbtFWjqNMfV4biOoJ+SZwNd0xkyidSlyPKB3qtYXMftz7XxdbiwHrWxj7XwnVb4WOXsl0yDg8PZI6mrRdzwzUqZaCbbq+bfC+fe3dY5U1jgdsxp/OP6ifDyjBqzsuyxHbRzAdUwZUfmznOtbCEKg0i7ioS8WdQoO+5gJSibSom4fCi/rCEJWR7mKTm//Z"
+/>
 
 Heute ist sie mit einem Wall verbunden. Diesen gibt es seit 1782. 1853 richtete
 man das sogenannte "Kugelbakenlicht" auf ihr ein. 1878 wurde es durch

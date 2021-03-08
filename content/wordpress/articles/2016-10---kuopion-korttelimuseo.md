@@ -12,11 +12,11 @@ excerpt: Am 7. Juli machten wir von unserem gemieteten finnischen Mökki aus
   statteten wir dem Kuopion Korttelimuseo einen Besuch ab.
 focusKeyword: Kuopio
 labels:
+  - Fernweh
   - Finnland
   - Finnland2016
   - Kuopio
   - Kuopion Korttelimuseo
-  - Reisen
   - Skandinavien
 type: Galerie
 typeName: Galerie

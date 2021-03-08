@@ -12,7 +12,7 @@ focusKeyword: Sphaèros
 labels:
   - Alternative
   - Aqua Nebula Oscillator
-  - Bands & Reviews
+  - Bands
   - Layers
   - Louise Ebel Pandora
   - Lucifero
@@ -25,7 +25,7 @@ labels:
   - Video art
   - Videokunst
 type: Artikel
-typeName: Artikel
+typeName: Review
 date: 2020-02-26T17:51:50.000Z
 status: publish
 isWerbung: false

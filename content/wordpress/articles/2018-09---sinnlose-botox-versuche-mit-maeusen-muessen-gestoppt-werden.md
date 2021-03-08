@@ -16,10 +16,9 @@ labels:
   - Beauty-Wahnsinn
   - Botox
   - crueltyfree
-  - Darum vegan
+  - Fair Fashion & Beauty
   - Gift
   - Mäuse
-  - Mode & Beauty
   - Nervengift
   - PETA
   - Tierrechte

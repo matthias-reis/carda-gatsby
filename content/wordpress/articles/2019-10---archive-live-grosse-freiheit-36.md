@@ -10,7 +10,6 @@ excerpt: Gestern waren Archive bei uns in Hamburg zu Gast - das wollten wir uns
   natürlich nicht entgehen lassen und haben uns das Konzert angehört.
 focusKeyword: Archive
 labels:
-  - "25"
   - Archive
   - Band
   - Elektro-Rock
@@ -25,7 +24,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Unexpected token (19:29)"
+  invalidMdx: 'unknown: Unexpected token, expected "}" (17:5)'
 thumbnailId: "26608"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-7__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-7__l.jpg
@@ -34,7 +33,7 @@ subTitle: Zarte Töne auf dem Kiez
   
 ---
 
-## unknown: Unexpected token (19:29)
+## unknown: Unexpected token, expected "}" (17:5)
 
 <!--
 **Gestern waren Archive bei uns in Hamburg zu Gast - das wollten wir uns
@@ -50,11 +49,11 @@ Dabei war doch noch so viel Zeit!
 
 ## Warm-up in der Menge
 
-<RemoteImage alt="
+<RemoteImage alt={`
 
 undefined
 
-" size="medium" title=""
+`} size="medium" title={``}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-3__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-3__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAECBQcEBgj/xAAmEAACAQMEAAYDAAAAAAAAAAABAgMABBEFEiExBhMiUWFxQcHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAD/8QAHBEBAQACAgMAAAAAAAAAAAAAAQACEQNBYYHw/9oADAMBAAIRAxEAPwDl2OKRyADjPeazEsXkCbGAPyxP6qW0/S2tr+1ivoJGjuofNiMZGWDISrDPfP4+DW42Oh2siLYkxxarH6CN+Ulb1NnPyCgHvWmOSCHfg+PUzDdXiaZdGNXVskkAqOx90t1p8tt24JcbWBX+9u6t/VbXw5o14sMyvBOs+6VTcK6LEI9+BxzzhM7uzUD4sNk2n66LCyDT20qO7hsraoWI2ZOMtkqOM9Gik3j0VTFieyTgYGTTkkZGDI7KwwQQcEYooo2MPIznLMzfZzS+dLtdRI+1+WG44b796KKqv//Z"
@@ -87,11 +86,11 @@ gelungenes Konzert voller guter alter bekannter Melodiespiele und frischer
 
 ## Eine Band, die mich schon lange begleitet
 
-<RemoteImage alt="
+<RemoteImage alt={`
 
 undefined
 
-" size="medium" title=""
+`} size="medium" title={``}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-6__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-6__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMGBwQFCP/EACsQAAEDAgUCBAcAAAAAAAAAAAECAwQAEQUSITFBUXETIpGhBgcUMkJhgf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABwRAAMAAgMBAAAAAAAAAAAAAAABESExAgMSQf/aAAwDAQACEQMRAD8A5YbPmGntetmYi0QGpCXmHCrdlOYrT30tx1peEvoakAuIQpBP5DbtVxYQv4bew9a4kR95LHhurWEHKklFzcH93HvSuxcLi0Ur9hTi23XUtJ+nUCv7SE786VjuxnG1lLjakKHBFXNg8DCvDkuTJkeFKYAWA+ghFl5rZSBvcW/oqF/MRECJiC04e8HgryFQ4sOux51FR6rgtYqILmO1zT2JkqOCGJLzYO4Q4Rf0ooqiQdmyngkPSXnAkWGdZNhr17n1pFz1oorG1o//2Q=="

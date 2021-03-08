@@ -12,12 +12,12 @@ excerpt: Von Altona ging es heute in Richtung Sternschanze zu Flohmarkt. Ganz
   Festival ging.
 focusKeyword: heute
 labels:
-  - "#iseefaces"
   - Altona
   - Bahnsteig
   - Flohschanze
   - Hamburg
   - Hamburg
+  - iseefaces
   - Ölfarbe
   - Sonne
   - Sternschanze

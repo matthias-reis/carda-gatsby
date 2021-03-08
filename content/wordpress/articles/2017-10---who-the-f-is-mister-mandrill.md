@@ -26,7 +26,7 @@ labels:
   - Happy Hour
   - infusion
   - Interview
-  - Interview
+  - Interviews
   - Kevin Hartjen
   - Mister Mandrill
   - nur noch einen
@@ -63,13 +63,11 @@ und Mädels vorhaben.
 
 ## Wer ist Mister Mandrill?
 
-<RemoteImage
-  alt="Mister Mandrill"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_IMG-20170705-WA00341__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_IMG-20170705-WA00341__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAtEAACAQMCBQMBCQAAAAAAAAABAgMEBREAEgYTITFBIjJhFQcUQlFxgZHB0f/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQD/xAAgEQABBAICAwEAAAAAAAAAAAABAAIDEQQhEjFBgaGx/9oADAMBAAIRAxEAPwCd8IU1umvElQimro/uUmyMsytzBIqg5AyB2+eurtwYkdVwlbKe4WellqoV5BjK7DGxKEhAfV1Y9P71FLBc4KW71LQZVOfVLBggMEcRspAAx7gWx841t7xWrfaKlraUx0y0tSzh03cyTdHswev4cdwRpcTtiiIvq/xEdC+WZpruh9TW/cCcP3qjWpa3VjVgjCsKWs2MiKxT2uCpwc+AP51IvtB4Oh4Rqm+l1VWJgwDIzKrxH1qykx9Ccjx+emfEVDxRT1Ut3sE1W4qYuXXTQyKuc7SQATkZwp6edZW1TwzXjdxVFXyRMx508jvvww2lsovqYDJGT1860eQJGBwOiPaKMcxyEO8FcNFNLFKjxswKHcpz21rKS5VJp1h+pvQQqCWMaluYxIxkAeME/vo0aTeaKb4ArmNRLWwoktS821nXex9w3HB7Dxj/AE99OLVaFaHfs3ZznJy36/GjRqJnyujsM1tXMCJr65b0v//Z" />
+<RemoteImage alt={`Mister Mandrill`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_IMG-20170705-WA00341__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_IMG-20170705-WA00341__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAtEAACAQMCBQMBCQAAAAAAAAABAgMEBREAEgYTITFBIjJhFQcUQlFxgZHB0f/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQD/xAAgEQABBAICAwEAAAAAAAAAAAABAAIDEQQhEjFBgaGx/9oADAMBAAIRAxEAPwCd8IU1umvElQimro/uUmyMsytzBIqg5AyB2+eurtwYkdVwlbKe4WellqoV5BjK7DGxKEhAfV1Y9P71FLBc4KW71LQZVOfVLBggMEcRspAAx7gWx841t7xWrfaKlraUx0y0tSzh03cyTdHswev4cdwRpcTtiiIvq/xEdC+WZpruh9TW/cCcP3qjWpa3VjVgjCsKWs2MiKxT2uCpwc+AP51IvtB4Oh4Rqm+l1VWJgwDIzKrxH1qykx9Ccjx+emfEVDxRT1Ut3sE1W4qYuXXTQyKuc7SQATkZwp6edZW1TwzXjdxVFXyRMx508jvvww2lsovqYDJGT1860eQJGBwOiPaKMcxyEO8FcNFNLFKjxswKHcpz21rKS5VJp1h+pvQQqCWMaluYxIxkAeME/vo0aTeaKb4ArmNRLWwoktS821nXex9w3HB7Dxj/AE99OLVaFaHfs3ZznJy36/GjRqJnyujsM1tXMCJr65b0v//Z"
+/>
 
 Hinter dem Namen _Mister Mandrill_  verbirgt sich ein Team aus jungen
 Gastronomen, die die gemeinsame Leidenschaft für betreutes Trinken
@@ -107,13 +105,11 @@ für mich schnell klar, dass ich diesen Weg gehen möchte.
 
 ## "Meiner Heimatstadt mit einem kreativen Gastronomiekonzept etwas zurückzugeben, ist ein reizvoller Gedanke"
 
-<RemoteImage
-  alt="Mister Mandrill"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_received_2012684135639022.jpeg__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_received_2012684135639022.jpeg__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAX/xAApEAABBAEDAwMEAwAAAAAAAAABAgMEEQUABiESEzEiQWEHFDJRYoGR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAwb/xAAmEQABAgUDAwUAAAAAAAAAAAABAgMABBEhUQVB8BIT4SIxgZGx/9oADAMBAAIRAxEAPwBBkbDkubFiZyHFYlXLchrZjd0uFSCqz5UmvQfFcfvXXh7KRt7f2LYnP0lIbT3WH+tJ7iQoJA6ElJpQJBHg6nW09wbgzsmBt0PqkwEqccahCQIzfUfUVFVc+Lo3YsaZm3N8vSEZLM4+e/KblqV1rKeopCCmgfJKR45rxWsQ/wBpYAIqKWhpsdRpSov9RUtvbr2ri8fLc3CTGcl5Oa6ylSRXR3lAUom1Cq5+dGs6ZyJlszkn/s8XKkMR1FtIZjrX2/4qIv1fv5vRpxudeQnpKufMEstKNUt2tnHvbMaZP0k2uiM65j8Y1HlyU8S0vudyMoj82x1dPB9qHB0oZ/YU6atrGzcqFtNhSUGI2tTiyEdRPSo+13/uqHlYWcZkyJ+Hmz1KaZ9OMdU32XlhPCU1ZockqJClGvA1O5e5s1kJ7DbuIfE7qKTHdiKrkV+Skjp4HJCvfXOuTCXfUkglO9fHMxWk3HJdCkIqArYjzzETiV9OMlHKRh83GeYVdqKlsqu/cci/70askvEMpKUN9poJu0JSTXxxQ0anjWnOCDOmN7fsf//Z" />
+<RemoteImage alt={`Mister Mandrill`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_received_2012684135639022.jpeg__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_received_2012684135639022.jpeg__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAX/xAApEAABBAEDAwMEAwAAAAAAAAABAgMEEQUABiESEzEiQWEHFDJRYoGR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAwb/xAAmEQABAgUDAwUAAAAAAAAAAAABAgMABBEhUQVB8BIT4SIxgZGx/9oADAMBAAIRAxEAPwBBkbDkubFiZyHFYlXLchrZjd0uFSCqz5UmvQfFcfvXXh7KRt7f2LYnP0lIbT3WH+tJ7iQoJA6ElJpQJBHg6nW09wbgzsmBt0PqkwEqccahCQIzfUfUVFVc+Lo3YsaZm3N8vSEZLM4+e/KblqV1rKeopCCmgfJKR45rxWsQ/wBpYAIqKWhpsdRpSov9RUtvbr2ri8fLc3CTGcl5Oa6ylSRXR3lAUom1Cq5+dGs6ZyJlszkn/s8XKkMR1FtIZjrX2/4qIv1fv5vRpxudeQnpKufMEstKNUt2tnHvbMaZP0k2uiM65j8Y1HlyU8S0vudyMoj82x1dPB9qHB0oZ/YU6atrGzcqFtNhSUGI2tTiyEdRPSo+13/uqHlYWcZkyJ+Hmz1KaZ9OMdU32XlhPCU1ZockqJClGvA1O5e5s1kJ7DbuIfE7qKTHdiKrkV+Skjp4HJCvfXOuTCXfUkglO9fHMxWk3HJdCkIqArYjzzETiV9OMlHKRh83GeYVdqKlsqu/cci/70askvEMpKUN9poJu0JSTXxxQ0anjWnOCDOmN7fsf//Z"
+/>
 
 **Kevin:** Auch, wenn Hamburg unsere Homebase bleiben soll, gibt es natürlich
 gerade für die Gastronomie noch viele andere interessante Städte. Gerade Berlin
@@ -135,13 +131,11 @@ das Logo mit dem Mandrill-Äffchen ist genial und prägt sich gut ein.
 
 ## "Wir wollen nicht eingleisig fahren"
 
-<RemoteImage
-  alt="Mister Mandrill"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_IMG-20170705-WA0018__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_IMG-20170705-WA0018__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAYI/8QAKBAAAgIBAwQABgMAAAAAAAAAAQIDBBEABRIGEyFRFSIxQWGBI0KR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAP/xAAbEQADAAMBAQAAAAAAAAAAAAAAAQIDESExcf/aAAwDAQACEQMRAD8Abu4bZ0/GkU9+OGurSpBG7TvGDI54qgw2CSfAGqdbdaNDe93262J0WlNSijMshZQsyZQ+fAHNWGs7uVwdR7RXFuJ5Ksqw2J6kmQqKwaSNywHnj2vOPequ8UFvdM76lGupnbbONa0GP8nBCI1JbCk8SDnAx9RjRryylwpMN+m9tSbtNuFivs0u1wiDiZBZidmJZQQflYfnRqG0XCKkUlxJHtPFEJGgfmhYIM+QfeR+vvo0hPhLZzdb6pnjno1dvvPJTEfCbvxBB5XGFAOcfXGfZOtPs3VaVenoezYS0hTs2UmUquHBQDA/tgMAfeCfvpQM5hsxiVG5xPh0dcYwcEHV2edkozQIG7c6qAAcAEPkZ/QOoPFL0n9E7T25H5s+/Rbrt0AG7ybXYSNXkj+JiurBhheJCNy8L78EkaNJTpqy0Mtkx9pFZI/lmwSMcvA5fnP+6NLmU0Gqen//2Q==" />
+<RemoteImage alt={`Mister Mandrill`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_IMG-20170705-WA0018__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_IMG-20170705-WA0018__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAYI/8QAKBAAAgIBAwQABgMAAAAAAAAAAQIDBBEABRIGEyFRFSIxQWGBI0KR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAP/xAAbEQADAAMBAQAAAAAAAAAAAAAAAQIDESExcf/aAAwDAQACEQMRAD8Abu4bZ0/GkU9+OGurSpBG7TvGDI54qgw2CSfAGqdbdaNDe93262J0WlNSijMshZQsyZQ+fAHNWGs7uVwdR7RXFuJ5Ksqw2J6kmQqKwaSNywHnj2vOPequ8UFvdM76lGupnbbONa0GP8nBCI1JbCk8SDnAx9RjRryylwpMN+m9tSbtNuFivs0u1wiDiZBZidmJZQQflYfnRqG0XCKkUlxJHtPFEJGgfmhYIM+QfeR+vvo0hPhLZzdb6pnjno1dvvPJTEfCbvxBB5XGFAOcfXGfZOtPs3VaVenoezYS0hTs2UmUquHBQDA/tgMAfeCfvpQM5hsxiVG5xPh0dcYwcEHV2edkozQIG7c6qAAcAEPkZ/QOoPFL0n9E7T25H5s+/Rbrt0AG7ybXYSNXkj+JiurBhheJCNy8L78EkaNJTpqy0Mtkx9pFZI/lmwSMcvA5fnP+6NLmU0Gqen//2Q=="
+/>
 
 **Kevin:** Es war schnell klar, dass unser Projekt nicht eingleisig fahren wird.
 Ob Catering, Partyreihe, oder eine Pop-up-Bar. Wir sind offen für alles.  Darum

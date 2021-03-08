@@ -14,7 +14,8 @@ focusKeyword: Muckross House
 labels:
   - Archititektur
   - Bourne Vincent Nationalpark
-  - Brititsche Inseln
+  - Britische Inseln
+  - Fernweh
   - Grüne Insel
   - Herrenhaus
   - Ireland
@@ -23,7 +24,6 @@ labels:
   - Muckross House
   - Nationalpark
   - Reise
-  - Reisen
   - Torc Mountain
   - Torc Waterfall
   - Wandern

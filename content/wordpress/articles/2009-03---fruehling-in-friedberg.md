@@ -27,6 +27,9 @@ subTitle: Ein kleiner Frühlingsspaziergang durch Friedberg
   
 ---
 
+**Beim Beinevertreten im schönen Friedberg in Bayern habe ich ein paar
+farbenfrohe Frühlingsfotos gemacht.**
+
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_PC060033__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_PC060033__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010084__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010084__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010060__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010060__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010052__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010052__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010050__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010050__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010044__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010044__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010039__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010039__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010036__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010036__l.jpg"}]}
 />

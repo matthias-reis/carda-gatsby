@@ -13,13 +13,13 @@ excerpt: In Clifden im County Connemara beginnt und endet mit der Sky Loop Road
 focusKeyword: Sky Loop Road
 labels:
   - Aussicht
-  - Brititsche Inseln
+  - Britische Inseln
   - Clifden
   - Connemara
+  - Fernweh
   - Ireland
   - Irland
   - Irland2017
-  - Reisen
   - Reisen
   - Sky Loop Road
   - Sky Road

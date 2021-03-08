@@ -14,9 +14,9 @@ focusKeyword: Award
 labels:
   - Hamburg
   - Interview
-  - Interview
+  - Interviews
   - Liebster Blog Award
-  - Post Rock
+  - Post-Rock
   - Postrock
   - vegan
 type: Artikel
@@ -34,49 +34,44 @@ subTitle: Hamburg und mein Blog
   
 ---
 
-<RemoteImage
-  alt="Award"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_30866717292_74e1ef9463_o-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_30866717292_74e1ef9463_o-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQgD/8QAKxAAAQMDAwEHBQEAAAAAAAAAAQIDBAAFEQYhMRIHEyJBUYGRFDIzcaGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIFAQb/xAAkEQABBAAEBwEAAAAAAAAAAAACAAEDIQQREuEiMUFhcZHB8P/aAAwDAQACEQMRAD8A0LHv1uWhGJjO5CR4huT5fupUC826YsJjzY7ijnASsEnHNZm1hZbBpHT6Li8i6ynHHUstMicUBSyCck9OwAB/lWHZVa9PaugvvSlXG3SmUlLjTU1xWSd0FJxnpIB9xXKhCUfGxZt3bdVSgB65fvC0DI1DamRILs5htLH5SpWAnnn4opFv2SwSYsjMeT3m6VEyXjg8ZwVf7RWDBrsif0h4AGvuyW3aRq2NLkNWVhlEliI+l12QV9R7zBSUp9cBRBz58cVb9kWu4Vhvkm2yY6WUXMhKJqj04WE4SlQPCeQD6mkuiRg5zvnOakSbgvKFIUnqaUlaFAdPiGCD81XPDMQ6OiQZ3a0/g859W+lpwlCln7cHnyO9FcYuqNP3MJWqWw3IcSFqQ+gtbnfYnbHvRQOGya0pT3S//9k=" />
-
 **Schon zwei Mal wurde ich nominiert. [Einmal](/2014/11/and-the-nominees-are/)
-für den  _Liebster Blog Award_ und
-[einmal](/2013/05/best-blog-award-wie-jetzt-ich-habe-was-gewonnen/) für den 
-_Best Blog Award_ . Beide Male habe ich mich unheimlich gefreut und hatte
-Gelegenheit, jede Menge spannende Fragen zu beantworten.**
+für den Liebster Blog Award und
+[einmal](/2013/05/best-blog-award-wie-jetzt-ich-habe-was-gewonnen/) für den Best
+Blog Award. Beide Male habe ich mich unheimlich gefreut und hatte Gelegenheit,
+jede Menge spannende Fragen zu beantworten.**
+
+<RemoteImage alt={`Award`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_30866717292_74e1ef9463_o-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_30866717292_74e1ef9463_o-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQgD/8QAKxAAAQMDAwEHBQEAAAAAAAAAAQIDBAAFEQYhMRIHEyJBUYGRFDIzcaGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIFAQb/xAAkEQABBAAEBwEAAAAAAAAAAAACAAEDIQQREuEiMUFhcZHB8P/aAAwDAQACEQMRAD8A0LHv1uWhGJjO5CR4huT5fupUC826YsJjzY7ijnASsEnHNZm1hZbBpHT6Li8i6ynHHUstMicUBSyCck9OwAB/lWHZVa9PaugvvSlXG3SmUlLjTU1xWSd0FJxnpIB9xXKhCUfGxZt3bdVSgB65fvC0DI1DamRILs5htLH5SpWAnnn4opFv2SwSYsjMeT3m6VEyXjg8ZwVf7RWDBrsif0h4AGvuyW3aRq2NLkNWVhlEliI+l12QV9R7zBSUp9cBRBz58cVb9kWu4Vhvkm2yY6WUXMhKJqj04WE4SlQPCeQD6mkuiRg5zvnOakSbgvKFIUnqaUlaFAdPiGCD81XPDMQ6OiQZ3a0/g859W+lpwlCln7cHnyO9FcYuqNP3MJWqWw3IcSFqQ+gtbnfYnbHvRQOGya0pT3S//9k="
+/>
 
 Seit meinem letzten Award sind ganze 13,5 Monate ins Land gezogen. In meinem
 Blog und in meinem Leben hat sich seitdem einiges verändert. Letzte Woche war es
-dann plötzlich so weit. Mir wurde erneut ein Award verliehen! Danke an dieser
-Stelle an die liebe  _El_ _b_ _gängeri_ _n_ !
+dann plötzlich so weit. Mir wurde von Nicole erneut ein Award verliehen!
 
 Wie es bei Blogawards so üblich ist, hat Nicole, die genau wie ich stolze
 Wahl-Altonaerin ist, 11 Fragen für mich vorbereitet, die ich hiermit beantworte.
 
-**Elbgängerin:** Wie kam es zu dem Namen _cardamonchai_ ?
+**Elbgängerin:** Wie kam es zu dem Namen cardamonchai?
 
 **Anne:** Das ist ganz spontan passiert. Ich bin mit meinem Blog auf Wordpress
 umgezogen und wollte endlich mal einen richtigen Namen dafür haben. Weil ich
 Chai(ey) liebe, am liebsten mit (K)Cardamon(n), war der schnell gefunden. Ich
 hatte schon Phasen, wo ich diese Entscheidung nicht mehr so gut fand, inzwischen
 finde ich ihn wieder schön. Ich finde, es klingt ein Bisschen mystisch, außerdem
-passt es gut zur veganen Rubrik, die es auf _Anne bloggt cardamonchai_ gibt.
+passt es gut zur veganen Rubrik, die es auf Anne bloggt cardamonchai gibt.
 Leider ist er ein Bisschen lang, aber dadurch fragen auch viele nach der
 Bedeutung. Das ist ja auch gut, dann kommt man gleich ins Gespräch, wenn man
 eigentlich nur nach der E-Mail-Adresse fragt. :-)
 
 ## Vegan seit 2014
 
-<RemoteImage
-  alt="Award"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_20929293351_93e91665c2_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_20929293351_93e91665c2_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAj/xAAvEAACAQIEAwYFBQAAAAAAAAABAgMABAUGERIhMVEHFCJBgZETIzJhYnHB0eHx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAQIR/9oADAMBAAIRAxEAPwCL4dNHKpMgGo5fj09v2p+yR33Fkls7edhb253rOfqiboP1HMVIY7lo0ZVJ6irzlZrmwyvg1rY2DtLcxpJLIYyF3NxZmbXy/qgq/ZpiNzbTDBsUuluUdDJazHgQVI3Rn3DD16U1ZumRpookYHYu4jXr/lQPNc15gN9YXdtM0t3PMI4UUlURNjB9ep126H+aZoc1riMMcbPLbXg4uGAI4EAjU/erxvl7UbzbORyqV2XBDszeEHXkatGQMyTYrl750RTu42ELIdG9PKiioWW+0LGL+e4w8SXBEZaRxGvBQPCNOta8qRPf4pK8szM62btIX8fxOWmoNFFB/9k=" />
+<RemoteImage alt={`Award`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_20929293351_93e91665c2_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_20929293351_93e91665c2_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAj/xAAvEAACAQIEAwYFBQAAAAAAAAABAgMABAUGERIhMVEHFCJBgZETIzJhYnHB0eHx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAQIR/9oADAMBAAIRAxEAPwCL4dNHKpMgGo5fj09v2p+yR33Fkls7edhb253rOfqiboP1HMVIY7lo0ZVJ6irzlZrmwyvg1rY2DtLcxpJLIYyF3NxZmbXy/qgq/ZpiNzbTDBsUuluUdDJazHgQVI3Rn3DD16U1ZumRpookYHYu4jXr/lQPNc15gN9YXdtM0t3PMI4UUlURNjB9ep126H+aZoc1riMMcbPLbXg4uGAI4EAjU/erxvl7UbzbORyqV2XBDszeEHXkatGQMyTYrl750RTu42ELIdG9PKiioWW+0LGL+e4w8SXBEZaRxGvBQPCNOta8qRPf4pK8szM62btIX8fxOWmoNFFB/9k="
+/>
 
 **Elbgängerin:** Seit wann und warum lebst Du vegan?
 
@@ -89,31 +84,29 @@ klar, dass es kein Zurück mehr geben würde. Wir haben uns seit der Umstellung
 viel mit Umweltschutz und Tierrechten beschäftigt.
 
 Einiges ist uns wie Schuppen von den Augen gefallen. Filme wie
-[_Earthlings_](http://earthlings.de/) haben uns in unserer Entscheidung
-bekräftigt. Ich habe dann auch angefangen für mein Blog zu recherchieren, habe
-unter anderem einen Artikel über den
+[Earthlings](/2020/07/earthlings/) haben uns in unserer Entscheidung bekräftigt.
+Ich habe dann auch angefangen für mein Blog zu recherchieren, habe unter anderem
+einen Artikel über den
 [ökonomischen Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
 geschrieben und mich mit der
 [Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-blos/) beschäftigt.
 
 ## Ich habe viel recherchiert
 
-In der Zeit habe ich dann auch angefangen für [_Vegan News_](/?s=vegan+news) und
-für das [_Welt Vegan Magazin_](/?s=welt+vegan+magazin) zu schreiben. Mehr und
-mehr Tatsachen und Fakten kamen hinzu und ich war mir von Tag zu Tag klarer
-darüber, dass ich nicht wieder zurück möchte. Außerdem schmeckt es halt auch
-einfach so wahnsinnig gut. Essen ist seit der Ernährungsumstellung etwas
-unheimlich Tolles für mich geworden. Früher war es mehr so eine Art
-Notwendigkeit. Ich genieße jeden Bissen, Matze und ich kochen zusammen,
-probieren neue Rezepte und Zutaten aus und kreieren sogar selbst Gerichte.
+In der Zeit habe ich dann auch angefangen für [Vegan News](/?s=vegan+news) und
+für das [Welt Vegan Magazin](/?s=welt+vegan+magazin) zu schreiben. Mehr und mehr
+Tatsachen und Fakten kamen hinzu und ich war mir von Tag zu Tag klarer darüber,
+dass ich nicht wieder zurück möchte. Außerdem schmeckt es halt auch einfach so
+wahnsinnig gut. Essen ist seit der Ernährungsumstellung etwas unheimlich Tolles
+für mich geworden. Früher war es mehr so eine Art Notwendigkeit. Ich genieße
+jeden Bissen, Matze und ich kochen zusammen, probieren neue Rezepte und Zutaten
+aus und kreieren sogar selbst Gerichte.
 
-<RemoteImage
-  alt="Award"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_11501151886_22baaaa304_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_11501151886_22baaaa304_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKRAAAQMDAgYCAgMAAAAAAAAAAQIDBAAFERIhBhMUIjFBB1FxgZHB4f/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAQL/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIRITHx/9oADAMBAAIRAxEAPwCNegmKrlMJDbJTgJbGlIH1gbUnxroxwndzJbYDjM6EAW0r0nmIdPefO2MipXENvvr/ABI6i2wpUiU1H5jjMZOrUlAGdWNsgkY/ik7iY3GF1TF+ZkdVCUEpLuoLY3wUD1jJ9bfVTaU5el3N+Q5VzfUuI3LS4knmN85KEIGe0JwN9huTRShbIMeXzHVuLitEDQoJJ5nnJx6xRRuMU/RYt14dqq4qtDV3dt7ceS26hRDxXFKEKGkKyFEdyTkbisq+d7fGv9tjSLPIhtOS3emfQEAu6EAkKPjAB2/YpsfmJkshxxBQT26FDKhg0uRbBcb5cnUx2g3DBKXH3E4bbT/asehv+PNKu2BwxSTa52tKI/WuBtIbV0cYLSFDY7Z2H+0VqXGV7bslxEKxBKwgZffX5dXsPX0B+BRWOJ2pn//Z" />
+<RemoteImage alt={`Award`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_11501151886_22baaaa304_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_11501151886_22baaaa304_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKRAAAQMDAgYCAgMAAAAAAAAAAQIDBAAFERIhBhMUIjFBB1FxgZHB4f/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAQL/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIRITHx/9oADAMBAAIRAxEAPwCNegmKrlMJDbJTgJbGlIH1gbUnxroxwndzJbYDjM6EAW0r0nmIdPefO2MipXENvvr/ABI6i2wpUiU1H5jjMZOrUlAGdWNsgkY/ik7iY3GF1TF+ZkdVCUEpLuoLY3wUD1jJ9bfVTaU5el3N+Q5VzfUuI3LS4knmN85KEIGe0JwN9huTRShbIMeXzHVuLitEDQoJJ5nnJx6xRRuMU/RYt14dqq4qtDV3dt7ceS26hRDxXFKEKGkKyFEdyTkbisq+d7fGv9tjSLPIhtOS3emfQEAu6EAkKPjAB2/YpsfmJkshxxBQT26FDKhg0uRbBcb5cnUx2g3DBKXH3E4bbT/asehv+PNKu2BwxSTa52tKI/WuBtIbV0cYLSFDY7Z2H+0VqXGV7bslxEKxBKwgZffX5dXsPX0B+BRWOJ2pn//Z"
+/>
 
 **Elbgängerin:** Wie hoch ist Deine Toleranzgrenze für Fleischfresser?
 
@@ -133,10 +126,10 @@ Fragen bin ich da immer offen.
 
 **Anne:** Ich zitiere dann, wie auch in anderen Situationen, die das Leben so
 mit sich bringt, immer ganz gerne. Zum Beispiel einen meiner Lieblingsblogger,
-den [_Graslutscher_](http://graslutscher.de/).
+den [Graslutscher](http://graslutscher.de/).
 
 > "Immer, wenn jemand "Pflanzen haben auch Gefühle!" sagt, stelle ich mir vor,
-> wie zwei Petunien eng umschlungen im Kino bei  _Titanic_ weinen."
+> wie zwei Petunien eng umschlungen im Kino bei Titanic weinen."
 
 **Elbgängerin:** Du hast ein ungeheuer tolles Händchen für schöne Fotos. Wo
 findest Du Deine Inspiration dafür?
@@ -163,36 +156,34 @@ Konzert-Highlights für 2017?
 
 ## Dunk!festival 2017
 
-<RemoteImage
-  alt="Award"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_15719943182_30a7bfc137_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_15719943182_30a7bfc137_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBgMEB//EACgQAAIBAwMCBQUAAAAAAAAAAAECAwQFEQASIQYxFCJBUdEHE2Fygf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC22mWWRA0lunT9pE+dT1HeYLNaZ66soqn7MeB5NjFmJACgZ7knWa1zlaNGftjnJzqs/VTfX9Jv4KWkElLOlQwl9VUMOAO5ywODxxoF136ip4qgYoa5kYbldUBVh6EEdxo0xoKSO32C0UUk0TvBSojFD5c4BOOe2Txo0Dmz3CN6OMRzseOd+740v63ukUPS1wWR4pS8YVYjyWO4dhjn31T7F1AI0EcjDZ7HWt1rc4prcnhQRJvBJiYI2Me5zx+NA8uF4ptlNGGjZo41VijEjOBo1zOorFdwVkgHAB4bP9wQM6NB/9k=" />
+<RemoteImage alt={`Award`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_15719943182_30a7bfc137_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_15719943182_30a7bfc137_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBgMEB//EACgQAAIBAwMCBQUAAAAAAAAAAAECAwQFEQASIQYxFCJBUdEHE2Fygf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC22mWWRA0lunT9pE+dT1HeYLNaZ66soqn7MeB5NjFmJACgZ7knWa1zlaNGftjnJzqs/VTfX9Jv4KWkElLOlQwl9VUMOAO5ywODxxoF136ip4qgYoa5kYbldUBVh6EEdxo0xoKSO32C0UUk0TvBSojFD5c4BOOe2Txo0Dmz3CN6OMRzseOd+740v63ukUPS1wWR4pS8YVYjyWO4dhjn31T7F1AI0EcjDZ7HWt1rc4prcnhQRJvBJiYI2Me5zx+NA8uF4ptlNGGjZo41VijEjOBo1zOorFdwVkgHAB4bP9wQM6NB/9k="
+/>
 
-**Anne:** In Kürze treten hier in Hamburg  _
-[Russian Circles](/2017/02/russian-circles-knust-hamburg-2017/) _ auf. Ich habe
+**Anne:** In Kürze treten hier in Hamburg 
+[Russian Circles](/2017/02/russian-circles-knust-hamburg-2017/)  auf. Ich habe
 die Band schon ein paar Mal live gesehen und habe alle Platten von ihnen zu
-Hause im Schrank stehen. Außerdem natürlich das  _
-[Dunk!festival](/2017/05/dunkfestival-2017-es-geht-los/) _ in Belgien. Da bin
-ich schon unglaublich gespannt drauf. Ich war zwar schon auf sehr vielen
-Festivals, allerdings noch nie auf einem reinen Post-Rock Festival. Das wird
-sicher wahnsinnig schön, das Line-up ist wie für mich gemacht.
+Hause im Schrank stehen. Außerdem natürlich das 
+[Dunk!festival](/2017/05/dunkfestival-2017-es-geht-los/)  in Belgien. Da bin ich
+schon unglaublich gespannt drauf. Ich war zwar schon auf sehr vielen Festivals,
+allerdings noch nie auf einem reinen Post-Rock Festival. Das wird sicher
+wahnsinnig schön, das Line-up ist wie für mich gemacht.
 
 **Elbgängerin:** Welche Musik spielst Du derzeit hoch und runter?
 
-**Anne:** Alles von _Russian Circles_ , _Mogwai_ , _Explosions In The Sky_ ,
-[_Nine Inch Nails_](/2018/09/nine-inch-nails-zitadelle-spandau/) und _Mono_ .
-Die elektronische Ecke füllt derzeit _Dominic Eulberg_ aus Hamburg ein Bisschen
-aus.  _Moth &amp; Flame_ von  _&amp;_ aus der Serie  _Mister Robot_ ist
-wunderschön, außerdem mag ich gerne gute Folk-Musik. Aktuell ist bei mir auch
-die Musik von  _Chevelle_ wieder häufiger auf dem Plattenteller zu finden.  _The
-Fat White Family_ macht auch grade richtig Spaß. Ein Bisschen Postpunk muss eben
-auch ab und zu sein. Den _Twin Peaks_ Soundtrack ziehe ich mir grade auch wieder
-häufiger rein. Ich freue mich so sehr auf die neuen Folgen! Ich höre jetzt mal
-auf, denn da hast Du ein Bisschen einen Nerv bei mir getroffen. Das läuft sonst
-ins Endlose. Hier im Blog findest Du eine kleine
+**Anne:** Alles von Russian Circles, Mogwai, Explosions In The Sky,
+[Nine Inch Nails](/2018/09/nine-inch-nails-zitadelle-spandau/) und Mono. Die
+elektronische Ecke füllt derzeit Dominic Eulberg aus Hamburg ein Bisschen
+aus. Moth &amp; Flame von &amp; aus der Serie Mister Robot ist wunderschön,
+außerdem mag ich gerne gute Folk-Musik. Aktuell ist bei mir auch die Musik
+von Chevelle wieder häufiger auf dem Plattenteller zu finden. The Fat White
+Family macht auch grade richtig Spaß. Ein Bisschen Postpunk muss eben auch ab
+und zu sein. Den Twin Peaks Soundtrack ziehe ich mir grade auch wieder häufiger
+rein. Ich freue mich so sehr auf die neuen Folgen! Ich höre jetzt mal auf, denn
+da hast Du ein Bisschen einen Nerv bei mir getroffen. Das läuft sonst ins
+Endlose. Hier im Blog findest Du eine kleine
 [Musikliste](/ein-blick-hinter-die-kulissen-von-anne-bloggt-cardamonchai/musik-buecher-und-filme/),
 wenn Du mehr wissen willst. :-D
 
@@ -201,13 +192,11 @@ Stadtteil für Dich inzwischen an?
 
 ## Altona ist mein Stadtteil
 
-<RemoteImage
-  alt="Award"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_23848021279_4164b49a56_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_23848021279_4164b49a56_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcDBQECBAb/xAArEAACAQMDAQYHAQAAAAAAAAABAgMABBEFEiExBhNBUXGRBxUiQmFyofD/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECMf/aAAwDAQACEQMRAD8AWkNuzKMAMxxnHrXVcWZcDf0bn9hWYWMdq8kjmJFALyMOEHjz6VrpurnVIGSZoQ8DNEqRAkqufoyfM8/41LqcKQpNSs5LYRYETq2ducZAGKKtrrDlS8bqAPvjbn+UUFGGjSvLKx+V6hK8cF5KkEhEXDqDsOFC9Pfmlf8ACCOG6sdRhMLCV1Qm5aPAG0cIW8M5BA8xmmQmoqdKnaOSR5XibaeWy2046DrnFeV7NSJofZue3YKlwbgP3LKQ2BFGM4PXJDe9aIUVpHcasYZ3t7mVt0RwCQTke/4oqDUIbbUJ++YICR4vjP8AaKDwm6M//9k=" />
+<RemoteImage alt={`Award`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_23848021279_4164b49a56_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_23848021279_4164b49a56_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcDBQECBAb/xAArEAACAQMDAQYHAQAAAAAAAAABAgMABBEFEiExBhNBUXGRBxUiQmFyofD/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECMf/aAAwDAQACEQMRAD8AWkNuzKMAMxxnHrXVcWZcDf0bn9hWYWMdq8kjmJFALyMOEHjz6VrpurnVIGSZoQ8DNEqRAkqufoyfM8/41LqcKQpNSs5LYRYETq2ducZAGKKtrrDlS8bqAPvjbn+UUFGGjSvLKx+V6hK8cF5KkEhEXDqDsOFC9Pfmlf8ACCOG6sdRhMLCV1Qm5aPAG0cIW8M5BA8xmmQmoqdKnaOSR5XibaeWy2046DrnFeV7NSJofZue3YKlwbgP3LKQ2BFGM4PXJDe9aIUVpHcasYZ3t7mVt0RwCQTke/4oqDUIbbUJ++YICR4vjP8AaKDwm6M//9k="
+/>
 
 **Anne:** Für mich fühlt sich Altona an,  wie die Heimat, die ich schon immer
 gesucht habe. Es wurde für mich gemacht, vermute ich.
@@ -232,9 +221,9 @@ bleiben. Die Stadt zieht einen einfach magisch an.
 
 ## Der Award zieht weiter
 
-Jetzt ist es an mir, jemanden für den  _Liebster Blog Award_ zu nominieren.
-Meine 11 Fragen möchte ich gerne an Patricia von  _
-[One Moment](https://patriciasteinpictures.wordpress.com/) _ richten. Weil mir
+Jetzt ist es an mir, jemanden für den Liebster Blog Award zu nominieren. Meine
+11 Fragen möchte ich gerne an Patricia von 
+[One Moment](https://patriciasteinpictures.wordpress.com/)  richten. Weil mir
 ihre Bilder unheimlich gut gefallen und weil ich mich schon immer gerne mal mit
 ihr darüber unterhalten möchte. Ich bin gespannt, ob sie die Nominierung
 annimmt!

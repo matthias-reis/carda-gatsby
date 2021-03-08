@@ -12,13 +12,14 @@ excerpt: Bevor der April um die Ecke kommt, gibt es erstmal was auf die Ohren
 focusKeyword: 10 Songs
 labels:
   - 10 Songs
+  - 12 Songs
   - A Spoke In The Wheel
   - Agnes Obel
   - All I Was
   - Alter Bridge
   - Alternative
   - Anxiety Panorama
-  - Bands & Reviews
+  - Bands
   - Best-of
   - Black Label Society
   - Circle
@@ -28,7 +29,7 @@ labels:
   - Dummy
   - Dusty Notes
   - Echo And The Bunnymen
-  - EMMA RUTH RUNDLE
+  - Emma Ruth Rundle
   - Great Escape
   - Grunge
   - Indie
@@ -43,7 +44,7 @@ labels:
   - On Dark Horses
   - On Powered Ground
   - Philharmonics
-  - Post Rock
+  - Post-Rock
   - Postpunk
   - Postrock
   - Sibirien

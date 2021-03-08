@@ -10,6 +10,7 @@ excerpt: Am Montagabend hielt Gregor Gysi im Rahmen der jährlichen
   Betriebsrats-Tage in München einen Vortrag zum Thema "Wie weiter?".
 focusKeyword: armut
 labels:
+  - Antifaschismus & Feminismus
   - Armut
   - Betriebsrat
   - Betriebsratswahl
@@ -25,7 +26,6 @@ labels:
   - Leiharbeit
   - München
   - Opposition
-  - Politik & Soziales
   - Politiker
   - Wahl
 type: Artikel
@@ -34,8 +34,7 @@ date: 2013-12-04T13:15:14.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "7723"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_12_img_6770__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_12_img_6770__l.jpg
@@ -43,14 +42,6 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Gregor Gysi zu Innenpolitik und Groko
   
 ---
-
-<RemoteImage
-  alt="Dr. Gregor Gysi"
-  size="medium"
-  title="Dr. Gregor Gysi"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/12/img_6737.jpg?w=200"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/12/img_6737.jpg?w=200"
-  loadingUrl="undefined" />
 
 **Am Montagabend hielt Gregor Gysi im Rahmen der jährlichen Betriebsrats-Tage in
 München einen Vortrag zum Thema "Wie weiter? - Umdenken bei Leiharbeit und
@@ -72,6 +63,12 @@ Im Hirschgarten angelangt, vertiefte man sich sogleich in Gespräche rund um die
 Wahl, die Koalitionsverhandlungen, die bevorstehenden Betriebsratswahlen, die
 Speisekarte, das Wetter und den Dekostil des Gasthofs.
 
+<RemoteImage alt={`Dr. Gregor Gysi`} size="medium" title={`Dr. Gregor Gysi`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_12_img_6737__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_12_img_6737__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAwQH/8QALBAAAQMDAgQFBAMAAAAAAAAAAQIDBAAFEQYhEjFBURMUFSJxB1JhgXKRsf/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQb/xAAgEQABAwQCAwAAAAAAAAAAAAABAAIDBBESQSEicYGx/9oADAMBAAIRAxEAPwCMumrJN8mwri22YTseOGnEoX7SoFRzg46EjH4p0Z82LZU3GFdUuF5xK3kjLZZWTtvywSMfPSov6Tekrv8AFdv7a/RmDiS7JlYQ0AOIkJSM8ge+eXWqS5awhafYmztKwjLtD81K4LV0YLiEtJ4cqUnOwKgEpzhWN9iKhOg7YtWmZVNMZLhq6mp+rJSnSoXaM4ok5UXiSf3yorVk6589OlTJVpgBT6yoNNJKG2x2SAf932FFFEJHBZ8QRUNdyXgein92tLDelrlAt02zRoySpxClz3FqUkfcSyMqI5Z74qF0/q521x248htuVBcT4L8dYJ4miclP7yfg71Q6muTfk2LatXsfIekEq28NO4Qf5ED+q5gOQz2o1NHmw5+UtVTuheDGdW0mLz8VT7qoqXGmVLUUIJKuFOTgZ64GBRWFh5SW+FCsAb7nFFOWU8G6/9k="
+/>
+
 Zunächst wurden Speisen und Getränke gereicht, es gab Wein, Bier, Softgetränke
 und jede Menge Schweinebraten und Käsespätzle. Zum Nachtisch wurde eine Art Rote
 Grütze mit Bayerisch Creme gereicht.
@@ -81,11 +78,11 @@ Mal im Kreise der Betriebsräte, die ihn neugierig begrüßten und beim Zerlegen
 seines Bratenstücks schüchtern mit ihren Handykameras fotografierten.
 
 Nachdem er gespeist hatte, trat er ohne Pause direkt an das provisorische
-Rednerpult, um mit seiner Rede zu beginnen.
+ Rednerpult, um mit seiner Rede zu beginnen.
 
 ## Derzeit sieht Gregor Gysi in Deutschland noch keine Umbruchstimmung,
 
-die sich innerhalb der nächsten vier Jahre aber durchaus entwickeln könnte. Ein
+die sich innerhalb der nächsten vier Jahre aber durchaus entwickeln könnte.  Ein
 Großteil der Wähler schwankte und entschied sich erst am Tag der Wahl für eine
 Partei. Gerade nach dem Bekanntwerden der Absprache zwischen den
 Regierungsparteien, keine Koalitionsangebote von anderen Parteien anzunehmen,
@@ -100,7 +97,7 @@ Schwarz-Gelb fortgesetzt. Wichtige gesellschaftliche Fragen bleiben dabei mal
 wieder außen vor, die soziale Ungerechtigkeit schreitet fort.
 
 In vielen Branchen gibt es durch die Ausnahmen für Tarifverträge mit niedrigen
-Mindestlöhnen keinen Mindestlohn. Die erste Anpassung 2018 ist eine Farce, bei
+Mindestlöhnen keinen Mindestlohn. Die erste Anpassung 2018 ist eine Farce, bei
 der derzeitigen Inflation kann sich jeder selbst ausrechnen, wie viel 8,50 Euro
 dann noch wert sein werden.
 
@@ -153,13 +150,9 @@ Vorstellungen zu haben, sein Vortrag bat einen strukturieren, verständlichen
 Einblick in den verstrickten Politikzirkus von heute und das völlig frei von
 Paragraphenreiterei und Schachtelsatzungetümen.
 
-Im Anschluss an den Vortrag gab es dann noch Autogramme, Fotos mit dem Politiker
-und die Möglichkeit persönliche Fragen zu stellen. Auch ich konnte ein Foto mit
-ihm machen, das bleibt allerdings in meinem privaten Archiv. :-)
-
-Im Anschluss findet Ihr eine kleine Galerie des Abends. Weitere Bilder von den
-Betriebsratstagen sind in meinem
-[Flickr](http://www.flickr.com/photos/99929697@N07/sets/72157638324029183/).
+Im  Anschluss  an den Vortrag gab es dann noch Autogramme, Fotos mit dem
+Politiker und die Möglichkeit persönliche Fragen zu stellen. Auch ich konnte ein
+Foto mit ihm machen, das bleibt allerdings in meinem privaten Archiv. :-)
 
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6795__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6795__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6786__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6786__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6780__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6780__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6775__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6775__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6771__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6771__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6770__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6770__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6748__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6748__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6747__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6747__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6746__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6746__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6737__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6737__l.jpg"}]}

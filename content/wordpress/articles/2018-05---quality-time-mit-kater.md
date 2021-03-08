@@ -15,10 +15,10 @@ labels:
   - Cat Content
   - cat pics
   - Fotos
+  - Geschichten & Erlebtes
   - Kater
   - Katze
   - Katzenfotos
-  - Tagebuch
   - Tiere
 type: Galerie
 typeName: Galerie

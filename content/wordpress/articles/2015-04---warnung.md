@@ -8,7 +8,7 @@ description: Bitte beachten Sie die Gezeiten - Strand Warnung
 excerpt: Diesen Schnappschuss habe ich in England gemacht.
 focusKeyword: Strand Warnung
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
   - Gezeiten
   - Strand Warnung
 type: Meme

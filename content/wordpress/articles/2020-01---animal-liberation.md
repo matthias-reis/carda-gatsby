@@ -12,10 +12,11 @@ focusKeyword: Animal Liberation
 labels:
   - Animal Liberation
   - Bücher & Filme
-  - Darum vegan
   - Peter Singer
   - Speziesismus
   - Tierethik
+  - Tierhaltung
+  - Tierrechte
   - Tierrechte
   - Tierschutz
   - vegan

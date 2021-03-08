@@ -14,11 +14,13 @@ labels:
   - Kochen
   - Rezept
   - Rezept Spargel
+  - Salat
   - Sommer
   - Spargel
   - Spargelrezept
   - Spargelsalat
   - vegan
+  - vegane Rezepte
   - Vegane Rezepte
   - veganes Spargelrezept
 type: Artikel

@@ -10,12 +10,13 @@ excerpt: Der Poulnabrone-Dolmen inmitten des Burren ist ein sogenannter Portal
   Tomb. Er wird auch "Hole Of Sorrows" (Loch der Sorgen) genannt.
 focusKeyword: Poulnabrone Dolmen
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
   - Burren
   - Burren Poulnabrone Dolmen
   - Dolmen
   - Enzian
   - Farn
+  - Fernweh
   - Ireland
   - Irland
   - Irland2017
@@ -28,7 +29,6 @@ labels:
   - Orchideen
   - Portal Tomb
   - Poulnabrone Dolmen
-  - Reisen
   - reisen travelling
   - Stechpalmen
 type: Galerie mit Bild

@@ -19,6 +19,7 @@ labels:
   - Sahnetorte vegan
   - Torte ohne Backen
   - vegan
+  - vegane Rezepte
   - Vegane Rezepte
   - Veganer
 type: Artikel
@@ -36,7 +37,13 @@ subTitle: Vegane Sahnetorte
   
 ---
 
-Salome ist auf dem Gebiet der Speisenzubereitung ein echter Profi, vor Kurzem
+<small>Rezept von Salome Kocakoru</small>
+
+**Vor ein paar Wochen stand bei uns mal wieder ein Familientreffen auf dem
+Programm. Meine liebe Cousine Salome, die auch vegan lebt, und ich hatten uns
+vorgenommen, zusammen ein paar Speisen vorzubereiten.**
+
+Salome ist auf dem Gebiet der Speisenzubereitung ein echter Profi, vor Kurzem
 hat sie in Hamburg sogar eine Ausbildung im Gastronomiebereich begonnen, um ihr
 Hobby endlich zum Beruf zu machen.
 
@@ -49,25 +56,33 @@ mir nichts, dir nichts die tollste Torte, die ich in meinem Leben kosten durfte.
 Natürlich war Salomes Torte die erste Torte, die an diesem Nachmittag bis auf
 den letzten Krümel vom Buffet verschwand.
 
-## Vegane Torte **Benötigt wird** - 1 runde Springform
+## Vegane Torte
 
+**Benötigt wird**
+
+- 1 runde Springform
 - Herdplatte
 - 1 Schüssel
 - 1 kleiner Kochtopf
-- KEIN Ofen **Zutaten** - 2 Packungen Kekse (Salome empfiehlt besonders die von
-  Keks Freunde in der Sorte Vanille, sehr gut passen z. B. auch die Dinkelkekse
-  von Alnatura oder die von Keks Freunde in der Sorte Kakao)
-- 50 g vegane Butteralternative, also z. B. von Provamel oder Sojade, je nach
+- KEIN Ofen
+
+**Zutaten**
+
+- 2 Packungen Kekse (Salome empfiehlt besonders die von Keks Freunde in der
+  Sorte Vanille, sehr gut passen z. B. auch die Dinkelkekse von Alnatura oder
+  die von Keks Freunde in der Sorte Kakao)
+- 50 g vegane Butteralternative, also z. B. von Provamel oder Sojade, je nach
   Geschmack
 - 1 Päckchen Vanillepudding, z. B. von Alnatura
 - Sojamilch
 - 1 Päckchen Soya Whip zum Aufschlagen (Salome nimmt immer die Soya Kokos Whip)
 - Frische Beeren oder Früchte (Hier wurden Blaubeeren und Erdbeeren verwendet)
-  **Zubereitung**
+
+**Zubereitung**
 
 Die Kekse in einer Schüssel ganz klein stampfen, so, dass kleine Brösel
 entstehen (auf keinen Fall zu groß lassen!). Dann die Pflanzenbutter im Topf
-schmelzen, im Anschluss über die Keksbrösel geben. und alles gut durchmengen.
+schmelzen, im Anschluss über die Keksbrösel geben. und alles gut durchmengen.
 Die Hälfte der Bröselmischung sofort in die Kuchenform geben und GUT
 festdrücken.
 
@@ -85,12 +100,11 @@ schneiden.
 
 **Vielen Dank für dieses tolle Rezept, liebe Salo! &lt;3**
 
-<RemoteImage
-  alt="Vegane Torte"
-  size="full"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Guten Appetit!"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_14654822633_941849df4f_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_14654822633_941849df4f_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwUGAwQI/8QAKxAAAQMDAwIGAQUAAAAAAAAAAQIDBAUREgAGIQcTIjFBUWFxFRYzQnKR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUE/8QAJREAAQMEAAUFAAAAAAAAAAAAAQIDBAAREiEFFCNR8EFhgZGx/9oADAMBAAIRAxEAPwB6biojRVPyQhlhIyBSnkj4Gib8lVN7s7lm0lRQqNGbiRqVOUkwZCyvIuKS8hJ7qADcEWBxIJBtpqkMMqU73nbMoRk8ta/4+pN+AODz8a5S6kyqg7uh2o0SWiIHCQ05BdKWVoQcUrSQfHxYE251DdkFpQT3q/GZEwkKVYjfnn1SvIoDtD6g7arNH2/MrEyewiPPMSQlMGCUoQ2tSUpACDjkeTY+QF9SL/VPY5qE2I3WlNuxCpKkusq8ZSrEhPrcH0IGiLbnUeSI4jVh1KqjkMJDTQxUOBYlNrKvc3ta2r7TWaHvsOwqlEgSJOTanmnilKnSDkLLT4lWub88XOj56xxcR80yuFuNoLqFXArS3E/Jq09Sd71ZODawEU2Pk1ETzcFVv3D/AGUR8ax1yHT9w0sR4rkQuN3UghAUUo4yCR6G1iPrUv1h2BUazGZlUB56O4mxVGUuyFj2KfIKFz9/5o7qk2Js+e5CkvPTah2Uo7OfbbY8NwLj75sPYX1BlQ31uBwKJV6Dt+CtUZ9rDGwAqa/QtHmSo4ZiKiPqUCXI5xJ+CPI3t7avezNlJoklMt1xmXiDj3WcXAriyrjji3rqs9IKnVq9XEv1CEWKa2wVtPoZKW1uZAWyUSSbX8hbjTehruKSrBRbBHAHJ1shw3QjGRtV9bvQy5iQejoEb96//9k=" />
+<RemoteImage alt={`Vegane Torte`} size="full"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Guten Appetit!`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_14654822633_941849df4f_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_14654822633_941849df4f_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwUGAwQI/8QAKxAAAQMDAwIGAQUAAAAAAAAAAQIDBAUREgAGIQcTIjFBUWFxFRYzQnKR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUE/8QAJREAAQMEAAUFAAAAAAAAAAAAAQIDBAAREiEFFCNR8EFhgZGx/9oADAMBAAIRAxEAPwB6biojRVPyQhlhIyBSnkj4Gib8lVN7s7lm0lRQqNGbiRqVOUkwZCyvIuKS8hJ7qADcEWBxIJBtpqkMMqU73nbMoRk8ta/4+pN+AODz8a5S6kyqg7uh2o0SWiIHCQ05BdKWVoQcUrSQfHxYE251DdkFpQT3q/GZEwkKVYjfnn1SvIoDtD6g7arNH2/MrEyewiPPMSQlMGCUoQ2tSUpACDjkeTY+QF9SL/VPY5qE2I3WlNuxCpKkusq8ZSrEhPrcH0IGiLbnUeSI4jVh1KqjkMJDTQxUOBYlNrKvc3ta2r7TWaHvsOwqlEgSJOTanmnilKnSDkLLT4lWub88XOj56xxcR80yuFuNoLqFXArS3E/Jq09Sd71ZODawEU2Pk1ETzcFVv3D/AGUR8ax1yHT9w0sR4rkQuN3UghAUUo4yCR6G1iPrUv1h2BUazGZlUB56O4mxVGUuyFj2KfIKFz9/5o7qk2Js+e5CkvPTah2Uo7OfbbY8NwLj75sPYX1BlQ31uBwKJV6Dt+CtUZ9rDGwAqa/QtHmSo4ZiKiPqUCXI5xJ+CPI3t7avezNlJoklMt1xmXiDj3WcXAriyrjji3rqs9IKnVq9XEv1CEWKa2wVtPoZKW1uZAWyUSSbX8hbjTehruKSrBRbBHAHJ1shw3QjGRtV9bvQy5iQejoEb96//9k="
+/>
 
   

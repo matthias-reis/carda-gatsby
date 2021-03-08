@@ -14,10 +14,11 @@ labels:
   - Achtsamkeit
   - Familie
   - Feiertage
+  - Geschichten & Erlebtes
   - Großstadt
+  - Hamburg
   - Jahreswechsel
   - Liebe
-  - Lyrik
   - Streit
   - Weihnachten
 type: Artikel

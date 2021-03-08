@@ -12,7 +12,7 @@ excerpt: Werbung & Affiliate Links - Heute habe ich einen weiteren Geschenktipp
   die sich gerne Rezepte ausdenken.
 focusKeyword: Moleskine
 labels:
-  - DIY
+  - Bücher & Filme
   - Journal
   - Kochbuch
   - Moleskine

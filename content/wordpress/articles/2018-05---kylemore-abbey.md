@@ -10,7 +10,8 @@ excerpt: Hinter den Toren von Kylemore Abbey befindet sich einer der schönsten
   verwunschenen Gärten der Welt. Wir haben ihn besucht.
 focusKeyword: Kylemore Abbey
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
+  - Fernweh
   - Gärten
   - Gemüsegarten
   - Ireland
@@ -20,7 +21,6 @@ labels:
   - Kylemore Abbey
   - Kylemore Castle
   - Obstgarten
-  - Reisen
   - Schlossgarten
 type: Galerie
 typeName: Galerie

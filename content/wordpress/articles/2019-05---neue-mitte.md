@@ -13,9 +13,9 @@ excerpt: Die neue Mitte Altona erhebt sich nach und nach zwischen den Gleisen.
 focusKeyword: neue Mitte
 labels:
   - Altona
+  - Geschichten & Erlebtes
   - Hamburg
   - Hamburg
-  - Lyrik
   - Neubau
   - neue Mitte
   - neue Mitte Altona

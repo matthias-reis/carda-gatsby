@@ -16,9 +16,9 @@ labels:
   - Birds
   - Birdwatching
   - Enten
+  - Fernweh
   - Kopenhagen
   - Möwen
-  - Reisen
   - Skandinavien
   - Tauben
   - Tiere

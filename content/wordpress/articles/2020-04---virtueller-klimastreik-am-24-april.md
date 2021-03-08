@@ -60,8 +60,8 @@ uns! Zum Livestream geht es hier entlang:
 <iframe src="https://www.youtube-nocookie.com/embed/9EUVRPSWJsk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
 
 <div class="footnotes">
-## Fußnote
-1.  [Klimastreikkarte](https://www.klima-streik.org/)
+### Fußnoten
+-  [1]  [Klimastreikkarte](https://www.klima-streik.org/)
 </div>
 
   

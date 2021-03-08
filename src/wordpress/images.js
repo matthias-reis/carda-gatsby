@@ -21,9 +21,9 @@ const createImageTag = (e, article, src, alt, size, title = '') => {
   }
   return `
 <RemoteImage
-  alt="${alt}"
+  alt={\`${alt && alt.replace(/&amp;/g, '&')}\`}
   size="${size}"
-  title="${title}"
+  title={\`${title && title.replace(/&amp;/g, '&')}\`}
   mediumUrl="${(remoteImage && remoteImage.mediumUrl) || src}"
   largeUrl="${(remoteImage && remoteImage.largeUrl) || src}"
   loadingUrl="${remoteImage && remoteImage.base64String}" />`;

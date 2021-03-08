@@ -12,15 +12,14 @@ excerpt: Jubiläum! Mein Blog wird in diesem Jahr 10 Jahre alt! Zeit für einen
 focusKeyword: Jubiläum
 labels:
   - 10 Jahre bloggen
-  - 10JahreBloggen
   - Blogger
   - Bloggerin
   - Blogjubiläum
   - Erfahrungen Blog
+  - Geschichten & Erlebtes
   - Jubiläum
   - Leidenschaft
   - schreiben
-  - Tagebuch
 type: Artikel
 typeName: Artikel
 date: 2018-03-19T18:08:11.000Z
@@ -58,13 +57,11 @@ Plastik-Schnullis in den 90ern und die Bubble Tea Läden vor ein paar Jahren.
 
 ## Self Made Menschen, Ruhm und Geld
 
-<RemoteImage
-  alt="Jubiläum"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40177327564_3ccc4b1aa8_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40177327564_3ccc4b1aa8_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QALBAAAQMDAwEHBAMAAAAAAAAAAQIDBAAFEQYSITEHExQVIkFRI2FxkVKh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EAB0RAAICAwADAAAAAAAAAAAAAAECAAMREiExUWH/2gAMAwEAAhEDEQA/AMBhNqCXkNJJfVJIQAPirkNE3GTo/wA8ku5jQnW2AHF4I3qHQe4PH6+Ke0Ho1N4luvqucaBIbCn20vDKVjlWAf5Z4wakL1qM3q0QojUJUGHAShjuXT9RbxwFKXjggFStoPQfnFAb3a5VXxkS1a+ZM49o8EQJEf047x148H7p/wBopvtzfDMy2IG3OXyf2iit67AcxLcBzIrTc5UNduLZ2iQyrqcDjg/jqKlYduVqq4xiyfDxVSFpedxuXlrkcDqT0z74+1Z5YrrFHcs3JlMtLYLbTagcJ5BJznjOAKtuq78WdJMt2Y+WMKlrakR4jhSlaQVABR6qHvzxzWDqdhjh9w1fnyNdqjlhTd2U3KRcJMsbtxCtiQPTjaACMUVnGu53ibkyoHOGgP6FFX2NqxGSYFpOx7P/2Q==" />
+<RemoteImage alt={`Jubiläum`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40177327564_3ccc4b1aa8_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40177327564_3ccc4b1aa8_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QALBAAAQMDAwEHBAMAAAAAAAAAAQIDBAAFEQYSITEHExQVIkFRI2FxkVKh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EAB0RAAICAwADAAAAAAAAAAAAAAECAAMREiExUWH/2gAMAwEAAhEDEQA/AMBhNqCXkNJJfVJIQAPirkNE3GTo/wA8ku5jQnW2AHF4I3qHQe4PH6+Ke0Ho1N4luvqucaBIbCn20vDKVjlWAf5Z4wakL1qM3q0QojUJUGHAShjuXT9RbxwFKXjggFStoPQfnFAb3a5VXxkS1a+ZM49o8EQJEf047x148H7p/wBopvtzfDMy2IG3OXyf2iit67AcxLcBzIrTc5UNduLZ2iQyrqcDjg/jqKlYduVqq4xiyfDxVSFpedxuXlrkcDqT0z74+1Z5YrrFHcs3JlMtLYLbTagcJ5BJznjOAKtuq78WdJMt2Y+WMKlrakR4jhSlaQVABR6qHvzxzWDqdhjh9w1fnyNdqjlhTd2U3KRcJMsbtxCtiQPTjaACMUVnGu53ibkyoHOGgP6FFX2NqxGSYFpOx7P/2Q=="
+/>
 
 So sehr ich diesen Self Made Menschen und "Entrepreneurs", wie sie sich gerne
 selbst nennen, ihren Ruhm und ihr Geld, gönne: Das war es nicht, worauf es
@@ -78,7 +75,7 @@ vor, die ich selbst toll und unterstützenswert finde. Dabei geht es mir aber in
 erster Linie darum, zu zeigen, dass es eben auch anders geht.
 [Ohne Tierversuche](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/).
 Ohne viel [Verpackung](/2017/04/interview-mit-zero-waste-aktivistin-vio/).
-[Selbst gemacht](/category/basteleien/diy/) und mit Sinn für Nachhaltigkeit.
+[Selbst gemacht](/category/lifestyle/diy/) und mit Sinn für Nachhaltigkeit.
 Keine Frage: Auch ich bin glücklich darüber, dass auf diesem Wege auch mal der
 ein oder andere Euro reinkommt. Aber ganz klar von Tag eins an zu sagen: Ich
 mache das Ding nur, wenn der Rubel rollt: Das ist etwas, was ich mir beim
@@ -121,13 +118,11 @@ und schon kann man auf einer stylischen Page losbloggen.
 
 ## Von der Tagwolke zum modernen Blog
 
-<RemoteImage
-  alt="Jubiläum"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39075612200_8d3ee67247_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39075612200_8d3ee67247_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QALxAAAgEDAwICCAcAAAAAAAAAAQIDBAURAAYhEjFBYQcTFCIjUXGBcpGhorHB0f/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAAxEEEhMhImFx/9oADAMBAAIRAxEAPwDFBP7BbJViHxqiJIFwORlTk/u06bJs1JSzWpbjbjKZ+JXIHUrNnA5IIPbtpQqrVJcmgp4AR265D2QYA589btSbcqrHBZ7xOi1SRzRxQ4bPrCFILsfAePzzxpGs3vcEX4I6tBnuc576pjBuO4QjOUqpV578Hp/rRq6utGLluK5lSSFkZs/id/8ANGl20lnJh3XyMnWOUvcaaJ36YnkXKj+T+Wtk2rd5r7toJJLh5i7xAH3VdWKK2PoB9Rrnq3XBYIKuobl1ULF5OTwft3+2m/0c3qSiq0VpmMAwApY4HB7fLsdE5Dyb/eYhHkPa56rldzUDEgZEYHwYdRP6nRqptlyWO43eUnAlq3I58zo1QW0EZhi3c//Z" />
+<RemoteImage alt={`Jubiläum`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39075612200_8d3ee67247_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39075612200_8d3ee67247_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QALxAAAgEDAwICCAcAAAAAAAAAAQIDBAURAAYhEjFBYQcTFCIjUXGBcpGhorHB0f/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAAxEEEhMhImFx/9oADAMBAAIRAxEAPwDFBP7BbJViHxqiJIFwORlTk/u06bJs1JSzWpbjbjKZ+JXIHUrNnA5IIPbtpQqrVJcmgp4AR265D2QYA589btSbcqrHBZ7xOi1SRzRxQ4bPrCFILsfAePzzxpGs3vcEX4I6tBnuc576pjBuO4QjOUqpV578Hp/rRq6utGLluK5lSSFkZs/id/8ANGl20lnJh3XyMnWOUvcaaJ36YnkXKj+T+Wtk2rd5r7toJJLh5i7xAH3VdWKK2PoB9Rrnq3XBYIKuobl1ULF5OTwft3+2m/0c3qSiq0VpmMAwApY4HB7fLsdE5Dyb/eYhHkPa56rldzUDEgZEYHwYdRP6nRqptlyWO43eUnAlq3I58zo1QW0EZhi3c//Z"
+/>
 
 Früher bedeutete es echte Frickelei, wenn man einen Blog starten wollte. Man
 probierte rum, machte Fehler, probierte sich aus, testete Funktionen aus und
@@ -136,9 +131,9 @@ Webseite, auf die man unglaublich stolz war. Mit Seitenleiste bis in den Keller,
 Tagwolke und Blogroll.
 
 Heute ist das anders. Schon in der Schule kann man programmieren lernen und in
-Zeiten von Smartphones, Snapchat und Vero gibt es niemanden mehr, der sich noch
-nicht mit Social Media und Sharing-Optionen auseinandergesetzt hat. Früher hat
-man auf Twitter mitgelesen. Heute werden Beiträge über sechzehn verschiedene
+Zeiten von Smartphones, Snapchat und TikTok gibt es niemanden mehr, der sich
+noch nicht mit Social Media und Sharing-Optionen auseinandergesetzt hat. Früher
+hat man auf Twitter mitgelesen. Heute werden Beiträge über sechzehn verschiedene
 Kanäle geteilt und jeder kann dabei sein, wenn er möchte.
 
 Ich selbst begrüße diese Entwicklung sehr. Von Yahoo und myspace über Lokalisten
@@ -150,7 +145,7 @@ Welt erblickt, mit dem alle zufrieden sind.
 
 Auf dem man seinen Blog promoten und Werbung machen darf, man aber selbst keine
 Werbung sieht. Auf dem man alles von jedem mitbekommt, man aber selbst mit
-Diskretion behandelt wird. Das die Fotos nicht runterrechnet, aber in
+Diskretion behandelt wird. Das die Fotos nicht runter rechnet, aber in
 Sekundenschnelle lädt. Auf dem man nur 140 Zeichen verwenden darf, aber Romane
 veröffentlichen kann. Die eierlegende Social Media Wollmilchsau.
 
@@ -161,17 +156,15 @@ wieder mit interessanten Persönlichkeiten, die mir über den Weg laufen führen
 
 ## Jubiläum - Auf die nächsten 10 Jahre!
 
-Anfangs noch von mehr [Tagebuchseiten](/category/bleistift-2-0/tagebuch/) und
-anderen [persönlichen Geschichten](/category/bleistift-2-0/prosa/) durchwirkt,
-bewegte sich die Ausrichtung meiner Seite nach und nach immer mehr in eine feste
-Richtung. Ein Nischenblog ist cardamonchai dennoch auch heute nicht. Der Fokus
-liegt inzwischen auf den Schwerpunkten "[vegan](/category/vegan-2/)" ,
-"[Musik](/category/musik/)" ,
-"[Nachhaltigkeit](/category/gesellschaft/klima-umweltschutz/)" ,
-"[Reisen](/category/unterwegs/reisen/)" und
-"[Hamburg](/category/unterwegs/hamburg/)" . Trotzdem scheue ich mich nicht
-davor, auch mal ein komplett anderes Thema dazwischen zu schieben, wenn es mir
-wichtig erscheint.
+Anfangs noch von mehr Tagebuchseiten und anderen persönlichen Geschichten
+durchwirkt, bewegte sich die Ausrichtung meiner Seite nach und nach immer mehr
+in eine feste Richtung. Ein Nischenblog ist cardamonchai dennoch auch heute
+nicht. Der Fokus liegt inzwischen auf den Schwerpunkten
+"[vegan](/category/vegan-2/)" , "[Musik](/category/rock-n-roll)" ,
+"[Nachhaltigkeit](/category/vegan/klima-umweltschutz/)" und
+"[Slow Travel](/category/slow-travel/)" . Trotzdem scheue ich mich nicht davor,
+auch mal ein komplett anderes Thema dazwischen zu schieben, wenn es mir wichtig
+erscheint.
 
 Genau das ist es für mich auch, was das Bloggen ausmacht: Du bist Dein Blog und
 Dein Blog bist Du. Sich auf ein Thema allein festzulegen, das wäre einfach nicht

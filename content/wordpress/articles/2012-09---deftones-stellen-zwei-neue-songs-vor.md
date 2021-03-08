@@ -10,7 +10,7 @@ excerpt: Es ist soweit! Die Deftones haben für November ihr neues Album
   angekündigt! Was wirklich ein Grund ist, komplett aus dem Häuschen zu geraten.
 focusKeyword: Deftones
 labels:
-  - Bands & Reviews
+  - Bands
   - Chi Cheng
   - Chino Moreno
   - Deftones
@@ -28,12 +28,13 @@ labels:
   - neues Album Deftones
   - roller derby
 type: Artikel
-typeName: Rezension
+typeName: Review
 date: 2012-09-04T14:00:49.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  invalidMdx: 'unknown: Unexpected token, expected "}" (16:67)'
 thumbnailId: "9238"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9557898428_86a39a2997_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9557898428_86a39a2997_z__l.jpg
@@ -42,18 +43,26 @@ subTitle: Album im November
   
 ---
 
+## unknown: Unexpected token, expected "}" (16:67)
+
+<!--
+**Und nun zu meiner besonderen Spezialität, die ich so groß angekündigt habe,
+ich möchte sie Euch natürlich nicht vorenthalten.**
+
 Es ist soweit! Die Deftones haben für November ihr neues Album angekündigt! Was
 wirklich ein Grund ist, komplett aus dem Häuschen zu geraten. Laut wilder,
 andauernder Spekulationen in diversen Foren und Magazinen, ist schon seit
 einiger Zeit eine neue Platte in der Mache.
 
 <RemoteImage
-  alt="Chino Moreno von den Deftones auf dem letztjährigen Rock´n&#96;Heim Festival"
-  size="medium"
-  title="Chino Moreno von den Deftones auf dem letztjährigen Rock´n`Heim Festival"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9557898428_86a39a2997_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9557898428_86a39a2997_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBQMGCP/EACoQAAEDAwMCBgIDAAAAAAAAAAECAwQFERIABiETQQcUFSIxYTKBUVKh/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUBAgP/xAAiEQACAQIFBQAAAAAAAAAAAAABAgADEQQFEkGBExRR8PH/2gAMAwEAAhEDEQA/AIPhZAV5WCog4+eXiAnv0135/f8Av3ptIp6iL4KsPrSR29uiJtgMrfeaDofStppcZSlEXUlwBQI5xULX4vrFuap17e+848zbNbnU9h1bbdNhNukHEEBLjiQrG5Vkog3sBbnS+lWREGowros5OkR7CJbto1eMxHhGZEstqkBCQ6W/xK7e4j6vfRo/SZhOOd8xl+tJkJ60mlm7UdzA43SbrA4/sFc25BB7au/Ax6PD3pFnyHYnkI7gTJWuQ2lwpCFuICUqUFKupI5At/NtbBAhtsbk3CxJkGOxTlCpRQgXslQOabE8gi4+OP3qPR6RtuoQKa/Ho7MOlopjDT63yOrIk+4rcJSfixA+7kEaQpiVWmS+1ud41OHJcBN7x40TxN23Pg9SXPQ3IyWQ22y6bozOHBFwvDFRT2v30aQ3qCKhTqnIgUrNyRUW1sTG0qQ+EoZKFHIEHFVxYDjg350ascwrLYAjn7I7SkfPvE//2Q==" />
+alt={`Chino Moreno von den Deftones auf dem letztjährigen Rock´n&#96;Heim Festival`}
+size="medium"
+title={`Chino Moreno von den Deftones auf dem letztjährigen Rock´n`Heim
+Festival`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9557898428_86a39a2997_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9557898428_86a39a2997_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBQMGCP/EACoQAAEDAwMCBgIDAAAAAAAAAAECAwQFERIABiETQQcUFSIxYTKBUVKh/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUBAgP/xAAiEQACAQIFBQAAAAAAAAAAAAABAgADEQQFEkGBExRR8PH/2gAMAwEAAhEDEQA/AIPhZAV5WCog4+eXiAnv0135/f8Av3ptIp6iL4KsPrSR29uiJtgMrfeaDofStppcZSlEXUlwBQI5xULX4vrFuap17e+848zbNbnU9h1bbdNhNukHEEBLjiQrG5Vkog3sBbnS+lWREGowros5OkR7CJbto1eMxHhGZEstqkBCQ6W/xK7e4j6vfRo/SZhOOd8xl+tJkJ60mlm7UdzA43SbrA4/sFc25BB7au/Ax6PD3pFnyHYnkI7gTJWuQ2lwpCFuICUqUFKupI5At/NtbBAhtsbk3CxJkGOxTlCpRQgXslQOabE8gi4+OP3qPR6RtuoQKa/Ho7MOlopjDT63yOrIk+4rcJSfixA+7kEaQpiVWmS+1ud41OHJcBN7x40TxN23Pg9SXPQ3IyWQ22y6bozOHBFwvDFRT2v30aQ3qCKhTqnIgUrNyRUW1sTG0qQ+EoZKFHIEHFVxYDjg350ascwrLYAjn7I7SkfPvE//2Q=="
+/>
 
 "Ko No Yokan" nennt sich dieses lang erwartete Stück Musik. Die Platte soll in
 Europa am 9. November auf den Markt kommen. Tourdates wurden bislang erst mal
@@ -78,6 +87,12 @@ Dieser Artikel ist [Chi Cheng](http://oneloveforchi.com/) gewidmet. ♥
 
 [youtube=http://www.youtube.com/watch?v=VyNBc-_Ctbk&amp;feature=player_embedded]
 
-## Wichtige Links: [ONE LOVE FOR CHI](http://oneloveforchi.com/) [DEFTONES](http://www.deftones.com/main/)
+## Wichtige Links:
+
+[ONE LOVE FOR CHI](http://oneloveforchi.com/)
+
+[DEFTONES](http://www.deftones.com/main/)
+
+-->
 
   

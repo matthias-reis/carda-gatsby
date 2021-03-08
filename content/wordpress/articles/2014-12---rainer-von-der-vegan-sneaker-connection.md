@@ -10,8 +10,8 @@ excerpt: Ich habe mich mit Rainer von der Vegan Sneaker Connection zum Interview
   verabredet und er hat mir einiges über vegane Schuhe verraten.
 focusKeyword: Vegan Sneaker
 labels:
-  - Interview
-  - Mode & Beauty
+  - Fair Fashion & Beauty
+  - Interviews
   - Sneakers
   - Turnschuhe
   - Vegan Sneaker Connection
@@ -32,6 +32,9 @@ subTitle: Vegane Turnschuhe für alle
   
 ---
 
+**Einige von Euch sind beim Stöbern durch die veganen Facebook-Gruppen sicher
+schon mal über die Vegan Sneaker Connection gestolpert.**
+
 Die Gruppe hat inzwischen sensationelle 3.540 Mitglieder. Vorgestellt werden die
 neuesten veganen Sneaker-Modelle, es gibt täglich frische Tipps, Hinweise und
 Antworten auf Produktanfragen. Ich habe mich mit Rainer, einem der Betreiber der
@@ -46,13 +49,12 @@ Grundschule, an der ich im Ganztag Sportunterricht gebe und von der Uni. Also
 quasi ein vollgepackter Tag. Ich freue mich, die Füße hochzulegen, um morgen
 dann wieder ins Büro zu fahren.
 
-<RemoteImage
-  alt="Das Team der Vegan Sneaker Connection"
-  size="medium"
-  title="Das Team der Vegan Sneaker Connection"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Das-Vegan-Sneaker-Connection-Team__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Das-Vegan-Sneaker-Connection-Team__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZACADASIAAhEBAxEB/8QAGgABAAEFAAAAAAAAAAAAAAAABgcBAgMEBf/EACwQAAICAQMDAgYBBQAAAAAAAAECAwQRBRIhAAYxBxMUIjIzQWFxFXKBocH/xAAYAQACAwAAAAAAAAAAAAAAAAABAgADBP/EACERAQACAgEDBQAAAAAAAAAAAAECEQADIRIxQXGBscHR/9oADAMBAAIRAxEAPwDp652UYe35qAu1HswPIJUam4jD7S+7erFl43eBg8DA6GP6eWrPcL6dVeO5DWoGe1LDMhfKg52K2OScYB528np/Nq2qa36i6hoNSKKIzh5hMXKqCmCylsY2458f6PWjqPcNz0/g+I1Wp/UL2swvRWzBLGjVsKWImRQy7l4PnlT+sdZHXEBSir9st1QNiRhyvFfWU7c7e0ulpUdTVpq0NmEDDeykDv8AIDlWkYlgVyOcAEk4PnpLq/ZVOb0/W3SlZ5K8fuCRK8WwyxgptYeW3Z4ZTwUBPUW1L2vjW6KQatVN6J4o2ktL7gVXh3SFyi5xlQBg7jnB6RaD3DBcu3qK3rcMdt4vcljWN5bcasw3ShwEQFuc8cZHI8wISFj2+MffolqWG0SRT63T+YOqd33dOufHPpc9lsCJtwMe6QqVkJbPAPAz+R0Y7n1LWtSj0q5VpWKMsOXjjgfA9xuDICOQMKPl/bc9SsPoX+R1mqfcl/n/AJ0kAgVE4w8pV5EPbMndWn3Ed5oRGI3p+58ikRjlueG/Jw2CTjjpHoGr61cRIVrQwyyQk3IiIUiueQzMoGWchh9TeVZgM9NZ/pb/AB1bT+0/9w6Kj4w9UvLn/9k=" />
+<RemoteImage alt={`Das Team der Vegan Sneaker Connection`} size="medium"
+title={`Das Team der Vegan Sneaker Connection`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Das-Vegan-Sneaker-Connection-Team__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Das-Vegan-Sneaker-Connection-Team__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZACADASIAAhEBAxEB/8QAGgABAAEFAAAAAAAAAAAAAAAABgcBAgMEBf/EACwQAAICAQMDAgYBBQAAAAAAAAECAwQRBRIhAAYxBxMUIjIzQWFxFXKBocH/xAAYAQACAwAAAAAAAAAAAAAAAAABAgADBP/EACERAQACAgEDBQAAAAAAAAAAAAECEQADIRIxQXGBscHR/9oADAMBAAIRAxEAPwDp652UYe35qAu1HswPIJUam4jD7S+7erFl43eBg8DA6GP6eWrPcL6dVeO5DWoGe1LDMhfKg52K2OScYB528np/Nq2qa36i6hoNSKKIzh5hMXKqCmCylsY2458f6PWjqPcNz0/g+I1Wp/UL2swvRWzBLGjVsKWImRQy7l4PnlT+sdZHXEBSir9st1QNiRhyvFfWU7c7e0ulpUdTVpq0NmEDDeykDv8AIDlWkYlgVyOcAEk4PnpLq/ZVOb0/W3SlZ5K8fuCRK8WwyxgptYeW3Z4ZTwUBPUW1L2vjW6KQatVN6J4o2ktL7gVXh3SFyi5xlQBg7jnB6RaD3DBcu3qK3rcMdt4vcljWN5bcasw3ShwEQFuc8cZHI8wISFj2+MffolqWG0SRT63T+YOqd33dOufHPpc9lsCJtwMe6QqVkJbPAPAz+R0Y7n1LWtSj0q5VpWKMsOXjjgfA9xuDICOQMKPl/bc9SsPoX+R1mqfcl/n/AJ0kAgVE4w8pV5EPbMndWn3Ed5oRGI3p+58ikRjlueG/Jw2CTjjpHoGr61cRIVrQwyyQk3IiIUiueQzMoGWchh9TeVZgM9NZ/pb/AB1bT+0/9w6Kj4w9UvLn/9k="
+/>
 
 **Rainer:** Da wären Timek, Jay, Julian, Luke, Peet, Tom, Brian, Flo, Yannic und
 meine Wenigkeit, die als Admins hinter der VSC stecken, den Alltag regeln,
@@ -64,7 +66,13 @@ sondern bieten auch eine vegane Sparte in ihrem Online-Shop an, die ständig
 aktuell mit neuen lederfreien Modellen bestückt wird. Am wichtigsten sind aber
 die aktiven Mitglieder, ohne die das Ganze nicht funktionieren würde.
 
-## Warum gibt es so viele Bio-Schuhe aus Echtleder? **Anne:** Zahlreiche Bio und Fairtrade- Versandhäuser und Online-Shops haben auch heute noch Schuhe aus Echtleder im Angebot. Leder wird hier immer noch mit Qualität verbunden. Passt das überhaupt zusammen? Auf der einen Seite wird auf die Arbeitsbedingungen geachtet, auf der anderen Seite stammt das Material der Schuhe von ausgebeuteten, gequälten Lebewesen.
+## Warum gibt es so viele Bio-Schuhe aus Echtleder?
+
+**Anne:** Zahlreiche Bio und Fairtrade- Versandhäuser und Online-Shops haben
+auch heute noch Schuhe aus Echtleder im Angebot. Leder wird hier immer noch mit
+Qualität verbunden. Passt das überhaupt zusammen? Auf der einen Seite wird auf
+die Arbeitsbedingungen geachtet, auf der anderen Seite stammt das Material der
+Schuhe von ausgebeuteten, gequälten Lebewesen.
 
 **Rainer:** Da wir ja kein Shop sind, sondern eine Anlaufstelle für vegan
 lebende Menschen, die vegane Schuhe suchen, dienen wir ausschließlich als
@@ -78,7 +86,15 @@ echtem, steht das tierleidfreie dem echten Leder in nichts nach. Dieses
 Qualitätsdenken steckt einfach nur in den Köpfen fest, genau wie echter Pelz
 nach wie vor für Luxus steht.
 
-## "Man entscheidet immer selbst, was man kauft" **Anne:** Betrachtet man die Kehrseite der Medaille, stellt man fest, dass viele vegane Schuhe (Stichwort Sneaker bekannter Marken, besonders Nike und Adidas sind immer wieder in den Schlagzeilen) aus Sweatshops stammen und unter schlimmsten Bedingungen für die Arbeiter hergestellt werden. Hinzu kommt die Verwendung oft toxischer Materialien (Stichwort [Greenpeace-Kampagen Detox](https://www.greenpeace.de/kampagnen/detox) ). Wie steht ihr dazu? Klärt ihr auch hier auf?
+## "Man entscheidet immer selbst, was man kauft"
+
+**Anne:** Betrachtet man die Kehrseite der Medaille, stellt man fest, dass viele
+vegane Schuhe (Stichwort Sneaker bekannter Marken, besonders Nike und Adidas
+sind immer wieder in den Schlagzeilen) aus Sweatshops stammen und unter
+schlimmsten Bedingungen für die Arbeiter hergestellt werden. Hinzu kommt die
+Verwendung oft toxischer Materialien (Stichwort
+[Greenpeace-Kampagen Detox](https://www.greenpeace.de/kampagnen/detox) ). Wie
+steht ihr dazu? Klärt ihr auch hier auf?
 
 **Rainer:** Man entscheidet immer selbst, was man kauft. In diesem Zusammenhang
 klären wir nicht auf, sind aber immer für Infos zu haben und respektieren die
@@ -115,7 +131,9 @@ aus Leder besteht.
 
 **Rainer:** Dranbleiben und fragen, fragen, fragen.
 
-## "Ich habe viele Lieblingsschuhe" **Anne:** Welche sind deine Lieblingsschuhe?
+## "Ich habe viele Lieblingsschuhe"
+
+**Anne:** Welche sind deine Lieblingsschuhe?
 
 **Rainer:** Das ist eine schwierige Frage! Da gibt es einige. Eine meiner
 Lieblingsmarken ist Saucony. Da gibt es Modelle, die ich lange gesucht habe: den
@@ -135,7 +153,10 @@ häufiger, nicht immer gerne, aber dadurch, dass ich aktiv Fussball spiele, komm
 ich nicht drum herum. Ich bleibe dabei meiner Linie treu und laufe mit Saucony
 und Nike. Generell sind die meisten Laufschuhe synthetisch.
 
-## "Allzu bunt ist nicht so mein Ding" **Anne:** Was ist dir persönlich bei Sneakers am wichtigsten? Welche Bedingungen müssen sie erfüllen, um in deinem Schuhschrank zu landen?
+## "Allzu bunt ist nicht so mein Ding"
+
+**Anne:** Was ist dir persönlich bei Sneakers am wichtigsten? Welche Bedingungen
+müssen sie erfüllen, um in deinem Schuhschrank zu landen?
 
 **Rainer:** Aussehen und Form. Eigentlich bin ich da sehr offen. Allzu bunt ist
 nicht ganz so mein Ding. Anne: Zu welchen Gelegenheiten kann/sollte man Sneaker
@@ -155,7 +176,10 @@ würde, wäre Leute zu bekehren. Leben und leben lassen! Jeder sollte selbst
 entscheiden, in welcher Art und Weise er leben möchte. Leute, die versuchen, zu
 bekehren, meide ich von vornherein.
 
-## "Ich leite den Sportunterricht an einer Brennpunkt-Schule" **Anne:** Was machst du sonst noch so, wenn du dich nicht gerade um die Vegan Sneaker Connection kümmerst?
+## "Ich leite den Sportunterricht an einer Brennpunkt-Schule"
+
+**Anne:** Was machst du sonst noch so, wenn du dich nicht gerade um die Vegan
+Sneaker Connection kümmerst?
 
 **Rainer:** Ich studiere Englisch und Sport auf Lehramt. Außerdem arbeite ich
 bei einer grossen deutschen Firma und leite den Sportunterricht an einer
@@ -177,7 +201,9 @@ ausgeben?
 Personen, die Alltagstreter suchen. Ich denke, jeder ist auf Schnäppchenjagd.
 Bei mir hört es bei 300 Euro definitiv auf!
 
-## "Ich besitze etwa 80 Paar Schuhe" **Anne:** Wie viele Paar Schuhe besitzt du?
+## "Ich besitze etwa 80 Paar Schuhe"
+
+**Anne:** Wie viele Paar Schuhe besitzt du?
 
 **Rainer:** Es hält sich in Grenzen. Um die 80.
 
@@ -195,12 +221,19 @@ man Schlagen- und Krokodilsleder, so werden die Stimmen ja häufig lauter.
 
 _(Anmerkung: Spätestens seit der 37 Grad-Sendung „ Gift auf unserer Haut“ im
 ZDF, wissen wir, dass Leder kein Abfallprodukt der Fleischindustrie ist.)_
+
 **Anne:** Die Vegan Sneaker Connection gibt es jetzt seit rund 2 Jahren. Wie
 geht es weiter? Wird es bald ein Blog/eine Homepage geben? Oder sogar einen
 Shop? Sämtliche Hersteller veganer Schuhe wären ja die idealen Partner für euch.
 Was plant ihr für die nähere Zukunft?
 
-## "Es ist manchmal richtig schwierig, an Infos zu kommen" **Rainer:** Wir werden sehen. Einen tollen Schritt haben wir schon mit der Zusammenarbeit mit Foodt gemacht. Wir wollen mit unseren Partnern in Verbindung bleiben. Es läuft gut, so wie es ist. Freuen würden wir uns, wenn sich auch mal die Hersteller bei uns melden würden, bzw. wir direkte Ansprechpartner hätten, die uns zur Seite stehen könnten, wenn wir Fragen haben.
+## "Es ist manchmal richtig schwierig, an Infos zu kommen"
+
+**Rainer:** Wir werden sehen. Einen tollen Schritt haben wir schon mit der
+Zusammenarbeit mit Foodt gemacht. Wir wollen mit unseren Partnern in Verbindung
+bleiben. Es läuft gut, so wie es ist. Freuen würden wir uns, wenn sich auch mal
+die Hersteller bei uns melden würden, bzw. wir direkte Ansprechpartner hätten,
+die uns zur Seite stehen könnten, wenn wir Fragen haben.
 
 Es ist teils sehr schwierig, überhaupt Infos zu bekommen, denn die Leute in den
 Support Centern wissen meist wenig bis gar nichts. Was unsere Präsenz angeht,
@@ -215,13 +248,11 @@ das Allerwichtigste.
 mich sehr gefreut, deine Bekanntschaft zu machen! Alles Gute für die Zukunft der
 Vegan Sneaker Connection!
 
-<RemoteImage
-  alt="vegan-sneaker-connection-rainer"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Das-Logo-der-Vegan-Sneaker-Connection__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Das-Logo-der-Vegan-Sneaker-Connection__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGAv/EACAQAAICAwACAwEAAAAAAAAAAAECAwQAESEiMQUGFHH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBgf/xAAaEQACAwEBAAAAAAAAAAAAAAABAwACEQRB/9oADAMBAAIRAxEAPwCgD+W94g+4y2nb42tFY/NSsSSJYmDMpHh4AFe7332BzvMbByGVhrY7hqWBL4SwV3RvatGCD/Rmf8jKqdVlhueSk6FlizQHNk/9KsTP8daSae1YghnaKvPaULJIoA3zZ4G2Ad46eXQ5m5LJjIRIYFReACMaAwKVz31h6rhrbMAzfIkUNKCpO5P/2Q==" />
+<RemoteImage alt={`vegan-sneaker-connection-rainer`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Das-Logo-der-Vegan-Sneaker-Connection__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Das-Logo-der-Vegan-Sneaker-Connection__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGAv/EACAQAAICAwACAwEAAAAAAAAAAAECAwQAESEiMQUGFHH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBgf/xAAaEQACAwEBAAAAAAAAAAAAAAABAwACEQRB/9oADAMBAAIRAxEAPwCgD+W94g+4y2nb42tFY/NSsSSJYmDMpHh4AFe7332BzvMbByGVhrY7hqWBL4SwV3RvatGCD/Rmf8jKqdVlhueSk6FlizQHNk/9KsTP8daSae1YghnaKvPaULJIoA3zZ4G2Ad46eXQ5m5LJjIRIYFReACMaAwKVz31h6rhrbMAzfIkUNKCpO5P/2Q=="
+/>
 
 ## Nachtrag vom 20. Juli 2018
 

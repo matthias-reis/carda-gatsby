@@ -16,11 +16,11 @@ labels:
   - Botanischer Garten
   - David Bramwell
   - Erik Ragnar Svensson
+  - Fernweh
   - Gran Canaria
   - Jardín
   - Jardin Canario
   - José Viera y Clavijo
-  - Reisen
   - Schweden
   - Skandinavien
   - Tafira

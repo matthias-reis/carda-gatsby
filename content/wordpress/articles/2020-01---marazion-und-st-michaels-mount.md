@@ -11,12 +11,12 @@ excerpt: Kennt Ihr schon Marazion und St. Michael's Mount in Cornwall? Mit den
   Ferne träumen.
 focusKeyword: St. Michael's Mount
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
   - Cornwall
   - England
+  - Fernweh
   - GB
   - Marazion
-  - Reisen
   - Reisen
   - Slow Travel
   - St. Michaels Mount

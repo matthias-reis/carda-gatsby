@@ -11,11 +11,10 @@ excerpt: Werbung - Weihnachten steht vor der Tür - das Santaverde Pflegeset zum
 focusKeyword: Santaverde
 labels:
   - Aloe Vera
-  - Mode & Beauty
+  - Fair Fashion & Beauty
   - Santaverde
   - vegan beauty
   - vegane Pflege
-  - Vegane Produkte
   - Wellness
 type: Artikel
 typeName: Produkttest
@@ -56,13 +55,11 @@ Im Set enthalten sind
 
 ## Ein frisches Hautgefühl
 
-<RemoteImage
-  alt="Santaverde"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-santaverde-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-santaverde-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGCAT/xAApEAABBAEDBAEDBQAAAAAAAAABAgMEEQAFEiEGEzFBIgdhkRUzUXHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAHhEBAAIBBAMAAAAAAAAAAAAAAQACAxETIUESMaH/2gAMAwEAAhEDEQA/AM8Q9JVMgMFl9BCdxCHEpbO/yRZNlNJ8+uc5mGwuW3vZQEgbVFZsE/yaxpp0IytP1CV3A0kIBWpxpCkq2/KknlQNgAVyReUcTovqWFEmLToD7neaUyh1MhKOzdKWa3gE7QRR45N5jLWdQ5mjIAD6kPJhhpZ3IO0FVGiC79wP8wzt1KBN051DctlcdTje9AU4FW2SRYKSQRYP4OGU8k4ZPcIuS4sx3QNtEV5q81L1FqPR7cZ9qZp3UEgy3FIX+mvpVv3UsqAPhJJr8jMotuJRXcJVabFej6vGGlxjNWGGiUPbVuKPgbQLpI9k/wB1zjq7eqwtV7lb9XBDj9RRIulMymIjMIIbalfvC3XT8vvzhky7BjpHdjq7jwUAkPK3EmvYHGGC2Qs6n2UMR3P/2Q==" />
+<RemoteImage alt={`Santaverde`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-santaverde-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-santaverde-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGCAT/xAApEAABBAEDBAEDBQAAAAAAAAABAgMEEQAFEiEGEzFBIgdhkRUzUXHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAHhEBAAIBBAMAAAAAAAAAAAAAAQACAxETIUESMaH/2gAMAwEAAhEDEQA/AM8Q9JVMgMFl9BCdxCHEpbO/yRZNlNJ8+uc5mGwuW3vZQEgbVFZsE/yaxpp0IytP1CV3A0kIBWpxpCkq2/KknlQNgAVyReUcTovqWFEmLToD7neaUyh1MhKOzdKWa3gE7QRR45N5jLWdQ5mjIAD6kPJhhpZ3IO0FVGiC79wP8wzt1KBN051DctlcdTje9AU4FW2SRYKSQRYP4OGU8k4ZPcIuS4sx3QNtEV5q81L1FqPR7cZ9qZp3UEgy3FIX+mvpVv3UsqAPhJJr8jMotuJRXcJVabFej6vGGlxjNWGGiUPbVuKPgbQLpI9k/wB1zjq7eqwtV7lb9XBDj9RRIulMymIjMIIbalfvC3XT8vvzhky7BjpHdjq7jwUAkPK3EmvYHGGC2Qs6n2UMR3P/2Q=="
+/>
 
 Die Santaverde Produkte sorgen für ein angenehmes Hautgefühl. Die
 [Cleansing Emulsion](/2019/04/santaverde-aloe-vera-reinigungsemulsion/) habe ich

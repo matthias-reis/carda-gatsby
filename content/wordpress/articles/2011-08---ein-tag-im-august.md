@@ -17,6 +17,7 @@ labels:
   - einkaufen
   - Einkaufswagen
   - Flaschensammler
+  - Geschichten & Erlebtes
   - Gesellschaft
   - Gisbert zu Knyphausen
   - heut san lauter wuide unterwegs
@@ -27,14 +28,12 @@ labels:
   - Nerven
   - Parkplatz
   - Pfandflaschen
-  - Prosa
   - schwitzen
   - Sommer
   - Sommertag
   - Sonne
   - Speiseeis
   - Supermarkt
-  - Tagebuch
   - Tagebuch
   - Urlaub
 type: Artikel
@@ -52,17 +51,20 @@ subTitle: Auf dem Weg ins Büro
   
 ---
 
-Erste Ampel: Neben mir: Mercedes. Baujahr 1976, Fahrer Baujahr 1978. Zieht an
+**Erste Ampel: Neben mir: Mercedes. Baujahr 1976, Fahrer Baujahr 1978. Zieht an
 seiner Zigarette. Fliegersonnenbrille. Blondes Haar. Lächelt rüber. Ich lächle
-zurück. Die Ampel grün. Bis zur nächsten Kreuzung. Noch ein Blick. Dann auf die
-Rechtsabbiegerspur. Verschwindet hinter einem Fabrikgebäude. Nächste Ampel.
-Neben mir ein Kleinlaster einer Möbelhauskette. Die mit dem völlig unsinnigen
-Werbeslogan, bei dem ich immer an Erkrankungen des Magen-Darm-Traktes denken
-muss. Der Fahrer lässt den Motor ein paar Mal aufheulen, anscheinend, um mir
-seine Stärke zu demonstrieren. Als die Ampel auf grün umschaltet, scheint er
-eine wahre Freude daran zu haben, an meiner betagten, grauen, nicht nur leicht
-rostigen Asphaltblase vorbeizuziehen. Ich lasse ihm den Spaß. Gehe mit Absicht
-noch etwas vom Gas runter. Nächste Kreuzung. Rechts abbiegen. Ein Transporter.
+zurück. Die Ampel grün.**
+
+Bis zur nächsten Kreuzung. Noch ein Blick. Dann auf die Rechtsabbiegerspur.
+Verschwindet hinter einem Fabrikgebäude. Nächste Ampel. Neben mir ein
+Kleinlaster einer Möbelhauskette. Die mit dem völlig unsinnigen Werbeslogan, bei
+dem ich immer an Erkrankungen des Magen-Darm-Traktes denken muss. Der Fahrer
+lässt den Motor ein paar Mal aufheulen, anscheinend, um mir seine Stärke zu
+demonstrieren. Als die Ampel auf grün umschaltet, scheint er eine wahre Freude
+daran zu haben, an meiner betagten, grauen, nicht nur leicht rostigen
+Asphaltblase vorbeizuziehen. Ich lasse ihm den Spaß. Gehe mit Absicht noch etwas
+vom Gas runter. Nächste Kreuzung. Rechts abbiegen. Ein Transporter.
+
 Mitten auf der Straße. Versucht rückwärts in die gegenüberliegende Hofeinfahrt
 reinzukommen. Scheint dabei sichtlich Probleme zu haben. Um ihm das Einparken zu
 erleichtern, weiche ich ein wenig zur Seite aus. Plötzlich scheint er seine
@@ -127,33 +129,8 @@ Knopf. Kurz vor der Wohnungstür reißt der Henkel meiner Tüte. Ich lasse sie
 liegen. Schließe meine Wohnungtür auf, schnappe mir meine Badesachen und haue
 ab.
 
-### Song des Tages
-
-Gispert zu Knyphausen - Sommertag
+## Song des Tages Gispert zu Knyphausen – "Sommertag"
 
 [youtube=http://www.youtube.com/watch?v=py7PhN9be9w]
-
-_Eins, zwo, drei vier_ _Manchmal glaube ich, dass ich zu langsam bin_ _für all'
-die Dinge, die um mich herum geschehen._ _Doch all' die Menschen, die ich
-wirklich, wirklich gerne mag,_ _sie sind genauso außer Atem wie ich._ _Und
-manchmal glaube ich, dass nichts mehr wichtig ist._ _Ich treibe ziellos bis zum
-Tag, an dem ich sterbe, jaja._ _Doch gerade dann, wenn ich dann wirklich nicht
-mehr weiter will,_ _liegt mein gepflegter Pessimismus in Scherben._ _Und alles,
-was mir dann noch übrig bleibt:_ _Ein bisschen Zweisamkeit als Zeitvertreib._
-_Das bisschen Herzschmerz, das bisschen Herzschmerz_ _tut doch gar nicht so
-weh._ _Den ganzen Unsinn werd' ich nie verstehen._ _Da hilft nur Einatmen und
-Vorwärtsgehen._ _Es ist ganz einfach, es ist ganz einfach:_ _Das Leben lebt, es
-ist ein wunderschöner Sommertag._ _Und manchmal glaube ich, dass ich zu müde
-bin._ _Aus meinem Sessel komm ich nie mehr wieder hoch,_ _doch wenn es klingelt,
-bin ich rasend schnell am Telefon,_ _es kann doch sein, dass mich irgendwer
-braucht._ _Und manchmal glaube ich, dass ich zu leise bin._ _Dann schrei' ich
-lauthals meine Lieder in den Wind._ _Doch viel, viel lauter noch sind die, die
-nix zu sagen haben._ _Und wenn das stimmt, dann halt' ich lieber mein Maul._
-_Und alles, was mir dann noch übrig bleibt:_ _Ein bisschen Zweisamkeit als
-Zeitvertreib._ _Das bisschen Herzschmerz, das bisschen Herzschmerz_ _tut doch ga
-nicht so weh._ _Den ganzen Unsinn werd' ich nie verstehen._ _Da hilft nur
-Einatmen und Vorwärtsgehen._ _Es ist ganz einfach, es ist ganz einfach:_ _Das
-Leben lebt, es ist ein wunderschöner Sommertag._ _Ein Sommertag, ein Sommertag,
-ein Sommertag._
 
   

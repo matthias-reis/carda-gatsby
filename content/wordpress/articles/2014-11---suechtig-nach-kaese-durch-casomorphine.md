@@ -14,13 +14,17 @@ focusKeyword: Süchtig nach Käse
 labels:
   - auf Käse verzichten
   - Casomorphine
-  - Darum vegan
   - Dr. Neal Barnand
+  - Ernährung
+  - Ernährung & Gesundheit
   - Essen
   - go vegan
   - Käsesucht
   - Sucht
   - vegan
+  - vegane Ernährung
+  - vegane Rezepte
+  - Vegane Rezepte
 type: Artikel
 typeName: Artikel
 date: 2014-11-21T16:40:31.000Z
@@ -35,6 +39,10 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Wie ich meine Sucht erkannte
   
 ---
+
+**Kennt Ihr das auch? "Auf Fleisch kann man locker verzichten. Aber Käse? Ich
+lasse mir doch meinen Käse nicht nehmen!" Tatsächlich kann man richtig süchtig
+danach sein. Das ist sogar wissenschaftlich erwiesen.**
 
 Vor einiger Zeit fragte mich die liebe Sabine, ob ich nicht Lust hätte, mal über
 Casomorphine zu recherchieren. Ich verstand erst mal nur Bahnhof. Casomorphine?
@@ -68,7 +76,8 @@ würde ja schließlich auch den ganzen tollen Gemüsegeschmack überdecken.
 > Es ist alles wieder gut. Ich hab's mit Käse überbacken. — cardamonchai
 > (@Anne_Reko)
 > [February 13, 2013](https://twitter.com/Anne_Reko/status/301749620604817408?ref_src=twsrc%5Etfw)
-> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 So viel zu meiner persönlichen "Käsegeschichte", wie ich schließlich den
 "Absprung" geschafft habe, weiß ich nicht mehr, vermisst habe ich den Käse bis
@@ -143,7 +152,7 @@ mein Geheimnis:
 Man nehme
 
 - 1 Tasse Hafermilch
-- 1 Tasse Hefeflocken
+- 1 Tasse [Hefeflocken](/2021/01/hefe-ist-vegan/)
 - 2 Handvoll Nüsse
 - 2 Esslöffel Speiseöl
 - 1 Teelöffel Salz
@@ -154,7 +163,7 @@ Einfach alles in den Mixer packen, bis eine schöne glatte Masse entstanden ist,
 
 Hier im Blog findet Ihr ganz aktuell auch
 [ein leckeres Kartoffelauflauf-Rezept](/2014/11/ein-koenigreich-fur-eine-kartoffel/)
-aus meiner Feder, beim Nachkochen könnt Ihr meinen selbstgemachten
+aus meiner Feder, beim Nachkochen könnt Ihr meinen selbst gemachten
 "Gratinierkäse" gleich mal ausprobieren.
 
 Ihr möchtet gerne wissen, warum Pflanzenmilch für mich die bessere Wahl ist?
@@ -164,7 +173,10 @@ Ihr möchtet gerne wissen, warum Pflanzenmilch für mich die bessere Wahl ist?
 besser nicht" von Maria Rollinger **Quellen:**
 [Vegane Beratung](https://www.vegane-inspiration.com/casomorphine.html),
 [Dr. Hanno Platz](https://www.dr-platz.de/),
-[Dr. Neal D. Barnard](https://www.pcrm.org/news/blog) ## Fußnote-
-[1][peptide wikipedia](https://de.wikipedia.org/wiki/Peptid)
+[Dr. Neal D. Barnard](https://www.pcrm.org/news/blog)
+
+## Fußnote
+
+- [1][peptide wikipedia](https://de.wikipedia.org/wiki/Peptid)
 
   

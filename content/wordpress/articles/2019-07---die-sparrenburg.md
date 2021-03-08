@@ -40,13 +40,11 @@ sie so unfassbar groß, weil man selbst noch so niedlich klein war. Bei der
 Bielefelder Sparrenburg war das bei mir nicht so - sie sah noch genauso aus, wie
 ich sie in Erinnerung hatte.
 
-<RemoteImage
-  alt="sparrenburg"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_sparrenburg-anne__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_sparrenburg-anne__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYE/8QAKhAAAgECBQMEAQUAAAAAAAAAAQIDBBEABQYSIRMxQRQiUWFxFTJCUoH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8ASdFSPG+6KF2lBJ2INxCg/H+YeelDl8+lMukqqqnhkmbaqyzL7je1h8c+DhMZJNNHWr1TJCjbAH6Wy4vewv3Nz4w48uoIst0vFT1QWlkbNoT6WdrFSJEvZW5F+9sBBnen09VzGAefGDGo13mdPlWaCAKJZjuZ1TnaL8X/ADzgwCW1Z+m5rk1PSiUJUJMpjkJ2Kn9rk8du18W+R5HmkOoYG1Oz1PQQFap5RMGfapQ7yT/E+fjHTpieGnWORkhLqdyhU9qH68k/Z5xc5WaaHL58tidEp3WV47r7g7OXv3t3Yj8YCo1bC6vT9Eshu9+n5/bgxmKnUElHPJE7uNrEABgLc/YwYD//2Q==" />
+<RemoteImage alt={`sparrenburg`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_sparrenburg-anne__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_sparrenburg-anne__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYE/8QAKhAAAgECBQMEAQUAAAAAAAAAAQIDBBEABQYSIRMxQRQiUWFxFTJCUoH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8ASdFSPG+6KF2lBJ2INxCg/H+YeelDl8+lMukqqqnhkmbaqyzL7je1h8c+DhMZJNNHWr1TJCjbAH6Wy4vewv3Nz4w48uoIst0vFT1QWlkbNoT6WdrFSJEvZW5F+9sBBnen09VzGAefGDGo13mdPlWaCAKJZjuZ1TnaL8X/ADzgwCW1Z+m5rk1PSiUJUJMpjkJ2Kn9rk8du18W+R5HmkOoYG1Oz1PQQFap5RMGfapQ7yT/E+fjHTpieGnWORkhLqdyhU9qH68k/Z5xc5WaaHL58tidEp3WV47r7g7OXv3t3Yj8YCo1bC6vT9Eshu9+n5/bgxmKnUElHPJE7uNrEABgLc/YwYD//2Q=="
+/>
 
 Von der Burg aus hat meinen einen wunderbaren Blick über die Stadt Bielefeld.
 Ihr konntet ihn auch schon in meinem Artikel "Orte aus der Kindheit" bewundern.

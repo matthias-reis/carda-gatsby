@@ -12,11 +12,11 @@ excerpt: Nach Penzance zieht es mich immer wieder. Ich liebe das Flair des
   oft rau.
 focusKeyword: Penzance
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
   - Cornwall
   - England
+  - Fernweh
   - Penzance
-  - Reisen
 type: Galerie
 typeName: Galerie
 date: 2020-02-06T17:50:00.000Z

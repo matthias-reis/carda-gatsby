@@ -15,6 +15,7 @@ labels:
   - Betonmischer
   - der Maulwurf und der Schmetterling
   - Dezember
+  - Geschichten & Erlebtes
   - Glühwein
   - Gute Vorsätze
   - Herbst
@@ -27,12 +28,10 @@ labels:
   - Nebel
   - Nebelschwaden
   - November
-  - Prosa
   - Reise
   - Reisepass
   - Silvester
   - Straßenverkehr
-  - Tagebuch
   - Urlaub
   - Weihnachtsbaum
   - Weihnachtsmarkt
@@ -51,10 +50,11 @@ subTitle: Tagebucheintrag
   
 ---
 
-Durch den Nebel ins Büro. Der erste Tag nach einer Woche Urlaub auf Balkonien.
+**Durch den Nebel ins Büro. Der erste Tag nach einer Woche Urlaub auf Balkonien.
 Der Herbst ist angekommen. Die Zeitumstellung nicht mehr spürbar. Die ersten
 kalten Tage gab es schon vor Wochen, doch ist es jetzt irgendwie noch
-deutlicher. Das Jahr geht wohl bald zu Ende. Liegt in seinen letzten Zügen.
+deutlicher. Das Jahr geht wohl bald zu Ende. Liegt in seinen letzten Zügen.**
+
 Zumindest wird einem das suggeriert. Es wird von der Werbung totgesagt. In den
 Supermarktregalen liegen seit Wochen die Industrielebkuchen. Vorboten der
 stillen Zeit des Konsums. Wir ignorieren einfach alle Krisen und geben es aus.

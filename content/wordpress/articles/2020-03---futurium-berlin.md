@@ -15,7 +15,6 @@ labels:
   - Berlin
   - Futurium
   - Klima & Umweltschutz
-  - Kunst
   - Museum
   - Nachhaltigkeit
   - Zukunft

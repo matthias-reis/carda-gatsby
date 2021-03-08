@@ -12,7 +12,7 @@ excerpt: Stadttauben haben eine traurige Geschichte. Der Hamburger Stadttauben
   kümmern.
 focusKeyword: Stadttauben
 labels:
-  - Darum vegan
+  - Hamburg
   - Hamburg
   - Hamburger Stadttauben
   - Hamburger Stadttauben e. V.
@@ -36,13 +36,11 @@ subTitle: Ein Verein mit Herz für Tauben
   
 ---
 
-<RemoteImage
-  alt="Stadttauben"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_17160873227_6048e2ba21_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_17160873227_6048e2ba21_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEBQf/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREABiESMVEHE0FhgZEUFUL/xAAXAQADAQAAAAAAAAAAAAAAAAAABAUD/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxEhBBMiQlH/2gAMAwEAAhEDEQA/AF1Stm2tQ/2dynlQACISSyPNIxPZVBJ74PbHbR25esu3aaAikp6uebHCuntjPknnTKvoLbeqaOiuiCalEqyGNh0hmUHAbHxznjHI/Ghe4fR+x3KZ5rPVPb5Tz7ZX3YQfoZ6h+zoqNQGHEGDk6Oor2TvhaqzLcLw9DQQynEWHCOx8cZY6w729RaCTa94ipHkm6oJAqywGVCcd2D/54x+c6D0uzLjtanEVUaGpPU3S9PJlyo5JKsAQAPvXNlSK92+WM1H8S2GRYqmdhh2B56AmQcN2LfAzpxr+ONpMFptI8ou2TumorY7tE8ZC0MqohMpJZSo4Ofsa2XvcNxhtNZWrOI4Il9v2YkUFu3JYg+fGrVqIpPelXqRHW0rGeMXncdfcZZnqHBVukqgHC/P7z4xrkUtVM8c0ZdhHKCHUEjqGc4/BwR4xq1atJUgGAIiXb7P/2Q==" />
+<RemoteImage alt={`Stadttauben`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_17160873227_6048e2ba21_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_17160873227_6048e2ba21_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEBQf/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREABiESMVEHE0FhgZEUFUL/xAAXAQADAQAAAAAAAAAAAAAAAAAABAUD/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxEhBBMiQlH/2gAMAwEAAhEDEQA/AF1Stm2tQ/2dynlQACISSyPNIxPZVBJ74PbHbR25esu3aaAikp6uebHCuntjPknnTKvoLbeqaOiuiCalEqyGNh0hmUHAbHxznjHI/Ghe4fR+x3KZ5rPVPb5Tz7ZX3YQfoZ6h+zoqNQGHEGDk6Oor2TvhaqzLcLw9DQQynEWHCOx8cZY6w729RaCTa94ipHkm6oJAqywGVCcd2D/54x+c6D0uzLjtanEVUaGpPU3S9PJlyo5JKsAQAPvXNlSK92+WM1H8S2GRYqmdhh2B56AmQcN2LfAzpxr+ONpMFptI8ou2TumorY7tE8ZC0MqohMpJZSo4Ofsa2XvcNxhtNZWrOI4Il9v2YkUFu3JYg+fGrVqIpPelXqRHW0rGeMXncdfcZZnqHBVukqgHC/P7z4xrkUtVM8c0ZdhHKCHUEjqGc4/BwR4xq1atJUgGAIiXb7P/2Q=="
+/>
 
 **Wie einige von Euch schon wissen, liegen mir aus verschiedenen Gründen Tauben
 sehr am Herzen. Besonders die Stadttauben, die immer um uns herumfliegen, aber
@@ -68,13 +66,11 @@ Stadttauben an und verpaaren sich sogar mit ihnen. Zu unterscheiden sind sie
 durch ihre Gefiederzeichnungen. Oft stehen sie das harte Straßenleben nicht
 lange durch und finden ein trauriges Ende.
 
-<RemoteImage
-  alt="Stadttauben"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_21447371659_0f24700ac2_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_21447371659_0f24700ac2_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAQT/xAAqEAACAQMDAgYBBQAAAAAAAAABAgMEBREABiESMQcTIkFRYTIUFSSB0f/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAE/8QAHBEAAgIDAQEAAAAAAAAAAAAAAgMAAQQRIRIi/9oADAMBAAIRAxEAPwCaUNo8yYeWgU9OfT1R++jtq2nfKumuNdHWQ0tuoQWlnrHHlqB9kZ+v7Gs3FJcKSvpBHUVtukhb0pD3kzz6vYjA4zxzpptW513Btuv29JV0dGlZKkzu+ElYo4YAZYIQSORwfjUk47Gj6GF+StV+SizTWrcBtUNzSgWpt8q9SzorICOfnt2OuX92aE4mhli4zn8h/urJuSiW9eHVFtG03u0W6OBo2LwymQz9OW6GVfwy+GPPcY0uWCxQWC708tZElyoooGhk/UQnDsVOeDn35B07cdixsirkRWUsy8jfZMvEhGS3TVbCUTiZIxI0uSAwGR399ID1FQFKpI5i54LadPEaXqsZCRSj+UpJLdQAGfs/Gp8JWKMFUng9tTSd0PLnU1db7UMQOVqIlieRiwyU8wqGPxkHsdP2z66d9s1CGUEw1LArLIWK8DgZPYamMDzCpikEUh6RngaP2GqeKjr1cOitN1LkYz30WFd1rcwK19an/9k=" />
+<RemoteImage alt={`Stadttauben`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_21447371659_0f24700ac2_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_21447371659_0f24700ac2_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAQT/xAAqEAACAQMDAgYBBQAAAAAAAAABAgMEBREABiESMQcTIkFRYTIUFSSB0f/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAE/8QAHBEAAgIDAQEAAAAAAAAAAAAAAgMAAQQRIRIi/9oADAMBAAIRAxEAPwCaUNo8yYeWgU9OfT1R++jtq2nfKumuNdHWQ0tuoQWlnrHHlqB9kZ+v7Gs3FJcKSvpBHUVtukhb0pD3kzz6vYjA4zxzpptW513Btuv29JV0dGlZKkzu+ElYo4YAZYIQSORwfjUk47Gj6GF+StV+SizTWrcBtUNzSgWpt8q9SzorICOfnt2OuX92aE4mhli4zn8h/urJuSiW9eHVFtG03u0W6OBo2LwymQz9OW6GVfwy+GPPcY0uWCxQWC708tZElyoooGhk/UQnDsVOeDn35B07cdixsirkRWUsy8jfZMvEhGS3TVbCUTiZIxI0uSAwGR399ID1FQFKpI5i54LadPEaXqsZCRSj+UpJLdQAGfs/Gp8JWKMFUng9tTSd0PLnU1db7UMQOVqIlieRiwyU8wqGPxkHsdP2z66d9s1CGUEw1LArLIWK8DgZPYamMDzCpikEUh6RngaP2GqeKjr1cOitN1LkYz30WFd1rcwK19an/9k="
+/>
 
 Unsere heutigen **Stadttauben** stammen von der Felsentaube ab. Die verwilderten
 Haustiere, die wir als Stadttauben kennen, suchen sich daher auch gerne
@@ -102,13 +98,11 @@ Minimum reduziert werden. Parallel zur Gründung wurde die Gemeinnützigkeit der
 Institution erreicht. Das ist besonders wichtig, zum Beispiel für den Umgang mit
 den Behörden sowie die Geltendmachung von Spenden.
 
-<RemoteImage
-  alt="Stadttauben"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26755742482_b080212427_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26755742482_b080212427_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGAwIH/8QAKhAAAgEDAgUDBAMAAAAAAAAAAQIDBAURACEGEhMxQRQiURUygZFCYXH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQC/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAEQMSEyEUMUH/2gAMAwEAAhEDEQA/AMbdSdO8U0s0AKrEykIeZhnsRuP1p+emo6y90MNS9R690kljYID1FTAZTjddiCCcjxnVTaOD7vK8UzwwwqF5SssgBA/GdK3rg+7WDi6y8T0ua+Ghp5YpUp0Y9NmYsGZc5ZN9/wCxvqHBiZ2pxQlGRgose5KU1iAWBGQ9ATsyFidz3GNz3+NT9zs8UZiIHKQzgBTk4I3Gx+fGvYqfiLhWuqaeertr0sJiMoLRyIjHP3qq+3Gcj5OCcds1VkqLHXWmKusUdGaaTPLJDGhOc4IJGd9vnWvFcHsw5VroRBFvUsiBLrBCh/ilGDj8ljrWusFfWIRVcR3IIPFOEiP7A0aNV7mJC/YtPQLbLRyfUr5NBEmBH67kGB49qjXENxqJkCRsscSr2I5mP+nbJ89tGjSd2OTUnqoxQKuf/9k=" />
+<RemoteImage alt={`Stadttauben`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26755742482_b080212427_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26755742482_b080212427_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGAwIH/8QAKhAAAgEDAgUDBAMAAAAAAAAAAQIDBAURACEGEhMxQRQiURUygZFCYXH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQC/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAEQMSEyEUMUH/2gAMAwEAAhEDEQA/AMbdSdO8U0s0AKrEykIeZhnsRuP1p+emo6y90MNS9R690kljYID1FTAZTjddiCCcjxnVTaOD7vK8UzwwwqF5SssgBA/GdK3rg+7WDi6y8T0ua+Ghp5YpUp0Y9NmYsGZc5ZN9/wCxvqHBiZ2pxQlGRgose5KU1iAWBGQ9ATsyFidz3GNz3+NT9zs8UZiIHKQzgBTk4I3Gx+fGvYqfiLhWuqaeertr0sJiMoLRyIjHP3qq+3Gcj5OCcds1VkqLHXWmKusUdGaaTPLJDGhOc4IJGd9vnWvFcHsw5VroRBFvUsiBLrBCh/ilGDj8ljrWusFfWIRVcR3IIPFOEiP7A0aNV7mJC/YtPQLbLRyfUr5NBEmBH67kGB49qjXENxqJkCRsscSr2I5mP+nbJ89tGjSd2OTUnqoxQKuf/9k="
+/>
 
 Der Verein hat ein Notruftelefon eingerichtet. Findet man in Hamburg eine
 verletzte oder eingesperrte Taube, kann man dort anrufen, die Helfer kümmern
@@ -186,13 +180,11 @@ außerdem auch jede Menge Wissenswertes über Tauben zu lesen. Auf der
 anderen Städten gibt es ähnliche Vereine, Infos findet Ihr bei Eurer
 Stadtverwaltung oder im Internet.
 
-<RemoteImage
-  alt="Stadttauben"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Hamburger-Stadttauben.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Hamburger-Stadttauben.png__l.jpg"
-  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAMCAIAAACMdijuAAAACXBIWXMAAAsTAAALEwEAmpwYAAACiklEQVQ4y2P4T2PAAMRvvnw7//jF9edvLj19/eDNh1sv391/8+H2y3dXnr4+9+gFkH35yevLT988+/j5/usPz95/Bmr5S5IFn779OH7v2en7z4/cfnL24fPd1x4ATQdas/Pa/WN3nx6//+zInacn7j298/LDxaevnn/EZ8FfMEC34Puv3y8/fXn49tP7r9/vv/54/fnbG8/fXnzy6v2371efvgG6+un7LzdevAVKffv5+8vPX7jM/ffvH3YfvPr0dfnp68fuPbv09NWmi3fWnb91/+3HxSevHbr9eM7RS3tuPNhz/eGRO0+uPnu9/cq99edvAbX8ATvzz58/aOa++/i5uXnStq1n3nz8C7YYbAFQGdCBa8/f2nDhzsGbjxYcvwJ0ONCmY/eeHrj9aMOF29su3zt2/+muaw+O33u678ZDkE5Ux3759HPPYZDFVy6ftTT3iE6vS69tQ/iAPPD9x4/FCzZ09ixpX7kutrhLTsaytWf2kyfP/XwL9YKTRDTkUCwA+uUvLOrgsfQXGrhQWYhfgeSjRw+6e+ZoKlvwKhhwq2tyWeoyC/KqKChX1VZ424el+3WumH+tKr/v//9/ZPqgprY5Na1RT8xEw9RWUlaMjQEEbt26uaJ1Zri+V5dP7eq8hbcvv50wdc75s+dIsAAYpUDy6eMHYdFpqVm1qsKKUvwSXOwsQNPZ2Vn37D+V6h9fEpueG5GRmFZ+8OLTs1funTx7lWQL7ty+ZWLpoKWlLyEqLCUqxsUO8gAjA0Nn90Rv78DIkKiwqFQ3r5D45OzeKdO27jlCggXwuFFVUWZjZhAXEuDn4eTl4mBmZODiYD1y5LCHl6+bi4uOtq6Cgry2toauvkZ1dTUABOSvTFyeQ8QAAAAASUVORK5CYII=" />
+<RemoteImage alt={`Stadttauben`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Hamburger-Stadttauben.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Hamburger-Stadttauben.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAMCAIAAACMdijuAAAACXBIWXMAAAsTAAALEwEAmpwYAAACiklEQVQ4y2P4T2PAAMRvvnw7//jF9edvLj19/eDNh1sv391/8+H2y3dXnr4+9+gFkH35yevLT988+/j5/usPz95/Bmr5S5IFn779OH7v2en7z4/cfnL24fPd1x4ATQdas/Pa/WN3nx6//+zInacn7j298/LDxaevnn/EZ8FfMEC34Puv3y8/fXn49tP7r9/vv/54/fnbG8/fXnzy6v2371efvgG6+un7LzdevAVKffv5+8vPX7jM/ffvH3YfvPr0dfnp68fuPbv09NWmi3fWnb91/+3HxSevHbr9eM7RS3tuPNhz/eGRO0+uPnu9/cq99edvAbX8ATvzz58/aOa++/i5uXnStq1n3nz8C7YYbAFQGdCBa8/f2nDhzsGbjxYcvwJ0ONCmY/eeHrj9aMOF29su3zt2/+muaw+O33u678ZDkE5Ux3759HPPYZDFVy6ftTT3iE6vS69tQ/iAPPD9x4/FCzZ09ixpX7kutrhLTsaytWf2kyfP/XwL9YKTRDTkUCwA+uUvLOrgsfQXGrhQWYhfgeSjRw+6e+ZoKlvwKhhwq2tyWeoyC/KqKChX1VZ424el+3WumH+tKr/v//9/ZPqgprY5Na1RT8xEw9RWUlaMjQEEbt26uaJ1Zri+V5dP7eq8hbcvv50wdc75s+dIsAAYpUDy6eMHYdFpqVm1qsKKUvwSXOwsQNPZ2Vn37D+V6h9fEpueG5GRmFZ+8OLTs1funTx7lWQL7ty+ZWLpoKWlLyEqLCUqxsUO8gAjA0Nn90Rv78DIkKiwqFQ3r5D45OzeKdO27jlCggXwuFFVUWZjZhAXEuDn4eTl4mBmZODiYD1y5LCHl6+bi4uOtq6Cgry2toauvkZ1dTUABOSvTFyeQ8QAAAAASUVORK5CYII="
+/>
 
 [](http://www.hamburgerstadttauben.de/)
 

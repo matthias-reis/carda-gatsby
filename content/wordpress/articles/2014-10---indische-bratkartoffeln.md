@@ -44,13 +44,18 @@ subTitle: Scharf und lecker
   
 ---
 
-Frisch aus der Küche, hergestellt aus ganz alltäglichen Zutaten wie Reis,
+**Ihr habt Lust auf Bratkartoffeln? Gleichzeitig wollt Ihr aber auch noch was
+richtig schön Scharfes essen? Ich habe genau das Richtige für Euch.**
+
+Frisch aus der Küche, hergestellt aus ganz alltäglichen Zutaten wie Reis,
 Kartoffeln, Curry und Spinat. Abgerundet wird mein Gericht mit frischen
 Chilischoten, meine wurden mir aus Sardinien mitgebracht, ihr könnt natürlich
 auch die aus dem eigenen Gemüsebeet oder die getrockneten aus dem Asialaden
 verwenden.
 
-## Indische Bratkartoffeln **Zutaten** (Rezept für 4 Portionen für 2 hungrige Personen)
+## Indische Bratkartoffeln
+
+**Zutaten** (Rezept für 4 Portionen für 2 hungrige Personen)
 
 - 250 g Basmati-Reis
 - 2 kleine oder 1 große Aubergine(n)
@@ -61,7 +66,9 @@ verwenden.
 - 1 Limette
 - Pfeffer
 - Meersalz
-- Kokosöl **Zubereitung**
+- Kokosöl
+
+**Zubereitung**
 
 Den Spinat aus dem Gefrierfach nehmen, damit er schon mal leicht antauen kann.
 
@@ -106,7 +113,7 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_1
 />
 
 Dem Reis auf diese Art noch ca. 10 Minuten "ziehen lassen". Zuvor kann dem Topf
-noch etwas Kokosöl hinzugefügt werden. Selbstverständlich kann auch ein
+noch etwas Kokosöl hinzugefügt werden. Selbstverständlich kann auch ein
 Reiskocher (falls vorhanden) verwendet werden, um die Zubereitung zu
 vereinfachen.
 

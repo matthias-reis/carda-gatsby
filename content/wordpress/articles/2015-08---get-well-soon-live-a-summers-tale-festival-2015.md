@@ -34,17 +34,16 @@ subTitle: Von Feen und Harmonie
   
 ---
 
-<RemoteImage
-  alt="Get Well Soon - The Setlist"
-  size="medium"
-  title="Get Well Soon - The Setlist"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_IMG_0342__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_IMG_0342__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABgcEBQj/xAAsEAACAQIEBQMDBQAAAAAAAAABAgMEEQAFEiEGByIxQRMycRRRYUKBkbLB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAMBBP/EABwRAQACAwADAAAAAAAAAAAAAAEAEQIDITFBkf/aAAwDAQACEQMRAD8AZHK7JPo+AMnR4NJipIWOrYMWUMSPx1YuqymEq3ZSiDYrFPYEWPja5+fxiTwPxHlGecPyx5LJOyUMUUMglhMRXoGnud9h98TmqIFa8sg0ajsJwp2Pe/q9vGI440Fzpy7krAfMOH6een9VHnkuSbSOCDt8f7jP3PfIDRLQ10adJleNzbtfdf6nGrZWoHaQQVAtYnQagP8AN+o+fOE7zwo6et4OzJEeIywqJ06x+hgSB+18KpuZV8htyNzulquWsNLHF6FbSx6ahkFjIzAlD07k6Rb74KaqqdJGLGRLtcBiyE2PYFpl7/GERyKzY0mWZ1C4UoanQmwPt1g99vIwxhnDBnZYVNjdSxpowd9x0ozWP84awxxA9Su5XYqee/ewvqMyRqXRHG6qjurkzI5WzHvZiSe2FlzEkSryyppnI0zxvHue11IxZVfEbLDVLItNGqVLFtDk+5VYW2HlsKrjLiETMVvci4sPBvgsis//2Q==" />
+<RemoteImage alt={`Get Well Soon - The Setlist`} size="medium"
+title={`Get Well Soon - The Setlist`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_IMG_0342__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_IMG_0342__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABgcEBQj/xAAsEAACAQIEBQMDBQAAAAAAAAABAgMEEQAFEiEGByIxQRMycRRRYUKBkbLB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAMBBP/EABwRAQACAwADAAAAAAAAAAAAAAEAEQIDITFBkf/aAAwDAQACEQMRAD8AZHK7JPo+AMnR4NJipIWOrYMWUMSPx1YuqymEq3ZSiDYrFPYEWPja5+fxiTwPxHlGecPyx5LJOyUMUUMglhMRXoGnud9h98TmqIFa8sg0ajsJwp2Pe/q9vGI440Fzpy7krAfMOH6een9VHnkuSbSOCDt8f7jP3PfIDRLQ10adJleNzbtfdf6nGrZWoHaQQVAtYnQagP8AN+o+fOE7zwo6et4OzJEeIywqJ06x+hgSB+18KpuZV8htyNzulquWsNLHF6FbSx6ahkFjIzAlD07k6Rb74KaqqdJGLGRLtcBiyE2PYFpl7/GERyKzY0mWZ1C4UoanQmwPt1g99vIwxhnDBnZYVNjdSxpowd9x0ozWP84awxxA9Su5XYqee/ewvqMyRqXRHG6qjurkzI5WzHvZiSe2FlzEkSryyppnI0zxvHue11IxZVfEbLDVLItNGqVLFtDk+5VYW2HlsKrjLiETMVvci4sPBvgsis//2Q=="
+/>
 
 **Get Well Soon - Normalerweise sind das Konstatin Gropper und seine Schwester
 Verena zusammen mit ihrer Band. Da sich Verena gerade in der Babypause befindet,
-brachte Konstantin seine nicht weniger begabte, wunderschöne Kollegin Alex Mayr
+brachte Konstantin seine nicht weniger begabte, wunderschöne Kollegin Alex Mayr
 mit, die Verena als Duettpartnerin und multiinstrumental begabte Unterstützung
 würdig vertrat.**
 
@@ -66,12 +65,14 @@ Weitere Berichte zum Festival von mir folgen...
 
 <Gallery name="flickr/annegetwellsoonasummerstale2015" />
 
-## A Summer's Tale 2015 Wegweiser1. [Get Well soon live @ A Summer's Tale Festival 2015](/2015/08/get-well-soon-live-a-summers-tale-festival-2015/)
+## A Summer's Tale 2015 Wegweiser
 
+1.  [Get Well soon live @ A Summer's Tale Festival 2015](/2015/08/get-well-soon-live-a-summers-tale-festival-2015/)
 1.  [Hundreds live @ A Summer's Tale Festival 2015](/2015/08/hundreds-live-a-summers-tale-festival-2015/)
 1.  [Calexico live @ A Summer's Tale Festival 2015](/2015/08/calexico-live-a-summers-tale-festival-2015/)
 1.  [Bildergalerie und Fazit A Summer's Tale Festival 2015](/2015/08/a-summers-tale-festival-2015/)
-    [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
 &nbsp;
 

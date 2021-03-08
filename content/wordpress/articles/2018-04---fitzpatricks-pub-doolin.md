@@ -12,14 +12,14 @@ excerpt: Mit Fitzpatrick's Pub Doolin fanden wir eine Kneipe, die wir am
   Feinsten.
 focusKeyword: Fitzpatrick's Pub Doolin
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
   - Doolin
+  - Fernweh
   - Fitzpatrick's
   - Fitzpatrick's Doolin
   - Fitzpatrick's Pub
   - Irland2017
   - Pub
-  - Reisen
   - vegan in Irland
   - vegan Reisen
   - vegan travelling
@@ -46,19 +46,18 @@ gegen Abend der Hunger. Und was soll man sagen? In dem kleinen Örtchen am Ende
 der Welt fanden wir ein Pub, das wir am liebsten mit nach Hause genommen
 hätten.**
 
-<RemoteImage
-  alt="Fitzpatrick's Pub Doolin"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26373194158_ab65204817_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26373194158_ab65204817_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKRAAAgEDAwIGAgMAAAAAAAAAAQIDBAURAAYSIUETFCIxMoFRkQcWYf/EABgBAAIDAAAAAAAAAAAAAAAAAAQFAAID/8QAJBEAAQIEBQUAAAAAAAAAAAAAAQACAwQRISKBkeHwEiMxYXH/2gAMAwEAAhEDEQA/AFrZEENXtaSoikklvIDNFP4I4tjCBDj09u/Y51Psett9JvGOsqZFipxJPl+DMAXhTHxB9yCNW1t30beKenlu1FC8qK6K0KZKkdD8en3qwvG6Lj5+mSouE7K8TMhiZUHuvUcQB30tfPs6BRpp8TGFKuD3VIv72TpuDeu3odvVnk6p5Z/KyCOGOjn9TlCAufDwMnRrPKzd9xWF0gvExiEEjuwqhyVlIAXA7nJ/WjUEy2IAaHmaqZcsJFtdlmtggulVbrdcbRS+YM0a09ViXDB4vQCQemCuOo6j9adGovDrrLSVKqeFJMhKfFWHBsD/AD3H1pK/ji+xWunqaSt58HkWaNkHIKSMEH8Zwp113vdZ/sdBW0iMopeacZV6OHHq5DsMaDisiuLodLXocraeEZCAFH84UXqnpKGOvMKzq0IkwrljhiSAxP4JIIHt19+h0ar94brN5jNLBBHFShhluWWYj6GBntjRoyXDgzuC6xiNxYV//9k=" />
+<RemoteImage alt={`Fitzpatrick's Pub Doolin`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26373194158_ab65204817_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26373194158_ab65204817_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKRAAAgEDAwIGAgMAAAAAAAAAAQIDBAURAAYSIUETFCIxMoFRkQcWYf/EABgBAAIDAAAAAAAAAAAAAAAAAAQFAAID/8QAJBEAAQIEBQUAAAAAAAAAAAAAAQACAwQRISKBkeHwEiMxYXH/2gAMAwEAAhEDEQA/AFrZEENXtaSoikklvIDNFP4I4tjCBDj09u/Y51Psett9JvGOsqZFipxJPl+DMAXhTHxB9yCNW1t30beKenlu1FC8qK6K0KZKkdD8en3qwvG6Lj5+mSouE7K8TMhiZUHuvUcQB30tfPs6BRpp8TGFKuD3VIv72TpuDeu3odvVnk6p5Z/KyCOGOjn9TlCAufDwMnRrPKzd9xWF0gvExiEEjuwqhyVlIAXA7nJ/WjUEy2IAaHmaqZcsJFtdlmtggulVbrdcbRS+YM0a09ViXDB4vQCQemCuOo6j9adGovDrrLSVKqeFJMhKfFWHBsD/AD3H1pK/ji+xWunqaSt58HkWaNkHIKSMEH8Zwp113vdZ/sdBW0iMopeacZV6OHHq5DsMaDisiuLodLXocraeEZCAFH84UXqnpKGOvMKzq0IkwrljhiSAxP4JIIHt19+h0ar94brN5jNLBBHFShhluWWYj6GBntjRoyXDgzuC6xiNxYV//9k="
+/>
 
 Ein paar Minuten Fußweg von unserem Campingplatz entfernt, entdeckten
 wir Fitzpatrick's Pub. Kaum dort, wurden wir sofort freundlich begrüßt. Zuerst
 mit dem Plan im Kopf "nur etwas Barfood wie Fries oder Chips und Salat" zu uns
 zu nehmen, wurden wir schnell eines Besseren belehrt: Die Karte enthielt nicht
-nur eine, sondern gleich mehrere [vegane Optionen](/category/vegan-2/rezepte/).
+nur eine, sondern gleich mehrere
+[vegane Optionen](/category/vegan/vegane-rezepte/).
 
 ## Fitzpatrick's Pub Doolin - Unbedingt besuchen
 

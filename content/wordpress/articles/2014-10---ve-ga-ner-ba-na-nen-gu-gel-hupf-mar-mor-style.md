@@ -36,6 +36,7 @@ labels:
   - Süßes
   - vegan
   - vegan backen
+  - vegane Rezepte
   - Vegane Rezepte
   - Veganer
   - veganer Kuchen
@@ -55,6 +56,10 @@ subTitle: Freestyle-Backen mit Anne
   
 ---
 
+**Am Freitag hatte ich ursprünglich vor, ein Bananenbrot zu backen. Die
+Grundzutaten waren im Haus und die liebe Sabine hatte auch sofort ein Rezept für
+mich zur Hand.**
+
 Doch dann kam mir der Gedanke, das Brot mit meinem Lieblingskuchen zu kreuzen,
 die Geburtsstunde meines Bananengugelhupf Marmorstyle.
 
@@ -63,8 +68,9 @@ Tage lang essen können, natürlich je nach Hunger und Magengröße. Falls ihr e
 größeren Gugelhupf backen wollt, verdoppelt einfach die Menge, er passt trotzdem
 noch in die Form, ich habe nur einen kleinen Teil davon genutzt.
 
-## Benötigt wird- Omas alte Emaille-Gugelhupfform
+## Benötigt wird
 
+- Omas alte Emaille-Gugelhupfform
 - Backofen
 - 1 stabile Gabel
 - Quirl
@@ -74,7 +80,11 @@ noch in die Form, ich habe nur einen kleinen Teil davon genutzt.
   Möbelhaus meines Vertrauens genommen, ihr könnt natürlich auch die teuren
   Porzellantassen aus dem Hochzeitsservice verwenden, wenn ihr wollt)
 - 1 kleines Obstmesser
-- 1 Esslöffel## Bananengugelhupf Marmorstyle - Zutaten- 1,5 Tassen Dinkelmehl
+- 1 Esslöffel
+
+## Bananengugelhupf Marmorstyle - Zutaten
+
+- 1,5 Tassen Dinkelmehl
 - 3 Bananen (am besten welche, die schön weich sind)
 - 3/4 Tasse Rohrohrzucker
 - 2 Esslöffel Distelöl
@@ -92,9 +102,10 @@ noch in die Form, ich habe nur einen kleinen Teil davon genutzt.
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-5__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-5__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-9-e1413821941612__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-9-e1413821941612__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-7__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-7__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-3__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_kokosc3b6l-1-e1413821922748__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_kokosc3b6l-1-e1413821922748__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-8__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-8__l.jpg"}]}
 />
 
-## Zubereitung1. Cookiehose anziehen
+## Zubereitung
 
-1.  Ofen auf 180 Grad einstellen
+1.  Cookiehose anziehen
+1.  Ofen auf 180 Grad einstellen
 1.  Die Bananen schälen und mit der Gabel in der großen Schüssel zerdrücken. Mir
     hat dieser Schritt besonders viel Spaß gemacht, ich habe seit ich dem
     Babysitteralter entwachsen bin, keine Bananen mehr mit der Gabel zerdrückt.
@@ -136,16 +147,14 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_1
 
 &nbsp;
 
-Zum Bananengugelhupf passt übrigens auch hervorragend Kakao oder heißes
+Zum Bananengugelhupf passt übrigens auch hervorragend Kakao oder heißes
 Ingwerwasser.
 
-<RemoteImage
-  alt="Veganer Bananengugelhupf-7"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_veganer-bananengugelhupf-7__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_veganer-bananengugelhupf-7__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBQIEB//EACkQAAIBAwMEAQMFAAAAAAAAAAECAwQFEQASMQYTIUFRFCJhMnGBwdH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQYH/8QAIhEAAgIBBAEFAAAAAAAAAAAAAQIAAxESITHwBBNBUXGx/9oADAMBAAIRAxEAPwA6Y6caqIKq24LuKoMkD86u/poYlw8GVBwHx5z8EcjWHSt1giDQpTx1NQ+PuWdogFPAxxgePOfemGshd62EzBoIyO4NzhtuCAD4JPPH7HXP7FJfQ3Pe7zXCzG44nIb5fTHWT2y0W+mvVXBUNBJM85WOHg7WAwWIJKlgwGV96rrrQV9NTiW9WqOggYhfrKCczxRMeO4hZiB+QQfgHjW90Va6ahd7dd6cCtpKgvICxBMoY/dkHyCMH4II+dOl5npnh2OAyygxuvO9WGCuPf8Aurpsqof0lTPyfc9+sQAR7V1lsfkWaBnEm4sHVht2OoZcH+9O9FVsr96Leh3IuS2W9gHPrGPAAwNGjUwkuQWjSoXiVNkehvrCG9W6OoKHME8UjQzQoxJ7Ydf1KPQYHGfGBqXNHbOpaCkt9HgyzdozVEpncAg8Z8D+AD+dGjT/ABXLDDQ1yhTtP//Z" />
+<RemoteImage alt={`Veganer Bananengugelhupf-7`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_veganer-bananengugelhupf-7__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_veganer-bananengugelhupf-7__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBQIEB//EACkQAAIBAwMEAQMFAAAAAAAAAAECAwQFEQASMQYTIUFRFCJhMnGBwdH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQYH/8QAIhEAAgIBBAEFAAAAAAAAAAAAAQIAAxESITHwBBNBUXGx/9oADAMBAAIRAxEAPwA6Y6caqIKq24LuKoMkD86u/poYlw8GVBwHx5z8EcjWHSt1giDQpTx1NQ+PuWdogFPAxxgePOfemGshd62EzBoIyO4NzhtuCAD4JPPH7HXP7FJfQ3Pe7zXCzG44nIb5fTHWT2y0W+mvVXBUNBJM85WOHg7WAwWIJKlgwGV96rrrQV9NTiW9WqOggYhfrKCczxRMeO4hZiB+QQfgHjW90Va6ahd7dd6cCtpKgvICxBMoY/dkHyCMH4II+dOl5npnh2OAyygxuvO9WGCuPf8Aurpsqof0lTPyfc9+sQAR7V1lsfkWaBnEm4sHVht2OoZcH+9O9FVsr96Leh3IuS2W9gHPrGPAAwNGjUwkuQWjSoXiVNkehvrCG9W6OoKHME8UjQzQoxJ7Ydf1KPQYHGfGBqXNHbOpaCkt9HgyzdozVEpncAg8Z8D+AD+dGjT/ABXLDDQ1yhTtP//Z"
+/>
 
 Lasst es Euch schmecken!
 

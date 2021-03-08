@@ -16,13 +16,13 @@ labels:
   - Fluss
   - Freundschaft
   - für immer
+  - Geschichten & Erlebtes
   - Kiesbagger
   - Lama
   - Liebe
   - Liebes Tagebuch
   - Liedermacher
   - Limonade
-  - Lyrik
   - Lyrik
   - Musik
   - Musiker

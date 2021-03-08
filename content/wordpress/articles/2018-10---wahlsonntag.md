@@ -10,15 +10,15 @@ excerpt: Gedicht - Grenzen sind dazu da, sie zu überwinden. Sie abzureißen und
   durch Verbindungswege zu ersetzen. Das haben die Menschen klar entschieden.
 focusKeyword: ""
 labels:
+  - Antifaschismus & Feminismus
   - fckafd
   - gegen Nazis
+  - Geschichten & Erlebtes
   - Landtagswahl
   - Landtagswahl Bayern
   - ltwby
-  - Lyrik
   - noborders
   - Politik
-  - Politik & Soziales
   - Wahl
   - Wahl in Bayern
   - Wahlsonntag
@@ -37,6 +37,8 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Statements und Prognosen
   
 ---
+
+<blockquote>
 
 Mathematik, Koalition. Revolution. Nein, doch nicht.
 
@@ -63,6 +65,8 @@ Wir sind mehr. Wir machen weiter. Wir sagen unsere Meinung.
 Sonntagabend. Die Sonne geht unter.
 
 Das Kraut simmert im Topf. Der Kaffee ist kalt geworden.
+
+</blockquote>
 
 Das Foto habe ich am 29. September 2018 auf der United Against Racism Demo in
 Hamburg aufgenommen. Es ist bereits auf meinem Instagram-Kanal erschienen.

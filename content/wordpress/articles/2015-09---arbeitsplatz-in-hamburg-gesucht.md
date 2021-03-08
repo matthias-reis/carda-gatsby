@@ -7,17 +7,18 @@ fileName: 2015-09---arbeitsplatz-in-hamburg-gesucht.md
 description: Heute wende ich mich in eigener Sache an Euch. Ich bin auf der
   Suche nach einem Arbeitsplatz als Content Managerin/Texterin/Redakteurin in
   Hamburg.
-excerpt: "\n               \ \n            "
+excerpt: Heute wende ich mich in eigener Sache an Euch. Ich bin auf der Suche
+  nach einem Arbeitsplatz als Content Managerin/Texterin/Redakteurin in Hamburg.
 focusKeyword: Arbeitsplatz
 labels:
   - Content Managerin
   - Content Managerin Hamburg
+  - Geschichten & Erlebtes
   - Job gesucht
   - Job in Hamburg
   - Jobsuche
   - Online Redakteurin
   - Online Redakteurin Hamburg
-  - Tagebuch
   - Texterin
   - Texterin Hamburg
 type: Artikel
@@ -35,13 +36,11 @@ subTitle: Content Managerin / Online Redakteurin / Texterin - ab sofort
   
 ---
 
-<RemoteImage
-  alt="Arbeit gesucht"
-  size="medium"
-  title="Arbeit gesucht"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Bewerbung-3-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Bewerbung-3-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcDBQIEBv/EACkQAAIBAwIFAwUBAAAAAAAAAAECAwQFEQAGBxITITEiUWEUI0FxgcH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AUdptlXuHcIhRE67sIjHI/YSY9Xf2znHxjTPl4O0lFRc9fNJPUY5mwAFHwPzjWe2eH9PRb0t9ZFcS0tO4kFNMwBmjVMFh4JYHGdMK9UtdV3+3yTTwx2sSKrJ6uox98+P0MfJzoFTT2W32e0JDRgpLFcknmV5M9iMBgD4GMD+aiuttNdLYa+KWBY4ounO0jY9SMSox5Oc+3gaaHD+3RWziZU0zKaxatZuqXw68mVKkDxgA41TbyeOouVZSL9MrxMssccUaxkIDhjgDuBzDJ0E9JeafbVykvdbTNWmb7XqI54YVOG6ZwOUliDy9wQPOt/fu/rJYhbqivt9bNFVMRE0JVXTKk9wTjx7HRo0FVwFvVJuXfNxrrXDNT0VJSTKkcxBdmZlyxIP+nXIcRJ1ivrNMZH6lLNE6jtzBxjz+8H+aNGg//9k=" />
+<RemoteImage alt={`Arbeit gesucht`} size="medium" title={`Arbeit gesucht`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Bewerbung-3-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Bewerbung-3-2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcDBQIEBv/EACkQAAIBAwIFAwUBAAAAAAAAAAECAwQFEQAGBxITITEiUWEUI0FxgcH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AUdptlXuHcIhRE67sIjHI/YSY9Xf2znHxjTPl4O0lFRc9fNJPUY5mwAFHwPzjWe2eH9PRb0t9ZFcS0tO4kFNMwBmjVMFh4JYHGdMK9UtdV3+3yTTwx2sSKrJ6uox98+P0MfJzoFTT2W32e0JDRgpLFcknmV5M9iMBgD4GMD+aiuttNdLYa+KWBY4ounO0jY9SMSox5Oc+3gaaHD+3RWziZU0zKaxatZuqXw68mVKkDxgA41TbyeOouVZSL9MrxMssccUaxkIDhjgDuBzDJ0E9JeafbVykvdbTNWmb7XqI54YVOG6ZwOUliDy9wQPOt/fu/rJYhbqivt9bNFVMRE0JVXTKk9wTjx7HRo0FVwFvVJuXfNxrrXDNT0VJSTKkcxBdmZlyxIP+nXIcRJ1ivrNMZH6lLNE6jtzBxjz+8H+aNGg//9k="
+/>
 
 **Heute wende ich mich mal in eigener Sache an Euch. Bereits seit längerer Zeit
 bin ich auf der Suche nach einem Job. Genauer gesagt: Einer Festanstellung als
@@ -55,7 +54,7 @@ werden. Doch genau das ist mir jetzt passiert und ich muss mich unbedingt aus
 dieser Lage befreien.
 
 Als letztes hatte ich eine Stelle als Online-Marketingmanagerin in einem großen
-Fachverlag und habe in der Zeit dort auch etliche Erfahrungen in diesem Bereich
+Fachverlag und habe in der Zeit dort auch etliche Erfahrungen in diesem Bereich
 gesammelt. Besonders der redaktionelle Aspekt meiner Aufgabe hat mir immer sehr
 große Freude bereitet und in mir hat sich der Wunsch gefestigt, dass ich das auf
 jeden Fall beruflich machen möchte.
@@ -92,13 +91,11 @@ beruflich der Lebensmittelpunkt sein muss. Das Schreiben.
 
 ## Mir war es immer wichtig, einen Arbeitsplatz zu haben
 
-<RemoteImage
-  alt="Bewerbungen"
-  size="medium"
-  title="Bewerbungen"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Bewerbung-2-3__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Bewerbung-2-3__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAFCP/EACgQAAIBAwMCBgMBAAAAAAAAAAECAwQFEQAGEiFBBxQxcYGhIlFhMv/EABcBAQEBAQAAAAAAAAAAAAAAAAMFAQL/xAAZEQACAwEAAAAAAAAAAAAAAAABAgAREgP/2gAMAwEAAhEDEQA/ABza1jlulZTUVLFzqJ5BGiFguSe2T0Glq3eFNis2Knet+o6bv5SGdVJ/hY/kfZR86NtvVQiVXTllCrgo3Ehhgjr8DTXUUwijpa3b8Fpt1JW0yzrUyRq0ysRlss2SSCe2oCPpyGlx1ZVGKmPeILZcrJU2jam1JDbJBxeqNMyBuvQqzY/LuCzH27aDtz7cqbDd5KGrXi6jAbHR1xlWH8I+8jXS92ooaystlzLvLV0gBhYTsscnLBYkYJx6/on0PTRZ46qxnoKoyMIgrQiJyMoQeQYD1wQfrTK1GhCwatjcMbTVSJ0B76U7Vv57Rsm2ie2xVr080sMTSSYCgtn0wf3j41ata6jc6UnMwNy+Id/rppo1qfKQKeIjpRwz7t/r70d3KqklqXaQlmfOWYkk+5PU6tWm5KNQ+hNT/9k=" />
+<RemoteImage alt={`Bewerbungen`} size="medium" title={`Bewerbungen`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Bewerbung-2-3__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Bewerbung-2-3__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAFCP/EACgQAAIBAwMCBgMBAAAAAAAAAAECAwQFEQAGEiFBBxQxcYGhIlFhMv/EABcBAQEBAQAAAAAAAAAAAAAAAAMFAQL/xAAZEQACAwEAAAAAAAAAAAAAAAABAgAREgP/2gAMAwEAAhEDEQA/ABza1jlulZTUVLFzqJ5BGiFguSe2T0Glq3eFNis2Knet+o6bv5SGdVJ/hY/kfZR86NtvVQiVXTllCrgo3Ehhgjr8DTXUUwijpa3b8Fpt1JW0yzrUyRq0ysRlss2SSCe2oCPpyGlx1ZVGKmPeILZcrJU2jam1JDbJBxeqNMyBuvQqzY/LuCzH27aDtz7cqbDd5KGrXi6jAbHR1xlWH8I+8jXS92ooaystlzLvLV0gBhYTsscnLBYkYJx6/on0PTRZ46qxnoKoyMIgrQiJyMoQeQYD1wQfrTK1GhCwatjcMbTVSJ0B76U7Vv57Rsm2ie2xVr080sMTSSYCgtn0wf3j41ata6jc6UnMwNy+Id/rppo1qfKQKeIjpRwz7t/r70d3KqklqXaQlmfOWYkk+5PU6tWm5KNQ+hNT/9k="
+/>
 
 Einige von Euch kennen meine Texte, manche lesen sie (ich wage es, mich so weit
 aus dem Fenster zu lehnen und das einfach mal zu behaupten) sogar gerne und ich

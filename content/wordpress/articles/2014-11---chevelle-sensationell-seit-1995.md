@@ -4,8 +4,8 @@ seoTitle: Chevelle - Sensationell seit 1995 - Neues Album und Konzert
 slug: chevelle-sensationell-seit-1995
 path: /2014/11/chevelle-sensationell-seit-1995/
 fileName: 2014-11---chevelle-sensationell-seit-1995.md
-description: Chevelle brachten mit "La Gargola" im April ihre elfte Platte auf
-  den Markt. Elf musikalische Werke, eines besser als das andere. Ich habe sie
+description: Chevelle brachten mit "La Gargola" im April ihre elfte Platte auf
+  den Markt. Elf musikalische Werke, eines besser als das andere. Ich habe sie
   live gehört.
 excerpt: Mit "La Gargola" brachten Chevelle im April ihre elfte Platte auf den
   Markt. Elf musikalische Werke, eines besser als das andere.
@@ -45,12 +45,13 @@ subTitle: Chevelle live @ Backstage Halle München
 ---
 
 <RemoteImage
-  alt="Chevelle endlich live in Europa - Fantrophäe und Eintrittskarte"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Chevelle endlich live in Europa - Fantrophäe und Eintrittskarte"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_unbenannt-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_unbenannt-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QALBAAAgEDAwIFAgcAAAAAAAAAAQIDBAURABIhBjETFCJBUQcyFUJDYXGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAIEAP/EACIRAQACAgAFBQAAAAAAAAAAAAEAEQIDBBIxcfATIUFh0f/aAAwDAQACEQMRAD8Aj/TyOSauvVVVIk9P56OWBGqMqkXrygXPpBwvtnjjV1uyUVXTALT0pBwFD7n8IfHBGdYt0z1DfbYKyKg6fNRDNU71nlLQ4GTgbuAfuPv8a0KOu6mqqfF+Ww0NOy5Yy73I/ssgJ7fmOptOWOOoNle3hKeIvLZzazr+F9a+Yo6qt9KtnrPweGZa0Iqo4ZiQwdcsAPfAPY6ofVVfcDSW6nrJk8aMBXwdxc7HBJOflPfnJOr9c7109b6OWKqrvPSSRtEzUsRXaOzbWBGMZ77jrIuorlQT1VLSWagFDSQgKULb2J9RBJ7j7mzyc63rY7MUCNMsAFvz7jZOory90lpFuMkSBxHmJFjJU+nkqAxPPueddo287TRVcpffUyRKcuWw0k7xE85yB4asB7cjnOdGjU6FD2iVuu8g3eIrUUku9yPDmnKkn9N5ABkc87CcnPLE6TGjEksEisF2KDjbnsB+/wAD/Sf40aNO0IQtn//Z" />
+alt={`Chevelle endlich live in Europa - Fantrophäe und Eintrittskarte`}
+size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Chevelle endlich live in Europa - Fantrophäe und Eintrittskarte`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_unbenannt-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_unbenannt-2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QALBAAAgEDAwIFAgcAAAAAAAAAAQIDBAURABIhBjETFCJBUQcyFUJDYXGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAIEAP/EACIRAQACAgAFBQAAAAAAAAAAAAEAEQIDBBIxcfATIUFh0f/aAAwDAQACEQMRAD8Aj/TyOSauvVVVIk9P56OWBGqMqkXrygXPpBwvtnjjV1uyUVXTALT0pBwFD7n8IfHBGdYt0z1DfbYKyKg6fNRDNU71nlLQ4GTgbuAfuPv8a0KOu6mqqfF+Ww0NOy5Yy73I/ssgJ7fmOptOWOOoNle3hKeIvLZzazr+F9a+Yo6qt9KtnrPweGZa0Iqo4ZiQwdcsAPfAPY6ofVVfcDSW6nrJk8aMBXwdxc7HBJOflPfnJOr9c7109b6OWKqrvPSSRtEzUsRXaOzbWBGMZ77jrIuorlQT1VLSWagFDSQgKULb2J9RBJ7j7mzyc63rY7MUCNMsAFvz7jZOory90lpFuMkSBxHmJFjJU+nkqAxPPueddo287TRVcpffUyRKcuWw0k7xE85yB4asB7cjnOdGjU6FD2iVuu8g3eIrUUku9yPDmnKkn9N5ABkc87CcnPLE6TGjEksEisF2KDjbnsB+/wAD/Sf40aNO0IQtn//Z"
+/>
 
 **Chevelle - Das sind Pete (Gesang und Gitarre) und Sam (Drums) Loeffler und
 Dean Bernadini (Bass).**
@@ -69,13 +70,12 @@ schon. Am Montag, den 3. November war es endlich soweit und wir durften sie live
 sehen. Endlich eine Europatournee (zusätzlich zu den Festivalauftritten dieses
 Jahr) und dann auch noch ein Zwischenhalt in München, wie wunderbar!
 
-<RemoteImage
-  alt="Das Konzert war sensationell"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Das Konzert war sensationell"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_img_2546__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_img_2546__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBggD/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURACExBgcSFCJBYROBUXGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EAB4RAAEEAgMBAAAAAAAAAAAAAAEAAgMRBCESMUFh/9oADAMBAAIRAxEAPwC19ddMxUlgtrpQ0NBW0yPLU+nCsVjfPtyw8Sw292MA8ah0r0pZOpu3tunuy22nrSZVW4qUUSEOwAlAxvgDj9c67d3eqpbR6yopYYZmd1pUEy+UYypySvDbA7HWdI6aeaGorEgeaOnU7+Ht8zwBgY2BzjRxs1pGTYr1NW09oa+9QVdY8EdLQMvnRiSM+UyfB+CPLncDAxo00uy3Xp6h7eRLXv8Akuttb0c5flsDMbn7K8/anRpjpj40JYH1U7vFTJXdL0cSxuUa5RyzvHysaqxY5+Nth940gqu73GlV6G3VT08CkySKpBH5G3PP8DA/WmV1j1kYrJVwSNE8coOQR5bDcLjOwJ5I340p75XRGeSGmhWKOJ2RVVixdtizEnfc/HwABq7KxhA2rWMks67WouiktVJ24t81loYKI1dMk04j3LzePixZiSScg/1o1Wo7sLZYbbbkCKIKeONwvAbxHl/udGp4Z2BgSpIX8zS//9k=" />
+<RemoteImage alt={`Das Konzert war sensationell`} size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Das Konzert war sensationell`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_img_2546__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_img_2546__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBggD/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURACExBgcSFCJBYROBUXGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EAB4RAAEEAgMBAAAAAAAAAAAAAAEAAgMRBCESMUFh/9oADAMBAAIRAxEAPwC19ddMxUlgtrpQ0NBW0yPLU+nCsVjfPtyw8Sw292MA8ah0r0pZOpu3tunuy22nrSZVW4qUUSEOwAlAxvgDj9c67d3eqpbR6yopYYZmd1pUEy+UYypySvDbA7HWdI6aeaGorEgeaOnU7+Ht8zwBgY2BzjRxs1pGTYr1NW09oa+9QVdY8EdLQMvnRiSM+UyfB+CPLncDAxo00uy3Xp6h7eRLXv8Akuttb0c5flsDMbn7K8/anRpjpj40JYH1U7vFTJXdL0cSxuUa5RyzvHysaqxY5+Nth940gqu73GlV6G3VT08CkySKpBH5G3PP8DA/WmV1j1kYrJVwSNE8coOQR5bDcLjOwJ5I340p75XRGeSGmhWKOJ2RVVixdtizEnfc/HwABq7KxhA2rWMks67WouiktVJ24t81loYKI1dMk04j3LzePixZiSScg/1o1Wo7sLZYbbbkCKIKeONwvAbxHl/udGp4Z2BgSpIX8zS//9k="
+/>
 
 Das Konzert war sensationell, wir standen in der ersten Reihe und erlebten alles
 hautnah. Das Publikum tobte, alle feierten ausgelassen, endlich "ihre" Chevelle
@@ -88,7 +88,14 @@ Ein schöner Abend alles in allem und eine tolle "neue" Band habe ich auch gleic
 noch kennengelernt: Black Map aus der Bay Area traten als Vorband auf, wer ihre
 Musik noch nicht kennt, sollte definitiv mal reinhören.
 
-## Das Konzert war sensationell<small>Sicher ist Euch aufgefallen, dass ich über die letzten Konzerte nicht berichtet habe und auch dieser Artikel hier sehr verspätet kommt. Das hat zum Teil mit dem anstehenden Relaunch meines Blogs, meiner neuen Aufgabe als freier Redakteurin bei [Vegan News](http://www.vegan-news.de) und meiner (leider immer noch, ja! Wer also etwas weiß, oder einen Tipp hat, gerne melden) Stellensuche zu tun.</small>
+## Das Konzert war sensationell
+
+<small>Sicher ist Euch aufgefallen, dass ich über die letzten Konzerte nicht
+berichtet habe und auch dieser Artikel hier sehr verspätet kommt. Das hat zum
+Teil mit dem anstehenden Relaunch meines Blogs, meiner neuen Aufgabe als freier
+Redakteurin bei [Vegan News](http://www.vegan-news.de) und meiner (leider immer
+noch, ja! Wer also etwas weiß, oder einen Tipp hat, gerne melden) Stellensuche
+zu tun.</small>
 
 Zum Teil aber auch damit, dass ich es ein Bisschen leid geworden bin, ständig
 meine Textpassagen ohne angegebene Zitate und Fotos ohne Anfrage oder Verlinkung
@@ -97,7 +104,7 @@ man so schön: Drüber stehen und weitermachen.
 
 Hier noch mal die Bitte: Ich werde gerne zitiert und verleihe auch immer wieder
 meine Bilder, aber fragt doch einfach vorher nach! Ihr freut Euch doch bestimmt
-auch über eine Verlinkung. Auf Wunsch schreibe ich übrigens auch gerne mal
+auch über eine Verlinkung. Auf Wunsch schreibe ich übrigens auch gerne mal
 Gastartikel.
 
 So ganz sein lassen kann ich das Schreiben aber trotzdem nicht, es gehört
@@ -107,9 +114,7 @@ Seid gespannt, ihr wisst ja, nach dem Gig ist vor dem Gig. :-P
 
 Bis bald Anne &lt;3
 
-_Hier sind für Euch Chevelle mit "The Clincher", im Anschluss an das Video seht
-Ihr noch ein paar Eindrücke vom Konzert, eine größere Auswahl an Bildern findet
-Ihr wie immer in meinem [Flickr.](https://www.flickr.com/photos/99929697@N07/) _
+## Hier sind für Euch Chevelle mit "The Clincher"
 
 [youtube https://www.youtube.com/watch?v=OP3Yhs8q7oM]
 

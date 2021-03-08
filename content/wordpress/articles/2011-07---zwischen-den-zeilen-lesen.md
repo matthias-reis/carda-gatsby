@@ -20,10 +20,10 @@ labels:
   - Entscheidung
   - Fabrik
   - Freiheit
+  - Geschichten & Erlebtes
   - Glück
   - grün
   - Liebe
-  - Lyrik
   - Lyrik
   - Märchen
   - Phantasie
@@ -58,7 +58,7 @@ Bus sitzen, würdest du das alles aufschreiben. Auf Quittungen, einem Flugblatt,
 oder in einem Buch, ganz am Rand, auf den freien Flächen neben dem Text.
 Freiflächen.
 
-Doch du sitzt im Auto, hinter dem Steuer. Und so bleibt dir nur, weiter darüber
+Doch du  sitzt im Auto, hinter dem Steuer. Und so bleibt dir nur, weiter darüber
 nachzudenken. Gedankenfetzen aneinanderzureihen. Versuchen, nicht zu sehr zu
 versinken. Zwischen den Zeilen lesen.
 

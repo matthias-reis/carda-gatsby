@@ -31,6 +31,22 @@ subTitle: Kreisstadt in der Hallertau
   
 ---
 
+**Über die Gründung der Stadt Pfaffenhofen an der Ilm gibt es unterschiedliche
+Theorien. Klar ist nur, daß sie sehr weit zurückliegt. Einige Heimatforscher
+gehen davon aus, daß Mönche des Benediktinerklosters Ilmmünster im 8.
+Jahrhundert die "Pfaffenhöfe" bei Altenstadt errichtet haben.**
+
+<RemoteImage alt={`Pfaffenhofen an der Ilm`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_12992054295_9a39c9302b_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_12992054295_9a39c9302b_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAJxAAAgIBAwMDBQEAAAAAAAAAAQIDBBEABRITITEGIkEUFVFhgXH/xAAWAQEBAQAAAAAAAAAAAAAAAAAGAQX/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADBBESMaEh/9oADAMBAAIRAxEAPwDkFSmxbDDv476fWNtrCkvRIaVSOeQQf5+RprNWjsTV1gigEnTSMrWi4hj48ZOW+P3qe1tv0hswWFmSzBMIJE6JKBj8cx2zntjS9mrrChzrfyFALHLFRsCYSxW4SEd9GtPLsd20S9SnYmQHiWjjLAHscZ/o0ajIoPci2NrqMdv2ff46c0s061I69mKrL1LGGjllKcFKRDIPvX57Z089Pbd9ouWKW82LUzVJ5Pqa1cxnqRBpGfiGHMnCsQc57jGojfFjbL6GaSw8vqeKUhI3fnAjRr1OwPtUDI8j2jzq01ytb9Tbvba0kSS2WlEzMiAEK/BuDNkjJi+D2z+9C2yLHbkzEkRctNajioGpvd79GUN9ipT7Xvcy7X0+VVFVGUIwByCMZz5ycnRpB6fumjtqxy/bachdi0PWJUZOcoAMBTkkf7o1tV5l3AabwTLsxKSx2vpn/9k="
+/>
+
+\_\_\_\_ Vier Jahrhunderte später erst, soll Ludwig der Kelheimer am
+Zusammenfluss von Ilm und Gerolsbach etwas weiter südlich den Markt Pfaffenhofen
+gegründet haben Pfaffenhofen wurde das 1140 das erste Mal urkundlich erwähnt.
+Seit 1318 gilt Pfaffenhofen als Stadt, davor war es eine Marktgemeinde.
+
 Pfaffenhofen wurde 1388 im Städtekrieg fast auf die Grundmauern niedergebrannt.
 Nachdem der Wiederaufbau der Stadt 1438 abgeschlossen war, wurde Pfaffenhofen
 das erste Mal offiziell als Stadt beurkundet.

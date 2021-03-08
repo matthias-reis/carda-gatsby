@@ -22,6 +22,7 @@ labels:
   - Smoothie Rezept
   - Smoothie zubereiten
   - vegan
+  - vegane Rezepte
   - Vegane Rezepte
   - Veganer
   - veganrunners
@@ -41,22 +42,34 @@ subTitle: Sommerlicher Smoothie
   
 ---
 
+**Gestern habe ich von meinem Vorhaben, wieder laufen zu gehen
+[berichtet](//2014/08/31/sonnenaufgang-im-paradies/). Nachdem gestern alles gut
+funktioniert hat und ich die drei Kilometer gut überstanden habe, habe ich es
+heute gleich noch mal versucht.**
+
 Nach fast vier Kilometern durch den Park und durch die Gassen der Altstadt
-musste ich mich im Anschluss mit etwas ganz Besonderem belohnen.
+musste ich mich im Anschluss mit etwas ganz Besonderem belohnen.
 
 Kaum zu Hause angekommen und der Dusche entstiegen, brach auch schon der Hunger
 aus. Höchste Zeit für einen leckeren Smoothie aus meinen Lieblingsfrüchten.
 
-## Smoothie - Heidelbeerliebe<small>(Rezept für 500 ml Smoothie)</small> **Zutaten** - 2 Tassen gefrorene Heidelbeeren
+## Smoothie - Heidelbeerliebe
 
+<small>(Rezept für 500 ml Smoothie)</small>
+
+**Zutaten**
+
+- 2 Tassen gefrorene Heidelbeeren
 - 1 Pfirsich
 - 1 Apfel
 - 1 Banane
-- 350 ml Reisdrink **Zubereitung**
+- 350 ml Reisdrink
+
+**Zubereitung**
 
 Pfirsich, Apfel und Banane schälen, in kleine Stückchen schneiden und zusammen
 mit den Heidelbeeren in einen Mixbecher geben. Den Reisdrink dazu geben und
-alles vorsichtig mit dem Stabmixer pürieren, bis alles schön fein und schaumig
+alles vorsichtig mit dem Stabmixer pürieren, bis alles schön fein und schaumig
 ist.
 
 Strohhalm dazu und genießen. &lt;3
@@ -65,8 +78,9 @@ Strohhalm dazu und genießen. &lt;3
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-3-e1582806044482__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-3-e1582806044482__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-4__l.jpg"}]}
 />
 
-## Wegweiser Smoothies1. Heidelbeerliebe
+## Wegweiser Smoothies
 
+1.  Heidelbeerliebe
 1.  [Sonnenaufgang im Paradies](/2014/08/sonnenaufgang-im-paradies/)
 1.  [Hanf Banane Himbeer Reigen](/2017/04/hanf-banane-himbeer-smoothie/)
 

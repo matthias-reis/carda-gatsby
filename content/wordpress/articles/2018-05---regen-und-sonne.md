@@ -17,13 +17,13 @@ labels:
   - Dystopie
   - Energie
   - Feinstaub
+  - Geschichten & Erlebtes
   - Gesellschaft
   - Klima
   - Klima & Umweltschutz
   - Klimaerwärmung
   - Klimawandel
   - Konsum
-  - Lyrik
   - Politiker
   - Umweltverschmutzung
   - Zukunft

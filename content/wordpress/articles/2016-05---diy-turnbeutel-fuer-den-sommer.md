@@ -12,7 +12,7 @@ excerpt: Heute zeige ich Euch, wie mein neuer Turnbeutel aus einem weggeworfenen
 focusKeyword: Turnbeutel
 labels:
   - diy
-  - DIY
+  - Fair Fashion & Beauty
   - Handarbeit
   - nähen
   - Rucksack
@@ -33,13 +33,11 @@ subTitle: Aus alt mach neu
   
 ---
 
-<RemoteImage
-  alt="Turnbeutel"
-  size="medium"
-  title="Mein neuer Turnbeutel"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26332007734_abb994932c_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26332007734_abb994932c_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCBAgH/8QALxAAAgECBQIEAwkAAAAAAAAAAQIDBBEABSExQQYSBxMUYRUjYjJCUVJxgZHB8P/EABgBAAIDAAAAAAAAAAAAAAAAAAIDBAUG/8QAIREAAQQCAAcAAAAAAAAAAAAAAQACAwQREgUTMUFxkbH/2gAMAwEAAhEDEQA/ADDZlFRUvnzEkKCe0bm3GE3M8zfOeoY/iJAK1jUwMa2OsZEY0+pQtzpried5lFDXRI6vJHCO4hdu6+gP8YBU6vJmr1ESmWPzFlB2DNe/PIOK4laWjXaGbHqfibfDrqirpquheaqm9OpEFVDI5Jhcm2oPG3+vjRSqHiV15F8ZZrE8/MmraWleOocdsy9ylZRtrrofwONBeGueJm2QQU8rMuYUsYSeJ/taGwb3BtuOdMNid2UPidXTEg8LgwyKGeiilq5Kj1VQDMwjksB+UAW4Gn63wZyrpiFYmL1lbyCgcAg/suCdJlrzzwNG10VAnax59v7wc+GTIhmeSMA3GhsTgeWSjittjaBslyLpmET0vklmjV71HnyuxZLbKFIAN7anDp0nBTUOYIlDHHTOAZIyg0B+8p+lhoR7A7gYpw0cnefmINe3e+LlDS+kqTUSThyi2UBbasyjfBCMg5wlWbTJWFu2fa//2Q==" />
+<RemoteImage alt={`Turnbeutel`} size="medium" title={`Mein neuer Turnbeutel`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26332007734_abb994932c_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26332007734_abb994932c_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCBAgH/8QALxAAAgECBQIEAwkAAAAAAAAAAQIDBBEABSExQQYSBxMUYRUjYjJCUVJxgZHB8P/EABgBAAIDAAAAAAAAAAAAAAAAAAIDBAUG/8QAIREAAQQCAAcAAAAAAAAAAAAAAQACAwQREgUTMUFxkbH/2gAMAwEAAhEDEQA/ADDZlFRUvnzEkKCe0bm3GE3M8zfOeoY/iJAK1jUwMa2OsZEY0+pQtzpried5lFDXRI6vJHCO4hdu6+gP8YBU6vJmr1ESmWPzFlB2DNe/PIOK4laWjXaGbHqfibfDrqirpquheaqm9OpEFVDI5Jhcm2oPG3+vjRSqHiV15F8ZZrE8/MmraWleOocdsy9ylZRtrrofwONBeGueJm2QQU8rMuYUsYSeJ/taGwb3BtuOdMNid2UPidXTEg8LgwyKGeiilq5Kj1VQDMwjksB+UAW4Gn63wZyrpiFYmL1lbyCgcAg/suCdJlrzzwNG10VAnax59v7wc+GTIhmeSMA3GhsTgeWSjittjaBslyLpmET0vklmjV71HnyuxZLbKFIAN7anDp0nBTUOYIlDHHTOAZIyg0B+8p+lhoR7A7gYpw0cnefmINe3e+LlDS+kqTUSThyi2UBbasyjfBCMg5wlWbTJWFu2fa//2Q=="
+/>
 
 **Wie einige unter Euch schon wissen, bin ich ein Fan von Turnbeuteln. Die
 Dinger sehen nicht nur toll aus, sie sind auch noch super praktisch.**

@@ -17,11 +17,11 @@ labels:
   - Adam Green's Aladdin
   - Aladdin
   - Antifolk
-  - Bands & Reviews
+  - Bands
   - Cinema
   - Folk
   - Hamburg
-  - Kunst
+  - Hamburg
   - Movie
 type: Artikel
 typeName: Artikel
@@ -56,13 +56,11 @@ In der IMDB hat Adam Greens Aladdin von mir übrigens die volle Punktzahl
 bekommen. Ihr solltet ihn also unbedingt anschauen! Es tauchen auch ein paar
 alte Bekannte darin auf. Mehr wird aber noch nicht verraten! ;-)
 
-<RemoteImage
-  alt="Adam Green"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26644858502_850a7a7e80_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26644858502_850a7a7e80_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgEDBQcIBP/EACwQAAIBAgQDBgcAAAAAAAAAAAECAwARBAUSIRQxQQYTIlGRklRigaGisdH/xAAZAQACAwEAAAAAAAAAAAAAAAABBQACBAb/xAAjEQABAgQGAwAAAAAAAAAAAAABAAIDESFhBAUGEhNBUdHh/9oADAMBAAIRAxEAPwDNkWBOhDboD60gwR2262/Ef2jOPLV4ONrco4T6xk0i5WC6C22pr+1aX85XcDIwQAEGJhiJSLbhh+6c4dhRQuWhpMa4UgIEIBFjvYj7MD9alGyFSx8PWg6MQVIGScjZsMx9PpdGZYlMsyCbFSRO4SOBQq7bmOw36c6jR2ryqFYjOMQsjrrKJGG0XUWvuL+dVycTOY2jM0pja2pdZsbeYpslmNySTyua0DDN7S6PqaMTOANol3Wta9WVvZTm+TZllGcwYTXx6cM8Q7kgGJYhG41XJPiVDuBzNEnd/I3pWfkkkjJKOykixINrineMxPxE3vNB+G3GYKvlepBgIAguYXSvcnxdf//Z" />
+<RemoteImage alt={`Adam Green`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26644858502_850a7a7e80_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26644858502_850a7a7e80_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgEDBQcIBP/EACwQAAIBAgQDBgcAAAAAAAAAAAECAwARBAUSIRQxQQYTIlGRklRigaGisdH/xAAZAQACAwEAAAAAAAAAAAAAAAABBQACBAb/xAAjEQABAgQGAwAAAAAAAAAAAAABAAIDESFhBAUGEhNBUdHh/9oADAMBAAIRAxEAPwDNkWBOhDboD60gwR2262/Ef2jOPLV4ONrco4T6xk0i5WC6C22pr+1aX85XcDIwQAEGJhiJSLbhh+6c4dhRQuWhpMa4UgIEIBFjvYj7MD9alGyFSx8PWg6MQVIGScjZsMx9PpdGZYlMsyCbFSRO4SOBQq7bmOw36c6jR2ryqFYjOMQsjrrKJGG0XUWvuL+dVycTOY2jM0pja2pdZsbeYpslmNySTyua0DDN7S6PqaMTOANol3Wta9WVvZTm+TZllGcwYTXx6cM8Q7kgGJYhG41XJPiVDuBzNEnd/I3pWfkkkjJKOykixINrineMxPxE3vNB+G3GYKvlepBgIAguYXSvcnxdf//Z"
+/>
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

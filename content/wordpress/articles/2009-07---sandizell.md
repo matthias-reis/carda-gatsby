@@ -31,19 +31,25 @@ subTitle: Wasserschloss in Altbayern
   
 ---
 
+**Sandizell wurde urkundlich erstmals 916 als Wirtschaftshof der
+Benediktinerinnen aus Neuburg an der Donau erwähnt. Der Name war damals
+"Sandicelle". Das bedeutet soviel wie "Siedlung bei der sandigen Zelle".**
+
 Mit **Sandizell** verbindet sich der Name eines alten bayerischen
 Adelsgeschlechts, dass sich bis auf das Mittelalter zurückverfolgen lässt und
 dessen Spuren man bis heute nachverfolgen kann.
 
-<RemoteImage
-  alt="Schloss Sandizell"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531355705_54d0ae0f07_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531355705_54d0ae0f07_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgADBQcI/8QAKhAAAgIBAwIFAwUAAAAAAAAAAQIDBBEABQYSMQcTIUFhCCMyFXGBkbH/xAAYAQACAwAAAAAAAAAAAAAAAAACBAEDBf/EACERAAIBAwMFAAAAAAAAAAAAAAABAgMRIQQxQRITYYGx/9oADAMBAAIRAxEAPwAVwrh8/LuWwUbAklgqh55Z3Ri7xBixJ6Vy2QQAe/ceulfh/f43H4s7jJX2s1du3DzKtBoo2+0JFEal0c4wRkkH3bt6azfTfy/aqXJLNPcSiz3VCw2JulFiKq2Rk+7YUenc/wAaGeHPIYU8Qdsa4yQ1IZ68jyyjpVVDAsWJ9gNLQu0r5yVdKYm3rhKca3u7tG81mu1YWD1L9muYzOGUdQBVwG6cKPg+wzq137kO2UeaR1L2xW9nuJGGV5WUTjBwQBhvT3/vVrO1Ojruq3Tdl7B7b4PFfEntU7sVmnYkqW0y0U0LYZTjGc+2lVfi1d9tazBYAnVPNKtA47DP5dOM4+T++iHH6O5u0JWKtEwweuzbihTB7/k3+DXXdt4+8nHrybPSrbluXkfeehvcMiGQqVDdLAHp+AdPSjJbfRiC4DFFFhnspDZswgMMmOYr1d++NWtX+i8xhmlMvG9xLOR6LESBgfGrUrG4Ll4Z/9k=" />
+## Altbayerischer Uradel in Sandizell
 
-## Altbayerischer Uradel in Sandizell \_**\_ Die Herren von Sandizell gehören zum Altbayerischen Uradel. Sie gehören zu den ältesten noch blühenden Ministerialgeschlechtern aus der Zeit der **Grafen von Scheyern\_\_ .
+<RemoteImage alt={`Schloss Sandizell`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531355705_54d0ae0f07_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531355705_54d0ae0f07_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgADBQcI/8QAKhAAAgIBAwIFAwUAAAAAAAAAAQIDBBEABQYSMQcTIUFhCCMyFXGBkbH/xAAYAQACAwAAAAAAAAAAAAAAAAACBAEDBf/EACERAAIBAwMFAAAAAAAAAAAAAAABAgMRIQQxQRITYYGx/9oADAMBAAIRAxEAPwAVwrh8/LuWwUbAklgqh55Z3Ri7xBixJ6Vy2QQAe/ceulfh/f43H4s7jJX2s1du3DzKtBoo2+0JFEal0c4wRkkH3bt6azfTfy/aqXJLNPcSiz3VCw2JulFiKq2Rk+7YUenc/wAaGeHPIYU8Qdsa4yQ1IZ68jyyjpVVDAsWJ9gNLQu0r5yVdKYm3rhKca3u7tG81mu1YWD1L9muYzOGUdQBVwG6cKPg+wzq137kO2UeaR1L2xW9nuJGGV5WUTjBwQBhvT3/vVrO1Ojruq3Tdl7B7b4PFfEntU7sVmnYkqW0y0U0LYZTjGc+2lVfi1d9tazBYAnVPNKtA47DP5dOM4+T++iHH6O5u0JWKtEwweuzbihTB7/k3+DXXdt4+8nHrybPSrbluXkfeehvcMiGQqVDdLAHp+AdPSjJbfRiC4DFFFhnspDZswgMMmOYr1d++NWtX+i8xhmlMvG9xLOR6LESBgfGrUrG4Ll4Z/9k="
+/>
+
+\_**\_ Die Herren von Sandizell gehören zum Altbayerischen Uradel. Sie gehören
+zu den ältesten noch blühenden Ministerialgeschlechtern aus der Zeit der
+**Grafen von Scheyern\_\_ .
 
 Das Wasserschloss Sandizell ist das Stammhaus der Grafen von Sandizell. Schloss
 Sandizell wurde um 1580 als Dreiflügelanlage im Renaissancestil ausgebaut, diese
@@ -84,8 +90,10 @@ angrenzenden Gebieten. Er bezeichnet den abgegrenzten Bezirk einer
 Grundherrschaft, Rechtsgrundlage hierfür war die "Ottonische Handfeste" vom 5.
 Juni 1311, in der die niederbayerischen Stände dem Herzog Otto III. eine
 einmalige Steuer bewilligten, dafür aber die niedere Gerechtigkeit für ihre
-Besitzungen erhielten._ **Quellen:**
-[http://www.wikipedia.de](http://www.wikipedia.de/)
+Besitzungen erhielten._
+
+**Quellen:**  
+[http://www.wikipedia.de](http://www.wikipedia.de/)  
 [http://www.sandizell-com.de/](http://www.sandizell-com.de/)
 
 <Gallery name="annesandizell2009" />

@@ -13,8 +13,8 @@ labels:
   - Berlin
   - Hamburg
   - Konzerte
-  - Post Rock
   - Post-Metal
+  - Post-Rock
   - Postrock
   - Schweiz
   - The Ocean

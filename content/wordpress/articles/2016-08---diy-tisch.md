@@ -13,7 +13,7 @@ focusKeyword: Weinkiste
 labels:
   - basteln
   - diy
-  - DIY
+  - Klima & Umweltschutz
   - Möbel
   - Regal
   - selbstgemacht
@@ -34,13 +34,12 @@ subTitle: Aus Weinkiste wird Möbelstück
   
 ---
 
-<RemoteImage
-  alt="Weinkiste"
-  size="medium"
-  title="Ist er nicht schön, mein kleiner Tisch?"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28496347930_5c38653871_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28496347930_5c38653871_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwj/xAAnEAACAQMDBAICAwAAAAAAAAABAgMEBREAEiEGMUFRExQHInGCof/EABYBAQEBAAAAAAAAAAAAAAAAAAUDAP/EAB8RAQACAgICAwAAAAAAAAAAAAEAAgMREyEEMYGh8P/aAAwDAQACEQMRAD8AgrRVTy3Sko6V5FY7i5jbaeFJ7+vJ1vVnskctun2mt+T9gpZ3Xg5xgHHrz7z51y10XejT9RUMldIVp8vuMancSVOOxz3xrXan8v2G3KYMXB/hyCqpGCCP7A6F8nHfkCpvqN4MteLa6dx7fbJOLZZ5Iqm4U7H4jWPLNNOIjnb8Z2gLk4bJ8YzpJ1PRSUNXWREVTQAAD7AIII7/AK5IXv75xnGmdL+R6e3oYbTY7pUQbgHdSJEj7N5yTw2cDPrUF1t14l7pK6GWzPR1GDFHL9kb0ZTjgBRgcHzzqeOuZQa/czepvafviZFA7YyDgjsdOKPqK5RBY4Xp0IGC/wBdC7fyxGTo0aZQfcKLJ6lKnWPUUdLDEl2nREQKoRUU4HbnGf8AdS1wq5qiaWWZ2eSRi7sxyWJ5JOjRqdag9Epa1k0s/9k=" />
+<RemoteImage alt={`Weinkiste`} size="medium"
+title={`Ist er nicht schön, mein kleiner Tisch?`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28496347930_5c38653871_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28496347930_5c38653871_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwj/xAAnEAACAQMDBAICAwAAAAAAAAABAgMEBREAEiEGMUFRExQHInGCof/EABYBAQEBAAAAAAAAAAAAAAAAAAUDAP/EAB8RAQACAgICAwAAAAAAAAAAAAEAAgMREyEEMYGh8P/aAAwDAQACEQMRAD8AgrRVTy3Sko6V5FY7i5jbaeFJ7+vJ1vVnskctun2mt+T9gpZ3Xg5xgHHrz7z51y10XejT9RUMldIVp8vuMancSVOOxz3xrXan8v2G3KYMXB/hyCqpGCCP7A6F8nHfkCpvqN4MteLa6dx7fbJOLZZ5Iqm4U7H4jWPLNNOIjnb8Z2gLk4bJ8YzpJ1PRSUNXWREVTQAAD7AIII7/AK5IXv75xnGmdL+R6e3oYbTY7pUQbgHdSJEj7N5yTw2cDPrUF1t14l7pK6GWzPR1GDFHL9kb0ZTjgBRgcHzzqeOuZQa/czepvafviZFA7YyDgjsdOKPqK5RBY4Xp0IGC/wBdC7fyxGTo0aZQfcKLJ6lKnWPUUdLDEl2nREQKoRUU4HbnGf8AdS1wq5qiaWWZ2eSRi7sxyWJ5JOjRqdag9Epa1k0s/9k="
+/>
 
 **Heute zeige ich Euch mal meine neueste Errungenschaft. Es handelt sich dabei
 um einen Tisch aus einer Weinkiste, den ich gestern mal eben schnell gebaut
@@ -52,13 +51,12 @@ Sideboard nimmt einfach zu viel Platz weg, also muss eine andere Lösung her.
 
 ## Eine Weinkiste - vielmehr braucht man nicht
 
-<RemoteImage
-  alt="Weinkiste"
-  size="medium"
-  title="Gerade war es noch eine alte Weinkiste"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28165933193_b5a9e0bc09_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28165933193_b5a9e0bc09_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBwUI/8QAJxAAAgIBAwMEAgMAAAAAAAAAAQIDBBEABSEGEhMWMWGBQVEVIqH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwYEBf/EACIRAAEDAwMFAAAAAAAAAAAAAAEAAhEDEzESIZEEBRUi8P/aAAwDAQACEQMRAD8ApPXViwtezPUKpYeNI/HuM0aFm5GFUgcgHHz+9Pt1VZa/t9eLb+yWzcirB5LksoVJA2cKTgkEY5451nsDLD0JUkkdA1GSEszkKB4pu05J+AdV0Pa1xiPJ3RtHLG8ahipD47uSOAHydRra9S4BMiSOFXu6enoJiDAKW6A3neLfSq2tysyXLstyfySyAcAdoCqBwAMHgaNcrqTpW50xBQqR7lODMrzmKKRl8fc3scHBPvyP1o10tJOdlgLhPruFKxbxU9P7tSlu1kksGZ4FlYKMkKxUn8/2JP3qohvbRb3Os292Yv4tPHO6lAykhwVwfyCcD61513Qy3rZncqHOQQRgYzx/mNObf5I6RjeTAjlD9gf3yuOBo/HNa4PDsGfuEB7iXNLS3IW57husNmQyxCJA8jyFYsBQWOcDHHx9aNZjTt+OuiiQ4Hzo061CTdX/2Q==" />
+<RemoteImage alt={`Weinkiste`} size="medium"
+title={`Gerade war es noch eine alte Weinkiste`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28165933193_b5a9e0bc09_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28165933193_b5a9e0bc09_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBwUI/8QAJxAAAgIBAwMEAgMAAAAAAAAAAQIDBBEABSEGEhMWMWGBQVEVIqH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwYEBf/EACIRAAEDAwMFAAAAAAAAAAAAAAEAAhEDEzESIZEEBRUi8P/aAAwDAQACEQMRAD8ApPXViwtezPUKpYeNI/HuM0aFm5GFUgcgHHz+9Pt1VZa/t9eLb+yWzcirB5LksoVJA2cKTgkEY5451nsDLD0JUkkdA1GSEszkKB4pu05J+AdV0Pa1xiPJ3RtHLG8ahipD47uSOAHydRra9S4BMiSOFXu6enoJiDAKW6A3neLfSq2tysyXLstyfySyAcAdoCqBwAMHgaNcrqTpW50xBQqR7lODMrzmKKRl8fc3scHBPvyP1o10tJOdlgLhPruFKxbxU9P7tSlu1kksGZ4FlYKMkKxUn8/2JP3qohvbRb3Os292Yv4tPHO6lAykhwVwfyCcD61513Qy3rZncqHOQQRgYzx/mNObf5I6RjeTAjlD9gf3yuOBo/HNa4PDsGfuEB7iXNLS3IW57husNmQyxCJA8jyFYsBQWOcDHHx9aNZjTt+OuiiQ4Hzo061CTdX/2Q=="
+/>
 
 Die habe ich mir jetzt einfallen lassen: Aus einer alten Weinkiste (Die war noch
 vom [Umzug](/2016/05/an-die-elbe-wir-ziehen-um/) übrig) und vier Füßen (die

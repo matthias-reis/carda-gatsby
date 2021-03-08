@@ -10,7 +10,7 @@ excerpt: Da Calexico für mich zu den absoluten Favoriten zählen, musste es bei
   der neuen Platte etwas ganz besonderes sein.
 focusKeyword: Edge Of The Sun
 labels:
-  - Bands & Reviews
+  - Bands
   - Calexico
   - Calexico Edge Of The Sun
   - CD
@@ -26,7 +26,7 @@ labels:
   - Schallplatte
   - Vinyl
 type: Artikel
-typeName: Rezension
+typeName: Review
 date: 2015-04-14T08:52:25.000Z
 status: publish
 isWerbung: false
@@ -40,13 +40,12 @@ subTitle: '"Edge Of The Sun" ist da!'
   
 ---
 
-<RemoteImage
-  alt="Calexico - Edge Of The Sun ist da!"
-  size="medium"
-  title="Calexico - Edge Of The Sun ist da!"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-3__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-3__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAArEAABAwMDAgUEAwAAAAAAAAABAgMEAAURBiFBEjEHExQiYRYjUXEyUpH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAAB/8QAIREAAgICAgEFAAAAAAAAAAAAAQIAEQMxIZEEEiJRgaH/2gAMAwEAAhEDEQA/AF8G5KszD0VqE87KmsLW1ICglqOUgjrVkEnBIPSO+OKj5WlrnJQiWLre7jKKQW3G3A2EbDckq+ew33qv17b7g0NOuJJetclPl+QkFP3erqKVkdwpPb9GqPV0j6qmW30OmmbcGkFttttCCpwnGASABgbAbcn80lgD2iTjBlfJ6nelGgK/TV9VOXSNHWZUYrvCrvDm9GVqkuF3ODgkEAgjP6pKw1P0/dolofleotUlOYygPaQTkEfg52IzzVRe9PzIsh1tyCtDqP5p6RkHJB7fINbPDSw2mfIur93Qt24W1aPIZcX7G0LSfeE8nI78bc0jZgyUyAH5HHcNPDfDkLLlJU7B56Ox93HviFqllizWthDiUodlBRR/UNoJx/qkkUoia5jB5j7iB0oVgg85TRRRIaFS2KNT61W9cHpRkeoLycr6yMg54I+TSnRcmRcdYOz4UlthluMUygs7rQc4GPggHPGKKKxY6nDzP//Z" />
+<RemoteImage alt={`Calexico - Edge Of The Sun ist da!`} size="medium"
+title={`Calexico - Edge Of The Sun ist da!`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-3__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-3__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAArEAABAwMDAgUEAwAAAAAAAAABAgMEAAURBiFBEjEHExQiYRYjUXEyUpH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAAB/8QAIREAAgICAgEFAAAAAAAAAAAAAQIAEQMxIZEEEiJRgaH/2gAMAwEAAhEDEQA/AF8G5KszD0VqE87KmsLW1ICglqOUgjrVkEnBIPSO+OKj5WlrnJQiWLre7jKKQW3G3A2EbDckq+ew33qv17b7g0NOuJJetclPl+QkFP3erqKVkdwpPb9GqPV0j6qmW30OmmbcGkFttttCCpwnGASABgbAbcn80lgD2iTjBlfJ6nelGgK/TV9VOXSNHWZUYrvCrvDm9GVqkuF3ODgkEAgjP6pKw1P0/dolofleotUlOYygPaQTkEfg52IzzVRe9PzIsh1tyCtDqP5p6RkHJB7fINbPDSw2mfIur93Qt24W1aPIZcX7G0LSfeE8nI78bc0jZgyUyAH5HHcNPDfDkLLlJU7B56Ox93HviFqllizWthDiUodlBRR/UNoJx/qkkUoia5jB5j7iB0oVgg85TRRRIaFS2KNT61W9cHpRkeoLycr6yMg54I+TSnRcmRcdYOz4UlthluMUygs7rQc4GPggHPGKKKxY6nDzP//Z"
+/>
 
 **Da Calexico für mich zu den absoluten Favoriten zählen, musste es bei der
 neuen Platte etwas ganz besonderes sein: Die Limited Deluxe Edition als
@@ -70,15 +69,14 @@ lauschen.
 
 ## Erster Gedanke: Watteweich
 
-<RemoteImage
-  alt="Calexico - Edge Of The Sun"
-  size="medium"
-  title="Calexico - Edge Of The Sun"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-4__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-4__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAApEAACAQMDAwMEAwAAAAAAAAABAgMEBREABiESMWETIpEyQUKBI3HB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAAkEQABBAIABQUAAAAAAAAAAAABAAIDBBEhBRITgZFBUXGh8P/aAAwDAQACEQMRAD8AyG1bFerRWkqmDE5ZYwAPk866a7bVlpESGleoqZU4YBh6f9dWM/GrO0xW5rXEbhTbiMM8MaLIPZG0gGXOS2GBPAAwAO+TprHSbZUmJLddSy9ceGcL/IXygPv7BOPJ51u+ZuMMap1eja6hksS5HoBodz++VP2Ww7auNIEp6GnSoAw8Mp6nB8E/UPI0r3BsOiMTmlVqV8fiSV/YP+aob3FtZqetNHQ3FJWjUUjO4Ppyc5LHq5B47Dx51LXu7slMY6SpucRUAL1VHUox4znTbL8TmcssfhIScFtxzdWtYOPZ2T97z3HlbDf92QUe06+nubr0yoEhibHLAj6R9sDWMS7nCRuyv9gx5/Lr4+NGjU1p0uiGhhKazcvqBjnuc4/ekVbc2nJ540aNCCSv/9k=" />
+<RemoteImage alt={`Calexico - Edge Of The Sun`} size="medium"
+title={`Calexico - Edge Of The Sun`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-4__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-4__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAApEAACAQMDAwMEAwAAAAAAAAABAgMEBREABiESMWETIpEyQUKBI3HB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAAkEQABBAIABQUAAAAAAAAAAAABAAIDBBEhBRITgZFBUXGh8P/aAAwDAQACEQMRAD8AyG1bFerRWkqmDE5ZYwAPk866a7bVlpESGleoqZU4YBh6f9dWM/GrO0xW5rXEbhTbiMM8MaLIPZG0gGXOS2GBPAAwAO+TprHSbZUmJLddSy9ceGcL/IXygPv7BOPJ51u+ZuMMap1eja6hksS5HoBodz++VP2Ww7auNIEp6GnSoAw8Mp6nB8E/UPI0r3BsOiMTmlVqV8fiSV/YP+aob3FtZqetNHQ3FJWjUUjO4Ppyc5LHq5B47Dx51LXu7slMY6SpucRUAL1VHUox4znTbL8TmcssfhIScFtxzdWtYOPZ2T97z3HlbDf92QUe06+nubr0yoEhibHLAj6R9sDWMS7nCRuyv9gx5/Lr4+NGjU1p0uiGhhKazcvqBjnuc4/ekVbc2nJ540aNCCSv/9k="
+/>
 
-Erster Song: "Falling From The Sky" - Erster Gedanke: Watteweich. Nach
+Erster Song: "Falling From The Sky" - Erster Gedanke: Watteweich. Nach
 progressiv, roh, rockig und nostalgisch eine ganz neue Seite, die ich an
 Calexico entdecke: Die poppige. Ein Sythesizer. Schüchtern im Hintergrund. Nicht
 zu aufdringlich. Gedämpfte Bläser. Ruhiger Gesang. Ein schöner Auftakt.
@@ -115,13 +113,12 @@ an.
 
 ## Wie ich sie liebe: Calexicos Walzer
 
-<RemoteImage
-  alt="Calexico - Edge Of The Sun T-Shirt"
-  size="medium"
-  title="Calexico - Edge Of The Sun T-Shirt"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwf/xAAsEAACAQMDAgQFBQAAAAAAAAABAgMEBREABiEHEhMiMUEUMlFhcXOBgpGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECBP/EABwRAAIDAQADAAAAAAAAAAAAAAECAAMRISIxMv/aAAwDAQACEQMRAD8Ab7z6p26xWCKgsE1NWXmKR45hLTyOkAXOcYwHYt2rwSBkk51zWzb531TJK6XqRvE4EdVEs4X6sMjIP29Mab9Ytr2zbO7e22zMxuQFU8TKB8ODIfKpHscMRps61lzsljpbdSUtrAiEUlUa128fuXhmUDgDBOOT7DjWiupSODZF14q6xnPNx3bdF5Z6m53u4SKxx2wMYIlx7BV8o/3VXsnqJUtFbtu3ynTsZVgjri7GR37vL4hJIOflzwc40sqdt01M9aKi9QPWUyMvgRj5iBwQWOSp9iBzrbp/0/TeyrXw3b4YUFUqV0LKSxTAdGi9gThlOfTGefTRZWFGkRVXraSEPqT3UndRv/UC6VYbNPFMaWD9OLKj+z3H+Wtl3xWR26mpaQQxGEKBIfMT2+h54/bRo00YqMEdlSW/Y3JPXa81txYPcamOqcDy+IgBX8EAaf8ASjeY2vukrNIFttwxT1DHgJz5HP4Pr9idGjUt5bspQEGKMn//2Q==" />
+<RemoteImage alt={`Calexico - Edge Of The Sun T-Shirt`} size="medium"
+title={`Calexico - Edge Of The Sun T-Shirt`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwf/xAAsEAACAQMDAgQFBQAAAAAAAAABAgMEBREABiEHEhMiMUEUMlFhcXOBgpGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECBP/EABwRAAIDAQADAAAAAAAAAAAAAAECAAMRISIxMv/aAAwDAQACEQMRAD8Ab7z6p26xWCKgsE1NWXmKR45hLTyOkAXOcYwHYt2rwSBkk51zWzb531TJK6XqRvE4EdVEs4X6sMjIP29Mab9Ytr2zbO7e22zMxuQFU8TKB8ODIfKpHscMRps61lzsljpbdSUtrAiEUlUa128fuXhmUDgDBOOT7DjWiupSODZF14q6xnPNx3bdF5Z6m53u4SKxx2wMYIlx7BV8o/3VXsnqJUtFbtu3ynTsZVgjri7GR37vL4hJIOflzwc40sqdt01M9aKi9QPWUyMvgRj5iBwQWOSp9iBzrbp/0/TeyrXw3b4YUFUqV0LKSxTAdGi9gThlOfTGefTRZWFGkRVXraSEPqT3UndRv/UC6VYbNPFMaWD9OLKj+z3H+Wtl3xWR26mpaQQxGEKBIfMT2+h54/bRo00YqMEdlSW/Y3JPXa81txYPcamOqcDy+IgBX8EAaf8ASjeY2vukrNIFttwxT1DHgJz5HP4Pr9idGjUt5bspQEGKMn//2Q=="
+/>
 
 "Woodshed Waltz" - Wie ich sie liebe: Calexicos Walzer. Und so auch diesen. Ich
 möchte tanzen. In langen Gewändern. Im Sand. Barfuss. Zu diesem Song.
@@ -140,13 +137,12 @@ Sun".
 
 ## Bonus-Tracks
 
-<RemoteImage
-  alt="Calexico - Edge Of The Sun"
-  size="medium"
-  title="Calexico - Edge Of The Sun"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcC/8QAKBAAAQQCAAYBBAMAAAAAAAAAAQIDBBEABQYSEyExUUEUIjJhQlKB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/EAB8RAQACAQMFAAAAAAAAAAAAAAEAAhEDBRMEEiGB8P/aAAwDAQACEQMRAD8AyVlb+7S25KbQyzR5IkMrA5b7cylKIAJs0O+OI3CEDc7hqDEZaZ6n2B18JKQqjXgj8jXzl10s3h0amH9SnXqe6KOcrCL5qF3+8kGZw6kdRqLCP8gpCEeR83XsZj23fCnG/epcdCoYsSgbbhHV6WS1F3GujF5DgDxZeo1dEfaojz/uIeImYmqkJLGvix2FJppSSogpu/yrufd3mo7LY6WY6pcqLDfcIoqeCFE5XN89pVa6U2jXQhbaiORCRRo9wPf7w0t7raxXjSK+22DPeTPNjvIbU1a4LAaaVawgOdSj/UWOw9fOcSOLZSUhLDqwsilKugB6A8YYZtZkOPMUP7l9a1FY5lH5USTkP6l1wKIWlA8kX5wwxKsACf/Z" />
+<RemoteImage alt={`Calexico - Edge Of The Sun`} size="medium"
+title={`Calexico - Edge Of The Sun`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcC/8QAKBAAAQQCAAYBBAMAAAAAAAAAAQIDBBEABQYSEyExUUEUIjJhQlKB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/EAB8RAQACAQMFAAAAAAAAAAAAAAEAAhEDBRMEEiGB8P/aAAwDAQACEQMRAD8AyVlb+7S25KbQyzR5IkMrA5b7cylKIAJs0O+OI3CEDc7hqDEZaZ6n2B18JKQqjXgj8jXzl10s3h0amH9SnXqe6KOcrCL5qF3+8kGZw6kdRqLCP8gpCEeR83XsZj23fCnG/epcdCoYsSgbbhHV6WS1F3GujF5DgDxZeo1dEfaojz/uIeImYmqkJLGvix2FJppSSogpu/yrufd3mo7LY6WY6pcqLDfcIoqeCFE5XN89pVa6U2jXQhbaiORCRRo9wPf7w0t7raxXjSK+22DPeTPNjvIbU1a4LAaaVawgOdSj/UWOw9fOcSOLZSUhLDqwsilKugB6A8YYZtZkOPMUP7l9a1FY5lH5USTkP6l1wKIWlA8kX5wwxKsACf/Z"
+/>
 
 Über die Bonus-Tracks verrate ich nichts, ihr müsst sie Euch selbst anhören. Es
 sei nur so viel gesagt: Es lohnt sich! Es wird funky und es wird eine Geschichte
@@ -165,8 +161,9 @@ einer Calexico-Plattenskala von 1 - 10, wobei eine 10 am besten ist, eine
 runde 8. Bei mir wird sie in den nächsten Tagen und Wochen auf jeden Fall rund
 laufen. Calexico - "Edge Of The Sun" - Ein Must-hear.
 
-## Calexico Wegweiser1. [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
+## Calexico Wegweiser
 
+1.  [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
 1.  [live @ Southside Festival Neuhausen ob Eck Juni 2008](/2015/04/calexico-live-southside-festival-2008/)
 1.  [live @ Muffathalle München 16.10.2008](/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/)
 1.  [live @ Roxy Ulm 27.01.2009](/2009/01/calexico-live-roxy-ulm/)
@@ -177,7 +174,8 @@ laufen. Calexico - "Edge Of The Sun" - Ein Must-hear.
 1.  [live @ Große Freiheit 36 Hamburg 15.04.2015](/2015/04/calexico-live-grosse-freiheit-36-15-04-2015/)
 1.  [live @ A Summer's Tale Festival 08.08.2015](/2015/08/calexico-live-a-summers-tale-festival-2015/)
 1.  [stellen neue Single "End Of The World With You" vor](/2017/10/calexico-the-thread-that-keeps-us/)
-    [Homepage](http://www.casadecalexico.com) Calexico
+
+[Homepage](http://www.casadecalexico.com) Calexico
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

@@ -13,7 +13,7 @@ labels:
   - Alge Vegan
   - Artikel
   - Barnard Medical Center
-  - Darum vegan
+  - Geschichten & Erlebtes
   - Redakteurin
   - Text
   - vegan
@@ -33,13 +33,12 @@ subTitle: Zwei Artikel sind von mir
   
 ---
 
-<RemoteImage
-  alt="Das Welt Vegan Magazin 1/2016"
-  size="medium"
-  title="Das Welt Vegan Magazin 1/2016"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25319062412_a3755328fb_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25319062412_a3755328fb_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwEDBP/EACoQAAIBAwMDAwMFAAAAAAAAAAECAwQFEQASIRMxURRBgQYyYQcVImOR/8QAGAEBAAMBAAAAAAAAAAAAAAAAAgABAwT/xAAbEQADAQEAAwAAAAAAAAAAAAABAhEAAxJBof/aAAwDAQACEQMRAD8Ak7Xbrfb1hWvLK8vKKsZbOMZ7D86YHhtaxlXEyr/ZTSLj5K8fOuL65u37GLcsD29ZGjaZPUF92QyYxtP4749zqUsV3FVbLZLU1okeeIPIvrWeFlMQYYTGcDjOScEeTphQJfe5n6dAW8QIJ9yNd7LDJUBqfDxnkHRqwJoIKmTrRhemypt25x9oPGeffRpbdTQDkX9WHhmpbc81VLGopXCxxqrdQllG0+/fx51CVlshtFHZKp7pcDDIHFBDCuCP5AtHwVILeP8ACdWHQSU0lu6FfT080T8mKSJXABxgYPbsD8azdKey1NJGtTbaGVIQAimJSE5JGBjyToI0g1ulB2unuMVHSwxhjt2jhpS5Ht9xJJ7edGle43CNZ9sUcKoBhV2AYHxo09EWKAd//9k=" />
+<RemoteImage alt={`Das Welt Vegan Magazin 1/2016`} size="medium"
+title={`Das Welt Vegan Magazin 1/2016`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25319062412_a3755328fb_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25319062412_a3755328fb_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwEDBP/EACoQAAIBAwMDAwMFAAAAAAAAAAECAwQFEQASIRMxURRBgQYyYQcVImOR/8QAGAEBAAMBAAAAAAAAAAAAAAAAAgABAwT/xAAbEQADAQEAAwAAAAAAAAAAAAABAhEAAxJBof/aAAwDAQACEQMRAD8Ak7Xbrfb1hWvLK8vKKsZbOMZ7D86YHhtaxlXEyr/ZTSLj5K8fOuL65u37GLcsD29ZGjaZPUF92QyYxtP4749zqUsV3FVbLZLU1okeeIPIvrWeFlMQYYTGcDjOScEeTphQJfe5n6dAW8QIJ9yNd7LDJUBqfDxnkHRqwJoIKmTrRhemypt25x9oPGeffRpbdTQDkX9WHhmpbc81VLGopXCxxqrdQllG0+/fx51CVlshtFHZKp7pcDDIHFBDCuCP5AtHwVILeP8ACdWHQSU0lu6FfT080T8mKSJXABxgYPbsD8azdKey1NJGtTbaGVIQAimJSE5JGBjyToI0g1ulB2unuMVHSwxhjt2jhpS5Ht9xJJ7edGle43CNZ9sUcKoBhV2AYHxo09EWKAd//9k="
+/>
 
 **Die neue Ausgabe vom Welt Vegan Magazin liegt in den Regalen! Höchste Zeit für
 Euch, zum Kiosk zu gehen! Auch dieses Mal sind wieder einige wirklich tolle
@@ -62,13 +61,11 @@ Wenn Ihr was Tolles zum Thema vegan zu erzählen habt: Scheut Euch nicht, mich
 
 ## Auf Wunsch texte ich auch für Euch!
 
-<RemoteImage
-  alt="Welt Vegan Magazin"
-  size="medium"
-  title="Text: Anne Reis"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25319089342_265805d22b_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25319089342_265805d22b_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAqEAACAQIEBQMFAQAAAAAAAAABAgMAEQQFBiESEzFRYUFxwSIjgpGh4f/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAAAASAf/aAAwDAQACEQMRAD8AS9I6bixoVpeaEA9ADb+iqtk2lcuWNCrR3AB3iZb2380q6EcyRKArDtZD49QPmqThdzwEMq7mx6Dv17DxWqRxzDTGBlmkBjVUY3NgOhH+Ujao0csH3oha27AmxJ8VWSUaLDu0sC8UdrNIF4rdbXrKz+xwkhPCygbcDqQD+/elCAaXzbEYORDEdu16sWQalxMsC8aX/I0UVkbeJzt+V9UCMLdGsfilHOcyZkflwxRcQ35ahb+9hRRU0f/Z" />
+<RemoteImage alt={`Welt Vegan Magazin`} size="medium" title={`Text: Anne Reis`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25319089342_265805d22b_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25319089342_265805d22b_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAqEAACAQIEBQMFAQAAAAAAAAABAgMAEQQFBiESEzFRYUFxwSIjgpGh4f/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAAAASAf/aAAwDAQACEQMRAD8AS9I6bixoVpeaEA9ADb+iqtk2lcuWNCrR3AB3iZb2380q6EcyRKArDtZD49QPmqThdzwEMq7mx6Dv17DxWqRxzDTGBlmkBjVUY3NgOhH+Ujao0csH3oha27AmxJ8VWSUaLDu0sC8UdrNIF4rdbXrKz+xwkhPCygbcDqQD+/elCAaXzbEYORDEdu16sWQalxMsC8aX/I0UVkbeJzt+V9UCMLdGsfilHOcyZkflwxRcQ35ahb+9hRRU0f/Z"
+/>
 
 Wer sonst Interesse an meinen Texten hat: Thematisch bin ich nicht gebunden. Wer
 also jemanden braucht, der für seine Webseite schreibt, ein Thema hat, dass er

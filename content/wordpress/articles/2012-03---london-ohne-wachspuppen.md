@@ -5,17 +5,18 @@ slug: tube-trip-london-ohne-wachspuppen
 path: /2012/03/tube-trip-london-ohne-wachspuppen/
 fileName: 2012-03---london-ohne-wachspuppen.md
 description: Im März habe ich meine Freizeit für einen Kurztrip nach London
-  genutzt. Hier sind einige Impressionen von meiner Reise.
+  genutzt. Hier sind einige Impressionen von meiner Reise.
 excerpt: Im März habe ich meine Freizeit für einen Kurztrip nach London genutzt.
   Hier sind einige Impressionen von meiner Reise.
 focusKeyword: London
 labels:
   - Art
   - Bono
-  - Brititsche Inseln
+  - Britische Inseln
+  - Fernweh
   - Galerie
+  - Geschichten & Erlebtes
   - Harrods
-  - Kunst
   - Kunst
   - London
   - Malcom Mc Laren
@@ -25,8 +26,6 @@ labels:
   - Pop-Art
   - Portobello Road
   - Queen
-  - Reisen
-  - Tagebuch
   - The Clash
   - The Edge
   - The Who
@@ -49,6 +48,9 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Tube Trip
   
 ---
+
+**Im März habe ich meine Freizeit für einen Kurztrip nach London genutzt. Hier
+sind einige Impressionen von meiner Reise.**
 
 <Gallery name="flickr/annelondon2012" />
 

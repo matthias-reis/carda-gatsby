@@ -12,8 +12,8 @@ focusKeyword: Katzen
 labels:
   - Chili und Oskar
   - Fotos
+  - Geschichten & Erlebtes
   - Katzen
-  - Tagebuch
 type: Galerie
 typeName: Galerie
 date: 2015-12-28T16:04:23.000Z
@@ -29,6 +29,9 @@ subTitle: Oskar und Chili vor der Kamera
   
 ---
 
+**Katzen - Wie sehr lieben wir unsere schmusigen, eigenwilligen Begleiter. Ein
+Leben ohne sie wäre möglich, aber sinnlos (Frei nach Loriot).**
+
 Auch heute sind meine Stubentiger Oskar und Chili wieder
 [im Fokus](/2015/12/stubentiger/). Dieses Mal in dem der Kamera der lieben
 Hamburger Tierfotografin Sanni [<sup>1</sup>](#1). Wie versprochen, zeige ich
@@ -38,10 +41,12 @@ Ich finde die Bilder können sich wirklich sehen lassen, oder?
 
 <Gallery name="flickr/katzensanni2015" />
 
-> Eine schlafende Katze im Zimmer oder im Haus ist ein besserer Genosse, als ein
+> Eine schlafende Katze im Zimmer oder im Haus ist ein besserer Genosse, als ein
 > nervöser, ruheloser Mensch, der sich nur um der Bewegung willen unaufhörlich
-> bewegen muß. Prentice Mulford-
-> [1][sanni bei instagram](https://www.instagram.com/sannialejo/)
-> [Hier gehts zur "ODE AN DEN KATER" Ein Text, wie er ehrlicher nicht sein könnte, gewidmet Chili und Oskar, den beiden tollsten Katern auf der Welt](/2012/08/ode-an-den-kater/)
+> bewegen muß. Prentice Mulford
+
+- [1][sanni bei instagram](https://www.instagram.com/sannialejo/)
+
+[Hier gehts zur "ODE AN DEN KATER" Ein Text, wie er ehrlicher nicht sein könnte, gewidmet Chili und Oskar, den beiden tollsten Katern auf der Welt](/2012/08/ode-an-den-kater/)
 
   

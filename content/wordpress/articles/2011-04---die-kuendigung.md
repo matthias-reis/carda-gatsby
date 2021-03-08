@@ -13,11 +13,11 @@ excerpt: Seelisch war er bereits seit längerer Zeit auf die Kündigung
 focusKeyword: Die Kündigung
 labels:
   - Arbeit
+  - Geschichten & Erlebtes
   - Humor
   - Kündigung
   - Kurzgeschichten
   - Literarisches
-  - Prosa
   - Übersinnliches
 type: Artikel
 typeName: Kurzgeschichte
@@ -34,7 +34,19 @@ subTitle: Eine Kurzgeschichte
   
 ---
 
-<hr /> __Seelisch war er schon lange Zeit darauf vorbereitet. Es hatte alles damit angefangen, dass die kleine Firma, in der er von Anfang an dabei war, von einem dieser Konzernriesen aufgekauft worden war.__
+<hr />
+
+**Hinweis:** Hin und wieder schreibe ich Kurzgeschichten. Ab und an landet auch
+eine davon hier im Blog. Diese hier ist eine davon. Jede Ähnlichkeit der in
+dieser Geschichte vorkommenden Figuren und Handlungen mit real existierenden
+Personen oder Vorkommnissen ist rein zufällig und in keiner Weise beabsichtigt.
+Die Geschichte ist frei erfunden.
+
+<hr />
+
+**Seelisch war er schon lange Zeit darauf vorbereitet. Es hatte alles damit
+angefangen, dass die kleine Firma, in der er von Anfang an dabei war, von einem
+dieser Konzernriesen aufgekauft worden war.**
 
 Seitdem hatte man ihm systematisch den Spaß an der Arbeit genommen. Zuvor hatte
 er immer alles selbstständig erarbeitet, durfte kreativ sein, eigene Ideen

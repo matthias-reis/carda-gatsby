@@ -12,13 +12,13 @@ excerpt: Werbung & Affiliate Links - Ich habe die Komplettnahrung von Mana
   dennoch Nährstoffe bekommen.
 focusKeyword: Mana
 labels:
+  - Ernährung & Gesundheit
   - Flüssignahrung
   - Mana
   - Mana Test
   - Nahrungsersatz
   - Produkttest Mana
   - vegane Flüssignahrung
-  - Vegane Produkte
 type: Artikel
 typeName: Produkttest
 date: 2020-04-14T15:46:00.000Z
@@ -123,6 +123,11 @@ gehen muss. Das kann morgens vor der Arbeit oder in der Mittagspause schon mal
 der Fall sein. Was ich nicht gedacht hätte ist, dass die 400 Kalorien-Mischung
 wirklich nachhaltig sättigt. Ich brauche bis zum Abend keine weiteren Portionen
 mehr und esse zwischendurch maximal noch ein bisschen Obst.
+
+Nachtrag vom 27. April 2020
+
+Letzte Woche ist bei Mana eine Spendenaktion für die Corona Hilfe angelaufen.
+[Schaut doch mal vorbei](https://drink-mana.de/products/energie-an-die-front) !
 
 Neben dem von mir getesteten
 [Pulver zum Anrühren](https://www.awin1.com/cread.php?awinmid=18231&awinaffid=632580&clickref=&ued=https%3A%2F%2Fdrink-mana.de%2Fcollections%2Fmana-pulver)

@@ -13,16 +13,18 @@ focusKeyword: Earthling Ed
 labels:
   - Anonymous For The Voiceless
   - AV
-  - Darum vegan
   - Earthling Ed
   - Earthlings
   - Ed Winter
+  - Ernährung & Gesundheit
   - furfree Fashion Week.
   - Hamburg
   - Land Of Hope And Glory
   - Surge
+  - Tierhaltung
   - Tierrechte
   - Tierrechte
+  - Tierschutz
   - Unity Diner
   - vegan
   - Vegan Movement
@@ -57,13 +59,11 @@ ich habe eine gestellt:
 trotzdem immer wieder in nicht-vegane Locations einladen oder Dir zum Beispiel
 Milchschokolade anbieten?"
 
-<RemoteImage
-  alt="2019-11-23-earthling-ed"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAQQF/8QAKxAAAQMDAwMCBgMAAAAAAAAAAQIDBAAFEQYSIRMiQQcxFBVRUpHBYaKx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AIVYrSw40449FiOJaAKt+/u4J8H+KeIulo5egR/l1pSuU11T2ukIGzdz3c/SlGzyQi2vDjK8j+mP3TxddSM2mX8Yob1MRFttI+5RCEgf7+KDEfRulpulry68qBGu0JDrx29TCAgDanbnnOSo8HjyDipjerSIzrSAywlTg3doUNvBPk1UfT31T6MN2yahWw1ap6ZEcyjFQtEIvYTvKDy4nIG4EjjPvxSbrGyX3Tl+RA1Ilpaw2pcaUyQWpLeMBaFD3H4I80CdDnltCEE8Z/YpmtTds1FcpbN7vKragRiYrhSC2Xs4AcPhOBRRQcK+Wm4WTMSewAgqC0vN96HBjgpWOCDWrLvFwnNQm58x59qE0WYyVnPTRnO0UUUH/9k=" />
+<RemoteImage alt={`2019-11-23-earthling-ed`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAQQF/8QAKxAAAQMDAwMCBgMAAAAAAAAAAQIDBAAFEQYSIRMiQQcxFBVRUpHBYaKx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AIVYrSw40449FiOJaAKt+/u4J8H+KeIulo5egR/l1pSuU11T2ukIGzdz3c/SlGzyQi2vDjK8j+mP3TxddSM2mX8Yob1MRFttI+5RCEgf7+KDEfRulpulry68qBGu0JDrx29TCAgDanbnnOSo8HjyDipjerSIzrSAywlTg3doUNvBPk1UfT31T6MN2yahWw1ap6ZEcyjFQtEIvYTvKDy4nIG4EjjPvxSbrGyX3Tl+RA1Ilpaw2pcaUyQWpLeMBaFD3H4I80CdDnltCEE8Z/YpmtTds1FcpbN7vKragRiYrhSC2Xs4AcPhOBRRQcK+Wm4WTMSewAgqC0vN96HBjgpWOCDWrLvFwnNQm58x59qE0WYyVnPTRnO0UUUH/9k="
+/>
 
 Ich habe Eds Antwort mitgeschrieben und werde versuchen, seinen Rat in Zukunft
 zu beherzigen:
@@ -108,13 +108,11 @@ Bevölkerung diese einfach ignoriert.
 
 ## Wir sind alle nur Menschen
 
-<RemoteImage
-  alt="2019-11-23-earthling-ed"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAArEAABAwMDAQcFAQAAAAAAAAABAgMEAAURBhIhEyIxQWGBkaEHIyRCUfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AiGmbGxKWQ7FiOBCUqUXAvnJxjg0+W7SsVxmzhNstCFXEJUkbHT0wUqVk9rnhPzShpualmI+vPJAHsCaobd7j2520vvn7VvhqWQO/stEY91Y9aDg3oHTMjTV2lTBCZuDIeKFN9UJZ6TYWBszzuyO/PiOMVJ7zaBHEbDMdKn0hWEJI25BP9qtfS/WkZybcGJse1t3i7NPxrbKkNdRMd1bYQltYVlIQshIyeDyDgYqVy37g3dF2+9Idblw1KbW08kJW0pIIKSKDFhXAtM7M/wCximOY9NuFvmPNOJZjsx9ylOA4cBKRsT5nHxRRQK6pf4xbBxlSVbh3jAOMH1ra1jrSdqyXb5dzaZEyLGEdyQhPbkEfss+PGB5c0UUH/9k=" />
+<RemoteImage alt={`2019-11-23-earthling-ed`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAArEAABAwMDAQcFAQAAAAAAAAABAgMEAAURBhIhEyIxQWGBkaEHIyRCUfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AiGmbGxKWQ7FiOBCUqUXAvnJxjg0+W7SsVxmzhNstCFXEJUkbHT0wUqVk9rnhPzShpualmI+vPJAHsCaobd7j2520vvn7VvhqWQO/stEY91Y9aDg3oHTMjTV2lTBCZuDIeKFN9UJZ6TYWBszzuyO/PiOMVJ7zaBHEbDMdKn0hWEJI25BP9qtfS/WkZybcGJse1t3i7NPxrbKkNdRMd1bYQltYVlIQshIyeDyDgYqVy37g3dF2+9Idblw1KbW08kJW0pIIKSKDFhXAtM7M/wCximOY9NuFvmPNOJZjsx9ylOA4cBKRsT5nHxRRQK6pf4xbBxlSVbh3jAOMH1ra1jrSdqyXb5dzaZEyLGEdyQhPbkEfss+PGB5c0UUH/9k="
+/>
 
 Insgesamt habe ich sehr viel mitgenommen und eine ganze Menge gelernt und jede
 Menge tolle Tipps für den Alltag bekommen. Besonders begeistert haben mich Eds
@@ -143,8 +141,8 @@ Gesellschaft aufmerksam.
 Earthling Ed lebt in London. 2014 wurde er Vegetarier, nachdem er einen Artikel
 über einen Geflügeltruck gelesen hatte, der bei Manchester verunglückt war.
 Kurze Zeit später sah er mit seiner Freundin
-[die Dokumentation "Earthlings"](http://www.earthlings.de/). Seit diesem
-Zeitpunkt leben die beiden vegan.
+[die Dokumentation "Earthlings"](/2020/07/earthlings/). Seit diesem Zeitpunkt
+leben die beiden vegan.
 
 Innerhalb der veganen Community ist er inzwischen sehr bekannt. Zeitgleich mit
 der Gründung der Tierrechtsorganisation Surge mit seiner Partnerin startete Ed

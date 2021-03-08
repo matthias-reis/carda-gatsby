@@ -12,16 +12,17 @@ excerpt: Gestern fand weltweit wieder in vielen Städten der jährliche March
   Sommerwetter.
 focusKeyword: March Against Monsanto
 labels:
+  - Antifaschismus & Feminismus
   - Artenvielfalt
   - Bayer
   - Bio
   - Biodiversität
   - biologisch
   - Chemie
-  - Darum vegan
   - Demo
   - Demonstration
   - Diversität
+  - Ernährung & Gesundheit
   - Gemüse
   - Gentechnik
   - Glyphosat
@@ -36,7 +37,6 @@ labels:
   - March Against Monsanto
   - Monsanto
   - Monsanto you have to go
-  - Politik & Soziales
   - Roundup
   - Tomaten
   - Umweltschutz
@@ -57,13 +57,12 @@ subTitle: Hamburg geht gegen Konzerngiganten auf die Straße
   
 ---
 
-<RemoteImage
-  alt="March Against Monsanto"
-  size="medium"
-  title="So sehen wir aus, wenn wir in die Sonne kucken"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_33956790264_8189787d84_b__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_33956790264_8189787d84_b__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAKRAAAQMCBgEEAgMAAAAAAAAAAQIDBAURAAYSEyExQRQiUWEHFnGBkf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCHJ0xjL2XgxVtpDQdWthcdKnEONqCV3FvtYH8/3ixLzNBhKDkyBMjtLcTs7rIQpwHs2J4H+nC3KrGuJSJM+YwpiHFstOu7bTpcIF79EaTyfOLTn70KqB6iWCY0fS5rT7wSFJII+bWvgMfr8gNuyFaZL/qnxIYZbQApRUSW0XHN7H77+cGLFQ81U+mZoirU36cN62KfKksqDbe4sFSjb55HI4BsCL3wYDp/HZlwMsNTojMZ2HKSA+XV9rSpQUCLE3Pt5t5wpzhX48qqxIdMp4hIbqEaM6hbg2lJUqxSEj2psbXVa/P0cKMnV1ylZHrQfU09ELrS2o7iCSpRCQsoIB0mx7P1hNQqL+0ZZXKkh2LDbWlK9mxUFXJSQT0Dbu2A3XMYTV8qSYkiE0wy/EWveLqDoPI6A55HY4tgwvoDIXlaFvqbkMpQtvftbkjkFPjze3kYMB//2Q==" />
+<RemoteImage alt={`March Against Monsanto`} size="medium"
+title={`So sehen wir aus, wenn wir in die Sonne kucken`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_33956790264_8189787d84_b__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_33956790264_8189787d84_b__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAKRAAAQMCBgEEAgMAAAAAAAAAAQIDBAURAAYSEyExQRQiUWEHFnGBkf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCHJ0xjL2XgxVtpDQdWthcdKnEONqCV3FvtYH8/3ixLzNBhKDkyBMjtLcTs7rIQpwHs2J4H+nC3KrGuJSJM+YwpiHFstOu7bTpcIF79EaTyfOLTn70KqB6iWCY0fS5rT7wSFJII+bWvgMfr8gNuyFaZL/qnxIYZbQApRUSW0XHN7H77+cGLFQ81U+mZoirU36cN62KfKksqDbe4sFSjb55HI4BsCL3wYDp/HZlwMsNTojMZ2HKSA+XV9rSpQUCLE3Pt5t5wpzhX48qqxIdMp4hIbqEaM6hbg2lJUqxSEj2psbXVa/P0cKMnV1ylZHrQfU09ELrS2o7iCSpRCQsoIB0mx7P1hNQqL+0ZZXKkh2LDbWlK9mxUFXJSQT0Dbu2A3XMYTV8qSYkiE0wy/EWveLqDoPI6A55HY4tgwvoDIXlaFvqbkMpQtvftbkjkFPjze3kYMB//2Q=="
+/>
 
 **Gestern fand wieder weltweit der _March Against Monsanto_ statt. Auch in
 Hamburg wurde demonstriert.**
@@ -87,13 +86,11 @@ in alle Richtungen.
 
 ## "Monsanto - You have to go!"
 
-<RemoteImage
-  alt="Monsanto"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34759540956_4ffdf55600_k__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34759540956_4ffdf55600_k__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKRAAAgEDAwIFBQEAAAAAAAAAAQIDBAURAAYhEjETIkFRYQcUMoHBcf/EABYBAQEBAAAAAAAAAAAAAAAAAAQBAv/EACMRAAIBAgQHAAAAAAAAAAAAAAECAAMRBBIhgUFRkaGxwdH/2gAMAwEAAhEDEQA/AOO7KCkg8KsoZ4pUadwY0kBJZn7qO/STk8HAzxpTua6TWaea3UjwCtWnyZHcDLNHlR0H0DZBJx/NIr9117z1dMXkpJ0XxV6AjI6c4jyfhs/7nHpqr1lfSU9XT1GKaoqFGGWZ2fuQecYHv6HvoVDCIwDPqZFyOWAYXXzy97TZbduhEgpqe4mJp2jTApVUcvjqz785JPpo0ptzUVws1tvcN1r47hUwyoIvDWYhclPzOABkkYA4/ejSaeGDA2Peau6AXF+sj7eo4rrBbIYa+mq7k9d9xNCp7p1sXLfHnX+ao+77LSUm+dzQTrEPtqp5FAwivnzBQM8cMP0NaGN1xeLG9NZ7TTuhyjiAMyn3B41mP1LE173v46xxtU1dNGWKL+bKrDOPfCgfoa1TUhiTDUcMlAsVJJY313+xtsA3i+7OutjoaYz0iyBkcHBiVpAzYHc8Ljy+rDRqNsCWvoLalbHcaqLoMkMMKMVVQSOon354+NGqVIJKxee4AbhP/9k=" />
+<RemoteImage alt={`Monsanto`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34759540956_4ffdf55600_k__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34759540956_4ffdf55600_k__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKRAAAgEDAwIFBQEAAAAAAAAAAQIDBAURAAYhEjETIkFRYQcUMoHBcf/EABYBAQEBAAAAAAAAAAAAAAAAAAQBAv/EACMRAAIBAgQHAAAAAAAAAAAAAAECAAMRBBIhgUFRkaGxwdH/2gAMAwEAAhEDEQA/AOO7KCkg8KsoZ4pUadwY0kBJZn7qO/STk8HAzxpTua6TWaea3UjwCtWnyZHcDLNHlR0H0DZBJx/NIr9117z1dMXkpJ0XxV6AjI6c4jyfhs/7nHpqr1lfSU9XT1GKaoqFGGWZ2fuQecYHv6HvoVDCIwDPqZFyOWAYXXzy97TZbduhEgpqe4mJp2jTApVUcvjqz785JPpo0ptzUVws1tvcN1r47hUwyoIvDWYhclPzOABkkYA4/ejSaeGDA2Peau6AXF+sj7eo4rrBbIYa+mq7k9d9xNCp7p1sXLfHnX+ao+77LSUm+dzQTrEPtqp5FAwivnzBQM8cMP0NaGN1xeLG9NZ7TTuhyjiAMyn3B41mP1LE173v46xxtU1dNGWKL+bKrDOPfCgfoa1TUhiTDUcMlAsVJJY313+xtsA3i+7OutjoaYz0iyBkcHBiVpAzYHc8Ljy+rDRqNsCWvoLalbHcaqLoMkMMKMVVQSOon354+NGqVIJKxee4AbhP/9k="
+/>
 
 "Monsanto - You have to go!" und "Ihr solltet wissen, dass sie uns vergiften"
 schalte es durch die Einkaufsstraßen der Hansestadt.

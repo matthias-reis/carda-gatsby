@@ -43,13 +43,11 @@ subTitle: Nur Urlaub ist schöner
 einen Ausflug gönnen. Wir haben das  heute getan. Tasche gepackt, rein in die
 S-Bahn und ab nach Wedel.**
 
-<RemoteImage
-  alt="Elbe"
-  size="small"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_42341403842_58ebdcefb6_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_42341403842_58ebdcefb6_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAdACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgUBAgcE/8QAKxAAAQQBAwIFAwUAAAAAAAAAAQIDBBEFABIhEzEGFCJBUYGRoQcyYYKx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EACIRAAEEAQMFAQAAAAAAAAAAAAEAAgMRIRJBoRMiMZHh8P/aAAwDAQACEQMRAD8AIRFeIHMG7Ey8lD2PbcbW1vWC4mjQojmua5OozMbIRegpycwsbz1ErF2igK7cEUfvpti83JVhm+mheTiytjaX3GGmtiUm7UUjtY+b9tZCzI6z78FLzSyChMH1DcD2IIIA/t899NpeMfucq+lGB3O9fARyufx4DrhcIjvOJDK1DppN2Aa7aVeEH5eLx78tkORmXXloPnm1BkgJFLSOCpV/jXkl5GKJXlIw2POkt7HiQlJom/2pH+6UZN+a3jsVDW5GdhlTbqGtg6qCSSmzXAKSONWyJ7rINULRLLHWkCwTuudyZ7kvEJfcVNUY0kBxDrqVJQQtJBHAVdXXtWtmXJTM5xphbpd6620KQCCpW8kDj3Nn7al42U5IwOYQ8orSmKhaLPKTsugfixpz+m+DZz2fynml7UJhqeKQgK3Wexux+NLVhZVlQY+Jcy+bZnTervCvKLWEKUPMbLQCa4v639b1azkCbFy7WSxrsZ0o6O1h30oQhNgkpJon0kcfxpBBwaMRjoDsCZLS/IbXJCnFBQbWEo2kCuDVWQRZCfYVoI3kp0yRJRJluONl0qUggAKLYUL455Fg8++qj1OJo43Q4tAz52X/2Q==" />
+<RemoteImage alt={`Elbe`} size="small" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_42341403842_58ebdcefb6_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_42341403842_58ebdcefb6_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAdACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgUBAgcE/8QAKxAAAQQBAwIFAwUAAAAAAAAAAQIDBBEFABIhEzEGFCJBUYGRoQcyYYKx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EACIRAAEEAQMFAQAAAAAAAAAAAAEAAgMRIRJBoRMiMZHh8P/aAAwDAQACEQMRAD8AIRFeIHMG7Ey8lD2PbcbW1vWC4mjQojmua5OozMbIRegpycwsbz1ErF2igK7cEUfvpti83JVhm+mheTiytjaX3GGmtiUm7UUjtY+b9tZCzI6z78FLzSyChMH1DcD2IIIA/t899NpeMfucq+lGB3O9fARyufx4DrhcIjvOJDK1DppN2Aa7aVeEH5eLx78tkORmXXloPnm1BkgJFLSOCpV/jXkl5GKJXlIw2POkt7HiQlJom/2pH+6UZN+a3jsVDW5GdhlTbqGtg6qCSSmzXAKSONWyJ7rINULRLLHWkCwTuudyZ7kvEJfcVNUY0kBxDrqVJQQtJBHAVdXXtWtmXJTM5xphbpd6620KQCCpW8kDj3Nn7al42U5IwOYQ8orSmKhaLPKTsugfixpz+m+DZz2fynml7UJhqeKQgK3Wexux+NLVhZVlQY+Jcy+bZnTervCvKLWEKUPMbLQCa4v639b1azkCbFy7WSxrsZ0o6O1h30oQhNgkpJon0kcfxpBBwaMRjoDsCZLS/IbXJCnFBQbWEo2kCuDVWQRZCfYVoI3kp0yRJRJluONl0qUggAKLYUL455Fg8++qj1OJo43Q4tAz52X/2Q=="
+/>
 
 Von dort aus kann man entlang des Elbweges wunderbar radwandern. Bei 30 Grad im
 Schatten macht das natürlich besonders viel Spaß. Vor allem, wenn man die
@@ -65,6 +63,8 @@ wieder zur Neige geht, sonst würde ich mich morgen schon wieder in die Fluten
 stürzen.
 
 Schaut mal weiter unten: Wir haben ein lächelndes Schaf getroffen!
+
+[Radwandern mit veganem Proviant](/2020/08/vegan-radwandern/)
 
 <Gallery name="flickr/annematze20180527" />
 

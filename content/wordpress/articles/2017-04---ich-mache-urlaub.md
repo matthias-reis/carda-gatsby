@@ -14,14 +14,14 @@ excerpt: Weil ich schon gar nicht mehr weiß, wie es sich anfühlt, richtig Urla
 focusKeyword: Urlaub
 labels:
   - Auszeit
+  - Fernweh
+  - Geschichten & Erlebtes
   - Hängematte
   - Liebe
   - Meer
   - Reise
-  - Reisen
   - Ruhe
   - Sonne
-  - Tagebuch
   - unterwegs
   - Urlaub
   - Vitamin D

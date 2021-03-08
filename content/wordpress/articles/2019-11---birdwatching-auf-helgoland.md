@@ -14,7 +14,6 @@ labels:
   - Ausflug
   - Basstölpel
   - Bird Watching
-  - Fauna
   - Helgoland
   - Insel
   - Möwen

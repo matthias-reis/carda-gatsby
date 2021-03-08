@@ -7,23 +7,22 @@ fileName: 2018-01---ashera-cosmetics.md
 description: "Ich habe jetzt die Ashéra Yin Yang Balance Produkte getestet. Der
   Clou: Ihr könnt ein luxuriöses Pflegeset gewinnen. Kommentiert am besten
   einfach!"
-excerpt: "Werbung, Anzeige & Affiliate Link - Ich habe jetzt die Ashéra Yin Yang
-  Balance Produkte getestet. Der Clou: Ihr könnt ein luxuriöses Pflegeset
-  gewinnen. Kommentiert am besten einfach!"
+excerpt: "Werbung - Ich habe jetzt die Ashéra Yin Yang Balance Produkte
+  getestet. Der Clou: Ihr könnt ein luxuriöses Pflegeset gewinnen. Kommentiert
+  am besten einfach!"
 focusKeyword: Ashéra
 labels:
   - Ashera
   - Ashera Cosmetics
   - Cruelty Free
+  - Fair Fashion & Beauty
   - gegen Tierversuche
   - Kosmetik
-  - Mode & Beauty
   - Pflege
   - Tierversuchsfrei
   - vegan
   - vegan beauty
   - vegane Kosmetik
-  - Vegane Produkte
   - Wellness
   - Yin Yang Balance
 type: Artikel
@@ -32,8 +31,7 @@ date: 2018-01-04T19:45:44.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "18799"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_6__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_6__l.jpg
@@ -42,7 +40,7 @@ subTitle: Luxus ohne Tierversuche
   
 ---
 
-Werbung, Anzeige &amp; Affiliate Link\*
+Werbung\*
 
 **Ich habe jetzt zwei Produkte von Ashéra Cosmetics getestet. Wie sie bei mir
 angekommen sind, möchte ich Euch heute gerne verraten. Außerdem verlose ich ein
@@ -55,13 +53,11 @@ Wenn das nicht interessant klingt, oder?
 
 ## Die Produktanfrage
 
-<RemoteImage
-  alt="Ashéra"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_7__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_7__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAoEAACAQQABQQCAwAAAAAAAAABAgMABAUREhMhMTIGQVFhBxVxkdH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUABP/EAB8RAQACAQQDAQAAAAAAAAAAAAEAAhESEyExBBRxkf/aAAwDAQACEQMRAD8A5ni8Y8jRpFbySsx0qIpJY/A13qlt/T99zxb/AKbIC5KlxE0EgYga2QCNnX1U5Y5O4u4FhtFkkluIxoqxMgBG979te/8AFOj+SMtjYGimOPuISY+QJINiGRT0aEA+XyRXFuZeZfPMTqp+xpd4K4g5a3WJnti0YdA6spZd+X3v5pJf4WVwxS3k18BSdVRwXWI9R2k9+kMEXqbiXmxTruGUa0qqGJKDSjWug4j096i8tNjsixJx6WssZYTRSdFQjy2BrXai3Am94TDXn7IC/wAi9pBbRQovG8Wy7dRo/X+0tgyE8V6l3IedIvbjooptaVx1I+p5m23ztyl/BcRAIVAQqD5DfT+t9KrMkj5u0uJGlkt7lQUkkjY6lUDsy+/aiil3CqBC1KZZ/9k=" />
+<RemoteImage alt={`Ashéra`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_7__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_7__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAoEAACAQQABQQCAwAAAAAAAAABAgMABAUREhMhMTIGQVFhBxVxkdH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUABP/EAB8RAQACAQQDAQAAAAAAAAAAAAEAAhESEyExBBRxkf/aAAwDAQACEQMRAD8A5ni8Y8jRpFbySsx0qIpJY/A13qlt/T99zxb/AKbIC5KlxE0EgYga2QCNnX1U5Y5O4u4FhtFkkluIxoqxMgBG979te/8AFOj+SMtjYGimOPuISY+QJINiGRT0aEA+XyRXFuZeZfPMTqp+xpd4K4g5a3WJnti0YdA6spZd+X3v5pJf4WVwxS3k18BSdVRwXWI9R2k9+kMEXqbiXmxTruGUa0qqGJKDSjWug4j096i8tNjsixJx6WssZYTRSdFQjy2BrXai3Am94TDXn7IC/wAi9pBbRQovG8Wy7dRo/X+0tgyE8V6l3IedIvbjooptaVx1I+p5m23ztyl/BcRAIVAQqD5DfT+t9KrMkj5u0uJGlkt7lQUkkjY6lUDsy+/aiil3CqBC1KZZ/9k="
+/>
 
 Da für mich an erster Stelle immer steht, ob ein Produkt vegan und crueltyfree
 ist, startete ich als erstes eine Produktanfrage. Ich teilte Ashera Cosmetics
@@ -88,13 +84,11 @@ nach."
 
 ## Der Produkttest
 
-<RemoteImage
-  alt="Ashéra"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwcF/8QAKhAAAgEDAQYFBQAAAAAAAAAAAQIDAAQRBQYSEyExQRQiUWGBYnGRodH/xAAZAQACAwEAAAAAAAAAAAAAAAADBQECBAb/xAAgEQABBAEEAwAAAAAAAAAAAAABAAIEEQMTITFBYXGB/9oADAMBAAIRAxEAPwDHdOliKrw4SwPQk4pjsPESsqxBELEAYHT5NKmiSBHaBuqc1z3U9Px0p+2autNGo20OtXiWliyPl3kESsQOS7/bJOc+gNL3AdBdZHjx24dYjr2oNaXaEPI5bBxuswIPwKpvtPju4GaJSHA8yMeY+3qKZdfutlrOeaDZ/W01W7EUbxxMQiMScFeLjB9sA+9LUsO0EGoCbW7RbO0CMYoYkzvtnGWY8yBz6YGaih9QJj4uTHbefApZfc3EsMKzxNuSr5QQOxrlT3U91KviJXlP1sTRRWpgFJOcjtMC9lCGeYShlkKvne3h6/z2rTIIbuxtV4l880bKMRLGsaDIHYc/3RRVX8hCs0v/2Q==" />
+<RemoteImage alt={`Ashéra`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwcF/8QAKhAAAgEDAQYFBQAAAAAAAAAAAQIDAAQRBQYSEyExQRQiUWGBYnGRodH/xAAZAQACAwEAAAAAAAAAAAAAAAADBQECBAb/xAAgEQABBAEEAwAAAAAAAAAAAAABAAIEEQMTITFBYXGB/9oADAMBAAIRAxEAPwDHdOliKrw4SwPQk4pjsPESsqxBELEAYHT5NKmiSBHaBuqc1z3U9Px0p+2autNGo20OtXiWliyPl3kESsQOS7/bJOc+gNL3AdBdZHjx24dYjr2oNaXaEPI5bBxuswIPwKpvtPju4GaJSHA8yMeY+3qKZdfutlrOeaDZ/W01W7EUbxxMQiMScFeLjB9sA+9LUsO0EGoCbW7RbO0CMYoYkzvtnGWY8yBz6YGaih9QJj4uTHbefApZfc3EsMKzxNuSr5QQOxrlT3U91KviJXlP1sTRRWpgFJOcjtMC9lCGeYShlkKvne3h6/z2rTIIbuxtV4l880bKMRLGsaDIHYc/3RRVX8hCs0v/2Q=="
+/>
 
 Nach nur zwei Tagen traf ein äußerst liebevoll verpacktes Päckchen aus dem Hause
 Ashéra bei mir ein. Nachdem das Unboxing der kleinen Schatzkiste für Euch
@@ -106,13 +100,11 @@ Zuerst habe ich den Reinigungsschaum genau unter die Lupe genommen. Für mich
 sind Produkte dieser Art immer sehr praktisch. Ich schminke mich seit Jahr und
 Tag mit Waschlappen ab, da ich dadurch viel Watte spare und weniger Müll mache.
 
-<RemoteImage
-  alt="Ashéra"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcC/8QAJxAAAgEEAQQBBAMAAAAAAAAAAQIDAAQFESEGEjFhIgcTMkGBweH/xAAYAQEAAwEAAAAAAAAAAAAAAAADAAIEBf/EAB8RAAICAgMAAwAAAAAAAAAAAAECAAMEERIhMRNBUf/aAAwDAQACEQMRAD8AxLdni8hCGtkvFmiDcOFI5A5JBpnFlrGeaGSK0jtlVg7LGAxI1rROxse9CkGSnDZElF2I0RPiASN8twfPmrr1Lk+np8RZW/T8EivHcaU3ECxuYvtjfcQSdmQn9kdvusdmQ7ADXRnaxcGkcSQSf2R9UG06fyxivsdM8pjilCxuoCDXHIHy3wfW6nycNhNCssVyiCRQ4WUFPI35I0atP1waLMYPCZaJHVFZ7RnZezY7A6615APeNfrms+xOSE2CiXv5jBjO/X+VLbnU79gDGqakOOj9yiZC4kivC6HRdQx4B9f1XMOSuHcKX/Lg7A8UUUqqCggfPYh0rRtPns3lmNteZa7liQKQkkhZRrgaBOhoUyhC4u0O1E7sSzMw1v8AjxRRRWe6lubFezP/2Q==" />
+<RemoteImage alt={`Ashéra`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcC/8QAJxAAAgEEAQQBBAMAAAAAAAAAAQIDAAQFESEGEjFhIgcTMkGBweH/xAAYAQEAAwEAAAAAAAAAAAAAAAADAAIEBf/EAB8RAAICAgMAAwAAAAAAAAAAAAECAAMEERIhMRNBUf/aAAwDAQACEQMRAD8AxLdni8hCGtkvFmiDcOFI5A5JBpnFlrGeaGSK0jtlVg7LGAxI1rROxse9CkGSnDZElF2I0RPiASN8twfPmrr1Lk+np8RZW/T8EivHcaU3ECxuYvtjfcQSdmQn9kdvusdmQ7ADXRnaxcGkcSQSf2R9UG06fyxivsdM8pjilCxuoCDXHIHy3wfW6nycNhNCssVyiCRQ4WUFPI35I0atP1waLMYPCZaJHVFZ7RnZezY7A6615APeNfrms+xOSE2CiXv5jBjO/X+VLbnU79gDGqakOOj9yiZC4kivC6HRdQx4B9f1XMOSuHcKX/Lg7A8UUUqqCggfPYh0rRtPns3lmNteZa7liQKQkkhZRrgaBOhoUyhC4u0O1E7sSzMw1v8AjxRRRWe6lubFezP/2Q=="
+/>
 
 Mit dem Ashéra Reinigungsschaum geht das gut von der Hand. Auch hartnäckiges
 Augen-Make-up lässt sich leicht lösen, ohne dass die Haut ausgetrocknet wird.
@@ -133,13 +125,11 @@ die Creme eine klare Empfehlung.
 
 ## Ashéra - Das steckt dahinter
 
-<RemoteImage
-  alt="Ashéra"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_6__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_6__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcA/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURABIhBjFBBxNhUXGBFCIyocH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQABBP/EAB4RAAICAwADAQAAAAAAAAAAAAECAAQDESESIjFR/9oADAMBAAIRAxEAPwCX25dtJTs3faAfxx/mqP6eUEF3uSwtCJIVQ+8SoOzIO08/I0E6bnoLvEtGsrQSMskwmZcqqrywI8eedVf0vpn6cuNyp5BLUmpip5I3VdqkEOec9uCD+RpHWTysBXHOxtZKribR9oJvyz0/UVTQRUpDLlhGq9lwSPj+Izol1pGauKhSM4VQzsfngY+/B1dbjJTydSXORigkaKJdpIDKMNgn6jzz2GftqIepE/6e/wAsK+/ErBJHV1wHOM7wMnx/emCUQMhbfNmEqqlhQr85C9luk1sXbSCNjIhjIYYYDzz85xqhdM+oJhV47y5hysZp5I0LYKEYBC4IG1SMjJz+dbW1QUK3mPs1NXTMvsIeuvVlVH1DPVWyumMbRQwv7q594IoGXHOSef25+vOjF8vMtfLvkWEEcDYmML48nsDjvra2ih2/ZGVcK6Qan//Z" />
+<RemoteImage alt={`Ashéra`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_6__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_6__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcA/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURABIhBjFBBxNhUXGBFCIyocH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQABBP/EAB4RAAICAwADAQAAAAAAAAAAAAECAAQDESESIjFR/9oADAMBAAIRAxEAPwCX25dtJTs3faAfxx/mqP6eUEF3uSwtCJIVQ+8SoOzIO08/I0E6bnoLvEtGsrQSMskwmZcqqrywI8eedVf0vpn6cuNyp5BLUmpip5I3VdqkEOec9uCD+RpHWTysBXHOxtZKribR9oJvyz0/UVTQRUpDLlhGq9lwSPj+Izol1pGauKhSM4VQzsfngY+/B1dbjJTydSXORigkaKJdpIDKMNgn6jzz2GftqIepE/6e/wAsK+/ErBJHV1wHOM7wMnx/emCUQMhbfNmEqqlhQr85C9luk1sXbSCNjIhjIYYYDzz85xqhdM+oJhV47y5hysZp5I0LYKEYBC4IG1SMjJz+dbW1QUK3mPs1NXTMvsIeuvVlVH1DPVWyumMbRQwv7q594IoGXHOSef25+vOjF8vMtfLvkWEEcDYmML48nsDjvra2ih2/ZGVcK6Qan//Z"
+/>
 
 Die Rezepturen von Ashéra binden uraltes Wissen aus der
 [Traditionellen Chinesischen Medizin](/2014/11/auf-dem-weg-zur-tiefenentspannung/)
@@ -161,13 +151,11 @@ Nacht, sprich, die Zeit der Regeneration und Entspannung.
 
 ## 24-Stunden-Pflege
 
-<RemoteImage
-  alt="Ashéra"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_4__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_4__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwb/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAITEHEhMGQVEUImEjMkKhsf/EABgBAAMBAQAAAAAAAAAAAAAAAAAEBQID/8QAHREAAgIDAQEBAAAAAAAAAAAAAQIAAwQSIREiMf/aAAwDAQACEQMRAD8AEaGIAjSf0too667Rwy09PMjsykTRBxtGxHP5wdHVHCwztp66AqYfT1znSJTK9YE79+4KIxtkcDfUfG8e8AytkrpSWkd1No4KG8SwQQQQpHKFURRhNvEpPH5JOoadSQcaauvsYls1lqTEgn+qkjZxyV8eRn540OtEyxMzjAAzrOX8XECGOu9IaSYvNxjUkSuAN8BRkj5G2mLorVzV1nkWvlkNFNXtFGhC+NpvDkBzyDjJH8crvuBkWp67yRmM4jiDBiVbLYH9gb6Q/QF8orZaHoZqyCkqUuCVkH1gYwSDwtGysyDY4YkEe407XWqt6B5Gcpd6vnstuuVzCel7JPTVkcyz1z4aOXuXIiA549xoXqfUVU8UiSTu4C/t7uRxqo6g3K1t6esdiorhJczQO9RNPTn9HuYAFVOMjAGTyff30f1EzdvakZGBg7/fj4/3RbStj7EdnPHUrV+87P/Z" />
+<RemoteImage alt={`Ashéra`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_4__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_4__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwb/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAITEHEhMGQVEUImEjMkKhsf/EABgBAAMBAQAAAAAAAAAAAAAAAAAEBQID/8QAHREAAgIDAQEBAAAAAAAAAAAAAQIAAwQSIREiMf/aAAwDAQACEQMRAD8AEaGIAjSf0too667Rwy09PMjsykTRBxtGxHP5wdHVHCwztp66AqYfT1znSJTK9YE79+4KIxtkcDfUfG8e8AytkrpSWkd1No4KG8SwQQQQpHKFURRhNvEpPH5JOoadSQcaauvsYls1lqTEgn+qkjZxyV8eRn540OtEyxMzjAAzrOX8XECGOu9IaSYvNxjUkSuAN8BRkj5G2mLorVzV1nkWvlkNFNXtFGhC+NpvDkBzyDjJH8crvuBkWp67yRmM4jiDBiVbLYH9gb6Q/QF8orZaHoZqyCkqUuCVkH1gYwSDwtGysyDY4YkEe407XWqt6B5Gcpd6vnstuuVzCel7JPTVkcyz1z4aOXuXIiA549xoXqfUVU8UiSTu4C/t7uRxqo6g3K1t6esdiorhJczQO9RNPTn9HuYAFVOMjAGTyff30f1EzdvakZGBg7/fj4/3RbStj7EdnPHUrV+87P/Z"
+/>
 
 Tagsüber wirken Ginseng, Rotwurzelsalbei und Tragantwurzel anregend. Die
 Zirkulation soll angeregt werden, die Haut dadurch gestraffter und vitaler
@@ -200,48 +188,10 @@ für Nachhaltigkeit wurde Jacqueline also in die Wiege gelegt.
 Im Jahr 2017 stellte Ashéra Cosmetics mit der Yin Yang Balance 24-Stunden-Pflege
 die ersten Produkte vor.  Von der Verpackung über den Messestand bis hin zu
 ihrer Hauptaufgabe, der Vermarktungsstrategie, begleitet und erarbeitet
-Jacqueline alles selbst.
+[Jacqueline](/2018/02/ashera-interview/) alles selbst.
 
-## \*Ashéra Verlosung - Gewinne ein hochwertiges Kosmetikset
-
-<hr />
-
-Hinweis: Die Aktion ist beendet.
-[Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
-
-<hr />
-
-<RemoteImage
-  alt="Ashéra"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_5__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_5__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBgcD/8QAKxAAAgECBAUDBAMAAAAAAAAAAQIDBBEABRIhBhMxQWEHFCIjUVKRcYGh/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAQIF/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAEQMEEiET/9oADAMBAAIRAxEAPwDA6OoSIKRGn8ljv/mLrkMk6080j00MguAC6t9MW6izC/8Ad8U2mhinVFpgSQuq7SaQGN+h2FthfbD+DiKGT2sEkLQ1EKlXeM6WYdtV+4++EGTg3VzuZNZuRyZtHEWSZdlOTZFmOV1vMjqoD7gO+vTKADt0sDuLeMUbiXiKjTLqmnnmUB42QmOH5C4se+O/qJ6rS8QenmX8M01NO9WGX6gOp30g2sAOwxlOZStM/NqJE5jIFYrvbsQR0JvvtjfzDG18gseuWU9n0RRR1jJyzp+Jb5IDYG3TDGSt93HpMQsoJBdix287Ht+sGDDBhcGRitEyI9IEsqLpNmuAevi/4+MKaqYRqojQix0j5Ejz+/tgwYsSbR5SxP/Z" />
-
-Unter allen Likes und Kommentaren hier und auf Facebook sowie Instagram verlose
-ich ein hochwertiges Set aus Gesichtspflege und Reinigungsschaum. Ich ziehe
-den/die Gewinner/in am 10. Februar, bis dahin solltet Ihr also teilnehmen.
-
-Der/die Gewinner/in willigt ein, dass seine Daten von Ashéra Cosmetics einmalig
-zur Durchführung des Gewinnspiels verarbeitet werden.
-[Die Teilnahmebedingungen bei Verlosungen findet Ihr im Blog hier](/datenschutz/teilnahmebedingungen/).
-
-<RemoteImage
-  alt=""
-  size="medium"
-  title=""
-  mediumUrl="https://www.adcell.de/promotion/view/promoId/172497/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/view/promoId/172497/slotId/80259"
-  loadingUrl="undefined" />
-
-Weitere Informationen zu den Produkten findet Ihr auf der
-[Homepage](https://www.adcell.de/promotion/click/promoId/172497/slotId/80259?param0=https%3A%2F%2Fwww.ashera-cosmetics.de%2Fshop%2F)
-](https://www.adcell.de/promotion/click/promoId/172494/slotId/80259)
-
-_Dieser Artikel enthält Werbung und Affiliate Links und entstand im Zusammenhang
-mit Trusted Blogs. Der Inhalt und meine Meinung wurden dadurch nicht
-beeinflusst.
+_Dieser Artikel enthält Werbung und entstand im Zusammenhang mit Trusted Blogs.
+Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst.
 [Für Infos dazu bitte hier klicken](https://www.trusted-blogs.com/tipps/werbekennzeichnung).
 _
 

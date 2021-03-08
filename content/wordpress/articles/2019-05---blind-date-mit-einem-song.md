@@ -14,7 +14,7 @@ focusKeyword: Papa Was A Rolling Stone
 labels:
   - Alternative
   - Äußerlichkeiten
-  - Bands & Reviews
+  - Bands
   - Britpop
   - Cross Over
   - diversity
@@ -50,7 +50,7 @@ labels:
   - Toleranz
   - Vorurteile
 type: Artikel
-typeName: Rezension
+typeName: Artikel
 date: 2019-05-30T09:00:28.000Z
 status: publish
 isWerbung: false
@@ -98,10 +98,10 @@ unternommen habe. Ich hatte das große Glück in einer sehr musikinteressierten
 Familie großzuwerden. Mein Vater hat damals Jimi Hendrixs live auf Fehmarn und
 Jethro Tull, Small Faces und Joe Cocker im legendären Marquee Club erlebt. Er
 verbrachte einen großen Teil seiner Jugend in
-[Großbritannien](/category/unterwegs/england/) und war damit sozusagen live
-dabei bei der Entstehung des Rock 'n' Roll. Ich sage das ohne zu übertreiben
-oder anzugeben. Mich als seine Tochter hat das von Anfang an geprägt - mein
-Interesse für Musik wurde mir sozusagen in die Wiege gelegt.
+[Großbritannien](/category/slow-travel/britische-inseln/) und war damit
+sozusagen live dabei bei der Entstehung des Rock 'n' Roll. Ich sage das ohne zu
+übertreiben oder anzugeben. Mich als seine Tochter hat das von Anfang an
+geprägt - mein Interesse für Musik wurde mir sozusagen in die Wiege gelegt.
 
 <iframe src="https://www.youtube.com/embed/rL7cJYSvvi8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

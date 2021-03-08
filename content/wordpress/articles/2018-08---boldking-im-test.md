@@ -13,8 +13,8 @@ excerpt: Werbung & Affiliate Links - Rasieren muss für mich irgendwie sein. Abe
 focusKeyword: Boldking
 labels:
   - Boldking
+  - Fair Fashion & Beauty
   - less plastic
-  - Mode & Beauty
   - Nachhaltigkeit
   - Nassrasierer
   - rasieren
@@ -48,13 +48,11 @@ trotzdem nach wie vor. Auch nach 20 Sitzungen wachsen noch einige Härchen an
 Stellen, an denen ich keine haben möchte. Ob sie irgendwann ganz verschwinden
 werden, ist unklar, also heißt es weiter die Klinge zücken.
 
-<RemoteImage
-  alt="Boldking"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_44172030492_21724b3653_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_44172030492_21724b3653_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQQI/8QALRAAAgIBAwIDBgcAAAAAAAAAAQIDBBEABQYSIRNBUSIxMmFxkQcUYpOhsbL/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQA/8QAIBEAAQQCAQUAAAAAAAAAAAAAAQACAxEEYTEFEiFB4f/aAAwDAQACEQMRAD8AiHP+HTbDfFmKMx7dYbCuRlYpCMlCf5Hy+mnf8Cd/n/NWNqsyxskEYlqnOGz1YKDPxDzA8tVaoJNx4lcda8Fp46sjRxWYeuOWbpPR1Dzycdv676itTbtstRR7lahoJLYAcs0MUIBx5K1kKv0CdvTTNb3hTZGU3Gou9r1PttmGWoXlRWlbGSoxj5Z1ib/JAieL0gIvZR66jNaW3LGqVbFyZAMBYGLAftwN/vWlxyO1X3kUpIrLw34zIok8RsyoM59tyx9nt2VVGFydF0VCwVPD1ASSCMtq9/E18cnmqitHFG5hQh3cD3+gPfP3H20o8n4VyGjGknBZ5oI+t3nrSpEjI7OWxGyrnpAIGCfL3nRo0gJHCufGyQU8Ajfld3CeLNRY3ue27u7XyPYpTSSeDA2ezHvhz3+EgAfPT5b36rXqR1qkaRQQr0LEihYx+lVGAAPTGjRoEk8rMjZGKYKGl//Z" />
+<RemoteImage alt={`Boldking`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_44172030492_21724b3653_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_44172030492_21724b3653_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQQI/8QALRAAAgIBAwIDBgcAAAAAAAAAAQIDBBEABQYSIRNBUSIxMmFxkQcUYpOhsbL/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQA/8QAIBEAAQQCAQUAAAAAAAAAAAAAAQACAxEEYTEFEiFB4f/aAAwDAQACEQMRAD8AiHP+HTbDfFmKMx7dYbCuRlYpCMlCf5Hy+mnf8Cd/n/NWNqsyxskEYlqnOGz1YKDPxDzA8tVaoJNx4lcda8Fp46sjRxWYeuOWbpPR1Dzycdv676itTbtstRR7lahoJLYAcs0MUIBx5K1kKv0CdvTTNb3hTZGU3Gou9r1PttmGWoXlRWlbGSoxj5Z1ib/JAieL0gIvZR66jNaW3LGqVbFyZAMBYGLAftwN/vWlxyO1X3kUpIrLw34zIok8RsyoM59tyx9nt2VVGFydF0VCwVPD1ASSCMtq9/E18cnmqitHFG5hQh3cD3+gPfP3H20o8n4VyGjGknBZ5oI+t3nrSpEjI7OWxGyrnpAIGCfL3nRo0gJHCufGyQU8Ajfld3CeLNRY3ue27u7XyPYpTSSeDA2ezHvhz3+EgAfPT5b36rXqR1qkaRQQr0LEihYx+lVGAAPTGjRoEk8rMjZGKYKGl//Z"
+/>
 
 Dabei kann man eine ganz schöne Menge Müll produzieren. Das würde ich gerne in
 Zukunft vermeiden. Aber wie? Einige würden sicher jetzt zum  **Rasierhobel**
@@ -75,13 +73,11 @@ kann nicht so schnell zerbrechen, ist langlebig und landet somit erst später in
 der Mülltonne. Menschenskinder, was sind mir schon Nassrasierer in den Händen
 zerbröselt. Irgendwie scheinen die immer eine fiese Sollbruchstelle zu haben.
 
-<RemoteImage
-  alt="Boldking"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_42412405780_2a81ba5a51_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_42412405780_2a81ba5a51_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBwMEBf/EACgQAAEEAQQBAwQDAAAAAAAAAAECAwQRBQASITEGEyJBFDJRkWFigf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8AqrEgvyENyfqG0pbUpLT6lFwmwdwIJJT/AFH2nsHvT34h44zPgwmmoza3Hir3OMiwN6uVcXwO9KuJhCPkkJlCUlxDG9Lku/XbG7bQFHakgHmiVfNdFg8b80wOJxUOOuU809H3JtmOoJFLNUfxVa1YnT8o8Qax/rx3ozB3NFSHEsgBQo8jj4OqweeQ7h5MmS+lauAt6vc1wNoINKC+P9PN91ZOU8/wE713Xsk+pa0EBTrK66rsCtJSUNsYWS1bbL7aSSd5IAKQQpy+7He5PPAA60YmqmVLVFeKpDK1uuJbK1vOKDdg8gVYH5B/eo43GPQZUeVCy0JqQwoONLpVpI6NFJB/R0aNJQy2OyOSmSJk+VDefeVucc3FO81V0lAA4/jWSKuW0whUp2M5SEMpKnFL+2k7jSbAHwSeutGjQn//2Q==" />
+<RemoteImage alt={`Boldking`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_42412405780_2a81ba5a51_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_42412405780_2a81ba5a51_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBwMEBf/EACgQAAEEAQQBAwQDAAAAAAAAAAECAwQRBQASITEGEyJBFDJRkWFigf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8AqrEgvyENyfqG0pbUpLT6lFwmwdwIJJT/AFH2nsHvT34h44zPgwmmoza3Hir3OMiwN6uVcXwO9KuJhCPkkJlCUlxDG9Lku/XbG7bQFHakgHmiVfNdFg8b80wOJxUOOuU809H3JtmOoJFLNUfxVa1YnT8o8Qax/rx3ozB3NFSHEsgBQo8jj4OqweeQ7h5MmS+lauAt6vc1wNoINKC+P9PN91ZOU8/wE713Xsk+pa0EBTrK66rsCtJSUNsYWS1bbL7aSSd5IAKQQpy+7He5PPAA60YmqmVLVFeKpDK1uuJbK1vOKDdg8gVYH5B/eo43GPQZUeVCy0JqQwoONLpVpI6NFJB/R0aNJQy2OyOSmSJk+VDefeVucc3FO81V0lAA4/jWSKuW0whUp2M5SEMpKnFL+2k7jSbAHwSeutGjQn//2Q=="
+/>
 
 Neben der robusten Bauart sind beim Boldking auch die Klingen anders, als bei
 Rasierern von anderen Herstellern. Durch ihre geschwungene Form sollen sie
@@ -99,13 +95,10 @@ bei Dauerbenutzung und Ganzkörperrasur, langlebig und können ganz leicht
 gewechselt werden. Im Lieferumfang war auch eine praktische Wandhalterung
 inbegriffen.
 
-<RemoteImage
-  alt=""
-  size="medium"
-  title=""
-  mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076PQLT7X"
-  largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076PQLT7X"
-  loadingUrl="undefined" />
+<RemoteImage alt={`} size="medium" title={`}
+mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076PQLT7X"
+largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076PQLT7X"
+loadingUrl="undefined" />
 
 Auf unnötige Verpackung aus Plastik wurde bewusst verzichtet, der Boldking kommt
 in einem Karton. Im Gegensatz zu Rasierern gängiger Marken, die im Durchschnitt
@@ -117,13 +110,10 @@ Kulturbeutel und Boxershorts von Boldking zu kaufen.
 
 ## Maskuline Optik
 
-<RemoteImage
-  alt=""
-  size="medium"
-  title=""
-  mediumUrl="https://www.adcell.de/promotion/view/promoId/173067/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/view/promoId/173067/slotId/80259"
-  loadingUrl="undefined" />
+<RemoteImage alt={`} size="medium" title={`}
+mediumUrl="https://www.adcell.de/promotion/view/promoId/173067/slotId/80259"
+largeUrl="https://www.adcell.de/promotion/view/promoId/173067/slotId/80259"
+loadingUrl="undefined" />
 
 Insgesamt ist das Outfit der Marke und damit auch die Homepage sehr maskulin.
 Für meinen Geschmack könnte sie etwas geschlechtsneutraler sein. Also bitte
@@ -136,13 +126,10 @@ schon
 [Rückenrasierer](https://www.adcell.de/promotion/click/promoId/173067/slotId/80259)
 !
 
-<RemoteImage
-  alt=""
-  size="medium"
-  title=""
-  mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076Q7C4LD"
-  largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076Q7C4LD"
-  loadingUrl="undefined" />
+<RemoteImage alt={`} size="medium" title={`}
+mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076Q7C4LD"
+largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076Q7C4LD"
+loadingUrl="undefined" />
 
 Insgesamt bin ich rundum zufrieden mit meinem Boldking. Mir gefällt die Optik,
 die Qualität überzeugt mich und das Rasurergebnis kann sich echt sehen lassen.
@@ -153,13 +140,10 @@ Empfehlung.
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_43314814235_209ca25a3d_z-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_43314814235_209ca25a3d_z-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_43314811995_e5d4714fc3_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_43314811995_e5d4714fc3_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_44220187901_60b0091a9e_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_44220187901_60b0091a9e_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_44220181351_df82d3cdb4_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_44220181351_df82d3cdb4_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_44172022012_79d5fb94a4_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_44172022012_79d5fb94a4_z__l.jpg"}]}
 />
 
-<RemoteImage
-  alt=""
-  size="medium"
-  title=""
-  mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076PQLT7X"
-  largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076PQLT7X"
-  loadingUrl="undefined" />
+<RemoteImage alt={`} size="medium" title={`}
+mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076PQLT7X"
+largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076PQLT7X"
+loadingUrl="undefined" />
 
 Online findet Ihr Boldking
 [hier](https://www.boldking.com/de?gclid=CjwKCAjwtvnbBRA5EiwAcRvnpnM0kMcWhsOzkva7IMEGUq7_mFi7JN46rYs9KL9Sy4NYs8tj7JEMjBoC3hoQAvD_BwE).

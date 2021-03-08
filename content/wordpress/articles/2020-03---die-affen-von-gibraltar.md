@@ -18,13 +18,13 @@ labels:
   - Concepión
   - Felsen Gibraltar
   - Felsen von Gibraltar
+  - Fernweh
   - Gibraltar
   - Gibraltar Affen
   - Gibraltar Felsen
   - Gibraltarfelsen
   - Makaken
   - Margot
-  - Reisen
   - Slow Travel
 type: Galerie mit Bild
 typeName: Galerie mit Bild

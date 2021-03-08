@@ -16,9 +16,10 @@ labels:
   - Bohnen
   - Borlotti Bohnen
   - Canelli Bohnen
-  - Darum vegan
   - Dicke Bohne
   - Erbsen
+  - Ernährung
+  - Ernährung & Gesundheit
   - Fajita
   - Falafel
   - Favabohne
@@ -43,7 +44,7 @@ labels:
   - Tacos
   - TK-Erbsen
   - Tofu
-  - Vegane Produkte
+  - vegane Ernährung
   - Veggie Love
   - Viehbohne
   - Zuckererbsen
@@ -75,13 +76,11 @@ zubereitet. Von Erbsen über Kichererbsen bis hin zu den ausgefallensten
 Bohnensorten gab es einiges zu probieren. Zwischendurch hatte man immer wieder
 die Möglichkeit, Fragen zu stellen.
 
-<RemoteImage
-  alt="huelsenfruechte"
-  size="medium"
-  title="Verschiedene Erbsen"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_erbsen__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_erbsen__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDAAQRBRIhBjFBEyIyURSxM5Gh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAcEQACAwADAQAAAAAAAAAAAAAAAQIRMQMEIZH/2gAMAwEAAhEDEQA/ANjurh7XQrZbeOIw3KYduSVBCkYIPHc/1XOK5uI4YbSZNtuszMhKkH457/XJrNh1pElktoIYfTS4VB6cbMRH2LAjkcfdMXPXNi88f8YBkY7kbdtGPOOy+OcVjj2I2lT+DpQe2jSGZo1gV0ZB78blIyOaq3VumfkwOzxHaYyAxXvzUJqXXGnNHGzMkTbmOYm3nBB8A/EcVESdZRTQRm9v7IIy8pCylhhcdlGccj91d8y8VaKlJRdMa6SsLee2mK3+qO0bvGqm8YqcDKn9VYBoCSmIx6lqkYkK5BnDYypPlT9UUU1EMWvOmTFtWHWLlGcNgyQwtyB59oP+1RepLHUbX1nk1myO3l3FoA548c0UUVegvMP/2Q==" />
+<RemoteImage alt={`huelsenfruechte`} size="medium" title={`Verschiedene Erbsen`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_erbsen__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_erbsen__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDAAQRBRIhBjFBEyIyURSxM5Gh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAcEQACAwADAQAAAAAAAAAAAAAAAQIRMQMEIZH/2gAMAwEAAhEDEQA/ANjurh7XQrZbeOIw3KYduSVBCkYIPHc/1XOK5uI4YbSZNtuszMhKkH457/XJrNh1pElktoIYfTS4VB6cbMRH2LAjkcfdMXPXNi88f8YBkY7kbdtGPOOy+OcVjj2I2lT+DpQe2jSGZo1gV0ZB78blIyOaq3VumfkwOzxHaYyAxXvzUJqXXGnNHGzMkTbmOYm3nBB8A/EcVESdZRTQRm9v7IIy8pCylhhcdlGccj91d8y8VaKlJRdMa6SsLee2mK3+qO0bvGqm8YqcDKn9VYBoCSmIx6lqkYkK5BnDYypPlT9UUU1EMWvOmTFtWHWLlGcNgyQwtyB59oP+1RepLHUbX1nk1myO3l3FoA548c0UUVegvMP/2Q=="
+/>
 
 Im Mittelpunkt der Veranstaltung standen die neuen
 **TK-Hülsenfrucht-Mischungen** "Mexican" mit Kidney Bohnen, schwarze Bohnen und
@@ -106,13 +105,11 @@ Konservendose schmeißt man nur eine kleine Kartonbox weg.
 
 ## Was sind eigentlich Hülsenfrüchte?
 
-<RemoteImage
-  alt="huelsenfruechte"
-  size="medium"
-  title="Schmackhafter Taco"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_taco__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_taco__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYEBQf/xAArEAABAwIFAgYCAwAAAAAAAAABAgMEBREABhITITFBBxQyUXGBFSIjU4L/xAAWAQEBAQAAAAAAAAAAAAAAAAAFBgT/xAAkEQABAwIGAgMAAAAAAAAAAAACAAEDBBEFEhMhMUFR8BQiwf/aAAwDAQACEQMRAD8AmDKWUqPTJ1HZbjPzpLW0/OkDf8uq4IHHoNx25He/TELI3hdEUqVIzREbdQSptiOFlIIvbcJSQbHsPs4scgZdW/sz5KlNQGxdlCbBUk3P7uW7c/Kre3Vmr1cTGizWaW607VWQkbal2SxqIAKz0uAdWnqe9hjB8uXKTX9/ErLRxMYhHuXD+LrOc8eG1IbqDn4MLjBLaVljWVBJPsTz7HBhkcCoGTYDsyQ6++l7TvPOla1BVz17i4vxwLm2DFHQvFPAJd8OhqoDgmKN+nV7VJtelxSzQoTdNQhPDk0AqUeyQlPp+eeBxbrhOmUSREQ5UqoiO2qO2pcmWrSEKA7lXW/bm98Kh8ZK8qLtmNStz+0srv8AadVsJtVr9Uq0pmTUpzkpxhWtpD1lNoN7j+P02+sTgYdMT/azJaHEdAs8bNf3fnlP+dKy+83Q2tbPlfLbze3a6irjUf8AIAH3gxn6J8upT/MTn1PPqsCqwAAHQADgD4wYfpg0omDwipj1Dc37X//Z" />
+<RemoteImage alt={`huelsenfruechte`} size="medium" title={`Schmackhafter Taco`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_taco__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_taco__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYEBQf/xAArEAABAwIFAgYCAwAAAAAAAAABAgMEBREABhITITFBBxQyUXGBFSIjU4L/xAAWAQEBAQAAAAAAAAAAAAAAAAAFBgT/xAAkEQABAwIGAgMAAAAAAAAAAAACAAEDBBEFEhMhMUFR8BQiwf/aAAwDAQACEQMRAD8AmDKWUqPTJ1HZbjPzpLW0/OkDf8uq4IHHoNx25He/TELI3hdEUqVIzREbdQSptiOFlIIvbcJSQbHsPs4scgZdW/sz5KlNQGxdlCbBUk3P7uW7c/Kre3Vmr1cTGizWaW607VWQkbal2SxqIAKz0uAdWnqe9hjB8uXKTX9/ErLRxMYhHuXD+LrOc8eG1IbqDn4MLjBLaVljWVBJPsTz7HBhkcCoGTYDsyQ6++l7TvPOla1BVz17i4vxwLm2DFHQvFPAJd8OhqoDgmKN+nV7VJtelxSzQoTdNQhPDk0AqUeyQlPp+eeBxbrhOmUSREQ5UqoiO2qO2pcmWrSEKA7lXW/bm98Kh8ZK8qLtmNStz+0srv8AadVsJtVr9Uq0pmTUpzkpxhWtpD1lNoN7j+P02+sTgYdMT/azJaHEdAs8bNf3fnlP+dKy+83Q2tbPlfLbze3a6irjUf8AIAH3gxn6J8upT/MTn1PPqsCqwAAHQADgD4wYfpg0omDwipj1Dc37X//Z"
+/>
 
 Hülsenfrüchte nennt man die Samen von Pflanzen, die in einer Hülse heranreifen.
 Dazu zählen unter anderem Erbsen, Bohnen, Linsen, Lupinen und Kichererbsen. Ist
@@ -140,13 +137,12 @@ denn nun eigentlich drauf? Machen sie wirklich glücklich und gesund?
 
 ## Welche Hülsenfrüchte gibt es?
 
-<RemoteImage
-  alt="huelsenfruechte"
-  size="medium"
-  title="Warmer Brotsalat mit Bohnen"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_brotsalat__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_brotsalat__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQGBwIDBf/EACkQAAEDAwMDBAIDAAAAAAAAAAECAwQABREGITESE0EUFSJhMpEzUXH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAiEQABAwMDBQAAAAAAAAAAAAABAAIDBBEhEnHxFDFBUbH/2gAMAwEAAhEDEQA/AOfpCMIVjdbs5ZmyevLyPUJSorxuVE8Vk9bTMisOTnxDuT6VkRVI60oKT5UknIxvtjkc0tarRH03EkXRDzS5sjAdbeSooAB+ISByvJPJxxT9kn225wbjeIV0CZTbfT2FoKVFQ/JONtuP3zWGasl1ERnAKZ1NJizPHvvtwkVCXYk3I3ODHS3blsoeeiPh3+T8VAYyU7jJ8UVOrJpmNcdPXK4vuPeslRF+6Qn0qA2SlSQgJ3AHSfv5UU0VeCDqF9uVFRG2NwDVCtQTrUZsFmbeobkeRdOwlNsWXS2kKHyWVgAJ+QORxitcV3TGn4Wp4j82HIet8uS+013utbiRktFCvJOQNifFVnMkIkhAmx+6UcLbUEqP+jGCfukWokNUtbhVISg5ASWgcbfRqn0YIsn614+K59R6lle5w7U28liJIjIM99O63D1AhBV4wEjI8g0VV8OWxHZDTLT7yQrqw4e2jP8AZAyT+6Kemp3QsDWrFfAByv/Z" />
+<RemoteImage alt={`huelsenfruechte`} size="medium"
+title={`Warmer Brotsalat mit Bohnen`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_brotsalat__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_brotsalat__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQGBwIDBf/EACkQAAEDAwMDBAIDAAAAAAAAAAECAwQABREGITESE0EUFSJhMpEzUXH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAiEQABAwMDBQAAAAAAAAAAAAABAAIDBBEhEnHxFDFBUbH/2gAMAwEAAhEDEQA/AOfpCMIVjdbs5ZmyevLyPUJSorxuVE8Vk9bTMisOTnxDuT6VkRVI60oKT5UknIxvtjkc0tarRH03EkXRDzS5sjAdbeSooAB+ISByvJPJxxT9kn225wbjeIV0CZTbfT2FoKVFQ/JONtuP3zWGasl1ERnAKZ1NJizPHvvtwkVCXYk3I3ODHS3blsoeeiPh3+T8VAYyU7jJ8UVOrJpmNcdPXK4vuPeslRF+6Qn0qA2SlSQgJ3AHSfv5UU0VeCDqF9uVFRG2NwDVCtQTrUZsFmbeobkeRdOwlNsWXS2kKHyWVgAJ+QORxitcV3TGn4Wp4j82HIet8uS+013utbiRktFCvJOQNifFVnMkIkhAmx+6UcLbUEqP+jGCfukWokNUtbhVISg5ASWgcbfRqn0YIsn614+K59R6lle5w7U28liJIjIM99O63D1AhBV4wEjI8g0VV8OWxHZDTLT7yQrqw4e2jP8AZAyT+6Kemp3QsDWrFfAByv/Z"
+/>
 
 Das klingt ja alles ziemlich fein! Dann mal her mit den gesunden
 Protein-Lieferanten! Welche gibt es denn?

@@ -12,6 +12,7 @@ excerpt: Karnivool spielten live in München und wir waren dabei. Seit 15 Jahren
   anders.
 focusKeyword: Karnivool
 labels:
+  - Geschichten & Erlebtes
   - Hipster
   - Hipster Konzert
   - Hipster München
@@ -23,7 +24,6 @@ labels:
   - Konzertbesuch
   - Konzerte
   - Musik
-  - Tagebuch
   - Türsteher
 type: Artikel
 typeName: Konzertbericht
@@ -40,12 +40,16 @@ subTitle: Diesmal ohne Nahaufnahmen
   
 ---
 
+**Ich habe da mal nachgerechnet: Ich gehe jetzt seit ziemlich genau 15 Jahren
+mit Spiegelreflexkameras (wechselnder Fabrikate) auf Konzerte. Auch in München.
+Bisher hat es dabei nie Probleme gegeben. Auch ohne Presseausweis nicht.**
+
 Am Sonntag dann: Hoffentlich nicht der Beginn einer neuen Ära. Zur Hochzeit
-schenkte uns mein Bruderherz die Karten für das Karnivool-Konzert im Strøm am
+schenkte uns mein Bruderherz die Karten für das Karnivool-Konzert im Strøm am
 letzten Sonntag. Wir drei freuten uns schon lange auf dieses besondere Event und
 reisten extra früh an.
 
-Bereits beim diesjährigen
+Bereits beim diesjährigen 
 [Southside Festival](//2013/07/01/southside-festival-2013/) hatten wir die Jungs
 live gesehen, waren schwer beeindruckt gewesen uns sehnten das Wiedersehen
 herbei. Nachdem wir einige Blocks entfernt einen Parkplatz ergattert hatten,
@@ -64,7 +68,7 @@ der traurig und unwissend mit dem Blondkopf schüttelte.
 
 So ging ich die knapp zwei Kilometer zurück zum Auto, um mein Baby unter dem
 Sitz zu verstauen. Zum Glück waren wir ja einigermaßen früh dran, ich verpasste
-also nichts. Zurück im Strøm sichtete ich sofort eine ziemlich überforderte
+also nichts. Zurück im  Strøm sichtete ich sofort eine ziemlich überforderte
 Jungfotografin, die verzweifelt versuchte, mit ihrer Kleinkamera mit
 Festbrennweitenobjektiv im Nachtmodus Aufnahmen zu machen. Sie wirkte regelrecht
 verzweifelt. Ich hoffe sehr, dass sie Ihr Praktikum am nächsten Tag nicht
@@ -145,7 +149,14 @@ freuen uns schon auf Russian Circles mit Dir! &lt;3
 Hier noch ein paar Beweisbilder, die ich mit meinem Mobiltelefon aufgenommen
 habe, bitte nicht auf die Qualität achten. ;-)
 
-### _PS_ _Ähnlichkeiten mit lebenden Personen sind rein zufällig und nicht beabsichtigt. ;-)_ ### _PPS_ _Natürlich werde ich Euch auch nicht verraten, was "unser Lied" is_ t.
+### _PS_
+
+_Ähnlichkeiten mit lebenden Personen sind rein zufällig und nicht beabsichtigt.
+;-)_
+
+### _PPS_
+
+_Natürlich werde ich Euch auch nicht verraten, was "unser Lied" is_ t.
 
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7968__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7968__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7973__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7973__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7976__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7976__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7980__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7980__l.jpg"}]}
@@ -158,19 +169,34 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_1
 _This is my sense of reality_ _This is proof of my coming of age_ _This is truth
 in captivity_ _This is losing a theology, I_ _I'm a soul taker_ _I'm a cruel,
 witted mind_ _This is my sense of reality_ _This is proof of my coming of age_
-_I'm a soul taker_ _I'm a cruel witted mime_ _Are you with me?_ _Are you of like
-mind?_ _Are you with me?_ _Are you of like mind?_ _We keep falling free of
-gravity_ _We just severed these umbilical wires_ _This is more than just
-affinity_ _We're moving further through an endless design_ _I'm a soul taker_
-_I'm a cruel witted mime_ _Cold long ago_ _Cold long ago_ _Cold long ago_ _Cold
-long ago_ _Come again, I feel a breakdown_ _Let's go higher_ _This is the sound
-of your_ _Reason to wake_ _Have we forgotten now?_ _Can we relate?_ _It's
-backwards, it makes no sense_ _So real that we can't pretend_ _It's backwards,
-it makes no sense_ _It's harder to just pretend_ _Say it once more_ _Say it
-again_ _Hey is this the end_ _Of all I know_ _Say it once more_ _Say it again_
-_Hey is this the end_ _Of all I know_ _Are you with me?_ _(Can we relate?)_ _Are
-you of like mind?_ _Are you with me?_ _(Can we relate?)_ _Are you of like mind?_
-_Say it once more_ _Say it again_ _Hey is this the end_ _Of all I know_ _Say it
-once more_ _Say it again_ _Hey is this the end_ _Of all I know_
+_I'm a soul taker_ _I'm a cruel witted mime_
+
+_Are you with me?_ _Are you of like mind?_ _Are you with me?_ _Are you of like
+mind?_
+
+_We keep falling free of gravity_ _We just severed these umbilical wires_ _This
+is more than just affinity_ _We're moving further through an endless design_
+_I'm a soul taker_ _I'm a cruel witted mime_
+
+_Cold long ago_ _Cold long ago_ _Cold long ago_ _Cold long ago_
+
+_Come again, I feel a breakdown_ _Let's go higher_
+
+_This is the sound of your_ _Reason to wake_ _Have we forgotten now?_ _Can we
+relate?_
+
+_It's backwards, it makes no sense_ _So real that we can't pretend_ _It's
+backwards, it makes no sense_ _It's harder to just pretend_
+
+_Say it once more_ _Say it again_ _Hey is this the end_ _Of all I know_
+
+_Say it once more_ _Say it again_ _Hey is this the end_ _Of all I know_
+
+_Are you with me?_ _(Can we relate?)_ _Are you of like mind?_ _Are you with me?_
+_(Can we relate?)_ _Are you of like mind?_
+
+_Say it once more_ _Say it again_ _Hey is this the end_ _Of all I know_
+
+_Say it once more_ _Say it again_ _Hey is this the end_ _Of all I know_
 
   

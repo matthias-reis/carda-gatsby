@@ -13,9 +13,9 @@ excerpt: Ein anstrengender Tag geht mit guter Musik zu Ende. Wieder ein paar
 focusKeyword: ""
 labels:
   - Blog
+  - Geschichten & Erlebtes
   - Incubus
   - Musik
-  - Tagebuch
   - Wochenende
 type: Artikel
 typeName: Artikel
@@ -23,12 +23,12 @@ date: 2011-02-24T20:21:38.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  noSubtitle: no h2 heading found - no sub title
+errors: {}
 thumbnailId: "379"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_02_img_9852__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_02_img_9852__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHAgT/xAAoEAACAQMEAQQBBQAAAAAAAAABAgMEBREABhIhQRMxUWEyBxQVcZH/xAAYAQACAwAAAAAAAAAAAAAAAAACBAABA//EACQRAAIBAwIGAwAAAAAAAAAAAAECAAMRIQUSBBMiM0FxgaHw/9oADAMBAAIRAxEAPwCwU9O80KwuJOsZOASP6OtXYtBZjNdqxVWmkdFliURO0ZHJVAOQWBBH3rvsdVTXGgp6qlyscsYdQVwwB+dTr9dGijmsTS1Cqo9QhGYdMrIVYAn8u+j9aHcRlfqWihiBGW099Bv5Va95ZqCKL1EhEBDQqzNhC/EKT0p/InJPQ86oJLlcaa4tbPQL4U5Zg4BLDro59uz9jGpTYy9UK3040NKImQSgc1WQA8VfJODjlgnyfOdWLb7Dbm0+c8avWyOC8SN2WY5BKjJUH3xgEe2hRb0OdVPVkfh6m/FJTSoSmF8X9RFt6+VNB6UKBXiLgBT1xHkD60m3RBT37e1dQXqFaqGmMbRrjC5kXole8lfHg/GjRotAqMxZScRVSdsUvsmhte5TLbitNDFKglgiQhJeYyfcnHxjsfQ1TNgUcSWGC6BV/d1il2YDHEAkcR/mdGjT2p9ymvixPziS12E//9k=
+subTitle: Tagebucheintrag
   
 ---
 
@@ -38,10 +38,8 @@ am Wochenende auch so sein. Wunderbares Ausflugswetter. Schön, dass morgen
 Freitag ist. Nur noch ein Achtstundentag liegt zwischen mir und diesen zwei
 Tagen Freiheit.
 
-**Song des Tages:** Incubus - Wish You Where Here
+## Song des Tages: Incubus - "Wish You Where Here"
 
-[youtube=http://www.youtube.com/watch?v=Nw382Q_6LgM]
-
----
+<iframe src="https://www.youtube.com/embed/8295rOMvtQI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
   

@@ -13,15 +13,14 @@ excerpt: Die Instrumental Post-Rock Band Ranges aus Montana hat pünktlich zum
 focusKeyword: ranges
 labels:
   - A Thousand Arms
-  - Bands & Reviews
-  - Dunk
+  - Bands
   - Montana
   - Musik
-  - Post Rock
+  - Post-Rock
   - Postrock
   - Ranges
 type: Artikel
-typeName: Artikel
+typeName: Review
 date: 2019-04-15T08:35:05.000Z
 status: publish
 isWerbung: false

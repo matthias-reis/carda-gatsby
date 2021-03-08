@@ -9,10 +9,10 @@ excerpt: Eine Liste seltsamer Suchbegriffe, die Menschen auf meine Seite geleite
 focusKeyword: Suchbegriffe
 labels:
   - cardamonchai
+  - Geschichten & Erlebtes
   - Google+
   - Suchbegriffe
   - suche
-  - Tagebuch
 type: Artikel
 typeName: Artikel
 date: 2011-05-25T10:05:12.000Z
@@ -27,6 +27,9 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Hitliste der Suchbegriffe, die auf cardamonchai.com führten
   
 ---
+
+**Die folgenden seltsamen Suchbegriffe führten im Laufe der Zeit Leser auf mein
+Weblog:**
 
 1.) Etwas Interessantes 2.) Kippen in Geranien 3.) Wie sehen die Rosen aus, die
 Jungen den Mädchen zum amerikanischen Abschlussball schenken? 4.) Rockkonzert

@@ -12,8 +12,9 @@ excerpt: Bei mystisch verhangenem Himmel hatten wir am 11. Oktober letzten
   präsent.
 focusKeyword: Gap Of Dunloe
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
   - Crying Game
+  - Fernweh
   - Gap Of Dunloe
   - Ireland
   - Irland
@@ -24,7 +25,6 @@ labels:
   - NICK CAVE
   - Pferde
   - Pferde in Irland
-  - Reisen
   - Schafe
   - sheep
   - Sheep May Savely Graze

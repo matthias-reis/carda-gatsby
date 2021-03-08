@@ -10,11 +10,11 @@ excerpt: Tierversuche sind grausam und unnötig. So lässt sich herausfinden,
   welche Produkte  und Zusatzstoffe wirklich nicht an Tieren getestet werden.
 focusKeyword: Tierversuche
 labels:
-  - Darum vegan
+  - Fair Fashion & Beauty
   - Kosmetik
   - PETA
-  - Politik & Soziales
   - Tiere
+  - Tierrechte
   - Tierschutz
   - Tierversuche
 type: Artikel
@@ -32,17 +32,19 @@ subTitle: Wie kann ich erkennen, welche Produkte nicht an Tieren getestet wurden
   
 ---
 
+**Leider leiden trotz unserer vermeintlich aufgeklärten Gesellschaft noch
+täglich tausende unschuldige Tiere Höllenqualen.**
+
 Jeder kann einen Beitrag zum Tierschutz leisten, indem er tierversuchsfreie
 Kosmetik benutzt. Das ist leider oft nicht so einfach, da auf den Produkten
 keine Vermerke stehen, die auf Tierversuche hinweisen.
 
-<RemoteImage
-  alt="Demonstration gegen Tierversuche Bild: PETA"
-  size="medium"
-  title="[ ](/wp-content/uploads/2011/02/tierversuche-demo-covance-2006-21.jpg)  Demonstration gegen Tierversuche Bild: PETA"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_02_tierversuche-demo-covance-2006-21__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_02_tierversuche-demo-covance-2006-21__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQQHCP/EACUQAAEDAwQDAQEBAQAAAAAAAAECAwQFESEABhIxBxNBIpEUFf/EABcBAAMBAAAAAAAAAAAAAAAAAAADBAH/xAAiEQABAwMDBQAAAAAAAAAAAAABAAIRAyFBEiIxMmGBsfD/2gAMAwEAAhEDEQA/AE6lt1BuFXZEd2ahbcsIWkrBW0o8bFXaTkWJPWNFcjVuEtcaVVkPqLa+QASpJSE3434jOTfrrWx9gbapdfLTkmEhqIYiXn2w4pCXSopAKVJJ5BKxknJsPmNXnkbZNBjeM5L9MQn/AKlLjqfE72KK1EkF32HtSVAKOerYtoNO8q4VqUNZpBuZMYwMd5XPjc7cNUqj0ZyrvPvTG24bjbNluvBJJQjifoKjnvJ1Z1aTKitKjt1AqnKd9MiO9ES24weiVC5/oP8ANMGxNtO16WutSalFZYjylj2pZUtTjqkJ5LSk2AHFwgEnBHWmbyDseNEpVNlbZD8wSn1ibIlesvAqsS4FnjcW5AAk2sLDTIGnp8ykOLGvcBx9xf2otjbkakVxELZUphh9yK43/nlOtvpCeXsN7HAB61ceRaluQbNdj1iqUlujzAtLqojQCnvwpXr5KJGePz590aNMcBCmDiblKHgpdXrUWoU+FIZiw0NJluIdaBUXlrU2f2M2CUD89ZvrP8qbo3JtOuUBT87kp6JLCIzf4jocH4SopFyvBBz9t1m5o1jRsCCbr//Z" />
+<RemoteImage alt={`Demonstration gegen Tierversuche Bild: PETA`} size="medium"
+title={`[ ](/wp-content/uploads/2011/02/tierversuche-demo-covance-2006-21.jpg) Demonstration gegen Tierversuche Bild: PETA`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_02_tierversuche-demo-covance-2006-21__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_02_tierversuche-demo-covance-2006-21__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQQHCP/EACUQAAEDAwQDAQEBAQAAAAAAAAECAwQFESEABhIxBxNBIpEUFf/EABcBAAMBAAAAAAAAAAAAAAAAAAADBAH/xAAiEQABAwMDBQAAAAAAAAAAAAABAAIRAyFBEiIxMmGBsfD/2gAMAwEAAhEDEQA/AE6lt1BuFXZEd2ahbcsIWkrBW0o8bFXaTkWJPWNFcjVuEtcaVVkPqLa+QASpJSE3434jOTfrrWx9gbapdfLTkmEhqIYiXn2w4pCXSopAKVJJ5BKxknJsPmNXnkbZNBjeM5L9MQn/AKlLjqfE72KK1EkF32HtSVAKOerYtoNO8q4VqUNZpBuZMYwMd5XPjc7cNUqj0ZyrvPvTG24bjbNluvBJJQjifoKjnvJ1Z1aTKitKjt1AqnKd9MiO9ES24weiVC5/oP8ANMGxNtO16WutSalFZYjylj2pZUtTjqkJ5LSk2AHFwgEnBHWmbyDseNEpVNlbZD8wSn1ibIlesvAqsS4FnjcW5AAk2sLDTIGnp8ykOLGvcBx9xf2otjbkakVxELZUphh9yK43/nlOtvpCeXsN7HAB61ceRaluQbNdj1iqUlujzAtLqojQCnvwpXr5KJGePz590aNMcBCmDiblKHgpdXrUWoU+FIZiw0NJluIdaBUXlrU2f2M2CUD89ZvrP8qbo3JtOuUBT87kp6JLCIzf4jocH4SopFyvBBz9t1m5o1jRsCCbr//Z"
+/>
 
 Listen mit Kosmetikfirmen, die Ihre Produkte garantiert NICHT an Tieren testen
 sind zu finden unter:
@@ -56,7 +58,7 @@ sowie unter:
 Unter den angegebenen Links sind auch einige weitere wichtige Informationen für
 Tierschützer zu finden.
 
-Viele Firmen befinden sich auch in einer Art „Grauzone“. Häufig treffen z. B.
+Viele Firmen befinden sich auch in einer Art „Grauzone“. Häufig treffen z. B.
 Aussagen zu einzelnen Produkten nicht auf die komplette Produktpalette eines
 Konzerns zu.
 
@@ -76,8 +78,11 @@ anderes Unternehmen durchführen lässt.
 Vorsicht ist auf jeden Fall geboten!
 
 **Quellen:**
+
 [http://tierschutz-tierrechte.suite101.de/article.c...](http://tierschutz-tierrechte.suite101.de/article.cfm/tierversuchsfreie_kosmetik)
+
 [http://www.peta.de/web/kosmetik.1724.html](http://www.peta.de/web/kosmetik.1724.html)
+
 Merken
 
   

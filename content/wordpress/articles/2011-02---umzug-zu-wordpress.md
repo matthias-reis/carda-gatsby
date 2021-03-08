@@ -14,7 +14,7 @@ focusKeyword: Wordpress
 labels:
   - Beiträge
   - Blog
-  - Tagebuch
+  - Geschichten & Erlebtes
   - Umzug
 type: Artikel
 typeName: Artikel
@@ -33,7 +33,7 @@ subTitle: <img class="alignright size-medium wp-image-271"
   
 ---
 
-Ich habe dieses Weblog schon vor einiger Zeit angelegt und werde es nun endlich
+Ich habe dieses Weblog schon vor einiger Zeit angelegt und werde es nun endlich
 nutzen. Zuerst möchte ich meine Beiträge, die ich von 2008 bis heute für einen
 kleinen Verlag geschrieben habe, hier veröffentlichen.
 

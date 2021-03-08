@@ -13,10 +13,10 @@ excerpt: "Ich wünsche Euch allen frohe Festtage! Ich habe für Euch eine kleine
 focusKeyword: Weihnachtsgrüße
 labels:
   - Festtage
+  - Geschichten & Erlebtes
   - Hamburg
   - Liebe
   - Postkarten
-  - Tagebuch
   - Weihnachten
   - Weihnachtsgrüße
   - Weihnachtskarten

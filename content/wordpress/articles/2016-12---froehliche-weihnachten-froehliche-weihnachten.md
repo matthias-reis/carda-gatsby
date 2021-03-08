@@ -13,8 +13,8 @@ excerpt: Seid Ihr auch so nachdenklich gerade? Ich habe versucht, die aktuelle
 focusKeyword: Weihnachten
 labels:
   - Gedanken
+  - Geschichten & Erlebtes
   - Lyrik
-  - Prosa
   - Weihnachten
   - zu Hause
   - Zuhause
@@ -33,13 +33,11 @@ subTitle: Gedanken zum Fest
   
 ---
 
-<RemoteImage
-  alt="Weihnachten"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31276685365_778c95b603_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31276685365_778c95b603_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwj/xAAsEAACAgEEAQIDCQEAAAAAAAABAgMRBAAFEiExBlETQXEHFRYiYYGRscHw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQMCBP/EACERAAICAAUFAAAAAAAAAAAAAAECABEDBBMhQRIiMVFh/9oADAMBAAIRAxEAPwBdu227tse+GIbJLlwwxGFZsdwqMB0DRa/18aWfiLeI8d4WwsqNFQBEWDlVX2T89UMv2lfCgghzth3DJ4VymGeJL8gErxU0Ax97oartq24T5+PIk3GGWIlOCLbi78sOvb+RpTL9tEHb2YYmYIYeN/k58z9wyBmSnJOSnKRmMZHALZBrtf8Ar0FHE+5Y4nXKxIEjBtcjMKvQPXQQ+2tX9f8Ap+GJcqGOeCTJjktkHTCvIuj4H9ayfMxJoJfhxFx8vNX/AJqmmF4mdRm5lLkTSSLXxm6HZBoaHgz87bGZsHMljF3StQvzdaWZGQQgZDfvZ0ONyKoQ48+TeuhjIASkb1Y87v8AekZynkVozJyo8W6IK9X1+9aBzNzxJPyxRqi3wVUSuC/TqvppC0qSjkpGhpyCPC2O+utCtQqLL1G5/9k=" />
+<RemoteImage alt={`Weihnachten`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31276685365_778c95b603_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31276685365_778c95b603_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwj/xAAsEAACAgEEAQIDCQEAAAAAAAABAgMRBAAFEiExBlETQXEHFRYiYYGRscHw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQMCBP/EACERAAICAAUFAAAAAAAAAAAAAAECABEDBBMhQRIiMVFh/9oADAMBAAIRAxEAPwBdu227tse+GIbJLlwwxGFZsdwqMB0DRa/18aWfiLeI8d4WwsqNFQBEWDlVX2T89UMv2lfCgghzth3DJ4VymGeJL8gErxU0Ax97oartq24T5+PIk3GGWIlOCLbi78sOvb+RpTL9tEHb2YYmYIYeN/k58z9wyBmSnJOSnKRmMZHALZBrtf8Ar0FHE+5Y4nXKxIEjBtcjMKvQPXQQ+2tX9f8Ap+GJcqGOeCTJjktkHTCvIuj4H9ayfMxJoJfhxFx8vNX/AJqmmF4mdRm5lLkTSSLXxm6HZBoaHgz87bGZsHMljF3StQvzdaWZGQQgZDfvZ0ONyKoQ48+TeuhjIASkb1Y87v8AekZynkVozJyo8W6IK9X1+9aBzNzxJPyxRqi3wVUSuC/TqvppC0qSjkpGhpyCPC2O+utCtQqLL1G5/9k="
+/>
 
 **Kurz vor Jahresende. Menschen haben Muße zu schreiben. Briefe, Postkarten,
 Grüße und sogar Reden. Entstehen, werden verschickt, gelesen, vorgetragen,
@@ -80,13 +78,11 @@ Jahr.
 Auf dem Balkon blüht ein kleiner Krokus. Gestern noch zart und zögerlich, heute
 schon kräftiger. Hofft auf das Frühjahr und verkühlt sich.
 
-<RemoteImage
-  alt="Weihnachten"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31117999676_031983210c_z-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31117999676_031983210c_z-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgP/xAArEAACAQMDAwMCBwAAAAAAAAABAgMEBREABhIhMUEHE2FRkSMzQlJxgcH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAcEQEAAwACAwAAAAAAAAAAAAABAAIREiEDE0H/2gAMAwEAAhEDEQA/AGNvntosyGalmWqIHunjkHP6lOO2Rp9t6hpq6NUoD+KewlLL0+vYAnUI2hcr/bnRdqX2ppW4HlBJmRCAc/lkMME/GqfBfN8PDckuMtFLNBAGU04anYsQT2ZSvbPgaVfN7DqS1ODjNvb9hVE19aou1PTiBenIxA8wfls/5rTRbRsFvqpHWGCNSpaSIw8lzjy5H8dANQ+9eot5s7yCttF0hlijVpS9QiqoYsFPIR4IODg5xrg/qDFXV9HTywQyGRWkdzc5Gj4cSADxToc48fTxrKze0QBJ7s29RWWukkLuqshWZlXLMPA+NaWj3upq6qcSB0liEXBnz+8E/Yj7aNGhyQyNBY+sPqS0W4quvqo6Z6OemgiaNwGASNpT/fVuoOlLbX2bX3lZIbzWQUdUj8o4wg9hirMDyPcBsdCvbz00aNLOtIPs/9k=" />
+<RemoteImage alt={`Weihnachten`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31117999676_031983210c_z-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31117999676_031983210c_z-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgP/xAArEAACAQMDAwMCBwAAAAAAAAABAgMEBREABhIhMUEHE2FRkSMzQlJxgcH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAcEQEAAwACAwAAAAAAAAAAAAABAAIREiEDE0H/2gAMAwEAAhEDEQA/AGNvntosyGalmWqIHunjkHP6lOO2Rp9t6hpq6NUoD+KewlLL0+vYAnUI2hcr/bnRdqX2ppW4HlBJmRCAc/lkMME/GqfBfN8PDckuMtFLNBAGU04anYsQT2ZSvbPgaVfN7DqS1ODjNvb9hVE19aou1PTiBenIxA8wfls/5rTRbRsFvqpHWGCNSpaSIw8lzjy5H8dANQ+9eot5s7yCttF0hlijVpS9QiqoYsFPIR4IODg5xrg/qDFXV9HTywQyGRWkdzc5Gj4cSADxToc48fTxrKze0QBJ7s29RWWukkLuqshWZlXLMPA+NaWj3upq6qcSB0liEXBnz+8E/Yj7aNGhyQyNBY+sPqS0W4quvqo6Z6OemgiaNwGASNpT/fVuoOlLbX2bX3lZIbzWQUdUj8o4wg9hirMDyPcBsdCvbz00aNLOtIPs/9k="
+/>
 
 &nbsp;
 

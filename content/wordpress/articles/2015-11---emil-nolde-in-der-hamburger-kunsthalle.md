@@ -16,7 +16,6 @@ labels:
   - Hamburg
   - Hamburger Kunsthalle
   - Kunst
-  - Kunst
   - Kunst in Hamburg
   - Kunsthalle Hamburg
   - Museum
@@ -35,6 +34,11 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Instagram-Galerie
   
 ---
+
+**Wie [angekündigt](/2015/11/ein-besuch-in-…ger-kunsthalle/), habe ich von
+unserem Besuch in der Hamburger Kunsthalle letzte Woche noch was mitgebracht.
+Heute lüfte ich das Geheimnis und präsentiere Euch eine kleine Instagram-Galerie
+mit Fotos von der Emil Nolde Sonderausstellung.**
 
 Im Anschluss findet Ihr dann noch ein paar Informationen über den norddeutschen
 Künstler.

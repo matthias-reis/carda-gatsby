@@ -17,11 +17,11 @@ labels:
   - Bali Tempel Tempel
   - Bali-Trip
   - Besakih
+  - Fernweh
   - Goa Lawah
   - Hinduismus
   - Hinduistische Tempel
   - Kintamani
-  - Reisen
   - Religion
   - Taman Ayun
   - Tanah Lot
@@ -41,6 +41,8 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Unsere große Reise - Teil VI
   
 ---
+
+## Von Besakih und Goah Lawah über Kintamani nach Taman Ayun und Tanah Lot
 
 Wer die Insel der Götter bereist, sollte dort auf jeden Fall auch den ein oder
 anderen Tempel besuchen. Auf unserer Reise durch das Land haben wir einige

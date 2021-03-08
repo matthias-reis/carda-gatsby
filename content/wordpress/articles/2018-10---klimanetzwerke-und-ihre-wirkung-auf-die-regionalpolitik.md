@@ -123,12 +123,10 @@ Pressemitteilung: Henner Busch,
 [Universität Lund](https://www.lunduniversity.lu.se/), Department of Human
 Geography
 
-<RemoteImage
-  alt="Klimanetzwerke"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_Lund.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_Lund.png__l.jpg"
-  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAHCAYAAABp0096AAAACXBIWXMAAAsTAAALEwEAmpwYAAABr0lEQVQoz32T3ytDYRjHn838alLOGbWksYzIIpRkNFuTtiyFrMjOIS5Icqf82M7BhhtyaeNPcO+v43O299TSuPj0PM/7Pu/7/Z7nnCMVQ5OqqYeqhrb6burZqqkliQEQj9xKm+/KK1IWkSJYCje3XTx1LPkbu3n+sa8PIbaOgWXMLGAmTZ2iDj5sDtL0Kj7vDbHwn4GGS4t/CP82oGqE0jCMeBh2IAGpd1OLxSLbNN1FRJ6Zxh15SV1w6wi1qgv90A+9Uutx9go+kXvVfy313FZ7OSd3znaIPGLA1OIIRhE8xMgR+dRbXgtRz39/CY2lAyYQ4sA6B7PEU8RXiOfUi+Q9xGNYBadni70N4i4QrR04IzdgD9KqN1frZ+QpRNcQzzL6M8hAsmLoCX/7JW7Ls16PNULzHIzCEBcOwzR5sP7UdgbGIABRTPURQ2oynLUm1dlxYK2oQxfrA4LYBFPIYWIFE0vEGPUGxiJPW9whL03ec7P3+7unWa9Lw3dSyeuOiUnnI0R4pmroccYfJpfPkzbp7rzgL7gHuwFL4X75dgvvV9W1ffev8DT0urjrNX4AgKqmOpw9Ui4AAAAASUVORK5CYII=" />
+<RemoteImage alt={`Klimanetzwerke`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_Lund.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_Lund.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAHCAYAAABp0096AAAACXBIWXMAAAsTAAALEwEAmpwYAAABr0lEQVQoz32T3ytDYRjHn838alLOGbWksYzIIpRkNFuTtiyFrMjOIS5Icqf82M7BhhtyaeNPcO+v43O299TSuPj0PM/7Pu/7/Z7nnCMVQ5OqqYeqhrb6burZqqkliQEQj9xKm+/KK1IWkSJYCje3XTx1LPkbu3n+sa8PIbaOgWXMLGAmTZ2iDj5sDtL0Kj7vDbHwn4GGS4t/CP82oGqE0jCMeBh2IAGpd1OLxSLbNN1FRJ6Zxh15SV1w6wi1qgv90A+9Uutx9go+kXvVfy313FZ7OSd3znaIPGLA1OIIRhE8xMgR+dRbXgtRz39/CY2lAyYQ4sA6B7PEU8RXiOfUi+Q9xGNYBadni70N4i4QrR04IzdgD9KqN1frZ+QpRNcQzzL6M8hAsmLoCX/7JW7Ls16PNULzHIzCEBcOwzR5sP7UdgbGIABRTPURQ2oynLUm1dlxYK2oQxfrA4LYBFPIYWIFE0vEGPUGxiJPW9whL03ec7P3+7unWa9Lw3dSyeuOiUnnI0R4pmroccYfJpfPkzbp7rzgL7gHuwFL4X75dgvvV9W1ffev8DT0urjrNX4AgKqmOpw9Ui4AAAAASUVORK5CYII="
+/>
 
   

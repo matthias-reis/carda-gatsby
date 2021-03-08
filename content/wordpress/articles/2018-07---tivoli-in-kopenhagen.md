@@ -13,9 +13,9 @@ excerpt: Reist man durch Dänemark, sollte man auch dem weltberühmten
 focusKeyword: Tivoli
 labels:
   - Dänemark
+  - Fernweh
   - Karussell
   - Kopenhagen
-  - Reisen
   - Schweden2018
   - Skandinavien
   - Tivoli

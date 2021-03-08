@@ -16,15 +16,14 @@ labels:
   - Baumwolle
   - Bio-Baumwolle
   - Fair Fashion
+  - Fair Fashion & Beauty
   - GOTS
   - Herbst
   - Hoodie
   - Living Crafts
-  - Mode & Beauty
   - Nicki
   - organic textiles
   - vegane Kleidung
-  - Vegane Produkte
   - Velour
 type: Artikel
 typeName: Produkttest
@@ -69,13 +68,11 @@ ist so ziemlich alles dabei, was man sich vorstellen kann.
 
 ## Hoodie und Shirt von Living Crafts
 
-<RemoteImage
-  alt="living-crafts"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-35__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-35__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQL/xAAoEAACAgEEAgIBBAMAAAAAAAABAgMEEQAFBiESMSJxQQdRYaETFRb/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAIxEAAgIBAwMFAAAAAAAAAAAAAQIAAxEEEiETImExQnGx8P/aAAwDAQACEQMRAD8AUuH8RhubntdOCOWWOaszWJ4VMhJDHsD34qVAYn9/Q1VKvFmqbHtrTVi81CY25QjZEuYmBXJ6XPwCjAJBOdTHh253KF+pbiqTWJKbBocOGwPkSOuvbA/vkao3MuY3I6k9mnDuI8IoikkFeRlhIjI8nLpgHDMD9HvS9PSb22r6/QkttopG9gT4Ey+V7Dtl+1uFNhJFNWhMySfJVbwIV17LeRBIwRgEA9D2ULkNOCpeqv5O8Mg/yFCPLAAGCv0e8fWtPinLVNc3rsKXluqKzx2CqOg88N8lHyz7weznXPNbo/1zSVcxxqzogX8KHPY/Pofx/Wk6jS26cozDG7nj95EPr03Oy0+3g/I4izxH9Qb9+avRuQLZrTEI8VhvONguT2uO8/eqjxDnVXdpbFf/AJ2nUjggJArSFQfQ9EHrs9f3o0aG9iuMTSqAbOYq86p7LQ4lt+4bZsNGpNJIkhCM7LlvLJwzEZ6HeNTa1vNqzBIsjsVK5A8s/n+fvRo0TMWbuOZOyKACBP/Z" />
+<RemoteImage alt={`living-crafts`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-35__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-35__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQL/xAAoEAACAgEEAgIBBAMAAAAAAAABAgMEEQAFBiESMSJxQQdRYaETFRb/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAIxEAAgIBAwMFAAAAAAAAAAAAAQIAAxEEEiETImExQnGx8P/aAAwDAQACEQMRAD8AUuH8RhubntdOCOWWOaszWJ4VMhJDHsD34qVAYn9/Q1VKvFmqbHtrTVi81CY25QjZEuYmBXJ6XPwCjAJBOdTHh253KF+pbiqTWJKbBocOGwPkSOuvbA/vkao3MuY3I6k9mnDuI8IoikkFeRlhIjI8nLpgHDMD9HvS9PSb22r6/QkttopG9gT4Ey+V7Dtl+1uFNhJFNWhMySfJVbwIV17LeRBIwRgEA9D2ULkNOCpeqv5O8Mg/yFCPLAAGCv0e8fWtPinLVNc3rsKXluqKzx2CqOg88N8lHyz7weznXPNbo/1zSVcxxqzogX8KHPY/Pofx/Wk6jS26cozDG7nj95EPr03Oy0+3g/I4izxH9Qb9+avRuQLZrTEI8VhvONguT2uO8/eqjxDnVXdpbFf/AJ2nUjggJArSFQfQ9EHrs9f3o0aG9iuMTSqAbOYq86p7LQ4lt+4bZsNGpNJIkhCM7LlvLJwzEZ6HeNTa1vNqzBIsjsVK5A8s/n+fvRo0TMWbuOZOyKACBP/Z"
+/>
 
 Nachdem mir gefiel, was ich im Onlineshop entdeckte, entschied ich mich zum
 Ausprobieren für zwei schöne Teile aus der neuen Herbst-Winter-Kollektion: den
@@ -119,13 +116,11 @@ heißt es
 > glauben, dass nur unter dieser Maxime Transparenz und Nachhaltigkeit entstehen
 > kann."
 
-<RemoteImage
-  alt="living-crafts"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-15__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-15__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAEBgf/xAAoEAACAQMEAAYCAwAAAAAAAAABAgMEBREAEiExExQiQVFxBsFhgaH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAABAv/EAB4RAAICAgIDAAAAAAAAAAAAAAABAgMREhMhImHx/9oADAMBAAIRAxEAPwDxey27xqpht4Q71OPT7d/0DroLvSGpcsiYLIm4RJlVHC7mx0DxydC2y+XClqFFDG9ZH6QFk29gEn+R8+2nKatvlmpI3nhqnWRmCwso9S7NxXcvJHXHOO9Zrp3liPsUm9fJs52vpI4KpxueQHkMh2g6tKyVtpr1jkW5S21lXa9PWQAurDvByAR/vzq0N1oKqpjlkpKaqhMQhjgJT4JP3jAGT96DA8p+R1Pl56o7Y5hG0qNjbhBlQeu2X6A71oslzPgRDc6HIOTgjP7z+tI1NxgdWVkQN0pYbsj4BI1abQ5qpLsAqr5DJM/jPKpDEjHvnGTwPnVrLcZ42lBVYyxHOMatTGQfEl8P/9k=" />
+<RemoteImage alt={`living-crafts`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-15__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-15__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAEBgf/xAAoEAACAQMEAAYCAwAAAAAAAAABAgMEBREAEiExExQiQVFxBsFhgaH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAABAv/EAB4RAAICAgIDAAAAAAAAAAAAAAABAgMREhMhImHx/9oADAMBAAIRAxEAPwDxey27xqpht4Q71OPT7d/0DroLvSGpcsiYLIm4RJlVHC7mx0DxydC2y+XClqFFDG9ZH6QFk29gEn+R8+2nKatvlmpI3nhqnWRmCwso9S7NxXcvJHXHOO9Zrp3liPsUm9fJs52vpI4KpxueQHkMh2g6tKyVtpr1jkW5S21lXa9PWQAurDvByAR/vzq0N1oKqpjlkpKaqhMQhjgJT4JP3jAGT96DA8p+R1Pl56o7Y5hG0qNjbhBlQeu2X6A71oslzPgRDc6HIOTgjP7z+tI1NxgdWVkQN0pYbsj4BI1abQ5qpLsAqr5DJM/jPKpDEjHvnGTwPnVrLcZ42lBVYyxHOMatTGQfEl8P/9k="
+/>
 
 Die Veredelung der Stoffe erfolgt statt mit Chemie mit mechanisch-thermischem
 Wege. Alle verwendeten Farben sind frei von Giftstoffen und auch beim Transport

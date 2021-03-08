@@ -16,13 +16,13 @@ labels:
   - Brücke
   - Fleet
   - Fluss
+  - Geschichten & Erlebtes
   - Hamburg
   - Hamburg
   - Jahreszeiten
-  - Lyrik
   - Wasser
 type: Galerie mit Bild
-typeName: Galerie mit Bild
+typeName: Gedicht
 date: 2018-02-26T17:07:42.000Z
 status: publish
 isWerbung: false

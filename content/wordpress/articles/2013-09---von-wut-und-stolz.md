@@ -11,12 +11,12 @@ focusKeyword: ""
 labels:
   - aufhören
   - Belohnung
+  - Geschichten & Erlebtes
   - Nichtraucher
   - rauchen aufhören
   - Rauchen aufhören Tagebuch
   - Schweinehund
   - Selbstversuch
-  - Tagebuch
   - Tagebuch
 type: Artikel
 typeName: Artikel
@@ -34,13 +34,10 @@ subTitle: Die erste Etappe ist geschafft
   
 ---
 
-<RemoteImage
-  alt="Belohnung!"
-  size="medium"
-  title="Belohnung!"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9769518254_c7376914be_o.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9769518254_c7376914be_o.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Belohnung!`} size="medium" title={`Belohnung!`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9769518254_c7376914be_o.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9769518254_c7376914be_o.jpg?w=300"
+loadingUrl="undefined" />
 
 **Sechs Tage ist es her, seit ich das letzte Mal berichtet habe. Das bedeutet,
 dass ich seit sieben Tagen nicht mehr geraucht habe. Zeit für die erste
@@ -64,13 +61,11 @@ mit dem Schlüssel, Feuerzeug und Kippen in der Hand vor mir stand und mich
 mitnehmen wollte und ich sagte "Ich habe aufgehört". Irgendwie hat mir das im
 Nachhinein betrachtet, schon ein Bisschen Auftrieb gegeben.
 
-<RemoteImage
-  alt="Früchtetee statt Nikotinpflaster"
-  size="full"
-  title="Früchtetee statt Nikotinpflaster"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/tc3bcren.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/tc3bcren.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Früchtetee statt Nikotinpflaster`} size="full"
+title={`Früchtetee statt Nikotinpflaster`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/tc3bcren.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/09/tc3bcren.jpg"
+loadingUrl="undefined" />
 
 Was mir bis heute geblieben ist:
 [Die Worte der Twitterer und RL-Freunde](//2013/09/10/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/),
@@ -78,7 +73,7 @@ die mich am Dienstag erreichten (
 "[Der Trick ist, dich zu freuen, dass du nicht mehr rauchen musst!](https://twitter.com/Patoempf)"
 ,
 "[Zwei Tage waren hart, danach hat es seltsamerweise nie wieder gekribbelt.](https://twitter.com/twittschicat)"
-) laufen seitdem Mantra-artig auf meiner Kopf-Festplatte in Dauerschleife.
+) laufen seitdem Mantra-artig auf meiner Kopf-Festplatte in Dauerschleife.
 
 Als es am Abend dann an die Organisation unseres anstehenden Umzuges ging, bei
 der einige Fragen noch nicht geklärt waren, wurde ich schon nervöser. Kurzzeitig
@@ -98,13 +93,10 @@ schon in der Zeit davor aus den Augen verloren hatte, war es ganz um mich
 geschehen. Ich freute mich wie verrückt. Natürlich machten sich die beiden bei
 der Begrüßung gleich erst mal eine Zigarette an.
 
-<RemoteImage
-  alt="Eulen helfen immer"
-  size="full"
-  title="Eulen helfen immer"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/eulen.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/eulen.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Eulen helfen immer`} size="full" title={`Eulen helfen immer`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/eulen.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/09/eulen.jpg"
+loadingUrl="undefined" />
 
 Wir setzten uns dann im Café an einen Tisch und plauderten über vergangene und
 aktuelle Zeiten. Jede von uns war sichtlich nervös und glücklich, die anderen
@@ -132,13 +124,11 @@ das Nikotin meine Geruchsnerven gelähmt hat? Ich bin immer noch damit
 beschäftigt, an allem zu schnüffeln. Und geht ein Raucher an mir vorbei, steigt
 meine Motivation.
 
-<RemoteImage
-  alt="Totale Reizüberflutung"
-  size="full"
-  title="Totale Reizüberflutung"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/ikea.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/ikea.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Totale Reizüberflutung`} size="full"
+title={`Totale Reizüberflutung`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/ikea.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/09/ikea.jpg"
+loadingUrl="undefined" />
 
 Das war von Anfang an meine Hauptmotivation. Ich wollte nicht mehr stinken. Der
 Herzmann erzählt zwar immer, ich hätte nie nach Rauch gerochen, irgendwie kann

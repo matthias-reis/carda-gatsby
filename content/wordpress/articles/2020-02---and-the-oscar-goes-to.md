@@ -76,17 +76,13 @@ Queerphobie und Rassismus aus.
 
 Joaquin Phoenix selbst nutzt diese Stimme bereits seit Jahren. So ist er unter
 anderem der Sprecher im wohl berühmtesten Tierrechtsfilm der Welt
-[Earthlings](https://www.earthlings.de/).
+[Earthlings](/2020/07/earthlings/).
 
-<iframe src="https://www.youtube.com/embed/1uxo2PtOWpA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-<RemoteImage
-  alt="watch-earthlings"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_10430898_866199213402209_1317136732098446538_n__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_10430898_866199213402209_1317136732098446538_n__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcI/8QAJRAAAgEDBAEEAwAAAAAAAAAAAQIDBAURABIhMQYHQWHBIzKB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAMCERIx/9oADAMBAAIRAxEAPwDNtAqsGAGDjvGdVr04tlgqlnnudCZAmBGKitKoTtyQQsf9yeOMc6ksX45EC9c/ekVhu9XbppHpmX9eVZdynHIyDq+vkdMksX0iTy6G0422+21tMrKXWV590RORkICoJXnvPv8AGptXqUkb660l8gv1wvUomr5gz4CAIoVVUewA40creh840zTI0RWIz//Z" />
+<RemoteImage alt={`watch-earthlings`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_10430898_866199213402209_1317136732098446538_n__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_10430898_866199213402209_1317136732098446538_n__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcI/8QAJRAAAgEDBAEEAwAAAAAAAAAAAQIDBAURABIhMQYHQWHBIzKB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAMCERIx/9oADAMBAAIRAxEAPwDNtAqsGAGDjvGdVr04tlgqlnnudCZAmBGKitKoTtyQQsf9yeOMc6ksX45EC9c/ekVhu9XbppHpmX9eVZdynHIyDq+vkdMksX0iTy6G0422+21tMrKXWV590RORkICoJXnvPv8AGptXqUkb660l8gv1wvUomr5gz4CAIoVVUewA40creh840zTI0RWIz//Z"
+/>
 
 [](https://www.earthlings.de/)
 

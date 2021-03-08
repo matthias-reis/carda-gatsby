@@ -13,13 +13,14 @@ excerpt: Affiliate Link - In meinem Bücherregal darf natürlich auch eine Ausga
 focusKeyword: Tiere essen
 labels:
   - Bücher & Filme
-  - Darum vegan
+  - Ernährung & Gesundheit
   - Ernährungspolitik
   - Jonathan Safran Foer
   - Klima & Umweltschutz
   - Klimaschutz
   - Tiere Essen
   - Tierethik
+  - Tierhaltung
   - Tierrechte
   - Tierrechte
   - Tierschutz
@@ -33,8 +34,7 @@ date: 2019-02-25T10:56:16.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Unexpected token (167:12)"
+errors: {}
 thumbnailId: "23614"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-1__l.jpg
@@ -43,9 +43,6 @@ subTitle: Buch von Jonathan Safran Foer
   
 ---
 
-## unknown: Unexpected token (167:12)
-
-<!--
 _Affiliate Link\*_
 
 **In meinem Bücherregal darf natürlich auch eine Ausgabe von Jonathan Safran
@@ -237,8 +234,8 @@ Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
 sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto
 mehr möchte ich darüber berichten.
 
-<RemoteImage alt="tiere-essen" size="large" title="[ ](https://amzn.to/2EcpLXZ)
-"Tiere essen" von Jonathan Safran Foer"
+<RemoteImage alt={`tiere-essen`} size="large"
+title={`[ ](https://amzn.to/2EcpLXZ) "Tiere essen" von Jonathan Safran Foer`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-3__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-3__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAoEAABBAEEAQQBBQAAAAAAAAABAgMEEQUABhIhMRMiQWGBFBUyM1H/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EACoRAAECBAQDCQAAAAAAAAAAAAECAwAEESEFElFxFDHBIkGBobHR4fDx/9oADAMBAAIRAxEAPwDAfmwoEtljHQT66rbLq1DiAbHmye/B6HnTFgMlkiyER5hYbUeaWW7AUa8dG7+NIMLP47cO6MHGXHQ2HKbecbT6SieX8bujXupX3q7YWG3DYWqPCi4zipwepZLq1JCVAhSvKT0LAvsDwq9CkAot5nAQb894mYit3iCgK7FBSn3XWOcOZaHtt96Fj6TFYUQy2P7Ug2QlKvnsn8nS7jt+T8sXYQRKhy3QFpaKRwWggK5EgeSO7+tUB3JNQ4zeQRGmPIBRRf8Ab6ZIqjy+yB46IsHsakW+sP8AuWTTktvMojZIuEONx/aCpRrl2a42T/lfArR8RlFqq80spI53NN9tf2FSU6lBDS7+HX0iW4ratuxpmIy8VZZWFlp1lTbiDfggWL+NXvBbmxCHIDjhcWJUJl5a0IDy0LSohxqrtJPuIPVENmqGjRphcUlRg2MqyBtwC/yPcxpO7hkzGnSQ1jmJNLfDy0uEqKeKqSAEi/Jsk3RvoaT94Zn9Lgp8HbuGlTp0hlTImrCFBsEUVJtQ7q6KR+dGjQ0PrdNVG2kVG5BloBZGY6np3eUf/9k="
@@ -247,7 +244,5 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 _\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
 meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
-
--->
 
   

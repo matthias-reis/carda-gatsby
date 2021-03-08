@@ -17,6 +17,7 @@ labels:
   - Farben sammeln
   - Frederick
   - Freude
+  - Geschichten & Erlebtes
   - Gesundheit
   - Gewitter
   - Kinderbuch
@@ -26,7 +27,6 @@ labels:
   - Leo Lionni
   - Liebe
   - Philosophie
-  - Prosa
   - Regen
   - Spaß
   - Tagebuch
@@ -43,17 +43,17 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_09
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_09_frederick2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBwgG/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBjFBBxMUURVhcYGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMA/8QAHREAAwACAgMAAAAAAAAAAAAAAAECAxESIRMigf/aAAwDAQACEQMRAD8A09XU3zKKopjLNCJo2j92FtrpkY3KfBHg6jOj7Z+LsFNCa6urmdRK01bMZXJIHAJ7D6A1NjuNK2wAW+mQHJSNVP6wNByuSoazWo8Sfq+/ozo0AhgCCCD5GjTAKNWBLqlGy4MkLTI33tYBh/W5f91nX1Avc/RfqBfqG01dOguKL8n5UoBZJQxYJyMOvGCewbVz+oNzt1BTUwnqZobor+7SNTAGRDjBYg8bCMgg8HxyMij7/wBPx3vqWS+3eaCrknf3BTGHbGj7FXgljlTtB2nzqdw60Vx9PZdfpPT0VH0FaZaSqMsVdEtbl2A2mRQdoGeAO385OuzBBGQQR9jnWZKgsiqiMCwwOAMAeBxqV6ZuNdbLgtRRTyRbRhkLEhh9FexGqqUlpGcuns//2Q==
 subTitle: <strong>Erst bist du auf die Welt gekommen, dann hast du dich
-  verliebt. </strong>
+  verliebt. </strong>
   
 ---
 
-<RemoteImage
-  alt="Frederick von Leo Lionni Verlag Beltz ISBN-10: 3407760078"
-  size="medium"
-  title="Frederick von Leo Lionni Verlag Beltz ISBN-10: 3407760078"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_09_frederick2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_09_frederick2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBwgG/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBjFBBxMUURVhcYGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMA/8QAHREAAwACAgMAAAAAAAAAAAAAAAECAxESIRMigf/aAAwDAQACEQMRAD8A09XU3zKKopjLNCJo2j92FtrpkY3KfBHg6jOj7Z+LsFNCa6urmdRK01bMZXJIHAJ7D6A1NjuNK2wAW+mQHJSNVP6wNByuSoazWo8Sfq+/ozo0AhgCCCD5GjTAKNWBLqlGy4MkLTI33tYBh/W5f91nX1Avc/RfqBfqG01dOguKL8n5UoBZJQxYJyMOvGCewbVz+oNzt1BTUwnqZobor+7SNTAGRDjBYg8bCMgg8HxyMij7/wBPx3vqWS+3eaCrknf3BTGHbGj7FXgljlTtB2nzqdw60Vx9PZdfpPT0VH0FaZaSqMsVdEtbl2A2mRQdoGeAO385OuzBBGQQR9jnWZKgsiqiMCwwOAMAeBxqV6ZuNdbLgtRRTyRbRhkLEhh9FexGqqUlpGcuns//2Q==" />
+<RemoteImage alt={`Frederick von Leo Lionni Verlag Beltz ISBN-10: 3407760078`}
+size="medium"
+title={`Frederick von Leo Lionni Verlag Beltz ISBN-10: 3407760078`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_09_frederick2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_09_frederick2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBwgG/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBjFBBxMUURVhcYGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMA/8QAHREAAwACAgMAAAAAAAAAAAAAAAECAxESIRMigf/aAAwDAQACEQMRAD8A09XU3zKKopjLNCJo2j92FtrpkY3KfBHg6jOj7Z+LsFNCa6urmdRK01bMZXJIHAJ7D6A1NjuNK2wAW+mQHJSNVP6wNByuSoazWo8Sfq+/ozo0AhgCCCD5GjTAKNWBLqlGy4MkLTI33tYBh/W5f91nX1Avc/RfqBfqG01dOguKL8n5UoBZJQxYJyMOvGCewbVz+oNzt1BTUwnqZobor+7SNTAGRDjBYg8bCMgg8HxyMij7/wBPx3vqWS+3eaCrknf3BTGHbGj7FXgljlTtB2nzqdw60Vx9PZdfpPT0VH0FaZaSqMsVdEtbl2A2mRQdoGeAO385OuzBBGQQR9jnWZKgsiqiMCwwOAMAeBxqV6ZuNdbLgtRRTyRbRhkLEhh9FexGqqUlpGcuns//2Q=="
+/>
 
 Es hat eine ganze Weile gedauert, bis du das verstanden hast. Da war diese Mauer
 aus kaltem Stein. Der Stein, der sich löste. Er traf dich hart. Verletzte dich.
@@ -78,10 +78,10 @@ Fichte gegenüber und nimmst einen Schluck von dem Kaffee, auf den du jetzt nich
 mehr verzichtest.
 
 Du blätterst ein Tagebuch von vor zwei Jahren durch. Seit dem hat sich einiges
-geändert, stellst du fest. Schleichend. Im Februar 10 Zahnarzttermine,
+ geändert, stellst du  fest. Schleichend. Im Februar 10 Zahnarzttermine,
 Kaffeehausbesuche mit mit einer Freundin, die dich seit sie studiert nicht mehr
 kennt, Doktor Faust im Kukuksheim, Calexico live im Roxy, zwei mal die Woche
-Kino, alle vier Wochen ein Konzert. So ein Buch gibt es nahezu von jedem Jahr.
+Kino, alle vier Wochen ein Konzert.  So ein Buch gibt es nahezu von jedem Jahr.
 Gesammelte Erinnerungen. Das erinnert Dich ein Bisschen an die Maus aus der
 Geschichte, die die Farben für den Winter sammelt. Du beschließt, nicht weiter
 bis zum Winter zu warten.

@@ -13,11 +13,11 @@ focusKeyword: Herbsttag
 labels:
   - Botanischer Garten
   - Gedicht
+  - Geschichten & Erlebtes
   - Hamburg
   - Herbst
   - Herbsttag
   - Loki Schmidt Garten
-  - Lyrik
   - Natur
   - Park
   - Wald

@@ -11,16 +11,15 @@ excerpt: Im Eden Projekt in St. Austell sind mir ein paar sehr interessante
 focusKeyword: Fabelwesen
 labels:
   - Bilder
-  - Brititsche Inseln
+  - Britische Inseln
   - Eden Project
   - England
   - england2012
   - Fabelwesen
+  - Fernweh
   - Fotos
   - Hase
   - Kunst
-  - Kunst
-  - Reisen
 type: Galerie
 typeName: Galerie
 date: 2012-08-04T13:35:18.000Z
@@ -36,17 +35,21 @@ subTitle: Erinnerungen an den Sommer in England 2012 - Teil 8/9
   
 ---
 
+_ [Teil 7/9](/2012/08/eden-project-2/) _ Gesehen im Eden Project, St. Austell,
+England 6/2012
+
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0159__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0159__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0158__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0158__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0153__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0153__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0152__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0152__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0150__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0150__l.jpg"}]}
 />
 
 &nbsp;
 
-Hier geht's zu _ [Teil 9/9](/2012/08/schneeweis-und-rosenrot/) _ der Galerie
+Hier geht's zu _ [Teil 9/9](/2012/08/schneeweis-und-rosenrot/) _  der Galerie
 "England 2012"
 
-## England 2012 Wegweiser1. [Sonne im Hafen](http://wp.me/p533wO-Ry)
+## England 2012 Wegweiser
 
+1.  [Sonne im Hafen](http://wp.me/p533wO-Ry)
 1.  [Der Kater und der Leuchtturm](/2012/08/der-kater-und-der-leuchtturm/)
 1.  [Glastonbury](/2012/07/glastonbury/)
 1.  [Isle Of Wight Festival](/2012/07/isle-of-wight-festival-2012/)

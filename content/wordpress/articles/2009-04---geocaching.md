@@ -27,6 +27,9 @@ subTitle: Wanderimpressionen
   
 ---
 
+**Geocaching sollte wirklich jeder mal ausprobiert haben - hier ein paar
+Impressionen.**
+
 <Gallery name="flickr/geocatchinganne2009" />
 
 &nbsp;

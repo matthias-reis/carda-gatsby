@@ -13,6 +13,7 @@ labels:
   - AKW
   - alternative Energien
   - Anti-AKW
+  - Antifaschismus & Feminismus
   - Asse
   - Atom
   - Atom-Ausstieg
@@ -54,7 +55,6 @@ labels:
   - Ökostrom
   - Plutonium
   - Plutonium 239
-  - Politik & Soziales
   - Politiker
   - Radioaktivität
   - Reaktor
@@ -91,6 +91,10 @@ subTitle: 26.03.2011 München
   
 ---
 
+**Insgesamt 250.000 Menschen gingen gestern in Berlin, Hamburg, Köln und München
+auf die Straße um ein Zeichen zu setzen und die Regierung zum Umdenken zu
+bringen.**
+
 Inzwischen hat sich die Lage in Japan massiv verschlechtert. Messungen am
 Reaktor 2 in Fukoshima zeigen eine 10 millionenfach erhöhte Radioaktivität an,
 das Meer ist verseucht, Lebensmittel und Trinkwasser können nicht mehr zu sich
@@ -99,16 +103,15 @@ verstrahlt. Experten rechnen damit, dass sie schon bald mit dem Stahlentod
 rechnen müssen. Andere wurden mit Verbrennungen in eine Spezialklinik
 eingeliefert.
 
-<RemoteImage
-  alt="OLYMPUS DIGITAL CAMERA"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_03_p7270040__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_03_p7270040__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAqEAACAgEDAwMCBwAAAAAAAAABAgMEEQAFIRIiMRNBYQZRFCZScaHB4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMFAAIE/8QAIhEAAQMDBAMBAAAAAAAAAAAAAQACEQMSITFBYfAEE7HB/9oADAMBAAIRAxEAPwBF2iYXrliN4a8qxFlbMHQVKnHB9+dOVSHaa9SvItGA2OgGwFkmLK2e5QF44GNJX0/QlpbrdtCSCX8V1BUWcZGX6v8ANVWH1W2iqpYxMY8dIbPPn29xoNFrbyI2V3lxaI1lZMFuvWaMxUEMbN0yLFtshJwOSS/gdwwfg6RfWDbZK6tbESsVIV43BP7448DOqcNwq0ooYrd1OuxKyRs7E9Xxn+/GpFum/VqkctZJIVjZjyzdzH45+NGqM9hAByNe/FKTHCZGF01rf5gqQVIKdKaN/WdoE6cDhApLH9RJ7f5002N+vxzwRQXakaEs6CVA5lIBYoWJ7T9jo0aS3Gl5EMxt+rTAtzssn6m3eve2unWumGWtLKRKka5KA92cqMr7ZweQdS+5ttf1cV60jN564mcqcj5Gfvo0ad0Wwy85M97wEAklxHC//9k=" />
+<RemoteImage alt={`OLYMPUS DIGITAL CAMERA`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_03_p7270040__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_03_p7270040__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAqEAACAgEDAwMCBwAAAAAAAAABAgMEEQAFIRIiMRNBYQZRFCZScaHB4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMFAAIE/8QAIhEAAQMDBAMBAAAAAAAAAAAAAQACEQMSITFBYfAEE7HB/9oADAMBAAIRAxEAPwBF2iYXrliN4a8qxFlbMHQVKnHB9+dOVSHaa9SvItGA2OgGwFkmLK2e5QF44GNJX0/QlpbrdtCSCX8V1BUWcZGX6v8ANVWH1W2iqpYxMY8dIbPPn29xoNFrbyI2V3lxaI1lZMFuvWaMxUEMbN0yLFtshJwOSS/gdwwfg6RfWDbZK6tbESsVIV43BP7448DOqcNwq0ooYrd1OuxKyRs7E9Xxn+/GpFum/VqkctZJIVjZjyzdzH45+NGqM9hAByNe/FKTHCZGF01rf5gqQVIKdKaN/WdoE6cDhApLH9RJ7f5002N+vxzwRQXakaEs6CVA5lIBYoWJ7T9jo0aS3Gl5EMxt+rTAtzssn6m3eve2unWumGWtLKRKka5KA92cqMr7ZweQdS+5ttf1cV60jN564mcqcj5Gfvo0ad0Wwy85M97wEAklxHC//9k="
+/>
 
-[](/wp-content/uploads/2011/03/p7270040.jpg) ## Es ist mit dem Schlimmsten zu
-rechnen
+[](/wp-content/uploads/2011/03/p7270040.jpg)
+
+## Es ist mit dem Schlimmsten zu rechnen
 
 Es ist mit dem Schlimmsten zu rechnen und Notunterkünfte nehmen nach wie vor nur
 Anwohner der 20-Kilometer-Zone um das AKW auf. Die Betreiberfirma des AKW hat

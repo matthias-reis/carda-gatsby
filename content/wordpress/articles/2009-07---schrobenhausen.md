@@ -32,6 +32,21 @@ subTitle: Lenbachstadt im Spargelland
   
 ---
 
+**Durch das heutige Stadtgebiet von Schrobenhausen verlief die römische Straße
+Augsburg - Regensburg. Bodendenkmale und Funde aus Bronzezeit, Hallstattzeit und
+der keltischen Epoche lassen auf die Besiedlung durch Weidebauern und auf
+Nomadenstämme schließen.**
+
+<RemoteImage alt={`Schrobenhausen`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531813074_d4ab25b762_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531813074_d4ab25b762_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgMI/8QAKRAAAgEDAwMCBwEAAAAAAAAAAQIDAAQRBRIhBgcxE0EVIzJRYXGRkv/EABcBAAMBAAAAAAAAAAAAAAAAAAEEBQP/xAAmEQABAgQDCQAAAAAAAAAAAAABAAIDESGBEnHRMTJBUZGhsdLh/9oADAMBAAIRAxEAPwDqM1Pe7vVtz0rZ6d8Pit5Ly4kLqJ1LApGVLqFBHJDAZ9vPPAqg5qU97dLbU7nRxLPJFBiWNAioTvKM2QWBxwg/tTHlhq5asEynG5uoNR6PivrePZHfwRSKGOSBJt4/YDGkfXoVuo57C4iZ7WS2wztJtaVi2FjUDls7WL+AFxn6qy0W8l0/tzHZ2YimuLG4nEauNqkKd4BC+3zF4GM4wMVvitk06wkupISTGJZY4whkdQzF2LeS7k/6IA8CpkctbEDhbPnaidgg4S03y+1VSHIzU37xNtbQc5IE8p4ODxC580UU4agJWHvdfCRek+qJo+tYOmhbq1rch715HbLBzDHtA48DYc/fd7Yok1mbU9Z0DWj6kayQXWLb1Mqhjm9MsDgcspx44wMfkoouhMDwZbQO4foEXRHYZT4+uq//2Q=="
+/>
+
+\_\_\_\_ Der Name "Scropinhusen" tauchte während der Amtszeit des Freisinger
+Bischofs Atto (783-811) das erste Mal in Schenkungsbüchern der Freisinger
+Marienkirche auf.
+
 Aus späteren Schenkungsurkunden geht hervor, daß es in Schrobenhausen 888 eine
 kleine Pfarrkirche, sowie ein Herrenhaus und einen Getreidespeicher gab. Im 10.
 Jahrhundert muß die kleine Ansiedlung dann während der Überfälle der Ungarn
@@ -47,15 +62,23 @@ Gemeindeordnung, die Maße und Gewichte, sowie die Markt- und Schrannenrechte\*
 an. Er ließ eine ringförmige Wehr mit Gräben und Wachtürmen um die Stadt
 errichten.
 
-<RemoteImage
-  alt="Schrobenhausen"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531862523_0c2c9a5e87_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531862523_0c2c9a5e87_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgC/8QAKxAAAgEDBAAEBQUAAAAAAAAAAQIDBAURAAYhMQcSFCITFUFRYSMycZGh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwUCBP/EABsRAAIDAQEBAAAAAAAAAAAAAAECABEhAxIx/9oADAMBAAIRAxEAPwBlsl7t1mmqai8XM0FPUziSKKNBK7AIWy/lBKjH0wO+9dp4vULwSSi2XFojVTxRvTw+wqn7Cz5PLHsY40t+Im0qOi2iDRSVclWgWn+LLLkupzy4xg9AcD6aQLhVbgo6KntpWpFNSwCVJZIyv6TLwCoPf51I5dX5L5SXGVXa3llbY8TXvN6m+YTRw2+CBpo4UwzMyg8ZbBJOcD78cDU7aN92693ehoKW23YeqcKJKiFERRgnLe4nHGs9fLLq+36KqNFJJSVsrx07oF98gbOCveTzjvIzga0B4ZU7x7W2/NWlGnECyM3BIBz5f8I0vok2xgsCKCiTlYqVFIUmRXjkGGVhkEaTNwbRttzjMbIYWJIV4+CCQOfzj7aNGuTrhyONGyuofXWdbSIKxXjgqFq0SSLIDDzADvoZJH86erZvCsmaNKqCB8kLmMFCM/3o0a19q4RJUZP/2Q==" />
+## Erneut vollständige Zerstörung 1388
 
-## Erneut vollständige Zerstörung 1388 [](/wp-content/uploads/2009/07/11531862523_0c2c9a5e87_z.jpg) 1388 wurde Schrobenhausen erneut vollständig zerstört, als Augsburgs Truppen im Bayerischen Städtekrieg in die Gemeinde einfielen. Schrobenhausen wurde von Herzog Ludwig im Bart beim Wiederaufbau durch Steuerfreiheit und Bauholz unterstützt. Damals wurde auch die Stadterweiterung Richtung Nordosten und Nordwesten vorgenommen, der bis heute erhaltene Stadtgrundriss wurde geschaffen. Die neue Wehranlage ist teilweise heute noch erhalten. Sie wurde aus gebrannten Ziegeln erreichtet. Im wiederaufgebauten Rathaus befinden sich die Schranne und Verkaufsräume für Brot und Fleisch.
+<RemoteImage alt={`Schrobenhausen`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531862523_0c2c9a5e87_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531862523_0c2c9a5e87_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgC/8QAKxAAAgEDBAAEBQUAAAAAAAAAAQIDBAURAAYhMQcSFCITFUFRYSMycZGh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwUCBP/EABsRAAIDAQEBAAAAAAAAAAAAAAECABEhAxIx/9oADAMBAAIRAxEAPwBlsl7t1mmqai8XM0FPUziSKKNBK7AIWy/lBKjH0wO+9dp4vULwSSi2XFojVTxRvTw+wqn7Cz5PLHsY40t+Im0qOi2iDRSVclWgWn+LLLkupzy4xg9AcD6aQLhVbgo6KntpWpFNSwCVJZIyv6TLwCoPf51I5dX5L5SXGVXa3llbY8TXvN6m+YTRw2+CBpo4UwzMyg8ZbBJOcD78cDU7aN92693ehoKW23YeqcKJKiFERRgnLe4nHGs9fLLq+36KqNFJJSVsrx07oF98gbOCveTzjvIzga0B4ZU7x7W2/NWlGnECyM3BIBz5f8I0vok2xgsCKCiTlYqVFIUmRXjkGGVhkEaTNwbRttzjMbIYWJIV4+CCQOfzj7aNGuTrhyONGyuofXWdbSIKxXjgqFq0SSLIDDzADvoZJH86erZvCsmaNKqCB8kLmMFCM/3o0a19q4RJUZP/2Q=="
+/>
+
+[](/wp-content/uploads/2009/07/11531862523_0c2c9a5e87_z.jpg) 1388 wurde
+Schrobenhausen erneut vollständig zerstört, als Augsburgs Truppen im Bayerischen
+Städtekrieg in die Gemeinde einfielen. Schrobenhausen wurde von Herzog Ludwig im
+Bart beim Wiederaufbau durch Steuerfreiheit und Bauholz unterstützt. Damals
+wurde auch die Stadterweiterung Richtung Nordosten und Nordwesten vorgenommen,
+der bis heute erhaltene Stadtgrundriss wurde geschaffen. Die neue Wehranlage ist
+teilweise heute noch erhalten. Sie wurde aus gebrannten Ziegeln erreichtet. Im
+wiederaufgebauten Rathaus befinden sich die Schranne und Verkaufsräume für Brot
+und Fleisch.
 
 Eine Blütezeit hatte Schrobenhausen im 15. Jahrhundert, damals wurden unter
 anderem drei Kirchen gebaut, die Vorstadtkirche "St. Salvator", die Kirche "Zur
@@ -93,15 +116,17 @@ Rund 600 Spargelbauern haben ihre Felder rund um Schrobenhausen. Christian
 Schadt aus Großgerau brachte 1913 als erster das Edelgemüse mit und pflanzte es
 in den Paarauen an. Heute umfasst das Spargelanbaugebiet rund 600 Hektar.
 
-<RemoteImage
-  alt="Schrobenhausen"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531810823_7eab6c42d7_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531810823_7eab6c42d7_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgE/8QAJhAAAQMDBAICAwEAAAAAAAAAAQIDBAUGEQASITEiQRMyB1Fhgf/EABYBAQEBAAAAAAAAAAAAAAAAAAQFAv/EACURAAEDAgQHAQAAAAAAAAAAAAIAAQMEMREhUbESMkGBkcHh8P/aAAwDAQACEQMRAD8AmC1BS+6zXrriUZTTKGV/FGKw822kjO5RBSO8gjUvBo9hyAlhF7TKh8TSFKaalNrw1wrnwKijjok4Gs5Vqvtz1UdNEiSI4bghie7y6HnPqVhJyEDbgeuByONMtgmhwrUr1Uu2tPJnSGXGKXGZedC1FAOT4+KgoqCdqjjAP7GCzUZADkD56YY/vNlmnJnIWmfvbfFaIiybKjTWpDNSc3NRREAU4tQ+ML3jI2ZOCeCetJl43nHmyqpBteeh+O00XpA2OlW5Q5z4jHacj1pLpbExv5pTCojD6sllS5KilWQc7toyAfXfPek1yHPi3zUHKfOgTag9FcW8p55ENvcoAEHeoJPPrPrOP0OmpiOQnme1vt90+eWGMGaB+Lo/rRX9bn4It6iZW3U6y5KdaAWoSA20okcZbA5APOCT1qn67YUy32FtmvGSiky0obSYgSCV9keRx/c5z/NGjTYZjIs3U6UWEclwRZFRitlLU7Kft5soV/nXWlStRUsS3Za8OuOula8pABUrs8aNGqEPMiL/2Q==" />
+## Geburtsort von Franz Seraph Lenbach
 
-## Geburtsort von Franz Seraph LenbachDer berühmt Maler Franz Seraph Lenbach wurde 1836 in Schrobenhausen geboren. Bekannt wurde er vor allem durch seine Potraits, er stellte unter anderem Otto von Bismarck und die beiden deutschen Kaiser Wilhelm I. und Wilhelm II dar.
+<RemoteImage alt={`Schrobenhausen`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531810823_7eab6c42d7_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531810823_7eab6c42d7_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgE/8QAJhAAAQMDBAICAwEAAAAAAAAAAQIDBAUGEQASITEiQRMyB1Fhgf/EABYBAQEBAAAAAAAAAAAAAAAAAAQFAv/EACURAAEDAgQHAQAAAAAAAAAAAAIAAQMEMREhUbESMkGBkcHh8P/aAAwDAQACEQMRAD8AmC1BS+6zXrriUZTTKGV/FGKw822kjO5RBSO8gjUvBo9hyAlhF7TKh8TSFKaalNrw1wrnwKijjok4Gs5Vqvtz1UdNEiSI4bghie7y6HnPqVhJyEDbgeuByONMtgmhwrUr1Uu2tPJnSGXGKXGZedC1FAOT4+KgoqCdqjjAP7GCzUZADkD56YY/vNlmnJnIWmfvbfFaIiybKjTWpDNSc3NRREAU4tQ+ML3jI2ZOCeCetJl43nHmyqpBteeh+O00XpA2OlW5Q5z4jHacj1pLpbExv5pTCojD6sllS5KilWQc7toyAfXfPek1yHPi3zUHKfOgTag9FcW8p55ENvcoAEHeoJPPrPrOP0OmpiOQnme1vt90+eWGMGaB+Lo/rRX9bn4It6iZW3U6y5KdaAWoSA20okcZbA5APOCT1qn67YUy32FtmvGSiky0obSYgSCV9keRx/c5z/NGjTYZjIs3U6UWEclwRZFRitlLU7Kft5soV/nXWlStRUsS3Za8OuOula8pABUrs8aNGqEPMiL/2Q=="
+/>
+
+Der berühmt Maler Franz Seraph Lenbach wurde 1836 in Schrobenhausen geboren.
+Bekannt wurde er vor allem durch seine Potraits, er stellte unter anderem Otto
+von Bismarck und die beiden deutschen Kaiser Wilhelm I. und Wilhelm II dar.
 
 Auch Norbert Richter lebte und arbeitete als Künstler und Kunsterzieher in
 Schrobenhausen. Er machte 1960 die historische Schreibweise "Scrobinhusen" zum
@@ -123,17 +148,15 @@ Eine Fotogalerie mit Bildern aus Schrobenhausen folgt, ich werde demnächst vor
 Ort sein und sicher auch einige Aufnahmen machen.
 
 _\*Schranne = Getreidemarkt, Getreidespeicher, Versorgungsstelle für die Bürger
-mit Gütern des täglichen Bedarfs._ **Quellenverzeichnis:**
-[http://www.wikipedia.de/](http://www.wikipedia.de/)
-[http://www.schrobenhausen.de/](http://www.schrobenhausen.de/)
-[http://de.wikipedia.org/wiki/Schrobenhausen](http://de.wikipedia.org/wiki/Schrobenhausen)
-[http://de.wikipedia.org/wiki/Lenbach](http://de.wikipedia.org/wiki/Lenbach)
-**Wer mehr über die Stadt Schrobenhausen erfahren möchte:**
-[http://www.schrobenhausen.de/](http://www.schrobenhausen.de/) **Informationen
-zum Maler Lenbach:**
-[http://de.wikipedia.org/wiki/Lenbach](http://de.wikipedia.org/wiki/Lenbach)
-**Zum Thema Spargel:** [http://www.spargel.de](http://www.spargel.de/)
-[/](http://www.spargel.de/)
+mit Gütern des täglichen Bedarfs._
+
+**Quellenverzeichnis:**
+
+[Homepage Schrobenhausen](http://www.schrobenhausen.de/)
+
+[Schrobenhausen Wikipedia](http://de.wikipedia.org/wiki/Schrobenhausen)
+
+[Lenbach Wikipedia](http://de.wikipedia.org/wiki/Lenbach)
 
 <Gallery name="flickr/anneschrobenhausen2009" />
 

@@ -14,8 +14,9 @@ focusKeyword: Live And Let Live
 labels:
   - Bücher & Filme
   - China Study
-  - Darum vegan
   - Dokumentation
+  - Ernährung
+  - Ernährung & Gesundheit
   - Filmtipp
   - Hof Butenland
   - Live And Let Live
@@ -25,6 +26,7 @@ labels:
   - vegan
   - vegan Film
   - vegane Dokumentation
+  - vegane Ernährung
   - Veganismus Film
 type: Artikel
 typeName: Filmtipp

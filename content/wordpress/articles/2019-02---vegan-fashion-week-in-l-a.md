@@ -14,11 +14,11 @@ labels:
   - California Market Center
   - crueltyfree
   - Emmanuelle Rienda
+  - Fair Fashion & Beauty
   - L.A.
   - lederfrei
   - Los Angeles
   - Moby
-  - Mode & Beauty
   - Natural History Museum
   - vegan
   - vegan beauty
@@ -48,13 +48,12 @@ Zukunft regelmäßig geplanten Veranstaltung ist es, vegane Mode weltweit zu
 etablieren. Raus aus der „veganen Welt“, rauf auf die Laufstege und damit auf
 den breiten Markt.
 
-<RemoteImage
-  alt="vegan-fashion-week"
-  size="medium"
-  title="Copyright: Vegan Fashion Week"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-01__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-01__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAQFAQIDB//EACcQAAIBBAEDAgcAAAAAAAAAAAEDAgAEBREhEjFRBpEiI1JhYnHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAREh/9oADAMBAAIRAxEAPwD2Gd/jsOlM8ndqtYMJjCTN6JGh3AP1Dv5qytM7g3OglWWsZNmdQAaPiOyNA9j2PtXB4E8bMxtVXTIgGK2LEwdkb4P9xSwt7tL1sXgcdA7G5xVCB137jtRIS69Sen1oi2eXs4wl1aJkQeI9R41sajz+qhSvMdlVOOOu03QVIwYVS30S8HweDxUvJYhK3zXaYDEztyAAZWw52Dveh+UvetV2abO0+XaotmsALYqjoEgaG/OhxVZzSYp8iuJPirlbTqlKJQw1sunQPFUWVfIQl9qUo0x//9k=" />
+<RemoteImage alt={`vegan-fashion-week`} size="medium"
+title={`Copyright: Vegan Fashion Week`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-01__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-01__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAQFAQIDB//EACcQAAIBBAEDAgcAAAAAAAAAAAEDAgAEBREhEjFRBpEiI1JhYnHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAREh/9oADAMBAAIRAxEAPwD2Gd/jsOlM8ndqtYMJjCTN6JGh3AP1Dv5qytM7g3OglWWsZNmdQAaPiOyNA9j2PtXB4E8bMxtVXTIgGK2LEwdkb4P9xSwt7tL1sXgcdA7G5xVCB137jtRIS69Sen1oi2eXs4wl1aJkQeI9R41sajz+qhSvMdlVOOOu03QVIwYVS30S8HweDxUvJYhK3zXaYDEztyAAZWw52Dveh+UvetV2abO0+XaotmsALYqjoEgaG/OhxVZzSYp8iuJPirlbTqlKJQw1sunQPFUWVfIQl9qUo0x//9k="
+/>
 
 Das Debüt der Modemesse war laut den Veranstaltern ein voller Erfolg. Die „Vegan
 Fashion Week“ setzte ein großes Statement innerhalb der Modewelt. Eingeladen
@@ -82,13 +81,12 @@ Designerstücken zu entdecken.
 
 ## Aktivisten und Stars
 
-<RemoteImage
-  alt="vegan-fashion-week"
-  size="medium"
-  title="Copyright: Vegan Fashion Week"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-07__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-07__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAj/xAAqEAABBAECBQMEAwAAAAAAAAABAgMEEQUAEgYTITFRB0FhIzKBkRQVIv/EABYBAQEBAAAAAAAAAAAAAAAAAAEABP/EABsRAAICAwEAAAAAAAAAAAAAAAABAhIDETFR/9oADAMBAAIRAxEAPwCn5LheF/Yt5NAW08r6ckAJ2ykVSQ4K67TRB7iq7HSnx64Z/D2+aVKMDIsrUAaHKdQpsKI+Fmv1qi5iU2xFQHDRWrp+NL+UxEbKMuNvOcuNIbLbwBB3oPUjwOoBB60oAj3tSDhAJ/B/8iAtMDkpRIBBdLiUlohXY199+O9/vU3yLsqLPcjZdC2ZjddavcQNoPgivcas3FsORjHzipUtC5chsONSmrQl8iwdt9nB3V5ChXwiysZIQyGXoiJDSFJtTzG7lIsCyDSh08aGia2dGeqEuVh2Y7MN9S3VtKWl18Be03Q/yAAR07HS5k+IBi8cmaYpeDYCSjmbbsH3o19nj30aNZsc3eS8NE4qqZp9OWsd6m4KU/l4bjTKTsS0HgogpPRe/aFBXyK0seqvCj3C0BUmBm5z8U/TEeWA5ST7bhV/kaNGmzrsqrh//9k=" />
+<RemoteImage alt={`vegan-fashion-week`} size="medium"
+title={`Copyright: Vegan Fashion Week`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-07__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-07__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAj/xAAqEAABBAECBQMEAwAAAAAAAAABAgMEEQUAEgYTITFRB0FhIzKBkRQVIv/EABYBAQEBAAAAAAAAAAAAAAAAAAEABP/EABsRAAICAwEAAAAAAAAAAAAAAAABAhIDETFR/9oADAMBAAIRAxEAPwCn5LheF/Yt5NAW08r6ckAJ2ykVSQ4K67TRB7iq7HSnx64Z/D2+aVKMDIsrUAaHKdQpsKI+Fmv1qi5iU2xFQHDRWrp+NL+UxEbKMuNvOcuNIbLbwBB3oPUjwOoBB60oAj3tSDhAJ/B/8iAtMDkpRIBBdLiUlohXY199+O9/vU3yLsqLPcjZdC2ZjddavcQNoPgivcas3FsORjHzipUtC5chsONSmrQl8iwdt9nB3V5ChXwiysZIQyGXoiJDSFJtTzG7lIsCyDSh08aGia2dGeqEuVh2Y7MN9S3VtKWl18Be03Q/yAAR07HS5k+IBi8cmaYpeDYCSjmbbsH3o19nj30aNZsc3eS8NE4qqZp9OWsd6m4KU/l4bjTKTsS0HgogpPRe/aFBXyK0seqvCj3C0BUmBm5z8U/TEeWA5ST7bhV/kaNGmzrsqrh//9k="
+/>
 
 Neben dem Modezirkus fand ein reger Austausch zwischen den Teilnehmer _innen
 sowie zahlreichen Tierrechtsaktivist_ innen, die ebenfalls zum Event geladen
@@ -123,13 +121,12 @@ in unserer Branche gibt“, sagt sie.
 <ul>
     <li>
 
-<RemoteImage
-  alt="vegan-fashion-week"
-  size="medium"
-  title="Copyright: Vegan Fashion Week"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-02__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-02__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcB/8QAJRAAAgICAQQDAQADAAAAAAAAAQIDBAURIQAGEhMiMUFRIzJS/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAD/8QAIBEBAAICAAcBAAAAAAAAAAAAAQACESEDIjFRgZHwof/aAAwDAQACEQMRAD8A0ah3AI5cnYsmWeSnCxnM4WTzRTyo8uoz5vHOuOMle2q3X8QFCERkyJHzz/1IBxvjf86ssbUpzwOJsWriwPGdWK/5F54bnnnXQvdq4jD4KedKdKo9MeyH2FT4BtbAGz/s+uSDzz0baqoZe0gVD78hEGZr0a2Qam8sawM0Eh+AKFW0QGYgAk65P4elvN5PHWp8UsjWJZMgFeF/NWA8i2iSD+lSN889Qpdx4572FoZigizZStHLfr2ImHykjV4JY2LeIj8/JCDyH0B9dXWUxuHjsVJRgVV6YVK7KVHqVWJGvl+Fief6epNYdMQJuBZbLxYDGWbIWaxL6nZI4wW1pSfI/mhrkb2fzZ6zKp3Z3J39h4sROBCrlVlMFZDK8Plty3zATZ8QN6Gh9kjfWv8AbEEF0WIMgEkqvCweOUfGRdcqR+7G+lWlgcHge8HuYaqlaRwI44PX7QhP7Cja8iV2pPlpCQT/ADrSidGaUvWpkOY9eej63FbvnH2cHFirlTJZS/HIiUEGXWGaH0wt7BG/rOyPYFHyH6fkB02WMobL4WGxgcrSnsV1Lx0wJK9NxtQjaO/FiNhgSApHH3rl+7j8/n4cVk+3KuSqB5ZVns1k91SQNoqQoaNgSACwbfI8gOOirdiOqI4Ya0UFeMeMccaBVQfwAfXQ4lssV7ZCqGu32XzP/9k=" />
+<RemoteImage alt={`vegan-fashion-week`} size="medium"
+title={`Copyright: Vegan Fashion Week`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-02__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-02__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcB/8QAJRAAAgICAQQDAQADAAAAAAAAAQIDBAURIQAGEhMiMUFRIzJS/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAD/8QAIBEBAAICAAcBAAAAAAAAAAAAAQACESEDIjFRgZHwof/aAAwDAQACEQMRAD8A0ah3AI5cnYsmWeSnCxnM4WTzRTyo8uoz5vHOuOMle2q3X8QFCERkyJHzz/1IBxvjf86ssbUpzwOJsWriwPGdWK/5F54bnnnXQvdq4jD4KedKdKo9MeyH2FT4BtbAGz/s+uSDzz0baqoZe0gVD78hEGZr0a2Qam8sawM0Eh+AKFW0QGYgAk65P4elvN5PHWp8UsjWJZMgFeF/NWA8i2iSD+lSN889Qpdx4572FoZigizZStHLfr2ImHykjV4JY2LeIj8/JCDyH0B9dXWUxuHjsVJRgVV6YVK7KVHqVWJGvl+Fief6epNYdMQJuBZbLxYDGWbIWaxL6nZI4wW1pSfI/mhrkb2fzZ6zKp3Z3J39h4sROBCrlVlMFZDK8Plty3zATZ8QN6Gh9kjfWv8AbEEF0WIMgEkqvCweOUfGRdcqR+7G+lWlgcHge8HuYaqlaRwI44PX7QhP7Cja8iV2pPlpCQT/ADrSidGaUvWpkOY9eej63FbvnH2cHFirlTJZS/HIiUEGXWGaH0wt7BG/rOyPYFHyH6fkB02WMobL4WGxgcrSnsV1Lx0wJK9NxtQjaO/FiNhgSApHH3rl+7j8/n4cVk+3KuSqB5ZVns1k91SQNoqQoaNgSACwbfI8gOOirdiOqI4Ya0UFeMeMccaBVQfwAfXQ4lssV7ZCqGu32XzP/9k="
+/>
 
 <small>Dr. Martens</small></li> <li><small>Matea Benedetti</small></li>
 <li><small>Noemie Devime, Altiir</small></li> <li><small>Bayem</small></li>

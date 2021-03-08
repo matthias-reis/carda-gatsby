@@ -13,7 +13,6 @@ labels:
   - "1994"
   - Cruelty Free
   - crueltyfree
-  - Darum vegan
   - Emily Lucia Harnack
   - Emma Sjöberg
   - Fabienne Terwinghe
@@ -33,6 +32,8 @@ labels:
   - Svenja Holtmann
   - Tatjana Patitz
   - Tierrechte
+  - vegan celebrities
+  - veganes Leder
   - We'd rather go naked than wear fur
 type: Artikel
 typeName: Artikel
@@ -67,13 +68,12 @@ Hamburger Agentur PMA.
 
 ## "Lieber nackt als im Pelz" ist ein voller Erfolg
 
-<RemoteImage
-  alt="lieber-nackt-als-im-pelz"
-  size="medium"
-  title="Originalplakat von 1994. Emma Sjöberg, Tatjana Patitz, Heather Stewart-Whyte, Fabienne Terwinghe und Naomi Campbell (von links nach rechts) zogen sich für das Wohl der Tiere aus. / © Patrick Demarchelier für PETA"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_naomi-Models-rather-go-naked_A3_300__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_naomi-Models-rather-go-naked_A3_300__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcI/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBBEhAAUSBjFhExRxByJBUYGhwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDp6vYU8clRJUNHGq5BZVUebkef60r3SvnpaSu9oTPUQALGklQkYkZiO7cTxt8G+cHGpup52ipYvSkEbGVVduJYhD3wP3b486pgMr1fukoHp53qKaU1EEiSSmNbmSN1BZbjiASMH1FtlToGPUvV8nTe3VlbuNPOIYRDHCBWQB5pJBdgeQCrxHKxJzwPi9yo2WeGGeOeSSKSNWXlbIIuD286wb6l10lbHsXv9jqpoIVaeohekmIFQyC6CwCknkPu5WBD98DWudBPHT7DRbarFPa08aQwuSWEKqFUgnLrjDfwcjQWCZpAfsKgW/K3/wB1CfVLsS0Nxi/p5tf50aNAg3/etxoa+OCE0bRPGGYSQsTlrWw4/HjTKGneTffcTPE8cQdIU9EBosAGz97HNx27foaNGg//2Q==" />
+<RemoteImage alt={`lieber-nackt-als-im-pelz`} size="medium"
+title={`Originalplakat von 1994. Emma Sjöberg, Tatjana Patitz, Heather Stewart-Whyte, Fabienne Terwinghe und Naomi Campbell (von links nach rechts) zogen sich für das Wohl der Tiere aus. / © Patrick Demarchelier für PETA`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_naomi-Models-rather-go-naked_A3_300__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_naomi-Models-rather-go-naked_A3_300__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcI/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBBEhAAUSBjFhExRxByJBUYGhwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDp6vYU8clRJUNHGq5BZVUebkef60r3SvnpaSu9oTPUQALGklQkYkZiO7cTxt8G+cHGpup52ipYvSkEbGVVduJYhD3wP3b486pgMr1fukoHp53qKaU1EEiSSmNbmSN1BZbjiASMH1FtlToGPUvV8nTe3VlbuNPOIYRDHCBWQB5pJBdgeQCrxHKxJzwPi9yo2WeGGeOeSSKSNWXlbIIuD286wb6l10lbHsXv9jqpoIVaeohekmIFQyC6CwCknkPu5WBD98DWudBPHT7DRbarFPa08aQwuSWEKqFUgnLrjDfwcjQWCZpAfsKgW/K3/wB1CfVLsS0Nxi/p5tf50aNAg3/etxoa+OCE0bRPGGYSQsTlrWw4/HjTKGneTffcTPE8cQdIU9EBosAGz97HNx27foaNGg//2Q=="
+/>
 
 In den 25 Jahren, die seit der spektakulären PETA Kampagne vergangen sind, hat
 sich einiges getan. Die Aufklärungsarbeit der Aktivisten hat dafür gesorgt, dass
@@ -112,19 +112,18 @@ d’Asie, Bio-Wolf, Corsac Fox und Gaewolf stehen für Hundefell und Hundeleder.
 
 ## Auch Wolle und Leder sind nicht frei von Tierleid
 
-<RemoteImage
-  alt="lieber-nackt-als-im-pelz"
-  size="medium"
-  title="Kampagne 2019. Emily Lucia Harnack, Svenja Holtmann, Lara Koch, Roxi Heltriegel und Kathie Lam (von links nach rechts) machen sich gegen Tierleid stark. / © Nela König für PETA"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_PETA-Lieber-nackt-als-im-Pelz-Models-25jahre-Ansicht-2019-03____m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_PETA-Lieber-nackt-als-im-Pelz-Models-25jahre-Ansicht-2019-03____l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEDBQYCBAj/xAApEAACAgEEAQIFBQAAAAAAAAABAgMEEQAFEiExFEEGEyJRcTIzQmGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOlt5sCnVew04hROifkmUkk4GFXs/ga0bG4rAZRNuECivCJpnFVirAn+OG84I6GT9Q++sPi6dBWrIyrLEbIMsJUnmq/UcfjGevPj31Xbc9GO1M/pme2yx1ysilA8R4kAKfH6ePjIaLBHegldw+LdpobPPudreoIaUUSztMakhAR+kGPJbLL9PnvBAzqeoS+orQ2EtRWYJlSSKSJOKspwQw7OQQdUO7u+2Qutezt9f03ORXaZflcUiVCePXI4JPHiPKge+rj8PWq0+zU2qMnpwEWJVQoUTrirKe1IHWPbGgXcKFW08osRGQM5zmRh7Y6wev8ANN1Nm22tHwrU4okzy4p4J67I+/Q789aNGgfj2+nCx+VVhQHAIVABqP2fbL0UlaaxapMVkYv6eo0XMZ6H7h/rznx7aNGg/9k=" />
+<RemoteImage alt={`lieber-nackt-als-im-pelz`} size="medium"
+title={`Kampagne 2019. Emily Lucia Harnack, Svenja Holtmann, Lara Koch, Roxi Heltriegel und Kathie Lam (von links nach rechts) machen sich gegen Tierleid stark. / © Nela König für PETA`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_PETA-Lieber-nackt-als-im-Pelz-Models-25jahre-Ansicht-2019-03____m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_PETA-Lieber-nackt-als-im-Pelz-Models-25jahre-Ansicht-2019-03____l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEDBQYCBAj/xAApEAACAgEEAQIFBQAAAAAAAAABAgMEEQAFEiExFEEGEyJRcTIzQmGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOlt5sCnVew04hROifkmUkk4GFXs/ga0bG4rAZRNuECivCJpnFVirAn+OG84I6GT9Q++sPi6dBWrIyrLEbIMsJUnmq/UcfjGevPj31Xbc9GO1M/pme2yx1ysilA8R4kAKfH6ePjIaLBHegldw+LdpobPPudreoIaUUSztMakhAR+kGPJbLL9PnvBAzqeoS+orQ2EtRWYJlSSKSJOKspwQw7OQQdUO7u+2Qutezt9f03ORXaZflcUiVCePXI4JPHiPKge+rj8PWq0+zU2qMnpwEWJVQoUTrirKe1IHWPbGgXcKFW08osRGQM5zmRh7Y6wev8ANN1Nm22tHwrU4okzy4p4J67I+/Q789aNGgfj2+nCx+VVhQHAIVABqP2fbL0UlaaxapMVkYv6eo0XMZ6H7h/rznx7aNGg/9k="
+/>
 
 Vom Pelz einmal abgesehen: Natürlich handelt es sich auch bei Leder um die Haut
 von Tieren. Dabei handelt es sich übrigens nicht, wie häufig behauptet wird, um
 ein Abfallprodukt aus der Fleischproduktion (Allen, die es genauer wissen
 möchte, lege ich hierzu gerne den Film Earthlings ans Herz.
-[Er ist frei verfügbar und kann jederzeit kostenlos online angeschaut werden](http://www.earthlings.de/).
+[Er ist frei verfügbar und kann jederzeit kostenlos online angeschaut werden](/2020/07/earthlings/).
 ) Hinzukommt, dass es durch den Einsatz hochgiftiger Chemikalien bei der
 Herstellung eine große Umweltbelastung darstellt.
 

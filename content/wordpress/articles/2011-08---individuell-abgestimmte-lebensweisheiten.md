@@ -15,12 +15,12 @@ labels:
   - die Radieschen von oben betrachten
   - Fledermaus
   - Fledermäuse
+  - Geschichten & Erlebtes
   - Lebensweisheiten
   - Liebe
   - Marmelade
   - Phantasie
   - Plattencover mit Enten drauf
-  - Prosa
   - Sie wollen uns erzählen
   - Tocotronic
   - Übersinnliches

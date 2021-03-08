@@ -13,10 +13,10 @@ labels:
   - Elbe
   - Elbphilharmonie
   - Gedicht
+  - Geschichten & Erlebtes
   - Hafen
   - Hamburg
   - Kitsch
-  - Lyrik
   - Romantik
   - Seefahrer
   - Sonnenuntergang

@@ -14,13 +14,13 @@ focusKeyword: Cork
 labels:
   - Apple
   - Blizzard
-  - Brititsche Inseln
+  - Britische Inseln
   - Cork
   - facebook
+  - Fernweh
   - Hipster
   - Irland
   - Irland2017
-  - Reisen
   - Technik
 type: Artikel
 typeName: Artikel
@@ -44,7 +44,7 @@ Stadt bis ins 7. Jahrhundert zurückreicht.**
 
 Überall gibt es hippe Cafés und Bars und ganze Straßenzüge wirken wie "neu
 angelegt". Natürlich partizipiert man davon auch als Tourist. Vom Bubble Tea
-Stand bis zur angesagten, gehobenen (und teuren) [veganen](/category/vegan-2/)
+Stand bis zur angesagten, gehobenen (und teuren) [veganen](/category/vegan/)
 Szenegastronomie ist hier alles geboten.
 
 Auch Hotels, Hostels und Couchsurfing-Möglichkeiten gibt es wie Sand am Meer.

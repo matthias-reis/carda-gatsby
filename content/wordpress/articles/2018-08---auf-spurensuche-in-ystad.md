@@ -12,12 +12,12 @@ excerpt: Auf der Durchreise machten wir einen Kaffeehalt in der Krimistadt
   Gassen.
 focusKeyword: Ystad
 labels:
+  - Fernweh
+  - Geschichten & Erlebtes
   - Henning Mankell
   - Kommissar Kurt Wallander
   - Kommissar Wallander
   - Krimi
-  - Lyrik
-  - Reisen
   - Schweden
   - Schweden2018
   - Skandinavien

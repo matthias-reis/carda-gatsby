@@ -11,9 +11,9 @@ excerpt: Mut zu hinterfragen - darauf kommt es an. Von der essentiellen
 focusKeyword: Mut zu hinterfragen
 labels:
   - Angst
+  - Geschichten & Erlebtes
   - Gesellschaft
   - Löwen
-  - Lyrik
   - Nahrungskette
   - Natur
   - Stadt
@@ -34,6 +34,8 @@ subTitle: Gedicht über eine Löwin und ihre Jungen - oder?
   
 ---
 
+<blockquote>
+
 Bleiben oder sterben, fragte sich die Löwin und ging. Einst Teil eines stolzen
 Rudels, heute nur noch auf der Flucht
 
@@ -50,5 +52,7 @@ Sorgen adieu. Der Frühling ist da.
 Die Nachkommen lagern im Schatten. Sand unter der Mähne.
 
 Sensationslust war gestern. Heute wird hinterfragt.
+
+</blockquote>
 
   

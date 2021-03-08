@@ -14,16 +14,16 @@ focusKeyword: Amsterdam
 labels:
   - Amsterdam
   - Amsterdam2018
+  - Fernweh
   - Flarf
   - Gedicht
+  - Geschichten & Erlebtes
   - Liebe
-  - Lyrik
   - Poesie
-  - Reisen
   - Reisen
   - Sehnsucht
 type: Galerie mit Bild
-typeName: Galerie mit Bild
+typeName: Gedicht
 date: 2018-03-15T08:00:01.000Z
 status: publish
 isWerbung: false
@@ -41,6 +41,8 @@ subTitle: Grachten, Gassen und Poesie
 einem kleinen Gedicht verbinden, das heute morgen auf einer Seite meines
 Notizbuchs Form angenommen hat.**
 
+<blockquote>
+
 Sehnsucht am Sonntag Wir finden einen kleinen Ecktisch
 [Vermeer](/2018/03/rijksmuseum-amsterdam/) war auch hier Grachten, Kanäle, Liebe
 zum Meer
@@ -55,6 +57,8 @@ Türkisblau schimmert die Liebe. Ein Gewirr aus Wasserwegen.
 
 Es hat irgendetwas mit dem Wasser zu tun. Purer Optimismus und offene
 Freundlichkeit. Wo ein Wasser, da ein Weg.
+
+</blockquote>
 
 <Gallery name="flickr/anneamsterdam2017grachtenundgassen" />
 

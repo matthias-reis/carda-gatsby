@@ -7,7 +7,7 @@ fileName: 2015-06---planten-un-blomen.md
 description: Planten un Blomen - Zwischen St. Pauli und der Neustadt befindet
   sich Hamburg grüner Fluss
 excerpt: Kennt Ihr schon Planten un Blomen? Dabei handelt sich um ein grünes
-  Universum, dass sich zwischen dem Congress Center Hamburg  und dem
+  Universum, dass sich zwischen dem Congress Center Hamburg  und dem
   Millerntor-Stadion erstreckt.
 focusKeyword: Planten un Blomen
 labels:
@@ -41,6 +41,12 @@ subTitle: Hamburgs grüner Fluss
   
 ---
 
+**Kennt Ihr schon Planten un Blomen? Dabei handelt sich um ein grünes Universum,
+dass sich zwischen dem Congress Center Hamburg  und dem Millerntor-Stadion
+erstreckt. Planten un Blomen ist plattdeutsch und bedeutet so viel wie Pflanzen
+und Blumen. Getreu dem Motto findet man in der bogenförmigen Parkanlage alles,
+was grünt und blüht.**
+
 Auf 47 Hektar findet man zahlreiche Themengärten wie einen Rosengarten, einen
 Apothekergarten und einen Chinesischen Garten, verschiedene Vegetationszonen und
 Gedenkstätten. Es gibt Wasserspiele, Spielplätze, eine Skatebahn, die im Winter
@@ -69,7 +75,7 @@ erhielt den klangvollen Namen "Planten un Blomen".
 
 ## Die Internationale Gartenbauausstellung
 
-Unter anderem fand dort in den Jahren 1953, 1963 und 1973 die Internationale
+Unter anderem fand dort  in den Jahren 1953, 1963 und 1973 die Internationale
 Gartenbauausstellung IGA statt. 1986 wandelte man das Gelände dann in den
 öffentlich zugänglichen Park um, als der er heute bekannt ist. Seit dieser Zeit
 ist der Besucht dort kostenlos.
@@ -100,17 +106,23 @@ Klickse für Euch vorbereitet. Ich hoffe, sie gefällt Euch!
 <Gallery name="flickr/anneplantenunblomen52015" />
 
 Weitere Bilder findet Ihr wie immer in meinem
-[Flickr](https://www.flickr.com/photos/99929697@N07/) ## Weite Infos
+[Flickr](https://www.flickr.com/photos/99929697@N07/)
+
+## Weite Infos
+
 [Anfahrt und Parken](http://plantenunblomen.hamburg.de/anfahrt-parken/) Planten
 un Blomen
 
-## Wegweiser Planten un Blomen1. Planten un Blomen - Hamburgs grüner Fluss (Juni 2015) [](/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/)
+## Wegweiser Planten un Blomen
 
+1.  Planten un Blomen - Hamburgs grüner Fluss (Juni 2015)
+    [](/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/)
 1.  [Ein Rundgang durch die Klimazonen (Januar 2016)](/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/)
 1.  [Blütenmeer im Winter (Januar 2016)](/2016/01/bluetenpracht-im-winter/)
 1.  [Möwen auf der Brücke (Januar 2016)](/2016/01/moewen-auf-der-bruecke/)
 1.  [1. Mai bei Planten un Blomen (Mai 2016)](/2016/05/1-mai-bei-planten-un-blomen/)
 1.  [Weihnachten bei Planten un Blomen (Dezember 2017)](/2017/12/weihnachten-bei-planten-un-blomen/)
-    [Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+[Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
   

@@ -12,6 +12,7 @@ excerpt: Was mir in Wismar gleich als allererstes auffällt sind die Rosen. Sie
 focusKeyword: Wismar
 labels:
   - Ausflug
+  - Fernweh
   - Hafen
   - Hafenfest
   - Hansestadt
@@ -19,7 +20,6 @@ labels:
   - Möwen
   - Norddeutschland
   - Ostsee
-  - Reisen
   - Wismar
 type: Galerie mit Bild
 typeName: Galerie mit Bild

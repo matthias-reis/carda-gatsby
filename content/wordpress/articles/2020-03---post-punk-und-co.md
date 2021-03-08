@@ -4,19 +4,19 @@ seoTitle: Post-Punk und Co. - Playlist von Joy Division bis Idles
 slug: post-punk
 path: /2020/03/post-punk/
 fileName: 2020-03---post-punk-und-co.md
-description: Habt Ihr Lust auf ein bisschen Post-Punk, No-Wave und New-Wave? Ich
+description: Habt Ihr Lust auf ein bisschen Post-Punk, No Wave und New Wave? Ich
   habe eine umfangreiche Playlist zusammengestellt, die keine Wünsche offen
   lässt.
-excerpt: Habt Ihr Lust auf ein bisschen Post-Punk, No-Wave und New-Wave? Ich
+excerpt: Habt Ihr Lust auf ein bisschen Post-Punk, No Wave und New Wave? Ich
   habe eine umfangreiche Playlist zusammengestellt, die keine Wünsche offen
   lässt.
 focusKeyword: Post-Punk
 labels:
-  - Bands & Reviews
-  - Dark-Wave
+  - Bands
+  - Dark Wave
   - Musikliste
-  - New-Wave
-  - No-Wave
+  - New Wave
+  - No Wave
   - Playlist
   - Post-Punk
   - Post-Punk Liste
@@ -28,21 +28,21 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors: {}
-thumbnailId: "28515"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_12-Songs-Header-1.png__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_12-Songs-Header-1.png__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,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
+thumbnailId: "31232"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_12-Songs-Header__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_12-Songs-Header__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKRAAAgEDBAAFBAMAAAAAAAAAAQIDBAURAAYSIQcTFCIxQUJRYXGB0v/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAQL/xAAgEQACAgIABwAAAAAAAAAAAAABAgARAyEEEhMxQVHR/9oADAMBAAIRAxEAPwDB9nWujuclw9cjusEKyKA5UZLYOcfrRuCwmO48bLTTy0vlqcg8/d9RnT/SeFd9sMNTOm49vJyQiSESsZJAo58FBTpiB8alpHtqwRIhSSRk7IiqFdiQTjCtjOSBkfgdaQvR1CQBl1O3si5WylnuLXSqjpkdE8sygjkQTnHWmy6WyimtNPPHGjtLMzK4+SnBSP67zrOLk1venqY+YilVmZC8dRkDiDjDMfrkdjr8nrWxUO17hV2O1MlXSovp1k95b7o48D4/Wp2x32jc7XqJdj8Ro7lY4bbLC0txqB6RYUhKxkMCOZwD2B10Rq7E+xodwpZayxQQ1EkgginKkxGTA9pIbK9nHY+dGjWEnqiImNV4R69/I+jZmzHh5tt+3EEZPTf61frK2nioVioWjWKFFRVU9KoGAB/AGjRqrxOQNz//2Q==
 subTitle: Von Joy Division bis Idles
   
 ---
 
-**Wer hat Lust auf ein bisschen Post-Punk, No-Wave und New-Wave? Ich habe eine
+**Wer hat Lust auf ein bisschen Post-Punk, No-Wave und New Wave? Ich habe eine
 Playlist mit 27 Songs für Euch zusammengestellt.**
 
 Es ist schon ein paar Tage her, da schickte mir Valentin den Song "Crystal
 Machete" von Wes Borland. Weil der Musiker eher für einen ganz anderen Musikstil
 bekannt ist, wundert es Euch vielleicht, dass mich der Song zu einer Playlist
-mit New-Wave, No-Wave und Post-Punk inspiriert hat. Beim Hören stellt Ihr dann
+mit New Wave, No-Wave und Post-Punk inspiriert hat. Beim Hören stellt Ihr dann
 unter Umständen fest, dass das doch eigentlich ziemlich gut zusammenpasst.
 Vielleicht hat sich Wes ja Inspiration bei eben jenen Musiker⋆innen geholt?
 Möglich wäre es.

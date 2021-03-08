@@ -62,8 +62,9 @@ So die Direktorin des HSI Farm Animal Departments Chetana Mirle.
 
 > "Unser Blick in die Zukunft ist zuversichtlich, wir freuen uns darauf, dafür
 > zu sorgen, dass Praktiken wie Mulesing, die eine immense Qual für die Tiere
-> bedeuten, schon sehr bald endgültig der Vergangenheit angehören werden."##
-> Meinung
+> bedeuten, schon sehr bald endgültig der Vergangenheit angehören werden."
+
+## Meinung
 
 Über den Konzern mag man denken, was man möchte. Gerade ob der neusten
 Schlagzeilen bezüglich der "recycelten" Jeans, bei der Kunden darum gebeten

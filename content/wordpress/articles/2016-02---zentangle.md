@@ -11,7 +11,7 @@ excerpt: Zentangle ist genau das Richtige, um etwas Entspannung in den Alltag zu
   bringen. Dafür braucht man nur ein paar Stifte und ein weißes Blatt Papier.
 focusKeyword: Zentangle
 labels:
-  - DIY
+  - Achtsamkeit
   - Doodle
   - Entspannung
   - Kreativität
@@ -38,13 +38,11 @@ subTitle: Malen als kreative Prokrastination
   
 ---
 
-<RemoteImage
-  alt="Zentangle Katze"
-  size="medium"
-  title="Zentangle Katze"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24267467573_b66df77d05_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24267467573_b66df77d05_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUGBwIDCP/EACgQAAICAQMDAwQDAAAAAAAAAAECAxEEAAUSBiExQVFhBxMUcYKRof/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAbEQEBAAIDAQAAAAAAAAAAAAABAAIRISJBUf/aAAwDAQACEQMRAD8AvbHg5nxplFgrQsD+tDNkwbdt0+ZlMqQwoXYkgXQsAX6nwBojad82zc8eCTEzIC0tARGRQ4ar4lbvkPb40kjfFzJ+sMiE5ckGDiYsMyY8aLWQZDIrF2IulKgACtF5EHD0GsOtJTtEm39QoSIsOUY+YoF88aVlUn9q/Bx/L3013GOuXuO2qySb7skPUO0/iSS/ZlVucUtcgpog2LFgg/vUBw45/ppvE82dG24TPiMMaSNVSOZiba2PdCKHYA9jqxsefgRrbuSxbptWVgZDssWRGY2ZQCy36iwRfzrnlip1dNR+1DdS9U7vvgaXcc2QxsqyjHjcpAnE2KS6aiAbN+PjXQD5Lz4MEswCyyRI7qPAYqCf9J1BIvpzs8EsLfm5k0SOrvHMEb7hBBIJAHY8ar5PvqX5M5kYknyb1rXKzwv/2Q==" />
+<RemoteImage alt={`Zentangle Katze`} size="medium" title={`Zentangle Katze`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24267467573_b66df77d05_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24267467573_b66df77d05_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUGBwIDCP/EACgQAAICAQMDAwQDAAAAAAAAAAECAxEEAAUSBiExQVFhBxMUcYKRof/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAbEQEBAAIDAQAAAAAAAAAAAAABAAIRISJBUf/aAAwDAQACEQMRAD8AvbHg5nxplFgrQsD+tDNkwbdt0+ZlMqQwoXYkgXQsAX6nwBojad82zc8eCTEzIC0tARGRQ4ar4lbvkPb40kjfFzJ+sMiE5ckGDiYsMyY8aLWQZDIrF2IulKgACtF5EHD0GsOtJTtEm39QoSIsOUY+YoF88aVlUn9q/Bx/L3013GOuXuO2qySb7skPUO0/iSS/ZlVucUtcgpog2LFgg/vUBw45/ppvE82dG24TPiMMaSNVSOZiba2PdCKHYA9jqxsefgRrbuSxbptWVgZDssWRGY2ZQCy36iwRfzrnlip1dNR+1DdS9U7vvgaXcc2QxsqyjHjcpAnE2KS6aiAbN+PjXQD5Lz4MEswCyyRI7qPAYqCf9J1BIvpzs8EsLfm5k0SOrvHMEb7hBBIJAHY8ar5PvqX5M5kYknyb1rXKzwv/2Q=="
+/>
 
 **Ob wirklich jeder malen kann, wie es ein berühmter Spielehersteller immer
 behauptet hat, weiß ich nicht. Tatsache ist jedoch, dass ich es bis dato nicht

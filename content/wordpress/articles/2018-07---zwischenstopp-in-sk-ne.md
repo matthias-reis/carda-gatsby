@@ -10,10 +10,10 @@ excerpt: Nach unserer Anreise über Dänemark hatten wir am 20. Juni einen
   wundervollen entspannten Tag am Strand in der Schwedischen Provinz Skåne.
 focusKeyword: Skåne
 labels:
+  - Fernweh
   - Ostsee
   - Reise
   - Reiseblog
-  - Reisen
   - Roadtrip
   - Schweden
   - Schweden2018

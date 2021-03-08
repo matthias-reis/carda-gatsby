@@ -17,6 +17,7 @@ labels:
   - Biotee
   - Chia Samen
   - Chiasamen
+  - Ernährung & Gesundheit
   - Griechischer Bergtee
   - Handcreme
   - Klettensamen
@@ -29,7 +30,6 @@ labels:
   - Pfefferminztee
   - Ringelblume
   - Tee
-  - Vegane Produkte
 type: Artikel
 typeName: Produkttest
 date: 2020-02-16T15:21:48.000Z
@@ -154,13 +154,10 @@ habe ich selbst ihm auch keinerlei Beachtung geschenkt. Es war Bestandteil jedes
 verklebten Gewürzregals in jeder Gelsenkirchener Barock Standardküche und für
 mich genauso spießig wie Saucenbinder und Kittelschürzen.
 
-<RemoteImage
-  alt="Kräuterkontor"
-  size="medium"
-  title=""
-  mediumUrl="https://www.adcell.de/promotion/image/promoId/209308/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/image/promoId/209308/slotId/80259"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Kräuterkontor`} size="medium" title={``}
+mediumUrl="https://www.adcell.de/promotion/image/promoId/209308/slotId/80259"
+largeUrl="https://www.adcell.de/promotion/image/promoId/209308/slotId/80259"
+loadingUrl="undefined" />
 
 Dass ich mich da ziemlich verschätzt hatte, bewies mir Matze, der damit in der
 Küche die tollsten Dinge anstellt. Er fügt es so gut wie jedem Gericht hinzu und

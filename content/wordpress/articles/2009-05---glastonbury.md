@@ -10,17 +10,17 @@ excerpt: Glastonbury ist eine Kleinstadt in Somerset. Bekannt ist die Stadt
   Avalon sein soll.
 focusKeyword: Glastonbury
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
   - England
   - England2009
   - Esotherik
+  - Fernweh
   - Fotos
   - Frühling
   - GB
   - Glastonbury
   - Glastonbury Festival
   - Reise
-  - Reisen
   - Reisen
 type: Galerie
 typeName: Galerie
@@ -37,16 +37,22 @@ subTitle: Erinnerungen an den Frühling in England 2009 - Teil 3/17
   
 ---
 
+** [_Teil 2/17_](/2009/05/sissinghurst-castle/) Glastonbury ist eine Kleinstadt
+in Somerset. Bekannt ist die Stadt nicht nur durch die Mythen um den Hügel
+Glastonbury Tor, der das sagenhafte Avalon sein soll.**
+
 Auch die Ruinen des Glastonbury Abbey, und nicht zuletzt das Glastonbury
 Festival, das hier jährlich stattfindet und Musikliebhaber aus ganz Europa
 anzieht, sind weltweit bekannt.
 
 <Gallery name="flickr/anneglastonbury2009" />
 
-_Hier geht's zu [Teil 4/17](/2009/05/stonehenge-11-05-2009/) _ ## England 2009
-Wegweiser1. 10. Mai 2009
-[Überfahrt von Duncerque nach Dover](/2009/05/uberfahrt-von-duncerque-nach-dover-10-05-2009/)
+_Hier geht's zu [Teil 4/17](/2009/05/stonehenge-11-05-2009/) _
 
+## England 2009 Wegweiser
+
+1.  10. Mai 2009
+        [Überfahrt von Duncerque nach Dover](/2009/05/uberfahrt-von-duncerque-nach-dover-10-05-2009/)
 1.  10. Mai 2009 [Sissinghurst Castle](/2009/05/sissinghurst-castle/)
 1.  11. Mai 2009 [Glastonbury](/2009/05/glastonbury-11-05-2009/)
 1.  11. Mai 2009 [Stonehenge](/2009/05/stonehenge-11-05-2009/)
@@ -64,6 +70,7 @@ Wegweiser1. 10. Mai 2009
 1.  19. Mai 2009 [Bradstock](/2009/05/bradstock-19-05-2009/)
 1.  20. Mai 2009 [Dorchester](/2009/05/dorchester/)
 1.  21. Mai 2009 [London](/2009/05/london-21-05-2009/)
-        [Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+[Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
   

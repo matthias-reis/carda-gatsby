@@ -41,6 +41,10 @@ subTitle: Impressionen aus dem Roten Moor
   
 ---
 
+**Das Rote Moor bei Fulda ist ein ganz besonders schönes Hochmoor. Mir sind dort
+vor Kurzem ein paar gruselige Fabelwesen begegnet. Ich habe sie fotografisch
+festgehalten.**
+
 <Gallery name="flickr/fabelwesenimhochmoor" />
 
   

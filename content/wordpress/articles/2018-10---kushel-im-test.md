@@ -12,13 +12,13 @@ excerpt: Werbung - Dass ich immer neugierig auf interessante nachhaltige
 focusKeyword: Kushel
 labels:
   - Baumwolle
+  - Fair Fashion & Beauty
   - Handtuch
   - Handtücher
   - Holz
   - Kushel
   - Tencel
   - Towel
-  - Vegane Produkte
 type: Artikel
 typeName: Produkttest
 date: 2018-10-28T16:03:30.000Z
@@ -26,7 +26,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Unterminated JSX contents (104:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (100:16)"
 thumbnailId: "22467"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-003__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-003__l.jpg
@@ -35,7 +35,7 @@ subTitle: Nachhaltige Handtücher als Holz
   
 ---
 
-## unknown: Unterminated JSX contents (104:16)
+## unknown: Unterminated JSX contents (100:16)
 
 <!--
 _Werbung\*_
@@ -54,13 +54,11 @@ auch und schickte eine Anfrage an Gründer Mattias.
 Er war sofort Feuer und Flamme von meinem Angebot, "Kushel" auf meiner Seite
 vorzustellen und erzählte mir von seinem erklärten Ziel:
 
-<RemoteImage
-  alt="Kushel"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-027__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-027__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABMDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBwgE/8QAJhAAAgEDBAEEAwEAAAAAAAAAAQIDBAURAAYSIRMHMUFxFFGBYf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEgMRUQT/2gAMAwEAAhEDEQA/ALwtCGKljhVQq5zkHjnvPf70j7taOK7RPHUBLiGWoc5PLgX4/WPj60y3K6x0DWaKTyK1TLEiuCQpLniFzjs5GcfA70s3/bFbW7pSVZpFpEf8tmJyOWQOAH8z9HSvppylkbwTNN6fQzO6RsVlETv75Ix9aNVnu7etrp9x1sFR5VniZY5AhbjyCgHGP9GjWjc+g5rwl6mVlzvKbNoNsU0tfXW+5R1dRAAUAHHEeJGwnYLD36JH71Y98vMtFEaqS0XA8eXFAgPPIyFBB9yQBjWfPSz1B2fTWmCbeU7DcNPVu8VY0UrMEHHxnkmQeJzjIOOtOFRufZe4qOmhv29EuLxSkpKX/CIQhQUYBQCDxySe8+2NJ5FokNSzOm4b1dHv1xav89PVmokM0MgKMj8jkEfBB0a4tw1iV9/ulYrKVqKqWUfPTOSO/wC6NEiu0f/Z" />
+<RemoteImage alt={`Kushel`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-027__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-027__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABMDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBwgE/8QAJhAAAgEDBAEEAwEAAAAAAAAAAQIDBAURAAYSIRMHMUFxFFGBYf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEgMRUQT/2gAMAwEAAhEDEQA/ALwtCGKljhVQq5zkHjnvPf70j7taOK7RPHUBLiGWoc5PLgX4/WPj60y3K6x0DWaKTyK1TLEiuCQpLniFzjs5GcfA70s3/bFbW7pSVZpFpEf8tmJyOWQOAH8z9HSvppylkbwTNN6fQzO6RsVlETv75Ix9aNVnu7etrp9x1sFR5VniZY5AhbjyCgHGP9GjWjc+g5rwl6mVlzvKbNoNsU0tfXW+5R1dRAAUAHHEeJGwnYLD36JH71Y98vMtFEaqS0XA8eXFAgPPIyFBB9yQBjWfPSz1B2fTWmCbeU7DcNPVu8VY0UrMEHHxnkmQeJzjIOOtOFRufZe4qOmhv29EuLxSkpKX/CIQhQUYBQCDxySe8+2NJ5FokNSzOm4b1dHv1xav89PVmokM0MgKMj8jkEfBB0a4tw1iV9/ulYrKVqKqWUfPTOSO/wC6NEiu0f/Z"
+/>
 
 <div class="wp-block-image">
 <figure class="alignright">
@@ -97,13 +95,11 @@ Baumwoll-Frotteetücher können da schon mal etwas fester werden. Bei den
 "Kuschel" Tüchern ist das nicht der Fall. Sie sind auch nach dem Waschen wieder
 angenehm kuschelig. Der Name ist also schon mal Programm.
 
-<RemoteImage
-  alt="Kushel"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-029__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-029__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAHBf/EACwQAAIBAwQBAwALAAAAAAAAAAECAwQFEQAGEiETB0FhFBYxMlFicYGRotH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQA/8QAHxEBAAIBBAMBAAAAAAAAAAAAAQACEgMEESETMVFB/9oADAMBAAIRAxEAPwDWdt03go08a4ZlCcgeJGMjH6f5ozvdUju5ZJZUrEbzCYA9Yb7obOM47x+HeNKKqqFDtuabi2BLw5g8QhJGCT7DJA+SRrjbs2u9z3HGVLRxO3nlkGSQylRhfzHr+x9tQ7qyUrj+yrbVq3coiWWmgVfp0cMjyAOpLccLjGP5B1aFbq3PRx3QU1QAammjWOXipxnthjHww/fI1aea1OPcHx3+Tmboq63dHp5cbRt2CequrTU0hh4FA6xOpk4u2FPaj37701rt1RpI01VZ75StHHLMyT0LAsoXJC8eWT1jWE7B9QtrWbb9JBeEq7buKKGSBrpDTeRmDOSG5AkMePEHK+2kVdvLZlwpXuf1nNXeKajl4s8jU3ncI/DMfEDPYAAxnAznStSjYD5NRB5mGX7cdZeb3XXCZ6lXqZmkKqxXjk/Zj41aOQ100EYWKVlB7OGIyffVp+KdBByHtZ//2Q==" />
+<RemoteImage alt={`Kushel`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-029__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-029__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAHBf/EACwQAAIBAwQBAwALAAAAAAAAAAECAwQFEQAGEiETB0FhFBYxMlFicYGRotH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQA/8QAHxEBAAIBBAMBAAAAAAAAAAAAAQACEgMEESETMVFB/9oADAMBAAIRAxEAPwDWdt03go08a4ZlCcgeJGMjH6f5ozvdUju5ZJZUrEbzCYA9Yb7obOM47x+HeNKKqqFDtuabi2BLw5g8QhJGCT7DJA+SRrjbs2u9z3HGVLRxO3nlkGSQylRhfzHr+x9tQ7qyUrj+yrbVq3coiWWmgVfp0cMjyAOpLccLjGP5B1aFbq3PRx3QU1QAammjWOXipxnthjHww/fI1aea1OPcHx3+Tmboq63dHp5cbRt2CequrTU0hh4FA6xOpk4u2FPaj37701rt1RpI01VZ75StHHLMyT0LAsoXJC8eWT1jWE7B9QtrWbb9JBeEq7buKKGSBrpDTeRmDOSG5AkMePEHK+2kVdvLZlwpXuf1nNXeKajl4s8jU3ncI/DMfEDPYAAxnAznStSjYD5NRB5mGX7cdZeb3XXCZ6lXqZmkKqxXjk/Zj41aOQ100EYWKVlB7OGIyffVp+KdBByHtZ//2Q=="
+/>
 
 <div class="wp-block-image">
 <figure class="alignright">

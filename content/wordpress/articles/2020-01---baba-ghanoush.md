@@ -24,6 +24,7 @@ labels:
   - traditionelle Rezepte
   - vegane Dips
   - vegane Küche
+  - vegane Rezepte
   - Vegane Rezepte
 type: Artikel
 typeName: Rezept

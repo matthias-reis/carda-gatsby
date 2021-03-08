@@ -12,6 +12,7 @@ focusKeyword: Königsstuhl
 labels:
   - Ausflug
   - Buchen
+  - Fernweh
   - Hagen
   - Jasmund
   - Königsstuhl
@@ -23,7 +24,6 @@ labels:
   - Nationalpark Jasmund
   - Nationalpark Rügen
   - Ostsee
-  - Reisen
   - Rügen
   - Rügenkreise
   - Sassnitz
@@ -59,13 +59,11 @@ funkelnde Beerlauchpflanzen und Scharen an Vögeln.
 
 ## Der Königsstuhl und seine Wälder
 
-<RemoteImage
-  alt="Königsstuhl"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_40950562500_d6b2005d1a_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_40950562500_d6b2005d1a_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgX/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREAEiETMZEGByJRYXFiocH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwAEBQb/xAAjEQABBAIBAwUAAAAAAAAAAAABAAIDERIhMQQiYUFxgdHw/9oADAMBAAIRAxEAPwB+6e6tVFbWnWhpaMrIVDENI0gxkbVPbPPf60pB7t3Y3MUUFvoa4ABursMYZTjJ4PGCR2/OprW2ytpbaxNPWxmOdWBqAyqcZOA2OO/nnTFFFNa6i1VkSNWxGmaneSKBpFif5ADcRkNtJJI+tZpnc2yXku3QuvSxpJEd8DSqtZ7lXCGoljjo7d8EhfIVj8HYgscnggD+xo1LqmZoqI0fTDpHIm3roWWVsF2WRTjcBjA/ejVcTyu5lI/BFh4Wml9WzxrtmZ+R2YnB899NUHql5bVcHDMpgMbCRVOEHOckds8DWOpKCA2WGe4zVSSOq5lCGXCkZA2/rsSfrXOvtjSlCR0t8YRNF1l6rhGf+Mm1jg88A4Oujl60TsxGjY37EFKj6bDudx9hUik9Uq6hKmaRSykrudW3cHxjjg86NQ2SoiiaXdJSwPLw7KwLN4/3RqTZudYfXygEQ8r/2Q==" />
+<RemoteImage alt={`Königsstuhl`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_40950562500_d6b2005d1a_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_40950562500_d6b2005d1a_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgX/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREAEiETMZEGByJRYXFiocH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwAEBQb/xAAjEQABBAIBAwUAAAAAAAAAAAABAAIDERIhMQQiYUFxgdHw/9oADAMBAAIRAxEAPwB+6e6tVFbWnWhpaMrIVDENI0gxkbVPbPPf60pB7t3Y3MUUFvoa4ABursMYZTjJ4PGCR2/OprW2ytpbaxNPWxmOdWBqAyqcZOA2OO/nnTFFFNa6i1VkSNWxGmaneSKBpFif5ADcRkNtJJI+tZpnc2yXku3QuvSxpJEd8DSqtZ7lXCGoljjo7d8EhfIVj8HYgscnggD+xo1LqmZoqI0fTDpHIm3roWWVsF2WRTjcBjA/ejVcTyu5lI/BFh4Wml9WzxrtmZ+R2YnB899NUHql5bVcHDMpgMbCRVOEHOckds8DWOpKCA2WGe4zVSSOq5lCGXCkZA2/rsSfrXOvtjSlCR0t8YRNF1l6rhGf+Mm1jg88A4Oujl60TsxGjY37EFKj6bDudx9hUik9Uq6hKmaRSykrudW3cHxjjg86NQ2SoiiaXdJSwPLw7KwLN4/3RqTZudYfXygEQ8r/2Q=="
+/>
 
 Die Buchenwälder rund um den Königsstuhl gehören zum UNESCO-Welterbe. Sie sind
 von Menschenhand so gut wie unberührt und ein Überbleibsel einer riesigen

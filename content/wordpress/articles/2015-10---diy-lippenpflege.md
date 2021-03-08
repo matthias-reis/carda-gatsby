@@ -12,10 +12,10 @@ excerpt: Heute möchte ich Euch zeigen, wie Ihr aus ein paar Zutaten eine tolle
 focusKeyword: DIY Lippenpflege
 labels:
   - diy
-  - DIY
   - DIY Kosmetik
   - DIY Lippenpeeling
   - DIY Lippenpflege
+  - Fair Fashion & Beauty
   - Kosmetik
   - Kosmetik selber machen
   - Lippenpeeling
@@ -24,13 +24,11 @@ labels:
   - Lippenpflege
   - Lippenpflege herstellen
   - Lippenpflege vegan
-  - Mode & Beauty
   - Peeling
   - Peeling selber machen
   - vegan
   - vegane Kosmetik
   - vegane Lippenpflege
-  - Vegane Produkte
 type: Artikel
 typeName: Artikel
 date: 2015-10-14T10:39:23.000Z
@@ -46,13 +44,12 @@ subTitle: Peeling aus Kokosöl und Rohrzucker
   
 ---
 
-<RemoteImage
-  alt="DIY Lippenpflege - Die Zutaten"
-  size="medium"
-  title="DIY Lippenpflege - Die Zutaten"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_DIY-Lippenpflege__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_DIY-Lippenpflege__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFCP/EAC0QAAIBAwMCBAUFAQAAAAAAAAECAwQFEQASITFBBgcTMhQjUVKBIkJhcZGh/8QAFwEBAQEBAAAAAAAAAAAAAAAABQMCBP/EACIRAAIBBAEEAwAAAAAAAAAAAAECAAMEESExEhQicUFhkf/aAAwDAQACEQMRAD8ADJRCoV6eB4y5jOSGBwAM9v6GrX5dizC1Qw5hgvDjfVxTlVlLdypPuT7SOMY6a53s081ouNJcBvCxvuw+cMOjA/gnVjsl1tt3pVS3VNqqYFbaKG7D05ITn2pIOGX6dfxou58+eIlUtu3IGc5mz5l2+zQ05njSF7iwwsMG0vI3bdt6DHO44xj/AETS2CU2SB3UmSLdDJhe6nGdOJpaG3UMpuLWmngi+YaK3tvMhH3ueg41HL9ca6qnqaiSdo2qHaV1iO0Ak5x9QBwNZosU1LULFrkEjWI18J0VpqqeVykFRU/LL+oo2IGHXHtUZzjPYc9c605/LmmqK6kYyNRnkM0cCsC2CcbDxjA7cg9yNSGhu8VAywpClXBtCurzNGWA9u4Y5xxg51UfAfjGlt6wz193iSWnz8PAPUl9MnqzHbyccYAAA10AMNN+6hi02J6sHM0Gs1B4YvlOa+iW4WmVF3VEoIaN92GO1SMEZBwRyM450nvtpsfwpK0VM6MuVZXZgw7EHdyNZVb40ss7VDSV271kw6+g5z19vHH/AHQq9+KKWmmBsswFFIxMtG0bhQT+6Mkfp/kdO+NU03xEGqMyKqgqR7wff3P/2Q==" />
+<RemoteImage alt={`DIY Lippenpflege - Die Zutaten`} size="medium"
+title={`DIY Lippenpflege - Die Zutaten`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_DIY-Lippenpflege__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_DIY-Lippenpflege__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFCP/EAC0QAAIBAwMCBAUFAQAAAAAAAAECAwQFEQASITFBBgcTMhQjUVKBIkJhcZGh/8QAFwEBAQEBAAAAAAAAAAAAAAAABQMCBP/EACIRAAIBBAEEAwAAAAAAAAAAAAECAAMEESExEhQicUFhkf/aAAwDAQACEQMRAD8ADJRCoV6eB4y5jOSGBwAM9v6GrX5dizC1Qw5hgvDjfVxTlVlLdypPuT7SOMY6a53s081ouNJcBvCxvuw+cMOjA/gnVjsl1tt3pVS3VNqqYFbaKG7D05ITn2pIOGX6dfxou58+eIlUtu3IGc5mz5l2+zQ05njSF7iwwsMG0vI3bdt6DHO44xj/AETS2CU2SB3UmSLdDJhe6nGdOJpaG3UMpuLWmngi+YaK3tvMhH3ueg41HL9ca6qnqaiSdo2qHaV1iO0Ak5x9QBwNZosU1LULFrkEjWI18J0VpqqeVykFRU/LL+oo2IGHXHtUZzjPYc9c605/LmmqK6kYyNRnkM0cCsC2CcbDxjA7cg9yNSGhu8VAywpClXBtCurzNGWA9u4Y5xxg51UfAfjGlt6wz193iSWnz8PAPUl9MnqzHbyccYAAA10AMNN+6hi02J6sHM0Gs1B4YvlOa+iW4WmVF3VEoIaN92GO1SMEZBwRyM450nvtpsfwpK0VM6MuVZXZgw7EHdyNZVb40ss7VDSV271kw6+g5z19vHH/AHQq9+KKWmmBsswFFIxMtG0bhQT+6Mkfp/kdO+NU03xEGqMyKqgqR7wff3P/2Q=="
+/>
 
 **Ihr kennt das: Kaum wird es draußen kalt und man dreht die Heizung wieder auf,
 bekommt man spröde Lippen.**
@@ -63,18 +60,21 @@ auch gerne zwischendurch.
 Doch um den Lippen alle paar Tage eine echte Frischzellenkur zu geben, habe ich
 einen speziellen Trick, den ich Euch heute verraten möchte **.**
 
-Mit meiner DIY Lippenpflege wirken sie wieder wunderbar rosig. Die Durchblutung
-wird angekurbelt und diese kleinen, fisseligen Hautschüppchen werden sanft
+Mit meiner DIY Lippenpflege wirken sie wieder wunderbar rosig. Die Durchblutung
+wird angekurbelt und diese kleinen, fisseligen Hautschüppchen werden sanft
 entfernt. Die Lippen zeigen sich wieder in ihrer ganzen Schönheit und sehen auch
 ohne Lippenstift richtig toll aus.
 
-## Das braucht Ihr- Kokosöl
+## Das braucht Ihr
 
+- Kokosöl
 - Rohrzucker
 - Tiegel oder Döschen mit Deckel
 - Spatel oder kleinen Löffel
 - Evtl. Mikrowelle
-- Kühlschrank## So stellt Ihr Eure eigene DIY Lippenpflege her
+- Kühlschrank
+
+## So stellt Ihr Eure eigene DIY Lippenpflege her
 
 Füllt das Döschen ca. bis zur Hälfte mit Kokosöl. Falls sich das Kokosöl in
 einem festen Zustand befindet, wärmt es einfach für 30 Sekunden in der
@@ -84,8 +84,7 @@ auf.
 Mit dem Spatel rührt Ihr alles gut durch, bis sich eine homogene Masse ergeben
 hat. Ihr könnt mit der Pipette noch einen Tropfen Rosenöl hinzugeben, das sorgt
 für zusätzliche Pflege und duftet einfach toll. Ich habe dieses Mal Baliblumenöl
-verwendet, das ich bei unseren
-[Flitterwochen](/category/unterwegs/hochzeitsreise/) dort erworben habe. Auf
+verwendet, das ich bei unseren Flitterwochen dort erworben habe. Auf
 zusätzlichen Duft kann jedoch auch einfach verzichtet werden, auch das Kokosöl
 riecht sehr angenehm und erinnert schön an den Sommer am Strand.
 

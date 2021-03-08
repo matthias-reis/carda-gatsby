@@ -20,6 +20,7 @@ labels:
   - Seidentofu
   - The Full Monty
   - vegan
+  - vegane Rezepte
   - Vegane Rezepte
   - Veganer
   - veganes Frühstück

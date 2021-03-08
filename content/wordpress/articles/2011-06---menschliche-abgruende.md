@@ -10,6 +10,7 @@ excerpt: Der Polizeiruf von gestern Abend ("Die verlorene Tochter") stimmt
   nachdenklich. Ein sehr brisantes, aktuelles Thema.
 focusKeyword: Abgründe
 labels:
+  - Antifaschismus & Feminismus
   - Berichterstattung
   - Delikte
   - Einweisung
@@ -24,7 +25,6 @@ labels:
   - Kommission
   - Marie Jane
   - Mörder
-  - Politik & Soziales
   - Polizei
   - Polizeihund
   - Polizeiruf
@@ -51,9 +51,7 @@ date: 2011-06-27T07:57:47.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <div> (29:229)"
+errors: {}
 thumbnailId: "2046"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_06_neues-bild__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_06_neues-bild__l.jpg
@@ -62,9 +60,6 @@ subTitle: '"Die verlorene Tochter"'
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;div> (29:229)
-
-<!--
 Der Polizeiruf von gestern Abend ("Die verlorene Tochter") stimmt nachdenklich.
 Ein sehr brisantes, aktuelles Thema. Parallel dazu trugen im Privatfernsehen
 aufmerksamkeitsgeile C-Promis zur Klimaerwärmung bei, indem sie Fertigpudding
@@ -89,19 +84,6 @@ schützen? Hält es potentielle Straftäter von einem Gewaltdelikt ab? Oder brin
 sie manche sogar erst dazu? Was verleitet einen Menschen zu solch einem
 Verbrechen?
 
-**Link zum Thema:**
-http://www.stern.de/panorama/suche-nach-mary-janes-moerder-1699735.html<div class="mceTemp"><div class="mceTemp">
-
-<RemoteImage
-  alt="Bildquelle: M.E. pixelio.de"
-  size="full"
-  title="Bildquelle: M.E. pixelio.de"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2011/06/neues-bild.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2011/06/neues-bild.jpg"
-  loadingUrl="undefined" />
-
-</div></div>Merken
-
--->
+Bildquelle: M.E. pixelio.de
 
   

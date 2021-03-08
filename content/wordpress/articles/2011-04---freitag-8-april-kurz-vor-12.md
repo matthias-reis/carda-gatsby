@@ -13,10 +13,10 @@ excerpt: Das Wochenende steht vor der Tür. In ein paar Stunden geht es in
 focusKeyword: ""
 labels:
   - Freitag
+  - Geschichten & Erlebtes
   - Josh Homme
   - PJ Harvey
   - Queens Of The Stone Age
-  - Tagebuch
   - Wochenende
 type: Artikel
 typeName: Artikel
@@ -33,8 +33,8 @@ subTitle: Tagebucheintrag
   
 ---
 
-Das Wochenende steht vor der Tür. In ein paar Stunden geht es in Richtung Berge.
-Das Wetter ist schön. Gute Aussichten auch für die nächsten Tage.
+**Das Wochenende steht vor der Tür. In ein paar Stunden geht es in Richtung
+Berge. Das Wetter ist schön. Gute Aussichten auch für die nächsten Tage.**
 
 Stimmung: Eher nachdenklich heute, doch die Laune ist gut. Zeit für einen
 Tapetenwechsel.
@@ -43,7 +43,7 @@ Im Büro ist es laut. Quasselstrippe am Telefon, Baustelle vor dem Fenster. Soga
 die vorbeifahrenden Züge kommen einem heute irgendwie lauter vor. Insgesamt eine
 imposante Geräuschkulisse. Doch zum Glück gibt es Kopfhörer.
 
-**Song des Tages:** PJ Harvey &amp; Josh Homme - Crawl Home
+## Song des Tages: PJ Harvey &amp; Josh Homme - "Crawl Home"
 
 [youtube=http://www.youtube.com/watch?v=Glb_moRvgps]
 

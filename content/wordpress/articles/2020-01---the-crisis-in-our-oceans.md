@@ -14,12 +14,12 @@ focusKeyword: the crisis in our oceans
 labels:
   - aardman
   - Bücher & Filme
-  - Darum vegan
   - fridays for future
   - Greenpeace
   - Klima & Umweltschutz
   - Klimawandel
   - the crisis in our oceans
+  - Tierrechte
   - wallace & gromit
 type: Artikel
 typeName: Artikel
@@ -41,13 +41,11 @@ Habitate sind bedroht: Klimawandel, Plastikflut, Umweltverschmutzung, gnadenlose
 Überfischung und Ölbohrungen sorgen dafür, dass ihre Lebensräume immer weiter
 schrumpfen.**
 
-<RemoteImage
-  alt="the-crisis-in-our-oceans"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_oceans-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_oceans-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgIHCP/EACYQAAEDAwMDBQEAAAAAAAAAAAECAwQAESEFEhMGMVEiMkGBkWH/xAAZAQACAwEAAAAAAAAAAAAAAAABAgADBAX/xAAgEQACAgIABwAAAAAAAAAAAAABAgARAxIEIjEzQWHR/9oADAMBAAIRAxEAPwDnKXoUmFHQ89x7Vi4237fYz9VP6X6Zf6gksxNPSp+a6sJDSB7RcAqUTgAVf+p4zC2W4rzMloOAWLpSAzdN0qv4x8/B81D6R6bTzy5x1tiDp7WxvkQQtx5WD6UDPp7k/VXYzy2Zyzxm6k9DMJvRemrjTWW4yo8hlvcFFxe8KG4bVBWDlObeR5qmnSWjAbdZClkt7nBb2+a2k+XIMd8sFbsJlZ2uYCii9t1vk2zaqu3p5mRp0lkPx5BU6popXsTuxsTYG1jm4IplarsTNizsncJq421bUWHIbEdyQwz6Qta3e5NwbAi+bqJ8YNJo0uOmSspUSnlw5yBRUM2CsD+UUVAg1LQhBsI4Gop4OMOIHa9zS3SZKd0l0SFJ5AsBIVi4Jsf235RRQfxGKCq9/Z//2Q==" />
+<RemoteImage alt={`the-crisis-in-our-oceans`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_oceans-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_oceans-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgIHCP/EACYQAAEDAwMDBQEAAAAAAAAAAAECAwQAESEFEhMGMVEiMkGBkWH/xAAZAQACAwEAAAAAAAAAAAAAAAABAgADBAX/xAAgEQACAgIABwAAAAAAAAAAAAABAgARAxIEIjEzQWHR/9oADAMBAAIRAxEAPwDnKXoUmFHQ89x7Vi4237fYz9VP6X6Zf6gksxNPSp+a6sJDSB7RcAqUTgAVf+p4zC2W4rzMloOAWLpSAzdN0qv4x8/B81D6R6bTzy5x1tiDp7WxvkQQtx5WD6UDPp7k/VXYzy2Zyzxm6k9DMJvRemrjTWW4yo8hlvcFFxe8KG4bVBWDlObeR5qmnSWjAbdZClkt7nBb2+a2k+XIMd8sFbsJlZ2uYCii9t1vk2zaqu3p5mRp0lkPx5BU6popXsTuxsTYG1jm4IplarsTNizsncJq421bUWHIbEdyQwz6Qta3e5NwbAi+bqJ8YNJo0uOmSspUSnlw5yBRUM2CsD+UUVAg1LQhBsI4Gop4OMOIHa9zS3SZKd0l0SFJ5AsBIVi4Jsf235RRQfxGKCq9/Z//2Q=="
+/>
 
 Greenpeace produzierte jetzt gemeinsam mit dem Animationsstudio Aardmann (unter
 anderem bekannt für "Wallace &amp; Gromit" und "Shaun das Schaf") den Kurzfilm
@@ -98,12 +96,10 @@ selbst auf unser Konsumverhalten achten und es jeden Tag hinterfragen. Jeder
 kann etwas tun und viele Menschen, die viele kleine Schritte machen können
 hoffentlich eines Tages große Schritte bewirken.
 
-<RemoteImage
-  alt="the-crisis-in-our-oceans-greenpeace"
-  size="large"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_the-crisis-in-our-oceans-greenpeace-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_the-crisis-in-our-oceans-greenpeace-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACYQAAEEAQQBAwUAAAAAAAAAAAECAwQRBQASITEGE1FhFSIyQUL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMF/8QAIxEAAQMCBQUAAAAAAAAAAAAAAQACAwQhBRMiUWFxgaGx8P/aAAwDAQACEQMRAD8AUIyUgOJfW+Ex2iq2Vvg2j+SOQeuasnrrVLi8g3GdD8uO026LU3ba1J20KJUFHmiTV6hW8egJEJ552Qy0QUertJBCqB4A50MqZMw0Oa7j5j7Zj2napW9Lg9NxR3BVg3Q9vitVzpHW+9LPdhdFGCQzpx5WttvTFIcnIbhKQj7ErtW0EG+93tpP5R5LJxeEaZjT0ssEFKktJ4bq+lfJPV6zjH+Z55L3j6PqDpamJMlxom0AqU4jaE9BICQR+7FknR+OyM3MeRuGfKdcKo0gkg1+IBTwOODzffGiSQu0uA7JKahjhcJGE23X/9k=" />
+<RemoteImage alt={`the-crisis-in-our-oceans-greenpeace`} size="large" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_the-crisis-in-our-oceans-greenpeace-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_the-crisis-in-our-oceans-greenpeace-2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACYQAAEEAQQBAwUAAAAAAAAAAAECAwQRBQASITEGE1FhFSIyQUL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMF/8QAIxEAAQMCBQUAAAAAAAAAAAAAAQACAwQhBRMiUWFxgaGx8P/aAAwDAQACEQMRAD8AUIyUgOJfW+Ex2iq2Vvg2j+SOQeuasnrrVLi8g3GdD8uO026LU3ba1J20KJUFHmiTV6hW8egJEJ552Qy0QUertJBCqB4A50MqZMw0Oa7j5j7Zj2napW9Lg9NxR3BVg3Q9vitVzpHW+9LPdhdFGCQzpx5WttvTFIcnIbhKQj7ErtW0EG+93tpP5R5LJxeEaZjT0ssEFKktJ4bq+lfJPV6zjH+Z55L3j6PqDpamJMlxom0AqU4jaE9BICQR+7FknR+OyM3MeRuGfKdcKo0gkg1+IBTwOODzffGiSQu0uA7JKahjhcJGE23X/9k="
+/>
 
   

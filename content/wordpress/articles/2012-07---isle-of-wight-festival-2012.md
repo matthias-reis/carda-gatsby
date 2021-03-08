@@ -12,20 +12,20 @@ focusKeyword: Isle Of Wight Festival
 labels:
   - Bier
   - Biffy Clyro
-  - Brititsche Inseln
+  - Britische Inseln
   - England
   - england2012
+  - Fernweh
   - Festival
   - Festivals
+  - Geschichten & Erlebtes
   - Gummistiefel
   - isle of wight
   - isle of wight festival
   - Isle Of Wight Festival 2012
   - Musik
   - Pearl Jam
-  - Reisen
   - Schlamm
-  - Tagebuch
   - Tensheds
   - Wellies
   - Zelt
@@ -45,14 +45,17 @@ subTitle: Erinnerungen an den Sommer in England 2012 - Teil 4/9
   
 ---
 
+[Teil 3/9](/2012/07/glastonbury/) Impressionen vom Isle Of Wight Festival 2012
+
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000534__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000534__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000527__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000527__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000520__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000520__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000512__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000512__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000507__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000507__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000496__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000496__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280121__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280121__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280120__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280120__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280119__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280119__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280117__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280117__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280110__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280110__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280108__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280108__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280105__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280105__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280091__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280091__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270080__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270080__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270079__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270079__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270072__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270072__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270062__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270062__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270061__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270061__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270060__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270060__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260054__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260054__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260052__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260052__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260057__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260057__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260056__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260056__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260050__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260050__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260040__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260040__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260039__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260039__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260029__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260029__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260026__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260026__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000491__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000491__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260036__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260036__l.jpg"}]}
 />
 
-Hier geht's zu [_Teil 5/9_](/2012/07/schnappschuss/) der Galerie "England 2012"
+Hier geht's zu [_Teil 5/9_](/2012/07/schnappschuss/)  der Galerie "England 2012"
 
-## England 2012 Wegweiser1. [Sonne im Hafen](http://wp.me/p533wO-Ry)
+## England 2012 Wegweiser
 
+1.  [Sonne im Hafen](http://wp.me/p533wO-Ry)
 1.  [Der Kater und der Leuchtturm](/2012/08/der-kater-und-der-leuchtturm/)
 1.  [Glastonbury](/2012/07/glastonbury/)
 1.  [Isle Of Wight Festival](/2012/07/isle-of-wight-festival-2012/)
@@ -60,8 +63,9 @@ Hier geht's zu [_Teil 5/9_](/2012/07/schnappschuss/) der Galerie "England 2012"
 1.  [Aloha Cornwall](/2012/07/aloa-cornwall/)
 1.  [Eden Project](/2012/08/eden-project-2/)
 1.  [Fabelwesen](/2012/08/fabelwesen/)
-1.  [Schneeweißchen und Rosenrot](/2012/08/schneeweis-und-rosenrot/)## Song zu
-    den Fotos: Pearl Jam - Yellow Ledbetter
+1.  [Schneeweißchen und Rosenrot](/2012/08/schneeweis-und-rosenrot/)
+
+## Song zu den Fotos: Pearl Jam - Yellow Ledbetter
 
 [youtube=http://www.youtube.com/watch?v=THgFV_kdhH4]
 

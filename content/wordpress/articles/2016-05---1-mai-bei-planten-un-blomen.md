@@ -12,7 +12,6 @@ excerpt: 1. Mai und schönes Wetter - Was könnte man da schöneres machen, als
   ganzen Pracht.
 focusKeyword: 1. Mai
 labels:
-  - 1. Mai
   - Botanischer Garten
   - Frühling
   - Hamburg

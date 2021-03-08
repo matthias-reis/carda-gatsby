@@ -17,17 +17,16 @@ labels:
   - Frauen Fußball WM
   - Freude
   - Fußball
+  - Geschichten & Erlebtes
   - Helmut Kohl
   - Japan
   - Leben
   - Libyen
   - Musik
-  - Prosa
   - Schwimmen
   - Sommer
   - Spaß
   - Supergau
-  - Tagebuch
   - Tallest Man On Earth
   - Tor
   - Video
@@ -46,8 +45,8 @@ subTitle: Tagebucheintrag
   
 ---
 
-Der wärmste Tag des Jahres bisher. Nach der Arbeit die Badesachen eingepackt und
-ab an den Baggersee.
+**Der wärmste Tag des Jahres bisher. Nach der Arbeit die Badesachen eingepackt
+und ab an den Baggersee.**
 
 Leckeres selbst gekochtes Essen, Heu im Haar, Konservengeigen, Hundegebell und
 0:0 in der 54 Minute. Spaß am Leben. Auch wenn das ab und zu Zitrusfrüchte für
@@ -63,7 +62,8 @@ Libyen, Griechenland wird von einem Generalstreik lahmgelegt, aus Japan werden
 weiterhin Strahlungsrekorde gemeldet. <del>Helmut Kohl kritisiert die Bücher,
 die sein Sohn über seine Familie geschrieben hat.</del>
 
-[youtube=http://www.youtube.com/watch?v=JLRTleMY_mc] **Musik des Tages:**
-Tallest Man On Earth - Tiny Desk Concert
+## Musik des Tages: Tallest Man On Earth  – "Tiny Desk Concert"
+
+<iframe src="https://www.youtube.com/embed/JLRTleMY_mc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
   

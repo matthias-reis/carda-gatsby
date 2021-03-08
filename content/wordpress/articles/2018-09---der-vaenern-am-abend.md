@@ -13,8 +13,8 @@ excerpt: Den nördlichsten Punkt unserer Schwedenreise diesen Sommer hatten wir
 focusKeyword: Vänern
 labels:
   - Campervan
+  - Fernweh
   - Reiseblog
-  - Reisen
   - Reisen
   - Schweden
   - Schweden2018

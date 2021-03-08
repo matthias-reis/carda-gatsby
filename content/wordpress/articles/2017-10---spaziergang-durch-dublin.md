@@ -15,10 +15,11 @@ labels:
   - Amnesia
   - Auld Dubliner
   - Book of Kells
-  - Brititsche Inseln
+  - Britische Inseln
   - Cornuconia
   - Crafton Street
   - Dublin
+  - Fernweh
   - Govinda's
   - Guinness
   - Guinness Store House
@@ -27,7 +28,6 @@ labels:
   - Irland2017
   - Molly Malone
   - Reise
-  - Reisen
   - River Liffey
   - St. Patrick's
   - Stephen's Green

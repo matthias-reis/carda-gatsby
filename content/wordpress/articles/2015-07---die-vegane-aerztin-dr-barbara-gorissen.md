@@ -1,5 +1,5 @@
 ---
-title: Die vegane Ärztin Dr. Barbara Gorißen
+title: Die vegane Ärztin Dr. Barbara Gorißen
 seoTitle: Die vegane Ärztin Dr. Barbara Gorißen im Interview
 slug: die-vegane-aerztin-dr-barbara-gorissen-im-interview
 path: /2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/
@@ -11,15 +11,17 @@ excerpt: Vor Kurzem habe ich die vegane Ärztin Dr. Barbara Gorißen kennengeler
   und mich mit ihr zum Interview verabredet. Ein sehr interessantes Gespräch.
 focusKeyword: vegane Ärztin
 labels:
-  - Darum vegan
+  - Ernährung
+  - Ernährung & Gesundheit
   - Gesundheit
   - govegan
   - Interview
-  - Interview
+  - Interviews
   - vegan
   - vegan werden
   - vegane Ärzte
   - vegane Ärztin
+  - vegane Ernährung
   - Veganer
   - Veganismus
 type: Artikel
@@ -28,9 +30,7 @@ date: 2015-07-23T14:38:26.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
-  invalidMdx: "unknown: Unexpected token (126:49)"
+errors: {}
 thumbnailId: "12056"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_3846819118_41b624fc0b_z-e1586968869255__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_3846819118_41b624fc0b_z-e1586968869255__l.jpg
@@ -39,27 +39,25 @@ subTitle: '"Es war ein langer Reifungsprozess!"'
   
 ---
 
-## unknown: Unexpected token (126:49)
-
-<!--
-<RemoteImage
-  alt="Die vegane Ärztin Dr. Barbara Gorißen"
-  size="medium"
-  title="Die vegane Ärztin Dr. Barbara Gorißen"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_1506152__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_1506152__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYIBwT/xAAqEAACAQMDAgUEAwAAAAAAAAABAgMEBREAEiEGQQcTMTKRIlFhgRRxsf/EABYBAQEBAAAAAAAAAAAAAAAAAAUCBP/EAB8RAAIDAAICAwAAAAAAAAAAAAECAAMRBBIxQRTB8P/aAAwDAQACEQMRAD8AputkjpqWeZlTCIT6DUmeMd3N0vMMlNIFZCSJM/UMH1z2PfW9eJnUUdN0XXTRsytlkORj2rk/6NYtcfD+KpkpKU3NFq5VDKskLANkbtu70zzoz5KPZ29D8fqKcXjlqSR5MzSnu4e/hY9ximHtJyN55JH2zznRrr6hs1Nb7rR/w5dyeaIWkEZC7/qyQSMcEfvGjVuytjCI8OuxVKEbhlLeM9PLcqB6WJCIDF5GccFmPb40rdBdQtdrZb46lM3W0xmCaJWwZduQrftcaZOuOpbfV1725mZVhi8xJc8K6uV5+B86nG5+fTVl1iWoZRMhkDRsQdwweCOdH1jszDfeyaD0rXR42dHW96hk6gggigEdPSVrzzdyST7c99oJH9n8aNJjRkwbV5ZvX8ffOjSa1LgBmNudejE1nNn/2Q==" />
-
 > "Die Welt hat genug für jedermanns Bedürfnisse, aber nicht für jedermanns
-> Gier." - Mahatma Gandhi **Vor Kurzem habe ich über ein soziales Netzwerk die
-> nette vegane Ärztin Dr. Barbara Gorißen kennengelernt. Über die Chatfunktion
-> kam ich mit der Internistin und Notärztin ins Gespräch und wir stellten sehr
-> schnell fest, dass wir uns einiges zu sagen haben.**
+> Gier." - Mahatma Gandhi
+
+**Vor Kurzem habe ich über ein soziales Netzwerk die nette vegane Ärztin Dr.
+Barbara Gorißen kennengelernt. Über die Chatfunktion kam ich mit der Internistin
+und Notärztin ins Gespräch und wir stellten sehr schnell fest, dass wir uns
+einiges zu sagen haben.**
 
 Frau Dr. Gorißen arbeitet hauptsächlich im Rettungsdienst und bekommt dort
-hautnah mit, wo nicht zuletzt gerade auch die gängige Ernährung hinführt:
+hautnah mit, wo nicht zuletzt gerade auch die gängige Ernährung  hinführt:
 Herzinfarkte, Blutdruckkrisen und diabetische Notfälle stehen auf der
 Tagesordnung.
+
+<RemoteImage alt={`Die vegane Ärztin Dr. Barbara Gorißen`} size="medium"
+title={`Die vegane Ärztin Dr. Barbara Gorißen`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_1506152__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_1506152__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYIBwT/xAAqEAACAQMDAgUEAwAAAAAAAAABAgMEBREAEiEGQQcTMTKRIlFhgRRxsf/EABYBAQEBAAAAAAAAAAAAAAAAAAUCBP/EAB8RAAIDAAICAwAAAAAAAAAAAAECAAMRBBIxQRTB8P/aAAwDAQACEQMRAD8AputkjpqWeZlTCIT6DUmeMd3N0vMMlNIFZCSJM/UMH1z2PfW9eJnUUdN0XXTRsytlkORj2rk/6NYtcfD+KpkpKU3NFq5VDKskLANkbtu70zzoz5KPZ29D8fqKcXjlqSR5MzSnu4e/hY9ximHtJyN55JH2zznRrr6hs1Nb7rR/w5dyeaIWkEZC7/qyQSMcEfvGjVuytjCI8OuxVKEbhlLeM9PLcqB6WJCIDF5GccFmPb40rdBdQtdrZb46lM3W0xmCaJWwZduQrftcaZOuOpbfV1725mZVhi8xJc8K6uV5+B86nG5+fTVl1iWoZRMhkDRsQdwweCOdH1jszDfeyaD0rXR42dHW96hk6gggigEdPSVrzzdyST7c99oJH9n8aNJjRkwbV5ZvX8ffOjSa1LgBmNudejE1nNn/2Q=="
+/>
 
 Als Ausgleich zu dieser 100-prozentigen Schulmedizin führt sie eine
 Privatpraxis, in der sie überwiegend Prävention wie z. B. Raucherentwöhnung
@@ -95,15 +93,15 @@ mein damaliger Beruf und ich das gerne hauptberuflich machen möchte. Also habe
 ich den Schritt gewagt und mit dem Medizinstudium noch mal einen kompletten
 Neuanfang gemacht.
 
-## Ich war sicher kein bequemes Kind **Anne:** War Tierschutz schon früh ein Thema bei Ihnen?
+## Ich war sicher kein bequemes Kind
 
-<RemoteImage
-  alt="14648550848_6a282363ee_o"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_14648550848_6a282363ee_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_14648550848_6a282363ee_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYFBwgC/8QAKxAAAQMDAwMCBgMAAAAAAAAAAQIDEQQFIQAGEhMxQQdhFBYiUXGBIzJS/8QAFgEBAQEAAAAAAAAAAAAAAAAABQAE/8QAIxEAAQMDAwUBAAAAAAAAAAAAAQACAwQRIQUSMRNBUWHwIv/aAAwDAQACEQMRAD8AmN3evm3HLBcLYqzXW4LhbbiSlDDU+FBWVDORKZEZ1U239w1tKjk1WrarXD1lNu8CoIBnGMkx4PbOlqtYU1d7hT3Dr0a5WXVOolzqq75JjyCfzjQvl682/bguqaUItrx4pdBPPEZHcpHcSfeNETATCxwUxqmmdJjXw5Gcg34+8K9No+odvtSXXtxpeV1SgkcuRblIAJxHEDHfHnViP1NFcqRNXbltKp1iUuIHGD/laZIE+FAx41lxuyV162TXX6ndC7VbahtuvpkucqhLahAcMCOH9RP2BPg6efRm7FNmuNArr1FEhzpNCCtfFQlIx3ggjH2GhtRpp4YWzxu4IuPV1loZnH8uPCXd309xoN53Jm60iam5EJW/UNswHVLTy4uNQpCgO2OPbBEa5tVxrbq8zalsmloHhAQeQUEmOoImSMQAew/GnAWkXVZqq/8AnqISjqugFRSOwn9nQ0U71gq/ircxRKWocVBbAJ4+yu6T7jSMldG9wZI3A7pyGJ8TDsOSECwOt7FvTT1E51rPcedHcLe61MIXgAyfqMCRP3jzqR3HtA7W+BdtbSbhbXahx2kqG3B9TaihSApIIMiD3ESPfUC+pNwr2GKht7pvVLUsuw4mC4kqHIR4kDE51oZi9U9Y2pAt9K4+qUONqSEq6YMZJH6E6pKlu67BcHj0jDSGFw22I7+L/Ff/2Q==" />
+**Anne:** War Tierschutz schon früh ein Thema bei Ihnen?
+
+<RemoteImage alt={`} size="medium" title={`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_14648550848_6a282363ee_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_14648550848_6a282363ee_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYFBwgC/8QAKxAAAQMDAwMCBgMAAAAAAAAAAQIDEQQFIQAGEhMxQQdhFBYiUXGBIzJS/8QAFgEBAQEAAAAAAAAAAAAAAAAABQAE/8QAIxEAAQMDAwUBAAAAAAAAAAAAAQACAwQRIQUSMRNBUWHwIv/aAAwDAQACEQMRAD8AmN3evm3HLBcLYqzXW4LhbbiSlDDU+FBWVDORKZEZ1U239w1tKjk1WrarXD1lNu8CoIBnGMkx4PbOlqtYU1d7hT3Dr0a5WXVOolzqq75JjyCfzjQvl682/bguqaUItrx4pdBPPEZHcpHcSfeNETATCxwUxqmmdJjXw5Gcg34+8K9No+odvtSXXtxpeV1SgkcuRblIAJxHEDHfHnViP1NFcqRNXbltKp1iUuIHGD/laZIE+FAx41lxuyV162TXX6ndC7VbahtuvpkucqhLahAcMCOH9RP2BPg6efRm7FNmuNArr1FEhzpNCCtfFQlIx3ggjH2GhtRpp4YWzxu4IuPV1loZnH8uPCXd309xoN53Jm60iam5EJW/UNswHVLTy4uNQpCgO2OPbBEa5tVxrbq8zalsmloHhAQeQUEmOoImSMQAew/GnAWkXVZqq/8AnqISjqugFRSOwn9nQ0U71gq/ircxRKWocVBbAJ4+yu6T7jSMldG9wZI3A7pyGJ8TDsOSECwOt7FvTT1E51rPcedHcLe61MIXgAyfqMCRP3jzqR3HtA7W+BdtbSbhbXahx2kqG3B9TaihSApIIMiD3ESPfUC+pNwr2GKht7pvVLUsuw4mC4kqHIR4kDE51oZi9U9Y2pAt9K4+qUONqSEq6YMZJH6E6pKlu67BcHj0jDSGFw22I7+L/Ff/2Q=="
+/>
 
 **Dr. Gorißen:** Ich bin mit Tieren aufgewachsen und habe als Kind die Hühner
 meiner Eltern gezähmt und herumgetragen. Ich kann mich noch gut daran erinnern,
@@ -152,15 +150,16 @@ verändert, es war also niemand wirklich überrascht.
 **Anne:** Gab es ein prägendes Erlebnis? Einen speziellen Auslöser? Haben sie
 ein spezielles Vorbild, ihren Veganismus betreffend?
 
-## Damals gab es das Wort „vegan“ noch gar nicht **Dr. Gorißen:** Ein prägendes Erlebnis, oder einen direkten Auslöser gab es nicht, es war wie gesagt ein jahrelanger Reifungsprozess.
+## Damals gab es das Wort „vegan“ noch gar nicht
 
-<RemoteImage
-  alt="15078674510_9072b3c5ee_z"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_15078674510_9072b3c5ee_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_15078674510_9072b3c5ee_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QALRAAAQMDAgUCBQUAAAAAAAAAAQIDEQAEBQYSEyEiMUEUUQcjQlKhYXGBkcH/xAAYAQEAAwEAAAAAAAAAAAAAAAADAQIEBf/EAB4RAAIDAAIDAQAAAAAAAAAAAAECAAMRITEEEkGR/9oADAMBAAIRAxEAPwDPtQXeQt8yWXbh5nirKkqLhRuSJBEDpPSAO3keasua3yDBQEXjjnpnNikFM8VJg7SRzMbYnvzNXtcYhSbpD11vUlAKQ2oEpB+7lz9z+pApcscPa3DN6tbbrm0cJDjkJgkiAQJiN0/jxRe29zmXsaXI0zQNJZ+zfYUrJvvovC4Ot5ChxWwklKtoEJgcj7kTRVLQ+IVd5RNtcXHC9CtN0WVjil0J5EGe3c/wR3op6WBHMemy61AeI3fEDDO5Cwt7i2cbAZXudSsTxEe39waV9IaYXksrZ2Tqm/Sv731rQfmBuIgT2jbB/etTQGby2dYe2qaWCkyJ5VxNEYC5wWsblbywqzfYIZW0OgeSlQ+nxVHqxpPkVpcoLfM/NjS5aIaG0AHYgICtomIA/wAoqbIvhLLjgE7TP4opETBNQJPU/9k=" />
+**Dr. Gorißen:** Ein prägendes Erlebnis, oder einen direkten Auslöser gab es
+nicht, es war wie gesagt ein jahrelanger Reifungsprozess.
+
+<RemoteImage alt={`} size="small" title={`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_15078674510_9072b3c5ee_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_15078674510_9072b3c5ee_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QALRAAAQMDAgUCBQUAAAAAAAAAAQIDEQAEBQYSEyEiMUEUUQcjQlKhYXGBkcH/xAAYAQEAAwEAAAAAAAAAAAAAAAADAQIEBf/EAB4RAAIDAAIDAQAAAAAAAAAAAAECAAMRITEEEkGR/9oADAMBAAIRAxEAPwDPtQXeQt8yWXbh5nirKkqLhRuSJBEDpPSAO3keasua3yDBQEXjjnpnNikFM8VJg7SRzMbYnvzNXtcYhSbpD11vUlAKQ2oEpB+7lz9z+pApcscPa3DN6tbbrm0cJDjkJgkiAQJiN0/jxRe29zmXsaXI0zQNJZ+zfYUrJvvovC4Ot5ChxWwklKtoEJgcj7kTRVLQ+IVd5RNtcXHC9CtN0WVjil0J5EGe3c/wR3op6WBHMemy61AeI3fEDDO5Cwt7i2cbAZXudSsTxEe39waV9IaYXksrZ2Tqm/Sv731rQfmBuIgT2jbB/etTQGby2dYe2qaWCkyJ5VxNEYC5wWsblbywqzfYIZW0OgeSlQ+nxVHqxpPkVpcoLfM/NjS5aIaG0AHYgICtomIA/wAoqbIvhLLjgE7TP4opETBNQJPU/9k="
+/>
 
 Was die Vorbilder betrifft: Den ersten Anstoß gab mir mir allerdings ein Veganer
 in meinem Sportverein Anfang der 90er Jahre. Damals gab es das Wort „vegan“ noch
@@ -172,7 +171,7 @@ Spiel teilnehmen wollte.
 Wir hielten ihn für einen - sehr netten – Sonderling, denn er hat damals einfach
 nur ein gutes Beispiel vorgelebt. Er hat unsere Fragen immer offen beantwortet
 und uns nie in eine Ecke gedrängt. Das hat mich sehr beeindruckt und bis heute
-geprägt. Durch seine „sanfte Infiltration“ war ich mehr und mehr dazu bereit,
+geprägt. Durch seine „sanfte Infiltration“ war ich mehr und mehr  dazu bereit,
 mich mit dem Thema auseinanderzusetzen und mich auf meinen eigenen Weg zu
 begeben.
 
@@ -184,12 +183,24 @@ mich durchaus beeinflusst.
 **Anne:** Sie erzählten mir, ihr Hauptgrund für ihr veganes Leben ist der
 ethische Aspekt. Wann wurde der gesundheitliche Gesichtspunkt interessant?
 
-## Ich war völlig überrascht **Dr. Gorißen:** Ehrlich gesagt, kam der erst sehr spät. Wie sagt man so schön? „Der Schuster trägt selbst die schlechtesten Schuhe“. So mancher Arzt lebt selbst nicht unbedingt gesund. Auch, oder gerade weil er es eigentlich besser wissen müsste. Ich wäre sogar dann vegan geworden, wenn es für mich gesundheitliche Nachteile mit sich gebracht hätte. Ehrlich gesagt habe ich vor ein paar Jahren auch selbst noch geglaubt, dass das nicht gesund sein kann, weil ich mich gar nicht näher mit dem Thema beschäftigt habe. Als ich dann aber merkte, wie gut mir die Umstellung auch körperlich tat, begann ich, mich wirklich umfassend damit auseinanderzusetzen und mich zu informieren. Als ich begriffen habe, dass es auch auch jede Menge gesundheitliche Vorteile bringt, sich vegan zu ernähren, war ich erst mal völlig überrascht.
+## Ich war völlig überrascht
+
+**Dr. Gorißen:** Ehrlich gesagt, kam der erst sehr spät. Wie sagt man so schön?
+„Der Schuster trägt selbst die schlechtesten Schuhe“. So mancher Arzt
+lebt selbst nicht unbedingt gesund. Auch, oder gerade weil er es eigentlich
+besser wissen müsste. Ich wäre sogar dann vegan geworden, wenn es für mich
+gesundheitliche Nachteile mit sich gebracht hätte. Ehrlich gesagt habe ich vor
+ein paar Jahren auch selbst noch geglaubt, dass das nicht gesund sein kann, weil
+ich mich gar nicht näher mit dem Thema beschäftigt habe. Als ich dann aber
+merkte, wie gut mir die Umstellung auch körperlich tat, begann ich, mich
+wirklich umfassend damit auseinanderzusetzen und mich zu informieren. Als ich
+begriffen habe, dass es auch auch jede Menge gesundheitliche Vorteile bringt,
+sich vegan zu ernähren, war ich erst mal völlig überrascht.
 
 **Anne:** Empfehlen sie ihren Patienten, sich vegan zu ernähren?
 
-<RemoteImage alt="Tabletten? Oder einfach &quot;nur&quot; gesunde Ernährung?"
-size="medium" title="Tabletten? Oder einfach "nur" gesunde Ernährung?"
+<RemoteImage alt={`Tabletten? Oder einfach &quot;nur&quot; gesunde Ernährung?`}
+size="medium" title={`Tabletten? Oder einfach "nur" gesunde Ernährung?`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_4746653392_cd0676b04a_z__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_4746653392_cd0676b04a_z__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYDBAACB//EACkQAAEEAQQBAwMFAAAAAAAAAAECAwQRBQASITETBhRBIlFhJDJxobH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQME/8QAIBEAAQMEAgMAAAAAAAAAAAAAAQACEQMSIVExYUGR8P/aAAwDAQACEQMRAD8A7o7k2UzvaNx5Tr5RuBaZJANgVfx3d9CtCmcvJjZHJw1w5iHGlrWt14Ld39eMNWNqgrkFIIrvQ3HRpXjlzMnn4andzTKZEXyJShdg/RuVR3dUOPjsab2fJJgzRHeK0rdJWhxRSWzd7aHI/wB1zy444WpAUuQnJgR0qcZLq0NJcfZatS+TQCeh3Ys0ONVsu8/AxUubgWGn56m1LZaW4VlzbRIAFn8caEZlap8RCseIEzK49Zb870koQy6DdLSk2aB5Se9ZGxuKlzY0iFIJnY3jchRSgKJs0BQIJFEjg1/OiXybW+1bYElLPpuF6QkxmcThJzEssvrLTKpJePkBKidhPPKSeua41Mt7Lwc9Gaj5V79S74gDjhsRdni1AEkkcWDzqxi/R+FxUr3WDhR8bJJvyR2U7r+/PzyedbLTi8UH4MuZLkzH1e/WCsF07BXkCQBQA+QNGsHkTgdzCbNBEfT2aSGY701gvJlpdXPc2ABC02CQNo3EkABPJ+16LrCsfjkNwohU1RcTuVtP1ckmx/VaUvRfp7BZSM4mPkMtJDq/MUPy/I2g3f7aHz30fzpjjQpyMnlZOSybkpEsoDUZFhuOEivovnn50KQe2PI3rf3ajhzccr//2Q=="
@@ -220,12 +231,12 @@ verhaltenstherapeutische Tricks aufgezeigt, die die Umstellung erleichtern
 sollen, inklusive hypnotherapeutischer Unterstützung. Allerdings ist das
 Interesse derzeit nur mäßig. Nichtraucherkurse dagegen erfreuen sich viel
 größerer Akzeptanz. Wer weiß, vielleicht gibt es ja eines Tages überall mit der
-gleichen Selbstverständlichkeit Veganerkurse (lacht).
+gleichen Selbstverständlichkeit Veganerkurse (lacht).
 
 **Anne:** Warum gibt es so viele Mediziner, die von einer veganen Ernährung
 abraten?
 
-**Dr. Gorißen:** Ich glaube, die meisten, die das tun, haben sich einfach noch
+**Dr. Gorißen:**  Ich glaube, die meisten, die das tun, haben sich einfach noch
 nicht mit den neuesten Erkenntnissen auseinandergesetzt. Nur weil man Arzt ist,
 ist man nicht für jeden Fachbereich Spezialist. Wie gesagt war ich selbst noch
 vor einigen Jahren fest davon überzeugt, dass eine vegane Ernährung ungesund
@@ -261,20 +272,21 @@ Endweder wir haben die Welt bis dahin nicht zuletzt auch mit unserer Fleischgier
 zugrunde gerichtet, oder wir haben einen Weg gefunden, mit den Ressourcen des
 Planeten vernünftig umzugehen.
 
-## Die Menschheit muss umdenken **Anne:** Würden sie sagen, dass eine rein pflanzliche Ernährung die gesündeste für den Menschen ist?
+## Die Menschheit muss umdenken
 
-<RemoteImage
-  alt="Veganismus und Medizin"
-  size="medium"
-  title=""
-  mediumUrl="http://cardamonchai.com/wp-content/uploads/2015/07/3846819118_41b624fc0b_z.jpg"
-  largeUrl="http://cardamonchai.com/wp-content/uploads/2015/07/3846819118_41b624fc0b_z.jpg"
-  loadingUrl="undefined" />
+**Anne:** Würden sie sagen, dass eine rein pflanzliche Ernährung die gesündeste
+für den Menschen ist?
+
+<RemoteImage alt={`Veganismus und Medizin`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_3846819118_41b624fc0b_z-e1586968869255__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_3846819118_41b624fc0b_z-e1586968869255__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBgMFCP/EACkQAAEDAwMDBAIDAAAAAAAAAAECAwQABREGEiEHMUETFCKBCFEjcZH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAECBf/EACARAAEEAQQDAAAAAAAAAAAAAAEAAgMSIRETMUEEMjT/2gAMAwEAAhEDEQA/AGRpbUUW5Wl1mZDHumQhyS0scDOBuGeCMjuKSfVvS8eFeHbpY2PRtshW5bfGGFnuEgeD3H67VC6R6tuhlvW4OvzoxjOhEcJStxR25w3uIIPGeD4re6hkpkQ34z8knORhxhKM4WEgglXGc5HHYGlgdxhDuQtH55gW+pTS6K65nXLSEaK++w4/AV7dxUhR3qRjKDn+uPqrtqO+tS4iIDfouvPnaUoXn/a5w6TIeW7eYjk5uzhsJcEmWsIZcCSRjIVkn5Dx2zVv6f6jhNaolt3O6wVmNIU36wdBS5tOMoPkGouaVPKB5AZuFzDhVjoJo9/UkiPdHFtQrXBdB3No/mfUOdoPhPbJ7+BWD8sbkHtd25oEkR42B9nNFFHoGx47QZJC+U69JNqmhScYT9iorsxQHxVjH6oopfQK5OF//9k="
+/>
 
 **Dr. Gorißen:** Sie ist meiner Meinung nach nicht nur gesund und empfehlenswert
 für den Menschen, sondern vor allem auch für die Menschheit als Ganzes. Mehr
 noch: Möglicherweise wird sie in Zukunft sogar dringend erforderlich sein, um
-das Überleben der Menschheit zu sichern. So fahrlässig, wie wir momentan mit dem
+das Überleben der Menschheit zu sichern. So fahrlässig, wie wir momentan mit dem
 Planeten umgehen, gibt es keine Zukunft für uns. Wie schon Mahatma Ghandi sagte:
 „Die Welt hat genug für jedermanns Bedürfnisse, aber nicht für jedermanns Gier“.
 
@@ -296,9 +308,9 @@ Gicht, Diabetes Typ 2, Herzinfarkte und sogar manche Krebsarten werden
 nachgewiesenermaßen durch falsche Ernährung begünstigt. Da liegt es doch nah,
 dafür zu sogen dass es gar nicht erst zu solchen Erkrankungen kommt. Typ 2
 Diabetes und Bluthochdruck z. B. können durch eine Umstellung der
-Lebensgewohnheiten positiv beeinflusst werden. Im Idealfall verschwinden sie
+Lebensgewohnheiten positiv beeinflusst werden. Im Idealfall verschwinden sie
 sogar ganz. Auch Allergikern und Patienten mit rheumatischen Erkrankungen
-empfehle ich eine komplette Umstellung ihrer Ernährung.
+empfehle ich eine komplette Umstellung  ihrer Ernährung.
 
 **Anne:** Als Veganer sollte man [Vitamin B12 substituieren](/?s=vitamin+b12),
 da es dem Körper über rein pflanzliche Nahrung nach dem heutigen Stand der
@@ -318,7 +330,10 @@ Erkrankung. Im Magen dieser Patienten wird der sogenannte Intrinsic Factor nicht
 gebildet, der zur Aufnahme von Vitamin B12 erforderlich ist. Solche Patienten
 müssen dann lebenslang hochdosiertes Vitamin B12 einnehmen.
 
-## Die Diskussion über Vitamin B12 ist ein Nebenkriegsschauplatz **Anne:** Sollte man grundsätzlich B12 substituieren, oder nur, wenn der Arzt dazu rät?
+## Die Diskussion über Vitamin B12 ist ein Nebenkriegsschauplatz
+
+**Anne:** Sollte man grundsätzlich B12 substituieren, oder nur, wenn der Arzt
+dazu rät?
 
 **Dr. Gorißen:** Ich persönlich werde erst Zusatzpräparate einnehmen, wenn mein
 Vitamin B12-Spiegel mir das nahelegt. Da ich erst seit zweieinhalb Jahren vegan
@@ -331,15 +346,18 @@ meine Ernährung der Grund dafür ist, dass ich heute kerngesund bin und keinerl
 Tabletten benötige. Wer schon prophylaktisch Vitamin B12 zu sich nehmen möchte,
 ohne seinen Spiegel zu kennen: Darin sehe ich kein Problem.
 
-<RemoteImage
-  alt="Nahrungsergänzungsmittel ja oder nein?"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Vitamine__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Vitamine__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgQI/8QAKRAAAgIBAgUDBAMAAAAAAAAAAQIDBBEABQYSEyExIkFhByNRsVJxkf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQH/xAAcEQEAAgIDAQAAAAAAAAAAAAABAAMCIRESMUH/2gAMAwEAAhEDEQA/AJ7sux1d5lWjfttSrzDvOqFiuO/sR+POdPw+nXD+2bS89ffrVwO8Q5uiz9sgYUljg4b9aT9naxWetYSJcrKg+6uVIY4OR/R1Wt4WfYdijnjVjHHZiUo8QJ5ebHbyfAGNScrE18lLRtmvxRT4Si25Y5KttHWPpqq21RsAfxK+e3nGdQvc4a7u8lMSisSemJSC2PkjAOqrxpvm2zRDlk6lm5zdOAE9QEHBUjsQR+D7eNTKx64yqKOcZyngr8Y05x6sWWGZOiqfB+03qUdeeEj1BldDyspGmscM1eiq25p7EYZXC5C+oHIOR3yDo0aDCvFNkO1eZlu3Dr3EYtcXB92gUt/uR+tS3d+BtmoyTyxRO9liS88rczE/A7AD4A0aNZcAckZS9vZ//9k=" />
+## Ich bin kein Freund von Nahrungsergänzungsmitteln
 
-## Ich bin kein Freund von Nahrungsergänzungsmitteln **Anne:** Gibt es (weitere) Vitamine/Nährstoffe, die man dem Körper über Nahrungsergänzungsmittel zuführen sollte? Oder holt er sich bei einer gesunden, ausgewogenen Ernährung immer das, was er braucht?
+<RemoteImage alt={`Nahrungsergänzungsmittel ja oder nein?`} size="medium"
+title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Vitamine__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Vitamine__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgQI/8QAKRAAAgIBAgUDBAMAAAAAAAAAAQIDBBEABQYSEyExIkFhByNRsVJxkf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQH/xAAcEQEAAgIDAQAAAAAAAAAAAAABAAMCIRESMUH/2gAMAwEAAhEDEQA/AJ7sux1d5lWjfttSrzDvOqFiuO/sR+POdPw+nXD+2bS89ffrVwO8Q5uiz9sgYUljg4b9aT9naxWetYSJcrKg+6uVIY4OR/R1Wt4WfYdijnjVjHHZiUo8QJ5ebHbyfAGNScrE18lLRtmvxRT4Si25Y5KttHWPpqq21RsAfxK+e3nGdQvc4a7u8lMSisSemJSC2PkjAOqrxpvm2zRDlk6lm5zdOAE9QEHBUjsQR+D7eNTKx64yqKOcZyngr8Y05x6sWWGZOiqfB+03qUdeeEj1BldDyspGmscM1eiq25p7EYZXC5C+oHIOR3yDo0aDCvFNkO1eZlu3Dr3EYtcXB92gUt/uR+tS3d+BtmoyTyxRO9liS88rczE/A7AD4A0aNZcAckZS9vZ//9k="
+/>
+
+**Anne:** Gibt es (weitere) Vitamine/Nährstoffe, die man dem Körper über
+Nahrungsergänzungsmittel zuführen sollte? Oder holt er sich bei einer gesunden,
+ausgewogenen Ernährung immer das, was er braucht?
 
 **Dr. Gorißen:** Ich bin kein Freund von Nahrungsergänzungsmitteln, sondern ein
 großer Verfechter einer abwechslungsreichen, gesunden Ernährung. Dass man dafür
@@ -415,17 +433,17 @@ Wer gerne mehr über Frau Dr. Barbara Gorißen erfahren oder gerne mit Ihr in
 Kontakt treten möchte, der findet sie auf ihrer
 [Homepage](http://www.praxis-dr-gorissen.de/).
 
-### Bildquellen/References pictures **Portrait/Portrait:** Barbara Gorißen privat/private
+### Bildquellen/References pictures
 
+**Portrait/Portrait:** Barbara Gorißen privat/private
 **Gemüsefotos/Vegetables:** Aus
 [meinem Flickr](https://www.flickr.com/photos/99929697@N07/)
-**Tabletten/Pills:** [Taki Steve](http://Tabletten? Oder einfach ), Flickr
+**Tabletten/Pills:** [Taki Steve](http://Tabletten? Oder einfach), Flickr
 (Creative Commons) **Spritze/Injection:**
 [Sarah](https://www.flickr.com/photos/dm-set/), Flickr (Creative Commons)
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
-Merken
 
--->
+Merken
 
   

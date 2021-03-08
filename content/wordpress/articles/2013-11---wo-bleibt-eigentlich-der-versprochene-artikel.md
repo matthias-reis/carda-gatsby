@@ -14,9 +14,9 @@ labels:
   - Artikel
   - Bäume
   - Baumpaten
+  - Geschichten & Erlebtes
   - Klima & Umweltschutz
   - Liebe
-  - Tagebuch
   - Tagebuch
   - Wald
 type: Artikel
@@ -35,13 +35,11 @@ subTitle: Tagebucheintrag
   
 ---
 
-<RemoteImage
-  alt="Bild: Anne Reko 2009"
-  size="medium"
-  title="Bild: Anne Reko 2009"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/11/liebe-baum.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/11/liebe-baum.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Bild: Anne Reko 2009`} size="medium"
+title={`Bild: Anne Reko 2009`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/11/liebe-baum.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/11/liebe-baum.jpg?w=300"
+loadingUrl="undefined" />
 
 **Nachdem ich ihn schon vor Tagen auf meiner Facebook-Seite so großspurig
 angekündigt habe, kommt hier endlich der Artikel, den ich Euch noch schulde.**
@@ -59,13 +57,11 @@ hatten dabei eine ganze Menge Stress. Viel mehr, als wir erwartet hatten. Ich
 weiß, so ist das immer. War auch bisher so, bei jedem meiner dreizehn Umzüge.
 Aber so schlimm, wie dieses Mal noch nie.
 
-<RemoteImage
-  alt="Wenn Du der Freundin das schickst..."
-  size="medium"
-  title="Umzüge und andere Katastrophen"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/img_7712.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/img_7712.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Wenn Du der Freundin das schickst...`} size="medium"
+title={`Umzüge und andere Katastrophen`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/img_7712.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/09/img_7712.jpg"
+loadingUrl="undefined" />
 
 Dabei war Nummer 14 der erste Umzug, bei dem ich tatsächlich ein
 Umzugsunternehmen (!) beauftragt habe. Memo an mich: Nächstes Mal wieder alles
@@ -95,12 +91,9 @@ auf denen die genauen Koordinaten stehen, unter denen wir unsere Bäume finden!
 Mein Plan: Sie irgendwann, wenn das Wetter und die Zeit es zulassen zu suchen
 und zu bereisen.
 
-<RemoteImage
-  alt="Die Urkunden"
-  size="full"
-  title="Die Urkunden"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/11/urkunde.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/11/urkunde.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Die Urkunden`} size="full" title={`Die Urkunden`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/11/urkunde.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/11/urkunde.jpg"
+loadingUrl="undefined" />
 
   

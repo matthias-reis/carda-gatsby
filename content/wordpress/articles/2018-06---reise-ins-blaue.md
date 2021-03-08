@@ -15,15 +15,15 @@ labels:
   - Ausflug
   - Blaue Stunde
   - fahren
+  - Fernweh
   - frei
   - Gedicht
+  - Geschichten & Erlebtes
   - Landpartie
   - Liebe
   - Lyrik
-  - Lyrik
   - Ostsee
   - Reise
-  - Reisen
   - Sonne
   - Sternschnuppen
   - unterwegs
@@ -59,12 +59,6 @@ Gerade hast Du uns noch nachgesehen Da hast Du uns schon wieder vergessen
 Die Fotos zu diesem Artikel sind am Sonntag, 10. Juni 2018 auf der Fahrt von
 [Prerow](/2018/06/prerow-am-abend/) nach [Wismar](/2018/06/wismar-am-sonntag/)
 entstanden.
-
-## Der Text
-
-Dir hat mein Gedicht gefallen? Dann freue ich mich auf Deine Reaktion! Wenn Du
-gerne mehr Texte dieser Art lesen möchtest, dann
-[klick doch mal hier drauf](/category/bleistift-2-0/lyrik/).
 
 <Gallery name="flickr/annelandpartiehui20180610" />
 

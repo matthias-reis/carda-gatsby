@@ -12,7 +12,10 @@ excerpt: Werbung und Affiliate Links - Schön sieht er ja schon mal aus der
   Gentechnik-freie Edelbitterschokolade.
 focusKeyword: vegane-adventskalender
 labels:
-  - Vegane Produkte
+  - Birkenzucker
+  - Ernährung
+  - Ernährung & Gesundheit
+  - vegane Ernährung
   - vegane Schokolade
   - veganer Adventskalender
   - veganer Schokoladenadventskalender

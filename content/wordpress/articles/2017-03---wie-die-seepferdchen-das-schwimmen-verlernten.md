@@ -14,11 +14,11 @@ labels:
   - Flarf
   - Flarf-Gedicht
   - Gedicht
+  - Geschichten & Erlebtes
   - Klimaerwärmung
   - Lyrik
-  - Lyrik
 type: Artikel
-typeName: Artikel
+typeName: Gedicht
 date: 2017-03-01T20:00:27.000Z
 status: publish
 isWerbung: false
@@ -31,6 +31,8 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Klimaerwärmung
   
 ---
+
+<blockquote>
 
 Wie die Seepferdchen das Schwimmen verlernten. Die stetige
 [Klimaerwärmung](/2017/02/klimaschutz-und-vegane-ernaehrung/) bei der Arbeit.
@@ -57,10 +59,13 @@ vordersten Reihe.
 Seepferdchen stehen für Freiheit, Gelassenheit und Unabhängigkeit. Die
 Klimakrise bringt uns nur Schwefeldioxid, Stickoxide und Ammoniak.
 
-_Bei diesem Text handelt es sich um ein Flarf-Gedicht. Flarf-Gedichte enstehen,
-indem man die Ergebnisse der Suchmaschine zu bestimmten Begriffen geschickt
-miteinander kombiniert. Für mich ist diese Beschäftigung zum Hobby geworden. In
-meinem Blog habe ich daher schon einige solche Gedichte veröffentlicht._
+</blockquote>
+
+**Hinweis:** Bei diesem Text handelt es sich um ein Flarf-Gedicht.
+Flarf-Gedichte enstehen, indem man die Ergebnisse der Suchmaschine zu bestimmten
+Begriffen geschickt miteinander kombiniert. Für mich ist diese Beschäftigung zum
+Hobby geworden. In meinem Blog habe ich daher schon einige solche Gedichte
+veröffentlicht.
 
 ## Flarf-Gedichte Wegweiser
 

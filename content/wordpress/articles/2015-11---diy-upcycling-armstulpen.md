@@ -13,7 +13,7 @@ focusKeyword: Armstulpen
 labels:
   - Armstulpen
   - diy
-  - DIY
+  - Fair Fashion & Beauty
   - nähen
   - Stulpen
   - Upcycling
@@ -32,20 +32,35 @@ subTitle: Strick mit bunten Manschetten
   
 ---
 
+<RemoteImage alt={`Meine neuen Armstulpen`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22800084930_be52abda5f_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22800084930_be52abda5f_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAGBf/EACwQAAIBBAAEBQIHAAAAAAAAAAECAwAEBRESEyExBgcUQVEjgRUiMmFxkfD/xAAXAQADAQAAAAAAAAAAAAAAAAADBQYE/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAAwQRExQh8HH/2gAMAwEAAhEDEQA/AOVgMVD6czXBVIkTiZ3Ogq99k1pY8ElzYxXEKs0ctus6cS8JKMSFYg9tkUbZfxXLHJLjUubaC1WPlTc2JXZ27kji2BogD7Gth4R8fXc13Z2+auI8jaTXMCrNAoVk0Cqh9fqQMwOh16d/apzp2MvI0re1UG41Pv337OZkcO8ci/lI2N9OtVbzOWYFwvCAe/uKqyrcdQxrB9gDbTwT5O5uo4mjjlkJU99D4I/3ekDy4wcD5T8a5ipbwt9NF1qSX5I9tAj76+KIcTfcoKCQNUj+X+ct4fX28zN9XhmUhugI6H999R/VPslWTHISTmKyWZILxQymUhin0xXWunCd1UbZfKtLdFopdL/NVJlxtjZj83gHU//Z"
+/>
+
+**Vor Kurzem hatte ich hier die Anleitung für einen hübschen Loopschal mit Euch
+geteilt und Euch versprochen, dass es dazu auch noch Stulpen geben würde.
+Hiermit löse ich das Versprechen ein.**
+
 Denn schließlich ist ein warmer Puls am allerwichtigsten, wenn es draußen kalt
 und zugig wird. Mit dieser Methode könnt Ihr übrigens auch all Eure abgetragenen
 Sweatshirts aufwerten oder auch mal Ärmel verlängern, wenn Euch was im Trockner
 eingegangen ist.
 
-## Das braucht Ihr:- Den Rest der Strickjacke aus dem [Projekt Upcycling Loopschal](/2015/11/diy-upcycling-loopschal/)
+## Das braucht Ihr:
 
+- Den Rest der Strickjacke aus dem
+  [Projekt Upcycling Loopschal](/2015/11/diy-upcycling-loopschal/)
 - Den Rest Stoff aus dem Projekt DIY Upcycling Loopschal
 - Passendes Nähgarn
 - Stecknadeln
 - Nähmaschine
 - Maßband
-- Stoffschere _Hinweis: Für alle Nähte gilt: Bitte sauber verriegeln!_ ## So
-  entstehen Eure brandneuen Armstulpen
+- Stoffschere
+
+_Hinweis: Für alle Nähte gilt: Bitte sauber verriegeln!_
+
+## So entstehen Eure brandneuen Armstulpen
 
 Schneidet die Ärmel ungefähr in der Mitte ab. Die obere Kante stülpt Ihr zwei
 Mal ca. 1 cm breit um und näht sie mit zwei parallelen Steppnähten rundherum

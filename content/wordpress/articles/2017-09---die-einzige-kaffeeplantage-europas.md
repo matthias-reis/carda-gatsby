@@ -13,12 +13,12 @@ excerpt: Bereist man Gran Canaria, lohnt sich auch ein Besuch auf der einzigen
 focusKeyword: einzige Kaffeeplantage Europas
 labels:
   - Agaete
+  - Fernweh
   - Finca
   - Finca La Laja
   - Gran Canaria
   - Kaffee
   - Kaffeeplantage
-  - Reisen
   - Reisen
   - Spanien
   - travelling

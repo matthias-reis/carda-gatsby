@@ -10,6 +10,7 @@ excerpt: Frieden und Liebe. Wir sind nette Menschen. Und wir sind viele. Ich bin
   auch dabei. Und Du? Wie siehst Du das? Nimm diese Blume...
 focusKeyword: Nette Menschen
 labels:
+  - Antifaschismus & Feminismus
   - Aufgeschlossenheit
   - Blumen
   - Freude
@@ -17,14 +18,13 @@ labels:
   - Frieden
   - Friedenstaube
   - Gedicht
+  - Geschichten & Erlebtes
   - Güte
   - Gute Laune
   - Intelligenz
   - Internet
   - Liebe
-  - Lyrik
   - Peace
-  - Politik & Soziales
   - ReconquistaInternet
   - Respekt
   - Toleranz

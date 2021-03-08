@@ -12,12 +12,12 @@ excerpt: Einige von Euch kennen den Hamburger Michel Arriens. Ihm ist heute
   geworfen.
 focusKeyword: Hamburger Hochbahn
 labels:
+  - Antifaschismus & Feminismus
   - Hamburg
   - Hamburg
   - Hochbahn
   - Menschen
   - Michel Arriens
-  - Politik & Soziales
   - Toleranz
 type: Artikel
 typeName: Artikel

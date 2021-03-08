@@ -20,6 +20,7 @@ labels:
   - Bio
   - Cruelty Free
   - echte Naturkosmetik
+  - Fair Fashion & Beauty
   - Finca
   - Finca Verde
   - Gesichtspflege
@@ -30,7 +31,6 @@ labels:
   - Leaping Bunny
   - Leaping Bunny Label
   - Mittel gegen Gesichtsrötungen
-  - Mode & Beauty
   - Natrue
   - Natrue-Siegel
   - Naturkosmetik
@@ -44,7 +44,6 @@ labels:
   - vegan beauty
   - Vegan Society
   - vegane Pflege
-  - Vegane Produkte
 type: Artikel
 typeName: Produkttest
 date: 2018-01-22T06:47:08.000Z
@@ -70,13 +69,11 @@ Frage: Wie stellt man das an, ohne die Haut dabei zu reizen, zu übersättigen u
 damit fettig zu machen oder so zu stressen, dass es noch schlimmer wird, als
 vorher?
 
-<RemoteImage
-  alt="Santaverde"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-10__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-10__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBAEG/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDAAQRBRIhBhMiMTJBUQcUYSRSgZHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAMEBv/EACARAAICAQQDAQAAAAAAAAAAAAECABEDBAUSIRQxUcH/2gAMAwEAAhEDEQA/ALR051Jp3U1s97ot00tokrQNvhKMHGM8N7cj2pvA7zRdzvyBhIwGAuFwSPLFSv6UJNYXeo2MDlLF3injZ1CgschkAAwpHh49xzXvNNlZrO8cNMplutvDZCZ/aPnNAaxcp1On8fKU+Tdc3kb301gbgS3iIk/aJ2lYvTu4wBlif6NdW1RSrlAnjD8St6s/Hl50nazEXVV5qNv3Jrw2ENrL3DhXVX3KR8Nyc0w1tEuNPiWYSoouIpMDgkowcfxlRQACe4hgBVSVaXKdO1xILAvD40LPvJZiGIJJ/Oc02u+qNZtfqxe6ML+RdNaKKSOGGONNhbg5O0kn3zmiipgSFNTWbhjVsychdg/kx33VetQdR6KfvO5BqE7CaN4k9Pf7KgMBngDOfn8cVWWsnZf1Vw0u0kABdo/2iin4e1szP7kioV4ivc//2Q==" />
+<RemoteImage alt={`Santaverde`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-10__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-10__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBAEG/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDAAQRBRIhBhMiMTJBUQcUYSRSgZHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAMEBv/EACARAAICAQQDAQAAAAAAAAAAAAECABEDBAUSIRQxUcH/2gAMAwEAAhEDEQA/ALR051Jp3U1s97ot00tokrQNvhKMHGM8N7cj2pvA7zRdzvyBhIwGAuFwSPLFSv6UJNYXeo2MDlLF3injZ1CgschkAAwpHh49xzXvNNlZrO8cNMplutvDZCZ/aPnNAaxcp1On8fKU+Tdc3kb301gbgS3iIk/aJ2lYvTu4wBlif6NdW1RSrlAnjD8St6s/Hl50nazEXVV5qNv3Jrw2ENrL3DhXVX3KR8Nyc0w1tEuNPiWYSoouIpMDgkowcfxlRQACe4hgBVSVaXKdO1xILAvD40LPvJZiGIJJ/Oc02u+qNZtfqxe6ML+RdNaKKSOGGONNhbg5O0kn3zmiipgSFNTWbhjVsychdg/kx33VetQdR6KfvO5BqE7CaN4k9Pf7KgMBngDOfn8cVWWsnZf1Vw0u0kABdo/2iin4e1szP7kioV4ivc//2Q=="
+/>
 
 Ich habe mir ein paar Produkte angesehen und mich schlussendlich dazu
 entschieden, die Naturkosmetik von Santaverde aus Hamburg mal zu testen. Auf den
@@ -118,13 +115,11 @@ verwenden. Vielleicht wollt Ihr es ja auch so versuchen, wie ich es während
 meiner kleinen Testphase gemacht habe: Abends das Gel, um die Haut nachts schön
 atmen zu lassen und morgens die Creme unter dem Make-up.
 
-<RemoteImage
-  alt="Santaverde"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-3__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-3__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYIBwX/xAAoEAACAQMDBAEEAwAAAAAAAAABAgMEBREAEiEGBxMxMhRBUXEIImH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIRMSEi/9oADAMBAAIRAxEAPwCj71eqCz0y1F0rqejhZxGrTPt3uckKo9k8Hgc8azXq3urRo0dD0vcKSSvdgWlqB41VTwAokADsTnjj1pv7iWo3bpWrhVnV4WSoDJ8sKf7gftC41M1RaoL13TS3ijzRQzrKiO+1BDGqlAowPltVRnOd2plmkSd+Tcem+7NimttOvUFyWjuS5SctC3jMgJyqsoIOOAfwfen+w323XyhFZZ6+nrqTcU8sD7lDDGVP4PI4/wB1GN2qay6XqpnvM30MZZkSAQ7mjQE4WNAOPvycZOTzqk/4/wBNDD22pnpvN45qypfMwAY4fb6Hr461LhUcNQmhSVHSQbkdSrD8gjB0s0XRVmolg+oha4VUMfiFTWYZ3X7BtoAOMAjI9gH3o0aNJ6acu89rOkLxPJUTWxqaqclmnpJ3iYk+ycHBP7Gmfpbp+m6asVNaKKWeWnpy+x52DOdzFjk4GfeNGjSkD//Z" />
+<RemoteImage alt={`Santaverde`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-3__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-3__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYIBwX/xAAoEAACAQMDBAEEAwAAAAAAAAABAgMEBREAEiEGBxMxMhRBUXEIImH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIRMSEi/9oADAMBAAIRAxEAPwCj71eqCz0y1F0rqejhZxGrTPt3uckKo9k8Hgc8azXq3urRo0dD0vcKSSvdgWlqB41VTwAokADsTnjj1pv7iWo3bpWrhVnV4WSoDJ8sKf7gftC41M1RaoL13TS3ijzRQzrKiO+1BDGqlAowPltVRnOd2plmkSd+Tcem+7NimttOvUFyWjuS5SctC3jMgJyqsoIOOAfwfen+w323XyhFZZ6+nrqTcU8sD7lDDGVP4PI4/wB1GN2qay6XqpnvM30MZZkSAQ7mjQE4WNAOPvycZOTzqk/4/wBNDD22pnpvN45qypfMwAY4fb6Hr461LhUcNQmhSVHSQbkdSrD8gjB0s0XRVmolg+oha4VUMfiFTWYZ3X7BtoAOMAjI9gH3o0aNJ6acu89rOkLxPJUTWxqaqclmnpJ3iYk+ycHBP7Gmfpbp+m6asVNaKKWeWnpy+x52DOdzFjk4GfeNGjSkD//Z"
+/>
 
 Das Santaverde-Konzept beinhaltet immer ein Reinigungsprodukt, ein tonisierendes
 Produkt, eine Basispflege sowie eine Spezialpflege. Durch die Zertifizierung
@@ -159,13 +154,11 @@ weltweit wirksam ausgeschlossen.
 
 ## Komplett vegan
 
-<RemoteImage
-  alt="Santaverde"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-19__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-19__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwQI/8QAJhAAAQQBBAICAgMAAAAAAAAAAQIDBAURAAYSITFBB1ETcSJhgf/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgME/8QAHxEAAQQCAgMAAAAAAAAAAAAAAQACAxEEIRJBEyJR/9oADAMBAAIRAxEAPwD0q5Jx71N72tJjG1bY1QdXYqjqRHSyrivmespPpQGSP7GuPfl3Koqlp2C02uU+8GUKe7bR1kkjPZwDgaR7G3PKu50mFbx0l+Okuh+MgpS4gniMpByCCD+x3jUS7dLS3FkMXm6VZtm1kyNv1bk9K0TTFbElC1clJdCRyCj7OfP707bl596w/fXyLP2vvSVUwY9W5EbZakEyUuc1LcySnkFYHj61p21LVN9t6vtWmFx0ymuZaWclByQRn2Mjo+xjTBvSUmNJHGJSPUqgvaSBdV7kKyZ/KwtSV/xUUKSpJyFJUOwR96Xbf2hV0TakU4kR1qJJcW6XFHPnPLz/ALo0aKCrEjw3hevnSU2nxhXWe4ZNwuW8l6WyGJKChKw4BnBAPQ6P0dVNVUxKyCxDhoKWWG0tJ5HkohIwMn30NGjQGgGwh8r3gBx0F//Z" />
+<RemoteImage alt={`Santaverde`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-19__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-19__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwQI/8QAJhAAAQQBBAICAgMAAAAAAAAAAQIDBAURAAYSITFBB1ETcSJhgf/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgME/8QAHxEAAQQCAgMAAAAAAAAAAAAAAQACAxEEIRJBEyJR/9oADAMBAAIRAxEAPwD0q5Jx71N72tJjG1bY1QdXYqjqRHSyrivmespPpQGSP7GuPfl3Koqlp2C02uU+8GUKe7bR1kkjPZwDgaR7G3PKu50mFbx0l+Okuh+MgpS4gniMpByCCD+x3jUS7dLS3FkMXm6VZtm1kyNv1bk9K0TTFbElC1clJdCRyCj7OfP707bl596w/fXyLP2vvSVUwY9W5EbZakEyUuc1LcySnkFYHj61p21LVN9t6vtWmFx0ymuZaWclByQRn2Mjo+xjTBvSUmNJHGJSPUqgvaSBdV7kKyZ/KwtSV/xUUKSpJyFJUOwR96Xbf2hV0TakU4kR1qJJcW6XFHPnPLz/ALo0aKCrEjw3hevnSU2nxhXWe4ZNwuW8l6WyGJKChKw4BnBAPQ6P0dVNVUxKyCxDhoKWWG0tJ5HkohIwMn30NGjQGgGwh8r3gBx0F//Z"
+/>
 
 Das Label der Vegan Society garantiert, dass alle Produkte von Beginn an vegan
 sind. Die Santaverde Produkte tragen das Label mit der bekannten Veganblume
@@ -194,13 +187,11 @@ Pflanzen werden auf der Santa Verde Farm "Finca Verde" in Andalusien angebaut.
 Das Produktionslabor befindet sich inmitten der Aloe Vera Felder. Die Pflanzen
 können somit an Ort und Stelle untersucht werden.
 
-<RemoteImage
-  alt="Santaverde"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-15__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-15__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBwECAwX/xAArEAABAwIFAgQHAAAAAAAAAAABAgMEABEFBhIhMRNhByJBURQzQmJxgZH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUCBv/EACERAQABBAEEAwAAAAAAAAAAAAEAAgMEESESEzFBYZHw/9oADAMBAAIRAxEAPwCzsXztKw+R0X5bS48pwIZC0WWAT5RfgqNimxA96n5czJCxkrER4kNbJVrFnEj6h7b3H6pHztFcWuY7JL7rrS2HGkxI/R1rTqUhQClEahvdWw4B2rGQ8PcjuyW4yXUMuOOLacueVHUqwt6KJHpxSwuydBm41rsdYaT98Sz8WnfC4DijupXkjOK3P2mtfCWRNeyhGcnBQSs6mArnp2G/4JuRXGUy67hhaktfM0IUVgALudxp32temHBkuaU3NwBbtRw53I1N7Vlta8o/UThkqO647ERLcYbV53C2gal9rqv7AevAr0V4RBbjtxURwGUAJFiQT3J5J70UVgopPUay8i5cQqeJPwjB4jB1tt2UeSpRUf6SaZ46AkACiiiABxJ6z//Z" />
+<RemoteImage alt={`Santaverde`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-15__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-15__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBwECAwX/xAArEAABAwIFAgQHAAAAAAAAAAABAgMEABEFBhIhMRNhByJBURQzQmJxgZH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUCBv/EACERAQABBAEEAwAAAAAAAAAAAAEAAgMEESESEzFBYZHw/9oADAMBAAIRAxEAPwCzsXztKw+R0X5bS48pwIZC0WWAT5RfgqNimxA96n5czJCxkrER4kNbJVrFnEj6h7b3H6pHztFcWuY7JL7rrS2HGkxI/R1rTqUhQClEahvdWw4B2rGQ8PcjuyW4yXUMuOOLacueVHUqwt6KJHpxSwuydBm41rsdYaT98Sz8WnfC4DijupXkjOK3P2mtfCWRNeyhGcnBQSs6mArnp2G/4JuRXGUy67hhaktfM0IUVgALudxp32temHBkuaU3NwBbtRw53I1N7Vlta8o/UThkqO647ERLcYbV53C2gal9rqv7AevAr0V4RBbjtxURwGUAJFiQT3J5J70UVgopPUay8i5cQqeJPwjB4jB1tt2UeSpRUf6SaZ46AkACiiiABxJ6z//Z"
+/>
 
 Das Besondere ist, dass auf die sonst in Kosmetik verwendete Hauptkomponente
 Wasser komplett verzichtet wird, und an seiner Stelle der Saft zum Einsatz
@@ -215,13 +206,11 @@ ein Blatt der Heilpflanze Aloe Vera geschenkt. Mit dem Saft schaffte sie es,
 ihre Rötungen zu lindern und ihr Hautbild zu verbessern. Entzündungen und
 Trockenheit ließen nach und die Haut entspannte sich.
 
-<RemoteImage
-  alt="Santaverde"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-12__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-12__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBwMGCP/EACQQAAICAQQBBQEBAAAAAAAAAAECAwQRAAUSIUEGEyIxcVGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAAP/xAAeEQACAwABBQAAAAAAAAAAAAABAgADEQQSITFC8P/aAAwDAQACEQMRAD8A6Mks4OCezqDU3ercnsRVbdaw9duEwilVjE38YA9Ho6LLLGwaTAVAWLHwPJ1VnpGTbPT+87zXglvIsleGUosXuMyozSAqFGWYjkPJJ6znICM+HJZx+I19buvr8ZadrdYq8ghLcp2j9wJnGF5hMk+Oz/h1Mit8kVgeiM61bZd02vcd6M9GytqzJTjIV4XRxGCWAOR18pM4++9N6tR0jVZGAx4X61lbZPYnQcIwx1JAjDiwyD1pPQ9MUNusCdOckoGFZyPiOzgY/To0aJAPeMl1iKUU4D5jP2lLs+AGb7YDs/p1kSFdGjRnGf/Z" />
+<RemoteImage alt={`Santaverde`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-12__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-12__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBwMGCP/EACQQAAICAQQBBQEBAAAAAAAAAAECAwQRAAUSIUEGEyIxcVGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAAP/xAAeEQACAwABBQAAAAAAAAAAAAABAgADEQQSITFC8P/aAAwDAQACEQMRAD8A6Mks4OCezqDU3ercnsRVbdaw9duEwilVjE38YA9Ho6LLLGwaTAVAWLHwPJ1VnpGTbPT+87zXglvIsleGUosXuMyozSAqFGWYjkPJJ6znICM+HJZx+I19buvr8ZadrdYq8ghLcp2j9wJnGF5hMk+Oz/h1Mit8kVgeiM61bZd02vcd6M9GytqzJTjIV4XRxGCWAOR18pM4++9N6tR0jVZGAx4X61lbZPYnQcIwx1JAjDiwyD1pPQ9MUNusCdOckoGFZyPiOzgY/To0aJAPeMl1iKUU4D5jP2lLs+AGb7YDs/p1kSFdGjRnGf/Z"
+/>
 
 Aloe Vera wird seit Jahrhunderten für ihre regenerierenden, Feuchtigkeit
 spendenden und heilenden Fähigkeiten geschätzt. In der Pflanze sind über 200
@@ -241,13 +230,11 @@ Auf der Seite von Santaverde findet Ihr unter anderem ein umfangreiches
 Inhaltsstofflexikon, das besonderes für Allergiker und empfindliche Hauttypen
 interessant ist. [Ihr findet es hier](http://www.santaverde.de/inhaltsstoffe).
 
-<RemoteImage
-  alt="Santaverde"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-13__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-13__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKBAAAQMDAwQCAgMAAAAAAAAAAQIDBAAFEQYhMRITQYEiURUjMmHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQF/8QAIBEAAgIBAwUAAAAAAAAAAAAAAQIAEQMEEyESIjFRYf/aAAwDAQACEQMRAD8A3mRfHFwy6W1pIH8c7n7pcg3db/cUlfSe4firnxXKu4Q1xXEtz0uqYf8A2KaJWlGCer5AY2pVi362/mhARMLcySpTjQdaKDhQ+Oc7Dq5AOM0RYE1Ktl6PaY36s1JJs+mZc1l4IfbKO2sjOCVAcezTRpfULlytUGU+32XX2kuKb+if8PPukm6xUXCKzGkoadT3ErWgkKBKdxkAnz4NX1rjyFqSVD3xSDyYZZdoLXN3fz1ILroKJb7dd1QpjzTUwOOBvGzRVurpwRsT4/ulGDomDfLtNukt13JUwgI5KUpSVYCuR4Hqiij6AHErTU5ThZi3ImmQLSw0gdsJSFb4SgCryFBaRg80UUszp//Z" />
+<RemoteImage alt={`Santaverde`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-13__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-13__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKBAAAQMDAwQCAgMAAAAAAAAAAQIDBAAFEQYhMRITQYEiURUjMmHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQF/8QAIBEAAgIBAwUAAAAAAAAAAAAAAQIAEQMEEyESIjFRYf/aAAwDAQACEQMRAD8A3mRfHFwy6W1pIH8c7n7pcg3db/cUlfSe4firnxXKu4Q1xXEtz0uqYf8A2KaJWlGCer5AY2pVi362/mhARMLcySpTjQdaKDhQ+Oc7Dq5AOM0RYE1Ktl6PaY36s1JJs+mZc1l4IfbKO2sjOCVAcezTRpfULlytUGU+32XX2kuKb+if8PPukm6xUXCKzGkoadT3ErWgkKBKdxkAnz4NX1rjyFqSVD3xSDyYZZdoLXN3fz1ILroKJb7dd1QpjzTUwOOBvGzRVurpwRsT4/ulGDomDfLtNukt13JUwgI5KUpSVYCuR4Hqiij6AHErTU5ThZi3ImmQLSw0gdsJSFb4SgCryFBaRg80UUszp//Z"
+/>
 
 Wer gerne auch mal ein paar Produkte aus dem Hause Santaverde ausprobieren
 möchte,

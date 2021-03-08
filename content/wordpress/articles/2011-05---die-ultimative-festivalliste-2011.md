@@ -54,8 +54,7 @@ date: 2011-05-31T06:24:32.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "1983"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_05_40699_145559535466184_100000364159291_308244_6342374_n__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_05_40699_145559535466184_100000364159291_308244_6342374_n__l.jpg
@@ -63,6 +62,12 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: So langsam rückt die Festivalsaison immer näher
   
 ---
+
+[Die ultimative FestivallisteJetzt runterladen und ausdrucken](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)
+
+**Die Tickets sind geordert, der Zeltplatz ausgesucht, die Bands auf dem
+Timetable markiert. Stellt sich nur noch die Frage: Was mitnehmen? Hier meine
+ultimative Festival-Liste.**
 
 Gegenstände wie Bierfässer und Tische wurden absichtlich weggelassen, da die
 letzten Jahre bewiesen haben: Je weniger Ballast, umso besser. Unnötige
@@ -115,13 +120,14 @@ Ausreichend Zigaretten/Tabak, Rauchwaren sind auf dem Festivalgelände teurer
 
 ### Viel Spaß beim Packen!
 
-<RemoteImage
-  alt="Foto: Taubertal Festival 2010 cardamon82"
-  size="full"
-  title="Foto: Taubertal Festival 2010 cardamonchai"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2011/05/40699_145559535466184_100000364159291_308244_6342374_n.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2011/05/40699_145559535466184_100000364159291_308244_6342374_n.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Foto: Taubertal Festival 2010 cardamon82`} size="full"
+title={`Foto: Taubertal Festival 2010 cardamonchai`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_05_40699_145559535466184_100000364159291_308244_6342374_n__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_05_40699_145559535466184_100000364159291_308244_6342374_n__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgMECP/EACsQAAEDAgUDAwQDAAAAAAAAAAECAxEEIQAFEjFBEyJRBgcUFSRCYXGBof/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwT/xAAbEQACAwADAAAAAAAAAAAAAAAAAQIRIRJBcf/aAAwDAQACEQMRAD8AVBzb47rbdO+lw3nuI6ZjkxzfDI9tvUbrbpqHaxc6AjpNqIN73Mfx/eE8jLKt+uWqkZceTdQU2hRtJPjxidoKbOqI/bsr1n8W0K/UCI38YpGEE7ok1mHYeUeukVFC98inHy2mgoIDkdQ2Bm0J3GIDIfdnXmaaXPqJthDp7HqckpRvZU78XGEzkfqOvoaN4LafVXEtlLobV2oEakkERNuZxiaq0VDDSqovuvJaUsU6Gi24p4iUhRUCIBtxIwSgnqBc+yv5LXPumgFCqrSl1uWi4AWwQo6kKVMgyBAH+8WGj+rFhSyzooWVdPr9UrDq2yJjeDdP7384MGJzxX4ao6jVpc0q8wDr7LbaS1ocEIPdqKh2pMapUAQZsN+MQS6rMH19OAt5TqiClBnUkp1R+OxTcWkG/ODBhp22J4rP/9k="
+/>
+
+---
 
 ---
 

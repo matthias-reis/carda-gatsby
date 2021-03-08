@@ -36,6 +36,11 @@ subTitle: Bildergalerie
   
 ---
 
+**Jeder, der schon mal mit seiner Kamera in der Nähe eines Gewässers unterwegs
+war, weiß, wie schwierig es sein kann, eine Möwe im optimalen Licht zu
+erwischen. Umso stolzer ist man dann natürlich, wenn sich mal eine tolle
+Gelegenheit bietet, aus der sich ein paar Schnappschüsse ergeben.**
+
 Man hält mit der Kamera drauf, als würde es kein Morgen mehr geben.
 
 Just so erging es mir [bei unserem Ausflug nach
@@ -63,12 +68,17 @@ und begraben._
 Christian Morgenstern
 
 Auch am Bosporus sind mir einige Möwenbilder gelungen.
-[Hier findet Ihr sie!](/2010/01/moewen-am-bosporus/) ## Unser Kiel-Besuch -
-Wegweiser1. [Ein Besuch in Kiel](/2015/11/ein-besuch-in-kiel/)
+[Hier findet Ihr sie!](/2010/01/moewen-am-bosporus/)
 
+## Unser Kiel-Besuch - Wegweiser
+
+1.  [Ein Besuch in Kiel](/2015/11/ein-besuch-in-kiel/)
 1.  [Die Möwe](/2015/11/die-moewe/)
-1.  [Noch mehr Kiel](/2015/11/noch-mehr-kiel/)## Wegweiser Möwen1.
-    [Möwen am Bosporus (Januar 2010)](/2010/01/moewen-am-bosporus/)
+1.  [Noch mehr Kiel](/2015/11/noch-mehr-kiel/)
+
+## Wegweiser Möwen
+
+1.  [Möwen am Bosporus (Januar 2010)](/2010/01/moewen-am-bosporus/)
 1.  [Zurück nach St. Peter Ording (Juli 2015)](/2015/07/zurueck-nach-st-peter-ording/)
 1.  [St. Peter Ording - Perle an der Nordsee (August 2015)](/2015/08/st-peter-ording/)
 1.  [Birdwatching am Timmendorfer Strand (November 2015)](/2015/11/birdwatching-am-timmendorfer-strand/)

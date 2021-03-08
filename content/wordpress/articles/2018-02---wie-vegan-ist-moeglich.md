@@ -14,8 +14,8 @@ focusKeyword: vegan
 labels:
   - Aktivismus
   - crueltyfree
-  - Darum vegan
   - Earthlings
+  - Ernährung & Gesundheit
   - govegan
   - Nachhaltigkeit
   - Tierrechte
@@ -47,13 +47,12 @@ Veganer/in nicht jeden Tag Ungerechtigkeiten auffallen und Dinge, die Leid
 erzeugen? Das sind Fragen, die nicht nur Ihr uns immer wieder stellt. Auch wir
 beschäftigen uns damit jeden Tag.**
 
-<RemoteImage
-  alt="Komplett vegan leben - Ist das möglich?"
-  size="medium"
-  title="Komplett vegan leben - Ist das möglich?"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_15718379925_6d913b0d02_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_15718379925_6d913b0d02_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBAUI/8QAKxAAAgEDAwIEBgMAAAAAAAAAAQIDBAURABIhBjETIkFRBxQjYXGRgaGz/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwUBAgT/xAAdEQEAAgEFAQAAAAAAAAAAAAABAAIDERITITFB/9oADAMBAAIRAxEAPwBnT25XZleQIpPdCQf0dZrVVutzMstXTDZ3zMoP8jOr9zC02HSmEoJziQFSfv31zJer5caT5h5unLTHQzTsEnSipskBtwAfaTuxgH75zrRe7U1CBqCx1V3VlBA4WKSl78ASr3/fOsW4dSicMsQdiecLnQB0lfaWGS61d36XSaiLGCPw4oXWmkaZn5Jx23oBjOAuBgaY15rreGMlHX2vgYCJGA+PxxomK+72sHkNvjAif409QzKrVVPbpEHI+hIB/ppe3LqN6q3GmqYKb6jh2eQksmMnykn1/GmSskb7PLTkKcjEK8H9asIyK2UgpkIXAIhUk+/ppQZb/WMeEgF01eWa23GjoLNR1dRLUR1HiK67owCvlAJ7YDc+7HR4nxU6skrKylobFZUnhZTJHT0wBG4Z4w3OOBx76mpnhpqh5/DiMhABIQAMPT0HbP8AeqEFwo4L/c56enWKeZYjI2xsbgCCATxyApONX5LJ0yOKo9z/2Q==" />
+<RemoteImage alt={`Komplett vegan leben - Ist das möglich?`} size="medium"
+title={`Komplett vegan leben - Ist das möglich?`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_15718379925_6d913b0d02_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_15718379925_6d913b0d02_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBAUI/8QAKxAAAgEDAwIEBgMAAAAAAAAAAQIDBAURABIhBjETIkFRBxQjYXGRgaGz/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwUBAgT/xAAdEQEAAgEFAQAAAAAAAAAAAAABAAIDERITITFB/9oADAMBAAIRAxEAPwBnT25XZleQIpPdCQf0dZrVVutzMstXTDZ3zMoP8jOr9zC02HSmEoJziQFSfv31zJer5caT5h5unLTHQzTsEnSipskBtwAfaTuxgH75zrRe7U1CBqCx1V3VlBA4WKSl78ASr3/fOsW4dSicMsQdiecLnQB0lfaWGS61d36XSaiLGCPw4oXWmkaZn5Jx23oBjOAuBgaY15rreGMlHX2vgYCJGA+PxxomK+72sHkNvjAif409QzKrVVPbpEHI+hIB/ppe3LqN6q3GmqYKb6jh2eQksmMnykn1/GmSskb7PLTkKcjEK8H9asIyK2UgpkIXAIhUk+/ppQZb/WMeEgF01eWa23GjoLNR1dRLUR1HiK67owCvlAJ7YDc+7HR4nxU6skrKylobFZUnhZTJHT0wBG4Z4w3OOBx76mpnhpqh5/DiMhABIQAMPT0HbP8AeqEFwo4L/c56enWKeZYjI2xsbgCCATxyApONX5LJ0yOKo9z/2Q=="
+/>
 
 Ja, Du hast gerade richtig gelesen. Du bist nicht der/die Erste, dem/der diese
 Fragen eingefallen sind. Sie wurde/wird uns sehr oft gestellt und beschäftigt
@@ -106,12 +105,12 @@ Weißt Du, ob für das Auto, das Du Dir für den Urlaub gemietet hast,
 [Tiere gelitten haben](/2018/01/tierversuche-in-der-autoindustrie/) ?
 
 <RemoteImage
-  alt="Wir versuchen unseren Fußabdruck so klein wie möglich zu halten"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_32985444933_1b3843f0d5_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_32985444933_1b3843f0d5_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABgcIAAEF/8QALBAAAgEDAwIEBgMBAAAAAAAAAQIDBAURABIhBkEiMVGBBxMUFWGRCCRCof/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EAB8RAAICAgEFAAAAAAAAAAAAAAECAAMREgQTIzEyQv/aAAwDAQACEQMRAD8AEelaWegqIKgwvLEG3H5LcyADJDZ4I9R7ad1gvW+3GWmpnCHD75FEeMjODn0/7pWWaoqaKlWeugp6UKzIUlpyEDZHDFZc5HJHhx38udN2z0syRvV/TxVccSkD5FTlFCj/AArKBv8AXxc+WRrTy3DEZkwSYC/Efq3pmMimuF0hnnVuVp1Mjo3lgkDwqDjzOT6aFll6cZQwvtuwRkZmwf1rOoPhL9xv1XVTV9VBHWVLzEPTAtEWJYElWK7ecdvIY76Ul3t89sutbQNVW2VqWd4C4qMBtrFc++NKi5q11Qyxprf6hr1jdlr71c6QRvJRwFP6zHCmTaNzt+lHtxoy/jt837jd5aoGlhYiKGJG2JLIRubaCeWVQCSOxGe2kr1ffUvV1eroYfpI2VA658UrLk7mxx3wPwBnnXS6E6zrenL29cGllpnieKWBGHOeeN3A5AOfxo2IWJxK47OgErrqG2XKXp67xWiVY6+SkdKOSQ42uykKcjvzwfXGoQbwMVcBWU4IYcg/nVK0Px9tbqKartlzpqZnyZFljl2+hKjBx78DWpugOlrxNJc3gSRq1jUl4mGxi53ZXxeXPGiisvmZ0fpewn//2Q==" />
+alt={`Wir versuchen unseren Fußabdruck so klein wie möglich zu halten`}
+size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_32985444933_1b3843f0d5_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_32985444933_1b3843f0d5_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABgcIAAEF/8QALBAAAgEDAwIEBgMBAAAAAAAAAQIDBAURABIhBkEiMVGBBxMUFWGRCCRCof/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EAB8RAAICAgEFAAAAAAAAAAAAAAECAAMREgQTIzEyQv/aAAwDAQACEQMRAD8AEelaWegqIKgwvLEG3H5LcyADJDZ4I9R7ad1gvW+3GWmpnCHD75FEeMjODn0/7pWWaoqaKlWeugp6UKzIUlpyEDZHDFZc5HJHhx38udN2z0syRvV/TxVccSkD5FTlFCj/AArKBv8AXxc+WRrTy3DEZkwSYC/Efq3pmMimuF0hnnVuVp1Mjo3lgkDwqDjzOT6aFll6cZQwvtuwRkZmwf1rOoPhL9xv1XVTV9VBHWVLzEPTAtEWJYElWK7ecdvIY76Ul3t89sutbQNVW2VqWd4C4qMBtrFc++NKi5q11Qyxprf6hr1jdlr71c6QRvJRwFP6zHCmTaNzt+lHtxoy/jt837jd5aoGlhYiKGJG2JLIRubaCeWVQCSOxGe2kr1ffUvV1eroYfpI2VA658UrLk7mxx3wPwBnnXS6E6zrenL29cGllpnieKWBGHOeeN3A5AOfxo2IWJxK47OgErrqG2XKXp67xWiVY6+SkdKOSQ42uykKcjvzwfXGoQbwMVcBWU4IYcg/nVK0Px9tbqKartlzpqZnyZFljl2+hKjBx78DWpugOlrxNJc3gSRq1jUl4mGxi53ZXxeXPGiisvmZ0fpewn//2Q=="
+/>
 
 Wir, mein Mann und ich, versuchen, so bewusst zu leben, wie es uns möglich ist.
 Darum sind wir Veganer geworden, haben kein Auto und versuchen unseren
@@ -122,9 +121,9 @@ Unser Strom ist Ökostrom und wir kaufen Fairtrade-Kaffee. Wir würden niemals b
 einem dieser Einweg-Klamottengeschäfte einkaufen. Ich versuche über meinen Blog
 so viele Menschen wie möglich über den nachhaltigen, veganen Lebensstil
 aufzuklären. Wir versuchen keine
-[Kosmetikartikel](/category/vegan-2/vegan-beauty/) von Herstellern zu erwerben,
-die ihre Waren auch in China vertreiben, wo Tierversuche Vorschrift sind.
-Außerdem gehen wir auf Demos und engagieren uns im Tierschutz.
+[Kosmetikartikel](/category/vegan/fair-fashion-beauty/) von Herstellern zu
+erwerben, die ihre Waren auch in China vertreiben, wo Tierversuche Vorschrift
+sind. Außerdem gehen wir auf Demos und engagieren uns im Tierschutz.
 
 Aber auch wir kaufen uns Bandshirts und wissen nicht, unter welchen Bedingungen
 sie genäht wurden, wir fahren in den Urlaub, wir trinken auch auswärts Kaffee.
@@ -133,7 +132,7 @@ Großstädte mit der höchsten Abgasemission überhaupt. Bedingt durch unsere Ar
 und unsere Interessen sind wir permanent im Internet, wofür Server laufen, die
 mit Strom betrieben werden müssen. Außerdem haben wir eine Schwäche für moderne
 Gadgets, wie Kameras und Computer. Ich teste für meinen Blog
-[vegane Produkte](/category/vegan-2/produkte/). Auch diese werden an mich
+[vegane Produkte](/category/vegan/vegane-produkte/). Auch diese werden an mich
 verschickt und es fällt dabei Müll an.
 
 Wir entschuldigen uns nicht dafür. Genau wie Du Dich nicht für Deinen nicht
@@ -143,13 +142,12 @@ essen möchte. Ob er damit leben kann, dass
 werden. Dass 
 [Schweine um ihr Leben rennen müssen](/2017/11/das-gluecksschwein-aus-dem-elbtunnel/).
 
-<RemoteImage
-  alt="So trage ich Pelz!"
-  size="medium"
-  title="So trage ich Pelz!"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_11501151886_22baaaa304_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_11501151886_22baaaa304_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQFBgcDCP/EACoQAAIBAwMDAgYDAAAAAAAAAAECAwQFEQASIQYxQRMjBxQigZGxUXGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EAB4RAAIBAwUAAAAAAAAAAAAAAAABEQISIRMiMUFR/9oADAMBAAIRAxEAPwBFqBYNoiQJCRgKg2j/ADUEslN0vdFqEgV4a6i2mNXCn1ElP1nIPGOPtp24269vfdtto6qeqipvUkgphneEX6t2OMgkY/Gq31O9woYqyPqGGoaooSpjaTcslPluUXnGNx8cakc9FdKTeRK59ZTXKrdqVKsOpO+MSqioM4UDA57ck6NQsNvgrGaZWalhYDY+0+73yceMaNDtQxSe06Xqq0rcmt8cFTHMp94vSlEYbQ2Q+MMpyOR51nfxxooL9aIpLRU0kMlXJ8rOAgaT01BbdjjAB4+413t98WenVpgU42hG5IwTpCO3198uEy0sYSjBKSTyDEcan9nHgc/130xCeMmLXigrPWjhp5K1xAgjf5OmDIGAweM8Dj96NXbrnqCO1XUUljKyBB7878GR+B4/gDt2H50aywLU9P/Z" />
+<RemoteImage alt={`So trage ich Pelz!`} size="medium"
+title={`So trage ich Pelz!`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_11501151886_22baaaa304_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_11501151886_22baaaa304_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQFBgcDCP/EACoQAAIBAwMDAgYDAAAAAAAAAAECAwQFEQASIQYxQRMjBxQigZGxUXGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EAB4RAAIBAwUAAAAAAAAAAAAAAAABEQISIRMiMUFR/9oADAMBAAIRAxEAPwBFqBYNoiQJCRgKg2j/ADUEslN0vdFqEgV4a6i2mNXCn1ElP1nIPGOPtp24269vfdtto6qeqipvUkgphneEX6t2OMgkY/Gq31O9woYqyPqGGoaooSpjaTcslPluUXnGNx8cakc9FdKTeRK59ZTXKrdqVKsOpO+MSqioM4UDA57ck6NQsNvgrGaZWalhYDY+0+73yceMaNDtQxSe06Xqq0rcmt8cFTHMp94vSlEYbQ2Q+MMpyOR51nfxxooL9aIpLRU0kMlXJ8rOAgaT01BbdjjAB4+413t98WenVpgU42hG5IwTpCO3198uEy0sYSjBKSTyDEcan9nHgc/130xCeMmLXigrPWjhp5K1xAgjf5OmDIGAweM8Dj96NXbrnqCO1XUUljKyBB7878GR+B4/gDt2H50aywLU9P/Z"
+/>
 
 Wir halten Dir mit unserer Entscheidung, so leidfrei wie möglich zu leben, ein
 Stück weit den Spiegel vor. Das sorgt dafür, dass Du mit den oben genannten
@@ -190,15 +188,15 @@ Lebenseinstellung. Eine sehr empathische, wie ich finde. Man beginnt, sich in
 andere Lebewesen hineinzuversetzen. In Tiere und in andere Menschen. Man
 hinterfragt die Dinge und erforscht sie genauer, bevor man sie konsumiert.
 
-Falls Du [Rezeptideen](/category/vegan-2/rezepte/) oder Einkaufstipps brauchst:
-Melde Dich einfach.
+Falls Du [Rezeptideen](/category/vegan/vegane-rezepte/) oder Einkaufstipps
+brauchst: Melde Dich einfach.
 
 <iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3596188792&amp;asins=3596188792&amp;linkId=e5833bb8d2ad80723621d2fae762ac85&amp;show_border=false&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
 </iframe>
 
 ## Infos zu folgenden Themen findest Du hier im Blog
 
-1.  [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+1.  <ol>     <li> [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
 1.  [Gesundheitliche Auswirkungen veganer Ernährung](/2014/08/ich-war-so-muede/)
 1.  [Fleischproduktion - Zahlen und Fakten](/2014/08/blutige-zahlen/)
 1.  [Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-blos/)
@@ -212,7 +210,8 @@ Melde Dich einfach.
 1.  [Klimaschutz und vegane Ernährung wissenschaftlich betrachtet](/2017/02/klimaschutz-und-vegane-ernaehrung/)
 1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
 1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)
-1.  [Vegane Persönlichkeiten](/category/vegan-2/vegane-persoenlichkeiten/)
+</li>
+</ol>
 
 - _Hinweis: Dieser Beitrag enthält eine Anzeige mit einem Affiliate Link. Der
   Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema

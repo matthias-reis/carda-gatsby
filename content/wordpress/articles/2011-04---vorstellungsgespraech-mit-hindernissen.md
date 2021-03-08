@@ -17,13 +17,13 @@ labels:
   - Chef
   - Gedanken
   - Geschichten
+  - Geschichten & Erlebtes
   - Januar
   - Job
   - Kälte
   - Kurzgeschichten
   - Literarisches
   - Passagiere
-  - Prosa
   - Sekretärin
   - Texte
   - Vorstellungsgespräch
@@ -36,8 +36,7 @@ date: 2011-04-02T13:16:44.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "10646"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_04_16282996591_cd8d21c6a1_o-e1582812580559__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_04_16282996591_cd8d21c6a1_o-e1582812580559__l.jpg
@@ -46,7 +45,18 @@ subTitle: Eine kurze Geschichte aus dem Leben
   
 ---
 
-<hr /> __Ein Tag Ende Januar. Es ist kalt, aber es liegt kein Schnee mehr. Überall liegt Rollsplitt.__
+<hr />
+
+**Hinweis:** Hin und wieder schreibe ich Kurzgeschichten. Ab und an landet auch
+eine davon hier im Blog. Diese hier ist eine davon. Jede Ähnlichkeit der in
+dieser Geschichte vorkommenden Figuren und Handlungen mit real existierenden
+Personen oder Vorkommnissen ist rein zufällig und in keiner Weise beabsichtigt.
+Die Geschichte ist frei erfunden.
+
+<hr />
+
+**Ein Tag Ende Januar. Es ist kalt, aber es liegt kein Schnee mehr. Überall
+liegt Rollsplitt.**
 
 Auf den Gehsteigen, auf der Straße, im Supermarkt, auf dem Teppich und in den
 Hosenaufschlägen. Auf der kurzen Strecke zwischen Haustür und Bahnhof bist Du
@@ -58,13 +68,12 @@ Deinen Lieblingsplatz im Café und stehen morgens, wenn Du verschlafen aus der
 Tür kommst vor Deinem Haus, um dieses baufällige, denkmalgeschütze Gebäude zu
 fotografieren.
 
-<RemoteImage
-  alt="Überall liegt Rollsplit"
-  size="medium"
-  title="[ ](/wp-content/uploads/2011/04/16282996591_cd8d21c6a1_o.jpg)  Überall liegt Rollsplit"
-  mediumUrl="http://cardamonchai.com/wp-content/uploads/2011/04/16282996591_cd8d21c6a1_o-640x640.jpg"
-  largeUrl="http://cardamonchai.com/wp-content/uploads/2011/04/16282996591_cd8d21c6a1_o-640x640.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Überall liegt Rollsplit`} size="medium"
+title={`[ ](/wp-content/uploads/2011/04/16282996591_cd8d21c6a1_o.jpg) Überall liegt Rollsplit`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_04_16282996591_cd8d21c6a1_o-e1582812580559__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_04_16282996591_cd8d21c6a1_o-e1582812580559__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACwQAAEDAwMCBQMFAAAAAAAAAAECAwQABhEFEiETMRQiQUJhFnGBMkNRcpH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQT/xAAcEQEAAgMAAwAAAAAAAAAAAAABAAIDERIhQVH/2gAMAwEAAhEDEQA/AIctbKJTghupdj7j017Bkj07052DbmqXHrKImnxlPulJyVowlkHguKOMJ+D/AJzWpa2i6RcctCdVkoTufcW6ttzphI6KNuEhI9+4cdsfk2uI9Bs2Ahu24UCK46gIdlqQtzrAHynOeTySc454q5MwGvc1WsngjZYdgaZajCHDiZqRHmkuDO34QPaPnuacQgJO4J+M4qD6jdFzywpKLkcjoUohPhmWEcAevBUM/fisFfgpMRH1Zq13ajKJUVCJM3N7c8cDtWbo+wHFazuzJlbuI0hKsAqJznGKsGiawDEDLyUutKGFIV2NFFPmNx7TP1u309MydIeBbP7TvKM98Z/Ug/bI/ik2VNeiOCNKcfhv58qHyHW1f1J7/g0UUVDp0yVWf//Z"
+/>
 
 Wieder mal bist Du viel zu früh am Bahnhof. Noch eine Viertelstunde, bis der Zug
 kommt, aber Du hattest ja mal wieder Angst, zu spät zu kommen. Man muss sich ja

@@ -14,13 +14,13 @@ labels:
   - Australien
   - Beach
   - Bielefeld
+  - Fair Fashion & Beauty
   - Fitness
   - Flip Flops
   - Gumbies
   - Hamburg
   - Hausschuhe
   - Hipster
-  - Mode & Beauty
   - Reisen
   - Sandalen
   - Sauna
@@ -32,7 +32,8 @@ labels:
   - Surfer
   - Tauchen
   - Urlaub
-  - Vegane Produkte
+  - vegane Schuhe
+  - veganes Leder
   - Wellness
   - Yoga
 type: Galerie Rechts
@@ -69,7 +70,7 @@ Blog ja schon vor einiger Zeit. Inzwischen begleiten sie mich überallhin. Ich
 liebe meine türkisen Flip Flops. Sie nehmen immer die Farbe des Sandes an, durch
 den ich gerade laufe. Sie nehmen nicht viel Platz im Rucksack weg und sorgen
 überall für neugierige Blicke. Beim Yoga sind sie genauso dabei, wie beim
-Wandern, Schnorcheln und auf [Festivals](/category/musik/festivals/).
+Wandern, Schnorcheln und auf [Festivals](/category/rock-n-roll/festivals/).
 
 ## Das neue Gumbies Modell
 

@@ -12,7 +12,8 @@ excerpt: Food-Watch hat nun eine Mitmach-Aktion ins Leben gerufen, bei der man
 focusKeyword: Produkte mit tierischen Inhalten
 labels:
   - Blumen essen
-  - Darum vegan
+  - Ernährung
+  - Ernährung & Gesundheit
   - food watch
   - Gemüse
   - Kennzeichnung
@@ -21,6 +22,7 @@ labels:
   - Tofutante
   - V
   - vegan
+  - vegane Ernährung
   - Veganer
   - Vegetarier
   - vegetarisch
@@ -40,6 +42,10 @@ subTitle: Food-Watch ruft Mitmach-Aktion ins Leben
   
 ---
 
+**Food-Watch hat nun eine Mitmach-Aktion ins Leben gerufen, bei der man in einem
+Schreiben an die Bundesministerin für Ernährung, Landwirtschaft und
+Verbraucherschutz, Ilse Aigner, mitzeichnen kann.**
+
 Die Tofutante wies in ihrem neuesten Beitrag (Hinweis: Link wurde entfernt, da
 es diesen Blog nicht mehr gibt) heute auf ein wichtiges Thema hin: In
 Deutschland gibt es nach wie vor keine Kennzeichnungspflicht für Produkte, die
@@ -51,8 +57,8 @@ Angefangen bei Gummitierchen, über die Handcreme bis zum Knofibaguette.
 
 Food-Watch hat nun eine
 [Mitmach-Aktion](http://foodwatch.de/kampagnen__themen/vegetarismus_veganismus/e_mail_aktion/index_ger.html)
-ins Leben gerufen, bei der man in einem Schreiben zu diesem heißen Thema an die
-Bundesministerin für Ernährung, Landwirtschaft und Verbraucherschutz, Ilse
+ins Leben gerufen, bei der man in einem Schreiben zu diesem heißen Thema an
+die Bundesministerin für Ernährung, Landwirtschaft und Verbraucherschutz, Ilse
 Aigner,
 [mitzeichnen](http://foodwatch.de/kampagnen__themen/vegetarismus_veganismus/e_mail_aktion/index_ger.html)
 kann.
@@ -66,7 +72,7 @@ würde.
 
 Herzlichen Dank für die Aufmerksamkeit und ein schönes Wochenende.
 
-## So wird das Ganze übrigens in good old England gekennzeichnet, hübsch, oder? \_\_
+<h3>So wird das Ganze übrigens in good old England gekennzeichnet, hübsch, oder? __ </h3>
 
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_549049_450425521646249_1627434412_n4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_549049_450425521646249_1627434412_n4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_309407_450425734979561_624370107_n4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_309407_450425734979561_624370107_n4__l.jpg"}]}

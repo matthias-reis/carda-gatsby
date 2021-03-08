@@ -56,13 +56,11 @@ schön sauber bleiben.
 
 ## Englischer Rasen und Klassizismus
 
-<RemoteImage
-  alt="jenischpark"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-27-jenisch-park-10__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-27-jenisch-park-10__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHA//EACkQAAIBAgUDBAIDAAAAAAAAAAECAwQRAAUGEiETMUEHIlFxI4EUYcH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAhEQACAgEDBQEAAAAAAAAAAAABAgADERIhMRMiQVFSof/aAAwDAQACEQMRAD8Aso9HMxEjVqzQPVSSRSyQHhA2/wDKYx3CkcixBx19ZMmiodMZbFBGsSCseNoxuIVyhJZSfnz44Hm+J/LvU+SkoZarUNBRRJCoPUpah2/q1mX6tY4oOvdTZnqKdUzCWMdD3iijj2iLctg97ndfkd+CDwMZupXjKeYUQkagNpl9TTbKeYOCQoEQO3ks1+xt8AYMTjpYpuVCwfeiq1uQhPJ+ze+DB1RRrneZTz6dkiJidZGQORe6i/ex83thNP51UZytc1XGiPSpDAWXjqWVjv8A3xio59mTRUqUsTD8gDmxubjkD/cM6KCvzDL/AOVCsCrI5jb37SxU97W5GK10oteON5ZmKdi8epoE1RJHB14o1aMEwozGysSOefsgX/WDEflmpKiHT1LR5hTgyUkfRilppdoceAexA+bfeDECMGMpX9fk/9k=" />
+<RemoteImage alt={`jenischpark`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-27-jenisch-park-10__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-27-jenisch-park-10__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHA//EACkQAAIBAgUDBAIDAAAAAAAAAAECAwQRAAUGEiETMUEHIlFxI4EUYcH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAhEQACAgEDBQEAAAAAAAAAAAABAgADERIhMRMiQVFSof/aAAwDAQACEQMRAD8Aso9HMxEjVqzQPVSSRSyQHhA2/wDKYx3CkcixBx19ZMmiodMZbFBGsSCseNoxuIVyhJZSfnz44Hm+J/LvU+SkoZarUNBRRJCoPUpah2/q1mX6tY4oOvdTZnqKdUzCWMdD3iijj2iLctg97ndfkd+CDwMZupXjKeYUQkagNpl9TTbKeYOCQoEQO3ks1+xt8AYMTjpYpuVCwfeiq1uQhPJ+ze+DB1RRrneZTz6dkiJidZGQORe6i/ex83thNP51UZytc1XGiPSpDAWXjqWVjv8A3xio59mTRUqUsTD8gDmxubjkD/cM6KCvzDL/AOVCsCrI5jb37SxU97W5GK10oteON5ZmKdi8epoE1RJHB14o1aMEwozGysSOefsgX/WDEflmpKiHT1LR5hTgyUkfRilppdoceAexA+bfeDECMGMpX9fk/9k="
+/>
 
 Inmitten des Parks am Gipfel eines Hügels, von dem aus man einen fantastischen
 Blick über englischen Rasen auf die Elbe hat, liegt das strahlend weiß getünchte

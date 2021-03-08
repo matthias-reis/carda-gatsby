@@ -12,14 +12,14 @@ excerpt: Sarah und Paul von FreiVon sind zwei Menschen, die eine Vision teilen -
 focusKeyword: FreiVon
 labels:
   - Crowdfunding
+  - Fair Fashion & Beauty
   - FreiVon
   - FreiVon Schuhe
-  - Interview
-  - Mode & Beauty
+  - Interviews
   - Start-up
   - Startnext
-  - Vegane Produkte
   - vegane Schuhe
+  - veganes Leder
 type: Artikel
 typeName: Interview
 date: 2014-11-02T17:53:50.000Z
@@ -35,17 +35,18 @@ subTitle: Schuhe - vegan, nachhaltig und aus Deutschland
   
 ---
 
+**Sarah und Paul von FreiVon sind zwei Menschen, die eine Vision teilen - die
+Vision von fairem, veganem Schuhwerk, das in Deutschland produziert wird.**
+
 Auf der Suche nach veganen Schuhen stellten die beiden immer wieder fest, dass
 immer irgendeine Komponente nicht passte. Entweder stammten die Schuhe aus dem
 Sweatshop oder sie waren aus Leder. Irgendwie haute das nie ganz hin.
 
-<RemoteImage
-  alt="freivon"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_rot.jpeg__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_rot.jpeg__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCAwEEBf/EACcQAAIBAwQBAgcAAAAAAAAAAAECAwAEEQUSEyFBBhQiMTJRYWJx/8QAGAEAAgMAAAAAAAAAAAAAAAAABQYCAwf/xAAhEQACAQMFAAMAAAAAAAAAAAABAgMABBEFEiExUXKh8P/aAAwDAQACEQMRAD8AQY4s1csJrMTYI6qE+rW1vfxWkgbkcDLAfCm7IXJ8ZIIFJwDOcKM1us00cChpCAMgc+nqrOI0Vt8g8rRVe6p4NL+oXZt3Xc6IM9s3QFKvqe7uLfXZG38kM8Ealdm08Z7XP7dZBru6/YT6hq9vbywXPsfqZoEBJP27IA/pPVT1/wBMXGoRS3ECxx3TMHWJWyqADCoCfngADPmjNqYYFV3IyfqkvW0vdSme2hU7E5+Rx0Pe/wBxTRpjLc2MLgsxCgMWxuyB3n80VPR5JLiHnnsTYyuiCSDaFUSBcMVAJ6OAfHmihNwipKwU5FM2nXEk1sjyrtYjkGv/2Q==" />
+<RemoteImage alt={`freivon`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_rot.jpeg__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_rot.jpeg__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCAwEEBf/EACcQAAIBAwQBAgcAAAAAAAAAAAECAwAEEQUSEyFBBhQiMTJRYWJx/8QAGAEAAgMAAAAAAAAAAAAAAAAABQYCAwf/xAAhEQACAQMFAAMAAAAAAAAAAAABAgMABBEFEiExUXKh8P/aAAwDAQACEQMRAD8AQY4s1csJrMTYI6qE+rW1vfxWkgbkcDLAfCm7IXJ8ZIIFJwDOcKM1us00cChpCAMgc+nqrOI0Vt8g8rRVe6p4NL+oXZt3Xc6IM9s3QFKvqe7uLfXZG38kM8Ealdm08Z7XP7dZBru6/YT6hq9vbywXPsfqZoEBJP27IA/pPVT1/wBMXGoRS3ECxx3TMHWJWyqADCoCfngADPmjNqYYFV3IyfqkvW0vdSme2hU7E5+Rx0Pe/wBxTRpjLc2MLgsxCgMWxuyB3n80VPR5JLiHnnsTYyuiCSDaFUSBcMVAJ6OAfHmihNwipKwU5FM2nXEk1sjyrtYjkGv/2Q=="
+/>
 
 Sie kamen auf die Idee, einen eigenen Schuh herzustellen. Vegan und
 umweltfreundlich sollte er sein und natürlich auch noch fair. Sie machten sich
@@ -58,7 +59,10 @@ notwendige Kleingeld für ihre Idee aufzubringen, haben sie ein
 Crowdfunding-Projekt ins Leben gerufen, das heute noch 38 Tage online ist. Was
 die Schuhvisionäre sonst noch so planen, haben sie mir im Interview erzählt.
 
-## Die Suche nach veganen Schuhen gestaltete sich schwieriger, als gedacht **Anne:** Hallo, ihr Lieben! Vielen Dank, dass ihr euch die Zeit für das Interview nehmt!
+## Die Suche nach veganen Schuhen gestaltete sich schwieriger, als gedacht
+
+**Anne:** Hallo, ihr Lieben! Vielen Dank, dass ihr euch die Zeit für das
+Interview nehmt!
 
 **Sarah:** Hallo Anne! Wir freuen uns über das Interesse an unserem Projekt!
 
@@ -87,13 +91,11 @@ Bericht über die Tötung von Küken gesehen habe, ich fand das alles völlig
 pervers. Das ist jetzt ziemlich genau vier Jahre her, der Rest kam nach und
 nach.
 
-<RemoteImage
-  alt="freivon"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_sarah_mit_schuh.jpeg__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_sarah_mit_schuh.jpeg__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBggF/8QALBAAAgECBQMCBQUAAAAAAAAAAQIDBBEABQYSIQdBURMxCBQVYaEiQoGR4f/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8AZ2YPBR00lRVyJDAgJZ3NgLC+KLUa4jTM/RfIM6FAHeP55aZnQkHghQLlT77u2KBq7UD0PWKrm1qk6QUN/pcMaepCg/ZLt78EtcC+69/bE/U+eUskmW5xQ5qGicykztMdsgA5j2ni4uOLXwtxmTTLiq6erjLwOGUGx8g+DgwkjqeKPXtFV6fkeZa2NIa6JQQjkcbwD3A5v9vvgxTDR+IXK6Sq0M2YSU6PW0U8Qimt+pEdrOt+4PjzjMtQ7CP0g7sgfeik8BiLFrebAc41r1TWGq6eZ+k0ioq03qhj2ZGVl/sgD+cZFrpAoZVPBv7Dt4wpDQ6TZVS1ERrXj3Svt5bnjn8cYMdXpbElPlcYV73t+B/uDCFf/9k=" />
+<RemoteImage alt={`freivon`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_sarah_mit_schuh.jpeg__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_sarah_mit_schuh.jpeg__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBggF/8QALBAAAgECBQMCBQUAAAAAAAAAAQIDBBEABQYSIQdBURMxCBQVYaEiQoGR4f/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8AZ2YPBR00lRVyJDAgJZ3NgLC+KLUa4jTM/RfIM6FAHeP55aZnQkHghQLlT77u2KBq7UD0PWKrm1qk6QUN/pcMaepCg/ZLt78EtcC+69/bE/U+eUskmW5xQ5qGicykztMdsgA5j2ni4uOLXwtxmTTLiq6erjLwOGUGx8g+DgwkjqeKPXtFV6fkeZa2NIa6JQQjkcbwD3A5v9vvgxTDR+IXK6Sq0M2YSU6PW0U8Qimt+pEdrOt+4PjzjMtQ7CP0g7sgfeik8BiLFrebAc41r1TWGq6eZ+k0ioq03qhj2ZGVl/sgD+cZFrpAoZVPBv7Dt4wpDQ6TZVS1ERrXj3Svt5bnjn8cYMdXpbElPlcYV73t+B/uDCFf/9k="
+/>
 
 **Sarah:** Ich wurde von der Fleischesserin direkt zur Veganerin. Um die selbe
 Zeit habe ich auch noch aufgehört zu rauchen. Das war nicht einfach (lacht).
@@ -105,7 +107,8 @@ entschieden?
 denn erst durch ihn habe ich mich mit der Thematik näher auseinandergesetzt.
 
 **Paul:** Wie gesagt, am Anfang war es bei mir eine Doku über Legehennen. Einen
-ordentlichen Ruck hat mir dann noch der Film **Earthlings** verpasst.
+ordentlichen Ruck hat mir dann noch der Film [Earthlings](/2020/07/earthlings/)
+verpasst.
 
 **Anne:** Wie lange kennt ihr euch schon? Habt ihr früher schon
 zusammengearbeitet?
@@ -156,7 +159,10 @@ es geht, um sicher zu gehen, dass wir auch wirklich halten, was wir versprechen.
 
 **Sarah:** Unseren Prototypen natürlich!
 
-## Die Schuhe von FreiVon **Anne:** Was zeichnet einen guten Schuh aus? Welche Eigenschaften sollte er haben?
+## Die Schuhe von FreiVon
+
+**Anne:** Was zeichnet einen guten Schuh aus? Welche Eigenschaften sollte er
+haben?
 
 **Sarah:** Ein guter Schuh sollte zunächst natürlich gut aussehen, er sollte
 bequem sein, das heißt der Fuß muss sich darin wohlfühlen, hinzu kommen
@@ -175,15 +181,17 @@ von Pirmasens beziehen, die ihre Fertigungsstellen in Deutschland und in
 Rumänien hat. Wir legen alle Informationen zu unseren Lieferanten und über die
 Materialien in aller Ausführlichkeit auf unserer Homepage offen dar.
 
-## Im Moment läuft noch alles über Startnext **Anne:** Euer erster Schuh ist ja bereits fertig, Sarah, Du hast ihn an, es handelt sich um ein wirklich hübsches Damenmodell. Kann man es schon käuflich erwerben?
+## Im Moment läuft noch alles über Startnext
 
-<RemoteImage
-  alt="freivon"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_profil.jpeg__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_profil.jpeg__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgE/8QAJxAAAQMDAwMFAQEAAAAAAAAAAQIDBAAFEQYSMRMhQQciUWGRCHH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAYEQEBAQEBAAAAAAAAAAAAAAAAAREhQf/aAAwDAQACEQMRAD8A0KzJg2yI07PksRW1EISp1YSCfjJqE1h6n6V0rG3zLgJbxGURoI6zi/z2gfZIpC/oS73SJY7ZDtFsXcGZe/quNMLdUwpBBTjaDjO48/FUI3Bu8y3SJD9iuC3N2xbxbXvSOeyCNx+yBityYo2lp6/W3U9ijXWzPh6I+OxPZSD5SoeFD4rkvUVLjRwBWRdB6o1XoWc+qwQpz7MjHXivQnVNuEcK249p+x3q/fTbXd91am5HUWnxZ2Wgkx3PekunOFJKVDPHfPHihJc6XPDhZ56Vtp7gHHg1Lh4E5Kz+0UUEJEzpox1FD/FGlq7XbYhQKjxyTRRSjX//2Q==" />
+**Anne:** Euer erster Schuh ist ja bereits fertig, Sarah, Du hast ihn an, es
+handelt sich um ein wirklich hübsches Damenmodell. Kann man es schon käuflich
+erwerben?
+
+<RemoteImage alt={`freivon`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_profil.jpeg__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_profil.jpeg__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgE/8QAJxAAAQMDAwMFAQEAAAAAAAAAAQIDBAAFEQYSMRMhQQciUWGRCHH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAYEQEBAQEBAAAAAAAAAAAAAAAAAREhQf/aAAwDAQACEQMRAD8A0KzJg2yI07PksRW1EISp1YSCfjJqE1h6n6V0rG3zLgJbxGURoI6zi/z2gfZIpC/oS73SJY7ZDtFsXcGZe/quNMLdUwpBBTjaDjO48/FUI3Bu8y3SJD9iuC3N2xbxbXvSOeyCNx+yBityYo2lp6/W3U9ijXWzPh6I+OxPZSD5SoeFD4rkvUVLjRwBWRdB6o1XoWc+qwQpz7MjHXivQnVNuEcK249p+x3q/fTbXd91am5HUWnxZ2Wgkx3PekunOFJKVDPHfPHihJc6XPDhZ56Vtp7gHHg1Lh4E5Kz+0UUEJEzpox1FD/FGlq7XbYhQKjxyTRRSjX//2Q=="
+/>
 
 **Sarah:** Nein, wir sind damit noch nicht in die Produktion gegangen. Im Moment
 machen wir die Crowdfunding- Kampagne bei Startnext, um damit die Herstellung zu
@@ -208,7 +216,11 @@ veganen Supermarkt, auch in Bioläden, Drogerien und Reformhäusern findet man
 inzwischen ein breit gefächertes veganes Angebot. Auch im Bekleidungsbereich hat
 sich einiges getan.
 
-## "Es ist nicht logisch, Leder zu tragen" **Anne:** Was ist davon zu halten, dass sehr viele Menschen gegen das Tragen von Pelz sind, aber ganz selbstverständlich Lederwaren kaufen. Wie kommt es zu diesem Phänomen?
+## "Es ist nicht logisch, Leder zu tragen"
+
+**Anne:** Was ist davon zu halten, dass sehr viele Menschen gegen das Tragen von
+Pelz sind, aber ganz selbstverständlich Lederwaren kaufen. Wie kommt es zu
+diesem Phänomen?
 
 **Sarah:** Da bin ich überfragt. Vielleicht denken sie, dass Leder ein
 Abfallprodukt der Fleischindustrie ist und somit nicht schlimm, wenn man es
@@ -234,15 +246,17 @@ Nur wir beide.
 **Anne:** Derzeit habt ihr sicher sehr viel mit FreiVon zu tun. Mit was
 beschäftigt ihr euch sonst noch so? Wie verbringt ihr eure Freizeit?
 
-<RemoteImage
-  alt="freivon"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_paul_mit_schuh.jpeg__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_paul_mit_schuh.jpeg__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBggF/8QAKBAAAgECBQQBBQEAAAAAAAAAAQIDBBEABQYSIQcTMUFhFSMyUXGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAFBEf/aAAwDAQACEQMRAD8AbzrD3mgEkZnVd7RBgXC/sjyB84X+e63nyfVLUVbksi5MJlpjXK5LhmtaQpa3bubXvfyfWI2uqXTeWavqEqqURVkVGuYQOwNpHaVtwVr8ndY2I4/mKXqvPGznI5pMylX6tFVolLDHGe2YrKd8jE8lWB9i9xxgvcEk05PtVMe6OxH7HODFL6eamhzaiKBRHPC3bcKbqTYcj4wYQs/V/SFHqLLI8ymqZKafK4pX3RoCZUI/C58c+/k4z3qqR46eYI3JJLH49nGiOq1bJH07z16eZ4pFgUh0tcDuLf8AzGTq6umrQTU1TNHu2ttjG65PIHrGlDL6LB07wbiypf8AuDHY6c0Jo6ASSsrSSHcxC7R544wYyq//2Q==" />
+## "Wir trinken gerne Tee!"
 
-## "Wir trinken gerne Tee!" **Sarah:** Wir sind leider relativ langweilig. Gerade im Winter sind wir gerne zu Hause, trinken Tee und schauen uns Reportagen und Filme an. Eher unspektakulär, also.
+<RemoteImage alt={`freivon`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_paul_mit_schuh.jpeg__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_paul_mit_schuh.jpeg__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBggF/8QAKBAAAgECBQQBBQEAAAAAAAAAAQIDBBEABQYSIQcTMUFhFSMyUXGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAFBEf/aAAwDAQACEQMRAD8AbzrD3mgEkZnVd7RBgXC/sjyB84X+e63nyfVLUVbksi5MJlpjXK5LhmtaQpa3bubXvfyfWI2uqXTeWavqEqqURVkVGuYQOwNpHaVtwVr8ndY2I4/mKXqvPGznI5pMylX6tFVolLDHGe2YrKd8jE8lWB9i9xxgvcEk05PtVMe6OxH7HODFL6eamhzaiKBRHPC3bcKbqTYcj4wYQs/V/SFHqLLI8ymqZKafK4pX3RoCZUI/C58c+/k4z3qqR46eYI3JJLH49nGiOq1bJH07z16eZ4pFgUh0tcDuLf8AzGTq6umrQTU1TNHu2ttjG65PIHrGlDL6LB07wbiypf8AuDHY6c0Jo6ASSsrSSHcxC7R544wYyq//2Q=="
+/>
+
+**Sarah:** Wir sind leider relativ langweilig. Gerade im Winter sind wir gerne
+zu Hause, trinken Tee und schauen uns Reportagen und Filme an. Eher
+unspektakulär, also.
 
 **Paul:** Ich kümmere mich neben FreiVon noch um meine Musik. Mit meiner Band
 Hans Super sind wir gerade im Studio.
@@ -270,7 +284,12 @@ Labels, die gut umgesetzt werden, sind durchaus sinnvoll.
 **Anne:** Das Projekt ist geglückt, ihr habt euer Crowdfunding-Ziel erreicht.
 Was werden eure nächsten Schritte sein?
 
-## "Wir können es nicht mehr erwarten, in die Produktion zu gehen!" **Sarah:** Sofort die Produktion starten, damit all unsere tollen Unterstützer, so schnell wie möglich, ihre Dankeschöns bekommen. Weiter nach nachhaltigerem Kunstleder suchen und dafür Kooperationspartner gewinnen. Das Schuhrecycling in Deutschland verbessern.
+## "Wir können es nicht mehr erwarten, in die Produktion zu gehen!"
+
+**Sarah:** Sofort die Produktion starten, damit all unsere tollen Unterstützer,
+so schnell wie möglich, ihre Dankeschöns bekommen. Weiter nach nachhaltigerem
+Kunstleder suchen und dafür Kooperationspartner gewinnen. Das Schuhrecycling in
+Deutschland verbessern.
 
 **Anne:** Die Schuhe stehen in den Läden und sind ein Verkaufsrenner. Was kommt
 als nächstes? Vegane Oberbekleidung?

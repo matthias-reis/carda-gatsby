@@ -20,7 +20,6 @@ labels:
   - Aussicht Augsburg
   - Dom Augsburg
   - Dorint Hotel Augsburg
-  - Flickr
   - Fotos Augsburg
   - Hotelturm
   - Hotelturm Augsburg
@@ -46,12 +45,13 @@ subTitle: So schön ist nur die Vogelperspektive
   
 ---
 
+**Letzte Woche hatte ich das große Glück, den 34. Stock des Hotelturms, von den
+Bewohnern auch liebevoll "Maiskolben" genannten Hotelturms betreten zu dürfen.
+Natürlich nicht ohne Kameraausrüstung.**
+
 Das Spektakel wollte ich meiner Linse nun wirklich nicht entgehen lassen. Bei
 wunderbar sonnigem Wetter sind ein paar interessante Schnappschüsse entstanden,
-hier ein paar Beispiele. Die komplette Fotoserie findet Ihr in meinem
-[Flickr](http://www.flickr.com/photos/99929697@N07/).
-
-## Augsburg von oben
+hier ein paar Beispiele.
 
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9908__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9908__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9906__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9906__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9899__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9899__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9828__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9828__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9803__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9803__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9795__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9795__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9788__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9788__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9780__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9780__l.jpg"}]}

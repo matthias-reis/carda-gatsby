@@ -14,7 +14,7 @@ focusKeyword: Alben
 labels:
   - A Perfect Circle
   - Aaron Dressner
-  - Bands & Reviews
+  - Bands
   - Beirut
   - Bon Iver
   - Bryce Dressner
@@ -31,7 +31,7 @@ labels:
   - Pennywise
   - Platten
   - Plattenkritik
-  - Post Rock
+  - Post-Rock
   - Postrock
   - Spank Rock
   - The Deconstruction

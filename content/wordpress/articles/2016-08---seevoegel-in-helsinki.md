@@ -13,11 +13,11 @@ excerpt: Seevögel zu fotografieren macht in Helsinki besonders großen Spaß. A
 focusKeyword: Seevögel
 labels:
   - Birdwatching
+  - Fernweh
   - Finnland
   - Finnland2016
   - Helsinki
   - Möwen
-  - Reisen
   - Seevögel
   - Skandinavien
   - Vögel

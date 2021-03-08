@@ -12,14 +12,14 @@ excerpt: Es ist soweit! Tool haben für den 30. August nach 13 Jahren ihre neue
 focusKeyword: Tool Album
 labels:
   - abundance
-  - Bands & Reviews
+  - Bands
   - Fear Inoculum
   - Love
   - Maynard James Keenan
   - Tool
   - Tool Band
 type: Artikel
-typeName: Artikel
+typeName: Review
 date: 2019-08-07T16:35:50.000Z
 status: publish
 isWerbung: false

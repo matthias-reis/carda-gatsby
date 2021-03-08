@@ -33,9 +33,12 @@ subTitle: Fernweh und Wind
   
 ---
 
+**Hier sind meine Eindrücke von unserem gestrigen Kiel-Besuch für Euch.
+Natürlich hatte es mir als alter Seefrau besonders der Hafen angetan.**
+
 Als wir dann noch den Schwedenkai besuchten und dort ein Schiff in die Richtung
 ablegte, in die ich gerne so bald wie möglich wieder fahren möchte, war es
-komplett um mich geschehen. Das Wetter war wunderbar wild mit tollem Wind und
+komplett um mich geschehen. Das Wetter war wunderbar wild mit tollem Wind und
 gelegentlichen starken Schauern.
 
 ## Bald gibt es noch mehr aus Kiel
@@ -47,8 +50,9 @@ also stay tuned! &lt;3
 
 "Wind ist erst, wenn die Schafe keine Locken mehr haben" - Unbekannt
 
-## Unser Kiel-Besuch - Wegweiser1. [Ein Besuch in Kiel](/2015/11/ein-besuch-in-kiel/)
+## Unser Kiel-Besuch - Wegweiser
 
+1.  [Ein Besuch in Kiel](/2015/11/ein-besuch-in-kiel/)
 1.  [Die Möwe](/2015/11/die-moewe/)
 1.  [Noch mehr Kiel](/2015/11/noch-mehr-kiel/)
 

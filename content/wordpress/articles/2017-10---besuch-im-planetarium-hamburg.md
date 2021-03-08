@@ -1,8 +1,8 @@
 ---
 title: Besuch im Planetarium Hamburg
 seoTitle: Besuch im Planetarium Hamburg - Reich mir die Sterne!
-slug: "18187"
-path: /2017/10/18187/
+slug: planetarium-hamburg
+path: /2017/10/planetarium-hamburg/
 fileName: 2017-10---besuch-im-planetarium-hamburg.md
 description: Ein Besuch im Planetarium Hamburg lohnt sich. Neben klassischen
   Vorstellungen gibt es dort auch jede Menge moderne 3D-Filme zu sehen.
@@ -45,13 +45,11 @@ besuchen wollte. Erst war es lange Zeit wegen Renovierungsarbeiten geschlossen
 und dann kamen immer wieder andere Dinge dazwischen. Man kennt das ja. Wir haben
 es jetzt endlich mal geschafft.**
 
-<RemoteImage
-  alt="Planetarium"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_37124998024_91afdcef60_k__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_37124998024_91afdcef60_k__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwX/xAAtEAACAgEDAgQDCQAAAAAAAAABAgMEEQAFIRNRBhIxQQcyYRUiI0JicaGxwf/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAwUG/8QAIREAAgICAgEFAAAAAAAAAAAAAQIAEQMhMUEEElFhcZH/2gAMAwEAAhEDEQA/AM08T7rMhiqQRyPBHIFcqCVDYySfqM4B9uT66Rm2y7vFCs9MIIqheJSXZiy+YnGe+SdTP2naswRymxI8yN5pA3Of1Ee/+a0n4U3nn2+xG8pDIzMctjLezDtx/I1r2xE4A7C8dAjdC+Duubu4qu2ocw2LeTaZaFZgKPQ6VeNmOWkQEhm7sQTz24HoNGpHw1astuzW2UIldnmAI5XPHOc5OP60apfPwDAyJ3W/01fzVQgxbcm/DqwS2+nZtCurJgHHznIwmT8ue+qTetvbbrk8VaVk6NwwqAxK+5z9fQamNiiV5/vcqATggeg510923WGxtqVkeyltJ+oXxgfmyQQexGl18nMuMoGPpPXV/UnCjnuUsLvWlEd8Sr+G3RESqFGWJIbPOP20acnKb/SptXHTsRwhGZiMMQBk+ujSRzMxLObJhlPaf//Z" />
+<RemoteImage alt={`Planetarium`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_37124998024_91afdcef60_k__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_37124998024_91afdcef60_k__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwX/xAAtEAACAgEDAgQDCQAAAAAAAAABAgMEEQAFIRNRBhIxQQcyYRUiI0JicaGxwf/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAwUG/8QAIREAAgICAgEFAAAAAAAAAAAAAQIAEQMhMUEEElFhcZH/2gAMAwEAAhEDEQA/AM08T7rMhiqQRyPBHIFcqCVDYySfqM4B9uT66Rm2y7vFCs9MIIqheJSXZiy+YnGe+SdTP2naswRymxI8yN5pA3Of1Ee/+a0n4U3nn2+xG8pDIzMctjLezDtx/I1r2xE4A7C8dAjdC+Duubu4qu2ocw2LeTaZaFZgKPQ6VeNmOWkQEhm7sQTz24HoNGpHw1astuzW2UIldnmAI5XPHOc5OP60apfPwDAyJ3W/01fzVQgxbcm/DqwS2+nZtCurJgHHznIwmT8ue+qTetvbbrk8VaVk6NwwqAxK+5z9fQamNiiV5/vcqATggeg510923WGxtqVkeyltJ+oXxgfmyQQexGl18nMuMoGPpPXV/UnCjnuUsLvWlEd8Sr+G3RESqFGWJIbPOP20acnKb/SptXHTsRwhGZiMMQBk+ujSRzMxLObJhlPaf//Z"
+/>
 
 Die Aussichtsplattform ist zwar nach wie vor im Status "Wegen Umbau
 geschlossen", aber das Sternen-Theater an sich kann jederzeit besucht werden. Es

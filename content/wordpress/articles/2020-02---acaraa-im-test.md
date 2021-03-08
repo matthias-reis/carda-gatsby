@@ -17,6 +17,7 @@ labels:
   - Arganöl
   - Cacayöl
   - Duftkerze vegan
+  - Fair Fashion & Beauty
   - Haarkur
   - Haaröl
   - Haaröl gegen Spliss
@@ -26,12 +27,10 @@ labels:
   - Körperöl
   - Körperöl trockene Haut
   - Mandelöl
-  - Mode & Beauty
   - Naturkosmetik
   - Rapswachskerze
   - vegan beauty
   - vegane Naturkosmetik
-  - Vegane Produkte
 type: Artikel
 typeName: Artikel
 date: 2020-02-08T20:35:55.000Z
@@ -66,7 +65,7 @@ Verschönerungen kräftig zugesetzt und sie können etwas Ruhe gut gebrauchen.
 ## Auszeit für die Haare mit dem Haaröl von Acaraa
 
 Was mir dabei hilft, ist das wunderbare
-[Haaröl von Acaraa](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Fhaare%2Fproducts%2Facaraa-natural-hair-oil).
+[Haaröl von Acaraa](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2Fcollections%2Fhaare%2Fproducts%2Ftravel-repairing-hair-oil).
 Ich gebe einfach ein paar Tropfen davon auf meine Handflächen und verteile es
 morgens und abends vor allem in den Haarspitzen. Das Besondere daran sind die
 wertvollen Inhaltsstoffe. Außerdem fettet es nicht, was meiner derzeitigen
@@ -87,7 +86,7 @@ viele ab. Ich verbuche das für mich schon mal als Erfolg.
 ## Acaraa Haaröl - das ist drin
 
 Das
-[Haaröl von Acaraa](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Fhaare%2Fproducts%2Facaraa-natural-hair-oil)
+[Haaröl von Acaraa](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2Fcollections%2Fhaare%2Fproducts%2Ftravel-repairing-hair-oil)
 ist frei von Silikonen. Argan- und Cacayöl pflegen das Haar, Jojobaöl soll für
 Glanz sorgen und Mandelöl soll Spliss und Haarbruch entgegenwirken. Genau wie
 alle Produkte des Herstellers ist es komplett vegan und natürlich. Was mir
@@ -116,22 +115,22 @@ der Vergangenheit haben mir vor allem Nachtkerzenöl und Arganöl gute Dienste
 geleistet.
 
 Mit dem
-[Hautöl von Acaraa](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Fkoerper%2Fproducts%2Facaraa-natural-body-oil)
+[Hautöl von Acaraa](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2Fcollections%2Fkoerper%2Fproducts%2Ftoning-body-oil)
 klappt es auch ziemlich gut. Schon nach ein paar Anwendungen sahen meine
 Ellbogen schon viel besser aus und das Jucken der wirklich sehr trockenen Haut
 in den Kniekehlen war verschwunden.
 
-[Das Öl](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Fkoerper%2Fproducts%2Facaraa-natural-body-oil)
+[Das Öl](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2Fcollections%2Fkoerper%2Fproducts%2Ftoning-body-oil)
 lässt sich direkt nach dem Duschen auf noch etwas feuchter Haut besonders gut
 verteilen. Es zieht dann schnell ein und hinterlässt keinen klebrigen Film. Es
 duftet genau wie
-[das Haaröl](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Fhaare%2Fproducts%2Facaraa-natural-hair-oil)
+[das Haaröl](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2Fcollections%2Fhaare%2Fproducts%2Ftravel-repairing-hair-oil)
 sehr angenehm und konkurriert nicht mit meinem Parfum.
 
 ## Acaraa Hautöl - das ist drin
 
 Auch im
-[Hautöl](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Fkoerper%2Fproducts%2Facaraa-natural-body-oil)
+[Hautöl](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2Fcollections%2Fkoerper%2Fproducts%2Ftoning-body-oil)
 stecken Cacayöl, Arganöl, Jojobaöl, Mandelöl. Es soll auf natürliche Weise
 Feuchtigkeit spenden und die Haut festigen. Außerdem soll es Vernarbungen,
 Cellulite und Schwangerschaftsstreifen entgegenwirken. Bei Allergien und
@@ -155,18 +154,15 @@ kontrolliert biologischem Anbau</small>
 Nach der Entspannung für die Haut kommt die Entspannung für den Geist. Bei der
 Verwendung der Öle habe ich mir gewünscht, den angenehmen Duft länger genießen
 zu können. Eine Mischung aus frisch und holzig - auf mich wirkt die Note
-entspannend. Auch hier haben die Hersteller mitgedacht und
-[eine Duftkerze](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Falle-produkte%2Fproducts%2Fduftkerze-achtsamkeit)
+entspannend. Auch hier haben die Hersteller mitgedacht und eine Duftkerze
 entwickelt, die den charakteristischen Acaraa Duft vom Bad ins Wohnzimmer holt.
 
-Der Duft der
-[Kerze](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Falle-produkte%2Fproducts%2Fduftkerze-achtsamkeit)
-ist angenehm und kein bisschen aufdringlich, wie das bei Duftkerzen ja gerne mal
-der Fall ist. Wenn sie abgebrannt ist, werde ich mir ziemlich sicher eine neue
-besorgen. Sie verbreitet eine schöne Atmosphäre. Und bei Kerzenlicht liest,
-kuschelt und entspannt es sich ja bekanntlich auch noch schöner. Sie ist
-übrigens [frei von Palmöl](/2015/05/palmoel/). Für die Herstellung wurde
-Rapswachs verwendet.
+Der Duft der Kerze ist angenehm und kein bisschen aufdringlich, wie das bei
+Duftkerzen ja gerne mal der Fall ist. Wenn sie abgebrannt ist, werde ich mir
+ziemlich sicher eine neue besorgen. Sie verbreitet eine schöne Atmosphäre. Und
+bei Kerzenlicht liest, kuschelt und entspannt es sich ja bekanntlich auch noch
+schöner. Sie ist übrigens [frei von Palmöl](/2015/05/palmoel/). Für die
+Herstellung wurde Rapswachs verwendet.
 
 ## Acaraa aus München
 
@@ -176,9 +172,8 @@ Nachhaltigkeit. Unter dem Motto "give yourself a moment" möchten sie ihren
 Kund⋆innen mit hochwertiger Pflege eine Möglichkeit zur Entschleunigung bieten.
 Dafür haben sie sich bewusst für Naturkosmetik entschieden. Um mit den Produkten
 einen möglichst geringen CO² Fußabdruck zu hinterlassen, unterstützen sie unter
-anderem verschiedene Regenwald-Projekte. Für
-[die Initiative "Unser Wald"](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fpages%2Funser-wald)
-von Oro Verde wurden so bereits 3172 Bäume gepflanzt.
+anderem verschiedene Regenwald-Projekte. Für die Initiative "Unser Wald" von Oro
+Verde wurden so bereits 3172 Bäume gepflanzt.
 
 Die Entwicklung und Herstellung der Acaraa Produkte erfolgt direkt vor Ort in
 München. Sie wurden von der Vegan Society ausgezeichnet, sind vegan und frei von
@@ -186,25 +181,14 @@ Silikonen, Parabenen, Mineralölen, synthetischen Konservierungsstoffen, Sulfate
 und Tierversuchen. Bei der Verpackung wird auf unnötiges Plastik verzichtet. So
 wurden meine Öle zum Beispiel in Glasfläschchen geliefert.
 
-Neben Ölen und
-[Kerzen](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Falle-produkte%2Fproducts%2Fduftkerze-achtsamkeit)
-gibt es von Acaraa unter anderem ein
-[Mizellen-Reinigungsgel](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Fgesicht%2Fproducts%2Fmizellen-reinigungsgel),
-ein
-[After Shave Balsam](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Fkoerper%2Fproducts%2Facaraa-natural-aftershave-balm)
-und ein
-[Gesichtsserum](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Fgesicht%2Fproducts%2Fgesichtsserum).
-Wer neugierig geworden ist,
-[schaut am besten direkt auf der Homepage vorbei](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Falle-produkte).
+Neben Ölen und Kerzen gibt es von Acaraa unter anderem ein
+Mizellen-Reinigungsgel, ein After Shave Balsam und ein Gesichtsserum. Wer
+neugierig geworden ist,
+[schaut am besten direkt auf der Homepage vorbei](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2F).
 Dort könnt Ihr die Acaraa Produkte auch käuflich erwerben. Mit dem Rabattcode "
 **cardamonchai10** " erhaltet Ihr sogar 10 Prozent Rabatt auf alles!
 
 <Gallery name="acaraa2" />
-
-Hat Euch mein Acaraa Testbericht gefallen? Das ist schön. Wenn Ihr in Zukunft
-nichts mehr auf meiner Seite verpassen wollt,
-[abonniert am besten meinen Newsletter](#newsletter). Ich informiere Euch dann
-über neue Artikel.
 
 _\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
 meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema

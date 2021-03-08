@@ -12,7 +12,7 @@ excerpt: Am 8. April erscheint das neue FOO FIGHTERS Album "Wasting Light".
   ein paar Wochen präsentierten "White Limo".
 focusKeyword: ""
 labels:
-  - Bands & Reviews
+  - Bands
   - Dave Grohl
   - Foo Fighters
   - neues Album
@@ -33,6 +33,10 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Neues Album von den Foo Fighters
   
 ---
+
+**Am 8. April erscheint das neue FOO FIGHTERS Album "Wasting Light". Schon den
+zweiten "Teaser" gibt die Band nun mit "Rope" heraus, nach dem vor ein paar
+Wochen präsentierten "White Limo".**
 
 Das Video wurde im guten alten analogen VHS-Format aufgenommen. Regie führte
 dabei Dave Grohl persönlich. Wir dürfen gespannt sein auf das neue Album, "White

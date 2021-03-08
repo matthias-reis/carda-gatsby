@@ -15,6 +15,7 @@ labels:
   - AKW
   - alternative Energien
   - Anti-AKW
+  - Antifaschismus & Feminismus
   - Asse
   - Atom
   - Atom-Ausstieg
@@ -65,7 +66,6 @@ labels:
   - Opium für´s Volk
   - Plutonium
   - Plutonium 239
-  - Politik & Soziales
   - Politiker
   - Radioaktivität
   - Reaktor
@@ -108,13 +108,12 @@ subTitle: Opium für's Volk
   
 ---
 
-<RemoteImage
-  alt="Foto: Gerd Altmann, pixelio.de"
-  size="medium"
-  title="[ ](/wp-content/uploads/2011/05/505947_r_k_b_by_gerd-altmann_pixelio-de.jpg)  Foto: Gerd Altmann, pixelio.de"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_05_505947_r_k_b_by_gerd-altmann_pixelio-de__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_05_505947_r_k_b_by_gerd-altmann_pixelio-de__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAtEAACAgAEBQIEBwAAAAAAAAABAgMEAAUGERITITFRFCIHFXGBIzJBUmGRsf/EABgBAQADAQAAAAAAAAAAAAAAAAUAAgME/8QAIxEAAQIHAAEFAAAAAAAAAAAAAQACAwQFERIhMRMiQWFxgf/aAAwDAQACEQMRAD8AgdfK5jwtCPb4UdcUzROkJrleCWRZIoLaSPUlkYbT8ohZdgO2xPT9wBI7Y5eVQ5a1mnXsWo8vgsTBJLM54VhQDdm388IIUfqxGKDRvUHtjLKmspko5D+Lk885TkWndT7GK7kpH+TsNlZx2wJErsWXcwMabddon081YHd7fl/td0zIw2uAO0vz6C9XYeIFZG8AYRdW6N+XO6cHCw8nF009rBY8xizClTkYTIJAhj6ruOoO/jqN/vhF+JubjMbM0ksLxM25IK7bYjapMOmsTxPOpkAS2m6t35U/gu2apRUVmftsCFB+h6nDnp7XOZ0bvy1qg57oBFzrJG3cn3IO32wYMXiHF2IHsShosR42CtVLXLVJnselaeyW6iJt1H8HiK7/ANYWdY6rpZq5n5F+Fn3Co8cWx+pVj/mDBhJtOgZ+S21ianMY4kr/2Q==" />
+<RemoteImage alt={`Foto: Gerd Altmann, pixelio.de`} size="medium"
+title={`[ ](/wp-content/uploads/2011/05/505947_r_k_b_by_gerd-altmann_pixelio-de.jpg) Foto: Gerd Altmann, pixelio.de`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_05_505947_r_k_b_by_gerd-altmann_pixelio-de__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_05_505947_r_k_b_by_gerd-altmann_pixelio-de__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAtEAACAgAEBQIEBwAAAAAAAAABAgMEAAUGERITITFRFCIHFXGBIzJBUmGRsf/EABgBAQADAQAAAAAAAAAAAAAAAAUAAgME/8QAIxEAAQIHAAEFAAAAAAAAAAAAAQACAwQFERIhMRMiQWFxgf/aAAwDAQACEQMRAD8AgdfK5jwtCPb4UdcUzROkJrleCWRZIoLaSPUlkYbT8ohZdgO2xPT9wBI7Y5eVQ5a1mnXsWo8vgsTBJLM54VhQDdm388IIUfqxGKDRvUHtjLKmspko5D+Lk885TkWndT7GK7kpH+TsNlZx2wJErsWXcwMabddon081YHd7fl/td0zIw2uAO0vz6C9XYeIFZG8AYRdW6N+XO6cHCw8nF009rBY8xizClTkYTIJAhj6ruOoO/jqN/vhF+JubjMbM0ksLxM25IK7bYjapMOmsTxPOpkAS2m6t35U/gu2apRUVmftsCFB+h6nDnp7XOZ0bvy1qg57oBFzrJG3cn3IO32wYMXiHF2IHsShosR42CtVLXLVJnselaeyW6iJt1H8HiK7/ANYWdY6rpZq5n5F+Fn3Co8cWx+pVj/mDBhJtOgZ+S21ianMY4kr/2Q=="
+/>
 
 ## **"Frankfurt ist abgestiegen, Augsburg spielt in der ersten Bundesliga, Lena singt beim Grand Prix!"**
 
@@ -146,7 +145,7 @@ war nur in Reaktor 1 offiziell von einer Kernschmelze die Rede.
 
 Berichten zur Folge ist die Radioaktivität in einem großen Radius rund um das
 Kraftwerk so hoch, dass sie von keinem Messgerät mehr erfasst werden kann. Die
-Betreiberfirma Tepco gibt inzwischen zu, dass sich der größte Teil der
+Betreiberfirma Tepco gibt inzwischen zu, dass sich der größte Teil der 
 Brennstäbe in den Reaktoren 2 und 3 bereits 60 bis 100 Stunden nach dem Erdbeben
 verflüssigt haben muss. Der Sprecher des Kraftwerkes meldet mal wieder
 Stabilität, Glauben sollte man seiner Aussage wohl besser nicht schenken.

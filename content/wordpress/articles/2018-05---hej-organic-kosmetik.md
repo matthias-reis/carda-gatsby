@@ -15,6 +15,7 @@ labels:
   - Arganöl
   - Body Splash
   - Creme
+  - Fair Fashion & Beauty
   - Gesichtsmasken
   - Gesichtspflege
   - Ghassoul
@@ -27,7 +28,6 @@ labels:
   - Kaktus
   - Kaktusfeige
   - Lavaerde
-  - Mode & Beauty
   - Taurin
   - Toner
   - Tonerde
@@ -35,7 +35,6 @@ labels:
   - vegan
   - vegan beauty
   - vegane Pflege
-  - Vegane Produkte
 type: Artikel
 typeName: Produkttest
 date: 2018-05-28T07:24:53.000Z
@@ -64,13 +63,11 @@ sollen eine wertvolle Kombination essentieller Fettsäuren liefern, 85 Prozent
 davon ungesättigt. Der Kaktus liefert von Natur aus Taurin, welches die
 Zellregeneration schützt und somit der Hautalterung vorbeugt.
 
-<RemoteImage
-  alt="Hej Organic"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_28366155898_85332d094b_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_28366155898_85332d094b_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgDBAUG/8QAKBAAAgEEAQQCAQUBAAAAAAAAAQIDBAUGEQAHEiFREzEiFDJCYYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgABA//EABwRAQADAQEAAwAAAAAAAAAAAAEAAhESAwQhMf/aAAwDAQACEQMRAD8AW2KHuA5OKdfHjjS2DEcQhwqOtseLW+5VVVSpU08dcvzMXkRdbd9kKu/r+j75Uv2M4vf8eFujx22Y7dXO4Z4IFaUeTGCezW9kHwSBvXE/KpW3Kfkyv25F3tOMXa8o72i1VlakbdrtBEWCnW9E/QOvPLNT0/yeFS0lkqUAG/yZAf8AndxjekOL0eHWy/ymqTIFqzTmCIR/AiuEZh3Esf3B0/weN81rNNR1tHdal7U9I1JRtUVE5jIWRwjMqfkB2/zPbr6Ke/E+jY6rmQ2bVcirWrqHlFsoKeiorvJDTQRiKNVijOlH0Nld82rX1dyeiU/JPTVjmQyfLUxEvsnetqV8b8j1w4cD50XUnSry6TssY68tRrPHeLRtZXST5KCbt0VUqAyP4Ya1od2hoehrbqurOP12H5FFSVv6OsraaqJpp4XV5HaEoumG1LFj7+gPXDhy4AwgudOs/9k=" />
+<RemoteImage alt={`Hej Organic`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_28366155898_85332d094b_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_28366155898_85332d094b_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgDBAUG/8QAKBAAAgEEAQQCAQUBAAAAAAAAAQIDBAUGEQAHEiFREzEiFDJCYYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgABA//EABwRAQADAQEAAwAAAAAAAAAAAAEAAhESAwQhMf/aAAwDAQACEQMRAD8AW2KHuA5OKdfHjjS2DEcQhwqOtseLW+5VVVSpU08dcvzMXkRdbd9kKu/r+j75Uv2M4vf8eFujx22Y7dXO4Z4IFaUeTGCezW9kHwSBvXE/KpW3Kfkyv25F3tOMXa8o72i1VlakbdrtBEWCnW9E/QOvPLNT0/yeFS0lkqUAG/yZAf8AndxjekOL0eHWy/ymqTIFqzTmCIR/AiuEZh3Esf3B0/weN81rNNR1tHdal7U9I1JRtUVE5jIWRwjMqfkB2/zPbr6Ke/E+jY6rmQ2bVcirWrqHlFsoKeiorvJDTQRiKNVijOlH0Nld82rX1dyeiU/JPTVjmQyfLUxEvsnetqV8b8j1w4cD50XUnSry6TssY68tRrPHeLRtZXST5KCbt0VUqAyP4Ya1od2hoehrbqurOP12H5FFSVv6OsraaqJpp4XV5HaEoumG1LFj7+gPXDhy4AwgudOs/9k="
+/>
 
 Für alle Hej Produkte wird garantiert, dass sie zu 100 Prozent vegan und
 natürlich sind, frei von PEG, SLS, Parabenen, Paraffinen, Silikonen, Mineralöl,
@@ -106,13 +103,11 @@ entspannt sich.
 
 ## Hej Organic - Die Haut entspannt sich
 
-<RemoteImage
-  alt="Hej Organic"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41517648754_74eb8cf8a2_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41517648754_74eb8cf8a2_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQYI/8QAKRAAAQMDBAIBAwUAAAAAAAAAAQIDBAAFEQYSITEHExQiUWEjQZGx0v/EABYBAQEBAAAAAAAAAAAAAAAAAAIEA//EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMSExEhFEGB/9oADAMBAAIRAxEAPwDm1lndimBZvFt8uttizoz9pS1JYTJQlyXtWEK6Kk7TjqqjTmmUzLY3NnSXWkrAUlDSQSlJJCSokHk46+3JNOXQ9zKH7FYo8hEL4tvdZky3ozZWsoUktgEkgDClcZ7FV2WiteRJgV7LeovF+HtQA4MuyA8HHzFf4ql1B41u9lgSpcqVa1Nx2y6tDT6lKwPsCgU92HL2/Y7I8u5Rm58p0JmNGC3+gghRJ253DGEjJ4yay3k1+U1ZNZMvvh+E2yymK76kJ37sFf1J4VgkD8YNTeSWjrdGbEAj5FJp/WLdttjLJ9vtbAG1ROw4GB1+P6qLet3kXX5jcUYSrclO/aM9nPB7NFFInLoxqoQ5CahPl6QkHNmjk4xkyVZ/nbVFqryCu9WiRBRBLCH04UfcCAdwPACRnr9zRRQ1qJpsYz//2Q==" />
+<RemoteImage alt={`Hej Organic`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41517648754_74eb8cf8a2_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41517648754_74eb8cf8a2_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQYI/8QAKRAAAQMDBAIBAwUAAAAAAAAAAQIDBAAFEQYSITEHExQiUWEjQZGx0v/EABYBAQEBAAAAAAAAAAAAAAAAAAIEA//EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMSExEhFEGB/9oADAMBAAIRAxEAPwDm1lndimBZvFt8uttizoz9pS1JYTJQlyXtWEK6Kk7TjqqjTmmUzLY3NnSXWkrAUlDSQSlJJCSokHk46+3JNOXQ9zKH7FYo8hEL4tvdZky3ozZWsoUktgEkgDClcZ7FV2WiteRJgV7LeovF+HtQA4MuyA8HHzFf4ql1B41u9lgSpcqVa1Nx2y6tDT6lKwPsCgU92HL2/Y7I8u5Rm58p0JmNGC3+gghRJ253DGEjJ4yay3k1+U1ZNZMvvh+E2yymK76kJ37sFf1J4VgkD8YNTeSWjrdGbEAj5FJp/WLdttjLJ9vtbAG1ROw4GB1+P6qLet3kXX5jcUYSrclO/aM9nPB7NFFInLoxqoQ5CahPl6QkHNmjk4xkyVZ/nbVFqryCu9WiRBRBLCH04UfcCAdwPACRnr9zRRQ1qJpsYz//2Q=="
+/>
 
 Die Maske bleibt 10-15 Minuten auf dem Gesicht, bevor sie mit lauwarmem Wasser
 abgespült wird: Das Ergebnis: Kleine Rötungen sind zurückgegangen. Das Gesicht
@@ -142,13 +137,11 @@ müden Beine auf. Es wird mich aber auf jeden Fall auch auf unserer nächsten
 Reise begleiten. Genau wie die anderen Produkte, die sich in dem liebevoll in
 einem Jutetäschchen verpackten Travelbag befinden.
 
-<RemoteImage
-  alt="Hej Organic"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_40431695480_0742f4f1e0_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_40431695480_0742f4f1e0_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIAwb/xAAtEAABAwIFAgQGAwAAAAAAAAABAgMEBREABgcSIRMUFTEyQQgiI0JhcVGBo//EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EAB4RAAIBAwUAAAAAAAAAAAAAAAABAhIhIgMRMUFx/9oADAMBAAIRAxEAPwCaGm784Z+nmlC845d8WTVu0QJDjHTEXqm6Ak39Yvfd/GFpF3vLDbDTjrh8ktpKif6GKu+HqqyqNow+5CjsqnOVOSlruVFCELIQkbvf1WuOP2MPUbpxdy8F2NBlvTTDj5gWqQBcpVS1Cw3BPJ6nHJGE1V4PYVGZE6iXe3fcZ6iQQFbVFNwDyL2xYulj2YpVfjU2txErTHCpEiQ8z0nXbLUAsgm5C3FKWOPs9rm0jZq+nmetNqPonSB/qrAg5N5PcjfT7NYyvNkuOMlaJCUoUpIBKQPx7j8Yfem2q+VouS0RKjWfCJSqg7KdY7dxRcBtt3FLakkHzIFjdI5wYMY4p3E5Nxp6OhpGreR26zLmCvxYTqg2lTqYr317LSePkPyhKVDkfd+8SjnObHnZvrsuA51IcifIdZXYjchTiik2PI4I88GDFGNPAT//2Q==" />
+<RemoteImage alt={`Hej Organic`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_40431695480_0742f4f1e0_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_40431695480_0742f4f1e0_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIAwb/xAAtEAABAwIFAgQGAwAAAAAAAAABAgMEBREABgcSIRMUFTEyQQgiI0JhcVGBo//EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EAB4RAAIBAwUAAAAAAAAAAAAAAAABAhIhIgMRMUFx/9oADAMBAAIRAxEAPwCaGm784Z+nmlC845d8WTVu0QJDjHTEXqm6Ak39Yvfd/GFpF3vLDbDTjrh8ktpKif6GKu+HqqyqNow+5CjsqnOVOSlruVFCELIQkbvf1WuOP2MPUbpxdy8F2NBlvTTDj5gWqQBcpVS1Cw3BPJ6nHJGE1V4PYVGZE6iXe3fcZ6iQQFbVFNwDyL2xYulj2YpVfjU2txErTHCpEiQ8z0nXbLUAsgm5C3FKWOPs9rm0jZq+nmetNqPonSB/qrAg5N5PcjfT7NYyvNkuOMlaJCUoUpIBKQPx7j8Yfem2q+VouS0RKjWfCJSqg7KdY7dxRcBtt3FLakkHzIFjdI5wYMY4p3E5Nxp6OhpGreR26zLmCvxYTqg2lTqYr317LSePkPyhKVDkfd+8SjnObHnZvrsuA51IcifIdZXYjchTiik2PI4I88GDFGNPAT//2Q=="
+/>
 
 Neben den Produkten findet man darin übrigens auch noch einen von diesen
 durchsichtigen Beuteln, die fürs Flugzeug vorgeschrieben sind, sowie einen

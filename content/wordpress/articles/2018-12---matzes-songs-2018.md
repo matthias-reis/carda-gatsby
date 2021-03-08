@@ -10,20 +10,21 @@ excerpt: Musikalisch hatte es 2018 definitiv in sich. Insgesamt hat Matze 30
   Songs zusammengestellt. Seine Songs 2018 könnt Ihr hier direkt anhören.
 focusKeyword: songs 2018
 labels:
-  - Bands & Reviews
+  - Bands
   - Jack White
   - Lunatic Soul
   - Mogwai
   - Nils Frahm
   - Paul Kalkbrenner
-  - Post Rock
+  - Post-Rock
   - Postrock
   - Recondite
+  - Songs des Jahres
   - TesseracT
   - The Ocean
   - This Will Destroy You
 type: Artikel
-typeName: Rezension
+typeName: Artikel
 date: 2018-12-31T14:49:58.000Z
 status: publish
 isWerbung: false

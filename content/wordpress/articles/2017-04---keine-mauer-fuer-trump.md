@@ -13,10 +13,10 @@ excerpt: '"Herr Bauer ist mein neuer Held", schrieb mir mein Bruder vor ein paar
   hat.'
 focusKeyword: Mauer
 labels:
+  - Antifaschismus & Feminismus
   - Bauer Schrobenhausen
   - Herr Bauer
   - Mauerbau
-  - Politik & Soziales
   - refugeeswelcome
   - Wir wollen keine Mauer
 type: Artikel

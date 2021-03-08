@@ -12,9 +12,10 @@ focusKeyword: Körnerkissen
 labels:
   - Dinkelkissen
   - diy
-  - DIY
   - Entspannung
   - Entspannungskissen
+  - Ernährung & Gesundheit
+  - Fair Fashion & Beauty
   - Getreidekissen
   - Haferkissen
   - Hausmittel
@@ -55,13 +56,17 @@ subTitle: Nähanleitung
   
 ---
 
-<RemoteImage
-  alt="Meine neuen Körnerkissen"
-  size="medium"
-  title="Meine neuen Körnerkissen"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-44__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-44__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgMF/8QAKRAAAgEDAwQBAwUAAAAAAAAAAQIDBBEhAAUSBhMxQQcUI2EyUYGRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABwRAAICAwEBAAAAAAAAAAAAAAABAiERMfChwf/aAAwDAQACEQMRAD8AQ+mNjqK+rSmpqcu7EKsa3JbFz/H59arNB8b0dMyNuTiWBVLVXD7UcRti7E3Nz7uNL3xDUCTfKqOAkMaVyJeIvFYg8l9nJzj0NM1FX0PUH1O0S1ElNURS81qGXvRTSJJjFyGW5J8Wz4xoc8PAqOq959ZhvXQu31u2CbYYIllZmVGWrR4r+lPn/bi486j2/wCzujMkkckUqObo4sCvg29WuMauiT7D0x00tQ880s1SAZI0cHuTMLs3HAA8Z8C2ANJXyzV0JSnKTk1yhX7aAMvBwSxYj3+k285vpimtszKTcqVd9JbtVbNAidtipKm5BINjgj+tM2z9R7jtUv1G3VElNMYzGWjIyt72yPwNGjSaRorN2qTOJi797mGEnM8lYsLkfsc64dTUyTPdzflyY3zfAGjRqLCSo//Z" />
+**Mein geliebtes Körnerkissen hat vor Kurzem das Zeitliche gesegnet, also war es
+an der Zeit, ein neues zu nähen. Wie ich das gemacht habe, habe ich Schritt für
+Schritt festgehalten, sicher ist auch unter Euch der/die ein oder andere,
+der/die ab und zu mit Verspannungen oder Bauchweh zu kämpfen hat.**
+
+<RemoteImage alt={`Meine neuen Körnerkissen`} size="medium"
+title={`Meine neuen Körnerkissen`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-44__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-44__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgMF/8QAKRAAAgEDAwQBAwUAAAAAAAAAAQIDBBEhAAUSBhMxQQcUI2EyUYGRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABwRAAICAwEBAAAAAAAAAAAAAAABAiERMfChwf/aAAwDAQACEQMRAD8AQ+mNjqK+rSmpqcu7EKsa3JbFz/H59arNB8b0dMyNuTiWBVLVXD7UcRti7E3Nz7uNL3xDUCTfKqOAkMaVyJeIvFYg8l9nJzj0NM1FX0PUH1O0S1ElNURS81qGXvRTSJJjFyGW5J8Wz4xoc8PAqOq959ZhvXQu31u2CbYYIllZmVGWrR4r+lPn/bi486j2/wCzujMkkckUqObo4sCvg29WuMauiT7D0x00tQ880s1SAZI0cHuTMLs3HAA8Z8C2ANJXyzV0JSnKTk1yhX7aAMvBwSxYj3+k285vpimtszKTcqVd9JbtVbNAidtipKm5BINjgj+tM2z9R7jtUv1G3VElNMYzGWjIyt72yPwNGjSaRorN2qTOJi797mGEnM8lYsLkfsc64dTUyTPdzflyY3zfAGjRqLCSo//Z"
+/>
 
 Da kann ein angewärmtes Körnerkissen oft Wunder wirken und mein Hausmittelchen
 möchte ich Euch natürlich nicht vorenthalten. Natürlich müsst Ihr das Kissen
@@ -71,10 +76,11 @@ tun möchtet, könnt Ihr zusätzlich zu den Körnern auch noch ein paar getrockn
 Lavendelblüten mit in die Füllung geben, die wirken beruhigend, schlaffördernd
 und riechen einfach unglaublich gut.
 
-## Ihr braucht- Nähmaschine
+## Ihr braucht
 
+- Nähmaschine
 - Garn
-- Stoff in ausreichender Menge für die von Euch gewünschte Kissengröße (nehmt am
+- Stoff in ausreichender Menge für die von Euch gewünschte Kissengröße (nehmt am
   besten naturbelassene Baumwolle oder einen frisch gewaschenen, unbedruckten
   Jutebeutel)
 - Stoff für den Kissenbezug (Auch hier: Am besten Baumwolle, sucht Euch ein
@@ -86,22 +92,22 @@ und riechen einfach unglaublich gut.
 - Stecknadeln
 - Schnittbogen, Zeitungspapier oder Zeichenpapier
 - Schneiderkreide oder Bleistift
-- Schere## Los gehts
+- Schere
 
-<RemoteImage
-  alt="Das braucht Ihr"
-  size="medium"
-  title="Das braucht Ihr"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-11__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-11__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAApEAABAwIFBAICAwAAAAAAAAABAgMEBREABhIhMQcTFEEikRVhIzJR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMFAf/EACQRAAICAQMCBwAAAAAAAAAAAAECAAMRBAUhEsEjMVFhcfDx/9oADAMBAAIRAxEAPwB5zR1apWUKy9RWKNImvRQlCi06httJt/XgnbjjGOP1Ur9XhNyKNlUKLi1DS209ILdjsVFIA335txiMfkqRJkvzJqmn3nnC84pSL35JNyo3+ucNNXSacmHTqZ3A0lhDjzMUulIcWlKlBSWUJFxe25Btb94l+Gi47fTKVNV+ofprXn3P7HybmXqA5T5j0xMej6Q32nH0MobRdwJUVj5rAsebbe8dvpdmRNdpEuDU5pl1iC88FvqZW2h5vX8FpJAuLKA/YAxJKRHnectKIcxCpDDjGtMVYXdSDYgrdubEAjb1xjT0jzVGo9aD0WrVKeKiW4rqJjaR2tCtKnQQd9ina1ud/WAYo6kjnHz3j7dPbpnVLRhjyMeUkvUJfj5qkxaekQYbTCEtx45IQgWN7XJO5ueeTii51c8F+Af5X/IiGQoOPugBan3NVglQABte3+k4MGHMAakJ9Ie3syaluk4nPy+WZ/bfdiRgUKSSnRqCvkOdVz9EYU6jnKuuSZ9NVOX4Ts52OtobApO3r3YD6wYMMpA5mbo7PYpY5M//2Q==" />
+## Los gehts
+
+<RemoteImage alt={`Das braucht Ihr`} size="medium" title={`Das braucht Ihr`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-11__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-11__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAApEAABAwIFBAICAwAAAAAAAAABAgMEBREABhIhMQcTFEEikRVhIzJR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMFAf/EACQRAAICAQMCBwAAAAAAAAAAAAECAAMRBAUhEsEjMVFhcfDx/9oADAMBAAIRAxEAPwB5zR1apWUKy9RWKNImvRQlCi06httJt/XgnbjjGOP1Ur9XhNyKNlUKLi1DS209ILdjsVFIA335txiMfkqRJkvzJqmn3nnC84pSL35JNyo3+ucNNXSacmHTqZ3A0lhDjzMUulIcWlKlBSWUJFxe25Btb94l+Gi47fTKVNV+ofprXn3P7HybmXqA5T5j0xMej6Q32nH0MobRdwJUVj5rAsebbe8dvpdmRNdpEuDU5pl1iC88FvqZW2h5vX8FpJAuLKA/YAxJKRHnectKIcxCpDDjGtMVYXdSDYgrdubEAjb1xjT0jzVGo9aD0WrVKeKiW4rqJjaR2tCtKnQQd9ina1ud/WAYo6kjnHz3j7dPbpnVLRhjyMeUkvUJfj5qkxaekQYbTCEtx45IQgWN7XJO5ueeTii51c8F+Af5X/IiGQoOPugBan3NVglQABte3+k4MGHMAakJ9Ie3syaluk4nPy+WZ/bfdiRgUKSSnRqCvkOdVz9EYU6jnKuuSZ9NVOX4Ts52OtobApO3r3YD6wYMMpA5mbo7PYpY5M//2Q=="
+/>
 
 Als erstes müsst Ihr Euch überlegen, welche Form Euer Kissen später haben soll.
 Zeichnet die Form auf Euer vorbereitetes Papier. Ich habe einfach mal freihand
 ein Kissen aufgezeichnet, das man später durch seine praktische Form gut um den
 Nacken legen kann, da ich häufig an
 [Verspannungen](/2014/11/auf-dem-weg-zur-tiefenentspannung/) in den Schultern
-und im Nackenbereich leide. Auf den Bildern könnt Ihr es sehen, Ihr könnt die
+und im Nackenbereich leide. Auf den Bildern könnt Ihr es sehen, Ihr könnt die
 Form gerne übernehmen. Die Maße findet Ihr ganz unten auf dem großen Foto, das
 könnt Ihr durch Anklicken auch nochmal ein Bisschen vergrößern.
 
@@ -114,7 +120,7 @@ Schafe, Eurer Kreativität sind keine Grenzen gesetzt.
 Schneidet Euer Papierkissen aus und steckt es auf dem doppelt gelegten
 Baumwollstoff fest. Am besten legt Ihr es an einer Seite an die Faltkante des
 Stoffes, dann müsst Ihr diese Seite schon mal nicht zunähen. Im Anschluss
-schneidet Ihr den Stoff im Abstand von ca. 1 Zentimeter zum Papier aus. Der
+schneidet Ihr den Stoff im Abstand von ca. 1 Zentimeter  zum Papier aus. Der
 Zentimeter ist Eure Nahtzugabe.
 
 <Gallery
@@ -150,7 +156,7 @@ Für die Kissenhülle legt Ihr den von Euch gewählten Stoff mit den bedruckten
 Seiten sauber aufeinander. Wenn Ihr wie ich ein Muster mit süßen, kleinen
 Tierchen gewählt habt, achtet darauf, das die Köpfchen und Füßchen alle in die
 richtige Richtung zeigen. ;-) Legt das Innenkissen auf die beiden Stofflagen und
-zeichnet mit dem Bleistift ca. 0,5 cm vom Rand entfernt eine Linie auf den
+zeichnet mit dem Bleistift ca. 0,5 cm vom Rand entfernt eine Linie auf den
 Stoff. Den Abstand bitte unbedingt einhalten, denn das Kissen soll ja nachher
 auch gut Platz im Bezug haben. Zeichnet eine Stelle ein, durch die Ihr das
 Kissen später umdreht. Dort werden später auch die Knöpfe oder der
@@ -164,7 +170,7 @@ Steckt die beiden Stoffstücke aufeinander und schneidet mit der Schere 1 cm
 außerhalb Eurer Linie (Nahtzugabe). Wenn Ihr damit fertig seid, näht Ihr den
 Bezug mit dem gleichen Stich wie beim Innenkissen. Vorsicht! Vergesst nicht,
 dass die Öffnung frei bleiben muss und achtet auf jeden Fall drauf, die Enden
-auch hier wieder gut zu verriegeln. Im Anschluss vernäht Ihr noch mit einem
+auch hier wieder gut zu verriegeln. Im Anschluss vernäht Ihr noch mit einem
 mittelgroßen Zick-Zack-Stich die Außenkanten.
 
 <Gallery
@@ -172,11 +178,11 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_0
 />
 
 Dreht das Kissen auf rechts und bügelt die Kanten an der Öffnung feinsäuberlich
-nach innen, so dass sich ein schöner Saum ergibt. Den Saum näht Ihr nun im
+nach innen, so dass sich ein schöner Saum ergibt. Den Saum näht Ihr nun im
 Steppstich füßchenbreit fest. Dann könnt Ihr auch schon den Verschluss
 anbringen, ich habe mich für diese kleinen Druckknöpfe entschieden, die auch
 häufig für Bettwäsche verwendet werden, natürlich könnt Ihr auch einen
-Reißverschluss nehmen, wenn Euch das sympathischer ist. Zum Schluss stülpt Ihr
+Reißverschluss nehmen, wenn Euch das sympathischer ist. Zum Schluss stülpt Ihr
 noch den Bezug über das Kissen.
 
 Ich wünsche Euch viel Spaß beim Nähen!
@@ -185,27 +191,26 @@ Ich wünsche Euch viel Spaß beim Nähen!
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-47__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-47__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-50__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-50__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-51__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-51__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-52__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-52__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_21325438400_091c858e75_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_21325438400_091c858e75_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-42__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-42__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-44__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-44__l.jpg"}]}
 />
 
-**Hinweise** - Das Kissen kann in der Mikrowelle bei 600 Watt 2 Minuten lang
-erhitzt werden. Wenn es nicht warm genug ist, könnt Ihr noch mal eine Minute
-drauflegen.
+**Hinweise**
 
+- Das Kissen kann in der Mikrowelle bei 600 Watt 2 Minuten lang erhitzt werden.
+  Wenn es nicht warm genug ist, könnt Ihr noch mal eine Minute drauflegen.
 - bleibt während das Kissen erwärmt wird neben der Mikrowelle stehen und
   kontrolliert zwischendurch die Wärme!&gt;
 - Bitte nehmt auf jeden Fall vor dem Erwärmen den Kissenbezug ab!
 - Das erwärmte Kissen bitte nur mit der aufgezogenen Außenhülle anwenden!
 - Das erhitzte Kissen nicht auf nackte Haut legen!
 - Keimbildung vermeidet Ihr, indem Ihr das Kissen trocken lagert!
-- Das Kissen kann ca. 1 Jahr lang verwendet werden, danach verliert es nach und
+- Das Kissen kann ca. 1 Jahr lang verwendet werden, danach verliert es nach und
   nach seine Wirkung.
 - Das Kissen bitte nicht auf Haustiere legen!
 - Den Kisseninhalt bitte nicht mehr zur Zubereitung von Speisen verwenden!
 
-<RemoteImage
-  alt="Die Maße"
-  size="medium"
-  title="[ ](/wp-content/uploads/2015/09/Körnerkissen-8.jpg)  Die Maße"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-8__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-8__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAUGBwgBAwT/xAApEAABAwMCBgICAwAAAAAAAAABAgMEBQYRACEHEjFBUWETIhSBMlJx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQDBQb/xAAdEQEAAgIDAQEAAAAAAAAAAAABAAIDMQQSIRMi/9oADAMBAAIRAxEAPwBocOOHkm6Sl1Thh05r6qkBOVKX/VA747k7DPc6sDQOHtApEFPJTo0iUlGFSJDYcWo+d8gfoDSdYc+lx7YjOw3G0UyPH5wsHIShIySffXPvOt1Euqo3tDmsW861RHo4CgqUgPOPJOcFIGyB5OFEZGs92F9l9csH51MXjZ1jkhubHjQJrqeZswz8SyM4yAPqRnyNQbcNt0qjtVP8tM2chaVNwpLCVMpbdST/ADCh9gfQxtt12niq3lVLREGHU3Wa5IW38jzjbZjuNJ2GNsgk7kZCTtv11zcXK7Sk2M65KAmNVFoCK3nBWojmSvPbl65/XfUg0V67INfoB20yp9vXpU4dHqFLbUDDmN8jiCTtuCSnwTjB04LcrkyNJalQ3XI0hByhxpZSpJ/3Ro0zycVT0IPGyWttiw/V5DgWt1S3HVnnWtThKlKPUk99INdq8uVHZbfeccbjNlplKlbNpyTgesk6NGlcVQfIxlspP//Z" />
+<RemoteImage alt={`Die Maße`} size="medium"
+title={`[ ](/wp-content/uploads/2015/09/Körnerkissen-8.jpg) Die Maße`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-8__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-8__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAUGBwgBAwT/xAApEAABAwMCBgICAwAAAAAAAAABAgMEBQYRACEHEjFBUWETIhSBMlJx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQDBQb/xAAdEQEAAgIDAQEAAAAAAAAAAAABAAIDMQQSIRMi/9oADAMBAAIRAxEAPwBocOOHkm6Sl1Thh05r6qkBOVKX/VA747k7DPc6sDQOHtApEFPJTo0iUlGFSJDYcWo+d8gfoDSdYc+lx7YjOw3G0UyPH5wsHIShIySffXPvOt1Euqo3tDmsW861RHo4CgqUgPOPJOcFIGyB5OFEZGs92F9l9csH51MXjZ1jkhubHjQJrqeZswz8SyM4yAPqRnyNQbcNt0qjtVP8tM2chaVNwpLCVMpbdST/ADCh9gfQxtt12niq3lVLREGHU3Wa5IW38jzjbZjuNJ2GNsgk7kZCTtv11zcXK7Sk2M65KAmNVFoCK3nBWojmSvPbl65/XfUg0V67INfoB20yp9vXpU4dHqFLbUDDmN8jiCTtuCSnwTjB04LcrkyNJalQ3XI0hByhxpZSpJ/3Ro0zycVT0IPGyWttiw/V5DgWt1S3HVnnWtThKlKPUk99INdq8uVHZbfeccbjNlplKlbNpyTgesk6NGlcVQfIxlspP//Z"
+/>
 
   

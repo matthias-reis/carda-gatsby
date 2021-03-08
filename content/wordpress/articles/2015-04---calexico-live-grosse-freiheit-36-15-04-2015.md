@@ -33,23 +33,22 @@ subTitle: Bildergalerie
   
 ---
 
-<RemoteImage
-  alt="Joey"
-  size="medium"
-  title="Joey"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_16959318267_fe6f1b6bd0_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_16959318267_fe6f1b6bd0_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACcQAAIBAwQBBAIDAAAAAAAAAAECAwAEEQUSITEGBxNBYSIyQnGB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMAAQT/xAAcEQACAgMBAQAAAAAAAAAAAAABAgADERIhQfD/2gAMAwEAAhEDEQA/AJf476dyX9hcXUjmFI0Zt32FJ66pltPFbBNPjDyLNNJAk+0xgbVI4yQMVSbSey0zxO5kkKm3AuTIxXgKHkGD/gxUD8W8juraKO1uJJntUhW3h/PaYMsDwf7PRzT2bODDRQMgw1/QkgaUBdsbHO34zikDULYQyEr191StYu0nlSTUElFqGPuTxKW2A8DjIGc44qf6tICX2hdv8WK4JqWa+SteZj9q/qKt9YwWcTXCI0ss0pkAH7O7BeD0N1YNv5DJeKbOTbM4jQptYBcqOWO7tsZ6oorO9a2WBmHwjVudU0B5M/Wr2QIsN17qqyboyHDD5++sml+WdpF5JCkj8c/FFFGw7FEz/9k=" />
+<RemoteImage alt={`Joey`} size="medium" title={`Joey`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_16959318267_fe6f1b6bd0_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_16959318267_fe6f1b6bd0_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACcQAAIBAwQBBAIDAAAAAAAAAAECAwAEEQUSITEGBxNBYSIyQnGB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMAAQT/xAAcEQACAgMBAQAAAAAAAAAAAAABAgADERIhQfD/2gAMAwEAAhEDEQA/AJf476dyX9hcXUjmFI0Zt32FJ66pltPFbBNPjDyLNNJAk+0xgbVI4yQMVSbSey0zxO5kkKm3AuTIxXgKHkGD/gxUD8W8juraKO1uJJntUhW3h/PaYMsDwf7PRzT2bODDRQMgw1/QkgaUBdsbHO34zikDULYQyEr191StYu0nlSTUElFqGPuTxKW2A8DjIGc44qf6tICX2hdv8WK4JqWa+SteZj9q/qKt9YwWcTXCI0ss0pkAH7O7BeD0N1YNv5DJeKbOTbM4jQptYBcqOWO7tsZ6oorO9a2WBmHwjVudU0B5M/Wr2QIsN17qqyboyHDD5++sml+WdpF5JCkj8c/FFFGw7FEz/9k="
+/>
 
 **Hier sind meine Eindrücke vom gestrigen Calexico-Konzert in der Großen
 Freiheit in Hamburg.**
 
 Die Stimmung war großartig, zwei Mal wurde die Band zu Zugaben auf die Bühne
-zurückgerufen. Klasse, dass es mit den Karten noch geklappt hat, wir hatten
+zurückgerufen. Klasse, dass es mit den Karten noch geklappt hat, wir hatten
 schon Angst, dass es nichts mehr werden könnte.
 
-## Die Setlist des Abends1. Falling From The Sky
+## Die Setlist des Abends
 
+1.  Falling From The Sky
 1.  Across The Wire
 1.  Cumbia De Donde
 1.  Splitter
@@ -64,16 +63,24 @@ schon Angst, dass es nichts mehr werden könnte.
 1.  Not Even Steve Nicks
 1.  Bullets &amp; Rocks
 1.  Alone Again Or
-1.  Puerto## Erste Zugabe- Roll Tango
+1.  Puerto
 
+## Erste Zugabe
+
+- Roll Tango
 - Moon Never Rises
 - All Systems Red
-- Guero Canelo## Zweite Zugabe- Follow The River
+- Guero Canelo
+
+## Zweite Zugabe
+
+- Follow The River
 
 <Gallery name="flickr/calexicofreiheit2015" />
 
-## Calexico Wegweiser1. [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
+## Calexico Wegweiser
 
+1.  [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
 1.  [live @ Southside Festival Neuhausen ob Eck Juni 2008](/2015/04/calexico-live-southside-festival-2008/)
 1.  [live @ Muffathalle München 16.10.2008](/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/)
 1.  [live @ Roxy Ulm 27.01.2009](/2009/01/calexico-live-roxy-ulm/)
@@ -84,7 +91,8 @@ schon Angst, dass es nichts mehr werden könnte.
 1.  live @ Große Freiheit 36 Hamburg 15.04.2015
 1.  [live @ A Summer's Tale Festival 08.08.2015](/2015/08/calexico-live-a-summers-tale-festival-2015/)
 1.  [stellen neue Single "End Of The World With You" vor](/2017/10/calexico-the-thread-that-keeps-us/)
-    [Homepage](http://www.casadecalexico.com) Calexico
+
+[Homepage](http://www.casadecalexico.com) Calexico
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

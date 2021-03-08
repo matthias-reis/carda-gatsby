@@ -14,7 +14,7 @@ focusKeyword: alben des jahres
 labels:
   - A Perfect Circle
   - Alben 2018
-  - Bands & Reviews
+  - Bands
   - Calexico
   - Everlast
   - Long Distance Calling Ghost
@@ -28,7 +28,7 @@ labels:
   - The Ocean
   - Twenty One Pilots
 type: Artikel
-typeName: Rezension
+typeName: Artikel
 date: 2018-12-29T14:01:58.000Z
 status: publish
 isWerbung: false

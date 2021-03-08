@@ -37,8 +37,7 @@ date: 2012-08-27T14:33:05.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "11800"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__l.jpg
@@ -46,6 +45,11 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Offizielles Burg Herzberg Festival T-Shirt zu gewinnen!
   
 ---
+
+<hr />
+
+**Hinweis:** Die Aktion ist beendet.
+[Bestimmt findet bald wieder eine tolle Verlosung im Blog statt](/tag/verlosung/).
 
 <hr />
 
@@ -59,16 +63,15 @@ Seit dem 16. August 2012 läuft jetzt hier auf meiner Seite eine
 Alle Gewinne werden von
 [Marleen](https://www.facebook.com/marleen.schallplatten), dem Plattenladen
 meines Vertrauens zur Verfügung gestellt. Es handelt sich dabei um wirklich
-heiße, ausgewählte Teile. Das komplette [Gewinnspiel](//?s=verlosung) findet Ihr
+heiße, ausgewählte Teile. Das komplette [Gewinnspiel](//?s=verlosung) findet Ihr
 [&gt;HIER UNTER DIESEM LINK&lt;](//?s=verlosung).
 
-<RemoteImage
-  alt=""
-  size="full"
-  title="[ ](http://cardamonchai.files.wordpress.com/2012/08/mysticrot.jpg)  Offizelles Burg Herzberg Festival T-Shirt zu gewinnen!"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2012/08/mysticrot.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2012/08/mysticrot.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={``} size="full"
+title={`Offizelles Burg Herzberg Festival T-Shirt zu gewinnen!`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_mysticrot__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_mysticrot__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBgMEB//EACYQAAICAQQCAgEFAAAAAAAAAAECAxEEAAUSITFBE3EiUWGx0fD/xAAXAQEBAQEAAAAAAAAAAAAAAAAFAwIE/8QAHhEAAQQCAwEAAAAAAAAAAAAAAQACAxEhMQQFQRL/2gAMAwEAAhEDEQA/AOZ4mww7TlDFXdEnmnIJjWJikhHa8j5Av9vrUfHuOEssE+LjQxrAs+PJBGVV1u2Wibu2N/Wt8DC2/HxsuWWHJzchlaOhSd3+RPkgHqvZ8/ppnuUs+Vs6RZkCoVRlMou2RiOqPQr171xvlIOdJ7h9RLyWfcdZ1lVPPikwshvhmKq5PJDIBxaz4v0RWjT94IpSY8jg7xGrPGzYHfY/1aNaD0c5hBorDvM8WXtG4yylZXThxHk8uYBN+qsdA+NEW6fNFGZZBJ8bowRzYZbFqR9gaR5268sGbFijUwonN2JNjk/89cv70pj3F4zEZUISQnix8NxIvU3ROdopnru0g4kTmSNJJGK837eFbt6mMm5ymJiqra8ivmmbr140aVZjQ5SxySSJHyLMpZj+QJ9V60aoMCkM42bX/9k="
+/>
 
 Nun gibt es etwas Tolles zu Berichten: Gunter vom
 [Herzberg-Festival-Veranstaltungsteam](http://www.burgherzberg-festival.de/)
@@ -83,10 +86,11 @@ Ich freue mich natürlich sehr, wenn Ihr das auch weitersagt, Ihr dürft meinen
 Artikel gerne rebloggen oder auf Facebook oder Twitter teilen.
 
 **♥lichen Dank für die Aufmerksamkeit und viel Glück! Hier nochmal die Regeln
-des Gewinnspiels:** - Sendet **bis zum 30. September 2012** eine E-Mail mit dem
-Foto Eures Lieblings-T-Shirts unter dem **Betreff 'T-Shirt-Idee'** an
-**info@cardamonchai.com** . Natürlich sind auch Sweater oder Blusen erlaubt.
+des Gewinnspiels:**
 
+- Sendet **bis zum 30. September 2012** eine E-Mail mit dem Foto Eures
+  Lieblings-T-Shirts unter dem **Betreff 'T-Shirt-Idee'** an
+  **info@cardamonchai.com** . Natürlich sind auch Sweater oder Blusen erlaubt.
 - Die Gewinner werden von einer neutralen Person gezogen und per E-Mail über
   ihren Gewinn benachrichtigt.
 - Die Gewinne werden per Post versendet.
@@ -96,12 +100,10 @@ Das komplette Gewinnspiel findet Ihr [HIER UNTER DIESEM LINK](//?s=verlosung)
 
 ♥Make love Work♥
 
-<RemoteImage
-  alt="Verlosung"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACYQAAIBAwMFAAIDAAAAAAAAAAECAwAEERIhMQUTQVFhBiKBobH/xAAXAQADAQAAAAAAAAAAAAAAAAACBgcF/8QAKREAAQMEAQIEBwAAAAAAAAAAAQIDEQAEITFBBhIFEyKhFDJRgbHw8f/aAAwDAQACEQMRAD8Aqj6fJdNcPDd9lQ/bRNagM2hmOAfq/PPqpI+jRCRpXvMEsGDGVtIAzwM53xTrm6t4UmtWiLmXGSDwMk/wQNXHIwKykvLJZ3iW07UL7NJjUWHps8jfOKwAhoIQFHgbnOB9PzMcULnxbz7vkzhShg4+bQmPbNbj2jx3CNLKZUKtyf1OCMEfN6Km6Y9qCY7RNBMZ7zYK68tkDBPAwKKXvGUpQ8kCR6dcbOv3dN/TClvWZUrPqOTvQ3v+RWF1i4aLqTBhKBkZCuQsnIzs23mmxXXTmdpntikmy7YPPJG4pzxyXEk8dxbzgGUtFJHFk4zk5Y7AfCfPypl6fP3HQrJ2sk6tILH1vnj3/VUO1etXmGyspJAG4wY9qnl01eMvuBAWnuJOO7IJka3un/jrM9zIvcmeQABWkbUP95xRTrCV7e9gjW0nSJQTI7RHLMR7PjIopG6nf8+97moUAkCRnk81QOlGjbWMPApJUTBkcAa+1f/Z" />
+<RemoteImage alt={`Verlosung`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACYQAAIBAwMFAAIDAAAAAAAAAAECAwAEERIhMQUTQVFhBiKBobH/xAAXAQADAQAAAAAAAAAAAAAAAAACBgcF/8QAKREAAQMEAQIEBwAAAAAAAAAAAQIDEQAEITFBBhIFEyKhFDJRgbHw8f/aAAwDAQACEQMRAD8Aqj6fJdNcPDd9lQ/bRNagM2hmOAfq/PPqpI+jRCRpXvMEsGDGVtIAzwM53xTrm6t4UmtWiLmXGSDwMk/wQNXHIwKykvLJZ3iW07UL7NJjUWHps8jfOKwAhoIQFHgbnOB9PzMcULnxbz7vkzhShg4+bQmPbNbj2jx3CNLKZUKtyf1OCMEfN6Km6Y9qCY7RNBMZ7zYK68tkDBPAwKKXvGUpQ8kCR6dcbOv3dN/TClvWZUrPqOTvQ3v+RWF1i4aLqTBhKBkZCuQsnIzs23mmxXXTmdpntikmy7YPPJG4pzxyXEk8dxbzgGUtFJHFk4zk5Y7AfCfPypl6fP3HQrJ2sk6tILH1vnj3/VUO1etXmGyspJAG4wY9qnl01eMvuBAWnuJOO7IJka3un/jrM9zIvcmeQABWkbUP95xRTrCV7e9gjW0nSJQTI7RHLMR7PjIopG6nf8+97moUAkCRnk81QOlGjbWMPApJUTBkcAa+1f/Z"
+/>
 
   

@@ -15,6 +15,8 @@ labels:
   - detox
   - Entgiftung
   - Entsäuerung
+  - Ernährung
+  - Ernährung & Gesundheit
   - Gerstengras
   - Gerstengras gegen Übersäuerung
   - Grüner Smoothie
@@ -23,7 +25,7 @@ labels:
   - Smoothie
   - Übersäuerung
   - vegan
-  - Vegane Produkte
+  - vegane Ernährung
   - Vegane Rezepte
   - Vitamine
 type: Artikel
@@ -52,13 +54,11 @@ Arzt 30 Kilo zu viel und es ging ihm gar nicht gut. Das Übergewicht und der
 Stress im Alltag lasteten so stark auf seiner Seele, dass er irgendwann sogar an
 Selbstmord dachte. Eine dramatische Geschichte.
 
-<RemoteImage
-  alt="gerstengras"
-  size="medium"
-  title="Gerstengras von Jomu"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUBA//EACkQAAIBAwMDAwQDAAAAAAAAAAECAwQFEQASIRMxQQYiYRQjQqFSgZH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAgMF/8QAIxEAAgEDAgcBAAAAAAAAAAAAAQIAAxESBDEhIiNRcZHB0f/aAAwDAQACEQMRAD8Ayr/SNb50jpoWqaOIxTU8aDPWyr+RkZG7HzjXaSeqmqI2ms1ZTQkbGc5CoP5EbRnnzq3JeOvcKCg6kckdNNmJ1UBgnhGxxxkYAJAHnnUbverhZK49ZxNbqgZVahc7D5UOOfkZzrl6IdNlm1B0VBdb+55VyQ1IRGmRnRgy9KI71I7EFef3qFptD10oV7g9HRwY3zyZUB2JRE2H8jzg+BnOmGlroHpqXqRwb4lkQSEAADO4E/1kZ0o+r5VhkMlRkxpUEKgzgllypbHgAnnUhCCtUm5uP2VUxbJWXgO3mLtkuEEdbSOs/wBQVVn3MQC2SPafkAfrTpH6kl+zvRMJxg9j30aNLcpIEdNTV0GUoNe6V7RVQvGHeaUnYwOCCCrjI7awb1c4bhVUtDCDDBuVfe49qLzn/AdGjSDc4naXqECozje3yf/Z" />
+<RemoteImage alt={`gerstengras`} size="medium" title={`Gerstengras von Jomu`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUBA//EACkQAAIBAwMDAwQDAAAAAAAAAAECAwQFEQASIRMxQQYiYRQjQqFSgZH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAgMF/8QAIxEAAgEDAgcBAAAAAAAAAAAAAQIAAxESBDEhIiNRcZHB0f/aAAwDAQACEQMRAD8Ayr/SNb50jpoWqaOIxTU8aDPWyr+RkZG7HzjXaSeqmqI2ms1ZTQkbGc5CoP5EbRnnzq3JeOvcKCg6kckdNNmJ1UBgnhGxxxkYAJAHnnUbverhZK49ZxNbqgZVahc7D5UOOfkZzrl6IdNlm1B0VBdb+55VyQ1IRGmRnRgy9KI71I7EFef3qFptD10oV7g9HRwY3zyZUB2JRE2H8jzg+BnOmGlroHpqXqRwb4lkQSEAADO4E/1kZ0o+r5VhkMlRkxpUEKgzgllypbHgAnnUhCCtUm5uP2VUxbJWXgO3mLtkuEEdbSOs/wBQVVn3MQC2SPafkAfrTpH6kl+zvRMJxg9j30aNLcpIEdNTV0GUoNe6V7RVQvGHeaUnYwOCCCrjI7awb1c4bhVUtDCDDBuVfe49qLzn/AdGjSDc4naXqECozje3yf/Z"
+/>
 
 Eine Reihe glücklicher Umstände führten zum Glück dazu, dass es ihm heute mit
 Mitte 30 wieder besser geht. Sein Großvater war es, der ihm Kraft gab und ihm
@@ -76,13 +76,11 @@ auf die Suche nach einer Lösung zu machen.
 
 ## "Mein Freund Klaus hat mir Gerstengras empfohlen"
 
-<RemoteImage
-  alt="gerstengras"
-  size="medium"
-  title="Gerstengras ist gesund"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-3__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-3__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgf/xAApEAACAQMDAwMEAwAAAAAAAAABAgMEBREAEiEGEzEUQVEHQlJhcYHh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMFBAb/xAAgEQABBAEEAwAAAAAAAAAAAAABAAIDEQQSISLwMWFx/9oADAMBAAIRAxEAPwBrZunolss0FRVwUcwuDEiZ9od1Vk4/ojzrbdF1Imp3irrelOjozDvqQcMCffVH1lYYrdYgkDPNBFHCd8rbnZxkbm+SQPOpCGBGiiZwApIyMew1imzXRuICMQ2LXPfqPb/TVF5uKOuJKiSCBgMAljjIP6UHRqo6ksJvtlin9VTrHFK7rDI7KSfy4BHyNGq0bomCnts99pfI7h1d+K0FymuNlqBPHOSI8hpZAxHjjGTqfpZzVXWloIN4lwVJ2khDjyf1/OlNlvdUYlhPb2SRb1ePZJHIueQM++POmiXCaatip5fT025l2SshG+XIKg4OCv2ljgAkedc1nnVOHN8KljQ8DqKT9Ro8fddrjCflgMnjjkZ40aRdc3SE1kxp2aIzr3DThQCj8718ckH2P+aNObPM/kTSMwxN2pf/2Q==" />
+<RemoteImage alt={`gerstengras`} size="medium" title={`Gerstengras ist gesund`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-3__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-3__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgf/xAApEAACAQMDAwMEAwAAAAAAAAABAgMEBREAEiEGEzEUQVEHQlJhcYHh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMFBAb/xAAgEQABBAEEAwAAAAAAAAAAAAABAAIDEQQSISLwMWFx/9oADAMBAAIRAxEAPwBrZunolss0FRVwUcwuDEiZ9od1Vk4/ojzrbdF1Imp3irrelOjozDvqQcMCffVH1lYYrdYgkDPNBFHCd8rbnZxkbm+SQPOpCGBGiiZwApIyMew1imzXRuICMQ2LXPfqPb/TVF5uKOuJKiSCBgMAljjIP6UHRqo6ksJvtlin9VTrHFK7rDI7KSfy4BHyNGq0bomCnts99pfI7h1d+K0FymuNlqBPHOSI8hpZAxHjjGTqfpZzVXWloIN4lwVJ2khDjyf1/OlNlvdUYlhPb2SRb1ePZJHIueQM++POmiXCaatip5fT025l2SshG+XIKg4OCv2ljgAkedc1nnVOHN8KljQ8DqKT9Ro8fddrjCflgMnjjkZ40aRdc3SE1kxp2aIzr3DThQCj8718ckH2P+aNObPM/kTSMwxN2pf/2Q=="
+/>
 
 Irgendwann stieß er beim Stöbern im Internet auf Gerstengras und begann sich
 immer weiter einzulesen. Im Laufe seiner Recherche wurde ihm bewusst, wie viele
@@ -118,13 +116,12 @@ inzwischen sogar einige Mitarbeiter\*innen.
 
 ## Bio-Gerstengras
 
-<RemoteImage
-  alt="gerstengras"
-  size="medium"
-  title="Gerstengras in Bio-Qualität"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-4__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-4__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKRAAAgECBQMEAgMAAAAAAAAAAQMCBBEABQYSIRMxQQciMoEjYVGh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EAB0RAAIDAQEAAwAAAAAAAAAAAAECAAMRIQQSE5H/2gAMAwEAAhEDEQA/ANAXk0HHMaSKQAqjU+0lm8pEsAt4Ftp555wo1Wn4DL6RVG+gRdjpN6hXBjAZe03IuR3H1i20xqJdNUVFWrTupXOqbdSTExMpESMiLdgL+AAMcfqJTBDssYVFZkqX45RsYXlu2keCN2MrL/rXZS1ljFfUOQsRk1S5y6NrotVBIU2EztN9xIjb9ecZzVGWQKW5UExqakk2aoytGMwR8SLXkD9DGgyKVKqm3F/ZAf3/AJhL1MqOa6pSmOxdNOSqeJM4+2N+TYn+Scbeci5dc4JJUqeDf2P+nfUurjVUhKlyiIMPFOYnsAObi/fEOudVnOHUzN8BUKMrrM4xtwOBybdsGDAvfgq5EeRfm+GK7HRGSTbUShNvVHUjvsIxIvEi3y5JF8U+c58+sy+RqKxbNkoqjFkQAYkHn9AWA+xgwYHRc5UDeRdlSLvJ/9k=" />
+<RemoteImage alt={`gerstengras`} size="medium"
+title={`Gerstengras in Bio-Qualität`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-4__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-4__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKRAAAgECBQMEAgMAAAAAAAAAAQMCBBEABQYSIRMxQQciMoEjYVGh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EAB0RAAIDAQEAAwAAAAAAAAAAAAECAAMRIQQSE5H/2gAMAwEAAhEDEQA/ANAXk0HHMaSKQAqjU+0lm8pEsAt4Ftp555wo1Wn4DL6RVG+gRdjpN6hXBjAZe03IuR3H1i20xqJdNUVFWrTupXOqbdSTExMpESMiLdgL+AAMcfqJTBDssYVFZkqX45RsYXlu2keCN2MrL/rXZS1ljFfUOQsRk1S5y6NrotVBIU2EztN9xIjb9ecZzVGWQKW5UExqakk2aoytGMwR8SLXkD9DGgyKVKqm3F/ZAf3/AJhL1MqOa6pSmOxdNOSqeJM4+2N+TYn+Scbeci5dc4JJUqeDf2P+nfUurjVUhKlyiIMPFOYnsAObi/fEOudVnOHUzN8BUKMrrM4xtwOBybdsGDAvfgq5EeRfm+GK7HRGSTbUShNvVHUjvsIxIvEi3y5JF8U+c58+sy+RqKxbNkoqjFkQAYkHn9AWA+xgwYHRc5UDeRdlSLvJ/9k="
+/>
 
 Das Gerstengras aus dem Hause Jomu ist Bio-zertifiziert, wird in Deutschland
 produziert und ist nachgewiesenermaßen glutenfrei. Als Verzehrempfehlung hat
@@ -132,8 +129,9 @@ Johannes bis zu dreimal täglich einen Teelöffel auf der Packung angegeben. Fü
 meinen Test habe ich zusätzlich zum Pulver auch noch eine To-Go-Variante
 erhalten. Um sich unterwegs einen Vitaminschub abzuholen, nimmt man einfach 3-4
 Presslinge mit ausreichend Flüssigkeit zu sich. Ich finde das sehr praktisch
-werde den kleinen Beutel [auf das nächste Festival](/category/musik/festivals/)
-mitnehmen. Er ist schon eingepackt.
+werde den kleinen Beutel
+[auf das nächste Festival](/category/rock-n-roll/festivals/) mitnehmen. Er ist
+schon eingepackt.
 
 Bestellt man bei Johannes, bekommt man mit dem Paket einen kleinen "Diamanten"
 zusammen mit einer
@@ -155,13 +153,12 @@ Ihr könnt sie auf den Bildern bewundern.
 
 ## Zubereitung
 
-<RemoteImage
-  alt="gerstengras"
-  size="medium"
-  title="Smoothie mit Gerstengras"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAqEAACAQIEBgIBBQAAAAAAAAABAgMEEQAFBhITISIxQXFCgRQjUYKhsf/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAQMG/8QAHxEAAgEFAAMBAAAAAAAAAAAAAQIAAwQSITEFERNh/9oADAMBAAIRAxEAPwCX0lplq6cxJUmjW0j8QR772W4T7It7w9g02Jo0MOYtNvDOFeLly7nlh5oUCmzikLRh43fYVYWvdSP9OHkeZZRFu35XOsi3QhJV2n+sBVulonFj2CFy2BMV1ZphqvU+SxUUxm/PRCsIQqscamxufI5Mb2wY0bNRVRZtR6jy2moo446dqWKGVnbanUGvaw+RwYc+yOoP5K8WHJx5fPWUOY0Er8ExJURNuWQBrbh8SR4w0zuaOlqapCQP1WsPvEtpquozDDw3SPdYkrDa38uxPj2cPdRmi4k0TEy1EnU3FYIFJPJTY9wPP7/Vs95OorsuJ5H7eg+9RTnOdPHQRwoLgAqCWAF+5GDE7qWuWniU0hoiHjCuy726gSOm49W9nBhpLvQAEk23rs//2Q==" />
+<RemoteImage alt={`gerstengras`} size="medium"
+title={`Smoothie mit Gerstengras`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAqEAACAQIEBgIBBQAAAAAAAAABAgMEEQAFBhITISIxQXFCgRQjUYKhsf/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAQMG/8QAHxEAAgEFAAMBAAAAAAAAAAAAAQIAAwQSITEFERNh/9oADAMBAAIRAxEAPwCX0lplq6cxJUmjW0j8QR772W4T7It7w9g02Jo0MOYtNvDOFeLly7nlh5oUCmzikLRh43fYVYWvdSP9OHkeZZRFu35XOsi3QhJV2n+sBVulonFj2CFy2BMV1ZphqvU+SxUUxm/PRCsIQqscamxufI5Mb2wY0bNRVRZtR6jy2moo446dqWKGVnbanUGvaw+RwYc+yOoP5K8WHJx5fPWUOY0Er8ExJURNuWQBrbh8SR4w0zuaOlqapCQP1WsPvEtpquozDDw3SPdYkrDa38uxPj2cPdRmi4k0TEy1EnU3FYIFJPJTY9wPP7/Vs95OorsuJ5H7eg+9RTnOdPHQRwoLgAqCWAF+5GDE7qWuWniU0hoiHjCuy726gSOm49W9nBhpLvQAEk23rs//2Q=="
+/>
 
 Alles zusammen in den Mixer geben und auf höchster Stufe zwei Minuten mixen.
 Cheers!
@@ -604,8 +601,6 @@ Liste.
 </tbody>
 </table>
 </div>
-
-[Online findet Ihr Jomu hier](https://www.gerstengras-natur.de/).
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum Ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

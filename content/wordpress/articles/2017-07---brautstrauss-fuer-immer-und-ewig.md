@@ -12,9 +12,9 @@ excerpt: Vor genau vier Jahren, am 5. Juli 2013 gaben sich Matze und ich das
   lassen.
 focusKeyword: Brautstrauß
 labels:
+  - Achtsamkeit
   - Blumen
   - Brautstrauß
-  - DIY
   - Ehe
   - Ehepaar
   - Hochzeit
@@ -35,13 +35,11 @@ subTitle: Schöne Erinnerungen in Asche konserviert
   
 ---
 
-<RemoteImage
-  alt="Brautstrauß"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-9-von-9__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-9-von-9__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUBBgcDBP/EAC8QAAEDAwIDAw0AAAAAAAAAAAECAwQABREGIRITQQdRoRQWIjEyUmFxkaKxsvD/xAAZAQACAwEAAAAAAAAAAAAAAAABBQACAwT/xAAhEQACAwAABgMAAAAAAAAAAAABAgADEQQFEiExQaGxwf/aAAwDAQACEQMRAD8Ax63xw04A8AjHeat8FllSR7JzVh7M0sQtbXR9bDbjTUJS0tuoCwCdtvpSK63VAkNNLGGXJbjj7yGRzEowPhsBjxorYCwUeYTW2dXqTrKzlmyWS4ApVGlILZSBulXMCj9v6mvH2lxmvNu3yG0YV5UklWffYbUfE5qbxc5E7QLRWXREj3xhmOF7EI5C+MED1Di33765aukIf7PIiiQVpejde9kA/hNL+aArbTnpvsZN+FO/P5NI05pxi1Tpcl+W1IMiMY5ScgDJyDtg7b9etLJGi4XLTx3JKV8SitbaQCsEY4TnIx8sUUU3WtVOgTiNjZmxfqLS0eTpyJabbcUMJRPM2Q6tO7p4cAejj+xSC46SW401DcvbjjCUpKmk5KQEjCc5JGdzjrRRVLK1YgGRHI7z/9k=" />
+<RemoteImage alt={`Brautstrauß`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-9-von-9__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-9-von-9__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUBBgcDBP/EAC8QAAEDAwIDAw0AAAAAAAAAAAECAwQABREGIRITQQdRoRQWIjEyUmFxkaKxsvD/xAAZAQACAwEAAAAAAAAAAAAAAAABBQACAwT/xAAhEQACAwAABgMAAAAAAAAAAAABAgADEQQFEiExQaGxwf/aAAwDAQACEQMRAD8Ax63xw04A8AjHeat8FllSR7JzVh7M0sQtbXR9bDbjTUJS0tuoCwCdtvpSK63VAkNNLGGXJbjj7yGRzEowPhsBjxorYCwUeYTW2dXqTrKzlmyWS4ApVGlILZSBulXMCj9v6mvH2lxmvNu3yG0YV5UklWffYbUfE5qbxc5E7QLRWXREj3xhmOF7EI5C+MED1Di33765aukIf7PIiiQVpejde9kA/hNL+aArbTnpvsZN+FO/P5NI05pxi1Tpcl+W1IMiMY5ScgDJyDtg7b9etLJGi4XLTx3JKV8SitbaQCsEY4TnIx8sUUU3WtVOgTiNjZmxfqLS0eTpyJabbcUMJRPM2Q6tO7p4cAejj+xSC46SW401DcvbjjCUpKmk5KQEjCc5JGdzjrRRVLK1YgGRHI7z/9k="
+/>
 
 **Vor genau vier Jahren, am 5. Juli 2013, gaben Matze und ich uns
 [das Ja-Wort](http://hochzeit.smartr.de/). Wundervoll romantisch in einem großen

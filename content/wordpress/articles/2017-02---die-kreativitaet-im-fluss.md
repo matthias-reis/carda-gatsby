@@ -13,11 +13,10 @@ excerpt: Wer schreibt, schreibt an vielen Fronten. Die Kreativität in den
 focusKeyword: Kreativität
 labels:
   - Autorin
+  - Geschichten & Erlebtes
   - Hamburg
   - Kreativität
-  - Prosa
   - schreiben
-  - Tagebuch
 type: Artikel
 typeName: Artikel
 date: 2017-02-23T15:09:59.000Z

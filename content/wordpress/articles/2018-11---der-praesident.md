@@ -11,11 +11,11 @@ excerpt: Wenn der Präsident sein Fazit zieht und die Gesellschaft das ganz
 focusKeyword: ""
 labels:
   - Amerika
+  - Antifaschismus & Feminismus
+  - Geschichten & Erlebtes
   - Gesellschaft
   - Klimaerwärmung
-  - Lyrik
   - Politik
-  - Politik & Soziales
   - Präsident
 type: Galerie Rechts
 typeName: Gedicht

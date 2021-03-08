@@ -15,10 +15,11 @@ labels:
   - Altarstein
   - Avalon
   - Blausteine
-  - Brititsche Inseln
+  - Britische Inseln
   - Dolerit
   - England
   - England2009
+  - Fernweh
   - Fotos
   - Frühling
   - GB
@@ -28,7 +29,6 @@ labels:
   - Opferstein
   - Preseli Berge
   - Reise
-  - Reisen
   - Reisen
   - Schafe
   - Sonnenwende
@@ -65,13 +65,12 @@ seht.
 
 ## Erinnerungen an den Frühling in England 2009 - Teil 4/17
 
-<RemoteImage
-  alt="stonehenge"
-  size="medium"
-  title="Stonehenge - Foto: Matze 2012"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_05_stonehenge_9495102379_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_05_stonehenge_9495102379_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgIDB//EACkQAAEEAQIFBAIDAAAAAAAAAAECAwQRBQASBhMhMUEUIlFhBzNCQ3H/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AsuUz+byuIKZKHo29Q3RhKbYAoUChdWQTfT61sw7DkuEE5b1K3QKSHVhakV4BFdNJcfrwfDjzmMy/rl5B2J6loNNpG5O5V0o0L9ijt7fHfULjuIYsXiWVw/GGSlrZeZYjuIWg84uIKrG7aEAD5J8aCxZSMmJGSI0N91xS6Uvfs2Jrx1HUnyb1GriKXQMeXJpJX7UFVAdzf15Ooyb+ScXDwWPmyMTnS1PQt1tZdZ/U24ULUQldg2O3nxq2RnOHc/m3sJDz0lzJbKVF5zrYWAAqh/FVA3QPz8aDjE+W/Pkc2c8qU6P7H33Fq73Vm+n1pZlWyTz2OYiQKp1t9aVCrrr38nRo0GK4SHmm23WFqabQUJSHyKSSbA6fZ09jxIx08T4T8qLN6jnNvkLHSjR/zRo0H//Z" />
+<RemoteImage alt={`stonehenge`} size="medium"
+title={`Stonehenge - Foto: Matze 2012`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_05_stonehenge_9495102379_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_05_stonehenge_9495102379_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgIDB//EACkQAAEEAQIFBAIDAAAAAAAAAAECAwQRBQASBhMhMUEUIlFhBzNCQ3H/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AsuUz+byuIKZKHo29Q3RhKbYAoUChdWQTfT61sw7DkuEE5b1K3QKSHVhakV4BFdNJcfrwfDjzmMy/rl5B2J6loNNpG5O5V0o0L9ijt7fHfULjuIYsXiWVw/GGSlrZeZYjuIWg84uIKrG7aEAD5J8aCxZSMmJGSI0N91xS6Uvfs2Jrx1HUnyb1GriKXQMeXJpJX7UFVAdzf15Ooyb+ScXDwWPmyMTnS1PQt1tZdZ/U24ULUQldg2O3nxq2RnOHc/m3sJDz0lzJbKVF5zrYWAAqh/FVA3QPz8aDjE+W/Pkc2c8qU6P7H33Fq73Vm+n1pZlWyTz2OYiQKp1t9aVCrrr38nRo0GK4SHmm23WFqabQUJSHyKSSbA6fZ09jxIx08T4T8qLN6jnNvkLHSjR/zRo0H//Z"
+/>
 
 Dieser Beitrag wurde ursprünglich am 11. Mai 2009 veröffentlicht. Er ist
 zunächst nur als Bildbeitrag erschienen. Das Titelbild habe ich 2012

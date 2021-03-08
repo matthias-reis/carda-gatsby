@@ -32,6 +32,9 @@ subTitle: Die Toten Hosen als Headliner
   
 ---
 
+**Am Samstag, 15. August 2009 fand in Neu-Ulm auf dem Gelände der Wileys das
+erste Mal das Wiley Open Air statt.**
+
 Es war ein voller Erfolg. Bei Temperaturen über 30 Grad und strahlendem
 Sonnenschein fanden sich 15.000 Punk- und Rockfans auf dem Sportplatz des
 Geländes ein. Ab 14:00 war Einlass, um 16:00 startete das Festival dann mit dem
@@ -41,13 +44,11 @@ sogar mit einigen bayerischen Texten. Mit einer fröhlichen Mischung aus
 deutschem Heavy-Rock und Ska sorgten sie für Stimmung. Der Fanclub der Band, war
 eigens mit einem Bus angereist.
 
-<RemoteImage
-  alt="Wiley Open Air"
-  size="medium"
-  title="Wiley Open Air"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_08_9914371534_6e3a029102_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_08_9914371534_6e3a029102_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAaACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwYHBQj/xAArEAABAwMDAwIGAwAAAAAAAAABAgMEBREhAAYSIjFREzIHFCRBQmEjJZH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQECA//EACIRAAIBAwMFAQAAAAAAAAAAAAECAAMRIQQxYRIUQbHB8P/aAAwDAQACEQMRAD8AdK98qzTIG4Z8dMOFT4i/QhA8itxSujH5E2v5z+tZ0Om1So7bdnzJq6hEfiqdih9YSpofkUg4SAB7sZt3GpBXt4V7dMOnO/TxIceH6fp+8OLIKDgg9fEd8Wv30ST8SqrK2IqjtqdcR8olh6S6myzYkFIINrBITc2/LOlFPTMud/kdvUCCzDG45/cyk7T3zLjRoTVcjvrbfTyZfUmzjjYxyvgLzcXHj76pbdJdr8JiVHWlLQJICjbkLY1zevcst1xgzil5MalRo7ZfPJbaVDkkp8DP+aYdufEeu0512IqQiJAS6ppx55slLavAI7HGp7ZCeoiDjVVFxeT+YHFxBHpzSU0h6Qt95Da+VnEnDRXYHpTa4t3voW3KfWnnuEaIwqmuKXwVLeQw0o3uQFKUO4AB/RI0WhKKIlVbSSlAlvkJBsB0AdtLtHUpcqShZKkApskm4HUnRIJyBCNSgKUmPkesTo1iBT9yKNXqRj0ZhimNsqhxWWnWe3H3pX3v0pFsADWNXduVeFTXoQqNORt6fNEiRBDjSHLE9S2y64AVDwFd8ajs+fLiTVtxZUhlCXhZLbhSBnwDpyV/Zb04VH6tAnJQEv8A8gCeYxY/bWILA2vKtSRlvaf/2Q==" />
+<RemoteImage alt={`Wiley Open Air`} size="medium" title={`Wiley Open Air`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_08_9914371534_6e3a029102_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_08_9914371534_6e3a029102_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAaACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwYHBQj/xAArEAABAwMDAwIGAwAAAAAAAAABAgMEBREhAAYSIjFREzIHFCRBQmEjJZH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQECA//EACIRAAIBAwMFAQAAAAAAAAAAAAECAAMRIQQxYRIUQbHB8P/aAAwDAQACEQMRAD8AdK98qzTIG4Z8dMOFT4i/QhA8itxSujH5E2v5z+tZ0Om1So7bdnzJq6hEfiqdih9YSpofkUg4SAB7sZt3GpBXt4V7dMOnO/TxIceH6fp+8OLIKDgg9fEd8Wv30ST8SqrK2IqjtqdcR8olh6S6myzYkFIINrBITc2/LOlFPTMud/kdvUCCzDG45/cyk7T3zLjRoTVcjvrbfTyZfUmzjjYxyvgLzcXHj76pbdJdr8JiVHWlLQJICjbkLY1zevcst1xgzil5MalRo7ZfPJbaVDkkp8DP+aYdufEeu0512IqQiJAS6ppx55slLavAI7HGp7ZCeoiDjVVFxeT+YHFxBHpzSU0h6Qt95Da+VnEnDRXYHpTa4t3voW3KfWnnuEaIwqmuKXwVLeQw0o3uQFKUO4AB/RI0WhKKIlVbSSlAlvkJBsB0AdtLtHUpcqShZKkApskm4HUnRIJyBCNSgKUmPkesTo1iBT9yKNXqRj0ZhimNsqhxWWnWe3H3pX3v0pFsADWNXduVeFTXoQqNORt6fNEiRBDjSHLE9S2y64AVDwFd8ajs+fLiTVtxZUhlCXhZLbhSBnwDpyV/Zb04VH6tAnJQEv8A8gCeYxY/bWILA2vKtSRlvaf/2Q=="
+/>
 
 Im Anschluss spielten dann die MAD CADDIES aus Solvang/Califonien. Ihre perfekte
 Fusion aus Ska-Punk mit Jazz- und Dixie-Elementen und Pop und Hardcore Punk

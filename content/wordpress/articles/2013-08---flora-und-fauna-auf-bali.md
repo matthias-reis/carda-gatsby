@@ -20,6 +20,7 @@ labels:
   - Bali Tiere
   - Bali-Trip
   - Fauna Bali
+  - Fernweh
   - Flora Bali
   - flora fauna
   - Kaffee Bali
@@ -30,7 +31,6 @@ labels:
   - Pflanzen Bali
   - Reis Bali
   - Reise
-  - Reisen
   - Riesfelder Bali
   - Rundreise Bali
   - Tiere Bali
@@ -48,6 +48,12 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Unsere große Reise - Teil V
   
 ---
+
+## **Von den Reisfeldern im Norden zu den Krabbenfischern an der Südküste der Insel**
+
+**Auf unserer Rundreise ist uns von den typischen Tempelkatzen, Bali-Affen bis
+zu Seesternen und Bananenspinnen so einiges über den Weg gelaufen. Heute gebe
+ich Euch einen Einblick in die Flora und Fauna auf Bali.**
 
 Wir besuchten die Fledermäuse im Höhlentempel von Goah Lawah und die
 weltberühmte Wildkatze, die für die Produktion des edlen, weltberühmten

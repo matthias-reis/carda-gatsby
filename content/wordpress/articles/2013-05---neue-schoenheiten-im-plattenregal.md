@@ -12,10 +12,10 @@ excerpt: Es ist eine Teillieferung, einige Platten sind noch nicht erschienen
   warten.
 focusKeyword: Plattenregal
 labels:
-  - 12 Inch
-  - Bands & Reviews
+  - Bands
   - Calexico
   - Cult Of Luna
+  - Geschichten & Erlebtes
   - LP
   - Marillion
   - Marleen Fulda
@@ -31,7 +31,6 @@ labels:
   - Record Store Day Germany
   - RSD
   - Schallplatten
-  - Tagebuch
 type: Artikel
 typeName: Artikel
 date: 2013-05-08T15:54:10.000Z
@@ -46,6 +45,9 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Morgen ist Feiertag...
   
 ---
+
+**... und ich kann heute den Luxus eines frühen Feierabends genießen. Endlich
+mal wieder Zeit zum bloggen. Und ich weiß gar nicht, wo ich anfangen soll.**
 
 Ich habe mich dazu entschieden, gleich mehrere Einträge zu basteln. Als erstes
 möchte ich Euch ein paar Platten empfehlen. Ich habe mal wieder beim

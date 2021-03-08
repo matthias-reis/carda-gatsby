@@ -12,17 +12,17 @@ excerpt: Werbung - Mit dem Feetup Trainer praktiziere ich seit Kurzem beim Yoga
   damit anspruchsvoller und interessanter geworden
 focusKeyword: Feetup
 labels:
+  - Achtsamkeit
   - Asana
+  - Ernährung & Gesundheit
   - Feetup
   - Feetup Yoga
-  - Hatha-Yoga
   - Kopfstand
   - Kopfstand Hocker
   - Kopfstand Yoga
   - Shirshasana
   - Sirsasana
   - Sirshasana
-  - Vegane Produkte
   - veganpower
   - Yoga
   - Yoga Flow

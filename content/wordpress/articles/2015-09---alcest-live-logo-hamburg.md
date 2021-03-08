@@ -35,6 +35,11 @@ subTitle: Bildergalerie
   
 ---
 
+**Hier sind meine Bilder vom Alcest-Konzert am Freitag im Hamburger Logo. Es war
+schön, die Band aus Avignon endlich mal wieder live auf der Bühne zu
+sehen. Schon bei ihrem Gig im Münchener Backstage Werk im Januar 2014 boten sie
+ein tolles Live-Erlebnis.**
+
 Für den leider etwas leise gedrehten Auftritt als Vorband von Opeth in der
 Backstage Halle im Oktober 2014 wurden wir am Freitag eindeutig entschädigt. Das
 freundliche Publikum im kleinen Club sorgte für eine tolle Atmosphäre, einen
@@ -54,13 +59,11 @@ auch zwei von ihrem Sänger
 
 [Hier lang](http://www.alcest-music.com/) zur Homepage von Alcest
 
-<RemoteImage
-  alt="Blogger für Flüchtlinge"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_BFF_1508_HeaderSW2-300x111__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_BFF_1508_HeaderSW2-300x111__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgQDCP/EACcQAAIABgEDAwUAAAAAAAAAAAECAwQFERIhAAYTQRQxMiIjJFGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOl1+zG38G88M9W1Oo0qcg+giASjL+QFk3jRFBNskYGwYXBCsCCA2xq6OE5uENip8HmYpUMzJBmZ/Egmwm4gAv8ArfAO9HVSsVCaL1GYo3ZVLvDp+cVQzbQd1sfqtsjHVwPPFUMYTLL4PtyWHSoODqI86uByFpqIP7vftylmLQREPzU6PA//2Q==" />
+<RemoteImage alt={`Blogger für Flüchtlinge`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_BFF_1508_HeaderSW2-300x111__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_BFF_1508_HeaderSW2-300x111__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgQDCP/EACcQAAIABgEDAwUAAAAAAAAAAAECAwQFERIhAAYTQRQxMiIjJFGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOl1+zG38G88M9W1Oo0qcg+giASjL+QFk3jRFBNskYGwYXBCsCCA2xq6OE5uENip8HmYpUMzJBmZ/Egmwm4gAv8ArfAO9HVSsVCaL1GYo3ZVLvDp+cVQzbQd1sfqtsjHVwPPFUMYTLL4PtyWHSoODqI86uByFpqIP7vftylmLQREPzU6PA//2Q=="
+/>
 
 [](http://www.blogger-fuer-fluechtlinge.de/)
 

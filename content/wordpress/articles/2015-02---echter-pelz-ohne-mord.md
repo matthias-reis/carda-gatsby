@@ -11,13 +11,13 @@ excerpt: Die Gründerin von "Petite Mort", Pamela Paquin stellt Pelz aus Roadkil
   her. Kleidungsstücke aus überfahrenen Tieren - ganz schön makaber, oder?
 focusKeyword: Pelz
 labels:
-  - Darum vegan
   - fckfur
   - govegan
   - Pelz
   - Pelz aus Roadkill
   - Petit Mort
   - Roadkill
+  - Tierrechte
 type: Artikel
 typeName: Artikel
 date: 2015-02-07T12:28:23.000Z
@@ -32,6 +32,9 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: '"Petit Mort" stellt Pelze aus Roadkill her'
   
 ---
+
+**Die Gründerin von "Petite Mort", Pamela Paquin stellt Pelz aus Roadkill her.
+Kleidungsstücke aus überfahrenen Tieren - das klingt ganz schön makaber, oder?**
 
 Pamela Paquin ist in ihrem Leben schon viel gereist und dabei stets überall
 aufgeafallen: "Es werden so viele arme Tiere sinnlos durch Autounfälle getötet."
@@ -80,11 +83,12 @@ weshalb ich für meinen Teil meine Finger von allem lasse, was auch nur im
 entferntesten nach Pelz aussieht. Was haltet Ihr von Pamela Paquins Idee? Könnt
 Ihr Euch vorstellen, einen Waschbär-Schal aus "Roadkill" zu tragen?
 
-**Quellen:** -
-[treehugger.com](https://www.treehugger.com/sustainable-fashion/petite-mort-ethical-fur-roadkill-pamela-paquin.html)
+**Quellen:**
 
+- [treehugger.com](https://www.treehugger.com/sustainable-fashion/petite-mort-ethical-fur-roadkill-pamela-paquin.html)
 - [modernfarmer.com](https://modernfarmer.com/2014/12/one-woman-revolutionizing-fur-industry-using-roadkill/)
-  **Foto im Header:**
-  [Gaertringen](https://pixabay.com/de/users/gaertringen-168960/), pixabay
+
+**Foto im Header:**
+[Gaertringen](https://pixabay.com/de/users/gaertringen-168960/), pixabay
 
   

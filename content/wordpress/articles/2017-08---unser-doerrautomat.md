@@ -28,7 +28,6 @@ labels:
   - Rosinen selber machen
   - Trockenobst
   - vegan
-  - Vegane Produkte
   - Vegane Rezepte
 type: Artikel
 typeName: Artikel
@@ -45,28 +44,23 @@ subTitle: Neueste Errungenschaft in der Küche
   
 ---
 
-Werbung\*
-
 **Ständig lese ich online und in Rezeptbüchern über Dörrautomaten. Bei niedriger
 Temperatur getrocknetes Obst und Gemüse, das nicht nur schmackhaft ist, sondern
 obendrein auch noch bekömmlich und vitaminreich. Irgendwie klingt das doch
 ziemlich gut, oder?**
 
 Lange Zeit habe ich hin und her überlegt und mich schließlich doch meiner
-Neugierde ergeben. Ein Angebot bei Clas Ohlson hat es schließlich geschafft,
-mich zu überzeugen. Kaum zu Hause angekommen, war unser neuer Dehydrator auch
+Neugierde ergeben. Kaum zu Hause angekommen, war unser neuer Dehydrator auch
 schon in Betrieb. Süßkirschen und Chilischoten erschienen uns für einen ersten
 Test am besten geeignet.
 
 ## Der Dörrautomat in Betrieb
 
-<RemoteImage
-  alt="Dörrautomat"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_35775340193_4536a81967_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_35775340193_4536a81967_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYABAECB//EACwQAAEEAQIFAgUFAAAAAAAAAAECAwQRBQAhBhITMUEiUQcjMmFxFBZCgcH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAbEQEAAwADAQAAAAAAAAAAAAABAAIRAyExEv/aAAwDAQACEQMRAD8ALTPiBjcU6tx515bbaeYoPkfZI9R/OgeQ+JbcnJtQ42FcK5KAWHUqCrJTfrRVora7Ngb6TuJOFDPxsfN4yXDnIkp+QtRKC0RupBPhQPnfz22OgUpEyHj3HHo77uUlWkyGl9MgWDSQdyNjuavUWp1jLqnpOhHjDKOYpp79uOtykyOjI66w202mha0nuR+a8d9VofHWLlSX25YOPQh4sNuSFAh0jf08t7VW9VuN9JOdTHxvDTTa5a/1chsOPuqcUepf8FVQrtXbt39xUxiW/iIbMKMX2VpLpcaaCFhRJsgE/TXne970NeKqRWyHsjWVl4syHcY8+xBedPKSPlqNDZQNi6oWe9avucbTFxiiVDjPAgjmaUpsm/wSNJOQy5lxUx+RTICrWArZR8Ej3GsuyYKYDYZW91+n6kEbFe3b2H9eO+ma72w/oDCNeV4ybecRzY2QhTZT6S4kgAePp/zWj3G7zDamEwGFFI5ed10qB+9CtISnQSSCa++otxTqgVqU4vYbmzrSoGSF12f/2Q==" />
+<RemoteImage alt={`Dörrautomat`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_35775340193_4536a81967_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_35775340193_4536a81967_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYABAECB//EACwQAAEEAQIFAgUFAAAAAAAAAAECAwQRBQAhBhITMUEiUQcjMmFxFBZCgcH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAbEQEAAwADAQAAAAAAAAAAAAABAAIRAyExEv/aAAwDAQACEQMRAD8ALTPiBjcU6tx515bbaeYoPkfZI9R/OgeQ+JbcnJtQ42FcK5KAWHUqCrJTfrRVora7Ngb6TuJOFDPxsfN4yXDnIkp+QtRKC0RupBPhQPnfz22OgUpEyHj3HHo77uUlWkyGl9MgWDSQdyNjuavUWp1jLqnpOhHjDKOYpp79uOtykyOjI66w202mha0nuR+a8d9VofHWLlSX25YOPQh4sNuSFAh0jf08t7VW9VuN9JOdTHxvDTTa5a/1chsOPuqcUepf8FVQrtXbt39xUxiW/iIbMKMX2VpLpcaaCFhRJsgE/TXne970NeKqRWyHsjWVl4syHcY8+xBedPKSPlqNDZQNi6oWe9avucbTFxiiVDjPAgjmaUpsm/wSNJOQy5lxUx+RTICrWArZR8Ej3GsuyYKYDYZW91+n6kEbFe3b2H9eO+ma72w/oDCNeV4ybecRzY2QhTZT6S4kgAePp/zWj3G7zDamEwGFFI5ed10qB+9CtISnQSSCa++otxTqgVqU4vYbmzrSoGSF12f/2Q=="
+/>
 
 Es klappt tatsächlich! Nach 36 Stunden bei 40 Grad haben wir nun schmackhafte
 Dörrkirschen sowie getrocknete Chilischoten für unser Chilisalz. Ich freue mich
@@ -107,10 +101,5 @@ Dörrautomaten habt: Immer her damit! Ich probiere es gerne aus.
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35749517604_e699cacfaa_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35749517604_e699cacfaa_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_36584820425_35b5566d77_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_36584820425_35b5566d77_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35749517794_d386d78da6_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35749517794_d386d78da6_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35775340193_4536a81967_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35775340193_4536a81967_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35775339863_2a880f0240_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35775339863_2a880f0240_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_36416262712_3081cd5697_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_36416262712_3081cd5697_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35749517534_e8723faf69_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35749517534_e8723faf69_z__l.jpg"}]}
 />
-
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
-dadurch nicht beeinflusst. Das Produkt habe ich in diesem Fall sogar selbst
-gekauft. Infos zum Thema Werbekennzeichnung in meinem Blogn findet Ihr auf
-meiner [Transparenz-Seite](/werbung/). _
 
   

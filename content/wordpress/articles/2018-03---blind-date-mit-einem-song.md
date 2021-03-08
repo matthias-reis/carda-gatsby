@@ -11,7 +11,7 @@ excerpt: 'Ich hatte ein Blind Date mit keinem Geringeren als diesem Feel Good
 focusKeyword: Presidents Of the United States
 labels:
   - 90er
-  - Bands & Reviews
+  - Bands
   - Blind Date mit einem Song
   - bloggerblinddate
   - Damals
@@ -29,7 +29,7 @@ labels:
   - Post-Grunge
   - The Presidents Of The United States
 type: Artikel
-typeName: Rezension
+typeName: Artikel
 date: 2018-03-10T09:00:16.000Z
 status: publish
 isWerbung: false
@@ -73,13 +73,11 @@ unterschiedlich waren, sehr gut zusammen. Sie harmonierten.
 
 ## Mein Blind Date mit "Peaches" von den Presidents Of The United States
 
-<RemoteImage
-  alt="Presidents Of the United States"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_peach-2573836_640__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_peach-2573836_640__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAApEAABAwMDAwMFAQAAAAAAAAABAgMEAAURBiExEkFRBxMiFGFxgZGi/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAwb/xAAmEQACAQMCBAcAAAAAAAAAAAABAhEAAwQhMSIjQVEFEmFx0fDx/9oADAMBAAIRAxEAPwBp1rPu8NIhyLfa3rZNX7CFOAuIIPPVndJA34/tTVqa5obUSI+lW5ZfuAKZqCpsqQE8FtQHcn48feq/qiWwtuTAnOQEuDDsVq4Ehg7bKON1b5HO3ikq5xdKz7tbYcCXCZvclQS7JgZ6G2kglWxPTk8J75Ncdk5hW+QvmgTPz04RvVwYaNh8K8w9fvpp70raUsVgtGrWLo9FUpKyHY76cKbYcAOFqbVkH5c54VuKr+ntWQ7pa1PTpcSFMZfXHebU5hKlJwepOexBB+xyKU16SdVcxbF27GnGELSJ0qUhK1ZAwRgHvnCcbADJpVtFoisTpUCFeYzjCXylt98KSHSfKkpKR4zxtTPhWQ128VZ5Ed5/D3FLXsZbGOBMmRrEd99dats+2wb1B+kusRqUwN0hY3SfIPI/VLUL0v0mxMEpEOYp4cFcxagO2PxvxRRVkAGsluOuxNcu9ekSZTvTGvr7LC/kELY9wp/0Af5W+w+m1qs4b+pfkXBSdwl3CUZHlIG/4zRRQqoQwtFeybt8cxpiv//Z" />
+<RemoteImage alt={`Presidents Of the United States`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_peach-2573836_640__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_peach-2573836_640__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAApEAABAwMDAwMFAQAAAAAAAAABAgMEAAURBiExEkFRBxMiFGFxgZGi/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAwb/xAAmEQACAQMCBAcAAAAAAAAAAAABAhEAAwQhMSIjQVEFEmFx0fDx/9oADAMBAAIRAxEAPwBp1rPu8NIhyLfa3rZNX7CFOAuIIPPVndJA34/tTVqa5obUSI+lW5ZfuAKZqCpsqQE8FtQHcn48feq/qiWwtuTAnOQEuDDsVq4Ehg7bKON1b5HO3ikq5xdKz7tbYcCXCZvclQS7JgZ6G2kglWxPTk8J75Ncdk5hW+QvmgTPz04RvVwYaNh8K8w9fvpp70raUsVgtGrWLo9FUpKyHY76cKbYcAOFqbVkH5c54VuKr+ntWQ7pa1PTpcSFMZfXHebU5hKlJwepOexBB+xyKU16SdVcxbF27GnGELSJ0qUhK1ZAwRgHvnCcbADJpVtFoisTpUCFeYzjCXylt98KSHSfKkpKR4zxtTPhWQ128VZ5Ed5/D3FLXsZbGOBMmRrEd99dats+2wb1B+kusRqUwN0hY3SfIPI/VLUL0v0mxMEpEOYp4cFcxagO2PxvxRRVkAGsluOuxNcu9ekSZTvTGvr7LC/kELY9wp/0Af5W+w+m1qs4b+pfkXBSdwl3CUZHlIG/4zRRQqoQwtFeybt8cxpiv//Z"
+/>
 
 Ihre große Zeit hatten die Presidents Of The United States von 1994 - 1998 und
 ihr Song begleitete mich damals länger, als nur einen Sommer. Er kam auf nahezu
@@ -105,13 +103,11 @@ Man rappelt sich auf und
 
 ## Ninjas betreten die Szenerie
 
-<RemoteImage
-  alt="Presidents Of The United States"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_peaches-869386_640__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_peaches-869386_640__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHAv/EACsQAAIBBAECBAUFAAAAAAAAAAECAwQFESEAEiITMVFhBgdBgZEjQlJx8f/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBgX/xAAlEQACAQIFAwUAAAAAAAAAAAABAgADEQQhQVGRBRITMaGx8PH/2gAMAwEAAhEDEQA/AMznukdtt7ZWFn8HxWlj/c7YCIB/EHGfv68T4KttPd6ueC75qYhDPWT1FOpQwhlVQInZekktj6YAz6bSzVlMsUM0jx0kfX2fpElkBPaxzn6YODk69M8lKf4qRr1cZIqU1MtIjReDKSqtGw7grZJJGjg61rksxZO5UXPf2+5x2gqXD1DcX9NxH7i02OoFTb2qqguMxU1xdZihAy2Djuz6Ea3jlM+YVWjXimo7Q8UVLKiVb01MAqxFowvR0qdEDIxrz3587v8AU0yUzz1ayuZdQCXXhMV13D6Y3n25Uado44uoIrRSk9z6kIyNg79j7e/GMHRa/lY3+D+RvH10NMUQgBHIGxk1UMyx05Vm6Ii6qrHOBjy/Iz9zy12+xpbqix3aOd5Z7lDT1EyyqCMue4DGPb8cOHAYx2VVA1JB4MH09FZmJ0EzW+XaoujN4vSkMUrFIlGgST/g4zaZhBTITlFdhj1Hbr+uHDlAiKoCgZTMZyxuxn//2Q==" />
+<RemoteImage alt={`Presidents Of The United States`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_peaches-869386_640__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_peaches-869386_640__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHAv/EACsQAAIBBAECBAUFAAAAAAAAAAECAwQFESEAEiITMVFhBgdBgZEjQlJx8f/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBgX/xAAlEQACAQIFAwUAAAAAAAAAAAABAgADEQQhQVGRBRITMaGx8PH/2gAMAwEAAhEDEQA/AMznukdtt7ZWFn8HxWlj/c7YCIB/EHGfv68T4KttPd6ueC75qYhDPWT1FOpQwhlVQInZekktj6YAz6bSzVlMsUM0jx0kfX2fpElkBPaxzn6YODk69M8lKf4qRr1cZIqU1MtIjReDKSqtGw7grZJJGjg61rksxZO5UXPf2+5x2gqXD1DcX9NxH7i02OoFTb2qqguMxU1xdZihAy2Djuz6Ea3jlM+YVWjXimo7Q8UVLKiVb01MAqxFowvR0qdEDIxrz3587v8AU0yUzz1ayuZdQCXXhMV13D6Y3n25Uado44uoIrRSk9z6kIyNg79j7e/GMHRa/lY3+D+RvH10NMUQgBHIGxk1UMyx05Vm6Ii6qrHOBjy/Iz9zy12+xpbqix3aOd5Z7lDT1EyyqCMue4DGPb8cOHAYx2VVA1JB4MH09FZmJ0EzW+XaoujN4vSkMUrFIlGgST/g4zaZhBTITlFdhj1Hbr+uHDlAiKoCgZTMZyxuxn//2Q=="
+/>
 
 Plötzlich tauchen aus den Büschen schwarz gekleidete Ninja-Kämpfer auf und
 greifen die Band an. Ein paar Schreie und Gummitwist-Spezialeffekte später,

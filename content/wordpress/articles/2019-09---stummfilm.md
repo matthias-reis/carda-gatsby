@@ -13,22 +13,21 @@ excerpt: Das Long Distance Calling Konzert in der Kulturkirche Altona wurde
 focusKeyword: Long Distance Calling
 labels:
   - Altona
-  - Bands & Reviews
+  - Bands
   - Hamburg
   - Hamburg Altona
   - Kulturkirche Altona
   - Long Distance Calling
   - Münster
   - Musik
-  - Post Rock
+  - Post-Rock
 type: Artikel
-typeName: Artikel
+typeName: Review
 date: 2019-09-06T07:19:23.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Unexpected token (28:22)"
+errors: {}
 thumbnailId: "26113"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-04-06-long-distance-calling-kulturkirche-altona-6__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-04-06-long-distance-calling-kulturkirche-altona-6__l.jpg
@@ -37,9 +36,6 @@ subTitle: Long Distance Calling veröffentlichen Konzert aus der Kulturkirche Al
   
 ---
 
-## unknown: Unexpected token (28:22)
-
-<!--
 **Könnt Ihr Euch noch an
 [meinen Konzertbericht](/2019/04/long-distance-calling-kulturkirche-altona/) vom
 Abend mit Long Distance Calling in der Kulturkirche Altona erinnern? Jetzt hat
@@ -67,8 +63,8 @@ Das Video wurde von Simon von der Gathen aufgenommen.
 Edition Blue-Ray plus zwei CDs, als Gatefold  LP Vinyl Set sowie in Form eines
 digitalen Audio-Downloads.
 
-<RemoteImage alt="long-distance-calling" size="medium" title=""Hier findet eine
-Liveaufzeichnung statt!""
+<RemoteImage alt={`long-distance-calling`} size="medium"
+title={`"Hier findet eine Liveaufzeichnung statt!"`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona-3__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona-3__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBgIEB//EACsQAAIBAwMACgIDAAAAAAAAAAECAwAEEQUSIQYTFBUxMkFRYXEioZHR8P/EABoBAAEFAQAAAAAAAAAAAAAAAAMAAQIEBQb/xAAeEQACAgICAwAAAAAAAAAAAAAAAQIhAxESEzGB4f/aAAwDAQACEQMRAD8A7dBb74TGGaLKlQ0eAVyPEfPrSTT7rX7vVe57pUgSxKyXN/GpHaVzlVQEYBPG77OMVPc6oLbUHVAzFADjc+3yj0BwazPSRyvEaBSByY24/fPrXLJ6Xg2pJt/Rjf8AkfAHgaKXG/e5td0iFGPupXcOcHB/s0UGT2WYRor2o30yak4juJY1ATAEhC+Ue1Rd5SYPXXd2AuD+MhP3nJHFKNJ1K31uxtNUgiJiuIg8fWuUcDkYIH1W8sscJI7DbyqGyrNKMj55z/FE5apqyLxcrQzt70NYFpJpHUMTumAUgBeSTk/4UVUulOu2tpo95LqLxWccqNACBvBd1IXO1c/qinhg7LFky9Woq/Z//9k="
@@ -107,8 +103,7 @@ Hier das Line-up:
 [Simon von der Gathen](https://www.simonvondergathen.com)
 
 [Golden Silence Festival](https://www.facebook.com/goldensilencefestival/?__tn__=K-R&eid=ARCKKjGCau5Jb4dXXJXi1NPTs3vKHJljJzfiFsXVLEz-PDBu6HeuOFz8nRDB3TqilWD3a9lna84wJI82&fref=mentions&__xts__%5B0%5D=68.ARCrdjdbMgd45XkSMVxaJRh0XPZG92Odc1iRoCDkjGadBzBI0hgjw1DxqcRGdixdrx2HULci2IQNv9wImYWW-oU6yed82a8pAAUZlHes0D6ABKCr3o5V1OoZbS0tanpiTqddwWxk_aWrZXQBFMPqJhR-urWSwPQnDmJpxMn5J7UbZuAY_ddEVT6_Efv3wNcs6N2StwqKSMJrY-nt3KvJSOiCfw9C2GajUhETpOeVbcC4hQHekX39T8bAZPMLA3i6EVWV_P6N0OXFFyH5R0cQSM2ulVzrkxYuJ-B-nFv-lTwBwf7jnw3iQbWJ-VSz-k0fWiM9P8cNCqw-Yl1nsj454NKVpg)
-</div>
 
--->
+</div>
 
   

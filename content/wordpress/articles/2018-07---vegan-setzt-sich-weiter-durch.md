@@ -11,6 +11,8 @@ excerpt: Eine neue Mintel-Studie beweist, dass Deutschland weiterhin den größt
 focusKeyword: Produkteinführungen
 labels:
   - Analyse
+  - Ernährung
+  - Ernährung & Gesundheit
   - GNPD
   - Inhaltsstoffe
   - Marktstudie
@@ -19,9 +21,9 @@ labels:
   - planzliches Protein
   - Produkteinführungen
   - vegan
+  - vegane Ernährung
   - vegane Lebensmittel
   - vegane Produkte
-  - Vegane Produkte
   - vegane Produkteinführungen
   - vegetarisch
 type: Artikel
@@ -57,7 +59,7 @@ als verdreifacht.
 ## Immer mehr vegane Produkteinführungen
 
 Insgesamt werden inzwischen fast doppelt so viele 
-[vegane Produkte](/category/vegan-2/produkte/) vorgestellt werden, wie
+[vegane Produkte](/category/vegan/vegane-produkte/) vorgestellt werden, wie
 vegetarische. Nur noch rund acht Prozent tragen das Label "vegetarisch". Das
 Label "vegan" findet jedoch bereits auf stolzen 14 Prozent.
 
@@ -68,13 +70,11 @@ klarer Trend ab: Während sich die Zahl der vegetarischen Markteinführungen
 konstant hält, hat sich die der veganen innerhalb der letzten fünf Jahre mit 175
 Prozent weltweit mehr als verdoppelt.
 
-<RemoteImage
-  alt="Produkteinführungen"
-  size="large"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_mintel__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_mintel__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAIDBAYFBwj/xAAsEAACAQMDAgQFBQAAAAAAAAABAgMEBREAEiEGQQcTInEUFSMxMjNRYXLB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIA/8QAIBEAAgEEAQUAAAAAAAAAAAAAAQIAAxESMaETIVFhkf/aAAwDAQACEQMRAD8A6MqmWa61EUd5SFkMatBzuRmHpH5D8scDGlG3XBXQfMJHXbhiMr/GfuffWp+rmZPE24lCVb5taeV4P6T6unhp1LSr0La2u9yT4wxl5DK3qIadkUn3OBp3oFVDD1zAp182K21fg2lijttzLANcXUDndycnjtke+pFJbqyGqjlmuUkyLnchTG7jjv8A5qU9yokVmeqgUKHZiXHAQ4cn2JAOlrW0zzeUs8Rk3mPaGGdwGSMfuAc6CPMJX9G2iuu0lxnhZqqSeGodi5wWiBCcAjGATqDD4cdOpAkT0jOEjjiH1GHpSXzVH37Mc6NGrFRxomTgviNV3QnTe2WKWgd1ljmVvrsOJXDv37soOnqLpix0t3guEFE61aVMlSr+cxxI6hGOP6gDGjRrdV9ZH7KHbU//2Q==" />
+<RemoteImage alt={`Produkteinführungen`} size="large" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_mintel__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_mintel__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAIDBAYFBwj/xAAsEAACAQMDAgQFBQAAAAAAAAABAgMEBREAEiEGQQcTInEUFSMxMjNRYXLB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIA/8QAIBEAAgEEAQUAAAAAAAAAAAAAAQIAAxESMaETIVFhkf/aAAwDAQACEQMRAD8A6MqmWa61EUd5SFkMatBzuRmHpH5D8scDGlG3XBXQfMJHXbhiMr/GfuffWp+rmZPE24lCVb5taeV4P6T6unhp1LSr0La2u9yT4wxl5DK3qIadkUn3OBp3oFVDD1zAp182K21fg2lijttzLANcXUDndycnjtke+pFJbqyGqjlmuUkyLnchTG7jjv8A5qU9yokVmeqgUKHZiXHAQ4cn2JAOlrW0zzeUs8Rk3mPaGGdwGSMfuAc6CPMJX9G2iuu0lxnhZqqSeGodi5wWiBCcAjGATqDD4cdOpAkT0jOEjjiH1GHpSXzVH37Mc6NGrFRxomTgviNV3QnTe2WKWgd1ljmVvrsOJXDv37soOnqLpix0t3guEFE61aVMlSr+cxxI6hGOP6gDGjRrdV9ZH7KHbU//2Q=="
+/>
 
 ## Rasantes Wachstum veganer Produkte
 

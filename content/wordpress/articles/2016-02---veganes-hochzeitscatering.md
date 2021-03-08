@@ -17,7 +17,8 @@ labels:
   - Hamburg
   - Hamburg vegan
   - vegan
-  - Vegane Produkte
+  - Vegane Lokale
+  - vegane Lokale
   - Vegane Rezepte
   - veganes Café
   - veganes Catering

@@ -42,9 +42,14 @@ thumbnailId: "10299"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_16444940546_96d1f814da_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_16444940546_96d1f814da_o__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYEBQgH/8QALhAAAQQABQIEBQUBAAAAAAAAAQIDBBEABRIhMQZBBxMiUSNhcYGhFBVDUnKx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUG/8QAIxEAAgIBAwMFAAAAAAAAAAAAAQIAAxEEBRITIUEUIjFRcf/aAAwDAQACEQMRAD8AD4u+KcqHNVlHTr6RPQoGRIsFLIG/lpvbUe98D5naL0R41ykto/fI2wvXJg+pI/2g/mjiN1b4QliZIf6ZcXLdctacunLCX3FXZLbh9Dx+RpXyOFTozIjlLkzqbqaBJZj5e6I0bLZTamzOnchpSdvhorWu+wre6wW92vYse0v0V6WmgAe4/XnP7Ncwc6i/oY7777LfnNpd+KQ2EpULTqCq0kjej2wRx9ma2nQphRUNYbbWDY99jv8AUYzhlbWYZsheZ53mCp82QfNLixt6gSTXAHAAoUAAOMAzFp/L/LfguOMutnd1BUk7EWAU0ffviJZuCh+mvxFLtBZeTHBmis2yyLmDekpRThopUnUgn6dvqMcL8V4T0TqfLk5nImymGmR5SJDxcbZSVG6UeEEAar3OlIvHX0zFvLbaU4W27sOJNAn255wp+LcCVMydqbEbMhyJaHUBIUXWlcmjzRANdtzhl5fBCwmj4JarPFCJMaTFCyUa1pKk7BKjYrUR9uB2xW51IShpYcGoEbm6oULH/NsK7WYPxi4v1hwKKgpR9Iv+WjwNiCP7fYYrZWZrmIdbbS4GiqxfDfuTX4xH9KWbPiaIuB3n/9k=
-subTitle: Mit Zimtzucker und warmen Erdbeeren
+subTitle: Mit Zimtzucker und warmen Erdbeeren
   
 ---
+
+**Ein absoluter Frühstücks-Alltime-Favorite von mir sind Waffeln. Waffeln in
+allen vorstellbaren Variationen, hergestellt aus den verschiedensten Kreationen.
+Vor kurzem hatte ich sonntags mal wieder Lust drauf und habe mir dieses Rezept
+hier ausgedacht. Mit Beilagen reicht die Menge gut für 2 - 3 Personen.**
 
 Natürlich könnt Ihr alle Zutaten bei Bedarf auch wieder verdoppeln/halbieren
 bzw. durch andere ersetzen. Der Phantasie sind keine Grenzen gesetzt. Lediglich
@@ -52,8 +57,9 @@ bei den Bananen sowie beim Backpulver handelt es sich um eine Grundzutaten, die
 nicht nur für den Geschmack, sondern auch für die Festigkeit der Waffeln
 verantwortlich ist, die solltet Ihr auf keinen Fall weglassen.
 
-## Zutaten- 2 Bananen
+## Zutaten
 
+- 2 Bananen
 - 200 g Dinkel-Vollkornmehl
 - 1 Vanilleschote
 - 12 g Weinsteinbackpulver
@@ -67,12 +73,18 @@ verantwortlich ist, die solltet Ihr auf keinen Fall weglassen.
 - Evtl. etwas Rum
 - Zimt und Zucker zum Bestäuben
 - Gefrorene Erdbeeren oder anderes Obst als Beilage
-- Kokosöl zum Backen## Benötigt wird- 1 Waffeleisen
+- Kokosöl zum Backen
+
+## Benötigt wird
+
+- 1 Waffeleisen
 - 1 große Rührschüssel
 - Quirl oder Stabmixer
 - Löffel
 - Messer
-- Großer Teller## Zubereitung
+- Großer Teller
+
+## Zubereitung
 
 Die Bananen mit dem Stabmixer pürieren und nach und nach die Apfelsüße, das
 Backpulver, das Wasser, das Mehl, die Kokosmilch, das Kokosöl, das Salz und den
@@ -83,7 +95,7 @@ Etwas Kokosöl auf das Waffeleisen geben und erhitzen. Mit dem Löffel den Teig
 auf das Eisen träufeln und Waffeln ausbacken. Zwischendurch das gefrorene Obst
 in der Mikrowelle erwärmen.
 
-Die fertigen Bananenwaffeln mit Zimt und Zucker bestäuben und zusammen mit dem
+Die fertigen Bananenwaffeln mit Zimt und Zucker bestäuben und zusammen mit dem
 Obst servieren.
 
 Guten Appetit! &lt;3

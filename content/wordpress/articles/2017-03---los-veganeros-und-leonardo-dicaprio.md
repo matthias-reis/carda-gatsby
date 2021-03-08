@@ -12,8 +12,8 @@ excerpt: Der Frühling ist endlich da! Und mit ihm Los Veganeros 2! Im neuen Wel
 focusKeyword: Los Veganeros
 labels:
   - Before The Flood
-  - Darum vegan
   - Delikat Rayne
+  - Geschichten & Erlebtes
   - go vegan
   - Hamburg
   - Harald Ullmann
@@ -46,13 +46,11 @@ subTitle: Das neue Welt Vegan Magazin ist da!
   
 ---
 
-<RemoteImage
-  alt="Los Veganeros"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33072363362_5d21a8c88a_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33072363362_5d21a8c88a_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAApEAACAQMEAQIGAwAAAAAAAAABAgMEBREABhIhMQcTFBVBUWGBcdHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAERIhAyIx8P/aAAwDAQACEQMRAD8Ak7hV01go7bJVR0tXO4fnA07QRuwxnmCOZ+nQ/nOmFPvtobtRW28bYtMtrnZBCaanall5sQBiRyesthsjrP5GuTdEMaNtuSOjtyVtXTsWcgyRxZlCAxKxAHLDE9frV5t2w2zcm794W67JHW/KpaA00sTCGSF+RVgJEHLsKvRzj6Y0VXruJjuK4N42ia3VMsGxZjB8UaOT3LwTiTBz0VIAAySR4Hel93ko2t9Zcq+SC3ZllpxQtM07Q8DgKpGC3LAOcdgjWrUvpNsqnUmOz1Yy/IcblOeTEEZIz5x1n86yX1r2bQWS82/5JQtS0MlK7TDm0jqysQTliT2Cn+OqVsVEhtqPkzht73+KWmSlmt8bUcQihdrdDKyKoyApZSR/feq23eq2+KOaD4q7UddDKQxjmt8S9jiQcpxJ7b76NGiSc6mvGikGxGd89U9zVdTJC1UkcAJjMMKCJGwfJK4c+PHLHeoO510tTKHdY4lrJJKiSOnHtrz4gdD7YUdfvRo1qBuQqMq+9n//2Q==" />
+<RemoteImage alt={`Los Veganeros`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33072363362_5d21a8c88a_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33072363362_5d21a8c88a_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAApEAACAQMEAQIGAwAAAAAAAAABAgMEBREABhIhMQcTFBVBUWGBcdHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAERIhAyIx8P/aAAwDAQACEQMRAD8Ak7hV01go7bJVR0tXO4fnA07QRuwxnmCOZ+nQ/nOmFPvtobtRW28bYtMtrnZBCaanall5sQBiRyesthsjrP5GuTdEMaNtuSOjtyVtXTsWcgyRxZlCAxKxAHLDE9frV5t2w2zcm794W67JHW/KpaA00sTCGSF+RVgJEHLsKvRzj6Y0VXruJjuK4N42ia3VMsGxZjB8UaOT3LwTiTBz0VIAAySR4Hel93ko2t9Zcq+SC3ZllpxQtM07Q8DgKpGC3LAOcdgjWrUvpNsqnUmOz1Yy/IcblOeTEEZIz5x1n86yX1r2bQWS82/5JQtS0MlK7TDm0jqysQTliT2Cn+OqVsVEhtqPkzht73+KWmSlmt8bUcQihdrdDKyKoyApZSR/feq23eq2+KOaD4q7UddDKQxjmt8S9jiQcpxJ7b76NGiSc6mvGikGxGd89U9zVdTJC1UkcAJjMMKCJGwfJK4c+PHLHeoO510tTKHdY4lrJJKiSOnHtrz4gdD7YUdfvRo1qBuQqMq+9n//2Q=="
+/>
 
 **Der Frühling ist endlich da. Und bald auch der zweite Teil von  _Los
 Veganeros._  Wir haben deshalb in der neuen Ausgabe ein exklusives Interview mit
@@ -64,13 +62,11 @@ und wir durften dabei viele tolle Menschen kennenlernen. Ein ganz besonderes
 Highlight ist für mich das umfangreiche Yoga-Special ab Seite 90. Ihr findet
 darin ein paar tolle Übungen, die ihr ganz leicht zu Hause nachmachen könnt.
 
-<RemoteImage
-  alt="Los Veganeros"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33100602271_24708fe69b_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33100602271_24708fe69b_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAEA//EACoQAAIBAwMDBAAHAAAAAAAAAAECAwQFEQASIQYHURMUIjEIMkFigZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAGxEBAAIDAQEAAAAAAAAAAAAAAQACAxEhUdH/2gAMAwEAAhEDEQA/AM/brpOC8JUhKhUpKdFTdE3qs0rBtzAlsDA45GTx40vft1R2ujkkaa4Vs7U8qCQz7NvwPyKgAZ4HnXXtDL6vT085KH1aoqNhzgIijDfuyTnS++U3upKbiVhuI2LJhWBGDuGPoeNGwVx7lxq31BFmez1PTlvmpbOs0U5KRSCh3AsAOXOM4POGJ5wdFu79uo7N1PQwwSpbqKupVfcEYKSGIKhwficnOT5++dPujpKl6K2T11eqrGm9KeLjIQnBJ+84+/00G/EXKl3tVoqoKiCWSmneCX5DCpKm5cjzmM/3oY06WZq81o59gPpbuk3S/TVPSpamqTGzSl2qtoJc7sY2cAcD+NZ7z30rrrV0U5s0UXs2ZkQVku192AQ4GAw4/wBOrVra/kBULbJjtXcvqGnpjJa0tFCN5/LQrI53Ek5ZyTrJcusr3eqWShrmtywyyK7GnoI4WLLnByoHk/fnVq1QImpyf//Z" />
+<RemoteImage alt={`Los Veganeros`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33100602271_24708fe69b_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33100602271_24708fe69b_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAEA//EACoQAAIBAwMDBAAHAAAAAAAAAAECAwQFEQASIQYHURMUIjEIMkFigZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAGxEBAAIDAQEAAAAAAAAAAAAAAQACAxEhUdH/2gAMAwEAAhEDEQA/AM/brpOC8JUhKhUpKdFTdE3qs0rBtzAlsDA45GTx40vft1R2ujkkaa4Vs7U8qCQz7NvwPyKgAZ4HnXXtDL6vT085KH1aoqNhzgIijDfuyTnS++U3upKbiVhuI2LJhWBGDuGPoeNGwVx7lxq31BFmez1PTlvmpbOs0U5KRSCh3AsAOXOM4POGJ5wdFu79uo7N1PQwwSpbqKupVfcEYKSGIKhwficnOT5++dPujpKl6K2T11eqrGm9KeLjIQnBJ+84+/00G/EXKl3tVoqoKiCWSmneCX5DCpKm5cjzmM/3oY06WZq81o59gPpbuk3S/TVPSpamqTGzSl2qtoJc7sY2cAcD+NZ7z30rrrV0U5s0UXs2ZkQVku192AQ4GAw4/wBOrVra/kBULbJjtXcvqGnpjJa0tFCN5/LQrI53Ek5ZyTrJcusr3eqWShrmtywyyK7GnoI4WLLnByoHk/fnVq1QImpyf//Z"
+/>
 
 Der zweite Vorsitzende von  _PETA_ , Harald Ullmann hat uns einiges über sein
 Leben als Tierschutzaktivist und die Arbeit des weltweit aktiven
@@ -81,13 +77,11 @@ Tierschutzvereins verraten.
 Ab Seite 118 dreht sich alles um den veganen Hotspot Israel. Das immer beliebter
 werdende Reiseziel hat nicht nur kulinarisch einiges zu bieten. Seid gespannt!
 
-<RemoteImage
-  alt="Los Veganeros"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33072366172_a79af19fff_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33072366172_a79af19fff_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAqEAACAQMEAQMCBwAAAAAAAAABAgMEBREABhIhBxMxQUKxCBQiI1GBwv/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABgRAQEBAQEAAAAAAAAAAAAAAAECABEh/9oADAMBAAIRAxEAPwDL7pWraRb5I6aKtmeNuqhWSJTkDLop/UST0PbrT03XctvsZuV4t9oq7BkZgjpFgZu+gj4JVvn56zqU3LcjR7gtgooofWaDnIiE+mWMh6C+30g4+2uvfVyrZKy4/mkdkp4UiR3U8FGMELjAySxyTnIAHxnRkeZ8l92zbNttj3HtqhusNpkpzXIXaEVUkgUhmXGSMfT/AANR+/NvwWe6vxkigoUgjMazt2mQQSSRnOQf61X+CK928aW9FkykU9THjI6/dLf61JfiFpjVS2OuVORxLTu3XQBDD7tp1ImEqvF2W0XkWvtYijttutsUkSKglaIsxC+3eRp+fLm55IZqavNvq6GVCktO9NgOpHYznRo0Ve5zI56vlyroIFhpLHbIY2yeMYZQDxBJwDjU7ubfdy3NS08FRDTU6rNzVoQ3IHiQfcnrB0aNaprUhXm//9k=" />
+<RemoteImage alt={`Los Veganeros`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33072366172_a79af19fff_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33072366172_a79af19fff_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAqEAACAQMEAQMCBwAAAAAAAAABAgMEBREABhIhBxMxQUKxCBQiI1GBwv/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABgRAQEBAQEAAAAAAAAAAAAAAAECABEh/9oADAMBAAIRAxEAPwDL7pWraRb5I6aKtmeNuqhWSJTkDLop/UST0PbrT03XctvsZuV4t9oq7BkZgjpFgZu+gj4JVvn56zqU3LcjR7gtgooofWaDnIiE+mWMh6C+30g4+2uvfVyrZKy4/mkdkp4UiR3U8FGMELjAySxyTnIAHxnRkeZ8l92zbNttj3HtqhusNpkpzXIXaEVUkgUhmXGSMfT/AANR+/NvwWe6vxkigoUgjMazt2mQQSSRnOQf61X+CK928aW9FkykU9THjI6/dLf61JfiFpjVS2OuVORxLTu3XQBDD7tp1ImEqvF2W0XkWvtYijttutsUkSKglaIsxC+3eRp+fLm55IZqavNvq6GVCktO9NgOpHYznRo0Ve5zI56vlyroIFhpLHbIY2yeMYZQDxBJwDjU7ubfdy3NS08FRDTU6rNzVoQ3IHiQfcnrB0aNaprUhXm//9k="
+/>
 
 Ab Seite 12 verrät die Tennismeisterin und Physiotherapeutin Petra Winzmöller
 ihre Gesundheitstipps und Seite 58 bis Seite 77 haben wir jede Menge traumhafte,
@@ -99,13 +93,11 @@ Und wenn Ihr damit fertig seid, schaut Ihr Euch am besten gleich  _Los Veganero
 
 Eure stolze Textchefin Anne &lt;3
 
-<RemoteImage
-  alt="Los Veganeros"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33228877995_c1f0eac3cf_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33228877995_c1f0eac3cf_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGAgUH/8QAJxAAAgIBBAICAgIDAAAAAAAAAQIDBBEABRIhBjFBURNhIjJxkcH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHhEAAwEAAgIDAAAAAAAAAAAAAQIRAAMSIjGR8PH/2gAMAwEAAhEDEQA/AF9m8ZgWqz0zYa0Y2WIyqnGMsDx7b0M9dfeTrO+x79tlXbIa8dR5bEbSRV9sp17HJVYAuea4VcnHR9560hs3l9q5vm01okWKFrMSSmQjkVV+TsT6QYHyf+6q/LN+qWrFG/tqvI1KMwS2KrGdYg7BlyY/vDD0cdfrUArcaFiKdoAD8ioxgzfhrR7n4RvJ3V413aqXVI2qpDPBiLkq8UXiMkEqe+veMEai983zaa+3lNqF2xYdRiPqLi598mPo/wCM++tXPg9g1rm/NXpWlsWGro1JAjWFh/GWV5RLIpUMZCq+z0cgZGvI9y2+bM7zMTEIuDsvRWQddn9EH7+dMB3VSRDj4ozLaB9/fnSvi+4hL8ks8bSw83MqBwrycgy/3wcYznofGrnxrf4NqKLDVtSVq1hbaxSWgSyqpVYi3DJUZz/r60aNVViTLgeNYDNmxvAi8otb4i2WsyB1MUkqNGisQcIPx/xxhfR+O9cq7ZkvbhY/JJIFm5zgBv65JPH94zo0aa33poo7Tf/Z" />
+<RemoteImage alt={`Los Veganeros`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33228877995_c1f0eac3cf_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33228877995_c1f0eac3cf_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGAgUH/8QAJxAAAgIBBAICAgIDAAAAAAAAAQIDBBEABRIhBjFBURNhIjJxkcH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHhEAAwEAAgIDAAAAAAAAAAAAAQIRAAMSIjGR8PH/2gAMAwEAAhEDEQA/AF9m8ZgWqz0zYa0Y2WIyqnGMsDx7b0M9dfeTrO+x79tlXbIa8dR5bEbSRV9sp17HJVYAuea4VcnHR9560hs3l9q5vm01okWKFrMSSmQjkVV+TsT6QYHyf+6q/LN+qWrFG/tqvI1KMwS2KrGdYg7BlyY/vDD0cdfrUArcaFiKdoAD8ioxgzfhrR7n4RvJ3V413aqXVI2qpDPBiLkq8UXiMkEqe+veMEai983zaa+3lNqF2xYdRiPqLi598mPo/wCM++tXPg9g1rm/NXpWlsWGro1JAjWFh/GWV5RLIpUMZCq+z0cgZGvI9y2+bM7zMTEIuDsvRWQddn9EH7+dMB3VSRDj4ozLaB9/fnSvi+4hL8ks8bSw83MqBwrycgy/3wcYznofGrnxrf4NqKLDVtSVq1hbaxSWgSyqpVYi3DJUZz/r60aNVViTLgeNYDNmxvAi8otb4i2WsyB1MUkqNGisQcIPx/xxhfR+O9cq7ZkvbhY/JJIFm5zgBv65JPH94zo0aa33poo7Tf/Z"
+/>
 
 ## Wegweiser Welt Vegan Magazin
 

@@ -12,10 +12,10 @@ excerpt: Wolle? Das kann doch gar nicht so schlimm sein? Alles über die
   verzichten.
 focusKeyword: Wolle
 labels:
+  - 10 Fakten über Veganismus
   - Alpakawolle
   - Angora
   - Angorawolle
-  - Darum vegan
   - Gewalt beim Scheren
   - go vegan
   - Kaschmirwolle
@@ -32,6 +32,10 @@ labels:
   - Schafe scheren
   - Schäfer
   - Schafzucht
+  - Tierhaltung
+  - Tierrechte
+  - Tierrechte
+  - Tierschutz
   - vegan
   - Veganer
   - Veganer verzichten auf Wolle
@@ -48,9 +52,17 @@ thumbnailId: "9028"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_10_11501556376_ce12a81f12_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_10_11501556376_ce12a81f12_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBAUHBv/EACgQAAIBAwQBAwQDAAAAAAAAAAECAwQFEQASITEGFCJBBxNRYRWBkf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQQF/8QAGxEAAwEBAAMAAAAAAAAAAAAAAAECESEDIjH/2gAMAwEAAhEDEQA/AIngNst5r/X36T7EFDLHKw35UHBLO6EYZAqnj8gaW7+QwXzy6CWSoart4WTZHTlFZYpMBdxI9zBSSA3R+M6kWOqp6r6fX6VJX9W4idCnBdF3Y/rJORrnq6a3fy87WoQpEFVS6A44Ubjk/OcnWd463jQxL100OPxjw1YFeGvuswX3tFJPHuK55GAhP+azvzOwUkN0SqtFXVemOA0VVThgg7AABGRgYzxp8l1DssayAsirucjG7THlWulcSzSZAU7i3Y6C/oDTKmVOoFvhXWOrEEs1NBIYYWXLxM2FwRgbSPzjOi5W9oo41pqmRZWw26SPI3c5GB0AMc/OdGjVOdT0FfCiWgucNznWWpjkLbQz8gDsHjHfHX71PpXmp1qHijkneduCcAoo6wNGjTnbc9IP/9k=
-subTitle: 10 Fakten über Veganismus - Teil VI
+subTitle: 10 Fakten über Veganismus - Teil VI
   
 ---
+
+## von gebrochenen Knochen und Lebendrupf
+
+_ **
+[Hier gehts zu Teil 5 des Artikels](/2014/09/pflanzenmilch-wieso-denn-blos/) **
+_ ** [](//2014/09/09/pflanzenmilch-wieso-denn-blos/) Einige Tage sind vergangen,
+seit der letzte Teil meiner Serie "10 Fakten über Veganismus" erschienen ist.
+Hier ist nun Teil 6 für Euch.**
 
 Vegan ist ein Prozess. Zu Beginn meiner Serie "Zehn Fakten über Veganismus" trug
 diese noch den Titel "10 Fakten über vegane Ernährung". Natürlich ist das Thema
@@ -58,13 +70,12 @@ aber viel weitgreifender und betrifft nicht nur die Ernährung.
 
 ### Jeden Tag neue Erkenntnisse
 
-<RemoteImage
-  alt="Glückliche Schafe?"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Glückliche Schafe?"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501753853_8ce53b76af_b__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501753853_8ce53b76af_b__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAYHBf/EACcQAAEDBAEEAgIDAAAAAAAAAAECAwQABREhQQYSEzEikUKxYXGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBf/EABoRAQEBAAMBAAAAAAAAAAAAAAEAAgMRMRL/2gAMAwEAAhEDEQA/AJzLweT83CE49Akfqnnl3GW00mxC3vuv6b8zqxo4Gcflv+sVmcCbeLjckQITMiS8rIWwhQbPGTkHQB5zoe81okSzXRp9T0q7WhLyWyAyta8BXOVY1jGNe9+6bXKUs4Z+Eze4sCQ5cmWJEsFQbbiskJyOCrfs84rLupeoermZT6JbS7clICinwpASk+sKOc75z9VYeoL3MsS0x3GThwqJCHC4FFJGT3cpII37qvdWz5FxsLM6E46iKtfifj/nsaI57cgg/wA4qJyr0NRwHk7Z7qILpcjpUw4U+JTjeO4pI2M4+6R2XHdWnxxVKKc/Jwd2+f8AaKKzHT5D6eqM/LeXtbbXbrnX0fqubJceBykJCU7AST+qKKOWUb//2Q==" />
+<RemoteImage alt={`Glückliche Schafe?`} size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Glückliche Schafe?`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501753853_8ce53b76af_b__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501753853_8ce53b76af_b__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAYHBf/EACcQAAEDBAEEAgIDAAAAAAAAAAECAwQABREhQQYSEzEikUKxYXGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBf/EABoRAQEBAAMBAAAAAAAAAAAAAAEAAgMRMRL/2gAMAwEAAhEDEQA/AJzLweT83CE49Akfqnnl3GW00mxC3vuv6b8zqxo4Gcflv+sVmcCbeLjckQITMiS8rIWwhQbPGTkHQB5zoe81okSzXRp9T0q7WhLyWyAyta8BXOVY1jGNe9+6bXKUs4Z+Eze4sCQ5cmWJEsFQbbiskJyOCrfs84rLupeoermZT6JbS7clICinwpASk+sKOc75z9VYeoL3MsS0x3GThwqJCHC4FFJGT3cpII37qvdWz5FxsLM6E46iKtfifj/nsaI57cgg/wA4qJyr0NRwHk7Z7qILpcjpUw4U+JTjeO4pI2M4+6R2XHdWnxxVKKc/Jwd2+f8AaKKzHT5D6eqM/LeXtbbXbrnX0fqubJceBykJCU7AST+qKKOWUb//2Q=="
+/>
 
 Doch auch das gehört sicherlich zu dem Prozess dazu, in dem man sich als
 "Neu-Veganer\*innen" befindet. Jeden Tag kommt man zu neuen Erkenntnissen und
@@ -75,7 +86,7 @@ Natürlich habe ich mich mit der Umstellung auf vegan auch dafür entschieden, i
 Zukunft bewusst darauf zu achten, keine Kleidungsstücke, die **Wolle** enthalten
 und Kosmetikprodukte mit Lanolin (Wollfett) mehr zu erstehen.
 
-Auch in der Vergangenheit habe ich mich derer nur extrem selten bedient, da ich
+Auch in der Vergangenheit habe ich mich derer nur extrem selten bedient, da ich
 eine ziemliche Allergie zu haben scheine, meine Haut juckt und brennt (und das
 sogar, wenn ich etwas unter dem Kleidungsstück trage, welches die Wolle
 enthält), ich bekomme rote Augen und werde von Niesanfällen geplagt, sobald
@@ -87,13 +98,12 @@ Kosmetik.
 
 ### Romantisierte Beiträge im Fernsehen
 
-<RemoteImage
-  alt="Schafe"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Schafe."
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11354273536_d4beb822f5_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11354273536_d4beb822f5_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwUE/8QAKhAAAQQBAwMDAwUAAAAAAAAAAQIDBBEABRIhBhMxIkFxFJGhQ1FhgfD/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMSMVH/2gAMAwEAAhEDEQA/AF9LpBJVvSnjzf5xj07SYytNjS1xdQmy5QtLMNCgplNeVgoP3uuRV+cV0ymP1ZD44om9vv8AGaGl6qtuV3Ibz5XQQaX6eBSVK+L2gZncLXbKExjeMY+lOl35UkCZo8luM44lPdlp7KG03ajSqUSQAPSPc5Zr/TulaPEkHdImPb9p31HDFg7SEi+4DRqjxX85ls9cSp0oMFLqXO1ZHkgmvf8A3jFjUtenzIbIecU2w9b5QVbyg3XP7cJBrxyT75RSmY+h1koglpJUnb6QB8n75Rqrn0KohZ3WpVnmgTV3QwwyKfRCRzI1siMsIjNhK0JJSTYok8fjJuPKdgNyUU0e2VFKRxQPj+8MMawj/9k=" />
+<RemoteImage alt={`Schafe`} size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Schafe.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11354273536_d4beb822f5_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11354273536_d4beb822f5_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwUE/8QAKhAAAQQBAwMDAwUAAAAAAAAAAQIDBBEABRIhBhMxIkFxFJGhQ1FhgfD/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMSMVH/2gAMAwEAAhEDEQA/AF9LpBJVvSnjzf5xj07SYytNjS1xdQmy5QtLMNCgplNeVgoP3uuRV+cV0ymP1ZD44om9vv8AGaGl6qtuV3Ibz5XQQaX6eBSVK+L2gZncLXbKExjeMY+lOl35UkCZo8luM44lPdlp7KG03ajSqUSQAPSPc5Zr/TulaPEkHdImPb9p31HDFg7SEi+4DRqjxX85ls9cSp0oMFLqXO1ZHkgmvf8A3jFjUtenzIbIecU2w9b5QVbyg3XP7cJBrxyT75RSmY+h1koglpJUnb6QB8n75Rqrn0KohZ3WpVnmgTV3QwwyKfRCRzI1siMsIjNhK0JJSTYok8fjJuPKdgNyUU0e2VFKRxQPj+8MMawj/9k="
+/>
 
 Seit meiner Ausbildung in einem klassischen Modegeschäft habe ich mich nicht
 mehr wirklich eingehend mit der Herkunft von Wolle beschäftigt, einfach auch,
@@ -103,7 +113,7 @@ hatte.
 Mal sah ich einen romantisierten Beitrag im öffentlich rechtlichen Fernsehen
 über einen irischen Wollfarmer, mal überflog ich einen **PETA** -Artikel über
 die miserablen Zustände in neuseeländischen Massenbetrieben, doch beschäftigte
-ich mich noch mehr mit der Pelzindustrie. Die wirkliche Erkenntnis, was auch
+ich mich noch mehr mit der Pelzindustrie. Die wirkliche Erkenntnis, was auch
 hierzulande mit Tieren in den Fängen der Wollgewinnungsmaschinerie passiert, kam
 erst vor kurzem.
 
@@ -130,13 +140,12 @@ Tieren und wie wird diese Wolle gewonnen?
 
 ### Schurwolle
 
-<RemoteImage
-  alt="Schafe am Wegesrand"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Schafe am Wegesrand."
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14259833145_d42874d205_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14259833145_d42874d205_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAArEAACAQMDAwMCBwAAAAAAAAABAgMEBREABiESEzFRYXEUIiQzQUKBobH/xAAXAQEAAwAAAAAAAAAAAAAAAAADAQQF/8QAIREAAQQBAwUAAAAAAAAAAAAAAQACAxESEyExQWGh4fD/2gAMAwEAAhEDEQA/AMopKqBHZq6WeKQSdsRKvSWIPqeQM/r7e+rjbUctNeWWlZEkDjpPcI7itzkn+ePTGuhdvbfmFKbxVmsMtQtPBJbqYlgGbj75CCFwpIOP9xq/s9v2pZrULraKeorK2FEJjmLSTgFwORwPDcjHBPJ41liLMWDX3ZDg4qEuGz77XRUSphRTySuiGdZUi6z5ABJPx7edIL7si5N3ZpvpYyCuVkfyFXpUcD0GdbXWbnaalmitNoovxEYamlq1IiQup/M48qxC/wB41PU9+3pJa6mpulstgDxs6BGWUZBKhcADjH3DOTjHxp2wSkbO8e1OkB1S8Xit3g8Us9DRipjh6Y+pRkqP2+wBPHpnVDt2wrbpJa2uhemqGz2limUqucZ+0Y4POQc50aNNDCy8zyUh5tURrqanpUgi6UgUYWPOc/PqffSStusYDFcL8ADRo1daEbiv/9k=" />
+<RemoteImage alt={`Schafe am Wegesrand`} size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Schafe am Wegesrand.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14259833145_d42874d205_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14259833145_d42874d205_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAArEAACAQMDAwMCBwAAAAAAAAABAgMEBREABiESEzFRYXEUIiQzQUKBobH/xAAXAQEAAwAAAAAAAAAAAAAAAAADAQQF/8QAIREAAQQBAwUAAAAAAAAAAAAAAQACAxESEyExQWGh4fD/2gAMAwEAAhEDEQA/AMopKqBHZq6WeKQSdsRKvSWIPqeQM/r7e+rjbUctNeWWlZEkDjpPcI7itzkn+ePTGuhdvbfmFKbxVmsMtQtPBJbqYlgGbj75CCFwpIOP9xq/s9v2pZrULraKeorK2FEJjmLSTgFwORwPDcjHBPJ41liLMWDX3ZDg4qEuGz77XRUSphRTySuiGdZUi6z5ABJPx7edIL7si5N3ZpvpYyCuVkfyFXpUcD0GdbXWbnaalmitNoovxEYamlq1IiQup/M48qxC/wB41PU9+3pJa6mpulstgDxs6BGWUZBKhcADjH3DOTjHxp2wSkbO8e1OkB1S8Xit3g8Us9DRipjh6Y+pRkqP2+wBPHpnVDt2wrbpJa2uhemqGz2limUqucZ+0Y4POQc50aNNDCy8zyUh5tURrqanpUgi6UgUYWPOc/PqffSStusYDFcL8ADRo1daEbiv/9k="
+/>
 
 "Schurwolle", das klingt zunächst nicht mal nach Tierquälerei, denn schließlich
 werden die **Schafe** , von denen diese Wolle stammt, ja "nur" geschoren. Oder?
@@ -144,7 +153,7 @@ Viele der Menschen, mit denen ich mich bisher zu dem Thema ausgetauscht habe,
 waren der Meinung, die Schafe müssten sogar geschoren werden, um nicht leiden zu
 müssen. Ein bisschen erinnerte mich das schon wieder an
 [die Geschichte mit der Milchindustrie](//2014/09/09/pflanzenmilch-wieso-denn-blos/)
-und die landläufige Meinung der Menschen, Kühe würden leiden, würden sie nicht
+ und die landläufige Meinung der Menschen, Kühe würden leiden, würden sie nicht
 gemolken. Also rein ins Internet.
 
 Fakt ist, dass Schafen, hätten sich nicht mal wieder die Menschen eingemischt,
@@ -164,7 +173,7 @@ Keltischen vor. Zudem in ausgestorbenen Sprachen wie Altindisch und Altnordisch.
 
 Eine Verwandschaft mit dem lateinischen wort "vellere", das ins Deutsch
 übersetzt so viel wie "rupfen" bedeutet (lateinisch für "Wolle" ist "vellus"),
-soll bis heute ungeklärt sein, würde dies jedoch beschreiben. Der Wollproduktion
+soll bis heute ungeklärt sein, würde dies jedoch beschreiben. Der Wollproduktion
 unserer heutigen Schafe liegt ein langer Prozess züchterischer Veränderungen
 zugrunde.
 
@@ -173,13 +182,12 @@ Pflanzenfasern, ab diesem Zeitpunkt nahm die Entwicklung ihren Lauf.
 
 ### Moderne Wollproduktion in Deutschland
 
-<RemoteImage
-  alt="Schaf"
-  size="thumbnail"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Schaf."
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_13873616033_2496f567af_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_13873616033_2496f567af_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKxAAAgEDAwMDAgcAAAAAAAAAAQIDBAURABIhBjFhE0FRFCJCcYGRodHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAGhEBAAMBAQEAAAAAAAAAAAAAAQACERJBkf/aAAwDAQACEQMRAD8Aw1taFqhlaKaNNowGUsGPIx28fxp7vodqRyxpyNpPIHjn/e2oaOeOktzV1XNU01BEFDsq73dnJ2AAnJxgk47Z/TWtt9vprhRiQXmhEKv6ZxveTcPZgAAD5zrA1GWa4azmF7nFJHJ6SLhmxtbkHHH5dtGtT1NZKulLrLIjxKOGBJckj4YA4xj50aqVrDzsp9M3i2zWyuoLjbjXR1SRmNthPpshyBg4G0555/fVaz3WSz3Kpr6CjMKqyj6WYCcMpH3OD7N8DydIqSalj9JKgfcy43R5YjyOOO+nr11Dt2bcqVADMCCnHcHgE/3otT7H0sQdT9QdQXWsklWiqVIbCkqABx+H59tGrtxuaDckElftOVAUIVYeM849tGqFsMyFN9n/2Q==" />
+<RemoteImage alt={`Schaf`} size="thumbnail"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Schaf.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_13873616033_2496f567af_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_13873616033_2496f567af_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKxAAAgEDAwMDAgcAAAAAAAAAAQIDBAURABIhBjFhE0FRFCJCcYGRodHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAGhEBAAMBAQEAAAAAAAAAAAAAAQACERJBkf/aAAwDAQACEQMRAD8Aw1taFqhlaKaNNowGUsGPIx28fxp7vodqRyxpyNpPIHjn/e2oaOeOktzV1XNU01BEFDsq73dnJ2AAnJxgk47Z/TWtt9vprhRiQXmhEKv6ZxveTcPZgAAD5zrA1GWa4azmF7nFJHJ6SLhmxtbkHHH5dtGtT1NZKulLrLIjxKOGBJckj4YA4xj50aqVrDzsp9M3i2zWyuoLjbjXR1SRmNthPpshyBg4G0555/fVaz3WSz3Kpr6CjMKqyj6WYCcMpH3OD7N8DydIqSalj9JKgfcy43R5YjyOOO+nr11Dt2bcqVADMCCnHcHgE/3otT7H0sQdT9QdQXWsklWiqVIbCkqABx+H59tGrtxuaDckElftOVAUIVYeM849tGqFsMyFN9n/2Q=="
+/>
 
 "Blutige Massenzucht von Wollschafen? Das gibts doch nur in Australien. Bei uns
 gehts den Tieren doch gut!" Natürlich kann man diesen Eindruck bekommen, wenn
@@ -203,12 +211,13 @@ Transportkosten zur Sammelstelle.
 ### Schwerpunkt auf der Fleischproduktion
 
 <RemoteImage
-  alt="Wenn ihre Zuchtleistung nachgelassen hat, wird sie ihren Kindern in den Tod folgen"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Wenn ihre Zuchtleistung nachgelassen hat, wird sie ihren Kindern in den Tod folgen."
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501550486_c0fb2d0090_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501550486_c0fb2d0090_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBgIEB//EACkQAAEDAwMDBAIDAAAAAAAAAAECAwQABRESEzEGByEUQVFxIjJhkbH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAMEBf/EABwRAAICAwEBAAAAAAAAAAAAAAABAiEDERITMf/aAAwDAQACEQMRAD8AVWuMJkluPHiMF1fgKI04+znAFXcdubntbnrrZ5OMBaz/AInmuUXe8+kjlyM4FSm1tr20rB8JIKhg8fjn4p71B3amWWfDRbob7cTbbKlyiSl1WNSkjHBGQP7rg4sXasug9q2Wi59ETLe7DbemwUKlSEsNErVkLUQASNOQP5qqXOC/DmSYkoMKdYcW0spVqTqSog4P2OaRdwO7DnUkOM2mGmO8y6ZG6peog4xpA+Pfz74rLpqTKuNnYlypBddeKllS1g4GogDjHtSy4fOCkGel8N0RbdL1CTGaW4UFOpYzqB5HjHipLjboktwl6OhzcCUrTj9tKQkHP0kCiisvUlWyNUKX7HbWUoWYIUQMg+cpGc81PGZYiQ2o8JvbZSk6QTwDk5PzRRTcpNWwpUf/2Q==" />
+alt={`Wenn ihre Zuchtleistung nachgelassen hat, wird sie ihren Kindern in den Tod folgen`}
+size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Wenn ihre Zuchtleistung nachgelassen hat, wird sie ihren Kindern in den Tod folgen.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501550486_c0fb2d0090_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501550486_c0fb2d0090_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBgIEB//EACkQAAEDAwMDBAIDAAAAAAAAAAECAwQABRESEzEGByEUQVFxIjJhkbH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAMEBf/EABwRAAICAwEBAAAAAAAAAAAAAAABAiEDERITMf/aAAwDAQACEQMRAD8AVWuMJkluPHiMF1fgKI04+znAFXcdubntbnrrZ5OMBaz/AInmuUXe8+kjlyM4FSm1tr20rB8JIKhg8fjn4p71B3amWWfDRbob7cTbbKlyiSl1WNSkjHBGQP7rg4sXasug9q2Wi59ETLe7DbemwUKlSEsNErVkLUQASNOQP5qqXOC/DmSYkoMKdYcW0spVqTqSog4P2OaRdwO7DnUkOM2mGmO8y6ZG6peog4xpA+Pfz74rLpqTKuNnYlypBddeKllS1g4GogDjHtSy4fOCkGel8N0RbdL1CTGaW4UFOpYzqB5HjHipLjboktwl6OhzcCUrTj9tKQkHP0kCiisvUlWyNUKX7HbWUoWYIUQMg+cpGc81PGZYiQ2o8JvbZSk6QTwDk5PzRRTcpNWwpUf/2Q=="
+/>
 
 Rund 1,6 Millionen Schafe werden derzeit in Deutschland gehalten, 10.700 davon
 sind Milchschafe (Zahlen: Statistisches Bundesamt 2013). Der Schwerpunkt liegt
@@ -218,7 +227,7 @@ Lammfleisch verzehrt.
 Schafe werden außerdem zur Landschaftspflege zum Beispiel an Hängen, Deichen
 oder an Autobahnrandstreifen eingesetzt. Nach und nach wird bei uns immer mehr
 auf die Zucht von sogenannten "Landschaftsschafen"(zum Beispiel Kamerunschafe)
-gesetzt, sie müssen nicht geschoren werden. In der Fleischzucht werden vor allem
+gesetzt, sie müssen nicht geschoren werden. In der Fleischzucht werden vor allem
 die wenige Wochen alten Lämmchen geschlachtet.
 
 Auch bei uns berichten **Schafzüchter** untereinander von Gewalt, die von
@@ -229,15 +238,14 @@ Merinoschafen, die gemischte, dunklere Wolle der anderen Rassen wird zum größt
 Teil ins Ausland transportiert und dort zu Filz, Teppichen, Dämmmaterial oder
 Pellets verarbeitet. Der größte Abnehmer ist hier China.
 
-### Wolle für die Bekleidungsindustrie stammt aus Australien, China und Neuseeland
+### Wolle für die Bekleidungsindustrie stammt aus Australien, China und Neuseeland
 
-<RemoteImage
-  alt="Merinoschaf"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Merinoschaf."
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501556376_ce12a81f12_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501556376_ce12a81f12_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBAUHBv/EACgQAAIBAwQBAwQDAAAAAAAAAAECAwQFEQASITEGFCJBBxNRYRWBkf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQQF/8QAGxEAAwEBAAMAAAAAAAAAAAAAAAECESEDIjH/2gAMAwEAAhEDEQA/AIngNst5r/X36T7EFDLHKw35UHBLO6EYZAqnj8gaW7+QwXzy6CWSoart4WTZHTlFZYpMBdxI9zBSSA3R+M6kWOqp6r6fX6VJX9W4idCnBdF3Y/rJORrnq6a3fy87WoQpEFVS6A44Ubjk/OcnWd463jQxL100OPxjw1YFeGvuswX3tFJPHuK55GAhP+azvzOwUkN0SqtFXVemOA0VVThgg7AABGRgYzxp8l1DssayAsirucjG7THlWulcSzSZAU7i3Y6C/oDTKmVOoFvhXWOrEEs1NBIYYWXLxM2FwRgbSPzjOi5W9oo41pqmRZWw26SPI3c5GB0AMc/OdGjVOdT0FfCiWgucNznWWpjkLbQz8gDsHjHfHX71PpXmp1qHijkneduCcAoo6wNGjTnbc9IP/9k=" />
+<RemoteImage alt={`Merinoschaf`} size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Merinoschaf.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501556376_ce12a81f12_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501556376_ce12a81f12_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBAUHBv/EACgQAAIBAwQBAwQDAAAAAAAAAAECAwQFEQASITEGFCJBBxNRYRWBkf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQQF/8QAGxEAAwEBAAMAAAAAAAAAAAAAAAECESEDIjH/2gAMAwEAAhEDEQA/AIngNst5r/X36T7EFDLHKw35UHBLO6EYZAqnj8gaW7+QwXzy6CWSoart4WTZHTlFZYpMBdxI9zBSSA3R+M6kWOqp6r6fX6VJX9W4idCnBdF3Y/rJORrnq6a3fy87WoQpEFVS6A44Ubjk/OcnWd463jQxL100OPxjw1YFeGvuswX3tFJPHuK55GAhP+azvzOwUkN0SqtFXVemOA0VVThgg7AABGRgYzxp8l1DssayAsirucjG7THlWulcSzSZAU7i3Y6C/oDTKmVOoFvhXWOrEEs1NBIYYWXLxM2FwRgbSPzjOi5W9oo41pqmRZWw26SPI3c5GB0AMc/OdGjVOdT0FfCiWgucNznWWpjkLbQz8gDsHjHfHX71PpXmp1qHijkneduCcAoo6wNGjTnbc9IP/9k="
+/>
 
 Selbst die Wolle der in Deutschland gezüchteten Merinoschafe kommt von ihrer
 Feinheit nicht an die ihrer australischen Verwandten ran, daher wird auch sie
@@ -275,13 +283,12 @@ Zuchtleistung nachgelassen hat.
 
 ### Tierkinder sterben, um Tierarztkosten zu sparen
 
-<RemoteImage
-  alt="Schafe am Glastonbury Tor"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Schafe am Glastonbury Tor."
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11354464146_bb430f9a5c_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11354464146_bb430f9a5c_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcBBgMEBQj/xAAmEAABBAEDBAIDAQAAAAAAAAABAgMEEQAFEiEGEzFBByJSYXGB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAMBBAb/xAAeEQACAgICAwAAAAAAAAAAAAABAgADBBEhkQUiMf/aAAwDAQACEQMRAD8AeZ16KtS09z6gcbhxkwepNOD3benw0uE7QhbyUm6uqxS/IGuQ3epOn5WjSO7FjylvyhxsApIAKfCvZA5HGcHWH+n9X6k1TU9SiuBl9DYZYguKZ2mvstRA5UaSKquSfOIsyUX1BHclRsbM9AavMiT4xQ0lqZtIK9iwpLZri68ZWI+nMA8sLNfmrE8xNgaYqU/oTWqNrWgpjuKfPcYdCr3LNAOIN1RGXaH8hwmoQ3xJUl5DYShLywlpShVFW036PH7x2P5OpFKu2u4i6ksQVEWDkp4ObUKAJuyRfjNhpTxiBxxwEnghIKf94OGGZR+AJaH2YkTHEBtQHKvYJvJEjuG9tf03hhhrmAn/2Q==" />
+<RemoteImage alt={`Schafe am Glastonbury Tor`} size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Schafe am Glastonbury Tor.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11354464146_bb430f9a5c_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11354464146_bb430f9a5c_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcBBgMEBQj/xAAmEAABBAEDBAIDAQAAAAAAAAABAgMEEQAFEiEGEzFBByJSYXGB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAMBBAb/xAAeEQACAgICAwAAAAAAAAAAAAABAgADBBEhkQUiMf/aAAwDAQACEQMRAD8AeZ16KtS09z6gcbhxkwepNOD3benw0uE7QhbyUm6uqxS/IGuQ3epOn5WjSO7FjylvyhxsApIAKfCvZA5HGcHWH+n9X6k1TU9SiuBl9DYZYguKZ2mvstRA5UaSKquSfOIsyUX1BHclRsbM9AavMiT4xQ0lqZtIK9iwpLZri68ZWI+nMA8sLNfmrE8xNgaYqU/oTWqNrWgpjuKfPcYdCr3LNAOIN1RGXaH8hwmoQ3xJUl5DYShLywlpShVFW036PH7x2P5OpFKu2u4i6ksQVEWDkp4ObUKAJuyRfjNhpTxiBxxwEnghIKf94OGGZR+AJaH2YkTHEBtQHKvYJvJEjuG9tf03hhhrmAn/2Q=="
+/>
 
 Deutsche Schäfer haben sehr hohe Verlustraten bei Lämmern (sechs bis 13 Prozent)
 zu verzeichnen, diese sterben bei Geburtskomplikationen oder kurz nach der
@@ -314,13 +321,12 @@ Massen an Wolle sterben diese Tiere in den Sommermonaten oft an Überhitzung.
 
 ### Verstümmelung beim Mulesing
 
-<RemoteImage
-  alt="Mulesing Bild: Peta"
-  size="full"
-  title="Mulesing. Bild: Peta"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_mulesing-peta__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_mulesing-peta__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAmEAACAQMEAQUAAwAAAAAAAAABAgMEBREABhIhQQcTIjFhJDKR/8QAFwEBAAMAAAAAAAAAAAAAAAAAAwABAv/EABsRAQADAAMBAAAAAAAAAAAAAAEAAhEDEiIT/9oADAMBAAIRAxEAPwCSW627s9QLnU0tqp5q54lEkiRusccSknBYswHg/Z0+ovRjfBi5NZjEeyWaoiZVA/UZjnPjVe2xDYtq7PodvXiD3p7kyrUpCxUzSFifvkvSggZzrk316gzW3ZdG+3khooqsKYlWrUzwxkkBjGAV7xjJZiPPej79fPGYRPmW9WdnWy3rYew7Ha6CMyTxSSxz1gp2lWJ2JY8EHbfI8Qxx/mNZf1CtNS0Nutj2S8Q3HBijrKy4J7Up/szNliAOz1nP541k/Tjf1Vtjc89dWxSV9XVlgZJZXLBnA7C/RJIHjxrQ09fu3c95pbmblGfeaSHFRIqrFEoPuM0ZVlVeSgfIZzjrzquiO2iCJhK5W2GgqtttV1EbSvAj8uXE8iCQzA4+LNn7H0AANTC++n22qS3wRwQXFTWV8NHH/NPCH3Hxz44wxHfXQPX7k0aGtkuGzRUax5uXbNo2XULUWihhDxV8dBzI4u2Qnz5LjvLk4x9ddaR11kiNVU2WnmkjWtkeoqqkhWkdQ8atGvQChixOe8DI8kk0aajprJYzCf/Z" />
+<RemoteImage alt={`Mulesing Bild: Peta`} size="full"
+title={`Mulesing. Bild: Peta`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_mulesing-peta__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_mulesing-peta__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAmEAACAQMEAQUAAwAAAAAAAAABAgMEBREABhIhQQcTIjFhJDKR/8QAFwEBAAMAAAAAAAAAAAAAAAAAAwABAv/EABsRAQADAAMBAAAAAAAAAAAAAAEAAhEDEiIT/9oADAMBAAIRAxEAPwCSW627s9QLnU0tqp5q54lEkiRusccSknBYswHg/Z0+ovRjfBi5NZjEeyWaoiZVA/UZjnPjVe2xDYtq7PodvXiD3p7kyrUpCxUzSFifvkvSggZzrk316gzW3ZdG+3khooqsKYlWrUzwxkkBjGAV7xjJZiPPej79fPGYRPmW9WdnWy3rYew7Ha6CMyTxSSxz1gp2lWJ2JY8EHbfI8Qxx/mNZf1CtNS0Nutj2S8Q3HBijrKy4J7Up/szNliAOz1nP541k/Tjf1Vtjc89dWxSV9XVlgZJZXLBnA7C/RJIHjxrQ09fu3c95pbmblGfeaSHFRIqrFEoPuM0ZVlVeSgfIZzjrzquiO2iCJhK5W2GgqtttV1EbSvAj8uXE8iCQzA4+LNn7H0AANTC++n22qS3wRwQXFTWV8NHH/NPCH3Hxz44wxHfXQPX7k0aGtkuGzRUax5uXbNo2XULUWihhDxV8dBzI4u2Qnz5LjvLk4x9ddaR11kiNVU2WnmkjWtkeoqqkhWkdQ8atGvQChixOe8DI8kk0aajprJYzCf/Z"
+/>
 
 In den Körperfalten sammelt sich jede Feuchtigkeit, mit der sie in Berührung
 kommen, Regen und Urin. Fliegen legen darin ihre Larven ab, die Larven ernähren
@@ -336,7 +342,7 @@ rund um den Schwanz entfernt. Das Schaf wird fixiert und die After-Schwanz-Falte
 durch das Entfernen eines V-förmigen Hautlappens gestrafft, der Schwanz ab dem
 dritten Schwanzwirbel kupiert.
 
-2004 gab es ein Treffen der australischen Wollindustrie, bei dem der Beschluss
+2004  gab es ein Treffen der australischen Wollindustrie, bei dem der Beschluss
 gefasst wurde, bis Ende 2010 mit dem Mulesing aufzuhören, der Termin wurde
 ersatzlos gestrichen. Die einzige Änderung, die sich ergeben hat, ist, dass
 inzwischen einige Farmer ihre Tiere betäuben.
@@ -346,15 +352,16 @@ auferlegt, an das sich leider nicht alle halten.
 
 Doch Wolle stammt nicht nur von Schafen. Als Wolle bezeichnet man nach dem
 Textilkennzeichnungsgesetz grundsätzlich die weichen Haare des Fells von
-Säugetieren. <sup> [5](#5) </sup>### Angorakaninchen
+Säugetieren. <sup> [5](#5) </sup>
 
-<RemoteImage
-  alt="Angora Kaninchen Bild: Peta"
-  size="full"
-  title="Angora Kaninchen. Bild: Peta"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_angora-kaninchen-bild-peta__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_angora-kaninchen-bild-peta__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBQcE/8QAJhAAAQMDBAICAwEAAAAAAAAAAQIDBAAFEQYSITEHUSJBExQygf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQIREiExIv/aAAwDAQACEQMRAD8AwFUhEZRVJUrBPBAzim3xta7XrHVLVrkXD9RktLcLga3KURjCQDxk5+/VM3hCLo0ifL1M21OmocCGIboKkJQR/eBwo547OKbLpZNDQNRLvkK7qsYQ2S/bmF7W3uQQDzuSCQMpHfHVJNcBp3sUvIHjIaaiOXGI83OtqFpQsEht5O5W0HaMpUOQc8YqivGg49vYWYNwXPkY/M4zBa3NtNpT8gpZ7Vn0McfdaQnV1jXhBuUVUXhCGnHgsKOeARnJPqqG9aqsdgclSYjYkyAoNpjxkbG0fHoq6x75PJpenw0UYxVy2ZHGto3JWXlBQPBSMEf7V3Gs0Rw7nw48snOVrJooqMmRR03azwUWx6UxGbadhgPJ2jhfeQoffQqWdQSdRtKhPsx247bZWEBGQcAd9UUUPcRxdO0f/9k=" />
+### Angorakaninchen
+
+<RemoteImage alt={`Angora Kaninchen Bild: Peta`} size="full"
+title={`Angora Kaninchen. Bild: Peta`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_angora-kaninchen-bild-peta__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_angora-kaninchen-bild-peta__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBQcE/8QAJhAAAQMDBAICAwEAAAAAAAAAAQIDBAAFEQYSITEHUSJBExQygf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQIREiExIv/aAAwDAQACEQMRAD8AwFUhEZRVJUrBPBAzim3xta7XrHVLVrkXD9RktLcLga3KURjCQDxk5+/VM3hCLo0ifL1M21OmocCGIboKkJQR/eBwo547OKbLpZNDQNRLvkK7qsYQ2S/bmF7W3uQQDzuSCQMpHfHVJNcBp3sUvIHjIaaiOXGI83OtqFpQsEht5O5W0HaMpUOQc8YqivGg49vYWYNwXPkY/M4zBa3NtNpT8gpZ7Vn0McfdaQnV1jXhBuUVUXhCGnHgsKOeARnJPqqG9aqsdgclSYjYkyAoNpjxkbG0fHoq6x75PJpenw0UYxVy2ZHGto3JWXlBQPBSMEf7V3Gs0Rw7nw48snOVrJooqMmRR03azwUWx6UxGbadhgPJ2jhfeQoffQqWdQSdRtKhPsx247bZWEBGQcAd9UUUPcRxdO0f/9k="
+/>
 
 Beim Angorakaninchen handelt es sich um eine langhaarige Kaninchenrasse. Die
 Wolle dieser Tiere wird vor allem für Unterwäsche, Bettwäsche, Schals und Decken
@@ -378,13 +385,12 @@ aufgehängt und ihnen wird mit dem Messer die Kehle durchtrennt.
 
 ### Weitere Wollsorten
 
-<RemoteImage
-  alt="Schafe auf der Weide in Cornwall"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Schafe auf der Weide in Cornwall."
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501524574_3c0c341e5c_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501524574_3c0c341e5c_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYEBQf/xAArEAACAgEEAQEGBwAAAAAAAAABAgMEEQAFEiEGFBMxQVFhoQcVIjJSgdH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQIF/8QAHBEAAgICAwAAAAAAAAAAAAAAAAECEQMSIjFB/9oADAMBAAIRAxEAPwBI8K8dt7/ucfs1AoxsvqHZih4k9gH+RGcDTxBsm3+ORNZ3WnWj4zcVtSMJUAY4A7yFPw/3S5+G2+RbTVu1rbFXlkEkYPTEYwcfbT9Zlq7ptV6JnikgnruJA3Z44wGOB13/AFrkKh8SVbGZ7onjlmTdJ4vVYdwtc1k4qoxh392CC2B8Osn5aR7sCtx5s/POSh9+tK8M23aJNjvzbrYtPNFC7PXaQxosJI5djsklB0CMdfPVF5dfpSV69WlT9NX4ifCIV6P7cn3nrvv6a15YUltyFy16aSAo54KxGBE36hjPWpdTcrVWu0NO1LBHJD7Fo2OeQwASfqcZ+neNGjR20uw0yc2+WPyoUJ0MtM13rvCrkcuT81kBHYZWx38QMHOdUW4TTzObEhX2zoqFuGMKqhR9gNGjVi3RT//Z" />
+<RemoteImage alt={`Schafe auf der Weide in Cornwall`} size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Schafe auf der Weide in Cornwall.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501524574_3c0c341e5c_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501524574_3c0c341e5c_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYEBQf/xAArEAACAgEEAQEGBwAAAAAAAAABAgMEEQAFEiEGFBMxQVFhoQcVIjJSgdH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQIF/8QAHBEAAgICAwAAAAAAAAAAAAAAAAECEQMSIjFB/9oADAMBAAIRAxEAPwBI8K8dt7/ucfs1AoxsvqHZih4k9gH+RGcDTxBsm3+ORNZ3WnWj4zcVtSMJUAY4A7yFPw/3S5+G2+RbTVu1rbFXlkEkYPTEYwcfbT9Zlq7ptV6JnikgnruJA3Z44wGOB13/AFrkKh8SVbGZ7onjlmTdJ4vVYdwtc1k4qoxh392CC2B8Osn5aR7sCtx5s/POSh9+tK8M23aJNjvzbrYtPNFC7PXaQxosJI5djsklB0CMdfPVF5dfpSV69WlT9NX4ifCIV6P7cn3nrvv6a15YUltyFy16aSAo54KxGBE36hjPWpdTcrVWu0NO1LBHJD7Fo2OeQwASfqcZ+neNGjR20uw0yc2+WPyoUJ0MtM13rvCrkcuT81kBHYZWx38QMHOdUW4TTzObEhX2zoqFuGMKqhR9gNGjVi3RT//Z"
+/>
 
 Außer Schafwolle (Hierzu zählen Schurwolle und Merinowolle) und Angorawolle gibt
 es unter anderem Mohair, welches von der Angoraziege stammt, die von der
@@ -393,13 +399,13 @@ Kaschmirziege stammende Kaschmirwolle, Alpakas liefern uns Alpakawolle
 Nur in wenigen Punkten unterscheidet sich die Zucht bei diesen Tieren von der
 Schafzucht. So kam es zum Beispiel bei der Kaschmirziege nur zu wenigen
 züchterischen Veränderungen, bei ihrer Wollte handelt es sich speziell um die
-Unterwolle, die den Tieren während des Wollwechsels ausgekämmt wird.
+Unterwolle, die den Tieren während des Wollwechsels ausgekämmt wird.
 
 ### Zahlreiche Alternativen
 
 Man sollte meinen, dass wir auf dem heutigen Stand der Evolution andere
 Techniken entwickelt haben, uns warme Kleidung zu beschaffen und uns nicht mehr
-in die Felle anderer Säugetiere einhüllen müssen. Die gute Nachricht ist: Es ist
+in die Felle anderer Säugetiere einhüllen müssen. Die gute Nachricht ist: Es ist
 so. Doch dies sollte sich sehr dringend schneller herumsprechen.
 
 Zu den zahlreichen Alternativen zählen unter anderen Fleece, Tencel, Bambus,
@@ -408,12 +414,13 @@ Polyacryl, Sojaseide und Baumwollflanell, um hier nur einige zu nennen.
 ### Herbst- und Winterzeit ist Wollzeit
 
 <RemoteImage
-  alt="Schafe auf dem Weg zum Schlachthof A99 Richtung Österreich Bild: Monika München"
-  size="medium"
-  title="Schafe auf dem Weg zum Schlachthof A99 Richtung Österreich. Bild: Monika München"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_schafe-auf-dem-weg-zum-schlachthof-a99-richtung-c3b6sterreich-monika-mc3bcnchen__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_schafe-auf-dem-weg-zum-schlachthof-a99-richtung-c3b6sterreich-monika-mc3bcnchen__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEGBwgCBAX/xAAtEAACAQIFAwEHBQAAAAAAAAABAgMEEQAFBhIhEzFBFgdRYXGBkaEiIzKSsf/EABgBAAMBAQAAAAAAAAAAAAAAAAECBAAD/8QAIREAAQIGAgMAAAAAAAAAAAAAAQCRAgMEERNRElIUQkP/2gAMAwEAAhEDEQA/AJdTIcqhjIjlplS3uQ/62EGncv2MpnpghW1iqWI++KqtWUK5uZFkJBqep1VQqm3fewvMD9dvyXwczVZdNvDVIRROWYSK56gLEmx6/AA+Hnt4xfgnD5lipxHAfYOrO+n8r7Rz0Fh4XpcfnBiNqT2haciXY+ZrMipGsZSaWEIojVdm0IeQQefN/ODDePM6FilyDa6smk9NlEb03lZRxZCJKhN3y/c5+mNdtHaV3lH07l6SDkq1XVIftvuMV2qqbMM7natrWmzCrljkmaWZwzbE/kf1dgObKPdh3aA1PW01cuRZnUyS0skJNI0pLmM7d+wE87WXwexHxOBDWzb25FysaeDQUoHQGj+zZWgYcNtq5rX/ALYMNRs4nR2CGoCk3B6zm/5wY7Crmdi5QwjS/9k=" />
+alt={`Schafe auf dem Weg zum Schlachthof A99 Richtung Österreich Bild: Monika München`}
+size="medium"
+title={`Schafe auf dem Weg zum Schlachthof A99 Richtung Österreich. Bild: Monika München`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_schafe-auf-dem-weg-zum-schlachthof-a99-richtung-c3b6sterreich-monika-mc3bcnchen__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_schafe-auf-dem-weg-zum-schlachthof-a99-richtung-c3b6sterreich-monika-mc3bcnchen__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEGBwgCBAX/xAAtEAACAQIFAwEHBQAAAAAAAAABAgMEEQAFBhIhEzFBFgdRYXGBkaEiIzKSsf/EABgBAAMBAQAAAAAAAAAAAAAAAAECBAAD/8QAIREAAQIGAgMAAAAAAAAAAAAAAQCRAgMEERNRElIUQkP/2gAMAwEAAhEDEQA/AJdTIcqhjIjlplS3uQ/62EGncv2MpnpghW1iqWI++KqtWUK5uZFkJBqep1VQqm3fewvMD9dvyXwczVZdNvDVIRROWYSK56gLEmx6/AA+Hnt4xfgnD5lipxHAfYOrO+n8r7Rz0Fh4XpcfnBiNqT2haciXY+ZrMipGsZSaWEIojVdm0IeQQefN/ODDePM6FilyDa6smk9NlEb03lZRxZCJKhN3y/c5+mNdtHaV3lH07l6SDkq1XVIftvuMV2qqbMM7natrWmzCrljkmaWZwzbE/kf1dgObKPdh3aA1PW01cuRZnUyS0skJNI0pLmM7d+wE87WXwexHxOBDWzb25FysaeDQUoHQGj+zZWgYcNtq5rX/ALYMNRs4nR2CGoCk3B6zm/5wY7Crmdi5QwjS/9k="
+/>
 
 Schon seit einigen Wochen sieht man sie wieder in den Auslagen der Modegeschäfte
 liegen: Pullis, Schals und Socken aus Schurwolle, feine Merinounterwäsche und
@@ -429,12 +436,13 @@ Wermutstropfen, oder der erste Schritt in eine tierleidfreie Zukunft?
 
 Schwer zu sagen, wenn man derzeit die Kunstfell-Kragen, -Schals und
 -Mützenbommel sieht, die leider in den seltensten Fällen auch aus Kunststoff
-bestehen, doch dazu mehr im achten Teil meiner Serie...
+bestehen, doch dazu mehr im achten Teil meiner Serie...
 
-[_ **Hier gehts zu Teil 7 des Artikels** _](/2014/10/16/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) ##
-Inhaltsverzeichnis "10 Fakten über Veganismus"1.
-[Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+[_ **Hier gehts zu Teil 7 des Artikels** _](/2014/10/16/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
 
+## Inhaltsverzeichnis "10 Fakten über Veganismus"
+
+1.  [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
 1.  [Ich war so müde](/2014/08/ich-war-so-muede/) !
 1.  [Blutige Zahlen](/2014/08/blutige-zahlen/)
 1.  [Vitamin B12 - Mythos und Fakten](/2014/08/vitamin-b12-mythos-und-wahrheit/)
@@ -443,15 +451,19 @@ Inhaltsverzeichnis "10 Fakten über Veganismus"1.
 1.  [Honig? Das ist jetzt aber wirklich übertrieben, oder?](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
 1.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
 1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
-1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)##
-    Fußnoten-
-    [1][peta wolle aus deutschland](http://www.peta.de/wolle-deutschland#.VDgudL6USmC)
+1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)
 
+## Fußnoten
+
+- [1][peta wolle aus deutschland](http://www.peta.de/wolle-deutschland#.VDgudL6USmC)
 - [2][peta fakten über die wollindustrie](http://www.peta.de/fakten)
 - [3][myasis wikipedia](http://de.wikipedia.org/wiki/Myiasis)
 - [4][mulesing wikipedia](http://de.wikipedia.org/wiki/Mulesing)
-- [5][wikipedia wolle](http://de.wikipedia.org/wiki/Wolle)## Quellen-
-  [Statistisches Bundesamt](https://www.destatis.de/DE/Startseite.html)
+- [5][wikipedia wolle](http://de.wikipedia.org/wiki/Wolle)
+
+## Quellen
+
+- [Statistisches Bundesamt](https://www.destatis.de/DE/Startseite.html)
 - [allgaeuer-schafhalter.de](http://www.allgaeuer-schafhalter.de)
 - [aid.de](http://www.aid.de/landwirtschaft/schafe_rassen.php)
 - [focus.de](http://www.focus.de/panorama/videos/australische-scherer-blutige-wolle-schock-ueber-brutalen-umgang-mit-schafen_id_3988941.html)

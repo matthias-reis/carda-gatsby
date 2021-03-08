@@ -17,10 +17,10 @@ labels:
   - Blogleser
   - cardamon82
   - cardamonchai
+  - Geschichten & Erlebtes
   - Jubiläum
   - politisches
   - Stammleser
-  - Tagebuch
   - Tagebuch
   - weitermachen
   - Wetter
@@ -33,13 +33,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors: {}
-thumbnailId: "1837"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_05_glc3a4ser__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_05_glc3a4ser__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgAB4DASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAABgcIAQIDBAX/xAAsEAABAwMDAwIFBQAAAAAAAAABAgMEBRESAAYhIjFBBxMVUWGBoSMzcZGS/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAgX/xAAkEQABAwMEAQUAAAAAAAAAAAABAgMRAAQSBTFBURMhYXGBkf/aAAwDAQACEQMRAD8AZbiA9GdQLEqQof2DqMe4Wo7k73GkqclICn3EoV+4BZJT/lKrfXUmNnrY3KiUumy0uMsJ63WxeyiLgc2+Y0JeilKG1qjV6wlbtTlLf+GLbSlIVZCiVKTje5Kv4Fhckd9CccRkBIojKFqSSAaTZptPVEalKjzEx3VAIcUlQSsFOQIJ4PGs1H23CqciQhoKAaVa6nggW4t3886fm7NlJqeyYFJbmx2YUSe7MitPv4+0wvOzIISq4RmQnxiAPGl6ztOsbe3RUYVOZjVGAUIWh5tzqXwCCQRxa5H2GglxJOKYpjxqCclyKuj7/n0Wnoix6TCoaSklMSP1J4I6yfJN/wAaEKNuuWyttiMHXVvysrNXyBcVdQTbz1H76cvqBsihVOgQYcGuUZiswEKQlMiY2n38rlWQvwrI3B+x40J7M9NQKJKVIkwkOLZdShtycGXMsT1pI7Acc8fPSF3ZFTxkTJn4+/at3Tr5lFrlISQIIO5PUcz3xQvW92VJyGqBGdcOPVHLjNxYC+KbH882OtVyPXt0UuM8iSpLF1X/AFENkqHFzfntfj6HXegbLmLkNO1Gt0KP7RUl1caWmYpDJFispTze5x88qGquSaXTJUqE1MlusMOYNKix0MqKbC2WeRHftx89UtrFVu5IHr3U1HUmLljFB3Mx1z+zX//Z
+thumbnailId: "33196"
+remoteThumbnailImage: null
+remoteImage: null
+remoteLoadingImage: null
 subTitle: Der erste Erfolg
   
 ---
+
+**1.000 Klicks gab es für cardamonchai.com in den ersten 93 Tagen. Das
+Experiment ist geglückt, die Seite wird gut angenommen. Der Mix aus
+Kurzgeschichten, Fotos, Musik, politischen Themen und Tagebucheinträgen scheint
+anzukommen.**
 
 Eine Weile hatte ich mir überlegt, mich auf ein Thema festzulegen, doch ich
 denke, ich werde in der bewährten Art und Weise weitermachen. Die nächste
@@ -50,8 +55,8 @@ Das Wetter ist gut, die Stimmung heiter, das Wochenende war sehr entpannt dieses
 Mal. Nur noch 25 Tage bis zum Festival, die ersten Vorbereitungen laufen
 bereits.
 
-**Song des Tages:** _Biffy Clyro - Mountains_
+## Song des Tages: Biffy Clyro - "Mountains"
 
-[youtube=http://www.youtube.com/watch?v=1Dr6uTA-QKg&amp;feature=fvwrel]
+<iframe src="https://www.youtube.com/embed/NfzwM4pdyxU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
   

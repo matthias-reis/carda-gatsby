@@ -16,12 +16,12 @@ labels:
   - Einzelhandelskauffrau
   - Empathie
   - Frühling
+  - Geschichten & Erlebtes
   - hardknocklife
   - Job
   - Leben
   - Liebe
   - Menschen
-  - Prosa
   - proudofmyjob
   - schönes Wochenende
   - schönesWochenende

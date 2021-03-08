@@ -37,7 +37,7 @@ thumbnailId: "22750"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_11_Vennart-005-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_11_Vennart-005-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAUH/8QAKxAAAgECBQIFBAMAAAAAAAAAAQIDBBEABRIhMRNRBhQVQWEjJDJxgaGx/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUAAgMH/8QAJREAAgEEAAUFAQAAAAAAAAAAAQIhAAMEEQUSMVFxQWKBkcHw/9oADAMBAAIRAxEAPwDg+QweqV8cIjeVyVURROFeS97hSbi9rn+Mb3h3xhnWT0vpVBWtHSPMrAFd0Oocdr4TMujmNYBT6VkBBW72PxzhhyrK6/zMcnlql1kkQNtyNYJv73uMdV4HlBrBt3xzIO/oZmgczFt5ICum5303WjQ5MtdQ+IcwhaOWpoZwfLvHq1RN1NbnfhbA9+MKEzxinjkQqHufwPIvtt7Y0qla6squlTxTOXkmVAiEsV1kta3PP94q+kzrE/29Q8SSvGG0WuQxG/bGOfeXORW9uxHQ6WPEk/NWsrctlp2NxHT+NRlVXIanoxhVZ9IDkXsP1t/uH7KaqopIKdOqW6srBSpI0FCvyb3vgwYnBrrOqIxiY8boPiMBSO/4TSRUV1Tl+cVC0srJIs0iLKGIZQXNxseNsRPm1VQIPqNLJMxYtcqAffYW74MGFjXXx7d57TEFSAPsUy5FOiRNf//Z
-subTitle: To Cure A Blizzard Upon A Plastic Sea
+subTitle: '"To Cure A Blizzard Upon A Plastic Sea"'
   
 ---
 
@@ -61,8 +61,6 @@ Seit ihrer Festivaltour im Jahr 2010 unterstützt **Mike Vennart** übrigens auc
 nun zum Konzert in Hamburg.
 
 ## Neues Album
-
-&nbsp;
 
 Es fand am Veröffentlichungstag von Mike Vennarts zweitem Soloalbum "To Cure A
 Blizzard Upon A Plastic Sea" statt. Auf der Seite des Clubs wurde es in der
@@ -94,7 +92,7 @@ einen Sog aus Gitarren, Schlagzeug, Gesang, Bass und Liebe. Liebe zu dieser
 Musik. Was für ein Glück, dass wir dabei sein dürfen. Wir lehnen am Bühnenrand, 
 nippen an unseren Gläsern und lauschen gebannt.
 
-## Oceansize sind wieder da
+## Sind Oceansize wieder da?
 
 Eigentlich sind das da oben Oceansize. Auch Steve Durose ist dabei. Der
 Gitarrist, der sich nach der offiziellen Oceansize Auflösung der befreundeten

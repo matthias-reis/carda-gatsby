@@ -12,7 +12,6 @@ excerpt: Affiliate Link - Mit "Die Geschichte von Herrn Sommer" hat Patrick
   einer wertvollen Botschaft.
 focusKeyword: Herrn Sommer
 labels:
-  - ;
   - Abenteuer
   - Achtsamkeit
   - Älterwerden
@@ -42,8 +41,7 @@ date: 2019-03-19T14:31:20.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Unexpected token (24:68)"
+errors: {}
 thumbnailId: "23787"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer-2__l.jpg
@@ -52,9 +50,6 @@ subTitle: Illustriert von Jean-Jaques Sempé
   
 ---
 
-## unknown: Unexpected token (24:68)
-
-<!--
 _Affiliate Link\*_
 
 **Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein ganz besonderes
@@ -77,9 +72,8 @@ von Dorf zu Dorf, ohne dabei auch nur eine Atempause einzulegen.
 
 ## Das Rätsel um den aktiven Herrn Sommer
 
-<RemoteImage alt="die-geschichte-von-herrn-sommer" size="medium"
-title="[ ](https://amzn.to/2HvCs4m) "Die Geschichte von Herrn Sommer" - eine
-Novelle von Patrick Süskind"
+<RemoteImage alt={`die-geschichte-von-herrn-sommer`} size="medium"
+title={`[ ](https://amzn.to/2HvCs4m) "Die Geschichte von Herrn Sommer" - eine Novelle von Patrick Süskind`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAArEAACAQIFAQYHAAAAAAAAAAABAgMEEQAFEiExBhMUMkFRYQcVcYGRwfD/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUB/8QAIhEAAgICAgAHAAAAAAAAAAAAAQIAAxESBCETIkFxgZHB/9oADAMBAAIRAxEAPwB3qJq6DMY4RPUI2koiRSkarM1uNhx54Wp/nccaqaqsVLjWBMBf1Ozf1sVOoUqaLq2vRis7RyTLHoisY1eRmUehIBAxqhq61qZVjdJKuIBZHKBbtbkrvbE+zKkjqOVgMJz6aheenzLvMlRI8iiNZHla8QPiYAm17Wtf7YMZy+OpkimMk8qSSzxRalUDfV2ljfax7Mg+18GNWuxvMr4H3BMVBwwlP4ghT1bmAhBvKEks2xBKA2/IxIo7zQRzCZ1ZGGtdTbem1+DxiAnUb5xMmYZhHGglVQHVdBYDa9uABsPrixRVNAbhGcNfyHPvzx+8Q7uZZljr1kx6pV1HtKcdTX0jrPlmXTVc7CRdSLdVFgd7kYMP5TW9O9wqKfMaSiripJHbyqh48K3O/nxgw5w+fR4QFrYYemD+QNqvudR18T//2Q=="
@@ -135,9 +129,8 @@ Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
 sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto
 mehr möchte ich darüber berichten.
 
-<RemoteImage alt="die-geschichte-von-herrn-sommer" size="full"
-title="[ ](https://amzn.to/2HvCs4m) "Die Geschichte von Herrn Sommer" - meine
-Empfehlung"
+<RemoteImage alt={`die-geschichte-von-herrn-sommer`} size="full"
+title={`[ ](https://amzn.to/2HvCs4m) "Die Geschichte von Herrn Sommer" - meine Empfehlung`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer-1__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer-1__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwACBAUG/8QAKBAAAgECBAUFAQEAAAAAAAAAAQIDBBEABRJBEyEiMTIGBxRRkULB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAQL/xAAdEQACAgIDAQAAAAAAAAAAAAABAgARAwQSISLB/9oADAMBAAIRAxEAPwDzGQ5q5qstpmqJ2o5ZIoWEc7aTGWAHicJBy+onll4EcKwIeGxkQG5UkdrHt94DMvd/lUckfyoq6Mu0ZkWyvHqDWsfHTbuLg4cMwQ8dWeQnSzvT6gbjXzIJFhzvvfCOmgbl9lEAAX3OL6ypWfI6pDUxLPTxiaMg6R0+VxzsNJP4eWDr5UVFClLNPHO7DqJXUl9I0kHc2I+u2FunejmIEkDqzx2kY+LA9LD8O+AT1DTZhHnUmWJG8ho7wowAUSqDYFm5bAc77Ym1hBcMIJ0vuOdV7VZXXzGmosweFTFxIHbUAUa4JBU2HcX6dzjGslDKKeoZllgAiO5DILf5ixYcyquM2oqHT0KM0RNLHGzEhNV/IgEgbmxJwWe5tG+bZ1xsuVamOenRpWiFxHMvTfn/ACwC3t9A7YsWAcy1XNlBU//Z"
@@ -146,7 +139,5 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 _\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
 meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
-
--->
 
   

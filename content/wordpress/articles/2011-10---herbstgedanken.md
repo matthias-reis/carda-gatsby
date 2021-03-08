@@ -15,7 +15,6 @@ labels:
   - Auto
   - bunt
   - Bürgersteig
-  - Die Klassenzimmer sind angenehm dunkel
   - Emo
   - es gibt Bier als Pausenbrot
   - Fabrikhallen
@@ -25,6 +24,7 @@ labels:
   - Frauen
   - Fußgänger
   - Gedanken
+  - Geschichten & Erlebtes
   - Greenpeace
   - grün
   - Heimweg
@@ -44,7 +44,6 @@ labels:
   - nachdenklich
   - Passanten
   - PETA
-  - Prosa
   - rot
   - Schule
   - Schulhof
@@ -64,8 +63,7 @@ date: 2011-10-18T12:15:05.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "2737"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_10_getimage__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_10_getimage__l.jpg
@@ -73,6 +71,12 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Tagebucheintrag
   
 ---
+
+**Steve Jobs Lieblingsrollis sind nicht mehr lieferbar. Innerhalb von ein paar
+Tagen verkaufte der Hersteller die Menge, die sonst in einem Jahr verkauft wird.
+Sicher erleben die New Ballance Turnschuhe dann gerade auch ein modisches
+Revival. Obwohl sie ja nicht besonders hübsch sind. Man könnte  das sicher
+recherchieren.**
 
 Warum sollte sich ein Mann nicht darüber Gedanken machen dürfen, wie man Farben
 am besten kombiniert? Das zeugt doch nur von gutem Geschmack.
@@ -128,36 +132,8 @@ die Straße in der ich wohne. Fahre auf den Hof, stelle den Motor ab, ziehe eine
 Zettel aus dem Handschuhfach und eine Bleistift aus meiner Handtasche und
 beginne zu schreiben.
 
-<RemoteImage
-  alt="Bild: cardamonchai"
-  size="full"
-  title="Bild: cardamonchai"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2011/10/getimage.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2011/10/getimage.jpg"
-  loadingUrl="undefined" />
+## Song des Tages: The Smiths – "Unlovable"
 
-[youtube=http://www.youtube.com/watch?v=owyNxZsz1hE]
-
-## The Smiths - Unlovable
-
-Oh ... I know I'm unloveable You don't have to tell me I don't have much in my
-life But take it - it's yours I don't have much in my life But take it - it's
-yours Oh ...
-
-I know I'm unloveable You don't have to tell me Oh, message received Loud and
-clear Loud and clear I don't have much in my life But take it - it's yours
-
-I know I'm unloveable You don't have to tell me For message received Loud and
-clear Loud and clear Message received I don't have much in my life But take it -
-it's yours
-
-I wear Black on the outside 'Cause Black is how I feel on the inside I wear
-Black on the outside 'Cause Black is how I feel on the inside
-
-And if I seem a little strange Well, that's because I am If I seem a little
-strange That's because I am
-
-But I know that you would like me If only you could see me If only you could
-meet me
+<iframe src="https://www.youtube.com/embed/qD5ZJBfObr4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
   

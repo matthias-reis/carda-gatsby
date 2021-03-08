@@ -15,15 +15,14 @@ labels:
   - beauty
   - Beauty Box
   - Berlin
+  - Fair Fashion & Beauty
   - Hamburg
   - Ina
-  - Interview
+  - Interviews
   - Lifestyle
-  - Mode & Beauty
   - vegan
   - Vegan Beauty Basket
   - Vegane Beauty Box
-  - Vegane Produkte
   - Wellness
 type: Artikel
 typeName: Interview
@@ -50,13 +49,12 @@ zwei Monate. Von anderen Beauty Boxen unterscheidet er sich nicht nur dadurch,
 dass man sich als KundIn bei jeder Ausgabe mindestens ein Produkt selbst
 aussuchen kann.
 
-<RemoteImage
-  alt="Vegan Beauty Basket"
-  size="medium"
-  title="Der Vegan Beauty Basket"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_veganbeautybasket_web__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_veganbeautybasket_web__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwUGAwQI/8QAJxAAAQQBBAEEAgMAAAAAAAAAAQIDBBEFAAYSITETFCJBUWEHU5H/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAHBEAAgMBAAMAAAAAAAAAAAAAAQIAAxESIjFB/9oADAMBAAIRAxEAPwDqZLiVLUnwQa71H5yUY0J4MuFMgtqUjtNivvvoga0cz6xkU1ZHMk0og+NCOR/lxnG5jJ4vOve9gqkkIcjotyPRHxVavkAQbSPPfVdaneyzoqqxsGbEXA7/AJk/cTONkwS0ymJyfeH91/s/FPEEjyTYGkNtalKFnrRth9w4nNR3BjlwZTgW2lhxxvmt1KkXyuwogE9g9ggjV0245OVESMmke4Qsp5gUFD6NWaNVoU2MWKtB8mWf06sjzdivzo7e2xs6BuSXlZUFKcnNQ4X1LDjjZS4KXaAeKSr8/sn70lS2HHHVFKCRfR1Wc1tp+c96qEqbUE8VcPLgHgXfXnVJmdhYL4jTIvYGN2xDlSnNs4KFB9CmvciPxUonugokkih33pFjOIWgACj5I1W8Zi5MOIlhmMptHlVkWT/upyKy4haOSSAOu9KsZd5HXuf/2Q==" />
+<RemoteImage alt={`Vegan Beauty Basket`} size="medium"
+title={`Der Vegan Beauty Basket`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_veganbeautybasket_web__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_veganbeautybasket_web__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwUGAwQI/8QAJxAAAQQBBAEEAgMAAAAAAAAAAQIDBBEFAAYSITETFCJBUWEHU5H/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAHBEAAgMBAAMAAAAAAAAAAAAAAQIAAxESIjFB/9oADAMBAAIRAxEAPwDqZLiVLUnwQa71H5yUY0J4MuFMgtqUjtNivvvoga0cz6xkU1ZHMk0og+NCOR/lxnG5jJ4vOve9gqkkIcjotyPRHxVavkAQbSPPfVdaneyzoqqxsGbEXA7/AJk/cTONkwS0ymJyfeH91/s/FPEEjyTYGkNtalKFnrRth9w4nNR3BjlwZTgW2lhxxvmt1KkXyuwogE9g9ggjV0245OVESMmke4Qsp5gUFD6NWaNVoU2MWKtB8mWf06sjzdivzo7e2xs6BuSXlZUFKcnNQ4X1LDjjZS4KXaAeKSr8/sn70lS2HHHVFKCRfR1Wc1tp+c96qEqbUE8VcPLgHgXfXnVJmdhYL4jTIvYGN2xDlSnNs4KFB9CmvciPxUonugokkih33pFjOIWgACj5I1W8Zi5MOIlhmMptHlVkWT/upyKy4haOSSAOu9KsZd5HXuf/2Q=="
+/>
 
 Nachdem auch mein zweiter Vegan Beauty Basket
 [Produkttest](/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/) hier im
@@ -81,13 +79,11 @@ Inzwischen sind wir seit fast 1,5 Jahren am Start und ich kann kaum fassen, was
 für großen Spaß es macht. Wir sind immer noch mit genauso viel Energie und
 Herzblut dabei, wie am Anfang.
 
-<RemoteImage
-  alt="Vegan Beauty Basket"
-  size="medium"
-  title="Studi 78 Paris"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_studi-78-paris__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_studi-78-paris__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYDBAAHCP/EACsQAAIBAwMCBAYDAAAAAAAAAAECAwQFEQASIQZREzFBYQcUIjJSgVNikf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABgRAQEBAQEAAAAAAAAAAAAAAAEAESEC/9oADAMBAAIRAxEAPwDqJ3IZvqPGqla9Q9PJ8lMiTlcI0qlkU9yBgnHbIz3GhV66qtFs6mtdirK1EulzZhTwDk4Ck5b8QcYGfM8DUFzvwht90aHZFVU0q0yGY4Te4G1iSACFBLEDPC8eehcsFfsNBPa6VkqLpX3Koc7pJ6p1yT/VVAVR7Afs6KxSMZFBYkHSHbeoHgt71Br4a8OI4oWqa2KKCEDgGSUctK+dzBVIHCjGMlxtlZTVuyWiqYKmLcV8SCQSLkeYyCdG1Za5+M3w3PU7JfOmmSj6uoCskEgIVanYcojn0YH7W/R4PDF0xdqfqW12661FA2+cZkhli+qiq0ykqMG5UhlI78DvpqmhkM7ssZIJznjGq60PhvLJDThJJn8SUrgb2wBuPvgAZ9hp9dIGBX2wrWTpXW7w6a4opRmGUWdCPtcr2PIODjWdD1Fc1RVU10jrIJ4ShEE8CbFyDkxzoAsqkj1AYeo0f+Xm/jP+6kpoZlnQshCg9/bUhjUvL//Z" />
+<RemoteImage alt={`Vegan Beauty Basket`} size="medium" title={`Studi 78 Paris`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_studi-78-paris__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_studi-78-paris__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYDBAAHCP/EACsQAAIBAwMCBAYDAAAAAAAAAAECAwQFEQASIQZREzFBYQcUIjJSgVNikf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABgRAQEBAQEAAAAAAAAAAAAAAAEAESEC/9oADAMBAAIRAxEAPwDqJ3IZvqPGqla9Q9PJ8lMiTlcI0qlkU9yBgnHbIz3GhV66qtFs6mtdirK1EulzZhTwDk4Ck5b8QcYGfM8DUFzvwht90aHZFVU0q0yGY4Te4G1iSACFBLEDPC8eehcsFfsNBPa6VkqLpX3Koc7pJ6p1yT/VVAVR7Afs6KxSMZFBYkHSHbeoHgt71Br4a8OI4oWqa2KKCEDgGSUctK+dzBVIHCjGMlxtlZTVuyWiqYKmLcV8SCQSLkeYyCdG1Za5+M3w3PU7JfOmmSj6uoCskEgIVanYcojn0YH7W/R4PDF0xdqfqW12661FA2+cZkhli+qiq0ykqMG5UhlI78DvpqmhkM7ssZIJznjGq60PhvLJDThJJn8SUrgb2wBuPvgAZ9hp9dIGBX2wrWTpXW7w6a4opRmGUWdCPtcr2PIODjWdD1Fc1RVU10jrIJ4ShEE8CbFyDkxzoAsqkj1AYeo0f+Xm/jP+6kpoZlnQshCg9/bUhjUvL//Z"
+/>
 
 **Anne:** Hast Du beruflich schon immer mit Kosmetik zu tun?
 
@@ -116,13 +112,11 @@ Ende hat. Durch den Vegan Beauty Basket versuchen wir auf dieses wichtige Thema
 aufmerksam zu machen, indem wir gelegentlich Informationsmaterial zum Thema
 Tierschutz und vegane Ernährung beilegen.
 
-<RemoteImage
-  alt="Vegan Beauty Basket"
-  size="medium"
-  title="Hurraw!"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_hurraw-fb__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_hurraw-fb__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUBAwYI/8QAJxAAAgIBAwMDBQEAAAAAAAAAAQIDBBEABSEGEjETQVEUIjJhcVL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/xAAdEQADAAICAwAAAAAAAAAAAAAAAQISQREhIpHh/9oADAMBAAIRAxEAPwDphI44kqwBOC3cwA9/Oo3mytXbLkxj9ZK0TSMitgnAzj9cao3a+m1wWdxsRyNDCvJiieRh+yqAkqPJIBwOccaS7ZZqdQz2bENM1rc0SxWCzExzxYLIePtZSCcN+QBx4ONQ3pFKeTWRyZqLIoIBTuHd5HHvjQVqeNaap3I5fkjyDpLvbLFNt0laKN7USsVleUivCMZdj7fiPJ8DOPOjltreVLNZ0lqvGGhaJcgj5B+Naa0xcNJN7AusKl2Hp9Jdv3Hc6k8MiuWoVfqZJfbtZD5X5xjSupT3OXpNZLTyS7z6qyNYWEwypzkYUliuBgENkHkeNbTdYZ7G3zQVLH087r2rL25KZ9wPnSzZdjj2RJ5571i7YlQLLLYOckf5UcKOfAH9J0VPLMq8XLMdTbd9n6fSx6Mr7i7vkpDIxCqO1VER5I7VGO0DOD5zkuemptwk21bG73BdmnPqIUgMPZGQMKyn7gf6Af1qOren5twlSanulupaQZjaLHap4z3D38A+2NNaz9lYCY+o54dwPyPzomcei8lgpX32f//Z" />
+<RemoteImage alt={`Vegan Beauty Basket`} size="medium" title={`Hurraw!`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_hurraw-fb__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_hurraw-fb__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUBAwYI/8QAJxAAAgIBAwMDBQEAAAAAAAAAAQIDBBEABSEGEjETQVEUIjJhcVL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/xAAdEQADAAICAwAAAAAAAAAAAAAAAQISQREhIpHh/9oADAMBAAIRAxEAPwDphI44kqwBOC3cwA9/Oo3mytXbLkxj9ZK0TSMitgnAzj9cao3a+m1wWdxsRyNDCvJiieRh+yqAkqPJIBwOccaS7ZZqdQz2bENM1rc0SxWCzExzxYLIePtZSCcN+QBx4ONQ3pFKeTWRyZqLIoIBTuHd5HHvjQVqeNaap3I5fkjyDpLvbLFNt0laKN7USsVleUivCMZdj7fiPJ8DOPOjltreVLNZ0lqvGGhaJcgj5B+Naa0xcNJN7AusKl2Hp9Jdv3Hc6k8MiuWoVfqZJfbtZD5X5xjSupT3OXpNZLTyS7z6qyNYWEwypzkYUliuBgENkHkeNbTdYZ7G3zQVLH087r2rL25KZ9wPnSzZdjj2RJ5571i7YlQLLLYOckf5UcKOfAH9J0VPLMq8XLMdTbd9n6fSx6Mr7i7vkpDIxCqO1VER5I7VGO0DOD5zkuemptwk21bG73BdmnPqIUgMPZGQMKyn7gf6Af1qOren5twlSanulupaQZjaLHap4z3D38A+2NNaz9lYCY+o54dwPyPzomcei8lgpX32f//Z"
+/>
 
 **Anne:** Wie viele Leute arbeiten für Vegan Beauty Basket?
 
@@ -160,13 +154,12 @@ entdeckt hast, dessen Linie zum Vegan Beauty Basket passen könnte? Wie stellst
 Du sicher, dass alles zu 100 Prozent vegan, frei von Tierversuchen und fair
 hergestellt ist?
 
-<RemoteImage
-  alt="Vegan Beauty Basket"
-  size="medium"
-  title="i+m Naturkosmetik"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_im-naturkosmetik-berlin__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_im-naturkosmetik-berlin__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAgEDBAUGCP/EACgQAAIBAwMCBgMBAAAAAAAAAAECAwAEERIhMQUGIjJBUWFxcpHB8P/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAbEQACAwEBAQAAAAAAAAAAAAAAAQIDETEhQf/aAAwDAQACEQMRAD8A6kGsu25Cg0xFNKbuaGRWC+aNxwRgZH3n/bU/KpO4IBFQ0tbd79Z3YtcAZCBvD+WPf5qXvwZKVm1srkgchv5RKcykBsgelC51gAcHcEb0MQCyA7N6AiqEJIgaVjJk+wycVlu9OkSdQ6Ndw2sz29wVLRMjEeIbgHfg4wR81rXBJbwkj4qO8JkJDxEj0zvS9T1A0pJxlxlD2E95H27ap1G0e3lAIRJCNQTkA+2MkfWK0cUjFxhMKedqqhZXUHU1umknuYnOgxPjEQO2UAH7qwtTM627vC8WpQzIT5CRxVSsdknJrNMqaVRXGqPEsP/Z" />
+<RemoteImage alt={`Vegan Beauty Basket`} size="medium"
+title={`i+m Naturkosmetik`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_im-naturkosmetik-berlin__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_im-naturkosmetik-berlin__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAgEDBAUGCP/EACgQAAIBAwMCBgMBAAAAAAAAAAECAwAEERIhMQUGIjJBUWFxcpHB8P/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAbEQACAwEBAQAAAAAAAAAAAAAAAQIDETEhQf/aAAwDAQACEQMRAD8A6kGsu25Cg0xFNKbuaGRWC+aNxwRgZH3n/bU/KpO4IBFQ0tbd79Z3YtcAZCBvD+WPf5qXvwZKVm1srkgchv5RKcykBsgelC51gAcHcEb0MQCyA7N6AiqEJIgaVjJk+wycVlu9OkSdQ6Ndw2sz29wVLRMjEeIbgHfg4wR81rXBJbwkj4qO8JkJDxEj0zvS9T1A0pJxlxlD2E95H27ap1G0e3lAIRJCNQTkA+2MkfWK0cUjFxhMKedqqhZXUHU1umknuYnOgxPjEQO2UAH7qwtTM627vC8WpQzIT5CRxVSsdknJrNMqaVRXGqPEsP/Z"
+/>
 
 **Ina:** Bevor ein Produkt in die Box aufgenommen wird, werden umfangreiche
 Recherchen durchgeführt und die Produkte werden ausgiebig getestet. Zudem müssen
@@ -194,13 +187,11 @@ interessieren.
 
 **Anne:** Wie kann man Freunde und Bekannte dahingehend sensibilisieren?
 
-<RemoteImage
-  alt="Vegan Beauty Basket"
-  size="medium"
-  title="Cremekampagne"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_cremekampagne__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_cremekampagne__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAwQGAgUI/8QALBAAAgEDAgMFCQAAAAAAAAAAAQIDAAQRBSESMUEGEzJCcRUjJFFSYYGx4f/EABYBAQEBAAAAAAAAAAAAAAAAAAMCAf/EABsRAQADAAMBAAAAAAAAAAAAAAEAAhEDEiEx/9oADAMBAAIRAxEAPwD1HI5DEAkUreXZhHdqxMhG5+mj3GSGVThj4cjO9TtzfyaXcCW4hZxn3gO5wfN96jkt1JVK7Ho76Vpu7MjHbOazBfTnVoYndijHGMjB2P8AKzdQxp8VBwlZV8Snb8HqK4Wn3Ly9otOUROyl+FySQFwjMDt64qa7uM23zSW0pwx9eVKajax6haNFKuAQQHHMUy8bmZmCnh360REIABXpTIJjDkZbadNpsixSMzxquI14iVAz5c8hTWkqPbUDDOSWLY67fqqOazSZCrjbpjbFDsrBbYrgEtnJb50BxNbePkVuJ7P/2Q==" />
+<RemoteImage alt={`Vegan Beauty Basket`} size="medium" title={`Cremekampagne`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_cremekampagne__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_cremekampagne__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAwQGAgUI/8QALBAAAgEDAgMFCQAAAAAAAAAAAQIDAAQRBSESMUEGEzJCcRUjJFFSYYGx4f/EABYBAQEBAAAAAAAAAAAAAAAAAAMCAf/EABsRAQADAAMBAAAAAAAAAAAAAAEAAhEDEiEx/9oADAMBAAIRAxEAPwD1HI5DEAkUreXZhHdqxMhG5+mj3GSGVThj4cjO9TtzfyaXcCW4hZxn3gO5wfN96jkt1JVK7Ho76Vpu7MjHbOazBfTnVoYndijHGMjB2P8AKzdQxp8VBwlZV8Snb8HqK4Wn3Ly9otOUROyl+FySQFwjMDt64qa7uM23zSW0pwx9eVKajax6haNFKuAQQHHMUy8bmZmCnh360REIABXpTIJjDkZbadNpsixSMzxquI14iVAz5c8hTWkqPbUDDOSWLY67fqqOazSZCrjbpjbFDsrBbYrgEtnJb50BxNbePkVuJ7P/2Q=="
+/>
 
 **Ina:** Viele wissen leider nicht, dass Kosmetik unter anderem auch tierische
 Inhaltsstoffe enthalten kann, da ist mehr Aufklärung gefragt. Es gibt inzwischen
@@ -242,13 +233,12 @@ Die Produkte kommen dann, wie zum Beispiel bei i+m Naturkosmetik Berlin,
 Cremekampagne, Lovely Day Botanicals und Eskay entweder direkt aus Berlin oder
 aus der Umgebung.
 
-<RemoteImage
-  alt="Vegan Beauty Basket"
-  size="medium"
-  title="Lovely Day Botanicals"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_lovely-day-haarserum__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_lovely-day-haarserum__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABAACBgUI/8QAKRAAAgEDAwIEBwAAAAAAAAAAAQIDABEhBAUxEkETIlFxBhU0YYGhwf/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAv/EABsRAAMBAQEBAQAAAAAAAAAAAAABAhESAzFR/9oADAMBAAIRAxEAPwD1A0j9cguegYBtxRJNaItSmndpRK4JXy4sPvTJChmVbEm54zY1kvjH5tLtuoj0McgmllWCJgQCVYG5BHHpc8ZNQ99U6jU1z9NG00g4dqtp5pGnQM5IJ4oUMz28GeMI8dk6usHxDbkfvFK031Efv/KPNPpLS7SwXKFDkllW/cDN6jszRMEChmFgTxf2qSRWdnCBiexFWiVwDcEYxenhTJ7jse4zbxs8okU6fS9U0p6jYvmwznuAPQXrt7e8sksZnVFkBIITin6qBp4SiuUv3teqJphHLG0Y8owR+OaNXhldT+lIrNTP/9k=" />
+<RemoteImage alt={`Vegan Beauty Basket`} size="medium"
+title={`Lovely Day Botanicals`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_lovely-day-haarserum__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_lovely-day-haarserum__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABAACBgUI/8QAKRAAAgEDAwIEBwAAAAAAAAAAAQIDABEhBAUxEkETIlFxBhU0YYGhwf/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAv/EABsRAAMBAQEBAQAAAAAAAAAAAAABAhESAzFR/9oADAMBAAIRAxEAPwD1A0j9cguegYBtxRJNaItSmndpRK4JXy4sPvTJChmVbEm54zY1kvjH5tLtuoj0McgmllWCJgQCVYG5BHHpc8ZNQ99U6jU1z9NG00g4dqtp5pGnQM5IJ4oUMz28GeMI8dk6usHxDbkfvFK031Efv/KPNPpLS7SwXKFDkllW/cDN6jszRMEChmFgTxf2qSRWdnCBiexFWiVwDcEYxenhTJ7jse4zbxs8okU6fS9U0p6jYvmwznuAPQXrt7e8sksZnVFkBIITin6qBp4SiuUv3teqJphHLG0Y8owR+OaNXhldT+lIrNTP/9k="
+/>
 
 **Anne:** Wie sehen Deine Pläne für die nähere Zukunft aus? Was steht Neues an
 bei Vegan Beauty Basket?

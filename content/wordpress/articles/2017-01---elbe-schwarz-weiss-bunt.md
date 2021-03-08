@@ -15,12 +15,12 @@ labels:
   - Elbe
   - Flarf
   - Fotografie
+  - Geschichten & Erlebtes
   - Hamburg
   - Hamburg
-  - Lyrik
   - schwarz-weiß
 type: Galerie
-typeName: Galerie
+typeName: Gedicht
 date: 2017-01-04T15:41:35.000Z
 status: publish
 isWerbung: false
@@ -49,6 +49,8 @@ Wer gerne wissen möchte, was ein Flarf-Gedicht ist und wie es entsteht,
 Mehr Flarf-Gedichte aus meiner Feder findet Ihr unter den Bildern. Und jetzt
 geht es los.
 
+<blockquote>
+
 ## Elbe schwarz-weiß bunt
 
 Schiffschraube im Gegenlicht Autobiografische Aufzeichnungen
@@ -71,6 +73,8 @@ Der robuste Klassiker mit neuer Technik Knackige Schärfe
 Buntes Treiben Lotsenschoner im Nebel
 
 Gegen Mittag
+
+</blockquote>
 
 <Gallery name="flickr/anneelbe24122016" />
 

@@ -10,21 +10,21 @@ excerpt: Interview zur aktuellen Lage in der Türkei mit den Filmemacherinnen
   Carolin Winterholler und Marie Hartlieb aus Istanbul.
 focusKeyword: Türkei
 labels:
+  - Antifaschismus & Feminismus
   - Demonstration
   - Erdogan
+  - Fernweh
   - Gas
   - Gezi
   - Gezi-Park
   - Gezi-Parki
-  - Interview
   - Interview Istanbul
+  - Interviews
   - Istanbul
   - Lage in Istanbul
   - Panik
   - Pfefferspray
-  - Politik & Soziales
   - Proteste Istanbul
-  - Reisen
   - Sei still
   - Taksim
   - Tayyip
@@ -46,13 +46,17 @@ subTitle: '"Alles andere wirkt unwichtig und banal"'
   
 ---
 
-<RemoteImage
-  alt="Die beiden Filmemacherinnen"
-  size="full"
-  title="Die beiden Filmemacherinnen"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_marie-und-caro__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_marie-und-caro__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUHBv/EACUQAAICAgAFBQEBAAAAAAAAAAECAwQFEQAGITFBBxITIlEUcf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBDydy7iMxy5fyWTz9mvdV5oa0EU7H2MZCA8gGyQx6a6dOJPVfLYzm2g4ad1SxG5ild3QEPpkbZ7bBHXirckc038HQbHzwy12ilneD4RGfnBlLAE72CD++PPjhHyxQyEtyWzbtKGuWUlmgTYMbGQbXfUHufOuAr3P8AmZcNhcxJR/uEbMBVuVkSUAqEj2x6ksW8a8MeMjJkr/qN6fYWanJWhyEEsouEyfCHdPYGbYGgvt234N67kcMuYcYLFaWOlO9co0saTSfZmlKSb7a+umB/09AODsPgKuM5ao47DViFrIEYyyb+ck+5mf8AAW+xA7hVXsOA/9k=" />
+**Vor Kurzem berichtete ich hier über
+[das ganz besondere Projekt](/2013/06/05/istanbul-mit-anderen-augen/) zweier
+junger, deutscher Filmemacherinnen in Istanbul. Durch die derzeitige Lage hat
+sich für Marie und Carolin einiges verändert.**
+
+<RemoteImage alt={`Die beiden Filmemacherinnen`} size="full"
+title={`Die beiden Filmemacherinnen`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_marie-und-caro__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_marie-und-caro__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUHBv/EACUQAAICAgAFBQEBAAAAAAAAAAECAwQFEQAGITFBBxITIlEUcf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBDydy7iMxy5fyWTz9mvdV5oa0EU7H2MZCA8gGyQx6a6dOJPVfLYzm2g4ad1SxG5ild3QEPpkbZ7bBHXirckc038HQbHzwy12ilneD4RGfnBlLAE72CD++PPjhHyxQyEtyWzbtKGuWUlmgTYMbGQbXfUHufOuAr3P8AmZcNhcxJR/uEbMBVuVkSUAqEj2x6ksW8a8MeMjJkr/qN6fYWanJWhyEEsouEyfCHdPYGbYGgvt234N67kcMuYcYLFaWOlO9co0saTSfZmlKSb7a+umB/09AODsPgKuM5ao47DViFrIEYyyb+ck+5mf8AAW+xA7hVXsOA/9k="
+/>
 
 Sie sind selbst Teil der Proteste rund um den Gezi-Park und den Taksim-Platz
 geworden. Ich habe mit den beiden über ihr Leben in Istanbul und das aktuelle
@@ -69,13 +73,11 @@ Taksim.
 **Anne:** Wie wirkt sich die derzeit sehr angespannte Lage in der Türkei,
 speziell in Istanbul auf Euer tägliches Leben aus?
 
-<RemoteImage
-  alt="Zelte auf dem Taksim-Platz - Bild: Marie"
-  size="medium"
-  title="Zelte auf dem Taksim-Platz - Bild: Marie"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4371.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4371.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Zelte auf dem Taksim-Platz - Bild: Marie`} size="medium"
+title={`Zelte auf dem Taksim-Platz - Bild: Marie`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4371.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4371.jpg?w=300"
+loadingUrl="undefined" />
 
 **Marie Hartlieb:** Die Ereignisse in Istanbul und in der Türkei stehen einfach
 im Vordergrund. Alles andere wirkt unwichtig und banal. Deshalb ist es schwierig
@@ -99,13 +101,11 @@ Taksim-Platz. Erst gestern las ich, dass sich die sonst verfeindeten Fans der
 Fußball-Clubs Galatasaray und Fenerbahce gemeinsam zum Demonstrieren getroffen
 haben. Was war eure bisher interessanteste Begegnung dort?
 
-<RemoteImage
-  alt="Peace-Bus - Bild: Carolin"
-  size="medium"
-  title="Peace-Bus - Bild: Carolin"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/peace-bus.jpg?w=200"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/peace-bus.jpg?w=200"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Peace-Bus - Bild: Carolin`} size="medium"
+title={`Peace-Bus - Bild: Carolin`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/peace-bus.jpg?w=200"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/peace-bus.jpg?w=200"
+loadingUrl="undefined" />
 
 **Carolin Winterholler:** Die interessanteste Begegnung war für mich bis jetzt
 eine Gruppe BDP-Anhänger (also Kurden), die im Park Lieder gesungen und getanzt
@@ -118,15 +118,22 @@ kämpfen können, ist das ein ausgesprochen gutes Zeichen.
 
 **Anne:** Habt ihr keine Angst, verletzt zu werden?
 
-> ## "Ich habe Angst!" **Carolin Winterholler:** Also ich hatte totale Angst! Angst macht mir aber nicht so sehr das Tränengas, damit kann man umgehen, sondern die Massen von Menschen, die sich bei einem Angriff der Polizei in Bewegung setzten. Fängt da einer zu rennen an, rennen die anderen eben mit. Und obwohl das auf Bildern nicht so rüberkommt, waren es wirklich hunderte von Menschen, dicht an dicht. Deshalb haben wir immer versucht, nah an Straßenkreuzungen oder Hauseingängen zu stehen, in die man sich bei einem Angriff flüchten kann. Angst hatte ich trotzdem!
+> ## "Ich habe Angst!"
 
-<RemoteImage
-  alt="Es brennt - Bild: Carolin"
-  size="medium"
-  title="Es brennt - Bild: Carolin"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/brand.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/brand.jpg?w=300"
-  loadingUrl="undefined" />
+**Carolin Winterholler:** Also ich hatte totale Angst! Angst macht mir aber
+nicht so sehr das Tränengas, damit kann man umgehen, sondern die Massen von
+Menschen, die sich bei einem Angriff der Polizei in Bewegung setzten. Fängt da
+einer zu rennen an, rennen die anderen eben mit. Und obwohl das auf Bildern
+nicht so rüberkommt, waren es wirklich hunderte von Menschen, dicht an dicht.
+Deshalb haben wir immer versucht, nah an Straßenkreuzungen oder Hauseingängen zu
+stehen, in die man sich bei einem Angriff flüchten kann. Angst hatte ich
+trotzdem!
+
+<RemoteImage alt={`Es brennt - Bild: Carolin`} size="medium"
+title={`Es brennt - Bild: Carolin`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/brand.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/brand.jpg?w=300"
+loadingUrl="undefined" />
 
 **Anne:** Seid ihr schon mal in eine gefährliche Situation gekommen?
 
@@ -139,13 +146,10 @@ total verstört, haben geweint. Da wir bei dem Angriff recht weit weg von der
 Polizei waren und die Menschen um uns herum ausnahmslos friedlich, war niemand
 auf den Angriff vorbereitet.
 
-<RemoteImage
-  alt="Die Zitrone"
-  size="thumbnail"
-  title="Die Zitrone"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/969752_593296170689248_1481661969_n.jpg?w=150"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/969752_593296170689248_1481661969_n.jpg?w=150"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Die Zitrone`} size="thumbnail" title={`Die Zitrone`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/969752_593296170689248_1481661969_n.jpg?w=150"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/969752_593296170689248_1481661969_n.jpg?w=150"
+loadingUrl="undefined" />
 
 **Anne:** Was hat es eigentlich mit den Zitronen auf den Plakaten der
 Demonstranten auf sich?
@@ -160,13 +164,11 @@ mir vor Kurzem, dass ein Interview, das eine Journalisten mit ihr gemacht hatte,
 auf Grund des politischen Bezugs wieder gelöscht wurde. Das finde ich ganz schön
 heftig. Habt ihr sonst noch mit weiteren Einschränkungen zu kämpfen?
 
-<RemoteImage
-  alt="NVT - Bild: Carolin"
-  size="medium"
-  title="NVT - Bild: Carolin"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/nvt.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/nvt.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`NVT - Bild: Carolin`} size="medium"
+title={`NVT - Bild: Carolin`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/nvt.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/nvt.jpg?w=300"
+loadingUrl="undefined" />
 
 **Carolin Winterholler:** Die Zensur der türkischen Medien ist allgegenwertig
 und wird bei den Protesten besonders deutlich. Anfangs wurde gar nicht
@@ -184,13 +186,11 @@ Ausländerin bei den Protesten dabei zu sein? Wie werdet Ihr aufgenommen?
 
 > ## "Als Ausländer ist man kein Außenseiter"
 
-<RemoteImage
-  alt="Alle gehen auf die Straße - Bild: Marie"
-  size="medium"
-  title="Alle gehen auf die Straße - Bild: Marie"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4460.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4460.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Alle gehen auf die Straße - Bild: Marie`} size="medium"
+title={`Alle gehen auf die Straße - Bild: Marie`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4460.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4460.jpg?w=300"
+loadingUrl="undefined" />
 
 **Marie Hartlieb:** Die Protestierenden sind eine so heterogene Gruppe. Da ist
 man nicht unbedingt „Außenseiter“ als Ausländer. Ich glaube, neben den
@@ -203,13 +203,11 @@ als hier lebende Ausländerin auf die Straße gehe.
 Gefühl, ganz Istanbul ist auf der Straße. Sind viele Nationen bei den Protesten
 vertreten?
 
-<RemoteImage
-  alt="Taksim - Bild: Carolin"
-  size="medium"
-  title="Taksim - Bild: Carolin"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/taksim.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/taksim.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Taksim - Bild: Carolin`} size="medium"
+title={`Taksim - Bild: Carolin`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/taksim.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/taksim.jpg?w=300"
+loadingUrl="undefined" />
 
 **Carolin Winterholler:** Ich hab noch nie so viele Menschen auf Istanbuls
 Straßen gesehen - und Istanbul ist immer voll. Außerdem gibt es fast täglich
@@ -221,13 +219,11 @@ eine Rede, um die Bürger auf seine Seite zu ziehen. Habt ihr das Gefühl, dass
 das das Volk noch mehr zusammengeschweißt hat? Oder führte das zu einer
 Gegenbewegung?
 
-<RemoteImage
-  alt="Graffiti - Bild: Marie"
-  size="medium"
-  title="Graffiti - Bild: Marie"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4480.jpg?w=224"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4480.jpg?w=224"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Graffiti - Bild: Marie`} size="medium"
+title={`Graffiti - Bild: Marie`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4480.jpg?w=224"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4480.jpg?w=224"
+loadingUrl="undefined" />
 
 **Marie Hartlieb:** Die Proteste sind ja geprägt von einem sehr speziellen,
 ironischen Humor hier. Ein Bild, das im Internet kursiert sind zwei Hände die
@@ -241,15 +237,16 @@ motiviert. Das macht natürlich Angst. Das Erdoğan nicht die Versöhnung sonder
 den Streit sucht. Und versucht, AKP – Unterstützer zu mobilisieren. Da fallen
 dann so Worte wie „Bürgerkrieg“. Und das ist sehr beunruhigend.
 
-> ## "Istanbul ist eine moderne, politisch aufgeklärte Stadt!" **Anne:** Istanbul ist eine sehr moderne, politisch aufgeklärte Stadt, in der sehr viele junge Menschen leben. Wie schätzt Ihr die Lage auf dem Land ein?
+> ## "Istanbul ist eine moderne, politisch aufgeklärte Stadt!"
 
-<RemoteImage
-  alt="Zitronen und Essig für die Demo - Bild: Carolin"
-  size="medium"
-  title="Zitronen und Essig für die Demo - Bild: Carolin"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/zitronen-essig-fc3bcr-demo.jpg?w=200"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/zitronen-essig-fc3bcr-demo.jpg?w=200"
-  loadingUrl="undefined" />
+**Anne:** Istanbul ist eine sehr moderne, politisch aufgeklärte Stadt, in der
+sehr viele junge Menschen leben. Wie schätzt Ihr die Lage auf dem Land ein?
+
+<RemoteImage alt={`Zitronen und Essig für die Demo - Bild: Carolin`}
+size="medium" title={`Zitronen und Essig für die Demo - Bild: Carolin`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/zitronen-essig-fc3bcr-demo.jpg?w=200"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/zitronen-essig-fc3bcr-demo.jpg?w=200"
+loadingUrl="undefined" />
 
 **Carolin Winterholler:** Wenn man weiß, wie die Medien berichten, werden die
 Menschen auf dem Land nicht viel von Erdoğans Machenschaften, Gesetzesreformen
@@ -281,13 +278,11 @@ den Protesten kommt.
 von der Demonstration der Umweltschützer im Gezi-Park, bei der es sogar Tote
 gegeben hat?
 
-<RemoteImage
-  alt="Hier wird Geschichte geschrieben - Bild: Marie"
-  size="medium"
-  title="Hier wird Geschichte geschrieben - Bild: Marie"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43561.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43561.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Hier wird Geschichte geschrieben - Bild: Marie`}
+size="medium" title={`Hier wird Geschichte geschrieben - Bild: Marie`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43561.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43561.jpg?w=300"
+loadingUrl="undefined" />
 
 **Marie Hartlieb:** Ich war für meine mündliche Bachelorprüfung in Deutschland,
 als die Proteste losgingen. Ich hatte meinen Flug schon gebucht und bin auch
@@ -305,13 +300,11 @@ davon? Was muss getan werden, um die Berichterstattung zu verbessern?
 
 > ## "Die deutsche Berichterstattung begeistert mich!"
 
-<RemoteImage
-  alt="Taksim - Bild: Caro"
-  size="medium"
-  title="Taksim - Bild: Carolin"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/taksim2.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/taksim2.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Taksim - Bild: Caro`} size="medium"
+title={`Taksim - Bild: Carolin`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/taksim2.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/taksim2.jpg?w=300"
+loadingUrl="undefined" />
 
 **Carolin Winterholler:** Ich muss sagen, dass ich von der deutschen
 Berichterstattung begeistert bin. Alle großen deutschen Medien sind mit
@@ -329,13 +322,11 @@ nichts ändern.
 **Anne:** Was bedeutet der Aufbruch, der gerade stattfindet, für
 [Euer Filmprojekt](http://istanbulchangingperspectives.wordpress.com/) ?
 
-<RemoteImage
-  alt="Protest - Bild: Marie"
-  size="medium"
-  title="Protest - Bild: Marie"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43771.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43771.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Protest - Bild: Marie`} size="medium"
+title={`Protest - Bild: Marie`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43771.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43771.jpg?w=300"
+loadingUrl="undefined" />
 
 **Marie Hartlieb:** Das kann man schwer sagen, ich glaube, das hängt davon ab,
 wie es jetzt hier weitergeht. Einer unserer Protagonisten, ein Deutschtürke,
@@ -363,13 +354,11 @@ Durch ein Jobangebot bin ich dann zurückgekehrt.
 **Anne:** Wodurch unterscheidet sich das Leben in einer türkischen Großstadt am
 meisten von dem in Deutschland?
 
-<RemoteImage
-  alt="Das Kulturzentrum - Bild: Marie"
-  size="medium"
-  title="Das Kulturzentrum - Bild: Marie"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43341.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43341.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Das Kulturzentrum - Bild: Marie`} size="medium"
+title={`Das Kulturzentrum - Bild: Marie`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43341.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43341.jpg?w=300"
+loadingUrl="undefined" />
 
 **Carolin Winterholler:** Haha... es unterscheidet sich wirklich in ALLEM. Ein
 kleines Beispiel: Nach einem Tag in meiner neuen Wohnung wusste jeder in der
@@ -385,13 +374,11 @@ keiner deutschen Großstadt.
 
 > ## "Wir lieben Istanbuls Lebendigkeit!"
 
-<RemoteImage
-  alt="Plakate und Banner - Bild: Marie"
-  size="medium"
-  title="Plakate und Banner - Bild: Marie"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43391.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43391.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Plakate und Banner - Bild: Marie`} size="medium"
+title={`Plakate und Banner - Bild: Marie`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43391.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43391.jpg?w=300"
+loadingUrl="undefined" />
 
 **Marie Hartlieb:** Die Lebendigkeit, die Offenheit, und das Gefühl, dass hier
 jede noch so absurde Idee wichtig und realisierbar ist. Die Menschen machen
@@ -420,15 +407,16 @@ Istanbul-Aufenthaltes?
 Protest. Niemand hätte gedacht, dass die Türken Erdoğan mal die Stirn bieten –
 obwohl ich es insgeheim immer gehofft hatte.
 
-> ## "Wir freuen uns, zurückzukommen" **Anne:** Plant ihr, irgendwann zurückzukommen?
+> ## "Wir freuen uns, zurückzukommen"
 
-<RemoteImage
-  alt="Taksim bei Nacht - Bild: Marie"
-  size="medium"
-  title="[ ](/wp-content/uploads/2013/06/img_4182.jpg)  Taksim bei Nacht - Bild: Marie"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4182__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4182__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCBAYDCP/EACsQAAEDAwMCBAcBAAAAAAAAAAECAxEABDEFEiETQQZhkbEUIjJCUXGB4f/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgX/xAAgEQABBAEEAwAAAAAAAAAAAAABAAIDERIEIjFBUXGR/9oADAMBAAIRAxEAPwDzDaW6XbltpSoCjB/NPlaGuzudnVPVSYLZTznyzVvTrO4dWyuzet2yGzKYG5zuU48gBXZnXGF7EuWKBcBXzLJUlQiRBAMAzJPFQvlLzt6XSjgbGN/fCb3HirU2fDx0jepNooiW0kwSJz61gdRJIaknCjBGJV/lawX9k8hAcZ6QdlRX1t08ACZGO496W31lbag2SzqCELY42ut7QUFWdwyrk8RgViLGI8Ul1BkmFXahbuFsOKH1NgmP1Va61EfHP3luYhyW1AAKiIB9/WiikYwEklFLI5oDR7+JffXKXnWFNpSAGkIIj7gmCf7FSYuVFQS4UFKeyhzx2oop8RVKQSOyvyv/2Q==" />
+**Anne:** Plant ihr, irgendwann zurückzukommen?
+
+<RemoteImage alt={`Taksim bei Nacht - Bild: Marie`} size="medium"
+title={`[ ](/wp-content/uploads/2013/06/img_4182.jpg) Taksim bei Nacht - Bild: Marie`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4182__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4182__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCBAYDCP/EACsQAAEDAwMCBAcBAAAAAAAAAAECAxEABDEFEiETQQZhkbEUIjJCUXGB4f/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgX/xAAgEQABBAEEAwAAAAAAAAAAAAABAAIDERIEIjFBUXGR/9oADAMBAAIRAxEAPwDzDaW6XbltpSoCjB/NPlaGuzudnVPVSYLZTznyzVvTrO4dWyuzet2yGzKYG5zuU48gBXZnXGF7EuWKBcBXzLJUlQiRBAMAzJPFQvlLzt6XSjgbGN/fCb3HirU2fDx0jepNooiW0kwSJz61gdRJIaknCjBGJV/lawX9k8hAcZ6QdlRX1t08ACZGO496W31lbag2SzqCELY42ut7QUFWdwyrk8RgViLGI8Ul1BkmFXahbuFsOKH1NgmP1Va61EfHP3luYhyW1AAKiIB9/WiikYwEklFLI5oDR7+JffXKXnWFNpSAGkIIj7gmCf7FSYuVFQS4UFKeyhzx2oop8RVKQSOyvyv/2Q=="
+/>
 
 **Marie Hartlieb:** Ich bewerbe mich zur Zeit auf einen Master in Deutschland.
 Weiß aber, dass ich das nur mit ständigen Istanbul-Besuchen „durchhalten“ kann.
@@ -438,13 +426,11 @@ zwei Welten. Was danach kommt, und in welcher ich hängen bleibe, keine Ahnung.
 **Anne:** Fühlt ihr euch in Istanbul zu Hause? Was bedeutet das für euch: Ein
 Zuhause?
 
-<RemoteImage
-  alt="Taksim bei Nacht - Bild: Marie"
-  size="medium"
-  title="Taksim bei Nacht - Bild: Marie"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4192.jpg?w=224"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4192.jpg?w=224"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Taksim bei Nacht - Bild: Marie`} size="medium"
+title={`Taksim bei Nacht - Bild: Marie`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4192.jpg?w=224"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4192.jpg?w=224"
+loadingUrl="undefined" />
 
 **Carolin Winterholler:** Ja, auf jeden Fall. Ich bin gerne in Deutschland,
 freue mich aber immer wieder nach Istanbul zurückzukommen. Obwohl meine Familie
@@ -461,12 +447,11 @@ mit der Gegenwart, zu tun.
 
 Hier geht es zum Filmprojekt der beiden:
 
-<RemoteImage
-  alt="Istanbul mit andern Augen"
-  size="full"
-  title="[ ](http://istanbulchangingperspectives.wordpress.com)  [Istanbul mit anderen Augen](http://istanbulchangingperspectives.wordpress.com)"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_cover_dvd__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_cover_dvd__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIEBQYH/8QAKhAAAgEDAgUEAQUAAAAAAAAAAQIDAAQRBRIGEyExURQiYdEjMkFCcXP/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQC/8QAHREBAAEDBQAAAAAAAAAAAAAAAAEDEWETFCGR8P/aAAwDAQACEQMRAD8As7bjeAanfadLpNty4UZWuXhBeR+awI3M2OwBz3/qqa/4g0+ZJ7e09Ulw49jDO1eoP6s9OgPatnNZajC+tGa49eJruR4IJAAYAZCBtZjjAHYDx5NRo49bPF2nNHEYtEECrNEk0ezfsbdlQckhsdcGmRUm5c0uLMQt1IMcy6uB5/M33TwXchuIdt3M3vXP5W8j5rrtxDujw0gCFs4MQYD47U9nCVkiKOvLBGVEQUMfNb1cJtrn3aTdaBdvdzOHtwDIxHuP7k/FEHD13HIjmS3wO4Bb6oopK1KbR7lxhxAV/wBG+qeLSLhGULyQoI/mfqiigP/Z" />
+<RemoteImage alt={`Istanbul mit andern Augen`} size="full"
+title={`[ ](http://istanbulchangingperspectives.wordpress.com) [Istanbul mit anderen Augen](http://istanbulchangingperspectives.wordpress.com)`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_cover_dvd__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_cover_dvd__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIEBQYH/8QAKhAAAgEDAgUEAQUAAAAAAAAAAQIDAAQRBRIGEyExURQiYdEjMkFCcXP/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQC/8QAHREBAAEDBQAAAAAAAAAAAAAAAAEDEWETFCGR8P/aAAwDAQACEQMRAD8As7bjeAanfadLpNty4UZWuXhBeR+awI3M2OwBz3/qqa/4g0+ZJ7e09Ulw49jDO1eoP6s9OgPatnNZajC+tGa49eJruR4IJAAYAZCBtZjjAHYDx5NRo49bPF2nNHEYtEECrNEk0ezfsbdlQckhsdcGmRUm5c0uLMQt1IMcy6uB5/M33TwXchuIdt3M3vXP5W8j5rrtxDujw0gCFs4MQYD47U9nCVkiKOvLBGVEQUMfNb1cJtrn3aTdaBdvdzOHtwDIxHuP7k/FEHD13HIjmS3wO4Bb6oopK1KbR7lxhxAV/wBG+qeLSLhGULyQoI/mfqiigP/Z"
+/>
 
   

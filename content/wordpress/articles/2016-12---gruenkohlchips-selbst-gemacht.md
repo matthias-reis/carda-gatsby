@@ -19,6 +19,7 @@ labels:
   - Kale
   - Kale Chips
   - vegan
+  - vegane Rezepte
   - Vegane Rezepte
 type: Artikel
 typeName: Artikel
@@ -64,7 +65,7 @@ entweichen kann.
 Ich wünsche Euch guten Appetit! Vorsicht, die Dinger machen süchtig! Falls
 welche übrig bleiben, könnt Ihr die Grünkohlchips in einer Plätzchendose
 aufheben. Beim Snacken könnt Ihr in meinem Blog noch
-[weitere Rezepte](/category/vegan-2/rezepte/) entdecken.
+[weitere Rezepte](/category/vegan/vegane-rezepte/) entdecken.
 
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_12_31420519786_4290f44aee_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_12_31420519786_4290f44aee_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_12_31341825941_ce5d4f03e3_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_12_31341825941_ce5d4f03e3_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_12_31341829711_3caf488641_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_12_31341829711_3caf488641_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_12_31341828001_78597e8f3d_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_12_31341828001_78597e8f3d_z__l.jpg"}]}

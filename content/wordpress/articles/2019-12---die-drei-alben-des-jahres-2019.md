@@ -16,14 +16,15 @@ labels:
   - Alben
   - Alben des Jahres
   - Album des Jahres
-  - Bands & Reviews
+  - Bands
   - Cult Of Luna
   - Metal
   - Musik
+  - No Wave
   - Platte des Jahres
   - Platten des Jahres
-  - Post Rock
   - Post-Metal
+  - Post-Rock
   - Progressive Rock
   - Russian Circles
   - Schallplatten

@@ -17,6 +17,7 @@ labels:
   - Büro
   - devon england
   - Gedanken
+  - Geschichten & Erlebtes
   - gewinnen
   - Gewinnspiel
   - Herz
@@ -44,7 +45,6 @@ labels:
   - spektakulär
   - Spontaneität
   - Strand
-  - Tagebuch
   - Urlaub
   - Verlosung
   - weezer island in the sun
@@ -55,8 +55,7 @@ date: 2012-08-20T10:00:34.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "4030"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_255337_448938665128268_1765079901_n-foto-auf-sandstein1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_255337_448938665128268_1765079901_n-foto-auf-sandstein1__l.jpg
@@ -64,6 +63,11 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: "<strong>Oder: Strände lassen sich nicht in Schubladen einordnen.</strong>"
   
 ---
+
+**"Kernzeitverkürzung". Das bedeutet so viel wie "Hitzefrei" und schreit nach
+einem Picknick am See. Im Büro wird es im Winter sicher wieder kühl genug sein.
+Der Kaffee ist heute irgendwie zu warm. Wie ein etwas zu klein geratenes
+Kleidungsstück fühlt sich das an.**
 
 Manchmal mangelt es an Verständnis, dann bedarf es einer Erklärung.
 Lebensplanung für Spontane. Den Koffer packen und zum Flughafen. Nur noch wenige
@@ -76,38 +80,19 @@ Das Leben gehört nicht vakuumverpackt in eine Schublade eingeräumt. Es ist mal
 herzförmig und bunt, mal grau und steinartig, dann wieder sternförmig und
 glitzernd. Immer in Bewegung. Genau wie ein Strand. Geformt vom Ozean.
 
-_Ich wünsche allen einen schönen Montag. Hiermit möchte ich nochmal freundlich
+Ich wünsche allen einen schönen Montag. Hiermit möchte ich nochmal freundlich
 auf mein
 [spektakuläres Gewinnspiel](//2012/08/16/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/)
 hinweisen, für das ich weder Kosten noch Mühen gescheut habe. Es gibt tolle
 Musik zu Gewinnen. Ich würde mich sehr freuen, wenn Ihr mitmacht und das
-womöglich auch noch weitererzählt._ _Liebe Grüße aus der Mittagspausensonne
-hinter dem Bürofenster._
+womöglich auch noch weitererzählt.
 
-<RemoteImage
-  alt=""
-  size="full"
-  title="Bild: Foto auf Sandstein Anne Reko Rockham Beach/Mortehoe/Woolacombe/North Devon/England 6/2012 Modell: Anne Reko"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2012/08/255337_448938665128268_1765079901_n-foto-auf-sandstein1.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2012/08/255337_448938665128268_1765079901_n-foto-auf-sandstein1.jpg"
-  loadingUrl="undefined" />
+Liebe Grüße aus der Mittagspausensonne hinter dem Bürofenster. \_\_
 
-**Der Song des Tages kommt heute von Weezer: "Island In The Sun"** **RIP Mikey
-Welsh ♥** [youtube=http://www.youtube.com/watch?v=w5PG3yiSx-E] _hip hip_ _hip
-hip_ _hip hip_ _hip hip_ _When you’re on a holiday_ _You can’t find the words to
-say_ _All the things that come to you_ _And I wanna feel it too_ _On an island
-in the sun_ _We’ll be playing and having fun_ _And it makes me feel so fine_ _I
-can’t control my brain_ _hip hip_ _hip hip_ _When you’re on a golden sea_ _You
-don’t need no memory_ _Just a place to call your own_ _As we drift into the
-zone_ _On an island in the sun_ _We’ll be playing and having fun_ _And it makes
-me feel so fine_ _I can’t control my brain_ _We’ll run away together_ _We’ll
-spend some time forever_ _We’ll never feel bad anymore_ _hip hip_ _hip hip_ _hip
-hip_ _On an island in the sun_ _We’ll be playing and having fun_ _And it makes
-me feel so fine_ _I can’t control my brain_ _We’ll run away together_ _We’ll
-spend some time forever_ _We’ll never feel bad anymore_ _Hip Hip_ _(hip hip)_
-_We’ll never feel bad anymore_ _(hip hip)_ _no no_ _(hip hip)_ _We'll never feel
-bad anymore_ _(hip hip)_ _no no_ _(hip hip)_ _We'll never feel bad anymore_
-_(hip hip)_ _(hip hip)_ _No No_ _(hip hip)_ _We'll never feel bad anymore_ _(hip
-hip)_ _No No_ _no no_
+## Song des Tages Weezer – "Island In The Sun"
+
+[youtube=http://www.youtube.com/watch?v=w5PG3yiSx-E]
+
+RIP Mikey Welsh
 
   

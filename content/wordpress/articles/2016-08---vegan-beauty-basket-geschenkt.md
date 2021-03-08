@@ -12,12 +12,11 @@ focusKeyword: Vegan Beauty Basket
 labels:
   - beauty
   - Beauty Box
+  - Fair Fashion & Beauty
   - Kosmetik
-  - Mode & Beauty
   - vegan beauty
   - Vegan Beauty Basket
   - vegane Kosmetik
-  - Vegane Produkte
 type: Artikel
 typeName: Artikel
 date: 2016-08-09T17:50:15.000Z
@@ -25,7 +24,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (57:95)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (53:95)"
 thumbnailId: "15082"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_08_13735606_660201287462253_6990305577054252335_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_08_13735606_660201287462253_6990305577054252335_o__l.jpg
@@ -34,18 +33,16 @@ subTitle: Box ab jetzt alle zwei Monate
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (57:95)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (53:95)
 
 <!--
 Werbung\*
 
-<RemoteImage
-  alt="Vegan Beauty Basket"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_vegan_beauty_basket_kosmetik_box-angebot-instagram__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_vegan_beauty_basket_kosmetik_box-angebot-instagram__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcFCAABAv/EAC8QAAEDAgUCBAQHAAAAAAAAAAECAwQFEQAGEiExIkEHFGFxCBNRgRUjMkJScrH/xAAYAQACAwAAAAAAAAAAAAAAAAABAwACBf/EABwRAAICAwEBAAAAAAAAAAAAAAECABEDITGhsf/aAAwDAQACEQMRAD8AswAoEW2HriGzZmyh5PpvnsxVJiEwq4QFnU46R+1CB1KO44HviTkyG2FpGrUVA2AUL7YX/i3lilZ5y+1BqrwhOR3vmxZYsVNqKSCnflKhyPQdxiXGrhdhYES/iH8RdXqTyouSmBSIoNxKkJS5Jdsf47pQD3HUfUYsfkLNEfOOT6bW4elKZbd3Wgd2XRs4j7KB+1j3xSKsvuZXpNZyZV6NTfxRucl1dR1XdbACSAg2/SRYjcbKNxfDz+EqJmeG1U0TKbIayvMSJDEh/o/PFgS2k7qSpPKgLXQMExALWQwqo0KsoO1TQZKo4abKS706UqcBsDve/Tq27c84ya0zVZLTLNQAdbWFDSi9xpBFuxO5N/X3wQ1Ogtyqkw+lhktIQSUEcubAKJP0SLD3OOG6Ay06hTEWOk2UNSE2Avz/ALis1VzIRswSjUvLtRqfnp1PgvzUKSBJlR2lLdUTpSSSm9wQLf2HsCuoVWVHaj+WjpeWttaip10NBAQLkqvvbccDvjaaTCix1lLDVrAdKbDptYewsLfS2FT4ouVVykNzosJ5iS0+vU80/wDJJac6Uo1De99HFr7DB4LiXdG32vfk/9k=" />
+<RemoteImage alt={`Vegan Beauty Basket`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_vegan_beauty_basket_kosmetik_box-angebot-instagram__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_vegan_beauty_basket_kosmetik_box-angebot-instagram__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcFCAABAv/EAC8QAAEDAgUCBAQHAAAAAAAAAAECAwQFEQAGEiExIkEHFGFxCBNRgRUjMkJScrH/xAAYAQACAwAAAAAAAAAAAAAAAAABAwACBf/EABwRAAICAwEBAAAAAAAAAAAAAAECABEDITGhsf/aAAwDAQACEQMRAD8AswAoEW2HriGzZmyh5PpvnsxVJiEwq4QFnU46R+1CB1KO44HviTkyG2FpGrUVA2AUL7YX/i3lilZ5y+1BqrwhOR3vmxZYsVNqKSCnflKhyPQdxiXGrhdhYES/iH8RdXqTyouSmBSIoNxKkJS5Jdsf47pQD3HUfUYsfkLNEfOOT6bW4elKZbd3Wgd2XRs4j7KB+1j3xSKsvuZXpNZyZV6NTfxRucl1dR1XdbACSAg2/SRYjcbKNxfDz+EqJmeG1U0TKbIayvMSJDEh/o/PFgS2k7qSpPKgLXQMExALWQwqo0KsoO1TQZKo4abKS706UqcBsDve/Tq27c84ya0zVZLTLNQAdbWFDSi9xpBFuxO5N/X3wQ1Ogtyqkw+lhktIQSUEcubAKJP0SLD3OOG6Ay06hTEWOk2UNSE2Avz/ALis1VzIRswSjUvLtRqfnp1PgvzUKSBJlR2lLdUTpSSSm9wQLf2HsCuoVWVHaj+WjpeWttaip10NBAQLkqvvbccDvjaaTCix1lLDVrAdKbDptYewsLfS2FT4ouVVykNzosJ5iS0+vU80/wDJJac6Uo1De99HFr7DB4LiXdG32vfk/9k="
+/>
 
 **Vielleicht haben es einige ja schon mitbekommen – es gibt Neuigkeiten rund um
 den Vegan Beauty Basket! Die vegane Kosmetik-Box erscheint ab sofort alle zwei
@@ -90,13 +87,11 @@ Zum Vegan Beauty Basket und zum Angebot geht es
 
 _\*Das Angebot gilt solange der Vorrat reicht._
 
-<RemoteImage
-  alt="Vegan Beauty Basket"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_vbb__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_vbb__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAQBBf/EACcQAAIBAwQBAwUBAAAAAAAAAAECAwQFEQAGITESBxMWIzJBQlKR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECISL/2gAMAwEAAhEDEQA/AFJ0OftHHJ4xqS7vXRWqsktMUc9wSFzTxTMUR5AD4qxHQJ4zqxOUU9cdDrWDlFJ/bBP+a0INI/WDcfyS07hvF3MksNXJDPYYY3iSOLgMPHpmOWAyWYMo50gK/wBSNnR1EtF8jt6PG3tM1RSye0kmPLwabiNXH8kgggjsa7tr2Ptq37ouN+pbPSrdqqQVD1LL5MHIGSuc+OTycYySdHnfdDHZPU7dNBRs5prbSrdIEkwQS31PZcYw8QZjgMCR+GGjXWFKT0//2Q==" />
+<RemoteImage alt={`Vegan Beauty Basket`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_vbb__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_vbb__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAQBBf/EACcQAAIBAwQBAwUBAAAAAAAAAAECAwQFEQAGITESBxMWIzJBQlKR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECISL/2gAMAwEAAhEDEQA/AFJ0OftHHJ4xqS7vXRWqsktMUc9wSFzTxTMUR5AD4qxHQJ4zqxOUU9cdDrWDlFJ/bBP+a0INI/WDcfyS07hvF3MksNXJDPYYY3iSOLgMPHpmOWAyWYMo50gK/wBSNnR1EtF8jt6PG3tM1RSye0kmPLwabiNXH8kgggjsa7tr2Ptq37ouN+pbPSrdqqQVD1LL5MHIGSuc+OTycYySdHnfdDHZPU7dNBRs5prbSrdIEkwQS31PZcYw8QZjgMCR+GGjXWFKT0//2Q=="
+/>
 
 Zum Vegan Beauty Basket geht es
 [hier entlang.](https://www.veganbeautybasket.com/)

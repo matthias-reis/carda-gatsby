@@ -8,7 +8,7 @@ description: Endlich war es wieder soweit! Calexico spielten live auf dem A
   Summer's Tale Festival 2015. Dieses Mal habe ich ein paar ganz besondere
   Bilder für Euch.
 excerpt: Und dann ist der Tag gekommen. Endlich wirst Du Calexico wieder live
-  hören und sehen. Du stehst wieder vorne links an der Bande und "Deine" Band
+  hören und sehen. Du stehst wieder vorne links an der Bande und "Deine" Band
   steht oben auf der Bühne.
 focusKeyword: Calexico
 labels:
@@ -37,25 +37,38 @@ subTitle: Ein krönender Abschluss
   
 ---
 
+<RemoteImage alt={`Calexico`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20377818898_67d83187d9_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20377818898_67d83187d9_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKxAAAgEDAwMCBQUAAAAAAAAAAQIDBAURABIhBhMxIkEjMlFhgRQVQrHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAwX/xAAiEQACAQMEAgMAAAAAAAAAAAABAgMAETEEEiFBcfATI4H/2gAMAwEAAhEDEQA/AMO6Jtkt5u1vpI3SOSomKI0mdqjYSTxzj0jxp9uH7RPcpYq9Vg7UkVDEkEsRfaqYkmZRnJDexPIPGcaRelqcivtcUqklZZVZRJtzkYA3DxknzqAWynfrCejEkjwo7v6Nw9SqW/lzjI8nnGuh8RKgqe6dH2ub4tTHQPSU1b26WmqzcO4ezMJE3Bfl+UD85zx+NNdzuv6ugjCrUVE9PCsjyMoVWIOMhgSuT82PodZgLlURC4COZUWZGUjGWJGSBn251d6PuSUdJKo291yQVbwB/v61ppWMcueKGuKPBi7e8ePfKTRVU1NOJYZZI5M5DI2DnTl0NchJ1I9VVvUGV4JYxJEyqWkcYG4n2OTnGjRqSN2U8UYxuYKe6g6iaWGGemqaWCjMfxDEoBfLM3JYD1Ej74wNc6W11NFa0uEzbMOPg49QQ+GP09uPvo0auhiWRWZugT+3NLq/qlMa4vav/9k="
+/>
+
+**Und dann ist der Tag gekommen. Endlich wirst Du Calexico wieder live hören und
+sehen. Du stehst wieder vorne links an der Bande und "Deine" Band steht oben auf
+der Bühne.**
+
 Freundlich nicken sie ins Publikum und Du fühlst Dich wie immer persönlich davon
 angesprochen. Vor lauter Aufregung und Freude vergisst Du, den ISO-Wert und die
 Blende Deiner Kamera richtig einzustellen und kein einziges Foto wird was. Und
 es ist kein Traum.
 
-<RemoteImage
-  alt="Calexico"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20539667646_20c509de4d_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20539667646_20c509de4d_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQHBgUI/8QAKhAAAQMCBQQBBAMAAAAAAAAAAQIDBAURABITITEGByJBFBVCUWFxkbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Ao0SqUJjqCh9OIgfOdqesS60tK9ANixK97gX22tbC/cjpxhtuGELdGVR0/IlIBHtJNjv75/eIR2YrctnrumvOtTtNLmi4uInWLylZgEki2y1W9hPjc8Y9FdxHpZRTtenyI7aypOZbiCRYE2IST/pwCXblxpXT8Vh9lSGoS3WlulSQ2vMsqGXe49ixHI2vjMd7JkRrp2TR23lfLcQmSxlQSh1tJ3sseN90m1/zhuKpmP2/6tbeMdxqNDekWcAUltYS5plX7CspHsHEV+s01ily4NJfZk6zIakORxkaUtCSQ7lPGfkgW3BNtsBN6bUIbE6QbER1gBIcKkkDNcjxv6JxrY3VFFRB+R8qfqtG4p7j6yhw888WuBz/AEcGDAI0TuDVI1ZmvSJa2YU5stvx2NmrXKk+PuxJ3O++OrQFU2YipxqTJpkcSkpJTMdS3mUPt1FDMEG97A7qA/kGDAf/2Q==" />
+## Calexico mit Unterwasserwelt-Effekten
 
-## Calexico mit Unterwasserwelt-EffektenDas Konzert war wirklich mal wieder richtig klasse, alte Hasen kamen voll auf ihre Kosten und auch ein paar neue Fans dürften Calexico an diesem Abend gewonnen haben. Die Band sorgte für den krönenden Abschluss des A Summer's Tale Festivals und brachten noch mal richtig Schwung in die gemütliche Bude.
+<RemoteImage alt={`Calexico`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20539667646_20c509de4d_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20539667646_20c509de4d_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQHBgUI/8QAKhAAAQMCBQQBBAMAAAAAAAAAAQIDBAURABITITEGByJBFBVCUWFxkbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Ao0SqUJjqCh9OIgfOdqesS60tK9ANixK97gX22tbC/cjpxhtuGELdGVR0/IlIBHtJNjv75/eIR2YrctnrumvOtTtNLmi4uInWLylZgEki2y1W9hPjc8Y9FdxHpZRTtenyI7aypOZbiCRYE2IST/pwCXblxpXT8Vh9lSGoS3WlulSQ2vMsqGXe49ixHI2vjMd7JkRrp2TR23lfLcQmSxlQSh1tJ3sseN90m1/zhuKpmP2/6tbeMdxqNDekWcAUltYS5plX7CspHsHEV+s01ily4NJfZk6zIakORxkaUtCSQ7lPGfkgW3BNtsBN6bUIbE6QbER1gBIcKkkDNcjxv6JxrY3VFFRB+R8qfqtG4p7j6yhw888WuBz/AEcGDAI0TuDVI1ZmvSJa2YU5stvx2NmrXKk+PuxJ3O++OrQFU2YipxqTJpkcSkpJTMdS3mUPt1FDMEG97A7qA/kGDAf/2Q=="
+/>
 
-Ein paar meiner Bilder habe ich trotz seltsamer, unbeabsichtigter
-Unterwasserwelt-Effekte durch den Lightroom gejagt, damit Ihr auch mal sehen
-könnt, was dabei rauskommt, wenn man nachts mit Blende 8 fotografiert. Vorhang
-auf für "Finding John".
+Das Konzert war wirklich mal wieder richtig klasse, alte Hasen kamen voll auf
+ihre Kosten und auch ein paar neue Fans dürften Calexico an diesem Abend
+gewonnen haben. Die Band sorgte für den krönenden Abschluss des A Summer's Tale
+Festivals und brachten noch mal richtig Schwung in die gemütliche Bude.
+
+Ein paar meiner Bilder habe ich trotz seltsamer,
+unbeabsichtigter Unterwasserwelt-Effekte durch den Lightroom gejagt, damit Ihr
+auch mal sehen könnt, was dabei rauskommt, wenn man nachts mit Blende 8
+fotografiert. Vorhang auf für "Finding John".
 
 <Gallery name="flickr/annecalexicoasummerstale2015" />
 
@@ -63,13 +76,16 @@ Die wundervolle Anne de Wolff unterstützte Calexico beim Auftritt als Geigerin.
 Ein paar meiner Bilder sind nun auf Ihrer [Homepage](http://www.annedewolff.de)
 zu sehen. Danke an Anne für den netten Kontakt!
 
-## A Summer's Tale 2015 Wegweiser1. [Get Well soon live @ A Summer's Tale Festival 2015](/2015/08/get-well-soon-live-a-summers-tale-festival-2015/)
+## A Summer's Tale 2015 Wegweiser
 
+1.  [Get Well soon live @ A Summer's Tale Festival 2015](/2015/08/get-well-soon-live-a-summers-tale-festival-2015/)
 1.  [Hundreds live @ A Summer's Tale Festival 2015](/2015/08/hundreds-live-a-summers-tale-festival-2015/)
 1.  [Calexico live @ A Summer's Tale Festival 2015](/2015/08/calexico-live-a-summers-tale-festival-2015/)
-1.  [Bildergalerie und Fazit A Summer's Tale Festival 2015](/2015/08/a-summers-tale-festival-2015/)##
-    Calexico Wegweiser1.
-    [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
+1.  [Bildergalerie und Fazit A Summer's Tale Festival 2015](/2015/08/a-summers-tale-festival-2015/)
+
+## Calexico Wegweiser
+
+1.  [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
 1.  [live @ Southside Festival Neuhausen ob Eck Juni 2008](/2015/04/calexico-live-southside-festival-2008/)
 1.  [live @ Muffathalle München 16.10.2008](/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/)
 1.  [live @ Roxy Ulm 27.01.2009](/2009/01/calexico-live-roxy-ulm/)
@@ -80,7 +96,8 @@ zu sehen. Danke an Anne für den netten Kontakt!
 1.  [live @ Große Freiheit 36 Hamburg 15.04.2015](/2015/04/calexico-live-grosse-freiheit-36-15-04-2015/)
 1.  live @ A Summer's Tale Festival 08.08.2015
 1.  [stellen neue Single "End Of The World With You" vor](/2017/10/calexico-the-thread-that-keeps-us/)
-    [Homepage](http://www.casadecalexico.com) Calexico
+
+[Homepage](http://www.casadecalexico.com) Calexico
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

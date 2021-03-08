@@ -11,11 +11,11 @@ excerpt: Richtig warm ist es noch nicht draußen, das stimmt. Der Frühling steh
 focusKeyword: Frühling
 labels:
   - Frühling
+  - Geschichten & Erlebtes
   - Hamburg
   - Hamburg
   - kalt
   - Kälte
-  - Lyrik
   - Park
 type: Artikel
 typeName: Gedicht

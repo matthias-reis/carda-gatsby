@@ -36,6 +36,7 @@ labels:
   - Rezept Kürbis vegan
   - schlanke linie
   - vegan
+  - vegane Rezepte
   - Vegane Rezepte
   - Veganer
 type: Artikel
@@ -44,8 +45,7 @@ date: 2014-09-12T10:24:03.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (12:185)"
+errors: {}
 thumbnailId: "8920"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_ofenkc3bcrbis-3__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_ofenkc3bcrbis-3__l.jpg
@@ -54,9 +54,10 @@ subTitle: Herbstlich bunt und saftig
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;li> (12:185)
+**Nachdem es nun tatsächlich soweit ist und der Herbst bei uns angekommen zu
+sein scheint, habe ich heute ein leckeres Rezept für Euch, das ausgesprochen gut
+zur Jahreszeit passt.**
 
-<!--
 Nachdem der Herzmann und ich letztes Wochenende von unserem Ausflug ins Allgäu
 ein paar wunderbare Kürbisse mitgebracht haben, habe ich vorgestern das erste
 Experiment damit gewagt und siehe da: Es ist gelungen.
@@ -64,19 +65,28 @@ Experiment damit gewagt und siehe da: Es ist gelungen.
 Selbstverständlich möchte ich Euch gerne daran teilhaben lassen. Hier ist für
 Euch mein
 
-## Butternusskürbis aus dem Ofen<small>(Rezept für 2 Portionen)</small> **Zutaten** <ul><li>1 mittelgroßer, reifer Butternusskürbis
+## Butternusskürbis aus dem Ofen
 
-<RemoteImage
-  alt="Butternusskürbis"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Herbstlich bunt und saftig"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_ofenkc3bcrbis-14__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_ofenkc3bcrbis-14__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACkQAAEDBAIBAwMFAAAAAAAAAAECAwQFBhEhAEESEyIxB1FSYWJxgZH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAJhEAAQMCBAYDAAAAAAAAAAAAAQIDEQAhBAUSYTFBUYGRwbHh8P/aAAwDAQACEQMRAD8ATLCq9BodVUqvpbZw34xnnUlTTbn7sAkZGMKwcb5ozr29N2PNk3hAcytfqQYDK3fBPWAEgK/sjH35g2ZZsq+biejICWIkdKVyX3ASE50nQOSo4OBr438cdJ1sWDadbVS5tPnVKQy2l1155xSh7h5YQhGBkDonk0aUNhThIH7pVBwgOEIvSLVq6/c1wuz48VcWnoZ9JLbhHkdkgqI15HJ0PgcOVivWfQKjbqZVvNIigJJQWSQnP4qTkj+e+HBvNuLVqSARtWELSBBqe/Ty8H7ZtKrimhBqEyWgeS/cQgIzkD/e++adtNRL7C6hUHZ8epJKm3FpdBS8MY2kggDBwQD1xBsiVFTLVFnJYWy8pCkpkK8UKUM+3OdEg6P6Y5XQwy1DcREZRAU5j1BEWGirAxjPWtZG+KZkxinZSyDygzYbRN/H0dlbSBKvj3TE7XIVPjQ6K2GkAteDTTaT7Ugd9AaO++HJ3LqUOhuvOTXmGAtQUAt4rcOBobyT2eHHcvTiEtRibnt6tSr2gqlvhX//2Q==" />
+<small>(Rezept für 2 Portionen)</small>
+
+**Zutaten**
+
+<ul>
+    <li>1 mittelgroßer, reifer Butternusskürbis
+
+<RemoteImage alt={`Butternusskürbis`} size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Herbstlich bunt und saftig`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_ofenkc3bcrbis-14__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_ofenkc3bcrbis-14__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACkQAAEDBAIBAwMFAAAAAAAAAAECAwQFBhEhAEESEyIxB1FSYWJxgZH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAJhEAAQMCBAYDAAAAAAAAAAAAAQIDEQAhBAUSYTFBUYGRwbHh8P/aAAwDAQACEQMRAD8ATLCq9BodVUqvpbZw34xnnUlTTbn7sAkZGMKwcb5ozr29N2PNk3hAcytfqQYDK3fBPWAEgK/sjH35g2ZZsq+biejICWIkdKVyX3ASE50nQOSo4OBr438cdJ1sWDadbVS5tPnVKQy2l1155xSh7h5YQhGBkDonk0aUNhThIH7pVBwgOEIvSLVq6/c1wuz48VcWnoZ9JLbhHkdkgqI15HJ0PgcOVivWfQKjbqZVvNIigJJQWSQnP4qTkj+e+HBvNuLVqSARtWELSBBqe/Ty8H7ZtKrimhBqEyWgeS/cQgIzkD/e++adtNRL7C6hUHZ8epJKm3FpdBS8MY2kggDBwQD1xBsiVFTLVFnJYWy8pCkpkK8UKUM+3OdEg6P6Y5XQwy1DcREZRAU5j1BEWGirAxjPWtZG+KZkxinZSyDygzYbRN/H0dlbSBKvj3TE7XIVPjQ6K2GkAteDTTaT7Ugd9AaO++HJ3LqUOhuvOTXmGAtQUAt4rcOBobyT2eHHcvTiEtRibnt6tSr2gqlvhX//2Q=="
+/>
 
 <small>(wir hatten einen mittleren und einen kleinen Kübis zu zweit, das war
-eindeutig zu
-viel)</small></li><li>Kokosfett</li><li>Meersalz</li><li>Rosmarin</li><li>Pfeffer</li><li>Backblech</li><li>Backpapier</li></ul>
+eindeutig zu viel)</small></li> <li>Kokosfett</li> <li>Meersalz</li>
+<li>Rosmarin</li> <li>Pfeffer</li> <li>Backblech</li> <li>Backpapier</li>
+
+</ul>
+
 **Zubereitung**
 
 Zunächst den Kürbis sehr gut unter fließendem Wasser, am besten mit einer Bürste
@@ -119,7 +129,5 @@ Kussi Anne &lt;3
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_ofenkc3bcrbis-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_ofenkc3bcrbis-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_ofenkc3bcrbis-16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_ofenkc3bcrbis-16__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_ofenkc3bcrbis-141__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_ofenkc3bcrbis-141__l.jpg"}]}
 />
-
--->
 
   

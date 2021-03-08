@@ -36,7 +36,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Unterminated JSX contents (95:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (89:16)"
 thumbnailId: "21955"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_nin__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_nin__l.jpg
@@ -45,7 +45,7 @@ subTitle: Ein magischer Moment
   
 ---
 
-## unknown: Unterminated JSX contents (95:16)
+## unknown: Unterminated JSX contents (89:16)
 
 <!--
 **Auch, wenn er schon ein paar Tage zurückliegt, möchte ich diesen besonderen
@@ -59,13 +59,11 @@ nochmal an den Schenker. Das Konzert fand am 2. Juli statt. Viel Zeit für
 Vorfreude also. An dieser Stelle wechsle ich mal (künstlerische Freiheit und so)
 die Zeitform. Ich möchte, dass Ihr live dabei seid.
 
-<RemoteImage
-  alt="Zitadelle"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42747649815_ed88f31d08_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42747649815_ed88f31d08_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAoEAACAgEDAwMEAwAAAAAAAAABAgMEEQAFEgYhMQcTQRQiUZElYYH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMABP/EACARAAEDAwUBAAAAAAAAAAAAAAEAAhEDBBITITKBweH/2gAMAwEAAhEDEQA/AEUSrs9+pVtGY7pFVevPKkqvFhwWQhs5JAOM48jTD6gdQUt0D3qu5SWCIoBXiQRFFjEQymQefIOVzkZ8/jUhoVLu9TMdvS1ct8OciIjO+Pk9s9u4/eu77HvaoY32O72BGTRfkP8AcaibcEgk7rpbcYyAFY/Txdobpl13LdalLdpzKgjFtUKQL9nhvDPzb+8Lo1CbdS3QZFt07FZ27qJoWQtj5HId9Gi6k48SOxPqVtRo5T0fiePT0P0x6iWoKYmvcaMxgUYjeYcVYDyQD9pHz41Sts6i3O5uVGK1tcdKGZBJO0s7c4chsAggZP2j96l/XV3bKu77fd2WOyYo/cgcTDgcMoxg9z5z51kT9WT/AEwgp1ooEznlIfcY/OPgYB8ZB00ZgFSnEwt/1g3IX+s6EdZ/fStXjRPbbOWdicD9ro0s7P8AzvU8LbrYZEcl5pUjyQFXthRj8AaNZz9OB4UQ3Ldf/9k=" />
+<RemoteImage alt={`Zitadelle`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42747649815_ed88f31d08_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42747649815_ed88f31d08_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAoEAACAgEDAwMEAwAAAAAAAAABAgMEEQAFEgYhMQcTQRQiUZElYYH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMABP/EACARAAEDAwUBAAAAAAAAAAAAAAEAAhEDBBITITKBweH/2gAMAwEAAhEDEQA/AEUSrs9+pVtGY7pFVevPKkqvFhwWQhs5JAOM48jTD6gdQUt0D3qu5SWCIoBXiQRFFjEQymQefIOVzkZ8/jUhoVLu9TMdvS1ct8OciIjO+Pk9s9u4/eu77HvaoY32O72BGTRfkP8AcaibcEgk7rpbcYyAFY/Txdobpl13LdalLdpzKgjFtUKQL9nhvDPzb+8Lo1CbdS3QZFt07FZ27qJoWQtj5HId9Gi6k48SOxPqVtRo5T0fiePT0P0x6iWoKYmvcaMxgUYjeYcVYDyQD9pHz41Sts6i3O5uVGK1tcdKGZBJO0s7c4chsAggZP2j96l/XV3bKu77fd2WOyYo/cgcTDgcMoxg9z5z51kT9WT/AEwgp1ooEznlIfcY/OPgYB8ZB00ZgFSnEwt/1g3IX+s6EdZ/fStXjRPbbOWdicD9ro0s7P8AzvU8LbrYZEcl5pUjyQFXthRj8AaNZz9OB4UQ3Ldf/9k="
+/>
 
 Bei traumhaftem Wetter finden wir uns am Ort des Geschehens ein. Erster Stopp:
 Der Merch-Stand. Erstmal T-Shirts für die, die zu Hause bleiben mussten,
@@ -99,13 +97,11 @@ Phasen mit durchlebt haben. Ob an seiner Seite, oder aus der Ferne.
 
 ## Raves und Rockkonzerte
 
-<RemoteImage
-  alt="Zitadelle"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_43604224802_1f0af66c9d_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_43604224802_1f0af66c9d_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGBP/EACsQAAEEAQMDAgUFAAAAAAAAAAECAwQRBQAGIQcSMRMiFBVxgcEzQVFhov/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABwRAAMBAAIDAAAAAAAAAAAAAAABEQISISIxQf/aAAwDAQACEQMRAD8AZdx7ug4WQ78fKlMpQs2o2E1f7EkDWVd6vYEKUGn5LxBAv1m0g/6OsV1ufmy85NbisJ9NCy0VvJ7UqAFGj5POi3b8D4XICTLjNvNtOAqjo9yFoPBAUTx9zp9KwpKjfkut8Vq24sd0uAirlkjz4PajTJgcgcng8dPSCEyozb4BPICkhX51GO72IEjcMqXjkrgRHF97bUhxq0/WlniwdV5sC1bE24R20cbGPCgR+knQDUJx63ZCKrcmQiOoLhL7gV2UspIWeR76B+o0e7dx7UuQXHGnVY9DyUu0KUEHzZHANXqhN69Ipu4s3PmtZFccvSHXAklxSaUq/AHHFeNcO3ukOewKFogZyO2FrC1AxFqCqrggmiONZ6T4+JpnSvYbdSdmuYafD+U90hl+KlwKQm7vyfuefvqouniVI2BtlKrSpOMjAg+QfSTrJRtn7h72zkZuOlIbSoJ7YBbKb/gg1X9VpIxCXIWKhRaSPQYQ1QTQ9qQPxpzfpOmpD//Z" />
+<RemoteImage alt={`Zitadelle`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_43604224802_1f0af66c9d_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_43604224802_1f0af66c9d_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGBP/EACsQAAEEAQMDAgUFAAAAAAAAAAECAwQRBQAGIQcSMRMiFBVxgcEzQVFhov/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABwRAAMBAAIDAAAAAAAAAAAAAAABEQISISIxQf/aAAwDAQACEQMRAD8AZdx7ug4WQ78fKlMpQs2o2E1f7EkDWVd6vYEKUGn5LxBAv1m0g/6OsV1ufmy85NbisJ9NCy0VvJ7UqAFGj5POi3b8D4XICTLjNvNtOAqjo9yFoPBAUTx9zp9KwpKjfkut8Vq24sd0uAirlkjz4PajTJgcgcng8dPSCEyozb4BPICkhX51GO72IEjcMqXjkrgRHF97bUhxq0/WlniwdV5sC1bE24R20cbGPCgR+knQDUJx63ZCKrcmQiOoLhL7gV2UspIWeR76B+o0e7dx7UuQXHGnVY9DyUu0KUEHzZHANXqhN69Ipu4s3PmtZFccvSHXAklxSaUq/AHHFeNcO3ukOewKFogZyO2FrC1AxFqCqrggmiONZ6T4+JpnSvYbdSdmuYafD+U90hl+KlwKQm7vyfuefvqouniVI2BtlKrSpOMjAg+QfSTrJRtn7h72zkZuOlIbSoJ7YBbKb/gg1X9VpIxCXIWKhRaSPQYQ1QTQ9qQPxpzfpOmpD//Z"
+/>
 
 Auch für etwas Wehmut ist dabei Platz. Die abgewickelten Musikkassetten an Ross
 Keyboard erinnern uns an damals. Damals, als wir zwischen Raves und
@@ -140,13 +136,11 @@ Konzerts:
 
 ## Setlist NINE INCH NAILS Zitadelle Spandau 2. Juli 2018
 
-<RemoteImage
-  alt="Zitadelle"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42747651245_ea2781fd77_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42747651245_ea2781fd77_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABgADCAUH/8QAKBAAAgEDBAEEAQUAAAAAAAAAAQIDBAURAAYSITEHExRBkRYyUYKh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AFe46Gy2e6S1F9E8KTqQjiX2md+QJUnsYAGRy+8Aa79xXbNvhroLY9dL8AK08Kx+4AvkcFx3knPXnPei3r9R1c9hstosnzbvEmXmqOSykj9iAlR23ZJPXQ786qsG+KWk23Rfqe5GgrkhWnqIJCpkkVARyULkjkMecHOgQ7XuCSb/AIoZKiUPbkmVYAzRiQ8iFjYE8SQql8eev4Gnku+bDDK8clWyujFWUqcgjyNZOrd21FJuE3a1VvyK4vPJ70tPhY2lPlAxySFOAxA++u9J4fVi4vCjVG0bLUzFQXnMEo91vtsA4GT3113oPPrtuK8XWMx19zqZY8ECMNwQf1XA/wA0npa/blJQxvHRWuOo9ntSokDPx7OQCcnv86B6mgg6UAd41etTOqhVnkCgYADeNUqruwSJS0jEKij7YnAH5I1oyH0b2qkSJUwX9p1UCQrPgFvvA4eM6D//2Q==" />
+<RemoteImage alt={`Zitadelle`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42747651245_ea2781fd77_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42747651245_ea2781fd77_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABgADCAUH/8QAKBAAAgEDBAEEAQUAAAAAAAAAAQIDBAURAAYSITEHExRBkRYyUYKh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AFe46Gy2e6S1F9E8KTqQjiX2md+QJUnsYAGRy+8Aa79xXbNvhroLY9dL8AK08Kx+4AvkcFx3knPXnPei3r9R1c9hstosnzbvEmXmqOSykj9iAlR23ZJPXQ786qsG+KWk23Rfqe5GgrkhWnqIJCpkkVARyULkjkMecHOgQ7XuCSb/AIoZKiUPbkmVYAzRiQ8iFjYE8SQql8eev4Gnku+bDDK8clWyujFWUqcgjyNZOrd21FJuE3a1VvyK4vPJ70tPhY2lPlAxySFOAxA++u9J4fVi4vCjVG0bLUzFQXnMEo91vtsA4GT3113oPPrtuK8XWMx19zqZY8ECMNwQf1XA/wA0npa/blJQxvHRWuOo9ntSokDPx7OQCcnv86B6mgg6UAd41etTOqhVnkCgYADeNUqruwSJS0jEKij7YnAH5I1oyH0b2qkSJUwX9p1UCQrPgFvvA4eM6D//2Q=="
+/>
 
 <ol>
     <li>

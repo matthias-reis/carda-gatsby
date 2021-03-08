@@ -14,6 +14,7 @@ focusKeyword: ""
 labels:
   - Bodrum
   - Geschichten
+  - Geschichten & Erlebtes
   - KEXP
   - kurze Sätze
   - Lyrik
@@ -27,7 +28,6 @@ labels:
   - Schreibweise
   - Social Network
   - Star Anna
-  - Tagebuch
   - Türkei
   - Tweet
   - Tweets
@@ -52,10 +52,16 @@ subTitle: Ist der Schachtelsatz vom Aussterben bedroht?
   
 ---
 
+**Eigentlich hatte ich vor, heute ein Rant über moderne Technik zu schreiben, da
+ich in den letzten Stunden mit Google-Konten, Synchronisierungen, Mobiltelefonen
+und diversen Netzwerkeinstellungen zu kämpfen hatte. Und natürlich auch mal
+wieder mit der Frage nach dem richtigen Betriebssystem. Doch ich denke, das
+überlasse ich lieber anderen.** _\*(Dies ist eine Fußnote, bitte folgen!)_
+
 Ich habe festgestellt, dass sich meine Aktivität, was das Blogschreiben
 betrifft, in der letzten Zeit ziemlich reduziert hat. Das mag am erhöhten
 Termindruck in den letzen Wochen liegen (Was mir, etwas reflektierend
-betrachtet, jedoch eher wie eine passende Ausrede vorkommt), vor allem aber an
+betrachtet,  jedoch eher wie eine passende Ausrede vorkommt), vor allem aber an
 der steigenden Zahl meiner [Tweets](http://twitter.com/#!/Carda_Mon). Twitter
 läuft nebenbei, sobald mir etwas in den Sinn kommt, habe ich es auch schon
 geschrieben. Verschenke ich meine Ideen an Twitter? Oder handelt es sich dabei
@@ -86,20 +92,24 @@ hochgehen und mich an meinen Rechner setzen, der Nachbar kuckt schon ganz
 neugierig. Vielleicht werde ich ja als erstes einen Tweet über ihn schreiben,
 bevor ich diesen Text in mein Blog übertrage. Dann habe ich vielleicht auch die
 nötige Ruhe, den ein oder anderen Satz noch etwas auszuschmücken, zu
-verschachteln. \_\_ _<del>TWEET Die Frau im Wagen vor mir bohrt in der Nase und
-sieht sich das Ergebnis an. #Hall_of_Fame</del>_ <del>TWEET Warum brauche ich
-für meinen Ausweis ein Biometrisches Bild, wenn Gesichtserkennung über
-facebook-Schnappschüsse möglich ist?</del><del>TWEET Sitze vorm Haus im Auto und
-schreibe. Der Nachbar scheint fasziniert zu sein. Mist, der Bleistift ist schon
-ganz stumpf. #Was_macht_die_da?</del>
+verschachteln. \_\_
+
+_<del>TWEET Die Frau im Wagen vor mir bohrt in der Nase und sieht sich das
+Ergebnis an. #Hall_of_Fame</del>_
+
+<del>TWEET Warum brauche ich für meinen Ausweis ein Biometrisches Bild, wenn
+Gesichtserkennung über facebook-Schnappschüsse möglich ist?</del>
+
+<del>TWEET Sitze vorm Haus im Auto und schreibe. Der Nachbar scheint fasziniert
+zu sein. Mist, der Bleistift ist schon ganz stumpf. #Was_macht_die_da?</del>
 
 Alles in Allem bin ich zu dem Schluss gekommen, dass beides wichtig ist. Lange,
 wohlüberlegte Sätze und kurze Statusnachrichten. Beides zu seiner Zeit. Beides
 hat sein Gutes. Ab und zu muss man eben schnell etwas loswerden. Nicht ohne
 Grund ist Twitter die schnellste und effizienteste Form der
-Nachrichtenübertragung. Es warnt vor Erdbeben, Stürmen und Prüfungen. Und ab und
+Nachrichtenübertragung. Es warnt vor Erdbeben, Stürmen und Prüfungen. Und ab und
 zu möchte man sich Zeit nehmen, gezielt recherchieren, sich Gedanken machen,
-Sätze ausschmücken und einen Text bis zum Ende perfekt ausformulieren. Das
+Sätze ausschmücken und einen Text bis zum Ende perfekt ausformulieren.  Das
 Wichtigste ist, dass man niemals aufhört zu schreiben. Auch wenn man das nur für
 sich selbst tut. Mit Schreiben lassen sich prima die Gedanken ordnen. Man kann
 seinem Ärger Luft machen, dem Alltag entfliehen und große Gefühle zum Ausdruck
@@ -110,34 +120,35 @@ sich sieht und sie dann am Ende doch wieder ganz anders aussehen.
 Hier noch ein paar schöne Worte, die mich unlängst auf einer Postkarte
 erreichten, die schon als verloren geglaubt war:
 
-## The Unknown _Do you exist my pretty bird_ _Flying above the snow?_ _Are you actually flying_ _Or do I imagine it so?_ _Detail of wing and breast_ _Unquestionably there -_ _Or do I merely thing you_ _Perfect in Mid Air?_ _W. C. Williams_
+## The Unknown
 
-<RemoteImage
-  alt=""
-  size="full"
-  title="Die Postkarte"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2011/10/shot_1318522744788.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2011/10/shot_1318522744788.jpg"
-  loadingUrl="undefined" />
+_Do you exist my pretty bird_ _Flying above the snow?_ _Are you actually flying_
+_Or do I imagine it so?_ _Detail of wing and breast_ _Unquestionably there -_
+_Or do I merely thing you_ _Perfect in Mid Air?_
+
+_W. C. Williams_
+
+<RemoteImage alt={``} size="full" title={`Die Postkarte`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2011/10/shot_1318522744788.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2011/10/shot_1318522744788.jpg"
+loadingUrl="undefined" />
 
 Den Zettel, auf dem dieser, zugegeben etwas emotionale, Schachtelsatz entstanden
 ist, musste ich natürlich auch fotografisch festhalten:
 
-<RemoteImage
-  alt="Der Zettel"
-  size="full"
-  title="Der Zettel"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2011/10/shot_1318522691267.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2011/10/shot_1318522691267.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Der Zettel`} size="full" title={`Der Zettel`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2011/10/shot_1318522691267.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2011/10/shot_1318522691267.jpg"
+loadingUrl="undefined" />
 
 Und schließlich und endlich noch das Partywissen, welches ich mir, zwecks
-Aneignung vor ein paar Tagen auf dem Zettel notiert hatte:
+Aneignung vor ein paar Tagen auf  dem Zettel notiert hatte:
 
-_Fulda 106.000_ _Würzburg 133.000_ _Regensburg 135.520_ _Augsburg 265.000_
-_Nürnberg 500.000_ _Stuttgart 600.000_ _Hamburg 1.800.000_ _München 2.600.000_
-_Berlin 3.500.000_ _Los Angeles 3.831.868_ _London 7.825.200_ _Istanbul
-13.200.000_ _New York 18.900.000_
+_Fulda                    106.000_ _Würzburg            133.000_ _Regensburg    
+   135.520_ _Augsburg            265.000_ _Nürnberg            500.000_
+_Stuttgart              600.000_ _Hamburg         1.800.000_ _München        
+2.600.000_ _Berlin                3.500.000_ _Los Angeles    3.831.868_ _London
+           7.825.200_ _Istanbul         13.200.000_ _New York      18.900.000_
 
 Das war´s jetzt aber für heute, erst wochenlang nichts und dann so ein
 Redeschwall. Sicher ist das jetzt ein ziemliches Durcheinander, das sind die

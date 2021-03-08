@@ -13,10 +13,10 @@ excerpt: Bei unserem Besuch der Schwedischen Wikingerburg Trelleborg im Juni war
 focusKeyword: Trelleborg
 labels:
   - Dänemark
+  - Fernweh
   - Geschichte
   - Harald Blauzahn
   - Holzburg
-  - Reisen
   - Runen
   - Schweden
   - Schweden2018
@@ -28,7 +28,7 @@ labels:
   - Wikinger
   - Wikingerburg
 type: Galerie mit Bild
-typeName: Galerie mit Bild
+typeName: Gedicht
 date: 2018-08-07T14:32:33.000Z
 status: publish
 isWerbung: false

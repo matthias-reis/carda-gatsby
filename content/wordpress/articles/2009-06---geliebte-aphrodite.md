@@ -12,7 +12,7 @@ focusKeyword: Aphrodite
 labels:
   - Aphrodite
   - Augsburg
-  - Kunst
+  - Geschichten & Erlebtes
 type: Artikel
 typeName: Artikel
 date: 2009-06-08T15:15:57.000Z
@@ -28,13 +28,14 @@ subTitle: Wegen dieser Dame stand die Augsburger Kunstwelt Kopf
   
 ---
 
-<RemoteImage
-  alt="Umstrittene Statue"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_06_Aphrodite2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_06_Aphrodite2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAKhAAAQMDBAAFBAMAAAAAAAAAAQIDBAAFEQYSITEHEyJBYRQyM4FxkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwD/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIRMSED/9oADAMBAAIRAxEAPwDSvKQcgk/Bz1Q0ibtKmm1LbP8AtUceSHvynysd7lYp5rUkCEkNvXaC2AeMvJyPjGaq6RNdKXV+o5lkvdhhtrYZZmPEOF9SRlII3DJPpwDkH3PFTXKVIcUThQSc8kd1znxuetl4usG4w5K5EhUcx1IAOzhWU49OSTvPWfatdZZj8bS1ttz9uvkqQzHShxYhFHPeMrUOuv1QUkhNGEl+IMS4MNolQnnkIwFoU0yElYH3DIOP6p2LqqYppBttrQ3vThKjMSjaSO9iEJ6/nmiii+6bBbVTeotQWyIzd/ofMtxW41IacX5pyMkHJPuAf0Klk6z1RKiJfYmRsKAIxESkjkDncTnjNFFCLvS3pFRqj//Z" />
+**Zwischen 2000 und 2002 erhitzte ein kleiner "Kunstskandal" die Gemüter der
+Augsburger Bürger.**
+
+<RemoteImage alt={`Umstrittene Statue`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_06_Aphrodite2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_06_Aphrodite2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAKhAAAQMDBAAFBAMAAAAAAAAAAQIDBAAFEQYSITEHEyJBYRQyM4FxkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwD/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIRMSED/9oADAMBAAIRAxEAPwDSvKQcgk/Bz1Q0ibtKmm1LbP8AtUceSHvynysd7lYp5rUkCEkNvXaC2AeMvJyPjGaq6RNdKXV+o5lkvdhhtrYZZmPEOF9SRlII3DJPpwDkH3PFTXKVIcUThQSc8kd1znxuetl4usG4w5K5EhUcx1IAOzhWU49OSTvPWfatdZZj8bS1ttz9uvkqQzHShxYhFHPeMrUOuv1QUkhNGEl+IMS4MNolQnnkIwFoU0yElYH3DIOP6p2LqqYppBttrQ3vThKjMSjaSO9iEJ6/nmiii+6bBbVTeotQWyIzd/ofMtxW41IacX5pyMkHJPuAf0Klk6z1RKiJfYmRsKAIxESkjkDncTnjNFFCLvS3pFRqj//Z"
+/>
 
 Alles begann damit, dass die Verle \_**\_ gerin Ellinor Holland zum Gedenken an
 den hundertsten Geburtstag ihres Vaters der Stadt Augsburg die " **Aphrodite\_\_
@@ -54,13 +55,11 @@ stellte sie jedoch nicht das dar, was man sich allgemein unter dem Namen
 Bürgerentscheid dagegen, die Statue vor den Ulrichskirchen aufzustellen. Sie
 wurde für "zu hässlich" erklärt. Sie würde das Stadtbild zerstören.
 
-<RemoteImage
-  alt="Umstrittene Statue"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_06_Aphrodite21__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_06_Aphrodite21__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwP/xAApEAACAQIFAwMFAQAAAAAAAAABAgMEEQAFBiExEiJBBxNRFBUjMnFh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//EABwRAAICAgMAAAAAAAAAAAAAAAABAiEDERIiMf/aAAwDAQACEQMRAD8A0jK5mlmIJ2COd/4cRHqVmz0tFp2mghinFZJYLDIHLMVAVVHNmDNZuNsVdBmuW04kDUuoomIMYMmUSMASOe0m4xi3rVR0k+e0NfR1dZJI9IsMjyUj0qLJHt2K6i22+xNri2LNqTo5wpWMZ4ZZa6IULI9axY0z9oWMXBmqmuNlspCE8Bb+MR88TakzKDTWk0IyqnKmeqKke+VJ/M/wo6mCL8H5Js/mgzLUFQ+TZdMoeWGJ83zFl6IYowo/EpsOwebfsRbgXLnTkFNmEE2RaHVvtsLdNVX8NUt5Yt4X+bnxYcxA6jWOuIKelnSbKnjmXZmoxufPD7eMTurk1RrCWOXOTQ1UCRutL0k05gDkdyrfnbbqvzgwYkuvhrEuTsrm9UdSwP8AT1+S5VKqgrc1MnU1lNr8gk2F/wCnEvqD1Wz+vy36fKMtpsmUyJ7r0x9xnDX47QF/Xc8/7gwYBrTP/9k=" />
+<RemoteImage alt={`Umstrittene Statue`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_06_Aphrodite21__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_06_Aphrodite21__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwP/xAApEAACAQIFAwMFAQAAAAAAAAABAgMEEQAFBiExEiJBBxNRFBUjMnFh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//EABwRAAICAgMAAAAAAAAAAAAAAAABAiEDERIiMf/aAAwDAQACEQMRAD8A0jK5mlmIJ2COd/4cRHqVmz0tFp2mghinFZJYLDIHLMVAVVHNmDNZuNsVdBmuW04kDUuoomIMYMmUSMASOe0m4xi3rVR0k+e0NfR1dZJI9IsMjyUj0qLJHt2K6i22+xNri2LNqTo5wpWMZ4ZZa6IULI9axY0z9oWMXBmqmuNlspCE8Bb+MR88TakzKDTWk0IyqnKmeqKke+VJ/M/wo6mCL8H5Js/mgzLUFQ+TZdMoeWGJ83zFl6IYowo/EpsOwebfsRbgXLnTkFNmEE2RaHVvtsLdNVX8NUt5Yt4X+bnxYcxA6jWOuIKelnSbKnjmXZmoxufPD7eMTurk1RrCWOXOTQ1UCRutL0k05gDkdyrfnbbqvzgwYkuvhrEuTsrm9UdSwP8AT1+S5VKqgrc1MnU1lNr8gk2F/wCnEvqD1Wz+vy36fKMtpsmUyJ7r0x9xnDX47QF/Xc8/7gwYBrTP/9k="
+/>
 
 Die Bürger konnten die Art des Künstlers, die "Aphrodite" darzustellen, nicht
 verstehen. Der Blick sei zu ernst, hieß es, die Figur nicht hübsch genug. Er
@@ -86,10 +85,15 @@ Gedächniskirche)? Oder habt ihr das Gefühl, diese Skulptur hat mit Kunst nicht
 zu tun?
 
 **Quellen:**
+
 [http://de.wikipedia.org/wiki/Augsburg](http://de.wikipedia.org/wiki/Augsburg)
+
 [http://www2.augsburg.de/](http://www2.augsburg.de/)
+
 [http://www.augsburgwiki.de/index.php/AugsburgWiki/...](http://www.augsburgwiki.de/index.php/AugsburgWiki/Aphrodite-Kunstskandal)
+
 **Wer ist Aphrodite?**
+
 [http://de.wikipedia.org/wiki/Aphrodite](http://de.wikipedia.org/wiki/Aphrodite)
 
 &nbsp;

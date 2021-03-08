@@ -13,8 +13,8 @@ focusKeyword: Santaverde
 labels:
   - Aloe Vera
   - der Duft der Orangen
+  - Fair Fashion & Beauty
   - Finca Verde
-  - Mode & Beauty
   - Naturkosmetik
   - Pure Anti-Spot Gel
   - Pure Purifying Cleanser
@@ -63,13 +63,11 @@ Pure-Reihe, reicht im Anschluss vollkommen aus. Zumindest ist das bei meiner
 
 ## Zertifizierte Naturkosmetik ohne Duftstoffe
 
-<RemoteImage
-  alt="santaverde"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAgF/8QAJxAAAgECBAYDAQEAAAAAAAAAAQIDBBEABRIhBhMUMUFhBzJRIpH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwQF/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQIAAxEEITEi/9oADAMBAAIRAxEAPwCjlmb01HljI601RUmGOUosjTkqLsxZi1t++lfy2GPk+VUtNSdZzpKrqIiiTuipqWUq4NvPYb+zfGfGqVqs1/o3Z31Wp7qiixY22uB474d3A9e1ZwJFTSzLLNRv07zx7rYNdTvY/UjHI4Vag/XuRLXnZnO49iah4Vr6iFtMqLpWxFn1ELpP+7e8I7NZIZqwvEJIBrKSQlNxGQCGUD8Ivt5OHd8oLoyekomdpudViRgReyRo0jbfg0XxnpaiOrEMkUnKnKteM9pFAN7Me2/j2Ma2r07A/Zlnh3P56ZJjSoeQVCysbSPo9A7g38jwbYanxBnnOpuJKWbmink5U8MsylRI2kqwF9j2XBgw66lDsRKlzmSTj6SszKemXLo0WLo6uK4ZUHOmjES+/qXwrKjgqqgolTN82yyjhRmkRNZkYEgA2sBf6jbBgxav3JJjnc//2Q==" />
+<RemoteImage alt={`santaverde`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAgF/8QAJxAAAgECBAYDAQEAAAAAAAAAAQIDBBEABRIhBhMUMUFhBzJRIpH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwQF/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQIAAxEEITEi/9oADAMBAAIRAxEAPwCjlmb01HljI601RUmGOUosjTkqLsxZi1t++lfy2GPk+VUtNSdZzpKrqIiiTuipqWUq4NvPYb+zfGfGqVqs1/o3Z31Wp7qiixY22uB474d3A9e1ZwJFTSzLLNRv07zx7rYNdTvY/UjHI4Vag/XuRLXnZnO49iah4Vr6iFtMqLpWxFn1ELpP+7e8I7NZIZqwvEJIBrKSQlNxGQCGUD8Ivt5OHd8oLoyekomdpudViRgReyRo0jbfg0XxnpaiOrEMkUnKnKteM9pFAN7Me2/j2Ma2r07A/Zlnh3P56ZJjSoeQVCysbSPo9A7g38jwbYanxBnnOpuJKWbmink5U8MsylRI2kqwF9j2XBgw66lDsRKlzmSTj6SszKemXLo0WLo6uK4ZUHOmjES+/qXwrKjgqqgolTN82yyjhRmkRNZkYEgA2sBf6jbBgxav3JJjnc//2Q=="
+/>
 
 Das **Anti-Pickel-Gel** (Anti-Spot Gel) wirkt antibakteriell und
 entzündungshemmend. Außerdem soll es die Narbenbildung minimieren. Es kann
@@ -95,13 +93,11 @@ frei von Tierversuchen und natürlich vegan.
 
 ## Das steckt drin in den Pure Produkten von Santaverde
 
-<RemoteImage
-  alt="santaverde"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-7__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-7__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwP/xAApEAACAQQBAwMDBQAAAAAAAAABAgMABAUREiExQQYUIkLB0VFxkZLh/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMC/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACAxIhMRP/2gAMAwEAAhEDEQA/AOWGs1j4cePIaOjWjR3uJxl/Y3s2HWe7e2gnjkaQgBgrKDxAI2ASN/pqonHGFjG2gzL2IPaqlG3Z41S5cx2qxknzpm/NDtdCM+Ysp7j1lFcGJTZe35uEMnInW/3A6Un9c4pb/wBL5e15iRzC0i68FfkNf1pFmWXVuDo/In7fenGByfu7Z7aX5PEhQk/Unj8VfHRvVGS0z4IkzDG3sBQcpW7eAKe2Fyry7huWVYjxI0N9euqKKLfoigH2GXyoF5FGpQkJvtsjZ/ylsube0uorlZNsjdt9CPI1/NFFUx6mdfJ//9k=" />
+<RemoteImage alt={`santaverde`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-7__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-7__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwP/xAApEAACAQQBAwMDBQAAAAAAAAABAgMABAUREiExQQYUIkLB0VFxkZLh/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMC/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACAxIhMRP/2gAMAwEAAhEDEQA/AOWGs1j4cePIaOjWjR3uJxl/Y3s2HWe7e2gnjkaQgBgrKDxAI2ASN/pqonHGFjG2gzL2IPaqlG3Z41S5cx2qxknzpm/NDtdCM+Ysp7j1lFcGJTZe35uEMnInW/3A6Un9c4pb/wBL5e15iRzC0i68FfkNf1pFmWXVuDo/In7fenGByfu7Z7aX5PEhQk/Unj8VfHRvVGS0z4IkzDG3sBQcpW7eAKe2Fyry7huWVYjxI0N9euqKKLfoigH2GXyoF5FGpQkJvtsjZ/ylsube0uorlZNsjdt9CPI1/NFFUx6mdfJ//9k="
+/>
 
 Für die Produkte aus der Pure-Linie von Santaverde werden neben der Grundzutat
 **Aloe Vera** außerdem Stiefmütterchenblütenextrakt und Salicylsäure aus
@@ -144,13 +140,11 @@ empfindlichen Haut empfehlen.
 
 ## Der Duft der Orangen
 
-<RemoteImage
-  alt=""
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-5__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-5__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgP/xAAqEAACAQMEAQMCBwAAAAAAAAABAgMEBREABhIhMQdBYRMiFCNRcYGh4f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EAB0RAAIBBQEBAAAAAAAAAAAAAAABAgMREyExQQX/2gAMAwEAAhEDEQA/ANxsWBqKuIjx+YgXI8EEjTC2b9ttdVTxvRTxpAxjaU4b7g3HHHz5/wB1y2kMVTEEMo44x++pqnKovdyo2aRVmnkiKwkKzYkJAAweTEgDrH9aNVHGPTeNNlxtVzoL0JWoJFkEL8JBjBRsZwR8jvUM3l+Jkvlys9QYhI9QwhadyBEFbEWX9srk++AR1qrenl5ttynrlttCaWKCONTyADMMuADgkkAHGTqVercNJT75vEtaD9JxHOoVOXPKKxHXgdMc/HtqT6FPNCN/GFOknw2uz7jEgd2dR9y9k6WS7NnqbrPWC6UMUbVEk0ahGbAZie/HejRpXFS6VNaHezLEu1amrnku0dSs8Qj+msJTBDZBzk5/TxrKerFhp71ekrJ7lVU8b0qxtFFxAbBOSSfggfxo0aXwKelc/9k=" />
+<RemoteImage alt={`} size="medium" title={`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-5__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-5__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgP/xAAqEAACAQMEAQMCBwAAAAAAAAABAgMEBREABhIhMQdBYRMiFCNRcYGh4f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EAB0RAAIBBQEBAAAAAAAAAAAAAAABAgMREyExQQX/2gAMAwEAAhEDEQA/ANxsWBqKuIjx+YgXI8EEjTC2b9ttdVTxvRTxpAxjaU4b7g3HHHz5/wB1y2kMVTEEMo44x++pqnKovdyo2aRVmnkiKwkKzYkJAAweTEgDrH9aNVHGPTeNNlxtVzoL0JWoJFkEL8JBjBRsZwR8jvUM3l+Jkvlys9QYhI9QwhadyBEFbEWX9srk++AR1qrenl5ttynrlttCaWKCONTyADMMuADgkkAHGTqVercNJT75vEtaD9JxHOoVOXPKKxHXgdMc/HtqT6FPNCN/GFOknw2uz7jEgd2dR9y9k6WS7NnqbrPWC6UMUbVEk0ahGbAZie/HejRpXFS6VNaHezLEu1amrnku0dSs8Qj+msJTBDZBzk5/TxrKerFhp71ekrJ7lVU8b0qxtFFxAbBOSSfggfxo0aXwKelc/9k="
+/>
 
 Mit meinem Testpaket habe ich dieses Mal noch etwas erhalten, über das ich mich
 ganz besonders gefreut habe: Das Buch "Der Duft der Orangen oder wie man lernt,

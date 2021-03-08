@@ -17,14 +17,13 @@ labels:
   - Deo ohne Aluminium
   - Deocreme
   - Deocremes
+  - Fair Fashion & Beauty
   - gegen Tierversuche
-  - Mode & Beauty
   - Natronfreie Cremedeos
   - Sauberkunst
   - vegan beauty
   - vegane Deocreme
   - vegane Deocremes
-  - Vegane Produkte
   - veganes Deo
 type: Artikel
 typeName: Produkttest
@@ -32,8 +31,7 @@ date: 2019-01-18T17:09:43.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Unexpected token (15:15)"
+errors: {}
 thumbnailId: "23212"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_1__l.jpg
@@ -42,9 +40,6 @@ subTitle: Zarter Duft für sensible Haut
   
 ---
 
-## unknown: Unexpected token (15:15)
-
-<!--
 _Werbung\*_
 
 **Aus dem Hause Sauberkunst gibt es jetzt etwas ganz Neues: Deocremes ohne
@@ -55,8 +50,8 @@ Insgesamt gibt es vier spannende Duftrichtungen: "Zeus &amp; Aphrodite",
 Spa, Entspannung und Erholung erinnern und Name "Grapefruit rosé" spricht für
 sich, denke ich.
 
-<RemoteImage alt="natronfreie-cremedeos" size="medium" title="Rasierseife und
-Cremedeo "Zeus &amp; Aphrodite""
+<RemoteImage alt={`natronfreie-cremedeos`} size="medium"
+title={`Rasierseife und Cremedeo "Zeus & Aphrodite"`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_6__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_6__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgX/xAAqEAACAgEDAwQCAQUAAAAAAAABAgMEEQAFBhIhMQcTQWEUUSIycYGRof/EABcBAQADAAAAAAAAAAAAAAAAAAIDBAX/xAAkEQACAQIGAQUAAAAAAAAAAAABAhEAAwQSITFRcSJBYYGhwf/aAAwDAQACEQMRAD8AV4DtFKhy/ctxoqsk0deOvIFI6FsSOSRgElSAoyPjOqXFSqWrCLbr13aVuj3YAUYN57/vP71gvQulFX4DH75WRr07WXkjlDMjZCqG/RAUHGfnxrebhai2jZr26mR7U9OtJPDWEfSzuB2/j5Jzgf21kYjD33uCBKacR7yOu/ilbYIJGlR3eISPXCStXrPuVGo8SsegMsC9Hl+2Fw3fP+tcb1ao/gmF36meWaV0k6F7rgBssMZ74I+j8aofp5tsq8PWfcI+vc7QNiRLEZDtYywYuT5GCoA+AukOf1on4vcW20AQVSzrH4Scd1Yf8H+Tp+KtkUED64jf8omyrK2vlv6d1OfSWqtW5LvfuWFiL/hrDBKIvcdh2JYEYwceRg51WeMcwW1uu67M1ovbqxgxfmRrEOvx/UvY5JABzn6+dGjUoBNwiaIcpbA5pbm3Nd04lttYwrXmt2JVIVnJjaPpPVj5JDED6z96k3Lec7zymFYb7QwVI+6QRZ6SfvPc6NGi0oMkzVdrrPcyHav/2Q=="
@@ -91,8 +86,8 @@ lange durch. Noch am Abend kann man den feinen Duft wahrnehmen.
 
 ## Sauberkunst produziert plastikfrei
 
-<RemoteImage alt="natronfreie-cremedeos" size="medium" title="Seife und Cremedeo
-"Blaue Lagune""
+<RemoteImage alt={`natronfreie-cremedeos`} size="medium"
+title={`Seife und Cremedeo "Blaue Lagune"`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_9__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_9__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgQF/8QAKxAAAgEDAgYABQUAAAAAAAAAAQIDBAURACEGEhMiMUEHFGFxkSQyUYGx/8QAFwEBAQEBAAAAAAAAAAAAAAAABAUCA//EACURAAEEAQIFBQAAAAAAAAAAAAECAxEhABJRExQxQfAiYXGBwf/aAAwDAQACEQMRAD8AlXCVqhuF1hpk6vSaQqGZCeVfPfyntXGN/wAao9z4cthtdfTpRQ0i00JkWpXOS6AftLY5gQMb/fzrncJ01NTWaNYCjzdNJUheQKJXOCST5Y77An140zXy1S3uzVVuhiaGCcRQmQHA6hIOB7IwCDj1qby5mJuJNUQewO+EbSgDSUzNTsfj9+8y4Ls9NScH2oSrU/OVUXzLrEd+/u3B22HLrXv1AI7dW1KyJ+mieSRJkKMuAT6yD+NOVVAjsJrbiaExiDkjYcygHbY/4fppD+Ks09PwvUocpLXslOqZy3TXuYn67Af3o/qD2laaHt23nzr0xS1BpujQxSoeIbfwxYaaeShapSnVYVYrzGV1PnPN24/jfVAbioutBNHBkyAzJyxlgpC7nJ3yAfe/20aNJceXwdU3nQISHCmPIxdvXxIS23uWiqqNpqcojpUQsSQGAO+d/J9EDSl8Q+J6e/T0TQNOYIojjqg7Ox3xufQX2fejRrbrhUnTkt1xSiUE1ef/2Q=="
@@ -159,7 +154,5 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_0
   findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
 
 &nbsp;
-
--->
 
   

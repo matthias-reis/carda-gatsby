@@ -13,11 +13,12 @@ labels:
   - Amsterdam
   - Amsterdam2018
   - Banana Pancakes
+  - Fernweh
   - Raw Food Café
-  - Reisen
   - roh-vegan
   - vegan essen gehen
   - Vegane Lokale
+  - vegane Lokale
   - Zest For Life
 type: Artikel
 typeName: Artikel
@@ -48,13 +49,11 @@ gefüllten Wrap.
 
 ## Banana Pancakes im Raw Food Café
 
-<RemoteImage
-  alt="Raw Food Café"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38471452810_af6d2e26c5_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38471452810_af6d2e26c5_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwECBf/EACoQAAEDAwMDAwQDAAAAAAAAAAECAxEABBIFBiExQVETImEVMlLBcYHh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQQCA//EABkRAQEBAQEBAAAAAAAAAAAAAAEAITECUf/aAAwDAQACEQMRAD8ARNt7ZVc2qbu9QUtFOTbXQqHknsPgc1PTufTNKtQDpbLAlSc1YnkH7eJOR7A0z7htRd7feTYulNyFICChR4WCMRweBxz2qqNTeQHCxcNMsutGC2kYpmOmJkcdMo/RqMCs7OVhuux1VPo3tg221GLjgazHbgp6+RImDFQte2m02yu901tfpBKiu3UrKE/kk+PilrQEpYdi0SyVKUMShRKcsoBkiUmYB8g1Z2iKbeXexZOWK2lhK2sRhOMcKTwoRH8UPkVCHLC79r6QpbfeFhTQBk9Qfmf3Str9qxqDal6gCBll6iEJEDskmJPPmiiuhll+2u2NCYsx6q0tvYKlsr98SPBH9x06RXfVcNWLb771wUD3KPv9sd1H5/yiinuxzL//2Q==" />
+<RemoteImage alt={`Raw Food Café`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38471452810_af6d2e26c5_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38471452810_af6d2e26c5_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwECBf/EACoQAAEDAwMDAwQDAAAAAAAAAAECAxEABBIFBiExQVETImEVMlLBcYHh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQQCA//EABkRAQEBAQEBAAAAAAAAAAAAAAEAITECUf/aAAwDAQACEQMRAD8ARNt7ZVc2qbu9QUtFOTbXQqHknsPgc1PTufTNKtQDpbLAlSc1YnkH7eJOR7A0z7htRd7feTYulNyFICChR4WCMRweBxz2qqNTeQHCxcNMsutGC2kYpmOmJkcdMo/RqMCs7OVhuux1VPo3tg221GLjgazHbgp6+RImDFQte2m02yu901tfpBKiu3UrKE/kk+PilrQEpYdi0SyVKUMShRKcsoBkiUmYB8g1Z2iKbeXexZOWK2lhK2sRhOMcKTwoRH8UPkVCHLC79r6QpbfeFhTQBk9Qfmf3Str9qxqDal6gCBll6iEJEDskmJPPmiiuhll+2u2NCYsx6q0tvYKlsr98SPBH9x06RXfVcNWLb771wUD3KPv9sd1H5/yiinuxzL//2Q=="
+/>
 
 Wir waren zum Frühstück dort und haben uns für Raw Banana Pancakes mit Bananen,
 Cashews, Kokos, frischen Früchten und Schokoladensauce für neun Euro enschieden.

@@ -12,7 +12,6 @@ excerpt: Künstlerin Denise Hof erfindet sich immer wieder neu. Jetzt hat sie ei
   Mienenbüttel.
 focusKeyword: mienenbuettel
 labels:
-  - Darum vegan
   - Denise Hof
   - LPT
   - Mienenbüttel
@@ -122,10 +121,9 @@ Hat Euch mein Beitrag gefallen? Das freut mich!
 [Abonniert gerne meinen Newsletter](#newsletter), um in Zukunft nichts mehr auf
 meiner Seite zu verpassen.
 
-## Fußnoten / Quellen
+### Fußnoten
 
-[1][website denise hof art](https://www.denisehofart.de)
-
-[2][buch für paul](https://www.stiftung-fuer-tierschutz.de/2018/10/paul-ein-botschafter-der-rinder/)
+- [1][website denise hof art](https://www.denisehofart.de)
+- [2][buch für paul](https://www.stiftung-fuer-tierschutz.de/2018/10/paul-ein-botschafter-der-rinder/)
 
   

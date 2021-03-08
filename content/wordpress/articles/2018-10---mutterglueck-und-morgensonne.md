@@ -13,9 +13,9 @@ excerpt: Ihr habt gedacht, Ihr habt schon alle Fotoserien gesehen, die ich im
 focusKeyword: Mutterglück
 labels:
   - Enten
+  - Fernweh
   - Gänse
   - Mutterglück
-  - Reisen
   - Schweden
   - Schweden2018
   - Skandinavien

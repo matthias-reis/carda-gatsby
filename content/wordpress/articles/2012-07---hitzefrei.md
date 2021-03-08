@@ -15,6 +15,7 @@ labels:
   - Fliege
   - Gedanken
   - Geschichten
+  - Geschichten & Erlebtes
   - Herz
   - Hitze
   - Incubus
@@ -30,7 +31,6 @@ labels:
   - Musik
   - Neonlampe
   - pirouette
-  - Prosa
   - Regen
   - Reinkarnation
   - Schmetterling
@@ -44,8 +44,7 @@ date: 2012-07-26T14:35:51.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "3314"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_599460_450404824981652_1788614199_n1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_599460_450404824981652_1788614199_n1__l.jpg
@@ -53,6 +52,9 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Gedankenansammlung
   
 ---
+
+**Wenn es regnet, gehen wir in den Park. Wenn die Sonne scheint, in die
+Turnhalle.**
 
 Immer ruhig bleiben. Die Katzenhaare ignorieren. Laute Musik. Chronisch pleite.
 Strafzettelsammlung. Kaffeesucht. Liebe zu Lavendel.
@@ -73,41 +75,8 @@ früher irgendwie anders gewesen sein muss. Und an eine Neonlampe.
 Und wir rennen weiter hinter der Straßenbahn her und lassen unseren Regenschirm
 im Supermarkt an der Kasse liegen.
 
-<RemoteImage
-  alt="'Da saß ein Vogel auf dem Zaun' Anne Reko 6/2012"
-  size="full"
-  title=""
-  mediumUrl="http://cardamonchai.files.wordpress.com/2012/07/599460_450404824981652_1788614199_n1.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2012/07/599460_450404824981652_1788614199_n1.jpg"
-  loadingUrl="undefined" />
-
-**Song zum Text: Incubus - A Crow Left Of The Murder**
+## Song des Tages: Incubus - A Crow Left Of The Murder
 
 [youtube=http://www.youtube.com/watch?v=t-UuZV-HKyw]
-
-Unlearn me Ditch what I read Behind what I heard
-
-Look. Find. Free. Yet! Do you get it yet? Do you get it?!
-
-From here on it's instinctual Even straight roads meander Every piece contains a
-map of it all! It all!
-
-Evidence, March of the ant, Pulse of the sea
-
-Look. Find. Free. Yet! Do You get it yet? Do You get it?!
-
-From here on it's instinctual Even straight roads meander Every piece contains a
-map of it all! It all!
-
-Out of the line and indivisible A crow left of the murder Every piece contains a
-map of it all! It all!
-
-Everything I wanted, wanted to know... Everything I wanted, wanted to see... to
-see
-
-Unlearn me Unlearn me Do you get it yet?
-
-Look, Find, Free Do you get it yet? Do you get it yet? Do you get it yet? Do you
-get it yet? Do you get it yet? Do you get it yet? Do you get it yet?
 
   

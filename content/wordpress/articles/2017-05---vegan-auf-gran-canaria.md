@@ -15,7 +15,7 @@ labels:
   - Avocado
   - Bananen
   - Cruelty Free
-  - Darum vegan
+  - Fernweh
   - Finka
   - Gran Canaria
   - Instituto Espanol
@@ -28,7 +28,6 @@ labels:
   - Orangen
   - Playa del Ingles
   - Reisen
-  - Reisen
   - Sonne
   - Spanien
   - Spar Natural
@@ -36,6 +35,7 @@ labels:
   - Vegan auf Gran Canaria
   - vegan Reisen
   - vegan travelling
+  - Vegane Lokale
   - Vitamine
 type: Artikel
 typeName: Artikel
@@ -52,13 +52,11 @@ subTitle: Insel der süßen Früchte
   
 ---
 
-<RemoteImage
-  alt="Vegan auf Gran Canaria"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2035__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2035__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAqEAABBAEEAAUDBQAAAAAAAAABAgMEEQUABhIhBxMVIjEUQVFhcZGhsf/EABcBAQEBAQAAAAAAAAAAAAAAAAUEAAL/xAAmEQABBAECBAcAAAAAAAAAAAABAAIDESEEEgVRYXEUFSOBscHw/9oADAMBAAIRAxEAPwC3c3RtvC5T0xhlnmAoJWOITzSCeJ6sXRok/Y9amsX4gzBv3Iia42xhUNFQjLSpQUpLdkoPHlZV+w/3WT4VTmUlSFCG+6sOKLK3/NU68sKNEKSD7gF0QoAUAQQdPG0ZvbUyI9FYyeCyMhKgfqfd54BtVpNkp5Huq660f4hzTQGOVYSLeHl4J3Cx1+OaY7a8S5sP1VyWXsy9IWhTSGyeCFWS4RQvihFJAA76+K0anzAjZTczig0uNkyhyU4IaKSoLAUBxUPYe6qh/Y0alldpQfUGUjpdCHR2M/u67GMNmcRLiTIU3IRMhJU4FmE70i1EnmpRJ+Ca+TX31Yb52bjn8lgETncnNzMslLsl5wvuJ9vLsq6SkGuhQ71ocvbUhGQckY36VpZvy3HYgcUgfgGxpd6JnWsgp15lx9S6JdQ/Vm+7sWB+g/nXcsWpYKq+yNE0b3bjhRO4sRh8GYLleXmH2FrSI6/KccKVBtYCj1V8SAfya+Bo1qsjb2Mnwm07hgR5biaCUEEJQB3xHdkX338nRreUySgPcQD1z9hWQ8XbE3btJ96X/9k=" />
+<RemoteImage alt={`Vegan auf Gran Canaria`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2035__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2035__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAqEAABBAEEAAUDBQAAAAAAAAABAgMEEQUABhIhBxMVIjEUQVFhcZGhsf/EABcBAQEBAQAAAAAAAAAAAAAAAAUEAAL/xAAmEQABBAECBAcAAAAAAAAAAAABAAIDESEEEgVRYXEUFSOBscHw/9oADAMBAAIRAxEAPwC3c3RtvC5T0xhlnmAoJWOITzSCeJ6sXRok/Y9amsX4gzBv3Iia42xhUNFQjLSpQUpLdkoPHlZV+w/3WT4VTmUlSFCG+6sOKLK3/NU68sKNEKSD7gF0QoAUAQQdPG0ZvbUyI9FYyeCyMhKgfqfd54BtVpNkp5Huq660f4hzTQGOVYSLeHl4J3Cx1+OaY7a8S5sP1VyWXsy9IWhTSGyeCFWS4RQvihFJAA76+K0anzAjZTczig0uNkyhyU4IaKSoLAUBxUPYe6qh/Y0alldpQfUGUjpdCHR2M/u67GMNmcRLiTIU3IRMhJU4FmE70i1EnmpRJ+Ca+TX31Yb52bjn8lgETncnNzMslLsl5wvuJ9vLsq6SkGuhQ71ocvbUhGQckY36VpZvy3HYgcUgfgGxpd6JnWsgp15lx9S6JdQ/Vm+7sWB+g/nXcsWpYKq+yNE0b3bjhRO4sRh8GYLleXmH2FrSI6/KccKVBtYCj1V8SAfya+Bo1qsjb2Mnwm07hgR5biaCUEEJQB3xHdkX338nRreUySgPcQD1z9hWQ8XbE3btJ96X/9k="
+/>
 
 **Gran Canaria ist ein echtes Paradies für VeganerInnen. Die Früchte wachsen
 einem nur so in den Mund, alles ist frisch und jede/r weiß genau, was gemeint
@@ -80,21 +78,19 @@ satt, bevor wir uns mit dem Überlandbus auf den Weg in den Süden machten.
 
 ## Vegan auf Gran Canaria - Wir sind im Schlaraffenland angekommen
 
-<RemoteImage
-  alt="Vegan auf Gran Canaria"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2039__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2039__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwIDBP/EACgQAAICAQMEAgICAwAAAAAAAAECAwQRAAUSBhMhMRRBIiMHYVKBwf/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAX/xAAlEQABBAECBQUAAAAAAAAAAAABAAIDEQQSIQUxUWHBEyKx8PH/2gAMAwEAAhEDEQA/AK83M2dtkhapHLTgiKydmDk/CQE4Bcr5yQPB+/8AZ13fxz1te2TqJlgPditI0ZgDF1VmJxLxzxBH5ZxjOdHV892rYnp7pXqW/lQmaNQ0qR8+YIcKpA54J+8EZzpzWoPWoJ8+vtNuF1EMjiGFOwjgqSF5csDGT9n2POoTxIyREO5m1o45GgFwVo9LdVpuO1vU6orM9sKFkZq3FZixIC9s/wBYOfWD9etGoje3aGnI1nZt0i/CBI/lqWCRITnP7PGAcYAz7GjUkWWQKdd9h+oTw+o/VHsOiivWOzWX6d2+KvaikehK0irPJ25EhdsFljPgIrcRjOfGcYONMNgpUKuzR3LdZLcX7nsyVXMiyxDwS0Z4sR4VgAMjA/y1j1F1bVqxb1Vr7Qrd4qLFiZQXmCry4+R7Z2Jz6/EY9a2bBbt3/nGK3VSWOglGIShn7AGGIU+/ywAT/Q0ubHyHNAO24v75SoHs3PXklFm3HR6as3rG03ljRXkRHrMsbqThJOJzgE4Pn0PGjU66cpXt7twVZ6by0plbvGRcoyEEYx9j/mjVOMHSNPtuu48lNlphAB+V/9k=" />
+<RemoteImage alt={`Vegan auf Gran Canaria`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2039__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2039__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwIDBP/EACgQAAICAQMEAgICAwAAAAAAAAECAwQRAAUSBhMhMRRBIiMHYVKBwf/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAX/xAAlEQABBAECBQUAAAAAAAAAAAABAAIDEQQSIQUxUWHBEyKx8PH/2gAMAwEAAhEDEQA/AK83M2dtkhapHLTgiKydmDk/CQE4Bcr5yQPB+/8AZ13fxz1te2TqJlgPditI0ZgDF1VmJxLxzxBH5ZxjOdHV892rYnp7pXqW/lQmaNQ0qR8+YIcKpA54J+8EZzpzWoPWoJ8+vtNuF1EMjiGFOwjgqSF5csDGT9n2POoTxIyREO5m1o45GgFwVo9LdVpuO1vU6orM9sKFkZq3FZixIC9s/wBYOfWD9etGoje3aGnI1nZt0i/CBI/lqWCRITnP7PGAcYAz7GjUkWWQKdd9h+oTw+o/VHsOiivWOzWX6d2+KvaikehK0irPJ25EhdsFljPgIrcRjOfGcYONMNgpUKuzR3LdZLcX7nsyVXMiyxDwS0Z4sR4VgAMjA/y1j1F1bVqxb1Vr7Qrd4qLFiZQXmCry4+R7Z2Jz6/EY9a2bBbt3/nGK3VSWOglGIShn7AGGIU+/ywAT/Q0ubHyHNAO24v75SoHs3PXklFm3HR6as3rG03ljRXkRHrMsbqThJOJzgE4Pn0PGjU66cpXt7twVZ6by0plbvGRcoyEEYx9j/mjVOMHSNPtuu48lNlphAB+V/9k="
+/>
 
 Dort angekommen, stiegen wir in dem kleinen aber feinen Hotel 
-[_Labranda Marieta_](https://www.labranda.com/de/hotel/marieta.html) in Playa
-del Ingles ab. Ich hatte vorab eine Anfrage per Mail geschickt (natürlich auf
-spanisch), wie es mit veganem Essen am Frühstücks- und Abendessen-Buffet
-aussieht. Durch die diversen Beiträge im Internet, die ich vorab gelesen hatte,
-versuchte ich dabei so sehr wie möglich ins Detail zu gehen. Der "Vegan
-Passport" war mir dabei eine große Hilfe.
+[_Labranda Marieta_](https://www.labranda.com/de/hotel/labranda-marieta-15920)
+in Playa del Ingles ab. Ich hatte vorab eine Anfrage per Mail geschickt
+(natürlich auf spanisch), wie es mit veganem Essen am Frühstücks- und
+Abendessen-Buffet aussieht. Durch die diversen Beiträge im Internet, die ich
+vorab gelesen hatte, versuchte ich dabei so sehr wie möglich ins Detail zu
+gehen. Der "Vegan Passport" war mir dabei eine große Hilfe.
 
 Schon kurze Zeit später erhielt ich eine sehr freundliche E-Mail von einer
 Mitarbeiterin des Hotels. Auf Englisch.
@@ -129,13 +125,11 @@ zwei von uns!" :-P
 
 ## Vegane Menüs
 
-<RemoteImage
-  alt="Vegan auf Gran Canaria"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2040__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2040__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACgQAAIBAwQCAQMFAAAAAAAAAAECAwQFEQAGEiETMQcUQVEicYKh8P/EABcBAQADAAAAAAAAAAAAAAAAAAMAAgT/xAAhEQABBAEEAwEAAAAAAAAAAAABAAIDESEEEzFBEnGRsf/aAAwDAQACEQMRAD8A4C9XO17qs9DbJJ4EnhleokqTHG0cQB5ScySFAPJifZ9AHU5Hva6TSUCSXweSYCp8fPhwj4yNGGJUY/SnkOe8FcjB1lXzgBNvyqoJ2R1pKaGA8D1krzP9sNRvxz8dU276yrNZVS0trokE9XUBuRAJwEUfdjj2fQH7ayaeE7QLsHtKZKJ7WtbquU14lgusyqZWhjVpSFBlQoHjfC9dgsP46NN4bRsXatJVW2nFzpvPwdmefyOSueLBccfuRj8aNNvxjHkEfOU3j2DRXGtrNyb0kqamquczTU9vp38WI+grSMO8lQDxGMZ7Ordsez7eoFvdPaKCtp3mgxUUTztIsyqCcLy7VseiCQSBpzXwverbQV1qkilZI1ZVLYVgQOs+vsDpNNMNl2Sv3JuGeL6hEJSJG6LDPCNPySx/2NE18olEdW2uU5Ywxl15VNqdz/H1Uy1NNuq5yTSBEjhjowShJxyYsuB0ez160apGwbRTXHb9U0FvjuF1+oEbxPFzRE64j2MZJLcs5wDo1SWPTtNGO/qkOndILa4D2QP1f//Z" />
+<RemoteImage alt={`Vegan auf Gran Canaria`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2040__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2040__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACgQAAIBAwQCAQMFAAAAAAAAAAECAwQFEQAGEiETMQcUQVEicYKh8P/EABcBAQADAAAAAAAAAAAAAAAAAAMAAgT/xAAhEQABBAEEAwEAAAAAAAAAAAABAAIDESEEEzFBEnGRsf/aAAwDAQACEQMRAD8A4C9XO17qs9DbJJ4EnhleokqTHG0cQB5ScySFAPJifZ9AHU5Hva6TSUCSXweSYCp8fPhwj4yNGGJUY/SnkOe8FcjB1lXzgBNvyqoJ2R1pKaGA8D1krzP9sNRvxz8dU276yrNZVS0trokE9XUBuRAJwEUfdjj2fQH7ayaeE7QLsHtKZKJ7WtbquU14lgusyqZWhjVpSFBlQoHjfC9dgsP46NN4bRsXatJVW2nFzpvPwdmefyOSueLBccfuRj8aNNvxjHkEfOU3j2DRXGtrNyb0kqamquczTU9vp38WI+grSMO8lQDxGMZ7Ordsez7eoFvdPaKCtp3mgxUUTztIsyqCcLy7VseiCQSBpzXwverbQV1qkilZI1ZVLYVgQOs+vsDpNNMNl2Sv3JuGeL6hEJSJG6LDPCNPySx/2NE18olEdW2uU5Ywxl15VNqdz/H1Uy1NNuq5yTSBEjhjowShJxyYsuB0ez160apGwbRTXHb9U0FvjuF1+oEbxPFzRE64j2MZJLcs5wDo1SWPTtNGO/qkOndILa4D2QP1f//Z"
+/>
 
 Weil ich geschrieben hatte, dass ich besonders gespannt war auf die typischen
 Avocados, die in Gran Canaria angebaut werden, bekamen wir fast jeden Abend als
@@ -166,13 +160,11 @@ Biogemüse und Waren des täglichen Bedarfs zu kaufen. Doch auch in gängigen
 Supermärkten, Minimärkten und Spätis entdeckten wir überall vegane Lebensmittel,
 die auch als solche deklariert waren.
 
-<RemoteImage
-  alt="Vegan in Gran Canaria"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_unnamed__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_unnamed__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBAf/xAAtEAACAQMDAgQFBQEAAAAAAAABAgMEBREAEiEGMRMiUWEHFTJBcRQjUoGhwf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EACURAAIBAwIFBQAAAAAAAAAAAAECEQADBCExBRJBUaEjYbHR8P/aAAwDAQACEQMRAD8ApulujbKttpI7hR09VUSDdJLKCSD7YPAGlidN0ti+IcUUJU0j071NOH5wfpK898HOPbVXaDlInSGoZWAYFI9wwfcHGkvVdziTqeGSnK/qqO1VMm1mUkHkjIUkjtrEm6AS061NcuOkk7VTU6xuFbxZ1Yd0BBjb8jGf91yLrqkig6quSxqgV5PEUKoxyqk/6dGprr40viS9R1BqCAwSOtkUA5xjaFAA7nA/Gp34r3KSivtrqrg8qVs9rhkbygbWy6M20jOSFB57apxrTB470OLlqWM9qLYrRNQ01IKm1yTJJJ5XLwCNwTkcsc9iONUvTlokoOv6apKRwx1lI6RpG6sQUO05KgAHJ7D01vs9PblttPDdr3RUssaJuinhKOu0AeX+QznkeumfyitqOpLNcrVTVM9rp1kQu6eE7bsecRtgheBj7nvjROchpDLp+958VQ3Dwnqcw06az8R5otFTNzJNUyNGofbvALqOPpz9+Bj+/XWq/fN5uoYEtkVdNT0cUTyGKZI0JxuO8k5P24H/AHTeO0VE9Wsks1wZN24QSR7gvsC3YfjTSrttbLK7fu7H7ovA7ep40eEGa4SykRT2VFpgttuYb7EQSAOv2RX/2Q==" />
+<RemoteImage alt={`Vegan in Gran Canaria`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_unnamed__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_unnamed__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBAf/xAAtEAACAQMDAgQFBQEAAAAAAAABAgMEBREAEiEGMRMiUWEHFTJBcRQjUoGhwf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EACURAAIBAwIFBQAAAAAAAAAAAAECEQADBCExBRJBUaEjYbHR8P/aAAwDAQACEQMRAD8ApulujbKttpI7hR09VUSDdJLKCSD7YPAGlidN0ti+IcUUJU0j071NOH5wfpK898HOPbVXaDlInSGoZWAYFI9wwfcHGkvVdziTqeGSnK/qqO1VMm1mUkHkjIUkjtrEm6AS061NcuOkk7VTU6xuFbxZ1Yd0BBjb8jGf91yLrqkig6quSxqgV5PEUKoxyqk/6dGprr40viS9R1BqCAwSOtkUA5xjaFAA7nA/Gp34r3KSivtrqrg8qVs9rhkbygbWy6M20jOSFB57apxrTB470OLlqWM9qLYrRNQ01IKm1yTJJJ5XLwCNwTkcsc9iONUvTlokoOv6apKRwx1lI6RpG6sQUO05KgAHJ7D01vs9PblttPDdr3RUssaJuinhKOu0AeX+QznkeumfyitqOpLNcrVTVM9rp1kQu6eE7bsecRtgheBj7nvjROchpDLp+958VQ3Dwnqcw06az8R5otFTNzJNUyNGofbvALqOPpz9+Bj+/XWq/fN5uoYEtkVdNT0cUTyGKZI0JxuO8k5P24H/AHTeO0VE9Wsks1wZN24QSR7gvsC3YfjTSrttbLK7fu7H7ovA7ep40eEGa4SykRT2VFpgttuYb7EQSAOv2RX/2Q=="
+/>
 
 Was mir besonders gut gefällt: In Spanien scheint großer Wert darauf gelegt zu
 werden, dass Kosmetikprodukte ohne
@@ -182,13 +174,11 @@ suchten, fand Matze gleich auf der ersten Flasche, die er in die Hand nahm,
 einen Stempel mit den Worten "No animal testing". Auch auf der Suche nach
 Sonnencreme, Haaröl und Deo erging es uns ähnlich.
 
-<RemoteImage
-  alt="Vegan auf Gran Canaria"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2031__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2031__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUBB//EACcQAAIBAwMDBAMBAAAAAAAAAAECAwAEEQUSISIxQRNRcYEUQpGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEBv/EAB0RAAICAgMBAAAAAAAAAAAAAAECABESIQMTMWH/2gAMAwEAAhEDEQA/APQda1BTLcTyuSxJfavLt8L3NZKalaMcn8nkBubeTkH4H+VzXFAaK4EigjoCNjn4yQKoxFVIY+lvXBG0R5YY9s5zjn+1lVTPZkruVNRj03V7FJYzI0wVsnrtpQMDvnp4ph9SCZBcWjboGOAQCBx80jW5WDaMhUBzxsHP0PGa2dKnLys5kUiNdu0EE8/XA9qJTDYi9mWiIv3OpRQ2yy3ASWMtgLFKpcH3KggioEvrNovXjW6ERXJQKpKjt5fPcUUVUeMJVfI7+1J7W9sgY3aeeKNj+8eN+OCOliR58VZs9ZsmcRQJcRbnAG8M249u+Tj7xRRSsgIk+VeT/9k=" />
+<RemoteImage alt={`Vegan auf Gran Canaria`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2031__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2031__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUBB//EACcQAAIBAwMDBAMBAAAAAAAAAAECAwAEEQUSISIxQRNRcYEUQpGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEBv/EAB0RAAICAgMBAAAAAAAAAAAAAAECABESIQMTMWH/2gAMAwEAAhEDEQA/APQda1BTLcTyuSxJfavLt8L3NZKalaMcn8nkBubeTkH4H+VzXFAaK4EigjoCNjn4yQKoxFVIY+lvXBG0R5YY9s5zjn+1lVTPZkruVNRj03V7FJYzI0wVsnrtpQMDvnp4ph9SCZBcWjboGOAQCBx80jW5WDaMhUBzxsHP0PGa2dKnLys5kUiNdu0EE8/XA9qJTDYi9mWiIv3OpRQ2yy3ASWMtgLFKpcH3KggioEvrNovXjW6ERXJQKpKjt5fPcUUVUeMJVfI7+1J7W9sgY3aeeKNj+8eN+OCOliR58VZs9ZsmcRQJcRbnAG8M249u+Tj7xRRSsgIk+VeT/9k="
+/>
 
 Irgendwann machte ich mir einen Sport daraus, im Supermarkt Tuben und Tiegel
 umzudrehen und war jedes Mal begeistert, wie viele Produkte sich als vegan
@@ -202,13 +192,11 @@ ernährungstechnisch möglich.
 
 ## Vegan auf Gran Canaria - Eine echte Schlemmerreise
 
-<RemoteImage
-  alt="Vegan auf Gran Canaria"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2037__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2037__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBQEDBv/EACkQAAEEAQQBBAAHAAAAAAAAAAECAwQRBQAGEiEHEzFBURUXYXGRocL/xAAYAQACAwAAAAAAAAAAAAAAAAADBAABAv/EACYRAAEEAgADCQAAAAAAAAAAAAEAAgMhETEEEhQiJEJRYYHB4fD/2gAMAwEAAhEDEQA/AOm375NxW4dvy8XAjy4Ex9vk3KfCekpNkW2SoWmz1qvxvk6FkI+0YmVxz0lcFwyGXW3EMtOuNIUlLi0dq65WAOuXfx0qMTub1tvJlu4f01JUYQnssAuOjs8E2sJB4iirj+5+67b82Jjs+3kZOKZPqzVPuJLqlttMGxwQgUeQBJCr6roA6FiRznYzgJ0mMNaw0N3s/VVq7pPeTvvOM499eEkKedsNpaQ2JHpXdddFVVVk9WPjWMFvRzOZrIY3PSpjC4LanFhbrSWnCggqCuCQSBYNE11pN5nL4dxhSoC21rSsBtqFJdLigVWpby1oHVUACPeq+TqLkS3kMNkMjLktR2uISlhq1LcIISG7vqwOyff60PhWu5SJSQNAnO/3stzRtlPd2js5J88et4+bTa/LXbKnSpt7KNNottgGVyLbfwACDV+5r71pf8Tbee7/ABPKo/UrQf8AOjRpM8VKNOKXc0HagOeGcSkVHz2QQLulNtqF/wAarpHhSKt0qTnnST7kxU3/AEdGjU6yYeJVyNX/2Q==" />
+<RemoteImage alt={`Vegan auf Gran Canaria`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2037__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2037__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBQEDBv/EACkQAAEEAQQBBAAHAAAAAAAAAAECAwQRBQAGEiEHEzFBURUXYXGRocL/xAAYAQACAwAAAAAAAAAAAAAAAAADBAABAv/EACYRAAEEAgADCQAAAAAAAAAAAAEAAgMhETEEEhQiJEJRYYHB4fD/2gAMAwEAAhEDEQA/AOm375NxW4dvy8XAjy4Ex9vk3KfCekpNkW2SoWmz1qvxvk6FkI+0YmVxz0lcFwyGXW3EMtOuNIUlLi0dq65WAOuXfx0qMTub1tvJlu4f01JUYQnssAuOjs8E2sJB4iirj+5+67b82Jjs+3kZOKZPqzVPuJLqlttMGxwQgUeQBJCr6roA6FiRznYzgJ0mMNaw0N3s/VVq7pPeTvvOM499eEkKedsNpaQ2JHpXdddFVVVk9WPjWMFvRzOZrIY3PSpjC4LanFhbrSWnCggqCuCQSBYNE11pN5nL4dxhSoC21rSsBtqFJdLigVWpby1oHVUACPeq+TqLkS3kMNkMjLktR2uISlhq1LcIISG7vqwOyff60PhWu5SJSQNAnO/3stzRtlPd2js5J88et4+bTa/LXbKnSpt7KNNottgGVyLbfwACDV+5r71pf8Tbee7/ABPKo/UrQf8AOjRpM8VKNOKXc0HagOeGcSkVHz2QQLulNtqF/wAarpHhSKt0qTnnST7kxU3/AEdGjU6yYeJVyNX/2Q=="
+/>
 
 Bei unseren Streifzügen über die Insel besuchten wir unter anderem eine Finka,
 in der Bananen und Wein angebaut werden. Dort wurden wir mit leckersten Bananen

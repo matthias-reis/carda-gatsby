@@ -17,7 +17,6 @@ labels:
   - Backstage
   - Backstage München
   - Backstage Munich
-  - Flickr
   - Konzerte
   - Mogwai
   - Mogwai Backstage

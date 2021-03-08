@@ -11,14 +11,14 @@ excerpt: Möwen und ein Fischreiher waren die einzigen Lebewesen, die uns eines
   verregneten Nachmittags in Westport begegneten. Ich habe sie fotografiert.
 focusKeyword: Westport
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
+  - Fernweh
   - Fischreiher
   - Ireland
   - Irland
   - Irland2017
   - Möwen
   - Reiher
-  - Reisen
   - Reisen
   - Westport
 type: Galerie

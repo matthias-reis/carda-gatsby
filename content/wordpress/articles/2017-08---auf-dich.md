@@ -16,10 +16,10 @@ labels:
   - Bier
   - Dankbarkeit
   - Gedicht
+  - Geschichten & Erlebtes
   - Hilfe
   - Liebe
   - Lob
-  - Lyrik
   - Menschen
   - Selbstlosigkeit
   - toller Mensch

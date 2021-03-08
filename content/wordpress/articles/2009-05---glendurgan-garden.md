@@ -13,12 +13,13 @@ labels:
   - Botanik
   - Botanische Gärten
   - Botanischer Garten
-  - Brititsche Inseln
+  - Britische Inseln
   - Cornwall
   - England
   - England2009
   - Farn
   - Fauna
+  - Fernweh
   - Flora
   - Fotos
   - Frühling
@@ -29,7 +30,6 @@ labels:
   - Natur
   - Pflanzen
   - Reise
-  - Reisen
   - Reisen
   - Rhododentron
   - subtropisch
@@ -51,6 +51,10 @@ subTitle: Erinnerungen an den Frühling in England 2009 - Teil 9/17
   
 ---
 
+**_ [Teil 8/17](/2009/05/hayle-cornwall-14-15-05-2009/) _ Die subtropische
+Gartenanlage von Glendurgan liegt etwa fünf Meilen südwestlich von Fallmouth in
+Cornwall.**
+
 Das milde Klima des Golfstroms ermöglicht es den subtropischen Gewächsen hier zu
 gedeihen. Der Garten ist geprägt von Rhododentron, Farnen und Palmen. Gegen eine
 Spende an den National Trust ist er frei zugänglich.
@@ -59,18 +63,25 @@ Kommt man in der Gegend vorbei, sollte man sich einen Besuch auf keinen Fall
 entgehen lassen, nicht zuletzt auch wegen des schön angelegten Irrgartens im
 Herzen des Parks.
 
-## Infos zum Park: [National Trust](http://www.nationaltrust.org.uk/main/w-glendurgangarden) Glendurgan Garden
+## Infos zum  Park:
+
+[National Trust](http://www.nationaltrust.org.uk/main/w-glendurgangarden)
+Glendurgan Garden
 
 [Wikipedia](http://de.wikipedia.org/wiki/Glendurgan_Garden) Glendurgan Garden
 
-## Infos zum National Trust: [Homepage](http://www.nationaltrust.org.uk/main/) National Trust
+## Infos zum National Trust:
+
+[Homepage](http://www.nationaltrust.org.uk/main/) National Trust
 
 <Gallery name="flickr/anneglendurgan2009" />
 
-_Hier geht's zu_ [_Teil 10/17_](/2009/05/penzance-cornwall-15-05-2009/) ##
-England 2009 Wegweiser1. 10. Mai 2009
-[Überfahrt von Duncerque nach Dover](/2009/05/uberfahrt-von-duncerque-nach-dover-10-05-2009/)
+_Hier geht's zu_ [_Teil 10/17_](/2009/05/penzance-cornwall-15-05-2009/)
 
+## England 2009 Wegweiser
+
+1.  10. Mai 2009
+        [Überfahrt von Duncerque nach Dover](/2009/05/uberfahrt-von-duncerque-nach-dover-10-05-2009/)
 1.  10. Mai 2009 [Sissinghurst Castle](/2009/05/sissinghurst-castle/)
 1.  11. Mai 2009 [Glastonbury](/2009/05/glastonbury-11-05-2009/)
 1.  11. Mai 2009 [Stonehenge](/2009/05/stonehenge-11-05-2009/)
@@ -88,6 +99,7 @@ England 2009 Wegweiser1. 10. Mai 2009
 1.  19. Mai 2009 [Bradstock](/2009/05/bradstock-19-05-2009/)
 1.  20. Mai 2009 [Dorchester](/2009/05/dorchester/)
 1.  21. Mai 2009 [London](/2009/05/london-21-05-2009/)
-        [Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+[Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
   

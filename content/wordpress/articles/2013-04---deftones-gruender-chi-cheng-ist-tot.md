@@ -8,7 +8,7 @@ description: Im Alter von 42 Jahren wurde Chi Cheng von uns genommen - Ein Nachr
 excerpt: Am Samstag gegen 3 Uhr wurde Chi Cheng im Alter von 42 Jahren von uns genommen.
 focusKeyword: Chi Cheng
 labels:
-  - Bands & Reviews
+  - Bands
   - Chi Cheng
   - Chi Cheng accident
   - Chi Cheng dead
@@ -37,18 +37,19 @@ subTitle: Nachruf
   
 ---
 
+**Am Samstag gegen 3 Uhr wurde Chi Cheng im Alter von 42 Jahren von uns
+genommen.**
+
 Chi Cheng hatte am 4. November 2008 zusammen mit seiner Schwester einen schweren
 Autounfall in Santa Clara, bei dem er aus dem Fahrzeug geschleudert wurde. Seit
 diesem schlimmen Tag befand er sich im Wachkoma und erholte sich leider nie
 wieder richtig.
 
-<RemoteImage
-  alt="Chi Cheng"
-  size="full"
-  title="[ ](http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg)  Chi Cheng"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Chi Cheng`} size="full"
+title={`[ ](http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg) Chi Cheng`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg"
+loadingUrl="undefined" />
 
 Vor einem Jahr verbreitete sich die Nachricht, es würde ihm wieder etwas besser
 gehen, was leider nicht für lange Zeit anhielt. Chi Cheng wurde als genialer
@@ -85,7 +86,15 @@ He fought the good fight.You stood by him sending love daily. He knew that he wa
 I will write more later. I will be going through the oneloveforchi site and any other information may not be reliable.
 If you have any stories or messages to share please send them to the onelove site. Please hold Mae and Ming
 and the siblings and especially Chi’s son, Gabriel in your prayers. It is so hard to let go.
-With great love and “Much Respect!” Mom J (and Chi)</address></div> __RIP Chi. Wir lieben Dich und werden Dich nie vergessen. &lt;3__ ## Chis Erbe### Folgende Werke hat Chi Cheng der Nachwelt hinterlassen:#### Texte:
+With great love and “Much Respect!” Mom J (and Chi)</address></div>
+
+**RIP Chi. Wir lieben Dich und werden Dich nie vergessen. &lt;3**
+
+## Chis Erbe
+
+### Folgende Werke hat Chi Cheng der Nachwelt hinterlassen:
+
+#### Texte:
 
 The Bamboo Parachute (2000)
 
@@ -96,33 +105,40 @@ Saturday Night Wrist (2006)
 
 #### Dredg:
 
-Live at the Fillmore (2006)
+Live at the Fillmore  (2006)
 
-Korn benannten einen Song auf Ihrem zweiten Album ‚Peachy‘ nach Chi, Dredg
+Korn benannten einen Song auf Ihrem zweiten Album ‚Peachy‘ nach Chi, Dredg
 widmeten Chi ihr 2009 veröffentlichtes Album 'The Pariah, the Parrot, the
-Delusion', Far-Frontman Jonah Matranga schrieb den Titelsong des 2010
+Delusion', Far-Frontman Jonah Matranga schrieb den Titelsong des 2010
 veröffentlichten Albums ‚At Night We live‘ über einen Traum, den er hatte, kurz,
 nachdem er Chi im Krankenhaus besucht hatte.
 
-<RemoteImage
-  alt="Chi Cheng"
-  size="full"
-  title="[ ](http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg)  Chi Cheng"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Chi Cheng`} size="full"
+title={`[ ](http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg) Chi Cheng`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg"
+loadingUrl="undefined" />
 
 #### **Deftones - Minerva**
 
 [youtube=http://www.youtube.com/watch?v=TYTt0-LpLbE]
 
 _I get all numb_ _When she sings "It's over"_ _Such a strange numb_ _And it
-brings my knees to the earth_ _And God bless you all_ _For the song you saved
-us_ _You're the same numb_ _When you sing "It's over"_ _Such a strange numb_ _It
-could bring back peace to the earth_ _So God bless you all_ _For the song you
-saved us, oh_ _For the hearts you break every time you moan_ _I get all numb_
-_We're the same numb_ _And it brings our knees to the earth_ _So God bless you
-all_ _For the song you saved us, oh_ _For the hearts you break every time you
-moan_ _And God bless you all on the earth_
+brings my knees to the earth_
+
+_And God bless you all_ _For the song you saved us_
+
+_You're the same numb_ _When you sing "It's over"_ _Such a strange numb_ _It
+could bring back peace to the earth_
+
+_So God bless you all_ _For the song you saved us, oh_ _For the hearts you break
+every time you moan_
+
+_I get all numb_ _We're the same numb_ _And it brings our knees to the earth_
+
+_So God bless you all_ _For the song you saved us, oh_ _For the hearts you break
+every time you moan_
+
+_And God bless you all on the earth_
 
   

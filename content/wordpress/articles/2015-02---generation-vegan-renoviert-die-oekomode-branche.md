@@ -13,7 +13,7 @@ excerpt: Ökomode gibt es schon ziemlich lange. Leider kommen hier immernoch
 focusKeyword: Vegane Mode
 labels:
   - Fair Fashion
-  - Mode & Beauty
+  - Fair Fashion & Beauty
   - Ökomode
   - vegane Mode
 type: Artikel
@@ -31,6 +31,11 @@ subTitle: Vegane Mode braucht das Land
   
 ---
 
+**Bei ökologisch nachhaltiger Mode ging es bisher in erster Linie um eines: so
+wenig wie möglich Chemikalien zum Einsatz zu bringen. Die bekannten Hersteller
+ökologischer Kleidung verwendeten jedoch weiter munter Leder, Wolle und Co. für
+ihre Kollektionen.**
+
 Sandalen aus Leder und Kinderunterwäsche aus Angora gehörten unter "Ökos" lange
 Zeit "zum guten Ton". Dass bei der Gewinnung dieser Materialien nicht nur Tiere
 ausgebeutet werden, sondern auch eine unglaubliche Menge an Ressourcen verbrannt
@@ -46,13 +51,12 @@ notwendigen Respekt behandelt werden.
 
 ## Auch Upcycling ist ein großes Thema
 
-<RemoteImage
-  alt="vegane-mode"
-  size="full"
-  title="T-Shirt aus Bambus-Fasern von Avenging Animals"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Pro-V-Bamboo-Shirt-green-265x250__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Pro-V-Bamboo-Shirt-green-265x250__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAeACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgEBv/EADAQAAEDAgQEBAQHAAAAAAAAAAECAwQFEQAGITEHEhMiCEFhkRQjUYEyQkNSYnGC/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAEDAgT/xAAbEQACAwEBAQAAAAAAAAAAAAABAgADERIEIf/aAAwDAQACEQMRAD8AozPdZdy9k2s1aMGzIiRVuNBxJKSu3aCAQbXt54AjxzzW6UFDFGaCfxFMdwhfu5oPvikao/HjU2W/N5PhWmlLd5xdPIASb+lsRZBksmrNzpUe7S3i+4ygDQKJUUgbaX29MQuYjMM5PS7KRhjrlfjrTX47DWZIT8WZcJdkRm+aOP5WKipI9NbfU4ZWnEOtocaUlbawFJUk3BB2IxFlZejVOpR2aRFdLp+XYAlbqydNLDbbbDn4d1ZmTTZkaqNrRQ4x6UZMlCkvIcB1Si/6YH12Og0vYrsJOGFNzMeT9m/xE5iRR8kppyXUokVZ3oAEgHpJ7nPcWT/vExtPkp7RzW0uDi6JsKLOa6U2MxIb/Y82Fj2OOTr/AAxyjW+5+kMxngOUOwyWFD+wmwP3Bw7Kyx2O+hrD0DA7w/REzeI7Lr6AoRYjzyB5Bd0pB9lKxUgwfcPeGcXJNeqM+JUXZTMllLLTTzYC2gFEm6wbKvp+UbYQcarXkYZShCi4Z//Z" />
+<RemoteImage alt={`vegane-mode`} size="full"
+title={`T-Shirt aus Bambus-Fasern von Avenging Animals`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Pro-V-Bamboo-Shirt-green-265x250__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Pro-V-Bamboo-Shirt-green-265x250__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAeACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgEBv/EADAQAAEDAgQEBAQHAAAAAAAAAAECAwQFEQAGITEHEhMiCEFhkRQjUYEyQkNSYnGC/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAEDAgT/xAAbEQACAwEBAQAAAAAAAAAAAAABAgADERIEIf/aAAwDAQACEQMRAD8AozPdZdy9k2s1aMGzIiRVuNBxJKSu3aCAQbXt54AjxzzW6UFDFGaCfxFMdwhfu5oPvikao/HjU2W/N5PhWmlLd5xdPIASb+lsRZBksmrNzpUe7S3i+4ygDQKJUUgbaX29MQuYjMM5PS7KRhjrlfjrTX47DWZIT8WZcJdkRm+aOP5WKipI9NbfU4ZWnEOtocaUlbawFJUk3BB2IxFlZejVOpR2aRFdLp+XYAlbqydNLDbbbDn4d1ZmTTZkaqNrRQ4x6UZMlCkvIcB1Si/6YH12Og0vYrsJOGFNzMeT9m/xE5iRR8kppyXUokVZ3oAEgHpJ7nPcWT/vExtPkp7RzW0uDi6JsKLOa6U2MxIb/Y82Fj2OOTr/AAxyjW+5+kMxngOUOwyWFD+wmwP3Bw7Kyx2O+hrD0DA7w/REzeI7Lr6AoRYjzyB5Bd0pB9lKxUgwfcPeGcXJNeqM+JUXZTMllLLTTzYC2gFEm6wbKvp+UbYQcarXkYZShCi4Z//Z"
+/>
 
 Wir lernen dazu und das ist auch gut so. Wo noch vor ein paar Jahren Leder,
 Wolle und Felle verarbeitet wurden, lernen wir heute für uns ganz neue
@@ -74,13 +78,12 @@ Mode.
 
 ## Auf schädliche Substanzen wird verzichtet
 
-<RemoteImage
-  alt="vegane-mode"
-  size="full"
-  title="Kompostierbare Jogging-Schuhe von Brooks"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_14918158780_5622ecf25d_o-250x250__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_14918158780_5622ecf25d_o-250x250__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgQFA//EACsQAAIBAgQFBAEFAAAAAAAAAAECAwQRAAUSIQYTMUFRFSJxgSMyQpGhwf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBgAF/8QAJxEAAQIFAwMFAQAAAAAAAAAAAQIRAAMEIUEFMXETUWESgZGhsfD/2gAMAwEAAhEDEQA/AD2TU88PMp2Ak5hCU6EE/kPxY/W3zjWynMGVdDpqkCNdkS2sr+pStzY23FvBxatRR5eDKpImSEyU7E2ETFgpYk+P5uRjOy+uo4a6mrNcnIWp/I0abhQCXYA9gGA+WGF0emyaqh9SkhyDfIN/yLZpYpVrVuASL3LXIZ+A7ZjUzjMUpahKeICaUOUfqNVh7gtgenk9wcC+I6mnrozJTsCAfaem2NbO6n02aiq5WEE7B1Af9sikrIpPbc337MDgjm7wLmVWmXhxSAnQrdQL3t9Xt9YRqemyKVA6SWIPm/MDPkS0SkqQXJAcvm7uMePftFuf54ho6ylqGnWmjaKWnqtFi5BF1O+xALbX3sN8ULmtHXcK+n5bBLVtEzloELgupYHU+jYDqbXIBAPbBPL+Kjlemd4I55lI5YcLbV5NwbEeQL/GJcz4tq84mvUUtEsjsoLxodex8k/5jo6fOTKo+kWG/c/z87xO1KwqaSFG6W+3uxGbZtY7w04s4liruGaGhzPnisgkdueTrlPtt7rkXJsNweg2ta2CrZhHzbq2qExoBbsAo3H9471XGubUuXzZOVpZqMEh45o2cOfJFwAbWFwO2DRqopqUaFZKhWOtS11ZexF9xbpbfG1VaJ8tIT3xASajprISSRbfwOfnbiP/2Q==" />
+<RemoteImage alt={`vegane-mode`} size="full"
+title={`Kompostierbare Jogging-Schuhe von Brooks`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_14918158780_5622ecf25d_o-250x250__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_14918158780_5622ecf25d_o-250x250__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgQFA//EACsQAAIBAgQFBAEFAAAAAAAAAAECAwQRAAUSIQYTMUFRFSJxgSMyQpGhwf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBgAF/8QAJxEAAQIFAwMFAQAAAAAAAAAAAQIRAAMEIUEFMXETUWESgZGhsfD/2gAMAwEAAhEDEQA/AD2TU88PMp2Ak5hCU6EE/kPxY/W3zjWynMGVdDpqkCNdkS2sr+pStzY23FvBxatRR5eDKpImSEyU7E2ETFgpYk+P5uRjOy+uo4a6mrNcnIWp/I0abhQCXYA9gGA+WGF0emyaqh9SkhyDfIN/yLZpYpVrVuASL3LXIZ+A7ZjUzjMUpahKeICaUOUfqNVh7gtgenk9wcC+I6mnrozJTsCAfaem2NbO6n02aiq5WEE7B1Af9sikrIpPbc337MDgjm7wLmVWmXhxSAnQrdQL3t9Xt9YRqemyKVA6SWIPm/MDPkS0SkqQXJAcvm7uMePftFuf54ho6ylqGnWmjaKWnqtFi5BF1O+xALbX3sN8ULmtHXcK+n5bBLVtEzloELgupYHU+jYDqbXIBAPbBPL+Kjlemd4I55lI5YcLbV5NwbEeQL/GJcz4tq84mvUUtEsjsoLxodex8k/5jo6fOTKo+kWG/c/z87xO1KwqaSFG6W+3uxGbZtY7w04s4liruGaGhzPnisgkdueTrlPtt7rkXJsNweg2ta2CrZhHzbq2qExoBbsAo3H9471XGubUuXzZOVpZqMEh45o2cOfJFwAbWFwO2DRqopqUaFZKhWOtS11ZexF9xbpbfG1VaJ8tIT3xASajprISSRbfwOfnbiP/2Q=="
+/>
 
 Ganz selbstverständlich scheint es zu sein, Bekleidung nicht einfach statt aus
 Wolle aus Akryl herzustellen, sondern neue, umweltschonende Wege zu finden. Auf

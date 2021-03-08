@@ -1,8 +1,8 @@
 ---
 title: 13 Songs für den Dezember 2019
 seoTitle: 13 Songs für den Dezember - präsentiert von den drei von der Bande
-slug: 13-songs-fuer-den-dezember
-path: /2019/11/13-songs-fuer-den-dezember/
+slug: 13-songs-fuer-den-dezember-2019
+path: /2019/11/13-songs-fuer-den-dezember-2019/
 fileName: 2019-11---13-songs-fuer-den-dezember-2019.md
 description: Das Jahr neigt sich dem Ende zu - die gute Musik zum Glück nicht.
   Wir haben heute 12 Songs für Euren Dezember für Euch auf Lager.
@@ -10,12 +10,13 @@ excerpt: Das Jahr neigt sich dem Ende zu - die gute Musik zum Glück nicht. Wir
   haben heute 12 Songs für Euren Dezember für Euch auf Lager.
 focusKeyword: Songs für den Dezember
 labels:
+  - 12 Songs
   - Amadou & Mariam
   - Amplifier
   - Amplifier Band
   - And You Will Know Us By The Trail Of Dead
   - Atticus Ross
-  - Bands & Reviews
+  - Bands
   - Caspian
   - Dessert Sessions
   - Dezember
@@ -27,8 +28,8 @@ labels:
   - Musik
   - NICK CAVE
   - Nick Cave and the Bad Seeds
-  - Post Rock
   - Post-Hardcore
+  - Post-Rock
   - Rey Pila
   - Shana Falana
   - Shoegazer
@@ -145,13 +146,11 @@ Reise gehen.
 ## Somnambulist - "nêiyawak" vom Album "nipiy"
 Obgleich er aus einem komplett anderen Genre stammt, schmiegt sich dieser Song perfekt an seinen Vorgänger von Amadou &amp; Mariam an. Es lohnt sich also auf jeden Fall, sie hintereinander zu hören. Um das zu tun, müsst Ihr nur in der unten angefügten Playlist bei iTunes oder Spotify auf den Playbutton klicken und schon kann es losgehen.
 
-<RemoteImage
-  alt="somnambulist"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_somnambulist__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_somnambulist__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUDBAf/xAAtEAACAQMDAgQFBQEAAAAAAAABAgMEBREAEkEhMRMiUXEyQmGBkQYjM0Ohsf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAf/EABwRAAIDAQEBAQAAAAAAAAAAAAECAAMRBBIhsf/aAAwDAQACEQMRAD8A8etctUg8WJ9kZkCj0zx0130CPcq7wGrI5FB2xIi/yPnG38/91SitFTCpjpo8snmZMZyQcdD6DPOqtvpqe1Q088Tyb4X2gPgBW4JPJ4+wOqruJaipI0n9mU9dlilFPwTa2GvpKkU1bSwHwwT4SRqEdSORjk5Htop+vIaaKrVKUeQkMqjrsGACPbdnGkjXqRzUyqxWbuoXIU8AEnq2O+O3voTfiHrNw8zqgVmHqNU2VMKS7DCYXsM+A7kfJfluqBAz+CqhpNqhFA7DLfE3POotyEEzxyysgLMx2D5AOxUZ9/xoTb7i1IHCuwLAhsemMdNdtPcQgUMRgDtgHORg5PP01qdYA3yNhmtt31E9dfbVHZ6yiEKyn+t1UkqcghuvzaGXSpSZzJvPmxhR/utrrcUaqDwwxow+L9tcHp6D6EjUuaRZizeGVJbcST3+3Gpb+l7SfWRErCj5P//Z" />
+<RemoteImage alt={`somnambulist`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_somnambulist__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_somnambulist__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUDBAf/xAAtEAACAQMDAgQFBQEAAAAAAAABAgMEBREAEkEhMRMiUXEyQmGBkQYjM0Ohsf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAf/EABwRAAIDAQEBAQAAAAAAAAAAAAECAAMRBBIhsf/aAAwDAQACEQMRAD8A8etctUg8WJ9kZkCj0zx0130CPcq7wGrI5FB2xIi/yPnG38/91SitFTCpjpo8snmZMZyQcdD6DPOqtvpqe1Q088Tyb4X2gPgBW4JPJ4+wOqruJaipI0n9mU9dlilFPwTa2GvpKkU1bSwHwwT4SRqEdSORjk5Htop+vIaaKrVKUeQkMqjrsGACPbdnGkjXqRzUyqxWbuoXIU8AEnq2O+O3voTfiHrNw8zqgVmHqNU2VMKS7DCYXsM+A7kfJfluqBAz+CqhpNqhFA7DLfE3POotyEEzxyysgLMx2D5AOxUZ9/xoTb7i1IHCuwLAhsemMdNdtPcQgUMRgDtgHORg5PP01qdYA3yNhmtt31E9dfbVHZ6yiEKyn+t1UkqcghuvzaGXSpSZzJvPmxhR/utrrcUaqDwwxow+L9tcHp6D6EjUuaRZizeGVJbcST3+3Gpb+l7SfWRErCj5P//Z"
+/>
 
 "Somnambulist" bedeutet auf deutsch übersetzt "Schlafwandler". Der Name passt
 perfekt zum mystischen und düsteren Sound des Projekts von Alustrium und
@@ -200,12 +199,10 @@ aufgenommen.
 
 <iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2019-11-25-die-drei-von-der-bande/pl.u-85b1iXeGBGJ?l=en" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
 
-<RemoteImage
-  alt="Songs für den Dezember"
-  size="large"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_12.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_12.png__l.jpg"
-  loadingUrl="data:image/jpeg;base64,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" />
+<RemoteImage alt={`Songs für den Dezember`} size="large" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_12.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_12.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,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"
+/>
 
   

@@ -11,11 +11,11 @@ excerpt: Es geht wieder los! Ich bin wieder da! Von meiner Reise habe ich Euch
   viele Bilder und Geschichten mitgebracht, die ich hier mit Euch teilen werde!
 focusKeyword: wieder da
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
+  - Fernweh
   - Freunde
   - Irland
   - Irland2017
-  - Reisen
   - Reisen
   - travelling
   - unterwegs

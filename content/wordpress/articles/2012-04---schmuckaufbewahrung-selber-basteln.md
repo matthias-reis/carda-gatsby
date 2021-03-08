@@ -11,7 +11,6 @@ excerpt: Heute möchte ich Euch ein paar kreative Möglichkeiten der
   entwickelt.
 focusKeyword: Schmuckaufbewahrung
 labels:
-  - "'Wenn sie kein Brot haben sollen sie doch Kuchen essen'"
   - Badezimmer
   - Bastelei
   - basteln
@@ -19,7 +18,8 @@ labels:
   - Broschen
   - Chi Chi
   - Desi
-  - DIY
+  - diy
+  - Fair Fashion & Beauty
   - Hoochi
   - Ketten
   - Mädchen
@@ -47,13 +47,11 @@ subTitle: Bastelstunde
   
 ---
 
-<RemoteImage
-  alt="Foto: cardamonchai 3/2012"
-  size="medium"
-  title="Schmuckaufbewahrung selber basteln"
-  mediumUrl="https://cardamonchai.files.wordpress.com/2012/04/img_8927.jpeg"
-  largeUrl="https://cardamonchai.files.wordpress.com/2012/04/img_8927.jpeg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Foto: cardamonchai 3/2012`} size="medium"
+title={`Schmuckaufbewahrung selber basteln`}
+mediumUrl="https://cardamonchai.files.wordpress.com/2012/04/img_8927.jpeg"
+largeUrl="https://cardamonchai.files.wordpress.com/2012/04/img_8927.jpeg"
+loadingUrl="undefined" />
 
 **Heute widme ich mich mal einem ganz neuen Thema: Der Bastelei.**
 
@@ -61,85 +59,44 @@ Vor Kurzem kam ich mit zwei Freundinnen über ein Soziales Netzwerk ins Gespräc
 über ein Luxusproblem: Wo bringe ich meinen **Modeschmuck** unter? Am besten so,
 dass ich ihn immer sehen und nicht jedes Mal lange graben muss, oder gar
 vergesse, dass das ein oder andere Teil existiert, weil es irgendwo ganz unten
-in einem Kistchen liegt?
+in einem Kistchen liegt? Hier sind drei Lösungen, mit denen Ihr das Chaos
+lichten könnt.
 
-## 3 Lösungen
+## Hoochis Gitterdraht
 
-Eine der beiden, [Hoochi](https://hoochi1107.wordpress.com/) hatte ein Foto
+Eine der beiden, [Hoochi](https://hoochi1107.wordpress.com/)  hatte ein Foto
 ihrer Lösung gepostet, was Desi und mich natürlich dazu anregte, ihr auch von
 unseren "Schmuckvariationen" zu berichten.
 
 Fotos waren schnell geschossen, die Idee für einen Blogeintrag liegt auf der
 Hand.
 
-Kommen wir zuerst zu [Hoochis](https://hoochi1107.wordpress.com/) Lösung: Ein
+Kommen wir zuerst zu [Hoochis](https://hoochi1107.wordpress.com/)  Lösung: Ein
 einfacher Hasendraht ziert nun ihr **Badezimmer** , der sich nach und nach mit
 Ohrringen, Haarreifen, Ketten und vielen weiteren herrlichen kleinen
 Unnötigkeiten füllt. Eine sehr edel anmutende Lösung, wie ich finde, die rein
-gar nichts von einem Hasenstall hat:
+gar nichts von einem Hasenstall hat. Viel Spaß beim  Nachbasteln!
 
-<RemoteImage
-  alt="Foto: Hoochi 4/2012"
-  size="full"
-  title="Foto: Hoochi 4/2012"
-  mediumUrl="https://cardamonchai.files.wordpress.com/2012/04/sandras-schmuck2.jpg"
-  largeUrl="https://cardamonchai.files.wordpress.com/2012/04/sandras-schmuck2.jpg"
-  loadingUrl="undefined" />
+### Zutaten
 
-Als nächstes folgt ein Bild von Desis Kreativlösung: Sie hat Schwämmholz
-gesammelt und es mit kleinen Bildernägeln versehen, an denen sie ihre Schätze
-aufgehängt hat:
+- Hasendraht
+- 2 Dübel
+- 2 Haken
+- Zange
+- Bohrmaschine
+- Bohrer
 
-<RemoteImage
-  alt="Foto: Desi 4/2012"
-  size="full"
-  title="Foto: Desi 4/2012"
-  mediumUrl="https://cardamonchai.files.wordpress.com/2012/04/desis-schmuck1.jpg"
-  largeUrl="https://cardamonchai.files.wordpress.com/2012/04/desis-schmuck1.jpg"
-  loadingUrl="undefined" />
+### Zubereitung
 
-Zuletzt noch zu meiner Variante der Schmuckaufbewahrung: Als ich vor einiger
-Zeit noch gekellnert habe, habe ich Champagnerkorken gesammelt, die ich dann mit
-einer Laubsäge in Scheiben geschnitten und auf einen Bilderrahmen geklebt habe.
-In diese Platte lassen sich nun schön alle Ohrringe und Broschen pieksen, für
-alles andere suche ich allerdings im Moment noch eine perfekte Lösung.
+Den Hasendraht ausrollen und gerade biegen. Am besten man stellt schwere
+Gegenstände darauf, dann geht es besser.
 
-<RemoteImage
-  alt="Foto cardamonchai 4/2012"
-  size="full"
-  title="Foto cardamonchai 4/2012"
-  mediumUrl="https://cardamonchai.files.wordpress.com/2012/04/img_9236.jpg"
-  largeUrl="https://cardamonchai.files.wordpress.com/2012/04/img_9236.jpg"
-  loadingUrl="undefined" />
-
-Was gibt es sonst noch für Aufbewahrungsmöglichkeiten? Habt ihr Tipps? Habt ihr
-vielleicht noch was viel tolleres gebaut? Ich freue mich auf jeden Fall auf
-Fotos, die ich gerne nachträglich in diesem Artikel posten werde, genau so
-natürlich über Kommentare mit "Montageanleitungen".
-
-_ **Song des Tages** _ **Zaz - Ton Rêve**
-
-[youtube=http://www.youtube.com/watch?v=1S3TyzpzQP8&amp;feature=related]
-
-## Nachtrag am 26.04.2012
-
-Hier ist, sie, die heiß ersehnte **Bastelanleitung** für Hoochis
-"Schmuckhängedings". Viel Spaß beim Lesen und beim Nachbasteln!
-
-<blockquote>
-
-"Und nun meine Damen, die Bastelanleitung. Ich gehe von den Materialangaben
-meines Dingens aus.
-
-Hasendraht 2 Dübel 2 Haken Zange Bohrmaschine Bohrer
-
-Hasendraht ausrollen und gerade biegen. Am besten man stellt schwere Gegenstände
-darauf, dann geht es besser. Je nach Größe des gewünschten Schmuckhängedings
-dann den Hasendraht abzwicken. Ich habe 2 Bahnen genommen. Danach die 2 Bahnen
-miteinander befestigen. das habe ich gemacht, indem ich die einzelne Drähte bei
-beiden Bahnen, die Hochkant verlaufen, abgezwickt habe. Außerdem sollte man noch
-die wagrechten Drähte abzwicken. Also bei Bahn Nummer 1 jeden 1., 3., 5., usw.
-und bei Bahn Nummer 2 jeden 2., 4., 6.
+Je nach Größe des gewünschten Schmuckhängedings dann den Hasendraht abzwicken.
+Ich habe 2 Bahnen genommen. Danach die 2 Bahnen miteinander befestigen. das habe
+ich gemacht, indem ich die einzelne Drähte bei beiden Bahnen, die Hochkant
+verlaufen, abgezwickt habe. Außerdem sollte man noch die wagrechten Drähte
+abzwicken. Also bei Bahn Nummer 1 jeden 1., 3., 5., usw. und bei Bahn Nummer 2
+jeden 2., 4., 6.
 
 Anschließend habe ich beide Bahnen nebeneinander gelegt und die Drähte, die nun
 wegstehen um die andere Bahn herum umgebogen. Somit hatte ich nun einen großen
@@ -151,8 +108,46 @@ hängen zu können). Dasselbe habe ich am unteren Rand des Drahtes auch gemacht,
 um dann Armreifen, Uhren etc. hin hängen zu können. Allerdings muss man beim
 Hochbiegen der Drähte aufpassen, denn sie brechen leicht ab. Löcher in die Decke
 bohren, Dübel rein, Haken rein und Schmuckhängedings in die Haken einhängen.
-FERTIG!!!"
+Fertig!
 
-</blockquote>
+<RemoteImage alt={`Foto: Hoochi 4/2012`} size="full"
+title={`Foto: Hoochi 4/2012`}
+mediumUrl="https://cardamonchai.files.wordpress.com/2012/04/sandras-schmuck2.jpg"
+largeUrl="https://cardamonchai.files.wordpress.com/2012/04/sandras-schmuck2.jpg"
+loadingUrl="undefined" />
+
+## Desis Holz
+
+Als Nächstes folgt ein Bild von Desis Kreativlösung: Sie hat Schwämmholz
+gesammelt und es mit kleinen Bildernägeln versehen, an denen sie ihre Schätze
+aufgehängt hat:
+
+<RemoteImage alt={`Foto: Desi 4/2012`} size="full" title={`Foto: Desi 4/2012`}
+mediumUrl="https://cardamonchai.files.wordpress.com/2012/04/desis-schmuck1.jpg"
+largeUrl="https://cardamonchai.files.wordpress.com/2012/04/desis-schmuck1.jpg"
+loadingUrl="undefined" />
+
+## Mein Kork
+
+Zuletzt noch zu meiner Variante der Schmuckaufbewahrung: Als ich vor einiger
+Zeit noch gekellnert habe, habe ich Champagnerkorken gesammelt, die ich dann mit
+einer Laubsäge in Scheiben geschnitten und auf einen Bilderrahmen geklebt habe.
+In diese Platte lassen sich nun schön alle Ohrringe und Broschen pieksen, für
+alles andere suche ich allerdings im Moment noch eine perfekte Lösung.
+
+<RemoteImage alt={`Foto cardamonchai 4/2012`} size="full"
+title={`Foto cardamonchai 4/2012`}
+mediumUrl="https://cardamonchai.files.wordpress.com/2012/04/img_9236.jpg"
+largeUrl="https://cardamonchai.files.wordpress.com/2012/04/img_9236.jpg"
+loadingUrl="undefined" />
+
+Was gibt es sonst noch für Aufbewahrungsmöglichkeiten? Habt ihr Tipps? Habt ihr
+vielleicht noch was viel tolleres gebaut? Ich freue mich auf jeden Fall auf
+Fotos, die ich gerne nachträglich in diesem Artikel posten werde, genau so
+natürlich über Kommentare mit "Montageanleitungen".
+
+## Song des Tages: Zaz – "Ton Rêve"
+
+[youtube=http://www.youtube.com/watch?v=1S3TyzpzQP8&amp;feature=related]
 
   

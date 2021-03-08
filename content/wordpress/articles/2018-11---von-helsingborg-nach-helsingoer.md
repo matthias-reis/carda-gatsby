@@ -13,9 +13,9 @@ excerpt: Irgendwann geht jede Reise zu Ende. Das war auch mit unserem
 focusKeyword: Helsingborg
 labels:
   - Dänemark
+  - Fernweh
   - Öresund
   - Reiseblog
-  - Reisen
   - Reisen
   - Schweden
   - Schweden2018

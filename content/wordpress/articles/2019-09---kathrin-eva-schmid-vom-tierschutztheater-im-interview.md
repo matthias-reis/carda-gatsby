@@ -10,13 +10,13 @@ excerpt: Das Tierschutztheater ist ein Zusammenschluss aus Menschen, die gerne
   Theater spielen und sich für die Rechte der Tiere einsetzen wollen.
 focusKeyword: Tierschutztheater
 labels:
-  - Darum vegan
-  - Interview
+  - Interviews
   - Kathrin Eva Schmid
   - München
   - Speziesismus
   - Theater
   - Tierethik
+  - Tierrechte
   - Tierrechte
   - Tierschutz
   - Tierschutztheater
@@ -28,8 +28,7 @@ date: 2019-09-02T12:57:53.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Unexpected token (148:45)"
+errors: {}
 thumbnailId: "25898"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_tierschutztheater-interview-cardamonchai__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_tierschutztheater-interview-cardamonchai__l.jpg
@@ -38,9 +37,6 @@ subTitle: Ein Ensemble für den Tierschutz
   
 ---
 
-## unknown: Unexpected token (148:45)
-
-<!--
 <hr />
 
 **Hinweis:** Dieses Interview habe ich bereits am 7. März 2015 veröffentlicht.
@@ -75,13 +71,12 @@ Das Ensemble bietet auch außerhalb des Theaters Auftritte an, gebucht werden
 kann zu jedem Anlass, lediglich die Fahrtkosten, sowie Kost und Logis für die
 Schauspieler<span class="e24Kjd">\*innen</span> müssen übernommen werden.
 
-<RemoteImage
-  alt="kathrin-eva-schmid-privat"
-  size="medium"
-  title="Kathrin Eva Schmid vom Tierschutztheater. Foto: Kathrin Eva Schmid privat"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kathrin-eva-schmid-privat__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kathrin-eva-schmid-privat__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwMGCAT/xAApEAABAwMDBAEEAwAAAAAAAAABAgMEBREhAAYSEzFRYYEUIkFSIzKx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgUAAf/EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMREiExQSL/2gAMAwEAAhEDEQA/AL2skJsMk40Pb3rO4dwVB2nUFuUzSIzymHHGVcS+tKrKKjggA3AHbF9Lsl0MMOPLuUtpKyB4Auf80V7aqE16nmcuKwhmUlclJ6h5FS1KUQce7ak3WGsZEpU1hzgwzE7ce06qZDEiREWlX9eRU2seFC9jfWiKHUmK7RYdSjFJbktBeL/arsoZ8EEfGiXeMOZJhPpnsNtJJHRLKyeoo9rA51JseuzqBFfpMdxDrMV4/a4L2JAKgCPCr66lu457isp1Pz1GLcHMbfqZbv1DGcSi37FJAA+TokpcBNCoMWLUZojJKyxwkOcShRHPplSbixyoHGDY6VdzOJTT2yQu6XOYCex4pOD6zrPm5KxKqlabil7+Fldyr8JUO5+BoWZdtPBzHRhF39ku8Kr9RTURoalPtlwoL97IwchHoYzrk2TIy8ypQPI3T5xqboyN2bhDbbamIAUUtiwFkDOPZvqx1+hxqSw19O2hoNC5KLcr/tf8nvcezrB1qUIezEVaxi/gn//Z" />
+<RemoteImage alt={`kathrin-eva-schmid-privat`} size="medium"
+title={`Kathrin Eva Schmid vom Tierschutztheater. Foto: Kathrin Eva Schmid privat`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kathrin-eva-schmid-privat__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kathrin-eva-schmid-privat__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwMGCAT/xAApEAABAwMDBAEEAwAAAAAAAAABAgMEBREhAAYSEzFRYYEUIkFSIzKx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgUAAf/EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMREiExQSL/2gAMAwEAAhEDEQA/AL2skJsMk40Pb3rO4dwVB2nUFuUzSIzymHHGVcS+tKrKKjggA3AHbF9Lsl0MMOPLuUtpKyB4Auf80V7aqE16nmcuKwhmUlclJ6h5FS1KUQce7ak3WGsZEpU1hzgwzE7ce06qZDEiREWlX9eRU2seFC9jfWiKHUmK7RYdSjFJbktBeL/arsoZ8EEfGiXeMOZJhPpnsNtJJHRLKyeoo9rA51JseuzqBFfpMdxDrMV4/a4L2JAKgCPCr66lu457isp1Pz1GLcHMbfqZbv1DGcSi37FJAA+TokpcBNCoMWLUZojJKyxwkOcShRHPplSbixyoHGDY6VdzOJTT2yQu6XOYCex4pOD6zrPm5KxKqlabil7+Fldyr8JUO5+BoWZdtPBzHRhF39ku8Kr9RTURoalPtlwoL97IwchHoYzrk2TIy8ypQPI3T5xqboyN2bhDbbamIAUUtiwFkDOPZvqx1+hxqSw19O2hoNC5KLcr/tf8nvcezrB1qUIezEVaxi/gn//Z"
+/>
 
 **Anne:** Hallo Kathrin Eva! Vielen Dank, dass Du Dir die Zeit für das Interview
 nimmst! Ich freue mich wirklich sehr, Deine Bekanntschaft zu machen!
@@ -128,13 +123,12 @@ hoffnungslos überbucht. Das Theater bat uns spontan um eine Zusatzvorstellung,
 die genauso voll war. Die Zuschauer\*innen waren restlos begeistert und seither
 bin ich vor Ideen und Tatendrang nicht mehr zu bremsen.
 
-<RemoteImage
-  alt="tierschutztheater-interview-cardamonchai"
-  size="full"
-  title="Das Tierschutztheater Ensemble. Foto: Kathrin Eva Schmid privat"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_DSC00391-380x250__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_DSC00391-380x250__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgD/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDBAURAAYSIUEHEzFhkRQigQgjQlFy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAeEQADAAIBBQAAAAAAAAAAAAAAAQIRMQMEEiFBcf/aAAwDAQACEQMRAD8Av6i29b6WWKSnhlpZF5FGVihXAHYHGPX1/vVc7D8Q6N9o3We2vMi2mb6do5ZVKS5QlZA2PtVmRhgZ/Ou+99+ptvb0lRXmN2qnNLFHG3As0sZGckeijqT7e+s67MukVosl8tdXMoqmaCCOFmH3tBK3Iqc9+bADHY6nVOdDld2zRe7vFI0XhpbL1Bd4KO5XRKeWnhjp/PYHKtLFggAkKSCSBj41P0niraLpdrdR2yOsEVfSCsirJI1WIguU8rqeXMEEEYxkay1vmpNbsqzTxrUqKesnRGVOQBCYxyHf9on266gqWkqqfeu34YPPD8aGfg/Q54iTvjp/L899WnDhP2BrFNY8Dn+qKqeDeFljRIfpRbRIsHDChmkYMenc4Hxquqq3G42Squ5m8uSKshpynHJcyIzlyc+uRj06+2jRqehJDfY/LTwpoo3VmlF2d1cFcAFHjIIKnPRm799M5tlNR7k2zVAO8sENnXLNktyimUk5/wAL8aNGjzaL9I2rfw//2Q==" />
+<RemoteImage alt={`tierschutztheater-interview-cardamonchai`} size="full"
+title={`Das Tierschutztheater Ensemble. Foto: Kathrin Eva Schmid privat`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_DSC00391-380x250__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_DSC00391-380x250__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgD/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDBAURAAYSIUEHEzFhkRQigQgjQlFy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAeEQADAAIBBQAAAAAAAAAAAAAAAQIRMQMEEiFBcf/aAAwDAQACEQMRAD8Av6i29b6WWKSnhlpZF5FGVihXAHYHGPX1/vVc7D8Q6N9o3We2vMi2mb6do5ZVKS5QlZA2PtVmRhgZ/Ou+99+ptvb0lRXmN2qnNLFHG3As0sZGckeijqT7e+s67MukVosl8tdXMoqmaCCOFmH3tBK3Iqc9+bADHY6nVOdDld2zRe7vFI0XhpbL1Bd4KO5XRKeWnhjp/PYHKtLFggAkKSCSBj41P0niraLpdrdR2yOsEVfSCsirJI1WIguU8rqeXMEEEYxkay1vmpNbsqzTxrUqKesnRGVOQBCYxyHf9on266gqWkqqfeu34YPPD8aGfg/Q54iTvjp/L899WnDhP2BrFNY8Dn+qKqeDeFljRIfpRbRIsHDChmkYMenc4Hxquqq3G42Squ5m8uSKshpynHJcyIzlyc+uRj06+2jRqehJDfY/LTwpoo3VmlF2d1cFcAFHjIIKnPRm799M5tlNR7k2zVAO8sENnXLNktyimUk5/wAL8aNGjzaL9I2rfw//2Q=="
+/>
 
 **Anne:** Wer sind die Gründungsmitglieder?
 
@@ -218,8 +212,8 @@ als ich alles aus dem eigenen Kühlschrank verbannt hatte, war ich immer noch
 nicht konsequent, wenn ich unterwegs oder irgendwo eingeladen war. Ich schätze
 mal, dass ich jetzt seit vier oder fünf Jahren richtig vegan lebe.
 
-<RemoteImage alt="tierschutztheater-interview-cardamonchai" size="medium"
-title="Szene aus dem Stück "Manege der Tränen". Foto: Tierschutztheater"
+<RemoteImage alt={`tierschutztheater-interview-cardamonchai`} size="medium"
+title={`Szene aus dem Stück "Manege der Tränen". Foto: Tierschutztheater`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_manege-der-traenen-tierschutztheater__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_manege-der-traenen-tierschutztheater__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcBBgIEBf/EACoQAAIBAwQBAwIHAAAAAAAAAAECAwQFEQAGEiExBxNBIlEUFTJhcYGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEA/8QAGxEAAwADAQEAAAAAAAAAAAAAAAECAxExEiH/2gAMAwEAAhEDEQA/AENZNjXu82a5XW2LRy2yhYJJPJUxxksVDKoUnJJBHx56+Dqw03o5uSsiqJKSptM6000cM3sTNLgunMMOKkMoBGSPBz9s63diX2lpfQ/c9tedYq8V4racA9uyogAI+Vxy/vTI2pvmitOzqqae904NPBHRwxcSxVmQ8OgOgDnz1350FZLT0uDRENfRYWv0du1ctK351Z0inrJKL3FdnVGUKcsQOgeQx89941VN6bMq9sW611s9Qk8FwadYyI2jI9t+JOG+D5H7av8AZbotvFLFPuBXgjv+JVjHFJKdo0bOfOOsY8/5rh+pF9W67ItNJLWvWVNFcqtVd1wfaOOI8DxjVm7evRcsY5b8cF3HXVKxPDHM6QyfrRDhW/kaySvqghj/ABEnttjKg4B0aNJpBT0gVbpxAL/SeQ+rwfv41LV08qkNI5GeWGcnv76NGtpFqmuH/9k="
@@ -305,8 +299,8 @@ gleichzeitig Vegetarier würden. Gerade die dummen Argumente zu parodiesieren,
 über die ich mich knapp 30 Jahre lang immer wieder geärgert habe, macht
 wahnsinnig Spaß.
 
-<RemoteImage alt="tierschutztheater-interview-cardamonchai" size="medium"
-title="Szene aus dem Stück "Manche sind gleich". Foto: Tierschutztheater"
+<RemoteImage alt={`tierschutztheater-interview-cardamonchai`} size="medium"
+title={`Szene aus dem Stück "Manche sind gleich". Foto: Tierschutztheater`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_manche-sind-gleich-tierschutztheater__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_manche-sind-gleich-tierschutztheater__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAoEAACAQMEAQQBBQAAAAAAAAABAgMEBREABhIhBxMiMWFBCBQlUZH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAHhEBAQABBAMBAAAAAAAAAAAAAQIAAxESIQQxQVH/2gAMAwEAAhEDEQA/AIXtjbtz3PdRbrJTfuKoxtKwLhFRF+WZj0AMj/dN/Ie0k2XPTUVRcoKu4leVRFArcYwQOOGxhge/v6GqB+mxLfQ0G77/AHWpgpY4IIqOKSeQIhZuUhXv5JKJ1rDecIaw7mNzkp6xKKrjSSKWrQRvK7Dk78M5CliQDgAgda2tgO+8SLpqp49fuIIrFcJtqncEMKy29ahqZ+DAujAA5K/OO/nSUSK2Mauni1KNrnaxSN/GxVQMMrIyLOq4HMKwz23LJ+jnULu+EvlxUQinxVSj0RjEfvPt6/r40hby4uUUfWXPxvarbXeCblJX0MdQsNbPVupllT1Xjj4rkq4I9rFeusfjWRv+5duWfctRRUezonrImEInqblPMhVegpjJ7XAxjl1o0apqaU0C5Hx9ey6B+52bZvNfcbpWVNQ1PGUjiigipoRHHTxhiQiLk4HuP51J7tK0t6uErnLvUyMT9ljo0aUAk2wFdWt8/9k="
@@ -392,8 +386,8 @@ wir nochmal eine Auffrischungsprobe benötigen, ist es auch möglich, dass Koste
 für die Raummiete des Proberaums anfallen. Aber das lässt sich alles absprechen.
 Wir kommen da sehr entgegen und machen möglich, was uns möglich ist.
 
-<RemoteImage alt="tierschutztheater-interview-cardamonchai" size="medium"
-title="Szene aus dem Stück "Täubchen im Glück". Foto: Tierschutztheater"
+<RemoteImage alt={`tierschutztheater-interview-cardamonchai`} size="medium"
+title={`Szene aus dem Stück "Täubchen im Glück". Foto: Tierschutztheater`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_taeubchen-im-glueck-tierschutztheater__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_taeubchen-im-glueck-tierschutztheater__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAApEAABAwMCBQMFAAAAAAAAAAABAgMEABEhBTEGEhMiQVGBoQdCUmGR/8QAFgEBAQEAAAAAAAAAAAAAAAAABQME/8QAIxEAAgEDAgcBAAAAAAAAAAAAAQIAAwQRMWESISMzUbHR8P/aAAwDAQACEQMRAD8Ajs/6YPtRnpUWaVsNZUFtWV7WOf5WHrOmR3IaRChhmSjOFjvSTvvc+fGLVfJakpgtpSD0yVIWNyL3AJ97UicQu6Fw/pcaPKLqXHUlwIbRzOOZys5wCb2z+qJWtUYjJzGmt6SocDGZGnYz7N+q04i3kpxXHPkU9REqmyhHkRG0qXZaWlOiykKCgDfa4Pzaszibh1vS9Ihzm5HM464pDjByW8XSb+b2PxW1bgFuA6zC9owQuNBLtPlOQdfY6RJjS+1xg7BX5D0NJk4s6vxLpemy2EGM/LkKT9ymjyG4STftO5T62OLWooo5OTD95izAFWzt7EUdAR0WtSfJK1JhhQCje3K+UgC+w7RW/r0ZMnS9bQ6EcjbBd7UkErA5grfG3iiiqVO5nf5I0T0iNp//2Q=="
@@ -480,8 +474,8 @@ Amateurtheater" bei, wodurch wir diverse Vergünstigungen (beispielsweise bei
 Versicherung und GEMA), sowie ein umfangreiches Fortbildungsangebot, Beratung,
 Rechtsbeistand und vieles mehr erhalten.
 
-<RemoteImage alt="tierschutztheater-interview-cardamonchai" size="medium"
-title="Szene aus dem Stück "Enrico und Zazalena". Foto: Tierschutztheater"
+<RemoteImage alt={`tierschutztheater-interview-cardamonchai`} size="medium"
+title={`Szene aus dem Stück "Enrico und Zazalena". Foto: Tierschutztheater`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_enrico-und_-zazalena-tierschutztheater__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_enrico-und_-zazalena-tierschutztheater__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBQT/xAArEAABAwMDAwIGAwAAAAAAAAABAgMEBQYRABIhEzFBB1EUFRYjQpElMmH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAQIDBf/EACIRAAEEAAUFAAAAAAAAAAAAAAEAAgMREhMx0fAEIUGBwf/aAAwDAQACEQMRAD8AnSl2tWanVaRT48F5MmrY+D6o2JdSfyBP4jvn21t+otlSLXrL7DEd5yFHZZLknO9BUQEqVnA2pK84B9xqg4VDn3CxQ6/ZFu0yPAgL6tHkPyFMOFsOELadQrP21JLicjOeDnWtOsu6qw8XqvTaUU8dRhEsKS+EtJCULBGCgL3cH2SfGhidxINcvZdA9Mxpw4uVvqpf9O4KpVzMoKEhRbJQXEkjcexx57HXHddIkQJ5debCGpADjfP9hkgn9pOnDfNHVRn6fV7ZYjyp+wJU24V/cZCMJKUcE7c8becDzpaX3cH1BNiRIj38VDG1jc30wpxeC66ockZWVYznCUpGoiErpswigR5VpjCyHJYcRvUe/ibFoevy6Olm3zbLS4sIohR1NTC2Q2gbQVAoUCeMkjHfVCW5W/ndAbqKWCx1ELPTK9+MA+cDP60aNauYGkUjscXA2pQvu/KnEfhlpLYnSIzT6nuyACMFIR45IIOeMY0pXV7cAgkc55/w6NGlv1pEb2Fhf//Z"
@@ -596,7 +590,5 @@ folgendes Video veröffentlicht:
 
 **Fotos:** Tierschutztheater / Kathrin Eva Schmid privat. Das Bild im Header
 stammt aus dem Bild "Andromeda".
-
--->
 
   

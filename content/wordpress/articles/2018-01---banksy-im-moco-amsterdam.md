@@ -17,18 +17,17 @@ labels:
   - Bristol
   - Dry BreadZ Crew
   - Exit Through The Gift Shop
+  - Fernweh
   - Graffiti
   - Graffity
   - Hamburg
   - Hip Hop
-  - Kunst
   - Kunst
   - London
   - Massive Attack
   - Moco
   - moderne Kunst
   - New York
-  - Reisen
   - Steady Crew
   - Stencil Art
   - Straßenkunst
@@ -59,13 +58,11 @@ Hintergrund auf lebendige Weise.
 
 ## Echte Banksy-Stücke
 
-<RemoteImage
-  alt="Banksy"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39852074431_8acc13a1c9_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39852074431_8acc13a1c9_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAYDAQIEBQj/xAAoEAABAwMDAwQDAQAAAAAAAAABAgMRAAQFBhIhEzFBBxQiURUjcdH/xAAYAQACAwAAAAAAAAAAAAAAAAABBAIDBf/EABoRAAMBAAMAAAAAAAAAAAAAAAABAhESEyL/2gAMAwEAAhEDEQA/AJcq1nLXNtJx6Mf+I9pvWt4Er6pMCAnkxxwODzzMVPoXTuZ9jeM6iuheXAu1dJ0+WiEwY7gTu4PI7VJqPJ3FhinLjHW9rcZFK0uW6X1pbbcSnaFNqUSOQVbx4iZiav0Xm8vkcc7eZ3opvLl3rJbac3pQgkgQZII+PEccfc1bcvjhGK9FdR4JppkqQEiBEz5orLzt8XEOJE8popPrYy7Rz76yXdw5qJLPWeNl0kfqKjsDiRBIHaYI5p89IVOr049kX3C7d3b0EmBCWgEIAH0BNJ+ubYZzXaLR5wi1tbBbyyD2AClcf07RTJ6TuhnRNsomCp51X9+Q/wArQlbQk3iHvIPKKFFXBjxRWpv79te5O9M7ZjcJ7fVFFwgKz//Z" />
+<RemoteImage alt={`Banksy`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39852074431_8acc13a1c9_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39852074431_8acc13a1c9_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAYDAQIEBQj/xAAoEAABAwMDAwQDAQAAAAAAAAABAgMRAAQFBhIhEzFBBxQiURUjcdH/xAAYAQACAwAAAAAAAAAAAAAAAAABBAIDBf/EABoRAAMBAAMAAAAAAAAAAAAAAAABAhESEyL/2gAMAwEAAhEDEQA/AJcq1nLXNtJx6Mf+I9pvWt4Er6pMCAnkxxwODzzMVPoXTuZ9jeM6iuheXAu1dJ0+WiEwY7gTu4PI7VJqPJ3FhinLjHW9rcZFK0uW6X1pbbcSnaFNqUSOQVbx4iZiav0Xm8vkcc7eZ3opvLl3rJbac3pQgkgQZII+PEccfc1bcvjhGK9FdR4JppkqQEiBEz5orLzt8XEOJE8popPrYy7Rz76yXdw5qJLPWeNl0kfqKjsDiRBIHaYI5p89IVOr049kX3C7d3b0EmBCWgEIAH0BNJ+ubYZzXaLR5wi1tbBbyyD2AClcf07RTJ6TuhnRNsomCp51X9+Q/wArQlbQk3iHvIPKKFFXBjxRWpv79te5O9M7ZjcJ7fVFFwgKz//Z"
+/>
 
 Im Moco sind nicht nur Drucke ausgestellt, sondern echte Banksy-Stücke. Da kann
 auch mal ein Stück Mauer oder ein Verkehrschild dabei sein. Die meisten Exponate
@@ -92,13 +89,11 @@ Künstler selbst.
 
 ## Von der Dry BreadZ Crew bis zu Exit Trough The Gift Shop
 
-<RemoteImage
-  alt="Banksy"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_38953010235_9061d85902_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_38953010235_9061d85902_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcB/8QALRAAAgEDAwIEBAcAAAAAAAAAAQIDBAURABIhMUETFBUiBlGB0TJCYXFykaH/xAAYAQADAQEAAAAAAAAAAAAAAAACBAUBA//EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEh/9oADAMBAAIRAxEAPwB6stK0+0SSs4zu3bQPpjQa1i53S5TVAnmCwzPAkUfhrHGxHBJLe4D/AEdwelz4LadrhLH55pIhukEboCzgfmU8Y547jSTfm9Iu1NLFJB6LXVTkGAuzgbvdnIyrDJG0d8/tqapZQuh5vlPFLFEYnVVkKN/LoxAz+mgUxXxn2ygjccdPtq5eEetihZIDFGyIuwH8A2rhDkcYxn6dM6FeIqe0wSEjjO0ffWYHpy33b0RaOsrBIBPIaeWVC2Yo5RgMCeOGA/o51Cl1WyJVwrXTXGyndL5iCHfLSgklnYY7MRhhkdM41m0N8qJ7PcVnmaRZamOIiOnabConVELDbz3+ehdPWRWoiLy1ZU0M0eJUAen3+7IDjvg54zjB00o4Ku+8NMsE0yxSy1Nzeonr6h6jdHIM7FBXK9hnjJHHT5ana57WIWTKg4BZGY/U550gRVUpu6T2ankFAAzU6VQIEayY3oe+AynB+R1dda1mLHyOScnBkxrnUBzbw//Z" />
+<RemoteImage alt={`Banksy`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_38953010235_9061d85902_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_38953010235_9061d85902_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcB/8QALRAAAgEDAwIEBAcAAAAAAAAAAQIDBAURABIhMUETFBUiBlGB0TJCYXFykaH/xAAYAQADAQEAAAAAAAAAAAAAAAACBAUBA//EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEh/9oADAMBAAIRAxEAPwB6stK0+0SSs4zu3bQPpjQa1i53S5TVAnmCwzPAkUfhrHGxHBJLe4D/AEdwelz4LadrhLH55pIhukEboCzgfmU8Y547jSTfm9Iu1NLFJB6LXVTkGAuzgbvdnIyrDJG0d8/tqapZQuh5vlPFLFEYnVVkKN/LoxAz+mgUxXxn2ygjccdPtq5eEetihZIDFGyIuwH8A2rhDkcYxn6dM6FeIqe0wSEjjO0ffWYHpy33b0RaOsrBIBPIaeWVC2Yo5RgMCeOGA/o51Cl1WyJVwrXTXGyndL5iCHfLSgklnYY7MRhhkdM41m0N8qJ7PcVnmaRZamOIiOnabConVELDbz3+ehdPWRWoiLy1ZU0M0eJUAen3+7IDjvg54zjB00o4Ku+8NMsE0yxSy1Nzeonr6h6jdHIM7FBXK9hnjJHHT5ana57WIWTKg4BZGY/U550gRVUpu6T2ankFAAzU6VQIEayY3oe+AynB+R1dda1mLHyOScnBkxrnUBzbw//Z"
+/>
 
 In den frühen 90er Jahren begann Banksy gemeinsam mit der Dry BreadZ Crew in
 Bristol Graffitis zu sprühen. Etwa zehn Jahre später spezialisierte er sich auf

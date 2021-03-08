@@ -12,13 +12,13 @@ excerpt: In Dublin konnte ich mich kaum sattsehen. Möwen! Überall Möwen! Dass
   toll!
 focusKeyword: Möwen in Dublin
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
   - Dublin
+  - Fernweh
   - Irland
   - Irland2017
   - Möwen
   - Möwenbilder
-  - Reisen
   - Seevögel
 type: Galerie
 typeName: Galerie
@@ -40,13 +40,11 @@ musste ich sogar aufpassen, dass ich vor lauter Möwenfotografie nicht die tolle
 Sehenswürdigkeiten übersehe. Aus lieber Tradition und weil die Dubliner Möwen
 einfach etwas ganz Besonders sind, ist eine lustige Bildergalerie entstanden.**
 
-<RemoteImage
-  alt="Möwen"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_37239585240_9e5d04507e_k__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_37239585240_9e5d04507e_k__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGCAIDBAf/xAAqEAABAwMEAQMDBQAAAAAAAAABAgMEAAURBhIhMRMHQVEikbEVQmFykv/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABgRAQEBAQEAAAAAAAAAAAAAAAABEoER/9oADAMBAAIRAxEAPwDRrzXMLVNxYfktIgIYb8CAp7K8Fe4qJKRg9cfmuRvWz0CJBgWK7rjmJI8iEJddy6lfKioAgKHvwMDjGBT6w+sM9TTCb7BiHLbbinUpwMKJSMqP0btyVDB28g091Zdm9R2RtiwzbVCuLkltTjc6Olryo6278Ed7T2eE4rPW+PLLpcbRd5SpkjUs4lS1J2vPZWn5zuOQMYAPvjFRubHtT8ZuPHvpUtJUoKfyrOex381Z622UP2aGb1GtTk1TYLi24TZSon4JTzxjmlV20Np+VkyYccjHTUdlv8JzThb8V/0BcHP1Rhhf1szGpEZ5B6Ught3kf2Wv/VYW2B4fTSXeo8h3fbHzGfjPnytSE7yEkA4LZA/kg/FFFCM9KaxuEJlJtzr8VPYbS9ubBwP2EEe/tipPa/VC4y56INwhsOLWceVklr7p5H2xRRRLYbH/2Q==" />
+<RemoteImage alt={`Möwen`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_37239585240_9e5d04507e_k__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_37239585240_9e5d04507e_k__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGCAIDBAf/xAAqEAABAwMEAQMDBQAAAAAAAAABAgMEAAURBhIhMRMHQVEikbEVQmFykv/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABgRAQEBAQEAAAAAAAAAAAAAAAABEoER/9oADAMBAAIRAxEAPwDRrzXMLVNxYfktIgIYb8CAp7K8Fe4qJKRg9cfmuRvWz0CJBgWK7rjmJI8iEJddy6lfKioAgKHvwMDjGBT6w+sM9TTCb7BiHLbbinUpwMKJSMqP0btyVDB28g091Zdm9R2RtiwzbVCuLkltTjc6Olryo6278Ed7T2eE4rPW+PLLpcbRd5SpkjUs4lS1J2vPZWn5zuOQMYAPvjFRubHtT8ZuPHvpUtJUoKfyrOex381Z622UP2aGb1GtTk1TYLi24TZSon4JTzxjmlV20Np+VkyYccjHTUdlv8JzThb8V/0BcHP1Rhhf1szGpEZ5B6Ught3kf2Wv/VYW2B4fTSXeo8h3fbHzGfjPnytSE7yEkA4LZA/kg/FFFCM9KaxuEJlJtzr8VPYbS9ubBwP2EEe/tipPa/VC4y56INwhsOLWceVklr7p5H2xRRRLYbH/2Q=="
+/>
 
 Zurück von unserer Irlandreise war ich erstmal noch eine ganze Zeitlang mit
 anderen Dingen beschäftigt. Doch nun komme ich endlich dazu, meine Fotos zu

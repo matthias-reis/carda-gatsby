@@ -16,13 +16,16 @@ labels:
   - bayerischer Bauernverband
   - Chocjes
   - crueltyfree
-  - Darum vegan
+  - Ernährung & Gesundheit
   - Gerald Scarfe
   - go vegan
   - Hafermilch
   - Katjes
   - Katjes Werbespot
+  - Tierhaltung
   - Tierrechte
+  - Tierrechte
+  - Tierschutz
   - vegan
   - vegane Schokolade
   - vegane Schokolade von Katjes

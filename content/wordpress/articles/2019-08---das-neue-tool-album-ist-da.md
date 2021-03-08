@@ -11,7 +11,7 @@ excerpt: Für Tool Fans geht heute ein langjähriger Wunsch in Erfüllung. Das n
 focusKeyword: tool
 labels:
   - Adam Jones
-  - Bands & Reviews
+  - Bands
   - Danny Carey
   - Fear Inoculum
   - Justin Chancellor
@@ -21,7 +21,7 @@ labels:
   - Prog
   - Tool
 type: Artikel
-typeName: Rezension
+typeName: Review
 date: 2019-08-30T12:45:35.000Z
 status: publish
 isWerbung: false

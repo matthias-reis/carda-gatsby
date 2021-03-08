@@ -31,6 +31,16 @@ subTitle: Von Anajo bis Tito And Tarantula
   
 ---
 
+<RemoteImage alt={`Anajo`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_9825392104_e945313e5f_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_9825392104_e945313e5f_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EACgQAAIBAwMEAgEFAAAAAAAAAAECAwQFEQASIQYTMUEHIrEyUWFx0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMCAf/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMREiExEzJB/9oADAMBAAIRAxEAPwCAh+GK2rT6XS2SzMJTEkM+/ulEDkJgfbzjI9gjVHvHx9eKCbZLTHDU5qkfeNkkYGTsbOGbnG0ZbPGNdCdF19Leuu6e4TTx0FDbIhFSRrgBVGQBj+edJ9UWGGrr62ptNwMKGoE8VKImYO8h7eVIbCnk8AZ4zpLVNS7NJp1ufRfkwaL4m6qmSoKWydZIJexIhxlX7fc2+fS8n9tGrD1XdIbLfae1WS6Sx0VsDRySQ57tTJJkyNjI4IIXk+BjnRoPbkRGUKcGVGj6lrIa7sxswmkZY1Ab2eB+daH1L12lFBQmkMdRPAIxPTEOiq0a7FBdSCc8sQD5Y86weqiMcxRC5ZGxnH41MVtZ3ZarB5EqxqP6X/dJdYbcA9SaF8OSO4xudZI1yadmKlm3cD9Iz6HvGjTCtRmmb7qeTyMkHRqDgzeZ/9k="
+/>
+
+**Am Freitag, 3. Juli und Samstag 4. Juli 2009 fand in der Wilhelm-Hale-Straße
+in München auf dem Backstage Werksgelände wieder das BACKSTAGE OPEN-Festival
+statt.**
+
 Am Freitag spielten im Vorprogramm die Bands BENZIN und HASSLIEBE. Als Headliner
 traten THE NEW BLACK und als großes Highlight TITO AND TARANTULA auf.
 
@@ -43,13 +53,11 @@ haben sie für Oktober angekündigt. Wer schonmal reinhören möchte, kann dies 
 der [myspace-Seite](http://www.myspace.com/ennobunger) der Band, oder auf der
 offiziellen [Bandseite](http://www.ennobunger.de/) tun.
 
-<RemoteImage
-  alt="Enno Bunger"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_9825441026_d0361ee00d_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_9825441026_d0361ee00d_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAKBAAAgIBAwMDBAMAAAAAAAAAAQIDBBEABRIGMWEhIkETFFGBBxWR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQGB//EACYRAAEDAwIFBQAAAAAAAAAAAAIAAQMEESESQQUTFDGxImFxgaH/2gAMAwEAAhEDEQA/AGOjq3Tm1GS1PUghmECxckQFSBg5Gc4YlQSRg9/zjUX/ACJ1kOpc0kCxVkKmONfQOfycayjaOpbNmFaUgIiz7QNWOPp23ftPJWeJBXCBzJIFIY9lx3Pz2BxrRYwg09QO35fGFBjw+WOZynJ3fZXfZ9og3FI0p/QQ0aYd5JfB9QPOTrrP9YTRGCdlgjHFeJ/39nSNXaN22nYZt9ijZ6rUvuIJYeS8eTlAW5AD3g+0AlvAyTpdfuNuqoLe403nSvDLJEWIkVnGeHHBPJfnt8aQir4imICfG3h/KcqOFTNThKDerN8/bfHZ1jnSN2tS3WF7zSKoVmGEDISPhwT6j07eRqTTqC8bpYWg9dpWY4jBMqfsHj2A8frRo1OwTycyzvi6qpgFw7JzeOq2uVoasMKRwmmlWbE0jEmMjjIo5YViAqnAwQMY76U/uefuIkjkPcyHv5GjRo9EXLOXR7IVTG0oBrza6//Z" />
+<RemoteImage alt={`Enno Bunger`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_9825441026_d0361ee00d_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_9825441026_d0361ee00d_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAKBAAAgIBAwMDBAMAAAAAAAAAAQIDBBEABRIGMWEhIkETFFGBBxWR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQGB//EACYRAAEDAwIFBQAAAAAAAAAAAAIAAQMEESESQQUTFDGxImFxgaH/2gAMAwEAAhEDEQA/AGOjq3Tm1GS1PUghmECxckQFSBg5Gc4YlQSRg9/zjUX/ACJ1kOpc0kCxVkKmONfQOfycayjaOpbNmFaUgIiz7QNWOPp23ftPJWeJBXCBzJIFIY9lx3Pz2BxrRYwg09QO35fGFBjw+WOZynJ3fZXfZ9og3FI0p/QQ0aYd5JfB9QPOTrrP9YTRGCdlgjHFeJ/39nSNXaN22nYZt9ijZ6rUvuIJYeS8eTlAW5AD3g+0AlvAyTpdfuNuqoLe403nSvDLJEWIkVnGeHHBPJfnt8aQir4imICfG3h/KcqOFTNThKDerN8/bfHZ1jnSN2tS3WF7zSKoVmGEDISPhwT6j07eRqTTqC8bpYWg9dpWY4jBMqfsHj2A8frRo1OwTycyzvi6qpgFw7JzeOq2uVoasMKRwmmlWbE0jEmMjjIo5YViAqnAwQMY76U/uefuIkjkPcyHv5GjRo9EXLOXR7IVTG0oBrza6//Z"
+/>
 
 Hauptacts des Abends waren ANAJO aus Augsburg und SLUT aus Ingolstadt.
 

@@ -15,11 +15,10 @@ labels:
   - Animal Liberation
   - Animal Rights
   - Animal Rights March
+  - Antifaschismus & Feminismus
   - cantstopveganism
-  - Darum vegan
   - EatPlantsNotFriends
   - govegan
-  - Politik & Soziales
   - PostMilkGeneration
   - TheOfficialAnimalRightsMarch
   - Tierbefreiung
@@ -45,7 +44,7 @@ thumbnailId: "25870"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_animal-rights-march-2019-tobias-hess-photography-7__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_animal-rights-march-2019-tobias-hess-photography-7__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHA//EACgQAAICAQQCAQMFAQAAAAAAAAECAwQRAAUGEiExEwcUIyJBUWFxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwClVtsqcn5Zu0O08jlH4EZJDVHxhwv6g4A7FuqkYAyxBJJxnXTcuKQbXDKLm+feQvTSxTvw1G+3JBEh7Mzl/HUHAHsf0RqGtpurSUr9EE7hLDBHZ2aCs6zySxt1LjonTqSofsScknI072jbrvK+TzVOQbVuKX7s+bFu3GXgjBb11UgZ8+OpH/QdAnD7FRtqtW6EF2SzdjZJD3+5sd0OEZEPQFW7AMASQAMAZGpbaqZ43yBPlqTyVTBFJJYmryExynxM+MdkCnv/AKrDPrOmvLfoyNpp/dUeUQJXRCwWwoVVU5xgoze2BGMez/umn0v2/faPIIk2q/DBejrJa7NILaPE64dJFQnGQ2OoPjGD/Ogz+fmF5rT2v1ZkOCvysPA9DIwcYxrQ/p3vlzf91pU7tzco4FhaZTWuvHIHU4B7+/Zz/P8AejRoLzyTaq3KjaoQGfbk2+SKOo4kMrRlY1bLZx2H5WGDrNeW8kn4dy4LXhSe1HQrxSTr+H5cL5JVfA9/tj17OjRoP//Z
-subTitle: Erfolg für das Tierrechtskaktivistenbündnis
+subTitle: Erfolg für das Tier&shy;rechts&shy;ak&shy;ti&shy;vis&shy;ten&shy;bünd&shy;nis
   
 ---
 
@@ -71,13 +70,12 @@ Animal Rights March erhofft hatten, ist in vollem Gange.
 
 ## Der Animal Rights March 2019 lockte zahlreiche Demonstrant\*innen an
 
-<RemoteImage
-  alt="animalrightsmarchberlintobiashess2019"
-  size="medium"
-  title="Andreas, Caro, Markus, Inga (v.l.n.r) vom Tierrechtsaktivistenbündnis Hamburg"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_animal-rights-march-2019-tobias-hess-photography__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_animal-rights-march-2019-tobias-hess-photography__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAHBAb/xAApEAACAQMDBAEDBQAAAAAAAAABAgMEBREAEiEGEzFBIgcUFUJRUpHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQQFAAP/xAAjEQEAAQQABQUAAAAAAAAAAAABAgADESEEEhNBcRQiMWGh/9oADAMBAAIRAxEAPwC/LJV3yuoJaWWS30rwBNhbfMZUzgjHAGG5HnAGuWhv0LdWLFaUaW209VCzr8m7ZBUBeRnggr49axCx3KWjuQleaWKoilCuC3LqG5VgfPvz71qPSlyYWXqya1d2saLvY4EWAnyQkA5GD+o8nbpG/bbQ9xMU9YkcQRj8Iq0jdqPp6OyXK5xy1NLcot80bwTKiu3qPYTnOSMjg/E8Y40R1l0hDbeklvFDcGnMbJ9yZAVDB8YYZA/0cHnI14W2dTVdTZa+nuFyj7lZJuaeq3yMpYq2RjP8WBOCRkY86ct3WbwfTe4RVs8FbPLI1JDHLAuSOCr5IydvkZ8HGuHpJQA+wovRu8zjHtz4TNZ/HLtLuS3eILF85z7Oc6Ua4i3Xe8bIO7HVloTG0jKDuKsd2OSPP96tWrFwHBU+xqMpd9fo0ZKlF+MqiFnWsSoIUDHbCZxj986TtqXS1dIxX2hrI4o2qjTYCguDsJ9gjGF1atCesJWhtkea/9k=" />
+<RemoteImage alt={`animalrightsmarchberlintobiashess2019`} size="medium"
+title={`Andreas, Caro, Markus, Inga (v.l.n.r) vom Tierrechtsaktivistenbündnis Hamburg`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_animal-rights-march-2019-tobias-hess-photography__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_animal-rights-march-2019-tobias-hess-photography__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAHBAb/xAApEAACAQMDBAEDBQAAAAAAAAABAgMEBREAEiEGEzFBIgcUFUJRUpHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQQFAAP/xAAjEQEAAQQABQUAAAAAAAAAAAABAgADESEEEhNBcRQiMWGh/9oADAMBAAIRAxEAPwC/LJV3yuoJaWWS30rwBNhbfMZUzgjHAGG5HnAGuWhv0LdWLFaUaW209VCzr8m7ZBUBeRnggr49axCx3KWjuQleaWKoilCuC3LqG5VgfPvz71qPSlyYWXqya1d2saLvY4EWAnyQkA5GD+o8nbpG/bbQ9xMU9YkcQRj8Iq0jdqPp6OyXK5xy1NLcot80bwTKiu3qPYTnOSMjg/E8Y40R1l0hDbeklvFDcGnMbJ9yZAVDB8YYZA/0cHnI14W2dTVdTZa+nuFyj7lZJuaeq3yMpYq2RjP8WBOCRkY86ct3WbwfTe4RVs8FbPLI1JDHLAuSOCr5IydvkZ8HGuHpJQA+wovRu8zjHtz4TNZ/HLtLuS3eILF85z7Oc6Ua4i3Xe8bIO7HVloTG0jKDuKsd2OSPP96tWrFwHBU+xqMpd9fo0ZKlF+MqiFnWsSoIUDHbCZxj986TtqXS1dIxX2hrI4o2qjTYCguDsJ9gjGF1atCesJWhtkea/9k="
+/>
 
 Der March wurde in Berlin [<sup>2</sup>](#2) vom Hamburger
 Tierrechtsaktivistenbündnis [<sup>3</sup>](#3) veranstaltet. Im Nachklang

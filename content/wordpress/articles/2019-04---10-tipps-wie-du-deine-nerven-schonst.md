@@ -14,9 +14,11 @@ excerpt: "Wer kennt das nicht: Kaum hat man sich etwas Tolles vorgenommen,
 focusKeyword: Nerven
 labels:
   - Achtsamkeit
+  - Achtsamkeit
   - Alltag
   - eine Nacht darüber schlafen
   - Frust bewältigen
+  - Geschichten & Erlebtes
   - Herz ausschütten
   - kleine Dinge
   - Kleinigkeiten
@@ -27,7 +29,6 @@ labels:
   - reflektieren
   - Selbstliebe
   - sich etwas nicht zu Herzen nehmen
-  - Tagebuch
   - über sich selbst lachen
   - Vorfreude ist die beste Freude
   - Vorfreue
@@ -38,7 +39,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (47:6)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (45:6)"
 thumbnailId: "23987"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_wildling-sandale-windlass-effekt__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_wildling-sandale-windlass-effekt__l.jpg
@@ -47,7 +48,7 @@ subTitle: <strong>Alltag für Fortgeschrittene</strong>
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (47:6)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (45:6)
 
 <!--
 **Ist das dieses Leben, von dem alle sprechen? Überall fliegen die Fetzen, es
@@ -85,13 +86,11 @@ ist. Vermutlich wirst Du feststellen, dass er\*sie nur seine Missgunst oder
 seine schlechte Laune loswerden wollte und Du baust automatisch Distanz zu
 seiner Kritik auf.
 
-<RemoteImage
-  alt="nerven"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_nerven-1-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_nerven-1-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcBAv/EACsQAAEDAwIFAgcBAAAAAAAAAAECAxEABAUSIQYHIjFBE1EUI0JhcZGhgf/EABcBAQADAAAAAAAAAAAAAAAAAAUDBAb/xAAiEQACAgECBwEAAAAAAAAAAAABAgARAwRxBRIiIzEzUbH/2gAMAwEAAhEDEQA/AMHQPlnaO3mmTl26W+JlECZs30kTGxAn+UuoEtkxHntV7y8CnOMLdsFSS406iQnVEoPjz2qLOe22xiOj9ybj9jZb6vUvdLadLqVKbSCCNSoRH4G37oqfKWLwZYSfULBcKVBtGghQeEq950yYoo9coq7jj4iTVTOUFCQdR8byacuXGNt15rBXqbgJeuL25twhREdFvrH3kkkb7HapRyw+GQFZHO2luDBIKt/8Hf8AlXuA4HxeOuW7zH5HI3lxZ3KbkJZQgJXCCI6oEQo7ztV/McbIy35FTNYc5R1b4QZ74hAXctuLLQDWUCn0J6dQUUwN+4gDb2NFcyPDeYUrVYN2pRLa1oduG9bhE9SiFH6Y/VFHDQ9IFxwcXTmJqf/Z" />
+<RemoteImage alt={`nerven`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_nerven-1-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_nerven-1-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcBAv/EACsQAAEDAwIFAgcBAAAAAAAAAAECAxEABAUSIQYHIjFBE1EUI0JhcZGhgf/EABcBAQADAAAAAAAAAAAAAAAAAAUDBAb/xAAiEQACAgECBwEAAAAAAAAAAAABAgARAwRxBRIiIzEzUbH/2gAMAwEAAhEDEQA/AMHQPlnaO3mmTl26W+JlECZs30kTGxAn+UuoEtkxHntV7y8CnOMLdsFSS406iQnVEoPjz2qLOe22xiOj9ybj9jZb6vUvdLadLqVKbSCCNSoRH4G37oqfKWLwZYSfULBcKVBtGghQeEq950yYoo9coq7jj4iTVTOUFCQdR8byacuXGNt15rBXqbgJeuL25twhREdFvrH3kkkb7HapRyw+GQFZHO2luDBIKt/8Hf8AlXuA4HxeOuW7zH5HI3lxZ3KbkJZQgJXCCI6oEQo7ztV/McbIy35FTNYc5R1b4QZ74hAXctuLLQDWUCn0J6dQUUwN+4gDb2NFcyPDeYUrVYN2pRLa1oduG9bhE9SiFH6Y/VFHDQ9IFxwcXTmJqf/Z"
+/>
 
 Wenn das alles nicht hilft, schütte jemandem Dein Herz aus (siehe Punkt 3) oder
 schreib es auf. Das hilft Dir, Deine Gedanken zu sammeln. Im Anschluss kannst Du

@@ -33,6 +33,10 @@ subTitle: Konzert ohne Kamera
   
 ---
 
+**Gestern stand für uns ein echtes Highlight an: Das Caspian Konzert im
+Hafenklang in Hamburg. Schon seit Wochen hatten wir uns drauf gefreut, endlich
+war der Tag gekommen.**
+
 Und was soll ich sagen: Es war großartig. Auf jeden Fall eines der besten
 Konzerte der letzten Jahre. Und es war laut! Mein rechtes Ohr ist jetzt noch ein
 Bisschen träge. :-P Besonderes Highlight: Nach der klassischen Zugabe, bei der

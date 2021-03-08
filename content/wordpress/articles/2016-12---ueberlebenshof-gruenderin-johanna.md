@@ -14,16 +14,16 @@ focusKeyword: Johanna
 labels:
   - amoa
   - Blinde Katzen
-  - Darum vegan
   - Futterspenden
   - Hunde
-  - Interview
+  - Interviews
   - Johanna Schlitzkus
   - Katzen
   - Katzenhof Amoa
   - Norddeutschland
   - Tiere in Not
   - tierhof amoa
+  - Tierrechte
   - Tierrechte
   - Tierschutz
   - Überlebenshof
@@ -58,13 +58,11 @@ verraten.
 
 ## "Ich genieße das diesige Wetter"
 
-<RemoteImage
-  alt="Johanna"
-  size="medium"
-  title="Johanna und Britta"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_WhatsApp-Image-2016-11-26-at-14.00.15.jpeg__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_WhatsApp-Image-2016-11-26-at-14.00.15.jpeg__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcGCAMEBf/EACgQAAIBAwMDBAIDAAAAAAAAAAECAwQFEQAhMQYHEhMiQVEVgTJhwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAfEQABBAICAwAAAAAAAAAAAAABAAIDERQhEzESQlH/2gAMAwEAAhEDEQA/ALK3a+0VsLLM0kkyr5mKGMu2PvA4/es9putFdqBa231CzUzEr5gEYIOCCDggg/B0o+o71W/m3prHPEaYD1a1qlMFsAknzz/LHC8ADjXE6N6vhWOtuSTVjS1eQ9v9As6emFAkIBxk+bZOeFGp+dV4uhZ2rBRyJIMxsrD7Bzo0i7t3FuPTFqu11itis1Kh9SGeoBY+4AMUXgb5wSCRo0xr/IXSRLGY3UUlO5vcKW6zUsVJRoqx4kyT4gb87ck/5qPJ108E1ObNQyJCiYnFTUGRpST7gp28R/Zyc62erulmpKKouSTM6CRFZCuSVJABB+ADtjUGRpIAYyqBhtlgcEfY1vAzohFJK8uB+dKwHT1fTX+herTyjSVCzpNN5SlfkbbePPH70aV/bK8TJdKe13CZVoKyVlWTGGp5DkBlP0TsQdjnRoMcXopuWfYbX//Z" />
+<RemoteImage alt={`Johanna`} size="medium" title={`Johanna und Britta`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_WhatsApp-Image-2016-11-26-at-14.00.15.jpeg__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_WhatsApp-Image-2016-11-26-at-14.00.15.jpeg__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcGCAMEBf/EACgQAAIBAwMDBAIDAAAAAAAAAAECAwQFEQAhMQYHEhMiQVEVgTJhwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAfEQABBAICAwAAAAAAAAAAAAABAAIDERQhEzESQlH/2gAMAwEAAhEDEQA/ALK3a+0VsLLM0kkyr5mKGMu2PvA4/es9putFdqBa231CzUzEr5gEYIOCCDggg/B0o+o71W/m3prHPEaYD1a1qlMFsAknzz/LHC8ADjXE6N6vhWOtuSTVjS1eQ9v9As6emFAkIBxk+bZOeFGp+dV4uhZ2rBRyJIMxsrD7Bzo0i7t3FuPTFqu11itis1Kh9SGeoBY+4AMUXgb5wSCRo0xr/IXSRLGY3UUlO5vcKW6zUsVJRoqx4kyT4gb87ck/5qPJ108E1ObNQyJCiYnFTUGRpST7gp28R/Zyc62erulmpKKouSTM6CRFZCuSVJABB+ADtjUGRpIAYyqBhtlgcEfY1vAzohFJK8uB+dKwHT1fTX+herTyjSVCzpNN5SlfkbbePPH70aV/bK8TJdKe13CZVoKyVlWTGGp5DkBlP0TsQdjnRoMcXopuWfYbX//Z"
+/>
 
 **Anne:** Liebe Josi, erst mal vielen Dank, dass Du Dir erneut die Zeit für ein
 Interview nimmst! Wie geht es Dir heute bei diesem schönen nordischen Wetter?
@@ -91,13 +89,11 @@ im Norden neu anzufangen.
 
 **Johanna:** In der Nähe von Cuxhaven. In dem kleinen, langen Örtchen Bülkau.
 
-<RemoteImage
-  alt="Johanna"
-  size="medium"
-  title="Bommel, Shady und TomTom"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13669215_828410747294065_9109130476546866213_n__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13669215_828410747294065_9109130476546866213_n__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABIDASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABwADAgQG/8QAJhAAAQQBAwMFAQEAAAAAAAAAAQIDBBEFABIhBjFBBxQiUWEWcf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAHhEAAgAGAwAAAAAAAAAAAAAAAAECAxESFCETIlH/2gAMAwEAAhEDEQA/AFfp7rmdAiMwMrj8rkZYaLvugltKSSbShRvvXO6u1a4SvUicvPR0w8Y6nGttJMhDzSg6pZ5UE3XAFUQDfOh7Mz8xHjwzj8rj/aTHVRY6GdylrKTwQk2UpJJSAfo141uvOzms8zHmqeS800G3iR8UqAFhR488V47awubMUOwXVCRJ9U86JLoYxWNDQWdgccVu23xfPfVo8/rMSj4upYccTwpdqG4+Tq1WTGHWE8SjqPGMZBLUONEb3EXMdUshtH4K4Pi64s67WE6nZkRZUrJyG222nloZgxxtCgoWFG+VC+bJu6AFXouffcK1BLlpHcjgH/L1myqRvBSRSvv78aZb1tQvb0kKCeq8c2kI9owraK3Kqz+nVozCX6FlB/d41aTjInG/T//Z" />
+<RemoteImage alt={`Johanna`} size="medium" title={`Bommel, Shady und TomTom`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13669215_828410747294065_9109130476546866213_n__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13669215_828410747294065_9109130476546866213_n__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABIDASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABwADAgQG/8QAJhAAAQQBAwMFAQEAAAAAAAAAAQIDBBEFABIhBjFBBxQiUWEWcf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAHhEAAgAGAwAAAAAAAAAAAAAAAAECAxESFCETIlH/2gAMAwEAAhEDEQA/AFfp7rmdAiMwMrj8rkZYaLvugltKSSbShRvvXO6u1a4SvUicvPR0w8Y6nGttJMhDzSg6pZ5UE3XAFUQDfOh7Mz8xHjwzj8rj/aTHVRY6GdylrKTwQk2UpJJSAfo141uvOzms8zHmqeS800G3iR8UqAFhR488V47awubMUOwXVCRJ9U86JLoYxWNDQWdgccVu23xfPfVo8/rMSj4upYccTwpdqG4+Tq1WTGHWE8SjqPGMZBLUONEb3EXMdUshtH4K4Pi64s67WE6nZkRZUrJyG222nloZgxxtCgoWFG+VC+bJu6AFXouffcK1BLlpHcjgH/L1myqRvBSRSvv78aZb1tQvb0kKCeq8c2kI9owraK3Kqz+nVozCX6FlB/d41aTjInG/T//Z"
+/>
 
 ## "Eine Freundin hat uns geholfen, die Katzen zu transportieren"
 
@@ -141,13 +137,11 @@ Hilfsbereitschaft der Menschen, die hier leben.
 Norden wirklich groß geschrieben. Besonders mit Freunden kochen hat eine große
 Tradition. Kocht Ihr immer selbst oder geht Ihr auch mal essen?
 
-<RemoteImage
-  alt="Johanna"
-  size="medium"
-  title="Bommel, Shady und TomTom"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13669215_828410747294065_9109130476546866213_n__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13669215_828410747294065_9109130476546866213_n__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABIDASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABwADAgQG/8QAJhAAAQQBAwMFAQEAAAAAAAAAAQIDBBEFABIhBjFBBxQiUWEWcf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAHhEAAgAGAwAAAAAAAAAAAAAAAAECAxESFCETIlH/2gAMAwEAAhEDEQA/AFfp7rmdAiMwMrj8rkZYaLvugltKSSbShRvvXO6u1a4SvUicvPR0w8Y6nGttJMhDzSg6pZ5UE3XAFUQDfOh7Mz8xHjwzj8rj/aTHVRY6GdylrKTwQk2UpJJSAfo141uvOzms8zHmqeS800G3iR8UqAFhR488V47awubMUOwXVCRJ9U86JLoYxWNDQWdgccVu23xfPfVo8/rMSj4upYccTwpdqG4+Tq1WTGHWE8SjqPGMZBLUONEb3EXMdUshtH4K4Pi64s67WE6nZkRZUrJyG222nloZgxxtCgoWFG+VC+bJu6AFXouffcK1BLlpHcjgH/L1myqRvBSRSvv78aZb1tQvb0kKCeq8c2kI9owraK3Kqz+nVozCX6FlB/d41aTjInG/T//Z" />
+<RemoteImage alt={`Johanna`} size="medium" title={`Bommel, Shady und TomTom`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13669215_828410747294065_9109130476546866213_n__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13669215_828410747294065_9109130476546866213_n__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABIDASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABwADAgQG/8QAJhAAAQQBAwMFAQEAAAAAAAAAAQIDBBEFABIhBjFBBxQiUWEWcf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAHhEAAgAGAwAAAAAAAAAAAAAAAAECAxESFCETIlH/2gAMAwEAAhEDEQA/AFfp7rmdAiMwMrj8rkZYaLvugltKSSbShRvvXO6u1a4SvUicvPR0w8Y6nGttJMhDzSg6pZ5UE3XAFUQDfOh7Mz8xHjwzj8rj/aTHVRY6GdylrKTwQk2UpJJSAfo141uvOzms8zHmqeS800G3iR8UqAFhR488V47awubMUOwXVCRJ9U86JLoYxWNDQWdgccVu23xfPfVo8/rMSj4upYccTwpdqG4+Tq1WTGHWE8SjqPGMZBLUONEb3EXMdUshtH4K4Pi64s67WE6nZkRZUrJyG222nloZgxxtCgoWFG+VC+bJu6AFXouffcK1BLlpHcjgH/L1myqRvBSRSvv78aZb1tQvb0kKCeq8c2kI9owraK3Kqz+nVozCX6FlB/d41aTjInG/T//Z"
+/>
 
 **Johanna:** Wir gehen auch oft essen. Aber nicht so, wie man sich das
 vorstellt. Dadurch, dass unsere Küche erst im November fertig wurde, haben wir
@@ -182,13 +176,11 @@ wie Schweine oder Schafe in Frage?
 
 ## "Freiheit und Unversehrtheit sind das höchste Gut eines Lebewesens"
 
-<RemoteImage
-  alt="Johanna"
-  size="medium"
-  title="Agata"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13707652_829833457151794_3889689919982864409_n__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13707652_829833457151794_3889689919982864409_n__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABIDASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAcGAQIDBAX/xAAtEAABAwIDBgQHAAAAAAAAAAABAgMRAAQFBhITFCExUWEHIjKxI0GBlMHC4f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EAB0RAAICAgMBAAAAAAAAAAAAAAABAhETIQMEIjH/2gAMAwEAAhEDEQA/AGtkjBsHxG9cxjG8MtTfYYkBi4fIWGkqkkgngIiZ71JmfEHK79pvLOLMuM7ubqUpPoBI6eokGE8+1JTOancR3HD13aAHUIcettez2xgBKhwMkfmuRfYCHrMW6b5DCE6XNKm0+dIkiSCJ4kmeftU8iitj7Em+RsdQ8XMsdb/7f+0UnxkdwgFN29Hyhuf3oqGaRGpkVxh24czuL1Li0CUaSAfKkACI+lb7FoyzcLWhx1C0urSAfOlWngBJ4gRFUDjdzGyAXp0thQ7mCPc1JLFtLTTp+LrmSgxBEnl1kmkp2tG+pOzKzfXeyRpcY06RGoiY70VY2y6EJCXlJTAhJa4gdOVFBqF/TXZ//9k=" />
+<RemoteImage alt={`Johanna`} size="medium" title={`Agata`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13707652_829833457151794_3889689919982864409_n__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13707652_829833457151794_3889689919982864409_n__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABIDASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAcGAQIDBAX/xAAtEAABAwIDBgQHAAAAAAAAAAABAgMRAAQFBhITFCExUWEHIjKxI0GBlMHC4f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EAB0RAAICAgMBAAAAAAAAAAAAAAABAhETIQMEIjH/2gAMAwEAAhEDEQA/AGtkjBsHxG9cxjG8MtTfYYkBi4fIWGkqkkgngIiZ71JmfEHK79pvLOLMuM7ubqUpPoBI6eokGE8+1JTOancR3HD13aAHUIcettez2xgBKhwMkfmuRfYCHrMW6b5DCE6XNKm0+dIkiSCJ4kmeftU8iitj7Em+RsdQ8XMsdb/7f+0UnxkdwgFN29Hyhuf3oqGaRGpkVxh24czuL1Li0CUaSAfKkACI+lb7FoyzcLWhx1C0urSAfOlWngBJ4gRFUDjdzGyAXp0thQ7mCPc1JLFtLTTp+LrmSgxBEnl1kmkp2tG+pOzKzfXeyRpcY06RGoiY70VY2y6EJCXlJTAhJa4gdOVFBqF/TXZ//9k="
+/>
 
 **Johanna:** Wir haben noch zwei Katzen-Kitten aufgenommen. Weitere Tiere sind
 nicht geplant. Das können wir einfach finanziell nicht mehr stemmen. Sollte
@@ -257,13 +249,11 @@ letzten drei Jahren geändert? Positiv und negativ?
 
 ## "Die Leute müssen aufhören, ihre hausgemachten Probleme auf Menschen abzuwälzen, die nichts dafür können"
 
-<RemoteImage
-  alt="Johanna"
-  size="medium"
-  title="Das erste Mal in Freiheit"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13700008_828410703960736_3876966762070270544_n__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13700008_828410703960736_3876966762070270544_n__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABIDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYBB//EACoQAAIBAwIFAgcBAAAAAAAAAAECAwAEEQUhEhUxQWETMgYUIkJRgZGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAAP/xAAcEQABBAMBAAAAAAAAAAAAAAAAARESUQIUIQP/2gAMAwEAAhEDEQA/AEtUE0mlSlsqIxxhfbjuQRWVtNRiur68tI1kEtqQsmQMZJPTfxWqmeztrgaZq8ghuZmEaxF1YplSeJt+h2wKi0z4atJuczQsGv0IAa1hLC5JH07469zQTy45TtP1Sn4z+DRTPKLz77ZQ3cEvkH+UVzljYNzCz214op0PzMK3CZ6Sxq4/3p/KV5VpyFfSsbEI2wVIVUtgbDPXGBU8fulMSJcwEFfUD8DMfHbbpnI8U7bRiYCS4TI3wr4JCjv+6Z3JYoVXLbA7mwOTv7zRXH0fUGdiNSCgnPDwMMeNjRSzSjQSj//Z" />
+<RemoteImage alt={`Johanna`} size="medium" title={`Das erste Mal in Freiheit`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13700008_828410703960736_3876966762070270544_n__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13700008_828410703960736_3876966762070270544_n__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABIDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYBB//EACoQAAIBAwIFAgcBAAAAAAAAAAECAwAEEQUhEhUxQWETMgYUIkJRgZGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAAP/xAAcEQABBAMBAAAAAAAAAAAAAAAAARESUQIUIQP/2gAMAwEAAhEDEQA/AEtUE0mlSlsqIxxhfbjuQRWVtNRiur68tI1kEtqQsmQMZJPTfxWqmeztrgaZq8ghuZmEaxF1YplSeJt+h2wKi0z4atJuczQsGv0IAa1hLC5JH07469zQTy45TtP1Sn4z+DRTPKLz77ZQ3cEvkH+UVzljYNzCz214op0PzMK3CZ6Sxq4/3p/KV5VpyFfSsbEI2wVIVUtgbDPXGBU8fulMSJcwEFfUD8DMfHbbpnI8U7bRiYCS4TI3wr4JCjv+6Z3JYoVXLbA7mwOTv7zRXH0fUGdiNSCgnPDwMMeNjRSzSjQSj//Z"
+/>
 
 **Johanna:** Insgesamt sehe ich eher negative Veränderungen. Seitdem Parteien
 wie die AfD aufgetaucht sind, muss man sich gesellschaftlich und politisch
@@ -291,13 +281,11 @@ Erkenntnissen zu zeigen, was passiert, wenn wir so weiter machen, wie bisher.
 
 ## Johanna hat nachdenkliche Worte für uns zum Jahresende
 
-<RemoteImage
-  alt="Johanna"
-  size="medium"
-  title="In der neuen Heimat"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13716202_828410643960742_1395915308144654146_n__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13716202_828410643960742_1395915308144654146_n__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABIDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBgMEB//EACsQAAIBAwIFAwMFAAAAAAAAAAECAwAEEQUhBhIiMUETFGEyQlFxkZLB0f/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIRAxNhElH/2gAMAwEAAhEDEQA/ALHxBwpdXOrGSGdZ4ZZmkzhVaNc5VR8fb+n7Ut1vjS70S/kgn0q692VDc0kYwwGV7jvgbA9qi2404f1O+soby9u/arIfV9rGUMilWH1EDlwzc2x8Yz4rCkena5d6tDacQvc2WlwCRJRcZWRhs6gY3we58g/FS44G42LVJq0xxba/pktvFJJpemh3QMwcJzAked+9FcslaISuObU26j1BMg/OaKH4fTFzK6l1dQyCW3ikjjA5wyNg4Hkjb4pTNqt3EzehcS755ubpG4x2z+DTy7KTROJlmxIQFCYOMb527UiuLKBmZ5JWCq2CSOoj+qoyxpjE8dmqNVvAB1v/ACP+0VL2sgdhG6lAenOO1FD1r4D0cP/Z" />
+<RemoteImage alt={`Johanna`} size="medium" title={`In der neuen Heimat`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13716202_828410643960742_1395915308144654146_n__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13716202_828410643960742_1395915308144654146_n__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABIDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBgMEB//EACsQAAIBAwIFAwMFAAAAAAAAAAECAwAEEQUhBhIiMUETFGEyQlFxkZLB0f/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIRAxNhElH/2gAMAwEAAhEDEQA/ALHxBwpdXOrGSGdZ4ZZmkzhVaNc5VR8fb+n7Ut1vjS70S/kgn0q692VDc0kYwwGV7jvgbA9qi2404f1O+soby9u/arIfV9rGUMilWH1EDlwzc2x8Yz4rCkena5d6tDacQvc2WlwCRJRcZWRhs6gY3we58g/FS44G42LVJq0xxba/pktvFJJpemh3QMwcJzAked+9FcslaISuObU26j1BMg/OaKH4fTFzK6l1dQyCW3ikjjA5wyNg4Hkjb4pTNqt3EzehcS755ubpG4x2z+DTy7KTROJlmxIQFCYOMb527UiuLKBmZ5JWCq2CSOoj+qoyxpjE8dmqNVvAB1v/ACP+0VL2sgdhG6lAenOO1FD1r4D0cP/Z"
+/>
 
 **Johanna:** Ich weiss es nicht. Ich kann nicht in die Zukunft blicken. Es steht
 auf alle Fälle fest,  dass wir dringend Paten brauchen, die regelmässig Futter

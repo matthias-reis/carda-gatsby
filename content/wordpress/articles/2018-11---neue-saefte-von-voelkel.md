@@ -13,11 +13,11 @@ labels:
   - Acerola
   - Antioxidantien
   - Eisen
+  - Ernährung & Gesundheit
   - Getränke
   - Immunsystem
   - Saft
   - Säfte
-  - Vegane Produkte
   - vegane Säfte
   - Vitamin C
   - Voelkel
@@ -53,13 +53,11 @@ also wir natürlich geteilt.
 
 ## Superfood zum trinken
 
-<RemoteImage
-  alt="Säfte"
-  size="medium"
-  title="Gut für das Immunsystem"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_2018-11-18-voelkel-muttersaefte0007__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_2018-11-18-voelkel-muttersaefte0007__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgf/xAArEAABAwQBAQgBBQAAAAAAAAABAgMEBRESIQAGBxMiMUFRYXEyFEKBssH/xAAXAQADAQAAAAAAAAAAAAAAAAABBAUD/8QAJBEAAQMDBAEFAAAAAAAAAAAAAQIDEQAEMQUhQVHREyJhkbH/2gAMAwEAAhEDEQA/AOUwum6rOQ44626215uynjZCSrJRSDfZ+ByhT6exSpsmM26tbSsIxudXX++w8zcAfXK0qoPU9iM/HWO5beQtzRN7A+H2x3v74q+24mctbr7TikrKHXGfwU4fFiD5GwxGta5NuIaPtnO/il3dOWG21ZC/NUnOmotd6ejoQtceqOLkTGXb3TjnjibbA/H2Pr68Ob1ymPQGaHAiuNwpzkIF5K28w45YKUlXyR/XhzfTrhu+Y9ZPZH1t3QuLU2yggngGko0enyOzahznqTTCvv1JdfWLKv3yhYi1iLAD+OIdLKgKprgXBpisHFrF2El3aim/1sb9NclmtuN9LRKNCmUsQmXi82ZDBdcQoqy0Qdi9+LUaVMgspjs18YpXkbU/I3KsiMifIm/E03bQSArqMGrgZc5M7znFb3tslKp1Tjn9LHaebPeJDS1KCiSRe+ra/wB4cxvaf1BM6oqIWhpqIQPGtltV17J+PfhxZtbe5AAniI/KJbWEhJMwPiv/2Q==" />
+<RemoteImage alt={`Säfte`} size="medium" title={`Gut für das Immunsystem`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_2018-11-18-voelkel-muttersaefte0007__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_2018-11-18-voelkel-muttersaefte0007__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgf/xAArEAABAwQBAQgBBQAAAAAAAAABAgMEBRESIQAGBxMiMUFRYXEyFEKBssH/xAAXAQADAQAAAAAAAAAAAAAAAAABBAUD/8QAJBEAAQMDBAEFAAAAAAAAAAAAAQIDEQAEMQUhQVHREyJhkbH/2gAMAwEAAhEDEQA/AOUwum6rOQ44626215uynjZCSrJRSDfZ+ByhT6exSpsmM26tbSsIxudXX++w8zcAfXK0qoPU9iM/HWO5beQtzRN7A+H2x3v74q+24mctbr7TikrKHXGfwU4fFiD5GwxGta5NuIaPtnO/il3dOWG21ZC/NUnOmotd6ejoQtceqOLkTGXb3TjnjibbA/H2Pr68Ob1ymPQGaHAiuNwpzkIF5K28w45YKUlXyR/XhzfTrhu+Y9ZPZH1t3QuLU2yggngGko0enyOzahznqTTCvv1JdfWLKv3yhYi1iLAD+OIdLKgKprgXBpisHFrF2El3aim/1sb9NclmtuN9LRKNCmUsQmXi82ZDBdcQoqy0Qdi9+LUaVMgspjs18YpXkbU/I3KsiMifIm/E03bQSArqMGrgZc5M7znFb3tslKp1Tjn9LHaebPeJDS1KCiSRe+ra/wB4cxvaf1BM6oqIWhpqIQPGtltV17J+PfhxZtbe5AAniI/KJbWEhJMwPiv/2Q=="
+/>
 
 Als Erstes landet "Immunkraft" in unseren Saftgläsern. Hm, sehr lecker. Und das
 auch ungekühlt direkt aus dem Karton. Die Zutaten versprechen Vitamine pur.
@@ -97,13 +95,11 @@ Johannisbeersaft* 6 Prozent, Passionsfruchtsaft* 1,5 Prozent, Curryblattextrakt*
 
 ## Stark und ungefiltert
 
-<RemoteImage
-  alt="Säfte"
-  size="medium"
-  title="Stark und ungefiltert"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_2018-11-18-voelkel-muttersaefte0005__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_2018-11-18-voelkel-muttersaefte0005__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBwMGCP/EACsQAAICAQMDAQcFAAAAAAAAAAECAwQRAAUhBhIxBxMiI1FhcZFBQqGxwf/EABgBAQADAQAAAAAAAAAAAAAAAAQBAgMF/8QAJREAAgIBAgQHAAAAAAAAAAAAAQIAEQMFQQQhMXFRYoGRwdHw/9oADAMBAAIRAxEAPwDmrcUMVHbsAhwJWz9pCP8ANT3UxDbXZKniS1C4+oZJG/gFfzrZN19ON9uVtrtCba1rWAzRk2CpUO7vhlK8Hnxz41kk9N+rLvREVmKtRnrR2ZCXS2qv8MCE+62DgezP51Io2dhKlDajc9Ipu1Abr6WbHfr9kk1EFJ0B95E7mXJHy4Xn66NWD6e7PU23o2xR6hSsbEc8yZTMg9mwU47h55J40axyMrGww94c48gJpTXaNrvVmv0Hs8L1s2oSF7y5wAGOCxz5PnjOpvpneFpek0qbiqq0dq2Iyf35lbPnzzn6jVQ1djr2KkVeO9uwhUHtSMD9Tn5fPU7BsF6DY0oUL27w1Vd3CSOjDL47sZ8Zxn76Ni1hVBXKbHavmdHNpYamwiiPN18dj+EVms1txWezJuUNNS5RYSGJwAOeBo0m/S714GWSzO5ySTLYjX+s6NBfiUZiVfl6fUYuBlABWf/Z" />
+<RemoteImage alt={`Säfte`} size="medium" title={`Stark und ungefiltert`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_2018-11-18-voelkel-muttersaefte0005__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_2018-11-18-voelkel-muttersaefte0005__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBwMGCP/EACsQAAICAQMDAQcFAAAAAAAAAAECAwQRAAUhBhIxBxMiI1FhcZFBQqGxwf/EABgBAQADAQAAAAAAAAAAAAAAAAQBAgMF/8QAJREAAgIBAgQHAAAAAAAAAAAAAQIAEQMFQQQhMXFRYoGRwdHw/9oADAMBAAIRAxEAPwDmrcUMVHbsAhwJWz9pCP8ANT3UxDbXZKniS1C4+oZJG/gFfzrZN19ON9uVtrtCba1rWAzRk2CpUO7vhlK8Hnxz41kk9N+rLvREVmKtRnrR2ZCXS2qv8MCE+62DgezP51Io2dhKlDajc9Ipu1Abr6WbHfr9kk1EFJ0B95E7mXJHy4Xn66NWD6e7PU23o2xR6hSsbEc8yZTMg9mwU47h55J40axyMrGww94c48gJpTXaNrvVmv0Hs8L1s2oSF7y5wAGOCxz5PnjOpvpneFpek0qbiqq0dq2Iyf35lbPnzzn6jVQ1djr2KkVeO9uwhUHtSMD9Tn5fPU7BsF6DY0oUL27w1Vd3CSOjDL47sZ8Zxn76Ni1hVBXKbHavmdHNpYamwiiPN18dj+EVms1txWezJuUNNS5RYSGJwAOeBo0m/S714GWSzO5ySTLYjX+s6NBfiUZiVfl6fUYuBlABWf/Z"
+/>
 
 Richtig "stark" und ungefiltert schmecken der Cranberry- und der Holundersaft.
 Ich kenne das schon von anderen Produkten, doch hier habe ich wirklich ein

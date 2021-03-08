@@ -11,14 +11,14 @@ excerpt: "Heute können die Camper unter Euch sich mal einen echten Geheimtipp
   bei mir abholen: Der Curraghchase Caravan & Camp Site ist etwas Besonderes."
 focusKeyword: Curraghchase
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
   - Campervan
   - Curraghchase
   - Curraghchase Caravan & Camp Site
+  - Fernweh
   - Irland2017
   - Kilcornan
   - Limerick
-  - Reisen
   - Reisen
   - Roadtrip
   - travelling
@@ -42,13 +42,11 @@ subTitle: Ein Hauch von Twin Peaks in Irland
 abholen: Der Curraghchase Caravan &amp; Camp Site liegt eingebettet inmitten des
 609 Morgen großen Curraghchase Forest Park bei Kilcornan im County Limerick.**
 
-<RemoteImage
-  alt="Curraghchase"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40191781452_80849a6968_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40191781452_80849a6968_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAKxAAAQMDAgQEBwAAAAAAAAAAAQIDBAAFEQYTEiExQVFSYaEUIjKisbLB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEBf/EAB4RAAIDAAEFAAAAAAAAAAAAAAECAAMRIQQTIjHR/9oADAMBAAIRAxEAPwCiWGBvLJI5fIferJpizQJujoSJLKXFoXISoFGeW84P5S2k0hXFjyIP3VD6fvF5YeXFjXNmFHamSWmj8IHFDC1LOVE+p7VmtW9q4nsH7KC4rbTBFlYahS2ysO20TpLLTfVyLt8+Ns9x4pPXsRUppDSYjWS5uTGkOJLm22oAkK4RzVkdvxTjdpWtmc9crvkiW6Up2OEvqWgKJAABGSQk9hmrpZ9LvTdJNMx7tDZec3lux3FKGStxRwccsYI5EVQ3dGKRpiQ+DQJmWjZgDygTy20ftStguUSEJjqWQ/cTc5GykKPEgE8OfBIOcZ6ntRRRdOOYVp5nC43GZJ3FtSkJkJlqBUpJVxrz5c/SAkZ9cda0LT9xUlrCEtJyclJIPvRRVlZ89i1HBn//2Q==" />
+<RemoteImage alt={`Curraghchase`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40191781452_80849a6968_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40191781452_80849a6968_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAKxAAAQMDAgQEBwAAAAAAAAAAAQIDBAAFEQYTEiExQVFSYaEUIjKisbLB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEBf/EAB4RAAIDAAEFAAAAAAAAAAAAAAECAAMRIQQTIjHR/9oADAMBAAIRAxEAPwCiWGBvLJI5fIferJpizQJujoSJLKXFoXISoFGeW84P5S2k0hXFjyIP3VD6fvF5YeXFjXNmFHamSWmj8IHFDC1LOVE+p7VmtW9q4nsH7KC4rbTBFlYahS2ysO20TpLLTfVyLt8+Ns9x4pPXsRUppDSYjWS5uTGkOJLm22oAkK4RzVkdvxTjdpWtmc9crvkiW6Up2OEvqWgKJAABGSQk9hmrpZ9LvTdJNMx7tDZec3lux3FKGStxRwccsYI5EVQ3dGKRpiQ+DQJmWjZgDygTy20ftStguUSEJjqWQ/cTc5GykKPEgE8OfBIOcZ6ntRRRdOOYVp5nC43GZJ3FtSkJkJlqBUpJVxrz5c/SAkZ9cda0LT9xUlrCEtJyclJIPvRRVlZ89i1HBn//2Q=="
+/>
 
 Nachts hört man dort nichts außer ein paar Wildtieren und dem Wind, der durch
 die Bäume streicht. Fährt man den Campingplatz an, passiert man nach langer

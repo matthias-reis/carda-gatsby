@@ -15,6 +15,7 @@ labels:
   - Birdwatching
   - Dünen
   - Faro
+  - Fernweh
   - flanieren
   - Gran Canaria
   - Harzer Roller
@@ -24,7 +25,6 @@ labels:
   - Leuchtturm von Maspalomas
   - Maspalomas
   - Promenade
-  - Reisen
   - Rhododentron
   - Tauben
   - Warane

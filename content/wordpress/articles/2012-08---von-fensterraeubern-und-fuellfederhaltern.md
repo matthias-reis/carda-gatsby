@@ -23,6 +23,7 @@ labels:
   - früh
   - Füller
   - Füllfederhalter
+  - Geschichten & Erlebtes
   - Handwerker
   - Lunch
   - Milchkaffee
@@ -42,7 +43,6 @@ labels:
   - Sonne
   - Stifte
   - Tag
-  - Tagebuch
   - Temporary
   - To-To-Liste
   - Tocotronic
@@ -66,13 +66,12 @@ subTitle: Ein ganz normaler Mittwoch
   
 ---
 
-<RemoteImage
-  alt="Neuer Füllfederhalter Anne Reko 8/2012"
-  size="medium"
-  title="Neuer Füllfederhalter Anne Reko 8/2012"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120801_094736__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120801_094736__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYABAcC/8QAMBAAAgEDAwIDBQkBAAAAAAAAAQIDBAURAAYhEjETIlEHMkFh8BQWIyVScYGh0fH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABsRAAIDAQEBAAAAAAAAAAAAAAABAhESITJB/9oADAMBAAIRAxEAPwA7NW7mq963v85qlpI6+WOOJKp1WONWYBQg47Af3plpprz4hL3JxF6GocsPXVDoiXcl4ZKCoZpKyUSSBD5h1n4+muhX22jlnpammgjlpyPHGeoRxMQFlOeeg5AJ+B4OONTtBywhWy3UK0kV3lWM4Cgyvx3zkg/WNA6CtvsO6bSxvtRNC1ZFFLEJnZCGYBgQSQRg40yI0VRCTHTxvSgDwmBUqw+WOMdtBoYZFvlqMdBTRD7bCWPWM46xzwPlosdFC7XhYb1dqemqmMyVkxd8eWLz+7n1/wB1nm7bjUX+ppqWzl4q38VUq0YqxUriTjt0Hs2cg8DuNTcth3Z9+9yq1gvD2prjNMjU9M7CqV3LKFdQRggjJ+Hbg6dttWi7w0slVNZKiCukVUjiNMypCgzhR5f+nU28dXSkLMPtW6bxsO5GlllmktjMVBic9OP1R5zjGc9J/nI1sW39x2q83+wzW17jVK9bAetnbpBMg94cDj6zoZ7RNs3i/WyXFirZJUCv0R0spDHBzgdPDDSj7PrBvWLfm2Yn23eqegp6+BnlmonijjhVwXJYgDGAe/f99XdTjr6Dy6Z//9k=" />
+<RemoteImage alt={`Neuer Füllfederhalter Anne Reko 8/2012`} size="medium"
+title={`Neuer Füllfederhalter`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120801_094736__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120801_094736__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYABAcC/8QAMBAAAgEDAwIDBQkBAAAAAAAAAQIDBAURAAYhEjETIlEHMkFh8BQWIyVScYGh0fH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABsRAAIDAQEBAAAAAAAAAAAAAAABAhESITJB/9oADAMBAAIRAxEAPwA7NW7mq963v85qlpI6+WOOJKp1WONWYBQg47Af3plpprz4hL3JxF6GocsPXVDoiXcl4ZKCoZpKyUSSBD5h1n4+muhX22jlnpammgjlpyPHGeoRxMQFlOeeg5AJ+B4OONTtBywhWy3UK0kV3lWM4Cgyvx3zkg/WNA6CtvsO6bSxvtRNC1ZFFLEJnZCGYBgQSQRg40yI0VRCTHTxvSgDwmBUqw+WOMdtBoYZFvlqMdBTRD7bCWPWM46xzwPlosdFC7XhYb1dqemqmMyVkxd8eWLz+7n1/wB1nm7bjUX+ppqWzl4q38VUq0YqxUriTjt0Hs2cg8DuNTcth3Z9+9yq1gvD2prjNMjU9M7CqV3LKFdQRggjJ+Hbg6dttWi7w0slVNZKiCukVUjiNMypCgzhR5f+nU28dXSkLMPtW6bxsO5GlllmktjMVBic9OP1R5zjGc9J/nI1sW39x2q83+wzW17jVK9bAetnbpBMg94cDj6zoZ7RNs3i/WyXFirZJUCv0R0spDHBzgdPDDSj7PrBvWLfm2Yn23eqegp6+BnlmonijjhVwXJYgDGAe/f99XdTjr6Dy6Z//9k="
+/>
 
 **Heute ist also der 1. August. Noch zehn Monate, dann ist wieder Sommer. Der
 Tag hat heute endlich mal wieder mit einem Milchkaffee angefangen. Da habe ich
@@ -86,7 +85,7 @@ Zeichentrickserie mit den gelben Menschen.). Vor Wochen schon
 [wurde mein Blog von einem Radiosender zitiert](http://www.egofm.de/default.aspx?ID=6117&showNews=1168552),
 wie ich entdeckt habe, was mich heute ein kleines Bisschen stolz macht.
 
-Bei meiner [Allerbesten](http://tofutante.wordpress.com/) reißen heute
+Bei meiner [Allerbesten](http://tofutante.wordpress.com/)  reißen heute
 Handwerker ein komplettes Fenster raus, obwohl sie eigentlich nur einen Rolladen
 austauschen sollten. Zum Glück scheint die Sonne.
 
@@ -120,27 +119,13 @@ wundervolles Wort. Ich habe mir am Montag sogar einen neuen geleistet, den ich
 jetzt natürlich so oft wie möglich zum Einsatz bringen möchte. Was sicher auch
 zu dem ein oder anderen Blogeintrag führen wird.
 
-_So far... Stay tuned..._
+So far – Stay tuned...
 
 PS: Falls ich es schaffe, gibt es heute Abend noch einen weiteren Beitrag mit
 Englandfotos im Blog. Man darf gespannt sein.
 
-## Song des Tages: White Rabbit - Temporary
+## Song des Tages: White Rabbit - "Temporary"
 
-[youtube=http://www.youtube.com/watch?v=o-4ZlO3XxYQ]
-
-_Oh, you never let it on, all you wanted was a little disaster_ _It's temporary,
-it's temporary_ _It's temporary, it's temporary_ _And now you, you knew it all
-along_ _Make it till the morning, we can think about it after_ _It's temporary,
-it's temporary_ _It's temporary, it's temporary_ _They don't ask no,_ _It's
-temporary, it's temporary_ _It's temporary, it's temporary_ _I really don't know
-why I let it roam_ _... can be the moment, it's about to fall_ _It's temporary,
-it's temporary_ _It's temporary, it's temporary_ _They don't ask no,_ _And they
-don't ask no_ _They don't ask no_ _So you, you never let it on_ _Make it till
-the morning, we can think about it after_ _It's temporary, it's temporary_ _It's
-temporary, it's temporary_ _So all you wanted was an honest ...._ _...got the
-one ..._ _They don't ask no,_ _And they don't ask no_ _They don't ask no_ _So
-you, you never let it on_ _Make it till the morning, we can think about it
-after_ _It's temporary, it's temporary_ _It's temporary, it's temporary._
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLnvXE8iM7k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   

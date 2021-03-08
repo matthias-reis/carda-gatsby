@@ -10,7 +10,7 @@ excerpt: Virales Marketing läuft über die verschiedensten Medien. Besonders gr
   geschrieben werden die sozialen Netzwerke.
 focusKeyword: Virales Marketing
 labels:
-  - DIY
+  - Geschichten & Erlebtes
   - Internet
   - Marketing
   - Mundpropaganda
@@ -34,10 +34,13 @@ subTitle: Mundpropaganda 2.0
   
 ---
 
+**Virales Marketing läuft über die verschiedensten Medien. Besonders groß
+geschrieben werden die sozialen Netzwerke.**
+
 Produkte werden geschickt und oft in ungewöhnliche Nachrichten verpackt
 hintergründig beworben.
 
-Dabei sollen Informationen innerhalb kürzester Zeit von Mensch zu Mensch
+Dabei sollen Informationen innerhalb kürzester Zeit von Mensch zu Mensch
 verbreitet werden.
 
 Die Verbreitung ähnelt in einigen Punkten der guten alten Mundpropaganda, diese

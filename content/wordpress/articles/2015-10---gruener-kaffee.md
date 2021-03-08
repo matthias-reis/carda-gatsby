@@ -11,9 +11,9 @@ excerpt: Grüner Kaffee kann sich positiv auf die Gesundheit auswirken. Das habe
   Forscher herausgefunden. Ein Portrait über das natürliche "Wundermittel".
 focusKeyword: grüner Kaffee
 labels:
+  - Ernährung & Gesundheit
   - grüner Kaffee
   - Superfood
-  - Vegane Produkte
 type: Artikel
 typeName: Artikel
 date: 2015-10-24T16:00:40.000Z
@@ -28,6 +28,10 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Gesund und gut für die Figur
   
 ---
+
+**Grüner Kaffee kann sich positiv auf die Gesundheit auswirken. Das haben
+Forscher herausgefunden. Wer auf der Suche nach einem "Wundermittel" ist, sollte
+sich erstmal in der Natur umschauen.**
 
 Tagtäglich kommen neue "Pillchen" auf den Markt, die angeblich Menschen dabei
 unterstützen sollen, ihr Wunschgewicht zu erreichen oder länger fit zu bleiben.
@@ -95,8 +99,9 @@ eine langfristige Wirkung zu erzielen. Beim Kauf eines Präparats sollte man
 daher auf seinen Gehalt achten. Vorsicht: Natürlich enthält der grüne Kaffee
 Koffein und kann bei zu hoher Dosierung zu Schlaflosigkeit führen.
 
-## Quellen- "Grüner Kaffee" von Dr. Lydia Polwin-Plass, Infobroschüre
+## Quellen
 
+- "Grüner Kaffee" von Dr. Lydia Polwin-Plass, Infobroschüre
 - "Kaffee – Der gesunde Muntermacher" von Anita Heßmann-Kosaris, Mosaik Verlag
 - Wikipedia
 

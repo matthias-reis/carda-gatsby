@@ -12,8 +12,8 @@ focusKeyword: ""
 labels:
   - Aberdeen
   - Cage The Elephant
+  - Geschichten & Erlebtes
   - Job
-  - Tagebuch
 type: Artikel
 typeName: Artikel
 date: 2011-03-01T16:59:11.000Z
@@ -33,8 +33,8 @@ Juhu! Probearbeiten ist gut gelaufen! Neuer Job ab 1. Mai! Jetzt geht´s gleich
 zum Fotoshooting und danach Bandprobe. Morgen nach der Arbeit wird erstmal
 gefeiert!
 
-**Song des Tages:** Cage The Elephant - Aberdeen
+## Song des Tages: Cage The Elephant - "Aberdeen"
 
-[youtube=http://www.youtube.com/watch?v=W8iV2hLfUxU]
+<iframe src="https://www.youtube.com/embed/bZBmcSBoRAE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
   

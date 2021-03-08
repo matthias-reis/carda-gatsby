@@ -19,14 +19,13 @@ labels:
   - Chagall
   - De Stijl
   - Expressionismus
+  - Fernweh
   - Keith Haring
-  - Kunst
   - Kunst
   - Minimal Art
   - moderne Kunst
   - Picasso
   - Pop-Art
-  - Reisen
   - Stedelijk Museum
   - Warhol
   - Zeitgenössische Kunst

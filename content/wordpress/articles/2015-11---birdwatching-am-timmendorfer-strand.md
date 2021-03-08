@@ -39,6 +39,10 @@ subTitle: Sonne am 1. November
   
 ---
 
+**Der Timmendorfer Strand ist berühmt für seinen feinen Sand und die zahlreichen
+Seevögel, die man dort beobachten kann. Nicht nur deshalb ist er als
+Ausflugsziel besonders beliebt.**
+
 Da es mal wieder Zeit für etwas Seeluft wurde und wir Lust hatten, Fotos zu
 machen, haben wir den wunderbar sonnigen 1. November für einen kleinen Ausflug
 genutzt. Der Ostseestrand ist von Hamburg aus ja ziemlich gut zu erreichen.
@@ -46,18 +50,19 @@ genutzt. Der Ostseestrand ist von Hamburg aus ja ziemlich gut zu erreichen.
 ## Angenehme 14 Grad am Timmendorfer Strand
 
 Bei angenehmen 14 Grad und strahlendem Sonnenschein war der Spaziergang am
-Timmendorfer Strand erholsam und entspannt.
+Timmendorfer Strand erholsam und entspannt.
 
 Natürlich haben sich auch einige Wasservögel gezeigt, ein paar davon sind mir
 sogar vor die Linse gelaufen.
 
 <Gallery name="flickr/annetimmendorferstrand2015" />
 
-Ihr interessiert Euch auch für Fotos von der Nordsee?
-[Hier geht's nach St. Peter-Ording](/2015/08/st-peter-ording/).
+Ihr interessiert Euch auch für Fotos von der Nordsee?
+[Hier geht's nach St. Peter-Ording](/2015/08/st-peter-ording/).
 
-## Wegweiser Möwen1. [Möwen am Bosporus (Januar 2010)](/2010/01/moewen-am-bosporus/)
+## Wegweiser Möwen
 
+1.  [Möwen am Bosporus (Januar 2010)](/2010/01/moewen-am-bosporus/)
 1.  [Zurück nach St. Peter-Ording (Juli 2015)](/2015/07/zurueck-nach-st-peter-ording/)
 1.  [St. Peter-Ording - Perle an der Nordsee (August 2015)](/2015/08/st-peter-ording/)
 1.  Birdwatching am Timmendorfer Strand (November 2015)

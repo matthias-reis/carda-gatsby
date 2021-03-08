@@ -10,7 +10,8 @@ excerpt: '"Unsere Vorfahren haben Getreide statt Fleisch gegessen!" Das haben
   jetzt Forscher in Italien herausgefunden. Der New Scientist berichtet.'
 focusKeyword: Paleo Diät
 labels:
-  - Darum vegan
+  - Ernährung
+  - Ernährung & Gesundheit
   - Forschung
   - Paleo Diät
   - vegane Ernährung
@@ -28,6 +29,18 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Forscher decken auf
   
 ---
+
+**"Unsere Vorfahren haben Getreide statt Fleisch gegessen!" Das haben jetzt
+Forscher in Italien herausgefunden. Laut eines aktuellen Berichts im New
+Scientist [<sup>1</sup>](#1) sind die bisherigen Annahmen, unsere Vorfahren
+hätten sich hauptsächlich von Fleisch ernährt, falsch.**
+
+Die Forscherin Marta Mariotti Lippi fand mit ihrem Team von der Universität
+Florenz im Süden von Italien Spuren von Hafer und historische Mahlwerkzeuge. Sie
+lassen sich 32.000 Jahre zurückdatieren. Die Menschen haben somit bereits 20.000
+Jahre früher Mehl hergestellt, als die Wissenschaft bisher vermutet hatte.
+
+## Brot schon in der Frühsteinzeit
 
 Auf der Grundlage dieser Entdeckung brachten weitere Forschungen ans Licht, dass
 die Menschen bereits in der Frühsteinzeit Mehl zu flachen Broten
@@ -54,6 +67,7 @@ beispielsweise 17 Gramm pflanzliches Protein gewonnen werden.
 
 - [1][artikel im new scientist](https://www.newscientist.com/article/dn28139-stone-age-people-were-making-porridge-32000-years-ago/)
 - [2][matt pope](hhttp://www.pnas.org/content/early/2015/09/02/1505213112)
-  **Bild:** [Hans](https://pixabay.com/de/users/hans-2/), pixabay
+
+**Bild:** [Hans](https://pixabay.com/de/users/hans-2/), pixabay
 
   

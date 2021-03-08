@@ -12,7 +12,7 @@ excerpt: Seit mehr als 50 Jahren ist Bob Dylan nun als Musiker unterwegs. Eine
   sich selbst blieb er dabei immer treu.
 focusKeyword: Bob Dylan
 labels:
-  - Bands & Reviews
+  - Bands
   - Bob
   - Bob Dylan
   - Bob Dylan neues Album
@@ -33,12 +33,13 @@ labels:
   - neues Album Bob Dylan
   - Tempest Bob Dylan
 type: Artikel
-typeName: Rezension
+typeName: Review
 date: 2012-08-28T10:37:11.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "4106"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_bobdylan__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_bobdylan__l.jpg
@@ -47,6 +48,15 @@ subTitle: Album "Tempest" im September
   
 ---
 
+<RemoteImage alt={`} size="medium" title={`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2012/08/bobdylan.jpg?w=220"
+largeUrl="http://cardamonchai.files.wordpress.com/2012/08/bobdylan.jpg?w=220"
+loadingUrl="undefined" />
+
+**Seit mehr als 50 Jahren ist Bob Dylan nun als Musiker unterwegs. Eine lange
+Zeit, in der er musikalisch die verschiedensten Stile durchlaufen hat, sich
+selbst blieb er dabei immer treu.**
+
 Einige der poetischsten Texte aller Zeiten stammen aus Dylans Feder. Er hat
 ganze Generationen von Musikern und Textern mit seiner besonderen Art, die Welt
 zu beschreiben, beeinflusst. Fans aus aller Herren Länder touren ihm hinterher
@@ -54,7 +64,7 @@ und scheinen alles aufzusaugen, was aus seiner Mache stammt. So auch ich, die
 ich mit Bob Dylans Musik und Lyrik aufgewachsen bin. Das es Menschen gibt, die
 ihn nicht bewundern, ist für mich schlicht unvorstellbar.
 
-Wunderbar bluesig kommt sie daher, Dylans neue Nummer "Duquesne Whistle". Sie
+Wunderbar bluesig kommt sie daher, Dylans neue Nummer "Duquesne Whistle".  Sie
 groovt, man hat unweigerlich das Bedürfnis, sich auf die Tanzfläche zu begeben.
 Man kann die gute alte Zeit des Swing heraushören, aber auch die Anfänge des
 Beat. Ja, man durchläuft eine kleine musikalische Zeitreise, drückt man auf den

@@ -13,6 +13,7 @@ excerpt: Die drei von der Bande präsentieren Euch heute 10 Songs für den März
   besonders gerne hören.
 focusKeyword: 10 Songs
 labels:
+  - 10 Songs
   - AMENRA
   - Archive
   - Archive & Band Of Skulls
@@ -21,7 +22,7 @@ labels:
   - Atticus Ross
   - August Burns Red
   - Band Of Skulls
-  - Bands & Reviews
+  - Bands
   - Beirut
   - Bent Knee
   - Brass Against
@@ -39,7 +40,7 @@ labels:
   - Motorpsycho
   - Music
   - Musik
-  - Of The Vine
+  - Of the Vine
   - Pink Freud
   - Portishead
   - Post-Hardcore

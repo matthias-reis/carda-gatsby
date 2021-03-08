@@ -24,9 +24,11 @@ labels:
   - Linsen
   - Rezept
   - Rote Linsen
+  - Salat
   - Spinat
   - Tabulé
   - vegan
+  - vegane Rezepte
   - Vegane Rezepte
   - Veganer
   - Veganes Essen
@@ -45,22 +47,29 @@ subTitle: Scharf und lecker
   
 ---
 
+**Schon vor einiger Zeit hatte ich versprochen, ab und zu mal das ein oder
+andere Rezept in meinem Blog zu veröffentlichen. Ich teile meine Rezepte schon
+seit einiger Zeit in meinem Instagram-Account und bekomme darüber immer wieder
+Anfragen, wann es denn endlich so weit sein wird.**
+
 Am Donnerstag Abend habe ich dann wie immer unser Abendessen in Instagram
-gepostet und die liebe [Jessie](http://instagram.com/jessicalux?modal=true) bat
-mich darum, ihr das Rezept zukommen zu lassen, was ich natürlich auf der Stelle
-tat.
+gepostet und die liebe Jessie bat mich darum, ihr das Rezept zukommen zu lassen,
+was ich natürlich auf der Stelle tat.
 
 Nachdem ich es Ihr geschickt hatte, was der Grundstein für meine vegane
 Rezeptrubrik gelegt, denn einmal aufgeschrieben, kann ich es nun natürlich auch
 veröffentlichen.
 
-Danke, liebe Jessie für die Motivation zu dem Kochbuch! Ganz liebe Grüße nach
-Belgien! Kiss! &lt;3
+Danke, liebe Jessie für die Motivation zu dem Kochbuch! Ganz liebe Grüße nach
+Belgien! Kiss!
 
 Und nun: Vorhang auf für das erste Rezept meiner Vegan-Rubrik:
 
-## Dahl-Linsen mit Kokos und Spinat an Tabulé **Zutaten (für 4 Portionen)** - 300 g Rote Linsen
+## Dahl-Linsen mit Kokos und Spinat an Tabulé
 
+**Zutaten (für 4 Portionen)**
+
+- 300 g Rote Linsen
 - 300 g Bulgur oder Instant-Couscous
 - 1 Päckchen Kokoschips oder Kokosspäne
 - gefrorene Curryblätter
@@ -77,7 +86,9 @@ Und nun: Vorhang auf für das erste Rezept meiner Vegan-Rubrik:
 - Olivenöl
 - 1 Esslöffel Gemüsebrühe
 - Wasser
-- Kokosöl **Zubereitung**
+- Kokosöl
+
+**Zubereitung**
 
 Bulgur oder Couscous in eine Schale geben. Die Teebeutel aufschneiden und den
 Inhalt zusammen mit der Gemüsebrühe hinzugeben. Die Mischung mit heißem Wasser
@@ -116,7 +127,7 @@ von den VEGGY FRIENDS und Pide dazu gegessen.
 
 Guten Appetit!
 
-Kussi Anne &lt;3
+Kussi Anne
 
 &nbsp;
 

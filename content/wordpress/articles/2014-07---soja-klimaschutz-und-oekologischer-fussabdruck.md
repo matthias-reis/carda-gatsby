@@ -10,17 +10,19 @@ excerpt: Ein fairer ökologischer Fussabdruck soll aber nur 1,8 Hektar groß sei
   Denn wenn alle deinen Lebensstil haben, benötigen wir 2.66 Erden.
 focusKeyword: ökologischer Fussabdruck
 labels:
+  - 10 Fakten über Veganismus
   - Aufklärung
   - Bauernhof
   - Bio
   - CO2
   - CO2-Bilanz
-  - Darum vegan
   - Ernährung
+  - Ernährung & Gesundheit
   - Ernährungsumstellung
   - Evolution
   - Futtermittelherstellung
   - Klima
+  - Klima & Umweltschutz
   - Klimaschutz
   - Klimawandel
   - Kühe
@@ -51,43 +53,47 @@ date: 2014-07-30T07:11:57.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "8113"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_07_biogemc3bcseanbau__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_07_biogemc3bcseanbau__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAApEAACAgEDAwMDBQAAAAAAAAABAgMEEQAFIRIxQRMiUQYUcQcVMmGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACARAAICAgAHAAAAAAAAAAAAAAECABEDBAUSFEFRkcH/2gAMAwEAAhEDEQA/AOz7b+1WUVvvq0ecYSVwjHOPB57ka2bW2U6ak2JokA75yT/gGuMHa9hr7lWmN14IoiWlQN1j+lB8ZOPnjVfP9R7dYhjU75Kjys3pxCyEZmHIyoHfjzoX4gVYqT6iseoCtkSklXbWZVEnLnC+3Oc/jSdraIpELwlXXscePzqK3TffQgW7LutmgErySNFYsZfrODGxGAB2I6T5OsXdP1MrbTe2+zHbLWHm9KVHsepGw6AehguccEfJB05N5wfMB9TGwuSFf6g6FaetJA9ZZszFgemMgZVmGOBgfz7cHyNUtLfbh2E0a9GAlCWWQqkkRB9wIUEMec+R20aNZrO3T0VF2O9/KlDMYhfvVZZWl3im0n2yyF3kYsZCwGCqAnpHPc/Gk5ZqFRY026hDH6mZMisB0Enn3EZz30aNTZcjFea4kz//2Q==
-subTitle: 10 Fakten über Veganismus - Teil I
+subTitle: 10 Fakten über Veganismus - Teil I
   
 ---
+
+## Veganer setzen sich aktiv für den Umweltschutz ein
+
+**Wie versprochen, habe ich zehn Fakten über vegane Ernährung für Euch
+vorbereitet. Fakten, die zum Nachdenken anregen. Fakten, die jedem von uns
+bewusst sein sollten.**
 
 Wie schon berichtet, werden mir seit meiner Ernährungsumstellung Fragen über
 Fragen gestellt, immer häufiger kommt es zu unsachlichen Debatten, ausgelöst von
 verständnislosen **Omnivoren** , die nur den Kopf über mich schütteln. Eine
-Kombination aus Selbstschutz, Verdrängung und schlechtem Gewissen, habe ich mir
-sagen lassen.
+Kombination aus Selbstschutz, Verdrängung und schlechtem Gewissen, habe ich
+mir sagen lassen.
 
 Selbstverständlich möchte ich niemandem so etwas unterstellen. Noch weniger
 möchte ich den Menschen, denen ich begegne, Unwissenheit vorwerfen. Meine
 Faktensammlung lege ich, [wie schon kurz berichtet](/2014/08/ich-war-so-muede/)
 in erster Linie an, um meinen Wissensdurst zu stillen und Informationen sind
-dazu da, sie zu teilen. Was der/die Einzelne mit Ihnen macht, bleibt jedem/r
-selbst überlassen. Da bereits Fakt 1 ziemlich umfangreich geworden ist und noch
-neun weitere hochinteressante Themen folgen werden, habe ich mich für eine
-Artikelserie entschieden. Das hier ist also Teil I. meiner "10 Fakten über
+dazu da, sie zu teilen. Was der/die Einzelne mit Ihnen macht, bleibt
+jedem/r selbst überlassen. Da bereits Fakt 1 ziemlich umfangreich geworden ist
+und noch neun weitere hochinteressante Themen folgen werden, habe ich mich für
+eine Artikelserie entschieden. Das hier ist also Teil I. meiner "10 Fakten über
 vegane Ernährung".
 
 ### Vegane Ernährung ist gut für das Klima und für unsere Umwelt
 
-<RemoteImage
-  alt="ökologischer Fußabdruck"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Vegane Zone"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_kc3bchlschrank__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_kc3bchlschrank__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQj/xAApEAABAwMDAwQDAQEAAAAAAAABAgMEBQYRABIhEzFBByJRYRQjcRUy/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACERAAEDBAIDAQAAAAAAAAAAAAEAAhEDBCExEkETYZGx/9oADAMBAAIRAxEAPwBKbZqFMU31TUXql+Wpgrelun9g7JSgEYUnv3OQe2hUW4zX6PV57j0iIIkdGwlorbdQp3YHMk8ds5+xn511bXaNb1NpjlQeodNcEdJQAptKcJWr3cnjknPyfnUxpF826YgVHs6DGZjRJCumBtCEJCEqQPaUq3JIGO/GNZatQM2Y+qggCSqdLjSFvMrQ+UICfc2CRvJQE8/zvpNtm4YtxTawmAdzNNmfhl3cSHSEpUogcYGcjznGfOsSo1+iV2mRLzlz36BJiR5kSFClPpQlxSAQCU+TkjgfWgvSy6acLWjybgrVJZq9Qc6imEu7SkYCEJ2nJzhOcffjTeXG07LUvHINJ77T56w3PSIdrVWkTguQ8+ylCm0D/ncoEEnk5GM8A4xnUxVS310WtraqzaFQ2gmTHqEsIXHb3HOQls84GwHJyTnjxXL/ALOh3VGVvUWZgaLQcA5IJHnuOAR95xqZXV6d3carIRbT9Nj0aQ6l19LjuHHSkpIByk9toHfHJ1GrTe50jSu9tDgwtmcylP02TGcs6lGv08vUuLMmoll1hSmWR1WVHqKAO0YB58kac/8AbtKdXWpdTdtyS6y2uOnpskrbSSQkJXj3Z3cH77ngjTdjQqfQJFsVRMgCVGUZTsVKclat7qj3PJCcAn4Gkp+yrfizEvqVcSENojykcMK6nUX+tJAGRnHz/fGkN1BgR73hD7S5eGmmzED96+r/2Q==" />
+<RemoteImage alt={`ökologischer Fußabdruck`} size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Vegane Zone`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_kc3bchlschrank__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_kc3bchlschrank__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQj/xAApEAABAwMDAwQDAQEAAAAAAAABAgMEBQYRABIhEzFBByJRYRQjcRUy/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACERAAEDBAIDAQAAAAAAAAAAAAEAAhEDBCExEkETYZGx/9oADAMBAAIRAxEAPwBKbZqFMU31TUXql+Wpgrelun9g7JSgEYUnv3OQe2hUW4zX6PV57j0iIIkdGwlorbdQp3YHMk8ds5+xn511bXaNb1NpjlQeodNcEdJQAptKcJWr3cnjknPyfnUxpF826YgVHs6DGZjRJCumBtCEJCEqQPaUq3JIGO/GNZatQM2Y+qggCSqdLjSFvMrQ+UICfc2CRvJQE8/zvpNtm4YtxTawmAdzNNmfhl3cSHSEpUogcYGcjznGfOsSo1+iV2mRLzlz36BJiR5kSFClPpQlxSAQCU+TkjgfWgvSy6acLWjybgrVJZq9Qc6imEu7SkYCEJ2nJzhOcffjTeXG07LUvHINJ77T56w3PSIdrVWkTguQ8+ylCm0D/ncoEEnk5GM8A4xnUxVS310WtraqzaFQ2gmTHqEsIXHb3HOQls84GwHJyTnjxXL/ALOh3VGVvUWZgaLQcA5IJHnuOAR95xqZXV6d3carIRbT9Nj0aQ6l19LjuHHSkpIByk9toHfHJ1GrTe50jSu9tDgwtmcylP02TGcs6lGv08vUuLMmoll1hSmWR1WVHqKAO0YB58kac/8AbtKdXWpdTdtyS6y2uOnpskrbSSQkJXj3Z3cH77ngjTdjQqfQJFsVRMgCVGUZTsVKclat7qj3PJCcAn4Gkp+yrfizEvqVcSENojykcMK6nUX+tJAGRnHz/fGkN1BgR73hD7S5eGmmzED96+r/2Q=="
+/>
 
-Sicher haben viele von Euch schon mal das Plakat gesehen, auf dem Thomas D sich
+Sicher haben viele von Euch schon mal das Plakat gesehen, auf dem Thomas D sich
 für eine pflanzenbasierte Ernährung ausspricht "Vegetarier sind Klimaschützer".
 Auch meinen **Kühlschrank** ziert dieser Slogan seit Jahren. Doch warum
 eigentlich? Wie sieht es aus mit der CO<sub>2</sub>-Bilanz? Von Seiten der Omnis
@@ -99,22 +105,21 @@ Die Wahrheit sieht ein kleines bisschen anders aus.
 
 Über 80 Prozent der weltweiten Sojaernte wird zu Viehfutter verarbeitet. Was
 bedeutet, dass für die Fleischproduktion wesentlich mehr Sojapflanzen benötigt
-werden, als für unsere leckere, gesunde, eiweißreiche Sojamilch. Weitere
+werden, als für unsere leckere, gesunde, eiweißreiche Sojamilch. Weitere
 Produkte, die aus **Soja** hergestellt werden sind zum Beispiel Biodiesel,
 Kunststoffe, Kosmetika und Farben.
 
-Aus lediglich zwei Prozent des angebauten Soja werden tatsächlich Lebensmittel
+Aus lediglich zwei Prozent des angebauten Soja werden tatsächlich Lebensmittel
 für Menschen hergestellt. Dazu zählt nicht nur Tofu und Sojamilch, sondern auch
-Margarine und Sojaöl, welches vielfach in Großküchen zum Braten und Frittieren
-eingesetzt wird.
+Margarine und Sojaöl, welches vielfach in Großküchen zum Braten und
+Frittieren eingesetzt wird.
 
-<RemoteImage
-  alt="ökologischer Fußabdruck"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Biosojamilch"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_biosojamilch-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_biosojamilch-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKBAAAgICAQQBBAIDAAAAAAAAAQIDBAUREgAGITETBxUiYRRRQUJi/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUCAwb/xAAnEQABAwIDCAMAAAAAAAAAAAABAgMRACEEEkEFEzFRcZHB8GGB4f/aAAwDAQACEQMRAD8AaP1Gu1lqY6mk6fyfuuPZ4xKocRtYEfLjvlrbe9a2PfXPWM7g7hXDywz5PJRzWqV+CGVr5b5bFZlkDBD5jAQFdjfInzrpz5XDfLFam7iSuuX+4tHDajjUWHrRWfmgXkB58BfHvXU1FgrvYu47tqsLtjbT2LMAT5Pewxb/ABonwNDyf76xOMxTbb6kKRmIjS3A69TP1zghg2sZM2aONJGzPFf7oisWnt2beXyEEXImQrZoW63F0XX4ajbeh7BB/rps9idq5hfpvjLZuzy5i3LLbyEj2GV53LfGh5/8ogAB8eSffUSbuiquSgxVtoYcskZWnVoTGFXTkDrZPx7971+Wtge/LJ7Ly1S1200MTgvRnkqyjWtHfMeP2rqercBi96tTRQUjKInUC1vi/fpUnUJcaDiVTJ7exrS1+p+DgxeToWcUMhLdvhzanmuvK3GLh8ZDOTx0WPrXVS8UYqB53inlfysLSsxl1/oHY8QxG9fvo6OlW0nCp/3l+USzg2lytV6pJ1xNi4sxwj8YVZorVkFCrDRAEfgA715HWTh7+zXZGayVqhVF/GWxGLiSc+MbqW4EOp0rFTrZ2CB+ujo6bbITL5QbiIuT72oZ1AaZhPjwBX//2Q==" />
+<RemoteImage alt={`ökologischer Fußabdruck`} size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Biosojamilch`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_biosojamilch-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_biosojamilch-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKBAAAgICAQQBBAIDAAAAAAAAAQIDBAUREgAGITETBxUiYRRRQUJi/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUCAwb/xAAnEQABAwIDCAMAAAAAAAAAAAABAgMRACEEEkEFEzFRcZHB8GGB4f/aAAwDAQACEQMRAD8AaP1Gu1lqY6mk6fyfuuPZ4xKocRtYEfLjvlrbe9a2PfXPWM7g7hXDywz5PJRzWqV+CGVr5b5bFZlkDBD5jAQFdjfInzrpz5XDfLFam7iSuuX+4tHDajjUWHrRWfmgXkB58BfHvXU1FgrvYu47tqsLtjbT2LMAT5Pewxb/ABonwNDyf76xOMxTbb6kKRmIjS3A69TP1zghg2sZM2aONJGzPFf7oisWnt2beXyEEXImQrZoW63F0XX4ajbeh7BB/rps9idq5hfpvjLZuzy5i3LLbyEj2GV53LfGh5/8ogAB8eSffUSbuiquSgxVtoYcskZWnVoTGFXTkDrZPx7971+Wtge/LJ7Ly1S1200MTgvRnkqyjWtHfMeP2rqercBi96tTRQUjKInUC1vi/fpUnUJcaDiVTJ7exrS1+p+DgxeToWcUMhLdvhzanmuvK3GLh8ZDOTx0WPrXVS8UYqB53inlfysLSsxl1/oHY8QxG9fvo6OlW0nCp/3l+USzg2lytV6pJ1xNi4sxwj8YVZorVkFCrDRAEfgA715HWTh7+zXZGayVqhVF/GWxGLiSc+MbqW4EOp0rFTrZ2CB+ujo6bbITL5QbiIuT72oZ1AaZhPjwBX//2Q=="
+/>
 
 Die Sojamilch, die hierzulande in den Regalen der Geschäfte steht, stammt aus
 europäischem Anbau, man kann sich also sicher sein, dass hierfür kein Regenwald
@@ -124,7 +129,7 @@ pflanzenbasierte Ernährung setzen.
 
 Im Gegensatz zum "Sojamilch-Soja" wird Futtermittelsoja zum größten Teil aus
 Südamerika, den USA und China importiert, wodurch sich die
-CO<sub>2</sub>-Emission für Fleisch (Stichwort Transport!) noch mal um ein
+CO<sub>2</sub>-Emission für Fleisch (Stichwort Transport!) noch mal um ein
 Vielfaches vergrößert. Zudem sorgt der Anbau in den gerodeten Regionen für
 Wasserknappheit, die wiederum **Hunger** und Krankheit auslöst.
 
@@ -143,23 +148,22 @@ Tierfutter verwendet.
 
 ### 1 kg Rindfleisch erzeugt so viele Treibhausgase, wie über 1.600 km Autobahnfahrt
 
-<RemoteImage
-  alt="ökologischer Fußabdruck"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Kühe im Regenwald"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_regenwaldkc3bche-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_regenwaldkc3bche-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGBAcI/8QAJxAAAgEDAwMEAwEAAAAAAAAAAQIDBAURABIhBjFBExRRcSJhkqH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQAC/8QAHhEBAAICAQUAAAAAAAAAAAAAAQACAxEhEzEyYbH/2gAMAwEAAhEDEQA/AOfrFSe7rY6WGrjgqZJBTqssRIYN5yRgdu3f486v6HpMC3brhPBFK7bkenn9R0fGAxULwMheM+cg6X2KandBJRwQ1pLLhagBSCfGCMc/edO6C1srRz1uYokBkMksvESBgQoxw3A7/vtoblreM2PpO3Ic+pg3ywRDpyOvuHrpFUVphkqIl3MpDDP4sQSe55I7c6Q9SWekoH9rDeaerhRVMFR6DoHDDkPjIRhxzyDnIPfW0bPXWeusFNQ3CKhP5eorVELAO7Y3YdSNu7avxzg6nesKKxoKgS0L0UiMQiiR+Psg+RjOdclnbUPkO+LIIhxJHpamkln3QTmFow5yBnO1c/Pfjv41T23qeso4xC6R1FOUO6OYZBO0YP6xnjRo06Fu8SwJzFd+nStZI4IvZcZ2wMQn8n61KXq5VrSRwz1U0oVAMs3wDj/DjRo1NG2QUNT/2Q==" />
+<RemoteImage alt={`ökologischer Fußabdruck`} size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Kühe im Regenwald`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_regenwaldkc3bche-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_regenwaldkc3bche-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGBAcI/8QAJxAAAgEDAwMEAwEAAAAAAAAAAQIDBAURABIhBjFBExRRcSJhkqH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQAC/8QAHhEBAAICAQUAAAAAAAAAAAAAAQACAxEhEzEyYbH/2gAMAwEAAhEDEQA/AOfrFSe7rY6WGrjgqZJBTqssRIYN5yRgdu3f486v6HpMC3brhPBFK7bkenn9R0fGAxULwMheM+cg6X2KandBJRwQ1pLLhagBSCfGCMc/edO6C1srRz1uYokBkMksvESBgQoxw3A7/vtoblreM2PpO3Ic+pg3ywRDpyOvuHrpFUVphkqIl3MpDDP4sQSe55I7c6Q9SWekoH9rDeaerhRVMFR6DoHDDkPjIRhxzyDnIPfW0bPXWeusFNQ3CKhP5eorVELAO7Y3YdSNu7avxzg6nesKKxoKgS0L0UiMQiiR+Psg+RjOdclnbUPkO+LIIhxJHpamkln3QTmFow5yBnO1c/Pfjv41T23qeso4xC6R1FOUO6OYZBO0YP6xnjRo06Fu8SwJzFd+nStZI4IvZcZ2wMQn8n61KXq5VrSRwz1U0oVAMs3wDj/DjRo1NG2QUNT/2Q=="
+/>
 
 Eine
 [aktuelle Studie](https://www.vebu.de/aktuelles/pressemitteilungen/1310--aktuelle-studie-der-universitaet-wien-zeigt-rindfleisch-ist-25-mal-klimaschaedlicher-als-bisher-angenommen-)
-der Universität Wien unter Studienautor Kurt Schmidinger und Elke Stehfest von
+der Universität Wien unter Studienautor Kurt Schmidinger und  Elke Stehfest von
 der PBL Netherlands Environmental Assessent Agency hat zum Beispiel ergeben,
 dass die Produktion von einem Kilogramm Rindfleisch, welches in Brasilien mit
 335 Kilogramm CO<sub>2</sub> (Kohlendioxid) "erzeugt" wird, so viele
 Treibhausgase erzeugt, wie eine Autobahnfahrt über 1.600 Kilometer mit einem
-durchschnittlichen europäischen Personenkraftwagen. Die Bilanz fällt dort
-besonders schlecht aus, da sich die dortigen Weideflächen auf ehemaligem
+durchschnittlichen europäischen Personenkraftwagen. Die Bilanz fällt
+dort besonders schlecht aus, da sich die dortigen Weideflächen auf ehemaligem
 Regenwaldgebiet befinden. Wie die Vereinten Nationen berichten, gehen rund 70
 Prozent der Abholzung des Regenwaldes im Amazonasgebiet auf das Konto von
 Weideflächen, der Rest bis auf einen kleinen Teil für den Futtermittelanbau.
@@ -184,25 +188,23 @@ Tierprodukte.“(Quelle:
 Betrachtet man die Klimaschädlichkeit der verschiedenen Ernährungsweisen pro
 Kopf und Jahr, kommt man zu folgendem Ergebnis:
 
-<RemoteImage
-  alt="ökologischer Fußabdruck"
-  size="large"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Schaubild: Veggie Times April 2014"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_schaubild-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_schaubild-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBQEECP/EACoQAAIBBAAEBQQDAAAAAAAAAAECAwAEBREGEiFBByIxUpETUWHShJLB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIEBf/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMEYRHBElGR/9oADAMBAAIRAxEAPwDo3K3SRXjI+WFpqIOUManQ3rm2Qe/TVZT67yAjJTFSPRbYfrVbxhmbHFAvkrwW0AVQd25n8xPl8oBJ9D1H53S4PEbAgjXEcwI7nEz/AOLWc+TYlhBXkaK9sJQmHkWjyrrZhoEx4Ec6kc1/dt/EH6VsWcMysJJLyaVQCOWSFU2fv6A0nW3iRwxuJWztw8nRTvH3AVj/AE6Uw4ri3C5e+Fnj7t5bgqzhTbyINLrZ2ygdx3qxLVYevnRMZ8LJrHL1sBsGXLEhOhNQ529x+aKKeTQ529x+ampJYAkkUUUQM//Z" />
+<RemoteImage alt={`ökologischer Fußabdruck`} size="large"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Schaubild: Veggie Times April 2014`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_schaubild-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_schaubild-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBQEECP/EACoQAAIBBAAEBQQDAAAAAAAAAAECAwAEBREGEiFBByIxUpETUWHShJLB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIEBf/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMEYRHBElGR/9oADAMBAAIRAxEAPwDo3K3SRXjI+WFpqIOUManQ3rm2Qe/TVZT67yAjJTFSPRbYfrVbxhmbHFAvkrwW0AVQd25n8xPl8oBJ9D1H53S4PEbAgjXEcwI7nEz/AOLWc+TYlhBXkaK9sJQmHkWjyrrZhoEx4Ec6kc1/dt/EH6VsWcMysJJLyaVQCOWSFU2fv6A0nW3iRwxuJWztw8nRTvH3AVj/AE6Uw4ri3C5e+Fnj7t5bgqzhTbyINLrZ2ygdx3qxLVYevnRMZ8LJrHL1sBsGXLEhOhNQ529x+aKKeTQ529x+ampJYAkkUUUQM//Z"
+/>
 
-<RemoteImage
-  alt="ökologischer Fußabdruck"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Rinder stoßen Methan aus"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_kc3bche__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_kc3bche__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcE/8QAKBAAAgICAQMDAwUAAAAAAAAAAQIDBAURAAYSIRMxYSJBURQyQoGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACERAAICAgIBBQAAAAAAAAAAAAECABEDEgQhBTFhgaHR/9oADAMBAAIRAxEAPwDswnUOUMPq2cRYgiG+5pIEjUaGz5Z/Ovjloweds5LMVcXBRgjszgsPWdFIVRtm0NnQ+OZBi8Ot61fbKLJI/rTJCJHY9iFgw0p2PPNCt5axj6N23WUiUwMiCOIMQWGmPb4GyvcN/be+ZD+QdXALmr79YdE30VR9RmTzE01+epWsWp7UUjI0VKdGC9p7T+2M+N/PITqSn1JYIjSN4AxdlAtLC7Bff2XZ14/3mez5fK47rK9cpwz15o7LekiqyqO3wQR860R+T+eKzcfUFuhkr2TuoGuKhhUOZPodx9Ab+IPcN699aPHNnzB6GQ17kxox8fUF17+PyNx3Ut6rOrQRvfiZAkiTWAoUaHjyPtrwRrx4I5euncxDLXMkuMgqyyN2yQ/qBKXHsd+dDftw4czuRRN13JSSWsyKyWUpVg1+3GipPGTJI047HPcPG/6Uk/c8qeT6+ovXNSBEWFW9Tw5ILb/Htw4cuw4VyMWaAT//2Q==" />
+<RemoteImage alt={`ökologischer Fußabdruck`} size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Rinder stoßen Methan aus`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_kc3bche__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_kc3bche__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcE/8QAKBAAAgICAQMDAwUAAAAAAAAAAQIDBAURAAYSIRMxYSJBURQyQoGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACERAAICAgIBBQAAAAAAAAAAAAECABEDEgQhBTFhgaHR/9oADAMBAAIRAxEAPwDswnUOUMPq2cRYgiG+5pIEjUaGz5Z/Ovjloweds5LMVcXBRgjszgsPWdFIVRtm0NnQ+OZBi8Ot61fbKLJI/rTJCJHY9iFgw0p2PPNCt5axj6N23WUiUwMiCOIMQWGmPb4GyvcN/be+ZD+QdXALmr79YdE30VR9RmTzE01+epWsWp7UUjI0VKdGC9p7T+2M+N/PITqSn1JYIjSN4AxdlAtLC7Bff2XZ14/3mez5fK47rK9cpwz15o7LekiqyqO3wQR860R+T+eKzcfUFuhkr2TuoGuKhhUOZPodx9Ab+IPcN699aPHNnzB6GQ17kxox8fUF17+PyNx3Ut6rOrQRvfiZAkiTWAoUaHjyPtrwRrx4I5euncxDLXMkuMgqyyN2yQ/qBKXHsd+dDftw4czuRRN13JSSWsyKyWUpVg1+3GipPGTJI047HPcPG/6Uk/c8qeT6+ovXNSBEWFW9Tw5ILb/Htw4cuw4VyMWaAT//2Q=="
+/>
 
 Fleischesser haben also einen 7,5 x höheren CO<sub>2</sub>-Verbrauch für ihre
-Ernährung, als Veganer\*innen. Ein ganz schöne Unterschied. Wobei man dazu sagen
-muss, dass im Schaubild der Methanausstoß noch gar nicht vermerkt ist. Rinder
+Ernährung, als Veganer\*innen. Ein ganz schöne Unterschied. Wobei man dazu sagen
+muss, dass im Schaubild der Methanausstoß noch gar nicht vermerkt ist. Rinder
 stoßen am Tag bis zu 300 Liter Methan aus. Bei **Methan** handelt es sich um ein
 Treibhausgas, welches fast 30 mal klimaschädlicher ist, als CO<sub>2</sub>. Es
 trägt mit rund 20 Prozent zum anthropogenen Treibhauseffekt bei. Etwa 37 Prozent
@@ -212,7 +214,7 @@ von Wiederkäuern. Das heißt übersetzt, dass 7,4 Prozent des anthropogenen
 Treibhauseffekts auf die Methanemission von Wiederkäuern (also rein die
 Viehzucht, ohne Transport, der kommt noch dazu!) zurückzuführen ist. Man kann
 sich also ausrechnen, wie sich das zusätzlich auf den ökologischen Fussabdruck
-eines Fleischkonsumenten und somit auf unsere Umwelt auswirkt. (Zahlen:
+eines Fleischkonsumenten und somit auf unsere Umwelt auswirkt. (Zahlen: 
 [Wikipedia](http://de.wikipedia.org/wiki/Treibhausgas) )
 
 ### Der ökologische Fussabdruck - Die Auswirkungen
@@ -220,23 +222,22 @@ eines Fleischkonsumenten und somit auf unsere Umwelt auswirkt. (Zahlen:
 Im Netz gibt es die Seite "Footprint Deutschland", die einen Rechner anbietet,
 mit dem sich jeder seinen persönlichen Fussabdruck errechnen kann.
 
-Ich habe das für zwei Personen getan. Ich habe die beiden liebevoll _Omni_ und
-_Vegani_ getauft. _Omni_ isst jeden zweiten Tag Fleisch, gelegentlich Fisch und
-täglich Eier, Milch und Butter. Fleisch und Fisch kauft er in Bioqualität.
+Ich habe das für zwei Personen getan. Ich habe die beiden liebevoll  _Omni_ und
+_Vegani_ getauft.  _Omni_ isst jeden zweiten Tag Fleisch, gelegentlich Fisch und
+täglich Eier, Milch und Butter. Fleisch und Fisch kauft er in Bioqualität. 
 _Vegani_ ernährt sich rein pflanzlich, isst kein Fleisch, keinen Fisch, keine
 Eier und keine Milchprodukte, lebt also ausschließlich vegan und kauft seine
-Lebensmittel in **Bioqualität** . Ihre Ernährung ist das Einzige, was Omni und
+Lebensmittel in **Bioqualität** . Ihre Ernährung ist das Einzige, was Omni und
 Vegani unterscheidet. Ansonsten haben beide den gleichen Lebensstandard.
 
 ### Fleischesser und Veganer\*innen im Vergleich
 
-<RemoteImage
-  alt="ökologischer Fußabdruck"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Einfach mal wieder Fahrrad fahren"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_fahrrad__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_fahrrad__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQECAwQGB//EACoQAAICAQMDAwQCAwAAAAAAAAECAwQRAAUhEhMxBlFxIkFCYRQyofDx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUC/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIhAAMRMUFRBHGhwf/aAAwDAQACEQMRAD8AI7/6kqNuc8F+UzQRzdmN1jRh0Ru/SSG8npIx7Y/eqlzeYpP5m33Ia8KK5FWxFH3O27eZcJnBIJ+QVBPA0a9SbPR3u/f3FoYnSGdo3lsP3Y2lAVXZYwVwVIIPUxB5wOM6xl30lSi3azFZryrDDCrmSnL0N2ycHq6+rxkfrA+3OpTXyQttiSBmOqq27AckiGOANT93r3SbxWt7jZvTXBWr7A6hazrYjMtZv7Ie2CfrZslzjP1AeFGsfvW6XrM0kk0ViV69aOCKOONjGWA6Q3jJABY/JOugbJse3u8zVEElRQvRNeiWZgp/FVGFJIwSWz5UAeTp+9emau436C2q5dXDV456NaKEscZEboeCOlWIYEEFfBzoz5SNcChY9/dUbeNdQHJzjqMd88TPO6rrY3kMOxu06xPlnRhnqJ/Ie2f86J0bstJrBkkszWpwqzvMyMWwOABjheTwPfQppQ8TNnqRT9R/qS3t8DUSTBA5Z2PQvBQfkffP+86ZRz+UzzFF0vSQTNNWnWIyIFMU0OY2A4GMEYPOP2MZ8amr7vfW3DZutWllrlljrxxkKuRgsMnlsZA9sn30KWeNu7gcrGOeotzz9x8ffTbFsISGGO4vUGyBgj/o0LWlJyBNaDELgmK//9k=" />
+<RemoteImage alt={`ökologischer Fußabdruck`} size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Einfach mal wieder Fahrrad fahren`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_fahrrad__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_fahrrad__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQECAwQGB//EACoQAAICAQMDAwQCAwAAAAAAAAECAwQRAAUhEhMxBlFxIkFCYRQyofDx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUC/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIhAAMRMUFRBHGhwf/aAAwDAQACEQMRAD8AI7/6kqNuc8F+UzQRzdmN1jRh0Ru/SSG8npIx7Y/eqlzeYpP5m33Ia8KK5FWxFH3O27eZcJnBIJ+QVBPA0a9SbPR3u/f3FoYnSGdo3lsP3Y2lAVXZYwVwVIIPUxB5wOM6xl30lSi3azFZryrDDCrmSnL0N2ycHq6+rxkfrA+3OpTXyQttiSBmOqq27AckiGOANT93r3SbxWt7jZvTXBWr7A6hazrYjMtZv7Ie2CfrZslzjP1AeFGsfvW6XrM0kk0ViV69aOCKOONjGWA6Q3jJABY/JOugbJse3u8zVEElRQvRNeiWZgp/FVGFJIwSWz5UAeTp+9emau436C2q5dXDV456NaKEscZEboeCOlWIYEEFfBzoz5SNcChY9/dUbeNdQHJzjqMd88TPO6rrY3kMOxu06xPlnRhnqJ/Ie2f86J0bstJrBkkszWpwqzvMyMWwOABjheTwPfQppQ8TNnqRT9R/qS3t8DUSTBA5Z2PQvBQfkffP+86ZRz+UzzFF0vSQTNNWnWIyIFMU0OY2A4GMEYPOP2MZ8amr7vfW3DZutWllrlljrxxkKuRgsMnlsZA9sn30KWeNu7gcrGOeotzz9x8ffTbFsISGGO4vUGyBgj/o0LWlJyBNaDELgmK//9k="
+/>
 
 Beide leben in einem Wohnblock mit mehr als vier Wohnungen. Sie haben 80
 Quadratmeter Wohnfläche, führen einen 2 Personen Haushalt, heizen mit Erdgas und
@@ -245,9 +246,9 @@ dem sie wohnen, wurde seit 1995 nicht mehr saniert, sie beziehen beide
 zertifizierten Ökostrom, haben einen mäßigen Stromverbrauch und benutzen
 Energiesparlampen. Sie schalten ihre Elektrogeräte nach Gebrauch immer ab,
 schalten beim Verlassen des Zimmers das Licht aus, sehen ca. zwei Stunden am Tag
-fern und haben drei Stunden am Tag ihren Computer eingeschaltet. Ihre
+ fern und haben drei Stunden am Tag ihren Computer eingeschaltet. Ihre
 Stereoanlage läuft eine Stunde am Tag, sie lassen ihre **Waschmaschine**
-mehrmals in der Woche laufen, duschen ca. 30-60 Minuten in der Woche und heizen
+mehrmals in der Woche laufen, duschen ca. 30-60 Minuten in der Woche und heizen
 ihr Warmwasser nicht mit Strom.
 
 Sie geben rund 50 - 100 Euro im Monat für Konsumgüter aus, benutzen
@@ -266,7 +267,7 @@ Ernährung lässt sich also durchaus etwas für unsere Umwelt tun.
 
 ### Zwei Personen, ein Lebensstandard - zwei Fußabdrücke, wie sie unterschiedlicher nicht sein könnten.
 
-Bei _Omni_ , dem "Allesesser" wird folgendes Ergebnis angezeigt: "Dein
+Bei _Omni_ , dem "Allesesser" wird folgendes Ergebnis angezeigt: "Dein
 ökologischer Fussabdruck ist 4,78 Hektar (Wohnen und Energie: 22 Prozent,
 Konsum: 19 Prozent, Ernährung: 43 Prozent, Verkehr: 16 Prozent). Ein fairer
 Fussabdruck soll aber nur 1,8 Hektar groß sein. Denn wenn alle deinen
@@ -282,7 +283,7 @@ aber nur 1,8 Hektar groß sein. Denn wenn alle deinen Lebensstil haben, benötig
 wir 1,94 Erden."
 
 Für beide gilt übrigens der folgende Text, der jedem Teilnehmer im Anschluss an
-den Test angezeigt wird. "Für deinen Fussabdruck bist du nicht alleine
+den Test angezeigt wird. "Für deinen Fussabdruck bist du nicht alleine
 verantwortlich. Deinem Fussabdruck wird auch ein kollektiver Fussabdruck
 zugeordnet, welcher den **Ressourcenverbrauch** für den Bau nationaler
 Infrastruktur zusammenfasst (z.B. Straßen, Krankenhäuser, öffentliche Gebäude).
@@ -294,18 +295,17 @@ Was wieder einmal beweist, das ein kollektives Umdenken erfolgen muss und das am
 besten gestern, wenn wir unsere Natur nicht weiter systematisch zerstören
 wollen.
 
-### Der durschnittliche ökologische Fußabdruck in Deutschland
+### Der durchschnittliche ökologische Fußabdruck in Deutschland
 
-<RemoteImage
-  alt="ökologischer Fußabdruck"
-  size="medium"
-  title="Bild: naturschutz-sylt.de"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/07/fussabdruck-naturschutz-sylt.png"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/07/fussabdruck-naturschutz-sylt.png"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Bild: naturschutz-sylt.de`} size="full"
+title={`Bild: naturschutz-sylt.de`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_fussabdruck-naturschutz-sylt.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_fussabdruck-naturschutz-sylt.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAIAAAAUMWhjAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFE0lEQVRIx51WW08bRxjd9rFXqY0UVar6WDXKU6P+ib70uS9VlRuQiksAO8HGhpJwTdMoUpIqUBOqFptbm9KkNGpEmsRObGIMNgGDbcA2Nt5dr9fetbExZi/Tb3ZtboW2yehodNYznjPznW++XaKBbtUxbfVUcx3VrKVbqkl9VUxXQxkAVTHg+hqqEQA/VmNuqCYbK2EC2XiWNkKPf6SNtbQRCPz3LGXQ0F/Xkk1aqgWWPU9fJHSJdj3T/hXZ0M+PIITScmYd5bMol0XrSp/PKY9rKJtTeK44msuImbSAAaTIxQwn8khCPcmfKmmdIdGJBRoTHcZEZzmpHeZ/AwFhfVPKFpCA0LqENjDknIBJAaFNJOdFCT/KGAe3W9zAGep8M9vVEG8ldPFWkCqL1Vu4X2AsGPZPueyBxTmv170Y8M7Puz1uBzwu+GbmZl1Op3XaZZ+bmwqFAjBZlEQJSVuQkSzgrSETZ64gz8G+sQB40Mh0nFqtG1QEMpk1lk4l4izHpuNUnEtm0Is0kMQCSTPs2MCUQgSsnKwfSo/C2OZmIV/IyaIyXYJ/vMDqW1Hr5SxnaByiXR4M8PgEzkjb8PSxfteHPY63TY5DvROHTI53TY539sOh7qdvDE1/csv55j1nlWdi3ml/oIbOlOyHEGEPGNUDpqMspjFzOIseByu7HUS3/ZVvHxNXHhGXHhCXxvfBNwo6x4k+x3u9E6/fnfzS83ThiXVsJboMi3yPQ6QxMp0NOE3jRQ8s3G0Yi7PR2QVbdGWZJmOpJFs8uSwrfRGyLBbk1CaKpzeCXM6XyHo2UXpnrEwlASVErOqBRg2Rnxodn620+5ttPoPNZ/SQl6ajndtYhb7LGTVmN8jkqnCQydgDNU0VD9rAgwrwgPsZxh4tVfTYicuPiaY/iZb7RNM9wvgHYRzDvWEMQ3+HaPqLMI18/sVnn67nObyoWJBKySCiLQHsgQ6n6XaIsMAS87s1cG4q3PVsucUVbnWGLjiDFzAJXphebZ+KtrtWWu3LdTHGFVuh9zkB2pGm6k3WJdpAoDymGeR/hTEulY8ssVkW5ZJog0fpOFpLoHhY4On/dw9UAc6iXrQ9aYpPYA1W3bBCFr12zUpctxE3nmBcs2Fct+K0GfYcezB2f9jcHQkt4qsCV/gfAtseqKVCFVBD9CxisLg/6HO+BTl65SHG5YdFcvUh0TFOmCePuJ66x0bNM+5npdu4j4B6Av3OUqEKsCkmHJ4nY6RQ2FvOIFfzYkKUM/8dot2lYpcHDB+YW7obWLHG+ed83p/K+TDW/Yk1T16mthcSBVEUD/bADKXCmOjaxwO4yT+6Dt90vNp6n2hToBJI0wH3UWPN2RHLTUVA/JcTKCHS7inXGotSKhyhlj7H+0PTH0M5sriOWCY/wnAdvTVx2BYsGx28PTVp2+mttKPJkixIQimLNKVyvX0P8E1OsWvREEWt8DkevURTSkqxVOwp19qBNPZAULJCLBUeaRekglgQIPoQISSqm6XpWCCwEI6E/AGvL+CNkhHlBP3Ygz3leoS/8zJ7BpUNpYd3aha/VqH9wA2q5VrPKCEyMO3VlO47ti8oRNz5uZm8F/C8sKCSgzgmG7j3iv5ZwQfwioHnwkJIiF5le6ooPXxLqMWuAw4CXxnw6VER155YrT25WltOaU9T9ScVXkFrT5F1QKAHDuQ4nlBfpkw4Hq0BcjpWD+REtKaC1sC06lgjvGr0ifZz1MW/Aft9HLt+nounAAAAAElFTkSuQmCC"
+/>
 
 Der deutsche Durchschnittsabdruck beträgt übrigens 5,1 Hektar und setzt sich
-zusammen aus Wohnen und Energie 25 Prozent, Konsum 18 Prozent, Ernährung 35
+zusammen aus Wohnen und Energie 25  Prozent, Konsum 18  Prozent, Ernährung 35 
 Prozent und Verkehr 22 Prozent. Wie man sieht, kann man hier mit veganer
 Ernährung schon ganz schön was erreichen, natürlich sollte man trotzdem daran
 denken, bei Kurzstrecken auf's Fahrrad umzusatteln, nicht zu häufig zu duschen,
@@ -313,15 +313,15 @@ Geräte immer komplett auszuschalten, nicht in den "Stand-by"-Modus und auch mal
 über eine **Fahrgemeinschaft** mit den Arbeitskollegen nachzudenken.
 
 Die Zahlen, die ich für die Berechnung meines Beispiels genommen habe, sind
-nicht die einer realen Person, ich habe sie frei gewählt. Wer sich selbst gerne
+nicht die einer realen Person, ich habe sie frei gewählt.  Wer sich selbst gerne
 mal testen möchte, kann dies jederzeit auf der Homepage von "Footprint
 Deutschland" tun. Einfach
 [hier](http://www.footprint-deutschland.de/inhalt/berechne-deinen-fussabdruck)
-klicken.
-[_ **Hier gehts zu Teil 2 des Artikels** _](/2014/08/ich-war-so-muede/) ##
-Inhaltsverzeichnis "10 Fakten über Veganismus"1.
-[Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+klicken. [_ **Hier gehts zu Teil 2 des Artikels** _](/2014/08/ich-war-so-muede/)
 
+## Inhaltsverzeichnis "10 Fakten über Veganismus"
+
+1.  [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
 1.  [Ich war so müde](/2014/08/ich-war-so-muede/) !
 1.  [Blutige Zahlen](/2014/08/blutige-zahlen/)
 1.  [Vitamin B12 - Mythos und Fakten](/2014/08/vitamin-b12-mythos-und-wahrheit/)
@@ -330,10 +330,13 @@ Inhaltsverzeichnis "10 Fakten über Veganismus"1.
 1.  [Honig? Das ist jetzt aber wirklich übertrieben, oder?](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
 1.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
 1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
-1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)##
-    Quellen [VEBU](https://www.vebu.de),
-    [Der Artgenosse](https://www.facebook.com/artgenosse?fref=ts), Wikipedia,
-    [Footprint Deutschland](http://www.footprint-deutschland.de),
-    [Naturschutz Sylt](http://www.naturschutz-sylt.de)
+1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)
+
+## Quellen
+
+[VEBU](https://www.vebu.de),
+[Der Artgenosse](https://www.facebook.com/artgenosse?fref=ts), Wikipedia,
+[Footprint Deutschland](http://www.footprint-deutschland.de),
+[Naturschutz Sylt](http://www.naturschutz-sylt.de)
 
   

@@ -13,6 +13,8 @@ excerpt: Werbung - Die Jungs von MIO MIO haben mich gefragt, ob ich Lust habe,
 focusKeyword: MIO MIO
 labels:
   - Cola
+  - Ernährung
+  - Ernährung & Gesundheit
   - Getränke
   - Limo
   - Limonade
@@ -20,7 +22,7 @@ labels:
   - MIO MIO COLA
   - MIO MIO MATE
   - vegan
-  - Vegane Produkte
+  - vegane Ernährung
   - veganforfat
   - whatvegansdrink
 type: Artikel
@@ -40,13 +42,11 @@ subTitle: Vegane Limo mit Geschmack
 
 Werbung\*
 
-<RemoteImage
-  alt="MIO MIO "
-  size="medium"
-  title="MIO MIO - Ich habe getestet"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28497211950_3672e57073_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28497211950_3672e57073_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBwb/xAAlEAACAQMDBAIDAAAAAAAAAAABAgMEBREAEiEGEzFBUXEUImH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQID/8QAHhEAAgEEAwEAAAAAAAAAAAAAAQIAAwQRIRITMVH/2gAMAwEAAhEDEQA/AHOxT1VtngJBebMAUttxlWJ9E54+NZ3XUttoLdUXCvt060oq5Iu6tSu5ypAIVWUDGAT886s2q3y3COJKGRi8c6S71UuvCupVsMMZDfPrVLqiWOHpygs9yoVrUpqeQx/iIXLStuAkOTkc5z/dYFdXQHwzo9uVcg7nKXiz26OWjqIRNRRVPZaKGQbyCTkbjnjI+8av1ssys4371JPkaeq7d07cOjqarnlmmr6QJAVknZDvVBklARkbvGR71x1bEhjJHJxzojXWG4xFtbBqfLzP2Zfbx37jEGwDNUqGx7DOMj651ofWskEXTr0sdJBG1OY2hliUBkCsRtyQW2/ueARzo0adCRDpG5y1NKXq0iqJIH2RySIC6jHjceTqjcLjM5Iwg84wPGjRqVUUdh1K9Jj1Dc//2Q==" />
+<RemoteImage alt={`MIO MIO`} size="medium" title={`MIO MIO - Ich habe getestet`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28497211950_3672e57073_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28497211950_3672e57073_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBwb/xAAlEAACAQMDBAIDAAAAAAAAAAABAgMEBREAEiEGEzFBUXEUImH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQID/8QAHhEAAgEEAwEAAAAAAAAAAAAAAQIAAwQRIRITMVH/2gAMAwEAAhEDEQA/AHOxT1VtngJBebMAUttxlWJ9E54+NZ3XUttoLdUXCvt060oq5Iu6tSu5ypAIVWUDGAT886s2q3y3COJKGRi8c6S71UuvCupVsMMZDfPrVLqiWOHpygs9yoVrUpqeQx/iIXLStuAkOTkc5z/dYFdXQHwzo9uVcg7nKXiz26OWjqIRNRRVPZaKGQbyCTkbjnjI+8av1ssys4371JPkaeq7d07cOjqarnlmmr6QJAVknZDvVBklARkbvGR71x1bEhjJHJxzojXWG4xFtbBqfLzP2Zfbx37jEGwDNUqGx7DOMj651ofWskEXTr0sdJBG1OY2hliUBkCsRtyQW2/ueARzo0adCRDpG5y1NKXq0iqJIH2RySIC6jHjceTqjcLjM5Iwg84wPGjRqVUUdh1K9Jj1Dc//2Q=="
+/>
 
 **Schon vor unserem Urlaub haben die Leute von MIO MIO sich bei mir gemeldet und
 gefragt, ob ich Lust hätte, ihre neue Cola zu testen. Natürlich habe ich
@@ -68,13 +68,11 @@ Geschmacksrichtungen zu testen. Hier ist unser Fazit:
 
 ## Drei Produkte von MIO MIO im Test
 
-<RemoteImage
-  alt="MIO MIO"
-  size="medium"
-  title="MIO MIO COLA"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28781471425_dbd1cfa80c_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28781471425_dbd1cfa80c_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMFBwgCBAb/xAAmEAACAQIGAwACAwAAAAAAAAABAgMEEQAFBhIhMQcTQRRhIjLx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwL/xAAaEQADAQEBAQAAAAAAAAAAAAAAAQMCEhEi/9oADAMBAAIRAxEAPwCFNfO1XBRzioq29xkDQM+6JWTb/UfDte/X3Cfjqm05UZhnDasp6qoo6fLWqIkpZvXKZFljvt+E7C/B4tfo84ds+ykZlT5fCs9QWln9ccbSBIldgAT9tew6HNhjU0kJ8g8my08OYQUN6WpVqp1b1xK1M7XIvcgEdc9dHrBzp1hMWk+dtEv5Ho3RLZxJBQZJBOwlnjH5VPUzRrFFWqWJ6szU8yKrH6FvYm+K7any5Mt1Hm1HFFLDFTVc0KRzKVdVVyAGB5Btbg4tNU5hk0EAg1VqKizOesWZKkNBEizbvRFdgH/juWNH4tzGeusV+80yRnyjqho5lqI3rGkWVShEgZVO4beLH/eb4vL9YTQ2aizWppK2nSIqVWEtZxcXJ7/RG0WI5GOcnqZpZzPJIzSseWvY4MGIilwhbP7YiWO6/wBP3GB/XGDBhAj/2Q==" />
+<RemoteImage alt={`MIO MIO`} size="medium" title={`MIO MIO COLA`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28781471425_dbd1cfa80c_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28781471425_dbd1cfa80c_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMFBwgCBAb/xAAmEAACAQIGAwACAwAAAAAAAAABAgMEEQAFBhIhMQcTQRRhIjLx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwL/xAAaEQADAQEBAQAAAAAAAAAAAAAAAQMCEhEi/9oADAMBAAIRAxEAPwCFNfO1XBRzioq29xkDQM+6JWTb/UfDte/X3Cfjqm05UZhnDasp6qoo6fLWqIkpZvXKZFljvt+E7C/B4tfo84ds+ykZlT5fCs9QWln9ccbSBIldgAT9tew6HNhjU0kJ8g8my08OYQUN6WpVqp1b1xK1M7XIvcgEdc9dHrBzp1hMWk+dtEv5Ho3RLZxJBQZJBOwlnjH5VPUzRrFFWqWJ6szU8yKrH6FvYm+K7any5Mt1Hm1HFFLDFTVc0KRzKVdVVyAGB5Btbg4tNU5hk0EAg1VqKizOesWZKkNBEizbvRFdgH/juWNH4tzGeusV+80yRnyjqho5lqI3rGkWVShEgZVO4beLH/eb4vL9YTQ2aizWppK2nSIqVWEtZxcXJ7/RG0WI5GOcnqZpZzPJIzSseWvY4MGIilwhbP7YiWO6/wBP3GB/XGDBhAj/2Q=="
+/>
 
 Als allererstes mal VIELEN DANK für die Mate! Ich habe mich wirklich sehr
 gefreut! Derzeit gibt es hier in Hamburg meine Lieblingsmate (die kennt Ihr
@@ -99,13 +97,12 @@ wach! Das muss wohl an der enthaltenen Colanuss liegen. Perfekt geeignet, wenn
 man nach einer durchtanzten Nacht früh wieder hoch muss und der Kaffee einfach
 nicht schnell genug runter kühlen möchte.
 
-<RemoteImage
-  alt="MIO MIO"
-  size="medium"
-  title="Von der MIO MIO MATE Banane seht Ihr nur noch die leeren Flaschen"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28871665225_5a303f5f2b_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28871665225_5a303f5f2b_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAAUCAwYH/8QAJxAAAgEDAwMEAwEAAAAAAAAAAQIDAAQFERIhEzFRFSJxkQZBktH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgQD/8QAHREAAQQCAwAAAAAAAAAAAAAAAQACAxESIUFhkf/aAAwDAQACEQMRAD8A14XGq6qzgaVbgxNjbXbXnSKzTRhWcluVB447fQqHgcojIisQOwqPefkuWjxlpeBrTpO2wxdFt2g3Ac6+QDRkspZBHWQ78XYx4iytJJ44YTG8z9STczEliOe54+K5/NWUa79n67is5M1kfVYnv5rdop4nl0jjZWD+08knwdPmp+Sysb7vdye9GXCeIhzQQKC86scteRnUTyfY/wAp6/cT3Ko4ci3fqqpnkK7tfG7j7pSoQ47V0jGmtJcZ+5vZ42dpvZGVUNMzaA6efjvU67upHJ1Z/wCjSlNe0RtAZQX/2Q==" />
+<RemoteImage alt={`MIO MIO`} size="medium"
+title={`Von der MIO MIO MATE Banane seht Ihr nur noch die leeren Flaschen`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28871665225_5a303f5f2b_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28871665225_5a303f5f2b_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAAUCAwYH/8QAJxAAAgEDAwMEAwEAAAAAAAAAAQIDAAQFERIhEzFRFSJxkQZBktH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgQD/8QAHREAAQQCAwAAAAAAAAAAAAAAAQACAxESIUFhkf/aAAwDAQACEQMRAD8A14XGq6qzgaVbgxNjbXbXnSKzTRhWcluVB447fQqHgcojIisQOwqPefkuWjxlpeBrTpO2wxdFt2g3Ac6+QDRkspZBHWQ78XYx4iytJJ44YTG8z9STczEliOe54+K5/NWUa79n67is5M1kfVYnv5rdop4nl0jjZWD+08knwdPmp+Sysb7vdye9GXCeIhzQQKC86scteRnUTyfY/wAp6/cT3Ko4ci3fqqpnkK7tfG7j7pSoQ47V0jGmtJcZ+5vZ42dpvZGVUNMzaA6efjvU67upHJ1Z/wCjSlNe0RtAZQX/2Q=="
+/>
 
 Cola Light oder in diesem Fall Cola Zero ist normalerweise nicht mein Ding. Ich
 mag einfach den Geschmack der Zuckerausstauschstoffe nicht, aber das ist eine

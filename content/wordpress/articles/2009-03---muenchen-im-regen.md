@@ -29,6 +29,9 @@ subTitle: Eine Bildergalerie aus der Bayerischen Hauptstadt
   
 ---
 
+**Bei einer kleinen Fototour durch München sind mir im März ein paar verregnete
+Schnappschüsse gelungen.**
+
 Besonders der Viktualienmarkt mit seinen geschlossenen Ständen und die nassen
 Straßen drumherum hatten es mir angetan.
 

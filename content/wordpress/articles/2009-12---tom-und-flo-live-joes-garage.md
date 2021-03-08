@@ -27,8 +27,17 @@ subTitle: Lothars alte Nähfabrik Schrobenhausen
   
 ---
 
+**Am Samstag, 19. Dezember war es so weit: Tom &amp; Flo spielten live und
+unplugged in Lothars alter Nähfabrik in Schrobenhausen.**
+
 Die Gäste reisten zahlreich aus dem gesamten oberbayerischen und schwäbischen
 Umland an. Der Konzertsaal "Joe's Garage" war bis auf den letzten Platz besetzt.
+
+<RemoteImage alt={`Tom_und_Flo`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_12_9915324134_eeaa627d60_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_12_9915324134_eeaa627d60_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAII/8QAJhAAAgEDAgUFAQAAAAAAAAAAAQIDAAQRBSEGEhMxYRQiQXGRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIABP/EAB0RAAIBBQEBAAAAAAAAAAAAAAECAAMREiIxIcH/2gAMAwEAAhEDEQA/APK1MtJ0S+1W2vZ7OLnitEDyk+ewHk4P4aWVecBrZxRanp2oXd5DFqlr0ke2mMQWUEMgcdnVvcuD8kUlUsbCOnjltyQ8au3MyoWCDmbbIA8+K4JySf5TW8sW0q+vLeUl5bSboyqpK5KsQw+tqzxWsVw7sGeGIklVILkD7AGfyi2vYGYKLmYab2E7M9tjIYPGoOexDDBoopofZSr43WKx43uZ+hDO1xeyzTJIvsfmZhy4GNu/znzUdrxtJL9pdPtPR28gDLB1DIE23wx3xnJ3ooqqE5ETZXUANYcPwT//2Q=="
+/>
 
 TOM &amp; FLO gaben auf Ihre ganz besondere Art und Weise Songs von THE BEATLES,
 SIMON &amp; GARFUNKEL, BOB DYLAN, ERIC BURDON &amp; THE ANIMALS, ELVIS und
@@ -45,9 +54,6 @@ FLO!
 
 Flo ist außerdem Leadsänger der Band TONAIR aus Aichach, die auch immer wieder
 im bayerischen Raum auf Tour ist.
-
-_ [Homepage](http://www.tom-und-flo.de/) Tom &amp; Flo_ _
-[Homepage](http://www.tonair.de/frontend/front_content.php) Tonair_
 
 <Gallery name="flickr/annetomundflo" />
 

@@ -12,6 +12,7 @@ excerpt: Heute möchte ich wie versprochen ein paar alternative Banken
   nachhaltige Projekte.
 focusKeyword: Alternative Banken
 labels:
+  - Antifaschismus & Feminismus
   - Banken
   - Ethik
   - Ethik Bank
@@ -22,7 +23,6 @@ labels:
   - Klimaschutz
   - Menschenrechte
   - Menschlichkeit
-  - Politik & Soziales
   - Triodos Bank
   - UmweltBank
 type: Artikel
@@ -40,13 +40,11 @@ subTitle: Teil 2/2 Diese Banken machen es anders
   
 ---
 
-<RemoteImage
-  alt="Alternative Banken"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11156640815_011f38a715_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11156640815_011f38a715_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACsQAAIBAwMDAwIHAAAAAAAAAAECAwQFEQASIQYTMQdBYRVRIzJxgaGxwf/EABcBAQEBAQAAAAAAAAAAAAAAAAMFAQL/xAAeEQEAAgEFAQEAAAAAAAAAAAABABFBAgMSITEEof/aAAwDAQACEQMRAD8Aia71D6hp7i8TU15pAg27aqWPuFlHIIaEjd5+dKX1WrgjQ3CKtqIWGHjemgdWH2P4YH8apvW9t6rtfVl3SOW+1FOKp9lSWZzMufznBPJ86i3uN/iqHFObmU3EL3KcsWHt5XUfhpfKli5rtJ6wq4ZEqau3xxgKqNb+7+w2OoGP099Gs6tVu6nvJk2T3bbEF5aCRPOeBkD7aNcPE6X9m3eJpvUU9Qa+saieNiZyysiq3PGc4Ib2/vUVRxXGXqWgrqkRKqbQ7RysgGGHJDHjAZvP+af1sFPUTsa/6zSTFiX2TrGxJPOdy867UtPbY6ZoTUXOVGbdmYwu2cY4YAHHxoB2wqO/Vuuk0oUVXuJdLZaaevluL1scneSqYBknJV42VXRhycHD4PyNGm9D1GhklMNvrpwQuVjjXCYGPI5Oce5PjRo+sEIDM//Z" />
+<RemoteImage alt={`Alternative Banken`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11156640815_011f38a715_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11156640815_011f38a715_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACsQAAIBAwMDAwIHAAAAAAAAAAECAwQFEQASIQYTMQdBYRVRIzJxgaGxwf/EABcBAQEBAQAAAAAAAAAAAAAAAAMFAQL/xAAeEQEAAgEFAQEAAAAAAAAAAAABABFBAgMSITEEof/aAAwDAQACEQMRAD8Aia71D6hp7i8TU15pAg27aqWPuFlHIIaEjd5+dKX1WrgjQ3CKtqIWGHjemgdWH2P4YH8apvW9t6rtfVl3SOW+1FOKp9lSWZzMufznBPJ86i3uN/iqHFObmU3EL3KcsWHt5XUfhpfKli5rtJ6wq4ZEqau3xxgKqNb+7+w2OoGP099Gs6tVu6nvJk2T3bbEF5aCRPOeBkD7aNcPE6X9m3eJpvUU9Qa+saieNiZyysiq3PGc4Ib2/vUVRxXGXqWgrqkRKqbQ7RysgGGHJDHjAZvP+af1sFPUTsa/6zSTFiX2TrGxJPOdy867UtPbY6ZoTUXOVGbdmYwu2cY4YAHHxoB2wqO/Vuuk0oUVXuJdLZaaevluL1scneSqYBknJV42VXRhycHD4PyNGm9D1GhklMNvrpwQuVjjXCYGPI5Oce5PjRo+sEIDM//Z"
+/>
 
 **Wie gestern in [Teil 1](/2017/04/urgewald/) meines Artikels bereits
 angekündigt, möchte ich Euch heute ein paar alternative Banken vorstellen. Meine
@@ -71,13 +69,11 @@ von ihnen. Diese möchte ich heute gerne vorstellen.
 
 ## UmweltBank
 
-<RemoteImage
-  alt="Alternative Banken"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Umwelt-Bank__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Umwelt-Bank__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMGBQcI/8QAJhAAAgIBAwQCAgMAAAAAAAAAAQIDBBEABQYSITFBE1FhgRSRof/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAbEQACAgMBAAAAAAAAAAAAAAAAAgERAyExsf/aAAwDAQACEQMRAD8A9U6iuc8kt7JudaOtbpxRtStTmOevLIWZFypygOFB8jyfWt3k3IaHG6UNrdHdIZZfiDKM4PQzd+/0h1G8g5Pwzd5oppeYT0cQTwKlew0QYMAGbBXuy5GD6zpXuY0Rzq7JWPpQcL3e9uO4bxW3C1Wmao0ChIq0kLRlo+pg3X5yfrx71Va5psPMuLbRuMyvvm4yC5EJmk3B8xw/GFTpB9E9ak4yD96ruPcr2bkNu5X2i4lmSqEMgUEYDZwf8I/R0LcRs3CrKlP3fpsWK0FlFWzDHKqsHUSKGAYeCM+9L/gUypU1YOkggj41x38+tGjTFRb7TtzsWehUZj2JMKknx+PwP6GnwVK8Ds8EEUbsMEogBI/WjRoA/9k=" />
+<RemoteImage alt={`Alternative Banken`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Umwelt-Bank__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Umwelt-Bank__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMGBQcI/8QAJhAAAgIBAwQCAgMAAAAAAAAAAQIDBBEABQYSITFBE1FhgRSRof/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAbEQACAgMBAAAAAAAAAAAAAAAAAgERAyExsf/aAAwDAQACEQMRAD8A9U6iuc8kt7JudaOtbpxRtStTmOevLIWZFypygOFB8jyfWt3k3IaHG6UNrdHdIZZfiDKM4PQzd+/0h1G8g5Pwzd5oppeYT0cQTwKlew0QYMAGbBXuy5GD6zpXuY0Rzq7JWPpQcL3e9uO4bxW3C1Wmao0ChIq0kLRlo+pg3X5yfrx71Va5psPMuLbRuMyvvm4yC5EJmk3B8xw/GFTpB9E9ak4yD96ruPcr2bkNu5X2i4lmSqEMgUEYDZwf8I/R0LcRs3CrKlP3fpsWK0FlFWzDHKqsHUSKGAYeCM+9L/gUypU1YOkggj41x38+tGjTFRb7TtzsWehUZj2JMKknx+PwP6GnwVK8Ds8EEUbsMEogBI/WjRoA/9k="
+/>
 
 Die _UmweltBank_ ist eine an der Börse notierte Aktiengesellschaft. Auch wenn
 ihr Geschäft das Geld ist, ist sie anders, als andere Banken. In ihrer Satzung
@@ -119,13 +115,11 @@ _urgewald_ zitiert Hedwig Tarner, Geografin und Regionalpolitikerin
 
 ## Ethik Bank
 
-<RemoteImage
-  alt="Alternative Banken"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Ethik-Bank__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Ethik-Bank__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAIDBQYBBAf/xAAoEAACAQMCBQMFAAAAAAAAAAABAgMABBEFMRITISJBMnGRBhQVUWL/xAAYAQACAwAAAAAAAAAAAAAAAAABBgIFB//EACQRAAEEAQMDBQAAAAAAAAAAAAEAAgMRIQQSMQVBgSJRceHw/9oADAMBAAIRAxEAPwDqWqXHHByYQ0d5z2Yzczq659ODUHJb6u0oZNWeJCoUrykfHXORkb46VY5tMle8klCHsLcJLrg5Jp2G0uVAU5RVGASytn49qy2bSzn1DnN4b4++6ZmyM47eVGWryxwRJNMZZFUBpCOHjPkkDbNYt4Cl3C63F2CrggG5cjf9Zqd+2mSJQsysN/T5pBtZXmeF2tyYlhnIQHmKHLdzHbDeB/Jo6bpmpfucHEbRfzkYwT+CEupjbQrk0rB+Lti7uOYrOSW4XK5+PemW021Z5C0ZYuADlic42oop2ka32VS0lKWwhjIKtL27AyEj4rVg+nLS21B9RSe/aaQklJLuRoxxHYITjA8DxnpRRRhJbuDcWMqEoBq1/9k=" />
+<RemoteImage alt={`Alternative Banken`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Ethik-Bank__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Ethik-Bank__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAIDBQYBBAf/xAAoEAACAQMCBQMFAAAAAAAAAAABAgMABBEFMRITISJBMnGRBhQVUWL/xAAYAQACAwAAAAAAAAAAAAAAAAABBgIFB//EACQRAAEEAQMDBQAAAAAAAAAAAAEAAgMRIQQSMQVBgSJRceHw/9oADAMBAAIRAxEAPwDqWqXHHByYQ0d5z2Yzczq659ODUHJb6u0oZNWeJCoUrykfHXORkb46VY5tMle8klCHsLcJLrg5Jp2G0uVAU5RVGASytn49qy2bSzn1DnN4b4++6ZmyM47eVGWryxwRJNMZZFUBpCOHjPkkDbNYt4Cl3C63F2CrggG5cjf9Zqd+2mSJQsysN/T5pBtZXmeF2tyYlhnIQHmKHLdzHbDeB/Jo6bpmpfucHEbRfzkYwT+CEupjbQrk0rB+Lti7uOYrOSW4XK5+PemW021Z5C0ZYuADlic42oop2ka32VS0lKWwhjIKtL27AyEj4rVg+nLS21B9RSe/aaQklJLuRoxxHYITjA8DxnpRRRhJbuDcWMqEoBq1/9k="
+/>
 
 Ganz oben auf der Agenda der _Ethik Bank_ steht, dass weder in Rüstung noch in
 Atomkraft investiert wird. Es werden außerdem keine Kredite an Unternehmen
@@ -168,13 +162,11 @@ _urgewald_ zitiert dazu in der Broschüre Ester Yücel, Studentin
 
 ## Triodos Bank
 
-<RemoteImage
-  alt="Alternative Banken"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Triodos-Bank.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Triodos-Bank.png__l.jpg"
-  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAJCAIAAADcu7ldAAAACXBIWXMAAAsTAAALEwEAmpwYAAACoklEQVQoz4VQa0/TYBTeTzH+Af6AH40xfjBRPyCJcRoSUT+QiMFAYkSCXOTiQkTFBCOXAQNRWGFrCd2lWWl3Ld3WzbEyBbpua3dzF4G5dvXtUCN80CfnPTnnvM+5ahCU6uydhWCPoihHR9UlIwGM6g9JqaO9a9qCBZSTWIkx19H5EcoO7EiY6x5anF6wn+K8fGvSLzmAoQHv1v1RMVO40za+YnZP6C04GZ6ct61t+ALM7pMBw8grCLX7Dcv4izeQ2ewF/MaNuRvWhQvQxBRPU1Tsinag45m+WCj36z6tW+me4Q+TBtsCRHYNLu7tC2qDy409uXzpqvY50Neah7Wtrx04c+58+72OiRXj5tmGu4jN/6jz3e3WsaZmHXdYeEiuXTRP3kQXn25bwX4tbeOdfXODY8ZLTb2P++e7dR/7emZ0o8tnGlrWUJ+mJtWmpi3FbNlk9lbKFauV3mETEOQ6OqigVv/UrM3ljlpQ/+dIPLodRxAfGGiIxrSo4QG+KkoHaS6nn7Pt7QobFvq93uJwhDyeKOGM2LGg0xkBFTRVRQY5klJTT6/Itd9HlJXTOI4AwqFUFQ9LVakqK7XjxH9A86WQ8wkck03SIh/+Jm6Xc0w2Raf5YCYRzKX86QQt8P407wduJgHcYC4ZyqfYYobJpwK5JJMXAmqcp+sSzCQBR81SRU3UnGgnSQIX/8v9z3T1vWonaJJ0egNZkYFIsvqRyWa3tmgcx70UVfpe2iSIAMPEvsaKpZLb49nnuFA47HK7gThdLq/PFwyFQJAgSSYUIkmSZVkTDIsZUW0EStYr/9pAltULp9NpGEYoaguzY/l8HkHWEQRBURRoNsoSBAHD8MyMnmV3UinBjmEk6SwUCkYjBBlXTSZzpVKBTTDPx/8UBPgJ7ZbRmp8XN6IAAAAASUVORK5CYII=" />
+<RemoteImage alt={`Alternative Banken`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Triodos-Bank.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Triodos-Bank.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAJCAIAAADcu7ldAAAACXBIWXMAAAsTAAALEwEAmpwYAAACoklEQVQoz4VQa0/TYBTeTzH+Af6AH40xfjBRPyCJcRoSUT+QiMFAYkSCXOTiQkTFBCOXAQNRWGFrCd2lWWl3Ld3WzbEyBbpua3dzF4G5dvXtUCN80CfnPTnnvM+5ahCU6uydhWCPoihHR9UlIwGM6g9JqaO9a9qCBZSTWIkx19H5EcoO7EiY6x5anF6wn+K8fGvSLzmAoQHv1v1RMVO40za+YnZP6C04GZ6ct61t+ALM7pMBw8grCLX7Dcv4izeQ2ewF/MaNuRvWhQvQxBRPU1Tsinag45m+WCj36z6tW+me4Q+TBtsCRHYNLu7tC2qDy409uXzpqvY50Neah7Wtrx04c+58+72OiRXj5tmGu4jN/6jz3e3WsaZmHXdYeEiuXTRP3kQXn25bwX4tbeOdfXODY8ZLTb2P++e7dR/7emZ0o8tnGlrWUJ+mJtWmpi3FbNlk9lbKFauV3mETEOQ6OqigVv/UrM3ljlpQ/+dIPLodRxAfGGiIxrSo4QG+KkoHaS6nn7Pt7QobFvq93uJwhDyeKOGM2LGg0xkBFTRVRQY5klJTT6/Itd9HlJXTOI4AwqFUFQ9LVakqK7XjxH9A86WQ8wkck03SIh/+Jm6Xc0w2Raf5YCYRzKX86QQt8P407wduJgHcYC4ZyqfYYobJpwK5JJMXAmqcp+sSzCQBR81SRU3UnGgnSQIX/8v9z3T1vWonaJJ0egNZkYFIsvqRyWa3tmgcx70UVfpe2iSIAMPEvsaKpZLb49nnuFA47HK7gThdLq/PFwyFQJAgSSYUIkmSZVkTDIsZUW0EStYr/9pAltULp9NpGEYoaguzY/l8HkHWEQRBURRoNsoSBAHD8MyMnmV3UinBjmEk6SwUCkYjBBlXTSZzpVKBTTDPx/8UBPgJ7ZbRmp8XN6IAAAAASUVORK5CYII="
+/>
 
 Mensch, Umwelt und Wirtschaft. Das sind die drei Wege, welche die _Triodos Bank_
 (Tri hodos = Griechisch "drei Wege") geht.
@@ -218,13 +210,11 @@ _urgewald_ zitiert hier Ludger Kotulla, Technischer Redakteur und Feuerwehrmann
 
 ## GLS Bank
 
-<RemoteImage
-  alt="Alternative Banken"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_gls-bank__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_gls-bank__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgP/xAArEAABBAECAwYHAAAAAAAAAAABAgMEEQAFIQYSMRMiUWFxkRQjMkFEotL/xAAYAQADAQEAAAAAAAAAAAAAAAABAgUDBP/EACMRAAIBAwMEAwAAAAAAAAAAAAECEQADIQUxQRIiUbETYZH/2gAMAwEAAhEDEQA/AL7Ogx4jgbd1rVW1KUFgmUTXWh9NVv0PgPDGNCi6izOmMSJ6ZENk9yypT5WoWQsq2CQKoJu7+1Vk0e4yM5tSJ0oOAmyS8hN+XdArpi2kTuHUP32TKiSLW5OWv3tWRbOur8jrdHbiCBn7nNZuCQptDPMmPyAatXwjg/Mlfp/ODcZxKhcyQujfKoo39k5htQ4y0yLLiR4EiKY/ZLLo5wd6Ty7365jZnEGiHWZUxtwplTEobUFj5dJ6FII2v1o51XNVsqjskt0icAxvABMQJzvinVGZwnJnHOBJMeBz43qzqu1gKWB5KIzoBaHLJJNDc+mGGU6AploktovwGYyJw1pjetw1JRKpqS5yIMx4oHIAUdwr5aB6CsMMBPYRxj3T2z03VYbw3o1//9k=" />
+<RemoteImage alt={`Alternative Banken`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_gls-bank__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_gls-bank__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgP/xAArEAABBAECAwYHAAAAAAAAAAABAgMEEQAFIQYSMRMiUWFxkRQjMkFEotL/xAAYAQADAQEAAAAAAAAAAAAAAAABAgUDBP/EACMRAAIBAwMEAwAAAAAAAAAAAAECEQADIQUxQRIiUbETYZH/2gAMAwEAAhEDEQA/AL7Ogx4jgbd1rVW1KUFgmUTXWh9NVv0PgPDGNCi6izOmMSJ6ZENk9yypT5WoWQsq2CQKoJu7+1Vk0e4yM5tSJ0oOAmyS8hN+XdArpi2kTuHUP32TKiSLW5OWv3tWRbOur8jrdHbiCBn7nNZuCQptDPMmPyAatXwjg/Mlfp/ODcZxKhcyQujfKoo39k5htQ4y0yLLiR4EiKY/ZLLo5wd6Ty7365jZnEGiHWZUxtwplTEobUFj5dJ6FII2v1o51XNVsqjskt0icAxvABMQJzvinVGZwnJnHOBJMeBz43qzqu1gKWB5KIzoBaHLJJNDc+mGGU6AploktovwGYyJw1pjetw1JRKpqS5yIMx4oHIAUdwr5aB6CsMMBPYRxj3T2z03VYbw3o1//9k="
+/>
 
 Das Motto der _GLS Bank_ ist "Geld ist für die Menschen da". Sie versteht sich
 als Universalbank und möchte alle Geschäfte von Anfang bis Ende so nachhaltig
@@ -258,13 +248,11 @@ _urgewald_ zitiert Olaf Schettler, Mediengestalter
 
 ## Alternative Banken sind auf dem Vormarsch
 
-<RemoteImage
-  alt="Alternative Banken"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_15029722732_b595e639c6_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_15029722732_b595e639c6_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAgX/xAAqEAACAgEEAAQFBQAAAAAAAAABAgMEEQAFEiEGEzFRByMyQWEUUnGxsv/EABYBAQEBAAAAAAAAAAAAAAAAAAMCAf/EAB0RAQACAgIDAAAAAAAAAAAAAAEAAgMRITEEE3H/2gAMAwEAAhEDEQA/AF3c5X8H7dC088R3MxkwxxOHADE9ufQL6/zjA1v4ZHe93sXtyu3HmryuoP6hyxkXj9Sr0Fz1g+wOlrx1LHc21b1+CpanYrTijimdJQqsWLSqGIH1dYxnJ661Rvhn5ezNUqvPAt2WNJFUciFAwEChicADHZ9T2ckjSuQrUCBi8bSr3GbdYYprcjLgg4/rUz8TVAu4zZzxNyAf71Vp79K5WexVkW988RSS8uPB+YVySR1jOfz176XfGG0VqNO5NbjQzieExScjiRy/Rxn25dahyljUX0Wq7+yO7xuW1VqCS7dWltbrJIvOGSNvLSEdjCg4ZiSASfsevfVT2QVInh3alJI+42FjmMEsgYJhT8sHGQoJ6H20aNQ1OIpe2u5umkNWjOK8jcGm850L5DSMELfnJb7egxrj+IpXknbzLbyvDLE+GxhBkgoD+0e2jRqnuYcm5//Z" />
+<RemoteImage alt={`Alternative Banken`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_15029722732_b595e639c6_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_15029722732_b595e639c6_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAgX/xAAqEAACAgEEAAQFBQAAAAAAAAABAgMEEQAFEiEGEzFRByMyQWEUUnGxsv/EABYBAQEBAAAAAAAAAAAAAAAAAAMCAf/EAB0RAQACAgIDAAAAAAAAAAAAAAEAAgMRITEEE3H/2gAMAwEAAhEDEQA/AF3c5X8H7dC088R3MxkwxxOHADE9ufQL6/zjA1v4ZHe93sXtyu3HmryuoP6hyxkXj9Sr0Fz1g+wOlrx1LHc21b1+CpanYrTijimdJQqsWLSqGIH1dYxnJ661Rvhn5ezNUqvPAt2WNJFUciFAwEChicADHZ9T2ckjSuQrUCBi8bSr3GbdYYprcjLgg4/rUz8TVAu4zZzxNyAf71Vp79K5WexVkW988RSS8uPB+YVySR1jOfz176XfGG0VqNO5NbjQzieExScjiRy/Rxn25dahyljUX0Wq7+yO7xuW1VqCS7dWltbrJIvOGSNvLSEdjCg4ZiSASfsevfVT2QVInh3alJI+42FjmMEsgYJhT8sHGQoJ6H20aNQ1OIpe2u5umkNWjOK8jcGm850L5DSMELfnJb7egxrj+IpXknbzLbyvDLE+GxhBkgoD+0e2jRqnuYcm5//Z"
+/>
 
 Alternative Banken erfreuen sich heute immer größerer Beliebtheit. In Zeiten, in
 denen die Menschen anfangen, bewußter zu leben, möchte man auch wissen, was mit

@@ -89,10 +89,22 @@ subTitle: Exklusives Vinyl, CD und T-Shirt zu gewinnen
   
 ---
 
-<hr /> __Mein wundervolles, neues  [Marc Lanegan T-Shirt](//#jp-carousel-3918)  hat mich auf die Idee gebracht, mal wieder eine Mitmach-Aktion auf cardamonchai.com zu veranstalten. Dieses Mal soll es nicht nur eine  [einfache Verlosung](//2011/05/05/cardamonchai-auf-facebook/)  sein, oder ein  [Mixtape-Tausch](//cardamixtape-2/der-mixtape-tausch-teil-1-die-bastelei/),  nein, es wird spannender. Und es gibt wirklich tolle Preise zu gewinnen.__
+<hr />
+
+**Hinweis:** Die Aktion ist beendet.
+[Bestimmt findet bald wieder eine tolle Verlosung im Blog statt](/tag/verlosung/).
+
+<hr />
+
+**Mein wundervolles, neues [Marc Lanegan T-Shirt](//#jp-carousel-3918) hat mich
+auf die Idee gebracht, mal wieder eine Mitmach-Aktion auf cardamonchai.com zu
+veranstalten. Dieses Mal soll es nicht nur eine
+[einfache Verlosung](//2011/05/05/cardamonchai-auf-facebook/) sein, oder ein
+[Mixtape-Tausch](//cardamixtape-2/der-mixtape-tausch-teil-1-die-bastelei/),
+nein, es wird spannender. Und es gibt wirklich tolle Preise zu gewinnen.**
 
 Alle, die mitmachen wollen, senden unter dem Betreff "T-Shirt-Idee" bis zum 30.
-September ein Foto von ihrem Lieblings-T-Shirt, im Idealfall sogar mit einer
+September ein Foto  von ihrem Lieblings-T-Shirt, im Idealfall sogar mit einer
 kleinen Geschichte dazu (2-10 Sätze reichen schon) an info@cardamonchai.com. Aus
 den Bildern entsteht dann hier im Blog eine schöne T-Shirt-Galerie. Es werden
 drei Gewinner ausgelost, die einen eigenen Blogeintrag zu Ihrem T-Shirt
@@ -117,11 +129,8 @@ Eure Bilder. Natürlich sind auch Bilder von Sweatshirts erlaubt! :-)
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9936gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9936gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9935gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9935gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9933gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9933gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9930gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9930gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9928gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9928gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9925gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9925gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9924gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9924gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9923gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9923gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9920gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9920gerahmt_hf__l.jpg"}]}
 />
 
-**Der Song des Tages kommt heute von Weezer. Hier sind die Jungs aus L.A. für
-Euch mit 'Sweater':**
+## Songs des Tages: Weezer – "Sweater Song"
 
-[youtube=http://www.youtube.com/watch?v=6ssqro3u1lY]
-
-&nbsp;
+<iframe src="https://www.youtube.com/embed/LHQqqM5sr7g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
   

@@ -10,7 +10,7 @@ excerpt: Bei unserer Fahrt über den Ring Of Kerry zeigte sich uns die grüne
   Insel von ihrer wildschönen Seite. Rau und eindrucksvoll.
 focusKeyword: Ring Of Kerry
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
   - Irland
   - Irland2017
   - Reisblog

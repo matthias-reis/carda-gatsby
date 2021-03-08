@@ -36,6 +36,13 @@ subTitle: Von Regenwaldabholzung bis Cholesterin
   
 ---
 
+**Neulich war ich mit einer Freundin in der nächsten Filiale einer bekannten
+Drogeriemarktkette einkaufen. Sie sah, dass ich einige der dort auch zum Verkauf
+angebotenen, veganen Lebensmittel nach dem Durchlesen der Zutatenlisten wieder
+zurück ins Regal stellte, weil die Produkte Palmöl enthielten.**
+
+> "Du bist doch Veganerin? Palmöl kannst Du doch essen?"
+
 Ich sehe das etwas anders, warum das genau so ist, darüber möchte ich gerne ein
 bisschen ausschweifen. Durch den Anbau von Palmöl werden nicht nur Urwälder
 abgeholzt, um Platz für Monoplantagen zu schaffen, es werden auch unzählige
@@ -134,8 +141,9 @@ Kosmetik- und Reinigungsmittelbranche wird es erst so richtig kompliziert, da
 die Hersteller hier zumeist nur ihr „Fachchinesisch“ auf die Verpackungen
 schreiben.
 
-## Namen für Palmöl (ohne Anspruch auf Vollständigkeit)- Arachmide mea
+## Namen für Palmöl (ohne Anspruch auf Vollständigkeit)
 
+- Arachmide mea
 - Ascorbyl Palmitate
 - Betaine
 - Capric Triglyceride
@@ -224,6 +232,14 @@ Hersteller, unter ihnen Alnatura, Allos und Rapunzel verwenden das billige Öl
 bei die Herstellung ihrer Produkte. Ob diesen Herstellern Siegel wie "Fairtrade"
 und "Bio" auch weiterhin zustehen, wird derzeit heiß diskutiert.
 
-### Quellen: [Umweltblick](http://www.umweltblick.de/) [Tierrechts-Initiative Freiburg](http://tif.objectis.net/themen/palmoel) [Rettet den Regenwald e. V.](https://www.regenwald.org/petitionen) **Foto:** [sarangib](https://pixabay.com/de/users/sarangib-37542/), pixabay
+### Quellen:
+
+[Umweltblick](http://www.umweltblick.de/)
+
+[Tierrechts-Initiative Freiburg](http://tif.objectis.net/themen/palmoel)
+
+[Rettet den Regenwald e. V.](https://www.regenwald.org/petitionen)
+
+**Foto:** [sarangib](https://pixabay.com/de/users/sarangib-37542/), pixabay
 
   

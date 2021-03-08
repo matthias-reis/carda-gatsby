@@ -11,14 +11,14 @@ excerpt: "Unter dem Hashtag #iseefaces teilen bei Instagram und in diversen
   lustigsten und skurrilsten Bilder."
 focusKeyword: "#iseefaces"
 labels:
-  - "#iseefaces"
   - Bilder
-  - DIY
   - Fotos
+  - Geschichten & Erlebtes
   - Hashtag
   - i see faces
   - Instagram
   - Internet
+  - iseefaces
   - Pictures
   - Trending
 type: Galerie
@@ -36,16 +36,20 @@ subTitle: Bildergalerie
   
 ---
 
+**Unter dem Hashtag #iseefaces teilen bei Instagram und in diversen anderen
+Fotonetzwerken täglich tausende Internetznutzer die interessantesten, lustigsten
+und skurrilsten Bilder.**
+
 Alles, was man sich zum Thema "Ich habe ein Gesicht gefunden, siehst Du es
 auch?" vorstellen kann, wird unter dem Titel #iseefaces ins Web gestellt. Vom
-edlen Antlitz über die grüblerische Maske - Die Phantasie ist immer mit dabei.
+edlen Antlitz über die grüblerische Maske - Die Phantasie ist immer mit dabei.
 
-## #iseefaces - Ein Hashtag mit vielen Gesichtern
+## #iseefaces -  Ein Hashtag mit vielen Gesichtern
 
 Auch ich habe in den letzten Jahren eine ganze Menge #iseefaces-Bilder
 geschossen und möchte sie Euch natürlich nicht vorenthalten. Wie immer lasse ich
-die Fotos direkt aus meinem Flickr-Feed hier reinlaufen, was bedeutet, sobald
-ein neues Gesicht zur Sammlung hinzukommt, wird es natürlich auch hier
+die Fotos direkt aus meinem Flickr-Feed hier reinlaufen, was bedeutet, sobald
+ein neues Gesicht zur Sammlung hinzukommt, wird es natürlich auch hier
 angezeigt. Es lohnt sich also durchaus, meine Galerie von Zeit zu Zeit immer mal
 wieder zu besuchen.
 

@@ -12,12 +12,12 @@ excerpt: Affiliate Links - Veganes Essen liefern lassen - Geht das? Hier ist
   allen einen guten Appetit.
 focusKeyword: Veganes Essen liefern lassen
 labels:
+  - Ernährung & Gesundheit
   - Lieferdienst
   - Lieferheld
   - Netflix & Pizza
   - Pizzaservice
   - vegan
-  - Vegane Produkte
   - veganer Lieferdienst
   - veganer Pizzaservice
   - Veganes Essen
@@ -44,20 +44,19 @@ nach einem langen Tag abends keine Lust mehr hast, was zu kochen?". Das wurde
 ich unlängst gefragt. Die gute Nachricht ist: Ja, das geht. Immer besser
 sogar!**
 
-In der ersten Zeit als [Veganer](/category/vegan-2/) haben mein Mann und ich an
+In der ersten Zeit als [Veganer](/category/vegan/) haben mein Mann und ich an
 sowas wie Essensbestellungen gar nicht gedacht. Wir waren einfach zu sehr damit
 beschäftigt, neue, tolle Lebensmittel auszuprobieren. Auch heute denken wir uns
-noch täglich neue [Rezepte](/category/vegan-2/rezepte/) aus, aber ab und zu,
-schleicht sich dann auch mal die Faulheit ein oder der Stress ist zu groß und
-dann greifen wir auch mal zum Laptop und suchen uns online was Leckeres aus.
+noch täglich neue [Rezepte](/category/vegan/vegane-rezepte/) aus, aber ab und
+zu, schleicht sich dann auch mal die Faulheit ein oder der Stress ist zu groß
+und dann greifen wir auch mal zum Laptop und suchen uns online was Leckeres aus.
 
-<RemoteImage
-  alt="Veganes Essen liefern lassen"
-  size="medium"
-  title="Pho - Vegan, heiß und lecker"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_25094607418_03a4fb2681_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_25094607418_03a4fb2681_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFAwT/xAAsEAABAwMDAwMDBQEAAAAAAAABAgMEBQYRABIhEyIxB0GBFBVxMlFSYWKh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQABf/EACcRAAIBAgMHBQAAAAAAAAAAAAECEQADBAUSEyEiMVFx8IGRocHh/9oADAMBAAIRAxEAPwBMprtMuClyH0PQ7hbDch5UWM8zMJUVDagJJUPc448DRVf/AKfM1ynUoRaXR7Xw6448oww2+4AnASlCEgr8g87QDog9LbciXFeMZic2n7dEadnzAFbCpppO4oyPG5W1Of8AR0lOXq/c1wuTaEyyEsI6jrbxWksNBSQcIyBwB7ZPA8eNQPNhdSknv9mnLlkKhJPX8qcqXpREhxyVTK4pWzdvNPaQM/tsLoP/AHUuqx4oUR99QnB8Lpz4UPyACM/J010Spqlt5vCmlqO8244iSzMSrARySUlW7gAHyRjjGusuoMfVvfRNMORd6ukscBSM9pxs44xoLeLuNOqPTfRaGA4hHei70DDUitXNEdQVrfob3TCQCcodbWcD3O0E4/rW0KXT/pDLDoj72yXXGF7F8jJHbyTn20V2Lcj1qXZTqyyguiM4eq1nHVaUClxHykkfnGna7KVAciQqxbyQ/SJjZUxLT3BQJzhX8VjlJB5BBGtmNtioZTEV1spu2w5R1knz5qIq8ia3b6Exn6jLgsqDLinnSsjtJxtP6RynI48fnWSzdMdtpCDIqKSlIGA5gD4zqro8OdOkORVOhJKgG+3cpeMnbjBOMH4+de8+ndOfPWLDqC537evjbnnGMcaG2VKyR7VLi8MdswJgDlPhr//Z" />
+<RemoteImage alt={`Veganes Essen liefern lassen`} size="medium"
+title={`Pho - Vegan, heiß und lecker`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_25094607418_03a4fb2681_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_25094607418_03a4fb2681_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFAwT/xAAsEAABAwMDAwMDBQEAAAAAAAABAgMEBQYRABIhEyIxB0GBFBVxMlFSYWKh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQABf/EACcRAAIBAgMHBQAAAAAAAAAAAAECEQADBAUSEyEiMVFx8IGRocHh/9oADAMBAAIRAxEAPwBMprtMuClyH0PQ7hbDch5UWM8zMJUVDagJJUPc448DRVf/AKfM1ynUoRaXR7Xw6448oww2+4AnASlCEgr8g87QDog9LbciXFeMZic2n7dEadnzAFbCpppO4oyPG5W1Of8AR0lOXq/c1wuTaEyyEsI6jrbxWksNBSQcIyBwB7ZPA8eNQPNhdSknv9mnLlkKhJPX8qcqXpREhxyVTK4pWzdvNPaQM/tsLoP/AHUuqx4oUR99QnB8Lpz4UPyACM/J010Spqlt5vCmlqO8244iSzMSrARySUlW7gAHyRjjGusuoMfVvfRNMORd6ukscBSM9pxs44xoLeLuNOqPTfRaGA4hHei70DDUitXNEdQVrfob3TCQCcodbWcD3O0E4/rW0KXT/pDLDoj72yXXGF7F8jJHbyTn20V2Lcj1qXZTqyyguiM4eq1nHVaUClxHykkfnGna7KVAciQqxbyQ/SJjZUxLT3BQJzhX8VjlJB5BBGtmNtioZTEV1spu2w5R1knz5qIq8ia3b6Exn6jLgsqDLinnSsjtJxtP6RynI48fnWSzdMdtpCDIqKSlIGA5gD4zqro8OdOkORVOhJKgG+3cpeMnbjBOMH4+de8+ndOfPWLDqC537evjbnnGMcaG2VKyR7VLi8MdswJgDlPhr//Z"
+/>
 
 Anfangs muss man ein Bisschen suchen, aber nach und nach tun sich einem immer
 mehr Optionen auf. Als wir noch in Augsburg wohnten, waren wir mit einem
@@ -84,13 +83,12 @@ komplett selbst belegen kann. Traditionell mindestens ein rein pflanzliches
 Gericht auf der Karte haben zum Beispiel auch die meisten Vietnamesischen
 Imbisse.
 
-<RemoteImage
-  alt="Veganes Essen liefern lassen"
-  size="medium"
-  title="Vegane Pizza"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_38769249361_5f1da205af_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_38769249361_5f1da205af_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgIDBAUHCP/EAC0QAAIBAwIFAwEJAAAAAAAAAAECAwQFEQAhBhIxQWETUXEiBxQVM4GRobGy/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUAAQID/8QAHhEAAwADAAIDAAAAAAAAAAAAAQIDABEhBBIxkfD/2gAMAwEAAhEDEQA/AB7jGHhRbnLZbQz1sX1P6q4BZR2+obEYOT7b6Cqy0cKS0UK0FKRXNKAUlnc4HLk5wQp/TfTjVywCpt1NJLJUGVyVZBIyk9FT2G/bY9fGm6hoUrJI6CKKjy6mRVwqhsAAjryYbr50kkhkNKSN44oV4SAf31lI1kDSTNbmaGOJGzU0yyAfDA6EZInikaN0YMpKkY6Ea0F6mSdnke4ozyBlV0cn1tt8ke+f50kwSk7IhHY8h0ROzrwjecqxm3QdYWX6yR0t4jqSW9GoQxFiAR7geCMAZ7j40MXOKdJ5Pu0g5HYMxUEs2Oqbkjr1xgai8McfLDbRaOJIJKuhChEnj/NjA6fOOx6jzqXLcrbPM8NvutOIThkZkKM4OQVbI+nHjr8au0mQ7X4yRslOMe4q12tZbrDTUaepnkdWKYb1GyOXPcADm/bWqQcFVSwRg0zEhQNh40N/Y0KO48WGmeojMlNG0qkMChJI75yx+BsAddMfh1uO7Q1HMdzitGP9D+hrSQZh7E6wa3kCZ9F7rP/Z" />
+<RemoteImage alt={`Veganes Essen liefern lassen`} size="medium"
+title={`Vegane Pizza`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_38769249361_5f1da205af_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_38769249361_5f1da205af_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgIDBAUHCP/EAC0QAAIBAwIFAwEJAAAAAAAAAAECAwQFEQAhBhIxQWETUXEiBxQVM4GRobGy/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUAAQID/8QAHhEAAwADAAIDAAAAAAAAAAAAAQIDABEhBBIxkfD/2gAMAwEAAhEDEQA/AB7jGHhRbnLZbQz1sX1P6q4BZR2+obEYOT7b6Cqy0cKS0UK0FKRXNKAUlnc4HLk5wQp/TfTjVywCpt1NJLJUGVyVZBIyk9FT2G/bY9fGm6hoUrJI6CKKjy6mRVwqhsAAjryYbr50kkhkNKSN44oV4SAf31lI1kDSTNbmaGOJGzU0yyAfDA6EZInikaN0YMpKkY6Ea0F6mSdnke4ozyBlV0cn1tt8ke+f50kwSk7IhHY8h0ROzrwjecqxm3QdYWX6yR0t4jqSW9GoQxFiAR7geCMAZ7j40MXOKdJ5Pu0g5HYMxUEs2Oqbkjr1xgai8McfLDbRaOJIJKuhChEnj/NjA6fOOx6jzqXLcrbPM8NvutOIThkZkKM4OQVbI+nHjr8au0mQ7X4yRslOMe4q12tZbrDTUaepnkdWKYb1GyOXPcADm/bWqQcFVSwRg0zEhQNh40N/Y0KO48WGmeojMlNG0qkMChJI75yx+BsAddMfh1uO7Q1HMdzitGP9D+hrSQZh7E6wa3kCZ9F7rP/Z"
+/>
 
 Somit wären die Grundlagen schon mal sicher. Lieferdienste gibt es ja in den
 meisten Städten wie Sand am Meer. Neue Anbieter wie zum Beispiel Foodora liefern

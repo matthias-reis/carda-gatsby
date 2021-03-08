@@ -12,7 +12,7 @@ excerpt: Was kommt dabei heraus, wenn sich 15 Blogger*innen verabreden,
   Blind Date!
 focusKeyword: Gartenblogger Blind Date
 labels:
-  - Bands & Reviews
+  - Bands
   - Blog
   - bloggen
   - bloggerblinddate
@@ -24,7 +24,7 @@ labels:
   - Popmusik
   - Schnulze
 type: Artikel
-typeName: Rezension
+typeName: Artikel
 date: 2018-08-20T15:27:38.000Z
 status: publish
 isWerbung: false
@@ -139,12 +139,10 @@ Badeschaum. Geigen. Show. Was für ein Macho. Sorry, Lenny.
   [Frau Meise](https://fraumeise.de/i-build-this-garden-for-us/), und 
 [Mrs. Greenhouse](https://mrsgreenhouse.de/ein-apfelglueck-zum-blind-date-edition-5-i-build-a-garden-for-us)
 
-<RemoteImage
-  alt="Gartenbloggerblinddate"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_HANG-IN__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_HANG-IN__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDCAQGB//EACwQAAIBAgUDAwIHAAAAAAAAAAECAwQRAAUGEyESFDEHQVEiYRUyQoGx8PH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQID/8QAIBEAAgEDBAMAAAAAAAAAAAAAAQIAAxEhEiJBUTFCgf/aAAwDAQACEQMRAD8AyfT/AEtQRadoquqpY6yrnj3WmkQN0sTwAPAt8+b4S6h0+8WtMty/LY446atjZhC8qoN8tZRdvY+3PyMLdH6mzGhhaiSNJqSMsyb4IK8EkCx8X/nDrQ2pqWDXi5hqiekFPPQtDLvws0KCwZQUAN+R4+/ycR2rUKqikBuxx4+yaiMXzGS+jOowJ6vcp+4hqGmlje57h+ogBT4K9Njc2H1EG1uOZZ9TR96sUU6i7CNljKushFwwAFx/eMW4WR6SSfNu8SbL9ndG2rFjGykj6PJAAJsDew4F+MVf9R5KbM9V5xU5XWiSklk34ayxkUh0AIUn6m59zgzK1tTpoIJAub3HDY76i61JEIKtfEbaZo9Lw0VKs09X3b0/U4W7L4IPkfb/AHDWXLdJkRsz1dim2LoD1KfY3GDBjszqCu0ZHUKQQ2DJvxPIZImpTneeSRzpGGVpGsyr+Qftfj4xrubUmjRltTLSy1G+YGaMvFxcKej9J4vgwYVtHqJpkze5n//Z" />
+<RemoteImage alt={`Gartenbloggerblinddate`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_HANG-IN__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_HANG-IN__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDCAQGB//EACwQAAIBAgUDAwIHAAAAAAAAAAECAwQRAAUGEyESFDEHQVEiYRUyQoGx8PH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQID/8QAIBEAAgEDBAMAAAAAAAAAAAAAAQIAAxEhEiJBUTFCgf/aAAwDAQACEQMRAD8AyfT/AEtQRadoquqpY6yrnj3WmkQN0sTwAPAt8+b4S6h0+8WtMty/LY446atjZhC8qoN8tZRdvY+3PyMLdH6mzGhhaiSNJqSMsyb4IK8EkCx8X/nDrQ2pqWDXi5hqiekFPPQtDLvws0KCwZQUAN+R4+/ycR2rUKqikBuxx4+yaiMXzGS+jOowJ6vcp+4hqGmlje57h+ogBT4K9Njc2H1EG1uOZZ9TR96sUU6i7CNljKushFwwAFx/eMW4WR6SSfNu8SbL9ndG2rFjGykj6PJAAJsDew4F+MVf9R5KbM9V5xU5XWiSklk34ayxkUh0AIUn6m59zgzK1tTpoIJAub3HDY76i61JEIKtfEbaZo9Lw0VKs09X3b0/U4W7L4IPkfb/AHDWXLdJkRsz1dim2LoD1KfY3GDBjszqCu0ZHUKQQ2DJvxPIZImpTneeSRzpGGVpGsyr+Qftfj4xrubUmjRltTLSy1G+YGaMvFxcKej9J4vgwYVtHqJpkze5n//Z"
+/>
 
   

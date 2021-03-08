@@ -11,11 +11,11 @@ excerpt: Kommt Zeit, kommt Rat - Gewissheit kehrt häufig erst dann ein, wenn
 focusKeyword: Kommt Zeit kommt Rat
 labels:
   - Ansichtssache
+  - Geschichten & Erlebtes
   - Gewissheit
   - Kommt Zeit kommt Rat
   - Nachdenken
   - postives Denken
-  - Prosa
   - Prosa
   - Stimmung
   - Unsicherheit

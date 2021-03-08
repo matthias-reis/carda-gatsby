@@ -15,10 +15,10 @@ labels:
   - Alameda Gärten
   - Aloe Vera
   - Botanischer Garten
+  - Fernweh
   - Gibraltar
   - Klima & Umweltschutz
   - Oase
-  - Reisen
   - Sukkulenten
   - torffrei
 type: Galerie mit Bild

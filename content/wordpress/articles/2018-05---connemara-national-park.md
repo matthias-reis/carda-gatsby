@@ -10,13 +10,13 @@ excerpt: Im Connemara National Park erlebten wir bei sonnigem Wetter eine der
   schönsten Wanderungen unserer Irlandreise. Hier ist meine Fotostrecke.
 focusKeyword: Connemara
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
   - Connemara
   - Connemara National Park
+  - Fernweh
   - Ireland
   - Irland
   - Irland2017
-  - Reisen
   - Twelve Pins
   - Wandern
 type: Galerie

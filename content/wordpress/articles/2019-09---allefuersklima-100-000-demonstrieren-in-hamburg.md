@@ -11,7 +11,6 @@ excerpt: "100.000 Menschen streiken heute unter dem Motto #allefuersklima in
 focusKeyword: allefuersklima
 labels:
   - allefuersklima
-  - Darum vegan
   - fridaysforfuture
   - globaler Klimastreik
   - Hamburg
@@ -19,6 +18,7 @@ labels:
   - Klima & Umweltschutz
   - Klimaschutz
   - PETA zwei
+  - Tierrechte
   - Tierrechtsaktivistenbündnis
 type: Artikel
 typeName: Artikel
@@ -44,13 +44,12 @@ In den sozialen Medien brechen die Schlagzeilen mit Teilnehmerrekorden nicht ab.
 Das ist wirklich ganz großes Kino! Ein solch lauter Ruf nach echtem Klimaschutz
 kann von der Politik definitiv nicht mehr überhört werden.
 
-<RemoteImage
-  alt="allefuersklima"
-  size="medium"
-  title="Mit dem Tierrechtsaktivistenbündnis in Hamburg fürs Klima auf der Straße"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-20-allefuersklima-13__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-20-allefuersklima-13__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBgf/xAApEAACAgEEAQIGAwEAAAAAAAABAgMEEQAFEiETBjEUIkFRYZEVQqGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAAP/xAAiEQACAgIBAwUAAAAAAAAAAAABAgARAxIxBBTwFSEycdH/2gAMAwEAAhEDEQA/AMDsFQmaRnp2Wjr/ACyvXQuVflyzhAfpkZPXR+2qM23tFc2opcevNagM7hiMxqW5KhHWWIx0MnTPSO62N0js23czyzWCoBAz3jCnH1BJ/eddRXZ60zVfiNtrrNFCosHxoGZ+gCCCSxHE9/8ANN25IDbSD1EDM+AJYU82fycqrxT3au817cks58RghSvFyaWXKsxwP6hMsWPXWnG9Xh257RpXYrfzLIpVZOaBiUCJkFuhkkd9+2BpvqTet29N+tqnwtZFp1JWmRcMoBclWXIxkBMfjr7ayt3fp494exu0jLYqJLXjCQntAwCc8H5ft0Pr1rMjfEmV4XR1GULXn1KcG9rsdSZKtCvYPETIzgsVPMLxAH47P4OtPue77zuI838o0NVjx8lNOKSH3AzjIxk9e+jRoHI1AXAOkxbFtfc+ccSdRjWvUEErmfvkzSdljk+/7OoHrU1l2938TlZpY/PwbBcAMF/0jRo0oJ2ud6AFCf/Z" />
+<RemoteImage alt={`allefuersklima`} size="medium"
+title={`Mit dem Tierrechtsaktivistenbündnis in Hamburg fürs Klima auf der Straße`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-20-allefuersklima-13__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-20-allefuersklima-13__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBgf/xAApEAACAgEEAQIGAwEAAAAAAAABAgMEEQAFEiETBjEUIkFRYZEVQqGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAAP/xAAiEQACAgIBAwUAAAAAAAAAAAABAgARAxIxBBTwFSEycdH/2gAMAwEAAhEDEQA/AMDsFQmaRnp2Wjr/ACyvXQuVflyzhAfpkZPXR+2qM23tFc2opcevNagM7hiMxqW5KhHWWIx0MnTPSO62N0js23czyzWCoBAz3jCnH1BJ/eddRXZ60zVfiNtrrNFCosHxoGZ+gCCCSxHE9/8ANN25IDbSD1EDM+AJYU82fycqrxT3au817cks58RghSvFyaWXKsxwP6hMsWPXWnG9Xh257RpXYrfzLIpVZOaBiUCJkFuhkkd9+2BpvqTet29N+tqnwtZFp1JWmRcMoBclWXIxkBMfjr7ayt3fp494exu0jLYqJLXjCQntAwCc8H5ft0Pr1rMjfEmV4XR1GULXn1KcG9rsdSZKtCvYPETIzgsVPMLxAH47P4OtPue77zuI838o0NVjx8lNOKSH3AzjIxk9e+jRoHI1AXAOkxbFtfc+ccSdRjWvUEErmfvkzSdljk+/7OoHrU1l2938TlZpY/PwbBcAMF/0jRo0oJ2ud6AFCf/Z"
+/>
 
 In Hamburg mit dabei waren neben dem
 [Tierrechtsaktivistenbündnis](/2019/08/animal-rights-march-2019/), dem PETA zwei

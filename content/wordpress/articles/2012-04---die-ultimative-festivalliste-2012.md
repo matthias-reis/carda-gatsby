@@ -31,8 +31,7 @@ date: 2012-04-18T15:46:38.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "3000"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_04_p6210084__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_04_p6210084__l.jpg
@@ -40,6 +39,14 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Die Festivalsaison rückt wieder näher
   
 ---
+
+[Die ultimative FestivallisteJetzt runterladen und ausdrucken](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)
+
+**Auf vielfache Anfrage hin, habe ich mich entschlossen, auch in diesem Jahr
+wieder meine allseits beliebte Festivalliste zu veröffentlichen. Sie wurde
+natürlich wieder durch Dinge, die sich als praktisch erweisen konnten ergänzt,
+dafür wurde Unnötiges gestrichen, um das Rucksackgewicht so gering wie möglich
+zu halten.**
 
 Natürlich wurden Gegenstände, wie Bierfässer und Tische auch bei dieser neuen,
 überarbeiteten Version der Liste wieder weggelassen, wer jedoch mit dem Bully,
@@ -57,7 +64,7 @@ sengender Hitze vom Parkplatz zum Zeltplatz sollten der Vergangenheit angehören
 Es reicht, wenn man für den ersten Abend ausreichend ausgestattet ist. Auf den
 meisten größeren Festivals gibt es Supermarktstände, an denen man einiges
 erwerben kann. Auf dem Southside/Hurricane ist dort z.B. die Dose (eisgekühltes)
-Bier für 1,50 € zu haben. Was nicht wesentlich teurer ist, als warmes, von zu
+Bier für 1,50 € zu haben.  Was nicht wesentlich teurer ist, als warmes, von zu
 Hause mitgebrachtes Bier. Auch Einweggrills, Konservenlebensmittel, Crushed Ice
 und diverse alkoholfreie Getränke lassen sich dort preiswert erwerben. Es bleibt
 natürlich jedem selbst überlassen, was er zum Festival mitschleppt, doch man
@@ -117,7 +124,7 @@ EC-Automaten. 46.) Für Leute, die sich trotz allem gerne selbst mal was Warmes
 kochen möchten, seien an dieser Stelle diese beliebten asiatischen Tütensuppen,
 benannt nach dem Geräusch, das wir Mitteleuropäer ausstoßen, wenn uns etwas
 schmeckt, empfohlen. Sie lassen sich geschmacklich ganz leicht abwandeln, gehen
-auch gut als schnelles Frühstück durch und nehmen vor allem nicht allzu viel
+ auch gut als schnelles Frühstück durch und nehmen vor allem nicht allzu viel
 Platz im Rucksack weg. Dazu benötigt man dann natürlich auch: 47.) Einen
 Klappgaskocher (Achtung, erst mal nachfragen, wer schon alles einen dabei hat,
 für eine 5-köpfige Gruppe sollte ein Gaskocher auf jeden Fall reichen) Selbiges
@@ -133,13 +140,12 @@ dem Schlaf gerissen wurden.
 Natürlich würde mich jetzt noch interessieren, auf welchen Festivals Ihr dieses
 Jahr so unterwegs sein werdet! _ \_\_\_\_ _
 
-<RemoteImage
-  alt="Foto: cardamonchai Southside-Festival 2008"
-  size="full"
-  title="[ ](http://cardamonchai.files.wordpress.com/2012/04/p6210084.jpg)  Foto: cardamonchai Southside-Festival 2008"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2012/04/p6210084.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2012/04/p6210084.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Foto: cardamonchai Southside-Festival 2008`} size="full"
+title={`Foto: cardamonchai Southside-Festival 2008`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_04_p6210084__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_04_p6210084__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAQFBgcCAwj/xAApEAACAgEDAwIGAwAAAAAAAAABAgMRBAAGIQUSEyJhFBVBUXGBU7HR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAEAAv/EABsRAAICAwEAAAAAAAAAAAAAAAABBBECEjEy/9oADAMBAAIRAxEAPwCUL0Egh4Ssink9oAr9XpyxuhFlBDR/s1quX3DueNFOHnYMS9wI8+CGJFURfcP60im3zu+LJyMXPfp82A0TcpCqWLPpJN0SD+ONLU11QVw03Za8fS4/iPCrQSS/x+RSfv8AQ3pzOTmwBVlbwRKAqpbVX2A/3XOe48nce4emY8uQMWLASCVo4RKITGe5j3SdtBuBQ9qGml+p7jw9n4WDCsny3KkOZIcVXtSfSY2ItrFAiuBrnKVt6RsY2vGSGHNc0pdjxXqa9LoMoKBZNe2jRoA0zbJV0dWCsp5Ni7HvrS2Z2ilIX8caNGqRn//Z"
+/>
 
 Hier noch ein interessanter Link, es geht um verschiedene "Festivaltypen":
 

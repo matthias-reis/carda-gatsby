@@ -10,13 +10,12 @@ excerpt: In einer neuen Rubrik in meinem Blog wird sich ab jetzt alles ums Thema
   Online-Marketing drehen.
 focusKeyword: Online-Marketing
 labels:
-  - DIY
+  - Geschichten & Erlebtes
   - Kuddelmuddel
   - lernen
   - Marketing
   - Online
   - Online-Marketing
-  - Tagebuch
   - Workshop
 type: Artikel
 typeName: Artikel
@@ -33,7 +32,10 @@ subTitle: Neue Serie im Blog
   
 ---
 
-Da ich in Zukunft eine ganze Menge mit dem Thema Online-Marketing zu tun haben
+**In einer neuen Serie in meinem Blog wird sich ab jetzt alles ums Thema
+Online-Marketing drehen.**
+
+Da ich in Zukunft eine ganze Menge mit dem Thema Online-Marketing zu tun haben
 werde und es mir schon immer beim Lernen geholfen hat, Dinge aufzuschreiben,
 werde ich ab jetzt immer mal wieder Grundlagen und News aus diesem Bereich
 posten.

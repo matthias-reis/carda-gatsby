@@ -22,7 +22,7 @@ labels:
   - Münster
   - MUTINY ON THE BOUNTY
   - NRW
-  - Post Rock
+  - Post-Rock
   - Post-Rock Festival
   - Skaters Palace
 type: Artikel

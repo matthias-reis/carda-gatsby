@@ -13,21 +13,22 @@ excerpt: Werbung - Mein neuer Rucksack ist etwas ganz Besonderes. Unterstützt
   con Agua.
 focusKeyword: Ethnotek
 labels:
+  - Antifaschismus & Feminismus
   - Charity
   - Ethnotek
   - etktribe
+  - Fair Fashion & Beauty
   - fairtrade
   - Hamburg
   - Indien
   - Klima & Umweltschutz
-  - Mode & Beauty
-  - Politik & Soziales
   - Rucksack
   - Sanjay
   - Sankt Pauli
   - spenden
   - Surresh
-  - Vegane Produkte
+  - vegane Rucksäcke
+  - veganes Leder
   - Viva Con Agua
   - Viva con Agua de Sankt Pauli e. V.
   - Wasser
@@ -49,13 +50,11 @@ subTitle: Mein neuer Rucksack ist da
 
 _Werbung - selbst gekauft\*_
 
-<RemoteImage
-  alt="Ethnotek"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35375058272_c8fd42b964_k__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35375058272_c8fd42b964_k__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAwQI/8QAJRAAAgIBBAICAgMAAAAAAAAAAQIDBBEABRIhBkExUQeRcbHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIB/8QAHBEAAgIDAQEAAAAAAAAAAAAAAAERIQIDEkFR/9oADAMBAAIRAxEAPwDmirI7OAoJJPQHzqj+Col8WTNbki3CtGrQAAESgsBxLE9Y/rOp3tkTT2oYkdVd2wCxwBp036g3jW41DyWRJ66TK4XKM/Ycd9dEfB+9X1BnMjpWuR7RuG5UpVQyR2DnOWUD1gj56/zRrBavxxbtZa1Fmw8UDSK6rlSYlP8AHsaNImFRIUkrU9zjdQ1mvGwbGePLr4yPo6er/nj73stbYVpQwUUdZctgtzUHBH0Tk5PvU5BDUyhXhNA3Y+wT3+jjRVnMcikHsEEaBfR58LzV8Wi8l2bbt2ktTRWJoVjchuYbgqoPQwej7OjW/wDhy/K+zyUL4gaOKOK1XPYYJNzPFs/RQ/vRqWtk1kUnri8T/9k=" />
+<RemoteImage alt={`Ethnotek`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35375058272_c8fd42b964_k__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35375058272_c8fd42b964_k__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAwQI/8QAJRAAAgIBBAICAgMAAAAAAAAAAQIDBBEABRIhBkExUQeRcbHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIB/8QAHBEAAgIDAQEAAAAAAAAAAAAAAAERIQIDEkFR/9oADAMBAAIRAxEAPwDmirI7OAoJJPQHzqj+Col8WTNbki3CtGrQAAESgsBxLE9Y/rOp3tkTT2oYkdVd2wCxwBp036g3jW41DyWRJ66TK4XKM/Ycd9dEfB+9X1BnMjpWuR7RuG5UpVQyR2DnOWUD1gj56/zRrBavxxbtZa1Fmw8UDSK6rlSYlP8AHsaNImFRIUkrU9zjdQ1mvGwbGePLr4yPo6er/nj73stbYVpQwUUdZctgtzUHBH0Tk5PvU5BDUyhXhNA3Y+wT3+jjRVnMcikHsEEaBfR58LzV8Wi8l2bbt2ktTRWJoVjchuYbgqoPQwej7OjW/wDhy/K+zyUL4gaOKOK1XPYYJNzPFs/RQ/vRqWtk1kUnri8T/9k="
+/>
 
 **"Dein neuer Rucksack? Musst Du jetzt wirklich alles im Internet posten?" -
 Nein. Aber weil es sich bei diesem Rucksack um ein ganz besonderes Stück, besser
@@ -73,13 +72,11 @@ Würdigung und Weiterverbreitung verschiedener Kulturen beitragen.
 
 ## Ethnotek unterstützt Handwerker und Künstler
 
-<RemoteImage
-  alt="Ethnotek"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34733219753_20abdd994d_k__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34733219753_20abdd994d_k__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFBgMH/8QAKxAAAgAFAgUDBAMAAAAAAAAAAQIAAwQFERIhBhMxQVEHFKEicXKBkbHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/8QAGhEBAQADAQEAAAAAAAAAAAAAAQACESEDQf/aAAwDAQACEQMRAD8AncL+odym0hmVte+sMQummk4PjI05+YpXLj+5Ckn+1r3E4j6NVPKCA+dyWOfG0Y2loKFeC5NwWmEx5DS1mqdSnS4wDtjO+P5iVU1lMqHk2xBsdzryNvyhLp1EN1ao9Q+I+eyvcZMojsaWWf8AII8xqJ08zcooOQDlhkn9nr3gh8s7aGw36alprrZLpxUPMTZ5jkCVlgdSgAkntvHWbV10xcKiA4x1c/0ISncLXKlqqh6NkAJ0oQzZZB0ydwCfHbEKz7RftI1BjnuZu3wIlkjME+SVptNxvfNFtVW5AVX1zAMZzjGfsYIaThm5TpXK9xb6cI5fLM6sxYDO4G4GnoemT5gib6Zb41TATpf/2Q==" />
+<RemoteImage alt={`Ethnotek`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34733219753_20abdd994d_k__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34733219753_20abdd994d_k__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFBgMH/8QAKxAAAgAFAgUDBAMAAAAAAAAAAQIAAwQFERIhBhMxQVEHFKEicXKBkbHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/8QAGhEBAQADAQEAAAAAAAAAAAAAAQACESEDQf/aAAwDAQACEQMRAD8AncL+odym0hmVte+sMQummk4PjI05+YpXLj+5Ckn+1r3E4j6NVPKCA+dyWOfG0Y2loKFeC5NwWmEx5DS1mqdSnS4wDtjO+P5iVU1lMqHk2xBsdzryNvyhLp1EN1ao9Q+I+eyvcZMojsaWWf8AII8xqJ08zcooOQDlhkn9nr3gh8s7aGw36alprrZLpxUPMTZ5jkCVlgdSgAkntvHWbV10xcKiA4x1c/0ISncLXKlqqh6NkAJ0oQzZZB0ydwCfHbEKz7RftI1BjnuZu3wIlkjME+SVptNxvfNFtVW5AVX1zAMZzjGfsYIaThm5TpXK9xb6cI5fLM6sxYDO4G4GnoemT5gib6Zb41TATpf/2Q=="
+/>
 
 Wenn Ihr eine Tasche oder einen Rucksack aus aus dem Hause _Ethnotek_ kauft,
 unterstützt Ihr damit direkt Handwerker und Künstler in Ghana, Guatemala,
@@ -104,13 +101,11 @@ auch für bewusstes, faires Einkaufen sowie faire Produktion und fairen Handel.
 
 ## Viva con Agua grey - mein Rucksack
 
-<RemoteImage
-  alt="Ethnotek"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34701106804_d43fad1a24_k__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34701106804_d43fad1a24_k__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBQb/xAAqEAACAQIFAwIHAQAAAAAAAAABAgMEEQAFBhIhFDFBEyIHFTNRYXGBof/EABcBAQADAAAAAAAAAAAAAAAAAAMAAQL/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADESEiceFB/9oADAMBAAIRAxEAPwCe6etklrPUd3lIPDOSeP7ht6DmzKSMS5SjySqu9WiJXafHu/lrXub+cKfQ1DHmGr8poZ43khqZ1RlVtp2883P2tfFFaRraaip2pqgU6VFHI8TRq27lD+rG/fjDGz5DFesidjlFBU1MklbR9SqVMUbuha21/dccH9d8GDRElNSR1Y3P0U2yelDAoVRt3tI73BFucGMFpeJImeZT8ty/J6kVMDyyK8ckSE74mBv7uOL3457DG3pPU8GXNGKqOdlUholiYABjxY37C5vfnt2xtfFpYenhoaKL1KtD1TrEv04gCNx+17/5heZRkmbZv6YoqOZ0LAGQLwAfP5wavldxTo6j7p9UM7M+c1+26gRQhiqxgXvYKfPHJJJt4wY6zQmk8iybJFirGaatdt01VK9mlPgC97KPA/JwYNnsB4gEd+SLWjDLMQevZ//Z" />
+<RemoteImage alt={`Ethnotek`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34701106804_d43fad1a24_k__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34701106804_d43fad1a24_k__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBQb/xAAqEAACAQIFAwIHAQAAAAAAAAABAgMEEQAFBhIhFDFBEyIHFTNRYXGBof/EABcBAQADAAAAAAAAAAAAAAAAAAMAAQL/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADESEiceFB/9oADAMBAAIRAxEAPwCe6etklrPUd3lIPDOSeP7ht6DmzKSMS5SjySqu9WiJXafHu/lrXub+cKfQ1DHmGr8poZ43khqZ1RlVtp2883P2tfFFaRraaip2pqgU6VFHI8TRq27lD+rG/fjDGz5DFesidjlFBU1MklbR9SqVMUbuha21/dccH9d8GDRElNSR1Y3P0U2yelDAoVRt3tI73BFucGMFpeJImeZT8ty/J6kVMDyyK8ckSE74mBv7uOL3457DG3pPU8GXNGKqOdlUholiYABjxY37C5vfnt2xtfFpYenhoaKL1KtD1TrEv04gCNx+17/5heZRkmbZv6YoqOZ0LAGQLwAfP5wavldxTo6j7p9UM7M+c1+26gRQhiqxgXvYKfPHJJJt4wY6zQmk8iybJFirGaatdt01VK9mlPgC97KPA/JwYNnsB4gEd+SLWjDLMQevZ//Z"
+/>
 
 Nachdem ich zum Geburtstag ein Bisschen Extrageld geschenkt bekommen hatte, war
 es für mich endlich soweit: Ich bestellte meinen persönlichen Ethnotek Rucksack.
@@ -133,13 +128,11 @@ anzuschließen, um dort die Handwerkstraditionen seiner Familie weiterzuführen.
 
 ## Unter dem Hashtag #etktribe stehen die Weber in Kontakt mit den Endkunden
 
-<RemoteImage
-  alt="Ethnotek"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34701105364_50238d3615_k__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34701105364_50238d3615_k__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAAqEAACAQMCBAYCAwAAAAAAAAABAgMEBREAEgYTMUEUISIyUWFxoSNigf/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EAB0RAAICAgMBAAAAAAAAAAAAAAABAhEDIQRRsdH/2gAMAwEAAhEDEQA/AO5d6i23WajlmutKzqSkoSRQMFR1x7fbgfnW1uobbSTzvS1B3CYtF/KCJIyp9Sf1J79sH61COF7zxBS3Ke5W+WadkRYm5YHqXIAG3uBp9PEd+q4H5lHNGrghk2RxhgR5jI9X70zhC9mcYOihmuujk+DrFG0BTteHOMDGQ2cd/wDc/GjU+4cuFr8XcfGybQGQIsh9Q8sn9nRq1x+n79ByonvA1yiWsqKJjBFRTBonNRIEVQw92T0IxkfY1rba2icxGWr8zjIDL10qV1ouNqusRlpJJVhXO9UJWQHOCCPnr9dDrq2+sr5JFSmtMplYjaArkk/gDUXZvQ2UF5gt08009IjLVJE6s/mpwmDtJHTORjtjRpi4Vnq6K2rb+JuFKqshps8gTU2/lyMzGQKQR6ccv5Gdx76NU88VpoFgctpn/9k=" />
+<RemoteImage alt={`Ethnotek`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34701105364_50238d3615_k__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34701105364_50238d3615_k__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAAqEAACAQMCBAYCAwAAAAAAAAABAgMEBREAEgYTMUEUISIyUWFxoSNigf/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EAB0RAAICAgMBAAAAAAAAAAAAAAABAhEDIQRRsdH/2gAMAwEAAhEDEQA/AO5d6i23WajlmutKzqSkoSRQMFR1x7fbgfnW1uobbSTzvS1B3CYtF/KCJIyp9Sf1J79sH61COF7zxBS3Ke5W+WadkRYm5YHqXIAG3uBp9PEd+q4H5lHNGrghk2RxhgR5jI9X70zhC9mcYOihmuujk+DrFG0BTteHOMDGQ2cd/wDc/GjU+4cuFr8XcfGybQGQIsh9Q8sn9nRq1x+n79ByonvA1yiWsqKJjBFRTBonNRIEVQw92T0IxkfY1rba2icxGWr8zjIDL10qV1ouNqusRlpJJVhXO9UJWQHOCCPnr9dDrq2+sr5JFSmtMplYjaArkk/gDUXZvQ2UF5gt08009IjLVJE6s/mpwmDtJHTORjtjRpi4Vnq6K2rb+JuFKqshps8gTU2/lyMzGQKQR6ccv5Gdx76NU88VpoFgctpn/9k="
+/>
 
 Über den Hashtag **#etktribe** bleiben Suresh und Sanjay mit _Ethnotek_ Kunden
 auf der ganzen Welt verbunden. Von jedem verkauften Produkt ihrer Kollektion
@@ -149,7 +142,7 @@ _Viva con Agua de Sankt Pauli e.V._ ist ein gemeinnütziger Verein, der sich
 dafür einsetzt, dass alle Menschen weltweit Zugang zu sauberem Trinkwasser
 haben. Um dieses Ziel zu erreichen, unterstützt der Verein weltweit
 Wasserprojekte und ruft immer wieder Aktionen ins Leben. So sammelt  _Viva con
-Agua_ zum Beispiel auf [Festivals](/category/musik/festivals/) und
+Agua_ zum Beispiel auf [Festivals](/category/rock-n-roll/festivals/) und
 Großveranstaltungen Pfandbecher. Der Erlös kommt den Projekten zugute. Wer
 möchte, kann sich auf der _Viva con Agua_
 [Homepage](http://www.vivaconagua.org/) über Fördermitgliedschaften und Projekte

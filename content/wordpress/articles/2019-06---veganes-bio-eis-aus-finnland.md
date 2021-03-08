@@ -16,6 +16,8 @@ labels:
   - Eis
   - Eis aus Finnland
   - Eis essen
+  - Ernährung
+  - Ernährung & Gesundheit
   - Finnland
   - Heidelbeeren
   - Jymy
@@ -25,7 +27,7 @@ labels:
   - Speiseeis
   - Suomi
   - Suomisen Maito
-  - Vegane Produkte
+  - vegane Ernährung
   - veganes Eis
 type: Artikel
 typeName: Artikel
@@ -99,7 +101,7 @@ Hersteller "finnischste Eisgeschmack aller Zeiten".
 Finnland besitzt auf dem Gebiet der Lebensmittelqualität eine bedeutende
 Sonderstellung. Das Fundament dafür bilden schonende Anbau- und
 Produktionsverfahren sowie Umweltschutz und
-[Tierschutz](/category/gesellschaft/tierschutz/). So sind zum Beispiel das
+[Tierschutz](/category/vegan/tierrechte/). So sind zum Beispiel das
 Flügelstutzen und das Kupieren von Schweineschwänzen bereits seit dem Jahr 2003
 gesetzlich verboten.
 

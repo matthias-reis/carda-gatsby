@@ -13,10 +13,10 @@ focusKeyword: Las Vegas
 labels:
   - Arucas
   - Bananen
+  - Fernweh
   - Gran Canaria
   - Las Vegas
   - Las Vegas Gran Canaria
-  - Reisen
   - Reisen
   - Spanien
 type: Galerie

@@ -18,10 +18,13 @@ labels:
   - Bierbrot
   - Brot
   - Brot aus dem Römertopf
+  - Brot Rezept
   - Römertopf
   - vegan
   - vegan backen
+  - vegane Rezepte
   - Vegane Rezepte
+  - veganes Brot
   - Vollkorn
 type: Artikel
 typeName: Artikel
@@ -63,11 +66,11 @@ richtig großartig!
 ## Zubereitung
 
 Zunächst stellt Ihr Euren Backofen auf 50 Grad (Umluft) ein. Dann löst Ihr die
-Hefe zusammen mit dem Salz im warmen Wasser auf. Rührt alles schön mit der Gabel
-um, damit eine homogene Masse entsteht. Vermengt die verschiedenen Mehlsorten
-und das Schrot in einer großen Backschüssel. In der Mitte formt Ihr mit der Hand
-eine kleine Kuhle. Dort packt Ihr Euer vorbereitetes Hefegemisch rein. Gebt das
-Bier und das Malz hinzu.
+[Hefe](/2021/01/hefe-ist-vegan/) zusammen mit dem Salz im warmen Wasser auf.
+Rührt alles schön mit der Gabel um, damit eine homogene Masse entsteht. Vermengt
+die verschiedenen Mehlsorten und das Schrot in einer großen Backschüssel. In der
+Mitte formt Ihr mit der Hand eine kleine Kuhle. Dort packt Ihr Euer
+vorbereitetes Hefegemisch rein. Gebt das Bier und das Malz hinzu.
 
 Jetzt kommt Euer Rührgerät mit den Knethaken zum Einsatz. Vermengt alles schön,
 bis kein Teig mehr am Rand kleben bleibt. Ganz zum Schluss gebt Ihr noch die

@@ -13,7 +13,7 @@ labels:
   - Age Perfect
   - Aloe Vera
   - Cashew
-  - Mode & Beauty
+  - Fair Fashion & Beauty
   - Naturkosmetik
   - Regenwald
   - Santaverde
@@ -21,7 +21,6 @@ labels:
   - tonisieren
   - vegan beauty
   - vegane Kosmetik
-  - Vegane Produkte
   - XINGU
 type: Artikel
 typeName: Produkttest
@@ -30,7 +29,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Unterminated JSX contents (75:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (71:16)"
 thumbnailId: "22909"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-05__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-05__l.jpg
@@ -39,7 +38,7 @@ subTitle: XINGU Age Perfect Toner
   
 ---
 
-## unknown: Unterminated JSX contents (75:16)
+## unknown: Unterminated JSX contents (71:16)
 
 <!--
 _Werbung\*_
@@ -49,13 +48,11 @@ der Basis natürlicher Aloe Vera sehr gerne und habe schon diverse Male darüber
 berichtet. Jetzt gibt es eine neue Age Perfect Reihe mit Extrakten aus dem
 brasilianischen Regenwald. Den Toner habe ich getestet.**
 
-<RemoteImage
-  alt="santaverde-xingu"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-07__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-07__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQAGBP/EACsQAAEEAQQBAgQHAAAAAAAAAAECAwQRAAUSITEGIlETM0GBByRSccHC8P/EABcBAAMBAAAAAAAAAAAAAAAAAAEEBgL/xAAlEQABAwIDCQAAAAAAAAAAAAABAAIDESEEQaEFEiJRYbHR8PH/2gAMAwEAAhEDEQA/ACfDvHWNR1Nph6UtFsqW062EqUaqxftVn9xmqg/h7GYRJhxNefL7Z3q/LoLjW8d3fG4fwexeAeN79I1fT5xUBp0Xh1lpq1JbKSCRzZ76GbKPrbcabI1dwvGHIFkBklWwhIR6e74HfVnrFpWRgguzVLtfDSvn3mVFtelPq5mfAmY7aGVag45E3bnG/ghK3OAAlTgN7R7Crs4Pqfhvw2ShEqEluhYTp6QTRvn1fY++auR5XpwB9ErjigEH+2CzfKdNdJSUy0JA9S1NApQOrNE0LIH3wtZGwWU8wyCgFdVndEkIU2xDVubZI2kpHzEgfqSRsOMKDMqJIMt5MWMr5luhSkddkGr6yyxkxtkLQ726vZowQScvFUdPhs00pmVOkMPqKwthpCkIv6nkf4YVqEdtkTEOSkKad2gAM/RKkkg2T3tGWWF0bW2AWIsHCeKnLsv/2Q==" />
+<RemoteImage alt={`santaverde-xingu`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-07__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-07__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQAGBP/EACsQAAEEAQQBAgQHAAAAAAAAAAECAwQRAAUSITEGIlETM0GBByRSccHC8P/EABcBAAMBAAAAAAAAAAAAAAAAAAEEBgL/xAAlEQABAwIDCQAAAAAAAAAAAAABAAIDESEEQaEFEiJRYbHR8PH/2gAMAwEAAhEDEQA/ACfDvHWNR1Nph6UtFsqW062EqUaqxftVn9xmqg/h7GYRJhxNefL7Z3q/LoLjW8d3fG4fwexeAeN79I1fT5xUBp0Xh1lpq1JbKSCRzZ76GbKPrbcabI1dwvGHIFkBklWwhIR6e74HfVnrFpWRgguzVLtfDSvn3mVFtelPq5mfAmY7aGVag45E3bnG/ghK3OAAlTgN7R7Crs4Pqfhvw2ShEqEluhYTp6QTRvn1fY++auR5XpwB9ErjigEH+2CzfKdNdJSUy0JA9S1NApQOrNE0LIH3wtZGwWU8wyCgFdVndEkIU2xDVubZI2kpHzEgfqSRsOMKDMqJIMt5MWMr5luhSkddkGr6yyxkxtkLQ726vZowQScvFUdPhs00pmVOkMPqKwthpCkIv6nkf4YVqEdtkTEOSkKad2gAM/RKkkg2T3tGWWF0bW2AWIsHCeKnLsv/2Q=="
+/>
 
 Meinen [Lieblingstoner](/2018/01/santaverde/) gibt es jetzt in einer neuen
 Ausführung! Das war ja klar, dass ich den ausprobieren muss. In der Produktlinie
@@ -99,13 +96,11 @@ Wie in allen Santaverde-Produkten stecken auch im "XINGU Age Perfect Toner"
 ausschließlich ausgewählte Zutaten aus biologischem Anbau. Hier die komplette
 Liste
 
-<RemoteImage
-  alt="santaverde-xingu"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-08__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-08__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAArEAACAQMDAgUDBQAAAAAAAAABAgMEBREAEiEGEyIxQXGBMmGRFBYjUrH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwEEBQb/xAAlEQABAwIEBwEAAAAAAAAAAAABAAIRAwQUQVHwEhMhIiMxgZH/2gAMAwEAAhEDEQA/AENo6Mrr1ZaeWmrqZE7hDR1G5jhT9DEDkeXuNVP7Ir99Nmst8dLAysQdwYnjw78eQ5AOM8459cnQ19p7VRVFPd2MDvN3YAgaTeu3xYOMcbQdUd5u9FeLYaO2zvIxYO7NTSLtA+kjcoB5wftgaqVGUwTxLYu6Fw64eGzE/APY/EoqOhqqVi9XVU0zh9yxZdI4wDwMAHdxnJPxqe6o6dlttueqqBSuocKzRu+7LHAAUjHzn010Oq6tsyJmtrBBMB/KrQS4VvXnbg8/fUb11e6G62mCntU/6l3mWUhUIBQBsNyPLdxoxAgjNNtMZiGh5dBPWZgrDZ7osarO67ikna27WO1fXaFHi9z+dPpp5JZAoaaWQeLvNtRAP68Hn8fOjRptVgLY1XQBvM7TvcId3WIyVlc0YRj4I5F7ZTjG/cPP20hvl0hWkaSCIVEZOMUwU/5o0aKm0FonJS7xyG6L/9k=" />
+<RemoteImage alt={`santaverde-xingu`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-08__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-08__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAArEAACAQMDAgUDBQAAAAAAAAABAgMEBREAEiEGEyIxQXGBMmGRFBYjUrH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwEEBQb/xAAlEQABAwIEBwEAAAAAAAAAAAABAAIRAwQUQVHwEhMhIiMxgZH/2gAMAwEAAhEDEQA/AENo6Mrr1ZaeWmrqZE7hDR1G5jhT9DEDkeXuNVP7Ir99Nmst8dLAysQdwYnjw78eQ5AOM8459cnQ19p7VRVFPd2MDvN3YAgaTeu3xYOMcbQdUd5u9FeLYaO2zvIxYO7NTSLtA+kjcoB5wftgaqVGUwTxLYu6Fw64eGzE/APY/EoqOhqqVi9XVU0zh9yxZdI4wDwMAHdxnJPxqe6o6dlttueqqBSuocKzRu+7LHAAUjHzn010Oq6tsyJmtrBBMB/KrQS4VvXnbg8/fUb11e6G62mCntU/6l3mWUhUIBQBsNyPLdxoxAgjNNtMZiGh5dBPWZgrDZ7osarO67ikna27WO1fXaFHi9z+dPpp5JZAoaaWQeLvNtRAP68Hn8fOjRptVgLY1XQBvM7TvcId3WIyVlc0YRj4I5F7ZTjG/cPP20hvl0hWkaSCIVEZOMUwU/5o0aKm0FonJS7xyG6L/9k="
+/>
 
 <ul>
     <li>Aloe Vera Saft*

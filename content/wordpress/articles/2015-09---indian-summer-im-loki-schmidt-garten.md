@@ -42,8 +42,12 @@ subTitle: Bienen und Hagebutten im Sonnenlicht
   
 ---
 
+**Nicht nur in voller Blüte oder als Knospe sehen Rosen toll aus. Auch ihre
+Hagebutten sind von wilder Schönheit. Wusstet Ihr, dass jede Rosensorte ihre
+ganz eigenen, für sie charakteristischen Hagebutten hervorbringt?**
+
 Die wenigstens sind übrigens orange und auch in der Form unterscheiden sie sich
-stark. Im Botanischen Garten gibt es im Herbst natürlich noch vieles mehr zu
+stark. Im Botanischen Garten gibt es im Herbst natürlich noch vieles mehr zu
 sehen. Es tummeln sich dort z. B. auch jede Menge
 [Bienen](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) und
 Hummeln.
@@ -52,8 +56,9 @@ Hier sind meine Eindrücke aus dem Loki Schmidt Garten
 
 <Gallery name="flickr/annelokischmidtgarten2015" />
 
-## Wegweiser Loki Schmidt Garten1. Indian Summer
+## Wegweiser Loki Schmidt Garten
 
+1.  Indian Summer
 1.  [Spätsommer](/2016/08/spaetsommer-loki-schmidt-garten/)
 1.  [Frühlingsboten](/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/)
 1.  [Erster Mai](/2018/05/erster-mai-gegensaetze/)

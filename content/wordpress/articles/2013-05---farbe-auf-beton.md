@@ -10,10 +10,6 @@ excerpt: In München habe ich vor Kurzem ein paar bunte Momentaufnahmen gemacht,
   die ich gerne mit Euch teilen möchte.
 focusKeyword: ""
 labels:
-  - Anne Reko Bilder
-  - Anne Reko Foto
-  - Anne Reko Fotos
-  - Anne Reko Instagram
   - Ausflug
   - Beton
   - bunt
@@ -46,8 +42,5 @@ subTitle: Gesehen und fotografiert in München
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4763__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4763__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4766__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4766__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4769__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4769__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4771__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4771__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4774__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4774__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4780__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4780__l.jpg"}]}
 />
-
-**Noch mehr bunte Momentaufnahmen von mir findet Ihr
-[hier](http://instagram.com/anne_reko/) !**
 
   

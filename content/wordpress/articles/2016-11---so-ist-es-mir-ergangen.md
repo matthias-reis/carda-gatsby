@@ -16,8 +16,8 @@ labels:
   - Blog
   - Bloggerin
   - Friede Freude Eierkuchen
+  - Geschichten & Erlebtes
   - Redakteurin
-  - Tagebuch
   - Tagebuch
 type: Artikel
 typeName: Artikel
@@ -34,13 +34,11 @@ subTitle: Eine Seite aus dem Tagebuch
   
 ---
 
-<RemoteImage
-  alt="Tagebuch"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_29611318381_0d404d3b27_z-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_29611318381_0d404d3b27_z-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAcD/8QAKRAAAgEDAwIGAgMAAAAAAAAAAQIDBAURABIhBhMVIjFBUXEyUmFigf/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAhEQACAgEDBQEAAAAAAAAAAAABAgAR8AMhMRITIkFRYf/aAAwDAQACEQMRAD8Aym83CottzenmLHs/r7DHr8fHOtN6Ivtun6T8Su1QaeOaV4Ie4jM0yIV3lAoJYDgZxxjGk/USUN2iQeFwVc0cohi4xuyfMT/XHt9adrT1K2qzS3KHFFT1fYSjiO1URxhQ20ZPnxwAfUcaTo7T3JgBx+x307dKW9V0yWunrXwkjs8qNCNpK7ioYZYjk4+CNPJ2EfbkUhkypwoAJB8xzx9ahJ3npp4KOdqRYZEaFq1RFEgf14zlsKduPo41UnZ6GhjineGqUMCk8QfaUL8KNxycbvX341bxdQQKrLiNptptRNg5UQWqlho6anSJBlUDbz+RLevP0MaudVsF6MqjsUsq7wSMjcrBgcH+QDo0awbm4es+xJYOpbhfsiiFNQCnp2IlaETzELIBgM2FGc/p7DXS4Sz0NXBUyVVVWVMrhDNUzF2A7kZ8o/Ff8A0aNKp3lG5rOJ//2Q==" />
+<RemoteImage alt={`Tagebuch`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_29611318381_0d404d3b27_z-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_29611318381_0d404d3b27_z-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAcD/8QAKRAAAgEDAwIGAgMAAAAAAAAAAQIDBAURABIhBhMVIjFBUXEyUmFigf/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAhEQACAgEDBQEAAAAAAAAAAAABAgAR8AMhMRITIkFRYf/aAAwDAQACEQMRAD8Aym83CottzenmLHs/r7DHr8fHOtN6Ivtun6T8Su1QaeOaV4Ie4jM0yIV3lAoJYDgZxxjGk/USUN2iQeFwVc0cohi4xuyfMT/XHt9adrT1K2qzS3KHFFT1fYSjiO1URxhQ20ZPnxwAfUcaTo7T3JgBx+x307dKW9V0yWunrXwkjs8qNCNpK7ioYZYjk4+CNPJ2EfbkUhkypwoAJB8xzx9ahJ3npp4KOdqRYZEaFq1RFEgf14zlsKduPo41UnZ6GhjineGqUMCk8QfaUL8KNxycbvX341bxdQQKrLiNptptRNg5UQWqlho6anSJBlUDbz+RLevP0MaudVsF6MqjsUsq7wSMjcrBgcH+QDo0awbm4es+xJYOpbhfsiiFNQCnp2IlaETzELIBgM2FGc/p7DXS4Sz0NXBUyVVVWVMrhDNUzF2A7kZ8o/Ff8A0aNKp3lG5rOJ//2Q=="
+/>
 
 **Euch ist vielleicht aufgefallen, dass ich lange Zeit nicht besonders viel
 gebloggt habe.**

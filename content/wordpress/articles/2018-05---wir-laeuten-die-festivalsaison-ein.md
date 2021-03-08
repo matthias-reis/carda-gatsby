@@ -12,14 +12,12 @@ excerpt: Wir werden morgen die Festivalsaison einläuten, indem wir uns auf den
 focusKeyword: Festivalsaison
 labels:
   - Bands
-  - Dunk
-  - DUNK! Belgien
-  - Dunkfestival
+  - DUNK! Records
   - Festival
   - Festivals
   - Festivalsaison
   - Musik
-  - Post Rock
+  - Post-Rock
   - Postrock
   - Sommer
   - Zottegem
@@ -42,13 +40,11 @@ subTitle: Kurze Auszeit
 [DUNK!festival 2018](/2018/04/dunkfest-2018-wir-kommen/) machen. Für den Blog
 bedeutet das eine kurze Auszeit.**
 
-<RemoteImage
-  alt="Dunk!festival"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34984028381_15860917b1_k__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34984028381_15860917b1_k__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHAwT/xAApEAABAwQBAwIHAQAAAAAAAAABAgMRAAQFIRIGMUFRgRMUFSIycZHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMBBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAgMRMSH/2gAMAwEAAhEDEQA/AN8bjLZ1RL7FsSAPvKNRPrTv6VjWTBt7T4k8YSiSSdwADPassZfDhzbTyIHY6mPE13NOG3QZStStltYHIEKVM67HcH9V1NA0R5rHYti1St5plDU9kGNkToTvRmpD1f08lpxxfy6m1bCk85g/yrldJYs0rUlKlDjtZgkACe/gT4qU9e5MOKcQ2QUndGTUV6HHLg5tsi7bqCvzQVRxJ9/9pqc/cW8tgFQLYUDI1312ooqiMYty2duFtrTuOAmTIM+1S/qC6cccWvQHgem6KKheuDqP/9k=" />
+<RemoteImage alt={`Dunk!festival`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34984028381_15860917b1_k__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34984028381_15860917b1_k__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHAwT/xAApEAABAwQBAwIHAQAAAAAAAAABAgMRAAQFIRIGMUFRgRMUFSIycZHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMBBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAgMRMSH/2gAMAwEAAhEDEQA/AN8bjLZ1RL7FsSAPvKNRPrTv6VjWTBt7T4k8YSiSSdwADPassZfDhzbTyIHY6mPE13NOG3QZStStltYHIEKVM67HcH9V1NA0R5rHYti1St5plDU9kGNkToTvRmpD1f08lpxxfy6m1bCk85g/yrldJYs0rUlKlDjtZgkACe/gT4qU9e5MOKcQ2QUndGTUV6HHLg5tsi7bqCvzQVRxJ9/9pqc/cW8tgFQLYUDI1312ooqiMYty2duFtrTuOAmTIM+1S/qC6cccWvQHgem6KKheuDqP/9k="
+/>
 
 Seid Ihr auch so glücklich, dass der Sommer endlich da ist? Das schöne Wetter
 bringt ein paar wundervolle Aktivitäten mit sich, auf die wir über den Winter

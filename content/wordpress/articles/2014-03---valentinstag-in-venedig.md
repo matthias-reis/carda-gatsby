@@ -11,9 +11,9 @@ excerpt: Zum 14. Februar reisten wir nach Italien. Genauer gesagt nach Venedig.
 focusKeyword: Venedig
 labels:
   - Anreise Venedig
+  - Fernweh
   - Liebe
   - Reise Venedig
-  - Reisen
   - Romantik
   - Romantisch
   - Valentinstag
@@ -41,6 +41,12 @@ subTitle: von Sonne, Kunst und bunten Masken
   
 ---
 
+**Am 14. Februar reisten der Herzmann und ich nach Italien. Genauer gesagt nach
+Venedig. Zu diesem tollen Ausflug waren wir durch Zufall gekommen. Ein guter
+Freund hatte einen Hotelaufenthalt vom 14. bis zum 17. Februar in Venedig für
+sich und seine Ehefrau in spe geplant, dabei aber ganz vergessen, dass er in
+diesem Zeitraum eine Prüfung schreiben musste.**
+
 Natürlich sagte ich sofort zu, als er mir die Buchung für kleines Geld anbot. So
 ein tolles romantisches Valentinstagsgeschenk wollte ich mir natürlich auf
 keinen Fall entgehen lassen. Und Venedig wollte ich sowieso schon immer mal
@@ -48,49 +54,46 @@ sehen. Matze war vorher schon mal dort gewesen hatte und nur Gutes zu berichten
 gehabt. Also wurden flugs 2 Tage Urlaub eingereicht und schon konnte es
 losgehen.
 
-<RemoteImage
-  alt="Valentinstag in Venedig"
-  size="medium"
-  title=""
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12592322183_aaf4a48dfd_z.jpg?w=225"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12592322183_aaf4a48dfd_z.jpg?w=225"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Valentinstag in Venedig`} size="medium" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12599971294_3a8efac82b_z.jpg?w=100"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12599971294_3a8efac82b_z.jpg?w=100"
+loadingUrl="undefined" />
 
-[](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/) Nachdem
-uns die Zugfahrt zu beschwerlich erschien und wir gehört hatten, dass man kurz
-vor Venedig bequem parken kann, entschieden wir uns, die Anreise mit dem Auto
-anzutreten. Ein kleines Abenteuer, denn unser Navi führte uns komplett über
-Landstraßen durch die Alpen.
+[](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
+
+Nachdem uns die Zugfahrt zu beschwerlich erschien und wir gehört hatten, dass
+man kurz vor Venedig bequem parken kann, entschieden wir uns, die Anreise mit
+dem Auto anzutreten. Ein kleines Abenteuer, denn unser Navi führte uns komplett
+über Landstraßen durch die Alpen.
 
 In Venedig angekommen, stellten wir das Auto in
 [Tronchetto](http://de.wikipedia.org/wiki/Tronchetto) in einem großen Parkhaus
 ab und stiegen das erste Mal in einen dieser für Venedig typischen Wassertaxis,
-genannt [Vaporetti](http://de.wikipedia.org/wiki/Vaporetto), welches uns direkt
+genannt  [Vaporetti](http://de.wikipedia.org/wiki/Vaporetto), welches uns direkt
 zum [Piazza San Marco](http://de.wikipedia.org/wiki/Markusplatz) und somit ins
 Zentrum Venedigs brachte. Natürlich fotografierten wir bereits auf dem Weg dort
 hin als würde es kein Morgen geben.
 
-<RemoteImage
-  alt="Valentinstag in Venedig"
-  size="medium"
-  title=""
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12598643153_7fb1731ece_z.jpg?w=200"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12598643153_7fb1731ece_z.jpg?w=200"
-  loadingUrl="undefined" />
-
 In einer kleinen Gasse direkt an der Piazza ist das
-[Hotel Commercio e Pellegrino](http://www.commercioepellegrino.com/de/) gelegen,
-in dem wir die nächsten beiden Nächte verbrachten. Das Hotel ist schnuckelig
-klein, gemütlich und es gibt ein tolles Frühstücksbuffet. Außerdem ist es
-natürlich der ideale Ausgangspunkt für eine Venedigbesichtigung, mit der wir
-natürlich sofort loslegten, nachdem wir unsere Rucksäcke im Zimmer abgestellt
-hatten.
+[Hotel Commercio e Pellegrino](http://www.commercioepellegrino.com/de/)
+ gelegen, in dem wir die nächsten beiden Nächte verbrachten. Das Hotel ist
+schnuckelig klein, gemütlich und es gibt ein tolles Frühstücksbuffet. Außerdem
+ist es natürlich der ideale Ausgangspunkt für eine Venedigbesichtigung, mit der
+wir natürlich sofort loslegten, nachdem wir unsere Rucksäcke im Zimmer
+abgestellt hatten.
 
-## Venedig erkunden [](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/) Mit dem Vaporetto erkundeten wir jeden Winkel der Stadt, am Abend aßen wir Spaghetti mit Muscheln direkt "aus dem Keller der Stadt", am nächsten Tag besichtigten wir die weltberühmte, wundervolle [Peggy Guggenheim Collection](http://www.guggenheim-venice.it/), die ich hiermit jedem ans Herz legen möchte, der vor hat, eines Tages die schöne Stadt im Mittelmeer zu bereisen.
+## Venedig erkunden
+
+Mit dem Vaporetto erkundeten wir jeden Winkel der Stadt, am Abend aßen wir
+Spaghetti mit Muscheln direkt "aus dem Keller der Stadt", am nächsten Tag
+besichtigten wir die weltberühmte, wundervolle
+[Peggy Guggenheim Collection](http://www.guggenheim-venice.it/), die ich hiermit
+jedem ans Herz legen möchte, der vor hat, eines Tages die schöne Stadt im
+Mittelmeer zu bereisen.
 
 Beim Schlendern durch die Gassen und über die Brückchen Venedigs bekamen wir
 bereits die ersten Ausläufer des
-[Karnevals](http://de.wikipedia.org/wiki/Karneval_in_Venedig) zu sehen, der
+[Karnevals](http://de.wikipedia.org/wiki/Karneval_in_Venedig)  zu sehen, der
 jedoch in keinster Weise mit dem chaotischen Treiben hierzulande zu vergleichen
 ist. In Venedig geht es da etwas ernster zu.
 
@@ -101,18 +104,9 @@ Ich hatte mir spannend vorgestellt. Wie in
 "[Wenn die Gondeln Trauer tragen](http://de.wikipedia.org/wiki/Wenn_die_Gondeln_Trauer_tragen)"
 , zugig, dunkel und zugleich wunderschön.
 
-<RemoteImage
-  alt="Valentinstag in Venedig"
-  size="medium"
-  title=""
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12599167784_f2c965442b_z.jpg?w=200"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12599167784_f2c965442b_z.jpg?w=200"
-  loadingUrl="undefined" />
-
-[](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/) Umso
-überraschter war ich natürlich, als sich mir die Stadt als eine lärmende,
+Umso überraschter war ich natürlich, als sich mir die Stadt als eine lärmende,
 quicklebendige, fröhlich bunte und sonnige Schönheit präsentierte. Und das
-mitten im Februar, der ja bei uns durchaus auch mal ungemütlich werden kann.
+mitten im Februar, der ja bei  uns durchaus auch mal ungemütlich werden kann.
 
 Hier noch ein Tipp von meiner Seite, der unserer Meinung nach auch in unserem
 Reiseführer hätte erwähnt werden können: Nach Venedig sollte man nach
@@ -123,22 +117,118 @@ wie ursprünglich auch von uns geplant, über Autobahnen nach Venezien, wird
 bereits in Österreich die erste Maut fällig. In Italien ist wird es dann richtig
 teuer. Die Brennerautobahn kostet extra. Dazu kommen dann noch die
 Parkplatzgebühren, die je nach Parkhaus zwischen 25 und 50 Euro am Tag liegen
-können. Eine weitere Alternative wäre eine Zugfahrt, die bereits ab 150,- Euro
+können. Eine weitere Alternative wäre eine Zugfahrt, die bereits ab 150,- Euro
 pro Person zu haben ist.
 
-Hier ist eine kleine Bildergalerie unserer Venedigreise,
-[meine komplette Sammlung](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
-könnt Ihr wie immer in meinem
-[Flickr](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
-sehen.
+<RemoteImage alt={`Valentinstag in Venedig`} size="medium" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12592322183_aaf4a48dfd_z.jpg?w=225"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12592322183_aaf4a48dfd_z.jpg?w=225"
+loadingUrl="undefined" />
 
-<RemoteImage
-  alt="Valentinstag in Venedig"
-  size="large"
-  title=""
-  mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12600525393_45fac95355_z.jpg?w=490"
-  largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12600525393_45fac95355_z.jpg?w=490"
-  loadingUrl="undefined" />
+[](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
+
+<RemoteImage alt={`Valentinstag in Venedig`} size="medium" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12598643153_7fb1731ece_z.jpg?w=200"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12598643153_7fb1731ece_z.jpg?w=200"
+loadingUrl="undefined" />
+
+[](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
+
+<RemoteImage alt={`Valentinstag in Venedig`} size="medium" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12599167784_f2c965442b_z.jpg?w=200"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12599167784_f2c965442b_z.jpg?w=200"
+loadingUrl="undefined" />
+
+[](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
+
+<RemoteImage alt={`Valentinstag in Venedig`} size="large" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12600525393_45fac95355_z.jpg?w=490"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12600525393_45fac95355_z.jpg?w=490"
+loadingUrl="undefined" />
+
+[](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
+
+<RemoteImage alt={`Valentinstag in Venedig`} size="large" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12598441075_52a347b6d9_z.jpg?w=490"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12598441075_52a347b6d9_z.jpg?w=490"
+loadingUrl="undefined" />
+
+[](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
+
+<RemoteImage alt={`Valentinstag in Venedig`} size="large" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12600346884_6aaf2649fe_z.jpg?w=490"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12600346884_6aaf2649fe_z.jpg?w=490"
+loadingUrl="undefined" />
+
+[](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
+
+<RemoteImage alt={`Valentinstag in Venedig`} size="large" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12599680083_62e6661451_z.jpg?w=490"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12599680083_62e6661451_z.jpg?w=490"
+loadingUrl="undefined" />
+
+[](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
+
+<RemoteImage alt={`Valentinstag in Venedig`} size="large" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12599450774_0b35543ab5_z.jpg?w=490"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12599450774_0b35543ab5_z.jpg?w=490"
+loadingUrl="undefined" />
+
+[](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
+
+<RemoteImage alt={`Valentinstag in Venedig`} size="large" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12599006273_e9fbd866cf_z.jpg?w=490"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12599006273_e9fbd866cf_z.jpg?w=490"
+loadingUrl="undefined" />
+
+[](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
+
+<RemoteImage alt={`Valentinstag in Venedig`} size="large" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12591992805_2be43bf2cc_z.jpg?w=490"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12591992805_2be43bf2cc_z.jpg?w=490"
+loadingUrl="undefined" />
+
+[](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
+
+<RemoteImage alt={`Valentinstag in Venedig`} size="large" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12598536503_b0b8939f3d_z.jpg?w=490"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12598536503_b0b8939f3d_z.jpg?w=490"
+loadingUrl="undefined" />
+
+[](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
+
+<RemoteImage alt={`Valentinstag in Venedig`} size="large" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12592459194_17e8039e4f_z.jpg?w=490"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12592459194_17e8039e4f_z.jpg?w=490"
+loadingUrl="undefined" />
+
+[](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
+
+<RemoteImage alt={`Valentinstag in Venedig`} size="large" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12592796004_ba33ce0292_z.jpg?w=490"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12592796004_ba33ce0292_z.jpg?w=490"
+loadingUrl="undefined" />
+
+[](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
+
+<RemoteImage alt={`Valentinstag in Venedig`} size="large" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12598390275_c66c1af240_z.jpg?w=490"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12598390275_c66c1af240_z.jpg?w=490"
+loadingUrl="undefined" />
+
+[](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
+
+<RemoteImage alt={`Valentinstag in Venedig`} size="large" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12599705563_f200f5d761_z.jpg?w=490"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12599705563_f200f5d761_z.jpg?w=490"
+loadingUrl="undefined" />
+
+[](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
+
+<RemoteImage alt={`Valentinstag in Venedig`} size="large" title={``}
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12599666703_4e15a733d1_z.jpg?w=490"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12599666703_4e15a733d1_z.jpg?w=490"
+loadingUrl="undefined" />
 
 [](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
 

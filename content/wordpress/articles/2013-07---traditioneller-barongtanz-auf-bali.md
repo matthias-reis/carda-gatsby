@@ -23,11 +23,11 @@ labels:
   - Barong Brauch
   - Barong-Tanz
   - Batari Durga
+  - Fernweh
   - Hochzeitsreise
   - Honeymoon
   - Legong
   - Rangda
-  - Reisen
   - Sadewa
   - Shiwa
 type: Artikel
@@ -46,13 +46,10 @@ subTitle: Unsere große Reise - Teil II
   
 ---
 
-<RemoteImage
-  alt="Legong"
-  size="medium"
-  title="Legong"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/07/2013-07-12_1373620697.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/07/2013-07-12_1373620697.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Legong`} size="medium" title={`Legong`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/07/2013-07-12_1373620697.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/07/2013-07-12_1373620697.jpg?w=300"
+loadingUrl="undefined" />
 
 **Nach drei Tagen ließen wir [Dubai](/2013/07/29/unsere-grose-reise/) hinter uns
 und reisten über Jakarta nach Denpasar.**
@@ -65,13 +62,11 @@ Tempel von Batu Bulan.
 Wer sich unter dem Begriff "Barong" nichts weiter vorstellen kann, hier ist eine
 kleine Erklärung:
 
-<RemoteImage
-  alt="If you're going to Bali..."
-  size="medium"
-  title="If you're going to Bali..."
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/07/2013-07-12_1373617546.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/07/2013-07-12_1373617546.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`If you're going to Bali...`} size="medium"
+title={`If you're going to Bali...`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/07/2013-07-12_1373617546.jpg?w=300"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/07/2013-07-12_1373617546.jpg?w=300"
+loadingUrl="undefined" />
 
 Der Barong ist ein mystisches Wesen, welches die auf der Erde vorhandenen
 positiven Kräfte zum Ausdruck bringt. Seine Gegenspielerin ist Rangda, die

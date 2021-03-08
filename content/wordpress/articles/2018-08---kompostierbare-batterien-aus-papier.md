@@ -47,13 +47,10 @@ Einwegzelle oder Akku. Das Material ist hochgiftig und wird meist unter
 schlimmen Arbeitsbedingungen in großen Minen abgebaut. Die Vereinten Nationen
 warnten bereits vor immer bedenklicher werdenden Umständen.**
 
-<RemoteImage
-  alt=""
-  size="medium"
-  title=""
-  mediumUrl="https://www.adcell.de/promotion/view/promoId/169185/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/view/promoId/169185/slotId/80259"
-  loadingUrl="undefined" />
+<RemoteImage alt={`} size="medium" title={`}
+mediumUrl="https://www.adcell.de/promotion/view/promoId/169185/slotId/80259"
+largeUrl="https://www.adcell.de/promotion/view/promoId/169185/slotId/80259"
+loadingUrl="undefined" />
 
 Einem Team der Universität im Amerikanischen Binghamton gelang es jetzt,
 umweltfreundliche Batterien zu entwickeln. Das Material:
@@ -99,13 +96,10 @@ großer Schritt in Richtung mehr Nachhaltigkeit, wenn es sich dabei bald nicht
 mehr um Zukunftsmusik sondern um Massenware in unseren Supermärkten handeln
 würde.
 
-<RemoteImage
-  alt=""
-  size="medium"
-  title=""
-  mediumUrl="https://www.adcell.de/promotion/view/promoId/169185/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/view/promoId/169185/slotId/80259"
-  loadingUrl="undefined" />
+<RemoteImage alt={`} size="medium" title={`}
+mediumUrl="https://www.adcell.de/promotion/view/promoId/169185/slotId/80259"
+largeUrl="https://www.adcell.de/promotion/view/promoId/169185/slotId/80259"
+loadingUrl="undefined" />
 
 [Tolle Accessoires aus recyceltem Papier](https://www.adcell.de/promotion/click/promoId/169185/slotId/80259?param0=https%3A%2F%2Fmargreblue.de%2Fprodukt-kategorie%2Faccessoires-aus-recycelten-papier%2F)
 ](https://www.adcell.de/promotion/click/promoId/169217/slotId/80259/subId/httpsmargreblue.deprodukt-kategorieaccessoires-aus-recycelten-papier)

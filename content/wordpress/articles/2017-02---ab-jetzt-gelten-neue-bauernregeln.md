@@ -12,10 +12,10 @@ excerpt: Mit der Aktion "Neue Bauernregeln" kämpft das Deutsche Tierschutzbüro
   für Gesetzänderungen. Im Vordergrund der Kampagne stehen die Rechte der Tiere.
 focusKeyword: neue Bauernregeln
 labels:
-  - Darum vegan
   - Deutsches Tierschutzbüro
   - go vegan
   - neue Bauernregeln
+  - Tierrechte
   - Tierrechte
   - Tierschutz
 type: Artikel
@@ -33,13 +33,11 @@ subTitle: Tierschutzbüro kämpft für Gesetzesänderungen
   
 ---
 
-<RemoteImage
-  alt="Neue Bauernregeln"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Deutsches-Tierschutzbu%CC%88ro__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Deutsches-Tierschutzbu%CC%88ro__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABQcABgj/xAAmEAABAwIFBAMBAAAAAAAAAAABAgMRBAUAEiExUQYHMpETM0Fh/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAfEQACAQQCAwAAAAAAAAAAAAABAgAREyFRAwQFgaH/2gAMAwEAAhEDEQA/ANB1Ip2LXR5WEJIabU4pDaZCSMo/J8o210wqO8tqYf62t1I844mLWFBTCEBS1/KR4mAd9pGL6xeX3KalztNKhlEeQgQlUCDyB6wou99e7cupaB19LYUKIJhAMfYrknC3QU3gK7gfkmWwSRqB0dMNKIBXcZjWGmtDz9m2ih/CBzgPcrLXUCHHX2SlhK8oX8iSd4GgJwLyjgesQJA2A9YeVWByfkmmfjIwtPc//9k=" />
+<RemoteImage alt={`Neue Bauernregeln`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Deutsches-Tierschutzbu%CC%88ro__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Deutsches-Tierschutzbu%CC%88ro__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABQcABgj/xAAmEAABAwIFBAMBAAAAAAAAAAABAgMRBAUAEiExUQYHMpETM0Fh/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAfEQACAQQCAwAAAAAAAAAAAAABAgAREyFRAwQFgaH/2gAMAwEAAhEDEQA/ANB1Ip2LXR5WEJIabU4pDaZCSMo/J8o210wqO8tqYf62t1I844mLWFBTCEBS1/KR4mAd9pGL6xeX3KalztNKhlEeQgQlUCDyB6wou99e7cupaB19LYUKIJhAMfYrknC3QU3gK7gfkmWwSRqB0dMNKIBXcZjWGmtDz9m2ih/CBzgPcrLXUCHHX2SlhK8oX8iSd4GgJwLyjgesQJA2A9YeVWByfkmmfjIwtPc//9k="
+/>
 
 **Das Bundesumweltministerium (BMUB) hat in den letzten Wochen eine neue
 Kampagne mit dem Namen _Neue Bauernregeln_  auf die Strecke gebracht.**
@@ -96,13 +94,11 @@ Wer mehr erfahren möchte, findet das Deutsche Tierschutzbüro
 Wenn Ihr die Aktion  _Neue Bauernregeln_ unterstützen wollt, klickt am besten
 einfach hier auf das Banner.
 
-<RemoteImage
-  alt="Neue Bauernregeln"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_steht-das-Schwein-auf-einem-Bein__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_steht-das-Schwein-auf-einem-Bein__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAIEAwUGB//EACcQAAIBBAECBgMBAAAAAAAAAAECAwAEESESMVEFExQiQWEGMnHR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAQUG/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAEDESEjgTH/2gAMAwEAAhEDEQA/APWYEaRyFDKoOPdgZP1RPaSmVJUupgijaKgIb7OtVjKK0V2stu9wpkDYVc8idg4B+NfI6VIkQCIBbMrKAoxYvgA55LjnsHJoC8NVK8l0dnMryStPNIrDAjZQoU9xrr/tPIhR0A5MpOCePQ9jWt8lVQNDalJlUe0WrEj3EE4542B067zV0UcY9GtvE0UYkZ8OuCpxvIJzvP3VMjVZH/MvDnvTbeX4j4hZYRwfSS+Xn9dnXUV2PBRripx3Aoop+daY+nOwvbJwgfnzfEjAZOBga3/Ka35F2VnLDiTgqO38oopOgqbs/9k=" />
+<RemoteImage alt={`Neue Bauernregeln`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_steht-das-Schwein-auf-einem-Bein__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_steht-das-Schwein-auf-einem-Bein__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAIEAwUGB//EACcQAAIBBAECBgMBAAAAAAAAAAECAwAEESESMVEFExQiQWEGMnHR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAQUG/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAEDESEjgTH/2gAMAwEAAhEDEQA/APWYEaRyFDKoOPdgZP1RPaSmVJUupgijaKgIb7OtVjKK0V2stu9wpkDYVc8idg4B+NfI6VIkQCIBbMrKAoxYvgA55LjnsHJoC8NVK8l0dnMryStPNIrDAjZQoU9xrr/tPIhR0A5MpOCePQ9jWt8lVQNDalJlUe0WrEj3EE4542B067zV0UcY9GtvE0UYkZ8OuCpxvIJzvP3VMjVZH/MvDnvTbeX4j4hZYRwfSS+Xn9dnXUV2PBRripx3Aoop+daY+nOwvbJwgfnzfEjAZOBga3/Ka35F2VnLDiTgqO38oopOgqbs/9k="
+/>
 
 [](http://neue-bauernregeln.com/)
 

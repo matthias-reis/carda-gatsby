@@ -26,6 +26,7 @@ labels:
   - Sojamilch machen
   - Sojamilch selber machen
   - vegan
+  - vegane Rezepte
   - Vegane Rezepte
   - Veganer
 type: Artikel
@@ -43,26 +44,36 @@ subTitle: Eine leckere pflanzliche Alternative
   
 ---
 
+**Als Veganer hat man eine schier endlose Auswahl an Pflanzendrinks. Nahezu alle
+Nüsse und Hülsenfrüchte lassen sich zu "Milch" verarbeiten.**
+
 Eine wundervolle, kostengünstige Alternative zu den Supermarkt-Pflanzendrinks,
 sind selbstgemachte. Ich möchte Euch heute zeigen, wie man Sojamilch ganz
 einfach zu Hause herstellen kann und das ohne teuren Nussmilchbereiter.
 
-## Benötigt wird- 1 mittelgroßer Kochtopf
+## Benötigt wird
 
+- 1 mittelgroßer Kochtopf
 - 1 Sieb
 - 1 Herd
 - 1 Geschirrtuch
 - 2 Schüsseln
 - 1 Karaffe
 - 1 starker Stabmixer mit Mixgefäß oder Standmixer
-- 1 Kochlöffel## Zutaten- 100 g Sojabohnen (Im Bioladen gibt es sehr gute aus z.
-  B. Italien und Österreich oder Ihr bestellt Sie einfach im Internet, mit dem
-  Suchbegriff "Bio-Sojabohnen bestellen" landet man etliche Treffer)
-- ca. 2 Liter Wasser## DIY Sojamilch - Die Zubereitung1. Die Sojabohnen in eine
-  Schüssel geben und mit viel Wasser (rund 1 Liter) ungefähr 10 Stunden quellen
-  lassen, also am besten morgens ansetzen, dann könnt Ihr Eure Sojamilch nach
-  Feierabend fertig machen.
+- 1 Kochlöffel
 
+## Zutaten
+
+- 100 g Sojabohnen (Im Bioladen gibt es sehr gute aus z. B. Italien und
+  Österreich oder Ihr bestellt Sie einfach im Internet, mit dem Suchbegriff
+  "Bio-Sojabohnen bestellen" landet man etliche Treffer)
+- ca. 2 Liter Wasser
+
+## DIY Sojamilch - Die Zubereitung
+
+1.  Die Sojabohnen in eine Schüssel geben und mit viel Wasser (rund 1 Liter)
+    ungefähr 10 Stunden quellen lassen, also am besten morgens ansetzen, dann
+    könnt Ihr Eure Sojamilch nach Feierabend fertig machen.
 1.  Die Sojabohnen über der Spüle durch das Sieb abgießen und zusammen mit 330
     ml Wasser pürieren. Ich benutze hierzu unseren Stabmixer, im Standmixer geht
     das natürlich noch schneller.

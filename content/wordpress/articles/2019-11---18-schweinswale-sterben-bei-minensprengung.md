@@ -10,7 +10,6 @@ excerpt: Die deutsche Marine hat vor einer Übung auf der Ostsee 39 Seeminen
   gesprengt. Dabei haben 18 Schweinswale ihr Leben verloren.
 focusKeyword: Schweinswale
 labels:
-  - Darum vegan
   - Femarn
   - Femarnbelt
   - Minensprenung
@@ -47,13 +46,12 @@ Leben. Das wurde vor Kurzem bekannt.
 
 ## Sprengung im Schutzgebiet
 
-<RemoteImage
-  alt="Schweinswale"
-  size="medium"
-  title="Schweinswale. Bild: harbour porpoises Michael &amp; Jose in 2012, Ecomare"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_schweinswale-ecomare-Sytske-dijksen__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_schweinswale-ecomare-Sytske-dijksen__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAJhAAAgEDAgUFAQAAAAAAAAAAAQIDAAQRBSESEzFBwQYjUXGBYf/EABgBAQADAQAAAAAAAAAAAAAAAAUCAwQH/8QAHxEAAgICAQUAAAAAAAAAAAAAAQIAEQMEEhMhIjFR/9oADAMBAAIRAxEAPwCjWTAFfinsGpxWCpJK4VSSOLON8E+KqMFxwAbjP3Re3K3fLt3iLpuxfOAvb9P1RaZ6NzneTV6jeXqbTo2uBYUMhwWAP4RtTW+9ToqcCOTwocY+awbTdXuNNR7eEpyFbbnEkk4GcY7ec0xtfUN1csWkhiERGzI589atOUVczPqbCXxNrESwKF6muyzsEnjZ2dhw9hRRQhYxDK7BbBjWPRo+UfelxjGCf5UMOmxLAqoSqhRgDoBRRUg7fYeMzm+8/9k=" />
+<RemoteImage alt={`Schweinswale`} size="medium"
+title={`Schweinswale. Bild: harbour porpoises Michael & Jose in 2012, Ecomare`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_schweinswale-ecomare-Sytske-dijksen__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_schweinswale-ecomare-Sytske-dijksen__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAJhAAAgEDAgUFAQAAAAAAAAAAAQIDAAQRBSESEzFBwQYjUXGBYf/EABgBAQADAQAAAAAAAAAAAAAAAAUCAwQH/8QAHxEAAgICAQUAAAAAAAAAAAAAAQIAEQMEEhMhIjFR/9oADAMBAAIRAxEAPwCjWTAFfinsGpxWCpJK4VSSOLON8E+KqMFxwAbjP3Re3K3fLt3iLpuxfOAvb9P1RaZ6NzneTV6jeXqbTo2uBYUMhwWAP4RtTW+9ToqcCOTwocY+awbTdXuNNR7eEpyFbbnEkk4GcY7ec0xtfUN1csWkhiERGzI589atOUVczPqbCXxNrESwKF6muyzsEnjZ2dhw9hRRQhYxDK7BbBjWPRo+UfelxjGCf5UMOmxLAqoSqhRgDoBRRUg7fYeMzm+8/9k="
+/>
 
 Insgesamt lagen noch 42 britische Seeminen aus dem Ersten Weltkrieg im
 baltischen Meer - ausgerechnet innerhalb einer Schutzzone auf dem Grund des

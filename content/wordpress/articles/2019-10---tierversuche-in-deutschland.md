@@ -16,7 +16,7 @@ labels:
   - Ärzte gegen Tierversuche
   - Cruelty Free
   - Cruelty Free International
-  - Darum vegan
+  - Fair Fashion & Beauty
   - SOKO Tierschutz
   - Tierrechte
   - Tierrechte
@@ -112,7 +112,9 @@ und Landwirtschaft vorliegen. Hier eine Übersicht:
 <td class="tg-0lax">0.1%</td>
 </tr>
 <tr>
-<th class="tg-0lax">Schafe3.0840.1%</th>
+<th class="tg-0lax">Schafe</th>
+<td class="tg-0lax">3.084</td>
+<td class="tg-0lax">0.1%</td>
 </tr>
 <tr>
 <th class="tg-0lax">Andere Spezies</th>

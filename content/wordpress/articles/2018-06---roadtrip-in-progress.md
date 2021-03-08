@@ -10,12 +10,12 @@ excerpt: Ich befinde mich zur Zeit auf einem Roadtrip.  Wir lesen uns schon bald
   wieder. Dann gibt es viele neue spannende und interessante Geschichten.
 focusKeyword: Roadtrip
 labels:
+  - Fernweh
+  - Geschichten & Erlebtes
   - Reise
   - Reiselog
   - Reisen
-  - Reisen
   - Roadtrip
-  - Tagebuch
   - travel blog
   - unterwegs
   - Urlaub
@@ -38,13 +38,11 @@ subTitle: Sommerliche Auszeit
 bei Euch. Aufgetankt mit neuer Kraft, frischen Ideen und hoffentlich ganz vielen
 Geschichten von unserem Roadtrip, der morgen losgeht.**
 
-<RemoteImage
-  alt="Roadtrip"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_15647786664_de0906f5ab_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_15647786664_de0906f5ab_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQL/xAApEAABBAEEAQMDBQAAAAAAAAABAgMEEQUABhIhExQxQQdRcRUiI0Jh/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMC/8QAJxEAAgIABAMJAAAAAAAAAAAAAQIAEQMUMfASIdEkQVFhYnKBkbH/2gAMAwEAAhEDEQA/AKLipeTxmVgY7IZKXmJLzJdiLeLSfBfSlFVCrAoDv3P31pN5tMh1CVz8Y06qx4H5jTbwPzaSjkD17VpMHpzhHs3isrJyEdsJbgyJJDYVy5DgQrscVm/t+0H8pe2MlB/VjPgImeHCRVzXJD1HzPceKVChddqIvs3eovgowLGbGM6sF359JSJP1CxEV5+MvcWJYcaUWyFykjiU2CDTZuq0nb9ZxO58cxNdy+JffCFLjK9WUF2h2E/xi/x86lu8p8nIs4ONCiqQltplDqi4Fh+Spa7UCAOlKdWSD37aoe65CXMlGjSlF95KHlhzxhQJHqC4eVdWSj5/qNRyeHxjx1+q6ymaYKee9iamBaVksSiBLfeLAcCxxVRDgUaV9vY1Va092xITGzcjjYzC0R/AJUlZcPlkcOwgqFcU9fA0aNJFgFAeV3V98MaLh6F6XQ0iI0y3txxh6O2iQ3JfabS0+OQQRakq/wBIP41xLyQb2qvJPx0vTlB+KFlakpAUtQKuINFXZo6NGnMoygPqI+KuFB7YfaP0z//Z" />
+<RemoteImage alt={`Roadtrip`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_15647786664_de0906f5ab_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_15647786664_de0906f5ab_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQL/xAApEAABBAEEAQMDBQAAAAAAAAABAgMEEQUABhIhExQxQQdRcRUiI0Jh/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMC/8QAJxEAAgIABAMJAAAAAAAAAAAAAQIAEQMUMfASIdEkQVFhYnKBkbH/2gAMAwEAAhEDEQA/AKLipeTxmVgY7IZKXmJLzJdiLeLSfBfSlFVCrAoDv3P31pN5tMh1CVz8Y06qx4H5jTbwPzaSjkD17VpMHpzhHs3isrJyEdsJbgyJJDYVy5DgQrscVm/t+0H8pe2MlB/VjPgImeHCRVzXJD1HzPceKVChddqIvs3eovgowLGbGM6sF359JSJP1CxEV5+MvcWJYcaUWyFykjiU2CDTZuq0nb9ZxO58cxNdy+JffCFLjK9WUF2h2E/xi/x86lu8p8nIs4ONCiqQltplDqi4Fh+Spa7UCAOlKdWSD37aoe65CXMlGjSlF95KHlhzxhQJHqC4eVdWSj5/qNRyeHxjx1+q6ymaYKee9iamBaVksSiBLfeLAcCxxVRDgUaV9vY1Va092xITGzcjjYzC0R/AJUlZcPlkcOwgqFcU9fA0aNJFgFAeV3V98MaLh6F6XQ0iI0y3txxh6O2iQ3JfabS0+OQQRakq/wBIP41xLyQb2qvJPx0vTlB+KFlakpAUtQKuINFXZo6NGnMoygPqI+KuFB7YfaP0z//Z"
+/>
 
 Wo genau es hingeht, erfahrt Ihr schon bald. Vielleicht klickt Ihr ja mal auf
 Instagram oder Facebook rein, dort werde ich mit Sicherheit den ein oder anderen
@@ -57,9 +55,8 @@ Bis ich wieder hier bin, könnt Ihr Euch ja
 Oder
 [Ihr plant schon mal fürs nächste Festival](/2015/03/die-ultimative-vegane-festivalliste/).
 
-Vielleicht hat Ihr auch Lust auf [ein Rezept](/category/vegan-2/rezepte/) ? Oder
-etwas [Lyrik](/category/bleistift-2-0/lyrik/) ? Natürlich könnt Ihr auch einfach
-mal rausgehen und das Wetter genießen. :-)
+Vielleicht hat Ihr auch Lust auf [ein Rezept](/category/vegan/vegane-rezepte/) ?
+Natürlich könnt Ihr auch einfach mal rausgehen und das Wetter genießen. :-)
 
 Bis bald!
 

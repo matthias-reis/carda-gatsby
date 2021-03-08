@@ -12,11 +12,11 @@ excerpt: Auf Böller zu verzichten, bedeutet Mitgefühl und Empathie. Für die
   Böller an.
 focusKeyword: auf Böller verzichten
 labels:
+  - Antifaschismus & Feminismus
   - Auf Böller verzichten
   - Bier statt Böller
   - Frieden statt Böller
   - Peace
-  - Politik & Soziales
   - Refugees welcome
   - refugeeswelcome
   - Silvester
@@ -36,6 +36,17 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Für Tiere und Menschen
   
 ---
+
+<RemoteImage alt={`Auf Böller verzichten`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_Rose2-1-von-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_Rose2-1-von-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgFBgcD/8QAKxAAAQQBAwIFAwUAAAAAAAAAAQIDBBEFABIhBhMHFDEyQSJRcRVSYYHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwEAAv/EAB0RAAIDAAIDAAAAAAAAAAAAAAECAAMRITEEEiL/2gAMAwEAAhEDEQA/AMQxHkIznfbdW5HCx20SEhZWE80U1Shd8en8a3/onwjwmLwLWT6wjPZGXIaKf00t9sNbxYT9JsqAvm6F6XXHNhRZjNoU6VmrV7So/A/A503nh5loee8OMfIYcee8s2GHVuPBdrbISrcondVAKvm0mhZ0Hks6oTX3JQqu2P1Ka54QRcpKmlxoYKPJAXHhIHeSFBNWXCoHaOPpAuyeTpfs9BlxZ8mAoJHk3lML7VUpYWQaNWRY9dMVM6visSsO1Jy7UXCPs+aedJQhbS0vOfA5TvTW5NE+nzrFOuFwBkJc/Dh5EJ1K3kOPKFPlSzsKUVaQB9/Wr+ddUEvWC/BktrVX+epCuOB/HQ4BbS2WEuEvNWlTm7934AI/s6kemJqsA0nKIU8uREX246mne0ptWw0oEA/J5HyONGjWcn12ATzk69d9XZHq7KqXki3sQlJQNgKkgJ9oNe3kmvudU5ipGPmtAbLW3yOaokf7o0aVToERDraZ/9k="
+/>
+
+**Hört Ihr auch schon seit Tagen immer wieder Böller und Raketen, die "zur
+Probe" angezündet werden von Menschen, die Silvester nicht erwarten können? Ich
+wurde sogar schon ein paar Mal davon aus dem Schlaf gerissen und kann es einfach
+nicht verstehen.**
 
 Verzichtet bitte auf Böller und Raketen. Für die Tiere und die Menschen. Nicht
 nur unsere Hunde und Katzen ängstigen sich, wenn am 31. Dezember wieder

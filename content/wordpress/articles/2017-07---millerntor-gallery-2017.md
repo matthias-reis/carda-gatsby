@@ -13,7 +13,6 @@ labels:
   - Hamburg
   - Hamburg
   - Kunst
-  - Kunst
   - Millerntor Gallery
   - Solidarität
   - St. Pauli

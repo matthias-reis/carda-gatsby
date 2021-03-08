@@ -15,11 +15,12 @@ labels:
   - aussterbende Arten
   - Botanik
   - Botaniker
-  - Brititsche Inseln
+  - Britische Inseln
   - Cornwall
   - Eden Project
   - england2012
   - Fauna
+  - Fernweh
   - geodätisch
   - geodätische Kuppeln
   - James Bond
@@ -27,7 +28,6 @@ labels:
   - Klima & Umweltschutz
   - Klimazonen
   - Pflanzen
-  - Reisen
   - St. Austell
 type: Galerie
 typeName: Galerie
@@ -43,6 +43,8 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 7/9
   
 ---
+
+[_Teil 6/9_](/2012/07/aloa-cornwall/) Impressionen aus dem Eden Projekt
 
 **Auch in diesem Jahr war es wieder wunderbar, im Eden Project St. Austell durch
 die verschiedenen Klimazonen zu wandern.**
@@ -60,10 +62,11 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_0
 [Artikel](//?s=eden+project) dazu geschrieben. Wer mehr über das Projekt
 erfahren möchte, klicke bitte auf den [Link](//?s=eden+project).
 
-Hier geht's zu [_Teil 8/9_](/2012/08/fabelwesen/) der Galerie "England 2012"
+Hier geht's zu [_Teil 8/9_](/2012/08/fabelwesen/)  der Galerie "England 2012"
 
-## England 2012 Wegweiser1. [Sonne im Hafen](http://wp.me/p533wO-Ry)
+## England 2012 Wegweiser
 
+1.  [Sonne im Hafen](http://wp.me/p533wO-Ry)
 1.  [Der Kater und der Leuchtturm](/2012/08/der-kater-und-der-leuchtturm/)
 1.  [Glastonbury](/2012/07/glastonbury/)
 1.  [Isle Of Wight Festival](/2012/07/isle-of-wight-festival-2012/)
@@ -71,7 +74,8 @@ Hier geht's zu [_Teil 8/9_](/2012/08/fabelwesen/) der Galerie "England 2012"
 1.  [Aloha Cornwall](/2012/07/aloa-cornwall/)
 1.  [Eden Project](/2012/08/eden-project-2/)
 1.  [Fabelwesen](/2012/08/fabelwesen/)
-1.  [Schneeweißchen und Rosenrot](/2012/08/schneeweis-und-rosenrot/) _ \_\_\_\_
-    _
+1.  [Schneeweißchen und Rosenrot](/2012/08/schneeweis-und-rosenrot/)
+
+---
 
   

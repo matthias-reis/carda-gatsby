@@ -8,7 +8,7 @@ description: Mein Song des Tages ist heute "Light It Up" von den Blood Red Shoes
 excerpt: Mein Song des Tages ist heute "Light It Up" von den Blood Red Shoes.
 focusKeyword: ""
 labels:
-  - Tagebuch
+  - Geschichten & Erlebtes
 type: Artikel
 typeName: Artikel
 date: 2011-03-02T10:02:01.000Z
@@ -24,7 +24,7 @@ subTitle: Song des Tages
   
 ---
 
-Blood Red Shoes - Light It Up
+## Blood Red Shoes - "Light It Up"
 
 [youtube=http://www.youtube.com/watch?v=LXu-Q4EsaFA&amp;feature=fvsr]
 

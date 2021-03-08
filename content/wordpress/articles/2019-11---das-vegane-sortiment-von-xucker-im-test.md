@@ -13,19 +13,19 @@ excerpt: Werbung & Affiliate Links - Süß soll es ja schon sein. Aber trotzdem
 focusKeyword: Xucker
 labels:
   - Birkenzucker
+  - Ernährung & Gesundheit
   - Erytrith
   - ohne Palmöl
   - Palmöl-frei
   - Schokolade
   - Süßungsmittel
-  - Vegane Produkte
   - vegane Schokolade
   - veganer Gelierzucker
   - veganer Puderzucker
   - veganer Zucker
   - weniger süß
   - Xucker
-  - Xylith
+  - Xylit
 type: Artikel
 typeName: Produkttest
 date: 2019-11-10T17:48:38.000Z
@@ -106,18 +106,19 @@ Karamelnote.
 
 ## Zahnpflege mit Xucker-Xylit
 
+Xylit kann aus Birken- oder Mais- und/oder Weizenstärke hergestellt werden. 
+[Xucker Premium](http://tidd.ly/66b49cce)  wird zum Beispiel aus finnischen
+Birken gewonnen. Daher wird es auch als "Birkenzucker" bezeichnet. 
+[Xilit Basic](http://tidd.ly/284259b1)  kommt hingegen zum Beispiel aus
+Frankreich. Dort wird es aus Mais- und/ oder Weizenstärke gewonnen. Die
+Abfüllung erfolgt dann vor Ort in Deutschland.
+
 Xylit wird auch in der Zahnpflege eingesetzt. Es ist dazu in der Lage, Säuren
 von den Zähnen abzuhalten, erhöht den Speichelfluss und den pH-Wert. Zudem
 remineralisiert es die Zähne mit Calcium und Phosphat und verhindert Karies und
-Zahnbelag.
-
-Einige von Euch kennen bestimmt schon Kaugummi oder Zahnpasta mit Xylit - diese
-Produkte schwappen aus Skandinavien immer mehr rüber auf den deutschen Markt.
-
-Auch von Xucker gibt es verschiedene
+Zahnbelag. Einige von Euch kennen bestimmt schon Kaugummi oder Zahnpasta mit
+Xylit. Auch von Xucker gibt es verschiedene
 [Xylit-Zahnpflegekaugummis in diversen Geschmacksrichtungen](http://tidd.ly/8c93c885).
-Bestimmt werde ich sie demnächst auch mal testen. Ich halte Euch auf jeden Fall
-auf dem Laufenden.
 
 ## Erytrit
 

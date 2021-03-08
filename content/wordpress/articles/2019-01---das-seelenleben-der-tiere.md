@@ -13,10 +13,12 @@ excerpt: Affiliate Link - "Empfinden Tiere Liebe, Trauer und Mitgefühl?" -
 focusKeyword: Das Seelenleben der Tiere
 labels:
   - Bücher & Filme
-  - Darum vegan
   - Das Seelenleben der Tiere
   - Peter Wohlleben
+  - Tierhaltung
   - Tierrechte
+  - Tierrechte
+  - Tierschutz
 type: Artikel
 typeName: Rezension
 date: 2019-01-02T18:31:03.000Z

@@ -12,13 +12,14 @@ focusKeyword: Rucksack von Feuerwear
 labels:
   - Eddie
   - Fair Fashion
+  - Fair Fashion & Beauty
   - Feuerwear
   - Feuerwear Rucksack
   - Feuerwehrschlauch
-  - Mode & Beauty
   - Taschen aus Feuerwehrschläuchen
   - Unikat
-  - Vegane Produkte
+  - vegane Rucksäcke
+  - veganes Leder
 type: Artikel
 typeName: Artikel
 date: 2019-11-17T16:12:38.000Z

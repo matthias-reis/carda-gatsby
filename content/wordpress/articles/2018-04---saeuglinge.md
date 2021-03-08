@@ -13,8 +13,8 @@ excerpt: Säuglinge sind glücklich, wenn sie bei Ihrer Mutter sind. Diese
 focusKeyword: Säuglinge - Eine Bildergalerie zum Nachdenken
 labels:
   - Bilder
-  - Darum vegan
   - darum vegan
+  - Ernährung & Gesundheit
   - go vegan
   - Milch
   - Milch ist für Babies

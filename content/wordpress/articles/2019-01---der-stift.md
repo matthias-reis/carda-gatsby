@@ -12,7 +12,7 @@ excerpt: Wie ein Stift einen zum Schreiben motivieren kann, was der Strand damit
 focusKeyword: Stift
 labels:
   - Geschichte
-  - Prosa
+  - Geschichten & Erlebtes
   - schreiben
   - Stift
   - Strand

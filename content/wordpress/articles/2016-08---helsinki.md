@@ -12,11 +12,11 @@ excerpt: Wie versprochen, geht es heute mit meiner kleinen Finnland-Reihe
   einiges geboten.
 focusKeyword: Helsinki
 labels:
+  - Fernweh
   - Finnland
   - Finnland2016
   - Fotos
   - Helsinki
-  - Reisen
   - Reisen
   - Skandinavien
 type: Galerie
@@ -34,13 +34,12 @@ subTitle: Schönheit an der Ostsee
   
 ---
 
-<RemoteImage
-  alt="Helsinki"
-  size="medium"
-  title="In Helsinki leben zahlreiche Möwen"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28880459596_565382f28a_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28880459596_565382f28a_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcBBAUI/8QAKxAAAQMDAwIEBwEAAAAAAAAAAQIDBAAFEQYSEwchMUFRcQgUIjJSYXKR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwH/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECIf/aAAwDAQACEQMRAD8AbUVkJLZWk7VHG7Iwk+WferFvfi3KOHoK25ERaQtqQ0rchwZIOD6gpIrH18ZDWhbkYbkhh7jB+ZYc2GOkHcXFHIO0BPfByc486XHw56nfl3O7WSbPW62mO2/CYWsYbwpXKEJHYA70k+1JehjXkRtrmKK0ZiMrFFUoRYzMuNwS2m3mXRscbeSFIUk+IUD2I96TfSqbp2x6isTMKZaY0i4Wt+JMZbeQFGWiQCjIz9y0kbfyAGKnrVre4Wy2RNPWFLibhdc8knaQhpgHCgFep8DjwT/QpTv3PWrBSpcqHIDZBSpcZJIIPYglGR+u9FvUYmcXp1tNcPIMk0Uuemt/vl10yi4amksSZTzi0oSyyG+NKTt+rA7qJBP+UUi6qG+OH//Z" />
+<RemoteImage alt={`Helsinki`} size="medium"
+title={`In Helsinki leben zahlreiche Möwen`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28880459596_565382f28a_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28880459596_565382f28a_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcBBAUI/8QAKxAAAQMDAwIEBwEAAAAAAAAAAQIDBAAFEQYSEwchMUFRcQgUIjJSYXKR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwH/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECIf/aAAwDAQACEQMRAD8AbUVkJLZWk7VHG7Iwk+WferFvfi3KOHoK25ERaQtqQ0rchwZIOD6gpIrH18ZDWhbkYbkhh7jB+ZYc2GOkHcXFHIO0BPfByc486XHw56nfl3O7WSbPW62mO2/CYWsYbwpXKEJHYA70k+1JehjXkRtrmKK0ZiMrFFUoRYzMuNwS2m3mXRscbeSFIUk+IUD2I96TfSqbp2x6isTMKZaY0i4Wt+JMZbeQFGWiQCjIz9y0kbfyAGKnrVre4Wy2RNPWFLibhdc8knaQhpgHCgFep8DjwT/QpTv3PWrBSpcqHIDZBSpcZJIIPYglGR+u9FvUYmcXp1tNcPIMk0Uuemt/vl10yi4amksSZTzi0oSyyG+NKTt+rA7qJBP+UUi6qG+OH//Z"
+/>
 
 **Wie versprochen, geht es heute mit meiner kleinen Finnland-Reihe weiter. Nach
 unserer [Überfahrt](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/) von

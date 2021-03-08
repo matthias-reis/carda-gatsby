@@ -17,7 +17,7 @@ labels:
   - Knust
   - Konzerte
   - live
-  - Post Rock
+  - Post-Rock
   - Postrock
   - Russian Circles
 type: Galerie
@@ -43,13 +43,11 @@ Punk-Schuppen war sehr gemischt, was den Abend besonders interessant machte.
 
 ## Ein genialer Abend trotz unterirdischer Vorband
 
-<RemoteImage
-  alt="Russian Circles"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_33033221775_fbbf17d9c7_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_33033221775_fbbf17d9c7_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHBAgJ/8QAKhAAAQMDAwMDBAMAAAAAAAAAAQIDBAAGEQUSIRNBUSIxYQcUI0KBkaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERAiEx/9oADAMBAAIRAxEAPwCnfWC6dHtq22pFxaG8/Jfd+2ZjMuoIUrbuJ3/qAB4z8VrzZmhSLi1LVNWdYDENxeG2upuAJIISB4SnvjvS/d92z9Whw2prpkobfLqFLJPsMY58g03fTae6000iA024lxfrK3CAMfsrg4HPt5ziqTiBKlXsawUyHkqcbAQME5FVxFtaShCUfZtnaMZI96EWHMSzBaZecDrm31upTtSonngHnFN3Vb7LT/dStNi1lXpzhcjqkaIuYnJENxPVA7JWcAnxzgfzTlpiJVrGI+8tvqPsoeejIVyhC0hSN3bJSQfjNI6YEtaokRokiY6GkgKxvxg8jxnFPWoW4/E0CdKlSUh+O0HOkMryAQOVfApWcpqk/YWrSLwMWGgZCUlI7jj/AGiwvsAAdRNRFqMw9o0WdCkrdbcQN/qH41geoEfFYDE5LjDbgLwCkhWMeRSZL6f/2Q==" />
+<RemoteImage alt={`Russian Circles`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_33033221775_fbbf17d9c7_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_33033221775_fbbf17d9c7_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHBAgJ/8QAKhAAAQMDAwMDBAMAAAAAAAAAAQIDBAAGEQUSIRNBUSIxYQcUI0KBkaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERAiEx/9oADAMBAAIRAxEAPwCnfWC6dHtq22pFxaG8/Jfd+2ZjMuoIUrbuJ3/qAB4z8VrzZmhSLi1LVNWdYDENxeG2upuAJIISB4SnvjvS/d92z9Whw2prpkobfLqFLJPsMY58g03fTae6000iA024lxfrK3CAMfsrg4HPt5ziqTiBKlXsawUyHkqcbAQME5FVxFtaShCUfZtnaMZI96EWHMSzBaZecDrm31upTtSonngHnFN3Vb7LT/dStNi1lXpzhcjqkaIuYnJENxPVA7JWcAnxzgfzTlpiJVrGI+8tvqPsoeejIVyhC0hSN3bJSQfjNI6YEtaokRokiY6GkgKxvxg8jxnFPWoW4/E0CdKlSUh+O0HOkMryAQOVfApWcpqk/YWrSLwMWGgZCUlI7jj/AGiwvsAAdRNRFqMw9o0WdCkrdbcQN/qH41geoEfFYDE5LjDbgLwCkhWMeRSZL6f/2Q=="
+/>
 
 Cloakroom, die als Opener spielten, das muss ich an dieser Stelle leider sagen,
 sind  für mich die schlechteste Band, die ich jemals live gesehen habe. Sorry,
@@ -73,13 +71,11 @@ Fremdschäm-Applaus, war es endlich soweit und Brian Cook (Bass), Dave Turncrant
 
 ## Russian Circles spielten mal wieder alle an die Wand
 
-<RemoteImage
-  alt="Russian Circles"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32877461962_1cd8da421f_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32877461962_1cd8da421f_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcI/8QAKxAAAgEDBAEBCQADAAAAAAAAAQIDBAURAAYSITFxBxMUIjJBUYHBYdHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQBAgUG/8QAIhEAAQIGAgMBAAAAAAAAAAAAAQACAwQREiExgZEFQWFx/9oADAMBAAIRAxEAPwDFbHaairaKKkgeWonZY4o0XLO5OAo9TjR6fZrv7Un2bLXRiRaxaMVarleTLkdZ8cjj/saZEt81q2GldDypKueIx+8lUo8MTkI8oHn6GJB/BJ0gU9F8HeEhgrIoXppiEqkPFVKsCsgPkeM66ozjITGNDa7P7sDgb+qpYVCloalurUdzjmp3glMVSqjLoVbDjB6JGD199agnsS3LMiy0DWippHHKGcVJX3qHtWwVyMjBx/nVHcvK/wB3N8kihp5q0qZUQ/W4ABfx0Djz5Oh8tXLTyvDFWVSRxsUVRO4AA6AAzoM0+HfhtK5yD767Qy2IQKGh7VrdsojscNDt+NqUfDQSSxKeTBPdKWyfyR8zY/ONCrbtSvn2fV3qGICCnZQWA7xnHP0DYB9dBLZWsq5JOWh4k5+rriT/AD9a6c2JdtpW72f0Vtrp45I57Wy1cRXtnZiWX1PI49BrL8lEdcxoOqJgFIU15gjs1lqqWZKcVlKplTIUd5DozY6HIEZOkyTdsVTI052rYsykv2DnvvSzcZzTzyUTPI8ETtxwcHBPn+/vS+1VFyPyS+fuy/605aJpgiRTnlRdRf/Z" />
+<RemoteImage alt={`Russian Circles`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32877461962_1cd8da421f_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32877461962_1cd8da421f_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcI/8QAKxAAAgEDBAEBCQADAAAAAAAAAQIDBAURAAYSITFxBxMUIjJBUYHBYdHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQBAgUG/8QAIhEAAQIGAgMBAAAAAAAAAAAAAQACAwQREiExgZEFQWFx/9oADAMBAAIRAxEAPwDFbHaairaKKkgeWonZY4o0XLO5OAo9TjR6fZrv7Un2bLXRiRaxaMVarleTLkdZ8cjj/saZEt81q2GldDypKueIx+8lUo8MTkI8oHn6GJB/BJ0gU9F8HeEhgrIoXppiEqkPFVKsCsgPkeM66ozjITGNDa7P7sDgb+qpYVCloalurUdzjmp3glMVSqjLoVbDjB6JGD199agnsS3LMiy0DWippHHKGcVJX3qHtWwVyMjBx/nVHcvK/wB3N8kihp5q0qZUQ/W4ABfx0Djz5Oh8tXLTyvDFWVSRxsUVRO4AA6AAzoM0+HfhtK5yD767Qy2IQKGh7VrdsojscNDt+NqUfDQSSxKeTBPdKWyfyR8zY/ONCrbtSvn2fV3qGICCnZQWA7xnHP0DYB9dBLZWsq5JOWh4k5+rriT/AD9a6c2JdtpW72f0Vtrp45I57Wy1cRXtnZiWX1PI49BrL8lEdcxoOqJgFIU15gjs1lqqWZKcVlKplTIUd5DozY6HIEZOkyTdsVTI052rYsykv2DnvvSzcZzTzyUTPI8ETtxwcHBPn+/vS+1VFyPyS+fuy/605aJpgiRTnlRdRf/Z"
+/>
 
 Wie wir es von Ihnen gewohnt sind und nicht anders erwartet hatten, spielten sie
 mal wieder alles vorher dagewesene an die Wand und schossen das Publikum mit

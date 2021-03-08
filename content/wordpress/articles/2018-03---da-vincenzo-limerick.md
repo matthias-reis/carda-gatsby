@@ -10,19 +10,20 @@ excerpt: Ich wage zu behaupten, dass wir im Da Vincenzo in Limerick in den
   Genuss von Irlands bester veganer Steinofenpizza gekommen sind.
 focusKeyword: Da Vincenzo Limerick
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
   - Da Vincenzo
+  - Fernweh
   - Irland vegan
   - Irland2017
   - Italien
   - Limerick
   - Pizza
-  - Reisen
   - Shannon Street
   - Steinofenpizza
   - vegan in Irland
   - vegan travelling
   - Vegane Lokale
+  - vegane Lokale
   - vegane Pizza
 type: Artikel
 typeName: Artikel
@@ -44,13 +45,11 @@ subTitle: Irlands vegane Pizza mit Herz
 sind. Eines verregneten Abends kehrten wir mit nassen Wanderklamotten dort ein
 und wurden hofiert wie König und Königin.**
 
-<RemoteImage
-  alt="Da Vincenzo Limerick"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40224375811_473ae7ca4c_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40224375811_473ae7ca4c_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAAqEAABBAECBgEEAwEAAAAAAAABAgMEEQUAEgYTITFRYUEHFCJCFTLh8P/EABcBAQEBAQAAAAAAAAAAAAAAAAEEAgX/xAAjEQACAgEDAwUAAAAAAAAAAAABAgMRAAQSITFB8BNhcYGR/9oADAMBAAIRAxEAPwAfP8VZLD5ZWJx+McYEx9CGRFKm2XgsXuUsG+l/1CgPJ+NQZzGUjZXZOSXAVESYvMpCaIKR4u0ghQPXzpHnjLlcR5RxwrjrTKUSl1wpWkfrSCfyBFdtB5HJvSgmc4yQwpCY5Z5oBIAN9PB76jWIuAXO6xz8/udVZVitUG2jx70eTlHk/qBk3ZMrmoifbgU62EgqBBrckk9RQAr40Hj5cSchD2XaNvLCG0s0gNqHWj8G/d9dB5ThmQ6G5sZTa+bStiUhO7p1o38/931lhgxIVHYksSI/NpvuFJ39t4HnsaF9r1n04wlpxhBrDqmIBsZaZXg/MvJlZ6Q42nmHmOQm1UphBolNmgdvbp5PrSXIvYzIORIDLX2GPbkqUlsDe5IKzXU9knwewBN6svqnmFQ8clqLLUUvjnhsqJDqnP2TX6pokJPyr1qIzeATjeFGMnPS6p7mJUCLSpFj8bB9C++pdLIzIrSmjdADznKHVSrKo7WST1xgMJKx3D8duBPTNRLdSY7Dy9pZTZCrNdLIoCxorK8IZPG/xWQQWOUh0KWl0ix+QsbqAIFf7qayDEvJxMew28tUR9luSpLagEoUpW21H0oHp711/h6KiLiorTkpMlCWg2I7lEBvsST8JFj1p1DyRAUbN9Kx06Qgs6JtB739+HP/2Q==" />
+<RemoteImage alt={`Da Vincenzo Limerick`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40224375811_473ae7ca4c_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40224375811_473ae7ca4c_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAAqEAABBAECBgEEAwEAAAAAAAABAgMEEQUAEgYTITFRYUEHFCJCFTLh8P/EABcBAQEBAQAAAAAAAAAAAAAAAAEEAgX/xAAjEQACAgEDAwUAAAAAAAAAAAABAgMRAAQSITFB8BNhcYGR/9oADAMBAAIRAxEAPwAfP8VZLD5ZWJx+McYEx9CGRFKm2XgsXuUsG+l/1CgPJ+NQZzGUjZXZOSXAVESYvMpCaIKR4u0ghQPXzpHnjLlcR5RxwrjrTKUSl1wpWkfrSCfyBFdtB5HJvSgmc4yQwpCY5Z5oBIAN9PB76jWIuAXO6xz8/udVZVitUG2jx70eTlHk/qBk3ZMrmoifbgU62EgqBBrckk9RQAr40Hj5cSchD2XaNvLCG0s0gNqHWj8G/d9dB5ThmQ6G5sZTa+bStiUhO7p1o38/931lhgxIVHYksSI/NpvuFJ39t4HnsaF9r1n04wlpxhBrDqmIBsZaZXg/MvJlZ6Q42nmHmOQm1UphBolNmgdvbp5PrSXIvYzIORIDLX2GPbkqUlsDe5IKzXU9knwewBN6svqnmFQ8clqLLUUvjnhsqJDqnP2TX6pokJPyr1qIzeATjeFGMnPS6p7mJUCLSpFj8bB9C++pdLIzIrSmjdADznKHVSrKo7WST1xgMJKx3D8duBPTNRLdSY7Dy9pZTZCrNdLIoCxorK8IZPG/xWQQWOUh0KWl0ix+QsbqAIFf7qayDEvJxMew28tUR9luSpLagEoUpW21H0oHp711/h6KiLiorTkpMlCWg2I7lEBvsST8JFj1p1DyRAUbN9Kx06Qgs6JtB739+HP/2Q=="
+/>
 
 Das Dinner begann sehr spannend mit einer Fahrt im Aufzug, der uns direkt ins
 Restaurant führte. Was uns dort oben wohl erwarten würde? Empfangen wurden wir
@@ -66,13 +65,11 @@ enttäuscht.
 
 ## Da Vincenzo Limerick - Glückseeligkeit bis zum letzten Krümel
 
-<RemoteImage
-  alt="Da Vincenzo Limerick"
-  size="small"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_25353373347_b6ea5f0c27_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_25353373347_b6ea5f0c27_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAKhAAAQMDAgQFBQAAAAAAAAAAAQIDBAAFESExBhITIhRBUWGBIyRiobH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAABAv/EABwRAQEAAwADAQAAAAAAAAAAAAECAAMxERIhYf/aAAwDAQACEQMRAD8Azi3Q5qnGPDJU4y+EoW2RkkoOQKfs/C98j8QuPRIzHRezhLixyEny33B1+Ks/BUKHeoBcDLqm3HC620FqbUnu1GRg7j2q/NxegWoMeNGTGGVJbXlRCtTv6/NLUI/OOMTfg/TMSmcA3C2wr06/KZMlcVQKirTvUASTsBjNFambHbbqzcIS3FNh4oKxzZV2q5sDP5Yoojs9fjgySlcasNoRFajNxFrc6KO8IWQQrOmNzggn1p5bDYfDjjMpLmTp1SkAY02TqN/7XNcBm2J5mpX3DqO7XYe1JXu0sSbYJAlzFuDTCScKz7YoVyzJV9cvXsmlmOGS0WEwlt9YQhvkCe1s7nJOT5mioayoTbYTrLjn1HjzkZGRjTH7orbreZC565//2Q==" />
+<RemoteImage alt={`Da Vincenzo Limerick`} size="small" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_25353373347_b6ea5f0c27_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_25353373347_b6ea5f0c27_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAKhAAAQMDAgQFBQAAAAAAAAAAAQIDBAAFESExBhITIhRBUWGBIyRiobH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAABAv/EABwRAQEAAwADAQAAAAAAAAAAAAECAAMxERIhYf/aAAwDAQACEQMRAD8Azi3Q5qnGPDJU4y+EoW2RkkoOQKfs/C98j8QuPRIzHRezhLixyEny33B1+Ks/BUKHeoBcDLqm3HC620FqbUnu1GRg7j2q/NxegWoMeNGTGGVJbXlRCtTv6/NLUI/OOMTfg/TMSmcA3C2wr06/KZMlcVQKirTvUASTsBjNFambHbbqzcIS3FNh4oKxzZV2q5sDP5Yoojs9fjgySlcasNoRFajNxFrc6KO8IWQQrOmNzggn1p5bDYfDjjMpLmTp1SkAY02TqN/7XNcBm2J5mpX3DqO7XYe1JXu0sSbYJAlzFuDTCScKz7YoVyzJV9cvXsmlmOGS0WEwlt9YQhvkCe1s7nJOT5mioayoTbYTrLjn1HjzkZGRjTH7orbreZC565//2Q=="
+/>
 
 Bis auf den letzten Krümel aßen wir auf und wären dem Wirt danach vor satter
 Glückseeligkeit fast in die Arme gefallen. Nach einer guten Tasse Espresso

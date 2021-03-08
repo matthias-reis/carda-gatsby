@@ -7,11 +7,13 @@ fileName: 2015-12---liste-musik-buecher-filme.md
 description: Sicher haben einige von Euch beim Lesen meines Blog schon gemerkt,
   dass ich wenn es um Musik, Bücher und Filme geht, keinen Spaß verstehe. Eine
   Übersicht.
-excerpt: "\n               \ \n            "
+excerpt: Sicher haben einige von Euch beim Lesen meines Blog schon gemerkt, dass
+  ich wenn es um Musik, Bücher und Filme geht, keinen Spaß verstehe. Eine
+  Übersicht.
 focusKeyword: Musik
 labels:
   - Alternative
-  - Bands & Reviews
+  - Bands
   - Bücher
   - Bücher & Filme
   - Buchliste
@@ -22,8 +24,8 @@ labels:
   - Metal
   - Musik
   - Musikliste
-  - Post Rock
   - Post-Metal
+  - Post-Rock
 type: Artikel
 typeName: Artikel
 date: 2015-12-10T12:52:50.000Z
@@ -39,6 +41,9 @@ subTitle: Keine Geschmacksache
   
 ---
 
+**Was wäre das Leben ohne Musik, Bücher und Filme? Ich möchte es mir jedenfalls
+nicht vorstellen.**
+
 Bereits mit der Gründung meines Blogs vor unzähligen Jahren habe ich auf meiner
 "[Über mich-Seite](/ein-blick-hinter-die-kulissen-von-anne-bloggt-cardamonchai/)"
 eine Liste mit Filmen, Filmemachern, Büchern und vor allem auch Musikern
@@ -48,18 +53,17 @@ Wie Einige beim Lesen meines Blogs sicher schon mitbekommen haben, verstehe ich,
 was das betrifft, keinen Spaß. Das ist eben keine Geschmacksache, sondern eine
 ziemlich ernste Angelegenheit.
 
-<RemoteImage
-  alt="Chico - Lieblingsschallplattenladen-Maskottchen"
-  size="medium"
-  title="Chico - Lieblingsschallplattenladen-Maskottchen"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_chico__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_chico__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcE/8QAKRAAAQQBAwMEAQUAAAAAAAAAAQIDBBEFAAYhEhMxFCIyQQcjUXGBwf/EABYBAQEBAAAAAAAAAAAAAAAAAAUEAf/EACURAAEEAAMJAQAAAAAAAAAAAAEAAgMRIVGBEhMxMjNBcZHwof/aAAwDAQACEQMRAD8AvsvMK6WglxPQlBUpDba1UP8ATZF1elbryyER8JCzePlysfLlhUb0TyCKT7rcQpHxAJujdHVRbXg8pt5iRLyMvFrD6W30Oh0uNKCj0rtKRYJAUQOPGkbmzWQ21uSJPjSWdzNyYKS0/DkU6ypJSXHuyQAFLAAsE8fRqtDCDHbHHEZfqsjdZ3OqlM2dsFuVj4zk/EK623yW8W482lpQtKVAWQTRP8HjWdZLaO18nk1Px8rhslIceSpd5D0SlixdtOURwKocknS8Lu7JZiVm8s8+69PkSWU9RUEEhtsJABFfQ/uz96Tl81HmTUqy8BspTFUz2loT+ou+FKNceKvzz51TCyRshAd9Q8E+1s0YAAA7aLPctuTMN4hiG3kH0MAuMe0gLLYCaQV/Ip5Iomq1ZfyPJe7EGnCKQkCuPLYvRo0s9rQRQzUDXGwb+pcm0B2luobsJ7gNX+7adS8slc9sKogqogjjzo0aKl6hTbORf//Z" />
+<RemoteImage alt={`Chico - Lieblingsschallplattenladen-Maskottchen`}
+size="medium" title={`Chico - Lieblingsschallplattenladen-Maskottchen`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_chico__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_chico__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcE/8QAKRAAAQQBAwMEAQUAAAAAAAAAAQIDBBEFAAYhEhMxFCIyQQcjUXGBwf/EABYBAQEBAAAAAAAAAAAAAAAAAAUEAf/EACURAAEEAAMJAQAAAAAAAAAAAAEAAgMRIVGBEhMxMjNBcZHwof/aAAwDAQACEQMRAD8AvsvMK6WglxPQlBUpDba1UP8ATZF1elbryyER8JCzePlysfLlhUb0TyCKT7rcQpHxAJujdHVRbXg8pt5iRLyMvFrD6W30Oh0uNKCj0rtKRYJAUQOPGkbmzWQ21uSJPjSWdzNyYKS0/DkU6ypJSXHuyQAFLAAsE8fRqtDCDHbHHEZfqsjdZ3OqlM2dsFuVj4zk/EK623yW8W482lpQtKVAWQTRP8HjWdZLaO18nk1Px8rhslIceSpd5D0SlixdtOURwKocknS8Lu7JZiVm8s8+69PkSWU9RUEEhtsJABFfQ/uz96Tl81HmTUqy8BspTFUz2loT+ou+FKNceKvzz51TCyRshAd9Q8E+1s0YAAA7aLPctuTMN4hiG3kH0MAuMe0gLLYCaQV/Ip5Iomq1ZfyPJe7EGnCKQkCuPLYvRo0s9rQRQzUDXGwb+pcm0B2luobsJ7gNX+7adS8slc9sKogqogjjzo0aKl6hTbORf//Z"
+/>
 
-Als ich vor ein paar Tagen die "Über mich-Seite" ein bisschen modernisiert und
+Als ich vor ein paar Tagen die "Über mich-Seite" ein bisschen modernisiert und
 aktualisiert habe, flog die Liste raus, weil ich dort einfach keine Verwendung
 mehr dafür hatte. Natürlich wollte ich sie trotzdem nicht löschen. Ich habe also
-auch die Liste aktualisiert und eine ganz eigene Seite daraus gemacht, die ich
+auch die Liste aktualisiert und eine ganz eigene Seite daraus gemacht, die ich
 Euch hiermit präsentiere.
 
 Ich bin schon gespannt, ob sich der Eine oder die Andere von Euch vielleicht ein
@@ -68,13 +72,11 @@ vollständig, es fehlt sogar eine ganze Menge, denke ich. Mir dient sie selbst
 auch ein bisschen dazu, mich ab und zu an das ein oder andere geniale Werk zu
 erinnern und es in unregelmäßigen Abständen mal wieder zu genießen.
 
-<RemoteImage
-  alt="Deftones"
-  size="medium"
-  title="Deftones"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_08_p3230071__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_08_p3230071__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcDBQQGCP/EACoQAAEDAwMCBgIDAAAAAAAAAAECAwQFESEABhITFAcVIjEyQVJhcYHw/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUBAgP/xAAiEQACAgAFBQEAAAAAAAAAAAABAgADBBESQYEFFDFR8PH/2gAMAwEAAhEDEQA/AMTwsgK7anqKTx7xziAnHwVfP9/6+mwiAoi4QbfxpJ7c3TD2x265DzIdS+lSGlR1KWUkqS4AoEZ4kEXxfUG4qluHeu9Y83bVcm09l5xtFNhIdOEggJccSDxupXJSgb2GM6AquREGowoUs5OkeI9hEt9aNXrUV3oNdzwL/BPUKPiVWyR+r30aO0mYTjbfMdYrfcHqyKYq7cZzgePpPqAx+QVn7FjrYPAl1iDvKNUJLkby6OvjJcU+2HLJbW4gJQVBSrqSMgWxnV3AiIZrm42JUgsM0tfmEYIF/QtKuSbE+xFx+vrUNKou2p0KnyI9HbhUxFMjtvLfNnZEkAlbhIOBYgYte5xpCuJVayX2y53jU4clwE3zjyoviXtudTw9Lnttv3Uem006q6eR4e4uFcOKin6vo0hfMG59OqMmDSip6RU0uMTWgpDwShkoUSoH4qumwGMG+dGrN1C9cgCOf2R2tR9/cT//2Q==" />
+<RemoteImage alt={`Deftones`} size="medium" title={`Deftones`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_08_p3230071__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_08_p3230071__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcDBQQGCP/EACoQAAEDAwMCBgIDAAAAAAAAAAECAwQFESEABhITFAcVIjEyQVJhcYHw/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUBAgP/xAAiEQACAgAFBQEAAAAAAAAAAAABAgADBBESQYEFFDFR8PH/2gAMAwEAAhEDEQA/AMTwsgK7anqKTx7xziAnHwVfP9/6+mwiAoi4QbfxpJ7c3TD2x265DzIdS+lSGlR1KWUkqS4AoEZ4kEXxfUG4qluHeu9Y83bVcm09l5xtFNhIdOEggJccSDxupXJSgb2GM6AquREGowoUs5OkeI9hEt9aNXrUV3oNdzwL/BPUKPiVWyR+r30aO0mYTjbfMdYrfcHqyKYq7cZzgePpPqAx+QVn7FjrYPAl1iDvKNUJLkby6OvjJcU+2HLJbW4gJQVBSrqSMgWxnV3AiIZrm42JUgsM0tfmEYIF/QtKuSbE+xFx+vrUNKou2p0KnyI9HbhUxFMjtvLfNnZEkAlbhIOBYgYte5xpCuJVayX2y53jU4clwE3zjyoviXtudTw9Lnttv3Uem006q6eR4e4uFcOKin6vo0hfMG59OqMmDSip6RU0uMTWgpDwShkoUSoH4qumwGMG+dGrN1C9cgCOf2R2tR9/cT//2Q=="
+/>
 
 ## Zeigt mir Eure Musik!
 
@@ -84,20 +86,21 @@ ergibt. Ich freue mich natürlich auch über Eure
 Meisterwerke und Bücher Euch besonders gut gefallen. Solltet Ihr selbst etwas in
 der Richtung erschaffen haben, sei es ein
 [Film](/2013/06/istanbul-mit-anderen-augen/), ein Buch oder ein Stück Musik,
-könnt Ihr es mir auch gerne
+könnt Ihr es mir auch gerne 
 [kurz per Mail vorstellen](mailto:info@cardamonchai.com), oder mich via Facebook
 [kontaktieren](https://www.facebook.com/cardamonchai). Ich schreibe dann eine
 kleine [Rezension](/flucht-in-die-flucht/) dazu, die ich anschließend gerne in
 meinem Blog veröffentlichen werde. Und nun zu meiner Liste, natürlich
 unordentlich und fern jeder Excel-Tabellenstruktur, so wie Ihr es von mir
 gewohnt seid. Wie Ihr seht, sind einige Künstler und Kunstwerke inzwischen
-verlinkt, dahinter findet Ihr jeweils einen passenden Artikel.## Musik - Einige
-meiner liebsten Musiker
+verlinkt, dahinter findet Ihr jeweils einen passenden Artikel.
+
+## Musik - Einige meiner liebsten Musiker
 
 (nearly in alphabetical order) 65daysofstatic,
 [Alcest](/2015/09/alcest-live-logo-hamburg/), A Perfect Circle, And So I Watch
 You From Afar, The Album Leaf, Audioslave, Arcade Fire, Adam Green, Ash, At The
-Drive In, Absynthe Minded, Aereogramme,
+Drive In, Absynthe Minded, Aereogramme, 
 [Armanda Palmer](/2013/03/konzert-abgesagt-ticketshop-uberfordert-neues-aus-der-servicewuste/),
 Alice In Chains,
 [And You Will Know Us By The Trail Of Dead](/2013/04/trail-of-dead-live-strom-munchen-12-april-2013/),
@@ -120,8 +123,8 @@ SHAMBLES, BLUR, BRIAN SETZER,
 [BLACKMAIL](/2008/12/blackmail-live-kantine-augsburg/),
 [BIFFY CLYRO](/2013/01/melancholie-meets-gerechtes-brett-biffy-clyro-bringen-neues-album-auf-den-markt/),
 BUCKETHEAD, BUENA VISTA SOCIAL CLUB, THE BAND, BEULAH, BIG BROTHER AND THE
-HOLDING COMPANY, BELASCO, BLACK TIE REVUE, BEIRUT, BEAR IN HEAVEN,
-[Calexico](/category/musik/calexico/), Chelsea Light Moving, Cloud Nothings,
+HOLDING COMPANY, BELASCO, BLACK TIE REVUE, BEIRUT, BEAR IN HEAVEN, Calexico,
+Chelsea Light Moving, Cloud Nothings,
 [Cult Of Luna](/2013/05/cult-of-luna-the-ocean-lo-live-feierwerk-munchen/),
 Collapse Under The Empire, Codes In The Clouds, Cage The Elephant, Crippled
 Black Phoenix, +++ Crosses, The Cure, The Clash, Callisto, Cire, The Calm Blue
@@ -169,13 +172,12 @@ LUKE TEMPLE, LOST IN THE TREES, LA DISPUTE, THE LIBERTINES, LITTLE MAN TATE,
 LAGWAGON, THE LEISURE SOCIETY, LP2, LONG DISTANCE CALLING, THE LUMINEERS, LEYLA
 MCCALLA, LAMB, THE LAST SHADOW PUPPETS, LOU REED,
 
-<RemoteImage
-  alt="Boysetsfire - While A Nation Sleeps"
-  size="medium"
-  title="Boysetsfire - While A Nation Sleeps"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464863952_3ba5243c05_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464863952_3ba5243c05_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABQEDAgQH/8QALRAAAgIBAwMCBQMFAAAAAAAAAQIDBBEABRIGITETQQcUIjJRFiOhQnGRscL/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQABAgP/xAAeEQACAwADAAMAAAAAAAAAAAABAgADERIhQRRxgf/aAAwDAQACEQMRAD8AL+FlTpej8L61rfOmds3WzZaVkn9GJnI4ceLlxlcMM5XPnOuZWaFOrInzNCs6KpVlhjQcvHuR5899YdNdQyVtgrbf6nGNT25eFDEZP8nTjWa7XlEcNOSOFmJV67SSRlSRlzy75bHY9jnsO2kpW0uQx60xl8el61PuSeuupejd1FIbJ0TFtghR45CDGDKCF4k8R9wIPf3zo/pvdul0p7zX3PpmrLas1J0q3JJAq0yIHIIQLhnLhcE+O2MaOtVYTVnFhaUEwmkijhhQh4wqM3MuWyy5UAhgfPkHQe1XjUnacKjfsTLhxkfVE6/9f50YtY3l7+wV60UkiHpMVjQEk/Qvn+2nqO4C5VKlVaeOMRyqTzadB3XIyDnJIznthfbVPT/Tv6ghmkTd9m21a0KZF6yEaQ4OeKgEn7f5X86JiksIixrPWZR4DOvbt+T411xT9ylswDYjvE6VxNUDLNZdl9ayr5LKo48e4zg45EE+w1p0VDGfkodVrytgnH9BwdU2PXdFDmpx8/Q8YP8AvOr6QWAW/mmiUGrIFy6tliMADB86hzj1Mu4IM//Z" />
+<RemoteImage alt={`Boysetsfire - While A Nation Sleeps`} size="medium"
+title={`Boysetsfire - While A Nation Sleeps`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464863952_3ba5243c05_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464863952_3ba5243c05_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABQEDAgQH/8QALRAAAgIBAwMCBQMFAAAAAAAAAQIDBBEABRIGITETQQcUIjJRFiOhQnGRscL/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQABAgP/xAAeEQACAwADAAMAAAAAAAAAAAABAgADERIhQRRxgf/aAAwDAQACEQMRAD8AL+FlTpej8L61rfOmds3WzZaVkn9GJnI4ceLlxlcMM5XPnOuZWaFOrInzNCs6KpVlhjQcvHuR5899YdNdQyVtgrbf6nGNT25eFDEZP8nTjWa7XlEcNOSOFmJV67SSRlSRlzy75bHY9jnsO2kpW0uQx60xl8el61PuSeuupejd1FIbJ0TFtghR45CDGDKCF4k8R9wIPf3zo/pvdul0p7zX3PpmrLas1J0q3JJAq0yIHIIQLhnLhcE+O2MaOtVYTVnFhaUEwmkijhhQh4wqM3MuWyy5UAhgfPkHQe1XjUnacKjfsTLhxkfVE6/9f50YtY3l7+wV60UkiHpMVjQEk/Qvn+2nqO4C5VKlVaeOMRyqTzadB3XIyDnJIznthfbVPT/Tv6ghmkTd9m21a0KZF6yEaQ4OeKgEn7f5X86JiksIixrPWZR4DOvbt+T411xT9ylswDYjvE6VxNUDLNZdl9ayr5LKo48e4zg45EE+w1p0VDGfkodVrytgnH9BwdU2PXdFDmpx8/Q8YP8AvOr6QWAW/mmiUGrIFy6tliMADB86hzj1Mu4IM//Z"
+/>
 
 [Muse](/tag/muse/),
 [Mark Lanegan](/2015/03/mark-lanegan-live-freiheiz-muenchen/), Midas Fall,
@@ -183,9 +185,9 @@ MCCALLA, LAMB, THE LAST SHADOW PUPPETS, LOU REED,
 Motorpsycho, Maybeshewill, Manic Street Preachers, Modest Mouse, Magik Markers,
 Minus The Bear, Metallica, Mondo Generator, Mumford And Sons, Mooncake, The
 Maccabees, Massive Attack, My Chemical Romance, Mano Negra, Manu Chao, Mando
-Diao, Mastodon, Menomena, The Moldy Peaches, Marilyn Manson, Mother Love Bone,
-Melvins, Mudhoney, Message To Bears, Miles Kane, Max Herre, Mars Volta, NEIL
-YOUNG, NOEL GALLAGHER'S HIGH FLIGHING BIRDS, NINE BLACK ALPS,
+Diao, Mastodon, Menomena, The Moldy Peaches, Mother Love Bone, Melvins,
+Mudhoney, Message To Bears, Miles Kane, Max Herre, Mars Volta, NEIL YOUNG, NOEL
+GALLAGHER'S HIGH FLIGHING BIRDS, NINE BLACK ALPS,
 [NINE INCH NAILS](/2014/05/we-have-a-lotta-shit-for-you/), NATHAN GRAY, NIRVANA,
 NIELS FREVERT, THE NEW PORNOGRAPHERS, THE POSTAL SERVICE, NICK CAVE, NO DOUBT,
 [The Ocean](/2013/05/cult-of-luna-the-ocean-lo-live-feierwerk-munchen/),
@@ -217,15 +219,14 @@ Rabbits, Will Butler, Warpaint, Wilco, The Walkmen, The War On Drugs, Wire,
 Witchcraft, Warpaint, XAVER FISCHER TRIO, Young Rebel Set, Yo La Tengo, Yea Yea
 Yeas, Zwan, ...
 
-## Bücher - Einige meiner liebsten Autoren und Romane
+## Bücher - Einige meiner liebsten Autoren und Romane
 
-<RemoteImage
-  alt="Music From Big Pink von John Niven"
-  size="medium"
-  title="Music From Big Pink von John Niven"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464850894_e67538f729_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464850894_e67538f729_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUEA//EAC8QAAICAgEDAgMGBwAAAAAAAAECAwQFEQYAEiETMSJRgQcUI0FhkRUWM0JxocH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EACERAAICAgIBBQAAAAAAAAAAAAERAAIDIUFRBBIiMYHw/9oADAMBAAIRAxEAPwDHn83yq1zjkfpZrMRwQ5KaCKFLjxxpGjlVCop9u0D/AL562/ZbzG9muW2qc3IclMlSrPI6yzlY20yqG7mY+3cNE6/31ozmOgTmuWstSRxFcmkR/W0QSzMTr/J8dX+L4nHSZCkhoV1gmqWIpI1A7WTcZI8aOiRvXUKvmPMKEaJ1LeXDWuLXyopv2YngDWc+9eOJ/wCpDlACX2QFbX18fp0I+75nFcmxEtDmWdycS2YjNE9+OSPsMqKyum9kEOR+3WX7QszgOM5ZcfjcBjpEZFM5eM6LK2wAd/l5+p6bVcVx1qFbLYbF1a3qtD8QTsYD1oyVbz4O1H1HTzwXJ4Hp4gXPX2/m/PwlnMa23Uoqg/DvZ34/X36v8Yu1qTVrNyxHDBFDP3zP8KjbIN/UkdAeTVOUVeeZ0x4rNNA+QneN460skTRs+1ZSikEaPz/PqlgKfJLl64rwZGJpKJijNmjIsSuJ4m/uXWyqt0I4ffVVARb70uuYslg2N2wl+6nXnXGqef5IbkOXrPWlQtK6yKSijz7HXtvWxv8Afp3g7OLo4mtjMfkqtiZXSTshkDtoyJsgfLyOof8AAOQLXn/CCSl+5JI6isTH6Tgx6K+xcx/QE/oZPGMRyKty2sLOKYodL6sVExBfxkYkv2Aa7B8/cb6X9w1iCJ//2Q==" />
+<RemoteImage alt={`Music From Big Pink von John Niven`} size="medium"
+title={`Music From Big Pink von John Niven`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464850894_e67538f729_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464850894_e67538f729_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUEA//EAC8QAAICAgEDAgMGBwAAAAAAAAECAwQFEQYAEiETMSJRgQcUI0FhkRUWM0JxocH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EACERAAICAgIBBQAAAAAAAAAAAAERAAIDIUFRBBIiMYHw/9oADAMBAAIRAxEAPwDHn83yq1zjkfpZrMRwQ5KaCKFLjxxpGjlVCop9u0D/AL562/ZbzG9muW2qc3IclMlSrPI6yzlY20yqG7mY+3cNE6/31ozmOgTmuWstSRxFcmkR/W0QSzMTr/J8dX+L4nHSZCkhoV1gmqWIpI1A7WTcZI8aOiRvXUKvmPMKEaJ1LeXDWuLXyopv2YngDWc+9eOJ/wCpDlACX2QFbX18fp0I+75nFcmxEtDmWdycS2YjNE9+OSPsMqKyum9kEOR+3WX7QszgOM5ZcfjcBjpEZFM5eM6LK2wAd/l5+p6bVcVx1qFbLYbF1a3qtD8QTsYD1oyVbz4O1H1HTzwXJ4Hp4gXPX2/m/PwlnMa23Uoqg/DvZ34/X36v8Yu1qTVrNyxHDBFDP3zP8KjbIN/UkdAeTVOUVeeZ0x4rNNA+QneN460skTRs+1ZSikEaPz/PqlgKfJLl64rwZGJpKJijNmjIsSuJ4m/uXWyqt0I4ffVVARb70uuYslg2N2wl+6nXnXGqef5IbkOXrPWlQtK6yKSijz7HXtvWxv8Afp3g7OLo4mtjMfkqtiZXSTshkDtoyJsgfLyOof8AAOQLXn/CCSl+5JI6isTH6Tgx6K+xcx/QE/oZPGMRyKty2sLOKYodL6sVExBfxkYkv2Aa7B8/cb6X9w1iCJ//2Q=="
+/>
 
 (in no particular order) Antoine De Saint-Exupery, Truman Capote, John Niven,
 Jean Paul Sartre, Oscar Wilde, Ernest Hemingway, Franz Kafka, Günter Grass,
@@ -251,13 +252,11 @@ DIE PILGERJAHRE DES FARBLOSEN HERNN TAZAKI, ...
 
 ## Filme - Einige meiner liebsten Filmemacher und deren Werke
 
-<RemoteImage
-  alt="Memento"
-  size="medium"
-  title="Memento"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464650558_98241c96c7_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464650558_98241c96c7_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHCP/EAC0QAAEDAwMDAgQHAAAAAAAAAAECAwQFBhEAEiEHMUEiUQgTFDIWcoGCkbLC/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACIRAQACAgECBwAAAAAAAAAAAAECAwARIQSxEyIxQVFh4f/aAAwDAQACEQMRAD8AS+nNj0ubTIEx2kCc+qL80oIzuJHHBOPPnTnKh2fT7sfpD9m0VmLCXskTn05AAQCVbADn15BAznRro3S01G06MlbjqECHHKiyrYTyk4JA7HHOi14AU2XU9kWMZjiH0/OP3BJJXgjsfUc4PsPbWPXepIlt2oc5sXQjKcSJ6BvFq07Vty+/q1KtFmiIb+x1mK2WnAAOwUgKBJPbwNSTqPaMKg3BdlPZYbKYDhLCkthJCFNhY7e2dbJtRhqNQKYkhPzExkgq88jJ/k6zb8Qrf0t+XJjaEy6W0/nI5IbKP86orsZKnB+mSUsfEY/T2x26E1NX4Lht09tD8xMdlKW3FhCTtTlXP7hxoneVrz65UpEyc7V4pcyoJjracaGOwAxnnAzz2OoXYl/Uqh23FgzpGVghZSGysD0gDOB34On2D1htZDJDLyGHVJKSpEVYVz7EAY0I0zrdwj84bpkpbH2O2XA12PS4DSZUSSpDW5tTiUkAJQMlX5eONZw+JepMSrmiTI+UtyKStn1kZylxYxnz38aLzOrFCNOVGi3dW2fRsGC4v+6Dx+uo11FrtMrD0Y0s5DYXvVsKd2ccnPJOQedP6ahHk1iCRHzDzn//2Q==" />
+<RemoteImage alt={`Memento`} size="medium" title={`Memento`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464650558_98241c96c7_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464650558_98241c96c7_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHCP/EAC0QAAEDAwMDAgQHAAAAAAAAAAECAwQFBhEAEiEHMUEiUQgTFDIWcoGCkbLC/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACIRAQACAgECBwAAAAAAAAAAAAECAwARIQSxEyIxQVFh4f/aAAwDAQACEQMRAD8AS+nNj0ubTIEx2kCc+qL80oIzuJHHBOPPnTnKh2fT7sfpD9m0VmLCXskTn05AAQCVbADn15BAznRro3S01G06MlbjqECHHKiyrYTyk4JA7HHOi14AU2XU9kWMZjiH0/OP3BJJXgjsfUc4PsPbWPXepIlt2oc5sXQjKcSJ6BvFq07Vty+/q1KtFmiIb+x1mK2WnAAOwUgKBJPbwNSTqPaMKg3BdlPZYbKYDhLCkthJCFNhY7e2dbJtRhqNQKYkhPzExkgq88jJ/k6zb8Qrf0t+XJjaEy6W0/nI5IbKP86orsZKnB+mSUsfEY/T2x26E1NX4Lht09tD8xMdlKW3FhCTtTlXP7hxoneVrz65UpEyc7V4pcyoJjracaGOwAxnnAzz2OoXYl/Uqh23FgzpGVghZSGysD0gDOB34On2D1htZDJDLyGHVJKSpEVYVz7EAY0I0zrdwj84bpkpbH2O2XA12PS4DSZUSSpDW5tTiUkAJQMlX5eONZw+JepMSrmiTI+UtyKStn1kZylxYxnz38aLzOrFCNOVGi3dW2fRsGC4v+6Dx+uo11FrtMrD0Y0s5DYXvVsKd2ccnPJOQedP6ahHk1iCRHzDzn//2Q=="
+/>
 
 (in no particular order) JIM JARMUSCH, COEN BROTHERS, FATIH AKIN, PEDRO
 ALMODOVAR, WOODY ALLEN, TIM BURTON, DAVID LYNCH, ALFRED HITCHCOCK, ...
@@ -277,7 +276,7 @@ Barcelona, Fear And Loathing In Las Vegas, You Will Meet A Tall Dark Stranger,
 Auf Der Anderen Seite, Gegen Die Wand, Soul Kitchen, Twin Peaks, Black Dahlia,
 Grand Budapest Hotel, Psycho, Dr. Seltsam oder wie ich lernte die Bombe zu
 lieben, Boardwalk Empire, Tron, Corpse Bride, Frankenweenie, Wasted - Die große
-Verschwendung, Basquiat, The Wire, Dexter, Californication, Django Unchained,
+Verschwendung,  Basquiat, The Wire, Dexter, Californication, Django Unchained,
 Inglourious Basterds, Waynes World, Drei Männer im Schnee, 101 Reykjavik,
 Requiem For A Dream, Luna Papa, True Romance, True Blood, The Shadow Line,
 Swimming Pool, Death Proof, It Might Get Loud, Mad Men, Breaking Bad, Sweeney

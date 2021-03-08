@@ -13,10 +13,9 @@ excerpt: Bei "Augsburg Pelzfrei" habe ich mich mit Thomas Laschyk (Bekannt durch
 focusKeyword: Thomas Laschyk
 labels:
   - Augsburg
-  - Darum vegan
   - darum vegan
   - der Volksverpetzer
-  - Interview
+  - Interviews
   - Thomas Laschyk
   - Tierrechte
   - Tierrechtsinitiative Augsburg
@@ -35,12 +34,18 @@ subTitle: Fragestunde mit dem TiA Aktivisten
   
 ---
 
+**Im Rahmen der von der Tierrechtsinitiative Augsburg (TiA) organisierten
+Demonstration "Augsburg Pelzfrei 2014” habe ich mich mit Thomas Laschyk (Bekannt
+durch den "Volksverpetzer") von der TiA zum Interview getroffen.**
+
 Thomas lebt selbst vegan, arbeitet schon seit einiger Zeit bei der TiA und das
 Thema "Pelze" ist eines, das ihm persönlich besonders am Herzen liegt.
 
 > "Wer Tiere schützen will, sollte sie nicht essen. Alles andere ist absurd!” –
-> Thomas Laschyk **Anne:** Hallo Thomas, vielen Dank, dass du dir die Zeit für
-> Dieses Interview nimmst!
+> Thomas Laschyk
+
+**Anne:** Hallo Thomas, vielen Dank, dass du dir die Zeit für Dieses Interview
+nimmst!
 
 **Thomas:** Sehr gerne!
 
@@ -51,13 +56,11 @@ seit zwei Jahren aktiv mit dabei.
 
 **Anne:** Was genau ist deine Aufgabe bei der TiA?
 
-<RemoteImage
-  alt="thomas-laschyk"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBQIDB//EACwQAAEDAwIDBwUBAAAAAAAAAAECAwQABRESIQYTMRQiQVFhceEVI0KBkbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A5IymRIs65Qy02pSmh9skqODnB8/Ori1F+4cPWyEAQp2YgIX+S+91053AwP8AKvINxg2qbCtXag4wyHHJCQAUuOOIKtKh4gbJHzVVwpxSwpVigsw3QY8hamXgoEp5md8AZJGdx6Cgi1QyxCa5MZx5K06u6knAycZx0+KKZrCLhb7e0299SjkJKQlEVxewWrG4IHQj4ooE2TaL2xxA5dJEOS6TI5iVYC1KGc7jVn3z/azgOyIk+JMtNliNTIz6w4hlhQU6MZUnClKTsPBIBGacIInuON9ngKwFdVeO37NbIHCt0WltqaWkIanqnp5JUCSrOyjtpO4wfSgaYfElrnsokOW6OiM4hLjCg1zFKBG+roAfSipt9jt1sLyYUdDXMVqWltxRGfc7Z9qKD//Z" />
+<RemoteImage alt={`thomas-laschyk`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBQIDB//EACwQAAEDAwIDBwUBAAAAAAAAAAECAwQABRESIQYTMRQiQVFhceEVI0KBkbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A5IymRIs65Qy02pSmh9skqODnB8/Ori1F+4cPWyEAQp2YgIX+S+91053AwP8AKvINxg2qbCtXag4wyHHJCQAUuOOIKtKh4gbJHzVVwpxSwpVigsw3QY8hamXgoEp5md8AZJGdx6Cgi1QyxCa5MZx5K06u6knAycZx0+KKZrCLhb7e0299SjkJKQlEVxewWrG4IHQj4ooE2TaL2xxA5dJEOS6TI5iVYC1KGc7jVn3z/azgOyIk+JMtNliNTIz6w4hlhQU6MZUnClKTsPBIBGacIInuON9ngKwFdVeO37NbIHCt0WltqaWkIanqnp5JUCSrOyjtpO4wfSgaYfElrnsokOW6OiM4hLjCg1zFKBG+roAfSipt9jt1sLyYUdDXMVqWltxRGfc7Z9qKD//Z"
+/>
 
 **Thomas:** Ich kümmere mich vor allem um Social Media, PR, Werbung und
 Vernetzung.
@@ -77,21 +80,41 @@ Pelze, alles andere ist für dich aber OK?".
 
 **Anne:** Deine Hauptargumente gegen Pelz?
 
-> ## "Niemand braucht Pelz!" **Thomas:** Das wichtigste Argument ist: Niemand braucht Pelz! Pelz ist absolut unnötig. Selbst wenn man wegen der Optik unbedingt ein derartiges Kleidungsstück tragen möchte, gibt es absolut gleichwertigen, wenn nicht sogar besseren Kunstpelz, der genau so warm hält. Neben der unglaublichen Tierquälerei, bei der es sich so ziemlich um das Schlimmste handelt, was man einem Lebewesen antun kann, ist es auch noch extrem umweltbelastend, die Tiere müssen gefüttert werden, hier werden Nahrungsmittel verschwendet, der Kot verschmutzt die Umwelt, es kommt zu unnötigen CO2-Ausstößen und der Chemiecocktail, mit dem die Pelze behandelt werden, ist extrem gesundheitsschädlich. Außer der Industrie selbst, braucht niemand Pelz, es handelt sich dabei um ein Verbrechen gegenüber den Tieren und unserem Planeten.
+> ## "Niemand braucht Pelz!"
+
+**Thomas:** Das wichtigste Argument ist: Niemand braucht Pelz! Pelz ist absolut
+unnötig. Selbst wenn man wegen der Optik unbedingt ein derartiges Kleidungsstück
+tragen möchte, gibt es absolut gleichwertigen, wenn nicht sogar besseren
+Kunstpelz, der genau so warm hält. Neben der unglaublichen Tierquälerei, bei der
+es sich so ziemlich um das Schlimmste handelt, was man einem Lebewesen antun
+kann, ist es auch noch extrem umweltbelastend, die Tiere müssen gefüttert
+werden, hier werden Nahrungsmittel verschwendet, der Kot verschmutzt die Umwelt,
+es kommt zu unnötigen CO2-Ausstößen und der Chemiecocktail, mit dem die Pelze
+behandelt werden, ist extrem gesundheitsschädlich. Außer der Industrie selbst,
+braucht niemand Pelz, es handelt sich dabei um ein Verbrechen gegenüber den
+Tieren und unserem Planeten.
 
 **Anne:** Du erwähntest ja gerade, dass es eigentlich gar keinen Grund gibt,
 Pelz zu tragen. Nun ist es ja so, dass die Nachfrage den Markt bestimmt. Wie
 kann es sein, dass es in der heutigen Zeit noch ein Nachfrage für Pelz gibt?
 
-<RemoteImage
-  alt="thomas-laschyk"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgIDB//EACgQAAICAgIBAgYDAQAAAAAAAAECAwQFEQASIRMxBiJBUWFxFDJCgf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDmNPHhZ4S9G31uEQxmdVY91nXetHf9TrfHsvG3qQR0KoZV6oimRWbTON/87OBr8fvhcyOPxOQq169ZnsLKs9hk0jEBuxQMN/YE8Yv/ABvBVymUx1So8tdrJVJesaydg3zaABGtnwN/QcCGxdixjrl8Wq56tJ1Vg/pglSd637+Tw5b4fgKLK+pJBmI2rhyVK/MNn32D7N4BP5PDgUzN4nKpmje/hF65kVI1RAxChdEEA70dfXewfPGJbN5bsmZipV1yquK6gRdHhkkIEbqDvZ12Xyf9A8m6d207RiCmT5Ou5Ck/r68xtYXKXM4Lawlq0hhdyj6AZG2CR7+NDR+/At1L43snGVDiKVWvXZNmIQNIUb2YHRGjsHhzfRxdCnPangaeotp/UaEzFQredkKT43vhwP/Z" />
+> ## "Die Nachfrage wird künstlich aufrechterhalten"
 
-> ## "Die Nachfrage wird künstlich aufrechterhalten" **Thomas:** Die Nachfrage wird vor allem von der Industrie künstlich aufrechterhalten, durch Werbung und Marketing wird suggeriert, es sei natürlich, notwenig und nützlich. Oft passiert es auch, dass, wie zum Beispiel durch die Pelzkragen, die derzeit in Mode sind, der Pelz aus dem Vordergrund rückt, sprich, die Menschen wollen heute nicht mehr wie zu Großmutters Zeiten einen Pelzmantel tragen, sondern einfach nur eine schicke Jacke haben, der Pelz wird dabei einfach mit gekauft. Sehr oft ist Pelz fälschlicherweise als Kunstpelz deklariert, nur so können die Händler ihre Industrie, die sie reich macht, weiter am laufen halten.
+<RemoteImage alt={`thomas-laschyk`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgIDB//EACgQAAICAgIBAgYDAQAAAAAAAAECAwQFEQASIRMxBiJBUWFxFDJCgf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDmNPHhZ4S9G31uEQxmdVY91nXetHf9TrfHsvG3qQR0KoZV6oimRWbTON/87OBr8fvhcyOPxOQq169ZnsLKs9hk0jEBuxQMN/YE8Yv/ABvBVymUx1So8tdrJVJesaydg3zaABGtnwN/QcCGxdixjrl8Wq56tJ1Vg/pglSd637+Tw5b4fgKLK+pJBmI2rhyVK/MNn32D7N4BP5PDgUzN4nKpmje/hF65kVI1RAxChdEEA70dfXewfPGJbN5bsmZipV1yquK6gRdHhkkIEbqDvZ12Xyf9A8m6d207RiCmT5Ou5Ck/r68xtYXKXM4Lawlq0hhdyj6AZG2CR7+NDR+/At1L43snGVDiKVWvXZNmIQNIUb2YHRGjsHhzfRxdCnPangaeotp/UaEzFQredkKT43vhwP/Z"
+/>
+
+**Thomas:** Die Nachfrage wird vor allem von der Industrie künstlich
+aufrechterhalten, durch Werbung und Marketing wird suggeriert, es sei natürlich,
+notwenig und nützlich. Oft passiert es auch, dass, wie zum Beispiel durch die
+Pelzkragen, die derzeit in Mode sind, der Pelz aus dem Vordergrund rückt,
+sprich, die Menschen wollen heute nicht mehr wie zu Großmutters Zeiten einen
+Pelzmantel tragen, sondern einfach nur eine schicke Jacke haben, der Pelz wird
+dabei einfach mit gekauft. Sehr oft ist Pelz fälschlicherweise als Kunstpelz
+deklariert, nur so können die Händler ihre Industrie, die sie reich macht,
+weiter am laufen halten.
 
 **Anne:** Das bringt mich auch schon zu meiner nächsten Frage. Mich persönlich
 regt es ja besonders auf, dass viele Menschen gar nicht wissen, dass sie Pelz
@@ -108,15 +131,17 @@ Gleichzeitig setzen wir uns dafür ein, dass Pelz bzw. Kunstpelz in Zukunft klar
 deklariert wird. Es sollte auf jeden Fall immer ein Thema sein und in den Köpfen
 bleiben.
 
-<RemoteImage
-  alt="thomas-laschyk"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAoEAABAwMEAQQCAwAAAAAAAAABAgMEBREhAAYSMUEHE1FhFBUiQnH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8APV+ezUXafMYbfQ1JU+6n3kcFcSpAH+ix7uRqy2wEDbMVhSC0201ZRDfEODs3IUeXfRSNZlXqm1uCjh9uLIhv0t9th2O8gA8VlPLz2ClJt96s3qvTadRJzziHnFQm1pecaZb9tK02PEnCj2nv50DifWKDRZFprTK3HRYKHtpwPGTe4vo1lI3pRKi6+qoJEBIdUtpv8T31KCjcqURgfFvrRoFFMj1KszI0inokuUWVPXJSqS4lTh/ib8lffHlnGBq03Ft6dVoVSRGZLKHlqjl4tEJJJCjysCbYIx5zjUjQ2UPwY0FUlMZK6iOb7l1rS0lF8fPxYEX5HTf1Gcjxtru/q9xzpTKXW0mK4EpTw53/AK5JFgM47PeglF+n+4ITqg7+vBwkLVKAC7AZAIv58jRrhgqpz8Vt6qiQ522gIdUQLHOPF7jRoP/Z" />
+> ## "Viele Menschen denken gar nicht, dass es sich um Echtpelz handeln könnte"
 
-> ## "Viele Menschen denken gar nicht, dass es sich um Echtpelz handeln könnte" **Anne:** Das Hauptproblem ist ja, dass es heutzutage noch keine klare Auszeichnungspflicht gibt, der Pelz ist als Kunstpelz ausgezeichnet und es kann aber sein, dass es sich dabei um das Fell eines Hundes oder einer Katze handelt.
+<RemoteImage alt={`thomas-laschyk`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAoEAABAwMEAQQCAwAAAAAAAAABAgMEBREhAAYSMUEHE1FhFBUiQnH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8APV+ezUXafMYbfQ1JU+6n3kcFcSpAH+ix7uRqy2wEDbMVhSC0201ZRDfEODs3IUeXfRSNZlXqm1uCjh9uLIhv0t9th2O8gA8VlPLz2ClJt96s3qvTadRJzziHnFQm1pecaZb9tK02PEnCj2nv50DifWKDRZFprTK3HRYKHtpwPGTe4vo1lI3pRKi6+qoJEBIdUtpv8T31KCjcqURgfFvrRoFFMj1KszI0inokuUWVPXJSqS4lTh/ib8lffHlnGBq03Ft6dVoVSRGZLKHlqjl4tEJJJCjysCbYIx5zjUjQ2UPwY0FUlMZK6iOb7l1rS0lF8fPxYEX5HTf1Gcjxtru/q9xzpTKXW0mK4EpTw53/AK5JFgM47PeglF+n+4ITqg7+vBwkLVKAC7AZAIv58jRrhgqpz8Vt6qiQ522gIdUQLHOPF7jRoP/Z"
+/>
+
+**Anne:** Das Hauptproblem ist ja, dass es heutzutage noch keine klare
+Auszeichnungspflicht gibt, der Pelz ist als Kunstpelz ausgezeichnet und es kann
+aber sein, dass es sich dabei um das Fell eines Hundes oder einer Katze handelt.
 
 **Thomas:** Viele Menschen denken einfach gar nicht daran. Sie sehen den Besatz
 und ihnen kommt dabei einfach nicht in den Sinn,
@@ -134,15 +159,20 @@ wissen zum Großteil gar nicht, dass sie beim Verzehren dieser Lebensmittel
 Tierisches zu sich nehmen. Was kann man tun, um hier in Zukunft für mehr
 Aufklärung zu sorgen und die Menschen besser zu sensibilisieren?
 
-<RemoteImage
-  alt="thomas-laschyk"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-4__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-4__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwP/xAApEAACAgEDAwMDBQAAAAAAAAABAgMEEQAFIQYSQQcTMRQyURVCYYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgABA//EAB8RAAIBBAIDAAAAAAAAAAAAAAECAAMRIUGh8DFR4f/aAAwDAQACEQMRAD8AhvT3bn33ZI9uo+3PPBLA831BKhAyMvBPyOPH40z6y6dv7JVrS0ooL0te5Xjs11j+5mJeMo6ngEoVIIJGQc/id2yVb279PVtkdbd/boFNs15D7D+2S2M4wQFYgtg/djxptP6nrdbbo4q9ujt8UiyzpC0ZZyAe1RkYwMnJ+TnxpBXwBvvMRKC9/I7xOu91t43S7KI7X6aK7CM1q2O3uMaMWJIOSSx5HHA4+dGs5Spv+7S2blJnsI07I0jnuJIxj5HAwRxo1Gm5PyIVV9czX+mus4elfTKlZ3elXkuOHquK0ad0gx+/BUg9uAc/wfOoCh01091BIx6d3eWvFGy91C8VSd1xk+0x4OTxznGpLdfeq7BDHOGAmbMbNzngA/4VI/rS1LiJNHLXyhjYFD35ZSPIYAedOx0czipGxiNb/UO47LbtbZRkEVWtYkCI4R2HODll4Y8fI40alJW73Zj5JOjUarXwZgRdif/Z" />
+> ## "Es muss ein Bewusstsein geschaffen werden"
 
-> ## "Es muss ein Bewusstsein geschaffen werden" **Thomas:** Auch hier muss ein Bewusstsein dafür geschaffen werden, dass Tiere auch versteckt auf unseren Tellern und in unseren Lebensmitteln landen, weil die Industrie jeden Abfall aus der Tierproduktion noch zu Geld machen möchte. Frei nach dem Motto "Das merkt doch sowieso keiner.". Es handelt sich dabei nicht um essentielle Bestandteile, was ja auch viele vegane Produkte beweisen, die mindestens gleichwertig sind.
+<RemoteImage alt={`thomas-laschyk`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-4__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-4__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwP/xAApEAACAgEDAwMDBQAAAAAAAAABAgMEEQAFIQYSQQcTMRQyURVCYYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgABA//EAB8RAAIBBAIDAAAAAAAAAAAAAAECAAMRIUGh8DFR4f/aAAwDAQACEQMRAD8AhvT3bn33ZI9uo+3PPBLA831BKhAyMvBPyOPH40z6y6dv7JVrS0ooL0te5Xjs11j+5mJeMo6ngEoVIIJGQc/id2yVb279PVtkdbd/boFNs15D7D+2S2M4wQFYgtg/djxptP6nrdbbo4q9ujt8UiyzpC0ZZyAe1RkYwMnJ+TnxpBXwBvvMRKC9/I7xOu91t43S7KI7X6aK7CM1q2O3uMaMWJIOSSx5HHA4+dGs5Spv+7S2blJnsI07I0jnuJIxj5HAwRxo1Gm5PyIVV9czX+mus4elfTKlZ3elXkuOHquK0ad0gx+/BUg9uAc/wfOoCh01091BIx6d3eWvFGy91C8VSd1xk+0x4OTxznGpLdfeq7BDHOGAmbMbNzngA/4VI/rS1LiJNHLXyhjYFD35ZSPIYAedOx0czipGxiNb/UO47LbtbZRkEVWtYkCI4R2HODll4Y8fI40alJW73Zj5JOjUarXwZgRdif/Z"
+/>
+
+**Thomas:** Auch hier muss ein Bewusstsein dafür geschaffen werden, dass Tiere
+auch versteckt auf unseren Tellern und in unseren Lebensmitteln landen, weil die
+Industrie jeden Abfall aus der Tierproduktion noch zu Geld machen möchte. Frei
+nach dem Motto "Das merkt doch sowieso keiner.". Es handelt sich dabei nicht um
+essentielle Bestandteile, was ja auch viele vegane Produkte beweisen, die
+mindestens gleichwertig sind.
 
 **Anne:** Was hältst Du davon, dass viele Menschen gegen Pelz sind, aber Leder
 ganz selbstverständlich tragen, hier handelt es sich doch auch um die Haut von
@@ -165,7 +195,9 @@ romantisch verklären Blick und als in Freiheit lebend betrachtet werden. In
 dieses Bild passt die Ausbeutung weniger hinein. Ein klassisches Beispiel von
 kognitiver Dissonanz eben.
 
-## Die TiA macht sich auch für Käfighühner stark **Anne:** Was gibt es außer "Pelzfrei" noch für Hauptthemen bei der TiA?
+## Die TiA macht sich auch für Käfighühner stark
+
+**Anne:** Was gibt es außer "Pelzfrei" noch für Hauptthemen bei der TiA?
 
 **Thomas:** Im letzten Jahr haben wir unter anderem eine Kampagne gegen Käfig-
 und Bodenhaltung bei Hühnern gemacht und damit darauf aufmerksam gemacht, wie
@@ -184,15 +216,28 @@ jegliche Tierausbeutung zu verhindern und zu beenden.
 **Anne:** Wie lange bist Du selbst schon Veganer und hattest Du dabei ein
 besonderes Vorbild?
 
-<RemoteImage
-  alt="thomas-laschyk"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-3__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-3__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgEBQcG/8QAKRAAAQQBAwMDBAMAAAAAAAAAAQIDBAURABIhBiIxE1FhQXGBoQcjM//EABcBAQEBAQAAAAAAAAAAAAAAAAMEAAH/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIREiExA1H/2gAMAwEAAhEDEQA/AMv6fi2sm3luNPpE5Qjug+kSVqV2gjCuMBWu1uqKfNr6+ZLmMS3UpcSUNt7Q0lWe1WScZI4x86oqarl2E6TLoI0ywXEQIu1hkhQVtSATngAgEhWfpjjPNd1PeWdRayqRm6dfj1+xpZDYRlxAG/yM8KGPnn31sJNUdjS3IiQaZ+RE/r2pSlxY7toPnGPtx+9GplRYvrYIU45Ekp/1SpBBXklQWQfqQr7eNGhl509pDLBq7GMpv40sK59pyJLfjOZAcUMKKk+xz5Gltsus7WTPfemmFaRkuuobanRUOdvqHBJABzwOc6a1qVXJaV60h9QUDyHSVfoedJj1LDFL1FbVbbilswVuNoUrypKVdpPyRj8nVCSaqtE8XjwtJVxItpTr6I7DayQVBptTxPGBuK1EjwdGtfqejokGjrGXGostxMZG58tIBXnu5z7bsfjRpKX0Ny3w/9k=" />
+> ## "Mit den Argumenten habe ich mich nach und nach beschäftigt"
 
-> ## "Mit den Argumenten habe ich mich nach und nach beschäftigt" **Thomas:** Ich lebe jetzt seit fast zwei Jahren vegan, seitdem bin ich auch im Tierschutz aktiv. Die einzige vegan lebende Person, die ich zu dem Zeitpunkt kannte, hatte mich nach nur drei Monaten überzeugt, es ihr gleichzutun. Die vegane Szene lernte ich erst später richtig kennen. Auch mit den Argumenten habe ich mich nach und nach erst beschäftigt und eins nach dem anderen hat mich weiter in meiner Entscheidung bestärkt. Spezielle Vorbilder hatte ich am Anfang eigentlich nicht, die sind erst im Laufe der Zeit aufgetaucht. Das sind unter anderen Melanie Joy, die den Begriff des Karnismus geprägt hat, Nick Cooney und besonders auch die amerikanische Philosophin, Tierrechtsaktivistin und Feministin [Lisa Kemmerer.](http://www.lisakemmerer.com/) **Anne:** Ich persönlich frage mich ja heute oft, warum ich nicht schon früher die Entscheidung getroffen habe, vegan zu leben. Wie ist das bei dir, kennst du das auch? Falls ja, ärgerst du dich darüber?
+<RemoteImage alt={`thomas-laschyk`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-3__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-3__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgEBQcG/8QAKRAAAQQBAwMDBAMAAAAAAAAAAQIDBAURABIhBiIxE1FhQXGBoQcjM//EABcBAQEBAQAAAAAAAAAAAAAAAAMEAAH/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIREiExA1H/2gAMAwEAAhEDEQA/AMv6fi2sm3luNPpE5Qjug+kSVqV2gjCuMBWu1uqKfNr6+ZLmMS3UpcSUNt7Q0lWe1WScZI4x86oqarl2E6TLoI0ywXEQIu1hkhQVtSATngAgEhWfpjjPNd1PeWdRayqRm6dfj1+xpZDYRlxAG/yM8KGPnn31sJNUdjS3IiQaZ+RE/r2pSlxY7toPnGPtx+9GplRYvrYIU45Ekp/1SpBBXklQWQfqQr7eNGhl509pDLBq7GMpv40sK59pyJLfjOZAcUMKKk+xz5Gltsus7WTPfemmFaRkuuobanRUOdvqHBJABzwOc6a1qVXJaV60h9QUDyHSVfoedJj1LDFL1FbVbbilswVuNoUrypKVdpPyRj8nVCSaqtE8XjwtJVxItpTr6I7DayQVBptTxPGBuK1EjwdGtfqejokGjrGXGostxMZG58tIBXnu5z7bsfjRpKX0Ny3w/9k="
+/>
+
+**Thomas:** Ich lebe jetzt seit fast zwei Jahren vegan, seitdem bin ich auch im
+Tierschutz aktiv. Die einzige vegan lebende Person, die ich zu dem Zeitpunkt
+kannte, hatte mich nach nur drei Monaten überzeugt, es ihr gleichzutun. Die
+vegane Szene lernte ich erst später richtig kennen. Auch mit den Argumenten habe
+ich mich nach und nach erst beschäftigt und eins nach dem anderen hat mich
+weiter in meiner Entscheidung bestärkt. Spezielle Vorbilder hatte ich am Anfang
+eigentlich nicht, die sind erst im Laufe der Zeit aufgetaucht. Das sind unter
+anderen Melanie Joy, die den Begriff des Karnismus geprägt hat, Nick Cooney und
+besonders auch die amerikanische Philosophin, Tierrechtsaktivistin und
+Feministin [Lisa Kemmerer.](http://www.lisakemmerer.com/)
+
+**Anne:** Ich persönlich frage mich ja heute oft, warum ich nicht schon früher
+die Entscheidung getroffen habe, vegan zu leben. Wie ist das bei dir, kennst du
+das auch? Falls ja, ärgerst du dich darüber?
 
 **Thomas:** Ich denke mir auch, ich hätte es schon viel früher machen sollen,
 eigentlich hätte ich es schon immer sein sollen. Ich denke mir aber, ich wusste
@@ -203,7 +248,9 @@ Ideologie aufgewachsen, ich war mir dessen einfach nicht bewusst. Ich bin sehr
 froh, dass ich eines Tages darauf aufmerksam gemacht wurde und es erkannt habe.
 Für mich überwiegt der Stolz, dass ich es durchgezogen habe.
 
-## Der enge Kreis ist immer dabei **Anne:** Wie viele AktivistInnen hat die TiA?
+## Der enge Kreis ist immer dabei
+
+**Anne:** Wie viele AktivistInnen hat die TiA?
 
 **Thomas:** Das fluktuiert ein bisschen, bei uns gibt es keine Mitgliedsanträge,
 keine Buchführung über die AktivistInnen oder dergleichen. Wir sind über jeden
@@ -222,15 +269,19 @@ Schilder, Plakate, Flyer etc. kosten ja auch einiges. Außerdem freuen wir uns
 natürlich sehr, wenn man die Tierrechte selbstständig vorantreibt und den
 Gedanken in die Welt trägt, das hilft den Tieren natürlich besonders.
 
-<RemoteImage
-  alt="thomas-laschyk"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-5-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-5-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYHCAEDBf/EACgQAAEDAwMCBwEBAAAAAAAAAAECAwQFERIABiEHExQiMUFCUWEyCP/EABYBAQEBAAAAAAAAAAAAAAAAAAMCBP/EABsRAAICAwEAAAAAAAAAAAAAAAABAhEDITFR/9oADAMBAAIRAxEAPwDsxNkUuXQ233YiZbLTSUlMa11JbALaUixtYKPsTe/3pfo+25DsifNgPhVJhyw3NZW2HA4k5WWlATwUDMZJ9ClXHB1LW95s6F0prsoMtx5KKZ3HWoznKBZGYSsAfHKx1DXTefDqdcn0SmpkTH2Yr923ZCo5mLcl58Ac3bQR5gR/TnsdXkxxl0PHJrhncO2Gp81FQbc7kGUgrjeBmNN5JC1JK1osAFHGxULhRSTo0+1falFo0aJGrzC6S+MsRDiOSGHBxcox5TzclJ481x6nRrMnrY7Xgj77/wBCSqPXKtRKJRaXMgsZRPESitXfsMVkpBAxuFC31qDtvbuqe266ms7ff8DUgtXbXiHsULBunzg3Htzz+6W5jockurTlitRUMjc2Kj6nWkL5T+HWlysOKpF1ug/VhW+oNWG95lFiyICmksK8rJdCgrJRC1EE3T8bD80ar50O3NQNvGtncCwnxHY7WTQcvj3Mvgq39J+tGjbRVWf/2Q==" />
+> ## "Die Stimmung hat sich in der letzten Zeit stark verändert"
 
-> ## "Die Stimmung hat sich in der letzten Zeit stark verändert" **Anne:** Liest man sich durch die Facebook-Gruppen und veganen Foren, stößt man auf einige, die von Umbruchstimmung reden. Ich finde schon, dass sich in den letzten Jahren einiges getan hat, Discounter bieten Sojamilch an, überall stehen vegane Kochbücher in den Regalen der Buchläden. Auf der anderen Seite wird man als Veganer auch noch häufig belächelt. Wie siehst du das?
+<RemoteImage alt={`thomas-laschyk`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-5-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-5-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYHCAEDBf/EACgQAAEDAwMCBwEBAAAAAAAAAAECAwQFERIABiEHExQiMUFCUWEyCP/EABYBAQEBAAAAAAAAAAAAAAAAAAMCBP/EABsRAAICAwEAAAAAAAAAAAAAAAABAhEDITFR/9oADAMBAAIRAxEAPwDsxNkUuXQ233YiZbLTSUlMa11JbALaUixtYKPsTe/3pfo+25DsifNgPhVJhyw3NZW2HA4k5WWlATwUDMZJ9ClXHB1LW95s6F0prsoMtx5KKZ3HWoznKBZGYSsAfHKx1DXTefDqdcn0SmpkTH2Yr923ZCo5mLcl58Ac3bQR5gR/TnsdXkxxl0PHJrhncO2Gp81FQbc7kGUgrjeBmNN5JC1JK1osAFHGxULhRSTo0+1falFo0aJGrzC6S+MsRDiOSGHBxcox5TzclJ481x6nRrMnrY7Xgj77/wBCSqPXKtRKJRaXMgsZRPESitXfsMVkpBAxuFC31qDtvbuqe266ms7ff8DUgtXbXiHsULBunzg3Htzz+6W5jockurTlitRUMjc2Kj6nWkL5T+HWlysOKpF1ug/VhW+oNWG95lFiyICmksK8rJdCgrJRC1EE3T8bD80ar50O3NQNvGtncCwnxHY7WTQcvj3Mvgq39J+tGjbRVWf/2Q=="
+/>
+
+**Anne:** Liest man sich durch die Facebook-Gruppen und veganen Foren, stößt man
+auf einige, die von Umbruchstimmung reden. Ich finde schon, dass sich in den
+letzten Jahren einiges getan hat, Discounter bieten Sojamilch an, überall stehen
+vegane Kochbücher in den Regalen der Buchläden. Auf der anderen Seite wird man
+als Veganer auch noch häufig belächelt. Wie siehst du das?
 
 **Thomas:** Ich persönlich habe auch das Gefühl, dass sich die Grundstimmung in
 der letzten Zeit stark verändert hat. Vegan ist in der Welt und in den Medien
@@ -246,7 +297,9 @@ wir die kritische Masse, die sich für die Rechte der Tiere einsetzt und gegen
 das Leid der Tiere spricht, erreicht haben, somit besteht definitiv eine Chance,
 in den nächsten Jahren einen dauerhaften Umbruch zu erreichen.
 
-> ## "Das vegane Angebot und der Aktivismus in Augsburg wachsen" **Anne:** Deine Meinung zu Augsburg is(s)t vegan?
+> ## "Das vegane Angebot und der Aktivismus in Augsburg wachsen"
+
+**Anne:** Deine Meinung zu Augsburg is(s)t vegan?
 
 **Thomas:** Auch, wenn ich es natürlich hoffe, glaube ich nicht, dass Augsburg
 DER Vorreiter im Bekanntwerden des Veganismus ist, dafür befinden wir uns hier
@@ -277,15 +330,21 @@ betrifft. Die Presse und auch die Polizei berichten immer gut, wir hatten in der
 Hinsicht noch nie Probleme, das läuft alles immer sehr friedlich und freundlich
 ab.
 
-<RemoteImage
-  alt="thomas-laschyk"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-7__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-7__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAKhAAAgICAgAEBQUBAAAAAAAAAQIDBAURABIGISIxByNBUXEUF1JhgbH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAHBEBAAMAAwEBAAAAAAAAAAAAAQACEQMhMRNh/9oADAMBAAIRAxEAPwBpUzuTo4y1lsHgFt13k848ld6SMxCDcaxlgVJ9W9j3OhxlHlLFGfNZDKV8mxvpHBHXqr8irYKBQqFpNkrIrBtKPc8Z063h2hkEitVY0t1xuNViLFVfr7EkgDQUH8e/O+9BjcyxuUJGp6lEVgfpR8xtbRm2foCwBH8jxPnb8m5yUt0DEUPji3Ji4WzGGNGzag7dKtZrEkbMwVCqMVDJs6JB5T6/xBzYsJWGAo2KCyBJMjchKEKd+vrH6Qvl5DezzRM7hsFdybSCPHRpKQZI5Kav3bZ7MHB2N+Xt+eZd8T7eLxFmpViZZ2krl1NdFieN+2w31B0q9ep2Bvet8NuNDyLoWx62VWP4p56ClVXtG0iQqhfQ9XUa+39ci/dPxHZI3Y6j7cOHKjwkidxTd8WZuZpDNk7jl231MmkX79VA8vpyvzSyXrKyTu7MkZClmJIJO9/9H+8OHBZ0yNUB2f/Z" />
+> ## "Veganismus nicht als Widerspruch betrachten"
 
-> ## "Veganismus nicht als Widerspruch betrachten" **Anne:** Jeder Veganer kennt das: Man sitzt mit Bekannten oder der Familie am Tisch. Eigentlich will man sich nur über den letzten Urlaub oder über das Wetter austauschen. Es ist aber Omni-Bingo angesagt. Aus dem schlechten Gewissen oder der versteckten Neugierde der anwesenden Fleischesser resultieren Fragen wie "Was isst du denn dann überhaupt noch?" und "Was sollen wir denn dann mit den ganzen Kühen machen?". Was ist deine persönliche Lieblings-Omni-Bingo-Frage und wie antwortest du darauf?
+<RemoteImage alt={`thomas-laschyk`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-7__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-7__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAKhAAAgICAgAEBQUBAAAAAAAAAQIDBAURABIGISIxByNBUXEUF1JhgbH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAHBEBAAMAAwEBAAAAAAAAAAAAAQACEQMhMRNh/9oADAMBAAIRAxEAPwBpUzuTo4y1lsHgFt13k848ld6SMxCDcaxlgVJ9W9j3OhxlHlLFGfNZDKV8mxvpHBHXqr8irYKBQqFpNkrIrBtKPc8Z063h2hkEitVY0t1xuNViLFVfr7EkgDQUH8e/O+9BjcyxuUJGp6lEVgfpR8xtbRm2foCwBH8jxPnb8m5yUt0DEUPji3Ji4WzGGNGzag7dKtZrEkbMwVCqMVDJs6JB5T6/xBzYsJWGAo2KCyBJMjchKEKd+vrH6Qvl5DezzRM7hsFdybSCPHRpKQZI5Kav3bZ7MHB2N+Xt+eZd8T7eLxFmpViZZ2krl1NdFieN+2w31B0q9ep2Bvet8NuNDyLoWx62VWP4p56ClVXtG0iQqhfQ9XUa+39ci/dPxHZI3Y6j7cOHKjwkidxTd8WZuZpDNk7jl231MmkX79VA8vpyvzSyXrKyTu7MkZClmJIJO9/9H+8OHBZ0yNUB2f/Z"
+/>
+
+**Anne:** Jeder Veganer kennt das: Man sitzt mit Bekannten oder der Familie am
+Tisch. Eigentlich will man sich nur über den letzten Urlaub oder über das Wetter
+austauschen. Es ist aber Omni-Bingo angesagt. Aus dem schlechten Gewissen oder
+der versteckten Neugierde der anwesenden Fleischesser resultieren Fragen wie
+"Was isst du denn dann überhaupt noch?" und "Was sollen wir denn dann mit den
+ganzen Kühen machen?". Was ist deine persönliche Lieblings-Omni-Bingo-Frage und
+wie antwortest du darauf?
 
 **Thomas:** Ich glaube, die seltsamste Frage, die ich immer wieder zu hören
 bekomme, ist: "Warum müssen Veganer ihr Essen denn wie Fleisch formen, wenn sie
@@ -323,15 +382,16 @@ ich meine Zeit eben gerne mit Schreiben und Vorträgen. Ansonsten lese ich auch
 gerne Bücher, wenn ich mal einen Nachmittag für mich finde, denn immerhin
 studiere ich ja Literaturwissenschaft (grinst).
 
-<RemoteImage
-  alt="thomas-laschyk"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-6__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-6__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYD/8QAKhAAAgEDAwMCBgMAAAAAAAAAAQIDBAURABIhBhMxIlEHFBVBQnEWYZH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/xAAdEQABBQADAQAAAAAAAAAAAAABAAIDESEEEnGx/9oADAMBAAIRAxEAPwDN9KXS59O2eGKluJpYWZe+kIZFV952hiV4JH+6dHRXxCpaGmSh6iad2EqQw1LqTuLnADE4H3Bz7HSo6J6ss0l2r5LntjpVpTUJUVe1F7wyGTDLw+4lQBuPAx5yMx8SrzBe6mamtTqtIiRVMCRxrsWUswmxhR5VwPH4DznTGcujEfUe0hj4zWymTsfLz4n9W9T9vqyW8RV1KbJSokpgMh7sgYFQm0enAb1Kx8c++ot768qI7TePkYKIzKZoaaeENldrFXc7/S5UkHHgkeANIaxxUd/qYYIYjCk1oWWo3TAl6gKyd0nBwSwBHIxxx51RWi0XX6ddkWKaWW2LV0cwhi3OHZc8nyctx4zjd7aANcnJYBiadltVnnqJX+lQSRKDIsVQzShXJyzAkg5JOT+tX38RtXVDzLPTilaeElmhZuB6VOATgHCjn9++jRpCcR1qk3XpGG39R0dbTVHYmooMD5aFIxIHH5eSSMca4WL4a01xq6paK5T0BmUvJtTuBiGP2Y+csef70aNYXGlBotf/2Q==" />
+> ## "Wenn man sympathisch bleibt, kann man selbst ein gutes Vorbild sein"
 
-> ## "Wenn man sympathisch bleibt, kann man selbst ein gutes Vorbild sein" **Anne:** Welchen Tipp würdest du unseren Lesern geben, um den Tierschutzgedanken und den Veganismus noch weiter zu verbreiten?
+<RemoteImage alt={`thomas-laschyk`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-6__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-6__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYD/8QAKhAAAgEDAwMCBgMAAAAAAAAAAQIDBAURABIhBhMxIlEHFBVBQnEWYZH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/xAAdEQABBQADAQAAAAAAAAAAAAABAAIDESEEEnGx/9oADAMBAAIRAxEAPwDN9KXS59O2eGKluJpYWZe+kIZFV952hiV4JH+6dHRXxCpaGmSh6iad2EqQw1LqTuLnADE4H3Bz7HSo6J6ss0l2r5LntjpVpTUJUVe1F7wyGTDLw+4lQBuPAx5yMx8SrzBe6mamtTqtIiRVMCRxrsWUswmxhR5VwPH4DznTGcujEfUe0hj4zWymTsfLz4n9W9T9vqyW8RV1KbJSokpgMh7sgYFQm0enAb1Kx8c++ot768qI7TePkYKIzKZoaaeENldrFXc7/S5UkHHgkeANIaxxUd/qYYIYjCk1oWWo3TAl6gKyd0nBwSwBHIxxx51RWi0XX6ddkWKaWW2LV0cwhi3OHZc8nyctx4zjd7aANcnJYBiadltVnnqJX+lQSRKDIsVQzShXJyzAkg5JOT+tX38RtXVDzLPTilaeElmhZuB6VOATgHCjn9++jRpCcR1qk3XpGG39R0dbTVHYmooMD5aFIxIHH5eSSMca4WL4a01xq6paK5T0BmUvJtTuBiGP2Y+csef70aNYXGlBotf/2Q=="
+/>
+
+**Anne:** Welchen Tipp würdest du unseren Lesern geben, um den
+Tierschutzgedanken und den Veganismus noch weiter zu verbreiten?
 
 **Thomas:** Eine wichtige Grundregel ist sicherlich: Cool bleiben. Auch wenn die
 vegane Idee auf dem Vormarsch ist, sind viele Menschen noch ignorant und möchten
@@ -355,7 +415,12 @@ kommen. Es kam also eins zum anderen, kann man sagen.
 vielen Teilnehmern und Presserummel. Welches Projekt steht für dich persönlich
 und für die TiA als nächstes an?
 
-## Als Nächstes steht das Thema "Milch" auf der Agenda **Thomas:** Die TiA wird sich als nächstes mit [dem Thema Milch](/2014/09/pflanzenmilch-wieso-denn-blos/) befassen. Auch ist ab Ende Oktober wieder ein Zirkus mit Tieren in der Stadt, dort hat eine Aktivistin täglich eine Protestkundgebung angemeldet, natürlich sind wir da auch mit dabei.
+## Als Nächstes steht das Thema "Milch" auf der Agenda
+
+**Thomas:** Die TiA wird sich als nächstes mit
+[dem Thema Milch](/2014/09/pflanzenmilch-wieso-denn-blos/) befassen. Auch ist ab
+Ende Oktober wieder ein Zirkus mit Tieren in der Stadt, dort hat eine Aktivistin
+täglich eine Protestkundgebung angemeldet, natürlich sind wir da auch mit dabei.
 
 **Anne:** Vielen Dank noch mal für das tolle Interview! Es war mir eine Freude,
 deine Bekanntschaft zu machen!

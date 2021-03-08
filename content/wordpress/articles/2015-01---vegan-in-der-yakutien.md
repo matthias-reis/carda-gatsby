@@ -11,7 +11,7 @@ excerpt: Sebastian ist der 333ste Mensch, der den kältesten Ort der Erde in
 focusKeyword: Yakutien
 labels:
   - der kälteste Ort der Welt
-  - Interview
+  - Interviews
   - Jakutien
   - Sacha
   - Sibirien
@@ -31,6 +31,10 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Zu Besuch am kältesten Ort der Erde
   
 ---
+
+**Wer mich kennt weiß, dass ich gerne unterwegs bin. Aus diesem Grund bin ich
+auch in diversen Reiseforen und -Gruppen Mitglied. Auf einer dieser Seiten habe
+ich Sebastian kennengelernt.**
 
 Sebastian berichtete dort von seiner Reise nach Yakutien (oder auch Jakutien
 oder Sacha genannt/geschrieben –

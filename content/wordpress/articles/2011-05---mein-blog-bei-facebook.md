@@ -13,11 +13,11 @@ labels:
   - Bier
   - Blog
   - facebook
+  - Geschichten & Erlebtes
   - Gewinne
   - gewinnen
   - Gewinner
   - Gewinnspiel
-  - Tagebuch
   - Verlosung
 type: Artikel
 typeName: Artikel
@@ -33,6 +33,9 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Klickt doch mal rein
   
 ---
+
+**Nun gibt es meine Seite endlich auch auf Facebook! Ich würde mich sehr freuen,
+wenn die Seite Zuspruch findet und einige auf "Gefällt mir" klicken!**
 
 Als kleiner Anreiz wird unter allen, die sich innerhalb der nächsten 3 Tage
 anmelden eine Flasche Bier verlost!

@@ -30,6 +30,9 @@ subTitle: Bayerische Gemütlichkeit
   
 ---
 
+**Der Markt Kühbach liegt zwischen den Wäldern von Aichach und Schiltberg und
+dem Paartal.**
+
 Das Wahrzeichen des Ortes ist die barocke Magnuskirche, deren Zwiebelturm
 weithin sichtbar ist. Der malerische Ortskern zeugt von der reichen Geschichte
 der Gemeinde.

@@ -12,13 +12,14 @@ excerpt: '"The End Of Meat" ist ein Film, den ich Euch wirklich sehr empfehlen
 focusKeyword: The End Of Meat
 labels:
   - Bücher & Filme
-  - Darum vegan
+  - Ernährung & Gesundheit
   - Hamburg
   - Hildesheim
   - Marc Pierschel
   - Münster
   - ohne Fleisch leben
   - The End Of Meat
+  - Tierrechte
   - vegan
   - Vegan Leben
 type: Artikel
@@ -44,13 +45,12 @@ Lebensmitteln tierischer Herkunft aussehen würde und was eigentlich mit den
 ganzen "Nutztieren" passieren würde, wenn wir alle Veganer⋆innen wären, sollte
 Ihr diesen Film auf jeden Fall sehen.
 
-<RemoteImage
-  alt="the-end-of-meat-esther-the-wonderpig"
-  size="medium"
-  title="Esther The Wonderpig und ihre Familie"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_the-end-of-meat-esther-the-wonderpig__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_the-end-of-meat-esther-the-wonderpig__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBggF/8QALhAAAgECBAQFAgcAAAAAAAAAAQIDBBEABQYhEhMxQQcUIjJhFiNCUVJxgaKx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EAB0RAAICAwEBAQAAAAAAAAAAAAECABEDEiEiMUH/2gAMAwEAAhEDEQA/AFTpHSc2o4Z6nzsTOJEMitJxOq73DL+Hta/W2GjpHRdPV5xReT+3VoVfnq1uSoI4jcG56lfm56YQmRZjWZfXpLQVMkDygRMyHZlPUHsR3xojwqzeTKNIvXVbiokqWYLMkahwBcD1dWAsTf8AnCFNGFnk1YnBQhV9S0eEemEyvTCzzSTvUVjnmRzKByykkiADv874zX4iZZ5PUb8SFRJEjrfuLFb/ANcad0/XzNk1FDTzVARIxIWd+FmBPUgi469MJ/xnyGrmVMziIdaYOJFPv5Za4I/MDfb5wE8AkypsljF/oPStHn9FNJJmklPPEWUQiFWBI3G5PQ/ti0ZzqtcozKnpI6lY6DKoYo0giTi58gXcMf0Da69zgwYEG2Q7fkZ/GIa8v7ONmec1WZ5As0AqBSs8jpCDdI1vvwqOyn0i+/fEn1TPTU/kqaRp6GVPTDISQL39t/b/AJ8YMGM+daaxL4G2WjP/2Q==" />
+<RemoteImage alt={`the-end-of-meat-esther-the-wonderpig`} size="medium"
+title={`Esther The Wonderpig und ihre Familie`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_the-end-of-meat-esther-the-wonderpig__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_the-end-of-meat-esther-the-wonderpig__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBggF/8QALhAAAgECBAQFAgcAAAAAAAAAAQIDBBEABQYhEhMxQQcUIjJhFiNCUVJxgaKx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EAB0RAAICAwEBAQAAAAAAAAAAAAECABEDEiEiMUH/2gAMAwEAAhEDEQA/AFTpHSc2o4Z6nzsTOJEMitJxOq73DL+Hta/W2GjpHRdPV5xReT+3VoVfnq1uSoI4jcG56lfm56YQmRZjWZfXpLQVMkDygRMyHZlPUHsR3xojwqzeTKNIvXVbiokqWYLMkahwBcD1dWAsTf8AnCFNGFnk1YnBQhV9S0eEemEyvTCzzSTvUVjnmRzKByykkiADv874zX4iZZ5PUb8SFRJEjrfuLFb/ANcad0/XzNk1FDTzVARIxIWd+FmBPUgi469MJ/xnyGrmVMziIdaYOJFPv5Za4I/MDfb5wE8AkypsljF/oPStHn9FNJJmklPPEWUQiFWBI3G5PQ/ti0ZzqtcozKnpI6lY6DKoYo0giTi58gXcMf0Da69zgwYEG2Q7fkZ/GIa8v7ONmec1WZ5As0AqBSs8jpCDdI1vvwqOyn0i+/fEn1TPTU/kqaRp6GVPTDISQL39t/b/AJ8YMGM+daaxL4G2WjP/2Q=="
+/>
 
 Genau wie "[Live And Let Live](/2019/11/live-and-let-live-film/)" stammt "The
 End Of Meat" aus Marc Pierschels Filmschmiede. Der gebürtig aus Hildesheim

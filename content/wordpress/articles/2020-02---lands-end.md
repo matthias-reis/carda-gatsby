@@ -11,7 +11,7 @@ excerpt: Land's End ist immer eine Reise wert. Der westlichste Punkt Englands
 focusKeyword: Land's End
 labels:
   - Atlantik
-  - Brititsche Inseln
+  - Britische Inseln
   - Cornwall
   - England
   - Großbritannien

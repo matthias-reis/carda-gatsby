@@ -10,8 +10,8 @@ excerpt: Kennt Ihr schon Malmö? Wir sind dort auf unserer Fahrt von Kopenhagen
   nach Trelleborg vorbeigekommen und haben uns gleich wohlgefühlt.
 focusKeyword: Malmö
 labels:
+  - Fernweh
   - Malmö
-  - Reisen
   - Reisen
   - schwarzweiß
   - Schweden

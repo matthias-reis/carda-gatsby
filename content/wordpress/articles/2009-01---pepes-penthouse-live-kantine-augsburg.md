@@ -39,6 +39,9 @@ subTitle: Band des Jahres 2009
   
 ---
 
+**Gestern Abend war es soweit: Pepes Penthouse hatten ihren großen Auftritt bei
+Band des Jahres 2009 in der Kantine.**
+
 Erst
 [einen Tag zuvor](/2009/01/pepes-penthouse-live-25-jahre-gen-n-kantine-augsburg/)
 standen die Jungs im Rahmen der 25 Jahre GEN N-Feierlichkeiten in der Kantine
@@ -52,13 +55,13 @@ Als erstes spielten Griswold, die mit einer Mischung aus ehrlichem Pop und Folk
 überzeugten. Zum Einsatz kamen nicht nur Gitarre, Schlagzeug und Bass, sondern
 unter anderem auch ein Saxophon. Als nächstes folgte die Band Aylight, bestehend
 aus Sänger und Gitarrist. Teilweise spielten sie Songs mit deutschen, teilweise
-mit türkischen Texten. Danach war der große Augenblick gekommen und **Pepes
-Penthouse** hatten ihren Auftritt. Zum Abschluss gab es noch was auf die Ohren,
-als die Jungs von der Hardcore-Band Mind Disease ihre Songs zum Besten gaben.
+mit türkischen Texten. Danach war der große Augenblick gekommen und  **Pepes
+Penthouse**  hatten ihren Auftritt. Zum Abschluss gab es noch was auf die Ohren,
+als die Jungs von der Hardcore-Band Mind Disease ihre Songs zum Besten gaben.
 
 ## Das Publikum erwartete gespannt die ersten Töne
 
-Das Publikum erwartete gespannt die ersten Töne, als **Pepes Penthouse** die
+Das Publikum erwartete gespannt die ersten Töne, als  **Pepes Penthouse**  die
 Bühne betraten. Die Band legte gleich beim ersten Song „Du bist alles“ so
 richtig los und brachte die Menge in Schwung, die sich nun auch etwas näher an
 die Bühne herantraute.
@@ -68,25 +71,12 @@ Publikum mitging. Beim Song „Ein schöner Tag“, der zum Schluß gespielt wur
 stellten sich die Bandmitglieder dann noch einmal einzeln vor und zeigten, was
 sie an ihren Instrumenten zu bieten haben.
 
-Es war wirklich ein toller Auftritt. **Pepes Penthouse** zeigten sich von ihrer
-besten Seite. Durch die intensive Arbeit im Übungsraum in den letzten Wochen
-konnten sie ihre Songs perfektionieren. Und sogar ein ganz neuer Song ist dabei
-entstanden: „Was Du siehst“, den sie gleich als zweites Stück an diesem Abend
-performten, und der auch bei den Fans sofort gut ankam.
+Es war wirklich ein toller Auftritt.  **Pepes Penthouse**  zeigten sich von
+ihrer besten Seite. Durch die intensive Arbeit im Übungsraum in den letzten
+Wochen konnten sie ihre Songs perfektionieren. Und sogar ein ganz neuer Song ist
+dabei entstanden: „Was Du siehst“, den sie gleich als zweites Stück an diesem
+Abend performten, und der auch bei den Fans sofort gut ankam.
 
-Drücken wir **Pepes Penthouse** die Daumen, dass sie bei **Band des Jahres
-2009** weiterkommen. Für mich sind sie jedenfalls Topfavorit.
-
-_Homepage [Band des Jahres](http://www.band-des-jahres.de) _
-
-<Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-3__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-5__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-5__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-7__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-7__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-8__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-8__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-9__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-9__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-10__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-10__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-11__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-11__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-12__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-12__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-13__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-13__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-14__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-14__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-15__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-15__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-16__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-17__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-17__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-18__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-18__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-19__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-19__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-20__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-20__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-21__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-21__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-22__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-22__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres__l.jpg"}]}
-/>
-
-&nbsp;
-
-&nbsp;
-
-** [](http://cardamonchai.files.wordpress.com/2009/01/img_18732.jpg) ** \_\_\_\_
+<Gallery name="banddesjahreskantine" />
 
   

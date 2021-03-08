@@ -12,9 +12,9 @@ excerpt: Pünktlich zur heutigen Release der Single "Die Prinzessin von
   präsentieren.
 focusKeyword: Kalle Kuul
 labels:
-  - Bands & Reviews
+  - Bands
   - die Prinzessin von Osnabrück
-  - Interview
+  - Interviews
   - Kalle Kuul
   - Köln
   - Release Day

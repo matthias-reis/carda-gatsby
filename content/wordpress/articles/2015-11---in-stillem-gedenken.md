@@ -9,12 +9,12 @@ excerpt: Worte wurden schon so viele gesagt, in den letzten Stunden. Daher eine
   Schweigeminute. In stillem Gedenken.
 focusKeyword: Gedenken
 labels:
+  - Antifaschismus & Feminismus
   - Bagdad
   - Bataglan
   - Beirut
   - in stillem Gedenken
   - Paris
-  - Politik & Soziales
   - Trauer
 type: Meme
 typeName: Meme
@@ -31,5 +31,13 @@ subTitle: RIP
   
 ---
 
+**Worte wurden schon so viele gesagt, in den letzten Stunden. Daher eine
+Schweigeminute. In stillem Gedenken.**
+
+<RemoteImage alt={`In stillem Gedenken`} size="large" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_IMG_5021__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_IMG_5021__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwj/xAAoEAACAQMEAQMEAwAAAAAAAAABAgMEBREABhIhMRNRYRQiQXEHMoL/xAAYAQACAwAAAAAAAAAAAAAAAAADBAABAv/EACERAAEDAwQDAAAAAAAAAAAAAAEAAhEDITEEQVHwEhOh/9oADAMBAAIRAxEAPwDnimqq6FUEVwUo5wTEoPD5OR41Zv4w2rXXHZd6F+YpHVT0tXTSTEhhEnNWcL7MCQvv50pbH2VtyoutvqLhXyVEKVCtJQtGW+pQdlMqcrn31dLrumwXW3S+tWTUf00PorTV/pwOcEcHUnph4H6BzpDVuq+B9Jg8kSmtPTa58VD9hS3em17jXTVl5stDTR2yaZkiXiPWjPEBgqk/2+4Y68E47zqeVdCaWnCVNejxqjcQkiswUEhFfBDKuMH7h7frVmraUW2Knl3FVUiU83PFPQslS0nt6YXrkfwScDz1jSdTbcvFTb2iKLGeJ4JUTKnFCTjyQScEfjRKTybtB73hTUMptgNzebgjOxGbbpT21crpbq64VMVxnZqY+gofsdkZPwetMQ3feZgedRGWORyMKFl+QcfHz50aNMg2QBlaQbkuccbNTzrCysBlIkGc/wCdE26r0swjNbkngwYxrnLLnvrvzjRo1oKjlf/Z"
+/>
 
   

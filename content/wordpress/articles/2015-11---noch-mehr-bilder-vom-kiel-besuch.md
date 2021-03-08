@@ -31,15 +31,21 @@ subTitle: Instagram-Galerie
   
 ---
 
-Kiel demnach heute mal in Polaroids, ich bin gespannt, wie sie ankommen. Was
+**Vor Kurzem gab es an dieser Stelle schon mal eine
+[Galerie](/2015/11/ein-besuch-in-kiel/) von unserem Kiel-Besuch letzte Woche.
+Heute gibt es noch ein Bisschen mehr zu sehen. Die Bilder habe ich dieses Mal
+nicht mit meiner Kamera aufgenommen, sie stammen aus meinem Instagram-Account,
+sind also Mobiltelefon aufgenommen.**
+
+Kiel demnach heute mal in Polaroids, ich bin gespannt, wie sie ankommen. Was
 haltet Ihr denn allgemein von der Idee, meine Instagram-Bilder hier
 zweitzuverwerten? Inzwischen sind ja schon ein paar Instagram-Galerien
-erschienen. Wir haben unter anderem das Schifffahrtsmuseum besucht, auch dort
+erschienen. Wir haben unter anderem das Schifffahrtsmuseum besucht, auch dort
 habe ich ein Bisschen geknipst.
 
 <Gallery name="flickr/annekielinstagram2015" />
 
-> Es gibt kein Wissen vor der Erfahrung. - Kommissar Klaus Borowski, Tatort Kiel
+> Es gibt kein Wissen vor der Erfahrung. - Kommissar Klaus Borowski, Tatort Kiel
 
 Das Kieler Schifffahrtsmuseum befindet sich direkt an der Förde in der
 denkmalgeschützten Fischhalle Kiel. Gezeigt werden die Seefahrt und der
@@ -50,8 +56,9 @@ Plant auch Ihr einen Kiel-Besuch? Das
 [Museum](http://www.kiel.de/kultur/museum/schifffahrtsmuseum/) ist täglich von
 10 - 18 Uhr geöffnet , der Eintritt kostet 3 Euro.
 
-## Unser Kiel-Besuch - Wegweiser1. [Ein Besuch in Kiel](/2015/11/ein-besuch-in-kiel/)
+## Unser Kiel-Besuch - Wegweiser
 
+1.  [Ein Besuch in Kiel](/2015/11/ein-besuch-in-kiel/)
 1.  [Die Möwe](/2015/11/die-moewe/)
 1.  [Noch mehr Kiel](/2015/11/noch-mehr-kiel/)
 

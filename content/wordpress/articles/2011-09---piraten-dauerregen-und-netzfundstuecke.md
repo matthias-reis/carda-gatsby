@@ -20,6 +20,7 @@ labels:
   - die Linke
   - Fan Modine
   - FDP
+  - Geschichten & Erlebtes
   - Herbst
   - Herbstlaub
   - Heutzutage
@@ -37,7 +38,6 @@ labels:
   - Selbstüberschätzung
   - Seriösität
   - SPD
-  - Tagebuch
   - Wahl
   - Wahlen
   - Wahlparty
@@ -57,8 +57,16 @@ subTitle: Tagebucheintrag
   
 ---
 
-Die Linke konnte 11,7 % der Wähler für sich begeistern und erhält somit 20 Sitze
-im Abgeordnetenhaus.
+**Heute ist
+["International Talk Like A Pirate Day"](http://de.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day),
+was nach dem Erfolg der
+[Piratenpartei](http://www.sueddeutsche.de/politik/ueberraschungserfolg-in-berlin-was-die-piraten-wollen-1.1145851)
+bei den [Wahlen in Berlin](http://www.taz.de/Wahl-in-Berlin/!78344/)  ziemlich
+passend ist. Quasi aus dem Nichts tauchten die Piraten auf und enterten mit 8,9
+Prozent der Wählerstimmen das Berliner Abgeordnetenhaus.**
+
+Die Linke konnte 11,7 % der Wähler für sich begeistern und  erhält somit 20
+Sitze im Abgeordnetenhaus.
 
 Mit schweren Verlusten hat hingegen die FDP zu kämpfen, die nicht einmal 2
 Prozent erreichte. Spätestens nach dieser Pleite sollte sich diese Partei nun
@@ -66,11 +74,11 @@ wohl endlich mal Gedanken um ihr Programm, sowie die verschiedensten Aussagen in
 den letzten Wochen und Monate machen.
 
 Aber auch Klaus Wowereit, der mit der SPD aus dem gestrigen Wahlkampf, wie zu
-erwarten war, als Sieger hervorging, sollte sich wohl mal den ein oder anderen
+erwarten war,  als Sieger hervorging, sollte sich wohl mal den ein oder anderen
 Gedanken machen. Schon vor der Wahl wurde er immer wieder als
 "Party-Bürgermeister" tituliert. Bei seinem Auftritt gestern Abend auf der
 Wahlparty der SPD machte er diesem Namen alle Ehre. Es sei ihm und seinen
-Genossen natürlich gegönnt, sich über das gute Ergebnis zu freuen. Doch auf auf
+Genossen natürlich gegönnt, sich über das gute Ergebnis zu freuen.  Doch auf auf
 das Wie kommt es an. Technobeats beschallten die Berliner Kulturbrauerei, den
 Veranstaltungsort der Wahlparty, bevor "Wowi" von seinen Sicherheitsleuten
 eskortiert den Saal betrat. Viel hatte der nun zum dritten Mal zu Berliner
@@ -107,14 +115,14 @@ auf jeden Fall nächstes Wochenende mal ausprobieren. Also das sage ich jetzt.
 Mal sehen, wie weit sich dieser Plan umsetzen lässt.
 
 Vor einiger Zeit bin ich im Netz über ein Video gestolpert. Einen Song, den FAN
-MODINE in weiser Voraussicht schon vor einiger Zeit als Titelsong für mein Blog
-komponiert haben müssen. Hier also das Netzfundstück:
+MODINE  in weiser Voraussicht schon vor einiger Zeit als Titelsong für mein
+ Blog komponiert haben müssen. Hier also das Netzfundstück:
 
 **Fan Modine - Cardamon Chai**
 
 [youtube=http://www.youtube.com/watch?v=rs-YQ-2uA9w]
 
-Vorläufige Ergebnisse der Abgeordnetenhauswahl Berlin 2011:
+Vorläufige Ergebnisse der Abgeordnetenhauswahl Berlin 2011:
 
 SPD: 28,3% CDU: 23,4% GRÜNE: 17,6% LINKE: 11,7% PIRATEN: 8,9% FDP: 1,8%
 Sonstige: 8,4 %

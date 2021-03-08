@@ -11,12 +11,12 @@ excerpt: Immer mehr Künstler*innen und Berühmtheiten werden vegan, engagieren
   sich und sprechen öffentlich darüber. Einer von ihnen ist der Rapper Vega.
 focusKeyword: vega
 labels:
-  - Bands & Reviews
+  - Bands
   - Buckwheats
   - Butterfly Music
   - Casper
-  - Darum vegan
   - Die Wahrheit ist hässlich
+  - Ernährung & Gesundheit
   - Frankfurt
   - Freunde von Niemand
   - Hip Hop
@@ -29,6 +29,7 @@ labels:
   - Rap
   - Rapper Vega
   - Vega
+  - vegan celebrities
   - vegan werden was los Digga
   - veganer Rapper
   - Willkommen im Niemandsland
@@ -46,6 +47,10 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Ein veganer Rapper auf dem Weg zum Erfolg
   
 ---
+
+**Immer mehr Künstler\*innen und Berühmtheiten werden vegan und sprechen
+öffentlich darüber. Einer von ihnen ist der Rapper Vega. Ich möchte ihn Euch
+gerne näher vorstellen.**
 
 Vega wird am 6. Januar 1985 in Frankfurt geboren. Dort kommt er durch seinen
 Stiefvater das erste Mal mit Rap in Kontakt. Zu seinen Vorbildern dieser Zeit

@@ -11,6 +11,7 @@ excerpt: Vor kurzem durften wir den Sommer auf der Ostsee genießen. Bei unserer
 focusKeyword: Ostsee
 labels:
   - Fähre
+  - Fernweh
   - Finnland
   - Finnland2016
   - Helsinki
@@ -18,7 +19,6 @@ labels:
   - Meer
   - Möwen
   - Ostsee
-  - Reisen
   - Reisen
   - Schiff
   - Skandinavien

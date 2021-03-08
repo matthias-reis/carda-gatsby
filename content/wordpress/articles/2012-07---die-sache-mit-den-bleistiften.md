@@ -18,15 +18,14 @@ labels:
   - Ferien
   - funktionstüchtig
   - Gedanken
+  - Geschichten & Erlebtes
   - Glück
   - Jack White
   - Papier
   - Pläne
-  - Prosa
   - Rosen
   - schreiben
   - Sonnenstrahlen
-  - Tagebuch
   - Urlaub
   - White Stripes
   - Zukunft
@@ -36,8 +35,7 @@ date: 2012-07-11T18:11:21.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "3229"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9855__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9855__l.jpg
@@ -45,6 +43,10 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Tagebucheintrag
   
 ---
+
+**Der Urlaub ist vorbei. Seit über einer Woche wieder daheim. Durchgefahren von
+Folkstone über die Passage Dover - Calais, durch Luxemburg, immer dem Gewitter
+hinterher.**
 
 Große Veränderungen werfen ihre Strahlen voraus. Im Urlaub eine Nachricht: Sie
 haben den Job. Die Freude ist groß. Es gibt sehr viel zu lernen und zu
@@ -70,31 +72,8 @@ gilt es zu vergessen, aufzuheben und im geeigneten Moment wieder auszugraben.
 Denn Erinnerungen, die nur noch auf dem Papier existieren, können die Grundlage
 für die Ferien Deines Lebens sein.
 
-<RemoteImage
-  alt="Bild: cardamonchai 9/2009"
-  size="full"
-  title="Rose, Anne 9/2009"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2012/07/img_9855.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2012/07/img_9855.jpg"
-  loadingUrl="undefined" />
-
-**Song des Tages**
-
-The White Stripes - Ball And Biscuit
+## Song des Tages: The White Stripes – "Ball And Biscuit"
 
 [youtube=http://www.youtube.com/watch?v=xMZh9OtAeSY]
-
-_It's quite possible that I'm your third man girl_ _But it's a fact that I'm the
-seventh son_ _And right now you could care less about me_ _But soon enough you
-will care, by the time I'm done_ _Let's have a ball and a biscuit sugar_ _And
-take our sweet little time about it_ _Let's have a ball girl_ _And take our
-sweet little time about it_ _Tell everyone in the place just to get out_ _We'll
-get clean together_ _And I'll find a soapbox where I can shout it_ _You read it
-in the newspaper_ _Ask your girlfriends and see if they know_ _That my strength
-is ten fold girl_ _And I'll let you see if you want to before you go_ _It's
-quite possible that I'm your third man_ _But it's a fact that I'm the seventh
-son_ _It was the other two which/was made me your third_ _But it was my mother
-who made me the seventh son_ _And right now you could care less about me_ _But
-soon enough you will care by the time I'm done_
 
   

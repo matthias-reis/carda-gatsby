@@ -12,10 +12,10 @@ excerpt: Werbung - Sauberkunst ist eine vegane Seifenmanufaktur mit Sitz in
   Haut und Haare.
 focusKeyword: Sauberkunst
 labels:
+  - Fair Fashion & Beauty
   - festes Shampoo
   - Gesichtsöl
   - Haarseife
-  - Mode & Beauty
   - Naturseife
   - Peeling
   - Sauberkunst
@@ -24,7 +24,6 @@ labels:
   - Sheabutter
   - vegan
   - vegan beauty
-  - Vegane Produkte
   - Wellness
 type: Artikel
 typeName: Produkttest
@@ -55,13 +54,11 @@ Erfahrungen mit Sauberkunst teilhaben lassen.
 
 ## Das Sauberkunst Paket ist da!
 
-<RemoteImage
-  alt="Sauberkunst"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39847370992_0ddb8d188c_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39847370992_0ddb8d188c_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwACBAgG/8QAKxAAAQMDAgUEAQUAAAAAAAAAAQIEBQADERIhBgcxQVETFEJhFiJxgZGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAID/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACEQMSIaH/2gAMAwEAAhEDEQA/AOfICKezTv20Y0uurwGpQQAAgeVKOAkfZNIrDlVI3G6rjuY4eZhIBWlbv1CjPTJSMD+63eTjGzL8HqbMrmhyhysO0jqSrGhR+tOQM7Z1DbNIMxGyspGO2tiMb6kqSEqBACiCNgTsOhO5OKzvyXrYK10fkoxHXIZSHKaatW1qZPYR+UgKKLLv014PTZYA3/ejucjncQ9U0lGbhk5SM+neRgkeQehH2MiugPwuYaXGLe4zjrNuPvG4qQs2lW799OTssk6Rqz+okqBwMAV5znClpb4DupfXEXHAcpLEj4KJGtKD3TpyTjbp3rSqp7I7Y5BnhuakIN8l5EuVtnAGCU7hQ8KHcUmRPOZ/fT7eRiGbhQOSsK0ZPnGD/tVVVCTOe5yvrQ0tYloi4r5rVrx/BFGPE07JcQP/AHcw5U4vAaUDolA8JHaqqkBP/9k=" />
+<RemoteImage alt={`Sauberkunst`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39847370992_0ddb8d188c_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39847370992_0ddb8d188c_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwACBAgG/8QAKxAAAQMDAgUEAQUAAAAAAAAAAQIEBQADERIhBgcxQVETFEJhFiJxgZGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAID/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACEQMSIaH/2gAMAwEAAhEDEQA/AOfICKezTv20Y0uurwGpQQAAgeVKOAkfZNIrDlVI3G6rjuY4eZhIBWlbv1CjPTJSMD+63eTjGzL8HqbMrmhyhysO0jqSrGhR+tOQM7Z1DbNIMxGyspGO2tiMb6kqSEqBACiCNgTsOhO5OKzvyXrYK10fkoxHXIZSHKaatW1qZPYR+UgKKLLv014PTZYA3/ejucjncQ9U0lGbhk5SM+neRgkeQehH2MiugPwuYaXGLe4zjrNuPvG4qQs2lW799OTssk6Rqz+okqBwMAV5znClpb4DupfXEXHAcpLEj4KJGtKD3TpyTjbp3rSqp7I7Y5BnhuakIN8l5EuVtnAGCU7hQ8KHcUmRPOZ/fT7eRiGbhQOSsK0ZPnGD/tVVVCTOe5yvrQ0tYloi4r5rVrx/BFGPE07JcQP/AHcw5U4vAaUDolA8JHaqqkBP/9k="
+/>
 
 Das liebevollst verpackte Päckchen erreicht mich nur zwei Tage nach meiner
 Bestellung. Schon beim Öffnen des Deckels steigt mir ein sehr angenehmes Aroma
@@ -82,13 +79,11 @@ Körperseife "Lemongras" sowie die Dusch- und Badeseife "Bergamotte".
 
 ## Frei von Plastik und Palmöl!
 
-<RemoteImage
-  alt="Sauberkunst"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006497548_1f033b7aaf_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006497548_1f033b7aaf_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAnEAACAQMDAgYDAAAAAAAAAAABAwIABAUGETESIRMiI0FRYRSx4f/EABkBAAIDAQAAAAAAAAAAAAAAAAABAgMEBv/EACMRAAEDAwIHAAAAAAAAAAAAAAEAAhEEEiExQQMTInGBkbH/2gAMAwEAAhEDEQA/AJxiMLFqvUbOMZcRB/tUnRWCxktOIldWKbm5ZcOgJPB4j8n62NL2A8BliDFC+uXG8j++apWnClOnLZTEmbC5rQVy6enznuCfeuap+KeY64xA3zuO6wU7rnkFcrK6exTcPexhYWyXLSGwYoHjqG5BPHBqb5fBxUJGMTsKud0lYxVz+OszhcWjBJzJbyBED0jb43qTPvmOxKGM8DxZr8/p8S96dXc0sPz35wdUVXS4QlPF37UTEYcDsO9Odhqi8TZrRFVvKEN+kyiSe53PcH7ooqDxBwqCS0yFputcZYW4hEWwjsYdl8A8ikt1zKSYxAEYA7ACiinJdFxlFxdqV//Z" />
+<RemoteImage alt={`Sauberkunst`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006497548_1f033b7aaf_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006497548_1f033b7aaf_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAnEAACAQMDAgYDAAAAAAAAAAABAwIABAUGETESIRMiI0FRYRSx4f/EABkBAAIDAQAAAAAAAAAAAAAAAAABAgMEBv/EACMRAAEDAwIHAAAAAAAAAAAAAAEAAhEEEiExQQMTInGBkbH/2gAMAwEAAhEDEQA/AJxiMLFqvUbOMZcRB/tUnRWCxktOIldWKbm5ZcOgJPB4j8n62NL2A8BliDFC+uXG8j++apWnClOnLZTEmbC5rQVy6enznuCfeuap+KeY64xA3zuO6wU7rnkFcrK6exTcPexhYWyXLSGwYoHjqG5BPHBqb5fBxUJGMTsKud0lYxVz+OszhcWjBJzJbyBED0jb43qTPvmOxKGM8DxZr8/p8S96dXc0sPz35wdUVXS4QlPF37UTEYcDsO9Odhqi8TZrRFVvKEN+kyiSe53PcH7ooqDxBwqCS0yFputcZYW4hEWwjsYdl8A8ikt1zKSYxAEYA7ACiinJdFxlFxdqV//Z"
+/>
 
 Alle Produkte von Sauberkunst sind frei von Palmöl und Mikroplastik. Gefertigt
 werden sie im Brandenburger Land. Gekauft werden kann online oder in den beiden
@@ -108,15 +103,13 @@ Seifenschale in Wohlgefallen auflöst.
 
 ## Gut für Reisen mit leichtem Gepäck
 
-<RemoteImage
-  alt="Sauberkunst"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_25008095327_de7c0c745a_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_25008095327_de7c0c745a_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAcIBAUG/8QAKxAAAQMDAQUIAwAAAAAAAAAAAQIDBAAFERIGByExYQgTMkFRcYGhIjPR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECERIxIf/aAAwDAQACEQMRAD8AmzZ+0zr5ORDtUN+ZKUM92ynJA9SeQHU8KZsDcttE4lsS5dlguuDKWnpKlr+dCSPutr2fpjbez09uAz3s5uRrlNo/YpsgaFAc1JBCxgcietOXZFEN+NNcuE5hU1x3Op4FCtAGQnj4SDnhyNYnKSTz0Ne0T7cN0O0TQWmC5ark6niWY8kodI9QhxKc/BpbXWK/bpjsSdHeiymjpWy8goUk9QasCRJaeuqJGFL7gLRFaby4sJUckqI8yc+2elIntEXSJNvFtjJCDc4zaxIKSFFtJIKG1EcyPyOPLVTBypa6CnboV1ouUy1Tm5VukuxpKPC40rBH9HSmFH3zbXRmUoekRZWB4nmTn6IFFFbFpMwrzvV2sukYtKniK0oYKYydGR7kk1wLzinHFLWSpSiSok5JPqTRRUSVH//Z" />
+<RemoteImage alt={`Sauberkunst`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_25008095327_de7c0c745a_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_25008095327_de7c0c745a_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAcIBAUG/8QAKxAAAQMDAQUIAwAAAAAAAAAAAQIDBAAFERIGByExYQgTMkFRcYGhIjPR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECERIxIf/aAAwDAQACEQMRAD8AmzZ+0zr5ORDtUN+ZKUM92ynJA9SeQHU8KZsDcttE4lsS5dlguuDKWnpKlr+dCSPutr2fpjbez09uAz3s5uRrlNo/YpsgaFAc1JBCxgcietOXZFEN+NNcuE5hU1x3Op4FCtAGQnj4SDnhyNYnKSTz0Ne0T7cN0O0TQWmC5ark6niWY8kodI9QhxKc/BpbXWK/bpjsSdHeiymjpWy8goUk9QasCRJaeuqJGFL7gLRFaby4sJUckqI8yc+2elIntEXSJNvFtjJCDc4zaxIKSFFtJIKG1EcyPyOPLVTBypa6CnboV1ouUy1Tm5VukuxpKPC40rBH9HSmFH3zbXRmUoekRZWB4nmTn6IFFFbFpMwrzvV2sukYtKniK0oYKYydGR7kk1wLzinHFLWSpSiSok5JPqTRRUSVH//Z"
+/>
 
-Besonders für [Reisen](/category/unterwegs/reisen/) mit leichtem Gepäck finde
+Besonders für [Reisen](/category/slow-travel/fernweh/) mit leichtem Gepäck finde
 ich ein festes Shampoo klasse. Man kann es einfach in einen Waschlappen oder
 etwas anderes einwickeln und spart ohne Ende Platz. Außerdem läuft man nicht
 Gefahr, dass die Shampooflasche im Rucksack aufgeht und sich über die kompletten
@@ -132,13 +125,11 @@ ich keine zusätzliche Pflege.
 
 ## Mein Favorit: Das Sanddorn-Gesichtsöl
 
-<RemoteImage
-  alt="Sauberkunst"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006529588_b8d8ba4e32_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006529588_b8d8ba4e32_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGCAT/xAAqEAABAwMDAgQHAAAAAAAAAAABAgMEAAURBiExEiIHQVFxExUyYYGCof/EABYBAQEBAAAAAAAAAAAAAAAAAAIEA//EACERAAICAQMFAQAAAAAAAAAAAAECABEDBBIhBTFBUYHR/9oADAMBAAIRAxEAPwDOkSC/My1EYdkPqSeltpBWo4GTgDc4AJ/Fd0CwXNLj8hVrniPGSVOuKjLSltOOVEjA8ua0P4Paa0dAvNsn29U9V3ZVlC5Eg9pKSDhKQE8E1deJ2oIVosgYuzJujE5YZMV4lSFJ+rKhnfcDYVm+TaRxxFiQ5WCp3mRlsoIx00vlMYOGwVH0AyauZ7cBtMm6z0w2mg6pLcRhjpS6BkdgTsEg7Zzk8/ennyUQNPoYiLTGvE5PUkISVBpKhsDvk7bk+VTajXDFtAWyxofvnj5NOoYG0LKj0S3qNbCy7CkJXEkuMODhbRKSPbeqZ3R8jUS23L5f7hOZQctsupQlKD69gT1H3z7UUVUSZOBRsRPfdC6YtjqX5UKZMLYwloyyhofqBn+1J6qvAhWWcLXCjQW/glOGQeojjuUcqPPrRRTCioC7O1sbn//Z" />
+<RemoteImage alt={`Sauberkunst`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006529588_b8d8ba4e32_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006529588_b8d8ba4e32_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGCAT/xAAqEAABAwMDAgQHAAAAAAAAAAABAgMEAAURBiExEiIHQVFxExUyYYGCof/EABYBAQEBAAAAAAAAAAAAAAAAAAIEA//EACERAAICAQMFAQAAAAAAAAAAAAECABEDBBIhBTFBUYHR/9oADAMBAAIRAxEAPwDOkSC/My1EYdkPqSeltpBWo4GTgDc4AJ/Fd0CwXNLj8hVrniPGSVOuKjLSltOOVEjA8ua0P4Paa0dAvNsn29U9V3ZVlC5Eg9pKSDhKQE8E1deJ2oIVosgYuzJujE5YZMV4lSFJ+rKhnfcDYVm+TaRxxFiQ5WCp3mRlsoIx00vlMYOGwVH0AyauZ7cBtMm6z0w2mg6pLcRhjpS6BkdgTsEg7Zzk8/ennyUQNPoYiLTGvE5PUkISVBpKhsDvk7bk+VTajXDFtAWyxofvnj5NOoYG0LKj0S3qNbCy7CkJXEkuMODhbRKSPbeqZ3R8jUS23L5f7hOZQctsupQlKD69gT1H3z7UUVUSZOBRsRPfdC6YtjqX5UKZMLYwloyyhofqBn+1J6qvAhWWcLXCjQW/glOGQeojjuUcqPPrRRTCioC7O1sbn//Z"
+/>
 
 Nun zu meinem absoluten Highlight im Sauberkunst Päckchen: Das
 Sanddorn-Gesichtsöl für trockene Haut rockt total. Die Sauberkünstler bezeichnen
@@ -159,13 +150,11 @@ sich über die entzündungshemmende Zutat Teebaumöl sicher freuen.
 
 ## Shea Mousse "Hautnah"
 
-<RemoteImage
-  alt="Sauberkunst"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006532538_0236c4cf8d_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006532538_0236c4cf8d_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAqEAABAwMCBAYDAQAAAAAAAAABAgMEAAURBhIHEyExQVFhcYGRIlOxof/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABsRAAMAAgMAAAAAAAAAAAAAAAABEQISITFB/9oADAMBAAIRAxEAPwCRWLhRqG4NpcfMKCg/vdKlfSQf7TRG4JPKA5uooaVHwRFUf6oVR+FM1h6O69L2ullZU444dy0p29NoPTzrZ4jXDT1z0pObaWLi4lpxxpppoocbUEkjBAGFZwPGh5R9DrVaQS6cPbTDkmMNeafEoHBaeStGD5FSSoD5pev+h71aWVv8uPPipG4v294PpA8yB+QHrjFMauFM9yFElwbhHVGkNpWEusLS4jI6ggZGR28PYUzWjSkixQ2ookPOPJc5odKdhJ6dEJzkJAHc+tXaS3PTZ08tlJXym3ElxOzq5nH+dfnNNsVoMx8NEIXndzEoTuHtkGiiqaM02c901VIixQwtLr+wk73HAFH3KUgn7qW8RNa3FFvcLaW2+ceXhvp3Hcnur5NFFLUDB18n/9k=" />
+<RemoteImage alt={`Sauberkunst`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006532538_0236c4cf8d_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006532538_0236c4cf8d_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAqEAABAwMCBAYDAQAAAAAAAAABAgMEAAURBhIHEyExQVFhcYGRIlOxof/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABsRAAMAAgMAAAAAAAAAAAAAAAABEQISITFB/9oADAMBAAIRAxEAPwCRWLhRqG4NpcfMKCg/vdKlfSQf7TRG4JPKA5uooaVHwRFUf6oVR+FM1h6O69L2ullZU444dy0p29NoPTzrZ4jXDT1z0pObaWLi4lpxxpppoocbUEkjBAGFZwPGh5R9DrVaQS6cPbTDkmMNeafEoHBaeStGD5FSSoD5pev+h71aWVv8uPPipG4v294PpA8yB+QHrjFMauFM9yFElwbhHVGkNpWEusLS4jI6ggZGR28PYUzWjSkixQ2ookPOPJc5odKdhJ6dEJzkJAHc+tXaS3PTZ08tlJXym3ElxOzq5nH+dfnNNsVoMx8NEIXndzEoTuHtkGiiqaM02c901VIixQwtLr+wk73HAFH3KUgn7qW8RNa3FFvcLaW2+ceXhvp3Hcnur5NFFLUDB18n/9k="
+/>
 
 Die Shea Mousse "Hautnah" kann man als reichhaltige Pflege direkt nach dem
 Peeling auftragen. Sie eignet sich aber auch zum Beispiel sehr gut für die
@@ -187,13 +176,11 @@ begleitet mich daher täglich in die Muckibude.
 
 ## Ab in die Mucki-Bude!
 
-<RemoteImage
-  alt="Sauberkunst"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39847363092_3c3da7a3a9_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39847363092_3c3da7a3a9_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYIAQQH/8QALBAAAgEDAgUDAgcAAAAAAAAAAQIDBAURAAYHEhMhMRVBUWGBFCIjMmJxkf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABkRAQEAAwEAAAAAAAAAAAAAAAEAAhEhMf/aAAwDAQACEQMRAD8Al+iiaeZIo0eSV2CpGilmYnwAB3J0+Wnhpui4Rs8dsSBVAJFXURwt3/iTn7Y1jgwzepXKK39P1uSFfwvMQrMgJ6qxk+HIx9SA2qE23Vw09lhiqIY1nwaieN2KTRkA5GD8AffOpzzQ57I91Trddg7lt2evaJZCBzEUzLKwGM55QebGO/jSZMy9+U4I9jqqJK17nfYaq2xy9JHDxhckqgxyj/NcD4y19vuO+6ye1iI/lVah4sFHmH7iCOx9gT7kE/XVC67BltkqCV4ZUkiZkdSGVlOCD8gjwdPdu4o7wo6dYkvEk0YGAKhFkIH9nvo0aSEtDcG/tzXmBoa+7TmnYYMUX6akfB5fOlFmJ0aNZm//2Q==" />
+<RemoteImage alt={`Sauberkunst`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39847363092_3c3da7a3a9_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39847363092_3c3da7a3a9_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYIAQQH/8QALBAAAgEDAgUDAgcAAAAAAAAAAQIDBAURAAYHEhMhMRVBUWGBFCIjMmJxkf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABkRAQEAAwEAAAAAAAAAAAAAAAEAAhEhMf/aAAwDAQACEQMRAD8Al+iiaeZIo0eSV2CpGilmYnwAB3J0+Wnhpui4Rs8dsSBVAJFXURwt3/iTn7Y1jgwzepXKK39P1uSFfwvMQrMgJ6qxk+HIx9SA2qE23Vw09lhiqIY1nwaieN2KTRkA5GD8AffOpzzQ57I91Trddg7lt2evaJZCBzEUzLKwGM55QebGO/jSZMy9+U4I9jqqJK17nfYaq2xy9JHDxhckqgxyj/NcD4y19vuO+6ye1iI/lVah4sFHmH7iCOx9gT7kE/XVC67BltkqCV4ZUkiZkdSGVlOCD8gjwdPdu4o7wo6dYkvEk0YGAKhFkIH9nvo0aSEtDcG/tzXmBoa+7TmnYYMUX6akfB5fOlFmJ0aNZm//2Q=="
+/>
 
 Für jedes verkaufte Stück der "Poseidon" Dusch- und Körperseife geht übrigens
 ein Euro direkt an Sea Shepherd. Man tut beim Waschen also automatisch der

@@ -15,8 +15,8 @@ labels:
   - "2015"
   - Bilder
   - Blogger
+  - Geschichten & Erlebtes
   - Jahresrückblick
-  - Tagebuch
 type: Artikel
 typeName: Artikel
 date: 2015-12-23T17:27:47.000Z
@@ -32,13 +32,12 @@ subTitle: Das war 2015
   
 ---
 
-<RemoteImage
-  alt="Mein Jahresrückblick 2015"
-  size="medium"
-  title="Mein Jahresrückblick 2015"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_22919389490_7c0fc91f99_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_22919389490_7c0fc91f99_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAqEAABBAEDAgUEAwAAAAAAAAABAgMEEQUABjESIQcTQVGhFBUyQmGRwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCLZnDTMdPchzUdKmXC2Cpny+pIJAUAoA0asX761bMw7GU3fimHQpLQjh1VJFqIvnVu8eY0ZeNayOQbaXmpIaDbqUFsobTYWkp6jdkiifbU1wW3fuWBkPMwHH5KYn1RkFSUttNtn8DZHNmyO/HbQVHevgojdrWLXhzHhpjNFLinFlKnCqiO4SbqvnRpW2ouZt1iQiBuTMQmnlJJYj9SkJUB37L459OdGg7XjspczPsRggqS1GBBbULBJujY7cam0bMy2WIOBKkRi55aVtpHWXADZ66PAs/1pm3fPkN56WpMQPpKySUOXVH+dR9zPof3M5lRbISaZASOB3tXvz/mgd91S5iXm04iIhy1uLcMUEgdRBSFE/t00a9ARo0j46c67FT5ryiU38mz86NB/9k=" />
+<RemoteImage alt={`Mein Jahresrückblick 2015`} size="medium"
+title={`Mein Jahresrückblick 2015`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_22919389490_7c0fc91f99_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_22919389490_7c0fc91f99_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAqEAABBAEDAgUEAwAAAAAAAAABAgMEEQUABjESIQcTQVGhFBUyQmGRwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCLZnDTMdPchzUdKmXC2Cpny+pIJAUAoA0asX761bMw7GU3fimHQpLQjh1VJFqIvnVu8eY0ZeNayOQbaXmpIaDbqUFsobTYWkp6jdkiifbU1wW3fuWBkPMwHH5KYn1RkFSUttNtn8DZHNmyO/HbQVHevgojdrWLXhzHhpjNFLinFlKnCqiO4SbqvnRpW2ouZt1iQiBuTMQmnlJJYj9SkJUB37L459OdGg7XjspczPsRggqS1GBBbULBJujY7cam0bMy2WIOBKkRi55aVtpHWXADZ66PAs/1pm3fPkN56WpMQPpKySUOXVH+dR9zPof3M5lRbISaZASOB3tXvz/mgd91S5iXm04iIhy1uLcMUEgdRBSFE/t00a9ARo0j46c67FT5ryiU38mz86NB/9k="
+/>
 
 **Weil mir das Thema Weihnachten schon zu ausgelutscht war, habe ich mir was
 Anderes einfallen lassen, das natürlich vor mir noch nie jemand gemacht hat.**
@@ -77,12 +76,16 @@ Deshalb schließe ich diesen Text nun mit denen eines grandiosen Schriftstellers
 Ich hoffe, es ist ihm recht, dass ich sie mir an dieser Stelle ausleihe.
 
 > Wir klangen schrecklich. Aber es kam von Herzen. (Mikael Niemi, "Populärmusik
-> aus Vittula")## Die Jahresrückblick-Bildergalerie### Januar
+> aus Vittula")
+
+## Die Jahresrückblick-Bildergalerie
+
+### Januar
 
 Wie schon kurz angedeutet begann das Jahr auf einer wundervollen Insel. Während
 unserer [Sri Lanka-Reise](/2015/09/unterwegs-in-sri-lanka/) haben wir zahlreiche
 Erfahrungen gemacht, tolle Menschen kennengelernt, interessante Orte für uns
-entdeckt und auch einige Überraschungen erlebt.
+entdeckt und auch einige Überraschungen erlebt.
 
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_16229193206_1d544761a0_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_16229193206_1d544761a0_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_16253246951_f51d446a33_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_16253246951_f51d446a33_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_07_16082601308_d57d61bb84_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_07_16082601308_d57d61bb84_z__l.jpg"}]}
@@ -98,8 +101,8 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_0
 
 ### Februar
 
-Im [Februar](/2015/02/) ging schon langsam unsere Vorbereitung für den Umzug
-nach Hamburg ein Bisschen los. Und wir planten nicht nur den
+Im [Februar](/2015/02/) ging schon langsam unsere Vorbereitung für den Umzug
+nach Hamburg ein Bisschen los. Und wir planten nicht nur den
 [Relaunch](/2015/02/blog-relaunch-und-umzug-nach-hamburg/) für unsere Wohnung,
 sondern auch den für mein Blog.
 
@@ -109,7 +112,7 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_0
 
 ### März
 
-Im [März](/2015/03/) hatte ich ein sehr interessantes
+Im [März](/2015/03/)  hatte ich ein sehr interessantes
 [Interview](/2015/03/obdachlose-wie-menschen-behandeln/) mit dem Grünen
 Politiker Matthias Omen aus Berlin. Wir besuchten außerdem ein legendäres
 [Mark Lanegan Konzert](/2015/03/mark-lanegan-live-freiheiz-muenchen/) und die
@@ -124,7 +127,7 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_0
 
 Besonders ereignisreich war der [April](/2015/04/) für mich nicht nur durch
 unseren endgültigen Umzug mit Sack und Pack sondern auch durch die Vielzahl an
-spannenden Beiträgen, die in diesem Monat mein Blog erweitert haben. Ich habe
+spannenden Beiträgen, die in diesem Monat mein Blog erweitert haben. Ich habe
 Euch mit einem Eurer [Lieblingsartikel](/2015/04/yolo-you-only-live-once/)
 beglückt, darin drehte sich alles um das Wort YOLO, ich habe berichtet,
 [wie ich zu Zoos stehe](/2015/04/wie-ich-zu-zoos-stehe/), der Herzmann und ich
@@ -231,7 +234,7 @@ tolle Ausflüge gemacht. Unter anderem waren wir in
 [Lübeck](/2015/11/wunderschoenes-luebeck/) und am
 [Timmendorfer Strand](/2015/11/birdwatching-am-timmendorfer-strand/). Ich habe
 ein [Interview](/2015/11/schmuck-fuer-veganer-von-mad-yeti-creations/) mit der
-bezaubernden Schmuckdesignerin Nina Jadzinski von Mad Yeti Creations gemacht und
+bezaubernden Schmuckdesignerin Nina Jadzinski von Mad Yeti Creations gemacht und
 wir durften [Caspian](/2015/11/caspian-live-hafenklang-hamburg/) im Hafenklang
 in Hamburg live erleben.
 

@@ -17,6 +17,7 @@ labels:
   - Eco
   - Ecotanka
   - Edelstahl
+  - Fair Fashion & Beauty
   - joggen
   - laufen
   - Mountainbiking
@@ -26,7 +27,6 @@ labels:
   - Trekking
   - Umweltschutz
   - vegan
-  - Vegane Produkte
   - Walken
   - Wandern
   - Zero Waste
@@ -47,13 +47,11 @@ subTitle: Im Bett mit einer Flasche
 
 _Werbung\*_
 
-<RemoteImage
-  alt="Ecotanka"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34514372262_29e6404b46_k__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34514372262_29e6404b46_k__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAHAAAAQMFAAAAAAAAAAAAAAAAAAUGCAECAwQH/8QAKxAAAgEDAwMCBQUAAAAAAAAAAQIDAAQRBSExBhJBExQiUWFxwQdSYoGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAAH/xAAdEQACAQUBAQAAAAAAAAAAAAABAgADBBESIVFx/9oADAMBAAIRAxEAPwBOvtXs+nrS3uLuOaT1JAipCvcx8k/YCmR07g6lcv8AukLD+9/zXQzLB7rT4mnjCK5d3ORjbtAA+uaRtM6TSTUJ7iDVFSKeV2VHhZ2Xfywwp48fOnWdVEY7GDcDZfslrHkxof4r/gopin9RrSNVQWFwwUAd3qAZwMfKikZE7mRw0I2Wq6sUkJYhd3jlwQDjYY3G4zzTg0C0tZJLvE8sDRXUsChdx2K2FBzztjmrj0vdvdrd6bJZ2rLH3TJIhxnjO3Pnf7VXS+jb+yvm1N9URRM8kxBXtiy22Oc/Xio2LMOS2mipwzNLrUMV3cwq8jelIULDKZI533z+KK3G6fsYnb3UNvcXBOXkuPhBJ3+HxjfxRQgt5MaSk8M//9k=" />
+<RemoteImage alt={`Ecotanka`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34514372262_29e6404b46_k__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34514372262_29e6404b46_k__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAHAAAAQMFAAAAAAAAAAAAAAAAAAUGCAECAwQH/8QAKxAAAgEDAwMCBQUAAAAAAAAAAQIDAAQRBSExBhJBExQiUWFxwQdSYoGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAAH/xAAdEQACAQUBAQAAAAAAAAAAAAABAgADBBESIVFx/9oADAMBAAIRAxEAPwBOvtXs+nrS3uLuOaT1JAipCvcx8k/YCmR07g6lcv8AukLD+9/zXQzLB7rT4mnjCK5d3ORjbtAA+uaRtM6TSTUJ7iDVFSKeV2VHhZ2Xfywwp48fOnWdVEY7GDcDZfslrHkxof4r/gopin9RrSNVQWFwwUAd3qAZwMfKikZE7mRw0I2Wq6sUkJYhd3jlwQDjYY3G4zzTg0C0tZJLvE8sDRXUsChdx2K2FBzztjmrj0vdvdrd6bJZ2rLH3TJIhxnjO3Pnf7VXS+jb+yvm1N9URRM8kxBXtiy22Oc/Xio2LMOS2mipwzNLrUMV3cwq8jelIULDKZI533z+KK3G6fsYnb3UNvcXBOXkuPhBJ3+HxjfxRQgt5MaSk8M//9k="
+/>
 
 **Mein Test der Ecotanka Trinkflasche ist etwas anders ausgefallen, als geplant.
 Ich hoffe, dass mein Bericht dennoch kurzweilig ist. Alle Infos, die Ihr
@@ -104,13 +102,11 @@ mich in Zukunft trennen.
 
 ## Bye bye, Plastikflasche - Zero Waste Drinking
 
-<RemoteImage
-  alt="Ecotanka"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34291309300_e761ac4aae_k__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34291309300_e761ac4aae_k__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcBBQYI/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDBAURABIhE2EGFTFBURRxwSMkgaHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAHhEAAgMAAQUAAAAAAAAAAAAAAQIAAxExEiEyQYH/2gAMAwEAAhEDEQA/AFtaLrW3wUj1joq0bbFZm9N+c59zyT/mriir3qrZNRSQTMrAQ9bcyO57H4Iz/elvarrUxSn9qXRH3xhId7Kc884+NNEOl0uYEUhVagpICo5BwQTg9xqN1SdSuRuZ8yGuhX3fXeNHwwZaG60lHNWTmimp0EbpJuO3YMRl2+DnjtrW+ZUMXlSZlBRWGOGJ/SPftrN0W6ktVJSi0VFz6cKlmjrlhK4JAJB/nnvqpudXHFGHn8H3grGMs61eQ3BAwQfv6a01FeXPMmamQkLEnU1NVVVDB5+mgYIEhQRqB9lxqUqYbLeoHjhklrWlUGdpjjGRnK+/40aNQ2awJ0rY0kraPrpIsCqoU7Yw0nBJ4ZshfX2UHvqku1zeLxNHbKGGOKolRR9bMTNIuS2SMn840aNJOBC3kZ//2Q==" />
+<RemoteImage alt={`Ecotanka`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34291309300_e761ac4aae_k__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34291309300_e761ac4aae_k__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcBBQYI/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDBAURABIhE2EGFTFBURRxwSMkgaHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAHhEAAgMAAQUAAAAAAAAAAAAAAQIAAxExEiEyQYH/2gAMAwEAAhEDEQA/AFtaLrW3wUj1joq0bbFZm9N+c59zyT/mriir3qrZNRSQTMrAQ9bcyO57H4Iz/elvarrUxSn9qXRH3xhId7Kc884+NNEOl0uYEUhVagpICo5BwQTg9xqN1SdSuRuZ8yGuhX3fXeNHwwZaG60lHNWTmimp0EbpJuO3YMRl2+DnjtrW+ZUMXlSZlBRWGOGJ/SPftrN0W6ktVJSi0VFz6cKlmjrlhK4JAJB/nnvqpudXHFGHn8H3grGMs61eQ3BAwQfv6a01FeXPMmamQkLEnU1NVVVDB5+mgYIEhQRqB9lxqUqYbLeoHjhklrWlUGdpjjGRnK+/40aNQ2awJ0rY0kraPrpIsCqoU7Yw0nBJ4ZshfX2UHvqku1zeLxNHbKGGOKolRR9bMTNIuS2SMn840aNJOBC3kZ//2Q=="
+/>
 
 Getestet habe ich, fiebrig wie ich bin, unter erschwerten Bedingungen. Ich habe
 die Flasche geschüttelt, auf den Kopf gestellt und auch ein paar mal umfallen

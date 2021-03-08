@@ -16,12 +16,12 @@ labels:
   - Fire In The Mountain
   - Gedanken
   - Geräusche
+  - Geschichten & Erlebtes
   - Long Distance Calling
   - Menschen
   - Montag
   - Morgen
   - Nebengeräusche
-  - Prosa
   - U-Bahn
 type: Artikel
 typeName: Artikel
@@ -38,11 +38,12 @@ subTitle: Prosa des Alltags
   
 ---
 
-Regentropfen an der Scheibe. Ein Falter hängt in einem Spinnennetz kopfüber an
+**Regentropfen an der Scheibe. Ein Falter hängt in einem Spinnennetz kopfüber an
 der Decke. Er dreht sich. Jemand kaut so feste auf seinem Kugelschreiber, dass
-die Mine schon geplatzt ist. Blaue Tinte perlt auf seinen Lippen. Ein Anderer
-scharrt mit sein Füßen, zieht die Nase hoch und blättert geräuschvoll in seiner
-Zeitung. U-Bahn am Morgen.
+die Mine schon geplatzt ist.**
+
+Blaue Tinte perlt auf seinen Lippen. Ein Anderer scharrt mit sein Füßen, zieht
+die Nase hoch und blättert geräuschvoll in seiner Zeitung. U-Bahn am Morgen.
 
 Eine Gruppe lärmender Schüler steigt ein und wieder aus. Wärme. Ein muffiger
 Luftzug streift bei jedem Anfahren durch das Abteil. Aussteigen. Bitte
@@ -65,9 +66,10 @@ gegen Deine Müdigkeit an. Dein Kopf sinkt auf Dein Kinn.
 Schnell aussteigen. Treppe hoch. Fernseher an. Kühlschrank auf. Schatten auf der
 Tapete.
 
-_Als Song des Tages habe ich heute mal wieder eines meiner Lieblingsstücke
-ausgepackt. Hier sind für Euch Long Distance Calling mit "Fire In The
-Mountain":_
+Als Song des Tages habe ich heute mal wieder eines meiner Lieblingsstücke
+ausgepackt.
+
+## Song des Tages: Long Distance Calling – "Fire In The Mountain"
 
 [youtube=http://www.youtube.com/watch?v=cDZXHjxmpXQ]
 

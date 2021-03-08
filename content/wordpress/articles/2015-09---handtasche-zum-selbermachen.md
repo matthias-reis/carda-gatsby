@@ -11,7 +11,7 @@ excerpt: Vor Kurzem stieß ich auf "Handmade Kultur" auf eine tolle Nähanleitun
 focusKeyword: Handtasche
 labels:
   - diy
-  - DIY
+  - Fair Fashion & Beauty
   - Handtasche
   - Handtasche Nähanleitung
   - Handtasche nähen
@@ -32,9 +32,12 @@ subTitle: Kleiner Schulterbag im Patchwork-Style
   
 ---
 
+**Vor Kurzem stieß ich auf "Handmade Kultur" auf eine tolle Nähanleitung. Die
+Handtasche "Kira" hatte es mir sofort angetan.**
+
 Weil von
 [einem meiner letzten Nähprojekte](/2015/09/diy-koernerkissen-naehanleitung/)
-noch jede Menge Stoff übrig war, machte ich mich gleich ans Werk. Die Anleitung
+ noch jede Menge Stoff übrig war, machte ich mich gleich ans Werk. Die Anleitung
 ist wirklich super gemacht, jeder Schritt ist ausführlich erklärt und bebildert.
 Als Material habe ich ganz normale Baumwolle genommen.
 

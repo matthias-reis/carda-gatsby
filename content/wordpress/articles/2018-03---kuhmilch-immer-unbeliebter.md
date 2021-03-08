@@ -14,7 +14,8 @@ focusKeyword: Kuhmilch
 labels:
   - Albert Schweitzer Stiftung
   - Cashewmilch
-  - Darum vegan
+  - Ernährung
+  - Ernährung & Gesundheit
   - Hafermilch
   - Klima & Umweltschutz
   - Kuhmilch
@@ -24,8 +25,12 @@ labels:
   - Pflanzenmilch
   - Reismilch
   - Sojamilch
+  - Tierhaltung
   - Tierrechte
+  - Tierrechte
+  - Tierschutz
   - vegan
+  - vegane Ernährung
 type: Artikel
 typeName: Artikel
 date: 2018-03-27T08:15:50.000Z
@@ -50,13 +55,11 @@ hat über Jahrzehnte für das glänzende Image von Kuhmilch gesorgt. So betrug d
 Pro-Kopf-Verbrauch in Amerika in den 70ern ganze 113,5 Liter, berichtet die
 Albert Schweitzer Stiftung. Seit den 90ern geht der Konsum allerdings zurück.
 
-<RemoteImage
-  alt="Kuhmilch"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_cow-2802838_1280__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_cow-2802838_1280__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYABQcE/8QAKxAAAgECBQIFBAMAAAAAAAAAAQIDBBEABRIhMQZBE1FhcYEUIiSRFSPR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxESBJEiMWH/2gAMAwEAAhEDEQA/AHHKc+yuiWd81l+meJSyrINnsOx4J9MAHXf8nMYoaKjlgc6UjLkSEethYH4xwZ9HS5hkhnoZIQNGoCqqULSHYFPDtcHm5a3a18KNN0rJaVstqnp81hpmqoqWncTurC2lQpOxJI4J74j0O5XUDr7KV6DOymav9NJTTfjQvCzby07Hy7qeP9xbUtWVRSUsoP3C97fGKSvz6CnSmkr6+nat0Anwzaz2uRbc83FuRi2KLmVNHmGVPH4UqavtAax4YA32N7jvxhT1hCTX1MA2QA0wZqCqzumCZPSVUyVJDFvCYK7d7ueV/eGro7o6q6ZzqSvzhZZZFjLxyxarLzdQobkEE7jjyw9xZjDOzRx1EKkKVaIHgMBax8uw9vfB4CssaCeZoZmUKNI31cbj97Ykq2p8IK3m3WjCjEHJRU9XSrRz00aQR6f644rqwFzovt3NyRz84mVxQUEtWaMyRRVFQJdJOlImZQp0W7Erc+pOD1dZLA4qKb8mma5XRt32JFh2228sAiqhWqjOiRJE+5Lg6r3tYewBOFUMTYF9QtdrKwE//9k=" />
+<RemoteImage alt={`Kuhmilch`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_cow-2802838_1280__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_cow-2802838_1280__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYABQcE/8QAKxAAAgECBQIFBAMAAAAAAAAAAQIDBBEABRIhMQZBE1FhcYEUIiSRFSPR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxESBJEiMWH/2gAMAwEAAhEDEQA/AHHKc+yuiWd81l+meJSyrINnsOx4J9MAHXf8nMYoaKjlgc6UjLkSEethYH4xwZ9HS5hkhnoZIQNGoCqqULSHYFPDtcHm5a3a18KNN0rJaVstqnp81hpmqoqWncTurC2lQpOxJI4J74j0O5XUDr7KV6DOymav9NJTTfjQvCzby07Hy7qeP9xbUtWVRSUsoP3C97fGKSvz6CnSmkr6+nat0Anwzaz2uRbc83FuRi2KLmVNHmGVPH4UqavtAax4YA32N7jvxhT1hCTX1MA2QA0wZqCqzumCZPSVUyVJDFvCYK7d7ueV/eGro7o6q6ZzqSvzhZZZFjLxyxarLzdQobkEE7jjyw9xZjDOzRx1EKkKVaIHgMBax8uw9vfB4CssaCeZoZmUKNI31cbj97Ykq2p8IK3m3WjCjEHJRU9XSrRz00aQR6f644rqwFzovt3NyRz84mVxQUEtWaMyRRVFQJdJOlImZQp0W7Erc+pOD1dZLA4qKb8mma5XRt32JFh2228sAiqhWqjOiRJE+5Lg6r3tYewBOFUMTYF9QtdrKwE//9k="
+/>
 
 Milch gerät zunehmend in die Kritik zahlreicher Ernährungswissenschaftler.
 Nachrichten über Gentechnik, Antibiotikamissbrauch in der Massentierhaltung und
@@ -84,13 +87,11 @@ Milchmacht"?
 
 ## Konzerne reagieren
 
-<RemoteImage
-  alt="Kuhmilch"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_udder-7481_640__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_udder-7481_640__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAcF/8QAKRAAAQMDAwMEAgMAAAAAAAAAAQIDBAURIQAGEhMxQSIyUWFCQ1Jxkf/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADERIEITFB/9oADAMBAAIRAxEAPwC3F6rsd/pqASWrleLqT+Se3lOCNIlao1cVsaLuVtDaIZkGMz0R6ShFxlPzcEA+Qk/V9GochDshKUrWWZKVR18DZY5gouOWQfbm3jtnSqxVqwvYVV2ewiMmJTHX4zbjwJceeSsKP0nK8Hx/WoiBWYl43TyCKujjuZXCq06VJaahIkOunASkEq5HByO2TrQqnu2TSqdFMppa4rIDYdR+3vkH4vi/nvqnC2NT48KQirNpf6rqHG5AUUOAcAS2eJsPy85xqNwUZipb2VQpLimqTTGgAhk2GAEoTysfAUb/AERodiVuwA8h6+cdGY/I809TTE9l1cVhCEOtr4qJOAQb3v5t86r7zoy5m45c2murjxqivruNLN1NukpBKR2WCEi/+aNGsGwrnEkA4GIs7b2jUnNwOytzTX0U6JxeWI/vkhN1dMC9xzHEXH2La5MiJuVitzn7wm1zXVyXUNov63LniVfxSk2GR8DRo0wlhf0Quo0An//Z" />
+<RemoteImage alt={`Kuhmilch`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_udder-7481_640__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_udder-7481_640__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAcF/8QAKRAAAQMDAwMEAgMAAAAAAAAAAQIDBAURIQAGEhMxQSIyUWFCQ1Jxkf/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADERIEITFB/9oADAMBAAIRAxEAPwC3F6rsd/pqASWrleLqT+Se3lOCNIlao1cVsaLuVtDaIZkGMz0R6ShFxlPzcEA+Qk/V9GochDshKUrWWZKVR18DZY5gouOWQfbm3jtnSqxVqwvYVV2ewiMmJTHX4zbjwJceeSsKP0nK8Hx/WoiBWYl43TyCKujjuZXCq06VJaahIkOunASkEq5HByO2TrQqnu2TSqdFMppa4rIDYdR+3vkH4vi/nvqnC2NT48KQirNpf6rqHG5AUUOAcAS2eJsPy85xqNwUZipb2VQpLimqTTGgAhk2GAEoTysfAUb/AERodiVuwA8h6+cdGY/I809TTE9l1cVhCEOtr4qJOAQb3v5t86r7zoy5m45c2murjxqivruNLN1NukpBKR2WCEi/+aNGsGwrnEkA4GIs7b2jUnNwOytzTX0U6JxeWI/vkhN1dMC9xzHEXH2La5MiJuVitzn7wm1zXVyXUNov63LniVfxSk2GR8DRo0wlhf0Quo0An//Z"
+/>
 
 Einige große Konzerne reagieren jetzt auf die geänderte Nachfrage. So kündigte
 Amerikas größter Milchkonzern Dean Foods vor kurzem einigen Milchlieferanten.
@@ -127,13 +128,11 @@ gesünderen Alternativen.
 
 ## Milch und die Gesundheit
 
-<RemoteImage
-  alt="Kuhmilch"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_udder-168821_640__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_udder-168821_640__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcD/8QALBAAAgEDAgQFAwUAAAAAAAAAAQIDBAURACEGEhMxBxRRYYEiI0FxgpGx4f/EABcBAQEBAQAAAAAAAAAAAAAAAAEEAwX/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIDERIh/9oADAMBAAIRAxEAPwC18IKSntt1njakQCOAHqEKyGQsAFQ99huTv21pVyvVMXESTDIHYazqpq56dBLQrzTIwIVsYI/I31SzXOppayRYaOsklki8y4OCYkJwWYjYDORnXOqt1YkWVNWNuQ4ccU+Y6e5UhC3Cj+5G2ASR35Tnv6+3zrHePLUbfxA0RBbrYnUgYX6t+X4Jx/Gmu88XqYxHA7PKNymN/n01Pw/ua3+2XCjvlIs09EjS28MpZwMkEftJGPY+2nnpsplJQSOzWs1DsprKnKkjJIOcD9NSImpLVU0sdQ/JLkSHGOoAuMN6jH47b6NGjMJM8FtoqfqxiGJl6g+4sj8yMiqBy8oA9B/umK1RxWrjfh9IEJ81VGFjnGA0b5/rRo1tBCz/2Q==" />
+<RemoteImage alt={`Kuhmilch`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_udder-168821_640__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_udder-168821_640__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcD/8QALBAAAgEDAgQFAwUAAAAAAAAAAQIDBAURACEGEhMxBxRRYYEiI0FxgpGx4f/EABcBAQEBAQAAAAAAAAAAAAAAAAEEAwX/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIDERIh/9oADAMBAAIRAxEAPwC18IKSntt1njakQCOAHqEKyGQsAFQ99huTv21pVyvVMXESTDIHYazqpq56dBLQrzTIwIVsYI/I31SzXOppayRYaOsklki8y4OCYkJwWYjYDORnXOqt1YkWVNWNuQ4ccU+Y6e5UhC3Cj+5G2ASR35Tnv6+3zrHePLUbfxA0RBbrYnUgYX6t+X4Jx/Gmu88XqYxHA7PKNymN/n01Pw/ua3+2XCjvlIs09EjS28MpZwMkEftJGPY+2nnpsplJQSOzWs1DsprKnKkjJIOcD9NSImpLVU0sdQ/JLkSHGOoAuMN6jH47b6NGjMJM8FtoqfqxiGJl6g+4sj8yMiqBy8oA9B/umK1RxWrjfh9IEJ81VGFjnGA0b5/rRo1tBCz/2Q=="
+/>
 
 Tatsache ist auch: die Länder mit den höchsten Osteoporose-Raten haben
 gleichzeitig den höchsten Pro-Kopf-Milchkonsum. Wissenschaftliche Studien, u. a.

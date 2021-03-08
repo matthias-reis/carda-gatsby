@@ -10,7 +10,7 @@ excerpt: Enno Bunger begegnete mir zum ersten Mal auf dem Backstage Open
   Festival in München 2009.
 focusKeyword: Enno Bunger
 labels:
-  - Bands & Reviews
+  - Bands
   - Enno Bunger
   - Enno Bunger neues Album
   - Enno Bunger Renn
@@ -20,7 +20,7 @@ labels:
   - Rezension
   - Rezi
 type: Artikel
-typeName: Rezension
+typeName: Review
 date: 2015-09-14T08:09:03.000Z
 status: publish
 isWerbung: false
@@ -34,16 +34,16 @@ subTitle: So klingt die Vorauskopplung "Renn!"
   
 ---
 
-<RemoteImage
-  alt="Enno Bunger beim Backstage Open Festival in München 2009"
-  size="medium"
-  title="Enno Bunger mit seiner Band beim Backstage Open Festival in München 2009"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_9825441026_d0361ee00d_z-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_9825441026_d0361ee00d_z-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAKBAAAgIBAwMDBAMAAAAAAAAAAQIDBBEABRIGMWEhIkETFFGBBxWR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQGB//EACYRAAEDAwIFBQAAAAAAAAAAAAIAAQMEESESQQUTFDGxImFxgaH/2gAMAwEAAhEDEQA/AGOjq3Tm1GS1PUghmECxckQFSBg5Gc4YlQSRg9/zjUX/ACJ1kOpc0kCxVkKmONfQOfycayjaOpbNmFaUgIiz7QNWOPp23ftPJWeJBXCBzJIFIY9lx3Pz2BxrRYwg09QO35fGFBjw+WOZynJ3fZXfZ9og3FI0p/QQ0aYd5JfB9QPOTrrP9YTRGCdlgjHFeJ/39nSNXaN22nYZt9ijZ6rUvuIJYeS8eTlAW5AD3g+0AlvAyTpdfuNuqoLe403nSvDLJEWIkVnGeHHBPJfnt8aQir4imICfG3h/KcqOFTNThKDerN8/bfHZ1jnSN2tS3WF7zSKoVmGEDISPhwT6j07eRqTTqC8bpYWg9dpWY4jBMqfsHj2A8frRo1OwTycyzvi6qpgFw7JzeOq2uVoasMKRwmmlWbE0jEmMjjIo5YViAqnAwQMY76U/uefuIkjkPcyHv5GjRo9EXLOXR7IVTG0oBrza6//Z" />
+<RemoteImage alt={`Enno Bunger beim Backstage Open Festival in München 2009`}
+size="medium"
+title={`Enno Bunger mit seiner Band beim Backstage Open Festival in München 2009`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_9825441026_d0361ee00d_z-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_9825441026_d0361ee00d_z-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAKBAAAgIBAwMDBAMAAAAAAAAAAQIDBBEABRIGMWEhIkETFFGBBxWR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQGB//EACYRAAEDAwIFBQAAAAAAAAAAAAIAAQMEESESQQUTFDGxImFxgaH/2gAMAwEAAhEDEQA/AGOjq3Tm1GS1PUghmECxckQFSBg5Gc4YlQSRg9/zjUX/ACJ1kOpc0kCxVkKmONfQOfycayjaOpbNmFaUgIiz7QNWOPp23ftPJWeJBXCBzJIFIY9lx3Pz2BxrRYwg09QO35fGFBjw+WOZynJ3fZXfZ9og3FI0p/QQ0aYd5JfB9QPOTrrP9YTRGCdlgjHFeJ/39nSNXaN22nYZt9ijZ6rUvuIJYeS8eTlAW5AD3g+0AlvAyTpdfuNuqoLe403nSvDLJEWIkVnGeHHBPJfnt8aQir4imICfG3h/KcqOFTNThKDerN8/bfHZ1jnSN2tS3WF7zSKoVmGEDISPhwT6j07eRqTTqC8bpYWg9dpWY4jBMqfsHj2A8frRo1OwTycyzvi6qpgFw7JzeOq2uVoasMKRwmmlWbE0jEmMjjIo5YViAqnAwQMY76U/uefuIkjkPcyHv5GjRo9EXLOXR7IVTG0oBrza6//Z"
+/>
 
 **Enno Bunger begegnete mir zum ersten Mal auf dem Backstage Open Festival in
-München 2009. Seither habe ich den Musiker, das muss ich leider zugeben, ein
+München 2009. Seither habe ich den Musiker, das muss ich leider zugeben, ein
 Bisschen aus den Augen verloren.**
 
 Bis der Künstler vor kurzem meine
@@ -54,37 +54,41 @@ auf jeden Fall anhören.
 
 Bisher gibt es bereits eine Vorauskopplung aus "Flüssiges Glück", das komplette
 Album erscheint am 9. Oktober. Natürlich habe ich den Song "Renn!" schon mal
-unter die Lupe genommen und ich muss sagen: Ich bin sehr angetan davon!
+unter die Lupe genommen und ich muss sagen: Ich bin sehr angetan davon!
 
 ## "Renn!" macht Lust auf mehr
 
 Zarter Sprechgesang untermalt von melodiösem Synthiesound macht den Song aus.
 Der Text ist mächtig und aussagekräftig, ohne dabei sperrig zu wirken, am Puls
-der Zeit, eingängig und persönlich. Alles in allem macht das Stück Lust auf
+der Zeit, eingängig und persönlich. Alles in allem macht das Stück Lust auf
 mehr. Ich freue mich auf das Album. Mein Tipp: Vorbestellen!
 
 Der Singer, Songwriter, Pianist, Produzent und Komponist Enno Bunger stammt aus
 Leer in Ostfriesland. Bei seinem Projekt wird er am Schlagzeug von Nils Dietrich
-unterstützt. Er selbst ist für Gesang und Klavier verantwortlich. Zum Zeitpunkt,
+unterstützt. Er selbst ist für Gesang und Klavier verantwortlich. Zum Zeitpunkt,
 als ich Enno Bunger in München live gesehen habe, war außerdem noch Bernd Frikke
 am Schlagzeug dabei.
 
 Als Support war Enno Bunger bereits mit Größen wie Gisbert zu Knyphausen, Travis
 und Jamie Cullum unterwegs. Das erste Album "Ein Bisschen Herz" erschien 2010
-und wurde von den Kritikern gelobt. Das Konzeptalbum "Wir sind vorbei" setzte
+und wurde von den Kritikern gelobt.  Das Konzeptalbum "Wir sind vorbei" setzte
 2012 noch eins drauf. Seitdem ist es ruhig um die Band geworden und Enno Bunger
 wieder ein Soloprojekt.
 
 Weiterhin mit von der Partie ist Nils Dietrich, bei den Konzerten wechseln sich
 die Musiker ab. Ständig unterstützt wird Enno Bunger von der neu gegründeten
 Band Woods Of Birnam sowie einigen Mitgliedern von Polarkreis 18. Die neue
-Platte "Flüssiges Glück" hat Enno gemeinsam mit Tobias Siebert in Berlin
-produziert, nachdem er ein Jahr lang hier in Hamburg vorgeschrieben hatte.
+Platte "Flüssiges Glück" hat Enno gemeinsam mit Tobias Siebert in Berlin
+produziert, nachdem er ein Jahr lang hier in Hamburg vorgeschrieben hatte.
 
 Einordnen lässt sich Enno Bungers Stil irgendwo zwischen Kante und
 [den Sternen](/2014/09/flucht-in-die-flucht/). Verspielt, nachdenklich,
 hochgradig musikalisch, kreativ und phantasievoll.
 
-## Hier ist für Euch Enno Bunger mit "Renn!"<iframe src="https://www.youtube.com/embed/SmBP2lMhEnE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe> [Hier geht's zur Homepage](http://ennobunger.de/) von Enno Bunger
+## Hier ist für Euch Enno Bunger mit "Renn!"
+
+<iframe src="https://www.youtube.com/embed/SmBP2lMhEnE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+[Hier geht's zur Homepage](http://ennobunger.de/) von Enno Bunger
 
   

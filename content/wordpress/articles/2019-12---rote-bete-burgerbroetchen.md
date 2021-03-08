@@ -21,6 +21,7 @@ labels:
   - vegane Burger
   - vegane Burgerbrötchen
   - vegane Kochschule
+  - vegane Rezepte
   - Vegane Rezepte
   - veganes Brötchenrezept
 type: Artikel
@@ -50,7 +51,7 @@ selbst gebacken - das Rezept ist ganz einfach und gelingt sehr gut!
 ## Zutaten für 4 - 6 Burgerbrötchen
 
 - 250 Gramm Dinkelmehl Typ 630
-- 1/2 Packung Trockenhefe
+- 1/2 Packung [Trockenhefe](/2021/01/hefe-ist-vegan/)
 - 100 ml Rote Bete Saft
 - 1/2 TL Salz
 - 60 ml lauwarmes Wasser
@@ -59,13 +60,11 @@ selbst gebacken - das Rezept ist ganz einfach und gelingt sehr gut!
 
 ## Zubereitung
 
-<RemoteImage
-  alt="burgerbroetchen"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-07-rote-bete-broetchen-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-07-rote-bete-broetchen-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgIDB//EACoQAAEEAQMDAwMFAAAAAAAAAAECAwQRBQASIQYTMSJBURSRoRZhcYLh/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUAAgb/xAAeEQACAwADAAMAAAAAAAAAAAABAwACEQQTMSFBYf/aAAwDAQACEQMRAD8ArOZ6KxnTTuPkOwJOUy81PeW6kK7bewpHoQn5PuSfGpj2fx+PgFM7GR25bIKkokxQsEq9huHNC7+2oDGZmZVffcmud1agpakujaqhVBN0KHx8VWmb2XckQ1xZ4E5lQpSXUkprxf7fjSxrbG35NDxkLovDhP3MFzomWhR5XTOOhRZbzYalx4cRCFcG7UqhSVHnzxpR+kV9QZWUia41EdioSYbO9PblEpO8DyQQQDf41YGpuNx0SNjI0ltC46VKU26SSlN7htvzyT/Guf8AUedT9a6xIccalNrCgpo7hyBSkkUf9vVlXuL6JHrWxXWPgSttdSKcRRZQFgGyCE2dbRl11w4y1uqggkqH9Qa+40aNFdddgi7WI0mOUdNSs3jZGVgOOLkRFBD7NArUkjdv48m7saQOtr7hkuF15SPSSlqgDXANaNGmIVStjg8iu3IYRm+z/9k=" />
+<RemoteImage alt={`burgerbroetchen`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-07-rote-bete-broetchen-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-07-rote-bete-broetchen-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgIDB//EACoQAAEEAQMDAwMFAAAAAAAAAAECAwQRBQASIQYTMSJBURSRoRZhcYLh/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUAAgb/xAAeEQACAwADAAMAAAAAAAAAAAABAwACEQQTMSFBYf/aAAwDAQACEQMRAD8ArOZ6KxnTTuPkOwJOUy81PeW6kK7bewpHoQn5PuSfGpj2fx+PgFM7GR25bIKkokxQsEq9huHNC7+2oDGZmZVffcmud1agpakujaqhVBN0KHx8VWmb2XckQ1xZ4E5lQpSXUkprxf7fjSxrbG35NDxkLovDhP3MFzomWhR5XTOOhRZbzYalx4cRCFcG7UqhSVHnzxpR+kV9QZWUia41EdioSYbO9PblEpO8DyQQQDf41YGpuNx0SNjI0ltC46VKU26SSlN7htvzyT/Guf8AUedT9a6xIccalNrCgpo7hyBSkkUf9vVlXuL6JHrWxXWPgSttdSKcRRZQFgGyCE2dbRl11w4y1uqggkqH9Qa+40aNFdddgi7WI0mOUdNSs3jZGVgOOLkRFBD7NArUkjdv48m7saQOtr7hkuF15SPSSlqgDXANaNGmIVStjg8iu3IYRm+z/9k="
+/>
 
 Insgesamt halten wir uns beim Backen komplett an das Rezept aus der Kurkuma
 Kochschule. Wir haben lediglich etwas Gram hinzugefügt - damit lässt sich der
@@ -73,11 +72,11 @@ Teig leichter handeln und die Brötchen bekommen unten eine schöne knusprige
 Kruste. Ihr könnt zu diesem Zweck natürlich auch Dinkelmehl verwenden. Das
 bleibt Euch überlassen.
 
-Vermischt als erstes das Dinkelmehl, die Hefe und das Salz. Gebt das Wasser und
-den Rote Bete Saft dazu und knetet den Teig mit den Knethaken des Rührgerätes
-gut durch. Ihr seid damit fertig, wenn er sich leicht vom Schüsselrand löst.
-Deckt die Schüssel dann ab und lasst ihn am besten zugedeckt an einem warmen Ort
-für rund 30 Minuten gehen.
+Vermischt als erstes das Dinkelmehl, die [Hefe](/2021/01/hefe-ist-vegan/) und
+das Salz. Gebt das Wasser und den Rote Bete Saft dazu und knetet den Teig mit
+den Knethaken des Rührgerätes gut durch. Ihr seid damit fertig, wenn er sich
+leicht vom Schüsselrand löst. Deckt die Schüssel dann ab und lasst ihn am besten
+zugedeckt an einem warmen Ort für rund 30 Minuten gehen.
 
 Nach dem Gehvorgang könnt Ihr schon mal den Ofen auf 180 Grad vorheizen. Legt
 ein Backblech mit Backpapier aus und formt vier bis sechs schöne Brötchen. Legt

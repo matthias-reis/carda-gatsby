@@ -1,6 +1,6 @@
 ---
 title: Die Post ist da!
-seoTitle: Die Post ist da - Mixtape-Tausch Teil 2
+seoTitle: Die Post ist da - Mixtape-Tausch Teil 2/2
 slug: der-mixtape-tausch-2
 path: /2011/08/der-mixtape-tausch-2/
 fileName: 2011-08---die-post-ist-da.md
@@ -12,19 +12,18 @@ excerpt: Die meisten Bands kannte ich noch nicht, also eine wunderbare
   Horizont zu erweitern.
 focusKeyword: Mixtape
 labels:
-  - ♥
   - "2011"
-  - Bands & Reviews
+  - Bands
   - Beastie Boys
   - Beulah
   - Bombay Bicycle Club
   - cardamon82
   - Caribou
   - Die Gescheiterten
-  - DIY
   - Eels
   - Flugzeug
   - Freundschaft
+  - Geschichten & Erlebtes
   - Ginsberg
   - Gomez
   - Guillemots
@@ -67,22 +66,28 @@ thumbnailId: "2556"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_10__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_10__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcI/8QAKBAAAgEEAAYCAQUAAAAAAAAAAQIDAAQFEQYSEyExURRBMiJhYnKB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQQAAgMF/8QAIBEAAgICAAcAAAAAAAAAAAAAAAECERIhAxMxQYGx8P/aAAwDAQACEQMRAD8A56sYYjDG8sYZXdkLnyp+qcuFstLhbqBldxZR87vGjlUJK6/Het+O9KmGZfikMGJ2SfXnt/tWE3UWC4WccnTXmBJ/JaXdt0dSCiuC97a+XmvaseMNnMxc4+O/kyIV764kgjhnVemESMyHRHffMVUD78VfcKXd9lseDHDE9xbGMPzMArhgWBBPg71sVRQ/GsLW1s52UXFphldFZOZutcSguw9Mqug99+1OfB+NxknClqoDoXZ5C6uqOdO4Gz/X37+qkpYoSUXJ0YRYTJbY6MCIM5DNzE/yIqCTIPcr0XRe/wCgN9gHtRRWmK6h5s6xvQ5ZbJXS3c8N2YpWmuflStGhjDERhEXWzpV1sCtxx9okcEUKFlSJFQaJ8Aa9/tRRQaKx7n//2Q==
-subTitle: Der Mixtape-Tausch Teil 2
+subTitle: Der Mixtape-Tausch Teil 2/2
   
 ---
+
+** [...Teil 1](/2011/08/der-mixtape-tausch/) Erstmal ein ganz großes Dankeschön
+an Ginsberg für sein wunderbares Mixtape. Die Musik darauf trifft wirklich sehr
+genau meinen Geschmack. Die meisten Bands kannte ich noch nicht, also eine
+wunderbare Möglichkeit für mich neue Musik kennen zu lernen und meinen
+musikalischen Horizont zu erweitern.**
 
 Zusätzlich zu den 15 Songs, auf der Kassette, sowie auf 2 CDs (jeweils eine CD
 für jede Seite der Kassette), habe ich noch eine dritte CD mit dem Titel "Die
 Gescheiterten" erhalten, auf der sich neun Songs befinden, die bereits in der
 engeren Auswahl standen, es jedoch am Ende nicht auf das Mixtape geschafft
 haben, wobei man hier eindeutig nicht von "gescheiterten" Songs sprechen kann,
-wenn man nach der Qualität urteilt. Zusätzlich zur Musik enthielt das Päckchen
+wenn man nach der Qualität urteilt. Zusätzlich  zur Musik enthielt das Päckchen
 einen wundervollen Brief, aus dem ich hier einen kleinen Auszug (mit
 freundlicher Genehmigung von Ginsberg) zeigen möchte:
 
 <blockquote>
 
-"... Aber nun zum Eingemachten.
+## ... Aber nun zum Eingemachten.
 
 Die Kassette darf sich zu Recht damit rühmen, meine bisher Beste zu sein. Ich
 habe ja schon so einige erstellt und oftmals war es das heimliche Ziel, die EINE
@@ -151,7 +156,7 @@ aufgenommen. Ganz besonders hat mir auch " Canadian Girl" von THE WALKMEN
 gefallen, ich habe mich bereits einige Male dabei ertappt, wie ich zurückgespult
 und das Lied noch mal gehört habe.
 
-Nach dem Hören und auch nach der "Todesflug-Geschichte" ist mir klar geworden,
+Nach dem Hören und  auch nach der "Todesflug-Geschichte" ist mir klar geworden,
 dass ich bestimmt nochmal ein Mixtape für Ginsberg zusammenstellen werde, da auf
 meiner Combilation mit Sicherheit noch einige Songs für den Flug in Richtung
 Klippe fehlen. Ach ja: Über den Klassiker von den BEASTIE BOYS habe ich mich
@@ -162,106 +167,113 @@ Mixtape-Zeit!
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_16__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_15__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_15__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_14__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_14__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_13__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_13__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_12__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_12__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_11__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_11__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_10__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_10__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_8__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_8__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_5__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_5__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_3__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_1__l.jpg"}]}
 />
 
-## Die Musik:### Seite A: _ \_\_\_\_ _ **1.) Yo La Tengo - The Story Of Yo La Tengo**
+## Die Musik:
 
-[youtube=http://www.youtube.com/watch?v=IFrwgyrviTA]
+### Seite A: \_\_
 
-**2.) Mark Lenegan - Hit The City**
+####  1.) Yo La Tengo - "The Story Of Yo La Tengo"
 
-[youtube=http://www.youtube.com/watch?v=_xMvw9lCOBw]
+<iframe src="https://www.youtube-nocookie.com/embed/tSHswSlm7co" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**3.) The Walkmen - Blue As Your Blood**
+#### 2.) Mark Lanegan feat. PJ Harvey - "Hit The City"
 
-[youtube=http://www.youtube.com/watch?v=6BNt2Cm6Y2A]
+<iframe src="https://www.youtube-nocookie.com/embed/azH5eEXtllc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**4.) Bombay Bicycle Club - Many Ways**
+#### 3.) The Walkmen - "Blue As Your Blood"
 
-[youtube=http://www.youtube.com/watch?v=3Zv4s-JQJgQ&amp;playnext=1&amp;list=PL0B0E9714FDC2C976]
+<iframe src="https://www.youtube-nocookie.com/embed/8mwhr2O7aYg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**5.) Bombay Bicycle Club - Swansea**
+#### 4.) Bombay Bicycle Club - "Many Ways"
 
-[youtube=http://www.youtube.com/watch?v=neB1iZgr8DY]
+<iframe src="https://www.youtube-nocookie.com/embed/3Zv4s-JQJgQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**6.) The Beta Band - She´s The One**
+#### 5.) Bombay Bicycle Club - "Swansea"
 
-[youtube=http://www.youtube.com/watch?v=nqF5LEPzUBI]
+<iframe src="https://www.youtube-nocookie.com/embed/KDKRYzskbks" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**7.) The Walkmen - Candian Girl**
+#### 6.) The Beta Band - "She´s The One"
 
-[youtube=http://www.youtube.com/watch?v=DPdfZlm4d-c]
+<iframe src="https://www.youtube-nocookie.com/embed/--pdLtQhDeo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**8.) Eels - Numbered Days** (leider im Internet nicht auffindbar, ist auf dem
-Album "Jeannies Diary" zu finden)
+#### 7.) The Walkmen - "Candian Girl"
 
-**9.) Little Joy - Evaporar**
+<iframe src="https://www.youtube-nocookie.com/embed/DPdfZlm4d-c" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-[youtube=http://www.youtube.com/watch?v=IWXTisH11-Y]
+<h5>8.) Eels - "Numbered Days"
+<iframe src="https://www.youtube-nocookie.com/embed/iB2qT9ml7Yc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h5>
 
-#### Seite B **10.)** **Voxtrott - Indroduction**
+#### 9.) Little Joy - "Evaporar"
 
-[youtube=http://www.youtube.com/watch?v=_nCpuHLGS8w]
+<iframe src="https://www.youtube-nocookie.com/embed/IWXTisH11-Y" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**11.) The Leisure Society - A Fighting Chance**
+### Seite B
 
-[youtube=http://www.youtube.com/watch?v=FWxy2upYAUk]
+#### 10.) Voxtrott - "Indroduction"
 
-**12.) The Leisure Society - The Sleeper**
+<iframe src="https://www.youtube-nocookie.com/embed/_nCpuHLGS8w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-[youtube=http://www.youtube.com/watch?v=KXdQX2SHqh4]
+#### 11.) The Leisure Society - "A Fighting Chance"
 
-**13.) Gomez - You, Me And Everybody**
+<iframe src="https://www.youtube-nocookie.com/embed/1-OdLzi0edE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-[youtube=http://www.youtube.com/watch?v=nB0rg6nC344]
+#### 12.) The Leisure Society - "The Sleeper"
 
-**14.) The Shins - Phantom Limb**
+<iframe src="https://www.youtube-nocookie.com/embed/3PIQAp2Z3yo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-[youtube=http://www.youtube.com/watch?v=wur50eO9iu8]
+#### 13.) Gomez - "You, Me And Everybody"
 
-**15.) Ra Ra Riot - Too Too Too Fast**
+<iframe src="https://www.youtube-nocookie.com/embed/nB0rg6nC344" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-[youtube=http://www.youtube.com/watch?v=smiE4slgGoM]
+#### 14.) The Shins - "Phantom Limb"
 
-**16.) Voxtrot - The Start Of Something**
+<iframe src="https://www.youtube-nocookie.com/embed/OkITsv3Nk6M" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-[youtube=http://www.youtube.com/watch?v=PtWhB1JgZGc]
+#### 15.) Ra Ra Riot - "Too Too Too Fast"
 
-**17.) Guillemots -** **São Paulo**
+<iframe src="https://www.youtube-nocookie.com/embed/vST03aPLiLc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-[youtube=http://www.youtube.com/watch?v=cGvSEgrx9BY]
+#### 16.) Voxtrot - "The Start Of Something"
 
-#### Die Gescheiterten: **18.) The Beasty Boys - I Don´t Know**
+<iframe src="https://www.youtube-nocookie.com/embed/kjOCY1NX_B8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-[youtube=http://www.youtube.com/watch?v=E-qFgw5i-zU]
+#### 17.) Guillemots - "São Paulo"
 
-**19.) Beulah - I´ll Be Your Lamphade** (Leider im Internet nicht auffindbar,
-ist auf dem Album "The Coast Is Never Clean" zu finden)
+<iframe src="https://www.youtube-nocookie.com/embed/8VIJXD4x89s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**20.) Beulah - If We Can Land A Man On The Moon, Surely I Can Win Your Love ♥**
+### Die Gescheiterten:
 
-[youtube=http://www.youtube.com/watch?v=SZKFyxCB2Is&amp;list=FLaNjgTF8glhKXAJ-T3331qw&amp;index=33&amp;feature=plpp]
+#### 18.) The Beasty Boys - "I Don´t Know"
 
-**21.) Caribou - Desiree**
+<iframe src="https://www.youtube-nocookie.com/embed/KVqatg5NEF4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-[youtube=http://www.youtube.com/watch?v=QU48sW6zQYY]
+<h5>19.) Beulah - "I´ll Be Your Lamphade"
+<iframe src="https://www.youtube-nocookie.com/embed/wm2oRGeDvCw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h5>
 
-**22.) The Veils - Wild Son**
+#### 20.) Beulah - "If We Can Land A Man On The Moon, Surely I Can Win Your Love"
 
-[youtube=http://www.youtube.com/watch?v=L1Dm22ziDBM]
+<iframe src="https://www.youtube-nocookie.com/embed/5Tav8-WRZRc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**23.) Yo La Tengo - Deeper Into Movies**
+#### 21.) Caribou - "Desiree"
 
-[youtube=http://www.youtube.com/watch?v=iCFWpb8YZJU]
+<iframe src="https://www.youtube-nocookie.com/embed/5sjEIzb6XJA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**24.) The Pains Of Being Pure At Heart - Young Adult Friction**
+#### 22.) The Veils - "Wild Son"
 
-[youtube=http://www.youtube.com/watch?v=HxqAc7yfd6E]
+<iframe src="https://www.youtube-nocookie.com/embed/a0R858JBOLI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**25.) Pete Yorn &amp; Scarlett Johansson - Relator**
+#### 23.) Yo La Tengo - "Deeper Into Movies"
 
-[youtube=http://www.youtube.com/watch?v=5ABMBJ9jT-w]
+<h5><iframe src="https://www.youtube-nocookie.com/embed/T-3NhI6VOuo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+24.) The Pains Of Being Pure At Heart - "Young Adult Friction"</h5>
 
-**26.) Prefab Sprout - Bonny**
+<iframe src="https://www.youtube-nocookie.com/embed/01ui9GR84OU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-[youtube=http://www.youtube.com/watch?v=zefR13phCKM]
+#### 25.) Pete Yorn &amp; Scarlett Johansson - "Relator"
+
+<iframe src="https://www.youtube-nocookie.com/embed/vEMPbsqqdOA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+#### 26.) Prefab Sprout - "Bonny"
+
+<iframe src="https://www.youtube-nocookie.com/embed/L3Rh2hnDtAg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
   

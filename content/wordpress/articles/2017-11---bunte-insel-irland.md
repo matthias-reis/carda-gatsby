@@ -11,13 +11,13 @@ excerpt: Ich liebe farbenfrohe Details. Diese bunten Schnappschüsse sind mir in
   der schönen Irischen Stadt Kilkenny gelungen. Die machen Lust auf mehr, oder?
 focusKeyword: Kilkenny
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
   - Farben
+  - Fernweh
   - Ireland
   - Irland
   - Irland2017
   - Kilkenny
-  - Reisen
 type: Galerie
 typeName: Galerie
 date: 2017-11-04T17:58:47.000Z

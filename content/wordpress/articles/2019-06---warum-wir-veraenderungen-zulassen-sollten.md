@@ -13,6 +13,7 @@ excerpt: Veränderung ist wichtig. Wir sollten sie nicht nur zulassen, sondern
 focusKeyword: Veränderungen
 labels:
   - Achtsamkeit
+  - Antifaschismus & Feminismus
   - Evolution
   - fcknzs
   - Fortschritt
@@ -22,7 +23,6 @@ labels:
   - Kunst
   - Nachhaltigkeit
   - New Work
-  - Politik & Soziales
   - Progress
   - Selbstliebe
 type: Artikel
@@ -54,13 +54,11 @@ dass wir dazu tendieren, uns an der Vergangenheit festzuhalten.
 
 ## Früher war nicht alles besser
 
-<RemoteImage
-  alt="veraenderungen"
-  size="medium"
-  title="Modernes zulassen."
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAUEAQIGBwj/xAAqEAACAgEDAgUDBQAAAAAAAAABAgQRAwAFIQYTEiIxQVEHFDIVYWKRof/EABgBAAMBAQAAAAAAAAAAAAAAAAIFBgED/8QAIREAAgIBAwUBAAAAAAAAAAAAAQIAEQMEEkEFEyEx8IH/2gAMAwEAAhEDEQA/AOhJe7xYLeBseVytAlV8qk8AX8k+1ax3des5ONcSxosWOZCK+FpDl7Bu/EoqvD4TZBI+NKN3lZcG9S3aSynFnzjytRu1K8e9DgD+WksCUHnd1c5GRogXuEFlxqFYhFviyxQ8cKBybOlmTUvuoGVGl6Vi2dxhfi+fvq9zaMdROgQ5OZED5cK5CF5AJAPB5saNHTfm6Y2Y+XmHi/G6/Eel81o0xU2BJzKgXIyjgmIFnfcZO5lhRM7CqfLgRmJ+bq9VlPG7Dtk2Lb8pVDSJHUsw44Hp8D+tQIkgGOpJokcc+mrnllBZyCz7awoDCXMwFA1+xb9P+q903D9cabDk4lSeyYsedQBiUIo7aAGgFr/bs3o1OE/HjUAutn99GiAnItZn/9k=" />
+<RemoteImage alt={`veraenderungen`} size="medium" title={`Modernes zulassen.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAUEAQIGBwj/xAAqEAACAgEDAgUDBQAAAAAAAAABAgQRAwAFIQYTEiIxQVEHFDIVYWKRof/EABgBAAMBAQAAAAAAAAAAAAAAAAIFBgED/8QAIREAAgIBAwUBAAAAAAAAAAAAAQIAEQMEEkEFEyEx8IH/2gAMAwEAAhEDEQA/AOhJe7xYLeBseVytAlV8qk8AX8k+1ax3des5ONcSxosWOZCK+FpDl7Bu/EoqvD4TZBI+NKN3lZcG9S3aSynFnzjytRu1K8e9DgD+WksCUHnd1c5GRogXuEFlxqFYhFviyxQ8cKBybOlmTUvuoGVGl6Vi2dxhfi+fvq9zaMdROgQ5OZED5cK5CF5AJAPB5saNHTfm6Y2Y+XmHi/G6/Eel81o0xU2BJzKgXIyjgmIFnfcZO5lhRM7CqfLgRmJ+bq9VlPG7Dtk2Lb8pVDSJHUsw44Hp8D+tQIkgGOpJokcc+mrnllBZyCz7awoDCXMwFA1+xb9P+q903D9cabDk4lSeyYsedQBiUIo7aAGgFr/bs3o1OE/HjUAutn99GiAnItZn/9k="
+/>
 
 Ich selbst nehme mich dabei nicht aus. Ganz im Gegenteil. Wenn es um Partys in
 den 90ern und Anfang der 2000er, Mode und die Überfüllung diverser touristischer
@@ -92,13 +90,12 @@ Finde ich. Oder, was meint Ihr?
 
 ## Veränderungen können uns das Leben retten
 
-<RemoteImage
-  alt="veraenderungen"
-  size="medium"
-  title="Neues ist nicht gleich schlecht."
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABQADBgcI/8QAJxAAAgICAQEHBQAAAAAAAAAAAQIDBAARBTESEyEiQYGRBgcUFcH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwAEBf/EAB8RAAICAwACAwAAAAAAAAAAAAECAAMEERIFQSExgf/aAAwDAQACEQMRAD8A8sKNnFqfEW7CBq9aeQH1SJm38DC4uujnW/tpzV2+OWpW7ludV4if8ZGnfUbIF0VAOgQCfjK2Vc1CdgfU0vH49dzcuZzafjLSGZZKs4aHXeAxMCm+m/Dw98MkQo2iD75s9LlSlqd7NmU993YkPbYl/Ou9n18oPXCvqLkv2vK2LXZCiRywGOrZm3161FZdVdfPB3vf58kQxDphivC8haoXGatNJGzRtGSrEbVhog69CMsslihlIMDFYq6kH3D3J7TbP8zD1yywhE2Gf//Z" />
+<RemoteImage alt={`veraenderungen`} size="medium"
+title={`Neues ist nicht gleich schlecht.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABQADBgcI/8QAJxAAAgICAQEHBQAAAAAAAAAAAQIDBAARBTESEyEiQYGRBgcUFcH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwAEBf/EAB8RAAICAwACAwAAAAAAAAAAAAECAAMEERIFQSExgf/aAAwDAQACEQMRAD8A8sKNnFqfEW7CBq9aeQH1SJm38DC4uujnW/tpzV2+OWpW7ludV4if8ZGnfUbIF0VAOgQCfjK2Vc1CdgfU0vH49dzcuZzafjLSGZZKs4aHXeAxMCm+m/Dw98MkQo2iD75s9LlSlqd7NmU993YkPbYl/Ou9n18oPXCvqLkv2vK2LXZCiRywGOrZm3161FZdVdfPB3vf58kQxDphivC8haoXGatNJGzRtGSrEbVhog69CMsslihlIMDFYq6kH3D3J7TbP8zD1yywhE2Gf//Z"
+/>
 
 Es gibt durchaus ein paar Dinge, bei denen wir uns dringend beeilen sollten, von
 unserem hohen Ross runterzukommen. Klimaschutz zum Beispiel. Youtuber Rezo
@@ -157,13 +154,12 @@ aufräumen. Nein Leute, so nicht! Veränderung ist wichtig. Lebenswichtig sogar.
 
 ## Wir sollten uns mit Neuerungen auseinandersetzen
 
-<RemoteImage
-  alt="veraenderungen"
-  size="medium"
-  title="Eigentlich ganz gut, dass Computer weiterentwickelt wurden, oder?"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgADBAcF/8QAKhAAAgEDAwQABQUAAAAAAAAAAQIDBAURABIhEyIxQQYHMlFxI0JicpH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEBQH/xAAjEQACAgEDAwUAAAAAAAAAAAABAgARAyIxcQQh8BITUcHx/9oADAMBAAIRAxEAPwApW/B896p6Veg8aSdoR3UsJM9wwP7KBngaVv8AB1xpo+h02ZV7eoZ4V4wo+nd6wdLqeCRauk3RoxjliQfpfuLh39eeNcuvXykvoerKm0pG7ylJJKrHaWJHGzPg6nHqfcNM4UcX9iYmIFdKXtsf3eYrtb6i01ckbI3UDsjgY4wcjxnyGGrSS50SpeauFtjdMRKCA2DiMLxx/HVpOPNaAneoPJjpyB8mdBM1NQZrK2kIpo4JKncj7mwMej+Rjn7+NHLh8yrNJS4ppbjHMYiu4oCAx98HnHrxpPDXQGOoDNQsixhAqxnEg94BH+5xrVmprXvSMQ2YRmPcSaVQoP2PbnP441FCi9a35wZWV1C9jXnIghrnaLjBHWUyTksTHK79rO4wSTg8/UOTq16VwoaGppqdUe20qIzkRKvTIJxkkKMc41aehFd7gcgX1aZ//9k=" />
+<RemoteImage alt={`veraenderungen`} size="medium"
+title={`Eigentlich ganz gut, dass Computer weiterentwickelt wurden, oder?`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgADBAcF/8QAKhAAAgEDAwQABQUAAAAAAAAAAQIDBAURABIhEyIxQQYHMlFxI0JicpH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEBQH/xAAjEQACAgEDAwUAAAAAAAAAAAABAgARAyIxcQQh8BITUcHx/9oADAMBAAIRAxEAPwApW/B896p6Veg8aSdoR3UsJM9wwP7KBngaVv8AB1xpo+h02ZV7eoZ4V4wo+nd6wdLqeCRauk3RoxjliQfpfuLh39eeNcuvXykvoerKm0pG7ylJJKrHaWJHGzPg6nHqfcNM4UcX9iYmIFdKXtsf3eYrtb6i01ckbI3UDsjgY4wcjxnyGGrSS50SpeauFtjdMRKCA2DiMLxx/HVpOPNaAneoPJjpyB8mdBM1NQZrK2kIpo4JKncj7mwMej+Rjn7+NHLh8yrNJS4ppbjHMYiu4oCAx98HnHrxpPDXQGOoDNQsixhAqxnEg94BH+5xrVmprXvSMQ2YRmPcSaVQoP2PbnP441FCi9a35wZWV1C9jXnIghrnaLjBHWUyTksTHK79rO4wSTg8/UOTq16VwoaGppqdUe20qIzkRKvTIJxkkKMc41aehFd7gcgX1aZ//9k="
+/>
 
 Was hier als drastisches Beispiel genannt wird, gilt nicht nur für
 Politiker\*innen - wenn uns etwas nicht gefällt, sollten wir uns besser
@@ -208,13 +204,12 @@ Damit ist doch eigentlich alles gesagt, oder?
 
 ## Musik entwickelt sich fortwährend weiter
 
-<RemoteImage
-  alt="veraenderungen"
-  size="medium"
-  title="Forschung und Fortschritt bringen uns weiter."
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-3__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-3__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAgX/xAArEAACAgEDAgQFBQAAAAAAAAABAgMEEQAFEiExBhNBUQcUIiNhMlJxkbH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAdEQEAAgICAwAAAAAAAAAAAAABAAIDESExBBNx/9oADAMBAAIRAxEAPwBd3SV/B+3QmaxEdzMZMKQvzC8icFz2C9/5xga38MjvW7WL25XbjzV5ZFB+Zcs0icf1KvQLnpg+wOlnx1LFc21bt6KnbsMVqRxxyukgVW5cpQGOO/TBHc9OmqP8NPL2Z6lRp4FuyxpIoXkQAMBAoJOABjqe575J0rkK1AgYvG0q9xm3WGKa3Iy4IOP81M/EtQLuM3fibkAP9vqrTbhSu1pLFWRbuJxFJKWxwfmFckkemc/np76XvGO01aNO3NajjM3nwmF+R+4xfocZ9uWpcpY1F9Fqu/sjm77ntdajHLttWWzuzyLzikjPlpCPqAVQcM2SAc+h6aqexipE0O60XkbcrCpM0MsvJUIU/bHTIUE9B6aNGjanEYvbXc3USCrSnFZzwabzWQuSGkYIW/OS3p26a4/iKQvMxltvI8MsT/WRhBkgoD+0e2jRqnuYcm5//9k=" />
+<RemoteImage alt={`veraenderungen`} size="medium"
+title={`Forschung und Fortschritt bringen uns weiter.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-3__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-3__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAgX/xAArEAACAgEDAgQFBQAAAAAAAAABAgMEEQAFEiExBhNBUQcUIiNhMlJxkbH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAdEQEAAgICAwAAAAAAAAAAAAABAAIDESExBBNx/9oADAMBAAIRAxEAPwBd3SV/B+3QmaxEdzMZMKQvzC8icFz2C9/5xga38MjvW7WL25XbjzV5ZFB+Zcs0icf1KvQLnpg+wOlnx1LFc21bt6KnbsMVqRxxyukgVW5cpQGOO/TBHc9OmqP8NPL2Z6lRp4FuyxpIoXkQAMBAoJOABjqe575J0rkK1AgYvG0q9xm3WGKa3Iy4IOP81M/EtQLuM3fibkAP9vqrTbhSu1pLFWRbuJxFJKWxwfmFckkemc/np76XvGO01aNO3NajjM3nwmF+R+4xfocZ9uWpcpY1F9Fqu/sjm77ntdajHLttWWzuzyLzikjPlpCPqAVQcM2SAc+h6aqexipE0O60XkbcrCpM0MsvJUIU/bHTIUE9B6aNGjanEYvbXc3USCrSnFZzwabzWQuSGkYIW/OS3p26a4/iKQvMxltvI8MsT/WRhBkgoD+0e2jRqnuYcm5//9k="
+/>
 
 Musik befindet sich permanent im Fluss, sie verändert sich ständig weiter. Es
 ist ganz natürlich, dass da auch mal was dabei sein muss, das einem persönlich

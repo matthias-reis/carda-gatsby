@@ -22,6 +22,7 @@ labels:
   - Smoothiemaker
   - Smoothies
   - vegan
+  - vegane Rezepte
   - Vegane Rezepte
   - Veganer
   - whatvegansdrink
@@ -40,6 +41,9 @@ subTitle: After Workout Smoothie
   
 ---
 
+**Smoothie-Rezept gefällig? Das sollt Ihr bekommen, denn ich habe wieder ein
+sportliches Erfolgserlebnis zu verbuchen!**
+
 Ich bin heute nach langer Zeit endlich wieder angelaufen und es ging mir
 wirklich spitze dabei! Kein Seitenstechen, kein Zwicken und kein Zwacken. So
 kann es weitergehen. Rund 3 Kilometer waren es heute morgen, das nächste Mal
@@ -56,14 +60,19 @@ winterlichen Wetter im Hochsommer ist es derzeit etwas dunkel in der Wohnung.
 Aber ich denke, eine ungefähre Vorstellung bekommt man schon, in Wirklichkeit
 sieht er appetitlicher aus. :-P
 
-## Smoothie-Rezept **Zutaten (für 2 Personen)** - 1 Banane
+## Smoothie-Rezept
 
+**Zutaten (für 2 Personen)**
+
+- 1 Banane
 - 2 Äpfel
 - 2 Nektarinen
 - 1 Tasse gefrorene Sauerkirschen
 - 2 Tl. Acai-Pulver
 - 2 Tl. Weizengras
-- ca. 2 Gläser roter Saft **Zubereitung**
+- ca. 2 Gläser roter Saft
+
+**Zubereitung**
 
 Die Banane, die Äpfel und die Nektarinen schälen.
 
@@ -86,8 +95,9 @@ Lasst es Euch schmecken!
 
 Kussi Anne &lt;3
 
-## Wegweiser Smoothies1. [Heidelbeerliebe](/2014/09/smoothie-fuer-den-sommer-heidelbeerliebe/)
+## Wegweiser Smoothies
 
+1.  [Heidelbeerliebe](/2014/09/smoothie-fuer-den-sommer-heidelbeerliebe/)
 1.  Sonnenaufgang im Paradies
 1.  [Hanf Banane Himbeer Reigen](/2017/04/hanf-banane-himbeer-smoothie/)
 

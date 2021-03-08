@@ -9,15 +9,16 @@ excerpt: '"Istanbul mit anderen Augen" ist ein Filmprojekt der beiden
   Filmemacherinnen Carolin Winterholler und Marie Hartlieb.'
 focusKeyword: Istanbul
 labels:
+  - Antifaschismus & Feminismus
+  - Bücher & Filme
   - Demo
   - Erdogan
+  - Fernweh
   - Istanbul
   - Occupy
   - Occupy Gezi
   - occupygezi
-  - Politik & Soziales
   - Protest
-  - Reisen
   - Taksim
   - Türkei
 type: Artikel
@@ -32,21 +33,22 @@ thumbnailId: "5624"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_06_216296_632851216742650_445307902_n__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_06_216296_632851216742650_445307902_n__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBggF/8QAKhAAAgIBAwIFAwUAAAAAAAAAAQIDBBEABSEGEgcxQVGBExRxIiMyscH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/xAAeEQABAgcBAAAAAAAAAAAAAAAAAQMCERITMTJBIf/aAAwDAQACEQMRAD8Ac1jfenaNaSe89mGvEvdJM5UIg9yc8Dkak2992+eqlWKpYngXPJV+Pb8/5rLPiX1hdu9JLVkggryNYieT6J4YKSe08cjOD5+g0z6PWyWdpi3GCOyasoDs6IrhCR5MAcj5AGmicr7MNG6eFi3OvVZ2kb7qHn+AU4+M6jV1rRT9zQyOEbBWU/3jXEudWWTD9R44sAcmWr3HHwTqHV8S0hm7oht+Qcd32BGfTjGtuLIkg9En1wzCghDEESqQQfzrQ/UH7O47TJF+iR50jZl4LKV5Un2Pto0aFnA7uwufEdVrdTWErqIkkjUuqDtDHPqB56qNEk3UUnKnOR6eR0aNauSTU//Z
-subTitle: Filmprojekt von Carolin Winterholler und Marie Hartlieb
+subTitle: Ein Filmprojekt
   
 ---
+
+**Es begann alles damit, dass Caro uns eines Abends in unserer geselligen
+Damenrunde mitteilte, dass Sie nach Bremen gehen und Journalismus studieren
+würde.**
 
 Wir waren traurig, sie für lange Zeit nicht mehr sehen zu können und wünschten
 Ihr alles Glück der Welt und viel Erfolg. Und natürlich waren wir auch
 neugierig, was sie uns wohl erzählen würde.
 
-<RemoteImage
-  alt="Caro"
-  size="medium"
-  title="Caro"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/471968_3580270779112_1081736696_o-e1370449490146.jpg?w=490"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/471968_3580270779112_1081736696_o-e1370449490146.jpg?w=490"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Caro`} size="medium" title={`Caro`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/471968_3580270779112_1081736696_o-e1370449490146.jpg?w=490"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/471968_3580270779112_1081736696_o-e1370449490146.jpg?w=490"
+loadingUrl="undefined" />
 
 Danach habe ich Caro für längere Zeit aus den Augen verloren, wir hatten für
 etwa drei Jahre gar nichts mehr miteinander zu tun. Bis ich sie eines Tages in
@@ -96,13 +98,11 @@ geschichtsträchtigen, lärmenden Stadt am Bosporus.
 
 ## Ein kleines Stück Istanbul
 
-<RemoteImage
-  alt="Filmszene "
-  size="large"
-  title="Filmszene"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/216296_632851216742650_445307902_n.jpg?w=490"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/216296_632851216742650_445307902_n.jpg?w=490"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Filmszene`} size="large" title={`Filmszene`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_216296_632851216742650_445307902_n__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_216296_632851216742650_445307902_n__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBggF/8QAKhAAAgIBAwIFAwUAAAAAAAAAAQIDBBEABSEGEgcxQVGBExRxIiMyscH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/xAAeEQABAgcBAAAAAAAAAAAAAAAAAQMCERITMTJBIf/aAAwDAQACEQMRAD8Ac1jfenaNaSe89mGvEvdJM5UIg9yc8Dkak2992+eqlWKpYngXPJV+Pb8/5rLPiX1hdu9JLVkggryNYieT6J4YKSe08cjOD5+g0z6PWyWdpi3GCOyasoDs6IrhCR5MAcj5AGmicr7MNG6eFi3OvVZ2kb7qHn+AU4+M6jV1rRT9zQyOEbBWU/3jXEudWWTD9R44sAcmWr3HHwTqHV8S0hm7oht+Qcd32BGfTjGtuLIkg9En1wzCghDEESqQQfzrQ/UH7O47TJF+iR50jZl4LKV5Un2Pto0aFnA7uwufEdVrdTWErqIkkjUuqDtDHPqB56qNEk3UUnKnOR6eR0aNauSTU//Z"
+/>
 
 Als mich Caro letzten Sommer besuchte, brachte sie mir einen kleinen Teil dieser
 Stadt mit. Sie strahlte Istanbul aus. Und gleichzeitig war alles wie immer. Wie
@@ -146,13 +146,11 @@ mit ihnen zu pflegen. Özgür holten sie am Flughafen ab, um die ersten Momente
 auf Istanbuler Boden festzuhalten, Janina trafen sie, nachdem sie sich ca. eine
 Woche lang in Istanbul aufgehalten hatte und Joanna nach ungefähr einem Monat.
 
-<RemoteImage
-  alt="Friedenstaube über dem Bosporus Anne Reko 2010 "
-  size="medium"
-  title="[ ](//2010/01/09/mowen-am-bosporus/)  Friedenstaube über dem Bosporus Anne Reko 2010"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_0232.jpg?w=490"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_0232.jpg?w=490"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Friedenstaube über dem Bosporus`} size="medium"
+title={`[ ](//2010/01/09/mowen-am-bosporus/) Friedenstaube über dem Bosporus`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_0232.jpg?w=490"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_0232.jpg?w=490"
+loadingUrl="undefined" />
 
 Danach statteten sie den Dreien in regelmäßigen Abständen Besuche ab und nahmen
 an ihrem täglichen Leben teil. Der gesamte Zeitraum des Films umfasst eine
@@ -171,7 +169,9 @@ bereitsteht, gehört Ihr auf jeden Fall zu den Ersten, die das erfahren werden.
 Derzeit wird auch schon mit Hochdruck an einer Internetseite zum Projekt
 gebastelt. Wir dürfen also gespannt sein!
 
-## Über die beiden Filmemacherinnen:### Carolin Winterholler:
+## Über die beiden Filmemacherinnen:
+
+### Carolin Winterholler:
 
 Nach zwei Semestern Erasmus 2011 – 2013 war die Lust an Istanbul noch immer
 nicht erschöpft und das wird sie wohl auch sobald noch nicht sein. Momentan
@@ -193,18 +193,18 @@ derzeit noch im Aufbau, kann aber schon besucht werden.
 ## Hinweis zur aktuellen Lage in Istanbul und der Türkei
 
 <RemoteImage
-  alt="Das Bild stammt von einer der größten up to date fb/twitter Organisationen. Die zitrone ist steht als Symbol für das Gas, mit dem die Demonstranten vertrieben werden."
-  size="medium"
-  title="Das Bild stammt von einer der größten up to date Facebook/Twitter Organisationen. Die Zitrone steht als Symbol für das Gas, mit dem die Demonstranten vertrieben werden."
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/969752_593296170689248_1481661969_n.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/969752_593296170689248_1481661969_n.jpg"
-  loadingUrl="undefined" />
+alt={`Das Bild stammt von einer der größten up to date fb/twitter Organisationen. Die zitrone ist steht als Symbol für das Gas, mit dem die Demonstranten vertrieben werden.`}
+size="medium"
+title={`Das Bild stammt von einer der größten up to date Facebook/Twitter Organisationen. Die Zitrone steht als Symbol für das Gas, mit dem die Demonstranten vertrieben werden.`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/969752_593296170689248_1481661969_n.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/969752_593296170689248_1481661969_n.jpg"
+loadingUrl="undefined" />
 
 Ich arbeite schon länger an diesem Artikel zum Filmprojekt von Marie und Caro.
 Erst habe ich überlegt, ob ich ihn, ob der
 [aktuellen Situation in der Türkei](http://www.nytimes.com/2013/06/05/world/europe/istanbul-protests-started-over-trees.html?hp)
 vielleicht lieber verschieben sollte. Ich entschied mich, das Gegenteil zu tun.
-Mir ist es sehr wichtig, zu zeigen, um was für eine besondere Stadt es sich bei
+ Mir ist es sehr wichtig, zu zeigen, um was für eine besondere Stadt es sich bei
 Istanbul handelt.
 
 Derzeit gehen, was die aktuelle Lage betrifft, einige Fehlmeldungen durch die
@@ -226,13 +226,10 @@ Kanäle dermaßen aufgewühlt haben.
 
 ## Hier noch eine kleine Nachricht an Euch, die mir Marie gerade schickte:
 
-<RemoteImage
-  alt="Marie"
-  size="medium"
-  title="Marie"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/31012_496184753733724_1570779907_n.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/31012_496184753733724_1570779907_n.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Marie`} size="medium" title={`Marie`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/31012_496184753733724_1570779907_n.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/31012_496184753733724_1570779907_n.jpg"
+loadingUrl="undefined" />
 
 "Die Situation in Istanbul ist unglaublich ermüdend und motivierend zugleich. Es
 ist traurig, auf der einen Seite zu sehen, wie gewaltbereit die Polizei ist und
@@ -244,18 +241,27 @@ Istanbul, auf dem Taksimplatz ist sehr besonders, unreal, positiv. Die Leute
 wissen, dass sie Geschichte schreiben könnten. Ich hoffe, es bleibt friedlich
 und das Volk bleibt weiterhin Seite an Seite."
 
-## Hier noch einige Informationen von Marie, wo man am besten unabhängige Nachrichten lesen kann: [Alyazeera](http://www.aljazeera.com) [BBC](http://www.bbc.co.uk) [CCN International](http://edition.cnn.com) [Hier eine Facebook-Gruppe zum Thema](https://www.facebook.com/haltedurchturkei) [Hier Maries Favorit](https://www.facebook.com/geziparkidirenisi?fref=ts) ## <span style="color: #000000;">Fotostrecken findet Ihr</span> [hier](http://turkishpolicebrutality.tumblr.com) [und hier](http://occupygezipics.tumblr.com)
+## Hier noch einige Informationen von Marie, wo man am besten unabhängige Nachrichten lesen kann:
+
+[Alyazeera](http://www.aljazeera.com)  
+[BBC](http://www.bbc.co.uk)  
+[CCN International](http://edition.cnn.com)  
+[Hier eine Facebook-Gruppe zum Thema](https://www.facebook.com/haltedurchturkei)
+[Hier Maries Favorit](https://www.facebook.com/geziparkidirenisi?fref=ts)
+
+## <span style="color: #000000;">Fotostrecken findet Ihr </span>
+
+[hier](http://turkishpolicebrutality.tumblr.com)  
+[und hier](http://occupygezipics.tumblr.com)
 
 Für den Moment werde ich es bei diesem kurzen Anhang zu meinem Artikel belassen,
 aber ich könnt Euch sicher sein: Ich werde auf jeden Fall weiter berichten!
 
-<RemoteImage
-  alt="Istanbul mit andern Augen"
-  size="full"
-  title="[ ](http://istanbulchangingperspectives.wordpress.com)  [Istanbul mit andern Augen](http://istanbulchangingperspectives.wordpress.com)"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/cover_dvd.jpg"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/cover_dvd.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Istanbul mit andern Augen`} size="full"
+title={`[ ](http://istanbulchangingperspectives.wordpress.com) [Istanbul mit andern Augen](http://istanbulchangingperspectives.wordpress.com)`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/cover_dvd.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/06/cover_dvd.jpg"
+loadingUrl="undefined" />
 
 Merken
 

@@ -6,9 +6,9 @@ path: /2015/11/herzlich-willkommen-winter/
 fileName: 2015-11---herzlich-willkommen-winter.md
 description: Am Sonntag haben wir bei einem kleinen Spaziergang den Winter
   standesgemäß begrüßt. Hier sind meine Bilder.
-excerpt: Letzte Woche haben wir es endlich geschafft, der Hamburger Kunsthalle
-  einen Besuch abzustatten. Dabei sind ein paar Instagram-Bilder entstanden, die
-  ich Euch heute gerne zeigen möchte.
+excerpt: Letzte Woche haben wir es endlich geschafft, der Hamburger
+  Kunsthalle einen Besuch abzustatten. Dabei sind ein paar Instagram-Bilder
+  entstanden, die ich Euch heute gerne zeigen möchte.
 focusKeyword: Winter
 labels:
   - Ausflug
@@ -32,9 +32,13 @@ subTitle: Instagram-Galerie
   
 ---
 
+**Bei einem kleinen Spaziergang im Schneegestöber haben wir gestern die kalte
+Jahreszeit in Hamburg begrüßt. Natürlich sind dabei auch wieder ein paar
+Instagram-Bilder entstanden.**
+
 Zum krönenden Abschluss gab es hinterher natürlich Zimtkaffee und Lebkuchen. Das
-Beste bei dem Wetter sind nämlich die heißen Getränke, die schmecken dann noch
-viel besser! &lt;3
+Beste bei dem Wetter sind nämlich die heißen Getränke, die schmecken dann
+noch viel besser! &lt;3
 
 ## Der Winter in Bildern
 

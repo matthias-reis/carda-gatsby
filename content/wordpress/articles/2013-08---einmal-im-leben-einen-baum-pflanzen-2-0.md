@@ -12,20 +12,19 @@ labels:
   - Baum pflanzen
   - Baumpate werden
   - Baumpatenschaft
+  - Geschichten & Erlebtes
   - Greenpeace
   - Greenpeace unterstützen
   - Hochzeit
   - Klima & Umweltschutz
   - Patenschaft
-  - Tagebuch
 type: Artikel
 typeName: Artikel
 date: 2013-08-14T12:17:03.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "6837"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_08_foto__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_08_foto__l.jpg
@@ -34,18 +33,15 @@ subTitle: Wir werden Baumpaten!
   
 ---
 
+**Einige von Euch kennen das sicher: Frisch getraut läuft man in der Gegend
+herum und erhält allerlei Tipps, wie man die Ehe am besten am Leben erhält.
+Unter anderem soll man ja einen Baum pflanzen. Grundsätzlich ja ein schöner
+Gedanke.**
+
 Doch leider stellte sich nach mehrfachen verzweifelten, gescheiterten
 Buddelversuchen im Gleiskörper der Tram und im Asphalt der vor unserem Haus
 befindlichen Straße heraus, dass das mitten in der Stadt leider nicht
 durchführbar ist.
-
-<RemoteImage
-  alt="Anne und der Herzmann werden jetzt Baumpaten"
-  size="medium"
-  title="Anne und der Herzmann werden jetzt Baumpaten"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/08/foto.jpg?w=300"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/08/foto.jpg?w=300"
-  loadingUrl="undefined" />
 
 Nun las ich schon vor einiger Zeit in meinem monatlichen Greenpeace-Magazin,
 dass die Möglichkeit besteht, eine Baumpatenschaft abzuschließen und damit auch
@@ -82,7 +78,5 @@ Das steht auf der Greenpeace-Seite. Außerdem wird man auch noch namentlich auf
 der Baumkarte von Greenpeace erwähnt. Noch stehen unsere Namen nicht drauf, da
 ich die Patenschaft heute erst beantragt habe, aber ich werde Euch auf dem
 Laufenden halten. Ich bin schon sehr gespannt und freue mich!
-
-_Lieber Herzmann, die Überraschung ist mir gelungen, oder? &lt;3_
 
   

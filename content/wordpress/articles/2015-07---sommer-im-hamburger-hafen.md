@@ -40,6 +40,10 @@ subTitle: Sonne und Möwen
   
 ---
 
+**Samstag - Die Sonne scheint bei gemütlichen 25 Grad, die Möwen kreischen, die
+Elbphilharmonie ist endlich ihre Kräne losgeworden, lieber Besuch von der
+Familie.**
+
 Höchste Zeit, endlich mal so richtig mit dem Hamburger Hafen und Hamburg im
 Allgemeinen anzugeben und mal wieder eine große Hafenrundfahrt zu machen.
 

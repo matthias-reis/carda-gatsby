@@ -11,10 +11,10 @@ excerpt: Die "Magic Candy Factory" von Katjes bietet die Möglichkeit, veganes
 focusKeyword: veganes Fruchtgummi
 labels:
   - 3D-Drucker
+  - Ernährung & Gesundheit
   - Katjes
   - Süßigkeiten
   - vegane Gummibärchen
-  - Vegane Produkte
   - vegane Süßigkeiten
   - veganes Weingummi
 type: Artikel

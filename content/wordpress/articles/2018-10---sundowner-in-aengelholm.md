@@ -12,8 +12,8 @@ excerpt: Fotostrecke - Einen perfekten Abschluss fand unsere Reise durch
 focusKeyword: Ängelholm
 labels:
   - Ängelholm
+  - Fernweh
   - Ostsee
-  - Reisen
   - Schweden
   - Schweden2018
   - Skandinavien

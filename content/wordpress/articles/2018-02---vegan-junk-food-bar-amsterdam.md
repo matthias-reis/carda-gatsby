@@ -14,12 +14,13 @@ labels:
   - Amsterdam vegan
   - Amsterdam2018
   - Bürger
-  - Reisen
+  - Fernweh
   - vegan
   - vegan in Amsterdam
   - Vegan Junk Food Bar
   - vegane Burger
   - Vegane Lokale
+  - vegane Lokale
 type: Artikel
 typeName: Artikel
 date: 2018-02-25T14:55:18.000Z
@@ -39,13 +40,11 @@ subTitle: Kreative vegane Burger und mehr
 meines Lebens gegessen. Und ich habe ihn aufgegessen! Er war einfach zu lecker,
 um etwas liegen zu lassen.**
 
-<RemoteImage
-  alt="Vegan Junk Food Bar"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38472303600_7b58c24771_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38472303600_7b58c24771_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgADAQX/xAAoEAACAgIBBAAFBQAAAAAAAAABAgMEBRESAAYhMSJBQmFxExQVJFH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBgED/8QAJxEAAQIFAgUFAAAAAAAAAAAAAgEDABESIVEEQQUTIpGxMXHB0fD/2gAMAwEAAhEDEQA/ADnbGMyeNwuRlkw9ShXnmSSOW0eLJ8gqKpJAK7J2QN76N5LtSvZj4U86iESSTkFhwjHlmGx+TrfSe33suboXKtyoREzMkUSQsYwSvwOJfmw+InegNDrxIMBlv2rSyLWNAxmYtKBuI65H4fq8fSPHn31LK66y4rhEgKu2e84pABowppqTOO0oys08N/BXI8dVvvNXXkJjY46bWhzblx19tdDKeYuYme0JImjsNG0MiSggkEg+Pxr30swqV8jm7T46ik1oSCQTtZaNQDrXFSCBr3ryfGx611zvrHX62LWpdWjXx8BT9R0jkkZOTAlo2YabydHR37HTtC8IO8hxaqpLdb9r/EF1A1DzQFBRMJ6+Iy7Z7nnqR4+1FdtJFyZGgj4M8cY9qN+GUtrQb/D+Szkyadx2aqYubINMbSNJOtdUFcMACJByIIKk+vRGvHV1dB4tpWwrfFOoZ4zK/wC94bonFURDZfqJ2GDm/oXRSS7MxmaWEclcAgFdrtkJA8fLfvz0X78uY3NYa1aqcxJSkCAvYVUkbZ5usPnkCSQTvej9urq658JYEnBeVeqaed82tGax1aTb2j//2Q==" />
+<RemoteImage alt={`Vegan Junk Food Bar`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38472303600_7b58c24771_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38472303600_7b58c24771_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgADAQX/xAAoEAACAgIBBAAFBQAAAAAAAAABAgMEBRESAAYhMSJBQmFxExQVJFH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBgED/8QAJxEAAQIFAgUFAAAAAAAAAAAAAgEDABESIVEEQQUTIpGxMXHB0fD/2gAMAwEAAhEDEQA/ADnbGMyeNwuRlkw9ShXnmSSOW0eLJ8gqKpJAK7J2QN76N5LtSvZj4U86iESSTkFhwjHlmGx+TrfSe33suboXKtyoREzMkUSQsYwSvwOJfmw+InegNDrxIMBlv2rSyLWNAxmYtKBuI65H4fq8fSPHn31LK66y4rhEgKu2e84pABowppqTOO0oys08N/BXI8dVvvNXXkJjY46bWhzblx19tdDKeYuYme0JImjsNG0MiSggkEg+Pxr30swqV8jm7T46ik1oSCQTtZaNQDrXFSCBr3ryfGx611zvrHX62LWpdWjXx8BT9R0jkkZOTAlo2YabydHR37HTtC8IO8hxaqpLdb9r/EF1A1DzQFBRMJ6+Iy7Z7nnqR4+1FdtJFyZGgj4M8cY9qN+GUtrQb/D+Szkyadx2aqYubINMbSNJOtdUFcMACJByIIKk+vRGvHV1dB4tpWwrfFOoZ4zK/wC94bonFURDZfqJ2GDm/oXRSS7MxmaWEclcAgFdrtkJA8fLfvz0X78uY3NYa1aqcxJSkCAvYVUkbZ5usPnkCSQTvej9urq658JYEnBeVeqaed82tGax1aTb2j//2Q=="
+/>
 
 Die Speisekarte ist, wie der Name schon vermuten lässt, komplett vegan. Es gibt
 einfach für jeden Geschmack einen Burger und auch sonst noch jede Menge

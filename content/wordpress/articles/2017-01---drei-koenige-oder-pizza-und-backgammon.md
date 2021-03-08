@@ -11,19 +11,18 @@ excerpt: Drei Könige gingen über die Straße in eine Bar und spielten zusammen
   Backgammon. Es kam ein Sturm auf und so mussten sie austrinken und gehen...
 focusKeyword: Drei Könige
 labels:
-  - "&lt;3"
   - Altona
   - Backgammon
   - Docks
   - Drei Könige
   - Familie
   - Frieden
+  - Geschichten & Erlebtes
   - Hamburg
   - Liebe
   - Märchen
-  - Prosa
 type: Artikel
-typeName: Artikel
+typeName: Gedicht
 date: 2017-01-06T10:59:26.000Z
 status: publish
 isWerbung: false

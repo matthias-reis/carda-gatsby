@@ -12,15 +12,16 @@ excerpt: Werbung - In Rotterdam gibt es eine Firma, die aus aussortierten
   hergestellt werden.
 focusKeyword: Leder aus aussortierten Früchten
 labels:
+  - Fair Fashion & Beauty
   - fake leather
   - Fruchtleder
   - Fruitleather
   - Fruitleather Rotterdam
+  - Klima & Umweltschutz
   - Leder
   - Leder aus aussortierten Früchten
   - Leder aus Früchten
   - Rotterdam
-  - Vegane Produkte
   - veganes Leder
 type: Artikel
 typeName: Artikel

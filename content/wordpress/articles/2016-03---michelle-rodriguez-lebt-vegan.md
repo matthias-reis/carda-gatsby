@@ -12,9 +12,11 @@ excerpt: Der weibliche Star der Filmreihe "Fast and Furious" Michelle Rodriguez
   Auslöser.
 focusKeyword: Michelle Rodriguez
 labels:
-  - Darum vegan
-  - Gesellschaft
+  - Ernährung
+  - Ernährung & Gesundheit
   - Michelle Rodriguez
+  - vegan celebrities
+  - vegane Ernährung
   - vegane Stars
 type: Artikel
 typeName: Artikel

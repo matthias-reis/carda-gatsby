@@ -15,6 +15,7 @@ labels:
   - kochen Rezepte
   - Rohkost
   - Rohvegan
+  - Salat
   - vegan
   - vegane Rezepte
   - Vegane Rezepte
@@ -24,8 +25,7 @@ date: 2018-08-31T09:11:40.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "21912"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_harvest-3611940_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_harvest-3611940_640__l.jpg
@@ -49,13 +49,11 @@ Kohl, Kürbissen und
 [Trockenfrüchten](https://www.keimling.de/trockenfruechte-nuesse.html?acc=598b3e71ec378bd83e0a727608b5db01&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm)
 steht kurz bevor.
 
-<RemoteImage
-  alt="Rohveganes"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_27956500381_6a15ebdb9d_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_27956500381_6a15ebdb9d_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgFBv/EACsQAAIBAgUDAwMFAAAAAAAAAAECAwQRAAUGEiEiMUEHE1EjMqEIFEJxgf/EABcBAQEBAQAAAAAAAAAAAAAAAAUDAQL/xAAeEQACAgMAAwEAAAAAAAAAAAABAgADBAUREhMhMf/aAAwDAQACEQMRAD8ApHTmQ5dp3JKPKcnpkpqGlQRxxr+SflibknuSSccfr3XWmsiWSOpzGneoSQRPHEwdkbzuA7W8/GNL1a1FPpnRtRUUMTS1tUwo4LPt2O4PXcc8C/bzbsLnEhQwmllkmkp3WeoiLOxtE6sQFLbQSdzEEi7C/BPBubJrUzOvZOfeamHjFmbW+VZrWyQ0s6uVIDD4vyO+NBaQzoHjuQe1sCc8UjozLVMzwvuiaWzfTG02WSwPAb7SRYgA/GHj0gkbOdPxrNuNVAqrKGB5vfY4PkMBf+wcEbLSjHT21noiWLsCx8HHDEX1f0sdVaOlipo42zCkdaqmLqD1KQSOQe63/wBtiVKlFXL3p092CoW7AbtytZRv3uyngHbtUMbM9rC+LfVx8jBjr/0notQVBrMpmioahmX3ISu2CQXG4kL/ACNgb274exLxWSrn5C3U/okv10hjqZwzMViqDFGQ1ksjAbT1DquTz03vcdyMMX6ZcvzEakzypKTx5UsAhPvR23S79ygEGw2gsbc/f47Y06X0HkesK5nnMf7SI2WWli+tMhFureWCsLKQ3P4GGPTuRZdpzKYsuymFYKdDuax5kc/c7HyT3OKZeRXYhQfezK0Kns//2Q==" />
+<RemoteImage alt={`Rohveganes`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_27956500381_6a15ebdb9d_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_27956500381_6a15ebdb9d_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgFBv/EACsQAAIBAgUDAwMFAAAAAAAAAAECAwQRAAUGEiEiMUEHE1EjMqEIFEJxgf/EABcBAQEBAQAAAAAAAAAAAAAAAAUDAQL/xAAeEQACAgMAAwEAAAAAAAAAAAABAgADBAUREhMhMf/aAAwDAQACEQMRAD8ApHTmQ5dp3JKPKcnpkpqGlQRxxr+SflibknuSSccfr3XWmsiWSOpzGneoSQRPHEwdkbzuA7W8/GNL1a1FPpnRtRUUMTS1tUwo4LPt2O4PXcc8C/bzbsLnEhQwmllkmkp3WeoiLOxtE6sQFLbQSdzEEi7C/BPBubJrUzOvZOfeamHjFmbW+VZrWyQ0s6uVIDD4vyO+NBaQzoHjuQe1sCc8UjozLVMzwvuiaWzfTG02WSwPAb7SRYgA/GHj0gkbOdPxrNuNVAqrKGB5vfY4PkMBf+wcEbLSjHT21noiWLsCx8HHDEX1f0sdVaOlipo42zCkdaqmLqD1KQSOQe63/wBtiVKlFXL3p092CoW7AbtytZRv3uyngHbtUMbM9rC+LfVx8jBjr/0notQVBrMpmioahmX3ISu2CQXG4kL/ACNgb274exLxWSrn5C3U/okv10hjqZwzMViqDFGQ1ksjAbT1DquTz03vcdyMMX6ZcvzEakzypKTx5UsAhPvR23S79ygEGw2gsbc/f47Y06X0HkesK5nnMf7SI2WWli+tMhFureWCsLKQ3P4GGPTuRZdpzKYsuymFYKdDuax5kc/c7HyT3OKZeRXYhQfezK0Kns//2Q=="
+/>
 
 .
 
@@ -98,13 +96,11 @@ schon die Grundlage für einen schmackhaften Quiche-Teig:
 
 ### Zubereitung
 
-<RemoteImage
-  alt="Rohveganes"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_14660340635_232b34323b_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_14660340635_232b34323b_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgEBQYB/8QALhAAAQQBAgMHAwUBAAAAAAAAAQIDBBEFABIGEyEHFCIxQWFxCCNRFSSRocHw/8QAFwEBAQEBAAAAAAAAAAAAAAAABAUCA//EACYRAAEDAgUDBQAAAAAAAAAAAAEAAgMRIQQSEzFxYYGhIjJBscH/2gAMAwEAAhEDEQA/AD1P4vfiRG3/ANMDlqSHAHyAgHpd7KNGv+Guu8Y8l9DLsRgPLVywlMsKtVbtvRPnQJr2P41juJcxPfwHeUQZc2E7RRFxgSSop9CtRArpXT49tBLE8ROscaw5uU7wcj31KFwL8YKfDtqjuITVmxfUjodR3YuUtJabjjbi/aq0JGhwAAIPNvKY/Lcey4SLjYFcxwi0ttSDuV8AIN6yuT7bH8ZMYhzsJi2Z7qlIMRWdRzWlAXtcpvagkHoFKF+Q0GO2ftKd4gz3c8XNexePaaLMlbT5aDwXR8QTZIAHlV3uHTQsZlyDFUtpUh+K0kJKXE70kJH2wsGq8vgDScNJI6MPlJqeBRd3hryMgAHc187Io59/JNxXHIGYnJcftx5CArod1KH2+jd+l1dfgapm87KkxYuOnF951bzSnGy0X1rCSCE7UjcT0rpRI0xc7saelpEc8TyGMduKlxI8blpWfchdn39ffVfjOwuTisxFyOK4oRCkMFRHJxxT5+g+70FdPgnRYcC95GqKdbfiFBGA8ZhQfSVniPH7pq5U9gRJErmOJbbY5SWXAoBLPLIBFet+nx1lQHlN462sczvkWwqfayG7ULJI8NVRv0/rR+yf02S8nIlvS+On3DJVvcCsdu3Kskk27Z8/n31DP0qsNgCJxlMZsUv9mPF/Dg/3VJ8ANhsEkP0/T7uu1vhf/9k=" />
+<RemoteImage alt={`Rohveganes`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_14660340635_232b34323b_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_14660340635_232b34323b_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgEBQYB/8QALhAAAQQBAgMHAwUBAAAAAAAAAQIDBBEFABIGEyEHFCIxQWFxCCNRFSSRocHw/8QAFwEBAQEBAAAAAAAAAAAAAAAABAUCA//EACYRAAEDAgUDBQAAAAAAAAAAAAEAAgMRIQQSEzFxYYGhIjJBscH/2gAMAwEAAhEDEQA/AD1P4vfiRG3/ANMDlqSHAHyAgHpd7KNGv+Guu8Y8l9DLsRgPLVywlMsKtVbtvRPnQJr2P41juJcxPfwHeUQZc2E7RRFxgSSop9CtRArpXT49tBLE8ROscaw5uU7wcj31KFwL8YKfDtqjuITVmxfUjodR3YuUtJabjjbi/aq0JGhwAAIPNvKY/Lcey4SLjYFcxwi0ttSDuV8AIN6yuT7bH8ZMYhzsJi2Z7qlIMRWdRzWlAXtcpvagkHoFKF+Q0GO2ftKd4gz3c8XNexePaaLMlbT5aDwXR8QTZIAHlV3uHTQsZlyDFUtpUh+K0kJKXE70kJH2wsGq8vgDScNJI6MPlJqeBRd3hryMgAHc187Io59/JNxXHIGYnJcftx5CArod1KH2+jd+l1dfgapm87KkxYuOnF951bzSnGy0X1rCSCE7UjcT0rpRI0xc7saelpEc8TyGMduKlxI8blpWfchdn39ffVfjOwuTisxFyOK4oRCkMFRHJxxT5+g+70FdPgnRYcC95GqKdbfiFBGA8ZhQfSVniPH7pq5U9gRJErmOJbbY5SWXAoBLPLIBFet+nx1lQHlN462sczvkWwqfayG7ULJI8NVRv0/rR+yf02S8nIlvS+On3DJVvcCsdu3Kskk27Z8/n31DP0qsNgCJxlMZsUv9mPF/Dg/3VJ8ANhsEkP0/T7uu1vhf/9k="
+/>
 
 bei 40 Grad rund sechs Stunden lang trocknen lassen.
 
@@ -164,13 +160,11 @@ Als Nachtisch gibt es dann einen schmackhaften Obstsalat
 
 ### Zubereitung
 
-<RemoteImage
-  alt="Rohveganes"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_14417306289_474ba0459b_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_14417306289_474ba0459b_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFA//EACsQAAEDAwMEAQMFAQAAAAAAAAECAwQFESEABhIHEzFRIhRBcQgzUmGhwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQH/xAAdEQACAgMAAwAAAAAAAAAAAAABAgARAxIxIUGx/9oADAMBAAIRAxEAPwDb3fvsbVqAZfu53DZpPKxUfWdYiOtLrj0iPDiRVSGGS+rnL+C0i3xTYXK8+PQJ0G6iSFV5UuentuzHHhG+jcThhu/AKv8AyKjm3jHvQ6JT4dO3NHi1GFHdbhK5THFLUWl4sgqHniFWJ/3VpkIIBElqQR2XKP1mNSYtCjPh1P7x4KWhgfdSlAW4j3gaW9G98Sq3vORS5rgmNdpTjD7SeKbptckesix9nUIZ3jG2xLkU2nwYzy6jHQzISy32GHHUrISrjbwQoiwAH5uTq7fpjo9O25FqdMkuQFbkUruupZcDjiGQEjiogWSAsn4/jQZtVxMKs/IWMFsgN+JCutlMMLfNfaajSXg4BKTwXZDRIybX8ggnHvXI0pyXsNiproMV12C4l2TMefIelBJCnc3u4kpIFrDj9rm+q/1w6eVafvAVuLTHajTnGUIcjMtqdKlhViVJTm3EnI/5oG30v327t2fSI9BW1SfqS8yp5zg4hsnKEi9zg4BBznRKyFdieiYdgda5MLqJXZ1YqFOlSQwuHIZTHQnkjuNocWhaSsg2TYEAZuDnGrL00rTrW5mKdSYRClLHfJ4KU0C5kFSbkpKQbknym+hm4dkPyafERRNnzEllC2ldiOTxWEgtq+RslQUCOX3B/rKrok1Utu7sYh/QvJdnNtpqJVHIstKVqUoq8DJGBg3/ABp2StH4YlL2X1P/2Q==" />
+<RemoteImage alt={`Rohveganes`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_14417306289_474ba0459b_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_14417306289_474ba0459b_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFA//EACsQAAEDAwMEAQMFAQAAAAAAAAECAwQFESEABhIHEzFRIhRBcQgzUmGhwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQH/xAAdEQACAgMAAwAAAAAAAAAAAAABAgARAxIxIUGx/9oADAMBAAIRAxEAPwDb3fvsbVqAZfu53DZpPKxUfWdYiOtLrj0iPDiRVSGGS+rnL+C0i3xTYXK8+PQJ0G6iSFV5UuentuzHHhG+jcThhu/AKv8AyKjm3jHvQ6JT4dO3NHi1GFHdbhK5THFLUWl4sgqHniFWJ/3VpkIIBElqQR2XKP1mNSYtCjPh1P7x4KWhgfdSlAW4j3gaW9G98Sq3vORS5rgmNdpTjD7SeKbptckesix9nUIZ3jG2xLkU2nwYzy6jHQzISy32GHHUrISrjbwQoiwAH5uTq7fpjo9O25FqdMkuQFbkUruupZcDjiGQEjiogWSAsn4/jQZtVxMKs/IWMFsgN+JCutlMMLfNfaajSXg4BKTwXZDRIybX8ggnHvXI0pyXsNiproMV12C4l2TMefIelBJCnc3u4kpIFrDj9rm+q/1w6eVafvAVuLTHajTnGUIcjMtqdKlhViVJTm3EnI/5oG30v327t2fSI9BW1SfqS8yp5zg4hsnKEi9zg4BBznRKyFdieiYdgda5MLqJXZ1YqFOlSQwuHIZTHQnkjuNocWhaSsg2TYEAZuDnGrL00rTrW5mKdSYRClLHfJ4KU0C5kFSbkpKQbknym+hm4dkPyafERRNnzEllC2ldiOTxWEgtq+RslQUCOX3B/rKrok1Utu7sYh/QvJdnNtpqJVHIstKVqUoq8DJGBg3/ABp2StH4YlL2X1P/2Q=="
+/>
 
 Den Apfel in feine Stückchen scheiden und sofort mit dem Saft der halben Zitrone
 übergießen. Die Brombeeren, die Heidelbeeren und die Kürbiskerne hinzugeben und
@@ -187,16 +181,6 @@ können so besser erhalten und dem Körper in größerer Menge zugeführt werden
 
 Lust auf was Warmes? Hier findet Ihr ein
 [tolles Rezept für eine herbstliche Zucchinisuppe](/2015/09/zucchinisuppe-herbstlich-vegan/).
-
-<RemoteImage
-  alt="null"
-  size="medium"
-  title=""
-  mediumUrl="//www.keimling.de/js/magestore/affiliateplus/banner.php?id=167&amp;account_id=502&amp;store_id=1"
-  largeUrl="//www.keimling.de/js/magestore/affiliateplus/banner.php?id=167&amp;account_id=502&amp;store_id=1"
-  loadingUrl="undefined" />
-
-[](https://www.keimling.de/catalogsearch/result/?q=Vitamix&acc=598b3e71ec378bd83e0a727608b5db01&bannerid=167&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm)
 
 - _Hinweis: Dieser Beitrag enthält Werbung, eine Anzeige und Affiliate Links.
   Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema

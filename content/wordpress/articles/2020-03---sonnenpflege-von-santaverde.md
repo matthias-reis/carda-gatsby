@@ -10,13 +10,12 @@ excerpt: Werbung - Von Santaverde gibt es jetzt auch Sonnenpflege. Ich habe sie
   schon mal getestet. Unter etwas anderen Umständen, als zuerst geplant.
 focusKeyword: Santaverde
 labels:
-  - Mode & Beauty
+  - Fair Fashion & Beauty
   - Santaverde
   - Sonnenschutz
   - SPF
   - SPF 15
   - SPF 25
-  - Vegane Produkte
   - vegane Sonnencreme
   - vegane Sonnenpflege
   - veganer Sonnenschutz

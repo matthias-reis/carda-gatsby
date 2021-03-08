@@ -18,6 +18,8 @@ labels:
   - Apfelschorle
   - Cranberry
   - Cranberrysaft
+  - Ernährung
+  - Ernährung & Gesundheit
   - Glasflaschen
   - Grapefruit
   - Grapefruitsaft
@@ -38,8 +40,8 @@ labels:
   - Saft
   - Säfte
   - Schorle
+  - vegane Ernährung
   - vegane Getränke
-  - Vegane Produkte
   - vegane Säfte
 type: Artikel
 typeName: Produkttest
@@ -73,13 +75,11 @@ Produkten für unsere Etiketten!"
 
 ## "Möchtest Du vegane Säfte testen?"
 
-<RemoteImage
-  alt="Vegane Säfte"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40140781455_40682275ba_z-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40140781455_40682275ba_z-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBQYH/8QAKhAAAgEDAwQBAgcAAAAAAAAAAQIDBAURACExEhMiUQYHFCNBYXGBscH/xAAYAQACAwAAAAAAAAAAAAAAAAAABAIDBf/EAB8RAAICAgEFAAAAAAAAAAAAAAECABEDIUEEEjGh8P/aAAwDAQACEQMRAD8A5BaLKa2tpIX2EsyR59AsB/utP85oLRYfkTSzQv8AbdmVe2gQkP5hNsY4xn9c6X8NlqGudmrEhAgarjCSORhiGGdjzjUfqW9TdL2qP0LG0MxwrKCelyMknbjG3OkM2aupRAeD96jOHC1WV3qpn0msb1NREwmAq5Wan/DXxUpIFz68sDbbVdJbekBgNLt8SQ3hjNK6pBVEZ7qjpAA24/r3q4q6pYAEmjaN8A9LqQcH99aCmxKciFTREzkNxrI6SCniqZI4Yn7iBMAq2c5BxnnTrtdKyuqUqKmqnMqgqrRv0YBOTx70aNQKKT3EbgXY1vxE2u6NbErmVO88mJGaVurOM85HvB/jVxdrzWXSyNJWytKuEKoceD4z1A/kNyMcb6NGihcMjllUHif/2Q==" />
+<RemoteImage alt={`Vegane Säfte`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40140781455_40682275ba_z-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40140781455_40682275ba_z-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBQYH/8QAKhAAAgEDAwQBAgcAAAAAAAAAAQIDBAURACExEhMiUQYHFCNBYXGBscH/xAAYAQACAwAAAAAAAAAAAAAAAAAABAIDBf/EAB8RAAICAgEFAAAAAAAAAAAAAAECABEDIUEEEjGh8P/aAAwDAQACEQMRAD8A5BaLKa2tpIX2EsyR59AsB/utP85oLRYfkTSzQv8AbdmVe2gQkP5hNsY4xn9c6X8NlqGudmrEhAgarjCSORhiGGdjzjUfqW9TdL2qP0LG0MxwrKCelyMknbjG3OkM2aupRAeD96jOHC1WV3qpn0msb1NREwmAq5Wan/DXxUpIFz68sDbbVdJbekBgNLt8SQ3hjNK6pBVEZ7qjpAA24/r3q4q6pYAEmjaN8A9LqQcH99aCmxKciFTREzkNxrI6SCniqZI4Yn7iBMAq2c5BxnnTrtdKyuqUqKmqnMqgqrRv0YBOTx70aNQKKT3EbgXY1vxE2u6NbErmVO88mJGaVurOM85HvB/jVxdrzWXSyNJWytKuEKoceD4z1A/kNyMcb6NGihcMjllUHif/2Q=="
+/>
 
 Im Anschluss wurde mir die Frage gestellt, ob ich nicht Lust hätte, die neuen
 Säfte und Schorlen aus dem Hause Klindworth zu testen. Weil ich ein großer Fan
@@ -97,13 +97,11 @@ auf den Prüfstand.
 
 ## Pampelmuse, Holunder und Cranberry
 
-<RemoteImage
-  alt="Vegane Säfte"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39225161640_ab3ca6060d_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39225161640_ab3ca6060d_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAQQI/8QAJxAAAgEDAwQCAgMAAAAAAAAAAQIDAAQRBQYhEiIxQRNRccEyYaH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAAMF/8QAIREAAQQCAAcAAAAAAAAAAAAAAQACAxEEIQUSMUGBseH/2gAMAwEAAhEDEQA/AOd7a36yOOKIpaoq4YDLdo/smsWagKKI6fG1xrOnQx4yZ1Pd4wDk/wCA1ONAlQFpt3tty2t9GjCXrzz2fayt5OSM5/FTK8tvjzxxV03EjXmlXaI6NLJG3LNnJxn9VHb4BoyfsZoWA4lhBPf2tJG0Vt6Fouo6jbCa3hX4j/Eu/T1fijKbV1a1vrC6mSEQpMrOyyE9Az748euKFba3iLJrGKUtEsSdJJHbnAA/dOOqbssY9PknaSL5XiEWFbq6h6wufPPmudlZea2TkDRR6a+pkMMDm2TtHN0xT3WjXUYa3RXiIUgeOPscmoveXYZTg+eadL3elm2ltCskbN0FQEhfPjHvipfJLIwAPoUzhsc0bXCbwhyEE6X/2Q==" />
+<RemoteImage alt={`Vegane Säfte`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39225161640_ab3ca6060d_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39225161640_ab3ca6060d_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAQQI/8QAJxAAAgEDAwQCAgMAAAAAAAAAAQIDAAQRBQYhEiIxQRNRccEyYaH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAAMF/8QAIREAAQQCAAcAAAAAAAAAAAAAAQACAxEEIQUSMUGBseH/2gAMAwEAAhEDEQA/AOd7a36yOOKIpaoq4YDLdo/smsWagKKI6fG1xrOnQx4yZ1Pd4wDk/wCA1ONAlQFpt3tty2t9GjCXrzz2fayt5OSM5/FTK8tvjzxxV03EjXmlXaI6NLJG3LNnJxn9VHb4BoyfsZoWA4lhBPf2tJG0Vt6Fouo6jbCa3hX4j/Eu/T1fijKbV1a1vrC6mSEQpMrOyyE9Az748euKFba3iLJrGKUtEsSdJJHbnAA/dOOqbssY9PknaSL5XiEWFbq6h6wufPPmudlZea2TkDRR6a+pkMMDm2TtHN0xT3WjXUYa3RXiIUgeOPscmoveXYZTg+eadL3elm2ltCskbN0FQEhfPjHvipfJLIwAPoUzhsc0bXCbwhyEE6X/2Q=="
+/>
 
 Den Pampelmusensaft haben wir als Schorle genossen. Besonders jetzt in der
 Übergangszeit, in der die Südfrüchte nicht mehr wirklich viel Geschmack haben,
@@ -125,13 +123,11 @@ davon pur schmecken.
 
 ## Traube-Maracuja, Apfel und Rhabarber
 
-<RemoteImage
-  alt="Vegane Säfte"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39225194090_cd5c0ee236_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39225194090_cd5c0ee236_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUEBv/EACwQAAEDAgQEBgIDAAAAAAAAAAECAwQFEQAGEiEHEyIxFEFRYXGRI4EyQqH/xAAYAQACAwAAAAAAAAAAAAAAAAACBAABA//EACARAAICAgICAwAAAAAAAAAAAAECAwQAEQUxEiFBkbH/2gAMAwEAAhEDEQA/ACtxk2CtJ0qNgq2xI7i/7H3ihFy1UZEiGW2khL0cT0r5gGlkOBJV8gkbdzcWxqp+qfRKtTkAreaSKhFSPNaOlxA91IN/lsYQYrSIqXwVoS41Bp1Oj33ClJHPd/3QL+uAszCGNnPwMuGLzIGH3FOhromYm4zk52cVMBwOulRIutXT1Emw+ccI+33wncVnJFQdh1GStkltPhiGwRtuQdyfQ4NniMLcXYazVWRzs+9/eFYQRyFR1l/Kc95OY4nhiOaVJSAeyupIIPsQSP3hmr0Z01GltU4R1OPuTJX5iUpupISNwDYpSEgbeWBHJqG4WbKXMmcwxGXw45y06lWG/bz3thPrecKSjMdGmMLlmPGRIbcDrSm/5JTpUVH3SfvE5NGau4QbOj+ZpXKgaY9nIfE+FJhZYgO1JqGJ4k8tTkcqVqToVbcgenb1wUuPe+EXitmyFW6TGjQPyLTIDhs6HNtJHl274Llc1X9FfWF+EDrVAkGjs4FgKH0nWf/Z" />
+<RemoteImage alt={`Vegane Säfte`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39225194090_cd5c0ee236_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39225194090_cd5c0ee236_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUEBv/EACwQAAEDAgQEBgIDAAAAAAAAAAECAwQFEQAGEiEHEyIxFEFRYXGRI4EyQqH/xAAYAQACAwAAAAAAAAAAAAAAAAACBAABA//EACARAAICAgICAwAAAAAAAAAAAAECAwQAEQUxEiFBkbH/2gAMAwEAAhEDEQA/ACtxk2CtJ0qNgq2xI7i/7H3ihFy1UZEiGW2khL0cT0r5gGlkOBJV8gkbdzcWxqp+qfRKtTkAreaSKhFSPNaOlxA91IN/lsYQYrSIqXwVoS41Bp1Oj33ClJHPd/3QL+uAszCGNnPwMuGLzIGH3FOhromYm4zk52cVMBwOulRIutXT1Emw+ccI+33wncVnJFQdh1GStkltPhiGwRtuQdyfQ4NniMLcXYazVWRzs+9/eFYQRyFR1l/Kc95OY4nhiOaVJSAeyupIIPsQSP3hmr0Z01GltU4R1OPuTJX5iUpupISNwDYpSEgbeWBHJqG4WbKXMmcwxGXw45y06lWG/bz3thPrecKSjMdGmMLlmPGRIbcDrSm/5JTpUVH3SfvE5NGau4QbOj+ZpXKgaY9nIfE+FJhZYgO1JqGJ4k8tTkcqVqToVbcgenb1wUuPe+EXitmyFW6TGjQPyLTIDhs6HNtJHl274Llc1X9FfWF+EDrVAkGjs4FgKH0nWf/Z"
+/>
 
 Bei den Säften konnte ich mich nur schwer für einen Favoriten entscheiden. Sie
 schmecken wirklich alle sehr gut, ich schwanke im Moment noch zwischen

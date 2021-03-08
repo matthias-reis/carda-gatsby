@@ -14,12 +14,11 @@ focusKeyword: Latte Macchiato Muttis
 labels:
   - Empathie
   - Franzbrötchen
+  - Geschichten & Erlebtes
   - Großstadt
   - Kinder
   - Nachbarn
   - Nächstenliebe
-  - Politik & Soziales
-  - Prosa
   - Sarkasmus
   - Tee
   - Vorurteile

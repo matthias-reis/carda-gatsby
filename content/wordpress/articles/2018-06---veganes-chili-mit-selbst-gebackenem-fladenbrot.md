@@ -21,6 +21,7 @@ labels:
   - Rezept veganes Chili
   - vegan
   - vegan kochen
+  - vegane Rezepte
   - Vegane Rezepte
   - veganes Chili
 type: Artikel
@@ -57,7 +58,7 @@ vorbereiten. Der Teig muss auch ein Weilchen gehen.
 
 - 500 g helles Dinkel- oder Weizenmehl
 - 350 ml Wasser
-- 1 Packung Trockenhefe
+- 1 Packung [Trockenhefe](/2021/01/hefe-ist-vegan/)
 - 1/2 TL Zucker
 - 1 TL Salz
 - Sesam oder Schwarzkümmel
@@ -94,13 +95,11 @@ auf einen Rost.
 
 ## Zubereitung veganes Chili
 
-<RemoteImage
-  alt="Veganes Chili"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41338279775_721e48f258_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41338279775_721e48f258_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgIDB//EACsQAAEEAQIEBQQDAAAAAAAAAAECAwQRBQAhBhITQQciMVFhFEJxkXOBsf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAeEQACAgICAwAAAAAAAAAAAAABAgADBBEScRMjMv/aAAwDAQACEQMRAD8AUyfD3K4ySE4yemWg+YsuAhaPi6IP7Gp2QZ44exKoCcbkel5UB1mkrKd7pSSVGtvWvTT3DcZIgYAy5uOUt1sFShHdHLQ+4k+g/ekmY8T8itpL0ExYa2VEqYUAoOIUByk8+937AbHWZY9I+SR1KrC6J7BsTNnOcWYsJTkMM/MYQaIkxyhZT/LQBPyR+dMOK8Lwzm2unGEVuWsA9ZmgtB7ix5VHtW/xrZw/4sRXOhEzjC2pa+S3GEkNlKvuKTuP6u7Fasedh4jMQfqW247yFjyvsUk/sd/g6fjlSpXly7imsDAMi613OB4uflokVzqQp7x5CORLPMle3pzCx399R46ZhjRY0vByW0NiwG0OIVdk2SAbA7b3Q9zo0aTkUrqX4drFtGSMZBfecKGoGRlJICQlcdSkorZKhfLRH5r/ADV74LTKwODnLy0mPHMhSV/TreQekQDZJG1m/QdgNGjRYtKq5aBltwTxKNAz/9k=" />
+<RemoteImage alt={`Veganes Chili`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41338279775_721e48f258_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41338279775_721e48f258_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgIDB//EACsQAAEEAQIEBQQDAAAAAAAAAAECAwQRBQAhBhITQQciMVFhFEJxkXOBsf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAeEQACAgICAwAAAAAAAAAAAAABAgADBBEScRMjMv/aAAwDAQACEQMRAD8AUyfD3K4ySE4yemWg+YsuAhaPi6IP7Gp2QZ44exKoCcbkel5UB1mkrKd7pSSVGtvWvTT3DcZIgYAy5uOUt1sFShHdHLQ+4k+g/ekmY8T8itpL0ExYa2VEqYUAoOIUByk8+937AbHWZY9I+SR1KrC6J7BsTNnOcWYsJTkMM/MYQaIkxyhZT/LQBPyR+dMOK8Lwzm2unGEVuWsA9ZmgtB7ix5VHtW/xrZw/4sRXOhEzjC2pa+S3GEkNlKvuKTuP6u7Fasedh4jMQfqW247yFjyvsUk/sd/g6fjlSpXly7imsDAMi613OB4uflokVzqQp7x5CORLPMle3pzCx399R46ZhjRY0vByW0NiwG0OIVdk2SAbA7b3Q9zo0aTkUrqX4drFtGSMZBfecKGoGRlJICQlcdSkorZKhfLRH5r/ADV74LTKwODnLy0mPHMhSV/TreQekQDZJG1m/QdgNGjRYtKq5aBltwTxKNAz/9k="
+/>
 
 Weicht die Bohnen für rund sechs Stunden in der dreifachen Menge Wasser ein.
 Gebt einen guten Schuss Essig dazu. Wenn Ihr größere Bohnen verwendet, als wir
@@ -125,7 +124,5 @@ Tomaten und den aufgehobenen Sud hinzu. Füllt die Tomatendose bis zur Hälfte m
 Wasser und gießt nochmal nach. Lasst Euer veganes Chili für ein halbes Stündchen
 auf kleiner Flamme köcheln. Schmeckt es mit Paprikapulver ab und serviert es
 zusammen mit dem Brot.
-
-Matze &amp; Anne wünschen guten Appetit! &lt;3
 
   

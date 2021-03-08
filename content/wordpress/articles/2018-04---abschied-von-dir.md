@@ -13,10 +13,10 @@ labels:
   - Abschied
   - ade
   - Familie
+  - Geschichten & Erlebtes
   - Good Bye
   - Licht
   - Liebe
-  - Lyrik
   - mach es gut
   - Meer
   - Ocean
@@ -24,31 +24,33 @@ labels:
   - Sonne
   - Tod
 type: Artikel
-typeName: Artikel
+typeName: Gedicht
 date: 2018-04-16T15:27:01.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  noSubtitle: no h2 heading found - no sub title
+errors: {}
 thumbnailId: "20479"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_Abschied-1-von-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_Abschied-1-von-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgMHCP/EACwQAAIBAwIEAwkBAAAAAAAAAAECAwAEEQUGEiExURMicQcUMkFCRYGDkaH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQF/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAAxEhQQQx/9oADAMBAAIRAxEAPwCSsZ5SAfeZz+yp+2uJVjJNyygAkkyjAAqoWU6qo4nhQDueh/NZdbunfbmpx2dwr3L2sqxBMDzFSB0z3q0+k9mcKzHNq70i3FqmpW9jrcckaNm1RVZWaNQA7cxz8x/hFWKae9T7lIPQmucPZPqA03Uxdl5AkMEqEcWPj4QMD1FbMuNy3hiDq8pRunEBz/yirnpjbK96laG6rC2lKRRPcMo5eCnEP7UnY7yW5LIun3rNnkscAGB3LZFFFQNUoGZWpyYht/blho8EoYxahPI/iYKMojB+jHcHOT0p2a44V4RGkagcgFAxz+WKKKUtjN9Mayjk/9k=
+subTitle: Mach's gut
   
 ---
+
+Für Wolfgang
+
+<blockquote>
 
 Tanz noch einmal. Schließe Deine Augen.
 
 Die Sonne färbt den Himmel. In der Stille.
 
-<RemoteImage
-  alt="Abschied"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Wolfgang__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Wolfgang__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwMECP/EACoQAAEDAwMCBgIDAAAAAAAAAAECAwQABhEFEiExQRMWInGBkQdSkrHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQABf/EAB0RAAIBBQEBAAAAAAAAAAAAAAABAgMFETFRIUH/2gAMAwEAAhEDEQA/AH0u+4Fr26rU50CO+pJCUR21etaiCQOvA45Panlu3FN1K29CmOtRGpb7bTrrhjhKSVYOAkr4xkDI6n3qnZ2jxVWTLhrU0vUJqA3HW6RvLuQQEj4wSO1TaDmANOgworQTG8FpCwgEr2gJJz17d/imdfIaoL6bflyMt55QcZILizncP2NY37ZZKMpU1/IVbD9p24wHHHorSUb1EqW5gck0v8uW5NgNy24aPBcA2lKuFZOB9nFUO8S4ErdnTOZbBDst1WtT3lyZQKmW9+MNjHJH32xip7AeUoN7eHC4gb1erjxAT/VFFcyXsiyOhrrN3aw9Jfaly1vsAvyA0QEgKbVlOMDp/ozVE3R+QbqZnvRmtZkIjFA2tJwEpSfUR7ZyeaKKaMVw2Wj/2Q==" />
+<RemoteImage alt={`Abschied`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Wolfgang__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Wolfgang__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwMECP/EACoQAAEDAwMCBgIDAAAAAAAAAAECAwQABhEFEiExQRMWInGBkQdSkrHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQABf/EAB0RAAIBBQEBAAAAAAAAAAAAAAABAgMFETFRIUH/2gAMAwEAAhEDEQA/AH0u+4Fr26rU50CO+pJCUR21etaiCQOvA45Panlu3FN1K29CmOtRGpb7bTrrhjhKSVYOAkr4xkDI6n3qnZ2jxVWTLhrU0vUJqA3HW6RvLuQQEj4wSO1TaDmANOgworQTG8FpCwgEr2gJJz17d/imdfIaoL6bflyMt55QcZILizncP2NY37ZZKMpU1/IVbD9p24wHHHorSUb1EqW5gck0v8uW5NgNy24aPBcA2lKuFZOB9nFUO8S4ErdnTOZbBDst1WtT3lyZQKmW9+MNjHJH32xip7AeUoN7eHC4gb1erjxAT/VFFcyXsiyOhrrN3aw9Jfaly1vsAvyA0QEgKbVlOMDp/ozVE3R+QbqZnvRmtZkIjFA2tJwEpSfUR7ZyeaKKaMVw2Wj/2Q=="
+/>
 
 Goldenes Sonnenlicht. Schatten und Licht gehören zusammen.
 
@@ -60,7 +62,7 @@ Die Sonne weicht dem Licht der ruhigen Mondsichel. Jupiter und Venus.
 
 Ein Kuss auf die Wange. Tschüss. Mach es gut.
 
-_Für Wolfgang &lt;3_
+</blockquote>
 
 Die Bilder entstanden letztes Wochenende an der Ostsee. Am Meer kann man am
 besten Abschied nehmen. Es ist unendlich. Es weiß alles und hat schon alles

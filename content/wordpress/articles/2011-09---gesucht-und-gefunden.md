@@ -10,7 +10,7 @@ excerpt: Gesucht wird ein wundervoller Song. Falls ihn jemand findet, bitte bei
   mir abgeben! Es ist mir wirklich ganz besonders wichtig!
 focusKeyword: ""
 labels:
-  - Bands & Reviews
+  - Bands
   - Black Rebel Motorcycle Club
   - Black Rebel Motorcycle Club live 2007
   - BRMC
@@ -44,13 +44,12 @@ subTitle: Lied gesucht
   
 ---
 
-<RemoteImage
-  alt="Bild: brit-berlin pixelio.de"
-  size="medium"
-  title="Bild: brit-berlin pixelio.de"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_09_28076_r_by_brit-berlin_pixelio-de__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_09_28076_r_by_brit-berlin_pixelio-de__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAnEAABAwQCAgIBBQAAAAAAAAABAgMEABESIQUGBzETFFEiIzJBYf/EABcBAQEBAQAAAAAAAAAAAAAAAAQFAgP/xAAgEQACAQMEAwAAAAAAAAAAAAABAgADBCERIoGhMVGR/9oADAMBAAIRAxEAPwCR9W8YrmcW3yfKyS1EcywDaFuFWIudJBIA/JxFUSH4u4CLNnxHGC79XixyHyEbKjicSCToZVq9ValTem8dEbW8zHShTpLeYDqcRlfE7A3fWqY3zMcRI+X67D7kZDTjimHc3GEWUnI7SEmybkC5AqE9zVL5PcvUrdQMAfNecgznJ8TwIMt6M5ESllstmLIbBAWFuJQAbHRGWxSx3boj0WByE6PyBW1DUtlYWnJKVIBJTuxFwDY7vVHiSOXiIkFchQZempkFt1hamg5mFjEDaclXsP7A/NZHf5b46hzwe+BlDrUiQptppYzdLaslEqJ2Lj9II9+qbRvKqeG7h6tsrDeo4GnqTjond2oXC8dCdgF0NMrbJzADiXEgEK1ewtfRFPCe2Q5TKUKjPokqiIircFikpFhkE3uFWFvdqKKHcoFbEVbKCupm8rucf7apqIah++062iwGJQLWJH8gd+/R2KRPIHZIR6ZzUSFHkNNrYecsshRLi043J1YAf5RRXOhlszdwiom2f//Z" />
+<RemoteImage alt={`Bild: brit-berlin pixelio.de`} size="medium"
+title={`Bild: brit-berlin pixelio.de`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_09_28076_r_by_brit-berlin_pixelio-de__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_09_28076_r_by_brit-berlin_pixelio-de__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAnEAABAwQCAgIBBQAAAAAAAAABAgMEABESIQUGBzETFFEiIzJBYf/EABcBAQEBAQAAAAAAAAAAAAAAAAQFAgP/xAAgEQACAQMEAwAAAAAAAAAAAAABAgADBCERIoGhMVGR/9oADAMBAAIRAxEAPwCR9W8YrmcW3yfKyS1EcywDaFuFWIudJBIA/JxFUSH4u4CLNnxHGC79XixyHyEbKjicSCToZVq9ValTem8dEbW8zHShTpLeYDqcRlfE7A3fWqY3zMcRI+X67D7kZDTjimHc3GEWUnI7SEmybkC5AqE9zVL5PcvUrdQMAfNecgznJ8TwIMt6M5ESllstmLIbBAWFuJQAbHRGWxSx3boj0WByE6PyBW1DUtlYWnJKVIBJTuxFwDY7vVHiSOXiIkFchQZempkFt1hamg5mFjEDaclXsP7A/NZHf5b46hzwe+BlDrUiQptppYzdLaslEqJ2Lj9II9+qbRvKqeG7h6tsrDeo4GnqTjond2oXC8dCdgF0NMrbJzADiXEgEK1ewtfRFPCe2Q5TKUKjPokqiIircFikpFhkE3uFWFvdqKKHcoFbEVbKCupm8rucf7apqIah++062iwGJQLWJH8gd+/R2KRPIHZIR6ZzUSFHkNNrYecsshRLi043J1YAf5RRXOhlszdwiom2f//Z"
+/>
 
 **Gesucht wird ein wundervoller Song. Falls ihn jemand findet, bitte bei mir
 abgeben!**
@@ -60,16 +59,16 @@ des Gesprächspartners bereits gelöscht, daher ist es leider nicht mehr
 nachvollziehbar, welcher Song von mir am 13.8. mit dieser Lobhudelei versehen
 wurde. Ich werde selbstverständlich Nachforschungen anstellen und das Video
 sogleich auf dieser Seite posten, sollte die Erinnerung daran nochmal
-zurückkommen. Meine Vermutung ist, dass es sich um ein Lied von THE BLACK ANGELS
-handelt, die 2007 mit BRMC auf Tour waren. Nur um welches der vielen schönen
-Songs dieser Combo könnte es sich in meinem kurzen Text drehen? Vielleicht hilft
-es auch, den Gästebuchschreiber (bei dem es sich übrigens um den Versender des
-zauberhaften Mixtapes handelt, von dem vor einigen Tagen einer meiner Beiträge
-handelte) mal zur Rate zu ziehen. Ich denke, das könnte vielleicht Licht ins
-Dunkel bringen. Das Stück muss mich musikalisch doch schon einigermaßen
-beeindruckt haben, zumal ich am Ende auch geschrieben habe, dass ich mich auf
-jeden Fall damit beschäftigen möchte, schade, dass mir das dann anscheinend so
-schnell wieder entfallen ist. Doch nun zu meinem Fundstück:
+zurückkommen.  Meine Vermutung ist, dass es sich um ein Lied von THE BLACK
+ANGELS handelt, die 2007 mit BRMC auf Tour waren. Nur um welches der vielen
+schönen Songs dieser Combo könnte es sich in meinem kurzen Text drehen?
+Vielleicht hilft es auch, den Gästebuchschreiber (bei dem es sich übrigens um
+den Versender des zauberhaften Mixtapes handelt, von dem vor einigen Tagen einer
+meiner Beiträge handelte) mal zur Rate zu ziehen.  Ich denke, das könnte
+vielleicht Licht ins Dunkel bringen. Das Stück muss mich musikalisch doch schon
+einigermaßen beeindruckt haben, zumal ich am Ende auch geschrieben habe, dass
+ich mich auf jeden Fall damit beschäftigen möchte, schade, dass mir das dann
+anscheinend so schnell wieder entfallen ist.  Doch nun zu meinem Fundstück:
 
 _"Klingt richtig gut. Wie konnten mir die bis jetzt entgehen?_ _Schöne, einfache
 Musik. Klingt ehrlich. Mag ich. Entwickelt sich vor allem auch. Musik sollte

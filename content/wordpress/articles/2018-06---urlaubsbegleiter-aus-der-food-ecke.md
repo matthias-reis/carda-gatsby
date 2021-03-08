@@ -13,6 +13,7 @@ excerpt: Werbung - Wir fahren in Kürze in den Urlaub. Mit im Gepäck sind auch
 focusKeyword: Konjak-Nudeln
 labels:
   - Camping
+  - Ernährung & Gesundheit
   - Essen
   - glutenfrei
   - Konjak
@@ -21,7 +22,6 @@ labels:
   - Pasta
   - Teufelszunge
   - vegan
-  - Vegane Produkte
 type: Artikel
 typeName: Produkttest
 date: 2018-06-16T07:17:55.000Z
@@ -53,13 +53,11 @@ Sie sind nämlich nicht nur im Urlaub praktische Begleiter, sondern auch auf
 
 ## Jetzt schnell etwas essen!
 
-<RemoteImage
-  alt="Konjak-Nudeln"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42761115832_bac9c75890_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42761115832_bac9c75890_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAEBf/EACkQAAICAQMDAwMFAAAAAAAAAAECAwQRAAUhEhMxBhRBIlFhIzJxgfD/xAAWAQEBAQAAAAAAAAAAAAAAAAAFBAb/xAApEQACAQIEAwkBAAAAAAAAAAABAgMAEQQhMXFBYbEFEhMjUYGRofHB/9oADAMBAAIRAxEAPwCqWLffbsyokbqrhWiBPIz/AIaR7dNem28yyWIowhPCRAnA8/Ojmyzrap1pzKVDxhWLA/uU45xrfam9nNIryF2AZSkZBWQkAg/fI1mhOxm81yF960MaJJhl8FQXy4C/PWtl+odxoDuHvO/MfUO1xgcMo0PfaZ9tuz2IUSFI1/UwwTKYxjj5z4z99daX1MlK/RrvGZxNSLrXROqTrLnkseAOkfk86528bvduVmWjRTuyIW6hGVVF6Q3LNgs2GGAABz86cHZzzxLrY+vEbnTc9aBlxKhnjYgWvfIbZW/nSjvpa5cqU9zZIp4omhaOKVWJzIOPpb+c8622d6mG3xCeR0tKnmbyT45zzq1aPsJ1GHYZA35/lVYTEvDI06627vK1x90Rkve39T9JtiFAO0shXrCuE6fxkNzz8EDSxJ4b9UGy8s0JOSs0gSJSB8RpjP8AZ1atL4aRo0ESnIbX+ailRZXaVxmxufyv/9k=" />
+<RemoteImage alt={`Konjak-Nudeln`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42761115832_bac9c75890_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42761115832_bac9c75890_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAEBf/EACkQAAICAQMDAwMFAAAAAAAAAAECAwQRAAUhEhMxBhRBIlFhIzJxgfD/xAAWAQEBAQAAAAAAAAAAAAAAAAAFBAb/xAApEQACAQIEAwkBAAAAAAAAAAABAgMAEQQhMXFBYbEFEhMjUYGRofHB/9oADAMBAAIRAxEAPwCqWLffbsyokbqrhWiBPIz/AIaR7dNem28yyWIowhPCRAnA8/Ojmyzrap1pzKVDxhWLA/uU45xrfam9nNIryF2AZSkZBWQkAg/fI1mhOxm81yF960MaJJhl8FQXy4C/PWtl+odxoDuHvO/MfUO1xgcMo0PfaZ9tuz2IUSFI1/UwwTKYxjj5z4z99daX1MlK/RrvGZxNSLrXROqTrLnkseAOkfk86528bvduVmWjRTuyIW6hGVVF6Q3LNgs2GGAABz86cHZzzxLrY+vEbnTc9aBlxKhnjYgWvfIbZW/nSjvpa5cqU9zZIp4omhaOKVWJzIOPpb+c8622d6mG3xCeR0tKnmbyT45zzq1aPsJ1GHYZA35/lVYTEvDI06627vK1x90Rkve39T9JtiFAO0shXrCuE6fxkNzz8EDSxJ4b9UGy8s0JOSs0gSJSB8RpjP8AZ1atL4aRo0ESnIbX+ailRZXaVxmxufyv/9k="
+/>
 
 Wisst Ihr, was ich besonders gerne mag, wenn ich nach einer langen Fahrt endlich
 auf dem ersten Campingplatz des Urlaubs ankomme? Schnell etwas essen, für das
@@ -88,13 +86,11 @@ schon mal nicht meckern.
 
 ## Teufelszunge auf dem Teller
 
-<RemoteImage
-  alt="Konjak-Nudeln"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41909468735_9f0c7a76a0_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41909468735_9f0c7a76a0_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgL/xAAoEAACAgECBgICAwEAAAAAAAABAgMRBAAFBhITITFBUWEicRQlMsH/xAAXAQEBAQEAAAAAAAAAAAAAAAACBAMF/8QAJxEAAQMCBAUFAAAAAAAAAAAAAQIDEQAEITFhcQUiUcHwEhOR0fH/2gAMAwEAAhEDEQA/AH9rieV3fDggyFlZ3m/ktzKgNclCjZIHf9avRbjFti9PLx8YX+TNjUFI89xV2DWslw/vcfWeMOOpK8av1XCBUHMLHo12H3q3vuOJg2ThZ8algAnLIii/Bv2Sb8/WuLaN+tgBOKsZGeZ6bVU0kJQPcGG3eO9dS7jJlPhZ2BByxs1ujRl+p57qSfjt486Y3vORsNUWcxxovMxC2ARdH/l/Z1D2jff6qKPbsJ5IILAnmk5RIQzAuTdKtgmzZr1rK5u7ZiZOQsnTd0UktD3VlayOQe/i/rT4pw18IS8dB8ifN+sxK8+04QlGvn1+SvwdDHgQ5O6ZmXHHLO/TggKAiRFsE+b7nvqhxLuO3wYZjRY453W05XYevg/5F+/3XjRo02gFhU1uzdODCcpjSkeEdxg2jBRNwwpJJ4VIUCmaQq1cwDn8buzQ9WNJcRbwOJNxEsmLJjFY+nGArS9rNFm+fNAiu/nRo0l3btzyOGRUhgcqRA0r/9k=" />
+<RemoteImage alt={`Konjak-Nudeln`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41909468735_9f0c7a76a0_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41909468735_9f0c7a76a0_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgL/xAAoEAACAgECBgICAwEAAAAAAAABAgMRBAAFBhITITFBUWEicRQlMsH/xAAXAQEBAQEAAAAAAAAAAAAAAAACBAMF/8QAJxEAAQMCBAUFAAAAAAAAAAAAAQIDEQAEITFhcQUiUcHwEhOR0fH/2gAMAwEAAhEDEQA/AH9rieV3fDggyFlZ3m/ktzKgNclCjZIHf9avRbjFti9PLx8YX+TNjUFI89xV2DWslw/vcfWeMOOpK8av1XCBUHMLHo12H3q3vuOJg2ThZ8algAnLIii/Bv2Sb8/WuLaN+tgBOKsZGeZ6bVU0kJQPcGG3eO9dS7jJlPhZ2BByxs1ujRl+p57qSfjt486Y3vORsNUWcxxovMxC2ARdH/l/Z1D2jff6qKPbsJ5IILAnmk5RIQzAuTdKtgmzZr1rK5u7ZiZOQsnTd0UktD3VlayOQe/i/rT4pw18IS8dB8ifN+sxK8+04QlGvn1+SvwdDHgQ5O6ZmXHHLO/TggKAiRFsE+b7nvqhxLuO3wYZjRY453W05XYevg/5F+/3XjRo02gFhU1uzdODCcpjSkeEdxg2jBRNwwpJJ4VIUCmaQq1cwDn8buzQ9WNJcRbwOJNxEsmLJjFY+nGArS9rNFm+fNAiu/nRo0l3btzyOGRUhgcqRA0r/9k="
+/>
 
 "Nudeln? Aus dem Beutel. Na toll!", denkt Ihr Euch jetzt vielleicht. Und was ist
 jetzt der Clou? Die Nudeln werden nicht wie gewöhnlich aus Hartweizengrieß oder
@@ -135,13 +131,11 @@ das ist ja eigentlich genau das, was ich mir von Nudeln wünsche.
 
 ## Vom der Reiskorn-Form bis zu Spaghetti
 
-<RemoteImage
-  alt="Konjak-Nudeln"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28936661648_370d190e9d_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28936661648_370d190e9d_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBQID/8QAKBAAAgIBAwQCAAcAAAAAAAAAAQIDBBEAEiEFBjFBEyIjMlGBobHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQYCAwX/xAAmEQABAwQBAQkAAAAAAAAAAAABAgMRAAQFITFREhMiMkFhcaHB/9oADAMBAAIRAxEAPwB7p3Z7kSyy2oq8owyQb2ZWCj8oOCAfP76ebrteuXq2YLMpChmNcIfPOR9gRwf7159AvTTOiG+kxR1jkQRBQrFSRzjkgjHGsiWtbudSmbptdpXQiJsFRucEgjkjzrLx9rZKuALkQiD5iOdR7cTUMk05bIBtvET0BP4KoLF55aa3alKtFBNtCyXJNhfJwDtUHGfAyddrad6kKypEjx/ifHyQSTyN3ocH1qfXuOvD05Vt2nAiSNQhjI+MgYYZwQec/wCaU6x1WGvFEZpGEIrQyFeTuL52kjRzVoWGIQiBOtR1418VSw4HRpQJ9Yqcrd0R1JNzO7DAI94IYHOf48+NN1u5Eh7h7h2fG22xDPESTgbsZ8EZ9aNGgk9624pQ4FMjtuhDrKeQTv6qY6n1KJJJWwu0BwQMeST6zrJvdzWL8kQsyAKsKQkJ9QyqMAHHsfro0aas4A5bpCh0pKx6ey4qK//Z" />
+<RemoteImage alt={`Konjak-Nudeln`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28936661648_370d190e9d_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28936661648_370d190e9d_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBQID/8QAKBAAAgIBAwQCAAcAAAAAAAAAAQIDBBEAEiEFBjFBEyIjMlGBobHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQYCAwX/xAAmEQABAwQBAQkAAAAAAAAAAAABAgMRAAQFITFREhMiMkFhcaHB/9oADAMBAAIRAxEAPwB7p3Z7kSyy2oq8owyQb2ZWCj8oOCAfP76ebrteuXq2YLMpChmNcIfPOR9gRwf7159AvTTOiG+kxR1jkQRBQrFSRzjkgjHGsiWtbudSmbptdpXQiJsFRucEgjkjzrLx9rZKuALkQiD5iOdR7cTUMk05bIBtvET0BP4KoLF55aa3alKtFBNtCyXJNhfJwDtUHGfAyddrad6kKypEjx/ifHyQSTyN3ocH1qfXuOvD05Vt2nAiSNQhjI+MgYYZwQec/wCaU6x1WGvFEZpGEIrQyFeTuL52kjRzVoWGIQiBOtR1418VSw4HRpQJ9Yqcrd0R1JNzO7DAI94IYHOf48+NN1u5Eh7h7h2fG22xDPESTgbsZ8EZ9aNGgk9624pQ4FMjtuhDrKeQTv6qY6n1KJJJWwu0BwQMeST6zrJvdzWL8kQsyAKsKQkJ9QyqMAHHsfro0aas4A5bpCh0pKx6ey4qK//Z"
+/>
 
 Hergestellt wird das Produkt übrigens in China für die Niederländische Firma
 Nutri-Dynamics Health Products B. V. In Deutschland werden sie durch

@@ -10,9 +10,9 @@ excerpt: Die Sonne scheint durch die zartgrünen  Zweige. Im Fluss schwimmt Mül
   Schwerer Rauch steigt aus den Fabrikschloten auf.
 focusKeyword: ""
 labels:
+  - Geschichten & Erlebtes
   - Liebe
   - Lyrik
-  - Prosa
   - Sommer
   - Träumer
 type: Artikel
@@ -30,7 +30,7 @@ subTitle: Stadtprosa
   
 ---
 
-Die Sonne scheint durch die zartgrünen Zweige Im Fluss schwimmt Müll Schwerer
+Die Sonne scheint durch die zartgrünen  Zweige Im Fluss schwimmt Müll Schwerer
 Rauch steigt aus den Fabrikschloten auf Tauben picken nach ein paar Brotkrumen
 Ein Kind auf einem Dreirad Dahinter Stahl, Beton, Glas Ein Polizeiauto rast
 vorbei Du sitzt auf einer Bank und träumst vor Dich hin Die Anzeige der

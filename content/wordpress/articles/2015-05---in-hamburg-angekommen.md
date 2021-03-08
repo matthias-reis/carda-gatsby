@@ -6,18 +6,18 @@ path: /2015/05/hamburg-ist-schoen-und-ich-bin-wieder-da/
 fileName: 2015-05---in-hamburg-angekommen.md
 description: Hamburg ist so schön! Ich möchte hier nie wieder weg! Ich habe auch
   schon mein Lieblingscafé und meinen Lieblingsklamottenladen entdeckt!
-excerpt: Sicher haben ein paar von Euch gemerkt, dass mein Blog in den letzten
+excerpt: Sicher haben ein paar von Euch gemerkt, dass mein Blog in den letzten
   Tagen nicht zu erreichen war - finstere Mächte hatten sich in den Server
   gehackt.
 focusKeyword: Hamburg
 labels:
   - Angekommen
+  - Geschichten & Erlebtes
   - Hamburg
   - Hamburg
   - Hamburg meine Liebe
   - Neuhamburger
   - Server weg
-  - Tagebuch
   - Tagebuch
   - Umzug
   - wieder da
@@ -37,15 +37,14 @@ subTitle: Ich bin endlich wieder da!
   
 ---
 
-<RemoteImage
-  alt="Hamburg ist schön und ich bin wieder da!"
-  size="medium"
-  title="Ich bin wieder da!"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17130880761_0e31d84d6b_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17130880761_0e31d84d6b_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQIE/8QAKxAAAQIFAgQFBQAAAAAAAAAAAQIDAAQFESEGEgcTMUEjQlGBkVJhcYKh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AN3hy6iuLbqLTimn0Ha+wEdFYxutY4t1h5kRTJ12aYSuSeUkkOJbf5imj2G2+IiXCsuGkVsMPtyzMxLqQt11tISjw7AhRWLEHuRbGY44cT1UTqKlGVfkmmFO2BaZLiVS5R3NwL3ByIC4zVHkH2EtOy0q+23nwiEq9z2hQqFAakbuSjamZzduS42qyCD5SnNrYHoesb09V59hO5udYWOpvJHI9MrxCLqDUFddJ2VZtkBV7NyKPjJOICNVWusokl0lgupbukvdgpYzb7gf0/iPHoGsTdJ1RTSw5yacicHOQFGwStJSf0NybdAReCCAslS1EkFxBKgPpGR83zCpUKo5N7iwlawPMAdo9+kEEB//2Q==" />
+<RemoteImage alt={`Hamburg ist schön und ich bin wieder da!`} size="medium"
+title={`Ich bin wieder da!`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17130880761_0e31d84d6b_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17130880761_0e31d84d6b_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQIE/8QAKxAAAQIFAgQFBQAAAAAAAAAAAQIDAAQFESEGEgcTMUEjQlGBkVJhcYKh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AN3hy6iuLbqLTimn0Ha+wEdFYxutY4t1h5kRTJ12aYSuSeUkkOJbf5imj2G2+IiXCsuGkVsMPtyzMxLqQt11tISjw7AhRWLEHuRbGY44cT1UTqKlGVfkmmFO2BaZLiVS5R3NwL3ByIC4zVHkH2EtOy0q+23nwiEq9z2hQqFAakbuSjamZzduS42qyCD5SnNrYHoesb09V59hO5udYWOpvJHI9MrxCLqDUFddJ2VZtkBV7NyKPjJOICNVWusokl0lgupbukvdgpYzb7gf0/iPHoGsTdJ1RTSw5yacicHOQFGwStJSf0NybdAReCCAslS1EkFxBKgPpGR83zCpUKo5N7iwlawPMAdo9+kEEB//2Q=="
+/>
 
-**Sicher haben ein paar von Euch gemerkt, dass mein Blog in den letzten Tagen
+**Sicher haben ein paar von Euch gemerkt, dass mein Blog in den letzten Tagen
 nicht zu erreichen war. Finstere Mächte hatten sich in den Server gehackt und
 wollten versuchen, mit seiner Hilfe die Weltherrschaft an sich zu reißen. Die
 Folge: Der komplette Server wurde abgeschaltet.**
@@ -60,13 +59,12 @@ kurz danach auch noch meinen Redaktionsplan lahmgelegt.
 
 ## Neue Artikel aus Hamburg in Kürze
 
-<RemoteImage
-  alt="Hamburg Binnenalster"
-  size="medium"
-  title="An der Binnenalster"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17130873791_7903cc11d5_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17130873791_7903cc11d5_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwf/xAAnEAACAgECBAcBAQAAAAAAAAABAgMRBAASBQYhURQiMUFhcZET0f/EABcBAQEBAQAAAAAAAAAAAAAAAAEEAAL/xAAZEQEBAQEBAQAAAAAAAAAAAAABAAIREkH/2gAMAwEAAhEDEQA/AHWHBmQEyg+IkvqyEtt+xqpwFlyIYd2K0KJ5WlYbQf8ANTeDzRwvJxw6B9qjzOUqh+1rPJ5tigijjxsHJztgYgl1ABDbbqyaJ+O2qvY0/GocrCgGUkyM2VIvUC/KO+pnmYcRDhIsFniU9P5rdn5bTJOb8OPGx5Z43p5EheMKLiZhYDCx7aXz8x4mQuUHyIRtkIijLBWkFffrd6xvPyXLy5NwpeDY8Yj8OdlVQlcCv3VPjRctlVkGMqyHqSJXsm779wDo0a4JYzYuW9l+HS2cOac2WAqz19dSvEcjhyBkx4I1VWsH1Nj3vvo0aGS//9k=" />
+<RemoteImage alt={`Hamburg Binnenalster`} size="medium"
+title={`An der Binnenalster`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17130873791_7903cc11d5_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17130873791_7903cc11d5_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwf/xAAnEAACAgECBAcBAQAAAAAAAAABAgMRBAASBQYhURQiMUFhcZET0f/EABcBAQEBAQAAAAAAAAAAAAAAAAEEAAL/xAAZEQEBAQEBAQAAAAAAAAAAAAABAAIREkH/2gAMAwEAAhEDEQA/AHWHBmQEyg+IkvqyEtt+xqpwFlyIYd2K0KJ5WlYbQf8ANTeDzRwvJxw6B9qjzOUqh+1rPJ5tigijjxsHJztgYgl1ABDbbqyaJ+O2qvY0/GocrCgGUkyM2VIvUC/KO+pnmYcRDhIsFniU9P5rdn5bTJOb8OPGx5Z43p5EheMKLiZhYDCx7aXz8x4mQuUHyIRtkIijLBWkFffrd6xvPyXLy5NwpeDY8Yj8OdlVQlcCv3VPjRctlVkGMqyHqSJXsm779wDo0a4JYzYuW9l+HS2cOac2WAqz19dSvEcjhyBkx4I1VWsH1Nj3vvo0aGS//9k="
+/>
 
 Es wird wohl ein Bisschen dauern, die Artikel, die ich für Euch geplant habe, zu
 rekapitulieren. Ich muss Euch also um ein kleines Bisschen Geduld bitten.
@@ -82,18 +80,17 @@ Team zu sitzen, die Leute sind nett und ich lerne jeden Tag etwas Neues.
 
 ## Offiziell in Hamburg angekommen
 
-<RemoteImage
-  alt="Offiziell in Hamburg angekommen"
-  size="medium"
-  title="Offiziell in Hamburg angekommen"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17056468917_0fa3c78de7_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17056468917_0fa3c78de7_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAgP/xAAsEAACAgEEAQICCwAAAAAAAAABAgMRBAAFEiExE0FRcQYUIiNCYWKBkcHw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgQAA//EABwRAAMAAwADAAAAAAAAAAAAAAABAgMRIRIxUf/aAAwDAQACEQMRAD8Af7HLixzSS5WTGfWIYGxYA/CQL/3y1nbIYpIGMskOOZGaXmytytzZBCmge6thYrxqT2mYQ+nEFJ6v7uF3/kqKGqGfMC4UrRWjIl3JA6AXQvsfn41GqdstmFofSbXs/p8VTCfj5ZyrN+5PnUhv21x4uQ+RByiDIaaMkC/l2B7/AD0DOjHJlAkW1BIk5sxahf2geiD3pZuMheFWhLIWUGlNVYv20qnx6GltaD9nwcfInWabEYyEKLExUUB4oHVBuO2YZgMf1FKK0amPw/rUHse+wxKC0oJH6zptlfSTHdOKzDvvp9Cclyvb4dccqnpILnxwihFMixBAnFpAbUe11daS7q4WzwSh8Drlk7tjSxGpuTnugxNaQ7lnq7WrOR5bs61ZW30Tx/D/2Q==" />
+<RemoteImage alt={`Offiziell in Hamburg angekommen`} size="medium"
+title={`Offiziell in Hamburg angekommen`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17056468917_0fa3c78de7_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17056468917_0fa3c78de7_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAgP/xAAsEAACAgEEAQICCwAAAAAAAAABAgMRBAAFEiExE0FRcQYUIiNCYWKBkcHw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgQAA//EABwRAAMAAwADAAAAAAAAAAAAAAABAgMRIRIxUf/aAAwDAQACEQMRAD8Af7HLixzSS5WTGfWIYGxYA/CQL/3y1nbIYpIGMskOOZGaXmytytzZBCmge6thYrxqT2mYQ+nEFJ6v7uF3/kqKGqGfMC4UrRWjIl3JA6AXQvsfn41GqdstmFofSbXs/p8VTCfj5ZyrN+5PnUhv21x4uQ+RByiDIaaMkC/l2B7/AD0DOjHJlAkW1BIk5sxahf2geiD3pZuMheFWhLIWUGlNVYv20qnx6GltaD9nwcfInWabEYyEKLExUUB4oHVBuO2YZgMf1FKK0amPw/rUHse+wxKC0oJH6zptlfSTHdOKzDvvp9Cclyvb4dccqnpILnxwihFMixBAnFpAbUe11daS7q4WzwSh8Drlk7tjSxGpuTnugxNaQ7lnq7WrOR5bs61ZW30Tx/D/2Q=="
+/>
 
 Nach einigen Anläufen haben wir es letzte Woche auch geschafft, unser Auto
 umzumelden, in unseren Pässen steht schon seit ein paar Wochen die neue Adresse.
 Es fühlt sich gut an, offiziell eine **Hamburgerin** zu sein! Ich liebe diese
-Stadt und ich möchte nie nie wieder hier weg.
+ Stadt und ich möchte nie nie wieder hier weg.
 
 Was wir alles schon gesehen haben? So dies und das, wir haben zwei Radtouren
 gemacht, die Elbe und die Alster erkundet, wir waren auf dem Flohmarkt, beim
@@ -112,13 +109,12 @@ auch schon wie ein Zuhause an.
 
 ## Hamburger Wände dekoriert
 
-<RemoteImage
-  alt="Radtour durch Hamburg"
-  size="medium"
-  title="Radtour durch Hamburg"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_16711504734_bbf097b072_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_16711504734_bbf097b072_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EAC4QAAIBAwIFAQYHAAAAAAAAAAECAwQFEQAhBhIxQVEiBxMUMnGBJFJhkZKhsf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAGxEAAgMBAQEAAAAAAAAAAAAAAREAAgMhEjH/2gAMAwEAAhEDEQA/AM04j4euHDFbSx3JDGZnJjP5sbHH8hpRSzNDAUOQwkGAc+TrXYONJ1pXprzQ2q82/HNLDcUz07o2Dynr28aGn4W4C4ojWWz3St4Wr5WAWkq2+IpnYnYIw9Q+udvGgU112X0Q+6e0KsuPAE9qpRkTUyw1cs7+onChuRR0znqdAcGUUUdNZakge9qGqnYkb4EgVf8AP70dceG4KSyhKC1tJLSBWSrhpZBFKuN2V2UBgRvn9dKLJUSw2uyxE5FGssbHmDH1NzA7edBvqfXZWVamqryQ893VCgaUIJAVyOo+n76O4eqaSmudLBZrlJOJ0ZZjVU/u2izhcKecjv12PXGldmsE0sE1ZV0UlZS0rKZUSUKQhznbv0H0AOirX8PaGnqIIni5sRCNnVizZ5ubA+UBdvm2J0xhciiGQXLCyX25WSZktdxmoXRiGhD5jz03jb0/fA1TwcY09a7G92igSd8B6ilXl994LDsRv3PXUPd3hudsS70geGVU/EExswyMKQ4HQjI38EHsdK7ZcXdCZ1QKThHXmAb7MBv086UnIeT/2Q==" />
+<RemoteImage alt={`Radtour durch Hamburg`} size="medium"
+title={`Radtour durch Hamburg`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_16711504734_bbf097b072_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_16711504734_bbf097b072_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EAC4QAAIBAwIFAQYHAAAAAAAAAAECAwQFEQAhBhIxQVEiBxMUMnGBJFJhkZKhsf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAGxEAAgMBAQEAAAAAAAAAAAAAAREAAgMhEjH/2gAMAwEAAhEDEQA/AM04j4euHDFbSx3JDGZnJjP5sbHH8hpRSzNDAUOQwkGAc+TrXYONJ1pXprzQ2q82/HNLDcUz07o2Dynr28aGn4W4C4ojWWz3St4Wr5WAWkq2+IpnYnYIw9Q+udvGgU112X0Q+6e0KsuPAE9qpRkTUyw1cs7+onChuRR0znqdAcGUUUdNZakge9qGqnYkb4EgVf8AP70dceG4KSyhKC1tJLSBWSrhpZBFKuN2V2UBgRvn9dKLJUSw2uyxE5FGssbHmDH1NzA7edBvqfXZWVamqryQ893VCgaUIJAVyOo+n76O4eqaSmudLBZrlJOJ0ZZjVU/u2izhcKecjv12PXGldmsE0sE1ZV0UlZS0rKZUSUKQhznbv0H0AOirX8PaGnqIIni5sRCNnVizZ5ubA+UBdvm2J0xhciiGQXLCyX25WSZktdxmoXRiGhD5jz03jb0/fA1TwcY09a7G92igSd8B6ilXl994LDsRv3PXUPd3hudsS70geGVU/EExswyMKQ4HQjI38EHsdK7ZcXdCZ1QKThHXmAb7MBv086UnIeT/2Q=="
+/>
 
 Die Bilder von unseren Entdeckungstouren haben ich schon bearbeitet und
 sortiert, ich werde Sie einfach nach und nach in den nächsten Tagen hier

@@ -10,8 +10,9 @@ excerpt: In diesem Artikel dreht sich alles um die Sprache der Blumen und warum
   wir sie uns gegenseitig schenken.
 focusKeyword: Die Sprache der Blumen
 labels:
+  - Achtsamkeit
   - Blumen
-  - Politik & Soziales
+  - Geschichten & Erlebtes
 type: Artikel
 typeName: Artikel
 date: 2009-06-10T17:52:00.000Z
@@ -27,7 +28,13 @@ subTitle: Warum verschenken wir Blumen?
   
 ---
 
-Der Brauch geht sehr weit zurück. Im antiken Rom wurde am 14. Februar die
+**In diesem Artikel dreht sich alles um die Sprache der Blumen, warum wir Blumen
+verschenken, welche Gründe wir dafür haben und warum wir uns freuen, wenn wir
+welche geschenkt bekommen.**
+
+## Erste große Tradition: Valentinstag
+
+Der Brauch geht sehr weit zurück. Im antiken Rom wurde am 14. Februar die 
 [Lupercalia](http://matriarchat.net/grundlagen/gueterverteilung/feste_feiern/lupercalia.html)
 gefeiert, das Fest zu Ehren der großen Göttin Lupa (Göttin der Wölfe) in Ihrem
 Aspekt der Göttin Juno (Liebesgöttin) Göttin Lupa (Göttin der Wölfe) in Ihrem
@@ -95,8 +102,9 @@ Ganz unabhängig vom Anlaß: es ist ein schöner Brauch, Blumen zu verschenken,
 ganz besonders, wenn man die „Sprache der Blumen“ kennt. Am schönsten ist
 natürlich immer ein selbstgemachter Blumenstrauß.
 
-## Einige Blumen und ihre Bedeutung- Akazie (rote) - Eleganz
+## Einige Blumen und ihre Bedeutung
 
+- Akazie (rote) - Eleganz
 - Akelei - Torheit
 - Allgut, Feldspinat - Güte
 - Aloe - Bitterkeit, Schmerz
@@ -152,7 +160,8 @@ natürlich immer ein selbstgemachter Blumenstrauß.
 - Wintergrün - süße Erinnerungen
 - Zehrkraut - Aufregung, Überraschung, Unruhe
 - Zichorie - Genügsamkeit
-- Zitterpappel - Seufzer **Quellen:** Wikipedia, Blumensprache.de,
-  ganz-muenchen.de, matriachat.net
+- Zitterpappel - Seufzer
+
+**Quellen:** Wikipedia, Blumensprache.de, ganz-muenchen.de, matriachat.net
 
   

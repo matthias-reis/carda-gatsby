@@ -11,11 +11,11 @@ excerpt: Seit einiger Zeit sammle ich Katzen, wenn ich unterwegs bin, sobald ich
   eine sehe, halte ich die Kamera bereit.
 focusKeyword: Katzen
 labels:
+  - Fernweh
   - Katze
   - Katzen
   - Katzenfotos
   - Katzenpics
-  - Reisen
   - süße Katzen
   - Tierrechte
 type: Artikel
@@ -33,6 +33,10 @@ subTitle: Nachts grau und tagsüber mit Krallen
   
 ---
 
+**Seit einiger Zeit sammle ich Katzen, wenn ich unterwegs bin, sobald ich eine
+sehe, halte ich die Kamera bereit. Dabei sind mir einige Schnappschüsse
+gelungen, die ich Euch nicht vorenthalten möchte.**
+
 Als Kind bekam ich jedes Jahr von meinem Vater einen Katzenkalender geschenkt.
 Darin gab es Bilder von **Katzen** in allen Farben und Formen, Katzen in allen
 Lebenslagen. Als Katzenfan fand ich das natürlich super und vielleicht hat mich
@@ -40,7 +44,7 @@ das auch auf die Idee gebracht.
 
 ## Katzen in allen Lebenslagen
 
-Meine Bilder sind von unterschiedlicher Qualität, für einige konnte ich mir viel
+Meine Bilder sind von unterschiedlicher Qualität, für einige konnte ich mir viel
 Zeit nehmen, bei anderen habe ich mit der Mobilfunkgerät-Klickse einfach
 draufgehalten. Die **Fotos** habe ich unter anderem in der Türkei, in England,
 auf Bali auf Sri Lanka und bei uns aufgenommen, es sind Straßenkatzen dabei,

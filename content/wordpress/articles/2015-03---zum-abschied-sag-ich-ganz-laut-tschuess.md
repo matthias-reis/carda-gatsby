@@ -15,8 +15,8 @@ labels:
   - Blog umziehen
   - Blogger
   - Blogumzug
+  - Geschichten & Erlebtes
   - neue Homepage
-  - Tagebuch
   - umziehen
   - Umzug
   - vegan
@@ -36,13 +36,16 @@ subTitle: "Teil IV: Der Abschied"
   
 ---
 
-<RemoteImage
-  alt="Abschied von Wordpress"
-  size="medium"
-  title="[ ]()  Abschied von Wordpress"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_anne-1-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_anne-1-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAT/xAAtEAACAgEDAgMGBwAAAAAAAAABAgMEEQAFEgYhE0FhFCIxUXGBBxUjJKHB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAhEhAxL/2gAMAwEAAhEDEQA/ALr4ASIyFHcL34opYn7DWcer7FmS9c/MEstdFhGlsw5Zqp84lyceY7DGPnrU9ZAAn1Gp10RDWg2bdLu6LFExuT+I8oChMOc5z/est+VY+YM/CbqNOoaVjbpJWlmoIoV7B/cSJk+84yR8hkf7pm3SmEzjS3Hf2ur1psr12gSe7IUXgvFpUIx6dvh/GnbdUBjbTTvQzVMO1pA0YPloH1BQry0LMYrQWo5GLtFIAVZvXSXb3y027bTxkPCfxlKq3uBePJfqRx+PqdHN337hWYV1Usi5AJxkny1GUrxFYR86BCiX+sthprSFZtvh/VlaIKhUYIWMn1AGnPd5OMb8uxxqZeyWrrS+3W+c/YcweXEDvrk6Pv2aaTbbYsvNEhnVQ7ZwVkPw+x1SLyg9Fen/2Q==" />
+## cardamonchai.com schon bald in neuem Gewand
+
+> Man schreibt nicht so ausführlich, wenn man den Abschied gibt.
+
+<RemoteImage alt={`Abschied von Wordpress`} size="medium"
+title={`[ ]() Abschied von Wordpress`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_anne-1-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_anne-1-2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAT/xAAtEAACAgEDAgMGBwAAAAAAAAABAgMEEQAFEgYhE0FhFCIxUXGBBxUjJKHB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAhEhAxL/2gAMAwEAAhEDEQA/ALr4ASIyFHcL34opYn7DWcer7FmS9c/MEstdFhGlsw5Zqp84lyceY7DGPnrU9ZAAn1Gp10RDWg2bdLu6LFExuT+I8oChMOc5z/est+VY+YM/CbqNOoaVjbpJWlmoIoV7B/cSJk+84yR8hkf7pm3SmEzjS3Hf2ur1psr12gSe7IUXgvFpUIx6dvh/GnbdUBjbTTvQzVMO1pA0YPloH1BQry0LMYrQWo5GLtFIAVZvXSXb3y027bTxkPCfxlKq3uBePJfqRx+PqdHN337hWYV1Usi5AJxkny1GUrxFYR86BCiX+sthprSFZtvh/VlaIKhUYIWMn1AGnPd5OMb8uxxqZeyWrrS+3W+c/YcweXEDvrk6Pv2aaTbbYsvNEhnVQ7ZwVkPw+x1SLyg9Fen/2Q=="
+/>
 
 **Mit diesem Zitat von Heinrich Heine verabschiede ich mich. Und wie recht er
 hat: Würde es sich um einen echten Abschied handeln, würde ich nicht so
@@ -58,13 +61,11 @@ man das eben in **Hamburg** so macht.
 ### Neue URL ab heute Abend
 
 Wie angekündigt, ist meine Zeit bei Wordpress jetzt zu Ende. Mein Blog wird in
-Kürze nur noch unter [www.cardamonchai.com](http://www.cardamonchai.com) zu
-erreichen sein.
+Kürze nur noch unter cardamonchai.com zu erreichen sein.
 
 Ich freue mich auf Euch und bin schon sehr gespannt, wie Euch das neue Outfit
-von [Anne bloggt cardamonchai](http://www.cardamonchai.com) gefällt! Heute Abend
-werde ich hier den Stecker ziehen und mit Sack und Pack auf meine neue Seite
-umziehen.
+von cardamonchai.com gefällt! Heute Abend werde ich hier den Stecker ziehen und
+mit Sack und Pack auf meine neue Seite umziehen.
 
 ### Ich lasse die Katze aus dem Sack!
 
@@ -83,7 +84,7 @@ lieb ist, schreibt mir ab dem 15. März eine **Postkarte** an
 [meine neue Adresse](https://cardamonchai.wordpress.com/impressum/), der
 Kühlschrank in Hamburg ist noch ganz kahl und möchte gerne dekoriert werden!
 
-Küsschen Anne &lt;3
+Küsschen Anne
 
 [_ **Hier gehts zum fünften Teil des Artikels** _](/2015/03/herzlich-willkommen-in-meinem-neuen-weblog/)
 

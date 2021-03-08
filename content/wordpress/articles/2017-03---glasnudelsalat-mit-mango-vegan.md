@@ -18,6 +18,7 @@ labels:
   - Glasnudelsalat
   - Mango
   - Rezepte
+  - Salat
   - vegan
   - vegane Rezepte
   - Vegane Rezepte

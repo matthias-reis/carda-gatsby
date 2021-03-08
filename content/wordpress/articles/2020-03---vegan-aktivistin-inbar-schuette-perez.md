@@ -7,20 +7,20 @@ fileName: 2020-03---vegan-aktivistin-inbar-schuette-perez.md
 description: Inbar Schütte-Perez ist in der veganen Hamburger Szene bekannt, wie
   keine andere. Ich habe mit der Aktivistin über ihr Leben und ihre Demos
   gesprochen.
-excerpt: Inbar Schütte-Perez ist in der veganen Hamburger Szene bekannt, wie
-  keine andere. Ich habe mit der Aktivistin über ihr Leben und ihre Demos
-  gesprochen.
+excerpt: English & German - Inbar Schütte-Perez ist in der veganen Hamburger
+  Szene bekannt, wie keine andere. Ich habe mit der Aktivistin über ihr Leben
+  und ihre Demos gesprochen.
 focusKeyword: Inbar Schütte-Perez
 labels:
   - Anonymous For The Voiceless
   - Cube of Truth
   - Cubes of Truth
-  - Darum vegan
+  - English & German
   - Hamburg
   - Hamburg
   - Hamburg vegan
   - Inbar Schütte-Perez
-  - Interview
+  - Interviews
   - Israel
   - SOKO Tierschutz
   - Tal Gilboa
@@ -43,7 +43,7 @@ subTitle: '"Wir müssen groß sein, wenn wir Großes erreichen wollen"'
   
 ---
 
-_English below\*_
+[🇬🇧 Click here for English version](#⋆)
 
 **Inbar Schütte-Perez ist in der veganen Hamburger Szene bekannt, wie keine
 andere. Die vegane Aktivistin organisiert neben vielen anderen Events die
@@ -79,13 +79,11 @@ lebst Du eigentlich schon vegan?
 
 ## "Ich bereue, dass ich nicht schon früher Veganerin wurde"
 
-<RemoteImage
-  alt="inbar-schuette-perez"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_inbar-schuette-perez-1.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_inbar-schuette-perez-1.png__l.jpg"
-  loadingUrl="data:image/jpeg;base64,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" />
+<RemoteImage alt={`inbar-schuette-perez`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_inbar-schuette-perez-1.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_inbar-schuette-perez-1.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,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"
+/>
 
 **Inbar:** Ich lebe jetzt seit über zehn Jahren vegan. Zuerst habe ich mich
 zwanzig Jahre lang vegetarisch ernährt. Eines der Dinge, die ich in meinem Leben
@@ -218,13 +216,11 @@ einzusetzen. Genau, wie vorher.
 
 ## "Du musst nur die Teilnahme bestätigen!"
 
-<RemoteImage
-  alt="inbar-schuette-perez"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-14-inbar-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-14-inbar-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEDBQcCBAb/xAApEAABBAIBAwMDBQAAAAAAAAABAgMEEQAFIRITMQYicSNhkUFCUqGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIFAAP/xAAcEQADAAIDAQAAAAAAAAAAAAAAAQIRIQMSMWH/2gAMAwEAAhEDEQA/AJtMl6DHjmXqrYTRU8gpWkAWD45HI8EfpjypB23p+S9Ijs95f0iqMwQpCf5ebIBr+8p1PqreRp0jWzZUdkpldtUlcf2oaF2vg0asEjngZmPXsqkMNbphLBIK3W4aUWaBsi75UCPFGr4wYqp36Hrh/C73d1AgJSYeqeU90WoOJQ38nnx9vGMx97H2TrrcmGWUJv6jau8BxdEJBNnKS2XrqSlYMjaFxa2wlJVC95Ioq6ipVg3xXxiafdbfdbuJGgT0vxqV3kmMhopIT0jqAv8AcaHPNZsV6OkvCdgupelvuustK6iSQUCv8+5zoe00lqkss8gcFpJH4rDDJ7lMrxTS0xzvlQPU2zShZpsXfzmjFdEPYLeYSELVd9PF/jDDOnHKQvLTa2z/2Q==" />
+<RemoteImage alt={`inbar-schuette-perez`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-14-inbar-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-14-inbar-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEDBQcCBAb/xAApEAABBAIBAwMDBQAAAAAAAAABAgMEEQAFIRITMQYicSNhkUFCUqGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIFAAP/xAAcEQADAAIDAQAAAAAAAAAAAAAAAQIRIQMSMWH/2gAMAwEAAhEDEQA/AJtMl6DHjmXqrYTRU8gpWkAWD45HI8EfpjypB23p+S9Ijs95f0iqMwQpCf5ebIBr+8p1PqreRp0jWzZUdkpldtUlcf2oaF2vg0asEjngZmPXsqkMNbphLBIK3W4aUWaBsi75UCPFGr4wYqp36Hrh/C73d1AgJSYeqeU90WoOJQ38nnx9vGMx97H2TrrcmGWUJv6jau8BxdEJBNnKS2XrqSlYMjaFxa2wlJVC95Ioq6ipVg3xXxiafdbfdbuJGgT0vxqV3kmMhopIT0jqAv8AcaHPNZsV6OkvCdgupelvuustK6iSQUCv8+5zoe00lqkss8gcFpJH4rDDJ7lMrxTS0xzvlQPU2zShZpsXfzmjFdEPYLeYSELVd9PF/jDDOnHKQvLTa2z/2Q=="
+/>
 
 **Inbar:** Es ist total einfach: Klicke einfach in der Facebook-Gruppe auf
 "teilnehmen" und lese Dir die Infos durch!
@@ -384,13 +380,11 @@ Jetzt.
 
 ## Jeden Samstag ist Demotag
 
-<RemoteImage
-  alt="inbar-schuette-perez"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-14-inbar__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-14-inbar__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGAf/EACoQAAICAQMDAgUFAAAAAAAAAAECAwQRAAUhBhIxE0EUIiNRcTJSYXKh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAP/EACIRAAEEAAYDAQAAAAAAAAAAAAEAAhEhBBNRYXHBAxIxgf/aAAwDAQACEQMRAD8Adtb5FtNEmbcJI0RAVjiXIZT/AGUnOASPxqDN1Wt6q0szO9UiOFooqn1JgpJZsnIHnyDz+NUW22Y06lsQbjThlYv6FuzbkLxxAsMMnd+hSVBOAT82PfWhTriHbygqbbCK8EQisyJCjD1WIAYIeeOMD+dL9DFCZ3pOLg6ATEbWlXtwTcIo5JIrksizB+14GDCMN6v78EdqgHjAzpi1d2y1tazR16VdRJ9QWIh3DKuY8BwOQDnPsM6audU2t0uRNamhijmrIkxqIDLGgJ4KnAVz8vA9n5PtrJ3Li290oo0vxSyFI5p0iavP3seFYuMErggMBggEY1j4g63V+oS6Pi5fhjl64jilXvimsRCRCThgXj8jV/S2+oKtJfQQhpLrN3DJYgZBJPnHt9tGjQEnLbx0nADMdz2k1Zng26UxEIcwpwo8GVQf8A1M3rb6tffJRDCq+nNheScYBA8/bJ0aNT4okNrVVYUBzr0X/9k=" />
+<RemoteImage alt={`inbar-schuette-perez`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-14-inbar__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-14-inbar__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGAf/EACoQAAICAQMDAgUFAAAAAAAAAAECAwQRAAUhBhIxE0EUIiNRcTJSYXKh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAP/EACIRAAEEAAYDAQAAAAAAAAAAAAEAAhEhBBNRYXHBAxIxgf/aAAwDAQACEQMRAD8Adtb5FtNEmbcJI0RAVjiXIZT/AGUnOASPxqDN1Wt6q0szO9UiOFooqn1JgpJZsnIHnyDz+NUW22Y06lsQbjThlYv6FuzbkLxxAsMMnd+hSVBOAT82PfWhTriHbygqbbCK8EQisyJCjD1WIAYIeeOMD+dL9DFCZ3pOLg6ATEbWlXtwTcIo5JIrksizB+14GDCMN6v78EdqgHjAzpi1d2y1tazR16VdRJ9QWIh3DKuY8BwOQDnPsM6audU2t0uRNamhijmrIkxqIDLGgJ4KnAVz8vA9n5PtrJ3Li290oo0vxSyFI5p0iavP3seFYuMErggMBggEY1j4g63V+oS6Pi5fhjl64jilXvimsRCRCThgXj8jV/S2+oKtJfQQhpLrN3DJYgZBJPnHt9tGjQEnLbx0nADMdz2k1Zng26UxEIcwpwo8GVQf8A1M3rb6tffJRDCq+nNheScYBA8/bJ0aNT4okNrVVYUBzr0X/9k="
+/>
 
 **Anne:** Wie geht es weiter? Was steht als Nächstes auf dem Plan für Dich und
 für die Aktive Vegans Hamburg?
@@ -450,16 +444,15 @@ Event!
 ⋆ **Hinweis:** Durch die momentane Lage mit Corona wurde der Termin am 21. März
 aus Präventionsgründen abgesagt.
 
-## Fußnoten
+### Fußnoten
 
-[1][inbars kochkurse für israelische küche in der kurkuma kochschule](https://www.kurkuma-hamburg.de/israelisch/)
-
-[2][mitternachtsbus hamburg](
-https://www.diakonie-hamburg.de/de/visitenkarte/diakonie-zentrum-fuer-wohnungslose/mitternachtsbus)
+- [1][inbars kochkurse für israelische küche in der kurkuma kochschule](https://www.kurkuma-hamburg.de/israelisch/)
+- [2][mitternachtsbus hamburg](
+  https://www.diakonie-hamburg.de/de/visitenkarte/diakonie-zentrum-fuer-wohnungslose/mitternachtsbus)
 
 <hr />
 
-_English version_
+<div id="⋆">[⋆]  _English version_ </div>
 
 ## Interview with vegan activist Inbar Schütte-Perez
 
@@ -805,11 +798,10 @@ event!
 **⋆Note:** Due to the ongoing Corona Crisis the workshop on March, 21st is
 cancelled for prevention reasons.
 
-## Foot notes
+### Fußnoten
 
-[1][inbars cooking classes at kurkuma hamburg](https://www.kurkuma-hamburg.de/israelisch/)
-
-[2][mitternachtsbus hamburg](
-https://www.diakonie-hamburg.de/de/visitenkarte/diakonie-zentrum-fuer-wohnungslose/mitternachtsbus)
+- [1][inbars cooking classes at kurkuma hamburg](https://www.kurkuma-hamburg.de/israelisch/)
+- [2][mitternachtsbus hamburg](
+  https://www.diakonie-hamburg.de/de/visitenkarte/diakonie-zentrum-fuer-wohnungslose/mitternachtsbus)
 
   

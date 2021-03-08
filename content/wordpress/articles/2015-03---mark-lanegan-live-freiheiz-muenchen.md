@@ -36,22 +36,20 @@ subTitle: Feat. Lyenn &amp; Duke Garwood
   
 ---
 
-<RemoteImage
-  alt="Mark Lanegan"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Mark Lanegan"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_16454954390_fab402aea4_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_16454954390_fab402aea4_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwj/xAAlEAACAQMFAAICAwAAAAAAAAABAgMABBEFBhIhMRNBYWJxgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABoRAAMBAQEBAAAAAAAAAAAAAAABAhEhElH/2gAMAwEAAhEDEQA/AOadNs2uZVQYyxxknAFWep7WsLGxgMN+l3dhuNwImBiVuTDipxk4ABz4c0p2vBC91bi4Z0hZgHZF5MB94HWTVTeglZZQXDMFLRM4b48t4CKlstLhH6lpnwqHQdYoqkuohNDwHHLDA5EAf6aKdBr4KNq/LHqenrGkErvJGVDEPGSxGA31/INPdwXz3El5MvYNxhuABB4kgnoD7AP90m2buNdP1Kxu763iuUt5Pk4qBG2PwQMZHR7HorTYNqWp1qyfSoLqLSGiBnXVVDNkhjy7HFh2vXoqaePpcT6WIgtXaSDRoZgFVeLEt0Sck/XvgFFUO59moIyltqsRC54pxCoP198opTQVNaf/2Q==" />
-
 **Am 21. Februar besuchte ich mit Matze und meinem lieben Bruder das
 langersehnte Mark Lanegan Konzert. Als Support brachte er den hochmusikalischen
 Belgier Lyenn und keinen geringeren als Duke Garwood mit.**
 
-Mark gastierte,
-[wie schon 2012](http://cardamonchai.aithir.de/2012/08/mark-lenegan-live-freiheiz-munchen/)
+Mark gastierte, [wie schon 2012](/2012/08/mark-lenegan-live-freiheiz-munchen/)
 im Freiheiz in München, eine Location, die ich persönlich sehr schätze, nicht zu
 groß und von jedem Platz aus ein guter Blick auf die Bühne.
+
+<RemoteImage alt={`Mark Lanegan`} size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/sets) Mark Lanegan`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_16454954390_fab402aea4_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_16454954390_fab402aea4_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwj/xAAlEAACAQMFAAICAwAAAAAAAAABAgMABBEFBhIhMRNBYWJxgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABoRAAMBAQEBAAAAAAAAAAAAAAABAhEhElH/2gAMAwEAAhEDEQA/AOadNs2uZVQYyxxknAFWep7WsLGxgMN+l3dhuNwImBiVuTDipxk4ABz4c0p2vBC91bi4Z0hZgHZF5MB94HWTVTeglZZQXDMFLRM4b48t4CKlstLhH6lpnwqHQdYoqkuohNDwHHLDA5EAf6aKdBr4KNq/LHqenrGkErvJGVDEPGSxGA31/INPdwXz3El5MvYNxhuABB4kgnoD7AP90m2buNdP1Kxu763iuUt5Pk4qBG2PwQMZHR7HorTYNqWp1qyfSoLqLSGiBnXVVDNkhjy7HFh2vXoqaePpcT6WIgtXaSDRoZgFVeLEt0Sck/XvgFFUO59moIyltqsRC54pxCoP198opTQVNaf/2Q=="
+/>
 
 Die Halle war gut gefüllt, die Musiker in guter Stimmung. Gebannt lauschten wir
 der Musik. Lyenn kannte ich zuvor noch nicht und ich war sehr beeindruckt, von
@@ -67,7 +65,7 @@ Konzertbesuch in der bayerischen Hauptstadt. Ich hoffe jedoch auf zahlreiche
 Besuche von meinem Bruder in Hamburg und vom Herzmann und mir bei meinem Bruder,
 bei denen die Drei von der Bande wieder gemeinsam Musik genießen werden.
 
-So long... And thanks for all the fish.
+So long... And thanks for all the fish.
 
 <Gallery name="flickr/mamuc" />
 

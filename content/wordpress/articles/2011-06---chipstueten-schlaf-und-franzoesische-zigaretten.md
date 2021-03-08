@@ -15,14 +15,13 @@ labels:
   - Festival
   - Filme
   - Geranien
+  - Geschichten & Erlebtes
   - Musik
   - Pete And The Pirates
-  - Prosa
   - Rucksack
   - Sommer
   - Southside
   - Southside-Festival
-  - Tagebuch
   - verreisen
   - Zigaretten
 type: Artikel
@@ -40,11 +39,13 @@ subTitle: Tagebucheintrag
   
 ---
 
-Es ist ein wunderbar warmer Tag. Genau so darf es bis nächsten Montag bleiben.
+**Es ist ein wunderbar warmer Tag. Genau so darf es bis nächsten Montag bleiben.
 Alles eingepackt. Rucksack beim Zumachen geplatzt. Beim Versuch, ihn zu flicken,
-die Chipstüte mit angenäht. Die bleibt jetzt einfach dran. An der Gemüseseuche
-soll jetzt plötzlich bayerischer Salat schuld sein. Gespannt, was es morgen sein
-wird. Abreise ist für morgen 11 Uhr geplant. Freude kommt auf.
+die Chipstüte mit angenäht.**
+
+Die bleibt jetzt einfach dran. An der Gemüseseuche soll jetzt plötzlich
+bayerischer Salat schuld sein. Gespannt, was es morgen sein wird. Abreise ist
+für morgen 11 Uhr geplant. Freude kommt auf.
 
 Ein tolles Gefühl, wenn die Kollegen einem einen schönen Urlaub wünschen. Die
 Katzen gegossen, die Blumen runter gebracht und den Müll gefüttert. Beim
@@ -52,15 +53,13 @@ Frühstück beschlossen, das Schlafen ab jetzt einfach komplett einzustellen.
 Bringt ja sowieso nichts. Man ist allemal morgens müde. Die nächsten paar Tage
 wird an Schlaf sowieso nicht zu denken sein, und wozu unnötiger Stress? Durchs
 Schlafen geht doch nur Zeit verloren, in der man sich auch mit
-sinn<del>vollen</del>losen Dingen beschäftigen könnte. Für heute Abend ist ein
+sinn<del>vollen</del>losen Dingen beschäftigen könnte. Für heute Abend ist ein
 Almodovar-Film-Marathon geplant. Einfach die Füße aus dem Fenster hängen, die
 Abendsonne genießen, der Geruch von filterlosen französischen Zigaretten vom
 Balkon untendrunter mischt sich mit dem der Geranien nebenan. Ein Fußball knallt
 gegen das Hoftor. So sollte sich Sommer doch anfühlen, oder?
 
-**Song des Tages:**
-
-Pete And The Pirates - Knots
+## Song des Tages: Pete And The Pirates - "Knots"
 
 [youtube=http://www.youtube.com/watch?v=CfgmPqsJQj4]
 

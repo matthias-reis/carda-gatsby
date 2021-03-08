@@ -10,7 +10,6 @@ excerpt: Erster Mai - Ein Tag der Gegensätze. Konzerte und Bilder von Blumen un
   auf der anderen Seite? Brennende Barrikaden und wachsende Wut.
 focusKeyword: Erster Mai
 labels:
-  - 1. Mai
   - Blumen
   - Blüten
   - Erster Mai
@@ -18,14 +17,14 @@ labels:
   - Fotos
   - Frühling
   - Gegensätze
+  - Geschichten & Erlebtes
   - Hamburg
   - Hamburg Altona
   - Loki Schmidt Garten
-  - Lyrik
   - Maidemo
   - Tag der Arbeit
 type: Galerie mit Bild
-typeName: Galerie mit Bild
+typeName: Gedicht
 date: 2018-05-01T18:45:03.000Z
 status: publish
 isWerbung: false
@@ -49,6 +48,8 @@ grau war, habe ich mir die Zeit genommen, sie zu entwicklen.
 Außerdem ist ein kleiner Text dazu entstanden. Er soll die Nachrichten und
 Impressionen des Tages in Worte fassen.
 
+<blockquote>
+
 ## Wut und Gesang
 
 **Erster Mai.**
@@ -65,17 +66,22 @@ spricht von Erfolg.**
 
 &nbsp;
 
-_ **Erster Mai.** _
+Erster Mai.
 
-_ **Freundliches Wetter, gute Stimmung.** _
+Freundliches Wetter, gute Stimmung.
 
-_ **Mit zarter Tremolomusik interpretiert das Orchester zunächst "Nocturno".** _
-_ **Wassertriebe streben voller Hoffnung in Richtung Licht.** _
+Mit zarter Tremolomusik interpretiert das Orchester zunächst "Nocturno". _
+\_\_\_\_ _ Wassertriebe streben voller Hoffnung in Richtung Licht.
 
-_ **Wider die Geometrie.** _ _ **Fröhlich und bunt.** _
+Wider die Geometrie.
 
-_ **Freunde von Musik und Gesang kommen an diesem Tag auf Ihre Kosten.** _ _
-**Der Graf weint Tränen der Liebe.** _
+Fröhlich und bunt.
+
+Freunde von Musik und Gesang kommen an diesem Tag auf Ihre Kosten.
+
+Der Graf weint Tränen der Liebe.
+
+</blockquote>
 
 ## News &amp; Infos
 

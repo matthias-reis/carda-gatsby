@@ -45,6 +45,10 @@ subTitle: Konzert mit Calexico
   
 ---
 
+**Das war eine tolle Überraschung, als sich herausstellte, das Blind Pilot als
+Vorband von Calexico auftreten würden. Ich mag die Band sehr, bisher hatte sich
+allerdings noch keine Gelegenheit ergeben, sie live zu genießen. Bis gestern.**
+
 Und ich muss sagen, meine Erwartungen wurden noch bei Weitem übertroffen. Die
 Band aus Portland/Oregon überzeugte auf der ganzen Linie. Auch Calexico ließen
 es sich nicht nehmen, vor und nach ihrem Auftritt einige Lieder zusammen mit

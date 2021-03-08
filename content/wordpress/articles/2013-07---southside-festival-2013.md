@@ -16,11 +16,11 @@ labels:
   - boysetsfire
   - Festival
   - Festivals
+  - Geschichten & Erlebtes
   - hives
   - Southside Festival 2013
   - Southside-Festival
   - steven wilson
-  - Tagebuch
   - vaccines
 type: Artikel
 typeName: Artikel
@@ -37,17 +37,20 @@ subTitle: Die Bildergalerie
   
 ---
 
+**Leider war ich die Tage nach dem Festival ziemlich krank, eine Augenentzündung
+der besonders fiesen Sorte hatte mich aus dem Verkehr gezogen. Doch nun kann ich
+zumindest wieder einigermaßen gut sehen und somit auch tippen und Fotos
+sortieren.**
+
 Höchste Zeit, Euch endlich meine Schnappschüsse vom diesjährigen
 Southside-Festival zu präsentieren. Es sei nur soviel gesagt: Wir hatten dieses
 Jahr extremes Glück mit dem Wetter!
 
-<RemoteImage
-  alt="Southside"
-  size="medium"
-  title="Eulenaugenbändchen"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_07_foto__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_07_foto__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwP/xAArEAABAwMDAgUEAwAAAAAAAAABAgMRBAUGABIhEzEHIkFRYRWBkaEWQvD/xAAYAQADAQEAAAAAAAAAAAAAAAAEBQYBA//EACMRAAEEAQMEAwAAAAAAAAAAAAEAAgMRBBIhUQUiQdExceH/2gAMAwEAAhEDEQA/ACMwyW90+VXxr61eGqZuvfQ2lircSEJCzAASeB9o0BTZVfXHNv8AJLisTCAurWhRn3kwf0dLswugZzjImG3WUKF0fO0lMqV1DABmQfx7aCbvohfWdbDSeVpV5kj5MGf0fXU1IJw81Z35Kr4o4XxtsC6HhVzOSX9K+km8XJaSQNya1fB477uY+/rrSfD2trXqxbNwulU++g7iw88VRMQQSZI+NY/S1KBR7gGXKcBClgK8qAqYmZEfj41dYZeUMZPS2t9xbNay+0h2kXCiyFkbZBG5JMiDJ7/OjMZz7FgpZnRNa2hSl83y+w2PObiuls1XW1zNa91lN0QSkOypJIUUyT3MgweDx30mV4jUtweUKqxXEIc2BUJbQAAQfMVpO8SOx7aaZdiGQVeX5G9T47dHUu177rL/AESQtJWYKFAxB/06WOYVkqyVKx689gPPTSYPfsefzpi7qk7e3R8fftdY4IXNGp+9c/q401ypLqm5reoaxuofpxT03TShzoISsqBhSxuXukkkf2IGnGCqrrx4m2263yloKeqeqmVuKo3Uy+8kRuUkk7eBJA5JjQ1NhWTMkFNhuZCefPTTuM+hEEaf4ZYckYzGzP11gurLKKxtTjzrIKW0D3VPYe/caFkz8idwBZtfB9rJYINJOqzR8hf/2Q==" />
+<RemoteImage alt={`Southside`} size="medium" title={`Eulenaugenbändchen`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_07_foto__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_07_foto__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwP/xAArEAABAwMDAgUEAwAAAAAAAAABAgMRBAUGABIhEzEHIkFRYRWBkaEWQvD/xAAYAQADAQEAAAAAAAAAAAAAAAAEBQYBA//EACMRAAEEAQMEAwAAAAAAAAAAAAEAAgMRBBIhUQUiQdExceH/2gAMAwEAAhEDEQA/ACMwyW90+VXxr61eGqZuvfQ2lircSEJCzAASeB9o0BTZVfXHNv8AJLisTCAurWhRn3kwf0dLswugZzjImG3WUKF0fO0lMqV1DABmQfx7aCbvohfWdbDSeVpV5kj5MGf0fXU1IJw81Z35Kr4o4XxtsC6HhVzOSX9K+km8XJaSQNya1fB477uY+/rrSfD2trXqxbNwulU++g7iw88VRMQQSZI+NY/S1KBR7gGXKcBClgK8qAqYmZEfj41dYZeUMZPS2t9xbNay+0h2kXCiyFkbZBG5JMiDJ7/OjMZz7FgpZnRNa2hSl83y+w2PObiuls1XW1zNa91lN0QSkOypJIUUyT3MgweDx30mV4jUtweUKqxXEIc2BUJbQAAQfMVpO8SOx7aaZdiGQVeX5G9T47dHUu177rL/AESQtJWYKFAxB/06WOYVkqyVKx689gPPTSYPfsefzpi7qk7e3R8fftdY4IXNGp+9c/q401ypLqm5reoaxuofpxT03TShzoISsqBhSxuXukkkf2IGnGCqrrx4m2263yloKeqeqmVuKo3Uy+8kRuUkk7eBJA5JjQ1NhWTMkFNhuZCefPTTuM+hEEaf4ZYckYzGzP11gurLKKxtTjzrIKW0D3VPYe/caFkz8idwBZtfB9rJYINJOqzR8hf/2Q=="
+/>
 
 Ein kleines Highlight für Hoochi und mich: Wie wir es uns gewünscht hatten gab
 es passend zur neuen Southside-Hompage in diesem Jahr lila Bändchen mit

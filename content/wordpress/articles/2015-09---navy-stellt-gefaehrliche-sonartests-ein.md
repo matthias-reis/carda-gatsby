@@ -12,7 +12,6 @@ excerpt: Seit vielen Jahren führt die US Navy ihre Sonartests in ökologisch
   geführt.
 focusKeyword: Sonartests
 labels:
-  - Darum vegan
   - Dekompressionskrankheit
   - Hawaii
   - Kalifornien
@@ -42,6 +41,10 @@ subTitle: Erfolg für NRDC
   
 ---
 
+**Seit vielen Jahren führt die US Navy ihre Sonartests in ökologisch sensiblen
+Bereichen des Meeres durch. Das hat zu einem besorgniserregenden Rückzug der
+Meerestiere aus ihren gewohnten Gebieten geführt.**
+
 Als der National Marine Fisheries Service 2014 einen kontrovers diskutierten
 Fünfjahresplan für die Tests an der hawaiianischen und kalifornischen Küste
 veröffentlichte, schaltete sich unter anderem das National Resources Defense
@@ -51,7 +54,9 @@ ausgelöst worden. Sprecher Joel Reynold dazu:
 
 > "Wir wollten eine Erklärung dafür haben, wie der National Marine Fisheries
 > Service eine derart große Zahl von Verletzungen noch als 'Schutz der
-> Meerestiere' bezeichnen konnte."## Einigung in zwei Fällen
+> Meerestiere' bezeichnen konnte."
+
+## Einigung in zwei Fällen
 
 Am Bundesgericht in Honolulu konnte in zwei Fällen eine Einigung erzielt werden.
 Die Navy stimmte dabei das erste Mal zu, in den betroffenen Gebiete vor Hawaii
@@ -64,7 +69,7 @@ der Blauwale, Zahnwale, Cuvier-Schnabelwale, Hawaiianischen **Mönchsrobben** un
 vieler weiterer Meerestiere ermöglicht.
 
 Ab sofort ist die Durchführung von Trainings der Navy im Kanal zwischen Maui und
-der Insel Hawaii sowie auf der Westseite von Hawaii untersagt. Zudem wurden
+der Insel Hawaii sowie auf der Westseite von Hawaii untersagt. Zudem wurden
 Tempolimits eingeführt und zu extremer Vorsicht aufgerufen. Das NDRC begrüßt die
 Entscheidung.
 

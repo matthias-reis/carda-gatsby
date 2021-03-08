@@ -35,6 +35,9 @@ subTitle: Eine Sozialbausiedlung mit Geschichte
   
 ---
 
+**1521 wurde die Fuggerei von Jakob Fugger als Wohnsiedlung für Bedürftige
+gegründet.**
+
 Sie besteht aus 67 Häusern. Insgesamt gibt es dort 140 Wohnungen, eine Kapelle
 und das Verwaltungsgebäude. Jede Wohnung ist ca. 60 qm groß. Derzeit leben ca.
 150 Menschen in der Fuggerei. Sogar der Urgroßvater von Wolfgang Amadeus Mozart,

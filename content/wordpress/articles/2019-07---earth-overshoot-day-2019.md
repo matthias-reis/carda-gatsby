@@ -65,27 +65,22 @@ Ausmaß der Dringlichkeit bewusst.
 Jedes Jahr nehmen wir der Erde mehr weg. Das Global Footprint Network rechnet
 übrigens auch aus, wie viele Erden wir benötigen würden, wenn alle Menschen so
 leben würden, wie es dem Standard bestimmter Länder entspricht. Bei den USA
-wären es 5, bei Deutschland 3, bei [England](/category/unterwegs/england/) 2,7
-und bei Spanien 2,5.
+wären es 5, bei Deutschland 3, bei England 2,7 und bei Spanien 2,5.
 
-<RemoteImage
-  alt="earth-overshoot-day-2019"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_How_many_Earths_2019_German_update-medium-768x1261__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_How_many_Earths_2019_German_update-medium-768x1261__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABMDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwYI/8QAKhAAAgEDAgQFBQEAAAAAAAAAAQIDAAQREiEFMUFhBiIyUeETFCMzgaH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQL/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIRISJB/9oADAMBAAIRAxEAPwDpYFJpphruFIdlwHYDI/lJTxsC7MAhumYSGMD7jniQp7ds06ihzNcMGJwzsSByz03PxWc4BEp8TuwLEq05/UigfkfqGJ/yt3gKdp0jY2xc28RkjMblQWQtqKnG4z1x70VbRWBRVB5ri4PlOl5Onp+aS+GFEvH751kdhGZMjOwJlk7djTmE3Iv5w9m8cWpsStMGBB6hQDv2OKjgcDwG5+pbvE7yswZ5NesFmIOBsvq5VeBvaSY3ooHLeioIf//Z" />
+<RemoteImage alt={`earth-overshoot-day-2019`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_How_many_Earths_2019_German_update-medium-768x1261__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_How_many_Earths_2019_German_update-medium-768x1261__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABMDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwYI/8QAKhAAAgEDAgQFBQEAAAAAAAAAAQIDAAQREiEFMUFhBiIyUeETFCMzgaH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQL/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIRISJB/9oADAMBAAIRAxEAPwDpYFJpphruFIdlwHYDI/lJTxsC7MAhumYSGMD7jniQp7ds06ihzNcMGJwzsSByz03PxWc4BEp8TuwLEq05/UigfkfqGJ/yt3gKdp0jY2xc28RkjMblQWQtqKnG4z1x70VbRWBRVB5ri4PlOl5Onp+aS+GFEvH751kdhGZMjOwJlk7djTmE3Iv5w9m8cWpsStMGBB6hQDv2OKjgcDwG5+pbvE7yswZ5NesFmIOBsvq5VeBvaSY3ooHLeioIf//Z"
+/>
 
 Weltweit finden am morgigen Earth Overshoot Day 2019 Veranstaltungen statt, um
 auf das Problem aufmerksam zu machen. So auch bei uns in Hamburg:
 
-<RemoteImage
-  alt="earth-overshoot-day-2019"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-31-44__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-31-44__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBAwQF/8QALBAAAgEDAwIFAgcAAAAAAAAAAQIDBAURABIhEzEGByJBYRUyFCRCUXGRsf/EABkBAAIDAQAAAAAAAAAAAAAAAAACAQMEBf/EAB0RAQACAQUBAAAAAAAAAAAAAAEABAIDESEicTL/2gAMAwEAAhEDEQA/AKri6x2+pd0MirGSVBxkalfCqXazfiLVJArSx5iLNIzA+5OARxg6LgkclDUJO5jiaMh3ABKj3OD31ptlVT1Vtd6Sot9DBEp6FHGqH0oWJdyRx6snBJHIOs2LOdU+WJppauleaorbHWxW9ThZZgUxlsBjn4xxpwWOOFVjgGIQo2DOfSQCP90rVZj2RV9yhL0xcSAdNBHK4yTFjbu/Tz/Pzpq6hmxIVhTcAdsH2LwOF4HA7dtKu7C29SV1EFFUwyQXWsaht8ilaiqUZMKHuw+dY/FNL5W3aq6ts8W1VimTABpKeeSOQrja5jKBQTgk7SATzjRo1dpHEekb4Psqscfl7Q3Ge6Xrx5U36YO8y0U9vlip5XZdpLJtP7ngY7Z104vpvTX6EWa04/KlixPT9vu9X986NGo1ADiF0DA9n//Z" />
+<RemoteImage alt={`earth-overshoot-day-2019`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-31-44__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-31-44__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBAwQF/8QALBAAAgEDAwIFAgcAAAAAAAAAAQIDBAURABIhEzEGByJBYRUyFCRCUXGRsf/EABkBAAIDAQAAAAAAAAAAAAAAAAACAQMEBf/EAB0RAQACAQUBAAAAAAAAAAAAAAEABAIDESEicTL/2gAMAwEAAhEDEQA/AKri6x2+pd0MirGSVBxkalfCqXazfiLVJArSx5iLNIzA+5OARxg6LgkclDUJO5jiaMh3ABKj3OD31ptlVT1Vtd6Sot9DBEp6FHGqH0oWJdyRx6snBJHIOs2LOdU+WJppauleaorbHWxW9ThZZgUxlsBjn4xxpwWOOFVjgGIQo2DOfSQCP90rVZj2RV9yhL0xcSAdNBHK4yTFjbu/Tz/Pzpq6hmxIVhTcAdsH2LwOF4HA7dtKu7C29SV1EFFUwyQXWsaht8ilaiqUZMKHuw+dY/FNL5W3aq6ts8W1VimTABpKeeSOQrja5jKBQTgk7SATzjRo1dpHEekb4Psqscfl7Q3Ge6Xrx5U36YO8y0U9vlip5XZdpLJtP7ngY7Z104vpvTX6EWa04/KlixPT9vu9X986NGo1ADiF0DA9n//Z"
+/>
 
 Informiert Euch am besten direkt beim Global Footprint Network, was in Eurer
 Stadt los ist und schließt Euch den Demos und Vorträgen an. Je mehr Menschen
@@ -128,13 +123,11 @@ wirklich jedem\*r ans Herz legen. Es hilft sehr dabei, sich in Richtung
 nachhaltigerer Lebenswandel zu orientieren und das eigene Verhalten zu
 hinterfragen.
 
-<RemoteImage
-  alt="earth-overshoot-day-2019"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-36-23__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-36-23__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBAUGB//EACkQAAIBAwMDAwQDAAAAAAAAAAECAwQFEQASIQYxQRMUIjJRYXEHI8H/xAAZAQABBQAAAAAAAAAAAAAAAAACAAEDBAX/xAAjEQACAQIEBwAAAAAAAAAAAAAAAQIDERMhUWESFDFCkaGx/9oADAMBAAIRAxEAPwDI0nT0FdcK2Cmi32yhleBCrFPcvkBnGTuYKcqBzyTjzpvVFbQ0woraiOluTP8ASqkN8uDvz3Jx5+nA1J6RgslTHBVS1dVI1OPWVJnihKbVzuLF+SeTgc5GofUlAt6qJbha7qLnULC0zxLTsZo0zjdLgBAOe/586p4cuJXeQnFPoUrGyrNJJBaKqRHPd2kHb9Nzo1UJJdqV3Wmpq4E/WEVgAf0e2jUuHLX2NbY6mv8AHlvs9ppJoXm9K6RNgJMTIqqxBGduVzu5weR30y1dN0dpffSe6QM250d8pJxj5LjB/wAPOttWXGmNs6ZWGXfNRrJ66KCpQlwQMnjsPGluF5gqadg0CyuCCgmw4+2T8u+M9tC3uZTrTTylp8MrFSPFUTTRV1wjeYgvtqWAJHnH350amSNvkZtqpuOdqDAH4A0aCyB5uuu9+T//2Q==" />
+<RemoteImage alt={`earth-overshoot-day-2019`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-36-23__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-36-23__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBAUGB//EACkQAAIBAwMDAwQDAAAAAAAAAAECAwQFEQASIQYxQRMUIjJRYXEHI8H/xAAZAQABBQAAAAAAAAAAAAAAAAACAAEDBAX/xAAjEQACAQIEBwAAAAAAAAAAAAAAAQIDERMhUWESFDFCkaGx/9oADAMBAAIRAxEAPwDI0nT0FdcK2Cmi32yhleBCrFPcvkBnGTuYKcqBzyTjzpvVFbQ0woraiOluTP8ASqkN8uDvz3Jx5+nA1J6RgslTHBVS1dVI1OPWVJnihKbVzuLF+SeTgc5GofUlAt6qJbha7qLnULC0zxLTsZo0zjdLgBAOe/586p4cuJXeQnFPoUrGyrNJJBaKqRHPd2kHb9Nzo1UJJdqV3Wmpq4E/WEVgAf0e2jUuHLX2NbY6mv8AHlvs9ppJoXm9K6RNgJMTIqqxBGduVzu5weR30y1dN0dpffSe6QM250d8pJxj5LjB/wAPOttWXGmNs6ZWGXfNRrJ66KCpQlwQMnjsPGluF5gqadg0CyuCCgmw4+2T8u+M9tC3uZTrTTylp8MrFSPFUTTRV1wjeYgvtqWAJHnH350amSNvkZtqpuOdqDAH4A0aCyB5uuu9+T//2Q=="
+/>
 
 Schaubilder im Artikel / pictures in this article:
 [Global Footprint Network, overshootday.org](https://www.overshootday.org/newsroom/press-release-june-2019-german/)

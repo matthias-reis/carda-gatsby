@@ -18,12 +18,12 @@ labels:
   - Gärtchen
   - Gärten
   - Gartenbaukunst
+  - Geschichten & Erlebtes
   - Graffiti
   - Hamburg
   - Hamburg
   - Laube
   - Nächstenliebe
-  - Prosa
   - Schrebergarten
   - Seneca
   - Stencil
@@ -87,13 +87,11 @@ Stencil-Ideen arbeitet.
 
 ### Eine Kurzgeschichte
 
-<RemoteImage
-  alt="Streetart"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_C292D52E-5864-4FAA-8128-E10189A06778__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_C292D52E-5864-4FAA-8128-E10189A06778__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBAb/xAAsEAACAQMCBQIFBQAAAAAAAAABAgMABBEFBgcSEyExFEEIFSJR8BZxgbHh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAL/xAAiEQABAwIGAwAAAAAAAAAAAAABAAIDBBESEyEzYbFBUYH/2gAMAwEAAhEDEQA/AMXAq3Rdu7nhj5QnzOAc2CQMQv7efc0ybO1W+F4wv7OSJYQzyXVsI1jj++ccvbv3IBGPNLz4d72TUNu63dzJEkj6ra5Ea8qjEBHj+Kbm7NR0/b+i3d3dzQ2ts8qGc9Lq/SzAMemAS2R2wB5P7mopZ3wue0cdI0tLTzueZQS7S1jYD3ceUreN94y7Emyzxy+ttYwWAXwXYEYOCMLkGpzYFjkHm+/1ZqhuOkgfYVjexlFefUbYAKMrydGd1xkZ8EVP0rOztmZWx4/MUeA3bfk9lKpmhsQATc4K6v8AIp32+LdbiO+n9SZicFSiMuOXBBBH4abG57Ftw6gQtw9rHa6VMlumA4jlmbpmXHYErGCqg+Cc+1FFDhmfmHVGxnMIXJ8fpV/SVnhXSNtYACo2CALeUAZwf6qeLghYJGBbABOCf8oopVLtj72UqDbC/9k=" />
+<RemoteImage alt={`Streetart`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_C292D52E-5864-4FAA-8128-E10189A06778__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_C292D52E-5864-4FAA-8128-E10189A06778__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBAb/xAAsEAACAQMCBQIFBQAAAAAAAAABAgMABBEFBgcSEyExFEEIFSJR8BZxgbHh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAL/xAAiEQABAwIGAwAAAAAAAAAAAAABAAIDBBESEyEzYbFBUYH/2gAMAwEAAhEDEQA/AMXAq3Rdu7nhj5QnzOAc2CQMQv7efc0ybO1W+F4wv7OSJYQzyXVsI1jj++ccvbv3IBGPNLz4d72TUNu63dzJEkj6ra5Ea8qjEBHj+Kbm7NR0/b+i3d3dzQ2ts8qGc9Lq/SzAMemAS2R2wB5P7mopZ3wue0cdI0tLTzueZQS7S1jYD3ceUreN94y7Emyzxy+ttYwWAXwXYEYOCMLkGpzYFjkHm+/1ZqhuOkgfYVjexlFefUbYAKMrydGd1xkZ8EVP0rOztmZWx4/MUeA3bfk9lKpmhsQATc4K6v8AIp32+LdbiO+n9SZicFSiMuOXBBBH4abG57Ftw6gQtw9rHa6VMlumA4jlmbpmXHYErGCqg+Cc+1FFDhmfmHVGxnMIXJ8fpV/SVnhXSNtYACo2CALeUAZwf6qeLghYJGBbABOCf8oopVLtj72UqDbC/9k="
+/>
 
 Janet lief durch den Park. Ganz unbeschwert. Das Wetter war schön. Es war
 angenehm warm. Ein mildes Lüftchen wehte durch die Pappeln am Wegesrand. In der
@@ -224,12 +222,10 @@ Bilder entstanden. Bewundern kann man sie
 \*\*\*\*Auch die [Zonenkinder](https://www.instagram.com/zonenkinder/) sind auf
 Instagram vertreten.
 
-<RemoteImage
-  alt="Streetart"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_werkzeuge__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_werkzeuge__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAARACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAFBwj/xAAwEAACAQMDAgQBDQAAAAAAAAABAgMEBREABhITISIxQXQHFBU0NTY4YXWys7TBwv/EABcBAAMBAAAAAAAAAAAAAAAAAAIEBQH/xAAlEQABAwEHBQEAAAAAAAAAAAABAAIDcQQRMTIzQcESIlGx8ML/2gAMAwEAAhEDEQA/ABNsv0VFFWfPs0jLLSg0MpRJJYpmPgkSNmCsDhlJPl2Olxu1pa0w3S5wUsdXJTRpVJXxhjXcQwj4soEcch8JIUZAUZ8s6J1Fvq5K2tvdlttTSSUxjWGEUA4qCpSSTljprgjOCPUnPbTv4b/D+XdG2q6G+C5fIaZxHQRxMjP1ApLO8g7NhiBxyB4e+isk4vdd3EYeK/bJOSMyM6cN9ifvSxd0bQt9FZbzerXVFqClkhEEiypUw1ZdgMROpBTBJOGDYAwToHLOiNyOeXZTIO/bTHdWzq/bi1kdzSDjwdKTCdeVViQyZcx4CNgeufP10OaKYUsdQXTpzxiQBWzjv3B/Ef3pO0xuab24LSxzQF6Y2H9SVPvp/wBS6S2/7Pbd9037jatWplgzS0HKoHWNeVyfcv0W9/mtT/E1hVP3eNke/wD9Pq1arz6AoeEbsstR+l//2Q==" />
+<RemoteImage alt={`Streetart`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_werkzeuge__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_werkzeuge__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAARACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAFBwj/xAAwEAACAQMDAgQBDQAAAAAAAAABAgMEBREABhITISIxQXQHFBU0NTY4YXWys7TBwv/EABcBAAMBAAAAAAAAAAAAAAAAAAIEBQH/xAAlEQABAwEHBQEAAAAAAAAAAAABAAIDcQQRMTIzQcESIlGx8ML/2gAMAwEAAhEDEQA/ABNsv0VFFWfPs0jLLSg0MpRJJYpmPgkSNmCsDhlJPl2Olxu1pa0w3S5wUsdXJTRpVJXxhjXcQwj4soEcch8JIUZAUZ8s6J1Fvq5K2tvdlttTSSUxjWGEUA4qCpSSTljprgjOCPUnPbTv4b/D+XdG2q6G+C5fIaZxHQRxMjP1ApLO8g7NhiBxyB4e+isk4vdd3EYeK/bJOSMyM6cN9ifvSxd0bQt9FZbzerXVFqClkhEEiypUw1ZdgMROpBTBJOGDYAwToHLOiNyOeXZTIO/bTHdWzq/bi1kdzSDjwdKTCdeVViQyZcx4CNgeufP10OaKYUsdQXTpzxiQBWzjv3B/Ef3pO0xuab24LSxzQF6Y2H9SVPvp/wBS6S2/7Pbd9037jatWplgzS0HKoHWNeVyfcv0W9/mtT/E1hVP3eNke/wD9Pq1arz6AoeEbsstR+l//2Q=="
+/>
 
   

@@ -10,16 +10,16 @@ excerpt: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von
   Donnerstag, 10. Mai bis Samstag, 12. Mai 36 Post-Rock Bands auf.
 focusKeyword: Postrock
 labels:
-  - As We Keep Searching
+  - aswekeepsearching
   - Belgien
   - Besides
   - Caspian
   - Catberry Pastries
   - Chile
-  - Dunk Fest
   - Dunk Festival
   - Dunk Records
-  - Dunkfestival
+  - DUNK! Festival
+  - DUNK! Records
   - EF
   - electronic
   - Elektronik
@@ -32,7 +32,7 @@ labels:
   - Kelly Watch The Shoes
   - La Bestia De Gevaudan
   - Norwegen
-  - Post Rock
+  - Post-Rock
   - Postrock
   - Russian Circles
   - Schweden
@@ -48,7 +48,7 @@ labels:
   - Tomas Torsson
   - Tortuganonima
   - vegan Festival
-  - Worried About Satan
+  - worriedaboutsatan
   - Zottegem
 type: Artikel
 typeName: Artikel
@@ -77,14 +77,14 @@ Auftritt von Ef entstanden. Das Festival war, genau wie schon
 echter Traum. Gute Musik rund um die Uhr, lauter nette Menschen, keine
 Partytouristen und ein Gefühl von Familie und guter Laune.
 
-## Ef und Worried About Satan
+## Ef und worriedaboutsatan
 
-Meine Favoriten waren Ef aus Schweden, Besides, As We Keep Searching aus Indien,
-Soup aus Norwegen, die Chellistin Jo Quail und das Elektronik-Duo Worried About
-Satan aus [Großbritannien](/category/unterwegs/england/), The Ills aus der
-Slowakei, Grails aus den USA, La Bestia De Gevaudan und Tortuganonima aus Chile,
-The Ocean aus Deutschland und der Schweiz und natürlich Caspian und <a>Russian
-Circles</a> aus den USA.
+Meine Favoriten waren Ef aus Schweden, Besides, aswekeepsearching aus Indien,
+Soup aus Norwegen, die Chellistin Jo Quail und das Elektronik-Duo
+worriedaboutsatan aus [Großbritannien](/category/slow-travel/britische-inseln),
+The Ills aus der Slowakei, Grails aus den USA, La Bestia De Gevaudan und
+Tortuganonima aus Chile, The Ocean aus Deutschland und der Schweiz und natürlich
+Caspian und <a>Russian Circles</a> aus den USA.
 
 Insgesamt war das Event auch in diesem Jahr wieder ein internationales. Bands
 und Zuschauer reisten aus den verschiedensten Winkeln der Erde von Japan bis
@@ -144,7 +144,7 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_0
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-31__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-31__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-30__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-30__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-29__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-29__l.jpg"}]}
 />
 
-## As We Keep Searching
+## aswekeepsearching
 
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-42__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-42__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-33__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-33__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-32__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-32__l.jpg"}]}
@@ -169,8 +169,9 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_0
 1.  [DUNK!festival 2017 - Liebe auf den ersten Blick](/2017/06/dunk-festival-2017-eindruecke-und-bilder/)
 1.  [DUNK!festival 2018 - Das Line-up](/2018/04/dunkfest-2018-wir-kommen/)
 1.  [Wir läuten die Festivalsaison ein - Kurze Auszeit](/2018/05/wir-laeuten-die-festivalsaison-ein/)
-1.  DUNK!festival 2018 - Liebe für immer
-1.  DUNK!festival 2019 - das Line-up
+1.  [DUNK!festival 2018 - Liebe für immer](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/)
+1.  [DUNK!festival 2019 - das Line-up](/2019/05/dunkfestival-2019/)
+1.  [DUNK!festival 2020 - Playlist - 28 ganz besondere Songs](/2020/05/dunk-festival-2020/)
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

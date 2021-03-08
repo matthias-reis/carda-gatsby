@@ -11,17 +11,17 @@ excerpt: Fährt man den Slea Head Drive im Anschluss an den Inch Beach immer
 focusKeyword: Dingle
 labels:
   - Atlantik
-  - Brititsche Inseln
+  - Britische Inseln
   - Delphin
   - Delphin Fungie
   - Dingle
   - Dolphin
+  - Fernweh
   - Festung
   - Fungie
   - Hafenstadt
   - Irland
   - Irland2017
-  - Reisen
   - Slea Head Drive
 type: Galerie mit Bild
 typeName: Galerie mit Bild

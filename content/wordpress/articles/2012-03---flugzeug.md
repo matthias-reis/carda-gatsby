@@ -19,6 +19,7 @@ labels:
   - fliegen
   - Flugangst
   - Fluggäste
+  - Geschichten & Erlebtes
   - Glosse
   - Hörsturz mit 29
   - Im Falle eines Druckabfalls in der Kabine setzen sie bitte erst sich selbst
@@ -31,7 +32,6 @@ labels:
   - lesen
   - Musik hören
   - Pilot
-  - Prosa
   - Prosa
   - Psychose durch Mitreisende
   - Queens Of The Stone Age
@@ -60,21 +60,27 @@ subTitle: Eine Geschichte aus dem Leben
 
 <hr />
 
-<RemoteImage
-  alt="Bild: Anne 3/2012"
-  size="medium"
-  title="Bild: Anne 3/2012"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_03_2012-03-02-16-54-47__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_03_2012-03-02-16-54-47__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAIH/8QAKRAAAQMCBQMDBQAAAAAAAAAAAQIDBAARBQYSIXETMYEiM0FRYaGxwf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABcRAQEBAQAAAAAAAAAAAAAAAAABEQL/2gAMAwEAAhEDEQA/AHyXrjvXDj4A3NIpEmWyzqajuSLW2a3uPm3H8rDIxoN31sS0kG3rZKf3ao4onJH0oqJlZkUk+mOsj7rFFGwH+AykycLhuXsVspVf5vbf81vek9Nol/dsd1AduRXl2S83R4kcQsR1pbT7byUlQSO+lQG/mrAZkwvSSiZ1dzYNsuLJ8BNGtGEyLBkp1LjMOAi4VpG/kUVMzccZjpUvC4eIOLO/TW10mlc6yCOQL80UXqDK/9k=" />
+**Hinweis:** Hin und wieder schreibe ich Kurzgeschichten. Ab und an landet auch
+eine davon hier im Blog. Diese hier ist eine davon. Jede Ähnlichkeit der in
+dieser Geschichte vorkommenden Figuren und Handlungen mit real existierenden
+Personen oder Vorkommnissen ist rein zufällig und in keiner Weise beabsichtigt.
+Die Geschichte ist frei erfunden.
+
+<hr />
+
+<RemoteImage alt={`Bild: Anne 3/2012`} size="medium" title={`Bild: Anne 3/2012`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_03_2012-03-02-16-54-47__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_03_2012-03-02-16-54-47__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAIH/8QAKRAAAQMCBQMDBQAAAAAAAAAAAQIDBAARBQYSIXETMYEiM0FRYaGxwf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABcRAQEBAQAAAAAAAAAAAAAAAAABEQL/2gAMAwEAAhEDEQA/AHyXrjvXDj4A3NIpEmWyzqajuSLW2a3uPm3H8rDIxoN31sS0kG3rZKf3ao4onJH0oqJlZkUk+mOsj7rFFGwH+AykycLhuXsVspVf5vbf81vek9Nol/dsd1AduRXl2S83R4kcQsR1pbT7byUlQSO+lQG/mrAZkwvSSiZ1dzYNsuLJ8BNGtGEyLBkp1LjMOAi4VpG/kUVMzccZjpUvC4eIOLO/TW10mlc6yCOQL80UXqDK/9k="
+/>
 
 Vor Dir sitzt ein quengelndes, zappelndes, kaugummimampfendes Kind und spielt
 bei voll aufgedrehter Lautstärke ein Kampfroboterspiel auf seiner blinkenden
 Mitnahmespielkonsole. Hinter Dir treten zwei nicht minder zappelige, völlig
 überdrehte Noch-Teenies gegen Deinen Sitz, finden alles total spannend und
 lästern seit Stunden lautstark über ihre eigentlich allerbeste, gemeinsame
-Freundin, die ja so unglaublich "assi" ist und Eigenschaften hat, die "krass zum
-Kotzen" sind.
+Freundin, die ja so unglaublich "assi" ist und Eigenschaften hat, die  "krass
+zum Kotzen" sind.
 
 Der Vielflieger auf dem Platz schräg gegenüber nimmt alles betont gelassen,
 verdreht seine Augen um gefühlte 360 Grad, stopft sich die Kopfhörer seines
@@ -106,7 +112,7 @@ des Säuglings, der etwas weiter hinten seine Eltern auf Trapp hält. Seine
 Duftnote breitet sich, langsam aber stetig wabernd, über die gesamte Kabine aus.
 
 Als sich das Zeichen zum Anschnallen erst durch die quäkende Lautsprecheransage
-des Piloten, dann durch das flirrende Blinkstakkato der defekten Leuchtanzeige
+des Piloten, dann durch das flirrende Blinkstakkato  der defekten Leuchtanzeige
 über Deinem Kopf bemerkbar macht, ist es so weit. Gerade nimmst Du noch aus dem
 Augenwinkel wahr, wie die betagte Lady mit dem "Goldenen Blatt" ihrem
 Göttergatten in einem sanften, sich stetig ergießenden Strahl in den Tweetschoß

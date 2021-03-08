@@ -12,11 +12,13 @@ excerpt: Klimaschutz und vegan? Wieso hängt das zusammen? Warum ist es
   genauer betrachtet.
 focusKeyword: Klimaschutz
 labels:
-  - Darum vegan
+  - Ernährung
+  - Ernährung & Gesundheit
   - Footprint
   - Klima & Umweltschutz
   - Klimaschutz
   - ökologischer Fussabdruck
+  - Tierrechte
   - vegane Ernährung
 type: Artikel
 typeName: Artikel
@@ -34,13 +36,10 @@ subTitle: Klimaschutz und vegane Ernährung
   
 ---
 
-<RemoteImage
-  alt="Klimaschutz"
-  size="medium"
-  title="Biolandhof"
-  mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/biogemc3bcseanbau-640x480-640x480.jpg"
-  largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/biogemc3bcseanbau-640x480-640x480.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Klimaschutz`} size="medium" title={`Biolandhof`}
+mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/biogemc3bcseanbau-640x480-640x480.jpg"
+largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/biogemc3bcseanbau-640x480-640x480.jpg"
+loadingUrl="undefined" />
 
 **"Klimaschutz und vegan? Wieso hängt das zusammen? Warum genau ist es
 eigentlich gut für die Umwelt, wenn ich vegan lebe?"**
@@ -58,13 +57,11 @@ betrachten.
 
 ## Auch regionales Fleisch sorgt für Wasserknappheit und Hunger in Entwicklungsländern
 
-<RemoteImage
-  alt="Klimaschutz"
-  size="medium"
-  title="Veganer betreiben aktiv Klimaschutz"
-  mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/kc3bchlschrank-640x640-640x640.jpg"
-  largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/kc3bchlschrank-640x640-640x640.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Klimaschutz`} size="medium"
+title={`Veganer betreiben aktiv Klimaschutz`}
+mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/kc3bchlschrank-640x640-640x640.jpg"
+largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/kc3bchlschrank-640x640-640x640.jpg"
+loadingUrl="undefined" />
 
 Gleich mal vorneweg: Über 80 Prozent der weltweit angebauten Sojabohnen werden
 zu Viehfutter verarbeitet. Hinzu kommen Biodiesel, Kosmetika, Farben und
@@ -110,13 +107,10 @@ Futtermittelindustrie zugeführt.
 
 ## 1 kg Rindfleisch erzeugt so viel Treibgas, wie 1.600 km Fahren auf der Autobahn
 
-<RemoteImage
-  alt="Klimaschutz"
-  size="medium"
-  title="Kühe im Regenwald"
-  mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/regenwaldkc3bche-1-640x427-640x427.jpg"
-  largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/regenwaldkc3bche-1-640x427-640x427.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Klimaschutz`} size="medium" title={`Kühe im Regenwald`}
+mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/regenwaldkc3bche-1-640x427-640x427.jpg"
+largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/regenwaldkc3bche-1-640x427-640x427.jpg"
+loadingUrl="undefined" />
 
 In einer
 [Studie](https://www.vebu.de/aktuelles/pressemitteilungen/1310--aktuelle-studie-der-universitaet-wien-zeigt-rindfleisch-ist-25-mal-klimaschaedlicher-als-bisher-angenommen-)
@@ -139,13 +133,11 @@ einen sehr kleinen Teil, dem Anbau von Futtermitteln zu.
 
 ## Irische Rinder belegen Platz zwei
 
-<RemoteImage
-  alt="Klimaschutz"
-  size="medium"
-  title="Methan-Quelle Nummer eins"
-  mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/kc3bche-640x480-640x480.jpg"
-  largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/kc3bche-640x480-640x480.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Klimaschutz`} size="medium"
+title={`Methan-Quelle Nummer eins`}
+mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/kc3bche-640x480-640x480.jpg"
+largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/kc3bche-640x480-640x480.jpg"
+loadingUrl="undefined" />
 
 Die Irischen Rinder belegen auf dieser traurigen Liste Platz zwei. Gefolgt von
 den Niederländischen mit 2,1 Kilogramm CO<sub>2 </sub>pro Kilo auf Platz vier.
@@ -165,13 +157,10 @@ Kurt Schmidinger zieht folgende Bilanz aus seiner Studie:
 Wenn man die Klima-Schädlichkeit verschiedener Ernährungsformen pro Kopf und
 Jahr betrachtet, sieht das folgendermaßen aus:
 
-<RemoteImage
-  alt="Klimaschutz"
-  size="large"
-  title="Veggie Times, 4/2014"
-  mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/schaubild-1-800x454-800x454.jpg"
-  largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/schaubild-1-800x454-800x454.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Klimaschutz`} size="large" title={`Veggie Times, 4/2014`}
+mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/schaubild-1-800x454-800x454.jpg"
+largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/schaubild-1-800x454-800x454.jpg"
+loadingUrl="undefined" />
 
 Menschen, die fleischliche Kost bevorzugen, haben somit durch ihre Ernährung
 einen 7,5 mal höheren CO<sub>2-</sub>Verbrauch, als Veganer. Den nicht
@@ -190,13 +179,10 @@ Rindern zurückzuführen. Der Transport ist hier noch gar nicht mit eingerechnet
 
 ## Den ökologischen Fußabdruck berechnen
 
-<RemoteImage
-  alt="Klimaschutz"
-  size="medium"
-  title="Bio-Sojamilch"
-  mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/biosojamilch-1-640x480-640x480.jpg"
-  largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/biosojamilch-1-640x480-640x480.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Klimaschutz`} size="medium" title={`Bio-Sojamilch`}
+mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/biosojamilch-1-640x480-640x480.jpg"
+largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/biosojamilch-1-640x480-640x480.jpg"
+loadingUrl="undefined" />
 
 Jetzt gehts ans Eingemachte. Auf der Seite  _
 [Footprint Deutschland](http://www.footprint-deutschland.de) _ kann jeder seinen
@@ -273,13 +259,11 @@ Krankenhäuser, Straßen etc.) zusammen.
 
 ## Wie erziele ich einen fairen ökologischen Fußabdruck?
 
-<RemoteImage
-  alt="Klimaschutz"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_fussabdruck-naturschutz-sylt-2.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_fussabdruck-naturschutz-sylt-2.png__l.jpg"
-  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAIAAAAUMWhjAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFE0lEQVRIx51WW08bRxjd9rFXqY0UVar6WDXKU6P+ib70uS9VlRuQiksAO8HGhpJwTdMoUpIqUBOqFptbm9KkNGpEmsRObGIMNgGDbcA2Nt5dr9fetbExZi/Tb3ZtboW2yehodNYznjPznW++XaKBbtUxbfVUcx3VrKVbqkl9VUxXQxkAVTHg+hqqEQA/VmNuqCYbK2EC2XiWNkKPf6SNtbQRCPz3LGXQ0F/Xkk1aqgWWPU9fJHSJdj3T/hXZ0M+PIITScmYd5bMol0XrSp/PKY9rKJtTeK44msuImbSAAaTIxQwn8khCPcmfKmmdIdGJBRoTHcZEZzmpHeZ/AwFhfVPKFpCA0LqENjDknIBJAaFNJOdFCT/KGAe3W9zAGep8M9vVEG8ldPFWkCqL1Vu4X2AsGPZPueyBxTmv170Y8M7Puz1uBzwu+GbmZl1Op3XaZZ+bmwqFAjBZlEQJSVuQkSzgrSETZ64gz8G+sQB40Mh0nFqtG1QEMpk1lk4l4izHpuNUnEtm0Is0kMQCSTPs2MCUQgSsnKwfSo/C2OZmIV/IyaIyXYJ/vMDqW1Hr5SxnaByiXR4M8PgEzkjb8PSxfteHPY63TY5DvROHTI53TY539sOh7qdvDE1/csv55j1nlWdi3ml/oIbOlOyHEGEPGNUDpqMspjFzOIseByu7HUS3/ZVvHxNXHhGXHhCXxvfBNwo6x4k+x3u9E6/fnfzS83ThiXVsJboMi3yPQ6QxMp0NOE3jRQ8s3G0Yi7PR2QVbdGWZJmOpJFs8uSwrfRGyLBbk1CaKpzeCXM6XyHo2UXpnrEwlASVErOqBRg2Rnxodn620+5ttPoPNZ/SQl6ajndtYhb7LGTVmN8jkqnCQydgDNU0VD9rAgwrwgPsZxh4tVfTYicuPiaY/iZb7RNM9wvgHYRzDvWEMQ3+HaPqLMI18/sVnn67nObyoWJBKySCiLQHsgQ6n6XaIsMAS87s1cG4q3PVsucUVbnWGLjiDFzAJXphebZ+KtrtWWu3LdTHGFVuh9zkB2pGm6k3WJdpAoDymGeR/hTEulY8ssVkW5ZJog0fpOFpLoHhY4On/dw9UAc6iXrQ9aYpPYA1W3bBCFr12zUpctxE3nmBcs2Fct+K0GfYcezB2f9jcHQkt4qsCV/gfAtseqKVCFVBD9CxisLg/6HO+BTl65SHG5YdFcvUh0TFOmCePuJ66x0bNM+5npdu4j4B6Av3OUqEKsCkmHJ4nY6RQ2FvOIFfzYkKUM/8dot2lYpcHDB+YW7obWLHG+ed83p/K+TDW/Yk1T16mthcSBVEUD/bADKXCmOjaxwO4yT+6Dt90vNp6n2hToBJI0wH3UWPN2RHLTUVA/JcTKCHS7inXGotSKhyhlj7H+0PTH0M5sriOWCY/wnAdvTVx2BYsGx28PTVp2+mttKPJkixIQimLNKVyvX0P8E1OsWvREEWt8DkevURTSkqxVOwp19qBNPZAULJCLBUeaRekglgQIPoQISSqm6XpWCCwEI6E/AGvL+CNkhHlBP3Ygz3leoS/8zJ7BpUNpYd3aha/VqH9wA2q5VrPKCEyMO3VlO47ti8oRNz5uZm8F/C8sKCSgzgmG7j3iv5ZwQfwioHnwkJIiF5le6ooPXxLqMWuAw4CXxnw6VER155YrT25WltOaU9T9ScVXkFrT5F1QKAHDuQ4nlBfpkw4Hq0BcjpWD+REtKaC1sC06lgjvGr0ifZz1MW/Aft9HLt+nounAAAAAElFTkSuQmCC" />
+<RemoteImage alt={`Klimaschutz`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_fussabdruck-naturschutz-sylt-2.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_fussabdruck-naturschutz-sylt-2.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAIAAAAUMWhjAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFE0lEQVRIx51WW08bRxjd9rFXqY0UVar6WDXKU6P+ib70uS9VlRuQiksAO8HGhpJwTdMoUpIqUBOqFptbm9KkNGpEmsRObGIMNgGDbcA2Nt5dr9fetbExZi/Tb3ZtboW2yehodNYznjPznW++XaKBbtUxbfVUcx3VrKVbqkl9VUxXQxkAVTHg+hqqEQA/VmNuqCYbK2EC2XiWNkKPf6SNtbQRCPz3LGXQ0F/Xkk1aqgWWPU9fJHSJdj3T/hXZ0M+PIITScmYd5bMol0XrSp/PKY9rKJtTeK44msuImbSAAaTIxQwn8khCPcmfKmmdIdGJBRoTHcZEZzmpHeZ/AwFhfVPKFpCA0LqENjDknIBJAaFNJOdFCT/KGAe3W9zAGep8M9vVEG8ldPFWkCqL1Vu4X2AsGPZPueyBxTmv170Y8M7Puz1uBzwu+GbmZl1Op3XaZZ+bmwqFAjBZlEQJSVuQkSzgrSETZ64gz8G+sQB40Mh0nFqtG1QEMpk1lk4l4izHpuNUnEtm0Is0kMQCSTPs2MCUQgSsnKwfSo/C2OZmIV/IyaIyXYJ/vMDqW1Hr5SxnaByiXR4M8PgEzkjb8PSxfteHPY63TY5DvROHTI53TY539sOh7qdvDE1/csv55j1nlWdi3ml/oIbOlOyHEGEPGNUDpqMspjFzOIseByu7HUS3/ZVvHxNXHhGXHhCXxvfBNwo6x4k+x3u9E6/fnfzS83ThiXVsJboMi3yPQ6QxMp0NOE3jRQ8s3G0Yi7PR2QVbdGWZJmOpJFs8uSwrfRGyLBbk1CaKpzeCXM6XyHo2UXpnrEwlASVErOqBRg2Rnxodn620+5ttPoPNZ/SQl6ajndtYhb7LGTVmN8jkqnCQydgDNU0VD9rAgwrwgPsZxh4tVfTYicuPiaY/iZb7RNM9wvgHYRzDvWEMQ3+HaPqLMI18/sVnn67nObyoWJBKySCiLQHsgQ6n6XaIsMAS87s1cG4q3PVsucUVbnWGLjiDFzAJXphebZ+KtrtWWu3LdTHGFVuh9zkB2pGm6k3WJdpAoDymGeR/hTEulY8ssVkW5ZJog0fpOFpLoHhY4On/dw9UAc6iXrQ9aYpPYA1W3bBCFr12zUpctxE3nmBcs2Fct+K0GfYcezB2f9jcHQkt4qsCV/gfAtseqKVCFVBD9CxisLg/6HO+BTl65SHG5YdFcvUh0TFOmCePuJ66x0bNM+5npdu4j4B6Av3OUqEKsCkmHJ4nY6RQ2FvOIFfzYkKUM/8dot2lYpcHDB+YW7obWLHG+ed83p/K+TDW/Yk1T16mthcSBVEUD/bADKXCmOjaxwO4yT+6Dt90vNp6n2hToBJI0wH3UWPN2RHLTUVA/JcTKCHS7inXGotSKhyhlj7H+0PTH0M5sriOWCY/wnAdvTVx2BYsGx28PTVp2+mttKPJkixIQimLNKVyvX0P8E1OsWvREEWt8DkevURTSkqxVOwp19qBNPZAULJCLBUeaRekglgQIPoQISSqm6XpWCCwEI6E/AGvL+CNkhHlBP3Ygz3leoS/8zJ7BpUNpYd3aha/VqH9wA2q5VrPKCEyMO3VlO47ti8oRNz5uZm8F/C8sKCSgzgmG7j3iv5ZwQfwioHnwkJIiF5le6ooPXxLqMWuAw4CXxnw6VER155YrT25WltOaU9T9ScVXkFrT5F1QKAHDuQ4nlBfpkw4Hq0BcjpWD+REtKaC1sC06lgjvGr0ifZz1MW/Aft9HLt+nounAAAAAElFTkSuQmCC"
+/>
 
 Allein schon durch den kollektiven ökologischen Fußabdruck ist des hierzulande
 nicht möglich, einen fairen Fußabdruck zu erzielen. Es ist somit nicht nur ein

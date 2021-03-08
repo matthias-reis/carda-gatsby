@@ -7,26 +7,28 @@ fileName: 2019-12---shana-falana-im-interview.md
 description: Shana Falana hat vor Kurzem ihr Album "Darkest Light"
   veröffentlicht. Jetzt habe ich mich mit der New Yorker Musikerin zum Interview
   verabredet.
-excerpt: Shana Falana hat vor Kurzem ihr Album "Darkest Light" veröffentlicht.
-  Jetzt habe ich mich mit der New Yorker Musikerin zum Interview verabredet.
+excerpt: English & German - Shana Falana hat vor Kurzem ihr Album "Darkest
+  Light" veröffentlicht. Jetzt habe ich mich mit der New Yorker Musikerin zum
+  Interview verabredet.
 focusKeyword: Shana Falana
 labels:
   - 80ies
   - 90ies
-  - Bands & Reviews
+  - Bands
   - Brooklyn
   - Bull In The Heather
   - Darkest Light
+  - English & German
   - Everyone Is Gonna Be OK
   - Free Kitten
   - Hudson Valley
   - Inspiration
   - Interview
-  - Interview
+  - Interviews
   - Kim Gordon
   - New York
   - PJ Harvey
-  - Post Rock
+  - Post-Rock
   - Ram Dass
   - Reverb
   - San Francisco
@@ -42,8 +44,7 @@ date: 2019-12-03T06:55:46.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Unexpected token (257:5)"
+errors: {}
 thumbnailId: "27070"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-6__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-6__l.jpg
@@ -52,10 +53,7 @@ subTitle: '"Druggy music by sober people"'
   
 ---
 
-## unknown: Unexpected token (257:5)
-
-<!--
-_English version below_
+[🇬🇧 Click here for English version](#⋆)
 
 **Shana Falana habe ich erst vor Kurzem für mich entdeckt. In der
 [Musikliste für den Dezember](/2019/11/13-songs-fuer-den-dezember/) habe ich
@@ -80,13 +78,12 @@ Webseite.
 > Sexindustrie gearbeitet. Während dieser finsteren Zeit habe ich gelernt, dass
 > selbst in den dunkelsten Lebensphasen jeder noch irgendwo sein Licht hat."
 
-<RemoteImage
-  alt="shana-falana"
-  size="medium"
-  title="Shana Falana. Bild / picture: Monik Giesel"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-7__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-7__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgP/xAApEAABAwMCBAYDAAAAAAAAAAABAgMRAAQFEjEGEyFBBxUiUWFxMoHx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABgRAQEBAQEAAAAAAAAAAAAAAAABAhEh/9oADAMBAAIRAxEAPwC4OYnF3Ky/eY3HPLMELVboJ7HuPcCsjxrwRwlfY513yuxt3m49bSQ0CSoAAx8msVg/FRF6tq3dIbSshEoVqUCeg6GuC+PsPd56+sM20XcehxLSn3FkJKkkE6kRtqTA+qiZ1GviK3GH5etxxvlOK1EsR+Cgdt9o271n3xCzG1WLxPdwi3Ofig2oLWSAydI0/HapHcBC3V8nXpkwFxMfqt5exFnD+PzuQt7hhxt4lTUlHoT06RO38pB26WpSiVGSepmZPuTRRTJ3Rk1iyNsZCdWr7pBSzrJBifaiigP/2Q==" />
+<RemoteImage alt={`shana-falana`} size="medium"
+title={`Shana Falana. Bild / picture: Monik Giesel`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-7__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-7__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgP/xAApEAABAwMCBAYDAAAAAAAAAAABAgMRAAQFEjEGEyFBBxUiUWFxMoHx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABgRAQEBAQEAAAAAAAAAAAAAAAABAhEh/9oADAMBAAIRAxEAPwC4OYnF3Ky/eY3HPLMELVboJ7HuPcCsjxrwRwlfY513yuxt3m49bSQ0CSoAAx8msVg/FRF6tq3dIbSshEoVqUCeg6GuC+PsPd56+sM20XcehxLSn3FkJKkkE6kRtqTA+qiZ1GviK3GH5etxxvlOK1EsR+Cgdt9o271n3xCzG1WLxPdwi3Ofig2oLWSAydI0/HapHcBC3V8nXpkwFxMfqt5exFnD+PzuQt7hhxt4lTUlHoT06RO38pB26WpSiVGSepmZPuTRRTJ3Rk1iyNsZCdWr7pBSzrJBifaiigP/2Q=="
+/>
 
 Darauf beruft sie sich auch im neuen Albumtitel. "Darkest Light" ist für sie ein
 Album der Mantras. Die Künstlerin hatte in den 1990er Jahren bereits in der
@@ -122,13 +119,12 @@ unterschiedlichsten Musiker٭innen gespielt. Je nachdem, aus welcher Ecke sie
 kamen, klang es elektronischer oder mehr nach Heavy Metal. Ich finde es lustig,
 dass sie auf so viele unterschiedliche Arten interpretiert werden können.
 
-<RemoteImage
-  alt="shana-falana"
-  size="medium"
-  title="Shana Falana. Bild / picture: Monik Giesel"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-4.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-4.png__l.jpg"
-  loadingUrl="data:image/jpeg;base64,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" />
+<RemoteImage alt={`shana-falana`} size="medium"
+title={`Shana Falana. Bild / picture: Monik Giesel`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-4.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-4.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,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"
+/>
 
 **Anne:** Du gibst auf Deiner Webseite **Sonic Youth** als erklärtes Vorbild an.
 Da haben wir einiges gemeinsam - Kim Gordon - was für eine Frau! Am Ende des
@@ -169,13 +165,12 @@ war sehr spannend, endlich hinter den Vorhang blicken zu dürfen.
 **Anne:** Aus Deiner Erfahrung heraus: Welchen Tipp würdest Du Frauen in Bands
 geben?
 
-<RemoteImage
-  alt="shana-falana"
-  size="medium"
-  title="Shana Falana. Bild / picture: Monik Giesel"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-3.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-3.png__l.jpg"
-  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAFRElEQVRIx5VWSW9bVRT2L0BVaTN4nt7zs5/n2Y7r2M08kIGmNI4gAzRFUAJ0gKQYBWiQSIVUsYIuQZRNUVGlLBArhMQCISpVqIIFKiwqIbFAsIHtxznHee6L41gh0tW7fnn3nu985zvfvRZ7rxetw9bjOfRoXeuw+v7XHhZe0G60AmoFZ37vtPnbrjsMEIvLrtAGimzSOlo3bReEv+M92gU/DAiL4g3B4wyYhgqPKwC3Q5VhBsILzCD42UjA3xGAAcLa7W7DgFWjDxT6J21m0+B16AgpKXidIQIQaGbX0+WChwAZAFwOem/zwecOEmitY/BOLFhee+kiKoUhrNRWMDfxFLaubOLjDz/CycIIdCVJAFQcO2pDLtWHeDiN44/bJWjAH4XqDdM81GTB0EQnLe0DAPq7eeMG/vnzIX758Xv8/cdv/Ap3PvsED+7fQ1+mCq9bw1sbdQSVKLoIAJdGIwCRYFrKxkx4XZo8zXppp6N9AN6tv42JgWnUL22gfmEdX9z8lAL/gDcvrmPn1i1EAmnU5mq4vn0NRx7rkUU+AsQB9UCSnkF6JhDTM1B9EWHE0AYD7aQRARDTclTzpASKBLIYqz6BqaFZmYf8SfR2efHG5XXUX98gnXiamypEPwOIhbIYPDGKXLyEkJqQd4pXb4raDKAdCAtvENZSsjBKlEaDGRTTVaRjRXnHQWunF7Dy9DLc9oBk3kuC5I15no4UMTE4jUysD8lwHin6rSkx0YmZAR6thsXD4vfoQhvX2efhJwmMqPTznALYerwIBWI4u/gcZsZn0HPcJe3EG3MQLkExU0E+WUY6WkQh2S+sMAheb7BgdFPrsEjfO9Vm39utXgngIMQcgOdsVJfWLuBqfVMAdB93wE+gUxSQS5FN9GGUSscAdDUpwblLjCRamTBKwk+LgY4HB1eIkUKqLIs95ANxPYdqaZh0sIEXz76AZDQrJeDF3AXl3ADK+UGcmpiXJ7cmi5EBcPCGT7Q3NgFgRtV1zIGEnkcpM0AfqAgHUnCTOZWyFWy/s4W1c+cJlEYgw7JpPJyVzCvFIXkOlMYQJ/qDSlzKagjRCG4AMAYnLYeRe9fhmN4Prr2P7atbeObMImbG5jB6cgo7tz/Hwwc/4f7d71ClYOwNwhBtPlQeExMr5SriDSxoBqD6wlIKoyPanTXCAAdnmtjtEpEsrr+3jfnZBWxvbuGbL3dw99uv8e9fv+PXn+/hqzu3sXh6iYKOU8vF4aaNE6T8uJ4la1ZF3SxktukIAeGO4lIYAFoFKAB4wsiPHrFidWkVU6OzSOpFPFtbJVonMTkwhSsvX0ZtZoGyHyEAy8JAlvqe2zSipUV8LEhOxLVrybx5I7nQgfUXAM3epJdrz5+njfICKE19HSZzipMmXj33CpbOLGNmdE6y54yLaaY8Jt7BHsBuyEHMNmtuP2O+rwt4wqoO+COYf7ImOuAP2dWG+ycwSa44PXIKucQJGmVSOSncFyWx5UTtTrbc3fOg1evN58FBZ4QwwL2uEYBoKEUAnJIJ01vtG0E/nZQNux0n6isSkD2CQSQjBfhJZE47ZWX177uOHXQAmQFZOHg3tZ9hGOx8Rv04CJfD5woRmGEU0v3CDmfODHH9w3Igac0at15AmN3e7oZ7GmPPaShCITtt1OfRzceMlOeKnP3BpsBY3SlioD8/JGAM2zUD4O8EnP2RE+47jPRAnESVlg8MhObbbeOi4d4TwEq/+bwIUp8Hd23XUHu7dut0KbFwzbkE7e5r5huOnO92tUmt/HY2AjIwZqeh8L2Zmmk3l8EY/wHLRYTSe+i14QAAAABJRU5ErkJggg==" />
+<RemoteImage alt={`shana-falana`} size="medium"
+title={`Shana Falana. Bild / picture: Monik Giesel`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-3.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-3.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAFRElEQVRIx5VWSW9bVRT2L0BVaTN4nt7zs5/n2Y7r2M08kIGmNI4gAzRFUAJ0gKQYBWiQSIVUsYIuQZRNUVGlLBArhMQCISpVqIIFKiwqIbFAsIHtxznHee6L41gh0tW7fnn3nu985zvfvRZ7rxetw9bjOfRoXeuw+v7XHhZe0G60AmoFZ37vtPnbrjsMEIvLrtAGimzSOlo3bReEv+M92gU/DAiL4g3B4wyYhgqPKwC3Q5VhBsILzCD42UjA3xGAAcLa7W7DgFWjDxT6J21m0+B16AgpKXidIQIQaGbX0+WChwAZAFwOem/zwecOEmitY/BOLFhee+kiKoUhrNRWMDfxFLaubOLjDz/CycIIdCVJAFQcO2pDLtWHeDiN44/bJWjAH4XqDdM81GTB0EQnLe0DAPq7eeMG/vnzIX758Xv8/cdv/Ap3PvsED+7fQ1+mCq9bw1sbdQSVKLoIAJdGIwCRYFrKxkx4XZo8zXppp6N9AN6tv42JgWnUL22gfmEdX9z8lAL/gDcvrmPn1i1EAmnU5mq4vn0NRx7rkUU+AsQB9UCSnkF6JhDTM1B9EWHE0AYD7aQRARDTclTzpASKBLIYqz6BqaFZmYf8SfR2efHG5XXUX98gnXiamypEPwOIhbIYPDGKXLyEkJqQd4pXb4raDKAdCAtvENZSsjBKlEaDGRTTVaRjRXnHQWunF7Dy9DLc9oBk3kuC5I15no4UMTE4jUysD8lwHin6rSkx0YmZAR6thsXD4vfoQhvX2efhJwmMqPTznALYerwIBWI4u/gcZsZn0HPcJe3EG3MQLkExU0E+WUY6WkQh2S+sMAheb7BgdFPrsEjfO9Vm39utXgngIMQcgOdsVJfWLuBqfVMAdB93wE+gUxSQS5FN9GGUSscAdDUpwblLjCRamTBKwk+LgY4HB1eIkUKqLIs95ANxPYdqaZh0sIEXz76AZDQrJeDF3AXl3ADK+UGcmpiXJ7cmi5EBcPCGT7Q3NgFgRtV1zIGEnkcpM0AfqAgHUnCTOZWyFWy/s4W1c+cJlEYgw7JpPJyVzCvFIXkOlMYQJ/qDSlzKagjRCG4AMAYnLYeRe9fhmN4Prr2P7atbeObMImbG5jB6cgo7tz/Hwwc/4f7d71ClYOwNwhBtPlQeExMr5SriDSxoBqD6wlIKoyPanTXCAAdnmtjtEpEsrr+3jfnZBWxvbuGbL3dw99uv8e9fv+PXn+/hqzu3sXh6iYKOU8vF4aaNE6T8uJ4la1ZF3SxktukIAeGO4lIYAFoFKAB4wsiPHrFidWkVU6OzSOpFPFtbJVonMTkwhSsvX0ZtZoGyHyEAy8JAlvqe2zSipUV8LEhOxLVrybx5I7nQgfUXAM3epJdrz5+njfICKE19HSZzipMmXj33CpbOLGNmdE6y54yLaaY8Jt7BHsBuyEHMNmtuP2O+rwt4wqoO+COYf7ImOuAP2dWG+ycwSa44PXIKucQJGmVSOSncFyWx5UTtTrbc3fOg1evN58FBZ4QwwL2uEYBoKEUAnJIJ01vtG0E/nZQNux0n6isSkD2CQSQjBfhJZE47ZWX177uOHXQAmQFZOHg3tZ9hGOx8Rv04CJfD5woRmGEU0v3CDmfODHH9w3Igac0at15AmN3e7oZ7GmPPaShCITtt1OfRzceMlOeKnP3BpsBY3SlioD8/JGAM2zUD4O8EnP2RE+47jPRAnESVlg8MhObbbeOi4d4TwEq/+bwIUp8Hd23XUHu7dut0KbFwzbkE7e5r5huOnO92tUmt/HY2AjIwZqeh8L2Zmmk3l8EY/wHLRYTSe+i14QAAAABJRU5ErkJggg=="
+/>
 
 **Shana:** Nur um das klar zu stellen: Wenn ich heute das Wort "Frau" höre,
 denke ich an alle Menschen, die sich selbst als Frauen identifizieren. Ich
@@ -230,13 +225,12 @@ hinzugehen, war es, wie sich in die größte Kunsthochschule der Welt
 einzuschreiben. Der Unterricht war Dein Unterhalt. Ich habe damals Witze darüber
 gemacht, dass sogar der Müll auf den Straßen bunt war. Und er war es wirklich!
 
-<RemoteImage
-  alt="shana-falana"
-  size="medium"
-  title="Shana Falana. Bild / picture: Monik Giesel"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-10__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-10__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQH/xAAqEAACAQIFBAIABwAAAAAAAAABAgMFEQAEBhIhEzJBYRRRByIxgaHB8f/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAAT/xAAaEQADAQEBAQAAAAAAAAAAAAAAAQIhETED/9oADAMBAAIRAxEAPwCIQ0QnLwyk7Vd1S7EWF/8ADhpp1CizWUiiWSPpS7VMgHaoP6f3hk0vpdBozO1mooj5HLxpJtI5cggkL7tfHVZKfm0lihWb5aloEV7LCzEWRm+gACfPjziu4VLMGppL0V9X6QhpeX6iMRHa6WHLL9nCBMWc7pGU7QFAPBt44xbtVTQVHTu2mmqTRxHbmZ87Gu6Nn5ANu1CRwALeMRnoxpFLmJitg5jjiv8AmZvJI8KB/PGOf6cVYPmFZ17+IuUei5fT1BQCKCJo2kjsVkdhZj79HGDqmsNRdP0SlQyH5iq08ot2q3aD7Nr4MGA6dPReJmKmo8waHnoQEtKqx9W92UA32/ueecKUjl3LNyx5J+8GDGglM//Z" />
+<RemoteImage alt={`shana-falana`} size="medium"
+title={`Shana Falana. Bild / picture: Monik Giesel`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-10__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-10__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQH/xAAqEAACAQIFBAIABwAAAAAAAAABAgMFEQAEBhIhEzJBYRRRByIxgaHB8f/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAAT/xAAaEQADAQEBAQAAAAAAAAAAAAAAAQIhETED/9oADAMBAAIRAxEAPwCIQ0QnLwyk7Vd1S7EWF/8ADhpp1CizWUiiWSPpS7VMgHaoP6f3hk0vpdBozO1mooj5HLxpJtI5cggkL7tfHVZKfm0lihWb5aloEV7LCzEWRm+gACfPjziu4VLMGppL0V9X6QhpeX6iMRHa6WHLL9nCBMWc7pGU7QFAPBt44xbtVTQVHTu2mmqTRxHbmZ87Gu6Nn5ANu1CRwALeMRnoxpFLmJitg5jjiv8AmZvJI8KB/PGOf6cVYPmFZ17+IuUei5fT1BQCKCJo2kjsVkdhZj79HGDqmsNRdP0SlQyH5iq08ot2q3aD7Nr4MGA6dPReJmKmo8waHnoQEtKqx9W92UA32/ueecKUjl3LNyx5J+8GDGglM//Z"
+/>
 
 Nach und nach wurden die Mieten höher und viele von uns zogen up State nach
 Hudson Valley. Auch ich lebe jetzt dort. Einige von uns schafften es auch, in
@@ -303,7 +297,7 @@ Euch auf dem Laufenden.
 
 <hr />
 
-_English Version_
+<div id="⋆">[⋆]  _English version_ </div>
 
 ## Interview with Shana Falana
 
@@ -328,13 +322,12 @@ She herself has experienced a lot, she writes on the Shana Falana website.
 > industry. During this dark period, I learned that even in the darkest phases
 > of life, everyone still has their light somewhere."
 
-<RemoteImage
-  alt="shana-falana"
-  size="medium"
-  title="Shana Falana. Bild / picture: Monik Giesel"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-9__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-9__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQGB//EACkQAAIBAwMDAwQDAAAAAAAAAAECAwQFEQAhMQYSUQciQRMyYXGRofH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAQIFBv/EACURAAIBAgUDBQAAAAAAAAAAAAECAwAEERIxQfAFYbEhUZHR4f/aAAwDAQACEQMRAD8AwOGFpGwu+qSz2ENDNV1cJemhRnk94XgbAE7ZJwN/On/TmxVF3rmdoWNHF2/WlIyI1J+4j5H61deodPb6bpO4R21y8KlIwTgZfuBOcfjgfzrnb3qAWUW6akgfNbNraAxmVu9ZPb7HVVlFNWiIimRmUsMHcDJ/38HSVRRSU8KVUTpNAzYSVCMZHwVO4PHI1e9G2qOq6M6oqZLsaeKFYi1KEJEzDJXjfHIxwc78akKArTtcKad4Y/qQEkOveqkYK4wDvvjPx50qKdmdwTodO3OetHkhUKpG/OflWg9RoLR0PBZbBAi3CZAtXWdmPZuRGPOCTvjU9T3F6boqsE7o01fUqkQY5cKoy7Y8faM+dGjVXtIo8qgat4xPmpS4d8xOw+hSdluppaW4wR1bUwn7GOAW7gPgYHPu/rSM1VFSU01PQTztLKSs86N2xzJnIUIVDDf5J38DRo0pYFDFhvhR2lYqB7V//9k=" />
+<RemoteImage alt={`shana-falana`} size="medium"
+title={`Shana Falana. Bild / picture: Monik Giesel`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-9__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-9__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQGB//EACkQAAIBAwMDAwQDAAAAAAAAAAECAwQFEQAhMQYSUQciQRMyYXGRofH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAQIFBv/EACURAAIBAgUDBQAAAAAAAAAAAAECAwAEERIxQfAFYbEhUZHR4f/aAAwDAQACEQMRAD8AwOGFpGwu+qSz2ENDNV1cJemhRnk94XgbAE7ZJwN/On/TmxVF3rmdoWNHF2/WlIyI1J+4j5H61deodPb6bpO4R21y8KlIwTgZfuBOcfjgfzrnb3qAWUW6akgfNbNraAxmVu9ZPb7HVVlFNWiIimRmUsMHcDJ/38HSVRRSU8KVUTpNAzYSVCMZHwVO4PHI1e9G2qOq6M6oqZLsaeKFYi1KEJEzDJXjfHIxwc78akKArTtcKad4Y/qQEkOveqkYK4wDvvjPx50qKdmdwTodO3OetHkhUKpG/OflWg9RoLR0PBZbBAi3CZAtXWdmPZuRGPOCTvjU9T3F6boqsE7o01fUqkQY5cKoy7Y8faM+dGjVXtIo8qgat4xPmpS4d8xOw+hSdluppaW4wR1bUwn7GOAW7gPgYHPu/rSM1VFSU01PQTztLKSs86N2xzJnIUIVDDf5J38DRo0pYFDFhvhR2lYqB7V//9k="
+/>
 
 That's what she refers to in the new album title. For her, "Darkest Light" is an
 album of mantras. In the 1990s, the artist already had success in the
@@ -367,8 +360,8 @@ songs with various musicians over the years, depending on the group they've been
 more heavy metal or more electronic! I think they can be interpreted in many
 ways, which is so fun.
 
-<RemoteImage alt="shana-falana" size="medium" title="Shana Falana - "Darkes
-Light""
+<RemoteImage alt={`shana-falana`} size="medium"
+title={`Shana Falana - "Darkes Light"`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-5.png__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-5.png__l.jpg"
 loadingUrl="data:image/jpeg;base64,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"
@@ -406,13 +399,12 @@ curtain felt really rewarding.
 
 **Anne:** From your experience: What advice would you give women in bands?
 
-<RemoteImage
-  alt="shana-falana"
-  size="medium"
-  title="Shana Falana. Bild / picture: Monik Giesel"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-8__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-8__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgj/xAApEAABAwMDAwQCAwAAAAAAAAABAgMRAAQFBhIhEzFBByIjYRSBMqGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAgMRIUH/2gAMAwEAAhEDEQA/AOeG7IltCjMq52xHEU/x+HavcjbKXalq0U8EqbDitzgknakkH3R/k030Pihlckz+YqUboPE1X9ZaPx6tM2pbuXbVTF02tt9pEFruN3HIH3Sp2YUV0rhHclpxF7mxYW5ZtHlIHRtVKJI4kIBA5UeYB5NYi/tQy6pA7p4Na/VuJyWE1D1bx50fKl5Ny8rqbhJ2uEczu2yBSXUOQx93Jx1uq33LKl7pJUSASe8JEyAkePNaDYF6j3xlxxjOnvTSxtXM083dZ9xHFslXtZnsVRTFXqJhE4Vy7fKbh953pNMFmWypG1Uq8GJEJ/ZoooUtGt9IXrzOuZ3Kv3l471rlSk/Iv+W2Fe0AcQOPH7rMsOEBw7JSWyjsOCfPIP8AUH7oopqWIkm9kz//2Q==" />
+<RemoteImage alt={`shana-falana`} size="medium"
+title={`Shana Falana. Bild / picture: Monik Giesel`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-8__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-8__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgj/xAApEAABAwMDAwQCAwAAAAAAAAABAgMRAAQFBhIhEzFBByIjYRSBMqGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAgMRIUH/2gAMAwEAAhEDEQA/AOeG7IltCjMq52xHEU/x+HavcjbKXalq0U8EqbDitzgknakkH3R/k030Pihlckz+YqUboPE1X9ZaPx6tM2pbuXbVTF02tt9pEFruN3HIH3Sp2YUV0rhHclpxF7mxYW5ZtHlIHRtVKJI4kIBA5UeYB5NYi/tQy6pA7p4Na/VuJyWE1D1bx50fKl5Ny8rqbhJ2uEczu2yBSXUOQx93Jx1uq33LKl7pJUSASe8JEyAkePNaDYF6j3xlxxjOnvTSxtXM083dZ9xHFslXtZnsVRTFXqJhE4Vy7fKbh953pNMFmWypG1Uq8GJEJ/ZoooUtGt9IXrzOuZ3Kv3l471rlSk/Iv+W2Fe0AcQOPH7rMsOEBw7JSWyjsOCfPIP8AUH7oopqWIkm9kz//2Q=="
+/>
 
 **Shana:** Today when I hear the word "women" just to be clear, I think of
 anyone that identifies as a woman. I think maybe you're asking because there is
@@ -459,13 +451,12 @@ Williamsburg was bursting with art. If you lived there, it was like enrolling in
 the greatest creative college and the tuition was your cost of living. I even
 joked that the trash in the street was colorful, and it was.
 
-<RemoteImage
-  alt="shana-falana"
-  size="medium"
-  title="Shana Falana. Bild / picture: Monik Giesel"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-11__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-11__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBQYH/8QAKRAAAgEDAwIFBQEAAAAAAAAAAQIDAAQRBQYhEjEUQVFhkRMjQ1Jxgf/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAAAESFh/9oADAMBAAIRAxEAPwDm21NS0Ga+SbXtIspwXZpAIukYJLdlx+xH8CjyqO7dM2/PNcy6BF4ZExlDISo9AAeckc96wiy5PCtk+gNaraGj3t5K9zbtEkkI68S/jUq33mB7KuM5PnjvXTrVNaDsG+1LT/FNHIgLYIZSOkdwTx5jn4qh1nRZdPmdDlgDjIXFO7Q3Zf7f1I3dtIzGROlldiRzjn3NWm4N0DVUJubVUm5yyrj5ptMjDxnoYEdx2p+LVLy2maW2uZYZHi+i7RuR1pjlT6j2NFFEIsSTk8mjrbHJJ/2iiqP/2Q==" />
+<RemoteImage alt={`shana-falana`} size="medium"
+title={`Shana Falana. Bild / picture: Monik Giesel`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-11__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-11__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBQYH/8QAKRAAAgEDAwIFBQEAAAAAAAAAAQIDAAQRBQYhEjEUQVFhkRMjQ1Jxgf/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAAAESFh/9oADAMBAAIRAxEAPwDm21NS0Ga+SbXtIspwXZpAIukYJLdlx+xH8CjyqO7dM2/PNcy6BF4ZExlDISo9AAeckc96wiy5PCtk+gNaraGj3t5K9zbtEkkI68S/jUq33mB7KuM5PnjvXTrVNaDsG+1LT/FNHIgLYIZSOkdwTx5jn4qh1nRZdPmdDlgDjIXFO7Q3Zf7f1I3dtIzGROlldiRzjn3NWm4N0DVUJubVUm5yyrj5ptMjDxnoYEdx2p+LVLy2maW2uZYZHi+i7RuR1pjlT6j2NFFEIsSTk8mjrbHJJ/2iiqP/2Q=="
+/>
 
 Slowly we started getting priced out, many folks moved up state to the Hudson
 Valley (where I live now) and some managed to stay. I still go to Brooklyn to
@@ -515,7 +506,5 @@ and all the best for the future!
 get to reflect and share, it's my greatest honor!
 
 [Shana Falana Homepage](http://www.shanafalana.com/) Pictures: Monik Giesel
-
--->
 
   

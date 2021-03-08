@@ -11,12 +11,12 @@ excerpt: Bei unserem Besuch am Inch Beach Ende September war nicht mehr wirklich
 focusKeyword: Strand
 labels:
   - Beach
-  - Brititsche Inseln
+  - Britische Inseln
   - Dingle Halbinsel
+  - Fernweh
   - Inch Beach
   - Irland
   - Irland2017
-  - Reisen
   - Slea Head
   - Strand
   - Surfspot

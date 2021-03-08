@@ -12,6 +12,7 @@ excerpt: Heute habe ich etwas ganz Besonderes für meine Leser vorbereitet. Ich
   Ihr hier
 focusKeyword: piqd
 labels:
+  - Antifaschismus & Feminismus
   - Grimme Award
   - Grimme Online Award
   - Grimmepreis
@@ -19,7 +20,6 @@ labels:
   - neues Portal
   - piqd
   - piqd Account
-  - Politik & Soziales
   - Social Media
   - Soziale Netzwerk
   - testen
@@ -48,13 +48,11 @@ Hinweis: Die Aktion ist beendet.
 
 <hr />
 
-<RemoteImage
-  alt="piqd"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_5938fe1ecba8e.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_5938fe1ecba8e.png__l.jpg"
-  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAATCAYAAADxlA/3AAAACXBIWXMAAAsTAAALEwEAmpwYAAADhUlEQVRIx41WO2hVQRBNXt5NNO7VgBBQYqGotQZBUZNKBT8gMRHFQiwtBD+gCBEEExEs7itMRBQFQUt30cpPYeEnYCOChZUGLRJiFCIRfRHf88zu2bv7PoXF3J39zMzZmdmZ25KWTMt/UWbOq5IxKtN+rSCjEpK1rFHGnXUkvMpMUTmZvaAXOPOGB6wBbOgwt6TbOK4CVaGkinNnlNtvd0bys/WAa9YdAN3uwOoHVlfJzMoBUdThFOoEY5FrYrzVKwG4h+C/gpZHHihQDjImISjqgmzmgdiLyP4SeuAmeAHwsYm76S7HFxRBRK7nHozXuV01D1/Be0kFL10Vj2KcFKHjoJOYHAWN4ZDBfAR8d6REbnQWrruEcbWKDIJOgb8Puo39wxhPQMc5ubEYpvEeXGAUowboYdBTZQHoLy1EkpPERjYdmZ0EsNKvgT/CtR7QX8ayjiRX9IrUee2QX7M6Mu67s1NyYAb0Bxu/YPA3NsuYzwdA9hYJUFPY7GI43kVGJ0Dv87lNVt3KxHPJW9ILGJ9j/3MtgEz/oFAlRy+GS2aBN+7lTaoWRMlso1u9xw6GZ2fGI1Cytt0BsHJrVcilCXpUQmDmqKjijXBepqJBvmWvuNdmc3B9EuVKXxRGkTngb0qARebOMNcncwCgWg/kAPQA37L3zEYo74zOdodXoPepcE4M7ne8/sZQsq6YK7xoDEBXVIi7jGUKD7EOML6mF+BUBGhR9Pz64xBgfYCGpri/mN4cZl5MSkzmqKji3U9DZc77HQDjX8cWxrFKwH15Jc3MRZ+EBLU5ulBnqBX6CUNYkwMLqX0F9uY/IwOivDV6FTuY3bNU/Bv8XYyPglfsKyimfAVcm4a+G+Bf5S/Fh0AxcXLh8F6PMXm6w57xWb8p9pjyN/fJmekuVtSh/AXV1QyREUXfmQOPMcozegn+Osb1UZdbptxb/wTaGlXBpeBHpbJhvAO6lYPKTJqG8r0Ousag9xn4e6ALmF/DOCJ1YIZoTjdpp7aOq4Z11yeanN8QhSBlCJKGXhL1BmGmKXSZB9GxdKKkw2U1TaYtzUKHpHt9l+uk8j15LbEAXCdU0g0FSGZ1FAGg3VZXyIrQPJNtnMY6nPJaxMr/L2Sh34d/ASh0NxrM80kABODhH6Gug8rnA+gtkO5mwUkafi5qul/4y4lauK9wa8C/hhH5b+jKPVfXrlUE6B+2WxBcr2zjaAAAAABJRU5ErkJggg==" />
+<RemoteImage alt={`piqd`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_5938fe1ecba8e.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_5938fe1ecba8e.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAATCAYAAADxlA/3AAAACXBIWXMAAAsTAAALEwEAmpwYAAADhUlEQVRIx41WO2hVQRBNXt5NNO7VgBBQYqGotQZBUZNKBT8gMRHFQiwtBD+gCBEEExEs7itMRBQFQUt30cpPYeEnYCOChZUGLRJiFCIRfRHf88zu2bv7PoXF3J39zMzZmdmZ25KWTMt/UWbOq5IxKtN+rSCjEpK1rFHGnXUkvMpMUTmZvaAXOPOGB6wBbOgwt6TbOK4CVaGkinNnlNtvd0bys/WAa9YdAN3uwOoHVlfJzMoBUdThFOoEY5FrYrzVKwG4h+C/gpZHHihQDjImISjqgmzmgdiLyP4SeuAmeAHwsYm76S7HFxRBRK7nHozXuV01D1/Be0kFL10Vj2KcFKHjoJOYHAWN4ZDBfAR8d6REbnQWrruEcbWKDIJOgb8Puo39wxhPQMc5ubEYpvEeXGAUowboYdBTZQHoLy1EkpPERjYdmZ0EsNKvgT/CtR7QX8ayjiRX9IrUee2QX7M6Mu67s1NyYAb0Bxu/YPA3NsuYzwdA9hYJUFPY7GI43kVGJ0Dv87lNVt3KxHPJW9ILGJ9j/3MtgEz/oFAlRy+GS2aBN+7lTaoWRMlso1u9xw6GZ2fGI1Cytt0BsHJrVcilCXpUQmDmqKjijXBepqJBvmWvuNdmc3B9EuVKXxRGkTngb0qARebOMNcncwCgWg/kAPQA37L3zEYo74zOdodXoPepcE4M7ne8/sZQsq6YK7xoDEBXVIi7jGUKD7EOML6mF+BUBGhR9Pz64xBgfYCGpri/mN4cZl5MSkzmqKji3U9DZc77HQDjX8cWxrFKwH15Jc3MRZ+EBLU5ulBnqBX6CUNYkwMLqX0F9uY/IwOivDV6FTuY3bNU/Bv8XYyPglfsKyimfAVcm4a+G+Bf5S/Fh0AxcXLh8F6PMXm6w57xWb8p9pjyN/fJmekuVtSh/AXV1QyREUXfmQOPMcozegn+Osb1UZdbptxb/wTaGlXBpeBHpbJhvAO6lYPKTJqG8r0Ousag9xn4e6ALmF/DOCJ1YIZoTjdpp7aOq4Z11yeanN8QhSBlCJKGXhL1BmGmKXSZB9GxdKKkw2U1TaYtzUKHpHt9l+uk8j15LbEAXCdU0g0FSGZ1FAGg3VZXyIrQPJNtnMY6nPJaxMr/L2Sh34d/ASh0NxrM80kABODhH6Gug8rnA+gtkO5mwUkafi5qul/4y4lauK9wa8C/hhH5b+jKPVfXrlUE6B+2WxBcr2zjaAAAAABJRU5ErkJggg=="
+/>
 
 ---
 
@@ -96,13 +94,11 @@ bearbeiten.
 
 ## Fertig sieht das dann zum Beispiel so aus:
 
-<RemoteImage
-  alt="piqd"
-  size="large"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Bildschirmfoto-2017-06-21-um-14.01.04.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Bildschirmfoto-2017-06-21-um-14.01.04.png__l.jpg"
-  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAICAYAAACYhf2vAAAACXBIWXMAAAsTAAALEwEAmpwYAAABaUlEQVQ4y51TTU+DQBDlx/Z3+Hv07sWknjw28VCBFkg/oIXCLl/2UK1Gn/M2WbshbVIleZllGN57MwNed/yEOnzg+PWNv14PqcI40/jPdX97h+fJBF6lNbSuUdcnaMl1XYdyt8PT4xiFxM1mg6qqTL5pGvRti7xSKKWW51pyzQAu5y/I3ffI0xRK+DwmamPiBAr1+z2iwMfNaITQ9/EiiKIIcRxjJ4aUUmi0Qi2R9bx3YXPks9FFy0bEuKfZ8TmnglcxcXh7h5IXUnGcZRkWi4U5r1Yrg/V6jeVyaUBzSZKYGkYa5SQoOOS2Rrxh9xa2qBWXFAmCAPP53GA2m5l7xlAixWkuz3OzKmK73Zp1uWIut4V3rvOhAXY6nU7hyxoo6prgWsIwNDkbjTE5c1Iu1zmtqwyQiKTslLtld2VZoigK0zVHzfzwW2DNkPMqA+5L3CFFKEohinIijBw118PnNOp++e6fcEmc+AG7nblzicEesQAAAABJRU5ErkJggg==" />
+<RemoteImage alt={`piqd`} size="large" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Bildschirmfoto-2017-06-21-um-14.01.04.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Bildschirmfoto-2017-06-21-um-14.01.04.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAICAYAAACYhf2vAAAACXBIWXMAAAsTAAALEwEAmpwYAAABaUlEQVQ4y51TTU+DQBDlx/Z3+Hv07sWknjw28VCBFkg/oIXCLl/2UK1Gn/M2WbshbVIleZllGN57MwNed/yEOnzg+PWNv14PqcI40/jPdX97h+fJBF6lNbSuUdcnaMl1XYdyt8PT4xiFxM1mg6qqTL5pGvRti7xSKKWW51pyzQAu5y/I3ffI0xRK+DwmamPiBAr1+z2iwMfNaITQ9/EiiKIIcRxjJ4aUUmi0Qi2R9bx3YXPks9FFy0bEuKfZ8TmnglcxcXh7h5IXUnGcZRkWi4U5r1Yrg/V6jeVyaUBzSZKYGkYa5SQoOOS2Rrxh9xa2qBWXFAmCAPP53GA2m5l7xlAixWkuz3OzKmK73Zp1uWIut4V3rvOhAXY6nU7hyxoo6prgWsIwNDkbjTE5c1Iu1zmtqwyQiKTslLtld2VZoigK0zVHzfzwW2DNkPMqA+5L3CFFKEohinIijBw118PnNOp++e6fcEmc+AG7nblzicEesQAAAABJRU5ErkJggg=="
+/>
 
 [](https://www.piqd.de/?utm_source=blog&utm_medium=beitrag&utm_campaign=trusted-blogshttp://)
 
@@ -152,13 +148,11 @@ Den/die GewinnerIn kontaktiere ich dann per E-Mail.**
 
 Ich wünsche Euch viel Glück!
 
-<RemoteImage
-  alt="piqd"
-  size="large"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Bildschirmfoto-2017-06-21-um-15.20.51.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Bildschirmfoto-2017-06-21-um-15.20.51.png__l.jpg"
-  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAQCAYAAAB3AH1ZAAAACXBIWXMAAAsTAAALEwEAmpwYAAADbklEQVRIx8WVXWyTVRjH32hMjFx5adSE3YDJ1GmiRsALuBgJ8QIEhwkowQs/14i4jhAQY2AytqkIEhdwNs6qndIVWpd1c2KApYOZgaDbAJVNVtm6reu69eP9fn+et60TpM3CuPAk/+S853n+z/M/53nOeaVIUuZqIk1C1VB1A1lAuQb2mmZcD3vNHseujBEciGTmaU2f4ci6jqxlofwnXlrkyXCD7XSd7ESSnJ8hORuQKgpg00EkR/2NePMQUqXgbnHl5zsbCsetFJytjUjb3Eh3vt/Mv/Dl0MxdH/iQ9hzmUdf3bAh0s8bXxWpfiBVNJ1h39BQPf9qO9N43WV5dM3fUerl9j5fbBOfuvUeZX9/KvQda8sT2cW1Oif95zCrgq8MhKnZ4GB0cIjYUpvOYn+r9R3C+8yX1De0kEwmUyQitP4d5/ZPjVHt7OPf7cI5tzS7AtCzyQc812hvbGyle5KSvo4Xz3wXw79vFjnc/pOjxzax6oS6XRGd57Y88trmJ+qYOyj8OZrimaWIIFMphI+8JWMJgGGZmXr71EMVLXuGPgIeRNg9nD1bxrWs/C5Y4WPHczozP2LTKQ699zroqH54feui7HJ6JY+OmS2BzTDNLPPPLIC0dpxnp7SEx0MtQ30/09/fhb+vmeKg34xNPKbR1XSRw8gLnrkQza6qqosjKrEIK9oBpZksQCffj97kK7uDqpTOETnjz2nRdnemFOQjIlmDgz0H8wSBTskoskURVZGRZFjvU0EWZJqKjXLh8kcmkQjpt2xQ0YVMUBVVT5i7gH4ItYyqZ5q+RCKPRCVKpFGauP7IvoMbweJSxWBRZiItNx5FVGcMy88a7aQG6bt5gU/Xsc2rkrpklkum5ks34aLZ9jgJsZ9PI0re8upbVpSUc8BzB3TPE7rqdPLnmHpqaA+yqeRuzU4Z24dgp/EMQaJxgvcOF+4H7cG90zF2AIX4o9ni5bCkL50ksW1zCxlWLefaZIhaVzWPZE09xf/ECOCUSd8B0K3xU+xvPb/qCcFsUZXsZ58uX34IAIyugYsNSSoskaipfIuj+mpp925j/oMRbK9ey/sWV0J1gYLeXR56uYm9JKeOOajibEqcxLmyXbr0HpuJxRkfC1z2qU/EYaPZKAku3GB/+lYlJcf/lSfGtZxrXEo1q78GaRcDfRuwDciQwaJoAAAAASUVORK5CYII=" />
+<RemoteImage alt={`piqd`} size="large" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Bildschirmfoto-2017-06-21-um-15.20.51.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Bildschirmfoto-2017-06-21-um-15.20.51.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAQCAYAAAB3AH1ZAAAACXBIWXMAAAsTAAALEwEAmpwYAAADbklEQVRIx8WVXWyTVRjH32hMjFx5adSE3YDJ1GmiRsALuBgJ8QIEhwkowQs/14i4jhAQY2AytqkIEhdwNs6qndIVWpd1c2KApYOZgaDbAJVNVtm6reu69eP9fn+et60TpM3CuPAk/+S853n+z/M/53nOeaVIUuZqIk1C1VB1A1lAuQb2mmZcD3vNHseujBEciGTmaU2f4ci6jqxlofwnXlrkyXCD7XSd7ESSnJ8hORuQKgpg00EkR/2NePMQUqXgbnHl5zsbCsetFJytjUjb3Eh3vt/Mv/Dl0MxdH/iQ9hzmUdf3bAh0s8bXxWpfiBVNJ1h39BQPf9qO9N43WV5dM3fUerl9j5fbBOfuvUeZX9/KvQda8sT2cW1Oif95zCrgq8MhKnZ4GB0cIjYUpvOYn+r9R3C+8yX1De0kEwmUyQitP4d5/ZPjVHt7OPf7cI5tzS7AtCzyQc812hvbGyle5KSvo4Xz3wXw79vFjnc/pOjxzax6oS6XRGd57Y88trmJ+qYOyj8OZrimaWIIFMphI+8JWMJgGGZmXr71EMVLXuGPgIeRNg9nD1bxrWs/C5Y4WPHczozP2LTKQ699zroqH54feui7HJ6JY+OmS2BzTDNLPPPLIC0dpxnp7SEx0MtQ30/09/fhb+vmeKg34xNPKbR1XSRw8gLnrkQza6qqosjKrEIK9oBpZksQCffj97kK7uDqpTOETnjz2nRdnemFOQjIlmDgz0H8wSBTskoskURVZGRZFjvU0EWZJqKjXLh8kcmkQjpt2xQ0YVMUBVVT5i7gH4ItYyqZ5q+RCKPRCVKpFGauP7IvoMbweJSxWBRZiItNx5FVGcMy88a7aQG6bt5gU/Xsc2rkrpklkum5ks34aLZ9jgJsZ9PI0re8upbVpSUc8BzB3TPE7rqdPLnmHpqaA+yqeRuzU4Z24dgp/EMQaJxgvcOF+4H7cG90zF2AIX4o9ni5bCkL50ksW1zCxlWLefaZIhaVzWPZE09xf/ECOCUSd8B0K3xU+xvPb/qCcFsUZXsZ58uX34IAIyugYsNSSoskaipfIuj+mpp925j/oMRbK9ey/sWV0J1gYLeXR56uYm9JKeOOajibEqcxLmyXbr0HpuJxRkfC1z2qU/EYaPZKAku3GB/+lYlJcf/lSfGtZxrXEo1q78GaRcDfRuwDciQwaJoAAAAASUVORK5CYII="
+/>
 
 [](https://www.piqd.de/?utm_source=blog&utm_medium=beitrag&utm_campaign=trusted-blogshttp://)
 

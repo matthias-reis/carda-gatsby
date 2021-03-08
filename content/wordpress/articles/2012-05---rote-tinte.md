@@ -10,7 +10,6 @@ excerpt: Du sitzt in der Badewanne und weinst. Wäschst Dir den Staub aus den
   Haaren. Du hast immer gekämpft dafür.
 focusKeyword: Rote Tinte
 labels:
-  - "&lt;3"
   - Applaus
   - Archive
   - Aufbruch
@@ -25,6 +24,7 @@ labels:
   - Freude
   - Fuck You
   - Gedanken
+  - Geschichten & Erlebtes
   - Haare
   - Haut
   - Herz
@@ -32,7 +32,6 @@ labels:
   - kämpfen
   - Licht
   - Neid
-  - Prosa
   - rot
   - rote Tinte
   - Sand
@@ -77,7 +76,7 @@ Und Du sitzt in der Badewanne und weinst. Wäschst Dir den Staub aus den Haaren.
 Du hast immer gekämpft dafür. Du wolltest es erleben. Doch am Ende hat immer das
 Geld gefehlt. Und Du hattest die falschen Kontakte. Es gibt viele, die schuldig
 sind für Dein Elend. Du wäschst Dir Deine Augen mit Seife aus, reibst Dir mit
-dem Sand der Zeit tiefe, blutige Striemen in die Haut. Du legst Dich hin und
+dem Sand der Zeit tiefe, blutige Striemen in die Haut.  Du legst Dich hin und
 drückst Deinen Kopf unter Wasser. Möchtest schlafen. Dich davontragen lassen.
 Dort aufwachen, wo Du schon immer sein wolltest. Es wird dunkel. Sterne vor
 Deinen Augen. Dann erkennst Du irgendwo in der Ferne die Wahrheit.
@@ -111,7 +110,9 @@ Ab jetzt wirst Du keine Pläne mehr aufschreiben. Du wirst alles einfach erleben
 Und wenn Du in Dich gehst, bist Du schon mitten drin. Denn so mancher Traum hat
 sich vielleicht schon unbemerkt in Dein Leben geschlichen.
 
-_Dieser Text ist Justine gewidmet._ **Song zum Text: Archive - Fuck You**
+_Dieser Text ist Justine gewidmet._
+
+**Song zum Text: Archive - Fuck You**
 
 [youtube=http://www.youtube.com/watch?v=A4gBzUwo6Iw] There’s a look on your face
 I would like to knock out See the sin in your grin and the shape of your mouth
@@ -149,6 +150,8 @@ think I can so fuck you anyway
 
 So fuck you anyway (Repeat x 11)
 
-\_\_\_\_ <div></div>
+---
+
+<div> </div>
 
   

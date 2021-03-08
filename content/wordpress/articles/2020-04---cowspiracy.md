@@ -16,6 +16,9 @@ labels:
   - Cowspiracy
   - Filmtipp
   - Netflix
+  - Tierhaltung
+  - Tierrechte
+  - Tierschutz
   - vegane Doku
 type: Artikel
 typeName: Filmtipp
@@ -49,13 +52,11 @@ weitere Umweltkrankheiten. Sie ist für mehr Treibhausgase verantwortlich, als
 die Transportindustrie. Dennoch wird dieses Handeln bis heute kaum hinterfragt
 und ungebremst weitergeführt.
 
-<RemoteImage
-  alt="vegane-doku"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_cowspiracy219__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_cowspiracy219__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAAGB//EACwQAAEDAwMDAgUFAAAAAAAAAAECAwQABREHEiEGMVETQhUiQXGRCCQyM8H/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAdEQACAwEAAwEAAAAAAAAAAAABAgARIQMiYZHh/9oADAMBAAIRAxEAPwDtutt5j9P6fTbnMtHxiNHdZU5E9VTe5JcAJ3JBxjOfHFE1eoap92ny7SiXbbf6xLTTS1ft2eEpKjuJJ+pPk+KTX6nEOOaL35LJIXvij8yGx/tEiLbE9ORV3N1TEmTHU0FQ5EVSmnfUK0hCgMDj01KwojOAOcEVfLqvNvLfXz8mXVC60MiC0O1EmX+8w4vwa6mNHi4mXJ24PuMlwDG4Nq+Qbj2Gc/ikSCCMjtQR006imW++R4sGa3b3JOGFrmpddbTuIIw2kEFavbge4jjvTYsc0PxWyQvsB8yCknwdp5H2PNQxpqMpGsTP60WGR1Npne7TDUymRIQ0UF5RCMpdQvkgE+3xRwjaDdXyZDElErp1oNrC8Jfe525AH9WOMn7VVUMAVIMSamhs+gN3uV3cN6vaURlyEvyjHlLWvKSSNgLaQP5EZPbPY0nI8VLQH1x2qqoG6YIMn//Z" />
+<RemoteImage alt={`vegane-doku`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_cowspiracy219__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_cowspiracy219__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAAGB//EACwQAAEDAwMDAgUFAAAAAAAAAAECAwQABREHEiEGMVETQhUiQXGRCCQyM8H/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAdEQACAwEAAwEAAAAAAAAAAAABAgARIQMiYZHh/9oADAMBAAIRAxEAPwDtutt5j9P6fTbnMtHxiNHdZU5E9VTe5JcAJ3JBxjOfHFE1eoap92ny7SiXbbf6xLTTS1ft2eEpKjuJJ+pPk+KTX6nEOOaL35LJIXvij8yGx/tEiLbE9ORV3N1TEmTHU0FQ5EVSmnfUK0hCgMDj01KwojOAOcEVfLqvNvLfXz8mXVC60MiC0O1EmX+8w4vwa6mNHi4mXJ24PuMlwDG4Nq+Qbj2Gc/ikSCCMjtQR006imW++R4sGa3b3JOGFrmpddbTuIIw2kEFavbge4jjvTYsc0PxWyQvsB8yCknwdp5H2PNQxpqMpGsTP60WGR1Npne7TDUymRIQ0UF5RCMpdQvkgE+3xRwjaDdXyZDElErp1oNrC8Jfe525AH9WOMn7VVUMAVIMSamhs+gN3uV3cN6vaURlyEvyjHlLWvKSSNgLaQP5EZPbPY0nI8VLQH1x2qqoG6YIMn//Z"
+/>
 
 Während seiner Recherche spricht Andersen mit den führenden Persönlichkeiten der
 Umweltbewegung und findet dabei heraus, dass sie sich vehement weigern, mit ihm
@@ -92,5 +93,7 @@ Movement A.U.M.
 <iframe src="https://www.youtube.com/embed/nV04zyfLyN4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
 
 [Homepage Cowspiracy](https://www.cowspiracy.com/)
+
+Der zweite Teil des Films heißt [Seaspiracy](/2021/02/seaspiracy/)
 
   

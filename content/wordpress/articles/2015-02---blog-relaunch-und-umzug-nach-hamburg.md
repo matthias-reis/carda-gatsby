@@ -13,11 +13,11 @@ focusKeyword: Umzug
 labels:
   - Design
   - die schönste Stadt der Welt
+  - Geschichten & Erlebtes
   - Hab und Gut
   - Hamburg
   - Liebe
   - Neuanfang
-  - Tagebuch
   - Tagebuch
   - Tattoo
   - Umzug
@@ -33,19 +33,22 @@ thumbnailId: "9464"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02_16341484335_3cab85705b_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_02_16341484335_3cab85705b_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBwUI/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDAAQRBRIhBhQxE1GRIiNBcTJSgf/EABcBAQEBAQAAAAAAAAAAAAAAAAQFAQL/xAAbEQADAQADAQAAAAAAAAAAAAAAAQIRBCFBA//aAAwDAQACEQMRAD8AUtekGESByqljypwMexBz+6pdP0We1hkdlt57eJBv3xKQFHI5x4rMX1i3SNhNLKSBub1NwBAP58+Ca6+ialpdx9I7dN/BAuFdWA9wSDxVO+Y6WPCbHCmK1aaL2+n2t3PFcW1tPfMDI+VEnG3IGFHHAqpg6cghtkj7cqwwPUGRnJ9v94qB0yGyLNNHawFm4MigqTnjzmqa2EEQLR2bNJ5JibJ85/tnzQr+jfo2IleHmmDqG9g2JfRRX8Q4DEBHA/f8T8CnobzpvUGX1WazucAYl+18Zypooo7XWid7xj1zos7iNtI1RbdVYMqSAshIHBBU+/PxRE3W2lsJYH71gGG6C43l845KsQQRj8CiiuFTNco//9k=
-subTitle: "Teil III: Die Vorfreude"
+subTitle: Teil III: Die Vorfreude
   
 ---
 
-<RemoteImage
-  alt="Oskar fragt sich, was los ist"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Oskar fragt sich, was los ist"
-  mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/16427078811_31c1a4b20c_z.jpg?w=300"
-  largeUrl="https://cardamonchai.files.wordpress.com/2015/02/16427078811_31c1a4b20c_z.jpg?w=300"
-  loadingUrl="undefined" />
+## cardamonchai schon bald in neuem Gewand
 
-**So formulierte es einst Aristoteles. (
+> **"Wir können den Wind nicht ändern, aber wir können die Segel richtig
+> setzen!" Aristoteles**
+
+<RemoteImage alt={`Oskar fragt sich, was los ist`} size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Oskar fragt sich, was los ist`}
+mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/16427078811_31c1a4b20c_z.jpg?w=300"
+largeUrl="https://cardamonchai.files.wordpress.com/2015/02/16427078811_31c1a4b20c_z.jpg?w=300"
+loadingUrl="undefined" />
+
+**(
 [_Hier gehts zum zweiten Teil des Artikels_](/2014/08/21/wie-picasso-nur-mit-strom/)
 ) Derzeit herrscht hier Aufbruchstimmung. Wenn ich nicht am Computer sitze und
 schreibe, sortiere ich unser Hab und Gut aus und packe alles, was nicht
@@ -66,19 +69,17 @@ nicht mehr passen, Fotos, sogar Möbelstücke, man glaubt es kaum.
 Und von Woche zu Woche wird der Stapel größer, die **Trennung** wird immer
 leichter, irgendwann macht man sich nicht mehr so viele Gedanken, ob man das
 Buch jetzt wirklich wegwerfen soll. Schließlich muss ja alles in einer Tour nach
-Hamburg gehen und da kann man einfach nicht so viel mitnehmen. Letzte Woche
+Hamburg gehen und da kann man einfach nicht so viel mitnehmen. Letzte Woche
 haben wir ein paar Sachen zum Schrottplatz gefahren, inzwischen bin ich mir
 nicht ganz sicher, dass das unser letzter Besuch dort war.
 
 ### Auch die Stubentiger kommen mit
 
-<RemoteImage
-  alt="Chili schläft gerne im Auto"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Chili schläft gerne im Auto"
-  mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/16304443177_47613ca2b5_z.jpg?w=300"
-  largeUrl="https://cardamonchai.files.wordpress.com/2015/02/16304443177_47613ca2b5_z.jpg?w=300"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Chili schläft gerne im Auto`} size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Chili schläft gerne im Auto`}
+mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/16304443177_47613ca2b5_z.jpg?w=300"
+largeUrl="https://cardamonchai.files.wordpress.com/2015/02/16304443177_47613ca2b5_z.jpg?w=300"
+loadingUrl="undefined" />
 
 Natürlich kommen auch unsere beiden Stubentiger mit, die gewöhnen sich gerade
 schon an einen großen, bequemen Hundekorb, der bei uns im Wohnzimmer zum festen
@@ -94,15 +95,20 @@ Ihr habt richtig gelesen, die Vorbereitungen für den Umzug meines Blogs liegen
 auch in den letzten Zügen, noch ein paar Tage, dann erstrahlt cardamonchai in
 neuem Glanz.
 
-### Die Tätowierung ist endlich fertig [Einen kleinen Vorgeschmack](/2014/05/20/tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne/) hatte ich Euch ja letztes Jahr schon gegeben, der Herzmann hat mit seinen Programmier- und Designkünsten wahre Wunder bewirkt und eine ganz tolle, neue Seite ist entstanden, schon bald wird sie unter [cardamonchai.com](http://www.cardamonchai.com) zu erreichen sein. Ich bin selbst schon ganz aufgeregt und kann es kaum noch erwarten.
+### Die Tätowierung ist endlich fertig
 
-<RemoteImage
-  alt="Das Tattoo ist endlich vollständig"
-  size="medium"
-  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Das Tattoo ist endlich vollständig"
-  mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/10959249_906589656029831_7547401194000002658_o.jpg?w=225"
-  largeUrl="https://cardamonchai.files.wordpress.com/2015/02/10959249_906589656029831_7547401194000002658_o.jpg?w=225"
-  loadingUrl="undefined" />
+[Einen kleinen Vorgeschmack](/2014/05/20/tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne/)
+hatte ich Euch ja letztes Jahr schon gegeben, der Herzmann hat mit seinen
+Programmier- und Designkünsten wahre Wunder bewirkt und eine ganz tolle, neue
+Seite ist entstanden, schon bald wird sie unter
+[cardamonchai.com](http://www.cardamonchai.com) zu erreichen sein. Ich bin
+selbst schon ganz aufgeregt und kann es kaum noch erwarten.
+
+<RemoteImage alt={`Das Tattoo ist endlich vollständig`} size="medium"
+title={`[ ](https://www.flickr.com/photos/99929697@N07/) Das Tattoo ist endlich vollständig`}
+mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/10959249_906589656029831_7547401194000002658_o.jpg?w=225"
+largeUrl="https://cardamonchai.files.wordpress.com/2015/02/10959249_906589656029831_7547401194000002658_o.jpg?w=225"
+loadingUrl="undefined" />
 
 Inzwischen ist die ursprünglich geplante Designvorlage, mein **Tattoo** auch
 fertig, [Mat](http://instagram.com/matstache) hat es letzte Woche noch mit einem
@@ -119,7 +125,8 @@ Bis bald Anne &lt;3
 
 _PS: Ein kleines Fototagebuch zum Umzug findet Ihr in meinem
 [Instagram](http://instagram.com/anne_reko/). _
-[_ **Hier gehts zum vierten Teil des Artikels** _](/2015/03/zum-abschied-sag-ich-ganz-laut-tschuess/)
+
+[_ **Hier gehts  zum vierten Teil des Artikels** _](/2015/03/zum-abschied-sag-ich-ganz-laut-tschuess/)
 
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16153890018_079946d494_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16153890018_079946d494_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16315529296_781afcaff8_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16315529296_781afcaff8_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16315519846_e5959188dc_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16315519846_e5959188dc_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16155320399_48821b3c11_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16155320399_48821b3c11_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16155307199_cf95c988b1_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16155307199_cf95c988b1_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16341484335_3cab85705b_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16341484335_3cab85705b_z__l.jpg"}]}

@@ -12,9 +12,9 @@ excerpt: Das Schoss von Kalmar erhielt sein heutiges Aussehen, als die
   machten. Am 21. Juni haben wir es besucht und einiges gesehen.
 focusKeyword: Kalmar
 labels:
+  - Fernweh
   - Kalmar Slott
   - Ostsee
-  - Reisen
   - Renaissance
   - Schloss
   - Schloss Kalmar

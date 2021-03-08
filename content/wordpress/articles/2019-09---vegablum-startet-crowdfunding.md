@@ -10,6 +10,8 @@ excerpt: Werbung - Vegablum aus Hagen ist beim Food-Startup Context Next Level!
   2019 mit dabei. Beim Wettbewerb treten insgesamt 19 Startups gegeneinander an.
 focusKeyword: Vegablum
 labels:
+  - Ernährung
+  - Ernährung & Gesundheit
   - Next Level!
   - Start-up
   - Start-up Wettbewerb
@@ -18,9 +20,9 @@ labels:
   - Vegablum
   - vegan
   - Vegan Innovation Award
+  - vegane Ernährung
   - vegane Honigalternative
   - vegane Metalternative
-  - Vegane Produkte
   - Veganfach
   - Wonig
 type: Artikel

@@ -23,6 +23,7 @@ labels:
   - Flughafen
   - Gedanken
   - Generalstreik
+  - Geschichten & Erlebtes
   - Hunger
   - Kino
   - Krieg
@@ -35,7 +36,6 @@ labels:
   - Nachrichten
   - Nanamintchai
   - Petitionen
-  - Prosa
   - Redaktion
   - Schreibmaschinen
   - Smetana
@@ -65,7 +65,7 @@ subTitle: Was der Alltag so mitbringt
 ---
 
 Telefonläuten und E-Mail-Stau Das Rattern moderner Schreibmaschinen Motorenlärm
-und Bildschirmflackern Kaffeemaschinen und Druckerstaub Halbgefrorenes
+und Bildschirmflackern Kaffeemaschinen und Druckerstaub Halbgefrorenes 
 Fertiggericht Von Neonröhren gegahrtes Plastiksandwich Elektrosmog - praktisch
 und kabellos
 

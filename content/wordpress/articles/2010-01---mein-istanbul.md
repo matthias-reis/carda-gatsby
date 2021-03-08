@@ -13,9 +13,9 @@ labels:
   - Bosporus
   - Drehort
   - Fatih Akin
+  - Fernweh
   - Istanbul
   - Januar
-  - Reisen
   - Türkei
 type: Galerie
 typeName: Galerie
@@ -32,11 +32,13 @@ subTitle: "Januar 2010: 4 Tage Istanbul"
   
 ---
 
-Die Stadt am Bosporus hat die Bezeichnung "Lieblingsstadt" eindeutig verdient
+**Auf den Spuren von Fatih Akin an den Drehorten von "Gegen die Wand" und "Auf
+der anderen Seite". Die Stadt am Bosporus hat die Bezeichnung "Lieblingsstadt"
+eindeutig verdient.**
 
 <Gallery name="flickr/istanbul2010anne" />
 
-Fotos: Anne Reko Istanbul, Türkei 2010
+Fotos: Istanbul, Türkei 2010
 
 &nbsp;
 

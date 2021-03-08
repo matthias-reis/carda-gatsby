@@ -14,8 +14,8 @@ labels:
   - Ärzte gegen Tierversuche
   - Bundestag
   - crueltyfree
-  - Darum vegan
   - go vegan
+  - Tierrechte
   - Tierrechte
   - Tierrechtsaktivisten
   - Tierschutz
@@ -36,13 +36,11 @@ subTitle: Bundestagspetition
   
 ---
 
-<RemoteImage
-  alt="Ärzte gegen Tierversuche"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_004___m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_004___l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAwcI/8QAKBAAAgEEAgIBAgcAAAAAAAAAAQIDAAQFERIhBjFhE0IiQVFSkcHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEh/9oADAMBAAIRAxEAPwDpkqS7cdDrZP6dVNZS+uLZiSyaH7t7P8A03wGRGQWac7SNWCfi671Uv5h5liMDl1xd1Hc3V20ZldbZOYhH28ydAcu/z318iobWaGN8RksfJptyCP6c/BebLGxOl3r0Rsf5VFhMpBmEWe2+0Mkq++LdaH9ipSWxmGNsprxwbzmZy1qDGiBtERqDs6Gh2eydnreqs8FBHBYKIY1jVmLlVGhs+6U6Ahwl0YsdkOKjSAS6+QR1SLzXK3ePhsXs5mjeSREO9MuhCjDojXtiaKKueyZ28YpxmRv8heCbIXs1wqa4xnSrs/AArbdooS1hVQAAo6FFFCHB/9k=" />
+<RemoteImage alt={`Ärzte gegen Tierversuche`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_004___m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_004___l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAwcI/8QAKBAAAgEEAgIBAgcAAAAAAAAAAQIDAAQFERIhBjFhE0IiQVFSkcHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEh/9oADAMBAAIRAxEAPwDpkqS7cdDrZP6dVNZS+uLZiSyaH7t7P8A03wGRGQWac7SNWCfi671Uv5h5liMDl1xd1Hc3V20ZldbZOYhH28ydAcu/z318iobWaGN8RksfJptyCP6c/BebLGxOl3r0Rsf5VFhMpBmEWe2+0Mkq++LdaH9ipSWxmGNsprxwbzmZy1qDGiBtERqDs6Gh2eydnreqs8FBHBYKIY1jVmLlVGhs+6U6Ahwl0YsdkOKjSAS6+QR1SLzXK3ePhsXs5mjeSREO9MuhCjDojXtiaKKueyZ28YpxmRv8heCbIXs1wqa4xnSrs/AArbdooS1hVQAAo6FFFCHB/9k="
+/>
 
 **Die  _Ärzte gegen Tierversuche_ benötigen 50.000 Unterschriften. Liegen diese
 bis zum 11. April vor, dürfen sie ihre Argumente bei einer offiziellen Anhörung
@@ -109,13 +107,11 @@ erreicht werden!
 Wer jetzt noch juristische und wissenschaftliche Argumente benötigt, findet
 diese mit dem Klick auf folgendes Banner.
 
-<RemoteImage
-  alt="Ärzte gegen Tierversuche"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_17553490_10155616921599796_7138675616111581720_n__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_17553490_10155616921599796_7138675616111581720_n__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQIEB//EAC4QAAEDBAECBAMJAAAAAAAAAAECAwQABREhBhITIjFRYUGBoQcUFyMyQnGiwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADBBESITFh/9oADAMBAAIRAxEAPwDrN1uEuMC3CQHpCjtzHUW97GPWpLPeZFxku2ue3Jjy0pEgSEMlDRSF/oBB2cep3Wy9x6NEWmY4VrU0srBU5hKSfiR86y5PehYrLFkvvtx1OvdoBwqOfApWBhKt4ST5D/Km7Gyxj615EKg2ZZvSHu0Shl3r6jlIxnHrk6qNqSpC0h+O6NaVnufXOBSB+IsdxILk2IpJGcAPe3l+Tsb+lNHHrvLvFpj3Cyw7XIhO9QS994cb6ykkHRQD5jG/5o1sVvIyzCvqHJ10PvUueTJS9BZhuBXRMkNsKUk4KQT1E/1x86reccZZ5PBjRXpDsZLT3dSWwD+xSMb9lmiijKhujJxY1OrEOiIlo+yyMULBvM8qVjxlKSR4ca1j4CmzjjTfFbQzZ21PS0sKcX3nVgKUVKKjnA96KKwVKnaiE+fkZI4Wtse+Cf/Z" />
+<RemoteImage alt={`Ärzte gegen Tierversuche`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_17553490_10155616921599796_7138675616111581720_n__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_17553490_10155616921599796_7138675616111581720_n__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQIEB//EAC4QAAEDBAECBAMJAAAAAAAAAAECAwQABREhBhITIjFRYUGBoQcUFyMyQnGiwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADBBESITFh/9oADAMBAAIRAxEAPwDrN1uEuMC3CQHpCjtzHUW97GPWpLPeZFxku2ue3Jjy0pEgSEMlDRSF/oBB2cep3Wy9x6NEWmY4VrU0srBU5hKSfiR86y5PehYrLFkvvtx1OvdoBwqOfApWBhKt4ST5D/Km7Gyxj615EKg2ZZvSHu0Shl3r6jlIxnHrk6qNqSpC0h+O6NaVnufXOBSB+IsdxILk2IpJGcAPe3l+Tsb+lNHHrvLvFpj3Cyw7XIhO9QS994cb6ykkHRQD5jG/5o1sVvIyzCvqHJ10PvUueTJS9BZhuBXRMkNsKUk4KQT1E/1x86reccZZ5PBjRXpDsZLT3dSWwD+xSMb9lmiijKhujJxY1OrEOiIlo+yyMULBvM8qVjxlKSR4ca1j4CmzjjTfFbQzZ21PS0sKcX3nVgKUVKKjnA96KKwVKnaiE+fkZI4Wtse+Cf/Z"
+/>
 
 [](http://www.schwimmen-bis-zur-verzweiflung.de/)
 

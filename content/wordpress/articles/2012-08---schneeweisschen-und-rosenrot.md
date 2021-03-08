@@ -11,12 +11,12 @@ excerpt: Im Eden Project in St. Austell habe ich einige der schönsten Rosen
 focusKeyword: Rosen
 labels:
   - Blumen
-  - Brititsche Inseln
+  - Britische Inseln
   - Eden Project
   - England
   - england2012
+  - Fernweh
   - Liebe
-  - Reisen
   - Rosen
   - Schneeweißchen & Rosenrot
 type: Galerie
@@ -34,12 +34,18 @@ subTitle: Erinnerungen an den Sommer in England 2012 - Teil 9/9
   
 ---
 
+## Rosen
+
+[_Teil 8/9_](/2012/08/fabelwesen/) Gesehen im Eden Project, St. Austell,
+England, 6/2012
+
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0196__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0196__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0195__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0195__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0193__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0193__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0192__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0192__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0191__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0191__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0188__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0188__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0187__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0187__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0185__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0185__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0183__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0183__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0181__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0181__l.jpg"}]}
 />
 
-## England 2012 Wegweiser1. [Sonne im Hafen](http://wp.me/p533wO-Ry)
+## England 2012 Wegweiser
 
+1.  [Sonne im Hafen](http://wp.me/p533wO-Ry)
 1.  [Der Kater und der Leuchtturm](/2012/08/der-kater-und-der-leuchtturm/)
 1.  [Glastonbury](/2012/07/glastonbury/)
 1.  [Isle Of Wight Festival](/2012/07/isle-of-wight-festival-2012/)

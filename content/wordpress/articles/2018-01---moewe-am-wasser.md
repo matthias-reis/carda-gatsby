@@ -16,20 +16,21 @@ labels:
   - Elbe
   - Flarf
   - Flarfgedicht
+  - Geschichten & Erlebtes
   - Hafen
   - Hafencity
+  - Hamburg
   - Hamburg
   - Hamburger Hafen
   - Internet
   - Kälte
-  - Lyrik
   - Möwe
   - Muscheln
   - Salz
   - Wasser
   - Winter
 type: Artikel
-typeName: Artikel
+typeName: Gedicht
 date: 2018-01-17T18:00:13.000Z
 status: publish
 isWerbung: false
@@ -43,6 +44,8 @@ subTitle: Winter im Hafen
   
 ---
 
+<blockquote>
+
 Die Freiheit die Sonne das Wasser. Eiswasser. Frisch und klar. Winterruhe, Mann!
 
 Die Schwingen der Freiheit. Am späten Nachmittag Grün-blau schimmert das Wasser.
@@ -51,6 +54,8 @@ Wasserflut, Salz auf dem Schnabel. Gegen die Tristesse. Wintersonne, Wind und
 Eis.
 
 Weiterschwimmen. Muscheln sammeln. Aufplustern. Wärmen. Dösen.
+
+</blockquote>
 
 Bei diesem Text handelt es sich um ein Flarf-Gedicht. Wer gerne wissen möchte,
 was das ist,

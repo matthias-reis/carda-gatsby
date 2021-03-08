@@ -13,7 +13,7 @@ excerpt: Affiliate Link - Patrick Bolk berichtet in seinem Buch "So geht vegan"
 focusKeyword: Patrick Bolk
 labels:
   - Bücher & Filme
-  - Darum vegan
+  - Ernährung & Gesundheit
   - go vegan
   - Patrick Bolk
   - So geht vegan
@@ -36,6 +36,14 @@ subTitle: Ein Buch für Vegan-Einsteiger
   
 ---
 
+_Affiliate Link\*_
+
+**"So geht vegan" von Patrick Bolk hebt sich in einem Punkt von sehr vielen
+anderen Büchern und Veröffentlichungen des Genres ab: Es ist sehr positiv
+geschrieben. Bolk ist schon sehr viel weiter, als einige andere Vertreter der
+Szene. Bei ihm ist der Veganismus bereits in der Mitte der Gesellschaft
+angekommen.**
+
 Ob das wirklich so ist, sei dahingestellt, auf Neuveganer wirkt es sehr
 motivierend. Ich las bei meiner Umstellung ständig (und lese auch heute noch) in
 Texten von Veganern, man solle sich in Acht nehmen, Veganer hätten den Ruf
@@ -48,15 +56,18 @@ untereinander Positives weitergeben, um eine positive Sache voranzubringen und
 das hat Patrick Bolk verstanden. Vom Einstieg an macht er alles richtig. Als
 Neuling hätte ich mir ein solches Buch auf jeden Fall gewünscht.
 
-<RemoteImage
-  alt="patrick-bolk"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEAgX/xAAsEAABAwMDAgQGAwAAAAAAAAABAgMEAAURBhIhBxMUMUFhFiIjUnGRYsHR/8QAFwEBAAMAAAAAAAAAAAAAAAAAAwECBP/EAB8RAAEDBAMBAAAAAAAAAAAAAAEAAhEDEiEjIjFRQf/aAAwDAQACEQMRAD8A6g9SZiLrcIkfT0UoivqaClSHCSB68D3r1pXUK5rZw1ZYJJGcJLxx+8UBZW1bdW6j3lSFGasDtHAAUkE8fqtEi7goCS3MUyEDP1iBgf1/lQ0m0GETnbCLoyfUu0Dqp29TLqm7w4bZZ7Rb7W7kK35zkn7RVRHp+9i53lZCUhSWSAPQZd4qpCEtN8tBKOXa4P8AxjqNDDanD4/dgDjjGPP8VnmXhwlxiS2uOoK2uBZ5A9xjzp9J6P3C5ahuNxi6ojRESni4lvwy1lIPvuHNTvQuYlSnTq6Mt48nfCVyfXPz1nZM8ogDHqWuymW65uJz1EZ6+oRoq7tNT7oG3ApOxkAn8uVUmtXSSVZnpQOoIy+8QeIihjGf5e9VNeVVlIAL/9k=" />
+## Der Autor berichtet von seinen Erfolgserlebnissen
 
-## Der Autor berichtet von seinen Erfolgserlebnissen [](https://amzn.to/31ngUxz) Im Buch berichtet der Autor von seinen Erfolgserlebnissen, z. B. wie er mal nebenbei 25 Kilo abnahm, stellt sich dabei jedoch nicht in den Mittelpunkt oder arbeitet dies hervor, was sehr angenehm ist.
+<RemoteImage alt={`patrick-bolk`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEAgX/xAAsEAABAwMDAgQGAwAAAAAAAAABAgMEAAURBhIhBxMUMUFhFiIjUnGRYsHR/8QAFwEBAAMAAAAAAAAAAAAAAAAAAwECBP/EAB8RAAEDBAMBAAAAAAAAAAAAAAEAAhEDEiEjIjFRQf/aAAwDAQACEQMRAD8A6g9SZiLrcIkfT0UoivqaClSHCSB68D3r1pXUK5rZw1ZYJJGcJLxx+8UBZW1bdW6j3lSFGasDtHAAUkE8fqtEi7goCS3MUyEDP1iBgf1/lQ0m0GETnbCLoyfUu0Dqp29TLqm7w4bZZ7Rb7W7kK35zkn7RVRHp+9i53lZCUhSWSAPQZd4qpCEtN8tBKOXa4P8AxjqNDDanD4/dgDjjGPP8VnmXhwlxiS2uOoK2uBZ5A9xjzp9J6P3C5ahuNxi6ojRESni4lvwy1lIPvuHNTvQuYlSnTq6Mt48nfCVyfXPz1nZM8ogDHqWuymW65uJz1EZ6+oRoq7tNT7oG3ApOxkAn8uVUmtXSSVZnpQOoIy+8QeIihjGf5e9VNeVVlIAL/9k="
+/>
+
+[](https://amzn.to/31ngUxz) Im Buch berichtet der Autor von seinen
+Erfolgserlebnissen, z. B. wie er mal nebenbei 25 Kilo abnahm, stellt sich dabei
+jedoch nicht in den Mittelpunkt oder arbeitet dies hervor, was sehr angenehm
+ist.
 
 Seine Erfahrungsberichte wirken sehr authentisch, besonders, da Bolk bei seiner
 Umstellung gleich den harten Schnitt von Omni auf Veganer gemacht hat, ohne die
@@ -108,15 +119,19 @@ praktisch ist. Zu jedem Kapitel gibt es zunächst eine Erklärung z. B. "Warum
 soll ich überhaupt ohne Eier kochen?", im Anschluss folgen Alternativen und
 Rezepte zum Ausprobieren.
 
-<RemoteImage
-  alt="patrick-bolk"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-4__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-4__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QAKBAAAgEDBAEDBAMAAAAAAAAAAQIDBAURAAYSITETIkEHFVHBYZGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EABwRAAMAAgMBAAAAAAAAAAAAAAABAhExEhNhQf/aAAwDAQACEQMRAD8AnL9THpq2ppLdaKZ1gleJZ55mIfixXkEUDAOM4zpmpN332m4NebdTGCWGR40p09IhljZ193I5HtwQe+86x3Z1FFWyQ85emXm5wfb3g5OMfz50+PJJBuW2UE8ryLnggZs9MjAY/vQrDlpidl8k/SzXbq3YKeGpSvQiRVbgaOMp2OwBx/eq23N6XG53o269QUqFgCkscLRN5wcjOD5X4/OuRUvTSbcs9RJMFE0HEkqOipwe8HSjU3Gmtl1paqCp9ThJxYN44kYPwMef80z8NFUtsV9vGTkrK+PnGNaV93qLpuOz1qhYZKeSnQg+4OQwGfjGjRqVaKRKYmVW5547TT2QwRvHTSu6TFjyGcAjHjHWdU0tjXWFpHnEZ/AQn96NGm+Bwj//2Q==" />
+## "Ich habe das in meiner Küche gemacht, das schaffst du auch!"
 
-## "Ich habe das in meiner Küche gemacht, das schaffst du auch! "[](https://amzn.to/31ngUxz) Besonders positiv fielen mir beim Lesen des Buches die Bilder auf. Sie wirken nicht inszeniert oder künstlich, man kann sich gut vorstellen, die Rezepte zu Hause nach zu kochen und im Anschluss ein ähnliches Foto auf Instagram zu posten. Die Aussage "Hallo, ich habe das in meiner kleinen, privaten Küche gemacht, das schaffst du auch!" finde ich toll.
+<RemoteImage alt={`patrick-bolk`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-4__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-4__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QAKBAAAgEDBAEDBAMAAAAAAAAAAQIDBAURAAYSITETIkEHFVHBYZGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EABwRAAMAAgMBAAAAAAAAAAAAAAABAhExEhNhQf/aAAwDAQACEQMRAD8AnL9THpq2ppLdaKZ1gleJZ55mIfixXkEUDAOM4zpmpN332m4NebdTGCWGR40p09IhljZ193I5HtwQe+86x3Z1FFWyQ85emXm5wfb3g5OMfz50+PJJBuW2UE8ryLnggZs9MjAY/vQrDlpidl8k/SzXbq3YKeGpSvQiRVbgaOMp2OwBx/eq23N6XG53o269QUqFgCkscLRN5wcjOD5X4/OuRUvTSbcs9RJMFE0HEkqOipwe8HSjU3Gmtl1paqCp9ThJxYN44kYPwMef80z8NFUtsV9vGTkrK+PnGNaV93qLpuOz1qhYZKeSnQg+4OQwGfjGjRqVaKRKYmVW5547TT2QwRvHTSu6TFjyGcAjHjHWdU0tjXWFpHnEZ/AQn96NGm+Bwj//2Q=="
+/>
+
+[](https://amzn.to/31ngUxz) Besonders positiv fielen mir beim Lesen des Buches
+die Bilder auf. Sie wirken nicht inszeniert oder künstlich, man kann sich gut
+vorstellen, die Rezepte zu Hause nach zu kochen und im Anschluss ein ähnliches
+Foto auf Instagram zu posten. Die Aussage "Hallo, ich habe das in meiner
+kleinen, privaten Küche gemacht, das schaffst du auch!" finde ich toll.
 
 Hervorragend ist auch das Kapitel "Besondere Gelegenheiten". Hier werden Tipps
 gegeben zu z. B.
@@ -147,15 +162,17 @@ verstehen, sind sie sehr schnell und mit voller Motivation dabei. Auch im
 Kapitel "Vegan mit Kindern" gibt es Rezeptvorschläge, die sich auch gemeinsam
 mit den Kids nach kochen lassen.
 
-<RemoteImage
-  alt="patrick-bolk"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKxAAAQQBAgQFBAMAAAAAAAAAAQIDBAURACEGBxITFBUxQWEyUZGhUnHC/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMF/8QAHhEAAQQCAwEAAAAAAAAAAAAAAgABAwQRIRITgTH/2gAMAwEAAhEDEQA/AONLdQq82DvlNq9DhyFR3JSGUlpKgQPUq+R+R99MpnMSgLHT5fYr2/i2P9ah8rp8k8S39MuQVVrjr0hUdSQUlfcSM7jPsPfGw1os6HCEN0JYZB7agMND1wdAmu9BuBDn1Oq0Csx9jFjxZZTWtZxA7L8GxIjeHWEqD4Tk5GRjBOjVc5YKCXLbqG5LR/StGtT4gjtsphwdbw6u7t7MykpluSX46GlqAQE9wbn3/Hzq7S+J7eL4xu0ixkKaCkpaacwHSMbh1ZSkJwQc7n41krfLi3sLWW8xaVrTL763E9anOrpUrIzgeurFD5WPxXS7cSKq1a6Rhtcp9rBBznKU533H70I68Uhcj26TFalhDgGmUDhORXR728brFumH0sKb7pyrcLyCf70aW0vCUmklzu5NiJDyh0oaC1BIBVtkgZ+rRpWVEWwy/9k=" />
+## Grundrezepte für Sojadrink und Seitan
 
-## Grundrezepte für Sojadrink und Seitan [](https://amzn.to/31ngUxz) Mit Rezepten, die neugierig machen, werden auch Superfoods und das Thema Rohkost kurz gestreift, die "Zweierlei Rabbit Balls mit Feige, Kokos und Limette" werde ich definitiv ausprobieren.
+<RemoteImage alt={`patrick-bolk`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKxAAAQQBAgQFBAMAAAAAAAAAAQIDBAURACEGBxITFBUxQWEyUZGhUnHC/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMF/8QAHhEAAQQCAwEAAAAAAAAAAAAAAgABAwQRIRITgTH/2gAMAwEAAhEDEQA/AONLdQq82DvlNq9DhyFR3JSGUlpKgQPUq+R+R99MpnMSgLHT5fYr2/i2P9ah8rp8k8S39MuQVVrjr0hUdSQUlfcSM7jPsPfGw1os6HCEN0JYZB7agMND1wdAmu9BuBDn1Oq0Csx9jFjxZZTWtZxA7L8GxIjeHWEqD4Tk5GRjBOjVc5YKCXLbqG5LR/StGtT4gjtsphwdbw6u7t7MykpluSX46GlqAQE9wbn3/Hzq7S+J7eL4xu0ixkKaCkpaacwHSMbh1ZSkJwQc7n41krfLi3sLWW8xaVrTL763E9anOrpUrIzgeurFD5WPxXS7cSKq1a6Rhtcp9rBBznKU533H70I68Uhcj26TFalhDgGmUDhORXR728brFumH0sKb7pyrcLyCf70aW0vCUmklzu5NiJDyh0oaC1BIBVtkgZ+rRpWVEWwy/9k="
+/>
+
+[](https://amzn.to/31ngUxz) Mit Rezepten, die neugierig machen, werden auch
+Superfoods und das Thema Rohkost kurz gestreift, die "Zweierlei Rabbit Balls mit
+Feige, Kokos und Limette" werde ich definitiv ausprobieren.
 
 Sehr schön ist, dass auch die Grundrezepte für z. B.
 [Sojadrink](/2014/12/diy-sojamilch/) oder Seitan gezeigt werden, so weiß man von
@@ -182,6 +199,11 @@ wenn mal wieder ein Bisschen Inspiration her muss.
 "So geht vegan" von Patrick Bolk ist im Südwest Verlag erschienen und für 16,99
 Euro im deutschen Buchhandel zu haben.
 
-<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3517092789&amp;asins=3517092789&amp;linkId=852e229a1ce9e8f1deddd8920286ae5e&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> _*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3517092789&amp;asins=3517092789&amp;linkId=852e229a1ce9e8f1deddd8920286ae5e&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
+</iframe>
+
+_\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
+Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
 
   

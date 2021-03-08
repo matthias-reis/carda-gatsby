@@ -15,7 +15,7 @@ labels:
   - A Perfect Circle
   - American Dream
   - Autolaser
-  - Bands & Reviews
+  - Bands
   - Behind The Shadow Drops
   - Black Map
   - Bob Dylan
@@ -43,7 +43,7 @@ labels:
   - Neon Oblivion
   - Nine Inch Nails
   - Pommesgabel
-  - Post Rock
+  - Post-Rock
   - Postrock
   - Rock
   - Rock 'n' Roll
@@ -115,13 +115,11 @@ nicht, dass seine Songs auf YouTube veröffentlicht werden, daher findet hier an
 Stelle eines Video nur einen Screenshot der Platte. Unseren Respekt hat er
 allemal und das Album habt Ihr hoffentlich alle im Schrank stehen.
 
-<RemoteImage
-  alt="Musikliste"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_mqdefault__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_mqdefault__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAQUI/8QAKRAAAQQBAwIEBwAAAAAAAAAAAQACAwQRNHOxBSEGEiJRMkFxcoGRof/EABYBAQEBAAAAAAAAAAAAAAAAAAACBP/EABsRAAICAwEAAAAAAAAAAAAAAAABAgQREjEy/9oADAMBAAIRAxEAPwDlyjrq+43lOxhkEbZHtMcbvhc8Fod9CRg/hJNHXVtxvKpVHxJ1KjFWihfCY68b4ow+IOw1zi4g9+/qOf17K4mytnV4NQ9vlOC5pOcYB7pMva6zuO5VHu+IOo3a0sFmSIxynL/LEGkn0/MfaP77qcXtdZ3HcpIWfKClra+43lOBPdCEiKvGYylC9rrG47lCEkLPEf/Z" />
+<RemoteImage alt={`Musikliste`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_mqdefault__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_mqdefault__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAQUI/8QAKRAAAQQBAwIEBwAAAAAAAAAAAQACAwQRNHOxBSEGEiJRMkFxcoGRof/EABYBAQEBAAAAAAAAAAAAAAAAAAACBP/EABsRAAICAwEAAAAAAAAAAAAAAAABAgQREjEy/9oADAMBAAIRAxEAPwDlyjrq+43lOxhkEbZHtMcbvhc8Fod9CRg/hJNHXVtxvKpVHxJ1KjFWihfCY68b4ow+IOw1zi4g9+/qOf17K4mytnV4NQ9vlOC5pOcYB7pMva6zuO5VHu+IOo3a0sFmSIxynL/LEGkn0/MfaP77qcXtdZ3HcpIWfKClra+43lOBPdCEiKvGYylC9rrG47lCEkLPEf/Z"
+/>
 
 <h4>Das komplette Album von Japandroids "Near To The Wild Heart Of Life"
 <iframe src="https://www.youtube.com/embed/pSkrhQiwFcE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h4>

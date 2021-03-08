@@ -12,7 +12,7 @@ excerpt: Filofaxing mit den Comichelden meiner Jugend - Dank einer lieben Dame
   geziert.
 focusKeyword: Filofaxing
 labels:
-  - DIY
+  - Achtsamkeit
   - Filofaxing
   - Moomins
   - Mumins
@@ -33,14 +33,6 @@ subTitle: Finnische Comic-Helden
   
 ---
 
-<RemoteImage
-  alt="Filofaxing mit den Mumins"
-  size="medium"
-  title="Muminspaket aus Nippon"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24664587156_867877258d_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24664587156_867877258d_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwUH/8QAKBAAAgEDBAEDBAMAAAAAAAAAAQIDBAURAAYSITEHE2EiI0FRMnGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgQD/8QAJBEAAgEDAwMFAAAAAAAAAAAAAQIAAxESEyExIzLRQWFx8PH/2gAMAwEAAhEDEQA/ANPcVXfbHcaGlsKRuXp5Z5UaFX6Qjvv41ZZ99boqUb2LbTVaYX7qUZ4hiBlchgCRnx8jUvVb3WuthkpmdHlhkh+huLE8lJHeB4OoenVymjoZVt9PXvQyV5MhjgLkJwQD+KnLYB6yMZ1Lk+qcu359pcporSVSAXN7C29gd5dUbt3hVVcNMKChR5IzMqTUBiXAOCORc8uyvj9jTJZUnu23KG6VkcUc9VCJHSMEKMk+ASfwBrF3XcKa4XewwSCaljjE7GSuD06spA7B5Fj2COjp02GBP6fWohAFjSSFSDkMqSMoYf2ANJG6hANx+eYa6jSDY2+nxOf7yszbmpITJVtBLTMWQ8eYIIwQRkfof5pfXalwoqemanvhVKhclBC4AbOM9SDvBxo0aopgK+Y5mDuzU9MnaMW29lVKRlpb7UEMeuFPGSmPAUycyB8DT5QRNZ7PBQQTSSQwKVUyYLHJJJOPySSdGjTYXYseTMwxxC+gn//Z" />
-
 **Heute nennt man es Filofaxing oder Scrapbooking und es hat sich zu einem
 echten Trend etabliert. Kennt Ihr das auch? Ich habe ja mein Leben lang schon 
 [Tagebuch](/2012/06/alte-tagebucheintrage-und-urlaub-auf-inseln/) geschrieben,
@@ -52,6 +44,13 @@ jeden Schnipsel gesammelt eingeklebt und dazu minutiös genau alles
 aufgeschrieben, vom Ausflug bis den einzelnen Bestandteilen des Abendessens.
 
 ## Tagebuch schreiben heißt jetzt Filofaxing
+
+<RemoteImage alt={`Filofaxing mit den Mumins`} size="medium"
+title={`Muminspaket aus Nippon`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24664587156_867877258d_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24664587156_867877258d_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwUH/8QAKBAAAgEDBAEDBAMAAAAAAAAAAQIDBAURAAYSITEHE2EiI0FRMnGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgQD/8QAJBEAAgEDAwMFAAAAAAAAAAAAAQIAAxESEyExIzLRQWFx8PH/2gAMAwEAAhEDEQA/ANPcVXfbHcaGlsKRuXp5Z5UaFX6Qjvv41ZZ99boqUb2LbTVaYX7qUZ4hiBlchgCRnx8jUvVb3WuthkpmdHlhkh+huLE8lJHeB4OoenVymjoZVt9PXvQyV5MhjgLkJwQD+KnLYB6yMZ1Lk+qcu359pcporSVSAXN7C29gd5dUbt3hVVcNMKChR5IzMqTUBiXAOCORc8uyvj9jTJZUnu23KG6VkcUc9VCJHSMEKMk+ASfwBrF3XcKa4XewwSCaljjE7GSuD06spA7B5Fj2COjp02GBP6fWohAFjSSFSDkMqSMoYf2ANJG6hANx+eYa6jSDY2+nxOf7yszbmpITJVtBLTMWQ8eYIIwQRkfof5pfXalwoqemanvhVKhclBC4AbOM9SDvBxo0aopgK+Y5mDuzU9MnaMW29lVKRlpb7UEMeuFPGSmPAUycyB8DT5QRNZ7PBQQTSSQwKVUyYLHJJJOPySSdGjTYXYseTMwxxC+gn//Z"
+/>
 
 Das macht man beim Filofaxing genau so, außerdem kann man das Tagebuch auch
 schon vorab schön schmücken. Vor Kurzem habe ich über die sozialen Netzwerke

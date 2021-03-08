@@ -10,9 +10,9 @@ excerpt: Wetter, Spiegel und Übersetzer sind Begriffe, die gerne in die
   Suchmaschine eingegeben werden. Ich habe daraus ein Gedicht gemacht.
 focusKeyword: Wetter
 labels:
-  - Lyrik
+  - Geschichten & Erlebtes
 type: Artikel
-typeName: Artikel
+typeName: Gedicht
 date: 2016-05-17T08:00:14.000Z
 status: publish
 isWerbung: false
@@ -26,13 +26,11 @@ subTitle: Ode an die Wetterlage
   
 ---
 
-<RemoteImage
-  alt="Wetter"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_22555934110_718c3aecdf_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_22555934110_718c3aecdf_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBwb/xAAnEAACAgECBgEFAQAAAAAAAAABAgMEEQAFBhITITFBIhQjUXGBYv/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAjEQACAgEDAwUAAAAAAAAAAAABAgARAwQhMRJB8BNRcbHR/9oADAMBAAIRAxEAPwCZtvFFqytOqkMM1mU/anFcDEKr3aQIxGSwIznIPnPgdv1J5bNtLU1iOuX+iQSoChdUbDxEDJDYwQOwPvWW8Bl7PG+x144wlaITAKgIRSUYsAp/1k60bbd226Th2waMlmeQVwhjnLH8rzryfJDkLkjt7Ps6nwkZGDMeLmqdKBp2yY1s7Cq88EQtWYmviG1ttadNvcPDOx+UwwuEMeO+SSCM+s9tQr3F+87htdaaWok1zklnszRosbxQrIIw2OVgR8WOPWe2kOOeJLVDb7dVOmk9dFtSFpBM7ShhgFsZKhlJwT5/us+i4tvJXhe/0hFYqfSyCNOT7DMzBRjsMknJ0zLjdGBvYyQqvpk1vV18RrhmtNReO09yzNKVIA6jKACMHwc+D+dKw7rdi3mepXkjResUVmjDEKCe36wSCPY86NGgcCuI3Q5X6jv2j26i1vqSG5ZXrWp2rSOsQA5YyoXCggD9DtqLxNtcaXdt29HbprV5SxGSeQsc/wB0aNEHLCj2/TC1IACN7g/Qn//Z" />
+<RemoteImage alt={`Wetter`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_22555934110_718c3aecdf_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_22555934110_718c3aecdf_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBwb/xAAnEAACAgECBgEFAQAAAAAAAAABAgMEEQAFBhITITFBIhQjUXGBYv/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAjEQACAgEDAwUAAAAAAAAAAAABAgARAwQhMRJB8BNRcbHR/9oADAMBAAIRAxEAPwCZtvFFqytOqkMM1mU/anFcDEKr3aQIxGSwIznIPnPgdv1J5bNtLU1iOuX+iQSoChdUbDxEDJDYwQOwPvWW8Bl7PG+x144wlaITAKgIRSUYsAp/1k60bbd226Th2waMlmeQVwhjnLH8rzryfJDkLkjt7Ps6nwkZGDMeLmqdKBp2yY1s7Cq88EQtWYmviG1ttadNvcPDOx+UwwuEMeO+SSCM+s9tQr3F+87htdaaWok1zklnszRosbxQrIIw2OVgR8WOPWe2kOOeJLVDb7dVOmk9dFtSFpBM7ShhgFsZKhlJwT5/us+i4tvJXhe/0hFYqfSyCNOT7DMzBRjsMknJ0zLjdGBvYyQqvpk1vV18RrhmtNReO09yzNKVIA6jKACMHwc+D+dKw7rdi3mepXkjResUVmjDEKCe36wSCPY86NGgcCuI3Q5X6jv2j26i1vqSG5ZXrWp2rSOsQA5YyoXCggD9DtqLxNtcaXdt29HbprV5SxGSeQsc/wB0aNEHLCj2/TC1IACN7g/Qn//Z"
+/>
 
 **Was hat das Wetter mit einem Spiegel und einem Übersetzer gemeinsam? Es wird
 gesucht.**
@@ -48,29 +46,33 @@ Heute habe ich mal drei sehr beliebte Begriffe in den Suchschlitz eingegeben. "
 die Phantasie an. Natürlich habe ich auch wieder ein paar Bilder aus meiner
 Sammlung dazu gepackt. Vorhang auf für das Gedicht.
 
+<blockquote>
+
 ## **Das übersetzte Wetter im Spiegel - Ode an die Wetterlage**
 
-_Meintest Du "Übersetzer Weltspiegel"? Stibitzen Sie Bands ihre Lieder_
+Meintest Du "Übersetzer Weltspiegel"? Stibitzen Sie Bands ihre Lieder
 
-_Die wörtliche Übersetzung seines wissenschaftlichen Namens Auch ohne
-Netzwerkverlinkung_
+Die wörtliche Übersetzung seines wissenschaftlichen Namens Auch ohne
+Netzwerkverlinkung
 
-_Minimalismus in allen Ehren_ _Windows 10 stört den Wetterbericht_
+Minimalismus in allen Ehren Windows 10 stört den Wetterbericht
 
-_Mit 1.800 Romanen, Novellen und Erzählungen_ _Temperaturrekorde in den USA_
+Mit 1.800 Romanen, Novellen und Erzählungen Temperaturrekorde in den USA
 
-_Eine choreografische Übersetzung der Legu-Salei-Tänze des Saha Stammes aus West
-Halmera_ _Das Gedächtnis der Spiegel_
+Eine choreografische Übersetzung der Legu-Salei-Tänze des Saha Stammes aus West
+Halmera Das Gedächtnis der Spiegel
 
-_Das Wetter war schön,  mit leichter Bewölkung_ _Ein ionosphärischer Spiegel für
-exakte Kommunikation_
+Das Wetter war schön,  mit leichter Bewölkung Ein ionosphärischer Spiegel für
+exakte Kommunikation
 
-_Nachrichten aus Luft- und Raumfahrt_ _Diesen Einfluss hat der Mond wirklich auf
-unseren Schlaf._
+Nachrichten aus Luft- und Raumfahrt Diesen Einfluss hat der Mond wirklich auf
+unseren Schlaf.
 
-_Hoffentlich werden sie das hier geschriebene auch ins Englische übersetzen._
+Hoffentlich werden sie das hier geschriebene auch ins Englische übersetzen.
 
-Hat Euch das Gedicht gefallen? Wollt Ihr gerne mehr davon? 
+</blockquote>
+
+Hat Euch das Gedicht gefallen? Wollt Ihr gerne mehr davon?
 [Schreibt mir](mailto:info@cardamonchai.com) doch einfach mal! Gerne schreibe
 ich auch mal ein Gedicht aus Euren Lieblingswörtern! Natürlich könnt ihr mir
 auch gerne sagen, wenn es ein anderes Thema gibt, das ich hier mal aufgreifen
@@ -79,7 +81,7 @@ soll.
 Denn wie habe ich das vor Kurzem in geselliger Runde mal angemerkt: Das
 Schwierige und gleichzeitig auch das Gute an meinem Weblog ist, dass es
 thematisch nicht festgelegt ist. Vorschläge also gerne immer an mich! Gerne
-mache ich z. B. auch ein [Interview](/category/bleistift-2-0/interview/) mit
+mache ich z. B. auch ein [Interview](/category/rock-n-roll/interviews/) mit
 Euch, wenn Ihr was Interessantes oder Lustiges oder beides zu berichten habt!
 
 <Gallery

@@ -13,12 +13,12 @@ excerpt: In einem Tal im Norden von Devon liegt der zauberhafte Garten von
 focusKeyword: Marwood Hill
 labels:
   - Barnestable
-  - Brititsche Inseln
+  - Britische Inseln
   - Devon
+  - Fernweh
   - Hortensien
   - Marwood Hill
   - Marwood Hill Gardens
-  - Reisen
   - Slow Travel
 type: Galerie mit Bild
 typeName: Galerie mit Bild

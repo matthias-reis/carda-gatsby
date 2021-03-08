@@ -12,13 +12,12 @@ excerpt: Werbung - Wie angekündigt, habe ich die vegane Kosmetik aus dem Hause
   für Euch.
 focusKeyword: Vegane Kosmetik
 labels:
+  - Fair Fashion & Beauty
   - Kosmetik Beauty
-  - Mode & Beauty
   - Pony Hütchen
   - unboxing
   - vegan
   - vegane Kosmetik
-  - Vegane Produkte
 type: Artikel
 typeName: Artikel
 date: 2016-03-16T10:00:20.000Z
@@ -36,13 +35,12 @@ subTitle: Natürliche Essenzen und traumhafte Düfte
 
 Werbung\*
 
-<RemoteImage
-  alt="Vegane Kosmetik"
-  size="medium"
-  title="Pony Hütchen im Test"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25370638110_0639602f6a_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25370638110_0639602f6a_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAQFBgcCAwj/xAAoEAABAwMDBAICAwAAAAAAAAABAgMRBAUhABIxBhMiQVFhFHEHMvD/xAAYAQADAQEAAAAAAAAAAAAAAAABBAUCA//EACERAAEDAwQDAAAAAAAAAAAAAAEAAgQDITEFERIiUWFx/9oADAMBAAIRAxEAPwBX/IFrqmrRRMWm3vPgr3KLKFS2EiZJSf3O7HOQdUBXvrL+5x1xXHiVlUpjg84wPcfqNdH3yvcq6DtVYSpow4ptIgKCTPlnKfo88QdV+30gw7V19atlDin3pSrCVJCgdw48ckcYg8jXRg2GypRZTW0uGCllio/yaBDrYwcdpSEI7Z9jangT8kn70aklvpFIt7VU2gIXUKUVFL6Wt0Ykj2ZnOJjOjR4pB7mFxKyvN0tyOl2X2XnhdkNAuJ2y0mACQT9fPrTbdbEo0DVa91BSJT2yuU+IJIyM5P8AsaYnWEVFO8y888ad0+bQVCSDyMCYMcTpxsln6brXnDf6xTSGGgGWnXy2kyYUd3yBHjPv3pyrDdRBqsOFFjaiyQRQqDI+XAWxF1IsNnKVqVuYKv6E8qPvRqOVrNK7UOC31NR+C2tSWJVt8AcEAjjRrYhl3bbPtAz2M63tbHhf/9k=" />
+<RemoteImage alt={`Vegane Kosmetik`} size="medium"
+title={`Pony Hütchen im Test`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25370638110_0639602f6a_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25370638110_0639602f6a_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAQFBgcCAwj/xAAoEAABAwMDBAICAwAAAAAAAAABAgMRBAUhABIxBhMiQVFhFHEHMvD/xAAYAQADAQEAAAAAAAAAAAAAAAABBAUCA//EACERAAEDAwQDAAAAAAAAAAAAAAEAAgQDITEFERIiUWFx/9oADAMBAAIRAxEAPwBX/IFrqmrRRMWm3vPgr3KLKFS2EiZJSf3O7HOQdUBXvrL+5x1xXHiVlUpjg84wPcfqNdH3yvcq6DtVYSpow4ptIgKCTPlnKfo88QdV+30gw7V19atlDin3pSrCVJCgdw48ckcYg8jXRg2GypRZTW0uGCllio/yaBDrYwcdpSEI7Z9jangT8kn70aklvpFIt7VU2gIXUKUVFL6Wt0Ykj2ZnOJjOjR4pB7mFxKyvN0tyOl2X2XnhdkNAuJ2y0mACQT9fPrTbdbEo0DVa91BSJT2yuU+IJIyM5P8AsaYnWEVFO8y888ad0+bQVCSDyMCYMcTpxsln6brXnDf6xTSGGgGWnXy2kyYUd3yBHjPv3pyrDdRBqsOFFjaiyQRQqDI+XAWxF1IsNnKVqVuYKv6E8qPvRqOVrNK7UOC31NR+C2tSWJVt8AcEAjjRrYhl3bbPtAz2M63tbHhf/9k="
+/>
 
 **Vor Kurzem habe ich die liebe Hendrike von Pony Hütchen kennengelernt. Im
 [Interview](/2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/)

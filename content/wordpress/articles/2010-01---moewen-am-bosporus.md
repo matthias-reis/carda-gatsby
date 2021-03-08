@@ -11,10 +11,10 @@ excerpt: Geschickt gleiten die Möwen durch die Lüfte. Immer auf der Suche nach
 focusKeyword: Bosporus
 labels:
   - Bosporus
+  - Fernweh
   - Fotos
   - Istanbul
   - Möwen
-  - Reisen
   - Türkei
 type: Galerie
 typeName: Galerie
@@ -30,6 +30,10 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Artisten der Lüfte
   
 ---
+
+**Geschickt gleiten Möwen durch die Lüfte. Sie fliegen los, sammeln Ihre Beute
+ein, lenken ihre Artgenossen ab und brechen zur nächsten Runde auf. In
+halsbrecherischem Tempo über den Bosporus.**
 
 Diese Aufnahmen sind mir im Januar 2010 in Istanbul gelungen.
 
@@ -50,8 +54,9 @@ heißest, sei zufrieden, ihr zu gleichen.
 
 </blockquote>
 
-## Wegweiser Möwen1. Möwen am Bosporus (Januar 2010)
+## Wegweiser Möwen
 
+1.  Möwen am Bosporus (Januar 2010)
 1.  [Zurück nach St. Peter Ording (Juli 2015)](/2015/07/zurueck-nach-st-peter-ording/)
 1.  [St. Peter Ording - Perle an der Nordsee (August 2015)](/2015/08/st-peter-ording/)
 1.  [Birdwatching am Timmendorfer Strand (November 2015)](/2015/11/birdwatching-am-timmendorfer-strand/)

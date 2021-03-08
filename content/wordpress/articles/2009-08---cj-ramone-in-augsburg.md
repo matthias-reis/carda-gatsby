@@ -28,6 +28,17 @@ subTitle: Stargast in der Kantine
   
 ---
 
+**Am Dienstag, 25. August war in der Kantine in Augsburg wieder Live-Musik
+angesagt.**
+
+<RemoteImage alt={`CJ Ramone`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_08_9914432276_f7b8fc7051_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_08_9914432276_f7b8fc7051_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBwQFCP/EACkQAAEEAQQBAwMFAAAAAAAAAAECAwQRBQAGEiExE0FRByJxFiMyNKH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8ApNE5bzH2KKHa+xwvcuJ/BJBHQsaZI+QyDjQVzX2AVENo6/3SltnFwNwNKw8lEhnckp5IhzHHh6F8aSwtFdFVdLvo0K8nWLEgSI+UkYLIQ3jKbdWHmyAS0Q2oL6Piujy9gnQNUzMupX+5NQkpsi0NmrHdd/A0lHHvuMqcjJS9aw0hDZ5LUVdCki9R3KxIbyslciQidRSlUtk8m1niAKUAB7dfjWvTKUmN6KU12CFclWKN9C60DrjNxR8BnxuBnHxHZLSSIsd0FbTS+HFCq9ymgqz5Op7T3XiV5OavesaZJRlHQidMjrKX1NKJUs38hXE0OikEfGjRoLWlfTXaj+Kyo/Ugbxrn9Vbjh9Vg/wAmy4KAWKIseaPXjXN8hgxpbzDxTzZWpCwD5INGtGjQf//Z"
+/>
+
+---
+
 Zuerst spielte die Augsburger Legende General Seckler mit GEN N, danach die
 GUMBABIES.
 

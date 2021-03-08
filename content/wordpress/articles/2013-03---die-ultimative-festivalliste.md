@@ -88,30 +88,32 @@ subTitle: Perfekt ausgerüstet durch die Festival-Saison
   
 ---
 
-<RemoteImage
-  alt="Festivalliste"
-  size="thumbnail"
-  title="[ ](/2012/06/05/rock-im-park-2012/)  Billy Talent (Rock im Park 2012)"
-  mediumUrl="http://cardamonchai.com/wp-content/uploads/2013/03/p1000273-150x150.jpg"
-  largeUrl="http://cardamonchai.com/wp-content/uploads/2013/03/p1000273-150x150.jpg"
-  loadingUrl="undefined" />
+## Liebe Freunde der gepflegten Freiluft-Musikunterhaltung,
+
+**auch wenn der Frühling vielerorts noch auf sich warten lässt, eines lässt sich
+nicht leugnen:  Der Beginn der Festivalsaison rückt langsam aber sicher wieder
+in greifbare Nähe! Zeit, eine Festivalliste zu machen!**
+
+<RemoteImage alt={`Festivalliste`} size="thumbnail"
+title={`[ ](/2012/06/05/rock-im-park-2012/) Billy Talent (Rock im Park 2012)`}
+mediumUrl="/wp-content/uploads/2013/03/p1000273-150x150.jpg"
+largeUrl="/wp-content/uploads/2013/03/p1000273-150x150.jpg"
+loadingUrl="undefined" />
 
 Auch ich bin natürlich schon wieder fleißig am Planen und wie in jedem Jahr sind
 ein paar kostbare Urlaubstage auch wieder für Open Air Veranstaltungen
-reserviert. In der Vergangenheit wurde traditionell das
-[Southside](http://www.southside.de/) besucht. Auch das Taubertal Festival,
-[Rock im Park](/2012/06/rock-im-park-2012/), das
-[Rock´n`Heim](http://www.rock-n-heim.com), das
-[Herzberg Festival](/2012/08/burg-herzberg-festival-2012/), das
+reserviert. In der Vergangenheit wurde traditionell das Southside besucht. Auch
+das Taubertal Festival, [Rock im Park](/2012/06/rock-im-park-2012/), das
+Rock´n`Heim, das [Herzberg Festival](/2012/08/burg-herzberg-festival-2012/), das
 [A Summer's Tale](/2015/08/a-summers-tale-festival-2015/), das
 [Whiley Open Air](/2009/08/wiley-open-air-2009-ulm/), das Hurricane und das
 [Isle Of Wight](/2012/07/isle-of-wight-festival-2012/) habe ich schon bereist.
 Unter anderem. Böse Zungen bezeichnen mich auch als "Festival-Oma".
 
-Welche Festivals werdet Ihr besuchen? Habt Ihr schon Tickets? Auf welche Bands
+Welche Festivals werdet Ihr besuchen? Habt Ihr schon Tickets?  Auf welche Bands
 freut Ihr Euch besonders? Einige Festivals sind ja bereits komplett ausgebucht.
 
-Weil ich immer alles in meinem Blog festhalte, werde ich Euch auch meine
+Weil ich immer alles in meinem Blog festhalte, werde ich Euch auch meine 
 **Festivalliste** nicht vorenthalten.
 
 ## Mit der ultimativen Festivalliste steht Ihr nicht im Regen
@@ -128,13 +130,11 @@ trotzdem gerne mitnehmen, so lange ich Euch nicht beim Tragen helfen muss und
 ich ab und zu von Euch zu einem kühlschrankgekühlten Bier in Euren Zeltvorgarten
 eingeladen werde. ;-)
 
-<RemoteImage
-  alt="Festivalliste"
-  size="thumbnail"
-  title="[ ](/2012/06/05/rock-im-park-2012/)  Metallica (Rock im Park 2012)"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p1000313__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p1000313__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQQHCP/EACgQAAIBAwMEAQQDAAAAAAAAAAECAwQFEQASIQYTMUEiB1FhcSNCYv/EABgBAAMBAQAAAAAAAAAAAAAAAAEEBQAD/8QAHxEAAgEEAgMAAAAAAAAAAAAAAQIAAxEhMQTwEoHB/9oADAMBAAIRAxEAPwDnm00ymyTzS0as3dXsVQfBVgDujIz7BBz/AJ496drr0tBdrZdrqahoKO1wRKGJEhnqpfkw9EZyx94A1rO3yduoVjnb/bGryqNRKqYmJjlxIwyB8toHI4HgaUqBg17y9xHRqeVvrvfkefprarFeunLtabnNJC1RsaEjB7dQivyPeGDLxnGQfsCEXqya2rLNDb6Vu48+8zyMS23Ynxx4B3FyT+tMfTHT1WKGetp6wdvb/IsahnideUY+eM4z+CdVv1fs9JZOua6it9VFU06iORZImDD5IGxkexnGhSN3OcTpy0elxxcWPrUS45ShGAOPwDqRqyWRlLlTt8Dbxo0ab8RuQxUYYBk6XarjgeFJiInO5gvG7941jPO8hBdgScDx9tGjWCgaELV6j4Ykz//Z" />
+<RemoteImage alt={`Festivalliste`} size="thumbnail"
+title={`[ ](/2012/06/05/rock-im-park-2012/) Metallica (Rock im Park 2012)`}
+mediumUrl="/wp-content/uploads/2013/03/p1000313-150x150.jpg"
+largeUrl="/wp-content/uploads/2013/03/p1000313-150x150.jpg"
+loadingUrl="undefined" />
 
 Auch auf **Konservendosen** habe ich verzichtet, diese kleinen, billigen
 asiatischen Tütensuppen haben sich in den letzten Jahren wirklich bewährt. Und
@@ -149,13 +149,11 @@ dürften, spätestens, seitdem es auf jedem mittelgroßen **Festival** in
 Zeltplatznähe gekühltes Dosenbier für 1,50 € gibt, der Vergangenheit angehören.
 Da lohnt sich der Leistenbruch einfach nicht mehr.
 
-<RemoteImage
-  alt="Festivalliste"
-  size="thumbnail"
-  title="[ ](http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg)  Festivals 2012"
-  mediumUrl="http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg?w=150"
-  largeUrl="http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg?w=150"
-  loadingUrl="undefined" />
+<RemoteImage alt={`Festivalliste`} size="thumbnail"
+title={`[ ](http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg) Festivals 2012`}
+mediumUrl="http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg?w=150"
+largeUrl="http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg?w=150"
+loadingUrl="undefined" />
 
 An den kleinen Supermarktständen, die es mittlerweile auf jedem Open
 Air-Tanzvergnügen gibt, kann man auch so nützliche Dinge wie Einweggrills zum
@@ -169,7 +167,7 @@ einfach erheblich mehr Sprit. Das Geld legt Ihr besser in ein gekühltes Bier zu
 Feier des **Zelt** -Richtfests an.
 
 Doch genug geschwafelt. Kommen wir zur diesjährigen Liste. Ich habe sie, anders
-als in den Jahren zuvor, in 2 Kategorien aufgeteilt. Zuerst möchte ich Euch die
+als in den Jahren zuvor, in 2 Kategorien aufgeteilt.  Zuerst möchte ich Euch die
 "Trapperliste" vorstellen, im Anschluss folgt dann die "Cliquenliste", auf der
 ich Sachen notiert habe, die Euer bester Kumpel in seinem **Wohnmobil** für Euch
 mitnehmen kann (natürlich müsst Ihr ihm dann später auch beim Schleppen/Aufbauen
@@ -204,7 +202,7 @@ Hause lassen, sonst gibt es nur wieder Tränen und das wollen wir doch nicht.)
 9.) Bikini
 
 10.) Für Männer: Ersatzhose (am besten ein schnelltrocknendes Modell, von dem
-man zur Not die langen Beine abnehmen kann), Für Damen: Ersatzminirock, Leggins
+man zur Not die langen Beine abnehmen kann), Für Damen: Ersatzminirock, Leggings
 (die trocknen auch ziemlich schnell)
 
 11.) Unterwäsche
@@ -285,8 +283,8 @@ Ordnern und ihren Mülltonnen zum Opfer zu fallen.)
 
 ## Wer sich das ersparen möchte,
 
-34.) kann natürlich auch so einen neumodischen, astronautenmäßigen Trinkrucksack
-oder
+34.) kann natürlich auch so einen neumodischen, astronautenmäßigen
+Trinkrucksack  oder
 
 35.) einen mittelalterlichen Weinschlauch mitnehmen. Bleibt jedem/r selbst
 überlassen. Auf jeden Fall solltet Ihr aber immer darauf achten, GENÜGEND
@@ -352,10 +350,7 @@ unter der Zeltplane nicht)/Zucker
 
 12.) Pro Person bitte nur eine Gitarre/Ukulele
 
-13.) Gutes Liederbuch mit ordentlich Schund drin (
-[Dieses hier](http://www.buch24.de/9034-0/3-340857-1.html?pup_ptid=18283950120&pup_kw=&pup_c=pla)
-hat sich in den letzten Jahren bewährt, es gibt davon unzählige wundervolle
-Ausgaben, die auch nach mehrmaligem Bierbad noch lesbar sind.)
+13.) Gutes Liederbuch mit ordentlich Schund drin
 
 14.) Einweg-Pavillon aus dem Baumarkt (pro Kopf ca. 2 - 7 Euro, die sich
 wirklich lohnen!)
@@ -366,13 +361,12 @@ Ich habe hier mit voller Absicht nur Zwischenmahlzeiten mit reingepackt, da man,
 wie die Festivalbesuche in den letzten tausend Jahren bewiesen haben, sowieso
 wieder jeden Fressstand, an dem man vorbeikommt, ausprobieren möchte.
 
-<RemoteImage
-  alt="Festivalliste"
-  size="thumbnail"
-  title="[ ](http://cardamonchai.files.wordpress.com/2013/03/p8150037.jpg)  Whiley Open Air 2009"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p8150037__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p8150037__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYC/8QAKRAAAQQCAgAFAwUAAAAAAAAAAQIDBBESIQAFBhMxQVEUMmEiI5HR4f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUG/8QAIBEBAAEDAwUAAAAAAAAAAAAAAQACAwUEITEREiJBUf/aAAwDAQACEQMRAD8A7LDDE2HFeJS7KzDQxOykWR+NcYr65LTSnFYhCAVLKvZIFk8xHUT5fmKkrclF+Oh0NFdLDQNZEX6jHE60d80kvxN38uG9CfPXIT9OrJ1mK2op2bCsdK0K+Ks+vKjJHMncdV9l9uEy/DakskKZcbDgV7YkXfIF9ZklSgKSBdmgCPkfjiKP4zks9WiBGb6mVEU0lhDSYgsIIrAEHK9gE+vEyfGfYxG48Zn6VpqMUoUl5BSUAD7FWdfyCR8cIyHXZguhR2YqZWuc5JZdfIU3nSqIaLibtH6PtUbNarftvknXtyWoT7MyQ6grUQlaH1L1rG0k1WqKSCPT88OHOduVNpQmhSePdIoq/J8/z3EpdcpRLKEgXqgNaA3/AGeUewTGdzU+21+4rJRcoZm7sjV/5w4cUXKqnmK9z//Z" />
+<RemoteImage alt={`Festivalliste`} size="thumbnail"
+title={`[ ](http://cardamonchai.files.wordpress.com/2013/03/p8150037.jpg) Whiley Open Air 2009`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p8150037__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p8150037__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYC/8QAKRAAAQQCAgAFAwUAAAAAAAAAAQIDBBESIQAFBhMxQVEUMmEiI5HR4f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUG/8QAIBEBAAEDAwUAAAAAAAAAAAAAAQACAwUEITEREiJBUf/aAAwDAQACEQMRAD8A7LDDE2HFeJS7KzDQxOykWR+NcYr65LTSnFYhCAVLKvZIFk8xHUT5fmKkrclF+Oh0NFdLDQNZEX6jHE60d80kvxN38uG9CfPXIT9OrJ1mK2op2bCsdK0K+Ks+vKjJHMncdV9l9uEy/DakskKZcbDgV7YkXfIF9ZklSgKSBdmgCPkfjiKP4zks9WiBGb6mVEU0lhDSYgsIIrAEHK9gE+vEyfGfYxG48Zn6VpqMUoUl5BSUAD7FWdfyCR8cIyHXZguhR2YqZWuc5JZdfIU3nSqIaLibtH6PtUbNarftvknXtyWoT7MyQ6grUQlaH1L1rG0k1WqKSCPT88OHOduVNpQmhSePdIoq/J8/z3EpdcpRLKEgXqgNaA3/AGeUewTGdzU+21+4rJRcoZm7sjV/5w4cUXKqnmK9z//Z"
+/>
 
 Ich habe die Lebensmittel auch mit Absicht auf die Cliquenliste gesetzt. Es
 empfiehlt sich auf jeden Fall, ein Vortreffen mit allen Mitreisenden zu
@@ -387,24 +381,21 @@ zu besorgen, es gibt nicht mehr viele!
 Natürlich würde ich jetzt gerne von Euch erfahren: Was nehmt Ihr eigentlich mit?
 Und eine noch viel spannendere Frage: Welche Festivals bereist Ihr diesen
 Sommer? Schreibt mir! Hier unter diesem Artikel als Kommentar, per E-Mail unter
-[info@cardamonchai.com](mailto:info@cardamonchai.com), auf
-[Facebook](https://www.facebook.com/cardamonchai), oder
-[Twitter](https://twitter.com/Anne_Reko). **Ich freue mich wie immer sehr auf
-Eure Zuschriften!**
+[info@cardamonchai.com](mailto:info@cardamonchai.com), auf Facebook, oder
+Twitter. **Ich freue mich wie immer sehr auf Eure Zuschriften!**
 
-&lt;3 liche Grüße sendet Euch Eure Festivaloma Anne
+Herziche Grüße sendet Euch Eure Festivaloma Anne
 
-<RemoteImage
-  alt="Festivalliste"
-  size="full"
-  title="Impression vom Isle Of Wight Festival 2013 - Dieses Jahr wird das Wetter definitiv besser!"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p1260039__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p1260039__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGCAT/xAAnEAACAQMDBAIDAQEAAAAAAAABAgMEBREABiESEzFBIlEHYXEVMv/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EAB0RAAICAgMBAAAAAAAAAAAAAAABAhEDEiExMnH/2gAMAwEAAhEDEQA/AG9z3zNR1UFTef8AQEvZCpUUTIcqCf8ApQE554xrut35qpY2RO7U1EIUfOphWOQnJz8Sf5yDqAum4oqXbV1KLOt1gdOw6SlV7RJLkjGMjkYznOCOM5jkqYKuvMM6LDEwQctlihbL+fYGfX3phtK/oax9VRqfb/5KtV6PRAV7gxkdxUPJ9Bj8j+lJOqCrvUSMFp4airYqSRDGx6cfeRwT6zrIJq7fb6qd6Ut1RxNLEYSWJckAEH198cjVztLee4KyRYbpVVYoY4pOnAbGfiVCt78t51Z3HhmNU+hILAbxW1EcrVKUrqnc6WCxtx9nyf5qntuxbNGQy0jVDucMmessRz7P7+tGjUcj5bL4+kOqrbVVDQTJZ7PJBP09UbrGuAc+CMHzz4GdRce192W28y1cFBTxrJLK56onk+L44PA8YGMD70aNZUhZ/9k=" />
+<RemoteImage alt={`Festivalliste`} size="full"
+title={`Impression vom Isle Of Wight Festival 2013 - Dieses Jahr wird das Wetter definitiv besser!`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p1260039__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p1260039__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGCAT/xAAnEAACAQMDBAIDAQEAAAAAAAABAgMEBREABiESEzFBIlEHYXEVMv/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EAB0RAAICAgMBAAAAAAAAAAAAAAABAhEDEiExMnH/2gAMAwEAAhEDEQA/AG9z3zNR1UFTef8AQEvZCpUUTIcqCf8ApQE554xrut35qpY2RO7U1EIUfOphWOQnJz8Sf5yDqAum4oqXbV1KLOt1gdOw6SlV7RJLkjGMjkYznOCOM5jkqYKuvMM6LDEwQctlihbL+fYGfX3phtK/oax9VRqfb/5KtV6PRAV7gxkdxUPJ9Bj8j+lJOqCrvUSMFp4airYqSRDGx6cfeRwT6zrIJq7fb6qd6Ut1RxNLEYSWJckAEH198cjVztLee4KyRYbpVVYoY4pOnAbGfiVCt78t51Z3HhmNU+hILAbxW1EcrVKUrqnc6WCxtx9nyf5qntuxbNGQy0jVDucMmessRz7P7+tGjUcj5bL4+kOqrbVVDQTJZ7PJBP09UbrGuAc+CMHzz4GdRce192W28y1cFBTxrJLK56onk+L44PA8YGMD70aNZUhZ/9k="
+/>
 
 Weitere Bilder von der Isle Of Wight findet Ihr
 [hier](//2012/07/29/isle-of-wight-festival-2012/) in meinem Blog. Natürlich
-findet Ihr unter dem Suchbegriff [Festival](//?s=Festival) auch noch eine ganze
+findet Ihr unter dem Suchbegriff [Festival](/?s=Festival) auch noch eine ganze
 Menge andere Festival-Geschichten. Ich wünsche Euch viel Spaß beim Stöbern!
 
 ## Ein schönes Stück Musik zur Einstimmung auf die Festival-Saison für Euch: Pearl Jam - Blood (Isle Of Wight 2012)
@@ -414,8 +405,8 @@ Menge andere Festival-Geschichten. Ich wünsche Euch viel Spaß beim Stöbern!
 ## Hier noch ein kleiner Hinweis in eigener Sache:
 
 Wer auf seiner Homepage gerne auf meine Festivalliste hinweisen möchte, kann
-dies gerne tun. Wenn Euch der nackte Link zu langweilig ist, sendet einfach eine
-kurze E-Mail an [info@cardamonchai.com](mailto:info@cardamonchai.com), dann
+dies gerne tun. Wenn Euch der nackte Link zu langweilig ist,  sendet einfach
+eine kurze E-Mail an [info@cardamonchai.com](mailto:info@cardamonchai.com), dann
 sende ich Euch ein Banner zum Einbinden zu.
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken](/2015/03/die-ultimative-vegane-festivalliste)

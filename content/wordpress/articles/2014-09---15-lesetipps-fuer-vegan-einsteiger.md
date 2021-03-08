@@ -12,8 +12,9 @@ excerpt: Für Dich habe ich mal ein paar Lesetipps zusammengestellt, die jeder
   leichter.
 focusKeyword: Vegan
 labels:
-  - Darum vegan
-  - Vegane Produkte
+  - Bücher & Filme
+  - Ernährung & Gesundheit
+  - Tierrechte
 type: Artikel
 typeName: Artikel
 date: 2014-09-20T08:58:20.000Z
@@ -21,7 +22,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (137:53)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (146:53)"
 thumbnailId: "20267"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_14313236626_d7bfbcab1e_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_14313236626_d7bfbcab1e_z__l.jpg
@@ -30,9 +31,12 @@ subTitle: Diese Bücher bringen wirklich was
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (137:53)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (146:53)
 
 <!--
+**Für Dich habe ich mal ein paar Lesetipps zusammengestellt, die jede/r
+Vegan-Einsteiger\*in auf dem Zettel haben sollte.**
+
 Ist man als Vegan-Einsteiger\*in noch "grün hinter den Ohren", strömen von allen
 Seiten Informationen auf einen ein. Hier ein Buch, dort ein Ratgeber und hast Du
 diesen Blog schon gesehen? Da musst Du auf jeden Fall mal vorbeischauen! Doch
@@ -43,7 +47,9 @@ der Umstellung von Nutzen sein können? Wo werden Gesundheitsfragen beantwortet?
 Ich habe 15 Informationsquellen zusammengestellt, die meiner Meinung nach für
 Vegan-Einsteiger\*innen besonders interessant sind.
 
-## Die besten Apps, Blogs, Bücher und Magazine für Vegan-Einsteiger### 1. "Die Albert Schweitzer Stiftung für unsere Mitwelt"
+## Die besten Apps, Blogs, Bücher und Magazine für Vegan-Einsteiger
+
+### 1. "Die Albert Schweitzer Stiftung für unsere Mitwelt"
 
 Die "Albert Schweitzer Stiftung für unsere Mitwelt bietet Fakten, Antworten auf
 Fragen und regelmäßig Neuigkeiten zu Tierschutz und veganer Ernährung. Dabei
@@ -62,7 +68,8 @@ verzeichnet ist, mit Details wie
 - Sind die Inhaltsstoffe des Produkts frei von Tierversuchen?
 - Testet der Konzern, der das Produkt herstellt, Rohstoffe für andere seiner
   Produkte an Tieren, bzw. lässt sie an Tieren testen?
-  [Hier geht's zur App für iPhone und Android](http://mobil.wermachtwas.info/index.php?pageID=4).
+
+[Hier geht's zur App für iPhone und Android](http://mobil.wermachtwas.info/index.php?pageID=4).
 
 ### 3. Die Apps von "Barnivore”
 
@@ -192,7 +199,13 @@ Beispiel, wie er es durch seine Ernährungsumstellung geschafft hat, 25 Kilo
 abzunehmen.
 [Hier geht's zu meiner Rezension](/2014/11/so-geht-vegan-von-patrick-bolk/).
 
-<div class="page" title="Page 1"><div class="section"><div class="layoutArea"><div class="column">### Zitat aus meiner Rezension:> "Die meisten Veganer, die ich kenne, sind eher unvorbereitet in ihre Umstellung hineingestolpert und haben sich nach und nach ihr Infos aus dem Internet und auch Büchern besorgt, mir geht es hier ähnlich. Ich denke, das geht auch gut, wenn man dabei ein paar Grundregeln beachtet. Wer sich jedoch etwas Unterstützung wünscht, der ist mit dem 10-Punkte-Programm "So geht vegan" sicherlich sehr gut beraten. "[Meine komplette Rezension des Buchs findest Du hier](/2014/11/so-geht-vegan-von-patrick-bolk/).
+<div class="page" title="Page 1">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+### Zitat aus meiner Rezension:
+> "Die meisten Veganer, die ich kenne, sind eher unvorbereitet in ihre Umstellung hineingestolpert und haben sich nach und nach ihr Infos aus dem Internet und auch Büchern besorgt, mir geht es hier ähnlich. Ich denke, das geht auch gut, wenn man dabei ein paar Grundregeln beachtet. Wer sich jedoch etwas Unterstützung wünscht, der ist mit dem 10-Punkte-Programm "So geht vegan" sicherlich sehr gut beraten." 
+[Meine komplette Rezension des Buchs findest Du hier](/2014/11/so-geht-vegan-von-patrick-bolk/).
 
 ## Hast Du noch weitere Quellen für Vegan-Einsteiger?
 

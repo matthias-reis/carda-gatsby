@@ -11,8 +11,8 @@ excerpt: Heute habe ich eine tolle Nähanleitung für Euch, mit der Ihr ganz
 focusKeyword: Kosmetiktasche
 labels:
   - diy
-  - DIY
   - DIY Kosmetiktasche
+  - Fair Fashion & Beauty
   - Kosmetiktäschchen
   - Kosmetiktasche
   - Kosmetiktasche mit Reißverschluss
@@ -36,23 +36,16 @@ subTitle: Nähanleitung
   
 ---
 
-<RemoteImage
-  alt="Kosmetiktasche"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32105962403_6f2b2d3d03_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32105962403_6f2b2d3d03_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAX/xAAmEAACAgEDBAEFAQAAAAAAAAABAgMEEQAFIQYSMUEiExVhcYGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EABsRAQADAQEBAQAAAAAAAAAAAAEAAhESIRNB/9oADAMBAAIRAxEAPwDOu1bVuExWWGralkUgr2RM5B9Hgau/S+wb5bWOaXpSSjWWB2msXrARcdhz8CM+SOP1pX6OurWerHFOewBSxOSwAwOP3nH91p3a70f2+OKzZMwmKo8UoBXHacL+Bn+8ajnYWWWblbfOpMrbt0bue5Ob7XNrETZmBFwM7BifkQB5Jz40vT9KCCVDenVFbJyE849ZPvVh64hq3d2S7XNqpfRRGzRzcKMfIFcEY4x26Rt02q1NtwnvWFxMCyjGSwzgMefiPOOP80XK+sbrzCT9dxsUNwikryOrBQVw2ACGyDj3yBxqm2utbv2HarTxK0v1xImGICsFYg/nnRo0oGEOq4xR3TrK9ZggWyvePirsjlGcA+CR58+/GuGnUF1oZIkKKpxyy9xGPQOjRo4J7N05n5P/2Q==" />
+<RemoteImage alt={`Kosmetiktasche`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32105962403_6f2b2d3d03_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32105962403_6f2b2d3d03_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAX/xAAmEAACAgEDBAEFAQAAAAAAAAABAgMEEQAFIQYSMUEiExVhcYGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EABsRAQADAQEBAQAAAAAAAAAAAAEAAhESIRNB/9oADAMBAAIRAxEAPwDOu1bVuExWWGralkUgr2RM5B9Hgau/S+wb5bWOaXpSSjWWB2msXrARcdhz8CM+SOP1pX6OurWerHFOewBSxOSwAwOP3nH91p3a70f2+OKzZMwmKo8UoBXHacL+Bn+8ajnYWWWblbfOpMrbt0bue5Ob7XNrETZmBFwM7BifkQB5Jz40vT9KCCVDenVFbJyE849ZPvVh64hq3d2S7XNqpfRRGzRzcKMfIFcEY4x26Rt02q1NtwnvWFxMCyjGSwzgMefiPOOP80XK+sbrzCT9dxsUNwikryOrBQVw2ACGyDj3yBxqm2utbv2HarTxK0v1xImGICsFYg/nnRo0oGEOq4xR3TrK9ZggWyvePirsjlGcA+CR58+/GuGnUF1oZIkKKpxyy9xGPQOjRo4J7N05n5P/2Q=="
+/>
 
-**_Kosmetiktasche zum Selbernähen_ - Diesen Artikel hatte ich eigentlich schon
-für Oktober 2015 geplant. Warum er sich bis heute nach wie vor im Entwurf-Modus
-befand, kann ich leider nicht mehr nachvollziehen. Dennoch möchte ich ihn Euch
-nicht vorenthalten, denn ich finde ihn überaus interessant.**
+---
 
-## **Das war damals meine Einleitung:**
-
-**Wie bereits angekündigt, zeige ich Euch heute meine neue Kosmetiktasche und
-wie sie entstanden ist.**
+**Heute möchte ich Euch gerne zeigen, wie meine Kosmetiktasche entstanden ist.
+Die Anleitung ist wirklich einfach und das Ergebnis gefällt mir.**
 
 Im Rahmen meiner kleinen Nähserie sind bereits ein
 [Körnerkissen](/2015/09/diy-koernerkissen-naehanleitung/), eine
@@ -81,13 +74,11 @@ beschrieben, daher kam sie mir gerade recht.
 
 ## So entsteht Eure Kosmetiktasche
 
-<RemoteImage
-  alt="Kosmetiktasche"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_22309643076_b29604c2e7_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_22309643076_b29604c2e7_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYDBwgF/8QAKxAAAgIBBAECBQQDAAAAAAAAAQIDBBEABRIhBlFxBxMUMWEVIkGBUrHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAQFA//EACkRAAEDAwEFCQAAAAAAAAAAAAEAAhEDBBJBBQYzcZEVIVGBobHB0eH/2gAMAwEAAhEDEQA/AEO98Udzkcrt1KnDCowDYL2HA/PEhR7am274pbtGIk3KnUnqcuXGBngP9cuS599Vgs3GR0WPHE/uXh2D6H+dEpcUMvIYA+54j/eP+6W7Hs8ccB1PvK2O07knLL0H0tJ+M+c7LfcxVL7VJ5BxNa2RFIfwDni3upOnWxFHVkR6svPADBuOMH01kKCCbcnWChXMnM4z2FJ9gOz7DVoeL7Z5V43eXaU327E4QyWK/BbEcCqoZkCHOHAZTx/IHR1Eu93gOC+PCdORB+JVK32u48RvTXy/YRflHitHyOKrBUlf62iGjkEzlnwvRBdl5fkZOMnoa4O5eJbT4zRp/qkFiTc7BkP0x4xiJVOAxYqQxJ64jvQt7yWzNIf1KubYV/mJJHJwdGwASMjrOO8Ed5xjOjtt8vrw2p7K1JEaQZBkgWZuec8yzOeyfQD7D01Zp3UNEmQlH2RJMCDyCsjbtip1fG4bO10Z61qeBZFgbMc45MCwmfr9gC5woBIxjUaXbMkE+77d4/XoS7k5V53Vw9zBUthRlowxJwM98eyOjpI2jeNsO43NyFLfU3KwJFQVGDxQhhjA+YSW6/y/rTT4/uc0LSJXotBWclme4wksMSAGBZW+xwOsYA69ToqXlINJeRA0lDbGqXDEd51X/9k=" />
+<RemoteImage alt={`Kosmetiktasche`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_22309643076_b29604c2e7_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_22309643076_b29604c2e7_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYDBwgF/8QAKxAAAgIBBAECBQQDAAAAAAAAAQIDBBEABRIhBlFxBxMUMWEVIkGBUrHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAQFA//EACkRAAEDAwEFCQAAAAAAAAAAAAEAAhEDBBJBBQYzcZEVIVGBobHB0eH/2gAMAwEAAhEDEQA/AEO98Udzkcrt1KnDCowDYL2HA/PEhR7am274pbtGIk3KnUnqcuXGBngP9cuS599Vgs3GR0WPHE/uXh2D6H+dEpcUMvIYA+54j/eP+6W7Hs8ccB1PvK2O07knLL0H0tJ+M+c7LfcxVL7VJ5BxNa2RFIfwDni3upOnWxFHVkR6svPADBuOMH01kKCCbcnWChXMnM4z2FJ9gOz7DVoeL7Z5V43eXaU327E4QyWK/BbEcCqoZkCHOHAZTx/IHR1Eu93gOC+PCdORB+JVK32u48RvTXy/YRflHitHyOKrBUlf62iGjkEzlnwvRBdl5fkZOMnoa4O5eJbT4zRp/qkFiTc7BkP0x4xiJVOAxYqQxJ64jvQt7yWzNIf1KubYV/mJJHJwdGwASMjrOO8Ed5xjOjtt8vrw2p7K1JEaQZBkgWZuec8yzOeyfQD7D01Zp3UNEmQlH2RJMCDyCsjbtip1fG4bO10Z61qeBZFgbMc45MCwmfr9gC5woBIxjUaXbMkE+77d4/XoS7k5V53Vw9zBUthRlowxJwM98eyOjpI2jeNsO43NyFLfU3KwJFQVGDxQhhjA+YSW6/y/rTT4/uc0LSJXotBWclme4wksMSAGBZW+xwOsYA69ToqXlINJeRA0lDbGqXDEd51X/9k="
+/>
 
 Richtet Euch einfach nach der Anleitung von Dot's Designs, sie ist wirklich
 super, Ihr werdet schon sehen.

@@ -12,7 +12,7 @@ focusKeyword: Bad Salzuflen
 labels:
   - Ausflug
   - Bad Salzuflen
-  - Bands & Reviews
+  - Bands
   - Bernd Begemann
   - Blumfeld
   - Die Sterne

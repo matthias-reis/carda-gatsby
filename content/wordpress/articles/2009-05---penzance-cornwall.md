@@ -9,11 +9,12 @@ excerpt: Das wohl urigste Pub der Insel und den größte Meerwasserpool findet m
   in Penzance. Außerdem gibt es hier einiges aus der Piratenzeit zu entdecken.
 focusKeyword: Penzance
 labels:
-  - Brititsche Inseln
+  - Britische Inseln
   - Coast
   - Cornwall
   - England
   - England2009
+  - Fernweh
   - Fotos
   - Frühling
   - GB
@@ -24,7 +25,6 @@ labels:
   - Penzance
   - Pub
   - Reise
-  - Reisen
   - Seaside
   - Strand
   - Surfen
@@ -46,12 +46,18 @@ subTitle: Erinnerungen an den Frühling in England 2009 - Teil 10/17
   
 ---
 
+** [_Teil 9/17_](/2009/05/glendurgan-garden-15-05-2009-2/) Das wohl urigste Pub
+der Insel und den größte Meerwasserpool findet man in Penzance. Außerdem gibt es
+hier einiges aus der Piratenzeit zu entdecken.**
+
 <Gallery name="flickr/annepenzance2009" />
 
-_Hier geht's zu [Teil 11/17](/2009/05/mousehole-cornwall-16-05-2009/) _ ##
-England 2009 Wegweiser1. 10. Mai 2009
-[Überfahrt von Duncerque nach Dover](/2009/05/uberfahrt-von-duncerque-nach-dover-10-05-2009/)
+_Hier geht's zu [Teil 11/17](/2009/05/mousehole-cornwall-16-05-2009/) _
 
+## England 2009 Wegweiser
+
+1.  10. Mai 2009
+        [Überfahrt von Duncerque nach Dover](/2009/05/uberfahrt-von-duncerque-nach-dover-10-05-2009/)
 1.  10. Mai 2009 [Sissinghurst Castle](/2009/05/sissinghurst-castle/)
 1.  11. Mai 2009 [Glastonbury](/2009/05/glastonbury-11-05-2009/)
 1.  11. Mai 2009 [Stonehenge](/2009/05/stonehenge-11-05-2009/)
@@ -69,6 +75,7 @@ England 2009 Wegweiser1. 10. Mai 2009
 1.  19. Mai 2009 [Bradstock](/2009/05/bradstock-19-05-2009/)
 1.  20. Mai 2009 [Dorchester](/2009/05/dorchester/)
 1.  21. Mai 2009 [London](/2009/05/london-21-05-2009/)
-        [Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+[Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
   

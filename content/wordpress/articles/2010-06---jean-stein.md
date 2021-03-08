@@ -12,12 +12,12 @@ labels:
   - Alternative
   - Augsburg
   - Club
+  - Geschichten & Erlebtes
   - Indie-Club
   - Jean Stein
   - Rock
   - Rock´n`Roll
   - Schornstein
-  - Tagebuch
 type: Meme
 typeName: Meme
 date: 2010-06-03T17:32:54.000Z

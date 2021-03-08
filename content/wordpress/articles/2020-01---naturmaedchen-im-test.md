@@ -13,9 +13,9 @@ focusKeyword: naturmädchen
 labels:
   - Anti-Aging
   - echte Naturkosmetik
+  - Fair Fashion & Beauty
   - Hautpflege
   - Hyaluron
-  - Mode & Beauty
   - Naturkosmetik
   - naturmädchen
   - Orangenöl
@@ -25,7 +25,6 @@ labels:
   - vegan beauty
   - vegane Kosmetik
   - vegane Kosmetikprodukte
-  - Vegane Produkte
   - veganes Hyaluron
   - Wiesenschaumkraut
 type: Artikel

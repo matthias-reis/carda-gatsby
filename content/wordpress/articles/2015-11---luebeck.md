@@ -32,13 +32,15 @@ subTitle: Geschichte einer Hafenstadt
   
 ---
 
-<RemoteImage
-  alt="Wunderschönes Lübeck"
-  size="medium"
-  title="Wunderschönes Lübeck"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22717821986_0bfb81b7e0_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22717821986_0bfb81b7e0_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBBgcC/8QAKBAAAgEDBAEEAQUAAAAAAAAAAQIDBAURAAYSITETFCJRMgdBYXGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQQFAAL/xAAgEQACAQMEAwAAAAAAAAAAAAAAARECAxIFFSFBIjKR/9oADAMBAAIRAxEAPwDTrVsm3KnJPSZ/ojgD/Y8DTtbtdmVI0jTiD5XB0had9Ukr0YqKUiGpQSCWOpgk4KWVfkAwI/Idd6jb++HFrnrL3baulpnqXENQsfqI8Z/Dwcg/Yx0NO7l5TlIpt8KFT8GYrPTxzSwekweJUZh4Iznv/NVnee16SoUVIKrIi4HBcFu89j770nZd5yV28Ljd6Ogt861NKqiFKsesyRKGIUYBLEdgeM9HSNZ+pLwW+Se92CshzVNFDImFDBmPBcNj5Bc5I66/nWsams+XyG7prdMJSjDYL/bY5qZTt+nZ0j5MTO5VxnwVPWrVfK2sO3PfWupe32qSraNbZGSUQ8TluWQTnH1o0ajvoqUdla29V1tP7Srtk8VHOFLLIsXJ1PAE/InJznGut2bkvdxsyQXishrqdKgOFeEqxcZAYsGz+560aNdUpZAfqf/Z" />
+_"Willst du immer weiter schweifen? Sieh, das Gute liegt so nah!" - Johann
+Wolfgang von Goethe_
+
+<RemoteImage alt={`Wunderschönes Lübeck`} size="medium"
+title={`Wunderschönes Lübeck`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22717821986_0bfb81b7e0_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22717821986_0bfb81b7e0_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBBgcC/8QAKBAAAgEDBAEEAQUAAAAAAAAAAQIDBAURAAYSITETFCJRMgdBYXGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQQFAAL/xAAgEQACAQMEAwAAAAAAAAAAAAAAARECAxIFFSFBIjKR/9oADAMBAAIRAxEAPwDTrVsm3KnJPSZ/ojgD/Y8DTtbtdmVI0jTiD5XB0had9Ukr0YqKUiGpQSCWOpgk4KWVfkAwI/Idd6jb++HFrnrL3baulpnqXENQsfqI8Z/Dwcg/Yx0NO7l5TlIpt8KFT8GYrPTxzSwekweJUZh4Iznv/NVnee16SoUVIKrIi4HBcFu89j770nZd5yV28Ljd6Ogt861NKqiFKsesyRKGIUYBLEdgeM9HSNZ+pLwW+Se92CshzVNFDImFDBmPBcNj5Bc5I66/nWsams+XyG7prdMJSjDYL/bY5qZTt+nZ0j5MTO5VxnwVPWrVfK2sO3PfWupe32qSraNbZGSUQ8TluWQTnH1o0ajvoqUdla29V1tP7Srtk8VHOFLLIsXJ1PAE/InJznGut2bkvdxsyQXishrqdKgOFeEqxcZAYsGz+560aNdUpZAfqf/Z"
+/>
 
 **Nachdem wir nach
 [unserem Ausflug](/2015/11/birdwatching-am-timmendorfer-strand/) an den
@@ -59,19 +61,18 @@ zählt sie 214.420 Einwohner. Die Stadt der sieben Türme gehört seit 2012 zur
 Europäischen Metropolregion Hamburg, der mittelalterliche Stadtkern ist seit
 1987 Teil des UNESCO-Weltkulturerbes.
 
-<RemoteImage
-  alt="Blick auf das Holstentor"
-  size="medium"
-  title="Blick auf das Holstentor"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22121232544_b19aabeb3a_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22121232544_b19aabeb3a_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgADB//EACoQAAEEAQQBAwIHAAAAAAAAAAECAwQRAAUSITEGQVFhInEyQpGxwdHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAHREAAgIDAAMAAAAAAAAAAAAAAQIAEQMhYRNB8P/aAAwDAQACEQMRAD8Aw8Cfl6tKKVuAQWzvdWpu7BFEX6cXi/UGGEojRNPDamHLQhLihuUsWSbPB49jgXwHWYGnsSIzxQgSEPtBW++qCr+e/vxlq+shb0VpD6UJZcUoor85FK79KA/XvDQg0v3JeTG6m6iNcuIw5JZlQXg+UEh5Cd5IFWdvt11hbWmtKmOOll+ShT6bZW4hAUqh+Ai7A+ft2Mz0TUVP69pyJk1aFFC2qXSSkncaPPd+/vgnzeUuLNkpU6VBtRAcHAUR6j5/rGbK2MKF2OwfCr2TownF1J6OgVyFDeRdcnv98WQtVS1CiypMNiWp13lLo4F3zfd/SP8AHLLJUbmgk0Yu8lLTiHZrbDTc5xwFT+3cq6q+fXkG/jOLpmmTLnNzEF5AQ4QN1EK6v+ayyy8nqCgskdn/2Q==" />
+<RemoteImage alt={`Blick auf das Holstentor`} size="medium"
+title={`Blick auf das Holstentor`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22121232544_b19aabeb3a_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22121232544_b19aabeb3a_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgADB//EACoQAAEEAQQBAwIHAAAAAAAAAAECAwQRAAUSITEGQVFhInEyQpGxwdHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAHREAAgIDAAMAAAAAAAAAAAAAAQIAEQMhYRNB8P/aAAwDAQACEQMRAD8Aw8Cfl6tKKVuAQWzvdWpu7BFEX6cXi/UGGEojRNPDamHLQhLihuUsWSbPB49jgXwHWYGnsSIzxQgSEPtBW++qCr+e/vxlq+shb0VpD6UJZcUoor85FK79KA/XvDQg0v3JeTG6m6iNcuIw5JZlQXg+UEh5Cd5IFWdvt11hbWmtKmOOll+ShT6bZW4hAUqh+Ai7A+ft2Mz0TUVP69pyJk1aFFC2qXSSkncaPPd+/vgnzeUuLNkpU6VBtRAcHAUR6j5/rGbK2MKF2OwfCr2TownF1J6OgVyFDeRdcnv98WQtVS1CiypMNiWp13lLo4F3zfd/SP8AHLLJUbmgk0Yu8lLTiHZrbDTc5xwFT+3cq6q+fXkG/jOLpmmTLnNzEF5AQ4QN1EK6v+ayyy8nqCgskdn/2Q=="
+/>
 
 Zu den Wahrzeichen von Lübeck zählen neben dem weltberühmten Holstentor und der
 Marienkirche, der Dom, die Petrikirche sowie ein vollständig erhaltenes Viertel
-aus dem 13. Jahrhundert. Es trägt den Namen Koberg und schließt die
-Jakobikirche, das Heiligen-Geist-Spital sowie die Baublöcke der Glockengießer
-mit ein.
+aus dem 13. Jahrhundert. Es trägt den Namen Koberg und schließt
+die Jakobikirche, das Heiligen-Geist-Spital sowie die Baublöcke der
+Glockengießer mit ein.
 
 Das Tor zum Norden wurde rund 700 n. Chr. unter dem Namen Liubice (das bedeutet
 so viel wie „die Liebliche“) von den Slawen gegründet. Im Jahr 1143 wurde ihr
@@ -83,13 +84,12 @@ Handelsstadt im Ostseeraum bekannt.
 
 ## Zerstörung und Wiederaufbau
 
-<RemoteImage
-  alt="Rundgang durch die Altstadt von Lübeck"
-  size="medium"
-  title="Rundgang durch die Altstadt von Lübeck"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22121105134_51ec73c251_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22121105134_51ec73c251_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgX/xAAsEAACAQIEBAUEAwAAAAAAAAABAgMEEQAFEiEGMUFhExQiUXEHI4GhgpHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQQCA//EABkRAAMBAQEAAAAAAAAAAAAAAAABESECMf/aAAwDAQACEQMRAD8APp5NPJSQaKiRFkjhhdQfSQsR37EW29+R6Ebms4praNY2pw1ZGGMZiRd1KqoupHMWPfkPbEk4PqUyxaaozCdYPKBkZeZOtDaxHUaf3hdM1rNeuSVBC0p8tGsfqRd9Tk+5uNu3ziKO4XVTSwU3FEOdVT5hmDJl8fk7gVDBfCVXZQN+ZAuT3OFM3em3lhkQhqNmU69TaNV789xe+/4xIa6rq3Mtp0mEkLRhZF0EMdViD/L9Y21Nxhl9TSU9AjstWtMC4kXTpIIBXub7i21t8Z65fo8teEaiqKqsqnvUFVdkGm1wOlx/eGqnNJRmzKoIjgbwEUtyVbgf6fk4MGKppwuBW5jLaxFwe+OLUZi832pVDjoSdxgwYUgbP//Z" />
+<RemoteImage alt={`Rundgang durch die Altstadt von Lübeck`} size="medium"
+title={`Rundgang durch die Altstadt von Lübeck`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22121105134_51ec73c251_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22121105134_51ec73c251_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgX/xAAsEAACAQIEBAUEAwAAAAAAAAABAgMEEQAFEiEGMUFhExQiUXEHI4GhgpHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQQCA//EABkRAAMBAQEAAAAAAAAAAAAAAAABESECMf/aAAwDAQACEQMRAD8APp5NPJSQaKiRFkjhhdQfSQsR37EW29+R6Ebms4praNY2pw1ZGGMZiRd1KqoupHMWPfkPbEk4PqUyxaaozCdYPKBkZeZOtDaxHUaf3hdM1rNeuSVBC0p8tGsfqRd9Tk+5uNu3ziKO4XVTSwU3FEOdVT5hmDJl8fk7gVDBfCVXZQN+ZAuT3OFM3em3lhkQhqNmU69TaNV789xe+/4xIa6rq3Mtp0mEkLRhZF0EMdViD/L9Y21Nxhl9TSU9AjstWtMC4kXTpIIBXub7i21t8Z65fo8teEaiqKqsqnvUFVdkGm1wOlx/eGqnNJRmzKoIjgbwEUtyVbgf6fk4MGKppwuBW5jLaxFwe+OLUZi832pVDjoSdxgwYUgbP//Z"
+/>
 
 Auch nach ihrer blühenden Fernhandelszeit verlor die Stadt Lübeck nicht an
 Bedeutung. Der 30jährige Krieg wurde genauso überstanden, wie der Einmarsch
@@ -107,7 +107,7 @@ Großsegler und Kreuzfahrtschiffe beobachten.
 
 <Gallery name="flickr/anneluebeck2015" />
 
-Meine letzte Fotostrecke aus Travemünde
+Meine letzte Fotostrecke aus Travemünde
 [findet Ihr hier](/2015/05/ein-sonntag-in-travemuende/).
 
 Wer gerne mehr über Lübeck erfahren möchte:

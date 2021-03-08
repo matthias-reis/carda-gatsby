@@ -32,6 +32,10 @@ subTitle: Ein verdammt guter Kaffee in Nordfriesland
   
 ---
 
+**Am 26. Juli führte uns unser Weg in den kleinen Nordseeküsten-Ort Tönning.
+Nachdem wir den historischen Hafen bewundert hatten, gab es dort noch einen
+verdammt guten Kaffee für uns.**
+
 Hier sind meine Bilder:
 
 <Gallery name="flickr/annetönning72015" />

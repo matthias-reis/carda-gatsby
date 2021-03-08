@@ -20,14 +20,16 @@ labels:
   - Album
   - Algiers
   - als
-  - Brititsche Inseln
+  - Britische Inseln
   - Calexico
   - Calexico Tourdaten
   - Computer
   - Cornwall
   - England
   - Erinnerungen
+  - Fernweh
   - Festival
+  - Geschichten & Erlebtes
   - interessant
   - isle of wight
   - Kindheit
@@ -38,12 +40,10 @@ labels:
   - Olympiahalle
   - Para
   - Reise
-  - Reisen
   - Rucksack
   - Schreibmaschine
   - Schulzeit
   - Singleauskopplung
-  - Tagebuch
   - Tagebuch
   - tradition
   - trampen
@@ -55,9 +55,7 @@ date: 2012-06-15T09:10:52.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
-  invalidMdx: "unknown: Unexpected token (17:65)"
+errors: {}
 thumbnailId: "3118"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_06_img_9296__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_06_img_9296__l.jpg
@@ -66,9 +64,9 @@ subTitle: Tagebucheintrag
   
 ---
 
-## unknown: Unexpected token (17:65)
+**In den letzten Tagen habe ich mich mit der Planung der Englandreise, die für
+die nächsten beiden Wochen ansteht, beschäftigt.**
 
-<!--
 Dabei habe ich auch in alten Tagebüchern geblättert, in denen ich schon als Kind
 jeden Urlaub minutiös genau aufgezeichnet habe, mit den Namen der Campingplätze,
 Sehenswürdigkeiten usw.
@@ -82,15 +80,15 @@ bekommen habe, werde ich diese schöne Tradition so gut ich es noch, kann
 fortsetzen. Das letzte Mal gab es hier im Blog ein Reisetagebuch in Bildern,
 vielleicht kann ich dann dieses Jahr auch etwas mehr an Text mitbringen.
 
-<RemoteImage alt="Tagebuch" size="full" title=""Der Schmetterling" cardamonchai
-1992"
+<RemoteImage alt={`Tagebuch`} size="full"
+title={`"Der Schmetterling" cardamonchai 1992`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_06_img_9291__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_06_img_9291__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAMFAgQH/8QAJxAAAgEEAgEDBAMAAAAAAAAAAQMCAAQRIQUSMRNBkRQiQnFSYbH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAYEQEBAQEBAAAAAAAAAAAAAAABABFBAv/aAAwDAQACEQMRAD8A6BbJNu5vdq5LIiIRK9xwNknO8ndKu2DvgfcD7a1v90pN1dM5K6VK0aq3Vjq6RGHZ/jvwPmtC4vVG/nZB0vqYJDzDGR0MjEHPjyDqgmWorXHsVFsVjAkckAAbqdy7Jr4m+aiEIuWosgZREskb38U511AGRlOIEfJz43UhHInkbznOPK4wjbEIjOMifU7q7H20QTgj9VLr2eQHbPh5Pa/kb175M9S5YlS8YClqkYiOvJJyScZ2B7VLZYBPN8lyEWzJfapR6Z8RETM5B/uiilU53H2txZTtpqJTPr3BkT26yEv9FNs7VNs1s7ZYXNzJNYR+cz5J+B8UUUCjmX//2Q=="
 />
 
 Sehr interessant, mit was man sich noch vor ein paar Jahren beschäftigt hat. "In
-Textverarbeitung wäre ich heute beinahe verzweifelt." Ein Eintrag von 1996, ein
+Textverarbeitung wäre ich heute beinahe verzweifelt." Ein Eintrag  von 1996, ein
 Jahr später habe ich eine Urkunde bekommen, weil ich die schnellste Schreiberin
 in der ganzen Klasse war. Natürlich ruft das auch noch andere Erinnerungen
 hervor: Wir hatten damals noch keinen Computer, nur eine alte
@@ -107,11 +105,12 @@ Ferienreisen mit uns Kindern ausgaben als für Luxusgüter wie Computer. Irgendw
 habe ich mich ja diesem mir völlig fremdem Mysterium dann, zwar Jahre später als
 meine Altersgenossen, doch noch genähert.
 
-<RemoteImage alt="Tagebuch" size="full" title=""Die Reiseschreibmaschine"
-cardamonchai 1996"
-mediumUrl="http://cardamonchai.files.wordpress.com/2012/06/img_9297.jpg"
-largeUrl="http://cardamonchai.files.wordpress.com/2012/06/img_9297.jpg"
-loadingUrl="undefined" />
+<RemoteImage alt={`&quot;Die Reiseschreibmaschine&quot; cardamonchai 1996`}
+size="full" title={`"Die Reiseschreibmaschine" cardamonchai 1996`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_06_img_9297__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_06_img_9297__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcE/8QALhAAAQQBAwIEAwkAAAAAAAAAAQIDBBEFABIhBjEHQVGRExRhIiMyM0JSYnFy/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABkRAAMBAQEAAAAAAAAAAAAAAAABAhEhMf/aAAwDAQACEQMRAD8A1GG7Ad6eahMyEMsNs/AbU0sBxshNbkmjRH189Z/kvC3pKdJMrIZHqKdIUaLi528/1SUcDVDkWCjNuQHRE2N0tsuojqJK1Ar/ADEk8HarvVBZ4o6gjFRVkJAjoSqkkqYhihSAT277T7pV6HWTtS8BdWjLh/DXpfFPplYqdnYrtgkoyJQTXkobRx9DpvyuWgsxXQhbLTlEp2r53eVc+tayR3GxnG1FxEUIUi1kRoY2lXcCyOR8V6v8NjyOuHFx23+r4MdMeKK++JY+XQSVLJI2NgkgFAo3wD2+0Dpq9eBS4NPX7TcfqRB3Sdob3htEhbaDadpsJIvgkXwea0q5rN/JRVKLUpwEG0nIyADdg/r/AJq9z66NGrcJ9ZE+FYx1ip10LLE4LJ/EMpIvvf7vUn302dAPqk55t916Y40gFxDDz5cSg7CngkXdACyT2GjRpTKTKrw//9k="
+/>
 
 "Vorgestern hat mich "S" gefragt, ob ich mit ihm gehen will." Darauf folgt dann
 ein 5-seitiger Text, in dem ich die Vor- und Nachteile einer Beziehung abwiege
@@ -119,8 +118,8 @@ und mir überlege, ob ich nun auf dem Zettel "ja", "nein" oder "vielleicht"
 ankreuze. Das war 1996, kurz vor meinem ersten "richtigen" Konzertbesuch. Oasis
 in der Olympiahalle, die Eintrittskarte besitze ich heute noch.
 
-<RemoteImage alt="Tagebuch" size="full" title=""Die Eintrittskarte" cardamonchai
-1997"
+<RemoteImage alt={`Tagebuch`} size="full"
+title={`"Die Eintrittskarte" cardamonchai 1997`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_06_img_9296__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_06_img_9296__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUGB//EACoQAAIBAwMCBQQDAAAAAAAAAAECAwAEEQUSMSFBEyJRYXEUIzJSgZGh/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUBAgP/xAAiEQACAgAEBwAAAAAAAAAAAAABAgARAwQFEiEiMUFhwfD/2gAMAwEAAhEDEQA/AOo6zqrQ3Rjht5H2sUJHGcj0+f8AKrrvVjCgM0PhE46ODz8+1Leu7ahcG2lZB477/tFgWGOme3p703JKrxeI9vJL5sYYMgHTnBJpcxsmFcw7yM2pxygSRh2Gdp2ocZ7jOKcjMYkeRZJCXHDMSB8DgVT3rzRQMEs59xbduRhkjsD0/im7S8lZwk0LQjkbjnvUYblDUvvsTRGTnp3BrNalLFLe3VwySh4CuQsgAbgfrkf3RRQmlKDuvx7hOcYrVfdJRavDb6nLc3sn1KFyMoswx+J48vtU7TNFhtWaSKWUtIBnec4GQfaiimDoAeEwR2n/2Q=="
@@ -141,6 +140,7 @@ Album kann bereits vorbestellt werden.
 
 [youtube=http://www.youtube.com/watch?feature=player_embedded&amp;v=qM_Euc5saPI]
 
--->
+Hier geht's zu den
+[Tourdaten](http://casadecalexico.com/calexico-algiers-sep-10-2012/).
 
   

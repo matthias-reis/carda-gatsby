@@ -10,16 +10,15 @@ excerpt: Männer, die durch ihre defensive Fahrweise positiv auffallen,
   Wolkenbilder und Lynch im Fernsehen - ein kurzer Tagebucheintrag
 focusKeyword: ""
 labels:
-  - ♥
   - Bedford
   - der kleine blaue Haarfüßler in meinem Kühlschrank hat schon wieder den
     Pudding geklaut
   - Du bist so wunderbar
   - Gedanken
+  - Geschichten & Erlebtes
   - Heimweg
   - Igel
   - leerer Kühlschrank
-  - Prosa
   - Reifenpanne
   - schlechter Geschmack
   - schöne Sätze
@@ -43,19 +42,22 @@ subTitle: '"Ihr könnt mich mal!", sagte der Igel und drehte sich um.'
   
 ---
 
+## Heute
+
 Ein Schlachtfeld des schlechten Geschmacks Laute Menschen, die durch
 Nichtaussagen auffallen Vorgetäuschte Reifenpannen Stop And Go in der Innenstadt
 Hide And Seek im Kühlschrank
 
-_Aber auch_
+## Aber auch
 
 Männer, die durch ihre defensive Fahrweise positiv auffallen Wolkenbilder und
 Lynch im Fernsehen "Du bist so wunderbar" Seifenschaum und Puderzucker
 Frittierte Glückseeligkeit
 
-_Aber ob das auch glücklich macht?_ **"Das wird vielleicht das letzte sonnige
-Wochenende!", sagt die ältere Frau, die im Drogeriemarkt an der Kasse sitzt,
-jede Woche zu mir.**
+## Aber ob das auch glücklich macht?
+
+"Das wird vielleicht das letzte sonnige Wochenende!", sagt die ältere Frau, die
+im Drogeriemarkt an der Kasse sitzt, jede Woche zu mir.
 
 &nbsp;
 

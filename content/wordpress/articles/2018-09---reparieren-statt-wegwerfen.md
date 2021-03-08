@@ -12,7 +12,6 @@ excerpt: Werbung - Online-Händler und Reparaturdienstleister SOS Zubehör biete
   Ersatzteilbestellung Rabatte an.
 focusKeyword: Repair Cafés
 labels:
-  - DIY
   - Klima & Umweltschutz
   - lesswaste
   - Müll vermeiden
@@ -58,13 +57,11 @@ Dabei können sie auch noch sehr viel Geld sparen."
 
 ## Repair Cafés - Das steckt dahinter
 
-<RemoteImage
-  alt="Repair Cafés"
-  size="full"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_unnamed-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_unnamed-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABwAFAQIEBv/EACsQAAEDAwMCBgEFAAAAAAAAAAECAwQABREGEiETIgcxQVJhkVEUMnGBof/EABkBAAEFAAAAAAAAAAAAAAAAAAABAgMFBv/EACQRAAICAQMCBwAAAAAAAAAAAAECAAQDBRHwEjETIUFRcYGR/9oADAMBAAIRAxEAPwDyxcXk96vP8msdRfvX9mr/AEDa4t71lbbbPStUWQtaVhCik8IURgj5Apfl+H1isbLUZmA/LakpdD8xccy3k427W2wBtQTlXfjjb+SCK9cZYbiYKrp+WyhyKdgPLn7AHqL96/s1Oov3q+zTyrRmmL0gWB20ydPXRgdWOtSkKdfa9VbgVJX8jJKTiijxDsMbTWqpFrhOPOsNIbUFvEFRKkgnyAH+UNjKjeFrT8tdPEJBHb7+JRwpkm3zESoL7keS2SUONqKVJyCDgj4JH902aP1lbWbYLpBUxBbaLbVztq17UZPal5nJPPAyPUZzyASGH9x/mtcCkRynaR1Lr1SSvOevuIw+KOvokpP6K3LD89lzciS0cJiqBPKFg5K/TI7VJUM88UT3CdKuMtcqfJekyF43OurKlHAwOa56lDOWO5jbVzJabqef/9k=" />
+<RemoteImage alt={`Repair Cafés`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_unnamed-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_unnamed-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABwAFAQIEBv/EACsQAAEDAwMCBgEFAAAAAAAAAAECAwQABREGEiETIgcxQVJhkVEUMnGBof/EABkBAAEFAAAAAAAAAAAAAAAAAAABAgMFBv/EACQRAAICAQMCBwAAAAAAAAAAAAECAAQDBRHwEjETIUFRcYGR/9oADAMBAAIRAxEAPwDyxcXk96vP8msdRfvX9mr/AEDa4t71lbbbPStUWQtaVhCik8IURgj5Apfl+H1isbLUZmA/LakpdD8xccy3k427W2wBtQTlXfjjb+SCK9cZYbiYKrp+WyhyKdgPLn7AHqL96/s1Oov3q+zTyrRmmL0gWB20ydPXRgdWOtSkKdfa9VbgVJX8jJKTiijxDsMbTWqpFrhOPOsNIbUFvEFRKkgnyAH+UNjKjeFrT8tdPEJBHb7+JRwpkm3zESoL7keS2SUONqKVJyCDgj4JH902aP1lbWbYLpBUxBbaLbVztq17UZPal5nJPPAyPUZzyASGH9x/mtcCkRynaR1Lr1SSvOevuIw+KOvokpP6K3LD89lzciS0cJiqBPKFg5K/TI7VJUM88UT3CdKuMtcqfJekyF43OurKlHAwOa56lDOWO5jbVzJabqef/9k="
+/>
 
 Am 18. Oktober 2009 wurde von Martine Postma in [Amsterdam](/2018/03/amsterdam/)
 das erste Repair Café gegründet. Gedacht war es nicht als Café im klassischen
@@ -84,13 +81,10 @@ Fahrrädern und Elektrogeräten.
 
 ## Ehrenamtliche Helfer stellen ihre Fachkenntnisse zur Verfügung
 
-<RemoteImage
-  alt=""
-  size="medium"
-  title=""
-  mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
-  largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
-  loadingUrl="undefined" />
+<RemoteImage alt={`} size="medium" title={`}
+mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
+largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
+loadingUrl="undefined" />
 
 Ehrenamtliche Helfer mit speziellen Fachkenntnissen unterstützen die Besucher
 bei ihren Projekten. Auch hier möchte SOS Zubehör in Zukunft Rückhalt bieten:
@@ -117,13 +111,10 @@ Ländern kommen zusammen, um als alt neu zu machen.
 hat jeder die Möglichkeit, seine Elektro-Geräte zu warten und zu reparieren –
 auch wenn er kein Heimwerker-Profi ist.“, so Martine Postma.
 
-<RemoteImage
-  alt=""
-  size="medium"
-  title=""
-  mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
-  largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
-  loadingUrl="undefined" />
+<RemoteImage alt={`} size="medium" title={`}
+mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
+largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
+loadingUrl="undefined" />
 
 SOS Zubehör wurde 2008 unter dem Namen SOS Accessoire SAS von Olivier de
 Montlivault in La Verrière, Yvelines in Frankreich gegründet. Das Unternehmen
