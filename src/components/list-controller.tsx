@@ -53,7 +53,9 @@ const ListController: React.FC<{
     }
   }
 
-  const currentCategory = categories[pageContext.label];
+  const currentCategory = categories[slugify(pageContext.label)];
+
+  console.log(pageContext.label, categories);
 
   let topic = 'Stichwort';
 
