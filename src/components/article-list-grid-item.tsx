@@ -18,7 +18,6 @@ export const ArticleListGridItem: React.FC<{
   article: CompactArticle;
   content: string;
 }> = ({ article, content }) => {
-  console.log(article);
   return (
     <Item key={article.path}>
       <ItemLink

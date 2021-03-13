@@ -5,7 +5,10 @@ import { IconComment } from './icons';
 
 const Box = styled.div`
   margin-bottom: ${space[2]};
-  color: ${color.neutral[3]};
+  color: ${color.text20};
+  @media (max-width: 959px) {
+    display: none;
+  }
 `;
 
 const Label = styled.div`
@@ -16,6 +19,6 @@ const Label = styled.div`
 export const InteractionComment: React.FC = () => (
   <Box>
     <IconComment />
-    <Label>kommentieren</Label>
+    <Label>Kommentar</Label>
   </Box>
 );

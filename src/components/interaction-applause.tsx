@@ -152,10 +152,10 @@ export const InteractionApplause: React.FC<InteractionsProps> = ({ meta }) => {
 
   return (
     <Box onClick={sendApplause}>
+      <IconApplause />
+      <Label>Applaus</Label>
       {userCount > 0 && <UserBubble>{userCount}</UserBubble>}
       {allCount > 0 && <Bubble>{allCount}</Bubble>}
-      <IconApplause />
-      <Label>applaudieren</Label>
     </Box>
   );
 };
@@ -163,21 +163,24 @@ export const InteractionApplause: React.FC<InteractionsProps> = ({ meta }) => {
 const Box = styled.button`
   background: transparent;
   border: 0;
-  margin-bottom: ${space[2]};
-  color: ${color.neutral[3]};
+  margin-bottom: ${space[0]};
+  color: ${color.text20};
   position: relative;
+  &:focus {
+    outline: none;
+  }
 `;
 
 const Bubble = styled.div`
   position: absolute;
-  top: calc(${space[2]} + 8px);
-  left: -${space[1]};
+  top: calc(${space[1]} + 12px);
+  right: -${space[1]};
   font-weight: bold;
   font-size: ${fontSize[1]};
   height: ${space[2]};
   min-width: ${space[2]};
   border-radius: ${space[1]};
-  background: ${color.neutral[4]};
+  background: ${color.background30};
   padding: 0 5px;
   box-sizing: border-box;
   color: #fff;
@@ -187,8 +190,8 @@ const Bubble = styled.div`
 `;
 
 const UserBubble = styled(Bubble)`
-  background: ${color.warm[0]};
-  top: ${space[0]};
+  background: ${color.highlight30};
+  top: 0;
 `;
 
 const Label = styled.div`

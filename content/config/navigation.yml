@@ -1,5 +1,5 @@
 mainNavigation:
-  - label: Rock'n'Roll
+  - label: Rock 'n' Roll
     url: /tag/musik
     children:
       - { url: /tag/interviews, label: Interviews, external: false }

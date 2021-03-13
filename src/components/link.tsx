@@ -7,7 +7,7 @@ import { event } from './analytics';
 
 const link = `
   position: relative;
-  color: ${color.cold[0]};
+  color: ${color.green40};
   text-decoration-style: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 4px;

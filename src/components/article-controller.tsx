@@ -92,6 +92,7 @@ export const query = graphql`
         }
       }
       id
+      timeToRead
     }
     allMdx(filter: { id: { in: $recommendations } }) {
       nodes {

@@ -3,7 +3,7 @@ import styled from '@emotion/styled';
 import { InteractionApplause } from './interaction-applause';
 import { InteractionComment } from './interaction-comment';
 import { InteractionNewsletter } from './interaction-newsletter';
-import { space } from '../style';
+import { color, space } from '../style';
 import { Article } from '../types';
 
 type InteractionsProps = {
@@ -20,10 +20,21 @@ export const Interactions: React.FC<InteractionsProps> = ({ meta }) => (
 
 const InteractionsContainer = styled.nav`
   position: fixed;
-  display: flex;
   align-items: center;
   flex-direction: column;
   top: ${space[5]};
-  left: calc(50% - 23rem);
+  left: 0;
   text-align: center;
+  padding: ${space[1]};
+  background: ${color.green05};
+  border-radius: 0 ${space[2]} ${space[2]} 0;
+  border: 3px solid ${color.border10};
+  border-left: 0;
+  box-shadow: 0 15px 20px #000a;
+  z-index: 1;
+
+  @media (max-width: 959px) {
+    top: auto;
+    bottom: ${space[3]};
+  }
 `;

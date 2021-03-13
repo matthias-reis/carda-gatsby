@@ -53,35 +53,41 @@ export const ArticlePage: React.FC<ArticleProps> = ({
   )}.${date.getFullYear()}`;
   return (
     <div>
+      <PageMeta title={meta.frontmatter.title} path={path} />
+      <Interactions meta={meta} />
       <ArticleContainer>
-        <PageMeta title={meta.frontmatter.title} path={path} />
-        <Interactions meta={meta} />
-        <Meta>
-          {getType(meta)} vom {formattedDate}
-          {/* &nbsp;·{' '}
-          <Link href={`https://cardamonchai.com${meta.fields.path}`}>
-            im alten Blog
-          </Link> */}
-        </Meta>
-        <HR />
-        {meta.frontmatter.links?.de && (
-          <LanguageArea>
-            <Language to={meta.frontmatter.links?.de}>
-              Deutsche Version lesen
-            </Language>
-          </LanguageArea>
-        )}
-        {meta.frontmatter.links?.en && (
-          <LanguageArea>
-            <Language to={meta.frontmatter.links?.en}>
-              🇬🇧 Read English Version
-            </Language>
-          </LanguageArea>
-        )}
         <Title>{meta.frontmatter.title}</Title>
         {meta.frontmatter.subTitle && (
           <Subtitle>{meta.frontmatter.subTitle}</Subtitle>
         )}
+        <MetaArea>
+          <Icon />
+          <Meta>
+            <div>
+              {getType(meta)} von Anne &mdash;{' '}
+              <Link href={`https://cardamonchai.com${meta.fields.path}`}>
+                im alten Blog
+              </Link>
+            </div>
+            <div>
+              {formattedDate} &mdash; Lesezeit: {meta.timeToRead} min
+            </div>
+          </Meta>
+          {meta.frontmatter.links?.de && (
+            <LanguageArea>
+              <Language to={meta.frontmatter.links?.de}>
+                Deutsche Version lesen
+              </Language>
+            </LanguageArea>
+          )}
+          {meta.frontmatter.links?.en && (
+            <LanguageArea>
+              <Language to={meta.frontmatter.links?.en}>
+                🇬🇧&nbsp;Read&nbsp;English&nbsp;Version
+              </Language>
+            </LanguageArea>
+          )}
+        </MetaArea>
         <ImageContainer>
           {meta.frontmatter.image && (
             <Image fluid={meta.frontmatter.image.childImageSharp.fluid} />
@@ -98,8 +104,8 @@ export const ArticlePage: React.FC<ArticleProps> = ({
       </ArticleContainer>
       <ArticleFooter>
         <ArticleSeries series={series} />
-        <ArticleComments meta={meta} />
         <ArticleLabels labels={meta.fields.labels} />
+        <ArticleComments meta={meta} />
         <ArticleRecommendations recommendations={recommendations} />
         <FooterNavigation />
       </ArticleFooter>
@@ -114,20 +120,48 @@ type ArticleProps = {
   series: Record<string, CompactArticle[]>;
 };
 
+const Icon = styled.div`
+  background: ${color.overlay30};
+  height: 36px;
+  width: 36px;
+  border-radius: 18px;
+  margin-right: ${space[1]};
+  flex: 0 0 auto;
+`;
+
+const MetaArea = styled.div`
+  display: flex;
+  align-items: center;
+`;
+
+const Meta = styled.div`
+  flex: 1 1 auto;
+  color: ${color.text40};
+  font-size: ${fontSize[2]};
+`;
+
 const LanguageArea = styled.div`
   display: flex;
   justify-content: center;
+  align-self: flex-end;
+  flex: 0 0 auto;
 `;
 
 const Language = styled(GatsbyLink)`
   text-decoration: none;
-  border: 1px solid ${color.neutral[1]};
+  border: 1px solid ${color.border30};
   height: 24px;
   font-size: ${fontSize[2]};
-  padding: 0 ${space[2]};
+  padding: ${space[0]} ${space[2]};
   margin-top: ${space[2]};
   border-radius: 16px;
-  color: ${color.neutral[1]};
+  color: ${color.text20};
+  flex: 0 0 auto;
+
+  &:hover {
+    color: ${color.text10};
+    background: ${color.overlay10};
+  }
 `;
 
 const ArticleFooter = styled.div`
@@ -137,14 +171,4 @@ const ArticleFooter = styled.div`
 const ImageContainer = styled.div`
   margin-top: ${space[2]};
   margin-bottom: ${space[3]};
-`;
-
-const Meta = styled.p`
-  margin: 0 0 ${space[2]} 0;
-  color: ${color.neutral[3]};
-  text-align: center;
-`;
-
-const CurrentLink = styled.a`
-  color: ${color.cold[0]};
 `;

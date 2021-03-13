@@ -2,14 +2,13 @@ import * as React from 'react';
 import styled from '@emotion/styled';
 
 import { color } from '../style';
-import { Article, CompactArticle } from '../types';
 
 import { Container } from './container';
-import { ArticleList } from './article-list';
+import { H3 } from './typo';
 import { LabelList } from './label-list';
 
 const Section = styled.nav`
-  background: ${color.cold[2]};
+  background: ${color.background20};
 `;
 
 export const ArticleLabels: React.FC<{
@@ -19,7 +18,7 @@ export const ArticleLabels: React.FC<{
     return (
       <Section>
         <Container large>
-          <h2>Kategorien & Stichworte</h2>
+          <H3>Kategorien & Stichworte</H3>
           <LabelList labels={labels} />
         </Container>
       </Section>

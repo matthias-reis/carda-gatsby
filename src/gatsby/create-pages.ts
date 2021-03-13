@@ -30,6 +30,8 @@ query MyQuery {
           subTitle
           date
           description
+          type
+          typeName
           remoteLoadingImage
           remoteThumbnailImage
           language

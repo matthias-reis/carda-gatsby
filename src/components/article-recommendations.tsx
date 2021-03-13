@@ -5,10 +5,11 @@ import { color } from '../style';
 import { CompactArticle } from '../types';
 
 import { Container } from './container';
+import { H3 } from './typo';
 import { ArticleList } from './article-list';
 
 const Section = styled.nav`
-  background: ${color.cold[2]};
+  background: ${color.background10};
 `;
 
 export const ArticleRecommendations: React.FC<{
@@ -17,7 +18,7 @@ export const ArticleRecommendations: React.FC<{
   return (
     <Section>
       <Container large>
-        <h2>Interessante Beiträge</h2>
+        <H3>Interessante Beiträge</H3>
         <ArticleList
           maxArticles={4}
           articles={recommendations}

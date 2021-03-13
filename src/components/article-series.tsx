@@ -6,9 +6,10 @@ import { CompactArticle } from '../types';
 
 import { Container } from './container';
 import { ArticleList } from './article-list';
+import { H3 } from './typo';
 
 const Section = styled.nav`
-  background: #fff;
+  background: ${color.background20};
 `;
 
 export const ArticleSeries: React.FC<{
@@ -20,9 +21,9 @@ export const ArticleSeries: React.FC<{
         <Container>
           {Object.entries(series).map(([name, articles]) => (
             <div key={name}>
-              <h3>
+              <H3>
                 <N>Dieser Beitrag ist Teil der Serie</N> "{name}"
-              </h3>
+              </H3>
               <ArticleList
                 content="series"
                 type="horizontal"

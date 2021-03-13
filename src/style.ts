@@ -22,9 +22,11 @@ export const color = {
   /** page background */
   background10: '#1a1a1a',
   background20: '#333',
+  background30: '#555',
   border10: '#ffffff08',
   border20: '#ffffff22',
   border30: '#ffffff44',
+  green05: '#263c2d',
   green10: '#44604E',
   green20: '#437D57',
   /** main signature green */
@@ -41,6 +43,7 @@ export const color = {
   overlay15: '#ffffff18',
   overlay20: '#ffffff44',
   overlay30: '#ffffff88',
+  overlay40: '#ffffffcc',
   shadow: '#000',
   /** highlighted text color */
   text10: '#fff',
@@ -48,6 +51,8 @@ export const color = {
   text20: '#ccc',
   /** secondary text color */
   text30: '#999',
+  text40: '#666',
+  text50: '#333',
   neutral: [
     '#111111',
     '#444444',

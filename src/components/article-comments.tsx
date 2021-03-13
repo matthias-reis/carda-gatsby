@@ -2,11 +2,13 @@ import * as React from 'react';
 import styled from '@emotion/styled';
 import { DiscussionEmbed } from 'disqus-react';
 import { Container } from './container';
+import { H3 } from './typo';
 import { color } from '../style';
 import type { Article } from '../types';
 
 const Section = styled.aside`
-  background: ${color.cold[3]};
+  background: ${color.green10};
+  color: ${color.text10};
 `;
 
 const Comments: React.FC<{ meta: Article }> = ({ meta }) => (
@@ -28,7 +30,7 @@ export const ArticleComments: React.FC<{ meta: Article }> = ({ meta }) => {
   return (
     <Section>
       <Container large>
-        <h2>Kommentar hinterlassen</h2>
+        <H3>Kommentar hinterlassen</H3>
         {isComponentMounted ? <Comments meta={meta} /> : <Loading />}
       </Container>
     </Section>

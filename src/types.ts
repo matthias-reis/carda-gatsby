@@ -33,6 +33,7 @@ export type Frontmatter = {
 export type Article = {
   id?: string;
   body?: string;
+  timeToRead?: string;
   fields: Fields;
   frontmatter: Frontmatter;
 };

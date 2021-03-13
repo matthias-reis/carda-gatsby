@@ -5,7 +5,11 @@ import { IconNewsletter } from './icons';
 
 const Box = styled.div`
   margin-bottom: ${space[2]};
-  color: ${color.neutral[3]};
+  color: ${color.text20};
+
+  @media (max-width: 959px) {
+    display: none;
+  }
 `;
 
 const Label = styled.div`

@@ -43,6 +43,8 @@ export const query = graphql`
             title
             subTitle
             description
+            type
+            typeName
             date
             remoteLoadingImage
             remoteThumbnailImage

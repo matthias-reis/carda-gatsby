@@ -48,8 +48,21 @@ const LanguageHint = styled.div`
   margin-top: ${space[1]};
 `;
 
+const Content = styled.span`
+  flex: 1 1 auto;
+  color: ${color.text30};
+  text-decoration: none;
+`;
+
+const Title = styled.span`
+  color: ${color.text20};
+  display: block;
+  font-weight: bold;
+`;
+const SubTitle = styled.span`
+  display: block;
+`;
 const Box = styled(Link)`
-  border-bottom: 1px solid ${color.border[1]};
   display: flex;
   width: ${width[4]};
   max-width: 100%;
@@ -58,6 +71,20 @@ const Box = styled(Link)`
   padding: ${space[1]} 0;
   text-decoration: none;
   font-size: ${fontSize[2]};
+  border-bottom: 1px solid ${color.border20};
+  &:last-child {
+    border-bottom: none;
+  }
+  &:hover {
+    background: ${color.overlay10};
+
+    ${Title} {
+      color: ${color.text10};
+    }
+    ${SubTitle} {
+      color: ${color.text20};
+    }
+  }
 `;
 
 const ImageContainer = styled.span`
@@ -73,18 +100,4 @@ const ImageContainer = styled.span`
 const Image = styled.img`
   width: 150px;
   flex: 0 0 auto;
-`;
-
-const Content = styled.span`
-  flex: 1 1 auto;
-  color: ${color.neutral[1]};
-  text-decoration: none;
-`;
-
-const Title = styled.span`
-  display: block;
-  font-weight: bold;
-`;
-const SubTitle = styled.span`
-  display: block;
 `;

@@ -2,7 +2,7 @@ import * as React from 'react';
 import styled from '@emotion/styled';
 import { Link } from 'gatsby';
 
-import { color, space, fontSize, font } from '../style';
+import { color, space, fontSize } from '../style';
 import { getPath } from '../gatsby/slugify';
 
 export const LabelList: React.FC<{ labels: string[] }> = ({ labels }) => {
@@ -27,18 +27,18 @@ const StyledList = styled.nav`
 
 const StyledLabel = styled(Link)`
   display: inline-block;
-  border: 1px solid ${color.border[0]};
-  background: #fff8;
+  border: 1px solid ${color.border30};
+  background: ${color.overlay30};
   border-radius: ${space[1]};
   padding: 0 ${space[2]};
   margin: 0 ${space[1]} ${space[1]} 0;
   font-size: ${fontSize[2]};
   text-decoration: none;
-  color: ${color.neutral[2]};
+  color: ${color.text50};
   text-transform: lowercase;
 
   &:hover {
-    background: #fff;
-    color: ${color.neutral[1]};
+    background: ${color.overlay40};
+    color: ${color.text50};
   }
 `;
