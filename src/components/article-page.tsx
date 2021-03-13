@@ -136,7 +136,7 @@ const MetaArea = styled.div`
 
 const Meta = styled.div`
   flex: 1 1 auto;
-  color: ${color.text40};
+  color: ${color.text30};
   font-size: ${fontSize[2]};
 `;
 

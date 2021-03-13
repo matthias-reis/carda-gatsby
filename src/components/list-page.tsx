@@ -40,7 +40,7 @@ const ListPage: React.FC<{
         <Hd>
           <Breadcrumb>
             <span>
-              <Link to="/">Cardamonchai</Link>
+              <Link to="/">Home</Link>
             </span>
             <IconChevronRight />
             {parentItem && (
@@ -96,16 +96,17 @@ const ChildTopic = styled.li`
     justify-content: center;
     text-align: center;
     padding: ${space[2]};
-    border: 1px solid ${color.border[0]};
+    border: 1px solid ${color.border20};
     border-radius: ${space[0]};
     height: 100%;
     box-sizing: border-box;
-    color: ${color.neutral[1]};
+    color: ${color.text20};
     text-decoration: none;
     font-weight: bold;
   }
   & a:hover {
-    background: ${color.neutral[5]};
+    background: ${color.overlay30};
+    color: ${color.text50};
   }
 `;
 
@@ -123,9 +124,9 @@ const Hd = styled.div`
 const Breadcrumb = styled.nav`
   text-align: center;
   font-size: ${fontSize[2]};
-  color: ${color.neutral[3]};
+  color: ${color.text30};
   & a {
-    color: ${color.neutral[3]};
+    color: ${color.text20};
   }
   & svg {
     width: ${fontSize[2]};

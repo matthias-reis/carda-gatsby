@@ -17,16 +17,16 @@ const Button = styled(Link)`
   text-decoration: none;
   display: inline-block;
   font-weight: bold;
-  border: 1px solid ${color.border[1]};
+  border: 1px solid ${color.border30};
   padding: ${space[0]} ${space[2]};
   border-radius: ${space[0]};
   height: 32px;
-  color: ${color.neutral[3]};
+  color: ${color.text20};
 
   &:hover {
-    background: ${color.neutral[3]};
-    border-color: ${color.neutral[3]};
-    color: #fff;
+    background: ${color.overlay30};
+    border-color: ${color.text20};
+    color: ${color.text20};
   }
 `;
 

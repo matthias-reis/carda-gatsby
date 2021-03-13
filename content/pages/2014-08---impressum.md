@@ -4,12 +4,12 @@ seoTitle: Impressum
 slug: impressum
 path: /impressum/
 fileName: 2014-08---impressum.md
-description: Mein Impressum -Ihr möchtet mich gerne per E-Mail kontaktieren,
-  weil Euch irgendwas auf meiner Seite nicht gefällt, Ihr Anregungen, oder
-  Fragen habt.
-excerpt: Mein Impressum -Ihr möchtet mich gerne per E-Mail kontaktieren, weil
-  Euch irgendwas auf meiner Seite nicht gefällt, Ihr Anregungen, oder Fragen
-  habt.
+description:
+  Mein Impressum -Ihr möchtet mich gerne per E-Mail kontaktieren, weil Euch
+  irgendwas auf meiner Seite nicht gefällt, Ihr Anregungen, oder Fragen habt.
+excerpt:
+  Mein Impressum -Ihr möchtet mich gerne per E-Mail kontaktieren, weil Euch
+  irgendwas auf meiner Seite nicht gefällt, Ihr Anregungen, oder Fragen habt.
 focusKeyword: Impressum
 labels: null
 type: null
@@ -19,18 +19,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <MDXLayout> (43:0)"
+  invalidMdx:
+    'unknown: Expected corresponding JSX closing tag for <MDXLayout> (43:0)'
 thumbnailId: null
 remoteThumbnailImage: null
 remoteImage: null
 remoteLoadingImage: null
-subTitle: "Angaben gemäß § 5 TMG:"
-  
+subTitle: 'Angaben gemäß § 5 TMG:'
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;MDXLayout> (43:0)
-
-<!--
 Quelle:
 [https://www.e-recht24.de](https://www.e-recht24.de/artikel/datenschutz/209.html)
 
@@ -77,9 +74,3 @@ die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als
 solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung
 aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden
 von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
-
-</div>
-
--->
-
-  

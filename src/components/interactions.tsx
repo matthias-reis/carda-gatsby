@@ -30,7 +30,7 @@ const InteractionsContainer = styled.nav`
   border-radius: 0 ${space[2]} ${space[2]} 0;
   border: 3px solid ${color.border10};
   border-left: 0;
-  box-shadow: 0 15px 20px #000a;
+  box-shadow: 0 15px 20px ${color.shadow};
   z-index: 1;
 
   @media (max-width: 959px) {

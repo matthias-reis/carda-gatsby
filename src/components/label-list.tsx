@@ -27,14 +27,14 @@ const StyledList = styled.nav`
 
 const StyledLabel = styled(Link)`
   display: inline-block;
-  border: 1px solid ${color.border30};
-  background: ${color.overlay30};
+  border: 1px solid ${color.border20};
+  background: ${color.overlay10};
+  color: ${color.text30};
   border-radius: ${space[1]};
   padding: 0 ${space[2]};
   margin: 0 ${space[1]} ${space[1]} 0;
   font-size: ${fontSize[2]};
   text-decoration: none;
-  color: ${color.text50};
   text-transform: lowercase;
 
   &:hover {

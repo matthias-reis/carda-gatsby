@@ -53,18 +53,6 @@ export const color = {
   text30: '#999',
   text40: '#666',
   text50: '#333',
-  neutral: [
-    '#111111',
-    '#444444',
-    '#666666',
-    '#999999',
-    '#CCCCCC',
-    '#DDDDDD',
-    '#EEEEEE',
-  ],
-  warm: ['#9D2274', '#F6BAE3', '#F0ECEE'],
-  cold: ['#499F67', '#96c6a7', '#A1C6AE', '#c9ded5', '#C8C8A9'],
-  border: ['#AAAAAA', '#CCCCCC'],
 };
 
 export const fontStack = {

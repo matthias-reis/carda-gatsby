@@ -9,32 +9,32 @@ export const FooterNavigation: React.FC = () => (
   <Section>
     <Container large>
       <Copyright>
-        © {new Date().getFullYear()} · Cardamonchai.com · Rock'n'Roll Vegan.
+        © {new Date().getFullYear()} · cardamonchai.com · Rock 'n' Roll vegan.
       </Copyright>
       <Navigation>
         <Item
-          to="/archive"
-          onClick={() => event('link/click', 'link', 'footer/archive')}
+          to="/das-ist-rocknroll-vegan"
+          onClick={() => event('link/click', 'link', 'footer/about')}
         >
-          Archiv
+          Über mich
         </Item>
         <Item
-          to="/labels"
-          onClick={() => event('link/click', 'link', 'footer/tags')}
+          to="/publikationen"
+          onClick={() => event('link/click', 'link', 'footer/publications')}
         >
-          Themen
+          Publikationen
         </Item>
         <Item
-          to="/affiliates"
-          onClick={() => event('link/click', 'link', 'footer/affiliates')}
+          to="/mein-mediakit"
+          onClick={() => event('link/click', 'link', 'footer/mediakit')}
         >
-          für Affiliates
+          Mediakit
         </Item>
         <Item
-          to="/impressum"
-          onClick={() => event('link/click', 'link', 'footer/imprint')}
+          to="/transparenz"
+          onClick={() => event('link/click', 'link', 'footer/transparency')}
         >
-          Impressum
+          Transparenz
         </Item>
         <Item
           to="/datenschutz"
@@ -43,10 +43,10 @@ export const FooterNavigation: React.FC = () => (
           Datenschutz
         </Item>
         <Item
-          to="/transparenz"
-          onClick={() => event('link/click', 'link', 'footer/transparency')}
+          to="/impressum"
+          onClick={() => event('link/click', 'link', 'footer/imprint')}
         >
-          Transparenz
+          Impressum
         </Item>
       </Navigation>
     </Container>
@@ -58,7 +58,7 @@ const Section = styled.footer`
 `;
 
 const Copyright = styled.p`
-  color: ${color.neutral[3]};
+  color: ${color.text30};
   text-align: center;
 `;
 

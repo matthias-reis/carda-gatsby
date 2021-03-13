@@ -16,7 +16,7 @@ export const Title = styled(BaseTitle)`
 
 export const Subtitle = styled(BaseTitle)`
   font-size: ${fontSize[5]};
-  color: ${color.neutral[3]};
+  color: ${color.text30};
   font-weight: 300;
   margin: 0 0 ${space[3]} 0;
 `.withComponent('p');
@@ -124,6 +124,6 @@ export const Li = styled.li`
 export const BlockQuote = styled.blockquote`
   margin: ${space[1]} 0;
   padding-left: ${space[2]};
-  border-left: ${space[0]} solid ${color.cold[3]};
+  border-left: ${space[0]} solid ${color.green40};
   font-style: italic;
 `;
