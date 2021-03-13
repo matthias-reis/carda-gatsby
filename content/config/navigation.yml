@@ -2,7 +2,7 @@ mainNavigation:
   - label: Rock'n'Roll
     url: /tag/musik
     children:
-      - { url: /tag/interviews, label: Interviews }
+      - { url: /tag/interviews, label: Interviews, external: false }
       - { url: /tag/bands, label: Bands }
       - { url: /tag/konzerte, label: Konzerte }
       - { url: /tag/festivals, label: Festivals }

@@ -1,5 +1,5 @@
 import styled from '@emotion/styled';
-import { space } from '../style';
+import { space, color } from '../style';
 
 export const HeaderSheet = styled.div<{
   isVisible: boolean;
@@ -10,8 +10,9 @@ export const HeaderSheet = styled.div<{
   left: 0;
   height: ${(props) => (props.isVisible ? `auto` : '0')};
   width: 100%;
-  background: #fff;
+  background: ${color.background10};
   z-index: 10;
-  box-shadow: 0 13px 30px -13px #0004;
+  box-shadow: 0 17px 30px -25px ${color.shadow};
+  border-bottom: 2px solid ${color.border10};
   overflow: hidden;
 `;

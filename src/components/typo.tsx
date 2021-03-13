@@ -23,13 +23,14 @@ export const Subtitle = styled(BaseTitle)`
 
 export const CompactTitle = styled(BaseTitle)`
   font-size: ${fontSize[5]};
+  color: ${color.text10};
   font-weight: 300;
   text-align: left;
 `;
 
 export const CompactSubtitle = styled(BaseTitle)`
   font-size: ${fontSize[3]};
-  color: ${color.neutral[3]};
+  color: ${color.text30};
   font-weight: 300;
   margin: ${space[1]} 0 ${space[2]} 0;
   text-align: left;
@@ -60,6 +61,7 @@ export const H3 = styled.h3`
 `;
 
 export const H3Deco = styled.h3`
+  color: ${color.text10};
   font-family: ${font.title};
   line-height: ${line.dense};
   font-size: ${fontSize[6]};
@@ -94,7 +96,7 @@ export const H6 = styled.h6`
 `;
 
 export const P = styled.p`
-  margin-top: ${space[1]};
+  margin-top: ${space[2]};
   margin-bottom: ${space[1]};
 `;
 

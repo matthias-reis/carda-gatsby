@@ -23,16 +23,9 @@ const ListController: React.FC<{
 }> = ({ data, pageContext }) => {
   const rawArticles: { node: Article }[] = data.allMdx.edges;
 
-  const articles: CompactArticle[] = rawArticles.map(({ node }) => ({
-    title: node.frontmatter.title,
-    subTitle: node.frontmatter.subTitle,
-    description: node.frontmatter.description,
-    image: node.frontmatter.image,
-    remoteLoadingImage: node.frontmatter.remoteLoadingImage,
-    remoteThumbnailImage: node.frontmatter.remoteThumbnailImage,
-    path: node.fields.path,
-    date: new Date(node.frontmatter.date),
-  }));
+  const articles: CompactArticle[] = rawArticles.map(({ node }) =>
+    toCompactArticle(node)
+  );
 
   const rawCategories: Category[] = data.allCategoriesYaml.edges.map(
     (e) => e.node
@@ -54,8 +47,6 @@ const ListController: React.FC<{
   }
 
   const currentCategory = categories[slugify(pageContext.label)];
-
-  console.log(pageContext.label, categories);
 
   let topic = 'Stichwort';
 
@@ -101,6 +92,8 @@ export const query = graphql`
           frontmatter {
             title
             subTitle
+            type
+            typeName
             description
             date
             remoteLoadingImage

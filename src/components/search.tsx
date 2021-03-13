@@ -39,7 +39,10 @@ export const Search: React.FC = () => {
     <React.Fragment>
       <IconButton onClick={handleToggle} Icon={IconSearch} />
       <HeaderSheet isVisible={isVisible} heightInVh={50}>
-        <StyledSearchBox autofocus />
+        <StyledSearchBox
+          translations={{ placeholder: 'Nach Artikeln suchen ...' }}
+          autoFocus
+        />
         <StyledHits hitComponent={Hit} />
       </HeaderSheet>
     </React.Fragment>
@@ -59,7 +62,7 @@ const StyledHits = styled(Hits)`
 `;
 
 const HitBox = styled(Link)`
-  border-bottom: 1px solid ${color.border[1]};
+  border-bottom: 1px solid ${color.border30};
   display: flex;
   width: ${width[4]};
   max-width: 100%;
@@ -87,13 +90,20 @@ const HitImage = styled.img`
 
 const HitContent = styled.span`
   flex: 1 1 auto;
-  color: ${color.neutral[1]};
+  color: ${color.text30};
   text-decoration: none;
+  ${HitBox}:hover & {
+    color: ${color.text20};
+  }
 `;
 
 const HitTitle = styled.span`
+  color: ${color.text20};
   display: block;
   font-weight: bold;
+  ${HitBox}:hover & {
+    color: ${color.text10};
+  }
 `;
 const HitSubTitle = styled.span`
   display: block;
@@ -102,6 +112,7 @@ const HitSubTitle = styled.span`
 const StyledSearchBox = styled(SearchBox)`
   max-width: 100%;
   padding: 0 ${space[1]};
+
   & form {
     display: flex;
     margin: 0 auto;
@@ -109,7 +120,8 @@ const StyledSearchBox = styled(SearchBox)`
     max-width: 100%;
     justify-content: space-between;
     margin-bottom: ${space[1]};
-    border: 1px solid ${color.border[1]};
+    background: ${color.overlay10};
+    border: 1px solid ${color.border20};
     border-radius: ${space[0]};
   }
 
@@ -117,18 +129,19 @@ const StyledSearchBox = styled(SearchBox)`
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
+    background: ${color.overlay10};
     background: none;
+    color: ${color.text10};
     flex: 1 1 auto;
     border: 0;
+    margin-left: ${space[0]};
     margin-right: ${space[1]};
     height: 1.75rem;
     line-height: 1.75rem;
     font-size: ${fontSize[4]};
     font-family: ${font.body};
-    color: ${color.neutral[2]};
 
     &:focus {
-      border-color: ${color.warm[1]};
       outline: none;
     }
 
@@ -149,16 +162,19 @@ const StyledSearchBox = styled(SearchBox)`
     flex: 0 0 auto;
     border: 0;
     background: transparent;
-    color: ${color.neutral[2]};
 
     & svg {
       width: 0.8rem;
       height: 0.8rem;
+      fill: ${color.text30};
     }
     &:focus,
     &:hover {
-      color: ${color.warm[1]};
       outline: none;
+    }
+    &:focus svg,
+    &:hover svg {
+      fill: ${color.highlight50};
     }
   }
 `;

@@ -1,21 +1,21 @@
-import * as React from "react";
-import styled from "@emotion/styled";
+import * as React from 'react';
+import styled from '@emotion/styled';
 
-import { color } from "../style";
+import { color } from '../style';
 
 const Button = styled.button`
   border: none;
   background: none;
-  color: ${color.neutral[3]};
+  color: ${color.text30};
 
   &:focus {
     outline: none;
     border: none;
-    color: ${color.warm[1]};
+    color: ${color.highlight50};
   }
 
   &:hover {
-    color: ${color.neutral[1]};
+    color: ${color.text20};
   }
 `;
 

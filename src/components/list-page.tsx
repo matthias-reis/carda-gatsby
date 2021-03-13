@@ -9,7 +9,7 @@ import { ArticleList } from './article-list';
 import { PageMeta } from './page-meta';
 import { Container } from './container';
 import { P } from './typo';
-import { IconChevronRight } from './icons';
+import { IconChevronRight as UnstyledIconChevronRight } from './icons';
 import { Link } from 'gatsby';
 
 const ListPage: React.FC<{
@@ -73,6 +73,12 @@ const ListPage: React.FC<{
     </div>
   );
 };
+
+const IconChevronRight = styled(UnstyledIconChevronRight)`
+  position: relative;
+  bottom: -3px;
+  padding: 0 ${space[0]};
+`;
 
 const ChildTopics = styled.ul`
   list-style: none;

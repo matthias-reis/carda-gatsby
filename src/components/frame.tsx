@@ -8,8 +8,11 @@ import { SearchProvider } from './search-provider';
 
 import { space, font, line, color } from '../style';
 
+// const FONT_IMPORT =
+//   'https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Raleway:ital,wght@0,300;0,700;1,300;1,700&display=swap';
+
 const FONT_IMPORT =
-  'https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Raleway:ital,wght@0,300;0,700;1,300;1,700&display=swap';
+  'https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Source+Sans+Pro:ital,wght@0,300;0,700;1,300;1,700&display=swap';
 
 export const Frame: React.FC = ({ children }) => {
   return (
@@ -20,22 +23,25 @@ export const Frame: React.FC = ({ children }) => {
           styles={css`
           @import url('${FONT_IMPORT}');
           html {
-            font-size: 20px;
+            font-size: 21px;
             font-family: ${font.body};
             font-weight: 300;
-            color: ${color.neutral[1]};
+            color: ${color.text20};
             line-height: ${line.standard};
           }
           body {
+            background: ${color.background10};
             font-family: ${font.body};
             margin: 0;
             padding: 0;
           }
           strong {
             font-weight: 700;
+            color: ${color.text10};
           }
           em {
-            font-style: italic;
+            font-style: normal;
+            color: ${color.text10};
           }
         `}
         />

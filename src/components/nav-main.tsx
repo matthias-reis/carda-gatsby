@@ -32,9 +32,11 @@ export const MainNav: React.FC = () => {
         mainNavigation {
           url
           label
+          external
           children {
             url
             label
+            external
           }
         }
       }
@@ -53,12 +55,12 @@ export const MainNav: React.FC = () => {
       <DesktopNav>
         {nav.map((item: MainNavItem) => (
           <Item key={item.url}>
-            <Link to={item.url}>{item.label}</Link>
+            <NavLink {...item} />
             {item.children && (
               <Children>
                 {item.children.map((child: NavItem) => (
                   <Child key={child.url}>
-                    <Link to={child.url}>{child.label}</Link>
+                    <NavLink {...child} />
                   </Child>
                 ))}
               </Children>
@@ -71,12 +73,12 @@ export const MainNav: React.FC = () => {
         <MobileNav>
           {nav.map((item: MainNavItem) => (
             <MobileItem key={item.url}>
-              <a href={item.url}>{item.label}</a>
+              <NavLink {...item} />
               {item.children && (
                 <MobileChildren>
                   {item.children.map((child: NavItem) => (
                     <MobileChild key={child.url}>
-                      <a href={child.url}>{child.label}</a>
+                      <NavLink {...child} />
                     </MobileChild>
                   ))}
                 </MobileChildren>
@@ -89,25 +91,32 @@ export const MainNav: React.FC = () => {
   );
 };
 
+const NavLink: React.FC<NavItem> = ({ external, url, label }) => {
+  if (external) {
+    return <a href={url}>{label}</a>;
+  } else {
+    return <Link to={url}>{label}</Link>;
+  }
+};
+
 const Children = styled.ul`
   display: none;
-  background: #fff;
+  background: ${color.background10};
   list-style: none;
   margin: 0;
   padding: 0;
   position: absolute;
   top: 3rem;
   right: 0;
-  z-index: 1;
-  box-shadow: 0 12px 12px -6px #0004;
+  z-index: 20;
+  box-shadow: 0 12px 12px -6px ${color.shadow};
 `;
 
 const MobileChildren = styled.ul`
-  background: #fff;
   list-style: none;
   margin: 0;
   padding: 0;
-  z-index: 1;
+  z-index: 2;
 `;
 
 const DesktopNav = styled.ul`
@@ -133,16 +142,18 @@ const MobileNavTrigger = styled(IconButton)`
 
 const MobileNav = styled.ul`
   display: flex;
+  margin: 0;
+  padding: ${space[2]} 0;
   flex-wrap: wrap;
   list-style: none;
-  margin: 0;
-  padding: 0;
   font-family: ${font.title};
   font-size: ${fontSize[3]};
   font-weight: 300;
 `;
 const Item = styled.li`
   position: relative;
+  /* font compensation */
+  bottom: -5px;
   height: 4rem;
   display: flex;
   align-items: center;
@@ -154,11 +165,12 @@ const Item = styled.li`
 
   & a {
     text-decoration: none;
-    color: ${color.neutral[3]};
+    color: ${color.text30};
 
     &:hover {
       text-decoration: underline;
-      color: ${color.neutral[1]};
+      color: ${color.text20};
+      z-index: 1;
     }
   }
 `;
@@ -172,11 +184,11 @@ const MobileItem = styled.li`
 
   & a {
     text-decoration: none;
-    color: ${color.neutral[3]};
+    color: ${color.text20};
 
     &:hover {
       text-decoration: underline;
-      color: ${color.neutral[1]};
+      color: ${color.text10};
     }
   }
 `;
@@ -185,11 +197,20 @@ const Child = styled.li`
   margin: ${space[0]} ${space[1]};
   font-size: ${fontSize[2]};
   text-align: right;
-  width: ${width[1]};
+  min-width: ${width[1]};
+  white-space: nowrap;
 `;
 
 const MobileChild = styled.li`
   margin: ${space[1]} ${space[0]};
   font-size: ${fontSize[2]};
   width: ${width[1]};
+
+  & a {
+    color: ${color.text30};
+
+    &:hover {
+      color: ${color.text20};
+    }
+  }
 `;

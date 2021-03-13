@@ -25,25 +25,25 @@ export const FooterNavigation: React.FC = () => (
           Themen
         </Item>
         <Item
-          to="/"
+          to="/affiliates"
           onClick={() => event('link/click', 'link', 'footer/affiliates')}
         >
           für Affiliates
         </Item>
         <Item
-          to="/"
+          to="/impressum"
           onClick={() => event('link/click', 'link', 'footer/imprint')}
         >
           Impressum
         </Item>
         <Item
-          to="/"
+          to="/datenschutz"
           onClick={() => event('link/click', 'link', 'footer/privacy')}
         >
           Datenschutz
         </Item>
         <Item
-          to="/"
+          to="/transparenz"
           onClick={() => event('link/click', 'link', 'footer/transparency')}
         >
           Transparenz
@@ -54,7 +54,7 @@ export const FooterNavigation: React.FC = () => (
 );
 
 const Section = styled.footer`
-  background: ${color.neutral[2]};
+  background: ${color.background20};
 `;
 
 const Copyright = styled.p`
@@ -71,13 +71,14 @@ const Item = styled(Link)`
   display: inline-block;
   padding: 0 ${space[1]};
   text-decoration: none;
-  color: ${color.cold[2]};
+  color: ${color.green50};
   font-family: ${font.title};
 
   &:hover,
   &:focus {
-    color: ${color.neutral[5]};
-    background: ${color.cold[0]};
+    text-decoration: underline;
+    color: ${color.text10};
+    background: ${color.green20};
     border-radius: ${space[1]};
   }
 `;

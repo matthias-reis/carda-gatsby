@@ -42,6 +42,7 @@ export type DetailArticle = { id?: string; body?: string } & Fields &
 
 export type CompactArticle = Pick<
   DetailArticle,
+  | 'typeName'
   | 'title'
   | 'subTitle'
   | 'description'

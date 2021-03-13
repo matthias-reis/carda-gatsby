@@ -7,7 +7,7 @@ import { MainNav } from './nav-main';
 import { Search } from './search';
 import { event } from './analytics';
 
-import { space } from '../style';
+import { space, color } from '../style';
 
 export const Header: React.FC = () => (
   <Wrapper>
@@ -23,12 +23,14 @@ export const Header: React.FC = () => (
 );
 
 const Wrapper = styled.header`
-  box-shadow: 0 13px 30px -25px #0004;
+  box-shadow: 0 17px 30px -25px ${color.shadow};
+  border-bottom: 2px solid ${color.border10};
   height: 4rem;
   margin: 0 ${space[1]};
   display: flex;
   align-items: center;
   justify-content: space-between;
+  z-index: 20;
 `;
 
 const HomeLink = styled(Link)`

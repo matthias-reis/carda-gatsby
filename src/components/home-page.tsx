@@ -85,9 +85,9 @@ export const HomePage: React.FC<{
 };
 
 const ContentSection = styled.div`
-  margin: 0 ${space[4]};
+  margin: ${space[3]} ${space[4]};
   @media (max-width: 899px) {
-    margin: 0 ${space[1]};
+    margin: ${space[1]};
   }
 `;
 

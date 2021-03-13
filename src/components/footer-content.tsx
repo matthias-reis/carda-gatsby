@@ -100,7 +100,7 @@ export const FooterContent: React.FC = () => (
 );
 
 const Section = styled.footer`
-  background: ${color.cold[1]};
+  background: ${color.green10};
   padding: ${space[2]};
 `;
 
@@ -138,11 +138,11 @@ const Image = styled.img`
 
 const CTA = styled.a`
   font-family: ${font.title};
-  font-size: ${fontSize[4]};
+  font-size: ${fontSize[3]};
   border-radius: ${space[0]};
-  background: ${color.cold[0]};
+  background: ${color.green30};
   text-decoration: none;
-  color: ${color.cold[3]};
+  color: ${color.text10};
   display: block;
   width: 100%;
   text-align: center;
@@ -150,7 +150,7 @@ const CTA = styled.a`
 
   &:hover {
     text-decoration: underline;
-    background: ${color.warm[0]};
+    background: ${color.highlight20};
   }
 `;
 
@@ -163,7 +163,7 @@ const NetworkItem = styled.a`
   display: flex;
   align-items: center;
   font-size: ${fontSize[3]};
-  color: ${color.neutral[2]};
+  color: ${color.text30};
   text-decoration: none;
   margin-bottom: ${space[1]};
 
@@ -174,6 +174,6 @@ const NetworkItem = styled.a`
   }
 
   &:hover {
-    color: #fff;
+    color: ${color.text10};
   }
 `;

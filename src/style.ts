@@ -14,7 +14,40 @@ export const fontSize = [
   `${factor ** 6}rem`, //title
 ];
 
+// $color-green: #5c9b72;
+// $color-highlight: #96c6a7;
+// $color-complementary: #a72078;
+
 export const color = {
+  /** page background */
+  background10: '#1a1a1a',
+  background20: '#333',
+  border10: '#ffffff08',
+  border20: '#ffffff22',
+  border30: '#ffffff44',
+  green10: '#44604E',
+  green20: '#437D57',
+  /** main signature green */
+  green30: '#5C9B72',
+  green40: '#96C6A7',
+  green50: '#BAD6C4',
+  highlight10: '#55093B',
+  highlight20: '#7C1257',
+  /** complementary signature pink */
+  highlight30: '#A72078',
+  highlight40: '#F6BAE3',
+  highlight50: '#F0ECEE',
+  overlay10: '#ffffff08',
+  overlay15: '#ffffff18',
+  overlay20: '#ffffff44',
+  overlay30: '#ffffff88',
+  shadow: '#000',
+  /** highlighted text color */
+  text10: '#fff',
+  /** main text color */
+  text20: '#ccc',
+  /** secondary text color */
+  text30: '#999',
   neutral: [
     '#111111',
     '#444444',
@@ -31,8 +64,10 @@ export const color = {
 
 export const fontStack = {
   title: ['Josefin sans', 'cursive'],
-  heading: ['Raleway', 'sans-serif'],
-  body: ['Raleway', 'sans-serif'],
+  // heading: ['Raleway', 'sans-serif'],
+  // body: ['Raleway', 'sans-serif'],
+  heading: ['Josefin sans', 'sans-serif'],
+  body: ['Source Sans Pro', 'sans-serif'],
 };
 
 export const font = {
@@ -42,8 +77,8 @@ export const font = {
 };
 
 export const line = {
-  dense: 1.2,
-  standard: 1.5,
+  dense: 1.25,
+  standard: 1.55,
 };
 
 export const breakpoints = {
