@@ -12,11 +12,9 @@ labels:
   - experiment
   - 'serie: Beispiele'
 type: Standard
-links: 
-  en: /2020/05/en-markdown/ 
+links:
+  en: /2020/05/en-markdown/
 ---
-
-import {Colors} from './colors';
 
 ## Headline 2 - es sollte keine H1 geben.
 
@@ -157,17 +155,3 @@ Wir unterscheiden zwischen [internen Links](/2020/04/feuer-im-regenwald/) und
 [externen Links](https://www.xing.com). Nemo enim ipsam voluptatem quia voluptas
 sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui
 ratione voluptatem sequi nesciunt.
-
-## Farben
-
-### neutral
-
-<Colors palette='neutral' />
-
-### warm
-
-<Colors palette='warm' />
-
-### kalt
-
-<Colors palette='cold' />

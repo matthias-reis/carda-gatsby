@@ -17,8 +17,7 @@ links:
   de: /2020/05/markdown/
 ---
 
-import {Colors} from './colors';
-
+ 
 ## English Version: Headline 2 - there shouldn't be an H1.
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
