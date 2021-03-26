@@ -75,7 +75,7 @@ hört man nicht nur an seiner Musik. Das Video zu "Pop Music For Ugly People"
 setzt visuell noch eins drauf. Ein sehr gelungenes Stück Film - vertont mit
 einem sehr gelungenen Stück Musik.
 
-<iframe src="https://www.youtube.com/embed/kUhtCOVykAY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="kUhtCOVykAY" />
 
 ## "Vote For Me"
 
@@ -85,7 +85,7 @@ Ohr und regt zum Handeln an. Dazu gibt es wieder ein geniales Stück Zelluloid.
 Ähnlichkeiten des Protagonisten mit lebenden Politikern sind selbstverständlich
 rein zufällig. Oder?
 
-<iframe src="https://www.youtube.com/embed/srh1yOh-njU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="srh1yOh-njU" />
 
 Ihr könnt "While You Still Can" als CD, Digitalversion oder als 12" Vinyl
 vorbestellen. Das geht ganz einfach über seine Bandcamp-Seite\*. Dort könnt Ihr

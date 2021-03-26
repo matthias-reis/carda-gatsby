@@ -53,7 +53,7 @@ Aber nun zum Wesentlichen. Hier sind für Euch
 [Calexico](http://casadecalexico.com/calexico-algiers-sep-10-2012/) mit Ihrem
 neuesten Schatz "Splitter":
 
-<address>[vimeo http://www.vimeo.com/46625948 w=400&amp;h=300]</address>
+<address> <Vimeo id="/46625948" /> </address>
 
 <address> __ </address>
 

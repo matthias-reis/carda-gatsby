@@ -71,28 +71,7 @@ Unten in der Liste findet Ihr den offiziellen Teaser.
 
 ## 11 Alben des Jahres - Valentins Best-of 2018
 
-1.  Nine Inch Nails - Bad Witch
-    <iframe src="https://www.youtube.com/embed/EMKnM5WNfk0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  A Perfect Circle - Eat the Elephant
-    <iframe src="https://www.youtube.com/embed/7IpKcDvAHow" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  Calexico - The Thread That Keeps Us
-    <iframe src="https://www.youtube.com/embed/TU1lFU__2fI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  Muse - Simulation Theory
-    <iframe src="https://www.youtube.com/embed/X8f5RgwY8CI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  The Ocean - Phanerozoic I: Palaeozoic
-    <iframe src="https://www.youtube.com/embed/aur4RKAgbqE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  Sumac - Love in Shadow
-    <iframe src="https://www.youtube.com/embed/6QbZ8vbBR8o" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  Pennywise - Never Gonna Die
-    <iframe src="https://www.youtube.com/embed/4N234UWW3Mk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  Everlast - Whitey Ford's House of Pain
-    <iframe src="https://www.youtube.com/embed/CMtyDKCJ7Gg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  Twenty One Pilots - Trench
-    <iframe src="https://www.youtube.com/embed/UOUBW8bkjQ4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  Long Distance Calling - Boundless
-    <iframe src="https://www.youtube.com/embed/S8V_Rb5J0HA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  Ghost - Prequelle
-    <iframe src="https://www.youtube.com/embed/bjBZdEy0WLQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+1.  Nine Inch Nails - Bad Witch <YouTube id="bjBZdEy0WLQ" />
 
 Lieber Valentin, danke für diese wunderbare Liste! Ich freue mich immer über den
 regen musikalischen Austausch mit Dir. Auf ein spannendes Schallplatten-Jahr

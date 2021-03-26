@@ -70,7 +70,7 @@ Erst gestern ging es mir wieder so. Wieso denn bloß?
 
 ## Wieso denn bloß?
 
-<iframe src="https://www.youtube.com/embed/fmCYjJBNNCw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="fmCYjJBNNCw" />
 
 "Dass Kühe ständig **Milch** geben, ist doch absolut natürlich! Wenn die nicht
 gemolken werden, bekommen sie Schmerzen!" - Habt Ihr diesen Satz auch schon mal
@@ -95,7 +95,7 @@ damit sie Milch geben. Dies geschieht natürlich gegen ihren Willen. Ist die
 Besamung erfolgreich, kommt rund 280 Tage später ein **Kälbchen** zur Welt, das,
 sobald es stehen kann, von der Mutter getrennt wird.
 
-<iframe src="https://www.youtube.com/embed/IzOjqeKdYn8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="IzOjqeKdYn8" />
 
 ## Trennung sofort nach der Geburt
 

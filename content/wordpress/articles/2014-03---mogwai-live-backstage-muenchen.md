@@ -53,7 +53,7 @@ Spektakel in seinem vollen Umfang genießen konnten.
 
 Laut und toll hier für Euch: Das komplette Album "Rave Tapes"
 
-<iframe src="https://www.youtube.com/embed/cfdqzVYt8Do" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="cfdqzVYt8Do" />
 
 Hier könnt Ihr die Band [auf ihrer Homepage besuchen](http://www.mogwai.co.uk/)
 

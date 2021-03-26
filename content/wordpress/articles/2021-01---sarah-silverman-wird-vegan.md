@@ -93,7 +93,7 @@ Mund. Ihr könnt ihn unter anderem bei Spotify hören:
 
 <iframe src="https://open.spotify.com/embed-podcast/show/6dK0wlRG9YKhIX8BO9Es6R" width="100%" height="232" frameborder="0"></iframe>
 
-<iframe src="https://www.youtube.com/embed/oS_hBkHOb38" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="oS_hBkHOb38" />
 
 Bild/picture: Sarah Silverman,
 [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Sarah_Silverman_(7588066284).jpg>)

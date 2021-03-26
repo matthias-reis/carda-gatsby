@@ -142,7 +142,7 @@ Diesen Gutschein im Wert von 5 Euro könnt Ihr bis einschließlich 31.12.2020 um
 
 ## Hier könnt Ihr sehen, wo und wie die tollen Tube Taschen hergestellt werden
 
-<iframe src="https://www.youtube.com/embed/p8aU09nPYAk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="p8aU09nPYAk" />
 
 _\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
 meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema

@@ -101,7 +101,7 @@ oder Plastikflasche.
 
 ## Ein Video macht diese Forderungen deutlich
 
-<iframe src="https://www.youtube.com/embed/3Q9QgdQlNPk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="3Q9QgdQlNPk" />
 
 Bleibt zu hoffen, dass die Initiative Früchte tragen wird und bald ein Umdenken
 erfolgt. Eine unverändert anhaltende Ressourcenverbrennung durch die Herstellung

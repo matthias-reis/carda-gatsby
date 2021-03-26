@@ -50,6 +50,6 @@ zugeschnitten.
 
 Aber früh aufstehen hilft auch nicht.
 
-[youtube=http://www.youtube.com/watch?v=WF6esydiV34]
+ <YouTube id="WF6esydiV34" />
 
   

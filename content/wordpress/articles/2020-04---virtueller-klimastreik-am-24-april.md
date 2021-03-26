@@ -57,7 +57,7 @@ Es ist [Zeit, dass sich was ändert](/2020/04/inger-andersen-un-covid-19/) ! Sei
 auch Ihr dabei! Der Livestream geht am 24. April um Punkt 12:00 los. Wir sehen
 uns! Zum Livestream geht es hier entlang:
 
-<iframe src="https://www.youtube-nocookie.com/embed/9EUVRPSWJsk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="9EUVRPSWJsk" />
 
 <div class="footnotes">
 ### Fußnoten

@@ -120,7 +120,7 @@ MODINE  in weiser Voraussicht schon vor einiger Zeit als Titelsong für mein
 
 **Fan Modine - Cardamon Chai**
 
-[youtube=http://www.youtube.com/watch?v=rs-YQ-2uA9w]
+ <YouTube id="rs-YQ-2uA9w" />
 
 Vorläufige Ergebnisse der Abgeordnetenhauswahl Berlin 2011:
 

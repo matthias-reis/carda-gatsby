@@ -105,15 +105,15 @@ machen, Indianerehrenwort.
 
 ## Hier sind für Euch Creature With the Atom Brain mit "Mind Your Own God" von ihrem 2007er Album "I Am The Golden Gate Bridge"
 
-<iframe src="https://www.youtube.com/embed/OaMkIEwrxUw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="OaMkIEwrxUw" />
 
 ## Und selbstverständlich habe ich auch von Mark Lenegan noch einen für Euch auf Lager: "The Gravedigger´s Song"
 
-<iframe src="https://www.youtube.com/embed/mVCNSZPPr9M" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="mVCNSZPPr9M" />
 
 ## Ach und weil es so schön ist und man es einfach hier nicht weglassen kann, hier noch "Hit The City"
 
-<iframe src="https://www.youtube.com/embed/azH5eEXtllc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="azH5eEXtllc" />
 
 Das war´s jetzt aber für heute (eigentlich ist ja schon morgen) Gute Nacht und
 ♥lichen Dank für die Aufmerksamkeit.

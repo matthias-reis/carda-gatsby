@@ -116,7 +116,7 @@ Name Bond. James Bond.**
 
 ## Summer Wine - Der Song
 
-<iframe src="https://www.youtube.com/embed/UH800q8qQsg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="UH800q8qQsg" />
 
 ## Teilnehmer beim Blind Date mit Summerwine
 

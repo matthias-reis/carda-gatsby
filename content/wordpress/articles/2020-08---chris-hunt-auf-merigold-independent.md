@@ -72,7 +72,7 @@ majestetisch wirkenden Drone-Sequenzen.
 Hier ein kleiner Tipp von mir: Es lohnt sich auf jeden Fall, das Stück laut zu
 hören! Die Regie zum Video führte die visuelle Künstlerin Samantha Garcia.
 
-<iframe src="https://www.youtube.com/embed/araUHZhr0WM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="araUHZhr0WM" />
 
 Christ Hunt ist ein Filmemacher und Musiker aus aus Atlanta. Mithilfe
 verspielter Szenarien und texturierter Klanglandschaften erlangt er Zugriff zur
@@ -145,7 +145,7 @@ majestic-sounding drone sequences.
 Here's a little tip from me: It's definitely worth listening to this piece loud!
 The video was directed by the visual artist Samantha Garcia.
 
-<iframe src="https://www.youtube.com/embed/araUHZhr0WM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="araUHZhr0WM" />
 
 Christ Hunt is a filmmaker and musician from Atlanta. With the help of subtle
 scenarios and textured soundscapes, he accesses the intersection of the

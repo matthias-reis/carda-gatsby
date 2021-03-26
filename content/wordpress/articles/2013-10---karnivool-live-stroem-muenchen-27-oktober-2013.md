@@ -164,7 +164,7 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_1
 
 **Und hier sind für Euch Karnivool mit "All I Know"**
 
-[youtube=http://www.youtube.com/watch?v=18SUFbABxNQ&amp;w=560&amp;h=315]
+ <YouTube id="18SUFbABxNQ&amp;w=560&amp;h=315" />
 
 _This is my sense of reality_ _This is proof of my coming of age_ _This is truth
 in captivity_ _This is losing a theology, I_ _I'm a soul taker_ _I'm a cruel,

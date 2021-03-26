@@ -173,107 +173,107 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_0
 
 ####  1.) Yo La Tengo - "The Story Of Yo La Tengo"
 
-<iframe src="https://www.youtube-nocookie.com/embed/tSHswSlm7co" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="tSHswSlm7co" />
 
 #### 2.) Mark Lanegan feat. PJ Harvey - "Hit The City"
 
-<iframe src="https://www.youtube-nocookie.com/embed/azH5eEXtllc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="azH5eEXtllc" />
 
 #### 3.) The Walkmen - "Blue As Your Blood"
 
-<iframe src="https://www.youtube-nocookie.com/embed/8mwhr2O7aYg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="8mwhr2O7aYg" />
 
 #### 4.) Bombay Bicycle Club - "Many Ways"
 
-<iframe src="https://www.youtube-nocookie.com/embed/3Zv4s-JQJgQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="3Zv4s-JQJgQ" />
 
 #### 5.) Bombay Bicycle Club - "Swansea"
 
-<iframe src="https://www.youtube-nocookie.com/embed/KDKRYzskbks" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="KDKRYzskbks" />
 
 #### 6.) The Beta Band - "She´s The One"
 
-<iframe src="https://www.youtube-nocookie.com/embed/--pdLtQhDeo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="--pdLtQhDeo" />
 
 #### 7.) The Walkmen - "Candian Girl"
 
-<iframe src="https://www.youtube-nocookie.com/embed/DPdfZlm4d-c" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="DPdfZlm4d-c" />
 
 <h5>8.) Eels - "Numbered Days"
-<iframe src="https://www.youtube-nocookie.com/embed/iB2qT9ml7Yc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h5>
+ <YouTube id="iB2qT9ml7Yc" /> </h5>
 
 #### 9.) Little Joy - "Evaporar"
 
-<iframe src="https://www.youtube-nocookie.com/embed/IWXTisH11-Y" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="IWXTisH11-Y" />
 
 ### Seite B
 
 #### 10.) Voxtrott - "Indroduction"
 
-<iframe src="https://www.youtube-nocookie.com/embed/_nCpuHLGS8w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="_nCpuHLGS8w" />
 
 #### 11.) The Leisure Society - "A Fighting Chance"
 
-<iframe src="https://www.youtube-nocookie.com/embed/1-OdLzi0edE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="1-OdLzi0edE" />
 
 #### 12.) The Leisure Society - "The Sleeper"
 
-<iframe src="https://www.youtube-nocookie.com/embed/3PIQAp2Z3yo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="3PIQAp2Z3yo" />
 
 #### 13.) Gomez - "You, Me And Everybody"
 
-<iframe src="https://www.youtube-nocookie.com/embed/nB0rg6nC344" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="nB0rg6nC344" />
 
 #### 14.) The Shins - "Phantom Limb"
 
-<iframe src="https://www.youtube-nocookie.com/embed/OkITsv3Nk6M" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="OkITsv3Nk6M" />
 
 #### 15.) Ra Ra Riot - "Too Too Too Fast"
 
-<iframe src="https://www.youtube-nocookie.com/embed/vST03aPLiLc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="vST03aPLiLc" />
 
 #### 16.) Voxtrot - "The Start Of Something"
 
-<iframe src="https://www.youtube-nocookie.com/embed/kjOCY1NX_B8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="kjOCY1NX_B8" />
 
 #### 17.) Guillemots - "São Paulo"
 
-<iframe src="https://www.youtube-nocookie.com/embed/8VIJXD4x89s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="8VIJXD4x89s" />
 
 ### Die Gescheiterten:
 
 #### 18.) The Beasty Boys - "I Don´t Know"
 
-<iframe src="https://www.youtube-nocookie.com/embed/KVqatg5NEF4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="KVqatg5NEF4" />
 
 <h5>19.) Beulah - "I´ll Be Your Lamphade"
-<iframe src="https://www.youtube-nocookie.com/embed/wm2oRGeDvCw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h5>
+ <YouTube id="wm2oRGeDvCw" /> </h5>
 
 #### 20.) Beulah - "If We Can Land A Man On The Moon, Surely I Can Win Your Love"
 
-<iframe src="https://www.youtube-nocookie.com/embed/5Tav8-WRZRc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="5Tav8-WRZRc" />
 
 #### 21.) Caribou - "Desiree"
 
-<iframe src="https://www.youtube-nocookie.com/embed/5sjEIzb6XJA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="5sjEIzb6XJA" />
 
 #### 22.) The Veils - "Wild Son"
 
-<iframe src="https://www.youtube-nocookie.com/embed/a0R858JBOLI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="a0R858JBOLI" />
 
 #### 23.) Yo La Tengo - "Deeper Into Movies"
 
-<h5><iframe src="https://www.youtube-nocookie.com/embed/T-3NhI6VOuo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<h5> <YouTube id="T-3NhI6VOuo" /> 
 24.) The Pains Of Being Pure At Heart - "Young Adult Friction"</h5>
 
-<iframe src="https://www.youtube-nocookie.com/embed/01ui9GR84OU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="01ui9GR84OU" />
 
 #### 25.) Pete Yorn &amp; Scarlett Johansson - "Relator"
 
-<iframe src="https://www.youtube-nocookie.com/embed/vEMPbsqqdOA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="vEMPbsqqdOA" />
 
 #### 26.) Prefab Sprout - "Bonny"
 
-<iframe src="https://www.youtube-nocookie.com/embed/L3Rh2hnDtAg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="L3Rh2hnDtAg" />
 
   

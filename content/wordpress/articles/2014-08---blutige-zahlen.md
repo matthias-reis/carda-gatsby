@@ -142,7 +142,7 @@ gänzlich fehlt. (
 ) Dabei besteht kein Unterschied bei der Schlachtung von Biotieren, wie u. A.
 dieses Video beweist:
 
-[youtube https://www.youtube.com/watch?v=HWYuYZ_KfdE]
+ <YouTube id="HWYuYZ_KfdE" />
 
 Mehr über die Wahrheit zur Schlachtung von Biotieren ist auf der Seite
 [biowahrheit.de](http://www.biowahrheit.de/inhalt/schlachtung.htm) zu finden,

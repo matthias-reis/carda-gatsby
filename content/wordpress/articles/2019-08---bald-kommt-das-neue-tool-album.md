@@ -101,7 +101,7 @@ zwei-Watt-Lautsprecher, dickem Booklet und Download-Card zu erstehen. Beim
 Plattenhändler seines Vertrauens kann man selbstverständlich auch eine Vinyl
 Ausgabe vorbestellen.
 
-<iframe src="https://www.youtube.com/embed/q7DfQMPmJRI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="q7DfQMPmJRI" />
 
 **Music &amp; Artwork:** [Tool](https://toolband.com/)
 

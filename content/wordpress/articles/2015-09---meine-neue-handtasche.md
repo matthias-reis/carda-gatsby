@@ -67,7 +67,7 @@ Anleitung ist wirklich klasse, zusätzlich gibt es noch ein Video, ich bette es
 mal hier mit ein, mir hat es beim Nähen sehr geholfen. Vielen Dank an Patty Doo
 an dieser Stelle!
 
-<iframe src="https://www.youtube.com/embed/azq48f3065s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="azq48f3065s" />
 
 ## Link zum Schnittmuster
 

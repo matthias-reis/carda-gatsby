@@ -81,28 +81,7 @@ Matzes Kommentar zu seiner Liste
 Meine Favoriten von Matzes Liste sind (außer den beiden bereits genannten)
 
 1.  "Why Walk A Dog" - Jack White vom Album "Boarding House Reach"
-    <iframe src="https://www.youtube.com/embed/B3cAy41B2ec" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  "Silurian: Age Of Sea Scorpions" - The Ocean vom Album "Phanerozoic I:
-    Palaeozoic"
-    <iframe src="https://www.youtube.com/embed/XWwEZnRBWCM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  "Momentum" - Nils Frahm vom Album "All Melody"
-    <iframe src="https://www.youtube.com/embed/HOQ0kGBsiwk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  "Under The Fragmented Sky" - Lunatic Soul vom Album "Under The Fragmented
-    Sky"
-    <iframe src="https://www.youtube.com/embed/X3dg0jYlX0I" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  "Hoehlenlichter" - Recondite vom Album "Daemmerlicht"
-    <iframe src="https://www.youtube.com/embed/Frew2Nwo-t4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  "Part Eleven" - Paul Kalkbrenner vom Album "Parts Of Life"
-    <iframe src="https://www.youtube.com/embed/V0QJLDM7Nak" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  "Luminary" - TesseracT vom Album "Sonder"
-    <iframe src="https://www.youtube.com/embed/jJKsmaGtrjo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  "Condemned To The Gallows" - Between The Buried And Me von der EP "Automata
-    I"
-    <iframe src="https://www.youtube.com/embed/Tq8u0uDK61E" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  "Syncage" - This Will Destroy You" vom Album "New Others Part One"
-    <iframe src="https://www.youtube.com/embed/PB_VMHlMg08" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  "We're Not Done" - Mogwai vom Album "KIN"
-    <iframe src="https://www.youtube.com/embed/K5rtIRHnRSI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+    <YouTube id="K5rtIRHnRSI" />
 
 Für iTunes bitte hier entlang:
 
@@ -110,6 +89,6 @@ Für iTunes bitte hier entlang:
 
 Wer Spotify bevorzugt, wählt diesen Player:
 
-<iframe src="https://open.spotify.com/embed/user/1121766356/playlist/6GZefsDQf2SqdN1hord5ME" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="user/1121766356/playlist/6GZefsDQf2SqdN1hord5ME" />
 
   

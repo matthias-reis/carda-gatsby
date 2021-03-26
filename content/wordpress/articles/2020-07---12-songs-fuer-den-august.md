@@ -83,7 +83,7 @@ musikalisches Lebenszeichen von ASIWYFA zu hören. Und obendrein auch noch so ei
 geniales. Um meine Freude mit Euch zu teilen, nutze ich das zweite Stück auf
 "Successors" als Opener für unsere Sommer-Musikliste.
 
-<iframe src="https://www.youtube.com/embed/GQGwUf1_ees" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="GQGwUf1_ees" />
 
 ## Galathain - "And The Rain Tasted Like Blood" vom Album "And The Rain Tasted Like Blood" (Vorauskopplung)
 
@@ -94,7 +94,7 @@ mich persönlich verzaubert. Ich kann Euch nur empfehlen, auch mal reinzuhören.
 "And The Rain Tasted Like Blood" ist eine Vorauskopplung vom bald erscheinenden
 gleichnamigen Album. Bleibt also dran!
 
-<iframe src="https://www.youtube.com/embed/aV9yoUw5XSw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="aV9yoUw5XSw" />
 
 ## Ranges - "Monarch" (Single)
 
@@ -102,7 +102,7 @@ Wie schön, dass es von [Ranges](/2019/04/ranges-planen-neues-album/) etwas Neue
 gibt. Erst 2019 erschien das epische Werk "Babel". Jetzt schon wieder eine neue
 Single zu hören ist ein wunderbares musikalisches Geschenk für mich.
 
-<iframe src="https://www.youtube.com/embed/MN_NvvQ-tBE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="MN_NvvQ-tBE" />
 
 ## Unwed Sailor - "Look Alive" vom Album "Look Alive"
 
@@ -112,7 +112,7 @@ erscheinen. Ihr findet seine Musik auch in der von Of The Vine Gitarrist Sam
 paar Tagen ist das aktuelle Unwed Sailor Album "Look Alive" erschienen. Der
 Namensgeber des Albums klingt ein bisschen nach The Cure.
 
-<iframe src="https://www.youtube.com/embed/n5HRHbZrWp0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="n5HRHbZrWp0" />
 
 ## Long Distance Calling - "Immunity" vom Album "How Do We Want To Live?"
 
@@ -127,7 +127,7 @@ Soundtrack passen - die Jungs experimentieren im Moment mit Elektronik. Das
 Stück "Immunity" und das Video dazu beschäftigen sich mit einem hochaktuellen
 Thema: unserer aktuelle Situation und dem Leben während einer Pandemie."
 
-<iframe src="https://www.youtube.com/embed/fT9pNGHKdLw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="fT9pNGHKdLw" />
 
 ## Deftones - "Change (In The House Of Flies)" vom Album "White Pony"
 
@@ -143,7 +143,7 @@ endgültig vom New-Metal weg bewegten und ihren eigenen Sound fanden. Neben eine
 wahnsinnig guten Track mit Maynard James Keenan beinhaltet das Album auch diesen
 unsterblichen Song."
 
-<iframe src="https://www.youtube.com/embed/WPpDyIJdasg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="WPpDyIJdasg" />
 
 ## Helmet - "Milquetoast" vom Album "Betty"
 
@@ -154,7 +154,7 @@ unverwechselbar exakten Sound, der neben Mastermind Page Hamilton auch dem
 einzigartigen Drummer John Stanier zu verdanken ist, waren sie ein großer
 Einfluss für Bands wie Chevelle. 'Milquetoast' stammt 1994er Album 'Betty'."
 
-<iframe src="https://www.youtube.com/embed/Ugio4fFSLFQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="Ugio4fFSLFQ" />
 
 ## Ennio Morricone - "The Ecstasy Of Gold"
 
@@ -171,7 +171,7 @@ von Sergio Leone. Und ganz ehrlich: einer der wichtigsten Teile eines
 Metallica-Konzertes ist dieses Stück als Einlaufmusik, welches seit 1983 die
 Spannung für ihre Konzerte aufbaut. Ennio Morricone - Il Maestro"
 
-<iframe src="https://www.youtube.com/embed/PYI09PMNazw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="PYI09PMNazw" />
 
 ## The Ocean feat. Jonas Renske (Katatonia) - Jurassic | Cretaceous (Vorauskopplung vom Album "Pharerozoic Pt. II - Mezozoic")
 
@@ -187,7 +187,7 @@ Nach einem entspannten Übergang in der Mitte geht es stark weiter - wieder mit
 der Unterstützung von Katatonia Sänger Jonas Renske, genau wie beim Paradestück
 der ersten Platte 'Devonian: Nascent'."
 
-<iframe src="https://www.youtube.com/embed/wp63RXFwTtA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="wp63RXFwTtA" />
 
 ## Omar Rodríguez-López - "Fool So Bleak" vom Album "The Clouds Hill Tapes, Pt. I"
 
@@ -203,7 +203,7 @@ enorm. Seine neuen Songs treffen genau seine Mitte - verspult, aber auch nicht
 zu verspult mit klaren Songstrukturen, die von einzelnen leicht chaotischen
 Texturen aufgelöst werden. "Fool so Bleak" ist dafür ein gutes Beispiel."
 
-<iframe src="https://www.youtube.com/embed/Vgd1n5uTXq0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="Vgd1n5uTXq0" />
 
 ## Emma Ruth Rundle - "Staying Power" (Outtake vom 2018er Album "On Dark Horses")
 
@@ -218,7 +218,7 @@ handelt von den Abgründen des Lebens von Tourmusiker⋆innen - angewiesen auf
 Live-Auftritte und am Rande der Existenzkrise, wenn genau das unter einem
 Lockdown auf unbestimmte Zeit wegbricht."
 
-<iframe src="https://www.youtube.com/embed/nLb1CtsVjf0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="nLb1CtsVjf0" />
 
 ## Bob Dylan - "Murder Most Foul" vom Album "Rough And Rowdy Ways"
 
@@ -240,11 +240,11 @@ dem Sinatra Tribute "Shadows In The Night" von 2015 und dem Cover-Album "Fallen
 Angels" von 2016 Dylans erstes eigenes musikalisches Werk nach
 ["Tempest" von 2012](/2012/08/bob-dylan-stellt-neuen-song-duquesne-whistle-vor/).
 
-<iframe src="https://www.youtube.com/embed/3NbQkyvbw18" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="3NbQkyvbw18" />
 
 ## Unsere Sommer-Musikliste bei Spotify
 
-<iframe src="https://open.spotify.com/embed/playlist/2L92zUytDoMdfqaRxGHX9S" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="playlist/2L92zUytDoMdfqaRxGHX9S" />
 
 ## Unsere Sommer-Musikliste bei iTunes
 

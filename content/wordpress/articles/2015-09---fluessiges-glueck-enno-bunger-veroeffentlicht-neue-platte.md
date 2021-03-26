@@ -87,7 +87,7 @@ hochgradig musikalisch, kreativ und phantasievoll.
 
 ## Hier ist für Euch Enno Bunger mit "Renn!"
 
-<iframe src="https://www.youtube.com/embed/SmBP2lMhEnE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="SmBP2lMhEnE" />
 
 [Hier geht's zur Homepage](http://ennobunger.de/) von Enno Bunger
 

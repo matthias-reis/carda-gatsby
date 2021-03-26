@@ -77,7 +77,7 @@ einen sonnigen Tag.
 **Zur Feier des Tages gibt es wieder ein Lieblingslied/-Video: Calexico - "The
 Ballad Of  Cable Hogue"**
 
-[youtube=http://www.youtube.com/watch?v=w89r74jAG30]
+ <YouTube id="w89r74jAG30" />
 
 _I live out yonder where the snakes and scorpions run_ _got myself a little
 goldmine to bank on_ _one day my heart sank when I saw Madame in town_ _I knew

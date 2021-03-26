@@ -212,7 +212,7 @@ kreative Lösungen, wie zum Beispiel das Sampling zu nutzen. Wir haben während
 des ersten Lockdowns zum Beispiel auch eine Social Distancing Live Session
 aufgenommen. Du kannst sie Dir hier anschauen:
 
-<iframe src="https://www.youtube.com/embed/dbgZ0JFjXaA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="dbgZ0JFjXaA" />
 
 **Anne:** Vermisst Ihr die Live-Konzerte und das Touren sehr?
 
@@ -405,7 +405,7 @@ equipment, but we try to develop creative solutions such as sampling. Also, we
 recorded a socially distanced live session during the first national lockdown,
 which you can find here:
 
-<iframe src="https://www.youtube.com/embed/dbgZ0JFjXaA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="dbgZ0JFjXaA" />
 
 **Anne:** Do you miss playing live on stage and going on tour a lot?
 

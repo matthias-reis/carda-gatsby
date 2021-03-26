@@ -98,7 +98,8 @@ aufgenommen haben. Ihr müsst es Euch einfach anhören/ansehen, es ist zu genial
 
 _ **Hier sind für Euch Josh Homme, Dave Grohl und Trent Reznor mit MANTRA** _
 
-[[youtube http://www.youtube.com/watch?v=L2kGNdE0b5Q&amp;w=560&amp;h=315]](https://www.youtube.com/watch?v=L2kGNdE0b5Q&feature=player_detailpage)
+[ <YouTube id="L2kGNdE0b5Q&amp;w=560&amp;h=315]" />
+(https://www.youtube.com/watch?v=L2kGNdE0b5Q&amp;feature=player_detailpage)
 
 _Viel Spaß damit! Und ein wundertolles Wochenende! Ich tauche jetzt mit der
 Musik von Dave, Trent und Josh in der Badewanne ab und lese ein paar Seiten in

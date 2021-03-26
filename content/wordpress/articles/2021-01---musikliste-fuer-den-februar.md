@@ -84,7 +84,7 @@ Was habe ich hier Luftsprünge hingelegt, als ich erfuhr, dass GOAA nach
 Gesamtwerk erscheint am 12. Februar. Allzu viel möchte ich an dieser Stelle noch
 nicht verraten. Ich denke, "Burial" spricht für sich.
 
-<iframe src="https://www.youtube.com/embed/_Jbc-e3I5eQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="_Jbc-e3I5eQ" />
 
 ## Chevelle – "Self Distructor" – Vorauskopplung vom Album "Niratias"
 
@@ -112,7 +112,7 @@ oft an ihren größten Einfluss Helmet und an Tool erinnert."
 
 </blockquote>
 
-<iframe src="https://www.youtube.com/embed/QhPn5EPGN4c" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="QhPn5EPGN4c" />
 
 ## ††† (Crosses) – "The Beginning Of The End" (Single)
 
@@ -125,7 +125,7 @@ Musikstück Nummer drei hat auch Valentin auf die Liste gesetzt:
 > Effect aufgenommen wurde. Hoffen wir mal, dass bald eine neue EP oder ein
 > Album erscheint. Bisher ist darüber leider noch nichts bekannt"
 
-<iframe src="https://www.youtube.com/embed/FC73PLh_6wg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="FC73PLh_6wg" />
 
 ## Mogwai – "Ritchie Sacramento" – Vorauskopplung vom Album "As The Love Continues"
 
@@ -144,7 +144,7 @@ Chaos und Ruhe, Wildheit und Ordnung – genau so sind wir es von Mogwai gewöhn
 und genau so haben wir es uns erträumt. Doch was rede ich hier: hört am besten
 einfach selbst.
 
-<iframe src="https://www.youtube.com/embed/VWjzlJEmmxM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="VWjzlJEmmxM" />
 
 ## BirdPen – "Invisible" – Vorauskopplung vom Album "All Function One"
 
@@ -156,7 +156,7 @@ Den nächsten Song hat Matze ausgesucht:
 > zweite Single-Auskopplung von der Platte. Sie kommt wie von BirdPen gewohnt
 > ruhiger und weniger experimentell als typisches Archive-Material daher."
 
-<iframe src="https://www.youtube.com/embed/3Kdfif5eBx8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="3Kdfif5eBx8" />
 
 ## For Giants – "What Happened To You" vom Album "There There"
 
@@ -168,7 +168,7 @@ Vorgänger "The Lucky Ones" (2020) und "Big Sky" (2017) mal anhören. Freund⋆i
 von The Mars Volta werden hier genauso glücklich, wie Fans von Billy Talent und
 [The Ocean](/2020/09/the-ocean-robin-staps-interview/).
 
-<iframe src="https://www.youtube.com/embed/94L-AkC_Bng" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="94L-AkC_Bng" />
 
 ## David Bowie – "Mother"
 
@@ -188,7 +188,7 @@ handeln, bei denen das Cover das Original übertrifft."
 
 </blockquote>
 
-<iframe src="https://www.youtube.com/embed/BrPAtjRvgQU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="BrPAtjRvgQU" />
 
 ## Jim Lindberg of Pennywise – "Boss D.J." – "The House That Bradley Built" (Compilation)
 
@@ -209,7 +209,7 @@ aus meiner Lieblings-Punkrock-Band Pennywise."
 
 </blockquote>
 
-<iframe src="https://www.youtube.com/embed/tUNYDFm-vi0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="tUNYDFm-vi0" />
 
 ## powder! go away – "jól" vom Album "Winter Has Come"
 
@@ -221,7 +221,7 @@ liebe. Ein  Hauch von Hoffnung bringt den düsteren, kalten Himmel kurz zum
 Schillern. Ein Lichtblick in dieser grauen (Jahres)Zeit. Perfekt komponierter
 Post-Rock mit spannenden Überraschungsmomenten.
 
-<iframe src="https://www.youtube.com/embed/_Nf5wnlsYvA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="_Nf5wnlsYvA" />
 
 ## Paul Kalkbrenner – "Graf Zahl"
 
@@ -234,7 +234,7 @@ Hier hat Matze wieder das Wort:
 > Paule mit einer Computer-programmierten Zufallssequenz aus Zahlen. Auch das
 > Video ist sehenswert. Es zeigt eine KI-Personenerkennung bei der Arbeit."
 
-<iframe src="https://www.youtube.com/embed/X-J6TAdvvC4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="X-J6TAdvvC4" />
 
 ## SOHN – "Tremors" vom Album "Tremors"
 
@@ -248,7 +248,7 @@ Valentins letzter Song in dieser Runde kommt von SOHN:
 > Die anderen Stücke auf der Platte solltet Ihr auch aber auf jeden Fall auch
 > anhören, wenn Ihr schon dabei seid."
 
-<iframe src="https://www.youtube.com/embed/Mn715hfUv1M" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="Mn715hfUv1M" />
 
 ## Kings of Leon – "100,000 People" – Vorauskopplung vom Album "When You See Yourself"
 
@@ -261,11 +261,11 @@ Und hier noch einer von Matze:
 > weiteren Verlauf hört man außerdem einige spannende 80er-Jahre-Synthesizer
 > durch. Insgesamt: Solider Pop, der mich gespannt auf das Album warten lässt."
 
-<iframe src="https://www.youtube.com/embed/ExmWm3wk4Nk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="ExmWm3wk4Nk" />
 
 ## Die Februar-Musikliste bei Spotify
 
-<iframe src="https://open.spotify.com/embed/playlist/24x1S6k7BlrBHP1jw98qqi" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="playlist/24x1S6k7BlrBHP1jw98qqi" />
 
 ## Die Februar-Musikliste bei iTunes
 

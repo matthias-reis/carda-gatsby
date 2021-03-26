@@ -131,6 +131,6 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_0
 
 ## Songs des Tages: Weezer – "Sweater Song"
 
-<iframe src="https://www.youtube.com/embed/LHQqqM5sr7g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="LHQqqM5sr7g" />
 
   

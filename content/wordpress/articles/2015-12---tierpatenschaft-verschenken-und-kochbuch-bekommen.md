@@ -72,7 +72,7 @@ Pflege brauchen oder aus anderen Gründen nicht vermittelbar sind. Sie werden
 dann auf Gnadenhöfen untergebracht, der Verein übernimmt dabei die anfallenden
 Kosten.
 
-<div style="float: right;"><iframe src="https://www.youtube.com/embed/ZjvS5v8bi7Q" width="300" height="240" frameborder="0"></iframe></div>
+<div style="float: right;"> <YouTube id="ZjvS5v8bi7Q" /> </div>
 
 Denise erzählte mir, dass erst vor Kurzem zwei Neuankömmlinge im Projekt
 aufgenommen wurden. Die beiden Kühe Dorte und Denise wurden aus einem

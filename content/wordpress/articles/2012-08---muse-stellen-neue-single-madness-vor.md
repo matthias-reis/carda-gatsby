@@ -86,11 +86,11 @@ laufen wird.
 
 ## Doch jetzt viel Spaß mit Muse - "Madness"
 
-<iframe src="https://www.youtube.com/embed/Ek0SgwWmF9w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="Ek0SgwWmF9w" />
 
 ## Und hier sind für Euch nochmal Muse mit "Unsustainable"
 
-<iframe src="https://www.youtube.com/embed/EF_xdvn52As" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="EF_xdvn52As" />
 
 ## Muse Wegweiser
 

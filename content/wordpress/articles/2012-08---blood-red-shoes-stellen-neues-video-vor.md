@@ -75,6 +75,6 @@ aus dem gleichnamigen, brillanten, im März 2012 erschienen Album.
 
 ## Blood Red Shoes – "In Time To Voices"
 
-[youtube=http://www.youtube.com/watch?v=3N69hRav3WI]
+ <YouTube id="3N69hRav3WI" />
 
   

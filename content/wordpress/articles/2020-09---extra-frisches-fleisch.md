@@ -72,7 +72,7 @@ derzeit. Einer davon lautet übersetzt:
 > sie, Mitgefühl zu entwickeln. Ich liebe dieses Video und hoffe, dass es auf
 > der ganzen Welt bald noch viel derartige Spots zu sehen geben wird."
 
-<iframe src="https://www.youtube.com/embed/g2-mPJwBsBA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="g2-mPJwBsBA" />
 
 Quelle:
 [Plant Based News](https://www.plantbasednews.org/culture/watch-pro-vegan-tv-ad-goes-viral-in-israel)

@@ -44,6 +44,6 @@ großartigen Sänger José Gonzalez.
 
 ## **Song des Tages: Junip - "To The Grain"**
 
-<iframe src="https://www.youtube.com/embed/FmLFJOvWGw0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="FmLFJOvWGw0" />
 
   

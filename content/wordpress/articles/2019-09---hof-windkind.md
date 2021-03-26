@@ -177,7 +177,7 @@ gelungen.
 
 ## Öko-sozialer Walnussanbau vor den Toren von Berlin
 
-<iframe src="https://www.youtube.com/embed/xWfedKXr7cM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="xWfedKXr7cM" />
 
 Alle Infos zur Baum-Adoption und zu den Besichtigungsterminen findet Ihr auf der
 [Hof Windkind Homepage](https://www.hofwindkind.com).

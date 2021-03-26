@@ -72,7 +72,7 @@ biosphärische Prozesse beeinflusst. Daher auch der Titel, der zu Deutsch lautet
 
 [Bestellen könnt Ihr das Buch hier](https://amzn.to/32QSkaA).
 
-<iframe src="https://www.youtube.com/embed/V69c27TuHxc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="V69c27TuHxc" />
 
 Quelle/source:
 [We Animals Media Hidden Campaign](https://weanimalsmedia.org/2020/05/04/announcing-hidden-animals-in-the-anthropocene/)

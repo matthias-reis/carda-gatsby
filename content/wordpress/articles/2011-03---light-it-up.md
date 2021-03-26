@@ -26,6 +26,6 @@ subTitle: Song des Tages
 
 ## Blood Red Shoes - "Light It Up"
 
-[youtube=http://www.youtube.com/watch?v=LXu-Q4EsaFA&amp;feature=fvsr]
+ <YouTube id="LXu-Q4EsaFA&amp;feature=fvsr" />
 
   

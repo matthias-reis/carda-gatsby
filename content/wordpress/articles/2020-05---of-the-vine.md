@@ -250,7 +250,7 @@ Of the Vine zusammengestellte Playlist!
 
 ## "Left Alone" von Of the Vine bei Spotify
 
-<iframe src="https://open.spotify.com/embed/album/3IfT47HcP3gyNhy7JeVeFc" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="album/3IfT47HcP3gyNhy7JeVeFc" />
 
 ## "Left Alone" von Of the Vine bei iTunes
 
@@ -456,7 +456,7 @@ days!
 
 ## "Left Alone" on Spotify
 
-<iframe src="https://open.spotify.com/embed/album/3IfT47HcP3gyNhy7JeVeFc" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="album/3IfT47HcP3gyNhy7JeVeFc" />
 
 ## "Left Alone" on iTunes
 

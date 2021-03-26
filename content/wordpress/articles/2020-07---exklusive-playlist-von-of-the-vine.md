@@ -91,7 +91,7 @@ dann sind da diese Cosmic Music Style Drums. Ich liebe auch den Gesang von
 James. In der Regel versuchen Sänger⋆innen ja gerne, ihren Akzent zu verstecken
 aber er lebt sein kerniges Schottisch voll aus.
 
-<iframe src="https://www.youtube.com/embed/_n_0THePDIs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="_n_0THePDIs" />
 
 ## Emma Ruth Rundle - "Protection" vom Album "Marked For Death"
 
@@ -103,7 +103,7 @@ Darbietungen war, die ich seit langer Zeit gesehen hatte. Sie hat mich mit ihrer
 Musik einfach auf der ganzen Linie überzeugt. Ich liebe es, wie schwer er wird,
 während dieser Appalachian-Sound immer am Boden bleibt.
 
-<iframe src="https://www.youtube.com/embed/u5H07c8DlgI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="u5H07c8DlgI" />
 
 ## Explosions In The Sky - "The Moon Is Down" vom Album "Those Who Tell The Truth Shall Die, Those Who Tell The Truth Shall Live Forever"
 
@@ -125,7 +125,7 @@ mich komplett umgehauen und das tut es nach wie vor. Würde es dieses Album nich
 geben, hätte ich mich vielleicht nicht mit dieser Art von Musik beschäftigt, die
 wir machen. Vielleicht würde ich tatsächlich immer noch einfach so Musik hören.
 
-<iframe src="https://www.youtube.com/embed/OLNTWN0Asmg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="OLNTWN0Asmg" />
 
 ## Phoebe Bridgers - "Smoke Signals" vom Album "Stranger In the Alps"
 
@@ -138,7 +138,7 @@ Platte hören. Die Sanftheit ihrer Stimme und die einfache aber durchdachte
 Instrumentierung bringen etwas Einzigartiges hervor. Ich höre nicht viel Folk,
 aber dieses Werk hat mich in der Seele getroffen.
 
-<iframe src="https://www.youtube.com/embed/vAKg267JgBE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="vAKg267JgBE" />
 
 ## Sumac - "Thorn In The Lion's Paw" vom Album "The Deal"
 
@@ -149,7 +149,7 @@ Komplexitäten, die Nick so einfach klingen lässt, verblüffen mich sehr. Ich h
 das Gefühl, dass dieser Song für Einsteiger⋆innen eine gute Einführung in die
 musikalische Welt von Sumac sein könnte.
 
-<iframe src="https://www.youtube.com/embed/qPFr8jGXSbg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="qPFr8jGXSbg" />
 
 ## Ben Frost - "Theory Of Machines" vom Album "Theory Of Machines"
 
@@ -162,7 +162,7 @@ Lautstärke. Musik, die dazu gemacht ist, die Stereoanlage beim Hören explodier
 zu lassen. Sein Auftritt war mit der lauteste, den ich jemals erlebt habe. Ich
 konnte es kaum glauben.
 
-<iframe src="https://www.youtube.com/embed/3fy4YPd7viU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="3fy4YPd7viU" />
 
 ## Unwed sailor - "The Floating Waltz" vom Album "The Marionette &amp; The Music Box"
 
@@ -174,7 +174,7 @@ in Konzeptalben ohne Gesang eingeführt. Sie ist wie ein Soundtrack zu einem
 Film, den es nicht gibt. Auch ihre "Firecracker" EP ist absolut brilliant. Sie
 sind vermutlich eine der am meisten unterschätzten Post-Rock Bands.
 
-<iframe src="https://www.youtube.com/embed/LGn_dlHEflQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="LGn_dlHEflQ" />
 
 ## Early Day Miners - "In These Hills - 20th Anniversary Edition" vom Album "Placer Found" (20th Anniversary Edition)
 
@@ -185,7 +185,7 @@ Neupressung davon zum 20. Jahrestag erschienen. Was ich an der Band wirklich
 schätze, ist das Zusammenspiel aus geflüsterten Vocals und akustischen und
 elektrischen Gitarren. Sie lassen sich Zeit.
 
-<iframe src="https://www.youtube.com/embed/-W48Q5y5oRY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="-W48Q5y5oRY" />
 
 ## Stars Of The Lid - "Don't Bother They're Here" vom Album "And Their Refinement Of The Decline"
 
@@ -206,7 +206,7 @@ das Blog-gewordene Label Merigold Independent gründete. Ich kann auf jeden Fall
 sagen, dass Musik einen Menschen verändern kann. Genau wie Menschen, die
 freundlich zu einem sind.
 
-<iframe src="https://www.youtube.com/embed/_DsYk-WM5Rk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="_DsYk-WM5Rk" />
 
 ## Mogwai - "Thank You Space Expert" vom Album "The Hawk Is Howling"
 
@@ -218,7 +218,7 @@ spricht mich sehr an. Ich liebe die Drone-Gitarren in Kombination mit den
 langsamen Klavierpassagen sehr. Ich habe sie leider nie kennengelernt aber sie
 scheinen auch superentspannte Menschen zu sein.
 
-<iframe src="https://www.youtube.com/embed/zMdI-ooLwCI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="zMdI-ooLwCI" />
 
 ## Arvo Pärt - "Cantus in Memoriam Benjamin Britten" vom Album "Part, A: Berliner Messe / Fratres / Collage Uber B-A-C-H / Summa / Cantus In Memoriam Benjamin Britten"
 
@@ -229,7 +229,7 @@ unter uns, kann ich sehr die Lektüre des 
  empfehlen, um mehr über diese Bewegung und seinen Tintinnabuli Style zu
 erfahren.
 
-<iframe src="https://www.youtube.com/embed/sp2oxWdRMuk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="sp2oxWdRMuk" />
 
 ## Rafael Anton Irrisari - "Watching As She Reels" vom Album "Hopes And Past Desires"
 
@@ -244,7 +244,7 @@ Genre versuchen, Layer über Layer zu legen. Aber um Brian Eno zu zitieren:
 Ich versuche, mir das Stück ins Gedächtnis zu rufen, während ich das hier
 schreibe. Rafael ist ein Gott. Er macht minimalistische Musik mit Bedeutung.
 
-<iframe src="https://www.youtube.com/embed/8KPnEYLHt5I" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="8KPnEYLHt5I" />
 
 ## Sea Oleena - "Shallow" vom Album "Shallow"
 
@@ -256,7 +256,7 @@ veröffentlicht. Ich glaube, aus dieser Zusammenarbeit sind danach nur noch ein
 oder zwei Songs erschienen. Ich hoffe wirklich, dass sie weiter Stücke
 veröffentlicht. Wir alle können diese Ruhe im Moment mehr denn je gebrauchen.
 
-<iframe src="https://www.youtube.com/embed/mto84jhDyGk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="mto84jhDyGk" />
 
 In unserem Interview habe ich mit Sam über das aktuelle Of the Vine Album "East
 The Water" und die Entwicklung und Pläne von Of the Vine gesprochen. Ihr könnt
@@ -264,11 +264,11 @@ es [hier lesen](/2020/05/of-the-vine/).
 
 ## Sams Playlist bei Spotify
 
-<iframe src="https://open.spotify.com/embed/playlist/3zLKlVQnK9cOdWl8eTmKIf" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="playlist/3zLKlVQnK9cOdWl8eTmKIf" />
 
 Hier sind für Euch Of the Vine mit "An Event Of Moon Disaster"
 
-<iframe src="https://www.youtube.com/embed/WzsS0pBXJl8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="WzsS0pBXJl8" />
 
 <div id="⋆">[⋆]  _English version_ </div>
 
@@ -303,64 +303,49 @@ The Twilight Sad has been probably one of my longest-running favorite artists. I
 saw them open for MONO back in 2010 and they absolutely blew me away.
 Terrifyingly loud guitars with Cosmic Music style drumming. I also love James'
 vocals - usually, artists try to hide their accent but he leans into the thick
-Scottish burr.
+Scottish burr. <YouTube id="u5H07c8DlgI" />
 
-<iframe src="https://www.youtube.com/embed/_n_0THePDIs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
-## Emma Ruth Rundle - "Protection" from the album "Marked For Death"
-I had heard some of her music before but after I saw her play at Dunk! USA 2017 I became a die-hard fan. The mix of distorted baritone guitars and vocals with a slight country twang, not to mention being one of the most emotive performances I had seen in some time completely sold me. I love how heavy it gets while keeping a grounding in an Appalachian sound.
-<iframe src="https://www.youtube.com/embed/u5H07c8DlgI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
 ## Explosions In The Sky - "The Moon Is Down" from the album "Those Who Tell The Truth Shall Die, Those Who Tell The Truth Shall Live Forever"
-This album is what first introduced me to lyric-less rock. This was way back in 2004 and I couldn't believe how moved I was by music without words. I was shocked by how I could feel more deeply my emotions than with music containing vocals. I always wonder if this is because it allows us to be using our own stories as opposed to being told what to feel. Very introspective. This album (also "The Earth Is Not A Cold Dead Place") changed how I heard music.
+
+This album is what first introduced me to lyric-less rock. This was way back in
+2004 and I couldn't believe how moved I was by music without words. I was
+shocked by how I could feel more deeply my emotions than with music containing
+vocals. I always wonder if this is because it allows us to be using our own
+stories as opposed to being told what to feel. Very introspective. This album
+(also "The Earth Is Not A Cold Dead Place") changed how I heard music.
 
 I knew I wanted to make "that". This song was probably my most listened to at
 the time; the narrative progression is incredible. They make it sound so simple
 but it is structured quite complexly, leaving parts behind with no perceivable
 transitions, calling back with motifs, it blew my mind and still does. If it
 weren't for this album I may not have gotten into the type of music we play, or
-maybe even still play music in general.
+maybe even still play music in general. <YouTube id="-W48Q5y5oRY" />
 
-<iframe src="https://www.youtube.com/embed/OLNTWN0Asmg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
-## Phoebe Bridgers - "Smoke Signals" from the album "Stranger In the Alps"
-Her lyrics... I can't even understand how her mind works since some of her word associations and anecdotes escape natural thought (I am in no way a lyricist, however.) This album holds a special place in my heart as during a particularly difficult time in my life I would go to sleep with this on. The mellowness of her voice and simple yet thoughtful instrumentations really bring something unique. I don't listen to too much folk music but this one hit me in the soul.
-<iframe src="https://www.youtube.com/embed/vAKg267JgBE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
-## Sumac - "Thorn In The Lion's Paw" from the album "The Deal"
-A collaboration between Aaron Turner of Isis, Nick Yacyshyn of Baptists, and Brian Cook of Russian Circles creates simply crushing tones stacked with precise and heavy-as-hell drumming. Some of the complexities Nick makes sound so simple astounds me. I feel like this song is a good introduction to their sound.
-<iframe src="https://www.youtube.com/embed/qPFr8jGXSbg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
-## Ben Frost - "Theory Of Machines" from the album "Theory Of Machines"
-Swelling tremolo piano and a rising distortion - I came across this song in 2008 when I saw a  [dance film called Mortal Engine by Chunky Move dance studio](https://www.youtube.com/watch?v=sbjOMualLVs).  I've been following Frost's music ever since. I love his experimentations and the use of compression and extreme sonic loudness. Music that is made to be listened to with your stereo just blasting. Live...one of the loudest acts I have ever seen, I couldn't even believe it.
-<iframe src="https://www.youtube.com/embed/3fy4YPd7viU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
-## Unwed sailor - "The Floating Waltz" from the album "The Marionette &amp; The Music Box"
-I saw Unwed Sailor on their Marionette and the Music Box tour back in, I want to say 2004. Their music was another huge influence on me at the time (and still is). Complex but not pretentious bass lines and accompanying drums. This album in particular really helped introduce me to concept albums that have no lyrics; Like a score to a film that doesn't exist. Their Firecracker EP is also absolutely brilliant and they are probably one of the most underrated bands in post-rock.
-<iframe src="https://www.youtube.com/embed/LGn_dlHEflQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
-## Early Day Miners - "In These Hills - 20th Anniversary Edition" from the album "Placer Found" (20th Anniversary Edition)
-I heard about Early Day Miners from a collaboration they did with Unwed Sailor and loved their use of repetition and slow builds. This album just had a 20th-anniversary repressing and I highly recommend it. Whispering vocals, acoustic and electric guitar interplay, they take their time and I appreciate that about them.
-<iframe src="https://www.youtube.com/embed/-W48Q5y5oRY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
 ## Stars Of The Lid - "Don't Bother They're Here" from the album "And Their Refinement Of The Decline"
-I fell on board the Stars Of The Lid train a bit late but am I ever so glad I found them. They were another band that changed my entire outlook on music. It's a weird surreal story but I was recommended them by Carlos Torrez (Ex-Explosions In The Sky, he was so supportive of my music back when I handed him our first demos in 2006) when I was still in my late teens and I didn't quite understand the ambient genre of music at the time, but when I revisited in my twenties it snowballed another music taste shift in me.
+
+I fell on board the Stars Of The Lid train a bit late but am I ever so glad I
+found them. They were another band that changed my entire outlook on music. It's
+a weird surreal story but I was recommended them by Carlos Torrez (Ex-Explosions
+In The Sky, he was so supportive of my music back when I handed him our first
+demos in 2006) when I was still in my late teens and I didn't quite understand
+the ambient genre of music at the time, but when I revisited in my twenties it
+snowballed another music taste shift in me.
 
 I started seeking any artists who were doing the same with similar approaches
 and just absorbing all the ambient music I could find. This even led me to start
 the blog-turned-label Merigold Independent. So, I can definitely say that music
 can change a person. And so can people being kind to you.
+<YouTube id="zMdI-ooLwCI" />
 
-<iframe src="https://www.youtube.com/embed/_DsYk-WM5Rk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
-## Mogwai - "Thank You Space Expert" from the album "The Hawk Is Howling"
-This wouldn't be a post-rock blog if I didn't mention Mogwai. They have been doing this from the beginning and every album still delivers. Some of the loudest shows I've been to have been Mogwai gigs, as well. This album in particular speakers to me quite a bit, I love the drone guitars paired with slow piano passages. I've never met them but they also seem like super laid-back guys.
-<iframe src="https://www.youtube.com/embed/zMdI-ooLwCI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
 ## Arvo Pärt - "Cantus in Memoriam Benjamin Britten" from the album "Part, A: Berliner Messe / Fratres / Collage Uber B-A-C-H / Summa / Cantus In Memoriam Benjamin Britten"
-I honestly don't think there is anything more emotive and heart-rending as this piece.
+
+I honestly don't think there is anything more emotive and heart-rending as this
+piece.
 
 For the more logic-driven among us, I highly recommend reading up on this
 movement and his tintinnabuli style check out the
 [Wiki about "Cantus In Memoriam Benjamin Britten"](https://en.wikipedia.org/wiki/Cantus_in_Memoriam_Benjamin_Britten).
-
-<iframe src="https://www.youtube.com/embed/sp2oxWdRMuk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
-## Rafael Anton Irrisari - "Watching As She Reels" from the album "Hopes And Past Desires"
-I've cried many times to this song, haha. I would go for walks out in the woods with this album on repeat. Such longing is captured. Simple piano lines with a chilling cello lead. I feel like a lot of music in this genre tries to put layer upon layer on the track but to paraphrase Brian Eno, it takes so little sound for one to register something like music, something as simple as a ringing bell. I try to remember this as I write and Rafael is a god and making minimal pieces that are meaningful.
-<iframe src="https://www.youtube.com/embed/8KPnEYLHt5I" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
-## Sea Oleena - "Shallow" from the album "Shallow"
-Sea Oleena is a fitting project name as she brings such peace with her music... you can just sit there and absorb it as it feels like it washes over you like an ocean. I'm not sure if she is still making music, this was her last album released in 2014 and I think she has only done one or two collaborations songs since then. I really hope she does release something again, we all need the calm it brings, now more than ever.
-<iframe src="https://www.youtube.com/embed/mto84jhDyGk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<YouTube id="mto84jhDyGk" />
 
 In our interview, I talked to Sam about the current Of the Vine Album "East The
 Water" and the band's development. You can 
@@ -368,9 +353,7 @@ Water" and the band's development. You can 
 
 ## Sam's playlist on Spotify
 
-<iframe src="https://open.spotify.com/embed/playlist/3zLKlVQnK9cOdWl8eTmKIf" width="300" height="380" frameborder="0"></iframe>
-Here are Of The Vine with "An Event Of Moon Disaster"
-<iframe src="https://www.youtube.com/embed/WzsS0pBXJl8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="WzsS0pBXJl8" />
 
 </div>
 

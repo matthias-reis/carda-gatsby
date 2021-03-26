@@ -188,13 +188,13 @@ schönen Abend! Viel Spaß beim Musik hören!_
 **Hier sind für Euch NINE INCH NAILS mit CLOSER live vom Woodstock 1994. Ein
 sehr prägendes Konzert für mich:**
 
-[youtube=http://www.youtube.com/watch?v=bEdqqyxoWuA]
+ <YouTube id="bEdqqyxoWuA" />
 
 **Und hier noch ein sehr schöner Konzertausschnitt von Ihrem Konzert in
 Osaka 2007. Ich habe es erst vor Kurzem entdeckt. Kuckt es Euch unbedingt bis
 zum Ende an:**
 
-[vimeo http://www.vimeo.com/66919663 w=400&amp;h=300]
+ <Vimeo id="/66919663" />
 
 _Dieser Artikel ist für Valentin_
 

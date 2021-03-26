@@ -66,6 +66,6 @@ und Gier. Im Fernsehen. Der Knopf. Aus.
 
 ## Song des Tages: Bad Books – "You wouldn´t have to ask"
 
-<iframe src="https://www.youtube.com/embed/1-KcNBY83CI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="1-KcNBY83CI" />
 
   

@@ -88,7 +88,7 @@ Mal ihre neuen Honig-Alternativen mit fairen Zutaten in Bio-Qualität vor einem
 breiteren Publikum vor. Sie wurden bei diesem Anlass mit dem Vegan Innovation
 Award ausgezeichnet.
 
-<iframe src="https://www.youtube.com/embed/b6PMZs_0KcE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="b6PMZs_0KcE" />
 
 ## Infos:
 

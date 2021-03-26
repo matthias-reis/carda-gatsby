@@ -67,6 +67,6 @@ für Euch.
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30369009174_a48545ee4c_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30369009174_a48545ee4c_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30822969060_0f6b91a4ce_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30822969060_0f6b91a4ce_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30823143490_000af8dfcf_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30823143490_000af8dfcf_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_31190150605_143a91eef8_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_31190150605_143a91eef8_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30823080470_b3a0fdc169_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30823080470_b3a0fdc169_z__l.jpg"}]}
 />
 
-<iframe src="https://www.youtube.com/embed/A4gBzUwo6Iw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="A4gBzUwo6Iw" />
 
   

@@ -129,7 +129,7 @@ sollte, wenn uns unsere Gesundheit lieb ist.
 
 ## The Dark Side Of Sugar – "Suga Suga"
 
-<iframe src="https://www.youtube.com/embed/4sKeTqDU4Zw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="4sKeTqDU4Zw" />
 
 Quellen/sources:
 [BLZ Datenzentrum](https://www.bzl-datenzentrum.de/versorgung/versorgungsbilanz-zucker-grafik/),

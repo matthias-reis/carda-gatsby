@@ -51,7 +51,7 @@ sprechen.**
 
 **Hier sind für Euch Russian Circles mit Carpe**
 
-[youtube=http://www.youtube.com/watch?v=mzYW1pY3hFA&amp;w=420&amp;h=315]
+ <YouTube id="mzYW1pY3hFA&amp;w=420&amp;h=315" />
 
 _Für Vale_
 

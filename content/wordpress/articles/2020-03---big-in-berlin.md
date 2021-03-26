@@ -54,6 +54,6 @@ Video. Für alle, die sich bei der Überschrift gedacht haben "Das kenn ich doch
 hier ein Video. Mehr über meine Liebe zu den Sternen könnt Ihr
 [hier im Blog nachlesen](/2014/09/flucht-in-die-flucht/).
 
-<iframe src="https://www.youtube.com/embed/C55Yxsc8Mak" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="C55Yxsc8Mak" />
 
   

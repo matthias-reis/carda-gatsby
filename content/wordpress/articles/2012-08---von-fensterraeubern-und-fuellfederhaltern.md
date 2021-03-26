@@ -126,6 +126,6 @@ Englandfotos im Blog. Man darf gespannt sein.
 
 ## Song des Tages: White Rabbit - "Temporary"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLnvXE8iM7k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <YouTube id="ZLnvXE8iM7k" />
 
   

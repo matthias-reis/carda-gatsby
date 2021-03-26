@@ -53,6 +53,6 @@ fünf. Mit Sternchen.
 
 ## Hier sind für Euch [Biffy Clyro](http://www.biffyclyro.com) mit Black Chandelier:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/myc_RViTHhY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <YouTube id="myc_RViTHhY" />
 
   

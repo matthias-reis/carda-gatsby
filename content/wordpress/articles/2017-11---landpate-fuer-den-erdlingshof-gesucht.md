@@ -73,7 +73,7 @@ Wer mehr erfahren möchte oder sich soeben spontan entschieden hat, Landpate fü
 den Erdlingshof zu werden:
 [BITTE HIER ENTLANG!](https://www.erdlingshof.de/landpate-werden/)
 
-<iframe src="https://www.youtube.com/embed/epZRhRNis7c" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="epZRhRNis7c" />
 
 Das Video sowie die Grafiken stammen vom Erdlingshof. Das Titelbild habe ich in
 der Nähe der [Boberger Düne](/2016/05/naturschutzgebiet-boberger-niederung/)

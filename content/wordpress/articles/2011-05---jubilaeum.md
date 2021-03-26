@@ -54,7 +54,7 @@ Stimmung: Unternehmungslustig!
 
 ## Song des Tages: Absinthe Minded – "Envoi"
 
-<iframe src="https://www.youtube-nocookie.com/embed/4Wys9VzF-_E" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="4Wys9VzF-_E" />
 
 [Hier](www.facebook.com/cardamonchai)  geht es zur
 [Facebook-Seite](www.facebook.com/cardamonchai) von cardamonchai.com.

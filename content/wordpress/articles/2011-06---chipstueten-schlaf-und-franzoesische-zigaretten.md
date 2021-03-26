@@ -61,6 +61,6 @@ gegen das Hoftor. So sollte sich Sommer doch anfühlen, oder?
 
 ## Song des Tages: Pete And The Pirates - "Knots"
 
-[youtube=http://www.youtube.com/watch?v=CfgmPqsJQj4]
+ <YouTube id="CfgmPqsJQj4" />
 
   

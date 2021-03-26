@@ -371,6 +371,6 @@ erbeten, da die Teilnehmerzahl begrenzt ist._
 - Solawi Hamburg,
   [Anne Reis](/ein-blick-hinter-die-kulissen-von-anne-bloggt-cardamonchai/)
 
-[youtube https://www.youtube.com/watch?v=FkUsmUj-4qk]
+ <YouTube id="FkUsmUj-4qk" />
 
   

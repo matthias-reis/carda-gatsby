@@ -56,7 +56,7 @@ Einfach genießen.
 
 <Gallery name="flickr/annehundredsasummerstale2015" />
 
-<iframe src="https://www.youtube.com/embed/U_QrYmw2wjQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="U_QrYmw2wjQ" />
 
 ## A Summer's Tale 2015 Wegweiser
 

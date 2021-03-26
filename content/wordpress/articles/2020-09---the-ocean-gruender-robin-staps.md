@@ -456,7 +456,7 @@ der vorausgekoppelte fünfte Track der Platte
 
 ## The Ocean Collective - "Oligocene"
 
-<iframe src="https://www.youtube.com/embed/WQhJZz4Y_HI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="WQhJZz4Y_HI" />
 
 ### Fußnote
 
@@ -840,7 +840,7 @@ Here is a teaser for the upcoming The Ocean Album "Phanerozoic II" for you.
 
 ## The Ocean Collective - "Oligocene"
 
-<iframe src="https://www.youtube.com/embed/WQhJZz4Y_HI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="WQhJZz4Y_HI" />
 
 ### Footnote
 

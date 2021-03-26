@@ -239,6 +239,6 @@ Beste. Und Amanda für den weiteren Verlauf der Tour gutes Gelingen.
 
 ## Amanda Palmer – "In My Mind"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q9WZtxRWieM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <YouTube id="Q9WZtxRWieM" />
 
   

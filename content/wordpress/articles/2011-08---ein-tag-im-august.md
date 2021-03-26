@@ -131,6 +131,6 @@ ab.
 
 ## Song des Tages Gispert zu Knyphausen – "Sommertag"
 
-[youtube=http://www.youtube.com/watch?v=py7PhN9be9w]
+ <YouTube id="py7PhN9be9w" />
 
   

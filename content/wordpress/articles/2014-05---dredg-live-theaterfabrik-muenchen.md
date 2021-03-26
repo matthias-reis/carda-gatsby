@@ -108,6 +108,6 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_0
 
 Hier sind für Euch Dredg mit Jamais Vu
 
-[youtube http://www.youtube.com/watch?v=3qzXuq886ug]
+ <YouTube id="3qzXuq886ug" />
 
   

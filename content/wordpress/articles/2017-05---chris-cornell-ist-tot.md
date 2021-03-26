@@ -155,9 +155,9 @@ der Konzerte aufgenommen.  _Chris_ postete es am nächsten Morgen auf seiner
 
 _Chris Cornell_ hinterlässt drei Kinder.
 
-<iframe src="https://www.youtube.com/embed/3mbBbFH9fAg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="3mbBbFH9fAg" />
 
-<iframe src="https://www.youtube.com/embed/7QU1nvuxaMA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="7QU1nvuxaMA" />
 
 Titelbild: Paul Lorkowski
 

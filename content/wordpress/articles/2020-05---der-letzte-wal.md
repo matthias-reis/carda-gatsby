@@ -96,7 +96,7 @@ steht es in einem Artikel des Wissenschafts-Magazins PLoS ONE.
 
 ## Hat Island seinen letzten Wal getötet?
 
-<iframe src="https://www.youtube.com/embed/SCgHoRxAgRw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="SCgHoRxAgRw" />
 
 Quellen/sources:
 [Mongabay](https://news.mongabay.com/2020/04/iceland-wont-be-killing-any-whales-this-year/),

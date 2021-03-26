@@ -95,71 +95,7 @@ Monat wieder 10 Songs für Euch, die bei uns gerade hoch und runter laufen.
     darf. Ein Song, den wir beide diesen Monat auf unserer Liste hatten, ist
     "Solitary Reign" - auch als die Hymne aller Amenra-Anhänger bekannt.
     Veröffentlicht wurde das Stück 2017 auf dem Album "Mass VI".
-    <iframe src="https://www.youtube.com/embed/CD7bxyzFbC4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  **Tides Of Man - "Waxwing"** Es ist unglaublich spannend, wenn man die
-    musikalische Entwicklung von Tides Of Man verfolgt. Ihr Album "Every
-    Nothing" aus dem Jahr 2018 ist bisher der Höhepunkt der abwechslungsreichen
-    Reise der Post-Hardcore Band aus Florida. Ich habe "Waxwing" mit auf die
-    Liste gesetzt, weil die Melodik und der Aufbau des Stücks einfach ein Genuss
-    sind.
-    <iframe src="https://www.youtube.com/embed/loZSTxiOxZo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  **The Haxan Cloak - "Miste"** Valentin hat uns dieses Stück Musik mit
-    folgenden Worten empfohlen: "The Haxan Cloak kannte ich ursprünglich, weil
-    er wie Trent Reznor **Moog Synthesizer** verwendet und mit Atticus Ross an
-    Soundtracks gearbeitet hat. Dann hab ich das Stück in der wunderbaren
-    Stephen King Serie " **Castle Rock** " gehört. Eigentlich kann man das ganze
-    Album auf die Liste setzen. Man findet darauf ziemlich unheimliche
-    Horrorfim-Musik. Sein bürgerlicher Name ist übrigens Bobby Krlic und er
-    kommt aus Wakefield in England."
-    <iframe src="https://www.youtube.com/embed/fby7G4zJH4Q" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  **The End Of The Ocean - "Homesick"** Wer hat nicht manchmal **Heimweh** .
-    Oder sowas ähnliches. Wohin auch immer. In diesen Momenten (und auch sonst
-    so gut wie immer) sollte man dieses Stück Musik hören. Es stammt von der
-    nagelneuen, 2019 erschienenen Platte "The End Of The Ocean", die ich
-    übrigens jedem wärmstens empfehlen kann.
-    <iframe src="https://www.youtube.com/embed/V8l9TD02meA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  **Archive &amp; Band Of Sculls - "Remains Of Nothing"** Dieses Lied hat
-    Matze hinzugefügt. Wär hätte gedacht, dass Archive und Band Of Sculls mal
-    zusammen Musik machen? Uns gefällt's. Und zwar richtig gut. Bislang gibt es
-    lediglich die im Januar erschienene Single. Mal sehen, ob noch mehr aus
-    diesem Joint Venture wird.
-    <iframe src="https://www.youtube.com/embed/5rMjPK9kJks" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  **August Burns Red - "Midnight"** Haben wir uns nicht alle eine neue Platte
-    von August Burns Red gewünscht? Jetzt ist sie endlich da und sie enttäuscht
-    uns nicht! Einziger Wermutstropfen: Es ist "nur" eine EP mit fünf Songs. Wir
-    warten also weiter auf ein komplettes Album, während wir die "Phantom
-    Session" EP hören. Matze hat den ersten Opener "Midnight" auf die Liste
-    gesetzt.
-    <iframe src="https://www.youtube.com/embed/Ogcm5WG6hg8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  **Lokust - "Guiltless"** Valentins Worte zu diesem Song? "Kein Song kann
-    diesen Song des Monats plattmachen!" - das stimmt! Der knallt so richtig
-    schön doll! Spitze!
-    <iframe src="https://www.youtube.com/embed/WG2RMlUK2So" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  **Soup - "Going Somewhere"** Spätestens seit wir die Norweger letztes Jahr
-    auf dem Dunk Festival das erste Mal auf der Bühne gesehen haben, gehören sie
-    bei uns fest zum Musikschrankinventar. Matze fand, das es Zeit wäre, sie auf
-    die Monatsliste zu packen. Das Album "Remedies" ist 2017 erschienen.
-    <iframe src="https://www.youtube.com/embed/LKpNALJM404" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  **The Claypool Lennon Delirium - "Easily Charmed By Fools"** Wann immer es
-    etwas Neues aus der Ecke von Les Claypool gibt, muss ich mich darauf
-    stürzen. Und was soll ich sagen? Es kommt nicht oft vor, dass er mich
-    enttäuscht. Nach dem ersten Studio Album "Monolith Of Phobos", das er 2016
-    gemeinsam mit Sean Lennon aufgenommen hat, gab es jetzt im Februar endlich
-    das zweite. "South Of Reality" kommt in guter alter Claypool Marnier schön
-    verspult rüber und stellt damit streckenweise sogar altes Primus Material in
-    den Schatten - ohne dabei popbefreit zu klingen. Vielleicht ist diese
-    Scheibe sogar ein bisschen beatleesk. Für Einsteiger genauso wie für
-    Fortgeschrittene finde ich "Easily Charmed By Fools" besonders gut.
-    <iframe src="https://www.youtube.com/embed/9dXAzlrRxhY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  **Portishead - "The Rib"** Drei Alben haben Portishead veröffentlicht:
-    "Dummy" 1994, "Portishead" 1997 und "Third" 2008. Die 1991 in Bristol um die
-    Sängerin Beth Gibbons gegründete Combo begleitet uns seit wir sie Anfang der
-    1990er das erste Mal hörten. Valentin hat "The Rib" für unsere Liste
-    ausgesucht. Es ist gleichzeitig ein schöner Abschluss und ein nachdenklicher
-    Ausblick in die Zukunft: Welche Songs werden wohl nächsten Monat auf der
-    Liste landen? Und wird es eine Liste geben? Noch schöne wäre natürlich ein
-    neues Portishead-Album. Na mal sehen, man weiß ja schließlich nie...
-    <iframe src="https://www.youtube.com/embed/kBOaLjtR4mw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+    <YouTube id="kBOaLjtR4mw" />
 
 ## Nachklang
 
@@ -215,6 +151,6 @@ Valentins Songauswahl "Passenger" von den Deftones und Maynard James Keenan
 Stück, das perfekter nicht sein könnte - zwei Musiksensationen im harmonischen
 Zusammenspiel.
 
-<iframe src="https://open.spotify.com/embed/user/1121757456/playlist/29K4Uy7nrGY2jsUT0I7BbX" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="user/1121757456/playlist/29K4Uy7nrGY2jsUT0I7BbX" />
 
   

@@ -123,7 +123,7 @@ besten so schnell wie möglich. Dass bereits eine der widerstandsfähigsten Arte
 mit den Auswirkungen zu kämpfen hat, sollte der Menschheit wirklich zu denken
 geben.
 
-<iframe src="https://www.youtube.com/embed/mzmO3CpIzHA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="mzmO3CpIzHA" />
 
 Quelle/source:
 [ARC Centre of Excellence Coral Reef Studies](https://www.coralcoe.org.au/media-releases/future-too-warm-for-baby-sharks),

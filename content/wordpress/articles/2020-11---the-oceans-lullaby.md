@@ -149,6 +149,6 @@ Ihr das Album online bei allen bekannten Streaming-Diensten.
 
 ## "Breathe" von Six Days Of Calm
 
-<iframe src="https://www.youtube.com/embed/QppPyejN9Xg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="QppPyejN9Xg" />
 
   

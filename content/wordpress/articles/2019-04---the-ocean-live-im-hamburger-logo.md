@@ -59,6 +59,6 @@ die nächste Begegnung mit The Ocean!
 <Gallery name="the-ocean-logo-03-2019" />
 
 <h4>Hier ein Stück vom 2018 erschienenen Album "Phanerozoic I: Palaezoic"
-<iframe src="https://www.youtube.com/embed/XWwEZnRBWCM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h4>
+ <YouTube id="XWwEZnRBWCM" /> </h4>
 
   

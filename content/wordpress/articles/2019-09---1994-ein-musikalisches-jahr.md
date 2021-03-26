@@ -208,7 +208,7 @@ Punkrocker aus den USA seit vielen Jahren regelmäßig Stadien und gehören
 weltweit auf allen großen Festivals zum Inventar. Basket Case hat sich längst zu
 einer Hymne gemausert.
 
-<iframe src="https://www.youtube.com/embed/NUTGr5t3MoY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="NUTGr5t3MoY" />
 
 #### The Offspring - "Smash"
 
@@ -220,7 +220,7 @@ hätte es vermutlich auch nicht ausgewählt. Irgendwie hat ja jede Band ihr
 "Smells Like Teen Spirit" - bei Offspring heißt es "Self Esteem". Daher hier für
 Euch: "Gotta Get Away".
 
-<iframe src="https://www.youtube.com/embed/xrBAYD4kmPo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="xrBAYD4kmPo" />
 
 #### Alice In Chains - "Jar Of Flies"
 
@@ -230,7 +230,7 @@ erreichte. Für AIC war es der erste Nummer Eins Song. Zur Zeit der
 Albumveröffentlichung verbreiteten sich die ersten Gerüchte über Layne Staleys
 Heroinsucht, der er 2002 erlag.
 
-<iframe src="https://www.youtube.com/embed/9EKi2E9dVY8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="9EKi2E9dVY8" />
 
 ### Februar
 
@@ -242,7 +242,7 @@ Seit "Troublegum" ist der Bandname mit dem Fragezeichen weltweit bekannt. Für
 Euch habe ich "Nowhere" in die Liste gepackt. Ich finde, dass es nach wie vor
 Ohrwurmcharakter hat.
 
-<iframe src="https://www.youtube.com/embed/5Bcpj-q0Snc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="5Bcpj-q0Snc" />
 
 #### Meatpuppets - "To High To Die"
 
@@ -252,7 +252,7 @@ es in meine Liste aufgenommen. Die Band aus Phoenix, Arizona existiert bereits
 seit 1980 und hat sich 1999 und 2006 nach zweimaliger Auflösung neu gegründet -
 eine musikalische On-Off-Beziehung mit Höhen und Tiefen.
 
-<iframe src="https://www.youtube.com/embed/T3nsruG5z_4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="T3nsruG5z_4" />
 
 ### März
 
@@ -263,7 +263,7 @@ sich zwei Jahre vor Veröffentlichung des gleichnamigen Albums in Los Angeles.
 Die College Rocker haben inwischen zahlreiche Platten veröffentlich und erfreuen
 sich nach wie vor großer Beliebtheit.
 
-<iframe src="https://www.youtube.com/embed/kemivUKb4f4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="kemivUKb4f4" />
 
 #### Aphex Twin - "Selected Ambient Works, Vol. 2"
 
@@ -275,7 +275,7 @@ hat. Freunde hat er nicht nur in der Digitalmusikszene. Mit "Selected Ambient
 Works, Vol. 2" erschien 1994 sein zweites vollständiges Album. Ich habe "#3"
 ausgewählt, weil es so schön nach Twin Peaks klingt.
 
-<iframe src="https://www.youtube.com/embed/WW4Ea7ZW1c4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="WW4Ea7ZW1c4" />
 
 #### Soundgarden - "Superunknown"
 
@@ -283,7 +283,7 @@ Wer kann sich nicht an den Moment erinnern, in dem zum ersten Mal die gegrillte
 Barbie aus dem "Black Hole Sun" Video über den Bildschirm schwirrte. Diese
 Platte hat zahlreiche Bands nachhaltig geprägt und prägt sie noch.
 
-<iframe src="https://www.youtube.com/embed/3mbBbFH9fAg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="3mbBbFH9fAg" />
 
 #### Nine Inch Nails - "The Downward Spiral"
 
@@ -294,7 +294,7 @@ der Platte, die auch als "Halo 8" bekannt ist, handelt es sich um die achte
 Veröffentlichung der Band um Trent Reznor. Das Konzeptalbum handelt von einem
 Menschen mit Depressionen und Selbstmordgedanken.
 
-<iframe src="https://www.youtube.com/embed/PTFwQP86BRs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="PTFwQP86BRs" />
 
 #### Pink Floyd - "The Division Bell"
 
@@ -307,7 +307,7 @@ Fall erwähnt werden. Übrigens ist es im Gegensatz zu anderen Pink Floyd Platte
 kein Konzeptalbum. Die Aufnahmen fanden unter anderem in den Abbey Road Studios
 statt.
 
-<iframe src="https://www.youtube.com/embed/7jMlFXouPk8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="7jMlFXouPk8" />
 
 ### April
 
@@ -322,7 +322,7 @@ In" war für mich der Einstieg in Nick Caves Musik. Auch heute höre ich es nach
 wie vor gerne. "Red Right Hand" könnte mein Lieblingssong auf der Platte sein -
 wenn die anderen nicht genauso gut wären.
 
-<iframe src="https://www.youtube.com/embed/RrxePKps87k" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="RrxePKps87k" />
 
 #### Johnny Cash - "American Recordings"
 
@@ -330,7 +330,7 @@ Nachdem Rick Rubin keinen Bock mehr auf überproduzierte Country-Musik hatte,
 nahm er mit Johnny Cash "American Recordings" auf. Es ist auf seinem
 gleichnamigen Label erschienen. "The Beast In Me" hat es mir besonders angetan.
 
-<iframe src="https://www.youtube.com/embed/W-QNc-UFuvg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="W-QNc-UFuvg" />
 
 #### Blur - "Parklife"
 
@@ -344,14 +344,14 @@ Brit-Popper. 2004 kam es zu einer Auflösung, 2008 fanden sich Blur jedoch wiede
 zusammen. "Parklife" war nach "Leisure" und "Modern Life Is Rubbish" bereits das
 dritte Album.
 
-<iframe src="https://www.youtube.com/embed/YSuHrTfcikU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="YSuHrTfcikU" />
 
 #### Warren G - "Regulate..."
 
 "Regulate" ist eindeutig noch so ein Song des Sommers 1994 - es gab einfach
 niemanden, der ihn damals nicht vor sich hin summte. Ganz großes Storytelling.
 
-<iframe src="https://www.youtube.com/embed/1plPyJdXKIY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="1plPyJdXKIY" />
 
 ### Mai
 
@@ -365,7 +365,7 @@ allerdings keinen großen Erfolg brachten. 1994 hielten sie sich dann
 mit "Dubnobasswithmyheadman" in den UK acht Wochen auf Platz 12. Ich habe das
 Album hier mit dabei, weil es den Beginn meiner neuen Ära mit eingeläutet hat.
 
-<iframe src="https://www.youtube.com/embed/feWNvGpWHLM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="feWNvGpWHLM" />
 
 ### Juni
 
@@ -378,7 +378,7 @@ seiner Band "Scott Weiland &amp; The Wildabouts".  2018 veröffentlichten die
 Stone Temple Pilots mit seinem Nachfolger Jeff Gutt ihr bisher siebtes
 Studioalbum.
 
-<iframe src="https://www.youtube.com/embed/yjJL9DGU7Gg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="yjJL9DGU7Gg" />
 
 ####  Spin Doctors - "Turn It Upside Down"
 
@@ -391,7 +391,7 @@ hielten sie sich mit der Single "Have You Ever Seen The Rain" neun Wochen in den
 deutschen Charts, "Bags Of Dirt" gefällt mir aber (vom Album "Turn It Upside
 Down") insgesamt besser.
 
-<iframe src="https://www.youtube.com/embed/yA71FIZmebc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="yA71FIZmebc" />
 
 #### Kyuss - "Sky Valley"
 
@@ -404,7 +404,7 @@ den Gründungsmitgliedern zählt) und seinen Freunden in der Palm Desert Wüste
 veranstalteten Generator Parties sprach sich ihr Können schnell herum. Nach der
 Auflösung gründeten Teile von Kyuss gemeinsam Queens Of The Stone Age.
 
-<iframe src="https://www.youtube.com/embed/_o8Qqfu1pwQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="_o8Qqfu1pwQ" />
 
 #### House Of Pain - "Same As It Ever Was"
 
@@ -412,7 +412,7 @@ Das zweite Studioalbum der Band um Sänger Everlast. Eine Platte, die zu 1994
 unbedingt gehört werden musste. Das ist auch heute noch der Fall - sie sollte
 wirklich in keinem Regal fehlen.
 
-<iframe src="https://www.youtube.com/embed/tOZ5lUXuci4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="tOZ5lUXuci4" />
 
 #### Outcast - "Sou­thern­play­a­lis­ti­cadil­lac­muz­ik"
 
@@ -421,7 +421,7 @@ ausgefallenen Bühnenauftritte und Videos reißen seit 1994 weltweit Musikfans
 mit. "Sou­thern­play­a­lis­ti­cadil­lac­muz­ik" ist ein Meilenstein - nicht nur
 in der Geschichte des Hip-Hop.
 
-<iframe src="https://www.youtube.com/embed/eIUzq7X020A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="eIUzq7X020A" />
 
 ### Juli
 
@@ -436,7 +436,7 @@ alles durcheinander und das ist auch gut so. Seit dem Tod von Frontman
 [Keith Flint](/2019/03/10-songs-fuer-den-april/) am 4. März 2019 ist es ruhig um
 die energiegeladene Band geworden. RIP Keith. Wir vermissen Dich.
 
-<iframe src="https://www.youtube.com/embed/YV78vobCyIo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="YV78vobCyIo" />
 
 #### NOFX - "Punk In Drublic"
 
@@ -444,7 +444,7 @@ Punkrock, der aufs Ohr haut - den liefern NOFX seit 1988 ab. Mit "The Brews" vom
 Album "Punk In Drublic" zog mich die aus der Bostoner Hardcore-Szene stammende
 Band das erste Mal in ihren Bann.
 
-<iframe src="https://www.youtube.com/embed/KdqEbdglqhI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="KdqEbdglqhI" />
 
 ### August
 
@@ -454,7 +454,7 @@ Noch eine Punkband, von der ich um 1994 das erste Mal gehört habe. Noch heute
 ist "Raum der Zeit" vom Album "Uuaarrgh!" ein Song, den ich ab und zu einfach
 hören _muss_ .
 
-<iframe src="https://www.youtube.com/embed/MElLCXO7NbY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="MElLCXO7NbY" />
 
 #### Motorpsycho - "Timothy's Monster"
 
@@ -465,7 +465,7 @@ bisher 22 Alben. Vor Kurzem ist mit "The Crucible" Nummer 22 erschienen. "Feel"
 zeigt für mich sehr schön die Ursprünge der Band aus Trondheim, die ihren
 Ursprung in der Alternative Metal Szene hat.
 
-<iframe src="https://www.youtube.com/embed/MEH5OFGbnYk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="MEH5OFGbnYk" />
 
 #### Machine Head - "Burn My Eyes"
 
@@ -474,7 +474,7 @@ Band, die man vermutlich dem Nu-Metal zuordnen kann. Der Name wurde übrigens
 _nicht_ vom Deep Purple Album "Machine Head" ausgeliehen. Noch heute ist die
 Band aus Oakland (Gründung 1991) erfolgreich damit unterwegs.
 
-<iframe src="https://www.youtube.com/embed/xv8AbapV5nA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="xv8AbapV5nA" />
 
 #### Melvins - "Prick"
 
@@ -483,7 +483,7 @@ Band wie ein musikalischer Vulkan ein Album nach dem anderen aus (Dazu später
 mehr). "Prick" ist ein besonders gutes. Stilistisch bewegt sie sich zwischen
 Grunge, Stoner Rock, Noise Rock und Sludge.
 
-<iframe src="https://www.youtube.com/embed/A6mIfoDZr7A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="A6mIfoDZr7A" />
 
 #### Stereolab - "Mars Audiac Quintet"
 
@@ -491,7 +491,7 @@ Stereolab ist vermutlich eine der ersten Post-Rock Bands, die ich bewusst gehör
 habe. Das dritte Album "Mars Audiac Quintet" passte für mich in den 90ern nur
 einfach noch nicht in irgendeine Schublade. Ich mag es noch heute sehr gerne.
 
-<iframe src="https://www.youtube.com/embed/tsumMcjEPtQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="tsumMcjEPtQ" />
 
 #### Die Goldenen Zitronen - "Das bisschen Totschlag"
 
@@ -501,7 +501,7 @@ Goldenen Zitronen sollen unter anderem
 man mehr? Vor kurzem waren sie ja wieder mal auf Tour und ich frage mich, wie
 ich das verpassen konnte.
 
-<iframe src="https://www.youtube.com/embed/01Hxq-PFOlc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="01Hxq-PFOlc" />
 
 #### Beastie Boys - "Ill Communication"
 
@@ -512,7 +512,7 @@ unserer Schulzeit. Der Tod von Gründungsmitglied Adam Yauch und die
 anschließende Auflösung der Beastie Boys 2012 waren ein großer Verlust für die
 Musikszene.
 
-<iframe src="https://www.youtube.com/embed/z5rRZdiu1UE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="z5rRZdiu1UE" />
 
 #### Mother Tongue - "Mother Tongue"
 
@@ -521,7 +521,7 @@ die Musik der 70er Jahre zurückzuholen. "Mother Tongue" war das erste Album der
 gleichnamigen Combo, zu deren Fans sich unter anderem Trent Reznor und Ian
 Astbury zählen.
 
-<iframe src="https://www.youtube.com/embed/7Gpbq4tkEwE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="7Gpbq4tkEwE" />
 
 #### Portishead - "Dummy"
 
@@ -533,7 +533,7 @@ Keyboarder und Schlagzeuger Geoff Barrow, auf dessen Label Invada Records unter
 anderem Crippled Black Phoenix und Gonga ihre Musik veröffentlichen. Um
 Portishead ist es im Moment ruhig.
 
-<iframe src="https://www.youtube.com/embed/Vg1jyL3cr60" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="Vg1jyL3cr60" />
 
 ### September
 
@@ -544,7 +544,7 @@ oder? Ihr legendäres achtes Album "Stranger Than Fiction" erblickte 1994 das
 Licht der Welt. Inzwischen sind neun weitere erschienen. Zuletzt 2019 "Age Of
 Unreason".
 
-<iframe src="https://www.youtube.com/embed/mPxOxTb--l0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="mPxOxTb--l0" />
 
 #### Sinhead O'Connor - "Universal Mother"
 
@@ -554,7 +554,7 @@ erschienenen Album "Universal Mother" ihre Version von "All Apologies".
 1990 ihren Durchbruch mit dem Song "Nothing Compares 2 U" hatte und heute unter
 dem Namen Magda Sadaqat lebt und zum Islam konvertiert ist.
 
-<iframe src="https://www.youtube.com/embed/SEVu1tcUGnc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="SEVu1tcUGnc" />
 
 #### R.E.M. - "Monster"
 
@@ -563,7 +563,7 @@ auf dem R.E.M. Album "Monster" erschienen ist, ist es hier selbstverständlich
 auch mit von der Partie. Die Band um Sänger Michael Stipe hat sich 2011 nach 31
 Jahren Bandgeschichte aufgelöst.
 
-<iframe src="https://www.youtube.com/embed/4cdZQ41rGAg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="4cdZQ41rGAg" />
 
 #### Massive Attack - "Protection"
 
@@ -571,7 +571,7 @@ Nochmal Trip-Hop aus Bristol. Ohne Massive Attack hatte es Trip-Hop vielleicht
 nie gegeben - die Musik einer Generation. Genau wie Tricky ist die Band um
 Robert "3D" Del Naja aus dem Kollektiv The Wild Bunch hervorgegangen.
 
-<iframe src="https://www.youtube.com/embed/Epgo8ixX6Wo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="Epgo8ixX6Wo" />
 
 #### The Notorious B.I.G. - "Ready To Die"
 
@@ -580,7 +580,7 @@ was man möchte: Man kommt um seine Musik auf keinen Fall herum. Seine
 Verkaufszahlen sind noch heute rekordverdächtig. Seine Musik hat den heutigen
 Hip-Hop nachhaltig geprägt.
 
-<iframe src="https://www.youtube.com/embed/_lb0HImG_MU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="_lb0HImG_MU" />
 
 ### Oktober
 
@@ -594,7 +594,7 @@ gesehen und die Geschichte dazu gehört haben. Uns wird Dolores für immer im
 Gedächtnis bleiben. Mit Ihren Texten und ihrer wunderbaren Stimme hat sie viele
 Menschen bewegt.
 
-<iframe src="https://www.youtube.com/embed/Zz-DJr1Qs54" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="Zz-DJr1Qs54" />
 
 #### The Smashing Pumpkins - "Pisces Iscariot"
 
@@ -604,7 +604,7 @@ Musik für diese Zeit und zu prägend für diese (und weitere) Phase(n) meines
 Lebens. Könnt Ihr Euch an "Landslide" noch erinnern? Wenn nicht, hört es
 trotzdem mal wieder.
 
-<iframe src="https://www.youtube.com/embed/4U4opbXoMss" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="4U4opbXoMss" />
 
 #### Ash - "Trailer"
 
@@ -614,7 +614,7 @@ Ash ist das mit dem ersten Album "Trailer", das 1994 erschien und dem Nachfolger
 genau den damaligen Zeitgeist. "Petrol" zeigt, denke ich sehr gut, was ich damit
 meine.
 
-<iframe src="https://www.youtube.com/embed/LXRpSHK6F7E" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="LXRpSHK6F7E" />
 
 #### Melvins - "Stoner Witch"
 
@@ -623,7 +623,7 @@ veröffentlichen? Insgesamt ist man das von der Combo um King Buzzo ja durchaus
 gewohnt. Das Video von "Revolve" finde ich großartig - schaut mal, wie jung er
 damals noch war!
 
-<iframe src="https://www.youtube.com/embed/Py2fG-NgfkA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="Py2fG-NgfkA" />
 
 ### November
 
@@ -641,7 +641,7 @@ wichtigsten Alben überhaupt. Nicht nur, weil ich damit von Kurt Cobain Abschied
 nehmen konnte, sondern auch, weil es mich dazu brachte, mich mit vielen weiteren
 Bands zu beschäftigen und tiefer in die Geschichte von Nirvana einzutauchen.
 
-<iframe src="https://www.youtube.com/embed/ZDY1bl9EWxo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="ZDY1bl9EWxo" />
 
 #### Meshuggah - "None"
 
@@ -649,7 +649,7 @@ Was Hartes aus Schweden gefällig? Meshuggah aus Umeå veröffentlichten 1994 ih
 EP "None". Die Band hat mit ihrer virtuosen Art Heavy Metal in eine neue
 Richtung getrieben und verdient hier definitiv eine Erwähnung.
 
-<iframe src="https://www.youtube.com/embed/GAPn8Jz6qL8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="GAPn8Jz6qL8" />
 
 #### Method Man - "Tical"
 
@@ -657,7 +657,7 @@ Kennt Ihr noch Method Man? Sein Debut-Album "Tical" sorgte 1994 ganz schön für
 Furore. Der Wu-Tang-Clan Rapper arbeitet auch als Schauspieler und hat schon in
 zahlreichen Filmen und Serien mitgewirkt.
 
-<iframe src="https://www.youtube.com/embed/T0BlXy3Roj4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="T0BlXy3Roj4" />
 
 ### Dezember
 
@@ -670,7 +670,7 @@ heute nur noch die Frage: Wie sich die Musik wohl weiterentwickelt hätte, wäre
 ihr Output größer gewesen? "Don’t be sad it’s over, be happy that it happened"
 sagte Ian Brown beim Abschiedskonzert im Glasgower Hampden Park.
 
-<iframe src="https://www.youtube.com/embed/0uNLw3pXlVM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="0uNLw3pXlVM" />
 
 #### Bush - "Sixteen Stone"
 
@@ -680,7 +680,7 @@ ist den Musikern um Gavin Rossdale leider bis jetzt nicht gelungen. Vielleicht
 war 1994 aber auch einfach die Zeit, in die Bush am besten gepasst hat. Obwohl:
 Machinehead begeistert mich auf jeden Fall auch heute noch.
 
-<iframe src="https://www.youtube.com/embed/5WPbqYoz9HA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="5WPbqYoz9HA" />
 
 #### Pearl Jam - "Vitalogy"
 
@@ -691,7 +691,7 @@ mit jedem Konzert und jeder Aufnahme erneut. Eddie Vedder ist definitiv einer
 der besten Sänger der Welt - wäre das hier eine "Hitliste des Jahres 1994" würde
 Pearl Jam an erster Stelle stehen.
 
-<iframe src="https://www.youtube.com/embed/hbpUfWz-rlc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="hbpUfWz-rlc" />
 
 #### Porcupine Tree - "Staircase Infinities"
 
@@ -700,13 +700,13 @@ Vitalität der Zeit, um die es geht, sehr gut zeigt. Perfektionist Steven Wilson
 gründete Porcupine Tree bereits 1987. 2010 verkündete er die Auflösung. Seitdem
 ist er solo unterwegs. Manchmal wünsche ich mir die gute alte Zeit zurück.
 
-<iframe src="https://www.youtube.com/embed/4T5iB612h7M" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="4T5iB612h7M" />
 
 ## Playlists
 
 ### Spotify
 
-<iframe src="https://open.spotify.com/embed/playlist/0gOIpcmsHBDTXppsDqTrH9" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="playlist/0gOIpcmsHBDTXppsDqTrH9" />
 
 ### iTunes
 

@@ -87,6 +87,6 @@ Leute, die leider nicht dabei sein konnten! &lt;3
 Hier sind für Euch Boysetsfire mit "Cutting Room Floor" live, in Farbe und ohne
 Strom
 
-<iframe src="https://www.youtube.com/embed/JhI2Hh6L7n8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="JhI2Hh6L7n8" />
 
   

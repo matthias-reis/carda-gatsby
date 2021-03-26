@@ -67,7 +67,7 @@ Hier geht's zu [_Teil 5/9_](/2012/07/schnappschuss/)  der Galerie "England 2012
 
 ## Song zu den Fotos: Pearl Jam - Yellow Ledbetter
 
-[youtube=http://www.youtube.com/watch?v=THgFV_kdhH4]
+ <YouTube id="THgFV_kdhH4" />
 
 Unsealed, on a porch a letter sat Then you said, "I wanna leave it again" Once I
 saw her on a beach of weathered sand And on the sand I wanna leave her again

@@ -138,7 +138,7 @@ CALEXICO veröffentlichen im September ihr neues Album "Algiers", die erste
 Auskopplung: "Para". Für alle, die es wie ich nicht mehr erwarten können: Das
 Album kann bereits vorbestellt werden.
 
-[youtube=http://www.youtube.com/watch?feature=player_embedded&amp;v=qM_Euc5saPI]
+ <YouTube id="qM_Euc5saPI" />
 
 Hier geht's zu den
 [Tourdaten](http://casadecalexico.com/calexico-algiers-sep-10-2012/).

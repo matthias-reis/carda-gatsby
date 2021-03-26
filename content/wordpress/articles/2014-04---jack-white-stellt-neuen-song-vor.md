@@ -125,6 +125,6 @@ gespannt sein, wie es weitergeht und welche Stufe der Rakete Herr White als
 nächstes zünden wird.
 [_Weiterlesen! Hier geht's zur dritten Stufe der Rakete!_](//2014/04/22/sondermeldung-schnellste-platte-der-welt-veroffentlicht/)
 
-[youtube http://www.youtube.com/watch?v=sRbnAxrS3EM]
+ <YouTube id="sRbnAxrS3EM" />
 
   

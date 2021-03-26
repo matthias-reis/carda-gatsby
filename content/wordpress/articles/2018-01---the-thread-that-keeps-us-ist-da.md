@@ -170,7 +170,7 @@ das sei mir ja wohl gegönnt.
 Die aktuelle Single "Under The Wheels gibt es übrigens auch schon als Video. Ich
 teile sie hier mit Euch.
 
-<iframe src="https://www.youtube.com/embed/M21ALoLPbH4" width="701" height="374" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="M21ALoLPbH4" />
 
 ## Calexico Wegweiser
 

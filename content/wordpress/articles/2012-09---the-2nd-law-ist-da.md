@@ -181,7 +181,7 @@ Hören.
 
 ## Hier sind für Euch nochmal Muse mit "Madness":
 
-[youtube=http://www.youtube.com/watch?v=82qSTzrAJoM]
+ <YouTube id="82qSTzrAJoM" />
 
 _M-m-m-m-m-mad-mad-mad_ _M-m-m-m-m-mad-mad-mad_ _M-m-m-m-m-mad-mad-mad_
 _M-m-m-m-m-mad-mad-mad_

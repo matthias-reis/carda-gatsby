@@ -482,7 +482,7 @@ möglich ist!
 
 ## "C'est ça" von Fly Pan Am auf Spotify hören
 
-<iframe src="https://open.spotify.com/embed/album/5OA5TxrmSg2EOlNFYLvpJ1" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="album/5OA5TxrmSg2EOlNFYLvpJ1" />
 
 ## "C'est ça" von Fly Pan Am auf iTunes hören
 
@@ -881,7 +881,7 @@ year if it's possible.
 
 ## Listen to "C'est ça" on Spotify
 
-<iframe src="https://open.spotify.com/embed/album/5OA5TxrmSg2EOlNFYLvpJ1" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="album/5OA5TxrmSg2EOlNFYLvpJ1" />
 
 ## Listen to "C'est ça" on iTunes
 

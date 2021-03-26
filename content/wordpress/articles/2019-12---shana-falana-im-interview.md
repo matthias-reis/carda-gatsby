@@ -285,7 +285,7 @@ meine Gedanken zu teilen. Es ist mir eine große Ehre!
 
 ## Shana Falana - "Darkest Light"
 
-<iframe src="https://www.youtube.com/embed/ZVUpZQqN-bI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="ZVUpZQqN-bI" />
 
 Hat Euch das Interview gefallen? Das freut mich sehr!
 [Meldet Euch gerne](mailto:info@cardamonchai.com), wenn Ihr auch ein

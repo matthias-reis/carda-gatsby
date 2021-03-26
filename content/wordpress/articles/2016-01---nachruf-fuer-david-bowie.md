@@ -94,6 +94,6 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_0
 
 ## Hier ist für Euch David Bowie mit Ziggy Stardust
 
-<iframe src="https://www.youtube.com/embed/XXq5VvYAI1Q" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="XXq5VvYAI1Q" />
 
   

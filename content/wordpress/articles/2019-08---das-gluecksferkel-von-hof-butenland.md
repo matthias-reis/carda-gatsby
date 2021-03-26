@@ -112,7 +112,7 @@ sie ihr Leben sorgenfrei genießen.
 
 ## Das ist Frederik
 
-<iframe src="https://www.youtube.com/embed/XkUW7GTBeK4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="XkUW7GTBeK4" />
 
 ## Pressematerial / Quelle:
 

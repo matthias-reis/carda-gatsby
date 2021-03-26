@@ -137,7 +137,7 @@ es erst mal was auf die Ohren. Vorhang auf für
 
 ## End Of The World With You
 
-<iframe src="https://www.youtube.com/embed/TU1lFU__2fI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="TU1lFU__2fI" />
 
 <blockquote>
 

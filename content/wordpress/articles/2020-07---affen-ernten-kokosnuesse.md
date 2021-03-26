@@ -105,7 +105,7 @@ Jahren Affen bei der Ernte einsetzt. Der Grund dafür ist, dass sie flinker sind
 und effizienter vorgehen, als Menschen. Diese schaffen nur etwa 80 Kokosnüsse
 pro Tag zu ernten.
 
-<iframe src="https://www.youtube.com/embed/4BZOnTMrRms" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="4BZOnTMrRms" />
 
 ## Traurige Affen auf den Kokos-Farmen in Thailand
 

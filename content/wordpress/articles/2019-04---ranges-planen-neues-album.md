@@ -49,7 +49,7 @@ Wir dürfen sehr gespannt sein. Bis es soweit ist, packe ich mir die
 Platte auf die Ohren und freue mich über die tolle Musik. Vielen Dank A Thousand
 Arms Records für diese erfreuliche Pressemitteilung am Morgen!
 
-<iframe src="https://www.youtube.com/embed/A8pYkj-Yprs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="A8pYkj-Yprs" />
 
 Ranges - das sind C. J. Blessum und Joey Caldwell an den Gitarren, Jared Gabriel
 am Bass und Mark Levy am Schlagzeug. Gegründet hat sich die Combo 2013 in
@@ -81,7 +81,7 @@ Doppel-LP "[The Ascensionist](https://www.rangesmusic.com/the-ascensionist)" .
 
 ## Videoankündigung zum neuen Ranges Album "Babel"
 
-<iframe src="https://www.youtube.com/embed/0zC6784zzrU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="0zC6784zzrU" />
 
 Für das Titelbild über diesem Artikel habe ich mich bewusst entschieden. Auch
 wenn ich es nicht in Montana, sondern in Irland aufgenommen habe, passt es,

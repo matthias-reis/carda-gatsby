@@ -235,6 +235,6 @@ Hier ist für Euch Tobis Song "The Wind Cries Mary" von Jimi Hendrix. Ihr könnt
 den sympathischen Fotografen jederzeit
 [auf seiner Homepage besuchen](https://tobiashess-photography.com/).
 
-<iframe src="https://www.youtube.com/embed/ATDEtzAcTg0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="ATDEtzAcTg0" />
 
   

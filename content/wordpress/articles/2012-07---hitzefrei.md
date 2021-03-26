@@ -77,6 +77,6 @@ im Supermarkt an der Kasse liegen.
 
 ## Song des Tages: Incubus - A Crow Left Of The Murder
 
-[youtube=http://www.youtube.com/watch?v=t-UuZV-HKyw]
+ <YouTube id="t-UuZV-HKyw" />
 
   

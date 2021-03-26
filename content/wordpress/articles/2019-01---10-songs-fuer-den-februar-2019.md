@@ -26,7 +26,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Unterminated JSX contents (55:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (39:16)"
 thumbnailId: "23276"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Top-10-Winter-Destinations__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Top-10-Winter-Destinations__l.jpg
@@ -35,7 +35,7 @@ subTitle: Präsentiert von den drei von der Bande
   
 ---
 
-## unknown: Unterminated JSX contents (55:16)
+## unknown: Unterminated JSX contents (39:16)
 
 <!--
 **Die drei von der Bande präsentieren Euch heute die 10 Songs für den
@@ -70,23 +70,7 @@ loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAKCAYAAADVTVykA
 
 <ol>
     <li> __Mono - "Nowhere, Now Here"__ Das neue Mono-Album ist das musikalische Werk, auf das wir alle sehnsüchtig gewartet haben. "Nowhere, Now Here" ist eines von vielen nachdenklichen, kreativen und hochmusikalischen Stücken, die uns auf der gleichnamigen LP beschert wurden. Ein Juwel.
-<iframe src="https://www.youtube.com/embed/L3Plq_c77r0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li> __Brass Against - "The Pot" (Tool Cover)__ 
-Dieses Tool Cover wurde mir vom Schallplattenhändler meines Vertrauens Martin ans Herz gelegt - und das will wirklich was heißen! Durch meine Qualitätskontrolle ist es auch durch - Ihr könnt es also auf jeden Fall hören!
-<iframe src="https://www.youtube.com/embed/8zfYO9sZjrE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li> __Brutus - "War"__ Schaut Euch dieses Video an, dann werdes Ihr überzeugt sein: Hochleistungsport an den Drums und der Stimme liefert Sängerin Stefanie da ab. Die Band stammt übrigens aus Brüssel. Empfohlen hat sie Valentin.
-<iframe src="https://www.youtube.com/embed/EBRYSlKDlws" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li> __Audioslave - "Show Me How To Live"__ Ein Klassiker, der bei Valentin diesen Monat mal wieder rundlief - sollte man einfach viel häufiger hören. Besonders schön werden die Emotionen in diesem Stück Film transportiert, in dem Dave Grohl mit auf die Bühne geholt wird. Danke für den Link zu diesem genialen Video, Valentin - das ist wirklich legendär!
-<iframe src="https://www.youtube.com/embed/tWNnLOaVupk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li> __John Garcia - "Space Vato"__ 
-Kyuss Sänger John hat mal wieder eine kleine musikalische Perle hervorgebracht. Das neue Album "John Garcia And The Band Of Gold" ist die Muschel drumherum.
-<iframe src="https://www.youtube.com/embed/KX0f2_zQS8o" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li> __Staind - "Outside"__ 
-Was haben wir diesen Song hoch und runtergehört, mitgesungen, dazu geweint, getanzt,  geschrieben und nachgedacht. Jetzt ist er wieder hier. Valentin hat ihn - zu Recht - aus der Versenkung geholt.
-<iframe src="https://www.youtube.com/embed/mVQpfoqsY8Q" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li> __La Dispute - "FULTON STREET I"__ 
-In Kürze werden La Dispute ihr langersehntes neues Album "Panorama" veröffentlichen. Matze hat die Vorauskopplung "Fulton Street" zu unserer Liste hinzugefügt und jetzt wollen wir alle drei nicht mehr warten, bis wir endlich alle Songs hören können.
-<iframe src="https://www.youtube.com/embed/bhgqj1SP750" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
+ <YouTube id="bhgqj1SP750" /> </li>
     <li> __Trent Reznor &amp; Atticus Ross - "Undercurrents"__ 
 Ich muss zugeben dieses " __Birdbox__ " auf Netflix macht mir ein bisschen Angst. Ich fürchte, es könnte zu gruselig werden. Allerdings komme ich wohl nicht darum herum: Niemand geringeres als NIN-Dreamteam Reznor und Ross haben den Soundtrack dazu beigetragen und der ist ziemlich gut. Genau wie so ziemlich alles an Filmmaterial, was die beiden bis jetzt mit ihrer Musik ausgeschmückt haben. Erst letzens hat mich " __Gone Girl__ " bis ins Mark begeistert. Ich bin also gespannt und hole mir schon mal ein Kissen "für vor die Augen". Hier gibt es leider nur einen Screenshot, das Abspielen des Videos wurde unterbunden. Anhören könnt Ihr das Stück dann weiter unten - versprochen!
 
@@ -96,7 +80,7 @@ Ich muss zugeben dieses " __Birdbox__ " auf Netflix macht mir ein bisschen Angst
 
 ## Spotify-Hörer werden hier glücklich
 
-<iframe src="https://open.spotify.com/embed/user/1121757456/playlist/7CmB7tQhXfOuhJrvTDZt05" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="user/1121757456/playlist/7CmB7tQhXfOuhJrvTDZt05" />
 
 -->
 

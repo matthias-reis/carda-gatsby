@@ -57,7 +57,7 @@ Das Video wurde von Simon von der Gathen aufgenommen.
 
 <div class="text_exposed_show">
 
-<iframe src="https://www.youtube.com/embed/sFAf3ugFeGI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="sFAf3ugFeGI" />
 
 "Stummfilm - Live from Hamburg (A Seats &amp; Sounds Show) gibt es als Limited
 Edition Blue-Ray plus zwei CDs, als Gatefold  LP Vinyl Set sowie in Form eines

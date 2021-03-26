@@ -94,76 +94,10 @@ geschafft. Was nicht bedeutet, dass es nicht genial ist.
     vielen Jahren beim Southside Festival in Neuhausen ob Eck begegnet ist. Hand
     Shakes und Crowdsurfen in der Frontrow bei 45 Grad Celsius und pumpende
     Bässen bis zum Horizont. Schade, dass Du gegangen bist, Keith. Wir vermissen
-    Dich.
-    <iframe src="https://www.youtube.com/embed/rmHDhAohJlQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  **Crippled Black Phoenix** haben ihr Album "Great Escape" zwar bereits
-    letztes Jahr veröffentlicht, **"Nebulas"** hat es dennoch diesen Monat auf
-    meine Liste geschafft. Das hängt zum einen mit dem genialen CBP Konzert
-    zusammen, das ich am 24. März im Hamburger Knust erleben durfte. Zum anderen
-    damit, dass mir das Lied und seine Message einfach nicht mehr aus dem Kopf
-    will. Gewalt gegen Tiere wird darin klar verurteilt. Sängerin Belinda
-    entschuldigt sich in ihrem Text für alle Grausamkeiten, die Menschen an
-    Tieren begehen.
-    <iframe src="https://www.youtube.com/embed/rgJMe1_Sdw8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  Für Matze steht **Emma Ruth Rundles "Control"** vom Album "On Dark Horses"
-    diesen Monat an oberster Stelle. Eigentlich sollte die Red Sparowes
-    Gitarristin letzten Monat bereits in der Top 10 landen - ich hatte es nur
-    leider verschlafen. Darum hier für Euch die tolle Emma Ruth mit ihrem
-    musikalischen Wunderwerk.
-    <iframe src="https://www.youtube.com/embed/QC25vL7dyD0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  **Agnes Obel** hatte es Valentin im März besonders angetan. **"On Powered
-    Ground"** stammt von ihrem ersten Album "Philharmonics". Vor Kurzem lief ein
-    Konzert der Dänin bei Arte - ein musikalischer Hochgenuss.
-    <iframe src="https://www.youtube.com/embed/gz8tE1HlOok" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  Matze hat **"Sibirien"** vom ebenso benahmten Album **Ştiu Nu Ştiu** Album
-    auf den zweiten Platz seiner persönlichen Liste gepackt. Die Stockholmer
-    Band ist eine seiner Neuentdeckungen, über die er sich im Moment ganz
-    besonders freut.
-    <iframe src="https://www.youtube.com/embed/C9EMUL6YEsE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  Ein Fan hat unter dieses Video von Alter Bridge (früher Creed) Gitarrist
-    Mark Tremontis Soloprojekt **Tremonti** folgenden Satz hinterlassen: "I hate
-    Mark Tremonti. He has more talent in his pinky finger than I could achieve
-    in a lifetime. On top of that he's a humble and nice person." Übersetzt
-    bedeutet das soviel wie "Ich hasse Mark Tremonti. Er hat mehr Talent in
-    seinem kleinen Finger, als ich in meinem ganzen Leben ansammeln könnte. Und
-    obendrein ist er auch noch ein netter Kerl!" - eigentlich fasst es das
-    ziemlich genau in Worte, oder? Valentin sagt dazu "Mark Tremonti ist
-    wirklich begnadet. **'You Waste Your Time'** vom 2012 erschienenen ersten
-    Album 'All I Was' ist für seine Verhältnisse schon fast eine Ballade.
-    Eigentlich ist die Musik von Tremonti eher in der härteren Ecke
-    angesiedelt."
-    <iframe src="https://www.youtube.com/embed/BVfbosghkTg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  **"Circle"** von **Mouse On the Keys** stammt von Matzes Lieblingsliste. Die
-    Post-Rock Band aus Japan hat sich von modernem Jazz beeinflussen lassen.
-    Seit ihrer Gründung im Jahr 2007 haben Akira Kawasaki, Atsushi Kiyot und
-    Daisuke Niitome bereits drei Studio- und ein Live-Album sowie drei EPs
-    veröffentlicht. "Circle" ist die erste Auskopplung vom neuen gleichnahmigen
-    vierten Album.
-    <iframe src="https://www.youtube.com/embed/qbMsSW_JI3c" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  Valentin hat mit **"The Killing Moon"** von **Echo And The Bunnymen** (1984
-    auf der Scheibe "Ocean Rain" erschienen) einen wahren Klassiker der
-    1980er-Jahre ausgewählt. Er ist es wert, immer und immer wieder gespielt zu
-    werden und sollte niemals in Vergessenheit geraten. Das Video ist zudem
-    einfach legendär.
-    <iframe src="https://www.youtube.com/embed/LWz0JC7afNQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  **"Vampyr's Winged Fantasy"** stammt vom im März veröffentlichten neuen
-    **Meat Puppets** Album "Dusty Notes". Für mich darf es hier auf keinen Fall
-    fehlen. Die Grunge Truppe hat mich (mal wieder) einen ganzen Monat lang
-    beschäftigt und diese Aneinanderreihung von Riffs, Lyrics und Melodien hat
-    sich dabei besonders eingeprägt.
-    <iframe src="https://www.youtube.com/embed/Hq6Yuvb7lzg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-1.  **Black Label Society** - so heißt die Band des langjährigen
-    [Ozzy Osbourne](/2014/07/urlaub-ohne-schein/) Gitarristen Zakk Wylde. Die
-    Heavy Metal Mannen so aufgeräumt und ausgeschlafen unplugged zu erleben
-    macht einfach nur glücklich. Valentin meint dazu nur: Ich habe mir die Band
-    eigentlich nie richtig angehört. **"A Spoke In The Wheel"** ist einfach ein
-    wunderschöner Song! Aufgenommen wurde diese Version davon übrigens zum
-    20-jährigen Jubiläum des auf Spitfire Records erschienenen Debut-Albums
-    **"Sonic Brew"** .
-    <iframe src="https://www.youtube.com/embed/x3GQkZa6kXA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+    Dich. <YouTube id="x3GQkZa6kXA" />
 
 <h4>Die komplette Liste könnt Ihr Euch auf Spotify hier anhören
-<iframe src="https://open.spotify.com/embed/user/1121757456/playlist/4JFNEgbt4YmsgzDBN0zgDE" width="300" height="380" frameborder="0"></iframe></h4>
+ <YouTube id="user/1121757456/playlist/4JFNEgbt4YmsgzDBN0zgDE" /> </h4>
 
 ### Apple Musik Fans werden hier glücklich
 

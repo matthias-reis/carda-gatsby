@@ -337,7 +337,7 @@ Post. Recordings veröffentlicht.
 
 ## Waves bei Spotify
 
-<iframe src="https://open.spotify.com/embed/album/5TxKYW1MyPhstxBh8JjhnL" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="album/5TxKYW1MyPhstxBh8JjhnL" />
 
 ## Waves bei iTunes
 
@@ -606,7 +606,7 @@ and Post. Recordings.
 
 ## Waves on Spotify
 
-<iframe src="https://open.spotify.com/embed/album/5TxKYW1MyPhstxBh8JjhnL" width="300" height="380" frameborder="0" data-mce-fragment="1"></iframe>
+ <YouTube id="album/5TxKYW1MyPhstxBh8JjhnL" />
 
 ## Waves on iTunes
 

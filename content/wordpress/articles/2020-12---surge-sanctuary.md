@@ -124,7 +124,7 @@ OK ist, ein⋆e wütend⋆e Veganer⋆in zu sein, 
 [klickt am besten hier](/2019/11/earthling-ed-zu-gast-in-hamburg/). Ich habe ihn
 in Hamburg getroffen.
 
-<iframe src="https://www.youtube.com/embed/sGWQLsnGaik" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="sGWQLsnGaik" />
 
 Bilder/pictures: Screenshots from the video, © Earthling Ed
 

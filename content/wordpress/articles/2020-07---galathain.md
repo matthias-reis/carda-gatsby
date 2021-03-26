@@ -172,7 +172,7 @@ Kontakt bleiben!
 
 ## "And The Rain Tasted Like Blood" von Galathain bei Spotify hören
 
-<iframe src="https://open.spotify.com/embed/album/3OrJOmvpPdzB7YBoDFZT9V" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+ <YouTube id="album/3OrJOmvpPdzB7YBoDFZT9V" />
 
 ## "And The Rain Tasted Like Blood" von Galathain bei iTunes hören
 
@@ -308,7 +308,7 @@ touch!
 
 ## Listen to "And The Rain Tasted Like Blood" by Galathain on Spotify
 
-<iframe src="https://open.spotify.com/embed/album/3OrJOmvpPdzB7YBoDFZT9V" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+ <YouTube id="album/3OrJOmvpPdzB7YBoDFZT9V" />
 
 ## Listen to "And The Rain Tasted Like Blood" by Galathain on iTunes
 

@@ -6,7 +6,8 @@ import { graphql } from 'gatsby';
 import { ArticlePage } from './article-page';
 import { ErrorBoundary } from './error-boundary';
 import { Meme } from './meme';
-import { Youtube } from './youtube';
+import { Youtube, YouTube } from './youtube';
+import { Vimeo } from './vimeo';
 import { Playlist } from './playlist';
 import { RemoteImage } from './remote-image';
 import { Link } from './link';
@@ -17,7 +18,15 @@ import { HR } from './hr';
 import { toCompactArticle } from '../to-compact-article';
 import { Article, CompactArticle } from '../types';
 
-const shortcodes = { Meme, Youtube, Playlist, RemoteImage, Gallery };
+const shortcodes = {
+  Meme,
+  Youtube,
+  YouTube,
+  Vimeo,
+  Playlist,
+  RemoteImage,
+  Gallery,
+};
 
 const defaults = {
   a: Link,

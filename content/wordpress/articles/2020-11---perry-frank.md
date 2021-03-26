@@ -251,7 +251,7 @@ Pass auf Dich auf und bleib gesund. Wir müssen durchhalten!
 
 ## "Today Is Long Gone" von Perry Frank
 
-<iframe src="https://www.youtube.com/embed/O1ajLnGqees" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="O1ajLnGqees" />
 
 Bilder: Perry Fran
 
@@ -453,7 +453,7 @@ to be a guest on your blog. Please take care and stay safe. We must hold on!
 
 ## "Today Is Long Gone" by Perry Frank
 
-<iframe src="https://www.youtube.com/embed/O1ajLnGqees" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="O1ajLnGqees" />
 
 Pictures: Perry Frank
 

@@ -71,7 +71,7 @@ Die beiden weiteren Singleauskopplungen findet Ihr 
 **Natürlich möchte ich Euch den Song nicht vorenthalten. Hier sind für Euch die
 DEFTONES mit "Tempest"**
 
-[youtube=http://www.youtube.com/watch?v=GIgNBxNvAJg]
+ <YouTube id="GIgNBxNvAJg" />
 
 _Take_ _Out the stories_ _They've put into your mind and brace_ _For the glory_
 _As you stare into the sky... The sky beneath_ _I know you can't be tired..._

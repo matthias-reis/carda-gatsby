@@ -88,7 +88,7 @@ für Furore. Hier sind Matzes Gedanken dazu:
 > zurückzukehren. "Everything I Say" ist nur eines der vielen Highlights auf der
 > Platte."
 
-<iframe src="https://www.youtube.com/embed/T92MeAg9leg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="T92MeAg9leg" />
 
 ## The Ocean – "Pleistocene" vom Album "Phanerozoic II"
 
@@ -104,7 +104,7 @@ Plattenbestellungen richtiggehend überrollt.
 > ruhigeren, sich steigernden Passagen und immer aggressiver werdenden Sludge
 > Parts, in denen sich Gitarren und Shouting gegenseitig anspornen."
 
-<iframe src="https://www.youtube.com/embed/E12saHWlaWI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="E12saHWlaWI" />
 
 [Robin Staps von The Ocean im Interview](/2020/09/the-ocean-robin-staps-interview/)
 
@@ -119,7 +119,7 @@ uns rund. Valentin hat einen Song ausgesucht.
 > habe mich für den zweiten entschieden. Ich finde, er macht so richtig Lust
 > darauf, endlich die ganze Platte zu hören."
 
-<iframe src="https://www.youtube.com/embed/JD1Ne-BzvlU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="JD1Ne-BzvlU" />
 
 ## Puscifer – "The Underwhelming" (Vorauskopplung vom Album "Existential Reckoning")
 
@@ -130,7 +130,7 @@ Valentins Worte zu diesem Song:
 > dem Titel 'Existential Reckoning' kann man sich nach 'Apocalyptical' schon den
 > zweiten Song anhören, der Lust auf restliche zehn Stücke macht."
 
-<iframe src="https://www.youtube.com/embed/M_gHgTkbdyg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="M_gHgTkbdyg" />
 
 ## Ox en Mayo Alto – "Moi, Pierre Rivière, ayant érgorgé ma mére, ma sœr et mon frère" von der Video-EP "Los famosos días de la fiebre"
 
@@ -145,7 +145,7 @@ sœr et mon frère" ("Ich, Pierre Rivière, habe meine Mutter, meine Schwester u
 meinen Bruder abgeschlachtet") ist der starke Mittelteil davon. Musikalisch
 beeindruckend und bildgewaltig.
 
-<iframe src="https://www.youtube.com/embed/d0vvtn_1qGA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="d0vvtn_1qGA" />
 
 [Review "Los famosos días de la fiebre"](/2020/09/ox-en-mayo-alto-los-famosos-dias-de-la-fiebre-review/)
 
@@ -165,7 +165,7 @@ von der Band aus Bozeman, Montana auf unsere Liste gesetzt.
 > alle Songs hintereinander an – in ihrer Spielreihenfolge, wie sie gedacht
 > sind."
 
-<iframe src="https://www.youtube.com/embed/xRNuWkwAIAs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="xRNuWkwAIAs" />
 
 ## worriedaboutsatan – "Full Of Wires" von der EP "The Vault"
 
@@ -176,7 +176,7 @@ Leuchten. Ihre perfekte Verbindung aus Techno, Glitch, Elektro und Metal haben
 sie mit ihrer aktuellen EP "The Vault" ein weiteres Mal auf ein neues Level
 gehoben. Ich erfreue Euch heute mit dem Opener "Full Of Wires".
 
-<iframe src="https://www.youtube.com/embed/cTU8ESPhJGA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="cTU8ESPhJGA" />
 
 ## Jónsi – "Exhale" vom Album "Shiver"
 
@@ -186,7 +186,7 @@ Kunst in Reinform abgeliefert. Ich verordne den Hörgenuss allen, die wie ich de
 experimentellen Ambient und Drone Musik verfallen sind. Übrigens ist auch das
 Video durchaus sehenswert.
 
-<iframe src="https://www.youtube.com/embed/U44-xky1vjw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="U44-xky1vjw" />
 
 ## Emma Ruth Rundle &amp; Thou – "The Valley" (Vorauskopplung vom Album "May Our Chambers Be Full")
 
@@ -202,7 +202,7 @@ Veröffentlichung des Albums steht kurz bevor.
 > mit Euch teilen muss. Das 'Album May Our Chambers Be Full' erscheint am 30.
 > Oktober."
 
-<iframe src="https://www.youtube.com/embed/ImMHsDDV_YA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="ImMHsDDV_YA" />
 
 ## Dead Now – "Slow Beam" (Single)
 
@@ -215,7 +215,7 @@ Torche, Riddle of Steel, Tilts und Day Old Man.
 Die Band aus Atlanta schreibt im Moment an einem Album in voller Länge. Wir
 dürfen also gespannt sein, wie es weitergeht.
 
-<iframe src="https://www.youtube.com/embed/elcJX5uJUVk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="elcJX5uJUVk" />
 
 ## Steven Wilson – "Eminent Sleaze" (Vorauskopplung vom Album "The Future Bites")
 
@@ -226,7 +226,7 @@ Dieses Stück hat Valentin für Euch aufgetan.
 > Stück eine Mischung aus der Musik von Muse und Funk. Ich freue mich schon
 > darauf, wenn im Januar das komplette Album erscheint."
 
-<iframe src="https://www.youtube.com/embed/kUKmOkrcMig" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="kUKmOkrcMig" />
 
 ## Jimi Hendrix "Castles Made Of Sand" vom Album "Axis: Bold As Love (1967)
 
@@ -237,11 +237,11 @@ hat er einen ganz besonderen für uns.
 > es diesen Monat einen für mich ganz besonderen Song vom besten Gitarristen der
 > Welt. 'Castles Made Of Sand' vom zweiten Album 'Axis: Bold As Love' von 1967."
 
-<iframe src="https://www.youtube.com/embed/XJ035W-2p6M" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="XJ035W-2p6M" />
 
 ## Unsere November-Musikliste bei Spotify
 
-<iframe src="https://open.spotify.com/embed/playlist/4DjDm9SwKVfpqcUFRT89oI" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="playlist/4DjDm9SwKVfpqcUFRT89oI" />
 
 ## Unsere November-Musikliste bei iTunes
 

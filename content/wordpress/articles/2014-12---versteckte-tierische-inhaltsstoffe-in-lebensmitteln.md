@@ -93,7 +93,7 @@ Ausscheidungen der Lackschildlaus handelt, rote Getränke oder Speisen haben ihr
 Farbe in vielen Fällen von dem darin enthaltenen Karmin, das aus getrockneten,
 zerriebenen  **Cochenille-Schildläusen** hergestellt wird. ZDF WISO klärte auf:
 
-<iframe src="https://www.youtube.com/embed/VKOcDahYo8Y" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="VKOcDahYo8Y" />
 
 ## Tierkohle zum Entfärben
 

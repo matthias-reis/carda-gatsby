@@ -74,6 +74,6 @@ auch nicht übersehbar sein.
 
 In diesem Sinne: Bis morgen!
 
-<iframe src="https://www.youtube.com/embed/IB5RyvdRAcU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="IB5RyvdRAcU" />
 
   

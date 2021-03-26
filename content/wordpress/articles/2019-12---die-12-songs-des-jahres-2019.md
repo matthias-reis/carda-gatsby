@@ -105,55 +105,25 @@ wünschen Euch viel Spaß mit den folgenden Meisterwerken.
     <li>
 ## Mono - "After You Comes The Flood" vom Album "Nowhere Now Here"
 Matze und ich sind uns einig: Dieses Anfang des Jahres erschienene Stück konnte einfach von keiner der vielen großen Veröffentlichungen in diesem Jahr übertroffen werden. Mono haben damit einen wahren Sound-Prunkbau abgeliefert. "After You Comes The Flood" ist von Anfang an düster und mächtig - dennoch schafft es die vor 20 Jahren in Tokio gegründete Band sich bis zum Schlussakkord immer weiter hochzuschaukeln. Auf der Genussskala ist dieses Stück Musik ganz oben angesiedelt.
-<iframe src="https://www.youtube.com/embed/L3Plq_c77r0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li>
-## 65daysofstatic - "Five Waves" vom Album "replicr"
-Aus dem wohl homogensten und experimentellsten Album des Jahres haben Matze und ich dieses wunderbare Stück hier ausgesucht. Für Matze ist es die perfekte Verbindung aus elektronischen Kompositionen und Post-Rock Gitarren - diese sind bei 65daysofstatic weiter in den Hintergrund gerückt.
-<iframe src="https://www.youtube.com/embed/Ph2V7KlA07Y" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li>
-## Cult Of Luna - "A Dawn To Fear" vom Album "A Dawn To Fear"
-Beim Aussuchen des Songs wurde Matze mal wieder klar, wie gut das aktuelle Cult Of Luna Album ist. Es ist uns allen dreien schwergefallen, einen Song daraus auszusuchen - eigentlich könnte man das komplette Werk auf die Jahresliste setzen. Der Titelsong stellt für Matze die perfekte Mischung aus leiseren, präzisen Passagen und der harten, von den beiden Schlagzeugen Johannes Perssons Stimme geprägten Spielweise der Band dar.
-<iframe src="https://www.youtube.com/embed/2cYtqwUso-g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li>
-## Tool - "Culling Voices" vom Album "Fear Inoculum"
-"Culling Voices" von Tool musste für Matze einfach dabei sein. Für ihn ist der Song ein wahres Meisterwerk und der eigenständigste vom Konzeptalbum "Fear Inoculum" - er hat die wenigsten Referenzen auf "10.000 Days" und "Lateralus" nötig.
-<iframe src="https://www.youtube.com/embed/rj3IbZV_YQM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li>
-## Kim Gordon - "Murdered Out" vom Album "No Home Record"
-Dass Kim Gordon 2019 ein neues Werk veröffentlicht hat, hat mich sehr glücklich gemacht. "No Home Record" ist ein starkes Stück, das in keinem Plattenregal fehlen sollte. "Murdered Out" hat es schon auf die  [Liste für den Dezember](/2019/11/13-songs-fuer-den-dezember/)  geschafft und sich inzwischen fest in meine Ohren und in mein Herz eingebrannt.
-<iframe src="https://www.youtube.com/embed/NvgRg_mUhtQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li>
-## Unkle - "Crucifixion" vom Album "The Road: Part II / Lost Highway"
-Für Valentin und mich ist "Crucifixion" einer der interessantesten Songs vom 2019er Unkle Album "The Road Part II / Lost Highway". Was ihn zu einem ganz besonderen Highlight werden lässt, ist Ian Astburys (The Cult) wunderbaren Stimme.
-<iframe src="https://www.youtube.com/embed/gxKfb84DSL0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li>
-## Russian Circles - "Arluck" vom Album "Blood Year"
-Russian Circles sind Valentins erklärte Lieblings Post-Metalband. Für ihn ist es immer ziemlich schwierig, einen einzelnen Song aus einem ganz besonderen Instrumentalalbum herauszufiltern. "Arluck" hat es geschafft - das Stück geht einfach am meisten ins Ohr. Auf das im April anstehende Konzert mit Torche freut er sich schon riesig.
-<iframe src="https://www.youtube.com/embed/79btD88nFbY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
+ <YouTube id="79btD88nFbY" /> </li>
     <li>
 ## Slipknot - "Unsainted" vom Album "We Are Not Your Kind"
 Valentin hat auch dieses Stück auf die Jahresliste gepackt:
 "Wie Matze in unserer  [Liste für den August](/2019/07/12-songs-fuer-den-august/)  schon geschrieben hat.: 'We Are Not Your Kind' ist das mächtigste Metal-Album des Jahres 2019. Ich wähle den Song 'Unsainted' für die Jahrescharts."
 
-<iframe src="https://www.youtube.com/embed/VpATBBRajP8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li>
-## Nick Cave &amp; The Bad Seeds "Leviathan" vom Album "Ghosteen"
-Auch ein Song von Nick Caves neuer Platte durfte für Valentin auf keinen Fall fehlen. Nach dem wunderschönen "Waiting for you" in der  [Dezember-Liste](/2019/11/13-songs-fuer-den-dezember/)  hat er sich in der Jahresliste für "Leviathan" entschieden.
-<iframe src="https://www.youtube.com/embed/M41EdpS16V0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li>
-## Tides From Nebula - "The New Delta" vom Album "From Voodoo to Zen"
-Die unvergessliche Post-Rock Band Tides From Nebula hat 2019 endlich wieder abgeliefert. Im September hat es "The New Delta" damals noch als Vorauskopplung von "From Voodoo to Zen" auf die Liste geschafft. Das Stück begleitet mich nach wie vor - ich höre es fast täglich. Manchmal eingebettet in seine vorhergesehene Umgebung, manchmal inmitten einer Playlist - insgesamt hat es das Stück bei mir bis jetzt auf fünf davon geschafft.  Was wirklich etwas bedeutet.
-<iframe src="https://www.youtube.com/embed/WChncS50fqM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li>
-## The End Of The Ocean - "Homesick" vom Album "Aire"
-The End Of the Ocean haben mich mit ihrem aktuellen Album davongetragen. Sie haben mich auf Reisen und Ausflügen begleitet und beim Schreiben inspiriert. "Homesick" ist zu Recht bereits auf der Liste für den März gelandet. Der Song sollte auf keinen Fall in Vergessenheit geraten - das trifft übrigens auf das komplette Gesamtkunstwerk mit dem Namen "Aire" zu.
-<iframe src="https://www.youtube.com/embed/V8l9TD02meA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li>
-## Opeth - "Continuum" vom Album "In Cauda Venenum"
-Für Matze durften Opeth auf der Liste des Jahres auf keinen Fall fehlen. Hier sind seine Gedanken zu "Continuum":
-"Während Mono den perfekten Opener meiner persönlichen Lieblingsveröffentlichungen des Jahres abgeliefert haben, macht der von mir gewählte Opeth Song, den perfekten Abschluss. Gleichzeitig hart wie gewohnt, haben sich die Schweden hier zusätzlich verspielte und verträumte Einflüsse aus den 1970er Jahren mit ins Portfolio geholt.
+<YouTube id="V8l9TD02meA" /> </li> <li>
 
-<iframe src="https://www.youtube.com/embed/Ejy01XpjQMY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
+## Opeth - "Continuum" vom Album "In Cauda Venenum"
+
+Für Matze durften Opeth auf der Liste des Jahres auf keinen Fall fehlen. Hier
+sind seine Gedanken zu "Continuum": "Während Mono den perfekten Opener meiner
+persönlichen Lieblingsveröffentlichungen des Jahres abgeliefert haben, macht der
+von mir gewählte Opeth Song, den perfekten Abschluss. Gleichzeitig hart wie
+gewohnt, haben sich die Schweden hier zusätzlich verspielte und verträumte
+Einflüsse aus den 1970er Jahren mit ins Portfolio geholt.
+
+<YouTube id="Ejy01XpjQMY" /> </li>
+
 </ol>
 </li>
 </ol>
@@ -175,7 +145,7 @@ Bekannte.
 
 ## Spotify-Fans können die Songs des Jahres 2019 hier hören
 
-<iframe src="https://open.spotify.com/embed/playlist/03a60jlpV7loROW2M32r4i" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="playlist/03a60jlpV7loROW2M32r4i" />
 
 ## iTunes Menschen werden hier glücklich
 

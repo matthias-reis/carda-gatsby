@@ -122,6 +122,6 @@ nächste Mal wieder einen etwas fröhlicheren Text bieten zu können.
 
 ## Song des Tages: "With A Twist"
 
-[youtube http://www.youtube.com/watch?v=OEj0z0maxzM]
+ <YouTube id="OEj0z0maxzM" />
 
   

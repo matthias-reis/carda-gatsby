@@ -170,15 +170,15 @@ Hören bereit. Ich habe Euch hier einfach mal die Videos dazu angefügt.
 
 ## "Jack Ketch"
 
-<iframe src="https://www.youtube.com/embed/LBf-m1j54gA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="LBf-m1j54gA" />
 
 ## "Excommunication"
 
-<iframe src="https://www.youtube.com/embed/FE2aW6iH4As" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="FE2aW6iH4As" />
 
 ## "Razumikhin"
 
-<iframe src="https://www.youtube.com/embed/xUoMMdWRG0o" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="xUoMMdWRG0o" />
 
 <hr />
 

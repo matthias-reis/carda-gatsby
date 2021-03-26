@@ -80,7 +80,7 @@ erreicht. Ich hoffe darauf, Homem em Catarse irgendwann live erleben zu dürfen.
 
 ## Homem em Catarse – "Hotel Saturnyo"
 
-<iframe src="https://www.youtube.com/embed/zNjLTsXW3L4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="zNjLTsXW3L4" />
 
 <hr />
 
@@ -130,6 +130,6 @@ able to experience Homem em Catarse live someday.
 
 ## Homem em Catarse - "Hotel Saturnyo"
 
-<iframe src="https://www.youtube.com/embed/zNjLTsXW3L4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="zNjLTsXW3L4" />
 
   

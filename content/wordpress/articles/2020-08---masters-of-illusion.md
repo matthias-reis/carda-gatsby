@@ -148,6 +148,6 @@ Ihr Promo-Videos und einen Surround-Mix in 5.1 DTS und Dolby Digital.
 
 ## "Bela" von Magenta
 
-<iframe src="https://www.youtube.com/embed/Y6USrkjBCCM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="Y6USrkjBCCM" />
 
   

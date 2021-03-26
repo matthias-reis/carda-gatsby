@@ -114,7 +114,7 @@ geheilt werden kann.
 > nicht den Ruf herzloser Menschen ruinieren. Aber bitte tut etwas! Das Leid der
 > Tiere führt uns sonst in die humanitäre Katastrophe."
 
-<iframe src="https://www.youtube.com/embed/-OoT2OZWCOI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="-OoT2OZWCOI" />
 
 Quelle/source:
 [Live Kindly](https://www.livekindly.co/bill-maher-calls-factory-farms-despicable-wet-markets/)

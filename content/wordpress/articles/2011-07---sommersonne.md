@@ -72,6 +72,6 @@ die ebenfalls aus Edinburg stammt.
 
 ## Song des Tages: Eagleowl - "Into The Fold"
 
-<iframe src="https://www.youtube.com/embed/xYUYxnhyyHM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="xYUYxnhyyHM" />
 
   

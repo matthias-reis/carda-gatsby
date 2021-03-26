@@ -77,7 +77,7 @@ OK ist, ein⋆e wütend⋆e Veganer⋆in zu sein,
 
 ## Earthling Ed – "It's Time To Change Your Life"
 
-<iframe src="https://www.youtube.com/embed/Z3u7hXpOm58" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="Z3u7hXpOm58" />
 
 Quelle &amp; Bild/pictures &amp; source:
 [Earthling Ed](https://earthlinged.org/)

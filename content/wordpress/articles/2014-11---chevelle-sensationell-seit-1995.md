@@ -116,7 +116,7 @@ Bis bald Anne &lt;3
 
 ## Hier sind für Euch Chevelle mit "The Clincher"
 
-[youtube https://www.youtube.com/watch?v=OP3Yhs8q7oM]
+ <YouTube id="OP3Yhs8q7oM" />
 
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_img_2540__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_img_2540__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_img_2537__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_img_2537__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_img_2535__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_img_2535__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_img_2534__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_img_2534__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_img_2533__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_img_2533__l.jpg"}]}

@@ -109,6 +109,6 @@ mehr auf meinem Blog verpassen wollt,
 
 ## Filmtrailer "Live And Let Live"
 
-<iframe src="https://www.youtube.com/embed/We5zOxfp7S0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="We5zOxfp7S0" />
 
   

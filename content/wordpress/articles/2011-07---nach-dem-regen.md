@@ -84,7 +84,7 @@ wird.
 
 ## Song des Tages: Thrice – "Yellow Belly"
 
-[youtube=http://www.youtube.com/watch?v=Tfv4PqEOZCU] \_\_
+<YouTube id="Tfv4PqEOZCU" /> \_\_
 
 <pre></pre>
 

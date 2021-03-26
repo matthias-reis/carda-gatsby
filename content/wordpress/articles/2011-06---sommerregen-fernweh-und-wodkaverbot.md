@@ -86,6 +86,6 @@ und Protestanten wieder auf. Um nur einige Krisenherde zu nennen.
 
 ## Song des Tages: Incubus - "The Warmth"
 
-<iframe src="https://www.youtube.com/embed/VeHddLI-aY8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="VeHddLI-aY8" />
 
   

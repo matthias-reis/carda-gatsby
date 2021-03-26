@@ -71,7 +71,7 @@ ausgepackt.
 
 ## Song des Tages: Long Distance Calling – "Fire In The Mountain"
 
-[youtube=http://www.youtube.com/watch?v=cDZXHjxmpXQ]
+ <YouTube id="cDZXHjxmpXQ" />
 
 &nbsp;
 

@@ -104,7 +104,7 @@ Osnabrück" auch bei iTunes und Spotify Premiere feiern.
 
 Hier sind für Euch Kalle Kuul mit "Die Prinzessin von Osnabrück".
 
-<iframe src="https://www.youtube.com/embed/9bhzuqbPVC4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="9bhzuqbPVC4" />
 
 Hat Euch der Beitrag neugierig gemacht? Dann bleibt am besten dran. In Kürze
 wird hier im Blog ein Interview mit Kalle Kuul erscheinen. Wenn Ihr in Zukunft

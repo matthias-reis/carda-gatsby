@@ -314,7 +314,7 @@ Schafschur besonders kaltblütig vorgegangen. Videos zeigen, wie sich die Schere
 auf den Hals der Tiere stellen, ihnen ins Gesicht schlagen und sie stark
 verletzen.
 
-[youtube https://www.youtube.com/watch?v=OKNGyUG6XB0?rel=0]
+ <YouTube id="OKNGyUG6XB0?rel=0" />
 
 Merinoschafe wurden faltig gezüchtet, um noch mehr Wolle zu gewinnen. Durch die
 Massen an Wolle sterben diese Tiere in den Sommermonaten oft an Überhitzung.

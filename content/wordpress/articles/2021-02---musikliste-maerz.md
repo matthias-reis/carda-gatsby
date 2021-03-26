@@ -85,7 +85,7 @@ Matze:
 > Nicht nur durch die Kollaboration mit einem weiteren "alten Bekannten" namens
 > Mark Lanegan ist hier auf jeden Fall eine Erwähnung wert."
 
-<iframe src="https://www.youtube.com/embed/DmAnk2gXl1I" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="DmAnk2gXl1I" />
 
 ## Mono &amp; Platinum Anniversary Orchestra - "Meet Us Where The Night Ends" – Vorauskopplung vom Live-Album "Beyond the Past"
 
@@ -100,7 +100,7 @@ Empfehlung für Euch: Genießt schon mal 'Meet us Where the Night Ends' und tut
 Euch mit dem Triple-Gatefold-40-Seiten-Photo-Book-Album etwas Gutes.
 Vorbestellungen sind ab sofort möglich."
 
-<iframe src="https://www.youtube.com/embed/xkl40HDiELc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="xkl40HDiELc" />
 
 ## Unkle - "Do Yourself Some Good" (Single)
 
@@ -117,7 +117,7 @@ Valentin:
 > noch unbestätigten Datum. Den Track "Do Yourself Some Good" können wir bereits
 > jetzt schon hören. Ich finde, er macht passend zum Titel richtig gute Laune."
 
-<iframe src="https://www.youtube.com/embed/CduUB750UrU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="CduUB750UrU" />
 
 ## Baulta – "Third" vom Album "Another Second Chance"
 
@@ -127,7 +127,7 @@ bringt die Band tiefe Emotionen zum Ausdruck – leise Klaviersequenzen und
 Sound-Ozeane eingeschlossen. Falls Ihr Baulta noch nicht kennt, ist "Third" ein
 guter Einstieg.
 
-<iframe src="https://www.youtube.com/embed/xc8_nu7D0Os" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="xc8_nu7D0Os" />
 
 ## Free Dust &amp; M Sage – "Early Grey" vom Album "Woo'd Early"
 
@@ -160,7 +160,7 @@ staubig. Ganz im Gegenteil: Der frische Wind, den Origamibiro in die Musikwelt
 pustet, wird uns sicher allen gut bekommen. Erschienen ist die Platte bei
 Denovali Records.
 
-<iframe src="https://www.youtube.com/embed/IABP5Lx4Lss" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="IABP5Lx4Lss" />
 
 ## Crown – "Illumination" vom Album "The End Of All Things"
 
@@ -181,7 +181,7 @@ als Produzent, Studiomusiker und Tontechniker bereits mit Depeche Mode und
 anderen Größen zusammengearbeitet. Sänger Stéphane Azam ist seit langen Jahren
 als Live-Tontechniker mit Alcest unterwegs.
 
-<iframe src="https://www.youtube.com/embed/9rBH1Qe3cO0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="9rBH1Qe3cO0" />
 
 ## Kokomo – "Sterben am Fluss" vom Live Album "In The Era Of Isolation: Live At Kulturkirche Liebfrauen"
 
@@ -192,7 +192,7 @@ ausgesucht. Ich finde, es passt einfach hervorragend. Die Duisburger spiegeln
 die Stimmung der aktuellen Zeit gekonnt wider und können dabei mit ihren
 Vorbildern von Caspian und Maybeshewill durchaus Schritt halten.
 
-<iframe src="https://www.youtube.com/embed/D8nWvbX6sZ8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="D8nWvbX6sZ8" />
 
 ## Johan G. Winther - "Blacken the World" – Vorauskopplung vom Album "The Rupturing Sowle"
 
@@ -205,7 +205,7 @@ Stück vereint ein außergewöhnliches, treibendes Percussion-Gerüst mit düste
 stimmungsvollen Banjo- und Cello-Melodien. Ich habe gleich mal den kompletten
 Back-Katalog durchgehört und bin gespannt auf das neue Album."
 
-<iframe src="https://www.youtube.com/embed/nuvRxDhJ-0g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="nuvRxDhJ-0g" />
 
 ## Olly Steele &amp; Ian Kenny - Try (Single)
 
@@ -220,7 +220,7 @@ Matze:
 > hat. Ich hoffe auf mehr, konnte aber bisher nur dieses eine Stück in den
 > Tiefen der Streaming-Dienste finden.
 
-<iframe src="https://www.youtube.com/embed/CK67gZST5w8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="CK67gZST5w8" />
 
 ## The Armed - "All Futures" – Vorauskopplung vom Album "Ultrapop"
 
@@ -232,7 +232,7 @@ Matze:
 > schnelleren Nine Inch Nails Songs – vielleicht in Kombination mit einem Hauch
 > Converge. Mein Fazit: Es lohnt sich, mehr von The Armed zu hören."
 
-<iframe src="https://www.youtube.com/embed/Fbo21aWFbhQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="Fbo21aWFbhQ" />
 
 ## King Gizzard And The Lizard Wizard - "O.N.E" (Single)
 
@@ -245,11 +245,11 @@ Matze:
 > Material. Zitate von arabischer Musik mischen sich mit Elektronic und Stoner
 > Gitarren."
 
-<iframe src="https://www.youtube.com/embed/lkZd2lBQb2c" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="lkZd2lBQb2c" />
 
 ## Musikliste bei Spotify
 
-<iframe src="https://open.spotify.com/embed/playlist/0ialZJpNBfqvR6hSblZXsV" width="300" height="380" frameborder="0" data-mce-fragment="1"></iframe>
+ <YouTube id="playlist/0ialZJpNBfqvR6hSblZXsV" />
 
 ## Musikliste bei iTunes
 

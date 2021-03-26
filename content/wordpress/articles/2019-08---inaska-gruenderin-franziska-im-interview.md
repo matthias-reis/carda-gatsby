@@ -230,6 +230,6 @@ Hier könnt Ihr Euch
 
 Hier sind für Euch Two Magics mit "Glücklich wie die Kinder"
 
-<iframe src="https://www.youtube.com/embed/FsRc42IwLRo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="FsRc42IwLRo" />
 
   

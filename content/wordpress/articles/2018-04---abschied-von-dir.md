@@ -72,7 +72,7 @@ erlebt. Es war schon überall und wird überall sein.
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_26619268697_94e2968637_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_26619268697_94e2968637_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27619103848_f63422b81f_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27619103848_f63422b81f_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41490421311_e84869a438_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41490421311_e84869a438_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27619104988_ff91694074_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27619104988_ff91694074_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41490426461_e5fb4ff87f_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41490426461_e5fb4ff87f_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_40597019075_fed07928a2_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_40597019075_fed07928a2_z__l.jpg"}]}
 />
 
-<iframe src="https://www.youtube.com/embed/k_uHkAngzHw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="k_uHkAngzHw" />
 
 ## Info
 

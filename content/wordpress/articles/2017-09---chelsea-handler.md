@@ -138,7 +138,7 @@ er es von ganz alleine macht.
 
 Das wirklich unterhaltsame, lustige Video könnt Ihr Euch hier ansehen:
 
-<iframe src="https://www.youtube.com/embed/t6xOvQsyL7A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="t6xOvQsyL7A" />
 
 Mehr von Chelsea findet Ihr auf Netflix und auf ihrer
 [Homepage](https://www.chelseahandler.com/).

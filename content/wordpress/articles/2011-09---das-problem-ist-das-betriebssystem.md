@@ -162,7 +162,7 @@ doch noch geben wird._
 > Fall für die Dauer der Prüfung nicht mehr auf das zu prüfende Laufwerk
 > zugreifen können. Die Prüfung startet umgehend."
 
-[youtube=http://www.youtube.com/watch?v=e6A9PaWNSec]
+ <YouTube id="e6A9PaWNSec" />
 
 _Was das gezeigte Video mit der Geschichte zu tun hat, wissen nur die Sissi und
 der Franzl._

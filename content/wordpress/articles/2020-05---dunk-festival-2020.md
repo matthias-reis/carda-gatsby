@@ -65,7 +65,7 @@ Mir gefällt das Zusammenspiel aus Farben und verspielten Sounds sehr. Ich kann
 es mir auf der Leinwand im Bühnenzelt des DUNK! Festivals mehr als gut
 vorstellen. Hoffen wir, dass wir das 2021 erleben werden.
 
-<iframe src="https://www.youtube.com/embed/CWKcU6efbiE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="CWKcU6efbiE" />
 
 ## Noir Reva - "Goraiko" vom Album " Continuance"
 
@@ -73,7 +73,7 @@ Das Festival hat mit dieser Band einen großen Wurf gelandet. Inzwischen gibt es
 bei drei Alben von Noir Reva aus Koblenz und ich glaube, da kommt noch einiges.
 Schaut Euch das schöne Video an!
 
-<iframe src="https://www.youtube.com/embed/YWO1LRgBz1w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="YWO1LRgBz1w" />
 
 ## Iiah - "From Nothing" vom Album "Terra"
 
@@ -81,14 +81,14 @@ Diese unglaublich faszinierende Post-Rock Gruppe gründete sich 2013 im
 australischen Adelaide. Ihr Sound erinnert an Experimentalmusik aus den 70ern,
 bringt aber auch immer wieder Ambient Themen der 90er Jahre auf.
 
-<iframe src="https://www.youtube.com/embed/IOm-RgT_6tQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="IOm-RgT_6tQ" />
 
 ## Sagor Som Leder Mot Slutet &amp; Martin Mileros - "1/16" vom "Iris" Soundtrack
 
 Diese Skandinavier mixen instrumentalen Post-Rock und Post-Metal. Die Mischung
 aus Düsternis und Leichtigkeit ist dabei perfekt.
 
-<iframe src="https://www.youtube.com/embed/Rjc8IwKOobQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="Rjc8IwKOobQ" />
 
 ## Coldbones - "The Flooding Of The World" vom Album "The Cataclysm"
 
@@ -97,7 +97,7 @@ durchaus auch Positives. Die Dreiercombo aus England veröffentlichte ihr erstes
 Album "Where It Al Began" 2018. Ihr zweites Werk "Cataclysm" finde ich fast noch
 besser. Aber hört Euch am besten beide an.
 
-<iframe src="https://www.youtube.com/embed/JIxgO_4ObAY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="JIxgO_4ObAY" />
 
 ## Feed Me To The Waves - "Patterns in Static" vom Album "Intill"
 
@@ -105,7 +105,7 @@ Feed Me To The Waves kommen aus Schweden. Sie lassen sich von der Vielfalt der
 dortigen Natur zu ihrem faszinierenden Sound inspirieren. "Intill" bedeutet
 soviel wie "nebenan". Es wurde im November letzten Jahres veröffentlicht.
 
-<iframe src="https://www.youtube.com/embed/MO97ia9dQ1s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="MO97ia9dQ1s" />
 
 ## Jambinai - "Event Horizon" vom Album "ONDA"
 
@@ -114,7 +114,7 @@ Leuten kommunizieren, die keine traditionelle koreanische Musik hören". Was auc
 immer das bedeutet. Ihre Musik ist außergewöhnlich und verdient es, gehört zu
 werden.
 
-<iframe src="https://www.youtube.com/embed/mhI7Q1eqcvc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="mhI7Q1eqcvc" />
 
 ## De Osos - "At Least (Be Human)" von der EP "Under These Restles Skies
 
@@ -122,7 +122,7 @@ De Osos aus Mexiko greifen tief in die elektronische Trickkiste und sie tun es
 verdammt gut. Sie auf der Waldbühne des DUNK! auftreten zu sehen ist definitiv
 einer der wichtigen Bucketlist-Punkte für den Festivalsommer 2021.
 
-<iframe src="https://www.youtube.com/embed/aJVYAXXgjLY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="aJVYAXXgjLY" />
 
 ## Big Brave - "Sibling" vom Album "A Gaze Among Them"
 
@@ -130,7 +130,7 @@ Big Brave hauen so richtig auf die Ohren. Das Duo aus Montreal ist vor allem in
 der industriellen Post-Rock, Noise und Sludge Ecke unterwegs. Mir gefällt nicht
 nur der besondere Gesang.
 
-<iframe src="https://www.youtube.com/embed/32kDiykKV7s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="32kDiykKV7s" />
 
 ## The Trees &amp; The Wild - "Zaman, Zaman" vom Album "Zaman, Zaman"
 
@@ -142,7 +142,7 @@ rate ich Euch, die Playlist unten aufzurufen. The Trees &amp; The Wild sind
 für ausgefallene Sound-Experimente, wie ihr an diesem Song unschwer erkennen
 könnt.
 
-<iframe src="https://www.youtube.com/embed/cWSPFQCcM7s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="cWSPFQCcM7s" />
 
 ## Bolt Ruin - "Psilentze" von der EP "Bolt Ruin"
 
@@ -152,7 +152,7 @@ hätte ich es nicht in Worte fassen können. Die Belgier haben mit "Obriultn"
 gerade den Nachfolger zur EP "Bolt Ruin" angekündigt. Er kann bereits
 vorbestellt werden und erscheint am 29. Mai.
 
-<iframe src="https://www.youtube.com/embed/kq7O_4R5PtQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="kq7O_4R5PtQ" />
 
 ## We Stood Like Kings - "Grand Illuision" vom Album "USA 1982"
 
@@ -162,7 +162,7 @@ Platte registriert. Die bisherigen Werke tragen die klangvollen Namen "Berlin
 Einzeltracks packe ich Euch hier einfach mal das komplette Album als Video rein.
 Unten in der Playlist findet Ihr natürlich auch das von mir erwähnte Stück.
 
-<iframe src="https://www.youtube.com/embed/Iwgw8Da8vxE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="Iwgw8Da8vxE" />
 
 ## Fly Pan Am - "Nice Est En Feu!" vom Album "Fly Pan Am"
 
@@ -171,7 +171,7 @@ Gegründet wurde das Projekt bereits im Jahr 1996. Gespielt wurde bereits mit
 Größen wie Godspeed You! Black Emperor und Exhaust. Nach einer kurzen Trennung
 im Jahr 2006 fand man 2018 wieder zusammen. Zum Glück.
 
-<iframe src="https://www.youtube.com/embed/VgUwac90tl4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="VgUwac90tl4" />
 
 ## Lethvm - "Schisme" vom Album "Acedia"
 
@@ -179,7 +179,7 @@ Diese belgische Band live zu sehen ist einer meiner Herzenswünsche. Jetzt
 für 2021. Ihre atmosphärische,  harte Musik zieht mich schon länger in ihren
 Bann. Ein tragischer Reigen zwischen Hochgefühl und melancholischen Tälern.
 
-<iframe src="https://www.youtube.com/embed/WLx8EIc_oSA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="WLx8EIc_oSA" />
 
 ## Kinder - "Irukandji" vom Album "Migraciones"
 
@@ -188,7 +188,7 @@ trifft es wohl am ehesten. Denn genau das bringen sie mit ihren Stücken rüber.
 Die Freude an kleinen Details und Ausschmückungen machen die Werke der Band aus
 dem fernen Lima zu einem ganz besonderen Genuss.
 
-<iframe src="https://www.youtube.com/embed/1PteXOFLti0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="1PteXOFLti0" />
 
 ## Collapse Under The Empire - "Beyond Us" vom Album "The End Of Something"
 
@@ -199,7 +199,7 @@ sowie fünf EPs. Dieses Stück stammt vom letzten Werk von 2019. Ihre Mischung a
 Shoegaze, Post-Rock und elektronischer Musik deutet auf Einflüsse aus Rock,
 Hardcore, Trip Hop und sogar Pop hin.
 
-<iframe src="https://www.youtube.com/embed/ObfuPOoyaQE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="ObfuPOoyaQE" />
 
 ## Infesting Swarm - "Ending" vom Album "Desolation Road"
 
@@ -207,7 +207,7 @@ Auch diese Combo kommt aus Deutschland. Das Post-Black Metal Projekt sorgt für
 düstere Töne. Harte Riffs wechseln sich mit melodischen Instrumentalteilen und
 Lyrics aus anderen Welten ab.
 
-<iframe src="https://www.youtube.com/embed/lS12X2Cu2cE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="lS12X2Cu2cE" />
 
 ## Bersarin Quartett - "Das ist alles, was wir haben" vom Album "Methoden und Maschinen"
 
@@ -217,7 +217,7 @@ mit ihrer Musik Geschichten. Geschichten aus der Zukunft. Nach dreizehn Jahren
 Bandgeschichte gelingt es ihnen nach wie vor perfekt, Minimalismus und Pomp
 miteinander zu verbinden. Blitzende Spitzlichter treffen auf weiche Soundbeete.
 
-<iframe src="https://www.youtube.com/embed/wk4J9XWSihU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="wk4J9XWSihU" />
 
 ## And So I Watch You From Afar - "These Secret Kings I Know" vom Album "Heirs"
 
@@ -226,7 +226,7 @@ gegründet. Ihre Shows machen mich glücklich, ihre Songs begleiten mich
 täglich. Rory Friers, Tony Wright, Jonathan Adger und Chris Wee lassen gemeinsam
 die Bühnen brennen und schütteln die Satelliten im All ordentlich durch.
 
-<iframe src="https://www.youtube.com/embed/5maQQqV1Kwk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="5maQQqV1Kwk" />
 
 ## Of The Vine - "Even If I Never See You In This Life..." vom Album "East The Water"
 
@@ -238,7 +238,7 @@ The Water". Ist ist auch auf der A-Seite des Open Language Sampler Volume I zu
 finden. Eine Musiksammlung, die mich seit meinem ersten DUNK! Festival
 begleitet.
 
-<iframe src="https://www.youtube.com/embed/MQU-hgYh00M" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="MQU-hgYh00M" />
 
 ## Ranges - "Avarice" vom Album "Babel"
 
@@ -248,7 +248,7 @@ Die Band aus Montana gehört beim DUNK! quasi zum Inventar. Sie verzaubert mit
 starkem Post-Rock. Immer und immer wieder. Dieses Stück handelt von der Habgier
 der Menschen.
 
-<iframe src="https://www.youtube.com/embed/5500GAkF9Wk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="5500GAkF9Wk" />
 
 ## YOB - "Lungs Reach" vom Album "Our Raw Heart"
 
@@ -260,7 +260,7 @@ schmerzhaften Krankheit. Wie durch ein Wunder erholte er sich davon und prägte
 mit seinem Überleben "Our Raw Heart". Die Platte ist ein Gesamtkunstwerk und
 verdient es auf jeden Fall, am Stück gehört zu werden.
 
-<iframe src="https://www.youtube.com/embed/h7r7jYAtLYk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="h7r7jYAtLYk" />
 
 ## Oh Hiroshima - "Simulacra" vom Album "Oscillation"
 
@@ -269,7 +269,7 @@ Records. An ihrem dritten Studioalbum haben sie vier Jahre lang gearbeitet. Kein
 Geringerer, als Magnus Lindberg von Cult Of Luna war für dabei für das finale
 Mastering verantwortlich.
 
-<iframe src="https://www.youtube.com/embed/neJGdt7X0DU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="neJGdt7X0DU" />
 
 ## Pray For Sound - "The Canyon" vom Album "Waves"
 
@@ -277,7 +277,7 @@ Pray For Sound aus Boston, Massachusetts liefern Klangwelten, von denen man sich
 davontragen lassen kann. Ihr aktuelles Album "Waves" ist ein echter Meilenstein
 in der Geschichte der Instrumentalmusik.
 
-<iframe src="https://www.youtube.com/embed/aGzQ1SykcaY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="aGzQ1SykcaY" />
 
 ## It Was A Good Dream - "Words Dissolve, Your Voice Wanders" von der EP "Help Me To Recollect"
 
@@ -287,7 +287,7 @@ stammt von der fast parallel dazu veröffentlichten EP "Help Me To Recollect".
 Die Instrumentalband entstand aus einem Übungsprojekt und wuchs schnell zu einer
 festen Band zusammen, die heute untrennbar ist.
 
-<iframe src="https://www.youtube.com/embed/mBD-MK48OeY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="mBD-MK48OeY" />
 
 ## Turpentine Valley - "Onweer" vom Album "Etch"
 
@@ -296,7 +296,7 @@ verzichten auf Worte und bringen dafür brachialen Klang. Lasst Euch von ihren
 Wänden aus Gitarren, rollende Bässe und Drums erschüttern. Das Debut "Etch" ist
 2019 bei DUNK! Records erschienen.
 
-<iframe src="https://www.youtube.com/embed/G6kYeDKo8xs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="G6kYeDKo8xs" />
 
 ## Astodan - "Nasu" vom Album "Ameretat"
 
@@ -304,7 +304,7 @@ Was kann man anderes machen, als Astodan zu lieben? Ihre Mischung aus
 orchestralen Klängen und verspielten Szenen macht die Brüsseler Band zu einem
 aufregenden Projekt.
 
-<iframe src="https://www.youtube.com/embed/O07VhZb1pSE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="O07VhZb1pSE" />
 
 ## Amenra - "Plus près de toi" vom Album "Mass VI"
 
@@ -312,7 +312,7 @@ Die markerschütternden Sounds von Amenra gehen um die Welt. Die Church of Ra is
 allgegenwärtig. "Die letzte Musik auf Erden, auferstanden aus der Asche seines
 Untergangs" heißt es im Profil der Band.
 
-<iframe src="https://www.youtube.com/embed/ZigbHyzHses" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="ZigbHyzHses" />
 
 ## We Lost The Sea - "A Gallant Gentleman" vom Album "Triumph And Disaster"
 
@@ -322,7 +322,7 @@ der Welt von Twin Peaks entsprungen. Beim Hören hüllt sie einen ein und
 begleitet einen auf der weiteren Reise. Dieses Stück ist auch auf der B-Seite
 des Open Language Samplers Vol. 1 zu finden.
 
-<iframe src="https://www.youtube.com/embed/ClSWxwwUYkw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="ClSWxwwUYkw" />
 
 ## Solkyri - "Time Away" vom Album "Mount Pleasant"
 
@@ -330,7 +330,7 @@ Von dieser Band werdet Ihr im Blog noch häufiger lesen. Ich habe sie vor Kurzem
 für mich entdeckt und feiere das gerade erschienene Werk "Mount Pleasant"
 momentan sehr. Solkyri stammen genau wie We Lost The Sea aus Sydney.
 
-<iframe src="https://www.youtube.com/embed/_1Y_XJq9zBs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="_1Y_XJq9zBs" />
 
 Hier kommen die versprochenen Playlisten:
 
@@ -340,7 +340,7 @@ Hier kommen die versprochenen Playlisten:
 
 ## Spotify
 
-<iframe src="https://open.spotify.com/embed/playlist/7xmA32cuOg5E2xHhhdqWlX" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="playlist/7xmA32cuOg5E2xHhhdqWlX" />
 
 Viel Spaß beim Hören. Bleibt Eurem Festival treu. Wer noch nicht genug hat und
 gerne weitere Bands aus diesem Genre kennenlernen möchte,

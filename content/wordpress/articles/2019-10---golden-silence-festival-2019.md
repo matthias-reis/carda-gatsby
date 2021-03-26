@@ -79,7 +79,7 @@ Das Golden Silence Festival findet zum ersten Mal statt. Long Distance Calling
 planen, damit in Serie zu gehen und in Zukunft "nur" noch als Veranstalter zu
 fungieren.
 
-<iframe src="https://www.youtube.com/embed/sFAf3ugFeGI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="sFAf3ugFeGI" />
 
 **Grafik &amp; Quelle:**
 [Golden Silence Festival / Long Distance Calling](https://www.skaters-palace.de/veranstaltungen/golden-silence-festival)

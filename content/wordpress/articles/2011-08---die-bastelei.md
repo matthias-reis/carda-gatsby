@@ -94,64 +94,62 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_0
 ### Seite A
 
 <h5>1.) Sigur Ròs - "Með Blóðnasir"
-<iframe src="https://www.youtube.com/embed/5U2zFQxbVa0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h5>
+ <YouTube id="5U2zFQxbVa0" /> </h5>
 
 #### 2.) Bon Iver - "Blood Bank"
 
-<h5><iframe src="https://www.youtube.com/embed/ltIozO0pBms" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<h5> <YouTube id="ltIozO0pBms" /> 
  ____ 3.)  Death Cab For Cutie - "Crooked Teeth"</h5>
 
-<h5><iframe src="https://www.youtube.com/embed/ar1_tEg4Nxs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-4.) And You Will Know Us By The Trail Of Dead - "Will You Smile Again?"
-<iframe src="https://www.youtube.com/embed/5yKeUQcNsdI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h5>
+<h5> <YouTube id="5yKeUQcNsdI" /> </h5>
 
 #### 5.) Black Rebel Motorcycle Club - "As Sure As The Sun"
 
-<iframe src="https://www.youtube.com/embed/pbT-ooPlSqQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="pbT-ooPlSqQ" />
 
 #### 6.) Die Sterne - "Themenläden"
 
-<iframe src="https://www.youtube.com/embed/RIAroIpnE0Q" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="RIAroIpnE0Q" />
 
 #### 7.) Calexico - "All The Pretty Horses"
 
-<iframe src="https://www.youtube.com/embed/WyX4xeEU_30" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="WyX4xeEU_30" />
 
 ### Seite B
 
 #### 8.) The Tallest Man On Earth - "Where Do My Bluebird Fly"
 
-<iframe src="https://www.youtube-nocookie.com/embed/zG2ccH8jlCA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="zG2ccH8jlCA" />
 
 #### 9.) Pixies - "Hey"
 
-<iframe src="https://www.youtube-nocookie.com/embed/tVCUAXOBF7w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="tVCUAXOBF7w" />
 
 #### 10.) Pavement - "Shady Lane"
 
-<iframe src="https://www.youtube-nocookie.com/embed/G-mQxmrZJn8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="G-mQxmrZJn8" />
 
 #### 11.) Two Gallants - "Despite What You´ve Been Told"
 
-<iframe src="https://www.youtube-nocookie.com/embed/_eVef-ub44k" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="_eVef-ub44k" />
 
 #### 12.) Junip - "To The Grain"
 
-<iframe src="https://www.youtube-nocookie.com/embed/QnrMLKJr7eY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="QnrMLKJr7eY" />
 
 ### Bonus
 
 #### 13.) The Tallest Man On Earth - "The Gardener"
 
-<iframe src="https://www.youtube-nocookie.com/embed/Wa3lyo_Eowc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="Wa3lyo_Eowc" />
 
 #### 14.) Gisbert zu Knyphausen - "Kräne"
 
-<iframe src="https://www.youtube-nocookie.com/embed/HUHCplJij4U" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="HUHCplJij4U" />
 
 #### 15.) Angus &amp; Julia Stone - "For You"
 
-<iframe src="https://www.youtube-nocookie.com/embed/9uWh-TlEQ4k" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="9uWh-TlEQ4k" />
 
 [Hier geht's zu Teil 2/2](/2011/08/der-mixtape-tausch-2/)
 

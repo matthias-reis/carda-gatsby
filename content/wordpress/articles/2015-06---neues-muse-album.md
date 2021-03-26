@@ -154,7 +154,7 @@ Weiterrocken! Anne &lt;3
 
 Hier sind für Euch Muse mit "Psycho"
 
-<iframe src="https://www.youtube.com/embed/UqLRqzTp6Rk?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="UqLRqzTp6Rk?rel=0&amp;showinfo=0" />
 
 _If you do not do what you're told to do when you're told to do it, you will be
 punished. Do you understand?_ _(Aye, sir)_ _If you leave my base without proper

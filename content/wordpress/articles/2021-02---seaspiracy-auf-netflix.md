@@ -85,7 +85,7 @@ gesundheitlichen Auswirkungen tierischer Produkte.
 Wenn Ihr mehr über Seaspiracy erfahren wollt, besucht am besten
 [die Webseite](https://www.seaspiracy.org/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1Q5CXN7soQg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <YouTube id="1Q5CXN7soQg" />
 
 Bilder &amp; Quelle/pictures &amp; source: Seaspiracy
 

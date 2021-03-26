@@ -61,7 +61,7 @@ Hier geht's zu [Teil 2/9](/2012/08/der-kater-und-der-leuchtturm/) der Galerie
 
 ## Song zu den Bildern: Gisbert zu Knyphausen - Kräne
 
-[youtube=http://www.youtube.com/watch?v=HUHCplJij4U]
+ <YouTube id="HUHCplJij4U" />
 
 _Diese Tage sind so fern von allem,_ _Hitze und Beton._ _Die große Stadt, sie
 liegt da_ _wie ein verwundeter Vogel._ _So auch ich, so auch ich,_ _ich denke

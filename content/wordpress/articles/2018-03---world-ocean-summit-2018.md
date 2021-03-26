@@ -96,7 +96,7 @@ Der Film von Guðni Th. Jóhannesson (Präsidentin von Island), Sylvia Earle
 Director , Umweltpolitik, The Coca-Cola Company) enthält eine starke Botschaft
 sowie den Aufruf, endlich zu handeln, bevor es zu spät ist.
 
-<iframe src="https://www.youtube.com/embed/CEkN1sXdnGk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="CEkN1sXdnGk" />
 
 Die Dokumentation steht in verschiedenen Formaten
 [zum Download bereit](https://www.digitalnewsagency.com/stories/12080) und ist

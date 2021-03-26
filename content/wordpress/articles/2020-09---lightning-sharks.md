@@ -194,7 +194,7 @@ zu spielen.
 
 ## Lightning Sharks 2020 ArcTanGent Set
 
-<iframe src="https://www.youtube.com/embed/TYz5Lg-XHAc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="TYz5Lg-XHAc" />
 
 <hr />
 
@@ -328,6 +328,6 @@ playing live again once it becomes safe to do so.
 
 ## Lightning Sharks 2020 ArcTanGent Set
 
-<iframe src="https://www.youtube.com/embed/TYz5Lg-XHAc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="TYz5Lg-XHAc" />
 
   

@@ -287,7 +287,7 @@ besteht die Band aus Jakob Hemström (Gitarre und Gesang), Oskar Nilsson
 
 ## "Oscillation" auf Spotify anhören
 
-<iframe src="https://open.spotify.com/embed/album/1IO8IdtECANuDb1AU4LIsQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+ <YouTube id="album/1IO8IdtECANuDb1AU4LIsQ" />
 
 ## "Oscillation" auf iTunes anhören
 
@@ -526,7 +526,7 @@ Axelsson (bass).
 
 ## Listen to "Oscillation" on Spotify
 
-<iframe src="https://open.spotify.com/embed/album/1IO8IdtECANuDb1AU4LIsQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+ <YouTube id="album/1IO8IdtECANuDb1AU4LIsQ" />
 
 ## Listen to "Oscillation" on iTunes
 

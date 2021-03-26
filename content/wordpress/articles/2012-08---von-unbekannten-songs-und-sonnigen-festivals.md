@@ -114,7 +114,7 @@ anzuhören.
 
 ## Hier sind für Euch: [Listener](http://listener.bandcamp.com/track/wooden-heart-poem) mit "Wooden Heart"
 
-[youtube=http://www.youtube.com/watch?v=K8k9rD7lx9c]
+ <YouTube id="K8k9rD7lx9c" />
 
 _WOODEN HEART (sea of mist called skaidan)_ _We’re all born to broken people on
 their most honest day of living_ _and since that first breath... We’ll need

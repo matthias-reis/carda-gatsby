@@ -67,12 +67,12 @@ Playbutton drücken.
 ### Caspian - "Ishmael" vom Album "On Circles"
 
 <p class="p1">Matze meint: "Vor zwei Monaten hatte ich schon die erste Singleauskopplung  [in unserer Liste](/2019/11/13-songs-fuer-den-dezember/).  Jetzt ist das wundervolle Album erschienen, das insgesamt fast an seinen genialen Vorgänger "Dust and Disquiet" heranreicht. 'Ishmael' ist der siebenminütige, gewaltige vorletzte Track. Er schaukelt sich über einige schräge Violinenklänge in altbekannte Post-Rock Höhen hoch und gewinnt mich damit bei jedem Hören mehr."
-<iframe src="https://www.youtube.com/embed/G4MR6_HvckU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+ <YouTube id="G4MR6_HvckU" /> </p>
 
 ### Alcest - "Protection" in der Ben Chisholm Version (Single)
 
 <p class="p1">Matzes Worte zu diesem Stück: "'Protection' ist eines der starken Metal/Post-Metal/Shoegaze Stücke vom 2019er Album 'Spiritual Instinct'. Ben Chisholm, Multiinstrumentalist bei Chelsea Wolfe, hat dies nun in seine Einzelteile zerlegt und elektronische Untertöne hinzugefügt. Das lässt den Song fast noch besser werden. Die Stimme von Alcest Sänger Neige wird noch eine Spur mehr betont."
-<iframe src="https://www.youtube.com/embed/Tn7wvu8R4Wk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+ <YouTube id="Tn7wvu8R4Wk" /> </p>
 
 ### Pearl Jam - "Dance Of The Clairvoyants" - Vorauskopplung aus dem Album "Gigaton"
 
@@ -84,12 +84,12 @@ kennen. Obwohl man den geliebten Sound natürlich auch wieder heraushören kann 
 wie könnte es anders sein.
 
 <p class="p1">Der Song startet mit nahezu Kasabian ähnlichen elektronischen Tunes bis Eddie Vedder und der Rest der Band  dann doch wieder ihr Ding machen. Was gut ist. Für sich genommen ist 'Dance Of The Clairvoyants' ein sehr gutes Stück Musik und für mich der perfekter Teaser für das kommende Album."
-<iframe src="https://www.youtube.com/embed/ss6mIGfyvXM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+ <YouTube id="ss6mIGfyvXM" /> </p>
 
 ### Tindersticks - "See My Girls" von der EP "See my Girls"
 
 <p class="p1">Matze hat sich über die neue Tindersticks EP sehr gefreut. "Die Briten haben es mir mit ihrem komplett eigenen Mix aus Indie Pop und Avantgarde irgendwie angetan. Vielleicht ist es die düstere, aber dennoch nicht tiefe, melancholische Stimme von Stuart Staples oder ihre experimentellen Rhythmen, die mich sogar manchmal vage an die Neubauten erinnern - gepaart mit Leonard Cohen. Ich weiß es nicht. 'See My Girls' ist wie das Stück von Alcest ebenfalls ein alter, aber vollkommen neu gedachter Bekannter aus dem Vorgängeralbum. Und 'No Treasure But Hope' war ja an sich schon etwas ganz Besonderes. Verpackt wurde die EP mit zwei weiteren komplett neuen Songs, die es sich definitiv auch zu hören lohnt."
-<iframe src="https://www.youtube.com/embed/8CWAtHcnNB0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+ <YouTube id="8CWAtHcnNB0" /> </p>
 
 ## Meine Auswahl
 
@@ -100,7 +100,7 @@ trägt den schönen Namen "Candy". Wunderbarer Post-Rock für das Jahr 2020. Ich
 hoffe sehr darauf, dass bald wieder ein komplettes neues Album von den Musikern
 aus Arizona kommt. Bis jetzt haben sie mich noch nie enttäuscht.
 
-<iframe src="https://www.youtube.com/embed/GPnqVsODSt0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="GPnqVsODSt0" />
 
 ### Algiers - "Dispossession" vom Album "There is no year"
 
@@ -110,7 +110,7 @@ Album "There is no year" zu. "Dispossession" sticht da hervor. Es klingt
 orchestraler, ja fast ein bisschen poppig. Auf eine gute Art. Der Gesang
 erinnert mich ein bisschen an Zeal and Ardor. Sehr schön.
 
-<iframe src="https://www.youtube.com/embed/bwKTIQuH5ug" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="bwKTIQuH5ug" />
 
 ### An Isolated Mind - "Afraid Of Dissonance" vom Album "I'm Losing Myself"
 
@@ -119,7 +119,7 @@ liefern mit ihrem neuen Album das ab, was unsere Seelen aufwühlt. Sie reißen u
 hinab in einen Strudel aus Gebrüll und Düsternis. Musikalisch durchdachte Wellen
 tragen uns davon. Klarinettenklänge begleiten uns auf unserer Reise.
 
-<iframe src="https://www.youtube.com/embed/bQXiG6J9D3I" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="bQXiG6J9D3I" />
 
 ### And You Will Know Us By The Trail Of Dead - "Into The Godless Void" vom Album "Into The Godless Void And Other Stories"
 
@@ -138,7 +138,7 @@ als hätten sich Conrad Keeley und Co. dieses Mal tatsächlich wiedergefunden. I
 werde ihnen auf jeden Fall auch live eine neue Chance geben, wenn sich die
 Gelegenheit bietet.
 
-<iframe src="https://www.youtube.com/embed/qwPvnMdAXyA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="qwPvnMdAXyA" />
 
 ## Valentins Auswahl
 
@@ -150,15 +150,15 @@ Er wurde auf dem ihrem dritten Album 'Colour' aus dem Jahr 2017 verewigt.  Für
 mich ist er pure Emotion in Musikgestalt. Fjørt sind übrigens beim legendären
 Hamburger Label Grandhotel van Cleef zu Hause!"
 
-<iframe src="https://www.youtube.com/embed/UqsDrvNz-N4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="UqsDrvNz-N4" />
 
 <p class="p1">"Wunderbare Musik von einem Künstler aus Nashville, Tennessee, von dem ich unbedingt noch mehr hören möchte! Devon Gilfillian ist eine Empfehlung meines Vaters!"
-<iframe src="https://www.youtube.com/embed/-ahIUlfWiXA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+ <YouTube id="-ahIUlfWiXA" /> </p>
 
 ### The Specials - "Black Skin Blue Eyed Boys" vom Album "Encore"
 
 <p class="p1">"Mein dritter Song diesen Monat stammt von der britischen Ska-Band The Specials. Die Musiker aus Coventry machen bereits seit 1977 gemeinsam Musik. 'Black Skin Blue Eyed Boys' ist auf dem letzten Album "Encore" von 2019 erschienen -  das Stück kommt sehr funky daher, wie ich finde."
-<iframe src="https://www.youtube.com/embed/BUVHz-HwR7c" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+ <YouTube id="BUVHz-HwR7c" /> </p>
 
 ### Incubus "Here In My Room" vom Album "A Crow Left Of The Murder"
 
@@ -167,11 +167,11 @@ Room' begleitet mich schon seit vielen Jahren. Der Song ist einfach wunderschön
 Er stammt vom für mich besten Album der Kalifornier 'A crow left of the murder',
 das im Jahr 2004 erschienen ist."
 
-<iframe src="https://www.youtube.com/embed/0IlPlKBXRHE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="0IlPlKBXRHE" />
 
 ## Hier findet Ihr unsere Playlist auf Spotify
 
-<iframe src="https://open.spotify.com/embed/playlist/2htD7IJ5xflkNeQWb79MLx" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="playlist/2htD7IJ5xflkNeQWb79MLx" />
 
 ## iTunes Fanboys✶girls werden hier glücklich
 

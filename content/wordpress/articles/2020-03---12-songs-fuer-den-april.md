@@ -70,7 +70,7 @@ dass die neue Platte so wunderbar an die alten Zauberscheiben unserer geliebten
 Schotten anknüpft. Für mich kommt "A Celebration Of Endings" genau im richtigen
 Moment. Für Euch habe ich "End Of" auf die Liste gesetzt.
 
-<iframe src="https://www.youtube.com/embed/TgYW2yEp20A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="TgYW2yEp20A" />
 
 ## 2. Sejd - "Stella" (Single)
 
@@ -80,7 +80,7 @@ und freue mich schon auf mehr. Warnung: Im Video sind helle, blitzende Bilder zu
 sehen. Wer das nicht verträgt, hört sich den Song am besten in der Playlist
 weiter unten an.
 
-<iframe src="https://www.youtube.com/embed/yh_vMZ8aTSQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="yh_vMZ8aTSQ" />
 
 ## 3. Toundra - "II. Akt" vom Album "Das Cabinet des Dr. Caligari"
 
@@ -93,7 +93,7 @@ funktionieren dafür auch ganz gut als eigenständige Songs. Ein sehr spannendes
 Projekt, wie ich finde. Wie bei so gut wie jedem Post-Rock Stück der Hinweis:
 Bitte ganz anhören - in diesem Fall sogar am besten die ganze Platte."
 
-<iframe src="https://www.youtube.com/embed/OfxXVVt9TY8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="OfxXVVt9TY8" />
 
 ## 4. From Overseas - "Melancholic Objects" von der EP "Melancholic Objects"
 
@@ -104,7 +104,7 @@ Ambient/Drone/Post-Rock/Guitar-Looping Projekts ist dennoch unglaublich
 abwechslungsreich. Wem dieses Stück gefällt, sollte sie auf alle Fälle komplett
 gehört haben.
 
-<iframe src="https://www.youtube.com/embed/0Uy6dYgGf9o" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="0Uy6dYgGf9o" />
 
 ## 5. Tricky feat. Marta - "Hate This Pain" von der EP "20, 20"
 
@@ -113,7 +113,7 @@ die 12. Der Opener "Hate This Pain" verbindet stilvolle Klaviermusik mit harten
 Lyrics. Martas souliger Gesang legt einen sanften Schleier über das Konstrukt.
 Übrigens lohnt es sich auch das Video anzusehen.
 
-<iframe src="https://www.youtube.com/embed/KpamY_XFzwU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="KpamY_XFzwU" />
 
 ## 6. Amanda Palmer - "My Favourite Things (Bushfire Edition)" vom Album "Amanda Palmer &amp; Friends present Forty-Five Degrees: Bushfire Flash Record"
 
@@ -128,7 +128,7 @@ großartigen Künstler⋆innen zusammengearbeitet. Es wurde durch den Support vo
 das indigene Netzwerk Firesticks Alliance, welches unter anderem die Verwaltung
 von Kulturlandschaft unterrichtet.
 
-<iframe src="https://www.youtube.com/embed/P_-vkguE8Go" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="P_-vkguE8Go" />
 
 ## 7. Fantasma &amp; Brent Hinds - "Morder para Sangrar" von der EP "Perpétua"
 
@@ -141,14 +141,14 @@ Herausgekommen ist ein gelassenes, ins Melancholische gehende Blues-Stück mit
 portugiesischem Text und Gitarren aus der Amerikanischen Wüste. Eine perfekte
 Kombination."
 
-<iframe src="https://www.youtube.com/embed/qlA5bov2oTc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="qlA5bov2oTc" />
 
 ## 8. Twenty One Pilots - "Chlorine" vom Album "Trench" (2018)
 
 Valentin ist Twenty One Pilots Fan der ersten Stunde: "'Chlorine' ist einer
 meiner Lieblingssongs vom aktuellen Album des Duos aus Columbus, Ohio."
 
-<iframe src="https://www.youtube.com/embed/eJnQBXmZ7Ek" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="eJnQBXmZ7Ek" />
 
 ## 9. Zack Hemsey - "Vengeance" vom Album "The Way" (2011)
 
@@ -161,7 +161,7 @@ Lyrics, Rhymes oder seine für mich ganz eigenen Industrial-Sound - ich kann
 seiner Musik nicht widerstehen. Dieses Stück stammt aus dem Soundtrack von 'The
 Equalizer' mit Denzel Washington."
 
-<iframe src="https://www.youtube.com/embed/3BE0D9geu2o" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="3BE0D9geu2o" />
 
 ## 10. Sparta - "Empty Houses" vom Album "Trust the River"
 
@@ -176,7 +176,7 @@ Hier die erste Vorauskopplung vom für April angekündigten Album 'Trust The
 River'. 'Empty Houses' setzt den bekannten Stil der Band fort, als hätte es
 keine Pausen gegeben."
 
-<iframe src="https://www.youtube.com/embed/YIaTkZEJNNM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="YIaTkZEJNNM" />
 
 ## 11. Mark Knopfler - "Nobodys Child" vom Album"Down The Road" (2018)
 
@@ -185,7 +185,7 @@ das neueste Album von Mark Knopfler von 2018 erst jetzt für mich entdeckt. Es
 ist wirklich wunderschön! Den einzigartigen gefühlvolle Sound des ehemaligen
 Dire Straits Gitarristen kann man eigentlich kaum in Worte fassen."
 
-<iframe src="https://www.youtube.com/embed/qL305ux-1VU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="qL305ux-1VU" />
 
 ## 12. Purcupine Tree "Trains" vom Album: "In Absentia"
 
@@ -201,7 +201,7 @@ das Ende Februar erschienene re-masterte Release seines Klassikers 'In Absentia'
 gestürzt. Mein Lieblingsstück von der Platte aus der guten alten Porcupine Tree
 Zeit ist 'Trains'".
 
-<iframe src="https://www.youtube.com/embed/D01JYdflODs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="D01JYdflODs" />
 
 ## Special Bonustrack: Astodan - "Likha" vom Album "Bathala"
 
@@ -212,11 +212,11 @@ Astodan Album "Bathala". Die komplette Platte gibt es am 3. April. Auf Spotify
 und iTunes gibt es das Stück nicht, darum teile ich mit Euch feierlich dieses
 Video.
 
-<iframe src="https://www.youtube.com/embed/ByImn0s5uFA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="ByImn0s5uFA" />
 
 ## Playlist in Spotify
 
-<iframe src="https://open.spotify.com/embed/playlist/6zh7aRzSDgkPItgAl8dWy3" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="playlist/6zh7aRzSDgkPItgAl8dWy3" />
 
 ## Playlist in iTunes
 

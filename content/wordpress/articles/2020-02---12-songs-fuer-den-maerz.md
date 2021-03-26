@@ -104,7 +104,7 @@ April nicht ein weiteres Stück Sternenhimmel enthält. Bis jetzt gibt es drei
 Vorauskopplungen von "die Sterne". Ich habe "Der Palast ist leer" für Euch
 ausgesucht.  Hört mal rein! Was meint Ihr?
 
-<iframe src="https://www.youtube.com/embed/xwzpX6FgzYE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="xwzpX6FgzYE" />
 
 ### Lee Ranaldo &amp; Raül Refree - "Names Of North End Women" (Single)
 
@@ -114,7 +114,7 @@ Raül Refree zusammengetan. Ihr solltet Euch das Werk auf jeden Fall anhören un
 beschäftigt Euch auch gerne gleich mit der Discographie dieser beiden
 musikalischen Schwergewichte (falls noch nicht getan) - es lohnt sich.
 
-<iframe src="https://www.youtube.com/embed/-tYRA2WAapg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="-tYRA2WAapg" />
 
 ### TWINS - "Library" vom neuen Album "Soon"
 
@@ -125,7 +125,7 @@ von MIKROKOSMOS23 besteht, konnte das so einiges sein. Erschienen ist das Ding
 jetzt auf Through Love Records. Besonders begeistert mich bis jetzt "Library" -
 Post-Hardcore, wie ich ihn mag.
 
-<iframe src="https://www.youtube.com/embed/9378MCH_6Yg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="9378MCH_6Yg" />
 
 ### Polaris - "Masochist" vom neuen Album "The Death Of Me"
 
@@ -134,7 +134,7 @@ ordentlich um. Seit 2017 gab es nichts Neues mehr, aber jetzt hatte ich endlich
 einen Grund, den Wikipedia-Eintrag zu aktualisieren: "The Death Of Me" ist da
 und haut mit Vollgas auf die Ohren!
 
-<iframe src="https://www.youtube.com/embed/jmU2HH0LHmY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="jmU2HH0LHmY" />
 
 ## Matzes Songs für den März
 
@@ -148,7 +148,7 @@ hinwegsehen. Der Song entfaltet seine Stärke zur Mitte hin und hat seine
 Höhepunkte am Ende - lasst Euch den gesungenen Chorus auf den Trommelfellen
 zergehen!"
 
-<iframe src="https://www.youtube.com/embed/LluWlHGvE2w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="LluWlHGvE2w" />
 
 ### Katatonia - "Laquer" Vorauskopplung vom kommenden Album "City Burials"
 
@@ -159,7 +159,7 @@ haben Katatonia ihre Härte komplett abgelegt. 'Laquer' lässt uns die
 instrumentale Qualität spüren - es entwickelt sich zu einem ruhigen, tragenden
 und Effekt-geladenen Stück - inklusive starker Stimme und genialen Momenten."
 
-<iframe src="https://www.youtube.com/embed/zGvZhRFBQ_I" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="zGvZhRFBQ_I" />
 
 ### Incubus "Our Love" (aktuelle Single)
 
@@ -169,7 +169,7 @@ noch  'Into the Summer' aus dem letzten Jahr einem Album zuordnen. Es bleibt
 also spannend. 'Our Love' ist für mich origineller, als 'Into The Summer'. Mich
 lässt das Stück auf eine hörbare Platte hoffen."
 
-<iframe src="https://www.youtube.com/embed/qe01GUiEGoo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="qe01GUiEGoo" />
 
 ### envy - "Statement Of Freedom" vom aktuellen Album "The Fallen Crimson"
 
@@ -182,7 +182,7 @@ hinten anhören. 'Statement Of Freedom' ist treibend, Action-geladen, an manchen
 Stellen etwas kitischig und gar nicht so düster, wie man das vielleicht von
 einigen Kolleg⋆innen aus Europa erwarten würde."
 
-<iframe src="https://www.youtube.com/embed/MmvsnyfeSwg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="MmvsnyfeSwg" />
 
 ## Valentins Songs für den März
 
@@ -192,7 +192,7 @@ einigen Kolleg⋆innen aus Europa erwarten würde."
 2019 erschienen Album 'Under The Sun' handelt es sich um ein wunderbares
 Blues-Stück."
 
-<iframe src="https://www.youtube.com/embed/SrbRMvYOvLg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="SrbRMvYOvLg" />
 
 ### The Slickee Boys - "Gotta Tell Me Why" vom Album "Uh Oh.. No Breaks!" (1985)
 
@@ -202,7 +202,7 @@ schon immer ein Gespür für gute Musik, die zeitlich perfekt zu den Ären passt
 in denen seine Geschichten spielen. The Slickee Boys ist eine fast vergessene
 Band aus Washington D.C., die von 75-91 existierte. Feinster Garage-Rock!"
 
-<iframe src="https://www.youtube.com/embed/DmiPajJU-Eo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="DmiPajJU-Eo" />
 
 ### Seether - "Betray And Degrade" - vom Album "Poison The Parish" (2017)
 
@@ -212,7 +212,7 @@ hatte ich in den letzten Jahren etwas aus den Augen verloren. Das erste Album
 charakteristischen Post-Grunge von Seether. Dieser Song kommt vom noch aktuellen
 Album von 2017 "Poison The Parish".
 
-<iframe src="https://www.youtube.com/embed/TTYrY-PGNuM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="TTYrY-PGNuM" />
 
 ### grandson - "Blood // Water" von der EP "A Modern Tragedy, Vol. 1" (2018)
 
@@ -222,12 +222,10 @@ kanadischer Sänger. Seine Texte sind oft politisch-aktivistisch. 'Blood //
 Water' von der EP 'A Modern Tragedy Vol. 1' aus dem Jahr 2018 ist beim Twenty
 One Pilots Label 'Fueled By Ramen' beheimatet."
 
-<iframe src="https://www.youtube.com/embed/Sk-U8ruIQyA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="Sk-U8ruIQyA" />
 
 <h3>Hier könnt Ihr unsere Liste bei Spotify hören
-<iframe src="https://open.spotify.com/embed/playlist/5IEj5A2OWAHLcEToYcNP9Q" width="300" height="380" frameborder="0"></iframe>
-iTunes Hörer⋆innen klicken hier
-<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-02-25-die-drei-von-der-bande/pl.u-gEeGS8RXNXl" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe></h3>
+ <YouTube id="playlist/5IEj5A2OWAHLcEToYcNP9Q" /> </h3>
 
 Hat Euch unsere Liste gefallen? Ihr findet jeden Monat eine neue hier im Blog.
 Infos über frische Beiträge gibt es einmal pro Woche

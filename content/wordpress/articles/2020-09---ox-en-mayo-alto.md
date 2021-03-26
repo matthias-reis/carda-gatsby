@@ -143,7 +143,7 @@ halten.
 
 ## Ox en Mayo Alto - "Los famosos días de la fiebre"
 
-<iframe src="https://www.youtube.com/embed/d0vvtn_1qGA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="d0vvtn_1qGA" />
 
 <hr />
 
@@ -248,6 +248,6 @@ curious about it and I will definitely keep you up to date.
 
 ## Ox en Mayo Alto - "Los famosos días de la fiebre"
 
-<iframe src="https://www.youtube.com/embed/d0vvtn_1qGA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="d0vvtn_1qGA" />
 
   

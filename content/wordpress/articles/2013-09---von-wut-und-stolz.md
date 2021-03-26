@@ -180,6 +180,6 @@ gefasst machen.
 
 _Drückt mir die Daumen. Ich werde weiter berichten._
 
-[youtube=http://www.youtube.com/watch?v=3ME46q5Qujo&amp;w=640&amp;h=360]
+ <YouTube id="3ME46q5Qujo&amp;w=640&amp;h=360" />
 
   

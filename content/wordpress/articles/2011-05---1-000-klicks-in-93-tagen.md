@@ -57,6 +57,6 @@ bereits.
 
 ## Song des Tages: Biffy Clyro - "Mountains"
 
-<iframe src="https://www.youtube.com/embed/NfzwM4pdyxU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="NfzwM4pdyxU" />
 
   

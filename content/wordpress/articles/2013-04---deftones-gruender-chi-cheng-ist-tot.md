@@ -121,7 +121,7 @@ loadingUrl="undefined" />
 
 #### **Deftones - Minerva**
 
-[youtube=http://www.youtube.com/watch?v=TYTt0-LpLbE]
+ <YouTube id="TYTt0-LpLbE" />
 
 _I get all numb_ _When she sings "It's over"_ _Such a strange numb_ _And it
 brings my knees to the earth_

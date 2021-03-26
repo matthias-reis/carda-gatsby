@@ -201,6 +201,6 @@ _ **Bis bald, ich werde weiter
 [berichten](/2013/09/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/)
 !** _
 
-[youtube=http://www.youtube.com/watch?v=hB-WHw6uMWg]
+ <YouTube id="hB-WHw6uMWg" />
 
   

@@ -144,7 +144,7 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_0
 
 Mit lieben Grüßen von Denise sind hier für Euch Berge mit "Meer aus Farben":
 
-<iframe src="https://www.youtube.com/embed/7rHWnRHd3lg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="7rHWnRHd3lg" />
 
 - [1][wyob - vegane mützen mit statement](/2015/04/vegane-haekelmuetzen-mit-statement/)
 - [2][berge - "meer aus farben"](https://www.youtube.com/watch?v=7rHWnRHd3lg)

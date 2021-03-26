@@ -152,6 +152,6 @@ Viel Spaß damit.
 
 ## Bowerbirds – "In Our Talons"
 
-[youtube=http://www.youtube.com/watch?v=AiqhuYe_Z70]
+ <YouTube id="AiqhuYe_Z70" />
 
   

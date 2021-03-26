@@ -43,6 +43,6 @@ Du liegst neben mir Bienen summen vorbei Der Bach plätschert Ein Grashalm
 kitzelt mich im Nacken Die Sonne wärmt die Haut Es riecht nach Heu Es ist
 Sommer, sagst Du
 
-[youtube=http://www.youtube.com/watch?v=skG78GmK74I]
+ <YouTube id="skG78GmK74I" />
 
   

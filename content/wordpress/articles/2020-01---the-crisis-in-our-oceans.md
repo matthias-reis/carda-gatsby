@@ -69,7 +69,7 @@ Lage immer wieder zu thematisieren. Nur durch schnelles Handeln, das Bekämpfen
 der Ursachen und den Ausbau der Meeresschutzgebiete können wir den Bewohnern der
 Ozeane helfen.
 
-<iframe src="https://www.youtube.com/embed/cQB4RAZVMf4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="cQB4RAZVMf4" />
 
 Zusammen mit dem 1,5-minütigen Film hat Greenpeace eine Petition veröffentlicht.
 Die Aktion soll die Regierungen dazu auffordern, sich für die Einrichtung von

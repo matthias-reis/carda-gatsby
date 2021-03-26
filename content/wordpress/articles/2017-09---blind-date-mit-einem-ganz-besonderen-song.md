@@ -82,7 +82,7 @@ Ich fange jetzt an und drücke die Abspieltaste meines Kassettenrekorders. Alle,
 die gerne mithören möchten, finden unter diesem Artikel ein kunstvolles Video\*.
 Oder, Ihr drückt einfach hier auf "play".
 
-<iframe style="float: right; margin: 6px 0 6px 6px;" src="https://www.youtube.com/embed/uh6Qla-OQ-M" width="300" height="169" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="uh6Qla-OQ-M" />
 
 <blockquote>
 
@@ -198,7 +198,7 @@ you to perch on I've got a feeder for you to perch on
 
 ## Eels – "I Like Birds" – Der Song
 
-<iframe src="https://www.youtube.com/embed/HJnbmUnNNYo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="HJnbmUnNNYo" />
 
 ## Teilnehmer⋆innen beim Blind Date mit "I like birds"
 

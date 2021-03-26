@@ -64,7 +64,7 @@ und zeigt sich nach wie vor gerne mit ausgefallenen Body Paintings. Sein
 instrumentales Soloalbum "Chrystal Machete" ist 2016 erschienen. 2018 folgte
 "Matadors And Daughters".
 
-<iframe src="https://www.youtube.com/embed/hhK3yAPcXlA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="hhK3yAPcXlA" />
 
 ## Tubeway Army &amp; Gary Numan - "Me, I Disconnect from You" vom Album "Replicas" (1979)
 
@@ -72,7 +72,7 @@ Synthie-Pionier und Industrial-Experimentalist Gary Newman gründete sein Projek
 Tubeway Army bereits Anfang der 1970er. Nach einer längeren Auszeit von Mitte
 der 1980er bis 1994 kam er mit wesentlich düsterer Musik zurück.
 
-<iframe src="https://www.youtube.com/embed/IxF6aFrCw7w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="IxF6aFrCw7w" />
 
 ## Siouxsie &amp; The Banshees - "Cities In Dust" vom Album "Tinderbox" (1986)
 
@@ -81,7 +81,7 @@ obwohl ein Plattenvertrag noch lange auf sich warten ließ. Im Dunstkreis von
 Iggy Pop, Roxy Music, bei deren Konzert sie sich kennenlernten und den Sex
 Pistols gehörten sie fest zur Londoner Szene der später 1970er Jahre.
 
-<iframe src="https://www.youtube.com/embed/wsOHvP1XnRg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="wsOHvP1XnRg" />
 
 ## Joy Division - "Disorder" vom Album "Unknown Pleasures" (1979)
 
@@ -89,7 +89,7 @@ Im selben Jahr (1976) wie die Siouxies gründeten sich auch Joy Division. Mit de
 tragischen Ende von Sänger Ian Curtis kam auch das Ende der Band, die sich 1980
 als New Order neu gründete.
 
-<iframe src="https://www.youtube.com/embed/fhCLalLXHP4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="fhCLalLXHP4" />
 
 ## Bauhaus - "Dark Entries" vom Album "In the Flat Field" (1980)
 
@@ -97,7 +97,7 @@ Die britischen Dark Waver machten mit progressiver und finsterer Musik auf sich
 aufmerksam, die gerne auch mal ins Experimentelle kippte. Mit ihrem dunklen
 Make-up und der schwarzen Kleidung prägten sie die Szene nachhaltig.
 
-<iframe src="https://www.youtube.com/embed/N8n6k8QcU3k" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="N8n6k8QcU3k" />
 
 ## The Cure - "A Forest" vom Album "Seventeen Seconds" (1980)
 
@@ -105,7 +105,7 @@ Robert Smith gründete The Cure im zarten Alter von 17 Jahren. Nach über 40
 Jahren Bandgeschichte hat die Gruppe die unterschiedlichsten musikalischen
 Epochen durchlebt und beeinflusst noch heute zahlreiche Musiker⋆innen.
 
-<iframe src="https://www.youtube.com/embed/xik-y0xlpZ0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="xik-y0xlpZ0" />
 
 ## The Human League - "Together in Electric Dreams" - Single (1981)
 
@@ -113,7 +113,7 @@ Die britische New Wave Band The Human League wurde zwischen 1981 und 1982
 gegründet. Die experimentierfreudigen Sheffielder ebneten den Weg für den
 heutigen Electro-Pop.
 
-<iframe src="https://www.youtube.com/embed/xz-ngnU96pk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="xz-ngnU96pk" />
 
 ## Idles - "Television" vom Album "Joy as an Act of Resistance" (2018)
 
@@ -121,7 +121,7 @@ Idles gibt es seit 2009. Von Bristol aus machten sie sich auf, die Post-Punk
 Welt im Sturm zu erobern. Thematisch beschäftigen sie sich mit den
 gesellschaftlichen Ungerechtigkeiten der heutigen Zeit.
 
-<iframe src="https://www.youtube.com/embed/GK0IoBb-nhM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="GK0IoBb-nhM" />
 
 ## New Order - "Temptation" vom Album "Movement" (1981)
 
@@ -130,7 +130,7 @@ Division. Ohne Ian Curtis gab sich die Band einem poppigeren Stil hin. Gitarrist
 Bernhard Sumner übernahm bei der Neugründung den Gesangspart. Die Band gilt als
 einer der Wegbereiter für die spätere House Music.
 
-<iframe src="https://www.youtube.com/embed/xxDv_RTdLQo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="xxDv_RTdLQo" />
 
 ## The Fat White Family - "Is It Raining In Your Mouth" vom Album "Champagne Holocaust" (2013)
 
@@ -138,7 +138,7 @@ Wenn man The Fat White Family mit einem Wort beschreiben müsste, wäre es auf
 jeden Fall "provokant". Vom Namen über die Texte bis hin zu den Plattencovers
 ist bei ihnen einfach alles auf Krawall gebürstet. Und das ist gut so.
 
-<iframe src="https://www.youtube.com/embed/2EH3sQR-GhI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="2EH3sQR-GhI" />
 
 ## The (International) Noise Conspiracy - "Communist Moon" vom Album "Armed Love" (2004)
 
@@ -149,7 +149,7 @@ Bandprojekt
 wieder live erleben durfte, hatte er von seiner puren Energie kein Stück
 eingebüßt.
 
-<iframe src="https://www.youtube.com/embed/iI3uKCgU4vs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="iI3uKCgU4vs" />
 
 ## Soft Cell - "Fun City" vom Album "Non-Stop Erotic Cabaret" (1981)
 
@@ -157,14 +157,14 @@ Die Synthie Popper aus Leeds beispielten Anfang der 1980er die Bühnen. Lange
 Zeit weitestgehend unbekannt, landeten Sie mit "Tainted Love" ihren wohl größten
 Hit.
 
-<iframe src="https://www.youtube.com/embed/hf4bOyKzHf8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="hf4bOyKzHf8" />
 
 ## Talking Heads - "Memories Can't Wait" vom Album "Fear of Music" (1979)
 
 Ein paar Kunststudent⋆innen treffen sich auf Rhode Island und gründen eine Band.
 Der Rest ist Geschichte.
 
-<iframe src="https://www.youtube.com/embed/nFfPSSLHdQY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="nFfPSSLHdQY" />
 
 ## Blondie - "Dreaming" vom Album "Eat To The Beat" (1979)
 
@@ -173,28 +173,28 @@ brachten sie einen mächtigen Stein ins Rollen, der noch heute rollt. Der Song
 "Dreaming" wurde 2001 re-mastert. Durch die HBO-Serie "The Deuce" erfreut er
 sich im Moment weltweit neuer Beliebtheit.
 
-<iframe src="https://www.youtube.com/embed/TU3-lS_Gryk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="TU3-lS_Gryk" />
 
 ## Cabaret Voltaire - "Sensoria" vom Album "Micro-Phonies" (1984)
 
 Cabaret Voltaire stehen für Industrial aus Sheffield, der den Techno bis heute
 beeinflusst. Benannt hat sich die Truppe nach dem Zürcher Cabaret Voltaire.
 
-<iframe src="https://www.youtube.com/embed/c2vCpT1H7u0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="c2vCpT1H7u0" />
 
 ## New Model Army - "Vagabonds" vom Album "Thunder and Consolation" (1989)
 
 Diese Punkband gründete sich bereits Ende der 1970er Jahre. Bis heute gibt es
 immer wieder neue Musik von den Briten.
 
-<iframe src="https://www.youtube.com/embed/yJjj0hHBvDg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="yJjj0hHBvDg" />
 
 ## Interpol - "Always Malaise (The Man I Am)" vom Album "Interpol" (2010)
 
 Und noch eine New Yorker Band. Melodisch-melancholischer Post-Punk wie wir ihn
 lieben. Hoffentlich gibt es bald das siebte Album!
 
-<iframe src="https://www.youtube.com/embed/b-Rzj3vy24c" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="b-Rzj3vy24c" />
 
 ## Editors - "All the Kings" vom Album "In Dream" (2015)
 
@@ -202,7 +202,7 @@ Wusstet Ihr, dass Editors mal im Vorprogramm von R.E.M. gespielt haben? Ich hör
 der Band seit ihrer Gründung im Jahr 2003 zu und freue mich über jeden neuen
 Song.
 
-<iframe src="https://www.youtube.com/embed/d2oSgaRb9Bg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="d2oSgaRb9Bg" />
 
 ## The Sound - "I Can't Escape Myself" vom Album "Jeopardy" (1980)
 
@@ -210,7 +210,7 @@ Aus den Ruinen der Outsiders gründeten sich in den Wirren der frühen 1980er
 Jahre The Sound. Leider dauerte die Bandgeschichte nicht lange an. Mit ihren
 bezaubernden Aufnahmen betören sie noch heute unsere Ohren.
 
-<iframe src="https://www.youtube.com/embed/M0FKEDexivA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="M0FKEDexivA" />
 
 ## Pixies - "Isla De Encanta" vom Album "Surfer Rosa &amp; Come On Pilgrim" (1988)
 
@@ -220,7 +220,7 @@ für mich einfach etwas ganz Besonderes. "Isla De Encanta" vom Album "Surfer Ros
 &amp; Come On Pilgrim" hatte ich schon längere Zeit nicht mehr gehört, daher ist
 es hier in der Liste gelandet.
 
-<iframe src="https://www.youtube.com/embed/3SmmSOsTTsQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="3SmmSOsTTsQ" />
 
 ## Sonic Youth - "Teen Age Riot" vom Album "Daydream Nation" (1988)
 
@@ -230,21 +230,21 @@ fasziniert: Die Band hatte schon so dermaßen viel erlebt und erschaffen zu
 dieser Zeit! Nach ihrer Auflösung 2011 machen die einzelnen Mitglieder weiter
 solo Musik.
 
-<iframe src="https://www.youtube.com/embed/6VHVn2k53PA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="6VHVn2k53PA" />
 
 ## Iggy Pop - "Dum Dum Boys" vom Album "The Idiot" (1977)
 
 Eine Legende dieser Typ. Mehr gibt es von meiner Seite an dieser Stelle nicht zu
 sagen.
 
-<iframe src="https://www.youtube.com/embed/-ioRWlG9PBQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="-ioRWlG9PBQ" />
 
 ## Hüsker Dü - "Something I Learned Today" vom Album "Zen Arcade" (1984)
 
 Hardcore Punk aus Minnesota, der die Alternative Szene stark geprägt hat - trotz
 des schwachen kommerziellen Erfolgs der Band.
 
-<iframe src="https://www.youtube.com/embed/EQfrHkjvx6g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="EQfrHkjvx6g" />
 
 ## Kleenex - "Do You Mind My Dream" vom Album "Liliput"
 
@@ -253,14 +253,14 @@ Lediglich Gitarristin Marlene Marder machte nach der Auflösung im Jahr 1984 noc
 weiter Musik - schade. Das Compilation Album Kleenex/Liliput (The Complete
 Recordings) wurde 1993 das erste Mal herausgebracht und 2001 re-released.
 
-<iframe src="https://www.youtube.com/embed/KU4YilqDIuI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="KU4YilqDIuI" />
 
 ## Gang of Four - "Damaged Goods" vom Album "Entertainment!" (1979)
 
 Ein paar Funky Vibes dürfen in dieser Liste selbstverständnlich auch nicht
 fehlen. Dafür sorgt die Gang Of Four.
 
-<iframe src="https://www.youtube.com/embed/fRjsBh_R3TQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="fRjsBh_R3TQ" />
 
 ## Nick Cave &amp; The Bad Seeds - "From Her to Eternity" vom Album "From Her to Eternity" (1984)
 
@@ -270,7 +270,7 @@ Nick Cave bis heute treu. Das neue Album "Ghosteen" ist erst vor Kurzem
 erschienen. Bei "From Her To Eternity" handelt es sich um das Debut von Nick
 Cave &amp; The Bad Seeds aus dem Jahr 1984.
 
-<iframe src="https://www.youtube.com/embed/Kep9YdtKMrc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="Kep9YdtKMrc" />
 
 ## Meat Puppets - "Lake of Fire" vom Album "Meat Puppets II"
 
@@ -281,7 +281,7 @@ schreiben. Dass können sie nämlich hervorragend. 2019 haben sie das mit ihrem
 aktuellen Album "Dusty Notes" mal wieder bewiesen. Dieses Stück Musik hier wurde
 übrigens auch mal von Nirvana gecovert. So schließt sich der Kreis.
 
-<iframe src="https://www.youtube.com/embed/9jPglNrZhkA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="9jPglNrZhkA" />
 
 Wenn Euch meine Liste gefällt, könnt Ihr sie jederzeit bei iTunes und Spotify
 anhören.
@@ -292,6 +292,6 @@ anhören.
 
 ## Spotify
 
-<iframe src="https://open.spotify.com/embed/playlist/4qj01sHMZGcb8Z6qvFPPIJ" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="playlist/4qj01sHMZGcb8Z6qvFPPIJ" />
 
   

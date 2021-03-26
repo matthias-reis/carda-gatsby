@@ -81,11 +81,11 @@ Dieser Artikel ist [Chi Cheng](http://oneloveforchi.com/) gewidmet. ♥
 
 ## Hier sind für Euch die Deftones mit "Roller Derby"
 
-[youtube=http://www.youtube.com/watch?v=An1D8BDJ_AA&amp;feature=player_embedded]
+ <YouTube id="An1D8BDJ_AA&amp;feature=player_embedded" />
 
 ## Und hier sind für Euch nochmal die Deftones mit "Rosemary"
 
-[youtube=http://www.youtube.com/watch?v=VyNBc-_Ctbk&amp;feature=player_embedded]
+ <YouTube id="VyNBc-_Ctbk&amp;feature=player_embedded" />
 
 ## Wichtige Links:
 

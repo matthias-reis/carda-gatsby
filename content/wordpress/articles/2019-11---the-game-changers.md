@@ -100,7 +100,7 @@ Rekorde zu sichern.
 
 > "Vegan Power!",
 
-<iframe src="https://www.youtube.com/embed/aL4lb6IevWw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="aL4lb6IevWw" />
 
 James Wilks stellt schlussendlich selbst seine Ernährung um und schafft es nicht
 nur, sich schnell wieder von seinen Verletzungen zu erholen -  er läuft zu neuen
@@ -125,7 +125,7 @@ Changer".
 
 ## Trailer "The Game Changers"
 
-<iframe src="https://www.youtube.com/embed/7JPGRGp4sSI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="7JPGRGp4sSI" />
 
 Hat Euch mein Filmtipp gefallen? Das freut mich! Um in Zukunft nichts mehr auf
 meinem Blog zu verpassen, [abonniert gerne meinen Newsletter](#newsletter). Ich

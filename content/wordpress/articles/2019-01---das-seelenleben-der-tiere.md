@@ -183,7 +183,7 @@ Schnauze.
 Schaut mal, wie viel Spaß die Krähe im Video beim Rodeln hat. Da stockt einem
 der Atem, oder?
 
-<iframe src="https://www.youtube.com/embed/1WupH8oyrAo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="1WupH8oyrAo" />
 
 Eigentlich sollte es eine Selbstverständlichkeit sein, dass Tiere Gefühle haben.
 Leider ist es jedoch auch in unserer heutigen Zeit noch an der Tagesordnung,

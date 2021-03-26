@@ -106,7 +106,7 @@ Ausbeutung von Tieren und der Zerstörung unserer Umwelt steckt, wird immer
 weiter enthüllt. Peinliche Reaktionen, wie die des bayerischen Bauernverbandes,
 sind der erste Weg zum Eingeständnis.
 
-<iframe src="https://www.youtube.com/embed/Zoazx5UTw6s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="Zoazx5UTw6s" />
 
 ## Update 25. Oktober 2019
 

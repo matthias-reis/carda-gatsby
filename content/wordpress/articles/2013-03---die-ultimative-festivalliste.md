@@ -400,7 +400,7 @@ Menge andere Festival-Geschichten. Ich wünsche Euch viel Spaß beim Stöbern!
 
 ## Ein schönes Stück Musik zur Einstimmung auf die Festival-Saison für Euch: Pearl Jam - Blood (Isle Of Wight 2012)
 
-[youtube=http://www.youtube.com/watch?v=wj0jz2adx6Q]
+ <YouTube id="wj0jz2adx6Q" />
 
 ## Hier noch ein kleiner Hinweis in eigener Sache:
 

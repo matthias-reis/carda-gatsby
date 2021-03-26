@@ -180,7 +180,7 @@ unter dem Artikel, per PN auf  [Facebook](http://www.facebook.com/cardamonchai)
 
 Frische Grüße _Eure Anne_
 
-[youtube=http://www.youtube.com/watch?v=lBz8iXdddqY&amp;w=640&amp;h=360]
+ <YouTube id="lBz8iXdddqY&amp;w=640&amp;h=360" />
 
 ---
 

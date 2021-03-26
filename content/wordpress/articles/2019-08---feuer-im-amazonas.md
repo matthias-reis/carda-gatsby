@@ -62,7 +62,7 @@ August, dass zu dem traurigen Rekord von 72.843 Bränden nochmal 9.507 dazu
 gekommen seien. [<sup>1</sup>](#1) Seitdem konnte das Ausmaß nicht eingedämmt
 werden.
 
-<iframe src="https://www.youtube.com/embed/NDmx92PVJpk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="NDmx92PVJpk" />
 
 ## Gründe für die Feuer im Amazonas
 

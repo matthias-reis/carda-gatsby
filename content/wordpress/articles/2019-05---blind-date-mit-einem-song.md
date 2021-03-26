@@ -103,7 +103,7 @@ sozusagen live dabei bei der Entstehung des Rock 'n' Roll. Ich sage das ohne zu
 übertreiben oder anzugeben. Mich als seine Tochter hat das von Anfang an
 geprägt - mein Interesse für Musik wurde mir sozusagen in die Wiege gelegt.
 
-<iframe src="https://www.youtube.com/embed/rL7cJYSvvi8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="rL7cJYSvvi8" />
 
 ## Musik in der Kindheit
 
@@ -226,7 +226,7 @@ Fame aufgenommen, 2003 wurden sie bei den Grammys für Ihr Lebenswerk
 ausgezeichnet. Hier sind sie für Euch mit dem großartigen Song "Papa Was A
 Rolling Stone".
 
-<h4><iframe src="https://www.youtube.com/embed/nXiQtD5gcHU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<h4> <YouTube id="nXiQtD5gcHU" /> 
 Beim Blogger Blind Date mit einem Song sind dieses Mal dabei:</h4>
 
 [Gartenbaukunst](https://www.gartenbaukunst.net),

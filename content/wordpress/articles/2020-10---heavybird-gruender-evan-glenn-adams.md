@@ -340,7 +340,7 @@ erwarten, dass alle das Album hören können!
 
 ## "Caged Animal Blues" von Heavybird
 
-<iframe src="https://www.youtube.com/embed/p_fmlvVBXXE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="p_fmlvVBXXE" />
 
 ## Fußnote
 
@@ -612,7 +612,7 @@ hear my new album!
 
 ## "Caged Animal Blues" von Heavybird
 
-<iframe src="https://www.youtube.com/embed/p_fmlvVBXXE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="p_fmlvVBXXE" />
 
 ## Footnote
 

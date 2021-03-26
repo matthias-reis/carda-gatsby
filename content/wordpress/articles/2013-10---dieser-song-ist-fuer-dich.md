@@ -4,12 +4,12 @@ seoTitle: Herbstliche Schreibblockade - Dieser Song ist für Dich
 slug: dieser-song-ist-fur-dich-herbstliche-schreibblockade
 path: /2013/10/dieser-song-ist-fur-dich-herbstliche-schreibblockade/
 fileName: 2013-10---dieser-song-ist-fuer-dich.md
-description: Im Moment scheine ich an einer echten Schreibblockade zu leiden.
-  Doch woher kommt Sie und wie geht sie wieder weg? Dieser Song ist für Dich,
-  mein Herz.
-excerpt: Im Moment scheine ich an einer echten Schreibblockade zu leiden. Doch
-  woher kommt Sie und wie geht sie wieder weg? Dieser Song ist für Dich, mein
-  Herz.
+description:
+  Im Moment scheine ich an einer echten Schreibblockade zu leiden. Doch woher
+  kommt Sie und wie geht sie wieder weg? Dieser Song ist für Dich, mein Herz.
+excerpt:
+  Im Moment scheine ich an einer echten Schreibblockade zu leiden. Doch woher
+  kommt Sie und wie geht sie wieder weg? Dieser Song ist für Dich, mein Herz.
 focusKeyword: Schreibblockade
 labels:
   - Der Song
@@ -32,12 +32,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors: {}
-thumbnailId: "7391"
+thumbnailId: '7391'
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_10_p1000534__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_10_p1000534__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQEDCP/EACcQAAIBAwEIAgMAAAAAAAAAAAECAwAEERIFEyExQVFhcQYjFKHw/8QAGAEBAAMBAAAAAAAAAAAAAAAABAECAwX/xAAiEQACAgEDBAMAAAAAAAAAAAABAgARAwQTMSEiQbESUcH/2gAMAwEAAhEDEQA/AOeLC4e0u4Z4WKyRkMCDTDcwy7dWS8C/ZnJx+zSxHx5An0Kc/hF7HahjMAIjw1H+910cuIhd7GtsPXmP0Dh22Mh7T7ipcWzRSFWXiKzDatM+AMe6v9qXVptZvyLSJ4YA5B1nJx381STz7pSI+XInvTKBT5V1hnxoj82siPJ9LhSFDkdSBjpUtb5RbQRhoTofUxIbUcdCeRHoUUVidS69B5FfsMEF39TZdbUe9u2lnmU63LkRrhVzgYA7YAqHK8Txk7xS3M6QfHiiioGcqoFcy57uZ//Z
 subTitle: Herbstliche Schreibblockade
-  
 ---
 
 **Ich scheine im Moment leider unter einer Art Schreibblockade zu leiden,
@@ -139,6 +138,4 @@ heißt Sirens.
 Mathis, dieser Song ist für Dich.
 [Weißt Du noch](//2012/07/29/isle-of-wight-festival-2012/) ?
 
-[youtube=http://www.youtube.com/watch?v=qQXP6TDtW0w&amp;w=560&amp;h=315]
-
-  
+ <YouTube id="qQXP6TDtW0w" />

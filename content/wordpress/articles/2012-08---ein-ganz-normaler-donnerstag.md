@@ -86,6 +86,6 @@ Band habe ich während meines Türkei-Aufenthalts 2008 lieben gelernt.
 
 ## Hier sind für Euch Seksendört mit "Kara Gözlüm"
 
-<iframe src="https://www.youtube.com/embed/UGTOcif8Y7o" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="UGTOcif8Y7o" />
 
   

@@ -89,6 +89,6 @@ sorgen, dass Tiere unter unwürdigen Bedingungen leben müssen und schließlich 
 Menschenhand getötet werden, verzichten. Und sich für ein tierleidfreies Leben
 entscheiden. Doch nun genug geredet. Schaut Euch den Film an.
 
-<iframe src="https://www.youtube.com/embed/YoZ8af7eFy4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="YoZ8af7eFy4" />
 
   

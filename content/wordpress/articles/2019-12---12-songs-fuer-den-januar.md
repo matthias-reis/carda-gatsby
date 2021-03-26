@@ -80,7 +80,7 @@ veröffentlicht. Zuvor hat es ausschließlich Singles und EPs gegeben. Ich höre
 Moment sehr häufig die EP 'I II' aus dem Jahr 2005. Besonders gut gefällt mir
 darauf das Stück 'I'."
 
-<iframe src="https://www.youtube.com/embed/nTt6uIZ9lWI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="nTt6uIZ9lWI" />
 
 ### 2. Sepultura - "Ratamahatta" vom Album "Roots"
 
@@ -88,7 +88,7 @@ darauf das Stück 'I'."
 'Ratamahatta' vom Album 'Roots' von 1996 ist ein schönes Beispiel für Sepulturas
 einzigartigen Sound. Mehr braucht man dazu eigentlich nicht zu sagen."
 
-<iframe src="https://www.youtube.com/embed/NiwqRSCWw2g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="NiwqRSCWw2g" />
 
 ### 3. Red Hot Chili Peppers - "Desecration Smile" vom Album "Stadium Arcadium"
 
@@ -98,7 +98,7 @@ zurückgekehrt. Im Song 'Desecration Smile' vom vorerst letzten Chili Peppers
 Album mit John 'Stadium Arcadium' kommt auch sein wunderbarer Background-Gesang
 zur Geltung."
 
-<iframe src="https://www.youtube.com/embed/v-nNksBWxNI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="v-nNksBWxNI" />
 
 ### 4. Green Day - "Father Of All Motherfuckers" vom Album "Father Of All Motherfuckers"
 
@@ -107,7 +107,7 @@ Green Day! Zugegeben - an den neuen Rock 'n' Roll Style der Jungs muss man sich
 erst ein bisschen gewöhnen. Hat man das geschafft, rockt er richtig fett. Das
 gleichnamige Album zur Vorauskopplung ist für Februar 2020 angekündigt."
 
-<iframe src="https://www.youtube.com/embed/eXv00PJ9IQM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="eXv00PJ9IQM" />
 
 ## Matzes Auswahl
 
@@ -123,7 +123,7 @@ gespannt, wie es weitergeht mit Jack Grey - so wurde die neue Kooperation
 liebevoll von den Fans getauft. Obwohl das Stück ja eigentlich in Jacks
 derzeitige blaue Phase fällt."
 
-<iframe src="https://www.youtube.com/embed/o7_aeBQA5zc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="o7_aeBQA5zc" />
 
 ### 2. Mono &amp; A.A. Williams - "Exit In Darkness" von der EP "Exit In Darkness"
 
@@ -132,7 +132,7 @@ klingt, sollte sich unbedingt mit der EP auseinandersetzen, die sie in
 Zusammenarbeit mit A.A. Williams entstanden ist. Das hier ist die
 Vorauskopplung."
 
-<iframe src="https://www.youtube.com/embed/jb24oymji9Y" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="jb24oymji9Y" />
 
 ### 3. Intronaut - "Cubensis" vom Album "Fluid Existential Inversions"
 
@@ -141,7 +141,7 @@ Inversions', das am 28. Februar erscheinen soll. Intronauts ganz eigener
 Prog-Metal Stil mit Post-Metal und Mathrock Einflüssen kann man aus "Cubensis"
 eindeutig heraushören."
 
-<iframe src="https://www.youtube.com/embed/pt1ssDvrvw8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="pt1ssDvrvw8" />
 
 ### 4. Bohren und der Club of Gore - "Tief gesunken" vom Album "Patchouli Blue"
 
@@ -151,7 +151,7 @@ düsteren Klangteppich. Für mich passt er ziemlich gut zu einer einsamen,
 nächtlichen Autofahrt. Ich kann mir aber auch vorstellen, ihn beim Spaziergang
 über einen überfüllten Weihnachtsmarkt auf Noise Cancelling Kopfhörern zu hören.
 
-<iframe src="https://www.youtube.com/embed/CLWATH36bYA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="CLWATH36bYA" />
 
 ## Meine Auswahl
 
@@ -164,7 +164,7 @@ besser als der Erstling "Black Tundra". Es ist erst ein paar Tage her, seit es
 erschienen ist, läuft bei mir aber schon rund. Ich hoffe sehr, dass ich die Band
 bald mal live erleben kann. Bis es soweit ist, wird die Platte weiter gedreht.
 
-<iframe src="https://www.youtube.com/embed/HWeQDwHwQDA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="HWeQDwHwQDA" />
 
 ### 2. Billy Talent "Forgiveness I &amp; II" (Single)
 
@@ -174,7 +174,7 @@ zweiteilige Single, die für mich alles vereint, was die Band aus dem kanadische
 Mississauga ausmacht: Emotionen, Ausdruckskraft und musikalische Präzision. Ich
 bin schon sehr gespannt darauf, wie es weitergeht.
 
-<iframe src="https://www.youtube.com/embed/3p-CocVCq-s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="3p-CocVCq-s" />
 
 ### 3. Bask "Rid Of You" vom Album "III"
 
@@ -189,7 +189,7 @@ Seit ich diesen Tipp erhalten habe, sind jetzt einige Wochen vergangen und das
 Album hat sich inzwischen geradezu in meine Gehörgänge gefräst. Besonders
 beeindruckt hat mich "Rid Of You". Hört mal rein. Es lohnt sich.
 
-<iframe src="https://www.youtube.com/embed/1lONxOS6U4M" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="1lONxOS6U4M" />
 
 ### 4. Powder! Go Away - "Mom, It Doesn't Work" vom Album "Lost Happiness"
 
@@ -199,11 +199,11 @@ setzen die vier Musiker auf eine gekonnte Mischung aus verspielten und
 verträumten Melodien und bombastischen Klangwänden. Zum Reinkommen hört Ihr Euch
 am besten "Mom, It Doesn't Work" an - Vorsicht! Suchtgefahr!
 
-<iframe src="https://www.youtube.com/embed/N-kIcXxCmzI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="N-kIcXxCmzI" />
 
 ## Hier findet Ihr die Playlist auf Spotify
 
-<iframe src="https://open.spotify.com/embed/playlist/2s53Sj6xPHpvOg1LBi4onA" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="playlist/2s53Sj6xPHpvOg1LBi4onA" />
 
 ## iTunes Fans werden hier glücklich
 

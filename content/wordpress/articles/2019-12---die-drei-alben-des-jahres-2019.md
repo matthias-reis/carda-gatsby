@@ -81,7 +81,7 @@ oder "7empest" (
 [Hier im Blog zu finden in den Playlist für den Oktober 2019](/2019/09/12-songs-fuer-den-oktober/)
 ) zu begreifen, werde ich wohl noch ein paar Hördurchgänge brauchen."
 
-<iframe src="https://www.youtube.com/embed/q7DfQMPmJRI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="q7DfQMPmJRI" />
 
 ## Matze - "A Dawn To Fear" von Cult Of Luna
 
@@ -97,7 +97,7 @@ würde. Das Album vereint für ihn den vielfältigen Strauß aus Stimmungen, der
 Band ausmacht. Es perfektioniert für ihn die Ideen, welche die Band in ihrer
 inzwischen schon ein Weilchen andauernden Karriere entwickelt hat.
 
-<iframe src="https://www.youtube.com/embed/2cYtqwUso-g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="2cYtqwUso-g" />
 
 ## Anne - Russian Circles von "Blood Year"
 
@@ -120,7 +120,7 @@ darin bestätigt, dass es sich bei der Post-Metalband um einen meiner erklärten
 Favoriten handelt. Das Album hat für mich unbedingt eine Auszeichnung verdient
 und sollte in dieser Liste nicht fehlen.
 
-<iframe src="https://www.youtube.com/embed/9ANmCp69lD4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="9ANmCp69lD4" />
 
 Hat Euch unsere Auswahl gefallen? Das ist schön. Wir haben vor, Euch auch in
 Zukunft mit Musiktipps zu versorgen. Bleibt also am besten dran. Wer nichts

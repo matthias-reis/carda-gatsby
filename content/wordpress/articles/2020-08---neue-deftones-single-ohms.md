@@ -88,7 +88,7 @@ vor der Bande in ihrer Musik schwelgen können.
 
 ## "Ohms" von den Deftones hören
 
-<iframe src="https://www.youtube.com/embed/KUDbj0oeAj0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="KUDbj0oeAj0" />
 
 Das Foto habe ich 2013 auf dem [Rocknheim Festival](/2013/08/rocknheim-2013/)
 aufgenommen.

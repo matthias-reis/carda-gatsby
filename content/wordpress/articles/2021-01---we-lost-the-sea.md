@@ -366,7 +366,7 @@ weiter aufs Schreiben und Aufnehmen konzentrieren.
 
 ## We Lost The Sea beim Dunk!festival 2017
 
-<iframe src="https://www.youtube.com/embed/QyHhEJG9oZE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="QyHhEJG9oZE" />
 
 <hr />
 
@@ -660,7 +660,7 @@ and focus on writing and recording a new album.
 
 ## We Lost The Sea At Dunk!festival 2017
 
-<iframe src="https://www.youtube.com/embed/QyHhEJG9oZE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="QyHhEJG9oZE" />
 
 -->
 

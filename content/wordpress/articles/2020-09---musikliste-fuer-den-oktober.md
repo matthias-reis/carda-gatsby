@@ -78,7 +78,7 @@ einigen schwermetallischen Herrschaften. Ich gebe den Staffelstab weiter und
 > mit ihrer Raritäten-Sammlung 'Medium Rarities' einen raus. Ich habe mir das
 > Stück 'Fallen Torches' ausgesucht. Viel Spaß damit!"
 
-<iframe src="https://www.youtube.com/embed/Mqh_9g_UgI0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="Mqh_9g_UgI0" />
 
 ## Deftones - "Ohms" (Vorauskopplung vom Album "Ohms")
 
@@ -94,7 +94,7 @@ empfehlen kann. Hier sind Valentins Worte zum Song "Ohms":
 > die wohl keine andere Band rankommt. Ich bin mir sicher, dass das komplette
 > Album an dieser Stelle ganz bestimmt noch ausführlich besprochen wird."
 
-<iframe src="https://www.youtube.com/embed/KUDbj0oeAj0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="KUDbj0oeAj0" />
 
 ## Sumac "The Iron Chair" (Vorauskopplung vom Album "May You Be Held")
 
@@ -112,7 +112,7 @@ positive Worte:
 > hochinteressanten Musiker, der auch das Label 'Hydra Head' gegründet hat. Ein
 > weiterer heftiger Brocken Musik ist unter anderem 'The Iron Chair'."
 
-<iframe src="https://www.youtube.com/embed/FpyUaJvWMdY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="FpyUaJvWMdY" />
 
 ## Seether - "Liar" vom Album "Si Vis Pacem, Para Bellum"
 
@@ -126,7 +126,7 @@ einer neuen Veröffentlichung erfreut.
 > ohne sich dabei zu wiederholen'. Ich habe mich für den Titel 'Liar'
 > entschieden."
 
-<iframe src="https://www.youtube.com/embed/zt2MjrTZC7s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="zt2MjrTZC7s" />
 
 ## Briqueville - "Akte XII" (Vorauskopplung vom Album "Quelle")
 
@@ -144,7 +144,7 @@ Vorführung bringen. Ihr kennt die Band übrigens schon von der
 und aus meinem Bericht über das
 [DUNK! Festival 2017](/2017/06/dunk-festival-2017-eindruecke-und-bilder/).
 
-<iframe src="https://www.youtube.com/embed/7Jzo6rq_cNQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="7Jzo6rq_cNQ" />
 
 ## Gazpacho - "Fireworker" (Vorauskopplung vom Album "Fireworker")
 
@@ -155,7 +155,7 @@ beglückt. Das gleichnamige Album zur Single ist bald weltweit verfügbar und
 verspricht es nach nach dem etwas eingängigeren "Soyuz" von 2018 wieder richtig
 knallen zu lassen. Angekündigt sind 15- bis 20-minütige Opern.
 
-<iframe src="https://www.youtube.com/embed/N-MZJyvYu7o" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="N-MZJyvYu7o" />
 
 ## Idles - "Mr. Motivator" (Vorauskopplung vom Album "Ultra Mono")
 
@@ -168,7 +168,7 @@ hören. Anfangen könnt Ihr gerne mit dem neuen Album der Post-Punker, die sich
 wandern - wenn alle Stücke so geil sind, wie die ersten vier bis jetzt
 veröffentlichten.
 
-<iframe src="https://www.youtube.com/embed/YNCopmqsw1Q" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="YNCopmqsw1Q" />
 
 ## Will Butler - "Close My Eyes" (Vorauskopplung vom Album "Generations")
 
@@ -180,7 +180,7 @@ die Augen schließe, ist alles gut. Seine Stimme macht wirklich glücklich, oder
 Auf Youtube hat Will das Stück vor vier Wochen eingestellt. Abonniert dort am
 besten gleich mal seinen Kanal. Es lohnt sich.
 
-<iframe src="https://www.youtube.com/embed/0Cp8Cs-dWa0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="0Cp8Cs-dWa0" />
 
 ## Motorpsycho - "N.O.X.IV: Night of Pan" vom Album "The All Is One"
 
@@ -200,7 +200,7 @@ irren Werk hier.
 > Plätze meiner Song-Bestenliste dieses Jahres ein - 15:33 Minuten treibender
 > Musikgenuss der ganz besonderen Art."
 
-<iframe src="https://www.youtube.com/embed/QdKIh37ykgs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="QdKIh37ykgs" />
 
 ## JeGong - "Stable Off" Vorauskopplung vom Album "I"
 
@@ -214,7 +214,7 @@ neugierig.
 > rhythmisch monoton dahinfliessenden Thema. Damit passt das Stück perfekt zum
 > Kracher von Motorpsycho - es hilft dabei, wieder ein bisschen runterzukommen."
 
-<iframe src="https://www.youtube.com/embed/Qg16d2cG97Q" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="Qg16d2cG97Q" />
 
 ## Arab Strap – "The Turning Of Our Bones"
 
@@ -232,7 +232,7 @@ leider nicht in Sicht.
 > Die Lyrics klingen ist eine Voodoo-Beschwörungsformel, die Tote erwecken
 > soll."
 
-<iframe src="https://www.youtube.com/embed/f4CN6sxDvr0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="f4CN6sxDvr0" />
 
 ## Gorillaz &amp; Robert Smith - "Strange Timez"- Vorauskopplung vom Album "Song Machine"
 
@@ -247,11 +247,11 @@ bereits am 14. August veröffentlicht.
 > Track mal wieder ganz besonders. Er bewegt sich sicher zwischen Hip Hop und
 > New Wave."
 
-<iframe src="https://www.youtube.com/embed/bbA5p54Rw2M" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="bbA5p54Rw2M" />
 
 ## Playlist bei Spotify hören
 
-<iframe src="https://open.spotify.com/embed/playlist/40E0DM7igEaweVKPIaA4ug" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="playlist/40E0DM7igEaweVKPIaA4ug" />
 
 ## Playlist auf iTunes abspielen<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-09-25-rock-n-roll-vegan/pl.u-xojWFA70b0v" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
 

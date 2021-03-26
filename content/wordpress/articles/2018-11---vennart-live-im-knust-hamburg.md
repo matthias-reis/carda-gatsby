@@ -113,7 +113,7 @@ Erinnerungen, guter Musik und alter Freunde.
 Ein paar Bilder, die ich mit meinem Mobiltelefon aufgenommen habe, habe ich Euch
 mitgebracht. Und Vennarts neuestes Video. Viel Freude damit. Genießt es.
 
-<iframe src="https://www.youtube.com/embed/OOef0N1mbKU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="OOef0N1mbKU" />
 
 <Gallery name="2018-vennart" />
 

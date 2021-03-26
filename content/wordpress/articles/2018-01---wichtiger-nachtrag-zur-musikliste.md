@@ -104,7 +104,7 @@ selbstverständlich erscheint. Es ist einfach immer immer da! Das Ding hat also
 nicht nur einen Grammy gewonnen, sondern auch einen Platz auf meiner Liste
 verdient!
 
-<iframe src="https://www.youtube.com/embed/TRqiFPpw2fY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="TRqiFPpw2fY" />
 
 ### Das komplette Bob Dylan Album "Triplicate"
 
@@ -122,10 +122,10 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 />
 
 <h4>Das komplette Album von Japandroids "Near To The Wild Heart Of Life"
-<iframe src="https://www.youtube.com/embed/pSkrhQiwFcE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h4>
+ <YouTube id="pSkrhQiwFcE" /> </h4>
 
 <h4>"Walk It Back" vom Album "Sleep Well Beast" von The National
-<iframe src="https://www.youtube.com/embed/UrfwMlB9u_w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h4>
+ <YouTube id="UrfwMlB9u_w" /> </h4>
 
 ### "Ether" von Behind The Shadow Drops (Album "Harmonic", 2017)
 
@@ -134,7 +134,7 @@ Matze. Bei Behind The Shadow Drops handelt es sich um ein Solo-Projekt
 von 'Taka' Goto, dem Komponisten und Gitarristen unserer gemeinsamenen
 Lieblingsband MONO (Japan).
 
-<iframe src="https://www.youtube.com/embed/L6YnkaKx5NU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="L6YnkaKx5NU" />
 
 ### "Porcupine Dilemma" von The Chasing Monster (Album "Tales", 2017)
 
@@ -144,7 +144,7 @@ stammt von Matzes Lieblingssong-Liste 2017. Die Band kommt als eine meiner
 liebsten Post-Rock Bands auch schon in meiner ersten Liste vor. Und das darf sie
 auch.
 
-<iframe src="https://www.youtube.com/embed/mo9OV3PpN5Y" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="mo9OV3PpN5Y" />
 
 ### Godspeed You! Black Emperor mit "Anthem For Not State, Pt. III" vom Album "Luciferian Towers"
 
@@ -156,7 +156,7 @@ Montreal und Québec ist nicht weniger beeindruckend. Ihre Werke haben den
 modernen Post-Rock geprägt. Anthem For No State, Pt. III erschien 2017 auf der
 Platte Luciferian Towers.
 
-<iframe src="https://www.youtube.com/embed/x2aI8E_V-DU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="x2aI8E_V-DU" />
 
 ### "Black Sarcophargus" von Junius (Album "Eternal Rituals for the Accretion of Light", 2017)
 
@@ -164,7 +164,7 @@ Die Band aus Boston, Massachusetts gründete sich 2003 und liefert ehrlichen
 Shoegaze-Sound ab. Die neue Platte ist definitiv sehr hörbar. Besonders dieses
 Stück.
 
-<iframe src="https://www.youtube.com/embed/gpSsLb59B1o" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="gpSsLb59B1o" />
 
 ### "Clandestiny" vom Mastodon Album "Emperor of Sand"
 
@@ -173,21 +173,21 @@ Heavy Metal! Mastodon! Festival! Schlamm! Liebe! Die neue Platte war das, was
 Lieblingsliste und ist jetzt auch auf meiner. Ganz nebenbei bemerkt, haben
 Mastodon, genau wie die Foo Fighters, einen Grammy mit ihrer Platte abgeräumt.
 
-<iframe src="https://www.youtube.com/embed/ReNwGnD1S7U" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="ReNwGnD1S7U" />
 
 ### "Octavia" vom 2017 erschienenen Black Map Album "The Shadow"
 
 Die Post Hardcore Supergroup (Dredg, Far, Trophy Fire) haut mit diesem Ding
 wieder voll auf die 12 und trifft ins Schwarze! Meins!
 
-<iframe src="https://www.youtube.com/embed/yaSV3BBfDaA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="yaSV3BBfDaA" />
 
 ### "I Used To" vom 2017 erschienenen LCD Soundsystem Album "American Dream"
 
 Komisch, warum habe ich diesen Song nicht auf meiner Liste? Das Album läuft seit
 der Veröffentlichung im September 2017 bei mir rauf und runter.
 
-<iframe src="https://www.youtube.com/embed/zhTG2wM-r-g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="zhTG2wM-r-g" />
 
 Vielen Dank an dieser Stelle an Thomas von [Kokku](/2018/01/kokku-veganshop/),
 der so nett war, mich daran zu erinnern, dass ich Japandroids, The National und
@@ -207,20 +207,20 @@ ist auch ein ganz besonders Stück Musik, das müsst auch Ihr zugeben. Und mit
 "Every Country's Sun" haben sie im September ein Album veröffentlicht, das wir
 alle noch lange hören werden.
 
-<iframe src="https://www.youtube.com/embed/8ZocDT3TmAE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="8ZocDT3TmAE" />
 
 ### Zynic - "Neon Oblivion"
 
 Mein Dank geht an Hobbykosmonaut, der mir diesen Titel ans Herz gelegt hat.
 
-<iframe src="https://www.youtube.com/embed/xL9vFtoOmxo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="xL9vFtoOmxo" />
 
 ### Autolaser mit "Witching Hour"
 
 Das Lied des Jahres von Johannes hat es in sich. Hört es. Ihr werdet nicht mehr
 darauf verzichten wollen.
 
-<iframe src="https://www.youtube.com/embed/ZSF0FF4yU1A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="ZSF0FF4yU1A" />
 
 [Hier geht's zur ultimativen Songliste 2017](/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/)
 

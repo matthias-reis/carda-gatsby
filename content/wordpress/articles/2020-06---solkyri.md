@@ -222,7 +222,7 @@ Album nach "No House" (2011), "Are You My Brother?" (2013) und "Sad Boys Club"
 
 ## "Mount Pleasant" von Solkyri auf Spotify hören
 
-<iframe src="https://open.spotify.com/embed/album/34h6FFzDok76ad1O8UQxds" width="300" height="380" frameborder="0" data-mce-fragment="1"></iframe>
+ <YouTube id="album/34h6FFzDok76ad1O8UQxds" />
 
 ## "Mount Pleasant" von Solkyri auf iTunes hören
 
@@ -392,7 +392,7 @@ after "No House" (2011), "Are You My Brother? (2013) and "Sad Boys Club" (2015).
 
 ## Listen to "Mount Pleasant" by Solkyri on Spotify
 
-<iframe src="https://open.spotify.com/embed/album/34h6FFzDok76ad1O8UQxds" width="300" height="380" frameborder="0" data-mce-fragment="1"></iframe>
+ <YouTube id="album/34h6FFzDok76ad1O8UQxds" />
 
 ## Listen to "Mount Pleasant" by Solkyri on iTunes
 

@@ -56,7 +56,7 @@ Instagram-Gallerie für Euch. Viel Spaß damit!
 
 Hier sind für Euch Caspian mit "Gone In Bloom And Bough"
 
-<iframe src="https://www.youtube.com/embed/hkCoPRszZRI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="hkCoPRszZRI" />
 
 Die komplette Session könnt Ihr Euch übrigens
 [hier herunterladen](http://audiotree.tv/session/caspian/).

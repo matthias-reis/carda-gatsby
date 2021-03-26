@@ -164,14 +164,14 @@ lebendig auf den Müll geworfen. Von Seiten der Tierfabrik kam die Aussage, mehr
 in Richtung Tierschutz unternehmen zu wollen, doch die Realität sah ganz anders
 aus, wie dieses Video zeigt, wir erinnern uns:
 
-[youtube https://www.youtube.com/watch?v=z1HgNxk7e0w]
+ <YouTube id="z1HgNxk7e0w" />
 
 Auch in den Jahren 2010 - 2012 deckten Tierschützer immer wieder auf, wie die
 Mitarbeiter in den Wiesenhof-Massentierbetrieben über Leichen gehen:
 
-[youtube https://www.youtube.com/watch?v=Jz00U-yGYtk]
+ <YouTube id="Jz00U-yGYtk" />
 
-[youtube https://www.youtube.com/watch?v=HkBqOq9-HDo]
+ <YouTube id="HkBqOq9-HDo" />
 
 Inzwischen hat sich Wiesenhof den Tierschutz einfach kurzerhand mit Hilfe eines
 Labels "ins Boot"geholt. Die Aussage des Tierschutzbundes hierzu: _"Der Deutsche

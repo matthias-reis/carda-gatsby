@@ -174,6 +174,6 @@ haben! Ihr seid großartig!
 Hat Euch mein Beitrag neugierig gemacht? Das freut mich sehr! Hier ein Video zum
 Thema "wütende Veganer\*innen", das Ed vor einiger Zeit aufgenommen hat.
 
-<iframe src="https://www.youtube.com/embed/OMIsFajOCYk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="OMIsFajOCYk" />
 
   

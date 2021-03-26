@@ -109,7 +109,7 @@ komplexen Werken herauszufischen. Anne hat mir das Stück 'Run Like Hell' für
 unsere Liste vorgeschlagen. Inzwischen finde ich, dass es sich dabei um das
 aussagekräftigste von 'Ghosts IV' handelt."
 
-<iframe src="https://www.youtube.com/embed/_-BLflnCUv8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="_-BLflnCUv8" />
 
 ## Spotlights - "Part I" von der EP "We Are All Atomic"
 
@@ -121,7 +121,7 @@ Sound, der einen streckenweise tatsächlich immer wieder mal an Isis denken
 lässt. Der Song ist der Auftakt zu einer vierteiligen EP. Der Longplayer "Love
 &amp; Decay" aus dem Jahr 2019 ist ebenfalls durchaus empfehlenswert.
 
-<iframe src="https://www.youtube.com/embed/TaVC3rBMijc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="TaVC3rBMijc" />
 
 ## La Dispute - "Footsteps At The Pond" (Remix by Zeal &amp; Ardor) vom Remix Album "Panorama Remixed"
 
@@ -136,7 +136,7 @@ genialen Zeal &amp; Ardor völlig umgekrempelt haben. Dabei ist kein Stein auf
 dem anderen geblieben. Hört Euch unbedingt das komplette Album an, es schlummern
 einige Songschätze darauf."
 
-<iframe src="https://www.youtube.com/embed/DVWvHnJBLAU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="DVWvHnJBLAU" />
 
 ## Pixies - "On Graveyard Hill" (Album "Beneath The Eyrie")
 
@@ -145,7 +145,7 @@ Vinylbestellung ist noch gar nicht raus, aber digital läuft es bei mir im Momen
 auf Rotation. Zum Glück haben wir auf diesem Planeten Menschen wie Francis Black
 und seine Band.
 
-<iframe src="https://www.youtube.com/embed/E2o-65chdoc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="E2o-65chdoc" />
 
 ## The Strokes - "Bad Decisions" vom Album "The New Abnormal"
 
@@ -156,7 +156,7 @@ Normalität" schwafeln, sind sie schon weiter und besingen "The New Abnormal".
 Die Musiker um Julian Casablancas haben einfach schon immer gewusst, was wir uns
 wünschen und sie liefern es nach wie vor ab und zwar auf den Punkt.
 
-<iframe src="https://www.youtube.com/embed/5fbZTnZDvPA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="5fbZTnZDvPA" />
 
 ## Pearl Jam - "Quick Escape" vom Album: "Gigaton"
 
@@ -169,7 +169,7 @@ klassische Pearl Jam Passagen, die an die Zeit von 'Yield' erinnern. Bei einigen
 späteren Songpassagen musste ich sogar an Audioslave denken. Insgesamt hört man
 hier soliden Rock mit einigen Highlights"
 
-<iframe src="https://www.youtube.com/embed/GjeRrJljrHs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="GjeRrJljrHs" />
 
 ## Crippled Black Phoenix - The Partisan/Bella Ciao vom Live Album "We Shall See Victory"
 
@@ -185,7 +185,7 @@ Konzerts aus dem Jahr 2012 und zeigt Band und Publikum in bester Form und Laune.
 'Bella Ciao' wird mit einer rohen Version geehrt, die mich teilweise sogar an 
 Pogues &amp; Co. erinnert."
 
-<iframe src="https://www.youtube.com/embed/mMFPC2cnAzc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="mMFPC2cnAzc" />
 
 ## DJ Krush - "Doomsayer" vom Album "Trickster"
 
@@ -199,7 +199,7 @@ Künstlern wie Mos Def und DJ Shadow zusammen. Als ich erfuhr, dass er ein neues
 Album am Start hat, habe ich mich natürlich sehr gefreut. Ich habe mich für
 unsere Liste für den Song 'Doomsayer' entschieden."
 
-<iframe src="https://www.youtube.com/embed/2to5VZzY1gM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="2to5VZzY1gM" />
 
 ## Riverside - "Time Travellers" (Single Version von 2020)
 
@@ -209,7 +209,7 @@ Band eingelassen. Ich hoffe, es kommt bald mal wieder ein komplettes Album von
 der Progband aus Warschau. "Wasteland" von 2018 ist doch schon eine ganze Weile
 her.
 
-<iframe src="https://www.youtube.com/embed/S7UG2JZ6tRA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="S7UG2JZ6tRA" />
 
 ## Elephant Tree - "Bird" vom Album "Habits" (Vorauskopplung)
 
@@ -221,7 +221,7 @@ von Beginn an begeistert. Der Song hier erinnert mich stark an Bands wie die
 späten Katatonia oder The Pineapple Thief. Er kommt aber härter und direkter
 daher. Ich bin gespannt auf das Album. Es erscheint am 24. April."
 
-<iframe src="https://www.youtube.com/embed/jdKfohDIFUI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="jdKfohDIFUI" />
 
 ## Lich King - "Combat Mosh"
 
@@ -232,7 +232,7 @@ Amherst/Massachusetts. Es ist endlich mal wieder Zeit für ordentlichen Thrash
 Metal. Anthrax, Slayer, Exodus und die frühen Metallica sind als Einfluss nicht
 zu überhören, um nur ein paar Beispiele zu nennen. Viel Spaß damit!"
 
-<iframe src="https://www.youtube.com/embed/eb0D0-aMhpY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="eb0D0-aMhpY" />
 
 ## Michael Stipe - "No Time For Love Like Now"
 
@@ -241,7 +241,7 @@ Stück von Michael Stipe entdeckt. "Mein viertes Stück passt sehr gut zur
 aktuellen Lage, in der wir uns im Moment alle befinden. Michael Stipe von R.E.M.
 hat dieses Stück Herzschmerz in seinem Zuhause aufgenommen."
 
-<iframe src="https://www.youtube.com/embed/MYgpEcXf2S4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="MYgpEcXf2S4" />
 
 Gefällt Euch unsere Liste? Das freut uns sehr! Bei iTunes und Spotify könnt Ihr
 sie am Stück anhören. Hinweis: Das wunderbare Stück von Michael Stipe ist bei
@@ -254,6 +254,6 @@ den Streaming-Diensten nicht verfügbar, daher habe ich seine großartige Single
 
 ## 12 Songs für den Mai 2020 bei Spotify
 
-<iframe src="https://open.spotify.com/embed/playlist/60Gj0SHe4OYkCc8HoC1QLw" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="playlist/60Gj0SHe4OYkCc8HoC1QLw" />
 
   

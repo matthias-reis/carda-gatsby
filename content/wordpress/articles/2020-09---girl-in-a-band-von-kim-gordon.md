@@ -120,6 +120,6 @@ Das Stück "Murdered Out" von dieser Platte hat es 2019 auf meine
 Die gebundene deutsche Ausgabe von "Girl In A Band ist unter der ISBN
 9780062295897 am 2. April 2015 im Verlag Kiepenheuer &amp; Witsch erschienen.
 
-<iframe src="https://www.youtube.com/embed/8JGBNkLM9_8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="8JGBNkLM9_8" />
 
   

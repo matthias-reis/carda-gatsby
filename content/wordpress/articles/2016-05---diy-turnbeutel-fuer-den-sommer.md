@@ -94,7 +94,7 @@ ich bin so neugierig!
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26843400652_1256ed5a03_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26843400652_1256ed5a03_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26332008424_4ea0935b6f_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26332008424_4ea0935b6f_z__l.jpg"}]}
 />
 
-<iframe src="https://www.youtube.com/embed/fvIMFC3esDM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="fvIMFC3esDM" />
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

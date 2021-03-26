@@ -73,6 +73,6 @@ Hier geht's zu [_Teil 3/9_](/2012/07/glastonbury/)  der Galerie "England 2012"
 
 ## Musik zu den Bildern: Neil Young - Mirroball
 
-<iframe src="https://www.youtube.com/embed/i07fRWZrrEY" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="i07fRWZrrEY" />
 
   

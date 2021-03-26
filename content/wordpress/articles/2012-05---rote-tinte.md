@@ -114,10 +114,11 @@ _Dieser Text ist Justine gewidmet._
 
 **Song zum Text: Archive - Fuck You**
 
-[youtube=http://www.youtube.com/watch?v=A4gBzUwo6Iw] There’s a look on your face
-I would like to knock out See the sin in your grin and the shape of your mouth
-All I want is to see you in terrible pain Though we won’t ever meet I remember
-your name
+ <YouTube id="A4gBzUwo6Iw" /> 
+There’s a look on your face I would like to knock out
+See the sin in your grin and the shape of your mouth
+All I want is to see you in terrible pain
+Though we won’t ever meet I remember your name
 
 Can’t believe you were once just like anyone else Then you grew and became like
 the devil himself Pray to god I can think of a nice thing to say But I don’t

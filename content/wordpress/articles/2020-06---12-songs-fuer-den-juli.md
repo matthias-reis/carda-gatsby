@@ -87,7 +87,7 @@ musikalische Untermalung beigesteuert. In jedem Raum erwarten einen dort andere
 Klangimpression. Den beeindruckenden Food Soundtrack hat die Band diesen Monat
 als EP veröffentlicht."
 
-<iframe src="https://www.youtube.com/embed/ycn-6bgJi0w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="ycn-6bgJi0w" />
 
 ## Mr. Bungle - "USA" (Single)
 
@@ -101,7 +101,7 @@ handelt sich bei 'USA' um die erste neue Aufnahme der Mike Patton Band seit
 Pattons Stimme heraushört, die man so vielleicht vorher nicht kannte. 'USA' ist
 ein hochpolitisches Zeichen in Zeiten von Black Lives Matter und Corona."
 
-<iframe src="https://www.youtube.com/embed/lyAYIkfjFXQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="lyAYIkfjFXQ" />
 
 ## A. A. Williams - "Melt" (Vorauskopplung aus dem Album "Forever Blue")
 
@@ -113,7 +113,7 @@ dann zu einem zweiten Teil mit post-rockigem Instrumentalpart hochzuschrauben.
 Die Einflüsse und Gemeinsamkeiten aus der Zusammenarbeit mit Mono (Japan)
 klingen noch sehr schön nach."
 
-<iframe src="https://www.youtube.com/embed/PYDWOjegH7c" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="PYDWOjegH7c" />
 
 ## Sleepmakeswaves - "Time Wants A Skeleton" von der EP "No Safe Place"
 
@@ -133,7 +133,7 @@ Tonight" Moment bis Minute 3:20 vor."
 Was macht Matze da für Vorschläge? Hört Euch das komplette Werk an! Von vorne
 bis hinten! Wir haben uns lange genug darauf gefreut!
 
-<iframe src="https://www.youtube.com/embed/migkQDvwtMA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="migkQDvwtMA" />
 
 ## Covet - "Atreyu" vom Album "Technicolor"
 
@@ -143,7 +143,7 @@ und irrsinnig kreative musikalische Output des Trios Covet. Dieses wunderschöne
 Stücke Ohrenpflege stammt vom soeben veröffentlichten Album "Technicolor". Ihr
 müsst es Euch anhören.
 
-<iframe src="https://www.youtube.com/embed/EHF18Trrq8M" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="EHF18Trrq8M" />
 
 ## C. Diab - "Street Scenes" vom Album "White Whale"
 
@@ -153,7 +153,7 @@ als eingängig. Besonderes Highlight: Die mit Hilfe eines Geigenbogens gespielte
 Akustik-Gitarre. "White Whale" ist bereits das fünfte Album seit C. Diabs Debut
 im Jahr 2013.
 
-<iframe src="https://www.youtube.com/embed/q5NPhfsXZd8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="q5NPhfsXZd8" />
 
 ## Bibio - "A Couple Swim" vom Album "Sleep On The Wing"
 
@@ -163,7 +163,7 @@ Folk der 1960er Jahre. Der Künstler spielt jedoch ebenso gekonnt mit Elementen
 aus der elektronischen und experimentellen Ecke. "A Couple Swim" vom neuen Album
 "Sleep On The Wing" zeigt diesen Stilmix sehr plakativ.
 
-<iframe src="https://www.youtube.com/embed/XhZddJGPczw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="XhZddJGPczw" />
 
 ## Tricky feat. Marta "Fall Please" (Single)
 
@@ -174,7 +174,7 @@ Ambient und Techno der 1990 Jahr mit Soul-Anleihen und treibendem Beatgeländer.
 Eins ist sicher: Diese Platte wird bei mir nicht in der zweiten Reihe
 verstauben.
 
-<iframe src="https://www.youtube.com/embed/yAEiIF5parQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="yAEiIF5parQ" />
 
 ## Ghostpoet - "Whoe Is Meee" vom Album "Dark Days And Canapés"
 
@@ -190,7 +190,7 @@ Canapés' aus dem Jahr 2017."
 Am 1. Mai hat Ghostpoet übrigens seine neueste LP "I Grow Tired But Dare Not
 Fall Asleep' veröffentlicht. Auch hier lohnt sich das Reinhören.
 
-<iframe src="https://www.youtube.com/embed/9N1ZtVi6QCQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="9N1ZtVi6QCQ" />
 
 ## Richard D James - "Diskhat 1" von der EP "Computer Controlled Acoustic Instruments pt2"
 
@@ -200,7 +200,7 @@ kann, bin ich auf dieses Schmuckstück von dem von uns allen verehrten Richard D
 James aka Aphex Twin gekommen. Es stammt von seiner hochinteressanten EP
 'Computer Controlled Acoustic Instruments pt2' von 2015.
 
-<h3><iframe src="https://www.youtube.com/embed/8tz6F32KeBw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<h3> <YouTube id="8tz6F32KeBw" /> 
 deM atlaS - "Gratitude" vom Album "Bad Actress"</h3>
 
 Das Album, von dem dieses Lieblingstück aus Valentins Sammlung stammt, ist
@@ -211,7 +211,7 @@ gesellschaftskritisch. Der Rapper aus Saint Paul, Minnesota zählt Rap-Größen 
 Nas  aber auch Louis Armstrong, Billie Holiday und Hardcore Punk Bands wie Minor
 Threat zu seinen Einflüssen."
 
-<iframe src="https://www.youtube.com/embed/UWjmdF1Tb7g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="UWjmdF1Tb7g" />
 
 ## Ramones - "She's The One" vom Album "Road To Ruin"
 
@@ -220,10 +220,10 @@ auf Valentins Zettel stand. Er hat dazu einen echten Insider-Fact: "Das
 Musikvideo zu 'She's The One' wurde erst 2018 zusammen mit der '40th Anniversary
 Deluxe Edition' des Albums 'Road To Ruin' veröffentlicht."
 
-<iframe src="https://www.youtube.com/embed/Z5_fQHTW_Sk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="Z5_fQHTW_Sk" />
 
 <h3>12 Songs für den Juli bei Spotify hören
-<iframe src="https://open.spotify.com/embed/playlist/4RXyAdK8VzKoI4xCEhihrO" width="300" height="380" frameborder="0"></iframe></h3>
+ <YouTube id="playlist/4RXyAdK8VzKoI4xCEhihrO" /> </h3>
 
 <h3>12 Songs für den Juli bei iTunes hören
 <iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-06-25-die-drei-von-der-bande/pl.u-29k6F8b5452" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe></h3>

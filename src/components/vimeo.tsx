@@ -9,7 +9,7 @@ const Figure = styled.figure`
   margin: 0;
 `;
 
-const YoutubeContainer = styled.div`
+const VimeoContainer = styled.div`
   height: 0;
   padding-bottom: 56.25%;
   position: relative;
@@ -23,24 +23,21 @@ const YoutubeContainer = styled.div`
   }
 `;
 
-export const Youtube: React.FC<{ id: string; caption: string }> = ({
+export const Vimeo: React.FC<{ id: string; caption: string }> = ({
   id,
   caption,
 }) => {
   return (
     <Figure>
-      <YoutubeContainer>
+      <VimeoContainer>
         <iframe
-          title={`Youtube Video ${id}`}
-          src={`https://www.youtube.com/embed/${id}`}
+          title={`Vimeo Video ${id}`}
+          src={`https://player.vimeo.com/video/${id}`}
           frameBorder="0"
-          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
         />
-      </YoutubeContainer>
+      </VimeoContainer>
       {caption && <Caption>{caption}</Caption>}
     </Figure>
   );
 };
-
-export const YouTube = Youtube;

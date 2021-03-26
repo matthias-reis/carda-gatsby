@@ -165,6 +165,6 @@ hoffentlich spannenderen Themen zurückmelden.
 _ \_\_\_\_ _ **Zum Aufwachen (und Aufwärmen) sind hier für Euch die DEFTONES mit
 'Bored'**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-WdYo3WlETY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <YouTube id="-WdYo3WlETY" />
 
   

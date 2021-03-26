@@ -230,7 +230,7 @@ Sphaeros’ aktuelles Stück trägt den Namen "Possession". Es handelt sich dabe
 die zweite Vorauskopplung des gleichnamigen Albums. Es wird ab morgen (6.
 März 2020) in den Plattenläden und auf iTunes und Spotify erhältlich sein.
 
-<iframe src="https://www.youtube.com/embed/3as9wee425c" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="3as9wee425c" />
 
 <hr />
 

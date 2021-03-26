@@ -64,7 +64,7 @@ länger vorenthalten.
 
 ## Hier sind für Euch MUSE mit ihrem BBC Live Lounge Special:
 
-<iframe src="https://www.youtube.com/embed/hpjciAuKBT0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="hpjciAuKBT0" />
 
 Das zweite Video habe ich heute Morgen schon entdeckt. Es handelt sich um das
 offizielle Musik-Video zum Song 'I'm Shakin'' von Jack Whites aktueller Platte
@@ -78,6 +78,6 @@ mich, wenn ich in Euch gleich eine ähnliche Reaktion auslöse.
 
 ## Hier ist für Euch JACK WHITE mit 'I'm Shakin'':
 
-<iframe src="https://www.youtube.com/embed/XkcGuZHPbKk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="XkcGuZHPbKk" />
 
   

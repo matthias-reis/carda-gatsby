@@ -103,7 +103,7 @@ Bändern neben Geräuschen und stark verzerrten Gesprächen unter anderem auch
 buddhistische Bestattungsmusik. Mit dem Band wollte man damals den Feind zum
 Verlassen seiner Stellungen bringen.
 
-<iframe src="https://www.youtube.com/embed/_Jbc-e3I5eQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="_Jbc-e3I5eQ" />
 
 <hr />
 
@@ -181,6 +181,6 @@ conversations, there was also Buddhist funeral music on the tapes. The USA
 military then played the recordings to make their enemies give up their
 positions.
 
-<iframe src="https://www.youtube.com/embed/_Jbc-e3I5eQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="_Jbc-e3I5eQ" />
 
   

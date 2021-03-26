@@ -88,7 +88,7 @@ situationsbezogen. Außerdem bietet es den Neugierigen unter Euch einen schönen
 Einstieg in die Welt der Nubya Garcia. Die Künstlerin wurde mir übrigens von
 meinem werten Vater empfohlen. Herzlichen Dank nochmal an dieser Stelle!
 
-<iframe src="https://www.youtube.com/embed/cXJ9N9qLx0g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="cXJ9N9qLx0g" />
 
 ## Slowly Building Weapons – "Foal To Mare" vom Album "Echos"
 
@@ -101,7 +101,7 @@ sind? Genau, wir werden immer noch Slowly Building Weapons hören. Das Debüt de
 Shoegaze Truppe stammt übrigens aus dem Jahr 2007. Damals ging es bei der Bande
 um Nicholas Bowman noch etwas härter aber keinesfalls weniger musikalisch zu.
 
-<iframe src="https://www.youtube.com/embed/GemKz2mcxXU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="GemKz2mcxXU" />
 
 ## Mantis – "Hessian" (Single)
 
@@ -113,7 +113,7 @@ hoffe sehr, dass sich die aufeinanderfolgenden Singles bald zu einem Album als
 Gesamtkunstwerk zusammenfügen. Mir haben die Vorgänger "Mantis I", "Mantis II"
 und Magnolia schon sehr gut gefallen. Eine weitere LP wäre sicher kein Fehler.
 
-<iframe src="https://www.youtube.com/embed/HFpZ4pkI62U" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="HFpZ4pkI62U" />
 
 ## Mansur – "Amor Fati" vom Album "Karma"
 
@@ -126,7 +126,7 @@ Rede. Wir dürfen gespannt sein, ob uns das Album diese bringt. Mansur ist für
 sie das Transformationsgefäß, das Sie in diese nicht-physischen Welten führt.
 Ich rate Euch: Hört mal rein und lasst Euch ein bisschen mit davontragen.
 
-<iframe src="https://www.youtube.com/embed/FtV_kZmZIN0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="FtV_kZmZIN0" />
 
 ## Zeal &amp; Ardor – "At the Seams" von der EP "Wake of a Nation"
 
@@ -140,7 +140,7 @@ Ich übergebe an dieser Stelle an Matze.
 > der Song den ich daraus ausgewählt habe, spielt geschickt mit ruhigen vokalen
 > und harten Gitarren-lastigen Parts und ist mein Favorit des Monats."
 
-<iframe src="https://www.youtube.com/embed/FisNa2oyXtI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="FisNa2oyXtI" />
 
 ## Mogwai – Dry Fantasy (Vorauskopplung vom Album: "As The Love Continues")
 
@@ -161,7 +161,7 @@ unsere geliebten Post-Rock Pioniere schreiben.
 > wie Video machen Lust, endlich das ganze Album in Händen zu halten. Bis
 > zum 19. Februar müssen wir noch darauf warten."
 
-<iframe src="https://www.youtube.com/embed/55wY7XrGFzY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="55wY7XrGFzY" />
 
 ## John Frusciante – "Blind Aim" vom Album "Maya"
 
@@ -176,7 +176,7 @@ Noch ein Stück aus Matzes Kiste:
 > Gesang. 'Blind Aim' ist mit seinen zahlreichen Drum &amp; Bass Anleihen eines
 > der Highlights dieser überraschenden Platte."
 
-<iframe src="https://www.youtube.com/embed/xYB9AcXdvZk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="xYB9AcXdvZk" />
 
 ## Farees feat. Calexico – "Y'all Don't Know What's Goin On" vom Album "Border Patrol"
 
@@ -191,7 +191,7 @@ Und noch einer von Matze.
 > 'Border Control' des Gitarristen und Singer-Songwriters Farees absolut
 > hörenswert."
 
-<iframe src="https://www.youtube.com/embed/6QYrTyCWEXI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="6QYrTyCWEXI" />
 
 ## Nick Cave – "Euthanasia" vom Album "Idiot Prayer (Nick Cave Alone at Alexandra Palace)"
 
@@ -204,7 +204,7 @@ verschiedensten Genres zusammengetragen. Den Auftakt liefert Nick Cave.
 > weiteren Stücken auf seinem aktuellen Album 'Idiot Prayer (Nick Cave Alone at
 > Alexandra Palace)' zu finden."
 
-<iframe src="https://www.youtube.com/embed/-F4gUQbVdlo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="-F4gUQbVdlo" />
 
 ## Collapse Under The Empire – "Red Rain" vom Album "Everything We Will Leave Beyond Us"
 
@@ -220,7 +220,7 @@ haben ein neues Album? Ich bin weg! Lass uns nachher weiter chatten, mkay?!"
 > 'Everything We Will Leave Beyond Us' hört sich für mich etwas anders, aber
 > dennoch typisch CUTE an."
 
-<iframe src="https://www.youtube.com/embed/vtDw22sHze4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="vtDw22sHze4" />
 
 ## IAM – "CQFD"
 
@@ -230,7 +230,7 @@ diesem schönen und zugleich hässlichen Ort. Ihre Texte sind oft politisch und
 gesellschaftskritisch und der Beat von "CQFD" geht einem so schnell nicht mehr
 aus dem Kopf!
 
-<iframe src="https://www.youtube.com/embed/tfuNb30_O10" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="tfuNb30_O10" />
 
 ## Programm – "Epitaph For My Heart"
 
@@ -245,7 +245,7 @@ Hier kommt Valentins viertes Stück.
 > Monats. Zu erwähnen ist noch, dass es sich um eine Coverversion eines Stücks
 > der Bostoner Band Magnetic Fields handelt."
 
-<iframe src="https://www.youtube.com/embed/zMTtd0hmKHM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="zMTtd0hmKHM" />
 
 ## Sonderpick von Matze: Vennart – "Elemental" vom Album "In The Dead, Dead Wood"
 
@@ -269,7 +269,7 @@ den Link hören. Viel Freude mit dieser Perle! Hier kommt Matzes Aufmacher dazu:
 
 ## Unsere Dezember-Liste bei Spotify
 
-<iframe src="https://open.spotify.com/embed/playlist/5xdx9A1mosN2onTUgX4nnh" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="playlist/5xdx9A1mosN2onTUgX4nnh" />
 
 ## Unsere Dezember-Liste bei iTunes
 

@@ -102,7 +102,7 @@ Ein Bisschen hoffe ich ja noch darauf, dass sie sich beim Dunk Festival blicken
 Russian Circles live @ Kranhalle München November 2013
 [findet Ihr hier](/2013/11/russian-circles-live-kranhalle-munchen/).
 
-<iframe src="https://www.youtube.com/embed/ONzYMVrhTyk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="ONzYMVrhTyk" />
 
 _Für Vale_
 

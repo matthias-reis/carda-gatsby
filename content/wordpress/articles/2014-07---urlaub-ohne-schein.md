@@ -134,7 +134,7 @@ Gegenstände. Danke.
 Hier ist noch ein schönes Lied für Euch und im Anschluss zwei Eindrücke vom
 Soundgarden &amp; Black Sabbath Open Air in München.
 
-[youtube https://www.youtube.com/watch?v=sC2GjXMk7i4]
+ <YouTube id="sC2GjXMk7i4" />
 
 <RemoteImage alt={`Soundgarden`} size="large"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/) Soundgarden`}

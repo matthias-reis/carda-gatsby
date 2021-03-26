@@ -82,7 +82,7 @@ Interview nehmt!
 Stuttgarter Pelzfrei-Demo. Das war im Herbst 2013. Seitdem haben wir
 verschiedene Videoideen umgesetzt.
 
-<iframe src="https://www.youtube.com/embed/jAgMnYr3bfc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="jAgMnYr3bfc" />
 
 **Anne:** Habt Ihr früher schon zusammengearbeitet?
 
@@ -352,21 +352,21 @@ Hier ist der aktuelle Film der Unstumm Crew:
 
 ## "Gute Argumente, Fleisch zu essen"
 
-<iframe src="https://www.youtube.com/embed/vu0r6bqHOPM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="vu0r6bqHOPM" />
 
 ## Weitere im Interview genannte Videos
 
 ### "Was darf der Mensch?"
 
-### <iframe src="https://www.youtube.com/embed/NTKVGXgNID4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+### <YouTube id="NTKVGXgNID4" />
 
 ### Interview mit Anna Ferrari, Ausgangspunkt für das "Was darf der Mensch?"-Video Zukunft ohne Massentierhaltung
 
-<iframe src="https://www.youtube.com/embed/yVC_4hGvYbQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="yVC_4hGvYbQ" />
 
 ### "Widerstand vor den Toren Wiesenhofs"
 
-<iframe src="https://www.youtube.com/embed/p3FMK47tzCA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="p3FMK47tzCA" />
 
 Wer mehr über Unstumm Film erfahren möchte, kann dies
 [auf Hendriks und Alices Facebook-Seite tun](https://www.facebook.com/unstummfilm).

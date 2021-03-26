@@ -326,7 +326,7 @@ Menge wertvolle Informationen sowie
 
 ### Marc Bekoff bei den "Voiceless Awards" 2010
 
-<iframe src="https://www.youtube.com/embed/MEXnKdTwazM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="MEXnKdTwazM" />
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen
 Bestandteil meines Blogs etablieren. Meine Lesewut hat sich

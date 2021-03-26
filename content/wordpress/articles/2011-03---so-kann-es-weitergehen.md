@@ -35,6 +35,6 @@ gefeiert!
 
 ## Song des Tages: Cage The Elephant - "Aberdeen"
 
-<iframe src="https://www.youtube.com/embed/bZBmcSBoRAE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="bZBmcSBoRAE" />
 
   

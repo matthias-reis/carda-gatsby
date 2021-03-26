@@ -91,7 +91,7 @@ Vielleicht ist es ja dann draußen schon wieder ein kleines Bisschen wärmer.
 
 ## Song des Tages: PJ Harvey/Tom Yorke – "This Mess We´re In"
 
-[youtube=http://www.youtube.com/watch?v=GbYIiGu8duk]
+ <YouTube id="GbYIiGu8duk" />
 
 <h1 id="watch-headline-title"></h1>
 

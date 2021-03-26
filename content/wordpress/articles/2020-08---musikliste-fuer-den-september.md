@@ -90,7 +90,7 @@ mit "Cry Of Love". Matze hat die Anmoderation dazu verfasst.
 > genau wie die Mitglieder von Crippled Black Phoenix seit Jahren vegan. Zu
 > Willie verband ihn eine tiefe und innige Freundschaft."
 
-<iframe src="https://www.youtube.com/embed/g00BocCbels" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="g00BocCbels" />
 
 ## Motorpsycho - "The Same Old Rock (One Must Imagine Sisyphus Happy)" (Vorauskopplung vom Album "The All Is On")
 
@@ -107,7 +107,7 @@ Hier das zweite Stück von Matzes Shortlist:
 > Vorauskopplung fest. Und auf Motorpsycho kann man sich in der Regel
 > verlassen."
 
-<iframe src="https://www.youtube.com/embed/ax_BLe1N8Z8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="ax_BLe1N8Z8" />
 
 ## Perry Farrell - "Let's All Pray For This World (Unkle Reconstruktion, 9 LP Boxset erscheint im November)
 
@@ -124,7 +124,7 @@ ich vor Freude einen kleinen Luftsprung. Hier kommt sein Text dazu:
 > Genie und den damit einhergehenden ganz besonderen Vibe plötzlich irgendwie
 > etwas fehlt.
 
-<iframe src="https://www.youtube.com/embed/jpjVXBHdEIk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="jpjVXBHdEIk" />
 
 ## Biffy Clyro - "Cop Syrup" vom Album "A Celebration of Endings"
 
@@ -142,7 +142,7 @@ Matzes Ansage zu diesem Song:
 > Schreiausbrüchen bis hin zu orchestralen Traumsequenzen - ein ganz großer
 > Genuss."
 
-<iframe src="https://www.youtube.com/embed/csrAKlt8IMs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="csrAKlt8IMs" />
 
 ## Lotus - "Wither" von der EP "Emergence"
 
@@ -152,7 +152,7 @@ Internet kennengelernt habe. Ihr werde hier im Blog auf jeden Fall noch mehr
 von der aus vier ganz besonderen Songs bestehenden EP "Emergence". Hört am
 besten einfach selbst.
 
-<iframe src="https://www.youtube.com/embed/9Cg8V4rPlYM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="9Cg8V4rPlYM" />
 
 ## Beck - "Chemical" vom Album "Hyperspace"
 
@@ -165,7 +165,7 @@ Trickkiste. "Chemical" scheint aus einer anderen Welt zu stammen. Der Track
 findet seinen Weg in Richtung Hörschnecke und schraubt sich von dort aus direkt
 ins Gehirn. Viel Spaß damit.
 
-<iframe src="https://www.youtube.com/embed/OpPD3F0z4VE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="OpPD3F0z4VE" />
 
 ## Six Days Of Calm - "Loss" (Vorauskopplung vom Album "The Ocean's Lullaby")
 
@@ -176,7 +176,7 @@ sehr liebt, widerspiegelt. Es entstand während einer der schwierigsten Phasen
 seines Lebens. Die Vorauskopplung "Loss" lässt tief blicken und erhöht die
 Vorfreude auf das Gesamtwerk um ein Vielfaches.
 
-<iframe src="https://www.youtube.com/embed/DSMnZ3dtRkg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="DSMnZ3dtRkg" />
 
 ## Gojira - "Another World" (Vorauskopplung)
 
@@ -188,7 +188,7 @@ Ungerechtigkeit weiter in die Welt hinaus brüllen und mich damit ein kleines
 bisschen glücklicher machen. Hier sind für Euch Gojira mit "Another World". Ich
 empfehle Euch, das offizielle Video auf jeden Fall bis zum Schluss anzusehen.
 
-<iframe src="https://www.youtube.com/embed/iqrMFNMgVS0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="iqrMFNMgVS0" />
 
 ## Schizophrenia - "Structure Of Death" von der EP "Voices"
 
@@ -196,7 +196,7 @@ Weiter geht es mit neuem Thrash Metal aus Belgien, den Valentin aufgetan hat.
 Haltet Euch fest. Der Sound kickt ohne Kompromisse! Nach der ersten
 Schizophrenia EP vom 31. Januar, dürfen wir gespannt sein, wie es weitergeht!
 
-<iframe src="https://www.youtube.com/embed/8ugulQbV6OU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="8ugulQbV6OU" />
 
 ## Lamb Of God - "Memento Mori" vom Album "Lamb Of God"
 
@@ -211,7 +211,7 @@ Seine Worte dazu sprechen Bände:
 > diesen Jahres veröffentlichten neunten Album, dass auch auf den Bandnamen
 > hört."
 
-<iframe src="https://www.youtube.com/embed/hBj0-dIU8HI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="hBj0-dIU8HI" />
 
 ## Metallica "All Within My Hands" (Vorauskopplung vom kommenden Album S&amp;M 2)
 
@@ -228,11 +228,11 @@ unsere Liste gesetzt. Hier ist sein Opener zum Video:
 > Konzertfilm übrigens auch bei uns auf den Leinwänden, als dies noch problemlos
 > möglich war."
 
-<iframe src="https://www.youtube.com/embed/EcG-htmIZR0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="EcG-htmIZR0" />
 
 ## Unsere September-Playlist bei Spotify
 
-<iframe src="https://open.spotify.com/embed/playlist/4Fs316twb1xaWAzFndLXja" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="playlist/4Fs316twb1xaWAzFndLXja" />
 
 ## Unsere September-Playlist bei iTunes
 

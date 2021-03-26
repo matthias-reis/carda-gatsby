@@ -53,7 +53,7 @@ Gegenüber Variety berichtet er
 > geschickt. Sie kam sehr schnell auf uns zurück und meinte, dass sie dabei ist.
 > Wir konnten unser Glück kaum fassen!"
 
-<iframe src="https://www.youtube.com/embed/wf6VXXNjML0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="wf6VXXNjML0" />
 
 Der dramatische Dreiminüter endet mit der Aussage
 

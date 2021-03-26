@@ -40,6 +40,6 @@ Tagen Freiheit.
 
 ## Song des Tages: Incubus - "Wish You Where Here"
 
-<iframe src="https://www.youtube.com/embed/8295rOMvtQI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="8295rOMvtQI" />
 
   

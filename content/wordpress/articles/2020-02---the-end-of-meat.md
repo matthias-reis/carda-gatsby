@@ -90,7 +90,7 @@ ohne die Ausbeutung von Tieren aussehen kann. Er hinterfragt kritisch,
 beantwortet diverse Fragen zur Umstellung auf pflanzliche Kost und beleuchtet
 dabei ihre klaren Vorteile.
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/261392546" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="261392546" />
 
 [Auf der Homepage des Films](http://www.theendofmeat.com/watch.html) seht Ihr
 genau, wo Ihr den Film streamen könnt.

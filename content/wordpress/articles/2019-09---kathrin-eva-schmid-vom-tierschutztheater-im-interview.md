@@ -586,7 +586,7 @@ Tierschutzpartei bei der Münchener Stadtratswahl an.
 Anlässlich des 10-jährigens Jubiläums des Tierschutztheaters wurde im März
 folgendes Video veröffentlicht:
 
-<iframe src="https://www.youtube.com/embed/y3KXgpSidME" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="y3KXgpSidME" />
 
 **Fotos:** Tierschutztheater / Kathrin Eva Schmid privat. Das Bild im Header
 stammt aus dem Bild "Andromeda".

@@ -114,6 +114,6 @@ mich auf dem Laufenden!
 
 **Lukas:** Auf jeden Fall. Ich danke Dir!
 
-<iframe src="https://www.youtube.com/embed/9bhzuqbPVC4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="9bhzuqbPVC4" />
 
   

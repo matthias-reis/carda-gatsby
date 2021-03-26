@@ -134,6 +134,6 @@ beginne zu schreiben.
 
 ## Song des Tages: The Smiths – "Unlovable"
 
-<iframe src="https://www.youtube.com/embed/qD5ZJBfObr4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="qD5ZJBfObr4" />
 
   

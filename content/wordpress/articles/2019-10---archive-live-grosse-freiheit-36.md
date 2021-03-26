@@ -139,7 +139,7 @@ Melodien schenkt.
 
 <Gallery name="2019-10-21-archive-grosse-freiheit" />
 
-<iframe src="https://www.youtube.com/embed/A4gBzUwo6Iw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="A4gBzUwo6Iw" />
 
 -->
 

@@ -276,7 +276,7 @@ Album in Studiolänge.
 
 ## "Persona" von Lost in Kiev bei Spotify hören
 
-<iframe src="https://open.spotify.com/embed/album/2OWPbyhRv5zLXo2hyRsGjq" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="album/2OWPbyhRv5zLXo2hyRsGjq" />
 
 ## "Persona" von Lost in Kiev bei iTunes hören
 
@@ -516,7 +516,7 @@ current line-up (Guitar: Dimitri Denat, guitar &amp; synth: Maxime Ingrand, bass
 
 ## Listen to "Persona" by Lost in Kiev on Spotify
 
-<iframe src="https://open.spotify.com/embed/album/2OWPbyhRv5zLXo2hyRsGjq" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="album/2OWPbyhRv5zLXo2hyRsGjq" />
 
 ## Listen to "Persona" by Lost in Kiev on iTunes
 

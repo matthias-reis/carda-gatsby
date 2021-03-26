@@ -73,6 +73,6 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_0
 
 Beulah - If We Can Land A Man On The Moon, Then Surely I Can Win Your Heart
 
-[youtube=http://www.youtube.com/watch?v=SZKFyxCB2Is]
+ <YouTube id="SZKFyxCB2Is" />
 
   

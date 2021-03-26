@@ -1637,6 +1637,10 @@
         "message": "unknown: Expected corresponding JSX closing tag for <li> (133:0)"
       },
       {
+        "path": "https://cardamonchai.com/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/",
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (168:36)"
+      },
+      {
         "path": "https://cardamonchai.com/2018/02/choclate-vegane-schokolade-aus-hamburg/",
         "message": "unknown: Expected corresponding JSX closing tag for <li> (106:0)"
       },
@@ -1674,7 +1678,7 @@
       },
       {
         "path": "https://cardamonchai.com/2018/12/musik-2018/",
-        "message": "unknown: Unterminated JSX contents (137:16)"
+        "message": "unknown: Unterminated JSX contents (133:16)"
       },
       {
         "path": "https://cardamonchai.com/2019/01/10-gruende-warum-es-ok-ist-an-sich-zu-arbeiten/",
@@ -1682,7 +1686,7 @@
       },
       {
         "path": "https://cardamonchai.com/2019/01/10-songs-fuer-den-februar/",
-        "message": "unknown: Unterminated JSX contents (55:16)"
+        "message": "unknown: Unterminated JSX contents (39:16)"
       },
       {
         "path": "https://cardamonchai.com/2019/04/10-tipps-wie-du-deine-nerven-schonst/",
@@ -1697,12 +1701,20 @@
         "message": "unknown: Expected corresponding JSX closing tag for <sub> (12:86)"
       },
       {
+        "path": "https://cardamonchai.com/2019/08/12-songs-fuer-den-september-2019/",
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (28:71)"
+      },
+      {
         "path": "https://cardamonchai.com/2019/10/tierversuche-in-deutschland/",
         "message": "unknown: Unexpected token, expected \"}\" (15:21)"
       },
       {
         "path": "https://cardamonchai.com/2019/10/archive-live-grosse-freiheit-36/",
         "message": "unknown: Unexpected token, expected \"}\" (17:5)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/11/13-songs-fuer-den-dezember-2019/",
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (22:72)"
       },
       {
         "path": "https://cardamonchai.com/2019/12/10-tipps-gegen-negativitaet/",

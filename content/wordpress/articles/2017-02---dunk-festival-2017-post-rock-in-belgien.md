@@ -210,7 +210,7 @@ Ich freue mich jetzt weiter und Ihr dürft so lange ein Bisschen Musik hören.
 Hier sind für Euch AND SO I WATCH YOU FROM AFAR mit Beautiful Universe Master
 Champion.
 
-<iframe src="https://www.youtube.com/embed/F--HJDhYDdg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="F--HJDhYDdg" />
 
 ## Wegweiser DUNK!festival
 

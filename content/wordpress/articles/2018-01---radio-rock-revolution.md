@@ -134,17 +134,17 @@ begegnet sind. Einige davon kennt Ihr vielleicht, andere solltet Ihr
 kennenlernen:
 
 <h3>"The Only Thing Worth Fighting For" von Lera Lynn
-<iframe src="https://www.youtube.com/embed/Rh44ml8f17g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h3>
+ <YouTube id="Rh44ml8f17g" /> </h3>
 
 <h3>"La Rivière" von Bears Of Legend
-<iframe src="https://www.youtube.com/embed/Xe8XXvwdwT0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h3>
+ <YouTube id="Xe8XXvwdwT0" /> </h3>
 
 <h3>Majesty von Madrugada
-<iframe src="https://www.youtube.com/embed/LE9AuZ35_AY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h3>
+ <YouTube id="LE9AuZ35_AY" /> </h3>
 
 ## A Child Should Be A Fish von Leo Kottke
 
-<iframe src="https://www.youtube.com/embed/065jN27sFWk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="065jN27sFWk" />
 
 Alle, die jetzt nur noch eins wollen: Radio Paradise endlich entdecken und
 genießen: [Hier geht's lang!](https://www.radioparadise.com/rp_2.php?#) Come to

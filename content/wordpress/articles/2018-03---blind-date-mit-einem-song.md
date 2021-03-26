@@ -142,7 +142,7 @@ mitgebrachten Pfirsichkuchen ab.
 
 Ja, so war das damals. Ich werde alt.
 
-<iframe src="https://www.youtube.com/embed/wvAnQqVJ3XQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="wvAnQqVJ3XQ" />
 
 ## Teilnehmer am Blind Date mit "Peaches" von den Presidents Of The United States
 

@@ -81,7 +81,7 @@ jeden Fall ein hochkreatives Jahr zu werden.
 
 Bilder: Perry Frank
 
-<iframe src="https://www.youtube.com/embed/8WetGwZM3zU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="8WetGwZM3zU" />
 
 <hr />
 
@@ -127,6 +127,6 @@ I'm already very excited about everything Francesco has announced musically for
 
 Pictures: Perry Frank
 
-<iframe src="https://www.youtube.com/embed/8WetGwZM3zU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="8WetGwZM3zU" />
 
   

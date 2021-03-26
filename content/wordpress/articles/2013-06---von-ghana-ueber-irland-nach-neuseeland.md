@@ -118,7 +118,8 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_0
 
 _ **Passend zum Thema gibt es heute mal wieder einen echten Klassiker:** _
 
-[youtube
-http://www.youtube.com/watch?v=iGDHoCPRbEg][die ultimative festivallistejetzt runterladen und ausdrucken](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)
+<YouTube id="iGDHoCPRbEg] 
+[Die ultimative FestivallisteJetzt runterladen und ausdrucken" />
+(/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)
 
   

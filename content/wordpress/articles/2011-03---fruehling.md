@@ -62,6 +62,6 @@ Gesundheitlich sind alle etwas angeschlagen, aber dennoch guter Dinge.
 
 ## Song des Tages: Sonic Youth - "Dirty Boots"
 
-[youtube=http://www.youtube.com/watch?v=igwCSA0Es9Y]
+ <YouTube id="igwCSA0Es9Y" />
 
   

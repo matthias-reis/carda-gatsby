@@ -192,7 +192,7 @@ im Hamburger Knust!
 
 ## "Das Cabinet des Dr. Caligari" von Toundra auf Spotify hören
 
-<iframe src="https://open.spotify.com/embed/album/08y4jMFcpVaS7MlANeI4Bp" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="album/08y4jMFcpVaS7MlANeI4Bp" />
 
 ## "Das Cabinet des Dr. Caligari" von Toundra auf iTunes hören
 
@@ -342,7 +342,7 @@ Hamburg.
 
 ## Listen to "Das Cabinet des Dr. Caligari" by Toundra on Spotify
 
-<iframe src="https://open.spotify.com/embed/album/08y4jMFcpVaS7MlANeI4Bp" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="album/08y4jMFcpVaS7MlANeI4Bp" />
 
 ## Listen to "Das Cabinet des Dr. Caligari" on iTunes
 

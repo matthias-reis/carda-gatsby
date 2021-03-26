@@ -283,7 +283,7 @@ Welt viel ändern. Wir haben noch nicht einmal angefangen.
 
 ## "Lost" von Crippled Black Phoenix
 
-<iframe src="https://www.youtube.com/embed/IWv92fNR5jE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="IWv92fNR5jE" />
 
 <div id="⋆">[⋆]  _English version_ </div>
 
@@ -484,7 +484,7 @@ humans colonise another planet on the other hand. But for that to happen, a lot
 has to change around the world in the next 30 years. We haven't even started
 yet.
 
-<iframe src="https://www.youtube.com/embed/IWv92fNR5jE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="IWv92fNR5jE" />
 
 Bilder/pictures: [Crippled Black Phoenix](https://crippledblackphoenix.net/)
 

@@ -197,7 +197,7 @@ sein!
 **Demetria:** Bleib positiv und zuversichtlich! Ich wünsche Dir ein wundervolles
 und produktives Jahr!
 
-<iframe src="https://www.youtube.com/embed/2y-Q1gwy94g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="2y-Q1gwy94g" />
 
 <div id="⋆">[⋆]  _English version_ </div>
 
@@ -346,6 +346,6 @@ pandemic ends, we will be the winners!
 
 **Demetria:** Stay positive and confident! Have an amazing and productive year!
 
-<iframe src="https://www.youtube.com/embed/2y-Q1gwy94g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="2y-Q1gwy94g" />
 
   

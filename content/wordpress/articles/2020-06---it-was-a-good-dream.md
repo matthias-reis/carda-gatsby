@@ -236,7 +236,7 @@ Wände sind unglaublich hoch und es ist Ort mit großartigen Vibes. Wenn Du Dir
 unser Live Video zu "Falling / Running / Mute" anschaust, kannst Du es sehen. Es
 wurde dort aufgenommen.
 
-<iframe src="https://www.youtube.com/embed/paFVczP927A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="paFVczP927A" />
 
 **Anne:** James Bridges (Caspian, American Echoes, Mike Gordon) hat "Help Me To
 Recollect" produziert. Wie war es, mit ihm zu arbeiten und wie seit Ihr mit ihm
@@ -301,7 +301,7 @@ viel Spaß gemacht! Alles Gute für Euch!
 
 ## "Help Me To Recollect" von It Was A Good Dream bei Spotify hören
 
-<iframe src="https://open.spotify.com/embed/album/1sZAn155m8BYaIaKQTnpNG" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="album/1sZAn155m8BYaIaKQTnpNG" />
 
 ## "Help Me To Recollect" von It Was A Good Dream bei iTunes hören
 
@@ -472,7 +472,7 @@ wish we could practice there 100 percent of the time. The ceilings are huge and
 it’s a really vibey place. If you check out our live video for
 “Falling/Running/Mute” on Youtube, that was filmed there.
 
-<iframe src="https://www.youtube.com/embed/paFVczP927A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="paFVczP927A" />
 
 **Anne:**  James Bridges (Caspian, American Echoes, Mike Gordon) produced "Help
 Me To Recollect". How was it like working with him and how did you get in touch
@@ -530,7 +530,7 @@ the best to you!
 
 ## Listen to "Help Me To Recollect" by It Was A Good Dream on Spotify
 
-<iframe src="https://open.spotify.com/embed/album/1sZAn155m8BYaIaKQTnpNG" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="album/1sZAn155m8BYaIaKQTnpNG" />
 
 ## Listen to "Help Me To Recollect" by It Was A Good Dream on iTunes
 

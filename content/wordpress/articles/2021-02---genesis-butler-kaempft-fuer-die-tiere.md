@@ -100,6 +100,6 @@ zerstört wird.
 
 ## Genesis Bulters TEDx Talk
 
-<iframe src="https://www.youtube.com/embed/E4ptaIDAIlY" width="715" height="402" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="E4ptaIDAIlY" />
 
   

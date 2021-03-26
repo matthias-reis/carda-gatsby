@@ -83,7 +83,7 @@ Hier geht's zu _ [Teil 7/9](/2012/08/eden-project-2/) _  der Galerie "England
 
 ## Song zu den Bildern: The Kooks - Seaside
 
-[youtube=http://www.youtube.com/watch?v=VbnvqCqz7_k]
+ <YouTube id="VbnvqCqz7_k" />
 
 <blockquote>
 

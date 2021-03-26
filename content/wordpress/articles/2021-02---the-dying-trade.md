@@ -121,7 +121,7 @@ Desensibilisierung gegenüber den Gewalttaten führt zu psychischem Leid.
 Der Film zeigt, wie das Trauma die Menschen in die Depressionen und häufig auch
 in die Sucht treibt.
 
-<iframe src="https://www.youtube.com/embed/9R0IQ8xuvl8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="9R0IQ8xuvl8" />
 
 Um das Projekt zu finanzieren, hat Jack Hancock-Fairs für seinen Film eine
 Indigogo-Kampagne gestartet. Ihr könnt sie

@@ -74,6 +74,6 @@ für die Ferien Deines Lebens sein.
 
 ## Song des Tages: The White Stripes – "Ball And Biscuit"
 
-[youtube=http://www.youtube.com/watch?v=xMZh9OtAeSY]
+ <YouTube id="xMZh9OtAeSY" />
 
   

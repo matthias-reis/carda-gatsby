@@ -179,7 +179,7 @@ die verschlossen wird, sind sie männlich, werden sie vergast oder geschreddert.
 
 </blockquote>
 
-<iframe src="https://www.youtube.com/embed/NZHJr6-vRKY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="NZHJr6-vRKY" />
 
 **Fußnoten / Quellen:**
 

@@ -45,7 +45,8 @@ date: 2019-11-26T16:06:08.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (22:72)"
 thumbnailId: "27012"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Its-always-coffee-oclock..png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Its-always-coffee-oclock..png__l.jpg
@@ -54,6 +55,9 @@ subTitle: Präsentiert von den drei von der Bande
   
 ---
 
+## unknown: Expected corresponding JSX closing tag for &lt;p> (22:72)
+
+<!--
 **Das Jahr neigt sich dem Ende zu - die gute Musik zum Glück nicht. Wir haben
 heute 12 Songs für Euren Dezember für Euch auf Lager. Natürlich wieder inklusive
 Playlisten für iTunes uns Spotify.**
@@ -73,22 +77,23 @@ Valentin konnte die Veröffentlichung der neuen Nick Cave Platte kaum erwarten. 
 "Bei diesem wieder mal unglaublich gelungenen Werk von Nick Cave &amp; The Bad
 Seeds" ist es schwierig einen Favoriten zu finden - es handelt sich dabei um ein
 perfektes Gesamtkunstwerk. Ich habe trotzdem mal den für mich besonders schönen
-Song 'Waiting For You' rausgepickt."
+Song 'Waiting For You' rausgepickt." <YouTube id="GwlU_wsT20Q" /> </li> <li>
 
-<iframe src="https://www.youtube.com/embed/GwlU_wsT20Q" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li>
 ## Caspian - "Flowers of Light" (Vorauskopplung vom für 2020 angekündigten Album "On Circles")
-Wir alle haben vermutlich vor Freude einen kleinen Hüpfer hingelegt, als wir vom geplanten neuen Album von  [Caspian](/2015/11/caspian-live-hafenklang-hamburg/)  erfuhren. Die erste Single ist schon da, Matze hat sie auf unsere Liste gesetzt.
+
+Wir alle haben vermutlich vor Freude einen kleinen Hüpfer hingelegt, als wir vom
+geplanten neuen Album von [Caspian](/2015/11/caspian-live-hafenklang-hamburg/)
+erfuhren. Die erste Single ist schon da, Matze hat sie auf unsere Liste gesetzt.
 
 "Darauf habe ich mich fast noch ein bisschen mehr gefreut, als auf
 [das neue Tool Album](/2019/08/das-neue-tool-album-ist-da/) : Ein erstes
 Lebenszeichen der neuen Caspian Platte! Die erste Vorauskopplung von "On
 Circles", das im Januar erscheinen soll, übertrifft schon mal meine Erwartungen.
-Ein wirklich großartiges Stück Post-Rock!"
+Ein wirklich großartiges Stück Post-Rock!" <YouTube id="HN5iFskr0iM" /> </li>
+<li>
 
-<iframe src="https://www.youtube.com/embed/HN5iFskr0iM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li>
 ## Torche - "Admission" vom Album "Admission"
+
 Valentin schwärmt für Torche
 
 "Torche gibt es schon länger. Ich habe die Sludge Band aus Miami jetzt erst für
@@ -96,42 +101,37 @@ mich entdeckt. In ihrer Musik steckt viel Stoner-Einfluss. Ich freue mich schon,
 sie im kommenden Jahr als Vorband von
 [Russian Circles](/2017/02/russian-circles-knust-hamburg-2017/) sehen zu dürfen.
 Hier der Titeltrack aus dem im Juli erschienen Album 'Admission', der (in diesem
-Fall) etwas (angenehm) poppiger geraten ist."
+Fall) etwas (angenehm) poppiger geraten ist." <YouTube id="X7vnlEXs-Xs" /> </li>
+<li>
 
-<iframe src="https://www.youtube.com/embed/9dc0n5UkMOI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li>
-## Shana Falana - "Go Higher" vom Album "Darkest Light"
-Die Shoegazer Band Shana Falana, die derzeit von Kingston, New York aus agiert, wurde 2011 in Brooklyn gegründet. Die beim Label Team Love Records gesignte Band besteht aus Shana Falana und Michale Amari. Ich habe die Musiker bereits nach den ersten Takten, die mir unlängst über Band Camp angespült wurden, fest ins Herz geschlossen. Zum Reinhören möchte ich Euch hiermit "Go Higher" vom gerade erschienenen Album "Darkest Light" vorschlagen.
-<iframe src="https://www.youtube.com/embed/X7vnlEXs-Xs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li>
 ## And you will Know us by the Trail of Dead - "Don’t Look Down" vom Album "X: The Godless Void And Other Stories"
-Matze hat mich total überrascht, als er mit der Nachricht von der neuen  [Trail Of Dead](/2013/04/trail-of-dead-live-strom-munchen-12-april-2013/)  Platte um die Ecke kam. Was eine Freude! Er hat "Don't Look Down" gelistet und findet folgende (lobenden) Worte dazu.
+
+Matze hat mich total überrascht, als er mit der Nachricht von der neuen
+[Trail Of Dead](/2013/04/trail-of-dead-live-strom-munchen-12-april-2013/) Platte
+um die Ecke kam. Was eine Freude! Er hat "Don't Look Down" gelistet und findet
+folgende (lobenden) Worte dazu.
 
 "Im Gegensatz zur neuen Caspian Single, habe ich mit dieser Veröffentlichung gar
 nicht gerechnet. Umso größer ist die Freude über den ersten neuen Song seit mehr
 als fünf Jahren. Der Stil der Band hat sich ein bisschen hin zu den alten
 Post-Punk Zeiten der 'Source, Tags &amp; Codes' Ära.' zurückentwickelt.
 AYWKUBTTOF beweisen für mich damit ein weiteres Mal ihre Vielfältigkeit.
-Reinhören lohnt sich!"
+Reinhören lohnt sich!" <YouTube id="8zErDvoYY3A" /> </li> <li>
 
-<iframe src="https://www.youtube.com/embed/bbXNaERHIfA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li>
-## Amplifier - "The Eternal" (Single)
-"Der November ist ein Monat voller positiver Lebenszeichen", freut sich Matze. "Das nächste kam von Amplifier, deren Meisterwerk 'The Octopus' nun schon acht stolze Jahre alt ist. In der Zwischenzeit hat die Band weitere Alben veröffentlicht, die, von ein paar einzelnen Stücken abgesehen, nicht wirklich zu mir durchgedrungen sind. Für mich finden sie mit den Prog-Rock Tönen auf der neuen Platte zu ihrer alten Stärke zurück."
-<iframe src="https://www.youtube.com/embed/8zErDvoYY3A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li>
 ## Rey Pila - "Disciples IV" (Single)
+
 Rey Pila ist eine von Valentins Ausgrabungen des Monats.
 
 "Strokes Frontmann Julian Casablancas entdeckte die mexikanische Band Rey Pila.
 Mit ihrem Sound hätte die Truppe auch in den 1980er Jahren Erfolg gehabt. Die
 aktuelle Single erinnert finde ich sehr an Depeche Mode oder frühe Sachen von
 [Nine Inch Nails](/2014/05/nine-inch-nails-live-zitadelle-berlin/). "
+<YouTube id="pVqLI7IRCik" /> </li> <li>
 
-<iframe src="https://www.youtube.com/embed/pVqLI7IRCik" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li>
 ## Amadou &amp; Mariam - "Je pense à toi" vom Album "Je pense à toi"
-Der folgende Hinweis meines Vaters brachte mich auf diese Künstler und speziell dieses Stück Musik.
+
+Der folgende Hinweis meines Vaters brachte mich auf diese Künstler und speziell
+dieses Stück Musik.
 
 "Amadou und Mariam sind ein musikalisches Duo aus Mali, bestehend aus Mariam
 Doumbia und Amadou Bagayoko. Das Paar, auch bekannt unter dem Namen 'Das blinde
@@ -139,12 +139,15 @@ Paar von Mali', hat sich am Institut für Junge Blinde Mitte der 1970er Jahre
 gefunden."
 
 Mit ihrer Musik verzaubern mich die beiden und lassen mich in Gedanken auf die
-Reise gehen.
+Reise gehen. <YouTube id="gnvJEhRNkSw" /> </li> <li>
 
-<iframe src="https://www.youtube.com/embed/gnvJEhRNkSw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li>
 ## Somnambulist - "nêiyawak" vom Album "nipiy"
-Obgleich er aus einem komplett anderen Genre stammt, schmiegt sich dieser Song perfekt an seinen Vorgänger von Amadou &amp; Mariam an. Es lohnt sich also auf jeden Fall, sie hintereinander zu hören. Um das zu tun, müsst Ihr nur in der unten angefügten Playlist bei iTunes oder Spotify auf den Playbutton klicken und schon kann es losgehen.
+
+Obgleich er aus einem komplett anderen Genre stammt, schmiegt sich dieser Song
+perfekt an seinen Vorgänger von Amadou &amp; Mariam an. Es lohnt sich also auf
+jeden Fall, sie hintereinander zu hören. Um das zu tun, müsst Ihr nur in der
+unten angefügten Playlist bei iTunes oder Spotify auf den Playbutton klicken und
+schon kann es losgehen.
 
 <RemoteImage alt={`somnambulist`} size="medium" title={``}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_somnambulist__m.jpg"
@@ -168,11 +171,15 @@ japanische Lyrics und kraftvolle Shouts. 'A Step In The Morning Glow'  ist für
 mich die vierte vielversprechende Vorauskopplung dieses Monats."
 
 Inzwischen ist übrigens das komplette Album "The Fallen Crimson" erschienen.
+<YouTube id="c0ek6gl6I9Q" /> </li> <li>
 
-<iframe src="https://www.youtube.com/embed/c0ek6gl6I9Q" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
-    <li>
 ## Desert Sessions - "Far East For The Trees" vom Album "Desert Sessions 11 &amp; 12"
-Wie hier schon das ein oder andere mal erwähnt wurde, folgen unsere Listen keiner Charts-Logik. Darum ist es auch möglich, dass der Ehrenplatz auf Platz 13 landet. Genau, Ihr habt richtig gelesen: Zur Feier der letzten Monatsliste des Jahres haben wir heute 13 statt 12 Songs für Euch. Wir hätten sonst auch einfach zu viel gute Musik rausgeschmissen.
+
+Wie hier schon das ein oder andere mal erwähnt wurde, folgen unsere Listen
+keiner Charts-Logik. Darum ist es auch möglich, dass der Ehrenplatz auf Platz 13
+landet. Genau, Ihr habt richtig gelesen: Zur Feier der letzten Monatsliste des
+Jahres haben wir heute 13 statt 12 Songs für Euch. Wir hätten sonst auch einfach
+zu viel gute Musik rausgeschmissen.
 
 Diese Platte ist für uns alle drei etwas ganz Besonderes. Sie hat es verdient,
 in dieser Liste eine hervorgehobene Position einzunehmen. Ich habe mir erlaubt
@@ -186,14 +193,13 @@ Unterstützt haben ihn dieses Mal unter anderem Künstler wie Les Claypool von
 Primus, Billy Gibbons von ZZ Top und Jake Shears von Scissor Sisters. Gegründet
 wurde das Projekt 1997 von Josh gemeinsam mit dem Kyuss Schlagzeuger Brant
 Bjork. Zuletzt hatten sie unter dem Namen "Desert Sessions" 2003 gemeinsam Musik
-aufgenommen.
+aufgenommen. <YouTube id="SnKUry32QcI" /> </li>
 
-<iframe src="https://www.youtube.com/embed/SnKUry32QcI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
 </ol>
 
 ## Hier findet Ihr unsere Playlist auf Spotify
 
-<iframe src="https://open.spotify.com/embed/playlist/2Zwbw1woAyQex3oGdsnqUO" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="playlist/2Zwbw1woAyQex3oGdsnqUO" />
 
 ## iTunes Fans werden hier glücklich
 
@@ -204,5 +210,7 @@ mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_12.png__m.
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_12.png__l.jpg"
 loadingUrl="data:image/jpeg;base64,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"
 />
+
+-->
 
   

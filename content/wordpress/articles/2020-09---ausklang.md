@@ -189,7 +189,7 @@ dazu ist absolut sehenswert.
 
 ## "Aufbruch" von Ausklang
 
-<iframe src="https://www.youtube.com/embed/oRcP8odgTDU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="oRcP8odgTDU" />
 
 [Interview mit From Overseas Gründer Kévin Séry](/2020/04/from-overseas-interview/)
 
@@ -335,7 +335,7 @@ video is absolutely worth watching.
 
 ## "Aufbruch" by Ausklang
 
-<iframe src="https://www.youtube.com/embed/oRcP8odgTDU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="oRcP8odgTDU" />
 
 [Interview with Kévin Séry (From Overseas)](/2020/04/from-overseas-interview/)
 

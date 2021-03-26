@@ -84,7 +84,7 @@ In einem weiteren Tweet bat Philip seine Fans, ihm Fotos von selbst gekochten
 veganen Gerichten zu schicken. Möglicherweise ist er selbst also auch noch auf
 der Suche nach Inspiration – dass er dabei andere motiviert finde ich großartig.
 
-<iframe src="https://www.youtube.com/embed/WnozuHlC6AY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="WnozuHlC6AY" />
 
 Bild/picture: Phil Manansala from Of Mice &amp; Men at Nova Rock 2017, Alfred
 Nitsch, Lizenz/licence: 

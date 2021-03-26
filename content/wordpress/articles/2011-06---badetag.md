@@ -64,6 +64,6 @@ die sein Sohn über seine Familie geschrieben hat.</del>
 
 ## Musik des Tages: Tallest Man On Earth  – "Tiny Desk Concert"
 
-<iframe src="https://www.youtube.com/embed/JLRTleMY_mc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="JLRTleMY_mc" />
 
   

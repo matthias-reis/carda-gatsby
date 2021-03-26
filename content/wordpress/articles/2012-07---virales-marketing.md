@@ -65,8 +65,8 @@ genannt, erfolgreich sind, wird mit Hilfe von Linktracking und den
 verschiedensten Methoden der Nachverfolgung ständig überprüft. Dieses Verfahren
 wird als Monitoring bezeichnet.
 
-[youtube=http://www.youtube.com/watch?v=9c9vk_B54Sk&amp;feature=youtu.be]
+ <YouTube id="9c9vk_B54Sk&amp;feature=youtu.be" />
 
-[youtube=http://www.youtube.com/watch?v=uF2djJcPO2A]
+ <YouTube id="uF2djJcPO2A" />
 
   

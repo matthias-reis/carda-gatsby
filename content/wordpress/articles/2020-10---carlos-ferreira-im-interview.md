@@ -293,7 +293,7 @@ bezeichnen?
 
 ## Carlos Ferreira – "Supernova"
 
-<iframe src="https://www.youtube.com/embed/gLAqIioxVyE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="gLAqIioxVyE" />
 
 <hr />
 
@@ -534,6 +534,6 @@ more releases next year. Did I say that some friends call me a workaholic?
 
 ## Carlos Ferreira – "Supernova"
 
-<iframe src="https://www.youtube.com/embed/gLAqIioxVyE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="gLAqIioxVyE" />
 
   

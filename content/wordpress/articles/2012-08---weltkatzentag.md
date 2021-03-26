@@ -90,6 +90,6 @@ haben. Und allen Anderen auch.
 **Hier kommt das Lied des Tages: NINE INCH NAILS live@ Woodstock 1994 -Terrible
 Lie**
 
-[youtube=http://www.youtube.com/watch?v=G-8VM9WLZmk&amp;list=PL7FCFCC210D46FDFF&amp;index=2&amp;feature=plpp_video]
+ <YouTube id="G-8VM9WLZmk&amp;list=PL7FCFCC210D46FDFF&amp;index=2&amp;feature=plpp_video" />
 
   

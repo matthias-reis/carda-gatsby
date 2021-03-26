@@ -100,7 +100,7 @@ dazwischen.
 
 </blockquote>
 
-<iframe src="https://www.youtube.com/embed/videoseries?list=OLAK5uy_mZprjFJIuHokkJXb-jZYkpzJXDE5sJryk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="videoseries?list=OLAK5uy_mZprjFJIuHokkJXb-jZYkpzJXDE5sJryk" />
 
 ## Crippled Black Phoenix "Ellengæst"
 
@@ -126,7 +126,7 @@ Meisterwerke bezeichnen würde.
 
 </blockquote>
 
-<iframe src="https://www.youtube.com/embed/3WXaBQ8SqlI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="3WXaBQ8SqlI" />
 
 ## The Ocean – "Phanerozoic II: Mesozoic I Cenozoic"
 
@@ -144,6 +144,6 @@ das Seinesgleichen sucht. Mein Favorit von der Doppel-LP ist der Song
 "Pleistocene". Beim Hörgenuss kann man die Wollmammuts vor den geschlossenen
 Augen vorbeiziehen sehen.
 
-<iframe src="https://www.youtube.com/embed/E12saHWlaWI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="E12saHWlaWI" />
 
   

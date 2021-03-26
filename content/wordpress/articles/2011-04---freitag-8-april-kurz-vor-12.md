@@ -45,6 +45,6 @@ imposante Geräuschkulisse. Doch zum Glück gibt es Kopfhörer.
 
 ## Song des Tages: PJ Harvey &amp; Josh Homme - "Crawl Home"
 
-[youtube=http://www.youtube.com/watch?v=Glb_moRvgps]
+ <YouTube id="Glb_moRvgps" />
 
   

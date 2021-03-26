@@ -225,7 +225,7 @@ eine Europa-Tournee im Herbst 2021 - also drück uns die Daumen!
 
 ## "Look Alive" von Unwed Sailor bei Spotify hören
 
-<iframe src="https://open.spotify.com/embed/album/0hB8xeoSbCNF4mE8IVuKuX" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="album/0hB8xeoSbCNF4mE8IVuKuX" />
 
 ## "Look Alive" von Unwed Sailor bei iTunes hören
 
@@ -414,7 +414,7 @@ crossed for that!
 
 ## Listen to "Look Alive" by Unwed Sailor on Spotify
 
-<iframe src="https://open.spotify.com/embed/album/0hB8xeoSbCNF4mE8IVuKuX" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="album/0hB8xeoSbCNF4mE8IVuKuX" />
 
 ## Listen to "Look Alive" by Unwed Sailor on iTunes
 

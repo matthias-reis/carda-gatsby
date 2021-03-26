@@ -114,7 +114,7 @@ macht wirklich Lust auf mehr.
 
 Chevelle – "Self Destructor"
 
-<iframe src="https://www.youtube.com/embed/QhPn5EPGN4c" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="QhPn5EPGN4c" />
 
 Bilder/Quelle/Pictures/Source: Epic Records,
 [Chevelle](https://getmorechevelle.com/)

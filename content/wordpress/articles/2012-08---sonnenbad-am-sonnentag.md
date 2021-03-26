@@ -98,6 +98,6 @@ das mir nicht aus dem Kopf geht.
 
 ## Hier sind für Euch:  [Dispatch](http://de.wikipedia.org/wiki/Dispatch)  mit "Here We Go"
 
-[youtube=http://www.youtube.com/watch?v=ZRHpoKvZa20&amp;feature=player_embedded]
+ <YouTube id="ZRHpoKvZa20&amp;feature=player_embedded" />
 
   

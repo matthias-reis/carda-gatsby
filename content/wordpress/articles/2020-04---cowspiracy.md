@@ -90,7 +90,7 @@ Movement A.U.M.
 
 ## Cowspiracy - der offizielle Filmtrailer
 
-<iframe src="https://www.youtube.com/embed/nV04zyfLyN4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="nV04zyfLyN4" />
 
 [Homepage Cowspiracy](https://www.cowspiracy.com/)
 

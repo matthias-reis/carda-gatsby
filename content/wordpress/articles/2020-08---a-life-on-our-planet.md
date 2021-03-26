@@ -114,7 +114,7 @@ sagte Attenborough gegenüber dem Mirror.
 
 ## "A Life On Planet Earth" - Trailer
 
-<iframe src="https://www.youtube.com/embed/r-91umZ7cQE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="r-91umZ7cQE" />
 
 Quellen:
 [The Beet](https://thebeet.com/go-vegetarian-or-cut-back-on-meat-to-save-the-planet-says-david-attenborough/),

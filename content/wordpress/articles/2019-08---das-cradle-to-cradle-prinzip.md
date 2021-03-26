@@ -148,7 +148,7 @@ wichtiger Schritt in die richtige Richtung.
 Der Cradle to Cradle e. V. hat das Prinzip Cradle-to-Cradle in diesem Video sehr
 schön erklärt:
 
-<iframe src="https://www.youtube.com/embed/g1tIGLy3PHw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="g1tIGLy3PHw" />
 
 ### Literaturtipp:
 

@@ -103,7 +103,7 @@ Interviews mit vielen tollen Persönlichkeiten
 
 Zum Artikel gibt es hier noch eine kleine Erinnerung. Viel Spaß damit.
 
-<iframe src="https://www.youtube.com/embed/55smhOwYlLA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="55smhOwYlLA" />
 
 &nbsp;
 

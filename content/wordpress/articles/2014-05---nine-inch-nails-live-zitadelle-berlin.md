@@ -129,12 +129,12 @@ Bass, Keyboards, Backing Vocals) und natürlich Trent Reznor (Gesang, Gitarre,
 Keyboards). Um hier mal alle Gerüchte diverser Musikmagazine aus der Welt zu
 schaffen. Für weitere Infos empfehle ich Euch [ninwiki](http://www.ninwiki.com).
 
-_Hier sind für Euch NINE INCH NAILS mit "Me, I'm Not"_ [youtube
-http://www.youtube.com/watch?v=WaaaFNYgbGQ]
+_Hier sind für Euch NINE INCH NAILS mit "Me, I'm Not"_
+<YouTube id="WaaaFNYgbGQ" />
 
 _... und hier mit "Closer"_
 
-[youtube http://www.youtube.com/watch?v=Tx1MJNX-v74]
+ <YouTube id="Tx1MJNX-v74" />
 
 Kussi _Anne_
 

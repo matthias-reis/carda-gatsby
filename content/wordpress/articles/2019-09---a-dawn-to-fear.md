@@ -127,7 +127,7 @@ kommt alles so richtig in Gang. Die Band sieht sich als Kollektiv. Alles, was
 produziert wird, stammt aus ihrer Mitte. Gastmusiker sind auf "A Dawn To Fear"
 keine zu hören.
 
-<iframe src="https://www.youtube.com/embed/XoFJA24GhfA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="XoFJA24GhfA" />
 
 **Quellen:** [Bandcamp](https://cultofluna.bandcamp.com/album/a-dawn-to-fear),
 [Cult Of Luna](https://www.cultofluna.com/) **Fotos:** Aus meinem Archiv, Cult

@@ -106,7 +106,7 @@ Weil es so schön passt habe ich für die Spotify und iTunes Playlisten den
 Auftakt des Soundtracks übernommen. Er trägt den Titel "Welcome to Victore
 Ville".
 
-<iframe src="https://www.youtube.com/embed/I6qvewIpsiw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="I6qvewIpsiw" />
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3392121177/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless="">﻿ [Mank (Original Musical Score) WITH EXTRAS by Trent Reznor &amp; Atticus Ross](https://trentreznor-atticusross.bandcamp.com/album/mank-original-musical-score-with-extras) </iframe>
 
@@ -124,7 +124,7 @@ auf die Liste gesetzt:
 > selbstverständlich schon vorbestellt. Sie erscheint als erste auf dem
 > neugegründeten Eigenlabel der Band 'Red Crk'."
 
-<iframe src="https://www.youtube.com/embed/wgN3OV6XtTY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="wgN3OV6XtTY" />
 
 ## This White Light &amp; Josh Homme – "Winter Flowers" – von der Single "Pink Duck Sessions"
 
@@ -140,7 +140,7 @@ Light eingespielt. Deren großartige Sängerin Jen Wood hat dem gemeinsamen
 Projekt auch ihre unverwechselbare Stimme geliehen. Und was meint Ihr? Geht ins
 Ohr, oder?
 
-<iframe src="https://www.youtube.com/embed/OihkYQi0Et8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="OihkYQi0Et8" />
 
 ## Perry Frank – "Future Is A Ghost"
 
@@ -153,7 +153,7 @@ Frank für mich auf unglaublich einfühlsame und grafische Weise geschafft, die
 Ungewissheit, welche die momentane weltweite Situation mit sich bringt, zu
 vertonen.
 
-<iframe src="https://www.youtube.com/embed/0L85mhv00pY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="0L85mhv00pY" />
 
 ## David Rawlings – "Cumberland Gap" vom Soundtrack zu "The Gentlemen"
 
@@ -167,7 +167,7 @@ Gap' vom 2017-Album von David Rawlings. Vom in Rhode Island geborenen
 Bluegrass-, Americana- und Folk-Musiker werde ich mir in nächster Zeit ganz
 sicher noch mehr anhören."
 
-<iframe src="https://www.youtube.com/embed/V4c4yQXk6Ug" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="V4c4yQXk6Ug" />
 
 ## Deftones – "Passenger (Mike Shinoda Remix)" vom Album "Black Stallion"
 
@@ -188,7 +188,7 @@ finde ich persönlich 'Passenger'. Der Gesang von Gastsänger und Tool Kopf
 Maynard James Keenan kommt hier einfach am besten zur Geltung. Von mir gibt es
 eine Kaufempfehlung für das Box-Set zum Jubiläum."
 
-<iframe src="https://www.youtube.com/embed/SRdZTZE5pOA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="SRdZTZE5pOA" />
 
 ## Sigur Rós – " **Alföður orkar** " vom Album "Odin's Raven Magic (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir)"
 
@@ -221,7 +221,7 @@ irgendwie in diese Zeit zurück – vielleicht sogar ein Stückchen weiter. Mit
 einigen Blues-angehauchten Parts und dem Bass-lastigen, elektronischen Song
 'Desperate', hält das Album zahlreiche Überraschungen bereit."
 
-<iframe src="https://www.youtube.com/embed/oL_dfNpWv6g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="oL_dfNpWv6g" />
 
 ## Beatsteaks - "Glory Box" von der EP "In The Presence of"
 
@@ -238,7 +238,7 @@ die Ursprungsversion ran. Trotzdem schaffen es die Beatsteaks ihre ganz eigene
 Stimmung zu verbreiten. Mein Tipp: Hört Euch am besten gleich alle Stücke auf
 'In The Presence of' an!"
 
-<iframe src="https://www.youtube.com/embed/NAv3yjP2S_8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="NAv3yjP2S_8" />
 
 ## Soft Room – "Lorn"
 
@@ -249,7 +249,7 @@ eine echte Sound-Rosine aus seinem Plattenschrank:
 'Soft Room' stammt von der 'Ninja Tune Collection: XX Vol. 2', auf der es unter
 anderem auch Coldcut und Amon Tobin zu hören gibt."
 
-<iframe src="https://www.youtube.com/embed/ipv1rypwstQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="ipv1rypwstQ" />
 
 ## Wes Borland – "Gold Or Gasoline" vom Album "The Astral Hand"
 
@@ -265,7 +265,7 @@ Und hier noch einer von Valentin:
 > lässt sie mich nicht mehr los. Sein neues Album ist für mich eine gute
 > Nachricht zum Ende dieses verrückten Jahres."
 
-<iframe src="https://www.youtube.com/embed/X3zRFh7qLmM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="X3zRFh7qLmM" />
 
 ## Onségen Ensemble – "No Returner" vom Album "Fear"
 
@@ -277,11 +277,11 @@ Platte schmiegt sich angenehm in die Hörmuscheln. Ihr solltet auf alle Fälle m
 reinhören! Fangt am besten mit "Non-Returner" an und hört die ganze Platte
 durch.
 
-<iframe src="https://www.youtube.com/embed/dj2lrXVP3fs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+ <YouTube id="dj2lrXVP3fs" />
 
 ## Musikliste für den Januar bei Spotify hören
 
-<iframe src="https://open.spotify.com/embed/playlist/6UkNIHbWgGMn6VY71odXBd" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+ <YouTube id="playlist/6UkNIHbWgGMn6VY71odXBd" />
 
 ## Musikliste für den Januar bei iTunes hören
 

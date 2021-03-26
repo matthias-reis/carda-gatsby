@@ -78,7 +78,7 @@ gemeinsamen Album haben es Yair Elazar Glotman und Mats Erlandsson erneut gewagt
 und eine neue Platte aufgenommen. Das Ergebnis ist ein 50-minütiges Klangbad,
 das es in sich hat.
 
-<iframe src="https://www.youtube.com/embed/uJmx1dQQw-A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="uJmx1dQQw-A" />
 
 ## Ghost Lode - "Week Six" vom Album "Lenten Distance"
 
@@ -96,7 +96,7 @@ Etwas härtere Töne schlagen Violet Cold an. Sie haben ihr Album "Noir Kid"
 bereits Anfang Mai veröffentlicht. Ihrem atmosphärischen Black Metal sind sie
 seit dem letzten Werk "Kosmik" von Januar 2019 treu geblieben.
 
-<iframe src="https://www.youtube.com/embed/R-lBT2GJ9yE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="R-lBT2GJ9yE" />
 
 ## The Used - "Paradise Lost, A Poem By John Milton" vom Album "Heartwork"
 
@@ -106,7 +106,7 @@ vorbei sind? Hoffen wir darauf und auf immer mehr musikalischen Nachschub. Beim
 Artwork ist man dem alten Stil treu geblieben. Ich freue mich sehr, dass die
 wilde Bande aus Orem, Utah wieder da ist.
 
-<iframe src="https://www.youtube.com/embed/LoGTY0bflh4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="LoGTY0bflh4" />
 
 ## This Will Destroy You - "Birth" vom Album " **Variations &amp; Rarities 2004-2019, Vol 1"**
 
@@ -120,7 +120,7 @@ dass sie homogener ist, als ihr Titel erahnen lässt. Fast schon wie ein in sich
 stimmiger Filmsoundtrack. Ich hab den Eröffnungstitel für Euch ausgewählt - wie
 so oft bei Post-Rock gilt auch hier: bitte das ganze Album anhören."
 
-<iframe src="https://www.youtube.com/embed/iV910PooWFE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="iV910PooWFE" />
 
 ## Einstürzende Neubauten - "Alles in Allem" vom Album "Alles in Allem"
 
@@ -134,7 +134,7 @@ den eingängigen Titeltrack gewählt, der mit weniger experimentellem Sound aber
 ebenso enigmatischen Texten ('Unter der Zelle hängt ein Lichtfraß'), als der
 Rest der Platte daher kommt."
 
-<iframe src="https://www.youtube.com/embed/0Nz9t_4XLcc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="0Nz9t_4XLcc" />
 
 ## Mogwai - "I'm Not Going Where I Don't Get Back" vom Soundtrack zu "ZEROZEROZERO"
 
@@ -154,7 +154,7 @@ Remake von Daft Punk. An anderen Stellen des Albums kann man durchaus Parallelen
 zum Soundtrack der Schwester-Serie 'Gomorrha' heraushören. Der stammt von der
 italienische Post Rock Band Mokadelic."
 
-<iframe src="https://www.youtube.com/embed/3To4iNqKkz8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="3To4iNqKkz8" />
 
 ## Archive - "Nothing Else" - Vorauskopplung aus dem Album "Versions" (erscheint im August)
 
@@ -170,7 +170,7 @@ sich die Zeit nehmen, sich beide Versionen hintereinander anzuhören. Die
 Evolution des Sounds ist wunderbar klar zu erkennen. Das neue Stück ist -
 eigenständig betrachtet - ein weiteres Highlight der Band aus London."
 
-<iframe src="https://www.youtube.com/embed/5WR9mOh8HAA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="5WR9mOh8HAA" />
 
 ## Matt Bellamy - "Tomorrow's World"
 
@@ -188,14 +188,14 @@ weil ich diese Band liebe und wir so viel Spaß zusammen haben und Musik machen
 und all das. Doch ich dachte, wenn ich einen eigenen Song mache, dann während
 des Lockdown, denn wir versuchen schließlich alle uns zu beschäftigen."
 
-<iframe src="https://www.youtube.com/embed/Zo-IlcrDrw4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="Zo-IlcrDrw4" />
 
 ## Puscifer - "Apocalyptical"
 
 Valentin zum neuen Puscifer Track:
 
 <p class="p1">"Richtig spannend fand ich in diesem Monat den neuen Song von Maynard James Keenans Projekt Puscifer, dass sich mit der aktuellen Lage befasst und in den Maynard im passenden Video dazu mal wieder seinen ganz speziellen Humor beweist."
-<iframe src="https://www.youtube.com/embed/Hj_bTbfAEsc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+ <YouTube id="Hj_bTbfAEsc" /> </p>
 
 ## Figure Four - "State Of Mind" vom Album "Suffering The Loss"
 
@@ -208,7 +208,7 @@ bis dato leider auch ihr aktuellstes geblieben ist. Die Credits hierfür muss ic
 an meinen Kumpel richten, der immer gute Tipps aus den Bereichen Trash Metal,
 Punkrock und Hardcore für mich bereithält!"
 
-<iframe src="https://www.youtube.com/embed/wAAR0ogzGcs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="wAAR0ogzGcs" />
 
 ## The Offspring "Here Kitty Kitty"
 
@@ -225,11 +225,11 @@ bereiten. Auf iTunes und Spotify ist er derzeit in ihrer Version noch nicht zu
 finden. Daher haben wir dort in unserer aktuellen Playlist einen anderen schönen
 Song von den Herrschaften für Euch bereitgestellt.
 
-<iframe src="https://www.youtube.com/embed/mYa02QAcAkA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="mYa02QAcAkA" />
 
 ## Unsere Playlist auf Spotify
 
-<iframe src="https://open.spotify.com/embed/playlist/7z2UgP1btP8Sa7sboX5UX3" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="playlist/7z2UgP1btP8Sa7sboX5UX3" />
 
 ## Unsere Playlist bei iTunes
 

@@ -148,6 +148,6 @@ natürlich über Kommentare mit "Montageanleitungen".
 
 ## Song des Tages: Zaz – "Ton Rêve"
 
-[youtube=http://www.youtube.com/watch?v=1S3TyzpzQP8&amp;feature=related]
+ <YouTube id="1S3TyzpzQP8&amp;feature=related" />
 
   

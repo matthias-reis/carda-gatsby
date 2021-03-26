@@ -226,7 +226,7 @@ Bilder: Anne-Leen Declercq
 
 ## Listen to lyra messier on Spotify
 
-<iframe src="https://open.spotify.com/embed/album/2Ui4OHXt8xg1JrXcdZ9jyA" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="album/2Ui4OHXt8xg1JrXcdZ9jyA" />
 
 ## Listen to lyra messier on iTunes
 
@@ -405,7 +405,7 @@ getting to know you! All the best to you and let's keep in touch!
 
 ## Listen to lyra messier on Spotify
 
-<iframe src="https://open.spotify.com/embed/album/2Ui4OHXt8xg1JrXcdZ9jyA" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="album/2Ui4OHXt8xg1JrXcdZ9jyA" />
 
 ## Listen to lyra messier on iTunes
 

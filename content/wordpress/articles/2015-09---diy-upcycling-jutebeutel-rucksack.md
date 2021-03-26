@@ -122,6 +122,6 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 Und weil ich lustige Dinge liebe, an dieser Stelle noch ein tolles Video für
 Euch. Kuckt Euch das unbedingt an! Selbstironie und so. :-P
 
-<iframe src="https://player.vimeo.com/video/132550202" width="800" height="533" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="132550202" />
 
   

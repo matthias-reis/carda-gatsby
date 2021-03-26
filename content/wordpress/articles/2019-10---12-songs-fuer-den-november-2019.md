@@ -83,7 +83,7 @@ nur so aufgesaugt. Diese Platte hat mir in meiner Sammlung auf jeden Fall noch
 gefehlt. Erschienen ist "No Home Record" bei Matador - ich hoffe, dass noch
 viele weitere Alleingänge folgen werden. Diese Frau ist nach wie vor großartig!
 
-<iframe src="https://www.youtube.com/embed/NvgRg_mUhtQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="NvgRg_mUhtQ" />
 
 ## 2. Battles - "Fort Greene Park" vom Album "Juicy B Crypts"
 
@@ -93,7 +93,7 @@ avantgardistische Töne an. Von der typischen Düsternis heutige Post-Rock
 Veröffentlichungen findet man darauf nur sehr wenig. "Fort Greene Park" ist mein
 Lieblingssong auf der Scheibe."
 
-<iframe src="https://www.youtube.com/embed/-pG9jUydaFc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="-pG9jUydaFc" />
 
 ## 3. Rosetta - "East" von der EP "Sower Of Wind"
 
@@ -105,7 +105,7 @@ Filmmusik - dabei handelt es sich bei "East" "nur" um den Opener der neuen EP,
 deren Songs nach den vier Himmelsrichtungen benannt ist. Er ist der Beginn von
 etwas Großem. Ihr dürft gespannt sein.
 
-<iframe src="https://www.youtube.com/embed/KzZNfLn8GAA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="KzZNfLn8GAA" />
 
 ## 4. The Contortionist - "Follow" vom Album "Our Bones"
 
@@ -114,7 +114,7 @@ ist eine sehr interessante Band, die im Progressive-Metal angesiedelt ist.
 'Follow' ist einer von vier Songs auf der neuen EP. Darauf ist auch eine sehr
 gute Coverversion vom Smashing Pumpkins Song '1979' zu finden."
 
-<iframe src="https://www.youtube.com/embed/ZFpU7l9ReTQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="ZFpU7l9ReTQ" />
 
 ## 5. Girih - "Haumea" vom Album "Eigengrau"
 
@@ -123,7 +123,7 @@ ab. Sie ziehen das komplette Register - von verspielt über nachdenklich bis har
 und aufgedreht ist alles mit dabei. Starkstrom trifft auf filigrane Kunst.
 Dieses Album sollte man sich auf jeden Fall anhören.
 
-<iframe src="https://www.youtube.com/embed/jwLnX8IypOs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="jwLnX8IypOs" />
 
 ## 6. Sejd - "Storm &amp; stiltje" vom Album "Ben &amp; hjärta"
 
@@ -133,7 +133,7 @@ hörte mich in Vorbereitung schon mal in das zuvor erschienene Debut "Sejd" rein
 Diese Südschweden wissen, wie man Musikliebhaber\*innen glücklich macht. Ich
 will mehr von ihnen hören!
 
-<iframe src="https://www.youtube.com/embed/IYIsi8d5djo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="IYIsi8d5djo" />
 
 ## 7. Idles - "Samaritans" vom Album "Joy as an Act of Resistance"
 
@@ -142,7 +142,7 @@ aus Bristol ist wirklich wunderbar. Sie spielen einzigartigen Post-Punk. Sie
 bringen auch live sehr viel Energie rüber. Leider habe ich bisher nur ein
 Konzert auf 3Sat gesehen."
 
-<iframe src="https://www.youtube.com/embed/si2pZRifgIo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="si2pZRifgIo" />
 
 ## 8. Bruce Soord - "All This Will Be Yours" vom Album "All This Will Be Yours"
 
@@ -152,7 +152,7 @@ Sein neues Album "All This Will Be Yours" hat Matze von der ersten Spielminute
 an begeistert. Die gleichnamige Single hat es in unsere Liste geschafft - aus
 Gründen.
 
-<iframe src="https://www.youtube.com/embed/bQoF0vvCHUk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="bQoF0vvCHUk" />
 
 ## 9. Life Of Agony - "Scars" vom Album "The Sound Of Scars"
 
@@ -161,7 +161,7 @@ die Liste gesetzt. Am Ende ist es dann dieses Stück geworden. Und das hat
 Gründe: "Dieser Song kickt einfach besonders! Für mich ist das Album ein starkes
 Comeback von Mina Caputo und Co.!"
 
-<iframe src="https://www.youtube.com/embed/Z0hyh0yTdaU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="Z0hyh0yTdaU" />
 
 ## 10. Opeth "Continuum" vom Album "In Cauda Venenum"
 
@@ -174,7 +174,7 @@ quasi der Prototyp für modernen Prog-Rock. An ein paar Stellen kann man die
 Black Metal Wurzeln noch erahnen - die Band ist jedoch längst weitergezogen.
 Eine würdige Nummer für diesen insgesamt sehr starken Monat.
 
-<iframe src="https://www.youtube.com/embed/Ejy01XpjQMY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="Ejy01XpjQMY" />
 
 ## 11. Leprous - "Distant Bells" vom Album "Pitfalls"
 
@@ -183,7 +183,7 @@ in eine ähnliche Richtung - progressiver , durchdachter Prog-Rock. Für mich ge
 das Album "Pitfalls" mit seinen vereinzelten Post-Rock-Anspielungen allerdings
 stilistisch eher in Richtung Riverside oder Katatonia.
 
-<iframe src="https://www.youtube.com/embed/r8HUeCKNxVw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+ <YouTube id="r8HUeCKNxVw" />
 
 ## Sachdienlicher Hinweis
 
@@ -225,7 +225,7 @@ Jam, Boris, ...
 
 ## Spotify Anhänger\*innen werden hier glücklich
 
-<iframe src="https://open.spotify.com/embed/playlist/1mMeJKGqzImH7oKZzBj5Cu" width="300" height="380" frameborder="0"></iframe>
+ <YouTube id="playlist/1mMeJKGqzImH7oKZzBj5Cu" />
 
 <RemoteImage
 alt={`12-songs-fuer-den-november-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin`}
