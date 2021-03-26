@@ -2,7 +2,7 @@ import * as React from 'react';
 import styled from '@emotion/styled';
 import { color, space, font, width, fontSize } from '../style';
 import { H3Deco } from './typo';
-import visual from '../assets/visual.jpg';
+import signatureImage from '../assets/signature-image.jpg';
 import {
   IconPinterest,
   IconTwitter,
@@ -10,13 +10,14 @@ import {
   IconFacebook,
   IconBloglovin,
 } from './icons';
+
 import { event } from './analytics';
 
 export const FooterContent: React.FC = () => (
   <Section>
     <Wrapper>
       <div>
-        <Image src={visual} />
+        <Image src={signatureImage} />
       </div>
       <div>
         <H3Deco>Über mich</H3Deco>
@@ -108,7 +109,7 @@ const Wrapper = styled.div`
   max-width: ${width[5]};
   margin: 0 auto;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: 5fr 4fr 4fr 3fr;
   grid-gap: ${space[2]};
   justify-content: center;
 
