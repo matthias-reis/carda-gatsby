@@ -35,11 +35,11 @@ collections:
       - { label: 'Permalink', name: 'permalink', widget: 'string' }
       - { label: 'Typ', name: 'typeName', widget: 'string', default: "Beitrag", required: false }
       - { label: 'Titel', name: 'title', widget: 'string' }
+      - { label: 'Untertitel', name: 'subTitle', widget: 'string' }
       - { label: 'SEO Titel', name: 'seoTitle', widget: 'string', required: false, hint: 'Fallback: Titel' }
       - { label: 'Social Media Titel', name: 'ogTitle', widget: 'string', required: false, hint: 'Fallback: SEO Titel | Titel' }
-      - { label: 'Untertitel', name: 'subTitle', widget: 'string' }
-      - { label: 'Description', name: 'description', widget: 'text', hint: 'Wird als Meta Description und für Social Media Posts verwendet' }
-      - { label: 'Teaser', name: 'excerpt', widget: 'text', required: false, hint: 'Für Übersichtsseiten - Fallback: Description' }
+      - { label: 'Meta Description', name: 'description', widget: 'text', hint: 'Wird als Meta Description und für Social Media Posts verwendet' }
+      - { label: 'Teaser (Textauszug)', name: 'excerpt', widget: 'text', required: false, hint: 'Für Übersichtsseiten - Fallback: Description' }
       - { label: 'Text', name: 'body', widget: 'markdown' }
       - { label: 'Hauptbild', name: 'image', widget: image }
       - { label: 'Social Media Bild', name: 'ogImage', widget: image }
