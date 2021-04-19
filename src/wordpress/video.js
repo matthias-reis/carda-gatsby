@@ -10,7 +10,7 @@ module.exports = async (l, e, line) => {
     )
     .replace(
       /<iframe.*vimeo.com\/video\/([^"]*)".*<\/iframe>/gms,
-      (_, match) => ` <YouTube id="${match}" /> `
+      (_, match) => ` <Vimeo id="${match}" /> `
     )
     .replace(
       /\[vimeo.*vimeo.com(.*) .*\]/gms,
