@@ -28,7 +28,7 @@ language: de
 
 Für diejenigen unter Euch, die es noch nicht kennen: Beim musikalischen Blogger Blind Date verabreden sich Blogger⋆innen, um zu einem vorher verabredeten Zeitpunkt frei zu einem Song zu schreiben. Dabei entstehen ganz unterschiedliche Geschichten. Denn: Niemand weiß, was die anderen schreiben. Alle drücken gleichzeitig auf "veröffentlichen" und dann geht der Spaß so richtig los: Alle schmökern sich genüsslich durch die Geschichten und tauchen in die Welt ihrer Blogger-Kolleg⋆innen ein.
 
----
+- - -
 
 Es ist also wieder so weit. Bei der demokratischen Abstimmung fiel die Wahl dieses Mal auf einen für mich nicht ganz einfachen Song. Verknüpft mit einem vorgegebenen Thema, das ich nicht unbedingt mit dem Song verbinde – obwohl ich ihn zu dieser Zeit sehr oft gehört habe.
 
@@ -41,6 +41,8 @@ a-ha haben seit ihrer Gründung im Jahr 1982 (dem Jahr meiner Geburt) mehr als 1
 a-ha stammen aus Norwegen. Ich stelle mir vor, dass Morten Harket (Gesang), Pål Waaktaar-Savoy (Gitarre) und Magne Furuholmen Keyboard dort sicher eine schöne Kindheit verbracht haben. Mit ganz vielen Abenteuern.
 
 ## Eine spannende und behütete Kindheit in Norwegen
+
+![aha – "Take On Me"](/img/aha-take-on-e.jpeg "aha – \"Take On Me\"")
 
 Im Winter waren die drei sicher ganz oft beim Rodeln und haben vielleicht sogar Höhlen und Tunnel im Tiefschnee gegraben. Als sie etwas älter waren, haben sie ganz bestimmt jedes Jahr eine Schneebar gebaut. Vielleicht haben sie Schneehasen beobachtet. Zu Hause haben sie sicher mit ihren Eltern Waffeln gebacken und sich vor dem warmen Ofen gegenseitig Geschichten vorgelesen. Und Papiersterne für den Weihnachtsbaum ausgeschnitten.
 
