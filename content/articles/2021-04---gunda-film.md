@@ -63,7 +63,7 @@ In ausgewählten Kinos in Los Angeles, New York und San Francisco hat der Film b
 
 ## "Gunda" – Trailer
 
-<YouTube id="{afZ6n7lwx48}"
+<YouTube id="afZ6n7lwx48" />
 
 Hier geht's zur Gunda Webseite.
 
