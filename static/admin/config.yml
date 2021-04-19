@@ -11,20 +11,19 @@ backend:
 media_folder: static/img
 public_folder: /img
 publish_mode: editorial_workflow
+locale: de
 editor:
   preview: false
-
 slug:
   encoding: ascii
   clean_accent: true
-
 collections:
   - name: 'article'
     label: 'Artikel'
     folder: 'content/articles'
     create: true
-    slug: '{{year}}-{{month}}---{{slug}}'
-    preview_path: '{{year}}/{{month}}/{{slug}}'
+    slug: '{{year}}-{{month}}---{{permalink}}'
+    preview_path: '{{year}}/{{month}}/{{permalink}}'
     fields:
       - {
           label: 'Template Key',
@@ -32,20 +31,24 @@ collections:
           widget: 'hidden',
           default: 'article',
         }
+      - { label: 'GoLive', name: 'date', widget: 'datetime', required: false }
+      - { label: 'Permalink', name: 'permalink', widget: 'string' }
+      - { label: 'Typ', name: 'typeName', widget: 'string' }
       - { label: 'Titel', name: 'title', widget: 'string' }
+      - { label: 'SEO Titel', name: 'seoTitle', widget: 'string', required: false, comment: 'Fallback: Titel' }
+      - { label: 'Social Media Titel', name: 'ogTitle', widget: 'string', required: false, comment: 'Fallback: SEO Titel | Titel' }
       - { label: 'Untertitel', name: 'subTitle', widget: 'string' }
-      - { label: 'Exzerpt', name: 'description', widget: 'text' }
-      - { label: 'GoLive', name: 'date', widget: 'datetime' }
-      - { label: 'Bild', name: 'image', widget: image }
+      - { label: 'Description', name: 'description', widget: 'text' }
+      - { label: 'Teaser', name: 'excerpt', widget: 'text', required: false, comment: 'Für Übersichtsseiten - Fallback: Description' }
       - { label: 'Text', name: 'body', widget: 'markdown' }
+      - { label: 'Hauptbild', name: 'image', widget: image }
+      - { label: 'Social Media Bild', name: 'ogImage', widget: image }
       - { label: 'Labels', name: 'labels', widget: 'list' }
-      - {
-          label: 'Type',
-          name: 'type',
-          widget: 'select',
-          default: 'Standard',
-          options: ['Standard', 'Galerie', 'Galerie mit Bild'],
-        }
+      - { label: 'Focuskeyword', name: 'focusKeyword', widget: string, required: false }
+      - { label: 'Werbung', name: 'advertisement', widget: boolean, default: false }
+      - { label: 'Affiliate', name: 'affiliate', widget: boolean, default: false }
+      - { label: 'Sprache', name: 'language', widget: "select", options: ["de", "en"], default: 'de' }
+      - { label: 'Sprachlink', name: 'language', widget: "string", required: false, comment: 'Link zur Version in anderer Sprache' }
   - name: 'pages'
     label: 'Seiten'
     folder: 'content/pages'
