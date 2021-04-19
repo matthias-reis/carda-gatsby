@@ -70,4 +70,4 @@ Weil ich in meiner Kindheit leidenschaftlich gerne Erdbeeren geerntet und gegess
 
 ## aha – "Take On Me" (MTV Unplugged)
 
-<YouTube id="{-xKM3mGt2pE}" />
+<YouTube id="-xKM3mGt2pE" />
