@@ -4,8 +4,8 @@ date: 2021-04-19T10:03:22.633Z
 permalink: gunda-film
 typeName: Filmtipp
 title: '"Gunda" – ein einfühlsamer Tierrechts-Film'
-seoTitle: '"Gunda" – ein einfühlsamer Tierrechts-Film – das Leben der Schweine'
 subTitle: Das Leben der Schweine
+seoTitle: '"Gunda" – ein einfühlsamer Tierrechts-Film – das Leben der Schweine'
 description: '"Gunda" heißt der neue Tierrechts-Film von Victor Kossakovsky.
   Produzentin ist Anita Rehoff Larsen. Joaquin Phoenix ausführender Produzent.'
 excerpt: '"Gunda" heißt der neue Tierrechts-Film von Victor Kossakovsky.
@@ -63,7 +63,7 @@ In ausgewählten Kinos in Los Angeles, New York und San Francisco hat der Film b
 
 ### "Gunda" – Trailer
 
-[YouTube video player](https://www.youtube.com/embed/afZ6n7lwx48)
+<YouTube id="{afZ6n7lwx48}"
 
 Hier geht's zur Gunda Webseite.
 
