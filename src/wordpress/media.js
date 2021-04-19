@@ -15,7 +15,7 @@ const uploadImage = require('./uploadImage');
 const media = require('../../content/wordpress/media/images.json');
 
 const BASE_FOLDER = resolve(__dirname, '../..', 'content/wordpress');
-const INPUT_FOLDER = resolve(BASE_FOLDER, 'source');
+const INPUT_FOLDER = resolve(BASE_FOLDER, 'source-articles');
 const OUTPUT_FILE = resolve(BASE_FOLDER, 'media', 'images.json');
 
 activity('wordpress-media', async (l) => {
@@ -46,8 +46,8 @@ activity('wordpress-media', async (l) => {
     } unprocessed>`
   );
 
+  // relevantImages = relevantImages.slice(-10);
   // relevantImages = relevantImages.slice(0, 10); // for testing
-  console.log(relevantImages.map((i) => i.id));
 
   const chunks = splitEvery(10, relevantImages);
 

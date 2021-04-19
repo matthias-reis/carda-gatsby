@@ -17,17 +17,17 @@ module.exports = async (l, e, image, media) => {
       image.smallBuffer = await original
         .withMetadata()
         .resize({ width: 600 })
-        .sharpen(2.5, 0.5, 2)
+        .sharpen(1.5, 0.5, 2)
         .jpeg({
-          quality: 40,
+          quality: 60,
           chromaSubsampling: '4:4:4',
           progressive: true,
         })
         .toBuffer();
       image.mediumBuffer = await original
         .withMetadata()
-        .resize({ width: 800 })
-        .sharpen(2, 0.5, 2)
+        .resize({ width: 960 })
+        .sharpen(1.5, 0.5, 2)
         .jpeg({
           quality: 60,
           chromaSubsampling: '4:4:4',
@@ -37,9 +37,9 @@ module.exports = async (l, e, image, media) => {
       image.largeBuffer = await original
         .withMetadata()
         .resize({ width: 1960 })
-        .sharpen(2, 0.5, 2)
+        .sharpen(1.6, 0.5, 2)
         .jpeg({
-          quality: 50,
+          quality: 60,
           chromaSubsampling: '4:4:4',
           progressive: true,
         })
