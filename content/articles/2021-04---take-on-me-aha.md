@@ -1,6 +1,6 @@
 ---
 templateKey: article
-date: 2021-04-19T12:30:31.589Z
+date: 2021-04-24T10:00:00.000Z
 permalink: take-on-me-aha
 typeName: Beitrag
 title: Musikalisches Blind Date
