@@ -16,9 +16,8 @@ const pageQuery = `{
           focusKeyword
           labels
           remoteThumbnailImage
-          links {
-            en
-          }
+          language
+          languageLink
           image {
             childrenImageSharp {
               resize(width: 600) {
