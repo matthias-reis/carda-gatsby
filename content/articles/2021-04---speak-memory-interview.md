@@ -27,5 +27,6 @@ focusKeyword: Speak Memory
 advertisement: false
 affiliate: false
 language: de
+languageLink: /2021/04/speak-memory-interview-en
 ---
 nnn
