@@ -45,7 +45,7 @@ Mit ihren Songs möchten Speak, Memory ihre Hörer⋆innen auf eine Reise schick
 
 ### "Wir sind sehr zufrieden mit unserer neuen EP"
 
-![](/img/speak-memory-adirondack.jpeg)
+![Speak, Memory – "Adirondack"](/img/speak-memory-adirondack.jpeg "Speak, Memory")
 
 **Anne:** Seid Ihr zufrieden mit dem Ergebnis Eurer Arbeit?
 
