@@ -12,8 +12,8 @@ labels:
   - experiment
   - 'serie: Beispiele'
 type: Standard
-links:
-  en: /2020/05/en-markdown/
+language: de
+languageLink: /2020/05/en-markdown/
 ---
 
 ## Headline 2 - es sollte keine H1 geben.

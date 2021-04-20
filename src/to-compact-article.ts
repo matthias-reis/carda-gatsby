@@ -17,6 +17,6 @@ export const toCompactArticle: ToCompactArticleFn = ({
     path: fields.path,
     date: frontmatter.date,
     language: frontmatter.language,
-    links: frontmatter.links,
+    languageLink: frontmatter.languageLink,
   };
 };

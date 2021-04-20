@@ -73,16 +73,16 @@ export const ArticlePage: React.FC<ArticleProps> = ({
               {formattedDate} &mdash; Lesezeit: {meta.timeToRead} min
             </div>
           </Meta>
-          {meta.frontmatter.links?.de && (
+          {meta.frontmatter.languageLink && meta.frontmatter.language === 'en' && (
             <LanguageArea>
-              <Language to={meta.frontmatter.links?.de}>
-                Deutsche Version lesen
+              <Language to={meta.frontmatter.languageLink}>
+                Deutsche&nbsp;Version&nbsp;lesen
               </Language>
             </LanguageArea>
           )}
-          {meta.frontmatter.links?.en && (
+          {meta.frontmatter.languageLink && meta.frontmatter.language === 'de' && (
             <LanguageArea>
-              <Language to={meta.frontmatter.links?.en}>
+              <Language to={meta.frontmatter.languageLink}>
                 🇬🇧&nbsp;Read&nbsp;English&nbsp;Version
               </Language>
             </LanguageArea>

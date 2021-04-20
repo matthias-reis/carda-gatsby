@@ -24,10 +24,7 @@ export type Frontmatter = {
   remoteThumbnailImage?: string;
   labels: string[] | null;
   language?: 'en' | 'de';
-  links?: {
-    en?: string;
-    de?: string;
-  };
+  languageLink: string;
 };
 
 export type Article = {
@@ -51,7 +48,7 @@ export type CompactArticle = Pick<
   | 'remoteLoadingImage'
   | 'remoteThumbnailImage'
   | 'language'
-  | 'links'
+  | 'languageLink'
   | 'path'
   | 'date'
 >;

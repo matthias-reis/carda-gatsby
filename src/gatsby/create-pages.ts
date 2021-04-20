@@ -35,10 +35,7 @@ query MyQuery {
           remoteLoadingImage
           remoteThumbnailImage
           language
-          links {
-            de
-            en
-          }
+          languageLink
           image { 
             childImageSharp {
               fluid(maxWidth: 400, quality: 70) {

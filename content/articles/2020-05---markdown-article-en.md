@@ -13,8 +13,7 @@ labels:
   - 'serie: Beispiele'
 type: Standard
 language: en
-links:
-  de: /2020/05/markdown/
+languageLink: /2020/05/markdown/
 ---
 
  

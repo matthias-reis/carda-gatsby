@@ -88,10 +88,7 @@ export const query = graphql`
         remoteImage
         remoteLoadingImage
         language
-        links {
-          en
-          de
-        }
+        languageLink
         image {
           childImageSharp {
             fluid(maxWidth: 900, quality: 70) {
@@ -116,10 +113,7 @@ export const query = graphql`
           remoteThumbnailImage
           remoteLoadingImage
           language
-          links {
-            en
-            de
-          }
+          languageLink
           image {
             childImageSharp {
               fluid(maxWidth: 900, quality: 70) {
