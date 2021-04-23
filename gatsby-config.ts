@@ -70,22 +70,7 @@ export default {
       resolve: `gatsby-plugin-mdx`,
       options: {
         extensions: ['.mdx', '.md'],
-        gatsbyRemarkPlugins: [
-          { resolve: 'gatsby-remark-numbered-footnotes' },
-          {
-            resolve: 'gatsby-remark-relative-images',
-            options: {
-              staticFolderName: 'static',
-            },
-          },
-          {
-            resolve: `gatsby-remark-images`,
-            options: {
-              maxWidth: 1024,
-              sizeByPixelDensity: true,
-            },
-          },
-        ],
+        gatsbyRemarkPlugins: [{ resolve: 'gatsby-remark-numbered-footnotes' }],
       },
     },
     'gatsby-plugin-sharp',

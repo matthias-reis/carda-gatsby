@@ -9,6 +9,7 @@ import { Meme } from './meme';
 import { Youtube, YouTube } from './youtube';
 import { Vimeo } from './vimeo';
 import { Playlist } from './playlist';
+import Image from './image';
 import { RemoteImage } from './remote-image';
 import { Link } from './link';
 import { Frame } from './frame';
@@ -41,6 +42,7 @@ const defaults = {
   ol: Ol,
   li: Li,
   hr: HR,
+  img: Image,
   blockquote: BlockQuote,
 };
 
