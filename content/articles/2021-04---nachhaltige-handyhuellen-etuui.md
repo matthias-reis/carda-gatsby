@@ -2,7 +2,7 @@
 templateKey: article
 date: 2021-04-17T14:48:00.000Z
 permalink: /nachhaltige-handyhuellen-etuui
-typeName: Beitrag
+typeName: Produkttest
 title: Nachhaltige Handyhüllen von Etuui
 subTitle: Schick, praktisch und kompostierbar
 seoTitle: Nachhaltige Handyhüllen von Etuui – schick, praktisch und kompostierbar
