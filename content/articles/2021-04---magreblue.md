@@ -2,8 +2,8 @@
 templateKey: article
 date: 2021-04-23T15:26:41.676Z
 permalink: magreblue
-typeName: Beitrag
-title: Produkttest
+typeName: Produkttest
+title: Margreblue
 subTitle: Ein Onlineshop zeigt, wie Nachhaltigkeit funktioniert
 seoTitle: Margreblue – ein Onlineshop zeigt, wie Nachhaltigkeit funktioniert
 description: Margreblue ist ein Onlineshop für nachhaltige Produkte. Das
