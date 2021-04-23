@@ -30,7 +30,7 @@ language: de
 ---
 ## Ein Onlineshop zeigt, wie Nachhaltigkeit funktioniert
 
-*Werbung & Affiliate Links**
+\*Werbung & Affiliate Links\**
 
 **Margreblue ist ein Onlineshop für nachhaltige Produkte. Das erklärte Motto der Betreiber⋆innen lautet "Die Welt etwas blauer gestalten". Mit den hübsch in blau verpackten Shampoos und Seifen gelingt das sehr gut.**
 
@@ -56,7 +56,7 @@ Die Zutaten sind unbedenklich und komplett natürlich. Meine Kopfhaut neigt ja g
 
 Alle drei Shampoos sind mit ihren je 50 Gramm sehr ergiebig und reichen wirklich lange. Ich finde es schön, dass sie so handlich sind. Das macht sie auch zu einer guten Reisebegleitung.
 
-\[glry name="magreblue-1"]
+<Gallery name="magreblue-1"/>
 
 Die Zutaten sind wirklich klasse. Ich möchte Euch das gerne mal am Beispiel des Kräuter-Shampoos verdeutlichen. Darin stecken neben Tonerde und Babassuöl unter anderem wertvolles Brokkolisamenöl, Salbeiöl und andere hochwertige Zutaten.
 
@@ -108,6 +108,6 @@ Wenn Euch meine Produktvorstellungen gefallen haben, könnt Ihr ja selbst mal [b
 
 Alles über [die Unterschiede zwischen veganer Kosmetik, Biokosmetik und veganer Naturkosmetik](http://cardamonchai.com/2018/03/vegane-kosmetik-und-naturkosmetik/) erfahrt Ihr hier.
 
-\[glry name="magreblue-2"]
+<Gallery name="magreblue-2"/>
 
 *\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Die Produkte wurden mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](http://cardamonchai.com/werbung/).*
