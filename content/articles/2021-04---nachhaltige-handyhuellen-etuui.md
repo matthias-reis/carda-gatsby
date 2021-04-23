@@ -14,7 +14,7 @@ excerpt: Werbung & Affiliate Links – Eine nachhaltige Handyhülle wäre schön
 image: /img/2021-03-28-etuui-7.jpg
 ogImage: /img/nachhaltige-handyhuellen.jpg
 labels:
-  - "*Nachhaltige Handyhüllen"
+  - Nachhaltige Handyhüllen
   - Handyhüllen
   - Handyhülle
   - Nachhaltige Handyhülle
@@ -23,15 +23,13 @@ labels:
   - Etuui
   - plastikfrei
   - Mobiltelefon
-  - Handy*
+  - Handy
 focusKeyword: Nachhaltige Handyhülle
 advertisement: true
 affiliate: true
 language: de
 ---
 ## Schick, praktisch und kompostierbar
-
-*Werbung & Affiliate Links**
 
 **Eine nachhaltige Handyhülle wäre schön, oder? Heutzutage verzichtet schließlich kaum noch jemand aufs Smartphone. Hübsch verpackt macht das Teil natürlich noch viel mehr Spaß. Aber klappt das auch ohne Umweltsünden? Die gute Nachricht ist: Ja, das geht. Ich habe mir jetzt die Hüllen von Etuui mal genauer angeschaut.**
 
