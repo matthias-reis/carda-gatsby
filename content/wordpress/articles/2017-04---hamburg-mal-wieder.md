@@ -37,9 +37,9 @@ subTitle: Elbe, Sonne und Wolken
   
 ---
 
-**Mit dem Herzmann habe ich am Ostermontag einen schönen Spaziergang gemacht.
-Wir sind hier bei uns ins [Altona](/2017/04/bilder-aus-der-hood/) losgegangen
-und haben einfach mal wieder den Blick über die schöne
+**Am Sonntag habe ich einen schönen Spaziergang unternommen. Ich bin in
+[Altona](/2017/04/bilder-aus-der-hood/) losgegangen und haben einfach mal wieder
+den Blick über die schöne
 [Elbe](/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/)
 schweifen lassen.**
 

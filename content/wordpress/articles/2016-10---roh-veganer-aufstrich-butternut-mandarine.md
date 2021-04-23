@@ -12,6 +12,7 @@ excerpt: Mein Rezept für Butternut Kürbis Mandarine Aufstrich habt Ihr Euch
   bekommen.
 focusKeyword: Butternut
 labels:
+  - Aufstrich
   - Butternuss
   - Butternut
   - Kürbis
@@ -20,7 +21,7 @@ labels:
   - vegane Rezepte
   - Vegane Rezepte
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2016-10-28T14:54:18.000Z
 status: publish
 isWerbung: false

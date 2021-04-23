@@ -184,7 +184,9 @@ Kokosschuhen weichen müssen.
 
 In diesem Sinne: Go vegan!
 
-- [1][sendung auf 3sat zum thema veganismus](http://www.3sat.de/mediathek/?mode=play&amp;obj=49416)
-- [2][artikel zum thema veganismus in der zitty berlin](http://www.zitty.de/veganismus-ist-mehr-als-nur-ein-lifestyle-trend.html)
+- [1]
+  [Sendung auf 3Sat zum Thema Veganismus](http://www.3sat.de/mediathek/?mode=play&obj=49416)
+- [2]
+  [Artikel zum Thema Veganismus in der Zitty Berlin](http://www.zitty.de/veganismus-ist-mehr-als-nur-ein-lifestyle-trend.html)
 
   

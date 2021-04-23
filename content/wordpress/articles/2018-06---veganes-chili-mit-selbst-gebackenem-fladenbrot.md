@@ -12,6 +12,7 @@ excerpt: "Ihr kommt ausgepowert vom Sport und habt Lust auf ein veganes Chili?
   glücklich!"
 focusKeyword: Veganes Chili
 labels:
+  - Brot
   - Chili Rezept
   - Chili vegan
   - Fladebrot
@@ -25,7 +26,7 @@ labels:
   - Vegane Rezepte
   - veganes Chili
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2018-06-12T06:11:16.000Z
 status: publish
 isWerbung: false
@@ -35,7 +36,7 @@ thumbnailId: "21229"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_42192738912_a3fea66f31_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_42192738912_a3fea66f31_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBgIDB//EAC0QAAEDAwIEBQMFAAAAAAAAAAECAwQFESEABhITMUEHFCJRYSNxgTIzobHh/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMAAv/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMRIRITMnGB/9oADAMBAAIRAxEAPwBrSPDCnTKWtHJagIIuXmCUq/JPX7HSZW0q7RpXFS3lVFptX01pHAvHwrH86nb24JIbjmLJ8wkcKS1KeK0kdyPY6dbm8QTSFJaYprfEtBWlx10lBCf1WAA6fJHb30FraW8hgxYS1Bo6lSqjW93pjUt2BVGltN+nlAFFza4UhIKTgHtohVKVNkuQdx01lDJbUoSFNcoAjspC/fpjP41sR4m1NisOgmNMgHjfCSgBaW8nhCk5FrWub9r6sje66JuqM4hj9zADUlKbqxf0+/8AetSwL5DH0ZAWIwOE39nIGKc9BlJXSprbjByELe5ax8Z9J+9xptURXpHkFMUhUhqMovcbi23LHoAAlRuOt7HPTRo1e6hCJ3Te4YRJMiSyCuRTKiw+sniW0hy6sWJGLD/dZNUqqSXo/JiOw8guSXxysjIUbnJz2A6DRo0WqheQjrrOI7ANmf/Z
-subTitle: Rezept für zwei Personen
+subTitle: Für zwei Personen
   
 ---
 

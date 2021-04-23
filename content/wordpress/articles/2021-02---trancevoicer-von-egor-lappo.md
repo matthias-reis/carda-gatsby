@@ -30,12 +30,11 @@ date: 2021-02-22T05:00:12.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "32847"
-remoteThumbnailImage: null
-remoteImage: null
-remoteLoadingImage: null
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_egor-lappo__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_egor-lappo__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAj/xAAoEAACAQMDAgUFAAAAAAAAAAABAgMABBEFITESUQYHE2GhCBQVIkL/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQIAAxESEzFB/9oADAMBAAIRAxEAPwCC+h+vFK/s5b/UltrcAuTtk4A96dzTIkTMx2Ayasvld5Ma3FaWfieW+sEuLu3Lx6ZLGxZ45FyvVIDhGIweDjOCa0Xdalj78l94XQs53RDHdqjMDhsdSnIPvTyWIKopdr0xOs3TugRllZSg/nBxj4pi0oeFD3FPs0gGTLmkRddTdUTL32NWHQfqC1fTPDFrpv4u2l1G0t/RhvDJhCVAVGZMchRvvuQON6KKJqEsTGHkF3POQ+8cvMzO3W7Eszd2O5+a3LNiNVzwAKKKa40CApn/2Q==
 subTitle: Progressive Metal aus Sankt Petersburg
   
 ---
@@ -57,9 +56,10 @@ spielerisch Elemente aus Progressive Rock und Metal sowie Ambient und sogar Pop.
 
 <RemoteImage alt={`Egor Lappo`} size="medium"
 title={`Egor Lappo – "Trancevoicer"`}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2021/02/egor-lappo-1.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2021/02/egor-lappo-1.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_egor-lappo-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_egor-lappo-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcBBQYE/8QAKhAAAQMDAgUDBQEAAAAAAAAAAQIDBAAFEQYSEyEiMUEHMlIUFlFhcWL/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQA/8QAHREAAgICAwEAAAAAAAAAAAAAAREAAgMSMUFxUf/aAAwDAQACEQMRAD8ASOqQCYm449/jPxqz9Nmov3RDjzLfGuDEpfDwoFS09KvYARz/ALQ+htdyhh9LKmdrm8OnAx09v3TF0kNOD1BsDlmghhCpzXDQkKJRzx1HJB8Y7Uu7aUqxVBobPiYL1MiWaPqaexaIzzDrTux5pzAS0QkDCQPA8/uqbTON0vaMY2D+96cV2TpZrX2ql3e3xJTjtwWXFSwrDac4O38eeY58gBSujsss3Kb9KGBHVtLXC+GVbd3+sd6ZprWpfMmObe1qIhLw+TrYbZcntB9SE9CsFZwO4rcaGFsjaos8hUmO2ES21KPEAAwaKKzQMHyTrZqDP1VenmpUYtuSnFbg+gZ58u5rCvMtsT3kNLbWNic7FBQHfyKKKPQgBLIn/9k="
+/>
 
 Was streckenweise zuckersüß klingt, baut sich auch immer wieder zu finsteren
 Sphären und Schichten aus metallischen Gitarrenklängen auf. Der kreative Mix aus
@@ -117,9 +117,10 @@ progressive rock and metal as well as ambient and even pop.
 ## Egor Lappo mixes prog and ambient
 
 <RemoteImage alt={`Egor Lappo`} size="medium" title={`Egor Lappo`}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2021/02/egor-lappo-2.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2021/02/egor-lappo-2.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_egor-lappo-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_egor-lappo-2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcFBggE/8QALBAAAQMDAQYEBwAAAAAAAAAAAQIDBQAEEQYHEiEiMUEIE1FhFTJxgZKhov/EABcBAQEBAQAAAAAAAAAAAAAAAAIDAAH/xAAcEQEAAwACAwAAAAAAAAAAAAABAAIDESExQVH/2gAMAwEAAhEDEQA/AH6ZVwq5UAj6Go3UurrbTsO/JSRdbtGyElTbJcUCfRI49iag4OXmVN4mdNXrCwThVncsrBHblUrr96oO2ORkGIku37Mi1GPX6U2yHVNlSVbiycgFQA3Qrv3HSot7fJWtaqCyxaGnm5HWt5Jxr6X7a/becadA4LSVIwcHp06UyhI3Pesm7AZiVdk5FiHtnbjyEm4baCk8oWrCkneI4Hh071pmGvnnWUfE4SSZexzbjrS0Z9uYGhbVq9zpmemcLUitzHmIQ0PQuhRP40ovEfK+bAQlshSjm8dcUgpIzuskA/3RRSPMIRceH6dsNO6ql35K7btUGwUEKczhRDiSQMcc4zw9qdV7tkiba337Fi4kHvmShpRZSRkjJKhjHA/qiitpUXmPM56n/9k="
+/>
 
 What sounds pretty sweet in parts rises and builds up again to dark spheres and
 layers of metal guitar sounds. The creative mix of styles from the most diverse

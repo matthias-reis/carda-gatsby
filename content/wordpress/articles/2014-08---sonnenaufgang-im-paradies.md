@@ -46,11 +46,11 @@ sportliches Erfolgserlebnis zu verbuchen!**
 
 Ich bin heute nach langer Zeit endlich wieder angelaufen und es ging mir
 wirklich spitze dabei! Kein Seitenstechen, kein Zwicken und kein Zwacken. So
-kann es weitergehen. Rund 3 Kilometer waren es heute morgen, das nächste Mal
+kann es weitergehen. Rund drei Kilometer waren es heute morgen, das nächste Mal
 werde ich mir eine größere Runde aussuchen.
 
-Als Belohnung gab es danach einen leckeren Smoothie für mich und den Herzmann.
-Mein Rezept ist also für 2 Smoothies gedacht. Ich habe sie im Smoothiemaker
+Als Belohnung gab es danach einen leckeren Smoothie für mich und Matze. Mein
+Rezept ist also für zwei Smoothies gedacht. Ich habe sie im Smoothiemaker
 gemacht, je nach Konsistenz, Inhalt und Menge benutze ich auch manchmal den
 Stabmixer. Die Besonderheit meines heutigen Smoothies, ich nenne ihn
 "Sonnenaufgang im Paradies" besteht in den zwei verschiedenen Schichten.

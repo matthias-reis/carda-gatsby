@@ -110,10 +110,11 @@ und so nett, ein paar eindrucksvolle Bilder zu meinem Artikel beizusteuern.
 
 ### Fußnoten
 
-- [1][surge](https://surgeactivism.org/theofficialanimalrightsmarch)
-- [2][tierrechtsaktivistenbündnis hamburg](https://animalrightsmarchgermany.de/)
-- [3][official animal rights march](https://www.theofficialanimalrightsmarch.org/
-  target=)
+- [1] [Surge](https://surgeactivism.org/theofficialanimalrightsmarch)
+- [2]
+  [Tierrechtsaktivistenbündnis Hamburg](https://animalrightsmarchgermany.de/)
+- [3] [Official Animal Rights
+  March](https://www.theofficialanimalrightsmarch.org/ target=)
 
 **Fotos:** [Tobias Hess Photography](https://tobiashess-photography.com)
 

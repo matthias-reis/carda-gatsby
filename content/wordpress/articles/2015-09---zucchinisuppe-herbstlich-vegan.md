@@ -25,7 +25,7 @@ labels:
   - Zucchinisuppe
   - Zucchinisuppe vegan
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2015-09-10T07:46:16.000Z
 status: publish
 isWerbung: false

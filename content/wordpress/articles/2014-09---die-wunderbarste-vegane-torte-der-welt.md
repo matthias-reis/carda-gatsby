@@ -23,7 +23,7 @@ labels:
   - Vegane Rezepte
   - Veganer
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2014-09-04T07:00:21.000Z
 status: publish
 isWerbung: false

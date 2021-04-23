@@ -30,12 +30,11 @@ date: 2021-02-18T15:23:23.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "32941"
-remoteThumbnailImage: null
-remoteImage: null
-remoteLoadingImage: null
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_vandemonian-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_vandemonian-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMFBgIEB//EACYQAAICAQMDBAMBAAAAAAAAAAECAwQRAAUGEiExBxNBURQVgSP/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgAB/8QAHxEAAgICAgMBAAAAAAAAAAAAAQIAAyExERIjMmHR/9oADAMBAAIRAxEAPwDi3BNih5Fvn4Vu09SusLzPLGgZgFx2AJH3/NR24Vv1961UmdGavK0ZZWBBwfvWHFZ7a8jovt1aK1OrlVSUOVwRgsxQ9QABzkeNWz04uS0/UuY7jRSK04l6YlrB0ifHV2VskDA8+e+dJYzVln2OItapYFTRJ3KWSCMqQR5Bzp24bbcp1a1qzWlir2uowSOpCydPnH3jUrzyOJOXbpHRiaNRJke4AepiASxGMYJPjGNSPqByNeQbbx9VeIy1q5EypEUKvhV7/HwT2JHg9tUGd+hUYP5IKIndWORr7mV3mbQLulRKsEcCLQrgmJQvukx5LnHyc4/mtKpZatLHJWleGWEho3jbpZSPkEdwdGjWT0E6x8jRl+9NauWLVqd5rUztJJI5yXYnvnSJp/8AHyMY0aNNXgcCDbk8mf/Z
 subTitle: Das Debüt der Hamburger Post-Rock Band
   
 ---
@@ -65,9 +64,10 @@ hören lassen – ein gelungenes Debüt also. Soviel schonmal vorneweg.
 
 <RemoteImage alt={`Vandemonian – &quot;Xenophilia&quot;`} size="medium"
 title={`Vandemonian – "Xenophilia"`}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2021/02/vandemonian.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2021/02/vandemonian.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_vandemonian__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_vandemonian__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABAYBAwUH/8QAKRAAAgECBQMEAgMAAAAAAAAAAQIDBBEABQYSMSEyQRNhgbEiI1GRof/EABgBAAIDAAAAAAAAAAAAAAAAAAAEAQIF/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAEREgMTQVH/2gAMAwEAAhEDEQA/AH0M+V0lLcw0cr7jCxiURlRfay3senIwXMs/yqCrEVPGqxpFZy15LXubC/BuebecT2U6k0u6xrHQ1uWoWIXcnrIt+eqkm3wScYrMi07Hl8rU+p4FqnZ7yMHY7DwLAc+/OHrmTr8A5nqZHef1qaSQtdDGakhRYXB6D3P9449Vq6eeJUaEJ+e7ndcX4JPXwMbK7TlNLM5ptR5dLIeA0hjDAAeSAL4Hl2ncq9Q1Wa6gohSxEF6ajZpJnHO1bDpf+Rx7Yi5V4Z6W1PpSpjhAC0wsOz1OP8thMmSZisYJMTde1ArsPr7xQ1kzztAaWVYdjBj+u9/F/foT0PS9ieMdUVVK/dGOPIwrCHIIE5DXTKWIhRr9rqNx+AMAl0vNGSJDBHIPIDE/Qtj0qSqhi7OB4AwWTMKe5DqPkYAaR//Z"
+/>
 
 Turbulente Zeiten bringen also turbulente Musik hervor. So weit, so gut.
 Vandemonian lassen sich allerdings keinesfalls runterziehen von politischen
@@ -208,9 +208,10 @@ band's sound is worth listening to - a successful debut. So much for now.
 
 <RemoteImage alt={`Vandemonian - &quot;Xenophilia&quot;`} size="medium"
 title={`Vandemonian - "Xenophilia"`}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2021/02/vandemonian.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2021/02/vandemonian.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_vandemonian__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_vandemonian__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABAYBAwUH/8QAKRAAAgECBQMEAgMAAAAAAAAAAQIDBBEABQYSMSEyQRNhgbEiI1GRof/EABgBAAIDAAAAAAAAAAAAAAAAAAAEAQIF/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAEREgMTQVH/2gAMAwEAAhEDEQA/AH0M+V0lLcw0cr7jCxiURlRfay3senIwXMs/yqCrEVPGqxpFZy15LXubC/BuebecT2U6k0u6xrHQ1uWoWIXcnrIt+eqkm3wScYrMi07Hl8rU+p4FqnZ7yMHY7DwLAc+/OHrmTr8A5nqZHef1qaSQtdDGakhRYXB6D3P9449Vq6eeJUaEJ+e7ndcX4JPXwMbK7TlNLM5ptR5dLIeA0hjDAAeSAL4Hl2ncq9Q1Wa6gohSxEF6ajZpJnHO1bDpf+Rx7Yi5V4Z6W1PpSpjhAC0wsOz1OP8thMmSZisYJMTde1ArsPr7xQ1kzztAaWVYdjBj+u9/F/foT0PS9ieMdUVVK/dGOPIwrCHIIE5DXTKWIhRr9rqNx+AMAl0vNGSJDBHIPIDE/Qtj0qSqhi7OB4AwWTMKe5DqPkYAaR//Z"
+/>
 
 Turbulent times bring turbulent music. So far, so good. But Vandemonian don't
 let themselves be dragged down by political disagreements, never-ending

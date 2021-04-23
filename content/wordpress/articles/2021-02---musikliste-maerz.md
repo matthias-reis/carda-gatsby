@@ -20,10 +20,10 @@ labels:
   - Cult Of Luna
   - Denovali Records
   - Dunk Records
-  - DUNK! Records
+  - DUNK!records
   - Free Dust
   - Ian Kenny
-  - Johan G. Winter
+  - Johan G. Winther
   - KOKOMO
   - M Sage
   - MONO
@@ -43,12 +43,11 @@ date: 2021-02-25T09:21:57.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "32934"
-remoteThumbnailImage: null
-remoteImage: null
-remoteLoadingImage: null
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_12-songs-maerz-blog__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_12-songs-maerz-blog__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBggE/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQMCBAURABIhBhMxByJRFHHRI0FhkaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EACERAAICAQQCAwAAAAAAAAAAAAECAAMRBCExcRIiYaHB/9oADAMBAAIRAxEAPwDtuHTa5BVWD+pITLh3h7RjgEHj+vGsrylTfRDG3u4APznP4041Ntj+nnIapSq5UCFygs9x0pSHMp58R5OMc8DTat3qHXMNK2p6daKN9O6NQpvaBpZQkYLkqMgJMjKOCRyc+DodNK1jC/H1GW6qxx7nO5PWZf3WS9/UCAamKC7f7Xk5G7PPs44/nWerh6zWG4NSptvrYUZaQ0RZCOxZl5gMecZ4JwdKkopl9GKkwKlWOqpKiROJmuMYgyMhncCSRjIwRnB1pug9QK9opmu6daKR9M6L1s7QNLKEjBclAgSZGUcEjk58HTPMiCVAvErHRPV6bvfrFQup7euaaZpNUiBW0gR8HacY4GfnUho7oKygk50o28U5IDZYmthazcTE+RKJhjH+aNGjU7OR1+iUtOgtJVuMGLm5XqzUXq53XXKrda1VYbIg5KnE7pYl+64zAyPj7arVtpaVamCuo2VFTvPblCZAH3P40aNLWTZ//9k=
 subTitle: 12 Songs für den Frühlingsbeginn
   
 ---
@@ -64,9 +63,10 @@ mit Matze und Valentin rausgesucht, die mich in einer anderen Zeit regelmäßig 
 Konzerten begleitet haben.
 
 <RemoteImage alt={`Musikliste`} size="medium" title={``}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2021/02/12-songs-maerz-1.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2021/02/12-songs-maerz-1.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_12-songs-maerz-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_12-songs-maerz-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHAwb/xAApEAABBAEDAwMEAwAAAAAAAAABAgMEEQUABiEHEjETFUEUIlFxIzKB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAIREAAAYCAQUAAAAAAAAAAAAAAAECAxESEyHwBCNBYYH/2gAMAwEAAhEDEQA/ANQIOysyqVkpr0KO7H9MlxovAOqFpIq/PabvUV6h5CBnN3uZGIVOsKQ0grWgItaUgHgHwaNVql7cVJ6hSIuL3e4p/FLYVNQ3EbEZ3vb7UlQVZtILihXN8HXDdQ9t4PDb2Rh8XFybaHfTU36r5cK0qRyDx5Cxfj4rUkNURVOhUuoUpcunY49CjNYPF5bultO47DRVmm0KdUsrIACjzdC/xXk6NZbj2phYrjCsLumEGXgVlMh0AgfHBqj5v/NGo3IOoT6Pzcc5veMcxj1R8RBwbjIYkO/UNtud7ZK0kgFIUQTyTX6051E2LmN+bhdzezX8R7IxHDbTTzyW3G/TNuEJolP3DzfP6OuO2VB94cz2JYlBlMrGuKDqGqCFBxsix/aqsUPzqgy5Gfg4zGN7djRU5Vlcky5ZWgIdZW2m0EnldAKsEfbxXOtO5MA2u3ljzHOb+CNzNwPSlofTHdAWhNd6SqxXHJ0aaxmXMOBHYbhMvdqB/IsWVCuPn4A0aRMoIDIof//Z"
+/>
 
 Kocht Euch am besten einen Kaffee oder macht Euch ein Bierchen auf, setzt die
 Kopfhörer auf die Ohren, macht es Euch gemütlich und genießt den Sound. Ganz
@@ -91,14 +91,14 @@ Matze:
 
 Matze:
 
-"Unsere gemeinsame Lieblings-Band aus Japan Mono wird vermutlich bald ein
-monumentales Live-Album abliefern. Gerüchteweise können wir darauf viele
-spannende Gastmusiker⋆innen erwarten – von Envy und Boris über langjährige
-Weggefährten wie Jo Quail und A.A. Williams bis hin zu Überraschungen wie
-Alcest. Ich bin froh, jetzt schon in die Platte reinschnuppern zu dürfen. Meine
-Empfehlung für Euch: Genießt schon mal 'Meet us Where the Night Ends' und tut
-Euch mit dem Triple-Gatefold-40-Seiten-Photo-Book-Album etwas Gutes.
-Vorbestellungen sind ab sofort möglich."
+> "Unsere gemeinsame Lieblings-Band aus Japan Mono wird vermutlich bald ein
+> monumentales Live-Album abliefern. Gerüchteweise können wir darauf viele
+> spannende Gastmusiker⋆innen erwarten – von Envy und Boris über langjährige
+> Weggefährten wie Jo Quail und A.A. Williams bis hin zu Überraschungen wie
+> Alcest. Ich bin froh, jetzt schon in die Platte reinschnuppern zu dürfen.
+> Meine Empfehlung für Euch: Genießt schon mal 'Meet us Where the Night Ends'
+> und tut Euch mit dem Triple-Gatefold-40-Seiten-Photo-Book-Album etwas Gutes.
+> Vorbestellungen sind ab sofort möglich."
 
  <YouTube id="xkl40HDiELc" />
 
@@ -198,12 +198,13 @@ Vorbildern von Caspian und Maybeshewill durchaus Schritt halten.
 
 Matze:
 
-"Der Göteborger Musiker Johan Gustavsson oder Johan G. Winther ist in Post-Rock
-und Black Metal/Blackened Hardcore Kreisen kein unbeschriebenes Blatt. Ich habe
-sein neues Stück als Geheimtipp im Pelagic Records Newsletter entdeckt. Das
-Stück vereint ein außergewöhnliches, treibendes Percussion-Gerüst mit düsteren,
-stimmungsvollen Banjo- und Cello-Melodien. Ich habe gleich mal den kompletten
-Back-Katalog durchgehört und bin gespannt auf das neue Album."
+> "Der Göteborger Musiker Johan Gustavsson oder Johan G. Winther ist in
+> Post-Rock und Black Metal/Blackened Hardcore Kreisen kein unbeschriebenes
+> Blatt. Ich habe sein neues Stück als Geheimtipp im Pelagic Records Newsletter
+> entdeckt. Das Stück vereint ein außergewöhnliches, treibendes
+> Percussion-Gerüst mit düsteren, stimmungsvollen Banjo- und Cello-Melodien. Ich
+> habe gleich mal den kompletten Back-Katalog durchgehört und bin gespannt auf
+> das neue Album."
 
  <YouTube id="nuvRxDhJ-0g" />
 

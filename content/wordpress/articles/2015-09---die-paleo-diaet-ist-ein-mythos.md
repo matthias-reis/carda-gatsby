@@ -10,6 +10,7 @@ excerpt: '"Unsere Vorfahren haben Getreide statt Fleisch gegessen!" Das haben
   jetzt Forscher in Italien herausgefunden. Der New Scientist berichtet.'
 focusKeyword: Paleo Diät
 labels:
+  - Brot
   - Ernährung
   - Ernährung & Gesundheit
   - Forschung
@@ -65,8 +66,9 @@ Pope von der Universität in London.
 Bei der Paleo Diät steht Protein im Mittelpunkt. Aus 100 Gramm Hafer können
 beispielsweise 17 Gramm pflanzliches Protein gewonnen werden.
 
-- [1][artikel im new scientist](https://www.newscientist.com/article/dn28139-stone-age-people-were-making-porridge-32000-years-ago/)
-- [2][matt pope](hhttp://www.pnas.org/content/early/2015/09/02/1505213112)
+- [1]
+  [Artikel im New Scientist](https://www.newscientist.com/article/dn28139-stone-age-people-were-making-porridge-32000-years-ago/)
+- [2] [Matt Pope](//www.pnas.org/content/early/2015/09/02/1505213112)
 
 **Bild:** [Hans](https://pixabay.com/de/users/hans-2/), pixabay
 

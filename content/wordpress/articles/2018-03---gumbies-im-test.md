@@ -17,7 +17,7 @@ labels:
   - Dünen
   - dusche
   - Fair Fashion & Beauty
-  - Flip Flops
+  - Flip-Flops
   - Gumbies
   - Reisen
   - Sandalen
@@ -28,7 +28,7 @@ labels:
   - Surfer
   - Surfstyle
   - Urlaub
-  - vegane Flip Flops
+  - vegane Flip-Flops
   - vegane Schuhe
   - Wandern
   - Workout
@@ -83,9 +83,9 @@ alterungsbeständige EVA-Einlage. Darüber liegt eine Schicht atmungsaktive,
 strapazierfähige Baumwolle.
 
 Was mir gleich auf Anhieb gut gefallen hat: Die breiten Trageriemen aus weicher
-Baumwolle. Sie stellten sich im Test als sehr bequem heraus. Von früheren Flip
-Flops kann ich mich noch zu gut an Scheuerstellen und Blasen zwischen den Zehen
-erinnern, mit den Gumbies ist mir das nicht passiert.
+Baumwolle. Sie stellten sich im Test als sehr bequem heraus. Von früheren
+Flip-Flops kann ich mich noch zu gut an Scheuerstellen und Blasen zwischen den
+Zehen erinnern, mit den Gumbies ist mir das nicht passiert.
 
 Zuerst begleiteten mich meine neuen australischen Sandalen zum Yoga, wo ich
 neidische Blicke erntete.
@@ -105,7 +105,7 @@ angezogen und meine Füße hatten es sehr bequem.
 ## Die Gumbies im Dampfbad
 
 Mein persönlicher Härtetest kam eine Woche später im Dampfbad. Ich gebe zu, dass
-ich da ungern barfuß reingehe und darum gerne meine Flip Flops anlasse. Sonst
+ich da ungern barfuß reingehe und darum gerne meine Flip-Flops anlasse. Sonst
 habe ich immer welche aus Gummi dabei, die von der Wärme zugegen schon etwas
 porös sind.
 
@@ -135,7 +135,7 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 
 Von mir bekommen die Gumbies 10 von 10 Punkten und Ihr meine Empfehlung.
 Besonders mag ich den nachhaltigen Gedanken dahinter. Ich kann mir nach der
-kurzen Tragezeit nicht vorstellen, dass sie, wie andere Flip Flops, nach einer
+kurzen Tragezeit nicht vorstellen, dass sie, wie andere Flip-Flops, nach einer
 Sandalensaison durch sind. Ganz sicher werden sie mich noch auf vielen Wegen
 begleiten.
 

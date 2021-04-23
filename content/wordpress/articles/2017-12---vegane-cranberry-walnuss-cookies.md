@@ -25,7 +25,7 @@ labels:
   - Walnüsse
   - Weihnachten
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2017-12-10T18:05:19.000Z
 status: publish
 isWerbung: false

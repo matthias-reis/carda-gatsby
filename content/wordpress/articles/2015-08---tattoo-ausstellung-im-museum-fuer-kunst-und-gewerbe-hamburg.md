@@ -57,10 +57,10 @@ und Handwerkszeug von Tattooartists verschiedener Epochen weltweit.
 ## Das Tattoo im Wandel der Zeit
 
 Von meiner [Vorliebe für Tätowierungen](/2014/08/wie-picasso-nur-mit-strom/)
-habe ich Euch ja schon ausführlich berichtet. Für den Herzmann und mich war es
+habe ich Euch ja schon ausführlich berichtet. Für Matze und mich war es
 natürlich eine Ehre und auch ein kleines Highlight, als wir von den Ausstellern
 gefragt wurden, ob wir uns spontan fotografieren lassen würden. In trauter
-Zweisamkeit posierten wir vor den Exponaten und wurden abgelichtet. Die Bilder
+Zweisamkeit posierten wir vor den Exponaten und wurden abgelichtet. Die Bilder
 werden zwar nicht veröffentlicht, sondern landen in der Sammlung des Kurators,
 aber eine schöne Erinnerung bleibt für uns, auch wenn wir sie nicht sehen
 können.

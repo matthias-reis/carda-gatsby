@@ -24,12 +24,11 @@ date: 2021-02-19T10:59:23.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "32967"
-remoteThumbnailImage: null
-remoteImage: null
-remoteLoadingImage: null
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAJxAAAQMEAQMEAwEAAAAAAAAAAQIDBAAFESESBjFBEyJhcRQzQoH/xAAYAQEAAwEAAAAAAAAAAAAAAAABAAIDBP/EAB4RAAICAgMBAQAAAAAAAAAAAAECABEDEiEiMROx/9oADAMBAAIRAxEAPwDPyeqYE+5pamQrUzEXwShUeMVOcuYB5EtlOCddxjPeuf3213VEtz1YkrLa1fpSvijKieAGNU3dpknp26RFwZMiYy4tKjHe4todxnAPE5x8+av3+s7DGhwTDtN+/LWjlOWZDRSXdbbwNpyT332z5pDtUXRNiB5MLCvTkRtbM56QlHL1OKyo5IOhkgkgEfVTIv8Acro9HYt8h124KWEtMIBBWFd8qBGPHf57VbEW2Vbmpb8S8qLLRShRfjqSdkpz/SfnG/NbXpa33RuytOyen0SWXgX1rCWV5K9hOCckYHbxSzIw0yVUxGNlOyWZy9FxtYkui4RVvNA4ZCCSGzk6931TZi2KRbFyobZQ4wObiAotZ12SSd+4j/KKKb661LHnkye5RIMe0SJ1udeDTLYWkrdScqOgOJ9xGx4pS09SSYPTpaU62iLJc4LbSwS4EnRUhwnAIA0PqiiuRH+t7Dw1+SY8rdqn/9k=
 subTitle: Das Videoportal für modernen Aktivismus
   
 ---
@@ -60,9 +59,10 @@ dem Klimawandel entgegenzuwirken.
 ## WaterBear bietet eine breite Filmauswahl
 
 <RemoteImage alt={`Waterbear`} size="medium" title={``}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2021/02/waterbear-logo.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2021/02/waterbear-logo.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-logo__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-logo__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgH/xAAlEAACAgEEAQQDAQAAAAAAAAABAgMRBAAFBiESBxMxQSNCUZL/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQME/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwCHa4TQs/GjVk9A14IkeRJyaHDy99afwhj3CvYiiJRVKhrUsXfs0SB/KN9FuMpNRsGxY13VJ9dDxmXfttyuLYMOA+RA75MOOoWMgOFjfxAAVjUgIr9Qe7vU21ZdKZbPLtEcWSN4xsyaTowHHcKL7sNZHXQ/0f4NOZsvhjlVG2ZjRLGV+GVnclbYn3D9eQUV192D1lNGpg28O6cDl27EXO2POTMiw5IWOHcSGTyYozfkJc0RTdVVN5iqV8syuLTQwpxXAzYJC4aaXLLWAI1XxQe4wot5Mb7+ADXWs5o0w1//2Q=="
+/>
 
 Mit viel Leidenschaft und Feingefühl schafft es das WaterBear Team auch bei
 diesen Menschen zu landen. Kein Wunder: Die App und auch das Portal an sich sind
@@ -142,9 +142,10 @@ sustainability and try to counteract climate change with their behaviour.
 ## WaterBear offers you a large selection of films
 
 <RemoteImage alt={`Waterbear`} size="medium" title={``}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2021/02/waterbear-logo.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2021/02/waterbear-logo.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-logo__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-logo__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgH/xAAlEAACAgEEAQQDAQAAAAAAAAABAgMRBAAFBiESBxMxQSNCUZL/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQME/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwCHa4TQs/GjVk9A14IkeRJyaHDy99afwhj3CvYiiJRVKhrUsXfs0SB/KN9FuMpNRsGxY13VJ9dDxmXfttyuLYMOA+RA75MOOoWMgOFjfxAAVjUgIr9Qe7vU21ZdKZbPLtEcWSN4xsyaTowHHcKL7sNZHXQ/0f4NOZsvhjlVG2ZjRLGV+GVnclbYn3D9eQUV192D1lNGpg28O6cDl27EXO2POTMiw5IWOHcSGTyYozfkJc0RTdVVN5iqV8syuLTQwpxXAzYJC4aaXLLWAI1XxQe4wot5Mb7+ADXWs5o0w1//2Q=="
+/>
 
 With a lot of passion and sensitivity, the WaterBear team also manages to land
 with these people. No wonder: the app and the portal itself are so well designed

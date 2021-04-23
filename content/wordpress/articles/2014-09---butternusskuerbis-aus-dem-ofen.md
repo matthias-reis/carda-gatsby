@@ -40,7 +40,7 @@ labels:
   - Vegane Rezepte
   - Veganer
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2014-09-12T10:24:03.000Z
 status: publish
 isWerbung: false
@@ -58,9 +58,9 @@ subTitle: Herbstlich bunt und saftig
 sein scheint, habe ich heute ein leckeres Rezept für Euch, das ausgesprochen gut
 zur Jahreszeit passt.**
 
-Nachdem der Herzmann und ich letztes Wochenende von unserem Ausflug ins Allgäu
-ein paar wunderbare Kürbisse mitgebracht haben, habe ich vorgestern das erste
-Experiment damit gewagt und siehe da: Es ist gelungen.
+Nachdem Matze und ich letztes Wochenende von unserem Ausflug ins Allgäu ein paar
+wunderbare Kürbisse mitgebracht haben, habe ich vorgestern das erste Experiment
+damit gewagt und siehe da: Es ist gelungen.
 
 Selbstverständlich möchte ich Euch gerne daran teilhaben lassen. Hier ist für
 Euch mein

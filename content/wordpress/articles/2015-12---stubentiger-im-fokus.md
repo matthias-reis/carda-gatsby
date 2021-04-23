@@ -52,8 +52,8 @@ ist dabei doch eine kleine Galerie entstanden, die ich hier mit Euch teile.
 > Das Leben und dazu ein Stubentiger, das gibt eine unglaubliche Summe (Frei
 > nach Rainer-Maria Rilke)
 
-- [1][sanni bei instagram](https://www.instagram.com/sannialejo/)
-- [2][ich bei instagram](https://www.instagram.com/anne_reko/)
+- [1] [Sanni bei Instagram](https://www.instagram.com/sannialejo/)
+- [2] [Ich bei Instagram](https://www.instagram.com/anne_reko/)
 
 [Hier gehts zur "ODE AN DEN KATER" Ein Text, wie er ehrlicher nicht sein könnte, gewidmet Chili und Oskar, den beiden tollsten Katern auf der Welt](/2012/08/ode-an-den-kater/)
 

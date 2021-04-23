@@ -71,7 +71,7 @@ Festival, welches jährlich stattfindet.
 
 <Gallery name="flickr/annedingle2017" />
 
-+
+-
 
 ## Wegweiser Irland 2017
 

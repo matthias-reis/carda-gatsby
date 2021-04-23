@@ -130,8 +130,8 @@ unseren endgültigen Umzug mit Sack und Pack sondern auch durch die Vielzahl an
 spannenden Beiträgen, die in diesem Monat mein Blog erweitert haben. Ich habe
 Euch mit einem Eurer [Lieblingsartikel](/2015/04/yolo-you-only-live-once/)
 beglückt, darin drehte sich alles um das Wort YOLO, ich habe berichtet,
-[wie ich zu Zoos stehe](/2015/04/wie-ich-zu-zoos-stehe/), der Herzmann und ich
-haben Calexico in der Großen Freiheit 36 in Hamburg
+[wie ich zu Zoos stehe](/2015/04/wie-ich-zu-zoos-stehe/), ich habe Calexico in
+der Großen Freiheit 36 in Hamburg
 [live gesehen](/2015/04/calexico-live-grosse-freiheit-36-15-04-2015/), außerdem
 wurde
 [mein erster Artikel im Welt Vegan Magazin](/2015/04/mein-erster-artikel-im-welt-vegan-magazin/)

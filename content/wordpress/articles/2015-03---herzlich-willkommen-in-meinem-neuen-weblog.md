@@ -68,10 +68,10 @@ aber im Großen und Ganzen war's das jetzt erst mal mit dem Umbau.
 
 ### Stolz, wie Bolle
 
-Der Herzmann hat sich für mich super ins Zeug gelegt und hat einen komplett
-neuen **Internetauftritt** für mich entworfen. Und ich bin ihm dabei gehörig auf
-die Nerven gegangen. Vielen Dank an dieser Stelle! Ich bin stolz, wie Bolle auf
-das neue Kostüm! Ist wirklich superschön geworden!
+Matze hat sich für mich super ins Zeug gelegt und hat einen komplett neuen
+**Internetauftritt** für mich entworfen. Und ich bin ihm dabei gehörig auf die
+Nerven gegangen. Vielen Dank an dieser Stelle! Ich bin stolz, wie Bolle auf das
+neue Kostüm! Ist wirklich superschön geworden!
 
 Es ist also vollbracht, der erste Umzug ist geschafft, jetzt gibt's ein kleines
 Päuschen von ca. 5 Minuten und dann geht's weiter mit unserem Umzug in die neuen
@@ -91,7 +91,7 @@ was geändert, ne?
 title={`[ ]() Die alte Seite ist Geschichte`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_Bildschirmfoto-2015-03-04-um-19.02.37.png__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_Bildschirmfoto-2015-03-04-um-19.02.37.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAANCAYAAADISGwcAAAACXBIWXMAAAsTAAALEwEAmpwYAAADmElEQVQ4y4WTe2xTZRjG+48GmMImyDYnug5ZZAWZgc0lqBFMjP9ohH/ExKnROBLCFidGRGPmJKCLjpsJRIOgMTi8QDJCDCYah1Ecrl1hsx3Fbq7t1vu922nXnvbnd07X2G3dPMlzvvvzPO/7vZ/mvnV1FMKa9fXZ/oP11D6yhZda32bHrj0cPHWezq5L6Bq2UrmugY4vuznU9QMHPz/HByfP8WHXRd7YvY+WDY/RUruF6pqNaAXXmnl0NIpQIVSvf0hsqKeopJhyrZamve083/wWJ7p/5c3Ok+xq62T3+0do3n+U4xd6OPb9Txz79kc+uXiZd197j9a1j9L6wFaqdXVUqXyFdeY1kMvAyooKqu5fy1ONTTy7cw9tx78WOMOGh5+k6Z0OOr66wL6jp2n/9CztJ86w//R3NL+6l1dW1bHz3o2srtmEVrdpfgNLV1YyB6VailbcQ1llDfWbH0dX20BJWRWLlpWxuPgubi9fTdHyVdx6250sKS5n0dLSLMT6kjsq0JTczfbScjpeb0W3bQe3LF7OsvIqCmlpjNf/Yj4YBszoh/6md3CIPpNF7etvjqD/04DeMozhhjU7b1ZwU+w3YTQOcNVwjX59P6YhC4ZBM4b+6xgHCmtoWOiLJ8AxCh43uMYh4AerBRq3waARggFwO7PrDhskpkjnHZfFIJNZUAFNIBhGgT8QmgGfP0QkEiMTCpCyjyILA7Lbhez1kOj9Ddnvy8JhJzVmh3AIaSqF/vfLfHHgAL/83IOUlAVPcA53PjS2MTfR6AShcIxw5D8EQxEmRETKl1GiFwJpi5n0DZMarXzNgDzmIO1yitau7CIu/odbXqb7xc10HT6ing0EgjN4Z0Pj9QWJRGPCQFSdyLWqgUkpm0qVHtITMVKhIAm/n7SIPhPPrueyPJlM881HbZx64Qk++/iQei4goszx5rhnGIiI6PMn8g1MSnGcTjc2m4PxcRd20XcJwth0ZlTxtExalrMlI67AF4zgEdfnEzxSfGqac4EM5JzlI2dAEkUoSRKxmGIygtfrJRQKq2JpOVOgZqfEuSiR2KQKry8wJ7NzDMyOfHYGwpEobo9fHavFKiJMJpNIiRgOUQsuUQOJpCQKNsiUUoTiCV7p7eOPqwbx/AbweAPTNfY/BgpdgZIBu8OJWbz3kVEH1mEb1hGHMBblnzE9Tc89TeP2ZzBZ++i5colUKsPwiJ1xpycrLLKgYL77V/Av2MMUwWONH54AAAAASUVORK5CYII="
+loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAANCAYAAADISGwcAAAACXBIWXMAAAsTAAALEwEAmpwYAAADnUlEQVQ4jYWSa0wcVRiG94+mLVrAVi5iFWhLLBeLaUGSqrE1Mf7R2P6xTUSNRpo0hYg11moMYtMqUXozodHUVmMq9VITmsbURCM1WqnsAAW51QXZXdj7zOzssrO3mX3MzoICCzjJkzmXnO99z3s+04byKhZjY0V1avxANZUPb+eFxjfZve8AR89+R2v7FcpqdlBYXkPL5x0ca/+eo59e5L0zF3m//TKv7T9Ew+ZHaajcTknpFooqqtm4hI4pKbQYJRUPsqG8mozsLPKLiqg72Myz9W9wuuMXXm89w76mVva/e4L6wydpu9TJqW9/5NTXP/DR5au8/co7NG56hMb7d1BSVkWxUW9xHdNSBmYTyCkooPi+TTxZW8czew/Q1PYlTW3n2fzQE9S91ULLF5c4dPIczR9foPn0eQ6f+4b6lw/y0roq9t67hfWlWykq27q0gdU5haSRW0TG2nvIKyylettjlFXWkJ1XzIrMPFZm3cXt+evJWLOOW2+7k1VZ+axYnZsiM49VdxRgyr6bXbn5tLzaSNnO3dyycg2Z+cXpOjmFmHpv/MlSCP1DmIf/omtgmO7BUWNsvjmO+Q8B8+gYwogltT6U5CZC/yC9vf1cF/roMfcwODyKMDCE0HOD3v7FNUws94UjYJ8AtwucUyD6wDIKtTthoBckEVyO1L7dCpEo+pzjmg6JxLIKmETJTxKfKM/D65NRlCAJWSRum0BzTqG5nGgeN5GuX9F83hR2G/FJG/hl1Ggc829X+ezIEX7+qRM1puH1SWm152KyTroIBKaR/UH8yn9IssJ0JGq4TCRv75fRR4fQRwaN22p9AtqkHd3pQEsaIEEYON7wIh3Pb6P9+AnjrChK8+ouxOTxSiiBILI/YCzM/g0DITUVpVEe9OkgcVki4vOh+7wkwqn92ZRDMZ2vPmji7HOP88mHx4xzoij/W3e29jwDSmB63sJcAyE1jMPhwmq1MzXlxOZw4RRlgjPJGOK6hq4lpSAcjeOVFNw+Ga8/gBqOztRcJgF5xtlcZg2o4QiqqhIMJk0qeDweZNlviOlaeneFI1EkOYASDBl4vGJasmkG/AtuvjABvxLA5fYZc6NZJYVYLIYaCWK3W3E6HURiKooiEU02odDHta5ufr8uIPT04/aIMz32PwYWe4JkAja7g6ERC+MTdixjVizjdkJqgL8nzdTteYraXU8zaOmm89oV4vEEY+M2phzulHAwZLDU+ycN/APYwxTBsHasDgAAAABJRU5ErkJggg=="
 />
 
 Hoch die Tassen! Auf viele weitere Artikel, **Fotostrecken** , Konzertberichte,
@@ -103,9 +103,5 @@ auf die ich persönlich mich ganz besonders freue!
 Doch nun wünsche ich Euch erstmal viel Spaß beim Stöbern!
 
 Wir lesen uns ganz bestimmt!
-
-Kussi Anne &lt;3
-
-[Follow my blog with Bloglovin](http://www.bloglovin.com/blog/13785195/?claim=kpap3npfjfj)
 
   

@@ -99,9 +99,9 @@ Stephansplatz, St. Pauli, Messehallen, Johannes-Brahms-Platz, sowie die
 S-Bahnstation Dammtor zu erreichen, die sich im Parkbereich oder an seinen
 Grenzen befinden.
 
-Am 25. Mai haben der Herzmann und ich eine schöne Fototour durch den Park
-unternommen. Selbstverständlich habe ich auch eine kleine Bilderserie aus meiner
-Klickse für Euch vorbereitet. Ich hoffe, sie gefällt Euch!
+Am 25. Mai haben Matze und ich eine schöne Fototour durch den Park unternommen.
+Selbstverständlich habe ich auch eine kleine Bilderserie aus meiner Klickse für
+Euch vorbereitet. Ich hoffe, sie gefällt Euch!
 
 <Gallery name="flickr/anneplantenunblomen52015" />
 

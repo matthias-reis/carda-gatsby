@@ -77,8 +77,8 @@ die mich am Dienstag erreichten (
 
 Als es am Abend dann an die Organisation unseres anstehenden Umzuges ging, bei
 der einige Fragen noch nicht geklärt waren, wurde ich schon nervöser. Kurzzeitig
-machte ich mir Gedanken, ob es nicht besser wäre, wieder anzufangen, als den
-Herzmann derart anzuzicken. Das schlechte Gewissen überwiegte dann aber, ich
+machte ich mir Gedanken, ob es nicht besser wäre, wieder anzufangen, als Matze
+derart anzuzicken. Das schlechte Gewissen überwiegte dann aber, ich
 entschuldigte mich für mein Verhalten, er reagierte äußerst süß und schon waren
 die Stinkedinger wieder vergessen.
 
@@ -130,13 +130,13 @@ mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/ikea.jpg"
 largeUrl="http://cardamonchai.files.wordpress.com/2013/09/ikea.jpg"
 loadingUrl="undefined" />
 
-Das war von Anfang an meine Hauptmotivation. Ich wollte nicht mehr stinken. Der
-Herzmann erzählt zwar immer, ich hätte nie nach Rauch gerochen, irgendwie kann
-ich ihm das aber nicht ganz abnehmen. Ob es motivierender währe, wenn er mir
-sagen würde, dass ich gestunken habe? Hm, ich weiß auch nicht. Ich bin nach
-einer Woche immer noch der Meinung, man kann sich eigentlich nur selbst
-motivieren. Menschen und äußere Einflüsse können das unterstützen, aber der
-Wunsch muss von einem selbst kommen.
+Das war von Anfang an meine Hauptmotivation. Ich wollte nicht mehr stinken.
+Matze erzählt zwar immer, ich hätte nie nach Rauch gerochen, irgendwie kann ich
+ihm das aber nicht ganz abnehmen. Ob es motivierender währe, wenn er mir sagen
+würde, dass ich gestunken habe? Hm, ich weiß auch nicht. Ich bin nach einer
+Woche immer noch der Meinung, man kann sich eigentlich nur selbst motivieren.
+Menschen und äußere Einflüsse können das unterstützen, aber der Wunsch muss von
+einem selbst kommen.
 
 Als ich letzten Mittwoch nach Hause kam, hatte ich irgendwie das Gefühl, eine
 Prüfung bestanden zu haben. Die nächste sollte am Donnerstag folgen, als wir mit
@@ -162,7 +162,7 @@ Klar, ich denke noch dran. Sogar ständig. Sonst würde ich auch diesen Artikel
 hier nicht schreiben. Aber ich versuche es jeden Tag, mich weiter zu motivieren.
 Die Wut, die schlechte Laune, der Drang lässt langsam schon ein Bisschen nach.
 Und ich fühle mich gut. Muss nicht mehr so oft an Eisenlungen denken. Bemerke,
-wie schnell ich aus der Puste bin. Ach ja: Ich habe mich mit dem Herzmann und
+wie schnell ich aus der Puste bin. Ach ja: Ich habe mich mit dem Matze und
 Evelyn beim Sport angemeldet. Was ganz Neues.
 
 Ob ich es für immer schaffe, kann ich nicht sagen. Im Moment fühlt es sich gut

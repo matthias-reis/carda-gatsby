@@ -18,8 +18,8 @@ labels:
   - Chile
   - Dunk Festival
   - Dunk Records
-  - DUNK! Festival
-  - DUNK! Records
+  - DUNK!festival
+  - DUNK!records
   - EF
   - electronic
   - Elektronik

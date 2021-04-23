@@ -29,12 +29,11 @@ date: 2021-02-14T15:13:29.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "32888"
-remoteThumbnailImage: null
-remoteImage: null
-remoteLoadingImage: null
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQcB/8QAJBAAAQQCAQMFAQAAAAAAAAAAAQIDBBEFIQAGEiITMUFRYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAGBf/EACERAAIBAwMFAAAAAAAAAAAAAAEDAAIRsQQxcSEiUZHh/9oADAMBAAIRAxEAPwDjqCL8hrggFVVzRYlwm20JkY5L6kg2oOlBJvRNC/5+c9fk411ICceuObsrae7iRVAeWvsnl28h2memBPfSsNxw9FXtPcsCj7Eps6PLcrGxl4LFM49KE5P1XRLcXMSoObHYEoBPbXtdC/3hE+e22peMjh2Ni6kSA8gqQtPfptdD2IO9jV75BkOrXstIjCNiIbPpI9NqO0t1aAvQC0JKrSoBNVZFfHCWoDC6vk5O8boYkJUBc9tN/Q2+yG7H3XApSaOhxxxfA86B0TP6bTh2IOUxclT7rhW7KalKSD5aJbNoUQABsfHLEXp3FZDr1qRgZLAx7MUBoZEhlUlw2FI0fEhJsK0K3fHHCGp6Pr5OYsQLIoI8DE//2Q==
 subTitle: Ambient aus Australien
   
 ---
@@ -113,9 +112,10 @@ Australian's music invites you to drift off into the wide and just be in the
 now.**
 
 <RemoteImage alt={`Willebrant`} size="medium" title={``}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2021/02/willebrant-costal.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2021/02/willebrant-costal.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant-costal__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant-costal__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIFAwEH/8QAKBAAAgIBAgQFBQAAAAAAAAAAAQIDEQASIQVBUZEEBhMxgSIyYXHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEF/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAxEf/aAAwDAQACEQMRAD8A8c3Un3rNF3X7jmkcRnlWIUGdwi2aFkgbn5yqnljibsxhiWSMGtRb0+YX2YAjc8x/M3VLD4uUQ2dgx64Cw6gmwT1yp4zgHEfCQieWIMjPoUREuWNWaAF0OuTXRkmVHRkYEWGUgj4OURycTYGxI5G9sVgNd8+uBtidj2wIYi9LbfjLJkdovrhZo2qrRip/W2dkkeWRHd2diQLZiT3OKFaiCG7Yo1eqoCkLfTIS/9k="
+/>
 
 I recently got to know Karl Willebrant through
 [Perry Frank](/2020/11/perry-frank-interview/). As an admirer of his music, he

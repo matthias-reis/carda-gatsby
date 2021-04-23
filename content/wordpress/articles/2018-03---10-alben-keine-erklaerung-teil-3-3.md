@@ -68,7 +68,7 @@ Darunter war mein Name markiert.
 
 ## 10 Alben - viele spannende Listen
 
-<RemoteImage alt={`Wir beide und die Musik`} size="medium" title={``}
+<RemoteImage alt={`Wir beide und die Musik `} size="medium" title={``}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_9554808470_46ed6a2a3b_z__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_9554808470_46ed6a2a3b_z__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBAgF/8QALBAAAQMDAwMDAgcAAAAAAAAAAQIDBAUGEQASIRMxQQdRcRQiFTJhYoGisf/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABgRAAMBAQAAAAAAAAAAAAAAAAABESEx/9oADAMBAAIRAxEAPwBgXfHrcyiSGrZdDVQQreFF3ZlAzkA4PJ4x21Uolk11VNafq141hUl0bglhSUoSD27pOddm3Z7dRn3C10kJRBeTF3KVlS3CN2dvhOCB+v8AGiqZDbmsIQtZS2nGEjGOPkf5qaaSi8rMOv0RlTypUqpRUjJWzht9A99v5F/1Oordrv4rEgutTkvZe6LpScZUFYwUnlJxjIOj2Q2/Ep4QgIfSlKitTyidqRzx5PnudKywrTZNYfuJyI819av6pLaFENpJOU91cnz57+2lA0DtPu9u2/VS5Y05fTp8+VsU6ezLqSChZ/byUn2Bz407WZJkQ25LbyiyRgdI7hn3Os1X9bFwTL1rciHQ6lIjOylKbdbjlSVjA5B8jVGkUO+IKnGoUCvwmltq3bG3EpOEnAwCOfA+dMoJwb9yeoxVesO0Gdr7EkhiZI6f3NhaTwAO6hwTkY0UO2/CcXR0wkOxolJQ2lhpQ7BOMd+c8YJ8gn30lrO9Pq7DuKBW6gw8lmM6qQ+jpqU6/wB/tSkjlRyc51oVmoRH4SG20PglCSkOR1tlPzkcaHgren//2Q=="

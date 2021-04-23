@@ -22,7 +22,7 @@ labels:
   - Vegane Rezepte
   - Wodky is vegan
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2018-06-08T16:00:14.000Z
 status: publish
 isWerbung: false

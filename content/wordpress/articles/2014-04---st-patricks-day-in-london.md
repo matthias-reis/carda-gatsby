@@ -148,7 +148,7 @@ glühten und es Zeit für ein leckeres Mahl in Jamie Oliver's Pop Up Diner wurde
 Ich hatte einen unfassbar guten Fruchtcocktail und den besten Veggie-Burger, den
 ich jemals zu mir genommen habe, kombiniert mit Avocado-Pommes.
 
-<RemoteImage alt={`Joseph Beuys im Tate Modern`} size="medium"
+<RemoteImage alt={`Joseph Beuys im Tate Modern `} size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/) Joseph Beuys im Tate Modern`}
 mediumUrl="http://cardamonchai.files.wordpress.com/2014/04/13544765734_8cf7d73e17.jpg?w=199"
 largeUrl="http://cardamonchai.files.wordpress.com/2014/04/13544765734_8cf7d73e17.jpg?w=199"

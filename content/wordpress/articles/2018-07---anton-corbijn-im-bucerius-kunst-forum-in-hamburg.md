@@ -35,6 +35,7 @@ labels:
   - Kurt Cobain
   - London
   - Mittelformatkamera
+  - Nine Inch Nails
   - STAR TRAK
   - The American
   - Tom Waits

@@ -20,11 +20,14 @@ labels:
   - Kokosöl
   - Leinöl
   - Leinsamen
+  - Öl
+  - Olivenöl
   - Ölmühle
   - Ölmühle Solling
   - Omega-3
   - Omega-3 vegan
   - Omega-3-Fettsäuren
+  - Speiseöl
   - Vitamin C
   - Würzöl
 type: Artikel

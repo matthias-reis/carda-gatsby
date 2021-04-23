@@ -63,9 +63,9 @@ durfte. Bruder von Oskar dem Kater. Die beiden: mein Ein und Alles. Die zwei
 haben viel mit mir durchgemacht, sind drei Mal mit mir umgezogen, haben mir
 immer zugehört, waren immer für mich da, ob ich krank war, gesund, traurig oder
 glücklich. Und ich habe versucht, ihnen eine gute Dosenöffnerin zu sein.
-Zusammen mit dem Herzmann sind wir eine glückliche Familie geworden. Die beiden
-blühten in der letzten Zeit regelrecht auf und wurden immer zutraulicher. Man
-konnte genau sehen, dass sie das Zuhause ihrer Herzen gefunden haben.
+Zusammen sind wir eine glückliche Familie geworden. Die beiden blühten in der
+letzten Zeit regelrecht auf und wurden immer zutraulicher. Man konnte genau
+sehen, dass sie das Zuhause ihrer Herzen gefunden haben.
 
 <RemoteImage alt={`Chili und Oskar`} size="thumbnail" title={`Chili und Oskar`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9461961351_4c595b35d9_o__m.jpg"
@@ -155,8 +155,8 @@ der letzte Anruf leider sehr wenig Informationen ergeben hat. Hinweis, ich solle
 nicht mehr anrufen, ich würde am nächsten Morgen nach der Visite sofort einen
 Anruf von der dienst habenden Ärztin erhalten. Infos: Leider keine.
 
-**19:39** Erneuter Anruf in der Tierklinik vom Herzmann, nachdem meine Unruhe
-immer größer wird. Wieder die selbe kurze Antwort, keine Informationen
+**19:39** Nachdem meine Unruhe immer größer wird, ruft Matze erneut in der
+Tierklinik an. Wieder die selbe kurze Antwort, keine Informationen
 
 <RemoteImage alt={`Chili bei seiner Lieblingsbeschäftigung`} size="thumbnail"
 title={`Chili bei seiner Lieblingsbeschäftigung`}

@@ -28,7 +28,7 @@ labels:
   - Wirsing anbraten
   - Wirsing-Kartoffelkuchen
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2014-11-12T12:29:16.000Z
 status: publish
 isWerbung: false

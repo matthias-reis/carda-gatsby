@@ -81,8 +81,8 @@ Untergang der MS Musikindustrie, aber in so einem Fall durchaus praktisch. Und:
 Je länger es dauert, desto länger kann ich mich freuen, die Platten endlich "in
 meine Arme zu schließen". Und das sind wirklich ein paar Schätzchen:
 
-<RemoteImage alt={``} size="thumbnail"
-title={`Calexico live @ Muffathalle München 7/2009`}
+<RemoteImage alt={``} size="thumbnail" title={`Calexico live @ Muffathalle
+München 7/2009`}
 mediumUrl="http://cardamonchai.com/wp-content/uploads/2012/09/p7090053-150x150.jpg"
 largeUrl="http://cardamonchai.com/wp-content/uploads/2012/09/p7090053-150x150.jpg"
 loadingUrl="undefined" />

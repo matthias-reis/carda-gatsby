@@ -102,7 +102,7 @@ mal wieder einen Besuch abzustatten.
 Meine Gumbies Hüttenschuhe vom letzten Jahr sind übrigens nach wie vor im
 Gebrauch. Sie sehen keinen Tag älter aus und sind nach wie vor genauso bequem.
 Sie haben also (genau wie
-[meine Flip Flops von Gumbies](/2018/03/gumbies-vegane-strandsandalen/), die ich
+[meine Flip-Flops von Gumbies](/2018/03/gumbies-vegane-strandsandalen/), die ich
 inzwischen seit drei Sommern trage) die volle Punktzahl auf der
 Langlebigkeits-Skala verdient.
 

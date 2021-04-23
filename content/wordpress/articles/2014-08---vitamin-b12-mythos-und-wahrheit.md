@@ -5,11 +5,10 @@ slug: vitamin-b12-mythos-und-wahrheit
 path: /2014/08/vitamin-b12-mythos-und-wahrheit/
 fileName: 2014-08---vitamin-b12-mythos-und-wahrheit.md
 description: Die DGE (Deutsche Gesellschaft für Ernährung) empfiehlt 3 µg
-  (schwangere Frauen 4 µg) Vitamin B12 pro Tag - Veganer*innen müssen es
-  substituieren.
+  (schwangere Frauen 4 µg) Vitamin B12 pro Tag zu supplementieren.
 excerpt: Die DGE (Deutsche Gesellschaft für Ernährung) empfiehlt 3 µg
-  (schwangere Frauen 4 µg) Vitamin B12 pro Tag - Veganer*innen müssen es
-  substituieren.
+  (schwangere Frauen 4 µg) Vitamin B12 pro Tag zu supplementieren. Das gilt für
+  Veganer⋆innen genau, wie für alle anderen.
 focusKeyword: Vitamin B12
 labels:
   - 10 Fakten über Veganismus
@@ -141,7 +140,7 @@ Dickdarm gebildet wird, jedoch vor dem Dickdarm absorbiert werden muss.
 <RemoteImage alt={`Coenzym B12`} size="thumbnail" title={`Coenzym B12`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_270px-cobalamin-svg.png__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_270px-cobalamin-svg.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAgCAYAAAD9oDOIAAAACXBIWXMAAAsTAAALEwEAmpwYAAACGElEQVRIx62Wa0/CMBSGy2SgOIQxx0UQRQ0iIt6+eE30gzEmJv7/f+OpeZYcZzcG+CZv7Fp6+vbcqjGLsSVsZayVYCY2+NsQvgivhKHwOsfoStjlEKMUtVFvcSAcZm2uCi+EEd+nwqawIqynfmtVT4T7whPhTFh2GbWbb4UdDO5jtKPUPWFwLBxxi6WubOHjU4PaZP5Q+CXspWKRi67wQVhjvKtu0ET1QN0wwaXDVT9GZmw8Fu4o/yaKhkp5HzcFwm3hWZbKc+Enyg6J7gWbk0NvhHtqTwNf95j3TCpdjApOxLxPrt6rKEd6M7Br7wj4hbZS0VDzxxSEUS6pMvZcVVUime3iHGN3wkcUTVlrMu6SUlll+4MJsiM2+BiuExxtwPp3k8BMifi8SErdqeh7GD3joBEGrepn4ZGqwkIYEyBDXgaMYzWeqxh4iwxWUPWAmgGpVGM9KePysh2qiU/bXLHvqJgeB43IaycmdJ6BSpl0Oer0meGOEa7wXUbLNJHY0f3TuRjk9VIX7lWQTKrz19RBJ6ph5waqRS4m2CHNIvK0g3u6pFrscMsfhBie4vyhUpionBa9cinVkJPeGVDrMUpDulcMvSLGZ6oTVVM91VeNJiSPe0WuH/A8j9VcfZ0nOaRa+ly9wffeoq6Uh6F6Fvp8XxHpf0EHJe11jeoubgvgTfjxX//2VFQ/XRs2N19zArMSSuq9Xxnfs/YcWSUMsUAAAAAASUVORK5CYII="
+loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAgCAYAAAD9oDOIAAAACXBIWXMAAAsTAAALEwEAmpwYAAACKElEQVRIia2WbU9aQRCFH1BQKQp45a0gldYo4rv9orRN2g9N06RJ//+/aSY5k0wvy6LoSW7Yu3t39szMmVlgPfaAwxVrFT0rsaXfFvAduAM6wH3G6EY40iHOytATe8MHYLJq8w5wDRR6PwfaQB3YL31rrGfAMXAKXAHbKaN14DPQl8FjGe0Hdl9l8AyYyosXuWyoKaaIrc+fAH+BYSkXWQyABdDQ+Ch40BbrcfDQcZsIFQ3FxzZ+Ag40fx4YeVJs80hhagLvgItVLC+BP2J2ouxea7Mf+gC8D3taivVQ81VfiAL25BSar0mrTyHLRdws2NovEfgPvcDC9YnCYQVBCInJEBlfqqqKxGyLNzL2CHwRo7nW2hoPJKkUKj6YiXahDTUZ3ldyogGL764SM1fGjchaPIbsV2X0QgdNZdBYfwM+hip8Fs6UIKRLk46hG8Y3IQflxC2hLlYLsRlLSiYrQhknaz6HtmLak4ujRMUMddBUuk5ips4zDpIpl2OUz5XCMVUoaimj22oi9mHEXkKLzVwvTeEpJIlS52+Eg05Dw84m6lBadBxIZoV02ld4BpKae5W9qzoyPFfwJ4Ghs7S1Z6FSasjeO5uq9a6YdtS9unrW6tMzitzdKfVUL2FkfBFugKz7TV3PVlGOpY7+EnRULSO53tJ7bMoRWXaOSbgWRnq/U6bfBH0x6b3WaDW4ZAXwE/j9Vn976qGfvhqmzR+ZxGwEc93v+43xD7P2HFnqwD3nAAAAAElFTkSuQmCC"
 />
 
 Vitamin B<small>12</small> ist in erster Linie für die Blutbildung, die
@@ -177,7 +176,7 @@ beworben und in veganen Supermärkten und Reformhäusern verkauft werden, die be
 der Untersuchung extrem hohe B<small>12</small>-Werte aufweisen. Aktuell gibt es
 jedoch noch keine Studien, die die Nutzbarkeit auch nachweisen.
 
-## Vitamin B<sub>12</sub>muss suplementiert werden
+## Vitamin B<sub>12</sub>muss supplementiert werden
 
 Es muss also ganz klar gesagt werden, dass bei veganer Ernährung, Vitamin
 B<small>12</small> ergänzt werden sollte, möchte man einen Mangel auf längere
@@ -237,8 +236,8 @@ Die DGE (Deutsche Gesellschaft für Ernährung) empfiehlt 3 µg (schwangere Fra
 ### Mein Fazit
 
 Nach den derzeitigen Erkenntnissen, sollte man Vitamin B<small>12</small> bei
-einer **veganen Ernährung** sicherheitshalber auf jeden Fall substituieren. Dies
-lässt sich ganz leicht, ohne die Einnahme von Tabletten bewerkstelligen.
+einer **veganen Ernährung** sicherheitshalber auf jeden Fall supplementieren.
+Dies lässt sich ganz leicht, ohne die Einnahme von Tabletten bewerkstelligen.
 
 Für mich ist eines klar: Es gibt ein Vitamin, das ich durch meine pflanzliche
 Ernährung nicht zu mir nehme, dies jedoch durch das Beimengen angereicherter
@@ -261,7 +260,7 @@ dass ich mir in dieser Hinsicht keine Sorgen machen muss.
 Welcher Fleischesser kann das von sich sagen? Dass er sich mit jedem
 lebenswichtigen Vitamin auseinandergesetzt hat und genau weiß, welche
 **Lebensmittel** für ihn/sie die gesündesten sind? Veganer\*innen verzichten
-zudem komplett auf Cholesterin, aber das ist eine andere Geschichte... :-)
+zudem komplett auf Cholesterin, aber das ist eine andere Geschichte.
 
 Eine ganz wundervolle Glosse zum Thema Vitamin B<small>12</small>-Zufuhr habe
 ich übrigens vor Kurzem auf der Seite des

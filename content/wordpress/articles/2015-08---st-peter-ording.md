@@ -36,5 +36,70 @@ subTitle: Perle an der Nordsee
   
 ---
 
+**Wie versprochen [<sup>1</sup>](#1)  kommt hier eine kleine Auswahl meiner
+Bilder von unserem Besuch in St. Peter-Ording letztes Jahr im Oktober. Für St.
+Peter-Ording Fans und alle, die es noch werden wollen. Natürlich sind auch
+wieder ganz viele Möwen dabei.**
+
+Vielen Dank an Kurt Gerhard für die Inspiration und Matze für das freundlich zur
+Verfügung gestellte Titelbild.
+
+<Gallery name="flickr/stpeterordinganne2014" />
+
+<blockquote>
+
+Die Perle
+
+Ich ging spazieren am Meeresstrand wo spielende Wellen versickern im Sand.
+
+Kein Sturm, kein Brausen, nur stilles sich Regen, bis in den Tiefen ein leises
+Bewegen.
+
+Die Fluten klar, bis tief auf den Grund, ich möchte mich beugen und kühlen den
+Mund.
+
+Ich sah ein Gesicht, vertraut und fremd, wer ist's, der des Meeres Spiegel
+kennt?
+
+Eine Perle fand ich, von edler Gestalt, nun ruht sie behütet in meiner Hand.
+
+So hell und so klar und so wunderbar rein, vom Lichte bestrahlt, ein köstlicher
+Schein.
+
+Ich will sie behüten und schließe die Hand, geh' nie mehr zurück zu Welle und
+Sand.
+
+Ich möcht' sie umhegen im goldenen Schrein, die strahlende Perle soll bleiben
+mein.
+
+Doch ans Licht muß sie dringen, sie braucht diesen Glanz, ich will sie bewahren,
+rein, edel und ganz.
+
+Nie darf zerbrechen der edle Fund, die Perle soll leuchten vom Meeresgrund.
+
+Otto Reinhards
+
+</blockquote>
+
+- [1] [St. Peter-Ording im Juli 2015](/2015/07/zurueck-nach-st-peter-ording/)
+
+Mehr Bilder findet Ihr wie immer in meinem
+[Flickr](https://www.flickr.com/photos/99929697@N07/albums/72157648231468656).
+
+## Wegweiser Möwen
+
+1.  [Möwen am Bosporus (Januar 2010)](/2010/01/moewen-am-bosporus/)
+1.  [Zurück nach St. Peter-Ording (Juli 2015)](/2015/07/zurueck-nach-st-peter-ording/)
+1.  St. Peter-Ording - Perle an der Nordsee (August 2015)
+1.  [Birdwatching am Timmendorfer Strand (November 2015)](/2015/11/birdwatching-am-timmendorfer-strand/)
+1.  [Die Möwe, Kiel (November 2015)](/2015/11/die-moewe/)
+1.  [Möwen auf der Brücke (Januar 2016)](/2016/01/moewen-auf-der-bruecke/)
+1.  [Sommer auf der Ostsee - Möwen vor Helsinki (Juni 2016)](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/)
+1.  [Seevögel in Helsinki - Auf jeder Statue eine Möwe (Juni 2016)](/2016/08/auf-jeder-statue-eine-moewe/)
+1.  [Möwen in Dublin - Bunte Bilderserie mit original Irischen Seevögeln (September 2017)](/2017/10/moewen-in-dublin/)
+1.  [Möwe am Wasser](/2018/01/moewe-am-wasser/)
+1.  [Birds of Westport](/2018/05/birds-of-westport/)
+
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
   

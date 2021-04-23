@@ -22,7 +22,7 @@ labels:
   - Veganer
   - veganer Kaiserschmarrn
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2015-10-02T14:30:06.000Z
 status: publish
 isWerbung: false

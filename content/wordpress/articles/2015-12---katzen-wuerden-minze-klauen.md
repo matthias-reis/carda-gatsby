@@ -45,7 +45,7 @@ Ich finde die Bilder können sich wirklich sehen lassen, oder?
 > nervöser, ruheloser Mensch, der sich nur um der Bewegung willen unaufhörlich
 > bewegen muß. Prentice Mulford
 
-- [1][sanni bei instagram](https://www.instagram.com/sannialejo/)
+- [1] [Sanni bei Instagram](https://www.instagram.com/sannialejo/)
 
 [Hier gehts zur "ODE AN DEN KATER" Ein Text, wie er ehrlicher nicht sein könnte, gewidmet Chili und Oskar, den beiden tollsten Katern auf der Welt](/2012/08/ode-an-den-kater/)
 

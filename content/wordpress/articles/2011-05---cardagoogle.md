@@ -34,7 +34,7 @@ Weblog:**
 1.) Etwas Interessantes 2.) Kippen in Geranien 3.) Wie sehen die Rosen aus, die
 Jungen den Mädchen zum amerikanischen Abschlussball schenken? 4.) Rockkonzert
 Unterwäsche am Zelt 5.) Ascheauto 6.) Schützt ein Müllsack gegen Mücken? 7.)
-Flip Flop Verbot auf Konzerten 8.) Ideen Party auf dem Balkon 9.) Rosen
+Flip-Flop-Verbot auf Konzerten 8.) Ideen Party auf dem Balkon 9.) Rosen
 kostenlos 10.) Drei Nachrichten, die uns Angst einjagen 11.) Pausenmusik Bach
 12.) Schneeglöckchen essen 13.) Bär Tisch 14.) Irrgarten im Himbeerstrauchgarten
 15.) Fraue Afrodite

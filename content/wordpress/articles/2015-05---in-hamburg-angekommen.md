@@ -50,7 +50,7 @@ wollten versuchen, mit seiner Hilfe die Weltherrschaft an sich zu reißen. Die
 Folge: Der komplette Server wurde abgeschaltet.**
 
 Außer meinem Blog waren noch jede Menge andere Seiten von dem Drama betroffen.
-Nach dem Neustart des Servers hat der Herzmann Tag und Nacht mit Hochdruck daran
+Nach dem Neustart des Servers hat Matze Tag und Nacht mit Hochdruck daran
 gearbeitet, alles wieder zum Laufen zu bringen. Und siehe da: Es geht wieder!
 
 Ich bin so glücklich! Alles ist noch da! Ihr könnt Euch meine Panik in den

@@ -21,7 +21,7 @@ labels:
   - Vegane Rezepte
   - Zitronengras
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2018-06-16T18:10:01.000Z
 status: publish
 isWerbung: false

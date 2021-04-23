@@ -10,6 +10,7 @@ excerpt: Heute möchte ich ein wunderbares Rezept für Burgerbrötchen mit Euch
   teilen. Sie sehen nicht nur toll aus - sie sind auch unglaublich lecker!
 focusKeyword: Burgerbrötchen
 labels:
+  - Brot
   - Brötchen
   - Brötchen backen
   - Brötchen Rezept

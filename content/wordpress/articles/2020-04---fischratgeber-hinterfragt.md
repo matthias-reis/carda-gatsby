@@ -258,10 +258,13 @@ empfinden und haben ein Recht auf ihr Leben - genau wie wir.
 
 ### Fußnoten
 
-- [1][statistik zum fischkonsum in deutschland](https://de.statista.com/statistik/daten/studie/1905/umfrage/entwicklung-des-pro-kopf-verbrauchs-an-fisch-in-deutschland/)
-- [2][greenpeace fischratgeber](https://www.greenpeace.de/sites/www.greenpeace.de/files/publications/20160120_greenpeace_fischratgeber_2016_0.pdf)
-- [3][wwf fischratgeber](https://fischratgeber.wwf.at/)
-- [4][beitrag der albert schweizer stiftung zum thema fischratgeber 2013](https://albert-schweitzer-stiftung.de/aktuell/wwf-fischratgeber-2012)
-- [5][fishethnobase](http://fishethobase.net/)
+- [1]
+  [Statistik zum Fischkonsum in Deutschland](https://de.statista.com/statistik/daten/studie/1905/umfrage/entwicklung-des-pro-kopf-verbrauchs-an-fisch-in-deutschland/)
+- [2]
+  [Greenpeace Fischratgeber](https://www.greenpeace.de/sites/www.greenpeace.de/files/publications/20160120_greenpeace_fischratgeber_2016_0.pdf)
+- [3] [WWF Fischratgeber](https://fischratgeber.wwf.at/)
+- [4]
+  [Beitrag der Albert Schweizer Stiftung zum Thema Fischratgeber 2013](https://albert-schweitzer-stiftung.de/aktuell/wwf-fischratgeber-2012)
+- [5] [FishEthnoBase](http://fishethobase.net/)
 
   

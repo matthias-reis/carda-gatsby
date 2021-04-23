@@ -208,7 +208,7 @@ wie ein Babypopo. Die seitankochende Baumwollseegurke quasi.</small>
 ## Tolle Deocremes
 
 Das war außerdem noch in meinem Paket: diese wundervollen Deos, eines davon
-duftet nach frischer Wäsche, eines nach Babypuder und eines nach Herzmann.
+duftet nach frischer Wäsche, eines nach Babypuder und schön frisch.
 
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_08_img_1697__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_08_img_1697__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_08_img_1707__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_08_img_1707__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_08_img_1706__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_08_img_1706__l.jpg"}]}
@@ -274,10 +274,10 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 
 Ich werde nun wahrscheinlich häufiger bei Wolkenseifen bestellen, es hat alles
 wunderbar geklappt, es ging schnell, der Service ist toll und wenn alles nach
-Plan läuft, werden mein Herzmann und ich in Zukunft eine ganze Menge
-Shampooflaschenmüll sparen. Interessant wäre es sicherlich noch, wenn man sich
-die kleinen Aludöschen wieder auffüllen lassen könnte. Mal sehen, vielleicht
-kommt das ja in Zukunft noch!
+Plan läuft, werden Matze und ich in Zukunft eine ganze Menge Shampooflaschenmüll
+sparen. Interessant wäre es sicherlich noch, wenn man sich die kleinen
+Aludöschen wieder auffüllen lassen könnte. Mal sehen, vielleicht kommt das ja in
+Zukunft noch!
 
 Wie drückte das eine Ebayerin mal so nett in ihrer Bewertung in meinem dortigen
 Profil aus, ich werde es nie vergessen: "Zum all seinen Freunden, dem Hund und

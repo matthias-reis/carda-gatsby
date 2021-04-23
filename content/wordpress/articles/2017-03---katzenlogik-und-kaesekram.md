@@ -156,8 +156,8 @@ friedlich auf der Couch (Natürlich neben seiner Decke, da sind ihm vermutlich z
 viele Katerhaare dran), Kater Nummer zwei hatte gebrochen, also noch ein Grund,
 mich zum Putzschrank zu begeben. Die Scherben aufgesammelt, das Erbrochene des
 Katers aufgewischt, das Loch im Fliesenboden notdürftig mit Filzstift übermalt.
-Dem Herzmann die Tür geöffnet und erst mal das Herz ausgeschüttet. Er schüttelte
-nur den Kopf, "lass uns doch Burger essen gehen."
+Matze die Tür geöffnet und erst mal das Herz ausgeschüttet. Er schüttelte nur
+den Kopf, "lass uns doch Burger essen gehen."
 
 "Ich hab keine Lust, nochmal loszugehen. Lieber eine Pizza vom Lieferdienst.
 Dann können wir es uns gemütlich machen."

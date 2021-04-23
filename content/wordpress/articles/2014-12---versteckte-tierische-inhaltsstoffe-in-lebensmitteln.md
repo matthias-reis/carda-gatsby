@@ -263,15 +263,21 @@ _ **
 
 ## Fußnoten
 
-- [1][versteckte tierische inhaltsstoffe kennzeichnen](http://www.foodwatch.org/de/informieren/versteckte-tiere/2-minuten-info/)
-- [2][bentonit wikipedia](//de.wikipedia.org/wiki/Bentonit)
-- [3][vegan4love](http://www.vegan4love.info)
-- [4][veganer einkaufsguide bei peta2](http://www.peta2.de/web/einkaufsguide.401.html)
-- [5][barnivore](http://www.barnivore.com/mobile)
-- [6][scanner-app von barcoo](http://www.barcoo.com/barcode-scanner-qr-code-reader-download)
-- [7][getränkeliste fitforvegan](http://www.fitforvegan.de/ernahrung/liste-safte-und-andere-getranke-mit-gelatine-und-ohne/)
-- [8][liste der zusatzstoffe](http://de.wikipedia.org/wiki/Liste_der_Lebensmittelzusatzstoffe)
-- [9][petition der verbraucherschutzorganisation foodwatch](http://www.foodwatch.org/de/informieren/versteckte-tiere/2-minuten-info/)
+- [1]
+  [Versteckte Tierische Inhaltsstoffe kennzeichnen](http://www.foodwatch.org/de/informieren/versteckte-tiere/2-minuten-info/)
+- [2] [Bentonit Wikipedia](//de.wikipedia.org/wiki/Bentonit)
+- [3] [Vegan4Love](http://www.vegan4love.info)
+- [4]
+  [Veganer Einkaufsguide bei PETA2](http://www.peta2.de/web/einkaufsguide.401.html)
+- [5] [Barnivore](http://www.barnivore.com/mobile)
+- [6]
+  [Scanner-App von Barcoo](http://www.barcoo.com/barcode-scanner-qr-code-reader-download)
+- [7]
+  [Getränkeliste FitForVegan](http://www.fitforvegan.de/ernahrung/liste-safte-und-andere-getranke-mit-gelatine-und-ohne/)
+- [8]
+  [Liste der Zusatzstoffe](http://de.wikipedia.org/wiki/Liste_der_Lebensmittelzusatzstoffe)
+- [9]
+  [Petition der Verbraucherschutzorganisation Foodwatch](http://www.foodwatch.org/de/informieren/versteckte-tiere/2-minuten-info/)
 
 ## Inhaltsverzeichnis "10 Fakten über Veganismus"
 

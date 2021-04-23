@@ -20,8 +20,8 @@ labels:
   - Brian Cook
   - Dunk Festival
   - Dunk Records
-  - DUNK! Festival
-  - DUNK! Records
+  - DUNK!festival
+  - DUNK!records
   - Early Day Minors
   - Emma Ruth Rundle
   - English & German

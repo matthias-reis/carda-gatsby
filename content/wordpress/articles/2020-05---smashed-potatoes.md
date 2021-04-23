@@ -16,7 +16,7 @@ labels:
   - vegane Rezepte
   - Vegane Rezepte
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2020-05-07T10:50:13.000Z
 status: publish
 isWerbung: false

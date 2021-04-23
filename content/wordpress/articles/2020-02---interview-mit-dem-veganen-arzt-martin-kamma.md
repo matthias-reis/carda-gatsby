@@ -310,8 +310,8 @@ Nüssen und Saaten, ergänzt mit einigen von fünfzig Früchten. Dann treffe ich
 noch eine Auswahl aus siebzig Gewürzen. Et voilà."
 
 **Anne:** Das muss ich mir merken, ich denke, das überzeugt! Ihr Meinung zu
-Vitamin B12: Sofort nach der Umstellung auf vegan mit dem Substituieren beginnen
-oder erst, wenn der Arzt sagt, die Werte sinken?
+Vitamin B12: Sofort nach der Umstellung auf vegan mit dem Supplementieren
+beginnen oder erst, wenn der Arzt sagt, die Werte sinken?
 
 ## "Vitamin B12 ist wichtig"
 

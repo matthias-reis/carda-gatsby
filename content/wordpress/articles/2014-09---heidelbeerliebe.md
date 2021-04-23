@@ -28,7 +28,7 @@ labels:
   - veganrunners
   - veganrunning
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2014-09-01T15:50:56.000Z
 status: publish
 isWerbung: false

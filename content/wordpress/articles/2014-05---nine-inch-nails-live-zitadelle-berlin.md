@@ -44,9 +44,9 @@ subTitle: '"We have a lotta shit for you!"'
 ## unknown: Expected corresponding JSX closing tag for &lt;p> (87:18)
 
 <!--
-**Bereits im November letzten Jahres hatten der Herzmann, mein Bruder und ich
-uns über den N** **INE IN** **CH N** **AILS Fanclub Tickets für den Auftritt auf
-dem Citadel Music Festival in der Spandauer Zitadelle besorgt.**
+**Bereits im November letzten Jahres hatten Matze, Valentin und ich uns über den
+N** **INE IN** **CH N** **AILS Fanclub Tickets für den Auftritt auf dem Citadel
+Music Festival in der Spandauer Zitadelle besorgt.**
 
 Am 15. Mai, zwei Tage nach dem Geburtstag meines Bruders brachen wir dann in
 aller Frühe auf nach Berlin. Unser Ziel: Ein kleines Hotel in Spandau. Dort
@@ -111,7 +111,7 @@ mehr im nächsten Blogeintrag.
 
 ## Die Setlist des Abends
 
-<RemoteImage alt={`Nine Inch Nails`} size="medium"
+<RemoteImage alt={`Nine Inch Nails `} size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/) Nine Inch Nails`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_nine-inch-nails-citadel-music-festival-berlin-1277__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_nine-inch-nails-citadel-music-festival-berlin-1277__l.jpg"

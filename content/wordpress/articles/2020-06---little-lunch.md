@@ -13,10 +13,10 @@ excerpt: Werbung & Affiliate Links - Von Little Lunch aus Augsburg gibt es jetzt
 focusKeyword: Sommersuppen
 labels:
   - Bio-Suppe
+  - Ernährung & Gesundheit
   - Gemüsesuppe
   - Little Lunch
   - vegane Fertiggerichte
-  - Vegane Rezepte
   - vegane Suppe
 type: Artikel
 typeName: Produkttest

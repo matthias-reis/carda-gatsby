@@ -68,9 +68,9 @@ Umzugsunternehmen (!) beauftragt habe. Memo an mich: Nächstes Mal wieder alles
 selbst machen.
 
 Naja, dann waren wir noch die ganze Zeit mit einer Seite beschäftigt, die wir
-gerade in unserer Freizeit für einen Kollegen bauen. Das heißt, Herzmann baut,
-ich kümmere mich um den redaktionellen Kram. Es geht um Fischerei, ein Weblog,
-einen Shop und es macht großen Spaß. Aber, es frisst auch Zeit.
+gerade in unserer Freizeit für einen Kollegen bauen. Das heißt, Matze baut, ich
+kümmere mich um den redaktionellen Kram. Es geht um Fischerei, ein Weblog, einen
+Shop und es macht großen Spaß. Aber, es frisst auch Zeit.
 
 In den letzten Wochen habe ich immer wieder Besserung gelobt, angekündigt, ich
 würde mich wieder mehr um mein Blog kümmern, nun werde ich versuchen, das nicht
@@ -81,8 +81,8 @@ anderes Zeug dazwischen, aber das brauche ich Euch ja nicht zu erzählen.
 
 Nun endlich zu der Sache mit den Bäumen.
 [Ich habe Euch ja neulich schon mal erzählt,](//2013/08/14/einmal-im-leben-einen-baum-pflanzen-2-0/)
-dass ich vorhätte, dem Herzmann zur Hochzeit eine Baumpatenschaft zu schenken.
-Denn ich habe mir gedacht: Sterne, Bücher, Socken: Kann ja jeder.
+dass ich vorhätte, Matze zur Hochzeit eine Baumpatenschaft zu schenken. Denn ich
+habe mir gedacht: Sterne, Bücher, Socken: Kann ja jeder.
 
 Also habe ich mich an Greenpeace gewendet, es dauerte ein paar Wochen und nun
 sind wir tatsächlich Baumpaten! Wir haben sogar persönliche Urkunden bekommen,

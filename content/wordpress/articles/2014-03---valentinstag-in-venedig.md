@@ -41,7 +41,7 @@ subTitle: von Sonne, Kunst und bunten Masken
   
 ---
 
-**Am 14. Februar reisten der Herzmann und ich nach Italien. Genauer gesagt nach
+**Am 14. Februar reisten Matze und ich nach Italien. Genauer gesagt nach
 Venedig. Zu diesem tollen Ausflug waren wir durch Zufall gekommen. Ein guter
 Freund hatte einen Hotelaufenthalt vom 14. bis zum 17. Februar in Venedig für
 sich und seine Ehefrau in spe geplant, dabei aber ganz vergessen, dass er in

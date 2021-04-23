@@ -26,7 +26,7 @@ labels:
   - veganes Frühstück
   - veganes Rührei
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2017-10-15T03:00:42.000Z
 status: publish
 isWerbung: false

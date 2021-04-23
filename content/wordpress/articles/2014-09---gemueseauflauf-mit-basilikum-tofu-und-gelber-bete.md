@@ -31,7 +31,7 @@ labels:
   - Veganer
   - Zucchini
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2014-09-03T11:12:33.000Z
 status: publish
 isWerbung: false

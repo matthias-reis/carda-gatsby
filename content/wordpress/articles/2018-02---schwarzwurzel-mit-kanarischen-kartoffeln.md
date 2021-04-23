@@ -24,7 +24,7 @@ labels:
   - Winterspargel
   - Zubereitung Schwarzwurzel
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2018-02-04T18:25:28.000Z
 status: publish
 isWerbung: false

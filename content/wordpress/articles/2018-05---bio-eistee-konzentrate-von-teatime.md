@@ -28,7 +28,6 @@ labels:
   - ungeklärt
   - vegane Ernährung
   - vegane Getränke
-  - Vegane Rezepte
   - veganer Eistee
   - Weißwein-Spritz
 type: Artikel

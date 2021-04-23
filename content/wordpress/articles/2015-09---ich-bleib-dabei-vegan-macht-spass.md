@@ -60,11 +60,11 @@ Eine versichern: So ist es nicht.
 
 Nach der relativ kurzen Zeit, in der ich bisher vegan gelebt habe, kann ich
 eines mit Bestimmtheit sagen: Ich bleibe dabei! Denn vegan Leben macht Spaß! Und
-genau das sagen all die tollen Menschen, die ich seit Mitte letzten Jahres
+genau das sagen all die tollen Menschen, die ich seit Mitte letzten Jahres
 kennenlernen durfte, die mir ihre Geschichten über das vegan werden erzählten.
-"Wer es einmal ausprobiert, der bleibt auch dabei!", meint auch der Herzmann und
-ich finde, er hat recht. Wir haben beide unser Hobby, das Kochen ganz neu
-entdeckt, probieren tägliche neue Gerichte aus, experimentieren und testen.
+"Wer es einmal ausprobiert, der bleibt auch dabei!", meint auch Matze und ich
+finde, er hat recht. Wir haben beide unser Hobby, das Kochen ganz neu entdeckt,
+probieren tägliche neue Gerichte aus, experimentieren und testen.
 
 <RemoteImage alt={`Johanna Schlitzkus vom Tierhof Amoa`} size="full"
 title={`Johanna Schlitzkus vom Tierhof Amoa`}
@@ -218,29 +218,40 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_0
 
 ## Fußnoten
 
-- [1][tierrechte](/2014/08/blutige-zahlen/)
-- [2][ökologischer fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
-- [3][honig](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
-- [4][die wahrheit über milch](/2014/09/pflanzenmilch-wieso-denn-blos/)
-- [5][johanna im interview](/2014/08/der-schutz-und-die-rechte-der-tiere-stehen-an-erster-stelle/)
-- [6][sebastian im interview](/2015/01/ich-hatte-noch-nie-heimweh/)
-- [7][denise im interview](/2015/04/vegane-haekelmuetzen-mit-statement/)
-- [8][margit im interview](/2015/02/veganer-sind-unglaublich-kreativ/)
-- [9][petra im interview](/2015/08/interview-mit-petra-mazur-von-ethice/)
-- [10][mein erster artikel im welt vegan magazin](/2015/04/mein-erster-artikel-im-welt-vegan-magazin/)
+- [1] [Tierrechte](/2014/08/blutige-zahlen/)
+- [2]
+  [Ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+- [3] [Honig](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+- [4] [Die Wahrheit über Milch](/2014/09/pflanzenmilch-wieso-denn-blos/)
+- [5]
+  [Johanna im Interview](/2014/08/der-schutz-und-die-rechte-der-tiere-stehen-an-erster-stelle/)
+- [6] [Sebastian im Interview](/2015/01/ich-hatte-noch-nie-heimweh/)
+- [7] [Denise im Interview](/2015/04/vegane-haekelmuetzen-mit-statement/)
+- [8] [Margit im Interview](/2015/02/veganer-sind-unglaublich-kreativ/)
+- [9] [Petra im Interview](/2015/08/interview-mit-petra-mazur-von-ethice/)
+- [10]
+  [Mein erster Artikel im Welt Vegan Magazin](/2015/04/mein-erster-artikel-im-welt-vegan-magazin/)
 - [11] Archiv meiner Artikel bei Vegan News (stillgelegt,
   [Artikel sind in meinem Blog umgezogen]() )
 - [12] Christiane im Interview
-- [13][thomas vom volksverpetzer im interview](/2014/10/thomas-laschyk-volksverpetzer/)
+- [13]
+  [Thomas vom Volksverpetzer im Interview](/2014/10/thomas-laschyk-volksverpetzer/)
 - [14] Enrico im Interview
-- [15][interview mit matteo von vegan travel sardinia](/2015/04/vegane-strandhaeuser-auf-sardinien/)
-- [16][interview mit der leiterin des tierschutztheaters](/2019/09/kathrin-eva-schmid-vom-tierschutztheater-im-interview/)
-- [17][rainer von der vegan sneaker connection im interview](/2014/12/rainer-von-der-vegan-sneaker-connection-im-interview/)
+- [15]
+  [Interview mit Matteo von Vegan Travel Sardinia](/2015/04/vegane-strandhaeuser-auf-sardinien/)
+- [16]
+  [Interview mit der Leiterin des Tierschutztheaters](/2019/09/kathrin-eva-schmid-vom-tierschutztheater-im-interview/)
+- [17]
+  [Rainer von der Vegan Sneaker Connection im Interview](/2014/12/rainer-von-der-vegan-sneaker-connection-im-interview/)
 - [18] Interview mit den Modeschöpfern von Umasan
-- [19][dr. hanno platz im interview](/2019/06/veganer-arzt-interview-dr-hanno-platz/)
-- [20][interview mit dr. barbara gorißen](/2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/)
-- [21][tolle neue sachen: wolkenseifen](/2014/08/himmlische-dufte-ganz-ohne-plastik/)
-- [22][artikel über leder aus aussortierten früchten](/2019/06/fruitleather-rotterdam/)
+- [19]
+  [Dr. Hanno Platz im Interview](/2019/06/veganer-arzt-interview-dr-hanno-platz/)
+- [20]
+  [Interview mit Dr. Barbara Gorißen](/2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/)
+- [21]
+  [Tolle neue Sachen: Wolkenseifen](/2014/08/himmlische-dufte-ganz-ohne-plastik/)
+- [22]
+  [Artikel über Leder aus aussortierten Früchten](/2019/06/fruitleather-rotterdam/)
 
 ## Inhaltsverzeichnis "10 Fakten über Veganismus"
 

@@ -18,8 +18,8 @@ labels:
   - Bird's Robe Records
   - Dunk Festival
   - Dunk Records
-  - DUNK! Festival
-  - DUNK! Records
+  - DUNK!festival
+  - DUNK!records
   - English & German
   - Interview
   - Interviews

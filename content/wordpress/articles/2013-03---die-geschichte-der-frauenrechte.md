@@ -56,14 +56,14 @@ subTitle: Ist der Internationale Frauentag in Vergessenheit geraten?
 ---
 
 **Die Frauenrechte sollten heute im Fokus stehen. Weltweit wird der
-_Internationale Frauentag_ gefeiert. Zeit für einen kleinen Ausflug in die
+Internationale Frauentag gefeiert. Zeit für einen kleinen Ausflug in die
 Geschichte.**
 
-> _Dieser Artikel ist am 8. März 2013 erschienen. Zu diesem Zeitpunkt gingen
+> Dieser Artikel ist am 8. März 2013 erschienen. Zu diesem Zeitpunkt gingen
 > gerade die #aufschrei-Tweets durch die Presse. An Brisanz hat das Thema
-> **Frauenrechte** bis heute nicht verloren._
+> Frauenrechte bis heute nicht verloren.
 
-Als ich mir heute Morgen noch einige aktuelle Infos über den _Weltfrauentag_
+Als ich mir heute Morgen noch einige aktuelle Infos über den Weltfrauentag
 besorgen wollte, fiel mir auf, dass man über die Suchmaschine leider sehr wenig
 zu diesem besonderen Tag finden kann. Auf Veranstaltungen wird, falls überhaupt,
 nur äußerst dezent hingewiesen. Ich finde das sehr schade. Gerade in unserer der
@@ -80,10 +80,10 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 />
 
 Ich möchte versuchen, mit meinem Artikel zumindest einen kleinen Teil dazu
-beizutragen, dass etwas mehr über den _Weltfrauentag_ und die Geschichte der
+beizutragen, dass etwas mehr über den Weltfrauentag und die Geschichte der
 Frauenrechte berichtet wird. Blättert man sich durch die sozialen Netzwerke und
-Online-Zeitungen kann es einem schnell so vorkommen, als sie der _Internationale
-Frauentag_ ein Bisschen in Vergessenheit geraten.
+Online-Zeitungen kann es einem schnell so vorkommen, als sie der Internationale
+Frauentag ein Bisschen in Vergessenheit geraten.
 
 ## Frauenrechte im Fokus
 
@@ -95,14 +95,14 @@ Pinakothek der Moderne in München aufgenommen habe. Sie zeigen unbekannte Fraue
 aus den verschiedensten Ländern, die in unterschiedlichen Jahren für
 verschiedene Fotografen Modell gestanden haben.
 
-Und schon geht es los mit den trockenen Fakten. Der _Weltfrauentag_ wurde von
-den vereinten Nationen ins Leben gerufen. Entstanden ist er im Kampf um das
+Und schon geht es los mit den trockenen Fakten. Der Weltfrauentag wurde von den
+vereinten Nationen ins Leben gerufen. Entstanden ist er im Kampf um das
 Wahlrecht der Frauen in der Zeit um den Ersten Weltkrieg.
 
 ## Clara Zetin übernahm die Idee aus Amerika
 
 Im August 1910 schlug die deutsche Sozialisten Clara Zetkin auf der
-_Internationalen Sozialistischen Frauenkonferenz_ in Kopenhagen die Einführung
+Internationalen Sozialistischen Frauenkonferenz in Kopenhagen die Einführung
 eines solchen Tages vor. Ein genaues Datum war zu diesem Zeitpunkt noch nicht im
 Gespräch.
 
@@ -119,7 +119,7 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_4070__l
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKhAAAQMDAwIGAgMAAAAAAAAAAQIDBAUREgAGIQdBExQiMWFxctGRksH/xAAVAQEBAAAAAAAAAAAAAAAAAAAFBP/EABwRAAIDAAMBAAAAAAAAAAAAAAECAAMEESExEv/aAAwDAQACEQMRAD8AvoG3qlXoBlRpEJlvNbeL2d7i3PA1xu9PKsknKp08DuEoX+tOnT90HbGZsE+YdJ7Cwtpb2xvmNXqw9CbddVmyHW/FSE+u5KkCwFxbkfR0Hmw1GsNx6I5o32pYVB6BiVuOlKoUxqNKkNuqW2HAWwoC1yLc/WjU/WWQY9Vpqr2zjkfws/vRqS7P8uQvkSz6DZWGb2McarKpPTB10rALk1TKlKB4QpQy9u+IIH3rOJVRjxYtDq8BIZ8ebMcyTwcEOpCR9BPb5OriduHLYFSoTKF+bk5JC1AeGEqUkn59ge2s/daqSaMzCcmoUGJCnWkWulsKT67G17kgce3GmKLEWtQT3AdFNjWswHXM0XrWA7KpK08jB0D+wP8AujS7vbckfcHkg3HfbMfMEuFPqyx9rfjo1LaAzkiX52ZKwpn/2Q=="
 />
 
-Der erste _Frauentag_ , der im Februar 1909 in Amerika stattfand, zog Frauen aus
+Der erste Frauentag, der im Februar 1909 in Amerika stattfand, zog Frauen aus
 allen Schichten an, auch die bürgerlichen Frauenrechtlerinnen schlossen sich den
 Demonstrationen an. Sofort wurde beschlossen, diesen Protesttag zu wiederholen.
 Im Februar 2010 fand er erneut statt.
@@ -131,9 +131,9 @@ Niederlande. Dort wurde sie von Käte Duncker und Clara Zetkin übernommen.
 
 > Im Einvernehmen mit den klassenbewussten, politischen und gewerkschaftlichen
 > Organisationen des Proletariats in Ihrem Lande veranstalten die
-> sozialistischen Frauen aller Länder jedes Jahres einen _Frauentag_ , der in
-> erster Linie der Agitation für das Frauenrecht dient. Der _Frauentag_ muss
-> einen internationalen Charakter tragen und ist sorgfältig vorzubereiten.
+> sozialistischen Frauen aller Länder jedes Jahres einen Frauentag, der in
+> erster Linie der Agitation für das Frauenrecht dient. Der Frauentag muss einen
+> internationalen Charakter tragen und ist sorgfältig vorzubereiten.
 
 Am 19. März 1911 fand der erste Frauentag in Deutschland, Österreich, der
 Schweiz und Dänemark statt. Das Datum wurde bewusst gewählt. Einen Tag zuvor
@@ -147,7 +147,7 @@ Frauenwahlrechts die Chance, mehr Mitglieder zu gewinnen. Die Partei
 unterstützte die Aktivistinnen daher von Anfang an.
 
 Die Zahl der Mitglieder wuchs rasch an. Auch die sozialistische Frauenzeitung
-_Die Gleichheit_ konnte innerhalb eines Jahres nahezu 10.000 neue Abonnentinnen
+Die Gleichheit konnte innerhalb eines Jahres nahezu 10.000 neue Abonnentinnen
 verzeichnen.
 
 ## Rege Beteiligung
@@ -159,22 +159,22 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_4073__l
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEGBQP/xAAqEAACAQMCBQMEAwAAAAAAAAABAgMEBREABhITITFBFCJCFTNRkWGBsv/EABYBAQEBAAAAAAAAAAAAAAAAAAUGBP/EACARAAIBAwUBAQAAAAAAAAAAAAECAwAEEQUhMVHwEmH/2gAMAwEAAhEDEQA/AKhbVdbpTtPSxs8Idl4uNF93nuc+dcV23eFIElM5J6DMqD+u+t21VcZ2RUGatqKWMyy8c9MoaRVGC3DnzgEA+M6jYpdr0F5tsW3vqFLWOn3fWSShvk0UySDhYEBvch6MOmp+DTIpIwxyM+6p6fU5YpCoxt7uncaZ6KskpqmNlnjxxDOcZGR1Hfvo1l74usyboqsMRlIicDOfYNGjpLQq5UcA0tFP9orHkgVuXKrSDalvjIhcVFZLGoZT1xjIGP4Ooe7S3qovcqT09TNyQBLLFIX57qCEdjj4qx/eqVr3bZtrNZ7rQ1E6mZpknhm5bxP4ZGxkMNR8rO0/Jrrreqq1DqaXnrG8n5DSAdR28frT1vcRJGqk74qeuLWZ5WYLsT+U62pef09RIZWM0KupZ8krkqP8nRp7lvUVyuEU1JRiigjgSnSBW4gqpkDHQfnRrHJhnJFJw5WNVbkCv//Z"
 />
 
-1912 fand der _Frauentag_ am 12. Mai mit einer noch größeren Beteiligung statt.
+1912 fand der Frauentag am 12. Mai mit einer noch größeren Beteiligung statt.
 1917 wurde nach Protesten in den eigenen Reihen von enttäuschten Sozialisten die
 USPD (Unabhänige Sozialdemokratische Partei Deutschlands) gegründet. Diese
-beschlossen die Fortführung des _Internationalen_ _Frauentages_ .
+beschlossen die Fortführung des Internationalen Frauentages.
 
-1918 wurde der _Frauentag_ am 100. Geburtstag von Karl Marx, dem 5. Mai
-gefeiert. Am 12 November 1918 wurde von der provisorischen Regierung das freie,
-geheime, aktive und passive Wahlrecht für Frauen und Männer ab 20 Jahren
-beschlossen. Somit wurden die Forderungen des _Internationalen Frauentages_ in
-Deutschland erfüllt.
+1918 wurde der Frauentag am 100. Geburtstag von Karl Marx, dem 5. Mai gefeiert.
+Am 12 November 1918 wurde von der provisorischen Regierung das freie, geheime,
+aktive und passive Wahlrecht für Frauen und Männer ab 20 Jahren beschlossen.
+Somit wurden die Forderungen des Internationalen Frauentages in Deutschland
+erfüllt.
 
 ## Was passierte nach dem Ersten Weltkrieg?
 
-Während des Ersten Weltkrieges wurde der _Frauentag_ wurde durch die Aufteilung
+Während des Ersten Weltkrieges wurde der Frauentag wurde durch die Aufteilung
 der Sozialistinnen in SPD und KPD gespalten. Die SPD hatte für die Feier ihres
-_Frauentages_ kein festes Datum, die KPD feierte am 8. März.
+Frauentages kein festes Datum, die KPD feierte am 8. März.
 
 Zu den Forderungen der Frauen gehörten jetzt die Senkung der Lebensmittelpreise,
 eine regelmäßige Schulspeisung und die Legalisierung von Abtreibungen.
@@ -194,14 +194,14 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_4079__l
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QAJhAAAgEDBAICAgMAAAAAAAAAAQIDBAURAAYSEyExQWFRcUKR0f/EABUBAQEAAAAAAAAAAAAAAAAAAAUG/8QAIBEAAgICAQUBAAAAAAAAAAAAAQIAAwQREgUxQVHwIf/aAAwDAQACEQMRAD8A1KKy1tygaakaDgH6z2TcSTgevH3qLNtG6xcpDDFwUZOKkYAH7xrtNTVdw2DVSW+RYKuCpedJHfr4cEBznB+cf1pX3im5rjQbcSDvqLzUrE7ETKlJIyxdrEtnHP8ABCgDJGSDqdx+mVW1Kzb2fvUfv6lbVayrrQ+9yVUoaaokhmRllQ4YKwYesjyPfgjRpX3I01su0lEuSadIoSQ2fKxID5/edGibMPi5A7Axqq7mise5AjBd91ratrQ0aB1FRLMxKAEtjAx+NZNSblq6m628z3Wpoquz9htyhAyGQY4xNgZCug4+z7x6OnC80sVypVhqHKxxnKdbYOTknz8e9U9v2/brZeqW5x9k1RTsHVKhuSFgCASBjOPY+wNUONl1V1qh3+CTuTh22WM41omXW4blT3W8VNwpIxJBVMJo2z/FlUj/ADRqhpIYbfRwUcbO0cC8FLHzj70aOdeTFh5JilbcEVT4An//2Q=="
 />
 
-Außerdem gibt es Quellen, die beschreiben, dass Lenin den 8. März zum
-_Frauentag_ erklärte, wozu ihm von einigen Vorkämpferinnen geraten worden war.
+Außerdem gibt es Quellen, die beschreiben, dass Lenin den 8. März zum Frauentag
+erklärte, wozu ihm von einigen Vorkämpferinnen geraten worden war.
 
 ## Fand das nicht alles viel später in den USA statt?
 
 Nachdem während der Zeit des kalten Krieges die kommunistisch-sozialistische
 Weltanschauung immer unpopulärer geworden war, entstand eine neue Geschichte um
-die Entstehung des _Frauentages_ in deren Mittelpunkt der Streik einiger
+die Entstehung des Frauentages in deren Mittelpunkt der Streik einiger
 Textilarbeiterinnen in New York stand.
 
 Die Arbeiterinnen sollen am 8. März 1857 für eine bessere Bezahlung und
@@ -214,16 +214,16 @@ man sich erstmals wieder daran erinnert.
 Stattdessen wurde nun der Muttertag propagiert. Er entsprach dem Frauenbild der
 Nazis besser und wurde damals sogar zum offiziellen Feiertag erklärt. Im
 Untergrund aber wurde weiter für die Frauenrechte gekämpft und auch der
-_Frauentag_  wurde weiterhin begangen. Am 8. März hängte man aus Protest rote
+Frauentag wurde weiterhin begangen. Am 8. März hängte man aus Protest rote
 Wäschestücke auf die Leine, die Frauen verteilten Flugblätter.
 
-Der _Internationale_ _Frauentag_ geriet erstmal in Vergessenheit. Mit der
-Entstehung der Frauenbewegung zum Ende der 60er-Jahre kehrte er nach und nach
-zurück. Die autonomen Frauen in der BRD konnten sich damit jedoch nur schwer
-durchsetzen. Sie wollten ihren Tag selbst organisieren und feiern. Dadurch, dass
-die Regierung der DDR den Frauentag mehr und mehr zum einem sozialistischen
-Muttertag machen wollte, kämpfte der _Internationale Frauentag_ in dieser Zeit
-um seinen Ruf.
+Der Internationale Frauentag geriet erstmal in Vergessenheit. Mit der Entstehung
+der Frauenbewegung zum Ende der 60er-Jahre kehrte er nach und nach zurück. Die
+autonomen Frauen in der BRD konnten sich damit jedoch nur schwer durchsetzen.
+Sie wollten ihren Tag selbst organisieren und feiern. Dadurch, dass die
+Regierung der DDR den Frauentag mehr und mehr zum einem sozialistischen
+Muttertag machen wollte, kämpfte der Internationale Frauentag in dieser Zeit um
+seinen Ruf.
 
 <RemoteImage alt={`Frauenrechte`} size="medium"
 title={`Unbekannte Frau, 1890-1923, Singapore, F. Carpenter Collection, Library of Congress`}
@@ -234,12 +234,12 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 
 ## Erstmals Ausrichtung durch die Vereinten Nationen
 
-1975 wurde der _Internationale Frauentag_ erstmals von den Vereinten Nationen
-ausgerichtet. 1975 war außerdem das _Internationale Jahr der Frau._  Der 8. März
+1975 wurde der Internationale Frauentag erstmals von den Vereinten Nationen
+ausgerichtet. 1975 war außerdem das Internationale Jahr der Frau. Der 8. März
 wurde von der UN-Generalversammlung offiziell beschlossen.  Nach der
 Wiedervereinigung taten sich 1993 die Frauen aus Ost und West erstmals wieder
 zusammen, um für die verlorenen Frauenrechte einzutreten. 1994 fand ein
-Frauenstreiktag statt, wodurch der _Internationale_ _Frauentag_ wieder an
+Frauenstreiktag statt, wodurch der Internationale Frauentag wieder an
 Popularität gewann.
 
 ## Wie sieht es heute aus?
@@ -251,7 +251,7 @@ vor
 [gegen den allgegenwärtigen Sexismus im Alltag](http://www.tagesspiegel.de/politik/sexismus-debatte-aufschrei-gegen-joachim-gauck-/7886822.html)
 gekämpft.
 
-In vielen Ländern ist der _Internationale Frauentag_ auch heute noch ein
+In vielen Ländern ist der Internationale Frauentag auch heute noch ein
 offizieller Feiertag. An diesem Tag finden häufig Aktionstage der
 Gewerkschaften, Straßenaktionen, Demonstrationen und Konferenzen zum Thema
 Frauenrechte statt, einige deutsche Städte bieten ein kulturelles Programm zu
@@ -261,11 +261,11 @@ diesem Tag.
 
 In Berlin vergibt die Frauensenatorin Dilek Kolat (SPD) im Ludwig Ehrhard-Haus
 den offiziellen Berliner Frauenpreis 2013 Preisträgerin ist Katja von der Bey,
-ihres Zeichens Geschäftsführerin der Frauengenossenschaft _
-[Weiberwirtschaft](http://www.weiberwirtschaft.de/) _ . Die Berliner Linke
-verleiht im Pfefferwerk den Clara-Zetkin-Preis mit dem herausragende Frauen
-gewürdigt werden.  Viele Parteien verteilen außerdem  traditionell auf der
-Straße Blumen, um an die Frauenrechte zu erinnern.
+ihres Zeichens Geschäftsführerin der Frauengenossenschaft
+[Weiberwirtschaft](http://www.weiberwirtschaft.de/). Die Berliner Linke verleiht
+im Pfefferwerk den Clara-Zetkin-Preis mit dem herausragende Frauen gewürdigt
+werden.  Viele Parteien verteilen außerdem  traditionell auf der Straße Blumen,
+um an die Frauenrechte zu erinnern.
 
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4087__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4087__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4095__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4095__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4094__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4094__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4093__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4093__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4091__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4091__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4090__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4090__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4089__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4089__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4088__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4088__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4069__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4069__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4070__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4070__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4075__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4075__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4074__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4074__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4073__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4073__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4071__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4071__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4076__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4076__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4078__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4078__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4079__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4079__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4084__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4084__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4085__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4085__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4092__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4092__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4097__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_03_img_4097__l.jpg"}]}
@@ -276,20 +276,20 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_0
 <RemoteImage alt={`Frauenrechte`} size="full" title={`#aufschrei-Tweets`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_aufschrei.png__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_aufschrei.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAgCAIAAAB/3NSYAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEtklEQVQ4y41V24rkRBjOYwjiY4heiLeCl6JeCF4Ivomwb+Cy4npkb0RBEHEVZnHHPbk7zExnutNJOudz0kkqValKKqdO+1fPuusuq/iRVHcO9Z+/LxIqsts3vsqKMk7SMIySOGk5H8ae93z/L2jgjRpLv3x59ZNXX3pw/IfluLqua2vVMi3bsE3NcS3Xdb3A82zLDj0/sALPDOMwGcZxGgepIdXm4Z0wivOiaHjL2gZT0rGuI/3AxgpXhNYlrmpKO9y3qJ2nGdzCKT2JocgzZNnj2tzv9tjG4DOIk5p1ExtHLd/vZm6XWU4WPhk7Xi986eGtm9c+eufk0aPFUhbr6XkYhpBt4PsYE8ooobRCFalJVRQIV2WFijIvt4V0/MONT9994/bR734YbjYbTdN0TVfV9eL8/OJiKa5UTVmrykrR1/r6TN/IRtt2vOPSfp7bmiBMijyHGzWpL4ExrqoKE1IhhBECt5Q2tGQ1qjnnbdNKJWER4YjgLE+jNKpZDfY4b3a73fwspt04zdMwDgfLVDoNylvWVtb81d3F8kSBYJS1AnAcx3UcS8B2LAdS8FzRHmiUbduwVQpzpKQoiFLXsOM4C7wAdpim6dhi2+WrAGiyBR33HMgCwsYMP+0KH54fmssg/xH2bhIYxt2ua2pJvnvr84/fU5eqtXHX8lpX9CRLwDCUpR/68YBhGPq+hxWswN8CoRYj6f5P3199/82T+ydVWoebMHRD1/chE8jNhfmzbN/zLPOAjel5HuTg2O4wdCLaYRqqmKKoKmNUhGUZVLRghVuiAFURQSFCSVW6qAjgEaqzGl6Yht3jPOf9DHkOMMiTCIl37f4/MfejxNsWjkuIFndtN3RwC9Z+7GEVbX8OvGlYKzVNyxhr2pYQAhvqtKYZxWld5xR5FY7Jbnp+JADgRgKDU8eHroPqgRPeCqYJL6yBQaEUjMLFwW0r7otwYMSaRgJ/F0lleIGyWinLVZqk0I+8yLuOg6FLdGLGW/gV4N12u4WuiZ1yjBwvsy8sR/XVM1AFBciyWq3khawqKnBlvVJWy9VSBupoF7KsqRtMsKjQNPA0iQ3TAAVIkqSsSoRxXpZZBvJUwpEDijzdbhFCeZbRmjVDL/GOHUSpBb7CpE3z3AChsxIYLQrbNB2lnNLH1WeNqP/Qs0iVCPLkew+B/KTGBaBERNeQYqIYvbCRcE4wPM6p9Nu316+89vKD4zu6YSiC/GuQHy+J/SCAamVpnqZpDOISBJBIluRZnNmmQ/kgbT3jz+++MCwnSzPhsUBlkQPF4ijKt9skSpMEipA4jg1rGeGtm1PcAmuesmyaxv3/xgQ+T45+vvbB2/LZwrRt6ISu6mmalCWCIKEiPQxIJ/oIhWENAzVmDQwHg65KJzd/vP7hWw/u3IvTFLhlGAaICFAKJAWEzz0oCAiCsTE807NXnqv5gh/z/DRasPxiWhzq+Wx198AnKQu9219/FsVQuCwIwziKGaMQY/M30Z4IidASGP/9DoYWRlL69ZtrV15/5fjoyHHds9Ozxdn5RtdBskMvdDQ3sH0oLVgNgzBLsjROL7d3MEPAEkc+L7FQZJAcKAYTrGNTO8EnaOK7F6YAn8m/AIy0iJru//+UAAAAAElFTkSuQmCC"
+loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAgCAIAAAB/3NSYAAAACXBIWXMAAAsTAAALEwEAmpwYAAAE00lEQVQ4jY1UW4vkRBjNzxDEnyH6IL4KPor6IPgg+E+E/QcuK65X9kUUBBFXYRZ33Ju7w85MT3c6SXeunXQq6aQqldS9cmmpmXHXXXbB81BQIV/Vqe9851ioLm/f+KasYQ6KLNuCHHAhdK+EEvuXgHEhOmz99vXVz15/5cHhX0EUe57nLp3AD8J16LtRHMRxnKRJEgZhlmzSIE38LM+A7vuh1xZrm9XDO9k2r+qaCU45w6SVVMpWado3uGlJB3HTESKx4ohPw7Tf76f93nrCoa5KFIT90t+Pexxi343SHHRUDrTv3Wo/TiKEZdWebtpeiu50Yz28dfPaJ+8dPXp0Op+Z9fFJlmUgB+lmg3FLKGkJaVDTdm1T1wg3sEE1rOCutg5/uvH5+2/dPvhzk2Wr1cp1Xc/1HGd5enJydjY3O8e1l469sL2ltzz2VrM151JIYe2niXctwm1dVVLIru0ugDFumga3bYMQRqhBDSGMQNqhTgjBGbdgS7etQC0uq2JbbDvaCSmEYOM4Ts9iGPthGnSvz08m1uMU3gp2M3ezuHs6P7JXs7W9tG3bjqIojqLAIIyCyHO9JDbyxHEchmHXdVZWIbtA6baI12Gel2mSRnHk+34UmrLw/Nc4jgM/CIIoTiKMMSEMU/xUFaGfH5oLkv+hPQ4Guh9HyTprdvfWl59+4MydYBUvZ0vP9kAJMMYII6VVfw6ttVJKaz2Oo9aqRohjZN3/5cerH759dP+oKbpslWVxFm82YWjeFkdxEISbJAn8c6z8JEmiIIjCWGtp2OpBNzlB2wbmqM4gTBtS0zqGKEXNtkUZQqCBMapTCFPUlR1Mm0GPl++c9pPQQg+9HgwlIfnLjHKBSfWW4FzwSxiJJZdacmFW1SuppZH9OQjGKLcY45RSxnnbtlzwruhISXDRdRVBSYPzdhyeH4lpmjjnFmdskEJLqZRSvRLcOM3cQlnXEUIoM5vza7n5bugIwRizKGVnoFknqb1Y2PNFAQqEUVVXUgrVm9OUUtLMOFdKGgi52+0wRqZylqMoKcOzIHI2zrG7dGzPcRaLxex05tiO67jLhb2YL+azueu6Z7OZ66xwi02HBi0KkK/9dYMbAABsIMK4grAsyxrCGsKqqqq6KnY7hFBVlqSjTCtLSHoeSryG1TSOwzQx3JISkpaYxjImCRGEXHafMtN/rejWsVqUzO49bAltO1zXdQ1R67nI9lGOLrV7BiaEhv1eR4+tP76/fuWNVx8c3vHWa9uYf5nmIAH5Jk0LUJRFVRRFnoM0TQEAJajKvAz9iAht7ZL13z98tQ6isijNjTWCdRWFUb7dVrsd2BYAFCAHURSCHMAt3sUVwXwchqcuG4Z+/78xCG0dHfx67aN3Z8enfhguFgvP8YoCQIiKouCcK6mUNDoKISijlDPKCGVUCmkd3fz5+sfvPLhzLy+KMIzW63UcmUxY2rbrevF5ggR+sF6tEz8JF0nsbow/pukpWyXlC4lN5/18trv7cRytMktuf/vFNgegLNMsy7c5pUQqxf412pMgMVkyDuN+ZIwppazfv7t25c3XDg8Oojg+fnx8enyy8rzVapUlWeTGabgBhZEjS7MSlEVeXJRLrSwtZTQ7gdgkct/3UkpqXEcHPkisBjG+8Am6V/8AjLSImtvgE0EAAAAASUVORK5CYII="
 />
 
 <RemoteImage alt={`Frauenrechte`} size="full" title={`#Aufschrei-Fahrlehrer`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_fahrlehrer.png__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_fahrlehrer.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAHCAIAAADmsdgtAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACDUlEQVQoz41SO2/bMBD2n2qB/InuzVCg3ToVXTp0zN6xzV506lJ0LJKhyKNObcWy3pal2BIlWw9LJEVKJG05VikD2fvh8BEHHu94d9+gbfeHrivLKoPVY9c1PVjT1IwxWlPpcMZ65ry/+D/IyLqWwZLrQdd1Xz+dfXvz4u3JM922727//Lq4vLi4HA2HV7+vJvfTNE2iKMrSNAAAQihkJd7jKRljnPEniD47l2FJslola4RQX+Dj6Uvz/P33d6/CeB3FUbBczCxr5ti+52V54dg2CMDCX1iGuVwGc9/TVc1xHNf1fN83NGvuutImk8lU15eL5dzzhRDHLo4dnMOf15+//Phw+vrkuWro8qFl6KZpgzXQTM10TM93b26vnZmr3I3Hw5GiTGzLVcaKoWmOZY7/jtWpKlnmN3V9NFY0VQMgOtZgGd4MRqHStR1hrD0cIEITVZ3qahiHRVAu1CB249CMK1qJvagbgglueCP2ckoN3zHeyoPKldWiEdJlTA4HI0woOe6ywbgaQDtuD49ykLt2hwtk3czAPMqiAtzHSxUAPYqddf4AUzcroiJ7yOEaB6OoiIvEz1azNA/LKifpPAPGiiAqdqL/e78JKRBOaDqIYbjl214wvXZqlKIaUy44xaQqK5jDChOCKUwRzFGZQUooyhAqEUyhNJTLnliFqk2cU9oLsO4hmTZ8SzbJP/HWVnJoOfBeAAAAAElFTkSuQmCC"
+loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAHCAIAAADmsdgtAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACE0lEQVQokY2SO4/TQBSF86dA2j9BzxZI0FEhGgpKekrYHlHRIEq0W6B9sLux144dP+LEm/iVxPbaM+OZuTOTOBsjR9qer7jNlc65V+cM2na377q6bgrUPHYd9AgALoRgnAGAFKKfUvaL/wMAOAchgHM+6Lru2+dP39+8eHv0zPa8m6u/v0/PTk/PhtfX53/OjbtRnq/TNC3yPEoShJCSsneT8klMCCnkE6pXlwih9Xq5XK8wxr3Bx+OXzsn7H+9exdkqzdJoMZ+47sT3wtmsKCvf85IomYdzd+wsFtE0nNmm5ft+EMzCMBxb7jQIpkFgGMbIthfzxXQWKqUOXxw+OEG/Lr58/fnh+PXRc3Ns+37gjm3H8ZJVYjmW4zuzMLi8uvAngX6jaddDXTc8N9A1fWxZvutot5o5MrVbzTBGjm0PNd0yrSRJDx6iIA+DYax3bUeFaPd7hLFhmiPbjLO4iuq5GWVBFjtZwxq1UxwooQQkqJ0ECXIrZCtBMhDAFaitkEIghAgmlNFDlkBIM0Be1u4fhZDbdksq7F5OkmlapFVyly3MJLHTzF+V9ygPiiqtivsSrUg0TKusWofFcpKXcd2UNJ8WyXhJMVNb1d/eJ8EAJGX5IEPxRm76wvTd4TjHnDCpJCO0qRtUooZQShjKMSpxXSBGGS4wrjHKEcoRLglI0eDmISsZ6wvIe4BzBnJDH9b/APHWVnJRctaLAAAAAElFTkSuQmCC"
 />
 
 <RemoteImage alt={`Frauenrechte`} size="full"
 title={`Kommentare zum #aufschrei-Tweet auf Facebook`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_aufschrei2.png__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_aufschrei2.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAgCAIAAABGu2XDAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAD2UlEQVQ4y31TS2glRRStveBeFHHnxoW60I2IILoSN25cKOJKYWBA3BhwHBRcjAtx50YiQQcTwxgHZ4gfMkbN32ReXt6vu6v6W1XdXVVd1Z/Xr/v1e0melYwMioOXS9FFnbp1z7mnQVMWnfVfs3w4PZ3V40lZ1s3kePafAAuX35l/+bHtn9YCUbaOLMeLinKsD07+FTNg/7F6/fJF4niz/4tTcDqbleOTqp6MqirL8nJYlsWwGpZFXqRpNhqOiqKo6zEgOIAWCnzsux7FFAfYNKHn+DSgCNqBH9jIdm0PcMYd24loRAISRywKIw3FLiaYUEKlknplMQMsZEFAoAl9x4MW7HZ6DnJ8x0cWch3PhsiGNsYEpIlUIpVc8pinKr0ni8mkAZzzRMo0y6SUSqVCCJVnIknKqtQ8lJIqS8/4Cs6I5hJg1/W4EGEU6fYQQjFjTHCkSXj+dDoF99DqfG3GJ6f/nIfjIhcdMFVDL/apwpFS2agoK5mWo7qpmzvSNuDD9+fevfha25Ibe8b2bXtzH7Z6Qc8gXZNYdmRaA9OOY56D8WSWpDWmqeNznZYT9yzaNXHXpB2LWGZHl9e1QVk1o9GkD8O1bbi+A/e7eLftHw3oVsv9eQsaXloMmzSvQJ6fwUkkDOhbNo65FCLjQsU8iZhgXNJIkJCDvDjDYRIaFjIsPRenb1id/iCgcRhrhNA4nfrdSaLGeo8p1/cipkKW2b4kLHOJxHEW8lzpd6fT46rMoSfb/eCoH/RMQqNEXwvDRH9gwpnQ4yzBR5fmLr33+sDmhz3XpxIFwnZDPXrHIT6OPC/SopzxRT79bfPPWBaeh3UfEUsCmkA3xqEirMjykUrPcZ2VhfVPPoB0dNh1b/d97dH+wGl3IETYwanjuop5Km/Aztatpa/mKR91DduEgYGItqIJMaU8ipIolmEohSwAF/GPW78PvKHh512ojqDowbg7CPbbcHN3sNcydbqYg6aapnm9fmtja2NzZ3tn/6Dd2tt1febSjMQKalqeoKEC9XRGI/nKU4+89dyDS3OvfvPZ3IUXH/7h2rXtntC2WNs2TY9XdQOq8bGW58qbL1x545l05dMvPr7wxP1g8etvV3fw97+0bq51lm4e7HcDoB2m6z375KMvPf3Q528///gD4D4Abiwvh9mp7UaGHe91PCbP/cLkcHFpefXG9ZXvri1evbow/6U1MAYWNEyzNzANy0SuD/JhpXnctfud0J5rHfa0J7p9w4QojJXG1TwpmMj+Tq6EzBlLLeTp/xgix3aDc18NKy2jnszdzIpad3xw2EbID+MzkXX5vwA8BT4wFcnhPwAAAABJRU5ErkJggg=="
+loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAgCAIAAABGu2XDAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAD3ElEQVQ4jX2SS4gcRQCG6y54F0W8efGgHvQiIoiexIsXD4p4UggExIsLxqDgIR7EmxeJBA1mDTEGE+KDjavu7uyuu5mdnVd3V/Wzqrq6qrqqunv6MT2T3ZFJJCgGP/7jf/kfoC2L/vqvWT6ZHy+a6awsm3Z2a/EfwLnT75x9+bHOT2uRLLuHjhewopwuFoujf7EA7h/Xr5w+Sbxg8X8cg+PFopwe1c2squssy8tJWRaTelIWeWFMVk2qoiiaZgoIjqCDohCHfkAxxRG2bRh4IY0ogm4URi5yfTcAggvP9RhlJCIJ4yxmOMLYxwQTSqjSihLKEw54zKOIQBuGXgAdOOgPPeSFXogc5HuBC5ELXYwJMKnS0iihRCKMNvdMMZu1QAiRKmWyTCmltZFS6jyTaVrWpTGZ1kpnZplXCk4IjiLs+4GQMmYswhghlHDOpUDI9YNwPp+De3S1WNJOj47/uYfnIx/tc93AIAmpxkzrrCrKWpmyatqmvVNtCz58f+Xdk6/1HLWxa3Vuupt7sDuMhhYZ2MRxme2MbTdJRA6ms0VqGkyNFwovFI6XDB06sPHApn2HOHZfZ5UyJSjrtqpmIxivdeD6Ntwb4J1eeDimW13/5y1oBaaYtCavQZ4v7YRJC4aOixOhpMyE1IlIGZdcKMokiQXIi6UPk9hykOVAG3ojy+mPxhFN4kSSWFK2FCjrWaqnJJaYChILxnXMMzdUhGc+UTjJYpHrvAbz+a26zGGgeqPocBQNbUJZSmIZxyllKSaCS6NNCT46tXLqvdfHrjgY+iFVKJKuH0MXex4JMQsCloh8mReF9LfNPxNVBAGmTDKeRjSFfoJjTXiR5ZU2t339y+fWP/kA0upg4N8chTYMRmOv14cQYQ8bz/c1D3Tegu2tG6tfnaWiGliuDSMLERuGNsSUCsZSlqg4VlIVQMjkx63fx8HECvMB1IdQDmEyGEd7Pbi5M97t2rtd28cCtPXc5M36jY2tjc3tzvbefq+7u+OH3KcZSTSMpBtIGmvQzBeUqVeeeuSt5x5cXXn1m89WTrz48A+XLnWGsnPTXevYdiDqpgX19JY25Zk3XzjzxjPm8qdffHziifvBha+/vb6Nv/+le22tv3ptf28QgaY9okw9++SjLz390OdvP//4A+A+AK5evBhnx67PLDfZ7Qdc3f4LV5MLqxevX71y+btLF86fP3f2S2dsjR1o2fZwbFuOjfwQ5JPa5M3du99BZ1X3YGhDbzCybIjiRIN80oi04DL7W0JLlXNuHBQgL4TIc/3o9q8mtVSFMuVdZUVDmdo/6CEUxsmyZJ1VfwE8BT4wHk1G9QAAAABJRU5ErkJggg=="
 />
 
 ### Quellen

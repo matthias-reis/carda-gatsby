@@ -58,7 +58,7 @@ labels:
   - Wildkräuter
   - Wildkräutersalat
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2017-07-20T16:11:39.000Z
 status: publish
 isWerbung: false

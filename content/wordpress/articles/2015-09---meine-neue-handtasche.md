@@ -71,6 +71,7 @@ an dieser Stelle!
 
 ## Link zum Schnittmuster
 
-- [1][schnittmuster tasche "carrie" bei patty doo](https://www.pattydoo.de/schnittmuster/tasche-carrie)
+- [1]
+  [Schnittmuster Tasche "Carrie" bei Patty Doo](https://www.pattydoo.de/schnittmuster/tasche-carrie)
 
   

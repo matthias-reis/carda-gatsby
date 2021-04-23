@@ -62,8 +62,8 @@ dass ich mich wohl erst noch an die neuen, elektronischen Stücke gewöhnen muss
 Alles in allem ein wundervoller Abend und ein schönes Abschiedskonzert in
 München, denn vor unserem Umzug nach Hamburg war es unser vorerst letzter
 Konzertbesuch in der bayerischen Hauptstadt. Ich hoffe jedoch auf zahlreiche
-Besuche von meinem Bruder in Hamburg und vom Herzmann und mir bei meinem Bruder,
-bei denen die Drei von der Bande wieder gemeinsam Musik genießen werden.
+Besuche von meinem Bruder in Hamburg und Matze und mir bei meinem Bruder, bei
+denen die Drei von der Bande wieder gemeinsam Musik genießen werden.
 
 So long... And thanks for all the fish.
 

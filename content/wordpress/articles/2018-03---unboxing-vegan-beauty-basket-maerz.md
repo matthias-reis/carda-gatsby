@@ -77,7 +77,7 @@ Variante aussuchen. In diesem Fall war das der Nagellack von Glossworks 9free.
 Zur Wahl standen "Coming-Off-Beige", "Blush", "In The Pink" und "Name Of The
 Rose". Ich habe mich für "Blush" entschieden und bin ganz verzückt von der
 schönen Farbe. Hoffentlich kann man schon bald wieder
-[Flip Flops](/2018/03/gumbies-vegane-strandsandalen/) tragen!
+[Flip-Flops](/2018/03/gumbies-vegane-strandsandalen/) tragen!
 
 Der Lack stammt aus England. Er lässt sich prima auftragen und trocknet sehr
 schnell. Ich kann mir gut vorstellen, ihn auch in andere Farben auszuprobieren.

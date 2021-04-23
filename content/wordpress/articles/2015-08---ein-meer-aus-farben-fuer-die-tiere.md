@@ -146,8 +146,9 @@ Mit lieben Grüßen von Denise sind hier für Euch Berge mit "Meer aus Farben":
 
  <YouTube id="7rHWnRHd3lg" />
 
-- [1][wyob - vegane mützen mit statement](/2015/04/vegane-haekelmuetzen-mit-statement/)
-- [2][berge - "meer aus farben"](https://www.youtube.com/watch?v=7rHWnRHd3lg)
-- [3][überlebenshof scottmaring](http://www.tiere-leben.de/Scottmaring.html)
+- [1]
+  [WYOB - Vegane Mützen mit Statement](/2015/04/vegane-haekelmuetzen-mit-statement/)
+- [2] [Berge - "Meer aus Farben"](https://www.youtube.com/watch?v=7rHWnRHd3lg)
+- [3] [Überlebenshof Scottmaring](http://www.tiere-leben.de/Scottmaring.html)
 
   

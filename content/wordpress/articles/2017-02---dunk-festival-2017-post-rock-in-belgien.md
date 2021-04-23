@@ -30,8 +30,8 @@ labels:
   - DUMBSAINT
   - Dunk Festival
   - Dunk Records
-  - DUNK! Festival
-  - DUNK! Records
+  - DUNK!festival
+  - DUNK!records
   - EARTH
   - Emma Ruth Rundle
   - Festival

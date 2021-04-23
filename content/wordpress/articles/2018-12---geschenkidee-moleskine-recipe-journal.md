@@ -25,7 +25,6 @@ labels:
   - Rezeptsammlung
   - Scrapbook
   - Scrapbooking
-  - Vegane Rezepte
 type: Galerie Rechts
 typeName: Produkttest
 date: 2018-12-11T07:14:41.000Z

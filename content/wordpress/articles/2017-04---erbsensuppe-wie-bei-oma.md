@@ -37,7 +37,7 @@ labels:
   - wheredoyougetyourprotein
   - Zwiebeln
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2017-04-21T13:24:56.000Z
 status: publish
 isWerbung: false

@@ -5,10 +5,10 @@ slug: die-vegane-aerztin-dr-barbara-gorissen-im-interview
 path: /2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/
 fileName: 2015-07---die-vegane-aerztin-dr-barbara-gorissen.md
 description: Vor Kurzem habe ich die vegane Ärztin Dr. Barbara Gorißen
-  kennengelernt und mich mit ihr zum Interview verabredet. Ein sehr
-  interessantes Gespräch.
-excerpt: Vor Kurzem habe ich die vegane Ärztin Dr. Barbara Gorißen kennengelernt
-  und mich mit ihr zum Interview verabredet. Ein sehr interessantes Gespräch.
+  kennengelernt und mich mit ihr zum Interview verabredet.
+excerpt: Vor Kurzem habe ich die vegan lebende Ärztin Dr. Barbara Gorißen
+  kennengelernt und mich mit ihr zum Interview verabredet. Unser Gespräch war
+  sehr aufschlusreich.
 focusKeyword: vegane Ärztin
 labels:
   - Ernährung
@@ -31,16 +31,13 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors: {}
-thumbnailId: "12056"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_3846819118_41b624fc0b_z-e1586968869255__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_3846819118_41b624fc0b_z-e1586968869255__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBgMFCP/EACkQAAEDAwMDBAIDAAAAAAAAAAECAwQABREGEiEHMUETFCKBCFEjcZH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAECBf/EACARAAEEAQQDAAAAAAAAAAAAAAEAAgMSIRETMUEEMjT/2gAMAwEAAhEDEQA/AGRpbUUW5Wl1mZDHumQhyS0scDOBuGeCMjuKSfVvS8eFeHbpY2PRtshW5bfGGFnuEgeD3H67VC6R6tuhlvW4OvzoxjOhEcJStxR25w3uIIPGeD4re6hkpkQ34z8knORhxhKM4WEgglXGc5HHYGlgdxhDuQtH55gW+pTS6K65nXLSEaK++w4/AV7dxUhR3qRjKDn+uPqrtqO+tS4iIDfouvPnaUoXn/a5w6TIeW7eYjk5uzhsJcEmWsIZcCSRjIVkn5Dx2zVv6f6jhNaolt3O6wVmNIU36wdBS5tOMoPkGouaVPKB5AZuFzDhVjoJo9/UkiPdHFtQrXBdB3No/mfUOdoPhPbJ7+BWD8sbkHtd25oEkR42B9nNFFHoGx47QZJC+U69JNqmhScYT9iorsxQHxVjH6oopfQK5OF//9k=
+thumbnailId: "34019"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_qimono-pixabay__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_qimono-pixabay__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMFBgII/8QAJxAAAQQBBAAFBQAAAAAAAAAAAQIDBBEABRIhMRMiQVFxBiNhgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAQEBAQEAAAAAAAAAAAAAAAABESFh/9oADAMBAAIRAxEAPwD0WzIjPvvMsSGHXmCA62hxKlNk9BQBsfvOnVpbSolJ4I/F/HvkJCWJmqajG02emNMcQXHSxGO4WoUpSyKv049zkrVI31BF8USYjc5jaUpkRPtvtgiiQCCLr1o5N8Mzeq0vU1wZ73nEpp10ApVIaQmIgCirgXV13zZylou1WmsESzMHNPl1LhXz3uTwfbjM1pGp6bqWqNRYDkGJPIDspmVp1vOoBCeVggbr48199ZrmkFpam2mAmOlRSlKEhG34TQFXfNnEGLZnHUUupnJELw9hilkHzXe4Lu79K6x7bSWkBLY2pHQu8MMJMNukyYESUQZEZpwjkFSef7jkthAASSEjod4YYh//2Q==
 subTitle: '"Es war ein langer Reifungsprozess!"'
   
 ---
-
-> "Die Welt hat genug für jedermanns Bedürfnisse, aber nicht für jedermanns
-> Gier." - Mahatma Gandhi
 
 **Vor Kurzem habe ich über ein soziales Netzwerk die nette vegane Ärztin Dr.
 Barbara Gorißen kennengelernt. Über die Chatfunktion kam ich mit der Internistin
@@ -63,6 +60,9 @@ Als Ausgleich zu dieser 100-prozentigen Schulmedizin führt sie eine
 Privatpraxis, in der sie überwiegend Prävention wie z. B. Raucherentwöhnung
 sowie ärztliche Hypnose und Akupunktur z. B. für Schmerz-, Angst- und
 Palliativpatienten anbietet.
+
+> "Die Welt hat genug für jedermanns Bedürfnisse, aber nicht für jedermanns
+> Gier." - Mahatma Gandhi
 
 Sie lebt seit zweieinhalb Jahren vegan, ihr Hauptgrund ist, wie sie selbst sagt,
 ethischer Natur, dicht gefolgt vom gesundheitlichen Aspekt und
@@ -105,8 +105,8 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 
 **Dr. Gorißen:** Ich bin mit Tieren aufgewachsen und habe als Kind die Hühner
 meiner Eltern gezähmt und herumgetragen. Ich kann mich noch gut daran erinnern,
-wie irritiert ich schon als Kind war, dass es Unterteilungen wie „Nutztiere“ und
-„Unkraut“ gibt. Schon damals habe ich mich gefragt, wer sowas eigentlich
+wie irritiert ich schon als Kind war, dass es Unterteilungen wie "Nutztiere" und
+"Unkraut" gibt. Schon damals habe ich mich gefragt, wer sowas eigentlich
 bestimmt und mit welchem Recht. Ich war sicher kein bequemes Kind, und stellte
 viele Fragen, auf die ich keine befriedigenden Antworten erhielt.
 
@@ -114,7 +114,7 @@ viele Fragen, auf die ich keine befriedigenden Antworten erhielt.
 oder haben sie einen Sprung ins kalte Wasser gewagt?
 
 **Dr. Gorißen:** Ich würde sagen, das Ganze war ein langer Reifungsprozess.
-Angefangen habe ich vor gut 20 Jahren als „Flexitarierin“, wie man heute so
+Angefangen habe ich vor gut 20 Jahren als "Flexitarierin", wie man heute so
 schön sagen würde. Nach einigen Jahren wurde ich Vegetarierin und als ich vor
 zweieinhalb Jahren begonnen habe, mich immer gründlicher mit dem Thema zu
 beschäftigen, wurde mir sehr schnell klar, dass es für mich künftig nur noch
@@ -150,7 +150,7 @@ verändert, es war also niemand wirklich überrascht.
 **Anne:** Gab es ein prägendes Erlebnis? Einen speziellen Auslöser? Haben sie
 ein spezielles Vorbild, ihren Veganismus betreffend?
 
-## Damals gab es das Wort „vegan“ noch gar nicht
+## Damals gab es das Wort "vegan" noch gar nicht
 
 **Dr. Gorißen:** Ein prägendes Erlebnis, oder einen direkten Auslöser gab es
 nicht, es war wie gesagt ein jahrelanger Reifungsprozess.
@@ -162,8 +162,8 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 />
 
 Was die Vorbilder betrifft: Den ersten Anstoß gab mir mir allerdings ein Veganer
-in meinem Sportverein Anfang der 90er Jahre. Damals gab es das Wort „vegan“ noch
-gar nicht, man sprach von „strengen Vegetariern“. Der Vereinskollege fiel
+in meinem Sportverein Anfang der 90er Jahre. Damals gab es das Wort "vegan" noch
+gar nicht, man sprach von "strengen Vegetariern". Der Vereinskollege fiel
 beispielsweise dadurch auf, dass er sich an den Rand setzte, wenn wir zum
 Aufwärmen Volleyball spielten, da der Ball aus Leder war und er daher nicht am
 Spiel teilnehmen wollte.
@@ -171,7 +171,7 @@ Spiel teilnehmen wollte.
 Wir hielten ihn für einen - sehr netten – Sonderling, denn er hat damals einfach
 nur ein gutes Beispiel vorgelebt. Er hat unsere Fragen immer offen beantwortet
 und uns nie in eine Ecke gedrängt. Das hat mich sehr beeindruckt und bis heute
-geprägt. Durch seine „sanfte Infiltration“ war ich mehr und mehr  dazu bereit,
+geprägt. Durch seine "sanfte Infiltration" war ich mehr und mehr  dazu bereit,
 mich mit dem Thema auseinanderzusetzen und mich auf meinen eigenen Weg zu
 begeben.
 
@@ -186,9 +186,9 @@ ethische Aspekt. Wann wurde der gesundheitliche Gesichtspunkt interessant?
 ## Ich war völlig überrascht
 
 **Dr. Gorißen:** Ehrlich gesagt, kam der erst sehr spät. Wie sagt man so schön?
-„Der Schuster trägt selbst die schlechtesten Schuhe“. So mancher Arzt
-lebt selbst nicht unbedingt gesund. Auch, oder gerade weil er es eigentlich
-besser wissen müsste. Ich wäre sogar dann vegan geworden, wenn es für mich
+"Der Schuster trägt selbst die schlechtesten Schuhe". So mancher Arzt lebt
+selbst nicht unbedingt gesund. Auch, oder gerade weil er es eigentlich besser
+wissen müsste. Ich wäre sogar dann vegan geworden, wenn es für mich
 gesundheitliche Nachteile mit sich gebracht hätte. Ehrlich gesagt habe ich vor
 ein paar Jahren auch selbst noch geglaubt, dass das nicht gesund sein kann, weil
 ich mich gar nicht näher mit dem Thema beschäftigt habe. Als ich dann aber
@@ -200,7 +200,8 @@ sich vegan zu ernähren, war ich erst mal völlig überrascht.
 **Anne:** Empfehlen sie ihren Patienten, sich vegan zu ernähren?
 
 <RemoteImage alt={`Tabletten? Oder einfach &quot;nur&quot; gesunde Ernährung?`}
-size="medium" title={`Tabletten? Oder einfach "nur" gesunde Ernährung?`}
+size="medium"
+title={`Tabletten? Oder einfach "nur" gesunde Ernährung? Foto: © Taki Steve, Flickr (Creative Commons)`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_4746653392_cd0676b04a_z__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_4746653392_cd0676b04a_z__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYDBAACB//EACkQAAEEAQQBAwMFAAAAAAAAAAECAwQRBQASITETBhRBIlFhJDJxobH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQME/8QAIBEAAQMEAgMAAAAAAAAAAAAAAQACEQMSIVExYUGR8P/aAAwDAQACEQMRAD8A7o7k2UzvaNx5Tr5RuBaZJANgVfx3d9CtCmcvJjZHJw1w5iHGlrWt14Ld39eMNWNqgrkFIIrvQ3HRpXjlzMnn4andzTKZEXyJShdg/RuVR3dUOPjsab2fJJgzRHeK0rdJWhxRSWzd7aHI/wB1zy444WpAUuQnJgR0qcZLq0NJcfZatS+TQCeh3Ys0ONVsu8/AxUubgWGn56m1LZaW4VlzbRIAFn8caEZlap8RCseIEzK49Zb870koQy6DdLSk2aB5Se9ZGxuKlzY0iFIJnY3jchRSgKJs0BQIJFEjg1/OiXybW+1bYElLPpuF6QkxmcThJzEssvrLTKpJePkBKidhPPKSeua41Mt7Lwc9Gaj5V79S74gDjhsRdni1AEkkcWDzqxi/R+FxUr3WDhR8bJJvyR2U7r+/PzyedbLTi8UH4MuZLkzH1e/WCsF07BXkCQBQA+QNGsHkTgdzCbNBEfT2aSGY701gvJlpdXPc2ABC02CQNo3EkABPJ+16LrCsfjkNwohU1RcTuVtP1ckmx/VaUvRfp7BZSM4mPkMtJDq/MUPy/I2g3f7aHz30fzpjjQpyMnlZOSybkpEsoDUZFhuOEivovnn50KQe2PI3rf3ajhzccr//2Q=="
@@ -209,17 +210,17 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 **Dr. Gorißen:** Aber sicher! Nur leider wollen die wenigsten etwas davon hören.
 Leider ist die typische Mentalität der Menschen häufig die Bequemlichkeit. Zum
 Arzt geht man erst, wenn man krank ist und dann soll der einen bitteschön gesund
-machen, ohne dass man selbst etwas dafür tun muss. „Frau Dr, haben sie nicht
-einfach eine Spritze, oder Tabletten für mich?“ - das hört man schon oft. Wenn
+machen, ohne dass man selbst etwas dafür tun muss. "Frau Dr, haben sie nicht
+einfach eine Spritze, oder Tabletten für mich?" - das hört man schon oft. Wenn
 ich vorsichtig das Thema Prävention anschneide, will keiner zuhören.
 
 Ich biete ja z. B. auch ärztliche Hypnose an und bekomme da viele Anfragen, ob
-ich Übergewicht nicht einfach „weghypnotisieren“ kann, damit man einfach
+ich Übergewicht nicht einfach "weghypnotisieren" kann, damit man einfach
 weiterhin essen kann, was man will, nur eben nicht mehr zu viel. Wenn ich dann
 erkläre, dass Hypnose zwar durchaus hilfreich sein kann, ohne grundsätzliche
 Ernährungsumstellung aber eher keine dauerhaften Erfolge möglich sind, ist das
-Interesse oft sofort wieder weg. „Nein, meine Lebensweise komplett zu ändern,
-das ist mir dann zu extrem!“ Ich habe tatsächlich schon erlebt, dass ich dann
+Interesse oft sofort wieder weg. "Nein, meine Lebensweise komplett zu ändern,
+das ist mir dann zu extrem!" Ich habe tatsächlich schon erlebt, dass ich dann
 direkt im nächsten Satz zu meiner Meinung bezüglich eines Magenbandes oder einer
 Magenverkleinerung gefragt worden bin. Da fehlten dann sogar mir die Worte.
 
@@ -258,8 +259,8 @@ sich natürlich erst mal in seinem Fachgebiet fort. Darüber hinaus beschäftigt
 sich dann mit den neusten Publikationen der Bereiche, für die er sich sonst noch
 näher interessiert. Ernährung gehört da oft nur am Rande dazu.
 
-**Anne:** Es hat sich ja in den letzten Jahren einiges getan in Richtung „Vegan
-ist gesund“. Was muss passieren, damit in unserer Gesellschaft endgültig ein
+**Anne:** Es hat sich ja in den letzten Jahren einiges getan in Richtung "Vegan
+ist gesund". Was muss passieren, damit in unserer Gesellschaft endgültig ein
 Umdenken erfolgt? Noch werden ja in Schulen und Kitas nach wie vor altertümliche
 Ernährungspyramiden verteilt, kommt man als Veganer ins Krankenhaus, kann es
 einem passieren, dass man sich selbst verpflegen muss, wenn es zur stationären
@@ -276,12 +277,6 @@ Planeten vernünftig umzugehen.
 
 **Anne:** Würden sie sagen, dass eine rein pflanzliche Ernährung die gesündeste
 für den Menschen ist?
-
-<RemoteImage alt={`Veganismus und Medizin`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_3846819118_41b624fc0b_z-e1586968869255__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_3846819118_41b624fc0b_z-e1586968869255__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBgMFCP/EACkQAAEDAwMDBAIDAAAAAAAAAAECAwQABREGEiEHMUETFCKBCFEjcZH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAECBf/EACARAAEEAQQDAAAAAAAAAAAAAAEAAgMSIRETMUEEMjT/2gAMAwEAAhEDEQA/AGRpbUUW5Wl1mZDHumQhyS0scDOBuGeCMjuKSfVvS8eFeHbpY2PRtshW5bfGGFnuEgeD3H67VC6R6tuhlvW4OvzoxjOhEcJStxR25w3uIIPGeD4re6hkpkQ34z8knORhxhKM4WEgglXGc5HHYGlgdxhDuQtH55gW+pTS6K65nXLSEaK++w4/AV7dxUhR3qRjKDn+uPqrtqO+tS4iIDfouvPnaUoXn/a5w6TIeW7eYjk5uzhsJcEmWsIZcCSRjIVkn5Dx2zVv6f6jhNaolt3O6wVmNIU36wdBS5tOMoPkGouaVPKB5AZuFzDhVjoJo9/UkiPdHFtQrXBdB3No/mfUOdoPhPbJ7+BWD8sbkHtd25oEkR42B9nNFFHoGx47QZJC+U69JNqmhScYT9iorsxQHxVjH6oopfQK5OF//9k="
-/>
 
 **Dr. Gorißen:** Sie ist meiner Meinung nach nicht nur gesund und empfehlenswert
 für den Menschen, sondern vor allem auch für die Menschheit als Ganzes. Mehr
@@ -312,7 +307,7 @@ Lebensgewohnheiten positiv beeinflusst werden. Im Idealfall verschwinden sie
 sogar ganz. Auch Allergikern und Patienten mit rheumatischen Erkrankungen
 empfehle ich eine komplette Umstellung  ihrer Ernährung.
 
-**Anne:** Als Veganer sollte man [Vitamin B12 substituieren](/?s=vitamin+b12),
+**Anne:** Als Veganer sollte man [Vitamin B12 supplementieren](/?s=vitamin+b12),
 da es dem Körper über rein pflanzliche Nahrung nach dem heutigen Stand der
 Forschung nicht zugeführt werden kann. Derzeit finden Studien mit Superfoods wie
 z. B. verschiedenen Algen statt, die das z. T. schon widerlegen könnten. Wie
@@ -332,7 +327,7 @@ müssen dann lebenslang hochdosiertes Vitamin B12 einnehmen.
 
 ## Die Diskussion über Vitamin B12 ist ein Nebenkriegsschauplatz
 
-**Anne:** Sollte man grundsätzlich B12 substituieren, oder nur, wenn der Arzt
+**Anne:** Sollte man grundsätzlich B12 supplementieren, oder nur, wenn der Arzt
 dazu rät?
 
 **Dr. Gorißen:** Ich persönlich werde erst Zusatzpräparate einnehmen, wenn mein
@@ -341,7 +336,7 @@ lebe, ist das noch nicht der Fall. Allerdings halte ich diese Diskussion
 wirklich für einen Nebenkriegsschauplatz.
 
 Womöglich werde ich eines Tages durch meine vegane Ernährung Vitamin B12
-substituieren müssen. Aber ich bin davon überzeugt, dass nicht zuletzt auch
+supplementieren müssen. Aber ich bin davon überzeugt, dass nicht zuletzt auch
 meine Ernährung der Grund dafür ist, dass ich heute kerngesund bin und keinerlei
 Tabletten benötige. Wer schon prophylaktisch Vitamin B12 zu sich nehmen möchte,
 ohne seinen Spiegel zu kennen: Darin sehe ich kein Problem.
@@ -361,8 +356,8 @@ ausgewogenen Ernährung immer das, was er braucht?
 
 **Dr. Gorißen:** Ich bin kein Freund von Nahrungsergänzungsmitteln, sondern ein
 großer Verfechter einer abwechslungsreichen, gesunden Ernährung. Dass man dafür
-keine tierischen Produkte benötigt, zeigt der Erfolg der zahlreichen „Probier's
-doch einfach mal aus!“-Aktionen der letzten Zeit. Viele Menschen fühlen sich
+keine tierischen Produkte benötigt, zeigt der Erfolg der zahlreichen "Probier's
+doch einfach mal aus!"-Aktionen der letzten Zeit. Viele Menschen fühlen sich
 schon nach kurzer Zeit so fit und vital, dass sie schnell dauerhaft auf eine
 vegane Ernährung umsteigen. Am eigenen Leib zu spüren, was dem Körper gut tut,
 ist viel überzeugender, als graue Theorie.
@@ -384,7 +379,7 @@ Fällen am besten den Einstieg finden kann?
 **Dr. Gorißen:** Auch hier finde ich, liegt man mit einem veganen Kochbuch
 einfach immer richtig. Appetitanregenden Fotos, bei denen jedem schon ganz
 automatisch das Wasser im Mund zusammenläuft, können Wunder bewirken. Allein
-schon dadurch, dass man sich die Mühe gemacht hat, statt „kluger Ratschläge“ ein
+schon dadurch, dass man sich die Mühe gemacht hat, statt "kluger Ratschläge" ein
 Kochbuch zu verschenken, erntet man beim Beschenkten Freude und Rührung statt
 Skepsis und Abwehr. Und schon hat man einen Fuß in der Tür.
 
@@ -435,14 +430,11 @@ Kontakt treten möchte, der findet sie auf ihrer
 
 ### Bildquellen/References pictures
 
-**Portrait/Portrait:** Barbara Gorißen privat/private
-**Gemüsefotos/Vegetables:** Aus
-[meinem Flickr](https://www.flickr.com/photos/99929697@N07/)
-**Tabletten/Pills:** [Taki Steve](http://Tabletten? Oder einfach), Flickr
-(Creative Commons) **Spritze/Injection:**
-[Sarah](https://www.flickr.com/photos/dm-set/), Flickr (Creative Commons)
-
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+**Portrait:** Barbara Gorißen privat **Gemüse/Nahrungsergänzungsmittel:** Selbst
+fotografiert **Tabletten:** [Taki Steve](http://Tabletten? Oder einfach), Flickr
+(Creative Commons) **Spritze/Pillen:**
+[qimono](https://pixabay.com/de/illustrations/spritze-pille-kapsel-morphin-nadel-1884784/),
+pixabay
 
 Merken
 

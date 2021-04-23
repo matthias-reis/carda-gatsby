@@ -22,7 +22,7 @@ labels:
   - Vegane Rezepte
   - veganes Quiche Rezept
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2018-09-04T12:32:50.000Z
 status: publish
 isWerbung: false

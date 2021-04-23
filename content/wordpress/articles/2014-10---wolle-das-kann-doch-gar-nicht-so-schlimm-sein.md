@@ -455,11 +455,12 @@ bestehen, doch dazu mehr im achten Teil meiner Serie...
 
 ## Fußnoten
 
-- [1][peta wolle aus deutschland](http://www.peta.de/wolle-deutschland#.VDgudL6USmC)
-- [2][peta fakten über die wollindustrie](http://www.peta.de/fakten)
-- [3][myasis wikipedia](http://de.wikipedia.org/wiki/Myiasis)
-- [4][mulesing wikipedia](http://de.wikipedia.org/wiki/Mulesing)
-- [5][wikipedia wolle](http://de.wikipedia.org/wiki/Wolle)
+- [1]   
+  [PETA Wolle aus Deutschland](http://www.peta.de/wolle-deutschland#.VDgudL6USmC)
+- [2]    [PETA Fakten über die Wollindustrie](http://www.peta.de/fakten)
+- [3]    [Myasis Wikipedia](http://de.wikipedia.org/wiki/Myiasis)
+- [4]    [Mulesing Wikipedia](http://de.wikipedia.org/wiki/Mulesing)
+- [5]    [Wikipedia Wolle](http://de.wikipedia.org/wiki/Wolle)
 
 ## Quellen
 

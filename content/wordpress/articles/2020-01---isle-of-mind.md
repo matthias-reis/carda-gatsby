@@ -71,7 +71,7 @@ entschieden. Ich finde das Motiv einfach wunderschön und die Farben passen
 perfekt zu mir. Schon ein paar Tage nach der Bestellung kam ein liebevoll
 verpacktes Paket bei mir an. Platzsparend und ohne unnötige Umverpackung, dafür
 mit einer schön gestalteten Grußkarte und einem praktischen Transportbeutel. Da
-passen [meine geliebten Flip Flops](/2018/03/gumbies-vegane-strandsandalen/),
+passen [meine geliebten Flip-Flops](/2018/03/gumbies-vegane-strandsandalen/),
 die ich beim Yoga auch immer dabei habe auch noch mit rein.
 
 Das Handtuch selbst ist wunderbar weich und passt genau auf meine Yogamatte.

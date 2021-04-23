@@ -15,8 +15,8 @@ labels:
   - Bands
   - Dunk Festival
   - Dunk Records
-  - DUNK! Festival
-  - DUNK! Records
+  - DUNK!festival
+  - DUNK!records
   - English & German
   - Interviews
   - Magnus Lindberg

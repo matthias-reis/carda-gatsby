@@ -288,10 +288,10 @@ informieren.
 
 ## Fußnoten
 
-[1][luxuskost](https://www.luxus-kost.de/)
+[1] [Luxuskost](https://www.luxus-kost.de/)
 
-[2][foodsharing](https://foodsharing.de/)
+[2] [Foodsharing](https://foodsharing.de/)
 
-[3][20veggiehotels.com](https://www.veggie-hotels.com)
+[3] [20veggiehotels.com](https://www.veggie-hotels.com)
 
   

@@ -44,9 +44,9 @@ subTitle: Die Sache mit der Motivation
 **Was hat Euch damals motiviert, die Kippe an den Nagel zu hängen? - Fragmente
 aus Twitter-Mentions, Gesprächen und Nachrichten.**
 
-_An dieser Stelle möchte ich mich erst mal ganz herzlich bei allen bedanken, die
+An dieser Stelle möchte ich mich erst mal ganz herzlich bei allen bedanken, die
 mich bei meinem [Selbstversuch](/2013/09/09/mein-pakt-mit-dem-schweinehund/)
-unterstützen und mir mit Rat und Tat zur Seite stehen! Ihr seid großartig!_
+unterstützen und mir mit Rat und Tat zur Seite stehen! Ihr seid großartig!
 
 <RemoteImage alt={`rauchen`} size="medium"
 title={`Das interessiert mich ab jetzt nicht mehr`}
@@ -150,7 +150,7 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_gefc3a4llt-
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgAB4DASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBAIFB//EACsQAAEDAgQEBQUAAAAAAAAAAAECAwQAEQUGEiETMVFhFBUyQZEigqGxwv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARFB/9oADAMBAAIRAxEAPwDt+UsWlY1Kxtqfgs+GYcpbLdy82HUBaglaS5pSQQm/0k7Edaao0RpTmtTMhpSDdPEfKgb9goj5pIyJ4bzvMyk5kn4k6ZiipotaExbuOANoG+w5fbf3p3iFDsjU3JkqtuULBCfykUhVvgo6n5rByK05bUVbdFEfqrG9G9NCXlbEkzMxZmZj4nhi3I0lKFR2TrVHTY7LACbKJCjzPv0ptj8Y3LrrTiT6eGgp/o1Rg5ewqDMmSosNCX5igt9RJVrUL2NiSB6jy61s2mkNI0tIShPOyRYUm9LnE27UW7VNFB//2Q=="
 />
 
-**Der Herzmann:** Das schaffst du ganz bestimmt!
+**Matze:** Das schaffst du ganz bestimmt!
 
 **Puzzle:** Nicht reden. - Machen!
 

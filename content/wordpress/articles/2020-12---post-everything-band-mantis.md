@@ -17,8 +17,8 @@ labels:
   - Drone
   - Dunk Festival
   - Dunk Records
-  - DUNK! Festival
-  - DUNK! Records
+  - DUNK!festival
+  - DUNK!records
   - English & German
   - Heisa
   - Interviews

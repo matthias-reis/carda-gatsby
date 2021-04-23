@@ -11,6 +11,7 @@ excerpt: Hefe ist vegan – oder doch nicht? Hier findet Ihr alle Fakten und
 focusKeyword: Hefe ist vegan
 labels:
   - backen
+  - Brot
   - Brot backen
   - Einzeller
   - Ernährung & Gesundheit

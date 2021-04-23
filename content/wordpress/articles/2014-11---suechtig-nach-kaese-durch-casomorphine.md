@@ -24,7 +24,6 @@ labels:
   - vegan
   - vegane Ernährung
   - vegane Rezepte
-  - Vegane Rezepte
 type: Artikel
 typeName: Artikel
 date: 2014-11-21T16:40:31.000Z
@@ -177,6 +176,6 @@ besser nicht" von Maria Rollinger **Quellen:**
 
 ## Fußnote
 
-- [1][peptide wikipedia](https://de.wikipedia.org/wiki/Peptid)
+- [1] [Peptide Wikipedia](https://de.wikipedia.org/wiki/Peptid)
 
   

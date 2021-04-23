@@ -182,10 +182,14 @@ folgenden Ergebnissen:
 
 ### Fußnoten/Quellen:
 
-- [1][one bite at a time](http://www.beuc.eu/publications/beuc-x-2020-042_consumers_and_the_transition_to_sustainable_food.pdf)
-- [2][hart aber fair](https://www.spiegel.de/kultur/tv/hart-aber-fair-tv-kritik-zu-corona-in-der-fleischfabrik-a-a7b6125a-99c0-45a0-a02e-a4847cfd9376)
-- [3][klimatarier-rechner institut für energie- und umweltforschung heidelberg](https://www.klimatarier.com/de/CO2_Rechner)
-- [4][plantbased news](https://www.plantbasednews.org/news/europeans-open-changing-eating-habits-for-planet)
+- [1]
+  [One Bite At A Time](http://www.beuc.eu/publications/beuc-x-2020-042_consumers_and_the_transition_to_sustainable_food.pdf)
+- [2]
+  [Hart aber fair](https://www.spiegel.de/kultur/tv/hart-aber-fair-tv-kritik-zu-corona-in-der-fleischfabrik-a-a7b6125a-99c0-45a0-a02e-a4847cfd9376)
+- [3]
+  [Klimatarier-Rechner Institut für Energie- und Umweltforschung Heidelberg](https://www.klimatarier.com/de/CO2_Rechner)
+- [4]
+  [Plantbased News](https://www.plantbasednews.org/news/europeans-open-changing-eating-habits-for-planet)
 
 Bild: [Alexas Fotos](https://pixabay.com/de/users/alexas_fotos-686414/), pixabay
 

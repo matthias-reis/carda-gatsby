@@ -96,6 +96,7 @@ praktischen Rucksack schneidert,
 
 <Gallery name="flickr/annehandytasche2015" />
 
-[1][die nähanleitung von mary's kitchen findet ihr hier](http://marys.kitchen/anleitung-handyschlafsack/)
+[1]
+[Die Nähanleitung von Mary's Kitchen findet Ihr hier](http://marys.kitchen/anleitung-handyschlafsack/)
 
   

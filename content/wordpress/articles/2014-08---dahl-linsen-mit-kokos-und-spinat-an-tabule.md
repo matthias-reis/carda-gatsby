@@ -33,7 +33,7 @@ labels:
   - Veganer
   - Veganes Essen
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2014-08-31T11:58:18.000Z
 status: publish
 isWerbung: false

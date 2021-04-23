@@ -147,7 +147,7 @@ _Dieser Text ist Oskar und Chili gewidmet. Eigentlich sollte es heißen "Ode an
 DIE Kater", denn ich liebe Euch beide, meine wolligen Mitbewohner._
 
 <RemoteImage
-alt={`&quot;I'm like cat here, a no-name slob. We belong to nobody, and nobody belongs to us. We don't even belong to each other.&quot;`}
+alt={` &quot;I'm like cat here, a no-name slob. We belong to nobody, and nobody belongs to us. We don't even belong to each other.&quot;`}
 size="full"
 title={`"I'm like cat here, a no-name slob. We belong to nobody, and nobody belongs to us. We don't even belong to each other."`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_cat2-kc3b6rnung-und-aufhellung-horzgerahmt__m.jpg"

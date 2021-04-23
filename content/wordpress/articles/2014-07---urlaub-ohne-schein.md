@@ -70,10 +70,10 @@ schon mal erzählt habe,
 vervollständigen. Den Entwurf haben wir bereits abgegeben, ich bin schon
 unglaublich gespannt, was er daraus machen wird.
 
-Hatte ich Euch eigentlich schon von dem tollen Geburtstagsgeschenk erzählt,
-welches mir der Herzmann machte? Drei Tickets für das große Soundgarden und
-Black Sabbath Open Air auf dem Münchner Königsplatz am Freitag, dem 13. Juni.
-Ich kann nur so viel sagen: Es war großartig.
+Hatte ich Euch eigentlich schon von dem tollen Geburtstagsgeschenk erzählt, das
+mir Matze gemacht hat? Drei Tickets für das große Soundgarden und Black Sabbath
+Open Air auf dem Münchner Königsplatz am Freitag, dem 13. Juni. Ich kann nur so
+viel sagen: Es war großartig.
 
 <RemoteImage alt={`Neue Bilder im Flickr`} size="medium" title={``}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_14207822166_09fc83462f_z__m.jpg"
@@ -87,13 +87,13 @@ Leider waren Soundgarden etwas leise gedreht und sie spielten für meinen
 Geschmack etwas zu kurz, aber für dieses Event waren sie eben nur als Vorband
 gebucht. Ozzy und seine Mannen rockten die Bühne was das Zeug hielt, das Wetter
 machte mit und somit genossen wir
-[Drei von der Bande](//2014/05/21/we-have-a-lotta-shit-for-you/) (Der Herzmann,
-mein Bruder und ich) an diesem Tag das Leben mal wieder in vollen Zügen.
+[Drei von der Bande](//2014/05/21/we-have-a-lotta-shit-for-you/) (Matze,
+Valentin und ich) an diesem Tag das Leben mal wieder in vollen Zügen.
 
 Heute Abend steht das nächste Konzert an,
 [Bob Dylan](//2012/08/28/bob-dylan-stellt-neuen-song-duquesne-whistle-vor/) gibt
 sich in München die Ehre, da dürfen wir natürlich nicht fehlen. Ich kann Euch
-gar nicht sagen, wie aufgeregt ich bin! :-o
+gar nicht sagen, wie aufgeregt ich bin!
 
 ## Urlaub zu Hause
 

@@ -16,7 +16,7 @@ labels:
   - Bielefeld
   - Fair Fashion & Beauty
   - Fitness
-  - Flip Flops
+  - Flip-Flops
   - Gumbies
   - Hamburg
   - Hausschuhe
@@ -55,7 +55,7 @@ Werbung\*
 
 **Wie lange habe ich sie gesucht: Meine Hausschuhe. Fündig geworden bin ich vor
 ein paar Wochen beim Hersteller veganer Strandsandalen Gumbies. Schlappen und
-Flip Flops gehen nämlich auch im Winter! Und wie!**
+Flip-Flops gehen nämlich auch im Winter! Und wie!**
 
 Eingeweiht habe ich meine neuen Gumbies bei einer kleinen Auszeit am Strand
 (siehe Bilder). Inzwischen sind sie zu winterlichen Begleitern in der Wohnung
@@ -67,7 +67,7 @@ vier Wände.
 Vorgestellt habe ich Euch
 [das australische Schuhwerk](/2018/03/gumbies-vegane-strandsandalen/) hier im
 Blog ja schon vor einiger Zeit. Inzwischen begleiten sie mich überallhin. Ich
-liebe meine türkisen Flip Flops. Sie nehmen immer die Farbe des Sandes an, durch
+liebe meine türkisen Flip-Flops. Sie nehmen immer die Farbe des Sandes an, durch
 den ich gerade laufe. Sie nehmen nicht viel Platz im Rucksack weg und sorgen
 überall für neugierige Blicke. Beim Yoga sind sie genauso dabei, wie beim
 Wandern, Schnorcheln und auf [Festivals](/category/rock-n-roll/festivals/).
@@ -75,12 +75,12 @@ Wandern, Schnorcheln und auf [Festivals](/category/rock-n-roll/festivals/).
 ## Das neue Gumbies Modell
 
 Dieses Jahr erreichte mich dann eine spannende Nachricht aus der Bielefelder
-Gumbies Zentrale: Ein neues Modell war geboren. Neben den coolen Flip Flops gibt
+Gumbies Zentrale: Ein neues Modell war geboren. Neben den coolen Flip-Flops gibt
 es jetzt auch sogenannte "Slides". Nach dem Adiletten-Revival diesen Sommer
 kommen die gerade richtig. Nicht, dass ich Adiletten mag. Mit schönen Schlappen
 ist das schon was anderes und dazu zählen die Gumbies Slides ja wohl eindeutig.
 
-Genau wie die Flip Flops, gibt es auch die Slides in diversen Farben und
+Genau wie die Flip-Flops, gibt es auch die Slides in diversen Farben und
 Designs. Für jeden Geschmack ist was dabei. Die Sohlen aus recyceltem, mit Sisal
 verschmolzenem Kautschuk sind sehr robust und lassen nicht mal Scherben durch.
 Ungelogen, ich habe das am Strand ausprobiert. Durch das starke Profil sind sie

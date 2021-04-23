@@ -17,9 +17,11 @@ labels:
   - Ernährung
   - Ernährung & Gesundheit
   - Hof Windkind
+  - Öl
   - Omega-3
   - Omega-3 vegan
   - Omega-3-Fettsäuren
+  - Speiseöl
   - vegane Ernährung
   - Walnuss
   - Walnüsse

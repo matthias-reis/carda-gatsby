@@ -23,7 +23,7 @@ labels:
   - Vegane Rezepte
   - Vollkornspaghetti
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2017-01-26T12:29:28.000Z
 status: publish
 isWerbung: false

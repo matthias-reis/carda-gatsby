@@ -23,8 +23,8 @@ isWerbung: false
 isAffiliate: false
 errors: {}
 thumbnailId: "29202"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_ASILIA_MARY_JANE_Green_1_1024x1024@2x__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_ASILIA_MARY_JANE_Green_1_1024x1024@2x__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_ASILIA_MARY_JANE_Green_1_1024x1024%402x__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_ASILIA_MARY_JANE_Green_1_1024x1024%402x__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgBBgcD/8QAJBAAAQMDBAIDAQAAAAAAAAAAAQIDEQAEBQYSITEHQSJRUmH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAwAC/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECIgMREjH/2gAMAwEAAhEDEQA/AGprEvJ2qNTW2rLxnB3gaaxgbW0yjgOrKN6g7+gQQI9T981tppXtVZi6TndQ3CEJDrl08AFqTylK9sEEgiAkc/3rmpZuuaenUXFOxbvHOrdQDW9lb5++U6xlEuJdZcMpaf7SG/yBtUmOuvfNbnSuahyV7bZzIXSGQm5s8q86hW5MIS2+opSAPZMA00SFbkAkFJImD2KcXWrBJpupNUfO+NsNmM4ck65ds73A5cWzSkhp8iCZBBInaJgiYooqgHS68dYW61MvMPKuzvdD67MOAMLd4+RTEmSkEiYJHVXSiisB/9k=
 subTitle: Share Happiness
   
@@ -55,8 +55,8 @@ schenken, zu begeistern und Bewusstsein zu schaffen.
 
 <RemoteImage alt={`Bahatika Gründerin Sheila`} size="medium"
 title={`Modell Rocha. Bild: Bahatika`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_ROCHA_Sand_1_1024x1024@2x__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_ROCHA_Sand_1_1024x1024@2x__l.jpg"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_ROCHA_Sand_1_1024x1024%402x__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_ROCHA_Sand_1_1024x1024%402x__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBQYI/8QAKBAAAgEEAQIEBwAAAAAAAAAAAQIDAAQRIQUSQRMxUWEUcZGhscHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABkRAAMBAQEAAAAAAAAAAAAAAAABAhIhEf/aAAwDAQACEQMRAD8A6aA9qTdXdvaGP4mZYzIcLnv/AD3pN/eC0tnlWMyMoyEHesPNNPy808yTMQrlCGRkd8Y0CQMAZPbf3pXeeGszo3Fry3H3VvaTQXsDR3bdNuS/SZTvSg7PkT8t1LkAINZ7iuIiD208sccksDdccjqGaMkEEg9iQSNeuKvzJksPQ/qnLbXRNeCUfIGvOlSWNo83jPawPMNB2QFvrRRVEEgHA1SWfBfXcfiiigD/2Q=="
 />
 
@@ -144,8 +144,8 @@ schwierig und braucht leider immer einen Anstoß von Außen.
 
 <RemoteImage alt={`Bahatika Gründerin Sheila`} size="medium"
 title={`Modell Thibiti. Foto: Bahatika`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_THIBITI_Black_1_1024x1024@2x__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_THIBITI_Black_1_1024x1024@2x__l.jpg"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_THIBITI_Black_1_1024x1024%402x__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_THIBITI_Black_1_1024x1024%402x__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAcIBv/EACQQAAIBBAEEAwEBAAAAAAAAAAECAwAEBREGBxIhMRQiQVHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAHBEBAAMAAwEBAAAAAAAAAAAAAQACEQMhMQQS/9oADAMBAAIRAxEAPwCqaTnPOeZTHc5uLPGyzLDjRD32yRBhclwGI8jZJDBRo+/3dOOpT6hy3trzu7zty93FHbZUfSWdGaRUlBVURRoD6DXcT486oOdwAc7icR2sZXTfmeZv+Xw4/JTS3CXscsrpIoX45QA6AA8DZK6O/X99uKpT6Xm6k5rj8xbi4k+RkNOiXJjeJXZiVdGHa3hyToje9iqsrPnX8ou5N5TvSFZ/LcTxOSy0OQuYXFwrKzdjlVlK613j99UUU1qljLEMU8hi+J4rH5mbJQRSG4dmZQ7lliLb32D89n/K0FFFValTAkq+z//Z"
 />
 
@@ -167,7 +167,7 @@ und zu tragen.
 **Anne:** Noch mal zu einem angenehmeren Thema: Welche Schuhe trägst Du am
 liebsten?
 
-**Sheila:** Sneaker, Ballerinas und im Sommer FlipFlops. Insgesamt habe ich am
+**Sheila:** Sneaker, Ballerinas und im Sommer Flip-Flops. Insgesamt habe ich am
 liebsten flache Schuhe an.
 
 **Anne:** Wie viele Schuhe besitzt Du persönlich?

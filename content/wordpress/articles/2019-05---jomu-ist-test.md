@@ -26,7 +26,6 @@ labels:
   - Übersäuerung
   - vegan
   - vegane Ernährung
-  - Vegane Rezepte
   - Vitamine
 type: Artikel
 typeName: Produkttest

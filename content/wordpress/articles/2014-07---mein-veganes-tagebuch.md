@@ -93,11 +93,11 @@ etwas dagegen unternehmen.
 Ich begann zu Hause vegan zu kochen und nur außer Haus vegetarische Gerichte zu
 mir zu nehmen. Mein Mann Matze, schon immer Fleischesser, machte mit.
 
-Als der Herzmann dann vor ein paar Wochen entschied: „Ich probiere das jetzt
-aus. Ich möchte mich cholesterinfrei ernähren!“ war es entschieden: Wir werden
-ab jetzt vegan leben. Unser Stichtag war Samstag, der 14. Juni 2014. Matze hatte
-sich eine Regel überlegt, nach der er ein Mal in der Woche Fleisch essen darf,
-falls es keine andere Möglichkeit gibt.
+Als Matze dann vor ein paar Wochen entschied: „Ich probiere das jetzt aus. Ich
+möchte mich cholesterinfrei ernähren!“ war es entschieden: Wir werden ab jetzt
+vegan leben. Unser Stichtag war Samstag, der 14. Juni 2014. Matze hatte sich
+eine Regel überlegt, nach der er ein Mal in der Woche Fleisch essen darf, falls
+es keine andere Möglichkeit gibt.
 
 <RemoteImage alt={`My Vegan Diary`} size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/) My Vegan Diary`}

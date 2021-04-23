@@ -27,9 +27,9 @@ isWerbung: false
 isAffiliate: false
 errors: {}
 thumbnailId: "33072"
-remoteThumbnailImage: null
-remoteImage: null
-remoteLoadingImage: null
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_kaffee-rauwolf-coffee__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_kaffee-rauwolf-coffee__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcC/8QAKRAAAQMCBQQCAgMAAAAAAAAAAQIDBAURAAYSITETIjJBB2EUUTNCcf/EABUBAQEAAAAAAAAAAAAAAAAAAAQD/8QAHxEAAgICAgMBAAAAAAAAAAAAAQIAAxEhEjET0fFB/9oADAMBAAIRAxEAPwDitQIcqpPxJ8SLIgJ0rV1AglN9iSLhQ/rx94TKx8cQpcpCKa5Jo0tZcKocwdcICbdwWncBQNxe/vBToqImc3JNbSzW3W7vPvpZLe/T1cBJPiLW/fGNUgVZFTfdqLUtr8F1spUlT6nHAG99SkqA0JOlXluPXrAaWZyPFsYzH2KoB56kT4Tyk7lmTKVVJEV9esLQ4kFOkFOnfVaxOL6uqZqTr0SS2861HWFhSXhYXSbFPad7EjnC9RsyImZbzLV6YmZdpLTgSAkua1CyNHpVinf625xbUCvNZkpC5qoC4ytYSpT5/lKQQSLAcH1b2MFxlmscfsSNBUUzGaZSsySq5InRstVOe24Ox6YSwvxt3hKkgkXIvwf1h8o+Q69Pok1ypQW2Zy9QYZMkFDZV5KNtRP8AnH1gwYpXcRoADEm1IIyTHLLWT63SKPMbnVOmuyiGlR0pKWkdi1K0lWhPN+bH3id8a0OdQKYYdRfhuuFZUEpV1UqRa5JIFgQQrBgw+ihXXke/vuDtuZTxHXz1P//Z
 subTitle: Koffein und Umweltschutz – geht das?
   
 ---
@@ -59,7 +59,7 @@ diesem Luxusgut wichtig. Ich möchte schließlich kein Blut in meiner Tasse sehe
 Oder Pestizide trinken.
 
 Weltweit gibt es Siegel und Zertifizierungen, die für fair gehandelten und
-umweltverträglichen Kaffee stehen. Besonders hochwertige Sorgen sind damit
+umweltverträglichen Kaffee stehen. Besonders hochwertige Sorten sind damit
 ausgezeichnet. Bei der Kaffeesuche könnt Ihr Euch nach den folgenden
 Nachhaltigkeitssiegel richten:
 
@@ -160,7 +160,7 @@ Habt Ihr schon mal Kaffeealternativen probiert? Wenn Euch die langen
 Transportwege abschrecken und Ihr lieber mal was Regionales probieren würdet,
 kann ich das vollkommen verstehen. Was mir ziemlich gut schmeckt, ist zum
 Beispiel Lupinenkaffee. Er wird aus Lupinensamen hergestellt und schmeckt
-wirklich fein, obwohl natürlich kein Koffein einhalten ist. Wenn man sehr viel
+wirklich fein, obwohl natürlich kein Koffein enthalten ist. Wenn man sehr viel
 Kaffee trinkt, kann das ja zum Beispiel für Nachmittags eine schöne Alternative
 sein.
 

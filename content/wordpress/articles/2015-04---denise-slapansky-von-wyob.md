@@ -347,11 +347,13 @@ Erfolg für Wear Your Own Bommel, alles gute für die Zukunft!
 
 ### Fussnoten
 
-- [1][facebook-seite von wyob](https://www.facebook.com/pages/WYOB-save-lives-statement-kleidung/944915775541408?fref=nf)
-- [2][tierrechtsdemo augsburg bei vegan news](http://www.vegan-news.de/thomas-laschyk/)
-- [3][tierrechtsinitiative augsburg](http://www.tierrechte-augsburg.de)
-- [4][peace food rocks](https://www.facebook.com/events/351493638369110/)
-- [5][hof butenland](http://www.stiftung-fuer-tierschutz.de)
+- [1]
+  [Facebook-Seite von WYOB](https://www.facebook.com/pages/WYOB-save-lives-statement-kleidung/944915775541408?fref=nf)
+- [2]
+  [Tierrechtsdemo Augsburg bei Vegan News](http://www.vegan-news.de/thomas-laschyk/)
+- [3] [Tierrechtsinitiative Augsburg](http://www.tierrechte-augsburg.de)
+- [4] [Peace Food Rocks](https://www.facebook.com/events/351493638369110/)
+- [5] [Hof Butenland](http://www.stiftung-fuer-tierschutz.de)
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

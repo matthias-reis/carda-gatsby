@@ -34,7 +34,7 @@ labels:
   - Vegane Rezepte
   - Zuckerschoten
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2018-06-06T06:42:14.000Z
 status: publish
 isWerbung: false

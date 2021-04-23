@@ -30,7 +30,7 @@ labels:
   - vegane Rezepte
   - Vegane Rezepte
 type: Artikel
-typeName: Gastbeitrag von Matze
+typeName: Rezept
 date: 2018-12-17T21:08:54.000Z
 status: publish
 isWerbung: false

@@ -117,7 +117,8 @@ entscheidet. Am Tag der Liebe erwartet Euch also vielleicht eine schöne
 
 <div id="1">
 
-[1][homepage feuerwear](https://www.feuerwear.de/unsere-aktionen/valentins-edition)
+[1]
+[Homepage Feuerwear](https://www.feuerwear.de/unsere-aktionen/valentins-edition)
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos zur
 Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht

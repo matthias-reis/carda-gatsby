@@ -181,7 +181,7 @@ size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets) Honig weltweit - Schaubild: Projektarchiv Ökotrophologie Honigmarkt, siehe Quellen`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_bildschirmfoto-2014-10-16-um-09-26-02.png__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_bildschirmfoto-2014-10-16-um-09-26-02.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAVCAIAAACor3u9AAAACXBIWXMAAAsTAAALEwEAmpwYAAAESUlEQVQ4y51V/U8adxg3+x+WJVu2dMvMtKup3bqh3Va0yp1Y42jq9gO12k5XTToFealsttbUTmuzWjuHrTRYtwocSPGlajoXrbA6BXzj0OAL7XA6CyIIEqscd7CDU7QatPNJ7nJvz32+z+fzeb5PmC90eL1e346BYhgaiB2+Cdv+yINibtTrxRA8fxVBPR7/jW+v8RIAimKIZ205ev2Y1eZYL8UXfL45DNNWPTyqh2HE49kdIEiIG/NJjI6+lmrxfTm/Y3LCNB/8AMNeKsX4j21q0jhhMCAeZBcA4u94fmkvHM648lqh8Pa1zOyzrNdPiQ+k13xV3AQb5/dOERageNm5UpTxS3RRXXR5TWSFvEpw5YcLZSR2G5Xd8FFWXQS9VqEaD6xlI3lWqx4bM8Cw3mAYD2WIsGDRl3Jqzxy5yMvgg/c6Dv7Ww+NXFLKvfsxoTWKJqFwoLr/hffqdJ/oZQioixWl6Ojs79/SZyfS3KWQFhMk65YPxERm0hG8LaRW5ufyo+s5vBAIc4BNmMw6QWCBJ4kKknPpkrpRI2yLG7i66eP5mduKNvNSa/JM1vNTrtMsimuj+d9zKWIYC8AOIKSwoiSvdf1rQC88Gi5h+PtLX169SqqwLtlCofgDn8lxJ3dGy2+nFxWxudhmLVpUH1KZdl359SXg0XwqwxDgAwJHFppe+Sc6rEPcTvYKf7c45i2X+35kZp3OJ6LvNsQFgej7C5R8uEwOVzcBPjWB5fVpJZQ6vuCT5e4jMlPkBWIEKONDBM4K8W39sluGVKJo2w5kXIs8Xka810K42fVneklzNBzvohxgZJaTCVoApSmRJ8CJwAaKz6pg/bwDAGgPODwzDuhGdRq3u7OxS9/81oNUMDw2pVMqVVWQNYHnVcbmBXNaWWtF4oubHFPFJQBZLaSfFVp+gx/DagQIRJQCA6xyVebdKrg0CLNpdCwtWRyDsdrvNZrdZrYs2O35rsVg8AfusicyXZt5kfy5LBZtIcfIv4iEwQU4hP6DEgQUiMruRwAA50Aen7oxMWf4fRVhgGzE9+r3ujXceHKPgv5aCx2RAAkRJfEQ+fC67PKbwIc4SlQNFZwnTS1s221Q5aVIqlT2PH2vUGmVP94hOR7zaKjIR3VyWIOI9xfEkBRWQgwkQmNgW/+mNtLMkXnsKByLl1h/KEprMTsIta422ijgdi4v2RZfL5XQ4nEtLIfpgPaG7gMHf93beu/tufXak+ThVAcY3UgEyUxJ+WhiTWz88afbvFJh3T9v1+lYy1doiSaHe/TDiXtR+4YHIxvC36PRi9q/aJdfy9hHkGleNjvo9NDA0PDqq1+mGV1bdWzpugyJ8OAVhHEbjs/a2iSaFpe9P5MWL4LTYsjrEZevq6taqtb1PenExBgcGUdS708DBvF7U7d5OAT7bQtnGarUu4Me8xWw24zZ9pZGJjxUUQVDEjYP5L3YYud7d9fgP1kGKkaluecMAAAAASUVORK5CYII="
+loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAVCAIAAACor3u9AAAACXBIWXMAAAsTAAALEwEAmpwYAAAEYElEQVQ4jZWV61MbVRiHGf8HxxkdnerICLVMqVYDVRsoyW5CGUyn6IeUQisozFQgF9JEaSlTEErHUiqGlnRC0ZKwgTRcBKbiQNlYhBBu2cCES1qDIE1YEhIyFLLZzWqyGCgYaH+fzp5z3n3OeznnDSNDy+fz7bJKkiROEHhAu+wJ2znlxQkP7vMRGE4Q6xju9fo/dic9LwDHCcy7cRyjcQK1O6mxz0cG57fKNIsakXEjgmBe796AYEA8BNlgdva3VinvqqWd01OWxeAGgnjGFfNf9plp85TJhHmxPQDU3wmCKO5DwvMuvySW37ySnnlW8PIp5YHU6s8KmxHzBuZF5QcQgRCvutYK0n6MLqiNLquOLFdXyi5/e76UJmxnC+vfy6iN4NZotJOBs2waz+t1ExMmBDGaTJOhCiIs6PTFrJozRy5I0qTgnc6DP/dKpOViYcn7eW0sgYItguJy69/m3nponKNSRZm4LI/m5xcePbZY/rSE9IAqsi71cHxEGifhSzGnPDtbGlXX9YVMJhaWfMBrYQkUDH4DSwTRsuoSRSrKbFsy9ggRSZIXzl3PZFzLSa7OPVktSb7KuaTgKO5+LaqIzdMAfoCSKYBYItX+07I+ZD7oxOyTsf7+AS2sRZfsoah+gGt1oaj2aOnN1MJCoSizVMCpzAFqUq6qPr8oP5qrAgRKBl8J5DfGpha/Ss8pVw5Qd4UkSYdrwWZb/HtuzuVaoe7dVm0CLE/GRNLDpUqgogX4vgksq0spqsiSFBYlfgPReY1+gCDgQT508Iws58ZvW9PwXCGatSLp5yPPFdCv1HNKmj8ta02skoKd3EN5aUU0cRvAUzAEDQy+MlGkis6o5f2wCUAGTVpYiyCIYcwwqNN1dXXrBv4Y0g+OjoxotfDaOrYBWF13Xqqnl7YnlzedqP4uSXkSaIxldtBiq05wYyQdAF/BDABYIigq/XalWh8ELDvcS0uoMyCHw2G3O+woumx3OJ1Om83mDZTPRpKlqvTrwo8bk8FmWpz6k3gITFAz6feYcSBfQRc2UQwwH3rn1K2xGduLhYgIPCOW+7/WvvLGvWNMCExQgccagQSIybhPP/xVZlmM+BeAp2DnQ9EZ8tTiVsqMyiE8bYFhuPfBg0HdINzbM2YwUEvbk0ypRySQRbylOc7SsAE1mACBjPb4D6+lnKVJOpLyIVp23aEMucXqoqqFMnGtYy7n8rJj2e12u5xO18pKiHvwn0EPP0+67/WcN/fd+OhIy3G2BoxvYgN0XkP4aXlMdt3otNX/UhB7NIn/A1AvckAzba0NSezb70bcidovPxDZFP4al1so/Em/4l7d2YLck9rxcX8NDY2Mjo8bDYbRtXXPthu3GSICx4MYp9n8uKN9qllj6/8de/qUmtyZWMxt7+7u0ev0fQ/7YBgeHhrG8e3+PdNwCJ8P93h2hgDDiVBlg6LoEoqiizar1Wq3O0KHaIt8BIFjGI55cI/HP9il5e7VtP8F/APWQYqRJFGklQAAAABJRU5ErkJggg=="
 />
 
 Hauptimportländer sind hierzulande Mexico und Argentinien. 2012 wurden u. a.
@@ -382,13 +382,16 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 
 ## Fußnoten
 
-- [1][peta - 8 gründe, warum honig nicht vegan ist](http://www.peta.de/honig#.VDzaLr6USmA)
-- [2][proplanta.de](http://www.proplanta.de/Agrar-News/Honigproduktion-2013)
-- [3][bee-info.de](http://www.bee-info.de/imker-wissen/massnahmen-gegen-schwaermen.html)
-- [4][projektarchiv ökotrophologie honigmarkt](http://www-proj.loel.hs-anhalt.de/projektarchiv/oekotrophologie/honigmarkt/Interdisziplinaeres_Projekt_Honig.pdf)
-- [5][bienentakt.de](http://www.bienentakt.de/smoker-und-pfeife)
-- [6][wikipedia bestäubung](http://de.wikipedia.org/wiki/Bestäubung)
-- [7][wikipedia varroamilbe](http://de.wikipedia.org/wiki/Varroamilbe)
+- [1]
+  [PETA - 8 Gründe, warum Honig nicht vegan ist](http://www.peta.de/honig#.VDzaLr6USmA)
+- [2] [proplanta.de](http://www.proplanta.de/Agrar-News/Honigproduktion-2013)
+- [3]
+  [bee-info.de](http://www.bee-info.de/imker-wissen/massnahmen-gegen-schwaermen.html)
+- [4]
+  [Projektarchiv Ökotrophologie Honigmarkt](http://www-proj.loel.hs-anhalt.de/projektarchiv/oekotrophologie/honigmarkt/Interdisziplinaeres_Projekt_Honig.pdf)
+- [5] [bienentakt.de](http://www.bienentakt.de/smoker-und-pfeife)
+- [6] [Wikipedia Bestäubung](http://de.wikipedia.org/wiki/Bestäubung)
+- [7] [Wikipedia Varroamilbe](http://de.wikipedia.org/wiki/Varroamilbe)
 
 ## Weitere Quellen
 

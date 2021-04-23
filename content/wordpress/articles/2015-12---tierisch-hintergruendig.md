@@ -183,10 +183,14 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_1
 
 ### Fußnoten
 
-- [1][vegane mützen mit statement - vegane häkelmützen von denise slapansky](/2015/04/vegane-haekelmuetzen-mit-statement/)
-- [2][ein meer aus farben für die tiere - bilder von denise slapansky](/2015/08/ein-meer-aus-farben-fuer-die-tiere/)
-- [3][qualvoll erstickt im mutterleib - thema trächtigkeitsschlachtung](/2014/09/kaelbchen-ersticken-qualvoll-im-mutterleib/)
-- [4][facebook-seite von denise](https://www.facebook.com/WYOB-save-lives-statement-kleidung-944915775541408/)
+- [1]
+  [Vegane Mützen mit Statement - Vegane Häkelmützen von Denise Slapansky](/2015/04/vegane-haekelmuetzen-mit-statement/)
+- [2]
+  [Ein Meer aus Farben für die Tiere - Bilder von Denise Slapansky](/2015/08/ein-meer-aus-farben-fuer-die-tiere/)
+- [3] 
+  [Qualvoll erstickt im Mutterleib - Thema Trächtigkeitsschlachtung](/2014/09/kaelbchen-ersticken-qualvoll-im-mutterleib/)
+- [4]
+  [Facebook-Seite von Denise](https://www.facebook.com/WYOB-save-lives-statement-kleidung-944915775541408/)
 
 Alles über Wolle und warum sie nicht vegan ist,
 [erfahrt Ihr hier](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/).

@@ -27,8 +27,8 @@ labels:
   - DUMBSAINT
   - Dunk Festival
   - Dunk Records
-  - DUNK! Festival
-  - DUNK! Records
+  - DUNK!festival
+  - DUNK!records
   - Festivals
   - LA CIENCIA SIMPLE
   - LOST IN KIEV

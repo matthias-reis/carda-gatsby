@@ -111,7 +111,8 @@ weich und gepolstert. :-)
 
 Viel Spaß beim Nähen!
 
-[1][hier findet ihr die nähanleitung von dot's designs](http://www.dots-designs.de/kosmetiktasche-naehen/)
+[1]
+[Hier findet Ihr die Nähanleitung von Dot's Designs](http://www.dots-designs.de/kosmetiktasche-naehen/)
 
 Wie Ihr aus einem alten T-Shirt eine geniale Umhängetasche nähen könnt,
 [erfahrt Ihr hier](/2015/09/diy-upcycling-nerdbag/).

@@ -20,6 +20,7 @@ labels:
   - Tierhaltung
   - Tierrechte
   - Tierschutz
+  - vegan celebrities
   - vegane Dokumentation
   - Zoonosen
 type: Artikel

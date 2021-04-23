@@ -42,7 +42,7 @@ labels:
   - veganer Kuchen
   - veganes Backen
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2014-10-20T16:50:53.000Z
 status: publish
 isWerbung: false
@@ -52,7 +52,7 @@ thumbnailId: "9119"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_10_veganer-bananengugelhupf-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_10_veganer-bananengugelhupf-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAKxAAAQMCBQIFBQEAAAAAAAAAAQIDBAURABIhMUEGEyJRYXGBBxQjcpEy/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwYAAQIE/8QAHhEAAgEFAQEBAAAAAAAAAAAAAQIAAwQREiFBIlH/2gAMAwEAAhEDEQA/AGULo2ZTG0OVSC40ybfk8K2wf2BNj74WdU1mBQbhqO2lAOTuKTmCj6DQW0OvONb+otcZp3Sj8FjK7Vaij7eJH5JO6yOEjcnGJu1BqRGUmYhtp7IoFp4Xs6lWqVDg8C/xhaubUK41Of0Rns6xqqdhg+QiVNiowfvUtNOxwrK4EtFC0W1NrbnUYmidPqr8vs01sOMBIcekG2VpJ2/ZR8v6RhJXK8h9FmADEdPhynxMK8r87f5xc/pNUHun6W+xXUdhqavvNur3QeEr+La8YlC3+tn4Jd1VwuE6fYh6VkvipPzZb7sya5YqffVmX7DyHoMWyfHhVQh2XDQXyAO8hRQsjyJG498GDHFVdhU2B7CqoKgYiqPSaZTVIdZhhTg1SpayopPpfb4xwVyUp1q+UJCtMo2/mDBgtNi5yxzMsAo4J//Z
-subTitle: Freestyle-Backen mit Anne
+subTitle: Kuchen für alle
   
 ---
 

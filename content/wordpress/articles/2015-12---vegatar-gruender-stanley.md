@@ -401,7 +401,7 @@ geschaffen wird. "Natureletics" wird Anfang 2016 veröffentlicht.
 
 ## Fußnote
 
-[1][homepage und onlineshop vegatar](https://www.vegatar.com/)
+[1] [Homepage und Onlineshop Vegatar](https://www.vegatar.com/)
 
 Bilder: Vegatar
 

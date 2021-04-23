@@ -186,7 +186,7 @@ Hervorragend! Die Suppe ist vollmundig und herzhaft und kommt dabei komplett
 ohne künstliche Geschmacksverstärker aus. Ich musste nicht nachwürzen und die
 Portion passt perfekt für die Mittagspause.
 
-<RemoteImage alt={`Kürbis Mango Suppe`} size="medium" title={``}
+<RemoteImage alt={`Kürbis Mango Suppe `} size="medium" title={``}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_Fooodz-Unboxing-23__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_Fooodz-Unboxing-23__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAJhAAAgEDBAICAgMAAAAAAAAAAQIDAAQRBQYSITFBUWETgRVTYv/EABcBAAMBAAAAAAAAAAAAAAAAAAEEBQb/xAAhEQACAgEDBQEAAAAAAAAAAAABAgARAwQhcRIiMWGhQf/aAAwDAQACEQMRAD8AyNnZNIe0Woe7NLe60pYw6QZlXtm4hv8AJP79+8Uy9H055o1KBIYgBydkDMzEA4HoYyO6sdQ0Gxu7Ro72JLgeAskY+fIYdg5ArPJqMKZel8gDDnbk1Qlpw7J2oSDx8HkzmF9NvbaaRIpGhGf7lQn46Bopibl2rHYaq8X5ooouIMQjTBKd45ffkfqiqLahgaari64ARanaMDRd26dbT/xl9KLSZFUo8ueEq48Z9HrHdW99uPSLOAy3GqWrIB0Fk5k/QVfdLjcGhR6rErQOsc6DAPA4YfBrNQ7U1GJmLPxDHtixOB9e6lZNDhyhgWI6jZA/T72v7GkyuGFAbePU1VzuFtduZZ4YJI4Yz+KNWHfEez9nJNFVVvax2MCwxyPnyzHyxopgizcK0BU//9k="

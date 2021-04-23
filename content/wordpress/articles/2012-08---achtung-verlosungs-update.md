@@ -66,8 +66,8 @@ meines Vertrauens zur Verfügung gestellt. Es handelt sich dabei um wirklich
 heiße, ausgewählte Teile. Das komplette [Gewinnspiel](//?s=verlosung) findet Ihr
 [&gt;HIER UNTER DIESEM LINK&lt;](//?s=verlosung).
 
-<RemoteImage alt={``} size="full"
-title={`Offizelles Burg Herzberg Festival T-Shirt zu gewinnen!`}
+<RemoteImage alt={``} size="full" title={`Offizelles Burg Herzberg Festival
+T-Shirt zu gewinnen!`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_mysticrot__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_mysticrot__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBgMEB//EACYQAAICAQQCAgEFAAAAAAAAAAECAxEEAAUSITFBE3EiUWGx0fD/xAAXAQEBAQEAAAAAAAAAAAAAAAAFAwIE/8QAHhEAAQQCAwEAAAAAAAAAAAAAAQACAxEhMQQFQRL/2gAMAwEAAhEDEQA/AOZ4mww7TlDFXdEnmnIJjWJikhHa8j5Av9vrUfHuOEssE+LjQxrAs+PJBGVV1u2Wibu2N/Wt8DC2/HxsuWWHJzchlaOhSd3+RPkgHqvZ8/ppnuUs+Vs6RZkCoVRlMou2RiOqPQr171xvlIOdJ7h9RLyWfcdZ1lVPPikwshvhmKq5PJDIBxaz4v0RWjT94IpSY8jg7xGrPGzYHfY/1aNaD0c5hBorDvM8WXtG4yylZXThxHk8uYBN+qsdA+NEW6fNFGZZBJ8bowRzYZbFqR9gaR5268sGbFijUwonN2JNjk/89cv70pj3F4zEZUISQnix8NxIvU3ROdopnru0g4kTmSNJJGK837eFbt6mMm5ymJiqra8ivmmbr140aVZjQ5SxySSJHyLMpZj+QJ9V60aoMCkM42bX/9k="
@@ -90,7 +90,7 @@ des Gewinnspiels:**
 
 - Sendet **bis zum 30. September 2012** eine E-Mail mit dem Foto Eures
   Lieblings-T-Shirts unter dem **Betreff 'T-Shirt-Idee'** an
-  **info@cardamonchai.com** . Natürlich sind auch Sweater oder Blusen erlaubt.
+  __info@cardamonchai.com__ . Natürlich sind auch Sweater oder Blusen erlaubt.
 - Die Gewinner werden von einer neutralen Person gezogen und per E-Mail über
   ihren Gewinn benachrichtigt.
 - Die Gewinne werden per Post versendet.

@@ -188,8 +188,8 @@ Geburt des Kälbchens und dem sogenannten Trockenstellen (ca. 305 Tage) in
 EU-Ländern im Durchschnitt rund 6.700 kg, in den USA bis zu 9.750 kg pro Jahr
 (Wisconsin, Idaho).
 
-<RemoteImage alt={``} size="medium"
-title={`Natürliches Euter einer 5-Jährigen Kuh (Auf einem Gnadenhof)`}
+<RemoteImage alt={``} size="medium" title={`Natürliches Euter einer 5-Jährigen
+Kuh (Auf einem Gnadenhof)`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_5-jc3a4hrige-kuh-natc3bcrliches-euter__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_5-jc3a4hrige-kuh-natc3bcrliches-euter__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAcDAQIEBQb/xAAnEAACAQMCBQUBAQAAAAAAAAABAgMABBEFBhIhMUFREyJhcYEHMv/EABYBAQEBAAAAAAAAAAAAAAAAAAUDBP/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMREkEEMf/aAAwDAQACEQMRAD8ATm5NRF3vjVL23dJYbidnaWPJVycZYZ54JyedbGzMcaSKzoDIBxJjn9gVNpmgBQqN7ZH7HoTWdqG2bw2EjelNwQsBlR7seM/Gc/VB2MrnEUqGogkNrNArIyGQDJTuPyrJbWOOAs+ACM8/FS7e0oxte3Ey8bxgBiUIJLc+vf8Ayare2k0w4pgVXqE8Co6an7LMY+f57s601dkurpB6UahiOHqT2z+UzZ9tafNEsLQRpChyoUYOfJNFFKUeetkyRDHsYNgGctZbP0vVdKln02zFrC87GINz9VVyof4B64pE7ugNhPOCQVBIBoorLdWqqjDs0I5LMDyf/9k="

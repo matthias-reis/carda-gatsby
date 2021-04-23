@@ -31,7 +31,7 @@ subTitle: 5 Tipps für den Alltag
   
 ---
 
-_Affiliate Link\*_
+_Werbung\*_
 
 **Das Brot kommt in eine Tüte mit Sichtfenster aus Plastik, die Tomaten in einen
 Plastikbeutel und der Sojajoghurt ist in einem Plastikbecher - einkaufen kann
@@ -93,10 +93,9 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC20
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgP/xAArEAACAQMEAQIEBwAAAAAAAAABAgMEBREAEiExBhMiFTJBUSRCUnGBgpH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFAwQG/8QAIREAAgEDBAMBAAAAAAAAAAAAAQIDAAQRBRIhMRNBgfD/2gAMAwEAAhEDEQA/AF3jniFPa4mlnrGAqGRUjlQABhnG5hwM5I508vNrntEEW1JqSSp3+9Yy4G1RhVK8DP6j1pdUzVxuYpqUVMtDSoEdUn2bZGAbk/mwDxp741cKqC51gnuXwylfYlPDOFnSbC+4nP0z9O+/poGfUFDlGPPylLKJIWWVl3AevwNRtOZ7NVCupy01O5AqoGBcSoTz/b7HVB5JZIKeGVJWG3Zvjidcv3lTj/B/B08M9u9Oeue2QGttiLNsgYinlVpcB9vO1wTnBzwOMDrhe6mG7Ur1sSUtUHBwVBSRT9jzzqQv44goZu+jiktVmjvWDxJjHfXyoKyeRu2Gp6tYJ5VT1oZdwV2RAu9WUEchQSDjHPY1V2i4JeGjiqJjGlNIr/hxjezA497rjGAScA9jrOjRpCexhD+bHNc7BdSEbPVav/lBpLbJT2swR10sy7vTmWoWONDnaxCquWPBAycZ5HGofyC/QvAwoaSOinPzSxzMR3n5cAH9zk6NGtC28ZUBhmoPcSbjg4r/2Q=="
 />
 
-Für solche Fälle nutze ich
-[die unglaublich praktischen Obst- und Gemüsenetze von samebutgreen](https://t.adcell.com/p/click?promoId=224459&slotId=80259&param0=https%3A%2F%2Fsamebutgreen.com%2Fcollections%2Fshop-samebutgreen%2Fproducts%2Fobst-und-gemusenetze).
-Sie gehören zur Grundausstattung unserer Einkaufsrucksäcke. Es gibt sie im
-praktischen Set aus fünf verschiedenen Größen.
+Für solche Fälle nutze ich die unglaublich praktischen Obst- und Gemüsenetze von
+samebutgreen. Sie gehören zur Grundausstattung unserer Einkaufsrucksäcke. Es
+gibt sie im praktischen Set aus fünf verschiedenen Größen.
 
 Was klasse ist: Die Dinger sind so leicht, dass sie beim Obst Wiegen an der
 Kasse nicht ins Gewicht fallen. In der Tasche nehmen sie auch keinen Platz weg.
@@ -162,8 +161,9 @@ runterbringen. Hat doch auch was, oder?
 
 [Warum Mehrweg besser ist, als PET](/2018/07/glas-statt-plastik/)
 
-_\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
-Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+_\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mit kostenlos zur
+Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht
+beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
+meiner [Transparenz-Seite](/werbung/). _
 
   

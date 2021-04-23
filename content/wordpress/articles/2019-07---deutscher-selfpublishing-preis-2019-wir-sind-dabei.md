@@ -106,7 +106,8 @@ Selfpublishing Preises:
 
 ### Fußnoten
 
-- [1][vlb-tix](https://www.vlbtix.de/user/search/Title.aspx?pr=9783748126522)
-- [2][finalist*innen titelgrafik](https://www.bod.de/fingerprint/aktuelles/besondere-neuerscheinungen-im-juli-auf-vlb-tix/)
+- [1] [VLB-TIX](https://www.vlbtix.de/user/search/Title.aspx?pr=9783748126522)
+- [2]
+  [Finalist\*innen Titelgrafik](https://www.bod.de/fingerprint/aktuelles/besondere-neuerscheinungen-im-juli-auf-vlb-tix/)
 
   

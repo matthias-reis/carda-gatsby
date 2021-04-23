@@ -16,6 +16,7 @@ labels:
   - Dörrautomat
   - dörren
   - Dörrkirschen
+  - Ernährung & Gesundheit
   - Gemüse
   - gesundes Essen
   - getrocknete Chilis
@@ -28,7 +29,6 @@ labels:
   - Rosinen selber machen
   - Trockenobst
   - vegan
-  - Vegane Rezepte
 type: Artikel
 typeName: Artikel
 date: 2017-08-15T14:44:30.000Z

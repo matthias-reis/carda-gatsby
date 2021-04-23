@@ -183,13 +183,18 @@ die verschlossen wird, sind sie männlich, werden sie vergast oder geschreddert.
 
 **Fußnoten / Quellen:**
 
-- [1][pressemitteilung der albert schweitzer stiftung vom 13.06.2019](https://albert-schweitzer-stiftung.de/aktuell/urteil-zum-kuekentoeten-erfolg-fuer-den-tierschutz)
-- [2][pressemitteilung vom bundesverwaltungsgericht zum urteil bverwg 3 c 28.16 und 3 c 29.6 am 13.06.2019](https://www.bverwg.de/pm/2019/47)
-- [3][wdr](https://www1.wdr.de/nachrichten/rheinland/nutztierhaltung-nrw-100.html)
-- [4][norma](https://www.presseportal.de/pm/62097/4363476 target=)
-- [5][albert schweitzer stifung](https://albert-schweitzer-stiftung.de/aktuell/urteil-zum-kuekentoeten-erfolg-fuer-den-tierschutz)
-- [6][peta](https://www.peta.de/eier)
-- [7][foodwatch](https://www.foodwatch.org/de/newsletter/2019/das-ist-der-blanke-hohn/?L=0)
+- [1]
+  [Pressemitteilung der Albert Schweitzer Stiftung vom 13.06.2019](https://albert-schweitzer-stiftung.de/aktuell/urteil-zum-kuekentoeten-erfolg-fuer-den-tierschutz)
+- [2]
+  [Pressemitteilung vom Bundesverwaltungsgericht zum Urteil BVerwG 3 C 28.16 und 3 C 29.6 am 13.06.2019](https://www.bverwg.de/pm/2019/47)
+- [3]
+  [WDR](https://www1.wdr.de/nachrichten/rheinland/nutztierhaltung-nrw-100.html)
+- [4] [Norma](https://www.presseportal.de/pm/62097/4363476 target=)
+- [5]
+  [Albert Schweitzer Stifung](https://albert-schweitzer-stiftung.de/aktuell/urteil-zum-kuekentoeten-erfolg-fuer-den-tierschutz)
+- [6] [PETA](https://www.peta.de/eier)
+- [7]
+  [Foodwatch](https://www.foodwatch.org/de/newsletter/2019/das-ist-der-blanke-hohn/?L=0)
 
 **Fotos:** [Timo Stammberger](https://www.timostammberger.com/) /
 [Albert Schweitzer Stiftung für unsere Mitwelt](https://albert-schweitzer-stiftung.de/)

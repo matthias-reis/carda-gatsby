@@ -14,8 +14,8 @@ labels:
   - Bands
   - Dunk Festival
   - Dunk Records
-  - DUNK! Festival
-  - DUNK! Records
+  - DUNK!festival
+  - DUNK!records
   - English & German
   - Interview
   - Interviews
@@ -79,8 +79,8 @@ stattfinden. Ihr hattet auch vor, dort einen Gig zu spielen. Werde ich Euch dort
 
 ## Das DUNK! 2017 war magisch
 
-<RemoteImage alt={``} size="medium"
-title={`Dieses Foto habe ich auf dem magischen DUNK! Festival 2017 aufgenommen.`}
+<RemoteImage alt={``} size="medium" title={`Dieses Foto habe ich auf dem
+magischen DUNK! Festival 2017 aufgenommen.`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-9__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-9__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHCP/EACUQAAEDAgUFAQEAAAAAAAAAAAECAxEABAUGEiExEyJBUXFhgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAgEQEAAgIBBAMAAAAAAAAAAAABAAIDESEEEjFBUaHB/9oADAMBAAIRAxEAPwDzO02VKgnj3V9i06kkEyE92nwON6ltMNcdSFwoACZ4291psJysq6tUvKuEISTG4k7/ANFU3xWob15mWTqMeI3d+n8mRctUp2gzJ5qq83oUCIPzeupIyMHEd15ICQRDYTtPnUoQfyslmfC2bBpRad6ulQSFAggj6KlFVPiLXrMN0DfPjhiC3xW4YWhTJ0lIgykGabP5qvbp5svdJLTY0pQhsCE/eaKKbvspZeSVek9MjxLMD106B1CWkkFOxnxJpRd3anVEBS9HqTFFFFyWa9rFKVHif//Z"

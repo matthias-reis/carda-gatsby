@@ -24,7 +24,7 @@ labels:
   - Vegane Rezepte
   - veganes Spargelrezept
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2018-06-04T07:10:32.000Z
 status: publish
 isWerbung: false
@@ -34,7 +34,7 @@ thumbnailId: "21155"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_41667092854_e157247ae3_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_41667092854_e157247ae3_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgACBAcF/8QAJhAAAgEDBAEFAAMAAAAAAAAAAQIDBAURAAYSIRMHMUFRYSJyof/EABYBAQEBAAAAAAAAAAAAAAAAAAUBAv/EACARAAIBBAEFAAAAAAAAAAAAAAECAAMEESESIjFRYYH/2gAMAwEAAhEDEQA/AHNq2zZKaN7hWcaeBX4uJ5MBDnHDr3+v0YOgN1uVLYblV1C3pJBFM0/iqHDpHEG6ZQpyB/JVKdn3IHXaX1mpo4IFqbmZBb43heIRnBSUcgzg/YGc/wBRrn1/cS2NOYprrcaFmjFJFFJLMAzZDl5MMMqclVLBs9YGjrmmrMEwfkSsiXJywGfMQVm69tXHfJpLsy2yxyUhWKakYyEVGQxZiQTxwCoAGMnsfOvR3T6Z1kdCtbaKhLtRMglCBPHNwIyCF9m6+u/zQyr23YWMVZR3WyJNBIsjUwWUAAdyIUILd46GMA67vsSt8myrZxjmi8cbR+Odg0i4Y9MR1nvHXwBq01Su3Fu/rUlxytsYbM3Y6627gtXjq1pa+imAJKMJEf8Acj5/3RDcXpPtq9NG9PVV9C8QKxcHEqxgnJ4hvbVq0lgNsw0MVOpltz0psFlr4q+SsuNZVxOZEmecxtkjHZXsjHxnGkFxrbPte2TTV9wSCEsXaSplHJj9KABn8AGrVrBRU6wNy8i5AYz/2Q==
-subTitle: Rezept für zwei Personen
+subTitle: Für zwei Personen
   
 ---
 

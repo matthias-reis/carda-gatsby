@@ -94,7 +94,7 @@ ausgehen, dass das Fell an der Kapuze auch aus Polyacryl ist.
 ### **Hunde und Katzenfell wird unter Phantasienamen verkauft**
 
 <RemoteImage
-alt={`Straßenkatze - Endet sie vielleicht bald schon als Pelzkragen?`}
+alt={`Straßenkatze - Endet sie vielleicht bald schon als Pelzkragen? `}
 size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets) Straßenkatze - Endet sie vielleicht bald schon als Pelzkragen?`}
 mediumUrl="https://cardamonchai.files.wordpress.com/2014/11/11511411436_36697d37d0_z.jpg?w=300"

@@ -27,7 +27,7 @@ labels:
   - Vinaigrette
   - wenig Salz
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2018-04-04T07:30:25.000Z
 status: publish
 isWerbung: false

@@ -215,13 +215,15 @@ Mir hat es dort sehr gut gefallen und wir wurden sehr herzlich empfangen.
 
 ## Fußnoten
 
-- [1][fischethnobase](http://fishethobase.net/)
-- [2][homepage sofine](https://www.sofine.eu/de/)
-- [3][europäische behörde für lebensmittelsicherheit](https://www.efsa.europa.eu/de)
-- [4][dr. rini kulke](https://ediss.sub.uni-hamburg.de/volltexte/2018/9024/)
-- [5][dr. jenny volstorf](http://fishethobase.net/team/2/)
-- [6][sofish verkaufstellen](https://www.sofine.eu/de/wo-sind-sofine-produkte-erhaltlich/)
-- [7][kurkuma kochschule](https://www.kurkuma-hamburg.de/)
+- [1] [FischEthnoBase](http://fishethobase.net/)
+- [2] [Homepage SoFine](https://www.sofine.eu/de/)
+- [3]
+  [Europäische Behörde für Lebensmittelsicherheit](https://www.efsa.europa.eu/de)
+- [4] [Dr. Rini Kulke](https://ediss.sub.uni-hamburg.de/volltexte/2018/9024/)
+- [5] [Dr. Jenny Volstorf](http://fishethobase.net/team/2/)
+- [6]
+  [SoFish Verkaufstellen](https://www.sofine.eu/de/wo-sind-sofine-produkte-erhaltlich/)
+- [7] [Kurkuma Kochschule](https://www.kurkuma-hamburg.de/)
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

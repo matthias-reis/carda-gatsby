@@ -32,7 +32,7 @@ labels:
   - Zimtzucker
   - Zucker und Zimt
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2015-03-08T08:30:34.000Z
 status: publish
 isWerbung: false

@@ -31,7 +31,7 @@ labels:
   - Vegane Rezepte
   - veganes Essen auf dem Festival
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2015-03-07T09:30:10.000Z
 status: publish
 isWerbung: false

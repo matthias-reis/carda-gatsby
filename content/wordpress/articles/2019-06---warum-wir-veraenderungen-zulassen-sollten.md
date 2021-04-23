@@ -260,9 +260,11 @@ rücksichtsvoll miteinander umgehen. Nur das lässt uns stärker, schlauer,
 intelligenter, kreativer, sicherer, gesünder, sozialer und nicht zuletzt
 glücklicher werden.
 
-- [1][rezo - "die zerstörung der cdu"](https://www.youtube.com/watch?time_continue=1225&amp;v=tNZXy6hfvhM)
-- [2][mai von mailab - "rezo wissenschaftlich geprüft"](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&amp;t=1089s)
-- [3][die nachbarschaftsapp "nebenan.de"](https://nebenan.de/)
-- [4][missy magazine](https://missy-magazine.de/)
+- [1]
+  [Rezo - "Die Zerstörung der CDU"](https://www.youtube.com/watch?time_continue=1225&v=tNZXy6hfvhM)
+- [2]
+  [Mai von MaiLab - "Rezo wissenschaftlich geprüft"](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=1089s)
+- [3] [Die Nachbarschaftsapp "nebenan.de"](https://nebenan.de/)
+- [4] [Missy Magazine](https://missy-magazine.de/)
 
   

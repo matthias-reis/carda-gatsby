@@ -25,7 +25,7 @@ labels:
   - Vegane Rezepte
   - Vorglühen
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2018-06-02T12:59:20.000Z
 status: publish
 isWerbung: false

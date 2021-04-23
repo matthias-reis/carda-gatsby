@@ -139,24 +139,23 @@ Nachdem ich momentan gesundheitlich etwas angeschlagen bin, und am Sonntag ganze
 Hipsterclans aus den Studentenheimen der Stadt geflohen zu sein schienen, musste
 ich leider nach dem Gedränge während der Vorband aufgeben und mir einige Songs
 von der Bar aus anhören. Natürlich war ich aber pünktlich zu unserem Lied wieder
-an der Seite des Herzmannes und wir genossen gemeinsam mit meinem Bruder das
-Konzert bis zum letzten Ton. :-)
+bei Matze und Valentin und wir genossen das Konzert gemeinsam bis zum letzten
+Ton.
 
 Vielen Dank nochmal für die Karten an dieser Stelle, lieber Vale! Wir haben uns
 sehr darüber gefreut und fanden den Abend mit Dir mal wieder sehr schön! Wir
-freuen uns schon auf Russian Circles mit Dir! &lt;3
+freuen uns schon auf Russian Circles mit Dir!
 
 Hier noch ein paar Beweisbilder, die ich mit meinem Mobiltelefon aufgenommen
 habe, bitte nicht auf die Qualität achten. ;-)
 
-### _PS_
+### PS:
 
-_Ähnlichkeiten mit lebenden Personen sind rein zufällig und nicht beabsichtigt.
-;-)_
+Ähnlichkeiten mit lebenden Personen sind rein zufällig und nicht beabsichtigt.
 
-### _PPS_
+### PPS:
 
-_Natürlich werde ich Euch auch nicht verraten, was "unser Lied" is_ t.
+Natürlich werde ich Euch auch nicht verraten, was "unser Lied" ist.
 
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7968__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7968__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7973__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7973__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7976__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7976__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7980__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7980__l.jpg"}]}

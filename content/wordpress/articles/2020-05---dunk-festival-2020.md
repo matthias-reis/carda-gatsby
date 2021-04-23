@@ -1,5 +1,5 @@
 ---
-title: DUNK! Festival 2020
+title: DUNK!festival 2020
 seoTitle: DUNK! Festival 2020 - 28 ganz besondere Songs
 slug: dunk-festival-2020
 path: /2020/05/dunk-festival-2020/
@@ -15,7 +15,8 @@ labels:
   - Drone
   - Dunk Festival
   - Dunk Records
-  - DUNK! Festival
+  - DUNK!festival
+  - DUNK!records
   - Festivals
   - Midsommer Records
   - Post-Rock
@@ -37,14 +38,14 @@ subTitle: 28 ganz besondere Songs
 
 **Heute möchte ich eine Musikliste mit Euch teilen, die für mich eine ganz
 wichtige Bedeutung hat. Sie besteht aus 28 Songs von Künstler⋆innen, die beim
-diesjährigen DUNK! Festival aufgetreten wären - wenn es stattgefunden hätte.**
+diesjährigen DUNK!festival aufgetreten wären - wenn es stattgefunden hätte.**
 
 Geplant war, dass das Festival diese Woche stattfindet. Drei Tage voller
 Post-Rock, Drone, Math-Rock, Ambient, guter Stimmung, Pommes und Kirschbier.
 Weil das dieses Jahr leider nicht klappt, verzichte ich nicht auf die Musik und
 möchte Euch gerne daran teilhaben lassen.
 
-## Das DUNK! Festival 2020 hören
+## Das DUNK!festival 2020 hören
 
 Im Moment kämpft das Festivalteam dafür, dass die Veranstaltung 2021 stattfinden
 kann. Wer eine Karte für 2020 hat kann dafür einen Teil des Preises bei der
@@ -60,9 +61,9 @@ Reihenfolge nach anhören.
 
 ## Flash The Readies - "New Order" vom Album "Duna"
 
-Das offizielle Musikvideo zu diesem Song ist ganz im DUNK! Records Stil gemacht.
+Das offizielle Musikvideo zu diesem Song ist ganz im DUNK!records Stil gemacht.
 Mir gefällt das Zusammenspiel aus Farben und verspielten Sounds sehr. Ich kann
-es mir auf der Leinwand im Bühnenzelt des DUNK! Festivals mehr als gut
+es mir auf der Leinwand im Bühnenzelt des DUNK!festivals mehr als gut
 vorstellen. Hoffen wir, dass wir das 2021 erleben werden.
 
  <YouTube id="CWKcU6efbiE" />
@@ -235,8 +236,7 @@ Vorauskopplung ihrer neuen Platte raus. Sie trägt den Namen "Left Alone". Im
 Moment läuft es bei mir hoch und runter und wir hier auch noch Erwähnung finden.
 An dieser Stelle gibt es für Euch ein Stück vom 2015 erschienenen Album "East
 The Water". Ist ist auch auf der A-Seite des Open Language Sampler Volume I zu
-finden. Eine Musiksammlung, die mich seit meinem ersten DUNK! Festival
-begleitet.
+finden. Eine Musiksammlung, die mich seit meinem ersten DUNK!festival begleitet.
 
  <YouTube id="MQU-hgYh00M" />
 
@@ -294,7 +294,7 @@ festen Band zusammen, die heute untrennbar ist.
 Und noch ein Zusammenschluss kreativer Musiker aus Belgien. Turpentine Valley
 verzichten auf Worte und bringen dafür brachialen Klang. Lasst Euch von ihren
 Wänden aus Gitarren, rollende Bässe und Drums erschüttern. Das Debut "Etch" ist
-2019 bei DUNK! Records erschienen.
+2019 bei DUNK!records erschienen.
 
  <YouTube id="G6kYeDKo8xs" />
 

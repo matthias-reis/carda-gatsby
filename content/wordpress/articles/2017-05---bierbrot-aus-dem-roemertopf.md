@@ -27,7 +27,7 @@ labels:
   - veganes Brot
   - Vollkorn
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2017-05-11T14:34:32.000Z
 status: publish
 isWerbung: false

@@ -123,7 +123,8 @@ meiner Seite zu verpassen.
 
 ### Fußnoten
 
-- [1][website denise hof art](https://www.denisehofart.de)
-- [2][buch für paul](https://www.stiftung-fuer-tierschutz.de/2018/10/paul-ein-botschafter-der-rinder/)
+- [1]  [Website Denise Hof Art](https://www.denisehofart.de)
+- [2]
+  [Buch für Paul](https://www.stiftung-fuer-tierschutz.de/2018/10/paul-ein-botschafter-der-rinder/)
 
   

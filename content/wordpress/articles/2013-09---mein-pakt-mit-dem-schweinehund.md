@@ -169,7 +169,7 @@ zwischen Al Pacino und Bruce Willis senden. :-P Hier kommt der Vertrag:
 -  <address>Nach einem halben Jahr (09.03.14): Die Kette, die mir so gut gefällt</address>
 <address style="text-align: left;">Mit dem gesparten Stinkezigarettengeld sollte ich das alles locker hinkriegen.</address><address style="text-align: left;">Wenn ich den Vertrag erfüllt habe, werde ich:</address>
 -  <address>Einen weiteren Blogeintrag zum Thema schreiben</address>
--  <address>Mit dem Herzmann lecker essen gehen</address>
+-  <address>Lecker essen gehen</address>
 -  <address>Die Sucht besiegt haben</address>
  __Gezeichnet__
 
@@ -182,11 +182,11 @@ mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9680795254_0fc1099280
 largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9680795254_0fc1099280_o.jpg?w=300"
 loadingUrl="undefined" />
 
-**Der Herzmann**   _(Der noch nie einen Glimmstengel angefasst hat und heute
-Abend, beim Stöbern in meinem Blog völlig unvorbereitet von meinem Vorhaben
-erfahren wird.)_
+**Matze**   _(Der noch nie einen Glimmstengel angefasst hat und heute Abend,
+beim Stöbern in meinem Blog völlig unvorbereitet von meinem Vorhaben erfahren
+wird.)_
 
-<RemoteImage alt={`Der Herzmann`} size="medium" title={`Der Herzmann`}
+<RemoteImage alt={`Der Herzmann`} size="medium" title={`Matze`}
 mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/189270_1914558587933_3844410_n.jpg?w=300"
 largeUrl="http://cardamonchai.files.wordpress.com/2013/09/189270_1914558587933_3844410_n.jpg?w=300"
 loadingUrl="undefined" />

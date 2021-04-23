@@ -12,7 +12,7 @@ excerpt: Wir werden morgen die Festivalsaison einläuten, indem wir uns auf den
 focusKeyword: Festivalsaison
 labels:
   - Bands
-  - DUNK! Records
+  - DUNK!records
   - Festival
   - Festivals
   - Festivalsaison

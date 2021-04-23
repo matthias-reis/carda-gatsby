@@ -65,10 +65,10 @@ musikalische Werke, eines besser als das andere.
 
 ## Ihre Musik begleitet uns seit 1999
 
-Bereits seit 1999 begleitet meinen Bruder, den Herzmann und mich ihre Musik nun
-schon. Am Montag, den 3. November war es endlich soweit und wir durften sie live
-sehen. Endlich eine Europatournee (zusätzlich zu den Festivalauftritten dieses
-Jahr) und dann auch noch ein Zwischenhalt in München, wie wunderbar!
+Bereits seit 1999 begleite mich Valentin, Matze und mich ihre Musik nun schon.
+Am Montag, den 3. November war es endlich soweit und wir durften sie live sehen.
+Endlich eine Europatournee (zusätzlich zu den Festivalauftritten dieses Jahr)
+und dann auch noch ein Zwischenhalt in München, wie wunderbar!
 
 <RemoteImage alt={`Das Konzert war sensationell`} size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/) Das Konzert war sensationell`}

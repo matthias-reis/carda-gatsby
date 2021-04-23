@@ -242,10 +242,10 @@ möchte,
 
 ### Fußnoten:
 
-- [1][infos über natrue-gütesiegel](http://www.natrue.org)
-- [2][alles über das leaping bunny siegel](http://www.leapingbunny.org)
-- [3][infos über das label der vegan society](http://www.vegansociety.com)
-- [4][homepage santaverde](http://www.santaverde.de)
+- [1] [Infos über NATRUE-Gütesiegel](http://www.natrue.org)
+- [2] [Alles über das Leaping Bunny Siegel](http://www.leapingbunny.org)
+- [3] [Infos über das Label der Vegan Society](http://www.vegansociety.com)
+- [4] [Homepage Santaverde](http://www.santaverde.de)
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

@@ -97,7 +97,7 @@ bei den Besuchern schnell unter den Bookmarks landet und sich aus der Vielzahl
 der Webkataloge die passendsten aussuchen, anstatt überall dabei sein zu wollen,
 was natürlich auch schnell unseriös wirken kann. Auch bei den
 [bezahlten Werbeeinblendunge](//cardamarketing/sea/) n ist Vorsicht geboten.
-Manchmal ist weniger mehr. Und ein beliebtes Keyword kann schnell bis zu 55,- \$
+Manchmal ist weniger mehr. Und ein beliebtes Keyword kann schnell bis zu 55,- $
 pro Klick kosten, [wie wir ja seit kurzem wissen](//cardamarketing/sea/).
 
 **Viel Spaß beim Optimieren!**

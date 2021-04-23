@@ -16,10 +16,10 @@ labels:
   - Hamburg
   - Hamburg
   - Hamburg vegan
+  - Interviews
   - vegan
   - Vegane Lokale
   - vegane Lokale
-  - Vegane Rezepte
   - veganes Café
   - veganes Catering
   - Veganes Hochzeitscatering

@@ -42,7 +42,8 @@ subTitle: Vegane Limo mit Geschmack
 
 Werbung\*
 
-<RemoteImage alt={`MIO MIO`} size="medium" title={`MIO MIO - Ich habe getestet`}
+<RemoteImage alt={`MIO MIO `} size="medium"
+title={`MIO MIO - Ich habe getestet`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28497211950_3672e57073_z__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28497211950_3672e57073_z__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBwb/xAAlEAACAQMDBAIDAAAAAAAAAAABAgMEBREAEiEGEzFBUXEUImH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQID/8QAHhEAAgEEAwEAAAAAAAAAAAAAAQIAAwQRIRITMVH/2gAMAwEAAhEDEQA/AHOxT1VtngJBebMAUttxlWJ9E54+NZ3XUttoLdUXCvt060oq5Iu6tSu5ypAIVWUDGAT886s2q3y3COJKGRi8c6S71UuvCupVsMMZDfPrVLqiWOHpygs9yoVrUpqeQx/iIXLStuAkOTkc5z/dYFdXQHwzo9uVcg7nKXiz26OWjqIRNRRVPZaKGQbyCTkbjnjI+8av1ssys4371JPkaeq7d07cOjqarnlmmr6QJAVknZDvVBklARkbvGR71x1bEhjJHJxzojXWG4xFtbBqfLzP2Zfbx37jEGwDNUqGx7DOMj651ofWskEXTr0sdJBG1OY2hliUBkCsRtyQW2/ueARzo0adCRDpG5y1NKXq0iqJIH2RySIC6jHjceTqjcLjM5Iwg84wPGjRqVUUdh1K9Jj1Dc//2Q=="

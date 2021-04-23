@@ -309,9 +309,11 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_1
 
 ### Fußnoten:
 
-- [1][mad yeti creations auf facebook](http://www.facebook.com/madyeticreations)
-- [2][nina als @nine_onoke bei instagram](https://www.instagram.com/nine_onoke/)
-- [2][die pommeserei](http://www.pommeserei.de/)
+- [1]
+  [Mad Yeti Creations auf Facebook](http://www.facebook.com/madyeticreations)
+- [2]
+  [Nina als @nine_onoke bei Instagram](https://www.instagram.com/nine_onoke/)
+- [2] [Die Pommeserei](http://www.pommeserei.de/)
 
 Bis auf das Foto von meinem kleinen Kohlköpfchen stammen alle Bilder aus Ninas
 Privatarchiv. Im Titelbild ist sie mit ihrem Hund Vangos zu sehen.

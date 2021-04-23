@@ -23,7 +23,6 @@ labels:
   - vegan muss nicht teuer sein
   - vegane Bücher
   - vegane Kochbücher
-  - Vegane Rezepte
   - Ventil Verlag
 type: Artikel
 typeName: Rezension

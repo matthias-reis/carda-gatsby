@@ -127,7 +127,8 @@ neue vegane Eis.
 ### Fußnoten
 
 - <ul>     <li id="1">[1]  [Food from Finland](https://www.businessfinland.fi/en/do-business-with-finland/explore-finland/food-drinks/food-from-finland-in-brief/)
-- [2][business finland](https://www.businessfinland.fi/en/do-business-with-finland/home/)
+- [2]
+[Business Finland](https://www.businessfinland.fi/en/do-business-with-finland/home/)
 </li>
 </ul>
 

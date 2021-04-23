@@ -100,10 +100,10 @@ erlaubt! Mit Gaffertape kann man sich einen praktischen “Umhängetetrapack”
 bauen, wahlweise geht natürlich auch ein professioneller 31.) Trinkrucksack oder
 auch ein mittelalterlicher 32.) Weinschlauch 33.) Faltkanister (zum Wasser
 holen, Haare waschen oder auch für Vodka und andere Spezialitäten, Glasflaschen
-sind auf den meisten Festivals auf dem kompletten Gelände verboten) 34.) Flip
-Flops (zum Duschen) 35.) Mütze (gegen Sonnenbrand auf der Kopfhaut oder nasse
-Haare bei monsunartigen Regenfällen) 36.) Umhänge- oder Gürteltasche, oder für
-Spießer: Brustbeutel (Für Kamera, Geld, Zigaretten und andere lebenswichtige
+sind auf den meisten Festivals auf dem kompletten Gelände verboten) 34.)
+Flip-Flops (zum Duschen) 35.) Mütze (gegen Sonnenbrand auf der Kopfhaut oder
+nasse Haare bei monsunartigen Regenfällen) 36.) Umhänge- oder Gürteltasche, oder
+für Spießer: Brustbeutel (Für Kamera, Geld, Zigaretten und andere lebenswichtige
 Kleinigkeiten, die immer “am Mann” getragen werden) 37.) Für Raucher:
 Ausreichend Zigaretten/Tabak, Rauchwaren sind auf dem Festivalgelände teurer
 38.) Feuerzeuge 39.) Taschenlampe 40.) Trockenshampoo (falls die Duschen

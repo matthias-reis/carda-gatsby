@@ -156,8 +156,8 @@ schön erklärt:
 
 ### Fußnoten
 
-- [1][cradle to cradle e. v](https://c2c-ev.de/)
-- [2][epea](https://epea-hamburg.com)
+- [1] [Cradle to Cradle e. V](https://c2c-ev.de/)
+- [2] [EPEA](https://epea-hamburg.com)
 
 <h4></h4>
 

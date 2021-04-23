@@ -164,13 +164,18 @@ wissenschaftlich nachgewiesen und bestätigt. Weitere Studien laufen.
 
 ## Fußnoten
 
-- [1][studie zu milch und brustkrebs](https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyaa007/5743492?redirectedFrom=fulltext)
-- [2][adventist health study](https://adventisthealthstudy.org/studies/AHS-2)
-- [3][blv-studie](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134304)
-- [4][umfrage des us landwirtschaftsministeriums](https://www.aphis.usda.gov/animal_health/nahms/dairy/downloads/dairy07/Dairy07_is_BLV.pdf)
-- [5][committee for responsible medicine (pcrm)](https://www.pcrm.org/)
-- [6][bürgerpetition zur kennzeichnung von käse](https://p.widencdn.net/9unq1q/2019-10-03-Physicians-Committee-for-Responsible-Medicine-FDA-Petition-Breast-Cancer-and-Cheese-FINAL)
-- [7][kampagne "let's beat breast cancer"](https://www.pcrm.org/letsbeatbreastcancer?utm_source=web&amp;utm_medium=van_dom&amp;utm_campaign=LBBC)
+- [1]
+  [Studie zu Milch und Brustkrebs](https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyaa007/5743492?redirectedFrom=fulltext)
+- [2] [Adventist Health Study](https://adventisthealthstudy.org/studies/AHS-2)
+- [3]
+  [BLV-Studie](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134304)
+- [4]
+  [Umfrage des US Landwirtschaftsministeriums](https://www.aphis.usda.gov/animal_health/nahms/dairy/downloads/dairy07/Dairy07_is_BLV.pdf)
+- [5] [Committee for Responsible Medicine (PCRM)](https://www.pcrm.org/)
+- [6]
+  [Bürgerpetition zur Kennzeichnung von Käse](https://p.widencdn.net/9unq1q/2019-10-03-Physicians-Committee-for-Responsible-Medicine-FDA-Petition-Breast-Cancer-and-Cheese-FINAL)
+- [7]
+  [Kampagne "Let's Beat Breast Cancer"](https://www.pcrm.org/letsbeatbreastcancer?utm_source=web&utm_medium=van_dom&utm_campaign=LBBC)
 
 ## Quellen
 

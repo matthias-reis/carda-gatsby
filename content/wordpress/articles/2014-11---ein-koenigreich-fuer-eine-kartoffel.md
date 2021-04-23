@@ -29,7 +29,7 @@ labels:
   - veganer Auflauf
   - Wintergerichte
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2014-11-20T09:33:40.000Z
 status: publish
 isWerbung: false

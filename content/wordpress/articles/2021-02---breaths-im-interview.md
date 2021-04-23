@@ -32,12 +32,11 @@ date: 2021-02-11T10:38:09.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 thumbnailId: "32808"
-remoteThumbnailImage: null
-remoteImage: null
-remoteLoadingImage: null
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBggE/8QAKRAAAQMCBQMEAwEAAAAAAAAAAQIDBAURAAYHEkETITEiI1FhMkJDcf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDj1bra6zT48BpoqLjiW0rHF+T9dsXPQSA5l7LFSLjqHEtPl1TrP7I2pc7X5scILMGZHJlVkxyhCobLykJLSiha9qiAsK4vb45w3NDc2LlUTMdInttIeeivTYdr+4AhSVN/dg2LW4BwDkp+ZoNfjITHcktyVj0JWs+fP+HtxjLmqodpepNY6JAt0B+IP8UHnD108y3UKHmiDHfQFsyYomqdRctp9JBQCeQSB99jip6s6aVitZxqdShOwBHeLe0OOqCvS2lJuAk8g4DOS3mmZMgFjrHeemd5CbX82HnDt0OzHRYEFtLlYixK648QIsllJQNp9vpk2sSPhV8GDAMHKWZGcpVCtU0Vmis00ONyQpYfeeccdTc33OkC23vbyTxiPNWeaRNgOJTVojrj7zTR6QU0SlTiQoWJPkXub/ODBgP/2Q==
 subTitle: '"Harte Musik und Veganismus haben viel gemeinsam"'
   
 ---
@@ -87,9 +86,10 @@ mich wirklich sehr, dass sie Dir gefällt!
 
 <RemoteImage alt={`Musik und Veganismus – Breaths im Interview`} size="medium"
 title={``}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2021/02/breaths-interview-2.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2021/02/breaths-interview-2.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview-2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBQcIBv/EACsQAAIBAgUDAwMFAAAAAAAAAAECAwAEBQYREiEHIkExUWETFDJCcYGiwf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIRAxIiQWH/2gAMAwEAAhEDEQA/AM/ZfyfieO2SXNjJa7XdowrswbUfAB96m7zpTmSy2fdmxiD6aEytz/Wu76A25kwqKZlJiSaQEgeh4qysyW80mBvvWR5llDAFdO3wf8/iqI44uvRkuLZj2ZWhmkiYqWRip0PHB0pG4/FWXk+OVmdxjOE2lkt3Ibi2mvIbeeTu/S0iNpqOAeRx6VGdQknW3Qy4zhd9A0+sMNrdRTyRL3fm0aLrxoCffxUzFGsp9QsZyvhJw/DYbBoTKZt00TM+46eQw44qck615qk274cJIHj6DaH9+6iijfZosk1HVN0VnMWmmeRgoZ2LED05OtI2H4oooCH/2Q=="
+/>
 
 Ich persönlich bin mehr als glücklich mit "Lined in Silver". Als ich das Album
 gemacht habe, ist irgendwie ein Licht bei mir aufgegangen. Ich habe eine Menge
@@ -256,9 +256,10 @@ sie liebst." Was glaubst Du, woran das liegt?
 
 <RemoteImage alt={`Musik und Veganismus – Breaths im Interview`} size="medium"
 title={``}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2021/02/breaths-interview-5.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2021/02/breaths-interview-5.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview-5__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview-5__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBggE/8QALRAAAgEDAwIDBwUAAAAAAAAAAQIDBAURAAYxEiEHE2EUIkFCUXGBMlKRktH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AsxuMkVkKxTuYujKsWyR2+vI+2lbtuCgrPEPy7qtPJNLMrKZwwMSBQQ4YH931+ONWXxblO19mUyUFaY7lVVSRqizLIyRdDMx/SCM4UA+p0ko7rXU9LURw1LjzeXbvJyDgPyBkA6Da27bvJtuyW+oBSPrkEcpYcABiR+T2/OuVJlvdOZlhDRtEXWVTlcZ4+/8AmqFsyruu69lW2x3KoqJqyiuTRSTTRNM0tMAR1lvmwc988Yye+mdabRBSSVVVRVCT24wrFTPHJ1q4+Y5HunBHIHxxoMzeOIcLb6tixSsjjkwD2EsYMbfzG6f10sBcUhgT2OiQVCjJlkJclvQHsNGjQas2DV7Zbbr2vbm5oqqlq0PtNNL5csp61w+R7rjnHoNQ2W9Tbcq7rYIq/blFZ6Fo5IykcplkaZC3zykDHTg9z6Y0aNB//9k="
+/>
 
 **Jason:** Ich bin überzeugt davon, dass Du keine Tiere liebst, wenn Du nicht
 vegan lebst – Du liebst HAUStiere. Ich denke, dass die Tiere das, was sie essen
@@ -419,9 +420,10 @@ humbled that you enjoyed it!
 ## "I am pretty happy with my record"
 
 <RemoteImage alt={`Interview with Breaths`} size="medium" title={``}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2021/02/breaths-interview-3.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2021/02/breaths-interview-3.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview-3__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview-3__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBggH/8QALxAAAQMDAgQEBAcAAAAAAAAAAQIDBQAEEQYSBxMhMQgUUWEVIjJxQUJSgYKRwf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAHxEAAgIBBAMAAAAAAAAAAAAAAREAAhIDEyFxQVFh/9oADAMBAAIRAxEAPwDOcHpyTm7db0e00tCV8s7nAk7sA9j96mLrhzqe0x5qxbayMje8kZH91evD1bF1l9wpKmm7olRAzj5U11TWNs+uAWpxDi3W1lXVOMJx0P8An7U6unUgOEAcTaZT09AzGo7pdvBRl1fvNo5jibdor5af1KPZI9zSZeMkIe5FvKWb1q8RuSl1BTuHqPUe4rQ3ACYuYzhZJpgkWQuFuOi6ce6nmFIDYUB1I29v5Y60nxExT0bw9hPjKrRN0p5HlG2equqCXSD3Kfpye2dv413YAplY+GPXXcl3za+NOUUfk4rpnWU3pmzetYi4ZaZec5qwthDhKsYzlQOKmXuK+r3myh2QYUkpKSPKNdQRg/loopDMrzsBi+JUYaWkoV9T0Vev2jihtUWlkbh6EdiPvTJ+bltQ3ibuckbq/uEpDaV3DhWUJHZKc9h7CiisylAQbn//2Q=="
+/>
 
 I am personally more than happy with how "Lined in Silver" turned out. The album
 was sort of lightning in a bottle moment in time for me. I had learned a lot
@@ -572,9 +574,10 @@ eating animals if you say you love them!" What do you think why is that?
 ## "If you are not vegan you love pets – not animals"
 
 <RemoteImage alt={`Interview with Breaths`} size="medium" title={``}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2021/02/breaths-interview-4.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2021/02/breaths-interview-4.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview-4__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview-4__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAKRAAAQMDAwMEAgMAAAAAAAAAAQIDBAUGEQASIQcTQSIxUXEVgRcyYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCZ9B7Mj3n1Cgwag0XqY02uTJSDwpKRgJJHgqKdbDpja9OkX281Vm4zsaFGkyUMyVlLbrjaTtSr/M8n61Zej1Oqv8hzrgzEgQpoejfjo8ZDKXAyhraRxlIyvnBGSOeNRSXclOoV7tSHacqe3HkLMiOXO3vSdyVI3DzhX1oF/qFS4cS5J5pyGW4vcwGmkqSEn5woAgEcjSm4yQfT9ae6zDj3FdBatQvy40tpLqg+lW6MfLeT4SAPn399ZvTa1F1LqNTqXNQMR5HdkJHI2Njef0eB+9Bcarf9JtiuWsHZcUdtuclaEnflRSkIPpz/AGWAPGc65putlQuJ51ba8vOnegIOUqPuMe/B4xo0aB9sSl16LERBpzDCHajIaaLym1qW0kqGSSBgJAyTn402xXo1Q6zVeXbyJDJbjEtyGCkd1KFoSpQKhg5SQNuOdGjQf//Z"
+/>
 
 **Jason:** My stance on that is that you don't love animals if you are not vegan
 – you only love pets. I think it's that people separate what they eat from the

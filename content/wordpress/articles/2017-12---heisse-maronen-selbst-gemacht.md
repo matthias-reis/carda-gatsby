@@ -14,7 +14,7 @@ focusKeyword: Heiße Maronen
 labels:
   - Vegane Rezepte
 type: Artikel
-typeName: Artikel
+typeName: Rezept
 date: 2017-12-14T07:59:36.000Z
 status: publish
 isWerbung: false
