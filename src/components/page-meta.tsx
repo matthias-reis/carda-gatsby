@@ -55,10 +55,22 @@ export const PageMeta: React.FC<{
         property="article:published_time"
         content={meta.frontmatter.date.toString()}
       />
-      <meta property="og:image" content={meta.frontmatter.ogImage} />
-      <meta property="twitter:image" content={meta.frontmatter.ogImage} />
-      <meta property="og:image:width" content="1200" />
-      <meta property="og:image:height" content="628" />
+      <meta
+        property="og:image"
+        content={meta.frontmatter.ogImage?.childImageSharp.original.src}
+      />
+      <meta
+        property="twitter:image"
+        content={meta.frontmatter.ogImage?.childImageSharp.original.src}
+      />
+      <meta
+        property="og:image:width"
+        content={meta.frontmatter.ogImage?.childImageSharp.original.width.toString()}
+      />
+      <meta
+        property="og:image:height"
+        content={meta.frontmatter.ogImage?.childImageSharp.original.height.toString()}
+      />
     </Helmet>
   );
 };

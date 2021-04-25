@@ -96,7 +96,15 @@ export const query = graphql`
         languageLink
         advertisement
         affiliate
-        ogImage
+        ogImage {
+          childImageSharp {
+            original {
+              src
+              height
+              width
+            }
+          }
+        }
         image {
           childImageSharp {
             fluid(maxWidth: 900, quality: 70) {
