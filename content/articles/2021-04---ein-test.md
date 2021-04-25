@@ -1,7 +1,7 @@
 ---
 templateKey: article
 date: 2021-04-19T07:23:45.365Z
-permalink: ein-test
+slug: ein-test
 typeName: Testseite
 title: Dies ist ein weiterer Test
 seoTitle: Dies ist der SEO Titel - kann länger sein

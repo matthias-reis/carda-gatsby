@@ -1,7 +1,7 @@
 ---
 templateKey: article
 date: 2021-04-20T08:21:57.573Z
-permalink: speak-memory-interview-en
+slug: speak-memory-interview-en
 typeName: Beitrag
 title: '"Adirondack"'
 subTitle: Speak, Memory guitarist Tim about their new EP

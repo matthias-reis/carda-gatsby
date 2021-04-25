@@ -1,7 +1,7 @@
 ---
 templateKey: article
 date: 2021-04-20T08:12:27.696Z
-permalink: speak-memory-interview
+slug: speak-memory-interview
 typeName: Interview
 title: Speak, Memory
 subTitle: Gitarrist Tim über die EP "Adirondack"

@@ -124,7 +124,7 @@ collections:
           default: 'article',
         }
       - { label: 'GoLive', name: 'date', widget: 'datetime', required: false }
-      - { label: 'Permalink', name: 'permalink', widget: 'string' }
+      - { label: 'Permalink', name: 'slug', widget: 'string' }
       - {
           label: 'Typ',
           name: 'typeName',

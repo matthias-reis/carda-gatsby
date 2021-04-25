@@ -1,7 +1,7 @@
 ---
 templateKey: article
 date: 2021-04-19T10:03:22.633Z
-permalink: gunda-film
+slug: gunda-film
 typeName: Filmtipp
 title: '"Gunda" – ein einfühlsamer Tierrechts-Film'
 subTitle: Das Leben der Schweine

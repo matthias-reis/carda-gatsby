@@ -1,7 +1,7 @@
 ---
 templateKey: article
 date: 2021-04-23T15:26:41.676Z
-permalink: magreblue
+slug: magreblue
 typeName: Produkttest
 title: Margreblue
 subTitle: Ein Onlineshop zeigt, wie Nachhaltigkeit funktioniert

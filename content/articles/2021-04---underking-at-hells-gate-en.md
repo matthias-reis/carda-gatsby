@@ -1,7 +1,7 @@
 ---
 templateKey: article
 date: 2021-04-22T15:06:00.000Z
-permalink: /underking-at-hells-gate-en
+slug: underking-at-hells-gate-en
 typeName: Beitrag
 title: '"At Hells Gate"'
 subTitle: The New Underking Album
