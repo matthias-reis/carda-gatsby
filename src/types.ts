@@ -14,17 +14,23 @@ export type Fields = {
 export type Frontmatter = {
   title: string;
   subTitle: string;
+  seoTitle?: string;
+  ogTitle?: string;
   date: string | Date;
   type: string;
   typeName: string;
   description: string;
+  excerpt?: string;
+  focusKeyword?: string;
   image?: ArticleImage;
   remoteImage?: string;
   remoteLoadingImage?: string;
   remoteThumbnailImage?: string;
-  labels: string[] | null;
+  ogImage?: string;
   language?: 'en' | 'de';
-  languageLink: string;
+  languageLink?: string;
+  advertisement?: boolean;
+  affiliate?: boolean;
 };
 
 export type Article = {

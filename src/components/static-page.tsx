@@ -21,7 +21,7 @@ export const StaticPage: React.FC<StaticPageProps> = ({
   return (
     <div>
       <ArticleContainer>
-        <PageMeta title={meta.frontmatter.title} path={path} />
+        <PageMeta meta={meta} path={path} />
         <Title>{meta.frontmatter.title}</Title>
         {meta.frontmatter.subTitle && (
           <Subtitle>{meta.frontmatter.subTitle}</Subtitle>

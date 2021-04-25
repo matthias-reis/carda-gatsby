@@ -53,7 +53,22 @@ export const HomePage: React.FC<{
   return (
     <div>
       <PageMeta
-        title="Rock 'n' Roll vegan – Anne bloggt cardamonchai"
+        meta={{
+          fields: {
+            labels: [],
+            path: '/',
+            type: 'page',
+            recommendations: [],
+          },
+          frontmatter: {
+            title: "Rock 'n' Roll vegan – Anne bloggt cardamonchai",
+            subTitle: 'Anne bloggt cardamonchai',
+            description: 'Anne bloggt cardamonchai',
+            type: '',
+            typeName: 'Homepage',
+            date: new Date().toString(),
+          },
+        }}
         path="/"
       />
       <ContentSection>

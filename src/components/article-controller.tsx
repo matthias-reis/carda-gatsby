@@ -83,14 +83,20 @@ export const query = graphql`
       frontmatter {
         title
         subTitle
+        seoTitle
         date
         type
         typeName
         description
+        excerpt
+        focusKeyword
         remoteImage
         remoteLoadingImage
         language
         languageLink
+        advertisement
+        affiliate
+        ogImage
         image {
           childImageSharp {
             fluid(maxWidth: 900, quality: 70) {
@@ -110,6 +116,7 @@ export const query = graphql`
         frontmatter {
           title
           subTitle
+          ogTitle
           description
           date
           remoteThumbnailImage

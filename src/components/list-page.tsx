@@ -32,8 +32,22 @@ const ListPage: React.FC<{
   return (
     <div>
       <PageMeta
-        title={`${topic}${title}`}
-        description={description}
+        meta={{
+          fields: {
+            labels: [],
+            path: '/',
+            type: 'page',
+            recommendations: [],
+          },
+          frontmatter: {
+            title: `${topic}${title}`,
+            subTitle: 'Anne bloggt cardamonchai',
+            description,
+            type: '',
+            typeName: 'Homepage',
+            date: new Date().toString(),
+          },
+        }}
         path={path}
       />
       <ContentSection>

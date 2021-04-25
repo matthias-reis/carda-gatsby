@@ -53,7 +53,7 @@ export const ArticlePage: React.FC<ArticleProps> = ({
   )}.${date.getFullYear()}`;
   return (
     <div>
-      <PageMeta title={meta.frontmatter.title} path={path} />
+      <PageMeta meta={meta} path={path} />
       <Interactions meta={meta} />
       <ArticleContainer>
         <Title>{meta.frontmatter.title}</Title>
