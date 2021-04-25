@@ -95,6 +95,7 @@ export const Frame: React.FC = ({ children }) => {
             content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
           />
           <meta property="og:site_name" content="Rock'n'Roll vegan" />
+          <meta property="fb:app_id" content="1254825647866255" />
           <meta
             property="article:publisher"
             content="https://www.facebook.com/cardamonchai"

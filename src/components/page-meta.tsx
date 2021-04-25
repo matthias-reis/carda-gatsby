@@ -3,6 +3,8 @@ import { Helmet } from 'react-helmet';
 import { pageView } from './analytics';
 import type { Article } from '../types';
 
+const SERVER = `https://cardamonchai.amreis.de`;
+
 export const PageMeta: React.FC<{
   meta: Article;
   path: string;
@@ -46,10 +48,7 @@ export const PageMeta: React.FC<{
         property="twitter:description"
         content={meta.frontmatter.description}
       />
-      <meta
-        property="og:url"
-        content={`http://cardamonchai.com${meta.fields.path}`}
-      />
+      <meta property="og:url" content={`${SERVER}${meta.fields.path}`} />
       <meta property="article:author" content="www.facebook.com/cardamonchai" />
       <meta
         property="article:published_time"
@@ -57,11 +56,11 @@ export const PageMeta: React.FC<{
       />
       <meta
         property="og:image"
-        content={meta.frontmatter.ogImage?.childImageSharp.original.src}
+        content={`${SERVER}${meta.frontmatter.ogImage?.childImageSharp.original.src}`}
       />
       <meta
         property="twitter:image"
-        content={meta.frontmatter.ogImage?.childImageSharp.original.src}
+        content={`${SERVER}${meta.frontmatter.ogImage?.childImageSharp.original.src}`}
       />
       <meta
         property="og:image:width"

@@ -40,7 +40,6 @@ const ExternalLink: React.FC<{
 
 export const Link: React.FC<{ href: string }> = ({ href, children }) => {
   if ((href || '').startsWith('http')) {
-    console.log('LINK', href);
     return (
       <ExternalLink
         href={href}
