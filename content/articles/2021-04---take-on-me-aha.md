@@ -1,6 +1,6 @@
 ---
 templateKey: article
-date: 2021-04-24T10:00:00.000Z
+date: 2021-04-25T16:00:00.000Z
 permalink: take-on-me-aha
 typeName: Beitrag
 title: Musikalisches Blind Date
@@ -42,7 +42,7 @@ a-ha stammen aus Norwegen. Ich stelle mir vor, dass Morten Harket (Gesang), Pål
 
 ## Eine spannende und behütete Kindheit in Norwegen
 
-![aha – "Take On Me"](/img/aha-take-on-e.jpeg "aha – \\"Take On Me\\"")
+![aha – "Take On Me"](/img/aha-take-on-e.jpeg "aha – \\\"Take On Me\\\"")
 
 Im Winter waren die drei sicher ganz oft beim Rodeln und haben vielleicht sogar Höhlen und Tunnel im Tiefschnee gegraben. Als sie etwas älter waren, haben sie ganz bestimmt jedes Jahr eine Schneebar gebaut. Vielleicht haben sie Schneehasen beobachtet. Zu Hause haben sie sicher mit ihren Eltern Waffeln gebacken und sich vor dem warmen Ofen gegenseitig Geschichten vorgelesen. Und Papiersterne für den Weihnachtsbaum ausgeschnitten.
 
@@ -71,3 +71,5 @@ Weil ich in meiner Kindheit leidenschaftlich gerne Erdbeeren geerntet und gegess
 ## aha – "Take On Me" (MTV Unplugged)
 
 <YouTube id="-xKM3mGt2pE" />
+
+Beim Blogger Blinddate sind dieses Mal dabei: [Beetkultur](https://www.beetkultur.de/), [Der Hagenberg](https://www.derhagenberg.de/), [thebohoshack](https://thebohoshack.de/), Rock ’n‘ Roll vegan, [Garteninspektor](https://www.garteninspektor.com/), [Faun & Farn](https://faunundfarn.de/), [Gartenbaukunst](https://gartenbaukunst.net/), [Laubenhausmädchen](https://laubenhausmaedchen.de/), [Ein Stück Arbeit](https://einstueckarbeit.de/), [WirGartenkinder](https://wirgartenkinder.de/) und [Berlingarten](https://www.berlingarten.de/).
