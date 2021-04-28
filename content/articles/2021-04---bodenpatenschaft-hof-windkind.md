@@ -44,7 +44,7 @@ language: de
 
 In der Vergangenheit habe ich Euch ja schon von der Baumpatenschaft berichtet und habe [die Walnüsse](http://cardamonchai.com/2019/09/hof-windkind-walnuss-baum-adoptieren/), [die Haselnüsse](http://cardamonchai.com/2020/03/haselnuesse-hof-windkind/) und [das Walnussöl](http://cardamonchai.com/2020/10/walnussoel-hof-windkind/) von Hof Windkind getestet. Silvia und David, die den Hof betreiben, achten bei Ihrer Arbeit auf alle Details. Alles soll lokal fair und vegan sein.
 
-### Gesunde Landwirtschaft im Einklang mit der Natur unterstützen
+## Gesunde Landwirtschaft im Einklang mit der Natur unterstützen
 
 Eine Bodenpatenschaft funktioniert im Grunde genau, wie eine Baumpatenschaft. Wenn Ihr Euch dafür entscheidet, unterstützt Ihr Silvia und David bei ihrem Plan, aus kargen Böden, die früher in konventioneller Landwirtschaft bewirtschaftet wurden, eine kleine Öko-Oase zu gestalten. David äußert sich dazu so:
 
@@ -52,9 +52,9 @@ Eine Bodenpatenschaft funktioniert im Grunde genau, wie eine Baumpatenschaft. We
 
 Denn nur auf durch und durch gesunden Böden können auch gesunde Nüsse wachsen. Man kann also sagen, dass David und Silvia den Acker gesundpflegen. Sie sorgen dafür, dass der Boden wieder Wasser und CO2 aufnehmen kann und dass wieder ein Lebensraum für Tiere entsteht. Wenn die Haine irgendwann gesund sind und dort ein funktionierendes Öko-System besteht, pflanzen die beiden Haselnüsse und Walnüsse an. Und damit kennen Sie sich wirklich aus! Mich erreichte gerade wieder ein Vorrat an Haselnüssen und ich komme aus dem Schlemmen und Schwärmen gar nicht mehr raus. Im zweiten Jahr kommen sie mir fast noch leckerer vor!
 
-<Gallery name="bodenpatenschaft-hof-windkind-1">
+<Gallery name="bodenpatenschaft-hof-windkind-1" />
 
-### Täglich gesunde Nüsse genießen
+## Täglich gesunde Nüsse genießen
 
 Das Konzept geht wirklich auf, soviel kann ich Euch auf jeden Fall versprechen. Ich genieße die Bio-Nüsse von Hof Windkind jeden Tag und kann sie gar nicht mehr aus meinem Speiseplan wegdenken. Und auch das Öl ist wirklich ein Traum.
 
@@ -70,13 +70,13 @@ Wenn Ihr neugierig seid und gerne sehen möchtet, wo die Nussbäume von Hof Wind
 
 Silvia und David sind ein sehr naturverbundenes Paar. Ihren Betrieb Öko-zertifizieren zu lassen, war den beiden von Anfang an sehr wichtig. Neben diesem Siegel trägt er auch das des Ökoverbandes "Naturland e. V.". Auf dem Hof Windkind wird auf tierischen Mist, Mineraldünger, Biodünger und andere Gifte aus Prinzip verzichtet.
 
-### Veganer Anbau auf Hof Windkind
+## Veganer Anbau auf Hof Windkind
 
 Gedüngt wird ausschließlich vegan: mit Laub, Gras, Stroh und Kräutern funktioniert das wunderbar. Neben ihrem Einsatz für eine gesunde Natur vor Ort setzen sich die beiden überzeugten Veganer⋆innen für verschiedene soziale Projekte sein. Außerdem pflegen sie Partnerschaften mit unterschiedlichen Organisationen. Der Kampf gegen den Welthunger und der Schutz des Klimas stehen für Silvia und David immer an erster Stelle.
 
 Ihr könnt Eure Bodenpatenschaft mit Hof Windkind bis zum 20. Oktober 2021 abschließen – solange noch Kontingent verfügbar ist. Eure Nüsse werden Euch dann Mitte bis Ende Oktober 2021 bequem nach Hause geliefert. Versandkosten fallen keine an. Die Verpackung ist zu 100 Prozent biologisch abbaubar und selbstverständlich frei von Plastik. Lieferscheine und Kartons werden ausschließlich mit umweltschonender Druckertinte, die mit dem "Blauen Engel" ausgezeichnet ist, bedruckt.
 
-### Was bekomme ich, wenn ich eine Bodenpatenschaft abschließe?
+## Was bekomme ich, wenn ich eine Bodenpatenschaft abschließe?
 
 Wenn Ihr eine Patenschaft abschließen wollt, habt Ihr verschiedene Möglichkeiten. Ihr könnt Euch aussuchen, ob Ihr fünf, zehn, 16 oder 20 Quadratmeter übernehmen möchtet. Außerdem habt Ihr, wie schon erwähnt die Wahl zwischen Bio-Haselnüssen, Bio-Walnüssen oder Walnussöl.
 
@@ -101,7 +101,7 @@ Wenn Ihr ganze 20 Quadratmeter nehmt, bekommt Ihr
 
 ⋆Alle Preise sind inklusive Mehrwertsteuer und Versand innerhalb Deutschlands.
 
-### Ihr könnt die Patenschaft auch verschenken
+## Ihr könnt die Patenschaft auch verschenken
 
 Wenn Ihr Euch entschieden habt, braucht Ihr nur noch einen Account zu erstellen und ankreuzen, welche Patenschaft es für Euch sein soll.
 
@@ -109,17 +109,17 @@ Wenn Ihr die Patenschaft verschenken wollt, geht das auch. Denk einfach daran, d
 
 Die Nüsse sind mindestens 12 Monate haltbar. Das kann ich selbst aus eigener Erfahrung auch bestätigen. Für unseren 2-Personen-Haushalt reicht ein Karton fast ein komplettes Jahr und die Nüsse schmecken am letzten Tag genau so gut wie am ersten. Auf dem Hof werden sie nach der Ernte schonend bei Raumtemperatur (unter 28 Grad getrocknet). Daher haben sie ihre hochwertige Rohkost-Qualität.
 
-### Naturbelassene Nüsse in Rohkost-Qualität
+## Naturbelassene Nüsse in Rohkost-Qualität
 
 Die Schale geht beim Knacken ganz leicht ab – viel leichter, als bei herkömmlichen Nüssen aus dem Supermarkt. Das hängt vermutlich auch damit zusammen, dass sie weder gebleicht, noch geschwefelt werden. Ihr hebt die Bio-Walnüsse und Bio-Haselnüsse am besten an einem kühlen und luftigen Ort auf. Wir lagern sie in einer Brotbox mit Lüftungsschlitzen – darin scheinen sie sich sehr wohl zu fühlen. Mehr Informationen zu den Walnüssen von Hof Windkind [findet Ihr hier](http://cardamonchai.com/2019/09/hof-windkind-walnuss-baum-adoptieren/). Zu den Haselnüssen [geht es hier entlang](http://cardamonchai.com/2020/03/haselnuesse-hof-windkind/).
 
 Das Walnussöl pressen Silvia und David auf Bestellung, damit es so frisch wie möglich bei Euch daheim ankommt. Geliefert wird es Euch in aluminiumfreien Weißblechkanistern zu je 500 Millilitern. Die beiden haben sich bewusst für dieses Material entschieden: In Deutschland hat es eine Recyclingquote von 93,3 Prozent. Damit ist sie die höchste überhaupt. Durch das geringe Gewicht wird außerdem CO2 gespart. Es ist, genau wie die Nüsse, ein Jahr haltbar. Ihr bewahrt es am besten im Kühlschrank auf. Mehr Details zum Bio-Walnussöl von Hof Windkind [findet Ihr hier](http://cardamonchai.com/2020/10/walnussoel-hof-windkind/).
 
-### David von Hof Windkind erzählt die Bodenpatenschaft
+## David von Hof Windkind erzählt die Bodenpatenschaft
 
 [YouTube video player](https://www.youtube.com/embed/tO7aZf07N_A)
 
-<Gallery name="bodenpatenschaft-hof-windkind-2">
+<Gallery name="bodenpatenschaft-hof-windkind-2" />
 
 Alles Wissenswerte zu den Baum- und Bodenpatenschaften und zu den Besichtigungsterminen findet Ihr auf der [Hof Windkind Homepage](https://www.hofwindkind.com).
 
