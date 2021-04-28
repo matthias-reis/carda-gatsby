@@ -1,7 +1,7 @@
 ---
 templateKey: article
 date: 2021-04-26T16:18:04.381Z
-permalink: /bodenpatenschaft-hof-windkind
+permalink: bodenpatenschaft-hof-windkind
 typeName: Produkttest
 title: Bodenpatenschaft für bio-vegane Nüsse
 subTitle: Hof Windkind macht Ackerflächen klimafreundlich
