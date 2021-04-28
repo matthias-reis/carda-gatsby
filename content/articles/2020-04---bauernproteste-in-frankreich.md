@@ -2,6 +2,8 @@
 templateKey: article
 title: Bauernproteste in Frankreich
 subTitle: Deutsche Billiglebensmittel zurückgeschickt
+ogTitle:
+  Bauernproteste in Frankreich - Deutsche Billiglebensmittel zurückgeschickt
 description: >-
   Deutsche Betriebe verzerren den Wettbewerb mit ihren exorbitant niedrigen
   Preisen. Das hat in Frankreich zu Protesten geführt.
