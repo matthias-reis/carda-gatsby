@@ -6,14 +6,12 @@ typeName: Review
 title: '"Biskopskniven" von Blessings'
 subTitle: Post-Hardcore vom Feinsten
 seoTitle: '"Biskopskniven" von Blessings – Post-Hardcore vom Feinsten'
-description:
-  '"Biskopskniven" von Blessings ist ein weiteres Album-Highlight für das Jahr
-  2021. Ich habe mir die Platte schonmal angehört.'
-excerpt:
-  '"Biskopskniven" von Blessings ist ein weiteres Album-Highlight für das Jahr
-  2021. Die Platte erscheint am 21. Mai bei Pelagic Records und bietet einige
-  Überraschungen. Ich habe sie mir schon angehört und möchte sie Euch hiermit
-  ans Herz legen.'
+description: '"Biskopskniven" von Blessings ist ein weiteres Album-Highlight für
+  das Jahr 2021. Ich habe mir die Platte schonmal angehört.'
+excerpt: '"Biskopskniven" von Blessings ist ein weiteres Album-Highlight für das
+  Jahr 2021. Die Platte erscheint am 21. Mai bei Pelagic Records und bietet
+  einige Überraschungen. Ich habe sie mir schon angehört und möchte sie Euch
+  hiermit ans Herz legen.'
 image: /img/blessings.jpg
 ogImage: /img/blessings-fb.jpg
 labels:
@@ -35,7 +33,7 @@ focusKeyword: Biskopskniven
 advertisement: false
 affiliate: false
 language: de
-languageLink: blessings-biskopskniven-en
+languageLink: /2021/04/blessings-biskopskniven-en
 ---
 
 **Von Blessings erscheint am 21. Mai ein neues musikalisches Highlight aus der
