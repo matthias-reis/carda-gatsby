@@ -33,7 +33,7 @@ einer eigens dafür angelegten Webseite1 vorbestellt werden. Auf der Seite gibt
 es ein Kontaktformular, füllt man es mit seinen persönlichen Daten aus,
 verspricht Pamela sich bald mit weiteren Details zu melden.
 
-### Preise sind noch nicht bekannt
+## Preise sind noch nicht bekannt
 
 Preise und weitere Infos sind bisher noch nicht bekanntgegeben worden. Ich
 bleibe auf jeden Fall dran.

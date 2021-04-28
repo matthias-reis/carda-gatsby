@@ -30,7 +30,7 @@ Musikalisch trennten sich Gwens und meine Wege spätestens nach dem Erscheinen
 ihrer ersten Soloplatte wieder, als Stilikone ist sie mir jedoch bis heute
 erhalten geblieben.
 
-### Gwen Stefani designt vegane Schuhe und Taschen
+## Gwen Stefani designt vegane Schuhe und Taschen
 
 ![High Heels  "Alisa" von Gwen Stefanie](/img/high-heel-alisa-.jpg "High Heels
 \\"Alisa\\"")
@@ -53,7 +53,7 @@ Die Taschen und Schuhe sollen im eher niedrigen Preissegment zwischen 70 und 170
 Euro pro Paar je nach Material liegen. Vertrieben wird die Marke in Europa über
 Freemark Enterprises und soll unter anderem über Zalando zu haben sein.
 
-### Endlich vegane High Heels
+## Endlich vegane High Heels
 
 ![High Heels "Abbott" von Gwen Stefanie](/img/high-heel-abbott-.jpg 'High Heels "Abbott"')
 
@@ -67,7 +67,7 @@ dagegen meist eher sportlich und eignen sich selten für die Kombination mit
 Cocktailkleid, Hochzeitskleid, Ausgehklamotte, oder für den "Heute ist hohe
 Schuhe-Tag".
 
-### Erste Eindrücke der Kollektion von Gwen Stefani
+## Erste Eindrücke der Kollektion von Gwen Stefani
 
 Wer die aktuelle Herbst/Winter-Kollektion schon mal bewundern möchte, kann dies
 auf shoedazzle.com tun, dort wird sie in den USA zum Verkauf angeboten. Derzeit

@@ -3,13 +3,15 @@ templateKey: article
 date: 2021-04-22T15:18:00.000Z
 permalink: underking-at-hells-gate
 typeName: Review
-title: "\"At Hell's Gate\""
+title: '"At Hell''s Gate"'
 subTitle: Das neue Underking Album
 seoTitle: Underking – Das neue Album "At Hell's Gate" auf dem Plattenteller
-description: Underking – das ist von Fantasy und Science-Fiction inspirierter
-  Metal Sound. Das neue Album "At Hell's Gate" erscheint morgen.
-excerpt: Underking – das ist von Fantasy und Science-Fiction inspirierter Metal
-  Sound. Das neue Album "At Hell's Gate" erscheint morgen.
+description:
+  Underking – das ist von Fantasy und Science-Fiction inspirierter Metal Sound.
+  Das neue Album "At Hell's Gate" erscheint morgen.
+excerpt:
+  Underking – das ist von Fantasy und Science-Fiction inspirierter Metal Sound.
+  Das neue Album "At Hell's Gate" erscheint morgen.
 image: /img/underking-2.jpeg
 ogImage: /img/underking-fb.png
 labels:
@@ -26,7 +28,6 @@ affiliate: false
 language: de
 languageLink: /2021/04/underking-at-hells-gate-en
 ---
-## Das neue Underking Album
 
 **Underking – das ist von Fantasy und Science-Fiction inspirierter Metal Sound
 aus Nottingham, England. Emotionsgeladen, hart und melodisch und dabei kein
@@ -36,7 +37,7 @@ Das neue Underking Album "At Hell's Gate" erscheint morgen. Ich habe die Ehre,
 es schon seit ein paar Wochen hören zu können und möchte es hiermit allen
 Metal-Interessierten unter Euch empfehlen.
 
-![Underking – "At Hell's Gate"](/img/underking-at-hells-gate.jpeg "Underking – \"At Hell's Gate\"")
+![Underking – "At Hell's Gate"](/img/underking-at-hells-gate.jpeg (Underking – "At Hell's Gate"))
 
 Die von Underking Gründer Maxwell Jeffries aufgezählten Einflüsse Judas Priest,
 Foo Fighters, Kvelertak und Black Sabbath kann man gut raushören. Dennoch ist
@@ -45,7 +46,7 @@ bisschen an, wie ein Stück neuer frischer Classic Metal an. Auf endloses Fiedel
 und allzu blumige Elemente verzichtet er jedoch – was dem Sound gut zu Gesicht
 steht.
 
-### Underking ist düster und verspielt
+## Underking ist düster und verspielt
 
 Düster und verspielt zugleich mit spannenden Anleihen aus dem Sci-Fi-Genre
 schraubt sich die Platte von einem Highlight zum nächsten. Das Werk eignet sich
@@ -58,13 +59,13 @@ spricht er Fans der verschiedensten musikalischen Stile an. Die Bandbreite des
 Multi-Instrumentalisten reicht von kraftvollem Gesang und wilden Riffs bis hin
 zu einem fesselnden Gesamterlebnis.
 
-### Sounds der Zukunft und der Vergangenheit
+## Sounds der Zukunft und der Vergangenheit
 
 Das Projekt fasst für Max all seine Interessen unter einem Namen zusammen. Mit
 "Underking" bringt er seine Liebe für das Futuristische und den Metal-Bombast
 der Vergangenheit perfekt zum Ausdruck.
 
-![Underking](/img/underking-1.jpeg "Underking")
+![Underking](/img/underking-1.jpeg 'Underking')
 
 Nach seinem Anfang 2020 veröffentlichten Debüt-Album im Doppel-LP Format
 "Amongst The Dead" und "Ghosts Of The Past" veröffentlichte Max aka Underking
@@ -73,7 +74,7 @@ von ihnen spiegelt ein bestimmtes musikalisches Interesse von ihm wider – von
 der Hard-Rock-Ballade über energetischen Thrash Metal bis hin zu New Wave of
 British Heavy Metal (NWOBHM).
 
-### Wir sollten Underking Gehör schenken
+## Wir sollten Underking Gehör schenken
 
 Die insgesamt zehn Stücke auf "At Hell's Gate" fassen all das zusammen –
 angereichert mit einem weiteren angenehmen Hauch Kreativität. Underking

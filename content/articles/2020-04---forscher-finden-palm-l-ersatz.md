@@ -30,7 +30,7 @@ auf Hefe-Basis. Diese Alternative könnte das Potential haben, Palmöl komplett
 den Rang abzulaufen. Das rücksichtslose Abholzen der Regenwälder wäre somit
 beendet.
 
-### Das Leid der Orang-Utans könnte schon bald ein Ende haben
+## Das Leid der Orang-Utans könnte schon bald ein Ende haben
 
 In einem Bericht des HeraldScotland\[^1] erklärt Dr. Tim May, der Leiter der
 chemischen Entwicklungsabteilung an der Universität Bath:
@@ -39,7 +39,7 @@ chemischen Entwicklungsabteilung an der Universität Bath:
 > nachhaltigen Energien sowie die Entwicklung und Herstellung von
 > Nahrungsmitteln und Pflegeprodukten haben."
 
-### Weiterhin auf die Inhaltsangaben achten
+## Weiterhin auf die Inhaltsangaben achten
 
 Auch, wenn diese zukunftsweisende Palmöl-Alternative derzeit noch nicht auf dem
 Markt ist, handelt es sich dabei um einen Lichtblick. Es ist ein Zeichen an die
@@ -53,8 +53,8 @@ wichtig, so genau wie möglich auf die Inhaltsangaben zu achten und den Konsum
 von [Produkten mit Palmöl](https://cardamonchai.com/2015/05/palmoel/) so gut es
 geht zu vermeiden.
 
-\[^1]:
-[Bericht im Herald Scotland](http://www.heraldscotland.com/news/14127733.Scientists_look_to_create_yeast_based_alternative_to_palm_oil/)
+[^1]:
+    [Bericht im Herald Scotland](http://www.heraldscotland.com/news/14127733.Scientists_look_to_create_yeast_based_alternative_to_palm_oil/)
 
 Bild:
 [Creative Commons](https://commons.wikimedia.org/wiki/File:Yeast_agar_plate-01.jpg)

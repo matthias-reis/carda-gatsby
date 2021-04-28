@@ -22,7 +22,7 @@ Die Jackfrucht wird getrocknet, geschreddert und im Anschluss weiterverarbeitet.
 Derzeit sind in Amerika beispielsweise fertige Steaks in verschiedenen
 Geschmacksrichtungen im Handel.
 
-### Steaks aus Jackfrucht
+## Steaks aus Jackfrucht
 
 ![Jack Fruit als Fleischersatz](/img/16269362802_5205cb0939_z-380x250.jpg 'Jackfruit auf dem Markt in Sri Lanka')
 
@@ -40,7 +40,7 @@ es zum Beispiel auch Jackfruit-Chips, das frische Fruchtfleisch wird dort auch
 gerne zu Süßspeisen verarbeitet oder geschnitten und eingeschweißt aus der
 Kühltheke verkauft.
 
-### Exportschlager Jackfruit
+## Exportschlager Jackfruit
 
 In Thailand ist die Jackfruit derzeit ein Exportschlager, da sie gerade dabei
 ist, den Markt in Europa und den USA zu erobern. Also haltet die Augen offen,

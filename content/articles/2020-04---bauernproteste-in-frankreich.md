@@ -23,7 +23,7 @@ beladene LKW umzukehren und nach Deutschland zurückzufahren. Mehr als tausend
 Bauern stoppten am letzten Montag die Lieferanten und drohten damit, Fleisch und
 Gemüse auszuladen.
 
-### Blockaden an der Grenze
+## Blockaden an der Grenze
 
 Mit ihren Traktoren bildeten Sie eine Barriere, Lastwagen mit Agrarprodukten
 wurden nicht durchgelassen und rund 300 LKW zurückgeschickt. Ähnliches spielte
@@ -37,7 +37,7 @@ Ruin. Fleisch und Milch werden aufgrund der sich ändernden
 Ernährungsgewohnheiten der Franzosen immer billiger, die Nachfrage sinkt immer
 weiter. Somit werden Produkte aus dem Ausland immer seltener benötigt.
 
-### Lohndumping bei den Erntehelfern
+## Lohndumping bei den Erntehelfern
 
 Zudem machen die französischen Landwirte auch die in Deutschland immer
 zahlreicher eingesetzten, osteuropäischen Erntehelfer für die billigen Preise
@@ -48,7 +48,7 @@ auf die Straße gehen, bis diese gefunden ist. Inzwischen hat sich die Regierung
 zu Gesprächen bereiterklärt, um zu diskutieren, wie sich weiteres Preisdumping
 vermeiden lässt.
 
-### Rückgang des Fleischkonsums
+## Rückgang des Fleischkonsums
 
 Dass die Nachfrage nach Fleisch- und Milchprodukten immer weiter nachlässt, ist
 kein Geheimnis. Es wird dennoch immer mehr und immer billiger produziert und für

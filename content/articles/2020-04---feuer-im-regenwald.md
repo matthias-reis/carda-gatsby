@@ -27,7 +27,7 @@ Herstellung von Haushaltsprodukten, es steckt in Instant-Produkten, Shampoo,
 Make-up, Pflegeprodukten, Aufstrichen, Backwaren und nahezu in der Hälfte der
 verpackten Produkte in unseren Supermärkten.
 
-### Orang-Utans sterben, weil Palmöl billig ist
+## Orang-Utans sterben, weil Palmöl billig ist
 
 Viele Hersteller haben die Öle in ihren Produkten durch Palmöl ersetzt, weil es
 billiger ist. Dabei wird weder Rücksicht auf die irreparablen Schäden, die den
@@ -50,7 +50,7 @@ so Lis Key, Pressesprecherin von International Animal Rescue’s.
 > sind dehydriert und unterernährt, sie leiden unter Atemnot und sind stark
 > verängstigt."
 
-### Höchste Zeit, etwas zu tun
+## Höchste Zeit, etwas zu tun
 
 Ist ein niedrigerer Palmöl-Preis es wirklich wert, dass eine Spezies komplett
 ausgerottet wird? Es ist höchste Zeit, sich diese Frage zu stellen, sonst könnte

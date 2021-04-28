@@ -34,7 +34,7 @@ existieren auf Seiten der Animal Welfare Foundation alleine 30 Minuten
 Filmmaterial, die aus reinen Prügelszenen bestehen. Die Pferde werden geprügelt,
 um sie nach der Prozedur wieder zu vertreiben.
 
-### Tausende Stuten werden gequält
+## Tausende Stuten werden gequält
 
 ![Dünnes Pferd](/img/skinny_horse_-5910370980-.jpg 'Dünnes Pferd')
 
@@ -53,7 +53,7 @@ kontrollierbar. Die Fohlen werden abgetrieben oder sterben durch die Anämie der
 Stuten während der Tragzeit ab. Die ausgemergelten Stuten befinden sich in einem
 endlosen Kreislauf aus Ausbeutung, Folter und Zwangsbefruchtung.
 
-### Die Pferdehormone werden für die Ferkelzucht eingesetzt
+## Die Pferdehormone werden für die Ferkelzucht eingesetzt
 
 Bei der Ferkelzucht werden mit den PMSG-Präparaten zur Brunststimulation
 eingesetzt, der Zyklus der Sauen wird durch die Gabe verkürzt. Rund 95 Prozent
@@ -66,7 +66,7 @@ vorzuschieben und so schnell wie nur möglich die notwendigen Gesetze zu
 verabschieden.
 
 [^1]:
-  [Bericht aus der Süddeutschen Zeitung vom 29. September 2015](http://www.sueddeutsche.de/wirtschaft/handel-grausamer-bluttransfer-1.2668283)
+    [Bericht aus der Süddeutschen Zeitung vom 29. September 2015](http://www.sueddeutsche.de/wirtschaft/handel-grausamer-bluttransfer-1.2668283)
 
 [^2]: Animal [Welfare Foundation](http://animal-welfare-foundation.org/)
 

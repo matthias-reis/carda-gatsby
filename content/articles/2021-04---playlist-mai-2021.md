@@ -60,7 +60,7 @@ noch intensiver mit Musik beschäftigen, als ohnehin schon und das ist etwas
 wirklich Schönes. Denn: Musik macht nachhaltig glücklich. Ich glaube, das ist
 sogar wissenschaftlich erwiesen.
 
-### Mit Musik die Sorgen für einen Moment vertreiben
+## Mit Musik die Sorgen für einen Moment vertreiben
 
 Geht es Euch auch so? Wenn ich ein Lied höre, das mir richtig gut gefällt, kann
 ich meine Umgebung und meine Stimmung zumindest für eine Zeit lang vergessen.
@@ -73,7 +73,7 @@ für den Mai steht darum auch unter dem Motto "Hoffnung". Habt viel Spaß beim
 Hören. Unter den Videos und unseren Anmoderationen findet Ihr im Anschluss wie
 gewohnt die praktischen Playlists für iTunes und Spotify.
 
-### Tomahawk – "Sidewinder" vom Album "Tonic Immobility"
+## Tomahawk – "Sidewinder" vom Album "Tonic Immobility"
 
 Valentin:
 
@@ -85,7 +85,7 @@ Valentin:
 
 <YouTube id="Se3ETANP5EI" />
 
-### Last Hyena – "Where's Laika?" vom Album "How Soon Is Mars"
+## Last Hyena – "Where's Laika?" vom Album "How Soon Is Mars"
 
 Diese Gruppe aus Bristol macht wunderschönen Math-Rock. Ihre Musik ist wie für
 mich gemacht. Sie trägt mich davon in eine Welt aus Glas und Wolken. "How Soon
@@ -95,7 +95,7 @@ sondern "Wie lange dauert es, bis ich endlich wieder hinfahren kann?".
 
 <YouTube id="9F7vI526mwY" />
 
-### Malämmar – "Azufre" vom Album "Mazza"
+## Malämmar – "Azufre" vom Album "Mazza"
 
 Malämmar zählen zu meinen liebsten DUNK! Bands. Bekannt sind sie seit sie 2017
 ihren ersten Auftritt auf dem
@@ -108,7 +108,7 @@ guter Einstieg in die Musik in die von mir hochgeschätzte Band.
 
 <YouTube id="yJFmVmKSjkc" />
 
-### Godspeed You! Black Emperor – "Cliffs Gaze / cliffs' gaze at empty waters' rise / Ashes To Sea or Nearer To Thee" vom Album "G_d's Pee At State's End"
+## Godspeed You! Black Emperor – "Cliffs Gaze / cliffs' gaze at empty waters' rise / Ashes To Sea or Nearer To Thee" vom Album "G_d's Pee At State's End"
 
 Matze:
 
@@ -121,7 +121,7 @@ Matze:
 
 <YouTube id="NXti24jocqo" />
 
-### Black Mountain – "Junior's Eye" (Black Sabbath Cover)
+## Black Mountain – "Junior's Eye" (Black Sabbath Cover)
 
 Matze:
 
@@ -135,7 +135,7 @@ Matze:
 
 <YouTube id="wW_eX81iCag" />
 
-### Jo Quail – "Malacoda" (Caspian Cover)
+## Jo Quail – "Malacoda" (Caspian Cover)
 
 Matze:
 
@@ -150,7 +150,7 @@ Matze:
 
 <YouTube id="jLwXm2oICyc" />
 
-### Devil Sold His Soul – "Whitness Marks" vom Album "Loss"
+## Devil Sold His Soul – "Whitness Marks" vom Album "Loss"
 
 Die progressiven Metaller aus London haben sich mit ihrem neuen Album einfach
 mal beim berühmten Label Nuclear Blast Records eingeschrieben. Vermutlich liegt
@@ -161,7 +161,7 @@ Sound ist dabei keineswegs getragen. "Loss" kommt lebensbejahend und stark daher
 
 <YouTube id="zUNHSmSP6FA" />
 
-### Red Fang – "Arrows" vom Album "Arrows"
+## Red Fang – "Arrows" vom Album "Arrows"
 
 Valentin:
 
@@ -171,7 +171,7 @@ Valentin:
 
 <YouTube id="lwQPJ1G2n5o" />
 
-### Genghis Tron – "Dream Weapon" vom Album "Dream Weapon"
+## Genghis Tron – "Dream Weapon" vom Album "Dream Weapon"
 
 Valentin:
 
@@ -183,7 +183,7 @@ Valentin:
 
 <YouTube id="tMS_Mvp8wjw" />
 
-### Warpaint – "Paralysed" vom Tribute-Album "The Problem Of Leisure: A Celebration Of Andy Gill And Gang Of Four"
+## Warpaint – "Paralysed" vom Tribute-Album "The Problem Of Leisure: A Celebration Of Andy Gill And Gang Of Four"
 
 Matze:
 
@@ -199,7 +199,7 @@ Matze:
 
 <YouTube id="bENKa3p77Sk" />
 
-### Moby, Jim James – "Porcelain" (Reprise Version)
+## Moby, Jim James – "Porcelain" (Reprise Version)
 
 Was habe ich Mobys Album "Playing By Heart" hoch und runter gehört. Vor allem
 die Single "Porcelain" begleitete mich lange Zeit. Der komplette Backkatalog des
@@ -212,7 +212,7 @@ mit Künstler⋆innen von Rang und Namen neu umgesetzt hat. Ich freue mich darau
 
 <YouTube id="i_NwqDjsdeQ" />
 
-### Møaa – "Flashlight" vom Album "Euphoric Recall"
+## Møaa – "Flashlight" vom Album "Euphoric Recall"
 
 Die Künstlerin Møaa aka Jancy Buffington macht äußerst liebenswerten von Dark
 Wave angehauchten Dream Pop, der mir gerade richtig gut in den Kram passt. Mit
