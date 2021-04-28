@@ -21,6 +21,7 @@ export default {
       },
     },
     'gatsby-plugin-webpack-size',
+    'gatsby-plugin-feed',
     'gatsby-plugin-react-helmet',
     `gatsby-transformer-yaml`,
     {

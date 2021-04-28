@@ -128,7 +128,7 @@ hochgeladen werden. Der vergebene Name wird benötigt. Dann kann man sie so
 benutzen:
 
 ```
-<Gallery name="Vergebener Name">
+<Gallery name="Vergebener Name" />
 ```
 
 ### Playlisten
