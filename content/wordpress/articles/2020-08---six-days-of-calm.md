@@ -1,15 +1,22 @@
 ---
-title: Six Days Of Calm
-seoTitle: Six Days Of Calm - "The Ocean's Lullaby" - Interview
+date: 2020-08-08T06:18:04.000Z
 slug: six-days-of-calm-interview
 path: /2020/08/six-days-of-calm-interview/
-fileName: 2020-08---six-days-of-calm.md
+type: Artikel
+typeName: Review
+title: Six Days Of Calm
+seoTitle: Six Days Of Calm - "The Ocean's Lullaby" - Interview
+ogTitle: Six Days Of Calm - "The Ocean's Lullaby" - Interview
 description: Das erste Album des Würzburger Post-Rock Projekts "The Ocean's
   Lullaby" soll Ende des Jahres erscheinen. Ich habe mich mit Gründer Mark
   unterhalten.
 excerpt: Das erste Album des Würzburger Post-Rock Projekts "The Ocean's Lullaby"
   soll Ende des Jahres erscheinen. Ich habe mich mit Gründer Mark unterhalten.
-focusKeyword: Six Days Of Calm
+fileName: 2020-08---six-days-of-calm.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_six-days-of-calm__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_six-days-of-calm__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcFBggJ/8QAKhAAAgIBAwIEBgMAAAAAAAAAAQIDBAUABhESIQciMVETFUFhcYEyQsH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAaEQADAAMBAAAAAAAAAAAAAAAAARECITFB/9oADAMBAAIRAxEAPwDLdZ2injdHZHVgQyngqfcHTY8J/Fm3gcnWqbkK3sQ7CN55F6p64PbqVv7AfVTz9iNKQH0/On54P+HWCt7Xt57O3D1NC8y2IvMtEJyzdSkeYkDv9uw99Vjboxw0tjbWMyNZ3xtpJxH2dR2aM+zIfMv7Gq9vHC/MqEquY4o2B5kk7H9aVuwY9070vX7UlnBc42VIPmUbSVpGBHUroEXupUehA9eONO/IS0FV25Fg/wAuAhk7fs6VBtQ53k9tT2K3PlcbTs06l6eKraj+FNGreV09OCNGjQWCjp2zUwmZ2tDbewoMioZR8eQMHUdJVlTjgfXk89jqsb7o7eoVZZcbkbMVgqQYpJy6SHnk8Acn/Pxo0aZ8pPp//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_six-days-of-calm-fb.png__l.jpg
 labels:
   - Bands
   - Ghost City Recordings
@@ -19,17 +26,12 @@ labels:
   - The Ocean's Lullaby
   - Watch Them Fade
   - Würzburg
-type: Artikel
-typeName: Review
-date: 2020-08-08T06:18:04.000Z
+focusKeyword: Six Days Of Calm
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30692"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_six-days-of-calm__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_six-days-of-calm__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcFBggJ/8QAKhAAAgIBAwIEBgMAAAAAAAAAAQIDBAUABhESIQciMVETFUFhcYEyQsH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAaEQADAAMBAAAAAAAAAAAAAAAAARECITFB/9oADAMBAAIRAxEAPwDLdZ2injdHZHVgQyngqfcHTY8J/Fm3gcnWqbkK3sQ7CN55F6p64PbqVv7AfVTz9iNKQH0/On54P+HWCt7Xt57O3D1NC8y2IvMtEJyzdSkeYkDv9uw99Vjboxw0tjbWMyNZ3xtpJxH2dR2aM+zIfMv7Gq9vHC/MqEquY4o2B5kk7H9aVuwY9070vX7UlnBc42VIPmUbSVpGBHUroEXupUehA9eONO/IS0FV25Fg/wAuAhk7fs6VBtQ53k9tT2K3PlcbTs06l6eKraj+FNGreV09OCNGjQWCjp2zUwmZ2tDbewoMioZR8eQMHUdJVlTjgfXk89jqsb7o7eoVZZcbkbMVgqQYpJy6SHnk8Acn/Pxo0aZ8pPp//9k=
 subTitle: "\"The Ocean's Lullaby\""
   
 ---

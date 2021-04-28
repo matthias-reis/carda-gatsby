@@ -1,15 +1,22 @@
 ---
-title: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt
-seoTitle: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt
+date: 2015-10-21T14:26:26.000Z
 slug: diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt
 path: /2015/10/diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt/
-fileName: 2015-10---diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt.md
+type: Artikel
+typeName: Artikel
+title: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt
+seoTitle: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt
+ogTitle: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt
 description: Heute zeige ich Euch meine erste Nähanleitung für ein Minikleid.
   Ihr könnt es ganz leicht nachnähen. Ich bin gespannt, wie es Euch gefällt.
 excerpt: Ich hatte ein Bisschen Zeit und so kam ich dazu, mir meinen ersten
   Schnitt für ein Kleid auszudenken. Ich mag es sehr und möchte Euch daher gerne
   zeigen, wie es entstanden ist.
-focusKeyword: Minikleid
+fileName: 2015-10---diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_10_22358342235_3db7bc9f0f_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_10_22358342235_3db7bc9f0f_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAYI/8QAKhAAAQMDAgUCBwAAAAAAAAAAAQIDBAAFEQYhBxIxYXETFBUiQUNRgcH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIRAxEAPwDmWIJb6gG1ueQcCmJw8tNwTOuiY0Jq5vOxSwptchLawhWchJUdiRtnBx2rE2yQUgAKwK0Ma7e0acKIsaUXUBpbbgxtkHmB+iu/mgC1VmTpqBcJGjBCQ5p+G8zHWy07NRh7mBIT8wVgkfnlPehtq3sMoiThEZmJZCTKbdS6h9wDc4AHLnfHepOGDt1vlpuMa3psyUQ3kuFtbDa1qCk43BRzYJBOU7ZB6HrU1jFunpr+IWZqKB9yNFwlX7Kv5U9E+dSFacUnpVpuSvlIooqpTtTw31RN05qyJJiEqTIPtXm+bAWhZHXwcEeKa+qL3JmpV6uw80UUuov/2Q==
+ogImage: null
 labels:
   - Bigkleid
   - Blogger
@@ -30,17 +37,12 @@ labels:
   - Stoffe
   - U-Boot-Ausschnitt
   - Viskose
-type: Artikel
-typeName: Artikel
-date: 2015-10-21T14:26:26.000Z
+focusKeyword: Minikleid
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "13030"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_10_22358342235_3db7bc9f0f_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_10_22358342235_3db7bc9f0f_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAYI/8QAKhAAAQMDAgUCBwAAAAAAAAAAAQIDBAAFEQYhBxIxYXETFBUiQUNRgcH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIRAxEAPwDmWIJb6gG1ueQcCmJw8tNwTOuiY0Jq5vOxSwptchLawhWchJUdiRtnBx2rE2yQUgAKwK0Ma7e0acKIsaUXUBpbbgxtkHmB+iu/mgC1VmTpqBcJGjBCQ5p+G8zHWy07NRh7mBIT8wVgkfnlPehtq3sMoiThEZmJZCTKbdS6h9wDc4AHLnfHepOGDt1vlpuMa3psyUQ3kuFtbDa1qCk43BRzYJBOU7ZB6HrU1jFunpr+IWZqKB9yNFwlX7Kv5U9E+dSFacUnpVpuSvlIooqpTtTw31RN05qyJJiEqTIPtXm+bAWhZHXwcEeKa+qL3JmpV6uw80UUuov/2Q==
 subTitle: Nähanleitung One Size (34 - 42)
   
 ---

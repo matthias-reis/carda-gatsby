@@ -1,16 +1,23 @@
 ---
-title: Mogwai live @Backstage München
-seoTitle: Mogwai live @ Backstage München - Konzertbericht und Bildergalerie
+date: 2014-03-01T13:04:00.000Z
 slug: mogwai-live-backstage-muenchen
 path: /2014/03/mogwai-live-backstage-muenchen/
-fileName: 2014-03---mogwai-live-backstage-muenchen.md
+type: Galerie
+typeName: Konzertbericht
+title: Mogwai live @Backstage München
+seoTitle: Mogwai live @ Backstage München - Konzertbericht und Bildergalerie
+ogTitle: Mogwai live @ Backstage München - Konzertbericht und Bildergalerie
 description: "Hier sind meine Eindrück vom Mogwai Konzert in München - Nur
   soviel sei gesagt: Die Band war genial, laut und perfekt. Ein rundum
   gelungener Abend."
 excerpt: "Hier sind meine Eindrück vom Mogwai Konzert in München - Nur soviel
   sei gesagt: Die Band war genial, laut und perfekt. Ein rundum gelungener
   Abend."
-focusKeyword: Mogwai
+fileName: 2014-03---mogwai-live-backstage-muenchen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_03_img_0742__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_03_img_0742__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAQQH/8QAJxAAAgEDAwMFAAMAAAAAAAAAAQIDAAQRBRIxEyFRBhQiQWEjkbH/xAAXAQADAQAAAAAAAAAAAAAAAAAEBQYC/8QAJBEAAgICAAQHAAAAAAAAAAAAAQIAAwQREjFh8DJBcZHR4fH/2gAMAwEAAhEDEQA/APDfT66RLps0WpafK7q+73sE3zQEYClD2K5BORgjPc8U1sPTumzrOu5riBwOnNG2HhOeSh7MD458VJ2nVtJlki7eGzjFOoblrfUrSb2xVztlQbdyMxPBXIGD4q7OPbXu1WIDeXf50jDHspKBLEBI75/PvMuNCudJvI54SrBTlJFAZf6I/wBpammN1DjOKr1uriG2JvF/jkTeivlWYHggEcftb7e2e3WWFlLbQcfv3R9RU18JA9Zq/Cq3tRo85L6R6ghsrW+trmwWVruBYllcDMHzDF1GMFiF25+gTil93ebZYhazztDE+5RI3YEHkAdqKKnqMm1vExMVM5Mp9Z19tYuIpfjHFbr0ohuyUXsAuecDGBXJb3hhBBOQQaKKZ49h2YY9znTdPqf/2Q==
+ogImage: null
 labels:
   - Anne Reis
   - Anne Reko
@@ -25,17 +32,12 @@ labels:
   - Mogwai München
   - Mogwai Munich
   - Mogwai Music
-type: Galerie
-typeName: Konzertbericht
-date: 2014-03-01T13:04:00.000Z
+focusKeyword: Mogwai
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "7769"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_03_img_0742__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_03_img_0742__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAQQH/8QAJxAAAgEDAwMFAAMAAAAAAAAAAQIDAAQRBRIxEyFRBhQiQWEjkbH/xAAXAQADAQAAAAAAAAAAAAAAAAAEBQYC/8QAJBEAAgICAAQHAAAAAAAAAAAAAQIAAwQREjFh8DJBcZHR4fH/2gAMAwEAAhEDEQA/APDfT66RLps0WpafK7q+73sE3zQEYClD2K5BORgjPc8U1sPTumzrOu5riBwOnNG2HhOeSh7MD458VJ2nVtJlki7eGzjFOoblrfUrSb2xVztlQbdyMxPBXIGD4q7OPbXu1WIDeXf50jDHspKBLEBI75/PvMuNCudJvI54SrBTlJFAZf6I/wBpammN1DjOKr1uriG2JvF/jkTeivlWYHggEcftb7e2e3WWFlLbQcfv3R9RU18JA9Zq/Cq3tRo85L6R6ghsrW+trmwWVruBYllcDMHzDF1GMFiF25+gTil93ebZYhazztDE+5RI3YEHkAdqKKnqMm1vExMVM5Mp9Z19tYuIpfjHFbr0ohuyUXsAuecDGBXJb3hhBBOQQaKKZ49h2YY9znTdPqf/2Q==
 subTitle: Meine Lieben,
   
 ---

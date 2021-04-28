@@ -1,16 +1,23 @@
 ---
-title: The Ocean Gründer Robin Staps
-seoTitle: The Ocean Gründer Robin Staps im Interview über "Phanerozoic II"
+date: 2020-09-18T07:36:35.000Z
 slug: the-ocean-robin-staps-interview
 path: /2020/09/the-ocean-robin-staps-interview/
-fileName: 2020-09---the-ocean-gruender-robin-staps.md
+type: Artikel
+typeName: Interview
+title: The Ocean Gründer Robin Staps
+seoTitle: The Ocean Gründer Robin Staps im Interview über "Phanerozoic II"
+ogTitle: The Ocean Gründer Robin Staps im Interview über "Phanerozoic II"
 description: The Ocean veröffentlichen am 25. September ihr neues Album
   "Phanerozoic II". Ich habe mich jetzt im Interview mit Gründer Robin Staps
   darüber unterhalten.
 excerpt: English & German - The Ocean veröffentlichen am 25. September ihr neues
   Album "Phanerozoic II". Ich habe mich jetzt im Interview mit Gründer Robin
   Staps darüber unterhalten.
-focusKeyword: The Ocean
+fileName: 2020-09---the-ocean-gruender-robin-staps.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_the-ocean-collective__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_the-ocean-collective__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwME/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURABIhEzFBBhQiBxVRIzJhkaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AxihoLfTem7IbijRy1BadC4A3DJHxOMnPHHbT+2x2yeS1Q089LPHOI5pEaTYUUlso3fn47fxlhz51lmxnqeh1naKF2WNWbOFz48DTQSXekFLcW9wslGUhiJ42FF3qCAO20+fzoLy+pYqquv8A9kZIFiaN6WnjRipJXMignsVwcYznORrxfVH03Q26oijt8ypFJTLUKZ5S+MqWwHx8i3GB41MXSnvF29T1FVcKWNKmaQdRVjESDhBgAdhhl/vXO/XKuukaVslV+nSxLSwhTszCCVUBfH8+edAipap4JQ6BSwx31XWydLslFTmf2/Vk6MkhcIAGG0gseAMADJzxo0aBilY0toMkTxQ3CSsWBImkcM6EfvU5243AZ4z28Y1N3Wn6T3CComjino2EaxEBQxHcAZ/zOjRoP//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_robin-staps-the-ocean.png__l.jpg
 labels:
   - Bands
   - Berlin
@@ -27,17 +34,12 @@ labels:
   - Post-Rock
   - The Ocean
   - The Ocean Collective
-type: Artikel
-typeName: Interview
-date: 2020-09-18T07:36:35.000Z
+focusKeyword: The Ocean
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31364"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_the-ocean-collective__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_the-ocean-collective__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwME/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURABIhEzFBBhQiBxVRIzJhkaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AxihoLfTem7IbijRy1BadC4A3DJHxOMnPHHbT+2x2yeS1Q089LPHOI5pEaTYUUlso3fn47fxlhz51lmxnqeh1naKF2WNWbOFz48DTQSXekFLcW9wslGUhiJ42FF3qCAO20+fzoLy+pYqquv8A9kZIFiaN6WnjRipJXMignsVwcYznORrxfVH03Q26oijt8ypFJTLUKZ5S+MqWwHx8i3GB41MXSnvF29T1FVcKWNKmaQdRVjESDhBgAdhhl/vXO/XKuukaVslV+nSxLSwhTszCCVUBfH8+edAipap4JQ6BSwx31XWydLslFTmf2/Vk6MkhcIAGG0gseAMADJzxo0aBilY0toMkTxQ3CSsWBImkcM6EfvU5243AZ4z28Y1N3Wn6T3CComjino2EaxEBQxHcAZ/zOjRoP//Z
 subTitle: '"Das neue Album ist eine Reise"'
   
 ---

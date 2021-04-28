@@ -1,16 +1,23 @@
 ---
-title: '"Vegan im Job"'
-seoTitle: '"Vegan im Job" - das neue Buch von Patrick Bolk ist da'
+date: 2015-06-26T10:23:33.000Z
 slug: vegan-im-job-das-neue-buch-von-patrick-bolk-ist-da
 path: /2015/06/vegan-im-job-das-neue-buch-von-patrick-bolk-ist-da/
-fileName: 2015-06---vegan-im-job.md
+type: Artikel
+typeName: Rezension
+title: '"Vegan im Job"'
+seoTitle: '"Vegan im Job" - das neue Buch von Patrick Bolk ist da'
+ogTitle: '"Vegan im Job" - das neue Buch von Patrick Bolk ist da'
 description: '"Vegan im Job", das neue Buch von Patrick Bolk macht Lust, neue
   Wege zu gehen. Warum nicht mal selbstgemachte Nussecken oder Salate mit ins
   Büro nehmen?'
 excerpt: Affiliate Link - "Vegan im Job", das neue Buch von Patrick Bolk macht
   Lust, neue Wege zu gehen. Warum nicht mal selbstgemachte Nussecken oder Salate
   mit ins Büro nehmen?
-focusKeyword: Vegan im Job
+fileName: 2015-06---vegan-im-job.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwL/xAAtEAABAwMCBAQGAwAAAAAAAAABAgMEAAUREiEGEzFBFTJhcQcUIiMkUXKBkf/EABgBAQADAQAAAAAAAAAAAAAAAAQBAwUG/8QAIhEAAgIBAwQDAAAAAAAAAAAAAQIAAxEEEjEiMkFRYYGh/9oADAMBAAIRAxEAPwDNLO34o84w+4pFvh/ZELJHM+kAKUUkHJwfQHFWfCrbzdulCSy+iPGXqYac1OvKAWE6dZA1JxnHqM1w3w3DRITdIdwXGD6Uqfi5CkuZ6gdx+9u9XsTwBsoRHS0ppKBhWVk5BwBv6d65/U3WLYRkY+fuaVS7cHHUPMx6/wACE5e73mKxIUlLcptx6YI6dIA1JSMZWVA4wMEH1qNkW8v26ZJYtK18pYcdf5hU202tOwKdt+4V/taB8X4seBxnI+YZWhLrLL7aE7EJKU5Kc532UMHvUXcJpnXJabWzNkQWUDlNSkZPLA8rgRgFIUdid+lKpZuTAXWGy1nPs/pJjSJxIWStxcZSykEJw7p7e29MWOPxH06barI6fkDHX+FFFKfT12d4zFl2ii+8Vzb1xA7eUBDb7jIZUmQA/sBjPQY9sVPCVcGXgGrg62S2GNSAEnlk+XP9+9FFVcNgSVrVhuM//9k=
+ogImage: null
 labels:
   - Bücher & Filme
   - Ernährung & Gesundheit
@@ -20,17 +27,12 @@ labels:
   - Vegan im Job
   - vegane Rezepte
   - veganes Kochbuch
-type: Artikel
-typeName: Rezension
-date: 2015-06-26T10:23:33.000Z
+focusKeyword: Vegan im Job
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "24492"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwL/xAAtEAABAwMCBAQGAwAAAAAAAAABAgMEAAUREiEGEzFBFTJhcQcUIiMkUXKBkf/EABgBAQADAQAAAAAAAAAAAAAAAAQBAwUG/8QAIhEAAgIBAwQDAAAAAAAAAAAAAQIAAxEEEjEiMkFRYYGh/9oADAMBAAIRAxEAPwDNLO34o84w+4pFvh/ZELJHM+kAKUUkHJwfQHFWfCrbzdulCSy+iPGXqYac1OvKAWE6dZA1JxnHqM1w3w3DRITdIdwXGD6Uqfi5CkuZ6gdx+9u9XsTwBsoRHS0ppKBhWVk5BwBv6d65/U3WLYRkY+fuaVS7cHHUPMx6/wACE5e73mKxIUlLcptx6YI6dIA1JSMZWVA4wMEH1qNkW8v26ZJYtK18pYcdf5hU202tOwKdt+4V/taB8X4seBxnI+YZWhLrLL7aE7EJKU5Kc532UMHvUXcJpnXJabWzNkQWUDlNSkZPLA8rgRgFIUdid+lKpZuTAXWGy1nPs/pJjSJxIWStxcZSykEJw7p7e29MWOPxH06barI6fkDHX+FFFKfT12d4zFl2ii+8Vzb1xA7eUBDb7jIZUmQA/sBjPQY9sVPCVcGXgGrg62S2GNSAEnlk+XP9+9FFVcNgSVrVhuM//9k=
 subTitle: Das neue Buch von Patrick Bolk
   
 ---

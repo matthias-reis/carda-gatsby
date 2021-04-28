@@ -1,32 +1,34 @@
 ---
-title: Das müssen wir für das Klima tun
-seoTitle: Planet Classroom – Bildung für alle – Das müssen wir für das Klima tun
+date: 2021-03-19T06:30:37.000Z
 slug: planet-classroom
 path: /2021/03/planet-classroom/
-fileName: 2021-03---das-muessen-wir-fuer-das-klima-tun.md
+type: Artikel
+typeName: Artikel
+title: Das müssen wir für das Klima tun
+seoTitle: Planet Classroom – Bildung für alle – Das müssen wir für das Klima tun
+ogTitle: Planet Classroom – Bildung für alle – Das müssen wir für das Klima tun
 description: "Planet Classroom bringt Künstler⋆innen und Wissenschaftler⋆innen
   aus der ganzen Welt zusammen. Mit einem gemeinsamen Ziel: Bildung."
 excerpt: "Planet Classroom bringt Musiker⋆innen, Künstler⋆innen,
   Filmemacher⋆innen und Wissenschaftler⋆innen aus der ganzen Welt zusammen. Ihre
   gemeinsamen Ziele: Bildung und Unterhaltung für Jugendliche."
-focusKeyword: Planet Classroom
+fileName: 2021-03---das-muessen-wir-fuer-das-klima-tun.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_planet-classroom-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_planet-classroom-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgT/xAApEAACAgIBAwQBBAMAAAAAAAABAgMEBRESAAYhExQiMVEVJDNhQUJx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAKBEAAgAFAwALAAAAAAAAAAAAAQIAAwQRITFRYRITIlJxgaHR4fDx/9oADAMBAAIRAxEAPwCewfbMmKzd+9mst27B/HxrwVpCHdiw2qenpVIDeQNHQ6ddyVzdpPL+o4fEWolEcUwRklPADmIvjzEbbA+gSPGvB6gJ7kHbsu/f5hknhMfr2YkPzAIDADlrQ2NEj68dU8GTxLpicpjcZBWquY/cXKmvcyllUSg8yVLFtkEAaLa1+csxS/bGbaW9o20idbMEtiAGvknjwxxrfiG3ZuDyE7VYchNg/WyEybqvza4YTvSo4IVVcI348HR+z13TJH23K4abK4y/xsWv28YVRGp+CkA6YhWIHjwNgHXjqEy97MYrNVsfjK2VjvPJtY2Cqqxf6En6DbYDxoaYgffTirB7+lkr3dQjtSxIY4kll/j46BUcmJI2Rv8A71RHYr0n129INTTLKnmWjAje+N8H7mE3b2WytmvkK0IS4FliisCOuTtSD4AIZdg8wWI4/wBHfVZQwlFqdGhceWtSlg9b1bPx4zFSyc2ICgM2gFGt/wCD+Do6XcHnBIBUmMZftfBx38VNFkLtgRVAY61ScFeSnmeRUHiuxxIPkePHSNMJayTSxGvex1FAvqyzS+u0zKNAAsFBY8Av9nW9dHR1KqmNLVnXX8hUSLMdUbQ/Mf/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_planet-classroom-fb.png__l.jpg
 labels:
   - Bildung
   - Eric Simon
   - Klima & Umweltschutz
   - Klimaschutz
   - Planet Classroom
-type: Artikel
-typeName: Artikel
-date: 2021-03-19T06:30:37.000Z
+focusKeyword: Planet Classroom
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33479"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_planet-classroom-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_planet-classroom-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgT/xAApEAACAgIBAwQBBAMAAAAAAAABAgMEBRESAAYhExQiMVEVJDNhQUJx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAKBEAAgAFAwALAAAAAAAAAAAAAQIAAwQRITFRYRITIlJxgaHR4fDx/9oADAMBAAIRAxEAPwCewfbMmKzd+9mst27B/HxrwVpCHdiw2qenpVIDeQNHQ6ddyVzdpPL+o4fEWolEcUwRklPADmIvjzEbbA+gSPGvB6gJ7kHbsu/f5hknhMfr2YkPzAIDADlrQ2NEj68dU8GTxLpicpjcZBWquY/cXKmvcyllUSg8yVLFtkEAaLa1+csxS/bGbaW9o20idbMEtiAGvknjwxxrfiG3ZuDyE7VYchNg/WyEybqvza4YTvSo4IVVcI348HR+z13TJH23K4abK4y/xsWv28YVRGp+CkA6YhWIHjwNgHXjqEy97MYrNVsfjK2VjvPJtY2Cqqxf6En6DbYDxoaYgffTirB7+lkr3dQjtSxIY4kll/j46BUcmJI2Rv8A71RHYr0n129INTTLKnmWjAje+N8H7mE3b2WytmvkK0IS4FliisCOuTtSD4AIZdg8wWI4/wBHfVZQwlFqdGhceWtSlg9b1bPx4zFSyc2ICgM2gFGt/wCD+Do6XcHnBIBUmMZftfBx38VNFkLtgRVAY61ScFeSnmeRUHiuxxIPkePHSNMJayTSxGvex1FAvqyzS+u0zKNAAsFBY8Av9nW9dHR1KqmNLVnXX8hUSLMdUbQ/Mf/Z
 subTitle: Planet Classroom – Bildung für alle
   
 ---

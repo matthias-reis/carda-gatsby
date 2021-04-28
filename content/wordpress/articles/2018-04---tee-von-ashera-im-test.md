@@ -1,15 +1,22 @@
 ---
-title: Tee von Ashéra im Test
-seoTitle: Tee von Ashéra - "Juwel der klaren Augenkraft" ist gut für die Augen
+date: 2018-04-21T11:55:15.000Z
 slug: tee-von-ashera-gut-fuer-die-augen
 path: /2018/04/tee-von-ashera-gut-fuer-die-augen/
-fileName: 2018-04---tee-von-ashera-im-test.md
+type: Artikel
+typeName: Produkttest
+title: Tee von Ashéra im Test
+seoTitle: Tee von Ashéra - "Juwel der klaren Augenkraft" ist gut für die Augen
+ogTitle: Tee von Ashéra - "Juwel der klaren Augenkraft" ist gut für die Augen
 description: Tee von Ashéra wollte ich schon immer mal testen. Jetzt hatte ich
   die Gelegenheit und Ihr könnt sie auch bekommen! Wie, könnt Ihr hier erfahren.
 excerpt: Werbung - Tee von Ashéra wollte ich schon immer mal testen. Jetzt hatte
   ich die Gelegenheit und Ihr könnt sie auch bekommen! Wie, könnt Ihr hier
   erfahren.
-focusKeyword: Tee von Ashéra
+fileName: 2018-04---tee-von-ashera-im-test.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41045840562_186eb626e7_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41045840562_186eb626e7_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAApEAABBAIBAQYHAAAAAAAAAAABAgMEEQAFIRIHExQiMWEGMkFCUZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAC/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAIQMxBBESE//aAAwDAQACEQMRAD8Am2p06tpNjwmXENuSFhAUokAH3I5F5pN72dbTWQHXm1x0oQgqsSVrJoX6VmQ0G68PsIT4TXdPtr/SheV3e7hqWxPfi7MOMNKQ24FR1IKj1BIIJURVC7A59sxlT0exFwcj5gpVyUbnVSdUiKqWtt0SEBYCDZTd/NwKPH9xM7HDralpTVfnLp23TEn4Zd8OtC1PvISnp6PMOq7BHJyEvSCzH7uufqcSxuEyhanHCdUhfFY3alvDzBV8fdzhhkCQahMitTCDq+7AqzQNWfTFElwukgiqOGGW5oAChP/Z
+ogImage: null
 labels:
   - Ashera
   - Bambus
@@ -26,17 +33,12 @@ labels:
   - Traditionelle Chinesische Medizin
   - vegane Ernährung
   - Yin Yang
-type: Artikel
-typeName: Produkttest
-date: 2018-04-21T11:55:15.000Z
+focusKeyword: Tee von Ashéra
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "20558"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41045840562_186eb626e7_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41045840562_186eb626e7_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAApEAABBAIBAQYHAAAAAAAAAAABAgMEEQAFIRIHExQiMWEGMkFCUZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAC/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAIQMxBBESE//aAAwDAQACEQMRAD8Am2p06tpNjwmXENuSFhAUokAH3I5F5pN72dbTWQHXm1x0oQgqsSVrJoX6VmQ0G68PsIT4TXdPtr/SheV3e7hqWxPfi7MOMNKQ24FR1IKj1BIIJURVC7A59sxlT0exFwcj5gpVyUbnVSdUiKqWtt0SEBYCDZTd/NwKPH9xM7HDralpTVfnLp23TEn4Zd8OtC1PvISnp6PMOq7BHJyEvSCzH7uufqcSxuEyhanHCdUhfFY3alvDzBV8fdzhhkCQahMitTCDq+7AqzQNWfTFElwukgiqOGGW5oAChP/Z
 subTitle: Juwel der klaren Augenkraft
   
 ---

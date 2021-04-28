@@ -1,14 +1,21 @@
 ---
-title: 18 Schweinswale sterben bei Minensprengung
-seoTitle: 18 Schweinswale bei Minensprengung in der Ostsee getötet
+date: 2019-11-24T15:57:03.000Z
 slug: 18-schweinswale-bei-minensprengung-in-der-ostsee-getoetet
 path: /2019/11/18-schweinswale-bei-minensprengung-in-der-ostsee-getoetet/
-fileName: 2019-11---18-schweinswale-sterben-bei-minensprengung.md
+type: Artikel
+typeName: Artikel
+title: 18 Schweinswale sterben bei Minensprengung
+seoTitle: 18 Schweinswale bei Minensprengung in der Ostsee getötet
+ogTitle: 18 Schweinswale bei Minensprengung in der Ostsee getötet
 description: Die deutsche Marine hat bei einer Übung auf der Ostsee 39 Seeminen
   gesprengt. Dabei haben 18 Schweinswale ihr Leben verloren.
 excerpt: Die deutsche Marine hat vor einer Übung auf der Ostsee 39 Seeminen
   gesprengt. Dabei haben 18 Schweinswale ihr Leben verloren.
-focusKeyword: Schweinswale
+fileName: 2019-11---18-schweinswale-sterben-bei-minensprengung.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_sprengung-ostsee-picture-alliance-dpa__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_sprengung-ostsee-picture-alliance-dpa__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAIDBQYEBwj/xAAtEAABAwMCBAILAAAAAAAAAAABAgMEAAURBjESExQhQYEiMlFSU1RhkZKTwf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQQF/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAESESA//aAAwDAQACEQMRAD8As7TtQuvr49ZtMvSIqVc5a0tJcSM8rJ7qPkD54ppq6RfmW/vSL9FVqDR+okRGn5Co7LXIDSSQ68pXqBQ8eEbbVqk0LMpKtmhLDarqi6W9mUlJbLieItndJ9lOOu/WoqzxYtrsZhyrpHFwiNcbsdS8OtpUcoCgO2SCP5WO7c4x2ktfmKFW6FiEy8mpzu1cZvEB1cj9hq7aPvlya0/d4rcx0MyVNc0ZypXASpPpbjuAex7+NFFNfRFJhkjrW+XG7IlOTpSlrjJaQ0pCQ2UjA90DO53rXL1xmhJPVyN/iGiih88GSW07P//Z
+ogImage: null
 labels:
   - Femarn
   - Femarnbelt
@@ -16,17 +23,12 @@ labels:
   - Ostsee
   - Schweinswale
   - Tierrechte
-type: Artikel
-typeName: Artikel
-date: 2019-11-24T15:57:03.000Z
+focusKeyword: Schweinswale
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "26963"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_sprengung-ostsee-picture-alliance-dpa__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_sprengung-ostsee-picture-alliance-dpa__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAIDBQYEBwj/xAAtEAABAwMCBAILAAAAAAAAAAABAgMEAAURBjESExQhQYEiMlFSU1RhkZKTwf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQQF/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAESESA//aAAwDAQACEQMRAD8As7TtQuvr49ZtMvSIqVc5a0tJcSM8rJ7qPkD54ppq6RfmW/vSL9FVqDR+okRGn5Co7LXIDSSQ68pXqBQ8eEbbVqk0LMpKtmhLDarqi6W9mUlJbLieItndJ9lOOu/WoqzxYtrsZhyrpHFwiNcbsdS8OtpUcoCgO2SCP5WO7c4x2ktfmKFW6FiEy8mpzu1cZvEB1cj9hq7aPvlya0/d4rcx0MyVNc0ZypXASpPpbjuAex7+NFFNfRFJhkjrW+XG7IlOTpSlrjJaQ0pCQ2UjA90DO53rXL1xmhJPVyN/iGiih88GSW07P//Z
 subTitle: <strong>Rücksichtsloses</strong> Militärmanöver in der Ostsee
   
 ---

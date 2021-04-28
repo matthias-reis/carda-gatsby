@@ -1,15 +1,22 @@
 ---
-title: Veganer Lieferdienst in Augsburg
-seoTitle: Veganer Lieferdienst in Augsburg - Ihlani vom Rastaround im Interview
+date: 2014-09-07T06:58:09.000Z
 slug: veganer-lieferdienst-in-augsburg
 path: /2014/09/veganer-lieferdienst-in-augsburg/
-fileName: 2014-09---veganer-lieferdienst-in-augsburg.md
+type: Artikel
+typeName: Interview
+title: Veganer Lieferdienst in Augsburg
+seoTitle: Veganer Lieferdienst in Augsburg - Ihlani vom Rastaround im Interview
+ogTitle: Veganer Lieferdienst in Augsburg - Ihlani vom Rastaround im Interview
 description: Veganer Lieferdienst in Augsburg Ihlanis Rastaround - von der
   Lasagne, über den Döner und den Falafelspieß bis zum Tiramisu ist alles vegan.
 excerpt: Veganer Lieferdienst in Augsburg Ihlanis Rastaround - von der Lasagne,
   über den Döner und den Falafelspieß bis zum Tiramisu ist bei Ihlani alles
   vegan.
-focusKeyword: Veganer Lieferdienst in Augsburg
+fileName: 2014-09---veganer-lieferdienst-in-augsburg.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_ihlanis-rastaround-bild-06-380x250__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_ihlanis-rastaround-bild-06-380x250__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAgFBwMECf/EACwQAAEDAwIEBQQDAAAAAAAAAAECAwQABREGIQcSUWETIkFxkQgUFTFCwfD/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAJhEAAQMDAQgDAAAAAAAAAAAAAQACMQMEERIFExQhQXGRsUKy8P/aAAwDAQACEQMRAD8AiNLx7TCZYaukuSyqSlKErQ4UuttqQMlB3wkKQnPv3qyojunWIEWYJE9RtzTrbZclKKXE7kBW/nGOu3pVI8JtPi8WO+zH5Tbw/FSVOhQUpxlYGGcE+oKVL+KkLhBuCbLGZcnIkwG4qZ7xQyGi7kczfPvuNirGwyM7mg16QNQs1RPjPpO2Nw3dEEdcDuTgDysvA+U3duIcCUxHRHakOPuqjNnyNZcUtKR2Axj2psRylRO4J32/3eudljvEy0T2JtrmPwpzJ5kPNHBSf79qefhhqYau0ParwpafuXmvCkhIwEvIPKvbuRnHRQre0aJbh4iEraukGZS2aAnrs/CzVkq3DwJgMdKngclSfECeXHTlURjua0bvd5SNOyHArzvT0wCejTDLRQPlRooqvbMa+6fqHyH1Ch1oaO/sKsgoOOuLCeUKWrboM/qmQ+kK5Oqa1LalgKitKZlNg/xWrKFY9wE/FFFAvgOHd+6qpb8qgX//2Q==
+ogImage: null
 labels:
   - Augsburg
   - Ihlani
@@ -22,17 +29,12 @@ labels:
   - vegane Lokale
   - veganer Lieferservice
   - veganes Restaurant
-type: Artikel
-typeName: Interview
-date: 2014-09-07T06:58:09.000Z
+focusKeyword: Veganer Lieferdienst in Augsburg
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "24317"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_ihlanis-rastaround-bild-06-380x250__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_ihlanis-rastaround-bild-06-380x250__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAgFBwMECf/EACwQAAEDAwIEBQQDAAAAAAAAAAECAwQABREGIQcSUWETIkFxkQgUFTFCwfD/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAJhEAAQMDAQgDAAAAAAAAAAAAAQACMQMEERIFExQhQXGRsUKy8P/aAAwDAQACEQMRAD8AiNLx7TCZYaukuSyqSlKErQ4UuttqQMlB3wkKQnPv3qyojunWIEWYJE9RtzTrbZclKKXE7kBW/nGOu3pVI8JtPi8WO+zH5Tbw/FSVOhQUpxlYGGcE+oKVL+KkLhBuCbLGZcnIkwG4qZ7xQyGi7kczfPvuNirGwyM7mg16QNQs1RPjPpO2Nw3dEEdcDuTgDysvA+U3duIcCUxHRHakOPuqjNnyNZcUtKR2Axj2psRylRO4J32/3eudljvEy0T2JtrmPwpzJ5kPNHBSf79qefhhqYau0ParwpafuXmvCkhIwEvIPKvbuRnHRQre0aJbh4iEraukGZS2aAnrs/CzVkq3DwJgMdKngclSfECeXHTlURjua0bvd5SNOyHArzvT0wCejTDLRQPlRooqvbMa+6fqHyH1Ch1oaO/sKsgoOOuLCeUKWrboM/qmQ+kK5Oqa1LalgKitKZlNg/xWrKFY9wE/FFFAvgOHd+6qpb8qgX//2Q==
 subTitle: Ihlanis Rastaround
   
 ---

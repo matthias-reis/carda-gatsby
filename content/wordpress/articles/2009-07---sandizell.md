@@ -1,14 +1,21 @@
 ---
-title: Sandizell
-seoTitle: Sandizell - Wasserschloss in Altbayern
+date: 2009-07-25T08:01:41.000Z
 slug: sandizell
 path: /2009/07/sandizell/
-fileName: 2009-07---sandizell.md
+type: Artikel
+typeName: Artikel
+title: Sandizell
+seoTitle: Sandizell - Wasserschloss in Altbayern
+ogTitle: Sandizell - Wasserschloss in Altbayern
 description: Sandizell wurde urkundlich erstmals 916 als Wirtschaftshof der
   Benediktinerinnen aus Neuburg an der Donau erwähnt.
 excerpt: Sandizell wurde urkundlich erstmals 916 als Wirtschaftshof der
   Benediktinerinnen aus Neuburg an der Donau erwähnt.
-focusKeyword: Sandizell
+fileName: 2009-07---sandizell.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_07_11531444904_257d11690b_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_07_11531444904_257d11690b_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQYD/8QAKBAAAgECBgEDBQEAAAAAAAAAAQIDBBEABQYSITFRBxRBFSIjMmGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AGd6maXoc8yGoFFmEZlSjEkcEDpAH3WUyyv8R2Vrn+nnCs9Svqmn9E6ehzOqp53r0k3TSGQqkSJGVR9wJBBcAE/HeG1DrXLqqjMggyudXo44yy0zEF912U2v9gvcDz4wsvXeR9RV+nocgX8xlq5jBTfiL2EREkm7g9G565tySMAvMm9v7msqTDBJtp3BiqvujDMhszAAqQCbgeQLi+MTW5pWNJIryoUmQiSRIxebi37MCeuOLDgYuKiqzGiaWCvpdksqkAGJCzrcc7h8EdH5viq1NS1DMlTMSYWiV0DMNyJwNvF7WuARe4wDD+vkMCaGmMwJLMQQjDnjYDYHnvEX1dXwwLHRhaNFfdamJS/BWxt2Ou/AwYMBmswzOvrZQ1bmFZVDgMk0t1YeCoAFj/B/vOOCaimoxtjoqFk2bFRoyQi+FsbjrzgwYD//2Q==
+ogImage: null
 labels:
   - Altbayern
   - Ausflug
@@ -16,17 +23,12 @@ labels:
   - Reiseführer Bayern
   - Sandizell
   - Wasserschloss
-type: Artikel
-typeName: Artikel
-date: 2009-07-25T08:01:41.000Z
+focusKeyword: Sandizell
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11392"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_07_11531444904_257d11690b_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_07_11531444904_257d11690b_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQYD/8QAKBAAAgECBgEDBQEAAAAAAAAAAQIDBBEABQYSITFRBxRBFSIjMmGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AGd6maXoc8yGoFFmEZlSjEkcEDpAH3WUyyv8R2Vrn+nnCs9Svqmn9E6ehzOqp53r0k3TSGQqkSJGVR9wJBBcAE/HeG1DrXLqqjMggyudXo44yy0zEF912U2v9gvcDz4wsvXeR9RV+nocgX8xlq5jBTfiL2EREkm7g9G565tySMAvMm9v7msqTDBJtp3BiqvujDMhszAAqQCbgeQLi+MTW5pWNJIryoUmQiSRIxebi37MCeuOLDgYuKiqzGiaWCvpdksqkAGJCzrcc7h8EdH5viq1NS1DMlTMSYWiV0DMNyJwNvF7WuARe4wDD+vkMCaGmMwJLMQQjDnjYDYHnvEX1dXwwLHRhaNFfdamJS/BWxt2Ou/AwYMBmswzOvrZQ1bmFZVDgMk0t1YeCoAFj/B/vOOCaimoxtjoqFk2bFRoyQi+FsbjrzgwYD//2Q==
 subTitle: Wasserschloss in Altbayern
   
 ---

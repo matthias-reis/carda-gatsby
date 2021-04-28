@@ -1,16 +1,23 @@
 ---
-title: Lovely Day Botanicals Gründerin Josy
-seoTitle: Lovely Day Botanicals Gründerin Josy im Interview - Kosmetik mit Liebe
+date: 2016-09-27T09:09:51.000Z
 slug: interview-lovely-day-botanicals
 path: /2016/09/interview-lovely-day-botanicals/
-fileName: 2016-09---lovely-day-botanicals-gruenderin-josy.md
+type: Artikel
+typeName: Interview
+title: Lovely Day Botanicals Gründerin Josy
+seoTitle: Lovely Day Botanicals Gründerin Josy im Interview - Kosmetik mit Liebe
+ogTitle: Lovely Day Botanicals Gründerin Josy im Interview - Liebe für vegane Kosmetik
 description: Josy von Lovely Day Botanicals ist eine ganz besondere Frau. Sie
   stellt Kosmetik her, setzt sich gegen Tierquälerei ein und hat einen tollen
   Musikgeschmack.
 excerpt: Josy von Lovely Day Botanicals ist eine ganz besondere Frau. Sie stellt
   Kosmetik her, setzt sich gegen Tierquälerei ein und hat obendrein einen
   wundervollen Musikgeschmack - Ein Interview
-focusKeyword: Lovely Day Botanicals
+fileName: 2016-09---lovely-day-botanicals-gruenderin-josy.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_09_Beautyblog_Beauty_Blog_Blogger_bare-minds_Elina_Neumann_Lovely-Days-Botanicals_5-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_09_Beautyblog_Beauty_Blog_Blogger_bare-minds_Elina_Neumann_Lovely-Days-Botanicals_5-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAT/xAArEAABBAEDAgUDBQAAAAAAAAABAgMEBREAEiEGEwciMUFhFRdRI0JDcZH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUBAv/EAB8RAAICAQQDAAAAAAAAAAAAAAECABESAwQhMRNBYf/aAAwDAQACEQMRAD8AoPh5LbFkWJqITMFGyKICYrBHc243lYTvU4doJ5x5jx6apiE1EiKWY0SNsdTkJDACT8+mNY9ouqWqDxesZVxJbcqmbB5xKlp3oGE/pkBPwcAj2UfXWt6mygPVbTyYzjW8t7Slgnb3SCnHGcDeMnAAwScY0JWYNTH7CsFxtRz1Emxq+k12TQai1KXJveQ1GciNpU+pogLW2CMkAA5xwfX+266ho+21gYrDIlJqnS0raAQsNHac+3ONT7qPxC6PanIgXbNnCmNWn05oraQhbZP87ahyGxwCU/nGCNUCzlI+h2dMxIcKmISmXHsJ3o3IUEqP7d2BkDHPGmCwNCaxHixXuY/s5Ums65n3NXIXCmB3tp7ISEpSEJTgAg+wH+aunhR4hXE2HVxJrcOQ4CGlSnGz3nMA+ZRCsFXzjRo10wAuKKzEgE+509YdA03VM1ibaiQZERZcQW1hO45HCuORxppvrhb9TaoXEi+ZguKISrKlAHaTzzjAxn8aNGpm2JPBlTXUY3P/2Q==
+ogImage: null
 labels:
   - Berlin
   - Fair Fashion & Beauty
@@ -24,18 +31,13 @@ labels:
   - vegane Kosmetikprodukte
   - veganes Hyaloron
   - Wellness
-type: Artikel
-typeName: Interview
-date: 2016-09-27T09:09:51.000Z
+focusKeyword: Lovely Day Botanicals
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "15227"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_09_Beautyblog_Beauty_Blog_Blogger_bare-minds_Elina_Neumann_Lovely-Days-Botanicals_5-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_09_Beautyblog_Beauty_Blog_Blogger_bare-minds_Elina_Neumann_Lovely-Days-Botanicals_5-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAT/xAArEAABBAEDAgUDBQAAAAAAAAABAgMEBREAEiEGEwciMUFhFRdRI0JDcZH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUBAv/EAB8RAAICAQQDAAAAAAAAAAAAAAECABESAwQhMRNBYf/aAAwDAQACEQMRAD8AoPh5LbFkWJqITMFGyKICYrBHc243lYTvU4doJ5x5jx6apiE1EiKWY0SNsdTkJDACT8+mNY9ouqWqDxesZVxJbcqmbB5xKlp3oGE/pkBPwcAj2UfXWt6mygPVbTyYzjW8t7Slgnb3SCnHGcDeMnAAwScY0JWYNTH7CsFxtRz1Emxq+k12TQai1KXJveQ1GciNpU+pogLW2CMkAA5xwfX+266ho+21gYrDIlJqnS0raAQsNHac+3ONT7qPxC6PanIgXbNnCmNWn05oraQhbZP87ahyGxwCU/nGCNUCzlI+h2dMxIcKmISmXHsJ3o3IUEqP7d2BkDHPGmCwNCaxHixXuY/s5Ums65n3NXIXCmB3tp7ISEpSEJTgAg+wH+aunhR4hXE2HVxJrcOQ4CGlSnGz3nMA+ZRCsFXzjRo10wAuKKzEgE+509YdA03VM1ibaiQZERZcQW1hO45HCuORxppvrhb9TaoXEi+ZguKISrKlAHaTzzjAxn8aNGpm2JPBlTXUY3P/2Q==
 subTitle: „Don't be Eye Candy, be Soul Food“
   
 ---

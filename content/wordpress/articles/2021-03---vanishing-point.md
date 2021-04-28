@@ -1,9 +1,12 @@
 ---
-title: '"Vanishing Point"'
-seoTitle: Dirge veröffentlichen bisher unbekanntes Material auf "Vanishing Point"
+date: 2021-03-31T11:43:33.000Z
 slug: dirge-vanishing-point
 path: /2021/03/dirge-vanishing-point/
-fileName: 2021-03---vanishing-point.md
+type: Artikel
+typeName: Review
+title: '"Vanishing Point"'
+seoTitle: Dirge veröffentlichen bisher unbekanntes Material auf "Vanishing Point"
+ogTitle: Dirge veröffentlichen bisher unbekanntes Material auf "Vanishing Point"
 description: Am 26. März erschien auf Division Records das neue Dirge Album
   "Vanishing Point". Die Platte besteht aus bisher unveröffentlichtem Material.
 excerpt: Am 26. März erschien auf Division Records das neue Dirge Album
@@ -11,7 +14,11 @@ excerpt: Am 26. März erschien auf Division Records das neue Dirge Album
   unveröffentlichten Materials. Beim Hören könnt Ihr die Entwicklung der Band
   von ihren in den 1990er Jahren liegenden Industrial Wurzeln bis zu ihrer
   andauernden Post-Metal Phase.
-focusKeyword: Dirge
+fileName: 2021-03---vanishing-point.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_dirge__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_dirge__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCAwQFB//EACcQAAEDBAEDBAMBAAAAAAAAAAECAxEABAUhEgYTMQcUIkEyUWGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUE/8QAHhEAAgIBBQEAAAAAAAAAAAAAAQIAAxIEESIxUSH/2gAMAwEAAhEDEQA/AGP0dxQYwLDjiUTPNopbKClskkCFfICTPmJp7zi2zbFkH8gdjYE1rvT+ybtMKy00koQ22lISU8Y0DEAmNzqszJlJfcAgQeX8+qg2uXqLeyuqhbdvJdiWimxUhrR0CT9aAJil7rfD++w1y+hrg40kgjYU63vklRT8ik+eI2SBTJiMeUXHv1XT4Kme0WAsdqOUhUR+X1M+Knn1Mt426U8shvtqmVcREUwXCuHlvZ8iJ6adUWeQxlqht1gP8CoMEIbKkpUElQbRptIPxAO9T91T0pkOpbnqDOpzzKU2olTJKQOKuUJSgjyOPmiih1PBsR1NFHJST3Og424i2S28pJVwB/h1BH+Glbrnqa0sLG4tu8S6GFOKACvgjxJUnY/QUJgkSKKKVySAvsGtRkTP/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_dirge-fb.png__l.jpg
 labels:
   - Bands
   - Dirge
@@ -22,17 +29,12 @@ labels:
   - Post-Rock
   - Raphaël Bovey
   - Vanishing Point
-type: Artikel
-typeName: Review
-date: 2021-03-31T11:43:33.000Z
+focusKeyword: Dirge
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33658"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_dirge__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_dirge__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCAwQFB//EACcQAAEDBAEDBAMBAAAAAAAAAAECAxEABAUhEgYTMQcUIkEyUWGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUE/8QAHhEAAgIBBQEAAAAAAAAAAAAAAQIAAxIEESIxUSH/2gAMAwEAAhEDEQA/AGP0dxQYwLDjiUTPNopbKClskkCFfICTPmJp7zi2zbFkH8gdjYE1rvT+ybtMKy00koQ22lISU8Y0DEAmNzqszJlJfcAgQeX8+qg2uXqLeyuqhbdvJdiWimxUhrR0CT9aAJil7rfD++w1y+hrg40kgjYU63vklRT8ik+eI2SBTJiMeUXHv1XT4Kme0WAsdqOUhUR+X1M+Knn1Mt426U8shvtqmVcREUwXCuHlvZ8iJ6adUWeQxlqht1gP8CoMEIbKkpUElQbRptIPxAO9T91T0pkOpbnqDOpzzKU2olTJKQOKuUJSgjyOPmiih1PBsR1NFHJST3Og424i2S28pJVwB/h1BH+Glbrnqa0sLG4tu8S6GFOKACvgjxJUnY/QUJgkSKKKVySAvsGtRkTP/9k=
 subTitle: Neues Material von Dirge
   
 ---

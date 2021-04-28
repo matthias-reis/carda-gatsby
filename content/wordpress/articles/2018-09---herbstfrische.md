@@ -1,15 +1,22 @@
 ---
-title: Herbstfrische
-seoTitle: Herbstfrische - Neue Bio-Getränke aus der Naturkostsafterei Voelkel
+date: 2018-09-13T13:14:35.000Z
 slug: voelkel-naturkostsafterei
 path: /2018/09/voelkel-naturkostsafterei/
-fileName: 2018-09---herbstfrische.md
+type: Artikel
+typeName: Produkttest
+title: Herbstfrische
+seoTitle: Herbstfrische - Neue Bio-Getränke aus der Naturkostsafterei Voelkel
+ogTitle: Herbstfrische - Neue Bio-Getränke aus der Naturkostsafterei Voelkel
 description: "Vor Kurzem kündigte sich ein neuer Produkttest bei mir an, auf den
   ich mich besonders gefreut habe: Das neuen Bio-Getränkesortiment von Voelkel."
 excerpt: "Werbung - Vor Kurzem kündigte sich ein neuer Produkttest bei mir an,
   auf den ich mich besonders gefreut habe: Das neuen Bio-Getränkesortiment von
   Voelkel wollte probiert werden."
-focusKeyword: Voelkel
+fileName: 2018-09---herbstfrische.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44604727352_395fe0405d_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44604727352_395fe0405d_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAaACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFAgT/xAAtEAACAQIFAgQFBQAAAAAAAAABAgMEEQAFBhIhEzEHFCJBI1FhcZFCUoGCof/EABcBAAMBAAAAAAAAAAAAAAAAAAEEBQP/xAAnEQABAwIEBQUAAAAAAAAAAAABAgMRACEEBRJRExQxQWGBobHR8f/aAAwDAQACEQMRAD8A3/CGup5xQDMKaGDp0MtPJIt1Zw+3aZL344Fif3YoktYmTVktLS5dFMkkskpEtWInhLpGdvII555JH0xKtLyx1NK01GEiDKI6lN9wjBSSvHdbm4v+km3Y4eaXhWt0VXyyQLStX9RiEtf0qFDfe63xBYzF1tamHBe8ePB3nf8AKzSFhRTFxXdMyZvH5esNBNF0YaeSKmlKmKJHJCuQxu1wRcW9+2Jl4hRT5XXvQ1EkM2WmIeXO8bomKgFbHm5C3DH3He+DvhbqKOHVlYtRIqtPFKd/zbcDzb+35xqeMCrWmirROqQrCFeRm9LDebcHuefbnnCuJcxb2YDDqB4cSDHQx2NveT6VWzHKUsJMLkyPj7ojpGtOXUZqcnklCjbB5JlAMsYVnc3JtdRa1x/uE+Ta3q10rUxUb1Rkp0kYjddWVtzbrgnsOLccjBnw69NfU7ePg0/b6qb/AJwAzQmOtkMZKkSMBt4tzi9ybbkLUL70k24UQevaqfPqWFZcukghEkTyiaV4oTdm2N3sO3Pv9MeXUOZQVuXzTtKtQDGKXpyRqVjBfqcH58AH7/xidGaWRZVkkd1I5DMSD6cKZKeF9B07vDGz9Z/UVBPthrQNeo0XHFLTpr//2Q==
+ogImage: null
 labels:
   - Apfel
   - Ernährung & Gesundheit
@@ -37,17 +44,12 @@ labels:
   - Traube
   - Voelkel
   - Zitrone
-type: Artikel
-typeName: Produkttest
-date: 2018-09-13T13:14:35.000Z
+focusKeyword: Voelkel
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "22000"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44604727352_395fe0405d_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44604727352_395fe0405d_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAaACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFAgT/xAAtEAACAQIFAgQFBQAAAAAAAAABAgMEEQAFBhIhEzEHFCJBI1FhcZFCUoGCof/EABcBAAMBAAAAAAAAAAAAAAAAAAEEBQP/xAAnEQABAwIEBQUAAAAAAAAAAAABAgMRACEEBRJRExQxQWGBobHR8f/aAAwDAQACEQMRAD8A3/CGup5xQDMKaGDp0MtPJIt1Zw+3aZL344Fif3YoktYmTVktLS5dFMkkskpEtWInhLpGdvII555JH0xKtLyx1NK01GEiDKI6lN9wjBSSvHdbm4v+km3Y4eaXhWt0VXyyQLStX9RiEtf0qFDfe63xBYzF1tamHBe8ePB3nf8AKzSFhRTFxXdMyZvH5esNBNF0YaeSKmlKmKJHJCuQxu1wRcW9+2Jl4hRT5XXvQ1EkM2WmIeXO8bomKgFbHm5C3DH3He+DvhbqKOHVlYtRIqtPFKd/zbcDzb+35xqeMCrWmirROqQrCFeRm9LDebcHuefbnnCuJcxb2YDDqB4cSDHQx2NveT6VWzHKUsJMLkyPj7ojpGtOXUZqcnklCjbB5JlAMsYVnc3JtdRa1x/uE+Ta3q10rUxUb1Rkp0kYjddWVtzbrgnsOLccjBnw69NfU7ePg0/b6qb/AJwAzQmOtkMZKkSMBt4tzi9ybbkLUL70k24UQevaqfPqWFZcukghEkTyiaV4oTdm2N3sO3Pv9MeXUOZQVuXzTtKtQDGKXpyRqVjBfqcH58AH7/xidGaWRZVkkd1I5DMSD6cKZKeF9B07vDGz9Z/UVBPthrQNeo0XHFLTpr//2Q==
 subTitle: Neue Bio-Getränke aus der Naturkostsafterei Voelkel
   
 ---

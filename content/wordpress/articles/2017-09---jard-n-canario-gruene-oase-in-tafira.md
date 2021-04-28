@@ -1,16 +1,23 @@
 ---
-title: Jardín Canario - Grüne Oase in Tafira
-seoTitle: Jardín Canario - Grüne Oase in Tafira - Botanischer Garten der Kanaren
+date: 2017-09-29T07:22:08.000Z
 slug: jardin-canario-gruene-oase-in-tafira
 path: /2017/09/jardin-canario-gruene-oase-in-tafira/
-fileName: 2017-09---jard-n-canario-gruene-oase-in-tafira.md
+type: Galerie
+typeName: Galerie
+title: Jardín Canario - Grüne Oase in Tafira
+seoTitle: Jardín Canario - Grüne Oase in Tafira - Botanischer Garten der Kanaren
+ogTitle: Jardín Canario - Grüne Oase in Tafira - Botanischer Garten der Kanaren
 description: Im Botanischen Garten Jardín Canario auf Gran Canaria beeindrucken
   Kakteen, Sukkulenten, Drachenbäume, Kiefernhaine, Loorbeerbäume und Palmen die
   Besucher.
 excerpt: Im Botanischen Garten Jardín Canario auf Gran Canaria beeindrucken
   Kakteen, Sukkulenten, Drachenbäume, Kiefernhaine, Loorbeerbäume und Palmen die
   Besucher.
-focusKeyword: Jardín Canario
+fileName: 2017-09---jard-n-canario-gruene-oase-in-tafira.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Gran-Canaria-488__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Gran-Canaria-488__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBgcF/8QAKhAAAgEDAgQGAgMAAAAAAAAAAQIDBAURACEGEkFREyIxMmFxFIEVUsH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EAB4RAAICAQUBAAAAAAAAAAAAAAECAAMSBBETITEy/9oADAMBAAIRAxEAPwDHKR6ivaKFX5j7V59znoAe/wB6k2Sy3riK9rbrRb3n86pNJggRlg3uIycYB9BnbT+ILNHZZ0EU8ci4BDq2eYf3/Zz5d8ddarwVcIaS0SV6OtLJXIUkeNlBcrj42BPMMbDPXGonZUGRELTVpZYFY7CZnVcK/h8YUNnrIqmugmxUBXJjV8bEsRnygKcgfG51P4uqIaCFzEixxqAsEeeXCjZf111fOMOL6Wrp46yWnNKkaNBDzHMgR3BMasOh5VA+zqh2+kS419XPcVhmq0lMaQuQ6KvfHoe2uoeRsh5Nq1VLDh8xslpm4hpqZUraeGGDys0qZbffY9APvrp/GdDDaqez0NolaVFhMTEkZzzZL/OST6f7o0aosQYCIHY2MsdsaG2W6m/j46WrmjUFBNyCTxQSfEUtuPcQAO51yrFbjFBVXi8xuLvUyO7I4yYxn0GO/fto0aQeuhD9E//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Gran-Canaria-488__l.jpg
 labels:
   - Botánico Canario Viera y Clavijo
   - Botanischer Garten
@@ -24,17 +31,12 @@ labels:
   - Schweden
   - Skandinavien
   - Tafira
-type: Galerie
-typeName: Galerie
-date: 2017-09-29T07:22:08.000Z
+focusKeyword: Jardín Canario
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "17945"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Gran-Canaria-488__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Gran-Canaria-488__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBgcF/8QAKhAAAgEDAgQGAgMAAAAAAAAAAQIDBAURACEGEkFREyIxMmFxFIEVUsH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EAB4RAAICAQUBAAAAAAAAAAAAAAECAAMSBBETITEy/9oADAMBAAIRAxEAPwDHKR6ivaKFX5j7V59znoAe/wB6k2Sy3riK9rbrRb3n86pNJggRlg3uIycYB9BnbT+ILNHZZ0EU8ci4BDq2eYf3/Zz5d8ddarwVcIaS0SV6OtLJXIUkeNlBcrj42BPMMbDPXGonZUGRELTVpZYFY7CZnVcK/h8YUNnrIqmugmxUBXJjV8bEsRnygKcgfG51P4uqIaCFzEixxqAsEeeXCjZf111fOMOL6Wrp46yWnNKkaNBDzHMgR3BMasOh5VA+zqh2+kS419XPcVhmq0lMaQuQ6KvfHoe2uoeRsh5Nq1VLDh8xslpm4hpqZUraeGGDys0qZbffY9APvrp/GdDDaqez0NolaVFhMTEkZzzZL/OST6f7o0aosQYCIHY2MsdsaG2W6m/j46WrmjUFBNyCTxQSfEUtuPcQAO51yrFbjFBVXi8xuLvUyO7I4yYxn0GO/fto0aQeuhD9E//Z
 subTitle: Botanischer Garten auf Gran Canaria
   
 ---

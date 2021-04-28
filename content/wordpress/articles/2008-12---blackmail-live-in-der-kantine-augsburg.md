@@ -1,15 +1,22 @@
 ---
-title: Blackmail live in der Kantine Augsburg
-seoTitle: Blackmail live in der Kantine Augsburg - Konzertbericht
+date: 2008-12-17T14:43:23.000Z
 slug: blackmail-live-kantine-augsburg
 path: /2008/12/blackmail-live-kantine-augsburg/
-fileName: 2008-12---blackmail-live-in-der-kantine-augsburg.md
+type: Galerie
+typeName: Konzertbericht
+title: Blackmail live in der Kantine Augsburg
+seoTitle: Blackmail live in der Kantine Augsburg - Konzertbericht
+ogTitle: Blackmail live in der Kantine Augsburg - Konzertbericht
 description: "Mittwoch, 10.12.2008: Die Koblenzer Indie-Band Blackmail rockte an
   diesem Abend die Kantine. Alle waren guter Stimmung, als die Band die Bühne
   betrat."
 excerpt: "Mittwoch, 10.12.2008: Die Koblenzer Indie-Band Blackmail rockte an
   diesem Abend die Kantine."
-focusKeyword: Blackmail
+fileName: 2008-12---blackmail-live-in-der-kantine-augsburg.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2008_12_PC100012__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2008_12_PC100012__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAIFBgcDBAj/xAAoEAACAQMCBQMFAAAAAAAAAAABAgMABBEFYQYSITFRByKRExQVMkH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAQID/8QAGhEBAQEBAAMAAAAAAAAAAAAAAQARAgMSIf/aAAwDAQACEQMRAD8A53jW1lUY+pFJ4Y8y/PerF9HeDrLXuLbb8y4bS4MSyopwZcHomwJ77VWNqQWXJ6VLdL1Y6Ysb2krpIrBvYxGcedqaYGxUdpF602VroPHGoxaOkUVlMzSxLGoUxB/2XI3+B0qsprjAwqipHxDevqJ+5uX55pACSTnG1Nh0UixW7uLmGAyFDBC4JaZSXDMMdAFK469811fN0gDY545HWZecI/t7UsXDD+0UUPfknLI90TGo2rWnuWfGScDOB4ooqezUC//Z
+ogImage: null
 labels:
   - Augsburg
   - Aydo Abay
@@ -20,17 +27,12 @@ labels:
   - Konzerte
   - Musikkantine
   - Rock
-type: Galerie
-typeName: Konzertbericht
-date: 2008-12-17T14:43:23.000Z
+focusKeyword: Blackmail
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11024"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2008_12_PC100012__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2008_12_PC100012__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAIFBgcDBAj/xAAoEAACAQMCBQMFAAAAAAAAAAABAgMABBEFYQYSITFRByKRExQVMkH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAQID/8QAGhEBAQEBAAMAAAAAAAAAAAAAAQARAgMSIf/aAAwDAQACEQMRAD8A53jW1lUY+pFJ4Y8y/PerF9HeDrLXuLbb8y4bS4MSyopwZcHomwJ77VWNqQWXJ6VLdL1Y6Ysb2krpIrBvYxGcedqaYGxUdpF602VroPHGoxaOkUVlMzSxLGoUxB/2XI3+B0qsprjAwqipHxDevqJ+5uX55pACSTnG1Nh0UixW7uLmGAyFDBC4JaZSXDMMdAFK469811fN0gDY545HWZecI/t7UsXDD+0UUPfknLI90TGo2rWnuWfGScDOB4ooqezUC//Z
 subTitle: Aktuelle Songs und alte Hits
   
 ---

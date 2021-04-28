@@ -1,16 +1,23 @@
 ---
-title: And the Oscar goes to...
-seoTitle: Joaquin Phoenix und seine Oscar-Rede
+date: 2020-02-10T09:36:52.000Z
 slug: joaquin-phoenix-oscar
 path: /2020/02/joaquin-phoenix-oscar/
-fileName: 2020-02---and-the-oscar-goes-to.md
+type: Artikel
+typeName: Artikel
+title: And the Oscar goes to...
+seoTitle: Joaquin Phoenix und seine Oscar-Rede
+ogTitle: Joaquin Phoenix und seine Oscar-Rede
 description: Joaquin Phoenix wurde der Oscar in der Kategorie "bester
   Hauptdarsteller" verliehen. In seiner Rede sprach er sich für mehr Mitgefühl
   aus.
 excerpt: Joaquin Phoenix wurde der Oscar in der Kategorie "bester
   Hauptdarsteller" verliehen. In seiner Rede sprach er sich für mehr Empathie
   und Mitgefühl aus.
-focusKeyword: Joaquin Phoenix
+fileName: 2020-02---and-the-oscar-goes-to.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_joaquin-phoenix-vegan-oscar__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_joaquin-phoenix-vegan-oscar__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGB//EACcQAAIBAwIGAgMBAAAAAAAAAAECAwQFEQASBhMUITFBInEyUdFh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERUf/aAAwDAQACEQMRAD8AyKKz06Mr2SqSMHBmpq6aLlTBSCFIEvzGRnDDVzZuDqN7WKiooGfLMzdBV04gQFiFVTLIWPYds5849azdKivqrLLAlCrb4gOUlucNnxjcF8/zTGO83e2cHx26Ke5UdQ4OKYISahQW3HDLlAqsD8e2AfsYGPS3v8PC8shNVTwUlRTwpByDX0kDAoAmGXJO7AyScEknUjxILBDRTUdFNQVCNiWOSKqgDBvSyNgs+3v+JUf571FVJrrvNNMkdRVTuS8rRo0hJJ8kgfemlyuV2FDsl6yMBMco00ihfe3Jbxk/rTEUxml8EXmpggjEbEDHgHVZepVv0MHXRq0kQdY5DgsqsMMAcZAI7EAjOjRrMRViCw2lOFOtNvZB1TqzhU29lyAo7nt5P2dIuKnkuFNPzJNu1c+M/v8AmjRpioU//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Design-ohne-Titel-6.png__l.jpg
 labels:
   - Bücher & Filme
   - Earthlings
@@ -21,17 +28,12 @@ labels:
   - Oscar
   - Tierrechte
   - vegan
-type: Artikel
-typeName: Artikel
-date: 2020-02-10T09:36:52.000Z
+focusKeyword: Joaquin Phoenix
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "27515"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_joaquin-phoenix-vegan-oscar__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_joaquin-phoenix-vegan-oscar__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGB//EACcQAAIBAwIGAgMBAAAAAAAAAAECAwQFEQASBhMUITFBInEyUdFh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERUf/aAAwDAQACEQMRAD8AyKKz06Mr2SqSMHBmpq6aLlTBSCFIEvzGRnDDVzZuDqN7WKiooGfLMzdBV04gQFiFVTLIWPYds5849azdKivqrLLAlCrb4gOUlucNnxjcF8/zTGO83e2cHx26Ke5UdQ4OKYISahQW3HDLlAqsD8e2AfsYGPS3v8PC8shNVTwUlRTwpByDX0kDAoAmGXJO7AyScEknUjxILBDRTUdFNQVCNiWOSKqgDBvSyNgs+3v+JUf571FVJrrvNNMkdRVTuS8rRo0hJJ8kgfemlyuV2FDsl6yMBMco00ihfe3Jbxk/rTEUxml8EXmpggjEbEDHgHVZepVv0MHXRq0kQdY5DgsqsMMAcZAI7EAjOjRrMRViCw2lOFOtNvZB1TqzhU29lyAo7nt5P2dIuKnkuFNPzJNu1c+M/v8AmjRpioU//9k=
 subTitle: Joaquin Phoenix spricht sich für mehr Empathie aus
   
 ---

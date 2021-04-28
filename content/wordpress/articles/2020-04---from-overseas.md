@@ -1,16 +1,23 @@
 ---
-title: From Overseas
-seoTitle: From Overseas im Interview - Post-Rock aus La Réunion
+date: 2020-04-05T12:07:09.000Z
 slug: from-overseas-interview
 path: /2020/04/from-overseas-interview/
-fileName: 2020-04---from-overseas.md
+type: Artikel
+typeName: Interview
+title: From Overseas
+seoTitle: From Overseas im Interview - Post-Rock aus La Réunion
+ogTitle: From Overseas im Interview - Post-Rock aus La Réunion
 description: Der Musiker Kévin Séry kommt aus La Réunion. Mit seiner Gitarre und
   seinen ausgefeilten Loop-Techniken erzeugt er seinen magischen From Overseas
   Sound.
 excerpt: English & German - Der Musiker Kévin Séry kommt aus La Réunion. Mit
   seiner Gitarre und seinen ausgefeilten Loop-Techniken erzeugt er seinen
   magischen From Overseas Sound.
-focusKeyword: From Overseas
+fileName: 2020-04---from-overseas.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-5__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-5__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgj/xAAqEAABBAEDAgUEAwAAAAAAAAABAgMEEQUABiESMQcTIjJxFEFRYSORof/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAP/EACERAAEEAQQDAQAAAAAAAAAAAAEAAgMRISIxQWESMlFx/9oADAMBAAIRAxEAPwDmNMYhqipCXSoAtm+r9cf7rT4DCxXMnATlkp+loBxN0FVz34ri/k6Uw2SqSy0w04sqR5xJABUOkn7nsAFf1ppiJ0iaphlEYyFqcAbQhJUpZvhIA5v41J7PPTshOnfG4PaLA+rRbmTj8luU43bWBLUVqKHCqOkNKlDp9alIKuLUQAAbFXRutTiU+w57WlNqoAt1wkjvR78/Gq0Z+KhSJZyZkxsyWRDWyqOoPMr6QfTyCk3x2/GspI8PJeHiR8nu+WiBDkEpQ21/LKec7ltKPsoWLKiALAu+NGixK5psAVXeM/qeGiaNst6jd1xnGOEoy0dxssOKeCgYyQEhtKKSTVemvzq6+DeRwr7UV+JtjHwsi9EWTJaJPSUqCFUDyOq79360aNUk9r7UogCACNwpzvPfM/DbvyogRYLWTWtCXciGreKQhICUE35YAAHHPF3epzNycuctp6VIfekN+1511S1gCqAJNijZ+SdGjSaFkrMOkBf/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-fb-1.png__l.jpg
 labels:
   - Ambient
   - Bandcamp
@@ -28,17 +35,12 @@ labels:
   - Shoegaze
   - Studio Schwebung
   - You're Jovian
-type: Artikel
-typeName: Interview
-date: 2020-04-05T12:07:09.000Z
+focusKeyword: From Overseas
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "28845"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-5__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-5__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgj/xAAqEAABBAEDAgUEAwAAAAAAAAABAgMEEQUABiESMQcTIjJxFEFRYSORof/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAP/EACERAAEEAQQDAQAAAAAAAAAAAAEAAgMRISIxQWESMlFx/9oADAMBAAIRAxEAPwDmNMYhqipCXSoAtm+r9cf7rT4DCxXMnATlkp+loBxN0FVz34ri/k6Uw2SqSy0w04sqR5xJABUOkn7nsAFf1ppiJ0iaphlEYyFqcAbQhJUpZvhIA5v41J7PPTshOnfG4PaLA+rRbmTj8luU43bWBLUVqKHCqOkNKlDp9alIKuLUQAAbFXRutTiU+w57WlNqoAt1wkjvR78/Gq0Z+KhSJZyZkxsyWRDWyqOoPMr6QfTyCk3x2/GspI8PJeHiR8nu+WiBDkEpQ21/LKec7ltKPsoWLKiALAu+NGixK5psAVXeM/qeGiaNst6jd1xnGOEoy0dxssOKeCgYyQEhtKKSTVemvzq6+DeRwr7UV+JtjHwsi9EWTJaJPSUqCFUDyOq79360aNUk9r7UogCACNwpzvPfM/DbvyogRYLWTWtCXciGreKQhICUE35YAAHHPF3epzNycuctp6VIfekN+1511S1gCqAJNijZ+SdGjSaFkrMOkBf/2Q==
 subTitle: Post-Rock aus La Réunion
   
 ---

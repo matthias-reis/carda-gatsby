@@ -1,14 +1,21 @@
 ---
-title: Spargelkönigin Johanna Schuster
-seoTitle: Interview mit der Schrobenhausener Spargelkönigin
+date: 2010-04-27T15:31:36.000Z
 slug: interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster
 path: /2010/04/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/
-fileName: 2010-04---spargelkoenigin-johanna-schuster.md
+type: Artikel
+typeName: Interview
+title: Spargelkönigin Johanna Schuster
+seoTitle: Interview mit der Schrobenhausener Spargelkönigin
+ogTitle: Interview mit der Schrobenhausener Spargelkönigin
 description: Interview mit der Spargelkönigin Johanna Schuster - Ihren Spargel
   mag Johanna am liebsten ganz klassisch mit Kartoffeln und Butter.
 excerpt: Interview mit der Spargelkönigin Johanna Schuster - Ihren Spargel mag
   Johanna am liebsten ganz klassisch mit Kartoffeln und Butter.
-focusKeyword: Spargel
+fileName: 2010-04---spargelkoenigin-johanna-schuster.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2542__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2542__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBQb/xAAmEAACAgEEAgICAwEAAAAAAAABAgMEBQAGESESUTFBE3EUI2Ei/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAHhEBAAICAQUAAAAAAAAAAAAAAQACAxEhEiIxQbH/2gAMAwEAAhEDEQA/AOKzu7Y917QXGzX4LDVZI7LzwxNXWTpgInQ+jwQy9H0OO+Xt7jy9/Yt/CyXp58YJIGjrWZgRXZGY/wBY49HsAgcd8E/GdthIY8ZlIjaYzS+LCMghejyCB9npu/170lizOb1ho6tadGDIySkAeJB57P3wPr1pLPBMVJbJ8TFmqLZOnbjWOzI00XnAwZlfsc8jketMbmy2UvYSOPM1Kld0suUFVyyNGAoQnyPJPbg/XIGkNt7lv3ohXGMsyIhWXzrgyKF8egoC/QHvWrurdlrNYeHFR4oJXL/yopBH+P8ArPAiABJLfDAt8cjQ5u+rUYmEd714kRqZMTbqkihqxVkku/mUxdMnAZPEH0S3l+xraxGChuZG+XYFKzfiCuvl5Ag889/5+/8AdGjVmM3VGTZFHZKJey0kW3KVGnGKoxNOWJXiYgS/B5YDrvgcjU+wW7cvaxK1DNGC1s2oZGQN+EliJFUdf8MSG8fojkfJ0aNB0lVD3v5GxrY5n//Z
+ogImage: null
 labels:
   - Bayern
   - Galileo
@@ -17,17 +24,12 @@ labels:
   - Schrobenhausen
   - Spargel
   - Spargelkönigin
-type: Artikel
-typeName: Interview
-date: 2010-04-27T15:31:36.000Z
+focusKeyword: Spargel
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "10957"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2542__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2542__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBQb/xAAmEAACAgEEAgICAwEAAAAAAAABAgMEBQAGESESUTFBE3EUI2Ei/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAHhEBAAICAQUAAAAAAAAAAAAAAQACAxEhEiIxQbH/2gAMAwEAAhEDEQA/AOKzu7Y917QXGzX4LDVZI7LzwxNXWTpgInQ+jwQy9H0OO+Xt7jy9/Yt/CyXp58YJIGjrWZgRXZGY/wBY49HsAgcd8E/GdthIY8ZlIjaYzS+LCMghejyCB9npu/170lizOb1ho6tadGDIySkAeJB57P3wPr1pLPBMVJbJ8TFmqLZOnbjWOzI00XnAwZlfsc8jketMbmy2UvYSOPM1Kld0suUFVyyNGAoQnyPJPbg/XIGkNt7lv3ohXGMsyIhWXzrgyKF8egoC/QHvWrurdlrNYeHFR4oJXL/yopBH+P8ArPAiABJLfDAt8cjQ5u+rUYmEd714kRqZMTbqkihqxVkku/mUxdMnAZPEH0S3l+xraxGChuZG+XYFKzfiCuvl5Ag889/5+/8AdGjVmM3VGTZFHZKJey0kW3KVGnGKoxNOWJXiYgS/B5YDrvgcjU+wW7cvaxK1DNGC1s2oZGQN+EliJFUdf8MSG8fojkfJ0aNB0lVD3v5GxrY5n//Z
 subTitle: '"Der Spargel ist für Schrobenhausen von großer Bedeutung"'
   
 ---

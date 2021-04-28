@@ -1,16 +1,23 @@
 ---
-title: Centre Pompidou Málaga
-seoTitle: Das Centre Pompidou in Málaga – von Picasso bis Baselitz
+date: 2020-12-02T07:45:51.000Z
 slug: centre-pompidou-malaga
 path: /2020/12/centre-pompidou-malaga/
-fileName: 2020-12---centre-pompidou-m-laga.md
+type: Artikel
+typeName: Artikel
+title: Centre Pompidou Málaga
+seoTitle: Das Centre Pompidou in Málaga – von Picasso bis Baselitz
+ogTitle: Das Centre Pompidou in Málaga – von Picasso bis Baselitz
 description: Ein besonderer Ort, den wir auf unserer Reise besucht haben, ist
   das Centre Pompidou in Málaga. Das Museum ist ein Ableger des Centre Pompidou
   in Paris.
 excerpt: Ein besonderer Ort, den wir auf unserer Reise besucht haben, ist das
   Centre Pompidou in Málaga. Das Museum ist ein Ableger des Centre Pompidou in
   Paris.
-focusKeyword: Centré Pompidou Malaga
+fileName: 2020-12---centre-pompidou-m-laga.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_centre-pompidou-malaga__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_centre-pompidou-malaga__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgECBP/EACoQAAIBAwMCBQUBAQAAAAAAAAECAwQFEQASIQYxBxMiQVEUMmGBkVJx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMAAQX/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAIREiFB/9oADAMBAAIRAxEAPwCk9K0VPT0ZnqXSOGIbnduyj86aNutEIMaM0YeTGxSwBbjPA7+x/mlbfOoqUdI1VvYzQziNEo/pwVkRwVKowOQY+Oc88a06b8RYqW42m4XK1wVFfNLUytUISjOWUpESvbgg4HA9R7d9Z5dudBHc44xtVdDQ+QH+op9jP5QbeMF/8/8AdUvqm3U1MyRzyRxvKSkat3Y/A/o1H1niA89R0NAKajqat64NWRld+xzsj2gDHq5ZhnPIU6kPGmrulLerItiiik8iRpahyEYrkhQpzkgY3Z/Xxq6Wc18ka/CI+118NXRNTVsSiSOM+RJkqoGckMFxvJPHzzn21hpJkukTybI1p3ClVyAgA+0KRn8c6NGnXqGwRnfQRxvZblX1DtBKkieRMg3NGd4BZcYIIDfPtq1I9ioKqKogiS5TYQmpm3iZOPuOfSc88fr20aNA1w0YdXfGf//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_12_centre-pompidou-fb.png__l.jpg
 labels:
   - Andalusien
   - Centre Pompidou
@@ -23,17 +30,12 @@ labels:
   - Picasso
   - Spanien
   - Zeitgenössische Kunst
-type: Artikel
-typeName: Artikel
-date: 2020-12-02T07:45:51.000Z
+focusKeyword: Centré Pompidou Malaga
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31987"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_centre-pompidou-malaga__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_centre-pompidou-malaga__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgECBP/EACoQAAIBAwMCBQUBAQAAAAAAAAECAwQFEQASIQYxBxMiQVEUMmGBkVJx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMAAQX/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAIREiFB/9oADAMBAAIRAxEAPwCk9K0VPT0ZnqXSOGIbnduyj86aNutEIMaM0YeTGxSwBbjPA7+x/mlbfOoqUdI1VvYzQziNEo/pwVkRwVKowOQY+Oc88a06b8RYqW42m4XK1wVFfNLUytUISjOWUpESvbgg4HA9R7d9Z5dudBHc44xtVdDQ+QH+op9jP5QbeMF/8/8AdUvqm3U1MyRzyRxvKSkat3Y/A/o1H1niA89R0NAKajqat64NWRld+xzsj2gDHq5ZhnPIU6kPGmrulLerItiiik8iRpahyEYrkhQpzkgY3Z/Xxq6Wc18ka/CI+118NXRNTVsSiSOM+RJkqoGckMFxvJPHzzn21hpJkukTybI1p3ClVyAgA+0KRn8c6NGnXqGwRnfQRxvZblX1DtBKkieRMg3NGd4BZcYIIDfPtq1I9ioKqKogiS5TYQmpm3iZOPuOfSc88fr20aNA1w0YdXfGf//Z
 subTitle: Von Picasso bis Baselitz
   
 ---

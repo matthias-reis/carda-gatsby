@@ -1,16 +1,23 @@
 ---
-title: Die Geschichte der Frauenrechte
-seoTitle: Die Geschichte der Frauenrechte - Der Internationale Weltfrauentag
+date: 2013-03-08T13:30:13.000Z
 slug: die-geschichte-der-frauenrechte
 path: /2013/03/die-geschichte-der-frauenrechte/
-fileName: 2013-03---die-geschichte-der-frauenrechte.md
+type: Artikel
+typeName: Artikel
+title: Die Geschichte der Frauenrechte
+seoTitle: Die Geschichte der Frauenrechte - Der Internationale Weltfrauentag
+ogTitle: Die Geschichte der Frauenrechte - Der Internationale Weltfrauentag
 description: "Mein Artikel über die Geschichte der Frauenrechte ist am 8. März
   2013 erschienen. Zu diesem Zeitpunkt gingen gerade die #aufschrei-Tweets durch
   die Presse."
 excerpt: Die Frauenrechte sollten heute im Fokus stehen. Weltweit wird der
   Internationale Frauentag gefeiert. Zeit für einen kleinen Ausflug in die
   Geschichte.
-focusKeyword: Frauenrechte
+fileName: 2013-03---die-geschichte-der-frauenrechte.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_neu2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_03_neu2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAAmEAACAQMDBAMAAwAAAAAAAAABAgMEBREAEiEGEzFBIiNhFIGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwUBBP/EACARAAAFBAMBAAAAAAAAAAAAAAABAgMRBBIhMRRBYcH/2gAMAwEAAhEDEQA/ANVU2V5qX+bPe7gisrSt9zBUGSTzu8DUa5o1BQJVwXavmQSRAE1DFSC4Ho/uq1VNHWWGK3TglJ4JFl2+Qm5lyB7IJB/rUq/0ENP0fJHTvJM0fa+2QgM+2VMk449f7qXxmzbmMwKpVbhPWzifov3SnmitLXW4dQNR0zSugDSSk53kAALyxOPABOl7UFqY3q6O/mqWkmjEse+ZXB3qMFWwR5zyOR410rb9LabLbu3OkEgmmk7ojDMi91txUH8yOCDjOsjaurJ7lWVMddUmslqJ0ijnBHxxIpKKSSSmeRz7OBoW6FpTRKjMTvwIuudS8aJxMa9DtsvElvnlaqpro2EeLYlBIcHuscg45GNKXjqU11uqaMWm89ydtiMaJ9o+YKknRo10JcMytGKYTN/ew5epDUW6iNMLhBdqJ51xJb5JYJUeRjg4wQeeGH6OdZ/pmmEdzp5rna5YJEdUpoKC3yBN7MF3ySPyQM+AMe/WjRoGqhcEjrQRdK2ZmvvY/9k=
+ogImage: null
 labels:
   - Anne Wizorek
   - Antifaschismus & Feminismus
@@ -40,17 +47,12 @@ labels:
   - Sozialismus
   - SPD
   - Vereinte Nationen
-type: Artikel
-typeName: Artikel
-date: 2013-03-08T13:30:13.000Z
+focusKeyword: Frauenrechte
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "20011"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_neu2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_03_neu2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAAmEAACAQMDBAMAAwAAAAAAAAABAgMEBREAEiEGEzFBIiNhFIGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwUBBP/EACARAAAFBAMBAAAAAAAAAAAAAAABAgMRBBIhMRRBYcH/2gAMAwEAAhEDEQA/ANVU2V5qX+bPe7gisrSt9zBUGSTzu8DUa5o1BQJVwXavmQSRAE1DFSC4Ho/uq1VNHWWGK3TglJ4JFl2+Qm5lyB7IJB/rUq/0ENP0fJHTvJM0fa+2QgM+2VMk449f7qXxmzbmMwKpVbhPWzifov3SnmitLXW4dQNR0zSugDSSk53kAALyxOPABOl7UFqY3q6O/mqWkmjEse+ZXB3qMFWwR5zyOR410rb9LabLbu3OkEgmmk7ojDMi91txUH8yOCDjOsjaurJ7lWVMddUmslqJ0ijnBHxxIpKKSSSmeRz7OBoW6FpTRKjMTvwIuudS8aJxMa9DtsvElvnlaqpro2EeLYlBIcHuscg45GNKXjqU11uqaMWm89ydtiMaJ9o+YKknRo10JcMytGKYTN/ew5epDUW6iNMLhBdqJ51xJb5JYJUeRjg4wQeeGH6OdZ/pmmEdzp5rna5YJEdUpoKC3yBN7MF3ySPyQM+AMe/WjRoGqhcEjrQRdK2ZmvvY/9k=
 subTitle: Ist der Internationale Frauentag in Vergessenheit geraten?
   
 ---

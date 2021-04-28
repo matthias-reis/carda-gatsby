@@ -1,14 +1,21 @@
 ---
-title: 12 Songs für den Juli
-seoTitle: 12 Songs für den Juli - frisch auf Eurem Plattenteller
+date: 2020-06-24T14:46:24.000Z
 slug: 12-songs-fuer-den-juli-2020
 path: /2020/06/12-songs-fuer-den-juli-2020/
-fileName: 2020-06---12-songs-fuer-den-juli.md
+type: Artikel
+typeName: Artikel
+title: 12 Songs für den Juli
+seoTitle: 12 Songs für den Juli - frisch auf Eurem Plattenteller
+ogTitle: 12 Songs für den Juli - frisch auf Eurem Plattenteller
 description: Für den Juli haben wir wieder 12 besonders herausragende Songs für
   Euch zusammengestellt. Mit dabei sind neue Sensationen und starke Klassiker.
 excerpt: Für den Juli haben wir wieder 12 besonders herausragende Songs für Euch
   zusammengestellt. Mit dabei sind neue Sensationen und starke Klassiker.
-focusKeyword: Songs
+fileName: 2020-06---12-songs-fuer-den-juli.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_12-songs-fuer-den-juli__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_12-songs-fuer-den-juli__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBgcI/8QAJxAAAgEEAAYCAgMAAAAAAAAAAQIDAAQFEQYSEyExQTKhB0JRYYH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBAID/8QAHxEAAQMEAwEAAAAAAAAAAAAAAAESIQIREzEUNPBR/9oADAMBAAIRAxEAPwDmXh2W1t87j5shEJrSOdHljKhg6hgSCCRsH2Njt7rQfz9DhI85g3wEGBgMuNWS7jwsqyQCYyyDsVPnlCnXrdUTEYue6lZopTGE0OZVJOz4AA91LNYye3kVppeoPhsx8hBHoiumKtr7QYyUuZeTXmuUhPTIWDfK3xHNrsANf4PG6XI75HIpbJcq8exGwKqFZQp0djvvwKp44jZoUWa255Y2DpKHAIYEEH4/1902PifprGsdoQEbmB6o2DvY/X1U2NGakpelULoXwaLJbgMbgmNJufZQqOynX3rvUuNEs5J5JFuV6cj9QMilgW5Dsb/nY+6KKdRV4FvbCV7XvhXaB5ooocQP/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_12-songs-fb.png__l.jpg
 labels:
   - A. A. Williams
   - Ambient
@@ -37,17 +44,12 @@ labels:
   - This Will Destroy You
   - Tricky
   - Tricky feat. Marta
-type: Artikel
-typeName: Artikel
-date: 2020-06-24T14:46:24.000Z
+focusKeyword: Songs
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30096"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_12-songs-fuer-den-juli__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_12-songs-fuer-den-juli__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBgcI/8QAJxAAAgEEAAYCAgMAAAAAAAAAAQIDAAQFEQYSEyExQTKhB0JRYYH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBAID/8QAHxEAAQMEAwEAAAAAAAAAAAAAAAESIQIREzEUNPBR/9oADAMBAAIRAxEAPwDmXh2W1t87j5shEJrSOdHljKhg6hgSCCRsH2Njt7rQfz9DhI85g3wEGBgMuNWS7jwsqyQCYyyDsVPnlCnXrdUTEYue6lZopTGE0OZVJOz4AA91LNYye3kVppeoPhsx8hBHoiumKtr7QYyUuZeTXmuUhPTIWDfK3xHNrsANf4PG6XI75HIpbJcq8exGwKqFZQp0djvvwKp44jZoUWa255Y2DpKHAIYEEH4/1902PifprGsdoQEbmB6o2DvY/X1U2NGakpelULoXwaLJbgMbgmNJufZQqOynX3rvUuNEs5J5JFuV6cj9QMilgW5Dsb/nY+6KKdRV4FvbCV7XvhXaB5ooocQP/9k=
 subTitle: Frisch auf Eurem Plattenteller
   
 ---

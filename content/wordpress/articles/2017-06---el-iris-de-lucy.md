@@ -1,14 +1,21 @@
 ---
-title: El iris de Lucy
-seoTitle: El iris de Lucy - Eine packende Ausstellung in Las Palmas
+date: 2017-06-07T12:22:37.000Z
 slug: el-iris-de-lucy-las-palmas
 path: /2017/06/el-iris-de-lucy-las-palmas/
-fileName: 2017-06---el-iris-de-lucy.md
+type: Galerie
+typeName: Galerie
+title: El iris de Lucy
+seoTitle: El iris de Lucy - Eine packende Ausstellung in Las Palmas
+ogTitle: El iris de Lucy - Eine packende Ausstellung in Las Palmas
 description: "Bei unserem Aufenthalt in Las Palmas im Mai war stand auch Kunst
   auf dem Programm. Genauer: Die packende Ausstellung EL IRIS DE LUCY im CAAM."
 excerpt: "Bei unserem Aufenthalt in Las Palmas im Mai war stand auch Kunst auf
   dem Programm. Genauer: Die packende Ausstellung EL IRIS DE LUCY im CAAM."
-focusKeyword: El iris de Lucy
+fileName: 2017-06---el-iris-de-lucy.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35025778881_060fbca8d4_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35025778881_060fbca8d4_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEBQj/xAAqEAACAQMDAwIGAwAAAAAAAAABAgMABBEFBhIhMUEUURVDYXKBwYSxsv/EABcBAAMBAAAAAAAAAAAAAAAAAAADBQH/xAAhEQABBAEEAwEAAAAAAAAAAAABAAIDETEEBWFxEhMhwf/aAAwDAQACEQMRAD8A83bft0udb06GVQ0clzEjKR0ILgEGnNlDauCwtNLIHh7KP3+2he1WA3FpOe3rIf8AYptp0g4gANhejEdSPrS5ZTG2wLVPatDFrZ/XM/xHGT0tNxZ2npS/wvTVfBI42iE/nAwPFB922kdpuG9ihjSKNWUhEXCrlFPQeO5p9M8Txzm3iVHdBmKBAitxXHIr7nGSfJ60Q34Au6tRHsYx2x8pKIpTI2yEbpt8ehe1rH2SPouyOyKznA/UXsblrS7guUALwyLKAexKnP6rvRbqtkxz0dH/AJUg/dVVNUzlbBve1CcV0JAcY5C8lB/uuNrWpPq+pXF/JGsTTsG4KSQuFAAyep6AVVViF//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_06_34413328370_62c83da79c_o__l.jpg
 labels:
   - Afrika
   - Aida Muluneh
@@ -52,17 +59,12 @@ labels:
   - Yapci Ramos
   - Zeitgenössische Kunst
   - Zoulikha Bouabdellah
-type: Galerie
-typeName: Galerie
-date: 2017-06-07T12:22:37.000Z
+focusKeyword: El iris de Lucy
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16781"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35025778881_060fbca8d4_k__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35025778881_060fbca8d4_k__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEBQj/xAAqEAACAQMDAwIGAwAAAAAAAAABAgMABBEFBhIhMUEUURVDYXKBwYSxsv/EABcBAAMBAAAAAAAAAAAAAAAAAAADBQH/xAAhEQABBAEEAwEAAAAAAAAAAAABAAIDETEEBWFxEhMhwf/aAAwDAQACEQMRAD8A83bft0udb06GVQ0clzEjKR0ILgEGnNlDauCwtNLIHh7KP3+2he1WA3FpOe3rIf8AYptp0g4gANhejEdSPrS5ZTG2wLVPatDFrZ/XM/xHGT0tNxZ2npS/wvTVfBI42iE/nAwPFB922kdpuG9ihjSKNWUhEXCrlFPQeO5p9M8Txzm3iVHdBmKBAitxXHIr7nGSfJ60Q34Au6tRHsYx2x8pKIpTI2yEbpt8ehe1rH2SPouyOyKznA/UXsblrS7guUALwyLKAexKnP6rvRbqtkxz0dH/AJUg/dVVNUzlbBve1CcV0JAcY5C8lB/uuNrWpPq+pXF/JGsTTsG4KSQuFAAyep6AVVViF//Z
 subTitle: Zeitgenössische Künstlerinnen Afrikas im CAAM in Las Palmas
   
 ---

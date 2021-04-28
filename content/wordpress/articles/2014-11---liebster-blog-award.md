@@ -1,14 +1,21 @@
 ---
-title: Liebster Blog Award
-seoTitle: Liebster Blog Award - die Nominierungen stehen fest
+date: 2014-11-19T11:58:34.000Z
 slug: liebster-blog-award
 path: /2014/11/liebster-blog-award/
-fileName: 2014-11---liebster-blog-award.md
+type: Artikel
+typeName: Artikel
+title: Liebster Blog Award
+seoTitle: Liebster Blog Award - die Nominierungen stehen fest
+ogTitle: Liebster Blog Award - die Nominierungen stehen fest
 description: Gleich zweimal wurde ich für den "Liebster Blog Award" nominiert.
   Ich kann es kaum glauben! Was für eine Ehre!
 excerpt: Gleich zweimal wurde ich für den "Liebster Blog Award" nominiert. Ich
   kann es kaum glauben! Was für eine Ehre!
-focusKeyword: Liebster Blog Award
+fileName: 2014-11---liebster-blog-award.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9694670444_068ec34ffa_o-e1582810742342__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9694670444_068ec34ffa_o-e1582810742342__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QAKhAAAgEDBAEDAgcAAAAAAAAAAQIDBAURAAYSITETIkEHFkJRY3GxsvD/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAQP/xAAgEQACAgAGAwAAAAAAAAAAAAABAgADBBESITGxMkHw/9oADAMBAAIRAxEAPwBU+m20LLFE9/3klJTJXTFYKeokMVNjGewxBYnsgN114/LaI7Zs6Jlheh24jhUKLJTQgOGUMvAlfd7cH251yLbcZqSxWuvkqrdTyeskVRUVKyiJldWAWMkhiS3AZHkZ+NXbHu66XUUUEEtonkmaKFZYYquRGdiQzMwHGMHi+M57xnryO1nsJP3URsvElT7V2jeEma22TbVQsfHmyUiADIyO+P8AsaWdx7As0Ks8dosMWPgQ4/gadaY3+73eojpmlpKKZpPTastMqegi4GPUYY5ZViD2CGHnvFisohbre8d13DanZfEjrHG2Mfiy3Z8nOs9bqeZNpldgr79X2qSs+4a6DgRxjhjiUDsAd8M/OtFtO3a+50ETV25rzMT5zUyDORn4YaNGnYgBPEe4axzqylyb6bWtEMtVPUVR/Vdm/sTpT3Zt2x2iJDHbUkdlJ5MQMY/YaNGh132FwCY3C0pYwDdmf//Z
+ogImage: null
 labels:
   - Blog-Award
   - Blogawards
@@ -27,19 +34,14 @@ labels:
   - Nominierung
   - Seelenstriptease
   - Verlinkung
-type: Artikel
-typeName: Artikel
-date: 2014-11-19T11:58:34.000Z
+focusKeyword: Liebster Blog Award
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (41:29)"
-thumbnailId: "9236"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9694670444_068ec34ffa_o-e1582810742342__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9694670444_068ec34ffa_o-e1582810742342__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QAKhAAAgEDBAEDAgcAAAAAAAAAAQIDBAURAAYSITETIkEHFkJRY3GxsvD/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAQP/xAAgEQACAgAGAwAAAAAAAAAAAAABAgADBBESITGxMkHw/9oADAMBAAIRAxEAPwBU+m20LLFE9/3klJTJXTFYKeokMVNjGewxBYnsgN114/LaI7Zs6Jlheh24jhUKLJTQgOGUMvAlfd7cH251yLbcZqSxWuvkqrdTyeskVRUVKyiJldWAWMkhiS3AZHkZ+NXbHu66XUUUEEtonkmaKFZYYquRGdiQzMwHGMHi+M57xnryO1nsJP3URsvElT7V2jeEma22TbVQsfHmyUiADIyO+P8AsaWdx7As0Ks8dosMWPgQ4/gadaY3+73eojpmlpKKZpPTastMqegi4GPUYY5ZViD2CGHnvFisohbre8d13DanZfEjrHG2Mfiy3Z8nOs9bqeZNpldgr79X2qSs+4a6DgRxjhjiUDsAd8M/OtFtO3a+50ETV25rzMT5zUyDORn4YaNGnYgBPEe4axzqylyb6bWtEMtVPUVR/Vdm/sTpT3Zt2x2iJDHbUkdlJ5MQMY/YaNGh132FwCY3C0pYwDdmf//Z
 subTitle: And the nominees are...
   
 ---

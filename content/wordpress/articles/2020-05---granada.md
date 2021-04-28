@@ -1,14 +1,21 @@
 ---
-title: Granada
-seoTitle: Granada - Besuch der Alhambra und Altstadt
+date: 2020-05-26T12:32:46.000Z
 slug: granada
 path: /2020/05/granada/
-fileName: 2020-05---granada.md
+type: Artikel
+typeName: Artikel
+title: Granada
+seoTitle: Granada - Besuch der Alhambra und Altstadt
+ogTitle: Granada - Besuch der Alhambra und Altstadt
 description: Während unserer Tour durch den Süden Spaniens letzten Sommer, haben
   wir auch die wunderschöne Stadt Granada am Rande der Sierra Leone besucht.
 excerpt: Während unserer Tour durch den Süden Spaniens letzten Sommer, haben wir
   auch die wunderschöne Stadt Granada am Rande der Sierra Leone besucht.
-focusKeyword: Granada
+fileName: 2020-05---granada.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_2019-06-28-granada-5__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_2019-06-28-granada-5__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAgD/8QAKxAAAQMDAwMCBgMAAAAAAAAAAQIDBAAFEQYSIQcTMSIyFBVBUWFxIyRC/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQQFAv/EACERAAEDAwQDAAAAAAAAAAAAAAEAAxIEIVEFEUFhAjGR/9oADAMBAAIRAxEAPwDQxSpKAcHBHB+9VpjzMWM5IlvtR2GxuW66sISkfkms/wDTjVVwtepoTUy6XN21Du92OpZ2na2Tt9SiByR9RVvUXUG6X+Dc4bpjIt8wFttpsnAGFencRz7eTx5/VYGptwltfCJ09yUd7ZTNrTqVaW4L0PT05924LUlCZLLI7aMrCT6ljnzjIBx5pJXrDVdwiswhNXHR2pCA40kB9S2yQlK3CM5PHIA+9LL04sRFLZYjthKFqIwpROFNKGCB+T9atvzlInALdcDfzJz+RDJG1taQStJP+R4zU9+tqXL+AI95x12nW6Vluxv8ULf0x1I1IbkPXi0MAJUVJK1vjkDOAEgY/ZphhdMLvGkCQi+2NxQV8R/atYUlojwEJJ27eTxjHJ85ooqlEDhJSJ5UpfTa7rt0iHL1qyuLLbWgs/KxhRWB7AFgjB8AcV1HTOVa5MyXddUNNPycKUw3bQpz2bc7VrO3PnnHOeDRRRQX/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_granada-fb.png__l.jpg
 labels:
   - Alhambra
   - Andalusien
@@ -17,17 +24,12 @@ labels:
   - Sierra Nevada
   - Slow Travel
   - Spanien
-type: Artikel
-typeName: Artikel
-date: 2020-05-26T12:32:46.000Z
+focusKeyword: Granada
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29723"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_2019-06-28-granada-5__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_2019-06-28-granada-5__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAgD/8QAKxAAAQMDAwMCBgMAAAAAAAAAAQIDBAAFEQYSIQcTMSIyFBVBUWFxIyRC/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQQFAv/EACERAAEDAwQDAAAAAAAAAAAAAAEAAxIEIVEFEUFhAjGR/9oADAMBAAIRAxEAPwDQxSpKAcHBHB+9VpjzMWM5IlvtR2GxuW66sISkfkms/wDTjVVwtepoTUy6XN21Du92OpZ2na2Tt9SiByR9RVvUXUG6X+Dc4bpjIt8wFttpsnAGFencRz7eTx5/VYGptwltfCJ09yUd7ZTNrTqVaW4L0PT05924LUlCZLLI7aMrCT6ljnzjIBx5pJXrDVdwiswhNXHR2pCA40kB9S2yQlK3CM5PHIA+9LL04sRFLZYjthKFqIwpROFNKGCB+T9atvzlInALdcDfzJz+RDJG1taQStJP+R4zU9+tqXL+AI95x12nW6Vluxv8ULf0x1I1IbkPXi0MAJUVJK1vjkDOAEgY/ZphhdMLvGkCQi+2NxQV8R/atYUlojwEJJ27eTxjHJ85ooqlEDhJSJ5UpfTa7rt0iHL1qyuLLbWgs/KxhRWB7AFgjB8AcV1HTOVa5MyXddUNNPycKUw3bQpz2bc7VrO3PnnHOeDRRRQX/9k=
 subTitle: Alhambra und Altstadt
   
 ---

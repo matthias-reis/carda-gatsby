@@ -1,14 +1,21 @@
 ---
-title: '"Pine Trees & The Faint Sound Of Buzzing"'
-seoTitle: '"Pine Trees & The Faint Sound Of Buzzing" - neues Heavybird Album'
+date: 2021-01-24T16:05:37.000Z
 slug: heavybird-pine-trees-the-faint-sound-of-buzzing
 path: /2021/01/heavybird-pine-trees-the-faint-sound-of-buzzing/
-fileName: 2021-01---pine-trees-und-the-faint-sound-of-buzzing.md
+type: Artikel
+typeName: Review
+title: '"Pine Trees & The Faint Sound Of Buzzing"'
+seoTitle: '"Pine Trees & The Faint Sound Of Buzzing" - neues Heavybird Album'
+ogTitle: '"Pine Trees & The Faint Sound Of Buzzing" - neues Heavybird Album'
 description: Heavybird schlägt mit dem tiefgründigen neuen Album "Pine Trees &
   The Faint Sound Of Buzzing" neue Töne an.
 excerpt: English & German – Heavybird schlägt mit dem tiefgründigen neuen Album
   "Pine Trees & The Faint Sound Of Buzzing" neue Töne an.
-focusKeyword: Heavybird
+fileName: 2021-01---pine-trees-und-the-faint-sound-of-buzzing.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_heavybird-3__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_heavybird-3__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAH/xAAlEAABBAEEAgIDAQAAAAAAAAABAgMEEQUAEiExExQGYSJxgSP/xAAXAQEBAQEAAAAAAAAAAAAAAAAABgMF/8QAJhEAAQMDAwIHAAAAAAAAAAAAAQIDEQQhMQAFIgZxEyNBUZGh8P/aAAwDAQACEQMRAD8ASTfmOBx3jRJzMZ5Tl164LyU89qUOr1myEiNlGx60llTKgQHLBCv0dcl4jGxMXHxU6BGK4oc9Z15hS0r8hNOWkHeaIHNkV1Y0gnQcjipcGMnZGxMpxSmmFN7pDKEgd31fJCTZSCB9Dt7PtVKl9Fak+Y4OJSZNwLkG3685GLfUVV4qm1iQkkEKECAYsQJ+Z9sxqgx8iLi2z7MllLKQB5LACf2daYXzHA5HyIj5mM0pur9gFlKue0qPdaloMHI5WXOjK2ScTFcSp1hLe2Q8hQPVd1wSkUVAEfRfxMRjZmLkYuBAjBcoN+y6ywpCUeMi3LUBsNAjiib6s6bxtVKp9dao+Y2ORUYNhkAW/Wj1OdRVXipbQICiAAkSIJi5In4j2zOql0Ez0EObWWCQAUkAEfZ7Oov5hNiPBTzu+2Wyoqe/Egnm67H80aNU1Bt9OhQfCeTSITmAMxGLxf11I0ddUOLU2pVnCCqwknvE/caPh02IyA81v/2bCgpn8iSObrs/3Vo0KnrJc3MvkAgJJBJ+x0dGjSv2+nWovlPJ1EKzBGYjFp76VldUNqQ2lVmySmwkHvE/ev/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_heavybird-1.png__l.jpg
 labels:
   - Ambient
   - Bands
@@ -17,17 +24,12 @@ labels:
   - Indie
   - Post-Rock
   - Review
-type: Artikel
-typeName: Review
-date: 2021-01-24T16:05:37.000Z
+focusKeyword: Heavybird
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32495"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_heavybird-3__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_heavybird-3__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAH/xAAlEAABBAEEAgIDAQAAAAAAAAABAgMEEQUAEiExExQGYSJxgSP/xAAXAQEBAQEAAAAAAAAAAAAAAAAABgMF/8QAJhEAAQMDAwIHAAAAAAAAAAAAAQIDEQQhMQAFIgZxEyNBUZGh8P/aAAwDAQACEQMRAD8ASTfmOBx3jRJzMZ5Tl164LyU89qUOr1myEiNlGx60llTKgQHLBCv0dcl4jGxMXHxU6BGK4oc9Z15hS0r8hNOWkHeaIHNkV1Y0gnQcjipcGMnZGxMpxSmmFN7pDKEgd31fJCTZSCB9Dt7PtVKl9Fak+Y4OJSZNwLkG3685GLfUVV4qm1iQkkEKECAYsQJ+Z9sxqgx8iLi2z7MllLKQB5LACf2daYXzHA5HyIj5mM0pur9gFlKue0qPdaloMHI5WXOjK2ScTFcSp1hLe2Q8hQPVd1wSkUVAEfRfxMRjZmLkYuBAjBcoN+y6ywpCUeMi3LUBsNAjiib6s6bxtVKp9dao+Y2ORUYNhkAW/Wj1OdRVXipbQICiAAkSIJi5In4j2zOql0Ez0EObWWCQAUkAEfZ7Oov5hNiPBTzu+2Wyoqe/Egnm67H80aNU1Bt9OhQfCeTSITmAMxGLxf11I0ddUOLU2pVnCCqwknvE/caPh02IyA81v/2bCgpn8iSObrs/3Vo0KnrJc3MvkAgJJBJ+x0dGjSv2+nWovlPJ1EKzBGYjFp76VldUNqQ2lVmySmwkHvE/ev/Z
 subTitle: Das neue Album von Heavybird
   
 ---

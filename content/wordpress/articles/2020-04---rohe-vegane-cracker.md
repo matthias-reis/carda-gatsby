@@ -1,14 +1,21 @@
 ---
-title: Rohe vegane Cracker
-seoTitle: Rohe vegane Cracker - Aho Bio im Test
+date: 2020-04-27T13:36:16.000Z
 slug: rohe-vegane-cracker-von-aho
 path: /2020/04/rohe-vegane-cracker-von-aho/
-fileName: 2020-04---rohe-vegane-cracker.md
+type: Artikel
+typeName: Produkttest
+title: Rohe vegane Cracker
+seoTitle: Rohe vegane Cracker - Aho Bio im Test
+ogTitle: Rohe vegane Cracker - Aho Bio im Test
 description: Ich habe jetzt die veganen Roh-Cracker von Aho getestet und bin
   ziemlich begeistert - nicht nur vom hervorragenden Geschmack.
 excerpt: Werbung - Ich habe jetzt die veganen Roh-Cracker von Aho getestet und
   bin ziemlich begeistert - nicht nur vom hervorragenden Geschmack.
-focusKeyword: rohe vegane Cracker
+fileName: 2020-04---rohe-vegane-cracker.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_aho-11__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_aho-11__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAsEAABAwMCBQIGAwAAAAAAAAABAgMEAAUREiEGMUFRYRMUByMyM1KBcaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAIhEAAgIBAgcBAAAAAAAAAAAAAQIAAwQRMRIhIkFRsdHw/9oADAMBAAIRAxEAPwDvvFPEqLRGLcBtmbc1py1HLwQAOWpR7A9Buf7qGYmIuk5bXFF4uMx8AK9pEUY8YA/ilKgpfUZUaX/EJTVg4kiRZFtUu0zGS4xJYyXI7qM6k7bkYwdt8Z2NLHW1SojUiNK94hHzGJkYBTrWd8KTyWCNiNj4yM1Ovybq+nb95+aGPpx6nGu8rrU5Y20vaLDEBQsoGEAKGPy1Ak7EHPmmUu38ISRrXHQ05zCm2VNqH7Rg1EWm5erKSzILaHnUED0ydC8b6kg7g4yCk4I2/mniVeogBBznJ1dqMmXYO/uavjJLDiGHCvNvXDmFWgqStDjatLjLiTlK0HooH9HkdjUq3aIsZRF5aVEfT9N4gN4adHd5A+2e+oaeyulFFVmRXIVhJ9bEcgZrd4MdnzrdKYdYfbZeS6mRFcBDiQDsrPQ+Cc+K1SbKubcVMQGVMMtnS44rYJIGCE9/8ooogxa+ICbHIfQz/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_04_rohe-vegane-cracker-fb.png__l.jpg
 labels:
   - Aho
   - Aho Bio
@@ -19,17 +26,12 @@ labels:
   - roh-vegan
   - rohe Cracker
   - vegan
-type: Artikel
-typeName: Produkttest
-date: 2020-04-27T13:36:16.000Z
+focusKeyword: rohe vegane Cracker
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "28915"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_aho-11__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_aho-11__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAsEAABAwMCBQIGAwAAAAAAAAABAgMEAAUREiEGMUFRYRMUByMyM1KBcaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAIhEAAgIBAgcBAAAAAAAAAAAAAQIAAwQRMRIhIkFRsdHw/9oADAMBAAIRAxEAPwDvvFPEqLRGLcBtmbc1py1HLwQAOWpR7A9Buf7qGYmIuk5bXFF4uMx8AK9pEUY8YA/ilKgpfUZUaX/EJTVg4kiRZFtUu0zGS4xJYyXI7qM6k7bkYwdt8Z2NLHW1SojUiNK94hHzGJkYBTrWd8KTyWCNiNj4yM1Ovybq+nb95+aGPpx6nGu8rrU5Y20vaLDEBQsoGEAKGPy1Ak7EHPmmUu38ISRrXHQ05zCm2VNqH7Rg1EWm5erKSzILaHnUED0ydC8b6kg7g4yCk4I2/mniVeogBBznJ1dqMmXYO/uavjJLDiGHCvNvXDmFWgqStDjatLjLiTlK0HooH9HkdjUq3aIsZRF5aVEfT9N4gN4adHd5A+2e+oaeyulFFVmRXIVhJ9bEcgZrd4MdnzrdKYdYfbZeS6mRFcBDiQDsrPQ+Cc+K1SbKubcVMQGVMMtnS44rYJIGCE9/8ooogxa+ICbHIfQz/9k=
 subTitle: Aho Bio im Test
   
 ---

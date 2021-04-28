@@ -1,14 +1,21 @@
 ---
-title: Wie Wildbienen von Honigbienen verdrängt werden
-seoTitle: Wie Honigbienen Wildbienen verdrängen - Artenschutz durch Wissen
+date: 2019-07-29T16:44:44.000Z
 slug: wie-wildbienen-von-honigbienen-verdraengt-werden
 path: /2019/07/wie-wildbienen-von-honigbienen-verdraengt-werden/
-fileName: 2019-07---wie-wildbienen-von-honigbienen-verdraengt-werden.md
+type: Artikel
+typeName: Artikel
+title: Wie Wildbienen von Honigbienen verdrängt werden
+seoTitle: Wie Honigbienen Wildbienen verdrängen - Artenschutz durch Wissen
+ogTitle: Wie Honigbienen Wildbienen verdrängen - Artenschutz durch Wissen
 description: Dass die Bienen sterben wissen wir - doch welche Bienen sind
   eigentlich gemeint? Wildbienen oder Honigbienen? Und was ist der Unterschied?
 excerpt: Dass die Bienen sterben wissen wir - doch welche Bienen sind eigentlich
   gemeint? Wildbienen oder Honigbienen? Und was ist der Unterschied?
-focusKeyword: Wildbienen
+fileName: 2019-07---wie-wildbienen-von-honigbienen-verdraengt-werden.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_biene4__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_biene4__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBQQHCP/EACwQAAEEAQQBAgMJAAAAAAAAAAECAwQFEQAGEiExFUETUaEHFCIjMkJhccH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQIEBv/EACYRAAEDAwIFBQAAAAAAAAAAAAECAxEABCESQQUTFVFhIoHB4fD/2gAMAwEAAhEDEQA/AOf6Skeegyp6mXSxGOHFhJ4pPyJ8adLnY9nQxINi6y1IhOtpdL8U5+ESM8VA95/kdHW190USbPa/o9Q4yxXurCXCwMuLx7JScdn5nV9Olx9vVLcBlpVlNSwlTVetAUXEhaE5UrHFP6us/LWT6s48pKkAQSZE504E+M/FFQ2VmBSxsWvrrXZdMy2+2xaTFKW0XW8qdIcyrIxkp4jH19tTvXYtXJnQZNRhIiv/AJoaZSnoHkSV5SEpSEkAnvOB3pkp6qy3a56xYIkUyWCYiGY8z7uviFZKFqH7eh47Pftpjfqmq5ieviqQwpoqWwo8wspJI4nzjGevrpLfPuWT3MaUSCVbYzsCew9vPa/atBwKbUM96TdoQFW7Pry5LjTcV1xsQ0jKFKGPxE/5jV5DoYYu3bVwLdny0JUXFq6QgjiEBPjAxn+9GjQuOpFqlsM+nUjMb5onDkJ1zG1L277VyFbwKH4LTsKc8G3eWQoAAeCCMHPeffxrG+0x+wo5ddGiWUkNtDKQCEjAJGCB5GOu9GjTCytGVWaXCkT9mpBauesz+iv/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_07_wildbienen-fb-1.png__l.jpg
 labels:
   - Aktivismus
   - bestäubende Insekten
@@ -24,17 +31,12 @@ labels:
   - Tierrechte
   - Wildbienen
   - Wildbienenschutz
-type: Artikel
-typeName: Artikel
-date: 2019-07-29T16:44:44.000Z
+focusKeyword: Wildbienen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "25545"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_biene4__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_biene4__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBQQHCP/EACwQAAEEAQQBAgMJAAAAAAAAAAECAwQFEQAGEiExFUETUaEHFCIjMkJhccH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQIEBv/EACYRAAEDAwIFBQAAAAAAAAAAAAECAxEABCESQQUTFVFhIoHB4fD/2gAMAwEAAhEDEQA/AOf6Skeegyp6mXSxGOHFhJ4pPyJ8adLnY9nQxINi6y1IhOtpdL8U5+ESM8VA95/kdHW190USbPa/o9Q4yxXurCXCwMuLx7JScdn5nV9Olx9vVLcBlpVlNSwlTVetAUXEhaE5UrHFP6us/LWT6s48pKkAQSZE504E+M/FFQ2VmBSxsWvrrXZdMy2+2xaTFKW0XW8qdIcyrIxkp4jH19tTvXYtXJnQZNRhIiv/AJoaZSnoHkSV5SEpSEkAnvOB3pkp6qy3a56xYIkUyWCYiGY8z7uviFZKFqH7eh47Pftpjfqmq5ieviqQwpoqWwo8wspJI4nzjGevrpLfPuWT3MaUSCVbYzsCew9vPa/atBwKbUM96TdoQFW7Pry5LjTcV1xsQ0jKFKGPxE/5jV5DoYYu3bVwLdny0JUXFq6QgjiEBPjAxn+9GjQuOpFqlsM+nUjMb5onDkJ1zG1L277VyFbwKH4LTsKc8G3eWQoAAeCCMHPeffxrG+0x+wo5ddGiWUkNtDKQCEjAJGCB5GOu9GjTCytGVWaXCkT9mpBauesz+iv/2Q==
 subTitle: Artenschutz durch Wissen
   
 ---

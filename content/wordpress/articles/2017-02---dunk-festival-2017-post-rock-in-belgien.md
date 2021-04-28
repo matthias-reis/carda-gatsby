@@ -1,16 +1,23 @@
 ---
-title: Dunk!festival 2017 - Post-Rock in Belgien
-seoTitle: Dunk!festival 2017 - Post-Rock in Belgien - Wir sind auch dabei!
+date: 2017-02-28T18:26:43.000Z
 slug: dunkfestival-2016-wir-sind-auch-dabei
 path: /2017/02/dunkfestival-2016-wir-sind-auch-dabei/
-fileName: 2017-02---dunk-festival-2017-post-rock-in-belgien.md
+type: Artikel
+typeName: Artikel
+title: Dunk!festival 2017 - Post-Rock in Belgien
+seoTitle: Dunk!festival 2017 - Post-Rock in Belgien - Wir sind auch dabei!
+ogTitle: Dunk!festival 2017 - Post-Rock in Belgien - Wir sind auch dabei!
 description: "Vom 25. bis zum 27.5. findet Velzeke-Ruddershove in Belgien das
   Dunk!festival statt. Das Geniale: Es ist ein Post-Rock Festival und wir sind
   dabei!"
 excerpt: "Vom 25. bis zum 27.5. findet Velzeke-Ruddershove in Belgien das
   Dunk!festival statt. Das Besondere: Es ist ein Post-Rock Festival. Das Beste:
   Wir sind dabei!"
-focusKeyword: Dunk!festival
+fileName: 2017-02---dunk-festival-2017-post-rock-in-belgien.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-5-von-5__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-5-von-5__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAX/xAAjEAACAgEEAwEAAwAAAAAAAAABAgMEBQAGESEHEjETCCJB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMqaNPfjrYdrdWOyd+aWhj8PWkgryZG/LJGkckkqgKnqre7kHjgjgBgSR1pk3v4Uy+L3LdrYV47WPVbFiu00yJI0MMkcTluOgfeUAfOeCeB80Eg0avuB/j1l5sqa2VaKL0qWPRqNtJ/a5GqlI3JUCPn254P+D6NSvyFt2PauckxEtytZylclbq1Q5hifnpVZgCx4+9cA/CdB0PE+6J9uZi0hzow1C3EP3kegt1GZGDRn8m69lbsN9Gq5kvLFajhsnJjN7QW80j2FqW2wx/WVG4d4ySAEjkc+wAAKsgHY5JzVo0FLm8z7t/bKNWtwQC/NZmkeOAK3tNGsbEd/1ICKRx2DyeTpW3huy7u6eK7mUryZRVVJriRBZLPACqZCOuQoA6HfHffel3RoP//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-1-von-5__l.jpg
 labels:
   - AIDAN BAKER & KAREN WILLEMS
   - Alcest
@@ -89,17 +96,12 @@ labels:
   - Velzeke-Ruddershove
   - WE LOST THE SEA
   - XENON FIELD
-type: Artikel
-typeName: Artikel
-date: 2017-02-28T18:26:43.000Z
+focusKeyword: Dunk!festival
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16009"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-5-von-5__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-5-von-5__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAX/xAAjEAACAgEEAwEAAwAAAAAAAAABAgMEBQAGESEHEjETCCJB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMqaNPfjrYdrdWOyd+aWhj8PWkgryZG/LJGkckkqgKnqre7kHjgjgBgSR1pk3v4Uy+L3LdrYV47WPVbFiu00yJI0MMkcTluOgfeUAfOeCeB80Eg0avuB/j1l5sqa2VaKL0qWPRqNtJ/a5GqlI3JUCPn254P+D6NSvyFt2PauckxEtytZylclbq1Q5hifnpVZgCx4+9cA/CdB0PE+6J9uZi0hzow1C3EP3kegt1GZGDRn8m69lbsN9Gq5kvLFajhsnJjN7QW80j2FqW2wx/WVG4d4ySAEjkc+wAAKsgHY5JzVo0FLm8z7t/bKNWtwQC/NZmkeOAK3tNGsbEd/1ICKRx2DyeTpW3huy7u6eK7mUryZRVVJriRBZLPACqZCOuQoA6HfHffel3RoP//Z
 subTitle: Wir sind auch dabei!
   
 ---

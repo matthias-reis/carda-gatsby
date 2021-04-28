@@ -1,14 +1,21 @@
 ---
-title: Menschliche Abgründe
-seoTitle: Menschliche Abgründe - "Die Verlorene Tochter"
+date: 2011-06-27T07:57:47.000Z
 slug: menschliche-abgrunde
 path: /2011/06/menschliche-abgrunde/
-fileName: 2011-06---menschliche-abgruende.md
+type: Artikel
+typeName: Artikel
+title: Menschliche Abgründe
+seoTitle: Menschliche Abgründe - "Die Verlorene Tochter"
+ogTitle: Menschliche Abgründe - "Die Verlorene Tochter"
 description: Der Polizeiruf von gestern Abend ("Die verlorene Tochter") stimmt
   nachdenklich. Ein sehr brisantes, aktuelles Thema.
 excerpt: Der Polizeiruf von gestern Abend ("Die verlorene Tochter") stimmt
   nachdenklich. Ein sehr brisantes, aktuelles Thema.
-focusKeyword: Abgründe
+fileName: 2011-06---menschliche-abgruende.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_06_neues-bild__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_06_neues-bild__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcCBgMEBf/EACoQAAEEAQMDAgYDAAAAAAAAAAECAwQRBQAGIQcSEzFhFCMyQVFxkbHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AELt/bErLsyHITXeWSO5A9Td+n8ajHj4mPlFQ81KkQ+wlK/kWpCvfg8frTG6Vdsba+ZlNhxcmM4XkNtceSmFgIJHNdygeOeNLvGbU3Vvt6XlsVjH5yVvFK3ErSAFUD22oi6BGstVmyMDB2tWIyipbbaUlZW12m1KoBI4KvehrXzO2peNiMSJaQ0l9RS2gkBRoXdX766TfTPe2JmsPP7fkJ8DiXfrQocEH7K03usbONbwmOefbCQ68tVg0b7U/wCE8e2oFRsndkvCMvtxm2ymQKXZP3BFj8cHVn6Sbyk7Pwj0GNGbktrkfEWtZTRU03Y4/WjRqi45bqlNkEFWOjhVevkV/Wk9vzdmUyUwsvOpTFSfI2wE2lsqABq/zWjRqFf/2Q==
+ogImage: null
 labels:
   - Antifaschismus & Feminismus
   - Berichterstattung
@@ -45,17 +52,12 @@ labels:
   - Tatort
   - TV
   - Vergewaltiger
-type: Artikel
-typeName: Artikel
-date: 2011-06-27T07:57:47.000Z
+focusKeyword: Abgründe
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "2046"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_06_neues-bild__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_06_neues-bild__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcCBgMEBf/EACoQAAEEAQMDAgYDAAAAAAAAAAECAwQRBQAGIQcSEzFhFCMyQVFxkbHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AELt/bErLsyHITXeWSO5A9Td+n8ajHj4mPlFQ81KkQ+wlK/kWpCvfg8frTG6Vdsba+ZlNhxcmM4XkNtceSmFgIJHNdygeOeNLvGbU3Vvt6XlsVjH5yVvFK3ErSAFUD22oi6BGstVmyMDB2tWIyipbbaUlZW12m1KoBI4KvehrXzO2peNiMSJaQ0l9RS2gkBRoXdX766TfTPe2JmsPP7fkJ8DiXfrQocEH7K03usbONbwmOefbCQ68tVg0b7U/wCE8e2oFRsndkvCMvtxm2ymQKXZP3BFj8cHVn6Sbyk7Pwj0GNGbktrkfEWtZTRU03Y4/WjRqi45bqlNkEFWOjhVevkV/Wk9vzdmUyUwsvOpTFSfI2wE2lsqABq/zWjRqFf/2Q==
 subTitle: '"Die verlorene Tochter"'
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: 12 Songs für den Mai
-seoTitle: 12 Songs für den Mai - aufgelegt von den drei von der Bande
+date: 2020-04-24T08:16:25.000Z
 slug: 12-songs-fuer-den-mai-2020
 path: /2020/04/12-songs-fuer-den-mai-2020/
-fileName: 2020-04---12-songs-fuer-den-mai.md
+type: Artikel
+typeName: Artikel
+title: 12 Songs für den Mai
+seoTitle: 12 Songs für den Mai - aufgelegt von den drei von der Bande
+ogTitle: 12 Songs für den Mai - aufgelegt von den drei von der Bande
 description: Jetzt sind wir schon seit fünf Wochen daheim. Da hatten wir
   natürlich sehr viel Zeit, Musik zu hören. Dabei haben wir ein paar wunderbare
   Stücke entdeckt.
 excerpt: Jetzt sind wir schon seit fünf Wochen daheim. Da hatten wir natürlich
   sehr viel Zeit, Musik zu hören. Dabei haben wir ein paar wunderbare Stücke
   entdeckt.
-focusKeyword: Songs
+fileName: 2020-04---12-songs-fuer-den-mai.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_12-songs-fuer-den-mai-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_12-songs-fuer-den-mai-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBwEEBv/EACkQAAEDAwMDBAIDAAAAAAAAAAECAwQABREGEiEiMUEHExRhMlFScoH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBAX/xAAjEQABBAIBAwUAAAAAAAAAAAABAAIDESExExIiQSNxgZHB/9oADAMBAAIRAxEAPwBPqNyQ9ZUNSRIebnITGW04642lKgSFKwO6urjgg/rzTm2xGpVnTHgvKUmIFF1sub1YbxlPA5USR08earR71ilXVlEB207UvuMha0yCtXCwTtG3yfGfqtu4+patKXG4WZi0ofjR5CgXWpHtlboVkrJCD1cYIycbaMsrhFbGguvV17HVY+NWpooHCXoce2t/d+bz+quGUhW0EgZHfFZWkJUQCD94rrdPaMF0huyHriYzSFhtJEVTuVHycHpTnA3VHqTRr9jlhlySHmyncHEt4845GeOc4/eKImYX8d5V3BJV0knpPB+VrOLIU3vbgIXMOfxSUJJSSf7YP+UmvxeiuyLfMazJQ8pxbvvbtxVznjg5BFFFLygrg0tfpsK1piRQ02tQIQ6prlKc/wAidp7k9vHY1DqEe0tSbhK+ZPdcSoODJS2Aeeojk4IHYD6FFFShoE+BV5WoR6ZX/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_04_12-songs-fb-1.png__l.jpg
 labels:
   - 12 Songs
   - Aventgarde
@@ -39,17 +46,12 @@ labels:
   - Strokes
   - Support your favourite bands
   - Vinyl
-type: Artikel
-typeName: Artikel
-date: 2020-04-24T08:16:25.000Z
+focusKeyword: Songs
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29366"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_12-songs-fuer-den-mai-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_12-songs-fuer-den-mai-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBwEEBv/EACkQAAEDAwMDBAIDAAAAAAAAAAECAwQABREGEiEiMUEHExRhMlFScoH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBAX/xAAjEQABBAIBAwUAAAAAAAAAAAABAAIDESExExIiQSNxgZHB/9oADAMBAAIRAxEAPwBPqNyQ9ZUNSRIebnITGW04642lKgSFKwO6urjgg/rzTm2xGpVnTHgvKUmIFF1sub1YbxlPA5USR08earR71ilXVlEB207UvuMha0yCtXCwTtG3yfGfqtu4+patKXG4WZi0ofjR5CgXWpHtlboVkrJCD1cYIycbaMsrhFbGguvV17HVY+NWpooHCXoce2t/d+bz+quGUhW0EgZHfFZWkJUQCD94rrdPaMF0huyHriYzSFhtJEVTuVHycHpTnA3VHqTRr9jlhlySHmyncHEt4845GeOc4/eKImYX8d5V3BJV0knpPB+VrOLIU3vbgIXMOfxSUJJSSf7YP+UmvxeiuyLfMazJQ8pxbvvbtxVznjg5BFFFLygrg0tfpsK1piRQ02tQIQ6prlKc/wAidp7k9vHY1DqEe0tSbhK+ZPdcSoODJS2Aeeojk4IHYD6FFFShoE+BV5WoR6ZX/9k=
 subTitle: Aufgelegt von den drei von der Bande
   
 ---

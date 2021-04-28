@@ -1,16 +1,23 @@
 ---
-title: Spargel aus dem Ofen mit veganer Kokos Hollandaise
-seoTitle: Spargel aus dem Ofen mit veganer Kokos-Hollandaise
+date: 2018-05-29T06:08:11.000Z
 slug: spargel-aus-dem-ofen-mit-veganer-kokos-hollandaise
 path: /2018/05/spargel-aus-dem-ofen-mit-veganer-kokos-hollandaise/
-fileName: 2018-05---spargel-aus-dem-ofen-mit-veganer-kokos-hollandaise.md
+type: Artikel
+typeName: Rezept
+title: Spargel aus dem Ofen mit veganer Kokos Hollandaise
+seoTitle: Spargel aus dem Ofen mit veganer Kokos-Hollandaise
+ogTitle: Spargel aus dem Ofen mit veganer Kokos-Hollandaise
 description: Heute habe ich ein ganz besonderes Rezept für Euch vorbereitet.
   Beim Gedanken an die vegane Hollandaise läuft mir schon wieder das Wasser im
   Mund zusammen.
 excerpt: Heute habe ich ein ganz besonderes Rezept für Euch vorbereitet. Beim
   Gedanken an die vegane Hollandaise läuft mir schon wieder das Wasser im Mund
   zusammen.
-focusKeyword: Hollandaise
+fileName: 2018-05---spargel-aus-dem-ofen-mit-veganer-kokos-hollandaise.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_40431875370_bc31ee4bb3_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_40431875370_bc31ee4bb3_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAApEAACAgECBQMEAwAAAAAAAAABAgMEEQAFEiExQVEGExQiYXGBMkOR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwUEBv/EACcRAAEDAgQFBQAAAAAAAAAAAAEAAgMEEQUhMUESEyJh8DNRccHR/9oADAMBAAIRAxEAPwCTbjfq+n0hi2+tHYtzLn3J1IZPGAfPUdP3qu7fTe3sm1T2q0dCaxAoVFxxIcfS2Tn+ROQPuBqQ71sG4S7ufiwPZgsgmMxIWKdSQSTyx5JAwO2rK12pF6YWAzCW1UqQPAzNnKCRFTJ6c+HPPtqPjLpBGYWHhO1lvpGscBJr8pa9V+mpJp471GzagtzJ7EaxQlgZeEnmMjhVgMHPQqPOsGXZ6qqtKxbg+emQZICSPwwPcap1yGHeKfsBoTStZrzQyZVo1flxcu6uFGOx5+RqeK1e1BDHCEltxORZlMPAY3H0sg74+nkP3qdgUs73NjlbxbZ+x79reXT15swuBtbT8SntPrWu8Pxt4SStKP7UUsuR34eo/HMaaYt32m/FejbcIJxegEUspsIjgg9eE47ch4wNGjXWsImPWATlnvrf6UaRnLHQSPLLvNuaSV5ve3qCCRkUM6TxDLgAM+c5w/CrFfOeesrdPV1aaWSPbQtyy5LO8alYVJ6kse32H+6NGieG0oPJaAmiaaj1SSv/2Q==
+ogImage: null
 labels:
   - Erdbeeren
   - Hollandaise
@@ -25,17 +32,12 @@ labels:
   - vegane Rezepte
   - Vegane Rezepte
   - veganes Spargelrezept
-type: Artikel
-typeName: Rezept
-date: 2018-05-29T06:08:11.000Z
+focusKeyword: Hollandaise
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "21072"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_40431875370_bc31ee4bb3_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_40431875370_bc31ee4bb3_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAApEAACAgECBQMEAwAAAAAAAAABAgMEEQAFEiExQVEGExQiYXGBMkOR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwUEBv/EACcRAAEDAgQFBQAAAAAAAAAAAAEAAgMEEQUhMUESEyJh8DNRccHR/9oADAMBAAIRAxEAPwCTbjfq+n0hi2+tHYtzLn3J1IZPGAfPUdP3qu7fTe3sm1T2q0dCaxAoVFxxIcfS2Tn+ROQPuBqQ71sG4S7ufiwPZgsgmMxIWKdSQSTyx5JAwO2rK12pF6YWAzCW1UqQPAzNnKCRFTJ6c+HPPtqPjLpBGYWHhO1lvpGscBJr8pa9V+mpJp471GzagtzJ7EaxQlgZeEnmMjhVgMHPQqPOsGXZ6qqtKxbg+emQZICSPwwPcap1yGHeKfsBoTStZrzQyZVo1flxcu6uFGOx5+RqeK1e1BDHCEltxORZlMPAY3H0sg74+nkP3qdgUs73NjlbxbZ+x79reXT15swuBtbT8SntPrWu8Pxt4SStKP7UUsuR34eo/HMaaYt32m/FejbcIJxegEUspsIjgg9eE47ch4wNGjXWsImPWATlnvrf6UaRnLHQSPLLvNuaSV5ve3qCCRkUM6TxDLgAM+c5w/CrFfOeesrdPV1aaWSPbQtyy5LO8alYVJ6kse32H+6NGieG0oPJaAmiaaj1SSv/2Q==
 subTitle: Für zwei Personen
   
 ---

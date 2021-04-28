@@ -1,14 +1,21 @@
 ---
-title: Gedanken am Fenster
-seoTitle: Gedanken am Fenster - hin und wieder etwas Prosa
+date: 2011-09-07T07:34:56.000Z
 slug: gedanken-am-fenster
 path: /2011/09/gedanken-am-fenster/
-fileName: 2011-09---gedanken-am-fenster.md
+type: Artikel
+typeName: Artikel
+title: Gedanken am Fenster
+seoTitle: Gedanken am Fenster - hin und wieder etwas Prosa
+ogTitle: Gedanken am Fenster - hin und wieder etwas Prosa
 description: Vom Leben gelernt, dachtest du. Aber eigentlich war es doch ganz
   anders, musste doch das Leben auch dich zunächst erst mal kennen lernen.
 excerpt: Vom Leben gelernt, dachtest du. Aber eigentlich war es doch ganz
   anders, musste doch das Leben auch dich zunächst erst mal kennen lernen.
-focusKeyword: ""
+fileName: 2011-09---gedanken-am-fenster.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_09_frederick2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_09_frederick2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBwgG/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBjFBBxMUURVhcYGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMA/8QAHREAAwACAgMAAAAAAAAAAAAAAAECAxESIRMigf/aAAwDAQACEQMRAD8A09XU3zKKopjLNCJo2j92FtrpkY3KfBHg6jOj7Z+LsFNCa6urmdRK01bMZXJIHAJ7D6A1NjuNK2wAW+mQHJSNVP6wNByuSoazWo8Sfq+/ozo0AhgCCCD5GjTAKNWBLqlGy4MkLTI33tYBh/W5f91nX1Avc/RfqBfqG01dOguKL8n5UoBZJQxYJyMOvGCewbVz+oNzt1BTUwnqZobor+7SNTAGRDjBYg8bCMgg8HxyMij7/wBPx3vqWS+3eaCrknf3BTGHbGj7FXgljlTtB2nzqdw60Vx9PZdfpPT0VH0FaZaSqMsVdEtbl2A2mRQdoGeAO385OuzBBGQQR9jnWZKgsiqiMCwwOAMAeBxqV6ZuNdbLgtRRTyRbRhkLEhh9FexGqqUlpGcuns//2Q==
+ogImage: null
 labels:
   - Bewusstsein
   - Bücher
@@ -31,17 +38,12 @@ labels:
   - Spaß
   - Tagebuch
   - Winter
-type: Artikel
-typeName: Artikel
-date: 2011-09-07T07:34:56.000Z
+focusKeyword: ""
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "2623"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_09_frederick2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_09_frederick2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBwgG/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBjFBBxMUURVhcYGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMA/8QAHREAAwACAgMAAAAAAAAAAAAAAAECAxESIRMigf/aAAwDAQACEQMRAD8A09XU3zKKopjLNCJo2j92FtrpkY3KfBHg6jOj7Z+LsFNCa6urmdRK01bMZXJIHAJ7D6A1NjuNK2wAW+mQHJSNVP6wNByuSoazWo8Sfq+/ozo0AhgCCCD5GjTAKNWBLqlGy4MkLTI33tYBh/W5f91nX1Avc/RfqBfqG01dOguKL8n5UoBZJQxYJyMOvGCewbVz+oNzt1BTUwnqZobor+7SNTAGRDjBYg8bCMgg8HxyMij7/wBPx3vqWS+3eaCrknf3BTGHbGj7FXgljlTtB2nzqdw60Vx9PZdfpPT0VH0FaZaSqMsVdEtbl2A2mRQdoGeAO385OuzBBGQQR9jnWZKgsiqiMCwwOAMAeBxqV6ZuNdbLgtRRTyRbRhkLEhh9FexGqqUlpGcuns//2Q==
 subTitle: <strong>Erst bist du auf die Welt gekommen, dann hast du dich
   verliebt. </strong>
   

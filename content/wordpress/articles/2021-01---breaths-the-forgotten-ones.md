@@ -1,16 +1,23 @@
 ---
-title: Breaths – "The Forgotten Ones"
-seoTitle: Breaths – "The Forgotten Ones" – Eine vegane Hymne
+date: 2021-01-22T05:00:16.000Z
 slug: breaths-the-forgotten-ones
 path: /2021/01/breaths-the-forgotten-ones/
-fileName: 2021-01---breaths-the-forgotten-ones.md
+type: Artikel
+typeName: Review
+title: Breaths – "The Forgotten Ones"
+seoTitle: Breaths – "The Forgotten Ones" – Eine vegane Hymne
+ogTitle: Breaths – "The Forgotten Ones" – Eine vegane Hymne
 description: Im Song Breaths "The Forgotten Ones" geht es um die Beziehung
   zwischen Mensch und Tier. Band-Gründer Jason und seine Familie leben seit vier
   Jahren vegan.
 excerpt: English & German – Im Song Breaths "The Forgotten Ones" geht es um die
   Beziehung zwischen Mensch und Tier. Band-Gründer Jason und seine Familie leben
   seit vier Jahren vegan.
-focusKeyword: The Forgotten Ones
+fileName: 2021-01---breaths-the-forgotten-ones.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_the-forgotten-ones-breaths-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_the-forgotten-ones-breaths-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgIDBAj/xAArEAABAwMDAwMDBQAAAAAAAAABAgMEBQYRABIhBzFBExQVUWGBFiJxkfD/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABwRAQACAwADAAAAAAAAAAAAAAEAAgMRIRJB4f/aAAwDAQACEQMRAD8A81BhyQ4hthBW4ohKUgZyTwB/emhUunNOo3VSPbtQkq+PbZbckLcd2FaxH9RSArHAKwR9hrDo5RZFdptysGY/GpkYMTpYZXsWotIkKbwfBCgNTPXiuSaT1US9BQwt9pEZ9C3mw4FENpwFJJIP3z3zo9eEWyqLFVc9MYgVqWzDJ9slwhsEklI+hyAf447EajG0KSkkj9pOAcf766v9Ptxy73JdRjNswBI3mNCaXu9R5KNy8Z5AOCceO3jXHdEKJE6eWg4yoe9lyZ78lBGFIGGEtg/hJP5OpXYAy3tW13xmiz7wn2zRLkhU9lkiqxg26+4kktJSlxPHOOQ4e+eQNXC57Qqcz9PSrhdUJ86FGmLCXEJcVuWRsGRgK9NKMDBGVc+dGjSr7gzcrVjBZtm1KA98dQai+LqmtrpsJl5CDhTgG/K0AhJ2bhuzxnjvpWdY40qhooFrVBEf3NIbeUp5p9bhcDqkqTkK4GAAAQBnRo0cJuismfmSocPiz//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_breaths-the-forgotten-ones.png__l.jpg
 labels:
   - Bands
   - Breaths
@@ -23,17 +30,12 @@ labels:
   - The Forgotten Ones
   - Tierrechte
   - vegan celebrities
-type: Artikel
-typeName: Review
-date: 2021-01-22T05:00:16.000Z
+focusKeyword: The Forgotten Ones
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32421"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_the-forgotten-ones-breaths-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_the-forgotten-ones-breaths-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgIDBAj/xAArEAABAwMDAwMDBQAAAAAAAAABAgMEBQYRABIhBzFBExQVUWGBFiJxkfD/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABwRAQACAwADAAAAAAAAAAAAAAEAAgMRIRJB4f/aAAwDAQACEQMRAD8A81BhyQ4hthBW4ohKUgZyTwB/emhUunNOo3VSPbtQkq+PbZbckLcd2FaxH9RSArHAKwR9hrDo5RZFdptysGY/GpkYMTpYZXsWotIkKbwfBCgNTPXiuSaT1US9BQwt9pEZ9C3mw4FENpwFJJIP3z3zo9eEWyqLFVc9MYgVqWzDJ9slwhsEklI+hyAf447EajG0KSkkj9pOAcf766v9Ptxy73JdRjNswBI3mNCaXu9R5KNy8Z5AOCceO3jXHdEKJE6eWg4yoe9lyZ78lBGFIGGEtg/hJP5OpXYAy3tW13xmiz7wn2zRLkhU9lkiqxg26+4kktJSlxPHOOQ4e+eQNXC57Qqcz9PSrhdUJ86FGmLCXEJcVuWRsGRgK9NKMDBGVc+dGjSr7gzcrVjBZtm1KA98dQai+LqmtrpsJl5CDhTgG/K0AhJ2bhuzxnjvpWdY40qhooFrVBEf3NIbeUp5p9bhcDqkqTkK4GAAAQBnRo0cJuismfmSocPiz//Z
 subTitle: Eine vegane Hymne
   
 ---

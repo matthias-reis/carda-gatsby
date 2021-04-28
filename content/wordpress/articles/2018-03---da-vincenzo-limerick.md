@@ -1,14 +1,21 @@
 ---
-title: Da Vincenzo Limerick
-seoTitle: Da Vincenzo Limerick - Wir haben Irlands beste vegane Pizza probiert
+date: 2018-03-06T07:43:53.000Z
 slug: da-vincenzo-limerick
 path: /2018/03/da-vincenzo-limerick/
-fileName: 2018-03---da-vincenzo-limerick.md
+type: Artikel
+typeName: Artikel
+title: Da Vincenzo Limerick
+seoTitle: Da Vincenzo Limerick - Wir haben Irlands beste vegane Pizza probiert
+ogTitle: Da Vincenzo Limerick - Wir haben Irlands beste vegane Pizza probiert
 description: Ich wage zu behaupten, dass wir im Da Vincenzo in Limerick in den
   Genuss von Irlands bester veganer Steinofenpizza gekommen sind.
 excerpt: Ich wage zu behaupten, dass wir im Da Vincenzo in Limerick in den
   Genuss von Irlands bester veganer Steinofenpizza gekommen sind.
-focusKeyword: Da Vincenzo Limerick
+fileName: 2018-03---da-vincenzo-limerick.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_28444831329_8ae14fced1_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_28444831329_8ae14fced1_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAwQH/8QALRAAAgEDAgUCBAcAAAAAAAAAAQIDBAURACEGEhMxQSIyFVFh4RRCcYGRocH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwUC/8QAJBEAAgECBgEFAAAAAAAAAAAAAQIDABEEEiExQfAiUXGRocH/2gAMAwEAAhEDEQA/AOfVd7cu9LXlbm/KIjDLGUbIYAgPnYjB3Hf+tX8PQW6Digx3mCH4ZbkMgRWRllJ9SkttkHY4H21vo1sjUNJc6yKQVVNKJIKZJ+ogZiO3bmwRjJONCuILPPTzNLWwxJdquUy/hV9UscfMSS57KPlnJPjbUnOpFjeqxRmYtGLkcevsLCm/hriRzxJFDwa1RTpW1eM1BVekWcH1Lj2nfC5Pjydq47nJT3m9W3iOjoZqMzmOU9BQySZA5lJ7/lyfHNpWtdNWzCohWCmhNMFaOZnLtTudxIFTu23uOcH66J1nE6W+2z1D0aT3irczy1pZWw2AS6E+dh2x5J1kqdAov3elwMw85QATv3v5WKat6FopJ60pOgjxuuTy7Yztjvt+x0Z4TS0XKoeKm53EsLAmPcYIORjOfAwQD521Lxwhc46+Geknj6SJ0xythoxnBwp7fbWK12a12R4K2voknnd8ydeQgcwPuUqR/GMYO+hNGqJre9W4sdJK4RAMv3VPEFu+CQTpVxzTypKHedlYGOJgM7HG+cek9/G+hFsSXiy6R0YK09vcsQVUAPygE4HcEgjc/wCaeK+aivFrWHh+4Is/K0rRzEyE4BOP0+mD20p1fWkpEpI6CKOWJiVMMWBMDkMeb5DJ+XjS4cSwGUjU0nG4VCxcHQcW5+a//9k=
+ogImage: null
 labels:
   - Britische Inseln
   - Da Vincenzo
@@ -25,17 +32,12 @@ labels:
   - Vegane Lokale
   - vegane Lokale
   - vegane Pizza
-type: Artikel
-typeName: Artikel
-date: 2018-03-06T07:43:53.000Z
+focusKeyword: Da Vincenzo Limerick
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "19742"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_28444831329_8ae14fced1_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_28444831329_8ae14fced1_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAwQH/8QALRAAAgEDAgUCBAcAAAAAAAAAAQIDBAURACEGEhMxQSIyFVFh4RRCcYGRocH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwUC/8QAJBEAAgECBgEFAAAAAAAAAAAAAQIDABEEEiExQfAiUXGRocH/2gAMAwEAAhEDEQA/AOfVd7cu9LXlbm/KIjDLGUbIYAgPnYjB3Hf+tX8PQW6Digx3mCH4ZbkMgRWRllJ9SkttkHY4H21vo1sjUNJc6yKQVVNKJIKZJ+ogZiO3bmwRjJONCuILPPTzNLWwxJdquUy/hV9UscfMSS57KPlnJPjbUnOpFjeqxRmYtGLkcevsLCm/hriRzxJFDwa1RTpW1eM1BVekWcH1Lj2nfC5Pjydq47nJT3m9W3iOjoZqMzmOU9BQySZA5lJ7/lyfHNpWtdNWzCohWCmhNMFaOZnLtTudxIFTu23uOcH66J1nE6W+2z1D0aT3irczy1pZWw2AS6E+dh2x5J1kqdAov3elwMw85QATv3v5WKat6FopJ60pOgjxuuTy7Yztjvt+x0Z4TS0XKoeKm53EsLAmPcYIORjOfAwQD521Lxwhc46+Geknj6SJ0xythoxnBwp7fbWK12a12R4K2voknnd8ydeQgcwPuUqR/GMYO+hNGqJre9W4sdJK4RAMv3VPEFu+CQTpVxzTypKHedlYGOJgM7HG+cek9/G+hFsSXiy6R0YK09vcsQVUAPygE4HcEgjc/wCaeK+aivFrWHh+4Is/K0rRzEyE4BOP0+mD20p1fWkpEpI6CKOWJiVMMWBMDkMeb5DJ+XjS4cSwGUjU0nG4VCxcHQcW5+a//9k=
 subTitle: Irlands vegane Pizza mit Herz
   
 ---

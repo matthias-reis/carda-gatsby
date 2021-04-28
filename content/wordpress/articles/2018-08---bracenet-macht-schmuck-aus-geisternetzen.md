@@ -1,15 +1,22 @@
 ---
-title: Bracenet macht Schmuck aus Geisternetzen
-seoTitle: Bracenet macht Schmuck aus Geisternetzen - Ein Statement für die Meere
+date: 2018-08-30T07:38:07.000Z
 slug: bracenet-macht-schmuck-aus-geisternetzen
 path: /2018/08/bracenet-macht-schmuck-aus-geisternetzen/
-fileName: 2018-08---bracenet-macht-schmuck-aus-geisternetzen.md
+type: Artikel
+typeName: Artikel
+title: Bracenet macht Schmuck aus Geisternetzen
+seoTitle: Bracenet macht Schmuck aus Geisternetzen - Ein Statement für die Meere
+ogTitle: Bracenet macht Schmuck aus Geisternetzen - Ein Statement für die Meere
 description: Statement-Armbänder gibt es viele. Eines davon trage ich selbst aus
   voller Überzeugung. Es stammt von Bracenet aus Hamburg.
 excerpt: Werbung - selbst gekauft - Statement-Armbänder gibt es viele. Eines
   davon trage ich selbst aus voller Überzeugung. Es stammt von Bracenet aus
   Hamburg.
-focusKeyword: Bracenet
+fileName: 2018-08---bracenet-macht-schmuck-aus-geisternetzen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-29-Bracenet-25__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-29-Bracenet-25__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcECP/EACsQAAEDAwMCAwkAAAAAAAAAAAECAwQABREGEiExQRMiURQVI2FxgZHB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EAB4RAAICAgMBAQAAAAAAAAAAAAECABEDIRIxwSJR/9oADAMBAAIRAxEAPwCylXOZp21pk+9bglKuofDbxKQRk7dp46d8n5V32uVqe+WGNOXcYXsb+xxoCEjeoEg9eOOcZ70nTbderzbXBMhyHIvhbStvyEHaTxgnuaeLTf2IOmLbGU0psMsstoG3g4wPxj91M5ZF0dzSxriyubAqo+Qtd6b8KVNDr6GGgreS0B0P169qmVqawyUPramMIc6LQSAUrTwQT3/ledtT2zVLtjnxW9MXZiK6VIcKIi8Y3K5IAORz39KVlXOVHuSJDhc8Bx9T4UElKF4JIwPTIHGacfSk9SB14OoBvW9ezdtHTViEG1JBTjI7VV6ukqTJS2keUuIBBOcgkUUUlbg3oTaYcxTafKnG9asYPTCiPueKhniPJhJhyIkd2KpB+C42lSAPTBGKKKOaXBe6/fZ//9k=
+ogImage: null
 labels:
   - Bracenet
   - Geisternetze
@@ -25,17 +32,12 @@ labels:
   - Ozean
   - Recycling
   - Zero Waste
-type: Artikel
-typeName: Artikel
-date: 2018-08-30T07:38:07.000Z
+focusKeyword: Bracenet
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "21864"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-29-Bracenet-25__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-29-Bracenet-25__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcECP/EACsQAAEDAwMCAwkAAAAAAAAAAAECAwQABREGEiExQRMiURQVI2FxgZHB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EAB4RAAICAgMBAQAAAAAAAAAAAAECABEDIRIxwSJR/9oADAMBAAIRAxEAPwCylXOZp21pk+9bglKuofDbxKQRk7dp46d8n5V32uVqe+WGNOXcYXsb+xxoCEjeoEg9eOOcZ70nTbderzbXBMhyHIvhbStvyEHaTxgnuaeLTf2IOmLbGU0psMsstoG3g4wPxj91M5ZF0dzSxriyubAqo+Qtd6b8KVNDr6GGgreS0B0P169qmVqawyUPramMIc6LQSAUrTwQT3/ledtT2zVLtjnxW9MXZiK6VIcKIi8Y3K5IAORz39KVlXOVHuSJDhc8Bx9T4UElKF4JIwPTIHGacfSk9SB14OoBvW9ezdtHTViEG1JBTjI7VV6ukqTJS2keUuIBBOcgkUUUlbg3oTaYcxTafKnG9asYPTCiPueKhniPJhJhyIkd2KpB+C42lSAPTBGKKKOaXBe6/fZ//9k=
 subTitle: Ein Statement für die Meere
   
 ---

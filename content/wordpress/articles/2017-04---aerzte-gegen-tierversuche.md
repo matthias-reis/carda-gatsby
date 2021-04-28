@@ -1,15 +1,23 @@
 ---
+date: 2017-04-03T16:43:20.000Z
+slug: bundestagpetition-der-aerzte-gegen-tierversuche
+path: /2017/04/bundestagpetition-der-aerzte-gegen-tierversuche/
+type: Artikel
+typeName: Artikel
 title: Ärzte gegen Tierversuche
 seoTitle: Bundestagspetition der Ärzte gegen Tierversuche - Bitte bis zum 11.
   April mitzeichnen!
-slug: bundestagpetition-der-aerzte-gegen-tierversuche
-path: /2017/04/bundestagpetition-der-aerzte-gegen-tierversuche/
-fileName: 2017-04---aerzte-gegen-tierversuche.md
+ogTitle: Bundestagspetition der Ärzte gegen Tierversuche - Bitte bis zum 11.
+  April mitzeichnen!
 description: 50.000 Unterschriften benötigen die Ärzte gegen Tierversuche, damit
   sie ihre Argumente im Bundestag vorbringen dürfen. Bitte zeichnet jetzt mit!
 excerpt: 50.000 Unterschriften benötigen die Ärzte gegen Tierversuche, damit sie
   ihre Argumente im Bundestag vorbringen dürfen. Bitte zeichnet jetzt mit!
-focusKeyword: Ärzte gegen Tierversuche
+fileName: 2017-04---aerzte-gegen-tierversuche.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_17553490_10155616921599796_7138675616111581720_n__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_17553490_10155616921599796_7138675616111581720_n__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQIEB//EAC4QAAEDBAECBAMJAAAAAAAAAAECAwQABREhBhITIjFRYUGBoQcUFyMyQnGiwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADBBESITFh/9oADAMBAAIRAxEAPwDrN1uEuMC3CQHpCjtzHUW97GPWpLPeZFxku2ue3Jjy0pEgSEMlDRSF/oBB2cep3Wy9x6NEWmY4VrU0srBU5hKSfiR86y5PehYrLFkvvtx1OvdoBwqOfApWBhKt4ST5D/Km7Gyxj615EKg2ZZvSHu0Shl3r6jlIxnHrk6qNqSpC0h+O6NaVnufXOBSB+IsdxILk2IpJGcAPe3l+Tsb+lNHHrvLvFpj3Cyw7XIhO9QS994cb6ykkHRQD5jG/5o1sVvIyzCvqHJ10PvUueTJS9BZhuBXRMkNsKUk4KQT1E/1x86reccZZ5PBjRXpDsZLT3dSWwD+xSMb9lmiijKhujJxY1OrEOiIlo+yyMULBvM8qVjxlKSR4ca1j4CmzjjTfFbQzZ21PS0sKcX3nVgKUVKKjnA96KKwVKnaiE+fkZI4Wtse+Cf/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_04_17553490_10155616921599796_7138675616111581720_n__l.jpg
 labels:
   - Ärzte gegen Tierversuche
   - Bundestag
@@ -21,17 +29,12 @@ labels:
   - Tierschutz
   - Tierversuche
   - Tierversuche sind sinnlos
-type: Artikel
-typeName: Artikel
-date: 2017-04-03T16:43:20.000Z
+focusKeyword: Ärzte gegen Tierversuche
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16236"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_17553490_10155616921599796_7138675616111581720_n__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_17553490_10155616921599796_7138675616111581720_n__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQIEB//EAC4QAAEDBAECBAMJAAAAAAAAAAECAwQABREhBhITIjFRYUGBoQcUFyMyQnGiwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADBBESITFh/9oADAMBAAIRAxEAPwDrN1uEuMC3CQHpCjtzHUW97GPWpLPeZFxku2ue3Jjy0pEgSEMlDRSF/oBB2cep3Wy9x6NEWmY4VrU0srBU5hKSfiR86y5PehYrLFkvvtx1OvdoBwqOfApWBhKt4ST5D/Km7Gyxj615EKg2ZZvSHu0Shl3r6jlIxnHrk6qNqSpC0h+O6NaVnufXOBSB+IsdxILk2IpJGcAPe3l+Tsb+lNHHrvLvFpj3Cyw7XIhO9QS994cb6ykkHRQD5jG/5o1sVvIyzCvqHJ10PvUueTJS9BZhuBXRMkNsKUk4KQT1E/1x86reccZZ5PBjRXpDsZLT3dSWwD+xSMb9lmiijKhujJxY1OrEOiIlo+yyMULBvM8qVjxlKSR4ca1j4CmzjjTfFbQzZ21PS0sKcX3nVgKUVKKjnA96KKwVKnaiE+fkZI4Wtse+Cf/Z
 subTitle: Bundestagspetition
   
 ---

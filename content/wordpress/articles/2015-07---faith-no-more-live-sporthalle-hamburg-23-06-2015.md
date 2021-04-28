@@ -1,16 +1,23 @@
 ---
-title: Faith No More live @ Sporthalle Hamburg 23.06.2015
-seoTitle: Faith No More live @ Sporthalle Hamburg
+date: 2015-07-21T13:23:37.000Z
 slug: faith-no-more-live-sporthalle-hamburg-23-06-2015
 path: /2015/07/faith-no-more-live-sporthalle-hamburg-23-06-2015/
-fileName: 2015-07---faith-no-more-live-sporthalle-hamburg-23-06-2015.md
+type: Artikel
+typeName: Konzertbericht
+title: Faith No More live @ Sporthalle Hamburg 23.06.2015
+seoTitle: Faith No More live @ Sporthalle Hamburg
+ogTitle: Faith No More live @ Sporthalle Hamburg 23.06.2015
 description: Ich habe Mike Patton getroffen! Am 23. Juni war es endlich soweit
   und es hat sich gelohnt! Das Faith No More Konzert in Hamburg war wirklich
   genial!
 excerpt: Ich habe Mike Patton getroffen! Natürlich nicht persönlich, aber ich
   habe es in meinem hohen Alter endlich geschafft, ein Faith No More Konzert zu
   besuchen!
-focusKeyword: Faith No More
+fileName: 2015-07---faith-no-more-live-sporthalle-hamburg-23-06-2015.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_17295536976_02149f84df_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_17295536976_02149f84df_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQQDBv/EACwQAAEDAwMDAgUFAAAAAAAAAAECAwQFESEABhITMUEUUQciMmGBI0JSkcH/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAAMF/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxEhkTH/2gAMAwEAAhEDEQA/AOspqNwJVCUip7eLEhsq6iYDptxVxUcuA2Hta+r61Tt5NK5M1Kluw+nzLzMBtsJ73FnHCTi3jzpSnrgU5ukxl1OISlK1OEPJ4nksnORYZHf76E+J+51sUJtraVRgsTzK4vBLjCklopXyJBWcEhOfuNS0EkKB7L6RhksPb+45SkGp1AtxhcOqQWEuNkdxxDXvj6tab7hwnoTTEboRlpWlZcaf6TqgPGb3BPcAZ99RbS3k5zkt7iq1Fjx2ICWgpM5ni68FqUXEoBsLpUAbn9vm+ktxVKE1AYnSJjLEBSQfUKKOFlfSL3zfxa4zrKuqYP8API9W5NKZFpcpikvpotFbkuNKTb0SAlSkrIAtjGOxNtU7lgbchx/X1VmDSlJHSRxcTHaUuxULhPc4P4GhY1VbaMQMrjtMx0cS10wb5Jxk27n31LvCC3u+jIpkmc22wmQiSEpZQogJ5WT4/l/WnXXguATghqa+bGaVAoKg05DeW9L6C5LBExSrtBRbCyASi4Vg9xfR8+Z0mUguTFkKKSr17YsoW+U3Av8Aj/dAbd2+1tieuQxUX32PSqiNxnTZDSVEEgDkQRcE2IsCo6krcz9NtJTHPTupQDYSFmwtgdu3jQ7XUtxtiQpyf//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2015_07_19890941511_fabefbe83b_z__l.jpg
 labels:
   - Faith No More
   - Faith No More Hamburg
@@ -21,17 +28,12 @@ labels:
   - Musik
   - Rock
   - Sporthalle Hamburg
-type: Artikel
-typeName: Konzertbericht
-date: 2015-07-21T13:23:37.000Z
+focusKeyword: Faith No More
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "12081"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_17295536976_02149f84df_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_17295536976_02149f84df_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQQDBv/EACwQAAEDAwMDAgUFAAAAAAAAAAECAwQFESEABhITMUEUUQciMmGBI0JSkcH/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAAMF/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxEhkTH/2gAMAwEAAhEDEQA/AOspqNwJVCUip7eLEhsq6iYDptxVxUcuA2Hta+r61Tt5NK5M1Kluw+nzLzMBtsJ73FnHCTi3jzpSnrgU5ukxl1OISlK1OEPJ4nksnORYZHf76E+J+51sUJtraVRgsTzK4vBLjCklopXyJBWcEhOfuNS0EkKB7L6RhksPb+45SkGp1AtxhcOqQWEuNkdxxDXvj6tab7hwnoTTEboRlpWlZcaf6TqgPGb3BPcAZ99RbS3k5zkt7iq1Fjx2ICWgpM5ni68FqUXEoBsLpUAbn9vm+ktxVKE1AYnSJjLEBSQfUKKOFlfSL3zfxa4zrKuqYP8API9W5NKZFpcpikvpotFbkuNKTb0SAlSkrIAtjGOxNtU7lgbchx/X1VmDSlJHSRxcTHaUuxULhPc4P4GhY1VbaMQMrjtMx0cS10wb5Jxk27n31LvCC3u+jIpkmc22wmQiSEpZQogJ5WT4/l/WnXXguATghqa+bGaVAoKg05DeW9L6C5LBExSrtBRbCyASi4Vg9xfR8+Z0mUguTFkKKSr17YsoW+U3Av8Aj/dAbd2+1tieuQxUX32PSqiNxnTZDSVEEgDkQRcE2IsCo6krcz9NtJTHPTupQDYSFmwtgdu3jQ7XUtxtiQpyf//Z
 subTitle: Eine schöne Erinnerung
   
 ---

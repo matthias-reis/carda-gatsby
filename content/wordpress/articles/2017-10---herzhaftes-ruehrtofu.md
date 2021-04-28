@@ -1,14 +1,21 @@
 ---
-title: Herzhaftes Rührtofu
-seoTitle: Rührtofu - Vegan, herzhaft und lecker
+date: 2017-10-15T03:00:42.000Z
 slug: ruehrtofu-vegan-herzhaft-und-lecker
 path: /2017/10/ruehrtofu-vegan-herzhaft-und-lecker/
-fileName: 2017-10---herzhaftes-ruehrtofu.md
+type: Artikel
+typeName: Rezept
+title: Herzhaftes Rührtofu
+seoTitle: Rührtofu - Vegan, herzhaft und lecker
+ogTitle: Rührtofu - Vegan, herzhaft und lecker
 description: Rührtofu - Wie Ihr es am besten zubereitet erfahrt Ihr in meinem
   Rezept - Vegan herzhaft und lecker ist dieses Frühstück für jeden ein Genuss.
 excerpt: Rührtofu - Wie Ihr es am besten zubereitet erfahrt Ihr in meinem Rezept
   - Vegan herzhaft und lecker ist dieses Frühstück für jeden ein Genuss.
-focusKeyword: Rührtofu
+fileName: 2017-10---herzhaftes-ruehrtofu.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-109__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-109__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACgQAAEEAQMEAQQDAAAAAAAAAAECAwQFEQASIQYTMUFCBxQiMmGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAP/EACARAAEEAQQDAAAAAAAAAAAAAAEAAgMREhMUIjEhMkH/2gAMAwEAAhEDEQA/AIaoMJFPMmIUp+a2MtxyojO3AwEjlRWo8Y8BKjqpawq03FNHqYcpDjqMymnEubEjjacq+XJyB/er3TbYjUkm1kHEWMhSY6EkDuLB25J9ZVxg6hV/1Sednmp6jjRpdYgpbkvgdss84LqSnPj+M8jzzodKwSYkrGTHtP2DESn6flWBCI77gBhp2hW/8jxg8qylKiT6BGp2anrCmkPxIiWLVphbg2J4cSMhSCffgjnkHGtOpdVctyqSXKQuXAeVHbQ89saU2VhRWB8iU+CDkbsazTrbHQrlk2zaRphkMLZhwmVJUptSz+7h9AcnPGc4xrRul1OXqpkeb+pegtzIpX61aUuNguKSgqI3LPIST8Ruyc/5zphXRvTUJBsb1xuNWMtpPaS73HpDnG5A9nJBxz7HjnRo1TbsPM9pc6zipnTl5Bj29hZXcBvsTispZ7QdQxkgpGD6CRtzpS1uq1VbcVzbTZ7s137ZCEJT20ggtqCgPHJ5J8DGjRpwF0qEr//Z
+ogImage: null
 labels:
   - Appetit
   - crueltyfree
@@ -25,17 +32,12 @@ labels:
   - Veganer
   - veganes Frühstück
   - veganes Rührei
-type: Artikel
-typeName: Rezept
-date: 2017-10-15T03:00:42.000Z
+focusKeyword: Rührtofu
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "8950"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-109__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-109__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACgQAAEEAQMEAQQDAAAAAAAAAAECAwQFEQASIQYTMUFCBxQiMmGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAP/EACARAAEEAQQDAAAAAAAAAAAAAAEAAgMREhMUIjEhMkH/2gAMAwEAAhEDEQA/AIaoMJFPMmIUp+a2MtxyojO3AwEjlRWo8Y8BKjqpawq03FNHqYcpDjqMymnEubEjjacq+XJyB/er3TbYjUkm1kHEWMhSY6EkDuLB25J9ZVxg6hV/1Sednmp6jjRpdYgpbkvgdss84LqSnPj+M8jzzodKwSYkrGTHtP2DESn6flWBCI77gBhp2hW/8jxg8qylKiT6BGp2anrCmkPxIiWLVphbg2J4cSMhSCffgjnkHGtOpdVctyqSXKQuXAeVHbQ89saU2VhRWB8iU+CDkbsazTrbHQrlk2zaRphkMLZhwmVJUptSz+7h9AcnPGc4xrRul1OXqpkeb+pegtzIpX61aUuNguKSgqI3LPIST8Ruyc/5zphXRvTUJBsb1xuNWMtpPaS73HpDnG5A9nJBxz7HjnRo1TbsPM9pc6zipnTl5Bj29hZXcBvsTispZ7QdQxkgpGD6CRtzpS1uq1VbcVzbTZ7s137ZCEJT20ggtqCgPHJ5J8DGjRpwF0qEr//Z
 subTitle: Veganes Sonntagsfrühstück für zwei
   
 ---

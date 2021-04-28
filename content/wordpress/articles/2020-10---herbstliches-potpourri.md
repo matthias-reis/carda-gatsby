@@ -1,16 +1,23 @@
 ---
-title: Herbstliches Potpourri
-seoTitle: Herbstliches Potpourri – bunte Farben fürs Wohnzimmer
+date: 2020-10-06T11:12:12.000Z
 slug: herbstliches-potpourri
 path: /2020/10/herbstliches-potpourri/
-fileName: 2020-10---herbstliches-potpourri.md
+type: Artikel
+typeName: Artikel
+title: Herbstliches Potpourri
+seoTitle: Herbstliches Potpourri – bunte Farben fürs Wohnzimmer
+ogTitle: Herbstliches Potpourri – bunte Farben fürs Wohnzimmer
 description: Der Herbst ist bunt und das sollten wir zu unserem Vorteil nutzen!
   Ich habe jetzt zum Beispiel ein farbenfrohes Potpourri gebastelt – das hebt
   die Stimmung!
 excerpt: Der Herbst ist bunt und das sollten wir zu unserem Vorteil nutzen! Ich
   habe jetzt zum Beispiel ein farbenfrohes Potpourri gebastelt – das hebt die
   Stimmung!
-focusKeyword: Potpourri
+fileName: 2020-10---herbstliches-potpourri.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-04-herbstliches-potpourri-06__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-04-herbstliches-potpourri-06__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACkQAAIBAwMDAwQDAAAAAAAAAAECAwQFEQASIQYTMQdRYRQiMkEVcYH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFBAb/xAAjEQACAQIGAgMAAAAAAAAAAAABAgMAEQQSITFBUQWBE5Hh/9oADAMBAAIRAxEAPwBounrBBBf4hE9NWWWcFlaNcTxEDDKykj94Ye4PnjSX1T6nPItnem+plk771SwxIeFLFRHJkYZQeP8ARrTufRU9BNO97o7H360b4DCcdtgcFVXAHscA6S79DXiaWltKTQFlGS1YYJIdzLuWNCCcYA+BnJ+cgTFLKYnG3ZtvSuGDBCzi9WG09UiS5UzVdI8AlhebYJlXaAAxAjyCPGB78+MabunepYqh6WEVMLTzg4jX7tpHJUsuRkePPnUd6Qudmt9+KxUNcKcU5Z56mneWV3c7CRJuwVAGG4xnka2LvcbpRGCjstJRO1RzBMWTfIqtyxJAwcENwBoePNBKEW4vwfvmq3VSNeav9wtVFXUxhraWKoj87ZEBAPv8f3qG+oPSc8F5X+FjeBN/bZ+xvacNsYAZBGAV/I4P2n20aNavyqqPjIG5A9G9F4aUo3dLsV0oqWO7i2QvVSUcElRV1pjaQpLgbYE2Ha2W/IA+AedNXSNhvvUl36cv1zpKNaOOjLkIpDdxj4GRuUBf0SQSeMaNGhlwiLJ2Rpf1+1c7ZEzAa1//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_10_herbstliches-potpourri-fb.png__l.jpg
 labels:
   - Achtsamkeit
   - Achtsamkeit
@@ -21,17 +28,12 @@ labels:
   - Kreativität
   - Potpourri
   - Selbstliebe
-type: Artikel
-typeName: Artikel
-date: 2020-10-06T11:12:12.000Z
+focusKeyword: Potpourri
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31526"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-04-herbstliches-potpourri-06__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-04-herbstliches-potpourri-06__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACkQAAIBAwMDAwQDAAAAAAAAAAECAwQFEQASIQYTMQdRYRQiMkEVcYH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFBAb/xAAjEQACAQIGAgMAAAAAAAAAAAABAgMAEQQSITFBUQWBE5Hh/9oADAMBAAIRAxEAPwBounrBBBf4hE9NWWWcFlaNcTxEDDKykj94Ye4PnjSX1T6nPItnem+plk771SwxIeFLFRHJkYZQeP8ARrTufRU9BNO97o7H360b4DCcdtgcFVXAHscA6S79DXiaWltKTQFlGS1YYJIdzLuWNCCcYA+BnJ+cgTFLKYnG3ZtvSuGDBCzi9WG09UiS5UzVdI8AlhebYJlXaAAxAjyCPGB78+MabunepYqh6WEVMLTzg4jX7tpHJUsuRkePPnUd6Qudmt9+KxUNcKcU5Z56mneWV3c7CRJuwVAGG4xnka2LvcbpRGCjstJRO1RzBMWTfIqtyxJAwcENwBoePNBKEW4vwfvmq3VSNeav9wtVFXUxhraWKoj87ZEBAPv8f3qG+oPSc8F5X+FjeBN/bZ+xvacNsYAZBGAV/I4P2n20aNavyqqPjIG5A9G9F4aUo3dLsV0oqWO7i2QvVSUcElRV1pjaQpLgbYE2Ha2W/IA+AedNXSNhvvUl36cv1zpKNaOOjLkIpDdxj4GRuUBf0SQSeMaNGhlwiLJ2Rpf1+1c7ZEzAa1//2Q==
 subTitle: Farbe fürs Wohnzimmer
   
 ---

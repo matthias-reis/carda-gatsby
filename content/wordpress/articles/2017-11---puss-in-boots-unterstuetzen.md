@@ -1,14 +1,21 @@
 ---
-title: Puss in Boots unterstützen
-seoTitle: Heuspender für herrenlose Pferde gesucht - Unterstützt jetzt Puss in Boots!
+date: 2017-11-20T17:54:33.000Z
 slug: herrenlose-pferde-heuspenden-puss-in-boots
 path: /2017/11/herrenlose-pferde-heuspenden-puss-in-boots/
-fileName: 2017-11---puss-in-boots-unterstuetzen.md
+type: Artikel
+typeName: Artikel
+title: Puss in Boots unterstützen
+seoTitle: Heuspender für herrenlose Pferde gesucht - Unterstützt jetzt Puss in Boots!
+ogTitle: Heuspender für herrenlose Pferde gesucht - Unterstützt jetzt Puss in Boots!
 description: Herrenlose Pferde freuen sich über Heuspenden. Ein Heuballen kostet
   lediglich 4 Euro und kann ein Leben retten. Unterstützt jetzt Puss in Boots!
 excerpt: Herrenlose Pferde freuen sich über Heuspenden. Ein Heuballen kostet
   lediglich 4 Euro und kann ein Leben retten. Unterstützt jetzt Puss in Boots!
-focusKeyword: Herrenlose Pferde
+fileName: 2017-11---puss-in-boots-unterstuetzen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Heu-1-von-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Heu-1-von-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUH/8QALBAAAQMCBQMDAwUAAAAAAAAAAQIDBAURAAYHEiExQXETFCIIYYEWMkORsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAA//EABwRAAICAgMAAAAAAAAAAAAAAAABAhEDMRMhQf/aAAwDAQACEQMRAD8A3qfT851Ge6aLCoblL+K2pUmQ4gqQQDtKU3O4cjoBhSRqTmB6emmwKI0qeX1RSwGFl1Lo5CShSgeRc3+2Oj6e1dDtMDTawC0n9nS4tfxjA1FVGTnnJeYUyExnROTGkPE/xHuojk7RuHg4uaTWyhijdNCZHy5nXUp9mqofhQkMqCUpWVI+SVWsEJ3dD1JsL8eNHOOWcz0hcr9R15uVGTHLjcaIAgLVzt9QbQbAi/Xm2GL6fZTcPJkksWJ94/uUo3JsohJ8AdvucLOoVbC4slTy1OSpLylKdPBsLAC3i/HYDGUssl1ezVY43oTtPNSYUFUSI+t1lZ2t7nRdHYckdAfHnFfVesCRT00u6FBuWHErQb2SSeT/AHbBgwmqYUyvkHNK6DSPY+slIeU8Ugq22sq3P+/nEMzVczokcsLSfUK3Cb/njBgwJJN2NPw//9k=
+ogImage: null
 labels:
   - Britische Inseln
   - Galway
@@ -22,17 +29,12 @@ labels:
   - Tierethik
   - Tierrechte
   - Tierschutz
-type: Artikel
-typeName: Artikel
-date: 2017-11-20T17:54:33.000Z
+focusKeyword: Herrenlose Pferde
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "18534"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Heu-1-von-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Heu-1-von-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUH/8QALBAAAQMCBQMDAwUAAAAAAAAAAQIDBAURAAYHEiExQXETFCIIYYEWMkORsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAA//EABwRAAICAgMAAAAAAAAAAAAAAAABAhEDMRMhQf/aAAwDAQACEQMRAD8A3qfT851Ge6aLCoblL+K2pUmQ4gqQQDtKU3O4cjoBhSRqTmB6emmwKI0qeX1RSwGFl1Lo5CShSgeRc3+2Oj6e1dDtMDTawC0n9nS4tfxjA1FVGTnnJeYUyExnROTGkPE/xHuojk7RuHg4uaTWyhijdNCZHy5nXUp9mqofhQkMqCUpWVI+SVWsEJ3dD1JsL8eNHOOWcz0hcr9R15uVGTHLjcaIAgLVzt9QbQbAi/Xm2GL6fZTcPJkksWJ94/uUo3JsohJ8AdvucLOoVbC4slTy1OSpLylKdPBsLAC3i/HYDGUssl1ezVY43oTtPNSYUFUSI+t1lZ2t7nRdHYckdAfHnFfVesCRT00u6FBuWHErQb2SSeT/AHbBgwmqYUyvkHNK6DSPY+slIeU8Ugq22sq3P+/nEMzVczokcsLSfUK3Cb/njBgwJJN2NPw//9k=
 subTitle: Herrenlose Pferde in Irland suchen Heuspender
   
 ---

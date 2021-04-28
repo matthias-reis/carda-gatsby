@@ -1,16 +1,23 @@
 ---
-title: Ollie der Hip Bag
-seoTitle: Feuerwear hat News in Sachen Nachhaltigkeit – Ollie der Hip Bag ist da
+date: 2021-03-26T13:02:53.000Z
 slug: feuerwear-ollie-hip-bag
 path: /2021/03/feuerwear-ollie-hip-bag/
-fileName: 2021-03---ollie-der-hip-bag.md
+type: Artikel
+typeName: Artikel
+title: Ollie der Hip Bag
+seoTitle: Feuerwear hat News in Sachen Nachhaltigkeit – Ollie der Hip Bag ist da
+ogTitle: Feuerwear hat News in Sachen Nachhaltigkeit – Ollie der Hip Bag ist da
 description: Ollie der Hip Bag ist der neueste Zugang der Feuerwear Kollektion.
   Neben Feuerwehrschläuchen stecken auch recycelte PET-Flaschen drin.
 excerpt: "Werbung – Ollie der Hip Bag ist der neueste Zugang der Feuerwear
   Kollektion. Das Besondere: Im Gegensatz zu anderen Feuerwear Taschen und auch
   seinem Vorgänger Otis wird nicht ausschließlich Feuerwehrschlauch verarbeitet,
   sondern auch recycelte PET-Flaschen. Die Materialien sind komplett vegan."
-focusKeyword: Feuerwear
+fileName: 2021-03---ollie-der-hip-bag.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-feuerwear-6__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-feuerwear-6__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMHBgQI/8QALRAAAgECBAUDAgcAAAAAAAAAAQIDAAQFESFBBgcSUWETJDEUIzJCUoGRobH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAHREAAgIDAAMAAAAAAAAAAAAAAgMAAQQRMRIhQf/aAAwDAQACEQMRAD8AhUkX1rlkcroBkN6ZbYZiLTwxWzl5JpVighRetpHY5KADuTSCJLe9LwnK3KCUE9iM8qsHIXDo7q+m4kvEBMCGKw6sulGOjyHs2Wi+MzuKYdsCvy7Ap0QVY8kz4pwTGeG5mg4qwOazfMqtyo+258OM1P8ANZ9ghyKNnuPNevsUxaX0pIpFWWBtGRlDqw8g6GpVxRwlwliReQ4aLCc/nsiYRn36fw/1QwyiCbJAlI5J7jCbZSxDRgrlsQG+D3HxWlsOYeP2EAhs0sli1ISKL0lz30XTttRRVRyQZqyr5JynGvdDfrdxsfNXGFYLd4fHI27I/Sf8rrTmVZ3I93DdRH9JUOP2ooqezGAeR8HEXZ//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_feuerwear-ollie-fb.png__l.jpg
 labels:
   - Bauchtasche
   - Bauchtasche Festival
@@ -23,17 +30,12 @@ labels:
   - Upcycling
   - vegane Taschen
   - veganes Leder
-type: Artikel
-typeName: Artikel
-date: 2021-03-26T13:02:53.000Z
+focusKeyword: Feuerwear
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33562"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-feuerwear-6__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-feuerwear-6__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMHBgQI/8QALRAAAgECBAUDAgcAAAAAAAAAAQIDAAQFESFBBgcSUWETJDEUIzJCUoGRobH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAHREAAgIDAAMAAAAAAAAAAAAAAgMAAQQRMRIhQf/aAAwDAQACEQMRAD8AhUkX1rlkcroBkN6ZbYZiLTwxWzl5JpVighRetpHY5KADuTSCJLe9LwnK3KCUE9iM8qsHIXDo7q+m4kvEBMCGKw6sulGOjyHs2Wi+MzuKYdsCvy7Ap0QVY8kz4pwTGeG5mg4qwOazfMqtyo+258OM1P8ANZ9ghyKNnuPNevsUxaX0pIpFWWBtGRlDqw8g6GpVxRwlwliReQ4aLCc/nsiYRn36fw/1QwyiCbJAlI5J7jCbZSxDRgrlsQG+D3HxWlsOYeP2EAhs0sli1ISKL0lz30XTttRRVRyQZqyr5JynGvdDfrdxsfNXGFYLd4fHI27I/Sf8rrTmVZ3I93DdRH9JUOP2ooqezGAeR8HEXZ//2Q==
 subTitle: Neues von Feuerwear
   
 ---

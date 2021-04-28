@@ -1,16 +1,23 @@
 ---
-title: Unboxing Vegan Beauty Basket
-seoTitle: Unboxing Vegan Beauty Basket - Die Weihnachtsedition
+date: 2016-12-22T08:52:56.000Z
 slug: unboxing-vegan-beauty-basket-weihnachtsedition
 path: /2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/
-fileName: 2016-12---unboxing-vegan-beauty-basket.md
+type: Artikel
+typeName: Artikel
+title: Unboxing Vegan Beauty Basket
+seoTitle: Unboxing Vegan Beauty Basket - Die Weihnachtsedition
+ogTitle: Unboxing Vegan Beauty Basket - Die Weihnachtsedition
 description: Ein himmlischer Duft liegt in der Luft beim Unboxing der
   Weihnachtsedition des Vegan Beauty Basket. Jede Menge Überraschungen für jeden
   Geschmack.
 excerpt: Werbung - Ein himmlischer Duft liegt in der Luft beim Unboxing der
   Weihnachtsedition des Vegan Beauty Basket. Jede Menge Überraschungen für jeden
   Geschmack.
-focusKeyword: Vegan Beauty Basket
+fileName: 2016-12---unboxing-vegan-beauty-basket.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_12_31634726512_d35014953f_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_12_31634726512_d35014953f_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwABBAUG/8QAKhAAAgEDAwMCBgMAAAAAAAAAAQIDAAQRBRIhBjFBInEjMkJRYdFigbH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAGREBAQEBAQEAAAAAAAAAAAAAAQACERIh/9oADAMBAAIRAxEAPwAu6PtYbzWLGORzLEsisxJ8kgbTzTbYaDolnBI5sLWJPmdmBA9yc0XdO6dZm90+eELCsbq/w/US4IxuI4Hn9UnXatKwk4mjjBYQ8g7sjBA7MRz3qWHldyaQXl0rjRdMmImFlbFyuA4XuP8AKNdf6ZbZfXVsojsIGYCMQkkNz2/HHfP9UgaW86vLPPuhSUDbbly5H8m8KfwK0OotRDW9w04EcKxlImab0yEZGDj38famfsrnw8HsYaMrB4drDbLhsEbtp78Z9q9Ppmp311dtbiZUwT69gJ+r9VVVJnLA1e/nkZFmEZjDEkIDuxXCuryVrUT7iEyWEYwRkDznP2qqrSL/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2016_12_31634726512_d35014953f_z__l.jpg
 labels:
   - Beauty Box
   - Berlin
@@ -23,17 +30,12 @@ labels:
   - vegan beauty
   - Vegan Beauty Basket
   - Wellness
-type: Artikel
-typeName: Artikel
-date: 2016-12-22T08:52:56.000Z
+focusKeyword: Vegan Beauty Basket
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "15532"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_12_31634726512_d35014953f_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_12_31634726512_d35014953f_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwABBAUG/8QAKhAAAgEDAwMCBgMAAAAAAAAAAQIDAAQRBRIhBjFBInEjMkJRYdFigbH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAGREBAQEBAQEAAAAAAAAAAAAAAQACERIh/9oADAMBAAIRAxEAPwAu6PtYbzWLGORzLEsisxJ8kgbTzTbYaDolnBI5sLWJPmdmBA9yc0XdO6dZm90+eELCsbq/w/US4IxuI4Hn9UnXatKwk4mjjBYQ8g7sjBA7MRz3qWHldyaQXl0rjRdMmImFlbFyuA4XuP8AKNdf6ZbZfXVsojsIGYCMQkkNz2/HHfP9UgaW86vLPPuhSUDbbly5H8m8KfwK0OotRDW9w04EcKxlImab0yEZGDj38famfsrnw8HsYaMrB4drDbLhsEbtp78Z9q9Ppmp311dtbiZUwT69gJ+r9VVVJnLA1e/nkZFmEZjDEkIDuxXCuryVrUT7iEyWEYwRkDznP2qqrSL/2Q==
 subTitle: Die Weihnachtsedition
   
 ---

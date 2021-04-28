@@ -1,14 +1,21 @@
 ---
-title: Neues Album von Calexico
-seoTitle: Calexico - "Edge Of The Sun" ist da! - Rezension
+date: 2015-04-14T08:52:25.000Z
 slug: calexico-edge-of-the-sun-ist-da
 path: /2015/04/calexico-edge-of-the-sun-ist-da/
-fileName: 2015-04---neues-album-von-calexico.md
+type: Artikel
+typeName: Review
+title: Neues Album von Calexico
+seoTitle: Calexico - "Edge Of The Sun" ist da! - Rezension
+ogTitle: Calexico - "Edge Of The Sun" ist da! - Rezension
 description: Die neue Platte von Calexico "Edge Of The Sun" ist endlich da! Ich
   habe schon mal reingehört!
 excerpt: Da Calexico für mich zu den absoluten Favoriten zählen, musste es bei
   der neuen Platte etwas ganz besonderes sein.
-focusKeyword: Edge Of The Sun
+fileName: 2015-04---neues-album-von-calexico.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-4__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-4__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAApEAACAQMDAwMEAwAAAAAAAAABAgMEBREABiESMWETIpEyQUKBI3HB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAAkEQABBAIABQUAAAAAAAAAAAABAAIDBBEhBRITgZFBUXGh8P/aAAwDAQACEQMRAD8AyG1bFerRWkqmDE5ZYwAPk866a7bVlpESGleoqZU4YBh6f9dWM/GrO0xW5rXEbhTbiMM8MaLIPZG0gGXOS2GBPAAwAO+TprHSbZUmJLddSy9ceGcL/IXygPv7BOPJ51u+ZuMMap1eja6hksS5HoBodz++VP2Ww7auNIEp6GnSoAw8Mp6nB8E/UPI0r3BsOiMTmlVqV8fiSV/YP+aob3FtZqetNHQ3FJWjUUjO4Ppyc5LHq5B47Dx51LXu7slMY6SpucRUAL1VHUox4znTbL8TmcssfhIScFtxzdWtYOPZ2T97z3HlbDf92QUe06+nubr0yoEhibHLAj6R9sDWMS7nCRuyv9gx5/Lr4+NGjU1p0uiGhhKazcvqBjnuc4/ekVbc2nJ540aNCCSv/9k=
+ogImage: null
 labels:
   - Bands
   - Calexico
@@ -25,17 +32,12 @@ labels:
   - Rezension
   - Schallplatte
   - Vinyl
-type: Artikel
-typeName: Review
-date: 2015-04-14T08:52:25.000Z
+focusKeyword: Edge Of The Sun
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11730"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-4__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-4__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAApEAACAQMDAwMEAwAAAAAAAAABAgMEBREABiESMWETIpEyQUKBI3HB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAAkEQABBAIABQUAAAAAAAAAAAABAAIDBBEhBRITgZFBUXGh8P/aAAwDAQACEQMRAD8AyG1bFerRWkqmDE5ZYwAPk866a7bVlpESGleoqZU4YBh6f9dWM/GrO0xW5rXEbhTbiMM8MaLIPZG0gGXOS2GBPAAwAO+TprHSbZUmJLddSy9ceGcL/IXygPv7BOPJ51u+ZuMMap1eja6hksS5HoBodz++VP2Ww7auNIEp6GnSoAw8Mp6nB8E/UPI0r3BsOiMTmlVqV8fiSV/YP+aob3FtZqetNHQ3FJWjUUjO4Ppyc5LHq5B47Dx51LXu7slMY6SpucRUAL1VHUox4znTbL8TmcssfhIScFtxzdWtYOPZ2T97z3HlbDf92QUe06+nubr0yoEhibHLAj6R9sDWMS7nCRuyv9gx5/Lr4+NGjU1p0uiGhhKazcvqBjnuc4/ekVbc2nJ540aNCCSv/9k=
 subTitle: '"Edge Of The Sun" ist da!'
   
 ---

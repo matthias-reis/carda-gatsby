@@ -1,16 +1,23 @@
 ---
-title: 12 Songs für den November
-seoTitle: Musikliste für den November - 12 Songs für den Spätherbst
+date: 2020-10-26T08:09:02.000Z
 slug: musikliste-fuer-den-november-2020
 path: /2020/10/musikliste-fuer-den-november-2020/
-fileName: 2020-10---12-songs-fuer-den-november.md
+type: Artikel
+typeName: Artikel
+title: 12 Songs für den November
+seoTitle: Musikliste für den November - 12 Songs für den Spätherbst
+ogTitle: Musikliste für den November - 12 Songs für den Spätherbst
 description: "Es ist so weit! Die Platten für den November stehen bereit! In den
   letzten vier Wochen war musikalisch so einiges geboten also: Buckle your
   seatbelts!"
 excerpt: "Es ist so weit! Die Platten für den November stehen bereit! In den
   letzten vier Wochen war musikalisch so einiges geboten also: Buckle your
   seatbelts!"
-focusKeyword: Platten
+fileName: 2020-10---12-songs-fuer-den-november.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_musikliste__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_musikliste__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAgGBwECAwT/xAAtEAACAQMDAQYFBQAAAAAAAAABAgMEBREAEiEGBxMVMUFhFhgiI1FScZGS8P/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAZEQEBAAMBAAAAAAAAAAAAAAAAAQIREhP/2gAMAwEAAhEDEQA/AF3hTeW5IIGQfQfv7axUoqBSxZgeW9+R5as6m7Ia2WJ5BcwEUZfMOOP7ex/jWtR2Q1iwxs1zBjk4TEOePP8AV/s6nqHzTM9P9U34324fFEdvoLBSd8niLFUR5EmEKgsWwpYhnwecFRqwQcjI5Gk7uHaTaLnPfrhJ0zXw112dWlqluaERgFSoSPuQgI2LiQguDzu5OZx8ywhRUHSMj7AFLPc8E4GMn7Wl6YjVTG4rKltqoKRVZjHTxqxUDBd9rY9c7S2udBA3hVLBUDY6GogYgDgodqZ/H07dGjWLQp0RzQcDcAQWAHkPfXtoI1mh5kwwJdMLgcKc8n1wBo0aih//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_10_musikliste-fb-1.png__l.jpg
 labels:
   - Ambient
   - Bands
@@ -32,17 +39,12 @@ labels:
   - The Ocean
   - Thou
   - worriedaboutsatan
-type: Artikel
-typeName: Artikel
-date: 2020-10-26T08:09:02.000Z
+focusKeyword: Platten
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31626"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_musikliste__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_musikliste__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAgGBwECAwT/xAAtEAACAQMDAQYFBQAAAAAAAAABAgMEBREAEiEGBxMVMUFhFhgiI1FScZGS8P/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAZEQEBAAMBAAAAAAAAAAAAAAAAAQIREhP/2gAMAwEAAhEDEQA/AF3hTeW5IIGQfQfv7axUoqBSxZgeW9+R5as6m7Ia2WJ5BcwEUZfMOOP7ex/jWtR2Q1iwxs1zBjk4TEOePP8AV/s6nqHzTM9P9U34324fFEdvoLBSd8niLFUR5EmEKgsWwpYhnwecFRqwQcjI5Gk7uHaTaLnPfrhJ0zXw112dWlqluaERgFSoSPuQgI2LiQguDzu5OZx8ywhRUHSMj7AFLPc8E4GMn7Wl6YjVTG4rKltqoKRVZjHTxqxUDBd9rY9c7S2udBA3hVLBUDY6GogYgDgodqZ/H07dGjWLQp0RzQcDcAQWAHkPfXtoI1mh5kwwJdMLgcKc8n1wBo0aih//2Q==
 subTitle: Platten im Spätherbst
   
 ---

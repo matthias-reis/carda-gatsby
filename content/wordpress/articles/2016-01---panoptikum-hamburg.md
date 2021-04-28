@@ -1,16 +1,23 @@
 ---
-title: Panoptikum Hamburg
-seoTitle: Das Panoptikum - Deutschlands ältestes Wachsfigurenkabinett
+date: 2016-01-12T19:15:48.000Z
 slug: wachsfiguren-in-hamburg
 path: /2016/01/wachsfiguren-in-hamburg/
-fileName: 2016-01---panoptikum-hamburg.md
+type: Galerie
+typeName: Galerie
+title: Panoptikum Hamburg
+seoTitle: Das Panoptikum - Deutschlands ältestes Wachsfigurenkabinett
+ogTitle: Das Panoptikum - Deutschlands ältestes Wachsfigurenkabinett
 description: Seit über 130 Jahren gibt es in Hamburg das Panoptikum - In
   Deutschlands ältestem Wachsfigurenkabinett habe ich unter anderem die Beatles
   fotografiert.
 excerpt: Seit über 130 Jahren gibt es in Hamburg das Panoptikum - In
   Deutschlands ältestem Wachsfigurenkabinett habe ich unter anderem die Beatles
   fotografiert.
-focusKeyword: Panoptikum
+fileName: 2016-01---panoptikum-hamburg.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24310408846_2401e72222_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24310408846_2401e72222_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAGCP/EACoQAAIBAwIGAQMFAAAAAAAAAAECAwAEEQUhBgcSEyIxYRaB8EFRcbHB/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAgEQACAgIBBQEAAAAAAAAAAAABAgADBBExBRIhIlHx/9oADAMBAAIRAxEAPwAa5ZaLZ3jPdXkbO6zdtBvhfHOT9yBS42iRRIIb0mORFyqqnQfuP9rE8oZUltLWMPFK0cvU0bsFx79k/nqlix0i01vUb0X0EqRowmie0uHjkiPQCFJByc/3QuZeUfzKzArWugOBuG3M7hpfpxrqSJGliUyR9snO4+cfgoOYftXSHNC6CcJ6leSz3MqXCqFVyQIyUC9KZUHGRncZ3O9c4vsPdIYLlq9mEdTUC7jUceEeGba1SN7Cee2lgAkd1bqMvmF3z6PyP4rfR2XbsV1G2urq3uQhkZkkHkUzj9PiqqhMxidE/ZUvUldfoNfggjxbxHqPGGjTXd1MYo4Lgh4h5d5sZ6mbbf49UfsKqqoalCgqvAkflEv2u3JE/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24310408846_2401e72222_z__l.jpg
 labels:
   - Ausflug
   - Hamburg
@@ -20,17 +27,12 @@ labels:
   - Wachsfiguren
   - Wachsfigurenkabinett
   - Wachspuppen
-type: Galerie
-typeName: Galerie
-date: 2016-01-12T19:15:48.000Z
+focusKeyword: Panoptikum
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "13709"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24310408846_2401e72222_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24310408846_2401e72222_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAGCP/EACoQAAIBAwIGAQMFAAAAAAAAAAECAwAEEQUhBgcSEyIxYRaB8EFRcbHB/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAgEQACAgIBBQEAAAAAAAAAAAABAgADBBExBRIhIlHx/9oADAMBAAIRAxEAPwAa5ZaLZ3jPdXkbO6zdtBvhfHOT9yBS42iRRIIb0mORFyqqnQfuP9rE8oZUltLWMPFK0cvU0bsFx79k/nqlix0i01vUb0X0EqRowmie0uHjkiPQCFJByc/3QuZeUfzKzArWugOBuG3M7hpfpxrqSJGliUyR9snO4+cfgoOYftXSHNC6CcJ6leSz3MqXCqFVyQIyUC9KZUHGRncZ3O9c4vsPdIYLlq9mEdTUC7jUceEeGba1SN7Cee2lgAkd1bqMvmF3z6PyP4rfR2XbsV1G2urq3uQhkZkkHkUzj9PiqqhMxidE/ZUvUldfoNfggjxbxHqPGGjTXd1MYo4Lgh4h5d5sZ6mbbf49UfsKqqoalCgqvAkflEv2u3JE/9k=
 subTitle: Deutschlands ältestes Wachsfigurenkabinett
   
 ---

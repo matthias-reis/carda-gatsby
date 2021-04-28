@@ -1,16 +1,23 @@
 ---
-title: Duschgel von XAXX
-seoTitle: Von XAXX gibt es jetzt auch Duschgel - Vegan, duftig & sparsam duschen
+date: 2017-07-31T15:05:52.000Z
 slug: von-xaxx-gibt-es-jetzt-auch-duschgele
 path: /2017/07/von-xaxx-gibt-es-jetzt-auch-duschgele/
-fileName: 2017-07---duschgel-von-xaxx.md
+type: Artikel
+typeName: Produkttest
+title: Duschgel von XAXX
+seoTitle: Von XAXX gibt es jetzt auch Duschgel - Vegan, duftig & sparsam duschen
+ogTitle: Von XAXX gibt es jetzt auch Duschgel - Vegan, duftig & sparsam duschen
 description: Die neuen veganen Duschgele von XAXX sind durch einen Trick
   besonders sparsam. Ich habe sie getestet und einen kleinen Bericht
   geschrieben.
 excerpt: Werbung & Affiliate Link - Die neuen veganen Duschgele von XAXX sind
   durch einen Trick besonders sparsam. Ich habe sie getestet und einen kleinen
   Bericht geschrieben.
-focusKeyword: XAXX
+fileName: 2017-07---duschgel-von-xaxx.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35484487643_8112614297_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35484487643_8112614297_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAArEAABBAECBAQHAQAAAAAAAAABAgMEEQUAEgYhIjEHE0FxFiMkUXKBweH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/xAAbEQEAAgIDAAAAAAAAAAAAAAABABECMQMSQf/aAAwDAQACEQMRAD8ARsJDjp4ZTGdksJcaQ4lSilyusNpTXRd2PQeo1u8UeH+UgYqCJLUVkso3LHm2VJCVcxQJvq11w01pWchNyHihhDTClkHmPntAn9AHVX8VihmCHCoqQlh0naewKSUgewr3rWbDcbvyTBvhiHKayr7U2NJaxsWO/ujIK0q3FStu41t5Vf46RXMhjpDyw0tsrdDSUJSqyaH+6rjeOiYXhPiJUFS46VRWXVJTuUFEtrHPvqKR5oRNb2b+zfK7oBtB/mpyxqPGDZKZhcallYUvyHU0AoFkWRd1d3py4nPxNh24T/0527CtonmkVQr2Fd9GjVUSbZmrxkprGzormVkyG5SUoc8/q5JBAHp9zpMm8LoZstvMpoUKjgHtXe9GjT1Hcwpqf//Z
+ogImage: null
 labels:
   - Bad
   - Der Plural Duschgels ist umgangssprachlich (Duden)
@@ -29,17 +36,12 @@ labels:
   - vegane Kosmetik
   - Wellness
   - XAXX
-type: Artikel
-typeName: Produkttest
-date: 2017-07-31T15:05:52.000Z
+focusKeyword: XAXX
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "17263"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35484487643_8112614297_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35484487643_8112614297_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAArEAABBAECBAQHAQAAAAAAAAABAgMEEQUAEgYhIjEHE0FxFiMkUXKBweH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/xAAbEQEAAgIDAAAAAAAAAAAAAAABABECMQMSQf/aAAwDAQACEQMRAD8ARsJDjp4ZTGdksJcaQ4lSilyusNpTXRd2PQeo1u8UeH+UgYqCJLUVkso3LHm2VJCVcxQJvq11w01pWchNyHihhDTClkHmPntAn9AHVX8VihmCHCoqQlh0naewKSUgewr3rWbDcbvyTBvhiHKayr7U2NJaxsWO/ujIK0q3FStu41t5Vf46RXMhjpDyw0tsrdDSUJSqyaH+6rjeOiYXhPiJUFS46VRWXVJTuUFEtrHPvqKR5oRNb2b+zfK7oBtB/mpyxqPGDZKZhcallYUvyHU0AoFkWRd1d3py4nPxNh24T/0527CtonmkVQr2Fd9GjVUSbZmrxkprGzormVkyG5SUoc8/q5JBAHp9zpMm8LoZstvMpoUKjgHtXe9GjT1Hcwpqf//Z
 subTitle: Vegan und sparsam duschen
   
 ---

@@ -1,27 +1,29 @@
 ---
-title: Das übersetzte Wetter im Spiegel
-seoTitle: Das übersetzte Wetter im Spiegel - Suchmaschinengedicht
+date: 2016-05-17T08:00:14.000Z
 slug: das-uebersetzte-wetter-im-spiegel
 path: /2016/05/das-uebersetzte-wetter-im-spiegel/
-fileName: 2016-05---das-uebersetzte-wetter-im-spiegel.md
+type: Artikel
+typeName: Gedicht
+title: Das übersetzte Wetter im Spiegel
+seoTitle: Das übersetzte Wetter im Spiegel - Suchmaschinengedicht
+ogTitle: Das übersetzte Wetter im Spiegel - Suchmaschinengedicht
 description: Wetter, Spiegel und Übersetzer sind Begriffe, die gerne in die
   Suchmaschine eingegeben werden. Ich habe daraus ein Gedicht gemacht.
 excerpt: Wetter, Spiegel und Übersetzer sind Begriffe, die gerne in die
   Suchmaschine eingegeben werden. Ich habe daraus ein Gedicht gemacht.
-focusKeyword: Wetter
-labels:
-  - Geschichten & Erlebtes
-type: Artikel
-typeName: Gedicht
-date: 2016-05-17T08:00:14.000Z
-status: publish
-isWerbung: false
-isAffiliate: false
-errors: {}
-thumbnailId: "14708"
+fileName: 2016-05---das-uebersetzte-wetter-im-spiegel.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_13544000085_a21768659d_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_13544000085_a21768659d_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgFBgcD/8QAKxAAAQMDAgMHBQAAAAAAAAAAAQIDEQAEBRIhMUFxBgcTUWGBkQgjobHw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIBA//EABkRAQEBAQEBAAAAAAAAAAAAAAEAAhESQf/aAAwDAQACEQMRAD8AW3EW/iOhRG8wnaY8z+vmmS+ndVraHIpWjU46RA06lKICSD67BVLzglJ0QoAyI3JHPp0rYu6DOtYnONNXJIS44HDoSVaUJSoLKuEDSeJNQ6RuqdKY7/QzeZ9IUwAlq2bTCkAHcqV7cRS+5q1DTpUnrPmPX1FbZ3o5m1zeaub6wUVWlylt1hakFIW2WwEnj5gj8VkPaA/bAIQICthM8q30u5k5kovFvqYeOkmIJ2MH5q5MXzllhskhjZzZpa54gpKoA5D+NFFUxuVjerc7PsMuDV4a0tNrBgpBJHv04VVs0+tx3SqABtAmBBiAOQ50UU+wv//Z
+ogImage: null
+labels:
+  - Geschichten & Erlebtes
+focusKeyword: Wetter
+status: publish
+isWerbung: false
+isAffiliate: false
+language: de
+errors: {}
 subTitle: Ode an die Wetterlage
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: Abenteuer auf dem Ring Of Kerry
-seoTitle: Ring Of Kerry - Irlands windigste Straße - wild und schön
+date: 2018-01-03T22:42:42.000Z
 slug: ring-of-kerry
 path: /2018/01/ring-of-kerry/
-fileName: 2018-01---abenteuer-auf-dem-ring-of-kerry.md
+type: Galerie mit Bild
+typeName: Galerie mit Bild
+title: Abenteuer auf dem Ring Of Kerry
+seoTitle: Ring Of Kerry - Irlands windigste Straße - wild und schön
+ogTitle: Ring Of Kerry - Irlands windigste Straße - wild und schön
 description: Bei unserer Fahrt über den Ring Of Kerry zeigte sich uns die grüne
   Insel von ihrer wildschönen Seite. Rau und eindrucksvoll.
 excerpt: Bei unserer Fahrt über den Ring Of Kerry zeigte sich uns die grüne
   Insel von ihrer wildschönen Seite. Rau und eindrucksvoll.
-focusKeyword: Ring Of Kerry
+fileName: 2018-01---abenteuer-auf-dem-ring-of-kerry.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_25610419388_ac95a11884_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_25610419388_ac95a11884_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKRAAAgEDAwIGAwEBAAAAAAAAAQIDBAURABIhBjEHEyJBUWEUI3GRof/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwT/xAAbEQEBAAIDAQAAAAAAAAAAAAABAAIREiExQf/aAAwDAQACEQMRAD8AzG2+Jt4jIK01CEzwnln/ADOc6bOn/FW4NfKZa6BDQvGY3hiJU79ww6knvzjBODrHOnKG43irSltlM1TKOSq8YHyzdgPs6ZOqLHWdN1UNNcjC8ckQeN4Msu7JypyB9/8ADqxkPUmvt1ItYkkaPDUnY6hlKyMSQffA51W1092jRpKGS6be+9WaNP7knWX2br56TwyMMdVLFVwSC3iYr+3DKW3KAcZVfSCfo6h2iupq+xRuJaiVQPIEdbn9aIFXYuDgjA799SckfZ9CUXoqdLFaI6emgjZiBJLIeGkY+5/g402VVyo615fzbZFNuhEZy5GFJB4+Dkdxo0ayK8qlQ1MFMwp0t8clHTqzzTJ5nmNKSuMbiPTwvt86K/qaR6H8YUkCxIPSAOAPjGNGjSuTC3//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2018_01_25610419388_ac95a11884_z__l.jpg
 labels:
   - Britische Inseln
   - Irland
@@ -17,17 +24,12 @@ labels:
   - Reisen
   - Ring Of Kerry
   - travelling
-type: Galerie mit Bild
-typeName: Galerie mit Bild
-date: 2018-01-03T22:42:42.000Z
+focusKeyword: Ring Of Kerry
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "18770"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_25610419388_ac95a11884_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_25610419388_ac95a11884_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKRAAAgEDAwIGAwEBAAAAAAAAAQIDBAURABIhBjEHEyJBUWEUI3GRof/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwT/xAAbEQEBAAIDAQAAAAAAAAAAAAABAAIREiExQf/aAAwDAQACEQMRAD8AzG2+Jt4jIK01CEzwnln/ADOc6bOn/FW4NfKZa6BDQvGY3hiJU79ww6knvzjBODrHOnKG43irSltlM1TKOSq8YHyzdgPs6ZOqLHWdN1UNNcjC8ckQeN4Msu7JypyB9/8ADqxkPUmvt1ItYkkaPDUnY6hlKyMSQffA51W1092jRpKGS6be+9WaNP7knWX2br56TwyMMdVLFVwSC3iYr+3DKW3KAcZVfSCfo6h2iupq+xRuJaiVQPIEdbn9aIFXYuDgjA799SckfZ9CUXoqdLFaI6emgjZiBJLIeGkY+5/g402VVyo615fzbZFNuhEZy5GFJB4+Dkdxo0ayK8qlQ1MFMwp0t8clHTqzzTJ5nmNKSuMbiPTwvt86K/qaR6H8YUkCxIPSAOAPjGNGjSuTC3//2Q==
 subTitle: Irlands windigste Straße
   
 ---

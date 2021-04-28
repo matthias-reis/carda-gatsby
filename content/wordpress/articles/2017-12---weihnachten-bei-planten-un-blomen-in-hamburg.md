@@ -1,14 +1,21 @@
 ---
-title: Weihnachten bei Planten un Blomen in Hamburg
-seoTitle: Weihnachten bei Planten un Blomen - Zarte Blüten im Winterlicht
+date: 2017-12-25T15:43:29.000Z
 slug: weihnachten-bei-planten-un-blomen
 path: /2017/12/weihnachten-bei-planten-un-blomen/
-fileName: 2017-12---weihnachten-bei-planten-un-blomen-in-hamburg.md
+type: Galerie
+typeName: Galerie
+title: Weihnachten bei Planten un Blomen in Hamburg
+seoTitle: Weihnachten bei Planten un Blomen - Zarte Blüten im Winterlicht
+ogTitle: Weihnachten bei Planten un Blomen - Zarte Blüten im Winterlicht
 description: Zarte Blüten im Winterlicht zeigten sich uns bei unserem
   weihnachtlichen Spaziergang die Hamburger Parkanlage Planten un Blomen.
 excerpt: Zarte Blüten im Winterlicht zeigten sich uns bei unserem
   weihnachtlichen Spaziergang die Hamburger Parkanlage Planten un Blomen.
-focusKeyword: Planten un Blomen
+fileName: 2017-12---weihnachten-bei-planten-un-blomen-in-hamburg.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Planten-un-Blomen-1-von-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Planten-un-Blomen-1-von-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBggH/8QAKxAAAgIBAwMCBAcAAAAAAAAAAQIDBBEABRIGITETYRRBgaEHIlJxkcHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIRUQP/2gAMAwEAAhEDEQA/AKpf3fqPquEQw17tlWsIAtcHi7BSFUp8jjsPYH301NW6j6Sr1KG9puW2TX7MbiMWIkieHmgIPc5bxn6dtWj8PNzr1OlKsez2FS9NNieNpAJWschxbzkoQMY9z89QPV3WUu57xtlC8Hb4eyFcSR4dZjIE4qVbxgeftqVel0+8Ec4tNEw1kSWUkDJdj9zpeXc9vawteOdHkeETpw78k/Vnxj69/GmhJy9QoRks3c+POq/cpRUYjaiEQlqO7+s45qBhhh1Z1CpgnHH21UGYzpWF+KiX0VAJBUgkMv1/cab2+3JLvNLnguLMJLHJyS4H+/zo0aKZQjNK1OprZnnpKMGMsyy8st27/wB65r1L1jue77larXmU1bVIo8cQ44/L5BOcHKZ7fMnRo0oZ/9k=
+ogImage: null
 labels:
   - Ausflug
   - Botanischer Garten
@@ -23,17 +30,12 @@ labels:
   - Stadt
   - Weihnachten
   - Winter
-type: Galerie
-typeName: Galerie
-date: 2017-12-25T15:43:29.000Z
+focusKeyword: Planten un Blomen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "18723"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Planten-un-Blomen-1-von-2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Planten-un-Blomen-1-von-2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBggH/8QAKxAAAgIBAwMCBAcAAAAAAAAAAQIDBBEABRIGITETYRRBgaEHIlJxkcHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIRUQP/2gAMAwEAAhEDEQA/AKpf3fqPquEQw17tlWsIAtcHi7BSFUp8jjsPYH301NW6j6Sr1KG9puW2TX7MbiMWIkieHmgIPc5bxn6dtWj8PNzr1OlKsez2FS9NNieNpAJWschxbzkoQMY9z89QPV3WUu57xtlC8Hb4eyFcSR4dZjIE4qVbxgeftqVel0+8Ec4tNEw1kSWUkDJdj9zpeXc9vawteOdHkeETpw78k/Vnxj69/GmhJy9QoRks3c+POq/cpRUYjaiEQlqO7+s45qBhhh1Z1CpgnHH21UGYzpWF+KiX0VAJBUgkMv1/cab2+3JLvNLnguLMJLHJyS4H+/zo0aKZQjNK1OprZnnpKMGMsyy8st27/wB65r1L1jue77larXmU1bVIo8cQ44/L5BOcHKZ7fMnRo0oZ/9k=
 subTitle: Zarte Blüten im Winterlicht
   
 ---

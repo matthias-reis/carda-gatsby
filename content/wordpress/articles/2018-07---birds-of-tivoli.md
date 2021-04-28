@@ -1,16 +1,23 @@
 ---
-title: Birds Of Tivoli
-seoTitle: Birds Of Tivoli - Gefiederte Besucher im Vergnügungspark
+date: 2018-07-17T05:58:06.000Z
 slug: birds-of-tivoli
 path: /2018/07/birds-of-tivoli/
-fileName: 2018-07---birds-of-tivoli.md
+type: Galerie mit Bild
+typeName: Galerie mit Bild
+title: Birds Of Tivoli
+seoTitle: Birds Of Tivoli - Gefiederte Besucher im Vergnügungspark
+ogTitle: Birds Of Tivoli - Gefiederte Besucher im Vergnügungspark
 description: Im Tivoli sind uns jede Menge gefiederte Persönlichkeiten begegnet.
   Den Birds Of Tivoli möchte ich heute einen eigenen Beitrag widmen. Mit
   Füttertipps.
 excerpt: Im Tivoli sind uns jede Menge gefiederte Persönlichkeiten begegnet. Den
   Birds Of Tivoli möchte ich heute einen eigenen Beitrag widmen. Mit
   Füttertipps.
-focusKeyword: Birds
+fileName: 2018-07---birds-of-tivoli.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Birds-Of-Tivoli__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Birds-Of-Tivoli__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwEDBP/EACoQAAIBAwQABQMFAAAAAAAAAAECAwQFEQAGEiEHEzFBYRQiMhYjUXGB/8QAFgEBAQEAAAAAAAAAAAAAAAAABQME/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAESExYRL/2gAMAwEAAhEDEQA/AOxLTbtvWCeevtlGahEZkV6oxyNgdDHPIycDPyNRe5LXZq/w/qdwU7NTVslO30yQ/fEJ16ZCSSQQwOc6Y3sNtvu3JYayot7LNF9/7HYx+LAnBA+RqKjpXt+yrhaqWpnrLPDG7SmmQnIJyUUsvTH2JB7Pvoh3QgedyoXGRKeeySV9AkYp56y4VGHJpkLsvfRHXfp6n0z76sibZ9VtTadQlbHJFdY1jo18+MFJh0eUBP5dE5JAxg/xp4p77+mrS0lt22LfRuMyl6jnMcdZkYDvA7PfQ1XXiNuWe9rHXz1IVo4VSFkDKqwHPQB9ckj5xjvSodTXJmdLUiY2dfaiSkWHhEGj45k4gswH96Z9x3q6WOvWlpq1vJqUXzEAwpB9sd6NGh6AYTQTi4i3e8OyXKZYlWojUxNKGPJ1GGUH4DHP+a1V0iRmoDI0pMg4mR+WOWc+3r1o0aRcABakU0T2f//Z
+ogImage: null
 labels:
   - Amseln
   - Birds
@@ -25,17 +32,12 @@ labels:
   - Tierrechte
   - Tivoli
   - Vögel
-type: Galerie mit Bild
-typeName: Galerie mit Bild
-date: 2018-07-17T05:58:06.000Z
+focusKeyword: Birds
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "21377"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Birds-Of-Tivoli__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Birds-Of-Tivoli__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwEDBP/EACoQAAIBAwQABQMFAAAAAAAAAAECAwQFEQAGEiEHEzFBYRQiMhYjUXGB/8QAFgEBAQEAAAAAAAAAAAAAAAAABQME/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAESExYRL/2gAMAwEAAhEDEQA/AOxLTbtvWCeevtlGahEZkV6oxyNgdDHPIycDPyNRe5LXZq/w/qdwU7NTVslO30yQ/fEJ16ZCSSQQwOc6Y3sNtvu3JYayot7LNF9/7HYx+LAnBA+RqKjpXt+yrhaqWpnrLPDG7SmmQnIJyUUsvTH2JB7Pvoh3QgedyoXGRKeeySV9AkYp56y4VGHJpkLsvfRHXfp6n0z76sibZ9VtTadQlbHJFdY1jo18+MFJh0eUBP5dE5JAxg/xp4p77+mrS0lt22LfRuMyl6jnMcdZkYDvA7PfQ1XXiNuWe9rHXz1IVo4VSFkDKqwHPQB9ckj5xjvSodTXJmdLUiY2dfaiSkWHhEGj45k4gswH96Z9x3q6WOvWlpq1vJqUXzEAwpB9sd6NGh6AYTQTi4i3e8OyXKZYlWojUxNKGPJ1GGUH4DHP+a1V0iRmoDI0pMg4mR+WOWc+3r1o0aRcABakU0T2f//Z
 subTitle: Gefiederte Besucher im Vergnügungspark
   
 ---

@@ -1,29 +1,31 @@
 ---
-title: '"vegan leben"'
-seoTitle: '"vegan leben" - die neue vegane Marke im Supermarkt'
+date: 2016-03-02T18:05:53.000Z
 slug: vegan-leben
 path: /2016/03/vegan-leben/
-fileName: 2016-03---vegan-leben.md
+type: Artikel
+typeName: Artikel
+title: '"vegan leben"'
+seoTitle: '"vegan leben" - die neue vegane Marke im Supermarkt'
+ogTitle: '"vegan leben" - die neue vegane Marke im Supermarkt'
 description: Die Macher von "vegan leben" haben sich dazu entschlossen, ihre
   eigene vegane Lebensmittelmarke zu gründen. Ich habe schon mal probiert.
 excerpt: Werbung - Die Macher von "vegan leben" haben sich dazu entschlossen,
   ihre eigene vegane Lebensmittelmarke zu gründen. Ich habe schon mal probiert.
-focusKeyword: vegan leben
+fileName: 2016-03---vegan-leben.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_vegan-leben__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_vegan-leben__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDBAURABIhBkETFDFCwSJhgTJRcXKR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMABf/EACMRAAICAQMDBQAAAAAAAAAAAAECAAMRBBIhInHRBRQxgZH/2gAMAwEAAhEDEQA/ANyqsVyqbjU7Eq3gEhVBuIQAcYGTjGpE6TqiPqhjT+8qj5On25rieOQe9B27jj41WqJUp6aWaQHZGNx4J4/GuK3otTMXsdj+eDD+3U8kxHn6OlZCWkplH2LNj/F0tXfpUxhmaqVlUZPhRfJbVjqWjp6qsmku/VoRjEzeXI2gc4ATtgkHsTpWsFxstHdo4bfUXSo8QFZN8eV2lT7QM53YPPprU6OhT0qT9+JJNm7G3jvO7XS6RRRIJpUi2n9TMFGP5OsuXq+yQoyz19O2eCqEvkfjOjRpGs1T0L0gRDuVHERL3dumHqjPB52ST0AMcZxzngvkjvrFivHlI5VsVhkVpeHnmZmZx+2cAAfYcaNGh6WxrTn47Yk6xk5E/9k=
+ogImage: null
 labels:
   - Ernährung & Gesundheit
   - Vegan Leben
   - vegane Basis-Produkte
-type: Artikel
-typeName: Artikel
-date: 2016-03-02T18:05:53.000Z
+focusKeyword: vegan leben
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "28981"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_vegan-leben__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_vegan-leben__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDBAURABIhBkETFDFCwSJhgTJRcXKR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMABf/EACMRAAICAQMDBQAAAAAAAAAAAAECAAMRBBIhInHRBRQxgZH/2gAMAwEAAhEDEQA/ANyqsVyqbjU7Eq3gEhVBuIQAcYGTjGpE6TqiPqhjT+8qj5On25rieOQe9B27jj41WqJUp6aWaQHZGNx4J4/GuK3otTMXsdj+eDD+3U8kxHn6OlZCWkplH2LNj/F0tXfpUxhmaqVlUZPhRfJbVjqWjp6qsmku/VoRjEzeXI2gc4ATtgkHsTpWsFxstHdo4bfUXSo8QFZN8eV2lT7QM53YPPprU6OhT0qT9+JJNm7G3jvO7XS6RRRIJpUi2n9TMFGP5OsuXq+yQoyz19O2eCqEvkfjOjRpGs1T0L0gRDuVHERL3dumHqjPB52ST0AMcZxzngvkjvrFivHlI5VsVhkVpeHnmZmZx+2cAAfYcaNGh6WxrTn47Yk6xk5E/9k=
 subTitle: Die neue vegane Marke im Supermarkt
   
 ---

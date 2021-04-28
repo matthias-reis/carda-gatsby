@@ -1,16 +1,23 @@
 ---
-title: Die Rehabilitation eines tapferen Katers
-seoTitle: Die traurige Geschichte eines tapferen Katers - Teil II / IV
+date: 2013-09-26T11:29:48.000Z
 slug: die-rehabilitation-eines-tapferen-katers
 path: /2013/09/die-rehabilitation-eines-tapferen-katers/
-fileName: 2013-09---die-rehabilitation-eines-tapferen-katers.md
+type: Artikel
+typeName: Artikel
+title: Die Rehabilitation eines tapferen Katers
+seoTitle: Die traurige Geschichte eines tapferen Katers - Teil II / IV
+ogTitle: Die traurige Geschichte eines tapferen Katers - Teil II / IV
 description: "Heute möchte ich Euch die Geschichte erzählen, die wir mit Kater
   Chili beim Tierarzt erlebt haben. Ich rate Euch: Holt Euch immer eine zweite
   Meinung ein!"
 excerpt: "Heute möchte ich Euch die Geschichte erzählen, die wir mit Kater Chili
   beim Tierarzt erlebt haben. Ich rate Euch: Holt Euch immer eine zweite Meinung
   ein!"
-focusKeyword: ""
+fileName: 2013-09---die-rehabilitation-eines-tapferen-katers.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_09_img_2106__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_09_img_2106__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcI/8QAKxAAAQQBAwMDAgcAAAAAAAAAAQIDBBEFABIhEzFBFCJRBgcjMjRhcYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAUCA//EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMEESEiMUH/2gAMAwEAAhEDEQA/AMaxuR6mFiY/GvzELmPpM6Lu/Cc4Pu22e1Dk1/GktHIFl5UPGJUyjelUoMBwDaPcdyrqgfHzqd+gMM1GmTl5eK/jIjsRYckulSekLBAQVC7Pbm9aFGwcZvHoiNzWEQmkUgk7ioHv7h2POiZeUU1G4+Hre+N8zJJ0uDLkQ0PsoZeIT+iaSkuACqIJoqNHnTI+ZTho8lLacy24XVrQBIDDZTZKN4TyrxYuvjU19wcLhcKmA7BjcgrQpS3Nyge9XfyTqgPtKnOLaaC0hJ9q9hIP+DSariygrDW1BWIadgZ9TDsV/wBVGRJjxylSo7oCkOE3V8eNUWZJiycjL9VhMKqCpoIajoilGyzQKju2qIrvtH9aNGpdnZCx9lKsBWAHkoEL6ZxseKy6pnquupedPUAUlNEflSRQ/Y8+e/hj5b9ZlIXSAVFUtpLiVECgLBr58d9GjXYO2vZgoo+T/9k=
+ogImage: null
 labels:
   - Epilepsie bei Katzen
   - Geschichten & Erlebtes
@@ -31,17 +38,12 @@ labels:
   - Tierklinik Kritik
   - Tierliebe
   - Tierrechte
-type: Artikel
-typeName: Artikel
-date: 2013-09-26T11:29:48.000Z
+focusKeyword: ""
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "7379"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_09_img_2106__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_09_img_2106__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcI/8QAKxAAAQQBAwMDAgcAAAAAAAAAAQIDBBEFABIhEzFBFCJRBgcjMjRhcYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAUCA//EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMEESEiMUH/2gAMAwEAAhEDEQA/AMaxuR6mFiY/GvzELmPpM6Lu/Cc4Pu22e1Dk1/GktHIFl5UPGJUyjelUoMBwDaPcdyrqgfHzqd+gMM1GmTl5eK/jIjsRYckulSekLBAQVC7Pbm9aFGwcZvHoiNzWEQmkUgk7ioHv7h2POiZeUU1G4+Hre+N8zJJ0uDLkQ0PsoZeIT+iaSkuACqIJoqNHnTI+ZTho8lLacy24XVrQBIDDZTZKN4TyrxYuvjU19wcLhcKmA7BjcgrQpS3Nyge9XfyTqgPtKnOLaaC0hJ9q9hIP+DSariygrDW1BWIadgZ9TDsV/wBVGRJjxylSo7oCkOE3V8eNUWZJiycjL9VhMKqCpoIajoilGyzQKju2qIrvtH9aNGpdnZCx9lKsBWAHkoEL6ZxseKy6pnquupedPUAUlNEflSRQ/Y8+e/hj5b9ZlIXSAVFUtpLiVECgLBr58d9GjXYO2vZgoo+T/9k=
 subTitle: Von Genesungswünschen, guten Nachrichten und Erfahrungsberichten
   
 ---

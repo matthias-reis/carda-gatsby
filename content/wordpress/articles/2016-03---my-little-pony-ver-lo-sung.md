@@ -1,14 +1,21 @@
 ---
-title: My Little Pony Ver­lo­sung
-seoTitle: My Little Pony Verlosung - Die Gewinner stehen fest
+date: 2016-03-04T13:17:28.000Z
 slug: little-pony-verlosung-die-gewinner-stehen-fest
 path: /2016/03/little-pony-verlosung-die-gewinner-stehen-fest/
-fileName: 2016-03---my-little-pony-ver-lo-sung.md
+type: Artikel
+typeName: Artikel
+title: My Little Pony Ver­lo­sung
+seoTitle: My Little Pony Verlosung - Die Gewinner stehen fest
+ogTitle: My Little Pony Verlosung - Die Gewinner stehen fest
 description: Die Gewinner meiner My Little Pony Verlosung stehen fest! Und weil
   Freitag so ein schöner Tag ist, verrate ich Euch jetzt die Namen!
 excerpt: Die Gewinner meiner My Little Pony Verlosung stehen fest! Und weil
   Freitag so ein schöner Tag ist, verrate ich Euch jetzt die Namen!
-focusKeyword: Little Pony
+fileName: 2016-03---my-little-pony-ver-lo-sung.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24476198774_eee27d7c6e_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24476198774_eee27d7c6e_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwX/xAAnEAACAQQBAwQCAwAAAAAAAAABAgMABAURIQYSEzEyQVEHYXGhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/EAB8RAQEAAgEEAwAAAAAAAAAAAAECABEDBBIxUSFBgf/aAAwDAQACEQMRAD8Axu1mLQqsmyQNbNPRYe+vxarj7C6uWlcqnihZgz7AA3rW/wCa4QyNsoXtkABGxv6raul8zkOlfx9jIQH1nZXnUIQB4VKb2d8bB+OdE0XJVTog2v1+ZLuYO6vGcXO9AWljh4FyWSt7G6gLCWVrXUXd7fEGViZCShYNz7j6VnstubVpI0dZFViA6b0wB4I3Vn1V1Ha5jJyNcPFZxW9lJHEzQlgZGYP2KAeGO9d31s1HTXUbLwwNLVGgPOjeF0zdS1fv4yMIChEA49T+6p7nrDPzYK2xD5OVrC2QpDGwU9g+gdb/ALoorCCj6xkE04lmsk13ZWMHjCBVVnbey7BQN/7StqxO1Px6Giit0q7cnFBM6M//2Q==
+ogImage: null
 labels:
   - Der Hund Marie
   - Frühling
@@ -19,17 +26,12 @@ labels:
   - Kitsch
   - My Little Pony
   - Verlosung
-type: Artikel
-typeName: Artikel
-date: 2016-03-04T13:17:28.000Z
+focusKeyword: Little Pony
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "13977"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24476198774_eee27d7c6e_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24476198774_eee27d7c6e_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwX/xAAnEAACAQQBAwQCAwAAAAAAAAABAgMABAURIQYSEzEyQVEHYXGhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/EAB8RAQEAAgEEAwAAAAAAAAAAAAECABEDBBIxUSFBgf/aAAwDAQACEQMRAD8Axu1mLQqsmyQNbNPRYe+vxarj7C6uWlcqnihZgz7AA3rW/wCa4QyNsoXtkABGxv6raul8zkOlfx9jIQH1nZXnUIQB4VKb2d8bB+OdE0XJVTog2v1+ZLuYO6vGcXO9AWljh4FyWSt7G6gLCWVrXUXd7fEGViZCShYNz7j6VnstubVpI0dZFViA6b0wB4I3Vn1V1Ha5jJyNcPFZxW9lJHEzQlgZGYP2KAeGO9d31s1HTXUbLwwNLVGgPOjeF0zdS1fv4yMIChEA49T+6p7nrDPzYK2xD5OVrC2QpDGwU9g+gdb/ALoorCCj6xkE04lmsk13ZWMHjCBVVnbey7BQN/7StqxO1Px6Giit0q7cnFBM6M//2Q==
 subTitle: Die Ge­win­ner stehen fest!
   
 ---

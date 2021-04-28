@@ -1,32 +1,34 @@
 ---
-title: Boysetsfire live @ Docks Hamburg
-seoTitle: Boysetsfire live @ Docks Hamburg
+date: 2015-10-02T15:06:45.000Z
 slug: boysetsfire-live-docks-hamburg
 path: /2015/10/boysetsfire-live-docks-hamburg/
-fileName: 2015-10---boysetsfire-live-docks-hamburg.md
+type: Artikel
+typeName: Konzertbericht
+title: Boysetsfire live @ Docks Hamburg
+seoTitle: Boysetsfire live @ Docks Hamburg
+ogTitle: Boysetsfire live @ Docks Hamburg
 description: Gestern Abend im Docks hatten wir eine tolle Zeit mit Boysetsfire.
   Hier sind meine Eindrücke.
 excerpt: Gestern hatte das lange Warten endlich ein Ende und die Familie traf
   wieder aufeinander. Boysetsfire spielten zum Auftakt ihrer Tour im Docks in
   Hamburg.
-focusKeyword: Boysetsfire
+fileName: 2015-10---boysetsfire-live-docks-hamburg.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_10_21871938825_8e2b1aa291_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_10_21871938825_8e2b1aa291_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQIDCP/EACgQAAIBAgUEAQUBAAAAAAAAAAECAwQRAAUSITEGE0FRYSIycYGR8P/EABkBAAIDAQAAAAAAAAAAAAAAAAEFAAIDBP/EAB0RAAICAwADAAAAAAAAAAAAAAECAAMEESESMeH/2gAMAwEAAhEDEQA/AOXqIxDUZYO7ZkNtZXa+429j+YsI46W6a6G40yLfusLnVdT+ht8841ZHTRzz9uaRoxJaxVA/n1cf7m2GWKhoxWQCVJY4SwU6lJZSOWso4NvfvnDjDx0srDEd+zmtcqdCLkSxPFMZoO5KSkxJJFwCQ4293v8AFsVsoOo3JN/Pu2H+j6fklKKuRZtJUTami0I6o6+FAKXPJJPxhZzbKJ6V2lkpayCIksFmiIYe9iBtfztgZeGFQeA9QVXhm0TMMg6nzXIaOvpcrnSGKuVVmvCjN9N7FWIupFzuCMSsu656ky7p2ryKjzWZMqqg4lgKq2oMLMNRBYAjwDgwYVixgNAzZqkbpUGQ4+ps5iCdnM62JljWPUk7AlVACjngAADFdUVlTU1Dz1E8ssz/AHSO5LN+TgwYhscjRPJYIo6BP//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2015_10_21871938825_8e2b1aa291_z__l.jpg
 labels:
   - boysetsfire
   - Docks
   - Hamburg
   - Konzerte
   - live
-type: Artikel
-typeName: Konzertbericht
-date: 2015-10-02T15:06:45.000Z
+focusKeyword: Boysetsfire
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "12938"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_10_21871938825_8e2b1aa291_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_10_21871938825_8e2b1aa291_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQIDCP/EACgQAAIBAgUEAQUBAAAAAAAAAAECAwQRAAUSITEGE0FRYSIycYGR8P/EABkBAAIDAQAAAAAAAAAAAAAAAAEFAAIDBP/EAB0RAAICAwADAAAAAAAAAAAAAAECAAMEESESMeH/2gAMAwEAAhEDEQA/AOXqIxDUZYO7ZkNtZXa+429j+YsI46W6a6G40yLfusLnVdT+ht8841ZHTRzz9uaRoxJaxVA/n1cf7m2GWKhoxWQCVJY4SwU6lJZSOWso4NvfvnDjDx0srDEd+zmtcqdCLkSxPFMZoO5KSkxJJFwCQ4293v8AFsVsoOo3JN/Pu2H+j6fklKKuRZtJUTami0I6o6+FAKXPJJPxhZzbKJ6V2lkpayCIksFmiIYe9iBtfztgZeGFQeA9QVXhm0TMMg6nzXIaOvpcrnSGKuVVmvCjN9N7FWIupFzuCMSsu656ky7p2ryKjzWZMqqg4lgKq2oMLMNRBYAjwDgwYVixgNAzZqkbpUGQ4+ps5iCdnM62JljWPUk7AlVACjngAADFdUVlTU1Dz1E8ssz/AHSO5LN+TgwYhscjRPJYIo6BP//Z
 subTitle: Ein wundervoller Abend
   
 ---

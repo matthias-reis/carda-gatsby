@@ -1,16 +1,23 @@
 ---
-title: Mehrweg ist besser als PET!
-seoTitle: Mehrweg ist besser als PET! Glas- statt Plastikflaschen!
+date: 2018-07-23T15:03:21.000Z
 slug: glas-statt-plastik
 path: /2018/07/glas-statt-plastik/
-fileName: 2018-07---mehrweg-ist-besser-als-pet.md
+type: Artikel
+typeName: Artikel
+title: Mehrweg ist besser als PET!
+seoTitle: Mehrweg ist besser als PET! Glas- statt Plastikflaschen!
+ogTitle: Mehrweg ist besser als PET! Glas statt Plastik!
 description: Rund 16 Milliarden PET-Flaschen werden Jahr für Jahr in Deutschland
   entsorgt. "Einwegpfand ist Augenwischerei" sagen Umweltschützer und fordern
   Aufklärung.
 excerpt: Rund 16 Milliarden PET-Flaschen werden Jahr für Jahr in Deutschland
   entsorgt. "Einwegpfand ist Augenwischerei" sagen Umweltschützer und fordern
   Aufklärung.
-focusKeyword: PET
+fileName: 2018-07---mehrweg-ist-besser-als-pet.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_bottles-2679746_640__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_bottles-2679746_640__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYIB//EACoQAAICAgEEAQMDBQAAAAAAAAECAwQFEQAGEiExEwciURQVQSMyYXHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAhEQACAQQBBQEAAAAAAAAAAAABAgMAESExBBQyQVFhof/aAAwDAQACEQMRAD8AnIvqN1K2WuF8DdbHUpIhLYiiYhY/HexOtev+8tt7r2xcoQT1KGSq17EzRxt8LMyqD/d/nfnXOBYjrrJWZqbtkLizIgPeJD5K9zgfj+CdHkdSy+f6jyGU+G3dtzTQxvLNYs9q1/RLtIxAjTex7H4HGKKuN1IHMlkyARnWD6rQJ+tGLpST03/cP6U3wd08BinO12HKNrQ3yzY/qfL0u5MlXRndUkJM8arDG/hXf7vt2dD/AHzOGaox5jp0GPLQZTPVbSFpIZpJFWA72pdkAYhu7QB8jet8Tz0IrYePM27D/qL8EclerESXkjEhHyyD0FOvtB964aLcm9NPynjVWC7/ACm3S1ik3UuIx9/BGRWCwhYyZikskRCP2/yVJU68+jrj/rvBDC4tsPYs1auNhZHPcHJszljud+wHf4VdnsXQ0Dsk4ceTuzUyEHpQUJGV19Ivu9VjpjJXatyxRxN7thvHVsuWEbRREto7Gz4PrW961yZ+q+db92STDWLKLarxMUB3H2g6UJ49Lrt16BXhw4Ck5qjJGphCsL581//Z
+ogImage: null
 labels:
   - Einwegpfand
   - Glas
@@ -26,17 +33,12 @@ labels:
   - Trinkwasser
   - Zero Waste
   - zerowaste
-type: Artikel
-typeName: Artikel
-date: 2018-07-23T15:03:21.000Z
+focusKeyword: PET
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "21400"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_bottles-2679746_640__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_bottles-2679746_640__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYIB//EACoQAAICAgEEAQMDBQAAAAAAAAECAwQFEQAGEiExEwciURQVQSMyYXHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAhEQACAQQBBQEAAAAAAAAAAAABAgMAESExBBQyQVFhof/aAAwDAQACEQMRAD8AnIvqN1K2WuF8DdbHUpIhLYiiYhY/HexOtev+8tt7r2xcoQT1KGSq17EzRxt8LMyqD/d/nfnXOBYjrrJWZqbtkLizIgPeJD5K9zgfj+CdHkdSy+f6jyGU+G3dtzTQxvLNYs9q1/RLtIxAjTex7H4HGKKuN1IHMlkyARnWD6rQJ+tGLpST03/cP6U3wd08BinO12HKNrQ3yzY/qfL0u5MlXRndUkJM8arDG/hXf7vt2dD/AHzOGaox5jp0GPLQZTPVbSFpIZpJFWA72pdkAYhu7QB8jet8Tz0IrYePM27D/qL8EclerESXkjEhHyyD0FOvtB964aLcm9NPynjVWC7/ACm3S1ik3UuIx9/BGRWCwhYyZikskRCP2/yVJU68+jrj/rvBDC4tsPYs1auNhZHPcHJszljud+wHf4VdnsXQ0Dsk4ceTuzUyEHpQUJGV19Ivu9VjpjJXatyxRxN7thvHVsuWEbRREto7Gz4PrW961yZ+q+db92STDWLKLarxMUB3H2g6UJ49Lrt16BXhw4Ck5qjJGphCsL581//Z
 subTitle: Glas statt Plastik!
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: DIY Upcycling Jutebeutel-Rucksack
-seoTitle: DIY Upcycling Jutebeutel-Rucksack - Schritt-für-Schritt-Anleitung
+date: 2015-09-21T15:40:53.000Z
 slug: diy-jutebeutel-rucksack
 path: /2015/09/diy-jutebeutel-rucksack/
-fileName: 2015-09---diy-upcycling-jutebeutel-rucksack.md
+type: Artikel
+typeName: Artikel
+title: DIY Upcycling Jutebeutel-Rucksack
+seoTitle: DIY Upcycling Jutebeutel-Rucksack - Schritt-für-Schritt-Anleitung
+ogTitle: DIY Upcycling Jutebeutel-Rucksack - Schritt-für-Schritt-Anleitung
 description: Habt Ihr auch schon einen Jutebeutel-Rucksack? Die Dinger sind ja
   gerade richtig en vogue! Ich zeige Euch heute, wie Ihr schnell einen selber
   basteln könnt!
 excerpt: Habt Ihr auch schon einen Jutebeutel-Rucksack? Die Dinger sind ja
   gerade richtig en vogue! Ich zeige Euch heute, wie Ihr ganz schnell und für
   kleines Geld selbst einen selber basteln könnt!
-focusKeyword: Jutebeutel
+fileName: 2015-09---diy-upcycling-jutebeutel-rucksack.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-19__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-19__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAwj/xAAxEAACAQMCBAMFCQEAAAAAAAABAgMEBREAEgYhMUEUImEHE1GBkRUyQlJUcZKhscH/xAAaAQABBQEAAAAAAAAAAAAAAAACAAEDBAUG/8QAGxEAAQUBAQAAAAAAAAAAAAAAAwABAhEhMRL/2gAMAwEAAhEDEQA/ADtktIk4pl8vLwgB/kD/AN0xQpbLNe6iCWtp0lqo1mNK7BSHHl3gk9wFBHoDrGKoitl5q6mUhUjthnyfRtv+4+updUxXHiOsvc1T7ikoaRoq5qspuklU8hjHMnlz54BHy1zkY31b7ypWSkktFdd3jgraeWtMOFgRwxRVPm6d8sOvpoTRUQirb2uOlZn6xqdCuE4bjBxLXeFttOtoonj2VxVFkqSyKzE7e+1ugA6jThBGpuPEOP1UZH7eHj0zt1kr1lPPaddPs+gpZgzxpUxNSNIoB/Gkm3HqFP8Ael3gCltvENwqGkykscZjllViFaIrl4mB5AE7fmDjQr2j1lwuYoIlpmNJSl2LxElmZsDOO2AO2eukeo95PRvTI5EodZI5HWVXBUMMbdu05DdT8Bq0MXofdUJCeZvitdxu8XDl7jh8TI8VSpEgJwzuMYPwwIyqjH5een3hq/0164dFRC+6WN2glJUBiV5An1xjXK9PT10cEUVQ0IdZHl8Q3vW3Bgo2gbMZ8nx76ons2kulEKoCQrTVW15NyYKuM/dHbkcZOhKFoRu9RDK85VS//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-19__l.jpg
 labels:
   - basteln
   - diy
@@ -25,17 +32,12 @@ labels:
   - Turnbeutel
   - Turnbeutel nähen
   - Upcycling
-type: Artikel
-typeName: Artikel
-date: 2015-09-21T15:40:53.000Z
+focusKeyword: Jutebeutel
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "12781"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-19__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-19__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAwj/xAAxEAACAQMCBAMFCQEAAAAAAAABAgMEBREAEgYhMUEUImEHE1GBkRUyQlJUcZKhscH/xAAaAQABBQEAAAAAAAAAAAAAAAACAAEDBAUG/8QAGxEAAQUBAQAAAAAAAAAAAAAAAwABAhEhMRL/2gAMAwEAAhEDEQA/ADtktIk4pl8vLwgB/kD/AN0xQpbLNe6iCWtp0lqo1mNK7BSHHl3gk9wFBHoDrGKoitl5q6mUhUjthnyfRtv+4+updUxXHiOsvc1T7ikoaRoq5qspuklU8hjHMnlz54BHy1zkY31b7ypWSkktFdd3jgraeWtMOFgRwxRVPm6d8sOvpoTRUQirb2uOlZn6xqdCuE4bjBxLXeFttOtoonj2VxVFkqSyKzE7e+1ugA6jThBGpuPEOP1UZH7eHj0zt1kr1lPPaddPs+gpZgzxpUxNSNIoB/Gkm3HqFP8Ael3gCltvENwqGkykscZjllViFaIrl4mB5AE7fmDjQr2j1lwuYoIlpmNJSl2LxElmZsDOO2AO2eukeo95PRvTI5EodZI5HWVXBUMMbdu05DdT8Bq0MXofdUJCeZvitdxu8XDl7jh8TI8VSpEgJwzuMYPwwIyqjH5een3hq/0164dFRC+6WN2glJUBiV5An1xjXK9PT10cEUVQ0IdZHl8Q3vW3Bgo2gbMZ8nx76ons2kulEKoCQrTVW15NyYKuM/dHbkcZOhKFoRu9RDK85VS//9k=
 subTitle: Schritt-für-Schritt-Anleitung
   
 ---

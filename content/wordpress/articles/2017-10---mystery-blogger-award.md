@@ -1,16 +1,23 @@
 ---
-title: Mystery Blogger Award
-seoTitle: Mystery Blogger Award - Mein Blog ist dabei - Ein Interview mit mir
+date: 2017-10-29T15:19:35.000Z
 slug: mystery-blogger-award-mein-blog-ist-dabei
 path: /2017/10/mystery-blogger-award-mein-blog-ist-dabei/
-fileName: 2017-10---mystery-blogger-award.md
+type: Artikel
+typeName: Artikel
+title: Mystery Blogger Award
+seoTitle: Mystery Blogger Award - Mein Blog ist dabei - Ein Interview mit mir
+ogTitle: Mystery Blogger Award - Mein Blog ist dabei - Ein Interview mit mir
 description: Vor ein paar Tagen hat mich Björn vom Blog Gartenbaukunst für den
   Mystery Blogger Award nominiert. Vielen Dank! Hier meine Antworten auf seine
   Fragen.
 excerpt: Vor ein paar Tagen hat mich Björn vom Blog Gartenbaukunst für den
   Mystery Blogger Award nominiert. Vielen Dank! Hier meine Antworten auf seine
   Fragen.
-focusKeyword: Mystery Blogger Award
+fileName: 2017-10---mystery-blogger-award.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_mystery-blogger-award-badge-02.png__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_mystery-blogger-award-badge-02.png__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAATCAIAAAB+9pigAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAEuUlEQVQ4jXVVSVMbVxDmr+Sa/5BTUr7lklNcTk652HE5VQlVrjguL+XYJDbEODbGgI0BAZaMEUhCuwQS1oo82mY02tAGCMlowEgaLTOaedOpmRFic/ow9d6rN/311/11vz44snaFBYDcE1Xg0o2i3ZUxvgcAxCM4Z1yT41kOALYjWwBgVfjUt+xcvNii6ucv9x0thD1Lq56p7XuCn7AyTXLdU8lEJIR4nkcIydvzhthOfmxpZ95I6jbqEhJC6AhAWgFAK7oDTQYYqOeaovfPepKs2Wp1WLZLiOfFBMRha8pI3nyZWM18lgEAx81cVjrmowCg1mkX1JrARnBySuFyewHA6/Uva7Sj46/2Plampuf0JsvrKcWK3hSLJW7f+TMajQXs8fZmyfb9lT0yK+VWOAZw3RsxXfyZQ4CtJvNkEQBIMhmJ4Bbr6sjoeCaTBwCTyXrpx590K8bXUwqn051Kb753ud0ePxFL/HHz9ty8KlbIMoWyrf9ep8UCOiYvAlAYkRieTajc+IJPPg1HiVA48vzF+P0HDyM4AQAO53qMTIQjuNlsBYCFd+oVvVG9pAtGok+fjYbDeC5XAIBYsDRx+V2n9KlTA+ZQLGRfq8zUE5C4O4FffcQCIE6sR61WL5U/EmTC4XRhITFpmWy22WxFcSLwAUum0iazlaYbznVXLJYIYKFQOEJV9gGgmCyHtMkWkTsINKpRsZB9IKB2mauGN5lyRRbOmXoyLAMA/JFekYB6lxqNprw9YzUyxzWbp4rMFirVYLniaMv/IskA4MmzUa3OgOMxjVZvs695fR/yhW2P178RwELhyPTMvNli6ypSAuq0uAMvk3+pxb67/mmXatXaIsDYtWXX41VAiKkehyMDzL9ZUMwpNSvGbDa/qNa8d3tdbk8ymbba1lLpzcGhYa3OIPETlSoy4xFbAcruL5sDmMLXOKBFANy1Se22zjaOBBBPpF6+mhl+8jydzqjeLhpMtoGHQw6n6+69v4hY/MXEpE5v6gHIv7TbzPQXX+UtjlMpWr1yw/f3mKTfbixy0t1ev0a7su7ymMz2eCIdCGD5wpbP7ydiJE6QXt9GNpfvue6SQEAlc4J0ghASAapVlJp8s2tYlzmeLxrT6fTW/JEvmqbPXGOrYnAfo0XMmjzugyJexMZt+NVHe9ZIxdE8P90Yhv2t/3eCIA8PD3V6w9A//y7r9A8Hhx8Pj/Bcl66kLn5XX+8UakklNnRxlmOlmBD0cWxHALQ7bzhYD8mSk9n1iCMEt+48sNnXsGDEaLLOzL4ZGBhcVGss1rWcnJ8TSqUz2zx1ilm3BhwLzXiOilOl3KE8RHulwwny2i+/PhsZ++bCt4pZVf/1G/cHBpWqd4o55R4lNpcgoA7L07VmSbOWuDna3GH4NjoFwFCdkpmGVnupf/ntUxdD1wWpG+Tv/v7BXoUKhqLLGk0kQmzvFN1ePxYMK2aVJyONLIXwR4v5ibc1gm8UJE1KKDKD7tBnDrmUzaP88mu2zjYy7P+N/jNW2dpPhcRBFFc7TRcu0WWql4MT4/rIVTmUKZnXywbvgaf7PMldLQgCz/Py+yMuQOAYjqmKlQxbMs9/mBboDkvT4UkVvV89Kdz/ABEfTwoEM8dWAAAAAElFTkSuQmCC
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_10_mystery-blogger-award-badge-02.png__l.jpg
 labels:
   - Blogger
   - Blogger Award
@@ -22,18 +29,13 @@ labels:
   - Spaß
   - Spiel
   - Verlinkung
-type: Artikel
-typeName: Artikel
-date: 2017-10-29T15:19:35.000Z
+focusKeyword: Mystery Blogger Award
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (133:0)"
-thumbnailId: "18216"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_mystery-blogger-award-badge-02.png__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_mystery-blogger-award-badge-02.png__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAATCAIAAAB+9pigAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAEuUlEQVQ4jXVVSVMbVxDmr+Sa/5BTUr7lklNcTk652HE5VQlVrjguL+XYJDbEODbGgI0BAZaMEUhCuwQS1oo82mY02tAGCMlowEgaLTOaedOpmRFic/ow9d6rN/311/11vz44snaFBYDcE1Xg0o2i3ZUxvgcAxCM4Z1yT41kOALYjWwBgVfjUt+xcvNii6ucv9x0thD1Lq56p7XuCn7AyTXLdU8lEJIR4nkcIydvzhthOfmxpZ95I6jbqEhJC6AhAWgFAK7oDTQYYqOeaovfPepKs2Wp1WLZLiOfFBMRha8pI3nyZWM18lgEAx81cVjrmowCg1mkX1JrARnBySuFyewHA6/Uva7Sj46/2Plampuf0JsvrKcWK3hSLJW7f+TMajQXs8fZmyfb9lT0yK+VWOAZw3RsxXfyZQ4CtJvNkEQBIMhmJ4Bbr6sjoeCaTBwCTyXrpx590K8bXUwqn051Kb753ud0ePxFL/HHz9ty8KlbIMoWyrf9ep8UCOiYvAlAYkRieTajc+IJPPg1HiVA48vzF+P0HDyM4AQAO53qMTIQjuNlsBYCFd+oVvVG9pAtGok+fjYbDeC5XAIBYsDRx+V2n9KlTA+ZQLGRfq8zUE5C4O4FffcQCIE6sR61WL5U/EmTC4XRhITFpmWy22WxFcSLwAUum0iazlaYbznVXLJYIYKFQOEJV9gGgmCyHtMkWkTsINKpRsZB9IKB2mauGN5lyRRbOmXoyLAMA/JFekYB6lxqNprw9YzUyxzWbp4rMFirVYLniaMv/IskA4MmzUa3OgOMxjVZvs695fR/yhW2P178RwELhyPTMvNli6ypSAuq0uAMvk3+pxb67/mmXatXaIsDYtWXX41VAiKkehyMDzL9ZUMwpNSvGbDa/qNa8d3tdbk8ymbba1lLpzcGhYa3OIPETlSoy4xFbAcruL5sDmMLXOKBFANy1Se22zjaOBBBPpF6+mhl+8jydzqjeLhpMtoGHQw6n6+69v4hY/MXEpE5v6gHIv7TbzPQXX+UtjlMpWr1yw/f3mKTfbixy0t1ev0a7su7ymMz2eCIdCGD5wpbP7ydiJE6QXt9GNpfvue6SQEAlc4J0ghASAapVlJp8s2tYlzmeLxrT6fTW/JEvmqbPXGOrYnAfo0XMmjzugyJexMZt+NVHe9ZIxdE8P90Yhv2t/3eCIA8PD3V6w9A//y7r9A8Hhx8Pj/Bcl66kLn5XX+8UakklNnRxlmOlmBD0cWxHALQ7bzhYD8mSk9n1iCMEt+48sNnXsGDEaLLOzL4ZGBhcVGss1rWcnJ8TSqUz2zx1ilm3BhwLzXiOilOl3KE8RHulwwny2i+/PhsZ++bCt4pZVf/1G/cHBpWqd4o55R4lNpcgoA7L07VmSbOWuDna3GH4NjoFwFCdkpmGVnupf/ntUxdD1wWpG+Tv/v7BXoUKhqLLGk0kQmzvFN1ePxYMK2aVJyONLIXwR4v5ibc1gm8UJE1KKDKD7tBnDrmUzaP88mu2zjYy7P+N/jNW2dpPhcRBFFc7TRcu0WWql4MT4/rIVTmUKZnXywbvgaf7PMldLQgCz/Py+yMuQOAYjqmKlQxbMs9/mBboDkvT4UkVvV89Kdz/ABEfTwoEM8dWAAAAAElFTkSuQmCC
 subTitle: Kohlrabi und Deichkind
   
 ---

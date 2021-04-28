@@ -1,16 +1,23 @@
 ---
-title: Dunk!festival 2017
-seoTitle: Dunk!festival 2017 - Liebe auf den ersten Blick - Unser Dunk!festival
+date: 2017-06-05T14:23:24.000Z
 slug: dunk-festival-2017-eindruecke-und-bilder
 path: /2017/06/dunk-festival-2017-eindruecke-und-bilder/
-fileName: 2017-06---dunk-festival-2017.md
+type: Galerie
+typeName: Galerie
+title: Dunk!festival 2017
+seoTitle: Dunk!festival 2017 - Liebe auf den ersten Blick - Unser Dunk!festival
+ogTitle: Dunk!festival 2017 - Liebe auf den ersten Blick - Unser Dunk!festival
 description: Schon ewig liege ich Euch mit den Dunk!festival in den Ohren. Heute
   sind endlich meine Fotos fertig geworden und ich möchte ein paar Eindrücke
   teilen.
 excerpt: Schon ewig liege ich Euch mit dem Dunk!festival in den Ohren. Heute
   sind endlich meine Fotos fertig geworden und ich möchte ein paar Eindrücke
   teilen.
-focusKeyword: Dunk!festival
+fileName: 2017-06---dunk-festival-2017.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35114934275_5fcb6939a7_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35114934275_5fcb6939a7_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHCP/EACUQAAIBAwMEAgMAAAAAAAAAAAECAwAEEQUSIQYTMXEiUUFhgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAgEQABBAIBBQAAAAAAAAAAAAABAAIDESExBBJBUYHB/9oADAMBAAIRAxEAPwDzPHGWIBPir8FoJASCchedv145qW006SVQwDAAZz44rS6T0s11bLM1wiITjkZPP9FUvicwXW1lJyI4hbzXo/FkpLVV4wc5NVZotjAjB9V1JOhhIvyu8gKCMRheM+TuYYP6rJdT6XDYRMYpe7tYKGBBBHsVKCSSPCVvMheQBedYKQW+rTwOjQsFKjByoOaaz9VXl1NGZuysUY2qiRhcL780UUxe4kOvIVVYI7KPUuoJbqUDuExKQV45/GTSi7u2lYgM2z63HFFFEyOLekpBG0aX/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35114934275_5fcb6939a7_k__l.jpg
 labels:
   - ALL WE EXPECTED
   - AMENRA
@@ -52,17 +59,12 @@ labels:
   - WE LOST THE SEA
   - XENON FIELD
   - Zottegem
-type: Galerie
-typeName: Galerie
-date: 2017-06-05T14:23:24.000Z
+focusKeyword: Dunk!festival
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16763"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35114934275_5fcb6939a7_k__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35114934275_5fcb6939a7_k__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHCP/EACUQAAIBAwMEAgMAAAAAAAAAAAECAwAEEQUSIQYTMXEiUUFhgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAgEQABBAIBBQAAAAAAAAAAAAABAAIDESExBBJBUYHB/9oADAMBAAIRAxEAPwDzPHGWIBPir8FoJASCchedv145qW006SVQwDAAZz44rS6T0s11bLM1wiITjkZPP9FUvicwXW1lJyI4hbzXo/FkpLVV4wc5NVZotjAjB9V1JOhhIvyu8gKCMRheM+TuYYP6rJdT6XDYRMYpe7tYKGBBBHsVKCSSPCVvMheQBedYKQW+rTwOjQsFKjByoOaaz9VXl1NGZuysUY2qiRhcL780UUxe4kOvIVVYI7KPUuoJbqUDuExKQV45/GTSi7u2lYgM2z63HFFFEyOLekpBG0aX/9k=
 subTitle: Liebe auf den ersten Blick
   
 ---

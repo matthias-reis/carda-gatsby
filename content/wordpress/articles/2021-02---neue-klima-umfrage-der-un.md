@@ -1,14 +1,21 @@
 ---
-title: Neue Klima-Umfrage der UN
-seoTitle: Neue Klima-Umfrage der UN – Weltbevölkerung will Veränderung
+date: 2021-02-01T16:10:00.000Z
 slug: neue-klima-umfrage-der-un
 path: /2021/02/neue-klima-umfrage-der-un/
-fileName: 2021-02---neue-klima-umfrage-der-un.md
+type: Artikel
+typeName: Artikel
+title: Neue Klima-Umfrage der UN
+seoTitle: Neue Klima-Umfrage der UN – Weltbevölkerung will Veränderung
+ogTitle: Neue Klima-Umfrage der UN – Weltbevölkerung will Veränderung
 description: Die mit 1,2 Mio Befragten größte Klima-Umfrage aller Zeiten hat
   jetzt bewiesen, dass zwei Drittel der Menschen für das Klima kämpfen wollen.
 excerpt: Die mit 1,2 Millionen Befragten größte Klima-Umfrage aller Zeiten hat
   jetzt bewiesen, dass zwei Drittel der Menschen für das Klima kämpfen wollen.
-focusKeyword: Klima-Umfrage
+fileName: 2021-02---neue-klima-umfrage-der-un.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_klima-umfrage__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_klima-umfrage__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKhAAAQIEBgECBwAAAAAAAAAAAQIDAAQFEQYSEyExQWFCURQiIyQycaH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwX/xAAbEQACAwADAAAAAAAAAAAAAAABAgADBBEhMv/aAAwDAQACEQMRAD8AwaPh1fwImdL6IXp5rj8rXtbkx0fAmHabLvzYrcu6HHmi0lpYskoIBJI6PHO0J1MxI4lhKRKIDQuB9upWUnsG20b7Ncmpic1lpcfeAsCGF3AHtYceDG3dqd0KjqY1OREcOTzIMQYMFLmNFhS5loNpUpZay5FH0nri0U1UmVRTHGUSKA8lOcPvCylX527Ht+o1KtiOeduqcdmULPpEspO3kW8QsT9TmJl4oaM24opUbhkgWCbnc2tsDErNL2IA5las1dTlkinTK2gSiUkgfN2qGuk1xCptagu4y9G/UEECztI6/Ur16utLeJSDuB0IX5utJ01HMOCP5BBBYcII19mf/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_klima-umfrage-fb.png__l.jpg
 labels:
   - Klima
   - Klima & Umweltschutz
@@ -18,17 +25,12 @@ labels:
   - Klimakatastrophe
   - Klimawandel
   - UNDP
-type: Artikel
-typeName: Artikel
-date: 2021-02-01T16:10:00.000Z
+focusKeyword: Klima-Umfrage
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32700"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_klima-umfrage__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_klima-umfrage__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKhAAAQIEBgECBwAAAAAAAAAAAQIDAAQFEQYSEyExQWFCURQiIyQycaH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwX/xAAbEQACAwADAAAAAAAAAAAAAAABAgADBBEhMv/aAAwDAQACEQMRAD8AwaPh1fwImdL6IXp5rj8rXtbkx0fAmHabLvzYrcu6HHmi0lpYskoIBJI6PHO0J1MxI4lhKRKIDQuB9upWUnsG20b7Ncmpic1lpcfeAsCGF3AHtYceDG3dqd0KjqY1OREcOTzIMQYMFLmNFhS5loNpUpZay5FH0nri0U1UmVRTHGUSKA8lOcPvCylX527Ht+o1KtiOeduqcdmULPpEspO3kW8QsT9TmJl4oaM24opUbhkgWCbnc2tsDErNL2IA5las1dTlkinTK2gSiUkgfN2qGuk1xCptagu4y9G/UEECztI6/Ur16utLeJSDuB0IX5utJ01HMOCP5BBBYcII19mf/9k=
 subTitle: Weltbevölkerung wünscht sich Veränderung
   
 ---

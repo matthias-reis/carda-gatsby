@@ -1,14 +1,21 @@
 ---
-title: Birdwatching auf Helgoland
-seoTitle: Birdwatching auf Helgoland - ein Tag an der Nordsee
+date: 2019-11-19T17:22:06.000Z
 slug: helgoland-birdwatching
 path: /2019/11/helgoland-birdwatching/
-fileName: 2019-11---birdwatching-auf-helgoland.md
+type: Galerie mit Bild
+typeName: Galerie mit Bild
+title: Birdwatching auf Helgoland
+seoTitle: Birdwatching auf Helgoland - ein Tag an der Nordsee
+ogTitle: Birdwatching auf Helgoland - ein Tag an der Nordsee
 description: Vor ein paar Wochen haben wir Helgoland einen Besuch abgestattet.
   Dort sind uns zahlreiche Basstölpel mit ihren Jungen begegnet.
 excerpt: Vor ein paar Wochen haben wir Helgoland einen Besuch abgestattet. Dort
   sind uns zahlreiche Basstölpel mit ihren Jungen begegnet.
-focusKeyword: Helgoland
+fileName: 2019-11---birdwatching-auf-helgoland.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-3__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-3__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAEB//EACgQAAEEAgEDAwQDAAAAAAAAAAECAwQRAAUhEjFRBhNBBxRhoWJxsf/EABYBAQEBAAAAAAAAAAAAAAAAAAQFA//EAB8RAAEEAQUBAAAAAAAAAAAAAAEAAgMSEQQhIjHB4f/aAAwDAQACEQMRAD8AVRGV9IsLWnwtuv2M1uNx2WVvSh9uy2LW6tdJSPJusyxHm+AfcQfANfo4N+smz2cGPqGdfKXHjuFbriwEqcC00E1fYUTz5/rGv47qfG25wkuv38GfNREajbGMHiUsPSB0Jer+BFpB+DZ/NZpnR6FqSVJ8hI/0HBXpHb7rap187eOtTEQ1qbaU6mnnWwQSSoGjySOR8HHGzkxGmkyFPstsOnpQ4pRQCfHi+95jDJi13fEjUQnjRvqMbf1HM1SnHIhakx0MK6Gw3ay4L5HFmiOfihnLgt2VBXsdizKnTZDxcVSFKPSewJAPPfLLJssjiM57VXTxNbsB0kLqZmsg646yLsTIXHD0hpDC1BlS+S2DR/B5555xB6a2TDcZ2JutVKCnH/cD7zzaQhJQEgpTfVYV1WCOxGWWHEhYbBKdGJG1K//Z
+ogImage: null
 labels:
   - Ausflug
   - Ausflug
@@ -24,17 +31,12 @@ labels:
   - Tierrechte
   - Trottellummen
   - Vogelkunde
-type: Galerie mit Bild
-typeName: Galerie mit Bild
-date: 2019-11-19T17:22:06.000Z
+focusKeyword: Helgoland
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "26870"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-3__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-3__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAEB//EACgQAAEEAgEDAwQDAAAAAAAAAAECAwQRAAUhEjFRBhNBBxRhoWJxsf/EABYBAQEBAAAAAAAAAAAAAAAAAAQFA//EAB8RAAEEAQUBAAAAAAAAAAAAAAEAAgMSEQQhIjHB4f/aAAwDAQACEQMRAD8AVRGV9IsLWnwtuv2M1uNx2WVvSh9uy2LW6tdJSPJusyxHm+AfcQfANfo4N+smz2cGPqGdfKXHjuFbriwEqcC00E1fYUTz5/rGv47qfG25wkuv38GfNREajbGMHiUsPSB0Jer+BFpB+DZ/NZpnR6FqSVJ8hI/0HBXpHb7rap187eOtTEQ1qbaU6mnnWwQSSoGjySOR8HHGzkxGmkyFPstsOnpQ4pRQCfHi+95jDJi13fEjUQnjRvqMbf1HM1SnHIhakx0MK6Gw3ay4L5HFmiOfihnLgt2VBXsdizKnTZDxcVSFKPSewJAPPfLLJssjiM57VXTxNbsB0kLqZmsg646yLsTIXHD0hpDC1BlS+S2DR/B5555xB6a2TDcZ2JutVKCnH/cD7zzaQhJQEgpTfVYV1WCOxGWWHEhYbBKdGJG1K//Z
 subTitle: Ein Tag an der Nordsee
   
 ---

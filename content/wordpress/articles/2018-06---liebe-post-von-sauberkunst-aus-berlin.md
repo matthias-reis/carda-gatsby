@@ -1,16 +1,23 @@
 ---
-title: Liebe Post von Sauberkunst aus Berlin
-seoTitle: Liebe Post von Sauberkunst aus Berlin - Poseidon und Rosenstolz
+date: 2018-06-01T06:23:21.000Z
 slug: liebe-post-von-sauberkunst
 path: /2018/06/liebe-post-von-sauberkunst/
-fileName: 2018-06---liebe-post-von-sauberkunst-aus-berlin.md
+type: Artikel
+typeName: Produkttest
+title: Liebe Post von Sauberkunst aus Berlin
+seoTitle: Liebe Post von Sauberkunst aus Berlin - Poseidon und Rosenstolz
+ogTitle: Liebe Post von Sauberkunst aus Berlin - Rosenstolz und Poseidon
 description: "Vor Kurzem war ich zu einem Bloggerevent von Sauberkunst nach
   Berlin eingeladen. Dabei habe ich ein paar dufte Typen kennengelernt: Poseidon
   & Rosenstolz"
 excerpt: "Werbung - Vor Kurzem war ich zu einem Bloggerevent von Sauberkunst
   nach Berlin eingeladen. Dabei habe ich ein paar dufte Typen kennengelernt:
   Poseidon & Rosenstolz!"
-focusKeyword: Sauberkunst
+fileName: 2018-06---liebe-post-von-sauberkunst-aus-berlin.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_40431714030_49aab07994_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_40431714030_49aab07994_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUD/8QAJxAAAgEEAgEDBAMAAAAAAAAAAQIDAAQRIQUxEhMUYSIyQVGRobH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBAEC/8QAIxEAAgEEAQMFAAAAAAAAAAAAAQIDAAQRIRIUMaFBYYGxwf/aAAwDAQACEQMRAD8AXrG284wT13Wktoo8VVSWPQA2da/yrPHcNd+2RmWNAUDKGbZOtYAJ67PzTbdTW0fo+2iEfpr6JfxJZFHQPwf3VlzfpChZd4+PzzQ0djLJt9CsfleIiThB9KQ3BVFyqDIP53/NLNtx7PaySzDI8QfGT7lyOjinnkeTs7OySK6iVruZD4xCMuQwGQSM6GcGsuIWA4xJIQ+ZNspz93Rz3jf4qCKd3YMx9Ow9/IpQwoEwo+qXLDnpZVcXyK4JypVzsd4/Y3UhyfIy38t2ZoII30I8FiABgb/uiikBax8uWNmi5L2Xjxz2rnb3l1BczS3UsExZQA6MVOAc4qlHyklq07zPG5kYsUA0p+D3RRXPSRK5cDZrFupGGCa//9k=
+ogImage: null
 labels:
   - Badebombe
   - Badekugel
@@ -41,17 +48,12 @@ labels:
   - vegane Deocreme
   - vegane Kosmetik
   - Zero Waste
-type: Artikel
-typeName: Produkttest
-date: 2018-06-01T06:23:21.000Z
+focusKeyword: Sauberkunst
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "21114"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_40431714030_49aab07994_k__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_40431714030_49aab07994_k__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUD/8QAJxAAAgEEAgEDBAMAAAAAAAAAAQIDAAQRIQUxEhMUYSIyQVGRobH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBAEC/8QAIxEAAgEEAQMFAAAAAAAAAAAAAQIDAAQRIRIUMaFBYYGxwf/aAAwDAQACEQMRAD8AXrG284wT13Wktoo8VVSWPQA2da/yrPHcNd+2RmWNAUDKGbZOtYAJ67PzTbdTW0fo+2iEfpr6JfxJZFHQPwf3VlzfpChZd4+PzzQ0djLJt9CsfleIiThB9KQ3BVFyqDIP53/NLNtx7PaySzDI8QfGT7lyOjinnkeTs7OySK6iVruZD4xCMuQwGQSM6GcGsuIWA4xJIQ+ZNspz93Rz3jf4qCKd3YMx9Ow9/IpQwoEwo+qXLDnpZVcXyK4JypVzsd4/Y3UhyfIy38t2ZoII30I8FiABgb/uiikBax8uWNmi5L2Xjxz2rnb3l1BczS3UsExZQA6MVOAc4qlHyklq07zPG5kYsUA0p+D3RRXPSRK5cDZrFupGGCa//9k=
 subTitle: Poseidon und Rosenstolz
   
 ---

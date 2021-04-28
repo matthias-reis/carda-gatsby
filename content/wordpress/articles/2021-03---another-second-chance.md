@@ -1,16 +1,23 @@
 ---
-title: '"Another Second Chance"'
-seoTitle: '"Another Second Chance" – Das neue Album von Baulta'
+date: 2021-03-09T09:58:31.000Z
 slug: another-second-chance
 path: /2021/03/another-second-chance/
-fileName: 2021-03---another-second-chance.md
+type: Artikel
+typeName: Review
+title: '"Another Second Chance"'
+seoTitle: '"Another Second Chance" – Das neue Album von Baulta'
+ogTitle: '"Another Second Chance" – Das neue Album von Baulta'
 description: Baulta haben ihr neues Album "Another Second Chance"
   veröffentlicht. Die Platte fasst Momentaufnahmen des letzten Jahres perfekt in
   Noten.
 excerpt: English & German – Baulta haben ihr neues Album "Another Second Chance"
   veröffentlicht. Die Platte fasst viele Momentaufnahmen des letzten Jahres
   perfekt in Noten.
-focusKeyword: Baulta
+fileName: 2021-03---another-second-chance.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_baulta-another-second-chance__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_baulta-another-second-chance__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAoEAABAwMDAgcBAQAAAAAAAAABAgMRAAQFBiExEhMUFSJBYXGBUZH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAAUH/2gAMAwEAAhEDEQA/AJwxa+KyC2i+0wjqUVOuyQkA7mACT9CqTYaE05c4S+yHmL7draIjxji0qDqokKDaRsniBJJmpzjyjzIh5oPIBUoiJ2Ez+H9pwx+cvU2LrTVvbs4ltKZtnWysKSqEhoHnrJjcn5isK1jDkMLbYTGK7WaadfvG5W20wCOgpJSEqMncTsIpTLIbuG0Jebckj1NzHPyKp+k9JPvZtT/exjdwkEsI7qnCrqEAAqEAInnmRtSXrXIm81Lett9g29vcrQyptPtIBhR3KSQVCf6T70HFeHRcudBIhaoI55NbLa9dS12y+kIK57bglA9MBf3yPo0UUFDvNbJRiMgMaG22blIQltlMmzSRCgk7GCAqCJjaYkVOLxto37YZdLgUUg8EJ3EAEe0f5RRU1cf/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_baulta-another-second-chance-fb.png__l.jpg
 labels:
   - Atmosphärischer Post-Rock
   - Bands
@@ -19,17 +26,12 @@ labels:
   - DUNK!records
   - English & German
   - Post-Rock
-type: Artikel
-typeName: Review
-date: 2021-03-09T09:58:31.000Z
+focusKeyword: Baulta
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33332"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_baulta-another-second-chance__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_baulta-another-second-chance__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAoEAABAwMDAgcBAQAAAAAAAAABAgMRAAQFBiExEhMUFSJBYXGBUZH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAAUH/2gAMAwEAAhEDEQA/AJwxa+KyC2i+0wjqUVOuyQkA7mACT9CqTYaE05c4S+yHmL7draIjxji0qDqokKDaRsniBJJmpzjyjzIh5oPIBUoiJ2Ez+H9pwx+cvU2LrTVvbs4ltKZtnWysKSqEhoHnrJjcn5isK1jDkMLbYTGK7WaadfvG5W20wCOgpJSEqMncTsIpTLIbuG0Jebckj1NzHPyKp+k9JPvZtT/exjdwkEsI7qnCrqEAAqEAInnmRtSXrXIm81Lett9g29vcrQyptPtIBhR3KSQVCf6T70HFeHRcudBIhaoI55NbLa9dS12y+kIK57bglA9MBf3yPo0UUFDvNbJRiMgMaG22blIQltlMmzSRCgk7GCAqCJjaYkVOLxto37YZdLgUUg8EJ3EAEe0f5RRU1cf/2Q==
 subTitle: Das neue Album von Baulta
   
 ---

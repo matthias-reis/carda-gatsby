@@ -1,16 +1,23 @@
 ---
-title: Paulibird
-seoTitle: Paulibird - handgemachter Upcycling-Schmuck aus St. Pauli
+date: 2015-12-16T16:26:57.000Z
 slug: paulibird
 path: /2015/12/paulibird/
-fileName: 2015-12---paulibird.md
+type: Artikel
+typeName: Artikel
+title: Paulibird
+seoTitle: Paulibird - handgemachter Upcycling-Schmuck aus St. Pauli
+ogTitle: Paulibird - handgemachter Upcycling-Schmuck aus St. Pauli
 description: "Bei Paulibird in Hamburg wird ganz individueller Schmuck
   hergestellt. Das Material: Alte Skateboarddecks in Kombination mit
   Cellulose-Acetat."
 excerpt: "Werbung - Bei Paulibird in Hamburg wird ganz individueller Schmuck
   hergestellt. Das Material: Alte Skateboarddecks in Kombination mit
   Cellulose-Acetat."
-focusKeyword: Paulibird
+fileName: 2015-12---paulibird.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_paulibird__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_paulibird__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQIDB//EACgQAAICAQIGAQQDAAAAAAAAAAECAwQRAAUGEhMhMUFRIjJhgUKRof/EABUBAQEAAAAAAAAAAAAAAAAAAAQC/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAESExAxKx8f/aAAwDAQACEQMRAD8A4uteBrFcR5bqyBemp7hcgZzpgu7HtkV9q8MtmQnPJyFSAR8k4wNVO11bMktkRVBYaMDEajJx+P70LcaVQ7dRZYXCsr+vXv2CO+ihiWxqKKgLnckXdsq1wxWViVVQyFgWDnOfHbAAz86ncOtd225WkkqpJUvZRVmx05MEgjJ7AjHg6XpzZYxFkcdQ8ykj7/Xb/NPnAHG1rZKk1Kxt9fcKE9hS8NmMOqZOGZTj6W8EfJHjVPcgETZwVNHs+7VHiCObTlJEkXLNGAGP474Gk/b9su7+L9+GdElJex0Sr5cE5OMAgedGjQkYr2cbx6YzkQMwU6+TOtXjg6bW7DuYVMaKtOZuT9lQM/v41d7rxDw9aqrDDW3evN1VedayRxxSkfy5WJKtn2Ox+NGjSwLNkwpahU//2Q==
+ogImage: null
 labels:
   - Hamburg
   - Hamburg
@@ -22,17 +29,12 @@ labels:
   - Upcycling
   - Upcycling-Schmuck
   - veganer Schmuck
-type: Artikel
-typeName: Artikel
-date: 2015-12-16T16:26:57.000Z
+focusKeyword: Paulibird
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29046"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_paulibird__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_paulibird__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQIDB//EACgQAAICAQIGAQQDAAAAAAAAAAECAwQRAAUGEhMhMUFRIjJhgUKRof/EABUBAQEAAAAAAAAAAAAAAAAAAAQC/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAESExAxKx8f/aAAwDAQACEQMRAD8A4uteBrFcR5bqyBemp7hcgZzpgu7HtkV9q8MtmQnPJyFSAR8k4wNVO11bMktkRVBYaMDEajJx+P70LcaVQ7dRZYXCsr+vXv2CO+ihiWxqKKgLnckXdsq1wxWViVVQyFgWDnOfHbAAz86ncOtd225WkkqpJUvZRVmx05MEgjJ7AjHg6XpzZYxFkcdQ8ykj7/Xb/NPnAHG1rZKk1Kxt9fcKE9hS8NmMOqZOGZTj6W8EfJHjVPcgETZwVNHs+7VHiCObTlJEkXLNGAGP474Gk/b9su7+L9+GdElJex0Sr5cE5OMAgedGjQkYr2cbx6YzkQMwU6+TOtXjg6bW7DuYVMaKtOZuT9lQM/v41d7rxDw9aqrDDW3evN1VedayRxxSkfy5WJKtn2Ox+NGjSwLNkwpahU//2Q==
 subTitle: Handgemachter Upcycling-Schmuck aus St. Pauli
   
 ---

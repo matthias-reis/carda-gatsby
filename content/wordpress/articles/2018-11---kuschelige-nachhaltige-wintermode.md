@@ -1,16 +1,23 @@
 ---
-title: Kuschelige nachhaltige Wintermode
-seoTitle: Kuschelige und nachhaltige Windermode nicht nur für Veganer*innen
+date: 2018-11-13T09:42:15.000Z
 slug: kuschelige-nachhaltige-wintermode-nicht-nur-fuer-veganerinnen
 path: /2018/11/kuschelige-nachhaltige-wintermode-nicht-nur-fuer-veganerinnen/
-fileName: 2018-11---kuschelige-nachhaltige-wintermode.md
+type: Artikel
+typeName: Artikel
+title: Kuschelige nachhaltige Wintermode
+seoTitle: Kuschelige und nachhaltige Windermode nicht nur für Veganer*innen
+ogTitle: Kuschelige und nachhaltige Windermode nicht nur für Veganer*innen
 description: Wer beim Wintermode Shoppen Wert auf Nachhaltigkeit legt, sucht ab
   und an schon etwas länger. Daher habe ich ein paar Tipps für Euch
   zusammengetragen.
 excerpt: Werbung - Wer beim Wintermode Shoppen Wert auf Nachhaltigkeit legt,
   sucht ab und an schon etwas länger. Daher habe ich ein paar Tipps für Euch
   zusammengetragen.
-focusKeyword: nachhaltige Wintermode
+fileName: 2018-11---kuschelige-nachhaltige-wintermode.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_11_nachhaltige-wintermode__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_11_nachhaltige-wintermode__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBQYHBP/EACcQAAICAQMEAgIDAQAAAAAAAAECAwQRAAUGBxIhMRNRIkEjYZHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAbEQEAAgIDAAAAAAAAAAAAAAAAAQIRIRIxQf/aAAwDAQACEQMRAD8A13qhyADcKXHK1hIpbCmxZZmwEiUE/lj9eCSP3gar9OE7FyPa3gu1pQZoe8QoYmEcjBQWXJDA5xn351WeqW7V9s6r7byLa7cVxoq4FyojBmSMZUkkeMMr+PPtf70jfubx8q5hxnZdktAwtuNaWed1MY7VkUrH+QB8Aev2SBoCKu9RJ9piarM6zS17U1d+1u4HscrnP+aZv9SILVynOlKF5qw+d5p2VHdFBPxAkeSWKkAH7+9Z7cozXN6vpXgeRpLk5VEGTkyH/upTk3HZKu0BbMQhv1Ijaky6ntiyiBSF9Es2QT9aU2jpfHGzdZjc3HeLFj8nSF3A9DIKqPH0Brp26ulfqNtXxlsncKj5J85Lxk6NGmhNcWnkj5lahVv4zenUjA8j5XxrVN8oQnaJywJHxscePOFz796NGua87b+v/9k=
+ogImage: null
 labels:
   - Fair Fashion & Beauty
   - Handschuhe
@@ -22,17 +29,12 @@ labels:
   - vegane Winterjacken
   - Winterjacke
   - Wintermantel
-type: Artikel
-typeName: Artikel
-date: 2018-11-13T09:42:15.000Z
+focusKeyword: nachhaltige Wintermode
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "22663"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_11_nachhaltige-wintermode__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_11_nachhaltige-wintermode__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBQYHBP/EACcQAAICAQMEAgIDAQAAAAAAAAECAwQRAAUGBxIhMRNRIkEjYZHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAbEQEAAgIDAAAAAAAAAAAAAAAAAQIRIRIxQf/aAAwDAQACEQMRAD8A13qhyADcKXHK1hIpbCmxZZmwEiUE/lj9eCSP3gar9OE7FyPa3gu1pQZoe8QoYmEcjBQWXJDA5xn351WeqW7V9s6r7byLa7cVxoq4FyojBmSMZUkkeMMr+PPtf70jfubx8q5hxnZdktAwtuNaWed1MY7VkUrH+QB8Aev2SBoCKu9RJ9piarM6zS17U1d+1u4HscrnP+aZv9SILVynOlKF5qw+d5p2VHdFBPxAkeSWKkAH7+9Z7cozXN6vpXgeRpLk5VEGTkyH/upTk3HZKu0BbMQhv1Ijaky6ntiyiBSF9Es2QT9aU2jpfHGzdZjc3HeLFj8nSF3A9DIKqPH0Brp26ulfqNtXxlsncKj5J85Lxk6NGmhNcWnkj5lahVv4zenUjA8j5XxrVN8oQnaJywJHxscePOFz796NGua87b+v/9k=
 subTitle: Nicht nur für Veganer*innen
   
 ---

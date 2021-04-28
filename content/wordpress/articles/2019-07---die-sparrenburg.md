@@ -1,31 +1,33 @@
 ---
-title: Die Sparrenburg
-seoTitle: Die Sparrenburg - Festungsanlage in Bielefelds Mitte
+date: 2019-07-30T14:16:04.000Z
 slug: sparrenburg-bielefeld
 path: /2019/07/sparrenburg-bielefeld/
-fileName: 2019-07---die-sparrenburg.md
+type: Galerie
+typeName: Galerie
+title: Die Sparrenburg
+seoTitle: Die Sparrenburg - Festungsanlage in Bielefelds Mitte
+ogTitle: Die Sparrenburg - Festungsanlage in Bielefelds Mitte
 description: Dass wir einen Ausflug nach Bielefeld gemacht haben, wisst Ihr.
   Dort haben wir auch die Sparrenburg besucht - eine spannende Besichtigung.
 excerpt: Dass wir einen Ausflug nach Bielefeld gemacht haben, wisst Ihr. Dort
   haben wir auch die Sparrenburg besucht - eine spannende Besichtigung.
-focusKeyword: Sparrenburg
+fileName: 2019-07---die-sparrenburg.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-20__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-20__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAwIE/8QAKBAAAgEDAgYCAgMAAAAAAAAAAQIDBAURAAYSEyEiMUFRYQcUMlJx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUG/8QAJhEAAgEDAgQHAAAAAAAAAAAAAQIDAAQRBTEGEhMhIjJBYXGB8P/aAAwDAQACEQMRAD8AQ2yiDFRjVFQU0DiXltxmF+XIVUlVb+pbGM/WdcWOm4pohjyRqw2JEku1biG5aiolq2RWGeI4kbC9eh7c/wCA61+q35sumFAPMQD8Vi9MtBedQsfKM/dKYaLIAA1pLapOAloyq4ySRgDXm3He0tNHDTUpU3WrXEIYHhiBB72Pz0IA9n4A1G2u1yXu311vpp5qa6T03PLyzkc0FQrRuQwyAeEgeACemNEvdYS2kMYGcb0qx0p7lBIW5Qdvf96U4uFdNaNrXW5UjKlTTUxeJnXiAfIA6e/OpK0bzu1po4xR3eq/Uy444zkEfakYzk4+OujRqLxS7GaNc9qZw+AsLkbk1nur8k01wq7eiUhdKNUpp6le0NI38iB6UMpx8931pdLvNbVvGh/XAZISGaQdB3dGHnwVJ8+8aNGgMxk8TnJNV4kEQCp2Ar//2Q==
+ogImage: null
 labels:
   - Ausflug
   - Bielefeld
   - Sparrenberg
   - Sparrenburg
   - Teutoburger Wald
-type: Galerie
-typeName: Galerie
-date: 2019-07-30T14:16:04.000Z
+focusKeyword: Sparrenburg
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "25408"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-20__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-20__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAwIE/8QAKBAAAgEDAgYCAgMAAAAAAAAAAQIDBAURAAYSEyEiMUFRYQcUMlJx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUG/8QAJhEAAgEDAgQHAAAAAAAAAAAAAQIDAAQRBTEGEhMhIjJBYXGB8P/aAAwDAQACEQMRAD8AQ2yiDFRjVFQU0DiXltxmF+XIVUlVb+pbGM/WdcWOm4pohjyRqw2JEku1biG5aiolq2RWGeI4kbC9eh7c/wCA61+q35sumFAPMQD8Vi9MtBedQsfKM/dKYaLIAA1pLapOAloyq4ySRgDXm3He0tNHDTUpU3WrXEIYHhiBB72Pz0IA9n4A1G2u1yXu311vpp5qa6T03PLyzkc0FQrRuQwyAeEgeACemNEvdYS2kMYGcb0qx0p7lBIW5Qdvf96U4uFdNaNrXW5UjKlTTUxeJnXiAfIA6e/OpK0bzu1po4xR3eq/Uy444zkEfakYzk4+OujRqLxS7GaNc9qZw+AsLkbk1nur8k01wq7eiUhdKNUpp6le0NI38iB6UMpx8931pdLvNbVvGh/XAZISGaQdB3dGHnwVJ8+8aNGgMxk8TnJNV4kEQCp2Ar//2Q==
 subTitle: Festungsanlage in Bielefelds Mitte
   
 ---

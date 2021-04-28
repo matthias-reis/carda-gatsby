@@ -1,15 +1,22 @@
 ---
-title: Die Alben des Jahres
-seoTitle: Die Alben des Jahres – von Post-Rock bis Metal
+date: 2020-12-14T11:30:41.000Z
 slug: alben-des-jahres-2020
 path: /2020/12/alben-des-jahres-2020/
-fileName: 2020-12---die-alben-des-jahres.md
+type: Artikel
+typeName: Artikel
+title: Die Alben des Jahres
+seoTitle: Die Alben des Jahres – von Post-Rock bis Metal
+ogTitle: Die Alben des Jahres – von Post-Rock bis Metal
 description: Die Wahl für die Alben des Jahres ist uns nicht leicht gefallen.
   Hier sind unsere drei Favoriten, die es dieses Jahr auf das Podest geschafft
   haben.
 excerpt: Die Wahl für die Alben des Jahres ist uns nicht leicht gefallen. Hier
   sind unsere drei Favoriten, die es dieses Jahr auf das Podest geschafft haben.
-focusKeyword: Alben des Jahres
+fileName: 2020-12---die-alben-des-jahres.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_alben-des-jahres-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_alben-des-jahres-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QAKBAAAQMEAAUEAwEAAAAAAAAAAQIDBAAFESEGEhMxcQdBUWEUQpFi/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAHBEAAQQDAQAAAAAAAAAAAAAAAAIDBDIBITER/9oADAMBAAIRAxEAPwBdjRL0mYmZeJtyuckqClOybi62B88qUKAH0KW/UuUq5cRMukyC8mIy0Q66XTrm/Y7/ALmtC4zty7de0Ws3+yo6qwtBlSFtLaSdjqhKFAa98jPfVJvqlw9IsfGDFrjyhMUqDHcW8ggIKlFRyN6QMaJ81ic2n00Cc23+FNAfUhKQnJUVDG8e9ThyuqQA4y+jt1WiNHWlJzrz28VcdjNqajPFbT4eCkKAScaI75qii2sRnG343UbWkgY5yUqBKcgg+f7irR6El9NAvNkn3Pia5P8AEFsvdqmTJLjym129+QAVHQC20qCkjsPoCuF6nsKg3u0Q5QllyJZoscmQyWVrxz75TsJ3gZAOB2FFFB2o8bF6JJS6+lttpLLSckISSd/JKid1bIBA7awfb/NFFOPQC+n/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_12_alben-des-jahres-fb.png__l.jpg
 labels:
   - Alben des Jahres
   - Bands
@@ -20,17 +27,12 @@ labels:
   - Post-Metal
   - Post-Rock
   - The Ocean
-type: Artikel
-typeName: Artikel
-date: 2020-12-14T11:30:41.000Z
+focusKeyword: Alben des Jahres
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32098"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_alben-des-jahres-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_alben-des-jahres-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QAKBAAAQMEAAUEAwEAAAAAAAAAAQIDBAAFESEGEhMxcQdBUWEUQpFi/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAHBEAAQQDAQAAAAAAAAAAAAAAAAIDBDIBITER/9oADAMBAAIRAxEAPwBdjRL0mYmZeJtyuckqClOybi62B88qUKAH0KW/UuUq5cRMukyC8mIy0Q66XTrm/Y7/ALmtC4zty7de0Ws3+yo6qwtBlSFtLaSdjqhKFAa98jPfVJvqlw9IsfGDFrjyhMUqDHcW8ggIKlFRyN6QMaJ81ic2n00Cc23+FNAfUhKQnJUVDG8e9ThyuqQA4y+jt1WiNHWlJzrz28VcdjNqajPFbT4eCkKAScaI75qii2sRnG343UbWkgY5yUqBKcgg+f7irR6El9NAvNkn3Pia5P8AEFsvdqmTJLjym129+QAVHQC20qCkjsPoCuF6nsKg3u0Q5QllyJZoscmQyWVrxz75TsJ3gZAOB2FFFB2o8bF6JJS6+lttpLLSckISSd/JKid1bIBA7awfb/NFFOPQC+n/2Q==
 subTitle: Von Post-Rock bis Metal
   
 ---

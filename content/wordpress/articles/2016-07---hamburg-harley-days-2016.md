@@ -1,14 +1,21 @@
 ---
-title: Hamburg Harley Days 2016
-seoTitle: Hamburg Harley Days 2016 - Bildergalerie
+date: 2016-07-27T12:27:13.000Z
 slug: hamburg-harley-days-2016
 path: /2016/07/hamburg-harley-days-2016/
-fileName: 2016-07---hamburg-harley-days-2016.md
+type: Galerie
+typeName: Galerie
+title: Hamburg Harley Days 2016
+seoTitle: Hamburg Harley Days 2016 - Bildergalerie
+ogTitle: Hamburg Harley Days 2016 - Bildergalerie
 description: Vor Kurzem fanden hier in Hamburg wieder die Harley Days statt und
   ich habe natürlich wieder jede Menge Aufnahmen gemacht.
 excerpt: Vor Kurzem fanden hier in Hamburg wieder die Harley Days statt und ich
   habe natürlich wieder jede Menge Aufnahmen gemacht.
-focusKeyword: Harley Days
+fileName: 2016-07---hamburg-harley-days-2016.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_07_27920790664_e77affeb20_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_07_27920790664_e77affeb20_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCA//EACcQAAICAQMEAgEFAAAAAAAAAAECAwQRAAUSEyExQQYiI0JRYXHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAYEQEBAQEBAAAAAAAAAAAAAAABABECIf/aAAwDAQACEQMRAD8AwnYaTxb5t624JI1eKyWwuTjpt/g1Ps0Y9x2raoaUxwDJ1JLCmMwBirAHPkEeCCdaJuPxZqOy3JIb9SSWOu0hilXotxx3bBz2xk+O+NIFqaAbxaffbsFy06xxR06BmMYXpjgEcMFAOR9T7HrSBDGPTrpd7YKtL8NmGZWsJMSxA6MeSCMt5/SMfvkaotpoKzNaWSORopWjCZ4ghl7t9seCcf3po2tItwiJt1enCrtFWN2M8m4jJUAPyyO/o+PPoTbvw21YqRWqu11Z4JF5RSxKGVgfYPPSjUW6xXXFmtKsE26PZLNI8BMjsXOJFmxgJjBzkYAxjXsmx3Lu1xU56lUTIeIsRTKx4fYlSo7Eljnl6AGjRokupso/H7237bReaza3DissMkFSIq8EblWDRswHNuSDl4JB7eNOfx8y1aFtI60sMEtqSeKuV49FGx24jIXJBbH86NGrTfMv/9k=
+ogImage: null
 labels:
   - Hamburg
   - Harley
@@ -19,17 +26,12 @@ labels:
   - HD Treffen
   - Motorräder
   - Reeperbahn
-type: Galerie
-typeName: Galerie
-date: 2016-07-27T12:27:13.000Z
+focusKeyword: Harley Days
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "14987"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_07_27920790664_e77affeb20_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_07_27920790664_e77affeb20_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCA//EACcQAAICAQMEAgEFAAAAAAAAAAECAwQRAAUSEyExQQYiI0JRYXHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAYEQEBAQEBAAAAAAAAAAAAAAABABECIf/aAAwDAQACEQMRAD8AwnYaTxb5t624JI1eKyWwuTjpt/g1Ps0Y9x2raoaUxwDJ1JLCmMwBirAHPkEeCCdaJuPxZqOy3JIb9SSWOu0hilXotxx3bBz2xk+O+NIFqaAbxaffbsFy06xxR06BmMYXpjgEcMFAOR9T7HrSBDGPTrpd7YKtL8NmGZWsJMSxA6MeSCMt5/SMfvkaotpoKzNaWSORopWjCZ4ghl7t9seCcf3po2tItwiJt1enCrtFWN2M8m4jJUAPyyO/o+PPoTbvw21YqRWqu11Z4JF5RSxKGVgfYPPSjUW6xXXFmtKsE26PZLNI8BMjsXOJFmxgJjBzkYAxjXsmx3Lu1xU56lUTIeIsRTKx4fYlSo7Eljnl6AGjRokupso/H7237bReaza3DissMkFSIq8EblWDRswHNuSDl4JB7eNOfx8y1aFtI60sMEtqSeKuV49FGx24jIXJBbH86NGrTfMv/9k=
 subTitle: Biker rocken die Reeperbahn
   
 ---

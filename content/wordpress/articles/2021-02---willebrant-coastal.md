@@ -1,15 +1,22 @@
 ---
-title: Willebrant – "Coastal___"
-seoTitle: Willebrant – "Coastal___" – Ambient aus Australien
+date: 2021-02-14T15:13:29.000Z
 slug: willebrant-coastal___
 path: /2021/02/willebrant-coastal___/
-fileName: 2021-02---willebrant-coastal.md
+type: Artikel
+typeName: Review
+title: Willebrant – "Coastal___"
+seoTitle: Willebrant – "Coastal___" – Ambient aus Australien
+ogTitle: Willebrant – "Coastal___" – Ambient aus Australien
 description: "Die neue EP von Willebrant ist vor allem eins: Herrlich verträumt.
   Die Musik des Australiers lädt dazu ein, einfach mal nur da zu sein."
 excerpt: "English & German – Die neue EP von Willebrant ist vor allem eins:
   Herrlich verträumt. Die Musik des Australiers lädt dazu ein, einfach mal nur
   da zu sein."
-focusKeyword: Willebrant
+fileName: 2021-02---willebrant-coastal.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQcB/8QAJBAAAQQCAQMFAQAAAAAAAAAAAQIDBBEFIQAGEiITMUFRYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAGBf/EACERAAIBAwMFAAAAAAAAAAAAAAEDAAIRsQQxcSEiUZHh/9oADAMBAAIRAxEAPwDjqCL8hrggFVVzRYlwm20JkY5L6kg2oOlBJvRNC/5+c9fk411ICceuObsrae7iRVAeWvsnl28h2memBPfSsNxw9FXtPcsCj7Eps6PLcrGxl4LFM49KE5P1XRLcXMSoObHYEoBPbXtdC/3hE+e22peMjh2Ni6kSA8gqQtPfptdD2IO9jV75BkOrXstIjCNiIbPpI9NqO0t1aAvQC0JKrSoBNVZFfHCWoDC6vk5O8boYkJUBc9tN/Q2+yG7H3XApSaOhxxxfA86B0TP6bTh2IOUxclT7rhW7KalKSD5aJbNoUQABsfHLEXp3FZDr1qRgZLAx7MUBoZEhlUlw2FI0fEhJsK0K3fHHCGp6Pr5OYsQLIoI8DE//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant.png__l.jpg
 labels:
   - Ambient
   - Australian Post-Rock
@@ -23,17 +30,12 @@ labels:
   - Review
   - Soundscape
   - Willebrant
-type: Artikel
-typeName: Review
-date: 2021-02-14T15:13:29.000Z
+focusKeyword: Willebrant
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32888"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQcB/8QAJBAAAQQCAQMFAQAAAAAAAAAAAQIDBBEFIQAGEiITMUFRYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAGBf/EACERAAIBAwMFAAAAAAAAAAAAAAEDAAIRsQQxcSEiUZHh/9oADAMBAAIRAxEAPwDjqCL8hrggFVVzRYlwm20JkY5L6kg2oOlBJvRNC/5+c9fk411ICceuObsrae7iRVAeWvsnl28h2memBPfSsNxw9FXtPcsCj7Eps6PLcrGxl4LFM49KE5P1XRLcXMSoObHYEoBPbXtdC/3hE+e22peMjh2Ni6kSA8gqQtPfptdD2IO9jV75BkOrXstIjCNiIbPpI9NqO0t1aAvQC0JKrSoBNVZFfHCWoDC6vk5O8boYkJUBc9tN/Q2+yG7H3XApSaOhxxxfA86B0TP6bTh2IOUxclT7rhW7KalKSD5aJbNoUQABsfHLEXp3FZDr1qRgZLAx7MUBoZEhlUlw2FI0fEhJsK0K3fHHCGp6Pr5OYsQLIoI8DE//2Q==
 subTitle: Ambient aus Australien
   
 ---

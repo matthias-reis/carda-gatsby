@@ -1,16 +1,23 @@
 ---
-title: Oslo Tapes – "Ør"
-seoTitle: Oslo Tapes – "Ør" – Neues Album im Juni – Musiktipp
+date: 2021-04-06T08:44:16.000Z
 slug: oslo-tapes-or
 path: /2021/04/oslo-tapes-or/
-fileName: 2021-04---oslo-tapes-oer.md
+type: Artikel
+typeName: Review
+title: Oslo Tapes – "Ør"
+seoTitle: Oslo Tapes – "Ør" – Neues Album im Juni – Musiktipp
+ogTitle: Oslo Tapes – "Ør" – Neues Album im Juni – Musiktipp
 description: Am 4. Juni erscheint auf Pelagic Records eine neue Platte von Oslo
   Tapes. Aventgarde Rock vom Feinsten erwartet uns.
 excerpt: English & German – Am 4. Juni erscheint auf Pelagic Records eine neue
   Platte von Oslo Tapes. Ich habe schon mal reingehört und bin begeistert.
   Besonders Fans von Nine Inch Nails, Massive Attack, My Bloody Valentine und
   Portishead dürfen sich freuen.
-focusKeyword: Oslo Tapes
+fileName: 2021-04---oslo-tapes-oer.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_oslo-tapes__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_oslo-tapes__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCBwQGCP/EACcQAAEDAwQBBAMBAAAAAAAAAAECAwQABRESEyExBwYUIlFBYZGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EAB0RAAMAAQUBAAAAAAAAAAAAAAABEfACITFBYZH/2gAMAwEAAhEDEQA/AMy3eeLWx5Hv6Jd9kPenX9pMJzZUptKgv5FIwFIToOD94zS21eW/S0fyXFv8WTfXWZ6n405TrQSE61oSyVDOnbQlIKQDqHOe8VQTSIMG4xXFof3FOqLkdxQOlr8IJGDqIyCfwFdZpjcrtZJSYjNrsHtNoq3GpMpb6QM5BBynV30QMYHfdJPC673Rd3l/zJa5F/at9scuzRss5JkSokoNailxIXtpCsO8BSflgfLPXNbF6u80WaQ/ZxYZsVbcx5CnUu8qbbVpJSoA/AgKPPOCnH3XM7c2DFbti5MBu46oZbQpxZQWF7isAYOFAfsZ5/VLLzOke7ksF/fa3CQHm0nBPJxxxyT1WpMLpUeZ9FrhbJ1B0KUec85BpwpiG6y7LTcozL5jFwR1JUTrCgNGeskZUP5RRTcEqKfcj2bbKhnbXqSQeh9f7UJT+/KcdxgKOQM0UUUD/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_oslo-tapes.png__l.jpg
 labels:
   - Aventgarde
   - Bands
@@ -22,17 +29,12 @@ labels:
   - Post-Rock
   - Review
   - Shoegaze
-type: Artikel
-typeName: Review
-date: 2021-04-06T08:44:16.000Z
+focusKeyword: Oslo Tapes
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33707"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_oslo-tapes__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_oslo-tapes__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCBwQGCP/EACcQAAEDAwQBBAMBAAAAAAAAAAECAwQABRESEyExBwYUIlFBYZGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EAB0RAAMAAQUBAAAAAAAAAAAAAAABEfACITFBYZH/2gAMAwEAAhEDEQA/AMy3eeLWx5Hv6Jd9kPenX9pMJzZUptKgv5FIwFIToOD94zS21eW/S0fyXFv8WTfXWZ6n405TrQSE61oSyVDOnbQlIKQDqHOe8VQTSIMG4xXFof3FOqLkdxQOlr8IJGDqIyCfwFdZpjcrtZJSYjNrsHtNoq3GpMpb6QM5BBynV30QMYHfdJPC673Rd3l/zJa5F/at9scuzRss5JkSokoNailxIXtpCsO8BSflgfLPXNbF6u80WaQ/ZxYZsVbcx5CnUu8qbbVpJSoA/AgKPPOCnH3XM7c2DFbti5MBu46oZbQpxZQWF7isAYOFAfsZ5/VLLzOke7ksF/fa3CQHm0nBPJxxxyT1WpMLpUeZ9FrhbJ1B0KUec85BpwpiG6y7LTcozL5jFwR1JUTrCgNGeskZUP5RRTcEqKfcj2bbKhnbXqSQeh9f7UJT+/KcdxgKOQM0UUUD/9k=
 subTitle: Neues Album im Juni
   
 ---

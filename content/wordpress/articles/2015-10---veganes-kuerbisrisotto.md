@@ -1,14 +1,21 @@
 ---
-title: Veganes Kürbisrisotto
-seoTitle: Veganes Kürbisrisotto - Rezept
+date: 2015-10-04T15:26:53.000Z
 slug: veganes-kuerbisrisotto
 path: /2015/10/veganes-kuerbisrisotto/
-fileName: 2015-10---veganes-kuerbisrisotto.md
+type: Artikel
+typeName: Rezept
+title: Veganes Kürbisrisotto
+seoTitle: Veganes Kürbisrisotto - Rezept
+ogTitle: Veganes Kürbisrisotto - Rezept
 description: Als wir am Freitag über den Markt liefen, kam mir die Idee, ein
   Kürbisrisotto zu kochen. Mein Rezept habe ich für Euch aufgeschrieben.
 excerpt: Am Freitag spazierte ich mit meiner lieben Cousine Salome über den
   Markt und sie erzählte mir von ihrem Plan, ein leckeres Pilzrisotto zu kochen.
-focusKeyword: Kürbisrisotto
+fileName: 2015-10---veganes-kuerbisrisotto.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_10_21751763830_6298a15f0c_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_10_21751763830_6298a15f0c_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAApEAABBAEDAwQBBQAAAAAAAAABAgMEESEABRITMUEGFFFhcRUiM5Gh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQGBf/EACYRAAIABQIFBQAAAAAAAAAAAAECAAMEESESMQUVImHRMkFRcZH/2gAMAwEAAhEDEQA/AH8CJtnpuAuQ8tmMWC2px5wdRwOEUKIoOoVZHEUE/wC6l9635G4b5Ae296VtcRltQQ48kreXyVyAIBoIskBJvGqbfIkXcZbxYQylmO0lgNJb5IDeSrkgeb+fvzqA3Db3tphtxGJvWguOXxJLqgiwRnvdePFDtqW5ilQGlLgbDHt9RTrQsjB2zgE9o6ywkrT1TJ923x5FYACVHyAPBArFn51jOjw3Y5cbZeSMAkJsBRNV9150N6f3GL+mla2AkdMrbCiFft+gRjya750whOdKI0UOltDiaLhFhNGyFX2x2PxqbWrm07lUOPiNGZTKwuw2gCZIjS2pTjHDryEni4pV9NwpIu+4A7186mtvQdp2KDBdS371DZb5FpSeSfK1LJoUbAPc6sHEraWHdojwkuqVbzbh6XUNYNhJyD+LrvoYbNNnpLExxMdooCVPh0FQTdqHHPL6JNfnTbUlRrKHqBN7+f2FpVXTlNfpIG3iE8Ex46kLfa9q1GIQ0H8JQogZHk5zWcAapSpCubrq47khy2mByKeuo5KiB9X84vS9n0Z6chrD01cncHhZuQ9iz54prPb+homTK2+EpISG4KXj/KoFbqxYTjuayM4A0fkrMw6r9oXbimq4Aj//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2015_10_21751763830_6298a15f0c_z__l.jpg
 labels:
   - Butternuss
   - Butternuss-Kürbis
@@ -28,17 +35,12 @@ labels:
   - vegan
   - vegane Rezepte
   - Vegane Rezepte
-type: Artikel
-typeName: Rezept
-date: 2015-10-04T15:26:53.000Z
+focusKeyword: Kürbisrisotto
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "12954"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_10_21751763830_6298a15f0c_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_10_21751763830_6298a15f0c_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAApEAABBAEDAwQBBQAAAAAAAAABAgMEESEABRITMUEGFFFhcRUiM5Gh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQGBf/EACYRAAIABQIFBQAAAAAAAAAAAAECAAMEESESMQUVImHRMkFRcZH/2gAMAwEAAhEDEQA/AH8CJtnpuAuQ8tmMWC2px5wdRwOEUKIoOoVZHEUE/wC6l9635G4b5Ae296VtcRltQQ48kreXyVyAIBoIskBJvGqbfIkXcZbxYQylmO0lgNJb5IDeSrkgeb+fvzqA3Db3tphtxGJvWguOXxJLqgiwRnvdePFDtqW5ilQGlLgbDHt9RTrQsjB2zgE9o6ywkrT1TJ923x5FYACVHyAPBArFn51jOjw3Y5cbZeSMAkJsBRNV9150N6f3GL+mla2AkdMrbCiFft+gRjya750whOdKI0UOltDiaLhFhNGyFX2x2PxqbWrm07lUOPiNGZTKwuw2gCZIjS2pTjHDryEni4pV9NwpIu+4A7186mtvQdp2KDBdS371DZb5FpSeSfK1LJoUbAPc6sHEraWHdojwkuqVbzbh6XUNYNhJyD+LrvoYbNNnpLExxMdooCVPh0FQTdqHHPL6JNfnTbUlRrKHqBN7+f2FpVXTlNfpIG3iE8Ex46kLfa9q1GIQ0H8JQogZHk5zWcAapSpCubrq47khy2mByKeuo5KiB9X84vS9n0Z6chrD01cncHhZuQ9iz54prPb+homTK2+EpISG4KXj/KoFbqxYTjuayM4A0fkrMw6r9oXbimq4Aj//2Q==
 subTitle: Für 4 Portionen
   
 ---

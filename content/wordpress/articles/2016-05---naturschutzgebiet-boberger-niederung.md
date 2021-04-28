@@ -1,16 +1,23 @@
 ---
-title: Naturschutzgebiet Boberger Niederung
-seoTitle: Naturschutzgebiet Boberger Niederung
+date: 2016-05-19T13:03:14.000Z
 slug: naturschutzgebiet-boberger-niederung
 path: /2016/05/naturschutzgebiet-boberger-niederung/
-fileName: 2016-05---naturschutzgebiet-boberger-niederung.md
+type: Artikel
+typeName: Artikel
+title: Naturschutzgebiet Boberger Niederung
+seoTitle: Naturschutzgebiet Boberger Niederung
+ogTitle: Naturschutzgebiet Boberger Niederung
 description: Im Naturschutzgebiet Boberger Niederung haben wir am Pfingstmontag
   ein paar wunderschöne Stunden verbracht. Dabei sind mir ein paar schöne Fotos
   gelungen.
 excerpt: Im Naturschutzgebiet Boberger Niederung haben wir am Pfingstmontag ein
   paar wunderschöne Stunden verbracht. Dabei sind mir ein paar schöne Fotos
   gelungen.
-focusKeyword: Boberger Niederung
+fileName: 2016-05---naturschutzgebiet-boberger-niederung.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26835754480_e076959d51_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26835754480_e076959d51_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAb/xAApEAACAQMEAQIGAwAAAAAAAAABAgMABBEFEiExQQYTFCJRYXGBMkLR/8QAGQEAAQUAAAAAAAAAAAAAAAAAAgEDBAUG/8QAHREAAgMAAgMAAAAAAAAAAAAAAAECAxESQSExYf/aAAwDAQACEQMRAD8AZpcGrtbCFprFYSDnazqvJ54xjrP7rVJoaTxg3ljp9xd4KNLI5AZcgqeBkn69Y8U2yitIU3FsvtClmnPQ8ccVz/qT1Nd2N0yaJf20MLnbLsDM5baRyQOQM8DP3rO032XWcdz7gxq7LVvZW0VmrokUVvG3th7e8AjUH+RUlhj5gP8ADUXWpk06BLpLoiFGChIb/cQWIXdjGfAJ+nNcZq4imt5Y42DNK4fePl24bcQP2T4qVcTbLdYykRIBO8sSx58nHdWG+FxbBc49Fq31q92kOqugIwcjG78Gl6h6gM8asVUKp29577PAFFFRo1Rb9A4ZZtSh+EMvsBnfrBPn81DubieYF3ygH9WwSeftRRR1pIRJH//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26835754480_e076959d51_z__l.jpg
 labels:
   - Ausflug
   - Boberger Düne
@@ -21,17 +28,12 @@ labels:
   - Hamburg
   - Segelflug
   - Wandern
-type: Artikel
-typeName: Artikel
-date: 2016-05-19T13:03:14.000Z
+focusKeyword: Boberger Niederung
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "14743"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26835754480_e076959d51_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26835754480_e076959d51_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAb/xAApEAACAQMEAQIGAwAAAAAAAAABAgMABBEFEiExQQYTFCJRYXGBMkLR/8QAGQEAAQUAAAAAAAAAAAAAAAAAAgEDBAUG/8QAHREAAgMAAgMAAAAAAAAAAAAAAAECAxESQSExYf/aAAwDAQACEQMRAD8AZpcGrtbCFprFYSDnazqvJ54xjrP7rVJoaTxg3ljp9xd4KNLI5AZcgqeBkn69Y8U2yitIU3FsvtClmnPQ8ccVz/qT1Nd2N0yaJf20MLnbLsDM5baRyQOQM8DP3rO032XWcdz7gxq7LVvZW0VmrokUVvG3th7e8AjUH+RUlhj5gP8ADUXWpk06BLpLoiFGChIb/cQWIXdjGfAJ+nNcZq4imt5Y42DNK4fePl24bcQP2T4qVcTbLdYykRIBO8sSx58nHdWG+FxbBc49Fq31q92kOqugIwcjG78Gl6h6gM8asVUKp29577PAFFFRo1Rb9A4ZZtSh+EMvsBnfrBPn81DubieYF3ygH9WwSeftRRR1pIRJH//Z
 subTitle: Wanderung am Pfingstmontag
   
 ---

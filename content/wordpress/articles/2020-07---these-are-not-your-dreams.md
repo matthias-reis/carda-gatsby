@@ -1,16 +1,23 @@
 ---
-title: '"These Are Not Your Dreams"'
-seoTitle: '"These Are Not Your Dreams" - Die sleemakeswaves Trilogie ist vollständig'
+date: 2020-07-21T11:12:45.000Z
 slug: these-are-not-your-dreams-sleepmakeswaves
 path: /2020/07/these-are-not-your-dreams-sleepmakeswaves/
-fileName: 2020-07---these-are-not-your-dreams.md
+type: Artikel
+typeName: Review
+title: '"These Are Not Your Dreams"'
+seoTitle: '"These Are Not Your Dreams" - Die sleemakeswaves Trilogie ist vollständig'
+ogTitle: '"These Are Not Your Dreams" - Die sleemakeswaves Trilogie ist vollständig'
 description: In den letzten Wochen habe ich sehnsüchtig auf die
   Gesamtveröffentlichung der sleepmakeswaves Trilogie "These Are Not Your
   Dreams" gewartet. Nun ist sie da.
 excerpt: In den letzten Wochen habe ich sehnsüchtig auf die
   Gesamtveröffentlichung der sleepmakeswaves Trilogie "These Are Not Your
   Dreams" gewartet. Nun ist sie da.
-focusKeyword: These Are Not Your Dreams
+fileName: 2020-07---these-are-not-your-dreams.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_these-are-not-your-dreams-sleepmakeswaves__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_these-are-not-your-dreams-sleepmakeswaves__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAIEBgMFBwj/xAApEAACAQMDAwMEAwAAAAAAAAABAgMEBREAEiEGE0EUMWEjUXGhgZGi/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACcRAAECBQMCBwAAAAAAAAAAAAECEQASITFBAxOhBBQiI3GxwdHw/9oADAMBAAIRAxEAPwDzYlvzMkckbRluRuXHH300dvC16pGpcpIuSB4yNdAjsFy9M8lzVgI1B+tHhhwPng8+2ptnsXdSaSnroIZIAZBti7nccMuEOCNpIJ55xjQDXSoeWQo4+R62oHpD9goQDrkJY1zdpaYJZVC1q4emUljFRK8sqSyGWV+3FGpJIDHJ48aw3ew+mjleOOWNocGSKVSCFPswz41f+mUkprzaHhJXcsqsShO1CzBj+/3pOq6fuXu8Rndh6aNlcrjcuF5x+c/1qcdQruJHoz8xjBeoPGTluYpEfU8LxKtTNUSldwG/nA2gDz8a3vSfXNJbo7jG/cHqoJ4Y12g4aR0wf8nRo09WmlSZDb99RqJVKkpFi3Dt7mJVuutDSwU8iXyhjrIRIgWZnwu5skFe2cnjwdJdrzQ1NFXTzXq3TVjxbAITIoKgcAL2xz/I0aNBsIn3GrE2yGZ8vH//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_these-are-not-your-dreams-sleepmakeswaves-fb.png__l.jpg
 labels:
   - Australian Post-Rock
   - Bands
@@ -18,17 +25,12 @@ labels:
   - Post-Rock
   - sleepmakeswaves
   - Sydney
-type: Artikel
-typeName: Review
-date: 2020-07-21T11:12:45.000Z
+focusKeyword: These Are Not Your Dreams
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30635"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_these-are-not-your-dreams-sleepmakeswaves__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_these-are-not-your-dreams-sleepmakeswaves__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAIEBgMFBwj/xAApEAACAQMDAwMEAwAAAAAAAAABAgMEBREAEiEGE0EUMWEjUXGhgZGi/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACcRAAECBQMCBwAAAAAAAAAAAAECEQASITFBAxOhBBQiI3GxwdHw/9oADAMBAAIRAxEAPwDzYlvzMkckbRluRuXHH300dvC16pGpcpIuSB4yNdAjsFy9M8lzVgI1B+tHhhwPng8+2ptnsXdSaSnroIZIAZBti7nccMuEOCNpIJ55xjQDXSoeWQo4+R62oHpD9goQDrkJY1zdpaYJZVC1q4emUljFRK8sqSyGWV+3FGpJIDHJ48aw3ew+mjleOOWNocGSKVSCFPswz41f+mUkprzaHhJXcsqsShO1CzBj+/3pOq6fuXu8Rndh6aNlcrjcuF5x+c/1qcdQruJHoz8xjBeoPGTluYpEfU8LxKtTNUSldwG/nA2gDz8a3vSfXNJbo7jG/cHqoJ4Y12g4aR0wf8nRo09WmlSZDb99RqJVKkpFi3Dt7mJVuutDSwU8iXyhjrIRIgWZnwu5skFe2cnjwdJdrzQ1NFXTzXq3TVjxbAITIoKgcAL2xz/I0aNBsIn3GrE2yGZ8vH//2Q==
 subTitle: Die sleemakeswaves Trilogie ist vollständig
   
 ---

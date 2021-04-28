@@ -1,14 +1,21 @@
 ---
-title: Akupressurmatte im Alltag
-seoTitle: Akupressurmatte im Alltag – Entspannung durch Stimulation
+date: 2021-03-08T15:16:54.000Z
 slug: akupressurmatte
 path: /2021/03/akupressurmatte/
-fileName: 2021-03---akupressurmatte-im-alltag.md
+type: Artikel
+typeName: Produkttest
+title: Akupressurmatte im Alltag
+seoTitle: Akupressurmatte im Alltag – Entspannung durch Stimulation
+ogTitle: Akupressurmatte im Alltag – Entspannung durch Stimulation
 description: Ich habe seit Kurzem eine Akupressurmatte in Gebrauch und möchte
   sie nicht mehr missen. Sie hilft nicht nur gegen Verspannungen.
 excerpt: Ich habe seit Kurzem eine Akupressurmatte in Gebrauch und möchte sie
   nicht mehr missen. Sie hilft mir nicht nur bei Verspannungen.
-focusKeyword: Akupressurmatte
+fileName: 2021-03---akupressurmatte-im-alltag.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_akupressurmatte__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_akupressurmatte__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKhAAAgEDAwMEAAcAAAAAAAAAAQIDBAURABIhBjFBEzJRYQcUIkJxgZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AQVnvFxgKohWoB4CyJvJ+hjnTu6Ksf5+zCq6joZqCoMjbUJKZjAGGCnnv8/Glb+EN7pbL1bTSXCNGpqlDTM5xmIsRhgfHIA/g6a/XHW0Nr6gWkq3gnp8xu0iKQVVse/nAOPrQaOeyWFqyWSsggNPIgYSRjk8DJOMBWzu4Ax20s7rYTFHMSdymVvSDDD+n+3d9+NWk94gkuLy0NRPOgGIkYBo05J3qo5Jx5PA5xqSrPMlRJLHIIJFKqH9zkpv3/I4GB57nzoOfbVG9XVpEJFiTILyMeEXIydb/AKzoaKenSamqZp5p8y4MituyQsYJH0M89tGjQbu39UWizWelpaOYLTwL6W9YsuzCAgkp3wWLfqz51X3PquA1CwGZDKTEwQOHJAiKk7/b/RGf90aNB//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_akupressurmatte-fb.png__l.jpg
 labels:
   - Achtsamkeit
   - Achtsamkeit
@@ -19,17 +26,12 @@ labels:
   - Mediatation
   - TCM
   - Yoga
-type: Artikel
-typeName: Produkttest
-date: 2021-03-08T15:16:54.000Z
+focusKeyword: Akupressurmatte
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33321"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_akupressurmatte__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_akupressurmatte__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKhAAAgEDAwMEAAcAAAAAAAAAAQIDBAURABIhBjFBEzJRYQcUIkJxgZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AQVnvFxgKohWoB4CyJvJ+hjnTu6Ksf5+zCq6joZqCoMjbUJKZjAGGCnnv8/Glb+EN7pbL1bTSXCNGpqlDTM5xmIsRhgfHIA/g6a/XHW0Nr6gWkq3gnp8xu0iKQVVse/nAOPrQaOeyWFqyWSsggNPIgYSRjk8DJOMBWzu4Ax20s7rYTFHMSdymVvSDDD+n+3d9+NWk94gkuLy0NRPOgGIkYBo05J3qo5Jx5PA5xqSrPMlRJLHIIJFKqH9zkpv3/I4GB57nzoOfbVG9XVpEJFiTILyMeEXIydb/AKzoaKenSamqZp5p8y4MituyQsYJH0M89tGjQbu39UWizWelpaOYLTwL6W9YsuzCAgkp3wWLfqz51X3PquA1CwGZDKTEwQOHJAiKk7/b/RGf90aNB//Z
 subTitle: Entspannung durch Stimulation
   
 ---

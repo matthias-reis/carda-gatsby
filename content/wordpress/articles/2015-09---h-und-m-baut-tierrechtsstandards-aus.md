@@ -1,31 +1,33 @@
 ---
-title: H&M baut Tierrechtsstandards aus
-seoTitle: H&M startet Kampagne gegen Tierversuche und Mulesing
+date: 2015-09-12T15:48:30.000Z
 slug: hm-baut-tierrechtsstandards-aus
 path: /2015/09/hm-baut-tierrechtsstandards-aus/
-fileName: 2015-09---h-und-m-baut-tierrechtsstandards-aus.md
+type: Artikel
+typeName: Artikel
+title: H&M baut Tierrechtsstandards aus
+seoTitle: H&M startet Kampagne gegen Tierversuche und Mulesing
+ogTitle: H&M startet Kampagne gegen Tierversuche und Mulesing
 description: In einer neugegründeten Partnerschaft mit der Humane Society
   International (HSI) möchte H&M nun für das Wohl von Tieren in der
   Modeindustrie kämpfen.
 excerpt: In einer neugegründeten Partnerschaft mit der Humane Society
   International (HSI) möchte H&M nun für das Wohl von Tieren in der
   Modeindustrie kämpfen.
-focusKeyword: h&m
+fileName: 2015-09---h-und-m-baut-tierrechtsstandards-aus.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_scarf-255515_1280__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_scarf-255515_1280__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYIB//EACsQAAIBAwMDAgUFAAAAAAAAAAECAwAEEQUGIRMxURIiFEFhgaEycZPB0f/EABcBAQEBAQAAAAAAAAAAAAAAAAQCAQX/xAAlEQAABQMDBAMAAAAAAAAAAAAAAQIDEQQhURIx8AUTIzNxodH/2gAMAwEAAhEDEQA/AFNt7bgdZUklWMqOp1m7AY8farltS20+aeS0uDbSAPlWjlX3gDOQQe3NPdzJaaFBZyG0tmnu3MEcxmIHSEZDvgA9gQOce5lGeazLtT4i71++uI7gW7xGQqVXPdFUEeODUooEuulBx9gST7aNS7wNJXUVnYSXHxAQZPtLOCD+aLDWNJuNMd5I7R3tsq4lHpc8Zxj58c1mTccUket3BmneVhCuJCoByF+n35qeszdrtfVLlL5h6LWRCuPkTF9fDH8UWp6aho53vGBLVQl1SSIo1cwLzv7cd/rc85uzEI9LsZbQIileo0hDmTg8EGOPA5/SfNcw2k5jvJSoGZjIW/kA/qiiu5Rl5VcwNqfSfx+hpuidm1B4hhfVCGJ/csKldTmaDbcsceAsgZWHkEr/AIKKKPV3UU5AGLLZjmw//9k=
+ogImage: null
 labels:
   - Greenwashing
   - Klima & Umweltschutz
   - Tierrechte
-type: Artikel
-typeName: Artikel
-date: 2015-09-12T15:48:30.000Z
+focusKeyword: h&m
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "28958"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_scarf-255515_1280__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_scarf-255515_1280__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYIB//EACsQAAIBAwMDAgUFAAAAAAAAAAECAwAEEQUGIRMxURIiFEFhgaEycZPB0f/EABcBAQEBAQAAAAAAAAAAAAAAAAQCAQX/xAAlEQAABQMDBAMAAAAAAAAAAAAAAQIDEQQhURIx8AUTIzNxodH/2gAMAwEAAhEDEQA/AFNt7bgdZUklWMqOp1m7AY8farltS20+aeS0uDbSAPlWjlX3gDOQQe3NPdzJaaFBZyG0tmnu3MEcxmIHSEZDvgA9gQOce5lGeazLtT4i71++uI7gW7xGQqVXPdFUEeODUooEuulBx9gST7aNS7wNJXUVnYSXHxAQZPtLOCD+aLDWNJuNMd5I7R3tsq4lHpc8Zxj58c1mTccUket3BmneVhCuJCoByF+n35qeszdrtfVLlL5h6LWRCuPkTF9fDH8UWp6aho53vGBLVQl1SSIo1cwLzv7cd/rc85uzEI9LsZbQIileo0hDmTg8EGOPA5/SfNcw2k5jvJSoGZjIW/kA/qiiu5Rl5VcwNqfSfx+hpuidm1B4hhfVCGJ/csKldTmaDbcsceAsgZWHkEr/AIKKKPV3UU5AGLLZjmw//9k=
 subTitle: Konzern startet Kampagne gegen Tierversuche und Mulesing
   
 ---

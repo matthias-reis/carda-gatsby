@@ -1,16 +1,23 @@
 ---
-title: Warum ich mein Musikmagazin-Abo gekündigt habe
-seoTitle: Warum ich mein Musikmagazin-Abo gekündigt habe
+date: 2013-09-06T11:03:09.000Z
 slug: musikmagazin-abo-kuendigung
 path: /2013/09/musikmagazin-abo-kuendigung/
-fileName: 2013-09---warum-ich-mein-musikmagazin-abo-gekuendigt-habe.md
+type: Artikel
+typeName: Artikel
+title: Warum ich mein Musikmagazin-Abo gekündigt habe
+seoTitle: Warum ich mein Musikmagazin-Abo gekündigt habe
+ogTitle: Warum ich mein Musikmagazin-Abo gekündigt habe
 description: Seit einiger Zeit ist alles anders. Meiner Meinung nach hat sich
   die Zeitschrift, genau wie die gesamte Musiklandschaft in den letzen Jahren
   sehr verändert.
 excerpt: Seit einiger Zeit ist alles anders. Meiner Meinung nach hat sich die
   Zeitschrift, genau wie die gesamte Musiklandschaft in den letzen Jahren sehr
   verändert.
-focusKeyword: ""
+fileName: 2013-09---warum-ich-mein-musikmagazin-abo-gekuendigt-habe.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_09_9464603612_ca7c464246_o__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_09_9464603612_ca7c464246_o__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcGCAECBP/EAC0QAAEDAwIEBQMFAAAAAAAAAAECAwQFBhEAEgcTITEIIkFRcTJD8WKBkaHB/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUAAgP/xAAjEQACAgECBgMAAAAAAAAAAAABAgMRAIHBEiEiMUFhMnGh/9oADAMBAAIRAxEAPwDPEG5aZGveusyeKd105SZa0KhR4Sy2xg9UIO8ZA9wNHjxqsnnVNxVyV5wy3UuJSIS9rICdoSkZ7ep9zpPeJWmNROK9RW0By5aueR+rACv7GdLmBFOXVpGBjBPsNLnEcq23sd9Dh3VGaHrY46Ydy2lDiSG2r2vMh0JTvRTinACNuPr/AH0Vta+bfVddGai35fDpM1tLcV6MAy4VKSkJX5/pJ7/J1GqLwrmzbdhVFdUYimRHefMR7oQEjLfnA2jf174wPfOoHa2yBxBtx95SA21OjOKJIwkB1Oc6iEcVEVlpRJw9Xb6xmeI6kzZPEtaocfnhKQpXUYAUT3+fT41zWNZTD1Pms1ONIZccdbWy6WidhSe2exHzpkXlSavVeJsp5EaaphMkrTiM5yylCQkAqHTHlJ79c6JSI1wNt+aLJCU9AEbgB/KtZQQs7kH4gnWze+MHMaIpItiBpyrbNbru5+DVXHqdRpE5pUdKCluOShJzgkHHsckdjjVeqBR6ieK9KlTafIZjSKk3s3NYHVYPY9PxqwsaJUXASuPL3Eej2P8AdD6zQJS5NIklqbvRVYX3N+QX0JJxk9gSfxoooQ5Y+b/cFmp46HjP/9k=
+ogImage: null
 labels:
   - Bands
   - Enttäuschung
@@ -25,18 +32,13 @@ labels:
   - Nine Inch Nails
   - Trent Reznor
   - Zeitschrift
-type: Artikel
-typeName: Artikel
-date: 2013-09-06T11:03:09.000Z
+focusKeyword: ""
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "7060"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_09_9464603612_ca7c464246_o__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_09_9464603612_ca7c464246_o__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcGCAECBP/EAC0QAAEDAwIEBQMFAAAAAAAAAAECAwQFBhEAEgcTITEIIkFRcTJD8WKBkaHB/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUAAgP/xAAjEQACAgECBgMAAAAAAAAAAAABAgMRAIHBEiEiMUFhMnGh/9oADAMBAAIRAxEAPwDPEG5aZGveusyeKd105SZa0KhR4Sy2xg9UIO8ZA9wNHjxqsnnVNxVyV5wy3UuJSIS9rICdoSkZ7ep9zpPeJWmNROK9RW0By5aueR+rACv7GdLmBFOXVpGBjBPsNLnEcq23sd9Dh3VGaHrY46Ydy2lDiSG2r2vMh0JTvRTinACNuPr/AH0Vta+bfVddGai35fDpM1tLcV6MAy4VKSkJX5/pJ7/J1GqLwrmzbdhVFdUYimRHefMR7oQEjLfnA2jf174wPfOoHa2yBxBtx95SA21OjOKJIwkB1Oc6iEcVEVlpRJw9Xb6xmeI6kzZPEtaocfnhKQpXUYAUT3+fT41zWNZTD1Pms1ONIZccdbWy6WidhSe2exHzpkXlSavVeJsp5EaaphMkrTiM5yylCQkAqHTHlJ79c6JSI1wNt+aLJCU9AEbgB/KtZQQs7kH4gnWze+MHMaIpItiBpyrbNbru5+DVXHqdRpE5pUdKCluOShJzgkHHsckdjjVeqBR6ieK9KlTafIZjSKk3s3NYHVYPY9PxqwsaJUXASuPL3Eej2P8AdD6zQJS5NIklqbvRVYX3N+QX0JJxk9gSfxoooQ5Y+b/cFmp46HjP/9k=
 subTitle: Enttäuschung ist nicht immer gleich Griesgrämigkeit
   
 ---

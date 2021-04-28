@@ -1,16 +1,23 @@
 ---
-title: Valentins 11 Alben des Jahres 2018
-seoTitle: Valentins 11 Alben des Jahres - Die drei von der Bande präsentieren
+date: 2018-12-29T14:01:58.000Z
 slug: valentins-11-alben-des-jahres-2018
 path: /2018/12/valentins-11-alben-des-jahres-2018/
-fileName: 2018-12---valentins-11-alben-des-jahres-2018.md
+type: Artikel
+typeName: Artikel
+title: Valentins 11 Alben des Jahres 2018
+seoTitle: Valentins 11 Alben des Jahres - Die drei von der Bande präsentieren
+ogTitle: Valentins 11 Alben des Jahres - Die drei von der Bande präsentieren
 description: Heute möchte ich Euch 11 ganz besondere Alben aus dem Jahr 2018
   vorspielen. Sie wurden von dem wohl musikbegeistertsten Menschen ausgewählt,
   den ich kenne.
 excerpt: Heute möchte ich Euch 11 ganz besondere Alben aus dem Jahr 2018
   vorspielen. Sie wurden von dem wohl musikbegeistertsten Menschen ausgewählt,
   den ich kenne.
-focusKeyword: alben des jahres
+fileName: 2018-12---valentins-11-alben-des-jahres-2018.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_valentin__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_valentin__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAIBAX/xAApEAABBAEDBAEDBQAAAAAAAAABAgMEEQUABiEHEjFBFAgVYRMyQlGC/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQMCBAUG/8QAHhEAAgMAAQUAAAAAAAAAAAAAAQIAAxEEBSIxsfD/2gAMAwEAAhEDEQA/ABOKVIhbHyL2WZLbTTaAyFFSVrCqoJH+q48+PWlext8v4bYGNTFxipy8hm5DLWPD5bS6uk8qUrlQSE/tJolab8VrizeH6Vw8jFx0vMFTxX8V0fcnFiMEk8FQSQkBV+xRP9Xp+Nq9PpfTZESQzPyOIXk3XkyICzIcadLYWslaRSEFKRfjmvZ1k8Pq1XKsCKjjRoJXB7jnqKDSRDm/d/ZPdGxsg3Oxv21zH5uHG+OlxKyBdgq7RQ7kqA7eaKTXmgf6g5SVK2BPUmNUZCEBg/phC0UQFgiruzdihwfA4003rtLbGB6MQo+32ZkXGT8pFlKW8ooknu7gAo1YoCgPXOi8naG1pmLWmHMzDT6EHtCpqzZPngj2TeugosrVSHG7AvLtq7az9mTPcPPSIeOkQozEVDEgoL9tBSnAkkgEqsgc/wAa1qT6btt4vc3SxleXZdX8XLynGktPFABUhq7Hsfg6tWqQRVJIHmLJJno/UVh4m3ulcp7FKlIedycVanHJCnFWCuqJ8AWeBrMELdmXidwVMdkNqFFDyyqvyD5B1atHZEz/2Q==
+ogImage: null
 labels:
   - A Perfect Circle
   - Alben 2018
@@ -27,17 +34,12 @@ labels:
   - Sumac
   - The Ocean
   - Twenty One Pilots
-type: Artikel
-typeName: Artikel
-date: 2018-12-29T14:01:58.000Z
+focusKeyword: alben des jahres
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "23097"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_valentin__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_valentin__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAIBAX/xAApEAABBAEDBAEDBQAAAAAAAAABAgMEEQUABiEHEjFBFAgVYRMyQlGC/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQMCBAUG/8QAHhEAAgMAAQUAAAAAAAAAAAAAAQIAAxEEBSIxsfD/2gAMAwEAAhEDEQA/ABOKVIhbHyL2WZLbTTaAyFFSVrCqoJH+q48+PWlext8v4bYGNTFxipy8hm5DLWPD5bS6uk8qUrlQSE/tJolab8VrizeH6Vw8jFx0vMFTxX8V0fcnFiMEk8FQSQkBV+xRP9Xp+Nq9PpfTZESQzPyOIXk3XkyICzIcadLYWslaRSEFKRfjmvZ1k8Pq1XKsCKjjRoJXB7jnqKDSRDm/d/ZPdGxsg3Oxv21zH5uHG+OlxKyBdgq7RQ7kqA7eaKTXmgf6g5SVK2BPUmNUZCEBg/phC0UQFgiruzdihwfA4003rtLbGB6MQo+32ZkXGT8pFlKW8ooknu7gAo1YoCgPXOi8naG1pmLWmHMzDT6EHtCpqzZPngj2TeugosrVSHG7AvLtq7az9mTPcPPSIeOkQozEVDEgoL9tBSnAkkgEqsgc/wAa1qT6btt4vc3SxleXZdX8XLynGktPFABUhq7Hsfg6tWqQRVJIHmLJJno/UVh4m3ulcp7FKlIedycVanHJCnFWCuqJ8AWeBrMELdmXidwVMdkNqFFDyyqvyD5B1atHZEz/2Q==
 subTitle: Präsentiert von den drei von der Bande
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: DUNK!festival 2020
-seoTitle: DUNK! Festival 2020 - 28 ganz besondere Songs
+date: 2020-05-19T10:24:27.000Z
 slug: dunk-festival-2020
 path: /2020/05/dunk-festival-2020/
-fileName: 2020-05---dunk-festival-2020.md
+type: Artikel
+typeName: Artikel
+title: DUNK!festival 2020
+seoTitle: DUNK! Festival 2020 - 28 ganz besondere Songs
+ogTitle: DUNK! Festival 2020 - 28 ganz besondere Songs
 description: Diese Musikliste besteht aus 28 ganz besonderen Stücken - die
   Musiker⋆innen wären alle auf dem DUNK! 2020 Festival aufgetreten.
 excerpt: Diese Musikliste besteht aus 28 ganz besonderen Stücken - die
   Musiker⋆innen wären alle auf dem DUNK! 2020 Festival aufgetreten.
-focusKeyword: DUNK! Festival 2020
+fileName: 2020-05---dunk-festival-2020.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_dunk-2020__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_dunk-2020__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwj/xAApEAACAgEDAwQCAgMAAAAAAAABAgMEEQAFIQYSMQcTQVEyYSJCcZHR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAQX/xAAeEQACAgICAwAAAAAAAAAAAAAAAQIRIUEDEjFh8P/aAAwDAQACEQMRAD8AsvUu4x0qUhllWJQuXZn7ePoH7wD4+BpCvb30/SoPfq3EtWCygQ7f3SMzsRhSQCB/k/H3pN9Sd1sbl6oWKiLZWKmTWgdZxGPcCZcqTxyWxzyQMDSpA+1bfSryCyZHpT+5KFhCCU54U9z5OMeQB8657raL4Ren97KrTtbl70Fvdd9lRlJD0K1dDEOfxbuGcHj9j7zqidP7lFa768chZowCVJyyfo/9+f8Aeud0hVtuSai96cQ2DdnrRVsMqN4BZGOF/eD5504+kvUVq11pFQt9jNJC7rIIygKle8KM4JI8+M6DtJu3kZLjgotLBj6p9CWru57pvnTkD3ZbqrLapRuDJCSMMwX+6ntGe3kHPGp+u343CHbqMJp3FDzMZHMY7iPxHeP44x4PkcaNGnecE6lSN4tltpVuJJsluuwHufxSSFZDkYCHGWHB45/L40+ekPSlrbt0r77uT2q3Ykrx0rCGNpCR2gju8KMnk+SBz50aNY1ToJytWf/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_dunk-2020-fb.png__l.jpg
 labels:
   - Ambient
   - Bands
@@ -21,17 +28,12 @@ labels:
   - Midsommer Records
   - Post-Rock
   - Zottegem
-type: Artikel
-typeName: Artikel
-date: 2020-05-19T10:24:27.000Z
+focusKeyword: DUNK! Festival 2020
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29668"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_dunk-2020__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_dunk-2020__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwj/xAApEAACAgEDAwQCAgMAAAAAAAABAgMEEQAFIQYSMQcTQVEyYSJCcZHR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAQX/xAAeEQACAgICAwAAAAAAAAAAAAAAAQIRIUEDEjFh8P/aAAwDAQACEQMRAD8AsvUu4x0qUhllWJQuXZn7ePoH7wD4+BpCvb30/SoPfq3EtWCygQ7f3SMzsRhSQCB/k/H3pN9Sd1sbl6oWKiLZWKmTWgdZxGPcCZcqTxyWxzyQMDSpA+1bfSryCyZHpT+5KFhCCU54U9z5OMeQB8657raL4Ren97KrTtbl70Fvdd9lRlJD0K1dDEOfxbuGcHj9j7zqidP7lFa768chZowCVJyyfo/9+f8Aeud0hVtuSai96cQ2DdnrRVsMqN4BZGOF/eD5504+kvUVq11pFQt9jNJC7rIIygKle8KM4JI8+M6DtJu3kZLjgotLBj6p9CWru57pvnTkD3ZbqrLapRuDJCSMMwX+6ntGe3kHPGp+u343CHbqMJp3FDzMZHMY7iPxHeP44x4PkcaNGnecE6lSN4tltpVuJJsluuwHufxSSFZDkYCHGWHB45/L40+ekPSlrbt0r77uT2q3Ykrx0rCGNpCR2gju8KMnk+SBz50aNY1ToJytWf/Z
 subTitle: 28 ganz besondere Songs
   
 ---

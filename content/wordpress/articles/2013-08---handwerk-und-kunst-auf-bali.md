@@ -1,14 +1,21 @@
 ---
-title: Handwerk und Kunst auf Bali
-seoTitle: Handwerk und Kunst auf Bali - meine Bilderserie
+date: 2013-08-01T16:04:47.000Z
 slug: handwerk-und-kunst-auf-bali
 path: /2013/08/handwerk-und-kunst-auf-bali/
-fileName: 2013-08---handwerk-und-kunst-auf-bali.md
+type: Artikel
+typeName: Artikel
+title: Handwerk und Kunst auf Bali
+seoTitle: Handwerk und Kunst auf Bali - meine Bilderserie
+ogTitle: Handwerk und Kunst auf Bali
 description: Auf Bali habe ich ein paar wundervolle Eindrücke gesammelt. Hier
   kommt meine Bildergalerie zu Handwerk und Kunst.
 excerpt: Auf Bali habe ich ein paar wundervolle Eindrücke gesammelt. Hier kommt
   meine Bildergalerie zu Handwerk und Kunst.
-focusKeyword: Handwerk und Kunst
+fileName: 2013-08---handwerk-und-kunst-auf-bali.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_4989__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_4989__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAGBwT/xAApEAACAgEDBAAFBQAAAAAAAAABAgMEEQAFIQYSEzEHIkFRYSMycZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgQD/8QAHBEBAAICAwEAAAAAAAAAAAAAAQAhAhESMXED/9oADAMBAAIRAxEAPwChW5BRWrI+I1UZMsGGPGP3c/5jRe67k237hSrrHH4jLGliRRnt7zhQMgjPOT+NJVNwSvHl7DopXHjZzjH5H30JeuVt1lu1qQksTsxZBFGW7HRQQf7UaiPltE7lvMB5URboLo/qCl1U+6377GlMsizwTz+RmbkL24+Xt+3r+Ndmo0lMeFjU8Y51g/h7PPcq07Fbb49vqXO+y0DqxdDk9xwSFUEjPyj2frnS/XvXL9G1qEdPbTe3K9MUgikfsjKqAXYsDxjKjnHs/bVGGWzyY50+zjlyDyScsfedejbYTNLFH+kDkKr+IdyjPoN71atEjbqbI7rLVqtCI42U+GqffKLnH1OGzySPfGQcaB616fp7jPQ3etJbpzpuK051WXuWRfEWBXgdmPH+ferVpB3M8q1P/9k=
+ogImage: null
 labels:
   - Bali
   - Bali Bildhauer
@@ -20,17 +27,12 @@ labels:
   - Kunst
   - Kunst auf Bali
   - Kunst Bali
-type: Artikel
-typeName: Artikel
-date: 2013-08-01T16:04:47.000Z
+focusKeyword: Handwerk und Kunst
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "6220"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_4989__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_4989__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAGBwT/xAApEAACAgEDBAAFBQAAAAAAAAABAgMEEQAFIQYSEzEHIkFRYSMycZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgQD/8QAHBEBAAICAwEAAAAAAAAAAAAAAQAhAhESMXED/9oADAMBAAIRAxEAPwChW5BRWrI+I1UZMsGGPGP3c/5jRe67k237hSrrHH4jLGliRRnt7zhQMgjPOT+NJVNwSvHl7DopXHjZzjH5H30JeuVt1lu1qQksTsxZBFGW7HRQQf7UaiPltE7lvMB5URboLo/qCl1U+6377GlMsizwTz+RmbkL24+Xt+3r+Ndmo0lMeFjU8Y51g/h7PPcq07Fbb49vqXO+y0DqxdDk9xwSFUEjPyj2frnS/XvXL9G1qEdPbTe3K9MUgikfsjKqAXYsDxjKjnHs/bVGGWzyY50+zjlyDyScsfedejbYTNLFH+kDkKr+IdyjPoN71atEjbqbI7rLVqtCI42U+GqffKLnH1OGzySPfGQcaB616fp7jPQ3etJbpzpuK051WXuWRfEWBXgdmPH+ferVpB3M8q1P/9k=
 subTitle: Unsere große Reise - Teil III
   
 ---

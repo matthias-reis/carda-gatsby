@@ -1,17 +1,25 @@
 ---
+date: 2017-04-21T13:28:55.000Z
+slug: ich-mache-urlaub
+path: /2017/04/ich-mache-urlaub/
+type: Artikel
+typeName: Artikel
 title: Ich mache Urlaub
 seoTitle: Urlaub wir kommen - Ich mache Pause - Kurze Auszeit auf Anne bloggt
   cardamonchai
-slug: ich-mache-urlaub
-path: /2017/04/ich-mache-urlaub/
-fileName: 2017-04---ich-mache-urlaub.md
+ogTitle: Urlaub wir kommen - Ich mache Pause - Kurze Auszeit auf Anne bloggt
+  cardamonchai
 description: Weil ich schon gar nicht mehr weiß, wie es sich anfühlt, richtig
   Urlaub zu machen, nehme ich mir eine kurze Auszeit. Natürlich könnt Ihr mir
   trotzdem mailen
 excerpt: Weil ich schon gar nicht mehr weiß, wie es sich anfühlt, richtig Urlaub
   zu machen, nehme ich mir eine kurze Auszeit. Natürlich könnt Ihr mir trotzdem
   mailen.
-focusKeyword: Urlaub
+fileName: 2017-04---ich-mache-urlaub.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_16155095629_d3e1dd7dd2_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_16155095629_d3e1dd7dd2_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCAwUE/8QAKBAAAgEEAQIFBQEAAAAAAAAAAQIDAAQRIRIFYQcTFDFRBhUjUnEy/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIFA//EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMEESFREjGR/9oADAMBAAIRAxEAPwB99KWJUH+T3xW9B5XHeKRlp9eQpG5S6YuEJSOW14gsBkKWBOMnWca+Kpj8Sup3Ntbv02zjcmMyzzTr+KDBwyOynIZcHeDnIAWpa2lfbCWbsYudjfyP5hGF9s1mdRubeKMlyo/tKW28Q4xEfu19FbPjl5ttAZ4T29g6kdwR3qm88Q+kYGOqgj9vSSEH+YWhZc9nCERK8XxO33EVbEoh4MwLDZ5H4rhjtT62W5WVllkYFv1LZxyx7Z70UVqI5J4mh6y88yQNODwJXcY3rdQN/ecgJZUcuuCQnEnGdtvZ1s0UUQi9QF27n//Z
+ogImage: null
 labels:
   - Auszeit
   - Fernweh
@@ -25,17 +33,12 @@ labels:
   - unterwegs
   - Urlaub
   - Vitamin D
-type: Artikel
-typeName: Artikel
-date: 2017-04-21T13:28:55.000Z
+focusKeyword: Urlaub
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16334"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_16155095629_d3e1dd7dd2_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_16155095629_d3e1dd7dd2_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCAwUE/8QAKBAAAgEEAQIFBQEAAAAAAAAAAQIDAAQRIRIFYQcTFDFRBhUjUnEy/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIFA//EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMEESFREjGR/9oADAMBAAIRAxEAPwB99KWJUH+T3xW9B5XHeKRlp9eQpG5S6YuEJSOW14gsBkKWBOMnWca+Kpj8Sup3Ntbv02zjcmMyzzTr+KDBwyOynIZcHeDnIAWpa2lfbCWbsYudjfyP5hGF9s1mdRubeKMlyo/tKW28Q4xEfu19FbPjl5ttAZ4T29g6kdwR3qm88Q+kYGOqgj9vSSEH+YWhZc9nCERK8XxO33EVbEoh4MwLDZ5H4rhjtT62W5WVllkYFv1LZxyx7Z70UVqI5J4mh6y88yQNODwJXcY3rdQN/ecgJZUcuuCQnEnGdtvZ1s0UUQi9QF27n//Z
 subTitle: Kurze Blog-Auszeit
   
 ---

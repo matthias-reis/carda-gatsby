@@ -1,14 +1,21 @@
 ---
-title: Sloe Dancer
-seoTitle: Sloe Dancer - Kleiner feiner Vorglüh-Cocktail für coole Sommerabende
+date: 2018-06-02T12:59:20.000Z
 slug: sloe-dancer
 path: /2018/06/sloe-dancer/
-fileName: 2018-06---sloe-dancer.md
+type: Artikel
+typeName: Rezept
+title: Sloe Dancer
+seoTitle: Sloe Dancer - Kleiner feiner Vorglüh-Cocktail für coole Sommerabende
+ogTitle: Sloe Dancer - Kleiner feiner Vorglüh-Cocktail für coole Sommerabende
 description: Tolles Wetter, oder? Wie wäre es vorher noch mit einem kleinen
   Vorglüh-Cocktail in gemütlicher Runde auf dem Balkon? Hier kommt unser Rezept!
 excerpt: Tolles Wetter, oder? Wie wäre es vorher noch mit einem kleinen
   Vorglüh-Cocktail in gemütlicher Runde auf dem Balkon? Hier kommt unser Rezept!
-focusKeyword: Vorglüh
+fileName: 2018-06---sloe-dancer.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_27915691638_32121b3747_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_27915691638_32121b3747_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QAKxAAAQMDAwMDAwUAAAAAAAAAAQIDBAAFEQYhMRITUQcUcRVBgTIzQmGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQQFAP/EACYRAAAEBAQHAAAAAAAAAAAAAAABAgMREhMhBAUxQRQiUYGRsfD/2gAMAwEAAhEDEQA/AHyGGIEi3pldpEZ8Olx1ZI6AhHUD8Uzxbha3rM5cbcoTIzZIJbGMkc4yN6zqbcvaxvb3KSlp8ArCXgEgnnxxjwaladlP6gjrhQJrMlDbgdVHb/aQnJ4xgDc/1U3jHVPKbIrbddPGoeLL3Jahny9/YtvUO5AadH0tv3CpiFNFDX6k5Unn7jbqH5z9qprrKYmWwvLeiQ5TgOGSsFTasZxhXP8AlQ9aJassxmPcmO33lHtKSNlZ2z1cH8ms/wBRsw5c5liOGXZDp6UJQtKuo+AEmsl5wnTm3+sGEZWSkVSVYP8AeLXC1M3EVOdeUI4wI/fU225k7FWM7jJwcHxThoCzWvTUKSqCOhyapLjqe4VhOBgJBO55O+3xRRVKUoxE6suSnGw5eo1mgantrCZLykqiKU4EpWQHARuk484GDvg1lVu0bZrTdmbvGafYdYJU22uR3sko5yAB/L5yKKKEpRiCWIWSKcbD/9k=
+ogImage: null
 labels:
   - Balkon
   - Berliner Luft
@@ -24,17 +31,12 @@ labels:
   - vegane Rezepte
   - Vegane Rezepte
   - Vorglühen
-type: Artikel
-typeName: Rezept
-date: 2018-06-02T12:59:20.000Z
+focusKeyword: Vorglüh
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "21137"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_27915691638_32121b3747_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_27915691638_32121b3747_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QAKxAAAQMDAwMDAwUAAAAAAAAAAQIDBAAFEQYhMRITUQcUcRVBgTIzQmGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQQFAP/EACYRAAAEBAQHAAAAAAAAAAAAAAABAgMREhMhBAUxQRQiUYGRsfD/2gAMAwEAAhEDEQA/AHyGGIEi3pldpEZ8Olx1ZI6AhHUD8Uzxbha3rM5cbcoTIzZIJbGMkc4yN6zqbcvaxvb3KSlp8ArCXgEgnnxxjwaladlP6gjrhQJrMlDbgdVHb/aQnJ4xgDc/1U3jHVPKbIrbddPGoeLL3Jahny9/YtvUO5AadH0tv3CpiFNFDX6k5Unn7jbqH5z9qprrKYmWwvLeiQ5TgOGSsFTasZxhXP8AlQ9aJassxmPcmO33lHtKSNlZ2z1cH8ms/wBRsw5c5liOGXZDp6UJQtKuo+AEmsl5wnTm3+sGEZWSkVSVYP8AeLXC1M3EVOdeUI4wI/fU225k7FWM7jJwcHxThoCzWvTUKSqCOhyapLjqe4VhOBgJBO55O+3xRRVKUoxE6suSnGw5eo1mgantrCZLykqiKU4EpWQHARuk484GDvg1lVu0bZrTdmbvGafYdYJU22uR3sko5yAB/L5yKKKEpRiCWIWSKcbD/9k=
 subTitle: Kleiner feiner Vorglüh-Cocktail für coole Sommerabende
   
 ---

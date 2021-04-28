@@ -1,14 +1,21 @@
 ---
-title: Die Externsteine
-seoTitle: Die Externsteine - mysthisches Naturdenkmal im Teutoburger Wald
+date: 2019-08-06T11:26:27.000Z
 slug: die-externsteine
 path: /2019/08/die-externsteine/
-fileName: 2019-08---die-externsteine.md
+type: Galerie
+typeName: Galerie
+title: Die Externsteine
+seoTitle: Die Externsteine - mysthisches Naturdenkmal im Teutoburger Wald
+ogTitle: Die Externsteine - mysthisches Naturdenkmal im Teutoburger Wald
 description: Kennt Ihr die Externsteine schon? Der Name steht für eine 40 Meter
   hohe Felsformation im Teutoburger Wald. Wir haben sie uns angeschaut.
 excerpt: Kennt Ihr die Externsteine schon? Der Name steht für eine 40 Meter hohe
   Felsformation im Teutoburger Wald. Wir haben sie uns angeschaut.
-focusKeyword: Externsteine
+fileName: 2019-08---die-externsteine.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-3__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-3__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHCP/EACgQAAIBAwMDBAIDAAAAAAAAAAECAwQFEQASIQYTMSJBcYEHUhRRkf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBQAE/8QAHREAAgMAAwEBAAAAAAAAAAAAAQIAAwQREjEhwf/aAAwDAQACEQMRAD8AtfTf5KqZ7oIrhDE0Mp2IFQAbwM4UjnByPOrtD1baJIiak7HydojUvkDHJx454+tczxVhlt1RJG7iaF0likVgMkY4x5yBjwcamrRfjBRyxQw7l3nLcFVYjjHI8g/WlLfpSoKPre/vE4Wz1k8kTcOs62jPSFbU0FwWmmlXswy7tjo+5QcE+CAfJ45/rWPxdbV9trpKDqWF64KcOyqiyxgcHkABiCPGPvTmppoqi0QwV2+fbV7QACxClYwQ36+WwefOqbJJLb/4UzdtlV2h9KjKkExkN7n0sG/zT8+61gLQfsxxVhSjDmSNLRWlaaFpaZ4iVILCRgMAZPAJIHwPb30uLpS3PSymzXIQsfUFmHcAIAIOcA4HwdGjUAaLQOwaXBSjeiOqejucV1lq46uiqop8OIxIY+3+zAMB545B51FXO2XSeCtgloFjV4+6NrIV7iZGAQScsCfnGjRol22IeoAgvlT2f//Z
+ogImage: null
 labels:
   - Ausflug
   - Bielefeld
@@ -18,17 +25,12 @@ labels:
   - Nordrhein-Westfalen
   - NRW
   - Teutoburger Wald
-type: Galerie
-typeName: Galerie
-date: 2019-08-06T11:26:27.000Z
+focusKeyword: Externsteine
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "25404"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-3__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-3__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHCP/EACgQAAIBAwMDBAIDAAAAAAAAAAECAwQFEQASIQYTMSJBcYEHUhRRkf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBQAE/8QAHREAAgMAAwEBAAAAAAAAAAAAAQIAAwQREjEhwf/aAAwDAQACEQMRAD8AtfTf5KqZ7oIrhDE0Mp2IFQAbwM4UjnByPOrtD1baJIiak7HydojUvkDHJx454+tczxVhlt1RJG7iaF0likVgMkY4x5yBjwcamrRfjBRyxQw7l3nLcFVYjjHI8g/WlLfpSoKPre/vE4Wz1k8kTcOs62jPSFbU0FwWmmlXswy7tjo+5QcE+CAfJ45/rWPxdbV9trpKDqWF64KcOyqiyxgcHkABiCPGPvTmppoqi0QwV2+fbV7QACxClYwQ36+WwefOqbJJLb/4UzdtlV2h9KjKkExkN7n0sG/zT8+61gLQfsxxVhSjDmSNLRWlaaFpaZ4iVILCRgMAZPAJIHwPb30uLpS3PSymzXIQsfUFmHcAIAIOcA4HwdGjUAaLQOwaXBSjeiOqejucV1lq46uiqop8OIxIY+3+zAMB545B51FXO2XSeCtgloFjV4+6NrIV7iZGAQScsCfnGjRol22IeoAgvlT2f//Z
 subTitle: Mystisches Naturdenkmal im Teutoburger Wald
   
 ---

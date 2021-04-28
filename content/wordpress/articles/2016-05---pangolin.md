@@ -1,16 +1,23 @@
 ---
-title: Pangolin
-seoTitle: Pangolin - Ein vergessenes Schuppentier in Gefahr
+date: 2016-05-24T10:45:38.000Z
 slug: pangolin-ein-vergessenes-schuppentier
 path: /2016/05/pangolin-ein-vergessenes-schuppentier/
-fileName: 2016-05---pangolin.md
+type: Artikel
+typeName: Artikel
+title: Pangolin
+seoTitle: Pangolin - Ein vergessenes Schuppentier in Gefahr
+ogTitle: Pangolin - Ein vergessenes Schuppentier in Gefahr
 description: Das Pangolin ist akut vom Aussterben bedroht. Das schuppige Tier
   wird von Menschen gejagt, die sein Fleisch für eine Delikatesse halten. Hilfe
   muss her.
 excerpt: Das Pangolin ist akut vom Aussterben bedroht. Das schuppige Tier wird
   von Menschen gejagt, die sein Fleisch für eine Delikatesse halten. Hilfe muss
   her.
-focusKeyword: Pangolin
+fileName: 2016-05---pangolin.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_Pangolin_defending_itself_from_lions_Gir_Forest_Gujarat_India-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_Pangolin_defending_itself_from_lions_Gir_Forest_Gujarat_India-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAYHBf/EACsQAAICAQMCBQIHAAAAAAAAAAECAwQRAAUxEiEGEyJBURQVMkJhcYGhsf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQQF/8QAGxEAAwACAwAAAAAAAAAAAAAAAAECAxIRIjH/2gAMAwEAAhEDEQA/AKfS8VVOkKm3yg+xjUFh+2rR4akm3uWvFTh3B3MyQuHIUqD+YgngZznWc7dvcqWAJJpol7dTRVgGBxzx84/g60vwVvduC1RkcNcD1bVp5p4z6OgMEJ4PIwF9wc6z8uNJdUXotv06S1q/3Oet9NI6xT+S06N6CQcHB+M55+NQKMlKXfty2yKKystHs8kjBgO+AAc+/Ix2xnS95F2DefuHnrNtU1iJ5IBCVldWCNKSoOBnLY/3VU8Tbgu6X0tUr8Mzzosdr6Zh1FwWYHpAGFCMi5PDBhpKjYbtwaHXQGInsMDPYDTZLSdHWzeo9wDjjGjRpYQ1ajiaF/MhjdSvdWXIP6ajJ5daPprwV41A/CkSqP6GjRqKCR//2Q==
+ogImage: null
 labels:
   - aussterbende Arten
   - bedrohte Arten
@@ -20,17 +27,12 @@ labels:
   - Tiere
   - Tierrechte
   - Tierschutz
-type: Artikel
-typeName: Artikel
-date: 2016-05-24T10:45:38.000Z
+focusKeyword: Pangolin
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "14865"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_Pangolin_defending_itself_from_lions_Gir_Forest_Gujarat_India-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_Pangolin_defending_itself_from_lions_Gir_Forest_Gujarat_India-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAYHBf/EACsQAAICAQMCBQIHAAAAAAAAAAECAwQRAAUxEiEGEyJBURQVMkJhcYGhsf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQQF/8QAGxEAAwACAwAAAAAAAAAAAAAAAAECAxIRIjH/2gAMAwEAAhEDEQA/AKfS8VVOkKm3yg+xjUFh+2rR4akm3uWvFTh3B3MyQuHIUqD+YgngZznWc7dvcqWAJJpol7dTRVgGBxzx84/g60vwVvduC1RkcNcD1bVp5p4z6OgMEJ4PIwF9wc6z8uNJdUXotv06S1q/3Oet9NI6xT+S06N6CQcHB+M55+NQKMlKXfty2yKKystHs8kjBgO+AAc+/Ix2xnS95F2DefuHnrNtU1iJ5IBCVldWCNKSoOBnLY/3VU8Tbgu6X0tUr8Mzzosdr6Zh1FwWYHpAGFCMi5PDBhpKjYbtwaHXQGInsMDPYDTZLSdHWzeo9wDjjGjRpYQ1ajiaF/MhjdSvdWXIP6ajJ5daPprwV41A/CkSqP6GjRqKCR//2Q==
 subTitle: Schuppentiere in Gefahr
   
 ---

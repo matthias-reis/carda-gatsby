@@ -1,16 +1,23 @@
 ---
-title: Mana Komplettnahrung
-seoTitle: Mana Komplettnahrung - die Flüssigmahlzeit im Test
+date: 2020-04-14T15:46:00.000Z
 slug: mana-komplettnahrung
 path: /2020/04/mana-komplettnahrung/
-fileName: 2020-04---mana-komplettnahrung.md
+type: Artikel
+typeName: Produkttest
+title: Mana Komplettnahrung
+seoTitle: Mana Komplettnahrung - die Flüssigmahlzeit im Test
+ogTitle: Mana Komplettnahrung - die Flüssigmahlzeit im Test
 description: Ich habe die Komplettnahrung von Mana ausprobiert. Damit kann man
   ganz elegant einzelne Mahlzeiten ersetzen und soll dennoch Nährstoffe
   bekommen.
 excerpt: Werbung & Affiliate Links - Ich habe die Komplettnahrung von Mana
   ausprobiert. Damit kann man ganz elegant einzelne Mahlzeiten ersetzen und soll
   dennoch Nährstoffe bekommen.
-focusKeyword: Mana
+fileName: 2020-04---mana-komplettnahrung.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BCmana-03__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BCmana-03__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAIBv/EACkQAAEDAwMCBQUAAAAAAAAAAAECAwQABREGEiEHQRMxUXGRFDNCYYH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQACBv/EACERAAAFBAIDAAAAAAAAAAAAAAABAgMRBBITIRRBMVGB/9oADAMBAAIRAxEAPwDR2sNQt6YsT10dgT56GykFmC0HHTk4zgkcDvRbP6rO3u0NPRrXdrGtqShtwTU+Hv3JXjaQeQNvPuK7TqFqdNrtExLUllp5trfhS8HGe4HIFBV/1W9qHT8JiRJ8V5qQpWzkEDaRkj38qnXgCzN3W3FIULLrScZ8Nh99aipSyQpWcgJ7+vJpWgyRKjIdT+QzWUtPzpLl6hMb142gEZ4PJ5PxWmtOPAwmWknJbBSfeqpBTURwQMOo2kZ825T5iU+KJOUlIGSlPG0YyOwH6oWm2l7S6S9PYdSSThAwrJPPJHl3P8qqphNze/QxOPjVkIM9q7+jq9ErVKucKSiNL+nLQX9lRwSoYJAHoD8086BZeQiUtxG1tx1a0gnnlXBI8xVVQFtklOg2o6516pJKojY//9k=
+ogImage: null
 labels:
   - Ernährung & Gesundheit
   - Flüssignahrung
@@ -19,17 +26,12 @@ labels:
   - Nahrungsersatz
   - Produkttest Mana
   - vegane Flüssignahrung
-type: Artikel
-typeName: Produkttest
-date: 2020-04-14T15:46:00.000Z
+focusKeyword: Mana
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29090"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BCmana-03__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BCmana-03__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAIBv/EACkQAAEDAwMCBQUAAAAAAAAAAAECAwQABREGEiEHQRMxUXGRFDNCYYH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQACBv/EACERAAAFBAIDAAAAAAAAAAAAAAABAgMRBBITIRRBMVGB/9oADAMBAAIRAxEAPwDR2sNQt6YsT10dgT56GykFmC0HHTk4zgkcDvRbP6rO3u0NPRrXdrGtqShtwTU+Hv3JXjaQeQNvPuK7TqFqdNrtExLUllp5trfhS8HGe4HIFBV/1W9qHT8JiRJ8V5qQpWzkEDaRkj38qnXgCzN3W3FIULLrScZ8Nh99aipSyQpWcgJ7+vJpWgyRKjIdT+QzWUtPzpLl6hMb142gEZ4PJ5PxWmtOPAwmWknJbBSfeqpBTURwQMOo2kZ825T5iU+KJOUlIGSlPG0YyOwH6oWm2l7S6S9PYdSSThAwrJPPJHl3P8qqphNze/QxOPjVkIM9q7+jq9ErVKucKSiNL+nLQX9lRwSoYJAHoD8086BZeQiUtxG1tx1a0gnnlXBI8xVVQFtklOg2o6516pJKojY//9k=
 subTitle: Flüssigmahlzeit im Test
   
 ---

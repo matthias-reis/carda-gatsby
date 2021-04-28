@@ -1,15 +1,22 @@
 ---
-title: Ein Hauch von Frühling in Cuxhaven
-seoTitle: Ein Hauch von Frühling in Cuxhaven - Besuch an der Nordsee
+date: 2019-02-19T15:49:51.000Z
 slug: ein-hauch-von-fruehling-in-cuxhaven
 path: /2019/02/ein-hauch-von-fruehling-in-cuxhaven/
-fileName: 2019-02---ein-hauch-von-fruehling-in-cuxhaven.md
+type: Artikel
+typeName: Artikel
+title: Ein Hauch von Frühling in Cuxhaven
+seoTitle: Ein Hauch von Frühling in Cuxhaven - Besuch an der Nordsee
+ogTitle: Ein Hauch von Frühling in Cuxhaven - Besuch an der Nordsee
 description: Am Sonntag hatten wir hier schon echtes Frühlingswetter. Wir haben
   das zum Anlass genommen, mal wieder einen Ausflug nach Cuxhaven zu machen.
 excerpt: "Am Sonntag hatten wir hier schon echtes Frühlingswetter. Wir haben das
   zum Anlass genommen, mal wieder einen Ausflug an die Nordsee zu machen.
   Genauer: Nach Cuxhaven - die Hafenstadt ist immer einen Besuch wert."
-focusKeyword: Cuxhaven
+fileName: 2019-02---ein-hauch-von-fruehling-in-cuxhaven.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAAoEAABAwMEAQMFAQAAAAAAAAABAgMEABESBRMhMQYiQVEyYXGRodH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAgT/xAAgEQACAQMEAwAAAAAAAAAAAAABAgADESEFMZHBEhMU/9oADAMBAAIRAxEAPwDaxIwsOKooji3VcYnQqj9LSlYqViL4oFyfsBS5hgiS2293auNzDcx98b2v+6nzooKTxV/ZZWEvNMyUSFtoDu6pCgCL8DG/RPzUbVtQ02G4pmbPix3gArBxwJVY9G1SHAF2xK8CTZczHxvK9TUn0M6YyT0TuuW/qaTk6p5jKcmuM63Hhp3LR2kRxipPHqvypI79Nzz+aKK0ehW3vzMv0Ou1uIw+w1JChqOveQTFKPIK0JQR7DCxH+1j/MJDDetstRi9stx2Wwp5WbiseyT8miij9SoolIMozfoxLSqz1KxVji3Yn//Z
+ogImage: null
 labels:
   - Alte Liebe
   - Ausflug
@@ -23,17 +30,12 @@ labels:
   - Watt
   - Wattenmeer
   - Wattwandern
-type: Artikel
-typeName: Artikel
-date: 2019-02-19T15:49:51.000Z
+focusKeyword: Cuxhaven
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "23540"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAAoEAABAwMEAQMFAQAAAAAAAAABAgMEABESBRMhMQYiQVEyYXGRodH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAgT/xAAgEQACAQMEAwAAAAAAAAAAAAABAgADESEFMZHBEhMU/9oADAMBAAIRAxEAPwDaxIwsOKooji3VcYnQqj9LSlYqViL4oFyfsBS5hgiS2293auNzDcx98b2v+6nzooKTxV/ZZWEvNMyUSFtoDu6pCgCL8DG/RPzUbVtQ02G4pmbPix3gArBxwJVY9G1SHAF2xK8CTZczHxvK9TUn0M6YyT0TuuW/qaTk6p5jKcmuM63Hhp3LR2kRxipPHqvypI79Nzz+aKK0ehW3vzMv0Ou1uIw+w1JChqOveQTFKPIK0JQR7DCxH+1j/MJDDetstRi9stx2Wwp5WbiseyT8miij9SoolIMozfoxLSqz1KxVji3Yn//Z
 subTitle: Ausflug ans Meer
   
 ---

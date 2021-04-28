@@ -1,16 +1,23 @@
 ---
-title: March Against Monsanto 2017
-seoTitle: March Against Monsanto 2017 - Hamburg geht gegen Konzerngiganten auf die Straße
+date: 2017-05-21T14:21:24.000Z
 slug: march-against-monsanto-2017
 path: /2017/05/march-against-monsanto-2017/
-fileName: 2017-05---march-against-monsanto-2017.md
+type: Artikel
+typeName: Artikel
+title: March Against Monsanto 2017
+seoTitle: March Against Monsanto 2017 - Hamburg geht gegen Konzerngiganten auf die Straße
+ogTitle: March Against Monsanto 2017 - Hamburg geht gegen Konzerngiganten auf die Straße
 description: Gestern fand weltweit wieder in vielen Städten der jährliche March
   Against Monsanto statt. Auch in Hamburg wurde demonstriert. Bei perfektem
   Sommerwetter.
 excerpt: Gestern fand weltweit wieder in vielen Städten der jährliche March
   Against Monsanto statt. Auch in Hamburg wurde demonstriert. Bei perfektem
   Sommerwetter.
-focusKeyword: March Against Monsanto
+fileName: 2017-05---march-against-monsanto-2017.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34799517685_8e8a8cbf67_h__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34799517685_8e8a8cbf67_h__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYBAwcE/8QALRAAAQMCBAUCBgMAAAAAAAAAAQIDEQQFABIhMQYTIkFRFCMyM2GBwdFxkbH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAECBf/EACIRAAEDAwMFAAAAAAAAAAAAAAEAAgMRMUEEE/ASIUKxwf/aAAwDAQACEQMRAD8Aya10wc5bmV1xtcQde585tMGW7a1ILdK8QkRAWJJnXUnx/mCNIwwwEB9p18qBKmy/mIMgDRIgb98XvhRSF0TbTa2Vlz31lY6ToR9x/GMt0pJv7S7paZTdbkV3DXDTVmpqauoq9xXra5xDCi4nmgBDQySR0RKzsZA1BIz3jO2vVCWWQ8pikTz4Spp32yUiEdWp+DSNgo7xhqVf6hy729xdQqrWukSip6vnLWS44SexzK08ZRGmAl8vD95bUguQltENNhfShJ3j97mPsKCWVk4kae3MfU2dRAYOk35lc9HdqdbLqaZskZRKQAgAE6DTeD+MS/XJyFTaMqQcuVKtu8antgDZFoqXodYKGSBn5aimPEjzPj8YcUXazW0hpmhSHk5ugsBUggGZO37xO20GrikdtvkUItbNyrb9TOpZc5Id60o0AmdT/Q74qVZLj6cu1CWado6jO5CtvphiXxmhTp5NC604HFNuZkZUOmBAG/1MjfCZduIKqtdWV1TlKwAQAyjsD8IXv4k6DBoxG42KKxrCLL//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34799517685_5472bbe15d_h__l.jpg
 labels:
   - Antifaschismus & Feminismus
   - Artenvielfalt
@@ -42,17 +49,12 @@ labels:
   - Umweltschutz
   - Urban Gardening
   - vegan
-type: Artikel
-typeName: Artikel
-date: 2017-05-21T14:21:24.000Z
+focusKeyword: March Against Monsanto
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16732"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34799517685_8e8a8cbf67_h__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34799517685_8e8a8cbf67_h__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYBAwcE/8QALRAAAQMCBAUCBgMAAAAAAAAAAQIDEQQFABIhMQYTIkFRFCMyM2GBwdFxkbH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAECBf/EACIRAAEDAwMFAAAAAAAAAAAAAAEAAgMRMUEEE/ASIUKxwf/aAAwDAQACEQMRAD8Aya10wc5bmV1xtcQde585tMGW7a1ILdK8QkRAWJJnXUnx/mCNIwwwEB9p18qBKmy/mIMgDRIgb98XvhRSF0TbTa2Vlz31lY6ToR9x/GMt0pJv7S7paZTdbkV3DXDTVmpqauoq9xXra5xDCi4nmgBDQySR0RKzsZA1BIz3jO2vVCWWQ8pikTz4Spp32yUiEdWp+DSNgo7xhqVf6hy729xdQqrWukSip6vnLWS44SexzK08ZRGmAl8vD95bUguQltENNhfShJ3j97mPsKCWVk4kae3MfU2dRAYOk35lc9HdqdbLqaZskZRKQAgAE6DTeD+MS/XJyFTaMqQcuVKtu8antgDZFoqXodYKGSBn5aimPEjzPj8YcUXazW0hpmhSHk5ugsBUggGZO37xO20GrikdtvkUItbNyrb9TOpZc5Id60o0AmdT/Q74qVZLj6cu1CWado6jO5CtvphiXxmhTp5NC604HFNuZkZUOmBAG/1MjfCZduIKqtdWV1TlKwAQAyjsD8IXv4k6DBoxG42KKxrCLL//2Q==
 subTitle: Hamburg geht gegen Konzerngiganten auf die Straße
   
 ---

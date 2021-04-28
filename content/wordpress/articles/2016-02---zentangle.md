@@ -1,15 +1,22 @@
 ---
-title: Zentangle
-seoTitle: Zentangle - Malen als kreative Prokrastination
+date: 2016-02-08T15:59:11.000Z
 slug: zentangle-malen-als-kreative-prokrastination
 path: /2016/02/zentangle-malen-als-kreative-prokrastination/
-fileName: 2016-02---zentangle.md
+type: Artikel
+typeName: Artikel
+title: Zentangle
+seoTitle: Zentangle - Malen als kreative Prokrastination
+ogTitle: Zentangle - Malen als kreative Prokrastination
 description: Zentangle ist genau das Richtige, um etwas Entspannung in den
   Alltag zu bringen. Dafür braucht man nur ein paar Stifte und ein weißes Blatt
   Papier.
 excerpt: Zentangle ist genau das Richtige, um etwas Entspannung in den Alltag zu
   bringen. Dafür braucht man nur ein paar Stifte und ein weißes Blatt Papier.
-focusKeyword: Zentangle
+fileName: 2016-02---zentangle.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24267472453_e6c6100bc6_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24267472453_e6c6100bc6_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYEB//EACgQAAIBAwQBBAIDAQAAAAAAAAECAwQFEQAGEiExFCJBUQcTM2Gh4f/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAAMBAQEAAAAAAAAAAAAAAAABAiEREv/aAAwDAQACEQMRAD8A6VYLTSVe3K64T0k9VPTvLiKKb9ZcKFOO+s9nW3Y+3VvUNZJerLNQIkg9O61bMJkOT/nXfg560Ise4Ds9ZLAS8AuEqVcCwLK0qkJxwDg4z5wfnV7+PLrV37b1QK+ljpJY3MJeBywY8RlhyyQe/nPxrdU03pphG6Nr09sSjNqs1XcWmmEcgWpccF+/68+T0MHUatJWR0VbJcLXJRvFPHGjnmB3y5JhieWMA8h96sInvUG55NpRV6GjeETCsaXE8cPHiYkXjgPnvOfHekfyJTLSbTpII2dlilhjVnOSQAw7P3pNN0tL0jrZu2Gx7aqqGnkjW5S1TyAyKSsSe3L/AET10M4+/o49sb7Tb81HbpVWooaydzUErn9YKgZVhgN4JII+DqUu8ZNX/DUMpVubRROzeRgDHXY/7ouwpcaGukrJY5UnjZZYWSB/ceJHAjiVGDj4wdKl+nheHWbhsO6UBirrVdKhZ1m4xmM8giHIEnInKrxwCvuHkjA60dPX3u42GqG4a5vVUNaKZqIwpG/jIlfHkHviRgEZPfwXBXpcqCyRXWvqYaVIRFXUUlPUEFRIxZeKKUYOpUeesD603uO5WSvM81qkqvVTtEJI3gkRCsYIU+5RggdefnSZfpYQ/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24267467573_b66df77d05_z__l.jpg
 labels:
   - Achtsamkeit
   - Doodle
@@ -23,17 +30,12 @@ labels:
   - Zeichnen
   - Zendala
   - Zentangle
-type: Artikel
-typeName: Artikel
-date: 2016-02-08T15:59:11.000Z
+focusKeyword: Zentangle
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "13946"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24267472453_e6c6100bc6_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24267472453_e6c6100bc6_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYEB//EACgQAAIBAwQBBAIDAQAAAAAAAAECAwQFEQAGEiExFCJBUQcTM2Gh4f/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAAMBAQEAAAAAAAAAAAAAAAABAiEREv/aAAwDAQACEQMRAD8A6VYLTSVe3K64T0k9VPTvLiKKb9ZcKFOO+s9nW3Y+3VvUNZJerLNQIkg9O61bMJkOT/nXfg560Ise4Ds9ZLAS8AuEqVcCwLK0qkJxwDg4z5wfnV7+PLrV37b1QK+ljpJY3MJeBywY8RlhyyQe/nPxrdU03pphG6Nr09sSjNqs1XcWmmEcgWpccF+/68+T0MHUatJWR0VbJcLXJRvFPHGjnmB3y5JhieWMA8h96sInvUG55NpRV6GjeETCsaXE8cPHiYkXjgPnvOfHekfyJTLSbTpII2dlilhjVnOSQAw7P3pNN0tL0jrZu2Gx7aqqGnkjW5S1TyAyKSsSe3L/AET10M4+/o49sb7Tb81HbpVWooaydzUErn9YKgZVhgN4JII+DqUu8ZNX/DUMpVubRROzeRgDHXY/7ouwpcaGukrJY5UnjZZYWSB/ceJHAjiVGDj4wdKl+nheHWbhsO6UBirrVdKhZ1m4xmM8giHIEnInKrxwCvuHkjA60dPX3u42GqG4a5vVUNaKZqIwpG/jIlfHkHviRgEZPfwXBXpcqCyRXWvqYaVIRFXUUlPUEFRIxZeKKUYOpUeesD603uO5WSvM81qkqvVTtEJI3gkRCsYIU+5RggdefnSZfpYQ/9k=
 subTitle: Malen als kreative Prokrastination
   
 ---

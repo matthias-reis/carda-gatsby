@@ -1,16 +1,23 @@
 ---
-title: Die Alameda Gärten von Gibraltar
-seoTitle: Die Alameda Gärten von Gibraltar
+date: 2020-03-31T15:29:48.000Z
 slug: die-alameda-gaerten-von-gibraltar
 path: /2020/03/die-alameda-gaerten-von-gibraltar/
-fileName: 2020-03---die-alameda-gaerten-von-gibraltar.md
+type: Galerie mit Bild
+typeName: Galerie mit Bild
+title: Die Alameda Gärten von Gibraltar
+seoTitle: Die Alameda Gärten von Gibraltar
+ogTitle: Die Alameda Gärten von Gibraltar
 description: In den Alameda Gärten am Fuße des Gibraltarfelsens gedeihen die
   schönsten Pflanzen. Sie werden bewusst torffrei betrieben. Auf Pestizide wird
   verzichtet.
 excerpt: In den Alameda Gärten am Fuße des Gibraltarfelsens gedeihen die
   schönsten Pflanzen. Sie werden bewusst torffrei betrieben. Auf Pestizide wird
   verzichtet.
-focusKeyword: Alameda Gärten
+fileName: 2020-03---die-alameda-gaerten-von-gibraltar.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-25-gibraltar-6__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-25-gibraltar-6__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHAwQF/8QAKRAAAQQBAwMDBAMAAAAAAAAAAQIDBBEFAAYhEiIxExRBBzJRgWFxgv/EABkBAAEFAAAAAAAAAAAAAAAAAAMAAQIEBf/EACYRAAICAQIEBwEAAAAAAAAAAAERAgMABCEiMVHBBRNBQmFxkeH/2gAMAwEAAhEDEQA/AELGwcnJCo7saQElS3UrX0JSCqwVXxxZHB/Q1vlsJNxe15/u2H2Ho8tl5B6aJQpKkGr/AApLZ/1rs2kMpIK046HIyqVEp9k2OpCa8krJ4HnsBP41S8tKcmYiJC3G20kQlNL9o502wfTtKCoG+CBx/X7ydR4hZoirIuJPt7vlhPKrCZX3k3Vt4yJEh2W4iNj2khEiS4PsV0p62kAfcfIIHzzrwcgrGe1kPRYkt8OqDPqSHwyenq8BKR2gdQFE3RF6tGI2ad0pQ5JZnOw0jtUwpDaGlHlR7j3KNgE/A1PM1tPKYBUmEqP1xHAtXQ4e4pCyQR8L+42Ukk1Vanp9VHUAWXSQK6gbfP8AV6Bp45ghwjMNmbrz0V+MIMsRIaloSpltpKfUKjQF+f555409/WHIYhiTjsfioUE7gdUJD0kilih2pJNgqPJNjxX50aNKxEpbNd8qy2pGL2Q3fk17Yi4xa40dMRruaVbqJBvuKqqlGyqyCOKFeSuPJeht+8x5lR2pIStIjyUuNULsJB8Am7BF/GjRoN9Ma7OHoNuY/Dtg6ZSlBk5//9k=
+ogImage: null
 labels:
   - Alameda Gärten
   - Aloe Vera
@@ -21,17 +28,12 @@ labels:
   - Oase
   - Sukkulenten
   - torffrei
-type: Galerie mit Bild
-typeName: Galerie mit Bild
-date: 2020-03-31T15:29:48.000Z
+focusKeyword: Alameda Gärten
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "28770"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-25-gibraltar-6__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-25-gibraltar-6__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHAwQF/8QAKRAAAQQBAwMDBAMAAAAAAAAAAQIDBBEFAAYhEiIxExRBBzJRgWFxgv/EABkBAAEFAAAAAAAAAAAAAAAAAAMAAQIEBf/EACYRAAICAQIEBwEAAAAAAAAAAAERAgMABCEiMVHBBRNBQmFxkeH/2gAMAwEAAhEDEQA/AELGwcnJCo7saQElS3UrX0JSCqwVXxxZHB/Q1vlsJNxe15/u2H2Ho8tl5B6aJQpKkGr/AApLZ/1rs2kMpIK046HIyqVEp9k2OpCa8krJ4HnsBP41S8tKcmYiJC3G20kQlNL9o502wfTtKCoG+CBx/X7ydR4hZoirIuJPt7vlhPKrCZX3k3Vt4yJEh2W4iNj2khEiS4PsV0p62kAfcfIIHzzrwcgrGe1kPRYkt8OqDPqSHwyenq8BKR2gdQFE3RF6tGI2ad0pQ5JZnOw0jtUwpDaGlHlR7j3KNgE/A1PM1tPKYBUmEqP1xHAtXQ4e4pCyQR8L+42Ukk1Vanp9VHUAWXSQK6gbfP8AV6Bp45ghwjMNmbrz0V+MIMsRIaloSpltpKfUKjQF+f555409/WHIYhiTjsfioUE7gdUJD0kilih2pJNgqPJNjxX50aNKxEpbNd8qy2pGL2Q3fk17Yi4xa40dMRruaVbqJBvuKqqlGyqyCOKFeSuPJeht+8x5lR2pIStIjyUuNULsJB8Am7BF/GjRoN9Ma7OHoNuY/Dtg6ZSlBk5//9k=
 subTitle: Botanische Vielfalt im Süden
   
 ---

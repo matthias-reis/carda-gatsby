@@ -1,16 +1,23 @@
 ---
-title: Muse stellen neue Single "Madness" vor
-seoTitle: Muse stellen neue Single vor
+date: 2012-08-21T09:07:02.000Z
 slug: muse-stellen-neue-single-madness-vor
 path: /2012/08/muse-stellen-neue-single-madness-vor/
-fileName: 2012-08---muse-stellen-neue-single-madness-vor.md
+type: Artikel
+typeName: Review
+title: Muse stellen neue Single "Madness" vor
+seoTitle: Muse stellen neue Single vor
+ogTitle: Muse stellen neue Single vor
 description: Glamourös klingt es, das neueste Werk von Muse. Es lässt erahnen,
   dass die Band mit ihrer neuen Platte "The 2nd Law" die elektronische Seite des
   Musikuniversums erstmal noch nicht ganz hinter sich lässt.
 excerpt: Glamourös klingt es, das neueste Werk von Muse. Es lässt erahnen, dass
   die Band mit ihrer neuen Platte "The 2nd Law" die elektronische Seite des
   Musikuniversums erstmal noch nicht ganz hinter sich lässt.
-focusKeyword: Muse
+fileName: 2012-08---muse-stellen-neue-single-madness-vor.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Muse-band-m13__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Muse-band-m13__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUHBv/EACoQAAEDAwQBAwMFAAAAAAAAAAECAwQFESEABhIxEwcUIkFRgRVhobHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EACYRAAEEAAQFBQAAAAAAAAAAAAEAAgMRBBITITFBYXHwFDJRYoH/2gAMAwEAAhEDEQA/AJdWtwVHclJiz5MgM8ipYjs3CE5P56GSToanzUREJL0OA8pIF1utEkC9+wc9/XSWmSFCjxW1LQpKEkoH27/3TYw5M9+JGjtmQ5IV42UAXLhUQAEpH4xrI2IRjIwUB8bIE2eq2m29wUYVoyarRm6kGQFpHuVDiOPXjuQBcjNv71n9zTmYwek0+FTqcFHyJMRkBQxyNlEchjF8ddZ07ibSqkmpRodPYfmRQX/G+IxQ2EpeCCQomylFSVdHAH7aaVjYlUdprafe09mZ4nEuMKQtSVuJ44DgFgCDbojUDJhopM8zrcRW5J27Hgmyy+0clPafRHWIkRJcdfT40qvHbJRxNrEK6N7/AIzrd7BpMmoKdlxJCYFIgqSl6dJYJdLvHkUsgG4VZQUCDgEEm9hpV6QzYtc3Atutw0xKawgeRTfxSyTmwucciCr69aobO7NobCpFWiPuOrqEt33SWmClwFIQUoPdr8b3/nUZcawYj0xBJ7WP3zmFZkRDdREbV3zEhUqdFpcGRKjpUI7Trkko8bDQKUk8PoLDrPyOkNU9R6/R25iEx6c23zcWZb6y45GQtSeCuJPySSoAEgq+4wdAMeoLOyK1+n1JKqjQn4Puac8y82OYWPgVpAASRYgg5vnN9Tn1B3vTtw0+GzDpjkCoJuJjwe5JeVYgki2b4N/vpH4Zk041Ir+23Xj4UA4ht2v/2Q==
+ogImage: null
 labels:
   - Album
   - Bands
@@ -40,17 +47,12 @@ labels:
   - The Second Law
   - Unsustainable
   - Videos
-type: Artikel
-typeName: Review
-date: 2012-08-21T09:07:02.000Z
+focusKeyword: Muse
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11700"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Muse-band-m13__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Muse-band-m13__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUHBv/EACoQAAEDAwQBAwMFAAAAAAAAAAECAwQFESEABhIxEwcUIkFRgRVhobHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EACYRAAEEAAQFBQAAAAAAAAAAAAEAAgMRBBITITFBYXHwFDJRYoH/2gAMAwEAAhEDEQA/AJdWtwVHclJiz5MgM8ipYjs3CE5P56GSToanzUREJL0OA8pIF1utEkC9+wc9/XSWmSFCjxW1LQpKEkoH27/3TYw5M9+JGjtmQ5IV42UAXLhUQAEpH4xrI2IRjIwUB8bIE2eq2m29wUYVoyarRm6kGQFpHuVDiOPXjuQBcjNv71n9zTmYwek0+FTqcFHyJMRkBQxyNlEchjF8ddZ07ibSqkmpRodPYfmRQX/G+IxQ2EpeCCQomylFSVdHAH7aaVjYlUdprafe09mZ4nEuMKQtSVuJ44DgFgCDbojUDJhopM8zrcRW5J27Hgmyy+0clPafRHWIkRJcdfT40qvHbJRxNrEK6N7/AIzrd7BpMmoKdlxJCYFIgqSl6dJYJdLvHkUsgG4VZQUCDgEEm9hpV6QzYtc3Atutw0xKawgeRTfxSyTmwucciCr69aobO7NobCpFWiPuOrqEt33SWmClwFIQUoPdr8b3/nUZcawYj0xBJ7WP3zmFZkRDdREbV3zEhUqdFpcGRKjpUI7Trkko8bDQKUk8PoLDrPyOkNU9R6/R25iEx6c23zcWZb6y45GQtSeCuJPySSoAEgq+4wdAMeoLOyK1+n1JKqjQn4Puac8y82OYWPgVpAASRYgg5vnN9Tn1B3vTtw0+GzDpjkCoJuJjwe5JeVYgki2b4N/vpH4Zk041Ir+23Xj4UA4ht2v/2Q==
 subTitle: <strong>Album "The 2nd Law" am 1. Oktober </strong>
   
 ---

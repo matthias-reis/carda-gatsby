@@ -1,16 +1,23 @@
 ---
-title: Animal Rights March 2019
-seoTitle: Animal Rights March 2019 - Erfolg für das Tierrechtsaktivistenbündnis
+date: 2019-08-31T10:45:18.000Z
 slug: animal-rights-march-2019
 path: /2019/08/animal-rights-march-2019/
-fileName: 2019-08---animal-rights-march-2019.md
+type: Artikel
+typeName: Artikel
+title: Animal Rights March 2019
+seoTitle: Animal Rights March 2019 - Erfolg für das Tierrechtsaktivistenbündnis
+ogTitle: Animal Rights March 2019 - Erfolg für das Tierrechtsaktivistenbündnis
 description: Der diesjährige offizielle Animal Rights March brach mit seinen
   Teilnehmerzahlen alle Rekorde. Alleine in Berlin gingen rund 5.500 Menschen
   auf die Straße.
 excerpt: Der diesjährige offizielle Animal Rights March brach mit seinen
   Teilnehmerzahlen alle Rekorde. Alleine in Berlin gingen rund 5.500 Menschen
   auf die Straße.
-focusKeyword: Animal Rights March
+fileName: 2019-08---animal-rights-march-2019.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_animal-rights-march-2019-tobias-hess-photography-7__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_animal-rights-march-2019-tobias-hess-photography-7__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHA//EACgQAAICAQQCAQMFAQAAAAAAAAECAwQRAAUGEiExEwcUIyJBUWFxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwClVtsqcn5Zu0O08jlH4EZJDVHxhwv6g4A7FuqkYAyxBJJxnXTcuKQbXDKLm+feQvTSxTvw1G+3JBEh7Mzl/HUHAHsf0RqGtpurSUr9EE7hLDBHZ2aCs6zySxt1LjonTqSofsScknI072jbrvK+TzVOQbVuKX7s+bFu3GXgjBb11UgZ8+OpH/QdAnD7FRtqtW6EF2SzdjZJD3+5sd0OEZEPQFW7AMASQAMAZGpbaqZ43yBPlqTyVTBFJJYmryExynxM+MdkCnv/AKrDPrOmvLfoyNpp/dUeUQJXRCwWwoVVU5xgoze2BGMez/umn0v2/faPIIk2q/DBejrJa7NILaPE64dJFQnGQ2OoPjGD/Ogz+fmF5rT2v1ZkOCvysPA9DIwcYxrQ/p3vlzf91pU7tzco4FhaZTWuvHIHU4B7+/Zz/P8AejRoLzyTaq3KjaoQGfbk2+SKOo4kMrRlY1bLZx2H5WGDrNeW8kn4dy4LXhSe1HQrxSTr+H5cL5JVfA9/tj17OjRoP//Z
+ogImage: null
 labels:
   - Animal Liberation
   - Animal Rights
@@ -33,17 +40,12 @@ labels:
   - Veganer
   - Veganismus
   - veganwerdenwaslosdigga
-type: Artikel
-typeName: Artikel
-date: 2019-08-31T10:45:18.000Z
+focusKeyword: Animal Rights March
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "25870"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_animal-rights-march-2019-tobias-hess-photography-7__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_animal-rights-march-2019-tobias-hess-photography-7__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHA//EACgQAAICAQQCAQMFAQAAAAAAAAECAwQRAAUGEiExEwcUIyJBUWFxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwClVtsqcn5Zu0O08jlH4EZJDVHxhwv6g4A7FuqkYAyxBJJxnXTcuKQbXDKLm+feQvTSxTvw1G+3JBEh7Mzl/HUHAHsf0RqGtpurSUr9EE7hLDBHZ2aCs6zySxt1LjonTqSofsScknI072jbrvK+TzVOQbVuKX7s+bFu3GXgjBb11UgZ8+OpH/QdAnD7FRtqtW6EF2SzdjZJD3+5sd0OEZEPQFW7AMASQAMAZGpbaqZ43yBPlqTyVTBFJJYmryExynxM+MdkCnv/AKrDPrOmvLfoyNpp/dUeUQJXRCwWwoVVU5xgoze2BGMez/umn0v2/faPIIk2q/DBejrJa7NILaPE64dJFQnGQ2OoPjGD/Ogz+fmF5rT2v1ZkOCvysPA9DIwcYxrQ/p3vlzf91pU7tzco4FhaZTWuvHIHU4B7+/Zz/P8AejRoLzyTaq3KjaoQGfbk2+SKOo4kMrRlY1bLZx2H5WGDrNeW8kn4dy4LXhSe1HQrxSTr+H5cL5JVfA9/tj17OjRoP//Z
 subTitle: Erfolg für das Tier&shy;rechts&shy;ak&shy;ti&shy;vis&shy;ten&shy;bünd&shy;nis
   
 ---

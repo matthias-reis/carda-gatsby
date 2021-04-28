@@ -1,15 +1,22 @@
 ---
-title: Hundreds live A Summer's Tale Festival 2015
-seoTitle: Hundreds live @ A Summer's Tale Festival 2015
+date: 2015-08-13T15:00:00.000Z
 slug: hundreds-live-a-summers-tale-festival-2015
 path: /2015/08/hundreds-live-a-summers-tale-festival-2015/
-fileName: 2015-08---hundreds-live-a-summers-tale-festival-2015.md
+type: Galerie
+typeName: Konzertbericht
+title: Hundreds live A Summer's Tale Festival 2015
+seoTitle: Hundreds live @ A Summer's Tale Festival 2015
+ogTitle: Hundreds live @ A Summer's Tale Festival 2015
 description: Die fröhliche Hundreds Sängerin Eva Milner sorgte am Samstag
   Nachmittag für gute Laune auf dem A Summer's Tale Festival 2015. Hier sind
   meine Bilder.
 excerpt: ... konnte man nach Herzenslust auf dem wunderschönen Hundreds Konzert
   am Samstag auf dem A Summer's Tale Festival 2015.
-focusKeyword: Hundreds
+fileName: 2015-08---hundreds-live-a-summers-tale-festival-2015.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_20332399569_28796d4369_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_08_20332399569_28796d4369_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcI/8QAJxAAAQMDAwMEAwAAAAAAAAAAAQIDEQAEBQYSIRMiMTJBUfBhgZH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAHREAAgMBAQADAAAAAAAAAAAAAQIAAxEEMSEyYf/aAAwDAQACEQMRAD8A5dZSVEUyQykJEmTU1rZl9YClOBhK9rjlvbKWUfkn3+ePanWSRjLvNMDGMLtLUw04SOCSY6gBPAggxx4q/wAPQaxijQYrdo9iQWfWbUmIV7T9+xUDNgQtKiogHzFazr7QzOk9YdFl1t2xdtm3mmhKVlRQeCncT6kq5mOTVQctXeq62q1DLKWTcQ4IWAYEySSRJBA+OaF0Ilqi1R7MhmVipPkr+n9R3mFfccsb+6ZU4oKWQhC90eCdxpo1lMe8jvSA+t7qqdDZCtsRsjftiefE/qiipdd9lWlDmxpkV/sI81FrtOcyVhdZNdw4qybRbt9gKiyhRKQpU9yoJBVAniaU5TVrN6wyyG1ANsuW+88EpJBBMeSIH8ooox7bSoTfgfkGKE0mf//Z
+ogImage: null
 labels:
   - A Summer's Tale
   - A Summer's Tale 2015
@@ -21,17 +28,12 @@ labels:
   - Konzerte
   - Liebe
   - live
-type: Galerie
-typeName: Konzertbericht
-date: 2015-08-13T15:00:00.000Z
+focusKeyword: Hundreds
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "12240"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_20332399569_28796d4369_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_08_20332399569_28796d4369_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcI/8QAJxAAAQMDAwMEAwAAAAAAAAAAAQIDEQAEBQYSIRMiMTJBUfBhgZH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAHREAAgMBAQADAAAAAAAAAAAAAQIAAxEEMSEyYf/aAAwDAQACEQMRAD8A5dZSVEUyQykJEmTU1rZl9YClOBhK9rjlvbKWUfkn3+ePanWSRjLvNMDGMLtLUw04SOCSY6gBPAggxx4q/wAPQaxijQYrdo9iQWfWbUmIV7T9+xUDNgQtKiogHzFazr7QzOk9YdFl1t2xdtm3mmhKVlRQeCncT6kq5mOTVQctXeq62q1DLKWTcQ4IWAYEySSRJBA+OaF0Ilqi1R7MhmVipPkr+n9R3mFfccsb+6ZU4oKWQhC90eCdxpo1lMe8jvSA+t7qqdDZCtsRsjftiefE/qiipdd9lWlDmxpkV/sI81FrtOcyVhdZNdw4qybRbt9gKiyhRKQpU9yoJBVAniaU5TVrN6wyyG1ANsuW+88EpJBBMeSIH8ooox7bSoTfgfkGKE0mf//Z
 subTitle: Tanzen, zappeln und abhotten...
   
 ---

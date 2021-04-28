@@ -1,16 +1,23 @@
 ---
-title: Vegane Gemüse-Quiche
-seoTitle: Vegane Gemüse-Quiche
+date: 2017-01-31T17:28:22.000Z
 slug: vegane-gemuese-quiche
 path: /2017/01/vegane-gemuese-quiche/
-fileName: 2017-01---vegane-gemuese-quiche.md
+type: Artikel
+typeName: Rezept
+title: Vegane Gemüse-Quiche
+seoTitle: Vegane Gemüse-Quiche
+ogTitle: Vegane Gemüse-Quiche
 description: Eine mit viel Liebe gebackene vegane Gemüse-Quiche wartete am
   Sonntag nach der Arbeit auf mich. Hier kommt das Rezept. Foodblog? Sollt Ihr
   haben!
 excerpt: Eine mit viel Liebe gebackene vegane Gemüse-Quiche wartete am Sonntag
   nach der Arbeit auf mich. Hier kommt das Rezept. Foodblog? Sollt Ihr haben!
   Guten Appetit!
-focusKeyword: Vegane Gemüse-Quiche
+fileName: 2017-01---vegane-gemuese-quiche.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_01_gemuesequiche-herzmann-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_01_gemuesequiche-herzmann-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAwT/xAAsEAACAQIFAgQGAwAAAAAAAAABAgMEEQAFEiExE0EGFCJRBxVCYXGBI1KR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIFA//EABwRAAICAwEBAAAAAAAAAAAAAAEDAAIEERIhMf/aAAwDAQACEQMRAD8AbM5zimpaeSepkRIE5Zh/nbn7YndX8RqaacR5Xls9UWbQrql97X4A9vvgT4rzV/EniiWj1M1Dl79Nooxs3ZpOd/Vt9lAwRpKFYomFDTU6xR6grSxlZidlsDe29+2w/OJjsjg6lBWP0NmaeF/iVBR5sUrknijcglGULpIt6lI4Iv8Avjvi4ZLmVPVU6yQTI8Bi6iyi1inBO3A7H+twDqFsQvMctpM0p3T5e0SNpDDUSyuTqb07m49uwxv8L8+GQ5xJlcrTSUcivLEm6ujxi7FNXcqG29xhVvDPR9g7G5Hhi58vaDxFXJUPJAVqJLSqwbVGSXCjffcm/wCCMMPVoqibztHUTOKNo4jOY7xk8kgHceom+/be+OXO4I6yFXlV45VUhZU2dbqTYHj6TccEscAI8xbL5+itUkccBYLCbxMG4PqIba5vsfbCvx72OxNFOrqN1P0xWSGkratpjJ1iSBqB4W+1iCNrn3GBGUQjOfF1PLH/AAmOnfzDm4IYxsg5O27E272OBENdUZlJHT+a0tK6xnoSFwR3LEqALm9yDhwyTymV0qqkbEXDS693b06t/f6R+z74MfHtU9Wg5wI0J//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_01_31819051943_9e5906c1c4_o__l.jpg
 labels:
   - foodblog
   - Gemüse
@@ -19,17 +26,12 @@ labels:
   - vegane Gemüse-Quiche
   - vegane Rezepte
   - Vegane Rezepte
-type: Artikel
-typeName: Rezept
-date: 2017-01-31T17:28:22.000Z
+focusKeyword: Vegane Gemüse-Quiche
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "23303"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_01_gemuesequiche-herzmann-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_01_gemuesequiche-herzmann-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAwT/xAAsEAACAQIFAgQGAwAAAAAAAAABAgMEEQAFEiExE0EGFCJRBxVCYXGBI1KR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIFA//EABwRAAICAwEBAAAAAAAAAAAAAAEDAAIEERIhMf/aAAwDAQACEQMRAD8AbM5zimpaeSepkRIE5Zh/nbn7YndX8RqaacR5Xls9UWbQrql97X4A9vvgT4rzV/EniiWj1M1Dl79Nooxs3ZpOd/Vt9lAwRpKFYomFDTU6xR6grSxlZidlsDe29+2w/OJjsjg6lBWP0NmaeF/iVBR5sUrknijcglGULpIt6lI4Iv8Avjvi4ZLmVPVU6yQTI8Bi6iyi1inBO3A7H+twDqFsQvMctpM0p3T5e0SNpDDUSyuTqb07m49uwxv8L8+GQ5xJlcrTSUcivLEm6ujxi7FNXcqG29xhVvDPR9g7G5Hhi58vaDxFXJUPJAVqJLSqwbVGSXCjffcm/wCCMMPVoqibztHUTOKNo4jOY7xk8kgHceom+/be+OXO4I6yFXlV45VUhZU2dbqTYHj6TccEscAI8xbL5+itUkccBYLCbxMG4PqIba5vsfbCvx72OxNFOrqN1P0xWSGkratpjJ1iSBqB4W+1iCNrn3GBGUQjOfF1PLH/AAmOnfzDm4IYxsg5O27E272OBENdUZlJHT+a0tK6xnoSFwR3LEqALm9yDhwyTymV0qqkbEXDS693b06t/f6R+z74MfHtU9Wg5wI0J//Z
 subTitle: Foodblog? Sollt Ihr haben!
   
 ---

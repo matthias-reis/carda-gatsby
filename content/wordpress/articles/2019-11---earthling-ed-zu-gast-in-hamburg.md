@@ -1,15 +1,22 @@
 ---
-title: Earthling Ed zu Gast in Hamburg
-seoTitle: Earthling Ed in Hamburg - "Es ist OK, ein*e wütende*r Veganer*in zu sein"
+date: 2019-11-25T07:08:39.000Z
 slug: earthling-ed-zu-gast-in-hamburg
 path: /2019/11/earthling-ed-zu-gast-in-hamburg/
-fileName: 2019-11---earthling-ed-zu-gast-in-hamburg.md
+type: Artikel
+typeName: Artikel
+title: Earthling Ed zu Gast in Hamburg
+seoTitle: Earthling Ed in Hamburg - "Es ist OK, ein*e wütende*r Veganer*in zu sein"
+ogTitle: Earthling Ed in Hamburg - "Es ist OK, ein*e wütende*r Veganer*in zu sein"
 description: Am Samstag hatten Anonymous For the Voiceless den veganen
   Aktivisten Earthling Ed für einen Vortrag in einen Hamburger Coworking Space
   eingeladen.
 excerpt: Am Samstag hatten Anonymous For the Voiceless den veganen Aktivisten
   Earthling Ed für einen Vortrag in einen Hamburger Coworking Space eingeladen.
-focusKeyword: Earthling Ed
+fileName: 2019-11---earthling-ed-zu-gast-in-hamburg.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAArEAABAwMDAQcFAQAAAAAAAAABAgMEAAURBhIhEyIxQWGBkaEHIyRCUfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AiGmbGxKWQ7FiOBCUqUXAvnJxjg0+W7SsVxmzhNstCFXEJUkbHT0wUqVk9rnhPzShpualmI+vPJAHsCaobd7j2520vvn7VvhqWQO/stEY91Y9aDg3oHTMjTV2lTBCZuDIeKFN9UJZ6TYWBszzuyO/PiOMVJ7zaBHEbDMdKn0hWEJI25BP9qtfS/WkZybcGJse1t3i7NPxrbKkNdRMd1bYQltYVlIQshIyeDyDgYqVy37g3dF2+9Idblw1KbW08kJW0pIIKSKDFhXAtM7M/wCximOY9NuFvmPNOJZjsx9ylOA4cBKRsT5nHxRRQK6pf4xbBxlSVbh3jAOMH1ra1jrSdqyXb5dzaZEyLGEdyQhPbkEfss+PGB5c0UUH/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-2-1.png__l.jpg
 labels:
   - Anonymous For The Voiceless
   - AV
@@ -31,17 +38,12 @@ labels:
   - Veganer
   - Vortrag
   - Workshop
-type: Artikel
-typeName: Artikel
-date: 2019-11-25T07:08:39.000Z
+focusKeyword: Earthling Ed
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "26968"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAArEAABAwMDAQcFAQAAAAAAAAABAgMEAAURBhIhEyIxQWGBkaEHIyRCUfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AiGmbGxKWQ7FiOBCUqUXAvnJxjg0+W7SsVxmzhNstCFXEJUkbHT0wUqVk9rnhPzShpualmI+vPJAHsCaobd7j2520vvn7VvhqWQO/stEY91Y9aDg3oHTMjTV2lTBCZuDIeKFN9UJZ6TYWBszzuyO/PiOMVJ7zaBHEbDMdKn0hWEJI25BP9qtfS/WkZybcGJse1t3i7NPxrbKkNdRMd1bYQltYVlIQshIyeDyDgYqVy37g3dF2+9Idblw1KbW08kJW0pIIKSKDFhXAtM7M/wCximOY9NuFvmPNOJZjsx9ylOA4cBKRsT5nHxRRQK6pf4xbBxlSVbh3jAOMH1ra1jrSdqyXb5dzaZEyLGEdyQhPbkEfss+PGB5c0UUH/9k=
 subTitle: '"Es ist OK, ein*e wütende Veganer*in zu sein!"'
   
 ---

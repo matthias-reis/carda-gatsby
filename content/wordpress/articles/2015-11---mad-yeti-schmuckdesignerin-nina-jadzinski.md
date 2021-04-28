@@ -1,15 +1,22 @@
 ---
-title: Mad Yeti Schmuckdesignerin Nina Jadzinski
-seoTitle: Mad Yeti Creations - Interview mit einer Schmuckdesignerin
+date: 2015-11-30T12:02:33.000Z
 slug: schmuck-fuer-veganer-von-mad-yeti-creations
 path: /2015/11/schmuck-fuer-veganer-von-mad-yeti-creations/
-fileName: 2015-11---mad-yeti-schmuckdesignerin-nina-jadzinski.md
+type: Artikel
+typeName: Interview
+title: Mad Yeti Schmuckdesignerin Nina Jadzinski
+seoTitle: Mad Yeti Creations - Interview mit einer Schmuckdesignerin
+ogTitle: Mad Yeti Creations - Interview mit einer Schmuckdesignerin
 description: Die junge Schmuckdesignerin und Gründerin von Mad Yeti Creations
   Nina Yadzinski stellt Schmuck für Veganer her. Ich habe mich mit ihr
   unterhalten.
 excerpt: Die junge Schmuckdesignerin und Gründerin von Mad Yeti Creations Nina
   Yadzinski stellt Schmuck für Veganer her. Ich habe mich mit ihr unterhalten.
-focusKeyword: Schmuck für Veganer
+fileName: 2015-11---mad-yeti-schmuckdesignerin-nina-jadzinski.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_12309244_1007811409286063_1031105298_n__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_12309244_1007811409286063_1031105298_n__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAfACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFBAj/xAAsEAABAwMEAAQFBQAAAAAAAAABAgMEBQYRABIhMQcTIlEUFTJBYUJxcoGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQAAQP/xAAcEQEBAAICAwAAAAAAAAAAAAABAgADERITQXH/2gAMAwEAAhEDEQA/AKKTBqk1t9mn/DhbmQXHHdgxz13zqIgqTGvieFVRVP2hZQptCXA6QUgthR66zn2GqBq6yihiqRg6ypCyEBzB3YA7T7EnGPz3rXsioWxcMuRMqjESU8y6kpEiEVOshWUjOwEOAkKwrHXelo1VALjWnYz2qjOqpTI0eqUdyLUJs1wVaPJYZyFoSjYoKDeBkjB51A+JlhXDX77rkykU9yXFcX5zDrDySh0KUVAfVxxnTL4gJTTbYnyqRRnDNjNJ8t2PHSE7FKwoAjk7RlZSB+kayfBaqFxSm0PrdZfZKkoSchJSrcT+T6jz+2rKZ5cKrWfJHzA1NfT8pYo7kk+ah1awPLICspGfUf49Y0j+GlMYpFlwK7BeV81ffJlq6JQCQlGPbHI9yT3wNBNwMmGA92jeM7TykZzx/unDwhuKlVExYzccSH4sdx0pVuSlAbI5PGCr1E501XLAnrJQSJl1S6vXqRl+7kRzCdlLXFci73Ayk/TvwnKSeO8855GdHdYvV+wLlrIjNRUSHpKnopU3uR5D3ryAMcjrHuDpXql0hVu1JMdKXXPgZDrZOc5S2SAcgA/bXlm8q8q5YEZ5mQ8+1FIdeU6AncraBwPblR/sddayjV3WnB1VzPVM/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2015_11_12309244_1007811409286063_1031105298_n1__l.jpg
 labels:
   - Fair Fashion & Beauty
   - Fimo
@@ -22,17 +29,12 @@ labels:
   - Schmuckdesignerin
   - vegan
   - veganer Schmuck
-type: Artikel
-typeName: Interview
-date: 2015-11-30T12:02:33.000Z
+focusKeyword: Schmuck für Veganer
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "13234"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_12309244_1007811409286063_1031105298_n__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_12309244_1007811409286063_1031105298_n__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAfACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFBAj/xAAsEAABAwMEAAQFBQAAAAAAAAABAgMEBQYRABIhMQcTIlEUFTJBYUJxcoGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQAAQP/xAAcEQEBAAICAwAAAAAAAAAAAAABAgADERITQXH/2gAMAwEAAhEDEQA/AKKTBqk1t9mn/DhbmQXHHdgxz13zqIgqTGvieFVRVP2hZQptCXA6QUgthR66zn2GqBq6yihiqRg6ypCyEBzB3YA7T7EnGPz3rXsioWxcMuRMqjESU8y6kpEiEVOshWUjOwEOAkKwrHXelo1VALjWnYz2qjOqpTI0eqUdyLUJs1wVaPJYZyFoSjYoKDeBkjB51A+JlhXDX77rkykU9yXFcX5zDrDySh0KUVAfVxxnTL4gJTTbYnyqRRnDNjNJ8t2PHSE7FKwoAjk7RlZSB+kayfBaqFxSm0PrdZfZKkoSchJSrcT+T6jz+2rKZ5cKrWfJHzA1NfT8pYo7kk+ah1awPLICspGfUf49Y0j+GlMYpFlwK7BeV81ffJlq6JQCQlGPbHI9yT3wNBNwMmGA92jeM7TykZzx/unDwhuKlVExYzccSH4sdx0pVuSlAbI5PGCr1E501XLAnrJQSJl1S6vXqRl+7kRzCdlLXFci73Ayk/TvwnKSeO8855GdHdYvV+wLlrIjNRUSHpKnopU3uR5D3ryAMcjrHuDpXql0hVu1JMdKXXPgZDrZOc5S2SAcgA/bXlm8q8q5YEZ5mQ8+1FIdeU6AncraBwPblR/sddayjV3WnB1VzPVM/9k=
 subTitle: '"Ich möchte Schmuck für Veganer machen!"'
   
 ---

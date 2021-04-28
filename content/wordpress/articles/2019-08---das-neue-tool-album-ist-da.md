@@ -1,14 +1,21 @@
 ---
-title: Das neue Tool Album ist da
-seoTitle: Das neue Tool Album ist da - Fear Inoculum auf dem digitalen Plattenteller
+date: 2019-08-30T12:45:35.000Z
 slug: das-neue-tool-album-ist-da
 path: /2019/08/das-neue-tool-album-ist-da/
-fileName: 2019-08---das-neue-tool-album-ist-da.md
+type: Artikel
+typeName: Review
+title: Das neue Tool Album ist da
+seoTitle: Das neue Tool Album ist da - Fear Inoculum auf dem digitalen Plattenteller
+ogTitle: Das neue Tool Album ist da - Fear Inoculum auf dem digitalen Plattenteller
 description: Für Tool Fans geht heute ein langjähriger Wunsch in Erfüllung. Das
   neue Album "Fear Inoculum" ist ab sofort endlich vollständig verfügbar.
 excerpt: Für Tool Fans geht heute ein langjähriger Wunsch in Erfüllung. Das neue
   Album "Fear Inoculum" ist ab sofort endlich vollständig verfügbar.
-focusKeyword: tool
+fileName: 2019-08---das-neue-tool-album-ist-da.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_69619214_2886601694748526_2247184991584780288_o__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_69619214_2886601694748526_2247184991584780288_o__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwj/xAAnEAABAwMEAQMFAAAAAAAAAAABAgMEAAURBhIhMRMHUZEVIkGBof/EABgBAAIDAAAAAAAAAAAAAAAAAAMFAAEC/8QAHxEAAgEEAwEBAAAAAAAAAAAAAQIAAwQRIRIxkRNh/9oADAMBAAIRAxEAPwDLrxfXod6QhtMhSfGkbGSASo5Pz1Vt6aXW5X6Rqe3KuDzLn00COi5krS08VjCtqgRuwDg4NZ3qq4usMxoodcUgOmRtC9mxfA3AgZ/tK6Q1FfxqqK1a5YM64OJjB+U4t3jJAyTkgcml9rR+lIcVGT17D16q0iWc6Gc+Tp25RUSdMhE2FYZE4uOKSxZWzGSohoqbbK85P3jvjPNTTkaNE0zEXAs8+0spdLIjy3ELVgjduTtUSMkq4VzUT6kXLX2iZFmi39+2OR7iS6z4kHYSjbyrgdbxS9ov1yebLc9VrQyHEFSW1L8uTkDGc445wfxQb6ybg4YZPej+S7W4WoFdDozKrzKW/OSFjgpA79zSTicyEEnokfBoopjS0gxBVNsY4GEvTWEdAZV7/qq9xp2DAZUp7zOSWBIKikDG5OcccnGAMknrjHVFFbY8s5kSf//Z
+ogImage: null
 labels:
   - Adam Jones
   - Bands
@@ -20,17 +27,12 @@ labels:
   - Musik
   - Prog
   - Tool
-type: Artikel
-typeName: Review
-date: 2019-08-30T12:45:35.000Z
+focusKeyword: tool
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "25858"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_69619214_2886601694748526_2247184991584780288_o__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_69619214_2886601694748526_2247184991584780288_o__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwj/xAAnEAABAwMEAQMFAAAAAAAAAAABAgMEAAURBhIhMRMHUZEVIkGBof/EABgBAAIDAAAAAAAAAAAAAAAAAAMFAAEC/8QAHxEAAgEEAwEBAAAAAAAAAAAAAQIAAwQRIRIxkRNh/9oADAMBAAIRAxEAPwDLrxfXod6QhtMhSfGkbGSASo5Pz1Vt6aXW5X6Rqe3KuDzLn00COi5krS08VjCtqgRuwDg4NZ3qq4usMxoodcUgOmRtC9mxfA3AgZ/tK6Q1FfxqqK1a5YM64OJjB+U4t3jJAyTkgcml9rR+lIcVGT17D16q0iWc6Gc+Tp25RUSdMhE2FYZE4uOKSxZWzGSohoqbbK85P3jvjPNTTkaNE0zEXAs8+0spdLIjy3ELVgjduTtUSMkq4VzUT6kXLX2iZFmi39+2OR7iS6z4kHYSjbyrgdbxS9ov1yebLc9VrQyHEFSW1L8uTkDGc445wfxQb6ybg4YZPej+S7W4WoFdDozKrzKW/OSFjgpA79zSTicyEEnokfBoopjS0gxBVNsY4GEvTWEdAZV7/qq9xp2DAZUp7zOSWBIKikDG5OcccnGAMknrjHVFFbY8s5kSf//Z
 subTitle: '"Fear Inoculum" auf dem digitalen Plattenteller'
   
 ---

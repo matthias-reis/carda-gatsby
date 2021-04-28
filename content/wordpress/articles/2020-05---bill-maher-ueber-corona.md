@@ -1,14 +1,21 @@
 ---
-title: Bill Maher über Corona
-seoTitle: Bill Maher über Corona - Comedian spricht sich gegen Tierquälerei aus
+date: 2020-05-11T09:31:27.000Z
 slug: bill-maher-ueber-corona
 path: /2020/05/bill-maher-ueber-corona/
-fileName: 2020-05---bill-maher-ueber-corona.md
+type: Artikel
+typeName: Artikel
+title: Bill Maher über Corona
+seoTitle: Bill Maher über Corona - Comedian spricht sich gegen Tierquälerei aus
+ogTitle: Bill Maher über Corona - Comedian spricht sich gegen Tierquälerei aus
 description: Talkmaster Bill Maher sprach sich in der letzten Folge seiner
   Sendung "Real Time With Bill Maher" offen gegen Tierquälerei aus.
 excerpt: Talkmaster Bill Maher sprach sich in der letzten Folge seiner Sendung
   "Real Time With Bill Maher" offen gegen Tierquälerei aus.
-focusKeyword: Bill Maher
+fileName: 2020-05---bill-maher-ueber-corona.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_bill-maher-creative-commons__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_bill-maher-creative-commons__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAcGCP/EAC4QAAEDAwIEBAUFAAAAAAAAAAECAwQABREGMQcSIVETFBVBMkJSYXGBkaGywf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQQF/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAwQSBSEREzFBUf/aAAwDAQACEQMRAD8Aq6LQFwLg2dihX9aVcIuH8Ni1RbjcOXzshAdytoL8NJ+EJzscYOe5+1OtCDJmI7p/yrGl4158g0WrmyGUw0KbRy5IVgYKv5/al5dhRF1ljj6Vsufb46kOrdAokxisuMy4wOFoWjlIBO4I65rALjplxq9z4ER0OKjqygK6lSM4zkdq9Pp9Udtq/VzGEpKcoUySQ5+lYppm5RrDxAQq+RlKkFxHKpeccqiehHYgg0OC/tsCNG8hSKk2QTRtCqAmOg7ECuf0u9EnR0LflRmXIrqmloe6HKSRkfV0x0O1FFTmDzUD+RfGsVySB9iPlzJrsCU1aEmY6hBDIQnIUvPQBP59tt6j1Jw9gWviHpKZdLsp653APSZWQPD8VkIKAkDZHy++eWiih45AG8zSyjsy7d9if//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_bill-maher-fb.png__l.jpg
 labels:
   - Bill Maher
   - Corona
@@ -23,17 +30,12 @@ labels:
   - vegan celebrities
   - Wet Markets
   - Zoonosen
-type: Artikel
-typeName: Artikel
-date: 2020-05-11T09:31:27.000Z
+focusKeyword: Bill Maher
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29553"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_bill-maher-creative-commons__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_bill-maher-creative-commons__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAcGCP/EAC4QAAEDAwIEBAUFAAAAAAAAAAECAwQABREGMQcSIVETFBVBMkJSYXGBkaGywf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQQF/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAwQSBSEREzFBUf/aAAwDAQACEQMRAD8Aq6LQFwLg2dihX9aVcIuH8Ni1RbjcOXzshAdytoL8NJ+EJzscYOe5+1OtCDJmI7p/yrGl4158g0WrmyGUw0KbRy5IVgYKv5/al5dhRF1ljj6Vsufb46kOrdAokxisuMy4wOFoWjlIBO4I65rALjplxq9z4ER0OKjqygK6lSM4zkdq9Pp9Udtq/VzGEpKcoUySQ5+lYppm5RrDxAQq+RlKkFxHKpeccqiehHYgg0OC/tsCNG8hSKk2QTRtCqAmOg7ECuf0u9EnR0LflRmXIrqmloe6HKSRkfV0x0O1FFTmDzUD+RfGsVySB9iPlzJrsCU1aEmY6hBDIQnIUvPQBP59tt6j1Jw9gWviHpKZdLsp653APSZWQPD8VkIKAkDZHy++eWiih45AG8zSyjsy7d9if//Z
 subTitle: Comedian spricht sich gegen Tierquälerei aus
   
 ---

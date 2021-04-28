@@ -1,14 +1,21 @@
 ---
-title: The Ocean live im Hamburger Logo
-seoTitle: The Ocean live im Logo Hamburg - ein Konzert zum niemals vergessen
+date: 2019-04-09T08:48:46.000Z
 slug: the-ocean-live-im-hamburger-logo
 path: /2019/04/the-ocean-live-im-hamburger-logo/
-fileName: 2019-04---the-ocean-live-im-hamburger-logo.md
+type: Artikel
+typeName: Konzertbericht
+title: The Ocean live im Hamburger Logo
+seoTitle: The Ocean live im Logo Hamburg - ein Konzert zum niemals vergessen
+ogTitle: The Ocean live im Logo Hamburg - ein Konzert zum niemals vergessen
 description: Wenn wir etwas hören, das uns gefällt, kann uns das sehr glücklich
   machen - die Musik von The Ocean schafft das mehr als gut.
 excerpt: Wenn wir etwas hören, das uns gefällt, kann uns das sehr glücklich
   machen - die Musik von The Ocean schafft das mehr als gut.
-focusKeyword: The Ocean
+fileName: 2019-04---the-ocean-live-im-hamburger-logo.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-the-ocean-logo-5__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-the-ocean-logo-5__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAsEAABAwIEBAQHAAAAAAAAAAABAgMRAAQFBhIhIjFBYQcTM1EUFUJxgZGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AFvDsAKrhBLZmfatTNOBu2WXLl+2UG3ZSkLjcSenenWzs27dtVw+dLTY1KMdKQc85lurwOW9oFsWKgAplUK1EGZmNvwaDP8ACgJdzN8HwOtvsqWSoFSgUiZ+9V+6y+ny9UTIkbVCsr2oS1f3GH4k5bYk2iEsBGkusH1dK+hG23MiYroXImIu45k63ub51Dt0hSmXD9XDyKh7kb96DJzaQzhTLKSIec37gb/0ipXjzAUpQAoooF35bdoBuWEL0plJWkcpER+pq2+GT5TlOzWrgcaUu2VA9RA4kz3SSYPsYoooP//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_04_Ein-Konzert-zum-Niemals-vergegssen.png__l.jpg
 labels:
   - Berlin
   - Hamburg
@@ -19,17 +26,12 @@ labels:
   - Schweiz
   - The Ocean
   - The Ocean Collective
-type: Artikel
-typeName: Konzertbericht
-date: 2019-04-09T08:48:46.000Z
+focusKeyword: The Ocean
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "23914"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-the-ocean-logo-5__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-the-ocean-logo-5__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAsEAABAwIEBAQHAAAAAAAAAAABAgMRAAQFBhIhIjFBYQcTM1EUFUJxgZGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AFvDsAKrhBLZmfatTNOBu2WXLl+2UG3ZSkLjcSenenWzs27dtVw+dLTY1KMdKQc85lurwOW9oFsWKgAplUK1EGZmNvwaDP8ACgJdzN8HwOtvsqWSoFSgUiZ+9V+6y+ny9UTIkbVCsr2oS1f3GH4k5bYk2iEsBGkusH1dK+hG23MiYroXImIu45k63ub51Dt0hSmXD9XDyKh7kb96DJzaQzhTLKSIec37gb/0ipXjzAUpQAoooF35bdoBuWEL0plJWkcpER+pq2+GT5TlOzWrgcaUu2VA9RA4kz3SSYPsYoooP//Z
 subTitle: Ein Konzert zum niemals vergessen
   
 ---

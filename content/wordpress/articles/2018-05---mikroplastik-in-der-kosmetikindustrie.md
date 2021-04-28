@@ -1,15 +1,22 @@
 ---
-title: Mikroplastik in der Kosmetikindustrie
-seoTitle: Mikroplastik in der Kosmetikindustrie - Umweltsünden aus der Tube
+date: 2018-05-15T06:10:27.000Z
 slug: mikroplastik-in-der-kosmetik
 path: /2018/05/mikroplastik-in-der-kosmetik/
-fileName: 2018-05---mikroplastik-in-der-kosmetikindustrie.md
+type: Artikel
+typeName: Artikel
+title: Mikroplastik in der Kosmetikindustrie
+seoTitle: Mikroplastik in der Kosmetikindustrie - Umweltsünden aus der Tube
+ogTitle: Mikroplastik in der Kosmetikindustrie - Umweltsünden aus der Tube
 description: Heute möchte ich mich dem Thema Mikroplastik in der
   Kosmetikindustrie widmen. Dabei ist es mir besonders wichtig, keinen Aspekt
   außen vor zu lassen.
 excerpt: Heute möchte ich mich dem Thema Mikroplastik in der Kosmetikindustrie
   widmen. Dabei ist es mir besonders wichtig, keinen Aspekt außen vor zu lassen.
-focusKeyword: Mikroplastik
+fileName: 2018-05---mikroplastik-in-der-kosmetikindustrie.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_detergent-3190614_640__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_detergent-3190614_640__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAYHAQIDBP/EAC8QAAEDAwIDBQgDAAAAAAAAAAECAwQABREGIRIxQRMyUWFxBxQiIyRSgZGSobH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwAB/8QAIxEAAQMEAQQDAAAAAAAAAAAAAQADBAIRIUExBRJRYRMi4f/aAAwDAQACEQMRAD8A8ltYkS7o41bm2pS8lSkMzVEjPXfkKcxGYta2mLjJcbkqbCzHYWuQtCfuVwjAH53rHsvhyYibs1NH1XatrB7BKFBspOM45jNaXzT89vXU25j3h6JLSh1jsPiwrgCFIWM9CNvIjzrTJrreGgndIhRpT5ok1dosSOBc+F21RLtmn7GLtIvUVyOCAllqSTIdz0Q2RknxzjG9Llru0TUMRx5qLIQpspyh2WDspPEkggDmP1iqRb9D2CZFU7f7SxIKsrS3JBwjI3yM4zz9KWLnbLTaHXY9hhw4kNRHcYWvJxgnJJz4U2HI+Rsh0fbR1r986Rp7Mdlzsj1EgHk29496zjaicK9Lua0zXHrm3O4h89uetKh6YG1V/SV/uyUNKfuUmY2lHcllLh/kEg/3RRVq2qDyEa5CoES7rltZKChXQhQOP2KWdTTHlNupU+/woG3CsJP+UUVJukC4C5Uv/9k=
+ogImage: null
 labels:
   - Fair Fashion & Beauty
   - Kenia
@@ -25,17 +32,12 @@ labels:
   - Umweltverschmutzung
   - Wasser
   - Zero Waste
-type: Artikel
-typeName: Artikel
-date: 2018-05-15T06:10:27.000Z
+focusKeyword: Mikroplastik
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "20855"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_detergent-3190614_640__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_detergent-3190614_640__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAYHAQIDBP/EAC8QAAEDAwIDBQgDAAAAAAAAAAECAwQABREGIRIxQRMyUWFxBxQiIyRSgZGSobH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwAB/8QAIxEAAQMEAQQDAAAAAAAAAAAAAQADBAIRIUExBRJRYRMi4f/aAAwDAQACEQMRAD8A8ltYkS7o41bm2pS8lSkMzVEjPXfkKcxGYta2mLjJcbkqbCzHYWuQtCfuVwjAH53rHsvhyYibs1NH1XatrB7BKFBspOM45jNaXzT89vXU25j3h6JLSh1jsPiwrgCFIWM9CNvIjzrTJrreGgndIhRpT5ok1dosSOBc+F21RLtmn7GLtIvUVyOCAllqSTIdz0Q2RknxzjG9Llru0TUMRx5qLIQpspyh2WDspPEkggDmP1iqRb9D2CZFU7f7SxIKsrS3JBwjI3yM4zz9KWLnbLTaHXY9hhw4kNRHcYWvJxgnJJz4U2HI+Rsh0fbR1r986Rp7Mdlzsj1EgHk29496zjaicK9Lua0zXHrm3O4h89uetKh6YG1V/SV/uyUNKfuUmY2lHcllLh/kEg/3RRVq2qDyEa5CoES7rltZKChXQhQOP2KWdTTHlNupU+/woG3CsJP+UUVJukC4C5Uv/9k=
 subTitle: Umweltsünden aus der Tube
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: Kuhmilch erhöht das Brustkrebsrisiko
-seoTitle: Kuhmilch erhöht das Brustkrebsrisiko - neue Studien decken auf
+date: 2020-10-29T11:49:47.000Z
 slug: kuhmilch-brustkrebsrisiko
 path: /2020/10/kuhmilch-brustkrebsrisiko/
-fileName: 2020-10---kuhmilch-erhoeht-das-brustkrebsrisiko.md
+type: Artikel
+typeName: Artikel
+title: Kuhmilch erhöht das Brustkrebsrisiko
+seoTitle: Kuhmilch erhöht das Brustkrebsrisiko - neue Studien decken auf
+ogTitle: Kuhmilch erhöht das Brustkrebsrisiko - neue Studien decken auf
 description: Der regelmäßige Konsum von Kuhmilch und Molkereiprodukten erhöht
   das Brustkrebsrisiko bei Frauen laut einer aktuellen Studie signifikant.
 excerpt: Der regelmäßige Konsum von Kuhmilch und Molkereiprodukten erhöht das
   Brustkrebsrisiko bei Frauen laut einer aktuellen Studie signifikant.
-focusKeyword: Brustkrebsrisiko
+fileName: 2020-10---kuhmilch-erhoeht-das-brustkrebsrisiko.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_brustkrebs-kuhmilch__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_brustkrebs-kuhmilch__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBwIEBf/EACwQAAIBAwQABAUFAQAAAAAAAAECAwQFEQAGEiETIkFRBxQVMWEjUnGRofH/xAAYAQACAwAAAAAAAAAAAAAAAAAAAwEEBf/EACERAAIBAwMFAAAAAAAAAAAAAAACAQMEERMhUSIxocHw/9oADAMBAAIRAxEAPwDmbE2glm3NbEaMJDcqWSJn5YBkUhsnP28p/wA0+fEDa9Jb7Xt+tiwZKe5xK7xrgBXDITk9nPl/o6groZrjt2y1lBTPK1KBcGPPw/08KskWf3sGwB+D76g+K97gdrfFaLhHPRPRNUpDhu3EyuCcZ7PA9HGOJ99GR2i0rDLvnwa9fte03q3V0T13GaaKMrEI+TxF28pYE+3eB+cnI1R27dk1e3L9cLVXCN5adUfnEcq6sCVYfyPTVvJb951W7amKiFJX0Mj/ADHOR8pGrMUZ4zgOyIylCR98D7g6xSxvDu3eNNd5Yat6empREyKwCKVyFAbvoe+nPpyvT3Lt6trFNZoTvx9x7GCxXeivliq7dcYkqaOeIgRGQoHYKSDyAypDAd+mAdVtba2r3RbvotNaU+sxIIvnRJ4M0hLqojk4+WQBQxZusjv0OTRpJmDFW7tvmy9h2yO0UpqnkiMq1xiacpByJEIGMIVOTgkjB6/CvbN319wrrxc694pZ61IPEk4rHjgpUDiPXHf/AHRo0Eyf/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_10_brustkrebs-kuhmilch-fb.png__l.jpg
 labels:
   - Antifaschismus & Feminismus
   - Breast Cancer Awareness Month
@@ -22,17 +29,12 @@ labels:
   - Milch-Alternativen
   - Pink Ribbon
   - vegane Ernährung
-type: Artikel
-typeName: Artikel
-date: 2020-10-29T11:49:47.000Z
+focusKeyword: Brustkrebsrisiko
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31779"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_brustkrebs-kuhmilch__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_brustkrebs-kuhmilch__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBwIEBf/EACwQAAIBAwQABAUFAQAAAAAAAAECAwQFEQAGEiETIkFRBxQVMWEjUnGRofH/xAAYAQACAwAAAAAAAAAAAAAAAAAAAwEEBf/EACERAAIBAwMFAAAAAAAAAAAAAAACAQMEERMhUSIxocHw/9oADAMBAAIRAxEAPwDmbE2glm3NbEaMJDcqWSJn5YBkUhsnP28p/wA0+fEDa9Jb7Xt+tiwZKe5xK7xrgBXDITk9nPl/o6groZrjt2y1lBTPK1KBcGPPw/08KskWf3sGwB+D76g+K97gdrfFaLhHPRPRNUpDhu3EyuCcZ7PA9HGOJ99GR2i0rDLvnwa9fte03q3V0T13GaaKMrEI+TxF28pYE+3eB+cnI1R27dk1e3L9cLVXCN5adUfnEcq6sCVYfyPTVvJb951W7amKiFJX0Mj/ADHOR8pGrMUZ4zgOyIylCR98D7g6xSxvDu3eNNd5Yat6empREyKwCKVyFAbvoe+nPpyvT3Lt6trFNZoTvx9x7GCxXeivliq7dcYkqaOeIgRGQoHYKSDyAypDAd+mAdVtba2r3RbvotNaU+sxIIvnRJ4M0hLqojk4+WQBQxZusjv0OTRpJmDFW7tvmy9h2yO0UpqnkiMq1xiacpByJEIGMIVOTgkjB6/CvbN319wrrxc694pZ61IPEk4rHjgpUDiPXHf/AHRo0Eyf/9k=
 subTitle: Neue wissenschaftliche Studien decken auf
   
 ---

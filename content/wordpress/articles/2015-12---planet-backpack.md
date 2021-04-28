@@ -1,14 +1,21 @@
 ---
-title: Planet Backpack
-seoTitle: Planet Backpack - Interview mit einer digitalen Nomadin
+date: 2015-12-08T15:43:37.000Z
 slug: planet-backpack-interview
 path: /2015/12/planet-backpack-interview/
-fileName: 2015-12---planet-backpack.md
+type: Artikel
+typeName: Interview
+title: Planet Backpack
+seoTitle: Planet Backpack - Interview mit einer digitalen Nomadin
+ogTitle: Planet Backpack - Interview mit einer digitalen Nomadin
 description: Ich habe mich heute mit der veganen Reisebloggerin Conni von Planet
   Backpack unterhalten. Das Interview war sehr aufschlussreich.
 excerpt: Ich habe mich heute mit der veganen Reisebloggerin Conni von Planet
   Backpack unterhalten. Das Interview war sehr aufschlussreich.
-focusKeyword: Planet Backpack
+fileName: 2015-12---planet-backpack.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Conni-best-day-1-20-375x250-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Conni-best-day-1-20-375x250-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEFBgcCAwT/xAApEAACAQMEAgAFBQAAAAAAAAABAgMEBREAEiExBhMHFDJBURUWIiNh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIEA//EACERAAICAAUFAAAAAAAAAAAAAAECAAMEERIhoSIxMrHR/9oADAMBAAIRAxEAPwBoe+1dK8eyyzRu+YwYbnULna23Gdx4ydP9quF2r/m0/btzZIIGlO29yvuKjITH2YkdfbvVnzeG2Co9AkoT/SSV2zOCCW3H788knWENopfHwxsNEkKyEtIu8kEkcu2Tz0ozpPEEtxGRdRCyt6e+rd5pov0CeKSnIgZWvTRhHIwMq2Nx5Pec41IB45ap5EulVTUVBGAFZWKVEchBx7MkAE84/HA1NKSzW2onqmrIIqqrk2iZ3X61H0g57A5wdcfk9io5Y7eIRDTJCXAQDCkED+IHQ6zpWL6cxxBsgY3T+VTUd3mV4WkgiDj1iTbuwAQc4POdV7efidMvkUbpaKY+iQCAySsTGW7ORjPQ460aNT4Am3DB33O83t6bCq9tpuj8+vVwv/zNI8NGqL62TZ7d2QDnJ65H4Oku/m92khC1Uvv2OGUsqqVP+YUYGjRqusCusBfvuGQdjqn/2Q==
+ogImage: null
 labels:
   - Conni Biesalski
   - digitale Nomaden
@@ -18,18 +25,13 @@ labels:
   - Planetbackpack
   - Reiseblog
   - vegan Reisen
-type: Artikel
-typeName: Interview
-date: 2015-12-08T15:43:37.000Z
+focusKeyword: Planet Backpack
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "29032"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Conni-best-day-1-20-375x250-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Conni-best-day-1-20-375x250-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEFBgcCAwT/xAApEAACAQMEAgAFBQAAAAAAAAABAgMEBREAEiExBhMHFDJBURUWIiNh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIEA//EACERAAICAAUFAAAAAAAAAAAAAAECAAMEERIhoSIxMrHR/9oADAMBAAIRAxEAPwBoe+1dK8eyyzRu+YwYbnULna23Gdx4ydP9quF2r/m0/btzZIIGlO29yvuKjITH2YkdfbvVnzeG2Co9AkoT/SSV2zOCCW3H788knWENopfHwxsNEkKyEtIu8kEkcu2Tz0ozpPEEtxGRdRCyt6e+rd5pov0CeKSnIgZWvTRhHIwMq2Nx5Pec41IB45ap5EulVTUVBGAFZWKVEchBx7MkAE84/HA1NKSzW2onqmrIIqqrk2iZ3X61H0g57A5wdcfk9io5Y7eIRDTJCXAQDCkED+IHQ6zpWL6cxxBsgY3T+VTUd3mV4WkgiDj1iTbuwAQc4POdV7efidMvkUbpaKY+iQCAySsTGW7ORjPQ460aNT4Am3DB33O83t6bCq9tpuj8+vVwv/zNI8NGqL62TZ7d2QDnJ65H4Oku/m92khC1Uvv2OGUsqqVP+YUYGjRqusCusBfvuGQdjqn/2Q==
 subTitle: Interview mit einer digitalen Nomadin
   
 ---

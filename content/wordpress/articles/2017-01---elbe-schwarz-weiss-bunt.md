@@ -1,14 +1,21 @@
 ---
-title: Elbe schwarz-weiß bunt
-seoTitle: Elbe schwarz-weiß bunt - Bildergalerie mit Flarfgedicht
+date: 2017-01-04T15:41:35.000Z
 slug: elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht
 path: /2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/
-fileName: 2017-01---elbe-schwarz-weiss-bunt.md
+type: Galerie
+typeName: Gedicht
+title: Elbe schwarz-weiß bunt
+seoTitle: Elbe schwarz-weiß bunt - Bildergalerie mit Flarfgedicht
+ogTitle: Elbe schwarz-weiß bunt - Bildergalerie mit Flarfgedicht
 description: Heute habe ich mal wieder eine Bildergalerie von der Elbe für Euch.
   Stilecht mit Nebel und allem was dazu gehört und obendrauf noch ein Gedicht.
 excerpt: Heute habe ich mal wieder eine Bildergalerie von der Elbe für Euch.
   Stilecht mit Nebel und allem was dazu gehört und obendrauf noch ein Gedicht.
-focusKeyword: Elbe
+fileName: 2017-01---elbe-schwarz-weiss-bunt.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_01_31951423352_b59d7c51e6_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_01_31951423352_b59d7c51e6_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBgcE/8QAKRAAAQMDAwMDBQEAAAAAAAAAAQIDBAARIQUGEiIxQQdCURMUYYGRsf/EABcBAQEBAQAAAAAAAAAAAAAAAAIDBAX/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIRAyESEzH/2gAMAwEAAhEDEQA/AOyB6i7TismQ01PT9Q2WG4WU28GxtTuH6lbXkPJaMiVHTbkXZEcpbGL2KgTYmqjp2zNHLZJiSh3HTIeAI8+6oahtvbmlx3ZM7SNRYgx2ypyUH1rSOoDslRVbzyIt/tdDsdbMPBXo1abMhMhSnZLKEJbLhKlgAJ73/lYrvfdMKTOlo09xD8QyOa3krIK0/bhCQgWyOQNyfxarS5sjRiQoR53HHUZTwBB+OqkuobE2+rkpyJLUSkkXkOkm2B3N6ccjT8BLGmqbLrCcUUNKR03scE+f3Td0IVGWhTaVMrCkqbOQoEZv83zRRUioPKJQze4wALEiwGKVz2A7cc1pAPtOaKKaCz//2Q==
+ogImage: null
 labels:
   - Bilder
   - bunt
@@ -19,17 +26,12 @@ labels:
   - Hamburg
   - Hamburg
   - schwarz-weiß
-type: Galerie
-typeName: Gedicht
-date: 2017-01-04T15:41:35.000Z
+focusKeyword: Elbe
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "15612"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_01_31951423352_b59d7c51e6_k__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_01_31951423352_b59d7c51e6_k__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBgcE/8QAKRAAAQMDAwMDBQEAAAAAAAAAAQIDBAARIQUGEiIxQQdCURMUYYGRsf/EABcBAQEBAQAAAAAAAAAAAAAAAAIDBAX/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIRAyESEzH/2gAMAwEAAhEDEQA/AOyB6i7TismQ01PT9Q2WG4WU28GxtTuH6lbXkPJaMiVHTbkXZEcpbGL2KgTYmqjp2zNHLZJiSh3HTIeAI8+6oahtvbmlx3ZM7SNRYgx2ypyUH1rSOoDslRVbzyIt/tdDsdbMPBXo1abMhMhSnZLKEJbLhKlgAJ73/lYrvfdMKTOlo09xD8QyOa3krIK0/bhCQgWyOQNyfxarS5sjRiQoR53HHUZTwBB+OqkuobE2+rkpyJLUSkkXkOkm2B3N6ccjT8BLGmqbLrCcUUNKR03scE+f3Td0IVGWhTaVMrCkqbOQoEZv83zRRUioPKJQze4wALEiwGKVz2A7cc1pAPtOaKKaCz//2Q==
 subTitle: Spaziergang an der Elbe
   
 ---

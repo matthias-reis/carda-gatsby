@@ -1,16 +1,23 @@
 ---
-title: Der Herbst im April
-seoTitle: Der Herbst im April - Bild ohne Seerosen
+date: 2013-04-03T14:10:26.000Z
 slug: der-herbst-im-april-ein-bild-ohne-seerosen
 path: /2013/04/der-herbst-im-april-ein-bild-ohne-seerosen/
-fileName: 2013-04---der-herbst-im-april.md
+type: Artikel
+typeName: Artikel
+title: Der Herbst im April
+seoTitle: Der Herbst im April - Bild ohne Seerosen
+ogTitle: Herbst im April - Bild ohne Seerosen
 description: Dieser April treibt schon die verrücktesten Spitzen. Einige träumen
   sogar schon davon, ihre Wolldurch merkwürdige metallene Behältnisse zu
   ersetzen.
 excerpt: Dieser April treibt schon die verrücktesten Spitzen. Einige träumen
   sogar schon davon, ihre Wolldurch merkwürdige metallene Behältnisse zu
   ersetzen.
-focusKeyword: April
+fileName: 2013-04---der-herbst-im-april.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_04_img_8944__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_04_img_8944__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAArEAACAQMDAgUDBQAAAAAAAAABAgMEBREAEiExUQYTFCJBB2GBI1KRocH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEBQL/xAAeEQACAgIDAQEAAAAAAAAAAAABAgADEiEEEfATMf/aAAwDAQACEQMRAD8A0S2zhqM0lTGwgNGzb9nwTyATwev9aQ3u3NaZIpbZGamnqS/lU6A4Qqm4AHB2jAPB7+39umVLd6F6qK1est06x0wZtlQhVudpUNuwST8fzjrrqmSWD0clHP6fzJ1DQOcxuCmNuRxgADvydDqayhs1173cVaiWri24jtNZR3F5IqSeOSohUNNEpJaLJxzx34++n1voJaqQJTJ5jnPCkfHXUJ4IQUn1k8bpuipWqVB8tzmNj+m4H53Mf91aeDb7Q3GOWellmhQSvteePZu9xGOCRn29NXqud9AMtEyLZxcG1sTIK5lpkgUIhWSREAAC7dzbcjHb8av5rRWRWSlq4r9dIy8ggVUZFKswbD5VQTjHQ9zyNGjQXJJ6iQNEySrriUuzXx6eF7vNCqS1OCDKpUDDjOCeBg/YaPAt+njir6WJAlPUVUpcA+4AncADjjBbRo0G0kN1N0MWTI/s/9k=
+ogImage: null
 labels:
   - Banner
   - Berlin
@@ -38,17 +45,12 @@ labels:
   - Winter
   - Wirre Welt Berlin
   - Witterung
-type: Artikel
-typeName: Artikel
-date: 2013-04-03T14:10:26.000Z
+focusKeyword: April
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "5111"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_04_img_8944__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_04_img_8944__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAArEAACAQMDAgUDBQAAAAAAAAABAgMEBREAEiExUQYTFCJBB2GBI1KRocH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEBQL/xAAeEQACAgIDAQEAAAAAAAAAAAABAgADEiEEEfATMf/aAAwDAQACEQMRAD8A0S2zhqM0lTGwgNGzb9nwTyATwev9aQ3u3NaZIpbZGamnqS/lU6A4Qqm4AHB2jAPB7+39umVLd6F6qK1est06x0wZtlQhVudpUNuwST8fzjrrqmSWD0clHP6fzJ1DQOcxuCmNuRxgADvydDqayhs1173cVaiWri24jtNZR3F5IqSeOSohUNNEpJaLJxzx34++n1voJaqQJTJ5jnPCkfHXUJ4IQUn1k8bpuipWqVB8tzmNj+m4H53Mf91aeDb7Q3GOWellmhQSvteePZu9xGOCRn29NXqud9AMtEyLZxcG1sTIK5lpkgUIhWSREAAC7dzbcjHb8av5rRWRWSlq4r9dIy8ggVUZFKswbD5VQTjHQ9zyNGjQXJJ6iQNEySrriUuzXx6eF7vNCqS1OCDKpUDDjOCeBg/YaPAt+njir6WJAlPUVUpcA+4AncADjjBbRo0G0kN1N0MWTI/s/9k=
 subTitle: Ein Bild ohne Seerosen
   
 ---

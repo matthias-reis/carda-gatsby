@@ -1,16 +1,23 @@
 ---
-title: Neue Hausschuhe von Gumbies
-seoTitle: Neue Hausschuhe von Gumbies - Veganer Filz für Herbst und Winter
+date: 2020-10-12T11:19:56.000Z
 slug: gumbies-brumby-vegane-huettenschuhe
 path: /2020/10/gumbies-brumby-vegane-huettenschuhe/
-fileName: 2020-10---neue-hausschuhe-von-gumbies.md
+type: Artikel
+typeName: Artikel
+title: Neue Hausschuhe von Gumbies
+seoTitle: Neue Hausschuhe von Gumbies - Veganer Filz für Herbst und Winter
+ogTitle: Neue Hausschuhe von Gumbies - Veganer Filz für Herbst und Winter
 description: 'Von Gumbies gibt es jetzt etwas Neues: gemütliche Hüttenschuhe.
   Das Material: veganer Fleece. Das neue Modell "Brumby" ist wunderbar warm und
   bequem.'
 excerpt: 'Werbung - Von Gumbies gibt es jetzt etwas Neues: gemütliche
   Hüttenschuhe. Das Material: veganer Fleece. Das neue Modell "Brumby" ist
   wunderbar warm und bequem.'
-focusKeyword: veganer Fleece
+fileName: 2020-10---neue-hausschuhe-von-gumbies.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-04-gumbies-13__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-04-gumbies-13__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAwQH/8QAKhAAAQQBBAECBQUAAAAAAAAAAQIDBBEFAAYSITETQSJhcYGxBxUyUWL/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EACMRAAICAQMDBQAAAAAAAAAAAAECAxEABDFBE5HBISJR0fD/2gAMAwEAAhEDEQA/AJ/AbYisxFrkt0UIKuh0qhf20md/T5nNZuRIU48w20yJEjgm7URXFIHYNAn38fPVy5MUxFVKhcTGbZBLXC23VKUAAR/VHu+qvWfHLViIgmQWV+s9LW0X08lfCpuknkQR8IPSb8Ho6g6jWN03WAUxoA8fJ/fWPTTNayE2o38ZIytqwXchjce1CcSxAcSuQPRPEch1Z8HkSmuz0dKc9tuClC1Rg0tKhYKACK/P511t2Y1+2zZEI2486lERt9sAlaOXpIKE1yBKSn/Ng+PEfuXGQ1Y5UmKtdyD6xUDy4kj+NewFVXf10OTXSzSAv6UAO2Ii06RqQOTffIrPbmgxIsR1NmWltZpKjXfaQfqb1VY3ckTDbchWw05GcSH2pXMlxTpAJpPhJBJ8ew70aNWhCrCGM7WT5wJc1I3NVmvs3PtOYqbkVrQHJT4AR5LfBJTfyJ5H7VpLuPNIJV6L46HkGtGjUt16mpd23vHJ7IlUbVn/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_10_brumby-veganer-fleece-fb.png__l.jpg
 labels:
   - Brumby
   - Fair Fashion & Beauty
@@ -20,17 +27,12 @@ labels:
   - Upcycling
   - vegane Hüttenschuhe
   - veganer Filz
-type: Artikel
-typeName: Artikel
-date: 2020-10-12T11:19:56.000Z
+focusKeyword: veganer Fleece
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31566"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-04-gumbies-13__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-04-gumbies-13__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAwQH/8QAKhAAAQQBBAECBQUAAAAAAAAAAQIDBBEFAAYSITETQSJhcYGxBxUyUWL/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EACMRAAICAQMDBQAAAAAAAAAAAAECAxEABDFBE5HBISJR0fD/2gAMAwEAAhEDEQA/AJ/AbYisxFrkt0UIKuh0qhf20md/T5nNZuRIU48w20yJEjgm7URXFIHYNAn38fPVy5MUxFVKhcTGbZBLXC23VKUAAR/VHu+qvWfHLViIgmQWV+s9LW0X08lfCpuknkQR8IPSb8Ho6g6jWN03WAUxoA8fJ/fWPTTNayE2o38ZIytqwXchjce1CcSxAcSuQPRPEch1Z8HkSmuz0dKc9tuClC1Rg0tKhYKACK/P511t2Y1+2zZEI2486lERt9sAlaOXpIKE1yBKSn/Ng+PEfuXGQ1Y5UmKtdyD6xUDy4kj+NewFVXf10OTXSzSAv6UAO2Ii06RqQOTffIrPbmgxIsR1NmWltZpKjXfaQfqb1VY3ckTDbchWw05GcSH2pXMlxTpAJpPhJBJ8ew70aNWhCrCGM7WT5wJc1I3NVmvs3PtOYqbkVrQHJT4AR5LfBJTfyJ5H7VpLuPNIJV6L46HkGtGjUt16mpd23vHJ7IlUbVn/2Q==
 subTitle: Veganer Filz für Herbst und Winter
   
 ---

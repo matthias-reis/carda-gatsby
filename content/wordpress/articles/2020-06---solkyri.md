@@ -1,16 +1,23 @@
 ---
-title: Solkyri
-seoTitle: Solkyri - "Post-Rock bietet der Phantasie Spielraum"
+date: 2020-06-12T07:00:34.000Z
 slug: solkyri
 path: /2020/06/solkyri/
-fileName: 2020-06---solkyri.md
+type: Artikel
+typeName: Interview
+title: Solkyri
+seoTitle: Solkyri - "Post-Rock bietet der Phantasie Spielraum"
+ogTitle: Solkyri - "Post-Rock bietet der Phantasie Spielraum"
 description: Vor Kurzem veröffentlichte die australische Post-Rock Band Solkyri
   Ihr sensationelles neues Album "Mount Pleasant". Ich habe sie im Interview
   kennengelernt.
 excerpt: English & German - Vor Kurzem veröffentlichte die australische
   Post-Rock Band Solkyri Ihr sensationelles neues Album "Mount Pleasant". Ich
   habe sie im Interview kennengelernt.
-focusKeyword: Solkyri
+fileName: 2020-06---solkyri.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_solkyri-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_solkyri-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcDBAIFBv/EACkQAAIBAgYBAwQDAAAAAAAAAAECAwQRAAUSEyExIgYyQRVRYYFCcZH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQA/8QAJBEAAQMCBQUBAAAAAAAAAAAAAQACEQMFBBIhMVEUIkFxgaH/2gAMAwEAAhEDEQA/AFrl8MUlLPKJ7SxGMCMRk6tRP8uhwCbW5sftfF2ERvA8gqYd1GVdkA6ipv536tcW+/5wtUzKdJn22ZYWkDlQ1rkXAY/nk/7hlZf6qii9D1Rky+H6s0Co87MRrj1i3j1wDa37wus404jWU222rrg/ujIJ5513G330phRzPRTVm1qponWJ3BHDMCR+uO7Y1cxsSLra3AJuRirl+dK1PVyy0qsQNl0LnRYHxcDsHk84zpsv9WzaKJcjneCsC1kDrYq6aT5Bvb7Tzcjq3fGMx2YlTYi3vohpmZHjn8S/kQb7D4N+LfN8V1Z9TxBzpIIwYMUFLY4gGF0Az+lXP5Kg5e7UUujch3NLWAXVYgWHkCevnEFPSwpBQTSVVW0zwvKqMtkUgkWU36/oYMGDTY0AmEcRWe8NBK//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_solkyri-fb.png__l.jpg
 labels:
   - Art As Catharsis
   - Australian Post-Rock
@@ -27,17 +34,12 @@ labels:
   - Post-Rock
   - Solkyri
   - Sydney
-type: Artikel
-typeName: Interview
-date: 2020-06-12T07:00:34.000Z
+focusKeyword: Solkyri
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29860"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_solkyri-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_solkyri-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcDBAIFBv/EACkQAAIBAgYBAwQDAAAAAAAAAAECAwQRAAUSEyExIgYyQRVRYYFCcZH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQA/8QAJBEAAQMCBQUBAAAAAAAAAAAAAQACEQMFBBIhMVEUIkFxgaH/2gAMAwEAAhEDEQA/AFrl8MUlLPKJ7SxGMCMRk6tRP8uhwCbW5sftfF2ERvA8gqYd1GVdkA6ipv536tcW+/5wtUzKdJn22ZYWkDlQ1rkXAY/nk/7hlZf6qii9D1Rky+H6s0Co87MRrj1i3j1wDa37wus404jWU222rrg/ujIJ5513G330phRzPRTVm1qponWJ3BHDMCR+uO7Y1cxsSLra3AJuRirl+dK1PVyy0qsQNl0LnRYHxcDsHk84zpsv9WzaKJcjneCsC1kDrYq6aT5Bvb7Tzcjq3fGMx2YlTYi3vohpmZHjn8S/kQb7D4N+LfN8V1Z9TxBzpIIwYMUFLY4gGF0Az+lXP5Kg5e7UUujch3NLWAXVYgWHkCevnEFPSwpBQTSVVW0zwvKqMtkUgkWU36/oYMGDTY0AmEcRWe8NBK//2Q==
 subTitle: '"Post-Rock bietet der Phantasie Spielraum"'
   
 ---

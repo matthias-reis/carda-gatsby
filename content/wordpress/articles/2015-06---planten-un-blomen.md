@@ -1,15 +1,22 @@
 ---
-title: Planten un Blomen
-seoTitle: Planten un Blomen - Hamburgs grüner Fluss
+date: 2015-06-18T19:22:03.000Z
 slug: planten-un-blomen
 path: /2015/06/planten-un-blomen/
-fileName: 2015-06---planten-un-blomen.md
+type: Galerie
+typeName: Galerie
+title: Planten un Blomen
+seoTitle: Planten un Blomen - Hamburgs grüner Fluss
+ogTitle: Planten un Blomen
 description: Planten un Blomen - Zwischen St. Pauli und der Neustadt befindet
   sich Hamburg grüner Fluss
 excerpt: Kennt Ihr schon Planten un Blomen? Dabei handelt sich um ein grünes
   Universum, dass sich zwischen dem Congress Center Hamburg  und dem
   Millerntor-Stadion erstreckt.
-focusKeyword: Planten un Blomen
+fileName: 2015-06---planten-un-blomen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_06_18868417676_d995e43098_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_06_18868417676_d995e43098_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCBAMGB//EACgQAAIBAgUDBQADAAAAAAAAAAECAwQRAAUGEiETMUEVIlFhcRQysf/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQIG/8QAIxEAAQMDAwUBAAAAAAAAAAAAAQIDEQAEIRIxcQVRYZHBsf/aAAwDAQACEQMRAD8Aq0WpYc3qXmkl/iw9RTKbcRMWsX29wrFdw8fNsZqnMsnyTLMzimzKqr6HL4x1aOAsjuJedpN/dfcSew/zFWWmSWjnr0XrFXiSSDpIqE9tocqjlizfh3G98IK/UNbSmprK2kgp4QCaRo06kg5F0dDwx5JB48/WGek2FuVuXCBp1bjeMTzgjEdyI2ipZtNPy4nA/MTzXTcr1dltNFQVuUMki+nl6elkWzRgEXZQbf1tz9r94Ra114uc0ie2KeljEUk1wybmbjfuvxY29p+fHnQ8uzSjz2uTOHFQucqhRIdmxSq+4JbkC5H5+4VStX12qZJqFZZFkjkhELFYViQhiQNxAA8g9jfDt1bWzEPhsKJnv4zHvit3TbdskLSAZmm4bMMyjzWqmrUaGgqVp4oHgVgdpI3E8Xb2XB8E4u6K0tBq571FVPA1HU2O0K4kNx8i9vokjv8AODBiO24tCiEkgHeMVz6HnG5CFEDxUdO6bvms1TmFY1TIiMBsjEQYBjwwB5Hf8wh18EpK6m9Mjjo4YEkboBd6blUcgNe3fsbi9zbnBgwQLU62pSzMDHtI+0dpxToUXDMD6K//2Q==
+ogImage: null
 labels:
   - Botanik
   - Botanische Gärten
@@ -26,17 +33,12 @@ labels:
   - Parks in Hamburg
   - Pflanzen
   - Planten un Blomen
-type: Galerie
-typeName: Galerie
-date: 2015-06-18T19:22:03.000Z
+focusKeyword: Planten un Blomen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "12022"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_06_18868417676_d995e43098_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_06_18868417676_d995e43098_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCBAMGB//EACgQAAIBAgUDBQADAAAAAAAAAAECAwQRAAUGEiETMUEVIlFhcRQysf/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQIG/8QAIxEAAQMDAwUBAAAAAAAAAAAAAQIDEQAEIRIxcQVRYZHBsf/aAAwDAQACEQMRAD8Aq0WpYc3qXmkl/iw9RTKbcRMWsX29wrFdw8fNsZqnMsnyTLMzimzKqr6HL4x1aOAsjuJedpN/dfcSew/zFWWmSWjnr0XrFXiSSDpIqE9tocqjlizfh3G98IK/UNbSmprK2kgp4QCaRo06kg5F0dDwx5JB48/WGek2FuVuXCBp1bjeMTzgjEdyI2ipZtNPy4nA/MTzXTcr1dltNFQVuUMki+nl6elkWzRgEXZQbf1tz9r94Ra114uc0ie2KeljEUk1wybmbjfuvxY29p+fHnQ8uzSjz2uTOHFQucqhRIdmxSq+4JbkC5H5+4VStX12qZJqFZZFkjkhELFYViQhiQNxAA8g9jfDt1bWzEPhsKJnv4zHvit3TbdskLSAZmm4bMMyjzWqmrUaGgqVp4oHgVgdpI3E8Xb2XB8E4u6K0tBq571FVPA1HU2O0K4kNx8i9vokjv8AODBiO24tCiEkgHeMVz6HnG5CFEDxUdO6bvms1TmFY1TIiMBsjEQYBjwwB5Hf8wh18EpK6m9Mjjo4YEkboBd6blUcgNe3fsbi9zbnBgwQLU62pSzMDHtI+0dpxToUXDMD6K//2Q==
 subTitle: Hamburgs grüner Fluss
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: Dieser Song ist für Dich
-seoTitle: Herbstliche Schreibblockade - Dieser Song ist für Dich
+date: 2013-10-17T10:49:01.000Z
 slug: dieser-song-ist-fur-dich-herbstliche-schreibblockade
 path: /2013/10/dieser-song-ist-fur-dich-herbstliche-schreibblockade/
-fileName: 2013-10---dieser-song-ist-fuer-dich.md
+type: Artikel
+typeName: Artikel
+title: Dieser Song ist für Dich
+seoTitle: Herbstliche Schreibblockade - Dieser Song ist für Dich
+ogTitle: Herbstliche Schreibblockade - Dieser Song ist für Dich
 description: Im Moment scheine ich an einer echten Schreibblockade zu leiden.
   Doch woher kommt Sie und wie geht sie wieder weg? Dieser Song ist für Dich,
   mein Herz.
 excerpt: Im Moment scheine ich an einer echten Schreibblockade zu leiden. Doch
   woher kommt Sie und wie geht sie wieder weg? Dieser Song ist für Dich, mein
   Herz.
-focusKeyword: Schreibblockade
+fileName: 2013-10---dieser-song-ist-fuer-dich.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_10_p1000534__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_10_p1000534__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQEDCP/EACcQAAIBAwEIAgMAAAAAAAAAAAECAwAEERIFEyExQVFhcQYjFKHw/8QAGAEBAAMBAAAAAAAAAAAAAAAABAECAwX/xAAiEQACAgEDBAMAAAAAAAAAAAABAgARAwQTMSEiQbESUcH/2gAMAwEAAhEDEQA/AOeLC4e0u4Z4WKyRkMCDTDcwy7dWS8C/ZnJx+zSxHx5An0Kc/hF7HahjMAIjw1H+910cuIhd7GtsPXmP0Dh22Mh7T7ipcWzRSFWXiKzDatM+AMe6v9qXVptZvyLSJ4YA5B1nJx381STz7pSI+XInvTKBT5V1hnxoj82siPJ9LhSFDkdSBjpUtb5RbQRhoTofUxIbUcdCeRHoUUVidS69B5FfsMEF39TZdbUe9u2lnmU63LkRrhVzgYA7YAqHK8Txk7xS3M6QfHiiioGcqoFcy57uZ//Z
+ogImage: null
 labels:
   - Der Song
   - Geschichten & Erlebtes
@@ -25,17 +32,12 @@ labels:
   - Schreibblockade
   - Statusnachricht
   - Tagebuch
-type: Artikel
-typeName: Artikel
-date: 2013-10-17T10:49:01.000Z
+focusKeyword: Schreibblockade
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "7391"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_10_p1000534__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_10_p1000534__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQEDCP/EACcQAAIBAwEIAgMAAAAAAAAAAAECAwAEERIFEyExQVFhcQYjFKHw/8QAGAEBAAMBAAAAAAAAAAAAAAAABAECAwX/xAAiEQACAgEDBAMAAAAAAAAAAAABAgARAwQTMSEiQbESUcH/2gAMAwEAAhEDEQA/AOeLC4e0u4Z4WKyRkMCDTDcwy7dWS8C/ZnJx+zSxHx5An0Kc/hF7HahjMAIjw1H+910cuIhd7GtsPXmP0Dh22Mh7T7ipcWzRSFWXiKzDatM+AMe6v9qXVptZvyLSJ4YA5B1nJx381STz7pSI+XInvTKBT5V1hnxoj82siPJ9LhSFDkdSBjpUtb5RbQRhoTofUxIbUcdCeRHoUUVidS69B5FfsMEF39TZdbUe9u2lnmU63LkRrhVzgYA7YAqHK8Txk7xS3M6QfHiiioGcqoFcy57uZ//Z
 subTitle: Herbstliche Schreibblockade
   
 ---

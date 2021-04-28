@@ -1,13 +1,20 @@
 ---
-title: Die Post ist da!
-seoTitle: Die Post ist da!
+date: 2013-06-03T15:50:56.000Z
 slug: die-post-ist-da-neue-schallplatten-in-meiner-sammlung
 path: /2013/06/die-post-ist-da-neue-schallplatten-in-meiner-sammlung/
-fileName: 2013-06---die-post-ist-da.md
+type: Artikel
+typeName: Artikel
+title: Die Post ist da!
+seoTitle: Die Post ist da!
+ogTitle: Die Post ist da!
 description: ""
 excerpt: Bereits letzte Woche Mittwoch hatte der Schallplattenhändler meines
   Vertrauens ein Paket für mich aufgegeben.
-focusKeyword: ""
+fileName: 2013-06---die-post-ist-da.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_4216__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_4216__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwME/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQMCAAQRBQYhEiIxE0GBUXGhUmGRweH/xAAYAQEAAwEAAAAAAAAAAAAAAAADAAEEBf/EACgRAAICAAQCCwAAAAAAAAAAAAECAAMEBREhYXESExQiIzFBUbHB8P/aAAwDAQACEQMRAD8A03Wdy22jWjF28ZRnG261jHgmPb8ZpVp28tQuytLZaeuU+wMZ2jP7kkD2/mp3fF+ldqyM2gXD1QitZ8mIlz+KgdavwLa3UMFjGAQB9zj/AEUdh76qPWdnBVJ2C291GqnTU8hw4y717cU5X95BDLK46JgFsIHuGByAZED6H7Gn+19xLu9qFeoTRb+kxsZNDIqGeOkcnziX4rE0Ofaaktd0piS6BAE44yMkZHzEj7ginOl3PSbiPGSQaFmNT6iOErxOW9Z0QGU7kD97iebXHNZKzayfUemWB7c4NRu7rhy3WFwqYjNUuuGRkCUSJfPtRRUU+IIiKDlNnP7WdNV3dc6/eac5luu3imbJwWviMfUcZkDjxkmntq+UXNI/T/dFFXiNyJny7bBXKPLb5n//2Q==
+ogImage: null
 labels:
   - Bands
   - Boot Boo Hook
@@ -44,17 +51,12 @@ labels:
   - Vinyl
   - White Orchid
   - You Already Have A Home
-type: Artikel
-typeName: Artikel
-date: 2013-06-03T15:50:56.000Z
+focusKeyword: ""
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "5560"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_4216__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_4216__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwME/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQMCAAQRBQYhEiIxE0GBUXGhUmGRweH/xAAYAQEAAwEAAAAAAAAAAAAAAAADAAEEBf/EACgRAAICAAQCCwAAAAAAAAAAAAECAAMEBREhYXESExQiIzFBUbHB8P/aAAwDAQACEQMRAD8A03Wdy22jWjF28ZRnG261jHgmPb8ZpVp28tQuytLZaeuU+wMZ2jP7kkD2/mp3fF+ldqyM2gXD1QitZ8mIlz+KgdavwLa3UMFjGAQB9zj/AEUdh76qPWdnBVJ2C291GqnTU8hw4y717cU5X95BDLK46JgFsIHuGByAZED6H7Gn+19xLu9qFeoTRb+kxsZNDIqGeOkcnziX4rE0Ofaaktd0piS6BAE44yMkZHzEj7ginOl3PSbiPGSQaFmNT6iOErxOW9Z0QGU7kD97iebXHNZKzayfUemWB7c4NRu7rhy3WFwqYjNUuuGRkCUSJfPtRRUU+IIiKDlNnP7WdNV3dc6/eac5luu3imbJwWviMfUcZkDjxkmntq+UXNI/T/dFFXiNyJny7bBXKPLb5n//2Q==
 subTitle: Neue Schallplatten in meiner Sammlung
   
 ---

@@ -1,15 +1,22 @@
 ---
-title: Curls & Nods im Interview
-seoTitle: Curls & Nods im Interview - jazzy Vibes aus Münster
+date: 2019-11-20T17:27:17.000Z
 slug: curls-nods-im-interview
 path: /2019/11/curls-nods-im-interview/
-fileName: 2019-11---curls-und-nods-im-interview.md
+type: Artikel
+typeName: Interview
+title: Curls & Nods im Interview
+seoTitle: Curls & Nods im Interview - jazzy Vibes aus Münster
+ogTitle: Curls & Nods im Interview - jazzy Vibes aus Münster
 description: Curls & Nods haben mich mit ihrem genialen Sound sofort in ihren
   Bann gezogen. Jetzt haben sich Baronski und derkalavier meinem Interview
   gestellt.
 excerpt: Curls & Nods haben mich mit ihrem genialen Sound sofort in ihren Bann
   gezogen. Jetzt haben sich Baronski und derkalavier meinem Interview gestellt.
-focusKeyword: Curls & Nods
+fileName: 2019-11---curls-und-nods-im-interview.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-1-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-1-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAcI/8QAKRAAAgEDAwQBAwUAAAAAAAAAAQIDBAURABIhBhMxQWEHFCIWI2LB8P/EABgBAAMBAQAAAAAAAAAAAAAAAAQFBgID/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAESEDBBNRIqHB/9oADAMBAAIRAxEAPwDJ6WjoNiiSBJJHP4govnHjkat1FniKOEoIw4wSoVCy++VHI00wolohrrjAFnlmVqCBl3bkkkQHaV2nb3F4D8gAEZGdL3SNqpm6ZrIIqAG80skkz1qR/vRyoeIwxIJ3cYHsMeDoZ9wVN11NaO05FGc5ifBDIzE4Z5N5z7ydTX0y9slEBHv+Pxp7u3046pttinvlVZ3joSveenWUGohQ4/J4xyFHv2PYGkSc/cCOODAMjKgAPGTx/enIYPkRKyOrUZ1LZ7X+mTW1VddaSP7mBaWnmgjfb3PybDj1xkA+DyNM1xlsd2vFskqZlq1tWySlCklDIYwNzgeMc43YGT8aNGp7Raiw7H2UxJ4FrFE+5bu1zJlgnp6mFChIBYcMD5BHn/fOsc6x6E6ZlqJq21FbbWGQzL2uIlf4X0M849aNGunIynxMBZQwoz//2Q==
+ogImage: null
 labels:
   - Bands
   - Baronski
@@ -40,17 +47,12 @@ labels:
   - Trust in Wax
   - Vinyl
   - Vinyladdict
-type: Artikel
-typeName: Interview
-date: 2019-11-20T17:27:17.000Z
+focusKeyword: Curls & Nods
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "26907"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-1-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-1-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAcI/8QAKRAAAgEDAwQBAwUAAAAAAAAAAQIDBAURABIhBhMxQWEHFCIWI2LB8P/EABgBAAMBAQAAAAAAAAAAAAAAAAQFBgID/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAESEDBBNRIqHB/9oADAMBAAIRAxEAPwDJ6WjoNiiSBJJHP4govnHjkat1FniKOEoIw4wSoVCy++VHI00wolohrrjAFnlmVqCBl3bkkkQHaV2nb3F4D8gAEZGdL3SNqpm6ZrIIqAG80skkz1qR/vRyoeIwxIJ3cYHsMeDoZ9wVN11NaO05FGc5ifBDIzE4Z5N5z7ydTX0y9slEBHv+Pxp7u3046pttinvlVZ3joSveenWUGohQ4/J4xyFHv2PYGkSc/cCOODAMjKgAPGTx/enIYPkRKyOrUZ1LZ7X+mTW1VddaSP7mBaWnmgjfb3PybDj1xkA+DyNM1xlsd2vFskqZlq1tWySlCklDIYwNzgeMc43YGT8aNGp7Raiw7H2UxJ4FrFE+5bu1zJlgnp6mFChIBYcMD5BHn/fOsc6x6E6ZlqJq21FbbWGQzL2uIlf4X0M849aNGunIynxMBZQwoz//2Q==
 subTitle: Jazzy Vibes aus Münster
   
 ---

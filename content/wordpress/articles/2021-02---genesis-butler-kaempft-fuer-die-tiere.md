@@ -1,14 +1,21 @@
 ---
-title: Genesis Butler kämpft für die Tiere
-seoTitle: Genesis Butler kämpft für die Tiere – Junge Aktivistin zeigt es allen
+date: 2021-02-13T17:07:04.000Z
 slug: genesis-butler-vegane-aktivistin
 path: /2021/02/genesis-butler-vegane-aktivistin/
-fileName: 2021-02---genesis-butler-kaempft-fuer-die-tiere.md
+type: Artikel
+typeName: Artikel
+title: Genesis Butler kämpft für die Tiere
+seoTitle: Genesis Butler kämpft für die Tiere – Junge Aktivistin zeigt es allen
+ogTitle: Genesis Butler kämpft für die Tiere – Junge Aktivistin zeigt es allen
 description: Die 14-jährige Tierrechtsaktivistin Genesis Butler hat in ihrem
   Leben bisher schon mehr erreicht als die meisten Erwachsenen.
 excerpt: Die 14-jährige Tierrechtsaktivistin Genesis Butler hat in ihrem Leben
   bisher schon mehr erreicht als die meisten Erwachsenen.
-focusKeyword: Genesis Butler
+fileName: 2021-02---genesis-butler-kaempft-fuer-die-tiere.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_genesis-butler-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_genesis-butler-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAoEAABAwQBBAIBBQAAAAAAAAABAgMEAAURIQYSEzFBFCIjMlFhcZH/xAAXAQADAQAAAAAAAAAAAAAAAAACBAUD/8QAIhEAAAQGAwEBAAAAAAAAAAAAAAECEQMEEiExQRNhoRRx/9oADAMBAAIRAxEAPwCT824c/Z5cKddsth9bSVqwS2Mpz0n3kDzr+q6/OLDd2pcGU1Y+zHmNocbQygobUOhIJCTtJ9kEA+8bqhcV5W9dbdBDcCJeYqAgSBJdHyGlg7HSvXjxTBynn6/m3BiG0pthicplJcSlQ/G19s+dlRI8+BQxaKOYjbTd7AweYlfKoiPb9aP8CDGjW60wHQxZy46yFLS5KS2ruqG99O8axgbwRU0iXtN65Gl2LFetrSzqPHeyhOtgEpKsH+ScVeIkpFxtbz1xTCddISkKW0gJyoE4GB7GBUD5lHRbb5cxaYjBtipTjLLbSiekDBI0cjCgR59VNlzUp3uKkWlLNYONgns2hDDfHoL8qS99ZDj4LgcGj9iNADf+1qs6BZFTY9yaees89/vuIjtlZjqJyFIR+oYOv2Ioop6fUSo6ktlvMBaRdMFJvh/cjLyO/kGzItUa6KiRlhcpvsdJWAQQEkecDIGcea6CJNtbkJXD49MQ442XlhUUJSgqySkpAI97xk7oopdJ0JsNjKtVx//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_genesis-butler-fb.png__l.jpg
 labels:
   - Cesar Chavez
   - Genesis Butler
@@ -18,17 +25,12 @@ labels:
   - Tierrechte
   - vegan
   - Vegane Aktivisten
-type: Artikel
-typeName: Artikel
-date: 2021-02-13T17:07:04.000Z
+focusKeyword: Genesis Butler
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32877"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_genesis-butler-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_genesis-butler-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAoEAABAwQBBAIBBQAAAAAAAAABAgMEAAURIQYSEzFBFCIjMlFhcZH/xAAXAQADAQAAAAAAAAAAAAAAAAACBAUD/8QAIhEAAAQGAwEBAAAAAAAAAAAAAAECEQMEEiExQRNhoRRx/9oADAMBAAIRAxEAPwCT824c/Z5cKddsth9bSVqwS2Mpz0n3kDzr+q6/OLDd2pcGU1Y+zHmNocbQygobUOhIJCTtJ9kEA+8bqhcV5W9dbdBDcCJeYqAgSBJdHyGlg7HSvXjxTBynn6/m3BiG0pthicplJcSlQ/G19s+dlRI8+BQxaKOYjbTd7AweYlfKoiPb9aP8CDGjW60wHQxZy46yFLS5KS2ruqG99O8axgbwRU0iXtN65Gl2LFetrSzqPHeyhOtgEpKsH+ScVeIkpFxtbz1xTCddISkKW0gJyoE4GB7GBUD5lHRbb5cxaYjBtipTjLLbSiekDBI0cjCgR59VNlzUp3uKkWlLNYONgns2hDDfHoL8qS99ZDj4LgcGj9iNADf+1qs6BZFTY9yaees89/vuIjtlZjqJyFIR+oYOv2Ioop6fUSo6ktlvMBaRdMFJvh/cjLyO/kGzItUa6KiRlhcpvsdJWAQQEkecDIGcea6CJNtbkJXD49MQ442XlhUUJSgqySkpAI97xk7oopdJ0JsNjKtVx//Z
 subTitle: Junge Aktivistin zeigt es allen
   
 ---

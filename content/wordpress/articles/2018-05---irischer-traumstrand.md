@@ -1,14 +1,21 @@
 ---
-title: Irischer Traumstrand
-seoTitle: Irischer Traumstrand - Location wird nicht verraten
+date: 2018-05-20T15:57:05.000Z
 slug: irischer-traumstrand
 path: /2018/05/irischer-traumstrand/
-fileName: 2018-05---irischer-traumstrand.md
+type: Artikel
+typeName: Artikel
+title: Irischer Traumstrand
+seoTitle: Irischer Traumstrand - Location wird nicht verraten
+ogTitle: Irischer Traumstrand - Location wird nicht verraten
 description: Wo sich dieser Traumstrand befindet, wird nicht verraten. Ich lade
   Euch trotzdem dazu ein, die Aussicht mit mir zu genießen.
 excerpt: Wo sich dieser Traumstrand befindet, wird nicht verraten. Ich lade Euch
   trotzdem dazu ein, die Aussicht mit mir zu genießen.
-focusKeyword: Traumstrand
+fileName: 2018-05---irischer-traumstrand.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38453921960_1db9feb646_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38453921960_1db9feb646_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QALRAAAgECBQEFCQEAAAAAAAAAAQIDAAQFBhESITETIiNBgRRCYXGRobHB0eH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMA/8QAGhEBAQACAwAAAAAAAAAAAAAAAAECQRESgf/aAAwDAQACEQMRAD8Au+DZKtJYFHZRl9vBYkH7dKe2GTVszqqqwPmJVP6rJ8Oz3cpaxpYWlyp0Gpmk0A9F6/Wm0Gd8Ycjwo3B8jI39p/StaGHIiASXRTTy7p/BrniWJwRxFfaIyoHIY81kkmbcZeXlIgSOnbf7SvFMx47sJVLJdBqfe4+etGTHdbtdRCwFLWS2R2tItV5q32kMDzHwtvA4Vyq8fAGiio8KJLRhUXZHBoD3d0ZYj1JpBi+9VlmC2yv0JW3QEj11ooowY//Z
+ogImage: null
 labels:
   - Beach
   - Britische Inseln
@@ -19,17 +26,12 @@ labels:
   - Reisen
   - The Beach
   - Traumstrand
-type: Artikel
-typeName: Artikel
-date: 2018-05-20T15:57:05.000Z
+focusKeyword: Traumstrand
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "19831"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38453921960_1db9feb646_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38453921960_1db9feb646_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QALRAAAgECBQEFCQEAAAAAAAAAAQIDAAQFBhESITETIiNBgRRCYXGRobHB0eH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMA/8QAGhEBAQACAwAAAAAAAAAAAAAAAAECQRESgf/aAAwDAQACEQMRAD8Au+DZKtJYFHZRl9vBYkH7dKe2GTVszqqqwPmJVP6rJ8Oz3cpaxpYWlyp0Gpmk0A9F6/Wm0Gd8Ycjwo3B8jI39p/StaGHIiASXRTTy7p/BrniWJwRxFfaIyoHIY81kkmbcZeXlIgSOnbf7SvFMx47sJVLJdBqfe4+etGTHdbtdRCwFLWS2R2tItV5q32kMDzHwtvA4Vyq8fAGiio8KJLRhUXZHBoD3d0ZYj1JpBi+9VlmC2yv0JW3QEj11ooowY//Z
 subTitle: Ein Ort der Ruhe
   
 ---

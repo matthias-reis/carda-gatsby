@@ -1,32 +1,34 @@
 ---
-title: '"Valentines Day meets Halloween"'
-seoTitle: Ryan von The Camel City Blackouts - "Valentines Day meets Halloween"
+date: 2021-03-17T05:30:30.000Z
 slug: camel-city-blackouts-interview
 path: /2021/03/camel-city-blackouts-interview/
-fileName: 2021-03---valentines-day-meets-halloween.md
+type: Artikel
+typeName: Interview
+title: '"Valentines Day meets Halloween"'
+seoTitle: Ryan von The Camel City Blackouts - "Valentines Day meets Halloween"
+ogTitle: Ryan von The Camel City Blackouts - "Valentines Day meets Halloween"
 description: The Camel City Blackouts gründeten sich 2015. Jetzt haben Ryan und
   Derek ihre neue EP "13" veröffentlicht. Ich habe Ryan dazu interviewt.
 excerpt: English & German – The Camel City Blackouts gründeten sich 2015. Jetzt
   haben Ryan und Derek ihre neue EP "13" veröffentlicht. Ich habe Ryan dazu
   interviewt.
-focusKeyword: The Camel City Blackouts
+fileName: 2021-03---valentines-day-meets-halloween.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-camel-city-blackouts__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-camel-city-blackouts__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcI/8QAKBAAAQMDAwQCAgMAAAAAAAAAAQIDBAAFEQYSIRMiMWEUUUGRMlKB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgQD/8QAGhEBAQEAAwEAAAAAAAAAAAAAAQARAhIhA//aAAwDAQACEQMRAD8AeaL1xcbB07fqdb9xtaQEtzykqkR8JTkOgcuoBVjeO4Y53Vd73cVSJAetlxWqIpkFKoz3Yo85Ix+awOZq2DCigtz/AJCHHEtlptKsoSUpBUNyccAE8f2qrXrWc6TPQ/bpT0d9tsJcUSjBIOO07QR24H7o9Vl2C6xump49pjSTISS5HgtyEFSgOs4ofwHvwf39VgN66jr7j858iXJWXHHieEnclRHoY448590o0zqvU1ylF+7XvrMdJUfc+2l3p9iingY87dv+0sXeeg0It5kuqeaWVKyO5TZHakH8YwBz9UOQjhUfIM1l2r7s3c2rc8GFNlpZC9z2/g7fQAzj3S7S5UjVEeWyhJSw4qQkLSCFJSSMYPB80UVRlFvtadTzFIn3BaIoZcmyRKW8t4FfCCnpBI7doJJyPQqFYb67GurF1u8qS/8AFZMFtLbKFb2/KQslQzjP1ngc0UUQ8tuS5f/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-camel-city-blackouts-fb.png__l.jpg
 labels:
   - Bands
   - English & German
   - Interview
   - Punk
   - The Camel Black Outs
-type: Artikel
-typeName: Interview
-date: 2021-03-17T05:30:30.000Z
+focusKeyword: The Camel City Blackouts
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33459"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-camel-city-blackouts__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-camel-city-blackouts__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcI/8QAKBAAAQMDAwQCAgMAAAAAAAAAAQIDBAAFEQYSIRMiMWEUUUGRMlKB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgQD/8QAGhEBAQEAAwEAAAAAAAAAAAAAAQARAhIhA//aAAwDAQACEQMRAD8AeaL1xcbB07fqdb9xtaQEtzykqkR8JTkOgcuoBVjeO4Y53Vd73cVSJAetlxWqIpkFKoz3Yo85Ix+awOZq2DCigtz/AJCHHEtlptKsoSUpBUNyccAE8f2qrXrWc6TPQ/bpT0d9tsJcUSjBIOO07QR24H7o9Vl2C6xump49pjSTISS5HgtyEFSgOs4ofwHvwf39VgN66jr7j858iXJWXHHieEnclRHoY448590o0zqvU1ylF+7XvrMdJUfc+2l3p9iingY87dv+0sXeeg0It5kuqeaWVKyO5TZHakH8YwBz9UOQjhUfIM1l2r7s3c2rc8GFNlpZC9z2/g7fQAzj3S7S5UjVEeWyhJSw4qQkLSCFJSSMYPB80UVRlFvtadTzFIn3BaIoZcmyRKW8t4FfCCnpBI7doJJyPQqFYb67GurF1u8qS/8AFZMFtLbKFb2/KQslQzjP1ngc0UUQ8tuS5f/Z
 subTitle: Ryan von The Camel City Blackouts
   
 ---

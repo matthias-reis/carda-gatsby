@@ -1,13 +1,20 @@
 ---
-title: Istanbul mit anderen Augen
-seoTitle: Istanbul mit anderen Augen - Mehr als eine Liebesgeschichte
+date: 2013-06-05T16:37:14.000Z
 slug: istanbul-mit-anderen-augen
 path: /2013/06/istanbul-mit-anderen-augen/
-fileName: 2013-06---istanbul-mit-anderen-augen.md
+type: Artikel
+typeName: Artikel
+title: Istanbul mit anderen Augen
+seoTitle: Istanbul mit anderen Augen - Mehr als eine Liebesgeschichte
+ogTitle: Istanbul mit anderen Augen - Mehr als eine Liebesgeschichte
 description: Die beiden Filmemacherinnen Marie und Caro zeigen uns ihr Istanbul
 excerpt: '"Istanbul mit anderen Augen" ist ein Filmprojekt der beiden
   Filmemacherinnen Carolin Winterholler und Marie Hartlieb.'
-focusKeyword: Istanbul
+fileName: 2013-06---istanbul-mit-anderen-augen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_06_216296_632851216742650_445307902_n__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_06_216296_632851216742650_445307902_n__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBggF/8QAKhAAAgIBAwIFAwUAAAAAAAAAAQIDBBEABSEGEgcxQVGBExRxIiMyscH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/xAAeEQABAgcBAAAAAAAAAAAAAAAAAQMCERITMTJBIf/aAAwDAQACEQMRAD8Ac1jfenaNaSe89mGvEvdJM5UIg9yc8Dkak2992+eqlWKpYngXPJV+Pb8/5rLPiX1hdu9JLVkggryNYieT6J4YKSe08cjOD5+g0z6PWyWdpi3GCOyasoDs6IrhCR5MAcj5AGmicr7MNG6eFi3OvVZ2kb7qHn+AU4+M6jV1rRT9zQyOEbBWU/3jXEudWWTD9R44sAcmWr3HHwTqHV8S0hm7oht+Qcd32BGfTjGtuLIkg9En1wzCghDEESqQQfzrQ/UH7O47TJF+iR50jZl4LKV5Un2Pto0aFnA7uwufEdVrdTWErqIkkjUuqDtDHPqB56qNEk3UUnKnOR6eR0aNauSTU//Z
+ogImage: null
 labels:
   - Antifaschismus & Feminismus
   - Bücher & Filme
@@ -21,18 +28,13 @@ labels:
   - Protest
   - Taksim
   - Türkei
-type: Artikel
-typeName: Artikel
-date: 2013-06-05T16:37:14.000Z
+focusKeyword: Istanbul
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "5624"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_06_216296_632851216742650_445307902_n__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_06_216296_632851216742650_445307902_n__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBggF/8QAKhAAAgIBAwIFAwUAAAAAAAAAAQIDBBEABSEGEgcxQVGBExRxIiMyscH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/xAAeEQABAgcBAAAAAAAAAAAAAAAAAQMCERITMTJBIf/aAAwDAQACEQMRAD8Ac1jfenaNaSe89mGvEvdJM5UIg9yc8Dkak2992+eqlWKpYngXPJV+Pb8/5rLPiX1hdu9JLVkggryNYieT6J4YKSe08cjOD5+g0z6PWyWdpi3GCOyasoDs6IrhCR5MAcj5AGmicr7MNG6eFi3OvVZ2kb7qHn+AU4+M6jV1rRT9zQyOEbBWU/3jXEudWWTD9R44sAcmWr3HHwTqHV8S0hm7oht+Qcd32BGfTjGtuLIkg9En1wzCghDEESqQQfzrQ/UH7O47TJF+iR50jZl4LKV5Un2Pto0aFnA7uwufEdVrdTWErqIkkjUuqDtDHPqB56qNEk3UUnKnOR6eR0aNauSTU//Z
 subTitle: Ein Filmprojekt
   
 ---

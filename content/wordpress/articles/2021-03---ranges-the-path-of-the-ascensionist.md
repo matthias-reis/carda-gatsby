@@ -1,15 +1,22 @@
 ---
-title: 'Ranges: "The Path Of The Ascensionist"'
-seoTitle: 'Ranges: "The Path Of The Ascensionist" – nicht nur eine Album-Reihe'
+date: 2021-03-16T12:32:15.000Z
 slug: ranges-the-path-of-the-ascensionist
 path: /2021/03/ranges-the-path-of-the-ascensionist/
-fileName: 2021-03---ranges-the-path-of-the-ascensionist.md
+type: Artikel
+typeName: Review
+title: 'Ranges: "The Path Of The Ascensionist"'
+seoTitle: 'Ranges: "The Path Of The Ascensionist" – nicht nur eine Album-Reihe'
+ogTitle: 'Ranges: "The Path Of The Ascensionist" – nicht nur eine Album-Reihe'
 description: Ranges haben mit ihrer Kassetten-Reihe "The Path Of The
   Ascensionist" ein echtes Heldenepos geschaffen, das Seinesgleichen sucht.
 excerpt: Ranges haben mit ihrer Kassetten-Reihe "The Path Of The Ascensionist"
   ein echtes Heldenepos geschaffen. Erst war es nur einer erlesenen Gruppe von
   Musikfans auf zugänglich. Nun kann es die ganze Welt auch online bewundern.
-focusKeyword: Ascensionist
+fileName: 2021-03---ranges-the-path-of-the-ascensionist.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_Ascensionist-Ranges__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_Ascensionist-Ranges__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAIEBQcGCP/EACcQAAEDAwQCAgIDAAAAAAAAAAECAwQFESEABhIxE0EiUWGBByMy/8QAFgEBAQEAAAAAAAAAAAAAAAAABAAD/8QAGhEBAAMAAwAAAAAAAAAAAAAAAAERIQIxQf/aAAwDAQACEQMRAD8AxGkh1cVTLK21JkvLaLbubkJBSe74Nz+tJWYtQht02fMSkvSGkPqcSq/Mk3BXbAPEpH5701NbfjU56QW1OoVxsAbCxXZQ/ec4/wA/jUufGkO09cLg8gQ3AoxwslIuorKQPXxKQNSbZ/EO/H6vUZStz1KgQ6fxK/GpBZkFWCFJsCCgC4JUR2NX2+J8KoTIceDV4U+noR5m3I01BdWs4Uf68C10pSD38u7apJ0enwavUIe2qdHpcadShHktMrvKCCoqUSski+UoA7Ob3wNdC5t2nUqj1NiBHdYqDKGnZU1uCUh1o4DKHOPFR5Acki3vrRuuNQ39uXmqAJ1W8zipKLJPErddA9WA4/Q5Xvb9/c6c/Mpzsl9fjfXPcT5pDTiQfIe1JAyPfrOb96NGksG27lp06i7hWpTiFOBC1RykcG5SLgWODZSR69W+jfSbj3U5PiwqdDp64jbUFSQ446Ejl8BckE8yOJFyM8iQPejRok5hUbr/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_ranges-ascensionist-fb.png__l.jpg
 labels:
   - A Thousand Arms Music
   - Alchemy
@@ -26,17 +33,12 @@ labels:
   - Ranges
   - Soundscape
   - Tapes
-type: Artikel
-typeName: Review
-date: 2021-03-16T12:32:15.000Z
+focusKeyword: Ascensionist
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33444"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_Ascensionist-Ranges__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_Ascensionist-Ranges__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAIEBQcGCP/EACcQAAEDAwQCAgIDAAAAAAAAAAECAwQFESEABhIxE0EiUWGBByMy/8QAFgEBAQEAAAAAAAAAAAAAAAAABAAD/8QAGhEBAAMAAwAAAAAAAAAAAAAAAAERIQIxQf/aAAwDAQACEQMRAD8AxGkh1cVTLK21JkvLaLbubkJBSe74Nz+tJWYtQht02fMSkvSGkPqcSq/Mk3BXbAPEpH5701NbfjU56QW1OoVxsAbCxXZQ/ec4/wA/jUufGkO09cLg8gQ3AoxwslIuorKQPXxKQNSbZ/EO/H6vUZStz1KgQ6fxK/GpBZkFWCFJsCCgC4JUR2NX2+J8KoTIceDV4U+noR5m3I01BdWs4Uf68C10pSD38u7apJ0enwavUIe2qdHpcadShHktMrvKCCoqUSski+UoA7Ob3wNdC5t2nUqj1NiBHdYqDKGnZU1uCUh1o4DKHOPFR5Acki3vrRuuNQ39uXmqAJ1W8zipKLJPErddA9WA4/Q5Xvb9/c6c/Mpzsl9fjfXPcT5pDTiQfIe1JAyPfrOb96NGksG27lp06i7hWpTiFOBC1RykcG5SLgWODZSR69W+jfSbj3U5PiwqdDp64jbUFSQ446Ejl8BckE8yOJFyM8iQPejRok5hUbr/2Q==
 subTitle: Eine ganz besondere Kassetten-Serie
   
 ---

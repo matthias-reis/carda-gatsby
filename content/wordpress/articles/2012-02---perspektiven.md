@@ -1,14 +1,21 @@
 ---
-title: Perspektiven
-seoTitle: Perspektiven - meine Bildergalerie aus der Pinakothek der Moderne
+date: 2012-02-13T14:54:15.000Z
 slug: perspektiven-pinakothek-der-moderne
 path: /2012/02/perspektiven-pinakothek-der-moderne/
-fileName: 2012-02---perspektiven.md
+type: Galerie
+typeName: Galerie
+title: Perspektiven
+seoTitle: Perspektiven - meine Bildergalerie aus der Pinakothek der Moderne
+ogTitle: Perspektiven - meine Bildergalerie aus der Pinakothek der Moderne
 description: Hier ist meine Technik-Galerie aus der Pinakothek der Moderne. Wart
   Ihr schon mal dort? Was hat Euch besonders gut gefallen?
 excerpt: Hier ist meine Technik-Galerie aus der Pinakothek der Moderne. Wart Ihr
   schon mal dort? Was hat Euch besonders gut gefallen?
-focusKeyword: Pinakothek der Moderne
+fileName: 2012-02---perspektiven.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0178__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0178__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QAKxAAAQMDAwIFBAMAAAAAAAAAAQIDBAUGEQASITFBBxMUFSIyNFFhcYGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBc37WZVzVB5b0t2FEbecRHaWopaShBIB2jkuKwTk9B0x3q7Vve5KHIKIUiXLaT9Ud5xTyCPyAo8f1q6uih+lqTlvPyEpdiyXHgXm9rshKydjowfkjbhISnO3Bz31VyoPtLMaQlqFKhfbq8wlSHVjccpXwcj5DGR0GoOgbKr8S76C1UYacKyUPNHlTSx1B/0aNJHw7rjlmonNvevfelht0oYAG1ICglSs91df4H70aKfVz2xR7sp6YtZjeYW8ll9B2usk9dquwPcdDpPeItnMQricRD832yNGRIWXZaUDP0kqUoZJJxgDt0GnYzI466xtyyUS681EdZDza6hHRhaTtSNqzuz+jzwDzjkdgmtrw6o0WlMGqxVvTXG0Kc2vuNBB2jj4FOT+SeeewGjWuek7lkk5J0ao//2Q==
+ogImage: null
 labels:
   - Andy Warhol
   - Ansichten
@@ -22,17 +29,12 @@ labels:
   - Perspektiven
   - Pinakothek der Moderne
   - Pop-Art
-type: Galerie
-typeName: Galerie
-date: 2012-02-13T14:54:15.000Z
+focusKeyword: Pinakothek der Moderne
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "2851"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0178__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0178__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QAKxAAAQMDAwIFBAMAAAAAAAAAAQIDBAUGEQASITFBBxMUFSIyNFFhcYGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBc37WZVzVB5b0t2FEbecRHaWopaShBIB2jkuKwTk9B0x3q7Vve5KHIKIUiXLaT9Ud5xTyCPyAo8f1q6uih+lqTlvPyEpdiyXHgXm9rshKydjowfkjbhISnO3Bz31VyoPtLMaQlqFKhfbq8wlSHVjccpXwcj5DGR0GoOgbKr8S76C1UYacKyUPNHlTSx1B/0aNJHw7rjlmonNvevfelht0oYAG1ICglSs91df4H70aKfVz2xR7sp6YtZjeYW8ll9B2usk9dquwPcdDpPeItnMQricRD832yNGRIWXZaUDP0kqUoZJJxgDt0GnYzI466xtyyUS681EdZDza6hHRhaTtSNqzuz+jzwDzjkdgmtrw6o0WlMGqxVvTXG0Kc2vuNBB2jj4FOT+SeeewGjWuek7lkk5J0ao//2Q==
 subTitle: Bildergalerie aus der Pinakothek der Moderne
   
 ---

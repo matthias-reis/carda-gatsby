@@ -1,14 +1,21 @@
 ---
-title: Konzerte und Alben
-seoTitle: Konzerte und Alben
+date: 2012-09-04T12:59:58.000Z
 slug: konzerte-und-alben
 path: /2012/09/konzerte-und-alben/
-fileName: 2012-09---konzerte-und-alben.md
+type: Artikel
+typeName: Artikel
+title: Konzerte und Alben
+seoTitle: Konzerte und Alben
+ogTitle: Konzerte und Alben
 description: ""
 excerpt: Heute ist ein guter Tag. Ich freue mich auf tolle, neue Musik. Leider
   hat das Versandhaus bei der Bearbeitung meiner Bestellung so einiges
   durcheinander gebracht.
-focusKeyword: ""
+fileName: 2012-09---konzerte-und-alben.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_09_p7090053-e1587460346204__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_09_p7090053-e1587460346204__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQcIAv/EACYQAAICAgEEAgIDAQAAAAAAAAECAwQFEQAGEiExExRRYSJScaH/xAAZAQACAwEAAAAAAAAAAAAAAAACBAADBQb/xAAmEQACAQIFAgcAAAAAAAAAAAABAhEAAwQhQWGRUaESEyMxUnGx/9oADAMBAAIRAxEAPwDLI44rQGTvbaaQd5DHWxvzrnCooH5P/OT3SUNtctHkKkMMpx+rkiza+MIrAfyB9jZA0NnkYwJo1EmKsbH43pypjLONkMEF750R7CRszp3KDrZB0AfYAO+73xc90HOpzGZxX0p8RFZYha7naRkAhgCBtRs7160fGuRj5KvmcrBbzn2o7EUUcH28eIwzqo0oddBGIGgCCpI1vZ5aWM6kxeNx9QULsVyjatwV7FWzTaCxEVDHvGmZWQqCp/398pseK1dgZhiZ225rU8ixirHqZMICx7HWTl03rNEMAaZYFRmlMgXYbxv12gf7rzyycD0vbhtWacFqB64rq1loJAUZ+7Xb67vf6143w4cDFOURiNBPcUtg7YZkJ1MdjTDr3A1sZD89K2teOSujtTabvc7bwV8+VPgjfHnTv20pJJaqxyVNLK0vyhdf17m/Hn1++HDiwvMxBPyj8roMBYVQ4UnJJ5nrx9V//9k=
+ogImage: null
 labels:
   - Archive
   - Archive With Us Until You´re Dead
@@ -45,18 +52,13 @@ labels:
   - The Second Law Muse
   - The Unwinding Hours
   - versandhaus
-type: Artikel
-typeName: Artikel
-date: 2012-09-04T12:59:58.000Z
+focusKeyword: ""
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "4137"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_09_p7090053-e1587460346204__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_09_p7090053-e1587460346204__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQcIAv/EACYQAAICAgEEAgIDAQAAAAAAAAECAwQFEQAGEiExExRRYSJScaH/xAAZAQACAwEAAAAAAAAAAAAAAAACBAADBQb/xAAmEQACAQIFAgcAAAAAAAAAAAABAhEAAwQhQWGRUaESEyMxUnGx/9oADAMBAAIRAxEAPwDLI44rQGTvbaaQd5DHWxvzrnCooH5P/OT3SUNtctHkKkMMpx+rkiza+MIrAfyB9jZA0NnkYwJo1EmKsbH43pypjLONkMEF750R7CRszp3KDrZB0AfYAO+73xc90HOpzGZxX0p8RFZYha7naRkAhgCBtRs7160fGuRj5KvmcrBbzn2o7EUUcH28eIwzqo0oddBGIGgCCpI1vZ5aWM6kxeNx9QULsVyjatwV7FWzTaCxEVDHvGmZWQqCp/398pseK1dgZhiZ225rU8ixirHqZMICx7HWTl03rNEMAaZYFRmlMgXYbxv12gf7rzyycD0vbhtWacFqB64rq1loJAUZ+7Xb67vf6143w4cDFOURiNBPcUtg7YZkJ1MdjTDr3A1sZD89K2teOSujtTabvc7bwV8+VPgjfHnTv20pJJaqxyVNLK0vyhdf17m/Hn1++HDiwvMxBPyj8roMBYVQ4UnJJ5nrx9V//9k=
 subTitle: Konzertplanung &amp; Plattenkauf
   
 ---

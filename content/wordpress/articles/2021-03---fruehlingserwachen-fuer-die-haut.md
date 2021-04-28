@@ -1,16 +1,23 @@
 ---
-title: Frühlingserwachen für die Haut
-seoTitle: Hyaluron-Ampullen und Enzym Peeling von Santaverde
+date: 2021-03-02T15:07:37.000Z
 slug: hyaluron-ampullen-enzym-peeling-santaverde
 path: /2021/03/hyaluron-ampullen-enzym-peeling-santaverde/
-fileName: 2021-03---fruehlingserwachen-fuer-die-haut.md
+type: Artikel
+typeName: Produkttest
+title: Frühlingserwachen für die Haut
+seoTitle: Hyaluron-Ampullen und Enzym Peeling von Santaverde
+ogTitle: Hyaluron-Ampullen und Enzym Peeling von Santaverde
 description: Hyaluron-Ampullen sorgen für Frische und können den
   Feuchtigkeitsgehalt der Haut verbessern. Ein leichtes Peeling bereitet die
   Haut vor.
 excerpt: Werbung – Hyaluron-Ampullen sorgen für Frische und können den
   Feuchtigkeitsgehalt der Haut verbessern. Ein leichtes Peeling mit Enzymen ist
   die perfekte Vorbereitung.
-focusKeyword: Hyaluron-Ampullen
+fileName: 2021-03---fruehlingserwachen-fuer-die-haut.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-02-santaverde-11__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-02-santaverde-11__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQgDBv/EACoQAAICAQMDAgUFAAAAAAAAAAECAwQFABEhBhIxE0EHIlFxgRQjMjNy/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIhAxESIjH/2gAMAwEAAhEDEQA/APKYDpjGRVoHsY+Cx2xKZFklkHc2wJIKuNufxq6q9IRSABemKEyluJZcg6/KffsG/j6eeNMbpyBJcRXkigj7/Shm/bqlzyoPtphwO4riULaWLcMGaKOAEH/RGkXIfqIuz0N05CkqvhcfLJId41dG7x9diW5Hv41mvPUI6mVvV6conrQzvHHKOQyhiAd9bIny0Vzq6CpYyFazLAzMw9dJljj7W8hDx9vOoXW8yR4n0o6tSzXlVhNGlcKjRhSSD3kbgge3OuiVaZut+CNxPUl+StDTuZvJfo1URosdlkVF8BeCONWcFqjG3pWNp5B/F5ZQ/cPzvzo0aiyWU46JOJ6iXA5+PJ42rX9REaMxL8gcEEbkjkbbnY/fXPq34kZPJVpEkrVIgUdP72bYMpUkb++x0aNEJyVJhOCds//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_hyaluron-ampullen-fb.png__l.jpg
 labels:
   - Aloe Vera
   - Ampullenkur
@@ -24,17 +31,12 @@ labels:
   - vegane Ampullenkur
   - vegane Hyaluron Ampullen
   - veganes Hyaluron
-type: Artikel
-typeName: Produkttest
-date: 2021-03-02T15:07:37.000Z
+focusKeyword: Hyaluron-Ampullen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33039"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-02-santaverde-11__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-02-santaverde-11__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQgDBv/EACoQAAICAQMDAgUFAAAAAAAAAAECAwQFABEhBhIxE0EHIlFxgRQjMjNy/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIhAxESIjH/2gAMAwEAAhEDEQA/APKYDpjGRVoHsY+Cx2xKZFklkHc2wJIKuNufxq6q9IRSABemKEyluJZcg6/KffsG/j6eeNMbpyBJcRXkigj7/Shm/bqlzyoPtphwO4riULaWLcMGaKOAEH/RGkXIfqIuz0N05CkqvhcfLJId41dG7x9diW5Hv41mvPUI6mVvV6conrQzvHHKOQyhiAd9bIny0Vzq6CpYyFazLAzMw9dJljj7W8hDx9vOoXW8yR4n0o6tSzXlVhNGlcKjRhSSD3kbgge3OuiVaZut+CNxPUl+StDTuZvJfo1URosdlkVF8BeCONWcFqjG3pWNp5B/F5ZQ/cPzvzo0aiyWU46JOJ6iXA5+PJ42rX9REaMxL8gcEEbkjkbbnY/fXPq34kZPJVpEkrVIgUdP72bYMpUkb++x0aNEJyVJhOCds//Z
 subTitle: Hyaluron-Ampullen und Enzym Peeling von Santaverde
   
 ---

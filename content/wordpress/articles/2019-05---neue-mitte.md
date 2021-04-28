@@ -1,16 +1,23 @@
 ---
-title: Neue Mitte
-seoTitle: Neue Mitte Altona - ein paar Gedanken zum neuen Bezirk
+date: 2019-05-20T07:30:40.000Z
 slug: neue-mitte-altona
 path: /2019/05/neue-mitte-altona/
-fileName: 2019-05---neue-mitte.md
+type: Artikel
+typeName: Gedicht
+title: Neue Mitte
+seoTitle: Neue Mitte Altona - ein paar Gedanken zum neuen Bezirk
+ogTitle: Neue Mitte Altona - ein paar Gedanken zum neuen Bezirk
 description: Die neue Mitte Altona erhebt sich nach und nach zwischen den
   Gleisen. Bis jetzt sind noch nicht alle Details erkennbar - ein paar Bewohner
   gibt es schon.
 excerpt: Die neue Mitte Altona erhebt sich nach und nach zwischen den Gleisen.
   Bis jetzt sind noch nicht alle Details erkennbar - ein paar Bewohner gibt es
   schon.
-focusKeyword: neue Mitte
+fileName: 2019-05---neue-mitte.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-neue-mitte-altona-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-neue-mitte-altona-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAtEAABAwIEBAQHAQAAAAAAAAABAgMRBAUABiFBBxITMSJRcYEUMlJTYWKRwf/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBgX/xAAgEQACAgEDBQAAAAAAAAAAAAABAgADBBIh8AURE1GR/9oADAMBAAIRAxEAPwCNZJvQS8gKQlckc7B1K43A33/YbT2xZMruUrjDDNS51KRxILNSruiTolZ8tgrtp/ObWaZXJ1GV8yRr4TBBw9ZQzs5blts3KSzr41KmZ78w/O5338w1iZLUNqWAysVMlNLc5z0bzWZbbgjpj+YTr9lrRXTbk66Rh6yjmW33GkaZLyEsQE9RSpDJiQCfojfWPTGnmKxKXbqpbwQWyyrSQQsEHuZGkbzijqz0de7SXt6dYj6QPkQH6Th9fKdar5RUjFydXzCttz/QWkblQT4T7pwvXng829TKfy1eaO5NTCW6g/DvRP3EyhXuBgwYxPClm5lCbnr2EnVypcy8P7k03UNP0inUlaEKUlSVpmCUlJII2/zDplzizTmmNLcw5TAJI6XdB005SflJ8jKfTBgwolz1OQpjL1JcgLif/9k=
+ogImage: null
 labels:
   - Altona
   - Geschichten & Erlebtes
@@ -20,17 +27,12 @@ labels:
   - neue Mitte
   - neue Mitte Altona
   - Stadtplanung
-type: Artikel
-typeName: Gedicht
-date: 2019-05-20T07:30:40.000Z
+focusKeyword: neue Mitte
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "24121"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-neue-mitte-altona-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-neue-mitte-altona-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAtEAABAwIEBAQHAQAAAAAAAAABAgMRBAUABiFBBxITMSJRcYEUMlJTYWKRwf/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBgX/xAAgEQACAgEDBQAAAAAAAAAAAAABAgADBBIh8AURE1GR/9oADAMBAAIRAxEAPwCNZJvQS8gKQlckc7B1K43A33/YbT2xZMruUrjDDNS51KRxILNSruiTolZ8tgrtp/ObWaZXJ1GV8yRr4TBBw9ZQzs5blts3KSzr41KmZ78w/O5338w1iZLUNqWAysVMlNLc5z0bzWZbbgjpj+YTr9lrRXTbk66Rh6yjmW33GkaZLyEsQE9RSpDJiQCfojfWPTGnmKxKXbqpbwQWyyrSQQsEHuZGkbzijqz0de7SXt6dYj6QPkQH6Th9fKdar5RUjFydXzCttz/QWkblQT4T7pwvXng829TKfy1eaO5NTCW6g/DvRP3EyhXuBgwYxPClm5lCbnr2EnVypcy8P7k03UNP0inUlaEKUlSVpmCUlJII2/zDplzizTmmNLcw5TAJI6XdB005SflJ8jKfTBgwolz1OQpjL1JcgLif/9k=
 subTitle: Ein Stadtteil verändert sich
   
 ---

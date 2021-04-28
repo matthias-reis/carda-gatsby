@@ -1,16 +1,23 @@
 ---
-title: Essen für das Klima
-seoTitle: Essen für das Klima - Europa will sich nachhaltiger ernähren
+date: 2020-06-23T15:41:00.000Z
 slug: essen-fuer-das-klima
 path: /2020/06/essen-fuer-das-klima/
-fileName: 2020-06---essen-fuer-das-klima.md
+type: Artikel
+typeName: Artikel
+title: Essen für das Klima
+seoTitle: Essen für das Klima - Europa will sich nachhaltiger ernähren
+ogTitle: Essen für das Klima - Europa will sich nachhaltiger ernähren
 description: Essen für das Klima - geht da noch was? Oder war das schon alles?
   Fast 70 Prozent der Europäer⋆innen würden zum Wohle des Planeten ihre
   Ernährung umstellen.
 excerpt: Essen für das Klima - geht da noch was? Oder war das schon alles? Fast
   70 Prozent der Europäer⋆innen würden zum Wohle des Planeten ihre Ernährung
   umstellen.
-focusKeyword: Essen für das Klima
+fileName: 2020-06---essen-fuer-das-klima.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_essen-fuer-das-klima__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_essen-fuer-das-klima__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgQF/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURAAYhEiIxBxNBI2GBFBUyQlH/xAAYAQACAwAAAAAAAAAAAAAAAAABAgAEBf/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMRIQQxEhPw/9oADAMBAAIRAxEAPwBn9NbRt2K3rNRUSxzTKOqsJLyTY+WY+edZ7iu37HfLjJVgTWmnhiJlVVLHr/ovTyMHBPV51Jtobhr7jSUljgoac1kTtOjO7fUIHPaMZYgYwOCAPnTtvrctm27HQV9iWFLxO/VJAHZT04yVdTnwcZyD+DqjcWJFbdmJZY5XK6x91H+zWs3FppHkqYXeNCaduwxqwzj7tgjJ+DxqEb8gfa25v0dZJLLPTSLUI8fA9s5KEK3kn5/znXeuXqZfJ6KGlKzrGAhkq4qYs9SBgsrA4Xzww7SwxgjPK/uDcVLvColklscdXXiIotTB7quqoCwV1LgDt6jnnnjQTjqcDGoGxYBjsSd2a71lqqo6igqHhmT+JGCB+Dxptj9RbrLP13EU9bEWBkglhieOTAx3K6Nnx5yNGjWma1Y+RG453qbtN6lT0lzrK2nhdjVpCs0FSqzR/SXpXpwVIGMcfbzpbuu4KComnmpbbJBUTytPJKZs5cknIU5UAZOMDwdGjR9aiQCf/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_essen-fuer-das-klima-1.png__l.jpg
 labels:
   - BEUC
   - Ernährung
@@ -21,17 +28,12 @@ labels:
   - One Bite At A Time
   - vegan für das Klima
   - vegane Ernährung
-type: Artikel
-typeName: Artikel
-date: 2020-06-23T15:41:00.000Z
+focusKeyword: Essen für das Klima
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30109"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_essen-fuer-das-klima__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_essen-fuer-das-klima__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgQF/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURAAYhEiIxBxNBI2GBFBUyQlH/xAAYAQACAwAAAAAAAAAAAAAAAAABAgAEBf/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMRIQQxEhPw/9oADAMBAAIRAxEAPwBn9NbRt2K3rNRUSxzTKOqsJLyTY+WY+edZ7iu37HfLjJVgTWmnhiJlVVLHr/ovTyMHBPV51Jtobhr7jSUljgoac1kTtOjO7fUIHPaMZYgYwOCAPnTtvrctm27HQV9iWFLxO/VJAHZT04yVdTnwcZyD+DqjcWJFbdmJZY5XK6x91H+zWs3FppHkqYXeNCaduwxqwzj7tgjJ+DxqEb8gfa25v0dZJLLPTSLUI8fA9s5KEK3kn5/znXeuXqZfJ6KGlKzrGAhkq4qYs9SBgsrA4Xzww7SwxgjPK/uDcVLvColklscdXXiIotTB7quqoCwV1LgDt6jnnnjQTjqcDGoGxYBjsSd2a71lqqo6igqHhmT+JGCB+Dxptj9RbrLP13EU9bEWBkglhieOTAx3K6Nnx5yNGjWma1Y+RG453qbtN6lT0lzrK2nhdjVpCs0FSqzR/SXpXpwVIGMcfbzpbuu4KComnmpbbJBUTytPJKZs5cknIU5UAZOMDwdGjR9aiQCf/9k=
 subTitle: Europa will sich nachhaltiger ernähren
   
 ---

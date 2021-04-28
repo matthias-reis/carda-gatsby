@@ -1,16 +1,23 @@
 ---
-title: Ich habe Saal Digital getestet
-seoTitle: Ich habe Saal Digital getestet - Endlich ein perfektes Wandbild
+date: 2018-02-23T10:33:43.000Z
 slug: saal-digital
 path: /2018/02/saal-digital/
-fileName: 2018-02---ich-habe-saal-digital-getestet.md
+type: Artikel
+typeName: Artikel
+title: Ich habe Saal Digital getestet
+seoTitle: Ich habe Saal Digital getestet - Endlich ein perfektes Wandbild
+ogTitle: Ich habe Saal Digital getestet - Endlich ein perfektes Wandbild
 description: Ich habe jetzt den Service von Saal Digital getestet und ein
   Wandbild aus einem meiner Lieblingsfotos erstellen lassen. Hier mein
   Erfahrungsbericht.
 excerpt: Werbung - Ich habe jetzt den Service von Saal Digital getestet und ein
   Wandbild aus einem meiner Lieblingsfotos erstellen lassen. Hier mein
   Erfahrungsbericht.
-focusKeyword: Saal Digital
+fileName: 2018-02---ich-habe-saal-digital-getestet.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38611109260_8df9577056_z-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38611109260_8df9577056_z-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBggH/8QAJxAAAgIBAwQCAQUAAAAAAAAAAQIDBBEABSEGEjFBE4EUBxUiUWH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwL/xAAbEQEAAgMBAQAAAAAAAAAAAAABAAIRITEDEv/aAAwDAQACEQMRAD8AoG3D8PaqgXcdxFyxVE8cECKSQMZwxUgAeeTnA410aHbm3ewlyeruMlGnD3RRxOIRLYjI7jjGS2Axx6DH6p3QG/Cw237dTdVuRRKO2eBnjbtH8kIXk9wyPvyNd1iv1KfTJWgkD2JLGErCZMovaDjlj2gYOST6P+an9HEkPRSwkh7l0701PtF21+214ZFiZTKkCh1ypBIOPPOfrWU95hing+YRxLYsRxmRkdj4CHGDx6AyP61oqPrKrsPUl421b8DcsBcZHxzBOz34IbOcjHg6zfYVaqSx/J3+skYPGgqDqVpnrIfT2+ybLuBtitXtjtZDDYUsjAj2AedOW/USeSezbbboYlsrGjw12CIqx8KEJUsvk+9GjW2ozddOSLLfUkm4JDGI5REI8n5bDSsxDH2cceOMetJ7F15nYkY+9GjQRXM//9k=
+ogImage: null
 labels:
   - Beo
   - drucken
@@ -25,17 +32,12 @@ labels:
   - SaalDigital
   - Sri Lanka
   - Wandbild
-type: Artikel
-typeName: Artikel
-date: 2018-02-23T10:33:43.000Z
+focusKeyword: Saal Digital
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "19843"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38611109260_8df9577056_z-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38611109260_8df9577056_z-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBggH/8QAJxAAAgIBAwQCAQUAAAAAAAAAAQIDBBEABSEGEjFBE4EUBxUiUWH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwL/xAAbEQEAAgMBAQAAAAAAAAAAAAABAAIRITEDEv/aAAwDAQACEQMRAD8AoG3D8PaqgXcdxFyxVE8cECKSQMZwxUgAeeTnA410aHbm3ewlyeruMlGnD3RRxOIRLYjI7jjGS2Axx6DH6p3QG/Cw237dTdVuRRKO2eBnjbtH8kIXk9wyPvyNd1iv1KfTJWgkD2JLGErCZMovaDjlj2gYOST6P+an9HEkPRSwkh7l0701PtF21+214ZFiZTKkCh1ypBIOPPOfrWU95hing+YRxLYsRxmRkdj4CHGDx6AyP61oqPrKrsPUl421b8DcsBcZHxzBOz34IbOcjHg6zfYVaqSx/J3+skYPGgqDqVpnrIfT2+ybLuBtitXtjtZDDYUsjAj2AedOW/USeSezbbboYlsrGjw12CIqx8KEJUsvk+9GjW2ozddOSLLfUkm4JDGI5REI8n5bDSsxDH2cceOMetJ7F15nYkY+9GjQRXM//9k=
 subTitle: Endlich ein perfektes Wandbild
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: Paranuss-Tomaten-Brotaufstrich
-seoTitle: DIY Paranuss-Tomaten-Brotaufstrich - Veganes Rezept
+date: 2015-09-11T06:52:25.000Z
 slug: diy-paranuss-tomaten-brotaufstrich
 path: /2015/09/diy-paranuss-tomaten-brotaufstrich/
-fileName: 2015-09---paranuss-tomaten-brotaufstrich.md
+type: Artikel
+typeName: Rezept
+title: Paranuss-Tomaten-Brotaufstrich
+seoTitle: DIY Paranuss-Tomaten-Brotaufstrich - Veganes Rezept
+ogTitle: DIY Paranuss-Tomaten-Brotaufstrich - Veganes Rezept
 description: "Bei einem perfekten Frühstück am Wochenende darf eins auf keinen
   Fall fehlen: Der perfekte Paranuss-Tomaten Brotaufstrich. Hier ist mein Rezept
   für Euch."
 excerpt: Selbstgemachte Brotaufstriche dürfen bei einem perfekten Frühstück
   nicht fehlen. Ich verrate Euch heute mein Rezept für einen leckeren
   Paranuss-Tomaten-Aufstrich.
-focusKeyword: Paranuss
+fileName: 2015-09---paranuss-tomaten-brotaufstrich.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0831__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0831__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYEBwABA//EACsQAAIBAwMCBQMFAAAAAAAAAAECAwQFEQASIQYxEzJBUWEHFCJScXKx4f/EABkBAAIDAQAAAAAAAAAAAAAAAAQGAQIDBf/EACMRAAICAgAFBQAAAAAAAAAAAAECAxEABAUSEyGRMUFhodH/2gAMAwEAAhEDEQA/ABty+lkVmlp47r1HaKaaaISrAIJncLjO4hVOB35OBxpfqunqKjuscUsv31CELtUJG6xlgcbSvmx2yRjvqxL9DBV9ZXOtdSlPJWSRrEWZhJs4AbJPGctt8o+MY1JMj+ExKKCeBGv5EhhwM+4GCdKG1urHIURbr3xvghaWIMWqx8fmIFPFU3KklSmvYiKOI0hWiMcMa44VSxyAMdsa1ILnZowLg0dTSuuHdAdgz+oH+x/unK6vTUc9EzLGkFTOtIwXyhmB2MPkEbSRzgjXGqUM7UsxhNLNiLbtIKORlWK5OMjA98+mhWlsc1dj58gZiYeUkH1yZ1OzWnqS7U9wYK/jSyxMeBIHO4Ent5SOD35xrJ3MsiyIQIjnad3sBznOAOe5099Y2ak6ot4kqHamuIBjp3UEZUHjePUc/uM6pjqPoi8wTTRTUdyqHiOAIPDePH8h2+ONdObhfVkLKaweDiRjjCsLwd1v1EtfcbPbKUxiKOvgd3Vty7lb0PqBnvpl68ikttPUODLiSZSWLZVpd3OD7jPb40r2/wCnF+rKqmWSianC/mrSnaAAff1Oi/XFZJW2Zc1MctNJJsjjYb8OQvbjn8lY9x2xnVNrWWDpop7d7+siHYacuzZ//9k=
+ogImage: null
 labels:
   - Aufstrich
   - Brotaufstrich
@@ -23,17 +30,12 @@ labels:
   - Vegane Rezepte
   - Veganer
   - veganer Brotaufstrich
-type: Artikel
-typeName: Rezept
-date: 2015-09-11T06:52:25.000Z
+focusKeyword: Paranuss
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "12641"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0831__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0831__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYEBwABA//EACsQAAIBAwMCBQMFAAAAAAAAAAECAwQFEQASIQYxEzJBUWEHFCJScXKx4f/EABkBAAIDAQAAAAAAAAAAAAAAAAQGAQIDBf/EACMRAAICAgAFBQAAAAAAAAAAAAECAxEABAUSEyGRMUFhodH/2gAMAwEAAhEDEQA/ABty+lkVmlp47r1HaKaaaISrAIJncLjO4hVOB35OBxpfqunqKjuscUsv31CELtUJG6xlgcbSvmx2yRjvqxL9DBV9ZXOtdSlPJWSRrEWZhJs4AbJPGctt8o+MY1JMj+ExKKCeBGv5EhhwM+4GCdKG1urHIURbr3xvghaWIMWqx8fmIFPFU3KklSmvYiKOI0hWiMcMa44VSxyAMdsa1ILnZowLg0dTSuuHdAdgz+oH+x/unK6vTUc9EzLGkFTOtIwXyhmB2MPkEbSRzgjXGqUM7UsxhNLNiLbtIKORlWK5OMjA98+mhWlsc1dj58gZiYeUkH1yZ1OzWnqS7U9wYK/jSyxMeBIHO4Ent5SOD35xrJ3MsiyIQIjnad3sBznOAOe5099Y2ak6ot4kqHamuIBjp3UEZUHjePUc/uM6pjqPoi8wTTRTUdyqHiOAIPDePH8h2+ONdObhfVkLKaweDiRjjCsLwd1v1EtfcbPbKUxiKOvgd3Vty7lb0PqBnvpl68ikttPUODLiSZSWLZVpd3OD7jPb40r2/wCnF+rKqmWSianC/mrSnaAAff1Oi/XFZJW2Zc1MctNJJsjjYb8OQvbjn8lY9x2xnVNrWWDpop7d7+siHYacuzZ//9k=
 subTitle: Veganer Frühstücksaufstrich zum Selbermachen
   
 ---

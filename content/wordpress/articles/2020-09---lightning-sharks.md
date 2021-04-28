@@ -1,16 +1,23 @@
 ---
-title: Lightning Sharks
-seoTitle: Lightning Sharks im Interview - Post-Hardcore aus Bristol
+date: 2020-09-24T07:00:07.000Z
 slug: lightning-sharks-interview
 path: /2020/09/lightning-sharks-interview/
-fileName: 2020-09---lightning-sharks.md
+type: Artikel
+typeName: Interview
+title: Lightning Sharks
+seoTitle: Lightning Sharks im Interview - Post-Hardcore aus Bristol
+ogTitle: Lightning Sharks im Interview - Post-Hardcore aus Bristol
 description: Die Post-Hardcore Band Lightning Sharks aus Bristol will es bei
   ArcTanGent Festival 2021 so richtig krachen lassen. Ich habe sie jetzt
   interviewt.
 excerpt: English & German - Die Post-Hardcore Band Lightning Sharks aus Bristol
   will es bei ArcTanGent Festival 2021 so richtig krachen lassen. Ich habe sie
   jetzt interviewt.
-focusKeyword: Lightning Sharks
+fileName: 2020-09---lightning-sharks.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAj/xAAnEAACAQMEAgIBBQAAAAAAAAABAgMEBREABhIhMVETQSIHFDJCYf/EABcBAAMBAAAAAAAAAAAAAAAAAAABBAL/xAAcEQACAwEAAwAAAAAAAAAAAAABAgARIRIDE0H/2gAMAwEAAhEDEQA/AOdNriCe9UQqYkniWVWkgbIEqg9pn6yM6d26yVMT3ileiNZMUEFO6xOwRmkGHBHoKy9+9JNqRslxhqzLHBGkgVZZo2dPkwWVTx774kde9WP7OGqEldZa1hcIqWWW5KjTxPJIWZiBkAAqOuOf6+/KpRpEW/IpltVTHthrhweKqSuNPJGzKVSMKOTMv8gAxxnx59au96x7bt2wbS1rulomutMzPOI2cy1eWwQp4DIXPWSOgdaNkbarKuwNSU8lugaJqmnmmq52UrN8aeFwQyq6uMnrLeOgdSH6lRV1BVra7sI3qI+RMi4IP5EddD7BGpR5FZuVMoKitimw22tjhWmuJqKGgikWocTDirsD0VJIw2PsZ1e2Q1Nv2NUMlvudfUV0ThFVWkGZOWXb8sk4wCcf7o0aGc1M+sE1JGw3TcdBdayenmrAckO0sXN0cKDkxlTk4xnI76yc6s71aju/aluVRLU3NiJmrWjRGKktlcHBJOe/A6HX2TRoduVsDY1TpqJyf//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks-fb.png__l.jpg
 labels:
   - ArcTanGent
   - ArcTanGent Festival
@@ -24,17 +31,12 @@ labels:
   - Noise Core
   - Noisecore
   - Post-Hardcore
-type: Artikel
-typeName: Interview
-date: 2020-09-24T07:00:07.000Z
+focusKeyword: Lightning Sharks
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31428"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAj/xAAnEAACAQMEAgIBBQAAAAAAAAABAgMEBREABhIhMVETQSIHFDJCYf/EABcBAAMBAAAAAAAAAAAAAAAAAAABBAL/xAAcEQACAwEAAwAAAAAAAAAAAAABAgARIRIDE0H/2gAMAwEAAhEDEQA/AOdNriCe9UQqYkniWVWkgbIEqg9pn6yM6d26yVMT3ileiNZMUEFO6xOwRmkGHBHoKy9+9JNqRslxhqzLHBGkgVZZo2dPkwWVTx774kde9WP7OGqEldZa1hcIqWWW5KjTxPJIWZiBkAAqOuOf6+/KpRpEW/IpltVTHthrhweKqSuNPJGzKVSMKOTMv8gAxxnx59au96x7bt2wbS1rulomutMzPOI2cy1eWwQp4DIXPWSOgdaNkbarKuwNSU8lugaJqmnmmq52UrN8aeFwQyq6uMnrLeOgdSH6lRV1BVra7sI3qI+RMi4IP5EddD7BGpR5FZuVMoKitimw22tjhWmuJqKGgikWocTDirsD0VJIw2PsZ1e2Q1Nv2NUMlvudfUV0ThFVWkGZOWXb8sk4wCcf7o0aGc1M+sE1JGw3TcdBdayenmrAckO0sXN0cKDkxlTk4xnI76yc6s71aju/aluVRLU3NiJmrWjRGKktlcHBJOe/A6HX2TRoduVsDY1TpqJyf//Z
 subTitle: '"Bolsonaro ins Gesicht schreien"'
   
 ---

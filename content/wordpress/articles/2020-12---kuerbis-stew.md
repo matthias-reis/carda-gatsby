@@ -1,14 +1,21 @@
 ---
-title: Kürbis-Stew
-seoTitle: Kürbis Stew – veganes Zero Waste Rezept
+date: 2020-12-09T12:43:52.000Z
 slug: kuerbis-stew-zero-waste-rezept
 path: /2020/12/kuerbis-stew-zero-waste-rezept/
-fileName: 2020-12---kuerbis-stew.md
+type: Artikel
+typeName: Rezept
+title: Kürbis-Stew
+seoTitle: Kürbis Stew – veganes Zero Waste Rezept
+ogTitle: Kürbis Stew – veganes Zero Waste Rezept
 description: Bei diesem veganen Zero Waste Rezept für Kürbis-Stew bleibt nichts
   übrig. Alle Zutaten werden bis auf den letzten Krümel verarbeitet.
 excerpt: Bei diesem veganen Zero Waste Rezept für Kürbis-Stew bleibt nichts
   übrig. Alle Zutaten werden bis auf den letzten Krümel verarbeitet.
-focusKeyword: Zero Waste Rezept
+fileName: 2020-12---kuerbis-stew.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_2020-12-09-kuerbis-stew-21__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_2020-12-09-kuerbis-stew-21__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAqEAABAwMEAQQABwAAAAAAAAABAgMEBREhAAYSMUETIlFhMkJxgZGxwf/EABcBAAMBAAAAAAAAAAAAAAAAAAEEBQb/xAAoEQABAgQEBQUAAAAAAAAAAAABAgQAAwUREiFBYQYTcYHRIjFRkfD/2gAMAwEAAhEDEQA/AJqgwKTSY/Ga9GistIDhQSOSvux78ZOruQ9S6HQ49RqTARHkvNoYS016rikKBJPEebAm3+2GlDDMRNQQ9Pg05bTrKG235CAr8N75IISRcnrq2n+46bJ3NCQ1SnQxFLzbsZC0pW2h7lf3LH5CL9HBIGfGTqNTct6kUGYpKAbHQYdhY57/AFaLDRnInNQcAJOu/X9vG6ZR6bLSyWWFLYkJ5NSEJHA3GL/HxnzjGoLeO2UNxlhaPVZANr9p/Q+P611ak0+ZQKciNNeZkTJDjj7qo6OKEqIv7QT17c4yTfUzumay40pp9sMLcbB9yhblYXSPu51Xo/EMp2tTV0oE39Jta489gO8S3tNVJAnNxlrHNIu5ZcqkNNU1cY3UC8HbEhIyCm+Lg/vpnRd7inQ5MCoKdriXeTspCIhUgowCkH+Ld9Ho6NGmarTZL2cnm/Gmx6X1gMXcxvKVg0MbqBuKBEpVVn0uIkzHFrZZjpJQopBuhJJOMKv9Z1H7pqj1QhplVGZIgyejGR6ahi3Zz8d6NGlqRRmuKY4ULqCiM88rCGqnUJwwS0mwIB39z4j/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_12_zero-waste-rezept-kuerbis-stew-fb.png__l.jpg
 labels:
   - Klima & Umweltschutz
   - Kochen
@@ -23,17 +30,12 @@ labels:
   - Zero Waste Küche
   - Zero Waste Rezept
   - Zero Waste Rezepte
-type: Artikel
-typeName: Rezept
-date: 2020-12-09T12:43:52.000Z
+focusKeyword: Zero Waste Rezept
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32057"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_2020-12-09-kuerbis-stew-21__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_2020-12-09-kuerbis-stew-21__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAqEAABAwMEAQQABwAAAAAAAAABAgMEBREhAAYSMUETIlFhMkJxgZGxwf/EABcBAAMBAAAAAAAAAAAAAAAAAAEEBQb/xAAoEQABAgQEBQUAAAAAAAAAAAABAgQAAwUREiFBYQYTcYHRIjFRkfD/2gAMAwEAAhEDEQA/AJqgwKTSY/Ga9GistIDhQSOSvux78ZOruQ9S6HQ49RqTARHkvNoYS016rikKBJPEebAm3+2GlDDMRNQQ9Pg05bTrKG235CAr8N75IISRcnrq2n+46bJ3NCQ1SnQxFLzbsZC0pW2h7lf3LH5CL9HBIGfGTqNTct6kUGYpKAbHQYdhY57/AFaLDRnInNQcAJOu/X9vG6ZR6bLSyWWFLYkJ5NSEJHA3GL/HxnzjGoLeO2UNxlhaPVZANr9p/Q+P611ak0+ZQKciNNeZkTJDjj7qo6OKEqIv7QT17c4yTfUzumay40pp9sMLcbB9yhblYXSPu51Xo/EMp2tTV0oE39Jta489gO8S3tNVJAnNxlrHNIu5ZcqkNNU1cY3UC8HbEhIyCm+Lg/vpnRd7inQ5MCoKdriXeTspCIhUgowCkH+Ld9Ho6NGmarTZL2cnm/Gmx6X1gMXcxvKVg0MbqBuKBEpVVn0uIkzHFrZZjpJQopBuhJJOMKv9Z1H7pqj1QhplVGZIgyejGR6ahi3Zz8d6NGlqRRmuKY4ULqCiM88rCGqnUJwwS0mwIB39z4j/2Q==
 subTitle: Zero Waste Rezept
   
 ---

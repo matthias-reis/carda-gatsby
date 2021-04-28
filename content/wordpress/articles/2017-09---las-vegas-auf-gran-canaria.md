@@ -1,15 +1,22 @@
 ---
-title: Las Vegas auf Gran Canaria
-seoTitle: Las Vegas auf Gran Canaria - Bananen, Papayas und Esel
+date: 2017-09-27T07:36:14.000Z
 slug: bananen-papayas-und-esel-las-vegas-auf-gran-canaria
 path: /2017/09/bananen-papayas-und-esel-las-vegas-auf-gran-canaria/
-fileName: 2017-09---las-vegas-auf-gran-canaria.md
+type: Galerie
+typeName: Galerie
+title: Las Vegas auf Gran Canaria
+seoTitle: Las Vegas auf Gran Canaria - Bananen, Papayas und Esel
+ogTitle: Las Vegas auf Gran Canaria - Bananen, Papayas und Esel
 description: Las Vegas auf Gran Canaria ist keine Spielerstadt, sondern eine
   Finka, auf der man nicht nur leckere Bananen probieren kann. Wir haben sie
   besucht.
 excerpt: Las Vegas auf Gran Canaria ist keine Spielerstadt, sondern eine Finka,
   auf der man nicht nur leckere Bananen probieren kann. Wir haben sie besucht.
-focusKeyword: Las Vegas
+fileName: 2017-09---las-vegas-auf-gran-canaria.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Gran-Canaria-407__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Gran-Canaria-407__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCBgMEB//EAC8QAAEDBAEBBgMJAAAAAAAAAAECAwQABRESBnETITEyQVEUFUIiIyRhYnKBkaH/xAAZAQACAwEAAAAAAAAAAAAAAAACBQABAwT/xAAlEQEAAAQFAwUAAAAAAAAAAAABAAIRIQMSMUFRE4HwImGRocH/2gAMAwEAAhEDEQA/AOc8iSlu1wp9qbAjSWAtKWiBqoeYd/qFZrDya0/CXiGzEd7Vm7IQy44oBOuywQcAn6Sf5p9dOMqbt1wlRA+ICXShTAdSA27oSXCCPDAGQnGSaVOWdd2szN0sMp1y02pQQh2YAlwlKVLKsZxqPspwCTk91KMKqEyiXrc7a3L/ADC7K0qbwwcssCVy6a00p2NboMUaLS4FFKirYgZ8MJ/qq9ItLcfhyXmnnQHHEoDAAJWdsjKugOegphG4vepPFjcjKjtfMHdnUbHfVRATn92ScDwAravPE5EW4GMzdG3I0WOH0B4FtKQT9WPXUZz0FDmy0Jpx0421++dC8SqtvNona+VNx7XLs9xlJcEnHYPEBOTrrqr88YwfXFLo16ba4IbN2yQ67cCy4Arv0Uof5qMUUVXTJW3s9xgZfUCxaJfI7cJEWOHUKhW8ZKUKH3zxHlHQd3Un2pNPuKril/tnE/iHA7JUk+YZAS2n9PlGT7D3ooriw8GVnlHfz9jaSUWkf//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Gran-Canaria-407__l.jpg
 labels:
   - Arucas
   - Bananen
@@ -19,17 +26,12 @@ labels:
   - Las Vegas Gran Canaria
   - Reisen
   - Spanien
-type: Galerie
-typeName: Galerie
-date: 2017-09-27T07:36:14.000Z
+focusKeyword: Las Vegas
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "17934"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Gran-Canaria-407__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Gran-Canaria-407__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCBgMEB//EAC8QAAEDBAEBBgMJAAAAAAAAAAECAwQABRESBnETITEyQVEUFUIiIyRhYnKBkaH/xAAZAQACAwEAAAAAAAAAAAAAAAACBQABAwT/xAAlEQEAAAQFAwUAAAAAAAAAAAABAAIRIQMSMUFRE4HwImGRocH/2gAMAwEAAhEDEQA/AOc8iSlu1wp9qbAjSWAtKWiBqoeYd/qFZrDya0/CXiGzEd7Vm7IQy44oBOuywQcAn6Sf5p9dOMqbt1wlRA+ICXShTAdSA27oSXCCPDAGQnGSaVOWdd2szN0sMp1y02pQQh2YAlwlKVLKsZxqPspwCTk91KMKqEyiXrc7a3L/ADC7K0qbwwcssCVy6a00p2NboMUaLS4FFKirYgZ8MJ/qq9ItLcfhyXmnnQHHEoDAAJWdsjKugOegphG4vepPFjcjKjtfMHdnUbHfVRATn92ScDwAravPE5EW4GMzdG3I0WOH0B4FtKQT9WPXUZz0FDmy0Jpx0421++dC8SqtvNona+VNx7XLs9xlJcEnHYPEBOTrrqr88YwfXFLo16ba4IbN2yQ67cCy4Arv0Uof5qMUUVXTJW3s9xgZfUCxaJfI7cJEWOHUKhW8ZKUKH3zxHlHQd3Un2pNPuKril/tnE/iHA7JUk+YZAS2n9PlGT7D3ooriw8GVnlHfz9jaSUWkf//Z
 subTitle: Bananen, Papayas und Esel
   
 ---

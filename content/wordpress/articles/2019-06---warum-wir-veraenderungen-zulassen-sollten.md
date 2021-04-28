@@ -1,16 +1,23 @@
 ---
-title: Warum wir Veränderungen zulassen sollten
-seoTitle: Warum wir Veränderungen zulassen sollten - neu ist gut
+date: 2019-06-03T08:03:26.000Z
 slug: veraenderungen-sind-gut
 path: /2019/06/veraenderungen-sind-gut/
-fileName: 2019-06---warum-wir-veraenderungen-zulassen-sollten.md
+type: Artikel
+typeName: Artikel
+title: Warum wir Veränderungen zulassen sollten
+seoTitle: Warum wir Veränderungen zulassen sollten - neu ist gut
+ogTitle: Warum wir Veränderungen zulassen sollten - neu ist gut
 description: Veränderung ist wichtig. Wir sollten sie nicht nur zulassen,
   sondern aktiv danach verlangen und an ihr arbeiten. Nur so werden wir
   dauerhaft glücklich.
 excerpt: Veränderung ist wichtig. Wir sollten sie nicht nur zulassen, sondern
   aktiv danach verlangen und an ihr arbeiten. Nur so werden wir dauerhaft
   glücklich.
-focusKeyword: Veränderungen
+fileName: 2019-06---warum-wir-veraenderungen-zulassen-sollten.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-4__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-4__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYABP/EACcQAAIBAwMDBAMBAAAAAAAAAAECAwQRIQAFEgYiMRNBUXEHFBUy/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMBBP/EAB4RAAICAgIDAAAAAAAAAAAAAAECABEhMQMSQWGh/9oADAMBAAIRAxEAPwCH2rcVVWenpoIzVPIXcEmQx+FXm1yF+rEkk3+Kfb9z2qir46Step9ORO4R0pnigN+3t5An5I9r599E7a7JQyy1yw0VIqSzJKwyOTA2FvJ5lbW+rnI0r06xpqHdeoBDDGsNLLHEkjnkbqQCxs3J8i4wM2vp9/EkqWcxarrNmejf+VLWSSFQ7FdtmgQWwLnuX5wTqI3t6P8An1Ubjk0UfOnU07Ao4c34yYYCxU5LCxIxjTZmr3pK0UVU0VfQx+lliA9O+BcAj/LEjNxZl0RLUTVu3KFrzLDPE0UpMRLR2ILc1FyDYL4uBoDlsXNKUahvRuz06VFPV85XAF1WpW5Hm7kciL4x8ferr8jVsu3dI/qCrVYK2ZFWkWnRbAWY3cG5NlHnzfW1tRU7M6kQEgem+C5MPvZ2bqCLclHOOP02nQi4khkjX1AR74z9ga6+tqBF3CPctnkjj7OQ4eJkNsEDBI9j5OPnW1tBcAGFtz//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-fb.png__l.jpg
 labels:
   - Achtsamkeit
   - Antifaschismus & Feminismus
@@ -25,17 +32,12 @@ labels:
   - New Work
   - Progress
   - Selbstliebe
-type: Artikel
-typeName: Artikel
-date: 2019-06-03T08:03:26.000Z
+focusKeyword: Veränderungen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "24293"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-4__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-4__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYABP/EACcQAAIBAwMDBAMBAAAAAAAAAAECAwQRIQAFEgYiMRNBUXEHFBUy/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMBBP/EAB4RAAICAgIDAAAAAAAAAAAAAAECABEhMQMSQWGh/9oADAMBAAIRAxEAPwCH2rcVVWenpoIzVPIXcEmQx+FXm1yF+rEkk3+Kfb9z2qir46Step9ORO4R0pnigN+3t5An5I9r599E7a7JQyy1yw0VIqSzJKwyOTA2FvJ5lbW+rnI0r06xpqHdeoBDDGsNLLHEkjnkbqQCxs3J8i4wM2vp9/EkqWcxarrNmejf+VLWSSFQ7FdtmgQWwLnuX5wTqI3t6P8An1Ubjk0UfOnU07Ao4c34yYYCxU5LCxIxjTZmr3pK0UVU0VfQx+lliA9O+BcAj/LEjNxZl0RLUTVu3KFrzLDPE0UpMRLR2ILc1FyDYL4uBoDlsXNKUahvRuz06VFPV85XAF1WpW5Hm7kciL4x8ferr8jVsu3dI/qCrVYK2ZFWkWnRbAWY3cG5NlHnzfW1tRU7M6kQEgem+C5MPvZ2bqCLclHOOP02nQi4khkjX1AR74z9ga6+tqBF3CPctnkjj7OQ4eJkNsEDBI9j5OPnW1tBcAGFtz//2Q==
 subTitle: Neu ist gut
   
 ---

@@ -1,15 +1,22 @@
 ---
-title: Unboxing Vegan Beauty Basket März
-seoTitle: Unboxing Vegan Beauty Basket März - Frühling aus dem Karton
+date: 2018-03-20T20:07:51.000Z
 slug: unboxing-vegan-beauty-basket-maerz
 path: /2018/03/unboxing-vegan-beauty-basket-maerz/
-fileName: 2018-03---unboxing-vegan-beauty-basket-maerz.md
+type: Artikel
+typeName: Produkttest
+title: Unboxing Vegan Beauty Basket März
+seoTitle: Unboxing Vegan Beauty Basket März - Frühling aus dem Karton
+ogTitle: Unboxing Vegan Beauty Basket März - Frühling aus dem Karton
 description: Ich durfte mal wieder den Vegan Beauty Basket auspacken. Heraus
   purzelte unter anderem ein Eyeliner, der komplett ohne Plastik auskommt.
 excerpt: Werbung - Ich durfte mal wieder den Vegan Beauty Basket auspacken.
   Heraus purzelte unter anderem ein Eyeliner, der komplett ohne Plastik
   auskommt.
-focusKeyword: Vegan Beauty Basket
+fileName: 2018-03---unboxing-vegan-beauty-basket-maerz.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_27013348798_3dfdff82b3_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_27013348798_3dfdff82b3_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKhAAAgEDBAAFAwUAAAAAAAAAAQIDBAURAAYSIQcxQVFxEyIycpGisbL/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAIREAAgIABQUAAAAAAAAAAAAAAQIAEQMSMVGBEyFBkfD/2gAMAwEAAhEDEQA/AIPiHtgzbAuUpXL0irVof0H7v4ltLnw82zPdqaa5Lt2ou9vBaIOkqRqjrgnPJhnojT53tGtXsK5U2RiaH6ZyceZGtBa4IquyW2eGRKX6kCMBDCmCQO1GegevPHWhO0UFDgqTX3E5yl8LL3UPMZIqa1pIpelSWdZS5LYCDgSRgH8j7aZVTcbVtXbFrSqaSngSOKljhwGmLYwwKA+YIJPz66YlztRrbNWxJItTUcOVNyZQSR9wJZehnJHxpaQ7WivO7YL85mhmpZWWopqmIc1lQAKCRkEDOQfUccaS3UzitJS4w1w9z6188STvmvli2dVFfZf9rrX7acz7ftnMLwkhMjIR0SPTRo04i5MjsndZapUSRlIFKqAQTIgKuQMnGc+vQ+NZmoqni3tcqdBiOejhqWHs4Z0/pV/bRo1oEAuzm2n/2Q==
+ogImage: null
 labels:
   - beauty
   - Beauty ohne Plastik
@@ -37,17 +44,12 @@ labels:
   - vegan beauty
   - Vegan Beauty Basket
   - Wellness
-type: Artikel
-typeName: Produkttest
-date: 2018-03-20T20:07:51.000Z
+focusKeyword: Vegan Beauty Basket
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "20175"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_27013348798_3dfdff82b3_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_27013348798_3dfdff82b3_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKhAAAgEDBAAFAwUAAAAAAAAAAQIDBAURAAYSIQcxQVFxEyIycpGisbL/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAIREAAgIABQUAAAAAAAAAAAAAAQIAEQMSMVGBEyFBkfD/2gAMAwEAAhEDEQA/AIPiHtgzbAuUpXL0irVof0H7v4ltLnw82zPdqaa5Lt2ou9vBaIOkqRqjrgnPJhnojT53tGtXsK5U2RiaH6ZyceZGtBa4IquyW2eGRKX6kCMBDCmCQO1GegevPHWhO0UFDgqTX3E5yl8LL3UPMZIqa1pIpelSWdZS5LYCDgSRgH8j7aZVTcbVtXbFrSqaSngSOKljhwGmLYwwKA+YIJPz66YlztRrbNWxJItTUcOVNyZQSR9wJZehnJHxpaQ7WivO7YL85mhmpZWWopqmIc1lQAKCRkEDOQfUccaS3UzitJS4w1w9z6188STvmvli2dVFfZf9rrX7acz7ftnMLwkhMjIR0SPTRo04i5MjsndZapUSRlIFKqAQTIgKuQMnGc+vQ+NZmoqni3tcqdBiOejhqWHs4Z0/pV/bRo1oEAuzm2n/2Q==
 subTitle: Frühling aus dem Karton
   
 ---

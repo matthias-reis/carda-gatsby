@@ -1,31 +1,33 @@
 ---
-title: Gitarrenpionier Les Paul gestorben
-seoTitle: Nachruf - Gitarrenpionier Les Paul gestorben
+date: 2009-08-13T18:14:02.000Z
 slug: nachruf-gitarrenpionier-les-paul-gestorben
 path: /2009/08/nachruf-gitarrenpionier-les-paul-gestorben/
-fileName: 2009-08---gitarrenpionier-les-paul-gestorben.md
+type: Artikel
+typeName: Artikel
+title: Gitarrenpionier Les Paul gestorben
+seoTitle: Nachruf - Gitarrenpionier Les Paul gestorben
+ogTitle: Nachruf - Gitarrenpionier Les Paul gestorben
 description: Am 13. August 2009 ist Les Paul von uns gegangen, der Erfinder der
   Les Paul Gitarre.
 excerpt: Am 13. August 2009 starb der Erfinder der Les Paul Gitarren Les Paul im
   Alter von 94 Jahren - ein Nachruf
-focusKeyword: Les Paul
+fileName: 2009-08---gitarrenpionier-les-paul-gestorben.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_08_116752_r_by_heiko-bragenitz_pixelio-de__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_08_116752_r_by_heiko-bragenitz_pixelio-de__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAb/xAAsEAACAQIFAwMDBQEAAAAAAAABAgMEEQAFBhIhBxMxFEFhUXGRIjIzUsHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFAv/EACQRAAEDAQkAAwAAAAAAAAAAAAEAAhEDBBITITFBUWFxgZHw/9oADAMBAAIRAxEAPwBxqmWPMdPZrlNAjzVc0LwAABURrgHc7WA5NvvwMTPIKGWmgrxsCt6Vojacx+JGBuPB8ePfDltZZbFnk89GjVVDVO6TwM+2OpSQkds/MgG4f1uh4vhZpTN6Cp0NVTVEsxzpKyOn7SR7h6d0O17Act3bhmvfm+FHPJJlUKdnim14PvX7n42T/o+vZ1HlxDLbtVK2t9bn/PGKbrmTsai6fV3A2516Rj8TREW/K4kuiK1soqcqq61HWKJKqedglzHEFYlz72A+nPxih9Ra+OfS+T18ZcCjznLqwblKkDugcg8jhx+cEoOkH1AtTYcPFD9FZZQ5tS0KvBBPX1Ds0Eb5iI2JY2/iUhrgA8+eBbxjTqXSMND1Jh0esivTGftQBXJAlkKkA83uqug59h8nBgwB4OYk6fXioWasMVgDBl1M5DWZVyzDpJQDUi0UBrqTT0VIIJDG8Y742ruQsWLsHI/VZR7i9scN1h1lSTR6wyowPC1PNEtKwF1YQtER9v2H/mDBjTnFhF3lIUhi3r+wX//Z
+ogImage: null
 labels:
   - Bands
   - Gibson Les Paul
   - Gitarren
   - Les Paul
   - Paula
-type: Artikel
-typeName: Artikel
-date: 2009-08-13T18:14:02.000Z
+focusKeyword: Les Paul
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11437"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_08_116752_r_by_heiko-bragenitz_pixelio-de__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_08_116752_r_by_heiko-bragenitz_pixelio-de__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAb/xAAsEAACAQIFAwMDBQEAAAAAAAABAgMEEQAFBhIhBxMxFEFhUXGRIjIzUsHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFAv/EACQRAAEDAQkAAwAAAAAAAAAAAAEAAhEDBBITITFBUWFxgZHw/9oADAMBAAIRAxEAPwBxqmWPMdPZrlNAjzVc0LwAABURrgHc7WA5NvvwMTPIKGWmgrxsCt6Vojacx+JGBuPB8ePfDltZZbFnk89GjVVDVO6TwM+2OpSQkds/MgG4f1uh4vhZpTN6Cp0NVTVEsxzpKyOn7SR7h6d0O17Act3bhmvfm+FHPJJlUKdnim14PvX7n42T/o+vZ1HlxDLbtVK2t9bn/PGKbrmTsai6fV3A2516Rj8TREW/K4kuiK1soqcqq61HWKJKqedglzHEFYlz72A+nPxih9Ra+OfS+T18ZcCjznLqwblKkDugcg8jhx+cEoOkH1AtTYcPFD9FZZQ5tS0KvBBPX1Ds0Eb5iI2JY2/iUhrgA8+eBbxjTqXSMND1Jh0esivTGftQBXJAlkKkA83uqug59h8nBgwB4OYk6fXioWasMVgDBl1M5DWZVyzDpJQDUi0UBrqTT0VIIJDG8Y742ruQsWLsHI/VZR7i9scN1h1lSTR6wyowPC1PNEtKwF1YQtER9v2H/mDBjTnFhF3lIUhi3r+wX//Z
 subTitle: Nachruf für einen Giganten
   
 ---

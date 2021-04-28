@@ -1,14 +1,21 @@
 ---
-title: Vegane Alternativen für Meeresfrüchte
-seoTitle: Vegane Alternativen für Meeresfrüchte aus Kichererbsen
+date: 2020-05-06T10:14:36.000Z
 slug: vegane-alternativen-fuer-shrimps-tintenfisch-und-krabben
 path: /2020/05/vegane-alternativen-fuer-shrimps-tintenfisch-und-krabben/
-fileName: 2020-05---vegane-alternativen-fuer-meeresfruechte.md
+type: Artikel
+typeName: Artikel
+title: Vegane Alternativen für Meeresfrüchte
+seoTitle: Vegane Alternativen für Meeresfrüchte aus Kichererbsen
+ogTitle: Vegane Alternativen für Meeresfrüchte aus Kichererbsen
 description: Ein Unternehmen aus Singapur Unternehmen hat 8 Millionen Dollar in
   vegane Alternativen für Shrimps, Krabben und Tintenfisch gesteckt.
 excerpt: Ein Unternehmen aus Singapur Unternehmen hat 8 Millionen Dollar in
   vegane Alternativen für Shrimps, Krabben und Tintenfisch gesteckt.
-focusKeyword: Vegane Alternativen
+fileName: 2020-05---vegane-alternativen-fuer-meeresfruechte.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_vegane-alternativen-fuer-meeresfruechte__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_vegane-alternativen-fuer-meeresfruechte__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHCAb/xAApEAABAwMEAQQBBQAAAAAAAAABAgMEBREhAAYSMWEHFCJBE1FScYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMBBP/EAB4RAQACAgIDAQAAAAAAAAAAAAEAAgMhETESIkFx/9oADAMBAAIRAxEAPwCRvUZFZqTsudLbaW4m7jrbZAwMKCDmx6sej/Wl9ap1NpCGlxZjzzq0kt8o1kXBzck5Pi2taz/Trab6VOvUpLUhwhLy2T7fnf8AdYgKHjU53t6T0SKwt2DGkvqQghCnXSlSAfsqF+ZFrdA5ydd2StXbqQxIniG5nJU6bIlFMLk06/yQG44spfLsY+vHWncrZFRYo/v0lTzqjcgIIABxa5zyvqkUfatbocVLlFpNPTMPFwSEOqWspBsRxWeXiw864Hdu7d1uOuQq1KWy4y5hhplLTYwc2Cb3se+9KpirT2efz5DkpmHmugm0najTo7QbmSofytdK1ghZuRYX7sR/ONL350N2JILbkSS6g55SEpTf9CTgdjHeb6NGtalncgWahxFDCKLVm1uJlURic3Zpxxp0OhDn0kZH+A30g3FtXam85xZJZckMgp4oP5T8LKUbk4woDxe2jRpUA6IbWT73P//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_vegane-alternativen-fuer-meeresfruechte-fb.png__l.jpg
 labels:
   - Ernährung
   - Ernährung & Gesundheit
@@ -28,17 +35,12 @@ labels:
   - vegane Fischalternative
   - vegane Innovationen
   - vegane Meeresfrüchte
-type: Artikel
-typeName: Artikel
-date: 2020-05-06T10:14:36.000Z
+focusKeyword: Vegane Alternativen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29517"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_vegane-alternativen-fuer-meeresfruechte__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_vegane-alternativen-fuer-meeresfruechte__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHCAb/xAApEAABAwMEAQQBBQAAAAAAAAABAgMEBREhAAYSMWEHFCJBE1FScYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMBBP/EAB4RAQACAgIDAQAAAAAAAAAAAAEAAgMhETESIkFx/9oADAMBAAIRAxEAPwCRvUZFZqTsudLbaW4m7jrbZAwMKCDmx6sej/Wl9ap1NpCGlxZjzzq0kt8o1kXBzck5Pi2taz/Trab6VOvUpLUhwhLy2T7fnf8AdYgKHjU53t6T0SKwt2DGkvqQghCnXSlSAfsqF+ZFrdA5ydd2StXbqQxIniG5nJU6bIlFMLk06/yQG44spfLsY+vHWncrZFRYo/v0lTzqjcgIIABxa5zyvqkUfatbocVLlFpNPTMPFwSEOqWspBsRxWeXiw864Hdu7d1uOuQq1KWy4y5hhplLTYwc2Cb3se+9KpirT2efz5DkpmHmugm0najTo7QbmSofytdK1ghZuRYX7sR/ONL350N2JILbkSS6g55SEpTf9CTgdjHeb6NGtalncgWahxFDCKLVm1uJlURic3Zpxxp0OhDn0kZH+A30g3FtXam85xZJZckMgp4oP5T8LKUbk4woDxe2jRpUA6IbWT73P//Z
 subTitle: Konzern schwört auf Kichererbsen
   
 ---

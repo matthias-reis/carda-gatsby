@@ -1,28 +1,30 @@
 ---
-title: TOM & FLO live @ Joe's Garage
-seoTitle: Tom & Flo live @ Joe's Garage
+date: 2009-12-21T16:59:51.000Z
 slug: tom-flo-live-joes-garage
 path: /2009/12/tom-flo-live-joes-garage/
-fileName: 2009-12---tom-und-flo-live-joes-garage.md
+type: Galerie
+typeName: Konzertbericht
+title: TOM & FLO live @ Joe's Garage
+seoTitle: Tom & Flo live @ Joe's Garage
+ogTitle: Tom & Flo live @ Joe's Garage
 description: "Am Samstag, 19. Dezember war es so weit: Tom & Flo spielten live
   und unplugged in Lothars alter Nähfabrik in Schrobenhausen."
 excerpt: Am Samstag, 19. Dezember spielten Tom & Flo live und unplugged in
   Lothars alter Nähfabrik in Schrobenhausen.
-focusKeyword: Tom & Flo
-labels:
-  - Konzerte
-  - Tom & Flo
-type: Galerie
-typeName: Konzertbericht
-date: 2009-12-21T16:59:51.000Z
-status: publish
-isWerbung: false
-isAffiliate: false
-errors: {}
-thumbnailId: "11494"
+fileName: 2009-12---tom-und-flo-live-joes-garage.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_12_9915416113_9591e14d3c_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_12_9915416113_9591e14d3c_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMEBQECCP/EACIQAAICAgIBBQEAAAAAAAAAAAECABEDIQQSBQYTIjFhgf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EAB0RAAMAAgIDAAAAAAAAAAAAAAABAgMEETESIYH/2gAMAwEAAhEDEQA/AOVpvixZMz9MKM7VdKLMdk4nRAwz4Ws1pxLT0goXz3H9x0XCT82NmlGz9CTu/GXSL6WKdnNONv02kUUJO8xxG43k+YiEPiTKwV1UqGWzRAOwCNyIqKV7NkC/lWYlSa5QLxVFOGuvguZGoQiJjjkY4wWJZrq2N63FF7xqnVQASbA2f7CExIdU32f/2Q==
+ogImage: null
+labels:
+  - Konzerte
+  - Tom & Flo
+focusKeyword: Tom & Flo
+status: publish
+isWerbung: false
+isAffiliate: false
+language: de
+errors: {}
 subTitle: Lothars alte Nähfabrik Schrobenhausen
   
 ---

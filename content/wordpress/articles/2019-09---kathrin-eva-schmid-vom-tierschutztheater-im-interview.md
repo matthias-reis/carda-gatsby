@@ -1,14 +1,21 @@
 ---
-title: Kathrin Eva Schmid vom Tierschutztheater im Interview
-seoTitle: Kathrin Eva Schmidt vom Tierschutztheater im Interview
+date: 2019-09-02T12:57:53.000Z
 slug: kathrin-eva-schmid-vom-tierschutztheater-im-interview
 path: /2019/09/kathrin-eva-schmid-vom-tierschutztheater-im-interview/
-fileName: 2019-09---kathrin-eva-schmid-vom-tierschutztheater-im-interview.md
+type: Artikel
+typeName: Interview
+title: Kathrin Eva Schmid vom Tierschutztheater im Interview
+seoTitle: Kathrin Eva Schmidt vom Tierschutztheater im Interview
+ogTitle: Kathrin Eva Schmid vom Tierschutztheater im Interview
 description: Das Tierschutztheater ist ein Zusammenschluss aus Menschen, die
   gerne Theater spielen und sich für die Rechte der Tiere einsetzen wollen.
 excerpt: Das Tierschutztheater ist ein Zusammenschluss aus Menschen, die gerne
   Theater spielen und sich für die Rechte der Tiere einsetzen wollen.
-focusKeyword: Tierschutztheater
+fileName: 2019-09---kathrin-eva-schmid-vom-tierschutztheater-im-interview.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_tierschutztheater-interview-cardamonchai__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_tierschutztheater-interview-cardamonchai__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAFBwP/xAArEAACAQMDAwIFBQAAAAAAAAABAgMABBEFEiEGEzEUIgcjQWGBMlFxkaH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUEB//EACIRAAEDAwMFAAAAAAAAAAAAAAEAAgMEETETIaFhcYGx0f/aAAwDAQACEQMRAD8A4dHPFBaC5cN2gyghgVJG4A0t0nTPVJNMkUvphO8cUjIQHUcgg+Dwf8otNsS+03uQpPH3MtG/hvAAP910bpe6WS+i097c28YU/KaMrtkBIyP2DDHB+o/FdklqJRK8A7MAFvFyeeFQ1DEDYYWXd6SEQkCj93b7M0z6kkez6ihtmnxaytCVT2DhxIhGSdxw6g4APnkij+rxRxn3uq8fU4p9DW6uU2GXWbusCS3jmUNOCyfLTaODy4BOf4NK43ntbqyRrmW4ltZZUWSY7iVQghcfiqqhnja2VzgN7fUMjRnovH4l3kkWoWUwLbuxMoCnHKSIwPjxnHFEerr2LUbtGmtVz2Jgnu/S2QQfvjnj71VVDna0wTAjBZ7CzMNmkdl//9k=
+ogImage: null
 labels:
   - Interviews
   - Kathrin Eva Schmid
@@ -22,17 +29,12 @@ labels:
   - Tierschutztheater
   - vegan
   - Veganer*innen
-type: Artikel
-typeName: Interview
-date: 2019-09-02T12:57:53.000Z
+focusKeyword: Tierschutztheater
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "25898"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_tierschutztheater-interview-cardamonchai__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_tierschutztheater-interview-cardamonchai__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAFBwP/xAArEAACAQMDAwIFBQAAAAAAAAABAgMABBEFEiEGEzEUIgcjQWGBMlFxkaH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUEB//EACIRAAEDAwMFAAAAAAAAAAAAAAEAAgMEETETIaFhcYGx0f/aAAwDAQACEQMRAD8A4dHPFBaC5cN2gyghgVJG4A0t0nTPVJNMkUvphO8cUjIQHUcgg+Dwf8otNsS+03uQpPH3MtG/hvAAP910bpe6WS+i097c28YU/KaMrtkBIyP2DDHB+o/FdklqJRK8A7MAFvFyeeFQ1DEDYYWXd6SEQkCj93b7M0z6kkez6ihtmnxaytCVT2DhxIhGSdxw6g4APnkij+rxRxn3uq8fU4p9DW6uU2GXWbusCS3jmUNOCyfLTaODy4BOf4NK43ntbqyRrmW4ltZZUWSY7iVQghcfiqqhnja2VzgN7fUMjRnovH4l3kkWoWUwLbuxMoCnHKSIwPjxnHFEerr2LUbtGmtVz2Jgnu/S2QQfvjnj71VVDna0wTAjBZ7CzMNmkdl//9k=
 subTitle: Ein Ensemble für den Tierschutz
   
 ---

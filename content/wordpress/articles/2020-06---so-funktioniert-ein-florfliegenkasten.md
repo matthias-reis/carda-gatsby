@@ -1,15 +1,22 @@
 ---
-title: So funktioniert ein Florfliegenkasten
-seoTitle: So funktioniert ein Florfliegenkasten - ein Zuhause für die Goldaugen
+date: 2020-06-30T07:44:07.000Z
 slug: florfliegenkasten
 path: /2020/06/florfliegenkasten/
-fileName: 2020-06---so-funktioniert-ein-florfliegenkasten.md
+type: Artikel
+typeName: Artikel
+title: So funktioniert ein Florfliegenkasten
+seoTitle: So funktioniert ein Florfliegenkasten - ein Zuhause für die Goldaugen
+ogTitle: So funktioniert ein Florfliegenkasten - ein Zuhause für die Goldaugen
 description: Ein Florfliegenkasten auf dem Balkon kann dabei helfen, die
   filigranen Insekten vor dem Aussterben zu schützen. Er funktioniert ganz
   einfach.
 excerpt: Ein Florfliegenkasten auf dem Balkon kann dabei helfen, die filigranen
   Insekten vor dem Aussterben zu schützen. Er funktioniert ganz einfach.
-focusKeyword: Florfliegenkasten
+fileName: 2020-06---so-funktioniert-ein-florfliegenkasten.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-29-florfliegenkasten-08__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-29-florfliegenkasten-08__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYC/8QAKBAAAgEDAwQCAQUAAAAAAAAAAQIDBAURABIhBjFBURNhFAciIzJx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQQFAv/EACgRAAECBAQFBQAAAAAAAAAAAAEAAgMEETEFEiFBBiIzUfCBobHR4f/aAAwDAQACEQMRAD8AbfpzND0/03VPU0TyyVIWKF4wow4Vt2STnnd49axnXF8FTcXtlhZUqWRYZqtn3fEFzxnnL8nJ5x/va5aumblPTxrQ3yOWt27Q0smAITgMqrjhs+fPsahv1rpIOqJpKJIpI6mV2JCbuwB47j7yNKTkURCHA96Krw/LNBfUHN7AfapJQPdLZIfhWO80sYMhQFVqF7blPvHce9VHpUfpanjZ443/ACqmpb5X252oBgeSf28adQQpDUJNG8azIkrKmNmcRsRnJx3Pn1pLXu9XcInrZxQbVedjEokCsQeAAcHcfvzzqca5am1k/icNkMgtPMRX9TK11Bqqr8enVCduA6OCJBnhuWAK/Xs/R1xeYq177UfxJ+PBI4j3Rg5H9RgEN60aNZPUJSmHTLoTWtAvfz0UtnvssVvudEbfSbvillFRLTKx3KvCcgDGM8AaxdZVmGNXFXTCoQKpjiiZFGOcrx775xo0aAcSXM20+FNxibiQ5x2TSnm6/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_florfliegenkasten-fb.png__l.jpg
 labels:
   - Balkon
   - Blattläuse loswerden
@@ -19,17 +26,12 @@ labels:
   - Klima & Umweltschutz
   - Nützlinge
   - Urban Gardening
-type: Artikel
-typeName: Artikel
-date: 2020-06-30T07:44:07.000Z
+focusKeyword: Florfliegenkasten
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30187"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-29-florfliegenkasten-08__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-29-florfliegenkasten-08__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYC/8QAKBAAAgEDAwQCAQUAAAAAAAAAAQIDBAURABIhBjFBURNhFAciIzJx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQQFAv/EACgRAAECBAQFBQAAAAAAAAAAAAEAAgMEETEFEiFBBiIzUfCBobHR4f/aAAwDAQACEQMRAD8AbfpzND0/03VPU0TyyVIWKF4wow4Vt2STnnd49axnXF8FTcXtlhZUqWRYZqtn3fEFzxnnL8nJ5x/va5aumblPTxrQ3yOWt27Q0smAITgMqrjhs+fPsahv1rpIOqJpKJIpI6mV2JCbuwB47j7yNKTkURCHA96Krw/LNBfUHN7AfapJQPdLZIfhWO80sYMhQFVqF7blPvHce9VHpUfpanjZ443/ACqmpb5X252oBgeSf28adQQpDUJNG8azIkrKmNmcRsRnJx3Pn1pLXu9XcInrZxQbVedjEokCsQeAAcHcfvzzqca5am1k/icNkMgtPMRX9TK11Bqqr8enVCduA6OCJBnhuWAK/Xs/R1xeYq177UfxJ+PBI4j3Rg5H9RgEN60aNZPUJSmHTLoTWtAvfz0UtnvssVvudEbfSbvillFRLTKx3KvCcgDGM8AaxdZVmGNXFXTCoQKpjiiZFGOcrx775xo0aAcSXM20+FNxibiQ5x2TSnm6/9k=
 subTitle: Ein Zuhause für die Goldaugen
   
 ---

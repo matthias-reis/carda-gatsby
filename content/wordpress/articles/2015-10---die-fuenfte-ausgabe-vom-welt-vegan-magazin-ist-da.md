@@ -1,14 +1,21 @@
 ---
-title: Die fünfte Ausgabe vom Welt Vegan Magazin ist da!
-seoTitle: Das neue Welt Vegan Magazin - Wieder zwei Artikel von mir
+date: 2015-10-01T15:49:50.000Z
 slug: die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da
 path: /2015/10/die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da/
-fileName: 2015-10---die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da.md
+type: Artikel
+typeName: Artikel
+title: Die fünfte Ausgabe vom Welt Vegan Magazin ist da!
+seoTitle: Das neue Welt Vegan Magazin - Wieder zwei Artikel von mir
+ogTitle: Das neue Welt Vegan Magazin - Wieder zwei Artikel von mir
 description: Das neue Welt Vegan Magazin liegt ab sofort druckfrisch beim Eurem
   Zeitschriftenhändler. Auch von mir sind wieder zwei Artikel dabei.
 excerpt: Das neue Welt Vegan Magazin liegt ab sofort druckfrisch beim Eurem
   Zeitschriftenhändler. Auch von mir sind wieder zwei Artikel dabei.
-focusKeyword: Magazin
+fileName: 2015-10---die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23561677036_12d9f94bf1_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23561677036_12d9f94bf1_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAgX/xAAoEAACAQMEAgEDBQAAAAAAAAABAgMABBEFBhIhEyIxFEGhUVJhgbH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgUA/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAEQMSISIxE0FR/9oADAMBAAIRAxEAPwCV7X28l5c2sDgJ5ZEQtjOMsBn81V7DZW37Nitw+qXUoyeNvbIQoXGWZuXqvY7NJOz7iB5Y37DRsH+cfFP21bzWL3dWowPBerbSR3MMUcMfFeY5BWJYsSPuB0M9VEtnY36l9wEVSD38i/unbmmBmFoUDk+WPJOZoS3EOAf2t6EjrJFTrWNE8UTEDBXPYqjbS274NbttPtNVtLwzIwnikdYxGhBZzH849iG4jAzg/rjn6/CsX1cEo4yo5DA/2DWY+NwAYUrKhvuImgX0kS5TAyoz/lVrbe54yk09npcNvdM6GacTyM8jhOJYe2FByegMd0UUM5K3phwKHHKY3HrswKhIoUaJCqMkaqVH8ELn81Pb6/mubqR5SWLKScnOaKKXHuLMbLx2G0//2Q==
+ogImage: null
 labels:
   - Artikel
   - BUND
@@ -16,17 +23,12 @@ labels:
   - Geschichten & Erlebtes
   - TTIP
   - Welt Vegan Magazin
-type: Artikel
-typeName: Artikel
-date: 2015-10-01T15:49:50.000Z
+focusKeyword: Magazin
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "13392"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23561677036_12d9f94bf1_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23561677036_12d9f94bf1_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAgX/xAAoEAACAQMEAgEDBQAAAAAAAAABAgMABBEFBhIhEyIxFEGhUVJhgbH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgUA/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAEQMSISIxE0FR/9oADAMBAAIRAxEAPwCV7X28l5c2sDgJ5ZEQtjOMsBn81V7DZW37Nitw+qXUoyeNvbIQoXGWZuXqvY7NJOz7iB5Y37DRsH+cfFP21bzWL3dWowPBerbSR3MMUcMfFeY5BWJYsSPuB0M9VEtnY36l9wEVSD38i/unbmmBmFoUDk+WPJOZoS3EOAf2t6EjrJFTrWNE8UTEDBXPYqjbS274NbttPtNVtLwzIwnikdYxGhBZzH849iG4jAzg/rjn6/CsX1cEo4yo5DA/2DWY+NwAYUrKhvuImgX0kS5TAyoz/lVrbe54yk09npcNvdM6GacTyM8jhOJYe2FByegMd0UUM5K3phwKHHKY3HrswKhIoUaJCqMkaqVH8ELn81Pb6/mubqR5SWLKScnOaKKXHuLMbLx2G0//2Q==
 subTitle: Zwei Artikel sind von mir
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: Mark Lanegan live@Freiheiz München
-seoTitle: Mark Lanegan im Münchener Freiheiz - das ist mir noch nie passiert
+date: 2012-08-14T23:17:54.000Z
 slug: mark-lenegan-live-freiheiz-munchen
 path: /2012/08/mark-lenegan-live-freiheiz-munchen/
-fileName: 2012-08---mark-lanegan-live-freiheiz-muenchen.md
+type: Artikel
+typeName: Konzertbericht
+title: Mark Lanegan live@Freiheiz München
+seoTitle: Mark Lanegan im Münchener Freiheiz - das ist mir noch nie passiert
+ogTitle: Mark Lanegan im Münchener Freiheiz - das ist mir noch nie passiert
 description: Gestern ist mir etwas passiert, was mir zuvor noch nie passiert ist
   und ich habe Mark Lanegan gesehen - insgesamt ein sehr gelungener Tag.
 excerpt: Gestern ist mir etwas passiert, was mir zuvor noch nie passiert ist und
   ich habe Mark Lanegan gesehen - insgesamt ein sehr gelungener Tag.
-focusKeyword: Mark Lanegan
+fileName: 2012-08---mark-lanegan-live-freiheiz-muenchen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_9918517073_1c699d6bcc_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_9918517073_1c699d6bcc_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEDBQYCBAj/xAAmEAACAQQCAgIBBQAAAAAAAAABAgMABAUREiExQQZRBxNigdHw/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUBAgMG/8QAIxEAAgIABAcBAAAAAAAAAAAAAQIAAwQREiETFDFRYYGxwf/aAAwDAQACEQMRAD8A5cQbIAGz9VLWuMcwCSXSB+k37/jyf95rUtCgJkTRYb8jx/dXCxvbf4lmcZeRNi806xrO8ToZYDyUajdTrtdkEeiOiawsc9FjnBUIx1OdpO/jn47is7mks8pkbfF2vA85ZetcQSF799VTPl0cMeQmjgkEsaMVRv2jxqsJL+Z2muY0KIW7ZQeK79bqGu7gyuSTyNDU0uLNZPqOMfjaOW4KD55377/kLbI3ltZXVnBczR2l1w/XhVyEl4Ha8h4OiSR9bpkOfuiij8hOXVzFaVmVVJJUEkDfQpomiirAZSHYmf/Z
+ogImage: null
 labels:
   - bassist
   - Blog
@@ -44,17 +51,12 @@ labels:
   - Strand
   - Strandbar
   - Wenn man seine Freunde im Stich lässt
-type: Artikel
-typeName: Konzertbericht
-date: 2012-08-14T23:17:54.000Z
+focusKeyword: Mark Lanegan
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "10335"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_9918517073_1c699d6bcc_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_9918517073_1c699d6bcc_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEDBQYCBAj/xAAmEAACAQQCAgIBBQAAAAAAAAABAgMABAUREiExQQZRBxNigdHw/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUBAgMG/8QAIxEAAgIABAcBAAAAAAAAAAAAAQIAAwQREiETFDFRYYGxwf/aAAwDAQACEQMRAD8A5cQbIAGz9VLWuMcwCSXSB+k37/jyf95rUtCgJkTRYb8jx/dXCxvbf4lmcZeRNi806xrO8ToZYDyUajdTrtdkEeiOiawsc9FjnBUIx1OdpO/jn47is7mks8pkbfF2vA85ZetcQSF799VTPl0cMeQmjgkEsaMVRv2jxqsJL+Z2muY0KIW7ZQeK79bqGu7gyuSTyNDU0uLNZPqOMfjaOW4KD55377/kLbI3ltZXVnBczR2l1w/XhVyEl4Ha8h4OiSR9bpkOfuiij8hOXVzFaVmVVJJUEkDfQpomiirAZSHYmf/Z
 subTitle: "Oder: Die Geschichte mit der Dachterrasse"
   
 ---

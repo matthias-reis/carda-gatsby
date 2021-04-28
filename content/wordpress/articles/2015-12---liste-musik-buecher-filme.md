@@ -1,16 +1,23 @@
 ---
-title: "Liste: Musik, Bücher, Filme"
-seoTitle: Musik, Bücher und Filme - Eine besondere Liste
+date: 2015-12-10T12:52:50.000Z
 slug: musik-buecher-und-filme
 path: /2015/12/musik-buecher-und-filme/
-fileName: 2015-12---liste-musik-buecher-filme.md
+type: Artikel
+typeName: Artikel
+title: "Liste: Musik, Bücher, Filme"
+seoTitle: Musik, Bücher und Filme - Eine besondere Liste
+ogTitle: Musik, Bücher und Filme - Eine besondere Liste
 description: Sicher haben einige von Euch beim Lesen meines Blog schon gemerkt,
   dass ich wenn es um Musik, Bücher und Filme geht, keinen Spaß verstehe. Eine
   Übersicht.
 excerpt: Sicher haben einige von Euch beim Lesen meines Blog schon gemerkt, dass
   ich wenn es um Musik, Bücher und Filme geht, keinen Spaß verstehe. Eine
   Übersicht.
-focusKeyword: Musik
+fileName: 2015-12---liste-musik-buecher-filme.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9694670444_068ec34ffa_o-e1582810742342__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9694670444_068ec34ffa_o-e1582810742342__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QAKhAAAgEDBAEDAgcAAAAAAAAAAQIDBAURAAYSITETIkEHFkJRY3GxsvD/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAQP/xAAgEQACAgAGAwAAAAAAAAAAAAABAgADBBESITGxMkHw/9oADAMBAAIRAxEAPwBU+m20LLFE9/3klJTJXTFYKeokMVNjGewxBYnsgN114/LaI7Zs6Jlheh24jhUKLJTQgOGUMvAlfd7cH251yLbcZqSxWuvkqrdTyeskVRUVKyiJldWAWMkhiS3AZHkZ+NXbHu66XUUUEEtonkmaKFZYYquRGdiQzMwHGMHi+M57xnryO1nsJP3URsvElT7V2jeEma22TbVQsfHmyUiADIyO+P8AsaWdx7As0Ks8dosMWPgQ4/gadaY3+73eojpmlpKKZpPTastMqegi4GPUYY5ZViD2CGHnvFisohbre8d13DanZfEjrHG2Mfiy3Z8nOs9bqeZNpldgr79X2qSs+4a6DgRxjhjiUDsAd8M/OtFtO3a+50ETV25rzMT5zUyDORn4YaNGnYgBPEe4axzqylyb6bWtEMtVPUVR/Vdm/sTpT3Zt2x2iJDHbUkdlJ5MQMY/YaNGh132FwCY3C0pYwDdmf//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2013_11_chico__l.jpg
 labels:
   - Alternative
   - Bands
@@ -26,17 +33,12 @@ labels:
   - Musikliste
   - Post-Metal
   - Post-Rock
-type: Artikel
-typeName: Artikel
-date: 2015-12-10T12:52:50.000Z
+focusKeyword: Musik
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "9236"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9694670444_068ec34ffa_o-e1582810742342__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9694670444_068ec34ffa_o-e1582810742342__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QAKhAAAgEDBAEDAgcAAAAAAAAAAQIDBAURAAYSITETIkEHFkJRY3GxsvD/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAQP/xAAgEQACAgAGAwAAAAAAAAAAAAABAgADBBESITGxMkHw/9oADAMBAAIRAxEAPwBU+m20LLFE9/3klJTJXTFYKeokMVNjGewxBYnsgN114/LaI7Zs6Jlheh24jhUKLJTQgOGUMvAlfd7cH251yLbcZqSxWuvkqrdTyeskVRUVKyiJldWAWMkhiS3AZHkZ+NXbHu66XUUUEEtonkmaKFZYYquRGdiQzMwHGMHi+M57xnryO1nsJP3URsvElT7V2jeEma22TbVQsfHmyUiADIyO+P8AsaWdx7As0Ks8dosMWPgQ4/gadaY3+73eojpmlpKKZpPTastMqegi4GPUYY5ZViD2CGHnvFisohbre8d13DanZfEjrHG2Mfiy3Z8nOs9bqeZNpldgr79X2qSs+4a6DgRxjhjiUDsAd8M/OtFtO3a+50ETV25rzMT5zUyDORn4YaNGnYgBPEe4axzqylyb6bWtEMtVPUVR/Vdm/sTpT3Zt2x2iJDHbUkdlJ5MQMY/YaNGh132FwCY3C0pYwDdmf//Z
 subTitle: Keine Geschmacksache
   
 ---

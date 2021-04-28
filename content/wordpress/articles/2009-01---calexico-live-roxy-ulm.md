@@ -1,13 +1,20 @@
 ---
-title: Calexico live @ Roxy Ulm
-seoTitle: Calexico live @ Roxy Ulm Anne bloggt cardamonchai
+date: 2009-01-29T16:26:14.000Z
 slug: calexico-live-roxy-ulm
 path: /2009/01/calexico-live-roxy-ulm/
-fileName: 2009-01---calexico-live-roxy-ulm.md
+type: Galerie
+typeName: Konzertbericht
+title: Calexico live @ Roxy Ulm
+seoTitle: Calexico live @ Roxy Ulm Anne bloggt cardamonchai
+ogTitle: Calexico live @ Roxy Ulm Anne bloggt cardamonchai
 description: Am Dienstag, 27.01.2009 spielten Calexico live im Roxy in Ulm.
 excerpt: Am Dienstag, 27.01.2009 spielten Calexico live im Roxy in Ulm. Als
   Support trat der spanische Gitarrist Jairo Zavala auf.
-focusKeyword: Calexico
+fileName: 2009-01---calexico-live-roxy-ulm.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_01_IMG_1669__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_01_IMG_1669__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBgcF/8QAKBAAAQQBBAEDBAMAAAAAAAAAAQIDBBEFAAYSITEHIlETFEFhUnGR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAJREAAgEDAwIHAAAAAAAAAAAAAQIDABEhBBJBYYEiMTJRkcHw/9oADAMBAAIRAxEAPwDE9zbdwsPE7ffhSpEmbJKjkGmSgtsCxxQ38qq7vq60jujbDeDkPIKJgbW6TFEmOUOOMlPJLho1+QKFiwe+td3KSFwsW4cFAW7JWtIMpDXItX/H4Uf0Ov8ANU+XKyU15tzJPS330p+iFSFrWpKRfQKvwDfX9611LR+SnxXzbjp99Kv67TQwzlY1JFu3zbJ/Zq57b9K5Wd2MjPx/vQkPONulLHNCONEHr3VRNkA1qm5DBIx8mQzJk+5KbaU2kLQ4rkOib9ook332AK7sav6V+sUrZ2Fe25L+0DUp0FE4tl0REkUolpJSHD4och+/FazHe+QTN3HJloErk4rktcsguuH5WlICUnx7QKHjSGngaOypkWznvepT6ZV3MGNhb2vSEV91+RSXFNqKTSkkgiheoqcemSmVPSHlLpKOSlWQPgaNGpcvqJ6UlXZwATzUIeReY5luu6Ivvj8aUlvrkPLddJUtXZJPnRo0ncdgXigvIzKATX//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2009_01_IMG_1492__l.jpg
 labels:
   - Calexico
   - Jairo Zavala
@@ -15,17 +22,12 @@ labels:
   - Konzerte
   - Roxy
   - Ulm
-type: Galerie
-typeName: Konzertbericht
-date: 2009-01-29T16:26:14.000Z
+focusKeyword: Calexico
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11092"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_01_IMG_1669__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_01_IMG_1669__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBgcF/8QAKBAAAQQBBAEDBAMAAAAAAAAAAQIDBBEFAAYSITEHIlETFEFhUnGR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAJREAAgEDAwIHAAAAAAAAAAAAAQIDABEhBBJBYYEiMTJRkcHw/9oADAMBAAIRAxEAPwDE9zbdwsPE7ffhSpEmbJKjkGmSgtsCxxQ38qq7vq60jujbDeDkPIKJgbW6TFEmOUOOMlPJLho1+QKFiwe+td3KSFwsW4cFAW7JWtIMpDXItX/H4Uf0Ov8ANU+XKyU15tzJPS330p+iFSFrWpKRfQKvwDfX9611LR+SnxXzbjp99Kv67TQwzlY1JFu3zbJ/Zq57b9K5Wd2MjPx/vQkPONulLHNCONEHr3VRNkA1qm5DBIx8mQzJk+5KbaU2kLQ4rkOib9ook332AK7sav6V+sUrZ2Fe25L+0DUp0FE4tl0REkUolpJSHD4och+/FazHe+QTN3HJloErk4rktcsguuH5WlICUnx7QKHjSGngaOypkWznvepT6ZV3MGNhb2vSEV91+RSXFNqKTSkkgiheoqcemSmVPSHlLpKOSlWQPgaNGpcvqJ6UlXZwATzUIeReY5luu6Ivvj8aUlvrkPLddJUtXZJPnRo0ncdgXigvIzKATX//2Q==
 subTitle: Großartige Stimmung
   
 ---

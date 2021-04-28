@@ -1,14 +1,21 @@
 ---
-title: Blauwal geschlachtet - Sea Shepherd und WDC berichten
-seoTitle: Blauwal geschlachtet - Sea Shepherd und WDC berichten
+date: 2018-07-13T07:00:13.000Z
 slug: sea-shepherd-und-wdc-berichten-von-walschlachtung
 path: /2018/07/sea-shepherd-und-wdc-berichten-von-walschlachtung/
-fileName: 2018-07---blauwal-geschlachtet-sea-shepherd-und-wdc-berichten.md
+type: Artikel
+typeName: Artikel
+title: Blauwal geschlachtet - Sea Shepherd und WDC berichten
+seoTitle: Blauwal geschlachtet - Sea Shepherd und WDC berichten
+ogTitle: Blauwal geschlachtet - Sea Shepherd und WDC berichten
 description: "Eine sehr traurige Nachricht kam gestern von Sea Shepherd und der
   Walschutzorganisation WDC rein: In Island wurde ein Blauwal geschlachtet."
 excerpt: "Eine sehr traurige Nachricht kam gestern von Sea Shepherd und der
   Walschutzorganisation WDC rein: In Island wurde ein Blauwal geschlachtet."
-focusKeyword: Blauwal
+fileName: 2018-07---blauwal-geschlachtet-sea-shepherd-und-wdc-berichten.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_blue-whale-1198719_640__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_blue-whale-1198719_640__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUHAv/EACUQAAIBAwMEAgMAAAAAAAAAAAECAwAEEQUSIRMxQVEGYRQjQv/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgME/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAECMf/aAAwDAQACEQMRAD8AwSG1eaLMZBfPbPYVJtdGuby9W1t2g6zLuUSSBN30Ca6+P86hHEQW6h24HutBv7/RvjWk21nHqUq61KjyXNxb2u/YHJ/WrEqchQozyMk4xV1rNmS9ZzFpUoimmvGFpBEhJLqSzN/KqvfJPGe3moTujKhRCrgAN6b7+jVrrOr2l7bmG0078cdQMHeVncgDGSSe588Y4AqnA5zjt7pixL06+uLB5XtCiTOuzqlcsg87fRPump5HlcGR2Zu2WOaKKEYYPBIpSxOPGfVFFBv/2Q==
+ogImage: null
 labels:
   - Blauwal
   - Blauwale
@@ -19,17 +26,12 @@ labels:
   - Wale
   - Walfang
   - WDC
-type: Artikel
-typeName: Artikel
-date: 2018-07-13T07:00:13.000Z
+focusKeyword: Blauwal
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "21360"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_blue-whale-1198719_640__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_blue-whale-1198719_640__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUHAv/EACUQAAIBAwMEAgMAAAAAAAAAAAECAwAEEQUSIRMxQVEGYRQjQv/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgME/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAECMf/aAAwDAQACEQMRAD8AwSG1eaLMZBfPbPYVJtdGuby9W1t2g6zLuUSSBN30Ca6+P86hHEQW6h24HutBv7/RvjWk21nHqUq61KjyXNxb2u/YHJ/WrEqchQozyMk4xV1rNmS9ZzFpUoimmvGFpBEhJLqSzN/KqvfJPGe3moTujKhRCrgAN6b7+jVrrOr2l7bmG0078cdQMHeVncgDGSSe588Y4AqnA5zjt7pixL06+uLB5XtCiTOuzqlcsg87fRPump5HlcGR2Zu2WOaKKEYYPBIpSxOPGfVFFBv/2Q==
 subTitle: Traurige Nachricht aus Island
   
 ---

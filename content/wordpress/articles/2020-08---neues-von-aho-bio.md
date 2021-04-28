@@ -1,31 +1,33 @@
 ---
-title: Neues von Aho Bio
-seoTitle: Neues von Aho Bio - Hanfsamen und Hilfsprojekt zur Aufforstung
+date: 2020-08-03T12:19:23.000Z
 slug: hanfsamen-aho-bio
 path: /2020/08/hanfsamen-aho-bio/
-fileName: 2020-08---neues-von-aho-bio.md
+type: Artikel
+typeName: Artikel
+title: Neues von Aho Bio
+seoTitle: Neues von Aho Bio - Hanfsamen und Hilfsprojekt zur Aufforstung
+ogTitle: Neues von Aho Bio - Hanfsamen und Hilfsprojekt zur Aufforstung
 description: "Von Aho Bio gibt es jetzt etwas Neues: Gesunde Hanfsamen aus der
   Tüte. Außerdem unterstützt das Start-up seit Kurzem Aufforstungsprojekte."
 excerpt: "Werbung - Von Aho Bio gibt es jetzt etwas Neues: Gesunde Hanfsamen aus
   der Tüte. Außerdem unterstützt das Start-up seit Kurzem Aufforstungsprojekte."
-focusKeyword: Hanfsamen
+fileName: 2020-08---neues-von-aho-bio.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-03-aho-bio-09__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-03-aho-bio-09__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwP/xAAqEAACAgEDAgUDBQAAAAAAAAABAgMRBAASIQUxBhMiQVEUYaEVcYGR4f/EABcBAAMBAAAAAAAAAAAAAAAAAAEEBQL/xAAdEQACAgMBAQEAAAAAAAAAAAABAwACBBEhEiIx/9oADAMBAAIRAxEAPwDbOodYfCWVIgZM7YJJ2SiyrdbUB9h/vfUzneIZWVJYTtVpTCyzQncwCsbDMwJJ4sfA4AvXTxpHIJHZm3wSIWoDiRSOB37jaTZP299Sj52JigASuyNGjfTxpygu/QRQO4r29jqNl5Tjc03oRxKaednsfdP6vPAMaSLe2SGRWkifduVTuIqwWB59JJr+Dqp6N1v9UVkaOWPqEQbl9pWdFruRxfPHx/eszxsaOQRwyQzPE6SJ5zAKShYghQt2TdWb4PA51S+Cgs+ZhZcDxMWQoxCMpK0bG26HI/cCh86xhvYGADu4XLr43+Ssy8JMzFXHneWKIHdHLAwtObrsbH5Gk3VOhTCQzIWyPX5gWGnLKT6xtJWjyBd+wvRo1Wdjrb9XHYnVlqcqYrw/C3U45cuJsceQ8zNB5u3y0SgwsVwQ3Yj41S4uDDgIzxhDklSjPESI1W7pV7X9/wA6NGjTHWok0EFmWuPoz//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_08_hanfsamen.png__l.jpg
 labels:
   - Aho Bio
   - Ernährung & Gesundheit
   - Hanf
   - Hanfsamen
   - vegan
-type: Artikel
-typeName: Artikel
-date: 2020-08-03T12:19:23.000Z
+focusKeyword: Hanfsamen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30917"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-03-aho-bio-09__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-03-aho-bio-09__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwP/xAAqEAACAgEDAgUDBQAAAAAAAAABAgMRBAASIQUxBhMiQVEUYaEVcYGR4f/EABcBAAMBAAAAAAAAAAAAAAAAAAEEBQL/xAAdEQACAgMBAQEAAAAAAAAAAAABAwACBBEhEiIx/9oADAMBAAIRAxEAPwDbOodYfCWVIgZM7YJJ2SiyrdbUB9h/vfUzneIZWVJYTtVpTCyzQncwCsbDMwJJ4sfA4AvXTxpHIJHZm3wSIWoDiRSOB37jaTZP299Sj52JigASuyNGjfTxpygu/QRQO4r29jqNl5Tjc03oRxKaednsfdP6vPAMaSLe2SGRWkifduVTuIqwWB59JJr+Dqp6N1v9UVkaOWPqEQbl9pWdFruRxfPHx/eszxsaOQRwyQzPE6SJ5zAKShYghQt2TdWb4PA51S+Cgs+ZhZcDxMWQoxCMpK0bG26HI/cCh86xhvYGADu4XLr43+Ssy8JMzFXHneWKIHdHLAwtObrsbH5Gk3VOhTCQzIWyPX5gWGnLKT6xtJWjyBd+wvRo1Wdjrb9XHYnVlqcqYrw/C3U45cuJsceQ8zNB5u3y0SgwsVwQ3Yj41S4uDDgIzxhDklSjPESI1W7pV7X9/wA6NGjTHWok0EFmWuPoz//Z
 subTitle: Hilfsprojekte und Hanfsamen
   
 ---

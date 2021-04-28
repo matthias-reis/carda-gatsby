@@ -1,16 +1,23 @@
 ---
-title: Der Vänern am Abend
-seoTitle: Der sommerliche Vänern am Abend - Romantisches Farbspiel
+date: 2018-09-14T13:57:41.000Z
 slug: der-vaenern-am-abend
 path: /2018/09/der-vaenern-am-abend/
-fileName: 2018-09---der-vaenern-am-abend.md
+type: Galerie
+typeName: Galerie
+title: Der Vänern am Abend
+seoTitle: Der sommerliche Vänern am Abend - Romantisches Farbspiel
+ogTitle: Der sommerliche Vänern am Abend - Romantisches Farbspiel
 description: Den nördlichsten Punkt unserer Schwedenreise diesen Sommer hatten
   wir am wunderschönen Vänern erreicht. Dort bot sich uns ein romantisches
   Farbspiel.
 excerpt: Den nördlichsten Punkt unserer Schwedenreise diesen Sommer hatten wir
   am wunderschönen Vänern erreicht. Dort bot sich uns ein romantisches
   Farbspiel.
-focusKeyword: Vänern
+fileName: 2018-09---der-vaenern-am-abend.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29737761437_cf2b7e0b6d_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29737761437_cf2b7e0b6d_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAcDAgQFBgj/xAApEAACAQMDAgYCAwAAAAAAAAABAgMABBEFBiESMQcTIkFRgRVxYZGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFAf/EACERAAEEAQMFAAAAAAAAAAAAAAEAAgMRBDGB0QUSE2Gx/9oADAMBAAIRAxEAPwBX7n3KNb1BL2GNkt2iES2rHqERAwSeOc5zkAdh8Ux/CXQG1bXTaXUd0ktvGb0SEL0lCoXBypOTlT3/AM5T51HRYoQrOQ5X0MqZYfse1NXR9/W9oUuJdyajBIbaOAyQ20DARoMheWJI+qmHIlMwkfr72Tpx4mx+NpFJy6Z4fwafpdvZK3mrACquw5IySM/RxVre7NSPJCitAg8UrSVLDG5dR67hgjiWSKNk+WwEIx2H7rKvuc3CytBuK8uBgno8yJsf0ox91TZ1GctAZVb8Kc7Agu3H5yuW21BQnpiD8e6iqPyEagARdKgYx25/iiig9gTBJpQy3gdmIRQSAMioJLl8elyM/HFFFaGgIeq//9k=
+ogImage: null
 labels:
   - Campervan
   - Fernweh
@@ -23,17 +30,12 @@ labels:
   - travel blog
   - travelling
   - Vänern
-type: Galerie
-typeName: Galerie
-date: 2018-09-14T13:57:41.000Z
+focusKeyword: Vänern
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "22053"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29737761437_cf2b7e0b6d_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29737761437_cf2b7e0b6d_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAcDAgQFBgj/xAApEAACAQMDAgYCAwAAAAAAAAABAgMABBEFBiESMQcTIkFRgRVxYZGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFAf/EACERAAEEAQMFAAAAAAAAAAAAAAEAAgMRBDGB0QUSE2Gx/9oADAMBAAIRAxEAPwBX7n3KNb1BL2GNkt2iES2rHqERAwSeOc5zkAdh8Ux/CXQG1bXTaXUd0ktvGb0SEL0lCoXBypOTlT3/AM5T51HRYoQrOQ5X0MqZYfse1NXR9/W9oUuJdyajBIbaOAyQ20DARoMheWJI+qmHIlMwkfr72Tpx4mx+NpFJy6Z4fwafpdvZK3mrACquw5IySM/RxVre7NSPJCitAg8UrSVLDG5dR67hgjiWSKNk+WwEIx2H7rKvuc3CytBuK8uBgno8yJsf0ox91TZ1GctAZVb8Kc7Agu3H5yuW21BQnpiD8e6iqPyEagARdKgYx25/iiig9gTBJpQy3gdmIRQSAMioJLl8elyM/HFFFaGgIeq//9k=
 subTitle: Romantisches Farbspiel
   
 ---

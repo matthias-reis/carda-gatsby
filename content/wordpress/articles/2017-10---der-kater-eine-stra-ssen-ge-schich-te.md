@@ -1,16 +1,23 @@
 ---
-title: Der Kater - Eine Stra­ßen­ge­schich­te
-seoTitle: Der Kater - Kein verkehrter Kerl - Eine Geschichte von der Straße
+date: 2017-10-04T05:45:26.000Z
 slug: der-kater-geschichte-von-der-strasse
 path: /2017/10/der-kater-geschichte-von-der-strasse/
-fileName: 2017-10---der-kater-eine-stra-ssen-ge-schich-te.md
+type: Artikel
+typeName: Kurzgeschichte
+title: Der Kater - Eine Stra­ßen­ge­schich­te
+seoTitle: Der Kater - Kein verkehrter Kerl - Eine Geschichte von der Straße
+ogTitle: Der Kater - Kein verkehrter Kerl - Eine Geschichte von der Straße
 description: Die Haudegen auf der Strandpromenade spielen einem jungen Kater
   übel mit. Sein Leben ist alles andere als einfach. Doch dann begegnet er einem
   neuen Freund.
 excerpt: Die Haudegen auf der Strandpromenade spielen einem jungen Kater übel
   mit. Sein Leben ist alles andere als einfach. Doch dann begegnet er einem
   neuen Freund.
-focusKeyword: Kater
+fileName: 2017-10---der-kater-eine-stra-ssen-ge-schich-te.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_Gran-Canaria-514__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_Gran-Canaria-514__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QALBAAAQMDAwIFAwUAAAAAAAAAAQIDBAUGEQASIQcxEyJRYYEyQXEjQmKRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABoRAQADAQEBAAAAAAAAAAAAAAEAAiERAyL/2gAMAwEAAhEDEQA/AKHo5AoLNSferQeaiMrL0dL8ZAKju4A2EqwBgkHv6+rz1C6kSrVmtIplNpVVjyk+PFecDrCmxkgpcT9yD2Ixka5LHetNMRK6mp0zB5ghKcNd+2eSVfGNLXViuW1cDlNbt2I7EdQt1CnnEKQ0scYKdwGQFZOR+PvpfMpXpJrZXkloN0XfddTdWnwH3H6ctKoTTTYZ2heCQk5O7nJySTn0Gkq47Pq9KK3amw7GbydoU0Ve+cjjv/mnjpLDlOX/AE+Ay4mMpECSsuKb3q+kDkZ+kHt/fOnG9qfd0RtwzZsmZDSSrxWVFxtP5R3SPjGq8gsbD0UcmPUyrKSBjATj9o1a1VMSqtQ5zaVLdiLxKYwVktqSUlbff1GR7aNGru/PIVN7F6wa3Ot6rMz1KdE1Cf1XF586cjCOfYDj21s1bv8AfmRkTqJJQo7cuxHjjP8AJBHI+NGjRUyZdn//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_10_Gran-Canaria-514__l.jpg
 labels:
   - dankbar
   - Geschichten & Erlebtes
@@ -22,17 +29,12 @@ labels:
   - Straßenkatzen
   - Tierrechte
   - Tierschutz
-type: Artikel
-typeName: Kurzgeschichte
-date: 2017-10-04T05:45:26.000Z
+focusKeyword: Kater
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "17988"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_Gran-Canaria-514__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_Gran-Canaria-514__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QALBAAAQMDAwIFAwUAAAAAAAAAAQIDBAUGEQASIQcxEyJRYYEyQXEjQmKRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABoRAQADAQEBAAAAAAAAAAAAAAEAAiERAyL/2gAMAwEAAhEDEQA/AKHo5AoLNSferQeaiMrL0dL8ZAKju4A2EqwBgkHv6+rz1C6kSrVmtIplNpVVjyk+PFecDrCmxkgpcT9yD2Ixka5LHetNMRK6mp0zB5ghKcNd+2eSVfGNLXViuW1cDlNbt2I7EdQt1CnnEKQ0scYKdwGQFZOR+PvpfMpXpJrZXkloN0XfddTdWnwH3H6ctKoTTTYZ2heCQk5O7nJySTn0Gkq47Pq9KK3amw7GbydoU0Ve+cjjv/mnjpLDlOX/AE+Ay4mMpECSsuKb3q+kDkZ+kHt/fOnG9qfd0RtwzZsmZDSSrxWVFxtP5R3SPjGq8gsbD0UcmPUyrKSBjATj9o1a1VMSqtQ5zaVLdiLxKYwVktqSUlbff1GR7aNGru/PIVN7F6wa3Ot6rMz1KdE1Cf1XF586cjCOfYDj21s1bv8AfmRkTqJJQo7cuxHjjP8AJBHI+NGjRUyZdn//2Q==
 subTitle: Kein verkehrter Kerl
   
 ---

@@ -1,32 +1,34 @@
 ---
-title: 15 Lesetipps für Vegan-Einsteiger
-seoTitle: 15 Lesetipps für Vegan-Neulinge - so gelingt der Einstieg ganz leicht
+date: 2014-09-20T08:58:20.000Z
 slug: 15-lesetipps-fuer-vegan-einsteiger
 path: /2014/09/15-lesetipps-fuer-vegan-einsteiger/
-fileName: 2014-09---15-lesetipps-fuer-vegan-einsteiger.md
+type: Artikel
+typeName: Artikel
+title: 15 Lesetipps für Vegan-Einsteiger
+seoTitle: 15 Lesetipps für Vegan-Neulinge - so gelingt der Einstieg ganz leicht
+ogTitle: 15 Lesetipps für Vegan-Neulinge - so gelingt der Einstieg ganz leicht
 description: Für Dich habe ich mal ein paar Lesetipps zusammengestellt, die
   jeder Vegan-Einsteiger auf dem Zettel haben sollte - sie machen nämlich das
   Leben leichter.
 excerpt: Für Dich habe ich mal ein paar Lesetipps zusammengestellt, die jeder
   Vegan-Einsteiger auf dem Zettel haben sollte - sie machen nämlich das Leben
   leichter.
-focusKeyword: Vegan
+fileName: 2014-09---15-lesetipps-fuer-vegan-einsteiger.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_14313236626_d7bfbcab1e_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_14313236626_d7bfbcab1e_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBgX/xAAqEAABAwMDAwMEAwAAAAAAAAABAgMEAAURBhIhBzFRIkGBExQVcTJhof/EABkBAAIDAQAAAAAAAAAAAAAAAAIFAQMGB//EACQRAAICAgAFBQEAAAAAAAAAAAECAxEABAUGEiExE0FhocHh/9oADAMBAAIRAxEAPwBMwLNIul0Ra2UIEx9YYbClhKd2c45PHj3qk9GdNrFpuzxUO25qXcEs7ZD8hG/cVYKyEnIAyO3j3pA9MnoUXU1lul4MV938ghLjbgJUCs+lzgHsefgVXhdZfibGnE5HP8sg4OD8Zrm3N27sROkCEhD5rtZ/n7jHh8a0WIs3iu1x0x05fLbIfiW4QJ7bPoVCSEAlIUUoKOEncT374xzxUyzIMm1uKS839B8nDjLqeUkcbSPY5zVuTC3EiKcy2tTQUtSyoBKR8/qpN1VNalXKVcbc0y8w/IXISqSjatQ3bgSAf8q7lPf2JA8bksoqr9vjD4jHGOll7XmJeecflPp3BJKN5wOMAA7ceKbekepV407aLVCWlqbEaabSkOEpc2K9QSVA4OOQMjtjxRRWw3tSHaQJOoYefrFyTPEbQ1nB1N1RvGqYX2/0mrc02kuLERSkl0ZISlRzyBz+81ifu3HYjXYKWcE+P7ooooNOHWHpwrQGRJK8p6nNnP/Z
+ogImage: null
 labels:
   - Bücher & Filme
   - Ernährung & Gesundheit
   - Tierrechte
-type: Artikel
-typeName: Artikel
-date: 2014-09-20T08:58:20.000Z
+focusKeyword: Vegan
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (146:53)"
-thumbnailId: "20267"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_14313236626_d7bfbcab1e_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_14313236626_d7bfbcab1e_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBgX/xAAqEAABAwMDAwMEAwAAAAAAAAABAgMEAAURBhIhBzFRIkGBExQVcTJhof/EABkBAAIDAQAAAAAAAAAAAAAAAAIFAQMGB//EACQRAAICAgAFBQEAAAAAAAAAAAECAxEABAUGEiExE0FhocHh/9oADAMBAAIRAxEAPwBMwLNIul0Ra2UIEx9YYbClhKd2c45PHj3qk9GdNrFpuzxUO25qXcEs7ZD8hG/cVYKyEnIAyO3j3pA9MnoUXU1lul4MV938ghLjbgJUCs+lzgHsefgVXhdZfibGnE5HP8sg4OD8Zrm3N27sROkCEhD5rtZ/n7jHh8a0WIs3iu1x0x05fLbIfiW4QJ7bPoVCSEAlIUUoKOEncT374xzxUyzIMm1uKS839B8nDjLqeUkcbSPY5zVuTC3EiKcy2tTQUtSyoBKR8/qpN1VNalXKVcbc0y8w/IXISqSjatQ3bgSAf8q7lPf2JA8bksoqr9vjD4jHGOll7XmJeecflPp3BJKN5wOMAA7ceKbekepV407aLVCWlqbEaabSkOEpc2K9QSVA4OOQMjtjxRRWw3tSHaQJOoYefrFyTPEbQ1nB1N1RvGqYX2/0mrc02kuLERSkl0ZISlRzyBz+81ifu3HYjXYKWcE+P7ooooNOHWHpwrQGRJK8p6nNnP/Z
 subTitle: Diese Bücher bringen wirklich was
   
 ---

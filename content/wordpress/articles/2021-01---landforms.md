@@ -1,14 +1,21 @@
 ---
-title: '"Landforms"'
-seoTitle: '"Landforms" – Die neue Single von Perry Frank ist da'
+date: 2021-01-29T13:39:00.000Z
 slug: perry-frank-landforms
 path: /2021/01/perry-frank-landforms/
-fileName: 2021-01---landforms.md
+type: Artikel
+typeName: Review
+title: '"Landforms"'
+seoTitle: '"Landforms" – Die neue Single von Perry Frank ist da'
+ogTitle: '"Landforms" – Die neue Single von Perry Frank'
 description: Perry Frank hat eine neue Single veröffentlicht! "Landforms" ist ab
   sofort auf allen Download-Plattformen verfügbar.
 excerpt: English & German – Perry Frank hat eine neue Single veröffentlicht!
   "Landforms" ist ab sofort auf allen Download-Plattformen verfügbar.
-focusKeyword: Perry Frank
+fileName: 2021-01---landforms.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_landforms-perry-frank-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_landforms-perry-frank-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAYEAQIDBQf/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiEGMUETIlEHFGEjMkJSgf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEF/8QAHxEBAQACAgEFAAAAAAAAAAAAAQIAEQMSISJBUWGR/9oADAMBAAIRAxEAPwBOsC0AugSvpDGJcSekhOQO4H4Hg55xroNgr6yOjkulKk0NLaqn3wGfIkWXCMi/JAy3+dtQrFb/ALRKG73OpSKtNOIydo5UYPOfPzqvWNwqKEJdqBJ5bWzzo4hjRlEkscaktuVgAcN/HzjPOstmeRGnY4cBWTLzNRXy60ltoWuDhHMbz1BSISNyNshVQrcYAz3HbWmsXScVPXXMPE6iGeITRRsGYe1xlSc8nAGMcal/TLp+ZOj3kNRHVW+vq2jkopCBJSwAEbuezdm9v4xqy9XBRfmtEF5r5X2laqaKn9NZ6rC7SvfYhXBJ+Cx0o4KiqIrZ9/uTpvzjV0a81ymImp4p7Qv6Sz1G2N5nAALFPH7QSfOsHX9dZorVcKSjixUxOPW+xieRWlIIjRmGBgk5+cA40aNHEjJhjqB+cVelYEjsouECTVdbFKgiapCU8aS5A37/AOoz2DZPOmjryS3WKO1KZN7yTGP0wRJ6jt4ZhwAc85ydGjVcR3UfZxUeqXP/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_perry-frank-landforms-fb.png__l.jpg
 labels:
   - Ambient
   - Bands
@@ -17,17 +24,12 @@ labels:
   - Perry Frank
   - Review
   - Valley View Records
-type: Artikel
-typeName: Review
-date: 2021-01-29T13:39:00.000Z
+focusKeyword: Perry Frank
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32635"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_landforms-perry-frank-2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_landforms-perry-frank-2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAYEAQIDBQf/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiEGMUETIlEHFGEjMkJSgf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEF/8QAHxEBAQACAgEFAAAAAAAAAAAAAQIAEQMSISJBUWGR/9oADAMBAAIRAxEAPwBOsC0AugSvpDGJcSekhOQO4H4Hg55xroNgr6yOjkulKk0NLaqn3wGfIkWXCMi/JAy3+dtQrFb/ALRKG73OpSKtNOIydo5UYPOfPzqvWNwqKEJdqBJ5bWzzo4hjRlEkscaktuVgAcN/HzjPOstmeRGnY4cBWTLzNRXy60ltoWuDhHMbz1BSISNyNshVQrcYAz3HbWmsXScVPXXMPE6iGeITRRsGYe1xlSc8nAGMcal/TLp+ZOj3kNRHVW+vq2jkopCBJSwAEbuezdm9v4xqy9XBRfmtEF5r5X2laqaKn9NZ6rC7SvfYhXBJ+Cx0o4KiqIrZ9/uTpvzjV0a81ymImp4p7Qv6Sz1G2N5nAALFPH7QSfOsHX9dZorVcKSjixUxOPW+xieRWlIIjRmGBgk5+cA40aNHEjJhjqB+cVelYEjsouECTVdbFKgiapCU8aS5A37/AOoz2DZPOmjryS3WKO1KZN7yTGP0wRJ6jt4ZhwAc85ydGjVcR3UfZxUeqXP/2Q==
 subTitle: Die neue Single von Perry Frank
   
 ---

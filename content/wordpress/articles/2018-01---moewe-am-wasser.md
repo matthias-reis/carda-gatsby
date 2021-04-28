@@ -1,16 +1,23 @@
 ---
-title: Möwe am Wasser
-seoTitle: Möwe am Wasser - Winter im Hafen - Flarfgedicht im Januar
+date: 2018-01-17T18:00:13.000Z
 slug: moewe-am-wasser
 path: /2018/01/moewe-am-wasser/
-fileName: 2018-01---moewe-am-wasser.md
+type: Artikel
+typeName: Gedicht
+title: Möwe am Wasser
+seoTitle: Möwe am Wasser - Winter im Hafen - Flarfgedicht im Januar
+ogTitle: Möwe am Wasser - Winter im Hafen - Flarfgedicht im Januar
 description: Die Freiheit die Sonne das Wasser. Eiswasser. Frisch und klar.
   Winter-Ruhe, Mann! Bei diesem Text handelt es sich um ein ganz besonderes
   Flarf-Gedicht.
 excerpt: Die Freiheit die Sonne das Wasser. Eiswasser. Frisch und klar.
   Winter-Ruhe, Mann! Bei diesem Text handelt es sich um ein ganz besonderes
   Flarf-Gedicht.
-focusKeyword: Wasser
+fileName: 2018-01---moewe-am-wasser.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_24832329787_6aa3db2e1b_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_24832329787_6aa3db2e1b_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQFAgYH/8QALBAAAQIFAgMHBQAAAAAAAAAAAQIDAAQFERITIQYHFBciMTJBUcEkYXGBov/EABYBAQEBAAAAAAAAAAAAAAAAAAQAAf/EAB8RAQABAwQDAAAAAAAAAAAAAAEAAgMSBBEhMhMiQf/aAAwDAQACEQMRAD8AQkuatSxGSpU29eiJy/vaK8xzdLsppllLC8CkrYZIKiRa/eUcffaI8hy8p5Qcn5pX4UBDvZzSybfVKUfAau5jTTszzEQleZglFB4OPPTZJ1XnpZLilpOF03K9vIN7ekR6rzNPTLZaC0o6jqUYyyBgrV1APMbi94tcYUGj0mmU6XmpBWLRNl4m5B8QpQI39vGE6hwJQjKtPtyq8HGwtJLqjsRf3iot5qDySqrxBfs2Sn11tPdGod7EhJ+RGfEvEDLfD1TW24lTiZdYCSRc3Fvm8EEJerD7czjszXm2pPRTMziGym2mHTif1ciG+B6iHXJ91biyhKENozJsLkk2F/sIIIJYfYiLnWf/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2018_01_24832329787_6aa3db2e1b_z__l.jpg
 labels:
   - Eis
   - Elbe
@@ -29,17 +36,12 @@ labels:
   - Salz
   - Wasser
   - Winter
-type: Artikel
-typeName: Gedicht
-date: 2018-01-17T18:00:13.000Z
+focusKeyword: Wasser
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "18977"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_24832329787_6aa3db2e1b_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_24832329787_6aa3db2e1b_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQFAgYH/8QALBAAAQIFAgMHBQAAAAAAAAAAAQIDAAQFERITIQYHFBciMTJBUcEkYXGBov/EABYBAQEBAAAAAAAAAAAAAAAAAAQAAf/EAB8RAQABAwQDAAAAAAAAAAAAAAEAAgMSBBEhMhMiQf/aAAwDAQACEQMRAD8AQkuatSxGSpU29eiJy/vaK8xzdLsppllLC8CkrYZIKiRa/eUcffaI8hy8p5Qcn5pX4UBDvZzSybfVKUfAau5jTTszzEQleZglFB4OPPTZJ1XnpZLilpOF03K9vIN7ekR6rzNPTLZaC0o6jqUYyyBgrV1APMbi94tcYUGj0mmU6XmpBWLRNl4m5B8QpQI39vGE6hwJQjKtPtyq8HGwtJLqjsRf3iot5qDySqrxBfs2Sn11tPdGod7EhJ+RGfEvEDLfD1TW24lTiZdYCSRc3Fvm8EEJerD7czjszXm2pPRTMziGym2mHTif1ciG+B6iHXJ91biyhKENozJsLkk2F/sIIIJYfYiLnWf/2Q==
 subTitle: Winter im Hafen
   
 ---

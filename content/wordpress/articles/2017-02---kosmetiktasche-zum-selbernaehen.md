@@ -1,14 +1,21 @@
 ---
-title: Kosmetiktasche zum Selbernähen
-seoTitle: Kosmetiktasche zum Selbernähen - DIY-Anleitung für Dich
+date: 2017-02-15T20:32:19.000Z
 slug: kosmetiktasche-zum-selbernaehen
 path: /2017/02/kosmetiktasche-zum-selbernaehen/
-fileName: 2017-02---kosmetiktasche-zum-selbernaehen.md
+type: Artikel
+typeName: Artikel
+title: Kosmetiktasche zum Selbernähen
+seoTitle: Kosmetiktasche zum Selbernähen - DIY-Anleitung für Dich
+ogTitle: Kosmetiktasche zum Selbernähen - DIY-Anleitung für Dich
 description: Heute habe ich eine tolle Nähanleitung für Euch, mit der Ihr ganz
   schnell Eure individuell gestaltete Kosmetiktasche schneidern könnt.
 excerpt: Heute habe ich eine tolle Nähanleitung für Euch, mit der Ihr ganz
   schnell Eure individuell gestaltete Kosmetiktasche schneidern könnt.
-focusKeyword: Kosmetiktasche
+fileName: 2017-02---kosmetiktasche-zum-selbernaehen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_21416200943_1a882db08d_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_21416200943_1a882db08d_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwQFBgID/8QALhAAAgIBAwIEBAYDAAAAAAAAAQIDBBEABRIGIRMxQVEHFGGRFSIkM0KBocLw/8QAFwEBAQEBAAAAAAAAAAAAAAAABQMBAv/EACgRAAEDAwIDCQAAAAAAAAAAAAECESEAA1EEMQVBYRIUFSJxobHw8f/aAAwDAQACEQMRAD8AhfCeDdOl9orUINxtR0Lkslix4ECqUm8NeJVmjYlSq8cHHfvpWh3OxLVnjvbrfiiZQjJMa7ZRsjP7Y/46Btjrncena9lZ54pWgMXPmQCpGMZ9u/b21K2iqY0vbpaEO8XolSO5t8cki9lPFTG6s3IqScgj1Ploq/evWgCF/uNxSFoA+XskNJ9MikSDbKNam9Tb7NPxJbb31lRI1nYg4wjqwPAg4wAcZGhn4jwyJ82YZb8MaHmYbckhZAFwSGYYILEgd8/40j3Nss05vxKNoInqVHhbaK/ixhYm/MyLN6vkD+OCRj66yvW9mzT6Wo7hDH8lVkVhBtMivaafmvEtMxHFcKchcHy9/K+g43qEKKLjKCowQfcn4Z5FT1GkSzpJBGeYyZijeapu9gt8qu61qqDjDEEclEA7DsPPHp7nGrfark+27gsDTXacM8lYWIPBdFmkBHI8sdu4GcEZ99M3SdJooBK5PYZ8/trax9OjeNrnp2mkEViMoSG7g+hH1Bwf61l1QWGIri2SC71zFuj1WiEjFpOHcNIXx7EMdU+4z7jVhFlWV68jHGWyPtrxsfCXc3lUv1daKscH9Cgx9n1mt+6E37aomVOq7EsS5PE1cf76D8NVs8chgx0mke9p3afvWv/Z
+ogImage: null
 labels:
   - diy
   - DIY Kosmetiktasche
@@ -21,17 +28,12 @@ labels:
   - nähen
   - Schminktasche
   - Schneidern
-type: Artikel
-typeName: Artikel
-date: 2017-02-15T20:32:19.000Z
+focusKeyword: Kosmetiktasche
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "15868"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_21416200943_1a882db08d_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_21416200943_1a882db08d_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwQFBgID/8QALhAAAgIBAwIEBAYDAAAAAAAAAQIDBBEABRIGIRMxQVEHFGGRFSIkM0KBocLw/8QAFwEBAQEBAAAAAAAAAAAAAAAABQMBAv/EACgRAAEDAwIDCQAAAAAAAAAAAAECESEAA1EEMQVBYRIUFSJxobHw8f/aAAwDAQACEQMRAD8AhfCeDdOl9orUINxtR0Lkslix4ECqUm8NeJVmjYlSq8cHHfvpWh3OxLVnjvbrfiiZQjJMa7ZRsjP7Y/46Btjrncena9lZ54pWgMXPmQCpGMZ9u/b21K2iqY0vbpaEO8XolSO5t8cki9lPFTG6s3IqScgj1Ploq/evWgCF/uNxSFoA+XskNJ9MikSDbKNam9Tb7NPxJbb31lRI1nYg4wjqwPAg4wAcZGhn4jwyJ82YZb8MaHmYbckhZAFwSGYYILEgd8/40j3Nss05vxKNoInqVHhbaK/ixhYm/MyLN6vkD+OCRj66yvW9mzT6Wo7hDH8lVkVhBtMivaafmvEtMxHFcKchcHy9/K+g43qEKKLjKCowQfcn4Z5FT1GkSzpJBGeYyZijeapu9gt8qu61qqDjDEEclEA7DsPPHp7nGrfark+27gsDTXacM8lYWIPBdFmkBHI8sdu4GcEZ99M3SdJooBK5PYZ8/trax9OjeNrnp2mkEViMoSG7g+hH1Bwf61l1QWGIri2SC71zFuj1WiEjFpOHcNIXx7EMdU+4z7jVhFlWV68jHGWyPtrxsfCXc3lUv1daKscH9Cgx9n1mt+6E37aomVOq7EsS5PE1cf76D8NVs8chgx0mke9p3afvWv/Z
 subTitle: Nähanleitung
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: The Thread That Keeps Us ist da!
-seoTitle: '"The Thread That Keeps Us" ist da - Die neue Calexico Platte rockt!'
+date: 2018-01-26T16:16:49.000Z
 slug: the-thread-that-keeps-us-calexico
 path: /2018/01/the-thread-that-keeps-us-calexico/
-fileName: 2018-01---the-thread-that-keeps-us-ist-da.md
+type: Artikel
+typeName: Review
+title: The Thread That Keeps Us ist da!
+seoTitle: '"The Thread That Keeps Us" ist da - Die neue Calexico Platte rockt!'
+ogTitle: '"The Thread That Keeps Us" ist da - Die neue Calexico Platte rockt!'
 description: Ein Bild der heutigen Gesellschaft und Ihrer Abgründe wollten
   Calexico schaffen und das ist der Band mit "The Thread That Keeps Us"
   eindeutig gelungen!
 excerpt: Ein Bild der heutigen Gesellschaft und Ihrer Abgründe wollten Calexico
   schaffen und das ist der Band mit "The Thread That Keeps Us" eindeutig
   gelungen!
-focusKeyword: The Thread That Keeps Us
+fileName: 2018-01---the-thread-that-keeps-us-ist-da.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_9917639354_af1d05b7b6_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_9917639354_af1d05b7b6_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHA//EACgQAAIBAwMEAgEFAAAAAAAAAAECAwAEEQUSIQYiMUEUUXETQ2GBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQGAwX/xAAfEQACAgICAwEAAAAAAAAAAAABAgADESEEMUNRkeH/2gAMAwEAAhEDEQA/AE6f6YtprNJWiBkA7y0rMW95VVwAP9p507o0Gs2c8kSTW7Quyk7jxgnHY3njHgiqTo/UmpaOUS2l3wj9uVNwH49j+qcaX1RfwWKx2CRhI4VztEj7VHGSNx4/moazj88MxBB9fssRbQRrX2T0twdN1N7C5ID4BjkUZRifGR5wfv0amLS7WSHLZHHcSKzK96j+UZJZZ995vUq/K4xnkcYA4HFPYur2mgEEkMMbSEAzRMVGc+15GPxiujTS/k7h7ypXKGZ8Zp7WCw+LKYy1qGYnu3Z3Eg59VZ+krq5lMvxbiaxm/RBSe2cpIFbI2kg8jgfWaKKdbpCw7hawC6qepWL6aZ5FkuJWmkdAzO5yT9ZPvzXC3uHEgT0TiiilqBiYMcan/9k=
+ogImage: null
 labels:
   - Bands
   - Bonustracks
@@ -30,17 +37,12 @@ labels:
   - Sergio Mendoza
   - The Thread That Keeps Us
   - Vinyl
-type: Artikel
-typeName: Review
-date: 2018-01-26T16:16:49.000Z
+focusKeyword: The Thread That Keeps Us
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "18145"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_9917639354_af1d05b7b6_k__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_9917639354_af1d05b7b6_k__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHA//EACgQAAIBAwMEAgEFAAAAAAAAAAECAwAEEQUSIQYiMUEUUXETQ2GBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQGAwX/xAAfEQACAgICAwEAAAAAAAAAAAABAgADESEEMUNRkeH/2gAMAwEAAhEDEQA/AE6f6YtprNJWiBkA7y0rMW95VVwAP9p507o0Gs2c8kSTW7Quyk7jxgnHY3njHgiqTo/UmpaOUS2l3wj9uVNwH49j+qcaX1RfwWKx2CRhI4VztEj7VHGSNx4/moazj88MxBB9fssRbQRrX2T0twdN1N7C5ID4BjkUZRifGR5wfv0amLS7WSHLZHHcSKzK96j+UZJZZ995vUq/K4xnkcYA4HFPYur2mgEEkMMbSEAzRMVGc+15GPxiujTS/k7h7ypXKGZ8Zp7WCw+LKYy1qGYnu3Z3Eg59VZ+krq5lMvxbiaxm/RBSe2cpIFbI2kg8jgfWaKKdbpCw7hawC6qepWL6aZ5FkuJWmkdAzO5yT9ZPvzXC3uHEgT0TiiilqBiYMcan/9k=
 subTitle: Die neue Platte von Calexico rockt!
   
 ---

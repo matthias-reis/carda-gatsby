@@ -1,14 +1,21 @@
 ---
-title: Ernährungsreport 2016
-seoTitle: Ernährungsreport 2016 - Umfrageergebnisse falsch dargestellt
+date: 2016-01-28T09:52:25.000Z
 slug: ernaehrungsreport-2016
 path: /2016/01/ernaehrungsreport-2016/
-fileName: 2016-01---ernaehrungsreport-2016.md
+type: Artikel
+typeName: Artikel
+title: Ernährungsreport 2016
+seoTitle: Ernährungsreport 2016 - Umfrageergebnisse falsch dargestellt
+ogTitle: Ernährungsreport 2016 - Umfrageergebnisse falsch dargestellt
 description: Nachforschungen von Foodwatch brachten ans Licht, dass im
   Ernährungsreport 2016 Umfrageergebnisse falsch dargestellt werden.
 excerpt: Nachforschungen von Foodwatch brachten ans Licht, dass im
   Ernährungsreport 2016 Umfrageergebnisse falsch dargestellt werden.
-focusKeyword: Ernährungsreport
+fileName: 2016-01---ernaehrungsreport-2016.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_01_Erna%CC%88hrungsreport-2016__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_01_Erna%CC%88hrungsreport-2016__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwIDBf/EAC0QAAIBAwMCBQEJAAAAAAAAAAECAwQFEQASIRMxBhQiQVFhBxYjYnGBkaHw/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMEBQb/xAAlEQABAgUDBAMAAAAAAAAAAAABAhEAAwQxQRIiYQUhUdETcaH/2gAMAwEAAhEDEQA/AEv7Tam2y3OioKOjemNMhHRnQIwyeCNnySeScnGuaKCB/GUdMaWnano/RIW3Fm6UZZyR2PqDfsNMlrlstzvMkpjuHm2mYiJGCwgJlgAe+0bW51tsi2eaSorFmu3WNPPK24rgqUO5u3fk4H01RoqAghGk3b3Gnp6Mop2Lvpc7Rm1/o94r2hpFkslxmNJTbgsBH4TsMmTHOf8AfOoU1LDsVp6fL4YBY48KCCDk5P5h76syGksb26spqWe6yE0nUllwNyhGU5AxycnkfU/Gle6+RpKYNb6m5PJDKJnepjCkArsIQgE8tsyP002RUhZDAh388+oV1WmPwTAx7EGwGBds/kP0XhqKgpYUpqS6irni6cB2u7NuGCQoXnjdz7ak/d2itDPCKa4wzzxmnRJlYlw4AAxj3Gf40aNQEyCCjerOYBVdNOrlhn3GEvh+gtTTNJT1tP1I2glDK6gBl7YI4yR/el7xVYrfbbTNNFFUhgB6JySsgGGxzjPKjRo0EtCkKlbzfzyIZNqZk1M0KNxzzzH/2Q==
+ogImage: null
 labels:
   - Antifaschismus & Feminismus
   - Christian Schmidt
@@ -19,17 +26,12 @@ labels:
   - Foodwatch
   - vegane Ernährung
   - Veganer
-type: Artikel
-typeName: Artikel
-date: 2016-01-28T09:52:25.000Z
+focusKeyword: Ernährungsreport
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29181"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_01_Erna%CC%88hrungsreport-2016__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_01_Erna%CC%88hrungsreport-2016__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwIDBf/EAC0QAAIBAwMCBQEJAAAAAAAAAAECAwQFEQASIRMxBhQiQVFhBxYjYnGBkaHw/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMEBQb/xAAlEQABAgUDBAMAAAAAAAAAAAABAhEAAwQxQRIiYQUhUdETcaH/2gAMAwEAAhEDEQA/AEv7Tam2y3OioKOjemNMhHRnQIwyeCNnySeScnGuaKCB/GUdMaWnano/RIW3Fm6UZZyR2PqDfsNMlrlstzvMkpjuHm2mYiJGCwgJlgAe+0bW51tsi2eaSorFmu3WNPPK24rgqUO5u3fk4H01RoqAghGk3b3Gnp6Mop2Lvpc7Rm1/o94r2hpFkslxmNJTbgsBH4TsMmTHOf8AfOoU1LDsVp6fL4YBY48KCCDk5P5h76syGksb26spqWe6yE0nUllwNyhGU5AxycnkfU/Gle6+RpKYNb6m5PJDKJnepjCkArsIQgE8tsyP002RUhZDAh388+oV1WmPwTAx7EGwGBds/kP0XhqKgpYUpqS6irni6cB2u7NuGCQoXnjdz7ak/d2itDPCKa4wzzxmnRJlYlw4AAxj3Gf40aNQEyCCjerOYBVdNOrlhn3GEvh+gtTTNJT1tP1I2glDK6gBl7YI4yR/el7xVYrfbbTNNFFUhgB6JySsgGGxzjPKjRo0EtCkKlbzfzyIZNqZk1M0KNxzzzH/2Q==
 subTitle: Umfrageergebnisse falsch dargestellt
   
 ---

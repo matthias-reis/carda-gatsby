@@ -1,15 +1,22 @@
 ---
-title: FreiVon Gründer Sarah und Paul
-seoTitle: FreiVon Schuhe - vegan, nachhaltig und aus Deutschland
+date: 2014-11-02T17:53:50.000Z
 slug: frei-von-schuhe
 path: /2014/11/frei-von-schuhe/
-fileName: 2014-11---freivon-gruender-sarah-und-paul.md
+type: Artikel
+typeName: Interview
+title: FreiVon Gründer Sarah und Paul
+seoTitle: FreiVon Schuhe - vegan, nachhaltig und aus Deutschland
+ogTitle: FreiVon Schuhe - vegan, nachhaltig und aus Deutschland
 description: Sarah und Paul von FreiVon sind zwei Menschen, die eine Vision
   teilen - die Vision von fairem, veganem Schuhwerk, das in Deutschland
   produziert wird.
 excerpt: Sarah und Paul von FreiVon sind zwei Menschen, die eine Vision teilen -
   die Vision von fairem, veganem Schuhwerk, das in Deutschland produziert wird.
-focusKeyword: FreiVon
+fileName: 2014-11---freivon-gruender-sarah-und-paul.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_FreiVon__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_FreiVon__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAtEAACAQMCBAQFBQAAAAAAAAABAgMEBREAIQYHEjEjQVFxCBMUQpEVIjJhwf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABkRAQEAAwEAAAAAAAAAAAAAAAABESExQf/aAAwDAQACEQMRAD8Aur1fumK50ccM1pq416IKuujQws5xjA6v5b7KR6e2uDl/fai8fKhuaxm4UtWIJmSP5fUVcYJTuhIxkevbSPnDZqyhvL3aKtH6bWOrimJJaOoVFUuPIAqq+ffO2oTlLcKqbmUHeR/EmBYlsliZFYlj5nJzk+urHrMapeeKo6yvvFFw6ElqKGYwzVc0ZenEvVvGgU5kYDvjAGRk6QW3jKOSK2pdTAWrWMKVMCMkZkHZWVt0Y74G4yMZ1Kc7Le3BPGsV24cqZqRbo8089KG8AyK4Dft7YYNuPfGorgeGo4nvSxXCsmempnEwh+0t9px/Wlaw1P4lKyZLfw8yPImZplPQ5XOVT01M8jII2uiVJDGT6tE3YnYON9/M/wCaNGimcPfiblU0NmLR5kFXUgNnsOkZH5x+NQHJgqa6rkK+ISBnPto0aaJx/9k=
+ogImage: null
 labels:
   - Crowdfunding
   - Fair Fashion & Beauty
@@ -20,17 +27,12 @@ labels:
   - Startnext
   - vegane Schuhe
   - veganes Leder
-type: Artikel
-typeName: Interview
-date: 2014-11-02T17:53:50.000Z
+focusKeyword: FreiVon
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "25324"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_FreiVon__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_FreiVon__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAtEAACAQMCBAQFBQAAAAAAAAABAgMEBREAIQYHEjEjQVFxCBMUQpEVIjJhwf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABkRAQEAAwEAAAAAAAAAAAAAAAABESExQf/aAAwDAQACEQMRAD8Aur1fumK50ccM1pq416IKuujQws5xjA6v5b7KR6e2uDl/fai8fKhuaxm4UtWIJmSP5fUVcYJTuhIxkevbSPnDZqyhvL3aKtH6bWOrimJJaOoVFUuPIAqq+ffO2oTlLcKqbmUHeR/EmBYlsliZFYlj5nJzk+urHrMapeeKo6yvvFFw6ElqKGYwzVc0ZenEvVvGgU5kYDvjAGRk6QW3jKOSK2pdTAWrWMKVMCMkZkHZWVt0Y74G4yMZ1Kc7Le3BPGsV24cqZqRbo8089KG8AyK4Dft7YYNuPfGorgeGo4nvSxXCsmempnEwh+0t9px/Wlaw1P4lKyZLfw8yPImZplPQ5XOVT01M8jII2uiVJDGT6tE3YnYON9/M/wCaNGimcPfiblU0NmLR5kFXUgNnsOkZH5x+NQHJgqa6rkK+ISBnPto0aaJx/9k=
 subTitle: Schuhe - vegan, nachhaltig und aus Deutschland
   
 ---

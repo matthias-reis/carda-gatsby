@@ -1,16 +1,23 @@
 ---
-title: Shana Falana im Interview
-seoTitle: Shana Falana im Interview - "Druggy Music By Sober People"
+date: 2019-12-03T06:55:46.000Z
 slug: shana-falana-interview
 path: /2019/12/shana-falana-interview/
-fileName: 2019-12---shana-falana-im-interview.md
+type: Artikel
+typeName: Interview
+title: Shana Falana im Interview
+seoTitle: Shana Falana im Interview - "Druggy Music By Sober People"
+ogTitle: Shana Falana im Interview - "Druggy Music By Sober People"
 description: Shana Falana hat vor Kurzem ihr Album "Darkest Light"
   veröffentlicht. Jetzt habe ich mich mit der New Yorker Musikerin zum Interview
   verabredet.
 excerpt: English & German - Shana Falana hat vor Kurzem ihr Album "Darkest
   Light" veröffentlicht. Jetzt habe ich mich mit der New Yorker Musikerin zum
   Interview verabredet.
-focusKeyword: Shana Falana
+fileName: 2019-12---shana-falana-im-interview.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-6__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-6__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcD/8QAKBAAAQMEAgEDBAMAAAAAAAAAAQIDBAAFESEGEjEHFDITIkFhI4Gx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwDBrNapt6uTMC1x1yJbxCUoT/pPgD9mtCj8HkQL41xmM/Z2+SJwua/c2wWUdgP4Wu6SlQSCFKXjecJOjVj0o5fEtVvYtMCPHhXh18rcnvqGHQTrBx9qgnQB15Pk073CDYVTbXe2uUsQJ0aeVLakTm3vbpeUS4UrOzhBUpIJICs63TbdXIyfl3GI6WrrcbM5FQ3a5HsrlFCw2lt8KKO0fsolbayOwSNoyRsAGkkj8U8cxtjaOSswLbfYvIoLhXMbcacCjnKsocIHzwNnO851mqvqRY4NjusBFsSW2ZUJuSWTI+sUFXnfUEAnOAc+PNVBhZbKEgAg/wBGoqdIyEKV184zqiiqDn3Oc/n9VFSiflvWBRRWZ//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-8.png__l.jpg
 labels:
   - 80ies
   - 90ies
@@ -38,17 +45,12 @@ labels:
   - Sludge
   - Sonic Youth
   - Williamsburg
-type: Artikel
-typeName: Interview
-date: 2019-12-03T06:55:46.000Z
+focusKeyword: Shana Falana
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "27070"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-6__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-6__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcD/8QAKBAAAQMEAgEDBAMAAAAAAAAAAQIDBAAFESEGEjEHFDITIkFhI4Gx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwDBrNapt6uTMC1x1yJbxCUoT/pPgD9mtCj8HkQL41xmM/Z2+SJwua/c2wWUdgP4Wu6SlQSCFKXjecJOjVj0o5fEtVvYtMCPHhXh18rcnvqGHQTrBx9qgnQB15Pk073CDYVTbXe2uUsQJ0aeVLakTm3vbpeUS4UrOzhBUpIJICs63TbdXIyfl3GI6WrrcbM5FQ3a5HsrlFCw2lt8KKO0fsolbayOwSNoyRsAGkkj8U8cxtjaOSswLbfYvIoLhXMbcacCjnKsocIHzwNnO851mqvqRY4NjusBFsSW2ZUJuSWTI+sUFXnfUEAnOAc+PNVBhZbKEgAg/wBGoqdIyEKV184zqiiqDn3Oc/n9VFSiflvWBRRWZ//Z
 subTitle: '"Druggy music by sober people"'
   
 ---

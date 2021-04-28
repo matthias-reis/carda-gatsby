@@ -1,14 +1,21 @@
 ---
-title: Isle Of Wight Festival 2012
-seoTitle: Isle Of Wight Festival - Meine Eindrücke - Bildergalerie
+date: 2012-07-29T14:17:29.000Z
 slug: isle-of-wight-festival-2012
 path: /2012/07/isle-of-wight-festival-2012/
-fileName: 2012-07---isle-of-wight-festival-2012.md
+type: Galerie
+typeName: Konzertbericht
+title: Isle Of Wight Festival 2012
+seoTitle: Isle Of Wight Festival - Meine Eindrücke - Bildergalerie
+ogTitle: Isle Of Wight Festival 2012 - Meine Eindrücke - Bildergalerie
 description: Heute möchte ich meine Eindrücke vom Isle Of Wight Festival mit
   Euch teilen. Ich wünsche Euch viel Spaß mit der Bildergalerie.
 excerpt: Heute möchte ich meine Eindrücke vom Isle Of Wight Festival mit Euch
   teilen. Ich wünsche Euch viel Spaß mit der Bildergalerie.
-focusKeyword: Isle Of Wight Festival
+fileName: 2012-07---isle-of-wight-festival-2012.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_p1270061__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_p1270061__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAApEAACAgEDAwMEAwEAAAAAAAABAgMEEQAFBhIhMRMiQRRRYXEHI4Gh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMBBP/EAB8RAQACAgICAwAAAAAAAAAAAAECAwARBCESMRNBUf/aAAwDAQACEQMRAD8ASdz3HbaM+z1bNaR+g+rZlxDCzxuSEWJY189OD1t3z9s62YNyu75yW/tqi1e2qpSFm2Y1UN1FcDLDvgE4Hk5yf1P6kczClZliSdpJUWHqXtKox7ct2IGMY1ReC7/Z4tsNqokEsVuxN9dPPBJghFBUB38BQATjBxk/OhJCGk7ylUd2DvrFW9Y3TatsVLdCZq0MoKyyQ9EciP3UswGDkHHn4Ot7bf5Stcc49UWvaneTcE9SwWgCHrXCgIyge0YYg+7OfGuXNuV0t42eCG1bpwq59aeJXaQy4YkYAX+v9Z+O/c6nPN54/ra1GuAIacCJ7fHUQGJ/6NIPRrWK6flLfT6Mta8bktBEsN66nugkRCFI/wA8/nWvU22KlDZ+oBdZ4liKxElnXOACuRnBOTn86NGuKcfIYuXrsa5Ez6xE5Jw2puK7jIITWnhhaZZETPuAJwQPIIUj8Z0jy8LtWOK7nvs1gizUcF63QWJjIQ9XV8HDZx9ho0adJ8cSI5vLueRY2SAX86M//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2013_06_563886_448384511850350_787782372_n__l.jpg
 labels:
   - Bier
   - Biffy Clyro
@@ -30,17 +37,12 @@ labels:
   - Wellies
   - Zelt
   - zelten
-type: Galerie
-typeName: Konzertbericht
-date: 2012-07-29T14:17:29.000Z
+focusKeyword: Isle Of Wight Festival
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "3427"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_p1270061__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_p1270061__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAApEAACAgEDAwMEAwEAAAAAAAABAgMEEQAFBhIhMRMiQRRRYXEHI4Gh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMBBP/EAB8RAQACAgICAwAAAAAAAAAAAAECAwARBCESMRNBUf/aAAwDAQACEQMRAD8ASdz3HbaM+z1bNaR+g+rZlxDCzxuSEWJY189OD1t3z9s62YNyu75yW/tqi1e2qpSFm2Y1UN1FcDLDvgE4Hk5yf1P6kczClZliSdpJUWHqXtKox7ct2IGMY1ReC7/Z4tsNqokEsVuxN9dPPBJghFBUB38BQATjBxk/OhJCGk7ylUd2DvrFW9Y3TatsVLdCZq0MoKyyQ9EciP3UswGDkHHn4Ot7bf5Stcc49UWvaneTcE9SwWgCHrXCgIyge0YYg+7OfGuXNuV0t42eCG1bpwq59aeJXaQy4YkYAX+v9Z+O/c6nPN54/ra1GuAIacCJ7fHUQGJ/6NIPRrWK6flLfT6Mta8bktBEsN66nugkRCFI/wA8/nWvU22KlDZ+oBdZ4liKxElnXOACuRnBOTn86NGuKcfIYuXrsa5Ez6xE5Jw2puK7jIITWnhhaZZETPuAJwQPIIUj8Z0jy8LtWOK7nvs1gizUcF63QWJjIQ9XV8HDZx9ho0adJ8cSI5vLueRY2SAX86M//9k=
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 4/9
   
 ---

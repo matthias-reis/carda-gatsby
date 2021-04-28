@@ -1,15 +1,22 @@
 ---
-title: Arvensis
-seoTitle: Dani von Arvensis im Interview - Experimentelle Musik aus Atlanta
+date: 2020-11-17T09:09:12.000Z
 slug: arvensis-interview
 path: /2020/11/arvensis-interview/
-fileName: 2020-11---arvensis.md
+type: Artikel
+typeName: Interview
+title: Arvensis
+seoTitle: Dani von Arvensis im Interview - Experimentelle Musik aus Atlanta
+ogTitle: Dani von Arvensis im Interview - Experimentelle Musik aus Atlanta
 description: Arvensis – das ist ein experimentelles Ambient-Projekt auf Merigold
   Independent. Die avantgardistischen Klänge wirken wie aus einer fremden Welt.
 excerpt: English & German – Arvensis ist ein experimentelles Ambient-Projekt auf
   Merigold Independent. Die avantgardistischen Klänge wirken wie aus einer
   fremden Welt. Ich habe mich mit Gründer Dani Laubscher unterhalten.
-focusKeyword: Arvensis
+fileName: 2020-11---arvensis.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAEDAgQI/8QAKBAAAgEDAgUDBQAAAAAAAAAAAQIDAAQREiEFEzFBYSIygUJRkbHR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIBBv/EACARAAEEAgEFAAAAAAAAAAAAAAEAAhEhAxLBMWFxkdH/2gAMAwEAAhEDEQA/AOdJgI7WWVzqkOF8Iud8VK9Rg0wkyMnAVPbjJ/PStg2/Njk3eT0nC6vH2ouZeXaLIVV8gKQw6/yiB1ros2KWEmhH2Z9qUE86Lc6ubMzxaAZW2UfPbxTneGLirxWdxPLYI7LDzRpJHX25IG5P7rKd44JUe3lSeJogHBQtpO2R6gOh6GozoicRRYV04CMN85JUE5z5zV1aDbtexjlXMj294VmRyvKZivTbBwRSueU3CIQSwOR9OTnttRRUkdClsyOIyMdYAPChbrIE5aMyh1YMruF9OASDnsSAfiqXFtPDIkksUhSViQzqMNjByD3oorZtHLADr4X/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis-fb.png__l.jpg
 labels:
   - Ambient
   - Atlanta
@@ -24,17 +31,12 @@ labels:
   - Interviews
   - Merigold Independent
   - Post-Rock
-type: Artikel
-typeName: Interview
-date: 2020-11-17T09:09:12.000Z
+focusKeyword: Arvensis
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31860"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAEDAgQI/8QAKBAAAgEDAgUDBQAAAAAAAAAAAQIDAAQREiEFEzFBYSIygUJRkbHR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIBBv/EACARAAEEAgEFAAAAAAAAAAAAAAEAAhEhAxLBMWFxkdH/2gAMAwEAAhEDEQA/AOdJgI7WWVzqkOF8Iud8VK9Rg0wkyMnAVPbjJ/PStg2/Njk3eT0nC6vH2ouZeXaLIVV8gKQw6/yiB1ros2KWEmhH2Z9qUE86Lc6ubMzxaAZW2UfPbxTneGLirxWdxPLYI7LDzRpJHX25IG5P7rKd44JUe3lSeJogHBQtpO2R6gOh6GozoicRRYV04CMN85JUE5z5zV1aDbtexjlXMj294VmRyvKZivTbBwRSueU3CIQSwOR9OTnttRRUkdClsyOIyMdYAPChbrIE5aMyh1YMruF9OASDnsSAfiqXFtPDIkksUhSViQzqMNjByD3oorZtHLADr4X/2Q==
 subTitle: '"Meine Ideen kommen von innen"'
   
 ---

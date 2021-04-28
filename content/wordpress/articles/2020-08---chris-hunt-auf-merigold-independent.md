@@ -1,16 +1,23 @@
 ---
-title: Chris Hunt auf Merigold Independent
-seoTitle: Chris Hunt auf Merigold Independent - Samuel Laubscher startet Label
+date: 2020-08-06T09:16:32.000Z
 slug: chris-hunt-torrent-merigold-independent
 path: /2020/08/chris-hunt-torrent-merigold-independent/
-fileName: 2020-08---chris-hunt-auf-merigold-independent.md
+type: Artikel
+typeName: Artikel
+title: Chris Hunt auf Merigold Independent
+seoTitle: Chris Hunt auf Merigold Independent - Samuel Laubscher startet Label
+ogTitle: Chris Hunt auf Merigold Independent - Samuel Laubscher startet Label
 description: Sam Laubscher von Of The Vine hat ein Label mit dem Namen Merigold
   Independent gegründet. Heute veröffentlicht dort Chris Hunt sein neues Album
   "Torrent".
 excerpt: English & German - Sam Laubscher von Of The Vine hat ein Label mit dem
   Namen Merigold Independent gegründet. Heute veröffentlicht dort Chris Hunt
   sein neues Album "Torrent".
-focusKeyword: Chris Hunt
+fileName: 2020-08---chris-hunt-auf-merigold-independent.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_chris-hunt__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_chris-hunt__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBAUGB//EACYQAAICAgECBgMBAAAAAAAAAAECAxEABCEFEgYTMUFRcSJhkcH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwEEBf/EABsRAQACAgMAAAAAAAAAAAAAAAEAAgMREiEx/9oADAMBAAIRAxEAPwDl3Tun6K+Gm2OpeLdHWM0T+VoRQvszlhdK4oLHZHqWsA3WZRNM+fFDKRGzokjcg9vcLA/lf3J+sem62kYWkGzJPGB3IOwxOfeyDaiuRxfzlZvypNtyPHfaaAv9AD/Mp12qE0rY+AKy0650WPT1NKfWlD+erWhYMykEckD0uxlE0ZUc3ms67Jqxa+rqxxxRTCOXYlENGu4KVW/u/rMkZS93Xzh4myROYqMRW/I49QtKXur5rDDGvsXV6jo5FMrheFZSovIxPPHvhhkhpgKpP//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_08_chris-hunt-fb.png__l.jpg
 labels:
   - Ambient
   - Ambient Drone
@@ -26,17 +33,12 @@ labels:
   - Samuel Laubscher
   - Soundscape
   - Soundtrack
-type: Artikel
-typeName: Artikel
-date: 2020-08-06T09:16:32.000Z
+focusKeyword: Chris Hunt
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30973"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_chris-hunt__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_chris-hunt__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBAUGB//EACYQAAICAgECBgMBAAAAAAAAAAECAxEABCEFEgYTMUFRcSJhkcH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwEEBf/EABsRAQACAgMAAAAAAAAAAAAAAAEAAgMREiEx/9oADAMBAAIRAxEAPwDl3Tun6K+Gm2OpeLdHWM0T+VoRQvszlhdK4oLHZHqWsA3WZRNM+fFDKRGzokjcg9vcLA/lf3J+sem62kYWkGzJPGB3IOwxOfeyDaiuRxfzlZvypNtyPHfaaAv9AD/Mp12qE0rY+AKy0650WPT1NKfWlD+erWhYMykEckD0uxlE0ZUc3ms67Jqxa+rqxxxRTCOXYlENGu4KVW/u/rMkZS93Xzh4myROYqMRW/I49QtKXur5rDDGvsXV6jo5FMrheFZSovIxPPHvhhkhpgKpP//Z
 subTitle: Samuel Laubscher startet neues Plattenlabel
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: Orte der Kindheit
-seoTitle: Orte der Kindheit - zu Besuch in Bielefeld
+date: 2019-05-21T05:45:08.000Z
 slug: orte-der-kindheit
 path: /2019/05/orte-der-kindheit/
-fileName: 2019-05---orte-der-kindheit.md
+type: Artikel
+typeName: Artikel
+title: Orte der Kindheit
+seoTitle: Orte der Kindheit - zu Besuch in Bielefeld
+ogTitle: Orte der Kindheit - zu Besuch in Bielefeld
 description: "Warum ich erst jetzt nach Bielefeld gefahren bin, weiß ich nicht.
   Eines ist aber mehr als sicher: Es war die richtige Entscheidung, es zu tun."
 excerpt: "Warum ich erst jetzt nach Bielefeld gefahren bin, weiß ich nicht.
   Eines ist aber mehr als sicher: Es war die richtige Entscheidung, es zu tun."
-focusKeyword: Bielefeld
+fileName: 2019-05---orte-der-kindheit.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-11__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-11__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAFBP/EACcQAAIBAwMDBAMBAAAAAAAAAAECAwQFEQASIRMxQQYiUcFhYpFx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMABAb/xAAgEQACAgEDBQAAAAAAAAAAAAABAgARBQMEURIhMTJC/9oADAMBAAIRAxEAPwCsVjj6akxjt+NbtwgprVbWqZEQhTtxx8E/Wh9uo6GOlgkhqadYWUBZulgFz+/Ct/eNdV7hLWmhpXkgUVdbEhMeA+CCpOPjkH4/untk19b7xK436PiNKm1RFcBI8EcdtDvUtiBU7pYKeA5BO4BmJHAyfrW9XelbvKahmp3mYZCKknS6oGPcAxx2PjH3oFfRA9MBFAC4L7m65I9px7c8E8fPnUORXpgpsQzUCDUOQ1EkhVaiVntMMpEYjYlgnhuTnnnjHGtkoatzU01bDFSvhQgiO7Cjzz3wM99WrWVXULmiOZfVySBxOy8eoqx3ggnuDybY2AbfgbSRn/PGil1vMeXiiEanbtJXuxBz38atWmqgYgmEXKmhP//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_05_bielefeld.png__l.jpg
 labels:
   - Achtsamkeit
   - Achtsamkeit
@@ -19,17 +26,12 @@ labels:
   - NRW
   - Ostwestfalen
   - Teutoburger Wald
-type: Artikel
-typeName: Artikel
-date: 2019-05-21T05:45:08.000Z
+focusKeyword: Bielefeld
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "24170"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-11__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-11__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAFBP/EACcQAAIBAwMDBAMBAAAAAAAAAAECAwQFEQASIRMxQQYiUcFhYpFx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMABAb/xAAgEQACAgEDBQAAAAAAAAAAAAABAgARBQMEURIhMTJC/9oADAMBAAIRAxEAPwCsVjj6akxjt+NbtwgprVbWqZEQhTtxx8E/Wh9uo6GOlgkhqadYWUBZulgFz+/Ct/eNdV7hLWmhpXkgUVdbEhMeA+CCpOPjkH4/untk19b7xK436PiNKm1RFcBI8EcdtDvUtiBU7pYKeA5BO4BmJHAyfrW9XelbvKahmp3mYZCKknS6oGPcAxx2PjH3oFfRA9MBFAC4L7m65I9px7c8E8fPnUORXpgpsQzUCDUOQ1EkhVaiVntMMpEYjYlgnhuTnnnjHGtkoatzU01bDFSvhQgiO7Cjzz3wM99WrWVXULmiOZfVySBxOy8eoqx3ggnuDybY2AbfgbSRn/PGil1vMeXiiEanbtJXuxBz38atWmqgYgmEXKmhP//Z
 subTitle: Zu Besuch in Bielefeld
   
 ---

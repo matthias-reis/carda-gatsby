@@ -1,30 +1,32 @@
 ---
-title: CrowdFarming - Anbau auf Bestellung
-seoTitle: CrowdFarming - Anbau auf Bestellung - Eine neue Lieferkette
+date: 2018-11-15T19:12:10.000Z
 slug: crowdfarming
 path: /2018/11/crowdfarming/
-fileName: 2018-11---crowdfarming-anbau-auf-bestellung.md
+type: Artikel
+typeName: Artikel
+title: CrowdFarming - Anbau auf Bestellung
+seoTitle: CrowdFarming - Anbau auf Bestellung - Eine neue Lieferkette
+ogTitle: CrowdFarming - Anbau auf Bestellung - Eine neue Lieferkette
 description: '"Wenn Du frische Lebensmittel möchtest, dann bitte die Landwirte
   darum, sie für Dich anzubauen", sagen die Leute von Crowdfarming.'
 excerpt: '"Wenn Du frische Lebensmittel möchtest, dann bitte die Landwirte
   darum, sie für Dich anzubauen", sagen die Leute von Crowdfarming. Wie das
   funktionieren soll und was genau das ist, CrowdFarming, dem bin ich mal
   nachgegangen.'
-focusKeyword: crowdfarming
-labels:
-  - Antifaschismus & Feminismus
-  - Klima & Umweltschutz
-type: Artikel
-typeName: Artikel
-date: 2018-11-15T19:12:10.000Z
-status: publish
-isWerbung: false
-isAffiliate: false
-errors: {}
-thumbnailId: "22702"
+fileName: 2018-11---crowdfarming-anbau-auf-bestellung.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_11_Crowdfarming-of-oranges-Gonzalo-picks-oranges__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_11_Crowdfarming-of-oranges-Gonzalo-picks-oranges__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAArEAACAgEEAAUCBwEAAAAAAAABAgMRBAAFEiEGEyIxUUFxBxQyNUJhgZH/xAAYAQACAwAAAAAAAAAAAAAAAAABAwIEBf/EACARAAICAQMFAAAAAAAAAAAAAAABAhEDMTJxEiEiYbH/2gAMAwEAAhEDEQA/AMQVCQkZLvDIpVI/Kb1hTYWnqyaDdiq9+9J5GYscfmMfy9RGOeAEuTGDcTerprrvuzfwNX4IJZd1TCxcOJFlV+bzRedFMePGqU3yJJJs9cB0dJ5OBkT7s6TRMqSRgvGAewGawE+QLAIJ+taxoyV9+SVVoKvijb84Y+fBKsWZjJPjk+x599NfEjphQNgjvXPfMaCHOXOcTSwwReXMDISqhlB8wXZYWar68T2dW/A8Q3ncvDm0btOuRt0suRJBjSMWQyi2UGz3dAA9XXd6v53gXC3SfOfcXmXDGS740ETlJVTmQp+K79IHsBpk6ilK/QF5PpSI07sYMpixLJjM6kn9LEuSR8H+9QvEjsceK2P7VO/v/Lmxv733ejRpGPVDWa/8CMPGl27ZZ5ceF54SWikZAWjPIi1PuP8ANbHwsTPve8LOTIqz9B+wPW/z9h/zRo1Yz7Vy/oMO8//Z
+ogImage: null
+labels:
+  - Antifaschismus & Feminismus
+  - Klima & Umweltschutz
+focusKeyword: crowdfarming
+status: publish
+isWerbung: false
+isAffiliate: false
+language: de
+errors: {}
 subTitle: Eine neue Lieferkette
   
 ---

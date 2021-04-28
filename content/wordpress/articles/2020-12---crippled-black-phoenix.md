@@ -1,15 +1,22 @@
 ---
-title: Crippled Black Phoenix
-seoTitle: Crippled Black Phoenix – Musik als Aktivismus – Interview
+date: 2020-12-20T15:13:56.000Z
 slug: crippled-black-phoenix-interview
 path: /2020/12/crippled-black-phoenix-interview/
-fileName: 2020-12---crippled-black-phoenix.md
+type: Artikel
+typeName: Interview
+title: Crippled Black Phoenix
+seoTitle: Crippled Black Phoenix – Musik als Aktivismus – Interview
+ogTitle: Crippled Black Phoenix – Musik als Aktivismus – Interview
 description: Crippled Black Phoenix beeindrucken mich immer wieder. Jetzt konnte
   ich mich mit Belinda Kordic und Justin Greaves zum Interview verabreden.
 excerpt: English & German – Crippled Black Phoenix beeindrucken mich immer
   wieder. Jetzt konnte ich mich mit Belinda Kordic und Justin Greaves zum
   Interview verabreden.
-focusKeyword: Crippled Black Phoenix
+fileName: 2020-12---crippled-black-phoenix.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_crippled-black-phoenix-interview-belinda-justin__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_crippled-black-phoenix-interview-belinda-justin__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAJhAAAQMDBAEFAQEAAAAAAAAAAQIDBAUGEQASITETBxUiQVEUYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBc21Z7Nzx5s6NV6HGbpjRQtqS2R5VuJJyMAfFKiBvUeDz9c0dlznJVzWoiK1Hjyo9RjKDpVgrO9A5P2ePr90wbd9N4E6NKS7NqkR55aoAci48CXFJSUpfPQQon7/P81mrStxyPIfrNEXTqxCoimpdSjutYlQwlRUsDrdjYfkgkaDqe57dot0xYcO6kKkxY0hucGi8lHlUUlIStIJKkjcnPIycHrvD3VZjNnVKG3aVTlvvSVrLNIeYdlqTgZUUPIBU2MEY8gVn90nKz64XTW6q89TG6ew5GWXWX2YacpBITt+WSQQEDnvAzpv8AtVUX6fv3DRKw1CrpbE411yWTDkOKWfKUNjKUqwCgDYoFO3HJOgler09ikXBDi0hTkf3deypqjpByUjKSBjhRxyc9DOODpcX9XaUulMwaSH2wmFJ8rflSpZIa3FakNk7UkBQyex8udGjQYWJbiVUGp+wPuzK3JcacdgfyqCg0DkePBIWjODuB6A4Grn0/sy8qTdtvVe6KZUG6HBkI8TcpeNqdrikbGycjBSVdDHejRoP/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_12_crippled-black-phoenix-interview-belinda-justin-fb.png__l.jpg
 labels:
   - Alternative
   - Animal Rights
@@ -29,17 +36,12 @@ labels:
   - Veganer
   - Veganism
   - Veganismus
-type: Artikel
-typeName: Interview
-date: 2020-12-20T15:13:56.000Z
+focusKeyword: Crippled Black Phoenix
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32104"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_crippled-black-phoenix-interview-belinda-justin__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_crippled-black-phoenix-interview-belinda-justin__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAJhAAAQMDBAEFAQEAAAAAAAAAAQIDBAUGEQASITETBxUiQVEUYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBc21Z7Nzx5s6NV6HGbpjRQtqS2R5VuJJyMAfFKiBvUeDz9c0dlznJVzWoiK1Hjyo9RjKDpVgrO9A5P2ePr90wbd9N4E6NKS7NqkR55aoAci48CXFJSUpfPQQon7/P81mrStxyPIfrNEXTqxCoimpdSjutYlQwlRUsDrdjYfkgkaDqe57dot0xYcO6kKkxY0hucGi8lHlUUlIStIJKkjcnPIycHrvD3VZjNnVKG3aVTlvvSVrLNIeYdlqTgZUUPIBU2MEY8gVn90nKz64XTW6q89TG6ew5GWXWX2YacpBITt+WSQQEDnvAzpv8AtVUX6fv3DRKw1CrpbE411yWTDkOKWfKUNjKUqwCgDYoFO3HJOgler09ikXBDi0hTkf3deypqjpByUjKSBjhRxyc9DOODpcX9XaUulMwaSH2wmFJ8rflSpZIa3FakNk7UkBQyex8udGjQYWJbiVUGp+wPuzK3JcacdgfyqCg0DkePBIWjODuB6A4Grn0/sy8qTdtvVe6KZUG6HBkI8TcpeNqdrikbGycjBSVdDHejRoP/2Q==
 subTitle: Musik als Aktivismus
   
 ---

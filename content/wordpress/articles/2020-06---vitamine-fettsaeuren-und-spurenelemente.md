@@ -1,16 +1,23 @@
 ---
-title: Vitamine, Fettsäuren und Spurenelemente
-seoTitle: Vitamine, Fettsäuren und Spurenelemente - vegane Hausapotheke
+date: 2020-06-29T15:32:03.000Z
 slug: vitamine-fettsaeuren-und-spurenelemente
 path: /2020/06/vitamine-fettsaeuren-und-spurenelemente/
-fileName: 2020-06---vitamine-fettsaeuren-und-spurenelemente.md
+type: Artikel
+typeName: Artikel
+title: Vitamine, Fettsäuren und Spurenelemente
+seoTitle: Vitamine, Fettsäuren und Spurenelemente - vegane Hausapotheke
+ogTitle: Vitamine, Fettsäuren und Spurenelemente - vegane Hausapotheke
 description: Vitamine, Mineralstoffe, ungesättigte Fettsäuren und Spurenelemente
   sind wichtig für unsere Gesundheit. Daher sollten wir verstärkt auf sie
   achten.
 excerpt: Werbung & Affiliate Links - Vitamine, Mineralstoffe, ungesättigte
   Fettsäuren und Spurenelemente sind wichtig für unsere Gesundheit. Daher
   sollten wir verstärkt auf sie achten.
-focusKeyword: Fettsäuren
+fileName: 2020-06---vitamine-fettsaeuren-und-spurenelemente.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-27-steiger-naturals-01__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-27-steiger-naturals-01__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgEBQcG/8QAJxAAAQMDAwMEAwAAAAAAAAAAAQIDBAAFEQYSIQciMRNBQpFRgfD/xAAYAQACAwAAAAAAAAAAAAAAAAADBAABAv/EACQRAAICAQIFBQAAAAAAAAAAAAECAxEABCEFEjFRkRMiQaHB/9oADAMBAAIRAxEAPwBnoxGU0oUqY2jSdtYhRdRm/NyCJspZkbFt7lDI5wfCBjAIwc5zTXJlJQyoggkJJArPOoeub7pz1XrdHhyZDcQOtJdS6Eqy6lJSQF48c581SqJZRCD7jZ8dcV1aryBmNC68kZidp0/crlZmX5t0vsNS0OeoVFYCVbin5KHPA+6ZG8pHdjwBiqXpFrOfrfTMu6XmFBYmolOsgR2lFGxCUYyVE9xKj7+McVc3IZQe4fdQRSRSMHN/mbgjEY2ye7bXVdqc7F9pUnnbnjOKy7qHpt6HNWwt6ZM3w0lLjTS07SHD2jGQTgH+xRRT3D41OqD/ACAfsYtxaZl0hUdLU13o51vSC1vwdEzWXBLDSpS1MKkp2KUktNgnGB8gv959qsZ9teWk4UoD8k0UUOcn1Wvvh9PvChqthn//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_vitamine.png__l.jpg
 labels:
   - Algenöl
   - D3
@@ -40,17 +47,12 @@ labels:
   - Vitamin K2
   - Vitaminpräparate
   - Zink
-type: Artikel
-typeName: Artikel
-date: 2020-06-29T15:32:03.000Z
+focusKeyword: Fettsäuren
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30176"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-27-steiger-naturals-01__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-27-steiger-naturals-01__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgEBQcG/8QAJxAAAQMDAwMEAwAAAAAAAAAAAQIDBAAFEQYSIQciMRNBQpFRgfD/xAAYAQACAwAAAAAAAAAAAAAAAAADBAABAv/EACQRAAICAQIFBQAAAAAAAAAAAAECAxEABCEFEjFRkRMiQaHB/9oADAMBAAIRAxEAPwBnoxGU0oUqY2jSdtYhRdRm/NyCJspZkbFt7lDI5wfCBjAIwc5zTXJlJQyoggkJJArPOoeub7pz1XrdHhyZDcQOtJdS6Eqy6lJSQF48c581SqJZRCD7jZ8dcV1aryBmNC68kZidp0/crlZmX5t0vsNS0OeoVFYCVbin5KHPA+6ZG8pHdjwBiqXpFrOfrfTMu6XmFBYmolOsgR2lFGxCUYyVE9xKj7+McVc3IZQe4fdQRSRSMHN/mbgjEY2ye7bXVdqc7F9pUnnbnjOKy7qHpt6HNWwt6ZM3w0lLjTS07SHD2jGQTgH+xRRT3D41OqD/ACAfsYtxaZl0hUdLU13o51vSC1vwdEzWXBLDSpS1MKkp2KUktNgnGB8gv959qsZ9teWk4UoD8k0UUOcn1Wvvh9PvChqthn//2Q==
 subTitle: Auszug aus meiner veganen Hausapotheke
   
 ---

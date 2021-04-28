@@ -1,14 +1,21 @@
 ---
-title: Blutige Zahlen
-seoTitle: Blutige Zahlen - Veganer retten Leben
+date: 2014-08-22T12:54:02.000Z
 slug: blutige-zahlen
 path: /2014/08/blutige-zahlen/
-fileName: 2014-08---blutige-zahlen.md
+type: Artikel
+typeName: Artikel
+title: Blutige Zahlen
+seoTitle: Blutige Zahlen - Veganer retten Leben
+ogTitle: Blutige Zahlen - Veganer retten Leben
 description: Warum Veganer Leben retten - Blutige Zahlen geben Aufschluss - Eine
   Reportage in Zahlen und Fakten
 excerpt: Wir lieben es nicht, Tiere, die wir zu unseren Sklaven gemacht haben,
   als ebenbürtig zu betrachten. (Charles Darwin)
-focusKeyword: Blutige
+fileName: 2014-08---blutige-zahlen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_veganismus-zahlen__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_veganismus-zahlen__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBgcIBQn/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREAITEGEhMHFEFxIjJRYaH/xAAYAQACAwAAAAAAAAAAAAAAAAAAAgEDBP/EAB4RAQACAgEFAAAAAAAAAAAAAAEAAhEhAxITMVHw/9oADAMBAAIRAxEAPwC3unPUnpi+XVqG21vmw5QTbCNiBk8kHGPnH86n1L454klhZJInGVdCGVh/RGx154X2mjtNf7SKZp4wSWDcnDEBSOPg/edSSwdVXShkprQlxekoIZX8sSLnuAOSo3woOcYH+6avI3M+4nbDxNy3O52+2W9q6tqIoqVSF8hOQSTgAY5OdsDSNJdrdWUaVUFVF7d8gO58e45/bGsN0HVNVdOrxNLU1UsLzO0UVRUM6quPxQDhQN8Yxrs+rc0lV0vYXlRJaeKrmjjzyncoYr9HGfsaFRk9JiV7dpWapWT2qksvdkg9225Jwccb8acRRz1S1lbLBHFPBJHE3cWXLMGznJ5AUaNGs7drUx9uWm4vBZkC0tTFOkZbtkGSfxB+edPp7zJST1KVVUtwjJAijaM+JSMgOoJO4440aNDZsowdE//Z
+ogImage: null
 labels:
   - 10 Fakten über Veganismus
   - aufs Brot schmieren
@@ -37,18 +44,13 @@ labels:
   - Veganismus
   - Vegetarier
   - Zahlen
-type: Artikel
-typeName: Artikel
-date: 2014-08-22T12:54:02.000Z
+focusKeyword: Blutige
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "25255"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_veganismus-zahlen__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_veganismus-zahlen__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBgcIBQn/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREAITEGEhMHFEFxIjJRYaH/xAAYAQACAwAAAAAAAAAAAAAAAAAAAgEDBP/EAB4RAQACAgEFAAAAAAAAAAAAAAEAAhEhAxITMVHw/9oADAMBAAIRAxEAPwC3unPUnpi+XVqG21vmw5QTbCNiBk8kHGPnH86n1L454klhZJInGVdCGVh/RGx154X2mjtNf7SKZp4wSWDcnDEBSOPg/edSSwdVXShkprQlxekoIZX8sSLnuAOSo3woOcYH+6avI3M+4nbDxNy3O52+2W9q6tqIoqVSF8hOQSTgAY5OdsDSNJdrdWUaVUFVF7d8gO58e45/bGsN0HVNVdOrxNLU1UsLzO0UVRUM6quPxQDhQN8Yxrs+rc0lV0vYXlRJaeKrmjjzyncoYr9HGfsaFRk9JiV7dpWapWT2qksvdkg9225Jwccb8acRRz1S1lbLBHFPBJHE3cWXLMGznJ5AUaNGs7drUx9uWm4vBZkC0tTFOkZbtkGSfxB+edPp7zJST1KVVUtwjJAijaM+JSMgOoJO4440aNDZsowdE//Z
 subTitle: 10 Fakten über Veganismus - Teil III
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: Michelle Rodriguez lebt vegan
-seoTitle: Michelle Rodriguez lebt vegan - Fast And Furious Star setzt auf pflanzlich
+date: 2016-03-15T16:23:51.000Z
 slug: michelle-rodriguez-lebt-vegan
 path: /2016/03/michelle-rodriguez-lebt-vegan/
-fileName: 2016-03---michelle-rodriguez-lebt-vegan.md
+type: Artikel
+typeName: Artikel
+title: Michelle Rodriguez lebt vegan
+seoTitle: Michelle Rodriguez lebt vegan - Fast And Furious Star setzt auf pflanzlich
+ogTitle: Michelle Rodriguez lebt vegan - Fast And Furious Star setzt auf pflanzlich
 description: Der weibliche Star der Filmreihe "Fast and Furious" Michelle
   Rodriguez hat auf vegane Ernährung umgestellt. Eine Dokumentation war bei ihr
   der Auslöser.
 excerpt: Der weibliche Star der Filmreihe "Fast and Furious" Michelle Rodriguez
   hat auf vegane Ernährung umgestellt. Eine Dokumentation war bei ihr der
   Auslöser.
-focusKeyword: Michelle Rodriguez
+fileName: 2016-03---michelle-rodriguez-lebt-vegan.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_michelle-rodriguez-lebt-vegan__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_michelle-rodriguez-lebt-vegan__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUHBv/EACsQAAICAAUDAwIHAAAAAAAAAAECAwQABQYRMRIhQQcUIhNRFTJCYXGhsf/EABcBAQADAAAAAAAAAAAAAAAAAAUCAwT/xAAeEQACAgIDAQEAAAAAAAAAAAABAgAEAwURMVESIf/aAAwDAQACEQMRAD8AVV9GNE87SWFmMjlwHH5eeMYnVq2ctzP8KoujXlrGxKyHZYY1G+5J8keP3GLDDZVzCpZd2Ozd+MSTSK2tSa71XmUWZVaDKwr9TxmTrjJKhVUckhBhDYuK+L6XuQ16NYzBGmNNbOqskR90X6wkwb3AYt1L1dl5PbGs0z7nPaks1H6c4i+DpwQT3B/3DfUnpkc46J9NampTRQRBKUFhpELxrv8ABHYdyG6xt443wk9O6NrTnqpdyOYqgmjdWBbZQBs6sT9gBzg2lZDuFLRC7VbEpIX8lC1Bfapp69erN9OStXeRFK/qAO394jnpbnceW57NXtVzaqXQqSKqhpAyklWUHk779vO+DBi7YDlSD5MmsYrlBHsslzWWVzVbF/I6M1qzQheaa9ZrJCkaKCQgC+S2w4B79ziLaOu3LGrznGYyTWAUL2JmO56X+BP8Dc9vsMGDBtMBSTF9kxYqD1xP/9k=
+ogImage: null
 labels:
   - Ernährung
   - Ernährung & Gesundheit
@@ -18,17 +25,12 @@ labels:
   - vegan celebrities
   - vegane Ernährung
   - vegane Stars
-type: Artikel
-typeName: Artikel
-date: 2016-03-15T16:23:51.000Z
+focusKeyword: Michelle Rodriguez
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "28949"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_michelle-rodriguez-lebt-vegan__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_michelle-rodriguez-lebt-vegan__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUHBv/EACsQAAICAAUDAwIHAAAAAAAAAAECAwQABQYRMRIhQQcUIhNRFTJCYXGhsf/EABcBAQADAAAAAAAAAAAAAAAAAAUCAwT/xAAeEQACAgIDAQEAAAAAAAAAAAABAgAEAwURMVESIf/aAAwDAQACEQMRAD8AVV9GNE87SWFmMjlwHH5eeMYnVq2ctzP8KoujXlrGxKyHZYY1G+5J8keP3GLDDZVzCpZd2Ozd+MSTSK2tSa71XmUWZVaDKwr9TxmTrjJKhVUckhBhDYuK+L6XuQ16NYzBGmNNbOqskR90X6wkwb3AYt1L1dl5PbGs0z7nPaks1H6c4i+DpwQT3B/3DfUnpkc46J9NampTRQRBKUFhpELxrv8ABHYdyG6xt443wk9O6NrTnqpdyOYqgmjdWBbZQBs6sT9gBzg2lZDuFLRC7VbEpIX8lC1Bfapp69erN9OStXeRFK/qAO394jnpbnceW57NXtVzaqXQqSKqhpAyklWUHk779vO+DBi7YDlSD5MmsYrlBHsslzWWVzVbF/I6M1qzQheaa9ZrJCkaKCQgC+S2w4B79ziLaOu3LGrznGYyTWAUL2JmO56X+BP8Dc9vsMGDBtMBSTF9kxYqD1xP/9k=
 subTitle: Fast And Furious Star setzt auf pflanzliche Ernährung
   
 ---

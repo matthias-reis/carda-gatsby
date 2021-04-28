@@ -1,16 +1,23 @@
 ---
-title: We Lost The Sea
-seoTitle: We Lost The Sea – "Post-Rock löst Grenzen auf" – Interview mit Mark
+date: 2021-01-08T13:38:42.000Z
 slug: we-lost-the-sea-interview
 path: /2021/01/we-lost-the-sea-interview/
-fileName: 2021-01---we-lost-the-sea.md
+type: Artikel
+typeName: Interview
+title: We Lost The Sea
+seoTitle: We Lost The Sea – "Post-Rock löst Grenzen auf" – Interview mit Mark
+ogTitle: We Lost The Sea – "Post-Rock löst Grenzen auf" – Interview mit Mark
 description: We Lost The Sea ist eine der großartigsten Post-Rock Bands. Ihre
   Musik ist live und auf Platte ein Hochgenuss. Ich habe Gitarrist Mark
   interviewt.
 excerpt: English & German – We Lost The Sea ist eine der großartigsten Post-Rock
   Bands. Ihre Musik ist live und auf Platte ein Hochgenuss. Ich habe Gitarrist
   Mark interviewt.
-focusKeyword: We Lost The Sea
+fileName: 2021-01---we-lost-the-sea.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_wlts__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_wlts__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAgT/xAAoEAABAwMDAQkBAAAAAAAAAAABAgMEAAURBhIhMQcTFDJBUWGBkXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AIvpKzrvt8t1vbQ46qVJQxsbICiCecZ6cZ5qgjQky1x9Txzb2ptmak903NwkutZBAUR5gMFJOOMopZ7Nb3E05clXGUXS4gYbS23u2kkDcf0/lN7Wv1Bm8PM3SUy67MalqbW3y62FHLQ6jGPrkVFcKOz24S4On0SIKINqlTe68YpILpTtAzt684Wr+rHtSXreyCwX64W8JWhMaQtpIc8xAPGfrFU7VfaHHujEVdvuL7CYjLwZQEkEOFQQHB8gZIz81Odc3JF5nOTvFCQ68tTi3FJ2qWeAcj0yQTj5NArBZHqeRjrW1OrUnzHBxkZ9qKKoz3ijnnjHSskn9ooqD//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_we-lost-the-sea-fb.png__l.jpg
 labels:
   - Australian Post-Rock
   - Bands
@@ -21,18 +28,13 @@ labels:
   - Post-Rock
   - Sydney
   - WE LOST THE SEA
-type: Artikel
-typeName: Interview
-date: 2021-01-08T13:38:42.000Z
+focusKeyword: We Lost The Sea
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   invalidMdx: 'unknown: Unexpected token, expected "}" (184:23)'
-thumbnailId: "32282"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_wlts__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_wlts__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAgT/xAAoEAABAwMDAQkBAAAAAAAAAAABAgMEAAURBhIhMQcTFDJBUWGBkXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AIvpKzrvt8t1vbQ46qVJQxsbICiCecZ6cZ5qgjQky1x9Txzb2ptmak903NwkutZBAUR5gMFJOOMopZ7Nb3E05clXGUXS4gYbS23u2kkDcf0/lN7Wv1Bm8PM3SUy67MalqbW3y62FHLQ6jGPrkVFcKOz24S4On0SIKINqlTe68YpILpTtAzt684Wr+rHtSXreyCwX64W8JWhMaQtpIc8xAPGfrFU7VfaHHujEVdvuL7CYjLwZQEkEOFQQHB8gZIz81Odc3JF5nOTvFCQ68tTi3FJ2qWeAcj0yQTj5NArBZHqeRjrW1OrUnzHBxkZ9qKKoz3ijnnjHSskn9ooqD//Z
 subTitle: '"Post-Rock löst Grenzen auf"'
   
 ---

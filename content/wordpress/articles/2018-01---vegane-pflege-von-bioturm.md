@@ -1,16 +1,23 @@
 ---
-title: Vegane Pflege von Bioturm
-seoTitle: Vegane Pflege von Bioturm - All Time Favorites unter der Lupe
+date: 2018-01-28T18:09:52.000Z
 slug: bioturm
 path: /2018/01/bioturm/
-fileName: 2018-01---vegane-pflege-von-bioturm.md
+type: Artikel
+typeName: Produkttest
+title: Vegane Pflege von Bioturm
+seoTitle: Vegane Pflege von Bioturm - All Time Favorites unter der Lupe
+ogTitle: Vegane Pflege von Bioturm - All Time Favorites unter der Lupe
 description: Heute möchte ich Euch mit Bioturm einen All Time Favourite
   vorstellen. Das habe ich mit einem interessanten Testbericht verbunden. Viele
   Spaß beim Duschen!
 excerpt: Werbung - Heute möchte ich Euch mit Bioturm einen All Time Favourite
   vorstellen. Das habe ich mit einem interessanten Testbericht verbunden. Viele
   Spaß beim Duschen!
-focusKeyword: Bioturm
+fileName: 2018-01---vegane-pflege-von-bioturm.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39880748521_fb07c3e1e3_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39880748521_fb07c3e1e3_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHAwb/xAAmEAACAQQABgEFAAAAAAAAAAABAgMABAURBhIhMUFhExQVIlGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAQL/xAAgEQABBAEEAwAAAAAAAAAAAAABAAIDETEEE1FxIUHw/9oADAMBAAIRAxEAPwCU8NxR2+ZsZ5iGjjmUsNA7UnR7+jVO4/xkcHCaj4bdJZJ0jLqgB6EnsB6qKRzuYjyEqxGgN+at/wByw/FkAt83eW1pJFFHcFjOPyZQA0fQbB2xOvVIa2J5ljlaCQM0ePOPaY08lMdHYF8j6lMVsYQSJOXf7phbYRGj5vkjA7966vibAcPYTAQ55Q01pPcLaKkU5kB2GJb0V5f72qay5VhNKIC6wliUD+F8U7DMJWh1EdikCSPbNEg9JFbsVO/NM8Zkpcffh0AYzbQHsVJO9iiitnCGMrfI5m5v4vp3Zlt43LLFzEqGOttrts6HWlL+9miirUK//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39880748521_fb07c3e1e3_z__l.jpg
 labels:
   - Bioturm
   - Bodylotion
@@ -26,17 +33,12 @@ labels:
   - vegan
   - vegan beauty
   - vegane Kosmetik
-type: Artikel
-typeName: Produkttest
-date: 2018-01-28T18:09:52.000Z
+focusKeyword: Bioturm
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "19169"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39880748521_fb07c3e1e3_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39880748521_fb07c3e1e3_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHAwb/xAAmEAACAQQABgEFAAAAAAAAAAABAgMABAURBhIhMUFhExQVIlGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAQL/xAAgEQABBAEEAwAAAAAAAAAAAAABAAIDETEEE1FxIUHw/9oADAMBAAIRAxEAPwCU8NxR2+ZsZ5iGjjmUsNA7UnR7+jVO4/xkcHCaj4bdJZJ0jLqgB6EnsB6qKRzuYjyEqxGgN+at/wByw/FkAt83eW1pJFFHcFjOPyZQA0fQbB2xOvVIa2J5ljlaCQM0ePOPaY08lMdHYF8j6lMVsYQSJOXf7phbYRGj5vkjA7966vibAcPYTAQ55Q01pPcLaKkU5kB2GJb0V5f72qay5VhNKIC6wliUD+F8U7DMJWh1EdikCSPbNEg9JFbsVO/NM8Zkpcffh0AYzbQHsVJO9iiitnCGMrfI5m5v4vp3Zlt43LLFzEqGOttrts6HWlL+9miirUK//9k=
 subTitle: All Time Beauty-Favourites unter der Lupe
   
 ---

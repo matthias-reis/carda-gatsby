@@ -1,16 +1,23 @@
 ---
-title: Howey Ou im Klimastreik
-seoTitle: Howey Ou im Klimastreik - 16-jährige Schülerin demonstriert in China
+date: 2019-05-29T09:33:36.000Z
 slug: howey-ou-klimastreik
 path: /2019/05/howey-ou-klimastreik/
-fileName: 2019-05---howey-ou-im-klimastreik.md
+type: Artikel
+typeName: Artikel
+title: Howey Ou im Klimastreik
+seoTitle: Howey Ou im Klimastreik - 16-jährige Schülerin demonstriert in China
+ogTitle: Howey Ou im Klimastreik - 16-jährige Schülerin demonstriert in China
 description: "Jetzt sorgt wieder ein Mädchen in der Klimaschutzbewegung für
   Aufmerksamkeit: Howey Ou geht im chinesischen Guilin ganz alleine auf die
   Straße."
 excerpt: "Jetzt sorgt wieder ein Mädchen in der Klimaschutzbewegung für
   Aufmerksamkeit: Howey Ou geht im chinesischen Guilin ganz alleine auf die
   Straße."
-focusKeyword: howey ou
+fileName: 2019-05---howey-ou-im-klimastreik.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_howey-ou__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_howey-ou__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQECCP/EAC8QAAEEAAQFAgMJAAAAAAAAAAECAwQRAAUSIQYTIjFhCEEHFHEVIzJRgZGxwdH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAdEQADAQABBQAAAAAAAAAAAAAAAQIRAxITISJB/9oADAMBAAIRAxEAPwDoSFw8wyI2tpk6VhQ6d7o7Hx4wkeoFLmV8IszIEh6M67KajK5KtNoKVkixvvQwiveoaWHl8jhRSm0i2z8y5eoggX93R7g7YTOL/itn3G0JOXZtlbEWGh1MhJaYWCFpsAaio3so+3thJu91htTmIq0ylNN2yAVKFUo1iNKVOebJVrSgizoTpvb8yR/GNYotYElLjTRTqQttSFE1tRGoaf174I+ZsuF1DkDMw2NXWt1pIoD3rUb79vGG7i+h9LH9PDU5JuLmiVpGwDrH+HFZPy2fC/F9nvd+lNJJ8UU/3gwYFFMxIyKTkPNkPQ4z7chykJYTzSmk2RVdvpffENeaQEMlUrLUo1dJQtjSd79iPr+484MGL5kuOnMmz7eWf//Z
+ogImage: null
 labels:
   - fridays for future
   - fridaysforfuture
@@ -19,18 +26,13 @@ labels:
   - Klima & Umweltschutz
   - Klimaaktivisten
   - Klimastreik
-type: Artikel
-typeName: Artikel
-date: 2019-05-29T09:33:36.000Z
+focusKeyword: howey ou
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <sub> (12:86)"
-thumbnailId: "24254"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_howey-ou__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_howey-ou__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQECCP/EAC8QAAEEAAQFAgMJAAAAAAAAAAECAwQRAAUSIQYTIjFhCEEHFHEVIzJRgZGxwdH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAdEQADAQABBQAAAAAAAAAAAAAAAQIRAxITISJB/9oADAMBAAIRAxEAPwDoSFw8wyI2tpk6VhQ6d7o7Hx4wkeoFLmV8IszIEh6M67KajK5KtNoKVkixvvQwiveoaWHl8jhRSm0i2z8y5eoggX93R7g7YTOL/itn3G0JOXZtlbEWGh1MhJaYWCFpsAaio3so+3thJu91htTmIq0ylNN2yAVKFUo1iNKVOebJVrSgizoTpvb8yR/GNYotYElLjTRTqQttSFE1tRGoaf174I+ZsuF1DkDMw2NXWt1pIoD3rUb79vGG7i+h9LH9PDU5JuLmiVpGwDrH+HFZPy2fC/F9nvd+lNJJ8UU/3gwYFFMxIyKTkPNkPQ4z7chykJYTzSmk2RVdvpffENeaQEMlUrLUo1dJQtjSd79iPr+484MGL5kuOnMmz7eWf//Z
 subTitle: 16-jährige Schülerin demonstriert in China
   
 ---

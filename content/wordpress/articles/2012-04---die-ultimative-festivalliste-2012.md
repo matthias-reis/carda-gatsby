@@ -1,14 +1,21 @@
 ---
-title: Die ultimative Festivalliste 2012
-seoTitle: Meine Festivalliste 2012 - das solltet Ihr dabei haben
+date: 2012-04-18T15:46:38.000Z
 slug: die-ultimative-festivalliste-2012
 path: /2012/04/die-ultimative-festivalliste-2012/
-fileName: 2012-04---die-ultimative-festivalliste-2012.md
+type: Artikel
+typeName: Artikel
+title: Die ultimative Festivalliste 2012
+seoTitle: Meine Festivalliste 2012 - das solltet Ihr dabei haben
+ogTitle: Meine Festivalliste 2012 - das solltet Ihr dabei haben
 description: Auf vielfache Anfrage hin, habe ich mich entschlossen, auch in
   diesem Jahr wieder meine allseits beliebte Festivalliste zu veröffentlichen.
 excerpt: Auf vielfache Anfrage hin, habe ich mich entschlossen, auch in diesem
   Jahr wieder meine allseits beliebte Festivalliste zu veröffentlichen.
-focusKeyword: ""
+fileName: 2012-04---die-ultimative-festivalliste-2012.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_04_p6210084__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_04_p6210084__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAQFBgcCAwj/xAApEAACAgEDAwIGAwAAAAAAAAABAgMRBAAGIQUSEyJhFBVBUXGBU7HR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAEAAv/EABsRAAICAwEAAAAAAAAAAAAAAAABBBECEjEy/9oADAMBAAIRAxEAPwCUL0Egh4Ssink9oAr9XpyxuhFlBDR/s1quX3DueNFOHnYMS9wI8+CGJFURfcP60im3zu+LJyMXPfp82A0TcpCqWLPpJN0SD+ONLU11QVw03Za8fS4/iPCrQSS/x+RSfv8AQ3pzOTmwBVlbwRKAqpbVX2A/3XOe48nce4emY8uQMWLASCVo4RKITGe5j3SdtBuBQ9qGml+p7jw9n4WDCsny3KkOZIcVXtSfSY2ItrFAiuBrnKVt6RsY2vGSGHNc0pdjxXqa9LoMoKBZNe2jRoA0zbJV0dWCsp5Ni7HvrS2Z2ilIX8caNGqRn//Z
+ogImage: null
 labels:
   - Bierdosen Festival
   - Festival
@@ -25,17 +32,12 @@ labels:
   - Southside-Festival
   - Sziget-Festival
   - Taubertal Festival
-type: Artikel
-typeName: Artikel
-date: 2012-04-18T15:46:38.000Z
+focusKeyword: ""
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "3000"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_04_p6210084__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_04_p6210084__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAQFBgcCAwj/xAApEAACAgEDAwIGAwAAAAAAAAABAgMRBAAGIQUSEyJhFBVBUXGBU7HR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAEAAv/EABsRAAICAwEAAAAAAAAAAAAAAAABBBECEjEy/9oADAMBAAIRAxEAPwCUL0Egh4Ssink9oAr9XpyxuhFlBDR/s1quX3DueNFOHnYMS9wI8+CGJFURfcP60im3zu+LJyMXPfp82A0TcpCqWLPpJN0SD+ONLU11QVw03Za8fS4/iPCrQSS/x+RSfv8AQ3pzOTmwBVlbwRKAqpbVX2A/3XOe48nce4emY8uQMWLASCVo4RKITGe5j3SdtBuBQ9qGml+p7jw9n4WDCsny3KkOZIcVXtSfSY2ItrFAiuBrnKVt6RsY2vGSGHNc0pdjxXqa9LoMoKBZNe2jRoA0zbJV0dWCsp5Ni7HvrS2Z2ilIX8caNGqRn//Z
 subTitle: Die Festivalsaison rückt wieder näher
   
 ---

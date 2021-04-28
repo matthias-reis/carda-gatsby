@@ -1,14 +1,21 @@
 ---
-title: Vorstellungsgespräch mit Hindernissen
-seoTitle: Vorstellungsgespräch mit Hindernissen - Eine Kurzgeschichte
+date: 2011-04-02T13:16:44.000Z
 slug: vorstellungsgesprach-mit-hindernissen
 path: /2011/04/vorstellungsgesprach-mit-hindernissen/
-fileName: 2011-04---vorstellungsgespraech-mit-hindernissen.md
+type: Artikel
+typeName: Kurzgeschichte
+title: Vorstellungsgespräch mit Hindernissen
+seoTitle: Vorstellungsgespräch mit Hindernissen - Eine Kurzgeschichte
+ogTitle: Vorstellungsgespräch mit Hindernissen - Eine Kurzgeschichte
 description: Ein Tag Ende Januar. Es ist kalt, aber es liegt kein Schnee mehr.
   Überall liegt Rollsplitt. Sie ist unterwegs zu einem Vorstellungsgespräch.
 excerpt: Ein Tag Ende Januar. Es ist kalt, aber es liegt kein Schnee mehr.
   Überall liegt Rollsplitt. Sie ist unterwegs zu einem Vorstellungsgespräch.
-focusKeyword: Vorstellungsgespräch
+fileName: 2011-04---vorstellungsgespraech-mit-hindernissen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_04_16282996591_cd8d21c6a1_o-e1582812580559__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_04_16282996591_cd8d21c6a1_o-e1582812580559__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACwQAAEDAwMCBQMFAAAAAAAAAAECAwQABhEFEiETMRQiQUJhFnGBMkNRcpH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQT/xAAcEQEAAgMAAwAAAAAAAAAAAAABAAIDERIhQVH/2gAMAwEAAhEDEQA/AIctbKJTghupdj7j017Bkj07052DbmqXHrKImnxlPulJyVowlkHguKOMJ+D/AJzWpa2i6RcctCdVkoTufcW6ttzphI6KNuEhI9+4cdsfk2uI9Bs2Ahu24UCK46gIdlqQtzrAHynOeTySc454q5MwGvc1WsngjZYdgaZajCHDiZqRHmkuDO34QPaPnuacQgJO4J+M4qD6jdFzywpKLkcjoUohPhmWEcAevBUM/fisFfgpMRH1Zq13ajKJUVCJM3N7c8cDtWbo+wHFazuzJlbuI0hKsAqJznGKsGiawDEDLyUutKGFIV2NFFPmNx7TP1u309MydIeBbP7TvKM98Z/Ug/bI/ik2VNeiOCNKcfhv58qHyHW1f1J7/g0UUVDp0yVWf//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2011_04_16282996591_cd8d21c6a1_o-e1582812580559__l.jpg
 labels:
   - Arbeit
   - Bahn
@@ -30,17 +37,12 @@ labels:
   - Winter
   - Zug
   - Zugfahrt
-type: Artikel
-typeName: Kurzgeschichte
-date: 2011-04-02T13:16:44.000Z
+focusKeyword: Vorstellungsgespräch
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "10646"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_04_16282996591_cd8d21c6a1_o-e1582812580559__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_04_16282996591_cd8d21c6a1_o-e1582812580559__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACwQAAEDAwMCBQMFAAAAAAAAAAECAwQABhEFEiETMRQiQUJhFnGBMkNRcpH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQT/xAAcEQEAAgMAAwAAAAAAAAAAAAABAAIDERIhQVH/2gAMAwEAAhEDEQA/AIctbKJTghupdj7j017Bkj07052DbmqXHrKImnxlPulJyVowlkHguKOMJ+D/AJzWpa2i6RcctCdVkoTufcW6ttzphI6KNuEhI9+4cdsfk2uI9Bs2Ahu24UCK46gIdlqQtzrAHynOeTySc454q5MwGvc1WsngjZYdgaZajCHDiZqRHmkuDO34QPaPnuacQgJO4J+M4qD6jdFzywpKLkcjoUohPhmWEcAevBUM/fisFfgpMRH1Zq13ajKJUVCJM3N7c8cDtWbo+wHFazuzJlbuI0hKsAqJznGKsGiawDEDLyUutKGFIV2NFFPmNx7TP1u309MydIeBbP7TvKM98Z/Ug/bI/ik2VNeiOCNKcfhv58qHyHW1f1J7/g0UUVDp0yVWf//Z
 subTitle: Eine kurze Geschichte aus dem Leben
   
 ---

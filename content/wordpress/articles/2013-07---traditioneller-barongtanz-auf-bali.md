@@ -1,14 +1,21 @@
 ---
-title: Traditioneller Barongtanz auf Bali
-seoTitle: Traditioneller Barontanz auf Bali - Meine Bildergalerie
+date: 2013-07-29T17:06:17.000Z
 slug: traditioneller-barongtanz-auf-bali
 path: /2013/07/traditioneller-barongtanz-auf-bali/
-fileName: 2013-07---traditioneller-barongtanz-auf-bali.md
+type: Artikel
+typeName: Artikel
+title: Traditioneller Barongtanz auf Bali
+seoTitle: Traditioneller Barontanz auf Bali - Meine Bildergalerie
+ogTitle: Traditioneller Barontanz auf Bali - Meine Bildergalerie
 description: Auf unserer großen Reise haben wir einen Einblick in den
   traditionellen balinesischen Barongtanz bekommen. Hier sind meine Eindrücke.
 excerpt: Nach einer Übernachtung in einem Hotel in Sanur brachen wir am Morgen
   zu unserer 4-tägigen Bali-Rundreise auf.
-focusKeyword: Barongtanz
+fileName: 2013-07---traditioneller-barongtanz-auf-bali.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_07_img_4634__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_07_img_4634__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBQMGCP/EACkQAAICAQQBAwQCAwAAAAAAAAECAwQRAAUGEiEHEzEUIkFRFmEycYH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQF/8QAIBEAAgICAQUBAAAAAAAAAAAAAQIAAxExQRIhI3HR8P/aAAwDAQACEQMRAD8AvuI8Xs/wiXfd2tSCOVhLUqRHzIpfr2Y/gnPgD9Z1Zz37wnsrTkgmMSlmabLiIAAMuTkZAbzgZGdbRyO2tpbvH9pl+nsUY6VeKV8EMWVpCvXIz9kag48/cdc7cm3KxxvnF7b79VYpoo1avaGZ1w2CrAZUsMEgeQykfJxqOyliQRqaNFysCH3nP7iO6bcZK99K1m5LDUsRl417qHlUthR38eB/z+xqTbZLlSnulZ47FOSEp9TGAO0qluyuAPDA+Dn5xpPcL3C9yffHhode1OOOSW2UZEklJKpmMliWUNgEv+P9DTB9HLkFz015Ltck0i2a25zOqStl+znsoyPnLLJpq62TLNqLeyHAUxWeqm+XK3qNNaX2ZGimDLHNH3j7ACPJX99fGdZvUqzNv3D+Nb7Z9mO40k0EvtxAB+jEAj9ePxo0aYjsrcycHYkWpyObhvE6NinD70917Mbv7jRkdCoB+35/y+D+hjV96TM8Ww2LCyP3syLJKQfLFVJ+f2SxOf70aNGweP39hrY9c//Z
+ogImage: null
 labels:
   - Bali
   - Bali Brauch
@@ -30,18 +37,13 @@ labels:
   - Rangda
   - Sadewa
   - Shiwa
-type: Artikel
-typeName: Artikel
-date: 2013-07-29T17:06:17.000Z
+focusKeyword: Barongtanz
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "6141"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_07_img_4634__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_07_img_4634__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBQMGCP/EACkQAAICAQQBAwQCAwAAAAAAAAECAwQRAAUGEiEHEzEUIkFRFmEycYH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQF/8QAIBEAAgICAQUBAAAAAAAAAAAAAQIAAxExQRIhI3HR8P/aAAwDAQACEQMRAD8AvuI8Xs/wiXfd2tSCOVhLUqRHzIpfr2Y/gnPgD9Z1Zz37wnsrTkgmMSlmabLiIAAMuTkZAbzgZGdbRyO2tpbvH9pl+nsUY6VeKV8EMWVpCvXIz9kag48/cdc7cm3KxxvnF7b79VYpoo1avaGZ1w2CrAZUsMEgeQykfJxqOyliQRqaNFysCH3nP7iO6bcZK99K1m5LDUsRl417qHlUthR38eB/z+xqTbZLlSnulZ47FOSEp9TGAO0qluyuAPDA+Dn5xpPcL3C9yffHhode1OOOSW2UZEklJKpmMliWUNgEv+P9DTB9HLkFz015Ltck0i2a25zOqStl+znsoyPnLLJpq62TLNqLeyHAUxWeqm+XK3qNNaX2ZGimDLHNH3j7ACPJX99fGdZvUqzNv3D+Nb7Z9mO40k0EvtxAB+jEAj9ePxo0aYjsrcycHYkWpyObhvE6NinD70917Mbv7jRkdCoB+35/y+D+hjV96TM8Ww2LCyP3syLJKQfLFVJ+f2SxOf70aNGweP39hrY9c//Z
 subTitle: Unsere große Reise - Teil II
   
 ---

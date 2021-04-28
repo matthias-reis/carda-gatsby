@@ -1,16 +1,23 @@
 ---
-title: Die Sehnsucht der Postmoderne
-seoTitle: Die Sehnsucht der Postmoderne - Neidische Romantik-Diebe
+date: 2017-02-17T18:25:12.000Z
 slug: die-sehnsucht-der-postmoderne
 path: /2017/02/die-sehnsucht-der-postmoderne/
-fileName: 2017-02---die-sehnsucht-der-postmoderne.md
+type: Artikel
+typeName: Gedicht
+title: Die Sehnsucht der Postmoderne
+seoTitle: Die Sehnsucht der Postmoderne - Neidische Romantik-Diebe
+ogTitle: Die Sehnsucht der Postmoderne - Neidische Romantik-Diebe
 description: Er war ein pathetische Romantiker. Romantisch und zugleich sehr
   modern. Sehnsucht ist nicht romantisch. Sie ist eine Droge. Wo am meisten
   geklaut wird.
 excerpt: Er war ein pathetische Romantiker. Romantisch und zugleich sehr modern.
   Sehnsucht ist nicht romantisch. Sie ist eine Droge. Wo am meisten geklaut
   wird.
-focusKeyword: Sehnsucht
+fileName: 2017-02---die-sehnsucht-der-postmoderne.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_32345149216_d190873cc5_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_32345149216_d190873cc5_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgME/8QAJxAAAgIBAgUEAwEAAAAAAAAAAQIDBBEABQYSITFREyJBYRUyQnH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAeEQACAgICAwAAAAAAAAAAAAABAgARAyEEMRKRwf/aAAwDAQACEQMRAD8AlvB0m3pJuKcRbbWY1pAoZn5Exg9Ps9jnx/uqZt1Thaejt12rU22xQmCpKyQ/qSXHTODnoPsEEaj8O01dy4lsCWWSN/RjlQpynP8AJ6EHwNOOyXpdj3iCC5Y/JU/QeaBLMSYhkjZWIAxjDLntjTRwNED1L8Uq7rjYd/Y7b5w/w1JIkVOqtQsMe9GV8nscMe37fH8nqNTPiegljaYa/pRQlnRPViQK+CckEjvql2JT6PEEliylg07TGI2+iLC7hoy3KAWAVx0+hpR4gjht8M1N0hWGF8l2SFuZDysRkePOO+nkRrtRWpDKQ1FRVRKqzz1pVdXVnxjmMYzjxrs3Ky85gecAlA4BjJQ+5cH58HRo1IAQL3c07DvliY36d1pbEFmNI5eaZuclMYbmOTn2j66az3W2kFOajUjkSIyNI7SSc5Yt1PwMdho0a0uwXxvU1jZuf//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_02_32345149216_d190873cc5_z__l.jpg
 labels:
   - Flarf
   - Flarf-Gedicht
@@ -25,17 +32,12 @@ labels:
   - Sehnsucht
   - Streetart
   - Suchmaschine
-type: Artikel
-typeName: Gedicht
-date: 2017-02-17T18:25:12.000Z
+focusKeyword: Sehnsucht
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "15907"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_32345149216_d190873cc5_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_32345149216_d190873cc5_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgME/8QAJxAAAgIBAgUEAwEAAAAAAAAAAQIDBBEABQYSITFREyJBYRUyQnH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAeEQACAgICAwAAAAAAAAAAAAABAgARAyEEMRKRwf/aAAwDAQACEQMRAD8AlvB0m3pJuKcRbbWY1pAoZn5Exg9Ps9jnx/uqZt1Thaejt12rU22xQmCpKyQ/qSXHTODnoPsEEaj8O01dy4lsCWWSN/RjlQpynP8AJ6EHwNOOyXpdj3iCC5Y/JU/QeaBLMSYhkjZWIAxjDLntjTRwNED1L8Uq7rjYd/Y7b5w/w1JIkVOqtQsMe9GV8nscMe37fH8nqNTPiegljaYa/pRQlnRPViQK+CckEjvql2JT6PEEliylg07TGI2+iLC7hoy3KAWAVx0+hpR4gjht8M1N0hWGF8l2SFuZDysRkePOO+nkRrtRWpDKQ1FRVRKqzz1pVdXVnxjmMYzjxrs3Ky85gecAlA4BjJQ+5cH58HRo1IAQL3c07DvliY36d1pbEFmNI5eaZuclMYbmOTn2j66az3W2kFOajUjkSIyNI7SSc5Yt1PwMdho0a0uwXxvU1jZuf//Z
 subTitle: Neidische Romantik-Diebe
   
 ---

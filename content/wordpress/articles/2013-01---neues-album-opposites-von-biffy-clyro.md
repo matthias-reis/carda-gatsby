@@ -1,13 +1,20 @@
 ---
-title: Neues Album "Opposites" von Biffy Clyro
-seoTitle: Biffy Clyro bringen neues Album raus
+date: 2013-01-26T16:11:55.000Z
 slug: melancholie-meets-gerechtes-brett-biffy-clyro-bringen-neues-album-auf-den-markt
 path: /2013/01/melancholie-meets-gerechtes-brett-biffy-clyro-bringen-neues-album-auf-den-markt/
-fileName: 2013-01---neues-album-opposites-von-biffy-clyro.md
+type: Artikel
+typeName: Review
+title: Neues Album "Opposites" von Biffy Clyro
+seoTitle: Biffy Clyro bringen neues Album raus
+ogTitle: Biffy Clyro bringen neues Album raus
 description: Biffy Clyro haben ihr neues Album rausgebracht - Ich habe schon mal reingehört
 excerpt: Das sehnsüchtige Warten hat endlich ein Ende. Gestern kam das neue
   Biffy Clyro Album "Opposites" auf den Markt.
-focusKeyword: Biffy Clyro
+fileName: 2013-01---neues-album-opposites-von-biffy-clyro.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_01_img_2996__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_01_img_2996__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcIBf/EACwQAAEDAgQFBAEFAAAAAAAAAAECAwQFEQAGEiEHExQiMRUWQVHSNFJxgbH/xAAZAQACAwEAAAAAAAAAAAAAAAAFBgABAgP/xAAfEQABBQEAAgMAAAAAAAAAAAABAAIDERIEITFRcYH/2gAMAwEAAhEDEQA/AO7mP1Pp6osVCpJHUvpQpElY0d5tYagMBaUxmFcsldZqy0WUq3WunwL/ALsOOMcKAqLIYhuyerVLUV6lJsANV7Ab2ucZ9qlIktPEtuK0/aVXGDcHRFG3IaDaCRRdHWNh+aJHq/R+wrlW4VaRTYzseo1NCynUsGa6NXn4v/HzgvR/X/d8Iu1eraBOjnSZjukjnIBBGq1rX2xIEtTAQzznx9oDiv8AL4v3B/L8SLlaHPqMiXzVVlthtCUhXcpKVpJKiNrpOOgnhYw6Cubm64XAtdo/FV++Sl3H2RS6JEakiNGRKUh6Sol4pU8QE7W87k/GIDy4UmEh2TNclvlCVKKaqBrXfuARsE+bAY5+fcvZkezRW0opdZltKnyFIUITxABdVYC6fHg7bb4OJytmO9/b1YPz+gd/HC5guF6TNBiJoBpNoC2EqSDzllJA3eQuyQLEnu28b40JwelRJdHeabjmY01NYcCkKNmiUL71ebgabW+yMZLbyzmG/dl+r/3Ad/HCnh7AzjTc10hMKPX6fHcnx+oDbMhpLiA6kEK0ixFifO1icQtIB8rc7Y3t00i1/9k=
+ogImage: null
 labels:
   - Bands
   - Bewertung
@@ -25,17 +32,12 @@ labels:
   - neues Biffy Clyro Album
   - Opposites
   - Opposites Biffy Clyro
-type: Artikel
-typeName: Review
-date: 2013-01-26T16:11:55.000Z
+focusKeyword: Biffy Clyro
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "4818"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_01_img_2996__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_01_img_2996__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcIBf/EACwQAAEDAgQFBAEFAAAAAAAAAAECAwQFEQAGEiEHExQiMRUWQVHSNFJxgbH/xAAZAQACAwEAAAAAAAAAAAAAAAAFBgABAgP/xAAfEQABBQEAAgMAAAAAAAAAAAABAAIDERIEITFRcYH/2gAMAwEAAhEDEQA/AO7mP1Pp6osVCpJHUvpQpElY0d5tYagMBaUxmFcsldZqy0WUq3WunwL/ALsOOMcKAqLIYhuyerVLUV6lJsANV7Ab2ucZ9qlIktPEtuK0/aVXGDcHRFG3IaDaCRRdHWNh+aJHq/R+wrlW4VaRTYzseo1NCynUsGa6NXn4v/HzgvR/X/d8Iu1eraBOjnSZjukjnIBBGq1rX2xIEtTAQzznx9oDiv8AL4v3B/L8SLlaHPqMiXzVVlthtCUhXcpKVpJKiNrpOOgnhYw6Cubm64XAtdo/FV++Sl3H2RS6JEakiNGRKUh6Sol4pU8QE7W87k/GIDy4UmEh2TNclvlCVKKaqBrXfuARsE+bAY5+fcvZkezRW0opdZltKnyFIUITxABdVYC6fHg7bb4OJytmO9/b1YPz+gd/HC5guF6TNBiJoBpNoC2EqSDzllJA3eQuyQLEnu28b40JwelRJdHeabjmY01NYcCkKNmiUL71ebgabW+yMZLbyzmG/dl+r/3Ad/HCnh7AzjTc10hMKPX6fHcnx+oDbMhpLiA6kEK0ixFifO1icQtIB8rc7Y3t00i1/9k=
 subTitle: Melancholie meets gerechtes Brett
   
 ---

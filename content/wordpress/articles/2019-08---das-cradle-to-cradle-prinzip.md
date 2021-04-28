@@ -1,14 +1,21 @@
 ---
-title: Das Cradle-to-Cradle-Prinzip
-seoTitle: Das Cradle-to-Cradle-Prinzip - "Die Natur kennt keinen Müll"
+date: 2019-08-07T09:45:18.000Z
 slug: cradle-to-cradle-prinzip
 path: /2019/08/cradle-to-cradle-prinzip/
-fileName: 2019-08---das-cradle-to-cradle-prinzip.md
+type: Artikel
+typeName: Artikel
+title: Das Cradle-to-Cradle-Prinzip
+seoTitle: Das Cradle-to-Cradle-Prinzip - "Die Natur kennt keinen Müll"
+ogTitle: Das Cradle-to-Cradle-Prinzip - "Die Natur kennt keinen Müll"
 description: Hinter dem Begriff "Cradle-to-Cradle" verbirgt sich die Philosophie
   der konsequenten Kreislaufwirtschaft. Ich habe mir das mal genauer angeschaut.
 excerpt: Hinter dem Begriff "Cradle-to-Cradle" verbirgt sich die Philosophie der
   konsequenten Kreislaufwirtschaft. Ich habe mir das mal genauer angeschaut.
-focusKeyword: Cradle-to-Cradle
+fileName: 2019-08---das-cradle-to-cradle-prinzip.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgDBQYE/8QAKhAAAgEDAwMCBgMAAAAAAAAAAQIDAAQRBRIxBhMhUXEHFDJBYYGRscH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwAB/8QAHBEAAgICAwAAAAAAAAAAAAAAAAECEQMSISJh/9oADAMBAAIRAxEAPwBdraJlVHiBdOWBX6SPet/0tpl5dHMFoioqM7ySrsjAAz5b1PjAqXpC20zswW+tRGwunbd3AomZUxz2yMA+Of3TFdKTaPFpVtDpGrStboNowEZnH5yP8qMsO67BpMWDU4Q1w0VyolliDOWjcDZ5P8D+6zeqbposohWMDc33/ftTRfELo/QupfntQtL0xXaQMcSkKmB6+Mfb15pfLmFHtBawKQyglgq7yVAzwBmjGGnooqikt766EhmuJ5J9y7yHPknjkea0Y6nvrY26WrtbqhKkQtt3ceSaKKtsxVycmodS6pfrGkt3M+GAXuyNJtHsTjP5xVNotxcWuowzwXEqT9piXDY5yDRRWR0//9k=
+ogImage: null
 labels:
   - C2C
   - Cradle to Cradle e. V.
@@ -20,17 +27,12 @@ labels:
   - Klimaschutz
   - Klimawandel
   - Nachhaltigkeit
-type: Artikel
-typeName: Artikel
-date: 2019-08-07T09:45:18.000Z
+focusKeyword: Cradle-to-Cradle
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "25706"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgDBQYE/8QAKhAAAgEDAwMCBgMAAAAAAAAAAQIDAAQRBRIxBhMhUXEHFDJBYYGRscH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwAB/8QAHBEAAgICAwAAAAAAAAAAAAAAAAECEQMSISJh/9oADAMBAAIRAxEAPwBdraJlVHiBdOWBX6SPet/0tpl5dHMFoioqM7ySrsjAAz5b1PjAqXpC20zswW+tRGwunbd3AomZUxz2yMA+Of3TFdKTaPFpVtDpGrStboNowEZnH5yP8qMsO67BpMWDU4Q1w0VyolliDOWjcDZ5P8D+6zeqbposohWMDc33/ftTRfELo/QupfntQtL0xXaQMcSkKmB6+Mfb15pfLmFHtBawKQyglgq7yVAzwBmjGGnooqikt766EhmuJ5J9y7yHPknjkea0Y6nvrY26WrtbqhKkQtt3ceSaKKtsxVycmodS6pfrGkt3M+GAXuyNJtHsTjP5xVNotxcWuowzwXEqT9piXDY5yDRRWR0//9k=
 subTitle: '"Die Natur kennt keinen Müll"'
   
 ---

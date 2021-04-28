@@ -1,15 +1,22 @@
 ---
-title: Long Distance Calling live in Hamburg
-seoTitle: Long Distance Calling @ Kulturkirche Altona - Post-Rock im Gotteshaus
+date: 2019-04-17T10:30:00.000Z
 slug: long-distance-calling-kulturkirche-altona
 path: /2019/04/long-distance-calling-kulturkirche-altona/
-fileName: 2019-04---long-distance-calling-live-in-hamburg.md
+type: Artikel
+typeName: Konzertbericht
+title: Long Distance Calling live in Hamburg
+seoTitle: Long Distance Calling @ Kulturkirche Altona - Post-Rock im Gotteshaus
+ogTitle: Long Distance Calling @ Kulturkirche Altona - Post-Rock im Gotteshaus
 description: Long Distance Calling haben am 6. April in der Kulturkirche Altona
   zum 10. Geburtstag von "Avoid The Light" eine DVD aufgenommen. Wir waren
   dabei.
 excerpt: Long Distance Calling haben am 6. April in der Kulturkirche Altona zum
   10. Geburtstag von "Avoid The Light" eine DVD aufgenommen. Wir waren dabei.
-focusKeyword: Long Distance Calling
+fileName: 2019-04---long-distance-calling-live-in-hamburg.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAMBAAAgEDAQYEAwkAAAAAAAAAAQIDBAURAAYSEyFBURQycZEHFaEiMUNSYWKBgsH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgQDBf/EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMRBCES/9oADAMBAAIRAxEAPwDnlYSyboYc8HWw2St7XC6wZXKxxMxz0ULz/wA1SPHuwrCAvlAU55Z00/hpbkTZ+7VbRnjyLHQxDHMu5ywH9VPvqRrCBs5vV2rQv20r7ZaxBsrWV4gU1VylFFRLj7WF6j31F21tcdiWl2dp8PWhQaplP4h5kHTXt1TSUMvi5ESSg2bh8JRIRylqjzd/QNvEnsF76VW3s4s8E9RMeJfbrmRmZsmmhbnz/e/0XHfWivvkoq6Fc4D7FLT3QrV8STeZD5kH5eoHbPP31pYttpUtzUW/PwvECSLdbHCHVh3Y4A/TB76NGmNamF3LVb642SE+INw+Wz0gRODIS5TOSzkklj6kkn+NUm0l7N1qzKYzxCfMCct6g9fu+ujRoCAHRFq46a3+0GGf/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_04_long-distance-calling-hamburg-kulturkirche-altona.png__l.jpg
 labels:
   - Aaron Schrade
   - Altona
@@ -24,17 +31,12 @@ labels:
   - Musik
   - Post-Rock
   - Postrock
-type: Artikel
-typeName: Konzertbericht
-date: 2019-04-17T10:30:00.000Z
+focusKeyword: Long Distance Calling
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "23961"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAMBAAAgEDAQYEAwkAAAAAAAAAAQIDBAURAAYSEyFBURQycZEHFaEiMUNSYWKBgsH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgQDBf/EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMRBCES/9oADAMBAAIRAxEAPwDnlYSyboYc8HWw2St7XC6wZXKxxMxz0ULz/wA1SPHuwrCAvlAU55Z00/hpbkTZ+7VbRnjyLHQxDHMu5ywH9VPvqRrCBs5vV2rQv20r7ZaxBsrWV4gU1VylFFRLj7WF6j31F21tcdiWl2dp8PWhQaplP4h5kHTXt1TSUMvi5ESSg2bh8JRIRylqjzd/QNvEnsF76VW3s4s8E9RMeJfbrmRmZsmmhbnz/e/0XHfWivvkoq6Fc4D7FLT3QrV8STeZD5kH5eoHbPP31pYttpUtzUW/PwvECSLdbHCHVh3Y4A/TB76NGmNamF3LVb642SE+INw+Wz0gRODIS5TOSzkklj6kkn+NUm0l7N1qzKYzxCfMCct6g9fu+ujRoCAHRFq46a3+0GGf/9k=
 subTitle: Post-Rock in der Kulturkirche Altona
   
 ---

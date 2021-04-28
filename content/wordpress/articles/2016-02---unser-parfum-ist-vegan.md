@@ -1,32 +1,34 @@
 ---
-title: '"Unser Parfum ist vegan"'
-seoTitle: '"Unser Parfum ist vegan" - XAXX bietet 24 vegane Düfte an'
+date: 2016-02-04T16:11:30.000Z
 slug: unser-parfum-ist-vegan
 path: /2016/02/unser-parfum-ist-vegan/
-fileName: 2016-02---unser-parfum-ist-vegan.md
+type: Artikel
+typeName: Artikel
+title: '"Unser Parfum ist vegan"'
+seoTitle: '"Unser Parfum ist vegan" - XAXX bietet 24 vegane Düfte an'
+ogTitle: '"Unser Parfum ist vegan" - XAXX bietet 24 vegane Düfte an'
 description: Gestern gab der Geschäftsführer von XAXX bekannt, dass ab sofort
   alle 24 Düfte der Parfum-Manufaktur als zu 100 Prozent vegan gekennzeichnet
   sind.
 excerpt: Werbung & Affiliate Link - Gestern gab der Geschäftsführer von XAXX
   bekannt, dass ab sofort alle 24 Düfte der Parfum-Manufaktur als zu 100 Prozent
   vegan gekennzeichnet sind.
-focusKeyword: Parfum
+fileName: 2016-02---unser-parfum-ist-vegan.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_unser-parfum-ist-vegan__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_unser-parfum-ist-vegan__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQIAwUH/8QALBAAAgEEAQIFAQkAAAAAAAAAAQIDAAQFERIGMQcTIVFhQQgVIiMycYGh0f/EABcBAQEBAQAAAAAAAAAAAAAAAAEDAAL/xAAaEQEAAgMBAAAAAAAAAAAAAAABABECAzES/9oADAMBAAIRAxEAPwCi0lCqed5KzAdtt8/5TNnk45Mq+MDEzxW0dySwPqrs6j+0NFxxliZH0QQR60umGgSXzVtoeZUAsHfeu/v8mhamkFW/W3Vks0Al6izUcLOod/vGUaUkbP6j71Zvgznpcj0XhLS4u2vb9Malw88kvnNIpkkQEvocj+X3qJ/CiNG8RelFk4+W2SgDcu2uf1q74MTGkYkKRySFeJl5vsjf7+5NT2bfCFdiFzdy2UyIzpIZGA2E7cvisUZyaSfjHOMD0URKGP8APLVFFUQewk84L7NGRw2WssgvUdlO1nIJljFiy8iPUDfOu9W1rlIwgmKsqjZSOIDZ+uiW7b+KKK5z14516ORGp//Z
+ogImage: null
 labels:
   - Fair Fashion & Beauty
   - Parfum
   - veganes Parfum
   - XAXX
-type: Artikel
-typeName: Artikel
-date: 2016-02-04T16:11:30.000Z
+focusKeyword: Parfum
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "28943"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_unser-parfum-ist-vegan__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_unser-parfum-ist-vegan__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQIAwUH/8QALBAAAgEEAQIFAQkAAAAAAAAAAQIDAAQFERIGMQcTIVFhQQgVIiMycYGh0f/EABcBAQEBAQAAAAAAAAAAAAAAAAEDAAL/xAAaEQEAAgMBAAAAAAAAAAAAAAABABECAzES/9oADAMBAAIRAxEAPwCi0lCqed5KzAdtt8/5TNnk45Mq+MDEzxW0dySwPqrs6j+0NFxxliZH0QQR60umGgSXzVtoeZUAsHfeu/v8mhamkFW/W3Vks0Al6izUcLOod/vGUaUkbP6j71Zvgznpcj0XhLS4u2vb9Malw88kvnNIpkkQEvocj+X3qJ/CiNG8RelFk4+W2SgDcu2uf1q74MTGkYkKRySFeJl5vsjf7+5NT2bfCFdiFzdy2UyIzpIZGA2E7cvisUZyaSfjHOMD0URKGP8APLVFFUQewk84L7NGRw2WssgvUdlO1nIJljFiy8iPUDfOu9W1rlIwgmKsqjZSOIDZ+uiW7b+KKK5z14516ORGp//Z
 subTitle: XAXX bietet 24 vegane Düfte an
   
 ---

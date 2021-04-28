@@ -1,16 +1,23 @@
 ---
-title: Das Leben im Sommer
-seoTitle: Kernzeitverkürzung - das Leben im Sommer ist schön
+date: 2012-08-20T10:00:34.000Z
 slug: kernzeitverkuerzung-das-leben-im-sommer
 path: /2012/08/kernzeitverkuerzung-das-leben-im-sommer/
-fileName: 2012-08---das-leben-im-sommer.md
+type: Artikel
+typeName: Artikel
+title: Das Leben im Sommer
+seoTitle: Kernzeitverkürzung - das Leben im Sommer ist schön
+ogTitle: Kernzeitverkürzung - das Leben im Sommer ist schön
 description: '"Kernzeitverkürzung". Das bedeutet so viel wie "Hitzefrei" und
   schreit nach einem Picknick am See. Im Büro wird es im Winter sicher wieder
   kühl genug sein. Der Kaffee ist heute irgendwie zu warm.'
 excerpt: '"Kernzeitverkürzung". Das bedeutet so viel wie "Hitzefrei" und schreit
   nach einem Picknick am See. Im Büro wird es im Winter sicher wieder kühl genug
   sein. Der Kaffee ist heute irgendwie zu warm.'
-focusKeyword: Kernzeitverkürzung
+fileName: 2012-08---das-leben-im-sommer.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_255337_448938665128268_1765079901_n-foto-auf-sandstein1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_255337_448938665128268_1765079901_n-foto-auf-sandstein1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAwUG/8QAMBAAAQMCAwUECwAAAAAAAAAAAQIDEQAEBRIhBhMiMUEUFRahJEJSYYGSsbLB0dL/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAQL/xAAcEQACAgIDAAAAAAAAAAAAAAAAEQEhAhMDBDH/2gAMAwEAAhEDEQA/AN9OP4qE6t25jSShQ/NR4ixM8kWszEZVfutxT+HpAItrlwknhlMDyFKud3upOZu+bMweBBAB+MmlbkE0M5+w2wv8QFybcW3o9w5bLlBHGgwY11Hvq5W0GLHpa/If6pzA8G2cwy1eZsXbpthT7jp3jG8UFKOuoPLQedM9gwxxOZF9ZlXsLbWk/bUx53HpcuvdCbbxTlUUpVHqkmPrRvSNRmE9M3KiijwKKLRxRSYUoSs9dedWrQVTxa0UVlqKNJyf/9k=
+ogImage: null
 labels:
   - abräumen
   - Blog
@@ -49,17 +56,12 @@ labels:
   - Verlosung
   - weezer island in the sun
   - Wetter
-type: Artikel
-typeName: Artikel
-date: 2012-08-20T10:00:34.000Z
+focusKeyword: Kernzeitverkürzung
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "4030"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_255337_448938665128268_1765079901_n-foto-auf-sandstein1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_255337_448938665128268_1765079901_n-foto-auf-sandstein1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAwUG/8QAMBAAAQMCAwUECwAAAAAAAAAAAQIDEQAEBRIhBhMiMUEUFRahJEJSYYGSsbLB0dL/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAQL/xAAcEQACAgIDAAAAAAAAAAAAAAAAEQEhAhMDBDH/2gAMAwEAAhEDEQA/AN9OP4qE6t25jSShQ/NR4ixM8kWszEZVfutxT+HpAItrlwknhlMDyFKud3upOZu+bMweBBAB+MmlbkE0M5+w2wv8QFybcW3o9w5bLlBHGgwY11Hvq5W0GLHpa/If6pzA8G2cwy1eZsXbpthT7jp3jG8UFKOuoPLQedM9gwxxOZF9ZlXsLbWk/bUx53HpcuvdCbbxTlUUpVHqkmPrRvSNRmE9M3KiijwKKLRxRSYUoSs9dedWrQVTxa0UVlqKNJyf/9k=
 subTitle: "<strong>Oder: Strände lassen sich nicht in Schubladen einordnen.</strong>"
   
 ---

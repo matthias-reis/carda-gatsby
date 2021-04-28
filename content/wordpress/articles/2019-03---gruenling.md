@@ -1,16 +1,23 @@
 ---
-title: Grünling
-seoTitle: Grünling - frischer Smoothie mit Twist - mein Rezept für Dich
+date: 2019-03-07T16:49:09.000Z
 slug: smoothie-gruenling
 path: /2019/03/smoothie-gruenling/
-fileName: 2019-03---gruenling.md
+type: Artikel
+typeName: Rezept
+title: Grünling
+seoTitle: Grünling - frischer Smoothie mit Twist - mein Rezept für Dich
+ogTitle: Grünling - frischer Smoothie mit Twist - mein Rezept für Dich
 description: Lust auf einen Smoothie? So eine leckere Vitaminbombe passt doch
   eigentlich immer gut, oder? Magst Du Kiwis? Super! Hier kommt mein Rezept für
   Dich!
 excerpt: Lust auf einen Smoothie? So eine leckere Vitaminbombe passt doch
   eigentlich immer gut, oder? Du hast auch gerade ein paar überreife Kiwis in
   der Küche liegen? Super! Dann mal ran an den Mixer!
-focusKeyword: Smoothie
+fileName: 2019-03---gruenling.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-smoothie-gruenling__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-smoothie-gruenling__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACBv/EACkQAAIBAwMDBAEFAAAAAAAAAAECAwAEEQUSIRMxQRQiUWEyQlJxgbL/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAwQREiIx8CFBof/aAAwDAQACEQMRAD8A7u9JnguLq2aO3t7J+iIChAywBL5H6ue/PYUdZxyXDAzyhysmxY29xZduSCT2GOcnt4rdveQXWiol0ZVCmJzLbgb22cDcDw2O3ziizcQW5MUer9RSQHD27BnOMAE5wO/epRat2U78wZ6kg/U0+qzRMwsbV5IYA7BiQjFcqdxYkAfXfOfHaq4Fvr2sJdROYJpIYzKsi7WLcjK/uzxyKLu9b9JcBYYjKIbf1TCT8Qwwsft8nc2ceM/QqtrdhYo1wnUmcid2k53SFMj/AEg/s00+KtiFR8e+/sNi5Bqs5AbisQFsWMMgHyjHj7o7VLGaaKUxWszbl9vTwyk+c1VVJZQTqULsWuzufMNtNE1SaO7fU12pJCItodRMyhw2M/wCMn5pi/nJ1KKJElWNEyQkZcrljtAA8kBcZ4G3PiqqnqLnZWVjvQmGx0r4lZ//2Q==
+ogImage: null
 labels:
   - Grüner Smoothie
   - Smoothie
@@ -20,17 +27,12 @@ labels:
   - vegan
   - Vegane Rezepte
   - veganer Smoothie
-type: Artikel
-typeName: Rezept
-date: 2019-03-07T16:49:09.000Z
+focusKeyword: Smoothie
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "23741"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-smoothie-gruenling__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-smoothie-gruenling__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACBv/EACkQAAIBAwMDBAEFAAAAAAAAAAECAwAEEQUSIRMxQRQiUWEyQlJxgbL/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAwQREiIx8CFBof/aAAwDAQACEQMRAD8A7u9JnguLq2aO3t7J+iIChAywBL5H6ue/PYUdZxyXDAzyhysmxY29xZduSCT2GOcnt4rdveQXWiol0ZVCmJzLbgb22cDcDw2O3ziizcQW5MUer9RSQHD27BnOMAE5wO/epRat2U78wZ6kg/U0+qzRMwsbV5IYA7BiQjFcqdxYkAfXfOfHaq4Fvr2sJdROYJpIYzKsi7WLcjK/uzxyKLu9b9JcBYYjKIbf1TCT8Qwwsft8nc2ceM/QqtrdhYo1wnUmcid2k53SFMj/AEg/s00+KtiFR8e+/sNi5Bqs5AbisQFsWMMgHyjHj7o7VLGaaKUxWszbl9vTwyk+c1VVJZQTqULsWuzufMNtNE1SaO7fU12pJCItodRMyhw2M/wCMn5pi/nJ1KKJElWNEyQkZcrljtAA8kBcZ4G3PiqqnqLnZWVjvQmGx0r4lZ//2Q==
 subTitle: Smoothie mit Twist
   
 ---

@@ -1,15 +1,22 @@
 ---
-title: Matthias Oomen von Bündnis 90 / Die Grünen
-seoTitle: Interview mit Matthias Oomen von Bündnis 90 / Die Grünen
+date: 2015-03-29T15:05:37.000Z
 slug: matthias-oomen-buendnis-90-die-gruenen-interview
 path: /2015/03/matthias-oomen-buendnis-90-die-gruenen-interview/
-fileName: 2015-03---matthias-oomen-von-buendnis-90-die-gruenen.md
+type: Artikel
+typeName: Interview
+title: Matthias Oomen von Bündnis 90 / Die Grünen
+seoTitle: Interview mit Matthias Oomen von Bündnis 90 / Die Grünen
+ogTitle: Interview mit Matthias Oomen von Bündnis 90 / Die Grünen
 description: Ich habe mich mit Matthias Oomen von Bündnis 90 / Die Grünen
   darüber unterhalten, warum es derzeit in deutschen Städten immer mehr
   Obdachlose gibt.
 excerpt: Ich habe mich mit Matthias Oomen von Bündnis 90 / Die Grünen darüber
   unterhalten, warum es derzeit in deutschen Städten immer mehr Obdachlose gibt.
-focusKeyword: Matthias Oomen
+fileName: 2015-03---matthias-oomen-von-buendnis-90-die-gruenen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_14235215002_e11b7d247f_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_14235215002_e11b7d247f_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAYF/8QAJBAAAgICAgICAwEBAAAAAAAAAQIDBAURACEGEkFRExQxB1L/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AbYg8dr1zavSokSMAzsSvZOhv1XlLM+Y4PHYt1wT057TnSLGz9fPsxKb11r+/PFzm/OshkcRLjs1jY2aNRaaT9ZoA6xhmIVixGzrR66B650/CYfGPI72PqymWvalDTTwPNr0jkQNCFcrpvkfex/OAwKfl3i8sP7c1qGvYKlikweQofrtdE8vX7EjwkJJYWF0B9oVRAdga64qM/D41jKddfeWe1O81QxwzruGYylYmca6HoGOj/euTj/0bK2KzHGVaSV6EQgmhap7aKoOw3sN/H8631wFdg5Dcv38NJGgaGt+1CxYyGRGQD8RYD52QT1vY+uahKGcfFLcx0NmpIjhBjotJ7LpV2GA6Gvr/AJHXDhwKWax+fisfgq1xNWjhS0LNiBnnax/Sux9EkD75nLtnPx0rDS454wwKSB2ddx7C9AdEneyD8Dhw4H//2Q==
+ogImage: null
 labels:
   - Antifaschismus & Feminismus
   - Armut
@@ -25,17 +32,12 @@ labels:
   - Obdachlosigkeit in Berlin
   - Politik
   - politisches
-type: Artikel
-typeName: Interview
-date: 2015-03-29T15:05:37.000Z
+focusKeyword: Matthias Oomen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "10846"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_14235215002_e11b7d247f_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_14235215002_e11b7d247f_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAYF/8QAJBAAAgICAgICAwEBAAAAAAAAAQIDBAURACEGEkFRExQxB1L/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AbYg8dr1zavSokSMAzsSvZOhv1XlLM+Y4PHYt1wT057TnSLGz9fPsxKb11r+/PFzm/OshkcRLjs1jY2aNRaaT9ZoA6xhmIVixGzrR66B650/CYfGPI72PqymWvalDTTwPNr0jkQNCFcrpvkfex/OAwKfl3i8sP7c1qGvYKlikweQofrtdE8vX7EjwkJJYWF0B9oVRAdga64qM/D41jKddfeWe1O81QxwzruGYylYmca6HoGOj/euTj/0bK2KzHGVaSV6EQgmhap7aKoOw3sN/H8631wFdg5Dcv38NJGgaGt+1CxYyGRGQD8RYD52QT1vY+uahKGcfFLcx0NmpIjhBjotJ7LpV2GA6Gvr/AJHXDhwKWax+fisfgq1xNWjhS0LNiBnnax/Sux9EkD75nLtnPx0rDS454wwKSB2ddx7C9AdEneyD8Dhw4H//2Q==
 subTitle: '"Obdachlose wie Menschen behandeln!"'
   
 ---

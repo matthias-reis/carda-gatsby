@@ -1,16 +1,23 @@
 ---
-title: Ode an den Kater
-seoTitle: Ode an den Kater - Eine Kurzgeschichte zum Thema Katzenliebe
+date: 2012-08-30T08:55:11.000Z
 slug: ode-an-den-kater
 path: /2012/08/ode-an-den-kater/
-fileName: 2012-08---ode-an-den-kater.md
+type: Artikel
+typeName: Kurzgeschichte
+title: Ode an den Kater
+seoTitle: Ode an den Kater - Eine Kurzgeschichte zum Thema Katzenliebe
+ogTitle: Ode an den Kater - Eine Kurzgeschichte zum Thema Katzenliebe
 description: Kater - Du freust Dich jedes Mal, wenn jemand die Tür aufschließt.
   Du drehst Deine Runden um die Hosenbeine, bis diese ganz grau sind von Deinem
   Fell.
 excerpt: Kater - Du freust Dich jedes Mal, wenn jemand die Tür aufschließt. Du
   drehst Deine Runden um die Hosenbeine, bis diese ganz grau sind von Deinem
   Fell.
-focusKeyword: Kater
+fileName: 2012-08---ode-an-den-kater.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_cat2-kc3b6rnung-und-aufhellung-horzgerahmt__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_cat2-kc3b6rnung-und-aufhellung-horzgerahmt__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYBBAcI/8QAJxAAAgICAQQCAQUBAAAAAAAAAQIDBQQRBgAHEiETMSIUFRYyYUH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIRAyH/2gAMAwEAAhEDEQA/AE67uecZ3dK2q6a9vmklucmDExksZlQ6mcAa8tKgGvf0AOqnPbLmnGJf0r8vvZB8QkSRbGZS2yVYEFyRpkYD39aPreuuhuOdva7A7hX17FnWLWDHIeJneMjHMknkxQeH+ke9+j0D7qdp6O9u47HIy7OCeeACRYJIwh8T6IBQ6+/+aHU9PcCJzyurEWjz7zlONY4ldzPNNhAiyp8drMjS+UeyiKzL+QbQZSQRrY8upxaXmVDacVzbLn1lM89riQ5NbLnZPkoeVdD2xVgy72rBTo/RHWl1HEv2atxqqru7XFw3HyajXHDKwJ/IH4thvX9vv/ehKds6v+Q1WXJYWs08NhDk+UrxMXdXUjZMe/sDetdZ+Zbd2PdoKBP/2Q==
+ogImage: null
 labels:
   - Blog
   - Blumenerde
@@ -42,17 +49,12 @@ labels:
   - teppich
   - Tiere
   - Tiffany
-type: Artikel
-typeName: Kurzgeschichte
-date: 2012-08-30T08:55:11.000Z
+focusKeyword: Kater
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "4116"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_cat2-kc3b6rnung-und-aufhellung-horzgerahmt__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_cat2-kc3b6rnung-und-aufhellung-horzgerahmt__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYBBAcI/8QAJxAAAgICAQQCAQUBAAAAAAAAAQIDBQQRBgAHEiETMSIUFRYyYUH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIRAyH/2gAMAwEAAhEDEQA/AE67uecZ3dK2q6a9vmklucmDExksZlQ6mcAa8tKgGvf0AOqnPbLmnGJf0r8vvZB8QkSRbGZS2yVYEFyRpkYD39aPreuuhuOdva7A7hX17FnWLWDHIeJneMjHMknkxQeH+ke9+j0D7qdp6O9u47HIy7OCeeACRYJIwh8T6IBQ6+/+aHU9PcCJzyurEWjz7zlONY4ldzPNNhAiyp8drMjS+UeyiKzL+QbQZSQRrY8upxaXmVDacVzbLn1lM89riQ5NbLnZPkoeVdD2xVgy72rBTo/RHWl1HEv2atxqqru7XFw3HyajXHDKwJ/IH4thvX9vv/ehKds6v+Q1WXJYWs08NhDk+UrxMXdXUjZMe/sDetdZ+Zbd2PdoKBP/2Q==
 subTitle: Geschichte zum Thema Katzenliebe
   
 ---

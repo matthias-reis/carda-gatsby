@@ -1,16 +1,23 @@
 ---
-title: Gran Canaria - der Süden
-seoTitle: Gran Canaria - der Süden - Mit dem Boot von Bucht zu Bucht
+date: 2017-07-27T11:27:40.000Z
 slug: gran-canaria-der-sueden
 path: /2017/07/gran-canaria-der-sueden/
-fileName: 2017-07---gran-canaria-der-sueden.md
+type: Galerie
+typeName: Galerie
+title: Gran Canaria - der Süden
+seoTitle: Gran Canaria - der Süden - Mit dem Boot von Bucht zu Bucht
+ogTitle: Gran Canaria - der Süden - Mit dem Boot von Bucht zu Bucht
 description: Gran Canaria ist spannend und vielfältig. Wir haben mit dem Boot
   den Süden erkundet und dabei von Arguineguín bis Puerto de Mogan so einiges
   entdeckt.
 excerpt: Gran Canaria ist spannend und vielfältig. Wir haben mit dem Boot den
   Süden erkundet und dabei von Arguineguín bis Puerto de Mogan so einiges
   entdeckt.
-focusKeyword: Gran Canaria
+fileName: 2017-07---gran-canaria-der-sueden.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35393139313_ae535773b8_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35393139313_ae535773b8_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwcG/8QAKhAAAQMDAwIGAgMAAAAAAAAAAQIDBAAFIQYREhMxIjJBUWGhB0KBkdH/xAAYAQACAwAAAAAAAAAAAAAAAAAFBgECA//EAB0RAAEEAwEBAAAAAAAAAAAAAAEAAgMRBBIhMUH/2gAMAwEAAhEDEQA/AM+RZFnPD6q0WNe/k+qYRdUvqQCmBFIPwv8A2rXtUPBHER4LSifMCSf6JNMu4HxLnSfVEPR8yUypxlhStiBx4nP80+smlJ8BaHFzI8QKO6kEFavjAx90tb1ZLcjFKVpQvsVN7gnFJVzJUhtxt+7z1cjuSXNiPgUOlmkdYpEoY4xRtRZtDaivCWCsIgxCArrTnCCsnuUoyoj0GAMV0SNB2qA2Bdbup1bfFKksp6Y6hV4UgHcq5Hvj2Aoooa7Mlc4sugFeOBm3QrtQfjB6O26bFcRJ3X4W5KumpIz+wwfb09Kza5G6WRx2NdY8iO834wHUghScA7HbYjtkGiipxcl8hLX9WZaB0L//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35393139313_ae535773b8_z__l.jpg
 labels:
   - Arguineguín
   - Fernweh
@@ -23,17 +30,12 @@ labels:
   - Reisen
   - Spanien
   - travelling
-type: Galerie
-typeName: Galerie
-date: 2017-07-27T11:27:40.000Z
+focusKeyword: Gran Canaria
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "17237"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35393139313_ae535773b8_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35393139313_ae535773b8_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwcG/8QAKhAAAQMDAwIGAgMAAAAAAAAAAQIDBAAFIQYREhMxIjJBUWGhB0KBkdH/xAAYAQACAwAAAAAAAAAAAAAAAAAFBgECA//EAB0RAAEEAwEBAAAAAAAAAAAAAAEAAgMRBBIhMUH/2gAMAwEAAhEDEQA/AM+RZFnPD6q0WNe/k+qYRdUvqQCmBFIPwv8A2rXtUPBHER4LSifMCSf6JNMu4HxLnSfVEPR8yUypxlhStiBx4nP80+smlJ8BaHFzI8QKO6kEFavjAx90tb1ZLcjFKVpQvsVN7gnFJVzJUhtxt+7z1cjuSXNiPgUOlmkdYpEoY4xRtRZtDaivCWCsIgxCArrTnCCsnuUoyoj0GAMV0SNB2qA2Bdbup1bfFKksp6Y6hV4UgHcq5Hvj2Aoooa7Mlc4sugFeOBm3QrtQfjB6O26bFcRJ3X4W5KumpIz+wwfb09Kza5G6WRx2NdY8iO834wHUghScA7HbYjtkGiipxcl8hLX9WZaB0L//2Q==
 subTitle: Mit dem Boot von Bucht zu Bucht
   
 ---

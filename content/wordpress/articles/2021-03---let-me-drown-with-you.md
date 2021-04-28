@@ -1,15 +1,22 @@
 ---
-title: '"Let Me Drown With You"'
-seoTitle: Rise to the Sky - das neue Album "Let Me Drown With You"
+date: 2021-03-15T15:18:21.000Z
 slug: rise-to-the-sky-let-me-drown-with-you
 path: /2021/03/rise-to-the-sky-let-me-drown-with-you/
-fileName: 2021-03---let-me-drown-with-you.md
+type: Artikel
+typeName: Review
+title: '"Let Me Drown With You"'
+seoTitle: Rise to the Sky - das neue Album "Let Me Drown With You"
+ogTitle: Rise to the Sky - das neue Album "Let Me Drown With You"
 description: Rise to the Sky steht für starken Doom Metal mit Gefühl. Mit "Let
   Me Drown With You" bringt Sergio die Trauer um seinen Vater zum Ausdruck.
 excerpt: English & German – Rise to the Sky steht für starken Doom Metal mit
   Gefühl. Mit "Let Me Drown With You" bringt Sergio die Trauer um seinen
   plötzlich verstorbenen Vater zum Ausdruck.
-focusKeyword: Rise to the Sky
+fileName: 2021-03---let-me-drown-with-you.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_rise-to-the-sky-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_rise-to-the-sky-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBwgJ/8QAKRAAAQMDAgYCAgMAAAAAAAAAAQIDBAAFEQYhEhMUIjFBB1EIY3GB8f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBr8UEp3agxozS/IZGKn3R+8RPmq3wnLjKhw34rC4DCXUoakqK8O8xJSSs+sbesGkjGoF6e0Qpy0JDl7ljpre0EFRU+rYHABzjOfonhHus+IuGo4F4uZVcX0XjLrEt9boU8COJK0pcOSCe4HhO+aDosIjKh3IGxyMjelN/tkdcZTnKClAfVUL+OGrNay9N3GzxYbt1WzJSI864vnkQ0FPclasla9wkpbSPZyUirZ03pS+Wy4ybpqnV068vq4g0w2OnjNpP6gcE/yT4oMpI1HKYhWiXbnJLUuNJKUvxyCtpKkbqAIIO4Sf8AaWaQtt0692W3GgTpK1uE9dk87i9n6O5P90UUGxdGssWu0R3OTBhLcjtcbMVAQhBCB2g+SB4BPqpF21E0WH20uJJAx4znaiig/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_rise-to-the-sky-fb.png__l.jpg
 labels:
   - Atmospheric
   - Bands
@@ -20,17 +27,12 @@ labels:
   - Metal
   - Review
   - Rise to the Sky
-type: Artikel
-typeName: Review
-date: 2021-03-15T15:18:21.000Z
+focusKeyword: Rise to the Sky
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33432"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_rise-to-the-sky-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_rise-to-the-sky-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBwgJ/8QAKRAAAQMDAgYCAgMAAAAAAAAAAQIDBAAFEQYhEhMUIjFBB1EIY3GB8f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBr8UEp3agxozS/IZGKn3R+8RPmq3wnLjKhw34rC4DCXUoakqK8O8xJSSs+sbesGkjGoF6e0Qpy0JDl7ljpre0EFRU+rYHABzjOfonhHus+IuGo4F4uZVcX0XjLrEt9boU8COJK0pcOSCe4HhO+aDosIjKh3IGxyMjelN/tkdcZTnKClAfVUL+OGrNay9N3GzxYbt1WzJSI864vnkQ0FPclasla9wkpbSPZyUirZ03pS+Wy4ybpqnV068vq4g0w2OnjNpP6gcE/yT4oMpI1HKYhWiXbnJLUuNJKUvxyCtpKkbqAIIO4Sf8AaWaQtt0692W3GgTpK1uE9dk87i9n6O5P90UUGxdGssWu0R3OTBhLcjtcbMVAQhBCB2g+SB4BPqpF21E0WH20uJJAx4znaiig/9k=
 subTitle: Das neue Album von Rise To The Sky ist da
   
 ---

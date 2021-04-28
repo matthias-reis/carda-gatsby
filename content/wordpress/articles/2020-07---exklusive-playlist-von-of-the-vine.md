@@ -1,15 +1,22 @@
 ---
-title: Exklusive Playlist von Of the Vine
-seoTitle: Exklusive Playlist von Of the Vine - "Diese Musik hat uns geprägt"
+date: 2020-07-10T13:17:53.000Z
 slug: of-the-vine-playlist
 path: /2020/07/of-the-vine-playlist/
-fileName: 2020-07---exklusive-playlist-von-of-the-vine.md
+type: Artikel
+typeName: Artikel
+title: Exklusive Playlist von Of the Vine
+seoTitle: Exklusive Playlist von Of the Vine - "Diese Musik hat uns geprägt"
+ogTitle: Exklusive Playlist von Of the Vine - "Diese Musik hat uns geprägt"
 description: Kein Geringerer als Samuel Laubscher von Of the Vine hat exklusiv
   eine Playlist für meinen Blog zusammengestellt. Von Ben Frost bis Mogwai.
 excerpt: English & German - Kein Geringerer als Samuel Laubscher von Of the Vine
   hat exklusiv eine Playlist für meinen Blog zusammengestellt. Von Ben Frost bis
   Mogwai.
-focusKeyword: Of The Vine
+fileName: 2020-07---exklusive-playlist-von-of-the-vine.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIDBAUH/8QAKBAAAgEDAwQBBAMAAAAAAAAAAQIDAAQREiFBBRMikTEUUWFxBqLx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwDwodQjSQpKbhycqe2PW5/FbLe/S2EyzWq3Ck6UkIwRoO3GORkc4FVMFjBMwuZWYkHZn06CT4tuN8cjFaT1ntfxybpKLE8L3XfE+Nw2gDb9gc+quYy5F11C4vYljlICIchVUAZPyQOKe8a3eIfT5LBgcdrToXSNied/v9vzTW5WVZ7uCCOOOKTyMjFlGRsv9T7q0/WcQJF09PpdceJWUAMTz5DcjPHFBKG5ks5pDbRpJcshVXUl8Z+diMHb1WO6upIJ4naIqAmCmMbYwP8AaKKUNLem+RnfSrq2yjbxIyP3g591S8W3iIitZBOCqs8pXHlj4GfgCiikI//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-facebook.png__l.jpg
 labels:
   - Aaron Turner
   - Ambient
@@ -43,17 +50,12 @@ labels:
   - Sumac
   - The Twilight Sad
   - Unwed Sailor
-type: Artikel
-typeName: Artikel
-date: 2020-07-10T13:17:53.000Z
+focusKeyword: Of The Vine
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30364"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIDBAUH/8QAKBAAAgEDAwQBBAMAAAAAAAAAAQIDAAQREiFBBRMikTEUUWFxBqLx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwDwodQjSQpKbhycqe2PW5/FbLe/S2EyzWq3Ck6UkIwRoO3GORkc4FVMFjBMwuZWYkHZn06CT4tuN8cjFaT1ntfxybpKLE8L3XfE+Nw2gDb9gc+quYy5F11C4vYljlICIchVUAZPyQOKe8a3eIfT5LBgcdrToXSNied/v9vzTW5WVZ7uCCOOOKTyMjFlGRsv9T7q0/WcQJF09PpdceJWUAMTz5DcjPHFBKG5ks5pDbRpJcshVXUl8Z+diMHb1WO6upIJ4naIqAmCmMbYwP8AaKKUNLem+RnfSrq2yjbxIyP3g591S8W3iIitZBOCqs8pXHlj4GfgCiikI//Z
 subTitle: '"Diese Musik hat uns geprägt"'
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: '"Flucht in die Flucht"'
-seoTitle: '"Flucht in die Flucht"'
+date: 2014-09-02T13:37:50.000Z
 slug: flucht-in-die-flucht
 path: /2014/09/flucht-in-die-flucht/
-fileName: 2014-09---flucht-in-die-flucht.md
+type: Artikel
+typeName: Review
+title: '"Flucht in die Flucht"'
+seoTitle: '"Flucht in die Flucht"'
+ogTitle: '"Flucht in die Flucht"'
 description: Als ich das erste Mal DIE STERNE hörte, war ich 14 Jahre alt. Heut
   haben sie ihr neues Album "Flucht in die Flucht" veröffentlicht
 excerpt: Als ich das erste Mal die Sterne hörte, war ich 14 Jahre alt. Das ist
   jetzt 18 Jahre her.
-focusKeyword: Flucht in die Flucht
+fileName: 2014-09---flucht-in-die-flucht.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_auf-meinem-plattenteller-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_auf-meinem-plattenteller-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAcIBv/EACkQAAEDAgUDBAMBAAAAAAAAAAECAwQFEQAGMUFRBxIhEzJScSIjYcH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAERIUH/2gAMAwEAAhEDEQA/AJkodImVupMwacyp6Q6bJSNuSTsBucUHlLpRBplOQma01JmOj96pCfxI+KR5snxrqdfGgx/QWuUaFIcp0wNxJ8lYDcpRFneGyT7Txsb84fFQU9LVHabdciR2HkOrDbie9wpVcJ3skkWPOEZLZ66JvwkrqOXkOvU2wUtm/c4xyU7rQP6Lj+jzhXZry+zQFR2U1Fma+tAU56APa2fjc6+LYtOr5ri0OjS6vVShqOz5s2o3Ws+1tNx7if8ATscR7n2qxqtWJ8t1lDM2Q76q0MthLab7JH1b71xpyTPWd22XWPQrtvwdsOfpv1adjNM0zMchSkJshmcsklI0CXNyOFaje+oMGInFs31T6guZrqiG4q1ilwyRGQfHqK0U6ocnQcD7OF866p0lSzdRNyTvgwYA/9k=
+ogImage: null
 labels:
   - Bands
   - Die Sterne
@@ -25,18 +32,13 @@ labels:
   - Plattenkritik
   - Posen
   - Schallplatte
-type: Artikel
-typeName: Review
-date: 2014-09-02T13:37:50.000Z
+focusKeyword: Flucht in die Flucht
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "8725"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_auf-meinem-plattenteller-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_auf-meinem-plattenteller-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAcIBv/EACkQAAEDAgUDBAMBAAAAAAAAAAECAwQFEQAGMUFRBxIhEzJScSIjYcH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAERIUH/2gAMAwEAAhEDEQA/AJkodImVupMwacyp6Q6bJSNuSTsBucUHlLpRBplOQma01JmOj96pCfxI+KR5snxrqdfGgx/QWuUaFIcp0wNxJ8lYDcpRFneGyT7Txsb84fFQU9LVHabdciR2HkOrDbie9wpVcJ3skkWPOEZLZ66JvwkrqOXkOvU2wUtm/c4xyU7rQP6Lj+jzhXZry+zQFR2U1Fma+tAU56APa2fjc6+LYtOr5ri0OjS6vVShqOz5s2o3Ws+1tNx7if8ATscR7n2qxqtWJ8t1lDM2Q76q0MthLab7JH1b71xpyTPWd22XWPQrtvwdsOfpv1adjNM0zMchSkJshmcsklI0CXNyOFaje+oMGInFs31T6guZrqiG4q1ilwyRGQfHqK0U6ocnQcD7OF866p0lSzdRNyTvgwYA/9k=
 subTitle: <strong>Das neue DIE STERNE Album ist endlich da</strong>
   
 ---

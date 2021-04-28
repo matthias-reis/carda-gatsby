@@ -1,16 +1,23 @@
 ---
-title: '"Klaus mag Hühner"'
-seoTitle: '"Klaus mag Hühner" - ein veganes Kinderbuch für Kinder im Fragealter'
+date: 2015-11-25T15:55:11.000Z
 slug: klaus-mag-huehner
 path: /2015/11/klaus-mag-huehner/
-fileName: 2015-11---klaus-mag-huehner.md
+type: Artikel
+typeName: Rezension
+title: '"Klaus mag Hühner"'
+seoTitle: '"Klaus mag Hühner" - ein veganes Kinderbuch für Kinder im Fragealter'
+ogTitle: '"Klaus mag Hühner" - ein veganes Kinderbuch für Kinder im Fragealter'
 description: '"Klaus mag Hühner" ist ein veganes Kinderbuch für Kinder im
   Fragealter. Auf einfühlende und liebevolle Art und Weise werden Kinderfragen
   geklärt.'
 excerpt: Affiliate Link - "Klaus mag Hühner" ist ein veganes Kinderbuch für
   Kinder im Fragealter. Auf einfühlende und liebevolle Art und Weise werden
   Kinderfragen geklärt.
-focusKeyword: Klaus mag Hühner
+fileName: 2015-11---klaus-mag-huehner.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_klaus-mag-huehner__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_klaus-mag-huehner__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAH/8QAJhAAAQMDAgYDAQAAAAAAAAAAAQIDBAAFERIhBgcTFDFBUWGBFf/EABgBAQADAQAAAAAAAAAAAAAAAAIAAwQF/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMhBDESUSKRsf/aAAwDAQACEQMRAD8AC8trFGunD8JbNrgPSAHA6660g7JWRlRV9EVpdo4OZMfryY1rYbGQUpgM6spXpIypOPv3tWY8s7gYlqWIby2nG31jIGSErSkkD9FLDfUFt2VPf0xozieqqVrUVJxgJ2ORvtgejtvvWBxlcgAgX1rc7WBeIpoAswq/QPrsfhiVXDwXEWYMeB1kOqR1A3GS2sAndKdAPjG5rOuaVt7GwvLnx4nctLbDK220Ao1q3wUAeQnxSL+rHSyqc293cCWEltskhLWAclOd8H2D8UL5myUP8Ow22z00SJQcIxg4ShXr9FPGpRiha671uDlsrEMF8b6omvqqgqx3WRBQsMacLIJ1DPj4pG9xC49H0yIcN9GxKXG9QNVVFsjKaUypcSN8iNyc4pfREbaRBghpAwlvpnSPzNHb/enroGg+002mPq0payAc4Hsn4qqpK7MdmR8SLsCf/9k=
+ogImage: null
 labels:
   - Bücher & Filme
   - Compassion Media
@@ -21,17 +28,12 @@ labels:
   - vegane Kinder
   - vegane Kinderbücher
   - veganes Kinderbuch
-type: Artikel
-typeName: Rezension
-date: 2015-11-25T15:55:11.000Z
+focusKeyword: Klaus mag Hühner
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "24524"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_klaus-mag-huehner__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_klaus-mag-huehner__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAH/8QAJhAAAQMDAgYDAQAAAAAAAAAAAQIDBAAFERIhBgcTFDFBUWGBFf/EABgBAQADAQAAAAAAAAAAAAAAAAIAAwQF/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMhBDESUSKRsf/aAAwDAQACEQMRAD8AC8trFGunD8JbNrgPSAHA6660g7JWRlRV9EVpdo4OZMfryY1rYbGQUpgM6spXpIypOPv3tWY8s7gYlqWIby2nG31jIGSErSkkD9FLDfUFt2VPf0xozieqqVrUVJxgJ2ORvtgejtvvWBxlcgAgX1rc7WBeIpoAswq/QPrsfhiVXDwXEWYMeB1kOqR1A3GS2sAndKdAPjG5rOuaVt7GwvLnx4nctLbDK220Ao1q3wUAeQnxSL+rHSyqc293cCWEltskhLWAclOd8H2D8UL5myUP8Ow22z00SJQcIxg4ShXr9FPGpRiha671uDlsrEMF8b6omvqqgqx3WRBQsMacLIJ1DPj4pG9xC49H0yIcN9GxKXG9QNVVFsjKaUypcSN8iNyc4pfREbaRBghpAwlvpnSPzNHb/enroGg+002mPq0payAc4Hsn4qqpK7MdmR8SLsCf/9k=
 subTitle: Ein veganes Kinderbuch für Kinder im Fragealter
   
 ---

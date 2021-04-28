@@ -1,14 +1,21 @@
 ---
-title: '"Animal Liberation"'
-seoTitle: '"Animal Liberation" - das Tierethikbuch von Peter Singer'
+date: 2020-01-04T12:22:54.000Z
 slug: animal-liberation
 path: /2020/01/animal-liberation/
-fileName: 2020-01---animal-liberation.md
+type: Artikel
+typeName: Rezension
+title: '"Animal Liberation"'
+seoTitle: '"Animal Liberation" - das Tierethikbuch von Peter Singer'
+ogTitle: '"Animal Liberation" - das Tierethikbuch von Peter Singer'
 description: Heute möchte ich Euch das Buch "Animal Liberation" von Peter Singer
   empfehlen. Es bietet einen guten Überblick über die Geschichte der Tierethik.
 excerpt: Heute möchte ich Euch das Buch "Animal Liberation" von Peter Singer
   empfehlen. Es bietet einen guten Überblick über die Geschichte der Tierethik.
-focusKeyword: Animal Liberation
+fileName: 2020-01---animal-liberation.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_animal-liberation-18__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_animal-liberation-18__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACkQAAICAgEDAwIHAAAAAAAAAAECAwQFEQAGEiEiMWETFBUycXKBkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwH/xAAlEQABAwIFBAMAAAAAAAAAAAACAAEDESEEEhMiMQVBUdFhgfD/2gAMAwEAAhEDEQA/AIj09ZmxeLyNiuIXnRoiVliDgqQdnz7EEEcZoM1l7smOnpIIkuQJM0EUKuF3K0elGidekcwsREtqxLVkLBLSBGKrsrpwdgfAkPGzDX6GF6cw8MU5jy8KSELJGwY6ncQ9vafLFt7JICgfrvIZijq4hme1vtkOF9UiEiozevaotTp+vLfSGeZ5VZx6ZFj8qT+wcSuonwQjiMuMqwSWAxjV7Hb3aIB14+R43yqrOTYoQ/brGiOA661o6A38+R/vIPYxjzZ9Un+k0Ne08jq1lHCK2mTtQjuXZI2fbjusiMRhl22finwk4LeJVvwsDEXn/HTYpVrM0ZMyLEIyWAbuA3oHRHp/rlj6YwAlxVR7vTcUs6GRla1AHkAMzuoPnY/MD/PDhweFleI3cfClpDnf95TPd+9MEwTHtFOyMI5EicMjkHtYHegQdHiflE6mr9Jw15M3ekzCTvLJZnrRyM6FQBF5B8AjYO/cn40cOVxUpTOLl2VoxYa0X//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel-1.png__l.jpg
 labels:
   - Animal Liberation
   - Bücher & Filme
@@ -20,17 +27,12 @@ labels:
   - Tierrechte
   - Tierschutz
   - vegan
-type: Artikel
-typeName: Rezension
-date: 2020-01-04T12:22:54.000Z
+focusKeyword: Animal Liberation
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "27284"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_animal-liberation-18__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_animal-liberation-18__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACkQAAICAgEDAwIHAAAAAAAAAAECAwQFEQAGEiEiMWETFBUycXKBkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwH/xAAlEQABAwIFBAMAAAAAAAAAAAACAAEDESEEEhMiMQVBUdFhgfD/2gAMAwEAAhEDEQA/AIj09ZmxeLyNiuIXnRoiVliDgqQdnz7EEEcZoM1l7smOnpIIkuQJM0EUKuF3K0elGidekcwsREtqxLVkLBLSBGKrsrpwdgfAkPGzDX6GF6cw8MU5jy8KSELJGwY6ncQ9vafLFt7JICgfrvIZijq4hme1vtkOF9UiEiozevaotTp+vLfSGeZ5VZx6ZFj8qT+wcSuonwQjiMuMqwSWAxjV7Hb3aIB14+R43yqrOTYoQ/brGiOA661o6A38+R/vIPYxjzZ9Un+k0Ne08jq1lHCK2mTtQjuXZI2fbjusiMRhl22finwk4LeJVvwsDEXn/HTYpVrM0ZMyLEIyWAbuA3oHRHp/rlj6YwAlxVR7vTcUs6GRla1AHkAMzuoPnY/MD/PDhweFleI3cfClpDnf95TPd+9MEwTHtFOyMI5EicMjkHtYHegQdHiflE6mr9Jw15M3ekzCTvLJZnrRyM6FQBF5B8AjYO/cn40cOVxUpTOLl2VoxYa0X//Z
 subTitle: Das Tierrechtsbuch von Peter Singer
   
 ---

@@ -1,30 +1,32 @@
 ---
-title: '"Die Hermetiker" - unser Roman ist jetzt bestellbar!'
-seoTitle: '"Die Hermetiker" - unser Roman ist jetzt bestellbar!'
+date: 2019-03-11T15:23:31.000Z
 slug: die-hermetiker-unser-roman-ist-jetzt-bestellbar
 path: /2019/03/die-hermetiker-unser-roman-ist-jetzt-bestellbar/
-fileName: 2019-03---die-hermetiker-unser-roman-ist-jetzt-bestellbar.md
+type: Artikel
+typeName: Artikel
+title: '"Die Hermetiker" - unser Roman ist jetzt bestellbar!'
+seoTitle: '"Die Hermetiker" - unser Roman ist jetzt bestellbar!'
+ogTitle: '"Die Hermetiker" - unser Roman ist jetzt bestellbar!'
 description: Es ist soweit! Unser Roman wurde veröffentlicht und kann ab sofort
   bestellt werden! Wir sind stolz und freuen uns, Euch "die Hermetiker" zu
   präsentieren.
 excerpt: Es ist soweit! Unser Roman wurde veröffentlicht und kann ab sofort
   bestellt werden! Wir sind stolz und freuen uns, Euch "die Hermetiker" zu
   präsentieren.
-focusKeyword: Die Hermetiker
-labels:
-  - Geschichten & Erlebtes
-type: Artikel
-typeName: Artikel
-date: 2019-03-11T15:23:31.000Z
-status: publish
-isWerbung: false
-isAffiliate: false
-errors:
-  outsideImage: article has at least one image from another domain
-thumbnailId: "23530"
+fileName: 2019-03---die-hermetiker-unser-roman-ist-jetzt-bestellbar.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_photo_2019-02-16-17.42.54.jpeg__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_photo_2019-02-16-17.42.54.jpeg__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUC/8QAKhAAAQMDAwIGAgMAAAAAAAAAAQIDBAAFEQYSIRMxByJBUWFxFDNygZH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAgAD/8QAIxEAAgIBAwMFAAAAAAAAAAAAAQIAAxEEIZEFFNEVIjFxgf/aAAwDAQACEQMRAD8AVby9ZLclpMK4WuTIUopUkSM9MY4UeAMZxVa36qjQiqRIMB6Kyyl9TSkALcSrsAQeDyB/XaopF2NolNqm6LjuNpSV/jykhCVJPGSCc4ya4naugRFFMrwzsLZccKkhRHsBgY9K696hOxEfT7AMkHH0fEuL1TvlzOhcIzSWkhwIbaaUOe6QSPT75ppsl6tM9pyPfptqMhLm1spH7R/EA9vfPOe1Ja9Y2+LJSmR4bWZvqAbW0KHBPqPv5q3bdQNT7oGYWlHGXnDlLEcEpSABk8HGPU/dI1q/ORMenWZwQR+HxNrV1xiXSMGblbGJASkpSvepC0g4zgpx7ClFxmG+8HelI3gBKdzwUEj4BT/tFFVZWjNuo4lJfag9rGSMRIypKnVmUpw583WAxx3Hl4ratMtqy5Vb4+xTg2qUpe4kZzjJ+eaKKa6q03CjgRfUWuMMx5n/2Q==
+ogImage: null
+labels:
+  - Geschichten & Erlebtes
+focusKeyword: Die Hermetiker
+status: publish
+isWerbung: false
+isAffiliate: false
+language: de
+errors:
+  outsideImage: article has at least one image from another domain
 subTitle: Unsere erste Buchveröffentlichung
   
 ---

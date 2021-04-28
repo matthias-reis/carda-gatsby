@@ -1,16 +1,23 @@
 ---
-title: Die Kündigung
-seoTitle: Die Kündigung - Eine Kurzgeschichte aus dem Leben
+date: 2011-04-11T20:31:23.000Z
 slug: die-kuendigung
 path: /2011/04/die-kuendigung/
-fileName: 2011-04---die-kuendigung.md
+type: Artikel
+typeName: Kurzgeschichte
+title: Die Kündigung
+seoTitle: Die Kündigung - Eine Kurzgeschichte aus dem Leben
+ogTitle: Die Kündigung - Eine Kurzgeschichte aus dem Leben
 description: Seelisch war er bereits seit längerer Zeit auf die Kündigung
   vorbereitet. Man hatte ihm in der letzten Zeit systematisch den Spaß an der
   Arbeit genommen.
 excerpt: Seelisch war er bereits seit längerer Zeit auf die Kündigung
   vorbereitet. Man hatte ihm in der letzten Zeit systematisch den Spaß an der
   Arbeit genommen.
-focusKeyword: Die Kündigung
+fileName: 2011-04---die-kuendigung.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_04_14051250818_3daf5f3066_z-e1582812560685__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_04_14051250818_3daf5f3066_z-e1582812560685__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMFBgcBAgj/xAAsEAACAQMDAgQFBQAAAAAAAAABAwIEESEABRIGQRMVMXEHFCNRgSJCkbHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AM9B78+neutWIMMZFc1SJws5JA/bL37597zpz8xTLcsT8JsBOMrWNiMa5a2Xqilot1pqQwIW+ET4t5Ssbkd/QWGQdXV0l8R9n3PaleXVS3FC1JkqdlGBsQSZE5BxYADvoJDvu+eSS2FbBzVXVIQ1rbnhHjcyuO9yMnGDpi6iqvmqmqZCQkpbDATiOQIiBkDv/idQXqXrhm5VS07hssGpVCSIcHujEEesj25drgextpLc+sDFdWqgo2NLxJsT+uI4mNiM5IFvv/egrpFRt7oJ+pX0vhEhkAuMrTFiM884t/OnjzbpmqquVZCtohTxvFqViS5zgsYC73Fxbva40aNBsjfKlalMoxTvXYSWKqTRGH2IhGViSMEG40nX73XVId9DbkxYOLJLDJzIvfBl6fix/GNGjQf/2Q==
+ogImage: null
 labels:
   - Arbeit
   - Geschichten & Erlebtes
@@ -19,17 +26,12 @@ labels:
   - Kurzgeschichten
   - Literarisches
   - Übersinnliches
-type: Artikel
-typeName: Kurzgeschichte
-date: 2011-04-11T20:31:23.000Z
+focusKeyword: Die Kündigung
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "10464"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_04_14051250818_3daf5f3066_z-e1582812560685__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_04_14051250818_3daf5f3066_z-e1582812560685__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMFBgcBAgj/xAAsEAACAQMDAgQFBQAAAAAAAAABAwIEESEABRIGQRMVMXEHFCNRgSJCkbHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AM9B78+neutWIMMZFc1SJws5JA/bL37597zpz8xTLcsT8JsBOMrWNiMa5a2Xqilot1pqQwIW+ET4t5Ssbkd/QWGQdXV0l8R9n3PaleXVS3FC1JkqdlGBsQSZE5BxYADvoJDvu+eSS2FbBzVXVIQ1rbnhHjcyuO9yMnGDpi6iqvmqmqZCQkpbDATiOQIiBkDv/idQXqXrhm5VS07hssGpVCSIcHujEEesj25drgextpLc+sDFdWqgo2NLxJsT+uI4mNiM5IFvv/egrpFRt7oJ+pX0vhEhkAuMrTFiM884t/OnjzbpmqquVZCtohTxvFqViS5zgsYC73Fxbva40aNBsjfKlalMoxTvXYSWKqTRGH2IhGViSMEG40nX73XVId9DbkxYOLJLDJzIvfBl6fix/GNGjQf/2Q==
 subTitle: Eine Kurzgeschichte
   
 ---

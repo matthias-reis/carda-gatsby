@@ -1,16 +1,23 @@
 ---
-title: Pablo & Friends
-seoTitle: Pablo & Friends - Handgemachte Avocado-Postkarten aus Hamburg
+date: 2017-08-03T17:20:32.000Z
 slug: pablo-friends-sympathische-avocados
 path: /2017/08/pablo-friends-sympathische-avocados/
-fileName: 2017-08---pablo-und-friends.md
+type: Galerie
+typeName: Produkttest
+title: Pablo & Friends
+seoTitle: Pablo & Friends - Handgemachte Avocado-Postkarten aus Hamburg
+ogTitle: Pablo & Friends - Handgemachte Avocado-Postkarten aus Hamburg
 description: "Eines habe ich mit Ellen und Mario gemeinsam: Genau wie ich lieben
   sie Avocados. Darum haben sie Pablo & Friends gegründet und verkaufen
   Avocado-Postkarten"
 excerpt: "Werbung - Eines habe ich mit Ellen und Mario gemeinsam: Genau wie ich
   lieben sie Avocados. Darum haben sie Pablo & Friends gegründet und verkaufen
   Avocado-Postkarten."
-focusKeyword: Pablo & Friends
+fileName: 2017-08---pablo-und-friends.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_35539348213_8527e81cff_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_35539348213_8527e81cff_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBggD/8QALBAAAgEDAwMCBAcAAAAAAAAAAQIDBAURAAYhBxJRE0EUInHBFSMxcoGh4f/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EAB4RAAICAgIDAAAAAAAAAAAAAAECABEDMRLwEyFR/9oADAMBAAIRAxEAPwBZbRn73pIQkeGkjZjnOVaOMEf7rQl5s237dV0clVa5JGnqvQjkjLt6JySrE93AB8e51nbbNPWw1VE0kE5/MgUs0J9lCkfKccYAyfqdaF6iW253aSCC2RIyRCV2Z5ljw7EBWHvkY/vU6Ki8kFkwDu1j5K51Q29bbPTWOaho4qd/xOMMwySfmXyT50n94xpFFdXUD0PjajsK8d2BHgZ8Y05Or9RVnaO35Lgka1/xsTSrCSyggrkgnk+SfrpGbuZ6isqo4opHLzOFCqTjJj5Pj9Doxtxc13Uc6eTGAx77lyo+s9XAV7LLS8e3qEfbXd+t9VJxLYaST90zH7aNGrWppRcgXPrHXVlVb51tVPE9FKZEAmYhu5e0g/xqLWdXrlMzlbbRxlzlirOO4+TzydGjUBAz/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_08_35539348213_8527e81cff_z__l.jpg
 labels:
   - Avocado
   - Geschichten & Erlebtes
@@ -22,17 +29,12 @@ labels:
   - Pablo & Friends
   - Postkarten
   - vegan
-type: Galerie
-typeName: Produkttest
-date: 2017-08-03T17:20:32.000Z
+focusKeyword: Pablo & Friends
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "17304"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_35539348213_8527e81cff_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_35539348213_8527e81cff_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBggD/8QALBAAAgEDAwMCBAcAAAAAAAAAAQIDBAURAAYhBxJRE0EUInHBFSMxcoGh4f/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EAB4RAAICAgIDAAAAAAAAAAAAAAECABEDMRLwEyFR/9oADAMBAAIRAxEAPwBZbRn73pIQkeGkjZjnOVaOMEf7rQl5s237dV0clVa5JGnqvQjkjLt6JySrE93AB8e51nbbNPWw1VE0kE5/MgUs0J9lCkfKccYAyfqdaF6iW253aSCC2RIyRCV2Z5ljw7EBWHvkY/vU6Ki8kFkwDu1j5K51Q29bbPTWOaho4qd/xOMMwySfmXyT50n94xpFFdXUD0PjajsK8d2BHgZ8Y05Or9RVnaO35Lgka1/xsTSrCSyggrkgnk+SfrpGbuZ6isqo4opHLzOFCqTjJj5Pj9Doxtxc13Uc6eTGAx77lyo+s9XAV7LLS8e3qEfbXd+t9VJxLYaST90zH7aNGrWppRcgXPrHXVlVb51tVPE9FKZEAmYhu5e0g/xqLWdXrlMzlbbRxlzlirOO4+TzydGjUBAz/9k=
 subTitle: Handgemachte Postkarten aus Hamburg
   
 ---

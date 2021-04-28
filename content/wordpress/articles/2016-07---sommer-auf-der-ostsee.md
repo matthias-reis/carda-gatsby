@@ -1,14 +1,21 @@
 ---
-title: Sommer auf der Ostsee
-seoTitle: Sommer auf der Ostsee - Von Travemünde nach Helsinki
+date: 2016-07-29T10:52:43.000Z
 slug: sommer-auf-der-ostsee-travemuende-helsinki
 path: /2016/07/sommer-auf-der-ostsee-travemuende-helsinki/
-fileName: 2016-07---sommer-auf-der-ostsee.md
+type: Galerie
+typeName: Galerie
+title: Sommer auf der Ostsee
+seoTitle: Sommer auf der Ostsee - Von Travemünde nach Helsinki
+ogTitle: Sommer auf der Ostsee - Von Travemünde nach Helsinki
 description: Vor kurzem durften wir den Sommer auf der Ostsee genießen. Bei
   unserer Überfahrt von Travemünde nach Helsinki hatten wir das schönste Wetter.
 excerpt: Vor kurzem durften wir den Sommer auf der Ostsee genießen. Bei unserer
   Überfahrt von Travemünde nach Helsinki hatten wir das schönste Wetter.
-focusKeyword: Ostsee
+fileName: 2016-07---sommer-auf-der-ostsee.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_07_28551390516_98f008b738_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_07_28551390516_98f008b738_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwEECP/EACkQAAEDBAEBBwUAAAAAAAAAAAECAwQABREhEgYTIjEygZGhUWGSseH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFAAEC/8QAHBEAAgEFAQAAAAAAAAAAAAAAAAECBBEUITFB/9oADAMBAAIRAxEAPwCxbXFDiQo4INO0R20p8o9q5ygTutF8CXLgpAHlblBAx9BjwqTJfvq4YdMjqdqcAo9iHELZJx3QF8wrZ8SRr70o6aXQ2NXF8Rcj0dCknXxUeu0PilRSdVVDrvWKsKbTckKG93BWvyVv0pVcbj1gwVEv3JOdkqe5Z+asdo3KT8NODcpDRHFX6p5HvMgp72/WiikkC3sYmXh/syRn3/lIJc198nkvAooqZ0ts/9k=
+ogImage: null
 labels:
   - Fähre
   - Fernweh
@@ -25,17 +32,12 @@ labels:
   - Sommer
   - Travemünde
   - Urlaub
-type: Galerie
-typeName: Galerie
-date: 2016-07-29T10:52:43.000Z
+focusKeyword: Ostsee
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "14985"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_07_28551390516_98f008b738_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_07_28551390516_98f008b738_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwEECP/EACkQAAEDBAEBBwUAAAAAAAAAAAECAwQABREhEgYTIjEygZGhUWGSseH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFAAEC/8QAHBEAAgEFAQAAAAAAAAAAAAAAAAECBBEUITFB/9oADAMBAAIRAxEAPwCxbXFDiQo4INO0R20p8o9q5ygTutF8CXLgpAHlblBAx9BjwqTJfvq4YdMjqdqcAo9iHELZJx3QF8wrZ8SRr70o6aXQ2NXF8Rcj0dCknXxUeu0PilRSdVVDrvWKsKbTckKG93BWvyVv0pVcbj1gwVEv3JOdkqe5Z+asdo3KT8NODcpDRHFX6p5HvMgp72/WiikkC3sYmXh/syRn3/lIJc198nkvAooqZ0ts/9k=
 subTitle: Überfahrt von Travemünde nach Helsinki
   
 ---

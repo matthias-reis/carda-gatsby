@@ -1,16 +1,23 @@
 ---
-title: Hej Organic Kosmetik
-seoTitle: Hej Organic Kosmetik im Test - Pflegeprodukte mit Kaktus und Herz
+date: 2018-05-28T07:24:53.000Z
 slug: hej-organic-kosmetik-im-test
 path: /2018/05/hej-organic-kosmetik-im-test/
-fileName: 2018-05---hej-organic-kosmetik.md
+type: Artikel
+typeName: Produkttest
+title: Hej Organic Kosmetik
+seoTitle: Hej Organic Kosmetik im Test - Pflegeprodukte mit Kaktus und Herz
+ogTitle: Hej Organic Kosmetik im Test - Pflegeprodukte mit Kaktus und Herz
 description: Vor Kurzem erreichte mich ein tolles Testpaket des Herstellers Hej
   Organic. "Wir glauben an Deine innere Schönheit" heißt es auf der Homepage.
   Mein Bericht.
 excerpt: Werbung - Vor Kurzem erreichte mich ein tolles Testpaket des
   Herstellers Hej Organic. "Wir glauben an Deine innere Schönheit" heißt es auf
   der Homepage. Alle Inhaltsstoffe sind natürlich, vegan und bio.
-focusKeyword: Hej Organic
+fileName: 2018-05---hej-organic-kosmetik.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_28366155898_85332d094b_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_28366155898_85332d094b_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgDBAUG/8QAKBAAAgEEAQQCAQUBAAAAAAAAAQIDBAUGEQAHEiFREzEiFDJCYYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgABA//EABwRAQADAQEAAwAAAAAAAAAAAAEAAhESAwQhMf/aAAwDAQACEQMRAD8AW2KHuA5OKdfHjjS2DEcQhwqOtseLW+5VVVSpU08dcvzMXkRdbd9kKu/r+j75Uv2M4vf8eFujx22Y7dXO4Z4IFaUeTGCezW9kHwSBvXE/KpW3Kfkyv25F3tOMXa8o72i1VlakbdrtBEWCnW9E/QOvPLNT0/yeFS0lkqUAG/yZAf8AndxjekOL0eHWy/ymqTIFqzTmCIR/AiuEZh3Esf3B0/weN81rNNR1tHdal7U9I1JRtUVE5jIWRwjMqfkB2/zPbr6Ke/E+jY6rmQ2bVcirWrqHlFsoKeiorvJDTQRiKNVijOlH0Nld82rX1dyeiU/JPTVjmQyfLUxEvsnetqV8b8j1w4cD50XUnSry6TssY68tRrPHeLRtZXST5KCbt0VUqAyP4Ya1od2hoehrbqurOP12H5FFSVv6OsraaqJpp4XV5HaEoumG1LFj7+gPXDhy4AwgudOs/9k=
+ogImage: null
 labels:
   - Arganöl
   - Body Splash
@@ -35,17 +42,12 @@ labels:
   - vegan
   - vegan beauty
   - vegane Pflege
-type: Artikel
-typeName: Produkttest
-date: 2018-05-28T07:24:53.000Z
+focusKeyword: Hej Organic
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "21064"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_28366155898_85332d094b_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_28366155898_85332d094b_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgDBAUG/8QAKBAAAgEEAQQCAQUBAAAAAAAAAQIDBAUGEQAHEiFREzEiFDJCYYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgABA//EABwRAQADAQEAAwAAAAAAAAAAAAEAAhESAwQhMf/aAAwDAQACEQMRAD8AW2KHuA5OKdfHjjS2DEcQhwqOtseLW+5VVVSpU08dcvzMXkRdbd9kKu/r+j75Uv2M4vf8eFujx22Y7dXO4Z4IFaUeTGCezW9kHwSBvXE/KpW3Kfkyv25F3tOMXa8o72i1VlakbdrtBEWCnW9E/QOvPLNT0/yeFS0lkqUAG/yZAf8AndxjekOL0eHWy/ymqTIFqzTmCIR/AiuEZh3Esf3B0/weN81rNNR1tHdal7U9I1JRtUVE5jIWRwjMqfkB2/zPbr6Ke/E+jY6rmQ2bVcirWrqHlFsoKeiorvJDTQRiKNVijOlH0Nld82rX1dyeiU/JPTVjmQyfLUxEvsnetqV8b8j1w4cD50XUnSry6TssY68tRrPHeLRtZXST5KCbt0VUqAyP4Ya1od2hoehrbqurOP12H5FFSVv6OsraaqJpp4XV5HaEoumG1LFj7+gPXDhy4AwgudOs/9k=
 subTitle: Pflegeprodukte mit Kaktus und Herz
   
 ---

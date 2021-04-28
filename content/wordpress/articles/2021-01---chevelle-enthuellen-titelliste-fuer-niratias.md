@@ -1,15 +1,22 @@
 ---
-title: Chevelle enthüllen Titelliste für "Niratias"
-seoTitle: Chevelle enthüllen Titelliste für "Niratias" – Neues Album am 5. März
+date: 2021-01-27T11:55:00.000Z
 slug: chevelle-niratias-titelliste
 path: /2021/01/chevelle-niratias-titelliste/
-fileName: 2021-01---chevelle-enthuellen-titelliste-fuer-niratias.md
+type: Artikel
+typeName: Artikel
+title: Chevelle enthüllen Titelliste für "Niratias"
+seoTitle: Chevelle enthüllen Titelliste für "Niratias" – Neues Album am 5. März
+ogTitle: Chevelle enthüllen Titelliste für "Niratias" – Neues Album am 5. März
 description: Am 5. März veröffentlichen Chevelle ihr langersehntes neues Album
   "Niratias". Die Band hat jetzt die komplette Track-Liste bekannt gegeben.
 excerpt: Am 5. März veröffentlichen Chevelle ihr langersehntes neues Album
   "Niratias". Die Band hat jetzt die komplette Track-Liste bekannt gegeben. Die
   Platte soll die bislang provokativste der Chicagoer Band werden.
-focusKeyword: Chevelle
+fileName: 2021-01---chevelle-enthuellen-titelliste-fuer-niratias.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_chevelle__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_chevelle__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQFAQIDCP/EACMQAAIBAwQCAwEAAAAAAAAAAAECEQADBAUSIUExcSJRYbH/xAAYAQACAwAAAAAAAAAAAAAAAAABAgMEBf/EACMRAAEDAwMFAQAAAAAAAAAAAAEAAhEDBDFBcfAFEhMhUWH/2gAMAwEAAhEDEQA/APNJk3FXgSYkngVX1DSFwdITIFxmv8C4RcDKwYdDrmoTAlj84ETVXXdRx8zHsW8ZL9tQCXVmlVbx8fse6ao9xIhaNnRtmUqvlEmIG/3GnNUzbxMR9GbKdkW6H3G5yWWD4jxEf2lkjkVHYbEbc0q4kEeDH5TWl33abTGdolfX1Ulu6CZOVQ6kWvZT7WBpa0Axr+nfhSS3CtzcI9RWGuEcgCTPVFFApA4jBWjOWAB6rrhNtyFPXM0UUrcoP9gyv//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_chevelle-fb.png__l.jpg
 labels:
   - Alternative
   - Alternative Rock
@@ -22,18 +29,13 @@ labels:
   - New Release
   - Niratias
   - Rock
-type: Artikel
-typeName: Artikel
-date: 2021-01-27T11:55:00.000Z
+focusKeyword: Chevelle
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (24:15)"
-thumbnailId: "32569"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_chevelle__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_chevelle__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQFAQIDCP/EACMQAAIBAwQCAwEAAAAAAAAAAAECEQADBAUSIUExcSJRYbH/xAAYAQACAwAAAAAAAAAAAAAAAAABAgMEBf/EACMRAAEDAwMFAQAAAAAAAAAAAAEAAhEDBDFBcfAFEhMhUWH/2gAMAwEAAhEDEQA/APNJk3FXgSYkngVX1DSFwdITIFxmv8C4RcDKwYdDrmoTAlj84ETVXXdRx8zHsW8ZL9tQCXVmlVbx8fse6ao9xIhaNnRtmUqvlEmIG/3GnNUzbxMR9GbKdkW6H3G5yWWD4jxEf2lkjkVHYbEbc0q4kEeDH5TWl33abTGdolfX1Ulu6CZOVQ6kWvZT7WBpa0Axr+nfhSS3CtzcI9RWGuEcgCTPVFFApA4jBWjOWAB6rrhNtyFPXM0UUrcoP9gyv//Z
 subTitle: Neues Album am 5. März
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: Die Kartenmacherei im Test
-seoTitle: "Ich habe die Kartenmacherei getestet - Erstes Weihnachtsgeschenk: Done!"
+date: 2017-11-25T10:25:20.000Z
 slug: kartenmacherei
 path: /2017/11/kartenmacherei/
-fileName: 2017-11---die-kartenmacherei-im-test.md
+type: Artikel
+typeName: Produkttest
+title: Die Kartenmacherei im Test
+seoTitle: "Ich habe die Kartenmacherei getestet - Erstes Weihnachtsgeschenk: Done!"
+ogTitle: "Ich habe die Kartenmacherei getestet - Erstes Weihnachtsgeschenk: Done!"
 description: Ich habe jetzt die Kartenmacherei getestet. Weil ich zu Weihnachten
   schon immer gerne selbstgemachte Dinge verschenkt habe. Vor allem natürlich
   Kalender.
 excerpt: Ich habe jetzt die Kartenmacherei getestet. Weil ich zu Weihnachten
   schon immer gerne selbstgemachte Dinge verschenkt habe. Vor allem natürlich
   Kalender.
-focusKeyword: Kartenmacherei
+fileName: 2017-11---die-kartenmacherei-im-test.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-13-von-16__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-13-von-16__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMCBAUGB//EACgQAAIBBAEDAgcBAAAAAAAAAAECAwAEBREhBhIxB0ETFSIyUWJxkf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAaEQEBAQEAAwAAAAAAAAAAAAABAgARITHw/9oADAMBAAIRAxEAPwDTxdmhVS44qt1BmY7DBJfQWoYSMI2WUrGoBBO9sQPbXn3p+DuUu5ILck6lYRnR0dHg6p7elPTZcMbTISsAVVpbyWTQI0QNnjYpnCfexsB1dj7zHBmdEmR1jZO4EDZ0qqfDcccE12N/aIqv2gcEiqWN9KulYCvdjLojv7yTdTefz581PMZBYHnUt9rsOf6aEuNG8osMjNGVKkj+HR/2o4ScyYm0adriWRk2ztdS7PJ/aiipWCndWFJeOZlHT5dP8MTI/aNOLmXY+oftVrI5Kd+7Z4HgboorSBTzNS1J1+8b/9k=
+ogImage: null
 labels:
   - basteln
   - Design
@@ -24,17 +31,12 @@ labels:
   - Wandkalender
   - Weihnachten
   - Weihnachtsgeschenk
-type: Artikel
-typeName: Produkttest
-date: 2017-11-25T10:25:20.000Z
+focusKeyword: Kartenmacherei
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "18588"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-13-von-16__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-13-von-16__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMCBAUGB//EACgQAAIBBAEDAgcBAAAAAAAAAAECAwAEBREhBhIxB0ETFSIyUWJxkf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAaEQEBAQEAAwAAAAAAAAAAAAABAgARITHw/9oADAMBAAIRAxEAPwDTxdmhVS44qt1BmY7DBJfQWoYSMI2WUrGoBBO9sQPbXn3p+DuUu5ILck6lYRnR0dHg6p7elPTZcMbTISsAVVpbyWTQI0QNnjYpnCfexsB1dj7zHBmdEmR1jZO4EDZ0qqfDcccE12N/aIqv2gcEiqWN9KulYCvdjLojv7yTdTefz581PMZBYHnUt9rsOf6aEuNG8osMjNGVKkj+HR/2o4ScyYm0adriWRk2ztdS7PJ/aiipWCndWFJeOZlHT5dP8MTI/aNOLmXY+oftVrI5Kd+7Z4HgboorSBTzNS1J1+8b/9k=
 subTitle: Weihnachtsgeschenk Nummer 1
   
 ---

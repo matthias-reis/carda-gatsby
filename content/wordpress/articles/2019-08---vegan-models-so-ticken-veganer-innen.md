@@ -1,14 +1,21 @@
 ---
-title: '"Vegan Models" - so ticken Veganer*innen'
-seoTitle: '"Vegan Models" - so ticken Veganer*innen - Interview mit Tobias Hess'
+date: 2019-08-27T09:15:13.000Z
 slug: vegan-models-so-ticken-veganerinnen
 path: /2019/08/vegan-models-so-ticken-veganerinnen/
-fileName: 2019-08---vegan-models-so-ticken-veganer-innen.md
+type: Artikel
+typeName: Interview
+title: '"Vegan Models" - so ticken Veganer*innen'
+seoTitle: '"Vegan Models" - so ticken Veganer*innen - Interview mit Tobias Hess'
+ogTitle: '"Vegan Models" - so ticken Veganer*innen - Interview mit Fotograf Tobias Hess'
 description: Der Hamburger Fotograf Tobias Hess fotografiert im Rahmen seines
   Projekts "Vegan Models" Veganer*innen und zeigt, wie sie so ticken.
 excerpt: Der Hamburger Fotograf Tobias Hess fotografiert im Rahmen seines
   Projekts "Vegan Models" Veganer*innen und zeigt, wie sie so ticken.
-focusKeyword: Vegan Models
+fileName: 2019-08---vegan-models-so-ticken-veganer-innen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_tobias-hess-photography-vegan-models-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_tobias-hess-photography-vegan-models-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUGBwgD/8QAKBAAAgEEAQQBAwUAAAAAAAAAAQIDBAUGEQASEyExBzJBgRQiQlFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANGsuvPVriXMr3Jj+M1txp41mqIxHHBG/ppZJFjQH/OpxxjPUqPYPrzysflL5Ixi1Ry2S5GSsr1MNQaaCMsIWR1kR5G2FUAqra2SRrx54DObFMqp+u80WaGtuygvFTz06incj3GpDbCk7H3+2xybYlf4skxi1XqFDHHXU6z9vf0E+GX8EEcqOLJrTaLJBkRsGNQWuCaWpp5IKp3mj7qnpZUKAdRKDqXfjZ9a5PfjC52C64VQHFSwoKcdkwyjpkgk+pldfsSW3/RBGvHA55pe1x3GbpeZVBWjp2kVT/JtgKPyxHMvZxcq3I4JrzdEokqZ1SERUsfaErEbPcHskINb3vwOHDgQqOpqZqKKkLTtTlvFN3C6J68nY351rp355dfw/klJhEH66uhElLXRKtTIkQV4lWUKAp6v3BS7EqV3ojR8a4cOB//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_08_So-ticken-Veganer_innen.png__l.jpg
 labels:
   - Ernährung & Gesundheit
   - Fotograf
@@ -21,17 +28,12 @@ labels:
   - Vegan Models
   - vegane Models
   - Veganer
-type: Artikel
-typeName: Interview
-date: 2019-08-27T09:15:13.000Z
+focusKeyword: Vegan Models
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "25796"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_tobias-hess-photography-vegan-models-2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_tobias-hess-photography-vegan-models-2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUGBwgD/8QAKBAAAgEEAQQBAwUAAAAAAAAAAQIDBAUGEQASEyExBzJBgRQiQlFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANGsuvPVriXMr3Jj+M1txp41mqIxHHBG/ppZJFjQH/OpxxjPUqPYPrzysflL5Ixi1Ry2S5GSsr1MNQaaCMsIWR1kR5G2FUAqra2SRrx54DObFMqp+u80WaGtuygvFTz06incj3GpDbCk7H3+2xybYlf4skxi1XqFDHHXU6z9vf0E+GX8EEcqOLJrTaLJBkRsGNQWuCaWpp5IKp3mj7qnpZUKAdRKDqXfjZ9a5PfjC52C64VQHFSwoKcdkwyjpkgk+pldfsSW3/RBGvHA55pe1x3GbpeZVBWjp2kVT/JtgKPyxHMvZxcq3I4JrzdEokqZ1SERUsfaErEbPcHskINb3vwOHDgQqOpqZqKKkLTtTlvFN3C6J68nY351rp355dfw/klJhEH66uhElLXRKtTIkQV4lWUKAp6v3BS7EqV3ojR8a4cOB//Z
 subTitle: Fotograf Tobias Hess im Interview
   
 ---

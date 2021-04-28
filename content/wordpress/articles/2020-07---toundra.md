@@ -1,16 +1,23 @@
 ---
-title: Toundra
-seoTitle: Toundra im Interview - "Musik ist Freiheit"
+date: 2020-07-23T10:56:24.000Z
 slug: toundra-interview
 path: /2020/07/toundra-interview/
-fileName: 2020-07---toundra.md
+type: Artikel
+typeName: Interview
+title: Toundra
+seoTitle: Toundra im Interview - "Musik ist Freiheit"
+ogTitle: Toundra im Interview - "Musik ist Freiheit"
 description: Die spanische Post-Rock Band Toundra hat den Stummfilm "Das Cabinet
   des Dr. Caligari" vertont. Ich habe sie jetzt im Interview unter anderem dazu
   befragt.
 excerpt: English & German - Die spanische Post-Rock Band Toundra hat den
   Stummfilm "Das Cabinet des Dr. Caligari" vertont. Ich habe sie jetzt im
   Interview unter anderem dazu befragt.
-focusKeyword: Toundra
+fileName: 2020-07---toundra.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_toundra__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_toundra__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQI/8QAKRAAAQQCAQEHBQEAAAAAAAAAAQIDBBEABSESBhMyQVFhgRQiMUKRof/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABkRAQEBAQEBAAAAAAAAAAAAAAEAESESYf/aAAwDAQACEQMRAD8A5oYYUsihjaNrCsA9JONNNtdRqNBuY8zXx5GzmJbajyX0lYjIslZQKoLPH3eVe+ap0+FB1y1JaekuuNWw4w50pacJtClV4hwrj++mb35Ye52U7PUOazcP6qew7G2LABcYdR0qTYB5+CD84ukQyi+Kzf2u7SSNr2mkbFtKWFqCbSEft0AKu7JJIPnlMvfR5yYTf0LcTuWS264g9RecKirrVxf4NVzQGQuGyhr5eSRxSugJVd+hyWlOpaQXO87q6SQOOOaHlxf+4YY0mlWtRLh97JyknxDDDCb/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_toundra-fb.png__l.jpg
 labels:
   - Bands
   - English & German
@@ -26,17 +33,12 @@ labels:
   - Post-Rock
   - Ten Minute Man
   - Toundra
-type: Artikel
-typeName: Interview
-date: 2020-07-23T10:56:24.000Z
+focusKeyword: Toundra
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30615"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_toundra__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_toundra__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQI/8QAKRAAAQQCAQEHBQEAAAAAAAAAAQIDBBEABSESBhMyQVFhgRQiMUKRof/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABkRAQEBAQEBAAAAAAAAAAAAAAEAESESYf/aAAwDAQACEQMRAD8A5oYYUsihjaNrCsA9JONNNtdRqNBuY8zXx5GzmJbajyX0lYjIslZQKoLPH3eVe+ap0+FB1y1JaekuuNWw4w50pacJtClV4hwrj++mb35Ye52U7PUOazcP6qew7G2LABcYdR0qTYB5+CD84ukQyi+Kzf2u7SSNr2mkbFtKWFqCbSEft0AKu7JJIPnlMvfR5yYTf0LcTuWS264g9RecKirrVxf4NVzQGQuGyhr5eSRxSugJVd+hyWlOpaQXO87q6SQOOOaHlxf+4YY0mlWtRLh97JyknxDDDCb/2Q==
 subTitle: '"Musik ist Freiheit"'
   
 ---

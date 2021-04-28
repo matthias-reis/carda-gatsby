@@ -1,14 +1,21 @@
 ---
-title: Das Minimalismus-Projekt
-seoTitle: '"Das Minimalismus-Projekt" - das neue Buch von Christof Herrmann'
+date: 2020-09-15T13:23:18.000Z
 slug: das-minimalismus-projekt
 path: /2020/09/das-minimalismus-projekt/
-fileName: 2020-09---das-minimalismus-projekt.md
+type: Artikel
+typeName: Rezension
+title: Das Minimalismus-Projekt
+seoTitle: '"Das Minimalismus-Projekt" - das neue Buch von Christof Herrmann'
+ogTitle: '"Das Minimalismus-Projekt" - das neue Buch von Christof Herrmann'
 description: Christof Herrmann kenne ich schon länger über seinen Blog "Einfach
   Bewusst". Jetzt hat er sein Buch "Das Minimalismus-Projekt" veröffentlicht.
 excerpt: Christof Herrmann kenne ich schon länger über seinen Blog "Einfach
   Bewusst". Jetzt hat er sein Buch "Das Minimalismus-Projekt" veröffentlicht.
-focusKeyword: Minimalismus
+fileName: 2020-09---das-minimalismus-projekt.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-15-das-minimalismus-projekt-01__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-15-das-minimalismus-projekt-01__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAGBAX/xAAoEAACAgEEAgAFBQAAAAAAAAABAgMEBQARITEGEhMVQWGhIkRRcbL/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwL/xAAjEQABAwMDBQEAAAAAAAAAAAABAAIRAyHBElGhBDFBYZHR/9oADAMBAAIRAxEAPwAyo06M+MpyVZ0mYzVvYFfVkJtRjYjc7dnSLdryVM3aqJBjmihbYCWsC23qD2e+TrEeKrE9cxkBipxbKev3Cbn8aWXq18h57kYrTmOnE7TWZB2sSIC233PCj7toVMBjdAvG/u+VvrQTVnfFsLx8JQTJ5tKljH4oL8J5faKsA4K7bc9dn6ayefwiN5ZjlEY3WibD+q9kmQ8/z0NKfjN85Tyy1bkVI0WjIIoU4WGMFQqD+h+dzrJ5BlHmVskBhBioYuT0WRd/9HSqN/qGe8DyR+4Rj4gtmu8Xx54CrSVE2Uk7LHMH72H0GmFa+Gu2rlyS/YWa3zIqWkVTyp25HX6R3q1ahUZOoAxPFoVarySCV30vlGGktW61+SaV67xekk8ZGx54AA54GjOHM2YLGVuZWWN7NiBY1MQ2HC7AEcbcBdWrS6DBCOHHnBGV/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_minimalismus.png__l.jpg
 labels:
   - Achtsamkeit
   - Achtsamkeit
@@ -27,17 +34,12 @@ labels:
   - Nachhaltigkeit
   - Rageber
   - Zero Waste
-type: Artikel
-typeName: Rezension
-date: 2020-09-15T13:23:18.000Z
+focusKeyword: Minimalismus
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31316"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-15-das-minimalismus-projekt-01__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-15-das-minimalismus-projekt-01__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAGBAX/xAAoEAACAgEEAgAFBQAAAAAAAAABAgMEBQARITEGEhMVQWGhIkRRcbL/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwL/xAAjEQABAwMDBQEAAAAAAAAAAAABAAIRAyHBElGhBDFBYZHR/9oADAMBAAIRAxEAPwAyo06M+MpyVZ0mYzVvYFfVkJtRjYjc7dnSLdryVM3aqJBjmihbYCWsC23qD2e+TrEeKrE9cxkBipxbKev3Cbn8aWXq18h57kYrTmOnE7TWZB2sSIC233PCj7toVMBjdAvG/u+VvrQTVnfFsLx8JQTJ5tKljH4oL8J5faKsA4K7bc9dn6ayefwiN5ZjlEY3WibD+q9kmQ8/z0NKfjN85Tyy1bkVI0WjIIoU4WGMFQqD+h+dzrJ5BlHmVskBhBioYuT0WRd/9HSqN/qGe8DyR+4Rj4gtmu8Xx54CrSVE2Uk7LHMH72H0GmFa+Gu2rlyS/YWa3zIqWkVTyp25HX6R3q1ahUZOoAxPFoVarySCV30vlGGktW61+SaV67xekk8ZGx54AA54GjOHM2YLGVuZWWN7NiBY1MQ2HC7AEcbcBdWrS6DBCOHHnBGV/9k=
 subTitle: Neuer Ratgeber von Christof Herrmann
   
 ---

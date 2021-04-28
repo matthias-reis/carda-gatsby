@@ -1,15 +1,22 @@
 ---
-title: Neues von Snoop Dog
-seoTitle: "Neues von Snoop Dog - seine vegane Marke spendet für #Blacklivesmatter"
+date: 2020-06-10T07:10:57.000Z
 slug: snoop-dog-outstanding-foods
 path: /2020/06/snoop-dog-outstanding-foods/
-fileName: 2020-06---neues-von-snoop-dog.md
+type: Artikel
+typeName: Artikel
+title: Neues von Snoop Dog
+seoTitle: "Neues von Snoop Dog - seine vegane Marke spendet für #Blacklivesmatter"
+ogTitle: "Neues von Snoop Dog - seine vegane Marke spendet für #Blacklivesmatter"
 description: Snoop Dog spendete jetzt mit seiner veganen Lebensmittelmarke über
   20.000 Dollar für Hilfsorganisationen, die sich gegen Rassismus einsetzen.
 excerpt: Rapper Snoop Dog spendete jetzt mit seiner veganen Lebensmittelmarke
   über 20.000 Dollar für Hilfsorganisationen, die sich gegen Rassismus
   einsetzen.
-focusKeyword: Snoop Dog
+fileName: 2020-06---neues-von-snoop-dog.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_snoop-dog__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_snoop-dog__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAX/xAAoEAACAQMDBAEEAwAAAAAAAAABAgMEBREABhIHITFBIhMUMlFhcZH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAgP/xAAlEQACAQMDAgcAAAAAAAAAAAABAhEAA1ESIUEEsQUUMmFxgcH/2gAMAwEAAhEDEQA/AGmjtdVc9o1Vrs4lUR3GGEJS1H27LTq6NKquGXGQW9jzqZ7w3Em3bnbaGmrIDdoYaZKqqIFUoMUKLwDE/LuG7g+R3OnDflwsezundStj3fXXGpllWBUnqomZ0c4k/BASQmcEnzj+tSaoo6IWqZ7xDdKOfhKsTfZMI3Y4wWVlyuVAzxOM4x7zloVVi4YPFIKuXgLOaeLHvOe2irp6eujuMla0ZE0cf0oI3BBckY48iPJ9kE+9W9KPbu49s2dLrTNXU8cIEfyeMZzxbuGXIyP8/jWTt1zWmx1VNBtNnEU0RjqYGYfKNXyASCcs/wAskgYGMDGtb9OK4XnZtqmaGBgtPFFEUIkJRUXGf0fOR6xqm22UyKjTHqEHHap3WJbErhRVW3Irvc7hT/WjVFhSKNVd2YlJTxHbjkgdyAfOn+nuFTc9l0UohgiuskaQyxGXm0bjIIyP1jyR60aNR4jZW5bBbcn4zH5T7B0srffes8dSelt9oL49zeWa53G5z8okjj7sQAT3J8AesYwPI1yLTvG+W+0ptG6xCkpzIKoLICjHEnIkkYIyQfB8Z0aNFRmRDbmQJxwPam+XtlU6kCGJE43aOa//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_snoop-dog-vegan-fb.png__l.jpg
 labels:
   - Black Live Matter
   - Blacklivesmatter
@@ -18,17 +25,12 @@ labels:
   - Outstanding Foods
   - Snoop Dog
   - vegan celebrities
-type: Artikel
-typeName: Artikel
-date: 2020-06-10T07:10:57.000Z
+focusKeyword: Snoop Dog
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29965"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_snoop-dog__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_snoop-dog__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAX/xAAoEAACAQMDBAEEAwAAAAAAAAABAgMEBREABhIHITFBIhMUMlFhcZH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAgP/xAAlEQACAQMDAgcAAAAAAAAAAAABAhEAA1ESIUEEsQUUMmFxgcH/2gAMAwEAAhEDEQA/AGmjtdVc9o1Vrs4lUR3GGEJS1H27LTq6NKquGXGQW9jzqZ7w3Em3bnbaGmrIDdoYaZKqqIFUoMUKLwDE/LuG7g+R3OnDflwsezundStj3fXXGpllWBUnqomZ0c4k/BASQmcEnzj+tSaoo6IWqZ7xDdKOfhKsTfZMI3Y4wWVlyuVAzxOM4x7zloVVi4YPFIKuXgLOaeLHvOe2irp6eujuMla0ZE0cf0oI3BBckY48iPJ9kE+9W9KPbu49s2dLrTNXU8cIEfyeMZzxbuGXIyP8/jWTt1zWmx1VNBtNnEU0RjqYGYfKNXyASCcs/wAskgYGMDGtb9OK4XnZtqmaGBgtPFFEUIkJRUXGf0fOR6xqm22UyKjTHqEHHap3WJbErhRVW3Irvc7hT/WjVFhSKNVd2YlJTxHbjkgdyAfOn+nuFTc9l0UohgiuskaQyxGXm0bjIIyP1jyR60aNR4jZW5bBbcn4zH5T7B0srffes8dSelt9oL49zeWa53G5z8okjj7sQAT3J8AesYwPI1yLTvG+W+0ptG6xCkpzIKoLICjHEnIkkYIyQfB8Z0aNFRmRDbmQJxwPam+XtlU6kCGJE43aOa//2Q==
 subTitle: 20.000 Dollar gegen Rassismus
   
 ---

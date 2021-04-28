@@ -1,15 +1,22 @@
 ---
-title: '"Warum wir Hunde lieben, Schweine essen und Kühe anziehen"'
-seoTitle: Buchtipp - "Warum wir Hunde lieben, Schweine essen und Kühe anziehen"
+date: 2019-03-04T15:48:11.000Z
 slug: warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen
 path: /2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/
-fileName: 2019-03---warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen.md
+type: Artikel
+typeName: Rezension
+title: '"Warum wir Hunde lieben, Schweine essen und Kühe anziehen"'
+seoTitle: Buchtipp - "Warum wir Hunde lieben, Schweine essen und Kühe anziehen"
+ogTitle: Buchtipp - "Warum wir Hunde lieben, Schweine essen und Kühe anziehen"
 description: Melanie Joy hat mit "Warum wir Hunde lieben, Schweine essen und
   Kühe anziehen" das Fachbuch überhaupt zum Thema Karnismus erschaffen.
 excerpt: Affiliate Link - Melanie Joy hat mit "Warum wir Hunde lieben, Schweine
   essen und Kühe anziehen" das Fachbuch überhaupt zum Thema Karnismus
   erschaffen.
-focusKeyword: Warum wir Hunde lieben, Schweine essen und Kühe anziehen
+fileName: 2019-03---warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-03-warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-03-warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcFBggD/8QAKRAAAgIBAwMEAQUBAAAAAAAAAQIDBBEABSEGEjETFEFRIgcXMnGBgv/EABcBAQEBAQAAAAAAAAAAAAAAAAIEAwX/xAAkEQACAgAFAwUAAAAAAAAAAAABAgARAwQSIUExUZFhcaHR8P/aAAwDAQACEQMRAD8Aitj2aciokNeIRSThZhGFyQWGAf8Aktpw2OltqrwMu07RWa3G/wDFoS3qL4K9xPHkc5+DpW9G2KlVdvRJXl9xOo4UKF5VM+f606N2drFWP3NmKjGkuUk912AtzgEFcH54zriaSVJrfx8mVYLU9Btv3ErHVnTyNRrpQr0qEsqok8voMwjkBB47vI+Ac8edZ86vtHcZ3jq1Iy8RdjJB3sw7WII+iAefvnWqtyVp+mJqxlWaH2rtHYWclyQhZXBAA84/zSI3CpXXYfbV7kUlmCPvSXJGOSSVJGPnGmqhSCx61tDmX10vI5kP05u4gqR3paiEQSGUqqFSpUq3ODxn8ufHGrWv6g7RunY15Em9IlkjsWoiq5PJwVwf9zj40aNaqg3lOUVGDMy35+50/cfbdtoNUp4Ff03Cxe8jKjuB8fjn5+/jVO3e3Tq15iBK0aoEI7wMr44OPtRzzxo0aQQAE9oM7hoGShV+/p3n/9k=
+ogImage: null
 labels:
   - Apathie
   - Bücher & Filme
@@ -31,17 +38,12 @@ labels:
   - vegan werden
   - Veganismus
   - Warum wir Hunde lieben
-type: Artikel
-typeName: Rezension
-date: 2019-03-04T15:48:11.000Z
+focusKeyword: Warum wir Hunde lieben, Schweine essen und Kühe anziehen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "23717"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-03-warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen-2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-03-warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen-2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcFBggD/8QAKRAAAgIBAwMEAQUBAAAAAAAAAQIDBBEABSEGEjETFEFRIgcXMnGBgv/EABcBAQEBAQAAAAAAAAAAAAAAAAIEAwX/xAAkEQACAgAFAwUAAAAAAAAAAAABAgARAwQSIUExUZFhcaHR8P/aAAwDAQACEQMRAD8Aitj2aciokNeIRSThZhGFyQWGAf8Aktpw2OltqrwMu07RWa3G/wDFoS3qL4K9xPHkc5+DpW9G2KlVdvRJXl9xOo4UKF5VM+f606N2drFWP3NmKjGkuUk912AtzgEFcH54zriaSVJrfx8mVYLU9Btv3ErHVnTyNRrpQr0qEsqok8voMwjkBB47vI+Ac8edZ86vtHcZ3jq1Iy8RdjJB3sw7WII+iAefvnWqtyVp+mJqxlWaH2rtHYWclyQhZXBAA84/zSI3CpXXYfbV7kUlmCPvSXJGOSSVJGPnGmqhSCx61tDmX10vI5kP05u4gqR3paiEQSGUqqFSpUq3ODxn8ufHGrWv6g7RunY15Em9IlkjsWoiq5PJwVwf9zj40aNaqg3lOUVGDMy35+50/cfbdtoNUp4Ff03Cxe8jKjuB8fjn5+/jVO3e3Tq15iBK0aoEI7wMr44OPtRzzxo0aQQAE9oM7hoGShV+/p3n/9k=
 subTitle: Buch von Melanie Joy
   
 ---

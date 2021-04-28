@@ -1,16 +1,23 @@
 ---
-title: Fleischfreie Ernährung
-seoTitle: Fleischfreie Ernährung - neuer Unterricht in Neuseelands Schulen
+date: 2020-06-04T09:42:23.000Z
 slug: fleischfreie-ernaehrung-neuseeland
 path: /2020/06/fleischfreie-ernaehrung-neuseeland/
-fileName: 2020-06---fleischfreie-ernaehrung.md
+type: Artikel
+typeName: Artikel
+title: Fleischfreie Ernährung
+seoTitle: Fleischfreie Ernährung - neuer Unterricht in Neuseelands Schulen
+ogTitle: Fleischfreie Ernährung - neuer Unterricht in Neuseelands Schulen
 description: Fleischfreie Ernährung und Klimaschutz steht jetzt in Neuseelands
   Sekundarschulen fest auf dem Stundenplan. Die Initiative ist Teil eines neuen
   Programms.
 excerpt: Fleischfreie Ernährung und Klimaschutz steht jetzt in Neuseelands
   Sekundarschulen fest auf dem Stundenplan. Die Initiative ist Teil eines neuen
   Programms.
-focusKeyword: fleischfreie Ernährung
+fileName: 2020-06---fleischfreie-ernaehrung.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_fleischfreie-ernaehrung__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_fleischfreie-ernaehrung__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAArEAACAQMDAwMCBwAAAAAAAAABAgMEBREABhIhMUETIoEHURQjMmFxscH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQAC/8QAHBEAAgMBAAMAAAAAAAAAAAAAAAECAxEhBDFx/9oADAMBAAIRAxEAPwDBsiPMFLkgMEUfOAf91a9uUivajkYZSeo1C9sbitkECpLLHFnvyB7gkj+8fGnal+odFTbiskUP4xqMGZ5kp2QRzErxAIcjITBboe5+NBY9foOt9GO6UUkU2QuEGcHwf4++phv6FFKsD0J6/bXcXftnbct6rKiiCTvF6PFKw1CFYyPTfgD7S3JvGMAde+lLct/obgF/PKDGfeMfOpVumlInlPE8EccrpJl/0q6EY8ee+u9b6KKsvNtStlUGBJFbOcgtgL0I64OTo0aO2Tbz6GnhpqbHa7ff7hVwTz1C1SAKw4hVfl7u3gLjH7nSlcnjjdwjBVyfby86NGuvHk2usr6f/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_fleischfreie-ernaehrung-fb.png__l.jpg
 labels:
   - Ernährung
   - Ernährung & Gesundheit
@@ -19,17 +26,12 @@ labels:
   - Neuseeland
   - vegan
   - vegane Ernährung
-type: Artikel
-typeName: Artikel
-date: 2020-06-04T09:42:23.000Z
+focusKeyword: fleischfreie Ernährung
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29892"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_fleischfreie-ernaehrung__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_fleischfreie-ernaehrung__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAArEAACAQMDAwMCBwAAAAAAAAABAgMEBREABhIhMUETIoEHURQjMmFxscH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQAC/8QAHBEAAgMBAAMAAAAAAAAAAAAAAAECAxEhBDFx/9oADAMBAAIRAxEAPwDBsiPMFLkgMEUfOAf91a9uUivajkYZSeo1C9sbitkECpLLHFnvyB7gkj+8fGnal+odFTbiskUP4xqMGZ5kp2QRzErxAIcjITBboe5+NBY9foOt9GO6UUkU2QuEGcHwf4++phv6FFKsD0J6/bXcXftnbct6rKiiCTvF6PFKw1CFYyPTfgD7S3JvGMAde+lLct/obgF/PKDGfeMfOpVumlInlPE8EccrpJl/0q6EY8ee+u9b6KKsvNtStlUGBJFbOcgtgL0I64OTo0aO2Tbz6GnhpqbHa7ff7hVwTz1C1SAKw4hVfl7u3gLjH7nSlcnjjdwjBVyfby86NGuvHk2usr6f/9k=
 subTitle: Neuseelands Schulen gegen den Klimawandel
   
 ---

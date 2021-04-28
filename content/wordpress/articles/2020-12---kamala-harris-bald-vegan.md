@@ -1,15 +1,22 @@
 ---
-title: Kamala Harris bald vegan?
-seoTitle: Kamala Harris bald vegan? Petition fordert Vize-Präsidentin heraus
+date: 2020-12-17T11:12:22.000Z
 slug: kamala-harris-bald-vegan
 path: /2020/12/kamala-harris-bald-vegan/
-fileName: 2020-12---kamala-harris-bald-vegan.md
+type: Artikel
+typeName: Artikel
+title: Kamala Harris bald vegan?
+seoTitle: Kamala Harris bald vegan? Petition fordert Vize-Präsidentin heraus
+ogTitle: Kamala Harris bald vegan? Petition fordert Vize-Präsidentin heraus
 description: Die gewählte Vize-Präsidentin der USA Kamala Harris soll sich ab
   Januar 2021 vegan ernähren. Das fordert eine kürzlich veröffentlichte
   Petition.
 excerpt: Die gewählte Vize-Präsidentin der USA Kamala Harris soll sich ab Januar
   2021 vegan ernähren. Das fordert eine kürzlich veröffentlichte Petition.
-focusKeyword: Kamala Harris
+fileName: 2020-12---kamala-harris-bald-vegan.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_kamala-harris-wikimedia-commons__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_kamala-harris-wikimedia-commons__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAHBQj/xAAqEAABBAEDAwIGAwAAAAAAAAABAgMEEQUAEiEGEzEHQRQVIiMyUWGBsf/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EACIRAAIBAwIHAAAAAAAAAAAAAAECAAMEESExEiIjQYGh0f/aAAwDAQACEQMRAD8AeZ+d8rkRQ/kIOPxbrZC3XgpLoc5KUpPAAISrjzxoiz1zEjYtuO5HhOZybk1w09+EF/aNLU8UirNGttjnz41kfqlmJSsP0/iXpanokd5SiEjg7aoWeTW9YF+LrRTKdSzMjMZkFSU/CvrfYCUhW0qq7v8AK9ou+Nb1mdWYA9hLVkIAI2M9KR3BnoOVgPqjpex7wa77McNhbRAWhRbBO0kWCAaNWPNaDvxg4qm0lalcAJFk/wBavTMzGOsHVZBzuKy0dGQYfaa7bTsdKSBSfAojaR7c67iXXGc628zIZZdQ+FJfbA2IN/kB4rSbRy1IcW8HUVUuGVNAdYOxMeNlpcSI7jo+QdQsr7LtLSdvmj/IH+azbruVCmdZ5aTh4bcGAt6mo7SQlKAkBJoAACyCa9r1atDruWfBGwHvPyJUYXzHfo9n5xKo778ZyNiojzUSO4PrqQ6hTlftILZNexWf3pc4oBJ8atWnWw6cORzkz//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_12_kamala-harris-wikimedia-commons-fb.png__l.jpg
 labels:
   - Antifaschismus & Feminismus
   - Ernährung & Gesundheit
@@ -17,17 +24,12 @@ labels:
   - USA
   - vegan
   - vegan celebrities
-type: Artikel
-typeName: Artikel
-date: 2020-12-17T11:12:22.000Z
+focusKeyword: Kamala Harris
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32116"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_kamala-harris-wikimedia-commons__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_kamala-harris-wikimedia-commons__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAHBQj/xAAqEAABBAEDAwIGAwAAAAAAAAABAgMEEQUAEiEGEzEHQRQVIiMyUWGBsf/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EACIRAAIBAwIHAAAAAAAAAAAAAAECAAMEESExEiIjQYGh0f/aAAwDAQACEQMRAD8AeZ+d8rkRQ/kIOPxbrZC3XgpLoc5KUpPAAISrjzxoiz1zEjYtuO5HhOZybk1w09+EF/aNLU8UirNGttjnz41kfqlmJSsP0/iXpanokd5SiEjg7aoWeTW9YF+LrRTKdSzMjMZkFSU/CvrfYCUhW0qq7v8AK9ou+Nb1mdWYA9hLVkIAI2M9KR3BnoOVgPqjpex7wa77McNhbRAWhRbBO0kWCAaNWPNaDvxg4qm0lalcAJFk/wBavTMzGOsHVZBzuKy0dGQYfaa7bTsdKSBSfAojaR7c67iXXGc628zIZZdQ+FJfbA2IN/kB4rSbRy1IcW8HUVUuGVNAdYOxMeNlpcSI7jo+QdQsr7LtLSdvmj/IH+azbruVCmdZ5aTh4bcGAt6mo7SQlKAkBJoAACyCa9r1atDruWfBGwHvPyJUYXzHfo9n5xKo778ZyNiojzUSO4PrqQ6hTlftILZNexWf3pc4oBJ8atWnWw6cORzkz//Z
 subTitle: Petition fordert Vize-Präsidentin heraus
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: Cowspiracy
-seoTitle: Cowspiracy - eine ganz besondere vegane Doku
+date: 2020-04-07T15:30:58.000Z
 slug: cowspiracy-vegane-doku
 path: /2020/04/cowspiracy-vegane-doku/
-fileName: 2020-04---cowspiracy.md
+type: Artikel
+typeName: Filmtipp
+title: Cowspiracy
+seoTitle: Cowspiracy - eine ganz besondere vegane Doku
+ogTitle: Cowspiracy - eine ganz besondere vegane Doku
 description: Heute möchte ich Euch eine vegane Doku vorstellen, die zu einer
   Bewegung geworden ist. Cowspiracy ist für mich eine der wichtigsten Filme
   seiner Art.
 excerpt: Heute möchte ich Euch eine vegane Doku vorstellen, die zu einer
   Bewegung geworden ist. Cowspiracy ist für mich eine der wichtigsten Filme
   seiner Art.
-focusKeyword: vegane Doku
+fileName: 2020-04---cowspiracy.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_cowspiracy220-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_cowspiracy220-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAACAADBQcJ/8QAKxAAAgEDBAAEBQUAAAAAAAAAAQIDBAURAAYSIQcUIkETFTFRYXGBkaHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwABAv/EAB0RAQACAwADAQAAAAAAAAAAAAEAAgMRIRIxQVH/2gAMAwEAAhEDEQA/AEruqp8ntm7VRrWt4gpJZTVrGJDAFQkyBSDy4gZx740eL74r3O13Wjp7FvmPcVNLTCpefyNPGsfJuKocern0SQQCBj76QO9VWTaF8ikjWVHoZ1MbZw4MbddYPf415+7Mtk7VC3FKPNMmGPxSFjOSPTkn39s/UA6XCFrhb1BzrWij2KOweLtZLS1jXa82SilgdFjjqqeQtMrKTyURMSQMHPXXX313KhlM9FTysyMzxqxZAQpyAcjPeP10IdhfKV3tbae+WXz8dc6rbxNXNDCPWVXlhW5qWHH6YyMffTat0gMIT6FDjGMYGuMqGRofJYVaDZmO60/mKWeLGfiROn8qR/ugzQ7c3LXbepLc2374ghZWIjtkiksF4jJK+2W7/OrVo/Ee/kSzomy214dboqN1WBZbBuCKCnqoFE09KUiiiWbmxLY67LH99NmCNhK7YwGYn+9WrWb29kHJ/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_04_cowspiracy-fb.png__l.jpg
 labels:
   - Bücher & Filme
   - Cowspiracy
@@ -20,17 +27,12 @@ labels:
   - Tierrechte
   - Tierschutz
   - vegane Doku
-type: Artikel
-typeName: Filmtipp
-date: 2020-04-07T15:30:58.000Z
+focusKeyword: vegane Doku
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "28889"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_cowspiracy220-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_cowspiracy220-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAACAADBQcJ/8QAKxAAAgEDBAAEBQUAAAAAAAAAAQIDBAURAAYSIQcUIkETFTFRYXGBkaHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwABAv/EAB0RAQACAwADAQAAAAAAAAAAAAEAAgMRIRIxQVH/2gAMAwEAAhEDEQA/AEruqp8ntm7VRrWt4gpJZTVrGJDAFQkyBSDy4gZx740eL74r3O13Wjp7FvmPcVNLTCpefyNPGsfJuKocern0SQQCBj76QO9VWTaF8ikjWVHoZ1MbZw4MbddYPf415+7Mtk7VC3FKPNMmGPxSFjOSPTkn39s/UA6XCFrhb1BzrWij2KOweLtZLS1jXa82SilgdFjjqqeQtMrKTyURMSQMHPXXX313KhlM9FTysyMzxqxZAQpyAcjPeP10IdhfKV3tbae+WXz8dc6rbxNXNDCPWVXlhW5qWHH6YyMffTat0gMIT6FDjGMYGuMqGRofJYVaDZmO60/mKWeLGfiROn8qR/ugzQ7c3LXbepLc2374ghZWIjtkiksF4jJK+2W7/OrVo/Ee/kSzomy214dboqN1WBZbBuCKCnqoFE09KUiiiWbmxLY67LH99NmCNhK7YwGYn+9WrWb29kHJ/9k=
 subTitle: Eine vegane Doku
   
 ---

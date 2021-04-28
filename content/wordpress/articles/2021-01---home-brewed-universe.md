@@ -1,16 +1,23 @@
 ---
-title: Home Brewed Universe
-seoTitle: Home Brewed Universe im Interview – Fear of an obtuse Earth
+date: 2021-01-03T12:13:52.000Z
 slug: home-brewed-universe-interview
 path: /2021/01/home-brewed-universe-interview/
-fileName: 2021-01---home-brewed-universe.md
+type: Artikel
+typeName: Interview
+title: Home Brewed Universe
+seoTitle: Home Brewed Universe im Interview – Fear of an obtuse Earth
+ogTitle: Home Brewed Universe im Interview – Fear of an obtuse Earth
 description: Am 25. Januar wird Arka Sengupta aka Home Brewed Universe sein
   fünftes Album "Fear of an obtuse Earth" veröffentlichen. Zeit für ein
   Interview.
 excerpt: English & German – Am 25. Januar wird Arka Sengupta aka Home Brewed
   Universe sein fünftes Album "Fear of an obtuse Earth" veröffentlichen. Zeit
   für ein Interview.
-focusKeyword: Home Brewed
+fileName: 2021-01---home-brewed-universe.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_home-brewed-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_home-brewed-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcFBggE/8QAKxAAAQMDBAEDAgcAAAAAAAAAAQIDBAUGEQASIUExBxNRCCIUIyRxgqKx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBqWlTEKZyoAgOK/wBOo71euWp25T6ZT7XbiN1OruOtIkSk7mo7baAVHHajuAGcjg6sloPfoJSuNidxCu85Olr9QMmmPU2NCmLZky2nlOfgkrCnQ2U7SvYMkDkc8Z61FMG3mKpR7UhzrylwJ0jelTr8Fj2kNtrCUp7wvacZUAOD44yeS5KNsLyvKFA4GPB571AWVdtDrFlrn1SWwqfIK2pEeK8QXi0VJbBaJOxRSE9AHg841d667upDfucOYOQVZOcfPegW9TvRu3/TurVBt3a+iOv2c+C4ftR/YjWSaNPmivNSmaiqPOWslUt1w5yc5KlHOc95znOjRoLXZtakQLynCVNZkSJrLiRJSAv80p+0lWARj48D41oqj3cuuem9JqEpZEoxy1JJ8h5vKFk/uU7v5aNGg//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_12_home-brewed-fb.png__l.jpg
 labels:
   - Ambient
   - Arka Sengupta
@@ -26,17 +33,12 @@ labels:
   - Post-Metal
   - Post-Rock
   - Prog
-type: Artikel
-typeName: Interview
-date: 2021-01-03T12:13:52.000Z
+focusKeyword: Home Brewed
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32220"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_home-brewed-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_home-brewed-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcFBggE/8QAKxAAAQMDBAEDAgcAAAAAAAAAAQIDBAUGEQASIUExBxNRCCIUIyRxgqKx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBqWlTEKZyoAgOK/wBOo71euWp25T6ZT7XbiN1OruOtIkSk7mo7baAVHHajuAGcjg6sloPfoJSuNidxCu85Olr9QMmmPU2NCmLZky2nlOfgkrCnQ2U7SvYMkDkc8Z61FMG3mKpR7UhzrylwJ0jelTr8Fj2kNtrCUp7wvacZUAOD44yeS5KNsLyvKFA4GPB571AWVdtDrFlrn1SWwqfIK2pEeK8QXi0VJbBaJOxRSE9AHg841d667upDfucOYOQVZOcfPegW9TvRu3/TurVBt3a+iOv2c+C4ftR/YjWSaNPmivNSmaiqPOWslUt1w5yc5KlHOc95znOjRoLXZtakQLynCVNZkSJrLiRJSAv80p+0lWARj48D41oqj3cuuem9JqEpZEoxy1JJ8h5vKFk/uU7v5aNGg//Z
 subTitle: '"Fear of an obtuse Earth"'
   
 ---

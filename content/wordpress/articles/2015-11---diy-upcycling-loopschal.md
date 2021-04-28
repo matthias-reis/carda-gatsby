@@ -1,15 +1,22 @@
 ---
-title: DIY Upcycling Loopschal
-seoTitle: DIY Upcycling Loopschal
+date: 2015-11-13T17:00:25.000Z
 slug: diy-upcycling-loopschal
 path: /2015/11/diy-upcycling-loopschal/
-fileName: 2015-11---diy-upcycling-loopschal.md
+type: Artikel
+typeName: Artikel
+title: DIY Upcycling Loopschal
+seoTitle: DIY Upcycling Loopschal
+ogTitle: DIY Upcycling Loopschal
 description: Wie Ihr im Handumdrehen aus einer alten Strickjacke einen trendy
   Loopschal machen könnt, zeige ich Euch heute in meiner Nähanleitung.
 excerpt: Langsam wird es richtig winterlich draußen. Höchste Zeit für einen
   kuscheligen Loopschal. Dazu braucht Ihr nur ein paar Kleinigkeiten aus Eurem
   Kleiderschrank.
-focusKeyword: Loopschal
+fileName: 2015-11---diy-upcycling-loopschal.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22986784925_d9b31d0645_z-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22986784925_d9b31d0645_z-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEBQP/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiExQVEGExQHImEVI1KBof/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBQQG/8QAJBEAAQMDAwQDAAAAAAAAAAAAAQACAwURIQRR8BIxcZFBoeH/2gAMAwEAAhEDEQA/ABnqW3NebrHRUB9qCkfEzDB+9l5x5xwMdDzzzrzsN4uFrqKipttdalkipQ7pFh1ncZ4JbxnkDHfB4xodPXNT1O6ateGGSYylxGcvlgThhxnAxgjvrbaZLdV0nx2r51jST3P2IEGQGJBO7Jzz/XbvqTFo7xhhyOXXVTVWJgAYCN899scv4SdfXl+v1XTw/NNGm/2pZYVjVE2DdIQuCTx0z513LJeqa+1VXRzTUzSoE+PINqNPkEsNoJG4Yzx586KXKO01Bk99LhI8nUmo2Fj2LKmFPU/k60+iLCLvfD+nL8KgpAsk8yuSyKpyqBjySTwMfk6CenwtiLnWaBtzO36kNqvU5rIwXEnx9D3dGvV1HTwI/wAZXjAbG0tkA9iOOP8AdFKKvkjmjqIlVJV4JA4YdDkatWtehJMeVOqLQJMLs1VdNIgyxUn+Jxpj9NqUxCsu8kzvKhaljjX7VAIBJPn8Dt11atBUnEQ2HymUqNrpC4jI7eiv/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22986784925_d9b31d0645_z-1__l.jpg
 labels:
   - diy
   - Fair Fashion & Beauty
@@ -18,17 +25,12 @@ labels:
   - selbermachen
   - selbstgenäht
   - Upcyling
-type: Artikel
-typeName: Artikel
-date: 2015-11-13T17:00:25.000Z
+focusKeyword: Loopschal
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "13096"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22986784925_d9b31d0645_z-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22986784925_d9b31d0645_z-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEBQP/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiExQVEGExQHImEVI1KBof/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBQQG/8QAJBEAAQMDAwQDAAAAAAAAAAAAAQACAwURIQRR8BIxcZFBoeH/2gAMAwEAAhEDEQA/ABnqW3NebrHRUB9qCkfEzDB+9l5x5xwMdDzzzrzsN4uFrqKipttdalkipQ7pFh1ncZ4JbxnkDHfB4xodPXNT1O6ateGGSYylxGcvlgThhxnAxgjvrbaZLdV0nx2r51jST3P2IEGQGJBO7Jzz/XbvqTFo7xhhyOXXVTVWJgAYCN899scv4SdfXl+v1XTw/NNGm/2pZYVjVE2DdIQuCTx0z513LJeqa+1VXRzTUzSoE+PINqNPkEsNoJG4Yzx586KXKO01Bk99LhI8nUmo2Fj2LKmFPU/k60+iLCLvfD+nL8KgpAsk8yuSyKpyqBjySTwMfk6CenwtiLnWaBtzO36kNqvU5rIwXEnx9D3dGvV1HTwI/wAZXjAbG0tkA9iOOP8AdFKKvkjmjqIlVJV4JA4YdDkatWtehJMeVOqLQJMLs1VdNIgyxUn+Jxpj9NqUxCsu8kzvKhaljjX7VAIBJPn8Dt11atBUnEQ2HymUqNrpC4jI7eiv/9k=
 subTitle: Kuschelig und angesagt
   
 ---

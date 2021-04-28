@@ -1,16 +1,23 @@
 ---
-title: lyra messier
-seoTitle: lyra messier im Interview - "Tanzmusik für Introvertierte"
+date: 2020-09-09T14:49:01.000Z
 slug: lyra-messier-interview
 path: /2020/09/lyra-messier-interview/
-fileName: 2020-09---lyra-messier.md
+type: Artikel
+typeName: Interview
+title: lyra messier
+seoTitle: lyra messier im Interview - "Tanzmusik für Introvertierte"
+ogTitle: lyra messier im Interview - "Tanzmusik für Introvertierte"
 description: Die hochtalentierte Ambient-Künstlerin lyra messier hat vor Kurzem
   ihr Album veröffentlicht. Im Interview hat sie mir einen Einblick in ihre
   Musik gegeben.
 excerpt: English & German - Die hochtalentierte Ambient-Künstlerin lyra messier
   hat vor Kurzem ihr Album veröffentlicht. Im Interview hat sie mir einen
   Einblick in ihre Musik gegeben.
-focusKeyword: lyra messier
+fileName: 2020-09---lyra-messier.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lyra-messier-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lyra-messier-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAFBP/EACwQAAIBAgUDAwIHAAAAAAAAAAECAwQRAAUSEyEGMVEUInEHoSMyQWGBwfD/xAAZAQACAwEAAAAAAAAAAAAAAAADBAABAgb/xAAeEQADAAIBBQAAAAAAAAAAAAAAAQIRIQMEEkFRwf/aAAwDAQACEQMRAD8AyPSyxinKPuyBjfbFwR8+b476eTcfZq42jEdyysxHx8jGZk1Q6wMaiZY3jkKuUN7nwB255ucaC14/FNYyLTKCXdxe6+OP9zhU7bxk5/qT1JT5bk1KlPCs1QeQGHPPAB/Y2J/gYMZMK+qozX18M8ssgjRtBD8cXAAPtGm2okgntg51Tm0lf1JTS0PsdJrxo5BXSAB2Pfi+EaZtt5HUpU07Uz00Y3HVrRFWe5PkNx3N+L43jCE5tVb3pBeLPK2oQrT0suouSePaLm9v7wuz7Lol6elmXMtqohswjlZdqzWDa3C/mU6TYXABAv8ArixYt6YLjbvidUwavTSzUaSZhUmWoqC3pHpQJFYrwLltI0knnm4+2Lp/puoOfyQVlNMtHDEzyRyRnRIyglA3YFdXg/bnFixO5g56aKpN+/mT/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lyra-messier-fb.png__l.jpg
 labels:
   - Achilles De Raedt
   - Ambient
@@ -22,17 +29,12 @@ labels:
   - Interviews
   - lyra messier
   - Music
-type: Artikel
-typeName: Interview
-date: 2020-09-09T14:49:01.000Z
+focusKeyword: lyra messier
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31256"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lyra-messier-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lyra-messier-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAFBP/EACwQAAIBAgUDAwIHAAAAAAAAAAECAwQRAAUSEyEGMVEUInEHoSMyQWGBwfD/xAAZAQACAwEAAAAAAAAAAAAAAAADBAABAgb/xAAeEQADAAIBBQAAAAAAAAAAAAAAAQIRIQMEEkFRwf/aAAwDAQACEQMRAD8AyPSyxinKPuyBjfbFwR8+b476eTcfZq42jEdyysxHx8jGZk1Q6wMaiZY3jkKuUN7nwB255ucaC14/FNYyLTKCXdxe6+OP9zhU7bxk5/qT1JT5bk1KlPCs1QeQGHPPAB/Y2J/gYMZMK+qozX18M8ssgjRtBD8cXAAPtGm2okgntg51Tm0lf1JTS0PsdJrxo5BXSAB2Pfi+EaZtt5HUpU07Uz00Y3HVrRFWe5PkNx3N+L43jCE5tVb3pBeLPK2oQrT0suouSePaLm9v7wuz7Lol6elmXMtqohswjlZdqzWDa3C/mU6TYXABAv8ArixYt6YLjbvidUwavTSzUaSZhUmWoqC3pHpQJFYrwLltI0knnm4+2Lp/puoOfyQVlNMtHDEzyRyRnRIyglA3YFdXg/bnFixO5g56aKpN+/mT/9k=
 subTitle: '"Tanzmusik für Introvertierte"'
   
 ---

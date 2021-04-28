@@ -1,15 +1,22 @@
 ---
-title: Rosmarin-Ingwer-Sirup
-seoTitle: Rosmarin-Ingwer-Sirup - leicht und sommerlich frisch
+date: 2020-06-02T08:17:22.000Z
 slug: rosmarin-ingwer-sirup
 path: /2020/06/rosmarin-ingwer-sirup/
-fileName: 2020-06---rosmarin-ingwer-sirup.md
+type: Artikel
+typeName: Rezept
+title: Rosmarin-Ingwer-Sirup
+seoTitle: Rosmarin-Ingwer-Sirup - leicht und sommerlich frisch
+ogTitle: Rosmarin-Ingwer-Sirup - leicht und sommerlich frisch
 description: Rosmarin-Ingwer-Sirup fügt Eurem Wasser das gewisse Etwas hinzu.
   Ganz natürlich und in diesem Fall sogar kalorienarm. Ein Rezept mit
   Birkenzucker.
 excerpt: Rosmarin-Ingwer-Sirup fügt Eurem Wasser das gewisse Etwas hinzu. Ganz
   natürlich und in diesem Fall sogar kalorienarm. Ein Rezept mit Birkenzucker.
-focusKeyword: Rosmarin-Ingwer-Sirup
+fileName: 2020-06---rosmarin-ingwer-sirup.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-01-sirup-06__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-01-sirup-06__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYI/8QAKBAAAgEEAQIFBQEAAAAAAAAAAQIEAAMFERIhMQYiMkFRBxMUYZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGhEAAwADAQAAAAAAAAAAAAAAAAECAxESIf/aAAwDAQACEQMRAD8A6MsyuTa3SXibPx8Bi/zpZYWRet2jwUsxLtoAAAkn9AVXJINu8B169az/ANQ8jISFj2ho7XbctT5T1Ugg7A9yPasZL4l0KWzb4HLplsRHmoCguD0tsEH4IIBB+QRsHpTQlAtrdYvwnNmnGXbc9HWV99ySx9YOvN3PfdXMe83qJOjTD6lMGRvEdbiMg5a3vZ1VfksfevIpEYXnDlgOYGv73oopqU1pkmTwYchF21pbZ67Vm5H/ACnrEV1UctFh8dqKKZWvAZ//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_rosmarin-ingwer-sirup-fb.png__l.jpg
 labels:
   - Birkenzucker
   - Getränkesirup
@@ -22,17 +29,12 @@ labels:
   - Wasser mit Geschmack
   - Xucker
   - Xylit
-type: Artikel
-typeName: Rezept
-date: 2020-06-02T08:17:22.000Z
+focusKeyword: Rosmarin-Ingwer-Sirup
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29845"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-01-sirup-06__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-01-sirup-06__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYI/8QAKBAAAgEEAQIFBQEAAAAAAAAAAQIEAAMFERIhMQYiMkFRBxMUYZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGhEAAwADAQAAAAAAAAAAAAAAAAECAxESIf/aAAwDAQACEQMRAD8A6MsyuTa3SXibPx8Bi/zpZYWRet2jwUsxLtoAAAkn9AVXJINu8B169az/ANQ8jISFj2ho7XbctT5T1Ugg7A9yPasZL4l0KWzb4HLplsRHmoCguD0tsEH4IIBB+QRsHpTQlAtrdYvwnNmnGXbc9HWV99ySx9YOvN3PfdXMe83qJOjTD6lMGRvEdbiMg5a3vZ1VfksfevIpEYXnDlgOYGv73oopqU1pkmTwYchF21pbZ67Vm5H/ACnrEV1UctFh8dqKKZWvAZ//2Q==
 subTitle: Leicht und sommerlich frisch
   
 ---

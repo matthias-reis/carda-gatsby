@@ -1,15 +1,22 @@
 ---
-title: Wie die Seepferdchen das Schwimmen verlernten
-seoTitle: Wie die Seepferdchen das Schwimmen verlernten - Ein Gedicht
+date: 2017-03-01T20:00:27.000Z
 slug: flarf-gedicht-an-die-klimaerwaermung
 path: /2017/03/flarf-gedicht-an-die-klimaerwaermung/
-fileName: 2017-03---wie-die-seepferdchen-das-schwimmen-verlernten.md
+type: Artikel
+typeName: Gedicht
+title: Wie die Seepferdchen das Schwimmen verlernten
+seoTitle: Wie die Seepferdchen das Schwimmen verlernten - Ein Gedicht
+ogTitle: Wie die Seepferdchen das Schwimmen verlernten - Klimaerwärmung
 description: Seepferdchen stehen für Freiheit, Gelassenheit und Unabhängigkeit.
   Die Klimaerwärmung bringt uns nur Schwefeldioxid, Stickoxide und Ammoniak.
-excerpt: "Seepferdchen stehen für Freiheit, Gelassenheit und Unabhängigkeit.\r
-
-  Die Klimaerwärmung bringt uns nur Schwefeldioxid, Stickoxide und Ammoniak."
-focusKeyword: Seepferdchen
+excerpt: |-
+  Seepferdchen stehen für Freiheit, Gelassenheit und Unabhängigkeit.
+  Die Klimaerwärmung bringt uns nur Schwefeldioxid, Stickoxide und Ammoniak.
+fileName: 2017-03---wie-die-seepferdchen-das-schwimmen-verlernten.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_32345142146_c0da19b3ce_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_32345142146_c0da19b3ce_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QALRAAAQQBAwMDAgYDAAAAAAAAAQIDBBEFABIhBhMxFEGBIlEHFSQyM2FxkeH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBQEC/8QAHBEBAAICAwEAAAAAAAAAAAAAAQARAgMSITFR/9oADAMBAAIRAxEAPwCdvC+qlJmxpK4r6UdkrbQle5F2ApKgQebIqvJ1TyOnsnihNiYmG9LDjjMpEhZZO5QBC07FV9W4AihQ45084LJ42bKkRIcyPIkxaD7TarLZP39vv86UM31K9msoxi+lZbvq9i+6+lfaZRt5UqyPqoA88Ae3nVtT2R74ncy2fMzWFxGMQp1RcfSt1ThaU+k+BtB5Iog2D7k1xWjWs5ATw+iJDjMyH47SfUqWsoAcVZ4ofPzo0TqXzKKbSvJ09JYOF0708uO01UlSO5LcP8jq6o8+CkWa/wC6RunMFIazc3HS8U1KdYKULU6sp7KTZ7gANkEV/sXpqzecmxkSIsZpLCVlupzrdtMt+XHFqJqweAiufPN6qfw7nfmTOVzUiTIdfd/SNOOo2bkJolQAJ4/aK9q10hZjAzx50/Jf9SSISsisP431aDS0b3AnbaQDQu+do5/rRpZzufj46dT63ErdQF3uUL9vKf8AHxo1jtB7Y5rUsJ//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_03_Seepferd__l.jpg
 labels:
   - Flarf
   - Flarf-Gedicht
@@ -17,17 +24,12 @@ labels:
   - Geschichten & Erlebtes
   - Klimaerwärmung
   - Lyrik
-type: Artikel
-typeName: Gedicht
-date: 2017-03-01T20:00:27.000Z
+focusKeyword: Seepferdchen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "15906"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_32345142146_c0da19b3ce_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_32345142146_c0da19b3ce_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QALRAAAQQBAwMDAgYDAAAAAAAAAQIDBBEFABIhBhMxFEGBIlEHFSQyM2FxkeH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBQEC/8QAHBEBAAICAwEAAAAAAAAAAAAAAQARAgMSITFR/9oADAMBAAIRAxEAPwCdvC+qlJmxpK4r6UdkrbQle5F2ApKgQebIqvJ1TyOnsnihNiYmG9LDjjMpEhZZO5QBC07FV9W4AihQ45084LJ42bKkRIcyPIkxaD7TarLZP39vv86UM31K9msoxi+lZbvq9i+6+lfaZRt5UqyPqoA88Ae3nVtT2R74ncy2fMzWFxGMQp1RcfSt1ThaU+k+BtB5Iog2D7k1xWjWs5ATw+iJDjMyH47SfUqWsoAcVZ4ofPzo0TqXzKKbSvJ09JYOF0708uO01UlSO5LcP8jq6o8+CkWa/wC6RunMFIazc3HS8U1KdYKULU6sp7KTZ7gANkEV/sXpqzecmxkSIsZpLCVlupzrdtMt+XHFqJqweAiufPN6qfw7nfmTOVzUiTIdfd/SNOOo2bkJolQAJ4/aK9q10hZjAzx50/Jf9SSISsisP431aDS0b3AnbaQDQu+do5/rRpZzufj46dT63ErdQF3uUL9vKf8AHxo1jtB7Y5rUsJ//2Q==
 subTitle: Klimaerwärmung
   
 ---

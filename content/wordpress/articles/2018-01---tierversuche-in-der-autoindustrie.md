@@ -1,14 +1,21 @@
 ---
-title: Tierversuche in der Autoindustrie
-seoTitle: Tierversuche in der Autoindustrie - Affen mit Abgasen vergiftet
+date: 2018-01-30T15:00:01.000Z
 slug: tierversuche-in-der-autoindustrie
 path: /2018/01/tierversuche-in-der-autoindustrie/
-fileName: 2018-01---tierversuche-in-der-autoindustrie.md
+type: Artikel
+typeName: Artikel
+title: Tierversuche in der Autoindustrie
+seoTitle: Tierversuche in der Autoindustrie - Affen mit Abgasen vergiftet
+ogTitle: Tierversuche in der Autoindustrie - Affen mit Abgasen vergiftet
 description: Um sicher zu gehen, dass die vorgeschriebenen Umweltstandards
   erfüllt werden, testete VW Abgasanlagen an hilflosen Affen.
 excerpt: Um sicher zu gehen, dass die vorgeschriebenen Umweltstandards erfüllt
   werden, testete VW Abgasanlagen an hilflosen Affen.
-focusKeyword: Tierversuche in der Autoindustrie
+fileName: 2018-01---tierversuche-in-der-autoindustrie.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_16078891287_cbb7150953_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_16078891287_cbb7150953_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAFB//EACYQAAIBBAEDBAMBAAAAAAAAAAECAwAEBREhEjFBBhMUIiMyUfH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EACARAAEDBAIDAAAAAAAAAAAAAAEAAgMEERIxITJBUeH/2gAMAwEAAhEDEQA/ADOOFneKfk+4WkIYkORofwUiXGRQ3Ns9nYzPaSxyE3LFXCyLrSlG1vYPB3xqjmKlg+zKgRF2QP2IA5rpXp6OTK+n7KFwAoYzuinTR7J0SRyCf5UsOU78TpG1/l2gsOTGu1qkk1tChJKo8T7EoB/bXjg0bzNn7e/xjzz1V026tbO19OxJaxgzJdSK7ByT25BBPGtDtQbOSW6qVffVrvvexUVQDFKWhHLYvJbwEGxU7QsHIVwNHpI4rYx2fvMTHBeKevV2YggJQGPWyjEdxzxvtqqqr6ftdNH1KSY3MXU+Jv3uGLSzv8ssv1AfqVDoDxo/7RnJXbk9JAIB81VUVQLuJO/pRzAB3Hpf/9k=
+ogImage: null
 labels:
   - Affen
   - Dieselgate
@@ -20,17 +27,12 @@ labels:
   - Tierversuche
   - VW
   - VW-Skandal
-type: Artikel
-typeName: Artikel
-date: 2018-01-30T15:00:01.000Z
+focusKeyword: Tierversuche in der Autoindustrie
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "19269"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_16078891287_cbb7150953_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_16078891287_cbb7150953_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAFB//EACYQAAIBBAEDBAMBAAAAAAAAAAECAwAEBREhEjFBBhMUIiMyUfH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EACARAAEDBAIDAAAAAAAAAAAAAAEAAgMEERIxITJBUeH/2gAMAwEAAhEDEQA/ADOOFneKfk+4WkIYkORofwUiXGRQ3Ns9nYzPaSxyE3LFXCyLrSlG1vYPB3xqjmKlg+zKgRF2QP2IA5rpXp6OTK+n7KFwAoYzuinTR7J0SRyCf5UsOU78TpG1/l2gsOTGu1qkk1tChJKo8T7EoB/bXjg0bzNn7e/xjzz1V026tbO19OxJaxgzJdSK7ByT25BBPGtDtQbOSW6qVffVrvvexUVQDFKWhHLYvJbwEGxU7QsHIVwNHpI4rYx2fvMTHBeKevV2YggJQGPWyjEdxzxvtqqqr6ftdNH1KSY3MXU+Jv3uGLSzv8ssv1AfqVDoDxo/7RnJXbk9JAIB81VUVQLuJO/pRzAB3Hpf/9k=
 subTitle: Affen mit Abgasen systematisch vergiftet
   
 ---

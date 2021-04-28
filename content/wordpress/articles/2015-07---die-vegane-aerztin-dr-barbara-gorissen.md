@@ -1,15 +1,22 @@
 ---
-title: Die vegane Ärztin Dr. Barbara Gorißen
-seoTitle: Die vegane Ärztin Dr. Barbara Gorißen im Interview
+date: 2015-07-23T14:38:26.000Z
 slug: die-vegane-aerztin-dr-barbara-gorissen-im-interview
 path: /2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/
-fileName: 2015-07---die-vegane-aerztin-dr-barbara-gorissen.md
+type: Artikel
+typeName: Interview
+title: Die vegane Ärztin Dr. Barbara Gorißen
+seoTitle: Die vegane Ärztin Dr. Barbara Gorißen im Interview
+ogTitle: Die vegane Ärztin Dr. Barbara Gorißen im Interview
 description: Vor Kurzem habe ich die vegane Ärztin Dr. Barbara Gorißen
   kennengelernt und mich mit ihr zum Interview verabredet.
 excerpt: Vor Kurzem habe ich die vegan lebende Ärztin Dr. Barbara Gorißen
   kennengelernt und mich mit ihr zum Interview verabredet. Unser Gespräch war
   sehr aufschlusreich.
-focusKeyword: vegane Ärztin
+fileName: 2015-07---die-vegane-aerztin-dr-barbara-gorissen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_qimono-pixabay__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_qimono-pixabay__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMFBgII/8QAJxAAAQQBBAAFBQAAAAAAAAAAAQIDBBEABRIhMRMiQVFxBiNhgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAQEBAQEAAAAAAAAAAAAAAAABESFh/9oADAMBAAIRAxEAPwD0WzIjPvvMsSGHXmCA62hxKlNk9BQBsfvOnVpbSolJ4I/F/HvkJCWJmqajG02emNMcQXHSxGO4WoUpSyKv049zkrVI31BF8USYjc5jaUpkRPtvtgiiQCCLr1o5N8Mzeq0vU1wZ73nEpp10ApVIaQmIgCirgXV13zZylou1WmsESzMHNPl1LhXz3uTwfbjM1pGp6bqWqNRYDkGJPIDspmVp1vOoBCeVggbr48199ZrmkFpam2mAmOlRSlKEhG34TQFXfNnEGLZnHUUupnJELw9hilkHzXe4Lu79K6x7bSWkBLY2pHQu8MMJMNukyYESUQZEZpwjkFSef7jkthAASSEjod4YYh//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2015_07_qimono-pixabay.png__l.jpg
 labels:
   - Ernährung
   - Ernährung & Gesundheit
@@ -24,17 +31,12 @@ labels:
   - vegane Ernährung
   - Veganer
   - Veganismus
-type: Artikel
-typeName: Interview
-date: 2015-07-23T14:38:26.000Z
+focusKeyword: vegane Ärztin
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "34019"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_qimono-pixabay__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_qimono-pixabay__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMFBgII/8QAJxAAAQQBBAAFBQAAAAAAAAAAAQIDBBEABRIhMRMiQVFxBiNhgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAQEBAQEAAAAAAAAAAAAAAAABESFh/9oADAMBAAIRAxEAPwD0WzIjPvvMsSGHXmCA62hxKlNk9BQBsfvOnVpbSolJ4I/F/HvkJCWJmqajG02emNMcQXHSxGO4WoUpSyKv049zkrVI31BF8USYjc5jaUpkRPtvtgiiQCCLr1o5N8Mzeq0vU1wZ73nEpp10ApVIaQmIgCirgXV13zZylou1WmsESzMHNPl1LhXz3uTwfbjM1pGp6bqWqNRYDkGJPIDspmVp1vOoBCeVggbr48199ZrmkFpam2mAmOlRSlKEhG34TQFXfNnEGLZnHUUupnJELw9hilkHzXe4Lu79K6x7bSWkBLY2pHQu8MMJMNukyYESUQZEZpwjkFSef7jkthAASSEjod4YYh//2Q==
 subTitle: '"Es war ein langer Reifungsprozess!"'
   
 ---

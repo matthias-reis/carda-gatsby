@@ -1,16 +1,23 @@
 ---
-title: Aber es schmeckt doch so gut!
-seoTitle: Klimaschutz und vegane Ernährung mal wissenschaftlich betrachtet
+date: 2017-02-16T18:22:17.000Z
 slug: klimaschutz-und-vegane-ernaehrung
 path: /2017/02/klimaschutz-und-vegane-ernaehrung/
-fileName: 2017-02---aber-es-schmeckt-doch-so-gut.md
+type: Artikel
+typeName: Artikel
+title: Aber es schmeckt doch so gut!
+seoTitle: Klimaschutz und vegane Ernährung mal wissenschaftlich betrachtet
+ogTitle: Klimaschutz und vegane Ernährung mal wissenschaftlich betrachtet
 description: Klimaschutz und vegan? Wieso hängt das zusammen? Warum ist es
   eigentlich gut für die Umwelt, wenn ich vegan lebe? Ich habe das Thema mal
   genauer betrachtet.
 excerpt: Klimaschutz und vegan? Wieso hängt das zusammen? Warum ist es
   eigentlich gut für die Umwelt, wenn ich vegan lebe? Ich habe das Thema mal
   genauer betrachtet.
-focusKeyword: Klimaschutz
+fileName: 2017-02---aber-es-schmeckt-doch-so-gut.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_fahrrad-640x640__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_fahrrad-640x640__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQECAwQGB//EACoQAAICAQQBAgYCAwAAAAAAAAECAwQRAAUSIRMxUQYiQUJhcRQyofDx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUC/8QAIBEAAgEDBQEBAAAAAAAAAAAAAQIhAAMRBDFBUaEScf/aAAwDAQACEQMRAD8AI7/8SVG3OeC/KZoI5vDG6xow4Ru/EkN6niRj2x+dVLm8xSfzNvuQ14UVyKtiKPyeN29ZcJnBIJ/YKgnoaNfEmz0d8v39xaGFkhnaN5bD+WNpQFV2WMFcFSCDyYg94HWdYy78JUot2sxWa8ywwwrIZKcvBvGTg8ueT1kfjA+nepTXyfm2xJAzHVVbdgOSRDHAG0+77ftJvFW3uNm9NcFavsDqFqutiMy1m/sh8YJ+dmyXOM/MB6KNY/ed0vWZZJJorEr160cEMccbGMsBxDemSACx/ZOugbJsdB3maogkqKF4TXollYKftVRgEkYJLZ9VAHqdP3v4aq7hfoLZrl1cNXjno1ooSxIyI3Q9EcVYhgQQV9DnRnVI1wKF992o2011ASTnHUY754med6rrY3kMPBu06xPlnRhnkT9w9s/50To3ZaTWDJJZmtThVneZkYtgdADHS9noe+hTSh4mbPJFPzH+pLfQfoaiSYJzLOx4L0UH3H3z/vemUUzzFF0vSQTPNWnWIyIFMU0IKMB0MYIwe8fkYz6amr7vfW3DZvNWllrlljrxxkKuRgsMntsZA9sn30KWeNvLgdrGO+Rbvv6j9fXTbFsISGGPIvINkDBH/RomtKTkCa0GKrjMV//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2014_07_Klimaschutz-1-von-1__l.jpg
 labels:
   - Ernährung
   - Ernährung & Gesundheit
@@ -20,18 +27,13 @@ labels:
   - ökologischer Fussabdruck
   - Tierrechte
   - vegane Ernährung
-type: Artikel
-typeName: Artikel
-date: 2017-02-16T18:22:17.000Z
+focusKeyword: Klimaschutz
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "15887"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_fahrrad-640x640__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_fahrrad-640x640__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQECAwQGB//EACoQAAICAQQBAgYCAwAAAAAAAAECAwQRAAUSIRMxUQYiQUJhcRQyofDx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUC/8QAIBEAAgEDBQEBAAAAAAAAAAAAAQIhAAMRBDFBUaEScf/aAAwDAQACEQMRAD8AI7/8SVG3OeC/KZoI5vDG6xow4Ru/EkN6niRj2x+dVLm8xSfzNvuQ14UVyKtiKPyeN29ZcJnBIJ/YKgnoaNfEmz0d8v39xaGFkhnaN5bD+WNpQFV2WMFcFSCDyYg94HWdYy78JUot2sxWa8ywwwrIZKcvBvGTg8ueT1kfjA+nepTXyfm2xJAzHVVbdgOSRDHAG0+77ftJvFW3uNm9NcFavsDqFqutiMy1m/sh8YJ+dmyXOM/MB6KNY/ed0vWZZJJorEr160cEMccbGMsBxDemSACx/ZOugbJsdB3maogkqKF4TXollYKftVRgEkYJLZ9VAHqdP3v4aq7hfoLZrl1cNXjno1ooSxIyI3Q9EcVYhgQQV9DnRnVI1wKF992o2011ASTnHUY754med6rrY3kMPBu06xPlnRhnkT9w9s/50To3ZaTWDJJZmtThVneZkYtgdADHS9noe+hTSh4mbPJFPzH+pLfQfoaiSYJzLOx4L0UH3H3z/vemUUzzFF0vSQTPNWnWIyIFMU0IKMB0MYIwe8fkYz6amr7vfW3DZvNWllrlljrxxkKuRgsMntsZA9sn30KWeNvLgdrGO+Rbvv6j9fXTbFsISGGPIvINkDBH/RomtKTkCa0GKrjMV//Z
 subTitle: Klimaschutz und vegane Ernährung
   
 ---

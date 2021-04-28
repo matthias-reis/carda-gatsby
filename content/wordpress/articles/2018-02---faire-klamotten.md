@@ -1,15 +1,22 @@
 ---
-title: Faire Klamotten
-seoTitle: Faire Klamotten - Diese Modelabels achten auf die Mitwelt
+date: 2018-02-16T08:09:58.000Z
 slug: faire-klamotten
 path: /2018/02/faire-klamotten/
-fileName: 2018-02---faire-klamotten.md
+type: Artikel
+typeName: Artikel
+title: Faire Klamotten
+seoTitle: Faire Klamotten - Diese Modelabels achten auf die Mitwelt
+ogTitle: Faire Klamotten - Diese Modelabels achten auf die Mitwelt
 description: Immer wieder werde ich nach Tipps für faire Klamotten gefragt. Ich
   habe sie jetzt für Euch zusammengestellt und eine tolle Liste daraus gemacht.
 excerpt: Anzeigen & Affiliate Links - Immer wieder werde ich nach Tipps für
   faire Klamotten gefragt. Ich habe sie jetzt für Euch zusammengestellt und eine
   tolle Liste daraus gemacht.
-focusKeyword: Faire Klamotten
+fileName: 2018-02---faire-klamotten.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_11354942696_e0f3122d35_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_11354942696_e0f3122d35_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwj/xAAqEAABAwMDAwMEAwAAAAAAAAABAgMEAAURBhIhEzFBByKRFCNRcWGB0f/EABcBAQEBAQAAAAAAAAAAAAAAAAIEAQP/xAAeEQACAgICAwAAAAAAAAAAAAABAgARITEDgRMiYf/aAAwDAQACEQMRAD8A6DjzUrAwsfNIPUy8SrZpF923TVwpTriWUSUJQotZySoBfHj9/jmka5zcVhTr6kNtJGSSQBUxqvVEedYksQ1F8PvdNaSnPT2JK8qSePAxng0XYAEXmPjFsLGJL+huutZS/Uk6fvMyVdYLrbq5BfVv+n2JJS6hR5CScDHncOMit/g3uJNutyt0dLxk28oS+VJASCoZABz3+K5G0jqB2Fcbld2GQl3b9kD2hvJPBx+P9rUNH6zlwJ95nXABbt5LEtp1lsYc2NdPasnsrI/XOawPW+4nUn2HUz17VE+6KbVcSl0YWpCUjYEEAYwP770v1Ffn7azFagISkPErc6vvyAnGPGM/NFFQhR5b+SgORxHOpOMyUz4hjxmG4RWvc4ptSlBRyewUTjz80zhLdK0ReqQhIGCCQeD/AAaKKTsczgGJ3P/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2018_02_11354942696_e0f3122d35_z__l.jpg
 labels:
   - Anifree Shoes
   - Armed Angels
@@ -46,18 +53,13 @@ labels:
   - vegane Mode
   - vegane Schuhe
   - Zündstoff
-type: Artikel
-typeName: Artikel
-date: 2018-02-16T08:09:58.000Z
+focusKeyword: Faire Klamotten
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "19580"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_11354942696_e0f3122d35_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_11354942696_e0f3122d35_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwj/xAAqEAABAwMDAwMEAwAAAAAAAAABAgMEAAURBhIhEzFBByKRFCNRcWGB0f/EABcBAQEBAQAAAAAAAAAAAAAAAAIEAQP/xAAeEQACAgICAwAAAAAAAAAAAAABAgARITEDgRMiYf/aAAwDAQACEQMRAD8A6DjzUrAwsfNIPUy8SrZpF923TVwpTriWUSUJQotZySoBfHj9/jmka5zcVhTr6kNtJGSSQBUxqvVEedYksQ1F8PvdNaSnPT2JK8qSePAxng0XYAEXmPjFsLGJL+huutZS/Uk6fvMyVdYLrbq5BfVv+n2JJS6hR5CScDHncOMit/g3uJNutyt0dLxk28oS+VJASCoZABz3+K5G0jqB2Fcbld2GQl3b9kD2hvJPBx+P9rUNH6zlwJ95nXABbt5LEtp1lsYc2NdPasnsrI/XOawPW+4nUn2HUz17VE+6KbVcSl0YWpCUjYEEAYwP770v1Ffn7azFagISkPErc6vvyAnGPGM/NFFQhR5b+SgORxHOpOMyUz4hjxmG4RWvc4ptSlBRyewUTjz80zhLdK0ReqQhIGCCQeD/AAaKKTsczgGJ3P/Z
 subTitle: Diese Modelabels achten auf die Mitwelt
   
 ---

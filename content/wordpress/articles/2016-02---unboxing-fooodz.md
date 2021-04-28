@@ -1,16 +1,23 @@
 ---
-title: Unboxing Fooodz
-seoTitle: Unboxing Fooodz.de - Vegane Lebensmittel an die Haustür
+date: 2016-02-03T12:29:39.000Z
 slug: unboxing-fooodz-de
 path: /2016/02/unboxing-fooodz-de/
-fileName: 2016-02---unboxing-fooodz.md
+type: Artikel
+typeName: Artikel
+title: Unboxing Fooodz
+seoTitle: Unboxing Fooodz.de - Vegane Lebensmittel an die Haustür
+ogTitle: Unboxing Fooodz.de - Vegane Lebensmittel an die Haustür
 description: Unboxing ist toll - Vor Kurzem bekam ich wieder mal eine Anfrage
   und damit die Möglichkeit, den veganen Online-Shop Fooodz.de zu testen. Hier
   der Bericht.
 excerpt: Werbung - Unboxing ist toll - Vor Kurzem bekam ich wieder mal eine
   Anfrage und damit die Möglichkeit, den veganen Online-Shop Fooodz.de zu
   testen. Hier mein Bericht.
-focusKeyword: Unboxing
+fileName: 2016-02---unboxing-fooodz.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_Fooodz-Unboxing-5__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_Fooodz-Unboxing-5__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwABAwYF/8QAJhAAAgEDBAEDBQAAAAAAAAAAAQIDAAQRBQYhMRMSIkEyUVJxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIRAxEAPwDOxNDEkaSOileO6T7XTI0QAQpR/s6eK6tbdQqMUyeSRjIxnj5Fdxa2kyxqfN6m4B9UjcD+Uhotq1bSIp4WVrdSSDQtv3QRbiQrCQvPRFM+rWiujO3iDc8+44Jxzz+sH70Yb3u1htJY2l8nZBYkmishbldoa3cW6xsg7+M0padue5aBS0YJx+VVVQpeXuLdN0I3CxqPj6qH93a1cTK7Pg9juqqizzf/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2016_02_Fooodz-Unboxing-7__l.jpg
 labels:
   - Ernährung & Gesundheit
   - Fooodz
@@ -28,17 +35,12 @@ labels:
   - veganer Online-Shop
   - veganer Shop
   - Veganes Essen
-type: Artikel
-typeName: Artikel
-date: 2016-02-03T12:29:39.000Z
+focusKeyword: Unboxing
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "13860"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_Fooodz-Unboxing-5__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_Fooodz-Unboxing-5__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwABAwYF/8QAJhAAAgEDBAEDBQAAAAAAAAAAAQIDAAQRBQYhMRMSIkEyUVJxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIRAxEAPwDOxNDEkaSOileO6T7XTI0QAQpR/s6eK6tbdQqMUyeSRjIxnj5Fdxa2kyxqfN6m4B9UjcD+Uhotq1bSIp4WVrdSSDQtv3QRbiQrCQvPRFM+rWiujO3iDc8+44Jxzz+sH70Yb3u1htJY2l8nZBYkmishbldoa3cW6xsg7+M0padue5aBS0YJx+VVVQpeXuLdN0I3CxqPj6qH93a1cTK7Pg9juqqizzf/2Q==
 subTitle: Vegane Lebensmittel bestellen
   
 ---

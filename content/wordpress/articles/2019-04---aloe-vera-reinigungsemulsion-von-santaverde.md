@@ -1,14 +1,21 @@
 ---
-title: Aloe Vera Reinigungsemulsion von Santaverde
-seoTitle: Aloe Vera Reinigungsemulsion von Santaverde - Beauty-Liebling
+date: 2019-04-05T09:41:40.000Z
 slug: santaverde-aloe-vera-reinigungsemulsion
 path: /2019/04/santaverde-aloe-vera-reinigungsemulsion/
-fileName: 2019-04---aloe-vera-reinigungsemulsion-von-santaverde.md
+type: Artikel
+typeName: Produkttest
+title: Aloe Vera Reinigungsemulsion von Santaverde
+seoTitle: Aloe Vera Reinigungsemulsion von Santaverde - Beauty-Liebling
+ogTitle: Aloe Vera Reinigungsemulsion von Santaverde - Beauty-Liebling
 description: Heute stelle ich Euch die Aloe Vera Reinigungsemulsion von
   Santaverde vor - sie hat die Bezeichnung "Beauty-Liebling" wirklich verdient.
 excerpt: Werbung - Heute stelle ich Euch die Aloe Vera Reinigungsemulsion von
   Santaverde vor - sie hat die Bezeichnung "Beauty-Liebling" wirklich verdient.
-focusKeyword: Aloe Vera Reinigungsemulsion
+fileName: 2019-04---aloe-vera-reinigungsemulsion-von-santaverde.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgIDB//EACoQAAEEAQMDAwMFAAAAAAAAAAECAwQRBQASIQYxQQciYRMUUXGBobHR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwUCBAb/xAAhEQACAQMDBQAAAAAAAAAAAAABAgADERIEITEFEyJx0f/aAAwDAQACEQMRAD8AUbhJDUZRHLUjYT8KBT/mrt0Nh8fPhOPORIqpTD6mXHFMhaqICk9+BwSP21WEWYKy4UIUQ25RUBSklJP9HU76d5NDPUWVhIebLbzIe9yTVoV2HztX/GhJbLeExJUkTnWds9d5iMNrj7s3c23RBIUUpoVwKA80NRWRkMGI5SGYbjyCpxSiUchexICiSFqoWarv+mnupWkSPUufvlFpO9DyUKRbavYTauQfGqhkZciNj24zUh4Bnem7FEK7gJN121RYnuHePKXS9ZUpLWRPC3Nx99zd1Lm4uUzbEXFyNgS+pLqr2AeTRvgElXOscz1dIhmDIZkLbl19wQ06UlR7c1f4J+QfHbRo0fG7xG+z4xTI9UuZTqpM92K3FLkdCfpIWVV7SRZPmlajspJBbUb8aNGoMoyBm00dd10bIOAZ/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde-4__l.jpg
 labels:
   - Aloe Vera
   - Aloe Vera Reinigungsemulsion
@@ -23,17 +30,12 @@ labels:
   - vegan
   - vegan beauty
   - vegana Kosmetik
-type: Artikel
-typeName: Produkttest
-date: 2019-04-05T09:41:40.000Z
+focusKeyword: Aloe Vera Reinigungsemulsion
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "23901"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgIDB//EACoQAAEEAQMDAwMFAAAAAAAAAAECAwQRBQASIQYxQQciYRMUUXGBobHR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwUCBAb/xAAhEQACAQMDBQAAAAAAAAAAAAABAgADERIEITEFEyJx0f/aAAwDAQACEQMRAD8AUbhJDUZRHLUjYT8KBT/mrt0Nh8fPhOPORIqpTD6mXHFMhaqICk9+BwSP21WEWYKy4UIUQ25RUBSklJP9HU76d5NDPUWVhIebLbzIe9yTVoV2HztX/GhJbLeExJUkTnWds9d5iMNrj7s3c23RBIUUpoVwKA80NRWRkMGI5SGYbjyCpxSiUchexICiSFqoWarv+mnupWkSPUufvlFpO9DyUKRbavYTauQfGqhkZciNj24zUh4Bnem7FEK7gJN121RYnuHePKXS9ZUpLWRPC3Nx99zd1Lm4uUzbEXFyNgS+pLqr2AeTRvgElXOscz1dIhmDIZkLbl19wQ06UlR7c1f4J+QfHbRo0fG7xG+z4xTI9UuZTqpM92K3FLkdCfpIWVV7SRZPmlajspJBbUb8aNGoMoyBm00dd10bIOAZ/9k=
 subTitle: Beauty-Liebling für frische Gesichtshaut
   
 ---

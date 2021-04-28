@@ -1,16 +1,23 @@
 ---
-title: Neue Kokosmilch im Kühlschrank
-seoTitle: Neue Kokosmilch im Kühlschrank - "Coco Milk" von Dr. Martins im Test
+date: 2018-09-28T13:46:45.000Z
 slug: neue-kokosmilch-coco-milk-dr-martins
 path: /2018/09/neue-kokosmilch-coco-milk-dr-martins/
-fileName: 2018-09---neue-kokosmilch-im-kuehlschrank.md
+type: Artikel
+typeName: Produkttest
+title: Neue Kokosmilch im Kühlschrank
+seoTitle: Neue Kokosmilch im Kühlschrank - "Coco Milk" von Dr. Martins im Test
+ogTitle: Neue Kokosmilch im Kühlschrank - "Coco Milk" von Dr. Martins im Test
 description: Ich habe die neuen Kokosmilch-Sorten  "Klassisch", "Calzium" und
   "Matcha" von Dr. Martins getestet und mir einen tollen Kokos-Cappuccino
   gemacht.
 excerpt: Werbung - Ich habe die neuen Kokosmilch-Sorten  "Klassisch", "Calzium"
   und "Matcha" von Dr. Martins getestet und mir einen tollen Kokos-Cappuccino
   gemacht.
-focusKeyword: Kokosmilch
+fileName: 2018-09---neue-kokosmilch-im-kuehlschrank.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44968940361_5a10b7d2a7_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44968940361_5a10b7d2a7_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKRAAAQMDAwQBBAMAAAAAAAAAAQIDEQAEBQYSIRMxUWFBFCJxoWKR0f/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAf/EACURAAEDAgYBBQAAAAAAAAAAAAECAxEAEgQTITFRYXFBgaGx4f/aAAwDAQACEQMRAD8AZ8fhW3dpecZbStW0b1gbvwO5pmZ0pjy0CG1L3cyOZ/qlPR6fr22bjMO26rtSuo2CNgbR8IPgiD/s1g611TfYXMLs8PjnrwITuecQ8WwknkAR6gyfNHWgSSoTVkFxSrJiO6dNWYDH4/C3Fw2QH0AFDK+QuSBH5rjmoG2F/all9pZBneiUiAOZHYc/qmLD6lucpd3IyDLTVsiAhgOdR0n+a+3uBVK9uHXLh91gNrtgOm404skOJHnzHrtxUkMoWsptg8j4/aLiMc4wu0KkD34J18VQsdXdHc271Q4uU9UQDtPz4ngciPmsXVOobHJLU1fC6WpptCGXGX+QgdtwIAKoMTP7FFFPygGc0bzFAfxjxxBRdoDMd7T5j137qtZZC2btUpsWWmWmzKJcBWokydyyBJ7CB2gVNZaiDVp1H3TuL6lIBT2UExKoEiSYkePdFFHm10hPIrAgOKuXqdT9V//Z
+ogImage: null
 labels:
   - Bio
   - Cappuccino
@@ -24,18 +31,13 @@ labels:
   - Milchalternativen
   - Milchersatz
   - vegane Produkte
-type: Artikel
-typeName: Produkttest
-date: 2018-09-28T13:46:45.000Z
+focusKeyword: Kokosmilch
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "22192"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44968940361_5a10b7d2a7_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44968940361_5a10b7d2a7_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKRAAAQMDAwQBBAMAAAAAAAAAAQIDEQAEBQYSIRMxUWFBFCJxoWKR0f/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAf/EACURAAEDAgYBBQAAAAAAAAAAAAECAxEAEgQTITFRYXFBgaGx4f/aAAwDAQACEQMRAD8AZ8fhW3dpecZbStW0b1gbvwO5pmZ0pjy0CG1L3cyOZ/qlPR6fr22bjMO26rtSuo2CNgbR8IPgiD/s1g611TfYXMLs8PjnrwITuecQ8WwknkAR6gyfNHWgSSoTVkFxSrJiO6dNWYDH4/C3Fw2QH0AFDK+QuSBH5rjmoG2F/all9pZBneiUiAOZHYc/qmLD6lucpd3IyDLTVsiAhgOdR0n+a+3uBVK9uHXLh91gNrtgOm404skOJHnzHrtxUkMoWsptg8j4/aLiMc4wu0KkD34J18VQsdXdHc271Q4uU9UQDtPz4ngciPmsXVOobHJLU1fC6WpptCGXGX+QgdtwIAKoMTP7FFFPygGc0bzFAfxjxxBRdoDMd7T5j137qtZZC2btUpsWWmWmzKJcBWokydyyBJ7CB2gVNZaiDVp1H3TuL6lIBT2UExKoEiSYkePdFFHm10hPIrAgOKuXqdT9V//Z
 subTitle: '"Coco Milk For Drinking" von Dr. Martins im Test'
   
 ---

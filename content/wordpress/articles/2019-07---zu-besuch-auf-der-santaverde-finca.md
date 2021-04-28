@@ -1,16 +1,23 @@
 ---
-title: Zu Besuch auf der Santaverde Finca
-seoTitle: Zu Besuch auf der Santaverde Finca in Andalusien
+date: 2019-07-26T11:45:29.000Z
 slug: santaverde-finca-aloe-vera
 path: /2019/07/santaverde-finca-aloe-vera/
-fileName: 2019-07---zu-besuch-auf-der-santaverde-finca.md
+type: Artikel
+typeName: Artikel
+title: Zu Besuch auf der Santaverde Finca
+seoTitle: Zu Besuch auf der Santaverde Finca in Andalusien
+ogTitle: Zu Besuch auf der Santaverde Finca in Andalusien
 description: Vor Kurzem haben wir die Aloe Vera Finca von Santaverde in
   Andalusien besucht. Dabei haben wir einiges über den Anbau der beliebten
   Pflanze erfahren.
 excerpt: Vor Kurzem haben wir die Aloe Vera Finca von Santaverde in Andalusien
   besucht. Dabei haben wir einiges über den Anbau der beliebten Pflanze
   erfahren.
-focusKeyword: Santaverde Finca
+fileName: 2019-07---zu-besuch-auf-der-santaverde-finca.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-4__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-4__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBhMxIjJhgRRxUZGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAAH/xAAfEQABAwQDAQAAAAAAAAAAAAAAAQIREhQhoQQFMYH/2gAMAwEAAhEDEQA/AGNqtLsqERttxwxHB+9aOC0SbRtjBUfxydc6tlkucVBttF+rWuEQhl2d14oWQoDsBGdpXjB/zTe133qSi3U13uH4EzIojNSVnVsDb6SQpzjnPOTzp1Oyl1NORCyWJk3D0JKFAs5UgFlLAAkeOBrG3noigq3eWsaukJ8I9S5Uc54GeB+tSpe+pqPe8lzoq9JJe4A1N7VwBtXbjA4+fJ1DW9YXR/QLXbd5J9zSqAP3g6O7Y7Dk0CnGemUKFtu1dTQxxQxRJCo9KCLAH9adx9QTSQmKqpKeWM+VdCQfo6NGpRUE90orXXIvbpmt0inPcoZGiz8EeCPrSGsstKuCl1uUaqpyDOSD8nJ0aNb7tTnh/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_07_Zu-Besuch-auf-der-Santaverde-Finka.png__l.jpg
 labels:
   - Aloe Vera
   - Aloe Vera Anbau
@@ -26,17 +33,12 @@ labels:
   - Spanien
   - vegan beauty
   - vegane Naturkosmetik
-type: Artikel
-typeName: Artikel
-date: 2019-07-26T11:45:29.000Z
+focusKeyword: Santaverde Finca
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "25501"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-4__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-4__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBhMxIjJhgRRxUZGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAAH/xAAfEQABAwQDAQAAAAAAAAAAAAAAAQIREhQhoQQFMYH/2gAMAwEAAhEDEQA/AGNqtLsqERttxwxHB+9aOC0SbRtjBUfxydc6tlkucVBttF+rWuEQhl2d14oWQoDsBGdpXjB/zTe133qSi3U13uH4EzIojNSVnVsDb6SQpzjnPOTzp1Oyl1NORCyWJk3D0JKFAs5UgFlLAAkeOBrG3noigq3eWsaukJ8I9S5Uc54GeB+tSpe+pqPe8lzoq9JJe4A1N7VwBtXbjA4+fJ1DW9YXR/QLXbd5J9zSqAP3g6O7Y7Dk0CnGemUKFtu1dTQxxQxRJCo9KCLAH9adx9QTSQmKqpKeWM+VdCQfo6NGpRUE90orXXIvbpmt0inPcoZGiz8EeCPrSGsstKuCl1uUaqpyDOSD8nJ0aNb7tTnh/9k=
 subTitle: Aloe Vera Pflanzen im Herzen von Andalusien
   
 ---

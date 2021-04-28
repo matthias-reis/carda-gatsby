@@ -1,15 +1,22 @@
 ---
-title: 12 Songs für den April
-seoTitle: 12 Songs für den April - frisch selektiert
+date: 2020-03-26T07:00:53.000Z
 slug: 12-songs-fuer-den-april-2020
 path: /2020/03/12-songs-fuer-den-april-2020/
-fileName: 2020-03---12-songs-fuer-den-april.md
+type: Artikel
+typeName: Artikel
+title: 12 Songs für den April
+seoTitle: 12 Songs für den April - frisch selektiert
+ogTitle: 12 Songs für den April - frisch selektiert
 description: Im Moment ist alles anders. Das soll uns aber nicht davon abhalten,
   so viel wie möglich Musik zu konsumieren. Hier kommen unsere Platten des
   Monats.
 excerpt: Im Moment ist alles anders. Das soll uns aber nicht davon abhalten, so
   viel wie möglich Musik zu konsumieren. Hier kommen unsere Platten des Monats.
-focusKeyword: Playlist
+fileName: 2020-03---12-songs-fuer-den-april.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_12-Songs-Header-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_12-Songs-Header-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAIEBQcDBgj/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREABhIhIjETFEFRB4EVQmH/xAAXAQADAQAAAAAAAAAAAAAAAAAABAUC/8QAIhEAAgEEAAcBAAAAAAAAAAAAAQIAAwQRIQUSIjFBYdFx/9oADAMBAAIRAxEAPwCIudvvLxSevcYK+IjtjlpowhB6Y4nr+w2m1vi3KQ6vSWyIDKLLIrluPwRxznH0T8aRTbwpq+pV6lJYnmkSONODSKpx1JdQV8kfPzrd6H23oMZgRKhwByk7j5z2jA+BpQ08NncYuuKNRwqBTn18xKnpJN21lRTC6bcdpAFjNSI/SBwehkGSpA/zGnNloqaK5Vt2mnaUx8qTlUMxWGQAA5I6HCkDGfJH3q0a/wBrGuYV5lmyWzICnUH+ww3zqG2v+D91eq9x/kbIbdcm957Scyloy2WRiAuOQ5YPXB8fWthSx1FLW9LhkYDxuVRs260FtvMVZe6dqqhiZWNPFxb1iCPJyoAGMgffnONPt6b0qay91dRt5qq2WqVg0MEk4DplRkYBPg56df1o0aObqyZTe1plNjt+fJ1Nvqw7fpbTU1NuolSriZIkjRWWOVyw7fBycE+PrWbYlzYrVwzm5IkE5pIY5u6IhVUkqeIxhiyecdujRqjRGiJErUURwyjB3P/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_03_12-songs-fb-2.png__l.jpg
 labels:
   - 12 Songs
   - Amanda Palmer
@@ -38,17 +45,12 @@ labels:
   - Tricky
   - Twenty One Pilots
   - Zack Hemsey
-type: Artikel
-typeName: Artikel
-date: 2020-03-26T07:00:53.000Z
+focusKeyword: Playlist
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "28700"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_12-Songs-Header-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_12-Songs-Header-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAIEBQcDBgj/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREABhIhIjETFEFRB4EVQmH/xAAXAQADAQAAAAAAAAAAAAAAAAAABAUC/8QAIhEAAgEEAAcBAAAAAAAAAAAAAQIAAwQRIQUSIjFBYdFx/9oADAMBAAIRAxEAPwCIudvvLxSevcYK+IjtjlpowhB6Y4nr+w2m1vi3KQ6vSWyIDKLLIrluPwRxznH0T8aRTbwpq+pV6lJYnmkSONODSKpx1JdQV8kfPzrd6H23oMZgRKhwByk7j5z2jA+BpQ08NncYuuKNRwqBTn18xKnpJN21lRTC6bcdpAFjNSI/SBwehkGSpA/zGnNloqaK5Vt2mnaUx8qTlUMxWGQAA5I6HCkDGfJH3q0a/wBrGuYV5lmyWzICnUH+ww3zqG2v+D91eq9x/kbIbdcm957Scyloy2WRiAuOQ5YPXB8fWthSx1FLW9LhkYDxuVRs260FtvMVZe6dqqhiZWNPFxb1iCPJyoAGMgffnONPt6b0qay91dRt5qq2WqVg0MEk4DplRkYBPg56df1o0aObqyZTe1plNjt+fJ1Nvqw7fpbTU1NuolSriZIkjRWWOVyw7fBycE+PrWbYlzYrVwzm5IkE5pIY5u6IhVUkqeIxhiyecdujRqjRGiJErUURwyjB3P/Z
 subTitle: Frisch selektiert von den drei von der Bande
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: Lightning Sharks – "Life Is A Hideous Thing"
-seoTitle: Lightning Sharks – "Life Is A Hideous Thing" – Noisecore für das Jahr 2021
+date: 2021-04-02T04:00:16.000Z
 slug: lightning-sharks-life-is-a-hideous-thing
 path: /2021/04/lightning-sharks-life-is-a-hideous-thing/
-fileName: 2021-04---lightning-sharks-life-is-a-hideous-thing.md
+type: Artikel
+typeName: Review
+title: Lightning Sharks – "Life Is A Hideous Thing"
+seoTitle: Lightning Sharks – "Life Is A Hideous Thing" – Noisecore für das Jahr 2021
+ogTitle: Lightning Sharks – "Life Is A Hideous Thing" – Noisecore für das Jahr 2021
 description: Lightning Sharks liefern mit ihrer Debut-EP den Sound für das Jahr
   2021 – Noisecore mit H. P. Lovecraft Zitaten.
 excerpt: English & German – Lightning Sharks liefern mit ihrer Debut-EP den
   Sound für das Jahr 2021 – Noisecore mit H. P. Lovecraft Zitaten.
-focusKeyword: Lightning Sharks
+fileName: 2021-04---lightning-sharks-life-is-a-hideous-thing.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QALhAAAQQBAwMCAgsAAAAAAAAAAQIDBBEFAAYxEhMhIlFBYQcUIyUycYGhscHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMf27lc2X/rECTkFQWnacabldRCeQKJ/fTSxuLeUVqTNyED7sZNrDrALoSeAKIJ+auNJm3MomBi5DMVIU+4oLcWQPsk0ASkX6vf+tMY3dDw7LkVxl7IokxlB5XdADyzws3x+nwrxoLS/pGiye2qRjJcaWy30sqjOJUQo2FEpIHiieTeoZXLRNwyMYIUNcda5KUuMdvpCh7XZu/N6SozT785l94oeVJQp5RYWFFs0T6uenwk2K8aa35DOGxj2UVcLJymEpjMGrYQrx1pQD+MgG74BGgzkIcNEpqiQOoULHIs/L+dOStpvyQrtP1MMRh94uU0y2FA+nq4PgAe93o0aChtltGKky8vKfQW4Sy20hpwHvLIIr8vj/muNlMjNmS3pM8IU8/ypSBYF+ADzQ0aNB//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_lightning-sharks-fb.png__l.jpg
 labels:
   - Bands
   - English & German
@@ -17,17 +24,12 @@ labels:
   - Lightning Sharks
   - Noisecore
   - Post-Everything
-type: Artikel
-typeName: Review
-date: 2021-04-02T04:00:16.000Z
+focusKeyword: Lightning Sharks
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31429"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QALhAAAQQBAwMCAgsAAAAAAAAAAQIDBBEFAAYxEhMhIlFBYQcUIyUycYGhscHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMf27lc2X/rECTkFQWnacabldRCeQKJ/fTSxuLeUVqTNyED7sZNrDrALoSeAKIJ+auNJm3MomBi5DMVIU+4oLcWQPsk0ASkX6vf+tMY3dDw7LkVxl7IokxlB5XdADyzws3x+nwrxoLS/pGiye2qRjJcaWy30sqjOJUQo2FEpIHiieTeoZXLRNwyMYIUNcda5KUuMdvpCh7XZu/N6SozT785l94oeVJQp5RYWFFs0T6uenwk2K8aa35DOGxj2UVcLJymEpjMGrYQrx1pQD+MgG74BGgzkIcNEpqiQOoULHIs/L+dOStpvyQrtP1MMRh94uU0y2FA+nq4PgAe93o0aChtltGKky8vKfQW4Sy20hpwHvLIIr8vj/muNlMjNmS3pM8IU8/ypSBYF+ADzQ0aNB//Z
 subTitle: Noisecore für das Jahr 2021
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: Zu Besuch in Stockholm
-seoTitle: Zu Besuch in Stockholm - Sonne, Kunst und Geschichte
+date: 2018-09-07T13:50:50.000Z
 slug: zu-besuch-in-stockholm
 path: /2018/09/zu-besuch-in-stockholm/
-fileName: 2018-09---zu-besuch-in-stockholm.md
+type: Galerie
+typeName: Galerie
+title: Zu Besuch in Stockholm
+seoTitle: Zu Besuch in Stockholm - Sonne, Kunst und Geschichte
+ogTitle: Zu Besuch in Stockholm - Sonne, Kunst und Geschichte
 description: Bei unserem Besuch in Stockholm konnten wir Sonnenschein und
   strahlend blauen Himmel genießen. Und wir haben einiges entdeckt.
 excerpt: Bei unserem Besuch in Stockholm konnten wir Sonnenschein und strahlend
   blauen Himmel genießen. Und wir haben einiges entdeckt.
-focusKeyword: Stockholm
+fileName: 2018-09---zu-besuch-in-stockholm.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29594140167_b907693522_z-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29594140167_b907693522_z-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgIDBAj/xAAnEAACAQIGAgICAwAAAAAAAAABAgMEEQAFBhIhMRRBEyIHI1Jhsf/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAAEF/8QAHxEAAgEEAgMAAAAAAAAAAAAAAQIAAwQREwUhIjFx/9oADAMBAAIRAxEAPwBa5Jk0rBpYHAmVSrfPMqd2LFbgc3H94YelvxbVZlOZa6oqqcICbxlSCe1AkBPd/QxSK3WNDRhX0zQrFOzX86oPySLxf9am6qfZNjbgd4msq11qGjy6NnzaqmeRZGtUMJwPsRu+4O3mwuCO8ab8hSprqthgRBbGo7bLg5P2elNL5SuVUiwSPPK6EWaaczEWAH1JAsO+P9x0TVtJQeTXTI8V3u8k5sFPQIueAb+hhFZV+Tp0po6DOakwGQlVq4YdszkCwLKD9jxYkc9cYxz7VGnlox5ufZhNvQyBVVQev4fZlHPNwMJBg/kTGyCvQET1Zl9Es8wTNCh3MSlMgkQ7rnaOdqgXt2b3xspsqSRZJfMn3kKB0sam4uTe5t7wYMBVQo6h2Yn3JnM9NZhRRK8KtWw2VmmpqhjIDbnavVifYxR6jLPGqZVlTZI72+OpiJAJPd79+uTgwYiMZTCf/9k=
+ogImage: null
 labels:
   - Bergung Vasa
   - Fernweh
@@ -37,17 +44,12 @@ labels:
   - vegan in Schweden
   - vegan Reisen
   - vegan travelling
-type: Galerie
-typeName: Galerie
-date: 2018-09-07T13:50:50.000Z
+focusKeyword: Stockholm
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "21972"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29594140167_b907693522_z-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29594140167_b907693522_z-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgIDBAj/xAAnEAACAQIGAgICAwAAAAAAAAABAgMEEQAFBhIhMRRBEyIHI1Jhsf/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAAEF/8QAHxEAAgEEAgMAAAAAAAAAAAAAAQIAAwQREwUhIjFx/9oADAMBAAIRAxEAPwBa5Jk0rBpYHAmVSrfPMqd2LFbgc3H94YelvxbVZlOZa6oqqcICbxlSCe1AkBPd/QxSK3WNDRhX0zQrFOzX86oPySLxf9am6qfZNjbgd4msq11qGjy6NnzaqmeRZGtUMJwPsRu+4O3mwuCO8ab8hSprqthgRBbGo7bLg5P2elNL5SuVUiwSPPK6EWaaczEWAH1JAsO+P9x0TVtJQeTXTI8V3u8k5sFPQIueAb+hhFZV+Tp0po6DOakwGQlVq4YdszkCwLKD9jxYkc9cYxz7VGnlox5ufZhNvQyBVVQev4fZlHPNwMJBg/kTGyCvQET1Zl9Es8wTNCh3MSlMgkQ7rnaOdqgXt2b3xspsqSRZJfMn3kKB0sam4uTe5t7wYMBVQo6h2Yn3JnM9NZhRRK8KtWw2VmmpqhjIDbnavVifYxR6jLPGqZVlTZI72+OpiJAJPd79+uTgwYiMZTCf/9k=
 subTitle: Sonne, Kunst und Geschichte
   
 ---

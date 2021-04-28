@@ -1,16 +1,23 @@
 ---
-title: Baulta im Interview
-seoTitle: Baulta im Interview – "Post-Rock transportiert Emotionen"
+date: 2021-03-26T16:24:39.000Z
 slug: baulta-interview
 path: /2021/03/baulta-interview/
-fileName: 2021-03---baulta-im-interview.md
+type: Artikel
+typeName: Interview
+title: Baulta im Interview
+seoTitle: Baulta im Interview – "Post-Rock transportiert Emotionen"
+ogTitle: Baulta im Interview – "Post-Rock transportiert Emotionen"
 description: Baulta haben sich zu einem Interview bereiterklärt! Wir haben uns
   über ihr aktuelles Albums "Another Second Chance" unterhalten.
 excerpt: English & German – Baulta haben sich zu einem Interview bereiterklärt!
   Wir haben uns lange über den Entstehungsprozess ihres aktuellen Albums
   "Another Second Chance" und ihre Entwicklung als Band unterhalten. Dabei habe
   ich einiges über die vier Finnen und ihre Beziehung zum Post-Rock erfahren.
-focusKeyword: Baulta
+fileName: 2021-03---baulta-im-interview.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMFBgcBBAj/xAAoEAACAgEEAQIGAwAAAAAAAAABAgMEEQUGEiEAMVEUIiMyQWEHE8H/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Aed4bA2XYWLX9tWRFUlTnJ/SnNJCWxyHXIHPWAPXPkt2xep7KTS6FKjZklvzqJp4KTzKkQ+4sU7U+mMj/AHyq9wauKFPTKW631OhGBJbZIAwMzCQ/SkKkMAVYno5GVOD4zbr1DV6us6GBNfkg01Ri1LJxZ3JWSVef3cQCq4bOB758Dp/fO66236lSWyq8Z5hGrSOERfQ5JP6z36e58iH8mbo023SEceoRyaJMSkstOUO95sZ+HiKn7cEGR8gAHjkZJFPXbm5dd0bWxua5HpOnWGKxV9QElWNp+LuGVQpaXgSnLrHa+2PMXn2jtN9NTaWnQbps/DpNddbvONHGQzBW6Bb8fL0FGR4CO+dN1DdW754tPuRyyItaSKlLLxjdgnfEthQeznvJ9vNXV9I3DrlSJDo1Gq1BZpRVMTQvJ6FjgllkIPfr3+/Dw8CD7j1bUbLSLdvX7UAb6JtE55dZIXJwfx14nt+1Xp14LMMiNqAtFpFZMFY+BCgHPzKT2fY+Hh4H/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_baulta-fb-Baulta.-Picture_-Antti-Varhe-_-AVAGraphy.png__l.jpg
 labels:
   - A Thousand Arms
   - A Thousand Arms Music
@@ -26,17 +33,12 @@ labels:
   - Interviews
   - Jyväskylä
   - Post-Rock
-type: Artikel
-typeName: Interview
-date: 2021-03-26T16:24:39.000Z
+focusKeyword: Baulta
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33577"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMFBgcBBAj/xAAoEAACAgEEAQIGAwAAAAAAAAABAgMEEQUGEiEAMVEUIiMyQWEHE8H/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Aed4bA2XYWLX9tWRFUlTnJ/SnNJCWxyHXIHPWAPXPkt2xep7KTS6FKjZklvzqJp4KTzKkQ+4sU7U+mMj/AHyq9wauKFPTKW631OhGBJbZIAwMzCQ/SkKkMAVYno5GVOD4zbr1DV6us6GBNfkg01Ri1LJxZ3JWSVef3cQCq4bOB758Dp/fO66236lSWyq8Z5hGrSOERfQ5JP6z36e58iH8mbo023SEceoRyaJMSkstOUO95sZ+HiKn7cEGR8gAHjkZJFPXbm5dd0bWxua5HpOnWGKxV9QElWNp+LuGVQpaXgSnLrHa+2PMXn2jtN9NTaWnQbps/DpNddbvONHGQzBW6Bb8fL0FGR4CO+dN1DdW754tPuRyyItaSKlLLxjdgnfEthQeznvJ9vNXV9I3DrlSJDo1Gq1BZpRVMTQvJ6FjgllkIPfr3+/Dw8CD7j1bUbLSLdvX7UAb6JtE55dZIXJwfx14nt+1Xp14LMMiNqAtFpFZMFY+BCgHPzKT2fY+Hh4H/9k=
 subTitle: '"Post-Rock transportiert Emotionen"'
   
 ---

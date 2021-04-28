@@ -1,14 +1,21 @@
 ---
-title: Tofumanufaktur Berlin Soy Rebels
-seoTitle: Tofumanufaktur Berlin Soy Rebels - Interview - "Tofu ist nicht gleich Tofu"
+date: 2015-12-02T15:16:51.000Z
 slug: tofumanufaktur-berlin-soy-rebels-interview
 path: /2015/12/tofumanufaktur-berlin-soy-rebels-interview/
-fileName: 2015-12---tofumanufaktur-berlin-soy-rebels.md
+type: Artikel
+typeName: Interview
+title: Tofumanufaktur Berlin Soy Rebels
+seoTitle: Tofumanufaktur Berlin Soy Rebels - Interview - "Tofu ist nicht gleich Tofu"
+ogTitle: Tofumanufaktur Berlin Soy Rebels - Interview - "Tofu ist nicht gleich Tofu"
 description: Ich habe mich mit Mateusz Wawrzyniak von der Tofumanufaktur über
   das Kollektiv unterhalten. Dabei habe ich einiges über Tofu erfahren.
 excerpt: Ich habe mich mit Mateusz Wawrzyniak von der Tofumanufaktur über das
   Kollektiv unterhalten. Dabei habe ich einiges über Tofu erfahren.
-focusKeyword: Tofu
+fileName: 2015-12---tofumanufaktur-berlin-soy-rebels.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Tofumanufaktur2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Tofumanufaktur2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIEBQYH/8QAJRAAAgIBBAEEAwEAAAAAAAAAAQIDBBEABSExEgYTQVEHIpEj/8QAFQEBAQAAAAAAAAAAAAAAAAAABAP/xAAdEQABBQADAQAAAAAAAAAAAAABAAIDESEiMUHx/9oADAMBAAIRAxEAPwDuuxbVX3Cqku61UmnQe3HI5Jf2s5VS3zgk6XcPRG2X/EnMXYwiA5+BnOetA3KrZ9LUN0ol4VuIuXBIYDnjjrBz1qiCtahiCSlZ5pmVp5ZGJ8VjZsEk5A7/ALpE1PdyGFFga5gw9Jk/G20xNGyB3i8xlGUftk9E9jvUyWzU2+8NqiSvHWr1wjkvlkZiBEoB+Dhh95H9hWK92rdpNWce355R0bgkDI8vsd96zHq+rd3b1Xt1uCxs8FSnajs2BBY/1sNGHOSuOSCzEAd574GjyQ+MS45QbMp+pI95j2Wg+zXz7VKkI3DiRQUL5YqS7AY5zjOedZ31PvcFijGIppVhezHJAvuA5OeCSvByPonRo0l5sajMbWhXFWU2t3ZdxexGtZTPD7MpGZAoAVvgrk86k1paJ3V46VGMWRMQTDXU/sBgH78uSM6NGpSgDAqRm1//2Q==
+ogImage: null
 labels:
   - Berlin
   - Interviews
@@ -20,17 +27,12 @@ labels:
   - Tofumanufaktur Soy Rebels
   - Vegane Lokale
   - vegane Lokale
-type: Artikel
-typeName: Interview
-date: 2015-12-02T15:16:51.000Z
+focusKeyword: Tofu
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29019"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Tofumanufaktur2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Tofumanufaktur2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIEBQYH/8QAJRAAAgIBBAEEAwEAAAAAAAAAAQIDBBEABSExEgYTQVEHIpEj/8QAFQEBAQAAAAAAAAAAAAAAAAAABAP/xAAdEQABBQADAQAAAAAAAAAAAAABAAIDESEiMUHx/9oADAMBAAIRAxEAPwDuuxbVX3Cqku61UmnQe3HI5Jf2s5VS3zgk6XcPRG2X/EnMXYwiA5+BnOetA3KrZ9LUN0ol4VuIuXBIYDnjjrBz1qiCtahiCSlZ5pmVp5ZGJ8VjZsEk5A7/ALpE1PdyGFFga5gw9Jk/G20xNGyB3i8xlGUftk9E9jvUyWzU2+8NqiSvHWr1wjkvlkZiBEoB+Dhh95H9hWK92rdpNWce355R0bgkDI8vsd96zHq+rd3b1Xt1uCxs8FSnajs2BBY/1sNGHOSuOSCzEAd574GjyQ+MS45QbMp+pI95j2Wg+zXz7VKkI3DiRQUL5YqS7AY5zjOedZ31PvcFijGIppVhezHJAvuA5OeCSvByPonRo0l5sajMbWhXFWU2t3ZdxexGtZTPD7MpGZAoAVvgrk86k1paJ3V46VGMWRMQTDXU/sBgH78uSM6NGpSgDAqRm1//2Q==
 subTitle: '"Tofu ist nicht gleich Tofu"'
   
 ---

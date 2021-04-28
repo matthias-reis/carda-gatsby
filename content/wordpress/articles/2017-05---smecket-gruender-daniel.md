@@ -1,16 +1,23 @@
 ---
-title: Smecket Gründer Daniel
-seoTitle: Interview mit Daniel Weiss von Smecket Tee - "Der Geschmack steht im Fokus"
+date: 2017-05-10T13:04:50.000Z
 slug: interview-mit-daniel-weiss-von-smecket
 path: /2017/05/interview-mit-daniel-weiss-von-smecket/
-fileName: 2017-05---smecket-gruender-daniel.md
+type: Artikel
+typeName: Interview
+title: Smecket Gründer Daniel
+seoTitle: Interview mit Daniel Weiss von Smecket Tee - "Der Geschmack steht im Fokus"
+ogTitle: Interview mit Daniel Weiss von Smecket Tee - "Der Geschmack steht im Fokus"
 description: Daniel von Smecket hat mir so einiges über die Teemanufaktur und
   sein Leben verraten. Klimaschutz ist für ihn ein besonders wichtiges Thema -
   ein Interview
 excerpt: Daniel von Smecket hat mir so einiges über die Teemanufaktur und sein
   Leben verraten. Klimaschutz ist für ihn ein besonders wichtiges Thema - ein
   Interview
-focusKeyword: Smecket
+fileName: 2017-05---smecket-gruender-daniel.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_gruener-tee-zitronengrass-minze_800x800__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_gruener-tee-zitronengrass-minze_800x800__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAGBAj/xAAlEAACAQMEAgIDAQAAAAAAAAABAgMEBREABhIhMUEHExQiMlH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQC/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAEQMhEjFRobH/2gAMAwEAAhEDEQA/AFoN73faO25qamt5r4GczEMXDRghPBUeOx5HvXJt/wCQbrvNnsUtsoKCCag4rPXvI8LGMhxy6A4nABwD0dAburDepIpLXUvBIXl4hXaGSUM364OCvSgZBx7OgNk2uStqrhUXWuMtuFO1K3OaScszsAFUxphOx/WesaXkZVW76gXyYl8nVu8t7fdtm9UlioJKKsWT6oCwYlUYCQLgsIypP7YAPj1rAJtW8wR00tC9ueKcBElp8sByOCTyGcjsdePHvXptPjjbt7t1JcK2joLpPGClTNWyzyT/AGKewJFYHoYGDoLdOw9tWe3fm7dtJtlTxTgVYuHYt2q8st4HLz1gD3qQnmdmx6+xoVHNR7ae36CluC1IgRmCu6LxwF45IGsrct0zbVtoqo6Omq0gKSLFLkAYXJ9+Se848941atV5BqplN9zebGvpqrFVTRRzKtVIZyksqycHb+uOFXAPXX+6B3VvvP5tmjto+toWWRpZ+Sno9qoUcTnvIOrVpIATQhxot1P/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_05_gruener-tee-zitronengrass-minze_800x800__l.jpg
 labels:
   - Bio
   - Bio-Tee
@@ -36,17 +43,12 @@ labels:
   - vegan
   - vegane Ernährung
   - Weißer Tee
-type: Artikel
-typeName: Interview
-date: 2017-05-10T13:04:50.000Z
+focusKeyword: Smecket
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16554"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_gruener-tee-zitronengrass-minze_800x800__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_gruener-tee-zitronengrass-minze_800x800__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAGBAj/xAAlEAACAQMEAgIDAQAAAAAAAAABAgMEBREABhIhMUEHExQiMlH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQC/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAEQMhEjFRobH/2gAMAwEAAhEDEQA/AFoN73faO25qamt5r4GczEMXDRghPBUeOx5HvXJt/wCQbrvNnsUtsoKCCag4rPXvI8LGMhxy6A4nABwD0dAburDepIpLXUvBIXl4hXaGSUM364OCvSgZBx7OgNk2uStqrhUXWuMtuFO1K3OaScszsAFUxphOx/WesaXkZVW76gXyYl8nVu8t7fdtm9UlioJKKsWT6oCwYlUYCQLgsIypP7YAPj1rAJtW8wR00tC9ueKcBElp8sByOCTyGcjsdePHvXptPjjbt7t1JcK2joLpPGClTNWyzyT/AGKewJFYHoYGDoLdOw9tWe3fm7dtJtlTxTgVYuHYt2q8st4HLz1gD3qQnmdmx6+xoVHNR7ae36CluC1IgRmCu6LxwF45IGsrct0zbVtoqo6Omq0gKSLFLkAYXJ9+Se848941atV5BqplN9zebGvpqrFVTRRzKtVIZyksqycHb+uOFXAPXX+6B3VvvP5tmjto+toWWRpZ+Sno9qoUcTnvIOrVpIATQhxot1P/2Q==
 subTitle: '"Der Geschmack steht im Vordergrund"'
   
 ---

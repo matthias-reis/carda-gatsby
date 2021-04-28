@@ -1,15 +1,22 @@
 ---
-title: Zu Gast in Flensburg
-seoTitle: Zu Gast in Flensburg - veganer Wochenendtripp in den hohen Norden
+date: 2019-09-05T14:40:37.000Z
 slug: zu-gast-in-flensburg
 path: /2019/09/zu-gast-in-flensburg/
-fileName: 2019-09---zu-gast-in-flensburg.md
+type: Artikel
+typeName: Artikel
+title: Zu Gast in Flensburg
+seoTitle: Zu Gast in Flensburg - veganer Wochenendtripp in den hohen Norden
+ogTitle: Zu Gast in Flensburg - veganer Wochenendtripp in den hohen Norden
 description: Flensburg ist auf jeden Fall eine Reise wert. Auch für
   Veganer*innen! Neben tollen Sehenswürdigkeiten gibt es jede Menge gemütliche
   Cafés.
 excerpt: Flensburg ist auf jeden Fall eine Reise wert. Auch für Veganer*innen!
   Neben tollen Sehenswürdigkeiten gibt es jede Menge gemütliche Cafés.
-focusKeyword: Flensburg
+fileName: 2019-09---zu-gast-in-flensburg.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_flensburg-schifffahrtsmuseum-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_flensburg-schifffahrtsmuseum-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBP/EACsQAAICAQMDAgQHAAAAAAAAAAECAwQRAAUhBgcSE1EjMUGBCBQiMmFikf/EABcBAAMBAAAAAAAAAAAAAAAAAAABBAP/xAAgEQABAwQCAwAAAAAAAAAAAAABAAIRAxITISJCMVGh/9oADAMBAAIRAxEAPwCodxD+W6g3C7I8/pw1oiVjJPPIHAPuRpA6V3m5enrR3pbJczo8bOSjFC4xkDA4OR9tUjufVSeHfJZITM1eqk8agn96cg8e2ob2136Tfu54S1CYklleZY428kST1PInJGcYwAP6jU7775A0t2BhbBO9/FQN3mtVo69WrNMJ7VqQlvWYYjSQlvr9Rxqg9vy9izXsyMxcxOrfELA8jn/Pvqf9a2Ho9PHcoRC0lSV5lWZiqsQ5ypI+WRwP5xpl7C7vJvmzvuEwRGsWbEgiQfpiywJUZ5xkk8++k0VMxd1QX08QZ2WHvTtF/f7Vyjt9qxVnjjjmiKKfCVwreKMw+QzjnSj2s6W3DpyzNZ3GrJDLZtK6xDLlVyoGSBg6NGqD6U8blZu5tHd906PKbbHunwrLevWrwsfWiLkNlcZbHBA06/h02+9tPT9GruVSxWsSLPO0c0bIygsPHII4OADjRo0x4SjlK//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_09_flensburg-fb.png__l.jpg
 labels:
   - Ausflug
   - Café Central
@@ -27,17 +34,12 @@ labels:
   - vegane Cafés
   - Vegane Lokale
   - vegane Lokale
-type: Artikel
-typeName: Artikel
-date: 2019-09-05T14:40:37.000Z
+focusKeyword: Flensburg
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "26109"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_flensburg-schifffahrtsmuseum-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_flensburg-schifffahrtsmuseum-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBP/EACsQAAICAQMDAgQHAAAAAAAAAAECAwQRAAUhBgcSE1EjMUGBCBQiMmFikf/EABcBAAMBAAAAAAAAAAAAAAAAAAABBAP/xAAgEQABAwQCAwAAAAAAAAAAAAABAAIRAxITISJCMVGh/9oADAMBAAIRAxEAPwCodxD+W6g3C7I8/pw1oiVjJPPIHAPuRpA6V3m5enrR3pbJczo8bOSjFC4xkDA4OR9tUjufVSeHfJZITM1eqk8agn96cg8e2ob2136Tfu54S1CYklleZY428kST1PInJGcYwAP6jU7775A0t2BhbBO9/FQN3mtVo69WrNMJ7VqQlvWYYjSQlvr9Rxqg9vy9izXsyMxcxOrfELA8jn/Pvqf9a2Ho9PHcoRC0lSV5lWZiqsQ5ypI+WRwP5xpl7C7vJvmzvuEwRGsWbEgiQfpiywJUZ5xkk8++k0VMxd1QX08QZ2WHvTtF/f7Vyjt9qxVnjjjmiKKfCVwreKMw+QzjnSj2s6W3DpyzNZ3GrJDLZtK6xDLlVyoGSBg6NGqD6U8blZu5tHd906PKbbHunwrLevWrwsfWiLkNlcZbHBA06/h02+9tPT9GruVSxWsSLPO0c0bIygsPHII4OADjRo0x4SjlK//Z
 subTitle: Veganer Wochenendtripp in den hohen Norden
   
 ---

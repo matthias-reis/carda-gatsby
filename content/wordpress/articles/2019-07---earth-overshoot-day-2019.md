@@ -1,16 +1,23 @@
 ---
-title: Earth Overshoot Day 2019
-seoTitle: "Earth Overshoot Day 2019 - #MoveTheDate - wir müssen jetzt handeln!"
+date: 2019-07-28T15:47:29.000Z
 slug: earth-overshoot-day-2019
 path: /2019/07/earth-overshoot-day-2019/
-fileName: 2019-07---earth-overshoot-day-2019.md
+type: Artikel
+typeName: Artikel
+title: Earth Overshoot Day 2019
+seoTitle: "Earth Overshoot Day 2019 - #MoveTheDate - wir müssen jetzt handeln!"
+ogTitle: "Earth Overshoot Day 2019 - #MoveTheDate - wir müssen jetzt handeln!"
 description: "Jedes Jahr findet der Earth Overshoot Day früher statt - das
   sollte uns Sorgen bereiten. Unter dem Hashtag #MoveTheDate gibt es 2019
   zahlreiche Aktionen."
 excerpt: "Jedes Jahr findet der Earth Overshoot Day früher statt - das sollte
   uns Sorgen bereiten. Unter dem Hashtag #MoveTheDate gibt es 2019 zahlreiche
   Aktionen."
-focusKeyword: Earth Overshoot Day 2019
+fileName: 2019-07---earth-overshoot-day-2019.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-31-51__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-31-51__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAUD/8QALBAAAQQBAwIFAgcAAAAAAAAAAQIDBBEFABIhBjETFCIyQRVRFjNhgaGx4f/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAcEQACAwADAQAAAAAAAAAAAAABAgARIRITMUH/2gAMAwEAAhEDEQA/AEbI9PN9PQmZ8luSpMhS2I7TqqQ6ujQpJCu9Ue1iidX8R0w06/5jNS5L74G+TuUCXVq7poD1Gyf251lRs3kM7Ki5CXFS75BS2IryW/SolX5lHjcigLHzZ06hGU+jvSM/j3XHNxEdxhratkDjcocbgfvqBu3jnsPBTgivnX2sxmnET3W4TaSmm0qADO0EAJv3Aih+mqGE6fwDmbaYkTJMlpayra2+EggJJ91cdh21gSlJ88+6s9lUlYSa5uwq+f8ARqYk2JHbcTIYaaJQUB5KjfPexf20zrISlPyYAo7KfR/UmTwNFqTPHhD0JRIWlCU82AkcfP8AOn/OdYS8a5EYiMpTIZDhkp8wuSFlJFJJUS2qhfCAKo82NGjT203CDk6NqZ6wxylZOS2zk/EDy48ZlDUdhoi9xT7lr+eOBdcaWPwdBnmY03mFpkRk70pVGKfFRXB91D++NGjSyxW6lKKrAEj2f//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-31-49__l.jpg
 labels:
   - Earth Overshoot Day
   - Earth Overshoot Day 2019
@@ -21,17 +28,12 @@ labels:
   - Mathis Wackernagel
   - MoveTheDate
   - ökologischer Fussabdruck
-type: Artikel
-typeName: Artikel
-date: 2019-07-28T15:47:29.000Z
+focusKeyword: Earth Overshoot Day 2019
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "25522"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-31-51__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-31-51__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAUD/8QALBAAAQQBAwIFAgcAAAAAAAAAAQIDBBEFABIhBjETFCIyQRVRFjNhgaGx4f/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAcEQACAwADAQAAAAAAAAAAAAABAgARIRITMUH/2gAMAwEAAhEDEQA/AEbI9PN9PQmZ8luSpMhS2I7TqqQ6ujQpJCu9Ue1iidX8R0w06/5jNS5L74G+TuUCXVq7poD1Gyf251lRs3kM7Ki5CXFS75BS2IryW/SolX5lHjcigLHzZ06hGU+jvSM/j3XHNxEdxhratkDjcocbgfvqBu3jnsPBTgivnX2sxmnET3W4TaSmm0qADO0EAJv3Aih+mqGE6fwDmbaYkTJMlpayra2+EggJJ91cdh21gSlJ88+6s9lUlYSa5uwq+f8ARqYk2JHbcTIYaaJQUB5KjfPexf20zrISlPyYAo7KfR/UmTwNFqTPHhD0JRIWlCU82AkcfP8AOn/OdYS8a5EYiMpTIZDhkp8wuSFlJFJJUS2qhfCAKo82NGjT203CDk6NqZ6wxylZOS2zk/EDy48ZlDUdhoi9xT7lr+eOBdcaWPwdBnmY03mFpkRk70pVGKfFRXB91D++NGjSyxW6lKKrAEj2f//Z
 subTitle: "#MoveTheDate - Wir müssen jetzt handeln!"
   
 ---

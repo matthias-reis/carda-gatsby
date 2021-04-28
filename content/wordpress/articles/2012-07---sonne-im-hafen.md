@@ -1,14 +1,21 @@
 ---
-title: Sonne im Hafen
-seoTitle: Sonne im Hafen - Bilder aus Calais
+date: 2012-07-28T11:26:03.000Z
 slug: sonne-im-hafen
 path: /2012/07/sonne-im-hafen/
-fileName: 2012-07---sonne-im-hafen.md
+type: Galerie
+typeName: Galerie
+title: Sonne im Hafen
+seoTitle: Sonne im Hafen - Bilder aus Calais
+ogTitle: Sonne im Hafen - Bilder aus Calais
 description: Sonne im Hafen - Meine Bilder aus Calais - Erinnerungen an den
   Sommer in England 2012 - Artikel 1 von 9
 excerpt: Das sind meine Bilder aus Calais - die Sonne zeigte sich von ihrer
   besten Seite.
-focusKeyword: Sonne im Hafen
+fileName: 2012-07---sonne-im-hafen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_nikon-1018__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_nikon-1018__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwUE/8QAHhABAAIDAAMBAQAAAAAAAAAAAQACAwQREiExQnH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwYAAf/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEx/9oADAMBAAIRAxEAPwB+xVkdirKMlyzBhts564sbUtb55PCcuTgoWLB66d4zS0tumtp7TW6bD4lKPxF9v9JmZ7l7titaD+anAgQ6dPeIZUypWdZfIYQhixLSm5CE6Y//2Q==
+ogImage: null
 labels:
   - Britische Inseln
   - england2012
@@ -25,17 +32,12 @@ labels:
   - Schiffe
   - Sonne
   - Wetter
-type: Galerie
-typeName: Galerie
-date: 2012-07-28T11:26:03.000Z
+focusKeyword: Sonne im Hafen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "3332"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_nikon-1018__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_nikon-1018__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwUE/8QAHhABAAIDAAMBAQAAAAAAAAAAAQACAwQREiExQnH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwYAAf/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEx/9oADAMBAAIRAxEAPwB+xVkdirKMlyzBhts564sbUtb55PCcuTgoWLB66d4zS0tumtp7TW6bD4lKPxF9v9JmZ7l7titaD+anAgQ6dPeIZUypWdZfIYQhixLSm5CE6Y//2Q==
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 1/9
   
 ---

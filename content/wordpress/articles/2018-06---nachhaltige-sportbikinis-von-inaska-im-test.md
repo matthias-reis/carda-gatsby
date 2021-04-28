@@ -1,16 +1,23 @@
 ---
-title: Nachhaltige Sportbikinis von Inaska im Test
-seoTitle: Nachhaltige Sportbinikis aus Fischernetzen von Inaska im Test
+date: 2018-06-05T05:41:43.000Z
 slug: inaska-sportbikinis
 path: /2018/06/inaska-sportbikinis/
-fileName: 2018-06---nachhaltige-sportbikinis-von-inaska-im-test.md
+type: Artikel
+typeName: Produkttest
+title: Nachhaltige Sportbikinis von Inaska im Test
+seoTitle: Nachhaltige Sportbinikis aus Fischernetzen von Inaska im Test
+ogTitle: Nachhaltige Sportbinikis aus Fischernetzen von Inaska im Test
 description: Kennt Ihr schon Inaska? Der Name steht für nachhaltige Sportbikinis
   aus Fischernetzen. Ich hatte jetzt Gelegenheit, mein Lieblingsmodell zu
   testen.
 excerpt: Werbung - Kennt Ihr schon Inaska? Der Name steht für nachhaltige
   Sportbikinis aus Fischernetzen und anderem Meeresmüll. Ich hatte jetzt
   Gelegenheit, mein Lieblingsmodell zu testen.
-focusKeyword: Inaska
+fileName: 2018-06---nachhaltige-sportbikinis-von-inaska-im-test.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_27662954187_dee18fc9af_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_27662954187_dee18fc9af_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcI/8QAJhAAAgIBAwQCAwEBAAAAAAAAAQIDBBEABQYSEyExImEHQVEUQv/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAfEQABBAICAwAAAAAAAAAAAAABAAIDIRESMYFRsfD/2gAMAwEAAhEDEQA/AKLS3rj0Ntq97c46vbDdTCCSYhh/zhB7z96X3ue7VAZEo1LFggkKZEEYb7xkkaabj+K7292Y932pwtCzfjq2UWNpJYmZep5EQeXAGT0jzn+6v268V4tx7lPDqlDaKm4ce3eq232u70ylmEmUsMffcDM2SCCFDDxjAYXgUliPa8rFTzPdLjSSVKcEUMC92f3IAmQP3jHsevOrKl2veqUpqtmpYaaDuyRxEq9d8lWjdT5BGAc+iCCNN/yPUXgFff8AZ+PxXE2vdLwqvAUWSEEQ9RjDnJBy6Y85+J/ms52/jVhDHZed0tIVxFXhaUoW9CRh8VyB+9MZG6RuzePvNLMskcRDSbPfrJ74XVHBqK2OE1I7CsO48ljp9E9YKq2fBBA8g/3TSLhGz/7/APVLXksPKZO6ZrEjsVLP6Pc+JIIGRgk+T7OjRqIk5KpAoKdW43t9XbYaIqwtRQyNJUkjWSKYuUOZOpiXYfL5Ek+/rKPku1Q0eAbht0K1Yq8WJ41giEaIQ4LHA++o/QOP1o0aIJRIX//Z
+ogImage: null
 labels:
   - Bikini
   - Bikinis aus Fischernetzen
@@ -38,17 +45,12 @@ labels:
   - surfridereu
   - Surfwear
   - vegan
-type: Artikel
-typeName: Produkttest
-date: 2018-06-05T05:41:43.000Z
+focusKeyword: Inaska
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "21166"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_27662954187_dee18fc9af_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_27662954187_dee18fc9af_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcI/8QAJhAAAgIBAwQCAwEBAAAAAAAAAQIDBBEABQYSEyExImEHQVEUQv/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAfEQABBAICAwAAAAAAAAAAAAABAAIDIRESMYFRsfD/2gAMAwEAAhEDEQA/AKLS3rj0Ntq97c46vbDdTCCSYhh/zhB7z96X3ue7VAZEo1LFggkKZEEYb7xkkaabj+K7292Y932pwtCzfjq2UWNpJYmZep5EQeXAGT0jzn+6v268V4tx7lPDqlDaKm4ce3eq232u70ylmEmUsMffcDM2SCCFDDxjAYXgUliPa8rFTzPdLjSSVKcEUMC92f3IAmQP3jHsevOrKl2veqUpqtmpYaaDuyRxEq9d8lWjdT5BGAc+iCCNN/yPUXgFff8AZ+PxXE2vdLwqvAUWSEEQ9RjDnJBy6Y85+J/ms52/jVhDHZed0tIVxFXhaUoW9CRh8VyB+9MZG6RuzePvNLMskcRDSbPfrJ74XVHBqK2OE1I7CsO48ljp9E9YKq2fBBA8g/3TSLhGz/7/APVLXksPKZO6ZrEjsVLP6Pc+JIIGRgk+T7OjRqIk5KpAoKdW43t9XbYaIqwtRQyNJUkjWSKYuUOZOpiXYfL5Ek+/rKPku1Q0eAbht0K1Yq8WJ41giEaIQ4LHA++o/QOP1o0aIJRIX//Z
 subTitle: Bademode aus Fischernetzen
   
 ---

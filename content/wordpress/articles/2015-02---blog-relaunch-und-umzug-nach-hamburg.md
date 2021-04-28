@@ -1,15 +1,22 @@
 ---
-title: Blog-Relaunch und Umzug nach Hamburg
-seoTitle: Blog-Relaunch und Umzug nach Hamburg
+date: 2015-02-11T11:59:34.000Z
 slug: blog-relaunch-und-umzug-nach-hamburg
 path: /2015/02/blog-relaunch-und-umzug-nach-hamburg/
-fileName: 2015-02---blog-relaunch-und-umzug-nach-hamburg.md
+type: Artikel
+typeName: Artikel
+title: Blog-Relaunch und Umzug nach Hamburg
+seoTitle: Blog-Relaunch und Umzug nach Hamburg
+ogTitle: Blog-Relaunch und Umzug nach Hamburg
 description: Der Umzug meines Blogs ist so gut wie abgeschlossen un auch unser
   Umzug nach Hamburg steht in den nächsten Tagen an...
 excerpt: Derzeit herrscht hier Aufbruchstimmung. Wenn ich nicht am Computer
   sitze und schreibe, sortiere ich unser Hab und Gut aus und packe alles, was
   nicht abgegeben, weggeschmissen oder gespendet wird, in Kartons.
-focusKeyword: Umzug
+fileName: 2015-02---blog-relaunch-und-umzug-nach-hamburg.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02_16341484335_3cab85705b_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_02_16341484335_3cab85705b_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBwUI/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDAAQRBRIhBhQxE1GRIiNBcTJSgf/EABcBAQEBAQAAAAAAAAAAAAAAAAQFAQL/xAAbEQADAQADAQAAAAAAAAAAAAAAAQIRBCFBA//aAAwDAQACEQMRAD8AUtekGESByqljypwMexBz+6pdP0We1hkdlt57eJBv3xKQFHI5x4rMX1i3SNhNLKSBub1NwBAP58+Ca6+ialpdx9I7dN/BAuFdWA9wSDxVO+Y6WPCbHCmK1aaL2+n2t3PFcW1tPfMDI+VEnG3IGFHHAqpg6cghtkj7cqwwPUGRnJ9v94qB0yGyLNNHawFm4MigqTnjzmqa2EEQLR2bNJ5JibJ85/tnzQr+jfo2IleHmmDqG9g2JfRRX8Q4DEBHA/f8T8CnobzpvUGX1WazucAYl+18Zypooo7XWid7xj1zos7iNtI1RbdVYMqSAshIHBBU+/PxRE3W2lsJYH71gGG6C43l845KsQQRj8CiiuFTNco//9k=
+ogImage: null
 labels:
   - Design
   - die schönste Stadt der Welt
@@ -21,17 +28,12 @@ labels:
   - Tagebuch
   - Tattoo
   - Umzug
-type: Artikel
-typeName: Artikel
-date: 2015-02-11T11:59:34.000Z
+focusKeyword: Umzug
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "9464"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02_16341484335_3cab85705b_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_02_16341484335_3cab85705b_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBwUI/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDAAQRBRIhBhQxE1GRIiNBcTJSgf/EABcBAQEBAQAAAAAAAAAAAAAAAAQFAQL/xAAbEQADAQADAQAAAAAAAAAAAAAAAQIRBCFBA//aAAwDAQACEQMRAD8AUtekGESByqljypwMexBz+6pdP0We1hkdlt57eJBv3xKQFHI5x4rMX1i3SNhNLKSBub1NwBAP58+Ca6+ialpdx9I7dN/BAuFdWA9wSDxVO+Y6WPCbHCmK1aaL2+n2t3PFcW1tPfMDI+VEnG3IGFHHAqpg6cghtkj7cqwwPUGRnJ9v94qB0yGyLNNHawFm4MigqTnjzmqa2EEQLR2bNJ5JibJ85/tnzQr+jfo2IleHmmDqG9g2JfRRX8Q4DEBHA/f8T8CnobzpvUGX1WazucAYl+18Zypooo7XWid7xj1zos7iNtI1RbdVYMqSAshIHBBU+/PxRE3W2lsJYH71gGG6C43l845KsQQRj8CiiuFTNco//9k=
 subTitle: Teil III: Die Vorfreude
   
 ---

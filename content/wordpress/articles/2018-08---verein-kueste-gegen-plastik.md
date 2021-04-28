@@ -1,16 +1,23 @@
 ---
-title: Verein Küste gegen Plastik
-seoTitle: Replace Plastic App soll Plastikmüllflut stoppen - Küste gegen Plastik
+date: 2018-08-15T15:07:00.000Z
 slug: replace-plastic-app-kueste-gegen-plastik
 path: /2018/08/replace-plastic-app-kueste-gegen-plastik/
-fileName: 2018-08---verein-kueste-gegen-plastik.md
+type: Artikel
+typeName: Artikel
+title: Verein Küste gegen Plastik
+seoTitle: Replace Plastic App soll Plastikmüllflut stoppen - Küste gegen Plastik
+ogTitle: Replace Plastic App soll Plastikmüllflut stoppen - Küste gegen Plastik
 description: Mit der vom Verein "Küste gegen Plastik" entwickelten App "Replace
   Plastic" kann man Firmen den Wunsch nach nachhaltigeren Verpackungen
   mitteilen.
 excerpt: Mit der vom Verein "Küste gegen Plastik" entwickelten App "Replace
   Plastic" kann man Firmen den Wunsch nach nachhaltigeren Verpackungen
   mitteilen.
-focusKeyword: Replace Plastic
+fileName: 2018-08---verein-kueste-gegen-plastik.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_20166493795_ca0c6b5c28_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_20166493795_ca0c6b5c28_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQCBgMFB//EACkQAAIABQIEBgMAAAAAAAAAAAECAAMEESESMQUGE1EiMmFxgaFBU7H/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAYEQEBAQEBAAAAAAAAAAAAAAAAARICMf/aAAwDAQACEQMRAD8At1DzTUMjEAuCTgnKjf1yPuHZXH57NbqvdCdagLtfH4IGNzf4jnlFTzbE6JtzvYQ8smcRmTPI7MYJ3Tlf05kYyyWSS53Byo09/eMM3mWWiljSa7qSOm+3a/pFWouHLNoa+uqq0yXp1AlUzJYG5F3NgTgA+mc7RoaytPXKrUAFk1BkUsjL3DDwn4N4rd9GYhS8UCkeFCdvNn+Q+OI6rG67/s2+oIIxWhPr5kwy9M2Uqgk2OWOO9xYQotW8qlSWZhmhAF16Rn3AxBBCX//Z
+ogImage: null
 labels:
   - Klima & Umweltschutz
   - Küste
@@ -32,17 +39,12 @@ labels:
   - Umweltschutz
   - Zero Waste
   - zerowaste
-type: Artikel
-typeName: Artikel
-date: 2018-08-15T15:07:00.000Z
+focusKeyword: Replace Plastic
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "12133"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_20166493795_ca0c6b5c28_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_20166493795_ca0c6b5c28_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQCBgMFB//EACkQAAIABQIEBgMAAAAAAAAAAAECAAMEESESMQUGE1EiMmFxgaFBU7H/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAYEQEBAQEBAAAAAAAAAAAAAAAAARICMf/aAAwDAQACEQMRAD8At1DzTUMjEAuCTgnKjf1yPuHZXH57NbqvdCdagLtfH4IGNzf4jnlFTzbE6JtzvYQ8smcRmTPI7MYJ3Tlf05kYyyWSS53Byo09/eMM3mWWiljSa7qSOm+3a/pFWouHLNoa+uqq0yXp1AlUzJYG5F3NgTgA+mc7RoaytPXKrUAFk1BkUsjL3DDwn4N4rd9GYhS8UCkeFCdvNn+Q+OI6rG67/s2+oIIxWhPr5kwy9M2Uqgk2OWOO9xYQotW8qlSWZhmhAF16Rn3AxBBCX//Z
 subTitle: Replace Plastic App soll Plastikflut stoppen
   
 ---

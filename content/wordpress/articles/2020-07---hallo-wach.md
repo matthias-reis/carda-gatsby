@@ -1,16 +1,23 @@
 ---
-title: Hallo wach!
-seoTitle: Koffein-Riegel von Wingman - Hallo wach!
+date: 2020-07-20T10:57:13.000Z
 slug: koffein-riegel-wingman
 path: /2020/07/koffein-riegel-wingman/
-fileName: 2020-07---hallo-wach.md
+type: Artikel
+typeName: Produkttest
+title: Hallo wach!
+seoTitle: Koffein-Riegel von Wingman - Hallo wach!
+ogTitle: Koffein-Riegel von Wingman - Hallo wach!
 description: "Ich habe die Koffein-Riegel von Wingman getestet. Hier ist mein
   Bericht. Ich verrate schon mal so viel: Ich fühle mich im Moment ziemlich
   fokussiert."
 excerpt: "Werbung & Affiliate Links - Ich habe die Koffein-Riegel von Wingman
   getestet. Hier ist mein Bericht. Ich verrate schon mal so viel: Ich fühle mich
   im Moment ziemlich fokussiert."
-focusKeyword: Koffein-Riegel
+fileName: 2020-07---hallo-wach.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-wingman-15__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-wingman-15__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwEDBP/EAC0QAAICAgECAwUJAAAAAAAAAAECAwQFEQAhMRITQQYUInHhIzIzQlFhcpHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMEBf/EAB4RAAICAgIDAAAAAAAAAAAAAAECABEDEhMhMUHx/9oADAMBAAIRAxEAPwCdjyWPwb4iKTHe9LlnjZX3pVUrvv8Ar9eP6YzE34GNYIsmvuOAD9eVSLPn4TE1bVfz2xln3mIeHZdArEREfyP9E9DrjFi/avF3IR46NqmyoSXqutqJdDejrTKfTWvUcm7aOdvEphXmQFOz7+SN9sMcK1gBYh1PhVQvc8W8ljo0gWMAEqNnlgtkKWQljjnkdbLL9mlpTG4HTsD3HUHoT35w5PEVqlOxdyk4q4+H8aZu5PoiD8znsB/nClObBjyA4xTCoqYfLVZYQLgMcvbzCO2j6a5nNUJ57D2oK2PvwFQQW8Uc6n11IhBI+YJ4cOarnJBK9iRcWfeShYx91I0jLh0Y2XZlOtHex8QIAHUkdBzTns7dysgfL20tJGPBDEEAiiXWtKgGh8x1/fhw4eNVNqKlmyvkFMbqf//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_koffein-riegel-fb.png__l.jpg
 labels:
   - Ernährung & Gesundheit
   - Koffein
@@ -19,17 +26,12 @@ labels:
   - vegan
   - vegane Riegel
   - Wingman
-type: Artikel
-typeName: Produkttest
-date: 2020-07-20T10:57:13.000Z
+focusKeyword: Koffein-Riegel
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30599"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-wingman-15__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-wingman-15__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwEDBP/EAC0QAAICAgECAwUJAAAAAAAAAAECAwQFEQAhMRITQQYUInHhIzIzQlFhcpHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMEBf/EAB4RAAICAgIDAAAAAAAAAAAAAAECABEDEhMhMUHx/9oADAMBAAIRAxEAPwCdjyWPwb4iKTHe9LlnjZX3pVUrvv8Ar9eP6YzE34GNYIsmvuOAD9eVSLPn4TE1bVfz2xln3mIeHZdArEREfyP9E9DrjFi/avF3IR46NqmyoSXqutqJdDejrTKfTWvUcm7aOdvEphXmQFOz7+SN9sMcK1gBYh1PhVQvc8W8ljo0gWMAEqNnlgtkKWQljjnkdbLL9mlpTG4HTsD3HUHoT35w5PEVqlOxdyk4q4+H8aZu5PoiD8znsB/nClObBjyA4xTCoqYfLVZYQLgMcvbzCO2j6a5nNUJ57D2oK2PvwFQQW8Uc6n11IhBI+YJ4cOarnJBK9iRcWfeShYx91I0jLh0Y2XZlOtHex8QIAHUkdBzTns7dysgfL20tJGPBDEEAiiXWtKgGh8x1/fhw4eNVNqKlmyvkFMbqf//Z
 subTitle: Koffein-Riegel von Wingman
   
 ---

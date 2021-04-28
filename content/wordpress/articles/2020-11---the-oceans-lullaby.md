@@ -1,16 +1,23 @@
 ---
-title: The Ocean's Lullaby
-seoTitle: Six Days Of Calm – "The Ocean's Lullaby" – Plattenrezension
+date: 2020-11-10T11:05:11.000Z
 slug: the-oceans-lullaby-six-days-of-calm
 path: /2020/11/the-oceans-lullaby-six-days-of-calm/
-fileName: 2020-11---the-oceans-lullaby.md
+type: Artikel
+typeName: Review
+title: The Ocean's Lullaby
+seoTitle: Six Days Of Calm – "The Ocean's Lullaby" – Plattenrezension
+ogTitle: Six Days Of Calm – "The Ocean's Lullaby" – Plattenrezension
 description: Vor Kurzem habe ich Euch an dieser Stelle Six Days Of Calm aka Marc
   Fischer vorgestellt. Am 6. November erschien sein Debütalbum "The Ocean's
   Lullaby".
 excerpt: Vor Kurzem habe ich Euch an dieser Stelle Six Days Of Calm aka Marc
   Fischer vorgestellt. Am 6. November erschien sein Debütalbum "The Ocean's
   Lullaby".
-focusKeyword: Six Days Of Calm
+fileName: 2020-11---the-oceans-lullaby.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_six-days-of-calm__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_six-days-of-calm__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBggDBf/EACsQAAEDAgUDAwQDAAAAAAAAAAECAwQFEQAGEiExEyJRFUFhBxQyQmKhsf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwB9UeM6ZCQv7cRnEnSgatZVtx7WsDf5G2J0eG5EjJC3lSXN9RUlIKvCRx55PjHMqiSK3ZL950NpTZJPYnUAbH+QG/wFfOPGerb9NrjbFUlRVMy3A2yjRpNj+2oG1uecBKq9Uo1PqTcGo1CmMuPggNSJKEuKPIAQrkEX3wqsz5nyFSZlSgRq41RKk25obFGkLSHFEfulKSzybG/zc4UX1byVmmVWsxV+qMy5UdcvTFkoa66H0E9vcn8AlAHIt7c4U0zW3EQl1CmyQlSQpNrgj/Nv7wGpXKlmjLGe6y/6NUqpEmSXZESRDimS2tDir6FhJ7SL6d/HjF5bjT63JczDmijttJiR1vxaIFpW66tDZt1NyANzZAubqueBgwYCqMVVyoZUjzcgQHY05gLckxJTzyWmlpRcIR1e1ZUrYAce9sZVzSKuqqOorjb/AKlbqvJcSAtNwOQPxAHttYYMGA//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_11_Kopie-von-six-days-of-calm-fb.png__l.jpg
 labels:
   - Ambient
   - Bands
@@ -30,17 +37,12 @@ labels:
   - The Ocean's Lullaby
   - Watch Them Fade
   - Würzburg
-type: Artikel
-typeName: Review
-date: 2020-11-10T11:05:11.000Z
+focusKeyword: Six Days Of Calm
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31816"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_six-days-of-calm__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_six-days-of-calm__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBggDBf/EACsQAAEDAgUDAwQDAAAAAAAAAAECAwQFEQAGEiExEyJRFUFhBxQyQmKhsf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwB9UeM6ZCQv7cRnEnSgatZVtx7WsDf5G2J0eG5EjJC3lSXN9RUlIKvCRx55PjHMqiSK3ZL950NpTZJPYnUAbH+QG/wFfOPGerb9NrjbFUlRVMy3A2yjRpNj+2oG1uecBKq9Uo1PqTcGo1CmMuPggNSJKEuKPIAQrkEX3wqsz5nyFSZlSgRq41RKk25obFGkLSHFEfulKSzybG/zc4UX1byVmmVWsxV+qMy5UdcvTFkoa66H0E9vcn8AlAHIt7c4U0zW3EQl1CmyQlSQpNrgj/Nv7wGpXKlmjLGe6y/6NUqpEmSXZESRDimS2tDir6FhJ7SL6d/HjF5bjT63JczDmijttJiR1vxaIFpW66tDZt1NyANzZAubqueBgwYCqMVVyoZUjzcgQHY05gLckxJTzyWmlpRcIR1e1ZUrYAce9sZVzSKuqqOorjb/AKlbqvJcSAtNwOQPxAHttYYMGA//2Q==
 subTitle: Six Days Of Calm Plattenrezension
   
 ---

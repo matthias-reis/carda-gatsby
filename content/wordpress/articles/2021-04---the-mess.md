@@ -1,16 +1,23 @@
 ---
-title: '"The Mess"'
-seoTitle: Yagow veröffentlichen im Juni ihr neues Album "The Mess"
+date: 2021-04-14T08:00:59.000Z
 slug: yagow-the-mess-review
 path: /2021/04/yagow-the-mess-review/
-fileName: 2021-04---the-mess.md
+type: Artikel
+typeName: Review
+title: '"The Mess"'
+seoTitle: Yagow veröffentlichen im Juni ihr neues Album "The Mess"
+ogTitle: Yagow veröffentlichen im Juni ihr neues Album "The Mess"
 description: Yagow planen für Juni einen Release, der es so richtig in sich hat.
   Ich habe mir "The Mess" schon angehört und empfehle Euch die Platte sehr.
 excerpt: English & German – Yagow planen für Juni einen Release, der es so
   richtig in sich hat. Ich habe mir "The Mess" schon mal angehört und bin
   fasziniert von der Vielseitigkeit des Albums. Nach "s​/​t" von 2017 ist "The
   Mess" die zweite LP der Band aus Saarbrücken.
-focusKeyword: Yagow
+fileName: 2021-04---the-mess.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_yagow__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_yagow__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAHAAAAQMFAAAAAAAAAAAAAAAAAAUGBwECAwQI/8QALBAAAgECBQMDAgcAAAAAAAAAAQIDBBEABQYSIQcTMRQiQSNRQmFxgZGhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAQADAQEAAAAAAAAAAAAAAAABAhExQf/aAAwDAQACEQMRAD8Alehn9EtSlZwkStLE1yzPGB7rjzcH+iMYcu1BT5vRwVWXrLGN8kciSAKyleLG1wQfIIOLM8qqqLSWYV0KPTV9PBJNELBirKDbj5v9vnEV6J1ZXrqyko6ioFXHmbtIY9i3SRkDq4I8BgDcfcHFNJtk4WOqWrTk80MCq8jjtVjKJNoAR77b+bsFIBHi2F3qRVLV6O78UZb1USuF3AFFZb7v2uB+uGDr3J5s46m5ZltSGihrafvMwBbZsRxzb8IsCfHnDzzKpOcaCin7UCzGMw7IH7irsYpYHzztB2nkXtgnd0+suEaZP79zxhCSHuTbngg/5jn3TNK0HWCt7lKfR+pqoljL8r2Qr/xZhb8mwYMC/imvlqaXNa6reRqWhXL2paN40ZyDvRuWF9hezKpv8c2xo9L8yqIdOar+pL2o4lnjAN9rXsSL+D45wYMGc9f/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_yagow-fb.png__l.jpg
 labels:
   - Aventgarde
   - Bands
@@ -29,17 +36,12 @@ labels:
   - Stoner-Rock
   - Super Nova Studios
   - Yagow
-type: Artikel
-typeName: Review
-date: 2021-04-14T08:00:59.000Z
+focusKeyword: Yagow
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33972"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_yagow__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_yagow__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAHAAAAQMFAAAAAAAAAAAAAAAAAAUGBwECAwQI/8QALBAAAgECBQMDAgcAAAAAAAAAAQIDBBEABQYSIQcTMRQiQSNRQmFxgZGhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAQADAQEAAAAAAAAAAAAAAAABAhExQf/aAAwDAQACEQMRAD8Alehn9EtSlZwkStLE1yzPGB7rjzcH+iMYcu1BT5vRwVWXrLGN8kciSAKyleLG1wQfIIOLM8qqqLSWYV0KPTV9PBJNELBirKDbj5v9vnEV6J1ZXrqyko6ioFXHmbtIY9i3SRkDq4I8BgDcfcHFNJtk4WOqWrTk80MCq8jjtVjKJNoAR77b+bsFIBHi2F3qRVLV6O78UZb1USuF3AFFZb7v2uB+uGDr3J5s46m5ZltSGihrafvMwBbZsRxzb8IsCfHnDzzKpOcaCin7UCzGMw7IH7irsYpYHzztB2nkXtgnd0+suEaZP79zxhCSHuTbngg/5jn3TNK0HWCt7lKfR+pqoljL8r2Qr/xZhb8mwYMC/imvlqaXNa6reRqWhXL2paN40ZyDvRuWF9hezKpv8c2xo9L8yqIdOar+pL2o4lnjAN9rXsSL+D45wYMGc9f/2Q==
 subTitle: Das neue Album von Yagow
   
 ---

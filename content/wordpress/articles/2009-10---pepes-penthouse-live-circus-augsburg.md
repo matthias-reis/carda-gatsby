@@ -1,28 +1,30 @@
 ---
-title: PEPES PENTHOUSE live @ Circus Augsburg
-seoTitle: Pepes Penthouse live @ Circus Augsburg
+date: 2009-10-02T18:35:47.000Z
 slug: pepes-penthouse-live-circus-augsburg
 path: /2009/10/pepes-penthouse-live-circus-augsburg/
-fileName: 2009-10---pepes-penthouse-live-circus-augsburg.md
+type: Artikel
+typeName: Konzertbericht
+title: PEPES PENTHOUSE live @ Circus Augsburg
+seoTitle: Pepes Penthouse live @ Circus Augsburg
+ogTitle: Pepes Penthouse live @ Circus Augsburg
 description: "Am Mittwoch, 30. September war es soweit: Pepes Penthouse live im Circus"
 excerpt: Am Mittwoch, 30. September starteten Pepes Penthouse wieder in die Live-Saison.
-focusKeyword: Pepes Penthouse
+fileName: 2009-10---pepes-penthouse-live-circus-augsburg.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_10_MG_9172__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_10_MG_9172__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQCAwUGCP/EACcQAAIBAwMDAwUAAAAAAAAAAAECAwAEERIhMSJBUQUTYSNyscHw/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQAAwX/xAAfEQACAgEFAQEAAAAAAAAAAAABAgADEQQhMVHwYbH/2gAMAwEAAhEDEQA/APLKxkgEb57DmrpLaeI6XjGdCyHG+FIyM+Ktsfbi9ShMjSCDWupgMMAf3W+biG7MTjRJDDEMmVgjbOAVLfaRg/NLWXFCMDabGj0Fd9bFmwwPH6ffZzTQsBoZdJB3BXBzUpbUrbxuElDMhfqGAVyRlfPFSe6926aTDAPIWyW1Eb+e9aUby3KPdXTfSjjNvEo6Bp3GM9uSe+5omdlwTKUqpsJUH3fu5iq2ZcgAAtnHjempZWt5NI6gYiMHjq+P7iiijIycRZHZULA75izdLaecAY/NM3jkwouToCkgZ46zRRUPIgA7MJ//2Q==
+ogImage: null
 labels:
   - Circus
   - Konzerte
   - live
   - Pepes Penthouse
-type: Artikel
-typeName: Konzertbericht
-date: 2009-10-02T18:35:47.000Z
+focusKeyword: Pepes Penthouse
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11487"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_10_MG_9172__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_10_MG_9172__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQCAwUGCP/EACcQAAIBAwMDAwUAAAAAAAAAAAECAwAEERIhMSJBUQUTYSNyscHw/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQAAwX/xAAfEQACAgEFAQEAAAAAAAAAAAABAgADEQQhMVHwYbH/2gAMAwEAAhEDEQA/APLKxkgEb57DmrpLaeI6XjGdCyHG+FIyM+Ktsfbi9ShMjSCDWupgMMAf3W+biG7MTjRJDDEMmVgjbOAVLfaRg/NLWXFCMDabGj0Fd9bFmwwPH6ffZzTQsBoZdJB3BXBzUpbUrbxuElDMhfqGAVyRlfPFSe6926aTDAPIWyW1Eb+e9aUby3KPdXTfSjjNvEo6Bp3GM9uSe+5omdlwTKUqpsJUH3fu5iq2ZcgAAtnHjempZWt5NI6gYiMHjq+P7iiijIycRZHZULA75izdLaecAY/NM3jkwouToCkgZ46zRRUPIgA7MJ//2Q==
 subTitle: Perfektes Zusammenspiel
   
 ---

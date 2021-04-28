@@ -1,15 +1,22 @@
 ---
-title: Crippled Black Phoenix live im Hamburger Knust
-seoTitle: Crippled Black Phoenix live im Hamburger Knust - "Echoes und Tiere"
+date: 2019-04-04T10:04:02.000Z
 slug: crippled-black-phoenix-live-im-hamburger-knust
 path: /2019/04/crippled-black-phoenix-live-im-hamburger-knust/
-fileName: 2019-04---crippled-black-phoenix-live-im-hamburger-knust.md
+type: Artikel
+typeName: Konzertbericht
+title: Crippled Black Phoenix live im Hamburger Knust
+seoTitle: Crippled Black Phoenix live im Hamburger Knust - "Echoes und Tiere"
+ogTitle: Crippled Black Phoenix live im Hamburger Knust - "Echoes und Tiere"
 description: Das Konzert des Jahres 2019 bisher lieferten Crippled Black Phoenix
   im Hamburger Club Knust ab. Für Euch habe ich einen kleinen Bericht
   geschrieben.
 excerpt: Das Konzert des Jahres 2019 bisher lieferten Crippled Black Phoenix im
   Hamburger Club Knust ab.
-focusKeyword: Crippled Black Phoenix
+fileName: 2019-04---crippled-black-phoenix-live-im-hamburger-knust.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-24-crippled-black-phoenix-knust-hamburg-17__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-24-crippled-black-phoenix-knust-hamburg-17__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAtEAABAwIEBQMDBQAAAAAAAAABAgMEABEFBhIhEzFBUWEHFCIVIzJScZGhov/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAX/xAAbEQACAwEBAQAAAAAAAAAAAAABAgARIQMTBP/aAAwDAQACEQMRAD8A3CQxAw5yc6284y0kKUlhGtdrgE27C9z4BpHhz+V8w41Jd9qzNiSE2SpbSm1ocG5HQ7g/zaslmzPMSVhGJ4TGDgdVpb4oI0LAV8gOvS3mluXX4kbLRfgPcea0C7IQm6fg4dIBPSxH5DcH96zenV3Xcmjz+dV27myzB6eYa+xIn5fbdQ3HSXHEPKum36RcX1X6dqkGK4Y2wHVPKCEJ2I579qteWc3MM+l0uHHbcfxRlssJYcJWVG9+Iojkm3nnYdanGZo8eWwmUhP2lNlwlCCPKtjbfntQRjgMJS7oSaPSU6dSZUdRvySVXH+aYZbzAjCZLynFBxl+OphxASeRII/sCiirCgIoyUOQbEdwM44XETPCff6JLKWeGkCyhcmyrncb7VyRs3sJwj6c9HddCVKDROlIAV0Vv3JoopfJRG9WM//Z
+ogImage: null
 labels:
   - Band
   - Crippled Black Phoenix
@@ -19,17 +26,12 @@ labels:
   - Konzert
   - Konzerte
   - Nebulas
-type: Artikel
-typeName: Konzertbericht
-date: 2019-04-04T10:04:02.000Z
+focusKeyword: Crippled Black Phoenix
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "23871"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-24-crippled-black-phoenix-knust-hamburg-17__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-24-crippled-black-phoenix-knust-hamburg-17__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAtEAABAwIEBQMDBQAAAAAAAAABAgMEABEFBhIhEzFBUWEHFCIVIzJScZGhov/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAX/xAAbEQACAwEBAQAAAAAAAAAAAAABAgARIQMTBP/aAAwDAQACEQMRAD8A3CQxAw5yc6284y0kKUlhGtdrgE27C9z4BpHhz+V8w41Jd9qzNiSE2SpbSm1ocG5HQ7g/zaslmzPMSVhGJ4TGDgdVpb4oI0LAV8gOvS3mluXX4kbLRfgPcea0C7IQm6fg4dIBPSxH5DcH96zenV3Xcmjz+dV27myzB6eYa+xIn5fbdQ3HSXHEPKum36RcX1X6dqkGK4Y2wHVPKCEJ2I579qteWc3MM+l0uHHbcfxRlssJYcJWVG9+Iojkm3nnYdanGZo8eWwmUhP2lNlwlCCPKtjbfntQRjgMJS7oSaPSU6dSZUdRvySVXH+aYZbzAjCZLynFBxl+OphxASeRII/sCiirCgIoyUOQbEdwM44XETPCff6JLKWeGkCyhcmyrncb7VyRs3sJwj6c9HddCVKDROlIAV0Vv3JoopfJRG9WM//Z
 subTitle: '"Echoes" und Tiere'
   
 ---

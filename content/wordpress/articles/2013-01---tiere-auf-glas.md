@@ -1,16 +1,23 @@
 ---
-title: Tiere auf Glas
-seoTitle: Tiere auf Glas - Pfoten und Fell
+date: 2013-01-08T14:03:51.000Z
 slug: tiere-auf-glas
 path: /2013/01/tiere-auf-glas/
-fileName: 2013-01---tiere-auf-glas.md
+type: Artikel
+typeName: Artikel
+title: Tiere auf Glas
+seoTitle: Tiere auf Glas - Pfoten und Fell
+ogTitle: Tiere auf Glas - Pfoten und Fell
 description: "Zwei ganz besondere Tierfotos haben mich auf eine Idee gebracht:
   Wie sehen Tiere eigentlich von unten aus? Einfach über eine Glasplatte laufen
   lassen."
 excerpt: "Zwei ganz besondere Tierfotos haben mich auf eine Idee gebracht: Wie
   sehen Tiere eigentlich von unten aus? Einfach über eine Glasplatte laufen
   lassen."
-focusKeyword: Tiere
+fileName: 2013-01---tiere-auf-glas.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_01_img_0004.jpeg__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_01_img_0004.jpeg__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABYDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgCBQcE/8QAKhAAAgEDBAEDAgcAAAAAAAAAAQIDAAQRBQYhMRIHE3FRYRQVFiIjMoH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAYEQEBAQEBAAAAAAAAAAAAAAAAAQIRIf/aAAwDAQACEQMRAD8AW84+5pm/Srdej3SvpO2raeySeFffENukSqQOSCMMXI/aTyMDI5pZO61L0Q11dG1VgkCPLOQnkVyVGecVFkw0m3NPj0mC0/JrcwIRIsMShQhIIPXwfnNFT3hujT9HggilvEhupcOUIJIXB7x13RWelOlO9N5dswa+8m8FZrQQkQExGWNZc/2dRyQB0Os913buaytNwJe7fw1nIikMkJhTI4JVT0D3j71R7Ks9IvdxQR7jvFtNMVWeQmT2zIR0gbHGSeT9Acc1ab9/SiXUS7SdMK0ok9gSe2R5/wAeGkAJPjjPfOa0ZeRfahr7bl0uxuWngbVLcG3njeTDOgJKyH/D4/AFFZx+IbAyW8vrnGaKim3/2Q==
+ogImage: null
 labels:
   - Affe
   - Affen
@@ -29,17 +36,12 @@ labels:
   - scanner
   - Tiere
   - Tierpfoten
-type: Artikel
-typeName: Artikel
-date: 2013-01-08T14:03:51.000Z
+focusKeyword: Tiere
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "4800"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_01_img_0004.jpeg__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_01_img_0004.jpeg__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABYDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgCBQcE/8QAKhAAAgEDBAEDAgcAAAAAAAAAAQIDAAQRBQYhMRIHE3FRYRQVFiIjMoH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAYEQEBAQEBAAAAAAAAAAAAAAAAAQIRIf/aAAwDAQACEQMRAD8AW84+5pm/Srdej3SvpO2raeySeFffENukSqQOSCMMXI/aTyMDI5pZO61L0Q11dG1VgkCPLOQnkVyVGecVFkw0m3NPj0mC0/JrcwIRIsMShQhIIPXwfnNFT3hujT9HggilvEhupcOUIJIXB7x13RWelOlO9N5dswa+8m8FZrQQkQExGWNZc/2dRyQB0Os913buaytNwJe7fw1nIikMkJhTI4JVT0D3j71R7Ks9IvdxQR7jvFtNMVWeQmT2zIR0gbHGSeT9Acc1ab9/SiXUS7SdMK0ok9gSe2R5/wAeGkAJPjjPfOa0ZeRfahr7bl0uxuWngbVLcG3njeTDOgJKyH/D4/AFFZx+IbAyW8vrnGaKim3/2Q==
 subTitle: Pfoten und Fell
   
 ---

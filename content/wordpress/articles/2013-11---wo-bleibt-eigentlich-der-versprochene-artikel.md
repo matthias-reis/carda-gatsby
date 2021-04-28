@@ -1,15 +1,22 @@
 ---
-title: Wo bleibt eigentlich der versprochene Artikel?
-seoTitle: Wo bleibt der versprochene Artikel? Tagebucheintrag
+date: 2013-11-14T17:48:43.000Z
 slug: wo-bleibt-eigentlich-der-versprochene-artikel
 path: /2013/11/wo-bleibt-eigentlich-der-versprochene-artikel/
-fileName: 2013-11---wo-bleibt-eigentlich-der-versprochene-artikel.md
+type: Artikel
+typeName: Artikel
+title: Wo bleibt eigentlich der versprochene Artikel?
+seoTitle: Wo bleibt der versprochene Artikel? Tagebucheintrag
+ogTitle: Wo bleibt der versprochene Artikel? Tagebucheintrag
 description: Nachdem ich ihn schon vor Tagen auf meiner Facebook-Seite so
   großspurig angekündigt habe, kommt hier endlich der Artikel, den ich Euch noch
   schulde.
 excerpt: Nachdem ich ihn schon vor Tagen auf meiner Facebook-Seite so großspurig
   angekündigt habe, kommt hier endlich der Artikel, den ich Euch noch schulde.
-focusKeyword: Artikel
+fileName: 2013-11---wo-bleibt-eigentlich-der-versprochene-artikel.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_11_urkunde__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_11_urkunde__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAApEAACAQMDAwMEAwAAAAAAAAABAgMABBEFEiEGEzEiUWEVI0FCgaHR/8QAGAEAAwEBAAAAAAAAAAAAAAAABAUGAQP/xAAfEQACAgEEAwAAAAAAAAAAAAABAgADBBESITEjQWH/2gAMAwEAAhEDEQA/AOpaFrUE1nGxDLxt5GeQOfHzSDqTXYbqae3txGWilUM7Y2qMcnkj3/ulGqI2m3AI7UjhyqEgqVySVHLYzlscDk0m+oxw39xDqk8cLG3UxgbY1bacEMChHkj38VJteT4W7lAq1LaGX3MHWOt3ENmCHCxTSBWUKAducALjnOD+p8Zzip5LzMURedmIH7rsHH5A5z5FN9b1CxeEbbvS1hEgX7ksZw3JwD2hgn81A67rapezW8Zs5CCjCaBRtPpzkHGCfeui4+4DTuEi0KxEqeubnu9T6rZhSIbiNWkBcnghT6fGCCgOaV9RQiZFk3ytcxHtmeZzIzqQODnwBgYAwBRRWWkraNsWZDlSpHyQ/UNs5023UzEkyFjlfJwf9qeUvA42t8cfP80UU6x2LLzA2sYvqTP/2Q==
+ogImage: null
 labels:
   - Artikel
   - Bäume
@@ -19,18 +26,13 @@ labels:
   - Liebe
   - Tagebuch
   - Wald
-type: Artikel
-typeName: Artikel
-date: 2013-11-14T17:48:43.000Z
+focusKeyword: Artikel
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "7571"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_11_urkunde__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_11_urkunde__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAApEAACAQMDAwMEAwAAAAAAAAABAgMABBEFEiEGEzEiUWEVI0FCgaHR/8QAGAEAAwEBAAAAAAAAAAAAAAAABAUGAQP/xAAfEQACAgEEAwAAAAAAAAAAAAABAgADBBESITEjQWH/2gAMAwEAAhEDEQA/AOpaFrUE1nGxDLxt5GeQOfHzSDqTXYbqae3txGWilUM7Y2qMcnkj3/ulGqI2m3AI7UjhyqEgqVySVHLYzlscDk0m+oxw39xDqk8cLG3UxgbY1bacEMChHkj38VJteT4W7lAq1LaGX3MHWOt3ENmCHCxTSBWUKAducALjnOD+p8Zzip5LzMURedmIH7rsHH5A5z5FN9b1CxeEbbvS1hEgX7ksZw3JwD2hgn81A67rapezW8Zs5CCjCaBRtPpzkHGCfeui4+4DTuEi0KxEqeubnu9T6rZhSIbiNWkBcnghT6fGCCgOaV9RQiZFk3ytcxHtmeZzIzqQODnwBgYAwBRRWWkraNsWZDlSpHyQ/UNs5023UzEkyFjlfJwf9qeUvA42t8cfP80UU6x2LLzA2sYvqTP/2Q==
 subTitle: Tagebucheintrag
   
 ---

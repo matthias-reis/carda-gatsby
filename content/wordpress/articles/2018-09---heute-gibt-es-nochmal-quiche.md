@@ -1,16 +1,23 @@
 ---
-title: Heute gibt es nochmal Quiche
-seoTitle: Heute gibt es nochmal Quiche - Veganes Rezept für vier Portionen
+date: 2018-09-04T12:32:50.000Z
 slug: heute-gibt-es-nochmal-quiche
 path: /2018/09/heute-gibt-es-nochmal-quiche/
-fileName: 2018-09---heute-gibt-es-nochmal-quiche.md
+type: Artikel
+typeName: Rezept
+title: Heute gibt es nochmal Quiche
+seoTitle: Heute gibt es nochmal Quiche - Veganes Rezept für vier Portionen
+ogTitle: Heute gibt es nochmal Quiche - Veganes Rezept für vier Portionen
 description: "Erwähnte ich bereits, dass ich Quiche liebe? Ganz ehrlich: Ich
   kann einfach nicht genug davon kriegen. Darum präsentiere ich Euch heute ein
   neues Rezept."
 excerpt: "Erwähnte ich bereits, dass ich Quiche liebe? Ganz ehrlich: Ich kann
   einfach nicht genug davon kriegen. Darum präsentiere ich Euch heute ein neues
   Rezept."
-focusKeyword: Quiche
+fileName: 2018-09---heute-gibt-es-nochmal-quiche.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44395233242_b70804c630_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44395233242_b70804c630_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGAgMF/8QAKBAAAgEDAwQCAQUAAAAAAAAAAQIDBAURABIhExQiMUFRBjJCYXGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQFBv/EACERAAIBAwMFAAAAAAAAAAAAAAECABESMSFB8AMEUWFx/9oADAMBAAIRAxEAPwBu60cawUNpiuUFvkZUld5X2CViMqC2MYAyABnkZ01TW+eKaFKygKVUzskSZaQFANxDDPjuXnPlknnjVC9J3NFJPTUkdRU9v0GMiL4ttwrjIOFI8TjHK8+9Ys9DUWmSJq6KFun1VK9R9kMTAEqVIKs2CRnjgYBIGuc61STzQ459mkjClN/fneeVLYoK6eKChD9BtscaVEQjLMXBKsSAOOfg+vj5n71SUVGJakrPDGjGFjHDiOok259q2eD+48euPu3Sl3X2E0wlqgABTwQkRwQxqBnA3FlQeJ5GST/OlPyB5rbRvOdgjZt6tDOoMy4yWiUA5K4wMnIyeNBggMZQGDYitLcJUkjakeOOogBCyyDK49MhH0Qf9xrUH5HaLnVQ991bXctjCQPGuxmAIJ2HLY+QUz/ejRq2utpxBsDrUznWQW6e2JRJeKCnt7F2qzDIySzSbgVY9Q5A98evo6lrjGe2gpq2+22ipoIEjENEzSnYn6ecbSffAPs86NGnHaJQMYIa0lRP/9k=
+ogImage: null
 labels:
   - Quiche
   - Quiche Rezept vegan
@@ -21,17 +28,12 @@ labels:
   - vegane Rezepte
   - Vegane Rezepte
   - veganes Quiche Rezept
-type: Artikel
-typeName: Rezept
-date: 2018-09-04T12:32:50.000Z
+focusKeyword: Quiche
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "21934"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44395233242_b70804c630_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44395233242_b70804c630_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGAgMF/8QAKBAAAgEDAwQCAQUAAAAAAAAAAQIDBAURABIhExQiMUFRBjJCYXGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQFBv/EACERAAIBAwMFAAAAAAAAAAAAAAECABESMSFB8AMEUWFx/9oADAMBAAIRAxEAPwBu60cawUNpiuUFvkZUld5X2CViMqC2MYAyABnkZ01TW+eKaFKygKVUzskSZaQFANxDDPjuXnPlknnjVC9J3NFJPTUkdRU9v0GMiL4ttwrjIOFI8TjHK8+9Ys9DUWmSJq6KFun1VK9R9kMTAEqVIKs2CRnjgYBIGuc61STzQ459mkjClN/fneeVLYoK6eKChD9BtscaVEQjLMXBKsSAOOfg+vj5n71SUVGJakrPDGjGFjHDiOok259q2eD+48euPu3Sl3X2E0wlqgABTwQkRwQxqBnA3FlQeJ5GST/OlPyB5rbRvOdgjZt6tDOoMy4yWiUA5K4wMnIyeNBggMZQGDYitLcJUkjakeOOogBCyyDK49MhH0Qf9xrUH5HaLnVQ991bXctjCQPGuxmAIJ2HLY+QUz/ejRq2utpxBsDrUznWQW6e2JRJeKCnt7F2qzDIySzSbgVY9Q5A98evo6lrjGe2gpq2+22ipoIEjENEzSnYn6ecbSffAPs86NGnHaJQMYIa0lRP/9k=
 subTitle: Veganes Rezept für vier Portionen
   
 ---

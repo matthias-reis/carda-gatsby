@@ -1,16 +1,23 @@
 ---
-title: Galathain
-seoTitle: Galathain - "And The Rain Tasted Like Blood" - Interview
+date: 2020-07-31T08:31:06.000Z
 slug: galathain-interview
 path: /2020/07/galathain-interview/
-fileName: 2020-07---galathain.md
+type: Artikel
+typeName: Interview
+title: Galathain
+seoTitle: Galathain - "And The Rain Tasted Like Blood" - Interview
+ogTitle: Galathain - "And The Rain Tasted Like Blood" - Interview
 description: Galathain mischt Doom-Elemente mit Ambient. Ich habe Klaus im
   Interview gefragt, wie es zu seinem Projekt kam, und wo seine musikalischen
   Wurzeln liegen.
 excerpt: English & German - Galathain mischt Doom-Elemente mit Ambient. Ich habe
   Klaus im Interview gefragt, wie es zu seinem Projekt kam, und wo seine
   musikalischen Wurzeln liegen.
-focusKeyword: Galathain
+fileName: 2020-07---galathain.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_galathain-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_galathain-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAECAwcEBQb/xAAnEAACAQMDAwMFAAAAAAAAAAABAgMABBEGMUESIVETYXEVIjJCgf/EABcBAAMBAAAAAAAAAAAAAAAAAAADBAH/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQMRAhMx/9oADAMBAAIRAxEAPwCqYNR2v01fSJF5bu07OI0xICB9rHkZ4PFTJrG3a0uESCIXd9hgRCmE8BAACg9hVYwXLxvkHAx37b1K12WXpZmKAgnHzSdZSpmy1G1ekKw3TssTiP0WjQRyRsgO23Jxkec+a10mtZUs47Z+ieeOcymSVQCV36c/3bauBnmVldYvwVFzkAnc+PkVhm4YsSGOds+1CjsMpWuEP69hSE5yOKKKcTD4ZWiYsjYJGNuKYd8gUUUG2f/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_galathain-fb.png__l.jpg
 labels:
   - Ambient
   - Anfiorester
@@ -25,17 +32,12 @@ labels:
   - Madrid
   - Post-Rock
   - Shoegaze
-type: Artikel
-typeName: Interview
-date: 2020-07-31T08:31:06.000Z
+focusKeyword: Galathain
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30752"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_galathain-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_galathain-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAECAwcEBQb/xAAnEAACAQMDAwMFAAAAAAAAAAABAgMABBEGMUESIVETYXEVIjJCgf/EABcBAAMBAAAAAAAAAAAAAAAAAAADBAH/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQMRAhMx/9oADAMBAAIRAxEAPwCqYNR2v01fSJF5bu07OI0xICB9rHkZ4PFTJrG3a0uESCIXd9hgRCmE8BAACg9hVYwXLxvkHAx37b1K12WXpZmKAgnHzSdZSpmy1G1ekKw3TssTiP0WjQRyRsgO23Jxkec+a10mtZUs47Z+ieeOcymSVQCV36c/3bauBnmVldYvwVFzkAnc+PkVhm4YsSGOds+1CjsMpWuEP69hSE5yOKKKcTD4ZWiYsjYJGNuKYd8gUUUG2f/Z
 subTitle: '"And The Rain Tasted Like Blood"'
   
 ---

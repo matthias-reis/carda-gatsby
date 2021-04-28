@@ -1,15 +1,22 @@
 ---
-title: Johan G. Winther
-seoTitle: Johan G. Winther im Interview – "Ich nehme meine Musik im Wald auf"
+date: 2021-03-11T16:24:02.000Z
 slug: johan-g-winther-interview
 path: /2021/03/johan-g-winther-interview/
-fileName: 2021-03---johan-g-winther.md
+type: Artikel
+typeName: Interview
+title: Johan G. Winther
+seoTitle: Johan G. Winther im Interview – "Ich nehme meine Musik im Wald auf"
+ogTitle: Johan G. Winther im Interview – "Ich nehme meine Musik im Wald auf"
 description: Johan G. Winther veröffentlicht am 26. März sein Album "The
   Rupturing Sowle" auf Vinyl. Ich habe mich mit ihm zum Interview verabredet.
 excerpt: English & German – Johan G. Winther veröffentlicht am 26. März sein
   Album "The Rupturing Sowle" auf Vinyl. Ich habe mich mit ihm zum Interview
   verabredet.
-focusKeyword: Johan G. Winther
+fileName: 2021-03---johan-g-winther.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_johan-g-winter__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_johan-g-winter__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYD/8QAKhAAAQMCBgEDBAMAAAAAAAAAAQIDBAURAAYHEiExEyJBURYyYYFCcaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQEAAwEBAAAAAAAAAAAAAAAAAREhAjH/2gAMAwEAAhEDEQA/AKVOr0ulUbxpAkCPATDSiU9ytyxBXu5JIFiOL8W/ONNo1mujfTlFfnTkNuQmCiQkhXkSbWSfe4N1fvCy1syZNokaDVGUxRSVu7A5HcKgta0rULAC4AQ2e8M7TvT+kUTJ1GqOaJUOK9LiBxbTzQS8lSr22ubt19u30ge+MTVEWo6nqU8ajWJ1ZgrMUyPJFbhupKkI3hACgeFHkKvxYkjEeoZ1azBJQpMaapyA35QzJYYKFBIv96Vg3sT2D+jiXmXLmUC9NYprVacjKKXHXhJSErUTuABWgm5I6/zGYVEotNTIVTqDWi+4hTJcenocRtVwQQhAI677FsXC5RM8ZqnuZKTSXo7bsV59MmOpPJSfG62Rz2PX+ORhgaj6erzYxDruXak5KqAYZShmVIPidCUBJKfg8X+MGDE6zYOd9LiRUazRogiTGp9OW27ZSXtyCggfxB4X/Yv7m5x1pddmuSW25UkIddVs86Eha1It6SbHkDs9lIGDBjSP/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_johan-g-winter-fb.png__l.jpg
 labels:
   - Atmosphärischer Post-Rock
   - Aventgarde
@@ -28,17 +35,12 @@ labels:
   - Recording
   - Scraps of Tape
   - Zeon Light Kassett
-type: Artikel
-typeName: Interview
-date: 2021-03-11T16:24:02.000Z
+focusKeyword: Johan G. Winther
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33386"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_johan-g-winter__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_johan-g-winter__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYD/8QAKhAAAQMCBgEDBAMAAAAAAAAAAQIDBAURAAYHEiExEyJBURYyYYFCcaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQEAAwEBAAAAAAAAAAAAAAAAAREhAjH/2gAMAwEAAhEDEQA/AKVOr0ulUbxpAkCPATDSiU9ytyxBXu5JIFiOL8W/ONNo1mujfTlFfnTkNuQmCiQkhXkSbWSfe4N1fvCy1syZNokaDVGUxRSVu7A5HcKgta0rULAC4AQ2e8M7TvT+kUTJ1GqOaJUOK9LiBxbTzQS8lSr22ubt19u30ge+MTVEWo6nqU8ajWJ1ZgrMUyPJFbhupKkI3hACgeFHkKvxYkjEeoZ1azBJQpMaapyA35QzJYYKFBIv96Vg3sT2D+jiXmXLmUC9NYprVacjKKXHXhJSErUTuABWgm5I6/zGYVEotNTIVTqDWi+4hTJcenocRtVwQQhAI677FsXC5RM8ZqnuZKTSXo7bsV59MmOpPJSfG62Rz2PX+ORhgaj6erzYxDruXak5KqAYZShmVIPidCUBJKfg8X+MGDE6zYOd9LiRUazRogiTGp9OW27ZSXtyCggfxB4X/Yv7m5x1pddmuSW25UkIddVs86Eha1It6SbHkDs9lIGDBjSP/9k=
 subTitle: '"Ich nehme meine Musik im Wald auf"'
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: Veganes Fruchtgummi aus dem 3D-Drucker
-seoTitle: Veganes Fruchtgummi aus dem 3D-Drucker - Katjes wird mit Preis geehrt
+date: 2016-02-09T10:21:43.000Z
 slug: veganes-fruchtgummi-aus-dem-3d-drucker
 path: /2016/02/veganes-fruchtgummi-aus-dem-3d-drucker/
-fileName: 2016-02---veganes-fruchtgummi-aus-dem-3d-drucker.md
+type: Artikel
+typeName: Artikel
+title: Veganes Fruchtgummi aus dem 3D-Drucker
+seoTitle: Veganes Fruchtgummi aus dem 3D-Drucker - Katjes wird mit Preis geehrt
+ogTitle: Vegane Süßigkeiten aus dem 3D-Drucker - Katjes wird mit Preis geehrt
 description: Die "Magic Candy Factory" von Katjes bietet die Möglichkeit,
   veganes Fruchtgummi selbst zu gestalten und mit dem 3D-Drucker auszudrucken.
 excerpt: Die "Magic Candy Factory" von Katjes bietet die Möglichkeit, veganes
   Fruchtgummi selbst zu gestalten und mit dem 3D-Drucker auszudrucken.
-focusKeyword: veganes Fruchtgummi
+fileName: 2016-02---veganes-fruchtgummi-aus-dem-3d-drucker.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Katjes_Magic_candy_factory_vegan__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Katjes_Magic_candy_factory_vegan__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwP/xAAnEAACAQMDBAICAwAAAAAAAAABAgMEBREAEiEGEzFRIkEUYXGBkf/EABcBAQADAAAAAAAAAAAAAAAAAAUBAwb/xAAjEQEAAQQABQUAAAAAAAAAAAABAgADERIEEyExkQVBUWHR/9oADAMBAAIRAxEAPwDWbrcoZ+ojHQRPUup/E2h/g0gO7ccE4Ucrn3xx51M9WTItRM9QBI6jcxClM8c8Z48Y1BXkX3p3q632+lQWitrrpUOsgCuZ4FGNwjLnG8beFwR51Z9RU9bUVQWrQNPOmSAyruBHokYGOMkDODoX1WwtuPKFV64PykuD5dq6rIxqd/lxU53m77jvPHyC22obCZx7BJ/0Z+sDTq29o1HzEvcRwjH8iQ5IxyPlnHP340sitdfGJCY9ieSz1KrgeOQGwfX9jTuisl2ijWqailMDMJDIJInDDIGfixzz60NOzf8AaL4aRLtkesjyVpV/oKSrv1PVz0tPLUQ5MMkkYZoiQASreRkAZH60tntVHT2qrrjG8kkryEo8jFATwSB9H+OB60aNalWU5D2Cg9TWP20ovtCLdZqN6Z1VmeFlIiUdtgN2VAGMEgEg5zrqIJ6q1wBp1VVAqWIj+TESFyPOACSR40aNSgXtTtiqF2zmv//Z
+ogImage: null
 labels:
   - 3D-Drucker
   - Ernährung & Gesundheit
@@ -17,17 +24,12 @@ labels:
   - vegane Gummibärchen
   - vegane Süßigkeiten
   - veganes Weingummi
-type: Artikel
-typeName: Artikel
-date: 2016-02-09T10:21:43.000Z
+focusKeyword: veganes Fruchtgummi
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29187"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Katjes_Magic_candy_factory_vegan__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Katjes_Magic_candy_factory_vegan__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwP/xAAnEAACAQMDBAICAwAAAAAAAAABAgMEBREAEiEGEzFRIkEUYXGBkf/EABcBAQADAAAAAAAAAAAAAAAAAAUBAwb/xAAjEQEAAQQABQUAAAAAAAAAAAABAgADERIEEyExkQVBUWHR/9oADAMBAAIRAxEAPwDWbrcoZ+ojHQRPUup/E2h/g0gO7ccE4Ucrn3xx51M9WTItRM9QBI6jcxClM8c8Z48Y1BXkX3p3q632+lQWitrrpUOsgCuZ4FGNwjLnG8beFwR51Z9RU9bUVQWrQNPOmSAyruBHokYGOMkDODoX1WwtuPKFV64PykuD5dq6rIxqd/lxU53m77jvPHyC22obCZx7BJ/0Z+sDTq29o1HzEvcRwjH8iQ5IxyPlnHP340sitdfGJCY9ieSz1KrgeOQGwfX9jTuisl2ijWqailMDMJDIJInDDIGfixzz60NOzf8AaL4aRLtkesjyVpV/oKSrv1PVz0tPLUQ5MMkkYZoiQASreRkAZH60tntVHT2qrrjG8kkryEo8jFATwSB9H+OB60aNalWU5D2Cg9TWP20ovtCLdZqN6Z1VmeFlIiUdtgN2VAGMEgEg5zrqIJ6q1wBp1VVAqWIj+TESFyPOACSR40aNSgXtTtiqF2zmv//Z
 subTitle: Katjes wird mit Preis geehrt
   
 ---

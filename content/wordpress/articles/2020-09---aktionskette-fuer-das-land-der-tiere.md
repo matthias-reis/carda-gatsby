@@ -1,16 +1,23 @@
 ---
-title: Aktionskette für das Land der Tiere
-seoTitle: Aktionskette für das Land der Tiere von Bijou en Bois aus Hamburg
+date: 2020-09-05T05:00:52.000Z
 slug: aktionskette-fuer-das-land-der-tiere
 path: /2020/09/aktionskette-fuer-das-land-der-tiere/
-fileName: 2020-09---aktionskette-fuer-das-land-der-tiere.md
+type: Artikel
+typeName: Artikel
+title: Aktionskette für das Land der Tiere
+seoTitle: Aktionskette für das Land der Tiere von Bijou en Bois aus Hamburg
+ogTitle: Aktionskette für das Land der Tiere von Bijou en Bois aus Hamburg
 description: Das vegane Hamburger Schmucklabel "Bijou en Bois" unterstützt jetzt
   mit einer tollen Aktion das Land der Tiere. Kauft man eine Kette, spendet man
   20 Euro.
 excerpt: Das vegane Hamburger Schmucklabel "Bijou en Bois" unterstützt jetzt mit
   einer tollen Aktion das Land der Tiere. Kauft man eine Kette, spendet man 20
   Euro.
-focusKeyword: Aktionskette
+fileName: 2020-09---aktionskette-fuer-das-land-der-tiere.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-04-bijouenbois-03__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-04-bijouenbois-03__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QAKxAAAQMCBgAFBAMAAAAAAAAAAQIDBAURAAYHEiExExRBQlEiI2GBUnGR/8QAFwEBAAMAAAAAAAAAAAAAAAAABgMEB//EACoRAAEDAgIJBQEAAAAAAAAAAAECAxEABAUxEhMhUWFxkaHhBkGBscHw/9oADAMBAAIRAxEAPwDSM/a0w6LUH6TlqK3UpzCih6Q4rbHaWDynjlahzcCwHze4wkU3VXOVVnKaafbvbcpMWMna0P5K3JUbYrNJNMl5vokyU84IsRK/CYfBJUVjlX09Ecjm/eL7I9Nag08QJTyQpSlKeDKy34pKkpQd59quh3Y3va2J755izQWQmXN5y5iD7VSs27i9c1hVot7hmeopky9qLXZ1Rdo63YcuQhlLwkxmQlxSVC4+0taevXoj4F8Qq/WNQYPmJiIaJlOZQp1wvNtsrSkcngOKv+sJuc/Jw9QcrrjkxpbCFqlMIloU6ypVwGisnaSewD1/mHRieKlOhsVWXuZWgPt05wFIURyA5dI3kEXINkgjpXYCYjiV/YOJdCpQRkRuzyHzmAPtCLVC9gT/AHKfHGsnyXqBmPJ8adRIcgQnUuEPRZbALkd0WCiArrr1uPX8403TTMVOqlLVS6rGiy32klbTbyEncbe2/wAkW/eDBhX6wZQ7hIvCIWkzI4iDNHMLUpu9XbAnRjpB81Ln5TYplQjVWNSI/ioYSt5EZ2xccSnmyShQt+ARcDHWNIVUPJz6hAQl0AqQ6/sDjQIuLAf38cYMGMpVeLftSpwAqkJnbMQdmcdqTJcc1gGkYA/evev/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_aktionskette-land-der-tiere.png__l.jpg
 labels:
   - Aktionskette
   - Bijou en Bois
@@ -20,17 +27,12 @@ labels:
   - Schmuck für Veganer
   - Tierrechte
   - veganer Schmuck
-type: Artikel
-typeName: Artikel
-date: 2020-09-05T05:00:52.000Z
+focusKeyword: Aktionskette
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31239"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-04-bijouenbois-03__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-04-bijouenbois-03__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QAKxAAAQMCBgAFBAMAAAAAAAAAAQIDBAURAAYHEiExExRBQlEiI2GBUnGR/8QAFwEBAAMAAAAAAAAAAAAAAAAABgMEB//EACoRAAEDAgIJBQEAAAAAAAAAAAECAxEABAUxEhMhUWFxkaHhBkGBscHw/9oADAMBAAIRAxEAPwDSM/a0w6LUH6TlqK3UpzCih6Q4rbHaWDynjlahzcCwHze4wkU3VXOVVnKaafbvbcpMWMna0P5K3JUbYrNJNMl5vokyU84IsRK/CYfBJUVjlX09Ecjm/eL7I9Nag08QJTyQpSlKeDKy34pKkpQd59quh3Y3va2J755izQWQmXN5y5iD7VSs27i9c1hVot7hmeopky9qLXZ1Rdo63YcuQhlLwkxmQlxSVC4+0taevXoj4F8Qq/WNQYPmJiIaJlOZQp1wvNtsrSkcngOKv+sJuc/Jw9QcrrjkxpbCFqlMIloU6ypVwGisnaSewD1/mHRieKlOhsVWXuZWgPt05wFIURyA5dI3kEXINkgjpXYCYjiV/YOJdCpQRkRuzyHzmAPtCLVC9gT/AHKfHGsnyXqBmPJ8adRIcgQnUuEPRZbALkd0WCiArrr1uPX8403TTMVOqlLVS6rGiy32klbTbyEncbe2/wAkW/eDBhX6wZQ7hIvCIWkzI4iDNHMLUpu9XbAnRjpB81Ln5TYplQjVWNSI/ioYSt5EZ2xccSnmyShQt+ARcDHWNIVUPJz6hAQl0AqQ6/sDjQIuLAf38cYMGMpVeLftSpwAqkJnbMQdmcdqTJcc1gGkYA/evev/2Q==
 subTitle: Hamburger Start-up unterstützt Tierschutzzentrum
   
 ---

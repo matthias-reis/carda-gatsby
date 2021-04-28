@@ -1,14 +1,21 @@
 ---
-title: Ein Kater zeigt sich von seiner besten Seite
-seoTitle: Kater Chili zeigt sich von seiner besten Seite - Fotogalerie
+date: 2016-02-11T12:50:48.000Z
 slug: kater-chili-zeigt-sich-von-seiner-besten-seite
 path: /2016/02/kater-chili-zeigt-sich-von-seiner-besten-seite/
-fileName: 2016-02---ein-kater-zeigt-sich-von-seiner-besten-seite.md
+type: Galerie
+typeName: Galerie
+title: Ein Kater zeigt sich von seiner besten Seite
+seoTitle: Kater Chili zeigt sich von seiner besten Seite - Fotogalerie
+ogTitle: Ein Kater zeigt sich von seiner besten Seite - Fotogalerie
 description: Kater Chili posiert im Rampenlicht. Wie versprochen zeige ich Euch
   heute mal wieder ein paar richtig schöne Katzenbilder.
 excerpt: Kater Chili posiert im Rampenlicht. Wie versprochen zeige ich Euch
   heute mal wieder ein paar richtig schöne Katzenbilder.
-focusKeyword: Kater
+fileName: 2016-02---ein-kater-zeigt-sich-von-seiner-besten-seite.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_23973872064_ed7f212e62_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_23973872064_ed7f212e62_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAnEAABAgUEAgIDAQAAAAAAAAABAgMABAURIQYSE0EHMSJhFDJDUf/EABUBAQEAAAAAAAAAAAAAAAAAAAQD/8QAHREAAgICAwEAAAAAAAAAAAAAAAECAxESBBMhIv/aAAwDAQACEQMRAD8AW5Gm2RyPJs2Bu3dWELDVfmZaoPJSW3JdK1FCnW03Kbm1vq1vcUqiEyqUsOnc6T8k/sDcej/mOjmN7Tnj7StarVRM0627MPy5Bpzt0pZUv+gV2ewOjEulZ9LyvePCWadqj9UrXBPrZaZ2HjShAAWrq593+sRr1amhsEpGIeNXeJ3GKp+XQpFpmUQhtPEZk/EpsLt4zjonswq6snHafNvSb8k9yN2BKlAdfeYPbHRpoRTLeLTOlPbl56RlZxDS2HFp3OpQ6drhBGbdHMXijVMsaeZLbDe1CLAHPUEENbYAX9YaxdoiKQ6iUS8ieK2HW1LsLpAIUMHPsRM/IzzdQnG53iLbq7trG64NvR9QQQS9/I3jrB//2Q==
+ogImage: null
 labels:
   - cat
   - Cat Content
@@ -16,17 +23,12 @@ labels:
   - Kater
   - Katzen
   - Katzenfotos
-type: Galerie
-typeName: Galerie
-date: 2016-02-11T12:50:48.000Z
+focusKeyword: Kater
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "13902"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_23973872064_ed7f212e62_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_23973872064_ed7f212e62_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAnEAABAgUEAgIDAQAAAAAAAAABAgMABAURIQYSE0EHMSJhFDJDUf/EABUBAQEAAAAAAAAAAAAAAAAAAAQD/8QAHREAAgICAwEAAAAAAAAAAAAAAAECAxESBBMhIv/aAAwDAQACEQMRAD8AW5Gm2RyPJs2Bu3dWELDVfmZaoPJSW3JdK1FCnW03Kbm1vq1vcUqiEyqUsOnc6T8k/sDcej/mOjmN7Tnj7StarVRM0627MPy5Bpzt0pZUv+gV2ewOjEulZ9LyvePCWadqj9UrXBPrZaZ2HjShAAWrq593+sRr1amhsEpGIeNXeJ3GKp+XQpFpmUQhtPEZk/EpsLt4zjonswq6snHafNvSb8k9yN2BKlAdfeYPbHRpoRTLeLTOlPbl56RlZxDS2HFp3OpQ6drhBGbdHMXijVMsaeZLbDe1CLAHPUEENbYAX9YaxdoiKQ6iUS8ieK2HW1LsLpAIUMHPsRM/IzzdQnG53iLbq7trG64NvR9QQQS9/I3jrB//2Q==
 subTitle: Chili posiert im Lampenlicht
   
 ---

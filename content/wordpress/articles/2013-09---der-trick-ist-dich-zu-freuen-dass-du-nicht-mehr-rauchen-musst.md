@@ -1,14 +1,21 @@
 ---
-title: '"Der Trick ist, Dich zu freuen, dass Du nicht mehr rauchen musst!"'
-seoTitle: Der Trick ist, Dich zu freuen, dass Du nicht mehr rauchen musst!
+date: 2013-09-10T15:45:28.000Z
 slug: der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst
 path: /2013/09/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/
-fileName: 2013-09---der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst.md
+type: Artikel
+typeName: Selbstversuch
+title: '"Der Trick ist, Dich zu freuen, dass Du nicht mehr rauchen musst!"'
+seoTitle: Der Trick ist, Dich zu freuen, dass Du nicht mehr rauchen musst!
+ogTitle: Der Trick ist, Dich zu freuen, dass Du nicht mehr rauchen musst!
 description: Die Sache mit der Motiviation - Wie funktioniert Rauchen aufhören?
   Ich habe ein paar echt heiße Tipps für alle, die es wirklich ernst meinen.
 excerpt: Die Sache mit der Motiviation - Wie funktioniert Rauchen aufhören? Ich
   habe ein paar echt heiße Tipps für alle, die es wirklich ernst meinen.
-focusKeyword: rauchen
+fileName: 2013-09---der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_09_255337_448938665128268_1765079901_n-foto-auf-sandstein1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_09_255337_448938665128268_1765079901_n-foto-auf-sandstein1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAwUG/8QALhAAAgEDAgEKBwEAAAAAAAAAAQIRAAMEBSESBhMUIjFBcZGSoRUWQlKxwdHS/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EABwRAAICAgMAAAAAAAAAAAAAAAABAhEDEwQhMf/aAAwDAQACEQMRAD8A3l1/VAN0xmjaSjD90fMWqHsTFmYjhb+1ute05QDzGTcknqgLt47ilLo066pnptszBmypAHqk+VVbqJNDZz+Dywz8/pQxxjTjZFzFcFGHXQwY37KtblBqx7sX0n/VOaFoXJzS8bIs4WVeWy+RcvMb1guwZiJEju2/NNfDtOurxW87T2P2txKfcUI5rXoZcd30J2siAGKcQH08RAPvNTzrCSGfwJmiikFRRhu7B4dhLnzmrbyNDMX3FFFLUmkbaVn/2Q==
+ogImage: null
 labels:
   - ab jetzt Nichtraucher
   - Geschichten & Erlebtes
@@ -25,18 +32,13 @@ labels:
   - Sucht
   - Suchtentwöhnung Raucher
   - Tagebuch Rauchen aufhören
-type: Artikel
-typeName: Selbstversuch
-date: 2013-09-10T15:45:28.000Z
+focusKeyword: rauchen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "7168"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_09_255337_448938665128268_1765079901_n-foto-auf-sandstein1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_09_255337_448938665128268_1765079901_n-foto-auf-sandstein1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAwUG/8QALhAAAgEDAgEKBwEAAAAAAAAAAQIRAAMEBSESBhMUIjFBcZGSoRUWQlKxwdHS/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EABwRAAICAgMAAAAAAAAAAAAAAAABAhEDEwQhMf/aAAwDAQACEQMRAD8A3l1/VAN0xmjaSjD90fMWqHsTFmYjhb+1ute05QDzGTcknqgLt47ilLo066pnptszBmypAHqk+VVbqJNDZz+Dywz8/pQxxjTjZFzFcFGHXQwY37KtblBqx7sX0n/VOaFoXJzS8bIs4WVeWy+RcvMb1guwZiJEju2/NNfDtOurxW87T2P2txKfcUI5rXoZcd30J2siAGKcQH08RAPvNTzrCSGfwJmiikFRRhu7B4dhLnzmrbyNDMX3FFFLUmkbaVn/2Q==
 subTitle: Die Sache mit der Motivation
   
 ---

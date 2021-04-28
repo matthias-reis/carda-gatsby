@@ -1,14 +1,21 @@
 ---
-title: '"Wie wir die Klimakatastrophe verhindern"'
-seoTitle: 'Bill Gates: "Wie wir die Klimakatastrophe verhindern"'
+date: 2021-02-16T13:23:36.000Z
 slug: bill-gates-wie-wir-die-klimakatastrophe-verhindern
 path: /2021/02/bill-gates-wie-wir-die-klimakatastrophe-verhindern/
-fileName: 2021-02---wie-wir-die-klimakatastrophe-verhindern.md
+type: Artikel
+typeName: Artikel
+title: '"Wie wir die Klimakatastrophe verhindern"'
+seoTitle: 'Bill Gates: "Wie wir die Klimakatastrophe verhindern"'
+ogTitle: 'Bill Gates: "Wie wir die Klimakatastrophe verhindern"'
 description: In seinem neuen Buch "Wie wir die Klimakatastrophe verhindern"
   erklärt Bill Gates, wie wir den Klimakollaps abwenden können.
 excerpt: In seinem neuen Buch "Wie wir die Klimakatastrophe verhindern" erklärt
   Bill Gates, wie wir den Klimakollaps abwenden können.
-focusKeyword: Klimakatastrophe
+fileName: 2021-02---wie-wir-die-klimakatastrophe-verhindern.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_bill-gates-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_bill-gates-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBAYFCP/EACkQAAIBAwMDBAEFAAAAAAAAAAECAwQFEQASMQYhYRMiQVEVFCQyQnH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwUB/8QAIBEAAQQBBAMAAAAAAAAAAAAAAQACAxEhBBMi8DJRYf/aAAwDAQACEQMRAD8Ab11u1TR3q7+jclMMLuZI5a6VREuxQQFFMwXG8EYZuQdW+n6ud6+hSW4vKWlIOayRy+CQRtMCjlSPj/dQV/5SC8XRY7xWNHUVEgRTS1RFOrRbFVCqlTtZd48se/GrFgjuiXOk9W+1tVF+reQpPQzxgqyMBEWIAwvc5PJA8aKfxFfE3TVbr9FI2kstXdKiRYbpbrVSxMIf3DsJJ3YZ9oXGAMgA55zrl2eJrDfIbPUXSO6Q1D7UkByEY527cknbkEHJP3pi9OViQoIpGpo1BL75lGD843H+P3547awnTlQlf1bBTtLHKLbBIiyxRjbK29ioz4ViRj61pdJvHuEpscR019tegL1SO12qpEp65/fkFKqpUHI742nGPA7akttK9PLA6U1czREMqtVVDZOODuODwOc86NGglPEJkOHFLfrCzzenaUsqwQxRTSNOrqXL5iYJ3zk9yQR858ay3RnS/wCPnWe5PDGKbKxrB7d7f2kbufcc/OjRqmymiwMqYbPEnC//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_bill-gates-fb.png__l.jpg
 labels:
   - Bill Gates
   - Buch
@@ -21,17 +28,12 @@ labels:
   - Laborfleisch
   - Veganismus
   - Wissenschaft
-type: Artikel
-typeName: Artikel
-date: 2021-02-16T13:23:36.000Z
+focusKeyword: Klimakatastrophe
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32917"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_bill-gates-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_bill-gates-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBAYFCP/EACkQAAIBAwMDBAEFAAAAAAAAAAECAwQFEQASMQYhYRMiQVEVFCQyQnH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwUB/8QAIBEAAQQBBAMAAAAAAAAAAAAAAQACAxEhBBMi8DJRYf/aAAwDAQACEQMRAD8Ab11u1TR3q7+jclMMLuZI5a6VREuxQQFFMwXG8EYZuQdW+n6ud6+hSW4vKWlIOayRy+CQRtMCjlSPj/dQV/5SC8XRY7xWNHUVEgRTS1RFOrRbFVCqlTtZd48se/GrFgjuiXOk9W+1tVF+reQpPQzxgqyMBEWIAwvc5PJA8aKfxFfE3TVbr9FI2kstXdKiRYbpbrVSxMIf3DsJJ3YZ9oXGAMgA55zrl2eJrDfIbPUXSO6Q1D7UkByEY527cknbkEHJP3pi9OViQoIpGpo1BL75lGD843H+P3547awnTlQlf1bBTtLHKLbBIiyxRjbK29ioz4ViRj61pdJvHuEpscR019tegL1SO12qpEp65/fkFKqpUHI742nGPA7akttK9PLA6U1czREMqtVVDZOODuODwOc86NGglPEJkOHFLfrCzzenaUsqwQxRTSNOrqXL5iYJ3zk9yQR858ay3RnS/wCPnWe5PDGKbKxrB7d7f2kbufcc/OjRqmymiwMqYbPEnC//2Q==
 subTitle: "Bill Gates: Reiche Länder müssen auf synthetisches Fleisch setzen"
   
 ---

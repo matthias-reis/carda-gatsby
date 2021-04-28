@@ -1,14 +1,21 @@
 ---
-title: Morgendlicher Anruf eines Chirurgen
-seoTitle: Die traurige Geschichte eines tapferen Katers - Teil I / IV
+date: 2013-09-27T12:07:32.000Z
 slug: morgendlicher-anruf-eines-chirurgen
 path: /2013/09/morgendlicher-anruf-eines-chirurgen/
-fileName: 2013-09---morgendlicher-anruf-eines-chirurgen.md
+type: Artikel
+typeName: Artikel
+title: Morgendlicher Anruf eines Chirurgen
+seoTitle: Die traurige Geschichte eines tapferen Katers - Teil I / IV
+ogTitle: Die traurige Geschichte eines tapferen Katers - Teil I / IV
 description: Die Geschichte, die wir mit Kater Chili beim Tierarzt erlebt haben,
   ist lang. Sie soll daran erinnern, immer eine zweite Meinung einzuholen.
 excerpt: Die Geschichte, die wir mit Kater Chili beim Tierarzt erlebt haben, ist
   lang. Sie soll daran erinnern, immer eine zweite Meinung einzuholen.
-focusKeyword: ""
+fileName: 2013-09---morgendlicher-anruf-eines-chirurgen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_09_beim-planschen_11438946036_o__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_09_beim-planschen_11438946036_o__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAcIBQQG/8QAKhAAAQMDAwIEBwAAAAAAAAAAAQIDBAAFEQYhMRJRBxNhkRQVIjJBQnL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAaEQADAQADAAAAAAAAAAAAAAAAAQIREjFR/9oADAMBAAIRAxEAPwB4LVHbKUqU2ha89IUQCrHOO9Zd0uzMAsKW+w15jgSkuKACjgnA9jWTr+wRNUWtmRc350MQo7jrbEcDPWRnKgOTgdO3fmp0ffnXK3RYU+fKXa47oUpgOYUydxlORzj8Gi2WI0p8a1Qt/wApPysuZ+1KQT7dVdJ1C64MFTKP4aAqQZlhuFum9cRZuMbbodYP1Ac7pzkKr3ekdfPMLjW25pde81xLTTizhxonOygd1Dj1FTkWo8KMlR5gBKY6wfVBFLrVegZepnnDBZjwLmlJUh91RQ253SrAPOe1FFJoyTa6FdbPDy/R7k83cLa7Lktr6VGOoLBA2BSf2HNNy1aSuELTrTcqxK+Myoh4tBa20HcAEZNFFFIdVqP/2Q==
+ogImage: null
 labels:
   - Chili
   - Geschichten & Erlebtes
@@ -18,17 +25,12 @@ labels:
   - Tierklinik
   - Tierrechte
   - Tierschutz
-type: Artikel
-typeName: Artikel
-date: 2013-09-27T12:07:32.000Z
+focusKeyword: ""
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29280"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_09_beim-planschen_11438946036_o__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_09_beim-planschen_11438946036_o__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAcIBQQG/8QAKhAAAQMDAwIEBwAAAAAAAAAAAQIDBAAFEQYhMRJRBxNhkRQVIjJBQnL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAaEQADAQADAAAAAAAAAAAAAAAAAQIREjFR/9oADAMBAAIRAxEAPwB4LVHbKUqU2ha89IUQCrHOO9Zd0uzMAsKW+w15jgSkuKACjgnA9jWTr+wRNUWtmRc350MQo7jrbEcDPWRnKgOTgdO3fmp0ffnXK3RYU+fKXa47oUpgOYUydxlORzj8Gi2WI0p8a1Qt/wApPysuZ+1KQT7dVdJ1C64MFTKP4aAqQZlhuFum9cRZuMbbodYP1Ac7pzkKr3ekdfPMLjW25pde81xLTTizhxonOygd1Dj1FTkWo8KMlR5gBKY6wfVBFLrVegZepnnDBZjwLmlJUh91RQ253SrAPOe1FFJoyTa6FdbPDy/R7k83cLa7Lktr6VGOoLBA2BSf2HNNy1aSuELTrTcqxK+Myoh4tBa20HcAEZNFFFIdVqP/2Q==
 subTitle: Nachwehen
   
 ---

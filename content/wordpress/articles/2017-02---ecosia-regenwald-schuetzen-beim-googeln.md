@@ -1,15 +1,22 @@
 ---
-title: Ecosia - Regenwald schützen beim Googeln
-seoTitle: Ecosia - Regenwald schützen beim Googeln mit der grünen Suchmaschine
+date: 2017-02-28T10:54:24.000Z
 slug: ecosia-regenwald-schuetzen-beim-googeln
 path: /2017/02/ecosia-regenwald-schuetzen-beim-googeln/
-fileName: 2017-02---ecosia-regenwald-schuetzen-beim-googeln.md
+type: Artikel
+typeName: Artikel
+title: Ecosia - Regenwald schützen beim Googeln
+seoTitle: Ecosia - Regenwald schützen beim Googeln mit der grünen Suchmaschine
+ogTitle: Ecosia - Regenwald schützen beim Googeln mit der grünen Suchmaschine
 description: Kennt Ihr schon Ecosia? Die Eco-Suchmaschine hat es sich auf die
   Fahne geschrieben, Wälder aktiv zu schützen. Ich habe sie mir mal genauer
   angesehen.
 excerpt: Kennt Ihr schon Ecosia? Die Eco-Suchmaschine hat es sich auf die Fahne
   geschrieben, Wälder aktiv zu schützen. Ich habe sie mir mal genauer angesehen.
-focusKeyword: Ecosia
+fileName: 2017-02---ecosia-regenwald-schuetzen-beim-googeln.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_ecosia-logo__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_ecosia-logo__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EACQQAAICAQQBBQEBAAAAAAAAAAECAxEEAAUSITEGEyJRcUGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAHBEAAwEAAgMAAAAAAAAAAAAAAAECESExAxJB/9oADAMBAAIRAxEAPwDqnUfk7hxRmhMHAMqiSSXipIenX7sAH9OoT1zl7lhT7S2Dkyw480kuPKY05VI0TGJj8GJAZaoUCWFmhRp+9R71k+lsYwR7qrqDG4y2HvsQQSCxohbJAJpiFU96l01wiPI3MusbxdLtmn4eYZ5pUdFUciYijcw8YociQKBu+r8D/Hmsscbzj4e3HCxc9pYxLKsEUpo/AhWkpgWIIWrDK3yHmjqy+gs/dc6fdxuRyBjY0sWPipkxBJCqxKTIx8kuTy78XVdHRF+8qms34XmFu0wytu9x5ZMbImxZXjZLiriCSCX41RboCz/NGjWieBUquGOkhCzSSFmYt4DUQvQFD6BoH90ro0aBw//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_02_ecosia-logo__l.jpg
 labels:
   - Aufforstung
   - Bäume
@@ -28,17 +35,12 @@ labels:
   - Suchmaschine
   - The Nature Conservancy
   - Umweltschutz
-type: Artikel
-typeName: Artikel
-date: 2017-02-28T10:54:24.000Z
+focusKeyword: Ecosia
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "15983"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_ecosia-logo__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_ecosia-logo__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EACQQAAICAQQBBQEBAAAAAAAAAAECAxEEAAUSITEGEyJRcUGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAHBEAAwEAAgMAAAAAAAAAAAAAAAECESExAxJB/9oADAMBAAIRAxEAPwDqnUfk7hxRmhMHAMqiSSXipIenX7sAH9OoT1zl7lhT7S2Dkyw480kuPKY05VI0TGJj8GJAZaoUCWFmhRp+9R71k+lsYwR7qrqDG4y2HvsQQSCxohbJAJpiFU96l01wiPI3MusbxdLtmn4eYZ5pUdFUciYijcw8YociQKBu+r8D/Hmsscbzj4e3HCxc9pYxLKsEUpo/AhWkpgWIIWrDK3yHmjqy+gs/dc6fdxuRyBjY0sWPipkxBJCqxKTIx8kuTy78XVdHRF+8qms34XmFu0wytu9x5ZMbImxZXjZLiriCSCX41RboCz/NGjWieBUquGOkhCzSSFmYt4DUQvQFD6BoH90ro0aBw//Z
 subTitle: Eco-Suchmaschine pflanzt Bäume
   
 ---

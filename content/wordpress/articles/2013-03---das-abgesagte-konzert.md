@@ -1,14 +1,21 @@
 ---
-title: Das abgesagte Konzert
-seoTitle: Konzert abgesagt - Ticketshop überfordert - Neues aus der Servicewüste
+date: 2013-03-11T13:11:14.000Z
 slug: konzert-abgesagt-ticketshop-uberfordert-neues-aus-der-servicewuste
 path: /2013/03/konzert-abgesagt-ticketshop-uberfordert-neues-aus-der-servicewuste/
-fileName: 2013-03---das-abgesagte-konzert.md
+type: Artikel
+typeName: Artikel
+title: Das abgesagte Konzert
+seoTitle: Konzert abgesagt - Ticketshop überfordert - Neues aus der Servicewüste
+ogTitle: Konzert abgesagt - Ticketshop überfordert - Neues aus der Servicewüste
 description: Konzert abgesagt - Zwei Wörter. Wäre nett, wenn man sie mit den
   Menschen, welche die Veranstaltung besuchen wollten, geteilt hätte.
 excerpt: Konzert abgesagt - Zwei Wörter. Wäre nett, wenn man sie mit den
   Menschen, welche die Veranstaltung besuchen wollten, geteilt hätte.
-focusKeyword: Konzert abgesagt
+fileName: 2013-03---das-abgesagte-konzert.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_amanda5__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_03_amanda5__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUGBwEDCP/EAC4QAAEDAwMBBgUFAAAAAAAAAAECAwQFBhEAEiExBxMUIkFRFTNxgZFCUmFykv/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADERIEEyEi/9oADAMBAAIRAxEAPwAGvXPMotyQaXAgUN9lUKG6UTITK3HnHmwogLUQoknd/AGNC12tXpSmC8um2s+hWVhMSkMuKbHsdyRuA9wM6W374pi+abLhIZfeFPpraGFDzKUplKcj/WftpLWX7lhzpCpMhL8R5zYw6HCWkjOAlKR5snjAGSfY6zszbeGXUAr6JhfajcKlHbDttHpj4Ixx+dS+wLprN2y5zc+jUZqlM0+S4ZMWnIYUX229ydqxzndjIHGOug7X7M1zpDdXu4OR4y1ZbpqMokSiP34+WnjoPN/XVpSERosh+LEjIhsN0qYhmOhIQEIDXokdBpe/LBRD0/JYyme0uryKTeTSohLb6qNTy26AMtq7jBIyMdONNeyWpx335rqIy5NQhNeKeeWU9+tnO10ICeUkBQUFJ54IJ5GtN/2ZVblr0apUqTRvDCnRIxEmptMLSttvaoFCjkc5+vX10vt6xrut+twatTZttomRFhaD8bYwofqQrnkEZB+unsr2BxFrs1xOhjMZaZQ2wmHEZZGWkrOxLTZG4qSMAZIP2PUnkarSJcXie0OsUxL3esLpU51kFBGxPcbgcnk5834GpFWVzZNMS6xUKQ9M2Z8O7VY5xk7tm4nCik8bjxjoBqAW3Qq/FvOdX7jl0Usrp0yOhEWpsvqCnGilCUoSSo+Y8n6k41Dj0kNlhLX2grhZ/9k=
+ogImage: null
 labels:
   - Amanda Palmer
   - Amanda Palmer Antony
@@ -47,17 +54,12 @@ labels:
   - Trail Of Dead
   - two tickets to paradise
   - Veranstaltung
-type: Artikel
-typeName: Artikel
-date: 2013-03-11T13:11:14.000Z
+focusKeyword: Konzert abgesagt
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "5006"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_amanda5__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_03_amanda5__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUGBwEDCP/EAC4QAAEDAwMBBgUFAAAAAAAAAAECAwQFBhEAEiExBxMUIkFRFTNxgZFCUmFykv/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADERIEEyEi/9oADAMBAAIRAxEAPwAGvXPMotyQaXAgUN9lUKG6UTITK3HnHmwogLUQoknd/AGNC12tXpSmC8um2s+hWVhMSkMuKbHsdyRuA9wM6W374pi+abLhIZfeFPpraGFDzKUplKcj/WftpLWX7lhzpCpMhL8R5zYw6HCWkjOAlKR5snjAGSfY6zszbeGXUAr6JhfajcKlHbDttHpj4Ixx+dS+wLprN2y5zc+jUZqlM0+S4ZMWnIYUX229ydqxzndjIHGOug7X7M1zpDdXu4OR4y1ZbpqMokSiP34+WnjoPN/XVpSERosh+LEjIhsN0qYhmOhIQEIDXokdBpe/LBRD0/JYyme0uryKTeTSohLb6qNTy26AMtq7jBIyMdONNeyWpx335rqIy5NQhNeKeeWU9+tnO10ICeUkBQUFJ54IJ5GtN/2ZVblr0apUqTRvDCnRIxEmptMLSttvaoFCjkc5+vX10vt6xrut+twatTZttomRFhaD8bYwofqQrnkEZB+unsr2BxFrs1xOhjMZaZQ2wmHEZZGWkrOxLTZG4qSMAZIP2PUnkarSJcXie0OsUxL3esLpU51kFBGxPcbgcnk5834GpFWVzZNMS6xUKQ9M2Z8O7VY5xk7tm4nCik8bjxjoBqAW3Qq/FvOdX7jl0Usrp0yOhEWpsvqCnGilCUoSSo+Y8n6k41Dj0kNlhLX2grhZ/9k=
 subTitle: Nächstes Mal wird es dafür doppelt schön
   
 ---

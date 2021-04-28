@@ -1,33 +1,35 @@
 ---
-title: Mein Jahresrückblick
-seoTitle: Jahresrückblick - Anne bloggt cardamonchai
+date: 2015-12-23T17:27:47.000Z
 slug: jahresrueckblick
 path: /2015/12/jahresrueckblick/
-fileName: 2015-12---mein-jahresrueckblick.md
+type: Artikel
+typeName: Artikel
+title: Mein Jahresrückblick
+seoTitle: Jahresrückblick - Anne bloggt cardamonchai
+ogTitle: Anne bloggt cardamonchai - Mein Jahresrückblick
 description: Das Jahr 2015 war ein ganz besonders spannendes mit vielen Artikeln
   und Erlebnissen. Zeit für einen umfassenden Jahresrückblick und einen Ausblick
   auf 2016.
 excerpt: Das Jahr 2015 war ein ganz besonders spannendes mit vielen Artikeln und
   Erlebnissen. Zeit für einen umfassenden Jahresrückblick und einen Ausblick auf
   2016.
-focusKeyword: Jahresrückblick
+fileName: 2015-12---mein-jahresrueckblick.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23219662686_1a7f4a8ede_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23219662686_1a7f4a8ede_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAACAcC/8QALBAAAgECBAQGAQUAAAAAAAAAAQIDBBEABQYhBxIxYQgTFSJBUXEUUoGhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABkRAAMBAQEAAAAAAAAAAAAAAAABIRExQf/aAAwDAQACEQMRAD8APVHHzMGuNnUEX33+cL7w11UdFoCtmqHiip4nEkssrhEjUILlidgNupwP6W4qIynLzgi3MLje3Xti98MdV6Yn0BqPRWo65Mmq81gaKmkrwRASUIV/MGwAax3t0wFeCsjnSaJZYHSWF1LK6MGDDaxBHXEr4sZ5UZHUZpUZZMkWc1NLBlmW81jzVEzm1r7e1eZiTsLXP1iNeH3X+UcNtLaglz/MkqFqapUosuom82WWRAQ7hOiK10szW5rdsVfRmXV+rdRVWs9Z5b6fXoiU+XZS5Lfoo5B7pJL2vKybdBYfF+g3NNwHlFvUxW/cv+jFap4aCu4F6l9QjjM1C8NRSysLvG5YCyn6YGxHftiTUMckFckdRG8TqQSrrYjFMl8xuBuerDE7h6ujWRlFwibG57XAH5IxdJM+FiKhn4q0kleEeWCGWSBXF7SBDZh3A5t/xhSeowipzd/MF3rHI7hIyB/eCDwCimi4oZPLGjuQ7BhGNwhUhmP0B1/jCEo6uSKmleZBKskkz3+RvbBMoNs//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2012_07_nikon-1028__l.jpg
 labels:
   - "2015"
   - Bilder
   - Blogger
   - Geschichten & Erlebtes
   - Jahresrückblick
-type: Artikel
-typeName: Artikel
-date: 2015-12-23T17:27:47.000Z
+focusKeyword: Jahresrückblick
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "13583"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23219662686_1a7f4a8ede_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23219662686_1a7f4a8ede_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAACAcC/8QALBAAAgECBAQGAQUAAAAAAAAAAQIDBBEABQYhBxIxYQgTFSJBUXEUUoGhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABkRAAMBAQEAAAAAAAAAAAAAAAABIRExQf/aAAwDAQACEQMRAD8APVHHzMGuNnUEX33+cL7w11UdFoCtmqHiip4nEkssrhEjUILlidgNupwP6W4qIynLzgi3MLje3Xti98MdV6Yn0BqPRWo65Mmq81gaKmkrwRASUIV/MGwAax3t0wFeCsjnSaJZYHSWF1LK6MGDDaxBHXEr4sZ5UZHUZpUZZMkWc1NLBlmW81jzVEzm1r7e1eZiTsLXP1iNeH3X+UcNtLaglz/MkqFqapUosuom82WWRAQ7hOiK10szW5rdsVfRmXV+rdRVWs9Z5b6fXoiU+XZS5Lfoo5B7pJL2vKybdBYfF+g3NNwHlFvUxW/cv+jFap4aCu4F6l9QjjM1C8NRSysLvG5YCyn6YGxHftiTUMckFckdRG8TqQSrrYjFMl8xuBuerDE7h6ujWRlFwibG57XAH5IxdJM+FiKhn4q0kleEeWCGWSBXF7SBDZh3A5t/xhSeowipzd/MF3rHI7hIyB/eCDwCimi4oZPLGjuQ7BhGNwhUhmP0B1/jCEo6uSKmleZBKskkz3+RvbBMoNs//9k=
 subTitle: Das war 2015
   
 ---

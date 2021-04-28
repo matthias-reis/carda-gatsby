@@ -1,16 +1,23 @@
 ---
-title: Mit CrowdFarming einen Orangenbaum adoptieren
-seoTitle: Mit Crowdfarming einen Orangenbaum adoptieren - Obst vom Erzeuger
+date: 2019-01-29T15:36:50.000Z
 slug: mit-crowdfarming-einen-orangenbaum-adoptieren
 path: /2019/01/mit-crowdfarming-einen-orangenbaum-adoptieren/
-fileName: 2019-01---mit-crowdfarming-einen-orangenbaum-adoptieren.md
+type: Artikel
+typeName: Artikel
+title: Mit CrowdFarming einen Orangenbaum adoptieren
+seoTitle: Mit Crowdfarming einen Orangenbaum adoptieren - Obst vom Erzeuger
+ogTitle: Mit Crowdfarming einen Orangenbaum adoptieren - Obst vom Erzeuger
 description: Llum Querol ist Orangenfarmerin. Sie möchte sich für den
   biologischen Anbau einsetzen. Aus diesem Grund arbeitet sie jetzt mit
   CrowdFarming zusammen.
 excerpt: Llum Querol ist Orangenfarmerin. Sie möchte sich für den biologischen
   Anbau einsetzen. Aus diesem Grund arbeitet sie jetzt mit CrowdFarming
   zusammen.
-focusKeyword: Orangen
+fileName: 2019-01---mit-crowdfarming-einen-orangenbaum-adoptieren.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_llum-querol__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_llum-querol__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EACYQAAIBAwQCAgIDAAAAAAAAAAECAwQFEQAGEiETMQciFEEVMlH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBQL/xAAlEQABAwIDCQAAAAAAAAAAAAABAAIDEUFRcfAEEiExMjM0gdH/2gAMAwEAAhEDEQA/AKz8XyXCe4VG4Y2p6aChj5vUPzL/AFAACIoJI4jB9AZ710nV/JO1qO+R2uSqlNSf7kQtiIleQDAgN2B+gdY5sS62+j2bJR214LZJVZgrVK8zJ0e8+wpBOf8AOWqdU3Grtm5Z0pYEvtSsQU5ieXxYwqN9eyOPX2wNE+KWOIvjIWpJmTPDHDktA3x8uXD+Vraa3RqbcXCQ4JEhX0GxlSGJ5dMcEY1ldE1HJNUwpS1NTNKsSmWZl5s3JgXGSApBI7Jbr0NK3W632ievtFzFOlXdFEk8EqBnRCAc5BxnA9Z+uP1qMtVwntkdXCY5XiUCUHyrjmhJUYbOFyzZJzqXJvPqCa4cdXWSGNoR7SlklkzDHzbxsQSueieDfrU1thVO8LrGVBRraoK46I8o6xo0atbX4ZzQx985fFB/K0aU9wqfx0WLkyKeA45HXXWme1kSbclGJVVx5sYYZ64+tGjUZnRrAJpbauV//9k=
+ogImage: null
 labels:
   - CrowdFarming
   - Finca
@@ -19,17 +26,12 @@ labels:
   - Orangen
   - Orangenbäume
   - Spanien
-type: Artikel
-typeName: Artikel
-date: 2019-01-29T15:36:50.000Z
+focusKeyword: Orangen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "23322"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_llum-querol__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_llum-querol__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EACYQAAIBAwQCAgIDAAAAAAAAAAECAwQFEQAGEiETMQciFEEVMlH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBQL/xAAlEQABAwIDCQAAAAAAAAAAAAABAAIDEUFRcfAEEiExMjM0gdH/2gAMAwEAAhEDEQA/AKz8XyXCe4VG4Y2p6aChj5vUPzL/AFAACIoJI4jB9AZ710nV/JO1qO+R2uSqlNSf7kQtiIleQDAgN2B+gdY5sS62+j2bJR214LZJVZgrVK8zJ0e8+wpBOf8AOWqdU3Grtm5Z0pYEvtSsQU5ieXxYwqN9eyOPX2wNE+KWOIvjIWpJmTPDHDktA3x8uXD+Vraa3RqbcXCQ4JEhX0GxlSGJ5dMcEY1ldE1HJNUwpS1NTNKsSmWZl5s3JgXGSApBI7Jbr0NK3W632ievtFzFOlXdFEk8EqBnRCAc5BxnA9Z+uP1qMtVwntkdXCY5XiUCUHyrjmhJUYbOFyzZJzqXJvPqCa4cdXWSGNoR7SlklkzDHzbxsQSueieDfrU1thVO8LrGVBRraoK46I8o6xo0atbX4ZzQx985fFB/K0aU9wqfx0WLkyKeA45HXXWme1kSbclGJVVx5sYYZ64+tGjUZnRrAJpbauV//9k=
 subTitle: Bio-Früchte direkt vom Erzeuger
   
 ---

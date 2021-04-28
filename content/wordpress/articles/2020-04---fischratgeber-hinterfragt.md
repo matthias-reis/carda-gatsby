@@ -1,14 +1,21 @@
 ---
-title: Fischratgeber hinterfragt
-seoTitle: Fischratgeber hinterfragt - Überfischung und Kochrezepte
+date: 2020-04-16T07:02:47.000Z
 slug: fischratgeber-hinterfragt
 path: /2020/04/fischratgeber-hinterfragt/
-fileName: 2020-04---fischratgeber-hinterfragt.md
+type: Artikel
+typeName: Artikel
+title: Fischratgeber hinterfragt
+seoTitle: Fischratgeber hinterfragt - Überfischung und Kochrezepte
+ogTitle: Fischratgeber hinterfragt - Überfischung und Kochrezepte
 description: Die großen Umweltschutzorganisationen veröffentlichen jedes Jahr
   aufs Neue sogenannte Fischratgeber. Ich habe sie kritisch hinterfragt.
 excerpt: Die großen Umweltschutzorganisationen veröffentlichen jedes Jahr aufs
   Neue sogenannte Fischratgeber. Ich habe sie kritisch hinterfragt.
-focusKeyword: Fischratgeber
+fileName: 2020-04---fischratgeber-hinterfragt.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_sealife-munchen-aquarium-1624jpg_14603385914_o__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_sealife-munchen-aquarium-1624jpg_14603385914_o__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYCCP/EACoQAAEDAwMDAgcBAAAAAAAAAAECAwQABREGEiETMUEHkRUjJFFhcYLB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAP/xAAdEQABBQEAAwAAAAAAAAAAAAABAAIDESESBCIx/9oADAMBAAIRAxEAPwDzigZAzW79L9Px7ndHJ9xa6sKGRtaKCoOO4yMgeEjkjycCsTbIsi4zGYkJlb8l07W2kd1HGePambpS5J01A+E3NSIE0lTi2ZC1IWFqAwSkD7BOOaT5D+I7CLCzqTVa+p7KGNFyn7AzHityZiTdihkJdeBHy8nwncDkDGSoE0hnEjeec80+9aXxd80JNhttoRcEKbS8tS0pCmN4VvKj35HHnCjx3pLPRo7aFu9UugKxtR4B85Pf2ozXgtF/VYt9jSh7qtbZfZsAbWug6jOdshoOAH8E8j3oopLhY1TrVFvF4m3Nf1To2Ds22kIQP5H+10+0noNDHJ5z+qKKLJlUrNGL/9k=
+ogImage: null
 labels:
   - Fisch
   - Fische
@@ -23,17 +30,12 @@ labels:
   - Tierrechte
   - WWF
   - WWF Fischratgeber
-type: Artikel
-typeName: Artikel
-date: 2020-04-16T07:02:47.000Z
+focusKeyword: Fischratgeber
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29067"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_sealife-munchen-aquarium-1624jpg_14603385914_o__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_sealife-munchen-aquarium-1624jpg_14603385914_o__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYCCP/EACoQAAEDAwMDAgcBAAAAAAAAAAECAwQABREGEiETMUEHkRUjJFFhcYLB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAP/xAAdEQABBQEAAwAAAAAAAAAAAAABAAIDESESBCIx/9oADAMBAAIRAxEAPwDzigZAzW79L9Px7ndHJ9xa6sKGRtaKCoOO4yMgeEjkjycCsTbIsi4zGYkJlb8l07W2kd1HGePambpS5J01A+E3NSIE0lTi2ZC1IWFqAwSkD7BOOaT5D+I7CLCzqTVa+p7KGNFyn7AzHityZiTdihkJdeBHy8nwncDkDGSoE0hnEjeec80+9aXxd80JNhttoRcEKbS8tS0pCmN4VvKj35HHnCjx3pLPRo7aFu9UugKxtR4B85Pf2ozXgtF/VYt9jSh7qtbZfZsAbWug6jOdshoOAH8E8j3oopLhY1TrVFvF4m3Nf1To2Ds22kIQP5H+10+0noNDHJ5z+qKKLJlUrNGL/9k=
 subTitle: Überfischung und Kochrezepte
   
 ---

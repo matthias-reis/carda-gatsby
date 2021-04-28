@@ -1,16 +1,23 @@
 ---
-title: Weltwassertag 2018
-seoTitle: Weltwassertag 2018 - Naturbasierte Lösungen für das Wasser
+date: 2018-03-22T14:00:39.000Z
 slug: der-weltwassertag-2018
 path: /2018/03/der-weltwassertag-2018/
-fileName: 2018-03---weltwassertag-2018.md
+type: Artikel
+typeName: Artikel
+title: Weltwassertag 2018
+seoTitle: Weltwassertag 2018 - Naturbasierte Lösungen für das Wasser
+ogTitle: Weltwassertag 2018 - Naturbasierte Lösungen für das Wasser
 description: In diesem Jahr dreht sich beim Weltwassertag alles um das Thema
   „Naturbasierte Lösungen für das Wasser“. Zeit, über unsere Wasserverschwendung
   nachzudenken.
 excerpt: In diesem Jahr dreht sich beim Weltwassertag alles um das Thema
   „Naturbasierte Lösungen für das Wasser“. Zeit, über unsere Wasserverschwendung
   nachzudenken.
-focusKeyword: Weltwassertag
+fileName: 2018-03---weltwassertag-2018.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_03_11153925974_fe91f672d3_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_03_11153925974_fe91f672d3_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBwECBv/EACcQAAEDBAEDAwUAAAAAAAAAAAECAwQABQYRIRIxYRMUURUiQaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwBBneGomyzHtsRppS16Ckjg81ZtgxK22zEoEScwl9cRtKW1LG+kj8/s0qOVRoyggKhJKTtSURgtRPlazwKxmV7en4ldXHVNx464bv3Nq0poFB5BA5IptbkMFWmAiQ6+230l07UB234qLJgxW2iUgEfB71zcXK/bQGEfTPU00jRMpA2Okc7pbdM9QhnbloIHiY2f5zSUxV2RZNLlvvDobbTs8IHmo7OW3RuCmD6vUwrYO++tHiiiqS1NxfcSSVqHA4BqHIkLWNrKlb+TRRUtf//Z
+ogImage: null
 labels:
   - go vegan
   - Klima & Umweltschutz
@@ -18,17 +25,12 @@ labels:
   - Wasser
   - Wasser sparen
   - Weltwassertag 2018
-type: Artikel
-typeName: Artikel
-date: 2018-03-22T14:00:39.000Z
+focusKeyword: Weltwassertag
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16202"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_03_11153925974_fe91f672d3_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_03_11153925974_fe91f672d3_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBwECBv/EACcQAAEDBAEDAwUAAAAAAAAAAAECAwQABQYRIRIxYRMUURUiQaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwBBneGomyzHtsRppS16Ckjg81ZtgxK22zEoEScwl9cRtKW1LG+kj8/s0qOVRoyggKhJKTtSURgtRPlazwKxmV7en4ldXHVNx464bv3Nq0poFB5BA5IptbkMFWmAiQ6+230l07UB234qLJgxW2iUgEfB71zcXK/bQGEfTPU00jRMpA2Okc7pbdM9QhnbloIHiY2f5zSUxV2RZNLlvvDobbTs8IHmo7OW3RuCmD6vUwrYO++tHiiiqS1NxfcSSVqHA4BqHIkLWNrKlb+TRRUtf//Z
 subTitle: Naturbasierte Lösungen für das Wasser
   
 ---

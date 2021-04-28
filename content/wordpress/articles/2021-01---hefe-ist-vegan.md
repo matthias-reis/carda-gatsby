@@ -1,14 +1,21 @@
 ---
-title: Hefe ist vegan
-seoTitle: Hefe ist vegan – alle Fakten und Infos zum Lebensmittel
+date: 2021-01-28T16:40:28.000Z
 slug: hefe-ist-vegan
 path: /2021/01/hefe-ist-vegan/
-fileName: 2021-01---hefe-ist-vegan.md
+type: Artikel
+typeName: Artikel
+title: Hefe ist vegan
+seoTitle: Hefe ist vegan – alle Fakten und Infos zum Lebensmittel
+ogTitle: Hefe ist vegan – alle Fakten und Infos zum Lebensmittel
 description: Hefe ist vegan – oder doch nicht? Hier findet Ihr alle Fakten und
   erfahrt, auf was Ihr beim Hefekauf achten solltet.
 excerpt: Hefe ist vegan – oder doch nicht? Hier findet Ihr alle Fakten und
   erfahrt, auf was Ihr beim Hefekauf achten solltet.
-focusKeyword: Hefe ist vegan
+fileName: 2021-01---hefe-ist-vegan.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_hefe-congerdesign__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_hefe-congerdesign__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAHBf/EAC4QAAEDAwMCBAQHAAAAAAAAAAECAwQFBhEAEiETMQciUXEUQZGhFSMzQmGBsf/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAv/EAB8RAQACAgICAwAAAAAAAAAAAAEAAgMhBBEUIjFhgf/aAAwDAQACEQMRAD8Ax+k0B3pJX8JI24ByGF4+uNKaFSYz0kokNuBCAFKSPIoj+Mjj6aa2bUry/AlGi16PLhKISlK6whtyOgH5odwU5GOx/wB10vEuo3I1YqJVVfZcisTooU4ZbLrqh1OeUZ78D2J9NDeavqV6+9RXihtt+bnOhWHCrcECkJkpmlDhaSvCkOlOPKo/sPOAexzoDLtcPsuKko6KUqU2tBT+YCk4II7DnjnTcXnLo0goYSpB3BKtrYSpZPACSOee39aI+I06qxbxXUJMOXGiS0pcWoLS62p3aA4dyCQewJ9zqNOTltVa7lHBQsFtRLYVOtpTfTRNnhp3BKUvpAHtlJ9dbEKRacmiGA6lucySN4qCupux22geUHjuB99WrSylR76hnJZNsz27bLtu23Y9QpVJiyITZLywqUsOMgJOQkkkHAJxn58emhtxQqfNt2JOg1R8x22lOtiSEhb24D9XHbgY45H21atUx0H5mcl0BJ//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_hefe-congerdesign-fb.png__l.jpg
 labels:
   - backen
   - Brot
@@ -19,17 +26,12 @@ labels:
   - Hefe
   - Hefe ist vegan
   - Mikroorganismen
-type: Artikel
-typeName: Artikel
-date: 2021-01-28T16:40:28.000Z
+focusKeyword: Hefe ist vegan
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32604"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_hefe-congerdesign__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_hefe-congerdesign__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAHBf/EAC4QAAEDAwMCBAQHAAAAAAAAAAECAwQFBhEAEiETMQciUXEUQZGhFSMzQmGBsf/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAv/EAB8RAQACAgICAwAAAAAAAAAAAAEAAgMhBBEUIjFhgf/aAAwDAQACEQMRAD8Ax+k0B3pJX8JI24ByGF4+uNKaFSYz0kokNuBCAFKSPIoj+Mjj6aa2bUry/AlGi16PLhKISlK6whtyOgH5odwU5GOx/wB10vEuo3I1YqJVVfZcisTooU4ZbLrqh1OeUZ78D2J9NDeavqV6+9RXihtt+bnOhWHCrcECkJkpmlDhaSvCkOlOPKo/sPOAexzoDLtcPsuKko6KUqU2tBT+YCk4II7DnjnTcXnLo0goYSpB3BKtrYSpZPACSOee39aI+I06qxbxXUJMOXGiS0pcWoLS62p3aA4dyCQewJ9zqNOTltVa7lHBQsFtRLYVOtpTfTRNnhp3BKUvpAHtlJ9dbEKRacmiGA6lucySN4qCupux22geUHjuB99WrSylR76hnJZNsz27bLtu23Y9QpVJiyITZLywqUsOMgJOQkkkHAJxn58emhtxQqfNt2JOg1R8x22lOtiSEhb24D9XHbgY45H21atUx0H5mcl0BJ//2Q==
 subTitle: Fakten und Infos
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: Rock 'n' Roll vegan im neuen Gewand
-seoTitle: Rock ´n´ Roll vegan im neuen Gewand
+date: 2017-08-06T15:55:45.000Z
 slug: rocknroll-vegan-im-neuen-gewand-neuer-blog-und-neues-logo
 path: /2017/08/rocknroll-vegan-im-neuen-gewand-neuer-blog-und-neues-logo/
-fileName: 2017-08---rock-n-roll-vegan-im-neuen-gewand.md
+type: Artikel
+typeName: Artikel
+title: Rock 'n' Roll vegan im neuen Gewand
+seoTitle: Rock ´n´ Roll vegan im neuen Gewand
+ogTitle: Rock ´n´ Roll vegan im neuen Gewand
 description: Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues
   Gesicht. Feierlich enthülle ich heute das neue Design meines Blogs - Mehr Rock
   'n' Roll vegan!
 excerpt: Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues Gesicht.
   Feierlich enthülle ich heute das neue Design meines Blogs - Mehr Rock 'n' Roll
   vegan!
-focusKeyword: Logo
+fileName: 2017-08---rock-n-roll-vegan-im-neuen-gewand.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_17991553_1440986475923477_2158274734981065272_o__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_17991553_1440986475923477_2158274734981065272_o__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcEBQADCP/EAC0QAAICAQMCBAMJAAAAAAAAAAECAwQRAAUhBhIHEzFBQlFxFBUyQ2FikaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/8QAHREBAAICAwEBAAAAAAAAAAAAAQACAyEEETESQf/aAAwDAQACEQMRAD8A5ZUF2AXlj6aaPSnQUFyFVsBnlIyecaFKGxPR6vsbdbAdqcjDOOH7TwfoeDpr9P71Bt9uNrHloF/LedEdh8wpOTqd+/CXwlXbJ2weFVKzM8MbyidQGQ92Dj0P6HB9jow6apWtorPtF4lpaTdiMfijPK/xyNW9u9Vj6aTqfbZHD1iECrG0nmFiB2FV5J+n+ayz9vuzVt6u1GqG3EYXhdChBRjhsEn1Df1p4LIw8ylWih5ENsU24dRw2OoLsCIzSlFK8AoB6AfIZxn30aUY6H3NZnevCLH4O9Yx3v8AtzqLbv0KUI2+v5a+UgVa8XwA5x9PfWqJxLtUtCdD2SFWRwSpRgcg5GjlAdexcS6mzX5GZ4Jy52zeKkylIQqyqZBhB8zk8cav94vCbb6cHlmN0eRmGc++Mg+4OMg6i+ENUSbY1eyIZInI8xSmSSCPUentngaALHiPVu9b2Nk3WrZo7stp6ZQ4eJXRioUPwecDBx76WE32zObZ+PgPZ//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_08_facebook-title-image-2.png__l.jpg
 labels:
   - Blog Design
   - cardamonchai
@@ -26,17 +33,12 @@ labels:
   - rocknrollvegan
   - vegane Blogger
   - Webdesign
-type: Artikel
-typeName: Artikel
-date: 2017-08-06T15:55:45.000Z
+focusKeyword: Logo
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "17458"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_17991553_1440986475923477_2158274734981065272_o__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_17991553_1440986475923477_2158274734981065272_o__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcEBQADCP/EAC0QAAICAQMCBAMJAAAAAAAAAAECAwQRAAUhBhIHEzFBQlFxFBUyQ2FikaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/8QAHREBAAICAwEBAAAAAAAAAAAAAQACAyEEETESQf/aAAwDAQACEQMRAD8A5ZUF2AXlj6aaPSnQUFyFVsBnlIyecaFKGxPR6vsbdbAdqcjDOOH7TwfoeDpr9P71Bt9uNrHloF/LedEdh8wpOTqd+/CXwlXbJ2weFVKzM8MbyidQGQ92Dj0P6HB9jow6apWtorPtF4lpaTdiMfijPK/xyNW9u9Vj6aTqfbZHD1iECrG0nmFiB2FV5J+n+ayz9vuzVt6u1GqG3EYXhdChBRjhsEn1Df1p4LIw8ylWih5ENsU24dRw2OoLsCIzSlFK8AoB6AfIZxn30aUY6H3NZnevCLH4O9Yx3v8AtzqLbv0KUI2+v5a+UgVa8XwA5x9PfWqJxLtUtCdD2SFWRwSpRgcg5GjlAdexcS6mzX5GZ4Jy52zeKkylIQqyqZBhB8zk8cav94vCbb6cHlmN0eRmGc++Mg+4OMg6i+ENUSbY1eyIZInI8xSmSSCPUentngaALHiPVu9b2Nk3WrZo7stp6ZQ4eJXRioUPwecDBx76WE32zObZ+PgPZ//Z
 subTitle: Mein Blog sieht jetzt anders aus
   
 ---

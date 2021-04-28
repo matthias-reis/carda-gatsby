@@ -1,14 +1,21 @@
 ---
-title: WaterBear Streamingdienst
-seoTitle: WaterBear Streamingdienst – Das Videoportal für modernen Aktivismus
+date: 2021-02-19T10:59:23.000Z
 slug: waterbear-streamingdienst
 path: /2021/02/waterbear-streamingdienst/
-fileName: 2021-02---waterbear-streamingdienst.md
+type: Artikel
+typeName: Artikel
+title: WaterBear Streamingdienst
+seoTitle: WaterBear Streamingdienst – Das Videoportal für modernen Aktivismus
+ogTitle: WaterBear Streamingdienst – Das Videoportal für modernen Aktivismus
 description: WaterBear ist ein kostenloser Streamingdienst für Themen wie
   Nachhaltigkeit, Tierrechte, Artenschutz und Klimaaktivismus.
 excerpt: English & German – WaterBear ist ein kostenloser Streamingdienst für
   Themen wie Nachhaltigkeit, Tierrechte, Artenschutz und Klimaaktivismus.
-focusKeyword: WaterBear
+fileName: 2021-02---waterbear-streamingdienst.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAJxAAAQMEAQMEAwEAAAAAAAAAAQIDBAAFESESBjFBEyJhcRQzQoH/xAAYAQEAAwEAAAAAAAAAAAAAAAABAAIDBP/EAB4RAAICAgMBAQAAAAAAAAAAAAECABEDEiEiMROx/9oADAMBAAIRAxEAPwDPyeqYE+5pamQrUzEXwShUeMVOcuYB5EtlOCddxjPeuf3213VEtz1YkrLa1fpSvijKieAGNU3dpknp26RFwZMiYy4tKjHe4todxnAPE5x8+av3+s7DGhwTDtN+/LWjlOWZDRSXdbbwNpyT332z5pDtUXRNiB5MLCvTkRtbM56QlHL1OKyo5IOhkgkgEfVTIv8Acro9HYt8h124KWEtMIBBWFd8qBGPHf57VbEW2Vbmpb8S8qLLRShRfjqSdkpz/SfnG/NbXpa33RuytOyen0SWXgX1rCWV5K9hOCckYHbxSzIw0yVUxGNlOyWZy9FxtYkui4RVvNA4ZCCSGzk6931TZi2KRbFyobZQ4wObiAotZ12SSd+4j/KKKb661LHnkye5RIMe0SJ1udeDTLYWkrdScqOgOJ9xGx4pS09SSYPTpaU62iLJc4LbSwS4EnRUhwnAIA0PqiiuRH+t7Dw1+SY8rdqn/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-fb.png__l.jpg
 labels:
   - Aktivismus
   - Bücher & Filme
@@ -18,17 +25,12 @@ labels:
   - Streamingdienst
   - WaterBear
   - WaterBear Network
-type: Artikel
-typeName: Artikel
-date: 2021-02-19T10:59:23.000Z
+focusKeyword: WaterBear
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32967"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAJxAAAQMEAQMEAwEAAAAAAAAAAQIDBAAFESESBjFBEyJhcRQzQoH/xAAYAQEAAwEAAAAAAAAAAAAAAAABAAIDBP/EAB4RAAICAgMBAQAAAAAAAAAAAAECABEDEiEiMROx/9oADAMBAAIRAxEAPwDPyeqYE+5pamQrUzEXwShUeMVOcuYB5EtlOCddxjPeuf3213VEtz1YkrLa1fpSvijKieAGNU3dpknp26RFwZMiYy4tKjHe4todxnAPE5x8+av3+s7DGhwTDtN+/LWjlOWZDRSXdbbwNpyT332z5pDtUXRNiB5MLCvTkRtbM56QlHL1OKyo5IOhkgkgEfVTIv8Acro9HYt8h124KWEtMIBBWFd8qBGPHf57VbEW2Vbmpb8S8qLLRShRfjqSdkpz/SfnG/NbXpa33RuytOyen0SWXgX1rCWV5K9hOCckYHbxSzIw0yVUxGNlOyWZy9FxtYkui4RVvNA4ZCCSGzk6931TZi2KRbFyobZQ4wObiAotZ12SSd+4j/KKKb661LHnkye5RIMe0SJ1udeDTLYWkrdScqOgOJ9xGx4pS09SSYPTpaU62iLJc4LbSwS4EnRUhwnAIA0PqiiuRH+t7Dw1+SY8rdqn/9k=
 subTitle: Das Videoportal für modernen Aktivismus
   
 ---

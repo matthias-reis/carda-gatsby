@@ -1,12 +1,19 @@
 ---
-title: Mousehole, Cornwall
-seoTitle: Mousehole - Anne bloggt cardamonchai
+date: 2009-05-16T13:56:19.000Z
 slug: mousehole-cornwall-16-05-2009
 path: /2009/05/mousehole-cornwall-16-05-2009/
-fileName: 2009-05---mousehole-cornwall.md
+type: Galerie
+typeName: Galerie
+title: Mousehole, Cornwall
+seoTitle: Mousehole - Anne bloggt cardamonchai
+ogTitle: Mousehole - Anne bloggt cardamonchai
 description: "Erinnerungen an den Frühling in England 2009 - Heute: Mousehole"
 excerpt: Die weltberühmte Postkartenansicht von Mousehole - wer kennt sie nicht?
-focusKeyword: Mousehole
+fileName: 2009-05---mousehole-cornwall.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11502886756_d07a207ab9_z1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11502886756_d07a207ab9_z1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAJxAAAgEEAgIBAwUAAAAAAAAAAQIDAAQREiExBUFhExRxFSIjMqH/xAAZAQABBQAAAAAAAAAAAAAAAAAEAAECAwX/xAAaEQADAAMBAAAAAAAAAAAAAAAAARECAyEx/9oADAMBAAIRAxEAPwDMmgZrNLmGPyFxCA31AjM6QYI2Mmwynf8AlR3SKqrBF5CylZWXeWIyhmzngAgLgEUzfrfi7R7qA3d07XI1mS2JAkU57wR21XFrHaTeK8c1rZrDE6MGWYbnbcZIOTwOQeBn5waHw2rJyD5a4rRA+4ttkjS8tFGpJklJTBHfPv4xUaeRs3mS2DRSkp+0CYqGbHW3fvrnkdU5XU9tZsJbhDFA4/jaS0DKdThhhRnkHIP4rhgg+/WS4sBBNDFsZDEh2UEEoeRnoc+vxRPJwrjT6jW7CKKOOOIW0UaL/VY4F1X36GBVvBNDJGpjZHUZA1wQOeQMfNFFZcQaiO5MZVlbVg3BDKDS75uKE2VyyRwb/QkUMsYBA1PGaKKkvRM//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11502886756_d07a207ab9_z1__l.jpg
 labels:
   - Britische Inseln
   - Coast
@@ -25,17 +32,12 @@ labels:
   - Reise
   - Seaside
   - Urlaub
-type: Galerie
-typeName: Galerie
-date: 2009-05-16T13:56:19.000Z
+focusKeyword: Mousehole
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11249"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11502886756_d07a207ab9_z1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11502886756_d07a207ab9_z1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAJxAAAgEEAgIBAwUAAAAAAAAAAQIDAAQREiExBUFhExRxFSIjMqH/xAAZAQABBQAAAAAAAAAAAAAAAAAEAAECAwX/xAAaEQADAAMBAAAAAAAAAAAAAAAAARECAyEx/9oADAMBAAIRAxEAPwDMmgZrNLmGPyFxCA31AjM6QYI2Mmwynf8AlR3SKqrBF5CylZWXeWIyhmzngAgLgEUzfrfi7R7qA3d07XI1mS2JAkU57wR21XFrHaTeK8c1rZrDE6MGWYbnbcZIOTwOQeBn5waHw2rJyD5a4rRA+4ttkjS8tFGpJklJTBHfPv4xUaeRs3mS2DRSkp+0CYqGbHW3fvrnkdU5XU9tZsJbhDFA4/jaS0DKdThhhRnkHIP4rhgg+/WS4sBBNDFsZDEh2UEEoeRnoc+vxRPJwrjT6jW7CKKOOOIW0UaL/VY4F1X36GBVvBNDJGpjZHUZA1wQOeQMfNFFZcQaiO5MZVlbVg3BDKDS75uKE2VyyRwb/QkUMsYBA1PGaKKkvRM//9k=
 subTitle: Erinnerungen an den Frühling in England 2009 - Teil 11/17
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: Post-Everything Band Mantis
-seoTitle: Post-Everything Band Mantis – "Wir lieben DUNK!records!"
+date: 2020-12-28T12:56:51.000Z
 slug: mantis-interview
 path: /2020/12/mantis-interview/
-fileName: 2020-12---post-everything-band-mantis.md
+type: Artikel
+typeName: Interview
+title: Post-Everything Band Mantis
+seoTitle: Post-Everything Band Mantis – "Wir lieben DUNK!records!"
+ogTitle: Post-Everything Band Mantis – "Wir lieben DUNK!records!"
 description: Mantis bezeichnen sich selbst als "Post-Everything" Band. Das
   beschreibt ihre Musik ziemlich perfekt. Ich habe sie zu ihrem aktuellen Album
   "Glint" befragt.
 excerpt: English & German – Mantis bezeichnen sich selbst als "Post-Everything"
   Band. Das beschreibt ihre Musik ziemlich perfekt. Ich habe sie zu ihrem
   aktuellen Album "Glint" befragt.
-focusKeyword: Mantis
+fileName: 2020-12---post-everything-band-mantis.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_mantis-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_mantis-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgECB//EACcQAAEDAwQCAQUBAAAAAAAAAAECAwQABRESFCExBkGhJFFhcYHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQF/8QAHBEAAgEFAQAAAAAAAAAAAAAAAAECAwQREjEh/9oADAMBAAIRAxEAPwDvBj49VptyegaxfLouHHUY6Rq61nnH8qpueazLdGdXKS26hpCnVrcSoYSBk8j/ACpXdRhLVlSt5SWyLZtFH1Qbfq7FIrf53Bm3eBHIMePIguylOLIIbWgtkoVjrCXAecd1IsnmEO/yrWuzLEm3zGZRW50WXGS2dJH5Cz8GnVVvgMqWOoQz74h7UlTq2+MgpUnn5pVIlblgt7/SjpQW005qHsEH70UVi5fTW1SRWLf44q0zZs6PdluOSHlrCGWGEgJWAFgpJxghKR+gKhWCwvWSE0wzeozG3U44z9CgnLmArIzhWAMc9eqKKZVZPwNwR//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_12_mantis-fb.png__l.jpg
 labels:
   - Ambient
   - Bands
@@ -28,17 +35,12 @@ labels:
   - Post-Metal
   - Post-Punk
   - Post-Rock
-type: Artikel
-typeName: Interview
-date: 2020-12-28T12:56:51.000Z
+focusKeyword: Mantis
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32182"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_mantis-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_mantis-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgECB//EACcQAAEDAwQCAQUBAAAAAAAAAAECAwQABRESFCExBkGhJFFhcYHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQF/8QAHBEAAgEFAQAAAAAAAAAAAAAAAAECAwQREjEh/9oADAMBAAIRAxEAPwDvBj49VptyegaxfLouHHUY6Rq61nnH8qpueazLdGdXKS26hpCnVrcSoYSBk8j/ACpXdRhLVlSt5SWyLZtFH1Qbfq7FIrf53Bm3eBHIMePIguylOLIIbWgtkoVjrCXAecd1IsnmEO/yrWuzLEm3zGZRW50WXGS2dJH5Cz8GnVVvgMqWOoQz74h7UlTq2+MgpUnn5pVIlblgt7/SjpQW005qHsEH70UVi5fTW1SRWLf44q0zZs6PdluOSHlrCGWGEgJWAFgpJxghKR+gKhWCwvWSE0wzeozG3U44z9CgnLmArIzhWAMc9eqKKZVZPwNwR//Z
 subTitle: '"Wir lieben das Dunk!team"'
   
 ---

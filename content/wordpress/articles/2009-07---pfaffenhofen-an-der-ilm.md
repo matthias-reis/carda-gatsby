@@ -1,14 +1,21 @@
 ---
-title: Pfaffenhofen an der Ilm
-seoTitle: Pfaffenhofen an der Ilm
+date: 2009-07-13T08:23:52.000Z
 slug: pfaffenhofen-an-der-ilm
 path: /2009/07/pfaffenhofen-an-der-ilm/
-fileName: 2009-07---pfaffenhofen-an-der-ilm.md
+type: Artikel
+typeName: Artikel
+title: Pfaffenhofen an der Ilm
+seoTitle: Pfaffenhofen an der Ilm
+ogTitle: Pfaffenhofen an der Ilm
 description: Über die Gründung der Stadt Pfaffenhofen an der Ilm gibt es
   unterschiedliche Theorien.
 excerpt: Über die Gründung der Stadt Pfaffenhofen an der Ilm gibt es
   unterschiedliche Theorien. Klar ist nur, daß sie sehr weit zurückliegt.
-focusKeyword: Pfaffenhofen
+fileName: 2009-07---pfaffenhofen-an-der-ilm.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_07_12992463134_16318972f1_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_07_12992463134_16318972f1_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQFAgYI/8QAKRAAAQMDBAEEAQUAAAAAAAAAAQIDBAURIQAGEhNBBxQiMVEVFmFxgf/EABYBAQEBAAAAAAAAAAAAAAAAAAUBAv/EACERAAEDAgcBAAAAAAAAAAAAAAEAAgMRUQQSEyExcfCx/9oADAMBAAIRAxEAPwDa6XvlcqXHnwWGRGW0UvtXHf2AmwTn5A3BFxnP40/vXa9JplDru6Ay97r2na3APBpAkqASkYxlRGPzfS2ydrN0dpSpzcVcxlwONvsuFHEA+Vm18+Mak+uMyFWaZS0CYhxbTilraDvJCSRa5DZuThVr4Hj7OkcTK2Kpg4vdH4aN8wGuN7WVbddMQ1SaQ5CjPx4z8NL8hsK5pQs2ulSk/EkHF9O070vpsmltuTpklqer5L6XEKbAP0BcZxbN9SqduKmUPZn7ZfkxQ20V8EuKJ6UE8koxm4v9nIvY3trKkeoG34sB2DIr9OeWooS2l54tKbNvBULFIH8/5rTcQ8wNyuoe9ysugZrHM2o+LnyVVHZ9UJnrkylKqntLvSnFAJ+7gcrA58aI9ZXBpPfBjR2XHql7dZKed0JBsM+cnOjRoMivKaBoNk7UHm/1StAxIp62VuJKmgpXO9yq5/vUV+U4Y9IWlLSOd+wJbSOdlWzYaNGoAPdKkn3a/9k=
+ogImage: null
 labels:
   - Ausflug
   - Bayern
@@ -16,17 +23,12 @@ labels:
   - Pfaffenhofen
   - Pfaffenhofen an der Ilm
   - Reiseführer Bayern
-type: Artikel
-typeName: Artikel
-date: 2009-07-13T08:23:52.000Z
+focusKeyword: Pfaffenhofen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11426"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_07_12992463134_16318972f1_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_07_12992463134_16318972f1_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQFAgYI/8QAKRAAAQMDBAEEAQUAAAAAAAAAAQIDBAURIQAGEhNBBxQiMVEVFmFxgf/EABYBAQEBAAAAAAAAAAAAAAAAAAUBAv/EACERAAEDAgcBAAAAAAAAAAAAAAEAAgMRUQQSEyExcfCx/9oADAMBAAIRAxEAPwDa6XvlcqXHnwWGRGW0UvtXHf2AmwTn5A3BFxnP40/vXa9JplDru6Ay97r2na3APBpAkqASkYxlRGPzfS2ydrN0dpSpzcVcxlwONvsuFHEA+Vm18+Mak+uMyFWaZS0CYhxbTilraDvJCSRa5DZuThVr4Hj7OkcTK2Kpg4vdH4aN8wGuN7WVbddMQ1SaQ5CjPx4z8NL8hsK5pQs2ulSk/EkHF9O070vpsmltuTpklqer5L6XEKbAP0BcZxbN9SqduKmUPZn7ZfkxQ20V8EuKJ6UE8koxm4v9nIvY3trKkeoG34sB2DIr9OeWooS2l54tKbNvBULFIH8/5rTcQ8wNyuoe9ysugZrHM2o+LnyVVHZ9UJnrkylKqntLvSnFAJ+7gcrA58aI9ZXBpPfBjR2XHql7dZKed0JBsM+cnOjRoMivKaBoNk7UHm/1StAxIp62VuJKmgpXO9yq5/vUV+U4Y9IWlLSOd+wJbSOdlWzYaNGoAPdKkn3a/9k=
 subTitle: Kreisstadt in der Hallertau
   
 ---

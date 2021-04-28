@@ -1,14 +1,21 @@
 ---
-title: Homem em Catarse
-seoTitle: Homem em Catarse – Atmosphärischer Post-Rock aus Portugal
+date: 2021-01-28T11:04:42.000Z
 slug: homem-em-catarse
 path: /2021/01/homem-em-catarse/
-fileName: 2021-01---homem-em-catarse.md
+type: Artikel
+typeName: Review
+title: Homem em Catarse
+seoTitle: Homem em Catarse – Atmosphärischer Post-Rock aus Portugal
+ogTitle: Homem em Catarse – Atmosphärischer Post-Rock aus Portugal
 description: Kennt Ihr schon Homem em Catarse? Das portogiesische Dream
   Gaze/Slowcore Projekt veröffentlichte 2020 ein grandioses neues Album.
 excerpt: English & German – Kennt Ihr schon Homem em Catarse? Das portogiesische
   Dream Gaze/Slowcore Projekt veröffentlichte 2020 ein grandioses neues Album.
-focusKeyword: Homem em Catarse
+fileName: 2021-01---homem-em-catarse.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_Homem-em-Catarse-Cem-Palavras-_-Sem-Palavras__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_Homem-em-Catarse-Cem-Palavras-_-Sem-Palavras__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBAgUD/8QAKRAAAgEDAgUDBQEAAAAAAAAAAQIDAAQRBSEGEjFBURNhcRVCwdHh8f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBU4csbQRGSYOSq42Xp7+PFM8LW0QXmSZQDjYgE5P8AlYWhQXK20j5UAqMc7ADGOxre0PSE1Kd45pkgkIDoqnnz579vzQQktq8o9SBjysQcEEn23z+qSeKLO3S4liSMKSmQMfNOnEVlDoslrm99WaUswR1xkDbOQfJxik/iBpzMs0cYaERMrMnTr/aCmga0vorG01oy9t2XPsTiuuvajImmXzWd9AkptpEQRSkspI+3bY4FFFBbTNQg1fhrRfqd+Dd2duI+eV8liQDuOuwwOu+KxtceDBEV5blevKkeAfneiig//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_Homem-em-Catarse-Cem-Palavras-_-Sem-Palavras-FB.png__l.jpg
 labels:
   - Ambient
   - Atmosphärischer Post-Rock
@@ -20,17 +27,12 @@ labels:
   - Review
   - Shoegaze
   - Slowcore
-type: Artikel
-typeName: Review
-date: 2021-01-28T11:04:42.000Z
+focusKeyword: Homem em Catarse
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32581"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_Homem-em-Catarse-Cem-Palavras-_-Sem-Palavras__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_Homem-em-Catarse-Cem-Palavras-_-Sem-Palavras__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBAgUD/8QAKRAAAgEDAgUDBQEAAAAAAAAAAQIDAAQRBSEGEjFBURNhcRVCwdHh8f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBU4csbQRGSYOSq42Xp7+PFM8LW0QXmSZQDjYgE5P8AlYWhQXK20j5UAqMc7ADGOxre0PSE1Kd45pkgkIDoqnnz579vzQQktq8o9SBjysQcEEn23z+qSeKLO3S4liSMKSmQMfNOnEVlDoslrm99WaUswR1xkDbOQfJxik/iBpzMs0cYaERMrMnTr/aCmga0vorG01oy9t2XPsTiuuvajImmXzWd9AkptpEQRSkspI+3bY4FFFBbTNQg1fhrRfqd+Dd2duI+eV8liQDuOuwwOu+KxtceDBEV5blevKkeAfneiig//9k=
 subTitle: Dream Gaze aus Portugal
   
 ---

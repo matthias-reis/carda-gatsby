@@ -1,16 +1,23 @@
 ---
-title: Der wichtigste Grund für meine vegane Ernährungsweise
-seoTitle: Vegane Ernährungsweise - Mein wichtigster Grund dafür
+date: 2014-08-27T10:31:50.000Z
 slug: der-wichtigste-grund-fur-meine-vegane-ernahrungsweise
 path: /2014/08/der-wichtigste-grund-fur-meine-vegane-ernahrungsweise/
-fileName: 2014-08---der-wichtigste-grund-fuer-meine-vegane-ernaehrungsweise.md
+type: Artikel
+typeName: Artikel
+title: Der wichtigste Grund für meine vegane Ernährungsweise
+seoTitle: Vegane Ernährungsweise - Mein wichtigster Grund dafür
+ogTitle: Der wichtigste Grund für meine vegane Ernährungsweise
 description: Den wichtigsten Grund für meine vegane Ernährungsweise sollte ich
   nennen und schon hatte ich gewonnen! Ich freue mich wirklich sehr! Dank an
   Animal Equality
 excerpt: Den wichtigsten Grund für meine vegane Ernährungsweise sollte ich
   nennen und schon hatte ich gewonnen! Ich freue mich wirklich sehr!  Vielen
   Dank an Animal Equality!
-focusKeyword: vegane Ernährungsweise
+fileName: 2014-08---der-wichtigste-grund-fuer-meine-vegane-ernaehrungsweise.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_img_1640__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_img_1640__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGBf/EACsQAAICAgEEAQIFBQAAAAAAAAECAwQFEQYAEiFBMQcUExUiMmEjM1Fxof/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EAB4RAAIDAAIDAQAAAAAAAAAAAAECAAMRITESMkFC/9oADAMBAAIRAxEAPwACw2HiyNiISRB3EqrJGrdp7Qw7joetb89UJgfpRx2pjo7knHo8i0Ukkc/9ZzIFjmlRmSMHTnSp48dH/CcDTyDGOeN3CRtI0NclbFsDRMUZBH6jv363rqjKdySV0eRJYW7Vk/DY6MY+QPH7WG/53/3rJfZhybCozjuYjA8T4tmKeZ/IuM1UsVlVo4rUK7dmQ9vnbaBKn376LvqVxazh8NHbtY6tSsGuks0ECBVULP2evg6kX2ddUxj5sfQvzWUgC5K+gRYo5FT7ntJO1RiAG2Ts+z0d/WKw+Rp9k+PNaJ6FwAvMjlmQwygaXev7be+ilmNweJJS3q/cIOHZB7DwxxBWhG3MvaUYaGhof5J158fHTRxPkFrKWsfVv4jJMj0kmjyqwsYWcFlkjlcDtRtrsedH4Oj8y5gsqkUneST3L2N+o+Rvevnra058Jeg7L1ZZiP2iSSRgN/x3dWtp8pYNojvyChRaaPKZK+cbFUYK9ySZYNhSdJtyAjk7AIOvJ2PfR9zbkl7KWq1rIWOOU8SsE/ZXp23tTSfiV3jXbqmm8MPjQ6wfKeapaxsGJjne79nG8dcSOSkII1snf62A8De9Dxvrh5XLfc166JKGijRVUBh6AHr/AF0UoP6gxV0j7P/Z
+ogImage: null
 labels:
   - animal equality
   - animalequality
@@ -40,17 +47,12 @@ labels:
   - veggyfriends
   - Verlosung
   - Würde
-type: Artikel
-typeName: Artikel
-date: 2014-08-27T10:31:50.000Z
+focusKeyword: vegane Ernährungsweise
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "8611"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_img_1640__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_img_1640__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGBf/EACsQAAICAgEEAQIFBQAAAAAAAAECAwQFEQYAEiFBMQcUExUiMmEjM1Fxof/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EAB4RAAIDAAIDAQAAAAAAAAAAAAECAAMRITESMkFC/9oADAMBAAIRAxEAPwACw2HiyNiISRB3EqrJGrdp7Qw7joetb89UJgfpRx2pjo7knHo8i0Ukkc/9ZzIFjmlRmSMHTnSp48dH/CcDTyDGOeN3CRtI0NclbFsDRMUZBH6jv363rqjKdySV0eRJYW7Vk/DY6MY+QPH7WG/53/3rJfZhybCozjuYjA8T4tmKeZ/IuM1UsVlVo4rUK7dmQ9vnbaBKn376LvqVxazh8NHbtY6tSsGuks0ECBVULP2evg6kX2ddUxj5sfQvzWUgC5K+gRYo5FT7ntJO1RiAG2Ts+z0d/WKw+Rp9k+PNaJ6FwAvMjlmQwygaXev7be+ilmNweJJS3q/cIOHZB7DwxxBWhG3MvaUYaGhof5J158fHTRxPkFrKWsfVv4jJMj0kmjyqwsYWcFlkjlcDtRtrsedH4Oj8y5gsqkUneST3L2N+o+Rvevnra058Jeg7L1ZZiP2iSSRgN/x3dWtp8pYNojvyChRaaPKZK+cbFUYK9ySZYNhSdJtyAjk7AIOvJ2PfR9zbkl7KWq1rIWOOU8SsE/ZXp23tTSfiV3jXbqmm8MPjQ6wfKeapaxsGJjne79nG8dcSOSkII1snf62A8De9Dxvrh5XLfc166JKGijRVUBh6AHr/AF0UoP6gxV0j7P/Z
 subTitle: Ich habe was gewonnen!
   
 ---

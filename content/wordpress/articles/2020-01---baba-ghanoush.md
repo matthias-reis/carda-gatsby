@@ -1,15 +1,22 @@
 ---
-title: Baba Ghanoush
-seoTitle: Baba Ghanoush - veganes Rezept für eine große Schale
+date: 2020-01-26T11:40:23.000Z
 slug: baba-ghanoush
 path: /2020/01/baba-ghanoush/
-fileName: 2020-01---baba-ghanoush.md
+type: Artikel
+typeName: Rezept
+title: Baba Ghanoush
+seoTitle: Baba Ghanoush - veganes Rezept für eine große Schale
+ogTitle: Baba Ghanoush - veganes Rezept für eine große Schale
 description: Heute möchte ich Euch eines meiner absoluten Lieblingsrezepte
   verraten. Das vegane Auberginen- Püree Baba Ghanoush stammt aus der arabischen
   Küche.
 excerpt: Heute möchte ich Euch eines meiner absoluten Lieblingsrezepte verraten.
   Das vegane Auberginen- Püree Baba Ghanoush stammt aus der arabischen Küche.
-focusKeyword: Baba Ghanoush
+fileName: 2020-01---baba-ghanoush.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwMFCP/EACkQAAEDAwMCBQUAAAAAAAAAAAECAwQFESEABhIiMQcTI1FhFEFCgaH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAX/xAAmEQABAwMDAgcAAAAAAAAAAAABAgMhAARRERMxQfASImFxobHB/9oADAMBAAIRAxEAPwCypFUWikxlzosZKAz5z5ReyU8ikJTfubgAEkBV8aVPEpySmAwy+h5tUCYZUWQhF+FjZxm4OLXQQftn41Ok782aw66FCtPuNBSHFMUlR5JAxzv34kAg4yL6jM7jp27IzsLbtUlTIp6n250XgVciAAFH4B7Zx31hXz7rDe8owNMdY79aYKSDFLrU9VGi08RpbM9xUksMeTJUfLfCioJKCAQCkK6sjB1XE+tVGDVq5TZBTE63SqCHfTUDkgKI6weRt2/WnajU2NRqBOqwqDr8+PHfeQXUpShaAVcm0gG6SQCATkqTY21oW5VP3bUpcZ2sin1Z4lyJAXDBaWop59TpBPNVznAx8DV1j41PqUkgjMHzCOCcd5kux0HHuR8gV0ZNnzW0hEBx4KWpPqADksWN8ge/80hb3ZibbpbVaEB69WmhDzWW+K88FEC3DkL497XsSdGjRu2bbxXuEkY1iJqgHgUo75mU6oqoNFYpUj6luY47McQFNoWnPFBUnBufyVci51g3uzt87IfeSlhEmMw0qAGyW1uJUsBTSrZJsuwye1/e5o0bCyXUDIP1TuoCUkjP7X//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel-2.png__l.jpg
 labels:
   - Auberginen
   - Auberginencreme
@@ -26,17 +33,12 @@ labels:
   - vegane Küche
   - vegane Rezepte
   - Vegane Rezepte
-type: Artikel
-typeName: Rezept
-date: 2020-01-26T11:40:23.000Z
+focusKeyword: Baba Ghanoush
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "27402"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwMFCP/EACkQAAEDAwMCBQUAAAAAAAAAAAECAwQFESEABhIiMQcTI1FhFEFCgaH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAX/xAAmEQABAwMDAgcAAAAAAAAAAAABAgMhAARRERMxQfASImFxobHB/9oADAMBAAIRAxEAPwCypFUWikxlzosZKAz5z5ReyU8ikJTfubgAEkBV8aVPEpySmAwy+h5tUCYZUWQhF+FjZxm4OLXQQftn41Ok782aw66FCtPuNBSHFMUlR5JAxzv34kAg4yL6jM7jp27IzsLbtUlTIp6n250XgVciAAFH4B7Zx31hXz7rDe8owNMdY79aYKSDFLrU9VGi08RpbM9xUksMeTJUfLfCioJKCAQCkK6sjB1XE+tVGDVq5TZBTE63SqCHfTUDkgKI6weRt2/WnajU2NRqBOqwqDr8+PHfeQXUpShaAVcm0gG6SQCATkqTY21oW5VP3bUpcZ2sin1Z4lyJAXDBaWop59TpBPNVznAx8DV1j41PqUkgjMHzCOCcd5kux0HHuR8gV0ZNnzW0hEBx4KWpPqADksWN8ge/80hb3ZibbpbVaEB69WmhDzWW+K88FEC3DkL497XsSdGjRu2bbxXuEkY1iJqgHgUo75mU6oqoNFYpUj6luY47McQFNoWnPFBUnBufyVci51g3uzt87IfeSlhEmMw0qAGyW1uJUsBTSrZJsuwye1/e5o0bCyXUDIP1TuoCUkjP7X//2Q==
 subTitle: Veganes Auberginen-Püree
   
 ---

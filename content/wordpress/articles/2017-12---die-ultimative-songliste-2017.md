@@ -1,16 +1,23 @@
 ---
-title: Die ultimative Songliste 2017
-seoTitle: Die ultimative Songliste 2017 - Musikalischer Jahresrückblick
+date: 2017-12-16T08:39:47.000Z
 slug: die-ultimative-songliste-2017-musikalischer-jahresrueckblick
 path: /2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/
-fileName: 2017-12---die-ultimative-songliste-2017.md
+type: Artikel
+typeName: Artikel
+title: Die ultimative Songliste 2017
+seoTitle: Die ultimative Songliste 2017 - Musikalischer Jahresrückblick
+ogTitle: Die ultimative Songliste 2017 - Musikalischer Jahresrückblick
 description: Ich möchte Euch den musikalischen Jahresrückblick der besonderen
   Art bieten. Musik abseits von Airplay-Listen und Charts. Die ultimative
   Songliste 2017.
 excerpt: Ich möchte Euch den musikalischen Jahresrückblick der besonderen Art
   bieten. Musik abseits von Airplay-Listen und Charts. Die ultimative Songliste
   2017.
-focusKeyword: Songliste
+fileName: 2017-12---die-ultimative-songliste-2017.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Songliste-2017__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Songliste-2017__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAIEBQYDCP/EAC0QAAEEAQMDAgMJAAAAAAAAAAECAwQRBQASIQYTQSIxFFGBByMyQ2FicXKh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAQP/xAAfEQACAgIBBQAAAAAAAAAAAAABAgADETESEyEyQaH/2gAMAwEAAhEDEQA/APPszCPY3NfDy1x3e20HSWnN6TRIqx5sEfTT5RvvhpTA9C1JCL453Vzrao6VnZEycg/1h0xLSUpbLyJTiikjxXbvyfHnS5LoPISG4zR6k6dGw7w6qQ6L54/L+eu9rVlyVPbM2qu3pgN5fJafZ1mJfTb8mE/CYfDDa5BVHc+/3LtKRZNbbvgC72665jO43PqmqZjJjKOyO2F1bbwpZWkJ45o/xZ1m2pz3T+XbyWRltzpqV7WXWLUKBuze0KBFgf2vUPLdRNTpDwUmV8Ev1dsttiqO7aOfYKF378V7aC5kaximsmAiuqgWb9y5g9Ixy4XXpqm1gGtqQojjnnjjTtMNMOESY8iZtAKVNr2UPp89GjU3my6MritSNSgjRmYspDuVYT2Cn0JdY743WD+FN+NTMi508Y6ksNxFFSAqhiHEEEfu+X6/5o0aYqJZNxC8APP/2Q==
+ogImage: null
 labels:
   - A Perfect Circle
   - Alternative
@@ -70,18 +77,13 @@ labels:
   - Trent Reznor
   - Twin Peaks
   - Wahnsinnsmusik
-type: Artikel
-typeName: Artikel
-date: 2017-12-16T08:39:47.000Z
+focusKeyword: Songliste
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (168:36)"
-thumbnailId: "18710"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Songliste-2017__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Songliste-2017__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAIEBQYDCP/EAC0QAAEEAQMDAgMJAAAAAAAAAAECAwQRBQASIQYTQSIxFFGBByMyQ2FicXKh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAQP/xAAfEQACAgIBBQAAAAAAAAAAAAABAgADETESEyEyQaH/2gAMAwEAAhEDEQA/APPszCPY3NfDy1x3e20HSWnN6TRIqx5sEfTT5RvvhpTA9C1JCL453Vzrao6VnZEycg/1h0xLSUpbLyJTiikjxXbvyfHnS5LoPISG4zR6k6dGw7w6qQ6L54/L+eu9rVlyVPbM2qu3pgN5fJafZ1mJfTb8mE/CYfDDa5BVHc+/3LtKRZNbbvgC72665jO43PqmqZjJjKOyO2F1bbwpZWkJ45o/xZ1m2pz3T+XbyWRltzpqV7WXWLUKBuze0KBFgf2vUPLdRNTpDwUmV8Ev1dsttiqO7aOfYKF378V7aC5kaximsmAiuqgWb9y5g9Ixy4XXpqm1gGtqQojjnnjjTtMNMOESY8iZtAKVNr2UPp89GjU3my6MritSNSgjRmYspDuVYT2Cn0JdY743WD+FN+NTMi508Y6ksNxFFSAqhiHEEEfu+X6/5o0aYqJZNxC8APP/2Q==
 subTitle: Musikalischer Jahresrückblick
   
 ---

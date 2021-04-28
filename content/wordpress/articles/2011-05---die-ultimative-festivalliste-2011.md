@@ -1,14 +1,21 @@
 ---
-title: Die ultimative Festivalliste 2011
-seoTitle: Festivalliste 2011 - das solltet Ihr auf jeden Fall einpacken
+date: 2011-05-31T06:24:32.000Z
 slug: die-ultimative-festivalliste-2011
 path: /2011/05/die-ultimative-festivalliste-2011/
-fileName: 2011-05---die-ultimative-festivalliste-2011.md
+type: Artikel
+typeName: Artikel
+title: Die ultimative Festivalliste 2011
+seoTitle: Festivalliste 2011 - das solltet Ihr auf jeden Fall einpacken
+ogTitle: Festivalliste 2011 - das solltet Ihr auf jeden Fall einpacken
 description: "Die Tickets sind geordert, der Zeltplatz ausgesucht, die Bands auf
   dem Timetable markiert. Stellt sich nur noch die Frage: Was mitnehmen?"
 excerpt: "Die Tickets sind geordert, der Zeltplatz ausgesucht, die Bands auf dem
   Timetable markiert. Stellt sich nur noch die Frage: Was mitnehmen?"
-focusKeyword: ""
+fileName: 2011-05---die-ultimative-festivalliste-2011.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_05_40699_145559535466184_100000364159291_308244_6342374_n__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_05_40699_145559535466184_100000364159291_308244_6342374_n__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgMECP/EACsQAAEDAgUDAwQDAAAAAAAAAAECAxEEIQAFEjFBEyJRBgcUFSRCYXGBof/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwT/xAAbEQACAwADAAAAAAAAAAAAAAAAAQIRIRJBcf/aAAwDAQACEQMRAD8AVBzb47rbdO+lw3nuI6ZjkxzfDI9tvUbrbpqHaxc6AjpNqIN73Mfx/eE8jLKt+uWqkZceTdQU2hRtJPjxidoKbOqI/bsr1n8W0K/UCI38YpGEE7ok1mHYeUeukVFC98inHy2mgoIDkdQ2Bm0J3GIDIfdnXmaaXPqJthDp7HqckpRvZU78XGEzkfqOvoaN4LafVXEtlLobV2oEakkERNuZxiaq0VDDSqovuvJaUsU6Gi24p4iUhRUCIBtxIwSgnqBc+yv5LXPumgFCqrSl1uWi4AWwQo6kKVMgyBAH+8WGj+rFhSyzooWVdPr9UrDq2yJjeDdP7384MGJzxX4ao6jVpc0q8wDr7LbaS1ocEIPdqKh2pMapUAQZsN+MQS6rMH19OAt5TqiClBnUkp1R+OxTcWkG/ODBhp22J4rP/9k=
+ogImage: null
 labels:
   - "2011"
   - Bands & Reviews
@@ -48,17 +55,12 @@ labels:
   - Woodstock
   - Zelt
   - zelten
-type: Artikel
-typeName: Artikel
-date: 2011-05-31T06:24:32.000Z
+focusKeyword: ""
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "1983"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_05_40699_145559535466184_100000364159291_308244_6342374_n__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_05_40699_145559535466184_100000364159291_308244_6342374_n__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgMECP/EACsQAAEDAgUDAwQDAAAAAAAAAAECAxEEIQAFEjFBEyJRBgcUFSRCYXGBof/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwT/xAAbEQACAwADAAAAAAAAAAAAAAAAAQIRIRJBcf/aAAwDAQACEQMRAD8AVBzb47rbdO+lw3nuI6ZjkxzfDI9tvUbrbpqHaxc6AjpNqIN73Mfx/eE8jLKt+uWqkZceTdQU2hRtJPjxidoKbOqI/bsr1n8W0K/UCI38YpGEE7ok1mHYeUeukVFC98inHy2mgoIDkdQ2Bm0J3GIDIfdnXmaaXPqJthDp7HqckpRvZU78XGEzkfqOvoaN4LafVXEtlLobV2oEakkERNuZxiaq0VDDSqovuvJaUsU6Gi24p4iUhRUCIBtxIwSgnqBc+yv5LXPumgFCqrSl1uWi4AWwQo6kKVMgyBAH+8WGj+rFhSyzooWVdPr9UrDq2yJjeDdP7384MGJzxX4ao6jVpc0q8wDr7LbaS1ocEIPdqKh2pMapUAQZsN+MQS6rMH19OAt5TqiClBnUkp1R+OxTcWkG/ODBhp22J4rP/9k=
 subTitle: So langsam rückt die Festivalsaison immer näher
   
 ---

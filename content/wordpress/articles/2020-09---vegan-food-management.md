@@ -1,14 +1,21 @@
 ---
-title: Vegan Food Management
-seoTitle: Vegan Food Management - der vegane Studiengang
+date: 2020-09-01T06:00:28.000Z
 slug: vegan-food-management
 path: /2020/09/vegan-food-management/
-fileName: 2020-09---vegan-food-management.md
+type: Artikel
+typeName: Artikel
+title: Vegan Food Management
+seoTitle: Vegan Food Management - der vegane Studiengang
+ogTitle: Vegan Food Management - der vegane Studiengang
 description: Etwa 1,36 Prozent der Deutschen leben vegan. Das Interesse wächst.
   Seit 2016 kann man jetzt sogar Vegan Food Management studieren.
 excerpt: Etwa 1,36 Prozent der Deutschen leben vegan. Das Interesse wächst. Seit
   2016 kann man jetzt sogar Vegan Food Management studieren.
-focusKeyword: Vegan Food Management
+fileName: 2020-09---vegan-food-management.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_vegan-food-management__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_vegan-food-management__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwYE/8QAJhAAAQMDAgYDAQAAAAAAAAAAAQACEQMEBSFBBhITFDGRIlFhgf/EABgBAAIDAAAAAAAAAAAAAAAAAAADBAUG/8QAHREAAwACAgMAAAAAAAAAAAAAAAECAxESEzFBkf/aAAwDAQACEQMRAD8AY2uJLgPiul2FjyITbE5LHVXNZ3IB8S5haPaqu+MuHO4Y0VLl06dRtAlggx539Jby5nWpl/DMdc8dtiS4xMCQJH2EovLLlB0WtqZ7B3FEVLe+EugcvIQ7UaAiFmMrf06jndFxjbRSMN5G9NMVcSvZkHXdwWx1nx+GFRqdz7QhWqSXgQEukEEgjeVILhqHOH9QhAH/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_08_vegan-food-management-fb.png__l.jpg
 labels:
   - Ernährung
   - Ernährung & Gesundheit
@@ -16,17 +23,12 @@ labels:
   - vegan
   - Vegan Food Management
   - vegane Ernährung
-type: Artikel
-typeName: Artikel
-date: 2020-09-01T06:00:28.000Z
+focusKeyword: Vegan Food Management
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31168"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_vegan-food-management__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_vegan-food-management__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwYE/8QAJhAAAQMDAgYDAQAAAAAAAAAAAQACEQMEBSFBBhITFDGRIlFhgf/EABgBAAIDAAAAAAAAAAAAAAAAAAADBAUG/8QAHREAAwACAgMAAAAAAAAAAAAAAAECAxESEzFBkf/aAAwDAQACEQMRAD8AY2uJLgPiul2FjyITbE5LHVXNZ3IB8S5haPaqu+MuHO4Y0VLl06dRtAlggx539Jby5nWpl/DMdc8dtiS4xMCQJH2EovLLlB0WtqZ7B3FEVLe+EugcvIQ7UaAiFmMrf06jndFxjbRSMN5G9NMVcSvZkHXdwWx1nx+GFRqdz7QhWqSXgQEukEEgjeVILhqHOH9QhAH/2Q==
 subTitle: Der vegane Studiengang
   
 ---

@@ -1,15 +1,22 @@
 ---
-title: Curraghchase Caravan & Camp Site
-seoTitle: Curraghchase Caravan & Camp Site - Ein Hauch von Twin Peaks
+date: 2018-03-21T08:15:39.000Z
 slug: curraghchase-caravan-camp-site
 path: /2018/03/curraghchase-caravan-camp-site/
-fileName: 2018-03---curraghchase-caravan-und-camp-site.md
+type: Artikel
+typeName: Artikel
+title: Curraghchase Caravan & Camp Site
+seoTitle: Curraghchase Caravan & Camp Site - Ein Hauch von Twin Peaks
+ogTitle: Curraghchase Caravan & Camp Site - Ein Hauch von Twin Peaks
 description: "Heute können die Camper unter Euch sich mal einen echten
   Geheimtipp bei mir abholen: Der Curraghchase Caravan & Camp Site ist etwas
   Besonderes."
 excerpt: "Heute können die Camper unter Euch sich mal einen echten Geheimtipp
   bei mir abholen: Der Curraghchase Caravan & Camp Site ist etwas Besonderes."
-focusKeyword: Curraghchase
+fileName: 2018-03---curraghchase-caravan-und-camp-site.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40224572761_7419453fd0_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40224572761_7419453fd0_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFCAIEBv/EAC4QAAIBAwMCAwYHAAAAAAAAAAECAwQFEQAGIRITIjFRBxRBYXHBFSMyQmKBgv/EABgBAAMBAQAAAAAAAAAAAAAAAAACAwEE/8QAGhEBAQADAQEAAAAAAAAAAAAAAQACETESIf/aAAwDAQACEQMRAD8AUO3t6qoQXSnM5AVcx4Un5+mnZtnclptVNS1r3CCGhqm7eZATyBkqQM4bVXKaKaBQZo3jP842H21MG61HZTvSwtCxPSowuSPjwM66DJyNLS8A7KxO8PaXtyooIqe3vUVKTOrySpEU7S4JHTnkt1ADkY50m77uZoy01us86U7MV79UWdT9GAA9fIny1zf4zI6hTHEceTEc41HXOplqVAd8qBwnW3SPoCcDSZYhyc+zK29fHUJ+Y5C4JHVxj+9Y7istRfqk1NLc0hgm8MqT/tHwAKjLD5Hy9dGjUd65DakGw7bTeKsrzUgfqSNOgH/RJxqPvdisIDe7UjREcZSdvvkaNGtVYL//2Q==
+ogImage: null
 labels:
   - Britische Inseln
   - Campervan
@@ -23,17 +30,12 @@ labels:
   - Roadtrip
   - travelling
   - Twin Peaks
-type: Artikel
-typeName: Artikel
-date: 2018-03-21T08:15:39.000Z
+focusKeyword: Curraghchase
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "19756"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40224572761_7419453fd0_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40224572761_7419453fd0_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFCAIEBv/EAC4QAAIBAwMCAwYHAAAAAAAAAAECAwQFEQAGIRITIjFRBxRBYXHBFSMyQmKBgv/EABgBAAMBAQAAAAAAAAAAAAAAAAACAwEE/8QAGhEBAQADAQEAAAAAAAAAAAAAAQACETESIf/aAAwDAQACEQMRAD8AUO3t6qoQXSnM5AVcx4Un5+mnZtnclptVNS1r3CCGhqm7eZATyBkqQM4bVXKaKaBQZo3jP842H21MG61HZTvSwtCxPSowuSPjwM66DJyNLS8A7KxO8PaXtyooIqe3vUVKTOrySpEU7S4JHTnkt1ADkY50m77uZoy01us86U7MV79UWdT9GAA9fIny1zf4zI6hTHEceTEc41HXOplqVAd8qBwnW3SPoCcDSZYhyc+zK29fHUJ+Y5C4JHVxj+9Y7istRfqk1NLc0hgm8MqT/tHwAKjLD5Hy9dGjUd65DakGw7bTeKsrzUgfqSNOgH/RJxqPvdisIDe7UjREcZSdvvkaNGtVYL//2Q==
 subTitle: Ein Hauch von Twin Peaks in Irland
   
 ---

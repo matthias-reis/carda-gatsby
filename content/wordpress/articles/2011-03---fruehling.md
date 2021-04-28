@@ -1,29 +1,31 @@
 ---
-title: Frühling
-seoTitle: Frühling - Tagebucheintrag
+date: 2011-03-12T13:52:02.000Z
 slug: fruhling
 path: /2011/03/fruhling/
-fileName: 2011-03---fruehling.md
+type: Artikel
+typeName: Artikel
+title: Frühling
+seoTitle: Frühling - Tagebucheintrag
+ogTitle: Frühling - Tagebucheintrag
 description: "Der Frühling ist da: Die Sonne scheint, die Vögel zwitschern, die
   Blumen blühen, die Meiler schmelzen. Armes Japan."
 excerpt: "Der Frühling ist da: Die Sonne scheint, die Vögel zwitschern, die
   Blumen blühen, die Meiler schmelzen. Armes Japan."
-focusKeyword: Frühling
+fileName: 2011-03---fruehling.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_06_p1000340__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_06_p1000340__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAJRAAAgEEAgEEAwEAAAAAAAAAAQIDAAQFERIhEzFBUXEGFCJh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMBBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAhETYRL/2gAMAwEAAhEDEQA/AKeHOJzdvHNHL4Iw/Ag8Qzn4A3W3kI8Jj4txzQxyDalfIdfez7iuL/jlxCmStzc7EauCTy4imLLS2WVjaaO8KujsrKWUI6nXEj35Dve+vShl03Tg2z+O5RZYJ4ZYWJKso6NLt/cqkzKTsL2fuq6eeKzRbR2WED+t+p7qG0glk5SMhA2eyKDj5EnYkcW5a7rexON5JFLOGZZD1Gvrr5P+UUVWTpASHuEw/qR72eI0uxoioJWJB2oUUUVzssj/2Q==
+ogImage: null
 labels:
   - Antifaschismus & Feminismus
   - Geschichten & Erlebtes
   - Klima & Umweltschutz
-type: Artikel
-typeName: Artikel
-date: 2011-03-12T13:52:02.000Z
+focusKeyword: Frühling
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "3079"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_06_p1000340__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_06_p1000340__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAJRAAAgEEAgEEAwEAAAAAAAAAAQIDAAQFERIhEzFBUXEGFCJh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMBBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAhETYRL/2gAMAwEAAhEDEQA/AKeHOJzdvHNHL4Iw/Ag8Qzn4A3W3kI8Jj4txzQxyDalfIdfez7iuL/jlxCmStzc7EauCTy4imLLS2WVjaaO8KujsrKWUI6nXEj35Dve+vShl03Tg2z+O5RZYJ4ZYWJKso6NLt/cqkzKTsL2fuq6eeKzRbR2WED+t+p7qG0glk5SMhA2eyKDj5EnYkcW5a7rexON5JFLOGZZD1Gvrr5P+UUVWTpASHuEw/qR72eI0uxoioJWJB2oUUUVzssj/2Q==
 subTitle: Tagebucheintrag
   
 ---

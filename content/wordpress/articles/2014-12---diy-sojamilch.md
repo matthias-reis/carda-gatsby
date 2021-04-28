@@ -1,14 +1,21 @@
 ---
-title: DIY Sojamilch
-seoTitle: DIY Sojamilch - Eine leckere pflanzliche Alternative
+date: 2014-12-10T08:47:24.000Z
 slug: diy-sojamilch
 path: /2014/12/diy-sojamilch/
-fileName: 2014-12---diy-sojamilch.md
+type: Artikel
+typeName: Rezept
+title: DIY Sojamilch
+seoTitle: DIY Sojamilch - Eine leckere pflanzliche Alternative
+ogTitle: DIY Sojamilch - Eine leckere pflanzliche Alternative
 description: DIY Sojamilch ist eine leckere pflanzliche Alternative, die Ihr
   ganz leicht selbst herstellen könnt. Heute verrate ich Euch mein Rezept.
 excerpt: DIY Sojamilch ist eine leckere pflanzliche Alternative, die Ihr ganz
   leicht selbst herstellen könnt. Heute verrate ich Euch mein Rezept.
-focusKeyword: DIY Sojamilch
+fileName: 2014-12---diy-sojamilch.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_12_sojamilch-12__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_12_sojamilch-12__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYIAwUJ/8QAJhAAAQMEAQMEAwAAAAAAAAAAAQIDBAAFBhEhB1FxEhNBYSIxUv/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwT/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIDERL/2gAMAwEAAhEDEQA/AJaQgqICQSo8ADvT23gjqrQqQmJNcfToEJQdcjtqlbG5jVuyC1zpCfUxFlNPuJA3tKVgnjwK6EWqLZ7lEZlMsxn476Q624lIIWkjYUPrVZ9tfCEvlmWFZCF7xGTb7aJRhzGtIC1e6hQAG+fild1HpHNXT1pk2nH+m99fcbYa9yKuM0kAbW44kpSkffO/AJqGHSC2NHY70Y6uhDShWYmzokj4p96edR8rxpbFvtF0KYLi+Iz6A62gnn8QeU+AQKKKpepYRIlLInJpc1y+/wCXSUP5Dc3pZb2W2zpLbe/5QNAef3Szs0UU1ADhFuq9Z//Z
+ogImage: null
 labels:
   - diy
   - DIY Sojamilch
@@ -29,17 +36,12 @@ labels:
   - vegane Rezepte
   - Vegane Rezepte
   - Veganer
-type: Artikel
-typeName: Rezept
-date: 2014-12-10T08:47:24.000Z
+focusKeyword: DIY Sojamilch
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "9363"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_12_sojamilch-12__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_12_sojamilch-12__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYIAwUJ/8QAJhAAAQMEAQMEAwAAAAAAAAAAAQIDBAAFBhEhB1FxEhNBYSIxUv/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwT/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIDERL/2gAMAwEAAhEDEQA/AJaQgqICQSo8ADvT23gjqrQqQmJNcfToEJQdcjtqlbG5jVuyC1zpCfUxFlNPuJA3tKVgnjwK6EWqLZ7lEZlMsxn476Q624lIIWkjYUPrVZ9tfCEvlmWFZCF7xGTb7aJRhzGtIC1e6hQAG+fild1HpHNXT1pk2nH+m99fcbYa9yKuM0kAbW44kpSkffO/AJqGHSC2NHY70Y6uhDShWYmzokj4p96edR8rxpbFvtF0KYLi+Iz6A62gnn8QeU+AQKKKpepYRIlLInJpc1y+/wCXSUP5Dc3pZb2W2zpLbe/5QNAef3Szs0UU1ADhFuq9Z//Z
 subTitle: Eine leckere pflanzliche Alternative
   
 ---

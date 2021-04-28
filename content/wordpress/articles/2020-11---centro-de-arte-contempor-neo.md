@@ -1,14 +1,21 @@
 ---
-title: Centro de Arte Contemporáneo
-seoTitle: Centro de Arte Contemporáneo – Zeitgenössische Kunst in Málaga
+date: 2020-11-17T15:10:08.000Z
 slug: centro-de-arte-contemporaneo-de-malaga
 path: /2020/11/centro-de-arte-contemporaneo-de-malaga/
-fileName: 2020-11---centro-de-arte-contempor-neo.md
+type: Artikel
+typeName: Artikel
+title: Centro de Arte Contemporáneo
+seoTitle: Centro de Arte Contemporáneo – Zeitgenössische Kunst in Málaga
+ogTitle: Centro de Arte Contemporáneo – Zeitgenössische Kunst in Málaga
 description: Das Centro de Arte Contemporáneo de Málaga ist für mich mehr als
   nur ein Museum für zeitgenössische Kunst. Ich habe mich in den Ort verguckt.
 excerpt: Das Centro de Arte Contemporáneo de Málaga ist für mich mehr als nur
   ein Museum für zeitgenössische Kunst. Ich habe mich in den Ort verguckt.
-focusKeyword: Centro de Arte Contemporáneo
+fileName: 2020-11---centro-de-arte-contempor-neo.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_Design-ohne-Titel-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_Design-ohne-Titel-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwIDBP/EACYQAAEDAwQCAQUAAAAAAAAAAAECAwUABBEGEiExIkFRYnGBobH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQA/8QAHxEBAAIBAwUAAAAAAAAAAAAAAQACAxESITJxgbHB/9oADAMBAAIRAxEAPwCxY8kIa2kjvo0l1XqFdpPNWzEtI2ptkNKcbasVusqK1Z81j6ccHgCmVk7gNc+z/KTTmt42Mk5ezupWyadt22tjLiV7lKxuKThJBxwRjJyfVT52x0i9kPaSrBba7uPJr8ZYd61u3AnI5qFSrAS8rArt1jrAw0LFSEbHPyzcitDbRaO3O9IKfWcq9DHY5rGXTl0kgpJ9HsU+jqRCRW2+4ENFtpx05wQgAkcfetY03HXb1687AqW5erK31LS0pSiU4OCpXj+Piiig0HmYshIzr29ft5ZmHatk2sTbWrGy1VtKUklRGME/Apvou6cuNFxS3jlaULR3nhLigP0BRRRIbT//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_11_centro-de-arte-fb.png__l.jpg
 labels:
   - Andalusien
   - Architektur
@@ -24,17 +31,12 @@ labels:
   - Museum
   - Spanien
   - Zeitgenössische Kunst
-type: Artikel
-typeName: Artikel
-date: 2020-11-17T15:10:08.000Z
+focusKeyword: Centro de Arte Contemporáneo
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31872"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_Design-ohne-Titel-2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_Design-ohne-Titel-2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwIDBP/EACYQAAEDAwQCAQUAAAAAAAAAAAECAwUABBEGEiExIkFRYnGBobH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQA/8QAHxEBAAIBAwUAAAAAAAAAAAAAAQACAxESITJxgbHB/9oADAMBAAIRAxEAPwCxY8kIa2kjvo0l1XqFdpPNWzEtI2ptkNKcbasVusqK1Z81j6ccHgCmVk7gNc+z/KTTmt42Mk5ezupWyadt22tjLiV7lKxuKThJBxwRjJyfVT52x0i9kPaSrBba7uPJr8ZYd61u3AnI5qFSrAS8rArt1jrAw0LFSEbHPyzcitDbRaO3O9IKfWcq9DHY5rGXTl0kgpJ9HsU+jqRCRW2+4ENFtpx05wQgAkcfetY03HXb1687AqW5erK31LS0pSiU4OCpXj+Piiig0HmYshIzr29ft5ZmHatk2sTbWrGy1VtKUklRGME/Apvou6cuNFxS3jlaULR3nhLigP0BRRRIbT//2Q==
 subTitle: Zeitgenössische Kunst in Málaga
   
 ---

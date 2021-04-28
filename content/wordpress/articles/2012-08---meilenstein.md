@@ -1,14 +1,21 @@
 ---
-title: Meilenstein
-seoTitle: 10.000 Blog-Besucher - Meilenstein
+date: 2012-08-09T12:40:59.000Z
 slug: meilenstein-3
 path: /2012/08/meilenstein-3/
-fileName: 2012-08---meilenstein.md
+type: Artikel
+typeName: Artikel
+title: Meilenstein
+seoTitle: 10.000 Blog-Besucher - Meilenstein
+ogTitle: 10.000 Blog-Besucher - Meilenstein
 description: Wenn man keinen Grund hat zu feiern, sucht man sich einen. Heute
   habe ich gleich zwei gefunden.
 excerpt: Wenn man keinen Grund hat zu feiern, sucht man sich einen. Heute habe
   ich gleich zwei gefunden.
-focusKeyword: ""
+fileName: 2012-08---meilenstein.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_194850_445988098756658_271876453_o1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_194850_445988098756658_271876453_o1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgAB4DASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAABgcIAQIDBAX/xAAuEAABAwMDAwEGBwAAAAAAAAABAgMEBRESAAYhIjFBBxMVUWGBoRYjM3GRksH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAACBf/EACQRAAEDAwQBBQAAAAAAAAAAAAECAxEABBIFMUFREyFhcYGR/9oADAMBAAIRAxEAPwBluID0Z1AsSpCh/IOox7hajuTi40kuSkBT7iUK/UAskp/qlRHz1JjZ62NyolLpstLjLCet1sXsoi4HNvjoS9FKV+FqjV6wlbtTlrf92LQlICrIUSpScb3JV+wsLkjvoTjiMgJFEZQspJANJs02nmI1KUxMTHdUAhxSVBKwU5Agng8azUfbcGpyJCGgoBpVrqeCBbi3fzzp+bs2Ump7JgUlubHZhQ6g7MitPv4+yYXnZkEJVcIzIT4xAHjS9Z2nWNvboqMKnMxqjAKELQ8251L4BBII4tcj6DQS4knFMUx41BOS5FXR9/z6LTkRY9JhUJJSSmJH6k8EdZPkm/20IUbdctlbbEYOurflZWayyBcVdQTbzz/mnL6gbIoVToEGHBrdGYrMBCkJTImNp9vlcqyF+FZG4P0PGhPZfpqBRJSpEmEhxbLqUNOTgy5lietJHYDjnj46Qu7IqeMiZM/H37Vu6dfMotcpCSBBB3J6jme+KF63uypOQ1QIzrhx6oxcZuLAXxTY/fmx1quR69uilxnkSVJYuq/5iGyVDi5vz2vx8jrvQNlzFyGnajW6EwGipLq40tMxSGSLFZSnm9zj55UNVck0umSpUJqZLdYYcwaVFjoZUU2Fss8iO/bj46pbWKrdyQPXupqOosXLGKDuZjrn9mv/2Q==
+ogImage: null
 labels:
   - 10.000 Klicks
   - anstoßen
@@ -29,17 +36,12 @@ labels:
   - Sekt
   - treue Leser
   - Trinken
-type: Artikel
-typeName: Artikel
-date: 2012-08-09T12:40:59.000Z
+focusKeyword: ""
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "3810"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_194850_445988098756658_271876453_o1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_194850_445988098756658_271876453_o1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgAB4DASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAABgcIAQIDBAX/xAAuEAABAwMDAwEGBwAAAAAAAAABAgMEBRESAAYhIjFBBxMVUWGBoRYjM3GRksH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAACBf/EACQRAAEDAwQBBQAAAAAAAAAAAAECAxEABBIFMUFREyFhcYGR/9oADAMBAAIRAxEAPwBluID0Z1AsSpCh/IOox7hajuTi40kuSkBT7iUK/UAskp/qlRHz1JjZ62NyolLpstLjLCet1sXsoi4HNvjoS9FKV+FqjV6wlbtTlrf92LQlICrIUSpScb3JV+wsLkjvoTjiMgJFEZQspJANJs02nmI1KUxMTHdUAhxSVBKwU5Agng8azUfbcGpyJCGgoBpVrqeCBbi3fzzp+bs2Ump7JgUlubHZhQ6g7MitPv4+yYXnZkEJVcIzIT4xAHjS9Z2nWNvboqMKnMxqjAKELQ8251L4BBII4tcj6DQS4knFMUx41BOS5FXR9/z6LTkRY9JhUJJSSmJH6k8EdZPkm/20IUbdctlbbEYOurflZWayyBcVdQTbzz/mnL6gbIoVToEGHBrdGYrMBCkJTImNp9vlcqyF+FZG4P0PGhPZfpqBRJSpEmEhxbLqUNOTgy5lietJHYDjnj46Qu7IqeMiZM/H37Vu6dfMotcpCSBBB3J6jme+KF63uypOQ1QIzrhx6oxcZuLAXxTY/fmx1quR69uilxnkSVJYuq/5iGyVDi5vz2vx8jrvQNlzFyGnajW6EwGipLq40tMxSGSLFZSnm9zj55UNVck0umSpUJqZLdYYcwaVFjoZUU2Fss8iO/bj46pbWKrdyQPXupqOosXLGKDuZjrn9mv/2Q==
 subTitle: 10.000 Blog-Besucher
   
 ---

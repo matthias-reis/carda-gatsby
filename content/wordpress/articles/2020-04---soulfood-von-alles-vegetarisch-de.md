@@ -1,15 +1,22 @@
 ---
-title: Soulfood von alles-vegetarisch.de
-seoTitle: Soulfood von alles-vegetarisch.de - Burger, Süßigkeiten & Co.
+date: 2020-04-29T09:47:17.000Z
 slug: soulfood-von-alles-vegetarisch-de
 path: /2020/04/soulfood-von-alles-vegetarisch-de/
-fileName: 2020-04---soulfood-von-alles-vegetarisch-de.md
+type: Artikel
+typeName: Produkttest
+title: Soulfood von alles-vegetarisch.de
+seoTitle: Soulfood von alles-vegetarisch.de - Burger, Süßigkeiten & Co.
+ogTitle: Soulfood von alles-vegetarisch.de - Burger, Süßigkeiten & Co.
 description: Wisst Ihr, was ich im Moment ziemlich gut gebrauchen kann?
   Soulfood. Bei Alles Vegetarisch findet man davon eine ganze Menge.
 excerpt: Werbung & Affiliate Links - Wisst Ihr, was ich im Moment ziemlich gut
   gebrauchen kann? Soulfood. Bei Alles Vegetarisch findet man davon eine ganze
   Menge.
-focusKeyword: Soulfood
+fileName: 2020-04---soulfood-von-alles-vegetarisch-de.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BC2020-04-19-souldfood-von-alles-vegetarisch-05__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BC2020-04-19-souldfood-von-alles-vegetarisch-05__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACcQAAICAQMCBgMBAAAAAAAAAAECAwQRAAUSEyEGIjFBUWEUFYEy/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAKREAAQMCBAMJAAAAAAAAAAAAAQACEQMhBBITMQUi8DJBUXGBkcHR8f/aAAwDAQACEQMRAD8A0WnizukMlZwpEUkXdM9NVkYczn1/1xUfR+NU3crEWz7/AH7F+xIa0jijciuTniwfHTMSntxVs9lx5T751aNvls1NvntV4oWmdIGZZC2FQqWIGPU5Zse2RjVemsfsK6brZowzy8DmaVeLEBcKoi7keYMPnHrpNPYk/ilpVNNgFISTHuRK6eDN6Sjtu6w7pVg6HWRlqImVYyIoAAJ7HkCc5HzqCs3Vr7zTZLHOIApBGxIlQqzMQQfUAce/1/dNLB3Kht9CzMr3mvRmF+mVCK0YwnNMecYZQQO/lH3h/BsX4HhylLMCb1jdEjMjElvPE4fv/c6mNTO8aJsJnw66uqK2HL6JdW7QHrP0tDrRZlQyJ1QrmFocHlIoUvlR7lMt29wfkDTDxRSvNbS7RnrylSI6Vdo2AIYAOrMp83LGe4HHH1nRo0rrsErXDuZhnu+FFbl4L3WaolbZXgrtHJ1VImaJc/eBgKB2xpBSa7Jt0ayJLBQjmlMsb81kssVjypHqF7gH3JOjRpQwMbkHmixb3OOcney//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_04_alles-vegetarisch.png__l.jpg
 labels:
   - Absolute Vegan Empire
   - alles-vegetarisch.de
@@ -23,17 +30,12 @@ labels:
   - vegane Produkte
   - vegane Riegel
   - vegane Schokolade
-type: Artikel
-typeName: Produkttest
-date: 2020-04-29T09:47:17.000Z
+focusKeyword: Soulfood
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29223"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BC2020-04-19-souldfood-von-alles-vegetarisch-05__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BC2020-04-19-souldfood-von-alles-vegetarisch-05__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACcQAAICAQMCBgMBAAAAAAAAAAECAwQRAAUSEyEGIjFBUWEUFYEy/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAKREAAQMCBAMJAAAAAAAAAAAAAQACEQMhBBITMQUi8DJBUXGBkcHR8f/aAAwDAQACEQMRAD8A0WnizukMlZwpEUkXdM9NVkYczn1/1xUfR+NU3crEWz7/AH7F+xIa0jijciuTniwfHTMSntxVs9lx5T751aNvls1NvntV4oWmdIGZZC2FQqWIGPU5Zse2RjVemsfsK6brZowzy8DmaVeLEBcKoi7keYMPnHrpNPYk/ilpVNNgFISTHuRK6eDN6Sjtu6w7pVg6HWRlqImVYyIoAAJ7HkCc5HzqCs3Vr7zTZLHOIApBGxIlQqzMQQfUAce/1/dNLB3Kht9CzMr3mvRmF+mVCK0YwnNMecYZQQO/lH3h/BsX4HhylLMCb1jdEjMjElvPE4fv/c6mNTO8aJsJnw66uqK2HL6JdW7QHrP0tDrRZlQyJ1QrmFocHlIoUvlR7lMt29wfkDTDxRSvNbS7RnrylSI6Vdo2AIYAOrMp83LGe4HHH1nRo0rrsErXDuZhnu+FFbl4L3WaolbZXgrtHJ1VImaJc/eBgKB2xpBSa7Jt0ayJLBQjmlMsb81kssVjypHqF7gH3JOjRpQwMbkHmixb3OOcney//9k=
 subTitle: Burger, Süßigkeiten &amp; Co.
   
 ---

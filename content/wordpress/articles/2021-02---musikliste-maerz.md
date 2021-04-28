@@ -1,16 +1,23 @@
 ---
-title: Musikliste März
-seoTitle: Musikliste März – 12 Songs für den Frühlingsanfang
+date: 2021-02-25T09:21:57.000Z
 slug: musikliste-maerz-2021
 path: /2021/02/musikliste-maerz-2021/
-fileName: 2021-02---musikliste-maerz.md
+type: Artikel
+typeName: Artikel
+title: Musikliste März
+seoTitle: Musikliste März – 12 Songs für den Frühlingsanfang
+ogTitle: Musikliste März – 12 Songs für den Frühlingsanfang
 description: Am 20. März geht der Frühling los. Um uns darauf einzustimmen,
   haben wir eine Musikliste mit 12 wunderbaren Songs zusammengestellt.
 excerpt: Am 20. März geht der Frühling los. Um uns darauf einzustimmen, haben
   wir eine Musikliste mit 12 wunderbaren Songs aus den verschiedensten
   zusammengestellt. Auf eine gute Dosis Post-Rock haben wir natürlich nicht
   verzichtet.
-focusKeyword: Musikliste
+fileName: 2021-02---musikliste-maerz.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_12-songs-maerz-blog__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_12-songs-maerz-blog__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBggE/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQMCBAURABIhBhMxByJRFHHRI0FhkaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EACERAAICAQQCAwAAAAAAAAAAAAECAAMRBCExcRIiYaHB/9oADAMBAAIRAxEAPwDtuHTa5BVWD+pITLh3h7RjgEHj+vGsrylTfRDG3u4APznP4041Ntj+nnIapSq5UCFygs9x0pSHMp58R5OMc8DTat3qHXMNK2p6daKN9O6NQpvaBpZQkYLkqMgJMjKOCRyc+DodNK1jC/H1GW6qxx7nO5PWZf3WS9/UCAamKC7f7Xk5G7PPs44/nWerh6zWG4NSptvrYUZaQ0RZCOxZl5gMecZ4JwdKkopl9GKkwKlWOqpKiROJmuMYgyMhncCSRjIwRnB1pug9QK9opmu6daKR9M6L1s7QNLKEjBclAgSZGUcEjk58HTPMiCVAvErHRPV6bvfrFQup7euaaZpNUiBW0gR8HacY4GfnUho7oKygk50o28U5IDZYmthazcTE+RKJhjH+aNGjU7OR1+iUtOgtJVuMGLm5XqzUXq53XXKrda1VYbIg5KnE7pYl+64zAyPj7arVtpaVamCuo2VFTvPblCZAH3P40aNLWTZ//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_musikliste-maerz-fb.png__l.jpg
 labels:
   - A Spoke In The Wheel
   - Ambient
@@ -37,17 +44,12 @@ labels:
   - Post-Rock
   - The Armed
   - Unkle
-type: Artikel
-typeName: Artikel
-date: 2021-02-25T09:21:57.000Z
+focusKeyword: Musikliste
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32934"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_12-songs-maerz-blog__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_12-songs-maerz-blog__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBggE/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQMCBAURABIhBhMxByJRFHHRI0FhkaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EACERAAICAQQCAwAAAAAAAAAAAAECAAMRBCExcRIiYaHB/9oADAMBAAIRAxEAPwDtuHTa5BVWD+pITLh3h7RjgEHj+vGsrylTfRDG3u4APznP4041Ntj+nnIapSq5UCFygs9x0pSHMp58R5OMc8DTat3qHXMNK2p6daKN9O6NQpvaBpZQkYLkqMgJMjKOCRyc+DodNK1jC/H1GW6qxx7nO5PWZf3WS9/UCAamKC7f7Xk5G7PPs44/nWerh6zWG4NSptvrYUZaQ0RZCOxZl5gMecZ4JwdKkopl9GKkwKlWOqpKiROJmuMYgyMhncCSRjIwRnB1pug9QK9opmu6daKR9M6L1s7QNLKEjBclAgSZGUcEjk58HTPMiCVAvErHRPV6bvfrFQup7euaaZpNUiBW0gR8HacY4GfnUho7oKygk50o28U5IDZYmthazcTE+RKJhjH+aNGjU7OR1+iUtOgtJVuMGLm5XqzUXq53XXKrda1VYbIg5KnE7pYl+64zAyPj7arVtpaVamCuo2VFTvPblCZAH3P40aNLWTZ//9k=
 subTitle: 12 Songs für den Frühlingsbeginn
   
 ---

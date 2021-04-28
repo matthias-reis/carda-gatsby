@@ -1,14 +1,21 @@
 ---
-title: Spätsommer im Loki Schmidt Garten
-seoTitle: Spätsommer im Hamburger Loki Schmidt Garten
+date: 2016-08-22T17:29:20.000Z
 slug: spaetsommer-loki-schmidt-garten
 path: /2016/08/spaetsommer-loki-schmidt-garten/
-fileName: 2016-08---spaetsommer-im-loki-schmidt-garten.md
+type: Galerie
+typeName: Galerie
+title: Spätsommer im Loki Schmidt Garten
+seoTitle: Spätsommer im Hamburger Loki Schmidt Garten
+ogTitle: Spätsommer im Loki Schmidt Garten in Hamburg
 description: Der Spätsommer ist in Hamburg die schönste Jahreszeit. Zeit für
   einen Ausflug in den Loki Schmidt Garten mit seiner Vielfalt an Pflanzen.
 excerpt: Der Spätsommer ist in Hamburg die schönste Jahreszeit. Zeit für einen
   Ausflug in den Loki Schmidt Garten mit seiner Vielfalt an Pflanzen.
-focusKeyword: Spätsommer
+fileName: 2016-08---spaetsommer-im-loki-schmidt-garten.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_08_29004157282_6db3b0ba34_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_08_29004157282_6db3b0ba34_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAKBAAAQQBAwMEAgMAAAAAAAAAAQIDBBEFABIhBjFBExQiUSNhocHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAAX/xAAeEQABBQEAAwEAAAAAAAAAAAACAAEREiEDExQjMf/aAAwDAQACEQMRAD8AxlORjxJC5SHFgo+dJu1m6A481eu6GmM5kw8uAfbOAOIdUuwgeLrzVX/Gr3A6Xxq07BDaKTYT8QO/J/370/w3ROOmZOLGbj+imlBwoUb9MDcQL+641xfYAjYRZ5fEmw/jJRH6XWrphzLsxmUJ3FsUv0vycJFJPcEng347aouaDrEMRMirZOTZTHWSbITwkbTQJPPPka3z2MnJYPqTFPhuLi4CN8IIJSptSAFBW4k0SoqB8m9Zhk+m0OSEvrWCUr20o39AAfv+9C1uRfRH05jyJo3FacdIaEZ5plpang6NiT8lACgRXgXfI+hpnDfVjZCZLD6kOtggrvsTYPy7fY0aNQWcSxKrOqN3OBvCSIMQpC3V2XDZ4sGue5uudLeoupZOeYZ942hSmWFAuIQfUcs8hfjijR0aNU+U4rOLWeF//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2016_08_29004157282_6db3b0ba34_z__l.jpg
 labels:
   - Blumen
   - Botanik
@@ -20,17 +27,12 @@ labels:
   - LokiSchmidtGarten
   - Pflanzen
   - Spätsommer
-type: Galerie
-typeName: Galerie
-date: 2016-08-22T17:29:20.000Z
+focusKeyword: Spätsommer
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "15135"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_08_29004157282_6db3b0ba34_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_08_29004157282_6db3b0ba34_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAKBAAAQQBAwMEAgMAAAAAAAAAAQIDBBEFABIhBjFBExQiUSNhocHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAAX/xAAeEQABBQEAAwEAAAAAAAAAAAACAAEREiEDExQjMf/aAAwDAQACEQMRAD8AxlORjxJC5SHFgo+dJu1m6A481eu6GmM5kw8uAfbOAOIdUuwgeLrzVX/Gr3A6Xxq07BDaKTYT8QO/J/370/w3ROOmZOLGbj+imlBwoUb9MDcQL+641xfYAjYRZ5fEmw/jJRH6XWrphzLsxmUJ3FsUv0vycJFJPcEng347aouaDrEMRMirZOTZTHWSbITwkbTQJPPPka3z2MnJYPqTFPhuLi4CN8IIJSptSAFBW4k0SoqB8m9Zhk+m0OSEvrWCUr20o39AAfv+9C1uRfRH05jyJo3FacdIaEZ5plpang6NiT8lACgRXgXfI+hpnDfVjZCZLD6kOtggrvsTYPy7fY0aNQWcSxKrOqN3OBvCSIMQpC3V2XDZ4sGue5uudLeoupZOeYZ942hSmWFAuIQfUcs8hfjijR0aNU+U4rOLWeF//9k=
 subTitle: Kakteen, Feigen, Sonne und Wind
   
 ---

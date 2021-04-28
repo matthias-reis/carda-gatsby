@@ -57,43 +57,52 @@ module.exports = async (l, e, article) => {
       '_yoast_wpseo_focuskw',
       '_yoast_wpseo_title',
       '_yoast_wpseo_metadesc',
+      '_yoast_wpseo_opengraph-image-id',
+      '_yoast_wpseo_opengraph-title',
+      '_yoast_wpseo_opengraph-description',
       '_thumbnail_id',
     ],
     wpPostMeta
   );
 
   const meta = {
-    title,
-    seoTitle: pickedWpPostMeta['_yoast_wpseo_title'] || title,
+    date,
     slug,
     path: link,
-    fileName,
+    type: article.category && getType(article.category),
+    typeName:
+      (pickedWpPostMeta.articletype || '').replace(/\n/g, '').trim() ||
+      getType(article.category),
+    title,
+    seoTitle: pickedWpPostMeta['_yoast_wpseo_title'] || title,
+    ogTitle:
+      pickedWpPostMeta['_yoast_wpseo_opengraph-title'] ||
+      pickedWpPostMeta['_yoast_wpseo_title'] ||
+      title,
     description: pickedWpPostMeta['_yoast_wpseo_metadesc'] || '',
     excerpt:
       article['excerpt:encoded'][0] ||
       pickedWpPostMeta['_yoast_wpseo_metadesc'] ||
       '',
-    focusKeyword: pickedWpPostMeta['_yoast_wpseo_focuskw'] || '',
-    labels:
-      article.category &&
-      article.category
-        .map((cat) => getLabels(e, cat, fileName))
-        .filter(Boolean),
-    type: article.category && getType(article.category),
-    typeName:
-      (pickedWpPostMeta.articletype || '').replace(/\n/g, '').trim() ||
-      getType(article.category),
-    date,
-    status: article['wp:status'][0],
-    isWerbung: false,
-    isAffiliate: false,
-    errors: {},
-    thumbnailId: pickedWpPostMeta['_thumbnail_id'],
+    fileName,
     remoteThumbnailImage: (images[pickedWpPostMeta['_thumbnail_id']] || {})
       .mediumUrl,
     remoteImage: (images[pickedWpPostMeta['_thumbnail_id']] || {}).largeUrl,
     remoteLoadingImage: (images[pickedWpPostMeta['_thumbnail_id']] || {})
       .base64String,
+    ogImage: (images[pickedWpPostMeta['_yoast_wpseo_opengraph-image-id']] || {})
+      .largeUrl,
+    labels:
+      article.category &&
+      article.category
+        .map((cat) => getLabels(e, cat, fileName))
+        .filter(Boolean),
+    focusKeyword: pickedWpPostMeta['_yoast_wpseo_focuskw'] || '',
+    status: article['wp:status'][0],
+    isWerbung: false,
+    isAffiliate: false,
+    language: 'de',
+    errors: {},
   };
 
   // description is usually empty. seoDescription is important

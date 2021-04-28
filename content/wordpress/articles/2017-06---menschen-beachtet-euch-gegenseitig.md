@@ -1,14 +1,21 @@
 ---
-title: Menschen beachtet Euch gegenseitig!
-seoTitle: Menschen beachtet Euch gegenseitig! Ich werde nie aufgeben
+date: 2017-06-26T06:14:22.000Z
 slug: menschen-beachtet-euch-gegenseitig
 path: /2017/06/menschen-beachtet-euch-gegenseitig/
-fileName: 2017-06---menschen-beachtet-euch-gegenseitig.md
+type: Artikel
+typeName: Artikel
+title: Menschen beachtet Euch gegenseitig!
+seoTitle: Menschen beachtet Euch gegenseitig! Ich werde nie aufgeben
+ogTitle: Menschen beachtet Euch gegenseitig! Ich werde nie aufgeben
 description: Warum sehen Menschen anderen Menschen so gerne beim Scheitern zu
   und drehen sich weg, wenn es darum geht zu helfen? Was stimmt mit uns nicht?
 excerpt: Warum sehen Menschen anderen Menschen so gerne beim Scheitern zu und
   drehen sich weg, wenn es darum geht zu helfen? Was stimmt mit uns nicht?
-focusKeyword: Menschen
+fileName: 2017-06---menschen-beachtet-euch-gegenseitig.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-35__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-35__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiEGEzEiQVEHFLEjMjNhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCa+nfRN0u8M1wobyy0vphjldmRpRwSTgluCBkeD+E7fZagVVzhZ1LUcUUkyJVkOwb0fu3E7gx9vbVD0PcKOLou8VdvVqWcGYblO3mKBSpGMcbmJ/s86w/pMFqaySqq3Weont/8kpLDCsvLHPnkDPydBqT2rqC4xT22GnZmpi1LVSiSOWKMIiMSGfyxJxj/AHUNEa2aCluslvb7V5VEc01OhWTt8sucHBBUDPke2edUtwugtvUtwltS1dPBU12REE3NNIgXu4PPoO0vz4xqNnpLtd+k5YbQ9PNQUkCV1QiykEFGYMm08MQX3Y+PGg6hb6CGktzW+ExrRsCDHjJOQBySDxgY07S2+jp6Gqp4KSD9dVUkHGAGz4A+caNGgQulqp5LitfLHMahecI4ZcnGSFI9yAdZv3dRNNSd+lggaAvHJItN2zMpyAzBfT45P40aNB//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35445290181_06d75d1a78_z__l.jpg
 labels:
   - 9 Jahre bloggen
   - Antifaschismus & Feminismus
@@ -31,17 +38,12 @@ labels:
   - Walking Dead
   - Why are you wearing that stupid man suit
   - zu alt für diesen Scheiß
-type: Artikel
-typeName: Artikel
-date: 2017-06-26T06:14:22.000Z
+focusKeyword: Menschen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16924"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-35__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-35__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiEGEzEiQVEHFLEjMjNhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCa+nfRN0u8M1wobyy0vphjldmRpRwSTgluCBkeD+E7fZagVVzhZ1LUcUUkyJVkOwb0fu3E7gx9vbVD0PcKOLou8VdvVqWcGYblO3mKBSpGMcbmJ/s86w/pMFqaySqq3Weont/8kpLDCsvLHPnkDPydBqT2rqC4xT22GnZmpi1LVSiSOWKMIiMSGfyxJxj/AHUNEa2aCluslvb7V5VEc01OhWTt8sucHBBUDPke2edUtwugtvUtwltS1dPBU12REE3NNIgXu4PPoO0vz4xqNnpLtd+k5YbQ9PNQUkCV1QiykEFGYMm08MQX3Y+PGg6hb6CGktzW+ExrRsCDHjJOQBySDxgY07S2+jp6Gqp4KSD9dVUkHGAGz4A+caNGgQulqp5LitfLHMahecI4ZcnGSFI9yAdZv3dRNNSd+lggaAvHJItN2zMpyAzBfT45P40aNB//2Q==
 subTitle: Ich werde nie aufgeben
   
 ---

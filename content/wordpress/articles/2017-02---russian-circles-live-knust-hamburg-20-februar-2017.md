@@ -1,16 +1,23 @@
 ---
-title: Russian Circles live @ Knust Hamburg 20. Februar 2017
-seoTitle: Russian Circles live @ Knust Hamburg - Post-Rock für die Seele
+date: 2017-02-21T15:52:39.000Z
 slug: russian-circles-knust-hamburg-2017
 path: /2017/02/russian-circles-knust-hamburg-2017/
-fileName: 2017-02---russian-circles-live-knust-hamburg-20-februar-2017.md
+type: Galerie
+typeName: Konzertbericht
+title: Russian Circles live @ Knust Hamburg 20. Februar 2017
+seoTitle: Russian Circles live @ Knust Hamburg - Post-Rock für die Seele
+ogTitle: Russian Circles live @ Knust Hamburg - Post-Rock für die Seele
 description: Nach langer Zeit hatten wir gestern endlich mal wieder die Ehre
   Russian Circles live auf der Bühne zu erleben. Für uns war es ein gelungener
   Abend.
 excerpt: Nach langer Zeit hatten wir gestern endlich mal wieder die Ehre Russian
   Circles live auf der Bühne zu erleben. Für uns war es ein sehr gelungener
   Abend.
-focusKeyword: Russian Circles
+fileName: 2017-02---russian-circles-live-knust-hamburg-20-februar-2017.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_33033036035_631443e679_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_33033036035_631443e679_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEFBgcIAv/EACgQAAEEAQIFBAMBAAAAAAAAAAECAwQRAAUGBxMhMWESIkFxFUKBwf/EABcBAAMBAAAAAAAAAAAAAAAAAAADBAL/xAAbEQADAAIDAAAAAAAAAAAAAAAAAQIRIRITMf/aAAwDAQACEQMRAD8Atobse0+BFXMWguPE1XQFI+c7gbxMiTy7DjS7sH4FXmfNwa0wie60zuF7VojTVsLLS0Ks0Q3Su1WSfjp07488Mtbf1HUlwozSnpktJjsqv2tlRpSj9JsjzkvVkpVpIkHEJuFNiPzYqQPVdKUO/wBZmnchCpRUCent8eMvTjpNRo2rRtKiOJMeOzVJPZfYk+f8OUFqj/NWpRrqbx0zx0Lqs7FXqrhdUsqKiTfXJdwy4iz9l69+QiRI05fKU1y5JICb/YEGwe/8JwwzfgsZt2boma/PelzPTzXVFSvTfc5Fn3ST94YYAf/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_02_33033036035_631443e679_z__l.jpg
 labels:
   - Band
   - Hamburg
@@ -20,17 +27,12 @@ labels:
   - Post-Rock
   - Postrock
   - Russian Circles
-type: Galerie
-typeName: Konzertbericht
-date: 2017-02-21T15:52:39.000Z
+focusKeyword: Russian Circles
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "15928"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_33033036035_631443e679_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_33033036035_631443e679_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEFBgcIAv/EACgQAAEEAQIFBAMBAAAAAAAAAAECAwQRAAUGBxMhMWESIkFxFUKBwf/EABcBAAMBAAAAAAAAAAAAAAAAAAADBAL/xAAbEQADAAIDAAAAAAAAAAAAAAAAAQIRIRITMf/aAAwDAQACEQMRAD8Atobse0+BFXMWguPE1XQFI+c7gbxMiTy7DjS7sH4FXmfNwa0wie60zuF7VojTVsLLS0Ks0Q3Su1WSfjp07488Mtbf1HUlwozSnpktJjsqv2tlRpSj9JsjzkvVkpVpIkHEJuFNiPzYqQPVdKUO/wBZmnchCpRUCent8eMvTjpNRo2rRtKiOJMeOzVJPZfYk+f8OUFqj/NWpRrqbx0zx0Lqs7FXqrhdUsqKiTfXJdwy4iz9l69+QiRI05fKU1y5JICb/YEGwe/8JwwzfgsZt2boma/PelzPTzXVFSvTfc5Fn3ST94YYAf/Z
 subTitle: Post-Rock für die Seele
   
 ---

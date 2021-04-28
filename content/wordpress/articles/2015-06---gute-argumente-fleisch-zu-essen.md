@@ -1,14 +1,21 @@
 ---
-title: '"Gute Argumente, Fleisch zu essen"'
-seoTitle: '"Gute Argumente, Fleisch zu essen" - Interview'
+date: 2015-06-01T07:15:09.000Z
 slug: unstumm-film-interview
 path: /2015/06/unstumm-film-interview/
-fileName: 2015-06---gute-argumente-fleisch-zu-essen.md
+type: Artikel
+typeName: Interview
+title: '"Gute Argumente, Fleisch zu essen"'
+seoTitle: '"Gute Argumente, Fleisch zu essen" - Interview'
+ogTitle: '"Gute Argumente, Fleisch zu essen" - Interview'
 description: Alice und Hendrik von Unstumm Film machen Aufklärungsfilme zum
   Thema Tierschutz - ohne dabei ein Blatt vor den Mund zu nehmen.
 excerpt: Alice und Hendrik von Unstumm Film machen Aufklärungsfilme zum Thema
   Tierschutz - ohne dabei ein Blatt vor den Mund zu nehmen.
-focusKeyword: Unstumm
+fileName: 2015-06---gute-argumente-fleisch-zu-essen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Design-ohne-Titel-3__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Design-ohne-Titel-3__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACkQAAIBAwIEBQUAAAAAAAAAAAECAwAEBQYREhMhMUFRYXGBByIzQpH/xAAXAQEAAwAAAAAAAAAAAAAAAAADAAIE/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxEEIiH/2gAMAwEAAhEDEQA/ALvp7T1u8K8Sr28RU6+GtIQAIwfXbpRaGCyt+aZU4QPOpJM/i5tP3TLLG/IgaeQDfwcL7ePfuKFL2sGgyPzLWcIjMYCB4w5gKof226V0fS8BiJCKR7Uu51fj7bEXc8kjcELLE0rfjXcfaoPmQQdvKqnkPq1iLW1ISbmMB2UVcM5hslazKNLapu8rYRR3swPGvXh6VcobKO2tpVtLho1uIuXKqt0ZSQSD8gH4oooX8Ni/BFT2NaNsliYZraXmzF+LYsu/QkAAbj02H8rGtW38VlkFgUgqh37UUVp5GLE7B6EGif/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Design-ohne-Titel-4.png__l.jpg
 labels:
   - animal equality
   - Bücher & Filme
@@ -28,17 +35,12 @@ labels:
   - Widerstand gegen Wiesenhof
   - youtube
   - Zukunft ohne Massentierhaltung
-type: Artikel
-typeName: Interview
-date: 2015-06-01T07:15:09.000Z
+focusKeyword: Unstumm
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "27502"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Design-ohne-Titel-3__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Design-ohne-Titel-3__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACkQAAIBAwIEBQUAAAAAAAAAAAECAwAEBQYREhMhMUFRYXGBByIzQpH/xAAXAQEAAwAAAAAAAAAAAAAAAAADAAIE/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxEEIiH/2gAMAwEAAhEDEQA/ALvp7T1u8K8Sr28RU6+GtIQAIwfXbpRaGCyt+aZU4QPOpJM/i5tP3TLLG/IgaeQDfwcL7ePfuKFL2sGgyPzLWcIjMYCB4w5gKof226V0fS8BiJCKR7Uu51fj7bEXc8kjcELLE0rfjXcfaoPmQQdvKqnkPq1iLW1ISbmMB2UVcM5hslazKNLapu8rYRR3swPGvXh6VcobKO2tpVtLho1uIuXKqt0ZSQSD8gH4oooX8Ni/BFT2NaNsliYZraXmzF+LYsu/QkAAbj02H8rGtW38VlkFgUgqh37UUVp5GLE7B6EGif/Z
 subTitle: Interview mit Alice und Hendrik von Unstumm
   
 ---

@@ -1,15 +1,22 @@
 ---
-title: '"A Life On Our Planet"'
-seoTitle: '"A Life On Our Planet" - der neue Klimafilm von David Attenborough'
+date: 2020-08-28T09:47:43.000Z
 slug: a-life-on-our-planet
 path: /2020/08/a-life-on-our-planet/
-fileName: 2020-08---a-life-on-our-planet.md
+type: Artikel
+typeName: Artikel
+title: '"A Life On Our Planet"'
+seoTitle: '"A Life On Our Planet" - der neue Klimafilm von David Attenborough'
+ogTitle: '"A Life On Our Planet" - der neue Klimafilm von David Attenborough'
 description: Der Naturforscher und Tierfilmer Sir David Attenborough ruft in
   seinem neuen Film "A Life On Our Planet" die Menschen dazu auf, vegan zu
   leben.
 excerpt: Der Naturforscher und Tierfilmer Sir David Attenborough ruft in seinem
   neuen Film "A Life On Our Planet" die Menschen dazu auf, vegan zu leben.
-focusKeyword: David Attenborough
+fileName: 2020-08---a-life-on-our-planet.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_david-attenborough-mike-dixon__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_david-attenborough-mike-dixon__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBgf/xAAqEAACAQMCBQQBBQAAAAAAAAABAgMABAURIQYSEyIxFEFRYZEHcYGCsf/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBgL/xAAfEQABBAIDAQEAAAAAAAAAAAABAAIDEQQSISJBMVH/2gAMAwEAAhEDEQA/AOWIu1PggkuJ44IELyyMERR5JOwFJVwF1J2pdlk3tMhj7pgkVuswleUtqY40deZuX3O/it0a4VbkZEUAG5q1UzmHmw956a6eJpQNT0m5gP5/P4qPKvmtH+pOds7jiu7ljkDxSlmHTibWONCQGkG+hbub/dKk5Zbe2dLNI39XDGrXTs+oWRlDdMAbdoI1+DtQhc7Ub/Ups0bx1NqFlMibSFFROeWUlUHyfYfdPv7WKa1sMAJ1bKTqqTadxjPMHck+AAAT96Ciimj8U9nyukmO3l0lNmrSTiNVyKpHaRt05nA72j159NR7nkA/uabd8V3PFuTv8pkRGt7PJ1JBGgRdCNAQB+2/2aKKAd3COC4tl49X/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_08_david-attenborough-fb.png__l.jpg
 labels:
   - A Life On Our Planet
   - Bücher & Filme
@@ -25,17 +32,12 @@ labels:
   - Tierschutz
   - vegane Doku
   - vegane Dokumentation
-type: Artikel
-typeName: Artikel
-date: 2020-08-28T09:47:43.000Z
+focusKeyword: David Attenborough
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31150"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_david-attenborough-mike-dixon__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_david-attenborough-mike-dixon__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBgf/xAAqEAACAQMCBQQBBQAAAAAAAAABAgMABAURIQYSEyIxFEFRYZEHcYGCsf/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBgL/xAAfEQABBAIDAQEAAAAAAAAAAAABAAIDEQQSISJBMVH/2gAMAwEAAhEDEQA/AOWIu1PggkuJ44IELyyMERR5JOwFJVwF1J2pdlk3tMhj7pgkVuswleUtqY40deZuX3O/it0a4VbkZEUAG5q1UzmHmw956a6eJpQNT0m5gP5/P4qPKvmtH+pOds7jiu7ljkDxSlmHTibWONCQGkG+hbub/dKk5Zbe2dLNI39XDGrXTs+oWRlDdMAbdoI1+DtQhc7Ub/Ups0bx1NqFlMibSFFROeWUlUHyfYfdPv7WKa1sMAJ1bKTqqTadxjPMHck+AAAT96Ciimj8U9nyukmO3l0lNmrSTiNVyKpHaRt05nA72j159NR7nkA/uabd8V3PFuTv8pkRGt7PJ1JBGgRdCNAQB+2/2aKKAd3COC4tl49X/9k=
 subTitle: Sir David Attenborough ruft zum Veganismus auf
   
 ---

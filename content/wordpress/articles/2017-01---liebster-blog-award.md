@@ -1,16 +1,23 @@
 ---
-title: Liebster Blog Award
-seoTitle: Liebster Blog Award - Ich wurde interviewt - Hamburg und mein Blog
+date: 2017-01-17T14:53:00.000Z
 slug: liebster-blog-award-2017-01
 path: /2017/01/liebster-blog-award-2017-01/
-fileName: 2017-01---liebster-blog-award.md
+type: Artikel
+typeName: Artikel
+title: Liebster Blog Award
+seoTitle: Liebster Blog Award - Ich wurde interviewt - Hamburg und mein Blog
+ogTitle: Liebster Blog Award - Ich wurde interviewt - Hamburg und mein Blog
 description: Ich habe einen Award für meinen Blog bekommen! 11 Fragen hat mir
   die Elbgängerin im Interview gestellt. Wir haben uns nicht nur über Hamburg
   unterhalten.
 excerpt: Ich habe einen Award für meinen Blog bekommen! 11 Fragen hat mir die
   Elbgängerin im Interview gestellt. Wir haben uns nicht nur über Hamburg
   unterhalten.
-focusKeyword: Award
+fileName: 2017-01---liebster-blog-award.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_01_liebster-award-clean__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_01_liebster-award-clean__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAJxAAAgEDBAIBBAMAAAAAAAAAAQIDBAURAAYSITFBEyIjUXEygZH/xAAYAQACAwAAAAAAAAAAAAAAAAABBAACA//EABsRAQADAAMBAAAAAAAAAAAAAAEAAhEDBCEx/9oADAMBAAIRAxEAPwDsOx6FYfnqaku7zyAxguFCADwgHgHPjOsbvfd9XJdam3bWo5BTwExSVCRNKZGBOePRAUEHB7J4507s7clNHFSK1THEVJKhh2+B1n9HP+aoaJbxajNA9Rb4YFkLo7VMaufqcgnkT19xvXvvS1TXInz2sAHkXtNddUqjPuC2zSUQw0tQ8PEwryCliBjKgkZGP7GoN6vSiOoWiaOelWdoVmXjhyO+hnOMHzjGmphNcI5KKK925HqmCPHFN8hcHyoCoBgnGe/Wot6U70tqip6sPFOZQFjdVJZVGC4JHJV9Yzgn9aFqgkPWtZ0XZU25jHJTkAHmOP1AHjkeR+D3rU21ILrJDS19LTyxiVuzGOX8fzo0aozdB8YiIoaa3yS08EUbOyqQq9EHvHeqHc0rzXGdZGYrG7RoCxPFQTgDPrRo1KfYagGE/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_01_facebook-1-von-1__l.jpg
 labels:
   - Hamburg
   - Interview
@@ -19,17 +26,12 @@ labels:
   - Post-Rock
   - Postrock
   - vegan
-type: Artikel
-typeName: Artikel
-date: 2017-01-17T14:53:00.000Z
+focusKeyword: Award
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "15659"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_01_liebster-award-clean__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_01_liebster-award-clean__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAJxAAAgEDBAIBBAMAAAAAAAAAAQIDBAURAAYSITFBEyIjUXEygZH/xAAYAQACAwAAAAAAAAAAAAAAAAABBAACA//EABsRAQADAAMBAAAAAAAAAAAAAAEAAhEDBCEx/9oADAMBAAIRAxEAPwDsOx6FYfnqaku7zyAxguFCADwgHgHPjOsbvfd9XJdam3bWo5BTwExSVCRNKZGBOePRAUEHB7J4507s7clNHFSK1THEVJKhh2+B1n9HP+aoaJbxajNA9Rb4YFkLo7VMaufqcgnkT19xvXvvS1TXInz2sAHkXtNddUqjPuC2zSUQw0tQ8PEwryCliBjKgkZGP7GoN6vSiOoWiaOelWdoVmXjhyO+hnOMHzjGmphNcI5KKK925HqmCPHFN8hcHyoCoBgnGe/Wot6U70tqip6sPFOZQFjdVJZVGC4JHJV9Yzgn9aFqgkPWtZ0XZU25jHJTkAHmOP1AHjkeR+D3rU21ILrJDS19LTyxiVuzGOX8fzo0aozdB8YiIoaa3yS08EUbOyqQq9EHvHeqHc0rzXGdZGYrG7RoCxPFQTgDPrRo1KfYagGE/9k=
 subTitle: Hamburg und mein Blog
   
 ---

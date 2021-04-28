@@ -1,15 +1,22 @@
 ---
-title: Gumbies im Winter
-seoTitle: "Gumbies im Winter - Strandsandalen als Hausschuhe: Das geht!"
+date: 2018-12-04T19:32:01.000Z
 slug: gumbies-im-winter
 path: /2018/12/gumbies-im-winter/
-fileName: 2018-12---gumbies-im-winter.md
+type: Galerie Rechts
+typeName: Produkttest
+title: Gumbies im Winter
+seoTitle: "Gumbies im Winter - Strandsandalen als Hausschuhe: Das geht!"
+ogTitle: "Gumbies im Winter - Strandsandalen als Hausschuhe: Das geht!"
 description: "Wie lange habe ich sie gesucht: Meine Hausschuhe. Fündig geworden
   bin ich vor ein paar Wochen beim Hersteller veganer Strandsandalen Gumbies."
 excerpt: "Werbung - Wie lange habe ich sie gesucht: Meine Hausschuhe. Fündig
   geworden bin ich vor ein paar Wochen beim Hersteller veganer Strandsandalen
   Gumbies. Schlappen und Flip Flops gehen nämlich auch im Winter! Und wie!"
-focusKeyword: Gumbies
+fileName: 2018-12---gumbies-im-winter.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-04-gumbies-slides-15__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-04-gumbies-slides-15__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgEDB//EACgQAAICAgEDBAEFAQAAAAAAAAECAwQFEQAGEiETMUFRUiIjYXGBkf/EABgBAAMBAQAAAAAAAAAAAAAAAAEFBgIE/8QAJhEAAQMDAwIHAAAAAAAAAAAAAQACEQMEIQUxcRMiQYGhscHR8P/aAAwDAQACEQMRAD8AuWMxiLGulG+M5atanCJLs0FaMkKGmcIN/WzygZfqzLN0jNZqUzUWVlhS1B3bTz+ogk+PAI7vs/fMdL9QY2zQNLqCnN3pGoSxZlMkhLb2e4+Qvzo7HHbg8GCua008V2dQ4HG/C6NJjPOlTZ/gb4tyOGLxN+yTofjxS+cw+MTF4Oxae8i01EKxs0YGiQGlYeApA0Pf29uI+o5KeJmU+lBNJa0wkgd4jC34p2sND28tvfz78LGuJiUtuybY97MTvn4B355hSalnO2KRaKlTpJCgBiW6khC/0pACjX3yl3umbbWbOQXOSXZJGJZiF0D9DbE6/wC8OHJm31KsSZAVJe03vc1wqOAGIER7T6rZhsf1Hateljb9WCmpAVXuoiO+/buCgnZ+N/7yBl5Ooa72K3rQ+l3MkjYuFF2dkEknuJ+fJPDhwUtUrE5A/ea1c6cyqZe9xjwkfS//2Q==
+ogImage: null
 labels:
   - Australien
   - Beach
@@ -36,17 +43,12 @@ labels:
   - veganes Leder
   - Wellness
   - Yoga
-type: Galerie Rechts
-typeName: Produkttest
-date: 2018-12-04T19:32:01.000Z
+focusKeyword: Gumbies
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "22874"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-04-gumbies-slides-15__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-04-gumbies-slides-15__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgEDB//EACgQAAICAgEDBAEFAQAAAAAAAAECAwQFEQAGEiETMUFRUiIjYXGBkf/EABgBAAMBAQAAAAAAAAAAAAAAAAEFBgIE/8QAJhEAAQMDAwIHAAAAAAAAAAAAAQACEQMEIQUxcRMiQYGhscHR8P/aAAwDAQACEQMRAD8AuWMxiLGulG+M5atanCJLs0FaMkKGmcIN/WzygZfqzLN0jNZqUzUWVlhS1B3bTz+ogk+PAI7vs/fMdL9QY2zQNLqCnN3pGoSxZlMkhLb2e4+Qvzo7HHbg8GCua008V2dQ4HG/C6NJjPOlTZ/gb4tyOGLxN+yTofjxS+cw+MTF4Oxae8i01EKxs0YGiQGlYeApA0Pf29uI+o5KeJmU+lBNJa0wkgd4jC34p2sND28tvfz78LGuJiUtuybY97MTvn4B355hSalnO2KRaKlTpJCgBiW6khC/0pACjX3yl3umbbWbOQXOSXZJGJZiF0D9DbE6/wC8OHJm31KsSZAVJe03vc1wqOAGIER7T6rZhsf1Hateljb9WCmpAVXuoiO+/buCgnZ+N/7yBl5Ooa72K3rQ+l3MkjYuFF2dkEknuJ+fJPDhwUtUrE5A/ea1c6cyqZe9xjwkfS//2Q==
 subTitle: Perfekte Hausschuhe für gemütliche Stunden
   
 ---

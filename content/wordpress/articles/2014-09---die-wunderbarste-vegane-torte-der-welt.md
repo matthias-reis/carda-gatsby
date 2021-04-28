@@ -1,16 +1,23 @@
 ---
-title: Die wunderbarste vegane Torte der Welt
-seoTitle: Die wunderbarste vegane Torte der Welt - Vegane Sahnetorte
+date: 2014-09-04T07:00:21.000Z
 slug: die-wunderbarste-vegane-torte-der-welt
 path: /2014/09/die-wunderbarste-vegane-torte-der-welt/
-fileName: 2014-09---die-wunderbarste-vegane-torte-der-welt.md
+type: Artikel
+typeName: Rezept
+title: Die wunderbarste vegane Torte der Welt
+seoTitle: Die wunderbarste vegane Torte der Welt - Vegane Sahnetorte
+ogTitle: Die wunderbarste vegane Torte der Welt
 description: Vegane Torte - wunderbar lecker und saftige - Ich verrate Euch
   heute ein Rezept, dass Ihr immer wieder verwenden werdet - Vegane Torte vom
   Feinsten.
 excerpt: "Das Rezept für die wunderbarste vegane Torte der Welt hat mir die
   liebe Salome verraten und ich gebe es heute an Euch weiter. So viel sei schon
   mal verraten: Die vegane Torte schmeckt einfach himmlisch."
-focusKeyword: vegane Torte
+fileName: 2014-09---die-wunderbarste-vegane-torte-der-welt.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_14634462982_abcd5245ef_o-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_14634462982_abcd5245ef_o-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAL/xAAoEAACAgEDBAEEAwEAAAAAAAABAgMEBRESIQAGEzEiMkFCUQcVI1L/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBAAD/8QAJhEAAQMBBgcBAAAAAAAAAAAAAQIDEQAEEiFhofATMVFxgZHh0f/aAAwDAQACEQMRAD8Aq/d3cNPtbDPfvEEkHwxeQI0zDkqhbjdpqefemnU57j71ytm5JFRuUMZBGLAIkCtLIsfjkZtzAiKRYX12vwWJA1+JKxZtT5ruGtLaimJy0NacV4THAck77opAkokaOP4hVKEtqobQAk9DoMLbqY222RIMS1pMjYuzpIk7V4ZtII18q+IEyhWMZY7ljT1oB0QUJ5He95IXjRx+6u4KSZCzPmsdYFWBr89Y1trCJmBTx8/NGO1FKk7PI3k+Q0D7gM7FmxkIxE0N3GSitbhL8LJsDEpzq0fJCsQNdPXU4vVq0mJzGEbaoneCsZGriCWxWQGeSWtCWZJ5Wk11MY53DT2D04dtVrVN6uUuwgZLMLFYuV6jHwRQLHsicxMqlWI13DT2PsOOjLQhBTIEadPulUt3iYotW7Uiq5ilNhsxWoYQTASY2/VLRwK7HzPVl9xyMCV1b6dx50AHQzHfx5j6FSGuvcHbqiN5q0gRnmAxxJbxpE5ZTLuJYyaHkD3zq+w46THU0rmLRVB8ba8Nrz7HXOpiWMmNXlA/BFIB9/fTjUfr9dIcdYMLTOnsVktNHEk+I/KSu2/6qtC9vt6nls9mdGjXJ5oIgqukYTdHuGqgg8hf+dCeiWCxlmrIxsyNctWB/tNLzI5/EHngAa8dbBir97yNemdI/JvCwsYViTQ8MfpJJPP762vWjqUCtbdNJL8WmLEkg+9NefXGvUhYcfUFHAD19NdXLQ20kobEA5yT3r//2Q==
+ogImage: null
 labels:
   - Konfiserie
   - Konfiserie vegan
@@ -22,17 +29,12 @@ labels:
   - vegane Rezepte
   - Vegane Rezepte
   - Veganer
-type: Artikel
-typeName: Rezept
-date: 2014-09-04T07:00:21.000Z
+focusKeyword: vegane Torte
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "8794"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_14634462982_abcd5245ef_o-2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_14634462982_abcd5245ef_o-2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAL/xAAoEAACAgEDBAEEAwEAAAAAAAABAgMEBRESIQAGEzEiMkFCUQcVI1L/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBAAD/8QAJhEAAQMBBgcBAAAAAAAAAAAAAQIDEQAEEiFhofATMVFxgZHh0f/aAAwDAQACEQMRAD8Aq/d3cNPtbDPfvEEkHwxeQI0zDkqhbjdpqefemnU57j71ytm5JFRuUMZBGLAIkCtLIsfjkZtzAiKRYX12vwWJA1+JKxZtT5ruGtLaimJy0NacV4THAck77opAkokaOP4hVKEtqobQAk9DoMLbqY222RIMS1pMjYuzpIk7V4ZtII18q+IEyhWMZY7ljT1oB0QUJ5He95IXjRx+6u4KSZCzPmsdYFWBr89Y1trCJmBTx8/NGO1FKk7PI3k+Q0D7gM7FmxkIxE0N3GSitbhL8LJsDEpzq0fJCsQNdPXU4vVq0mJzGEbaoneCsZGriCWxWQGeSWtCWZJ5Wk11MY53DT2D04dtVrVN6uUuwgZLMLFYuV6jHwRQLHsicxMqlWI13DT2PsOOjLQhBTIEadPulUt3iYotW7Uiq5ilNhsxWoYQTASY2/VLRwK7HzPVl9xyMCV1b6dx50AHQzHfx5j6FSGuvcHbqiN5q0gRnmAxxJbxpE5ZTLuJYyaHkD3zq+w46THU0rmLRVB8ba8Nrz7HXOpiWMmNXlA/BFIB9/fTjUfr9dIcdYMLTOnsVktNHEk+I/KSu2/6qtC9vt6nls9mdGjXJ5oIgqukYTdHuGqgg8hf+dCeiWCxlmrIxsyNctWB/tNLzI5/EHngAa8dbBir97yNemdI/JvCwsYViTQ8MfpJJPP762vWjqUCtbdNJL8WmLEkg+9NefXGvUhYcfUFHAD19NdXLQ20kobEA5yT3r//2Q==
 subTitle: Vegane Sahnetorte
   
 ---

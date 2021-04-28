@@ -1,14 +1,21 @@
 ---
-title: Calexico live @ Große Freiheit 36 15.04.2015
-seoTitle: Calexico live @ Große Freiheit 36
+date: 2015-04-16T12:37:08.000Z
 slug: calexico-live-grosse-freiheit-36-15-04-2015
 path: /2015/04/calexico-live-grosse-freiheit-36-15-04-2015/
-fileName: 2015-04---calexico-live-grosse-freiheit-36-15-04-2015.md
+type: Galerie
+typeName: Konzertbericht
+title: Calexico live @ Große Freiheit 36 15.04.2015
+seoTitle: Calexico live @ Große Freiheit 36
+ogTitle: Calexico live @ Große Freiheit 36
 description: Hier sind meine Eindrücke vom Calexico-Konzert gestern in der
   Großen Freiheit. Toll, die Große Freiheit, tolles Konzert!
 excerpt: Hier sind meine Eindrücke vom gestrigen Calexico-Konzert in der Großen
   Freiheit in Hamburg.
-focusKeyword: Calexico
+fileName: 2015-04---calexico-live-grosse-freiheit-36-15-04-2015.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_04_16959374197_3cf4e89b1a_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_04_16959374197_3cf4e89b1a_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEBwX/xAAoEAACAQMEAgEDBQAAAAAAAAABAgMEBREABhIhMUETB1FxFCIkgaH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAREhEkH/2gAMAwEAAhEDEQA/AOPfTXa0t1liqKWohjmXMgkMyoIwOzz5dEdeCCNdar7UJLJTMxtjiCR5i1rVZ3OAAHSM9KxyfZPX7ca9zatTFXUtsoqGxmip/kCtI1EkMXAoy+iC2CRgeDofPvOzQNIlPbrFRCF2RIpKKWaRSGKnOG4g4XP27x60dvK3hNt+3Wais8PNKxJ55pjyrFcOxV1VuWZeiOQIwTkZPrQ68WVbx+qq6CvZY4Y3k/mx/FlEYqApMh5Ho4+4/Os92+p0whdbTWFZjxGFoo1jHffnJ8eNHrbue9biuwguN6+OliR55eaxqpVcdHoDHf8Ah1eT8Ktnb9jooooqnpUKlWHrv3oVTXyz0W+7o96hgqaFJKn40eDmpcyZUkAd9E9nPrVq1C1k39vK232SlW1WyOjhgV16jWPkS3RCr6A+/vRO3yu8dcY2ALQ/FybwAzDPf4BH96tWmDcf/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2015_04_16959318267_fe6f1b6bd0_z__l.jpg
 labels:
   - Calexico
   - Calexico Große Freiheit
@@ -18,17 +25,12 @@ labels:
   - Große Freiheit
   - Große Freiheit 36
   - Konzerte
-type: Galerie
-typeName: Konzertbericht
-date: 2015-04-16T12:37:08.000Z
+focusKeyword: Calexico
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11846"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_04_16959374197_3cf4e89b1a_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_04_16959374197_3cf4e89b1a_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEBwX/xAAoEAACAQMEAgEDBQAAAAAAAAABAgMEBREABhIhMUETB1FxFCIkgaH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAREhEkH/2gAMAwEAAhEDEQA/AOPfTXa0t1liqKWohjmXMgkMyoIwOzz5dEdeCCNdar7UJLJTMxtjiCR5i1rVZ3OAAHSM9KxyfZPX7ca9zatTFXUtsoqGxmip/kCtI1EkMXAoy+iC2CRgeDofPvOzQNIlPbrFRCF2RIpKKWaRSGKnOG4g4XP27x60dvK3hNt+3Wais8PNKxJ55pjyrFcOxV1VuWZeiOQIwTkZPrQ68WVbx+qq6CvZY4Y3k/mx/FlEYqApMh5Ho4+4/Os92+p0whdbTWFZjxGFoo1jHffnJ8eNHrbue9biuwguN6+OliR55eaxqpVcdHoDHf8Ah1eT8Ktnb9jooooqnpUKlWHrv3oVTXyz0W+7o96hgqaFJKn40eDmpcyZUkAd9E9nPrVq1C1k39vK232SlW1WyOjhgV16jWPkS3RCr6A+/vRO3yu8dcY2ALQ/FybwAzDPf4BH96tWmDcf/9k=
 subTitle: Bildergalerie
   
 ---

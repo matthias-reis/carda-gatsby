@@ -1,16 +1,23 @@
 ---
-title: Fleischatlas 2021
-seoTitle: Fleischatlas 2021 – Fakten und Daten rund um tierische Lebensmittel
+date: 2021-04-12T06:37:18.000Z
 slug: fleischatlas-2021
 path: /2021/04/fleischatlas-2021/
-fileName: 2021-04---fleischatlas-2021.md
+type: Artikel
+typeName: Artikel
+title: Fleischatlas 2021
+seoTitle: Fleischatlas 2021 – Fakten und Daten rund um tierische Lebensmittel
+ogTitle: Fleischatlas 2021 – Fakten und Daten rund um tierische Lebensmittel
 description: Der aktuelle Fleischatlas zeigt wichtige Fakten rund um tierische
   Lebensmittel. Vom Futtermittelanbau bis zu den Alternativen.
 excerpt: Wie in jedem Jahr hat der BUND gemeinsam mit weiteren Organisationen
   auch 2021 wieder den Fleischatlas veröffentlicht. Aus den insgesamt 52 Seiten
   geht unter anderem hervor, dass die globale Nachfrage nach Fleisch durch das
   Wirtschafts- und Bevölkerungswachstum weiter wächst.
-focusKeyword: Fleischatlas
+fileName: 2021-04---fleischatlas-2021.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_fleischatlas__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_fleischatlas__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUHAv/EAC0QAAEDAgMFBwUAAAAAAAAAAAECAwQAERIhMQUGEyJBFDJRYXGBkWKhscHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAERAmH/2gAMAwEAAhEDEQA/AGsYbGFOHCqxAOXT9eNMxpbcyEzMTHfTDcUUNPLIwuEWvbM297HPSjiOZoSV271rXA9KsN3YanJiY7fY4uxG1pW8kpACSblVkdSSkc31eVqzJrWyT1UbXkKj7PeksRn5LaFDi9nBUpCcySfYGpcB6DJZakRnVPMrAW2vXlPWx+NMq03fbeDZ8jd6Rs+M3hiSWykJjnh201wgDr71lEJCI0VmO0S220MKEJULgA+fn80XmAi3FWbVgCrCybqKben3rlraUmC644ym5QhQVl3gbeNxYn10ooqJtcudLTd/AeCMOR0Fzlnr/KnRilTaVuNKWUDmSemVuX8kUUUp/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_fleischatlas-fb.png__l.jpg
 labels:
   - BUND
   - Bund für Umwelt und Naturschutz
@@ -21,17 +28,12 @@ labels:
   - Klima & Umweltschutz
   - Le Monde Diplomatique
   - Tierrechte
-type: Artikel
-typeName: Artikel
-date: 2021-04-12T06:37:18.000Z
+focusKeyword: Fleischatlas
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33839"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_fleischatlas__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_fleischatlas__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUHAv/EAC0QAAEDAgMFBwUAAAAAAAAAAAECAwQAERIhMQUGEyJBFDJRYXGBkWKhscHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAERAmH/2gAMAwEAAhEDEQA/AGsYbGFOHCqxAOXT9eNMxpbcyEzMTHfTDcUUNPLIwuEWvbM297HPSjiOZoSV271rXA9KsN3YanJiY7fY4uxG1pW8kpACSblVkdSSkc31eVqzJrWyT1UbXkKj7PeksRn5LaFDi9nBUpCcySfYGpcB6DJZakRnVPMrAW2vXlPWx+NMq03fbeDZ8jd6Rs+M3hiSWykJjnh201wgDr71lEJCI0VmO0S220MKEJULgA+fn80XmAi3FWbVgCrCybqKben3rlraUmC644ym5QhQVl3gbeNxYn10ooqJtcudLTd/AeCMOR0Fzlnr/KnRilTaVuNKWUDmSemVuX8kUUUp/9k=
 subTitle: Fakten und Daten zu tierischen Lebensmitteln
   
 ---

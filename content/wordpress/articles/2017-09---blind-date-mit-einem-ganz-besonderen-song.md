@@ -1,14 +1,21 @@
 ---
-title: Blind Date mit einem ganz besonderen Song
-seoTitle: '"I like birds" - Blind Date mit einem besonderen Song - Eels für die Seele'
+date: 2017-09-30T07:00:28.000Z
 slug: i-like-birds-blind-date-mit-einem-ganz-besonderen-song
 path: /2017/09/i-like-birds-blind-date-mit-einem-ganz-besonderen-song/
-fileName: 2017-09---blind-date-mit-einem-ganz-besonderen-song.md
+type: Artikel
+typeName: Artikel
+title: Blind Date mit einem ganz besonderen Song
+seoTitle: '"I like birds" - Blind Date mit einem besonderen Song - Eels für die Seele'
+ogTitle: '"I like birds" - Blind Date mit einem besonderen Song - Eels für die Seele'
 description: '"I like birds" ist ein ganz besonderer Song. Ein Song für ein
   Blind Date. Von meiner Erfahrung damit möchte ich Euch heute berichten.'
 excerpt: '"I like birds" ist ein ganz besonderer Song. Ein Song für ein Blind
   Date. Von meiner Erfahrung damit möchte ich Euch heute berichten.'
-focusKeyword: I like birds
+fileName: 2017-09---blind-date-mit-einem-ganz-besonderen-song.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_swallows-2637187_1280__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_swallows-2637187_1280__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAYF/8QAKBAAAQMCBAYCAwAAAAAAAAAAAQIDBAURAAYSIRMUIjFBYQcjJFFx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQAAf/EAB4RAAIBAwUAAAAAAAAAAAAAAAABAhETYTEyM0GB/9oADAMBAAIRAxEAPwBxhJAJtsBck9gPeONOzHCjo/DS/VHtzw4CQ4AASCVLvoSAQbknwdjbC2+S5dbTR4LlYeYb5x3mmWC4ppbLegfUtjTayV9lqUokgCw8a9VJpsalx5efV0uKtDinGYzcgtxUoISE2a2C1Hz0nvbfDXnKTiugLaSTZRn12ZV5EByn802pbpYQKUjmFN3UA4HZF+CiwAPTqI33840Ay3JMx8pqKmIC0LS8ppJVMfSb24kpRukC/ZIA2xWi5jkS9UXKWW5Tsds6DIlI5GOgkdJCSNa0/uwBsPYxXdybUa6y0c5Vt6TsrXCpt48dJ8AHusbb6hv63vtcna0wLjOVTbqbMpDDDkeRHrMmLJkrfLrktTbSLLVcWSLLICQLAAYb+VMs06A0zU+GqVUJLTLwlS1F95ocNNkpWq5A/lhfwMGDAQ5ZeCy2I0bhKj1KKj7N8Qt7wYMUk7P/2Q==
+ogImage: null
 labels:
   - Achtsamkeit
   - Bands
@@ -19,17 +26,12 @@ labels:
   - Menschen
   - Musik
   - Stadt
-type: Artikel
-typeName: Artikel
-date: 2017-09-30T07:00:28.000Z
+focusKeyword: I like birds
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "17878"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_swallows-2637187_1280__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_swallows-2637187_1280__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAYF/8QAKBAAAQMCBAYCAwAAAAAAAAAAAQIDBAURAAYSIRMUIjFBYQcjJFFx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQAAf/EAB4RAAIBAwUAAAAAAAAAAAAAAAABAhETYTEyM0GB/9oADAMBAAIRAxEAPwBxhJAJtsBck9gPeONOzHCjo/DS/VHtzw4CQ4AASCVLvoSAQbknwdjbC2+S5dbTR4LlYeYb5x3mmWC4ppbLegfUtjTayV9lqUokgCw8a9VJpsalx5efV0uKtDinGYzcgtxUoISE2a2C1Hz0nvbfDXnKTiugLaSTZRn12ZV5EByn802pbpYQKUjmFN3UA4HZF+CiwAPTqI33840Ay3JMx8pqKmIC0LS8ppJVMfSb24kpRukC/ZIA2xWi5jkS9UXKWW5Tsds6DIlI5GOgkdJCSNa0/uwBsPYxXdybUa6y0c5Vt6TsrXCpt48dJ8AHusbb6hv63vtcna0wLjOVTbqbMpDDDkeRHrMmLJkrfLrktTbSLLVcWSLLICQLAAYb+VMs06A0zU+GqVUJLTLwlS1F95ocNNkpWq5A/lhfwMGDAQ5ZeCy2I0bhKj1KKj7N8Qt7wYMUk7P/2Q==
 subTitle: '"I like birds" von Eels'
   
 ---

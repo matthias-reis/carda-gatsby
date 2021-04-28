@@ -1,14 +1,21 @@
 ---
-title: Musikliste für den Februar
-seoTitle: Musikliste für den Februar – 12 Songs von Post-Rock bis Pop
+date: 2021-01-21T05:00:29.000Z
 slug: musikliste-fuer-den-februar-2021
 path: /2021/01/musikliste-fuer-den-februar-2021/
-fileName: 2021-01---musikliste-fuer-den-februar.md
+type: Artikel
+typeName: Artikel
+title: Musikliste für den Februar
+seoTitle: Musikliste für den Februar – 12 Songs von Post-Rock bis Pop
+ogTitle: Musikliste für den Februar – 12 Songs von Post-Rock bis Pop
 description: Wir haben in den letzten vier Wochen wieder wild in allen Genres
   geplündert und eine ziemlich geniale Musikliste für Euch zusammengestellt.
 excerpt: Wir haben in den letzten vier Wochen wieder wild in allen Genres
   geplündert und eine ziemlich geniale Musikliste für Euch zusammengestellt.
-focusKeyword: Musikliste
+fileName: 2021-01---musikliste-fuer-den-februar.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_12-songs-februar-blog__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_12-songs-februar-blog__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcBBQMGCP/EAC8QAAEDAgQFAwEJAAAAAAAAAAECAxEEBQAGEiETFBUxQQciUTIXIyYzUmFxkdH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAJhEBAAAFAwEJAAAAAAAAAAAAAQACAxExBCGBEhNBUXGCobHR8P/aAAwDAQACEQMRAD8ATptFE7RnS1UsVIMArWkpI/gf7ixbTldv0sqah62g1LjIaaqiSX+a2Mz2CO4+PGJZzpazRgFlwKJ1FtSgIVEd8N4i9Kzan31fTuYE/UUlOr+tMYQrUFt1TOzfZTHMWdTrqWpt2dLpQRw3v6QLW7iHo5a6451arU3N4WxLKgqj30lyQQe8dtXj9scr5GrGLhe3HMy5aqattTZFPUU1Vy6SoJT7VJJAiQZV3kjxipb9Sb39nCrwvO/4kNZwm7Ymjpvy/Livu587b4aJzdl9d46O3cLkmpdrgoOrQ4hrUFQElZER38xOC0Zq01yqEvkr8yy45ieTU5DDN7feeIYlaMzvVC26R+gYZKEBKynUQdUrJlMfTsB874V9szWz0y30zSrc3Vc8SoEzxgpEEqTIgJKo8zCY84MGDU3ZhDUmP3hGY0DCcpcjqrBduFJSl1Uaivc/pKY+DjdvU26ZuZtQXlVhZr+rJRTopE8YO03DO7+vZCdfeIgRvgwYJSbsbmAFAyx//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_musikliste-februar-fb.png__l.jpg
 labels:
   - Ambient
   - Bands
@@ -38,17 +45,12 @@ labels:
   - Progressive Metal
   - SOHN
   - Techno
-type: Artikel
-typeName: Artikel
-date: 2021-01-21T05:00:29.000Z
+focusKeyword: Musikliste
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32447"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_12-songs-februar-blog__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_12-songs-februar-blog__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcBBQMGCP/EAC8QAAEDAgQFAwEJAAAAAAAAAAECAxEEBQAGEiETFBUxQQciUTIXIyYzUmFxkdH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAJhEBAAAFAwEJAAAAAAAAAAAAAQACAxExBCGBEhNBUXGCobHR8P/aAAwDAQACEQMRAD8ATptFE7RnS1UsVIMArWkpI/gf7ixbTldv0sqah62g1LjIaaqiSX+a2Mz2CO4+PGJZzpazRgFlwKJ1FtSgIVEd8N4i9Kzan31fTuYE/UUlOr+tMYQrUFt1TOzfZTHMWdTrqWpt2dLpQRw3v6QLW7iHo5a6451arU3N4WxLKgqj30lyQQe8dtXj9scr5GrGLhe3HMy5aqattTZFPUU1Vy6SoJT7VJJAiQZV3kjxipb9Sb39nCrwvO/4kNZwm7Ymjpvy/Livu587b4aJzdl9d46O3cLkmpdrgoOrQ4hrUFQElZER38xOC0Zq01yqEvkr8yy45ieTU5DDN7feeIYlaMzvVC26R+gYZKEBKynUQdUrJlMfTsB874V9szWz0y30zSrc3Vc8SoEzxgpEEqTIgJKo8zCY84MGDU3ZhDUmP3hGY0DCcpcjqrBduFJSl1Uaivc/pKY+DjdvU26ZuZtQXlVhZr+rJRTopE8YO03DO7+vZCdfeIgRvgwYJSbsbmAFAyx//9k=
 subTitle: 12 Songs von Post-Rock bis Pop
   
 ---

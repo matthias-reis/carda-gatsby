@@ -1,13 +1,20 @@
 ---
-title: Glastonbury
-seoTitle: Glastonbury
+date: 2012-07-29T13:00:29.000Z
 slug: glastonbury
 path: /2012/07/glastonbury/
-fileName: 2012-07---glastonbury.md
+type: Galerie
+typeName: Galerie
+title: Glastonbury
+seoTitle: Glastonbury
+ogTitle: Glastonbury
 description: Glastonbury - eine Bildergalerie Ich hatte endlich wieder Zeit,
   Glastonbury zu besuchen, eine meiner Lieblingsstädte
 excerpt: Das haben King Arthur, Vishnu, Green Man, Bondieu und die Goddess gemeinsam.
-focusKeyword: Glastonbury
+fileName: 2012-07---glastonbury.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9652__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9652__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAoEAACAgEDAwMEAwAAAAAAAAABAgMEEQAFIRITIgYUYSMxQVFicYH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/xAAbEQACAwADAAAAAAAAAAAAAAAAAREhMQJBUf/aAAwDAQACEQMRAD8A6j6wiS0KdOd4VUs87dJ4CLwORxn5+2pW3eFOXtDcZfrnt4hs/TZiAeSDgcKOT+tYt93ivas7X364ppXrynoszIxbLBQcggHgk41Nbo+1QpbsyS0jD2oq8bOVJQMFUkDJCqCOScY6tMw34EUU1iaRu5LParFpm6pw1tG6xlSSWPBOQTj4Glcted7UtmKJ8LYZImEi+AI6yeRwOT+9L6u67YtA0pZtnsQmX3BkjkiZIm8VIDKxBPSo4+/3451qv2jNLuk9GUtlYpC/cDAZyrBVI44C8g86l2VxUaY7OzV9+np1HmuQ+32/pLmUSFu5M7EjqHB4x+dI/V221Nu23fRWR1BpqqDK+HS0eDwOSSmSfn40aNKwOxPte4x756du+9rAmO14kPnGUCE8g5PmTn/NU8l4y2NyEKvDG+3hggfIUh0Yfj+RH9aNGsxWH//Z
+ogImage: null
 labels:
   - Abtei
   - Bondieu
@@ -36,17 +43,12 @@ labels:
   - Wicca
   - Wünschelruthe
   - Zauberei
-type: Galerie
-typeName: Galerie
-date: 2012-07-29T13:00:29.000Z
+focusKeyword: Glastonbury
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "3375"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9652__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9652__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAoEAACAgEDAwMEAwAAAAAAAAABAgMEEQAFIRITIgYUYSMxQVFicYH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/xAAbEQACAwADAAAAAAAAAAAAAAAAAREhMQJBUf/aAAwDAQACEQMRAD8A6j6wiS0KdOd4VUs87dJ4CLwORxn5+2pW3eFOXtDcZfrnt4hs/TZiAeSDgcKOT+tYt93ivas7X364ppXrynoszIxbLBQcggHgk41Nbo+1QpbsyS0jD2oq8bOVJQMFUkDJCqCOScY6tMw34EUU1iaRu5LParFpm6pw1tG6xlSSWPBOQTj4Glcted7UtmKJ8LYZImEi+AI6yeRwOT+9L6u67YtA0pZtnsQmX3BkjkiZIm8VIDKxBPSo4+/3451qv2jNLuk9GUtlYpC/cDAZyrBVI44C8g86l2VxUaY7OzV9+np1HmuQ+32/pLmUSFu5M7EjqHB4x+dI/V221Nu23fRWR1BpqqDK+HS0eDwOSSmSfn40aNKwOxPte4x756du+9rAmO14kPnGUCE8g5PmTn/NU8l4y2NyEKvDG+3hggfIUh0Yfj+RH9aNGsxWH//Z
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 3/12
   
 ---

@@ -1,30 +1,32 @@
 ---
-title: Veganes Lokal erhält Michelin Stern
-seoTitle: Veganes Lokal erhält Michelin Stern – Origine Non Animale
+date: 2021-01-19T15:21:41.000Z
 slug: michelin-stern-origine-non-animale
 path: /2021/01/michelin-stern-origine-non-animale/
-fileName: 2021-01---veganes-lokal-erhaelt-michelin-stern.md
+type: Artikel
+typeName: Artikel
+title: Veganes Lokal erhält Michelin Stern
+seoTitle: Veganes Lokal erhält Michelin Stern – Origine Non Animale
+ogTitle: Veganes Lokal erhält Michelin Stern – Origine Non Animale
 description: Das vegane Lokal Origine Non Animale wurde jetzt mit einem Michelin
   Stern ausgezeichnet. Gründerin Claire Vallée ist begeistert.
 excerpt: Das vegane Lokal Origine Non Animale wurde jetzt mit einem Michelin
   Stern ausgezeichnet. Gründerin Claire Vallée ist begeistert.
-focusKeyword: Origine Non Animale
+fileName: 2021-01---veganes-lokal-erhaelt-michelin-stern.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_Origine-Non-Animale-3-Kopie-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_Origine-Non-Animale-3-Kopie-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAUG/8QAKhAAAQQBBAAFAwUAAAAAAAAAAQIDBBEFAAYSIQcTFCIxCEFhIzJRcbH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwT/xAAgEQACAgEEAwEAAAAAAAAAAAABEQACIQMSMUFxgdGh/9oADAMBAAIRAxEAPwBrRZm4Y0XFx58WMue7MIktxXwv0zJVTbakk3+1ItXfd1rWnbccn5VCZORdVHWHFtoTyQtKirlZUkg+2khPfVfHZ0n/AKg91z8PkUtxttRUR5L7Ud2dIdTbywCtKChB5igbs18/fTYgZmRn9pxX8Qp6DPbebirS8risLQqnEAuD3GkE3VkX/OoigDPI+RFNySnUs+a1HA8x0hNDiI32roAfitSdW4pUZSS6AFUoljrvq/xV/wC6WPir4iDHbkZ2/HZdd8pv18n00sNPFpCVKJSSOIAAJsrBsAVRvVjwt3w9ldwmFEwc9vAT0KkxspKcVzdfDaCtJbNlAICiO6NEiwb1UnO2BqE3FFllYzYG8HMnKymayUmE4pSpCwh5sucEBaVpIAB/Uv5J+99a0IHic1tbH+ugxstk5MmK7NCMqtKUBvmAoJ4CgrsdUQEmrHxo0ay00gHcdY/Zs1CLWG4N59nmamYn4l2A9ltyO5PzW8S3LksojsyGWmnlONpCeQT7wpJojj8p7NdW9vbvxe6fFPDwsGcrDmxyDKjSGERmAtCCfMUlJUpTlHgRaR/VnRo0jRoFZZP2TJZL6wPCM//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_Origine-Non-Animale-FB.png__l.jpg
 labels:
   - Frankreich
   - Origine Non Animale
   - Vegane Lokale
   - veganes Restaurant
-type: Artikel
-typeName: Artikel
-date: 2021-01-19T15:21:41.000Z
+focusKeyword: Origine Non Animale
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32433"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_Origine-Non-Animale-3-Kopie-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_Origine-Non-Animale-3-Kopie-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAUG/8QAKhAAAQQBBAAFAwUAAAAAAAAAAQIDBBEFAAYSIQcTFCIxCEFhIzJRcbH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwT/xAAgEQACAgEEAwEAAAAAAAAAAAABEQACIQMSMUFxgdGh/9oADAMBAAIRAxEAPwBrRZm4Y0XFx58WMue7MIktxXwv0zJVTbakk3+1ItXfd1rWnbccn5VCZORdVHWHFtoTyQtKirlZUkg+2khPfVfHZ0n/AKg91z8PkUtxttRUR5L7Ud2dIdTbywCtKChB5igbs18/fTYgZmRn9pxX8Qp6DPbebirS8risLQqnEAuD3GkE3VkX/OoigDPI+RFNySnUs+a1HA8x0hNDiI32roAfitSdW4pUZSS6AFUoljrvq/xV/wC6WPir4iDHbkZ2/HZdd8pv18n00sNPFpCVKJSSOIAAJsrBsAVRvVjwt3w9ldwmFEwc9vAT0KkxspKcVzdfDaCtJbNlAICiO6NEiwb1UnO2BqE3FFllYzYG8HMnKymayUmE4pSpCwh5sucEBaVpIAB/Uv5J+99a0IHic1tbH+ugxstk5MmK7NCMqtKUBvmAoJ4CgrsdUQEmrHxo0ay00gHcdY/Zs1CLWG4N59nmamYn4l2A9ltyO5PzW8S3LksojsyGWmnlONpCeQT7wpJojj8p7NdW9vbvxe6fFPDwsGcrDmxyDKjSGERmAtCCfMUlJUpTlHgRaR/VnRo0jRoFZZP2TJZL6wPCM//Z
 subTitle: Origine Non Animale überzeugt mit Gemüse
   
 ---

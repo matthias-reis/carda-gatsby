@@ -1,14 +1,21 @@
 ---
-title: Raw Food Café Amsterdam - Zest For Life
-seoTitle: Raw Food Café Amsterdam - roh-vegane Köstlichkeiten für Körper & Seele
+date: 2018-03-29T06:27:24.000Z
 slug: raw-food-cafe-amsterdam-zest-for-life
 path: /2018/03/raw-food-cafe-amsterdam-zest-for-life/
-fileName: 2018-03---raw-food-cafe-amsterdam-zest-for-life.md
+type: Artikel
+typeName: Artikel
+title: Raw Food Café Amsterdam - Zest For Life
+seoTitle: Raw Food Café Amsterdam - roh-vegane Köstlichkeiten für Körper & Seele
+ogTitle: Raw Food Café Amsterdam - roh-vegane Köstlichkeiten für Körper & Seele
 description: Unter den vielen veganen Locations in Amsterdam sticht das Raw Food
   Café im Museumsviertel besonders hervor. Die Speisen streicheln den Gaumen.
 excerpt: Unter den vielen veganen Locations in Amsterdam sticht das Raw Food
   Café im Museumsviertel besonders hervor. Die Speisen streicheln den Gaumen.
-focusKeyword: Raw Food Café
+fileName: 2018-03---raw-food-cafe-amsterdam-zest-for-life.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38471444290_fbf892a60d_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38471444290_fbf892a60d_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAEAwf/xAApEAACAQQBAwMDBQAAAAAAAAABAgMABAURIRIiMQYTQRQycRVRYYGR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMCBAX/xAAgEQACAgICAgMAAAAAAAAAAAABAgADESEEMUGhUXGR/9oADAMBAAIRAxEAPwDzv1JbfUYZcjNeBn2SIUBDKUb53+N8Uwnpf05LncncZSGe5EsJnWEyMFLts9W/AAAPH4oUW0UuEvIYHUvJEW9tm+1td2gCed7B4HxWm6znRiEWFmnvWgiBtBEx0GC7kLAcEAEAb1z4rPqqWm+vBwoBz6+fqWb3eyp/LZ17mW49NmXJ3Udjc5LvG1jt5xGoUkgIBrZAH8+K7TYyOzxcEEXWVjBXvbqPn96HvpL67vfrcP1NAyAK0rKpBB4BB5BGvuFNLcv+lxLcdPuhe/R2A2uaVyrFaqpFOx3+RnHRhY7MNHqE4m8llx09vNNDD76FGeBe/R1wpPAPB51/lOWt1j7O2jjSFGVE6AWRGOgNcn5qqoWWMzbjkQKNQrK5mNrnUARIo0A0gVBvz4H9UNeZPcZ04OzxzVVQCAtmRLEDE//Z
+ogImage: null
 labels:
   - Amsterdam
   - Amsterdam2018
@@ -20,17 +27,12 @@ labels:
   - Vegane Lokale
   - vegane Lokale
   - Zest For Life
-type: Artikel
-typeName: Artikel
-date: 2018-03-29T06:27:24.000Z
+focusKeyword: Raw Food Café
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "19540"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38471444290_fbf892a60d_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38471444290_fbf892a60d_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAEAwf/xAApEAACAQQBAwMDBQAAAAAAAAABAgMABAURIRIiMQYTQRQycRVRYYGR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMCBAX/xAAgEQACAgICAgMAAAAAAAAAAAABAgADESEEMUGhUXGR/9oADAMBAAIRAxEAPwDzv1JbfUYZcjNeBn2SIUBDKUb53+N8Uwnpf05LncncZSGe5EsJnWEyMFLts9W/AAAPH4oUW0UuEvIYHUvJEW9tm+1td2gCed7B4HxWm6znRiEWFmnvWgiBtBEx0GC7kLAcEAEAb1z4rPqqWm+vBwoBz6+fqWb3eyp/LZ17mW49NmXJ3Udjc5LvG1jt5xGoUkgIBrZAH8+K7TYyOzxcEEXWVjBXvbqPn96HvpL67vfrcP1NAyAK0rKpBB4BB5BGvuFNLcv+lxLcdPuhe/R2A2uaVyrFaqpFOx3+RnHRhY7MNHqE4m8llx09vNNDD76FGeBe/R1wpPAPB51/lOWt1j7O2jjSFGVE6AWRGOgNcn5qqoWWMzbjkQKNQrK5mNrnUARIo0A0gVBvz4H9UNeZPcZ04OzxzVVQCAtmRLEDE//Z
 subTitle: Roh-vegane Köstlichkeiten für Körper und Seele
   
 ---

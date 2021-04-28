@@ -1,16 +1,23 @@
 ---
-title: It Was A Good Dream
-seoTitle: It Was A Good Dream im Interview - "Wir wollen Melodien schreiben"
+date: 2020-06-19T16:49:47.000Z
 slug: it-was-a-good-dream
 path: /2020/06/it-was-a-good-dream/
-fileName: 2020-06---it-was-a-good-dream.md
+type: Artikel
+typeName: Interview
+title: It Was A Good Dream
+seoTitle: It Was A Good Dream im Interview - "Wir wollen Melodien schreiben"
+ogTitle: It Was A Good Dream im Interview - "Wir wollen Melodien schreiben"
 description: Ich hatte jetzt die die großartige Chance, mich mit Chris und Alex
   von It Was A Good Dream über ihre Musik und ihren Schaffensprozess zu
   unterhalten.
 excerpt: English & German - Ich hatte jetzt die die großartige Chance, mich mit
   Chris und Alex von It Was A Good Dream über ihre Musik und ihren
   Schaffensprozess zu unterhalten.
-focusKeyword: It Was A Good Dream
+fileName: 2020-06---it-was-a-good-dream.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_it-was-a-good-dream-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_it-was-a-good-dream-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAFBwj/xAAoEAACAQMEAQMEAwAAAAAAAAABAgMEBREABhIhMQdBYRNRgaEyQsH/xAAYAQACAwAAAAAAAAAAAAAAAAAFBgIDBP/EACcRAAEDAgQFBQAAAAAAAAAAAAEAAgMRMQQSIWEFQVGB8DNxweHx/9oADAMBAAIRAxEAPwD0Bui4VFttTy0YRpwrOob+3Fc8R8nWVs+63mtmmW+rRJiMMq08TrxbOCORJDe3jGhvrbvauszRW+zrTtJGBLOZByyD5T4yPPv37aP7e9S7NDNRGiSr+lIAksMsvIwHodE+e8+/gffWHMxgLyenO334bI1BhZZQGhtwab+fl10/dV5vFNXQ09ieijbw4q4WkDZGeuJyOv8Adam1bhca+jzeI6aKp4hjHCSQp8EZPnsda4Rvf1ap13MsUFsqmghCO0qVAR3OCVwCCAMN2ezjx2NLvRv1Nk3Le6i2XWlhpp5E5U30iSOKj+Jz5OAe9SAz5XNPU9lXLEYwQ5tqe9eaMb+pnrLvdqmqkWGmafgrMwy3ZAI/A0Gg25R5c005M8mShHQXGe/1+9WrQCUGHRhND8lO2ByzsDntFW6DsEWvQU3BiWZmYcXJORkDAx+ANPvQm2rUb3FW00iCkVXRUOMnl1k/b4+dWrRzDekDslniBrI/cr//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_it-was-a-good-dream-fb.png__l.jpg
 labels:
   - Bands
   - Dunk Festival
@@ -24,17 +31,12 @@ labels:
   - Music
   - Musik
   - Post-Rock
-type: Artikel
-typeName: Interview
-date: 2020-06-19T16:49:47.000Z
+focusKeyword: It Was A Good Dream
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30048"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_it-was-a-good-dream-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_it-was-a-good-dream-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAFBwj/xAAoEAACAQMEAQMEAwAAAAAAAAABAgMEBREABhIhMQdBYRNRgaEyQsH/xAAYAQACAwAAAAAAAAAAAAAAAAAFBgIDBP/EACcRAAEDAgQFBQAAAAAAAAAAAAEAAgMRMQQSIWEFQVGB8DNxweHx/9oADAMBAAIRAxEAPwD0Bui4VFttTy0YRpwrOob+3Fc8R8nWVs+63mtmmW+rRJiMMq08TrxbOCORJDe3jGhvrbvauszRW+zrTtJGBLOZByyD5T4yPPv37aP7e9S7NDNRGiSr+lIAksMsvIwHodE+e8+/gffWHMxgLyenO334bI1BhZZQGhtwab+fl10/dV5vFNXQ09ieijbw4q4WkDZGeuJyOv8Adam1bhca+jzeI6aKp4hjHCSQp8EZPnsda4Rvf1ap13MsUFsqmghCO0qVAR3OCVwCCAMN2ezjx2NLvRv1Nk3Le6i2XWlhpp5E5U30iSOKj+Jz5OAe9SAz5XNPU9lXLEYwQ5tqe9eaMb+pnrLvdqmqkWGmafgrMwy3ZAI/A0Gg25R5c005M8mShHQXGe/1+9WrQCUGHRhND8lO2ByzsDntFW6DsEWvQU3BiWZmYcXJORkDAx+ANPvQm2rUb3FW00iCkVXRUOMnl1k/b4+dWrRzDekDslniBrI/cr//2Q==
 subTitle: '"Wir wollen Melodien schreiben"'
   
 ---

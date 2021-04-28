@@ -1,14 +1,21 @@
 ---
-title: Vegan in der Yakutien
-seoTitle: Vegan in Yakutien - zu Besuch am kältesten Ort der Erde
+date: 2015-01-24T11:55:03.000Z
 slug: vegan-in-der-kaelte
 path: /2015/01/vegan-in-der-kaelte/
-fileName: 2015-01---vegan-in-der-yakutien.md
+type: Artikel
+typeName: Artikel
+title: Vegan in der Yakutien
+seoTitle: Vegan in Yakutien - zu Besuch am kältesten Ort der Erde
+ogTitle: Vegan in Yakutien - zu Besuch am kältesten Ort der Erde
 description: Sebastian ist der 333ste Mensch, der den kältesten Ort der Erde in
   Yakutien bereist hat. Das Wort "vegan" ist dort vollkommen unbekannt.
 excerpt: Sebastian ist der 333ste Mensch, der den kältesten Ort der Erde in
   Yakutien bereist hat. Das Wort "vegan" ist dort vollkommen unbekannt.
-focusKeyword: Yakutien
+fileName: 2015-01---vegan-in-der-yakutien.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-23__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-23__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQHAQMF/8QAKhAAAgEDAgQEBwAAAAAAAAAAAQIDAAQRBSEGEjFxFBZhkSMyQVFywdH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EABsRAAICAwEAAAAAAAAAAAAAAAABAjEDEyFR/9oADAMBAAIRAxEAPwCnDi2f6tAT2P8Aa0ycVXLHaWEdlqbBuRmImZgdsY6VydT1OayvbC2QyzG7mMXMBsu2f37A1fpirIdkmVaXiS8YHFwg7KKX8x3Y+aWN/wAlqXDW5BqD2jxHlTOZ2kULkDJ26054ySUcwQgDOMPnPtRLFHwFzYytwXG3K2PTpSl1bC6uLaaQgNbuXTYY3GKKKeuiKMPp9pIzPLZ2sjnq5QEmldViiMKQmXw8THHwSE6A7Z+3pRRWlxHVZ//Z
+ogImage: null
 labels:
   - der kälteste Ort der Welt
   - Interviews
@@ -17,17 +24,12 @@ labels:
   - Sibirien
   - vegan in Yakutien
   - Yakutien
-type: Artikel
-typeName: Artikel
-date: 2015-01-24T11:55:03.000Z
+focusKeyword: Yakutien
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "9401"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-23__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-23__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQHAQMF/8QAKhAAAgEDAgQEBwAAAAAAAAAAAQIDAAQRBSEGEjFxFBZhkSMyQVFywdH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EABsRAAICAwEAAAAAAAAAAAAAAAABAjEDEyFR/9oADAMBAAIRAxEAPwCnDi2f6tAT2P8Aa0ycVXLHaWEdlqbBuRmImZgdsY6VydT1OayvbC2QyzG7mMXMBsu2f37A1fpirIdkmVaXiS8YHFwg7KKX8x3Y+aWN/wAlqXDW5BqD2jxHlTOZ2kULkDJ26054ySUcwQgDOMPnPtRLFHwFzYytwXG3K2PTpSl1bC6uLaaQgNbuXTYY3GKKKeuiKMPp9pIzPLZ2sjnq5QEmldViiMKQmXw8THHwSE6A7Z+3pRRWlxHVZ//Z
 subTitle: Zu Besuch am kältesten Ort der Erde
   
 ---

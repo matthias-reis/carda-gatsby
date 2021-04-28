@@ -1,16 +1,23 @@
 ---
-title: Kuhmilch immer unbeliebter
-seoTitle: Kuhmilch immer unbeliebter - Markt für pflanzliche Alternativen nimmt zu
+date: 2018-03-27T08:15:50.000Z
 slug: kuhmilch-immer-unbeliebter
 path: /2018/03/kuhmilch-immer-unbeliebter/
-fileName: 2018-03---kuhmilch-immer-unbeliebter.md
+type: Artikel
+typeName: Artikel
+title: Kuhmilch immer unbeliebter
+seoTitle: Kuhmilch immer unbeliebter - Markt für pflanzliche Alternativen nimmt zu
+ogTitle: Kuhmilch immer unbeliebter - Markt für pflanzliche Alternativen nimmt zu
 description: Einem Bericht der Albert Schweitzer Stiftung zufolge, nimmt das
   Interesse der Amerikaner an Kuhmilch immer mehr ab. Und wie sieht es bei uns
   aus?
 excerpt: Einem Bericht der Albert Schweitzer Stiftung zufolge, nimmt das
   Interesse der Amerikaner an Kuhmilch immer mehr ab. Und wie sieht es bei uns
   aus?
-focusKeyword: Kuhmilch
+fileName: 2018-03---kuhmilch-immer-unbeliebter.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_udder-562980_640__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_udder-562980_640__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EAC0QAAIBAwIFAgQHAAAAAAAAAAECAwQFEQASBhMhMUFRYRQVUnEXIiNCYoGh/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIBBf/EACARAQACAgEEAwAAAAAAAAAAAAEAEQIDEwQhMVESsfD/2gAMAwEAAhEDEQA/AIFyvdHbFRZamOSRjtVVJKg+51pqe3UlZw7Q3aku0lQHncTT8twqbVzy1jyCvY9Tk9vGuV0PDiMk0jSzc6UfnQsSpz/HtqTaxeeHRMlBJLUUXWV6LBdXO3bkDw2D3Hga5mnLt8gv1HbNRkUNM6lMrUccS1DAvJ1Gf3fb7edUt0gSeJg4XJHY6VFdpeKLBQwR0nw1TFNzJ3GSsSouAc++SOn06qLnBV0sSwUEhZ5ACWm6hRnx/WqNqlV4lYaK8tTafh/dk2yURoq/PRhC/LZR64fA/wB0xc+DuIqChlq1tk6xA/qpDJHJJj6gqnO31wc6NGlcJgXiwnKrTFWumhgpTBQ0i7VVTy1AUN3yfTydPXejpPliCEESKxcBnBKjAG0e3oPbRo0PpMlMl9n3N3KZFfu0/9k=
+ogImage: null
 labels:
   - Albert Schweitzer Stiftung
   - Cashewmilch
@@ -31,17 +38,12 @@ labels:
   - Tierschutz
   - vegan
   - vegane Ernährung
-type: Artikel
-typeName: Artikel
-date: 2018-03-27T08:15:50.000Z
+focusKeyword: Kuhmilch
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "20293"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_udder-562980_640__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_udder-562980_640__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EAC0QAAIBAwIFAgQHAAAAAAAAAAECAwQFEQASBhMhMUFRYRQVUnEXIiNCYoGh/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIBBf/EACARAQACAgEEAwAAAAAAAAAAAAEAEQIDEwQhMVESsfD/2gAMAwEAAhEDEQA/AIFyvdHbFRZamOSRjtVVJKg+51pqe3UlZw7Q3aku0lQHncTT8twqbVzy1jyCvY9Tk9vGuV0PDiMk0jSzc6UfnQsSpz/HtqTaxeeHRMlBJLUUXWV6LBdXO3bkDw2D3Hga5mnLt8gv1HbNRkUNM6lMrUccS1DAvJ1Gf3fb7edUt0gSeJg4XJHY6VFdpeKLBQwR0nw1TFNzJ3GSsSouAc++SOn06qLnBV0sSwUEhZ5ACWm6hRnx/WqNqlV4lYaK8tTafh/dk2yURoq/PRhC/LZR64fA/wB0xc+DuIqChlq1tk6xA/qpDJHJJj6gqnO31wc6NGlcJgXiwnKrTFWumhgpTBQ0i7VVTy1AUN3yfTydPXejpPliCEESKxcBnBKjAG0e3oPbRo0PpMlMl9n3N3KZFfu0/9k=
 subTitle: Markt für pflanzliche Alternativen nimmt zu
   
 ---

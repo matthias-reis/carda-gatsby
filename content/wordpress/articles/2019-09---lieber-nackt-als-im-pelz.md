@@ -1,14 +1,21 @@
 ---
-title: '"Lieber nackt als im Pelz!"'
-seoTitle: '"Lieber nackt als im Pelz" - 25 Jahre Lieblingsplakat'
+date: 2019-09-04T13:22:51.000Z
 slug: lieber-nackt-als-im-pelz
 path: /2019/09/lieber-nackt-als-im-pelz/
-fileName: 2019-09---lieber-nackt-als-im-pelz.md
+type: Artikel
+typeName: Artikel
+title: '"Lieber nackt als im Pelz!"'
+seoTitle: '"Lieber nackt als im Pelz" - 25 Jahre Lieblingsplakat'
+ogTitle: '"Lieber nackt als im Pelz" - 25 Jahre Lieblingsplakat'
 description: Es ist jetzt 25 Jahre her, seit mir zum ersten Mal die berühmte
   Pelzfrei-Kampagne "Lieber nackt als im Pelz" von PETA aufgefallen ist.
 excerpt: Es ist jetzt 25 Jahre her, seit mir zum ersten Mal die berühmte
   Pelzfrei-Kampagne "Lieber nackt als im Pelz" von PETA aufgefallen ist.
-focusKeyword: lieber nackt als im Pelz
+fileName: 2019-09---lieber-nackt-als-im-pelz.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_naomi-Models-rather-go-naked_A3_300__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_naomi-Models-rather-go-naked_A3_300__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcI/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBBEhAAUSBjFhExRxByJBUYGhwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDp6vYU8clRJUNHGq5BZVUebkef60r3SvnpaSu9oTPUQALGklQkYkZiO7cTxt8G+cHGpup52ipYvSkEbGVVduJYhD3wP3b486pgMr1fukoHp53qKaU1EEiSSmNbmSN1BZbjiASMH1FtlToGPUvV8nTe3VlbuNPOIYRDHCBWQB5pJBdgeQCrxHKxJzwPi9yo2WeGGeOeSSKSNWXlbIIuD286wb6l10lbHsXv9jqpoIVaeohekmIFQyC6CwCknkPu5WBD98DWudBPHT7DRbarFPa08aQwuSWEKqFUgnLrjDfwcjQWCZpAfsKgW/K3/wB1CfVLsS0Nxi/p5tf50aNAg3/etxoa+OCE0bRPGGYSQsTlrWw4/HjTKGneTffcTPE8cQdIU9EBosAGz97HNx27foaNGg//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_09_Design-ohne-Titel-3.png__l.jpg
 labels:
   - "1994"
   - Cruelty Free
@@ -35,17 +42,12 @@ labels:
   - vegan celebrities
   - veganes Leder
   - We'd rather go naked than wear fur
-type: Artikel
-typeName: Artikel
-date: 2019-09-04T13:22:51.000Z
+focusKeyword: lieber nackt als im Pelz
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "25938"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_naomi-Models-rather-go-naked_A3_300__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_naomi-Models-rather-go-naked_A3_300__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcI/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBBEhAAUSBjFhExRxByJBUYGhwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDp6vYU8clRJUNHGq5BZVUebkef60r3SvnpaSu9oTPUQALGklQkYkZiO7cTxt8G+cHGpup52ipYvSkEbGVVduJYhD3wP3b486pgMr1fukoHp53qKaU1EEiSSmNbmSN1BZbjiASMH1FtlToGPUvV8nTe3VlbuNPOIYRDHCBWQB5pJBdgeQCrxHKxJzwPi9yo2WeGGeOeSSKSNWXlbIIuD286wb6l10lbHsXv9jqpoIVaeohekmIFQyC6CwCknkPu5WBD98DWudBPHT7DRbarFPa08aQwuSWEKqFUgnLrjDfwcjQWCZpAfsKgW/K3/wB1CfVLsS0Nxi/p5tf50aNAg3/etxoa+OCE0bRPGGYSQsTlrWw4/HjTKGneTffcTPE8cQdIU9EBosAGz97HNx27foaNGg//2Q==
 subTitle: 25 Jahre Lieblingsplakat
   
 ---

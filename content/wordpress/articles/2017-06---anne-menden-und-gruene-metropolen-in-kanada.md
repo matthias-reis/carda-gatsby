@@ -1,33 +1,35 @@
 ---
-title: Anne Menden und grüne Metropolen in Kanada
-seoTitle: Anne Menden und grüne Metropolen in Kanada - Das Welt Vegan Magazin
+date: 2017-06-21T14:23:33.000Z
 slug: welt-vegan-magazin-2-2017-anne-menden
 path: /2017/06/welt-vegan-magazin-2-2017-anne-menden/
-fileName: 2017-06---anne-menden-und-gruene-metropolen-in-kanada.md
+type: Artikel
+typeName: Artikel
+title: Anne Menden und grüne Metropolen in Kanada
+seoTitle: Anne Menden und grüne Metropolen in Kanada - Das Welt Vegan Magazin
+ogTitle: Anne Menden und grüne Metropolen in Kanada - Das Welt Vegan Magazin
 description: Keine geringere als Schauspielerin Anne Menden berichtet in der
   aktuellen Ausgabe des Welt Vegan Magazins von Ihrer Arbeit als Sea Shepherd
   Aktivistin.
 excerpt: Keine geringere als Schauspielerin Anne Menden berichtet in der
   aktuellen Ausgabe des Welt Vegan Magazins von Ihrer Arbeit als Sea Shepherd
   Aktivistin.
-focusKeyword: Anne Menden
+fileName: 2017-06---anne-menden-und-gruene-metropolen-in-kanada.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35317507741_16f7736dd3_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35317507741_16f7736dd3_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcBBAIDBf/EAC4QAAIBAwIEAwcFAAAAAAAAAAECAwQFEQYhAAcSMRNBURQVIjJhcaEjJIGSsf/EABkBAAIDAQAAAAAAAAAAAAAAAAEDAAIEBf/EAB8RAAEEAgIDAAAAAAAAAAAAAAEAAhESAwQFEyFBkf/aAAwDAQACEQMRAD8Ay5ZWu33S7VcV0ikeCODxVEcojIbrVRufLc8MdNEaPnpFEhnhWLrOJKltgoJJJA8sH+p4AuT8rJdLgViimLUnSUlYhWHip3wD/nBZr66tTSado0hhh96VZjmqomD9GepnALADO2RkbksMY78zA2cd4C25uw5atKtVPLrSAEvQ88rwN+oiVjZTy3wPvwnte0NHbrpTQ0UDQQtTJMUdy56izjufoq8MfRGobhU3TUdrCUNT7tnhSGqchC6MOtfFZASxwTuBsfvsIc4/Hn1a0tWlPHL7JCWSBmZB82MFgD+ODsBvXMCVfFdr6uK52iau6wxXKWwSQpVJCC7SL1AR+IgbAG+e3b0PFbm/751HcdNGkmmlq6ZVUPTdTZnZ8iVT0gDZR6AdvrxHKm/UVpuNzluVRHDFJRNEjPII/iMiYwfUAE/xweLqmwUdD4UN6s0wVQAXrSer4RvufXPDeP8ADKO9pe1N7BC+lLPVaf1zrOSpNzltzuJEiinxHUFiCX6iwHUM4xnIDEb7cauatWJdSsDRzUf7GBhDMwLAYbB2Zvyc7dhwV0esLL7RNUJerJTyrAYYmNWrZOVyTuQPlOD9d+FtzEukNXfojTV0Naq0EMZmimEoJBbYt5sARng79Qyg+qazicklf//Z
+ogImage: null
 labels:
   - Anne Menden
   - Geschichten & Erlebtes
   - Sea Shepherd
   - vegan
   - Welt Vegan Magazin
-type: Artikel
-typeName: Artikel
-date: 2017-06-21T14:23:33.000Z
+focusKeyword: Anne Menden
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16874"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35317507741_16f7736dd3_k__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35317507741_16f7736dd3_k__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcBBAIDBf/EAC4QAAIBAwIEAwcFAAAAAAAAAAECAwQFEQYhAAcSMRNBURQVIjJhcaEjJIGSsf/EABkBAAIDAQAAAAAAAAAAAAAAAAEDAAIEBf/EAB8RAAEEAgIDAAAAAAAAAAAAAAEAAhESAwQFEyFBkf/aAAwDAQACEQMRAD8Ay5ZWu33S7VcV0ikeCODxVEcojIbrVRufLc8MdNEaPnpFEhnhWLrOJKltgoJJJA8sH+p4AuT8rJdLgViimLUnSUlYhWHip3wD/nBZr66tTSado0hhh96VZjmqomD9GepnALADO2RkbksMY78zA2cd4C25uw5atKtVPLrSAEvQ88rwN+oiVjZTy3wPvwnte0NHbrpTQ0UDQQtTJMUdy56izjufoq8MfRGobhU3TUdrCUNT7tnhSGqchC6MOtfFZASxwTuBsfvsIc4/Hn1a0tWlPHL7JCWSBmZB82MFgD+ODsBvXMCVfFdr6uK52iau6wxXKWwSQpVJCC7SL1AR+IgbAG+e3b0PFbm/751HcdNGkmmlq6ZVUPTdTZnZ8iVT0gDZR6AdvrxHKm/UVpuNzluVRHDFJRNEjPII/iMiYwfUAE/xweLqmwUdD4UN6s0wVQAXrSer4RvufXPDeP8ADKO9pe1N7BC+lLPVaf1zrOSpNzltzuJEiinxHUFiCX6iwHUM4xnIDEb7cauatWJdSsDRzUf7GBhDMwLAYbB2Zvyc7dhwV0esLL7RNUJerJTyrAYYmNWrZOVyTuQPlOD9d+FtzEukNXfojTV0Naq0EMZmimEoJBbYt5sARng79Qyg+qazicklf//Z
 subTitle: Das aktuelle Welt Vegan Magazin
   
 ---

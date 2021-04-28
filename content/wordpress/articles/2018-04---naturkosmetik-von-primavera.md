@@ -1,16 +1,23 @@
 ---
-title: Naturkosmetik von Primavera
-seoTitle: Beauty-Lieblinge - Primavera Naturkosmetik - Sensitivpflege mit Borretsch
+date: 2018-04-24T10:03:29.000Z
 slug: primavera-senstivpflege
 path: /2018/04/primavera-senstivpflege/
-fileName: 2018-04---naturkosmetik-von-primavera.md
+type: Artikel
+typeName: Produkttest
+title: Naturkosmetik von Primavera
+seoTitle: Beauty-Lieblinge - Primavera Naturkosmetik - Sensitivpflege mit Borretsch
+ogTitle: Beauty-Lieblinge - Primavera Naturkosmetik - Sensitivpflege mit Borretsch
 description: Heute möchte ich Euch ein paar neue Beauty Lieblinge aus meinem
   Badschrank vorstellen. Die Sensitivpflege von Primavera hat eine neue
   Rezeptur.
 excerpt: Werbung - Heute möchte ich Euch ein paar neue Beauty Lieblinge aus
   meinem Badschrank vorstellen. Die Sensitivpflege von Primavera hat eine neue
   Rezeptur.
-focusKeyword: Primavera
+fileName: 2018-04---naturkosmetik-von-primavera.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_40957055114_f035127450_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_40957055114_f035127450_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQIDB//EACkQAAIBAwMDBAEFAAAAAAAAAAECAwQFEQASIQYxQQcTFFEiFTIzYcH/xAAYAQACAwAAAAAAAAAAAAAAAAAAAwECBP/EAB4RAAIDAAIDAQAAAAAAAAAAAAECAAMRBBITITFh/9oADAMBAAIRAxEAPwBW6L6UN5mlio6qkR6elSdveXcCMlCpAU4wWyOOfvUjqWzzWG9CgMTTLTyxGeSBi8WwlGKlWxgBSxx5ydNnovOqXecfGaF56ZiEXDRsiuoDAjnPP+639bzlOouphG8eydYlJKg4AiRsqfByMay87k2cZe6DYm6zxjZzt4lufXclPGtJ8WSJUienOynklO0YQNkbzvYAnsR9DWXWfS1dZZ4f1AQyyS+4UeImUoEIXLcfuyox4/I9tWHTtQyy2Kn3KY5LtDU/xDdu3bcbvrHj7500+tddsuNqjCQPCUd5I2RXCn3OWKkflhd3GQSSO+mUXPYccZJrs7xS9MbzHbrlJJNcmp6MUyIRTuUIfgheF57t5JzqV1ZfrdS3G601B814ZBH7WyNmDZjA7475yNGjTbUNo6FiB+QsQOPcXbNeXW62KmnpqqnEVWjysY8GMBskhhnt9/1q29RLnS1V3SSjuUTxGMvP8mRnLyHIHABydvnHHGjRq66DmmCKF+T/2Q==
+ogImage: null
 labels:
   - Avocado
   - beauty
@@ -40,17 +47,12 @@ labels:
   - vegan
   - vegan beauty
   - Wellness
-type: Artikel
-typeName: Produkttest
-date: 2018-04-24T10:03:29.000Z
+focusKeyword: Primavera
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "20586"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_40957055114_f035127450_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_40957055114_f035127450_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQIDB//EACkQAAIBAwMDBAEFAAAAAAAAAAECAwQFEQASIQYxQQcTFFEiFTIzYcH/xAAYAQACAwAAAAAAAAAAAAAAAAAAAwECBP/EAB4RAAIDAAIDAQAAAAAAAAAAAAECAAMRBBITITFh/9oADAMBAAIRAxEAPwBW6L6UN5mlio6qkR6elSdveXcCMlCpAU4wWyOOfvUjqWzzWG9CgMTTLTyxGeSBi8WwlGKlWxgBSxx5ydNnovOqXecfGaF56ZiEXDRsiuoDAjnPP+639bzlOouphG8eydYlJKg4AiRsqfByMay87k2cZe6DYm6zxjZzt4lufXclPGtJ8WSJUienOynklO0YQNkbzvYAnsR9DWXWfS1dZZ4f1AQyyS+4UeImUoEIXLcfuyox4/I9tWHTtQyy2Kn3KY5LtDU/xDdu3bcbvrHj7500+tddsuNqjCQPCUd5I2RXCn3OWKkflhd3GQSSO+mUXPYccZJrs7xS9MbzHbrlJJNcmp6MUyIRTuUIfgheF57t5JzqV1ZfrdS3G601B814ZBH7WyNmDZjA7475yNGjTbUNo6FiB+QsQOPcXbNeXW62KmnpqqnEVWjysY8GMBskhhnt9/1q29RLnS1V3SSjuUTxGMvP8mRnLyHIHABydvnHHGjRq66DmmCKF+T/2Q==
 subTitle: Sensitivpflege mit Manuka und Borretsch
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: Bali aus dem Autofenster
-seoTitle: Bali aus dem Autofenster
+date: 2013-08-01T16:30:26.000Z
 slug: bali-aus-dem-autofenster
 path: /2013/08/bali-aus-dem-autofenster/
-fileName: 2013-08---bali-aus-dem-autofenster.md
+type: Artikel
+typeName: Artikel
+title: Bali aus dem Autofenster
+seoTitle: Bali aus dem Autofenster
+ogTitle: Bali aus dem Autofenster
 description: Heute geht es weiter mit den Bildern unserer Bali-Reise. Aus dem
   Fenster eines fahrenden Wagens ergibt sich eine interessante Fotoperspektive.
 excerpt: Während unserer Rundreise auf Bali habe ich ein paar meiner Bilder
   während der Fahrt durch das Autofenster aufgenommen.
-focusKeyword: Bali
+fileName: 2013-08---bali-aus-dem-autofenster.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_5143__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_5143__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQgBBv/EACsQAAEDAwMDAgYDAAAAAAAAAAECAwQABRESITEGB0ETYRQVIjJCUXGBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAIDAAH/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIREjGRscH/2gAMAwEAAhEDEQA/AEj2v6NvvWc6YzY47chUZoOLS66EZydgknYnYnGRsDTF6L7SX3qu0N3KE5CiwnMaHJa1tawdgU4QQdwRznI4rzPaLuDN6KuMxxqO3Itb60OLik6VeqgHQpKvHlJ8YUds0xemu+Uaw2ePA+Uy347DjriG9SMNgrK0AZO5GceP3U85ptY9C1opGuyN6k3yZbn5TzPwwWS8m2SPSXpHCHFJCVknAAHPjikgy5L1OFeUBtQQpKk7hRzsffY1rS2d/LdfGRHbbuDd0UwpwMFGlKiPx1pPHvj281nTqNlb7klbJjes9KVJkBTqUfUr+TnlRpQcpK3GuPA2UkXaS6kcEBX91KcTgA5ooqhiNEccYmoWy4pBw62dJxkFOcVwJTq+1P8AlFFE6j//2Q==
+ogImage: null
 labels:
   - Auto Bali
   - Bali
@@ -18,17 +25,12 @@ labels:
   - Fotosafari
   - Straße
   - Urlaub Bali
-type: Artikel
-typeName: Artikel
-date: 2013-08-01T16:30:26.000Z
+focusKeyword: Bali
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "6263"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_5143__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_5143__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQgBBv/EACsQAAEDAwMDAgYDAAAAAAAAAAECAwQABRESITEGB0ETYRQVIjJCUXGBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAIDAAH/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIREjGRscH/2gAMAwEAAhEDEQA/AEj2v6NvvWc6YzY47chUZoOLS66EZydgknYnYnGRsDTF6L7SX3qu0N3KE5CiwnMaHJa1tawdgU4QQdwRznI4rzPaLuDN6KuMxxqO3Itb60OLik6VeqgHQpKvHlJ8YUds0xemu+Uaw2ePA+Uy347DjriG9SMNgrK0AZO5GceP3U85ptY9C1opGuyN6k3yZbn5TzPwwWS8m2SPSXpHCHFJCVknAAHPjikgy5L1OFeUBtQQpKk7hRzsffY1rS2d/LdfGRHbbuDd0UwpwMFGlKiPx1pPHvj281nTqNlb7klbJjes9KVJkBTqUfUr+TnlRpQcpK3GuPA2UkXaS6kcEBX91KcTgA5ooqhiNEccYmoWy4pBw62dJxkFOcVwJTq+1P8AlFFE6j//2Q==
 subTitle: "Unsere große Reise - Teil IV: Bali aus dem Autofenster"
   
 ---

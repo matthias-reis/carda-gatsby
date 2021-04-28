@@ -1,15 +1,22 @@
 ---
-title: Richtfest, Hebauf oder Firstbier
-seoTitle: Richtfest, Hebauf oder Firstbier - Tradition auf dem Bau
+date: 2009-05-08T15:04:29.000Z
 slug: richtfest
 path: /2009/05/richtfest/
-fileName: 2009-05---richtfest-hebauf-oder-firstbier.md
+type: Meme
+typeName: Meme
+title: Richtfest, Hebauf oder Firstbier
+seoTitle: Richtfest, Hebauf oder Firstbier - Tradition auf dem Bau
+ogTitle: Richtfest, Hebauf oder Firstbier - Tradition auf dem Bau
 description: Das Richtfest wird auch als Firstbier, Hebefest, Weihefest,
   Bauheben, Fensterbeer oder Aufschlagfest bezeichnet. Regional ist das ganz
   unterschiedlich.
 excerpt: Das Richtfest wird auch als Firstbier, Hebefest, Weihefest, Bauheben,
   Fensterbeer oder Aufschlagfest bezeichnet.
-focusKeyword: Richtfest
+fileName: 2009-05---richtfest-hebauf-oder-firstbier.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_05_Richtfest__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_05_Richtfest__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBQYH/8QAJxAAAgIBAwQCAQUAAAAAAAAAAQIDBBEAEiEFBjFBBxMyJEJRYXH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAgH/xAAdEQEAAgICAwAAAAAAAAAAAAABAAIRMQMSEzJB/9oADAMBAAIRAxEAPwBS1WgMBtIQka/lk/jqioyWLF7hdqE4yORx6zrU2636KxGih8qRt3Absar+2ujNv+3axIyWGeS3o8DxjSfJZ7gah1fVfsYjhZiBt59Y1MQyQuHj4I96X7rmmhpdbop0oSTV6KWPtMjgyB3VRGACADls7sZ5GD6Osq0GtVkkESosiq6oAzFQQD5xz51TzVzib40BnE4u+uvvZWvNcDo6tuxGq5G0n+P61Kl8m901ULRXwCNv7API0aNCWvZ2xOtQ0SNv5H69ekeS4ak7yBUdpIclgrBlB55wVBH+DTU/yV3FHZWpHNAsMLiOJQrAIBwMANjgaNGpyy5//9k=
+ogImage: null
 labels:
   - Aichach
   - Altbayern
@@ -19,17 +26,12 @@ labels:
   - Firstbier
   - Hebauf
   - Richtfest
-type: Meme
-typeName: Meme
-date: 2009-05-08T15:04:29.000Z
+focusKeyword: Richtfest
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11362"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_05_Richtfest__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_05_Richtfest__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBQYH/8QAJxAAAgIBAwQCAQUAAAAAAAAAAQIDBBEAEiEFBjFBBxMyJEJRYXH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAgH/xAAdEQEAAgICAwAAAAAAAAAAAAABAAIRMQMSEzJB/9oADAMBAAIRAxEAPwBS1WgMBtIQka/lk/jqioyWLF7hdqE4yORx6zrU2636KxGih8qRt3Absar+2ujNv+3axIyWGeS3o8DxjSfJZ7gah1fVfsYjhZiBt59Y1MQyQuHj4I96X7rmmhpdbop0oSTV6KWPtMjgyB3VRGACADls7sZ5GD6Osq0GtVkkESosiq6oAzFQQD5xz51TzVzib40BnE4u+uvvZWvNcDo6tuxGq5G0n+P61Kl8m901ULRXwCNv7API0aNCWvZ2xOtQ0SNv5H69ekeS4ak7yBUdpIclgrBlB55wVBH+DTU/yV3FHZWpHNAsMLiOJQrAIBwMANjgaNGpyy5//9k=
 subTitle: Tradition auf dem Bau
   
 ---

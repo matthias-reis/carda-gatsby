@@ -1,14 +1,21 @@
 ---
-title: Desi von Daisy Kindermoden
-seoTitle: Interview mit Desi von Daisy Kindermoden
+date: 2015-08-11T11:55:52.000Z
 slug: interview-mit-desi-von-daisy-kindermoden
 path: /2015/08/interview-mit-desi-von-daisy-kindermoden/
-fileName: 2015-08---desi-von-daisy-kindermoden.md
+type: Artikel
+typeName: Interview
+title: Desi von Daisy Kindermoden
+seoTitle: Interview mit Desi von Daisy Kindermoden
+ogTitle: Interview mit Desi von Daisy Kindermoden
 description: Ich habe mich mit der Modeschöpferin Desi von Daisy Kindermoden zum
   Interview verabredet.
 excerpt: Ich habe mich mit der jungen Modedesignerin Desi zum Interview
   verabredet. Sie hat mir einige interessante Details aus ihrem Leben verraten.
-focusKeyword: Kindermoden
+fileName: 2015-08---desi-von-daisy-kindermoden.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_11053116_955034747861012_5276487313995891046_n__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_08_11053116_955034747861012_5276487313995891046_n__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBwT/xAAqEAABAwMDAgYCAwAAAAAAAAABAgMEBREhAAYSEzEUIjJBUXFCYSMkgf/EABcBAQADAAAAAAAAAAAAAAAAAAQBAwX/xAAfEQACAQMFAQAAAAAAAAAAAAABAgADERITITJBUTH/2gAMAwEAAhEDEQA/ALCpVGVTqFVaq7JbdYbYJbCEBPA8SE2Vf9jHe+sA2Y0luowKiDU35zchtwGKD/GouBN1LPcnJ+jrVdxT3Zu3I1JpSlO1XiiQX2o6kJmsoJ42B8q88TkG/bUhW4Bpr0OZTETIUFboaqLrMbppaeChlCVlIB9VhYAdr9tXUnHEdxZQ8mm1JqEWOqzXmN/WV81H7JN9ENUFgSsKB+BqJ2xUhU43QdeUZJUS3J42adTfAsMpNrZyD7/OuuZOEGUuNMu0+j1NuJKSfq/f7GNQFUnHuGcuova4jncdOYnNGQoqMO4WoIy7EdP5C3Yn57L7HOofcUmvMMVKLMdMnwTHVjygQUPsgjklX5FXE4GCMg+2rJmWUvyJlJHOWG1vSqctV0vC11dIHBSbG6PY5H6RzWHdybZqLNNsYcpaUSuu1xXBUVAlSRyuocQADfJsFWwdBomzAn5NB91Ih6FAYmbfpjO6KYph9bCVMzYw4OFJF09vKuwP2PfOu6XC3DTIP9R+Luiipx4eUkLcQPgA+YH6P+aT7sfrtLoxUKnHiUNTXTD8OOlxtLqcpLzSklSAUjjdBBBzkY0bYdTfl0qJLelIiTFICvDyFFp0kJBUpBUAlSScgXvb50zUOGZsR5CmkMttj7P/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2015_08_11053116_955034747861012_5276487313995891046_n__l.jpg
 labels:
   - Bodensee
   - Daisy
@@ -22,17 +29,12 @@ labels:
   - Mode
   - Mode für Kinder
   - Modeschöpferin
-type: Artikel
-typeName: Interview
-date: 2015-08-11T11:55:52.000Z
+focusKeyword: Kindermoden
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "12193"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_11053116_955034747861012_5276487313995891046_n__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_08_11053116_955034747861012_5276487313995891046_n__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBwT/xAAqEAABAwMDAgYCAwAAAAAAAAABAgMEBREhAAYSEzEUIjJBUXFCYSMkgf/EABcBAQADAAAAAAAAAAAAAAAAAAQBAwX/xAAfEQACAQMFAQAAAAAAAAAAAAABAgADERITITJBUTH/2gAMAwEAAhEDEQA/ALCpVGVTqFVaq7JbdYbYJbCEBPA8SE2Vf9jHe+sA2Y0luowKiDU35zchtwGKD/GouBN1LPcnJ+jrVdxT3Zu3I1JpSlO1XiiQX2o6kJmsoJ42B8q88TkG/bUhW4Bpr0OZTETIUFboaqLrMbppaeChlCVlIB9VhYAdr9tXUnHEdxZQ8mm1JqEWOqzXmN/WV81H7JN9ENUFgSsKB+BqJ2xUhU43QdeUZJUS3J42adTfAsMpNrZyD7/OuuZOEGUuNMu0+j1NuJKSfq/f7GNQFUnHuGcuova4jncdOYnNGQoqMO4WoIy7EdP5C3Yn57L7HOofcUmvMMVKLMdMnwTHVjygQUPsgjklX5FXE4GCMg+2rJmWUvyJlJHOWG1vSqctV0vC11dIHBSbG6PY5H6RzWHdybZqLNNsYcpaUSuu1xXBUVAlSRyuocQADfJsFWwdBomzAn5NB91Ih6FAYmbfpjO6KYph9bCVMzYw4OFJF09vKuwP2PfOu6XC3DTIP9R+Luiipx4eUkLcQPgA+YH6P+aT7sfrtLoxUKnHiUNTXTD8OOlxtLqcpLzSklSAUjjdBBBzkY0bYdTfl0qJLelIiTFICvDyFFp0kJBUpBUAlSScgXvb50zUOGZsR5CmkMttj7P/2Q==
 subTitle: '"Ich möchte praktische und schicke Kleidung für Kinder machen!"'
   
 ---

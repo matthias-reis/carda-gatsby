@@ -1,17 +1,25 @@
 ---
+date: 2018-03-22T08:18:13.000Z
+slug: 10-alben-keine-erklaerung-teil-3
+path: /2018/03/10-alben-keine-erklaerung-teil-3/
+type: Artikel
+typeName: Artikel
 title: 10 Alben - Keine Erklärung - Teil 3/3
 seoTitle: 10 Alben - Keine Erklärung - Lieblingsschallplatten eines ganz
   besonderen Menschen
-slug: 10-alben-keine-erklaerung-teil-3
-path: /2018/03/10-alben-keine-erklaerung-teil-3/
-fileName: 2018-03---10-alben-keine-erklaerung-teil-3-3.md
+ogTitle: 10 Alben - Keine Erklärung - Lieblingsschallplatten eines ganz
+  besonderen Menschen
 description: Vor sieben Jahren fing alles damit an, dass Du meine
   Lieblingsplatten in den höchsten Tönen gelobt hast. Hier sind Deine liebsten
   10 Alben aller Zeiten.
 excerpt: Vor sieben Jahren fing alles damit an, dass Du meine Lieblingsplatten
   in den höchsten Tönen gelobt hast. Hier sind Deine liebsten 10 Alben aller
   Zeiten.
-focusKeyword: 10 Alben
+fileName: 2018-03---10-alben-keine-erklaerung-teil-3-3.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_Matze__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_Matze__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAb/xAArEAACAQMEAgADCQAAAAAAAAABAgMEBREABhIhMUETIqEUFjJCUWFxscH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQEG/8QAIhEAAQMDAwUAAAAAAAAAAAAAAQACAwQREiExYQUTMoHR/9oADAMBAAIRAxEAPwCJbe2jQ3K0rWc53ndBxpgD8x7BIPsAj666nZyQWKyVi1DQgx1rxhalevwqcdjoj/fGldv2tEtHTSQ0255uCh5JKVhDGGOCVRXXl1nBPs+BpJPV1dtuc9ntlTJMssw4tLTnMiN2WYN2CMdjHrzjW1E8M0eEYsRvrwkQ00tM/uS+J4VPkv8ABZqyjqblQEU7grKkScWaNxhZF6wQRnrP9a4vcu3/ALBdZqyKsirbVP1Syxg/EZCnJS0ZGRgdH9D51m3BWVz3IUUk8NzSCm+SePlEPhRnirIRg4B5dd/TT7ZVDb73WNT7hprxXuxQU9PS3F1LyZx5fP5R1479ganhuJzvb4lXMl8Wk2Sb78bskpzG+4K1knghgbLdhI8FAD5BBAORgn3pLd79dbzuKS73iterrHQUzuQE5Jxxjr9jo0aY4CxRXE6LBbZmqbwrdqixmNVLFsLy8ZP86pmyq+Sz3yCvgUNJD2FPv1o0an1m3pdD0JofG8OX/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2018_03_Matze__l.jpg
 labels:
   - A Perfect Circle
   - And You Will Know Us By The Trail Of Dead
@@ -43,17 +51,12 @@ labels:
   - The Mars Volta
   - Trail Of Dead
   - Worlds Apart
-type: Artikel
-typeName: Artikel
-date: 2018-03-22T08:18:13.000Z
+focusKeyword: 10 Alben
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "20205"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_Matze__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_Matze__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAb/xAArEAACAQMEAgADCQAAAAAAAAABAgMEBREABhIhMUETIqEUFjJCUWFxscH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQEG/8QAIhEAAQMDAwUAAAAAAAAAAAAAAQACAwQREiExYQUTMoHR/9oADAMBAAIRAxEAPwCJbe2jQ3K0rWc53ndBxpgD8x7BIPsAj666nZyQWKyVi1DQgx1rxhalevwqcdjoj/fGldv2tEtHTSQ0255uCh5JKVhDGGOCVRXXl1nBPs+BpJPV1dtuc9ntlTJMssw4tLTnMiN2WYN2CMdjHrzjW1E8M0eEYsRvrwkQ00tM/uS+J4VPkv8ABZqyjqblQEU7grKkScWaNxhZF6wQRnrP9a4vcu3/ALBdZqyKsirbVP1Syxg/EZCnJS0ZGRgdH9D51m3BWVz3IUUk8NzSCm+SePlEPhRnirIRg4B5dd/TT7ZVDb73WNT7hprxXuxQU9PS3F1LyZx5fP5R1479ganhuJzvb4lXMl8Wk2Sb78bskpzG+4K1knghgbLdhI8FAD5BBAORgn3pLd79dbzuKS73iterrHQUzuQE5Jxxjr9jo0aY4CxRXE6LBbZmqbwrdqixmNVLFsLy8ZP86pmyq+Sz3yCvgUNJD2FPv1o0an1m3pdD0JofG8OX/9k=
 subTitle: Matzes ultimative Lieblingsplattenliste
   
 ---

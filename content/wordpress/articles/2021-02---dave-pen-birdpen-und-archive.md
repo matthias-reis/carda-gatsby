@@ -1,15 +1,22 @@
 ---
-title: Dave Pen BirdPen & Archive
-seoTitle: Dave Pen von BirdPen & Archive im Interview – "All Function One"
+date: 2021-02-04T10:41:04.000Z
 slug: dave-pen-birdpen-archive-interview
 path: /2021/02/dave-pen-birdpen-archive-interview/
-fileName: 2021-02---dave-pen-birdpen-und-archive.md
+type: Artikel
+typeName: Interview
+title: Dave Pen BirdPen & Archive
+seoTitle: Dave Pen von BirdPen & Archive im Interview – "All Function One"
+ogTitle: Dave Pen von BirdPen & Archive im Interview – "All Function One"
 description: Dave Pen habe ich 2004 das erste Mal live auf der Bühne gesehen.
   Die Musik seiner Projekte Archive und BirdPen fasziniert mich schon lange.
 excerpt: English & German – Dave Pen habe ich 2004 das erste Mal live auf der
   Bühne gesehen. Die Musik seiner Projekte Archive und BirdPen fasziniert mich
   schon lange.
-focusKeyword: BirdPen
+fileName: 2021-02---dave-pen-birdpen-und-archive.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_dave-pen__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_dave-pen__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBQb/xAAqEAABAwQBAwMDBQAAAAAAAAABAgMFAAQGEQcSITETFBUIQWEzQlFx8f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCqaXXK3IdxidzEw0BG/K5NLKItLZSihtKQe61n+O/j+zsAUxaUfK8S4znkBkTzDlzYN2dxYaQst+3eWQpDhUPAOin/AGg1eNM+k5yek8ZyyKZjMkj2UXKhbO+ow+yo660HyNEgEbPnz9gx6SXHUf8AJ8piYt2PbiwjHWbl0PF0vuPOhQTs/ZPST+DTtoOO5cy9WDYBKTjLTb12ylLdu05vpU6tQSneu+hvZHbYBqI5jkrL5fIGZm+nbly8tyr0U6SGWwoFKkhrXRog6OwSR5JoooMeSy2dvJpqVclbhi/aR6TLlor23oo2T0oDegkbJP5NVj9K3IEtmEFLx+QXary7i1tFu5c/UcacCtBR/cQUHv57jdFFB//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_dave-pen-fb.png__l.jpg
 labels:
   - Abbey Road Studios
   - Alternative
@@ -25,17 +32,12 @@ labels:
   - Mike Bird
   - Musik
   - Trip Hop
-type: Artikel
-typeName: Interview
-date: 2021-02-04T10:41:04.000Z
+focusKeyword: BirdPen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32743"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_dave-pen__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_dave-pen__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBQb/xAAqEAABAwQBAwMDBQAAAAAAAAABAgMFAAQGEQcSITETFBUIQWEzQlFx8f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCqaXXK3IdxidzEw0BG/K5NLKItLZSihtKQe61n+O/j+zsAUxaUfK8S4znkBkTzDlzYN2dxYaQst+3eWQpDhUPAOin/AGg1eNM+k5yek8ZyyKZjMkj2UXKhbO+ow+yo660HyNEgEbPnz9gx6SXHUf8AJ8piYt2PbiwjHWbl0PF0vuPOhQTs/ZPST+DTtoOO5cy9WDYBKTjLTb12ylLdu05vpU6tQSneu+hvZHbYBqI5jkrL5fIGZm+nbly8tyr0U6SGWwoFKkhrXRog6OwSR5JoooMeSy2dvJpqVclbhi/aR6TLlor23oo2T0oDegkbJP5NVj9K3IEtmEFLx+QXary7i1tFu5c/UcacCtBR/cQUHv57jdFFB//Z
 subTitle: '"All Function One"'
   
 ---

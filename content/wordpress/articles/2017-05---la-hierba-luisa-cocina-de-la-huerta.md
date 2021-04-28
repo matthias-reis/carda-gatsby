@@ -1,17 +1,25 @@
 ---
+date: 2017-05-19T08:13:14.000Z
+slug: la-hierba-luisa-cocina-de-la-huerta
+path: /2017/05/la-hierba-luisa-cocina-de-la-huerta/
+type: Artikel
+typeName: Artikel
 title: La Hierba Luisa - Cocina de la Huerta
 seoTitle: La Hierba Luisa - Cocina de la Huerta - Eine vegane Oase im Herzen von
   Las Palmas
-slug: la-hierba-luisa-cocina-de-la-huerta
-path: /2017/05/la-hierba-luisa-cocina-de-la-huerta/
-fileName: 2017-05---la-hierba-luisa-cocina-de-la-huerta.md
+ogTitle: La Hierba Luisa - Cocina de la Huerta - Eine vegane Oase im Herzen von
+  Las Palmas
 description: Heute möchte ich Euch das La Hierba Luisa vorstellen. Eine
   gemütliche Oase in Gran Canarias Hauptstadt. Hier gibt es unter anderem
   hausgemachte Pasta.
 excerpt: Heute möchte ich Euch das La Hierba Luisa vorstellen. Eine gemütliche
   Oase in Gran Canarias Hauptstadt. Hier gibt es unter anderem hausgemachte
   Pasta.
-focusKeyword: La Hierba Luisa
+fileName: 2017-05---la-hierba-luisa-cocina-de-la-huerta.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34750163775_044eb4fe97_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34750163775_044eb4fe97_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAcG/8QAJxAAAgEDAwQCAgMAAAAAAAAAAQIDAAQRBRIhBhMxQSJhFoEykbH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EACERAAEDAgcBAAAAAAAAAAAAAAEAAhEDEiEiMUFRcbFh/9oADAMBAAIRAxEAPwDK42sZLS0E6JHeAuJu3EQMgjAyM+s/3TWaytgsyiO5eftjtgWLDEhIJ3F/5DGRxj0ao6FHP+RtZ6ctwpbaoIcfAhQWDZB4+8ZrrINUhh6hu7W/e4lvY7ZZHm7sbLs443cY8jzQ3E5XffZ4SUrXNnrztJpOlbi4RpNNumaNVEcontltmEu0F1AKngE4z7pLruhXcOipCYg8yMCyiTPs++M+a0DSp7681Oz1ApHHpaRSiRIp94dmI2t5+X2av6+bdL2d3jRo+3jbjjlRiqKQAahqarFtMums9TeWLcHEDYKttIz55H1mmUXUmoPNJLDcTQquMIH3cY8Enk/uiip2YiCqHjdNZupr+CYxM/cHnk4HHrA/dR6p1Rdzq7SxxHOFwMjjb/vFFFKwxICBy//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34750163775_044eb4fe97_k__l.jpg
 labels:
   - ein verdammt guter Kaffee
   - Fernweh
@@ -33,17 +41,12 @@ labels:
   - Vegane Lokale
   - vegane Lokale
   - veganer Wein
-type: Artikel
-typeName: Artikel
-date: 2017-05-19T08:13:14.000Z
+focusKeyword: La Hierba Luisa
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16694"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34750163775_044eb4fe97_k__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34750163775_044eb4fe97_k__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAcG/8QAJxAAAgEDAwQCAgMAAAAAAAAAAQIDAAQRBRIhBhMxQSJhFoEykbH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EACERAAEDAgcBAAAAAAAAAAAAAAEAAhEDEiEiMUFRcbFh/9oADAMBAAIRAxEAPwDK42sZLS0E6JHeAuJu3EQMgjAyM+s/3TWaytgsyiO5eftjtgWLDEhIJ3F/5DGRxj0ao6FHP+RtZ6ctwpbaoIcfAhQWDZB4+8ZrrINUhh6hu7W/e4lvY7ZZHm7sbLs443cY8jzQ3E5XffZ4SUrXNnrztJpOlbi4RpNNumaNVEcontltmEu0F1AKngE4z7pLruhXcOipCYg8yMCyiTPs++M+a0DSp7681Oz1ApHHpaRSiRIp94dmI2t5+X2av6+bdL2d3jRo+3jbjjlRiqKQAahqarFtMums9TeWLcHEDYKttIz55H1mmUXUmoPNJLDcTQquMIH3cY8Enk/uiip2YiCqHjdNZupr+CYxM/cHnk4HHrA/dR6p1Rdzq7SxxHOFwMjjb/vFFFKwxICBy//Z
 subTitle: Eine vegane Oase im Herzen von Las Palmas
   
 ---

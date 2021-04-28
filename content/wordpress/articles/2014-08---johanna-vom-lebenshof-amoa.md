@@ -1,15 +1,22 @@
 ---
-title: Johanna vom Lebenshof Amoa
-seoTitle: Lebenshof und Zuhause - AMOA - Interview mit einer Tierschützerin
+date: 2014-08-12T13:46:59.000Z
 slug: amoa-lebenshof-und-zuhause
 path: /2014/08/amoa-lebenshof-und-zuhause/
-fileName: 2014-08---johanna-vom-lebenshof-amoa.md
+type: Artikel
+typeName: Interview
+title: Johanna vom Lebenshof Amoa
+seoTitle: Lebenshof und Zuhause - AMOA - Interview mit einer Tierschützerin
+ogTitle: AMOA - Lebenshof und Zuhause
 description: AMOA ist ein Lebenshof für Tiere und das Zuhause von Johanna und
   ihrer Familie. Ich habe mich mit der fröhlichen Buddhistin unterhalten - Ein
   Inteview
 excerpt: AMOA ist ein Lebenshof für Tiere und das Zuhause von Johanna und ihrer
   Familie. Ich habe mich mit der fröhlichen Buddhistin unterhalten.
-focusKeyword: Lebenshof
+fileName: 2014-08---johanna-vom-lebenshof-amoa.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_maxi-mumm-und-mini-v-l-n-r__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_maxi-mumm-und-mini-v-l-n-r__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQDBQEGB//EACgQAAEDBAEDBAIDAAAAAAAAAAECAwQFERIhAAYTMRQiQVEyQhVhcf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEF/8QAHREBAAMAAQUAAAAAAAAAAAAAAQACERIDISMxQf/aAAwDAQACEQMRAD8ARc/i4nT8Ga4hsFRcS80w4CDdRCAQb4gpPjV+MU+lUuoUt1j1MYSHsWu9EeQrvN5BXuJuPKbg2v4/zmkT09SUHqGZGiQuwiWy3cLjh3uqbAUWyfu6vi2jyF+PMFSaNAS4tKFrW+1FC2lNK9qMVqucUk28btc8x3pAbW0eU3XcnQJfTstMePTkk+rRZXbbBUpxIVjtX7jE2B/U2Pzy1qPS8mmdO1N5bSnZzXp7pjpzzRdVzj+Vr2vvX1q/Kd6tVGiOt0QzJK4qZKqa4469djJTLaw4VEZYklQb/o2JPjksXraHX50ujfi8yhtEUsuk96xDhPjYASvX2R98HyBmaSii95RwKNNj+sCErmJKlN92M/YHwApKchvYIsDob48HJ1MsinqlSi+53HV5KW9klASMwFEi2Ogb7vrhw4nmsjXPUYnuVSZT1w33uxHcaDb7MqKFAknEG1wApWzo6J+PjIRMarLNRhsQWnWnQrvNUxtlTZHi5SSd5G40m3m54cODzSCqfZ//2Q==
+ogImage: null
 labels:
   - amoa
   - behinderte tiere
@@ -36,18 +43,13 @@ labels:
   - vegan
   - Veganismus
   - veganismus und buddhismus
-type: Artikel
-typeName: Interview
-date: 2014-08-12T13:46:59.000Z
+focusKeyword: Lebenshof
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "8386"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_maxi-mumm-und-mini-v-l-n-r__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_maxi-mumm-und-mini-v-l-n-r__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQDBQEGB//EACgQAAEDBAEDBAIDAAAAAAAAAAECAwQFERIhAAYTMRQiQVEyQhVhcf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEF/8QAHREBAAMAAQUAAAAAAAAAAAAAAQACERIDISMxQf/aAAwDAQACEQMRAD8ARc/i4nT8Ga4hsFRcS80w4CDdRCAQb4gpPjV+MU+lUuoUt1j1MYSHsWu9EeQrvN5BXuJuPKbg2v4/zmkT09SUHqGZGiQuwiWy3cLjh3uqbAUWyfu6vi2jyF+PMFSaNAS4tKFrW+1FC2lNK9qMVqucUk28btc8x3pAbW0eU3XcnQJfTstMePTkk+rRZXbbBUpxIVjtX7jE2B/U2Pzy1qPS8mmdO1N5bSnZzXp7pjpzzRdVzj+Vr2vvX1q/Kd6tVGiOt0QzJK4qZKqa4469djJTLaw4VEZYklQb/o2JPjksXraHX50ujfi8yhtEUsuk96xDhPjYASvX2R98HyBmaSii95RwKNNj+sCErmJKlN92M/YHwApKchvYIsDob48HJ1MsinqlSi+53HV5KW9klASMwFEi2Ogb7vrhw4nmsjXPUYnuVSZT1w33uxHcaDb7MqKFAknEG1wApWzo6J+PjIRMarLNRhsQWnWnQrvNUxtlTZHi5SSd5G40m3m54cODzSCqfZ//2Q==
 subTitle: '"Der Schutz und die Rechte der Tiere stehen an erster Stelle"'
   
 ---

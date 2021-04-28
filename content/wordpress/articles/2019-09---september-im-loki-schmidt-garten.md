@@ -1,14 +1,21 @@
 ---
-title: September im Loki Schmidt Garten
-seoTitle: September im Loki Schmidt Garten - Bienen und Blumen
+date: 2019-09-19T13:29:38.000Z
 slug: september-im-loki-schmidt-garten
 path: /2019/09/september-im-loki-schmidt-garten/
-fileName: 2019-09---september-im-loki-schmidt-garten.md
+type: Galerie
+typeName: Galerie
+title: September im Loki Schmidt Garten
+seoTitle: September im Loki Schmidt Garten - Bienen und Blumen
+ogTitle: September im Loki Schmidt Garten - Bienen und Blumen
 description: Wenn in Hamburg an einem freien Tag die Sonne scheint, ist es eine
   gute Idee, gleich morgens in den Loki Schmidt Garten aufzubrechen.
 excerpt: Wenn in Hamburg an einem freien Tag die Sonne scheint, ist es eine gute
   Idee, gleich morgens in den Loki Schmidt Garten aufzubrechen.
-focusKeyword: Loki Schmidt Garten
+fileName: 2019-09---september-im-loki-schmidt-garten.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-18-loki-schmidt-garten-13__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-18-loki-schmidt-garten-13__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwECA//EACcQAAICAQQCAgICAwAAAAAAAAECAwQRAAUSIQYxE0EUUSIjMnGB/8QAGAEBAAMBAAAAAAAAAAAAAAAABAABAwb/xAAkEQACAQIFBAMAAAAAAAAAAAABAgARQQMSITFRBBMyYcHh8P/aAAwDAQACEQMRAD8Ar2nafZbYhleSzJGj/GxcBGk9AjHZQHvHXLA+tWBuVmff5WFWqyC3DyJ/Jx8kkJYH/HoMAR9d8VOoJ421u47n4VetXQkHLOFPvipcnB69A51Yx8mrwlstcN9ekr2AitHyAyzALlQeWFOScAfvvnkchSpOg1pzX6l9MCX7ZO847nQg3Hx2413yI3LETSPLxrjmhXvDnP2f1670bRaj3WjHYqvNZsB40+Nj/IIo6zjOQMcsH2RrTY5a9C/PysfLLeZT/cFQuSeKByDhcAsc9ZGMnUB3zcbO0bi0LxQxSvKGEKSc1jyTgqFPfXf6I0nCdVKtTyrm+N4kgYRKLoL+4i8e8kh2SzJDf2/8+GeAxJmYoYQzhmKHBAYgYz7Gf+aVbr5Cbu9z3oqkdNhx4JGxbtfTMT7Y47OB/rRo0hDVAloUE0yWjrx3z2SPyxN336us9aMSsleFAQrMQVXv6yMZ94OsbH5MK23bn+bWW3bmZXryzYZohkkryPeCD9frRo1GA4moOU1H60//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_09_loki-schmidt-garten-fb.png__l.jpg
 labels:
   - Ausflug
   - Ausflug
@@ -23,17 +30,12 @@ labels:
   - Pancake Objektiv
   - Sonne
   - Spätsommer
-type: Galerie
-typeName: Galerie
-date: 2019-09-19T13:29:38.000Z
+focusKeyword: Loki Schmidt Garten
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "26258"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-18-loki-schmidt-garten-13__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-18-loki-schmidt-garten-13__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwECA//EACcQAAICAQQCAgICAwAAAAAAAAECAwQRAAUSIQYxE0EUUSIjMnGB/8QAGAEBAAMBAAAAAAAAAAAAAAAABAABAwb/xAAkEQACAQIFBAMAAAAAAAAAAAABAgARQQMSITFRBBMyYcHh8P/aAAwDAQACEQMRAD8Ar2nafZbYhleSzJGj/GxcBGk9AjHZQHvHXLA+tWBuVmff5WFWqyC3DyJ/Jx8kkJYH/HoMAR9d8VOoJ421u47n4VetXQkHLOFPvipcnB69A51Yx8mrwlstcN9ekr2AitHyAyzALlQeWFOScAfvvnkchSpOg1pzX6l9MCX7ZO847nQg3Hx2413yI3LETSPLxrjmhXvDnP2f1670bRaj3WjHYqvNZsB40+Nj/IIo6zjOQMcsH2RrTY5a9C/PysfLLeZT/cFQuSeKByDhcAsc9ZGMnUB3zcbO0bi0LxQxSvKGEKSc1jyTgqFPfXf6I0nCdVKtTyrm+N4kgYRKLoL+4i8e8kh2SzJDf2/8+GeAxJmYoYQzhmKHBAYgYz7Gf+aVbr5Cbu9z3oqkdNhx4JGxbtfTMT7Y47OB/rRo0hDVAloUE0yWjrx3z2SPyxN336us9aMSsleFAQrMQVXv6yMZ94OsbH5MK23bn+bWW3bmZXryzYZohkkryPeCD9frRo1GA4moOU1H60//2Q==
 subTitle: Bienen und Blumen
   
 ---

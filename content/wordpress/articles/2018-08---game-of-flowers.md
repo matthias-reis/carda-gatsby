@@ -1,16 +1,23 @@
 ---
-title: Game Of Flowers
-seoTitle: Game Of Flowers - Blumen und Schwerter an der Trelleborg
+date: 2018-08-07T14:32:33.000Z
 slug: trelleborg
 path: /2018/08/trelleborg/
-fileName: 2018-08---game-of-flowers.md
+type: Galerie mit Bild
+typeName: Gedicht
+title: Game Of Flowers
+seoTitle: Game Of Flowers - Blumen und Schwerter an der Trelleborg
+ogTitle: Game Of Flowers - Blumen und Schwerter an der Trelleborg
 description: Bei unserem Besuch der Schwedischen Trelleborg im Juni war das
   komplette Gelände von blühenden Wildblumen übersät. Zeit für Fotos und etwas
   Geschichte.
 excerpt: Bei unserem Besuch der Schwedischen Wikingerburg Trelleborg im Juni war
   das komplette Gelände von blühenden Wildblumen übersät. Zeit für ein paar
   Fotos, ein Gedicht und einen Ausflug in die Skandinavische Geschichte.
-focusKeyword: Trelleborg
+fileName: 2018-08---game-of-flowers.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_43182891864_bf05c0427a_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_43182891864_bf05c0427a_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwECBP/EACoQAAICAQIFAgYDAAAAAAAAAAECAxEEACEFBhIxURMyByJBQoHRI2GR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABsRAAMBAQADAAAAAAAAAAAAAAABAhEhAxJx/9oADAMBAAIRAxEAPwBxlwvJw3pxluZSsiKPuIJNC/8APzquZ8NJcBnzIpC0vsjaEOImkNAEkij2uth2vzZk1pw6RIoGnPSIyqOFeiCCQSavwNKeB8t4ORiZOPzRxOKCPKiUQxSukBcIRtbHoDBaPcHxVbZLhV9DyTqItyRyzcedJnxnH9CYLjwSJfQVJoW17MCLA2qh51YMeMkWOikhaQXX0IA1jhmRy7l4855Us4qtWRII+hJJytsVFnsOmz9f7760ymH8ZLDt287D96JWcLQslHTgdBUlty1kntvqG/FvM9DlSf16GKJ4gCkYkI9w+7YN48WTo0ap6quMV9TQfCqWVOWslMmVHmjyijlWBohF+XYd1BA/Gn+ROPTiPuAYfrRo1KR4WQj/2Q==
+ogImage: null
 labels:
   - Dänemark
   - Fernweh
@@ -27,17 +34,12 @@ labels:
   - Wenden
   - Wikinger
   - Wikingerburg
-type: Galerie mit Bild
-typeName: Gedicht
-date: 2018-08-07T14:32:33.000Z
+focusKeyword: Trelleborg
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "21584"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_43182891864_bf05c0427a_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_43182891864_bf05c0427a_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwECBP/EACoQAAICAQIFAgYDAAAAAAAAAAECAxEEACEFBhIxURMyByJBQoHRI2GR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABsRAAMBAQADAAAAAAAAAAAAAAABAhEhAxJx/9oADAMBAAIRAxEAPwBxlwvJw3pxluZSsiKPuIJNC/8APzquZ8NJcBnzIpC0vsjaEOImkNAEkij2uth2vzZk1pw6RIoGnPSIyqOFeiCCQSavwNKeB8t4ORiZOPzRxOKCPKiUQxSukBcIRtbHoDBaPcHxVbZLhV9DyTqItyRyzcedJnxnH9CYLjwSJfQVJoW17MCLA2qh51YMeMkWOikhaQXX0IA1jhmRy7l4855Us4qtWRII+hJJytsVFnsOmz9f7760ymH8ZLDt287D96JWcLQslHTgdBUlty1kntvqG/FvM9DlSf16GKJ4gCkYkI9w+7YN48WTo0ap6quMV9TQfCqWVOWslMmVHmjyijlWBohF+XYd1BA/Gn+ROPTiPuAYfrRo1KR4WQj/2Q==
 subTitle: Blumen und Schwerter an der Trelleborg
   
 ---

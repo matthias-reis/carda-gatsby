@@ -1,14 +1,21 @@
 ---
-title: Burren und Poulnabrone Dolmen
-seoTitle: Burren und Poulnabrone Dolmen - Mondlandschaft mit mystischen Steinen
+date: 2018-04-25T06:20:09.000Z
 slug: poulnabrone-dolmen-burren
 path: /2018/04/poulnabrone-dolmen-burren/
-fileName: 2018-04---burren-und-poulnabrone-dolmen.md
+type: Galerie mit Bild
+typeName: Galerie mit Bild
+title: Burren und Poulnabrone Dolmen
+seoTitle: Burren und Poulnabrone Dolmen - Mondlandschaft mit mystischen Steinen
+ogTitle: Burren und Poulnabrone Dolmen - Mondlandschaft mit mystischen Steinen
 description: Der Poulnabrone-Dolmen inmitten des Burren ist ein sogenannter
   Portal Tomb. Er wird auch "Hole Of Sorrows" (Loch der Sorgen) genannt.
 excerpt: Der Poulnabrone-Dolmen inmitten des Burren ist ein sogenannter Portal
   Tomb. Er wird auch "Hole Of Sorrows" (Loch der Sorgen) genannt.
-focusKeyword: Poulnabrone Dolmen
+fileName: 2018-04---burren-und-poulnabrone-dolmen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39516177774_9949272337_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39516177774_9949272337_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAoEAACAgEDBAEDBQAAAAAAAAABAgMEEQAFIQYHEjETFCJBUVJhcYH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAAIDBf/EABsRAAMBAQEBAQAAAAAAAAAAAAABAwIhMTJC/9oADAMBAAIRAxEAPwCs06ZkKDHsgaQpO5VAfNGNslMkTsjD5hjKkj9v8arNNHUqfFh4nJwM8/nXL3WWx3Ni6s3KPcUihEs0s8ESzLJ5Rs5KlgORwcgEDSaU1+Q85p/Q0N3e2/L/AD7NKQB9ojmxn+8jW10zvV7qWn9adhn26gyFobUkysJj5Ywi4DY98+uNQjd6U3TXUUUdhIrDV3WUxyoGWRSAwBU8EFSPf6668knotRjkqUoFryxI8KjIWOMqCoUDAAwdWlXTfSWllLhMZO6++yTTNTgo1q6syrGYjI3HGSxOCcnPoalfcPcrc26Lulmd57V9C0xfHJGBxgcDGOPxjjRo1w53o6JNjt4SXBJ3rcrm5WRau2GmmKLH5sBnxVQqgke8KoH+a3ou7fVlSlWojcWWvWhWKERRxqQirgAkoxPoc6NGnZ02Y++n/9k=
+ogImage: null
 labels:
   - Britische Inseln
   - Burren
@@ -31,17 +38,12 @@ labels:
   - Poulnabrone Dolmen
   - reisen travelling
   - Stechpalmen
-type: Galerie mit Bild
-typeName: Galerie mit Bild
-date: 2018-04-25T06:20:09.000Z
+focusKeyword: Poulnabrone Dolmen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "19793"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39516177774_9949272337_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39516177774_9949272337_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAoEAACAgEDBAEDBQAAAAAAAAABAgMEEQAFIQYHEjETFCJBUVJhcYH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAAIDBf/EABsRAAMBAQEBAQAAAAAAAAAAAAABAwIhMTJC/9oADAMBAAIRAxEAPwCs06ZkKDHsgaQpO5VAfNGNslMkTsjD5hjKkj9v8arNNHUqfFh4nJwM8/nXL3WWx3Ni6s3KPcUihEs0s8ESzLJ5Rs5KlgORwcgEDSaU1+Q85p/Q0N3e2/L/AD7NKQB9ojmxn+8jW10zvV7qWn9adhn26gyFobUkysJj5Ywi4DY98+uNQjd6U3TXUUUdhIrDV3WUxyoGWRSAwBU8EFSPf6668knotRjkqUoFryxI8KjIWOMqCoUDAAwdWlXTfSWllLhMZO6++yTTNTgo1q6syrGYjI3HGSxOCcnPoalfcPcrc26Lulmd57V9C0xfHJGBxgcDGOPxjjRo1w53o6JNjt4SXBJ3rcrm5WRau2GmmKLH5sBnxVQqgke8KoH+a3ou7fVlSlWojcWWvWhWKERRxqQirgAkoxPoc6NGnZ02Y++n/9k=
 subTitle: Mondlandschaft mit mystischen Steinen
   
 ---

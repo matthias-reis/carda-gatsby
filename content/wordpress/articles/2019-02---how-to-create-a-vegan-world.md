@@ -1,16 +1,23 @@
 ---
-title: '"How To Create A Vegan World"'
-seoTitle: '"How To Create A Vegan World" von Tobias Leenaert'
+date: 2019-02-13T12:57:03.000Z
 slug: how-to-create-a-vegan-world-von-tobias-leenaert
 path: /2019/02/how-to-create-a-vegan-world-von-tobias-leenaert/
-fileName: 2019-02---how-to-create-a-vegan-world.md
+type: Artikel
+typeName: Rezension
+title: '"How To Create A Vegan World"'
+seoTitle: '"How To Create A Vegan World" von Tobias Leenaert'
+ogTitle: '"How To Create A Vegan World" von Tobias Leenaert'
 description: Heute möchte ich Euch das Buch "How To Create A Vegan World - A
   Pragmatic Approach" von Tobias Leenaert vorstellen. Es geht um Tierethik und
   Veganismus.
 excerpt: Affiliate Link - Heute möchte ich Euch das Buch "How To Create A Vegan
   World - A Pragmatic Approach" von Tobias Leenaert vorstellen. Es geht um
   Tierethik und Veganismus.
-focusKeyword: How To Create A Vegan World
+fileName: 2019-02---how-to-create-a-vegan-world.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-12-how-to-create-a-vegan-world-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-12-how-to-create-a-vegan-world-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBQMGCP/EACkQAAIBAwIFAwUBAAAAAAAAAAECAwQFEQASExQhMUEGMoEiUWGRoXH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUABP/EACARAAICAgICAwAAAAAAAAAAAAECAAMFEQQhE1EUMcH/2gAMAwEAAhEDEQA/ALOktCGSFdvucD+6WVXHDBe7xFLx9/OzLuWZ1yoc4GAevY/vTcW+Wu1SU011qVp4+rjIyTtxk4+dLq3cldLzdrpFM5puZkqkAXDNEzFgcdx4yNLes3OqLJeX5HxqPKZRyGnbgxo1WsxkQfVUSHu48E/bTDvtrxcamLb7HZcfONa76pYVLUFcCrUxkRYzghgQ4JBB+f1pkXepo6m8181OzbM734i7cd/500Yq8NhTe4rC8o8uk2EaPr19zn6uu9Vcwj108jyOoT8AE9gB0A1It1ZyTbEnmikiBiVowOoAwc58aNGuRiQQRKGSRXRQw6mS5Xbmo4uNU1EhjAVEZVCKPOAO2ptV6graUOkNVJsUEBJAHA/zOjRrBiTsnuDiq0rVlUaHX7P/2Q==
+ogImage: null
 labels:
   - Animal Liberation
   - Bücher & Filme
@@ -32,17 +39,12 @@ labels:
   - Tierschutz
   - Tobias Leenaert
   - vegan
-type: Artikel
-typeName: Rezension
-date: 2019-02-13T12:57:03.000Z
+focusKeyword: How To Create A Vegan World
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "23457"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-12-how-to-create-a-vegan-world-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-12-how-to-create-a-vegan-world-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBQMGCP/EACkQAAIBAwIFAwUBAAAAAAAAAAECAwQFEQASExQhMUEGMoEiUWGRoXH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUABP/EACARAAICAgICAwAAAAAAAAAAAAECAAMFEQQhE1EUMcH/2gAMAwEAAhEDEQA/ALOktCGSFdvucD+6WVXHDBe7xFLx9/OzLuWZ1yoc4GAevY/vTcW+Wu1SU011qVp4+rjIyTtxk4+dLq3cldLzdrpFM5puZkqkAXDNEzFgcdx4yNLes3OqLJeX5HxqPKZRyGnbgxo1WsxkQfVUSHu48E/bTDvtrxcamLb7HZcfONa76pYVLUFcCrUxkRYzghgQ4JBB+f1pkXepo6m8181OzbM734i7cd/500Yq8NhTe4rC8o8uk2EaPr19zn6uu9Vcwj108jyOoT8AE9gB0A1It1ZyTbEnmikiBiVowOoAwc58aNGuRiQQRKGSRXRQw6mS5Xbmo4uNU1EhjAVEZVCKPOAO2ptV6graUOkNVJsUEBJAHA/zOjRrBiTsnuDiq0rVlUaHX7P/2Q==
 subTitle: Buch von Tobias Leenaert
   
 ---

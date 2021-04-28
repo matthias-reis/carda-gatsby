@@ -1,15 +1,22 @@
 ---
-title: Veganer Ökostrom und veganes Biogas
-seoTitle: Veganer Ökostrom und veganes Biogas - so viel ist möglich
+date: 2020-11-20T15:03:29.000Z
 slug: oekostrom-biogas-vegan
 path: /2020/11/oekostrom-biogas-vegan/
-fileName: 2020-11---veganer-oekostrom-und-veganes-biogas.md
+type: Artikel
+typeName: Artikel
+title: Veganer Ökostrom und veganes Biogas
+seoTitle: Veganer Ökostrom und veganes Biogas - so viel ist möglich
+ogTitle: Veganer Ökostrom und veganes Biogas - so viel ist möglich
 description: Fragt Ihr Euch manchmal, ob es auch möglich ist, veganen Ökostrom
   und veganes Biogas für Eure Wohnung zu beziehen? Hier kommt die Antwort.
 excerpt: Affiliate Links – Fragt Ihr Euch manchmal, ob es auch möglich ist,
   veganen Ökostrom und veganes Biogas für  Eure Wohnung zu beziehen? Hier kommt
   die Antwort.
-focusKeyword: Ökostrom
+fileName: 2020-11---veganer-oekostrom-und-veganes-biogas.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_hamburg-hafen__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_hamburg-hafen__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcB/8QAKBAAAgEDAwQCAQUAAAAAAAAAAQIDAAQRBRIhBhMiMUFRgRUjMjOh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQQCAwX/xAAYEQEBAQEBAAAAAAAAAAAAAAABAAIDEf/aAAwDAQACEQMRAD8A2e2sAmwJNyfQI+ab2kMqv/aSAM4+6TyvH+nzFWZSVX+EnIyyjII9YzTiBe3fhYW8RE52ZznzHJPus81MObix2tpejt2kMc8ivISkQBYcBmz9+s/eKo3XstvJ2tL1aS4eO6TcrKgWGQhl8PHlWz5DPGARkVZtY1yzsuqNKsruVI3uY3jVXVt29iNgBHAzg/5Va601Wx0rqfSbK9nRFnVwhwe7A5OFIwCCG8gcj0T8UFiFhNj1a0qMwZMxAEhgqhhnH3U9n1lNHOGnmPaDFDHsH4xt/HNFFMGSq9p9Q6x/fjfvOpOxuVcg7TkZOeCDSfV+u725m79vdFGVkI3O7lNhypwSccn4ooqZzzB03//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_11_oekostrom-hamburg-hafen-fb.png__l.jpg
 labels:
   - Biogas
   - Erdwärme
@@ -28,17 +35,12 @@ labels:
   - Wärmetauscher
   - Windgas
   - Windstrom
-type: Artikel
-typeName: Artikel
-date: 2020-11-20T15:03:29.000Z
+focusKeyword: Ökostrom
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31907"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_hamburg-hafen__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_hamburg-hafen__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcB/8QAKBAAAgEDAwQCAQUAAAAAAAAAAQIDAAQRBRIhBhMiMUFRgRUjMjOh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQQCAwX/xAAYEQEBAQEBAAAAAAAAAAAAAAABAAIDEf/aAAwDAQACEQMRAD8A2e2sAmwJNyfQI+ab2kMqv/aSAM4+6TyvH+nzFWZSVX+EnIyyjII9YzTiBe3fhYW8RE52ZznzHJPus81MObix2tpejt2kMc8ivISkQBYcBmz9+s/eKo3XstvJ2tL1aS4eO6TcrKgWGQhl8PHlWz5DPGARkVZtY1yzsuqNKsruVI3uY3jVXVt29iNgBHAzg/5Va601Wx0rqfSbK9nRFnVwhwe7A5OFIwCCG8gcj0T8UFiFhNj1a0qMwZMxAEhgqhhnH3U9n1lNHOGnmPaDFDHsH4xt/HNFFMGSq9p9Q6x/fjfvOpOxuVcg7TkZOeCDSfV+u725m79vdFGVkI3O7lNhypwSccn4ooqZzzB03//Z
 subTitle: So viel ist möglich
   
 ---

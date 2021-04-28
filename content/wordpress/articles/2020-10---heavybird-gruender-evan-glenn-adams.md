@@ -1,16 +1,23 @@
 ---
-title: Heavybird Gründer Evan Glenn Adams
-seoTitle: Heavybird im Interview – "Instrumente sind wie Familienmitglieder"
+date: 2020-10-08T07:11:21.000Z
 slug: heavybird-interview
 path: /2020/10/heavybird-interview/
-fileName: 2020-10---heavybird-gruender-evan-glenn-adams.md
+type: Artikel
+typeName: Interview
+title: Heavybird Gründer Evan Glenn Adams
+seoTitle: Heavybird im Interview – "Instrumente sind wie Familienmitglieder"
+ogTitle: Heavybird im Interview – "Instrumente sind wie Familienmitglieder"
 description: Kennt Ihr Heavybird? Hinter dem Namen steckt Evan Glenn Adams.  Der
   Multiinstrumentalist arbeitet gerade an seinem neuen Album. Ich habe ihn
   interviewt.
 excerpt: English & German - Kennt Ihr Heavybird? Hinter dem Namen steckt Evan
   Glenn Adams.  Der Multiinstrumentalist arbeitet gerade an seinem neuen Album.
   Ich habe ihn interviewt.
-focusKeyword: Heavybird
+fileName: 2020-10---heavybird-gruender-evan-glenn-adams.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_heavybird-evan-glenn-adams-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_heavybird-evan-glenn-adams-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAApEAACAQMEAgAFBQAAAAAAAAABAgMEBREABhIhMUEHExQVUSIyYXGR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMB/8QAJxEAAgEDAgQHAQAAAAAAAAAAAQIRAAMhBFESMUFxBRQiMmKRscH/2gAMAwEAAhEDEQA/AILYdhprrcZPu1traqiSMfLSFSFZmz+onIyBxPvzrFv+1Ulovc1PbqepgpGQOkVQpDIckEYJJxkZ7PWdUPw9ul3tNFNXzUFVNZTGYcMSgKliSUYjxk/yOzqP31dZ7reIal6OekoFiWKiSUE5iUHvlgBiTnsaNba6dYxn0xvj63pDKnlhjPb+7V0e7Svt62isMKXFfnNTkRllUOB2DkAj10Rqj2FSy32mIuYijutFUrLE0MQbMWGDoGz0P2ZIGfXg6SXx1utNTCouCpPFGJmgBIjJRlHLBPnDgd+uQJ6GnG2LlZqG2C2X9o4amGPhPFJE5SQ8uWVKeQQ2R48D8amdYVUsx9omBOY2HU1Q2FvKWiSxxAGJ5zjA6dBWXb24qySGohs9sL0UELkQ4Mit2OstnJ79fnSPdNbHV2d/mRxyw1GRNG0gYUrDwIz6UAnRo1tu2lu47IIKlRMnPECTMkz357zSbN1m8QOnbKnimfiMUg29AlXHcaSCH6ed4mli+ofjUSOQQCzYCBezhU/OW7Axjk+7WxI2qbdNHWSx8W5lZCvXkYPQ/v8A3Ro029pbR0iORmT+1NGdALisQTg1/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_10_heavybird-evan-glenn-adams-fb.png__l.jpg
 labels:
   - Ambient
   - Bands
@@ -38,17 +45,12 @@ labels:
   - Soft Static
   - Studio
   - Woodstock
-type: Artikel
-typeName: Interview
-date: 2020-10-08T07:11:21.000Z
+focusKeyword: Heavybird
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31484"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_heavybird-evan-glenn-adams-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_heavybird-evan-glenn-adams-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAApEAACAQMEAgAFBQAAAAAAAAABAgMEBREABhIhMUEHExQVUSIyYXGR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMB/8QAJxEAAgEDAgQHAQAAAAAAAAAAAQIRAAMhBFESMUFxBRQiMmKRscH/2gAMAwEAAhEDEQA/AILYdhprrcZPu1traqiSMfLSFSFZmz+onIyBxPvzrFv+1Ulovc1PbqepgpGQOkVQpDIckEYJJxkZ7PWdUPw9ul3tNFNXzUFVNZTGYcMSgKliSUYjxk/yOzqP31dZ7reIal6OekoFiWKiSUE5iUHvlgBiTnsaNba6dYxn0xvj63pDKnlhjPb+7V0e7Svt62isMKXFfnNTkRllUOB2DkAj10Rqj2FSy32mIuYijutFUrLE0MQbMWGDoGz0P2ZIGfXg6SXx1utNTCouCpPFGJmgBIjJRlHLBPnDgd+uQJ6GnG2LlZqG2C2X9o4amGPhPFJE5SQ8uWVKeQQ2R48D8amdYVUsx9omBOY2HU1Q2FvKWiSxxAGJ5zjA6dBWXb24qySGohs9sL0UELkQ4Mit2OstnJ79fnSPdNbHV2d/mRxyw1GRNG0gYUrDwIz6UAnRo1tu2lu47IIKlRMnPECTMkz357zSbN1m8QOnbKnimfiMUg29AlXHcaSCH6ed4mli+ofjUSOQQCzYCBezhU/OW7Axjk+7WxI2qbdNHWSx8W5lZCvXkYPQ/v8A3Ro029pbR0iORmT+1NGdALisQTg1/9k=
 subTitle: '"Instrumente sind wie Familienmitglieder"'
   
 ---

@@ -1,15 +1,22 @@
 ---
-title: Marazion und St. Michael's Mount
-seoTitle: Marazion und der St. Michael's Mount - Fernweh nach Cornwall
+date: 2020-01-15T20:41:06.000Z
 slug: st-michaels-mount-marazion
 path: /2020/01/st-michaels-mount-marazion/
-fileName: 2020-01---marazion-und-st-michaels-mount.md
+type: Galerie mit Bild
+typeName: Galerie mit Bild
+title: Marazion und St. Michael's Mount
+seoTitle: Marazion und der St. Michael's Mount - Fernweh nach Cornwall
+ogTitle: Marazion und der St. Michael's Mount - Fernweh nach Cornwall
 description: Kennt Ihr schon Marazion und St. Michael's Mount in Cornwall? Mit
   den Bildern von diesen Orten kann ich so richtig schön von der Ferne träumen.
 excerpt: Kennt Ihr schon Marazion und St. Michael's Mount in Cornwall? Mit den
   Bildern von dieser ganz besonderen Gegend kann ich so richtig schön von der
   Ferne träumen.
-focusKeyword: St. Michael's Mount
+fileName: 2020-01---marazion-und-st-michaels-mount.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2019-08-19-marazion-st-michaels-mount-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2019-08-19-marazion-st-michaels-mount-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwIDBP/EACoQAAIBAwQBAwIHAAAAAAAAAAECAwQFEQASITEGBxNBFFEiMmGBkaHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQUAAv/EABsRAQACAwEBAAAAAAAAAAAAAAEAAgMRMZFB/9oADAMBAAIRAxEAPwC2aGgQAcacJQQFBsSXOOSSD/Ws6ZZIoy8zukcalmMnSgDJJzqJ331V8Zt1O/0NRFdaoFNiQtsRgQCT7mD0D9u9VbZWSa4iSWa2uVIRHK/5pLXW+aNSqrKiN+YKOSNVzP6yXJbuJ/paM24tzSqV3bM9b+9364/bUjtvqr4veZoqZjVW+qmYIFqkBTcTgAupwOfkgaaZl7BxHyJKbxSOWkMcdznaEhjtW4ueOzyVPeB/GuY2Ky2iIvUe6qAqrFpA/eDjhTxjHxo0aEqG9E6FXrF9RH4pUfha7AHONvCfP39rOtFXZLHLCoiqDOoGFVKgA898BQdGjWoVt2p5C4nLPs//2Q==
+ogImage: null
 labels:
   - Britische Inseln
   - Cornwall
@@ -24,17 +31,12 @@ labels:
   - Surfing
   - Wandern
   - Watt
-type: Galerie mit Bild
-typeName: Galerie mit Bild
-date: 2020-01-15T20:41:06.000Z
+focusKeyword: St. Michael's Mount
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "27347"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2019-08-19-marazion-st-michaels-mount-2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2019-08-19-marazion-st-michaels-mount-2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwIDBP/EACoQAAIBAwQBAwIHAAAAAAAAAAECAwQFEQASITEGBxNBFFEiMmGBkaHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQUAAv/EABsRAQACAwEBAAAAAAAAAAAAAAEAAgMRMZFB/9oADAMBAAIRAxEAPwC2aGgQAcacJQQFBsSXOOSSD/Ws6ZZIoy8zukcalmMnSgDJJzqJ331V8Zt1O/0NRFdaoFNiQtsRgQCT7mD0D9u9VbZWSa4iSWa2uVIRHK/5pLXW+aNSqrKiN+YKOSNVzP6yXJbuJ/paM24tzSqV3bM9b+9364/bUjtvqr4veZoqZjVW+qmYIFqkBTcTgAupwOfkgaaZl7BxHyJKbxSOWkMcdznaEhjtW4ueOzyVPeB/GuY2Ky2iIvUe6qAqrFpA/eDjhTxjHxo0aEqG9E6FXrF9RH4pUfha7AHONvCfP39rOtFXZLHLCoiqDOoGFVKgA898BQdGjWoVt2p5C4nLPs//2Q==
 subTitle: Fernweh nach Cornwall
   
 ---

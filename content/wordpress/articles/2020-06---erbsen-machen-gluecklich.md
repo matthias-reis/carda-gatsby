@@ -1,16 +1,23 @@
 ---
-title: Erbsen machen glücklich
-seoTitle: Erbsen machen glücklichlich - grüne Proteinlieferanten
+date: 2020-06-03T15:20:07.000Z
 slug: erbsen
 path: /2020/06/erbsen/
-fileName: 2020-06---erbsen-machen-gluecklich.md
+type: Artikel
+typeName: Artikel
+title: Erbsen machen glücklich
+seoTitle: Erbsen machen glücklichlich - grüne Proteinlieferanten
+ogTitle: Erbsen machen glücklichlich - grüne Proteinlieferanten
 description: Erbsen sind gesund und schmecken gut. Die kleinen Vitaminbömbchen
   eignen sich perfekt für Suppen, Salate, Püree oder als Snack für
   zwischendurch.
 excerpt: Erbsen sind gesund und schmecken gut. Die kleinen Vitaminbömbchen
   eignen sich perfekt für Suppen, Salate, Püree oder als Snack für
   zwischendurch.
-focusKeyword: Erbsen
+fileName: 2020-06---erbsen-machen-gluecklich.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_erbsen-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_erbsen-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEEBQYCAwf/xAAkEAACAgEEAgIDAQAAAAAAAAABAgMEEQAFEiETIhQxBiNRQf/EABgBAAIDAAAAAAAAAAAAAAAAAAEEAgMG/8QAIREAAQMDBAMAAAAAAAAAAAAAAQARIQIDMRJBUWGB4fD/2gAMAwEAAhEDEQA/AObzny0bNpo6U8auzCevC2HhJ9xzDg8sorFR7e5PQzp9PtNreIz8OlJW7WRpbpLEEhZDzfocSvWF5E9ZXrOsN6H4/Ukr1NxnlNNplrGVYzD4ZUjXOcZjbGVHNckg5z3rdvse9AVlgtSy7OnFXhogCaODJwyj6KBSRzQlf7jWaFbkbcPj2lgEu6RVNqRKZsXNvmdAYohJFCEkAJyC+XYNlgSxAIYHUPFufyq8jx7jBDO8aNFKilQgLKrRySMOKghT0vqxHeNQzyrtlqZKb2WWJy/KWNMyCJs5fGeWQxAboYwRpzT3WtHGzbfNNRqR2FmVCS8cKup5wBXGHIxy7I6zjsaYFqHz2iZEK9XtvgG2I9qtY3kgJEIOKgx8OaAqoAAlDhFKkZYfXROKvSex+Pm2lKe5brxWQ8NFoCo4shcvHIhPjcfwdYHY/wA0aNKWDqBpMifuvCgSykt8mO+RVb9jaZr0dmf4Dp5VM7s0YPkjC5UuFXiH+jjtcjVfvRpFNDLtYeu7+GWOwzlIh6lP2CQdSdDIXokHGjRq6yWDDCIX/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_erbsen-fb.png__l.jpg
 labels:
   - Erbsen
   - Ernährung
@@ -21,17 +28,12 @@ labels:
   - vegane Ernährung
   - veganes Protein
   - Zuckerschoten
-type: Artikel
-typeName: Artikel
-date: 2020-06-03T15:20:07.000Z
+focusKeyword: Erbsen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29866"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_erbsen-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_erbsen-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEEBQYCAwf/xAAkEAACAgEEAgIDAQAAAAAAAAABAgMEEQAFEiETIhQxBiNRQf/EABgBAAIDAAAAAAAAAAAAAAAAAAEEAgMG/8QAIREAAQMDBAMAAAAAAAAAAAAAAQARIQIDMRJBUWGB4fD/2gAMAwEAAhEDEQA/AObzny0bNpo6U8auzCevC2HhJ9xzDg8sorFR7e5PQzp9PtNreIz8OlJW7WRpbpLEEhZDzfocSvWF5E9ZXrOsN6H4/Ukr1NxnlNNplrGVYzD4ZUjXOcZjbGVHNckg5z3rdvse9AVlgtSy7OnFXhogCaODJwyj6KBSRzQlf7jWaFbkbcPj2lgEu6RVNqRKZsXNvmdAYohJFCEkAJyC+XYNlgSxAIYHUPFufyq8jx7jBDO8aNFKilQgLKrRySMOKghT0vqxHeNQzyrtlqZKb2WWJy/KWNMyCJs5fGeWQxAboYwRpzT3WtHGzbfNNRqR2FmVCS8cKup5wBXGHIxy7I6zjsaYFqHz2iZEK9XtvgG2I9qtY3kgJEIOKgx8OaAqoAAlDhFKkZYfXROKvSex+Pm2lKe5brxWQ8NFoCo4shcvHIhPjcfwdYHY/wA0aNKWDqBpMifuvCgSykt8mO+RVb9jaZr0dmf4Dp5VM7s0YPkjC5UuFXiH+jjtcjVfvRpFNDLtYeu7+GWOwzlIh6lP2CQdSdDIXokHGjRq6yWDDCIX/9k=
 subTitle: Grüne Proteinlieferanten
   
 ---

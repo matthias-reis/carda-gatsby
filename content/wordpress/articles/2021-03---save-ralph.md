@@ -1,9 +1,12 @@
 ---
-title: '"Save Ralph"'
-seoTitle: Save Ralph – Ricky Gervais und Zac Efron in Film über Tierversuche
+date: 2021-03-29T10:59:23.000Z
 slug: save-ralph
 path: /2021/03/save-ralph/
-fileName: 2021-03---save-ralph.md
+type: Artikel
+typeName: Artikel
+title: '"Save Ralph"'
+seoTitle: Save Ralph – Ricky Gervais und Zac Efron in Film über Tierversuche
+ogTitle: Save Ralph – Ricky Gervais und Zac Efron in Film über Tierversuche
 description: '"Save Ralph" ist ein Stop-Motion-Kurzfilm zum Thema Tierversuche.
   Ricky Gervais und Zac Efron sind Teil des Casts.'
 excerpt: '"Save Ralph" ist ein Stop-Motion-Kurzfilm. Die Regie führte Spencer
@@ -11,7 +14,11 @@ excerpt: '"Save Ralph" ist ein Stop-Motion-Kurzfilm. Die Regie führte Spencer
   Efron sind im neuen Film zum Thema Tierversuche dabei. "Save Ralf" ist Teil
   einer Kampagne der Humane Society International, die sich für ein weltweites
   Verbot von Tierversuchen einsetzt.'
-focusKeyword: Save Ralph
+fileName: 2021-03---save-ralph.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_save-ralph__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_save-ralph__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKRAAAgEDAwMEAQUAAAAAAAAAAQIDBAURAAYhEhMiFTFBQnEHMlFhgf/EABkBAAEFAAAAAAAAAAAAAAAAAAMBAgQFBv/EACARAAICAQMFAAAAAAAAAAAAAAECABEDBFGxITFhgeH/2gAMAwEAAhEDEQA/AKkGxp6OzRzGOk82K55LDH+aS75ThZBTYjV+oAFj0gkke5+Bpg3beble7JS2qOz0lAsIDPL2BFKGyDjqDkEYC88Hk8aU4LIUWJq2MZSTNQWmBURgj9vOc4znOszj0zI1s1+vsvBvNm82WO12Crr56V5GiZQrpIxjPUwVVzj3Iyecex1Fsa01W5rtDbqe2xxS1EnaWSdmVUJVmzyuTwhOmC1VlnvdBerQ1QshliZY1FQe5UfYYPt4uEOfgZ/nV79F5LdaN9W8LJ0L3V7zTSgr3OzKvi2cYBk/JyNS2xJQB8cxMeVjZAvvxEivqKiZGV3hlncnpKsvTxyCf71mV0tZHTTS1ENOI8fVgc50aNOVQCBAMxMw9mVaJuCkhiiIMriCRpXBVQT9cjg8AZ/I+ddIo9o2r1uvt8lPtqsucWauWL1SWIIgHkg8eluT1YzkYx7DRo0fUWDY2gcbEL0n/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_save-ralph-fb.png__l.jpg
 labels:
   - Bücher & Filme
   - Cruelty Free
@@ -28,17 +35,12 @@ labels:
   - vegane Dokumentation
   - vegane Dokumentationen
   - Zac Efron
-type: Artikel
-typeName: Artikel
-date: 2021-03-29T10:59:23.000Z
+focusKeyword: Save Ralph
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33609"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_save-ralph__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_save-ralph__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKRAAAgEDAwMEAQUAAAAAAAAAAQIDBAURAAYhEhMiFTFBQnEHMlFhgf/EABkBAAEFAAAAAAAAAAAAAAAAAAMBAgQFBv/EACARAAICAQMFAAAAAAAAAAAAAAECABEDBFGxITFhgeH/2gAMAwEAAhEDEQA/AKkGxp6OzRzGOk82K55LDH+aS75ThZBTYjV+oAFj0gkke5+Bpg3beble7JS2qOz0lAsIDPL2BFKGyDjqDkEYC88Hk8aU4LIUWJq2MZSTNQWmBURgj9vOc4znOszj0zI1s1+vsvBvNm82WO12Crr56V5GiZQrpIxjPUwVVzj3Iyecex1Fsa01W5rtDbqe2xxS1EnaWSdmVUJVmzyuTwhOmC1VlnvdBerQ1QshliZY1FQe5UfYYPt4uEOfgZ/nV79F5LdaN9W8LJ0L3V7zTSgr3OzKvi2cYBk/JyNS2xJQB8cxMeVjZAvvxEivqKiZGV3hlncnpKsvTxyCf71mV0tZHTTS1ENOI8fVgc50aNOVQCBAMxMw9mVaJuCkhiiIMriCRpXBVQT9cjg8AZ/I+ddIo9o2r1uvt8lPtqsucWauWL1SWIIgHkg8eluT1YzkYx7DRo0fUWDY2gcbEL0n/9k=
 subTitle: Ricky Gervais und Zac Efron in Film über Tierversuche
   
 ---

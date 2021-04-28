@@ -1,16 +1,23 @@
 ---
-title: Green Shirts
-seoTitle: Green Shirts - nachhaltige und faire Bio-Mode
+date: 2020-05-08T14:58:29.000Z
 slug: green-shirts
 path: /2020/05/green-shirts/
-fileName: 2020-05---green-shirts.md
+type: Artikel
+typeName: Artikel
+title: Green Shirts
+seoTitle: Green Shirts - nachhaltige und faire Bio-Mode
+ogTitle: Green Shirts - nachhaltige und faire Bio-Mode
 description: "Green Shirts steht für nachhaltige und faire Bio-Mode. Ziel:
   höchsten Stil- und Qualitätsansprüchen zu genügen und nachhaltig und fair zu
   produzieren."
 excerpt: "Werbung & Affiliate Links - Green Shirts steht für nachhaltige und
   faire Bio-Mode. Ziel: höchsten Stil- und Qualitätsansprüchen zu genügen und
   nachhaltig und fair zu produzieren."
-focusKeyword: Green Shirts
+fileName: 2020-05---green-shirts.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-01-jenischpark-23__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-01-jenischpark-23__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAHA//EACYQAAIBBAEDBAMBAAAAAAAAAAECAwAEBREhBhJhExQxUSRBcTL/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAdEQACAwACAwAAAAAAAAAAAAABAgADEQQhEhNh/9oADAMBAAIRAxEAPwDPJILd8hjFlf3PqRdpHBEZMgGtjW9ffmlk3S+DkkEUcagswVAsrHZ58/Ybf8o5Bd3suXsbqS0hs4oykTMroqsC4OtE73TdSY7lppzAbdHM3cihO0DZ7fGudnyTS2LjETJS/tBLDdMur+scn05g7XH4rIxiYoIIkW1iPt0jJDEEqTskld75580cs8nF1UbS+Fpatc49H93Az/ojh1B/R+fB4otlso+YyTXuSmAjaRVYINERb+F3/ngkjezzzShMZj+m7W5t8a00jzDUs0hBdwPgDWgB4FRbWtVYV+2M1BzY2joCGYnWVsd3qTq62CW5U86INc8vmruO1uZFlkPrXHtyrN3BUVe/QB+yRv8AlVVUp0rvyHniCBClhK17PDHKT+RcBXO+eWFaBm8nNI7b1ySB4FVVHyySVi8cDuf/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_green-shirts.png__l.jpg
 labels:
   - Fair Fashion
   - Fair Fashion & Beauty
@@ -22,18 +29,13 @@ labels:
   - shopping
   - T-Shirt
   - vegane Mode
-type: Artikel
-typeName: Artikel
-date: 2020-05-08T14:58:29.000Z
+focusKeyword: Green Shirts
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "29538"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-01-jenischpark-23__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-01-jenischpark-23__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAHA//EACYQAAIBBAEDBAMBAAAAAAAAAAECAwAEBREhBhJhExQxUSRBcTL/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAdEQACAwACAwAAAAAAAAAAAAABAgADEQQhEhNh/9oADAMBAAIRAxEAPwDPJILd8hjFlf3PqRdpHBEZMgGtjW9ffmlk3S+DkkEUcagswVAsrHZ58/Ybf8o5Bd3suXsbqS0hs4oykTMroqsC4OtE73TdSY7lppzAbdHM3cihO0DZ7fGudnyTS2LjETJS/tBLDdMur+scn05g7XH4rIxiYoIIkW1iPt0jJDEEqTskld75580cs8nF1UbS+Fpatc49H93Az/ojh1B/R+fB4otlso+YyTXuSmAjaRVYINERb+F3/ngkjezzzShMZj+m7W5t8a00jzDUs0hBdwPgDWgB4FRbWtVYV+2M1BzY2joCGYnWVsd3qTq62CW5U86INc8vmruO1uZFlkPrXHtyrN3BUVe/QB+yRv8AlVVUp0rvyHniCBClhK17PDHKT+RcBXO+eWFaBm8nNI7b1ySB4FVVHyySVi8cDuf/2Q==
 subTitle: Nachhaltige und faire Bio-Mode
   
 ---

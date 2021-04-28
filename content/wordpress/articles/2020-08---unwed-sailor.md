@@ -1,16 +1,23 @@
 ---
-title: Unwed Sailor
-seoTitle: Unwed Sailor im Interview - "In lauten und in leisen Zeiten"
+date: 2020-08-28T12:14:01.000Z
 slug: unwed-sailor-interview
 path: /2020/08/unwed-sailor-interview/
-fileName: 2020-08---unwed-sailor.md
+type: Artikel
+typeName: Interview
+title: Unwed Sailor
+seoTitle: Unwed Sailor im Interview - "In lauten und in leisen Zeiten"
+ogTitle: Unwed Sailor im Interview - "In lauten und in leisen Zeiten"
 description: Vor Kurzem habe ich mich mit Unwed Sailor Gründer Jonathon Ford
   verabredet. Wir haben uns unter anderem über das aktuelle Album "Look Alive"
   unterhalten.
 excerpt: English & German - Vor Kurzem habe ich mich mit Unwed Sailor Gründer
   Jonathon Ford verabredet. Wir haben uns unter anderem über das aktuelle Album
   "Look Alive" unterhalten.
-focusKeyword: Unwed Sailor
+fileName: 2020-08---unwed-sailor.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_unwed-sailor-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_unwed-sailor-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QALhAAAgICAQICBwkAAAAAAAAAAQIDBAURABIhBjEHEyJBUWGRFBUyQnGBobHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQGAgX/xAAjEQACAgEDAwUAAAAAAAAAAAABAgADEQQhMRITQVGBoeHw/9oADAMBAAIRAxEAPwDUJDGuJ+8TZf7FSUylnQBk7aOyOx+XM14u8RWsZhsXkMBAts5B9RyTKwRB0Fva0QdnRH7HmR9MeSs1LNSKlbEMd+o3rY9EdlcbXe9EE9+43xb372Qv0KjXbjGpRIiibqIYetLnqHx10a37hocO97nKzlV6KivDgbZ/fM6FwuUrZ3CwXoZIizxqZI43DmJyO6No7BB358orV2C5au1KzF3qP0SqxAIPnsD4cV/otyoxHixyqiWpZrzQyr7thepHPyDa+pHGBdzURghliCJ0r1OYE12J79h/fy5vvDb18xC6hkZg3Bxj7iu8bZGa5kqyyMXWCt22fIFiT/nJLGNV/Akd1/xwSLpQNgqSwJJ/Uj6cOHEvMorFBWWXgLEjqz6MRHOteNIz+X2ttv8Agco8hcyUF+xTW7Oqxs5VFcqNeZA+HDhwrABQw5k/pL3t1lyPuAFPv0if/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_08_unwed-sailor-fb.png__l.jpg
 labels:
   - Ambient
   - Bands
@@ -19,17 +26,12 @@ labels:
   - Interviews
   - Post-Rock
   - Unwed Sailor
-type: Artikel
-typeName: Interview
-date: 2020-08-28T12:14:01.000Z
+focusKeyword: Unwed Sailor
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31119"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_unwed-sailor-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_unwed-sailor-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QALhAAAgICAQICBwkAAAAAAAAAAQIDBAURABIhBjEHEyJBUWGRFBUyQnGBobHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQGAgX/xAAjEQACAgEDAwUAAAAAAAAAAAABAgADEQQhMRITQVGBoeHw/9oADAMBAAIRAxEAPwDUJDGuJ+8TZf7FSUylnQBk7aOyOx+XM14u8RWsZhsXkMBAts5B9RyTKwRB0Fva0QdnRH7HmR9MeSs1LNSKlbEMd+o3rY9EdlcbXe9EE9+43xb372Qv0KjXbjGpRIiibqIYetLnqHx10a37hocO97nKzlV6KivDgbZ/fM6FwuUrZ3CwXoZIizxqZI43DmJyO6No7BB358orV2C5au1KzF3qP0SqxAIPnsD4cV/otyoxHixyqiWpZrzQyr7thepHPyDa+pHGBdzURghliCJ0r1OYE12J79h/fy5vvDb18xC6hkZg3Bxj7iu8bZGa5kqyyMXWCt22fIFiT/nJLGNV/Akd1/xwSLpQNgqSwJJ/Uj6cOHEvMorFBWWXgLEjqz6MRHOteNIz+X2ttv8Agco8hcyUF+xTW7Oqxs5VFcqNeZA+HDhwrABQw5k/pL3t1lyPuAFPv0if/9k=
 subTitle: '"In lauten und in leisen Zeiten"'
   
 ---

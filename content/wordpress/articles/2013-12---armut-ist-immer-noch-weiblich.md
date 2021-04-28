@@ -1,14 +1,21 @@
 ---
-title: '"Armut ist immer noch weiblich"'
-seoTitle: '"Armut ist immer noch weiblich"'
+date: 2013-12-04T13:15:14.000Z
 slug: armut-ist-immer-noch-weiblich
 path: /2013/12/armut-ist-immer-noch-weiblich/
-fileName: 2013-12---armut-ist-immer-noch-weiblich.md
+type: Artikel
+typeName: Artikel
+title: '"Armut ist immer noch weiblich"'
+seoTitle: '"Armut ist immer noch weiblich"'
+ogTitle: '"Armut ist immer noch weiblich"'
 description: Bei den Betriebsratstagen 2013 in München traf ich Gregor Gysi. In
   einem Vortrag erzählte er, warum Armut auch heute noch zumeist weiblich ist.
 excerpt: Am Montagabend hielt Gregor Gysi im Rahmen der jährlichen
   Betriebsrats-Tage in München einen Vortrag zum Thema "Wie weiter?".
-focusKeyword: armut
+fileName: 2013-12---armut-ist-immer-noch-weiblich.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_12_img_6770__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_12_img_6770__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAwUI/8QAKxAAAgECBgEDAgcAAAAAAAAAAQIDBBEABQYSITFBBxNhkcEUI1FxcqGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwYCBP/EACYRAAEDAwEIAwAAAAAAAAAAAAEAAgMEESEFEhMiMTIzUXFBgcH/2gAMAwEAAhEDEQA/AJ5p/S0ks0dQGBSQjabixPV/vbFFeaakDRU6nbEoVT0Dx8c8f3hS03WMmRQtFBOVNUCn5d1C/wAjYG32xrNaasWgzSTLg+YzLAhSaAVu0M7AEXkVA1gPC/XE1u3zyEHNlWPmZTRgswCnfSOoavNkqKOspoy7jasiR+2XRm2kX/UMFIPwcXSm01TyRrXRASFXaWxa20+2yjrvscfF8co5HqIadoZs8p7fizJHHTRupKuWAaQ98qoBFu7sMWH079aYc3lKZnQCid6aZEiiqC0czIrOTYgEGy2B58jzhDEWG9uHPL4+ly1kokIDOpJFBNtEw2IUiguinocEn/BiE1dVNX189TUNummk3u3yTgwYXTQLvPpa1o9se/xN+cUC0WliFkeQIx2+4AbXsDbjjq+MGUVb0lDlcihW5B8g8zFTY/sx+uDBh4ztR58oKpojqCG+F//Z
+ogImage: null
 labels:
   - Antifaschismus & Feminismus
   - Armut
@@ -28,17 +35,12 @@ labels:
   - Opposition
   - Politiker
   - Wahl
-type: Artikel
-typeName: Artikel
-date: 2013-12-04T13:15:14.000Z
+focusKeyword: armut
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "7723"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_12_img_6770__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_12_img_6770__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAwUI/8QAKxAAAgECBgEDAgcAAAAAAAAAAQIDBBEABQYSITFBBxNhkcEUI1FxcqGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwYCBP/EACYRAAEDAwEIAwAAAAAAAAAAAAEAAgMEESEFEhMiMTIzUXFBgcH/2gAMAwEAAhEDEQA/AJ5p/S0ks0dQGBSQjabixPV/vbFFeaakDRU6nbEoVT0Dx8c8f3hS03WMmRQtFBOVNUCn5d1C/wAjYG32xrNaasWgzSTLg+YzLAhSaAVu0M7AEXkVA1gPC/XE1u3zyEHNlWPmZTRgswCnfSOoavNkqKOspoy7jasiR+2XRm2kX/UMFIPwcXSm01TyRrXRASFXaWxa20+2yjrvscfF8co5HqIadoZs8p7fizJHHTRupKuWAaQ98qoBFu7sMWH079aYc3lKZnQCid6aZEiiqC0czIrOTYgEGy2B58jzhDEWG9uHPL4+ly1kokIDOpJFBNtEw2IUiguinocEn/BiE1dVNX189TUNummk3u3yTgwYXTQLvPpa1o9se/xN+cUC0WliFkeQIx2+4AbXsDbjjq+MGUVb0lDlcihW5B8g8zFTY/sx+uDBh4ztR58oKpojqCG+F//Z
 subTitle: Gregor Gysi zu Innenpolitik und Groko
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: Verlosung läuft noch bis einschließlich 30. September
-seoTitle: Verlosung läuft noch bis einschließlich 30. September
+date: 2012-09-06T16:21:04.000Z
 slug: verlosung-exklusive-cd-t-shirts-und-vinyl-zu-gewinnen
 path: /2012/09/verlosung-exklusive-cd-t-shirts-und-vinyl-zu-gewinnen/
-fileName: 2012-09---verlosung-laeuft-noch-bis-einschliesslich-30-september.md
+type: Artikel
+typeName: Artikel
+title: Verlosung läuft noch bis einschließlich 30. September
+seoTitle: Verlosung läuft noch bis einschließlich 30. September
+ogTitle: Verlosung läuft noch bis einschließlich 30. September
 description: Hiermit möchte ich nochmal offiziell auf mein Gewinnspiel
   hinweisen. Die Verlosung läuft noch bis einschließlich 30. September.
 excerpt: Hiermit möchte ich nochmal offiziell auf mein Gewinnspiel hinweisen.
   Die Verlosung läuft noch bis einschließlich 30. September.
-focusKeyword: ""
+fileName: 2012-09---verlosung-laeuft-noch-bis-einschliesslich-30-september.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACYQAAIBAwMFAAIDAAAAAAAAAAECAwAEERIhMQUTQVFhBiKBobH/xAAXAQADAQAAAAAAAAAAAAAAAAACBgcF/8QAKREAAQMEAQIEBwAAAAAAAAAAAQIDEQAEITFBBhIFEyKhFDJRgbHw8f/aAAwDAQACEQMRAD8Aqj6fJdNcPDd9lQ/bRNagM2hmOAfq/PPqpI+jRCRpXvMEsGDGVtIAzwM53xTrm6t4UmtWiLmXGSDwMk/wQNXHIwKykvLJZ3iW07UL7NJjUWHps8jfOKwAhoIQFHgbnOB9PzMcULnxbz7vkzhShg4+bQmPbNbj2jx3CNLKZUKtyf1OCMEfN6Km6Y9qCY7RNBMZ7zYK68tkDBPAwKKXvGUpQ8kCR6dcbOv3dN/TClvWZUrPqOTvQ3v+RWF1i4aLqTBhKBkZCuQsnIzs23mmxXXTmdpntikmy7YPPJG4pzxyXEk8dxbzgGUtFJHFk4zk5Y7AfCfPypl6fP3HQrJ2sk6tILH1vnj3/VUO1etXmGyspJAG4wY9qnl01eMvuBAWnuJOO7IJka3un/jrM9zIvcmeQABWkbUP95xRTrCV7e9gjW0nSJQTI7RHLMR7PjIopG6nf8+97moUAkCRnk81QOlGjbWMPApJUTBkcAa+1f/Z
+ogImage: null
 labels:
   - absahnen
   - abstauben
@@ -36,18 +43,13 @@ labels:
   - T-Shirt
   - Train
   - Verlosung
-type: Artikel
-typeName: Artikel
-date: 2012-09-06T16:21:04.000Z
+focusKeyword: ""
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "11800"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACYQAAIBAwMFAAIDAAAAAAAAAAECAwAEERIhMQUTQVFhBiKBobH/xAAXAQADAQAAAAAAAAAAAAAAAAACBgcF/8QAKREAAQMEAQIEBwAAAAAAAAAAAQIDEQAEITFBBhIFEyKhFDJRgbHw8f/aAAwDAQACEQMRAD8Aqj6fJdNcPDd9lQ/bRNagM2hmOAfq/PPqpI+jRCRpXvMEsGDGVtIAzwM53xTrm6t4UmtWiLmXGSDwMk/wQNXHIwKykvLJZ3iW07UL7NJjUWHps8jfOKwAhoIQFHgbnOB9PzMcULnxbz7vkzhShg4+bQmPbNbj2jx3CNLKZUKtyf1OCMEfN6Km6Y9qCY7RNBMZ7zYK68tkDBPAwKKXvGUpQ8kCR6dcbOv3dN/TClvWZUrPqOTvQ3v+RWF1i4aLqTBhKBkZCuQsnIzs23mmxXXTmdpntikmy7YPPJG4pzxyXEk8dxbzgGUtFJHFk4zk5Y7AfCfPypl6fP3HQrJ2sk6tILH1vnj3/VUO1etXmGyspJAG4wY9qnl01eMvuBAWnuJOO7IJka3un/jrM9zIvcmeQABWkbUP95xRTrCV7e9gjW0nSJQTI7RHLMR7PjIopG6nf8+97moUAkCRnk81QOlGjbWMPApJUTBkcAa+1f/Z
 subTitle: Tolle Goodies zu gewinnen!
   
 ---

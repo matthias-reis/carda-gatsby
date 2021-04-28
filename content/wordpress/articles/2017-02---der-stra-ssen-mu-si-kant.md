@@ -1,16 +1,23 @@
 ---
-title: Der Stra­ßen­mu­si­kant
-seoTitle: Der Straßenmusikant - Eine Moritat von der Straße
+date: 2017-02-01T16:36:08.000Z
 slug: der-strassenmusikant
 path: /2017/02/der-strassenmusikant/
-fileName: 2017-02---der-stra-ssen-mu-si-kant.md
+type: Artikel
+typeName: Kurzgeschichte
+title: Der Stra­ßen­mu­si­kant
+seoTitle: Der Straßenmusikant - Eine Moritat von der Straße
+ogTitle: Der Straßenmusikant - Moritat von der Straße
 description: Er packt seine Gitarre aus. Zum Stimmen fehlt ihm heute die Zeit.
   20 Euro soll er morgen früh abliefern. Das bedeutet harte Arbeit. Menschen
   hasten vorbei.
 excerpt: Er packt seine Gitarre aus. Zum Stimmen fehlt ihm heute die Zeit. 20
   Euro soll er morgen früh abliefern. Das bedeutet harte Arbeit. Menschen hasten
   vorbei.
-focusKeyword: Straßenmusikant
+fileName: 2017-02---der-stra-ssen-mu-si-kant.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_31585982996_7139c0eb6b_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_31585982996_7139c0eb6b_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAJRAAAgICAgIBBQEBAAAAAAAAAQIDBAURBhIAIRMHFDFBURUi/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EABkRAQEBAQEBAAAAAAAAAAAAAAEAESExAv/aAAwDAQACEQMRAD8AlpYi9l5Eo5iucVkKUP3FhBKFMsGuzSq4OpAToAAArshvwNtMXH6dGCCWX7hMNEwkSuilvkAB3LOF1on8FTvQJ3v8AuYafI8WgsVClPHaa0HZkM0DqdfLGX9gD0ShbZ1oAA6KdzlMtmMQ2RhvX2notGtj/LljUlWIAkcqAsqMB3RgAf0RtSfJvtX58yzsfSweWkvz4ihakaYNSmhSuUekHCldBgUfsBISq6J67U+teUeLY+PNxcQiWpNqOtkFhDFujtGp10K6IO2IKk7Hr9Hx44dDxaoaVg88ydqKSyBK84CR1JY43kQ9ynUyKdDRJ2GPrR8XeQR1eI/Vuw+Wncwz17F2gKHyATvYQdGiVG9M0iuDo62R+vCGOyrvLI4VyKtYwU9xMJRGQWeVXnkHfa7AAQeumgR/fx4w80yGPyOPoT3sRC0kl1Ktr4GFcWYX3/y/RRsgoCDv1tv6fDw8zAnrJUYcG3Hq+CktYuucgkaV6kuoUMkMo7CNgwJ9ewdg7PnIPqnj7XGfqVxGRb7WIPuw0NcRLEkG5V7BAPSglydAAA70Pfh4eUTkpf/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_02_31585982996_7139c0eb6b_z__l.jpg
 labels:
   - Bänkellied
   - Gedanken
@@ -25,17 +32,12 @@ labels:
   - Straßenmusikant
   - Straßenmusiker
   - Trebe
-type: Artikel
-typeName: Kurzgeschichte
-date: 2017-02-01T16:36:08.000Z
+focusKeyword: Straßenmusikant
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "15728"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_31585982996_7139c0eb6b_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_31585982996_7139c0eb6b_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAJRAAAgICAgIBBQEBAAAAAAAAAQIDBAURBhIAIRMHFDFBURUi/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EABkRAQEBAQEBAAAAAAAAAAAAAAEAESExAv/aAAwDAQACEQMRAD8AlpYi9l5Eo5iucVkKUP3FhBKFMsGuzSq4OpAToAAArshvwNtMXH6dGCCWX7hMNEwkSuilvkAB3LOF1on8FTvQJ3v8AuYafI8WgsVClPHaa0HZkM0DqdfLGX9gD0ShbZ1oAA6KdzlMtmMQ2RhvX2notGtj/LljUlWIAkcqAsqMB3RgAf0RtSfJvtX58yzsfSweWkvz4ihakaYNSmhSuUekHCldBgUfsBISq6J67U+teUeLY+PNxcQiWpNqOtkFhDFujtGp10K6IO2IKk7Hr9Hx44dDxaoaVg88ydqKSyBK84CR1JY43kQ9ynUyKdDRJ2GPrR8XeQR1eI/Vuw+Wncwz17F2gKHyATvYQdGiVG9M0iuDo62R+vCGOyrvLI4VyKtYwU9xMJRGQWeVXnkHfa7AAQeumgR/fx4w80yGPyOPoT3sRC0kl1Ktr4GFcWYX3/y/RRsgoCDv1tv6fDw8zAnrJUYcG3Hq+CktYuucgkaV6kuoUMkMo7CNgwJ9ewdg7PnIPqnj7XGfqVxGRb7WIPuw0NcRLEkG5V7BAPSglydAAA70Pfh4eUTkpf/Z
 subTitle: Moritat von der Straße
   
 ---

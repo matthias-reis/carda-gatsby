@@ -1,14 +1,21 @@
 ---
-title: Piraten, Dauerregen und Netzfundstücke
-seoTitle: Piraten, Dauerregen und Netzfundstücke - Tagebucheintrag
+date: 2011-09-19T14:22:11.000Z
 slug: kalte-piraten-und-ein-netzfundstuck
 path: /2011/09/kalte-piraten-und-ein-netzfundstuck/
-fileName: 2011-09---piraten-dauerregen-und-netzfundstuecke.md
+type: Artikel
+typeName: Artikel
+title: Piraten, Dauerregen und Netzfundstücke
+seoTitle: Piraten, Dauerregen und Netzfundstücke - Tagebucheintrag
+ogTitle: Piraten, Dauerregen und Netzfundstücke - Tagebucheintrag
 description: Heute ist internationaler "Talk Like A Pirate Day" - Zeit, über das
   Wahlergebnis zu reden. Und für einen sehr persönlichen Tagebucheintrag.
 excerpt: Heute ist internationaler "Talk Like A Pirate Day" - Zeit, über das
   Wahlergebnis zu reden. Und für einen sehr persönlichen Tagebucheintrag.
-focusKeyword: Netzfundstücke
+fileName: 2011-09---piraten-dauerregen-und-netzfundstuecke.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_09_11511644313_78f57ffe6e_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_09_11511644313_78f57ffe6e_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAJhAAAQQBBAICAgMAAAAAAAAAAQIDBBEFABIhMQZBE2EUIhVRcf/EABgBAAMBAQAAAAAAAAAAAAAAAAMFBgAE/8QAJxEAAQQAAwcFAAAAAAAAAAAAAQACAxEEBSEiIzFRYdHwMkGBkbH/2gAMAwEAAhEDEQA/AJ/IshLzaGP4KCmNmI7/AMQUxPU2GmK49Hca7vgUa1d/EivTcfCg4lt7AundLcEwqK1JPJPF7t1UTya9esJvySZh5GWL0dvJy3QUtnYhGw2b3JBpXd9jqtRQPMsnh8dNcciRJ7jikKaQ2yGyzyAokchQr1V8Hnm9QDmzvbsgdNefb2vrxVw7Blu0xprzz8Wz43AbjZ/MzZeGjNRWyqOyt6SVKCQb27tt7Txaj0DpWmRo8OFl2cr4lj5JeccUyWn7Uhwk2SAnkftd/XXOmTCypT3jUxmW3EdL5UphSN7aQhdAFaTZPPNbvrVfC5LKwYcovwsPMWUBLLAS42pBBoA2Du9cCuho8AlBcauqFAkcOWv2uee3mza5DjfO/nCkLxo+VRsOfNyCe+CnTLisp+TuPxFJAPa918H60aNPMXhoo/SFstzLEzjeOv4HZOEeRufjBCSlDiACi/1oEgev6Hf3qFQcakJksuqSpbm0iyQCSRddX/o0aNLYdCUZ4X//2Q==
+ogImage: null
 labels:
   - Abgeordnetenhaus
   - Altweibersommer
@@ -42,17 +49,12 @@ labels:
   - Wahlen
   - Wahlparty
   - Wochenende
-type: Artikel
-typeName: Artikel
-date: 2011-09-19T14:22:11.000Z
+focusKeyword: Netzfundstücke
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11621"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_09_11511644313_78f57ffe6e_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_09_11511644313_78f57ffe6e_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAJhAAAQQBBAICAgMAAAAAAAAAAQIDBBEFABIhMQZBE2EUIhVRcf/EABgBAAMBAQAAAAAAAAAAAAAAAAMFBgAE/8QAJxEAAQQAAwcFAAAAAAAAAAAAAQACAxEEBSEiIzFRYdHwMkGBkbH/2gAMAwEAAhEDEQA/AJ/IshLzaGP4KCmNmI7/AMQUxPU2GmK49Hca7vgUa1d/EivTcfCg4lt7AundLcEwqK1JPJPF7t1UTya9esJvySZh5GWL0dvJy3QUtnYhGw2b3JBpXd9jqtRQPMsnh8dNcciRJ7jikKaQ2yGyzyAokchQr1V8Hnm9QDmzvbsgdNefb2vrxVw7Blu0xprzz8Wz43AbjZ/MzZeGjNRWyqOyt6SVKCQb27tt7Txaj0DpWmRo8OFl2cr4lj5JeccUyWn7Uhwk2SAnkftd/XXOmTCypT3jUxmW3EdL5UphSN7aQhdAFaTZPPNbvrVfC5LKwYcovwsPMWUBLLAS42pBBoA2Du9cCuho8AlBcauqFAkcOWv2uee3mza5DjfO/nCkLxo+VRsOfNyCe+CnTLisp+TuPxFJAPa918H60aNPMXhoo/SFstzLEzjeOv4HZOEeRufjBCSlDiACi/1oEgev6Hf3qFQcakJksuqSpbm0iyQCSRddX/o0aNLYdCUZ4X//2Q==
 subTitle: Tagebucheintrag
   
 ---

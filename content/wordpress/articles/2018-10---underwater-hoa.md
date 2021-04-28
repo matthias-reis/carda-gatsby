@@ -1,16 +1,23 @@
 ---
-title: Underwater HOA
-seoTitle: Underwater HOA - Künstler Xavier Cortada kämpft gegen den Klimawandel
+date: 2018-10-18T14:42:40.000Z
 slug: underwater-hoa
 path: /2018/10/underwater-hoa/
-fileName: 2018-10---underwater-hoa.md
+type: Artikel
+typeName: Artikel
+title: Underwater HOA
+seoTitle: Underwater HOA - Künstler Xavier Cortada kämpft gegen den Klimawandel
+ogTitle: Underwater HOA - Künstler Xavier Cortada kämpft gegen den Klimawandel
 description: Der Umweltaktivist und Künstler Xavier Cortada möchte mit seinem
   Projekt Underwater HOA zum sofortigen Handeln gegen steigenden Meeresspiegel
   aufrufen.
 excerpt: Der Umweltaktivist und Künstler Xavier Cortada möchte mit seinem
   Projekt Underwater HOA  zum sofortigen Handeln gegen steigenden Meeresspiegel
   aufrufen.
-focusKeyword: Underwater HOA
+fileName: 2018-10---underwater-hoa.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_UHOA_Marker8-CortadaStudio_IMG_5576.jpeg__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_UHOA_Marker8-CortadaStudio_IMG_5576.jpeg__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EACgQAAEEAQMDBAIDAAAAAAAAAAECAwQRBQAGIRIxQRMiUWEHFDKBkf/EABcBAAMBAAAAAAAAAAAAAAAAAAIEBQH/xAAiEQABAwMDBQAAAAAAAAAAAAABAAIDBBEhBRJBIzJRYaH/2gAMAwEAAhEDEQA/AH91/mSDDLjWAxDC5S1D1XprKVN9KRx6YB7Xff61kcZmsxujc7Uv9l1x1aVJlhQR6fCavwEiuTVea51E3bsDc6925DKR47T8VyQGYpMpJUUdPSlSyquQEgn5J86scVi523IzD0bLxWW3C3KmdTKDbXqJHsURZKvcQDXb+tLSMfIeobgIdlgmMtFbws5uLkHf2ihlLrYUVKJSrqHkhVd+QKvwNVGY21lWZkd4uvuLjqJC3rWlKOCkApFgg3yfnUXNOObg3HInrlPvigkLccIITzXftwBxrY7anogBUHqCoy3CXSlaQFpCaSLHJ5v7+edPR6fvjEoPdfjx7SbqxjXlh4t9VtP/ACEJWPbQ5HQhL0hSUJaBJS7XBBJFWK58fHfXPpz7M5p192VPXHbSi2PUr23QIvx3Ff5o0ahklwBJ5VgNBvhIRgHQ96WNkuMLKFqCEgJroqz1Ai/5DuL441CycDMYthsSMo4s9fC2vbVq6Rf130aNZBUSYaHYKJ1JEY95GV//2Q==
+ogImage: null
 labels:
   - Antarctic Ice Paintings
   - Antarktis
@@ -41,17 +48,12 @@ labels:
   - Whatcom Museum
   - Xavier Cortada
   - Ygrene
-type: Artikel
-typeName: Artikel
-date: 2018-10-18T14:42:40.000Z
+focusKeyword: Underwater HOA
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "22431"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_UHOA_Marker8-CortadaStudio_IMG_5576.jpeg__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_UHOA_Marker8-CortadaStudio_IMG_5576.jpeg__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EACgQAAEEAQMDBAIDAAAAAAAAAAECAwQRBQAGIRIxQRMiUWEHFDKBkf/EABcBAAMBAAAAAAAAAAAAAAAAAAIEBQH/xAAiEQABAwMDBQAAAAAAAAAAAAABAAIDBBEhBRJBIzJRYaH/2gAMAwEAAhEDEQA/AH91/mSDDLjWAxDC5S1D1XprKVN9KRx6YB7Xff61kcZmsxujc7Uv9l1x1aVJlhQR6fCavwEiuTVea51E3bsDc6925DKR47T8VyQGYpMpJUUdPSlSyquQEgn5J86scVi523IzD0bLxWW3C3KmdTKDbXqJHsURZKvcQDXb+tLSMfIeobgIdlgmMtFbws5uLkHf2ihlLrYUVKJSrqHkhVd+QKvwNVGY21lWZkd4uvuLjqJC3rWlKOCkApFgg3yfnUXNOObg3HInrlPvigkLccIITzXftwBxrY7anogBUHqCoy3CXSlaQFpCaSLHJ5v7+edPR6fvjEoPdfjx7SbqxjXlh4t9VtP/ACEJWPbQ5HQhL0hSUJaBJS7XBBJFWK58fHfXPpz7M5p192VPXHbSi2PUr23QIvx3Ff5o0ahklwBJ5VgNBvhIRgHQ96WNkuMLKFqCEgJroqz1Ai/5DuL441CycDMYthsSMo4s9fC2vbVq6Rf130aNZBUSYaHYKJ1JEY95GV//2Q==
 subTitle: Künstler Xavier Cortada für Klimaschutz ein
   
 ---

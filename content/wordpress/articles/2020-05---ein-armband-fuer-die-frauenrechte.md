@@ -1,16 +1,23 @@
 ---
-title: Ein Armband für die Frauenrechte
-seoTitle: Ein Armband für die Frauenrechte - kenianische Kunst gegen Gewalt
+date: 2020-05-14T06:49:55.000Z
 slug: ein-armband-fuer-die-frauenrechte
 path: /2020/05/ein-armband-fuer-die-frauenrechte/
-fileName: 2020-05---ein-armband-fuer-die-frauenrechte.md
+type: Artikel
+typeName: Artikel
+title: Ein Armband für die Frauenrechte
+seoTitle: Ein Armband für die Frauenrechte - kenianische Kunst gegen Gewalt
+ogTitle: Ein Armband für die Frauenrechte - kenianische Kunst gegen Gewalt
 description: Kenianische Künstlerinnen stellen Armbänder her, die zur Beendigung
   der Gewalt gegen Frauen beitragen sollen. Das Projekt wurde von UN Women
   gegründet.
 excerpt: Kenianische Künstlerinnen stellen Armbänder her, die zur Beendigung der
   Gewalt gegen Frauen beitragen sollen. Das Projekt wurde von UN Women
   gegründet.
-focusKeyword: Armband
+fileName: 2020-05---ein-armband-fuer-die-frauenrechte.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-13-armband-un-women-06__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-13-armband-un-women-06__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMGBwgCBAX/xAAoEAACAQIGAQQCAwAAAAAAAAABAwIEEQAFBhIhQTEHEyJRFCMykaH/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAAMF/8QAIxEAAQQBAgcBAAAAAAAAAAAAAQACAxEhEnEEIjFBUbHB8P/aAAwDAQACEQMRAD8Aln059THahVVMzWkUmmUbLqkkiMz3HaSTcffjrDuZrDKYjl8uTYfHvFXvT/PyrQtIinU6TQWmRiLXO4ng4WqdWPkj9sVxS6B3GEjIxHIN4+SR9YjnWTQVjhFG0andR+yrF0OtaZj65VVNcAt1kzWQdy7Ai/P8uJX6xyJ+otLOszCjqSlEUg+033RdhvxEA+Zcg2H0cV/hqpOdIqp/i0dIrL0b5Pi6MG1AJtG0CQTLgmw3d8jGvRaxpVVrZT3NQlW2IMCCyJFvkSSb7j5vwMAkklLtOk1YvY4TIIo3NNkXRI3GfiYOiM9emhfQ/lNVGN5qjADyfN8IZ7VVC86eyErSbtnLb4NwCf8Ab4MGHO5ZMI+HxUfKzybIMwzOqbKK/YiYcybeAIkev6PWJK0t6fUbqi2bNYynCjCYRZYnITFvlzLokkgdAYMGM6eZ94KfwzGtaTXb2v/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_armband-frauenrechte-fb.png__l.jpg
 labels:
   - Antifaschismus & Feminismus
   - Charity
@@ -21,17 +28,12 @@ labels:
   - SOKO
   - UN Women
   - UNiTE
-type: Artikel
-typeName: Artikel
-date: 2020-05-14T06:49:55.000Z
+focusKeyword: Armband
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29586"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-13-armband-un-women-06__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-13-armband-un-women-06__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMGBwgCBAX/xAAoEAACAQIGAQQCAwAAAAAAAAABAwIEEQAFBhIhQTEHEyJRFCMykaH/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAAMF/8QAIxEAAQQBAgcBAAAAAAAAAAAAAQACAxEhEnEEIjFBUbHB8P/aAAwDAQACEQMRAD8Aln059THahVVMzWkUmmUbLqkkiMz3HaSTcffjrDuZrDKYjl8uTYfHvFXvT/PyrQtIinU6TQWmRiLXO4ng4WqdWPkj9sVxS6B3GEjIxHIN4+SR9YjnWTQVjhFG0andR+yrF0OtaZj65VVNcAt1kzWQdy7Ai/P8uJX6xyJ+otLOszCjqSlEUg+033RdhvxEA+Zcg2H0cV/hqpOdIqp/i0dIrL0b5Pi6MG1AJtG0CQTLgmw3d8jGvRaxpVVrZT3NQlW2IMCCyJFvkSSb7j5vwMAkklLtOk1YvY4TIIo3NNkXRI3GfiYOiM9emhfQ/lNVGN5qjADyfN8IZ7VVC86eyErSbtnLb4NwCf8Ab4MGHO5ZMI+HxUfKzybIMwzOqbKK/YiYcybeAIkev6PWJK0t6fUbqi2bNYynCjCYRZYnITFvlzLokkgdAYMGM6eZ94KfwzGtaTXb2v/Z
 subTitle: Kenianische Kunst gegen Gewalt
   
 ---

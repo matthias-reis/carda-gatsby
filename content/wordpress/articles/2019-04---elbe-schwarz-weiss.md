@@ -1,15 +1,22 @@
 ---
-title: Elbe schwarz-weiß
-seoTitle: Elbe schwarz-weiß - ein sonniger Samstagsspaziergang in Altona
+date: 2019-04-03T06:54:58.000Z
 slug: elbe-schwarz-weiss
 path: /2019/04/elbe-schwarz-weiss/
-fileName: 2019-04---elbe-schwarz-weiss.md
+type: Artikel
+typeName: Artikel
+title: Elbe schwarz-weiß
+seoTitle: Elbe schwarz-weiß - ein sonniger Samstagsspaziergang in Altona
+ogTitle: Elbe schwarz-weiß - ein sonniger Samstagsspaziergang in Altona
 description: Hier bei uns in Altona sieht alles schon ganz anders aus, wenn am
   Wochenende die Sonne scheint. Dann zieht es alle an die Ufer der Elbe.
 excerpt: Hier bei uns in Altona sieht alles schon ganz anders aus, wenn am
   Wochenende die Sonne scheint. Dann zieht scheint es alle ans Ufer der Elbe zu
   ziehen.
-focusKeyword: schwarz-weiß
+fileName: 2019-04---elbe-schwarz-weiss.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-30-elbe__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-30-elbe__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EACUQAAEEAQMEAgMAAAAAAAAAAAECAwQRBQAhMRIiQVETFHGBof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBdrGJ6R2/zS8rDI6epwBKfG3P41cyWexuCymOx81iU5ImoLjYabCgkA13b34PAPGprWSckPwEyOqZNUCVmO3TUdIPJVsm7oEc+60GUfEtNRVov66FNFaCB3PKAJoHkDY37rwBqbIQ4zBmqS7GZJKFqccF/GnoVZSNx1bDwT6Gr2NYktTnH5cxya24uwA0G0toJUNgOBR1JzC4MHDyXMg+UsqUhtSigmlHwAOb4vQRW5shOcmy5Kp8hpA+CK88oqKWbJAUSmwDdkVv+tNt5wrjORo0zHQipPYo95SriyFUCdvW5vRo0CmYdkzXH1N5ovMLfW40z8zKQ1S0qRVq8VVG9YTerIYVcTKn7LhKVFYksArog3sob8+tGjQf/2Q==
+ogImage: null
 labels:
   - Altona
   - Ausflug
@@ -17,17 +24,12 @@ labels:
   - Hamburg
   - Hamburg
   - schwarz-weiß
-type: Artikel
-typeName: Artikel
-date: 2019-04-03T06:54:58.000Z
+focusKeyword: schwarz-weiß
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "23880"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-30-elbe__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-30-elbe__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EACUQAAEEAQMEAgMAAAAAAAAAAAECAwQRBQAhMRIiQVETFHGBof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBdrGJ6R2/zS8rDI6epwBKfG3P41cyWexuCymOx81iU5ImoLjYabCgkA13b34PAPGprWSckPwEyOqZNUCVmO3TUdIPJVsm7oEc+60GUfEtNRVov66FNFaCB3PKAJoHkDY37rwBqbIQ4zBmqS7GZJKFqccF/GnoVZSNx1bDwT6Gr2NYktTnH5cxya24uwA0G0toJUNgOBR1JzC4MHDyXMg+UsqUhtSigmlHwAOb4vQRW5shOcmy5Kp8hpA+CK88oqKWbJAUSmwDdkVv+tNt5wrjORo0zHQipPYo95SriyFUCdvW5vRo0CmYdkzXH1N5ovMLfW40z8zKQ1S0qRVq8VVG9YTerIYVcTKn7LhKVFYksArog3sob8+tGjQf/2Q==
 subTitle: Ein sonniger Samstagsspaziergang
   
 ---

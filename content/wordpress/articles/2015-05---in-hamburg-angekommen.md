@@ -1,15 +1,22 @@
 ---
-title: In Hamburg angekommen
-seoTitle: Hamburg ist schön und ich bin endlich wieder da!
+date: 2015-05-20T15:04:42.000Z
 slug: hamburg-ist-schoen-und-ich-bin-wieder-da
 path: /2015/05/hamburg-ist-schoen-und-ich-bin-wieder-da/
-fileName: 2015-05---in-hamburg-angekommen.md
+type: Artikel
+typeName: Artikel
+title: In Hamburg angekommen
+seoTitle: Hamburg ist schön und ich bin endlich wieder da!
+ogTitle: Hamburg ist schön und ich bin endlich wieder da!
 description: Hamburg ist so schön! Ich möchte hier nie wieder weg! Ich habe auch
   schon mein Lieblingscafé und meinen Lieblingsklamottenladen entdeckt!
 excerpt: Sicher haben ein paar von Euch gemerkt, dass mein Blog in den letzten
   Tagen nicht zu erreichen war - finstere Mächte hatten sich in den Server
   gehackt.
-focusKeyword: Hamburg
+fileName: 2015-05---in-hamburg-angekommen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_05_17130880761_0e31d84d6b_z1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_05_17130880761_0e31d84d6b_z1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQIE/8QAKxAAAQIFAgQFBQAAAAAAAAAAAQIDAAQFESEGEgcTMUEjQlGBkVJhcYKh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AN3hy6iuLbqLTimn0Ha+wEdFYxutY4t1h5kRTJ12aYSuSeUkkOJbf5imj2G2+IiXCsuGkVsMPtyzMxLqQt11tISjw7AhRWLEHuRbGY44cT1UTqKlGVfkmmFO2BaZLiVS5R3NwL3ByIC4zVHkH2EtOy0q+23nwiEq9z2hQqFAakbuSjamZzduS42qyCD5SnNrYHoesb09V59hO5udYWOpvJHI9MrxCLqDUFddJ2VZtkBV7NyKPjJOICNVWusokl0lgupbukvdgpYzb7gf0/iPHoGsTdJ1RTSw5yacicHOQFGwStJSf0NybdAReCCAslS1EkFxBKgPpGR83zCpUKo5N7iwlawPMAdo9+kEEB//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2015_05_17130880761_0e31d84d6b_z1__l.jpg
 labels:
   - Angekommen
   - Geschichten & Erlebtes
@@ -22,17 +29,12 @@ labels:
   - Umzug
   - wieder da
   - Willkommen in Hamburg
-type: Artikel
-typeName: Artikel
-date: 2015-05-20T15:04:42.000Z
+focusKeyword: Hamburg
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11944"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_05_17130880761_0e31d84d6b_z1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_05_17130880761_0e31d84d6b_z1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQIE/8QAKxAAAQIFAgQFBQAAAAAAAAAAAQIDAAQFESEGEgcTMUEjQlGBkVJhcYKh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AN3hy6iuLbqLTimn0Ha+wEdFYxutY4t1h5kRTJ12aYSuSeUkkOJbf5imj2G2+IiXCsuGkVsMPtyzMxLqQt11tISjw7AhRWLEHuRbGY44cT1UTqKlGVfkmmFO2BaZLiVS5R3NwL3ByIC4zVHkH2EtOy0q+23nwiEq9z2hQqFAakbuSjamZzduS42qyCD5SnNrYHoesb09V59hO5udYWOpvJHI9MrxCLqDUFddJ2VZtkBV7NyKPjJOICNVWusokl0lgupbukvdgpYzb7gf0/iPHoGsTdJ1RTSw5yacicHOQFGwStJSf0NybdAReCCAslS1EkFxBKgPpGR83zCpUKo5N7iwlawPMAdo9+kEEB//2Q==
 subTitle: Ich bin endlich wieder da!
   
 ---

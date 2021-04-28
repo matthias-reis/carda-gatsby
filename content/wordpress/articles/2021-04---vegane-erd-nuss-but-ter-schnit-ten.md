@@ -1,16 +1,23 @@
 ---
-title: Vegane Erd­nuss­but­ter­schnit­ten
-seoTitle: Vegane Erdnussbutterschnitten – Glutenfreies Rezept
+date: 2021-04-07T13:59:21.000Z
 slug: erdnussbutterschnitten-vegan-glutenfrei
 path: /2021/04/erdnussbutterschnitten-vegan-glutenfrei/
-fileName: 2021-04---vegane-erd-nuss-but-ter-schnit-ten.md
+type: Artikel
+typeName: Rezept
+title: Vegane Erd­nuss­but­ter­schnit­ten
+seoTitle: Vegane Erdnussbutterschnitten – Glutenfreies Rezept
+ogTitle: Vegane Erdnussbutterschnitten – Glutenfreies Rezept
 description: Erdnussbutterschnitten könnt Ihr ganz leicht mit ein paar Zutaten
   herstellen. Sie sind vegan, glutenfrei und Ihr braucht nicht mal einen Ofen.
 excerpt: Affiliate Links – Habt Ihr gerade ein frisches Glas Erdnussbutter im
   Haus? Dann habe ich ein tolles Rezept für Euch. Erdnussbutterschnitten könnt
   Ihr ganz leicht mit ein paar Zutaten herstellen. Sie sind vegan, glutenfrei
   und Ihr braucht nicht mal einen Ofen.
-focusKeyword: Erdnussbutter
+fileName: 2021-04---vegane-erd-nuss-but-ter-schnit-ten.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_erdnussbutterschnitten-direkt-vom-feld__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_erdnussbutterschnitten-direkt-vom-feld__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcGCAEEBf/EACwQAAEDAwMCBAYDAAAAAAAAAAECAwQABREGITEHEhNBQmEUFRYiIzIzUrH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwIF/8QAHhEAAgEFAQEBAAAAAAAAAAAAAQIAAwQRITHBQZH/2gAMAwEAAhEDEQA/ALIdiUkbClL1WddVdsaefQzd28iQp9tSm0o9Kk4OO4EAe1N1Y8s0vuqGn7JcYRnXVuQt5pxxppppaktvrVggOdozjbnIzxR7lSUirNgtTf2Q6ZrjUzAhfDSHZkkpEdpRaCI0vtSfEdUdx6cncEcYBNT3T2rrdfbzGMdampKoymno6yMpUkpUkj+yfuWAr2pWW7VzVi0yufaXXItkJUHWkNZQ4Sez+MjZRJG+36ms9NbO74Xzv6jFxeiKYQ9EVELSQhxYSVFWd+BwfLeo0HYt398iLqkgUnHOY9lhHDnIVitOfDanxpcWQkLaeJIB9wMH/aKKaQDoznBipyIkonR27SmlxLpOtTEE/kFrYz2KUCClRKcFJGOQDzvmu3pLp9M03Gv866y0NMrivdjTTxUhKQklJVsASMA8ck0UVhKSpsSr13cYYz//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_erdnussbutterschnitten-direkt-vom-feld-fb.png__l.jpg
 labels:
   - Backen glutenfrei
   - Erdnussbutter
@@ -21,18 +28,13 @@ labels:
   - vegane Kuchen
   - vegane Rezepte
   - Vegane Rezepte
-type: Artikel
-typeName: Rezept
-date: 2021-04-07T13:59:21.000Z
+focusKeyword: Erdnussbutter
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "33772"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_erdnussbutterschnitten-direkt-vom-feld__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_erdnussbutterschnitten-direkt-vom-feld__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcGCAEEBf/EACwQAAEDAwMCBAYDAAAAAAAAAAECAwQABREGITEHEhNBQmEUFRYiIzIzUrH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwIF/8QAHhEAAgEFAQEBAAAAAAAAAAAAAQIAAwQRITHBQZH/2gAMAwEAAhEDEQA/ALIdiUkbClL1WddVdsaefQzd28iQp9tSm0o9Kk4OO4EAe1N1Y8s0vuqGn7JcYRnXVuQt5pxxppppaktvrVggOdozjbnIzxR7lSUirNgtTf2Q6ZrjUzAhfDSHZkkpEdpRaCI0vtSfEdUdx6cncEcYBNT3T2rrdfbzGMdampKoymno6yMpUkpUkj+yfuWAr2pWW7VzVi0yufaXXItkJUHWkNZQ4Sez+MjZRJG+36ms9NbO74Xzv6jFxeiKYQ9EVELSQhxYSVFWd+BwfLeo0HYt398iLqkgUnHOY9lhHDnIVitOfDanxpcWQkLaeJIB9wMH/aKKaQDoznBipyIkonR27SmlxLpOtTEE/kFrYz2KUCClRKcFJGOQDzvmu3pLp9M03Gv866y0NMrivdjTTxUhKQklJVsASMA8ck0UVhKSpsSr13cYYz//2Q==
 subTitle: Glutenfrei und lecker
   
 ---

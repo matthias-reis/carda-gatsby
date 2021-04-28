@@ -1,15 +1,22 @@
 ---
-title: INASKA Gründerin Franziska im Interview
-seoTitle: Interview mit INASKA Gründerin Franziska - nachhaltige Sportbikinis
+date: 2019-08-13T16:21:29.000Z
 slug: interview-mit-inaska-gruenderin-franziska
 path: /2019/08/interview-mit-inaska-gruenderin-franziska/
-fileName: 2019-08---inaska-gruenderin-franziska-im-interview.md
+type: Artikel
+typeName: Interview
+title: INASKA Gründerin Franziska im Interview
+seoTitle: Interview mit INASKA Gründerin Franziska - nachhaltige Sportbikinis
+ogTitle: Interview mit INASKA Gründerin Franziska - nachhaltige Sportbikinis
 description: Ich durfte INASKA Gründerin Franziska interviewen. Sie hat mir
   unter anderem verraten, dass Fairness für sie schon immer an erster Stelle
   stand.
 excerpt: Ich durfte INASKA Gründerin Franziska interviewen. Sie hat mir unter
   anderem verraten, dass Fairness für sie schon immer an erster Stelle stand.
-focusKeyword: Inaska
+fileName: 2019-08---inaska-gruenderin-franziska-im-interview.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_INASKA-Swimwear-Sportbikini-Arctic-Lava-Orca__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_INASKA-Swimwear-Sportbikini-Arctic-Lava-Orca__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgIDB//EACgQAAIBAwIFBAMBAAAAAAAAAAECAwAEEQUhBhITIjFBUWGRUmJxof/EABcBAAMBAAAAAAAAAAAAAAAAAAECBQb/xAAcEQABBAMBAAAAAAAAAAAAAAABAAIDBBESITH/2gAMAwEAAhEDEQA/AI+LQiQOytq6MhUEAY5ymf29v7XTYNAcjtmsWPxMPrNQ/EFpe6df2CRWySLIZZW5JkCO6RkhS58E8oGPG5PpVmW+2NuR1T4ab5XanipEmhbbISM8pIGQD80pPobAHs/yndK1DrcVcPRNqNsk93Yut3bTXLuUSN3ZASFKGQdPDMDnc+9XXUI7SNHK3UErKcYjRiPvFNDebIMu4knqOidqDlL2oaQIkbdNmXPPgEjwNs7etK3XB+n3monUrya9kvXgNu8iTdPmRgVIwoAG22Rg/NFFZXYjwrSYCy0zhPStK5WsluYmVe0rOwKg+g9ht4p+a3SMAK0rZ/OQtj7oooIr/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_08_inaska.png__l.jpg
 labels:
   - Beachvolleyball
   - Bikini
@@ -25,17 +32,12 @@ labels:
   - Surfen
   - Surfwear
   - Two Magics
-type: Artikel
-typeName: Interview
-date: 2019-08-13T16:21:29.000Z
+focusKeyword: Inaska
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "25753"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_INASKA-Swimwear-Sportbikini-Arctic-Lava-Orca__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_INASKA-Swimwear-Sportbikini-Arctic-Lava-Orca__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgIDB//EACgQAAIBAwIFBAMBAAAAAAAAAAECAwAEEQUhBhITIjFBUWGRUmJxof/EABcBAAMBAAAAAAAAAAAAAAAAAAECBQb/xAAcEQABBAMBAAAAAAAAAAAAAAABAAIDBBESITH/2gAMAwEAAhEDEQA/AI+LQiQOytq6MhUEAY5ymf29v7XTYNAcjtmsWPxMPrNQ/EFpe6df2CRWySLIZZW5JkCO6RkhS58E8oGPG5PpVmW+2NuR1T4ab5XanipEmhbbISM8pIGQD80pPobAHs/yndK1DrcVcPRNqNsk93Yut3bTXLuUSN3ZASFKGQdPDMDnc+9XXUI7SNHK3UErKcYjRiPvFNDebIMu4knqOidqDlL2oaQIkbdNmXPPgEjwNs7etK3XB+n3monUrya9kvXgNu8iTdPmRgVIwoAG22Rg/NFFZXYjwrSYCy0zhPStK5WsluYmVe0rOwKg+g9ht4p+a3SMAK0rZ/OQtj7oooIr/9k=
 subTitle: '"Nachhaltigkeit und Fairness sind uns wichtig"'
   
 ---

@@ -1,15 +1,22 @@
 ---
-title: Enes Kanter wird Veganer
-seoTitle: Enes Kanter wird Veganer – NBA Star stellt seine Ernährung um
+date: 2021-01-06T14:46:23.000Z
 slug: enes-kanter-vegan-nba
 path: /2021/01/enes-kanter-vegan-nba/
-fileName: 2021-01---enes-kanter-wird-veganer.md
+type: Artikel
+typeName: Artikel
+title: Enes Kanter wird Veganer
+seoTitle: Enes Kanter wird Veganer – NBA Star stellt seine Ernährung um
+ogTitle: Enes Kanter wird Veganer – NBA Star stellt seine Ernährung um
 description: NBA Star Enes Kanter, Spieler bei den Portland Trail Blazers,
   verkündete vor Kurzem, dass er seine Ernährung umgestellt habe. Er lebt ab
   sofort vegan.
 excerpt: NBA Star Enes Kanter, Spieler bei den Portland Trail Blazers verkündete
   vor Kurzem, dass er seine Ernährung umgestellt habe. Er lebt ab sofort vegan.
-focusKeyword: Enes Kanter
+fileName: 2021-01---enes-kanter-wird-veganer.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_enes-kanter-nba-vegan__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_enes-kanter-nba-vegan__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAlEAABBAAFBQEBAQAAAAAAAAABAgMEEQAFEiExBgcTIkFhFVH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQF/8QAIREAAQQBAwUAAAAAAAAAAAAAAQACAxEhEhNRMUGBwfH/2gAMAwEAAhEDEQA/ALrucyxNnZC+xOzBmTHktIYdjuOIZYWp4anFkeppKSDquh/m+NJe0h1arSlskq1DcBPNj8rGddxnp8vppmHspmK6kyH2EpQgIutJQTZAHJ4ww7a5gsdEuqfDq2sulSY7ZUkJ1NIV61+UTziCGZzpHNcK4Tmu1xh3GEzybqdme9OYksiLIirNpQ8HkqaJPjXqAAtSRq0i6H3DiUylzxvBHkcYJcbANajRoX+3jMZTcyWI/wDPy551ZX50oLZWCxtoUoahYB2BBFgVxi4Xmq4GUsMyGXf6PhCA2lvZblVSa2J+6RdcYbdtqRAkHI6KVzuRBmrzaKw82iVIjvGzRSUtqAJI5q1Gz91c7Y5uz1v9NZswy4lxU4iUgKJpOtJQr2o3Xr85sYMGIYCd0efaniebrt9VP0VBzSHJzNGbQY7CGgzGivtKsvtNpIsiz+H5ueNsVWDBjUApPAIFE2v/2Q==
+ogImage: null
 labels:
   - Basketball
   - Enes Kanter
@@ -18,17 +25,12 @@ labels:
   - PETA
   - Tierrechte
   - vegan celebrities
-type: Artikel
-typeName: Artikel
-date: 2021-01-06T14:46:23.000Z
+focusKeyword: Enes Kanter
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32318"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_enes-kanter-nba-vegan__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_enes-kanter-nba-vegan__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAlEAABBAAFBQEBAQAAAAAAAAABAgMEEQAFEiExBgcTIkFhFVH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQF/8QAIREAAQQBAwUAAAAAAAAAAAAAAQACAxEhEhNRMUGBwfH/2gAMAwEAAhEDEQA/ALrucyxNnZC+xOzBmTHktIYdjuOIZYWp4anFkeppKSDquh/m+NJe0h1arSlskq1DcBPNj8rGddxnp8vppmHspmK6kyH2EpQgIutJQTZAHJ4ww7a5gsdEuqfDq2sulSY7ZUkJ1NIV61+UTziCGZzpHNcK4Tmu1xh3GEzybqdme9OYksiLIirNpQ8HkqaJPjXqAAtSRq0i6H3DiUylzxvBHkcYJcbANajRoX+3jMZTcyWI/wDPy551ZX50oLZWCxtoUoahYB2BBFgVxi4Xmq4GUsMyGXf6PhCA2lvZblVSa2J+6RdcYbdtqRAkHI6KVzuRBmrzaKw82iVIjvGzRSUtqAJI5q1Gz91c7Y5uz1v9NZswy4lxU4iUgKJpOtJQr2o3Xr85sYMGIYCd0efaniebrt9VP0VBzSHJzNGbQY7CGgzGivtKsvtNpIsiz+H5ueNsVWDBjUApPAIFE2v/2Q==
 subTitle: NBA Star stellt seine Ernährung um
   
 ---

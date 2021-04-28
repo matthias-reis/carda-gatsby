@@ -1,14 +1,21 @@
 ---
-title: Ba­na­nen­waf­feln
-seoTitle: Ba­na­nen­waf­feln
+date: 2015-03-08T08:30:34.000Z
 slug: bananenwaffeln
 path: /2015/03/bananenwaffeln/
-fileName: 2015-03---ba-na-nen-waf-feln.md
+type: Artikel
+typeName: Rezept
+title: Ba­na­nen­waf­feln
+seoTitle: Ba­na­nen­waf­feln
+ogTitle: Ba­na­nen­waf­feln
 description: "Ein veganer Alltime-Favorite zum Frühstück: Bananenwaffeln"
 excerpt: Ein absoluter Frühstücks-Alltime-Favorite von mir sind Waffeln. Waffeln
   in allen vorstellbaren Variationen, hergestellt aus den verschiedensten
   Kreationen.
-focusKeyword: Bananenwaffeln
+fileName: 2015-03---ba-na-nen-waf-feln.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_16444940546_96d1f814da_o__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_16444940546_96d1f814da_o__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYEBQgH/8QALhAAAQQABQIEBQUBAAAAAAAAAQIDBBEABRIhMQZBBxMiUSNhcYGhFBVDUnKx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUG/8QAIxEAAgIBAwMFAAAAAAAAAAAAAQIAAxEEBRITIUEUIjFRcf/aAAwDAQACEQMRAD8AD4u+KcqHNVlHTr6RPQoGRIsFLIG/lpvbUe98D5naL0R41ykto/fI2wvXJg+pI/2g/mjiN1b4QliZIf6ZcXLdctacunLCX3FXZLbh9Dx+RpXyOFTozIjlLkzqbqaBJZj5e6I0bLZTamzOnchpSdvhorWu+wre6wW92vYse0v0V6WmgAe4/XnP7Ncwc6i/oY7777LfnNpd+KQ2EpULTqCq0kjej2wRx9ma2nQphRUNYbbWDY99jv8AUYzhlbWYZsheZ53mCp82QfNLixt6gSTXAHAAoUAAOMAzFp/L/LfguOMutnd1BUk7EWAU0ffviJZuCh+mvxFLtBZeTHBmis2yyLmDekpRThopUnUgn6dvqMcL8V4T0TqfLk5nImymGmR5SJDxcbZSVG6UeEEAar3OlIvHX0zFvLbaU4W27sOJNAn255wp+LcCVMydqbEbMhyJaHUBIUXWlcmjzRANdtzhl5fBCwmj4JarPFCJMaTFCyUa1pKk7BKjYrUR9uB2xW51IShpYcGoEbm6oULH/NsK7WYPxi4v1hwKKgpR9Iv+WjwNiCP7fYYrZWZrmIdbbS4GiqxfDfuTX4xH9KWbPiaIuB3n/9k=
+ogImage: null
 labels:
   - backen
   - backen mit Bananen
@@ -31,17 +38,12 @@ labels:
   - Zimt und Zucker
   - Zimtzucker
   - Zucker und Zimt
-type: Artikel
-typeName: Rezept
-date: 2015-03-08T08:30:34.000Z
+focusKeyword: Bananenwaffeln
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "10299"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_16444940546_96d1f814da_o__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_16444940546_96d1f814da_o__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYEBQgH/8QALhAAAQQABQIEBQUBAAAAAAAAAQIDBBEABRIhMQZBBxMiUSNhcYGhFBVDUnKx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUG/8QAIxEAAgIBAwMFAAAAAAAAAAAAAQIAAxEEBRITIUEUIjFRcf/aAAwDAQACEQMRAD8AD4u+KcqHNVlHTr6RPQoGRIsFLIG/lpvbUe98D5naL0R41ykto/fI2wvXJg+pI/2g/mjiN1b4QliZIf6ZcXLdctacunLCX3FXZLbh9Dx+RpXyOFTozIjlLkzqbqaBJZj5e6I0bLZTamzOnchpSdvhorWu+wre6wW92vYse0v0V6WmgAe4/XnP7Ncwc6i/oY7777LfnNpd+KQ2EpULTqCq0kjej2wRx9ma2nQphRUNYbbWDY99jv8AUYzhlbWYZsheZ53mCp82QfNLixt6gSTXAHAAoUAAOMAzFp/L/LfguOMutnd1BUk7EWAU0ffviJZuCh+mvxFLtBZeTHBmis2yyLmDekpRThopUnUgn6dvqMcL8V4T0TqfLk5nImymGmR5SJDxcbZSVG6UeEEAar3OlIvHX0zFvLbaU4W27sOJNAn255wp+LcCVMydqbEbMhyJaHUBIUXWlcmjzRANdtzhl5fBCwmj4JarPFCJMaTFCyUa1pKk7BKjYrUR9uB2xW51IShpYcGoEbm6oULH/NsK7WYPxi4v1hwKKgpR9Iv+WjwNiCP7fYYrZWZrmIdbbS4GiqxfDfuTX4xH9KWbPiaIuB3n/9k=
 subTitle: Mit Zimtzucker und warmen Erdbeeren
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: DIY Lufterfrischer
-seoTitle: DIY Lufterfrischer - Raumduft mit ätherischen Ölen
+date: 2019-03-19T08:21:24.000Z
 slug: diy-lufterfrischer
 path: /2019/03/diy-lufterfrischer/
-fileName: 2019-03---diy-lufterfrischer.md
+type: Artikel
+typeName: Rezept
+title: DIY Lufterfrischer
+seoTitle: DIY Lufterfrischer - Raumduft mit ätherischen Ölen
+ogTitle: DIY Lufterfrischer - Raumduft mit ätherischen Ölen
 description: "Heute habe ich mal wieder einen kleinen Lifehack für Euch: Meinen
   DIY Lufterfrischer könnt Ihr ganz leicht selbst herstellen. Raumduft für
   alle!"
 excerpt: "Heute habe ich mal wieder einen kleinen Lifehack für Euch: Meinen DIY
   Lufterfrischer könnt Ihr ganz leicht selbst herstellen. Unangenehme Gerüche
   schafft der Raumduft einfach aus der Welt."
-focusKeyword: Lufterfrischer
+fileName: 2019-03---diy-lufterfrischer.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-diy-lufterfrischer__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-diy-lufterfrischer__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBgIEB//EACsQAAIBAwIFAwMFAAAAAAAAAAECAwQFEQAhBhITMUEHUWEVIqFicYGR8P/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQF/8QAJREAAQMDAgYDAAAAAAAAAAAAAQACAxESIQQxBRNBUaGxkfDx/9oADAMBAAIRAxEAPwBZwrb0pbJHNCQrT1EiySnuoRVIGfGzE/zpDVcYVT15jtQjipFcokhjDvL+rB/A1buEJaVGakurSvaqtSJWXYxuBgOu2x5WPwVyD20nuPo/dqWY/QLha7zSMcROJ+jJgHYMrbZHw2szHuMbQ1XYYnTvv6d074S9ULnYpqZLmUrKTs6yZEir7jfuPbA1ZfWWShvvBclxVVLCaCWkc9/v2IHwVJ/oa5uOCLrahzcQVFttcOc7ziaT91VQc7+5A1HFXEIu1PRUdOs8Nno41SAyLhpCAF6jfJAwB4ydPe5sbg8VwjIITKzlkDP35WNtuDMhiDtEJEI5kOGQ+Gz/ALYnTsXpqaaOkhqcydMBjFKCuOxDZOQ3nPbv220aNJoRfcw7fqrqCI6yAZI9HHtVuq6c9ziqKqqhlEfM3LMWbIByCSdyPHfyNaVUaVIjHHP1emGRX5OUMmftIU7g423/AD30aNDXPcySgK5vCYIZKyWAUO2aeST5X//Z
+ogImage: null
 labels:
   - ätherische Öle
   - Bergamotte
@@ -24,17 +31,12 @@ labels:
   - Raumduft
   - Raumduft vegan
   - Zitronella
-type: Artikel
-typeName: Rezept
-date: 2019-03-19T08:21:24.000Z
+focusKeyword: Lufterfrischer
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "23765"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-diy-lufterfrischer__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-diy-lufterfrischer__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBgIEB//EACsQAAIBAwIFAwMFAAAAAAAAAAECAwQFEQAhBhITMUEHUWEVIqFicYGR8P/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQF/8QAJREAAQMDAgYDAAAAAAAAAAAAAQACAxESIQQxBRNBUaGxkfDx/9oADAMBAAIRAxEAPwBZwrb0pbJHNCQrT1EiySnuoRVIGfGzE/zpDVcYVT15jtQjipFcokhjDvL+rB/A1buEJaVGakurSvaqtSJWXYxuBgOu2x5WPwVyD20nuPo/dqWY/QLha7zSMcROJ+jJgHYMrbZHw2szHuMbQ1XYYnTvv6d074S9ULnYpqZLmUrKTs6yZEir7jfuPbA1ZfWWShvvBclxVVLCaCWkc9/v2IHwVJ/oa5uOCLrahzcQVFttcOc7ziaT91VQc7+5A1HFXEIu1PRUdOs8Nno41SAyLhpCAF6jfJAwB4ydPe5sbg8VwjIITKzlkDP35WNtuDMhiDtEJEI5kOGQ+Gz/ALYnTsXpqaaOkhqcydMBjFKCuOxDZOQ3nPbv220aNJoRfcw7fqrqCI6yAZI9HHtVuq6c9ziqKqqhlEfM3LMWbIByCSdyPHfyNaVUaVIjHHP1emGRX5OUMmftIU7g423/AD30aNDXPcySgK5vCYIZKyWAUO2aeST5X//Z
 subTitle: Raumduft mit ätherischen Ölen
   
 ---

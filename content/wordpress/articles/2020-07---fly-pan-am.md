@@ -1,16 +1,23 @@
 ---
-title: Fly Pan Am
-seoTitle: Fly Pan Am im Interview - Kreativität gibt der Welt einen Sinn
+date: 2020-07-03T09:30:10.000Z
 slug: fly-pan-am-interview
 path: /2020/07/fly-pan-am-interview/
-fileName: 2020-07---fly-pan-am.md
+type: Artikel
+typeName: Interview
+title: Fly Pan Am
+seoTitle: Fly Pan Am im Interview - Kreativität gibt der Welt einen Sinn
+ogTitle: Fly Pan Am im Interview - Kreativität gibt der Welt einen Sinn
 description: Fly Pan Am gehören zu den wohl bekanntesten Post-Rock Bands
   überhaupt. Die Band wurde 1996 in Montréal, Quebec gegründet. Ich habe sie
   interviewt.
 excerpt: English & German - Fly Pan Am gehören zu den wohl bekanntesten
   Post-Rock Bands überhaupt. Die Band wurde 1996 in Montréal, Quebec gegründet.
   Ich habe sie interviewt.
-focusKeyword: Fly Pan Am
+fileName: 2020-07---fly-pan-am.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_fly-pan-am-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_fly-pan-am-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAApEAACAQMEAQIGAwAAAAAAAAABAgMABBEFEiExBmGBBxMiMkFxUbHh/8QAGAEAAgMAAAAAAAAAAAAAAAAABAYAAgP/xAAjEQACAgEDAwUAAAAAAAAAAAABAgADEQQTIRIiMUFRYXHB/9oADAMBAAIRAxEAPwBn+IN5rXj9vbSx6lC2n3CqxjlAyM9sWHIwfx1Ulv7hL+ymVruBZLAq0YIOZC0n2r/PefelHyvy7UL5pra8lYtHK6lSxODuIPf6rFtNYjVjuLIShUYHRx+eeqrTrL+d/u8w7YoqI2AF+o3adqkJu7mCCR2dvlpvPHIk3NjHGMAD2qz6X4vPFocGssbc2qybeGyw9c/v+q5q0++2XizOQoZQ5xxzj/Kp2geYXl3oVxpiTyCNQZI4weMgGhHvs6yPeO+h2W0ilWVSDzkZ7fXEnvxL0eLSvJpYrJXEDwrP9TFj2QxyfUUsMiq6AFzuVdx242k949KKKmnYtWuYlWcOZox2vzJy0LFoY7hIlMiYyCeMj26rfubKaw82a3S3DmSfMcSDav1ngADoZOMUUVgznrx8H8hSuQmRP//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_fly-pan-am-fb.png__l.jpg
 labels:
   - Ambient
   - Animals of Distinction
@@ -39,17 +46,12 @@ labels:
   - Shoegaze
   - Sic Sic tapes
   - Tranquility Tapes
-type: Artikel
-typeName: Interview
-date: 2020-07-03T09:30:10.000Z
+focusKeyword: Fly Pan Am
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30254"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_fly-pan-am-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_fly-pan-am-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAApEAACAQMEAQIGAwAAAAAAAAABAgMABBEFEiExBmGBBxMiMkFxUbHh/8QAGAEAAgMAAAAAAAAAAAAAAAAABAYAAgP/xAAjEQACAgEDAwUAAAAAAAAAAAABAgADEQQTIRIiMUFRYXHB/9oADAMBAAIRAxEAPwBn+IN5rXj9vbSx6lC2n3CqxjlAyM9sWHIwfx1Ulv7hL+ymVruBZLAq0YIOZC0n2r/PefelHyvy7UL5pra8lYtHK6lSxODuIPf6rFtNYjVjuLIShUYHRx+eeqrTrL+d/u8w7YoqI2AF+o3adqkJu7mCCR2dvlpvPHIk3NjHGMAD2qz6X4vPFocGssbc2qybeGyw9c/v+q5q0++2XizOQoZQ5xxzj/Kp2geYXl3oVxpiTyCNQZI4weMgGhHvs6yPeO+h2W0ilWVSDzkZ7fXEnvxL0eLSvJpYrJXEDwrP9TFj2QxyfUUsMiq6AFzuVdx242k949KKKmnYtWuYlWcOZox2vzJy0LFoY7hIlMiYyCeMj26rfubKaw82a3S3DmSfMcSDav1ngADoZOMUUVgznrx8H8hSuQmRP//Z
 subTitle: '"Kreativität gibt der Welt einen Sinn"'
   
 ---

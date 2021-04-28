@@ -1,16 +1,23 @@
 ---
-title: Aloha Cornwall
-seoTitle: St. Ives - Aloha Cornwall
+date: 2012-07-30T19:54:36.000Z
 slug: st-ives-aloha-cornwall
 path: /2012/07/st-ives-aloha-cornwall/
-fileName: 2012-07---aloha-cornwall.md
+type: Galerie
+typeName: Galerie
+title: Aloha Cornwall
+seoTitle: St. Ives - Aloha Cornwall
+ogTitle: St. Ives - Aloha Cornwall
 description: Erwähnte ich schon, dass ich Cornwall liebe? St. Ives ist ein ganz
   besonders bunter Teil davon. Hier treffen sich Surfer und Künstler - ein Hauch
   von Hawaii
 excerpt: Erwähnte ich schon, dass ich Cornwall liebe? St. Ives ist ein ganz
   besonders bunter Teil davon. Hier treffen sich Surfer und Künstler - ein Hauch
   von Hawaii
-focusKeyword: Cornwall
+fileName: 2012-07---aloha-cornwall.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9978__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9978__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAP/xAArEAACAgEDAwIEBwAAAAAAAAABAgMEEQAFBhITITFBFCMzURUWIjJCcZH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EAB8RAQACAgICAwAAAAAAAAAAAAEAAgMSESExQVFhsf/aAAwDAQACEQMRAD8A1fnmlBdmgj2i/ZatK8IcdmOMmM4YjrkHvnzjWpOdEFUHHbxKjq/VeqgY9c+HPjSfi22m9XvM0sYZtyuYV6ySD6x9yM668b2ndVu13bt9RjlaUsQ0JGcIip/Hxk5x7HRbnIRyg1bfEo6fOKk88kN3bLVR0jSRfnQyh1YsPVScYKHwfuNGo7lFaervg71eCANVTpEAwG+ZLk/350aXVgbD2RnxKACpuTCWWN/xO4uEY4+sfbVHtwhrwrJYz1I3QWYeoz7/AO6nZeG8g79tdvubT8JJdltRK9ixBIO4erpPQpBxpnV4vyNY1T4LbmQDKqd/sADz64MB8k6my48lrCepVhthrV2UX66/Yt50Da3aqETpKVFyv2zJJo1QRcT3y3cebck2+viCOJAl1pycM5OSY1x+4ffRq2nQcyO/a8eJ/9k=
+ogImage: null
 labels:
   - Aloha
   - Board
@@ -38,17 +45,12 @@ labels:
   - Wellen
   - Wellenreiten
   - Wind
-type: Galerie
-typeName: Galerie
-date: 2012-07-30T19:54:36.000Z
+focusKeyword: Cornwall
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "3508"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9978__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9978__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAP/xAArEAACAgEDAwIEBwAAAAAAAAABAgMEEQAFBhITITFBFCMzURUWIjJCcZH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EAB8RAQACAgICAwAAAAAAAAAAAAEAAgMSESExQVFhsf/aAAwDAQACEQMRAD8A1fnmlBdmgj2i/ZatK8IcdmOMmM4YjrkHvnzjWpOdEFUHHbxKjq/VeqgY9c+HPjSfi22m9XvM0sYZtyuYV6ySD6x9yM668b2ndVu13bt9RjlaUsQ0JGcIip/Hxk5x7HRbnIRyg1bfEo6fOKk88kN3bLVR0jSRfnQyh1YsPVScYKHwfuNGo7lFaervg71eCANVTpEAwG+ZLk/350aXVgbD2RnxKACpuTCWWN/xO4uEY4+sfbVHtwhrwrJYz1I3QWYeoz7/AO6nZeG8g79tdvubT8JJdltRK9ixBIO4erpPQpBxpnV4vyNY1T4LbmQDKqd/sADz64MB8k6my48lrCepVhthrV2UX66/Yt50Da3aqETpKVFyv2zJJo1QRcT3y3cebck2+viCOJAl1pycM5OSY1x+4ffRq2nQcyO/a8eJ/9k=
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 6/9
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: soulbottles
-seoTitle: soulbottles - Wasser trinken und Gutes tun
+date: 2020-05-27T11:30:40.000Z
 slug: soulbottles
 path: /2020/05/soulbottles/
-fileName: 2020-05---soulbottles.md
+type: Artikel
+typeName: Produkttest
+title: soulbottles
+seoTitle: soulbottles - Wasser trinken und Gutes tun
+ogTitle: soulbottles - Wasser trinken und Gutes tun
 description: Soulbottles steht für plastikfreie Trinkflaschen aus Berlin. Ich
   bin jetzt auch stolze Besitzerin einer Soulbottle und möchte sie Euch heute
   gerne zeigen.
 excerpt: Werbung & Affiliate Links - Soulbottles steht für plastikfreie
   Trinkflaschen aus Berlin. Ich bin jetzt auch stolze Besitzerin einer
   Soulbottle und möchte sie Euch heute gerne zeigen.
-focusKeyword: Soulbottles
+fileName: 2020-05---soulbottles.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-17-soulbottles-17__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-17-soulbottles-17__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAcIAwUG/8QAKxAAAQQBBAECBAcAAAAAAAAAAQIDBBEFAAYSIUETMQcVUbEiI2FxcoHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQIAA//EAB8RAAICAQQDAAAAAAAAAAAAAAABAgMRBCExQRITYf/aAAwDAQACEQMRAD8AcmRnuCBJU1RcS2opCjQJrq9L4IyjT2NlMrgzZnohS1o/JQCb5JUoE8iboGh+2tzvKQqPtDNvhSkluE6q0miPwn2/XSh2tug5F52Uth1eIhtPyOTyg4sJaQmiTVeaB9+hffZJp+SZqpL1tdnTbH+IWRyOezGGyyk1HlLMVdBJLYe4Ua6sdD6nToM9XI9+dQvCy3zHe7U1DAZMvJpe48ySjk6k147H+6tNy/Wc/kfvq4bnK5YaMG64DUjbOUjuXwcjOIUU9GiPB1P/AMUtmsw9tuZyBkJbam2Ex3mHCFJdTYIrjxA83YVd3796NGpm9xq4z9QqtoMiXunDoTTaXZ7QSKviPUB/vV3LjpLqz9VH76NGmvsdRyj/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_soulbottles-fb.png__l.jpg
 labels:
   - Ernährung & Gesundheit
   - Nachhaltigkeit
@@ -19,17 +26,12 @@ labels:
   - Trinkflasche
   - Viva Con Agua
   - Viva con Agua de Sankt Pauli e. V.
-type: Artikel
-typeName: Produkttest
-date: 2020-05-27T11:30:40.000Z
+focusKeyword: Soulbottles
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29740"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-17-soulbottles-17__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-17-soulbottles-17__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAcIAwUG/8QAKxAAAQQBBAECBAcAAAAAAAAAAQIDBBEFAAYSIUETMQcVUbEiI2FxcoHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQIAA//EAB8RAAICAQQDAAAAAAAAAAAAAAABAgMRBCExQRITYf/aAAwDAQACEQMRAD8AcmRnuCBJU1RcS2opCjQJrq9L4IyjT2NlMrgzZnohS1o/JQCb5JUoE8iboGh+2tzvKQqPtDNvhSkluE6q0miPwn2/XSh2tug5F52Uth1eIhtPyOTyg4sJaQmiTVeaB9+hffZJp+SZqpL1tdnTbH+IWRyOezGGyyk1HlLMVdBJLYe4Ua6sdD6nToM9XI9+dQvCy3zHe7U1DAZMvJpe48ySjk6k147H+6tNy/Wc/kfvq4bnK5YaMG64DUjbOUjuXwcjOIUU9GiPB1P/AMUtmsw9tuZyBkJbam2Ex3mHCFJdTYIrjxA83YVd3796NGpm9xq4z9QqtoMiXunDoTTaXZ7QSKviPUB/vV3LjpLqz9VH76NGmvsdRyj/2Q==
 subTitle: Wasser trinken und Gutes tun
   
 ---

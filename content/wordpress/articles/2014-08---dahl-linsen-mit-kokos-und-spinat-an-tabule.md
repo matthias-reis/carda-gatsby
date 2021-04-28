@@ -1,16 +1,23 @@
 ---
-title: Dahl-Linsen mit Kokos und Spinat an Tabulé
-seoTitle: Dahl-Linsen mit Kokos und Spinat an Tabulé
+date: 2014-08-31T11:58:18.000Z
 slug: dahl-linsen-mit-kokos-und-spinat-an-tabule
 path: /2014/08/dahl-linsen-mit-kokos-und-spinat-an-tabule/
-fileName: 2014-08---dahl-linsen-mit-kokos-und-spinat-an-tabule.md
+type: Artikel
+typeName: Rezept
+title: Dahl-Linsen mit Kokos und Spinat an Tabulé
+seoTitle: Dahl-Linsen mit Kokos und Spinat an Tabulé
+ogTitle: Dahl-Linsen mit Kokos und Spinat an Tabulé
 description: Dahl-Linsen mit Kokos und Spinat an Tabulé schmecken scharf und
   lecker fruchtig. Sie sind schnell zubereitet und stecken voller wertvoller
   Nährstoffe.
 excerpt: Dahl-Linsen mit Kokos und Spinat an Tabulé schmecken scharf und lecker
   fruchtig. Sie sind schnell zubereitet und stecken voller wertvoller
   Nährstoffe.
-focusKeyword: Dahl-Linsen
+fileName: 2014-08---dahl-linsen-mit-kokos-und-spinat-an-tabule.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_15056013345_5e74378d4c_o__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_15056013345_5e74378d4c_o__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFBgP/xAArEAACAgIABQMDBAMAAAAAAAABAgMEBREABhIhMRNBUQcUYRUicZEjUmL/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQACA//EACYRAAEDAgQGAwAAAAAAAAAAAAECAwQAERMhMXEiQVFhwfCRoeH/2gAMAwEAAhEDEQA/ALvm1fuUpxVrNiG9JKPQSMgEga6+rfbo15J99fnjjh5eXsPUszSD1byMQK8FQq8z70ApK9wSdAk6P98QIszBXyl7JxEzXIJ1rpEysSlZYiWbpAJX9xJ8E/xwT8wX5XaNrrVpZ8rFC0VuOcqYpGVWQFAdIF3ptH3B874WSJjrrqkoyAy/ffinbbDcRsC11EAk78h0A03v2pMs8+UbuV/TcnhLFeoXaKO1RtusrMAO6qACVO/f4PkbPE1chWw92p97asXaF8laNmMM/Ww8xOCdK4/ojv8AIBbQuZGbE1lhxFyzzIkjMksULTSRIC4JEffXZiNAd+kH23xPx8OZwnI16K9ZsVpi6S1okAaaOREDKo/1Kxhi59g2tbJ4kea4yQHDle2/U7VRcZMtKrCygL38HekWtjLhz8jUlq/qtmMQoWZ1EiSlVmjLBi3sD3JI7fzw0Y/kflrDUo61HCY0V0kD7eskjEja7JYHv44J45rFS9WsxLHJ9u4lijUCPRB2Ndu3jv8APvvheh5oxFrE/cLbhhYrsxzOBJGfjX4+fHBaomE4pYzv9UI5LDyEDQjI97c/edYb6tZSxym+OmwTRQJkZHqMCgVIv2FvUB8gAAkj8dvPBfmGhofTnLZ6yH9bIwNiMNDL3crKf8kp/wC2Xqdj+QPji7+qHMVfmm7Sx9atesU6UzzSyRxlTOSvSI0ZgAoPfbH57b4yN2vf5nz8FjNNAqU4xHTx9Y9UVVPjfgsdbLHz7ADQ4zTGU49iKGmlECWiPFw0niVrbzX/2Q==
+ogImage: null
 labels:
   - Anne kocht
   - Bulgur
@@ -32,17 +39,12 @@ labels:
   - Vegane Rezepte
   - Veganer
   - Veganes Essen
-type: Artikel
-typeName: Rezept
-date: 2014-08-31T11:58:18.000Z
+focusKeyword: Dahl-Linsen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "8686"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_15056013345_5e74378d4c_o__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_15056013345_5e74378d4c_o__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFBgP/xAArEAACAgIABQMDBAMAAAAAAAABAgMEBREABhIhMRNBUQcUYRUicZEjUmL/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQACA//EACYRAAEDAgQGAwAAAAAAAAAAAAECAwQAERMhMXEiQVFhwfCRoeH/2gAMAwEAAhEDEQA/ALvm1fuUpxVrNiG9JKPQSMgEga6+rfbo15J99fnjjh5eXsPUszSD1byMQK8FQq8z70ApK9wSdAk6P98QIszBXyl7JxEzXIJ1rpEysSlZYiWbpAJX9xJ8E/xwT8wX5XaNrrVpZ8rFC0VuOcqYpGVWQFAdIF3ptH3B874WSJjrrqkoyAy/ffinbbDcRsC11EAk78h0A03v2pMs8+UbuV/TcnhLFeoXaKO1RtusrMAO6qACVO/f4PkbPE1chWw92p97asXaF8laNmMM/Ww8xOCdK4/ojv8AIBbQuZGbE1lhxFyzzIkjMksULTSRIC4JEffXZiNAd+kH23xPx8OZwnI16K9ZsVpi6S1okAaaOREDKo/1Kxhi59g2tbJ4kea4yQHDle2/U7VRcZMtKrCygL38HekWtjLhz8jUlq/qtmMQoWZ1EiSlVmjLBi3sD3JI7fzw0Y/kflrDUo61HCY0V0kD7eskjEja7JYHv44J45rFS9WsxLHJ9u4lijUCPRB2Ndu3jv8APvvheh5oxFrE/cLbhhYrsxzOBJGfjX4+fHBaomE4pYzv9UI5LDyEDQjI97c/edYb6tZSxym+OmwTRQJkZHqMCgVIv2FvUB8gAAkj8dvPBfmGhofTnLZ6yH9bIwNiMNDL3crKf8kp/wC2Xqdj+QPji7+qHMVfmm7Sx9atesU6UzzSyRxlTOSvSI0ZgAoPfbH57b4yN2vf5nz8FjNNAqU4xHTx9Y9UVVPjfgsdbLHz7ADQ4zTGU49iKGmlECWiPFw0niVrbzX/2Q==
 subTitle: Scharf und lecker
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: Schrobenhausen
-seoTitle: Schrobenhausen - Lenbachstadt im Spargelland
+date: 2009-07-14T08:06:39.000Z
 slug: schrobenhausen-die-lenbachstadt-im-spargelland
 path: /2009/07/schrobenhausen-die-lenbachstadt-im-spargelland/
-fileName: 2009-07---schrobenhausen.md
+type: Artikel
+typeName: Artikel
+title: Schrobenhausen
+seoTitle: Schrobenhausen - Lenbachstadt im Spargelland
+ogTitle: Schrobenhausen - Lenbachstadt im Spargelland
 description: Durch das heutige Stadtgebiet von Schrobenhausen verlief die
   römische Straße Augsburg - Regensburg.
 excerpt: Durch das heutige Stadtgebiet von Schrobenhausen verlief die römische
   Straße Augsburg - Regensburg.
-focusKeyword: Schrobenhausen
+fileName: 2009-07---schrobenhausen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_07_11531615015_ce8ece7e3a_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_07_11531615015_ce8ece7e3a_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgIDB//EACcQAAIBAwMDBQADAAAAAAAAAAECAwQFEQAGEiExQQcTIjJRFGGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACEQMSMRP/2gAMAwEAAhEDEQA/AOcUzNJEjFWUsoPFh1HTsdWawWK8Xm1yPZ4FlaPkXQxlmk+YUKoBHYHJ/rTF/TIGag/i2utanMXKoYsMK+SOLHI4AAZPfUu07be0bevVVRC5U1xFOwpo4pyeYZ8MFRW+Q4AEnx/mg132OvKnki1+ztw2mKSsu0AjpUdkdVg9tiAuRIByORnofPn91VLzBTwtKY45PeyORY9P3tq6bctM249oXKG7NcZamCtjNIjyMmUZeMnHLEP2BIz3Gt1L6aUtRVI0FjrJooiEkZ2UByTnLEt24kH4/p0fnroyhzpXqmszramsl3FtqNa+sjJoaZ14TsF5OxBZhn5aTVlRcxsu9VEV6ukbJykPCqkBZirH7ZyACo6Dxo0arbyZom9OLtd3vW76JrvcGo6eh9xYJKmSRASVU45MSPsT38dc6e7VrK2TaNhuFRWTTSszjLMQeXu8eRIIB7jx40aNCtnCMNJ//9k=
+ogImage: null
 labels:
   - Ausflug
   - Bayern
@@ -17,17 +24,12 @@ labels:
   - Reiseführer Bayern
   - Schrobenhausen
   - Spargel
-type: Artikel
-typeName: Artikel
-date: 2009-07-14T08:06:39.000Z
+focusKeyword: Schrobenhausen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11408"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_07_11531615015_ce8ece7e3a_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_07_11531615015_ce8ece7e3a_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgIDB//EACcQAAIBAwMDBQADAAAAAAAAAAECAwQFEQAGEiExQQcTIjJRFGGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACEQMSMRP/2gAMAwEAAhEDEQA/AOcUzNJEjFWUsoPFh1HTsdWawWK8Xm1yPZ4FlaPkXQxlmk+YUKoBHYHJ/rTF/TIGag/i2utanMXKoYsMK+SOLHI4AAZPfUu07be0bevVVRC5U1xFOwpo4pyeYZ8MFRW+Q4AEnx/mg132OvKnki1+ztw2mKSsu0AjpUdkdVg9tiAuRIByORnofPn91VLzBTwtKY45PeyORY9P3tq6bctM249oXKG7NcZamCtjNIjyMmUZeMnHLEP2BIz3Gt1L6aUtRVI0FjrJooiEkZ2UByTnLEt24kH4/p0fnroyhzpXqmszramsl3FtqNa+sjJoaZ14TsF5OxBZhn5aTVlRcxsu9VEV6ukbJykPCqkBZirH7ZyACo6Dxo0arbyZom9OLtd3vW76JrvcGo6eh9xYJKmSRASVU45MSPsT38dc6e7VrK2TaNhuFRWTTSszjLMQeXu8eRIIB7jx40aNCtnCMNJ//9k=
 subTitle: Lenbachstadt im Spargelland
   
 ---

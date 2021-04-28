@@ -1,16 +1,23 @@
 ---
-title: Wiesenhof-Hähnchen mit Tierschutzlogo
-seoTitle: Wiesenhof-Hähnchen mit Tierschutzlogo
+date: 2014-08-06T14:35:32.000Z
 slug: wiesenhof-hahnchen-mit-tierschutzlogo
 path: /2014/08/wiesenhof-hahnchen-mit-tierschutzlogo/
-fileName: 2014-08---wiesenhof-haehnchen-mit-tierschutzlogo.md
+type: Artikel
+typeName: Artikel
+title: Wiesenhof-Hähnchen mit Tierschutzlogo
+seoTitle: Wiesenhof-Hähnchen mit Tierschutzlogo
+ogTitle: Wiesenhof-Hähnchen mit Tierschutzlogo
 description: Wiesenhof-Hähnchen mit Tierschutzlogo? Was hat das mit Tierschutz
   zu tun? Macht der Deutsche Tierschutzbund jetzt gemeinsame Sache mit
   Schlachthöfen?
 excerpt: Wiesenhof-Hähnchen mit Tierschutzlogo? Was hat das mit Tierschutz zu
   tun? Macht der Deutsche Tierschutzbund jetzt gemeinsame Sache mit
   Schlachthöfen?
-focusKeyword: Wiesenhof
+fileName: 2014-08---wiesenhof-haehnchen-mit-tierschutzlogo.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_hahn__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_hahn__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUABP/EACsQAAIBAgUDAwMFAAAAAAAAAAECAwQRAAUGEiETMUEUUWEHFbEicYGhwf/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAbEQEBAQACAwAAAAAAAAAAAAABABEhMQISIv/aAAwDAQACEQMRAD8Ao6W+mzVRXMpaYsdnTWSeQm4ubjjj35wsGn6dkjVogTGu1QTbaPYYTaFqfuOXUkDTqkVGhWeFCUKOCNvPm/JI8Yk66q1ybNaUZbUsIZ0ZTG1pB1ARxcnjg+fbGPVbxfrKNmOQRVFRUNPArSs3Bex3AKALEduBa3gYE5/pumUHcktObX5swI+L/wCXxtVa9r6KuaimWn2PCWSRVYyUzhtvVcKeAT2HPBGGGWT5fqLSkTxv6l4kEMxLXcyBeSfPN7/tgxCZefVIstaTVnMYqr0+YRxGISKOHsDt3gX3Dz3B+cSM3rM5y9KfNs3lo6iOBiwjEbKrNYhAwHdh3ubnjAXTep+myuo3ooFib349+ecOc7z+nmyNunIqmNSTI4Nt/FgLfzz4wuvTBjyQmvzWqGpMx6dVN6eoVGq5DtvL+pW2kkcKCqkAe2EOm9Ux0tfNlZaOL1gIVozYLIAR28gj8DAGoljes6gsUkU7lY+CP77/AJxyUtQFraUwLuaJywNr2PbufjFV0pijt//Z
+ogImage: null
 labels:
   - Animal Rights
   - Antifaschismus & Feminismus
@@ -55,18 +62,13 @@ labels:
   - Wiesenhof
   - Wiesenhof Skandal
   - Wut
-type: Artikel
-typeName: Artikel
-date: 2014-08-06T14:35:32.000Z
+focusKeyword: Wiesenhof
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "8140"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_hahn__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_hahn__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUABP/EACsQAAIBAgUDAwMFAAAAAAAAAAECAwQRAAUGEiETMUEUUWEHFbEicYGhwf/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAbEQEBAQACAwAAAAAAAAAAAAABABEhMQISIv/aAAwDAQACEQMRAD8Ao6W+mzVRXMpaYsdnTWSeQm4ubjjj35wsGn6dkjVogTGu1QTbaPYYTaFqfuOXUkDTqkVGhWeFCUKOCNvPm/JI8Yk66q1ybNaUZbUsIZ0ZTG1pB1ARxcnjg+fbGPVbxfrKNmOQRVFRUNPArSs3Bex3AKALEduBa3gYE5/pumUHcktObX5swI+L/wCXxtVa9r6KuaimWn2PCWSRVYyUzhtvVcKeAT2HPBGGGWT5fqLSkTxv6l4kEMxLXcyBeSfPN7/tgxCZefVIstaTVnMYqr0+YRxGISKOHsDt3gX3Dz3B+cSM3rM5y9KfNs3lo6iOBiwjEbKrNYhAwHdh3ubnjAXTep+myuo3ooFib349+ecOc7z+nmyNunIqmNSTI4Nt/FgLfzz4wuvTBjyQmvzWqGpMx6dVN6eoVGq5DtvL+pW2kkcKCqkAe2EOm9Ux0tfNlZaOL1gIVozYLIAR28gj8DAGoljes6gsUkU7lY+CP77/AJxyUtQFraUwLuaJywNr2PbufjFV0pijt//Z
 subTitle: Skandal um Tierschutzbund
   
 ---

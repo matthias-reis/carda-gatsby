@@ -1,16 +1,23 @@
 ---
-title: Mein Glasnudelsalat bei Otto
-seoTitle: Veganer Glasnudelsalat made by Anne goes Otto Versand - Mein Rezept bei Otto
+date: 2017-04-19T12:18:11.000Z
 slug: veganer-glasnudelsalat-made-by-anne-goes-otto-versand
 path: /2017/04/veganer-glasnudelsalat-made-by-anne-goes-otto-versand/
-fileName: 2017-04---mein-glasnudelsalat-bei-otto.md
+type: Artikel
+typeName: Rezept
+title: Mein Glasnudelsalat bei Otto
+seoTitle: Veganer Glasnudelsalat made by Anne goes Otto Versand - Mein Rezept bei Otto
+ogTitle: Veganer Glasnudelsalat made by Anne goes Otto Versand - Mein Rezept bei Otto
 description: Mein Rezept ist soeben im Bloggerbereich beim Otto Versand
   erschienen! Schick oder? Wenns darum geht, zu zeigen, wie gutes Essen geht,
   bin ich immer dabei.
 excerpt: Mein Rezept ist soeben im Bloggerbereich beim Otto Versand erschienen!
   Schick oder? Wenn es darum geht, zu zeigen, wie gutes Essen geht, bin ich
   immer gerne dabei.
-focusKeyword: Otto Versand
+fileName: 2017-04---mein-glasnudelsalat-bei-otto.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_03_IMG_1524__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_03_IMG_1524__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgQFAwf/xAArEAACAgEEAAUEAQUAAAAAAAABAgMEEQAFEiETMUFRYQYUIoEyQnGRwfH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwABBAX/xAAlEQABAwIFBAMAAAAAAAAAAAABAgMRAAQSEyExUUFhcaGBkfD/2gAMAwEAAhEDEQA/ANPbNqqw0I9xtKLcZDHgG4RxceyZXPkMZ6GrbfjW6sc1mvcsVPw8NYUWvXXkOsBuz6eYB12+nYXjpKWMP20gM5L4kYSAlUIU+wGex3n41uX7tY04ma3DCr/gxd/DHWMFT8/771y1XzdrhSESTWl1hy6WYOg6Uflv0rlKOtZrWaEyY+3aUKUfPfDxAev2Ouu9ZUiNFI6v4kbqSCPUH50vSSta2xlaCXcqlkGRllCuz8vxABAwAOxozYEbwPGIzE1WRa68n5FkKZXJ9xhl/wCDUU8LolREK9Hv55o2lG3KWSdOnI7VP9HLDeqwPI8TWopPAVQ5VyUD5+CODIf0dId42yGfb4l3ASXmiThFzLZZfQEL15hc/wBhryvZ789O41iqA3MBZY+XHnjyZW/pcZOGx5Eg5B0wo77HJBzguLC/Il0uZUkYA4nlkDB7BQ4+O9G81n4XExiAiDA+RPIpSi6yolG29JU3GxSjrbfDVaSpLEG8KF1jPNVy0YU9E+/fnnvRDxJbUW5S2q8laKe4orVi2CqxhizdgH+T4/R9tWXNyo2mmkv7jLamZAkcVU5CgHJLOw4r7ZUE6hs7h9w3axpGg4pGi4WNfRVHoB/nOSfXSGmcqVqiT+1PqPurbSt5QWsRFf/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_03_IMG_1524__l.jpg
 labels:
   - Ernährung & Gesundheit
   - Frühling
@@ -26,17 +33,12 @@ labels:
   - vegan
   - Veganer
   - veganwerdenwaslosdigga
-type: Artikel
-typeName: Rezept
-date: 2017-04-19T12:18:11.000Z
+focusKeyword: Otto Versand
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16216"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_03_IMG_1524__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_03_IMG_1524__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgQFAwf/xAArEAACAgEEAAUEAQUAAAAAAAABAgMEEQAFEiETMUFRYQYUIoEyQnGRwfH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwABBAX/xAAlEQABAwIFBAMAAAAAAAAAAAABAgMRAAQSEyExUUFhcaGBkfD/2gAMAwEAAhEDEQA/ANPbNqqw0I9xtKLcZDHgG4RxceyZXPkMZ6GrbfjW6sc1mvcsVPw8NYUWvXXkOsBuz6eYB12+nYXjpKWMP20gM5L4kYSAlUIU+wGex3n41uX7tY04ma3DCr/gxd/DHWMFT8/771y1XzdrhSESTWl1hy6WYOg6Uflv0rlKOtZrWaEyY+3aUKUfPfDxAev2Ouu9ZUiNFI6v4kbqSCPUH50vSSta2xlaCXcqlkGRllCuz8vxABAwAOxozYEbwPGIzE1WRa68n5FkKZXJ9xhl/wCDUU8LolREK9Hv55o2lG3KWSdOnI7VP9HLDeqwPI8TWopPAVQ5VyUD5+CODIf0dId42yGfb4l3ASXmiThFzLZZfQEL15hc/wBhryvZ789O41iqA3MBZY+XHnjyZW/pcZOGx5Eg5B0wo77HJBzguLC/Il0uZUkYA4nlkDB7BQ4+O9G81n4XExiAiDA+RPIpSi6yolG29JU3GxSjrbfDVaSpLEG8KF1jPNVy0YU9E+/fnnvRDxJbUW5S2q8laKe4orVi2CqxhizdgH+T4/R9tWXNyo2mmkv7jLamZAkcVU5CgHJLOw4r7ZUE6hs7h9w3axpGg4pGi4WNfRVHoB/nOSfXSGmcqVqiT+1PqPurbSt5QWsRFf/Z
 subTitle: Mango, Chili &amp; Cashews
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: Drei Jahre Blog-Jubiläum
-seoTitle: Drei Jahre Blog-Jubiläum
+date: 2013-04-16T10:45:52.000Z
 slug: hoch-die-tassen-jubilaum
 path: /2013/04/hoch-die-tassen-jubilaum/
-fileName: 2013-04---drei-jahre-blog-jubilaeum.md
+type: Artikel
+typeName: Artikel
+title: Drei Jahre Blog-Jubiläum
+seoTitle: Drei Jahre Blog-Jubiläum
+ogTitle: Drei Jahre Blog-Jubiläum
 description: Mein Blog wird heute drei Jahre alt! Das ist für mich natürlich ein
   Grund zum Feiern und einen Rückblick für Euch gibt es auch!
 excerpt: Mein Blog wird heute drei Jahre alt! Das ist für mich natürlich ein
   Grund zum Feiern und einen Rückblick für Euch gibt es auch!
-focusKeyword: ""
+fileName: 2013-04---drei-jahre-blog-jubilaeum.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_p1000273-e1582812006264__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_03_p1000273-e1582812006264__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBAL/xAAvEAABAwMCAwcCBwAAAAAAAAABAgMEBQYRACESEzEiQVFhcXKBBxUzNDU2c7LB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABsRAQADAAMBAAAAAAAAAAAAAAEAAhEDEiET/9oADAMBAAIRAxEAPwB3VytfabktukFgvv1l55sHiKeUltorKsY33wPnXD9dQ1eMS3hH50qQw9MdUCMR2kBISVe5RwPTUx0j6jyYNUtisOMKk/ZUzkYff4uaJC1qSc4yCAsD0TtjWqzfq3Np1wVOr1KCmfMqakmVKUop5bKB2W0AbJSDv8Aants3+GGxwXBdyqRfcRc5ohiHKfpzsVlezrTyWlMPkE4JzkHwxtoxqVQjM3m0hc2Uw5Epz0hEdt3DDva4VFbQ7SyBuNtu7UzXNe0i76uuU7EajONqaDIbzlSAviTk95Azv5+WmAivC6L/AGJLrLENUWnSG1lT3Ep9D4AAQAASRwnx8NOnqjI5a9QQksv1eQ+6pUghYKiogDh6knu9dE9GrDrUZLohqypBZQ5y+YCPb0OMb+WgdH4ifcNNO3/0mP6D+zmhMfJVbKOzI9XWJkhQUVh9tOQkNJb4fjqdvHoDoLerEpypqnNvOtP5yhbaylSB0ABG420W1r96U/8Aha/3QLO/Mue7SH2K7tSf/9k=
+ogImage: null
 labels:
   - Anne Reko
   - Blog
@@ -33,18 +40,13 @@ labels:
   - Postkarten Anne Reko
   - schreiben
   - Tagebuch
-type: Artikel
-typeName: Artikel
-date: 2013-04-16T10:45:52.000Z
+focusKeyword: ""
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "5058"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_p1000273-e1582812006264__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_03_p1000273-e1582812006264__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBAL/xAAvEAABAwMCAwcCBwAAAAAAAAABAgMEBQYRACESEzEiQVFhcXKBBxUzNDU2c7LB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABsRAQADAAMBAAAAAAAAAAAAAAEAAhEDEiET/9oADAMBAAIRAxEAPwB3VytfabktukFgvv1l55sHiKeUltorKsY33wPnXD9dQ1eMS3hH50qQw9MdUCMR2kBISVe5RwPTUx0j6jyYNUtisOMKk/ZUzkYff4uaJC1qSc4yCAsD0TtjWqzfq3Np1wVOr1KCmfMqakmVKUop5bKB2W0AbJSDv8Aants3+GGxwXBdyqRfcRc5ohiHKfpzsVlezrTyWlMPkE4JzkHwxtoxqVQjM3m0hc2Uw5Epz0hEdt3DDva4VFbQ7SyBuNtu7UzXNe0i76uuU7EajONqaDIbzlSAviTk95Azv5+WmAivC6L/AGJLrLENUWnSG1lT3Ep9D4AAQAASRwnx8NOnqjI5a9QQksv1eQ+6pUghYKiogDh6knu9dE9GrDrUZLohqypBZQ5y+YCPb0OMb+WgdH4ifcNNO3/0mP6D+zmhMfJVbKOzI9XWJkhQUVh9tOQkNJb4fjqdvHoDoLerEpypqnNvOtP5yhbaylSB0ABG420W1r96U/8Aha/3QLO/Mue7SH2K7tSf/9k=
 subTitle: Es gibt was zu feiern
   
 ---

@@ -1,15 +1,22 @@
 ---
-title: Gemüseauflauf mit Basilikum-Tofu und Gelber Bete
-seoTitle: Gemüseauflauf mit Basilikumtofu und Gelber Bete
+date: 2014-09-03T11:12:33.000Z
 slug: gemuseauflauf-mit-basilikum-tofu-und-gelber-bete
 path: /2014/09/gemuseauflauf-mit-basilikum-tofu-und-gelber-bete/
-fileName: 2014-09---gemueseauflauf-mit-basilikum-tofu-und-gelber-bete.md
+type: Artikel
+typeName: Rezept
+title: Gemüseauflauf mit Basilikum-Tofu und Gelber Bete
+seoTitle: Gemüseauflauf mit Basilikumtofu und Gelber Bete
+ogTitle: Gemüseauflauf mit Basilikumtofu und Gelber Bete
 description: Gemüseauflauf mit Gelber Bete ist herzhaft und saftig. Er ist
   vegan, leicht zuzubereiten und steckt voller wertvoller Vitamine und
   Nährstoffe.
 excerpt: Gemüseauflauf mit Gelber Bete ist herzhaft und saftig. Er ist vegan,
   leicht zuzubereiten und steckt voller wertvoller Vitamine und Nährstoffe.
-focusKeyword: Gemüseauflauf
+fileName: 2014-09---gemueseauflauf-mit-basilikum-tofu-und-gelber-bete.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-211__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-211__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBgT/xAApEAACAgEEAQMCBwAAAAAAAAABAgMRBAAFIUESExQxIoEGMkJRcZHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAkEQABBAAFBAMAAAAAAAAAAAABAAIEEQMSITFRQnGh8WGRwf/aAAwDAQACEQMRAD8Aw+Ft2DuedLG2RLjwwq/mzQg2AB38j/d6o4+2bUYAcjOnzWjVVCeuI0AH5QFHJ67PwNT19rjbLLPjI8oyHX1eDfpDiwByKJJr+Ndbyx5sGPKoM5XGKk+ZKtV8CwDQu+K+9a5EuW6NloXfOwVWDHdIcW5stcVfnun5OJDKuOvg3t1Ab0JVIVl/fiur5F98amHH2WDPdTEuNMG+nzfyBUjgktxWrORuEuNtccORHkyY8kivDKG8+ApFVXHfN8js8jRH7T25MiokcqMqepILZLsKEIv55B+2iLLMnortt7+FoxTgGnvzDz6/Vg8DdT4JDDEYZ4z9LAj57tTQII4I1Wj3WGSJoZ8bKjLAgrit5X8/pvyH9nRo1U9oNWLSiLs3qqz75lZOyxYcMbeEJVF9eNVcsFpPoU2eBzZUdm9Jx86ef8N5KyCN4ZJ6mjWPymYWAVtqF3VdAHqtGjRHY1gpgrW9E0UcIuOp5+1//9k=
+ogImage: null
 labels:
   - Auflauf
   - Basilikum
@@ -30,18 +37,13 @@ labels:
   - Vegane Rezepte
   - Veganer
   - Zucchini
-type: Artikel
-typeName: Rezept
-date: 2014-09-03T11:12:33.000Z
+focusKeyword: Gemüseauflauf
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "8780"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-211__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-211__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBgT/xAApEAACAgEEAQMCBwAAAAAAAAABAgMRBAAFIUESExQxIoEGMkJRcZHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAkEQABBAAFBAMAAAAAAAAAAAABAAIEEQMSITFRQnGh8WGRwf/aAAwDAQACEQMRAD8Aw+Ft2DuedLG2RLjwwq/mzQg2AB38j/d6o4+2bUYAcjOnzWjVVCeuI0AH5QFHJ67PwNT19rjbLLPjI8oyHX1eDfpDiwByKJJr+Ndbyx5sGPKoM5XGKk+ZKtV8CwDQu+K+9a5EuW6NloXfOwVWDHdIcW5stcVfnun5OJDKuOvg3t1Ab0JVIVl/fiur5F98amHH2WDPdTEuNMG+nzfyBUjgktxWrORuEuNtccORHkyY8kivDKG8+ApFVXHfN8js8jRH7T25MiokcqMqepILZLsKEIv55B+2iLLMnortt7+FoxTgGnvzDz6/Vg8DdT4JDDEYZ4z9LAj57tTQII4I1Wj3WGSJoZ8bKjLAgrit5X8/pvyH9nRo1U9oNWLSiLs3qqz75lZOyxYcMbeEJVF9eNVcsFpPoU2eBzZUdm9Jx86ef8N5KyCN4ZJ6mjWPymYWAVtqF3VdAHqtGjRHY1gpgrW9E0UcIuOp5+1//9k=
 subTitle: Herzhaft und saftig
   
 ---

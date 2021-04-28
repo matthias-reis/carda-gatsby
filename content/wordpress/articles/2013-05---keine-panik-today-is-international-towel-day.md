@@ -1,16 +1,23 @@
 ---
-title: Keine Panik! Today is International Towel Day
-seoTitle: Keine Panik! Today is International Towel Day!
+date: 2013-05-25T05:52:36.000Z
 slug: keine-panik-today-is-international-towel-day
 path: /2013/05/keine-panik-today-is-international-towel-day/
-fileName: 2013-05---keine-panik-today-is-international-towel-day.md
+type: Artikel
+typeName: Artikel
+title: Keine Panik! Today is International Towel Day
+seoTitle: Keine Panik! Today is International Towel Day!
+ogTitle: Keine Panik! Today is International Towel Day!
 description: Keine Panik! Das Handtuch ist gehisst! Heute ist der internationale
   Towel Day! Zeit, die Hyperraum-Expressroute zu verlassen und den Frühling zu
   genießen!
 excerpt: Keine Panik! Das Handtuch ist gehisst! Heute ist der internationale
   Towel Day! Zeit, die Hyperraum-Expressroute zu verlassen und den Frühling zu
   genießen!
-focusKeyword: Keine Panik
+fileName: 2013-05---keine-panik-today-is-international-towel-day.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_5387-e1590413497594__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_5387-e1590413497594__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBgX/xAAqEAABAwIFBAEEAwAAAAAAAAABAgMEBREABhIhMQcTQVFSCBYiI3GBof/EABcBAQEBAQAAAAAAAAAAAAAAAAUDAAf/xAAiEQABAwMDBQAAAAAAAAAAAAABAAIDBBEiBRIxIXGBsdH/2gAMAwEAAhEDEQA/AFDk8VWmZgWmJrbWwtSC7pGnT7ufBFjitnup9Bayo3UKiuy4yAS04QkvupTwgckX84nzpq1lOsx5buaKg5B7biO0wkEp06VXueeQAADcn/MZnlLMiqyV0ucqVFSqzYUki49pJ54877jFWuZt6p2p010eUWQ7EH4fC2aetecVNtstVFwttKVZxYBXv4KhbUB4uMUn0eqUitZEhz5D6pc9x5apbq3CLuX4G1rAWFhYbYnL6fqVlysZjZhV+Chx14/iXVHSVJ3CR4BJH94riLRqTTYKI0WBFYhNKLnbS2AhJPJt7xi8EWRUg22ChbO0BiDXX0wRoYfSl3thJSATuCB6POOPG0N/seI032F+cGDB55XRHtDHkgcBNzp9m7LeXIlNnJoypVbZeKVKS8pJUgjc/G1uByCObHDFzF1F+4IK1UuSExnLoEfXpdSfipIuT/PGDBi0TibBG61QwiI1IGV/a//Z
+ogImage: null
 labels:
   - Arthur Dent
   - Bücher & Filme
@@ -21,17 +28,12 @@ labels:
   - Towel Day
   - towelday
   - Wetter
-type: Artikel
-typeName: Artikel
-date: 2013-05-25T05:52:36.000Z
+focusKeyword: Keine Panik
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "5467"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_5387-e1590413497594__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_5387-e1590413497594__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBgX/xAAqEAABAwIFBAEEAwAAAAAAAAABAgMEBREABhIhMQcTQVFSCBYiI3GBof/EABcBAQEBAQAAAAAAAAAAAAAAAAUDAAf/xAAiEQABAwMDBQAAAAAAAAAAAAABAAIDBBEiBRIxIXGBsdH/2gAMAwEAAhEDEQA/AFDk8VWmZgWmJrbWwtSC7pGnT7ufBFjitnup9Bayo3UKiuy4yAS04QkvupTwgckX84nzpq1lOsx5buaKg5B7biO0wkEp06VXueeQAADcn/MZnlLMiqyV0ucqVFSqzYUki49pJ54877jFWuZt6p2p010eUWQ7EH4fC2aetecVNtstVFwttKVZxYBXv4KhbUB4uMUn0eqUitZEhz5D6pc9x5apbq3CLuX4G1rAWFhYbYnL6fqVlysZjZhV+Chx14/iXVHSVJ3CR4BJH94riLRqTTYKI0WBFYhNKLnbS2AhJPJt7xi8EWRUg22ChbO0BiDXX0wRoYfSl3thJSATuCB6POOPG0N/seI032F+cGDB55XRHtDHkgcBNzp9m7LeXIlNnJoypVbZeKVKS8pJUgjc/G1uByCObHDFzF1F+4IK1UuSExnLoEfXpdSfipIuT/PGDBi0TibBG61QwiI1IGV/a//Z
 subTitle: Das Handtuch ist gehisst!
   
 ---

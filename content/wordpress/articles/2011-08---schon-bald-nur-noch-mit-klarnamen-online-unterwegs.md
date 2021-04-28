@@ -1,16 +1,23 @@
 ---
-title: Schon bald nur noch mit Klarnamen online unterwegs
-seoTitle: Klarnamen im Internet - werden wir permanent überwacht?
+date: 2011-08-10T17:03:11.000Z
 slug: klarnamen-internet
 path: /2011/08/klarnamen-internet/
-fileName: 2011-08---schon-bald-nur-noch-mit-klarnamen-online-unterwegs.md
+type: Artikel
+typeName: Artikel
+title: Schon bald nur noch mit Klarnamen online unterwegs
+seoTitle: Klarnamen im Internet - werden wir permanent überwacht?
+ogTitle: Klarnamen im Internet - werden wir permanent überwacht?
 description: Seitdem es das Internet gibt, kommt immer wieder die Diskussion
   über Klarnamen auf. Durch die Ereignisse in Norwegen kocht die Debatte nun
   wieder hoch.
 excerpt: Seitdem es das Internet gibt, kommt immer wieder die Diskussion über
   Klarnamen auf. Durch die Ereignisse in Norwegen kocht die Debatte nun wieder
   hoch.
-focusKeyword: ""
+fileName: 2011-08---schon-bald-nur-noch-mit-klarnamen-online-unterwegs.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_508873_r_k_b_by_gerd-altmann_pixelio-de__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_508873_r_k_b_by_gerd-altmann_pixelio-de__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCBgEEB//EACgQAAEEAQQBAwQDAAAAAAAAAAECAwQRBQAGEiExBxNRFCIkQTJhof/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAwT/xAAbEQADAAMBAQAAAAAAAAAAAAAAAQIDEUETIf/aAAwDAQACEQMRAD8AtuztsHKZOS21kXYrTDKHBwbSpVrUoClE9AcT+u770wly9tQZLkaVvN9mS0tbTn4SeXJIJWlRDZuuJvWxteXKadyy9tw482bTCVNSpBaRfJ0rJUAe/H6o3plL33kMdJdiZrH7bjTaSoMu5tpBCLJJUFd1xojqiSbrzp5MtVWzOIUrQpRkcCXGyzvJ5XudpQnFpUg0a5cQ3XR6vTLL4mbi8nBYkZFubDlh5tQdiJQY6kICkqSpJ6SKNivJHYA1GNvrKSH2WIkDaLzklYQ22znEFS1XRSBx+9QFWB4sahmZOfkHHO5jHx8fI+pdSlEWZ73Jsxllf3UKNjr5HfWhLbYn8RxTYHqdN2t9aVtM5VL/AAKlypCkqaKQaAUkdij8edWl/wBao8t0PTtoYV90/wAXXX+Sj1Xktk+Ov60aNcXrS6NJGWfWKLFdbXF2ThWXkHkgofCVJPyKb6P+6Rb99VsluWHFYYjR8UqK/wC8X4stSlg8SmrIAApRvzfjRo1Jy2+l0kf/2Q==
+ogImage: null
 labels:
   - "1984"
   - "2011"
@@ -79,17 +86,12 @@ labels:
   - Wordpress
   - www
   - Zensur
-type: Artikel
-typeName: Artikel
-date: 2011-08-10T17:03:11.000Z
+focusKeyword: ""
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "2296"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_508873_r_k_b_by_gerd-altmann_pixelio-de__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_508873_r_k_b_by_gerd-altmann_pixelio-de__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCBgEEB//EACgQAAEEAQQBAwQDAAAAAAAAAAECAwQRBQAGEiExBxNRFCIkQTJhof/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAwT/xAAbEQADAAMBAQAAAAAAAAAAAAAAAQIDEUETIf/aAAwDAQACEQMRAD8AtuztsHKZOS21kXYrTDKHBwbSpVrUoClE9AcT+u770wly9tQZLkaVvN9mS0tbTn4SeXJIJWlRDZuuJvWxteXKadyy9tw482bTCVNSpBaRfJ0rJUAe/H6o3plL33kMdJdiZrH7bjTaSoMu5tpBCLJJUFd1xojqiSbrzp5MtVWzOIUrQpRkcCXGyzvJ5XudpQnFpUg0a5cQ3XR6vTLL4mbi8nBYkZFubDlh5tQdiJQY6kICkqSpJ6SKNivJHYA1GNvrKSH2WIkDaLzklYQ22znEFS1XRSBx+9QFWB4sahmZOfkHHO5jHx8fI+pdSlEWZ73Jsxllf3UKNjr5HfWhLbYn8RxTYHqdN2t9aVtM5VL/AAKlypCkqaKQaAUkdij8edWl/wBao8t0PTtoYV90/wAXXX+Sj1Xktk+Ov60aNcXrS6NJGWfWKLFdbXF2ThWXkHkgofCVJPyKb6P+6Rb99VsluWHFYYjR8UqK/wC8X4stSlg8SmrIAApRvzfjRo1Jy2+l0kf/2Q==
 subTitle: Werden wir überwacht?
   
 ---

@@ -1,15 +1,22 @@
 ---
-title: Flarf ist Inspiration aus dem Internet
-seoTitle: Flarf - Poesie aus dem Internet spricht alle Sinne an
+date: 2016-03-11T11:18:20.000Z
 slug: flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung
 path: /2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/
-fileName: 2016-03---flarf-ist-inspiration-aus-dem-internet.md
+type: Artikel
+typeName: Gedicht
+title: Flarf ist Inspiration aus dem Internet
+seoTitle: Flarf - Poesie aus dem Internet spricht alle Sinne an
+ogTitle: Flarf - Inspiration aus dem Internet - Poesie der Vernetzung
 description: Flarf - Was ist das eigentlich? Klingt wie eine Wortschöpfung von
   Pipi Langstrumpf. Wie Suchergebnisse die Phantasie anregen können - Ein
   Gedicht.
 excerpt: Flarf - Was ist das eigentlich? Klingt wie eine Wortschöpfung von Pipi
   Langstrumpf. Wie Suchergebnisse die Phantasie anregen können - Ein Gedicht.
-focusKeyword: Flarf
+fileName: 2016-03---flarf-ist-inspiration-aus-dem-internet.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_16075705018_6c22852970_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_16075705018_6c22852970_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgf/xAAnEAACAQMDBAICAwAAAAAAAAABAgMEBREAEiEGEzFRFGEiMkFxgf/EABcBAQEBAQAAAAAAAAAAAAAAAAUEAAH/xAAhEQACAgIABwEAAAAAAAAAAAABAgAEETEFEhUhcZHw0f/aAAwDAQACEQMRAD8A5yXrHsrrC9RUJJDFFSoSAyKW5CgrhOcnOfOfR1uqazdNw26nRqmmoayGVnfFaszSZQAlt5JDbhn8do+tZ2HrSWk6WudDdacUsdyVE2Q0QjCDYNyIrMCuGCnOGByfHGmae2U1whWaWRUdkA5QNhhwcn+SSNVVqzWSQp1D711aYVmGzj7sY/cLL0xUU5Vr1SoxlMzFaheXJ5OM4GfJAGNQrrYLFDA89NWU1cyo5aOGtQFQT5PIJHraM/Wnp7RRwU3cqaqniijABkkTCgE8/wBedJVwssUCCKSjeYRje6SKdze9WdLIOGbH3mHjjfMpZEz7/IrFa7bI6b6aYdxgPwqXAB59k+tUoeiqOp78kNbXxTGKV0YyghW2lgSABnBHvRo0TqPkA7mWunT81vpnuPz+8QG3I0X7khuSd31nxqFaLTFdpIq2pYBfkbDEiAAgbfB/3Ro10kzAY1P/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2016_03_11153925974_fe91f672d3_z__l.jpg
 labels:
   - es reimt sich nicht
   - Flarf
@@ -21,17 +28,12 @@ labels:
   - Phantasie
   - Poesie
   - schreiben
-type: Artikel
-typeName: Gedicht
-date: 2016-03-11T11:18:20.000Z
+focusKeyword: Flarf
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "14253"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_16075705018_6c22852970_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_16075705018_6c22852970_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgf/xAAnEAACAQMDBAICAwAAAAAAAAABAgMEBREAEiEGEzFRFGEiMkFxgf/EABcBAQEBAQAAAAAAAAAAAAAAAAUEAAH/xAAhEQACAgIABwEAAAAAAAAAAAABAgAEETEFEhUhcZHw0f/aAAwDAQACEQMRAD8A5yXrHsrrC9RUJJDFFSoSAyKW5CgrhOcnOfOfR1uqazdNw26nRqmmoayGVnfFaszSZQAlt5JDbhn8do+tZ2HrSWk6WudDdacUsdyVE2Q0QjCDYNyIrMCuGCnOGByfHGmae2U1whWaWRUdkA5QNhhwcn+SSNVVqzWSQp1D711aYVmGzj7sY/cLL0xUU5Vr1SoxlMzFaheXJ5OM4GfJAGNQrrYLFDA89NWU1cyo5aOGtQFQT5PIJHraM/Wnp7RRwU3cqaqniijABkkTCgE8/wBedJVwssUCCKSjeYRje6SKdze9WdLIOGbH3mHjjfMpZEz7/IrFa7bI6b6aYdxgPwqXAB59k+tUoeiqOp78kNbXxTGKV0YyghW2lgSABnBHvRo0TqPkA7mWunT81vpnuPz+8QG3I0X7khuSd31nxqFaLTFdpIq2pYBfkbDEiAAgbfB/3Ro10kzAY1P/2Q==
 subTitle: Poesie der Vernetzung
   
 ---

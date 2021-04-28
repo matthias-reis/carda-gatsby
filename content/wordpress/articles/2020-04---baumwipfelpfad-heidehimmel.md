@@ -1,16 +1,23 @@
 ---
-title: Baumwipfelpfad Heidehimmel
-seoTitle: Baumwipfelpfad Heidehimmel - über den Bäumen wandeln
+date: 2020-04-03T15:57:13.000Z
 slug: baumwipfelpfad-heidehimmel
 path: /2020/04/baumwipfelpfad-heidehimmel/
-fileName: 2020-04---baumwipfelpfad-heidehimmel.md
+type: Artikel
+typeName: Artikel
+title: Baumwipfelpfad Heidehimmel
+seoTitle: Baumwipfelpfad Heidehimmel - über den Bäumen wandeln
+ogTitle: Baumwipfelpfad Heidehimmel - über den Bäumen wandeln
 description: Habt Ihr auch bestimmte Ziele im Kopf, die Ihr unbedingt entdecken
   wollt? Eines davon ist für mich der Baumwipfelpfad Heidehimmel in der
   Lüneburger Heide.
 excerpt: Habt Ihr auch bestimmte Ziele im Kopf, die Ihr unbedingt entdecken
   wollt, wenn der Corona Lockdown vorbei ist? Eines davon ist für mich der
   Heidehimmel.
-focusKeyword: Baumwipfelpfad
+fileName: 2020-04---baumwipfelpfad-heidehimmel.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_heidehimmel2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_heidehimmel2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAsEAACAQMCBAUDBQAAAAAAAAABAgMEBREAEgYHEyEiMUFRYRUjJDJScYGR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMCBAX/xAAbEQACAgMBAAAAAAAAAAAAAAABAgARAwQSIf/aAAwDAQACEQMRAD8Ae7BBb51jRD90DxYXIP8AB01RWhWAJXufX11NLLzf4WqZzHSx3B5Au9gtIFwPnvrtHOG3LKyVVFURNuYDpyKcKPLPkc49s6c2+inktEDXv0CUNbQqKTHlGGTu37QNYl9tNNHF4pVllceLam/J+SdK9z5wQwwHqcP3GRCfEY9uFU/pbv5ZGD/Y886QuMubF9FNUparTPCGnUwTND1GWMAZRh3BOQct7H30BvJdgwnASKqSLh27v+U7PlmfeR3BIwB/mAdOX0spSwXK+1UVttphYKmzfV1GTkdOM9xn9z4HqAdGjWWcKByal1fRKjwvV1lVHH1Rsghfp01PnqbVUEFnOBucgfAHoBrK46qqhKZ3dAKZtocPCjIO4GCp7EHJ+R76NGpMx6qOVRxc/9k=
+ogImage: null
 labels:
   - Ausflug
   - Ausflug
@@ -22,17 +29,12 @@ labels:
   - Lüneburger Heide
   - Slow Travel
   - Wandern
-type: Artikel
-typeName: Artikel
-date: 2020-04-03T15:57:13.000Z
+focusKeyword: Baumwipfelpfad
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "28833"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_heidehimmel2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_heidehimmel2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAsEAACAQMCBAUDBQAAAAAAAAABAgMEBREAEgYHEyEiMUFRYRUjJDJScYGR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMCBAX/xAAbEQACAgMBAAAAAAAAAAAAAAABAgARAwQSIf/aAAwDAQACEQMRAD8Ae7BBb51jRD90DxYXIP8AB01RWhWAJXufX11NLLzf4WqZzHSx3B5Au9gtIFwPnvrtHOG3LKyVVFURNuYDpyKcKPLPkc49s6c2+inktEDXv0CUNbQqKTHlGGTu37QNYl9tNNHF4pVllceLam/J+SdK9z5wQwwHqcP3GRCfEY9uFU/pbv5ZGD/Y886QuMubF9FNUparTPCGnUwTND1GWMAZRh3BOQct7H30BvJdgwnASKqSLh27v+U7PlmfeR3BIwB/mAdOX0spSwXK+1UVttphYKmzfV1GTkdOM9xn9z4HqAdGjWWcKByal1fRKjwvV1lVHH1Rsghfp01PnqbVUEFnOBucgfAHoBrK46qqhKZ3dAKZtocPCjIO4GCp7EHJ+R76NGpMx6qOVRxc/9k=
 subTitle: Über dem Wald wandeln
   
 ---

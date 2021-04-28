@@ -1,13 +1,20 @@
 ---
-title: Videotipps am Donnerstag
-seoTitle: Videotipps am Donnerstag
+date: 2012-10-11T13:45:39.000Z
 slug: videotipps-am-donnerstag
 path: /2012/10/videotipps-am-donnerstag/
-fileName: 2012-10---videotipps-am-donnerstag.md
+type: Artikel
+typeName: Artikel
+title: Videotipps am Donnerstag
+seoTitle: Videotipps am Donnerstag
+ogTitle: Videotipps am Donnerstag
 description: Heute habe ich zwei ganz besondere Videotipps für Euch, Song No. 1
   stammt von keinem Geringeren, als Jack White...
 excerpt: Heute möchte ich hier mal wieder zwei wundervolle Videos vorstellen.
-focusKeyword: Videotipps
+fileName: 2012-10---videotipps-am-donnerstag.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_10_videotipps2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_10_videotipps2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAaACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQIEBgcIA//EACsQAAIBAwQABgAHAQAAAAAAAAECAwQFEQAGEiEHEzFBcZEUFSIjJTJhUf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABcRAQEBAQAAAAAAAAAAAAAAAAECABH/2gAMAwEAAhEDEQA/ALk3RuG5WTcf4WkFEluhoUqp5JoWZ+TSSA9g/wDEHWNM28UKCIDz7ta0JHo36T9Fs64eMGEpdyueR/hERQiFm5F5gOgM+4+OzqC+ENLAY7iKri8qNToxbDHIhXPfznWKpHm3Mid06fxbtAbibzbQx/qDG7cvjGc6cWLeFdd91Utumioqq1XG3TVlLWU6lcFCmMHJzkSA+3p86E7poqeSKEUndT5yNGFHYwck/GAc6V4SJItu2P5cStF+SnzHwMr+3Fx++/rSaXSgMR3zU1kG7yy2+sqKGqtscYkghaQFxJMHU8exhWX71V8O0d1UVdVw2OolprZPIr+bNbpDUAhcBeRQjiAB375771oS1yyF2UyPxDMAORwOzo4pOPXVZ7hSbNj7LuswzVX3doYrhjT0sich7jIVcZHWP91PdlyrHuWlo4bbVUVJR0Evlh6V440UBFCgsMent/mrWYnHroHeJZArKJHCkYI5HB0J5ovd/9k=
+ogImage: null
 labels:
   - Bands
   - BBC Live Lounge
@@ -34,17 +41,12 @@ labels:
   - Ulle
   - Video
   - videolink
-type: Artikel
-typeName: Artikel
-date: 2012-10-11T13:45:39.000Z
+focusKeyword: Videotipps
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "4406"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_10_videotipps2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_10_videotipps2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAaACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQIEBgcIA//EACsQAAIBAwQABgAHAQAAAAAAAAECAwQFEQAGEiEHEzFBcZEUFSIjJTJhUf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABcRAQEBAQAAAAAAAAAAAAAAAAECABH/2gAMAwEAAhEDEQA/ALk3RuG5WTcf4WkFEluhoUqp5JoWZ+TSSA9g/wDEHWNM28UKCIDz7ta0JHo36T9Fs64eMGEpdyueR/hERQiFm5F5gOgM+4+OzqC+ENLAY7iKri8qNToxbDHIhXPfznWKpHm3Mid06fxbtAbibzbQx/qDG7cvjGc6cWLeFdd91Utumioqq1XG3TVlLWU6lcFCmMHJzkSA+3p86E7poqeSKEUndT5yNGFHYwck/GAc6V4SJItu2P5cStF+SnzHwMr+3Fx++/rSaXSgMR3zU1kG7yy2+sqKGqtscYkghaQFxJMHU8exhWX71V8O0d1UVdVw2OolprZPIr+bNbpDUAhcBeRQjiAB375771oS1yyF2UyPxDMAORwOzo4pOPXVZ7hSbNj7LuswzVX3doYrhjT0sich7jIVcZHWP91PdlyrHuWlo4bbVUVJR0Evlh6V440UBFCgsMent/mrWYnHroHeJZArKJHCkYI5HB0J5ovd/9k=
 subTitle: Die Geschichte von der tanzenden Redaktion
   
 ---

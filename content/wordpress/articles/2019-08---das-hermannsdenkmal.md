@@ -1,14 +1,21 @@
 ---
-title: Das Hermannsdenkmal
-seoTitle: Wandern rund um das Hermannsdenkmal - ein wirklich großer Kerl
+date: 2019-08-13T12:30:15.000Z
 slug: wandern-rund-um-das-hermannsdenkmal
 path: /2019/08/wandern-rund-um-das-hermannsdenkmal/
-fileName: 2019-08---das-hermannsdenkmal.md
+type: Artikel
+typeName: Artikel
+title: Das Hermannsdenkmal
+seoTitle: Wandern rund um das Hermannsdenkmal - ein wirklich großer Kerl
+ogTitle: Wandern rund um das Hermannsdenkmal - ein wirklich großer Kerl
 description: Kennt Ihr schon das Hermannsdenkmal? Es zählt zu den bekanntesten
   Dankmalen in ganz Europa und es lohnt sich sehr, es zu besuchen
 excerpt: Kennt Ihr schon das Hermannsdenkmal? Es zählt zu den bekanntesten
   Dankmalen in ganz Europa und es lohnt sich sehr, es zu besuchen
-focusKeyword: Hermannsdenkmal
+fileName: 2019-08---das-hermannsdenkmal.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_hermannsdenkmal__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_hermannsdenkmal__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAApEAACAQMDBAEDBQAAAAAAAAABAgMEBREAEiEGEyIxQQcjYTJCUYGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AIbpqwo1MjMoAwOT8a33Lp4U9zpAVXdHVQ8r6OJFOR+NO7WKlLGDbe2tUyvtdyAF2xsw98clQNarmlZHe4mra0VEL1EXaG5mzC7IYmJYfqHkp9cjQMLP09DvrppFCxrPKzORwPNtSvU72iamqfGaIwBDN3IwhhVjgM6lsgZ44B1Y3qkguljuMMk/ZczSQwtsyC7OSQTjgbU+Oef60s6xpqSH6j3DNPCj1Nl3RBFEahkKhiBj3sOAcZ9nQc+6M6kuVeKSkEkcIFO0pkVPPeMpnPGOCeNOL/PO1Rbkeok+3LTQKEwq7UlBHGPeSf8AdGjQbJKypqKuRFkVENfUZyCT4s35x+/+PjU99Qb48tyWpxMk8CvCGSRQGBQK2Rs9HaDjRo0H/9k=
+ogImage: null
 labels:
   - Arminia
   - Ausflug
@@ -19,17 +26,12 @@ labels:
   - Nordrhein-Westfalen
   - NRW
   - Teutoburger Wald
-type: Artikel
-typeName: Artikel
-date: 2019-08-13T12:30:15.000Z
+focusKeyword: Hermannsdenkmal
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "25363"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_hermannsdenkmal__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_hermannsdenkmal__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAApEAACAQMDBAEDBQAAAAAAAAABAgMEBREAEiEGEyIxQQcjYTJCUYGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AIbpqwo1MjMoAwOT8a33Lp4U9zpAVXdHVQ8r6OJFOR+NO7WKlLGDbe2tUyvtdyAF2xsw98clQNarmlZHe4mra0VEL1EXaG5mzC7IYmJYfqHkp9cjQMLP09DvrppFCxrPKzORwPNtSvU72iamqfGaIwBDN3IwhhVjgM6lsgZ44B1Y3qkguljuMMk/ZczSQwtsyC7OSQTjgbU+Oef60s6xpqSH6j3DNPCj1Nl3RBFEahkKhiBj3sOAcZ9nQc+6M6kuVeKSkEkcIFO0pkVPPeMpnPGOCeNOL/PO1Rbkeok+3LTQKEwq7UlBHGPeSf8AdGjQbJKypqKuRFkVENfUZyCT4s35x+/+PjU99Qb48tyWpxMk8CvCGSRQGBQK2Rs9HaDjRo0H/9k=
 subTitle: Ein wirklich großer Kerl
   
 ---

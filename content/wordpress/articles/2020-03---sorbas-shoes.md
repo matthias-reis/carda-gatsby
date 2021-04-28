@@ -1,16 +1,23 @@
 ---
-title: Sorbas Shoes
-seoTitle: Sorbas Shoes - faire vegane Schuhe aus Berlin
+date: 2020-03-25T07:00:25.000Z
 slug: sorbas-shoes
 path: /2020/03/sorbas-shoes/
-fileName: 2020-03---sorbas-shoes.md
+type: Artikel
+typeName: Produkttest
+title: Sorbas Shoes
+seoTitle: Sorbas Shoes - faire vegane Schuhe aus Berlin
+ogTitle: Sorbas Shoes - faire vegane Schuhe aus Berlin
 description: Sorbas Shoes werden in kleinen Schuhmacherbetrieben herstellen.
   Damit sollen die fairen Produktionsstrukturen in ärmeren Ländern unterstützt
   werden.
 excerpt: Werbung & Affiliate Links - Sorbas Shoes werden in kleinen
   Schuhmacherbetrieben herstellen. Damit sollen die fairen Produktionsstrukturen
   in ärmeren Ländern unterstützt werden.
-focusKeyword: Sorbas
+fileName: 2020-03---sorbas-shoes.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-20-sorbas-second-life-fashion-82__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-20-sorbas-second-life-fashion-82__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QALRAAAgECBgAEBAcAAAAAAAAAAQIDBBEABQYSITFBUWGBBwgTkRQVIjQ1QnH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAgMFBv/EACQRAAICAQMCBwAAAAAAAAAAAAECAxEABCHwBTESE0FRYYGh/9oADAMBAAIRAxEAPwC9pNb0ECxmGkrJISwvIFUBOe73P2widUUc1RqvOnZQIqwyyIhYMxP1Lra3jZjh70OXZfUXzBaGMVDfuAFYLuP9gOrHv0PB8DjKV2VUuW54tT+YStfdKsBjUhVsRywsb+2LTqDI5Ru44ckNGsMQnjrwn5P139c0vy9CGP4ZUattaRaupDi4uh39EeBtzzhkSiNwbBT7Y5z0hqLPaaqkGUMy0DzNNLFBArF2J5PR4sBzhtZPqWtqf5DKjSxG9pUnVjx3uTv7YUk6LQY1gZenzvciLY/ecrMVJWyyBJaMmCaIWDOfqCx7G3gc+tziXNslXVUEcUs7UkwiSYzRLcspuNhv2Bbg9+d8GDBdfGsQ8xNjeO6IxmlMMm61dH3FZdafyWm05BSRZc0iSTI5aYNZ/wBC88+t/wDB5X5xaR2rnKlUin/CirLoLIQT1s8/UH2wYMZl2LOdQQF2Gf/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_03_sorbas-shoes-fb.png__l.jpg
 labels:
   - Berlin
   - Fair Fashion & Beauty
@@ -18,17 +25,12 @@ labels:
   - Sorbas Shoes
   - vegane Schuhe
   - veganes Leder
-type: Artikel
-typeName: Produkttest
-date: 2020-03-25T07:00:25.000Z
+focusKeyword: Sorbas
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "28784"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-20-sorbas-second-life-fashion-82__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-20-sorbas-second-life-fashion-82__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QALRAAAgECBgAEBAcAAAAAAAAAAQIDBBEABQYSITFBUWGBBwgTkRQVIjQ1QnH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAgMFBv/EACQRAAICAQMCBwAAAAAAAAAAAAECAxEABCHwBTESE0FRYYGh/9oADAMBAAIRAxEAPwC9pNb0ECxmGkrJISwvIFUBOe73P2widUUc1RqvOnZQIqwyyIhYMxP1Lra3jZjh70OXZfUXzBaGMVDfuAFYLuP9gOrHv0PB8DjKV2VUuW54tT+YStfdKsBjUhVsRywsb+2LTqDI5Ru44ckNGsMQnjrwn5P139c0vy9CGP4ZUattaRaupDi4uh39EeBtzzhkSiNwbBT7Y5z0hqLPaaqkGUMy0DzNNLFBArF2J5PR4sBzhtZPqWtqf5DKjSxG9pUnVjx3uTv7YUk6LQY1gZenzvciLY/ecrMVJWyyBJaMmCaIWDOfqCx7G3gc+tziXNslXVUEcUs7UkwiSYzRLcspuNhv2Bbg9+d8GDBdfGsQ8xNjeO6IxmlMMm61dH3FZdafyWm05BSRZc0iSTI5aYNZ/wBC88+t/wDB5X5xaR2rnKlUin/CirLoLIQT1s8/UH2wYMZl2LOdQQF2Gf/Z
 subTitle: Faire vegane Schuhe aus Berlin
   
 ---

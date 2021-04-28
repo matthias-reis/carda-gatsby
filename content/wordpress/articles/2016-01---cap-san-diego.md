@@ -1,32 +1,34 @@
 ---
-title: Cap San Diego
-seoTitle: Die Cap San Diego - Ein Museumsschiff mit Geschichte
+date: 2016-01-30T10:06:21.000Z
 slug: cap-san-diego-ein-frachtschiff-mit-museum
 path: /2016/01/cap-san-diego-ein-frachtschiff-mit-museum/
-fileName: 2016-01---cap-san-diego.md
+type: Galerie
+typeName: Galerie
+title: Cap San Diego
+seoTitle: Die Cap San Diego - Ein Museumsschiff mit Geschichte
+ogTitle: Die Cap San Diego - Ein Museumsschiff mit Geschichte
 description: Die Cap San Diego ist das älteste, seetüchtige Museumsschiff der
   Welt. Sie liegt im Hamburger Hafen und kann täglich besichtigt werden -
   Bildergalerie
 excerpt: Die Cap San Diego ist das älteste, seetüchtige Museumsschiff der Welt.
   Sie liegt im Hamburger Hafen und kann täglich besichtigt werden.
-focusKeyword: Cap San Diego
+fileName: 2016-01---cap-san-diego.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24595548341_900078ddef_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24595548341_900078ddef_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAuEAACAQMDAQYEBwAAAAAAAAABAgQAAxEFEiExBhMiQVGBBxQycRYzQmFikfD/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EACIRAAICAgIABwAAAAAAAAAAAAECAAMEESExEiNBUYGh8f/aAAwDAQACEQMRAD8Aj/w40AyZTyb0L5uRbvJbsRGXc7HOXYIeCAABk8At64rf7TSruoaizx9KWNaaUtwNJvA7HVuUdVBHQ88msP4X6o0XVRdLbpFraQG6OmSXHPrnJ9qona+3EtjUNZsfkK6ygygfQ31Y/kCV/v7Ug41VlQY86hTkWpklT1qTqaky93Un5GGoddwWCO6Zcc5weG65yeuKw9WkLOlPJRw3hVScYIIGOR5GnKZMjxoSO7u6bAoKkEJk+Lpz/vtS7Pj2YaXJM69aS9NxeVWOcD9h61OFng2B1LduOhCkdxV0mXbsahYa8SLO7bcwf0ngn26+1VP8UJZ7O3tK1LjUbjkrfsLuOw7QTnO3B2AgYyOhooqjUdIZIv5tX5+v2KEu40jUluSZV+5Ga5vuvfXxtjHB9T08669rEefBu6l3DLHR0j2bmAAQByB58bhRRQMny2Qr6kCOoYupDe0//9k=
+ogImage: null
 labels:
   - Ausflug
   - Cap San Diego
   - Frachter
   - Hamburg
   - Museumsschiff Hamburg
-type: Galerie
-typeName: Galerie
-date: 2016-01-30T10:06:21.000Z
+focusKeyword: Cap San Diego
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "13815"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24595548341_900078ddef_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24595548341_900078ddef_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAuEAACAQMDAQYEBwAAAAAAAAABAgQAAxEFEiExBhMiQVGBBxQycRYzQmFikfD/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EACIRAAICAgIABwAAAAAAAAAAAAECAAMEESExEiNBUYGh8f/aAAwDAQACEQMRAD8Aj/w40AyZTyb0L5uRbvJbsRGXc7HOXYIeCAABk8At64rf7TSruoaizx9KWNaaUtwNJvA7HVuUdVBHQ88msP4X6o0XVRdLbpFraQG6OmSXHPrnJ9qona+3EtjUNZsfkK6ygygfQ31Y/kCV/v7Ug41VlQY86hTkWpklT1qTqaky93Un5GGoddwWCO6Zcc5weG65yeuKw9WkLOlPJRw3hVScYIIGOR5GnKZMjxoSO7u6bAoKkEJk+Lpz/vtS7Pj2YaXJM69aS9NxeVWOcD9h61OFng2B1LduOhCkdxV0mXbsahYa8SLO7bcwf0ngn26+1VP8UJZ7O3tK1LjUbjkrfsLuOw7QTnO3B2AgYyOhooqjUdIZIv5tX5+v2KEu40jUluSZV+5Ga5vuvfXxtjHB9T08669rEefBu6l3DLHR0j2bmAAQByB58bhRRQMny2Qr6kCOoYupDe0//9k=
 subTitle: Museumsschiff mit Geschichte
   
 ---

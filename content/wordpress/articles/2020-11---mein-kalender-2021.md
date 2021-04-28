@@ -1,15 +1,22 @@
 ---
-title: Mein Kalender 2021
-seoTitle: Ein achtsamer Jahresrückblick - mein Kalender für 2021
+date: 2020-11-24T15:19:13.000Z
 slug: jahresrueckblick-2020-kalender-2021
 path: /2020/11/jahresrueckblick-2020-kalender-2021/
-fileName: 2020-11---mein-kalender-2021.md
+type: Artikel
+typeName: Artikel
+title: Mein Kalender 2021
+seoTitle: Ein achtsamer Jahresrückblick - mein Kalender für 2021
+ogTitle: Ein achtsamer Jahresrückblick - mein Kalender für 2021
 description: "Dieses Jahr kommt mein Jahresrückblick in Kombination mit einem
   Basteltipp für Euch: einem Kalender für mehr positive Momente im Jahr 2021."
 excerpt: "Werbung – Dieses Jahr kommt mein Jahresrückblick in Kombination mit
   einem Basteltipp für Euch: einem Kalender für mehr positive Momente im Jahr
   2021."
-focusKeyword: Jahresrückblick
+fileName: 2020-11---mein-kalender-2021.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_2020-11-22-vistaprint-t-shirt-prayforsound-4021__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_2020-11-22-vistaprint-t-shirt-prayforsound-4021__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKhAAAgEDAwQBAwUBAAAAAAAAAQIDBAURAAYhBxMxQRIyQmEUFiJRUpH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AzbalnpLpa62CanNLFlVEoyS7E+CT9cinDYHoMONO+z+nLwxwM0ZgvFsnkPcZmfuTDJAVDhe2ykYOMn5fjTBta1NAYZqRP1suSs7ygZERB+QGOEHgkgc+86j6h38WS+2D9u0Zqd4zMRFJyI5IjhQZF47jHgAE4GCdBWjahrb2aa+1lvSjqUWopTLUR08lNLjBgwCGYEefec58jUG+LBR0lCpjWNYymUCAfTjjHrGuTujpRPBti7bivlwNduGYmoqTHhY4yzAkg/cQTg+BzwONJ21d3mqpVsd5YPJEpWlkkPGc5KN/o8/xJ4/HjQabtC9RzQIithuATn/h1S6q7lijo6C8UVdHV7is83cgnZVKBCCrxqv3EZDceCvrxo0aDJ9xdTr/AHuNaaquEj0uDlAoQNkcg/HGR/QOkqon7kiv8yJFOQ/vRo0H/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_11_jahresrueckblick-fb.png__l.jpg
 labels:
   - Achtsamkeit
   - Achtsamkeit
@@ -25,17 +32,12 @@ labels:
   - Pray for Sound
   - T-Shirt
   - Vistaprint
-type: Artikel
-typeName: Artikel
-date: 2020-11-24T15:19:13.000Z
+focusKeyword: Jahresrückblick
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31919"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_2020-11-22-vistaprint-t-shirt-prayforsound-4021__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_2020-11-22-vistaprint-t-shirt-prayforsound-4021__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKhAAAgEDAwQBAwUBAAAAAAAAAQIDBAURAAYhBxMxQRIyQmEUFiJRUpH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AzbalnpLpa62CanNLFlVEoyS7E+CT9cinDYHoMONO+z+nLwxwM0ZgvFsnkPcZmfuTDJAVDhe2ykYOMn5fjTBta1NAYZqRP1suSs7ygZERB+QGOEHgkgc+86j6h38WS+2D9u0Zqd4zMRFJyI5IjhQZF47jHgAE4GCdBWjahrb2aa+1lvSjqUWopTLUR08lNLjBgwCGYEefec58jUG+LBR0lCpjWNYymUCAfTjjHrGuTujpRPBti7bivlwNduGYmoqTHhY4yzAkg/cQTg+BzwONJ21d3mqpVsd5YPJEpWlkkPGc5KN/o8/xJ4/HjQabtC9RzQIithuATn/h1S6q7lijo6C8UVdHV7is83cgnZVKBCCrxqv3EZDceCvrxo0aDJ9xdTr/AHuNaaquEj0uDlAoQNkcg/HGR/QOkqon7kiv8yJFOQ/vRo0H/9k=
 subTitle: Ein achtsamer Jahresrückblick
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: Fröhliche Weihnachten! Fröhliche Weihnachten?
-seoTitle: Fröhliche Weihnachten! Fröhliche Weihnachten? - Gedanken zum Fest
+date: 2016-12-22T16:36:04.000Z
 slug: froehliche-weihnachten-froehliche-weihnachten
 path: /2016/12/froehliche-weihnachten-froehliche-weihnachten/
-fileName: 2016-12---froehliche-weihnachten-froehliche-weihnachten.md
+type: Artikel
+typeName: Artikel
+title: Fröhliche Weihnachten! Fröhliche Weihnachten?
+seoTitle: Fröhliche Weihnachten! Fröhliche Weihnachten? - Gedanken zum Fest
+ogTitle: Fröhliche Weihnachten! Fröhliche Weihnachten? - Gedanken zum Fest
 description: Seid Ihr auch so nachdenklich gerade? Ich habe versucht, die
   aktuelle Stimmung mal in Worte zu fassen. Bald ist Weihnachten - Und was ist
   los da draußen?
 excerpt: Seid Ihr auch so nachdenklich gerade? Ich habe versucht, die aktuelle
   Stimmung mal in Worte zu fassen. Bald ist Weihnachten - Und was ist los da
   draußen?
-focusKeyword: Weihnachten
+fileName: 2016-12---froehliche-weihnachten-froehliche-weihnachten.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_12_30155662156_1afb6f2366_o__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_12_30155662156_1afb6f2366_o__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBAf/xAAqEAACAQMDAgUEAwAAAAAAAAABAgMEBREAEiEGMRMUQVFhByIycRUlgf/EABYBAQEBAAAAAAAAAAAAAAAAAAACAf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwCotvVNPcY6qzQSUcdCszqtsgiYPGBMxxuT7QnxyDge+jyVH9N1DFFGF3VJYKoEY/GH0znXIYLZ1C8iGy0r0s8EYhbykkanAHHdhyfU/OtVNcr959+n28XxqhXVmjqU4ZQpyCOeAuOe/pnvpFVa9P8AV1BYKu6wXZLhVmukhip4wghCspJwz5yVO4cjPbTeD6q9PvBGzdLVoZlBOJoyO3uTzrl18pq94mErJNIsrYQujNESx2AH0OMaB/CSSfer1kQbkR7nOz4zu5xpCnFLcai2XWmmqamYUpjcyyrEWMYJChjtBwDjAzjsNRd1jnpupKa4vI8ruufFiILghcKx/wAwOQNBpaSCNyBvKnGQWODj31SUaoFBCIAPXZzrUk1dXPXRoEWpEsjl5fEbLFgeCG74xoi13UKqAlSQoGACkbED9nk/vW+5OI0JBXd8aUCdsfnoP//Z
+ogImage: null
 labels:
   - Gedanken
   - Geschichten & Erlebtes
@@ -18,17 +25,12 @@ labels:
   - Weihnachten
   - zu Hause
   - Zuhause
-type: Artikel
-typeName: Artikel
-date: 2016-12-22T16:36:04.000Z
+focusKeyword: Weihnachten
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "15583"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_12_30155662156_1afb6f2366_o__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_12_30155662156_1afb6f2366_o__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBAf/xAAqEAACAQMDAgUEAwAAAAAAAAABAgMEBREAEiEGMRMUQVFhByIycRUlgf/EABYBAQEBAAAAAAAAAAAAAAAAAAACAf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwCotvVNPcY6qzQSUcdCszqtsgiYPGBMxxuT7QnxyDge+jyVH9N1DFFGF3VJYKoEY/GH0znXIYLZ1C8iGy0r0s8EYhbykkanAHHdhyfU/OtVNcr959+n28XxqhXVmjqU4ZQpyCOeAuOe/pnvpFVa9P8AV1BYKu6wXZLhVmukhip4wghCspJwz5yVO4cjPbTeD6q9PvBGzdLVoZlBOJoyO3uTzrl18pq94mErJNIsrYQujNESx2AH0OMaB/CSSfer1kQbkR7nOz4zu5xpCnFLcai2XWmmqamYUpjcyyrEWMYJChjtBwDjAzjsNRd1jnpupKa4vI8ruufFiILghcKx/wAwOQNBpaSCNyBvKnGQWODj31SUaoFBCIAPXZzrUk1dXPXRoEWpEsjl5fEbLFgeCG74xoi13UKqAlSQoGACkbED9nk/vW+5OI0JBXd8aUCdsfnoP//Z
 subTitle: Gedanken zum Fest
   
 ---

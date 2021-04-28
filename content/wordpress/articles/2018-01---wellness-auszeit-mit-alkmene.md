@@ -1,16 +1,23 @@
 ---
-title: Wellness-Auszeit mit Alkmene
-seoTitle: Wellness-Auszeit mit Alkmene - Vegane Badezusätze & Lotions im Test
+date: 2018-01-26T11:53:22.000Z
 slug: wellness-mit-alkmene
 path: /2018/01/wellness-mit-alkmene/
-fileName: 2018-01---wellness-auszeit-mit-alkmene.md
+type: Artikel
+typeName: Produkttest
+title: Wellness-Auszeit mit Alkmene
+seoTitle: Wellness-Auszeit mit Alkmene - Vegane Badezusätze & Lotions im Test
+ogTitle: Wellness-Auszeit mit alkmene - Vegane Badezusätze & Lotions im Test
 description: Ich bin ein großer Badefan. Gerade wenn es draußen so richtig grau
   ist. Darum hatte ich sehr viel Spaß beim Testen der Alkmene Badezusätze und
   Lotions.
 excerpt: Werbung - Ich bin ein großer Badefan. Gerade wenn es draußen so richtig
   grau ist. Darum hatte ich sehr viel Spaß beim Testen der Alkmene Badezusätze
   und Lotions.
-focusKeyword: alkmene
+fileName: 2018-01---wellness-auszeit-mit-alkmene.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38980942055_2f1099af36_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38980942055_2f1099af36_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcDBgECBP/EACYQAAEEAQMEAwADAAAAAAAAAAECAwQRBQAGIRIxQVEHExQjcbH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQA/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAAxEhMZH/2gAMAwEAAhEDEQA/AKZgtiQxtV/N592Qww6AiElki1qNgKII7EjtxxZvVCkrZYnxGFqbCXwbA5KFeib93p5ZZnHzvj7HMY5tTrUZDaUJdUpSujpBtQ48n+vWqRg/jTC5iNDzEzISEFUhxLyEKT0KDayLBqwKAB783yNT1PYzHI1uNtUBgq8x3ydu/fjvHbY29IyrWaalhl9LKmzSTar86XDLLRix3JD7KXHSUDpUClSgaoEWNPDcuKh7r29AxuTEhpHSt8uIdQOpSBQoi+AVEmx596RWe2tksW81Lxjb7+CSsrjyCsKFdRBKqAqyg+PWm1sxG5Opz2Qyc1kpURqK/OkuRmkBtDRdPQlI4ArtWsRJkqPGVHjy5TMdRJU028pKDffgHz596NGmwhNn5shaGgqRI/iv6yHlgovvRvi9QHI5AYz8H7nzA5P0FVjm7/06NGtgQZ//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38980942055_2f1099af36_z__l.jpg
 labels:
   - Badezusatz
   - Bodylotion
@@ -35,17 +42,12 @@ labels:
   - veganer Badezusatz
   - Wellness
   - Workout
-type: Artikel
-typeName: Produkttest
-date: 2018-01-26T11:53:22.000Z
+focusKeyword: alkmene
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "19128"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38980942055_2f1099af36_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38980942055_2f1099af36_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcDBgECBP/EACYQAAEEAQMEAwADAAAAAAAAAAECAwQRBQAGIRIxQVEHExQjcbH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQA/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAAxEhMZH/2gAMAwEAAhEDEQA/AKZgtiQxtV/N592Qww6AiElki1qNgKII7EjtxxZvVCkrZYnxGFqbCXwbA5KFeib93p5ZZnHzvj7HMY5tTrUZDaUJdUpSujpBtQ48n+vWqRg/jTC5iNDzEzISEFUhxLyEKT0KDayLBqwKAB783yNT1PYzHI1uNtUBgq8x3ydu/fjvHbY29IyrWaalhl9LKmzSTar86XDLLRix3JD7KXHSUDpUClSgaoEWNPDcuKh7r29AxuTEhpHSt8uIdQOpSBQoi+AVEmx596RWe2tksW81Lxjb7+CSsrjyCsKFdRBKqAqyg+PWm1sxG5Opz2Qyc1kpURqK/OkuRmkBtDRdPQlI4ArtWsRJkqPGVHjy5TMdRJU028pKDffgHz596NGmwhNn5shaGgqRI/iv6yHlgovvRvi9QHI5AYz8H7nzA5P0FVjm7/06NGtgQZ//2Q==
 subTitle: Vegane Badezusätze und Bodylotions
   
 ---

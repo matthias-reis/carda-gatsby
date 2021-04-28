@@ -1,14 +1,21 @@
 ---
-title: 1,5 Grad Klimaerwärmung bereits erreicht
-seoTitle: Der Klimawandel im Mittelmeerraum - neue Studie der UfM
+date: 2019-10-14T16:57:31.000Z
 slug: klimawandel-mittelmeerraum
 path: /2019/10/klimawandel-mittelmeerraum/
-fileName: 2019-10---1-5-grad-klimaerwaermung-bereits-erreicht.md
+type: Artikel
+typeName: Artikel
+title: 1,5 Grad Klimaerwärmung bereits erreicht
+seoTitle: Der Klimawandel im Mittelmeerraum - neue Studie der UfM
+ogTitle: Der Klimawandel im Mittelmeerraum - neue Studie der UfM
 description: Die Mittelmeerregion ist vom Klimawandel besonders stark bedroht.
   Das geht aus einer aktuellen Studie der Union für das Mittelmeer (UfM) hervor.
 excerpt: Die Mittelmeerregion ist vom Klimawandel besonders stark bedroht. Das
   geht aus einer aktuellen Studie der Union für das Mittelmeer (UfM) hervor.
-focusKeyword: Klimawandel
+fileName: 2019-10---1-5-grad-klimaerwaermung-bereits-erreicht.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_10_Design-ohne-Titel__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_10_Design-ohne-Titel__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgf/xAAqEAACAQMCBQIHAQAAAAAAAAABAgMABBEFIQYSEzFBInEHFDI1UWGBkf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwX/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAIRMRIh/9oADAMBAAIRAxEAPwDW6bYp015kB91qotjEV3Vf4KyHDfEeq3eq9GYwSQx9RTEiLHzldhlt/etAOJ0BCm2iDElQPmlySO4H5pK29GkawVcYzPYRBdgT7ioGsachib0+PAqieJ+tbRS21gJxLzBEjly5xjOxH7qXfa7dSRfZZUDHGXkVcbVWqsnZDs4qnFV/1lmhgsYgo6igRBgF8nDHzT1vxheGznMy2YURheVYEB9R+vB8gDt23BNFFZgrG1j1v8RujmOTTLK4Q4CMWdcDPlVPqOMDbApDVeMgYpLdtB0RmLq/MYCMnHYDmz2IH+0UVXbVzGDp9n//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_10_Design-ohne-Titel-21.png__l.jpg
 labels:
   - Climate Change
   - Globale Mitteltemperatur
@@ -26,17 +33,12 @@ labels:
   - Science-Policy Interface
   - UfM
   - UNEP
-type: Artikel
-typeName: Artikel
-date: 2019-10-14T16:57:31.000Z
+focusKeyword: Klimawandel
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "26543"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_10_Design-ohne-Titel__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_10_Design-ohne-Titel__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgf/xAAqEAACAQMCBQIHAQAAAAAAAAABAgMABBEFIQYSEzFBInEHFDI1UWGBkf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwX/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAIRMRIh/9oADAMBAAIRAxEAPwDW6bYp015kB91qotjEV3Vf4KyHDfEeq3eq9GYwSQx9RTEiLHzldhlt/etAOJ0BCm2iDElQPmlySO4H5pK29GkawVcYzPYRBdgT7ioGsachib0+PAqieJ+tbRS21gJxLzBEjly5xjOxH7qXfa7dSRfZZUDHGXkVcbVWqsnZDs4qnFV/1lmhgsYgo6igRBgF8nDHzT1vxheGznMy2YURheVYEB9R+vB8gDt23BNFFZgrG1j1v8RujmOTTLK4Q4CMWdcDPlVPqOMDbApDVeMgYpLdtB0RmLq/MYCMnHYDmz2IH+0UVXbVzGDp9n//2Q==
 subTitle: Klimawandel im Mittelmeerraum
   
 ---

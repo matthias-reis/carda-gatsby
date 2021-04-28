@@ -1,17 +1,25 @@
 ---
+date: 2017-04-18T07:48:23.000Z
+slug: interview-mit-zero-waste-aktivistin-vio
+path: /2017/04/interview-mit-zero-waste-aktivistin-vio/
+type: Artikel
+typeName: Interview
 title: Zero Waste Aktivistin Vio
 seoTitle: Interview mit Zero Waste Aktivistin Vio - "Wir müssen den Müll
   drastisch reduzieren"
-slug: interview-mit-zero-waste-aktivistin-vio
-path: /2017/04/interview-mit-zero-waste-aktivistin-vio/
-fileName: 2017-04---zero-waste-aktivistin-vio.md
+ogTitle: Interview mit Zero Waste Aktivistin Vio - "Wir müssen den Müll
+  drastisch reduzieren"
 description: Ich habe mich mit Zero Waste Aktivistin Vio über Müll unterhalten.
   Sie ist überzeugt davon, dass wir keine Verpackungen brauchen. Wir sind sie
   nur gewohnt.
 excerpt: Ich habe mich mit Zero Waste Aktivistin Vio über Müll unterhalten. Sie
   ist überzeugt davon, dass wir keine Verpackungen brauchen. Wir sind sie nur
   gewohnt.
-focusKeyword: Zero Waste
+fileName: 2017-04---zero-waste-aktivistin-vio.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_11354711264_1c1b346d6e_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_11354711264_1c1b346d6e_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQGBwIFCP/EACkQAAIBAwQBAwMFAAAAAAAAAAECAwQFEQAGEiExB0FRFiJhExQmUnL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAYEQEBAQEBAAAAAAAAAAAAAAABADECEf/aAAwDAQACEQMRAD8AUtT1lZSV9tslfLS3WNBUU8cdQ0CyjIEiuVyR9uW676PWhNp/t61fq3d9pglXJeBFnmmYEdHlIQcfnHeqmrL3VW25wzzzpVR09UKiNkkCyEBgcsF8HGRjx51bHqjP/KaeSBmdKmhhlQICcglgOh+MaT4scpCsu0JJ6jtL3cJKBIESai4w5gSR+QyPtLAAEj+q60E9wp91+nlNXRNVvHVOYyZYhjIDGVSqkgqDwABOePfnSO17ZcpLzS1U1srkt6CQzVEkbRqqGNwTk4+R401PBV7Y2hs6y2yVqWqEBnlmSo/QYTTd4yMg5XrBHfWNRQlyzlpsGwLqoh+jWhwQvJbnKc4+evf31P79HNtrYtfc7ZVzEUtKphinCtxVAFClwAT186NGsWRc5z+pd33VXrS1xdaR1XMSuMFvOScZPnxn21mltjkScVbPUKZDxV3bin+RnrRo1O9Cpl//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_04_11354713785_68c5b41684_z__l.jpg
 labels:
   - diy
   - ethikbank
@@ -35,17 +43,12 @@ labels:
   - wastelandrebel
   - zerowaste
   - zerowastehome
-type: Artikel
-typeName: Interview
-date: 2017-04-18T07:48:23.000Z
+focusKeyword: Zero Waste
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16449"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_11354711264_1c1b346d6e_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_11354711264_1c1b346d6e_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQGBwIFCP/EACkQAAIBAwQBAwMFAAAAAAAAAAECAwQFEQAGEiExB0FRFiJhExQmUnL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAYEQEBAQEBAAAAAAAAAAAAAAABADECEf/aAAwDAQACEQMRAD8AUtT1lZSV9tslfLS3WNBUU8cdQ0CyjIEiuVyR9uW676PWhNp/t61fq3d9pglXJeBFnmmYEdHlIQcfnHeqmrL3VW25wzzzpVR09UKiNkkCyEBgcsF8HGRjx51bHqjP/KaeSBmdKmhhlQICcglgOh+MaT4scpCsu0JJ6jtL3cJKBIESai4w5gSR+QyPtLAAEj+q60E9wp91+nlNXRNVvHVOYyZYhjIDGVSqkgqDwABOePfnSO17ZcpLzS1U1srkt6CQzVEkbRqqGNwTk4+R401PBV7Y2hs6y2yVqWqEBnlmSo/QYTTd4yMg5XrBHfWNRQlyzlpsGwLqoh+jWhwQvJbnKc4+evf31P79HNtrYtfc7ZVzEUtKphinCtxVAFClwAT186NGsWRc5z+pd33VXrS1xdaR1XMSuMFvOScZPnxn21mltjkScVbPUKZDxV3bin+RnrRo1O9Cpl//2Q==
 subTitle: '"Wir müssen den Müll drastisch reduzieren!"'
   
 ---

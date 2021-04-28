@@ -1,15 +1,22 @@
 ---
-title: 10 Songs für den April 2019
-seoTitle: 10 Songs für den April - Ausgewählt von den drei von der Bande
+date: 2019-03-26T17:51:50.000Z
 slug: 10-songs-fuer-den-april
 path: /2019/03/10-songs-fuer-den-april/
-fileName: 2019-03---10-songs-fuer-den-april-2019.md
+type: Artikel
+typeName: Artikel
+title: 10 Songs für den April 2019
+seoTitle: 10 Songs für den April - Ausgewählt von den drei von der Bande
+ogTitle: 10 Songs für den April - Ausgewählt von den drei von der Bande
 description: Bevor der April um die Ecke kommt, gibt es erstmal was auf die
   Ohren Hier kommen unsere 10 Songs für Euch - liebevoll ausgewählt und
   kommentiert.
 excerpt: Bevor der April um die Ecke kommt, gibt es erstmal was auf die Ohren
   Hier kommen unsere 10 Songs für Euch - liebevoll ausgewählt und kommentiert.
-focusKeyword: 10 Songs
+fileName: 2019-03---10-songs-fuer-den-april-2019.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_03_Kopie-von-10-Songs-fu%CC%88r-den-Ma%CC%88rz__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_03_Kopie-von-10-Songs-fu%CC%88r-den-Ma%CC%88rz__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBwMFCP/EACoQAAICAQMDAgUFAAAAAAAAAAECAwQRAAUSBiExEyIHFCNBURUWQnGB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAP/EAB4RAAIBBAMBAAAAAAAAAAAAAAECAAMREjEhUXGR/9oADAMBAAIRAxEAPwBYpR39p2eK1adaFeRIk4w045GQuBxaQHLDJ7e7HcgdvGo9ObrTh3+1d3D04mNYRxPXrcQzktybiOwOCPwNMfUHw8av0k0X7glnfp2u0xhmCsXRGJYCMtyj5PxPIZBH5zpS2/5J6BaxXoCWPCMJ708Ukh88wFBGPtjQhRsTMMhYyxfh113svT9G9W3rcLNieayJfXSo3vHELkqPB7eB21YdfrnYXasi25nltqs1eNouLOjkhMAkecEDPfXPW9pSr1pEpxUGdpQI3r3pp5EXGcnIAIOP8J069I1rNvYKO+2q8VaGkkUFX6xk9cwl1DMAv0wS7ZJJIxn7aBqd+dxiEaPEUNjudedZbDc3ezvm0yBPVo2UtvFXl9B8NxzxHtZiSCT/AB0iV95m/VbFSaUQrHIYzghlU8sEgjyPP376NGqHOKFR30L/AGCALibuwGke+ta/8xWgtvFHZCDEqAEg8fz4Os/q2Vpx7QzXDtzkztWDEq0jLkkf2QDjxo0aXpB5K6VNWyJGjP/Z
+ogImage: null
 labels:
   - 10 Songs
   - 12 Songs
@@ -55,17 +62,12 @@ labels:
   - Vampyr's Winged Fantasy
   - You Waste Your Time
   - Zakk Wilde
-type: Artikel
-typeName: Artikel
-date: 2019-03-26T17:51:50.000Z
+focusKeyword: 10 Songs
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "23817"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_03_Kopie-von-10-Songs-fu%CC%88r-den-Ma%CC%88rz__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_03_Kopie-von-10-Songs-fu%CC%88r-den-Ma%CC%88rz__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBwMFCP/EACoQAAICAQMDAgUFAAAAAAAAAAECAwQRAAUSBiExEyIHFCNBURUWQnGB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAP/EAB4RAAIBBAMBAAAAAAAAAAAAAAECAAMREjEhUXGR/9oADAMBAAIRAxEAPwBYpR39p2eK1adaFeRIk4w045GQuBxaQHLDJ7e7HcgdvGo9ObrTh3+1d3D04mNYRxPXrcQzktybiOwOCPwNMfUHw8av0k0X7glnfp2u0xhmCsXRGJYCMtyj5PxPIZBH5zpS2/5J6BaxXoCWPCMJ708Ukh88wFBGPtjQhRsTMMhYyxfh113svT9G9W3rcLNieayJfXSo3vHELkqPB7eB21YdfrnYXasi25nltqs1eNouLOjkhMAkecEDPfXPW9pSr1pEpxUGdpQI3r3pp5EXGcnIAIOP8J069I1rNvYKO+2q8VaGkkUFX6xk9cwl1DMAv0wS7ZJJIxn7aBqd+dxiEaPEUNjudedZbDc3ezvm0yBPVo2UtvFXl9B8NxzxHtZiSCT/AB0iV95m/VbFSaUQrHIYzghlU8sEgjyPP376NGqHOKFR30L/AGCALibuwGke+ta/8xWgtvFHZCDEqAEg8fz4Os/q2Vpx7QzXDtzkztWDEq0jLkkf2QDjxo0aXpB5K6VNWyJGjP/Z
 subTitle: Ausgewählt und präsentiert von den drei von der Bande
   
 ---

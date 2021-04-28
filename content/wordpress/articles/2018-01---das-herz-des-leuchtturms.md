@@ -1,16 +1,23 @@
 ---
-title: Das Herz des Leuchtturms
-seoTitle: Das Herz des Leuchtturms - Lieber Besuch in Hamburg - Gedicht
+date: 2018-01-24T17:18:29.000Z
 slug: lieber-besuch-in-hamburg
 path: /2018/01/lieber-besuch-in-hamburg/
-fileName: 2018-01---das-herz-des-leuchtturms.md
+type: Galerie
+typeName: Gedicht
+title: Das Herz des Leuchtturms
+seoTitle: Das Herz des Leuchtturms - Lieber Besuch in Hamburg - Gedicht
+ogTitle: Das Herz des Leuchtturms - Lieber Besuch in Hamburg - Gedicht
 description: Neulich hatten wir lieben Besuch bei uns in Hamburg. Gemeinsam
   haben wir das Herz der Stadt erkundet. Das hat mich zu einem neuen Gedicht
   inspiriert.
 excerpt: Neulich hatten wir lieben Besuch bei uns in Hamburg. Gemeinsam haben
   wir das Herz der Stadt erkundet. Das hat mich zu einem neuen Gedicht
   inspiriert.
-focusKeyword: Herz
+fileName: 2018-01---das-herz-des-leuchtturms.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38803224095_9cbeba0d6d_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38803224095_9cbeba0d6d_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUBA//EACgQAAIBAwMDAwUBAAAAAAAAAAECAwAEEQUhMQYSQRNRYQcUIzJxsf/EABcBAQEBAQAAAAAAAAAAAAAAAAUBAwT/xAAcEQACAgMBAQAAAAAAAAAAAAABAgAhAxESFAT/2gAMAwEAAhEDEQA/AKPVaW+h6e13cwyyDOyRLlsD9mPsqjcmo3eiqN1UMDuCByPFbp6s0d9OkvruI/dzRMWhlV0WCNRkRFmj7cscljxnbgCvW66k0WXRo722uLecvAr4SRcBzkY/ikbmmcf1Lu4VkwNqojTaR3DKKGzxjg1jx2Kzw+pCyyL5K+D7H2PxVCT6kwXMUcd/Yi3kK7y2k7AHPIKjH+1zRuotLk1ZDbsqlmIZpl7AQTuTgkk1PcjEVUvkYA3cUIprk20kCzvGkg7T+Vm24IxsNx8Uz9J6gbOxuYJ50eAYwkzYVQc92FA3z58UUUYCVsRFh1RiPNpsJJaOdimT2gpwM8c1BLH01L9plCjIQ53PgYoorlV2m3In/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38803224095_9cbeba0d6d_z__l.jpg
 labels:
   - Altona
   - Besuch
@@ -31,17 +38,12 @@ labels:
   - Lyrik
   - Schiff
   - Suchmaschine
-type: Galerie
-typeName: Gedicht
-date: 2018-01-24T17:18:29.000Z
+focusKeyword: Herz
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "19034"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38803224095_9cbeba0d6d_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38803224095_9cbeba0d6d_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUBA//EACgQAAIBAwMDAwUBAAAAAAAAAAECAwAEEQUhMQYSQRNRYQcUIzJxsf/EABcBAQEBAQAAAAAAAAAAAAAAAAUBAwT/xAAcEQACAgMBAQAAAAAAAAAAAAABAgAhAxESFAT/2gAMAwEAAhEDEQA/AKPVaW+h6e13cwyyDOyRLlsD9mPsqjcmo3eiqN1UMDuCByPFbp6s0d9OkvruI/dzRMWhlV0WCNRkRFmj7cscljxnbgCvW66k0WXRo722uLecvAr4SRcBzkY/ikbmmcf1Lu4VkwNqojTaR3DKKGzxjg1jx2Kzw+pCyyL5K+D7H2PxVCT6kwXMUcd/Yi3kK7y2k7AHPIKjH+1zRuotLk1ZDbsqlmIZpl7AQTuTgkk1PcjEVUvkYA3cUIprk20kCzvGkg7T+Vm24IxsNx8Uz9J6gbOxuYJ50eAYwkzYVQc92FA3z58UUUYCVsRFh1RiPNpsJJaOdimT2gpwM8c1BLH01L9plCjIQ53PgYoorlV2m3In/9k=
 subTitle: Lieber Besuch in Hamburg
   
 ---

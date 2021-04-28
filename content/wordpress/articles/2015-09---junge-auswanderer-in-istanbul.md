@@ -1,15 +1,22 @@
 ---
-title: Junge Auswanderer in Istanbul
-seoTitle: Junge Auswanderer in Istanbul - Marie von Maviblau berichtet
+date: 2015-09-05T18:31:39.000Z
 slug: junge-auswanderer-in-istanbul
 path: /2015/09/junge-auswanderer-in-istanbul/
-fileName: 2015-09---junge-auswanderer-in-istanbul.md
+type: Artikel
+typeName: Artikel
+title: Junge Auswanderer in Istanbul
+seoTitle: Junge Auswanderer in Istanbul - Marie von Maviblau berichtet
+ogTitle: Junge Auswanderer in Istanbul - Marie von Maviblau berichtet
 description: Sicher könnt Ihr Euch noch an Marie erinnern. Die Filmemacherin
   lebt in Istanbul und hat jetzt ein Online-Magazin gegründet.
 excerpt: Sicher können sich einige von Euch noch an Marie erinnern. Vor Kurzem
   habe ich mich wieder mit Marie unterhalten und sie hatte Interessantes zu
   berichten.
-focusKeyword: Istanbul
+fileName: 2015-09---junge-auswanderer-in-istanbul.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_Fotoausstellung-Perspektivenwechsel-bei-Maviblau__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_Fotoausstellung-Perspektivenwechsel-bei-Maviblau__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQgG/8QAKhAAAgEDAwIFBAMAAAAAAAAAAQIDAAQRBQYhEyIHEjFBURQVFmFSYoH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAMBAQEAAAAAAAAAAAAAAAABAhESIf/aAAwDAQACEQMRAD8A0FtratnpVi8AeWeByHjWRy3RGBlFP8cjIHtk1S7m0O1WVsQgD+oqNtvTNH3VoEmVuocMQJLa9lVvNjnuBpBatPbxQ2sUmp7i+5zIW6a6i6q2GIzyOB6CpHVecooUz7rLHxu0OL8Nup4iEW3kWRwACxGfKPb2LZ/ys26jZyWN9NbyMjtG2PMjBlYexBHyKY+9dSng064jF/qZRlMYS4u+sGLDkcDjt5/eaV5J5NPHT9oKucxGvfDWeVdu3l59LpTlSZO+0JY4bnJDhSf2VpG7+v31HeUF+8ccZnWM9JB2rjPz80UUcpdCa8OO1q9muLm/t3EYRJGIITnggYzVIfWiinQLP//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2015_09_Fotoausstellung-Perspektivenwechsel-bei-Maviblau__l.jpg
 labels:
   - Antifaschismus & Feminismus
   - Auswanderer
@@ -17,17 +24,12 @@ labels:
   - Fernweh
   - Istanbul
   - Maviblau
-type: Artikel
-typeName: Artikel
-date: 2015-09-05T18:31:39.000Z
+focusKeyword: Istanbul
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "12498"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_Fotoausstellung-Perspektivenwechsel-bei-Maviblau__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_Fotoausstellung-Perspektivenwechsel-bei-Maviblau__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQgG/8QAKhAAAgEDAwIFBAMAAAAAAAAAAQIDAAQRBQYhEyIHEjFBURQVFmFSYoH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAMBAQEAAAAAAAAAAAAAAAABAhESIf/aAAwDAQACEQMRAD8A0FtratnpVi8AeWeByHjWRy3RGBlFP8cjIHtk1S7m0O1WVsQgD+oqNtvTNH3VoEmVuocMQJLa9lVvNjnuBpBatPbxQ2sUmp7i+5zIW6a6i6q2GIzyOB6CpHVecooUz7rLHxu0OL8Nup4iEW3kWRwACxGfKPb2LZ/ys26jZyWN9NbyMjtG2PMjBlYexBHyKY+9dSng064jF/qZRlMYS4u+sGLDkcDjt5/eaV5J5NPHT9oKucxGvfDWeVdu3l59LpTlSZO+0JY4bnJDhSf2VpG7+v31HeUF+8ccZnWM9JB2rjPz80UUcpdCa8OO1q9muLm/t3EYRJGIITnggYzVIfWiinQLP//Z
 subTitle: Marie von Maviblau berichtet
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: Twitterprosa
-seoTitle: Twitterprosa - Goldener Herbstschein folgt auf gewaltige Regengüsse
+date: 2012-10-05T11:25:57.000Z
 slug: twitterprosa
 path: /2012/10/twitterprosa/
-fileName: 2012-10---twitterprosa.md
+type: Artikel
+typeName: Artikel
+title: Twitterprosa
+seoTitle: Twitterprosa - Goldener Herbstschein folgt auf gewaltige Regengüsse
+ogTitle: Twitterprosa - Goldener Herbstschein folgt auf gewaltige Regengüsse
 description: Goldener Herbstschein folgt auf gewaltige Regengüsse. Laubbilder am
   Freitag. Kaffee mit Zucker. Phoshorsäurehaltige Limonade mit Farbstoffen.
 excerpt: Goldener Herbstschein folgt auf gewaltige Regengüsse. Laubbilder am
   Freitag. Kaffee mit Zucker. Phoshorsäurehaltige Limonade.
-focusKeyword: Twitter
+fileName: 2012-10---twitterprosa.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_10_f605c3c2059e11e2a31922000a1fbcdc_7__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_10_f605c3c2059e11e2a31922000a1fbcdc_7__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcGCAECBP/EAC0QAAEDAwIEBQMFAAAAAAAAAAECAwQFBhEAEgcTITEIIkFRcTJD8WKBkaHB/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUAAgP/xAAjEQACAgECBgMAAAAAAAAAAAABAgMRAIHBEiEiMUFhMnGh/9oADAMBAAIRAxEAPwDPEG5aZGveusyeKd105SZa0KhR4Sy2xg9UIO8ZA9wNHjxqsnnVNxVyV5wy3UuJSIS9rICdoSkZ7ep9zpPeJWmNROK9RW0By5aueR+rACv7GdLmBFOXVpGBjBPsNLnEcq23sd9Dh3VGaHrY46Ydy2lDiSG2r2vMh0JTvRTinACNuPr/AH0Vta+bfVddGai35fDpM1tLcV6MAy4VKSkJX5/pJ7/J1GqLwrmzbdhVFdUYimRHefMR7oQEjLfnA2jf174wPfOoHa2yBxBtx95SA21OjOKJIwkB1Oc6iEcVEVlpRJw9Xb6xmeI6kzZPEtaocfnhKQpXUYAUT3+fT41zWNZTD1Pms1ONIZccdbWy6WidhSe2exHzpkXlSavVeJsp5EaaphMkrTiM5yylCQkAqHTHlJ79c6JSI1wNt+aLJCU9AEbgB/KtZQQs7kH4gnWze+MHMaIpItiBpyrbNbru5+DVXHqdRpE5pUdKCluOShJzgkHHsckdjjVeqBR6ieK9KlTafIZjSKk3s3NYHVYPY9PxqwsaJUXASuPL3Eej2P8AdD6zQJS5NIklqbvRVYX3N+QX0JJxk9gSfxoooQ5Y+b/cFmp46HjP/9k=
+ogImage: null
 labels:
   - Arschhaarzopf
   - berühmte letzte worte
@@ -36,17 +43,12 @@ labels:
   - twittern
   - Vegetarier
   - Wörter
-type: Artikel
-typeName: Artikel
-date: 2012-10-05T11:25:57.000Z
+focusKeyword: Twitter
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "4334"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_10_f605c3c2059e11e2a31922000a1fbcdc_7__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_10_f605c3c2059e11e2a31922000a1fbcdc_7__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcGCAECBP/EAC0QAAEDAwIEBQMFAAAAAAAAAAECAwQFBhEAEgcTITEIIkFRcTJD8WKBkaHB/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUAAgP/xAAjEQACAgECBgMAAAAAAAAAAAABAgMRAIHBEiEiMUFhMnGh/9oADAMBAAIRAxEAPwDPEG5aZGveusyeKd105SZa0KhR4Sy2xg9UIO8ZA9wNHjxqsnnVNxVyV5wy3UuJSIS9rICdoSkZ7ep9zpPeJWmNROK9RW0By5aueR+rACv7GdLmBFOXVpGBjBPsNLnEcq23sd9Dh3VGaHrY46Ydy2lDiSG2r2vMh0JTvRTinACNuPr/AH0Vta+bfVddGai35fDpM1tLcV6MAy4VKSkJX5/pJ7/J1GqLwrmzbdhVFdUYimRHefMR7oQEjLfnA2jf174wPfOoHa2yBxBtx95SA21OjOKJIwkB1Oc6iEcVEVlpRJw9Xb6xmeI6kzZPEtaocfnhKQpXUYAUT3+fT41zWNZTD1Pms1ONIZccdbWy6WidhSe2exHzpkXlSavVeJsp5EaaphMkrTiM5yylCQkAqHTHlJ79c6JSI1wNt+aLJCU9AEbgB/KtZQQs7kH4gnWze+MHMaIpItiBpyrbNbru5+DVXHqdRpE5pUdKCluOShJzgkHHsckdjjVeqBR6ieK9KlTafIZjSKk3s3NYHVYPY9PxqwsaJUXASuPL3Eej2P8AdD6zQJS5NIklqbvRVYX3N+QX0JJxk9gSfxoooQ5Y+b/cFmp46HjP/9k=
 subTitle: Eine Zusammenfassung
   
 ---

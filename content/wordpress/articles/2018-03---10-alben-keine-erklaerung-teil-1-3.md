@@ -1,16 +1,23 @@
 ---
-title: 10 Alben - Keine Erklärung - Teil 1/3
-seoTitle: 10 Alben - Keine Erklärung - Die ultimative Lieblingsplattenliste aller Zeiten
+date: 2018-03-02T08:08:35.000Z
 slug: meine-ultimative-lieblingsplatten-liste
 path: /2018/03/meine-ultimative-lieblingsplatten-liste/
-fileName: 2018-03---10-alben-keine-erklaerung-teil-1-3.md
+type: Artikel
+typeName: Artikel
+title: 10 Alben - Keine Erklärung - Teil 1/3
+seoTitle: 10 Alben - Keine Erklärung - Die ultimative Lieblingsplattenliste aller Zeiten
+ogTitle: 10 Alben - Keine Erklärung - Die ultimative Lieblingsplattenliste aller Zeiten
 description: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten.
   Diese Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie
   vergessen werde.
 excerpt: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten. Diese
   Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie vergessen
   werde.
-focusKeyword: Lieblingsplatten
+fileName: 2018-03---10-alben-keine-erklaerung-teil-1-3.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_10-Alben-keine-Erkl%C3%A4rung__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_10-Alben-keine-Erkl%C3%A4rung__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACgQAAIBAwMEAgEFAAAAAAAAAAEDAgQFEQAGEgcTITEiQWEUI0KBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EACMRAAEDAwQCAwAAAAAAAAAAAAEAAgMEESEFEjHwE0GBkbH/2gAMAwEAAhEDEQA/ALfe0Vx3NZRSTR23RYZManlJIhEH4nkM+TkAg+c/Qxqa9YqG51e8YRooPaoUisCEc+fln696XkdW91inssnKo6+6VXcnKnVQypo0uAMDkzzISjIZIwBiQ841kbv3jK+opL3dqUyEUyU1aXuRElbZxGOMh7wDnGlopDRv8zm3HHyVmagfqcZiYbWyfWAnLpqx+27he6+7NNKKe0tMu/AwC5Fi+P15zjTJ0kq6HdSWLVWNqf0U4lnJ74S4SBMcAED3+PIOpj0f3HOq3be50CFpp3W6YVBrGPIjJiozEiZAk5/A96q9ludXZO5G2Kt6VtMO4AiWTwgID+fvjED+tHWVzJJS94ziy1S6eaeIRtOPvvfSgD722qs97peEohVIeUg2QM8GefIwfOACM6XYVIqtlUC2KEEsyyK1kgLBe08RnJxo0aJjRsv3lVaVI5o2jgg/i2endU+00r7lSTAZNJp+Jj9BtPI/7yxpjlu27wuzKiNVIx5H9mXlYBwMCP1j3o0amqAC9Uxm7V//2Q==
+ogImage: null
 labels:
   - A Perfect Circle
   - After The Eulogy
@@ -37,18 +44,13 @@ labels:
   - The Great Escape
   - The Smashing Pumpkins
   - Vinyl
-type: Artikel
-typeName: Artikel
-date: 2018-03-02T08:08:35.000Z
+focusKeyword: Lieblingsplatten
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "19946"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_10-Alben-keine-Erkl%C3%A4rung__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_10-Alben-keine-Erkl%C3%A4rung__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACgQAAIBAwMEAgEFAAAAAAAAAAEDAgQFEQAGEgcTITEiQWEUI0KBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EACMRAAEDAwQCAwAAAAAAAAAAAAEAAgMEESEFEjHwE0GBkbH/2gAMAwEAAhEDEQA/ALfe0Vx3NZRSTR23RYZManlJIhEH4nkM+TkAg+c/Qxqa9YqG51e8YRooPaoUisCEc+fln696XkdW91inssnKo6+6VXcnKnVQypo0uAMDkzzISjIZIwBiQ841kbv3jK+opL3dqUyEUyU1aXuRElbZxGOMh7wDnGlopDRv8zm3HHyVmagfqcZiYbWyfWAnLpqx+27he6+7NNKKe0tMu/AwC5Fi+P15zjTJ0kq6HdSWLVWNqf0U4lnJ74S4SBMcAED3+PIOpj0f3HOq3be50CFpp3W6YVBrGPIjJiozEiZAk5/A96q9ludXZO5G2Kt6VtMO4AiWTwgID+fvjED+tHWVzJJS94ziy1S6eaeIRtOPvvfSgD722qs97peEohVIeUg2QM8GefIwfOACM6XYVIqtlUC2KEEsyyK1kgLBe08RnJxo0aJjRsv3lVaVI5o2jgg/i2endU+00r7lSTAZNJp+Jj9BtPI/7yxpjlu27wuzKiNVIx5H9mXlYBwMCP1j3o0amqAC9Uxm7V//2Q==
 subTitle: Meine ultimative Lieblingsplatten-Liste aller Zeiten
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: Margit Ricarda Rolf von der SoLaWi
-seoTitle: Veganer sind unglaublich kreativ! - Interview mit Ricarda aus Hamburg
+date: 2015-02-06T16:31:01.000Z
 slug: veganer-sind-unglaublich-kreativ
 path: /2015/02/veganer-sind-unglaublich-kreativ/
-fileName: 2015-02---margit-ricarda-rolf-von-der-solawi.md
+type: Artikel
+typeName: Interview
+title: Margit Ricarda Rolf von der SoLaWi
+seoTitle: Veganer sind unglaublich kreativ! - Interview mit Ricarda aus Hamburg
+ogTitle: Veganer sind unglaublich kreativ! - Interview mit Ricarda aus Hamburg
 description: Was es mit der Kreativität der Veganer auf sich hat, hat mir
   Ricarda von der SoLaWi Hamburg im Interview erzählt.
 excerpt: Was es mit der Kreativität der Veganer auf sich hat, hat mir Ricarda
   von der SoLaWi Hamburg im Interview erzählt.
-focusKeyword: Veganer
+fileName: 2015-02---margit-ricarda-rolf-von-der-solawi.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02_altes-land-2012__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_02_altes-land-2012__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGAQf/xAApEAABBAEDAgQHAAAAAAAAAAABAgMEEQUAEiEHIgYxQYETFDJhcZHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACIQMRkaH/2gAMAwEAAhEDEQA/AMgdc80pguyoMBzggBplSaV+Sr+6NhOv2dcmlC8fAcb71KaQ2vckUdtKv09bGoBteKUsb3p1E3Y2176dxI+N+SeYiuOIcloI+PXeU3RrjjWNeZtg/ZB0uSsjdUfF6oSAvNIEpaQ6CqI3WwmhYCPfTyF16nSIrTowLDlilFD5qxwa48tcbzXhpKYkcwo8jIgnuSXUt7RX1dxon7aDhcKy4VKi5V9aW+FIUwAR5gEc153+tK3sZnkNJ//Z
+ogImage: null
 labels:
   - Bio
   - Bio-Gärtner
@@ -29,18 +36,13 @@ labels:
   - Solidarische Landwirtschaft
   - vegan
   - vegane Landwirtschaft
-type: Artikel
-typeName: Interview
-date: 2015-02-06T16:31:01.000Z
+focusKeyword: Veganer
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "9432"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02_altes-land-2012__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_02_altes-land-2012__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGAQf/xAApEAABBAEDAgQHAAAAAAAAAAABAgMEEQUAEiEHIgYxQYETFDJhcZHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACIQMRkaH/2gAMAwEAAhEDEQA/AMgdc80pguyoMBzggBplSaV+Sr+6NhOv2dcmlC8fAcb71KaQ2vckUdtKv09bGoBteKUsb3p1E3Y2176dxI+N+SeYiuOIcloI+PXeU3RrjjWNeZtg/ZB0uSsjdUfF6oSAvNIEpaQ6CqI3WwmhYCPfTyF16nSIrTowLDlilFD5qxwa48tcbzXhpKYkcwo8jIgnuSXUt7RX1dxon7aDhcKy4VKi5V9aW+FIUwAR5gEc153+tK3sZnkNJ//Z
 subTitle: '"Veganer*innen sind unglaublich kreativ!"'
   
 ---

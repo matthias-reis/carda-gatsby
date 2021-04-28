@@ -1,28 +1,30 @@
 ---
-title: Die neue Kollektion von H&M
-seoTitle: Leder und Seide unter dem Label "Conscious" bei H&M
+date: 2016-04-12T15:37:48.000Z
 slug: die-neue-kollektion-von-hm
 path: /2016/04/die-neue-kollektion-von-hm/
-fileName: 2016-04---die-neue-kollektion-von-h-und-m.md
+type: Artikel
+typeName: Artikel
+title: Die neue Kollektion von H&M
+seoTitle: Leder und Seide unter dem Label "Conscious" bei H&M
+ogTitle: Leder und Seide unter dem Label "Conscious" bei H&M
 description: H&M möchte Mode nachhaltiger und Nachhaltigkeit modischer machen.
   Allerdings kommen dabei Produkte tierischen Ursprungs zum Einsatz.
 excerpt: H&M möchte Mode nachhaltiger und Nachhaltigkeit modischer machen.
   Allerdings kommen dabei Produkte tierischen Ursprungs zum Einsatz.
-focusKeyword: Conscious
-labels:
-  - Greenwashing
-  - Klima & Umweltschutz
-type: Artikel
-typeName: Artikel
-date: 2016-04-12T15:37:48.000Z
-status: publish
-isWerbung: false
-isAffiliate: false
-errors: {}
-thumbnailId: "28954"
+fileName: 2016-04---die-neue-kollektion-von-h-und-m.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_towel-1838210_1280__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_towel-1838210_1280__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBgcF/8QAKRAAAQQBAwMDBAMAAAAAAAAAAQIDBBESAAUhBjFBExRRIiNhcTJDgf/EABYBAQEBAAAAAAAAAAAAAAAAAAQDBv/EACYRAAEDAwIFBQAAAAAAAAAAAAEAAgMEESExYQUSExRCI1GB4fD/2gAMAwEAAhEDEQA/AM12GWPcuxUTWiv+hLpxQhRB5r5uu/i9av0VukESpcNyRGRO9Rt91lb4KnU4qGOafItJ4Nazvpd0ObUkxnbcDtvBBBJBOOKk96o5fHH412m5kVnctzYKUxKSy6e6fH1HLzxQIHwdO4jRjo4fcKXDR3M3Tkby6q09Tz25m/IHT8lbMz2qmy9Hf/mrIpAF8HE2O3k/vSmz7Y/FbjCVgl98YltSQsuJxt0mj80L/WmOkmpm4bzi2m2GVhxTqD9t1OBsk9ruq5PA/Gq51ZvLcXeDKRBbU7GT6bkhi1uNnnLkGgK4quTodI+IERagDP3+9kuvpJIR6b8jTbb5SexvuluIQoBDigHKFKUVi7yFdq7am3uUptxbIy5ViTlwQoEGxXJque/GjRqVyZMrTSm0AspujZsx73SlS3kFl5HppQQEAJCjRT5HYd9O7k8IWyy96TGipdfQt7FhkNlHpoPY8/UT5r/NGjRakcrrjyIvvhZtri+Vwd4jC//Z
+ogImage: null
+labels:
+  - Greenwashing
+  - Klima & Umweltschutz
+focusKeyword: Conscious
+status: publish
+isWerbung: false
+isAffiliate: false
+language: de
+errors: {}
 subTitle: Leder und Seide unter dem Label "Conscious"
   
 ---

@@ -1,15 +1,22 @@
 ---
-title: Surge Sanctuary
-seoTitle: Surge Sanctuary – Tierrechtsaktivist Earthling Ed plant Hof für Tiere
+date: 2020-12-26T14:06:17.000Z
 slug: earthling-ed-surge-sanctuary
 path: /2020/12/earthling-ed-surge-sanctuary/
-fileName: 2020-12---surge-sanctuary.md
+type: Artikel
+typeName: Artikel
+title: Surge Sanctuary
+seoTitle: Surge Sanctuary – Tierrechtsaktivist Earthling Ed plant Hof für Tiere
+ogTitle: Surge Sanctuary – Tierrechtsaktivist Earthling Ed plant Hof für Tiere
 description: Gemeinsam mit den Aktivist⋆innen rund um sein veganes Restaurant
   Unity Diner hat Ed Winters aka Earthling Ed jetzt das Surge Sanctuary
   gegründet.
 excerpt: Gemeinsam mit den Aktivist⋆innen rund um sein veganes Restaurant Unity
   Diner hat Ed Winters aka Earthling Ed jetzt das Surge Sanctuary gegründet.
-focusKeyword: Surge Sanctuary
+fileName: 2020-12---surge-sanctuary.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_surge-sanctuary__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_surge-sanctuary__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBwECAwX/xAAqEAACAQMDAgUEAwAAAAAAAAABAhEAAwQFEiEiQQYTFTFhFDNCUXGBof/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABsRAQEAAQUAAAAAAAAAAAAAAAABAhESIVFh/9oADAMBAAIRAxEAPwCiL+ZcOmpiI5fGQyyARJn3nvXuaNZW/jth6PivczcuyEdEYsbkdRgE8Djmk+zeZXBKbh8+1M2g+I10i5jPZS1ZW2z7nRN7NunpM/j2gU5TpM9TEs5Oj6zjYmViNazN6HyWgN1EQPg8xTcM7DAFu/h7mlxuW5Hfjie1Y1zWfBOTYwhrDZp1Owwd2xkZb0xIBaNsAkQDSprOuaLkhPRvULN8ODOaLbKwHysEfwam8ttV+xuSS/Ywa7Il+fuIi/qZ/wAooqqdEzKxLl0nLDjymaWY+6k/sfPatcbB+puBTfC9YE7eBPAJ/viiihn/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_12_surge-sanctuary-fb.png__l.jpg
 labels:
   - Earthling Ed
   - go vegan
@@ -17,17 +24,12 @@ labels:
   - Surge Sanctuary
   - Tierrechte
   - vegan
-type: Artikel
-typeName: Artikel
-date: 2020-12-26T14:06:17.000Z
+focusKeyword: Surge Sanctuary
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32195"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_surge-sanctuary__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_surge-sanctuary__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBwECAwX/xAAqEAACAQMDAgUEAwAAAAAAAAABAhEAAwQFEiEiQQYTFTFhFDNCUXGBof/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABsRAQEAAQUAAAAAAAAAAAAAAAABAhESIVFh/9oADAMBAAIRAxEAPwCiL+ZcOmpiI5fGQyyARJn3nvXuaNZW/jth6PivczcuyEdEYsbkdRgE8Djmk+zeZXBKbh8+1M2g+I10i5jPZS1ZW2z7nRN7NunpM/j2gU5TpM9TEs5Oj6zjYmViNazN6HyWgN1EQPg8xTcM7DAFu/h7mlxuW5Hfjie1Y1zWfBOTYwhrDZp1Owwd2xkZb0xIBaNsAkQDSprOuaLkhPRvULN8ODOaLbKwHysEfwam8ttV+xuSS/Ywa7Il+fuIi/qZ/wAooqqdEzKxLl0nLDjymaWY+6k/sfPatcbB+puBTfC9YE7eBPAJ/viiihn/2Q==
 subTitle: Earthling Ed plant Hof für Tiere
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: Aromatherapie
-seoTitle: Aromatherapie - Mit ätherischen Ölen das Wohlbefinden steigern
+date: 2021-03-22T09:55:11.000Z
 slug: aromatherapie
 path: /2021/03/aromatherapie/
-fileName: 2021-03---aromatherapie.md
+type: Artikel
+typeName: Artikel
+title: Aromatherapie
+seoTitle: Aromatherapie - Mit ätherischen Ölen das Wohlbefinden steigern
+ogTitle: Aromatherapie - Wohlfühlen mit ätherischen Ölen
 description: Mit Aromatherapie könnt Ihr Euer Wohlbefinden steigern und unter
   Umständen sogar bestimmte Symptome wie beispielsweise Kopfschmerzen lindern
 excerpt: "Werbung & Affiliate Links – Aromatherapie – was nach Wellness im
   Kurort klingt, könnt Ihr mit ein paar Tricks und Kniffen daheim ausprobieren.
   Macht Euch bereit: Euch erwartet die pure Entspannung – und zwar ganz ohne
   Ortswechsel und Reisekosten."
-focusKeyword: Aromatherapie
+fileName: 2021-03---aromatherapie.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-edel-naturwaren-3__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-edel-naturwaren-3__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBP/EACgQAAEDAwMDBAMBAAAAAAAAAAECAxEABAUGEiEHIjETQVFhFSPwMv/EABYBAQEBAAAAAAAAAAAAAAAAAAECBP/EABoRAAMBAQEBAAAAAAAAAAAAAAABAjEDERL/2gAMAwEAAhEDEQA/ALKyoqUlPyYpJ6cdVsdrbUFziWcZf2DjDCn/AFHilQWErCSAB79wpxachEgpkc+KjFp0qcxORyTmM1Dd2dxdS2XmLdDa2wVhztIVKZ2x2kccVH0hUsfOpfVDF6ByNlZXdjkL9d0wbgG3CE7E7ynkE/VOj6+4xULyfTy1yj2Oa1PqnIXzzMJZeeLZWQtW4oKiFFQBHEkgSauJTt3gmYMeB7Ch0tKcP3wyI3hMlIiPI/v77pEubrV/5C4dtsbiv1rKketdKhYmEbgEApBG7iSZ9qKKyV0qcNMwq0zA68XdsvItsJYgJQFsJddUGgP8wQO4mTIMR81Sw4VJVuKeV7ZHMqPmiiielVpVQlh//9k=
+ogImage: null
 labels:
   - Achtsamkeit
   - Aroma-Öle
@@ -26,17 +33,12 @@ labels:
   - Pfefferminz-Öl
   - Ylang Ylang
   - Ylang Ylang-Öl
-type: Artikel
-typeName: Artikel
-date: 2021-03-22T09:55:11.000Z
+focusKeyword: Aromatherapie
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33496"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-edel-naturwaren-3__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-edel-naturwaren-3__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBP/EACgQAAEDAwMDBAMBAAAAAAAAAAECAxEABAUGEiEHIjETQVFhFSPwMv/EABYBAQEBAAAAAAAAAAAAAAAAAAECBP/EABoRAAMBAQEBAAAAAAAAAAAAAAABAjEDERL/2gAMAwEAAhEDEQA/ALKyoqUlPyYpJ6cdVsdrbUFziWcZf2DjDCn/AFHilQWErCSAB79wpxachEgpkc+KjFp0qcxORyTmM1Dd2dxdS2XmLdDa2wVhztIVKZ2x2kccVH0hUsfOpfVDF6ByNlZXdjkL9d0wbgG3CE7E7ynkE/VOj6+4xULyfTy1yj2Oa1PqnIXzzMJZeeLZWQtW4oKiFFQBHEkgSauJTt3gmYMeB7Ch0tKcP3wyI3hMlIiPI/v77pEubrV/5C4dtsbiv1rKketdKhYmEbgEApBG7iSZ9qKKyV0qcNMwq0zA68XdsvItsJYgJQFsJddUGgP8wQO4mTIMR81Sw4VJVuKeV7ZHMqPmiiielVpVQlh//9k=
 subTitle: Wohlfühlen mit ätherischen Ölen
   
 ---

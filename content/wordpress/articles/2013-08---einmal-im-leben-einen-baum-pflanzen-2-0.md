@@ -1,13 +1,20 @@
 ---
-title: Einmal im Leben einen Baum pflanzen 2.0
-seoTitle: Einmal im Leben einen Baum pflanzen 2.0
+date: 2013-08-14T12:17:03.000Z
 slug: einmal-im-leben-einen-baum-pflanzen-2-0
 path: /2013/08/einmal-im-leben-einen-baum-pflanzen-2-0/
-fileName: 2013-08---einmal-im-leben-einen-baum-pflanzen-2-0.md
+type: Artikel
+typeName: Artikel
+title: Einmal im Leben einen Baum pflanzen 2.0
+seoTitle: Einmal im Leben einen Baum pflanzen 2.0
+ogTitle: Einmal im Leben einen Baum pflanzen 2.0
 description: Wir werden jetzt Baumpaten! Wo unser Baum steht, wissen wir noch nicht
 excerpt: Einmal im Leben soll man ja einen Baum pflanzen. Grundsätzlich ja ein
   schöner Gedanke. Mal sehen, wie sich das umsetzen lässt.
-focusKeyword: Baum
+fileName: 2013-08---einmal-im-leben-einen-baum-pflanzen-2-0.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_08_foto__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_08_foto__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAFB//EACwQAAEDAwMDAgUFAAAAAAAAAAECAwQFESEABhITFDEjQRUyUVJiM3GRofD/xAAZAQACAwEAAAAAAAAAAAAAAAAAAgEDBAX/xAAaEQADAQADAAAAAAAAAAAAAAAAAQIRAyEi/9oADAMBAAIRAxEAPwAlumt1xNcqvQqlSI7t4WTMWCPUVYW5f1pLtCbVzRWCdwF+U6VEtmpEqQouFIbN1fMbXAB8Z1g1OHDk12pl8ISRMkKUtXMgDqqNyE/QXwMnSHZPZRjFcpsmBOVGmLdE9hp5KQVIACUIVbiU3+3Oc659vyaJXY2SioVJpxEB+a44trqAdysFCcclX5e2f50DdVVKVu6jMM1msSW3X4q3Cl9wtJ5KRdHLkb2vm/1101MmqUxESrJYaEeSeipSHAAGy2s8yk+bkYscEe+uaTHSnesMs/oOzmFJOADdabj97jVfG3o9I1q1sl8Sq30qo2nm++Mxb25LP5+c6R7e2OKFt8Ros5Nks9QnoW5LB+Yjl5yf8NWrUVTzBJZoVvbkqbt+Cz8TCERmz009vcD1Fp+6/i3vjROPtKVJ3DAccqjdu7aWU9sbYcH56tWiWDbP/9k=
+ogImage: null
 labels:
   - Baum pflanzen
   - Baumpate werden
@@ -18,17 +25,12 @@ labels:
   - Hochzeit
   - Klima & Umweltschutz
   - Patenschaft
-type: Artikel
-typeName: Artikel
-date: 2013-08-14T12:17:03.000Z
+focusKeyword: Baum
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "6837"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_08_foto__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_08_foto__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAFB//EACwQAAEDAwMDAgUFAAAAAAAAAAECAwQFESEABhITFDEjQRUyUVJiM3GRofD/xAAZAQACAwEAAAAAAAAAAAAAAAAAAgEDBAX/xAAaEQADAQADAAAAAAAAAAAAAAAAAQIRAyEi/9oADAMBAAIRAxEAPwAlumt1xNcqvQqlSI7t4WTMWCPUVYW5f1pLtCbVzRWCdwF+U6VEtmpEqQouFIbN1fMbXAB8Z1g1OHDk12pl8ISRMkKUtXMgDqqNyE/QXwMnSHZPZRjFcpsmBOVGmLdE9hp5KQVIACUIVbiU3+3Oc659vyaJXY2SioVJpxEB+a44trqAdysFCcclX5e2f50DdVVKVu6jMM1msSW3X4q3Cl9wtJ5KRdHLkb2vm/1101MmqUxESrJYaEeSeipSHAAGy2s8yk+bkYscEe+uaTHSnesMs/oOzmFJOADdabj97jVfG3o9I1q1sl8Sq30qo2nm++Mxb25LP5+c6R7e2OKFt8Ros5Nks9QnoW5LB+Yjl5yf8NWrUVTzBJZoVvbkqbt+Cz8TCERmz009vcD1Fp+6/i3vjROPtKVJ3DAccqjdu7aWU9sbYcH56tWiWDbP/9k=
 subTitle: Wir werden Baumpaten!
   
 ---

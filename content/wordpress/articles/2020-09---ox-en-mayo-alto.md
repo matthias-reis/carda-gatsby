@@ -1,16 +1,23 @@
 ---
-title: Ox en Mayo alto
-seoTitle: Ox en Mayo alto - "Los famosos días de la fiebre" - Post-Rock Review
+date: 2020-09-29T14:10:54.000Z
 slug: ox-en-mayo-alto-los-famosos-dias-de-la-fiebre-review
 path: /2020/09/ox-en-mayo-alto-los-famosos-dias-de-la-fiebre-review/
-fileName: 2020-09---ox-en-mayo-alto.md
+type: Artikel
+typeName: Review
+title: Ox en Mayo alto
+seoTitle: Ox en Mayo alto - "Los famosos días de la fiebre" - Post-Rock Review
+ogTitle: Ox en Mayo alto - "Los famosos días de la fiebre" - Post-Rock Review
 description: "Heute möchte ich Euch gerne von einer Neuentdeckung erzählen: der
   Post-Rock/Post-Hardcore/Mathcore Band Ox en Mayo alto aus dem argentinischen
   Córdoba."
 excerpt: "English & German - Heute möchte ich Euch gerne von einer Neuentdeckung
   erzählen: der Post-Rock/Post-Hardcore/Mathcore Band Ox en Mayo alto aus dem
   argentinischen Córdoba."
-focusKeyword: Ox en Mayo alto
+fileName: 2020-09---ox-en-mayo-alto.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_ox-en-mayo-alto-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_ox-en-mayo-alto-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBgIECP/EACoQAAIBAwIFAgcBAAAAAAAAAAECAwAEEQUSBhMhMVFBYQciMkJxgZGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAD/8QAGhEBAQEAAwEAAAAAAAAAAAAAAREAAiEiMf/aAAwDAQACEQMRAD8A570PRp72RJZG3Rj7FHnp39qYxWMMMCtd3AjR+gLEDPsBjJrW4ZgaXiHSThlTaFLkHbuJYDJ/YqxcMXUMnHnDumX1tFLbHUVs7hZOqSI7BHHnGPXv2rWdE2V+3LTpsE1s72lwsqx9G2kHB8EYpdremtZXUsawvsXADZ+o/wAp5ZawL661AclObdXBCsmFUYyAPxUfEaSSC6jgimCjnyrJs9SGAx/tEo5WJNUOGr5rTVrVizctZAxG44GD3oudQuItUF7auyTpO0scg7q27IYe9FFI+dIXZaVftFdiR+p3qflXA6YphxTfSalqlxIrLyua7LnyxycUUUclOKmp3v/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_ox-en-mayo-alto-fb.png__l.jpg
 labels:
   - Argentinien
   - Bands
@@ -23,17 +30,12 @@ labels:
   - Post-Rock
   - Review
   - Rezension
-type: Artikel
-typeName: Review
-date: 2020-09-29T14:10:54.000Z
+focusKeyword: Ox en Mayo alto
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31454"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_ox-en-mayo-alto-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_ox-en-mayo-alto-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBgIECP/EACoQAAIBAwIFAgcBAAAAAAAAAAECAwAEEQUSBhMhMVFBYQciMkJxgZGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAD/8QAGhEBAQEAAwEAAAAAAAAAAAAAAREAAiEiMf/aAAwDAQACEQMRAD8A570PRp72RJZG3Rj7FHnp39qYxWMMMCtd3AjR+gLEDPsBjJrW4ZgaXiHSThlTaFLkHbuJYDJ/YqxcMXUMnHnDumX1tFLbHUVs7hZOqSI7BHHnGPXv2rWdE2V+3LTpsE1s72lwsqx9G2kHB8EYpdremtZXUsawvsXADZ+o/wAp5ZawL661AclObdXBCsmFUYyAPxUfEaSSC6jgimCjnyrJs9SGAx/tEo5WJNUOGr5rTVrVizctZAxG44GD3oudQuItUF7auyTpO0scg7q27IYe9FFI+dIXZaVftFdiR+p3qflXA6YphxTfSalqlxIrLyua7LnyxycUUUclOKmp3v/Z
 subTitle: '"Los famosos días de la fiebre"'
   
 ---

@@ -1,15 +1,22 @@
 ---
-title: Vincent Vegan aus Hamburg
-seoTitle: Vincent Vegan - vom Geheimtipp zum Fastfood Superstar
+date: 2019-07-31T08:31:28.000Z
 slug: vincent-vegan-aus-hamburg
 path: /2019/07/vincent-vegan-aus-hamburg/
-fileName: 2019-07---vincent-vegan-aus-hamburg.md
+type: Artikel
+typeName: Artikel
+title: Vincent Vegan aus Hamburg
+seoTitle: Vincent Vegan - vom Geheimtipp zum Fastfood Superstar
+ogTitle: Vincent Vegan - vom Geheimtipp zum Fastfood Superstar
 description: Spricht sich ein Geheimtipp herum, kann es passieren, dass er bald
   in aller Munde ist. Genau so war das auch mit Vincent Vegan. Und das ist gut
   so.
 excerpt: Spricht sich ein Geheimtipp herum, kann es passieren, dass er bald in
   aller Munde ist. Genau so war das auch mit Vincent Vegan. Und das ist gut so.
-focusKeyword: Vincent Vegan
+fileName: 2019-07---vincent-vegan-aus-hamburg.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_VV_Fuchsbau_183_0__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_VV_Fuchsbau_183_0__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBAURAAYhEhQxB0FxEyIjMmFikf/EABgBAQADAQAAAAAAAAAAAAAAAAUAAQME/8QAJhEAAQIEBQQDAAAAAAAAAAAAAQIDABEhMQQFEkFRInGh0WGB8P/aAAwDAQACEQMRAD8Awuj2peKyR0hpVJRQ7ZlTCgnGSc8c6sa/ZFXao6SW61MFOlVEJ4sEEshLAHBP9Txpms99ud4rGpYuza419LJRBoWVHTGGLtnwAFPP88acdt0VVt+kqLc9ZRm6VmGhUAOI4lIEiqzj9SenI48++gHcxcQvQQJ7CdTybGgrttCacE3pn527d4T7R6f2CSzC4XCuuroJFibt/pgBmXqU5CPkYBB9wcas49h7JqrRTSU9wqbfcJOkNDdqxYwMk5OQijAwPbPxrq3PVXO0W+2Wy5XqLukqTNGtHhCFfwWfkfb+PAC+xzwdKnqDuRdwX6GS5RxVMaIGkz0qxdhh8dJx+wJ441G3cStclWrUHj6F/EUptgJ6b/P4xR7KrZoN40Yg6F7hu3kyuco4HV8E486fPXAo9Ba6p4wZKeqaNQfHS6ZI/wBUaNGuXGpAzRgjj2I3aJOEdnz6jLaedZJVQoVjYsxVSByffx8aieaSoMTVEjyFuACeFHA40aNP6QLQTMmcf//Z
+ogImage: null
 labels:
   - Berlin
   - Hamburg vegan
@@ -19,17 +26,12 @@ labels:
   - vegane Lokale
   - veganes Fastfood
   - Vincent Vegan
-type: Artikel
-typeName: Artikel
-date: 2019-07-31T08:31:28.000Z
+focusKeyword: Vincent Vegan
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "25572"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_VV_Fuchsbau_183_0__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_VV_Fuchsbau_183_0__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBAURAAYhEhQxB0FxEyIjMmFikf/EABgBAQADAQAAAAAAAAAAAAAAAAUAAQME/8QAJhEAAQIEBQQDAAAAAAAAAAAAAQIDABEhMQQFEkFRInGh0WGB8P/aAAwDAQACEQMRAD8Awuj2peKyR0hpVJRQ7ZlTCgnGSc8c6sa/ZFXao6SW61MFOlVEJ4sEEshLAHBP9Txpms99ud4rGpYuza419LJRBoWVHTGGLtnwAFPP88acdt0VVt+kqLc9ZRm6VmGhUAOI4lIEiqzj9SenI48++gHcxcQvQQJ7CdTybGgrttCacE3pn527d4T7R6f2CSzC4XCuuroJFibt/pgBmXqU5CPkYBB9wcas49h7JqrRTSU9wqbfcJOkNDdqxYwMk5OQijAwPbPxrq3PVXO0W+2Wy5XqLukqTNGtHhCFfwWfkfb+PAC+xzwdKnqDuRdwX6GS5RxVMaIGkz0qxdhh8dJx+wJ441G3cStclWrUHj6F/EUptgJ6b/P4xR7KrZoN40Yg6F7hu3kyuco4HV8E486fPXAo9Ba6p4wZKeqaNQfHS6ZI/wBUaNGuXGpAzRgjj2I3aJOEdnz6jLaedZJVQoVjYsxVSByffx8aieaSoMTVEjyFuACeFHA40aNP6QLQTMmcf//Z
 subTitle: Vom Geheimtipp zum Fastfood Superstar
   
 ---

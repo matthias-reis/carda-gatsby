@@ -1,16 +1,23 @@
 ---
-title: Vegane Cranberry-Walnuss-Cookies
-seoTitle: Vegane Cranberry-Walnuss-Cookies - Rezept nicht nur für Advents-Naschkatzen
+date: 2017-12-10T18:05:19.000Z
 slug: vegane-cranberry-walnuss-cookies
 path: /2017/12/vegane-cranberry-walnuss-cookies/
-fileName: 2017-12---vegane-cranberry-walnuss-cookies.md
+type: Artikel
+typeName: Rezept
+title: Vegane Cranberry-Walnuss-Cookies
+seoTitle: Vegane Cranberry-Walnuss-Cookies - Rezept nicht nur für Advents-Naschkatzen
+ogTitle: Vegane Cranberry-Walnuss-Cookies - Rezept nicht nur für Advents-Naschkatzen
 description: Es weihnachtet sehr! Die Deko steht, die Heizung bollert und die
   ersten Geschenke stehen auch schon. Zeit, ein paar Cranberry-Walnuss-Cookies
   zu backen.
 excerpt: Es weihnachtet sehr! Die Deko steht, die Heizung bollert und die ersten
   Geschenke sind auch schon verpackt. Zeit, ein paar köstliche
   Cranberry-Walnuss-Cookies zu backen.
-focusKeyword: Vegane Cranberry-Walnuss-Cookies - Rezept nicht nur für Advents-Naschkatzen
+fileName: 2017-12---vegane-cranberry-walnuss-cookies.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Kalender-3-von-3__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Kalender-3-von-3__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKhAAAgECBQMDBAMAAAAAAAAAAQIDBBEABQYSIRQxQSJxgRMWUWEXI3L/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EAB4RAAICAgMBAQAAAAAAAAAAAAIDAAEEERIhQVGB/9oADAMBAAIRAxEAPwCLN8oqa/LoF07Xtlz7GnSaT+wzWFthYc/jgcg+MMGi46yhoojnVbT1kjrujiamtOQe4IIBNiCAdvzi6/jihWbdl+Z1tGjsGWJNrRqf8kc++KPLqSlpquSUVMq11VI0PVVUpdyFbhOOAODdVt+j5xFctiB7v3r7LCnBkbGv2Pz6doK+JmpXyurAJUqNqsD+Pf5wnaj0TE6ssKtTTWuI5QWVvnuPcXxnuVaqzdNZ1GVVEjilWreKWTYYkUeonaxAIJAuOefF8a3lWcyqsFHOyyQNJtAkk3tELGzKSd1zYXB47n94TbQ50DRrv2oe0MWNko96l5DXEILGxHbnnCHqjT9Sao1eTOHhWXqOm+qVKvcElb8HtwOMGDDmLFlaKTFtJRchiv8Acmotkw6SvnaKXd6qcFB55Ur3uLg3x2aay+qzDM6jM50nSRz6GnG03sVLdrgWNgLecGDBlYwCW6jG5JkOrn//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Kalender-3-von-3__l.jpg
 labels:
   - Advent
   - Cookies
@@ -24,17 +31,12 @@ labels:
   - Vegane Rezepte
   - Walnüsse
   - Weihnachten
-type: Artikel
-typeName: Rezept
-date: 2017-12-10T18:05:19.000Z
+focusKeyword: Vegane Cranberry-Walnuss-Cookies - Rezept nicht nur für Advents-Naschkatzen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "18642"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Kalender-3-von-3__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Kalender-3-von-3__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKhAAAgECBQMDBAMAAAAAAAAAAQIDBBEABQYSIRQxQSJxgRMWUWEXI3L/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EAB4RAAICAgMBAQAAAAAAAAAAAAIDAAEEERIhQVGB/9oADAMBAAIRAxEAPwCLN8oqa/LoF07Xtlz7GnSaT+wzWFthYc/jgcg+MMGi46yhoojnVbT1kjrujiamtOQe4IIBNiCAdvzi6/jihWbdl+Z1tGjsGWJNrRqf8kc++KPLqSlpquSUVMq11VI0PVVUpdyFbhOOAODdVt+j5xFctiB7v3r7LCnBkbGv2Pz6doK+JmpXyurAJUqNqsD+Pf5wnaj0TE6ssKtTTWuI5QWVvnuPcXxnuVaqzdNZ1GVVEjilWreKWTYYkUeonaxAIJAuOefF8a3lWcyqsFHOyyQNJtAkk3tELGzKSd1zYXB47n94TbQ50DRrv2oe0MWNko96l5DXEILGxHbnnCHqjT9Sao1eTOHhWXqOm+qVKvcElb8HtwOMGDDmLFlaKTFtJRchiv8Acmotkw6SvnaKXd6qcFB55Ur3uLg3x2aay+qzDM6jM50nSRz6GnG03sVLdrgWNgLecGDBlYwCW6jG5JkOrn//2Q==
 subTitle: Rezept nicht nur für Advents-Naschkatzen
   
 ---

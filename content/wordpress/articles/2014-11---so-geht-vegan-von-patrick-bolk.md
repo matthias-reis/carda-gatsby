@@ -1,16 +1,23 @@
 ---
-title: '"So geht vegan" von Patrick Bolk'
-seoTitle: '"So geht vegan" von Patrick Bolk - ein Buch für Vegan-Einsteiger'
+date: 2014-11-13T11:15:43.000Z
 slug: so-geht-vegan-von-patrick-bolk
 path: /2014/11/so-geht-vegan-von-patrick-bolk/
-fileName: 2014-11---so-geht-vegan-von-patrick-bolk.md
+type: Artikel
+typeName: Rezension
+title: '"So geht vegan" von Patrick Bolk'
+seoTitle: '"So geht vegan" von Patrick Bolk - ein Buch für Vegan-Einsteiger'
+ogTitle: '"So geht vegan" von Patrick Bolk - ein Buch für Vegan-Einsteiger'
 description: Patrick Bolk berichtet in seinem Buch "So geht vegan" von seinen
   persönlichen Erfahrungen und erzählt u. a., wie es ihm gelang 25 Kilo
   abzunehmen.
 excerpt: Affiliate Link - Patrick Bolk berichtet in seinem Buch "So geht vegan"
   von seinen persönlichen Erfahrungen und erzählt u. a., wie es ihm gelang 25
   Kilo abzunehmen.
-focusKeyword: Patrick Bolk
+fileName: 2014-11---so-geht-vegan-von-patrick-bolk.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgL/xAAqEAABAwMEAQMDBQAAAAAAAAABAgMEAAURBhIhMVETIkEVYXEHFjKBof/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAAC/8QAHxEAAgICAQUAAAAAAAAAAAAAAQIAEgMhERMxMnGB/9oADAMBAAIRAxEAPwDrTGl25cSNIkOlKVp3bAjJx+c+PtWtu+l7b9CkrjsqDzTZdSVLKgSBnBHRFS6z60uqmlFtyHBt7Cyw0pMYvOrAO0YBOM8eKcXS/wB/Fj+pRr7JMUqDT0aTFaSlaVEA7SE88H4qPJmxg1Pr7KFVvKUhWmbYLay2iIkkNpTvUolR9o57qc6xsKLbG9eKVlIWErS4QeCD1x9vnzW+1Vchb9ORJra3SQ0oekmWWQohsEdfyIx1kfOM1Gl60lXZEmFOlPodLZWgKWhSVLTztIIyAfgg5rvqKGrNQlbSZWy6XK3DEOa42gknbgEf7TGfqeXc0x0z1PPqY63OkJVz4AoopoRebcbibHtNTqL9R7tIYFmjtR2GIboSHCn1FL2gj3BXtIOesf3Sr9yT5ZCXGoCdvZQxgkeM7uB+KKKAUHfG4SxGp//Z
+ogImage: null
 labels:
   - Bücher & Filme
   - Ernährung & Gesundheit
@@ -21,17 +28,12 @@ labels:
   - vegane Bücher
   - vegane Kochbücher
   - vegane Rezepte
-type: Artikel
-typeName: Rezension
-date: 2014-11-13T11:15:43.000Z
+focusKeyword: Patrick Bolk
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "24390"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgL/xAAqEAABAwMEAQMDBQAAAAAAAAABAgMEAAURBhIhMVETIkEVYXEHFjKBof/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAAC/8QAHxEAAgICAQUAAAAAAAAAAAAAAQIAEgMhERMxMnGB/9oADAMBAAIRAxEAPwDrTGl25cSNIkOlKVp3bAjJx+c+PtWtu+l7b9CkrjsqDzTZdSVLKgSBnBHRFS6z60uqmlFtyHBt7Cyw0pMYvOrAO0YBOM8eKcXS/wB/Fj+pRr7JMUqDT0aTFaSlaVEA7SE88H4qPJmxg1Pr7KFVvKUhWmbYLay2iIkkNpTvUolR9o57qc6xsKLbG9eKVlIWErS4QeCD1x9vnzW+1Vchb9ORJra3SQ0oekmWWQohsEdfyIx1kfOM1Gl60lXZEmFOlPodLZWgKWhSVLTztIIyAfgg5rvqKGrNQlbSZWy6XK3DEOa42gknbgEf7TGfqeXc0x0z1PPqY63OkJVz4AoopoRebcbibHtNTqL9R7tIYFmjtR2GIboSHCn1FL2gj3BXtIOesf3Sr9yT5ZCXGoCdvZQxgkeM7uB+KKKAUHfG4SxGp//Z
 subTitle: Ein Buch für Vegan-Einsteiger
   
 ---

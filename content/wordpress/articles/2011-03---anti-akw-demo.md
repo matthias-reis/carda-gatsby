@@ -1,14 +1,21 @@
 ---
-title: Anti AKW Demo
-seoTitle: Anti AKW Demo in München - Atomkraft, nein Danke!
+date: 2011-03-27T08:52:46.000Z
 slug: anti-akw-demo-26-03-2011-munchen
 path: /2011/03/anti-akw-demo-26-03-2011-munchen/
-fileName: 2011-03---anti-akw-demo.md
+type: Artikel
+typeName: Artikel
+title: Anti AKW Demo
+seoTitle: Anti AKW Demo in München - Atomkraft, nein Danke!
+ogTitle: Anti AKW Demo in München - Atomkraft, nein Danke!
 description: Insgesamt 250.000 Menschen gingen gestern in Berlin, Hamburg, Köln
   und München auf die Straße - ich war auf der Anti AKW Demo in München.
 excerpt: Insgesamt 250.000 Menschen gingen gestern in Berlin, Hamburg, Köln und
   München auf die Straße - ich war auf der Anti AKW Demo in München.
-focusKeyword: AKW
+fileName: 2011-03---anti-akw-demo.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_03_p7270040__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_03_p7270040__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAqEAACAgEDAwMCBwAAAAAAAAABAgMEEQAFIRIiMRNBYQZRFCZScaHB4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMFAAIE/8QAIhEAAQMDBAMBAAAAAAAAAAAAAQACEQMSITFBYfAEE7HB/9oADAMBAAIRAxEAPwBF2iYXrliN4a8qxFlbMHQVKnHB9+dOVSHaa9SvItGA2OgGwFkmLK2e5QF44GNJX0/QlpbrdtCSCX8V1BUWcZGX6v8ANVWH1W2iqpYxMY8dIbPPn29xoNFrbyI2V3lxaI1lZMFuvWaMxUEMbN0yLFtshJwOSS/gdwwfg6RfWDbZK6tbESsVIV43BP7448DOqcNwq0ooYrd1OuxKyRs7E9Xxn+/GpFum/VqkctZJIVjZjyzdzH45+NGqM9hAByNe/FKTHCZGF01rf5gqQVIKdKaN/WdoE6cDhApLH9RJ7f5002N+vxzwRQXakaEs6CVA5lIBYoWJ7T9jo0aS3Gl5EMxt+rTAtzssn6m3eve2unWumGWtLKRKka5KA92cqMr7ZweQdS+5ttf1cV60jN564mcqcj5Gfvo0ad0Wwy85M97wEAklxHC//9k=
+ogImage: null
 labels:
   - AKW
   - alternative Energien
@@ -76,17 +83,12 @@ labels:
   - verstrahlt
   - Xenon
   - Xenon 133
-type: Artikel
-typeName: Artikel
-date: 2011-03-27T08:52:46.000Z
+focusKeyword: AKW
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "853"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_03_p7270040__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_03_p7270040__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAqEAACAgEDAwMCBwAAAAAAAAABAgMEEQAFIRIiMRNBYQZRFCZScaHB4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMFAAIE/8QAIhEAAQMDBAMBAAAAAAAAAAAAAQACEQMSITFBYfAEE7HB/9oADAMBAAIRAxEAPwBF2iYXrliN4a8qxFlbMHQVKnHB9+dOVSHaa9SvItGA2OgGwFkmLK2e5QF44GNJX0/QlpbrdtCSCX8V1BUWcZGX6v8ANVWH1W2iqpYxMY8dIbPPn29xoNFrbyI2V3lxaI1lZMFuvWaMxUEMbN0yLFtshJwOSS/gdwwfg6RfWDbZK6tbESsVIV43BP7448DOqcNwq0ooYrd1OuxKyRs7E9Xxn+/GpFum/VqkctZJIVjZjyzdzH45+NGqM9hAByNe/FKTHCZGF01rf5gqQVIKdKaN/WdoE6cDhApLH9RJ7f5002N+vxzwRQXakaEs6CVA5lIBYoWJ7T9jo0aS3Gl5EMxt+rTAtzssn6m3eve2unWumGWtLKRKka5KA92cqMr7ZweQdS+5ttf1cV60jN564mcqcj5Gfvo0ad0Wwy85M97wEAklxHC//9k=
 subTitle: 26.03.2011 München
   
 ---

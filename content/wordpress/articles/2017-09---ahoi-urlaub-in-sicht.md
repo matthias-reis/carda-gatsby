@@ -1,15 +1,22 @@
 ---
-title: Ahoi! Urlaub in Sicht!
-seoTitle: Ahoi! Urlaub in Sicht! Ich melde mich mal kurz ab...
+date: 2017-09-03T16:14:59.000Z
 slug: ahoi-urlaub-in-sicht
 path: /2017/09/ahoi-urlaub-in-sicht/
-fileName: 2017-09---ahoi-urlaub-in-sicht.md
+type: Artikel
+typeName: Artikel
+title: Ahoi! Urlaub in Sicht!
+seoTitle: Ahoi! Urlaub in Sicht! Ich melde mich mal kurz ab...
+ogTitle: Ahoi! Urlaub in Sicht! Ich melde mich mal kurz ab...
 description: ... komme aber bald wieder. Mit vielen Fotos und Geschichten im
   Gepäck. Versprochen! Um Euch die Wartezeit zu verkürzen, habe ich was Tolles
   für Euch!
 excerpt: ... komme aber bald wieder. Mit vielen Fotos und Geschichten im Gepäck.
   Versprochen! Um Euch die Wartezeit zu verkürzen, habe ich was Tolles für Euch!
-focusKeyword: Urlaub
+fileName: 2017-09---ahoi-urlaub-in-sicht.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBhMxIkFRgRQyQlJh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUC/8QAHREAAgMBAAMBAAAAAAAAAAAAAQIAAxESEzFR8P/aAAwDAQACEQMRAD8AQ9RPN1VWpW11L+G6jNRPSbGmk2gdvg8HBAJAHONQ2qnmTiy1EEMIiVGdTsWQlV3HGPcrn71U6fvk1e0XducqzUbrO0clGMl12hQpi9hz5HIJ1YVo7lViolmeN5wx7qFgnczk5P34IHt40vWN1AWtmThhn77GvZro0LVdTSTIo4BQlvgeoYPkj3+dXD1LdLPSiRLhI8arlo5QJ08A8bjuHn+2lDWdZKBp7dcKWvb9SKar3OzHjHbbBJ8j0k86yt7lkSF6ekd3lmk2ypIcbSFxjJJ/lxrDYx9RUXlRhnWLT0zaaCBiKKKV1JQswwWHwSPP3rOdS2W209RTzpRQlArN2myQx+Tk86NGp9bHyZKNqjiLZKS3Cl7cNqt0T1DoWkWmXcDkDzj/ADOtTeuj6SjsfdpZXinSHJYD0twSfTnHOjRprnZWXDApUMhJn//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1__l.jpg
 labels:
   - Blogger
   - Fernweh
@@ -18,17 +25,12 @@ labels:
   - Hamburg
   - Liebe
   - Urlaub
-type: Artikel
-typeName: Artikel
-date: 2017-09-03T16:14:59.000Z
+focusKeyword: Urlaub
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "17846"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBhMxIkFRgRQyQlJh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUC/8QAHREAAgMBAAMBAAAAAAAAAAAAAQIAAxESEzFR8P/aAAwDAQACEQMRAD8AQ9RPN1VWpW11L+G6jNRPSbGmk2gdvg8HBAJAHONQ2qnmTiy1EEMIiVGdTsWQlV3HGPcrn71U6fvk1e0XducqzUbrO0clGMl12hQpi9hz5HIJ1YVo7lViolmeN5wx7qFgnczk5P34IHt40vWN1AWtmThhn77GvZro0LVdTSTIo4BQlvgeoYPkj3+dXD1LdLPSiRLhI8arlo5QJ08A8bjuHn+2lDWdZKBp7dcKWvb9SKar3OzHjHbbBJ8j0k86yt7lkSF6ekd3lmk2ypIcbSFxjJJ/lxrDYx9RUXlRhnWLT0zaaCBiKKKV1JQswwWHwSPP3rOdS2W209RTzpRQlArN2myQx+Tk86NGp9bHyZKNqjiLZKS3Cl7cNqt0T1DoWkWmXcDkDzj/ADOtTeuj6SjsfdpZXinSHJYD0twSfTnHOjRprnZWXDApUMhJn//Z
 subTitle: Ich melde mich mal kurz ab...
   
 ---

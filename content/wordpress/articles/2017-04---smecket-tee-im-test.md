@@ -1,17 +1,25 @@
 ---
+date: 2017-04-14T13:45:27.000Z
+slug: smecket-tee
+path: /2017/04/smecket-tee/
+type: Artikel
+typeName: Produkttest
 title: Smecket Tee im Test
 seoTitle: Smecket Tee - Der ultimative Produkttest - Phantasievolle Heißgetränke
   für echte Genießer
-slug: smecket-tee
-path: /2017/04/smecket-tee/
-fileName: 2017-04---smecket-tee-im-test.md
+ogTitle: Smecket Tee - Der ultimative Produkttest - Phantasievolle Heißgetränke
+  für echte Genießer
 description: Vor Kurzem erreichte mich eine liebe E-Mail aus dem Hause Smecket
   Tee. Ob ich Lust hätte, ein paar Teesorten zu testen. Natürlich sagte ich
   nicht nein.
 excerpt: Werbung - Vor Kurzem erreichte mich eine liebe E-Mail aus dem Hause
   Smecket Tee. Ob ich Lust hätte, ein paar Teesorten zu testen. Natürlich sagte
   ich nicht nein.
-focusKeyword: Smecket
+fileName: 2017-04---smecket-tee-im-test.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33611000980_c93e03a3e0_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33611000980_c93e03a3e0_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EACgQAAEEAQMDBAIDAAAAAAAAAAECAwQRBQASIQYTQRQiMVEVYSMykf/EABgBAAMBAQAAAAAAAAAAAAAAAAACAwQF/8QAHBEBAAICAwEAAAAAAAAAAAAAAQACAxEhQWEx/9oADAMBAAIRAxEAPwDMZSe1hYSsQ5GkJtTT6UBwbQrkc83Z1cwevm1Z3Lxno8j0yoSUJRabCqsm787h/mnjHiZgpkvZd9p1TYZa7G3tLAJKVAqFr/sR4PjxpiD0F1IepZGVQ0+IbkUbpXcHztAKSCOTwOK/V6pVKnhEyKshs9ax8fL6aT6ZxDaZBS8FBKipJBB2k/Vg1+tJh9URfzOS2iUUSHHD2lL/AIyFWDdHj22ePOrjKdHx46IS8y/kF5dmQfSqYkNoGywLCFD3K5JoHxX3qnyPR2eUQuUWi0dy1KC0GjXBpAJ5vRW4m6vsNO+ZtzAx2BiuTIcFsSW20NoVwAmyLUE1W77NXXnWnEaGzTKYjKkvLX3N43biB8nRo1z5skHKZBcXKY6Ey016daHSpBQCCQE0f1VnXPszlpLvTzk6QrcgOra7KDsBKSACSPke74rxo0aph7r1FyfRn//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33611000980_c93e03a3e0_z__l.jpg
 labels:
   - Bio
   - Bio-Tee
@@ -30,17 +38,12 @@ labels:
   - vegan
   - vegane Ernährung
   - vegane Produkte
-type: Artikel
-typeName: Produkttest
-date: 2017-04-14T13:45:27.000Z
+focusKeyword: Smecket
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16373"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33611000980_c93e03a3e0_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33611000980_c93e03a3e0_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EACgQAAEEAQMDBAIDAAAAAAAAAAECAwQRBQASIQYTQRQiMVEVYSMykf/EABgBAAMBAQAAAAAAAAAAAAAAAAACAwQF/8QAHBEBAAICAwEAAAAAAAAAAAAAAQACAxEhQWEx/9oADAMBAAIRAxEAPwDMZSe1hYSsQ5GkJtTT6UBwbQrkc83Z1cwevm1Z3Lxno8j0yoSUJRabCqsm787h/mnjHiZgpkvZd9p1TYZa7G3tLAJKVAqFr/sR4PjxpiD0F1IepZGVQ0+IbkUbpXcHztAKSCOTwOK/V6pVKnhEyKshs9ax8fL6aT6ZxDaZBS8FBKipJBB2k/Vg1+tJh9URfzOS2iUUSHHD2lL/AIyFWDdHj22ePOrjKdHx46IS8y/kF5dmQfSqYkNoGywLCFD3K5JoHxX3qnyPR2eUQuUWi0dy1KC0GjXBpAJ5vRW4m6vsNO+ZtzAx2BiuTIcFsSW20NoVwAmyLUE1W77NXXnWnEaGzTKYjKkvLX3N43biB8nRo1z5skHKZBcXKY6Ey016daHSpBQCCQE0f1VnXPszlpLvTzk6QrcgOra7KDsBKSACSPke74rxo0aph7r1FyfRn//Z
 subTitle: Phantasievolle Heißgetränke
   
 ---

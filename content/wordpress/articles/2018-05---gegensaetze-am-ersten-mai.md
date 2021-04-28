@@ -1,14 +1,21 @@
 ---
-title: Gegensätze am ersten Mai
-seoTitle: Erster Mai - Gegensätze - Worte und Bilder - Dunkel und hell
+date: 2018-05-01T18:45:03.000Z
 slug: erster-mai-gegensaetze
 path: /2018/05/erster-mai-gegensaetze/
-fileName: 2018-05---gegensaetze-am-ersten-mai.md
+type: Galerie mit Bild
+typeName: Gedicht
+title: Gegensätze am ersten Mai
+seoTitle: Erster Mai - Gegensätze - Worte und Bilder - Dunkel und hell
+ogTitle: Erster Mai - Gegensätze - Worte und Bilder - Dunkel und hell
 description: Erster Mai - Ein Tag der Gegensätze. Konzerte und Bilder von Blumen
   und auf der anderen Seite? Brennende Barrikaden und wachsende Wut.
 excerpt: Erster Mai - Ein Tag der Gegensätze. Konzerte und Bilder von Blumen und
   auf der anderen Seite? Brennende Barrikaden und wachsende Wut.
-focusKeyword: Erster Mai
+fileName: 2018-05---gegensaetze-am-ersten-mai.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_41114444234_780a930e7d_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_41114444234_780a930e7d_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcC/8QAKRAAAQQBBAAFBAMAAAAAAAAAAQIDBBEFABIhMQYTIkFhFBUjoUJSsf/EABkBAAIDAQAAAAAAAAAAAAAAAAIEAAEDBf/EACQRAAICAQMCBwAAAAAAAAAAAAECABEDEiExBEFRobHB0fDx/9oADAMBAAIRAxEAPwBTw33eRIi41mSYqXJDaTHLpQEeYSjYV8mwFqF11zzrR5PhJazNmZ0w8Wtl1xX0aGVlBaR+MbaFBJIAvgq5Ioc6yzNYfHQXEssPyZWSISlDrcgOB9wFW1SAOht2gj+JSedNmGfzIxcWNm5U1Sw4lbYkgOAJCTsSngkdCu+aOuHaaWXKb8hxVfkvCgO98SlT4VxqmVR0ygpUhBKVCR5oIsewuiCKqtUufiN4yGllUda4in0l1AKUq8viwLuuK5rsD503SZ8WNvflNtsJUq3ENtKacAv1b7olN1RA751AzGQMvHiR5CnITqT6gEuAgH3I6rn5B0uuZ1IBGoE9z6SEhVCkXff778ypxE2NHyGSKG4sVC3FhkuP0CyFemiqzRFm7snnU5UpD647bIcU21RU6twhAo0raCdxAB/Xvo0aJ8as7MYCi4qZvxTHfyE+0yEwno6mWHAnspFBSfi6/Wu8fkXcdBaIptLrNuMbuCRxdf2v/a0aNPr0+NVCVt8bTbQNx4z/2Q==
+ogImage: null
 labels:
   - Blumen
   - Blüten
@@ -23,17 +30,12 @@ labels:
   - Loki Schmidt Garten
   - Maidemo
   - Tag der Arbeit
-type: Galerie mit Bild
-typeName: Gedicht
-date: 2018-05-01T18:45:03.000Z
+focusKeyword: Erster Mai
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "20672"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_41114444234_780a930e7d_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_41114444234_780a930e7d_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcC/8QAKRAAAQQBBAAFBAMAAAAAAAAAAQIDBBEFABIhMQYTIkFhFBUjoUJSsf/EABkBAAIDAQAAAAAAAAAAAAAAAAIEAAEDBf/EACQRAAICAQMCBwAAAAAAAAAAAAECABEDEiExBEFRobHB0fDx/9oADAMBAAIRAxEAPwBTw33eRIi41mSYqXJDaTHLpQEeYSjYV8mwFqF11zzrR5PhJazNmZ0w8Wtl1xX0aGVlBaR+MbaFBJIAvgq5Ioc6yzNYfHQXEssPyZWSISlDrcgOB9wFW1SAOht2gj+JSedNmGfzIxcWNm5U1Sw4lbYkgOAJCTsSngkdCu+aOuHaaWXKb8hxVfkvCgO98SlT4VxqmVR0ygpUhBKVCR5oIsewuiCKqtUufiN4yGllUda4in0l1AKUq8viwLuuK5rsD503SZ8WNvflNtsJUq3ENtKacAv1b7olN1RA751AzGQMvHiR5CnITqT6gEuAgH3I6rn5B0uuZ1IBGoE9z6SEhVCkXff778ypxE2NHyGSKG4sVC3FhkuP0CyFemiqzRFm7snnU5UpD647bIcU21RU6twhAo0raCdxAB/Xvo0aJ8as7MYCi4qZvxTHfyE+0yEwno6mWHAnspFBSfi6/Wu8fkXcdBaIptLrNuMbuCRxdf2v/a0aNPr0+NVCVt8bTbQNx4z/2Q==
 subTitle: Worte und Bilder
   
 ---

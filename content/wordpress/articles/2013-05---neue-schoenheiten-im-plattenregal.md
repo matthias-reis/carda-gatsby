@@ -1,16 +1,23 @@
 ---
-title: Neue Schönheiten im Plattenregal
-seoTitle: Neue Schönheiten im Plattenregal - Morgen ist Feiertag!
+date: 2013-05-08T15:54:10.000Z
 slug: neue-schonheiten-im-plattenregal
 path: /2013/05/neue-schonheiten-im-plattenregal/
-fileName: 2013-05---neue-schoenheiten-im-plattenregal.md
+type: Artikel
+typeName: Artikel
+title: Neue Schönheiten im Plattenregal
+seoTitle: Neue Schönheiten im Plattenregal - Morgen ist Feiertag!
+ogTitle: Neue Schönheiten im Plattenregal - Morgen ist Feiertag!
 description: Es ist eine Teillieferung, einige Platten sind noch nicht
   erschienen oder waren noch nicht greifbar und müssen noch auf den Einzug ins
   Plattenregal warten.
 excerpt: Es ist eine Teillieferung, einige Platten sind noch nicht erschienen
   oder waren noch nicht greifbar und müssen noch auf den Einzug ins Plattenregal
   warten.
-focusKeyword: Plattenregal
+fileName: 2013-05---neue-schoenheiten-im-plattenregal.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_4178__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_4178__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQECA//EAC0QAAEEAQMDAgMJAAAAAAAAAAECAwQRBQASIQYxQRNRByIyFCMlYXGBobHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABsRAAICAwEAAAAAAAAAAAAAAAABAgMRIjEh/9oADAMBAAIRAxEAPwBExExOK6GjLhtLQXEbQo2LUrur/a/TUjpNl5nIxW5U2axBUoKeeVvUraT2Tzxd1fi/Guj4Q5IVCafZixIrSUhYSSQT9KUpH1HgH386vul8RFmyi0J71qHyuSEbUtk9ipNX3B9v40leMZYZdG/PYhnJtxWsFipJa2ja6xJK3nV8DstXzNnkbrFV51W/ZnsTMk42S5UuMsBRW4ldkpCqJHFi/Gp6+p38CmbiunEw0CQB6jzbhcSihSg2aSSSVXQHFDuSdKOGyH43kIsoIDqkoX94orJNUTZ9+Dp7FqCPREm5SVjpypjIYXRNNuIJF1V8Ec1/etFfECdcl1iMy08tj0TRJTVk9v399GjWeEm0VaQ2xhMdxuHXJmBZlEMMoRHbQhCUp3Wsgb1q8Ahaa7/lrMfClrJDLJlu3tDfo7RtPayT3J0aNWseosV6f//Z
+ogImage: null
 labels:
   - Bands
   - Calexico
@@ -31,17 +38,12 @@ labels:
   - Record Store Day Germany
   - RSD
   - Schallplatten
-type: Artikel
-typeName: Artikel
-date: 2013-05-08T15:54:10.000Z
+focusKeyword: Plattenregal
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "5317"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_4178__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_4178__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQECA//EAC0QAAEEAQMDAgMJAAAAAAAAAAECAwQRBQASIQYxQRNRByIyFCMlYXGBobHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABsRAAICAwEAAAAAAAAAAAAAAAABAgMRIjEh/9oADAMBAAIRAxEAPwBExExOK6GjLhtLQXEbQo2LUrur/a/TUjpNl5nIxW5U2axBUoKeeVvUraT2Tzxd1fi/Guj4Q5IVCafZixIrSUhYSSQT9KUpH1HgH386vul8RFmyi0J71qHyuSEbUtk9ipNX3B9v40leMZYZdG/PYhnJtxWsFipJa2ja6xJK3nV8DstXzNnkbrFV51W/ZnsTMk42S5UuMsBRW4ldkpCqJHFi/Gp6+p38CmbiunEw0CQB6jzbhcSihSg2aSSSVXQHFDuSdKOGyH43kIsoIDqkoX94orJNUTZ9+Dp7FqCPREm5SVjpypjIYXRNNuIJF1V8Ec1/etFfECdcl1iMy08tj0TRJTVk9v399GjWeEm0VaQ2xhMdxuHXJmBZlEMMoRHbQhCUp3Wsgb1q8Ahaa7/lrMfClrJDLJlu3tDfo7RtPayT3J0aNWseosV6f//Z
 subTitle: Morgen ist Feiertag...
   
 ---

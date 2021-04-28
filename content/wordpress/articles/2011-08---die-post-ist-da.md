@@ -1,16 +1,23 @@
 ---
-title: Die Post ist da!
-seoTitle: Die Post ist da - Mixtape-Tausch Teil 2/2
+date: 2011-08-28T10:51:38.000Z
 slug: der-mixtape-tausch-2
 path: /2011/08/der-mixtape-tausch-2/
-fileName: 2011-08---die-post-ist-da.md
+type: Artikel
+typeName: Artikel
+title: Die Post ist da!
+seoTitle: Die Post ist da - Mixtape-Tausch Teil 2/2
+ogTitle: Die Post ist da - Mixtape-Tausch Teil 2/2
 description: Die meisten Bands kannte ich noch nicht, also eine wunderbare
   Möglichkeit für mich neue Musik kennen zu lernen und meinen musikalischen
   Horizont zu erweitern.
 excerpt: Die meisten Bands kannte ich noch nicht, also eine wunderbare
   Möglichkeit für mich neue Musik kennen zu lernen und meinen musikalischen
   Horizont zu erweitern.
-focusKeyword: Mixtape
+fileName: 2011-08---die-post-ist-da.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_10__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_10__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcI/8QAKBAAAgEEAAYCAQUAAAAAAAAAAQIDAAQFEQYSEyExURRBMiJhYnKB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQQAAgMF/8QAIBEAAgICAAcAAAAAAAAAAAAAAAECERIhAxMxQYGx8P/aAAwDAQACEQMRAD8A56sYYjDG8sYZXdkLnyp+qcuFstLhbqBldxZR87vGjlUJK6/Het+O9KmGZfikMGJ2SfXnt/tWE3UWC4WccnTXmBJ/JaXdt0dSCiuC97a+XmvaseMNnMxc4+O/kyIV764kgjhnVemESMyHRHffMVUD78VfcKXd9lseDHDE9xbGMPzMArhgWBBPg71sVRQ/GsLW1s52UXFphldFZOZutcSguw9Mqug99+1OfB+NxknClqoDoXZ5C6uqOdO4Gz/X37+qkpYoSUXJ0YRYTJbY6MCIM5DNzE/yIqCTIPcr0XRe/wCgN9gHtRRWmK6h5s6xvQ5ZbJXS3c8N2YpWmuflStGhjDERhEXWzpV1sCtxx9okcEUKFlSJFQaJ8Aa9/tRRQaKx7n//2Q==
+ogImage: null
 labels:
   - "2011"
   - Bands
@@ -55,17 +62,12 @@ labels:
   - Voxtrott
   - Walkman
   - Yo La Tengo
-type: Artikel
-typeName: Artikel
-date: 2011-08-28T10:51:38.000Z
+focusKeyword: Mixtape
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "2556"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_10__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_10__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcI/8QAKBAAAgEEAAYCAQUAAAAAAAAAAQIDAAQFEQYSEyExURRBMiJhYnKB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQQAAgMF/8QAIBEAAgICAAcAAAAAAAAAAAAAAAECERIhAxMxQYGx8P/aAAwDAQACEQMRAD8A56sYYjDG8sYZXdkLnyp+qcuFstLhbqBldxZR87vGjlUJK6/Het+O9KmGZfikMGJ2SfXnt/tWE3UWC4WccnTXmBJ/JaXdt0dSCiuC97a+XmvaseMNnMxc4+O/kyIV764kgjhnVemESMyHRHffMVUD78VfcKXd9lseDHDE9xbGMPzMArhgWBBPg71sVRQ/GsLW1s52UXFphldFZOZutcSguw9Mqug99+1OfB+NxknClqoDoXZ5C6uqOdO4Gz/X37+qkpYoSUXJ0YRYTJbY6MCIM5DNzE/yIqCTIPcr0XRe/wCgN9gHtRRWmK6h5s6xvQ5ZbJXS3c8N2YpWmuflStGhjDERhEXWzpV1sCtxx9okcEUKFlSJFQaJ8Aa9/tRRQaKx7n//2Q==
 subTitle: Der Mixtape-Tausch Teil 2/2
   
 ---

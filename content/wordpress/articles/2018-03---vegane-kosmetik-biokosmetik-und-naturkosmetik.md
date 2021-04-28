@@ -1,16 +1,23 @@
 ---
-title: Vegane Kosmetik, Biokosmetik und Naturkosmetik
-seoTitle: Vegane Kosmetik, Naturkosmetik und Biokosmetik - Die Unterschiede
+date: 2018-03-26T06:10:10.000Z
 slug: vegane-kosmetik-und-naturkosmetik
 path: /2018/03/vegane-kosmetik-und-naturkosmetik/
-fileName: 2018-03---vegane-kosmetik-biokosmetik-und-naturkosmetik.md
+type: Artikel
+typeName: Artikel
+title: Vegane Kosmetik, Biokosmetik und Naturkosmetik
+seoTitle: Vegane Kosmetik, Naturkosmetik und Biokosmetik - Die Unterschiede
+ogTitle: Vegane Kosmetik, Naturkosmetik und Biokosmetik - Die Unterschiede
 description: Vegane Kosmetik, Naturkosmetik, Biokosmetik, vegane Naturkosmetik,
   vegane Biokosmetik, vegane, herkömmliche Kosmetik. Was sind eigentlich die
   Unterschiede?
 excerpt: Vegane Kosmetik, Naturkosmetik, Biokosmetik, vegane Naturkosmetik,
   vegane Biokosmetik, vegane, herkömmliche Kosmetik. Was sind eigentlich die
   Unterschiede?
-focusKeyword: Vegane Kosmetik
+fileName: 2018-03---vegane-kosmetik-biokosmetik-und-naturkosmetik.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_vase-3242871_640__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_vase-3242871_640__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgX/xAAqEAACAQMEAgAEBwAAAAAAAAABAgMEBREABhIhMUETFFFxBwgWIjJCkf/EABcBAAMBAAAAAAAAAAAAAAAAAAIEBQD/xAAoEQACAQIEAwkAAAAAAAAAAAABAgMABBEhMVEicYEFEiMzYrHB0vD/2gAMAwEAAhEDEQA/ALnHZoaW7iar5JMapJqeQnnGzEhTgkZVsE4UnA8j3pXd2w7dui6xR36or6iEyNJHGs3BUQpgxjA6BKjwcnv767u6qqoTbNy+QkCXAUsklP8AtDHmq5BwfPeNT22fiTVVlxnmnpKeSKKhttZEschDMJ+YZj9mJAGPppa3t17PQtBwganPHrvrWklI42NUy+VdPaLcaqRQEgQiNFA5ZxgBR9fQ0pZVpZLNG1DTS08LZYpKhVyx8s2eySffvSsu4KSS/VkM8To1sdE58eWfiBvAHf8AUf5pOigtke5rjXR1Xx7g8aoWlnyyjkegnrriPHrRRyrJIe6Rll+20I6UbIVGDZVgPzJI/wCjrFcYJXgq6O6K0csbFWHKNsgMCCP4jU721umqq33Kt+jjua0tI3GVgI52WKrCohlUZIAY4znHWjRo7nyX5GlJj4Z5fFU2/wBJPa7pcJYa2Zo67LlG7KsmeLcvJ8n6daw2160X3e2+2q1kh+YSOPFO4UIp5Agcg2B0Do0anW6Kt1IB6fdqrhiY3J2+tf/Z
+ogImage: null
 labels:
   - Biokosmetik
   - COSMOS
@@ -21,17 +28,12 @@ labels:
   - Naturkosmetik
   - vegan beauty
   - vegane Kosmetik
-type: Artikel
-typeName: Artikel
-date: 2018-03-26T06:10:10.000Z
+focusKeyword: Vegane Kosmetik
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "20261"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_vase-3242871_640__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_vase-3242871_640__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgX/xAAqEAACAQMEAgAEBwAAAAAAAAABAgMEBREABhIhMUETFFFxBwgWIjJCkf/EABcBAAMBAAAAAAAAAAAAAAAAAAIEBQD/xAAoEQACAQIEAwkAAAAAAAAAAAABAgMABBEhMVEicYEFEiMzYrHB0vD/2gAMAwEAAhEDEQA/ALnHZoaW7iar5JMapJqeQnnGzEhTgkZVsE4UnA8j3pXd2w7dui6xR36or6iEyNJHGs3BUQpgxjA6BKjwcnv767u6qqoTbNy+QkCXAUsklP8AtDHmq5BwfPeNT22fiTVVlxnmnpKeSKKhttZEschDMJ+YZj9mJAGPppa3t17PQtBwganPHrvrWklI42NUy+VdPaLcaqRQEgQiNFA5ZxgBR9fQ0pZVpZLNG1DTS08LZYpKhVyx8s2eySffvSsu4KSS/VkM8To1sdE58eWfiBvAHf8AUf5pOigtke5rjXR1Xx7g8aoWlnyyjkegnrriPHrRRyrJIe6Rll+20I6UbIVGDZVgPzJI/wCjrFcYJXgq6O6K0csbFWHKNsgMCCP4jU721umqq33Kt+jjua0tI3GVgI52WKrCohlUZIAY4znHWjRo7nyX5GlJj4Z5fFU2/wBJPa7pcJYa2Zo67LlG7KsmeLcvJ8n6daw2160X3e2+2q1kh+YSOPFO4UIp5Agcg2B0Do0anW6Kt1IB6fdqrhiY3J2+tf/Z
 subTitle: Die Unterschiede
   
 ---

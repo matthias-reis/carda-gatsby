@@ -1,15 +1,22 @@
 ---
-title: Vitamin B12 - Mythos und Wahrheit
-seoTitle: Vitamin B12 - Mythos und Wahrheit - das müssen Veganer beachten
+date: 2014-08-26T10:58:00.000Z
 slug: vitamin-b12-mythos-und-wahrheit
 path: /2014/08/vitamin-b12-mythos-und-wahrheit/
-fileName: 2014-08---vitamin-b12-mythos-und-wahrheit.md
+type: Artikel
+typeName: Artikel
+title: Vitamin B12 - Mythos und Wahrheit
+seoTitle: Vitamin B12 - Mythos und Wahrheit - das müssen Veganer beachten
+ogTitle: Vitamin B12 - Mythos und Wahrheit - das müssen Veganer beachten
 description: Die DGE (Deutsche Gesellschaft für Ernährung) empfiehlt 3 µg
   (schwangere Frauen 4 µg) Vitamin B12 pro Tag zu supplementieren.
 excerpt: Die DGE (Deutsche Gesellschaft für Ernährung) empfiehlt 3 µg
   (schwangere Frauen 4 µg) Vitamin B12 pro Tag zu supplementieren. Das gilt für
   Veganer⋆innen genau, wie für alle anderen.
-focusKeyword: Vitamin B12
+fileName: 2014-08---vitamin-b12-mythos-und-wahrheit.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_14598683580_0f1b452d5a_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_14598683580_0f1b452d5a_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcBAv/EACkQAAIBAwMCBgIDAAAAAAAAAAECAwQFEQASIQZBBxMiIzFRFHEyQ2H/xAAXAQADAQAAAAAAAAAAAAAAAAACAwUE/8QAJhEAAQIDCAIDAAAAAAAAAAAAAQIDAAQRBRIhMUFRcaEi0bHB4f/aAAwDAQACEQMRAD8Ah+HtLW3+vqFoVoKhaeMuYauYrLKr4BUeWcqVwTuHcjP1pvWKx2SVZUtLvdo5Vmfz6vzDTSRtuTZKADgjOUKgkYJ/2JaqehhFLRdN9MLeblsZpLzdlMEKopOXRcghOCNx25x30oeItxqaK4VFS1TA9NOQY6mnRjEz7Rkck44A7kY786mTSFtS95gC/XPOg4i3ISTaG1KfSCdMejQ4fMaSKi39aSSWuppqS0SVsz1E1aoE7SHbnZGWA2/eDkfXOsT626Zp7FfZ6e9VE2XCyM0LpI8O/wDikpGdrEDIXj5Bzg6aOir6am4U86lm/Gk8+YxxgqoA+QMjI555/erjxJtlNd7Qaqz3W3000ODV00MX4ksqj+yWN5PWU7MikkE88DSZRDrzBcdHkDxUYaQq0ZJCUh1oU3ANacda5x76g6mqyEtsFt9iWQPUu7lTXbT7cTEc7PUGxwT9DVxeLJB1BMIbrK6T09Oq+ygSOPLHaiL8BQRkj9ZOjRqlZqyUBJy/D6h9muEm6d/o+hHfD6KClFyhpxtnhuDUxqGI9TrGmB+m9aEd8jvpB8Q6yB+pJqi1W6uCugFXBJJhaWRW2ttQEgghQe3Iz8gjRo0E85dQlIGEZLXdJSkU2j//2Q==
+ogImage: null
 labels:
   - 10 Fakten über Veganismus
   - Algen
@@ -44,17 +51,12 @@ labels:
   - Vitamin B12
   - Vitamin-Präparate
   - Vitamine
-type: Artikel
-typeName: Artikel
-date: 2014-08-26T10:58:00.000Z
+focusKeyword: Vitamin B12
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "20268"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_14598683580_0f1b452d5a_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_14598683580_0f1b452d5a_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcBAv/EACkQAAIBAwMCBgIDAAAAAAAAAAECAwQFEQASIQZBBxMiIzFRFHEyQ2H/xAAXAQADAQAAAAAAAAAAAAAAAAACAwUE/8QAJhEAAQIDCAIDAAAAAAAAAAAAAQIDAAQRBRIhMUFRcaEi0bHB4f/aAAwDAQACEQMRAD8Ah+HtLW3+vqFoVoKhaeMuYauYrLKr4BUeWcqVwTuHcjP1pvWKx2SVZUtLvdo5Vmfz6vzDTSRtuTZKADgjOUKgkYJ/2JaqehhFLRdN9MLeblsZpLzdlMEKopOXRcghOCNx25x30oeItxqaK4VFS1TA9NOQY6mnRjEz7Rkck44A7kY786mTSFtS95gC/XPOg4i3ISTaG1KfSCdMejQ4fMaSKi39aSSWuppqS0SVsz1E1aoE7SHbnZGWA2/eDkfXOsT626Zp7FfZ6e9VE2XCyM0LpI8O/wDikpGdrEDIXj5Bzg6aOir6am4U86lm/Gk8+YxxgqoA+QMjI555/erjxJtlNd7Qaqz3W3000ODV00MX4ksqj+yWN5PWU7MikkE88DSZRDrzBcdHkDxUYaQq0ZJCUh1oU3ANacda5x76g6mqyEtsFt9iWQPUu7lTXbT7cTEc7PUGxwT9DVxeLJB1BMIbrK6T09Oq+ygSOPLHaiL8BQRkj9ZOjRqlZqyUBJy/D6h9muEm6d/o+hHfD6KClFyhpxtnhuDUxqGI9TrGmB+m9aEd8jvpB8Q6yB+pJqi1W6uCugFXBJJhaWRW2ttQEgghQe3Iz8gjRo0E85dQlIGEZLXdJSkU2j//2Q==
 subTitle: 10 Fakten über Veganismus- Teil IV
   
 ---

@@ -1,30 +1,32 @@
 ---
-title: Ilmmünster bei Pfaffenhofen an der Ilm
-seoTitle: Ilmmünster bei Pfaffenhofen an der Ilm - Hier ist die Welt noch in Ordnung
+date: 2009-07-24T07:35:02.000Z
 slug: ilmmuenster-bei-pfaffenhofen-an-der-ilm
 path: /2009/07/ilmmuenster-bei-pfaffenhofen-an-der-ilm/
-fileName: 2009-07---ilmmuenster-bei-pfaffenhofen-an-der-ilm.md
+type: Artikel
+typeName: Artikel
+title: Ilmmünster bei Pfaffenhofen an der Ilm
+seoTitle: Ilmmünster bei Pfaffenhofen an der Ilm - Hier ist die Welt noch in Ordnung
+ogTitle: Ilmmünster bei Pfaffenhofen an der Ilm - Hier ist die Welt noch in Ordnung
 description: Die Gemeinde Ilmmünster liegt im Landkreis Pfaffenhofen an der Ilm
   und gehörte zum im 8. Jahrhundert gegründeten Stift Ilmmünster...
 excerpt: Die Gemeinde Ilmmünster liegt im Landkreis Pfaffenhofen an der Ilm und
   gehörte zum im 8. Jahrhundert gegründeten *Stift Ilmmünster.
-focusKeyword: Ilmmünster
+fileName: 2009-07---ilmmuenster-bei-pfaffenhofen-an-der-ilm.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_07_11531171596_d14f68378a_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_07_11531171596_d14f68378a_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQgG/8QAKBAAAgEDBAEDBQEBAAAAAAAAAQIDBAURAAYSIRMHFDEiMkFRYSNx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwUBAgT/xAAcEQABBQEBAQAAAAAAAAAAAAABAAIDESESIpH/2gAMAwEAAhEDEQA/AFZvm6VN43TLcKqrjrLpMV81RGecBYNhFQfhQoAwO/uz31pj+kfqZc9s7so9s1kVPUWuer9s6UmXWBmOFZOgcljlj3y+QM9lYLarpu3zVlmhqqulaUwp/qgKtjKjiWyp+T1gHPwNXu1rNvLatZNe4rUkD8xSLVXGDyLA/wBIMi5OGIbAH3YI/h1eQsLeSRaEM1bRoLh72WoRYXURScAfwRj51Y4wNJ7069QLem7xtGeSvWuCGPz1zq3uXVeXIMDnkwJbsY6I6wBprzXKjiGZKunUf2QaVReG3IdWp43FgPbF6uNihNNaahYYmfyESQpJ9RGM9j9anvfr3JUXad7iWluaosxaMcU4MGVo1BAUjBH/AAnRo0weB1dalJkcMBXSWH1Nv9rpYaREt81UvS1k1PykDYwG+cE6qd7b+3ld6eSnud+8lHIvFqeGljhUqPwSo5HOP3o0aiONgddD4iiV5FEr/9k=
+ogImage: null
 labels:
   - Ausflug
   - Bayern
   - Ilmmünster
   - Reiseführer Bayern
-type: Artikel
-typeName: Artikel
-date: 2009-07-24T07:35:02.000Z
+focusKeyword: Ilmmünster
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11399"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_07_11531171596_d14f68378a_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_07_11531171596_d14f68378a_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQgG/8QAKBAAAgEDBAEDBQEBAAAAAAAAAQIDBAURAAYSIRMHFDEiMkFRYSNx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwUBAgT/xAAcEQABBQEBAQAAAAAAAAAAAAABAAIDESESIpH/2gAMAwEAAhEDEQA/AFZvm6VN43TLcKqrjrLpMV81RGecBYNhFQfhQoAwO/uz31pj+kfqZc9s7so9s1kVPUWuer9s6UmXWBmOFZOgcljlj3y+QM9lYLarpu3zVlmhqqulaUwp/qgKtjKjiWyp+T1gHPwNXu1rNvLatZNe4rUkD8xSLVXGDyLA/wBIMi5OGIbAH3YI/h1eQsLeSRaEM1bRoLh72WoRYXURScAfwRj51Y4wNJ7069QLem7xtGeSvWuCGPz1zq3uXVeXIMDnkwJbsY6I6wBprzXKjiGZKunUf2QaVReG3IdWp43FgPbF6uNihNNaahYYmfyESQpJ9RGM9j9anvfr3JUXad7iWluaosxaMcU4MGVo1BAUjBH/AAnRo0weB1dalJkcMBXSWH1Nv9rpYaREt81UvS1k1PykDYwG+cE6qd7b+3ld6eSnud+8lHIvFqeGljhUqPwSo5HOP3o0aiONgddD4iiV5FEr/9k=
 subTitle: Hier ist die Welt noch in Ordnung
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: Karnivool live @Strøm München 27. Oktober 2013
-seoTitle: Karnivool live in München - Hipsterclans und Türsteher
+date: 2013-10-30T17:04:45.000Z
 slug: karnivool-muenchen
 path: /2013/10/karnivool-muenchen/
-fileName: 2013-10---karnivool-live-stroem-muenchen-27-oktober-2013.md
+type: Artikel
+typeName: Konzertbericht
+title: Karnivool live @Strøm München 27. Oktober 2013
+seoTitle: Karnivool live in München - Hipsterclans und Türsteher
+ogTitle: Karnivool live in München - Hipsterclans und Türsteher
 description: Karnivool spielten live in München und wir waren dabei. Seit 15
   Jahren gehe ich jetzt mit meiner Kamera auf Konzerte, doch dieses Mal war
   alles anders.
 excerpt: Karnivool spielten live in München und wir waren dabei. Seit 15 Jahren
   gehe ich jetzt mit meiner Kamera auf Konzerte, doch dieses Mal war alles
   anders.
-focusKeyword: Karnivool
+fileName: 2013-10---karnivool-live-stroem-muenchen-27-oktober-2013.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_10_img_7968__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_10_img_7968__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBAMGCP/EACYQAAIBAwMDBAMAAAAAAAAAAAECAwAEEQUhQQYSMRMiI2EUodH/xAAZAQABBQAAAAAAAAAAAAAAAAABAAMEBQb/xAAiEQABAwQBBQEAAAAAAAAAAAABAAIRAwQTIRIiQlFxwfD/2gAMAwEAAhEDEQA/AOdbTSruWKB7SVZTKHLRoTmMKcZbIxvxgmsdzbXiF+53IjHc3uxir3SmrrY3DGc+wrvtxmnlve6FqralLfRahClvhop7Yoyb7AyIykkZx4I2NLI7JBHT+haRtrZOsG1W1DkPbPgbP3fobWm3DMYk7x3MowSTvjgfuirDxRv6vzKpXdQVI7v5RTsmASqqtRJMhLpnZ1OTzmm3RX4C9R2zavazXdgqyerFCXDH42CnKAkYYqfB+9qSt4qQWQ5Qlcjg0HCRChlx5clf18Rx6pPFb5ESkBdycjyNzvz9UUvxnzRRa2BCD3F5lf/Z
+ogImage: null
 labels:
   - Geschichten & Erlebtes
   - Hipster
@@ -25,17 +32,12 @@ labels:
   - Konzerte
   - Musik
   - Türsteher
-type: Artikel
-typeName: Konzertbericht
-date: 2013-10-30T17:04:45.000Z
+focusKeyword: Karnivool
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "7547"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_10_img_7968__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_10_img_7968__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBAMGCP/EACYQAAIBAwMDBAMAAAAAAAAAAAECAwAEEQUhQQYSMRMiI2EUodH/xAAZAQABBQAAAAAAAAAAAAAAAAABAAMEBQb/xAAiEQABAwQBBQEAAAAAAAAAAAABAAIRAwQTIRIiQlFxwfD/2gAMAwEAAhEDEQA/AOdbTSruWKB7SVZTKHLRoTmMKcZbIxvxgmsdzbXiF+53IjHc3uxir3SmrrY3DGc+wrvtxmnlve6FqralLfRahClvhop7Yoyb7AyIykkZx4I2NLI7JBHT+haRtrZOsG1W1DkPbPgbP3fobWm3DMYk7x3MowSTvjgfuirDxRv6vzKpXdQVI7v5RTsmASqqtRJMhLpnZ1OTzmm3RX4C9R2zavazXdgqyerFCXDH42CnKAkYYqfB+9qSt4qQWQ5Qlcjg0HCRChlx5clf18Rx6pPFb5ESkBdycjyNzvz9UUvxnzRRa2BCD3F5lf/Z
 subTitle: Diesmal ohne Nahaufnahmen
   
 ---

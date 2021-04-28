@@ -1,16 +1,23 @@
 ---
-title: Tivoli in Kopenhagen
-seoTitle: Tivoli in Kopenhagen - Zuckerstangenbunte Wunderwelt
+date: 2018-07-16T07:39:04.000Z
 slug: tivoli-in-kopenhagen
 path: /2018/07/tivoli-in-kopenhagen/
-fileName: 2018-07---tivoli-in-kopenhagen.md
+type: Galerie mit Bild
+typeName: Galerie mit Bild
+title: Tivoli in Kopenhagen
+seoTitle: Tivoli in Kopenhagen - Zuckerstangenbunte Wunderwelt
+ogTitle: Tivoli in Kopenhagen - Zuckerstangenbunte Wunderwelt
 description: Reist man durch Dänemark, sollte man auch dem weltberühmten
   Vergnügungspark Tivoli in Kopenhagen einen Besuch abstatten. Es lohnt sich auf
   jeden Fall.
 excerpt: Reist man durch Dänemark, sollte man auch dem weltberühmten
   Vergnügungspark Tivoli in Kopenhagen einen Besuch abstatten. Es lohnt sich auf
   jeden Fall.
-focusKeyword: Tivoli
+fileName: 2018-07---tivoli-in-kopenhagen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_43441275891_ac5acdb3cf_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_43441275891_ac5acdb3cf_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAApEAACAgEDAwMDBQAAAAAAAAABAgMEBQARIQYSQRMiMQcUUSNhgZGh/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIAA//EAB8RAAEEAgMBAQAAAAAAAAAAAAEAAgQRITEDFEESUf/aAAwDAQACEQMRAD8Aj/0+metma8U8Ru4maXeSoO0iQkcEK3HcDtt/XnXUeJ6XE9Swn3NShho4PcWjREBOxKsvG3B53+NQ3oToi3jspjL2VrpYwtqbs9URLOgXYfqkAgqu5PncHwdNuezRiMkmaYVapHdDXryMAwHtHuJ4U7D86zJJisP1vzC5sjGQ/GlidY9O0xiruZy+SMnpSmGtHVZJA8YA7UVhwNgTv5G2kqj0tAfVlyqpXgifuheViCyMp7SAOCvn/NM1l6fWNmvjMb6VZm5ke1OzOF33JRT5Hzx8jWhnKVaLoG5jK0Nh7yqjEKqlS24K7efJ9vhgTqI3O3keSRoXX6rkRn8etXtLvSfXl3ExS0YL1F68ob1IQruSNtztsODweR/O+tPpDJ4mx1hBLnmaWhXglmgRiWSN/YFZu74G5bjbYE6NGjDD2nacTbHeKg/UUV6+GXISUF+5pWYZIrQXZo1LhGBYbboQ3I1Herctep3ZI47Nit2SdshgZYVclQ4PB/dvz8aNGlTwOw2sYRYLj13Xmiv/2Q==
+ogImage: null
 labels:
   - Dänemark
   - Fernweh
@@ -20,17 +27,12 @@ labels:
   - Skandinavien
   - Tivoli
   - Vergnügungspark
-type: Galerie mit Bild
-typeName: Galerie mit Bild
-date: 2018-07-16T07:39:04.000Z
+focusKeyword: Tivoli
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "21364"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_43441275891_ac5acdb3cf_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_43441275891_ac5acdb3cf_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAApEAACAgEDAwMDBQAAAAAAAAABAgMEBQARIQYSQRMiMQcUUSNhgZGh/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIAA//EAB8RAAEEAgMBAQAAAAAAAAAAAAEAAgQRITEDFEESUf/aAAwDAQACEQMRAD8Aj/0+metma8U8Ru4maXeSoO0iQkcEK3HcDtt/XnXUeJ6XE9Swn3NShho4PcWjREBOxKsvG3B53+NQ3oToi3jspjL2VrpYwtqbs9URLOgXYfqkAgqu5PncHwdNuezRiMkmaYVapHdDXryMAwHtHuJ4U7D86zJJisP1vzC5sjGQ/GlidY9O0xiruZy+SMnpSmGtHVZJA8YA7UVhwNgTv5G2kqj0tAfVlyqpXgifuheViCyMp7SAOCvn/NM1l6fWNmvjMb6VZm5ke1OzOF33JRT5Hzx8jWhnKVaLoG5jK0Nh7yqjEKqlS24K7efJ9vhgTqI3O3keSRoXX6rkRn8etXtLvSfXl3ExS0YL1F68ob1IQruSNtztsODweR/O+tPpDJ4mx1hBLnmaWhXglmgRiWSN/YFZu74G5bjbYE6NGjDD2nacTbHeKg/UUV6+GXISUF+5pWYZIrQXZo1LhGBYbboQ3I1Herctep3ZI47Nit2SdshgZYVclQ4PB/dvz8aNGlTwOw2sYRYLj13Xmiv/2Q==
 subTitle: Zuckerstangenbunte Wunderwelt
   
 ---

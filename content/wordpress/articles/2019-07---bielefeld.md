@@ -1,30 +1,32 @@
 ---
-title: Bielefeld
-seoTitle: Bielefeld - eine kreative Stadt im Teutoburger Wald
+date: 2019-07-24T10:33:45.000Z
 slug: bielefeld
 path: /2019/07/bielefeld/
-fileName: 2019-07---bielefeld.md
+type: Artikel
+typeName: Artikel
+title: Bielefeld
+seoTitle: Bielefeld - eine kreative Stadt im Teutoburger Wald
+ogTitle: Bielefeld - eine kreative Stadt im Teutoburger Wald
 description: Bielefeld ist schön - das lest Ihr bei mir immer wieder. Heute
   möchte ich der Stadt im Teutoburger Wald einen eigenen Artikel widmen.
 excerpt: Bielefeld ist schön - das lest Ihr bei mir immer wieder. Heute möchte
   ich der Stadt im Teutoburger Wald einen eigenen Artikel widmen.
-focusKeyword: Bielefeld
+fileName: 2019-07---bielefeld.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-19-bielefeld-10__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-19-bielefeld-10__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAJhAAAgIBAwQCAgMAAAAAAAAAAQIDBBEABSEGEjFBIlETFDKB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAIFBP/EACIRAAEDBAICAwAAAAAAAAAAAAECAxEABAUhUaETQTFxkf/aAAwDAQACEQMRAD8AzyltyRws7g9nk4GnVPa671zOXKR57VJIQs318uMffOpd0hlp16JjbFaVZGdh2/IhQUwT/Z403gsbfL0+tXcqiu8I+LPC03lWPy7QQGPHj171uy+YcbeNpbmBA3750Z4ipGKx7TjQuLgEqkwPUfGxzMmqtuFEdoZUjETDCt3BVLe+SOfBHA0lVK8iRfkIiLR5DfyLf761pU2xR3dwNySYpFGyANICA4UMR55XHGRn1zpRei2Haen5bO/S3Yp4rskKpEqt3YdiAoP0OOTo22aQ6seQRr7k9VpfxKkIhoz1A7n8qr7XYnW3ObrXmrlSR+JAjgkNnliQ/nzxpvBcm2raopH3OjUEtMqhsRd7Rz5zk4JyGXIIIHbnjRo1IctkLXJqihwprrTqnZq9fc/3r+33El7VrRxL2lV9rknHtvl5OdVXqXqVLf7yV6DTl7MlivIrKfxnIUcDj7zg+86NGm3boRsUlOqNf//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_07_Bielefeld.png__l.jpg
 labels:
   - Ausflug
   - Bielefeld
   - Ostwestfalen
   - Ostwestfalen-Lippe
-type: Artikel
-typeName: Artikel
-date: 2019-07-24T10:33:45.000Z
+focusKeyword: Bielefeld
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "25420"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-19-bielefeld-10__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-19-bielefeld-10__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAJhAAAgIBAwQCAgMAAAAAAAAAAQIDBBEABSEGEjFBIlETFDKB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAIFBP/EACIRAAEDBAICAwAAAAAAAAAAAAECAxEABAUhUaETQTFxkf/aAAwDAQACEQMRAD8AzyltyRws7g9nk4GnVPa671zOXKR57VJIQs318uMffOpd0hlp16JjbFaVZGdh2/IhQUwT/Z403gsbfL0+tXcqiu8I+LPC03lWPy7QQGPHj171uy+YcbeNpbmBA3750Z4ipGKx7TjQuLgEqkwPUfGxzMmqtuFEdoZUjETDCt3BVLe+SOfBHA0lVK8iRfkIiLR5DfyLf761pU2xR3dwNySYpFGyANICA4UMR55XHGRn1zpRei2Haen5bO/S3Yp4rskKpEqt3YdiAoP0OOTo22aQ6seQRr7k9VpfxKkIhoz1A7n8qr7XYnW3ObrXmrlSR+JAjgkNnliQ/nzxpvBcm2raopH3OjUEtMqhsRd7Rz5zk4JyGXIIIHbnjRo1IctkLXJqihwprrTqnZq9fc/3r+33El7VrRxL2lV9rknHtvl5OdVXqXqVLf7yV6DTl7MlivIrKfxnIUcDj7zg+86NGm3boRsUlOqNf//Z
 subTitle: Eine kreative Stadt im Teutoburger Wald
   
 ---

@@ -1,32 +1,34 @@
 ---
-title: Meine neue Handtasche
-seoTitle: Meine neue Handtasche - Selbst genäht an einem Nachmittag
+date: 2015-09-13T10:18:53.000Z
 slug: meine-neue-handtasche
 path: /2015/09/meine-neue-handtasche/
-fileName: 2015-09---meine-neue-handtasche.md
+type: Artikel
+typeName: Artikel
+title: Meine neue Handtasche
+seoTitle: Meine neue Handtasche - Selbst genäht an einem Nachmittag
+ogTitle: Meine neue Handtasche - Selbst genäht an einem Nachmittag
 description: Hier kommt meine neue Handtasche! Sieht sie nicht schick aus? Ihr
   könnt Euch ganz leicht selbst so eine nähen!
 excerpt: Neulich fiel mir die Decke ein Bisschen auf den Kopf und ich begann
   nach Stoffen und Schnittmustern zu googeln - eine neue Handtasche sollte es
   sein.
-focusKeyword: Handtasche
+fileName: 2015-09---meine-neue-handtasche.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_Meine-neue-Handtasche-6__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_Meine-neue-Handtasche-6__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAEFAAAAAAAAAAAAAAAABQYAAgMEB//EACcQAAEEAQQBBAMBAQAAAAAAAAECAwQRBQAGEiExEyJBUQcUcYEW/8QAFwEAAwEAAAAAAAAAAAAAAAAABAUGA//EACgRAAECBAUCBwAAAAAAAAAAAAEDEQACBCESEzFBkQXBIlFSYnGx4f/aAAwDAQACEQMRAD8At2NsBeTDfCO05QspUnx/dZvzRtJrb+GwkgR2g4Zp5tsoICgEHroeRd9/R0bszd0fBsSsDuAvysfCfcQmS0AtSglZ6WCoFQ8kEK68UdV+Qd6Y2Ti4Efbsf9xIcWp8OtlhAtugbCiSfI8Ad/Ok4qVZV8opeH1OG41gjEmZHxX8m7v2jYwL+BzUlqK5izDbdZcf/blKQB0oAAj4uzQJvr586A3sxisKuok2AUrBBJdSCP596QTi9x4nZaGxjMU9ECEPIa9BDvAuC/UKhXLs3ZJqq1FIMZLmFnnLrLslqiYyo4CHgTXKx4NX/osazHU5JjMMNpSzgueGtzBIpVClmiOobOxuH2xjBNyAak5DkVPynECQtS+ir0x2AkKv31yP+1pGV/zO6CuLNSxIICCl9hkMy46SK50Ei0ggCiD1eoDDKXippyaliW9HTHVGkcuCeKwpJbI+QQk0Srs96Xx4UxNiQoTwf9dI/ZlcwVKWlwHs1QCevb4IUfrU4orUZwUlUmM520l10bcNyYPyKMUvu/N7WYwcrd03Z02TtncLTkuPBWqMh9rp1pFk+1KunEKBFJURQPR1Hstn9mhlxLBmeipfrGKzDLSluceVKUVkcQqwK8dVYGht6TXN2fkWecakkypIZatISPaAgqVxvoUSVfXZ0hI2RhI7XCRkp86YkJLwhBsIQSlVgFXn3JNHo9UQLvVIrTUic+aqGJ+b8fcKElVsJTkNo//Z
+ogImage: null
 labels:
   - diy
   - Fair Fashion & Beauty
   - Handarbeit
   - Handtasche nähen
   - nähen
-type: Artikel
-typeName: Artikel
-date: 2015-09-13T10:18:53.000Z
+focusKeyword: Handtasche
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "12652"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_Meine-neue-Handtasche-6__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_Meine-neue-Handtasche-6__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAEFAAAAAAAAAAAAAAAABQYAAgMEB//EACcQAAEEAQQBBAMBAQAAAAAAAAECAwQRBQAGEiExEyJBUQcUcYEW/8QAFwEAAwEAAAAAAAAAAAAAAAAABAUGA//EACgRAAECBAUCBwAAAAAAAAAAAAEDEQACBCESEzFBkQXBIlFSYnGx4f/aAAwDAQACEQMRAD8At2NsBeTDfCO05QspUnx/dZvzRtJrb+GwkgR2g4Zp5tsoICgEHroeRd9/R0bszd0fBsSsDuAvysfCfcQmS0AtSglZ6WCoFQ8kEK68UdV+Qd6Y2Ti4Efbsf9xIcWp8OtlhAtugbCiSfI8Ad/Ok4qVZV8opeH1OG41gjEmZHxX8m7v2jYwL+BzUlqK5izDbdZcf/blKQB0oAAj4uzQJvr586A3sxisKuok2AUrBBJdSCP596QTi9x4nZaGxjMU9ECEPIa9BDvAuC/UKhXLs3ZJqq1FIMZLmFnnLrLslqiYyo4CHgTXKx4NX/osazHU5JjMMNpSzgueGtzBIpVClmiOobOxuH2xjBNyAak5DkVPynECQtS+ir0x2AkKv31yP+1pGV/zO6CuLNSxIICCl9hkMy46SK50Ei0ggCiD1eoDDKXippyaliW9HTHVGkcuCeKwpJbI+QQk0Srs96Xx4UxNiQoTwf9dI/ZlcwVKWlwHs1QCevb4IUfrU4orUZwUlUmM520l10bcNyYPyKMUvu/N7WYwcrd03Z02TtncLTkuPBWqMh9rp1pFk+1KunEKBFJURQPR1Hstn9mhlxLBmeipfrGKzDLSluceVKUVkcQqwK8dVYGht6TXN2fkWecakkypIZatISPaAgqVxvoUSVfXZ0hI2RhI7XCRkp86YkJLwhBsIQSlVgFXn3JNHo9UQLvVIrTUic+aqGJ+b8fcKElVsJTkNo//Z
 subTitle: Selbstgemacht an nur einem Nachmittag
   
 ---

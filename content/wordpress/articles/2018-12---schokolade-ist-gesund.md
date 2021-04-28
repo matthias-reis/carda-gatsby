@@ -1,9 +1,12 @@
 ---
-title: Schokolade ist gesund
-seoTitle: Schokolade ist gesund - Polyphenole in der Forschung
+date: 2018-12-10T14:00:24.000Z
 slug: schokolade-ist-gesund
 path: /2018/12/schokolade-ist-gesund/
-fileName: 2018-12---schokolade-ist-gesund.md
+type: Artikel
+typeName: Artikel
+title: Schokolade ist gesund
+seoTitle: Schokolade ist gesund - Polyphenole in der Forschung
+ogTitle: Schokolade ist gesund - Polyphenole in der Forschung
 description: Der Wissenschaftliche Pressedienst brachte ein 11-seitiges Pamphlet
   zum Thema Schokolade heraus. Daraus geht hervor, dass sie gut für die
   Gesundheit ist.
@@ -11,7 +14,11 @@ excerpt: Vor Kurzem brachte der Wissenschaftliche Pressedienst ein 11-seitiges
   Pamphlet zum Thema Schokolade heraus. Daraus geht unter anderem hervor, dass
   sie gut für das Herz-Kreislauf-System ist und Entzündungen entgegenwirken
   kann.
-focusKeyword: Schokolade
+fileName: 2018-12---schokolade-ist-gesund.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_chocolate-183543_1280__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_chocolate-183543_1280__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcC/8QALBAAAgECBAUCBgMAAAAAAAAAAQIDBBEABRIhBhMxQVEicRQkMkJhgVKx0f/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMREiFB/9oADAMBAAIRAxEAPwDBzkGZxyERx6wDp9Kld++522774svDNDRUcDT1wIqpbqkjx61iXbov8jfr2FrYj+TeheV8xiUfSGnLLpY9hGAWJ2+3CWtpHo5UMLVyOyX1TsYFZR4QkuRfza/jBCS4zYvOTNJpMryGoAUpSSsw6j0t7kWP9DFU4+4fy/LaWpraOKeARuiLGRYMCbFgd9v9GKq+cZqtU7uRUR3sCyqp/X4w/os1mzHKWjqKeSFXflltOpSu3c3tuB0xHDVnonRK0P5Osmy16oKFrZ6dVszcg6Wa4P3dR+vOHsfCmXvBzZFZpVsOaWYyG/kk229sGDAb7nVsBjK61I0iMqjh2i+CmlikqogpIAEuo7De5IN74ip1hhymEQwppIt61XUPYqF/PnBgwdXZh6fs0KgHyf/Z
+ogImage: null
 labels:
   - Ernährung
   - Ernährung & Gesundheit
@@ -26,17 +33,12 @@ labels:
   - vegane Ernährung
   - Wissenschaftlicher Pressedienst
   - WPD
-type: Artikel
-typeName: Artikel
-date: 2018-12-10T14:00:24.000Z
+focusKeyword: Schokolade
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "22924"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_chocolate-183543_1280__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_chocolate-183543_1280__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcC/8QALBAAAgECBAUCBgMAAAAAAAAAAQIDBBEABRIhBhMxQVEicRQkMkJhgVKx0f/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMREiFB/9oADAMBAAIRAxEAPwDBzkGZxyERx6wDp9Kld++522774svDNDRUcDT1wIqpbqkjx61iXbov8jfr2FrYj+TeheV8xiUfSGnLLpY9hGAWJ2+3CWtpHo5UMLVyOyX1TsYFZR4QkuRfza/jBCS4zYvOTNJpMryGoAUpSSsw6j0t7kWP9DFU4+4fy/LaWpraOKeARuiLGRYMCbFgd9v9GKq+cZqtU7uRUR3sCyqp/X4w/os1mzHKWjqKeSFXflltOpSu3c3tuB0xHDVnonRK0P5Osmy16oKFrZ6dVszcg6Wa4P3dR+vOHsfCmXvBzZFZpVsOaWYyG/kk229sGDAb7nVsBjK61I0iMqjh2i+CmlikqogpIAEuo7De5IN74ip1hhymEQwppIt61XUPYqF/PnBgwdXZh6fs0KgHyf/Z
 subTitle: Polyphenole in der Forschung
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: Greta Thunberg spendet 1 Mio Euro
-seoTitle: Greta Thunberg spendet 1 Mio Euro - Gulbenkian-Preis
+date: 2020-07-22T10:21:03.000Z
 slug: greta-thunberg-gulbenkian-preis
 path: /2020/07/greta-thunberg-gulbenkian-preis/
-fileName: 2020-07---greta-thunberg-spendet-1-mio-euro.md
+type: Artikel
+typeName: Artikel
+title: Greta Thunberg spendet 1 Mio Euro
+seoTitle: Greta Thunberg spendet 1 Mio Euro - Gulbenkian-Preis
+ogTitle: Greta Thunberg spendet 1 Mio Euro - Gulbenkian-Preis
 description: Greta Thunberg wurde jüngst der Gulbenkian-Preis für Menschlichkeit
   verliehen. Das Preisgeld in Höhe von 1 Million Euro möchte die Klimaaktivistin
   spenden.
 excerpt: Greta Thunberg wurde jüngst der Gulbenkian-Preis für Menschlichkeit
   verliehen. Das Preisgeld in Höhe von 1 Million Euro möchte die Klimaaktivistin
   spenden.
-focusKeyword: Greta Thunberg
+fileName: 2020-07---greta-thunberg-spendet-1-mio-euro.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_greta-thunberg__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_greta-thunberg__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgECBP/EACgQAAIBBAEEAAYDAAAAAAAAAAECAwQFESEABhITMQcUIkFRkSNCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCQqOqrtQ5jvXSqCo8jR+GhuSStpVbI7lxjDD+3MN8QLbTBaa+Wi+2rvwQtZbnXX5VhkEa/G+V6jqqimpmi+SnqKRlDLhlYodYOCB6wPetciKiOnX+emfqGmUgoYvmC4iBJJwO7I2Sdes69cDlv19hv3V0NdTLTiIR+EeGUvkAk/VlVIbexjjK6iuctP8NlaBlE9IksigjOCe37cTqGlpOqKJkMk0Jl7pI5izHAYZUknJ0MZzxx9ZXW3Hoa5U0TtNGhEqP4UERTPa64X/fWRkg/f2QXlrujOkIkUeSN+1vq0ME7/WObyVCOS+FEgfOVJHscOHArl+dTfLcy4DFGzr3vlzrF+a6MrYDIyGSEjvQ4I2Nj9cOHA//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_greta-thunberg.png__l.jpg
 labels:
   - fridays for future
   - Greta Thunberg
@@ -18,17 +25,12 @@ labels:
   - Gulbenkian Award
   - Gulbenkian-Preis
   - Klima & Umweltschutz
-type: Artikel
-typeName: Artikel
-date: 2020-07-22T10:21:03.000Z
+focusKeyword: Greta Thunberg
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30659"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_greta-thunberg__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_greta-thunberg__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgECBP/EACgQAAIBBAEEAAYDAAAAAAAAAAECAwQFESEABhITMQcUIkFRkSNCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCQqOqrtQ5jvXSqCo8jR+GhuSStpVbI7lxjDD+3MN8QLbTBaa+Wi+2rvwQtZbnXX5VhkEa/G+V6jqqimpmi+SnqKRlDLhlYodYOCB6wPetciKiOnX+emfqGmUgoYvmC4iBJJwO7I2Sdes69cDlv19hv3V0NdTLTiIR+EeGUvkAk/VlVIbexjjK6iuctP8NlaBlE9IksigjOCe37cTqGlpOqKJkMk0Jl7pI5izHAYZUknJ0MZzxx9ZXW3Hoa5U0TtNGhEqP4UERTPa64X/fWRkg/f2QXlrujOkIkUeSN+1vq0ME7/WObyVCOS+FEgfOVJHscOHArl+dTfLcy4DFGzr3vlzrF+a6MrYDIyGSEjvQ4I2Nj9cOHA//Z
 subTitle: <strong>Gulbenkian-Preis</strong>
   
 ---

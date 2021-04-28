@@ -1,14 +1,21 @@
 ---
-title: '"Trancevoicer" von Egor Lappo'
-seoTitle: '"Trancevoicer" von Egor Lappo - Progressive Metal aus St. Petersburg'
+date: 2021-02-22T05:00:12.000Z
 slug: egor-lappo-trancevoicer
 path: /2021/02/egor-lappo-trancevoicer/
-fileName: 2021-02---trancevoicer-von-egor-lappo.md
+type: Artikel
+typeName: Review
+title: '"Trancevoicer" von Egor Lappo'
+seoTitle: '"Trancevoicer" von Egor Lappo - Progressive Metal aus St. Petersburg'
+ogTitle: '"Trancevoicer" von Egor Lappo - Progressive Metal aus St. Petersburg'
 description: Das neue Album von Egor Lappo "Trancevoicer" erscheint am 19. März.
   Ich habe es schon gehört und empfehle es hiermit
 excerpt: English & German – Das neue Album von Egor Lappo "Trancevoicer"
   erscheint am 19. März. Ich habe es schon gehört und empfehle es hiermit
-focusKeyword: Egor Lappo
+fileName: 2021-02---trancevoicer-von-egor-lappo.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_egor-lappo__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_egor-lappo__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAj/xAAoEAACAQMDAgUFAAAAAAAAAAABAgMABBEFITESUQYHE2GhCBQVIkL/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQIAAxESEzFB/9oADAMBAAIRAxEAPwCC+h+vFK/s5b/UltrcAuTtk4A96dzTIkTMx2Ayasvld5Ma3FaWfieW+sEuLu3Lx6ZLGxZ45FyvVIDhGIweDjOCa0Xdalj78l94XQs53RDHdqjMDhsdSnIPvTyWIKopdr0xOs3TugRllZSg/nBxj4pi0oeFD3FPs0gGTLmkRddTdUTL32NWHQfqC1fTPDFrpv4u2l1G0t/RhvDJhCVAVGZMchRvvuQON6KKJqEsTGHkF3POQ+8cvMzO3W7Eszd2O5+a3LNiNVzwAKKKa40CApn/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_egor-lappo-fb.png__l.jpg
 labels:
   - Alternative Rock
   - Alternative-Metal
@@ -24,17 +31,12 @@ labels:
   - Release
   - Review
   - Trancevoicer
-type: Artikel
-typeName: Review
-date: 2021-02-22T05:00:12.000Z
+focusKeyword: Egor Lappo
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32847"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_egor-lappo__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_egor-lappo__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAj/xAAoEAACAQMDAgUFAAAAAAAAAAABAgMABBEFITESUQYHE2GhCBQVIkL/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQIAAxESEzFB/9oADAMBAAIRAxEAPwCC+h+vFK/s5b/UltrcAuTtk4A96dzTIkTMx2Ayasvld5Ma3FaWfieW+sEuLu3Lx6ZLGxZ45FyvVIDhGIweDjOCa0Xdalj78l94XQs53RDHdqjMDhsdSnIPvTyWIKopdr0xOs3TugRllZSg/nBxj4pi0oeFD3FPs0gGTLmkRddTdUTL32NWHQfqC1fTPDFrpv4u2l1G0t/RhvDJhCVAVGZMchRvvuQON6KKJqEsTGHkF3POQ+8cvMzO3W7Eszd2O5+a3LNiNVzwAKKKa40CApn/2Q==
 subTitle: Progressive Metal aus Sankt Petersburg
   
 ---

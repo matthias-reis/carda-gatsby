@@ -1,16 +1,23 @@
 ---
-title: Perry Frank
-seoTitle: Perry Frank im Interview – "Die Natur ist Teil meiner Musik"
+date: 2020-11-09T15:16:58.000Z
 slug: perry-frank-interview
 path: /2020/11/perry-frank-interview/
-fileName: 2020-11---perry-frank.md
+type: Artikel
+typeName: Interview
+title: Perry Frank
+seoTitle: Perry Frank im Interview – "Die Natur ist Teil meiner Musik"
+ogTitle: Perry Frank im Interview – "Die Natur ist Teil meiner Musik"
 description: Francesco Perra startete sein
   Ambient/Post-Rock/Acoustic/Psychedelic Projekt Perry Frank im Jahr 2005. Heute
   erscheint seine neue Single.
 excerpt: English & German – Francesco Perra startete sein
   Ambient/Post-Rock/Acoustic/Psychedelic Projekt Perry Frank im Jahr 2005. Heute
   erscheint seine neue Single.
-focusKeyword: Perry Frank
+fileName: 2020-11---perry-frank.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_perry-frank__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_perry-frank__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAQj/xAAnEAACAQQBAgUFAAAAAAAAAAABAgMABAUREiExBhMUUXEHFTKR0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDmOmOCw93nL9LLHRvLdSfgirvf8pdVr9OcpZ4y7gleK5e6FyvMRTCLcXYjkdAb3rr70E5l8Jf4nMS4u7hPrY5PKaNNk8unb52OtL5Y3ileOVGSRGKsjDRUjuCKucl4lTD+Jrv7fHcOBwi53mnlUBdFW99E1P8AjHJ2mXzHqrKJkHlKkjsADK47tofr4AoElarFTtSQaKKAZizFmOyeprKKKD//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_11_perry-frank-fb.png__l.jpg
 labels:
   - Ambient
   - Bands
@@ -21,17 +28,12 @@ labels:
   - Perry Frank
   - Post-Rock
   - Sardinien
-type: Artikel
-typeName: Interview
-date: 2020-11-09T15:16:58.000Z
+focusKeyword: Perry Frank
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31792"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_perry-frank__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_perry-frank__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAQj/xAAnEAACAQQBAgUFAAAAAAAAAAABAgMABAUREiExBhMUUXEHFTKR0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDmOmOCw93nL9LLHRvLdSfgirvf8pdVr9OcpZ4y7gleK5e6FyvMRTCLcXYjkdAb3rr70E5l8Jf4nMS4u7hPrY5PKaNNk8unb52OtL5Y3ileOVGSRGKsjDRUjuCKucl4lTD+Jrv7fHcOBwi53mnlUBdFW99E1P8AjHJ2mXzHqrKJkHlKkjsADK47tofr4AoElarFTtSQaKKAZizFmOyeprKKKD//2Q==
 subTitle: '"Die Natur ist Teil meiner Musik"'
   
 ---

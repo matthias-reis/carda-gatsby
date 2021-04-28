@@ -1,15 +1,22 @@
 ---
-title: Die ultimative Festivalliste
-seoTitle: Die ultimative Festivalliste - So vergesst Ihr garantiert nichts!
+date: 2013-03-28T14:46:49.000Z
 slug: die-ultimative-festivalliste
 path: /2013/03/die-ultimative-festivalliste/
-fileName: 2013-03---die-ultimative-festivalliste.md
+type: Artikel
+typeName: Artikel
+title: Die ultimative Festivalliste
+seoTitle: Die ultimative Festivalliste - So vergesst Ihr garantiert nichts!
+ogTitle: Die ultimative Festivalliste - So vergesst Ihr garantiert nichts!
 description: Mit der ultimativen Festivalliste vergesst Ihr garantiert nie
   wieder was und könnt das nächste Festival in vollen Zügen genießen. Bei jedem
   Wetter.
 excerpt: Mit der ultimativen Festivalliste vergesst Ihr garantiert nie wieder
   was und könnt das nächste Festival in vollen Zügen genießen. Bei jedem Wetter.
-focusKeyword: Festivalliste
+fileName: 2013-03---die-ultimative-festivalliste.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_p1260039__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_03_p1260039__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGCAT/xAAnEAACAQMDBAIDAQEAAAAAAAABAgMEBREABiESEzFBIlEHYXEVMv/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EAB0RAAICAgMBAAAAAAAAAAAAAAABAhEDEiExMnH/2gAMAwEAAhEDEQA/AG9z3zNR1UFTef8AQEvZCpUUTIcqCf8ApQE554xrut35qpY2RO7U1EIUfOphWOQnJz8Sf5yDqAum4oqXbV1KLOt1gdOw6SlV7RJLkjGMjkYznOCOM5jkqYKuvMM6LDEwQctlihbL+fYGfX3phtK/oax9VRqfb/5KtV6PRAV7gxkdxUPJ9Bj8j+lJOqCrvUSMFp4airYqSRDGx6cfeRwT6zrIJq7fb6qd6Ut1RxNLEYSWJckAEH198cjVztLee4KyRYbpVVYoY4pOnAbGfiVCt78t51Z3HhmNU+hILAbxW1EcrVKUrqnc6WCxtx9nyf5qntuxbNGQy0jVDucMmessRz7P7+tGjUcj5bL4+kOqrbVVDQTJZ7PJBP09UbrGuAc+CMHzz4GdRce192W28y1cFBTxrJLK56onk+L44PA8YGMD70aNZUhZ/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2013_03_p1260039__l.jpg
 labels:
   - Anne Festivalliste
   - Ausrüstung
@@ -72,18 +79,13 @@ labels:
   - Wetter Southside Festival 2013
   - Zelt
   - zelten auf Festivals
-type: Artikel
-typeName: Artikel
-date: 2013-03-28T14:46:49.000Z
+focusKeyword: Festivalliste
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "5040"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_p1260039__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_03_p1260039__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGCAT/xAAnEAACAQMDBAIDAQEAAAAAAAABAgMEBREABiESEzFBIlEHYXEVMv/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EAB0RAAICAgMBAAAAAAAAAAAAAAABAhEDEiExMnH/2gAMAwEAAhEDEQA/AG9z3zNR1UFTef8AQEvZCpUUTIcqCf8ApQE554xrut35qpY2RO7U1EIUfOphWOQnJz8Sf5yDqAum4oqXbV1KLOt1gdOw6SlV7RJLkjGMjkYznOCOM5jkqYKuvMM6LDEwQctlihbL+fYGfX3phtK/oax9VRqfb/5KtV6PRAV7gxkdxUPJ9Bj8j+lJOqCrvUSMFp4airYqSRDGx6cfeRwT6zrIJq7fb6qd6Ut1RxNLEYSWJckAEH198cjVztLee4KyRYbpVVYoY4pOnAbGfiVCt78t51Z3HhmNU+hILAbxW1EcrVKUrqnc6WCxtx9nyf5qntuxbNGQy0jVDucMmessRz7P7+tGjUcj5bL4+kOqrbVVDQTJZ7PJBP09UbrGuAc+CMHzz4GdRce192W28y1cFBTxrJLK56onk+L44PA8YGMD70aNZUhZ/9k=
 subTitle: Perfekt ausgerüstet durch die Festival-Saison
   
 ---

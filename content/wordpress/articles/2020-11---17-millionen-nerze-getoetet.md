@@ -1,16 +1,23 @@
 ---
-title: 17 Millionen Nerze getötet
-seoTitle: 17 Millionen Nerze getötet - Mutiertes COVID-19 Virus
+date: 2020-11-09T11:13:48.000Z
 slug: 17-millionen-nerze-getoetet
 path: /2020/11/17-millionen-nerze-getoetet/
-fileName: 2020-11---17-millionen-nerze-getoetet.md
+type: Artikel
+typeName: Artikel
+title: 17 Millionen Nerze getötet
+seoTitle: 17 Millionen Nerze getötet - Mutiertes COVID-19 Virus
+ogTitle: 17 Millionen Nerze getötet - Mutiertes COVID-19 Virus
 description: Letzte Woche rief die dänische Premier-Ministerin dazu auf, alle
   Nerze auf den Farmen ihres Landes zu töten. Grund ist eine Mutation des
   COVID-19 Virus.
 excerpt: Letzte Woche rief die dänische Premier-Ministerin dazu auf, alle Nerze
   auf den Farmen ihres Landes zu töten. Grund ist eine Mutation des COVID-19
   Virus.
-focusKeyword: Nerze
+fileName: 2020-11---17-millionen-nerze-getoetet.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_nerze__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_nerze__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwP/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMABBEFBiETMVESFCJhcYEHMkFysf/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBQL/xAAbEQEAAwADAQAAAAAAAAAAAAABAAIDERIhIv/aAAwDAQACEQMRAD8AR6jI0F0JIZGieS5LyOj+lggzx+T/AJVLp88l9CWmidSficn91Z1uK/trbdMxumKxLAmAD3JJ5P2zWh7duJrvTkvZYfbdRQ6xM3qKDGM/nvU3Gv1yyrex0AhdXCWEgzOAG5CnhTXHQNQbUrq6VoYInt5kTERbBBGckN2pHuO+jbU0tTCA+Vk67H4hScEAfySfHj6Uv0zci2GorbsiuJ5lQkcHJOMn7UNOe/kIDkrIz9QL+EbpCMBIscKoxDZ9JPPA88+attubqU6PELS2V4ooRC7dZSUwScgZyeD2PPFFFMuBQYrKy3ayb3Hr1nqOq+4iYp0sCNSQCMHjzgn6nBqe0e+ebcNoHUh/cIxD/wBsmiit1oBF20Vn/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_11_nerze-fb.png__l.jpg
 labels:
   - Corona
   - COVID-19
@@ -21,17 +28,12 @@ labels:
   - Pelz
   - Tierrechte
   - Zoonosen
-type: Artikel
-typeName: Artikel
-date: 2020-11-09T11:13:48.000Z
+focusKeyword: Nerze
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31785"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_nerze__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_nerze__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwP/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMABBEFBiETMVESFCJhcYEHMkFysf/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBQL/xAAbEQEAAwADAQAAAAAAAAAAAAABAAIDERIhIv/aAAwDAQACEQMRAD8AR6jI0F0JIZGieS5LyOj+lggzx+T/AJVLp88l9CWmidSficn91Z1uK/trbdMxumKxLAmAD3JJ5P2zWh7duJrvTkvZYfbdRQ6xM3qKDGM/nvU3Gv1yyrex0AhdXCWEgzOAG5CnhTXHQNQbUrq6VoYInt5kTERbBBGckN2pHuO+jbU0tTCA+Vk67H4hScEAfySfHj6Uv0zci2GorbsiuJ5lQkcHJOMn7UNOe/kIDkrIz9QL+EbpCMBIscKoxDZ9JPPA88+attubqU6PELS2V4ooRC7dZSUwScgZyeD2PPFFFMuBQYrKy3ayb3Hr1nqOq+4iYp0sCNSQCMHjzgn6nBqe0e+ebcNoHUh/cIxD/wBsmiit1oBF20Vn/9k=
 subTitle: Mutiertes COVID-19 Virus in Dänemark
   
 ---

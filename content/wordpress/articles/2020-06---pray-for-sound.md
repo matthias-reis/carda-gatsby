@@ -1,16 +1,23 @@
 ---
-title: Pray for Sound
-seoTitle: Pray for Sound im Interview - "Diese Songs sind wie Therapie"
+date: 2020-06-05T06:41:25.000Z
 slug: pray-for-sound
 path: /2020/06/pray-for-sound/
-fileName: 2020-06---pray-for-sound.md
+type: Artikel
+typeName: Interview
+title: Pray for Sound
+seoTitle: Pray for Sound im Interview - "Diese Songs sind wie Therapie"
+ogTitle: Pray for Sound im Interview - "Diese Songs sind wie Therapie"
 description: Pray for Sound aus Boston haben sich meinem Interview gestellt. Es
   war sehr spannend, eine meiner liebsten Post-Rock Bands persönlich
   kennenzulernen.
 excerpt: English & German - Pray for Sound aus Boston haben sich meinem
   Interview gestellt. Es war sehr spannend, eine meiner liebsten Post-Rock Bands
   persönlich kennenzulernen.
-focusKeyword: Pray For Sound
+fileName: 2020-06---pray-for-sound.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_pray-for-sound-waves__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_pray-for-sound-waves__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAApEAACAQMEAQQBBQEAAAAAAAABAgMEBREAEiExQQYHEyJRFBZSYqGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABwRAAICAwEBAAAAAAAAAAAAAAABAhEDEkETMv/aAAwDAQACEQMRAD8ArrXQIZBEADIMArg8ZGf4/jnTKzz0tdK0cCuuFDqzphXTO3cpCnyOjg9cc6xeP3OgjuRq47U6D5vkVWqFCt9du5iFzu8bRx50yb3JqYLXMtNRClq5VcyTrMHCSscq0aFeh/bPf4A0NJWVhj3i3E120ypcoDIlK8Az9RIUJZSTg/UHGcdHkZGRpPb73Zr3U1lNa6tJqikJWaMxMjLg7Tw0YyM8ax72+9e3GlguazyQSM8J2IoCF5mDYbOfB8DAx411+lLvSWGogvdwgnq7vPT/AKe6VIdFhiVmQoFVfszKqrnjo9+dHzkiScZXXCI9ATRCpvEkzLuhslYU3AEbiqr0e+z/AN089u54v3HTpPKYkakq4w4xkE00g7PXfejRppdNOD4ICyJI9PJMrKscHxRuQ3lshSMc9g9aaXWrkl+SZZSzmZyu6UPt2+Rn/dGjTp2ZWqR//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_pray-for-sound-fb.png__l.jpg
 labels:
   - A Thousand Arms
   - Bands
@@ -32,17 +39,12 @@ labels:
   - Synthesizer
   - Vinyl
   - Voyager
-type: Artikel
-typeName: Interview
-date: 2020-06-05T06:41:25.000Z
+focusKeyword: Pray For Sound
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29798"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_pray-for-sound-waves__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_pray-for-sound-waves__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAApEAACAQMEAQQBBQEAAAAAAAABAgMEBREAEiExQQYHEyJRFBZSYqGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABwRAAICAwEBAAAAAAAAAAAAAAABAhEDEkETMv/aAAwDAQACEQMRAD8ArrXQIZBEADIMArg8ZGf4/jnTKzz0tdK0cCuuFDqzphXTO3cpCnyOjg9cc6xeP3OgjuRq47U6D5vkVWqFCt9du5iFzu8bRx50yb3JqYLXMtNRClq5VcyTrMHCSscq0aFeh/bPf4A0NJWVhj3i3E120ypcoDIlK8Az9RIUJZSTg/UHGcdHkZGRpPb73Zr3U1lNa6tJqikJWaMxMjLg7Tw0YyM8ax72+9e3GlguazyQSM8J2IoCF5mDYbOfB8DAx411+lLvSWGogvdwgnq7vPT/AKe6VIdFhiVmQoFVfszKqrnjo9+dHzkiScZXXCI9ATRCpvEkzLuhslYU3AEbiqr0e+z/AN089u54v3HTpPKYkakq4w4xkE00g7PXfejRppdNOD4ICyJI9PJMrKscHxRuQ3lshSMc9g9aaXWrkl+SZZSzmZyu6UPt2+Rn/dGjTp2ZWqR//9k=
 subTitle: '"Diese Songs sind wie Therapie"'
   
 ---

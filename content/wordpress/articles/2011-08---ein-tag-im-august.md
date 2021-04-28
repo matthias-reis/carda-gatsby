@@ -1,14 +1,21 @@
 ---
-title: Ein Tag im August
-seoTitle: Ein Tag im August - kurzer Tagebucheintrag
+date: 2011-08-18T15:35:10.000Z
 slug: ein-tag-im-august
 path: /2011/08/ein-tag-im-august/
-fileName: 2011-08---ein-tag-im-august.md
+type: Artikel
+typeName: Artikel
+title: Ein Tag im August
+seoTitle: Ein Tag im August - kurzer Tagebucheintrag
+ogTitle: Ein Tag im August - kurzer Tagebucheintrag
 description: Neben mir ein Kleinlaster einer Möbelhauskette. Die mit dem völlig
   unsinnigen Werbeslogan, bei dem ich immer an Krankheiten denken muss.
 excerpt: Neben mir ein Kleinlaster einer Möbelhauskette. Die mit dem völlig
   unsinnigen Werbeslogan, bei dem ich immer an Krankheiten denken muss.
-focusKeyword: ""
+fileName: 2011-08---ein-tag-im-august.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_dame1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_dame1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMABBEFEiEHMUEGExQiYaFCUYGRwf/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAcEQACAwADAQAAAAAAAAAAAAABAgADEQQSIQX/2gAMAwEAAhEDEQA/AJd0m0pW1W0v2dy2+YBeNudmM/0asfxxjt+KR+md6NTkgmMSQ5mdSFyQAEHOad9Hu7u7nuhdwRRwo5RNodXRgcbXDDB4wQy8HNNVgARNySfYreuozDbWzKdrF25/iiujqU3tQWB2hss/BGfAooNjY0vfPrBoBI2LPSCUixteST8qbuMfpWqJqF5uglkg92Z4nRkigkAcsrcjngD9wfAqEejdXOk6hbLcSSCxBkLr3H1L3wPOQKfpfV+iyoI5J1KYxtMbAD8UZGHX2QnQ9ppdRxe3ltpwtrZpZQzGRY19wJkDz/tFYMvUDToZ2UJcSx7RtaJBgfbBI+1FZZVY7sf4/MtorCKoM//Z
+ogImage: null
 labels:
   - Aufzug
   - Auslandsaufenthalt
@@ -36,17 +43,12 @@ labels:
   - Supermarkt
   - Tagebuch
   - Urlaub
-type: Artikel
-typeName: Artikel
-date: 2011-08-18T15:35:10.000Z
+focusKeyword: ""
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "2269"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_dame1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_dame1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMABBEFEiEHMUEGExQiYaFCUYGRwf/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAcEQACAwADAQAAAAAAAAAAAAABAgADEQQSIQX/2gAMAwEAAhEDEQA/AJd0m0pW1W0v2dy2+YBeNudmM/0asfxxjt+KR+md6NTkgmMSQ5mdSFyQAEHOad9Hu7u7nuhdwRRwo5RNodXRgcbXDDB4wQy8HNNVgARNySfYreuozDbWzKdrF25/iiujqU3tQWB2hss/BGfAooNjY0vfPrBoBI2LPSCUixteST8qbuMfpWqJqF5uglkg92Z4nRkigkAcsrcjngD9wfAqEejdXOk6hbLcSSCxBkLr3H1L3wPOQKfpfV+iyoI5J1KYxtMbAD8UZGHX2QnQ9ppdRxe3ltpwtrZpZQzGRY19wJkDz/tFYMvUDToZ2UJcSx7RtaJBgfbBI+1FZZVY7sf4/MtorCKoM//Z
 subTitle: Auf dem Weg ins Büro
   
 ---

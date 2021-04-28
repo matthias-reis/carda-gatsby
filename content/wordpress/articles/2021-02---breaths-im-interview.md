@@ -1,15 +1,22 @@
 ---
-title: Breaths im Interview
-seoTitle: Harte Musik und Veganismus – Interview mit Breaths
+date: 2021-02-11T10:38:09.000Z
 slug: breaths-interview
 path: /2021/02/breaths-interview/
-fileName: 2021-02---breaths-im-interview.md
+type: Artikel
+typeName: Interview
+title: Breaths im Interview
+seoTitle: Harte Musik und Veganismus – Interview mit Breaths
+ogTitle: Interview mit Breaths – Harte Musik und Veganismus
 description: Darüber, dass harte Musik und Veganismus viel gemeinsam haben,
   waren Jason von Breaths und ich uns einig. Mein Interview zum Debüt-Album.
 excerpt: English & German – Darüber, dass harte Musik und Veganismus viel
   gemeinsam haben, waren Jason von Breaths und ich uns einig. Mein Interview zum
   Debüt-Album.
-focusKeyword: Musik und Veganismus
+fileName: 2021-02---breaths-im-interview.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBggE/8QAKRAAAQMCBQMEAwEAAAAAAAAAAQIDBAURAAYHEkETITEiI1FhMkJDcf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDj1bra6zT48BpoqLjiW0rHF+T9dsXPQSA5l7LFSLjqHEtPl1TrP7I2pc7X5scILMGZHJlVkxyhCobLykJLSiha9qiAsK4vb45w3NDc2LlUTMdInttIeeivTYdr+4AhSVN/dg2LW4BwDkp+ZoNfjITHcktyVj0JWs+fP+HtxjLmqodpepNY6JAt0B+IP8UHnD108y3UKHmiDHfQFsyYomqdRctp9JBQCeQSB99jip6s6aVitZxqdShOwBHeLe0OOqCvS2lJuAk8g4DOS3mmZMgFjrHeemd5CbX82HnDt0OzHRYEFtLlYixK648QIsllJQNp9vpk2sSPhV8GDAMHKWZGcpVCtU0Vmis00ONyQpYfeeccdTc33OkC23vbyTxiPNWeaRNgOJTVojrj7zTR6QU0SlTiQoWJPkXub/ODBgP/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-lined-in-silver.png__l.jpg
 labels:
   - Bands
   - Blackgaze
@@ -26,17 +33,12 @@ labels:
   - Subcore
   - Tierrechte
   - vegan celebrities
-type: Artikel
-typeName: Interview
-date: 2021-02-11T10:38:09.000Z
+focusKeyword: Musik und Veganismus
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32808"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBggE/8QAKRAAAQMCBQMEAwEAAAAAAAAAAQIDBAURAAYHEkETITEiI1FhMkJDcf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDj1bra6zT48BpoqLjiW0rHF+T9dsXPQSA5l7LFSLjqHEtPl1TrP7I2pc7X5scILMGZHJlVkxyhCobLykJLSiha9qiAsK4vb45w3NDc2LlUTMdInttIeeivTYdr+4AhSVN/dg2LW4BwDkp+ZoNfjITHcktyVj0JWs+fP+HtxjLmqodpepNY6JAt0B+IP8UHnD108y3UKHmiDHfQFsyYomqdRctp9JBQCeQSB99jip6s6aVitZxqdShOwBHeLe0OOqCvS2lJuAk8g4DOS3mmZMgFjrHeemd5CbX82HnDt0OzHRYEFtLlYixK648QIsllJQNp9vpk2sSPhV8GDAMHKWZGcpVCtU0Vmis00ONyQpYfeeccdTc33OkC23vbyTxiPNWeaRNgOJTVojrj7zTR6QU0SlTiQoWJPkXub/ODBgP/2Q==
 subTitle: '"Harte Musik und Veganismus haben viel gemeinsam"'
   
 ---

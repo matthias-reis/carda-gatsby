@@ -1,16 +1,23 @@
 ---
-title: DIY Plum Gin
-seoTitle: DIY Plum Gin - Selbst gemachter Likör - Rezept & Geschenkidee
+date: 2018-12-17T21:08:54.000Z
 slug: diy-plum-gin
 path: /2018/12/diy-plum-gin/
-fileName: 2018-12---diy-plum-gin.md
+type: Artikel
+typeName: Rezept
+title: DIY Plum Gin
+seoTitle: DIY Plum Gin - Selbst gemachter Likör - Rezept & Geschenkidee
+ogTitle: DIY Plum Gin - Selbst gemachter Likör - Rezept & Geschenkidee
 description: In einem Gastbeitrag verrät Matze heute sein Rezept für selbst
   gemachten Pflaumen-Gin. Er eignet sich perfekt als Basis für Cockails. Und als
   Geschenk!
 excerpt: In einem Gastbeitrag verrät Matze heute sein Rezept für selbst
   gemachten Pflaumen-Gin. Er eignet sich perfekt als Basis für Cockails. Und als
   Geschenk!
-focusKeyword: Likör
+fileName: 2018-12---diy-plum-gin.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_title__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_title__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwIDBf/EACcQAAICAQMDAwUBAAAAAAAAAAECAwQRAAUhBhIxEyJBFCQyUWGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAfEQABBAICAwAAAAAAAAAAAAABAAIREgMhEzEEcbH/2gAMAwEAAhEDEQA/AEeOzcG3GC6zMplEqtGfUQKePdjORwef3ga2SbpJDuRvQ2bFd5ZFiiLryq93uQsPjjg4/njWFfso3YJoPqRkOpwSGZRjBbnkAsuVGDwMY1NepHAlS3NCvpLdADQk+897DAJOe3kA/s9y/Oog7YVETKZ+k9zO27ktiOf6eRikYkcL2ODlWVmOQM5+dR+ud0hg6XSaNFkmgjKZVSCxaQL3SY4OAw/zGqv2Kl1DutiFNjrz2BUf05B3qV5ckZRjgjjwQfGrGr7JtBo7hR3Gfd06lqGSXca8DAwxocNhB+AJAQ+0/GNUHyWDNUd/NdlHxHjsUs2mEu3bVYvGWy1izaHL47D7Tkec+COf3ro7vepwmzQnoNYaKzDOZmnOSZAoGBjA7QcceR/edGjQAAkekjtSoXVl6/01uy7l0/cNJtwkCzRemrqWB/LDD+6YtpsSpO8e4sLlvcl+9t9ixyWFOSVYgE48Dz4A0aNWYsTLF0bQvc6oEr//2Q==
+ogImage: null
 labels:
   - Cocktail
   - DIY Likör
@@ -29,17 +36,12 @@ labels:
   - Trester
   - vegane Rezepte
   - Vegane Rezepte
-type: Artikel
-typeName: Rezept
-date: 2018-12-17T21:08:54.000Z
+focusKeyword: Likör
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "22996"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_title__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_title__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwIDBf/EACcQAAICAQMDAwUBAAAAAAAAAAECAwQRAAUhBhIxEyJBFCQyUWGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAfEQABBAICAwAAAAAAAAAAAAABAAIREgMhEzEEcbH/2gAMAwEAAhEDEQA/AEeOzcG3GC6zMplEqtGfUQKePdjORwef3ga2SbpJDuRvQ2bFd5ZFiiLryq93uQsPjjg4/njWFfso3YJoPqRkOpwSGZRjBbnkAsuVGDwMY1NepHAlS3NCvpLdADQk+897DAJOe3kA/s9y/Oog7YVETKZ+k9zO27ktiOf6eRikYkcL2ODlWVmOQM5+dR+ud0hg6XSaNFkmgjKZVSCxaQL3SY4OAw/zGqv2Kl1DutiFNjrz2BUf05B3qV5ckZRjgjjwQfGrGr7JtBo7hR3Gfd06lqGSXca8DAwxocNhB+AJAQ+0/GNUHyWDNUd/NdlHxHjsUs2mEu3bVYvGWy1izaHL47D7Tkec+COf3ro7vepwmzQnoNYaKzDOZmnOSZAoGBjA7QcceR/edGjQAAkekjtSoXVl6/01uy7l0/cNJtwkCzRemrqWB/LDD+6YtpsSpO8e4sLlvcl+9t9ixyWFOSVYgE48Dz4A0aNWYsTLF0bQvc6oEr//2Q==
 subTitle: Likör selbst gemacht
   
 ---

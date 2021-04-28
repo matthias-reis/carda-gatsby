@@ -1,14 +1,21 @@
 ---
-title: '"Ich kann nicht atmen"'
-seoTitle: '"Ich kann nicht atmen" - George Floyds letzte Worte'
+date: 2020-06-09T06:39:05.000Z
 slug: george-floyd
 path: /2020/06/george-floyd/
-fileName: 2020-06---ich-kann-nicht-atmen.md
+type: Artikel
+typeName: Artikel
+title: '"Ich kann nicht atmen"'
+seoTitle: '"Ich kann nicht atmen" - George Floyds letzte Worte'
+ogTitle: '"Ich kann nicht atmen" - George Floyds letzte Worte'
 description: Heute wird in Houston der von einem Polizisten getötete
   Afro-Amerikaner George Floyd beigesetzt. Die Welt nimmt Abschied.
 excerpt: Heute wird in Houston der von einem Polizisten getötete Afro-Amerikaner
   George Floyd beigesetzt. Die Welt nimmt Abschied.
-focusKeyword: George Floyds letzte Worte
+fileName: 2020-06---ich-kann-nicht-atmen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_oakImage-1590976708225-superJumbo__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_oakImage-1590976708225-superJumbo__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBAMFB//EACoQAAIBAwIEBAcAAAAAAAAAAAECAwAEERIhBQZBYRMiMVEHFEJxgaGx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQBAgX/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIDBBEhFEH/2gAMAwEAAhEDEQA/AOvz2Unj/L3EhMKAhM5GO2a1t28cM8UdwzFAfMBtgmmm6tHlZ2jQjWPMh9/el/idrcO8nhcNmcg51PJGiuQR6bkgfcdK0ItfRR7FcSXU05WMMiZyAOu9ZoOHssheRiig63cHck+1MMdjdPKim2hjhwVYrIWYjcg+gx0q83CVLZZDpHQURzRVIjJzZcwSMpsIZYwPK6SMCfwRtVc88EZEnCZR3V1P6NFFMV49cl1CM8ixPjJRc7WiWpeSxl1D6NS6j3xmop8QeHnZrO6Qd4wf4TRRRI4dUtkeuxaP/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_george-floyd-fb.png__l.jpg
 labels:
   - Antifaschismus & Feminismus
   - Black Lives Matter
@@ -18,17 +25,12 @@ labels:
   - George Floyd
   - I can't breathe
   - Ich kann nicht atmen
-type: Artikel
-typeName: Artikel
-date: 2020-06-09T06:39:05.000Z
+focusKeyword: George Floyds letzte Worte
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29973"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_oakImage-1590976708225-superJumbo__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_oakImage-1590976708225-superJumbo__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBAMFB//EACoQAAIBAwIEBAcAAAAAAAAAAAECAwAEERIhBQZBYRMiMVEHFEJxgaGx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQBAgX/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIDBBEhFEH/2gAMAwEAAhEDEQA/AOvz2Unj/L3EhMKAhM5GO2a1t28cM8UdwzFAfMBtgmmm6tHlZ2jQjWPMh9/el/idrcO8nhcNmcg51PJGiuQR6bkgfcdK0ItfRR7FcSXU05WMMiZyAOu9ZoOHssheRiig63cHck+1MMdjdPKim2hjhwVYrIWYjcg+gx0q83CVLZZDpHQURzRVIjJzZcwSMpsIZYwPK6SMCfwRtVc88EZEnCZR3V1P6NFFMV49cl1CM8ixPjJRc7WiWpeSxl1D6NS6j3xmop8QeHnZrO6Qd4wf4TRRRI4dUtkeuxaP/9k=
 subTitle: George Floyds letzte Worte
   
 ---

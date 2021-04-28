@@ -1,16 +1,23 @@
 ---
-title: Neue Deocremes von Pony Hütchen
-seoTitle: Neue Deocremes von Pony Hütchen - Beauty-Lieblinge im neuen Kleid
+date: 2018-02-09T07:28:29.000Z
 slug: neue-deocremes-von-pony-huetchen
 path: /2018/02/neue-deocremes-von-pony-huetchen/
-fileName: 2018-02---neue-deocremes-von-pony-huetchen.md
+type: Artikel
+typeName: Produkttest
+title: Neue Deocremes von Pony Hütchen
+seoTitle: Neue Deocremes von Pony Hütchen - Beauty-Lieblinge im neuen Kleid
+ogTitle: Neue Deocreme von Pony Hütchen - Beauty-Lieblinge im neuen Kleid
 description: Was bei mir im Bad niemals fehlen darf, sind meine
   Lieblings-Deocremes von Pony Hütchen. Jetzt gibt es davon eine Neuauflage, die
   ich getestet habe.
 excerpt: Werbung - Was bei mir im Bad niemals fehlen darf, sind meine
   Lieblings-Deocremes von Pony Hütchen. Jetzt gibt es davon eine Neuauflage, die
   ich getestet habe.
-focusKeyword: Pony Hütchen
+fileName: 2018-02---neue-deocremes-von-pony-huetchen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40130844772_857dfe5479_z-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40130844772_857dfe5479_z-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwP/xAAmEAABAwQBAwQDAAAAAAAAAAABAgMEAAURIRIxQWEGE1FxIjLw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAC/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAAwQREiExE//aAAwDAQACEQMRAD8AzW1hDihzUMfFWVvTDbZy4pA8qIFZjGuKY7RWsHA+K1qz3VNqgQm4LERxD8dp5x52OHS5zQFE5PYZwAPiituWocmj4uK+S3FJP3SZHU+GoyGzy17qjhJ+qWk2B522pmOcGG1kpSSpKhkZ67ykeSMHdcPXSIsG+Nv21ttxMtnmWgzwbSoEp/FJOgcZ8bxjski+RW47aWmErkAkrUVFSQfB7/260j8tEQ3q+bFG9Ego88xreoey25ITITh1Q7Y2MdN6qjh3m4pjJDcx1CueEDOUITxBwEnXXdFFVigkA+Q1Yq3RnSZcH5ry5ExZek9C4QB0GMAAAAeKQdeyP0A+qKK0Boakezuf/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40130844772_857dfe5479_z-1__l.jpg
 labels:
   - Bad Zurzach
   - beauty
@@ -25,17 +32,12 @@ labels:
   - vegane Deocreme
   - veganes Deo
   - Wellness
-type: Artikel
-typeName: Produkttest
-date: 2018-02-09T07:28:29.000Z
+focusKeyword: Pony Hütchen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "19473"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40130844772_857dfe5479_z-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40130844772_857dfe5479_z-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwP/xAAmEAABAwQBAwQDAAAAAAAAAAABAgMEAAURIRIxQWEGE1FxIjLw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAC/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAAwQREiExE//aAAwDAQACEQMRAD8AzW1hDihzUMfFWVvTDbZy4pA8qIFZjGuKY7RWsHA+K1qz3VNqgQm4LERxD8dp5x52OHS5zQFE5PYZwAPiituWocmj4uK+S3FJP3SZHU+GoyGzy17qjhJ+qWk2B522pmOcGG1kpSSpKhkZ67ykeSMHdcPXSIsG+Nv21ttxMtnmWgzwbSoEp/FJOgcZ8bxjski+RW47aWmErkAkrUVFSQfB7/260j8tEQ3q+bFG9Ego88xreoey25ITITh1Q7Y2MdN6qjh3m4pjJDcx1CueEDOUITxBwEnXXdFFVigkA+Q1Yq3RnSZcH5ry5ExZek9C4QB0GMAAAAeKQdeyP0A+qKK0Boakezuf/9k=
 subTitle: Beauty-Lieblinge im neuen Kleid
   
 ---

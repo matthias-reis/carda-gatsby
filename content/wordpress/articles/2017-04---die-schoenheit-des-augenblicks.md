@@ -1,15 +1,22 @@
 ---
-title: Die Schönheit des Augenblicks
-seoTitle: Die Schönheit des Augenblicks - Vergänglichkeit gehört dazu
+date: 2017-04-16T17:08:05.000Z
 slug: vergaenglichkeit-des-augenblicks
 path: /2017/04/vergaenglichkeit-des-augenblicks/
-fileName: 2017-04---die-schoenheit-des-augenblicks.md
+type: Artikel
+typeName: Artikel
+title: Die Schönheit des Augenblicks
+seoTitle: Die Schönheit des Augenblicks - Vergänglichkeit gehört dazu
+ogTitle: Die Schönheit des Augenblicks - Vergänglichkeit gehört dazu
 description: Vergänglichkeit ist Schönheit - Schicht für Schicht stapelt sich
   hier das Leben. Auch Du wirst nicht mehr lange hier sein. Deine Tage sind
   gezählt.
 excerpt: Vergänglichkeit ist Schönheit - Schicht für Schicht stapelt sich hier
   das Leben. Auch Du wirst nicht mehr lange hier sein. Deine Tage sind gezählt.
-focusKeyword: Vergänglichkeit
+fileName: 2017-04---die-schoenheit-des-augenblicks.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33234406364_95da4daecf_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33234406364_95da4daecf_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKxAAAgIBAwMCBAcAAAAAAAAAAQIDBBEAEiEFBkFRYRMiMTIHFkJxgZGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwEAAv/EAB0RAAICAQUAAAAAAAAAAAAAAAABAhEhAxIiMVH/2gAMAwEAAhEDEQA/AMXk6NZS/L06yEhsvPKHkdhhSPk59OV/fnU1vtm1RV2sxwWI8bSn3eeDkAedad3ZUq3e/eu2o4tsVCnEY468fJbauTjySVxn30s35bdWCKercjswWa7vC+4MC6oGKjBHqeDyMedRx8NuK7o3S4Py+hgiy0ZLTrNwfiqeSQOMD9Pj+Ro1adgGO50K+jNhhISroAeGAbz6EnRruHJWWxgodQqN311aFymbRjEIxnciOuQPb/ONQntGSCJuodUklPUYb7vHEXAjlX4uA2Mckr59tUFGiJe4WsJMVnghZ65+45ZiTxnnAA+umK3bv2oK1qOfqC3967gzhkwMbtpIIAZfrj1P00ih2GmsWJv4fWFq2rMbsqsq5UyDduzuBwB64H9aNcNS9ju2tPCsUcdncrGE5Ukn5gPfOjRacasZSjFZVn//2Q==
+ogImage: null
 labels:
   - Altona
   - Gentrifizierung
@@ -24,17 +31,12 @@ labels:
   - St. Pauli
   - Streetart
   - tapetenkleister
-type: Artikel
-typeName: Artikel
-date: 2017-04-16T17:08:05.000Z
+focusKeyword: Vergänglichkeit
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16423"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33234406364_95da4daecf_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33234406364_95da4daecf_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKxAAAgIBAwMCBAcAAAAAAAAAAQIDBBEAEiEFBkFRYRMiMTIHFkJxgZGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwEAAv/EAB0RAAICAQUAAAAAAAAAAAAAAAABAhEhAxIiMVH/2gAMAwEAAhEDEQA/AMXk6NZS/L06yEhsvPKHkdhhSPk59OV/fnU1vtm1RV2sxwWI8bSn3eeDkAedad3ZUq3e/eu2o4tsVCnEY468fJbauTjySVxn30s35bdWCKercjswWa7vC+4MC6oGKjBHqeDyMedRx8NuK7o3S4Py+hgiy0ZLTrNwfiqeSQOMD9Pj+Ro1adgGO50K+jNhhISroAeGAbz6EnRruHJWWxgodQqN311aFymbRjEIxnciOuQPb/ONQntGSCJuodUklPUYb7vHEXAjlX4uA2Mckr59tUFGiJe4WsJMVnghZ65+45ZiTxnnAA+umK3bv2oK1qOfqC3967gzhkwMbtpIIAZfrj1P00ih2GmsWJv4fWFq2rMbsqsq5UyDduzuBwB64H9aNcNS9ju2tPCsUcdncrGE5Ukn5gPfOjRacasZSjFZVn//2Q==
 subTitle: Vergänglichkeit gehört dazu
   
 ---

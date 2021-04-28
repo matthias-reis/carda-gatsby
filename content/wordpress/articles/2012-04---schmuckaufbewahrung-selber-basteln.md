@@ -1,15 +1,22 @@
 ---
-title: Schmuckaufbewahrung selber basteln
-seoTitle: Schmuckaufbewahrung selber basteln
+date: 2012-04-18T10:28:03.000Z
 slug: schmuckaufbewahrung-selber-basteln
 path: /2012/04/schmuckaufbewahrung-selber-basteln/
-fileName: 2012-04---schmuckaufbewahrung-selber-basteln.md
+type: Artikel
+typeName: Artikel
+title: Schmuckaufbewahrung selber basteln
+seoTitle: Schmuckaufbewahrung selber basteln
+ogTitle: Schmuckaufbewahrung selber basteln
 description: Schmuckaufbewahrung selber basteln - Ich habe drei Anleitungen für
   Euch, wie Ihr Eure ganz einfach Schmuckaufbewahrung selber basteln könnt.
 excerpt: Heute möchte ich Euch ein paar kreative Möglichkeiten der
   Schmuckaufbewahrung vorstellen. Ein paar Freundinnen von mir haben sie
   entwickelt.
-focusKeyword: Schmuckaufbewahrung
+fileName: 2012-04---schmuckaufbewahrung-selber-basteln.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_04_img_8927.jpeg__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_04_img_8927.jpeg__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwID/8QAKhAAAQQBAwMDAwUAAAAAAAAAAQIDBBEFAAYhEiIxE0FRBxQjFWGBkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQD/xAAeEQACAgICAwAAAAAAAAAAAAAAAQIRAyEEEkFh0f/aAAwDAQACEQMRAD8AoojuEm5WVgVTVwMuVpdjplslpuQnhSfTJrrF88G/i9dMbLzLqno8uI0FeoSlaHErZKaPkHkiz4oHx8agX9jbo3I/PEmQ7Ixb7lxS9OUhuOUr5tqjYrgdPINa1j6Xx52S2ZPw24HkZCTjpTmPL5CqdSG0qR1c2a66580L1iNEnurakZrCzSFQ3n2mSk+i4FqaNdpIHgWKv++dR2G2w+/j2p2CkTWJTcdDpdQpag0VNi1WVUD3H/TXxsETac/bu1M63MzDkvHllAjw7Km49FPWQogK7iT2+KrydKdoj7j6f49XUICoMZKXfTXxKUtkBFkjzYoj2Hg86jQo6WhXn9z5SE0zFguoZQ8S4tfQCvn2B8AfxpWnc03EwY0Vg9H6m+VSls/jLiikpUs+e4hKeRXjRo0m6HmxxU2l4G2FUX8ekj8bZe6ChHHcSbUPYWUk+PeteW1ozcnbEZCU0lxpuw533SLHx+w4rxo0aORvrYePFXXv4f/Z
+ogImage: null
 labels:
   - Badezimmer
   - Bastelei
@@ -31,18 +38,13 @@ labels:
   - Schönes
   - Tand
   - Zaz
-type: Artikel
-typeName: Artikel
-date: 2012-04-18T10:28:03.000Z
+focusKeyword: Schmuckaufbewahrung
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "2978"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_04_img_8927.jpeg__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_04_img_8927.jpeg__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwID/8QAKhAAAQQBAwMDAwUAAAAAAAAAAQIDBBEFAAYhEiIxE0FRBxQjFWGBkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQD/xAAeEQACAgICAwAAAAAAAAAAAAAAAQIRAyEEEkFh0f/aAAwDAQACEQMRAD8AoojuEm5WVgVTVwMuVpdjplslpuQnhSfTJrrF88G/i9dMbLzLqno8uI0FeoSlaHErZKaPkHkiz4oHx8agX9jbo3I/PEmQ7Ixb7lxS9OUhuOUr5tqjYrgdPINa1j6Xx52S2ZPw24HkZCTjpTmPL5CqdSG0qR1c2a66580L1iNEnurakZrCzSFQ3n2mSk+i4FqaNdpIHgWKv++dR2G2w+/j2p2CkTWJTcdDpdQpag0VNi1WVUD3H/TXxsETac/bu1M63MzDkvHllAjw7Km49FPWQogK7iT2+KrydKdoj7j6f49XUICoMZKXfTXxKUtkBFkjzYoj2Hg86jQo6WhXn9z5SE0zFguoZQ8S4tfQCvn2B8AfxpWnc03EwY0Vg9H6m+VSls/jLiikpUs+e4hKeRXjRo0m6HmxxU2l4G2FUX8ekj8bZe6ChHHcSbUPYWUk+PeteW1ozcnbEZCU0lxpuw533SLHx+w4rxo0aORvrYePFXXv4f/Z
 subTitle: Bastelstunde
   
 ---

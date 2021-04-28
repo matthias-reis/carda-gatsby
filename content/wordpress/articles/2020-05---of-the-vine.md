@@ -1,16 +1,23 @@
 ---
-title: Of the Vine
-seoTitle: Of the Vine über ihr neues Album "Left Alone" - Interview
+date: 2020-05-28T11:17:45.000Z
 slug: of-the-vine
 path: /2020/05/of-the-vine/
-fileName: 2020-05---of-the-vine.md
+type: Artikel
+typeName: Interview
+title: Of the Vine
+seoTitle: Of the Vine über ihr neues Album "Left Alone" - Interview
+ogTitle: Of the Vine über ihr neues Album "Left Alone" - Interview
 description: Of the Vine sind eine von mir hoch geschätzte Post-Rock Band. Ich
   hatte die Gelegenheit, mit Gitarrist Samuel über das neue Album "Left Alone"
   zur reden.
 excerpt: English & German - Of the Vine sind eine von mir hoch geschätzte
   Post-Rock Band. Ich hatte die Gelegenheit, mit Gitarrist Samuel über das neue
   Album "Left Alone" zur reden.
-focusKeyword: Of The Vine
+fileName: 2020-05---of-the-vine.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECAwQGB//EACUQAAIBAwQCAgMBAAAAAAAAAAECAwAEEQUSITETQQZRMmFxof/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOQafpl1d2lxPAjtDAcFnYpk8naM4ycDPFP0jRZ9UmkBeOBI8Zeb8RnrjOSf0ATyOKuaLrscUMFkyhbe2kklG9fJ5pW4XI4OAoHRHRqprN7YSWMZ0xhBJASpUnO9S2cj2pzk+++60y0HxG+l0qz2JJbSpHd+Yq4YMAVaMlAPeMtg89cUnyTVbjWNMvUvGslKSB4lSUvIQCVwc9Z799eqx91qkt14POVUxJsV4gFPZ7+++/8Aao3Lgz7w7Nu53N2CTzQEu4XLqXG5GxuXvI+jUbklssc80UVFMxljip4xGYwsiPuY8N1j+fdFFB//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine-fb.png__l.jpg
 labels:
   - Band
   - Bands
@@ -23,17 +30,12 @@ labels:
   - Interviews
   - Of the Vine
   - Post-Rock
-type: Artikel
-typeName: Interview
-date: 2020-05-28T11:17:45.000Z
+focusKeyword: Of The Vine
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29769"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECAwQGB//EACUQAAIBAwQCAgMBAAAAAAAAAAECAwAEEQUSITETQQZRMmFxof/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOQafpl1d2lxPAjtDAcFnYpk8naM4ycDPFP0jRZ9UmkBeOBI8Zeb8RnrjOSf0ATyOKuaLrscUMFkyhbe2kklG9fJ5pW4XI4OAoHRHRqprN7YSWMZ0xhBJASpUnO9S2cj2pzk+++60y0HxG+l0qz2JJbSpHd+Yq4YMAVaMlAPeMtg89cUnyTVbjWNMvUvGslKSB4lSUvIQCVwc9Z799eqx91qkt14POVUxJsV4gFPZ7+++/8Aao3Lgz7w7Nu53N2CTzQEu4XLqXG5GxuXvI+jUbklssc80UVFMxljip4xGYwsiPuY8N1j+fdFFB//2Q==
 subTitle: '"Auf der Bühne leben wir unsere Kindheitsträume"'
   
 ---

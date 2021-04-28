@@ -1,16 +1,23 @@
 ---
-title: Bierbrot aus dem Römertopf
-seoTitle: Bierbrot aus dem Römertopf - "This looks fuckin' awesome!"
+date: 2017-05-11T14:34:32.000Z
 slug: vollkornbrot-aus-dem-roemertopf
 path: /2017/05/vollkornbrot-aus-dem-roemertopf/
-fileName: 2017-05---bierbrot-aus-dem-roemertopf.md
+type: Artikel
+typeName: Rezept
+title: Bierbrot aus dem Römertopf
+seoTitle: Bierbrot aus dem Römertopf - "This looks fuckin' awesome!"
+ogTitle: Bierbrot aus dem Römertopf - "This looks fuckin' awesome!"
 description: Wollt Ihr wissen, wie Ihr das Brot für Euer nächstes Picknick so
   richtig schön kross hinbekommt? Römertopf heißt das Zauberwort! Hier kommt
   mein Rezept!
 excerpt: Wollt Ihr wissen, wie Ihr das Brot für Euer nächstes Picknick so
   richtig schön kross hinbekommt? Römertopf heißt das Zauberwort! Hier kommt
   mein Rezept!
-focusKeyword: Römertopf
+fileName: 2017-05---bierbrot-aus-dem-roemertopf.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34432722072_f0db07cb1d_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34432722072_f0db07cb1d_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAP/xAArEAABAwMDAgYBBQAAAAAAAAABAgMEAAURBhIxIUEHExRRYYFCIiNxctH/xAAYAQACAwAAAAAAAAAAAAAAAAAABAECBf/EACMRAAEEAgEDBQAAAAAAAAAAAAEAAgMEESEFEiKBIzFBUWH/2gAMAwEAAhEDEQA/AM3iNqeTp1IZgECVKSmQ66U7vJTt2gJHGSQo9ePapSz2vXup4yJ0RE5cVzqh+VMLKV/1BPH8DFO/F+1SLpJdeiNqcS7EaWjp2GQR/tUFu1w0/bmPTsNoksNhn0yd+9IAwUqG4J2jsSDmk7Exc89ScqV2xQtEY+B5UPNb1tphkypD6lR0ZKlRp6XwkdyU5zj6q40ldpGpLLIL2xqUhKFlbaAEvIGADj8SMDjnNYtQ6sjptS0uNjzC2W0tqaQguE8BKUD59/emugYQttjaXI/aJiYUMd8g1FadzZAB9ou12S13l42ASPxNGgDEZbUlJLDBWFY6lReIJ+88fFLbnp+w3X9dxtLLjoOA42otrH2OtFFPXImadjayOGsyn0i7tA9lki2HT1j3zIFmbMhCSoOSHluq6exPFdHbu9Mhzn1pSlEaQwAgfkCScH46dqKKKUbc9WNqvN2ZQWxB3aQcjwv/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34432722072_f0db07cb1d_k__l.jpg
 labels:
   - backen
   - Backen mit dem Römertopf
@@ -26,17 +33,12 @@ labels:
   - Vegane Rezepte
   - veganes Brot
   - Vollkorn
-type: Artikel
-typeName: Rezept
-date: 2017-05-11T14:34:32.000Z
+focusKeyword: Römertopf
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16565"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34432722072_f0db07cb1d_k__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34432722072_f0db07cb1d_k__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAP/xAArEAABAwMDAgYBBQAAAAAAAAABAgMEAAURBhIxIUEHExRRYYFCIiNxctH/xAAYAQACAwAAAAAAAAAAAAAAAAAABAECBf/EACMRAAEEAgEDBQAAAAAAAAAAAAEAAgMEESEFEiKBIzFBUWH/2gAMAwEAAhEDEQA/AM3iNqeTp1IZgECVKSmQ66U7vJTt2gJHGSQo9ePapSz2vXup4yJ0RE5cVzqh+VMLKV/1BPH8DFO/F+1SLpJdeiNqcS7EaWjp2GQR/tUFu1w0/bmPTsNoksNhn0yd+9IAwUqG4J2jsSDmk7Exc89ScqV2xQtEY+B5UPNb1tphkypD6lR0ZKlRp6XwkdyU5zj6q40ldpGpLLIL2xqUhKFlbaAEvIGADj8SMDjnNYtQ6sjptS0uNjzC2W0tqaQguE8BKUD59/emugYQttjaXI/aJiYUMd8g1FadzZAB9ou12S13l42ASPxNGgDEZbUlJLDBWFY6lReIJ+88fFLbnp+w3X9dxtLLjoOA42otrH2OtFFPXImadjayOGsyn0i7tA9lki2HT1j3zIFmbMhCSoOSHluq6exPFdHbu9Mhzn1pSlEaQwAgfkCScH46dqKKKUbc9WNqvN2ZQWxB3aQcjwv/2Q==
 subTitle: "\"This looks fuckin' awesome!\"..."
   
 ---

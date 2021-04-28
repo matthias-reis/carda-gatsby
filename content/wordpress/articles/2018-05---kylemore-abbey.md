@@ -1,14 +1,21 @@
 ---
-title: Kylemore Abbey
-seoTitle: Kylemore Abbey - Abtei und verwunschener Garten
+date: 2018-05-25T05:49:24.000Z
 slug: kylemore-abbey
 path: /2018/05/kylemore-abbey/
-fileName: 2018-05---kylemore-abbey.md
+type: Galerie
+typeName: Galerie
+title: Kylemore Abbey
+seoTitle: Kylemore Abbey - Abtei und verwunschener Garten
+ogTitle: Kylemore Abbey - Abtei und verwunschener Garten
 description: Hinter den Toren von Kylemore Abbey befindet sich einer der
   schönsten verwunschenen Gärten der Welt. Wir haben ihn besucht.
 excerpt: Hinter den Toren von Kylemore Abbey befindet sich einer der schönsten
   verwunschenen Gärten der Welt. Wir haben ihn besucht.
-focusKeyword: Kylemore Abbey
+fileName: 2018-05---kylemore-abbey.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_26393251528_d0bebfde48_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_26393251528_d0bebfde48_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYE/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBAURABIhEzFBBhRRFSIyYXGRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAMBBP/EACQRAAIBAwMDBQAAAAAAAAAAAAECIQADERIxUQRBcWGBobHx/9oADAMBAAIRAxEAPwBS+m7VSpDUR18vTdNiQMGLhWYZZuPGMcH5/WmRS+nbRV0tVHHUi3z0rr0pblDvqYzsYOo2EKyEkHB7dwM6UlnKwXShcwvUQSyhnRXKrKoIPccg5H86ZUV1W60clVDUH3jRl43lXiEqfuXaeCe5B0GGJExVZFIRrjQY8Rx5JjNVNNaKSouUVLHTwVKdItJJJPvWQbvyYg5jbI4/R+NV9w9PQ1stO9unit4beT7h923ZnPTwNzg4A7f3rWVcFXWyUVtlrpet7EqqI6RDcoDbQW4BZcsR5JwME6yt6kuFHTx2yanYSUcjHbIuxoihIYEZ7g/5qvcAIIOfype6ZbQ1Wn1A7c4nf49q47NcpRQ1Fdb1SkWSOSEwbRIgGAMgMOD5z3zqzvd5+mW+30iUVLLTXB5DKrrlkYeUbuuSMn57aNGgukrcXHfP1RqxwJqITLcbzBBUK7iekVoy8hYQsyBsgeR4xpe3O71d0mk68rqyOQCrHjJ5788nnk6NGtFpQUDHemSFj1r/2Q==
+ogImage: null
 labels:
   - Britische Inseln
   - Fernweh
@@ -22,17 +29,12 @@ labels:
   - Kylemore Castle
   - Obstgarten
   - Schlossgarten
-type: Galerie
-typeName: Galerie
-date: 2018-05-25T05:49:24.000Z
+focusKeyword: Kylemore Abbey
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "19860"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_26393251528_d0bebfde48_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_26393251528_d0bebfde48_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYE/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBAURABIhEzFBBhRRFSIyYXGRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAMBBP/EACQRAAIBAwMDBQAAAAAAAAAAAAECIQADERIxUQRBcWGBobHx/9oADAMBAAIRAxEAPwBS+m7VSpDUR18vTdNiQMGLhWYZZuPGMcH5/WmRS+nbRV0tVHHUi3z0rr0pblDvqYzsYOo2EKyEkHB7dwM6UlnKwXShcwvUQSyhnRXKrKoIPccg5H86ZUV1W60clVDUH3jRl43lXiEqfuXaeCe5B0GGJExVZFIRrjQY8Rx5JjNVNNaKSouUVLHTwVKdItJJJPvWQbvyYg5jbI4/R+NV9w9PQ1stO9unit4beT7h923ZnPTwNzg4A7f3rWVcFXWyUVtlrpet7EqqI6RDcoDbQW4BZcsR5JwME6yt6kuFHTx2yanYSUcjHbIuxoihIYEZ7g/5qvcAIIOfype6ZbQ1Wn1A7c4nf49q47NcpRQ1Fdb1SkWSOSEwbRIgGAMgMOD5z3zqzvd5+mW+30iUVLLTXB5DKrrlkYeUbuuSMn57aNGgukrcXHfP1RqxwJqITLcbzBBUK7iekVoy8hYQsyBsgeR4xpe3O71d0mk68rqyOQCrHjJ5788nnk6NGtFpQUDHemSFj1r/2Q==
 subTitle: Abtei und verschwunschener Garten
   
 ---

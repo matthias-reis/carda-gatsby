@@ -1,15 +1,22 @@
 ---
-title: FoPo aus Bremen
-seoTitle: FoPo aus Bremen rettet aussortierte Früchte - Ich habe getestet
+date: 2017-09-01T08:18:25.000Z
 slug: fopo-rettet-aussortierte-fruechte
 path: /2017/09/fopo-rettet-aussortierte-fruechte/
-fileName: 2017-09---fopo-aus-bremen.md
+type: Artikel
+typeName: Produkttest
+title: FoPo aus Bremen
+seoTitle: FoPo aus Bremen rettet aussortierte Früchte - Ich habe getestet
+ogTitle: FoPo aus Bremen rettet aussortierte Früchte - Ich habe getestet
 description: Die Gründer von FoPo retten aussortierte Früchte. Aus ihnen stellen
   sie leckere Produkte her. Ich habe sie getestet und habe auch für Euch welche!
 excerpt: Werbung - Die Gründer von FoPo retten aussortierte Früchte. Aus ihnen
   stellen sie leckere Produkte her. Ich habe sie getestet und habe auch für Euch
   welche!
-focusKeyword: FoPo
+fileName: 2017-09---fopo-aus-bremen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_36120796434_a5e06c5c5e_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_36120796434_a5e06c5c5e_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGA//EACkQAAIBAwMCBQUBAAAAAAAAAAECAwAEEQUSIQYxEzJBUXEVI2GRsdH/xAAYAQACAwAAAAAAAAAAAAAAAAADBgIEBf/EACMRAAECBgICAwAAAAAAAAAAAAECAwAEERIhQTFhBXEiUcH/2gAMAwEAAhEDEQA/AK3Q7Tlbq1RScbGjlGQAff8A2qKVpLSHx5obOXaA7oEzhfU598dvikvTuogR7Y4IvuALhiW/tZ6/rF1aloIrgeCc4EQ2gjtjPf8AWKDNPlkX63+RKXbDhpuNuptNa5txbWjGKd5hIkxOVxnPBHYVO6vERcrIcM4bPI9aoelNXnlTbPJvjRSkaMM4AX80pmkC3izPgRxMH5PB9hVSRbtveuJvNc66HUEfQAoJApTHvuIbReu9gmI0xAwiYqRN5T2z5acLq31GFGuITtVCwCvg/GcUUUOfeWHEo0ecCGHw8iw9LLdWn5A4NT9e4x0jqgW2swwR2QEaSOuBKeeCPUUt1nXp3ZZJFzGp4jVscZ+KKK1GUiziF9/Cqdx//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_09_36146929993_21f53f63dc_z__l.jpg
 labels:
   - Ananas
   - Apfel
@@ -30,18 +37,13 @@ labels:
   - Stevia
   - Thought For Food
   - Wasser sparen
-type: Artikel
-typeName: Produkttest
-date: 2017-09-01T08:18:25.000Z
+focusKeyword: FoPo
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <sub> (44:121)"
-thumbnailId: "17824"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_36120796434_a5e06c5c5e_k__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_36120796434_a5e06c5c5e_k__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGA//EACkQAAIBAwMCBQUBAAAAAAAAAAECAwAEEQUSIQYxEzJBUXEVI2GRsdH/xAAYAQACAwAAAAAAAAAAAAAAAAADBgIEBf/EACMRAAECBgICAwAAAAAAAAAAAAECAwAEERIhQTFhBXEiUcH/2gAMAwEAAhEDEQA/AK3Q7Tlbq1RScbGjlGQAff8A2qKVpLSHx5obOXaA7oEzhfU598dvikvTuogR7Y4IvuALhiW/tZ6/rF1aloIrgeCc4EQ2gjtjPf8AWKDNPlkX63+RKXbDhpuNuptNa5txbWjGKd5hIkxOVxnPBHYVO6vERcrIcM4bPI9aoelNXnlTbPJvjRSkaMM4AX80pmkC3izPgRxMH5PB9hVSRbtveuJvNc66HUEfQAoJApTHvuIbReu9gmI0xAwiYqRN5T2z5acLq31GFGuITtVCwCvg/GcUUUOfeWHEo0ecCGHw8iw9LLdWn5A4NT9e4x0jqgW2swwR2QEaSOuBKeeCPUUt1nXp3ZZJFzGp4jVscZ+KKK1GUiziF9/Cqdx//9k=
 subTitle: Trockenfrüchte fürs Klima
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: Vegatar Gründer Stanley
-seoTitle: Vegatar Gründer Stanley im Interview über veganes Leder
+date: 2015-12-16T16:57:08.000Z
 slug: vegatar-gruender-stanley-interview
 path: /2015/12/vegatar-gruender-stanley-interview/
-fileName: 2015-12---vegatar-gruender-stanley.md
+type: Artikel
+typeName: Interview
+title: Vegatar Gründer Stanley
+seoTitle: Vegatar Gründer Stanley im Interview über veganes Leder
+ogTitle: Vegatar Gründer Stanley im Interview über veganes Leder
 description: Vegatar Gründer Stanley betreibt sein Geschäft aus Überzeugung. Ich
   habe mich mit ihm über veganes Leder und sein Leben unterhalten.
 excerpt: Vegatar Gründer Stanley betreibt sein Geschäft aus Überzeugung. Ich
   habe mich mit ihm über veganes Leder und sein Leben unterhalten.
-focusKeyword: veganes Leder
+fileName: 2015-12---vegatar-gruender-stanley.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Vegatar-Gru%CC%88nder-Stanley__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Vegatar-Gru%CC%88nder-Stanley__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEGBwgDBAX/xAAnEAABAwQBBAEFAQAAAAAAAAABAgMEAAURIRIGB0FRMRUiUmGBYv/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAHBEBAAIDAQEBAAAAAAAAAAAAAQARAgMxBQbh/9oADAMBAAIRAxEAPwBq9vVW7qW/M2yVAMJcnIYcD3MFQBPFWQMZA1jzUzRu2drjONNvutB5w4Q2pYClH9DOT8VWqw2R9+chUl6YiOhQ5ONNn7PI3jRqQr79YF8s0i1u3Gcwt+O9Ilym1OFDzRKUKW4kBQASoazvHuh2+ltwaxYzV5+vPpUmcdtY2NCkPbWP6NNuDdLy7ykXC/rQ00FYbjLKWwPyWpZJOPWgP3T3nOOq6MVMVc5TS0KUVuuqI0kkH+azmsT9BttAui+/kc+RrKV61yU/t3Ud1tz3OJcbmy7jBU24E5A+Adb/ALXej9w+pEOFS7tcjrQL6eO/88cUUUCR4sxTOt7xKbdbkyFPMuDitotNpQr0SEoGSMfNaF87j9X3Wzm0S7g+IWFJUE8UlwHwVAbGvPs0UVRhi5XkXJktdn//2Q==
+ogImage: null
 labels:
   - Ananasleder
   - Eukalyptusleder
@@ -20,17 +27,12 @@ labels:
   - vegane Schuhe
   - veganes Leder
   - Vegatar
-type: Artikel
-typeName: Interview
-date: 2015-12-16T16:57:08.000Z
+focusKeyword: veganes Leder
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29126"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Vegatar-Gru%CC%88nder-Stanley__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Vegatar-Gru%CC%88nder-Stanley__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEGBwgDBAX/xAAnEAABAwQBBAEFAQAAAAAAAAABAgMEAAURIRIGB0FRMRUiUmGBYv/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAHBEBAAIDAQEBAAAAAAAAAAAAAQARAgMxBQbh/9oADAMBAAIRAxEAPwBq9vVW7qW/M2yVAMJcnIYcD3MFQBPFWQMZA1jzUzRu2drjONNvutB5w4Q2pYClH9DOT8VWqw2R9+chUl6YiOhQ5ONNn7PI3jRqQr79YF8s0i1u3Gcwt+O9Ilym1OFDzRKUKW4kBQASoazvHuh2+ltwaxYzV5+vPpUmcdtY2NCkPbWP6NNuDdLy7ykXC/rQ00FYbjLKWwPyWpZJOPWgP3T3nOOq6MVMVc5TS0KUVuuqI0kkH+azmsT9BttAui+/kc+RrKV61yU/t3Ud1tz3OJcbmy7jBU24E5A+Adb/ALXej9w+pEOFS7tcjrQL6eO/88cUUUCR4sxTOt7xKbdbkyFPMuDitotNpQr0SEoGSMfNaF87j9X3Wzm0S7g+IWFJUE8UlwHwVAbGvPs0UVRhi5XkXJktdn//2Q==
 subTitle: '"Vegan bedeutet Respekt vor dem Leben"'
   
 ---

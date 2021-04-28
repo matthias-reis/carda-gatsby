@@ -1,16 +1,23 @@
 ---
-title: Guinness ist vegan!
-seoTitle: Guinness ist vegan! Wir haben die Brauerei in Dublin besucht
+date: 2017-10-17T15:42:56.000Z
 slug: guinness-ist-vegan-brauerei-besuch
 path: /2017/10/guinness-ist-vegan-brauerei-besuch/
-fileName: 2017-10---guinness-ist-vegan.md
+type: Artikel
+typeName: Artikel
+title: Guinness ist vegan!
+seoTitle: Guinness ist vegan! Wir haben die Brauerei in Dublin besucht
+ogTitle: Guinness ist vegan! Wir haben die Brauerei in Dublin besucht
 description: "Heute habe ich ein paar Fakten über Guinness vorbereitet. Wir
   haben die Brauerei in Dublin besucht. Gute Nachricht: Guinness ist inzwischen
   wieder vegan!"
 excerpt: "Heute habe ich ein paar Fakten über Guinness vorbereitet. Wir haben
   die Brauerei in Dublin besucht. Gute Nachricht: Guinness ist inzwischen wieder
   vegan!"
-focusKeyword: Guinness
+fileName: 2017-10---guinness-ist-vegan.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_IMG_3560__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_IMG_3560__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBgcCCP/EACwQAAEDAgUCBQQDAAAAAAAAAAECAwQFEQAGEiExBxMUIkFCUTJhcYGRorH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AnoPR2kSu3Iq0yQ+7YeVtpCU/21HHXUfphQ6dlMO00hnRMYLxdaSVFsr0qHlAHuHIwlofXFM20SJRX/FBslLbkoELI5AsPje3rim5z6k1vNsuNTV9iLSvElKmYwUQ9p4Klnc25sLDAem4uW6FEgJiQoccMoKilIbQNiTsbJvYDYfjFL6gZVgros9TUOKVFlQTqaSbG3PGMEy51Gz1T4S4lOqr8tMdOgNPtIfKANhYqGq23zhnm7NuaKpeKuoSmYa1glu6WtaQNRSU/UQCNzxuMBmLdQXT3kmIGFBJ1IccYSVJJ55++GdNq8iXUUyp0gudpJCQsgBJVt5UjYevHxgwYBdVHkt1J9aLbr7if3viKPLLTTq0Ks65dJsPadz/ACf8wYMB/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_10_IMG_3560__l.jpg
 labels:
   - Bier
   - Britische Inseln
@@ -27,17 +34,12 @@ labels:
   - St. James Gate Brewery
   - Stout
   - veganes Bier
-type: Artikel
-typeName: Artikel
-date: 2017-10-17T15:42:56.000Z
+focusKeyword: Guinness
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "18122"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_IMG_3560__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_IMG_3560__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBgcCCP/EACwQAAEDAgUCBQQDAAAAAAAAAAECAwQFEQAGEiExBxMUIkFCUTJhcYGRorH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AnoPR2kSu3Iq0yQ+7YeVtpCU/21HHXUfphQ6dlMO00hnRMYLxdaSVFsr0qHlAHuHIwlofXFM20SJRX/FBslLbkoELI5AsPje3rim5z6k1vNsuNTV9iLSvElKmYwUQ9p4Klnc25sLDAem4uW6FEgJiQoccMoKilIbQNiTsbJvYDYfjFL6gZVgros9TUOKVFlQTqaSbG3PGMEy51Gz1T4S4lOqr8tMdOgNPtIfKANhYqGq23zhnm7NuaKpeKuoSmYa1glu6WtaQNRSU/UQCNzxuMBmLdQXT3kmIGFBJ1IccYSVJJ55++GdNq8iXUUyp0gudpJCQsgBJVt5UjYevHxgwYBdVHkt1J9aLbr7if3viKPLLTTq0Ks65dJsPadz/ACf8wYMB/9k=
 subTitle: Besuch der Guinness Brauerei in Dublin
   
 ---

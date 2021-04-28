@@ -1,15 +1,22 @@
 ---
-title: Produkte mit tierischen Inhalten kennzeichnen
-seoTitle: Produkte mit tierischen Inhalten kennzeichnen - Aktion von Foodwatch
+date: 2012-08-03T12:04:19.000Z
 slug: produkte-mit-tierischen-inhalten-kennzeichnen
 path: /2012/08/produkte-mit-tierischen-inhalten-kennzeichnen/
-fileName: 2012-08---produkte-mit-tierischen-inhalten-kennzeichnen.md
+type: Artikel
+typeName: Artikel
+title: Produkte mit tierischen Inhalten kennzeichnen
+seoTitle: Produkte mit tierischen Inhalten kennzeichnen - Aktion von Foodwatch
+ogTitle: Produkte mit tierischen Inhalten kennzeichnen - Aktion von Foodwatch
 description: Foodwatch hat eine Mitmach-Aktion ins Leben gerufen, damit Produkte
   mit tierischen Inhalten in Zukunft gekennzeichnet werden.
 excerpt: Food-Watch hat nun eine Mitmach-Aktion ins Leben gerufen, bei der man
   in einem Schreiben an die Bundesministerin für Ernährung, Landwirtschaft und
   Verbraucherschutz, Ilse Aigner, mitzeichnen kann.
-focusKeyword: Produkte mit tierischen Inhalten
+fileName: 2012-08---produkte-mit-tierischen-inhalten-kennzeichnen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mccartney__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mccartney__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMFBgcBAgT/xAAqEAABAwIEBgICAwAAAAAAAAABAgMEBREABhIhBxQxQVFhEyIVwSNCgf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAwIE/8QAHBEAAgIDAQEAAAAAAAAAAAAAAAECEQMSITFh/9oADAMBAAIRAxEAPwCvsicO5+aKRzsaQ3HgrcWCtxBIBQq229zf9YdZnDKVBniLUKghsHcLDerUk9FD7ecPPCnNBo+UIUaVT3HISUKeS60TcalqNzfbxtiRz6wahND621sslAbRHWShSB11XOyiT5sMc0tEvpXFj2flormFw7nO1BiD+WiNqW4f5ZDWtsG1+5FjtYDucZzDw+NHyxV6y/VI78qC/wAuGm2gGlWWlKlBSj1sbgAbd+mJu7JjzV8rFToZZJ5h9X0FgewJJJPk4Q0Umr5WzI8qEmUUsklaUhLpSEBVkqN9B+p3AxqCi7VdCcEkmuIp6n57rFIjMRIbVL+JhpCUfJCStR9knqcLy+IFdfZUkppragtR1txbK3sT/bp6wYMOyN0cUrOtbW0pgrhBsqtZMUD9+saOZqqi4b7Lkhaea0pUY6iykD2lJsf9wYMFuhuTP//Z
+ogImage: null
 labels:
   - Blumen essen
   - Ernährung
@@ -27,17 +34,12 @@ labels:
   - Vegetarier
   - vegetarisch
   - Vegetarismus
-type: Artikel
-typeName: Artikel
-date: 2012-08-03T12:04:19.000Z
+focusKeyword: Produkte mit tierischen Inhalten
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11703"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mccartney__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mccartney__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMFBgcBAgT/xAAqEAABAwIEBgICAwAAAAAAAAABAgMEBREABhIhBxQxQVFhEyIVwSNCgf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAwIE/8QAHBEAAgIDAQEAAAAAAAAAAAAAAAECEQMSITFh/9oADAMBAAIRAxEAPwCvsicO5+aKRzsaQ3HgrcWCtxBIBQq229zf9YdZnDKVBniLUKghsHcLDerUk9FD7ecPPCnNBo+UIUaVT3HISUKeS60TcalqNzfbxtiRz6wahND621sslAbRHWShSB11XOyiT5sMc0tEvpXFj2flormFw7nO1BiD+WiNqW4f5ZDWtsG1+5FjtYDucZzDw+NHyxV6y/VI78qC/wAuGm2gGlWWlKlBSj1sbgAbd+mJu7JjzV8rFToZZJ5h9X0FgewJJJPk4Q0Umr5WzI8qEmUUsklaUhLpSEBVkqN9B+p3AxqCi7VdCcEkmuIp6n57rFIjMRIbVL+JhpCUfJCStR9knqcLy+IFdfZUkppragtR1txbK3sT/bp6wYMOyN0cUrOtbW0pgrhBsqtZMUD9+saOZqqi4b7Lkhaea0pUY6iykD2lJsf9wYMFuhuTP//Z
 subTitle: Food-Watch ruft Mitmach-Aktion ins Leben
   
 ---

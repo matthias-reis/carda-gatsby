@@ -1,16 +1,23 @@
 ---
-title: Radio Rock Revolution
-seoTitle: Radio Rock Revolution - Radio Paradise aus Kalifornien sorgt für Furore
+date: 2018-01-14T14:57:08.000Z
 slug: radio-paradise
 path: /2018/01/radio-paradise/
-fileName: 2018-01---radio-rock-revolution.md
+type: Artikel
+typeName: Artikel
+title: Radio Rock Revolution
+seoTitle: Radio Rock Revolution - Radio Paradise aus Kalifornien sorgt für Furore
+ogTitle: Radio Rock Revolution - Radio Paradise aus Kalifornien sorgt für Furore
 description: "Ich rege mich ja gerne mal übers Radio auf. Doch nörgeln kann
   jeder. Heute möchte ich Euch mal einen ganz besonderen Radiosender empfehlen:
   Radio Paradise."
 excerpt: "Ich rege mich ja gerne mal übers Radio auf. Doch nörgeln kann jeder.
   Heute möchte ich Euch mal einen ganz besonderen Radiosender empfehlen: Radio
   Paradise."
-focusKeyword: Radio Paradise
+fileName: 2018-01---radio-rock-revolution.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_Radio-Paradise__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_Radio-Paradise__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgE/8QAKRAAAgIBAwIFBAMAAAAAAAAAAQIDEQQABTEGExIUIUFRBxYigUJh0f/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAgQF/8QAHhEAAwABBAMAAAAAAAAAAAAAAAECMQMEIVEUMkH/2gAMAwEAAhEDEQA/ALx3b6n9F7UzruvUm1KjDxxtFMJQy8EfjfqDyPijqAzfqN0LnZ8mHhbxj5UsYSSRomBRYmWzL4uCq8MOR7jWIoZou6B2DRPqikAk1X+amcLbpxgtlbVI2QysYplhsOh4orzR9f61JOpwL4r2Rofrvq3ZIhjPsWZj7hAJYzLPCwMTK0gTwhjz/ImuKHrzpHzc7bvurJ831bgLhYod1VGCpkIzHwxlCLDx0Qxuz+IA50obDNuGQ7wpPgvlRUo80nesk2AGF0RV2LHrqfwOj8feo8iTdtpGJmtK0k0zSOhlJsl1YWAv6o2NF7vUhunfXAfGi0kp7Erpsnyu5S2e6iIqv7qCGsA+2u3CjSM4vbRV78Eay0K7gMi2G+f3o0aVGGMWUW11EiQ7VlrEqoqRqFCigos8aVYZ5pA6ySyMrtCrBmJDAutg/N6NGs+fhao//9k=
+ogImage: null
 labels:
   - Alternative
   - Bands
@@ -38,17 +45,12 @@ labels:
   - Rock
   - Rock Radio
   - Rockmusik
-type: Artikel
-typeName: Artikel
-date: 2018-01-14T14:57:08.000Z
+focusKeyword: Radio Paradise
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "18942"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_Radio-Paradise__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_Radio-Paradise__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgE/8QAKRAAAgIBAwIFBAMAAAAAAAAAAQIDEQQABTEGExIUIUFRBxYigUJh0f/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAgQF/8QAHhEAAwABBAMAAAAAAAAAAAAAAAECMQMEIVEUMkH/2gAMAwEAAhEDEQA/ALx3b6n9F7UzruvUm1KjDxxtFMJQy8EfjfqDyPijqAzfqN0LnZ8mHhbxj5UsYSSRomBRYmWzL4uCq8MOR7jWIoZou6B2DRPqikAk1X+amcLbpxgtlbVI2QysYplhsOh4orzR9f61JOpwL4r2Rofrvq3ZIhjPsWZj7hAJYzLPCwMTK0gTwhjz/ImuKHrzpHzc7bvurJ831bgLhYod1VGCpkIzHwxlCLDx0Qxuz+IA50obDNuGQ7wpPgvlRUo80nesk2AGF0RV2LHrqfwOj8feo8iTdtpGJmtK0k0zSOhlJsl1YWAv6o2NF7vUhunfXAfGi0kp7Erpsnyu5S2e6iIqv7qCGsA+2u3CjSM4vbRV78Eay0K7gMi2G+f3o0aVGGMWUW11EiQ7VlrEqoqRqFCigos8aVYZ5pA6ySyMrtCrBmJDAutg/N6NGs+fhao//9k=
 subTitle: Internet-Radiosender zeigt, wie Musik geht
   
 ---

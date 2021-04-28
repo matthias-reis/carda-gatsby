@@ -1,14 +1,21 @@
 ---
-title: Plastikfrei einkaufen
-seoTitle: Plastikfrei einkaufen - 5 praktische Tipps für den Alltag
+date: 2020-07-13T11:31:33.000Z
 slug: plastikfrei-einkaufen
 path: /2020/07/plastikfrei-einkaufen/
-fileName: 2020-07---plastikfrei-einkaufen.md
+type: Artikel
+typeName: Artikel
+title: Plastikfrei einkaufen
+seoTitle: Plastikfrei einkaufen - 5 praktische Tipps für den Alltag
+ogTitle: Plastikfrei einkaufen - 5 praktische Tipps für den Alltag
 description: Plastikfrei einkaufen klingt schwierig? Ist es nicht! Mit diesen
   fünf Alltagstipps gelingt es ganz einfach - Less Waste für Einsteiger⋆innen
 excerpt: Plastikfrei einkaufen klingt schwierig? Ist es nicht! Mit diesen fünf
   Alltagstipps gelingt es ganz einfach - Less Waste für Einsteiger⋆innen
-focusKeyword: Plastikfrei
+fileName: 2020-07---plastikfrei-einkaufen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-02__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-02__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgABAwUE/8QAKBAAAgEDBAIBAwUAAAAAAAAAAQIDBAURAAYSITFBMgcU4RNRYYGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACARAAICAgEFAQAAAAAAAAAAAAECAAMEETESEyJxwdH/2gAMAwEAAhEDEQA/ANFNsq3TVCpDUyoXAJCHljrzhh/h13Lttuzw2qC0R3imFZSy8zNWTJmJWIJUKCDjHYXx3nXZ2vV2+Zp0icSzUy/qMrDHIkH8DWLNs24zXGSLcFPbBLLymd3okmcAt2rOGGcHoHB8jONQ25Nq66RuUJRUdhzrfv5Bm4dqRW4iot9bDcqLiGMsOC0frLKCes+x16ONDblQxcGPfI/1pb9SNsx2meO7WxIp6Bpvtmhow0QXAYFyQR7AyP3x50TuEiGd3pKeZqZ1By7Ywcd4z5Gq8bIa0eQ/Jn5NXasKjie603uoiqDUffPMXjMRSomYhlIwQVH4I062nu6cUM4vFxEtRByMdSSWIj6wpByej4Pk51atGxFIjK7WB5h7d+6mucYhgjJiHzJPzYDHLr+MedCq2rZYCC7KCPiTnGrVplSBF0Iq5y7bM//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_plastikfrei-einkaufen-fb.png__l.jpg
 labels:
   - einkaufen
   - Klima & Umweltschutz
@@ -16,17 +23,12 @@ labels:
   - ohne Plastik
   - plastikfrei
   - Zero Waste
-type: Artikel
-typeName: Artikel
-date: 2020-07-13T11:31:33.000Z
+focusKeyword: Plastikfrei
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30407"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-02__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-02__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgABAwUE/8QAKBAAAgEDBAIBAwUAAAAAAAAAAQIDBAURAAYSITFBMgcU4RNRYYGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACARAAICAgEFAQAAAAAAAAAAAAECAAMEETESEyJxwdH/2gAMAwEAAhEDEQA/ANFNsq3TVCpDUyoXAJCHljrzhh/h13Lttuzw2qC0R3imFZSy8zNWTJmJWIJUKCDjHYXx3nXZ2vV2+Zp0icSzUy/qMrDHIkH8DWLNs24zXGSLcFPbBLLymd3okmcAt2rOGGcHoHB8jONQ25Nq66RuUJRUdhzrfv5Bm4dqRW4iot9bDcqLiGMsOC0frLKCes+x16ONDblQxcGPfI/1pb9SNsx2meO7WxIp6Bpvtmhow0QXAYFyQR7AyP3x50TuEiGd3pKeZqZ1By7Ywcd4z5Gq8bIa0eQ/Jn5NXasKjie603uoiqDUffPMXjMRSomYhlIwQVH4I062nu6cUM4vFxEtRByMdSSWIj6wpByej4Pk51atGxFIjK7WB5h7d+6mucYhgjJiHzJPzYDHLr+MedCq2rZYCC7KCPiTnGrVplSBF0Iq5y7bM//Z
 subTitle: 5 Tipps für den Alltag
   
 ---

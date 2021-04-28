@@ -1,15 +1,22 @@
 ---
-title: Lahti Pelicans werden klimaneutral
-seoTitle: Lahti Pelicans werden klimaneutral – Eishockey fürs Klima
+date: 2021-01-23T05:00:14.000Z
 slug: lahti-pelicans-klimaneutral-eishockey
 path: /2021/01/lahti-pelicans-klimaneutral-eishockey/
-fileName: 2021-01---lahti-pelicans-werden-klimaneutral.md
+type: Artikel
+typeName: Artikel
+title: Lahti Pelicans werden klimaneutral
+seoTitle: Lahti Pelicans werden klimaneutral – Eishockey fürs Klima
+ogTitle: Lahti Pelicans werden klimaneutral – Eishockey fürs Klima
 description: Die Lahti Pelicans wollen der erste klimaneutrale Eishockey-Verein
   der Welt werden. Die Spieler kämpfen aktiv für die Umwelt.
 excerpt: Der finnische Eishockeyverein Lahti Pelicans möchte der erste
   klimaneutrale Eishockeyverein der Welt werden. Die Spieler kämpfen aktiv für
   die Umwelt.
-focusKeyword: Lahti Pelicans
+fileName: 2021-01---lahti-pelicans-werden-klimaneutral.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_lahti-pelicans-4__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_lahti-pelicans-4__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAArEAABAwMDBAECBwAAAAAAAAABAgMEAAURBhIhBxMxQRRRYSIjMjRxkaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHBEAAgMBAAMAAAAAAAAAAAAAAQIAERIDITHR/9oADAMBAAIRAxEAPwDobclrCEAFZ9YpT6mT7hatHTJtrkfGuK3G2W31I3hnceVAEgZwCAT4J91s3a7W2w2SVc5rg7LCCo+t6vSB9ycCpRq6FeNTafDki8riSnEfIZjKVhlLgPCdpPI9eD9aWTUh+wVgoF/I3dI7pe71p+Ub3ckTZLMkpS+GwCpCkhQyRwcEn6cYyKe+26EBPeT454qG9PzqDR9jclXC5x5iP3cuElP5bQwBtT98JPI/2roFR3G0ltTamlAKSfRB5BoyajXsGYqBVSadbPkJ0Um4wm4ss2yS3KUmTkNhP6CrjHjcD/GfJpFl6gNxs017TjJmTILcVyVEWsArK2RvIyMnaQRjjOPdFFasJkaU6Hswg3RcPRL10v2Le086GlRlJGdi/wAIUoJTkHOMA5P91V9AzFv6HsqlqU6Ex+2FqzlQQopB5GfAFFFCSR5bU//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_lahti-pelicans-fb.png__l.jpg
 labels:
   - Eishockey
   - Finnland
@@ -22,17 +29,12 @@ labels:
   - Lahti
   - Lahti Pelicans
   - Skandinavien
-type: Artikel
-typeName: Artikel
-date: 2021-01-23T05:00:14.000Z
+focusKeyword: Lahti Pelicans
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32474"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_lahti-pelicans-4__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_lahti-pelicans-4__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAArEAABAwMDBAECBwAAAAAAAAABAgMEAAURBhIhBxMxQRRRYSIjMjRxkaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHBEAAgMBAAMAAAAAAAAAAAAAAQIAERIDITHR/9oADAMBAAIRAxEAPwDobclrCEAFZ9YpT6mT7hatHTJtrkfGuK3G2W31I3hnceVAEgZwCAT4J91s3a7W2w2SVc5rg7LCCo+t6vSB9ycCpRq6FeNTafDki8riSnEfIZjKVhlLgPCdpPI9eD9aWTUh+wVgoF/I3dI7pe71p+Ub3ckTZLMkpS+GwCpCkhQyRwcEn6cYyKe+26EBPeT454qG9PzqDR9jclXC5x5iP3cuElP5bQwBtT98JPI/2roFR3G0ltTamlAKSfRB5BoyajXsGYqBVSadbPkJ0Um4wm4ss2yS3KUmTkNhP6CrjHjcD/GfJpFl6gNxs017TjJmTILcVyVEWsArK2RvIyMnaQRjjOPdFFasJkaU6Hswg3RcPRL10v2Le086GlRlJGdi/wAIUoJTkHOMA5P91V9AzFv6HsqlqU6Ex+2FqzlQQopB5GfAFFFCSR5bU//Z
 subTitle: Eishockey-Verein kämpft für das Klima
   
 ---

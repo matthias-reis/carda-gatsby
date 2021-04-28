@@ -1,15 +1,22 @@
 ---
-title: Banksy im Moco Amsterdam
-seoTitle: Banksy im Moco in Amsterdam - Sagenumwobene Streetart hautnah
+date: 2018-01-23T09:21:08.000Z
 slug: banksy-im-moco-amsterdam
 path: /2018/01/banksy-im-moco-amsterdam/
-fileName: 2018-01---banksy-im-moco-amsterdam.md
+type: Galerie
+typeName: Galerie
+title: Banksy im Moco Amsterdam
+seoTitle: Banksy im Moco in Amsterdam - Sagenumwobene Streetart hautnah
+ogTitle: Banksy im Moco in Amsterdam - Sagenumwobene Streetart hautnah
 description: Um keinen anderen Künstler ranken sich so viele Mythen, wie um
   Banksy. Wir hatten jetzt in Amsterdam die Gelegenheit seine Werke hautnah zu
   erleben.
 excerpt: Um keinen anderen Künstler ranken sich so viele Mythen, wie um Banksy.
   Wir hatten jetzt in Amsterdam die Gelegenheit seine Werke hautnah zu erleben.
-focusKeyword: Banksy
+fileName: 2018-01---banksy-im-moco-amsterdam.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39852061061_b19fb4d9b1_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39852061061_b19fb4d9b1_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMGBAf/xAApEAACAQQCAAUDBQAAAAAAAAABAgMEBRESACEGEyIxYQcUUSMyQVLR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABoRAQEBAAMBAAAAAAAAAAAAAAEAEQISQSH/2gAMAwEAAhEDEQA/AE2KyTTYEoZmY+mPXrX88rqSz09A+n2zF9XyEZVGQpIz79HkXfL3d7NJQzWvy44ftzNNvsgA3C9t/UA9jIyPbJOOborzcKymWep8U2imWID9ql9sgBvVt6FBJGTn2OccscdOzJ28KiqrRbqlXTz2idYlkkzJqEDa6kk4zktgY5E3bwlU0k0skkryKp9KoxyTn5/3menuU8FbW3I3G4VXlTR00usCRiaEg5UOPVqp11AOASPnlpW1FPUWanaWWKZJwskJkqEklY99lQxYHr+fzg8wAdX5MPlzm6Qr4hmqqWsmutMr1IdHhQSAhD6M5ONB3hRjvs5J4+n+m0s8LrV3ioro1X9KOPSnfoHpiUcH3wB18k8OHHAae5KbwXc6S4SVEdZVRxGRWVKqmE+RplshfQSGXroe/wA81+Ho3oap0uEA2JZzNqISXyDnyx0FK9cOHDIHb//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39852061061_b19fb4d9b1_z__l.jpg
 labels:
   - Amsterdam
   - Amsterdam2018
@@ -33,17 +40,12 @@ labels:
   - Straßenkunst
   - Streetart
   - Trip Hop
-type: Galerie
-typeName: Galerie
-date: 2018-01-23T09:21:08.000Z
+focusKeyword: Banksy
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "19019"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39852061061_b19fb4d9b1_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39852061061_b19fb4d9b1_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMGBAf/xAApEAACAQQCAAUDBQAAAAAAAAABAgMEBRESACEGEyIxYQcUUSMyQVLR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABoRAQEBAAMBAAAAAAAAAAAAAAEAEQISQSH/2gAMAwEAAhEDEQA/AE2KyTTYEoZmY+mPXrX88rqSz09A+n2zF9XyEZVGQpIz79HkXfL3d7NJQzWvy44ftzNNvsgA3C9t/UA9jIyPbJOOborzcKymWep8U2imWID9ql9sgBvVt6FBJGTn2OccscdOzJ28KiqrRbqlXTz2idYlkkzJqEDa6kk4zktgY5E3bwlU0k0skkryKp9KoxyTn5/3menuU8FbW3I3G4VXlTR00usCRiaEg5UOPVqp11AOASPnlpW1FPUWanaWWKZJwskJkqEklY99lQxYHr+fzg8wAdX5MPlzm6Qr4hmqqWsmutMr1IdHhQSAhD6M5ONB3hRjvs5J4+n+m0s8LrV3ioro1X9KOPSnfoHpiUcH3wB18k8OHHAae5KbwXc6S4SVEdZVRxGRWVKqmE+RplshfQSGXroe/wA81+Ho3oap0uEA2JZzNqISXyDnyx0FK9cOHDIHb//Z
 subTitle: Sagenumwobene Streetart hautnah
   
 ---

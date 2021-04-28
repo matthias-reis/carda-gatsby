@@ -1,29 +1,31 @@
 ---
-title: Post-Hardcore Band Twins
-seoTitle: Post-Hardcore Band Twins - Interview
+date: 2020-03-24T07:00:31.000Z
 slug: post-hardcore-band-twins
 path: /2020/03/post-hardcore-band-twins/
-fileName: 2020-03---post-hardcore-band-twins.md
+type: Artikel
+typeName: Interview
+title: Post-Hardcore Band Twins
+seoTitle: Post-Hardcore Band Twins - Interview
+ogTitle: Post-Hardcore Band Twins - Interview
 description: Wer Bands wie Fugazi, Touché Amoré und Title Fight mag, wird sich
   mit der Musik der Post-Hardcore Band Twins wohl fühlen. Ich habe sie
   interviewt.
 excerpt: Wer Bands wie Fugazi, Touché Amoré und Title Fight mag, wird sich mit
   der Musik der Post-Hardcore Band Twins wohl fühlen. Ich habe sie interviewt.
-focusKeyword: Post-Hardcore
-labels:
-  - Bands
-  - Interviews
-type: Artikel
-typeName: Interview
-date: 2020-03-24T07:00:31.000Z
-status: publish
-isWerbung: false
-isAffiliate: false
-errors: {}
-thumbnailId: "28723"
+fileName: 2020-03---post-hardcore-band-twins.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_Design-ohne-Titel__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_Design-ohne-Titel__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcBBQIEBv/EACgQAAIBAwQCAQQDAQAAAAAAAAECAwQFEQAGEiETMUEHIjJhFFFxQv/EABkBAAEFAAAAAAAAAAAAAAAAAAQAAQIDBf/EACERAAICAQQCAwAAAAAAAAAAAAECAAMRBBIxYSEjQbHw/9oADAMBAAIRAxEAPwBo2S6yVcUVPXoaa4rHGZFdOKM5QEhTkjI76z8f1q9gFTxYR1Cxgd9ycQf80oqvetv2tUQ2j+etqSht6yS0aTmZjhQEQ8kBEoJB+0klR2P7m3fVeia/0DmsqKyGKkZJvDH4knl6xjJxjLHJxnpcfOgqarAwXmF2spUvxiMWodXV3SaJwjESN5RhMe8n4x+9LTd1RX3GeOO2VCWy2eSWGsulaxQKoA7RScsvsdA9/IB1o1++rXHaayPcCPHATyZY4y3mJXiEIVh0PWfWMnGetV+3d+2yrulHR7b2u9/vUeHSSomZYYQV4uIUcFliHIDH2/jn0dM2lff7BiJdSmzNZzFfviYpvO6RPTpS+FIIkpkfmsAWFBwDf9Aes/PvWewBS1FRPTSyHzNQ1EqKjAHmmHGf1xVjo0a0VO1FI6gvLMD85l3uuGnrNo3msaoDyUxp0jETKyktMfyI9dAn965j6aUdbVbkaW03OnoK6Cnk8JlIJlZgV4AEHOQTnAP+d6NGp3sSzZ/eBKdOgWtcd/Zn/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_03_twins-post-hardcore-fb.png__l.jpg
+labels:
+  - Bands
+  - Interviews
+focusKeyword: Post-Hardcore
+status: publish
+isWerbung: false
+isAffiliate: false
+language: de
+errors: {}
 subTitle: '"Mit Faschisten verhandelt man nicht"'
   
 ---

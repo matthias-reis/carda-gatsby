@@ -1,31 +1,33 @@
 ---
-title: Bahatika Gründerin Sheila
-seoTitle: Bahatika Gründerin Sheila im Interview - vegane Schuhe
+date: 2016-02-26T12:04:21.000Z
 slug: bahatika-gruenderin-sheila-interview
 path: /2016/02/bahatika-gruenderin-sheila-interview/
-fileName: 2016-02---bahatika-gruenderin-sheila.md
+type: Artikel
+typeName: Interview
+title: Bahatika Gründerin Sheila
+seoTitle: Bahatika Gründerin Sheila im Interview - vegane Schuhe
+ogTitle: Bahatika Gründerin Sheila im Interview - vegane Schuhe
 description: Bahatika steht für vegane Schuhe, die zu 100 Prozent fair
   hergestellt werden. Ich habe mich mit Gründerin Sheila unterhalten.
 excerpt: Bahatika steht für vegane Schuhe, die zu 100 Prozent fair hergestellt
   werden. Ich habe mich mit Gründerin Sheila unterhalten.
-focusKeyword: Bahatika
+fileName: 2016-02---bahatika-gruenderin-sheila.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_ASILIA_MARY_JANE_Green_1_1024x1024%402x__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_ASILIA_MARY_JANE_Green_1_1024x1024%402x__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgBBgcD/8QAJBAAAQMDBAIDAQAAAAAAAAAAAQIDEQAEBQYSITEHQSJRUmH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAwAC/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECIgMREjH/2gAMAwEAAhEDEQA/AGprEvJ2qNTW2rLxnB3gaaxgbW0yjgOrKN6g7+gQQI9T981tppXtVZi6TndQ3CEJDrl08AFqTylK9sEEgiAkc/3rmpZuuaenUXFOxbvHOrdQDW9lb5++U6xlEuJdZcMpaf7SG/yBtUmOuvfNbnSuahyV7bZzIXSGQm5s8q86hW5MIS2+opSAPZMA00SFbkAkFJImD2KcXWrBJpupNUfO+NsNmM4ck65ds73A5cWzSkhp8iCZBBInaJgiYooqgHS68dYW61MvMPKuzvdD67MOAMLd4+RTEmSkEiYJHVXSiisB/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2016_02_bahatika.png__l.jpg
 labels:
   - Bahatika
   - Fair Fashion
   - Interviews
   - vegane Schuhe
   - veganes Leder
-type: Artikel
-typeName: Interview
-date: 2016-02-26T12:04:21.000Z
+focusKeyword: Bahatika
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29202"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_ASILIA_MARY_JANE_Green_1_1024x1024%402x__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_ASILIA_MARY_JANE_Green_1_1024x1024%402x__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgBBgcD/8QAJBAAAQMDBAIDAQAAAAAAAAAAAQIDEQAEBQYSITEHQSJRUmH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAwAC/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECIgMREjH/2gAMAwEAAhEDEQA/AGprEvJ2qNTW2rLxnB3gaaxgbW0yjgOrKN6g7+gQQI9T981tppXtVZi6TndQ3CEJDrl08AFqTylK9sEEgiAkc/3rmpZuuaenUXFOxbvHOrdQDW9lb5++U6xlEuJdZcMpaf7SG/yBtUmOuvfNbnSuahyV7bZzIXSGQm5s8q86hW5MIS2+opSAPZMA00SFbkAkFJImD2KcXWrBJpupNUfO+NsNmM4ck65ds73A5cWzSkhp8iCZBBInaJgiYooqgHS68dYW61MvMPKuzvdD67MOAMLd4+RTEmSkEiYJHVXSiisB/9k=
 subTitle: Share Happiness
   
 ---

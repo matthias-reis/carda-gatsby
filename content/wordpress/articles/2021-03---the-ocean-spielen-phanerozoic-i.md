@@ -1,15 +1,22 @@
 ---
-title: The Ocean spielen "Phanerozoic I"
-seoTitle: The Ocean spielen "Phanerozoic I" – Jetzt zum Live-Event anmelden!
+date: 2021-03-17T13:01:45.000Z
 slug: the-ocean-phanerozoic-bremen-live
 path: /2021/03/the-ocean-phanerozoic-bremen-live/
-fileName: 2021-03---the-ocean-spielen-phanerozoic-i.md
+type: Artikel
+typeName: Artikel
+title: The Ocean spielen "Phanerozoic I"
+seoTitle: The Ocean spielen "Phanerozoic I" – Jetzt zum Live-Event anmelden!
+ogTitle: The Ocean spielen "Phanerozoic I" – Jetzt zum Live-Event anmelden!
 description: 'The Ocean spielen jetzt ihr sensationelle Album "Phanerozoic I"
   live. Das Konzert findet in Bremen statt. Der Clou: Wir können dabei sein!'
 excerpt: 'English & German – The Ocean spielen jetzt ihr sensationelle Album
   "Phanerozoic I" live. Das Konzert findet in Bremen statt. Der Clou: Wir können
   alle dabei sein!'
-focusKeyword: The Ocean
+fileName: 2021-03---the-ocean-spielen-phanerozoic-i.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwMECP/EACoQAAIBAwMDAwMFAAAAAAAAAAECAwQRIQAFEgYiMRMUQSMzUUJhcYGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOYNsplqJwGsQpBK57hfxjU+afpqnajnj6blQRTCWo41rlWiDMjoCR2m7x/k9v74rqCVo+XEkEjBHkHUo20bXOYKLdV3RqpSV9PtVAzG5NxkfBzoJVCvSkVF7Y9N1ksonV2X3hj5W9MFedifPIeB9wH9I1XW9rGakywhQkjMQoN+IvgX+bfnTnqKpoYK6ZaN61awN3GSRWS+L3uLnwP80k3aKRDHKy8YZy0kVjcEXzn+fjQakLKA4YZIwdP9irKCOukmqFoVTAVKxZmU3xy+n5tbIPm+jRoMnU9fts9atTtsVFCXjHKKkWQKri927wPN7WGMaT7nWCphpY1sBCpWw/rRo0H/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean-fb.png__l.jpg
 labels:
   - Bands
   - English & German
@@ -20,17 +27,12 @@ labels:
   - Post-Metal
   - Post-Rock
   - The Ocean
-type: Artikel
-typeName: Artikel
-date: 2021-03-17T13:01:45.000Z
+focusKeyword: The Ocean
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33468"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwMECP/EACoQAAIBAwMDAwMFAAAAAAAAAAECAwQRIQAFEgYiMRMUQSMzUUJhcYGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOYNsplqJwGsQpBK57hfxjU+afpqnajnj6blQRTCWo41rlWiDMjoCR2m7x/k9v74rqCVo+XEkEjBHkHUo20bXOYKLdV3RqpSV9PtVAzG5NxkfBzoJVCvSkVF7Y9N1ksonV2X3hj5W9MFedifPIeB9wH9I1XW9rGakywhQkjMQoN+IvgX+bfnTnqKpoYK6ZaN61awN3GSRWS+L3uLnwP80k3aKRDHKy8YZy0kVjcEXzn+fjQakLKA4YZIwdP9irKCOukmqFoVTAVKxZmU3xy+n5tbIPm+jRoMnU9fts9atTtsVFCXjHKKkWQKri927wPN7WGMaT7nWCphpY1sBCpWw/rRo0H/2Q==
 subTitle: Jetzt zum Live-Event anmelden
   
 ---

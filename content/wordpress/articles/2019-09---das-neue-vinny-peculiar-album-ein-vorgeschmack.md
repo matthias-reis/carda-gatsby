@@ -1,15 +1,22 @@
 ---
-title: Das neue Vinny Peculiar Album - ein Vorgeschmack
-seoTitle: Das neue Vinny Peculiar Album - ein Vorgeschmack
+date: 2019-09-13T11:31:56.000Z
 slug: das-neue-vinny-peculiar-album-ein-vorgeschmack
 path: /2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/
-fileName: 2019-09---das-neue-vinny-peculiar-album-ein-vorgeschmack.md
+type: Artikel
+typeName: Review
+title: Das neue Vinny Peculiar Album - ein Vorgeschmack
+seoTitle: Das neue Vinny Peculiar Album - ein Vorgeschmack
+ogTitle: Das neue Vinny Peculiar Album - ein Vorgeschmack
 description: Das neue Album von Vinny Peculiar erscheint am 28. Oktober. Ihr
   könnt jetzt hier im Blog schon mal reinhören - hier kommen die
   Vorauskopplungen.
 excerpt: Das neue Album von Vinny Peculiar erscheint am 28. Oktober. Ihr könnt
   jetzt hier im Blog schon mal reinhören - hier kommen die Vorauskopplungen.
-focusKeyword: Vinny Peculiar
+fileName: 2019-09---das-neue-vinny-peculiar-album-ein-vorgeschmack.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar.jpeg__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar.jpeg__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECAwQGCP/EACQQAAIBBAEEAgMAAAAAAAAAAAECEQADBCEFEjFBUQZxE2GB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOabcKjncgSPVaT5gmHiNxWDhWLdr8WJbuvd6WD3zdRH6mJ7xJAgDUd6yt1tKPHeo7hd1Dt1MI6QxkjXgGgutseT/aiZYSN/c96VWBtqfJFIzamghYyhBH6q/wAvz3I8tj4lnkMg3Ux0W2kjcAQJ9wKKKCozR9UxmoooP//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar-fb.png__l.jpg
 labels:
   - Bands
   - Music
@@ -21,17 +28,12 @@ labels:
   - Vorauskopplung
   - Vote For Me
   - While You Still Can
-type: Artikel
-typeName: Review
-date: 2019-09-13T11:31:56.000Z
+focusKeyword: Vinny Peculiar
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "26171"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar.jpeg__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar.jpeg__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECAwQGCP/EACQQAAIBBAEEAgMAAAAAAAAAAAECEQADBCEFEjFBUQZxE2GB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOabcKjncgSPVaT5gmHiNxWDhWLdr8WJbuvd6WD3zdRH6mJ7xJAgDUd6yt1tKPHeo7hd1Dt1MI6QxkjXgGgutseT/aiZYSN/c96VWBtqfJFIzamghYyhBH6q/wAvz3I8tj4lnkMg3Ux0W2kjcAQJ9wKKKCozR9UxmoooP//Z
 subTitle: '"Pop Music For Ugly People" und "Vote For Me"'
   
 ---

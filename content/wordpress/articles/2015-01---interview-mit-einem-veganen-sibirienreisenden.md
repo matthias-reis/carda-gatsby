@@ -1,14 +1,21 @@
 ---
-title: Interview mit einem veganen Sibirienreisenden
-seoTitle: '"Heimweh hatte ich noch nie!" - Interview mit Sebastian Frost'
+date: 2015-01-20T16:21:02.000Z
 slug: ich-hatte-noch-nie-heimweh
 path: /2015/01/ich-hatte-noch-nie-heimweh/
-fileName: 2015-01---interview-mit-einem-veganen-sibirienreisenden.md
+type: Artikel
+typeName: Interview
+title: Interview mit einem veganen Sibirienreisenden
+seoTitle: '"Heimweh hatte ich noch nie!" - Interview mit Sebastian Frost'
+ogTitle: '"Ich hatte noch nie Heimweh!" - Interview mit Sebastian Frost'
 description: Sebastian Frost reiste im Winter alleine durch Sibirien. "Heimweh
   hatte ich noch nie!" sagt er von sich. Veganes Essen zu finden war schwer.
 excerpt: Sebastian Frost reiste im Winter alleine durch Sibirien. "Heimweh hatte
   ich noch nie!" sagt er von sich. Veganes Essen zu finden war schwer.
-focusKeyword: Heimweh
+fileName: 2015-01---interview-mit-einem-veganen-sibirienreisenden.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-6__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-6__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcBBQIDBv/EACoQAAIBAgYAAwkAAAAAAAAAAAECAwARBAUGEiFREyIxJEFCYXGBkZKx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAHREAAwABBQEAAAAAAAAAAAAAAAECEQMEExQxYf/aAAwDAQACEQMRAD8AYeHKMm4EA9g1Luw9JG/JpXR6gxkEY9pjt144P8FVud6nz5Ew7ZMVaTxQZSTuBT3jnihdS/RfPLG480gPDt+1anxzhSLqfqKXj6izI3tKEueLqCTWKagzBn2mWNiODuUDnqqW1v4S9aTl8AEPmKsSfidrn7CrGOSJfS5b5miinZbCpYBZ0Vt27zG/J6qtkxASaQM19y3J6oorSCbP/9k=
+ogImage: null
 labels:
   - Couchsurfing
   - Deutscher Wetterdienst
@@ -34,17 +41,12 @@ labels:
   - Winter
   - Yakutien
   - Yakutsk
-type: Artikel
-typeName: Interview
-date: 2015-01-20T16:21:02.000Z
+focusKeyword: Heimweh
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "9384"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-6__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-6__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcBBQIDBv/EACoQAAIBAgYAAwkAAAAAAAAAAAECAwARBAUGEiFREyIxJEFCYXGBkZKx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAHREAAwABBQEAAAAAAAAAAAAAAAECEQMEExQxYf/aAAwDAQACEQMRAD8AYeHKMm4EA9g1Luw9JG/JpXR6gxkEY9pjt144P8FVud6nz5Ew7ZMVaTxQZSTuBT3jnihdS/RfPLG480gPDt+1anxzhSLqfqKXj6izI3tKEueLqCTWKagzBn2mWNiODuUDnqqW1v4S9aTl8AEPmKsSfidrn7CrGOSJfS5b5miinZbCpYBZ0Vt27zG/J6qtkxASaQM19y3J6oorSCbP/9k=
 subTitle: '"Ich hatte noch nie Heimweh!"'
   
 ---

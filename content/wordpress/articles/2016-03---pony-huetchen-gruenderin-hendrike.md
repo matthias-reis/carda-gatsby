@@ -1,16 +1,23 @@
 ---
-title: Pony Hütchen Gründerin Hendrike
-seoTitle: Pony Hütchen - Interview mit der Gründerin Hendrike
+date: 2016-03-14T12:13:59.000Z
 slug: pony-huetchen-interview-mit-der-gruenderin-hendrike
 path: /2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/
-fileName: 2016-03---pony-huetchen-gruenderin-hendrike.md
+type: Artikel
+typeName: Interview
+title: Pony Hütchen Gründerin Hendrike
+seoTitle: Pony Hütchen - Interview mit der Gründerin Hendrike
+ogTitle: Interview mit Hendrike von Pony Hütchen - Vegane Kosmetik
 description: Pony Hütchen steht für vegane, handgemachte Kosmetikprodukte ohne
   schädliche Inhaltsstoffe. Ich habe mit jetzt mit der Gründerin Hendrike
   unterhalten.
 excerpt: Pony Hütchen steht für vegane, handgemachte Kosmetikprodukte ohne
   schädliche Inhaltsstoffe. Ich habe mit jetzt mit der Gründerin Hendrike
   unterhalten.
-focusKeyword: Pony Hütchen
+fileName: 2016-03---pony-huetchen-gruenderin-hendrike.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Header-Ponyhu%CC%88tchen__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Header-Ponyhu%CC%88tchen__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUDBAECBgj/xAAlEAABBAEDBAIDAAAAAAAAAAABAgMEEQAFEiETMUFRYZEGFfD/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwEE/8QAIBEAAQMEAgMAAAAAAAAAAAAAAAEREgIDE0EhIjGx8P/aAAwDAQACEQMRAD8A9PKISmz2Hc+siafaeSS0reBYNAggjuD68ZiRKjIthx1reoEdMkEkebGIddityoTTaEBbAcLjjbzfU3euLHx9DCqro1GHEibGipC5chDaVGhuNV/e8s0CARyCLvOFlNvLdcfeK3lpaAaaDYFgqHFKKvV1xYv4x/8AjWufsUhqRs66itSQgEUkHyDyKsfeBLnaKl8D25068/ex4EijQSL78d80djtu11Eg12wwypzlGZomnSkFL8ewQUnatSLBFEGiMkgaTB05ZXCjIaWUhBULJoCgLJwwwxR3YeSpovwf/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Header-Ponyhu%CC%88tchen__l.jpg
 labels:
   - crueltyfree
   - Fair Fashion & Beauty
@@ -22,17 +29,12 @@ labels:
   - vegan beauty
   - vegane Kosmetik
   - Wellness
-type: Artikel
-typeName: Interview
-date: 2016-03-14T12:13:59.000Z
+focusKeyword: Pony Hütchen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "14284"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Header-Ponyhu%CC%88tchen__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Header-Ponyhu%CC%88tchen__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUDBAECBgj/xAAlEAABBAEDBAIDAAAAAAAAAAABAgMEEQAFEiETMUFRYZEGFfD/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwEE/8QAIBEAAQMEAgMAAAAAAAAAAAAAAAEREgIDE0EhIjGx8P/aAAwDAQACEQMRAD8A9PKISmz2Hc+siafaeSS0reBYNAggjuD68ZiRKjIthx1reoEdMkEkebGIddityoTTaEBbAcLjjbzfU3euLHx9DCqro1GHEibGipC5chDaVGhuNV/e8s0CARyCLvOFlNvLdcfeK3lpaAaaDYFgqHFKKvV1xYv4x/8AjWufsUhqRs66itSQgEUkHyDyKsfeBLnaKl8D25068/ex4EijQSL78d80djtu11Eg12wwypzlGZomnSkFL8ewQUnatSLBFEGiMkgaTB05ZXCjIaWUhBULJoCgLJwwwxR3YeSpovwf/9k=
 subTitle: „Für eine nachhaltige Zukunft müssen wir tun, was uns möglich ist!“
   
 ---

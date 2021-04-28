@@ -1,16 +1,23 @@
 ---
-title: Herbstliches Lieblingsoutfit
-seoTitle: Herbstliches Lieblingsoutfit - die Herbst-Winter-Kollektion von Living Crafts
+date: 2019-10-11T15:46:48.000Z
 slug: living-crafts
 path: /2019/10/living-crafts/
-fileName: 2019-10---herbstliches-lieblingsoutfit.md
+type: Artikel
+typeName: Produkttest
+title: Herbstliches Lieblingsoutfit
+seoTitle: Herbstliches Lieblingsoutfit - die Herbst-Winter-Kollektion von Living Crafts
+ogTitle: Herbstliches Lieblingsoutfit - die Herbst-Winter-Kollektion von Living Crafts
 description: Der Herbst ist da - Zeit für ein gemütliches Outfit aus kuscheliger
   Bio-Baumwolle. Ich habe mir die Herbst-Winter-Kollektion von Living Crafts
   angeschaut.
 excerpt: Werbung & Affiliate Links - Der Herbst ist da - Zeit für ein
   gemütliches Outfit aus kuscheliger Bio-Baumwolle. Ich habe mir die
   Herbst-Winter-Kollektion von Living Crafts angeschaut.
-focusKeyword: Living Crafts
+fileName: 2019-10---herbstliches-lieblingsoutfit.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-101__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-101__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAArEAABBAIBAwIEBwAAAAAAAAABAgMEEQUhAAYSQSIxEzJRcRQzYYGRweH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQEDBv/EACQRAAIBAwIGAwAAAAAAAAAAAAECAAMEEQUxEyEiUYGxYfDx/9oADAMBAAIRAxEAPwDCYkZmKs/jFGxtKG1WpX0+w5bdCMYzMS2MLk2Y8J6S6DEyHYT2rOvhOi/UlXg6KT+ljnE/gWs223LiS2YsrtDag9+UaF+4sp1e9+1cXsQp8dEqMpUZ9LbhSy4y6L7gfmT3VaT/ALwjT6FtdIyEEtjn8ff2Lbus9Fg5xjtNghYCXhW5McqciSGXexbSFdtitXW6Ozd1xTn46pXT0pqQ7JkFxxD7tK9RUQqtmyQNefrypw/UEvJ4BCZSWWJZT8Mg2ntcAApQI8ner+YcjOqsi7Ajpg00XAoFYCrBNavQtNDx5J4hVKlCoaediYbRZWAI2MzbAZuREaWptIILS0nu2a7T/dH9uJDOdW4iydC/fzw4c0Gn9KtjvKLpQWGZX4zKzV40huU+0pHqQUr0CKHt9iP4HEmVzmUXt2YtxDg0k+NXs+Tw4cHvwDdHx6kWgHBHn3P/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_10_Winter-Clearance-Sale.png__l.jpg
 labels:
   - Basicklamotten
   - Baumwolle
@@ -25,17 +32,12 @@ labels:
   - organic textiles
   - vegane Kleidung
   - Velour
-type: Artikel
-typeName: Produkttest
-date: 2019-10-11T15:46:48.000Z
+focusKeyword: Living Crafts
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "26494"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-101__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-101__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAArEAABBAIBAwIEBwAAAAAAAAABAgMEEQUhAAYSQSIxEzJRcRQzYYGRweH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQEDBv/EACQRAAIBAwIGAwAAAAAAAAAAAAECAAMEEQUxEyEiUYGxYfDx/9oADAMBAAIRAxEAPwDCYkZmKs/jFGxtKG1WpX0+w5bdCMYzMS2MLk2Y8J6S6DEyHYT2rOvhOi/UlXg6KT+ljnE/gWs223LiS2YsrtDag9+UaF+4sp1e9+1cXsQp8dEqMpUZ9LbhSy4y6L7gfmT3VaT/ALwjT6FtdIyEEtjn8ff2Lbus9Fg5xjtNghYCXhW5McqciSGXexbSFdtitXW6Ozd1xTn46pXT0pqQ7JkFxxD7tK9RUQqtmyQNefrypw/UEvJ4BCZSWWJZT8Mg2ntcAApQI8ner+YcjOqsi7Ajpg00XAoFYCrBNavQtNDx5J4hVKlCoaediYbRZWAI2MzbAZuREaWptIILS0nu2a7T/dH9uJDOdW4iydC/fzw4c0Gn9KtjvKLpQWGZX4zKzV40huU+0pHqQUr0CKHt9iP4HEmVzmUXt2YtxDg0k+NXs+Tw4cHvwDdHx6kWgHBHn3P/2Q==
 subTitle: Die Herbst-Winter-Kollektion von Living Crafts
   
 ---

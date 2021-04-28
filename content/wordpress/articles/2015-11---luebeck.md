@@ -1,14 +1,21 @@
 ---
-title: Lübeck
-seoTitle: Wunderschönes Lübeck - Fotostrecke
+date: 2015-11-03T15:33:50.000Z
 slug: wunderschoenes-luebeck
 path: /2015/11/wunderschoenes-luebeck/
-fileName: 2015-11---luebeck.md
+type: Galerie
+typeName: Galerie
+title: Lübeck
+seoTitle: Wunderschönes Lübeck - Fotostrecke
+ogTitle: Wunderschönes Lübeck - Fotostrecke
 description: Die schöne Hafenstadt Lübeck zeigte sich am Sonntag im gleißenden
   Sonnenlicht. Vom Aussichtsturm genossen wir einen genialen Blick.
 excerpt: Nachdem wir nach unserem Ausflug an den Timmendorfer Strand am Sonntag
   noch etwas Zeit hatten, machten wir uns auf den Weg nach Lübeck.
-focusKeyword: Lübeck
+fileName: 2015-11---luebeck.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22121137614_39fcf2f62e_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22121137614_39fcf2f62e_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEAwf/xAAqEAABAwMEAQMDBQAAAAAAAAABAgMEBRESAAYTITEiQVEUYYEHIzIzQv/EABcBAAMBAAAAAAAAAAAAAAAAAAIEBQP/xAAhEQACAgAGAwEAAAAAAAAAAAABAgARAwQFElFhITGxwf/aAAwDAQACEQMRAD8A9Pom3VohsNyQ4pEe6Epc7479Y/bWytRaZBpDUmW819CmRwKN/ShdwO/sLdn2sb6Ib739Cq0qno2lVJPEwpbr8mMgpyNsQgFeIHpKjkfx3oUqA5PltutNOOuYKKnElb6lZA5LISLAWtkMgbn5J1SxNQYtd1EcPJKFqo8kbx23C+piskyGWm0rcdhNB0C5N0n49Ivl/ED31l2m8zu2HUrxFxpMOQptbCk4qS0e2lEXPZT5I6uNFI9PXFmcst1lmKiMtp28huMbBzoJ/sV2lSvIuOwNYaRumHtevJq0aYmUoRBGnx0B5wyEi+Kwp0gBQ6AAGI0Cag2+7hvkl2+oModSkwIMFcNwNZEkHjQpdwT2VqSVE3t8eNKp9QvOgsKMx3nQgv8APMW4ly5T/k9J8nxq1anqAVJPH7GmYhgByfk57seapFdiLgQ40f8Aa5MWkYgkE9nzc9DR39XN2LlzWECMtKoy3GkFbuQwV7WxHuL/AJ1atMN4ZwOphhkkIT3P/9k=
+ogImage: null
 labels:
   - Ausflug
   - Ausflug
@@ -17,17 +24,12 @@ labels:
   - Ostsee
   - Schleswig-Holstein
   - Tor zum Norden
-type: Galerie
-typeName: Galerie
-date: 2015-11-03T15:33:50.000Z
+focusKeyword: Lübeck
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "13061"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22121137614_39fcf2f62e_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22121137614_39fcf2f62e_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEAwf/xAAqEAABAwMEAQMDBQAAAAAAAAABAgMEBRESAAYTITEiQVEUYYEHIzIzQv/EABcBAAMBAAAAAAAAAAAAAAAAAAIEBQP/xAAhEQACAgAGAwEAAAAAAAAAAAABAgARAwQFElFhITGxwf/aAAwDAQACEQMRAD8A9Pom3VohsNyQ4pEe6Epc7479Y/bWytRaZBpDUmW819CmRwKN/ShdwO/sLdn2sb6Ib739Cq0qno2lVJPEwpbr8mMgpyNsQgFeIHpKjkfx3oUqA5PltutNOOuYKKnElb6lZA5LISLAWtkMgbn5J1SxNQYtd1EcPJKFqo8kbx23C+piskyGWm0rcdhNB0C5N0n49Ivl/ED31l2m8zu2HUrxFxpMOQptbCk4qS0e2lEXPZT5I6uNFI9PXFmcst1lmKiMtp28huMbBzoJ/sV2lSvIuOwNYaRumHtevJq0aYmUoRBGnx0B5wyEi+Kwp0gBQ6AAGI0Cag2+7hvkl2+oModSkwIMFcNwNZEkHjQpdwT2VqSVE3t8eNKp9QvOgsKMx3nQgv8APMW4ly5T/k9J8nxq1anqAVJPH7GmYhgByfk57seapFdiLgQ40f8Aa5MWkYgkE9nzc9DR39XN2LlzWECMtKoy3GkFbuQwV7WxHuL/AJ1atMN4ZwOphhkkIT3P/9k=
 subTitle: Geschichte einer Hafenstadt
   
 ---

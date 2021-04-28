@@ -1,14 +1,21 @@
 ---
-title: Zum Abschied sag' ich ganz laut tschüss!
-seoTitle: Abschied von Wordpress
+date: 2015-03-04T11:31:39.000Z
 slug: zum-abschied-sag-ich-ganz-laut-tschuess
 path: /2015/03/zum-abschied-sag-ich-ganz-laut-tschuess/
-fileName: 2015-03---zum-abschied-sag-ich-ganz-laut-tschuess.md
+type: Artikel
+typeName: Artikel
+title: Zum Abschied sag' ich ganz laut tschüss!
+seoTitle: Abschied von Wordpress
+ogTitle: Abschied von Wordpress
 description: Zum Abschied sage ich tschüss, wie man das in Hamburg eben so tut -
   Doch es ist kein richtiger Abschied...
 excerpt: Nicht nur mein Blog zieht um, sondern auch Matze und ich. Vom Süden
   geht es in den hohen Norden.
-focusKeyword: Abschied
+fileName: 2015-03---zum-abschied-sag-ich-ganz-laut-tschuess.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_anne-1-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_anne-1-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAT/xAAtEAACAgEDAgMGBwAAAAAAAAABAgMEEQAFEgYhE0FhFCIxUXGBBxUjJKHB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAhEhAxL/2gAMAwEAAhEDEQA/ALr4ASIyFHcL34opYn7DWcer7FmS9c/MEstdFhGlsw5Zqp84lyceY7DGPnrU9ZAAn1Gp10RDWg2bdLu6LFExuT+I8oChMOc5z/est+VY+YM/CbqNOoaVjbpJWlmoIoV7B/cSJk+84yR8hkf7pm3SmEzjS3Hf2ur1psr12gSe7IUXgvFpUIx6dvh/GnbdUBjbTTvQzVMO1pA0YPloH1BQry0LMYrQWo5GLtFIAVZvXSXb3y027bTxkPCfxlKq3uBePJfqRx+PqdHN337hWYV1Usi5AJxkny1GUrxFYR86BCiX+sthprSFZtvh/VlaIKhUYIWMn1AGnPd5OMb8uxxqZeyWrrS+3W+c/YcweXEDvrk6Pv2aaTbbYsvNEhnVQ7ZwVkPw+x1SLyg9Fen/2Q==
+ogImage: null
 labels:
   - Abschied
   - Abschied von Wordpress
@@ -21,17 +28,12 @@ labels:
   - Umzug
   - vegan
   - verabschieden
-type: Artikel
-typeName: Artikel
-date: 2015-03-04T11:31:39.000Z
+focusKeyword: Abschied
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "10394"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_anne-1-2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_anne-1-2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAT/xAAtEAACAgEDAgMGBwAAAAAAAAABAgMEEQAFEgYhE0FhFCIxUXGBBxUjJKHB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAhEhAxL/2gAMAwEAAhEDEQA/ALr4ASIyFHcL34opYn7DWcer7FmS9c/MEstdFhGlsw5Zqp84lyceY7DGPnrU9ZAAn1Gp10RDWg2bdLu6LFExuT+I8oChMOc5z/est+VY+YM/CbqNOoaVjbpJWlmoIoV7B/cSJk+84yR8hkf7pm3SmEzjS3Hf2ur1psr12gSe7IUXgvFpUIx6dvh/GnbdUBjbTTvQzVMO1pA0YPloH1BQry0LMYrQWo5GLtFIAVZvXSXb3y027bTxkPCfxlKq3uBePJfqRx+PqdHN337hWYV1Usi5AJxkny1GUrxFYR86BCiX+sthprSFZtvh/VlaIKhUYIWMn1AGnPd5OMb8uxxqZeyWrrS+3W+c/YcweXEDvrk6Pv2aaTbbYsvNEhnVQ7ZwVkPw+x1SLyg9Fen/2Q==
 subTitle: "Teil IV: Der Abschied"
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: Calexico kündigen neue Platte "The Thread That Keeps Us" an
-seoTitle: Calexico kündigen neue Platte an - "The Tread That Keeps Us"
+date: 2017-10-18T07:03:05.000Z
 slug: calexico-the-thread-that-keeps-us
 path: /2017/10/calexico-the-thread-that-keeps-us/
-fileName: 2017-10---calexico-kuendigen-neue-platte-the-thread-that-keeps-us-an.md
+type: Artikel
+typeName: Review
+title: Calexico kündigen neue Platte "The Thread That Keeps Us" an
+seoTitle: Calexico kündigen neue Platte an - "The Tread That Keeps Us"
+ogTitle: Calexico kündigen neue Platte an - "The Tread That Keeps Us"
 description: Die erste Auskopplung der neuen Calexico Platte "The Thread That
   Keeps Us" ist da. Und was soll man sagen? "End Of The World With You" macht
   Fans glücklich.
 excerpt: Die erste Auskopplung der neuen Calexico Platte "The Thread That Keeps
   Us" ist da. Und was soll man sagen? "End Of The World With You" macht Fans
   glücklich.
-focusKeyword: The Thread That Keeps Us
+fileName: 2017-10---calexico-kuendigen-neue-platte-the-thread-that-keeps-us-an.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_The-Thread-That-Keeps-Us3__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_The-Thread-That-Keeps-Us3__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQBBgIFB//EACsQAAIBAwIFAwMFAAAAAAAAAAECAwAEEQUSBhMhMUEUImEHIzJDUXGhwv/EABcBAQEBAQAAAAAAAAAAAAAAAAIEAQP/xAAcEQEAAgMAAwAAAAAAAAAAAAABAAIREiEDQsH/2gAMAwEAAhEDEQA/AOnLqujaTYWRu4Gm9ROluqSTRxxq5ydxZyABgHv56DqRWKcfcJIzPp8EMz86KFSZoYdxeWSMt7mGFUx5J/Z1x3p8WkN9bp6+yDhG34V0lBPg4zk/3TVpp+kgbVSAuP03jVQT8+2pbhmHw2CoJ8lbT6icMXQR5NLlUSuCWNxD45gOcN+X222p3fIx3q28E6zZa9oz3+lwPBHzWiZGlSRcgA5VkJVhhh1B6HIPUVNwpsl3vo1tLEACWidVz/GfNP6bqMEiqsFvbwRnqUDKCCfhRXG7yU1abcOzRo7SSY5xKjwyq3+Qai4mkhtyCysG+KKKHtiLQ1WKeqeSPY9vbkDru5YzTtlqM8chRlh2+NkYBoorWpiCnEn/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_10_9917203896_a04e9ce147_k__l.jpg
 labels:
   - Bands
   - Calxico
@@ -30,17 +37,12 @@ labels:
   - The Thread That Keeps Us
   - Tuscon Dessert Rock
   - WaveLab Studio
-type: Artikel
-typeName: Review
-date: 2017-10-18T07:03:05.000Z
+focusKeyword: The Thread That Keeps Us
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "18143"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_The-Thread-That-Keeps-Us3__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_The-Thread-That-Keeps-Us3__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQBBgIFB//EACsQAAIBAwIFAwMFAAAAAAAAAAECAwAEEQUSBhMhMUEUImEHIzJDUXGhwv/EABcBAQEBAQAAAAAAAAAAAAAAAAIEAQP/xAAcEQEAAgMAAwAAAAAAAAAAAAABAAIREiEDQsH/2gAMAwEAAhEDEQA/AOnLqujaTYWRu4Gm9ROluqSTRxxq5ydxZyABgHv56DqRWKcfcJIzPp8EMz86KFSZoYdxeWSMt7mGFUx5J/Z1x3p8WkN9bp6+yDhG34V0lBPg4zk/3TVpp+kgbVSAuP03jVQT8+2pbhmHw2CoJ8lbT6icMXQR5NLlUSuCWNxD45gOcN+X222p3fIx3q28E6zZa9oz3+lwPBHzWiZGlSRcgA5VkJVhhh1B6HIPUVNwpsl3vo1tLEACWidVz/GfNP6bqMEiqsFvbwRnqUDKCCfhRXG7yU1abcOzRo7SSY5xKjwyq3+Qai4mkhtyCysG+KKKHtiLQ1WKeqeSPY9vbkDru5YzTtlqM8chRlh2+NkYBoorWpiCnEn/2Q==
 subTitle: Auskopplung "End Of The World With You"
   
 ---

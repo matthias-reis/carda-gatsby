@@ -1,16 +1,23 @@
 ---
-title: '"Hidden: Animals in the Anthropocene"'
-seoTitle: '"Hidden: Animals in the Anthropocene" – Tierrechtsbuch zeigt die Wahrheit'
+date: 2020-11-18T11:34:05.000Z
 slug: hidden-animals-in-the-anthropocene
 path: /2020/11/hidden-animals-in-the-anthropocene/
-fileName: 2020-11---hidden-animals-in-the-anthropocene.md
+type: Artikel
+typeName: Artikel
+title: '"Hidden: Animals in the Anthropocene"'
+seoTitle: '"Hidden: Animals in the Anthropocene" – Tierrechtsbuch zeigt die Wahrheit'
+ogTitle: '"Hidden: Animals in the Anthropocene" – Tierrechtsbuch zeigt die Wahrheit'
 description: Die preisgekrönte Fotojournalistin Anne McArthur hat gemeinsam mit
   Keith Wilson ein neues Tierrechtsbuch gemacht. Das Vorwort ist von Joaquin
   Phoenix.
 excerpt: Die preisgekrönte Fotojournalistin Anne McArthur hat gemeinsam mit
   Keith Wilson ein neues Tierrechtsbuch gemacht. Das Vorwort ist von Joaquin
   Phoenix.
-focusKeyword: Hidden
+fileName: 2020-11---hidden-animals-in-the-anthropocene.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_hidden__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_hidden__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKhAAAgEDAwIEBwEAAAAAAAAAAQIDAAQFERIhBhMxQVGhIjI1cXOBsvD/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIRIf/aAAwDAQACEQMRAD8A5TesyWVy6EhlidgR5EKaW+uBJhsraw4+6uY45LKCdl7zkbmTUnknzpkvObO4B8O0/wDJpY6GxcfUXUaQ517qS3MLp3CzEqQmic86AcH04pTwVLp4jKhz18qfFeXJb7gj3FPWOkabH2ssh3O8SMx9SQNaz+s+jMZ05g5RDdve5NrpO0yONqw7X3gr47tdnPtV3EfSbL8CfyKBqXPGTXJ0gfWN5FKkFU8SPPSlAR3sDrJjUvAh+XYrK6aHgH/c0UVc53TNtrMIbjGZfI3DT3cdy0rcbioHH7Ipxxsbw461ilG2RIlVhrroQKKKgo//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_11_hidden-fb.png__l.jpg
 labels:
   - Anne McArthur
   - Bücher & Filme
@@ -20,17 +27,12 @@ labels:
   - Tierrechte
   - Tierrechte
   - We Animal Media
-type: Artikel
-typeName: Artikel
-date: 2020-11-18T11:34:05.000Z
+focusKeyword: Hidden
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31897"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_hidden__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_hidden__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKhAAAgEDAwIEBwEAAAAAAAAAAQIDAAQFERIhBhMxQVGhIjI1cXOBsvD/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIRIf/aAAwDAQACEQMRAD8A5TesyWVy6EhlidgR5EKaW+uBJhsraw4+6uY45LKCdl7zkbmTUnknzpkvObO4B8O0/wDJpY6GxcfUXUaQ517qS3MLp3CzEqQmic86AcH04pTwVLp4jKhz18qfFeXJb7gj3FPWOkabH2ssh3O8SMx9SQNaz+s+jMZ05g5RDdve5NrpO0yONqw7X3gr47tdnPtV3EfSbL8CfyKBqXPGTXJ0gfWN5FKkFU8SPPSlAR3sDrJjUvAh+XYrK6aHgH/c0UVc53TNtrMIbjGZfI3DT3cdy0rcbioHH7Ipxxsbw461ilG2RIlVhrroQKKKgo//2Q==
 subTitle: Tierrechtsbuch zeigt die blutige Wahrheit
   
 ---

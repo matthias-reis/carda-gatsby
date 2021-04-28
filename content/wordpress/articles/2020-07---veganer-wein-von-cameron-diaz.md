@@ -1,16 +1,23 @@
 ---
-title: Veganer Wein von Cameron Diaz
-seoTitle: Veganer Wein von Cameron Diaz - Die Geschichte von Avaline
+date: 2020-07-21T13:04:06.000Z
 slug: veganer-wein-cameron-diaz-avaline
 path: /2020/07/veganer-wein-cameron-diaz-avaline/
-fileName: 2020-07---veganer-wein-von-cameron-diaz.md
+type: Artikel
+typeName: Artikel
+title: Veganer Wein von Cameron Diaz
+seoTitle: Veganer Wein von Cameron Diaz - Die Geschichte von Avaline
+ogTitle: Veganer Wein von Cameron Diaz - Die Geschichte von Avaline
 description: Veganer Wein ohne Zusatzstoffe - der gemeinsame Traum von
   Schauspielerin Cameron Diaz und Unternehmerin Katherine Power ist Wirklichkeit
   geworden.
 excerpt: Veganer Wein ohne Zusatzstoffe - der gemeinsame Traum von
   Schauspielerin Cameron Diaz und Unternehmerin Katherine Power ist Wirklichkeit
   geworden.
-focusKeyword: Veganer Wein
+fileName: 2020-07---veganer-wein-von-cameron-diaz.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_veganer-wein-cameron-diaz__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_veganer-wein-cameron-diaz__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAUH/8QALBAAAgIBAwMCBQQDAAAAAAAAAQIDBBEABSEGEjETQRQiMlFxBxUWI2Ghwf/EABgBAQADAQAAAAAAAAAAAAAAAAMAAQIE/8QAJREAAgECBAYDAAAAAAAAAAAAAQIAAxESIUHhBBQiIzFCUdHw/9oADAMBAAIRAxEAPwCn/D1vRQ3t+uLVrPKlQxV1IZpSBgADxn5Rk45OmWD9NunU3n1ZYUmji7CrTO6PnHIIUhec+RqeiOmfjduuSdRyWC7TKY4EfsibAyrOuOTk/wCtMP7ektSWGRbQdpO4Kicvz4AwT+P8DRp01Ap8Rlpg0S/tOa7Vuewn4aCwi19022x6Fqq5JDrkj1MNwG8YK4Az2nPnTluQoWagemQis6g+gSSvvyAOM6wLO07dBvdiTc4DbE0ctoZ/rU4cZjPBLNyMj8cjVrpqztdjcN1s0doswXmUJZituZIzn6SqgEoPlB4I9vOpRxrmRe8fiFptrYj9nGHpylFsXTZs/GT3K9hg0iTY74/YBe0f91PUW1PQ269uMu6zsgCPmGv3yU0GSzKq/WfBPOcZ0aNIQFa40nOh7dvnacuo7lWtS1rsNivPBG7o8kcbB4yflz24yFY9ucj7H21v7dHbsW7kcYgqzV5zD60k/oNLGCT25Bwyg+M+M/bRo1vmWdsBAtsJTUFRQ4Oe5+p//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_veganer-wein-cameron-diaz-avaline.png__l.jpg
 labels:
   - Avaline
   - Cameron Diaz
@@ -19,17 +26,12 @@ labels:
   - vegan celebrities
   - veganer Wein
   - Wein
-type: Artikel
-typeName: Artikel
-date: 2020-07-21T13:04:06.000Z
+focusKeyword: Veganer Wein
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30649"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_veganer-wein-cameron-diaz__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_veganer-wein-cameron-diaz__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAUH/8QALBAAAgIBAwMCBQQDAAAAAAAAAQIDBBEABSEGEjETQRQiMlFxBxUWI2Ghwf/EABgBAQADAQAAAAAAAAAAAAAAAAMAAQIE/8QAJREAAgECBAYDAAAAAAAAAAAAAQIAAxESIUHhBBQiIzFCUdHw/9oADAMBAAIRAxEAPwCn/D1vRQ3t+uLVrPKlQxV1IZpSBgADxn5Rk45OmWD9NunU3n1ZYUmji7CrTO6PnHIIUhec+RqeiOmfjduuSdRyWC7TKY4EfsibAyrOuOTk/wCtMP7ektSWGRbQdpO4Kicvz4AwT+P8DRp01Ap8Rlpg0S/tOa7Vuewn4aCwi19022x6Fqq5JDrkj1MNwG8YK4Az2nPnTluQoWagemQis6g+gSSvvyAOM6wLO07dBvdiTc4DbE0ctoZ/rU4cZjPBLNyMj8cjVrpqztdjcN1s0doswXmUJZituZIzn6SqgEoPlB4I9vOpRxrmRe8fiFptrYj9nGHpylFsXTZs/GT3K9hg0iTY74/YBe0f91PUW1PQ269uMu6zsgCPmGv3yU0GSzKq/WfBPOcZ0aNIQFa40nOh7dvnacuo7lWtS1rsNivPBG7o8kcbB4yflz24yFY9ucj7H21v7dHbsW7kcYgqzV5zD60k/oNLGCT25Bwyg+M+M/bRo1vmWdsBAtsJTUFRQ4Oe5+p//9k=
 subTitle: Die Geschichte von Avaline
   
 ---

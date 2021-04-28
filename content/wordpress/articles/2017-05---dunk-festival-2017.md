@@ -1,15 +1,22 @@
 ---
-title: Dunk!festival 2017
-seoTitle: Dunk!festival 2017 wir kommen! Der Rucksack ist gepackt!
+date: 2017-05-23T14:15:52.000Z
 slug: dunkfestival-2017-es-geht-los
 path: /2017/05/dunkfestival-2017-es-geht-los/
-fileName: 2017-05---dunk-festival-2017.md
+type: Artikel
+typeName: Artikel
+title: Dunk!festival 2017
+seoTitle: Dunk!festival 2017 wir kommen! Der Rucksack ist gepackt!
+ogTitle: Dunk!festival 2017 wir kommen! Der Rucksack ist gepackt!
 description: Es geht los! Der Rucksack ist schon gepackt und wartet darauf, mit
   uns zum Dunk!festival 2017 aufzubrechen! Drei Tage Post-Rock pur stehen uns
   bevor!
 excerpt: Es geht los! Der Rucksack ist schon gepackt und wartet darauf, mit uns
   zum Dunk!festival 2017 aufzubrechen! Drei Tage Post-Rock pur stehen uns bevor!
-focusKeyword: festival 2017
+fileName: 2017-05---dunk-festival-2017.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_18527455_10154235663846887_557979204286632137_o__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_18527455_10154235663846887_557979204286632137_o__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAAnEAACAQMDAwQDAQAAAAAAAAABAgMABBEFEjETISIGQVFhI0KBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EAB0RAAICAgMBAAAAAAAAAAAAAAABAgMEIRIiQZH/2gAMAwEAAhEDEQA/AKNqcljpfp+OPURHKjQFOm6ASzknBPbjsec1A9Xgfdt3O0aeKBmJ2r7AVYdbGXu7m9t4pZJI+nGhJAQ4woXvSlrPp1ZdOkvdPmjkt4V/Kzv5KQuSWXGVycgDuD2wa28WUal29+EcpSb14S2VNrViVzXTvIdrmi3sLiS0e4EbLbb+j1SMKXIyFyffAz9VXOsWMtFo1q5N3cSPuzHGSi9+W4Y/zj/aT9SXczA0UUWMupBa3zFm9g8jWCz3MVnJaJMwtpG3NH+pPz9cDj4oorQaTWx63o//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_05_18527455_10154235663846887_557979204286632137_o__l.jpg
 labels:
   - ALL WE EXPECTED
   - And So I Watch You From Afar
@@ -68,17 +75,12 @@ labels:
   - Worried About Satan
   - XENON FIELD
   - Zottegem
-type: Artikel
-typeName: Artikel
-date: 2017-05-23T14:15:52.000Z
+focusKeyword: festival 2017
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16752"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_18527455_10154235663846887_557979204286632137_o__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_18527455_10154235663846887_557979204286632137_o__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAAnEAACAQMDAwQDAQAAAAAAAAABAgMABBEFEjETISIGQVFhI0KBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EAB0RAAICAgMBAAAAAAAAAAAAAAABAgMEIRIiQZH/2gAMAwEAAhEDEQA/AKNqcljpfp+OPURHKjQFOm6ASzknBPbjsec1A9Xgfdt3O0aeKBmJ2r7AVYdbGXu7m9t4pZJI+nGhJAQ4woXvSlrPp1ZdOkvdPmjkt4V/Kzv5KQuSWXGVycgDuD2wa28WUal29+EcpSb14S2VNrViVzXTvIdrmi3sLiS0e4EbLbb+j1SMKXIyFyffAz9VXOsWMtFo1q5N3cSPuzHGSi9+W4Y/zj/aT9SXczA0UUWMupBa3zFm9g8jWCz3MVnJaJMwtpG3NH+pPz9cDj4oorQaTWx63o//2Q==
 subTitle: Der Rucksack ist gepackt!
   
 ---

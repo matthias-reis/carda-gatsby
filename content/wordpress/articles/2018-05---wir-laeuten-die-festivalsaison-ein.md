@@ -1,15 +1,22 @@
 ---
-title: Wir läuten die Festivalsaison ein
-seoTitle: Wir läuten die Festivalsaison ein - Kurze Auszeit im Blog
+date: 2018-05-08T08:00:14.000Z
 slug: wir-laeuten-die-festivalsaison-ein
 path: /2018/05/wir-laeuten-die-festivalsaison-ein/
-fileName: 2018-05---wir-laeuten-die-festivalsaison-ein.md
+type: Artikel
+typeName: Artikel
+title: Wir läuten die Festivalsaison ein
+seoTitle: Wir läuten die Festivalsaison ein - Kurze Auszeit im Blog
+ogTitle: Wir läuten die Festivalsaison ein - Kurze Auszeit im Blog
 description: Wir werden morgen die Festivalsaison einläuten, indem wir uns auf
   den Weg zum DUNK!festival machen. Für Euch gibt es was Spannendes.
 excerpt: Wir werden morgen die Festivalsaison einläuten, indem wir uns auf den
   Weg zum DUNK!festival machen. Für Euch gibt es hier schon bald wieder was
   Spannendes.
-focusKeyword: Festivalsaison
+fileName: 2018-05---wir-laeuten-die-festivalsaison-ein.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_p2250036__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_03_p2250036__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYBBQcCBP/EACgQAAEDAwIGAwADAAAAAAAAAAECAwQABREhMQYHEhMiQRRRYQhxgf/EABgBAAMBAQAAAAAAAAAAAAAAAAAEBQID/8QAIhEAAgEEAQQDAAAAAAAAAAAAAQIDAAQRIcESQWGB0eHw/9oADAMBAAIRAxEAPwBSmfx9vTcZ6Y9d7e22kdSgGlk/WlMsDgCTaLdEE+5quIQ8lkrbaCDnBVganOg3rbuJpzSuHnA2dS43n8AWM0oXmWkcOPocV5i4tHKFZIy0v361GKjxys10kbHK/R+BVcKqW7ygYbfHb3S/bOF7VNahSH1tPSnVPD4r6+31qSojCFjY4IPv3tvUW7gKzTIch5xtx6Q08ppwLUUFJGwUkaAgb40O43r3WK8JdidkyYZSqatbbbzBUFnpQfDGxGo95Jq3F2jpMwIW4gZBAcPkMADX6/qu1woVyBqswlpIwzeKwCVzokPQ3Y3w3VIWnBJWB/tVE/mpJmRlMLir6FLS4rzB1TnHr9NFFMJaxqwcDYpV7uXpMedH9wKiPzVlxFOFiO8ApalhPf6UklOPIAeW32BXMXmHcJ8h89oJSoAlCV66fX5RRRNEgUtjdEM8hwmdV//Z
+ogImage: null
 labels:
   - Bands
   - DUNK!records
@@ -21,17 +28,12 @@ labels:
   - Postrock
   - Sommer
   - Zottegem
-type: Artikel
-typeName: Artikel
-date: 2018-05-08T08:00:14.000Z
+focusKeyword: Festivalsaison
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "5062"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_p2250036__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_03_p2250036__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYBBQcCBP/EACgQAAEDAwIGAwADAAAAAAAAAAECAwQABREhMQYHEhMiQRRRYQhxgf/EABgBAAMBAQAAAAAAAAAAAAAAAAAEBQID/8QAIhEAAgEEAQQDAAAAAAAAAAAAAQIDAAQRIcESQWGB0eHw/9oADAMBAAIRAxEAPwBSmfx9vTcZ6Y9d7e22kdSgGlk/WlMsDgCTaLdEE+5quIQ8lkrbaCDnBVganOg3rbuJpzSuHnA2dS43n8AWM0oXmWkcOPocV5i4tHKFZIy0v361GKjxys10kbHK/R+BVcKqW7ygYbfHb3S/bOF7VNahSH1tPSnVPD4r6+31qSojCFjY4IPv3tvUW7gKzTIch5xtx6Q08ppwLUUFJGwUkaAgb40O43r3WK8JdidkyYZSqatbbbzBUFnpQfDGxGo95Jq3F2jpMwIW4gZBAcPkMADX6/qu1woVyBqswlpIwzeKwCVzokPQ3Y3w3VIWnBJWB/tVE/mpJmRlMLir6FLS4rzB1TnHr9NFFMJaxqwcDYpV7uXpMedH9wKiPzVlxFOFiO8ApalhPf6UklOPIAeW32BXMXmHcJ8h89oJSoAlCV66fX5RRRNEgUtjdEM8hwmdV//Z
 subTitle: Kurze Auszeit
   
 ---

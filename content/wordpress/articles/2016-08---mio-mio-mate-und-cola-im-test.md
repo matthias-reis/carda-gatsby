@@ -1,16 +1,23 @@
 ---
-title: MIO MIO MATE und Cola im Test
-seoTitle: MIO MIO MATE und COLA - Ich habe probiert
+date: 2016-08-09T14:51:23.000Z
 slug: mio-mio-mate-und-cola-ich-habe-probiert
 path: /2016/08/mio-mio-mate-und-cola-ich-habe-probiert/
-fileName: 2016-08---mio-mio-mate-und-cola-im-test.md
+type: Artikel
+typeName: Artikel
+title: MIO MIO MATE und Cola im Test
+seoTitle: MIO MIO MATE und COLA - Ich habe probiert
+ogTitle: MIO MIO MATE und COLA - Ich habe probiert
 description: Die Jungs von MIO MIO haben mich gefragt, ob ich Lust habe, ihre
   neue Cola und die Mate zu testen. Da habe ich natürlich nicht nein gesagt -
   Getränketest
 excerpt: Werbung - Die Jungs von MIO MIO haben mich gefragt, ob ich Lust habe,
   ihre neue Cola und die Mate zu testen. Da habe ich natürlich nicht nein
   gesagt.
-focusKeyword: MIO MIO
+fileName: 2016-08---mio-mio-mate-und-cola-im-test.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_08_28164077654_41e9993e76_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_08_28164077654_41e9993e76_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKRAAAQMDAwQCAQUAAAAAAAAAAQIDBAAFEQYSIRMiMVEUQXEHYYGRof/EABYBAQEBAAAAAAAAAAAAAAAAAAQCAf/EAB8RAAIBAwUBAAAAAAAAAAAAAAECAAMRMQQSIUFRsf/aAAwDAQACEQMRAD8Azq2R3F6pnwIVjhy5wQUb1PuOA7gFZRuHB9HHupH7rbkOSLdE0/1brOjpYQ78jqtdRZUAsAp7cDnt54FPH6OzLWZN2vU+ZBEhuW02V56aG2w0kbwFK/Oc5+8YpNa02u2XuxaghuKlCRNaaabW+tzahSlIG3CRgDBxycDFY7ncwHUmyIm7yXb3YYFqvUN1xchiKwy64/IjncUKRsSFpBHHKgfFMpcPxkOsPqfjqQFIcXwVp+lH9z5q3qnRt6u8KS8y9AZStJjuh1K3jhPfvC9vbk5HgZx/STJhpgQ0RFvddTKdhcxjP8f5QX1ZWyHMdpdMjJuTE6NvhsKgSUwW2oshuOiR1RHZUD3EFO3YOOPdLEmRdEXCI67ci40gJktNdFKQkqycHHBxk8gCiiqquy4PQ+SqVNX4YezQdNazuL+l7uxKCXnW1kl0qVlQUnwAScYx7P4rOXJr0wqcWojd3EZ9/VFFEbk3MTRULdVxP//Z
+ogImage: null
 labels:
   - Cola
   - Ernährung
@@ -25,17 +32,12 @@ labels:
   - vegane Ernährung
   - veganforfat
   - whatvegansdrink
-type: Artikel
-typeName: Artikel
-date: 2016-08-09T14:51:23.000Z
+focusKeyword: MIO MIO
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "15061"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_08_28164077654_41e9993e76_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_08_28164077654_41e9993e76_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKRAAAQMDAwQCAQUAAAAAAAAAAQIDBAAFEQYSIRMiMVEUQXEHYYGRof/EABYBAQEBAAAAAAAAAAAAAAAAAAQCAf/EAB8RAAIBAwUBAAAAAAAAAAAAAAECAAMRMQQSIUFRsf/aAAwDAQACEQMRAD8Azq2R3F6pnwIVjhy5wQUb1PuOA7gFZRuHB9HHupH7rbkOSLdE0/1brOjpYQ78jqtdRZUAsAp7cDnt54FPH6OzLWZN2vU+ZBEhuW02V56aG2w0kbwFK/Oc5+8YpNa02u2XuxaghuKlCRNaaabW+tzahSlIG3CRgDBxycDFY7ncwHUmyIm7yXb3YYFqvUN1xchiKwy64/IjncUKRsSFpBHHKgfFMpcPxkOsPqfjqQFIcXwVp+lH9z5q3qnRt6u8KS8y9AZStJjuh1K3jhPfvC9vbk5HgZx/STJhpgQ0RFvddTKdhcxjP8f5QX1ZWyHMdpdMjJuTE6NvhsKgSUwW2oshuOiR1RHZUD3EFO3YOOPdLEmRdEXCI67ci40gJktNdFKQkqycHHBxk8gCiiqquy4PQ+SqVNX4YezQdNazuL+l7uxKCXnW1kl0qVlQUnwAScYx7P4rOXJr0wqcWojd3EZ9/VFFEbk3MTRULdVxP//Z
 subTitle: Vegane Limo mit Geschmack
   
 ---

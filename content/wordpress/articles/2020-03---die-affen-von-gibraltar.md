@@ -1,16 +1,23 @@
 ---
-title: Die Affen von Gibraltar
-seoTitle: Die Affen von Gibraltar - unser Besuch
+date: 2020-03-23T15:23:46.000Z
 slug: die-affen-von-gibraltar
 path: /2020/03/die-affen-von-gibraltar/
-fileName: 2020-03---die-affen-von-gibraltar.md
+type: Galerie mit Bild
+typeName: Galerie mit Bild
+title: Die Affen von Gibraltar
+seoTitle: Die Affen von Gibraltar - unser Besuch
+ogTitle: Die Affen von Gibraltar - unser Besuch
 description: Unsere Reise durch Südspanien führte uns in die britische Enklave
   Gibraltar. Auf dem Felsen angekommen, lernten wir die wohl berühmtesten Affen
   kennen.
 excerpt: Unsere Reise durch Südspanien führte uns in die britische Enklave
   Gibraltar. Auf dem Felsen angekommen, lernten wir die wohl berühmtesten Affen
   kennen.
-focusKeyword: Gibraltar
+fileName: 2020-03---die-affen-von-gibraltar.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-25-gibraltar-36__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-25-gibraltar-36__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKRAAAQMDAgQGAwAAAAAAAAAAAQIDBAAFESFBBiIjMRITMlFxkRVCYf/EABYBAQEBAAAAAAAAAAAAAAAAAAUEBv/EACARAAICAQQDAQAAAAAAAAAAAAECAAMhBBESEwUxUZH/2gAMAwEAAhEDEQA/AKy4w9b33X3WiplYSpzyQUrSSMabKBJ3x87VJ4atD715kTkoVGieIF12QrmaOcHl3OwGdq0WzswLtFTGuDYPTI8DgycdtMd9BSdyy2/iLia5Wq4PvtWe0oHlJ80pC3ykHQ/uoJwcHPehxV2Pn9iyMApA9yzSrclNggPJSQGumTupKtQfvT5NIJ8JDjZ5NMd85zTHgKcqTw0/a8OPNxASytQBIKVnpZJwSAB97gVMnsocsbdxiPutdQNutrSknUe4rSeO1ChOpjkGA66luZsAxKcGZFjdYulumNTUOqDKmX+mQCM5yMgq09ta5i5OxQ7Mt6JqFq8Mh2AHU4MjUKcQo+sEY0GP4KKKDZ+BwIrWSRvFvCN0mW6E9PXyNuXBWG+yighOVBPsDkE6ZNaVIkwvwEGJMQMKy8pKiR6dBnBB3P1RRVdChbzt9k+oPKoEz//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_03_affen-gibraltar.png__l.jpg
 labels:
   - Affen Gibraltar
   - Affen von Gibraltar
@@ -26,17 +33,12 @@ labels:
   - Makaken
   - Margot
   - Slow Travel
-type: Galerie mit Bild
-typeName: Galerie mit Bild
-date: 2020-03-23T15:23:46.000Z
+focusKeyword: Gibraltar
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "28757"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-25-gibraltar-36__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-25-gibraltar-36__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKRAAAQMDAgQGAwAAAAAAAAAAAQIDBAAFESFBBiIjMRITMlFxkRVCYf/EABYBAQEBAAAAAAAAAAAAAAAAAAUEBv/EACARAAICAQQDAQAAAAAAAAAAAAECAAMhBBESEwUxUZH/2gAMAwEAAhEDEQA/AKy4w9b33X3WiplYSpzyQUrSSMabKBJ3x87VJ4atD715kTkoVGieIF12QrmaOcHl3OwGdq0WzswLtFTGuDYPTI8DgycdtMd9BSdyy2/iLia5Wq4PvtWe0oHlJ80pC3ykHQ/uoJwcHPehxV2Pn9iyMApA9yzSrclNggPJSQGumTupKtQfvT5NIJ8JDjZ5NMd85zTHgKcqTw0/a8OPNxASytQBIKVnpZJwSAB97gVMnsocsbdxiPutdQNutrSknUe4rSeO1ChOpjkGA66luZsAxKcGZFjdYulumNTUOqDKmX+mQCM5yMgq09ta5i5OxQ7Mt6JqFq8Mh2AHU4MjUKcQo+sEY0GP4KKKDZ+BwIrWSRvFvCN0mW6E9PXyNuXBWG+yighOVBPsDkE6ZNaVIkwvwEGJMQMKy8pKiR6dBnBB3P1RRVdChbzt9k+oPKoEz//Z
 subTitle: Unser Besuch auf dem berühmten Felsen
   
 ---

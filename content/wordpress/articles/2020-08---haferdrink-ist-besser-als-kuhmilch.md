@@ -1,14 +1,21 @@
 ---
-title: Haferdrink ist besser als Kuhmilch
-seoTitle: Haferdrink ist besser als Kuhmilch - Stiftung Warentest überrascht
+date: 2020-08-07T14:06:57.000Z
 slug: haferdrink-stiftung-warentest
 path: /2020/08/haferdrink-stiftung-warentest/
-fileName: 2020-08---haferdrink-ist-besser-als-kuhmilch.md
+type: Artikel
+typeName: Artikel
+title: Haferdrink ist besser als Kuhmilch
+seoTitle: Haferdrink ist besser als Kuhmilch - Stiftung Warentest überrascht
+ogTitle: Haferdrink ist besser als Kuhmilch - Stiftung Warentest überrascht
 description: Die Stiftung Warentest hat verschiedene Haferdrinks getestet. Von
   den überaus positiven Ergebnissen zeigte sie sich überrascht.
 excerpt: Die Stiftung Warentest hat verschiedene Haferdrinks getestet. Von den
   überaus positiven Ergebnissen zeigte sie sich überrascht.
-focusKeyword: Haferdrink
+fileName: 2020-08---haferdrink-ist-besser-als-kuhmilch.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-07-hafermilch-01__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-07-hafermilch-01__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAwQF/8QAKBAAAQMDAgUEAwAAAAAAAAAAAQIDEQAEBQYhEhNBUZEUMWFxFTJi/8QAFQEBAQAAAAAAAAAAAAAAAAAABQT/xAAgEQACAgEEAwEAAAAAAAAAAAABAgADEQQFEjEhQaGx/9oADAMBAAIRAxEAPwDJp/TovLi2tEwgurgqI/UAEk+AapWP0fp1Nq4wcY2qEwXFE8w/IUOtcDTxFreWj6TwhLslUTAggz5NUhp0u8sJZWVK2TEFB+Qoe4o/bmQqc95+S3cRYGXHWPsjt9pcYPM3TSiHLfY27hEFST3/AKEwaX85iEkk8IJiDAqwapsS7dNeoQl9CAeaBAkK9wPoDb6pH1BZtWbKUIKnG1o4k8YgjciD3I79ulT6yng5tQ+JVorw6ipx5/Zr47KM8hEKUT12pswOofxzwcSErSoFJQVESPMDwaKKNVij8l7iBQOnFuo1N5bHZyzaLbgZdKoLKyCpOx7fG9TXXN7bN4wtW7wccCip1UAjbaRHsenc0UUw7lqcn3CErC34Hqf/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_08_hafermilch-fb.png__l.jpg
 labels:
   - Ernährung
   - Ernährung & Gesundheit
@@ -19,18 +26,13 @@ labels:
   - Pflanzenmilch
   - Stiftung Warentest
   - vegane Ernährung
-type: Artikel
-typeName: Artikel
-date: 2020-08-07T14:06:57.000Z
+focusKeyword: Haferdrink
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "30996"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-07-hafermilch-01__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-07-hafermilch-01__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAwQF/8QAKBAAAQMDAgUEAwAAAAAAAAAAAQIDEQAEBQYhEhNBUZEUMWFxFTJi/8QAFQEBAQAAAAAAAAAAAAAAAAAABQT/xAAgEQACAgEEAwEAAAAAAAAAAAABAgADEQQFEjEhQaGx/9oADAMBAAIRAxEAPwDJp/TovLi2tEwgurgqI/UAEk+AapWP0fp1Nq4wcY2qEwXFE8w/IUOtcDTxFreWj6TwhLslUTAggz5NUhp0u8sJZWVK2TEFB+Qoe4o/bmQqc95+S3cRYGXHWPsjt9pcYPM3TSiHLfY27hEFST3/AKEwaX85iEkk8IJiDAqwapsS7dNeoQl9CAeaBAkK9wPoDb6pH1BZtWbKUIKnG1o4k8YgjciD3I79ulT6yng5tQ+JVorw6ipx5/Zr47KM8hEKUT12pswOofxzwcSErSoFJQVESPMDwaKKNVij8l7iBQOnFuo1N5bHZyzaLbgZdKoLKyCpOx7fG9TXXN7bN4wtW7wccCip1UAjbaRHsenc0UUw7lqcn3CErC34Hqf/2Q==
 subTitle: Stiftung Warentest überrascht
   
 ---

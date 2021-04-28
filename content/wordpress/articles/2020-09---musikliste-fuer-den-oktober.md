@@ -1,14 +1,21 @@
 ---
-title: Musikliste für den Oktober
-seoTitle: Musikliste für den Oktober - Im Herbst auf unseren Plattentellern
+date: 2020-09-21T10:28:56.000Z
 slug: musikliste-fuer-den-oktober-2020
 path: /2020/09/musikliste-fuer-den-oktober-2020/
-fileName: 2020-09---musikliste-fuer-den-oktober.md
+type: Artikel
+typeName: Artikel
+title: Musikliste für den Oktober
+seoTitle: Musikliste für den Oktober - Im Herbst auf unseren Plattentellern
+ogTitle: Musikliste für den Oktober - Im Herbst auf unseren Plattentellern
 description: Für den Oktober haben wir wieder eine brandheiße Musikliste für
   Euch zusammengestellt. Mit dabei sind diesen Monat einige echte Sensationen.
 excerpt: Für den Oktober haben wir wieder eine brandheiße Musikliste für Euch
   zusammengestellt. Mit dabei sind diesen Monat einige echte Sensationen.
-focusKeyword: Musikliste
+fileName: 2020-09---musikliste-fuer-den-oktober.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_musikliste-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_musikliste-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBQYHBP/EACwQAAIBAwMCBQIHAAAAAAAAAAECAwQFEQASIQYxE0FRYXFSgQcWIiMyM6H/xAAZAQACAwEAAAAAAAAAAAAAAAAABQECBAb/xAAiEQABBAAGAwEAAAAAAAAAAAABAAIDEQQFMUFx8BIiYYH/2gAMAwEAAhEDEQA/AMwKVRrdwMS04AxncWP1ccAex502r1S3BhLAVp2O1XSTcDxxlTyp+Pv66ZprjUVUQkp6EFAAWd5wiqcepHuB8kaRPdzFHmaBRIo3bFl3cj3xo2tG9LWOn79Tw0bLUyFdrYJwT38z7apH44vSXS8y10aRJNBb4WzESwdd7rnjOc+vYZ1zW6nq16ZF2/MEETKjb91Fh0cZwv8AYMknsQPPtqs2W69QTW6vpYbtMI69HWaMwhztb+W36c9iBjjWSOYOBAOnIXRZhnOGxkZEYP6NO9KVSXe4RWpLWipNQN+54ZjB/WwAJJ7nHkDwM6jZqcR+KyRlIzGcg8FTjt8aNGrh1+qRuYG08cK6VFoE8jLDEYVUEAF+HP31H2WiqLT1HBAREstQwjDs2c7uMD/NGjSdkzjbDpRUTDwhJH1f/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_musikliste-fb-2.png__l.jpg
 labels:
   - Arab Strap
   - Bands
@@ -32,17 +39,12 @@ labels:
   - The Cure
   - Underground
   - Will Butler
-type: Artikel
-typeName: Artikel
-date: 2020-09-21T10:28:56.000Z
+focusKeyword: Musikliste
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31414"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_musikliste-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_musikliste-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBQYHBP/EACwQAAIBAwMCBQIHAAAAAAAAAAECAwQFEQASIQYxE0FRYXFSgQcWIiMyM6H/xAAZAQACAwEAAAAAAAAAAAAAAAAABQECBAb/xAAiEQABBAAGAwEAAAAAAAAAAAABAAIDEQQFMUFx8BIiYYH/2gAMAwEAAhEDEQA/AMwKVRrdwMS04AxncWP1ccAex502r1S3BhLAVp2O1XSTcDxxlTyp+Pv66ZprjUVUQkp6EFAAWd5wiqcepHuB8kaRPdzFHmaBRIo3bFl3cj3xo2tG9LWOn79Tw0bLUyFdrYJwT38z7apH44vSXS8y10aRJNBb4WzESwdd7rnjOc+vYZ1zW6nq16ZF2/MEETKjb91Fh0cZwv8AYMknsQPPtqs2W69QTW6vpYbtMI69HWaMwhztb+W36c9iBjjWSOYOBAOnIXRZhnOGxkZEYP6NO9KVSXe4RWpLWipNQN+54ZjB/WwAJJ7nHkDwM6jZqcR+KyRlIzGcg8FTjt8aNGrh1+qRuYG08cK6VFoE8jLDEYVUEAF+HP31H2WiqLT1HBAREstQwjDs2c7uMD/NGjSdkzjbDpRUTDwhJH1f/9k=
 subTitle: Im Herbst auf unseren Plattentellern
   
 ---

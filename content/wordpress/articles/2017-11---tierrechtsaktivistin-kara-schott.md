@@ -1,14 +1,21 @@
 ---
-title: Tierrechtsaktivistin Kara Schott
-seoTitle: Puss In Boots Animal Rescue And Adoption stellt sich vor - Interview
+date: 2017-11-12T11:51:27.000Z
 slug: puss-in-boots-animal-rescue-and-adoption
 path: /2017/11/puss-in-boots-animal-rescue-and-adoption/
-fileName: 2017-11---tierrechtsaktivistin-kara-schott.md
+type: Artikel
+typeName: Interview
+title: Tierrechtsaktivistin Kara Schott
+seoTitle: Puss In Boots Animal Rescue And Adoption stellt sich vor - Interview
+ogTitle: Puss In Boots Animal Rescue And Adoption stellt sich vor - Interview
 description: Im zweiten Teil meines Interview mit Kara erfahrt Ihr heute alles
   über die Irische Tier-Auffangstation Puss in Boots Animal Rescue and Adoption.
 excerpt: Im zweiten Teil meines Interview mit Kara erfahrt Ihr heute alles über
   die Irische Tier-Auffangstation Puss in Boots Animal Rescue and Adoption.
-focusKeyword: Puss In Boots
+fileName: 2017-11---tierrechtsaktivistin-kara-schott.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kara-Puss-In-Boots__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kara-Puss-In-Boots__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUHBv/EACoQAAICAQIFBAICAwAAAAAAAAECAwQRAAUGEyEiQQcSMVEjcRQVYXKh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQBAgX/xAAiEQACAQIFBQAAAAAAAAAAAAABAgADcQQRITIzEjFRwfD/2gAMAwEAAhEDEQA/AK5/a3NwlrT0dsq8jHfCsbMz4ViQXHah7T95/wCajXGvrTWkW3tNbaoYjNEytMjcxo8jwCVz08+P86Zeo3Hc2w7RsknCqzV7tIzQ3WyQGAUOh+iCWfBPUYI+PmM0eFbfEO72+IHMG3bDKWtvcsDlRr7upCqRlsEkdvTxnQlxLnJuvSQ+Cpg6oM5RNjgi2XZZbEhSzbr1uU0EuBCvM97Fyp8fR8/Omuw15+GuITZ2h4XzRrsP5Cl1cyQo7EgEEdxOB4A/elPFF2ltDpSrzSpPKkPLJwCylWHeT0UfYOkNZ7dSApPZZmlGZ3YgllIwoBAGMKAOnxoTICgZDkTr93tLsxAI8GbB40u7jsda4i2K89r8sUo96yYzj3A9DjxnTTewLO/0YLA5sAtQ4jfuXpKcdD06YGNGjSK8dO8ercj2mD9USW9RIvd1/Anz+pdZTfJHjqKY3ZP9Tjxo0aebetvZmeNxn//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kara-Puss-In-Boots__l.jpg
 labels:
   - Britische Inseln
   - Hamburg
@@ -25,17 +32,12 @@ labels:
   - Tierrechte
   - Tierrechte
   - Tierschutz
-type: Artikel
-typeName: Interview
-date: 2017-11-12T11:51:27.000Z
+focusKeyword: Puss In Boots
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "18373"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kara-Puss-In-Boots__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kara-Puss-In-Boots__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUHBv/EACoQAAICAQIFBAICAwAAAAAAAAECAwQRAAUGEyEiQQcSMVEjcRQVYXKh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQBAgX/xAAiEQACAQIFBQAAAAAAAAAAAAABAgADcQQRITIzEjFRwfD/2gAMAwEAAhEDEQA/AK5/a3NwlrT0dsq8jHfCsbMz4ViQXHah7T95/wCajXGvrTWkW3tNbaoYjNEytMjcxo8jwCVz08+P86Zeo3Hc2w7RsknCqzV7tIzQ3WyQGAUOh+iCWfBPUYI+PmM0eFbfEO72+IHMG3bDKWtvcsDlRr7upCqRlsEkdvTxnQlxLnJuvSQ+Cpg6oM5RNjgi2XZZbEhSzbr1uU0EuBCvM97Fyp8fR8/Omuw15+GuITZ2h4XzRrsP5Cl1cyQo7EgEEdxOB4A/elPFF2ltDpSrzSpPKkPLJwCylWHeT0UfYOkNZ7dSApPZZmlGZ3YgllIwoBAGMKAOnxoTICgZDkTr93tLsxAI8GbB40u7jsda4i2K89r8sUo96yYzj3A9DjxnTTewLO/0YLA5sAtQ4jfuXpKcdD06YGNGjSK8dO8ercj2mD9USW9RIvd1/Anz+pdZTfJHjqKY3ZP9Tjxo0aebetvZmeNxn//Z
 subTitle: Teil 2/2 - Puss In Boots Animal Rescue &amp; Adoption stellt sich vor
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: Virales Marketing
-seoTitle: Virales Marketing - Mundpropaganda 2.0
+date: 2012-07-10T15:27:46.000Z
 slug: virales-marketing-2
 path: /2012/07/virales-marketing-2/
-fileName: 2012-07---virales-marketing.md
+type: Artikel
+typeName: Artikel
+title: Virales Marketing
+seoTitle: Virales Marketing - Mundpropaganda 2.0
+ogTitle: Virales Marketing - Mundpropaganda 2.0
 description: Virales Marketing läuft über die verschiedensten Medien. Besonders
   groß geschrieben werden beim viralen Marketing die sozialen Netzwerke
 excerpt: Virales Marketing läuft über die verschiedensten Medien. Besonders groß
   geschrieben werden die sozialen Netzwerke.
-focusKeyword: Virales Marketing
+fileName: 2012-07---virales-marketing.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_11156823293_c9b97b3f3e_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_11156823293_c9b97b3f3e_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgDBAYC/8QALBAAAQMDBAECBAcAAAAAAAAAAQIDBAAFEQYHEmExFSETIlHBM0FSkaHC4//EABgBAAMBAQAAAAAAAAAAAAAAAAABBAID/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECAxFBIf/aAAwDAQACEQMRAD8AY2XcG4RCeI6rGXDdrScO5rgSb7AaltE80FRISR5BUBxB6zmoN27Vc7vp+VEs1xft81QBQ40vhzwDlCj5AOfI67pN3tHaiZmuRVWG7/HQSClDKlA9ggYI7zUq96XU0RmtbHi01uPYNSF0WS5RpqmfxEtkhSR9eKgDjvxU24DyH9ONOHGBIZV+ziT9qTXb7SerVashemQ7va5CFjnNW2psMIz8xJIwfbPy/n4pvdXpJ0TJVhRLSeeT5OBnP8U94YuqVbWMykrdJiQMrsSs9zP86or3AYcSONlCR9DKJ/rRRSaOSLUfX6ABizte36pCj9q51DuI7JsUuJ6WwlDrZRkOqOMjGaKKEww//9k=
+ogImage: null
 labels:
   - Geschichten & Erlebtes
   - Internet
@@ -19,17 +26,12 @@ labels:
   - Soziale Netzwerke
   - Virales Marketing
   - Werbung
-type: Artikel
-typeName: Artikel
-date: 2012-07-10T15:27:46.000Z
+focusKeyword: Virales Marketing
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "10789"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_11156823293_c9b97b3f3e_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_11156823293_c9b97b3f3e_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgDBAYC/8QALBAAAQMDBAECBAcAAAAAAAAAAQIDBAAFEQYHEmExFSETIlHBM0FSkaHC4//EABgBAAMBAQAAAAAAAAAAAAAAAAABBAID/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECAxFBIf/aAAwDAQACEQMRAD8AY2XcG4RCeI6rGXDdrScO5rgSb7AaltE80FRISR5BUBxB6zmoN27Vc7vp+VEs1xft81QBQ40vhzwDlCj5AOfI67pN3tHaiZmuRVWG7/HQSClDKlA9ggYI7zUq96XU0RmtbHi01uPYNSF0WS5RpqmfxEtkhSR9eKgDjvxU24DyH9ONOHGBIZV+ziT9qTXb7SerVashemQ7va5CFjnNW2psMIz8xJIwfbPy/n4pvdXpJ0TJVhRLSeeT5OBnP8U94YuqVbWMykrdJiQMrsSs9zP86or3AYcSONlCR9DKJ/rRRSaOSLUfX6ABizte36pCj9q51DuI7JsUuJ6WwlDrZRkOqOMjGaKKEww//9k=
 subTitle: Mundpropaganda 2.0
   
 ---

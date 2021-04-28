@@ -1,14 +1,21 @@
 ---
-title: Welt Vegan Magazin Ausgabe 1/2016
-seoTitle: Welt Vegan Magazin - Die Ausgabe 1/2016 ist da!
+date: 2016-03-02T13:18:20.000Z
 slug: welt-vegan-magazin-die-ausgabe-12016-ist-da
 path: /2016/03/welt-vegan-magazin-die-ausgabe-12016-ist-da/
-fileName: 2016-03---welt-vegan-magazin-ausgabe-1-2016.md
+type: Artikel
+typeName: Artikel
+title: Welt Vegan Magazin Ausgabe 1/2016
+seoTitle: Welt Vegan Magazin - Die Ausgabe 1/2016 ist da!
+ogTitle: Welt Vegan Magazin - Die Ausgabe 1/2016 ist da!
 description: Das neue Welt Vegan Magazin ist da - Ihr findet es ab sofort im
   Kiosk Eures Vertrauens. Auch ich habe wieder zwei Artikel dazu beigetragen.
 excerpt: Das neue Welt Vegan Magazin ist da - Ihr findet es ab sofort im Kiosk
   Eures Vertrauens. Auch ich habe wieder zwei Artikel dazu beigetragen.
-focusKeyword: Welt Vegan Magazin
+fileName: 2016-03---welt-vegan-magazin-ausgabe-1-2016.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_25411285566_b9736fe9a1_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_25411285566_b9736fe9a1_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQYE/8QAKhAAAQQBBAEDAgcAAAAAAAAAAQIDBBEFAAYSIUETMaFRYSIjMkJxgcH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAgP/xAAiEQACAgAFBQEAAAAAAAAAAAABAgARAwQSIlEhMUGBkcH/2gAMAwEAAhEDEQA/AKPb+FyTmXEXFKZcUyhHqsKbCldiyoWRddDo6Y5ZjswlmXjZrbiTTrdI5p+5AJ+lD/NcO287tiPlVPtOIj5F9XouucSpfOv0+fFED6AauoruHnZuRjUQ3YWVfbHpPqj8Urr94N9jiD83oa5xGbQrDVxfj5EDA1HaDVWf31J57ajEfFB5hpMtamkqQyrihBFVxFjr+T50rs5io4mLjNQpEN9ocnmXEgo4k0FBQNVfV/fTzm4ZxG2IURyeUMtpU0UIaQoKAUfcqF334qvnWK3FtwOIDqMrPJSgopz012gkEpJoGjX9XpoAoWYe+pAizxG3J8KMEt5jkElRHOMD449/i761utvZB/EyhIcIlPJaDaOZUEoHmhfufro0awXI5dWGMF3cylJXtI7rz+bybCEsZR6BHRf5UYVyJ9yVHv51i5E7LtNUrOZJYv2U6CPkHRo1uBKqf//Z
+ogImage: null
 labels:
   - Alge Vegan
   - Artikel
@@ -18,17 +25,12 @@ labels:
   - Text
   - vegan
   - Welt Vegan Magazin
-type: Artikel
-typeName: Artikel
-date: 2016-03-02T13:18:20.000Z
+focusKeyword: Welt Vegan Magazin
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "14139"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_25411285566_b9736fe9a1_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_25411285566_b9736fe9a1_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQYE/8QAKhAAAQQBBAEDAgcAAAAAAAAAAQIDBBEFAAYSIUETMaFRYSIjMkJxgcH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAgP/xAAiEQACAgAFBQEAAAAAAAAAAAABAgARAwQSIlEhMUGBkcH/2gAMAwEAAhEDEQA/AKPb+FyTmXEXFKZcUyhHqsKbCldiyoWRddDo6Y5ZjswlmXjZrbiTTrdI5p+5AJ+lD/NcO287tiPlVPtOIj5F9XouucSpfOv0+fFED6AauoruHnZuRjUQ3YWVfbHpPqj8Urr94N9jiD83oa5xGbQrDVxfj5EDA1HaDVWf31J57ajEfFB5hpMtamkqQyrihBFVxFjr+T50rs5io4mLjNQpEN9ocnmXEgo4k0FBQNVfV/fTzm4ZxG2IURyeUMtpU0UIaQoKAUfcqF334qvnWK3FtwOIDqMrPJSgopz012gkEpJoGjX9XpoAoWYe+pAizxG3J8KMEt5jkElRHOMD449/i761utvZB/EyhIcIlPJaDaOZUEoHmhfufro0awXI5dWGMF3cylJXtI7rz+bybCEsZR6BHRf5UYVyJ9yVHv51i5E7LtNUrOZJYv2U6CPkHRo1uBKqf//Z
 subTitle: Zwei Artikel sind von mir
   
 ---

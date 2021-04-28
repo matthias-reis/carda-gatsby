@@ -1,16 +1,23 @@
 ---
-title: Lani vom Katzentempel Hamburg
-seoTitle: Interview mit Lani vom Katzentempel Hamburg - Frühstück im Katzencafé
+date: 2017-08-23T16:04:28.000Z
 slug: katzentempel-hamburg-interview
 path: /2017/08/katzentempel-hamburg-interview/
-fileName: 2017-08---lani-vom-katzentempel-hamburg.md
+type: Artikel
+typeName: Interview
+title: Lani vom Katzentempel Hamburg
+seoTitle: Interview mit Lani vom Katzentempel Hamburg - Frühstück im Katzencafé
+ogTitle: Interview mit Lani vom Katzentempel Hamburg - Frühstück im Katzencafé
 description: Ich habe mich mit Lani vom Katzentempel Hamburg zum Frühstück
   getroffen. Im Interview hat Sie mir einiges zum Thema Tierschutz und
   Katzencafé verraten.
 excerpt: Ich habe mich mit Lani vom Katzentempel Hamburg zum Frühstück
   getroffen. Im Interview hat Sie mir einiges zum Thema Tierschutz und
   Katzencafé verraten.
-focusKeyword: Katzentempel
+fileName: 2017-08---lani-vom-katzentempel-hamburg.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36363403920_ad9c4bc347_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36363403920_ad9c4bc347_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKRAAAQQBAwMEAQUAAAAAAAAAAQIDBBEFAAYhEjFRBxMiYUEjMnGBsv/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAAL/xAAeEQACAgICAwAAAAAAAAAAAAABAgADESEEQRIiMf/aAAwDAQACEQMRAD8A69nZMuDgZsrHspdltN20lY4skCz/ABZP9ah2dBWzhn2nH5M1NB73ZST1hZJ+NmwRXjtqs5AXL2w2h19SJEolxB6ikUDxYvseLH3pVmWVxMajDbfkIh5yOhEhDbbxZTINEKa6rHJT1Ec1YHnQFCWDdRhYgQr3mdIabSFMe2y2sFA/AI7itZXNuJlTRKbBDJAb+SSk9QUqxR8VrF7C3ZnJe0ZUbMIUzMgyURmVuoLbntqCldSyTRI6e/gayu3t9xHc2vGbofU2w+Fue+44UBCgFEgUf3GxyB9c3qTm2eviozNSSjy3mfV1cB9iMcG28pr9FLhlKSQAQfwn6Goctu6HkpcqJLwEZUic00pclLygofNKE8eBd0CAa7aNGnYne5VWigLr7E2A3dOyOckY98FMWHDcZSylxRboE2oJVdKVYs2eAAK0p9BcPA3RuvIjPxxODPTISHTfyDiq/wAjRo10ADnMCwCf/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36363403920_ad9c4bc347_k__l.jpg
 labels:
   - adoptdontshop
   - animalsunited
@@ -33,18 +40,13 @@ labels:
   - Tierrechte
   - Tierrettung
   - Tierschutz
-type: Artikel
-typeName: Interview
-date: 2017-08-23T16:04:28.000Z
+focusKeyword: Katzentempel
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <i> (214:95)"
-thumbnailId: "17714"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36363403920_ad9c4bc347_k__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36363403920_ad9c4bc347_k__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKRAAAQQBAwMEAQUAAAAAAAAAAQIDBBEFAAYhEjFRBxMiYUEjMnGBsv/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAAL/xAAeEQACAgICAwAAAAAAAAAAAAABAgADESEEQRIiMf/aAAwDAQACEQMRAD8A69nZMuDgZsrHspdltN20lY4skCz/ABZP9ah2dBWzhn2nH5M1NB73ZST1hZJ+NmwRXjtqs5AXL2w2h19SJEolxB6ikUDxYvseLH3pVmWVxMajDbfkIh5yOhEhDbbxZTINEKa6rHJT1Ec1YHnQFCWDdRhYgQr3mdIabSFMe2y2sFA/AI7itZXNuJlTRKbBDJAb+SSk9QUqxR8VrF7C3ZnJe0ZUbMIUzMgyURmVuoLbntqCldSyTRI6e/gayu3t9xHc2vGbofU2w+Fue+44UBCgFEgUf3GxyB9c3qTm2eviozNSSjy3mfV1cB9iMcG28pr9FLhlKSQAQfwn6Goctu6HkpcqJLwEZUic00pclLygofNKE8eBd0CAa7aNGnYne5VWigLr7E2A3dOyOckY98FMWHDcZSylxRboE2oJVdKVYs2eAAK0p9BcPA3RuvIjPxxODPTISHTfyDiq/wAjRo10ADnMCwCf/9k=
 subTitle: Frühstück im Katzencafé
   
 ---

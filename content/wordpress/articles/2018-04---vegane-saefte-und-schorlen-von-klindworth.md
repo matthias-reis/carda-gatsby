@@ -1,16 +1,23 @@
 ---
-title: Vegane Säfte und Schorlen von Klindworth
-seoTitle: "Getestet: Klindworth vegane Säfte - Niehoffs Vaihinger jetzt vegan"
+date: 2018-04-01T15:17:15.000Z
 slug: vegane-saefte-und-schorlen-im-test
 path: /2018/04/vegane-saefte-und-schorlen-im-test/
-fileName: 2018-04---vegane-saefte-und-schorlen-von-klindworth.md
+type: Artikel
+typeName: Produkttest
+title: Vegane Säfte und Schorlen von Klindworth
+seoTitle: "Getestet: Klindworth vegane Säfte - Niehoffs Vaihinger jetzt vegan"
+ogTitle: "Getestet: Klindworth vegane Säfte - Niehoffs Vaihinger jetzt vegan"
 description: Ob ich Lust hätte, vegane Säfte und Schorlen von Klindworth zu
   testen wurde ich gefragt. Hersteller Niehoffs Vaihinger setzt jetzt komplett
   auf vegan.
 excerpt: Werbung - Ob ich Lust hätte, vegane Säfte und Schorlen von Klindworth
   zu testen wurde ich gefragt. Hersteller Niehoffs Vaihinger setzt jetzt
   komplett auf vegan.
-focusKeyword: vegane Säfte
+fileName: 2018-04---vegane-saefte-und-schorlen-von-klindworth.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_41034073871_275df277a4_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_41034073871_275df277a4_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgADBwT/xAAoEAABAwMDAwQDAQAAAAAAAAABAgMEAAURBhIhIjFRExRBYQckgaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQC/8QAHhEAAgICAgMAAAAAAAAAAAAAAQMAAhESBCEFMeH/2gAMAwEAAhEDEQA/AOI+3C+Pk8UzYtFsnaovKG5X66LepxtaXx1ObUgJye/OeKIW2Sl65RmgCfUcCeFbTz9/FOtG2mVHuj8ZB9whbLanXNyGi2CsjIHOfOM1F5F9krJqcH7KOOrehsRnsQXdoEVGmLI+28lUlwves3vB2DI28DkZHmvBqHS71nslsuMmQ0TcEhxthKTuSnbnKiePHbzSqRpoN2+PLwHXJTpbUlzYEKJUQMBPIx/tYfmeWk3+LAaWlTMGOGkbD0jsOP4kU7jOq6ptU57Mn01zBTC3GH232VbXW1BaSRkZH1XRLS5eIMlx5q5M7loCCDETjAOR8+TVVTWoW4asGRGLZeoIqeppAauMabb3JlxTLixXvWDHt0o3HnHUDnuc0G1845J1XOdcWcrKTjx0jiqqha6LGKDAmLep/9k=
+ogImage: null
 labels:
   - Afri Cola vegan
   - Afri-Cola
@@ -43,17 +50,12 @@ labels:
   - vegane Ernährung
   - vegane Getränke
   - vegane Säfte
-type: Artikel
-typeName: Produkttest
-date: 2018-04-01T15:17:15.000Z
+focusKeyword: vegane Säfte
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "20360"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_41034073871_275df277a4_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_41034073871_275df277a4_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgADBwT/xAAoEAABAwMDAwQDAQAAAAAAAAABAgMEAAURBhIhIjFRExRBYQckgaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQC/8QAHhEAAgICAgMAAAAAAAAAAAAAAQMAAhESBCEFMeH/2gAMAwEAAhEDEQA/AOI+3C+Pk8UzYtFsnaovKG5X66LepxtaXx1ObUgJye/OeKIW2Sl65RmgCfUcCeFbTz9/FOtG2mVHuj8ZB9whbLanXNyGi2CsjIHOfOM1F5F9krJqcH7KOOrehsRnsQXdoEVGmLI+28lUlwves3vB2DI28DkZHmvBqHS71nslsuMmQ0TcEhxthKTuSnbnKiePHbzSqRpoN2+PLwHXJTpbUlzYEKJUQMBPIx/tYfmeWk3+LAaWlTMGOGkbD0jsOP4kU7jOq6ptU57Mn01zBTC3GH232VbXW1BaSRkZH1XRLS5eIMlx5q5M7loCCDETjAOR8+TVVTWoW4asGRGLZeoIqeppAauMabb3JlxTLixXvWDHt0o3HnHUDnuc0G1845J1XOdcWcrKTjx0jiqqha6LGKDAmLep/9k=
 subTitle: Niehoffs Vaihinger ist jetzt vegan
   
 ---

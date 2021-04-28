@@ -1,16 +1,23 @@
 ---
-title: Das Glücksschwein aus dem Elbtunnel
-seoTitle: Das Glücksschwein aus dem Elbtunnel - Viktorias Weg auf den Erdlingshof
+date: 2017-11-22T13:19:17.000Z
 slug: das-gluecksschwein-aus-dem-elbtunnel
 path: /2017/11/das-gluecksschwein-aus-dem-elbtunnel/
-fileName: 2017-11---das-gluecksschwein-aus-dem-elbtunnel.md
+type: Artikel
+typeName: Artikel
+title: Das Glücksschwein aus dem Elbtunnel
+seoTitle: Das Glücksschwein aus dem Elbtunnel - Viktorias Weg auf den Erdlingshof
+ogTitle: Das Glücksschwein aus dem Elbtunnel - Viktorias Weg auf den Erdlingshof
 description: Viktorias Geschichte gleicht einer steinigen, gewundenen Straße.
   Wie das Glücksschwein aus dem Elbtunnel seinen Weg in ein glückliches Leben
   doch noch fand.
 excerpt: Viktorias Geschichte gleicht einer steinigen, gewundenen Straße. Wie
   das Glücksschwein aus dem Elbtunnel seinen Weg in ein glückliches Leben doch
   noch fand.
-focusKeyword: Elbtunnel
+fileName: 2017-11---das-gluecksschwein-aus-dem-elbtunnel.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_26809372159_1e3bd88286_z-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_26809372159_1e3bd88286_z-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwP/xAApEAACAgEDAwMDBQAAAAAAAAABAgMEEQAFIQYSMRNBUQciYRQVMoGR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAHBEBAAMBAAMBAAAAAAAAAAAAAQACESEDIjFB/9oADAMBAAIRAxEAPwDENn265cmherXtdnfkSpGygcEZz48/GrfbPpx1Jus0k9OhfklOIxYsusMHaUYNl3I7iPtI7QfBzrttPTbU5XSI2rNDAUkOkgXP8WVeGHOQeMfnWibr1AuzdB0Ns2i9XgnroI7DKFDgsWLKBkkNyCc+ORoRbbcj3xegv2ZjP0RQ6Z3aZeorP7nfdFeOttVpQsPz6sjxMCT7Kq/knVNtX08u17pu1t22eJcKK8c7xuyOgyO7vrlCQzNkY+OTjU5+qSO+lqw3qSAYwx5Jzwf905Pu9ONEJk7SwLKW5DY8kH399b1q9bPJFimBU7+x6r03HA8fo3LKRvH6pjVyE7uTyM4I48HS+49L7O1BLQitxyyspIjnCgklvP25I/saNGg1s7EJycH27Zae8mvLtj2DJFlGey+FySvI5DcjI8Y9vnVDuHS+3WZJmxOq7dA0YQymQSI+X7fvz2hTnGPGfxo0asVNWQgOZP/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_11_26809372159_1e3bd88286_z-1__l.jpg
 labels:
   - A7
   - Elbtunnel
@@ -27,17 +34,12 @@ labels:
   - Tierrechte
   - Tierschutz
   - Viktoria
-type: Artikel
-typeName: Artikel
-date: 2017-11-22T13:19:17.000Z
+focusKeyword: Elbtunnel
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "18569"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_26809372159_1e3bd88286_z-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_26809372159_1e3bd88286_z-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwP/xAApEAACAgEDAwMDBQAAAAAAAAABAgMEEQAFIQYSMRNBUQciYRQVMoGR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAHBEBAAMBAAMBAAAAAAAAAAAAAQACESEDIjFB/9oADAMBAAIRAxEAPwDENn265cmherXtdnfkSpGygcEZz48/GrfbPpx1Jus0k9OhfklOIxYsusMHaUYNl3I7iPtI7QfBzrttPTbU5XSI2rNDAUkOkgXP8WVeGHOQeMfnWibr1AuzdB0Ns2i9XgnroI7DKFDgsWLKBkkNyCc+ORoRbbcj3xegv2ZjP0RQ6Z3aZeorP7nfdFeOttVpQsPz6sjxMCT7Kq/knVNtX08u17pu1t22eJcKK8c7xuyOgyO7vrlCQzNkY+OTjU5+qSO+lqw3qSAYwx5Jzwf905Pu9ONEJk7SwLKW5DY8kH399b1q9bPJFimBU7+x6r03HA8fo3LKRvH6pjVyE7uTyM4I48HS+49L7O1BLQitxyyspIjnCgklvP25I/saNGg1s7EJycH27Zae8mvLtj2DJFlGey+FySvI5DcjI8Y9vnVDuHS+3WZJmxOq7dA0YQymQSI+X7fvz2hTnGPGfxo0asVNWQgOZP/Z
 subTitle: Viktorias Weg auf den Erdlingshof
   
 ---

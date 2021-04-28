@@ -1,16 +1,23 @@
 ---
-title: Fleisch bald teurer?
-seoTitle: Fleisch bald teurer? Neue Studie der Uni Augsburg
+date: 2021-01-01T16:15:38.000Z
 slug: fleisch-zu-billig-uni-augsburg
 path: /2021/01/fleisch-zu-billig-uni-augsburg/
-fileName: 2021-01---fleisch-bald-teurer.md
+type: Artikel
+typeName: Artikel
+title: Fleisch bald teurer?
+seoTitle: Fleisch bald teurer? Neue Studie der Uni Augsburg
+ogTitle: Fleisch bald teurer? Neue Studie der Uni Augsburg
 description: Fleisch ist zu billig. Wenn wir das Klima retten wollen, müssen wir
   für erheblich höhere Preise sorgen. Das geht aus einer Studie der Uni Augsburg
   hervor.
 excerpt: Fleisch ist zu billig. Wenn wir das Klima retten wollen, müssen wir für
   erheblich höhere Preise sorgen. Das geht aus einer Studie der Uni Augsburg
   hervor.
-focusKeyword: Fleisch
+fileName: 2021-01---fleisch-bald-teurer.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_fleisch__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_fleisch__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQDBQEHCP/EACoQAAEDAwMDAQkAAAAAAAAAAAECBBEAAwUTITESFHFhFSIjJTNBY5Gh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgUG/8QAHhEBAAIBBAMAAAAAAAAAAAAAAQACBAMRMVESMpH/2gAMAwEAAhEDEQA/ANsN2BgQBTaWJHKQafsZLDdIV7SZRwDrJ3/tNJyeF2+ZMpPHxU1Ztk26kGuGdyp7TpmbQjxULlnbUn6Q/VXwymGgLRkmgkSDqp4pZxk8MpR6skz6j+UCaNch34jtiG3M5pRcUs2ld84CxAJDkp1AI2O+9TBWqoQ7Wu2eUJcEoPrPM0UVhL6tx9mU/AmPctqkuriEKglAuGFHyTM+D9qidZZo0tIW41LdveVG8sngxAn0oop1HUQsv2FAn//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_klimawandel-fb.png__l.jpg
 labels:
   - Fleisch
   - Klima & Umweltschutz
@@ -19,17 +26,12 @@ labels:
   - Klimawandel
   - Tierrechte
   - Universität Augsburg
-type: Artikel
-typeName: Artikel
-date: 2021-01-01T16:15:38.000Z
+focusKeyword: Fleisch
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32233"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_fleisch__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_fleisch__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQDBQEHCP/EACoQAAEDAwMDAQkAAAAAAAAAAAECBBEAAwUTITESFHFhFSIjJTNBY5Gh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgUG/8QAHhEBAAIBBAMAAAAAAAAAAAAAAQACBAMRMVESMpH/2gAMAwEAAhEDEQA/ANsN2BgQBTaWJHKQafsZLDdIV7SZRwDrJ3/tNJyeF2+ZMpPHxU1Ztk26kGuGdyp7TpmbQjxULlnbUn6Q/VXwymGgLRkmgkSDqp4pZxk8MpR6skz6j+UCaNch34jtiG3M5pRcUs2ld84CxAJDkp1AI2O+9TBWqoQ7Wu2eUJcEoPrPM0UVhL6tx9mU/AmPctqkuriEKglAuGFHyTM+D9qidZZo0tIW41LdveVG8sngxAn0oop1HUQsv2FAn//Z
 subTitle: Fleisch müsste 146 Prozent mehr kosten
   
 ---

@@ -1,33 +1,35 @@
 ---
-title: Glückliches Wiedersehen in Penzance
-seoTitle: Glückliches Wiedersehen in Penzance, Cornwall
+date: 2020-02-06T17:50:00.000Z
 slug: penzance
 path: /2020/02/penzance/
-fileName: 2020-02---glueckliches-wiedersehen-in-penzance.md
+type: Galerie
+typeName: Galerie
+title: Glückliches Wiedersehen in Penzance
+seoTitle: Glückliches Wiedersehen in Penzance, Cornwall
+ogTitle: Glückliches Wiedersehen in Penzance, Cornwall
 description: Nach Penzance zieht es mich immer wieder. Ich liebe das Flair des
   Piratenortes an der Küste von Cornwall. Das Klima ist dort mild und der Wind
   oft rau.
 excerpt: Nach Penzance zieht es mich immer wieder. Ich liebe das Flair des
   Piratenortes an der Küste von Cornwall. Das Klima ist dort mild und der Wind
   oft rau.
-focusKeyword: Penzance
+fileName: 2020-02---glueckliches-wiedersehen-in-penzance.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2019-08-19-penzance-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2019-08-19-penzance-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAYF/8QALRAAAQMDAwEFCQEAAAAAAAAAAQIDBAAFEQYSITEHExQiQRUWJFFhYnGBkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADESEE/9oADAMBAAIRAxEAPwC92fNsOaQtDjjzbQ7gAb3UIxgkepzWlcumnIgUJl9sbKwOUu3FBI/WaWmmOza3at0HYnoFsSmVDcLzjrgwmW5uHeNuHIJQdoAKT5fT1rf6t7M4GoNKtWey2Rq0JZnNvlbUUIBQNyXBuxlStqjjORnFIvkmg3JE9rfRcRxGNSWhSsp8scLcUrn7Qc0pbeWJUWVJhsKkx3JUhTbyVBCVoLiiMA89D8qeGktIez7JHa91oMGWWu6ffixktlYIKSoKPnBKT/SccUpNOWaVZ7NOtDpYS7b5z8Q70lSspIxyFAdCP9qFx1RL0ceZluBa1xfhZdyQ+MFLaHQlABPOABgfipGWGvEBpq8XVlQUQCXM4+vQdaKKytY4PDNI81LDqidCNFPh23VapkpeO7cy+SSOuM4WKrWqfJiGbFcltrBUXStLIG9R4KlZKiTx1ooph2YdMIorrOoMn//Z
+ogImage: null
 labels:
   - Britische Inseln
   - Cornwall
   - England
   - Fernweh
   - Penzance
-type: Galerie
-typeName: Galerie
-date: 2020-02-06T17:50:00.000Z
+focusKeyword: Penzance
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "27341"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2019-08-19-penzance-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2019-08-19-penzance-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAYF/8QALRAAAQMDAwEFCQEAAAAAAAAAAQIDBAAFEQYSITEHExQiQRUWJFFhYnGBkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADESEE/9oADAMBAAIRAxEAPwC92fNsOaQtDjjzbQ7gAb3UIxgkepzWlcumnIgUJl9sbKwOUu3FBI/WaWmmOza3at0HYnoFsSmVDcLzjrgwmW5uHeNuHIJQdoAKT5fT1rf6t7M4GoNKtWey2Rq0JZnNvlbUUIBQNyXBuxlStqjjORnFIvkmg3JE9rfRcRxGNSWhSsp8scLcUrn7Qc0pbeWJUWVJhsKkx3JUhTbyVBCVoLiiMA89D8qeGktIez7JHa91oMGWWu6ffixktlYIKSoKPnBKT/SccUpNOWaVZ7NOtDpYS7b5z8Q70lSspIxyFAdCP9qFx1RL0ceZluBa1xfhZdyQ+MFLaHQlABPOABgfipGWGvEBpq8XVlQUQCXM4+vQdaKKytY4PDNI81LDqidCNFPh23VapkpeO7cy+SSOuM4WKrWqfJiGbFcltrBUXStLIG9R4KlZKiTx1ooph2YdMIorrOoMn//Z
 subTitle: Cornwall meine große Liebe
   
 ---

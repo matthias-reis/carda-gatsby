@@ -1,32 +1,34 @@
 ---
-title: Büsum zeigt sich sonnig und stürmisch
-seoTitle: Büsum zeigt sich sonnig und stürmisch - Frühling an der Norsee
+date: 2016-04-06T14:05:41.000Z
 slug: buesum-zeigt-sich-sonnig-und-stuermisch
 path: /2016/04/buesum-zeigt-sich-sonnig-und-stuermisch/
-fileName: 2016-04---buesum-zeigt-sich-sonnig-und-stuermisch.md
+type: Artikel
+typeName: Artikel
+title: Büsum zeigt sich sonnig und stürmisch
+seoTitle: Büsum zeigt sich sonnig und stürmisch - Frühling an der Norsee
+ogTitle: Büsum zeigt sich sonnig und stürmisch - Frühling an der Norsee
 description: Büsum heißt auf Plattdeutsch "Büsen". Am 28. März haben wir das
   gemütliche Nordsee-Örtchen im Kreis Dithmarschen bei stürmisch-sonnigem Wetter
   besucht.
 excerpt: Büsum heißt auf Plattdeutsch "Büsen". Am 28. März haben wir das
   gemütliche Nordsee-Örtchen im Kreis Dithmarschen bei stürmisch-sonnigem Wetter
   besucht.
-focusKeyword: Büsum
+fileName: 2016-04---buesum-zeigt-sich-sonnig-und-stuermisch.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_04_26245592326_95d83b2957_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_04_26245592326_95d83b2957_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCBgEEB//EACsQAAEDAgUCBAcAAAAAAAAAAAECAwQAEQUSITFRBiIycaHRExVBkbGy8P/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABwRAAIBBQEAAAAAAAAAAAAAAAABAgMREyFBMf/aAAwDAQACEQMRAD8AsWHdKtR2kgLSSBv3e9b6cBAGjvofesYhic5h/B24ESO829MDMpZuS0yULOYgHQ5gkZtvvT9iUjOn4kdvKB3WJud9vSlmk+hwxXCvuYBcaPkeQNKcU6RMhpQMtQvykkV0lpyH8vbdfgozKsNFHkjW9uOBVVT1HgT84JZw+QH3ilm5JsPHa4zWHgP04pRnUe0F04+MjFcdfQFLbia8tKJ/amrKUqbOVtkJF7DJcfmiisKkzbZWJyguMyhlLhUytSnAkjVJ0NgeO46UomKKEdoSPIAf25ooqzIn/9k=
+ogImage: null
 labels:
   - Ausflug
   - Büsum
   - Frühling
   - Nordsee
-type: Artikel
-typeName: Artikel
-date: 2016-04-06T14:05:41.000Z
+focusKeyword: Büsum
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "14366"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_04_26245592326_95d83b2957_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_04_26245592326_95d83b2957_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCBgEEB//EACsQAAEDAgUCBAcAAAAAAAAAAAECAwQAEQUSITFRBiIycaHRExVBkbGy8P/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABwRAAIBBQEAAAAAAAAAAAAAAAABAgMREyFBMf/aAAwDAQACEQMRAD8AsWHdKtR2kgLSSBv3e9b6cBAGjvofesYhic5h/B24ESO829MDMpZuS0yULOYgHQ5gkZtvvT9iUjOn4kdvKB3WJud9vSlmk+hwxXCvuYBcaPkeQNKcU6RMhpQMtQvykkV0lpyH8vbdfgozKsNFHkjW9uOBVVT1HgT84JZw+QH3ilm5JsPHa4zWHgP04pRnUe0F04+MjFcdfQFLbia8tKJ/amrKUqbOVtkJF7DJcfmiisKkzbZWJyguMyhlLhUytSnAkjVJ0NgeO46UomKKEdoSPIAf25ooqzIn/9k=
 subTitle: Frühlingsausflug an die Nordsee
   
 ---

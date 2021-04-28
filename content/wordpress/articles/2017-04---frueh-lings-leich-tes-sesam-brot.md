@@ -1,16 +1,23 @@
 ---
-title: Früh­lings­leich­tes Sesam-Brot
-seoTitle: Frühlingsleichtes Sesam-Brot - Rezept mit Kichererbsenmehl
+date: 2017-04-18T14:10:28.000Z
 slug: sesambrot-kichererbsenmehl
 path: /2017/04/sesambrot-kichererbsenmehl/
-fileName: 2017-04---frueh-lings-leich-tes-sesam-brot.md
+type: Artikel
+typeName: Rezept
+title: Früh­lings­leich­tes Sesam-Brot
+seoTitle: Frühlingsleichtes Sesam-Brot - Rezept mit Kichererbsenmehl
+ogTitle: Frühlingsleichtes Sesam-Brot - Rezept mit Kichererbsenmehl
 description: "Ich verrate Euch ein Rezept, dass ich vor Kurzem kreiert habe. Das
   Brot ist schön leicht. Es passt sehr gut zu Gegrilltem. Der Twist:
   Kichererbsenmehl."
 excerpt: "Ich verrate Euch ein Rezept, dass ich vor Kurzem kreiert habe. Das
   Brot ist schön leicht. Es passt sehr gut zu Gegrilltem. Der Twist:
   Kichererbsenmehl."
-focusKeyword: Kichererbsenmehl
+fileName: 2017-04---frueh-lings-leich-tes-sesam-brot.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_34075358996_7ae8e54324_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_34075358996_7ae8e54324_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcC/8QAJxAAAgEDAwMEAwEAAAAAAAAAAQIDBAURABIhBiIxE0FRYQcUQpH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBgID/8QAJREAAgEDAwIHAAAAAAAAAAAAAQMCAAQREiFRIkEFMTKBkaHw/9oADAMBAAIRAxEAPwB4qeprlRpEtFaKmhrjuD0iRYo3TCqGDAK2cfHuOPOiimuV0pPSukzLRDu/XZxIwI8MG/n6HONJ1Fc7sKhUu0NxIjiDJLWxdpBPOMKoyCR/upL3YU8i7ZW3SNgM3cuccHGgnsfKWlp9hsKVsFpkoNA3PP7ammmjqaapZ4BJMyoyLGXB9dSQTk5AzjwCM5HnV2/VlRHHHFVUkFVRPtEhqe3YCDnIYfHkc451mp6kpKZEimd4ZwO2UNvVvs++Pr21W0dRfes61obasEdqt5WesqJwg2qCW2lnIHtjzj71i1Y0SAV37V0uIq0kz3xW2dRS217a0N1jWYSKZ3ecsoiVRgykjlQMgZPPgYGslo+mrddrslLZbzd5X9TbIslJSzlcHkqRIrbQNp/sgMDo0ao2Jgz1DNAB04HpOKi9bfjyhsr26arvdfXNVTzRiH0FVSyNjJwQMcfOfGur31MJulKe20NrordS22oWWamiJAkKqeGJyGzuDDOeQPjRo1MXzp29zJSjiJxt9H5zQV74lcpu+iflpPPHNf/Z
+ogImage: null
 labels:
   - Bread with a twist
   - Brot
@@ -32,17 +39,12 @@ labels:
   - vegan
   - Vegane Rezepte
   - veganes Brot
-type: Artikel
-typeName: Rezept
-date: 2017-04-18T14:10:28.000Z
+focusKeyword: Kichererbsenmehl
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16474"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_34075358996_7ae8e54324_k__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_34075358996_7ae8e54324_k__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcC/8QAJxAAAgEDAwMEAwEAAAAAAAAAAQIDBAURABIhBiIxE0FRYQcUQpH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBgID/8QAJREAAgEDAwIHAAAAAAAAAAAAAQMCAAQREiFRIkEFMTKBkaHw/9oADAMBAAIRAxEAPwB4qeprlRpEtFaKmhrjuD0iRYo3TCqGDAK2cfHuOPOiimuV0pPSukzLRDu/XZxIwI8MG/n6HONJ1Fc7sKhUu0NxIjiDJLWxdpBPOMKoyCR/upL3YU8i7ZW3SNgM3cuccHGgnsfKWlp9hsKVsFpkoNA3PP7ammmjqaapZ4BJMyoyLGXB9dSQTk5AzjwCM5HnV2/VlRHHHFVUkFVRPtEhqe3YCDnIYfHkc451mp6kpKZEimd4ZwO2UNvVvs++Pr21W0dRfes61obasEdqt5WesqJwg2qCW2lnIHtjzj71i1Y0SAV37V0uIq0kz3xW2dRS217a0N1jWYSKZ3ecsoiVRgykjlQMgZPPgYGslo+mrddrslLZbzd5X9TbIslJSzlcHkqRIrbQNp/sgMDo0ao2Jgz1DNAB04HpOKi9bfjyhsr26arvdfXNVTzRiH0FVSyNjJwQMcfOfGur31MJulKe20NrordS22oWWamiJAkKqeGJyGzuDDOeQPjRo1MXzp29zJSjiJxt9H5zQV74lcpu+iflpPPHNf/Z
 subTitle: Mit Kichererbsenmehl
   
 ---

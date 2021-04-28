@@ -1,16 +1,23 @@
 ---
-title: Buschfeuer in Australien
-seoTitle: Buschfeuer in Australien - 3 Milliarden Tiere getötet und vertrieben
+date: 2020-07-29T15:47:23.000Z
 slug: buschfeuer-in-australien
 path: /2020/07/buschfeuer-in-australien/
-fileName: 2020-07---buschfeuer-in-australien.md
+type: Artikel
+typeName: Artikel
+title: Buschfeuer in Australien
+seoTitle: Buschfeuer in Australien - 3 Milliarden Tiere getötet und vertrieben
+ogTitle: Buschfeuer in Australien - 3 Milliarden Tiere getötet und vertrieben
 description: Fast drei Milliarden Tiere - Säugetiere, Reptilien, Vögel und
   Frösche wurden in Australien zwischen 2019 und 2020 durch Buschfeuer getötet
   oder vertrieben.
 excerpt: Fast drei Milliarden Tiere - Säugetiere, Reptilien, Vögel und Frösche
   wurden in Australien zwischen 2019 und 2020 durch Buschfeuer getötet oder
   vertrieben.
-focusKeyword: Buschfeuer
+fileName: 2020-07---buschfeuer-in-australien.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_buschfeuer-australien__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_buschfeuer-australien__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBQYH/8QAKBAAAgIBAwMDBAMAAAAAAAAAAQIDEQQAEiEFMUEHE1EGIkJhFCMy/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAAP/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIDEzFh/9oADAMBAAIRAxEAPwDVY+WkwJWdmr8MgLRBHH3VwOfjUE6hjFQ84iWhVoGNkfHF649k/WWfNIhnOSyghSDJRAHY0OBzp/p3qF1CDLYP/IlhC8wyizuvwR2rVWaromOzh1OV8eYxpHHkzmif6n2AX5N1fGq/qeXhY2DNPiyNLKpYKkzEqxUc2F7gfrWEyPUXKeYl+mH2HULIrITfPyCDqs6v6gYkOLI2Lg5CSOp3qZLX3ADT3V9iVI82D3XlHbF6YVBrYn1DAjibfHMJZUZQfbJNAj43G+D+9TyIPbcSYUgiohWMkqIdwojaBz+PnRo1MdxL2c6bbMzy8EIAp2E2o7eD5+NE/TYsjHkjVMmSRxxvbaKH+vtN2e/N6NGsA//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_buschfeuer-fb.png__l.jpg
 labels:
   - Australien
   - Bushfire
@@ -19,17 +26,12 @@ labels:
   - Tierrechte
   - Waldbrand
   - WWF
-type: Artikel
-typeName: Artikel
-date: 2020-07-29T15:47:23.000Z
+focusKeyword: Buschfeuer
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30762"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_buschfeuer-australien__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_buschfeuer-australien__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBQYH/8QAKBAAAgIBAwMDBAMAAAAAAAAAAQIDEQQAEiEFMUEHE1EGIkJhFCMy/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAAP/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIDEzFh/9oADAMBAAIRAxEAPwDVY+WkwJWdmr8MgLRBHH3VwOfjUE6hjFQ84iWhVoGNkfHF649k/WWfNIhnOSyghSDJRAHY0OBzp/p3qF1CDLYP/IlhC8wyizuvwR2rVWaromOzh1OV8eYxpHHkzmif6n2AX5N1fGq/qeXhY2DNPiyNLKpYKkzEqxUc2F7gfrWEyPUXKeYl+mH2HULIrITfPyCDqs6v6gYkOLI2Lg5CSOp3qZLX3ADT3V9iVI82D3XlHbF6YVBrYn1DAjibfHMJZUZQfbJNAj43G+D+9TyIPbcSYUgiohWMkqIdwojaBz+PnRo1MdxL2c6bbMzy8EIAp2E2o7eD5+NE/TYsjHkjVMmSRxxvbaKH+vtN2e/N6NGsA//Z
 subTitle: 3 Milliarden Tiere getötet und vertrieben
   
 ---

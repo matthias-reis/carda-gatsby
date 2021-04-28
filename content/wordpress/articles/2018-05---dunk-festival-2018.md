@@ -1,14 +1,21 @@
 ---
-title: Dunk!festival 2018
-seoTitle: Dunk!festival 2018 - 36 Post-Rock Bands in 3 Tagen
+date: 2018-05-16T15:40:07.000Z
 slug: dunkfestival-2018-postrock-liebe-fuer-immer
 path: /2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/
-fileName: 2018-05---dunk-festival-2018.md
+type: Artikel
+typeName: Artikel
+title: Dunk!festival 2018
+seoTitle: Dunk!festival 2018 - 36 Post-Rock Bands in 3 Tagen
+ogTitle: Dunk!festival 2018 - Liebe für immer - 36 Post-Rock Bands in 3 Tagen
 description: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von
   Donnerstag, 10. Mai bis Samstag, 12. Mai 36 Post-Rock Bands auf.
 excerpt: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von
   Donnerstag, 10. Mai bis Samstag, 12. Mai 36 Post-Rock Bands auf.
-focusKeyword: Postrock
+fileName: 2018-05---dunk-festival-2018.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKRAAAgEDAgUEAgMAAAAAAAAAAQIDBAURABITITFBUQYiYXEUMlKB4f/EABkBAAIDAQAAAAAAAAAAAAAAAAEEAAIDBf/EAB0RAQACAgMBAQAAAAAAAAAAAAEAAgMRIUGREvD/2gAMAwEAAhEDEQA/AMJtVkNTTxyNLCplJ2IXBbA6nb1Gmeg9IolOJ2j9rZCvJyDY641zKD1fbkuMLy0MkdLFnYwILAkBdzD6HbT5cLhT0UEFXWIyQTkiPhe5nwAc5PLuD/ejirsV/EtnsDUp2HvfkWpPTUQUsY9w84wv+6oVVhG3CKGP8UGtBtVPHcbZFVtUKlE2QskjdcE5AHkHr86juN1tdqjdqZnmcrtbifry7gedbmI1t4irld/NeWYJC6JKiOqeyQHL5II7gjxpqNZBc7HR2+Ztn4m8Qz8RjuJbkCpOAoUYH3nno0aSyKV4Z0sBW1wsSnDdIqOkEKTVTKCSsXFIEZ79OoJ58tVGrI5ZS1W0pQMu5VODt+Cc47aNGoVgtbrU/9k=
+ogImage: null
 labels:
   - aswekeepsearching
   - Belgien
@@ -50,17 +57,12 @@ labels:
   - vegan Festival
   - worriedaboutsatan
   - Zottegem
-type: Artikel
-typeName: Artikel
-date: 2018-05-16T15:40:07.000Z
+focusKeyword: Postrock
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "20872"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKRAAAgEDAgUEAgMAAAAAAAAAAQIDBAURABITITFBUQYiYXEUMlKB4f/EABkBAAIDAQAAAAAAAAAAAAAAAAEEAAIDBf/EAB0RAQACAgMBAQAAAAAAAAAAAAEAAgMRIUGREvD/2gAMAwEAAhEDEQA/AMJtVkNTTxyNLCplJ2IXBbA6nb1Gmeg9IolOJ2j9rZCvJyDY641zKD1fbkuMLy0MkdLFnYwILAkBdzD6HbT5cLhT0UEFXWIyQTkiPhe5nwAc5PLuD/ejirsV/EtnsDUp2HvfkWpPTUQUsY9w84wv+6oVVhG3CKGP8UGtBtVPHcbZFVtUKlE2QskjdcE5AHkHr86juN1tdqjdqZnmcrtbifry7gedbmI1t4irld/NeWYJC6JKiOqeyQHL5II7gjxpqNZBc7HR2+Ztn4m8Qz8RjuJbkCpOAoUYH3nno0aSyKV4Z0sBW1wsSnDdIqOkEKTVTKCSsXFIEZ79OoJ58tVGrI5ZS1W0pQMu5VODt+Cc47aNGoVgtbrU/9k=
 subTitle: 36 Post-Rock Bands in drei Tagen
   
 ---

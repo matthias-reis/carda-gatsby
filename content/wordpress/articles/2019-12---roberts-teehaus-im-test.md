@@ -1,15 +1,22 @@
 ---
-title: Roberts Teehaus im Test
-seoTitle: Roberts Teehaus im Test - hochwertiger Tee zum fairen Preis
+date: 2019-12-04T18:08:16.000Z
 slug: roberts-teehaus-im-test
 path: /2019/12/roberts-teehaus-im-test/
-fileName: 2019-12---roberts-teehaus-im-test.md
+type: Artikel
+typeName: Produkttest
+title: Roberts Teehaus im Test
+seoTitle: Roberts Teehaus im Test - hochwertiger Tee zum fairen Preis
+ogTitle: Roberts Teehaus im Test - hochwertiger Tee zum fairen Preis
 description: Ich habe die Tees aus Roberts Teehaus getestet und möchte Euch ein
   paar ausgewählte Sorten empfehlen - von Jasmin Pearls bis Silbernadeltee.
 excerpt: Werbung & Affiliate Links  - Ich habe die Tees aus Roberts Teehaus
   getestet und möchte Euch ein paar ausgewählte Sorten empfehlen - von Jasmin
   Pearls bis Silbernadeltee.
-focusKeyword: Teehaus
+fileName: 2019-12---roberts-teehaus-im-test.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-roberts-teehaus-9__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-roberts-teehaus-9__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKRAAAQMDAwMEAgMAAAAAAAAAAQIDEQAEBQYSIRQxQQcTYXEVoYGR8f/EABgBAAIDAAAAAAAAAAAAAAAAAAIFAQME/8QAIxEAAgEDAwQDAAAAAAAAAAAAAQIDAAQREjFBEyFRkYGx4f/aAAwDAQACEQMRAD8Ax3R+lbi7FtkH1tdMoqUhPJKilUd+ABIPk/VNWZ0s/lWmEY/HW67kqCQ6p8NhKRMiD3/2mz06xuMe0/h2rr30hDQc274K0kboUY8EzXdoa4sMjmc6zdBCukuOmbd7EQhJ/Z3D+KRy211JcpICNJ2/fdMEkgWJlIORvSrj/TY2tm61dXwbQ5zsba9zaYiJkAz3qm1Doxhl161SlxCGUwgGJQI4IPyPB7TW2vvNY7UhZtGmjausJKApYgLBmZPnn9Vm/qPjmrzXLz7V2+22pj31NNklDgCwDyDE8AGpuYWiTqB8MDg0IkVzpC9sA+6Q8F6p3NghhleNQu2b2p2tugEJAggbknv91baA1AvFWF3fNWzTdxe3BdK3XAQo7lR3BHO6I+JoorVfZiQFDg58mqYW1HB+hUOptf5zMXTfQW3TJYdJCwyHSogiOFJgRB+55qsttS5m6B/IuOPupSAHFwmU7t0f2fAoooJVUoQR880RJPNf/9k=
+ogImage: null
 labels:
   - Cey
   - Chai
@@ -32,17 +39,12 @@ labels:
   - Teeverkostung
   - vegane Ernährung
   - Weißer Tee
-type: Artikel
-typeName: Produkttest
-date: 2019-12-04T18:08:16.000Z
+focusKeyword: Teehaus
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "26844"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-roberts-teehaus-9__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-roberts-teehaus-9__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKRAAAQMDAwMEAgMAAAAAAAAAAQIDEQAEBQYSIRQxQQcTYXEVoYGR8f/EABgBAAIDAAAAAAAAAAAAAAAAAAIFAQME/8QAIxEAAgEDAwQDAAAAAAAAAAAAAQIDAAQREjFBEyFRkYGx4f/aAAwDAQACEQMRAD8Ax3R+lbi7FtkH1tdMoqUhPJKilUd+ABIPk/VNWZ0s/lWmEY/HW67kqCQ6p8NhKRMiD3/2mz06xuMe0/h2rr30hDQc274K0kboUY8EzXdoa4sMjmc6zdBCukuOmbd7EQhJ/Z3D+KRy211JcpICNJ2/fdMEkgWJlIORvSrj/TY2tm61dXwbQ5zsba9zaYiJkAz3qm1Doxhl161SlxCGUwgGJQI4IPyPB7TW2vvNY7UhZtGmjausJKApYgLBmZPnn9Vm/qPjmrzXLz7V2+22pj31NNklDgCwDyDE8AGpuYWiTqB8MDg0IkVzpC9sA+6Q8F6p3NghhleNQu2b2p2tugEJAggbknv91baA1AvFWF3fNWzTdxe3BdK3XAQo7lR3BHO6I+JoorVfZiQFDg58mqYW1HB+hUOptf5zMXTfQW3TJYdJCwyHSogiOFJgRB+55qsttS5m6B/IuOPupSAHFwmU7t0f2fAoooJVUoQR880RJPNf/9k=
 subTitle: Hochwertige Tees zum fairen Preis
   
 ---

@@ -1,15 +1,22 @@
 ---
-title: Der Vänern am Morgen
-seoTitle: Der Vänern am Morgen - Der frühe Vogel badet in Ruhe
+date: 2018-09-25T14:55:44.000Z
 slug: der-vaenern-am-morgen
 path: /2018/09/der-vaenern-am-morgen/
-fileName: 2018-09---der-vaenern-am-morgen.md
+type: Galerie
+typeName: Galerie
+title: Der Vänern am Morgen
+seoTitle: Der Vänern am Morgen - Der frühe Vogel badet in Ruhe
+ogTitle: Der Vänern am Morgen - Der frühe Vogel badet in Ruhe
 description: Der Vänern ist nicht nur am Abend eine echte Augenweide. Auch
   morgens kann man hier ein Naturschauspiel erleben. Wenn man etwas früher
   aufsteht...
 excerpt: Der Vänern ist nicht nur am Abend eine echte Augenweide. Auch morgens
   kann man hier ein Naturschauspiel erleben. Wenn man etwas früher aufsteht...
-focusKeyword: der frühe Vogel
+fileName: 2018-09---der-vaenern-am-morgen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44189871294_a9fa6bf089_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44189871294_a9fa6bf089_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QAKRAAAgEDAwIGAgMAAAAAAAAAAQIDBAURABIhEzEGByJRYZEUQUKBsf/EABcBAQEBAQAAAAAAAAAAAAAAAAEDAgT/xAAaEQEBAAMBAQAAAAAAAAAAAAABABESMQJB/9oADAMBAAIRAxEAPwDniGhLNtCqXGGHbjIGreCyN1apoYJJfw4+tKVUtsAIwWx2GSMk8caYtF5WV0tRTSG725toQ7ZEdchR7jPtjVtb/L7xJaqyGsoa62NOGdmy0g37hjBG3kYJ7nvrnc/bGrJQ0R3SM2SBz6Rke3OoZ6VVb1DjGP6047p4BvDQV8tRHbkO7qMUmwPk4K/v/dZW4+XviF1k6dLTuyDLBalBsHznHOhU4Q+E5Ny0XyxTMpF8tMjEcZq04P3rSR1tBUQusdxtz47BalCcfffRo1XZzUOVddqpBT1MkDxysI12Zbcpb5xrM11dJJTo/wDOQEs6yHk/P3o0aZv/2Q==
+ogImage: null
 labels:
   - Binnengewässer
   - Birdwatching
@@ -25,17 +32,12 @@ labels:
   - Sommer
   - Vänern
   - Vögel
-type: Galerie
-typeName: Galerie
-date: 2018-09-25T14:55:44.000Z
+focusKeyword: der frühe Vogel
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "22142"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44189871294_a9fa6bf089_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44189871294_a9fa6bf089_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QAKRAAAgEDAwIGAgMAAAAAAAAAAQIDBAURABIhEzEGByJRYZEUQUKBsf/EABcBAQEBAQAAAAAAAAAAAAAAAAEDAgT/xAAaEQEBAAMBAQAAAAAAAAAAAAABABESMQJB/9oADAMBAAIRAxEAPwDniGhLNtCqXGGHbjIGreCyN1apoYJJfw4+tKVUtsAIwWx2GSMk8caYtF5WV0tRTSG725toQ7ZEdchR7jPtjVtb/L7xJaqyGsoa62NOGdmy0g37hjBG3kYJ7nvrnc/bGrJQ0R3SM2SBz6Rke3OoZ6VVb1DjGP6047p4BvDQV8tRHbkO7qMUmwPk4K/v/dZW4+XviF1k6dLTuyDLBalBsHznHOhU4Q+E5Ny0XyxTMpF8tMjEcZq04P3rSR1tBUQusdxtz47BalCcfffRo1XZzUOVddqpBT1MkDxysI12Zbcpb5xrM11dJJTo/wDOQEs6yHk/P3o0aZv/2Q==
 subTitle: Der frühe Vogel badet in Ruhe
   
 ---

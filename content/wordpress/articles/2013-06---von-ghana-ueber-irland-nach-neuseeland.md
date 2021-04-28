@@ -1,14 +1,21 @@
 ---
-title: Von Ghana über Irland nach Neuseeland
-seoTitle: Von Ghana über Irland nach Neuseeland - Postkarten
+date: 2013-06-14T16:16:53.000Z
 slug: von-ghana-uber-irland-nach-neuseeland
 path: /2013/06/von-ghana-uber-irland-nach-neuseeland/
-fileName: 2013-06---von-ghana-ueber-irland-nach-neuseeland.md
+type: Artikel
+typeName: Artikel
+title: Von Ghana über Irland nach Neuseeland
+seoTitle: Von Ghana über Irland nach Neuseeland - Postkarten
+ogTitle: Von Ghana über Irland nach Neuseeland - Postkarten
 description: Nicht nur aus Ghana, Irland und Neuseeland haben mich in der
   letzten Zeit tolle Postkarten erreicht. Heute erfahrt Ihr ihre Geschichte.
 excerpt: Nicht nur aus Ghana, Irland und Neuseeland haben mich in der letzten
   Zeit tolle Postkarten erreicht. Heute erfahrt Ihr ihre Geschichte.
-focusKeyword: Ghana
+fileName: 2013-06---von-ghana-ueber-irland-nach-neuseeland.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_06_p5180016__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_06_p5180016__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYIAwUH/8QALRAAAQIGAQIFAgcAAAAAAAAAAQIDAAQFERIhMQZBBxMUIlEVFhcjMjNCYXH/xAAXAQADAQAAAAAAAAAAAAAAAAACBQYB/8QAJBEAAgEDBAAHAAAAAAAAAAAAAQIRAAMEBRIhMSIyQWFxseH/2gAMAwEAAhEDEQA/AHrxG6vqFPbaY6efaZLlj61DiF4kHaDl7Uk/38doTGOuOtCm6Oo5fWvcZOEiYmVVGRelJ9ppEksEqeKg4hVlXCri6lXvbi2v8MYmOl6MZTzyxKFkOeWXfSuWCrcft894Trk3LksxI+KptFx7dzF3FFJk+bv0qmPD6vTU90nLTFdn5d+eLzra3c20hQSshP6Tjx3EET3JrlKexKtNzEslgjBlCHQ2pSbnYS4AkDXfftPOoI0aqyeEpMe/5U7mjbkXFUAAE9dd0kUqYTM15iaesqZfSpRcSpABGABGIJ2NA/NiTFEyFBpf4KGsqkEevMlmJhXOXmEXG9G2ommkobYqLK80pKbpGagALg9zq0dIlOs6waD9uJrdO+mBvAy35WWGWW1XJ57wRUW2MieKotMQtiKquBFyTJjiBSXVn6g3WUv00LadaICVpv7hbdxxu5EEbQhp1BxcSt9N/wCZSE71Y42PzzBBrZQqNwpNmqr5NxhzLH7r/9k=
+ogImage: null
 labels:
   - Brief
   - Briefe
@@ -24,18 +31,13 @@ labels:
   - Stamp
   - Tweethearts
   - Twitter
-type: Artikel
-typeName: Artikel
-date: 2013-06-14T16:16:53.000Z
+focusKeyword: Ghana
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "5925"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_06_p5180016__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_06_p5180016__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYIAwUH/8QALRAAAQIGAQIFAgcAAAAAAAAAAQIDAAQFERIhMQZBBxMUIlEVFhcjMjNCYXH/xAAXAQADAQAAAAAAAAAAAAAAAAACBQYB/8QAJBEAAgEDBAAHAAAAAAAAAAAAAQIRAAMEBRIhMSIyQWFxseH/2gAMAwEAAhEDEQA/AHrxG6vqFPbaY6efaZLlj61DiF4kHaDl7Uk/38doTGOuOtCm6Oo5fWvcZOEiYmVVGRelJ9ppEksEqeKg4hVlXCri6lXvbi2v8MYmOl6MZTzyxKFkOeWXfSuWCrcft894Trk3LksxI+KptFx7dzF3FFJk+bv0qmPD6vTU90nLTFdn5d+eLzra3c20hQSshP6Tjx3EET3JrlKexKtNzEslgjBlCHQ2pSbnYS4AkDXfftPOoI0aqyeEpMe/5U7mjbkXFUAAE9dd0kUqYTM15iaesqZfSpRcSpABGABGIJ2NA/NiTFEyFBpf4KGsqkEevMlmJhXOXmEXG9G2ommkobYqLK80pKbpGagALg9zq0dIlOs6waD9uJrdO+mBvAy35WWGWW1XJ57wRUW2MieKotMQtiKquBFyTJjiBSXVn6g3WUv00LadaICVpv7hbdxxu5EEbQhp1BxcSt9N/wCZSE71Y42PzzBBrZQqNwpNmqr5NxhzLH7r/9k=
 subTitle: Die Postkartengalerie
   
 ---

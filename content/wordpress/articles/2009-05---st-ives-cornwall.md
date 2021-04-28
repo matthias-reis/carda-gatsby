@@ -1,13 +1,20 @@
 ---
-title: St. Ives, Cornwall
-seoTitle: St. Ives, Cornwall - Anne bloggt cardamonchai
+date: 2009-05-16T14:06:02.000Z
 slug: st-ives-cornwall-16-05-2009
 path: /2009/05/st-ives-cornwall-16-05-2009/
-fileName: 2009-05---st-ives-cornwall.md
+type: Galerie
+typeName: Galerie
+title: St. Ives, Cornwall
+seoTitle: St. Ives, Cornwall - Anne bloggt cardamonchai
+ogTitle: St. Ives, Cornwall - Anne bloggt cardamonchai
 description: "Erinnerungen an den Frühling in England 2009 - Heute: St. Ives"
 excerpt: Der wohl berühmteste Surfspot Südenglands ist St. Ives - hier trifft
   sich wer ein Brett und Lust auf Wellen hat.
-focusKeyword: St. Ives
+fileName: 2009-05---st-ives-cornwall.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11502848464_72f61c1895_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11502848464_72f61c1895_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQECBP/EADAQAAEDAgMEBwkAAAAAAAAAAAEAAgMEEQUSIQYTFCIxMkFCgZGxQ1FhcXOChMHR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAXEQEBAQEAAAAAAAAAAAAAAAAAEQES/9oADAMBAAIRAxEAPwBQAyPy8RDmtewe0/tTtZM7qkuHvDU6jAKPTd4ewC/Y8aebFw1ez9dvzwmG4Y6Ls3rnZr+DQndRlhUmbKBzZx9pVfOX6m7z4FOp2aqi1hqMJo794Rv9Lt9VBWbO07bXwlx6Pasb8+55K2aIZY5JLc0UpH1n/wBWKiumhjjEMUgLpGtOaZ55Sdba9KEJJuN5K9zo7PiqW/kG6r6rEAGnkrCfhKhCkR//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11502848464_72f61c1895_z__l.jpg
 labels:
   - Britische Inseln
   - Coast
@@ -31,17 +38,12 @@ labels:
   - Surfen
   - Surfer
   - Urlaub
-type: Galerie
-typeName: Galerie
-date: 2009-05-16T14:06:02.000Z
+focusKeyword: St. Ives
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11252"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11502848464_72f61c1895_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11502848464_72f61c1895_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQECBP/EADAQAAEDAgMEBwkAAAAAAAAAAAEAAgMEEQUSIQYTFCIxMkFCgZGxQ1FhcXOChMHR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAXEQEBAQEAAAAAAAAAAAAAAAAAEQES/9oADAMBAAIRAxEAPwBQAyPy8RDmtewe0/tTtZM7qkuHvDU6jAKPTd4ewC/Y8aebFw1ez9dvzwmG4Y6Ls3rnZr+DQndRlhUmbKBzZx9pVfOX6m7z4FOp2aqi1hqMJo794Rv9Lt9VBWbO07bXwlx6Pasb8+55K2aIZY5JLc0UpH1n/wBWKiumhjjEMUgLpGtOaZ55Sdba9KEJJuN5K9zo7PiqW/kG6r6rEAGnkrCfhKhCkR//2Q==
 subTitle: Erinnerungen an den Frühling in England 2009 - Teil 12/17
   
 ---

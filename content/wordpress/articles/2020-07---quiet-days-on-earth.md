@@ -1,14 +1,21 @@
 ---
-title: '"Quiet Days On Earth"'
-seoTitle: '"Quiet Days On Earth" - Das neue Album von Electric Mud'
+date: 2020-07-07T15:28:35.000Z
 slug: electric-mud-quiet-days-on-earth
 path: /2020/07/electric-mud-quiet-days-on-earth/
-fileName: 2020-07---quiet-days-on-earth.md
+type: Artikel
+typeName: Review
+title: '"Quiet Days On Earth"'
+seoTitle: '"Quiet Days On Earth" - Das neue Album von Electric Mud'
+ogTitle: '"Quiet Days On Earth" - Das neue Album von Electric Mud'
 description: Electric Mud aus Hannover haben eine neue Platte  - "Quiet Days On
   Earth" passt perfekt in unsere Zeit und das nicht nur dank seines Titels.
 excerpt: Electric Mud aus Hannover haben eine neue Platte  - "Quiet Days On
   Earth" passt perfekt in unsere Zeit und das nicht nur dank des Titels.
-focusKeyword: Electric Mud
+fileName: 2020-07---quiet-days-on-earth.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-07-electric-mud-01__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-07-electric-mud-01__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QALhAAAgIBAgUCAwkBAAAAAAAAAQIDBBEABQYSEyExFCJBUXEVFiNCQ2GBkaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABQMC/8QAJREAAQQABQMFAAAAAAAAAAAAAQACAxEEBRIh8EFhwRMjUZHR/9oADAMBAAIRAxEAPwDLNjsUBtsNZ2k9QkD1pAsZOGHVA+v6enfCVuDbLFV7HMEWaUyBUJwsiKCfHzT/AHSfhatanu7zNRnMD1XsztIJCh5A3cAj4nmHbVyWbfoLFKlavSH1FWOzGqv3ZGC8oJHf8wyD/OnYMsge1sl7kCxdeD8oqfMJYyW1sL6X57Lm4lWhfaF6jcw9Q55WUqenIiZPceAxf641WOJdpB2Iy8nuyh7/ALoo/wCo2tHeK1DfgoS0aE09i61FJBXXlEihc+MDHuB/v5aRcS0Z/u5JLKsCdaITJ0VVR7ZDGcgDzk6PmwTIm+066786JXD4p016xVg8+wEu4G2/b7VK+L8skHqbUjH8VUPKHyvYg60I7Ns5lg3ChuC/aFUII1mtAI6KoUoTjtkAd/gQDo0agJ5AKB5t+BT9JhNkKeq/DapAYrVuJ683W5WmPtcgZyQMMPaPBOqPxfvFB9tsbZtENxq8Ub4nmBPUZm5sLkAgBgDk+dGjWHzPcNJKtE1rHamhf//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_electric-mud.png__l.jpg
 labels:
   - Ambient
   - Bands
@@ -20,17 +27,12 @@ labels:
   - Prog-Rock
   - Progressive Rock
   - Quiet Days On Earth
-type: Artikel
-typeName: Review
-date: 2020-07-07T15:28:35.000Z
+focusKeyword: Electric Mud
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30315"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-07-electric-mud-01__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-07-electric-mud-01__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QALhAAAgIBAgUCAwkBAAAAAAAAAQIDBBEABQYSEyExFCJBUXEVFiNCQ2GBkaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABQMC/8QAJREAAQQABQMFAAAAAAAAAAAAAQACAxEEBRIh8EFhwRMjUZHR/9oADAMBAAIRAxEAPwDLNjsUBtsNZ2k9QkD1pAsZOGHVA+v6enfCVuDbLFV7HMEWaUyBUJwsiKCfHzT/AHSfhatanu7zNRnMD1XsztIJCh5A3cAj4nmHbVyWbfoLFKlavSH1FWOzGqv3ZGC8oJHf8wyD/OnYMsge1sl7kCxdeD8oqfMJYyW1sL6X57Lm4lWhfaF6jcw9Q55WUqenIiZPceAxf641WOJdpB2Iy8nuyh7/ALoo/wCo2tHeK1DfgoS0aE09i61FJBXXlEihc+MDHuB/v5aRcS0Z/u5JLKsCdaITJ0VVR7ZDGcgDzk6PmwTIm+066786JXD4p016xVg8+wEu4G2/b7VK+L8skHqbUjH8VUPKHyvYg60I7Ns5lg3ChuC/aFUII1mtAI6KoUoTjtkAd/gQDo0agJ5AKB5t+BT9JhNkKeq/DapAYrVuJ683W5WmPtcgZyQMMPaPBOqPxfvFB9tsbZtENxq8Ub4nmBPUZm5sLkAgBgDk+dGjWHzPcNJKtE1rHamhf//Z
 subTitle: Das neue Album von Electric Mud
   
 ---

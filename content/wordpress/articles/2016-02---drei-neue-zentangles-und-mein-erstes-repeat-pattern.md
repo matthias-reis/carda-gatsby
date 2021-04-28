@@ -1,16 +1,23 @@
 ---
-title: Drei neue Zentangles und mein erstes Repeat Pattern
-seoTitle: Repeat Pattern aus meiner Werkstatt
+date: 2016-02-21T17:54:43.000Z
 slug: mein-erstes-repeat-pattern
 path: /2016/02/mein-erstes-repeat-pattern/
-fileName: 2016-02---drei-neue-zentangles-und-mein-erstes-repeat-pattern.md
+type: Artikel
+typeName: Artikel
+title: Drei neue Zentangles und mein erstes Repeat Pattern
+seoTitle: Repeat Pattern aus meiner Werkstatt
+ogTitle: Repeat Pattern aus meiner Werkstatt und drei neue Zentangles
 description: Gestern ist ganz spontan mein erstes richtiges Repeat Pattern
   entstanden! Außerdem habe ich mit Aquarellfarben experimentiert. Hier das
   Ergebnis.
 excerpt: Gestern ist ganz spontan mein erstes richtiges Repeat Pattern
   entstanden! Außerdem habe ich mit Aquarellfarben experimentiert. Hier das
   Ergebnis.
-focusKeyword: Repeat Pattern
+fileName: 2016-02---drei-neue-zentangles-und-mein-erstes-repeat-pattern.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24541644074_89e2b01576_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24541644074_89e2b01576_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABgMEBQEH/8QALRAAAQMCBgAFAgcAAAAAAAAAAQIDBAURAAYSITFBExQiQlFSgQdhcZGx0fD/xAAXAQADAQAAAAAAAAAAAAAAAAABAwUC/8QAJxEAAgECAwcFAAAAAAAAAAAAAQIDABESQdEEISMxYXHwMlGBobH/2gAMAwEAAhEDEQA/APP6hU50WoSmUzJSEpdUhLbSyNwojSEjvjbvDajUNyHBYm1CprVV9RCSp9YDIU2lSQ2kA6nPXuTsLYN0NqO7MkVuYkrU486IqXLalK1kqdIHu6H3t1inIqM0vySmdKGpSkKCXTYJ1cEfHz88YpFiGK5Z6a1Ai2aOCIMAMXak0ioVRXjE1WdpbuoWkEgfp/f7YQfh3mapMZgp0VcyT5WVJbSWi4V6ws21EH2m5seb4Eylaozz70hDbCb+go9IOxAA4Kr8Dr7Y5lGW9IzvQnCpQCagy4lvWQSdQF1Ed2xhwGGAcvOVNhvFxp/V+dBWvOfZhzXYzMOS2xGkGNEaTHUoaG1ruL2tx2Nrj5xRhyWXE+YceSzHYSVXcRpUm/Wk+89J/jCTMmWMxozG6yqmynYannFqkssuOIZSXCsW0i5O99uTz8YMSaVU5EtxbtDrLagpXgRnIrqVA/WRbdaibfABsMNVhhsp7+e5+qQyMrGeYG+XQamoDMXLcbU4222yg2YaWRsTtc/Uo/7YY28teFFr9JakuoKPPMqFhsE+IL93PfJ/PEMehVZNHEdnL1WWBpu15Nd21E7cDcXxNQcuVqlZqpD86jzmkpmMKcWuMpOkBYNgTt0e8AsLYRUphJMxkfcAfiv/2Q==
+ogImage: null
 labels:
   - Achtsamkeit
   - basteln
@@ -24,17 +31,12 @@ labels:
   - Repeat Pattern
   - Zeichnen
   - Zentangle
-type: Artikel
-typeName: Artikel
-date: 2016-02-21T17:54:43.000Z
+focusKeyword: Repeat Pattern
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "14001"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24541644074_89e2b01576_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24541644074_89e2b01576_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABgMEBQEH/8QALRAAAQMCBgAFAgcAAAAAAAAAAQIDBAURAAYSITFBExQiQlFSgQdhcZGx0fD/xAAXAQADAQAAAAAAAAAAAAAAAAABAwUC/8QAJxEAAgECAwcFAAAAAAAAAAAAAQIDABESQdEEISMxYXHwMlGBobH/2gAMAwEAAhEDEQA/APP6hU50WoSmUzJSEpdUhLbSyNwojSEjvjbvDajUNyHBYm1CprVV9RCSp9YDIU2lSQ2kA6nPXuTsLYN0NqO7MkVuYkrU486IqXLalK1kqdIHu6H3t1inIqM0vySmdKGpSkKCXTYJ1cEfHz88YpFiGK5Z6a1Ai2aOCIMAMXak0ioVRXjE1WdpbuoWkEgfp/f7YQfh3mapMZgp0VcyT5WVJbSWi4V6ws21EH2m5seb4Eylaozz70hDbCb+go9IOxAA4Kr8Dr7Y5lGW9IzvQnCpQCagy4lvWQSdQF1Ed2xhwGGAcvOVNhvFxp/V+dBWvOfZhzXYzMOS2xGkGNEaTHUoaG1ruL2tx2Nrj5xRhyWXE+YceSzHYSVXcRpUm/Wk+89J/jCTMmWMxozG6yqmynYannFqkssuOIZSXCsW0i5O99uTz8YMSaVU5EtxbtDrLagpXgRnIrqVA/WRbdaibfABsMNVhhsp7+e5+qQyMrGeYG+XQamoDMXLcbU4222yg2YaWRsTtc/Uo/7YY28teFFr9JakuoKPPMqFhsE+IL93PfJ/PEMehVZNHEdnL1WWBpu15Nd21E7cDcXxNQcuVqlZqpD86jzmkpmMKcWuMpOkBYNgTt0e8AsLYRUphJMxkfcAfiv/2Q==
 subTitle: Neue Bilder aus meinem Kelleratelier
   
 ---

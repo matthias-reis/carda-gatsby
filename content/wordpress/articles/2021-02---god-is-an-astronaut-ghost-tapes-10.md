@@ -1,33 +1,35 @@
 ---
-title: 'God Is An Astronaut – "Ghost Tapes #10"'
-seoTitle: 'God Is An Astronaut – "Ghost Tapes #10" – Review'
+date: 2021-02-12T05:00:38.000Z
 slug: god-is-an-astronaut-ghost-tapes-10-review
 path: /2021/02/god-is-an-astronaut-ghost-tapes-10-review/
-fileName: 2021-02---god-is-an-astronaut-ghost-tapes-10.md
+type: Artikel
+typeName: Review
+title: 'God Is An Astronaut – "Ghost Tapes #10"'
+seoTitle: 'God Is An Astronaut – "Ghost Tapes #10" – Review'
+ogTitle: 'God Is An Astronaut – "Ghost Tapes #10" – Review'
 description: 'Es ist so weit: Heute veröffentlichen God Is An Astronaut ihr
   zehntes Album "Ghost Tapes #10". Ich habe die Platte gehört und spannende
   Details entdeckt.'
 excerpt: 'English & German – Es ist so weit: Heute veröffentlichen God Is An
   Astronaut ihr zehntes Album "Ghost Tapes #10". Ich habe die Platte gehört und
   spannende Details entdeckt.'
-focusKeyword: God Is An Astronaut
+fileName: 2021-02---god-is-an-astronaut-ghost-tapes-10.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_god-is-an-astronaut-ghost-tapes-10__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_god-is-an-astronaut-ghost-tapes-10__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAArEAABAwMCBAUFAQAAAAAAAAABAgMEAAYRBSEIEjFBMlFhhMMHExQjM1T/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQEBAQEAAAAAAAAAAAAAAAABACEx/9oADAMBAAIRAxEAPwBj4YA4W7sDKyhwiJhQAOP7ee1Um5rk1bQIDklelz5SWzkqbUyQRueg33GO3ap3wseO6dv8nzVRrks6HKfanae5+KG3fvPtoUotuhOTsnOAc5Hluaw9qXPsy8NUuqE1Kj6bqcVlxBWlx8xwhQHcbc2OnakXifDgatEPKKnMS+YnHX9PkMUz/SSwGY+gQ9Q1yQrUlPoRJjMuKWW2EqAUE8pOCRt6elLnFP1tX3fw1TsY4WPFdXtPmq3yg85zsFlC2XElKlBXLsQcjrmiiouws9PZXHix4iI6Y8ZlAaQOfPKlIASOvpiopxUHKrV938NFFB2N/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_God-Is-An-Astronaut-%E2%80%93-Ghost-Tapes-10-FB.png__l.jpg
 labels:
   - Bands
   - "Ghost Tapes #10"
   - God Is An Astronaut
   - Jo Quail
   - Post-Rock
-type: Artikel
-typeName: Review
-date: 2021-02-12T05:00:38.000Z
+focusKeyword: God Is An Astronaut
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32305"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_god-is-an-astronaut-ghost-tapes-10__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_god-is-an-astronaut-ghost-tapes-10__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAArEAABAwMCBAUFAQAAAAAAAAABAgMEAAYRBSEIEjFBMlFhhMMHExQjM1T/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQEBAQEAAAAAAAAAAAAAAAABACEx/9oADAMBAAIRAxEAPwBj4YA4W7sDKyhwiJhQAOP7ee1Um5rk1bQIDklelz5SWzkqbUyQRueg33GO3ap3wseO6dv8nzVRrks6HKfanae5+KG3fvPtoUotuhOTsnOAc5Hluaw9qXPsy8NUuqE1Kj6bqcVlxBWlx8xwhQHcbc2OnakXifDgatEPKKnMS+YnHX9PkMUz/SSwGY+gQ9Q1yQrUlPoRJjMuKWW2EqAUE8pOCRt6elLnFP1tX3fw1TsY4WPFdXtPmq3yg85zsFlC2XElKlBXLsQcjrmiiouws9PZXHix4iI6Y8ZlAaQOfPKlIASOvpiopxUHKrV938NFFB2N/9k=
 subTitle: Düsterer durchdachter Post-Rock
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: Vegan radwandern
-seoTitle: Vegan radwandern - Essen und trinken unterwegs
+date: 2020-08-04T11:01:38.000Z
 slug: vegan-radwandern
 path: /2020/08/vegan-radwandern/
-fileName: 2020-08---vegan-radwandern.md
+type: Artikel
+typeName: Artikel
+title: Vegan radwandern
+seoTitle: Vegan radwandern - Essen und trinken unterwegs
+ogTitle: Vegan radwandern - Essen und trinken unterwegs
 description: Vegan radwandern - damit würde ich am liebsten den halben Sommer
   verbringen. Heute zeige ich Euch, was wir auf unseren Fahrradtouren im Gepäck
   haben.
 excerpt: Affiliate Links - Vegan radwandern - damit würde ich am liebsten den
   halben Sommer verbringen. Heute zeige ich Euch, was wir auf unseren
   Fahrradtouren im Gepäck haben.
-focusKeyword: vegan radwandern
+fileName: 2020-08---vegan-radwandern.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-06-28-same-but-green-21__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-06-28-same-but-green-21__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAsEAACAQMDAgQFBQAAAAAAAAABAgMEESEABRIGMQdBUWETFiNxgSIyUqHx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAwX/xAAcEQEAAwADAQEAAAAAAAAAAAABAAIRAxIhQQT/2gAMAwEAAhEDEQA/AIWjTgqAMyXIBVv5eQPp9+x7i+msTIrs6zRsQtkYvYC3+ab+HNV01BuMqdTRmVPg/QWQF0FssCB3uCD5jB1qlPvvhtRR/S2ihewP7Nvv/bDXIPzV5DuWwfkDRX2ZT0/tlRuG901NRQrWys4cRMocMtrkkHBHrpb1xt81FvtXSNRLQzgKGjij4KoIP6lW5yw7D1ucAE6roaraarrKv+WYqilpYuCWJClSzC4XicLZTj2OpTqSd6vea6okZ6gq4QMZCxWwsbZxm/vpmtOCg29dh6eYSdo6ymWKENE7g5LqMixsfsfL8++m3KiSUiHmxJDAySE2Bz+RbRo1PYzSWdvk6aDdGo5lqKVY4+S8SoawJANrYz3PfSKqqomdZSCzg8wWsSTm+PP10aNKGmMzQyf/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_08_vegane-radtour.png__l.jpg
 labels:
   - Achtsamkeit
   - Ausflug
@@ -19,17 +26,12 @@ labels:
   - Radwandern
   - vegan
   - veganes Proviant
-type: Artikel
-typeName: Artikel
-date: 2020-08-04T11:01:38.000Z
+focusKeyword: vegan radwandern
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30940"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-06-28-same-but-green-21__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-06-28-same-but-green-21__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAsEAACAQMDAgQFBQAAAAAAAAABAgMEESEABRIGMQdBUWETFiNxgSIyUqHx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAwX/xAAcEQEAAwADAQEAAAAAAAAAAAABAAIRAxIhQQT/2gAMAwEAAhEDEQA/AIWjTgqAMyXIBVv5eQPp9+x7i+msTIrs6zRsQtkYvYC3+ab+HNV01BuMqdTRmVPg/QWQF0FssCB3uCD5jB1qlPvvhtRR/S2ihewP7Nvv/bDXIPzV5DuWwfkDRX2ZT0/tlRuG901NRQrWys4cRMocMtrkkHBHrpb1xt81FvtXSNRLQzgKGjij4KoIP6lW5yw7D1ucAE6roaraarrKv+WYqilpYuCWJClSzC4XicLZTj2OpTqSd6vea6okZ6gq4QMZCxWwsbZxm/vpmtOCg29dh6eYSdo6ymWKENE7g5LqMixsfsfL8++m3KiSUiHmxJDAySE2Bz+RbRo1PYzSWdvk6aDdGo5lqKVY4+S8SoawJANrYz3PfSKqqomdZSCzg8wWsSTm+PP10aNKGmMzQyf/2Q==
 subTitle: Essen und trinken unterwegs
   
 ---

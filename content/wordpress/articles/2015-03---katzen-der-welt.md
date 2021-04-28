@@ -1,15 +1,22 @@
 ---
-title: Katzen der Welt
-seoTitle: Katzen der Welt
+date: 2015-03-11T09:23:22.000Z
 slug: katzen-der-welt
 path: /2015/03/katzen-der-welt/
-fileName: 2015-03---katzen-der-welt.md
+type: Artikel
+typeName: Artikel
+title: Katzen der Welt
+seoTitle: Katzen der Welt
+ogTitle: Katzen der Welt
 description: Auf meinen Ausflügen u. Reisen habe ich Bilder von Katzen
   gesammelt. Katzen sind für mich schon immer ganz besondere Wesen, schon als
   Kind liebte ich Katzen
 excerpt: Seit einiger Zeit sammle ich Katzen, wenn ich unterwegs bin, sobald ich
   eine sehe, halte ich die Kamera bereit.
-focusKeyword: Katzen
+fileName: 2015-03---katzen-der-welt.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_16139989860_d657bc2b40_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_16139989860_d657bc2b40_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYH/8QAJxAAAgEDAwMEAwEAAAAAAAAAAQIDAAQRBRIhBhMxQUJRoRVhcSL/xAAXAQEAAwAAAAAAAAAAAAAAAAADAAEC/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECERIhA//aAAwDAQACEQMRAD8A4zZ9PBkd3jIQDPnP3VmDpUzW80vYKiEs0u3BKoPdg+nIH9IrY9ISwTa3p9vdxb7J51WfP+d6kcqv78fynX5UXGlXWmxWsqwSzQ3IYPxHuIBDHgshKg/ojNHGqtjSXaRhenOku891l0geNUOT4bk584PxUNb0e67JbHcjj3ANuyMVo9RZITOd4EcgxlDnHPrSe4vXtbcoZdyOHzu8kc4rcJLKsP0i9Mhod7LbT29xCQJEZZEyM4YHI+xTbXNSuJtNiaRlzM5iYIoQYUmQcKB7mP18UUUSGaEHelReJD4pVqMhlQq5OOfBxRRVIj6f/9k=
+ogImage: null
 labels:
   - Fernweh
   - Katze
@@ -18,17 +25,12 @@ labels:
   - Katzenpics
   - süße Katzen
   - Tierrechte
-type: Artikel
-typeName: Artikel
-date: 2015-03-11T09:23:22.000Z
+focusKeyword: Katzen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "10347"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_16139989860_d657bc2b40_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_16139989860_d657bc2b40_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYH/8QAJxAAAgEDAwMEAwEAAAAAAAAAAQIDAAQRBRIhBhMxQUJRoRVhcSL/xAAXAQEAAwAAAAAAAAAAAAAAAAADAAEC/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECERIhA//aAAwDAQACEQMRAD8A4zZ9PBkd3jIQDPnP3VmDpUzW80vYKiEs0u3BKoPdg+nIH9IrY9ISwTa3p9vdxb7J51WfP+d6kcqv78fynX5UXGlXWmxWsqwSzQ3IYPxHuIBDHgshKg/ojNHGqtjSXaRhenOku891l0geNUOT4bk584PxUNb0e67JbHcjj3ANuyMVo9RZITOd4EcgxlDnHPrSe4vXtbcoZdyOHzu8kc4rcJLKsP0i9Mhod7LbT29xCQJEZZEyM4YHI+xTbXNSuJtNiaRlzM5iYIoQYUmQcKB7mP18UUUSGaEHelReJD4pVqMhlQq5OOfBxRRVIj6f/9k=
 subTitle: Nachts grau und tagsüber mit Krallen
   
 ---

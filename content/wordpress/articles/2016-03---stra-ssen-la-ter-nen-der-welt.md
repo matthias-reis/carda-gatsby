@@ -1,14 +1,21 @@
 ---
-title: Stra­ßen­la­ter­nen der Welt
-seoTitle: Straßenlaternen der Welt - Eine romantische Bildergalerie
+date: 2016-03-15T11:22:20.000Z
 slug: strassenlaternen-der-welt-eine-romantische-bildergalerie
 path: /2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/
-fileName: 2016-03---stra-ssen-la-ter-nen-der-welt.md
+type: Galerie
+typeName: Gedicht
+title: Stra­ßen­la­ter­nen der Welt
+seoTitle: Straßenlaternen der Welt - Eine romantische Bildergalerie
+ogTitle: Straßenlaternen der Welt - Eine romantische Bildergalerie
 description: Straßenlaternen sind faszinierend. Sie können Licht spenden, aber
   auch für eine besondere Stimmung sorgen - Eine Bildergalerie mit etwas Lyrik
 excerpt: Straßenlaternen sind faszinierend. Sie können Licht spenden, aber auch
   für eine besondere Stimmung sorgen - Eine Bildergalerie mit etwas Lyrik
-focusKeyword: Straßenlaternen
+fileName: 2016-03---stra-ssen-la-ter-nen-der-welt.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_12598574003_1238eab471_z-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_12598574003_1238eab471_z-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcDBAYI/8QAKRAAAgEDAgYBBAMAAAAAAAAAAQIDBAURAAYSEyExQVEHFCMycSKBwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDoi/1sttsdwrqaBKialp3mSF5OWJCozw8WDjOO+h+2d02vc22lvdnn5tGULMHHC0bhclHz2PUD116asbviWfat3idJ3VqZwVp14pP2q+SO+POMaQm4NiXmS3USWOzXtKAnncVVdoqaOckDDCCNyFwO2f5e9A8ae4vdNv2e4yU70z1UazNCWzyyQMrnzg6WvxSzNc7gx78l2xjsS41htuXPcHx3dJGudovE1pjpzPU06V/1EMKM+OeFBYDBBBPT/dMb4qpswVFcoi4KiDMf3Mu6l/z4fC5GM+9A4E/Nf2NCoKeGstFtaVHPBCoCtkdQMdR/WiynDA+jrGTbxtlvMlvENyrqulleKaOho3mMZ4iQCRgZwR0Ge+grpQU6bov04HSkt9NCARnJZpZCD77jQL4xrY6qhYmGRKinpFhaRpAVZTM8nQYznLd8+NT2fc9tvFTukUjzRVssvGaaphaKTkxwBOLDDw+QfR0G+IEYxXEtwj7MQwpHsnQf/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2016_03_14214740646_0f53e5d1fd_z__l.jpg
 labels:
   - Fernweh
   - Flarf
@@ -24,17 +31,12 @@ labels:
   - Straßenlaternen
   - Streetlamp
   - Streetlights
-type: Galerie
-typeName: Gedicht
-date: 2016-03-15T11:22:20.000Z
+focusKeyword: Straßenlaternen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "14311"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_12598574003_1238eab471_z-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_12598574003_1238eab471_z-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcDBAYI/8QAKRAAAgEDAgYBBAMAAAAAAAAAAQIDBAURAAYSEyExQVEHFCMycSKBwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDoi/1sttsdwrqaBKialp3mSF5OWJCozw8WDjOO+h+2d02vc22lvdnn5tGULMHHC0bhclHz2PUD116asbviWfat3idJ3VqZwVp14pP2q+SO+POMaQm4NiXmS3USWOzXtKAnncVVdoqaOckDDCCNyFwO2f5e9A8ae4vdNv2e4yU70z1UazNCWzyyQMrnzg6WvxSzNc7gx78l2xjsS41htuXPcHx3dJGudovE1pjpzPU06V/1EMKM+OeFBYDBBBPT/dMb4qpswVFcoi4KiDMf3Mu6l/z4fC5GM+9A4E/Nf2NCoKeGstFtaVHPBCoCtkdQMdR/WiynDA+jrGTbxtlvMlvENyrqulleKaOho3mMZ4iQCRgZwR0Ge+grpQU6bov04HSkt9NCARnJZpZCD77jQL4xrY6qhYmGRKinpFhaRpAVZTM8nQYznLd8+NT2fc9tvFTukUjzRVssvGaaphaKTkxwBOLDDw+QfR0G+IEYxXEtwj7MQwpHsnQf/9k=
 subTitle: Lampengalerie
   
 ---

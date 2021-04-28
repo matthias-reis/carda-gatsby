@@ -1,15 +1,22 @@
 ---
-title: Die Ölmühle Solling
-seoTitle: Die Ölmühle Solling - leckeres aus dem Familienbetrieb
+date: 2020-12-04T16:13:29.000Z
 slug: oelmuehle-solling
 path: /2020/12/oelmuehle-solling/
-fileName: 2020-12---die-oelmuehle-solling.md
+type: Artikel
+typeName: Produkttest
+title: Die Ölmühle Solling
+seoTitle: Die Ölmühle Solling - leckeres aus dem Familienbetrieb
+ogTitle: Die Ölmühle Solling - leckeres aus dem Familienbetrieb
 description: Die Ölmühle Solling ist ein biologischer Familienbetrieb aus dem
   Weserbergland. Ich hatte jetzt die Möglichkeit einige Produkte zu testen.
 excerpt: Werbung & Affiliate Links – Die Ölmühle Solling ist ein biologischer
   Familienbetrieb aus dem Weserbergland. Ich hatte jetzt die Möglichkeit einige
   Produkte zu testen.
-focusKeyword: Ölmühle
+fileName: 2020-12---die-oelmuehle-solling.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_2020-12-04-oelmuehle-solling-4__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_2020-12-04-oelmuehle-solling-4__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKBAAAgEEAQQABgMAAAAAAAAAAQIDBAURIQAGEhMxBxQiQWFxUZGh/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUAAQP/xAAdEQACAgMBAQEAAAAAAAAAAAABAgADERIhcQRR/9oADAMBAAIRAxEAPwDFrpWW6Lqi4K0leyeYoDGNE+SMkLn8Cb+hxlt6XO5dLUPyNsqAKGCNCzuqtOQe1uxT/B95I0OaD0n07R3G0dPVEtTblFVA8MiTxsoDCNhgk5B2P94//DesjoLFfaWqmM0VurpVTxD6fECSe3HvJOR++CvYpQNsMe8z+ezdRhiF6ROfZqeuqqSopqyWWhYgMRIwyGVgQBjO9frlVU3etS11dOt2kkiqgDnC9svY2RjWNEc0W44nnNwqEDI5ZC6th43ILsBhsHWiDr36zxQuFDTC0FUiiZGcyo0zCN3ONYC6J2AfyPW+RcjkZt8oIke1fKmSOVZJ4pe7u745mQjXsYPHLpq/1tqo7hT0Vc3inLM/lVZGcnW2IJ4cOI7y2uhPITXWhO2ozISX2kJpFnWWCojUjzPGD2tpR9f3BUAEEfc8Ueq72JZ4ntbeAMGMiLghMn0MaOffrWB+OHDjCm5nTJlXHXgn/9k=
+ogImage: null
 labels:
   - Dressing
   - Ernährung & Gesundheit
@@ -30,17 +37,12 @@ labels:
   - Speiseöl
   - Vitamin C
   - Würzöl
-type: Artikel
-typeName: Produkttest
-date: 2020-12-04T16:13:29.000Z
+focusKeyword: Ölmühle
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32031"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_2020-12-04-oelmuehle-solling-4__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_2020-12-04-oelmuehle-solling-4__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKBAAAgEEAQQABgMAAAAAAAAAAQIDBAURIQAGEhMxBxQiQWFxUZGh/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUAAQP/xAAdEQACAgMBAQEAAAAAAAAAAAABAgADERIhcQRR/9oADAMBAAIRAxEAPwDFrpWW6Lqi4K0leyeYoDGNE+SMkLn8Cb+hxlt6XO5dLUPyNsqAKGCNCzuqtOQe1uxT/B95I0OaD0n07R3G0dPVEtTblFVA8MiTxsoDCNhgk5B2P94//DesjoLFfaWqmM0VurpVTxD6fECSe3HvJOR++CvYpQNsMe8z+ezdRhiF6ROfZqeuqqSopqyWWhYgMRIwyGVgQBjO9frlVU3etS11dOt2kkiqgDnC9svY2RjWNEc0W44nnNwqEDI5ZC6th43ILsBhsHWiDr36zxQuFDTC0FUiiZGcyo0zCN3ONYC6J2AfyPW+RcjkZt8oIke1fKmSOVZJ4pe7u745mQjXsYPHLpq/1tqo7hT0Vc3inLM/lVZGcnW2IJ4cOI7y2uhPITXWhO2ozISX2kJpFnWWCojUjzPGD2tpR9f3BUAEEfc8Ueq72JZ4ntbeAMGMiLghMn0MaOffrWB+OHDjCm5nTJlXHXgn/9k=
 subTitle: Leckeres aus dem Bio-Familienbetrieb
   
 ---

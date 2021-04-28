@@ -1,17 +1,25 @@
 ---
+date: 2017-06-22T08:17:58.000Z
+slug: diy-putzmittel-fuer-die-kueche
+path: /2017/06/diy-putzmittel-fuer-die-kueche/
+type: Artikel
+typeName: Artikel
 title: DIY Putzmittel für die Küche
 seoTitle: DIY Putzmittel für die Küche - So werden Herd und Spüle im
   Handumdrehen blitzeblank
-slug: diy-putzmittel-fuer-die-kueche
-path: /2017/06/diy-putzmittel-fuer-die-kueche/
-fileName: 2017-06---diy-putzmittel-fuer-die-kueche.md
+ogTitle: DIY Putzmittel für die Küche - So werden Herd und Spüle im Handumdrehen
+  blitzeblank
 description: "DIY Putzmittel - Seit ungefähr zwei Jahren stelle ich jetzt das
   Putzmittel für unsere Küche selbst her: In unseren Fliesen kann man sich
   spiegeln."
 excerpt: "Produktplatzierung/selbst gekauft - DIY Putzmittel - Seit ungefähr
   zwei Jahren stelle ich jetzt das Putzmittel für unsere Küche selbst her: In
   unseren Fliesen kann man sich spiegeln."
-focusKeyword: DIY Putzmittel
+fileName: 2017-06---diy-putzmittel-fuer-die-kueche.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35281714012_dd226cbdf4_k1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35281714012_dd226cbdf4_k1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUGBwECA//EACwQAAICAQMDAgYBBQAAAAAAAAECAwQRAAUSITFBEyIGFBUyYXFRI1KBodH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgQF/8QAIxEAAgEDAwQDAAAAAAAAAAAAAQIAAxHwBBKxBSFhgSIxQf/aAAwDAQACEQMRAD8AeiY3i7enFPKyclSeMSBATkEjplywbp+tKfiLbGji3I7Lt8ElqSQfMzTSpkLyycryyAB2CgHpoCxfei8c8RWZktD2cwDM5YciQo+0Bsd9SOxWa5PfHyk7QP75kaX7OTrnqBnlk/yfOiW7HbmZf8ia0hDvP1aUntl/dbm57fum6WLP0eaYKzrOUjVQ/EZVD0XkBksO2dWNPPbh222+4TBjCwMa1+DMgyQeqkYGSPPfWnw5sVKKkqLRKQxtICrysUcF+uRg5HfIOB10Yta5Uu2USGrFQQMoYwf0woB4jkRk46eT5/WqqAo1j6z3MVOulZVcX7xbceQ7cPQQmeQhYomAB9IcW+xf7iD38akK249muuUQIlwBXKj2sVIAIHYdR/3UXhtPNBKduDGwYkSPixUR8SGQlu5Jx+BjXK7DPt1aOR4+PrPzdc+qqN5HLiP940mnW7gxessadIkeOc5jy4Ybu2JBbYxCKY4ce4+MgZI6nP5/Ws/V9v3D4mmr1aM0qpG6SzyuSUVVwSE/xjGfPYZ0uN25fqQJtrem8c6tKS3pq6d8Zwf4Gh9wrb5ar2oOdCCOfoxhLA4z5IUE/nJ1VdGDfHmc/QMXpA+Z/9k=
+ogImage: null
 labels:
   - Clas Ohlson Sprühflasche
   - diy
@@ -27,17 +35,12 @@ labels:
   - Zero Waste
   - zerowaste
   - zerowastehome
-type: Artikel
-typeName: Artikel
-date: 2017-06-22T08:17:58.000Z
+focusKeyword: DIY Putzmittel
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16905"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35281714012_dd226cbdf4_k1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35281714012_dd226cbdf4_k1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUGBwECA//EACwQAAICAQMDAgYBBQAAAAAAAAECAwQRAAUSITFBEyIGFBUyYXFRI1KBodH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgQF/8QAIxEAAgEDAwQDAAAAAAAAAAAAAQIAAxHwBBKxBSFhgSIxQf/aAAwDAQACEQMRAD8AeiY3i7enFPKyclSeMSBATkEjplywbp+tKfiLbGji3I7Lt8ElqSQfMzTSpkLyycryyAB2CgHpoCxfei8c8RWZktD2cwDM5YciQo+0Bsd9SOxWa5PfHyk7QP75kaX7OTrnqBnlk/yfOiW7HbmZf8ia0hDvP1aUntl/dbm57fum6WLP0eaYKzrOUjVQ/EZVD0XkBksO2dWNPPbh222+4TBjCwMa1+DMgyQeqkYGSPPfWnw5sVKKkqLRKQxtICrysUcF+uRg5HfIOB10Yta5Uu2USGrFQQMoYwf0woB4jkRk46eT5/WqqAo1j6z3MVOulZVcX7xbceQ7cPQQmeQhYomAB9IcW+xf7iD38akK249muuUQIlwBXKj2sVIAIHYdR/3UXhtPNBKduDGwYkSPixUR8SGQlu5Jx+BjXK7DPt1aOR4+PrPzdc+qqN5HLiP940mnW7gxessadIkeOc5jy4Ybu2JBbYxCKY4ce4+MgZI6nP5/Ws/V9v3D4mmr1aM0qpG6SzyuSUVVwSE/xjGfPYZ0uN25fqQJtrem8c6tKS3pq6d8Zwf4Gh9wrb5ar2oOdCCOfoxhLA4z5IUE/nJ1VdGDfHmc/QMXpA+Z/9k=
 subTitle: Putzen ohne Gift
   
 ---

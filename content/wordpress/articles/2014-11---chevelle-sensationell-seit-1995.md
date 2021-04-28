@@ -1,15 +1,22 @@
 ---
-title: Chevelle - Sensationell seit 1995
-seoTitle: Chevelle - Sensationell seit 1995 - Neues Album und Konzert
+date: 2014-11-18T15:28:22.000Z
 slug: chevelle-sensationell-seit-1995
 path: /2014/11/chevelle-sensationell-seit-1995/
-fileName: 2014-11---chevelle-sensationell-seit-1995.md
+type: Artikel
+typeName: Konzertbericht
+title: Chevelle - Sensationell seit 1995
+seoTitle: Chevelle - Sensationell seit 1995 - Neues Album und Konzert
+ogTitle: Chevelle - Sensationell seit 1995
 description: Chevelle brachten mit "La Gargola" im April ihre elfte Platte auf
   den Markt. Elf musikalische Werke, eines besser als das andere. Ich habe sie
   live gehört.
 excerpt: Mit "La Gargola" brachten Chevelle im April ihre elfte Platte auf den
   Markt. Elf musikalische Werke, eines besser als das andere.
-focusKeyword: Chevelle
+fileName: 2014-11---chevelle-sensationell-seit-1995.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_img_2538__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_img_2538__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBAMFB//EACoQAAEDAwMCBgIDAAAAAAAAAAECAwQABREGITEHEhMVQVFhgRShInKR/8QAFgEBAQEAAAAAAAAAAAAAAAAABQEG/8QAIhEAAQQABQUAAAAAAAAAAAAAAgABAxEEEiExQRMiUXGx/9oADAMBAAIRAxEAPwBNsOj7oppLj0RwIUMjuGAf9pgd0bNUw4l23rLZBKu5G3bjk/HrSX1C1Izd72yl6QZseIhLbBXJZkeGCEqUAUjBTng+vwcitX58FzWZCPHccR2j+TvaO1IwBtwMbYxxWujx4i1MLUsVPgJTK8z360+qEbR04XuEPxnENPoU4lYTkKSARz6Zx+6q3/Sc+OCpuMooHtvWeBqiREMlxc2W5IWFNpHjEFCCMHce42I/VOGhdW26ZbJtsv6wxFjNF1l8qdWsrUrBBA243xgUeJwF2E1Xz4SJDixfqBrXFbrn0rqTfLg42u6t2Wc43slcizxiofYQCfuh/XMqQy205b9PhCCVJCbSync+5A3+6KKIGU25T7wg+7KzH6mXyEy41D8oZbcAStCbTGIWBnAOUHPJ5qvI6oarcbU23cI7Das5THt8doHP9UCiioUp3dqtEDDlrRf/2Q==
+ogImage: null
 labels:
   - Backstage
   - Backstage Halle
@@ -29,17 +36,12 @@ labels:
   - live
   - Prog
   - Rock
-type: Artikel
-typeName: Konzertbericht
-date: 2014-11-18T15:28:22.000Z
+focusKeyword: Chevelle
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "9197"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_img_2538__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_img_2538__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBAMFB//EACoQAAEDAwMCBgIDAAAAAAAAAAECAwQABREGITEHEhMVQVFhgRShInKR/8QAFgEBAQEAAAAAAAAAAAAAAAAABQEG/8QAIhEAAQQABQUAAAAAAAAAAAAAAgABAxEEEiExQRMiUXGx/9oADAMBAAIRAxEAPwBNsOj7oppLj0RwIUMjuGAf9pgd0bNUw4l23rLZBKu5G3bjk/HrSX1C1Izd72yl6QZseIhLbBXJZkeGCEqUAUjBTng+vwcitX58FzWZCPHccR2j+TvaO1IwBtwMbYxxWujx4i1MLUsVPgJTK8z360+qEbR04XuEPxnENPoU4lYTkKSARz6Zx+6q3/Sc+OCpuMooHtvWeBqiREMlxc2W5IWFNpHjEFCCMHce42I/VOGhdW26ZbJtsv6wxFjNF1l8qdWsrUrBBA243xgUeJwF2E1Xz4SJDixfqBrXFbrn0rqTfLg42u6t2Wc43slcizxiofYQCfuh/XMqQy205b9PhCCVJCbSync+5A3+6KKIGU25T7wg+7KzH6mXyEy41D8oZbcAStCbTGIWBnAOUHPJ5qvI6oarcbU23cI7Das5THt8doHP9UCiioUp3dqtEDDlrRf/2Q==
 subTitle: Chevelle live @ Backstage Halle München
   
 ---

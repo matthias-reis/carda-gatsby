@@ -1,16 +1,23 @@
 ---
-title: Das vegane Sortiment von Xucker im Test
-seoTitle: Das vegane Sortiment von Xucker im Test - weniger süß kann lecker sein!
+date: 2019-11-10T17:48:38.000Z
 slug: das-vegane-sortiment-von-xucker-im-test
 path: /2019/11/das-vegane-sortiment-von-xucker-im-test/
-fileName: 2019-11---das-vegane-sortiment-von-xucker-im-test.md
+type: Artikel
+typeName: Produkttest
+title: Das vegane Sortiment von Xucker im Test
+seoTitle: Das vegane Sortiment von Xucker im Test - weniger süß kann lecker sein!
+ogTitle: Das vegane Sortiment von Xucker im Test - weniger süß kann lecker sein!
 description: Süß soll es ja schon sein. Aber trotzdem gesund. Und möglichst ohne
   unnötige Kalorien. Aber wie soll das gehen ohne Zucker? Ich habe jetzt Xucker
   getestet.
 excerpt: Werbung & Affiliate Links - Süß soll es ja schon sein. Aber trotzdem
   gesund. Und möglichst ohne unnötige Kalorien. Aber wie soll das gehen ohne
   Zucker? Ich habe jetzt Xucker getestet.
-focusKeyword: Xucker
+fileName: 2019-11---das-vegane-sortiment-von-xucker-im-test.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-04-xucker-23__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-04-xucker-23__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMFBgcIBP/EACsQAAIBAwMCBAYDAAAAAAAAAAECAwQREgAFIQYTIjFBoRUjMkJRYWJxkf/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAgEQACAgIABwAAAAAAAAAAAAABAgARAwQSITJRYbHR/9oADAMBAAIRAxEAPwCk6HawYWUEEOADzj7+n96c6bZauJ5qenhDRF83DRhcUtkTz+/L83NjqRdE0e3T71Rru1xQlj3A3K3t4cv45Wv76tPqSm21NnrBvNXT1TTwPBTJFDGzk4nG5UXAFgb8Aal1QXSz3+SvYWnAAmf6XYKyoqzDSwd6Ry8o7fiFj9xF+PL1/WuGXZoIO6EmWYqFYPa2WQvax/Bv/mtD9IQUUHT23fDqyjonSmjFSsigSPJiCxcsRdSfKxtbVXddGhqupayfbQvYlgRiVjMas6llYqD6HjR2QVQm5jX5vVRm2urOAVJCuXB8dr6fqu8cTPFU/NJZfrIyGPHr7aNGqNM8GIEefcbkYlqikTJPSRNLUBWEcV1LX+0A+Z4tqJb3OI6xD3DJGI5EyVsrcgjRo0vM1oQYvH1Cf//Z
+ogImage: null
 labels:
   - Birkenzucker
   - Ernährung & Gesundheit
@@ -26,17 +33,12 @@ labels:
   - weniger süß
   - Xucker
   - Xylit
-type: Artikel
-typeName: Produkttest
-date: 2019-11-10T17:48:38.000Z
+focusKeyword: Xucker
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "26722"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-04-xucker-23__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-04-xucker-23__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMFBgcIBP/EACsQAAIBAwMCBAYDAAAAAAAAAAECAwQREgAFIQYTIjFBoRUjMkJRYWJxkf/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAgEQACAgIABwAAAAAAAAAAAAABAgARAwQSITJRYbHR/9oADAMBAAIRAxEAPwCk6HawYWUEEOADzj7+n96c6bZauJ5qenhDRF83DRhcUtkTz+/L83NjqRdE0e3T71Rru1xQlj3A3K3t4cv45Wv76tPqSm21NnrBvNXT1TTwPBTJFDGzk4nG5UXAFgb8Aal1QXSz3+SvYWnAAmf6XYKyoqzDSwd6Ry8o7fiFj9xF+PL1/WuGXZoIO6EmWYqFYPa2WQvax/Bv/mtD9IQUUHT23fDqyjonSmjFSsigSPJiCxcsRdSfKxtbVXddGhqupayfbQvYlgRiVjMas6llYqD6HjR2QVQm5jX5vVRm2urOAVJCuXB8dr6fqu8cTPFU/NJZfrIyGPHr7aNGqNM8GIEefcbkYlqikTJPSRNLUBWEcV1LX+0A+Z4tqJb3OI6xD3DJGI5EyVsrcgjRo0vM1oQYvH1Cf//Z
 subTitle: Weniger süß kann lecker sein
   
 ---

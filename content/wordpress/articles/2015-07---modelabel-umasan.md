@@ -1,14 +1,21 @@
 ---
-title: Modelabel Umasan
-seoTitle: Umasan im Interview - "Der Trend der Saison ist Unisex"
+date: 2015-07-01T12:32:51.000Z
 slug: umasan-interview
 path: /2015/07/umasan-interview/
-fileName: 2015-07---modelabel-umasan.md
+type: Artikel
+typeName: Interview
+title: Modelabel Umasan
+seoTitle: Umasan im Interview - "Der Trend der Saison ist Unisex"
+ogTitle: Umasan im Interview - "Der Trend der Saison ist Unisex"
 description: Für seine Nachhaltigkeit wurde das junge vegane Modelabel Umasan
   mehrfach ausgezeichnet. Ich habe mich mit den beiden Gründerinnen unterhalten.
 excerpt: Für seine Nachhaltigkeit wurde das junge vegane Modelabel Umasan
   mehrfach ausgezeichnet. Ich habe mich mit den beiden Gründerinnen unterhalten.
-focusKeyword: Umasan
+fileName: 2015-07---modelabel-umasan.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_umasan__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_umasan__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKRAAAQMDAwIGAwEAAAAAAAAAAQIDBAAFEQYSIRNRFCIxQWGBBzJxof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDZdXatZ063Ebjw3LlcJRPSitOBGEJxucUo8JSCQPkmrmyz3rlbW5MqA7AdWMllbiXPsKTwRWMarv8AH09qiHJvjnh486P4eO+4kkBxC9xQccgHcDn0p7bnqt9hMhkOJacJ6TSlKIQn3Hm5/bd9YoLbVk2JAtj0ibIaYYQPMtxWAKSWpjK5bK21ZQtG9KsEbkkZBGfUHvWba4ub9+vNojTpakwhJUXGt21KzgYH94I+6dtfXtpnTljfhzUPt9dTDKAUqUhOxJIJTjACuAMe/wAUHJzrypClqlrW848eopxw7lFRPJye9POkvyXdNN6NvFhcUXlhXWhqdJX0irheM+2cKx3z3NFFAo3S6Tr0A5JkuvPskL9cDOCSQBjnipy9U3RSmZUqQ5OGUBXXOVJ2eVKQe2B/tFFB/9k=
+ogImage: null
 labels:
   - Berlin
   - Berlin Fashion Week
@@ -26,17 +33,12 @@ labels:
   - vegan fashion
   - vegane Mode
   - Yohji Yamamoto
-type: Artikel
-typeName: Interview
-date: 2015-07-01T12:32:51.000Z
+focusKeyword: Umasan
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "28989"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_umasan__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_umasan__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKRAAAQMDAwIGAwEAAAAAAAAAAQIDBAAFEQYSIRNRFCIxQWGBBzJxof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDZdXatZ063Ebjw3LlcJRPSitOBGEJxucUo8JSCQPkmrmyz3rlbW5MqA7AdWMllbiXPsKTwRWMarv8AH09qiHJvjnh486P4eO+4kkBxC9xQccgHcDn0p7bnqt9hMhkOJacJ6TSlKIQn3Hm5/bd9YoLbVk2JAtj0ibIaYYQPMtxWAKSWpjK5bK21ZQtG9KsEbkkZBGfUHvWba4ub9+vNojTpakwhJUXGt21KzgYH94I+6dtfXtpnTljfhzUPt9dTDKAUqUhOxJIJTjACuAMe/wAUHJzrypClqlrW848eopxw7lFRPJye9POkvyXdNN6NvFhcUXlhXWhqdJX0irheM+2cKx3z3NFFAo3S6Tr0A5JkuvPskL9cDOCSQBjnipy9U3RSmZUqQ5OGUBXXOVJ2eVKQe2B/tFFB/9k=
 subTitle: '"Der Trend der Saison ist Unisex"'
   
 ---

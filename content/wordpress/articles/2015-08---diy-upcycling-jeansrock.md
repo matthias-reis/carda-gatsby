@@ -1,14 +1,21 @@
 ---
-title: DIY Upcycling Jeansrock
-seoTitle: DIY Upcycling Jeansrock - Anleitung
+date: 2015-08-21T12:33:10.000Z
 slug: diy-upcycling-jeansrock
 path: /2015/08/diy-upcycling-jeansrock/
-fileName: 2015-08---diy-upcycling-jeansrock.md
+type: Artikel
+typeName: Artikel
+title: DIY Upcycling Jeansrock
+seoTitle: DIY Upcycling Jeansrock - Anleitung
+ogTitle: DIY Upcycling Jeansrock - Anleitung
 description: Ich zeige Euch heute, wie ich meinen Lieblings-Festival-Minirock
   mit wenigen Handgriffen zu einem echten Einzelstück gemacht habe.
 excerpt: Am Wochenende geht es für uns wieder auf's Festival, denn ich habe
   Karten für das Rock'n'Heim gewonnen.
-focusKeyword: Upcycling
+fileName: 2015-08---diy-upcycling-jeansrock.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-17__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-17__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwMEBgX/xAAsEAACAQIGAQIEBwAAAAAAAAABAgMEEQAFBhIhMRNBcQdRYYEUIiUyQpKh/8QAFwEBAQEBAAAAAAAAAAAAAAAABQIDBP/EAB0RAQACAgMBAQAAAAAAAAAAAAEAAwIRBBIhMUH/2gAMAwEAAhEDEQA/AL+uMseWuoMxkljgmpUmCxybS0quEuFBN7ggfTnnAPrihzGizergr5S1M1SyRlCEUjsfkFrHj1FsL+gtJVhzCaTNaKeHzyNLLVSyMJRCSC0PPNiRa3Pd/riL4riDM6zY0asttpUi/A677wdRhjWBi7idtjmImoIZDS/qMqKZjH4rsCbLcngMewDbocnrCRpLTA1BVyq5VaSlCPJdrPtboKvyJUi/p74pZHk1NTwzeGFIxZibAi/Fh64X9I6PXIomrvKgjmpvDFCq2KoX3c+x698TybOvsvjnmtSes1jQJFLS5XmVXXiw3GqmJZTtJ/aQCPuOb4MMwqvxczO5LM5JJ7JwXjV8s9Qj5pRU1VsICyRjwyqo6AZfYdj0x0IdSZbGl4q7OI+b+N4o5fl/IkfU/fG5V0A1OZtM1dxb0plSVshE7vFTR7Wd0ALE7hYAGwJJGN5qXV1HT0zCOnrAqiygRiwH9sYb4dZlSTaaXMlSZnmkcKZACVCsQDYGwOJM/wAyiqVZGc2PoSB/mBuRc5XdD4Rbj0hX2f2f/9k=
+ogImage: null
 labels:
   - aus alt mach neu
   - diy
@@ -20,17 +27,12 @@ labels:
   - nähen
   - sewing
   - Upcycling
-type: Artikel
-typeName: Artikel
-date: 2015-08-21T12:33:10.000Z
+focusKeyword: Upcycling
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "12372"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-17__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-17__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwMEBgX/xAAsEAACAQIGAQIEBwAAAAAAAAABAgMEEQAFBhIhMRNBcQdRYYEUIiUyQpKh/8QAFwEBAQEBAAAAAAAAAAAAAAAABQIDBP/EAB0RAQACAgMBAQAAAAAAAAAAAAEAAwIRBBIhMUH/2gAMAwEAAhEDEQA/AL+uMseWuoMxkljgmpUmCxybS0quEuFBN7ggfTnnAPrihzGizergr5S1M1SyRlCEUjsfkFrHj1FsL+gtJVhzCaTNaKeHzyNLLVSyMJRCSC0PPNiRa3Pd/riL4riDM6zY0asttpUi/A677wdRhjWBi7idtjmImoIZDS/qMqKZjH4rsCbLcngMewDbocnrCRpLTA1BVyq5VaSlCPJdrPtboKvyJUi/p74pZHk1NTwzeGFIxZibAi/Fh64X9I6PXIomrvKgjmpvDFCq2KoX3c+x698TybOvsvjnmtSes1jQJFLS5XmVXXiw3GqmJZTtJ/aQCPuOb4MMwqvxczO5LM5JJ7JwXjV8s9Qj5pRU1VsICyRjwyqo6AZfYdj0x0IdSZbGl4q7OI+b+N4o5fl/IkfU/fG5V0A1OZtM1dxb0plSVshE7vFTR7Wd0ALE7hYAGwJJGN5qXV1HT0zCOnrAqiygRiwH9sYb4dZlSTaaXMlSZnmkcKZACVCsQDYGwOJM/wAyiqVZGc2PoSB/mBuRc5XdD4Rbj0hX2f2f/9k=
 subTitle: Kreiere Dein romantisches Einzelstück
   
 ---

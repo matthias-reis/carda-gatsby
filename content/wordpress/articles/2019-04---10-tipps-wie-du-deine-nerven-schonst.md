@@ -1,9 +1,12 @@
 ---
-title: 10 Tipps, wie Du Deine Nerven schonst
-seoTitle: 10 Tipps, wie Du Deine Nerven schonst
+date: 2019-04-24T14:30:19.000Z
 slug: 10-tipps-wie-du-deine-nerven-schonst
 path: /2019/04/10-tipps-wie-du-deine-nerven-schonst/
-fileName: 2019-04---10-tipps-wie-du-deine-nerven-schonst.md
+type: Artikel
+typeName: Artikel
+title: 10 Tipps, wie Du Deine Nerven schonst
+seoTitle: 10 Tipps, wie Du Deine Nerven schonst
+ogTitle: 10 Tipps, wie Du Deine Nerven schonst
 description: Kaum hat man sich was Tolles vorgenommen, kommt ein*e Kritiker*in
   daher und die Motivation ist weg - Ich habe 10 Tipps für Dich, was Du jetzt
   tun kannst.
@@ -11,7 +14,11 @@ excerpt: "Wer kennt das nicht: Kaum hat man sich etwas Tolles vorgenommen,
   kommen die Kritiker*innen um die Ecke und vorbei ist es mit der Motivation -
   doch wie kommt man aus der grauen Wolke wieder raus? Ich habe zehn Ideen
   zusammengestellt."
-focusKeyword: Nerven
+fileName: 2019-04---10-tipps-wie-du-deine-nerven-schonst.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_wildling-sandale-windlass-effekt__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_wildling-sandale-windlass-effekt__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQIEB//EACoQAAEDAwIFBAIDAAAAAAAAAAECAwQFBhEAIRITMUFxByJhgRQVM1Fi/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAIxEAAgIBAwMFAAAAAAAAAAAAAQIAAyEEEUEFEqEiMXGx0f/aAAwDAQACEQMRAD8ArXa3bMFD7rtMmJbZjcwLVLXhTnFwJScHbiIPTO2+NLl9ypVEq1Mag1aXNEtlEgPxlNqipyrGEtEFRQMEZUrORvprqttzItoT5bsZUduKyqU4oBClLVgICRkEABKid+mBjfXI6Lbxltfhw3JcirOOjko4+FtKVKIXk56n2b/J+NObSoVJVFxzsMeIPutqcCxmG/BJz5xNe4PUCt1HlxIa40drGAuHGS248T3JxxfQxqO3Llq0GeI9SjCospVh6LLZBWAepCiMpPnbUFryo9uXe3Jq0WSlMZbjLrLZHMZUAU7Z7g9vPTVt6k3nGrdfYk0VLyW2Y5YW++gJXIJWVZUB/WcDJzoigLYAw9MUxJQ9pzH6u06szEL5VZmVJhY9yHHlIV4KFK4T9H61j6eR3KVLqMiTBf8AyFJSyw44gpQ2QpKjxZ37AbaNGjP1fUNQwwNtuJovT6luViSfky0vS2aLd0x2dMBgVJX8kmNk84/7QrYnHcYPnSnTrSt635YmOyP2clr3NolYQ2FDoeFJ3Pk4+NGjUtdZe5y31+SgaK19ln//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_04_10-ideen-fuer-deine-nerven-1__l.jpg
 labels:
   - Achtsamkeit
   - Achtsamkeit
@@ -32,18 +39,13 @@ labels:
   - über sich selbst lachen
   - Vorfreude ist die beste Freude
   - Vorfreue
-type: Artikel
-typeName: Artikel
-date: 2019-04-24T14:30:19.000Z
+focusKeyword: Nerven
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (45:6)"
-thumbnailId: "23987"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_wildling-sandale-windlass-effekt__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_wildling-sandale-windlass-effekt__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQIEB//EACoQAAEDAwIFBAIDAAAAAAAAAAECAwQFBhEAIRITMUFxByJhgRQVM1Fi/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAIxEAAgIBAwMFAAAAAAAAAAAAAQIAAyEEEUEFEqEiMXGx0f/aAAwDAQACEQMRAD8ArXa3bMFD7rtMmJbZjcwLVLXhTnFwJScHbiIPTO2+NLl9ypVEq1Mag1aXNEtlEgPxlNqipyrGEtEFRQMEZUrORvprqttzItoT5bsZUduKyqU4oBClLVgICRkEABKid+mBjfXI6Lbxltfhw3JcirOOjko4+FtKVKIXk56n2b/J+NObSoVJVFxzsMeIPutqcCxmG/BJz5xNe4PUCt1HlxIa40drGAuHGS248T3JxxfQxqO3Llq0GeI9SjCospVh6LLZBWAepCiMpPnbUFryo9uXe3Jq0WSlMZbjLrLZHMZUAU7Z7g9vPTVt6k3nGrdfYk0VLyW2Y5YW++gJXIJWVZUB/WcDJzoigLYAw9MUxJQ9pzH6u06szEL5VZmVJhY9yHHlIV4KFK4T9H61j6eR3KVLqMiTBf8AyFJSyw44gpQ2QpKjxZ37AbaNGjP1fUNQwwNtuJovT6luViSfky0vS2aLd0x2dMBgVJX8kmNk84/7QrYnHcYPnSnTrSt635YmOyP2clr3NolYQ2FDoeFJ3Pk4+NGjUtdZe5y31+SgaK19ln//2Q==
 subTitle: <strong>Alltag für Fortgeschrittene</strong>
   
 ---

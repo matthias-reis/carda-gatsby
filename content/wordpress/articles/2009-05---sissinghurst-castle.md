@@ -1,13 +1,20 @@
 ---
-title: Sissinghurst Castle
-seoTitle: Sissinghurst Castle - Anne bloggt cardamonchai
+date: 2009-05-10T10:07:19.000Z
 slug: sissinghurst-castle
 path: /2009/05/sissinghurst-castle/
-fileName: 2009-05---sissinghurst-castle.md
+type: Galerie
+typeName: Galerie
+title: Sissinghurst Castle
+seoTitle: Sissinghurst Castle - Anne bloggt cardamonchai
+ogTitle: Sissinghurst Castle - Anne bloggt cardamonchai
 description: "Erinnerungen an den Frühling in England 2009 - Heute: Sissinghurst Castle"
 excerpt: Sissinghurst liegt ca. 40 km südwestlich von Canterbury. Der Garten um
   den Landsitz wurde ab 1930 angelegt.
-focusKeyword: Sissinghurst Castle
+fileName: 2009-05---sissinghurst-castle.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11469320094_627daaa016_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11469320094_627daaa016_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYIBQP/xAApEAACAQQCAQMCBwAAAAAAAAABAgMABAUREiFBBjFRE2EHFBYicZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMC/8QAIhEAAgIBAwQDAAAAAAAAAAAAAQIAAxEEIcEFEjGBYXHR/9oADAMBAAIRAxEAPwCYuHIhUG2Y6H8mqMwmF/TFxFj8XKAivLBK7qumKcdsRrvsnup+t04TI6too6sCfBBH91R3p+/nzdlZZe+aNZbhr24kVFAAPJdjQJ8eKBqrmqQMhwc8GMoqDsQwyMcid3ku5szbyT3BCRAaEQAHZG9jWj11W/lsJb5Szls8hYwz2swIZJR/oPgj5HYrEgnikvLU240kkTsAygH9jKN6+O6b5MhbXMlyttcwztBIYphHIGMT+VbXYP2NM6Tq3cWCw58eff5C6+hFKFBj69HmR6yEWxcgdKSOjTd+D/qCe1y5x5dfyziedVI7+oYvn7lFooodih6mzL9xR1KmMV363ePP4q6k4fXhjmgu0U8VYctr77I990hehspeDN39wmRltbiWJ5nmG2Z2Ldg69yeR96KKwlYrrYr8SNtjNu28/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11469320094_627daaa016_z__l.jpg
 labels:
   - Blumen
   - Botanik
@@ -29,17 +36,12 @@ labels:
   - Sissighurst
   - Sissinghurst Garden
   - Umwelt
-type: Galerie
-typeName: Galerie
-date: 2009-05-10T10:07:19.000Z
+focusKeyword: Sissinghurst Castle
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11280"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11469320094_627daaa016_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11469320094_627daaa016_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYIBQP/xAApEAACAQQCAQMCBwAAAAAAAAABAgMABAUREiFBBjFRE2EHFBYicZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMC/8QAIhEAAgIBAwQDAAAAAAAAAAAAAQIAAxEEIcEFEjGBYXHR/9oADAMBAAIRAxEAPwCYuHIhUG2Y6H8mqMwmF/TFxFj8XKAivLBK7qumKcdsRrvsnup+t04TI6too6sCfBBH91R3p+/nzdlZZe+aNZbhr24kVFAAPJdjQJ8eKBqrmqQMhwc8GMoqDsQwyMcid3ku5szbyT3BCRAaEQAHZG9jWj11W/lsJb5Szls8hYwz2swIZJR/oPgj5HYrEgnikvLU240kkTsAygH9jKN6+O6b5MhbXMlyttcwztBIYphHIGMT+VbXYP2NM6Tq3cWCw58eff5C6+hFKFBj69HmR6yEWxcgdKSOjTd+D/qCe1y5x5dfyziedVI7+oYvn7lFooodih6mzL9xR1KmMV363ePP4q6k4fXhjmgu0U8VYctr77I990hehspeDN39wmRltbiWJ5nmG2Z2Ldg69yeR96KKwlYrrYr8SNtjNu28/9k=
 subTitle: Erinnerungen an den Frühling in England 2009 - Teil 2/17
   
 ---

@@ -1,15 +1,22 @@
 ---
-title: Ein perfekter Sonntag auf dem Sofa
-seoTitle: Ein perfekter Sonntag auf dem Sofa - Entspannung pur
+date: 2018-02-16T13:48:19.000Z
 slug: ein-perfekter-sonntag-auf-dem-sofa
 path: /2018/02/ein-perfekter-sonntag-auf-dem-sofa/
-fileName: 2018-02---ein-perfekter-sonntag-auf-dem-sofa.md
+type: Artikel
+typeName: Artikel
+title: Ein perfekter Sonntag auf dem Sofa
+seoTitle: Ein perfekter Sonntag auf dem Sofa - Entspannung pur
+ogTitle: Ein perfekter Sonntag auf dem Sofa - Entspannung pur
 description: Was gehört für Euch zu einem perfekten Sonntag auf dem Sofa dazu?
   Wein? Pralinen? Bunte Gossip-Magazine? Bücher? Ich habe ein paar Anregungen.
 excerpt: Affiliate Link - Was gehört für Euch zu einem perfekten Sonntag auf dem
   Sofa dazu? Wein? Pralinen? Bunte Gossip-Magazine? Bücher? Ich habe ein paar
   Anregungen.
-focusKeyword: Sonntag auf dem Sofa
+fileName: 2018-02---ein-perfekter-sonntag-auf-dem-sofa.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_13802579954_2183fb176b_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_13802579954_2183fb176b_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBQb/xAAmEAACAgEDBQACAwEAAAAAAAABAgMEEQUSIQAGEzFBIlEUFmFx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//EABkRAQEBAQEBAAAAAAAAAAAAAAEAETESIv/aAAwDAQACEQMRAD8A47shJ9Kis60NGaxDEfHIX2ltgUoZCjNnGXXDAe+cjPVUm1iLUO1v55lgmLyqkqVyZZIyzqPHtABGDkEnK8+/pkE0mr6T2pfpXtZrWtMCeCtHLpom8aHG2VN/CDAKkg5U7c5+ZulGpBFR8eqtUhRGa1Z8RVYdpzhdrfmT+OMkcn19675vaHK0aCgs6o9O1WqV4lvSVY03Eyt+BZW+KQQrZxnHo9QTvSeCLuPVlp2a7xyW2VSuHVhwFIPr57GfnWnpPckelCOq1eVaosvfiZ8iSUMpUhA3AViDwD/hJPA2prfa39Vnl0CpBHr63IGYTVxvrrtLMUYj62cj2PR9DqOyvokdc71XtcyaZPpcepwt8nmKLkfcKMg/8Prjrjqev2bN6/YrV6VRbuwSRrAJdgY4OwybtucZOP30dHRv1ZWT11rNWxHTkuWLMFVmigEzlvGvDjH65c+sc8/enNHsOEmhlxJHLF52J4YsWIJJ+n/ejo6TsN//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2018_02_13802579954_2183fb176b_z__l.jpg
 labels:
   - ausruhen
   - Couch
@@ -23,17 +30,12 @@ labels:
   - sofa
   - Sonntag
   - Sonntag auf dem Sofa
-type: Artikel
-typeName: Artikel
-date: 2018-02-16T13:48:19.000Z
+focusKeyword: Sonntag auf dem Sofa
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "19649"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_13802579954_2183fb176b_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_13802579954_2183fb176b_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBQb/xAAmEAACAgEDBQACAwEAAAAAAAABAgMEEQUSIQAGEzFBIlEUFmFx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//EABkRAQEBAQEBAAAAAAAAAAAAAAEAETESIv/aAAwDAQACEQMRAD8A47shJ9Kis60NGaxDEfHIX2ltgUoZCjNnGXXDAe+cjPVUm1iLUO1v55lgmLyqkqVyZZIyzqPHtABGDkEnK8+/pkE0mr6T2pfpXtZrWtMCeCtHLpom8aHG2VN/CDAKkg5U7c5+ZulGpBFR8eqtUhRGa1Z8RVYdpzhdrfmT+OMkcn19675vaHK0aCgs6o9O1WqV4lvSVY03Eyt+BZW+KQQrZxnHo9QTvSeCLuPVlp2a7xyW2VSuHVhwFIPr57GfnWnpPckelCOq1eVaosvfiZ8iSUMpUhA3AViDwD/hJPA2prfa39Vnl0CpBHr63IGYTVxvrrtLMUYj62cj2PR9DqOyvokdc71XtcyaZPpcepwt8nmKLkfcKMg/8Prjrjqev2bN6/YrV6VRbuwSRrAJdgY4OwybtucZOP30dHRv1ZWT11rNWxHTkuWLMFVmigEzlvGvDjH65c+sc8/enNHsOEmhlxJHLF52J4YsWIJJ+n/ejo6TsN//2Q==
 subTitle: Entspannung pur
   
 ---

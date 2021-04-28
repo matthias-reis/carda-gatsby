@@ -1,16 +1,23 @@
 ---
-title: Bienen als Bürger
-seoTitle: Bienen als Bürger - eine grüne Stadt in Costa Rica
+date: 2020-05-13T15:33:17.000Z
 slug: bienen-curridabat-costa-rica
 path: /2020/05/bienen-curridabat-costa-rica/
-fileName: 2020-05---bienen-als-buerger.md
+type: Artikel
+typeName: Artikel
+title: Bienen als Bürger
+seoTitle: Bienen als Bürger - eine grüne Stadt in Costa Rica
+ogTitle: Bienen als Bürger - eine grüne Stadt in Costa Rica
 description: Die Stadt Curridabat in Costa Rica hat jetzt alle bestäubenden
   Tieren als Bürger anerkannt. Bienen und andere Bestäuber stehen dort unter
   besonderem Schutz.
 excerpt: Die Stadt Curridabat in Costa Rica hat jetzt alle bestäubenden Tieren
   als Bürger anerkannt. Bienen und andere Bestäuber stehen dort unter besonderem
   Schutz.
-focusKeyword: Bienen
+fileName: 2020-05---bienen-als-buerger.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_bienen-als-buerger-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_bienen-als-buerger-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQME/8QAKhAAAgIBAwIFAwUAAAAAAAAAAQIDBBEABRIGIRMiMUFRBzJhIzNxkeH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBAX/xAAiEQACAgIBAwUAAAAAAAAAAAABAgADETEhBBNhEkFRofD/2gAMAwEAAhEDEQA/AOFTYKFmrxWCBY5AG5ogBBPc4b2z2z86l++dJ3umNwq7ZXV9ykuAzRLUhJZlzxI9+/4Gr5sVCrToxVKxTw4kJReXMqpyQCfgen40l/WGvTHVez25tx3COKIrAHoghYlx5ihHYtkZ9cH39NYvRWNYzH1cD73FWrEzwU9gWDo/edpg2eKNLGeNgVFnnd1QAKef7bFlOQD5c5XU73bo6ba6Vd447ElhYhYuwiu6vTyBx5/CnDYb/NUmx9R7c9+hDZp23grSxpHJI4S1O2cB5ETy8cD375+dbnT0lbfrW93t+2qSKOePwWM8sn6jfcoJVssBkEj7T6asrpShO8SVBJJzyScYAO9+PgxWIcHnX7iJ3T3WCUXmr37FhzJDLJAPFKBm5ZIc4ySSScj1xjThuHUu075tEUEqQVyscUyPITIV7g47+vp/RPzo0agcNSe5UxU+DIwxQ5Bi71Deobei3tpSq09+FpDAVAZmBAXuvZcqCMLg51pPdnSENXa0fMy4DhOIB7cfkdv5OjRpJY7oBYxbezn3MRYtuf/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_bienen-als-buerger-fb.png__l.jpg
 labels:
   - Bienen
   - Bienenschutz
@@ -22,17 +29,12 @@ labels:
   - save the bees
   - Stadtplanung
   - Tierrechte
-type: Artikel
-typeName: Artikel
-date: 2020-05-13T15:33:17.000Z
+focusKeyword: Bienen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29595"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_bienen-als-buerger-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_bienen-als-buerger-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQME/8QAKhAAAgIBAwIFAwUAAAAAAAAAAQIDBBEABRIGIRMiMUFRBzJhIzNxkeH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBAX/xAAiEQACAgIBAwUAAAAAAAAAAAABAgADETEhBBNhEkFRofD/2gAMAwEAAhEDEQA/AOFTYKFmrxWCBY5AG5ogBBPc4b2z2z86l++dJ3umNwq7ZXV9ykuAzRLUhJZlzxI9+/4Gr5sVCrToxVKxTw4kJReXMqpyQCfgen40l/WGvTHVez25tx3COKIrAHoghYlx5ihHYtkZ9cH39NYvRWNYzH1cD73FWrEzwU9gWDo/edpg2eKNLGeNgVFnnd1QAKef7bFlOQD5c5XU73bo6ba6Vd447ElhYhYuwiu6vTyBx5/CnDYb/NUmx9R7c9+hDZp23grSxpHJI4S1O2cB5ETy8cD375+dbnT0lbfrW93t+2qSKOePwWM8sn6jfcoJVssBkEj7T6asrpShO8SVBJJzyScYAO9+PgxWIcHnX7iJ3T3WCUXmr37FhzJDLJAPFKBm5ZIc4ySSScj1xjThuHUu075tEUEqQVyscUyPITIV7g47+vp/RPzo0agcNSe5UxU+DIwxQ5Bi71Deobei3tpSq09+FpDAVAZmBAXuvZcqCMLg51pPdnSENXa0fMy4DhOIB7cfkdv5OjRpJY7oBYxbezn3MRYtuf/Z
 subTitle: Eine grüne Stadt in Costa Rica
   
 ---

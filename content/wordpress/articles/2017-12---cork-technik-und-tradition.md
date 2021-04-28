@@ -1,16 +1,23 @@
 ---
-title: Cork - Technik und Tradition
-seoTitle: Cork - Technik und Tradition - Rundgang durch eine jugendliche Stadt
+date: 2017-12-01T08:48:46.000Z
 slug: cork
 path: /2017/12/cork/
-fileName: 2017-12---cork-technik-und-tradition.md
+type: Artikel
+typeName: Artikel
+title: Cork - Technik und Tradition
+seoTitle: Cork - Technik und Tradition - Rundgang durch eine jugendliche Stadt
+ogTitle: Cork - Technik und Tradition - Rundgang durch eine jugendliche Stadt
 description: Durch die Anwesenheit groß New Media Konzerne wie Apple und
   Blizzard wirkt die Stadt Cork, deren Geschichte ins 7. Jahrhundert
   zurückreicht jugendlich.
 excerpt: Durch die Anwesenheit groß New Media Konzerne wie Apple und Blizzard
   wirkt die Stadt Cork, deren Geschichte ins 7. Jahrhundert zurückreicht
   jugendlich.
-focusKeyword: Cork
+fileName: 2017-12---cork-technik-und-tradition.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_2017-09-Irland-209__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_2017-09-Irland-209__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAbACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAArEAACAQMCBQMDBQAAAAAAAAABAgMEBREABhIhIjFBE1FhFCMyQnGBseH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAgP/xAAkEQABAwQBAwUAAAAAAAAAAAABAAIhAwUREjEEUZEiQXGh8P/aAAwDAQACEQMRAD8AB2hYrhJBHxU1HIHOIyTwsRxED31Ybms1dQWYo1riZCpbMD5IxzPddJbJW0lO4FRCZJI5CUVGIPAD8cu/96cXndVPIEkqRUO8aDoU4VcjBz486Tq21uzSOPdE0Lm94c0nLpQFFt63KLdVvXotTcKP6lIz+g8CjgPuSSR/GdHV15rbVZr5RwlpF9AmSNR1Mvp5IUDn7Dl+2lFwRKin29U0ZxJHb6SLLRuVLiMMW4gMYywHv8c9Y08jT7yW4Mfs1FYsIKhiGWSIKSOXIcWO55fOqp9e46sqSAR44+uVo/omjZ9OMg+f0KApd9GjnIiqPT+4RIeEEECTPUPgaT3ndcEbNJ687hvCyjDdOM4zqKoEVkPEqnl5GgbkT28altwqAZaADE/Co2uln1EkTHbPZd529fqhaTbcMVTEtSLf60YkHSAyqCWPF3GBgDnjHnS2PcpjtcbQH6WOKsjaKIr1M2DgNhgB5Oe34+51P2ly9Xtlmwxmt60kmQDxRY/H/e+kskMcULU8a4iMqTkZP5qCFOe/IE6M2lI6wv/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_11_2017-09-Irland-209__l.jpg
 labels:
   - Apple
   - Blizzard
@@ -22,17 +29,12 @@ labels:
   - Irland
   - Irland2017
   - Technik
-type: Artikel
-typeName: Artikel
-date: 2017-12-01T08:48:46.000Z
+focusKeyword: Cork
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "18608"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_2017-09-Irland-209__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_2017-09-Irland-209__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAbACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAArEAACAQMCBQMDBQAAAAAAAAABAgMEBREABhIhIjFBE1FhFCMyQnGBseH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAgP/xAAkEQABAwQBAwUAAAAAAAAAAAABAAIhAwUREjEEUZEiQXGh8P/aAAwDAQACEQMRAD8AB2hYrhJBHxU1HIHOIyTwsRxED31Ybms1dQWYo1riZCpbMD5IxzPddJbJW0lO4FRCZJI5CUVGIPAD8cu/96cXndVPIEkqRUO8aDoU4VcjBz486Tq21uzSOPdE0Lm94c0nLpQFFt63KLdVvXotTcKP6lIz+g8CjgPuSSR/GdHV15rbVZr5RwlpF9AmSNR1Mvp5IUDn7Dl+2lFwRKin29U0ZxJHb6SLLRuVLiMMW4gMYywHv8c9Y08jT7yW4Mfs1FYsIKhiGWSIKSOXIcWO55fOqp9e46sqSAR44+uVo/omjZ9OMg+f0KApd9GjnIiqPT+4RIeEEECTPUPgaT3ndcEbNJ687hvCyjDdOM4zqKoEVkPEqnl5GgbkT28altwqAZaADE/Co2uln1EkTHbPZd529fqhaTbcMVTEtSLf60YkHSAyqCWPF3GBgDnjHnS2PcpjtcbQH6WOKsjaKIr1M2DgNhgB5Oe34+51P2ly9Xtlmwxmt60kmQDxRY/H/e+kskMcULU8a4iMqTkZP5qCFOe/IE6M2lI6wv/Z
 subTitle: Rundgang durch eine jugendliche Stadt
   
 ---

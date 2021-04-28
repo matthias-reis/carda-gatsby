@@ -1,16 +1,23 @@
 ---
-title: 10 Alben - Keine Erklärung - Teil 2/3
-seoTitle: 10 Alben - Keine Erklärung - Die Lieblingsplattenliste eines Gartenbloggers
+date: 2018-03-13T18:42:06.000Z
 slug: 10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste
 path: /2018/03/10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste/
-fileName: 2018-03---10-alben-keine-erklaerung-teil-2-3.md
+type: Artikel
+typeName: Artikel
+title: 10 Alben - Keine Erklärung - Teil 2/3
+seoTitle: 10 Alben - Keine Erklärung - Die Lieblingsplattenliste eines Gartenbloggers
+ogTitle: 10 Alben - Keine Erklärung - Die Lieblingsplattenliste eines Gartenbloggers
 description: Im zweiten Teil meiner Blogserie "10 Songs - Keine Erklärung"
   stelle ich Euch die Lieblingsplatten eines beliebten Gartenbloggers vor. Seid
   gespannt!
 excerpt: Im zweiten Teil meiner Blogserie "10 Songs - Keine Erklärung" stelle
   ich Euch die Lieblingsplatten eines beliebten Gartenbloggers vor. Seid
   gespannt!
-focusKeyword: 10 Alben
+fileName: 2018-03---10-alben-keine-erklaerung-teil-2-3.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_Bj%C3%B6rn__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_Bj%C3%B6rn__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQgH/8QAJxAAAgIBAwMDBQEAAAAAAAAAAQIDBAUABhESEyEHMUEUIjJRcWH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBgAE/8QAIhEAAQQBBAIDAAAAAAAAAAAAAQACAxEEBRIhMXHwIlGB/9oADAMBAAIRAxEAPwBAg37lI7+KguZmxXxWK6pK8EMSJLExjIdldRzy3U3kk/kf3rReM3KuQxmKy0ctmKLIRCx2XsCZoOpie2WHuB8D3AIGo9/0s2BDgLuVGKSX6VZWXuXpAGZCR9zE+ByPfSJvXJ4/Z16pjtpw1FxVWI9zqMk/YnMrdxeeocgEKOdaQBrbJPvhdGNC7KfsjoGr97Tl60q+59hCrBfpVJIb1eeazZj6o4owWBYrweSCw+3jWfB6aYGWzkKlrctmfKNBPbgnqUlMHMXLOjIG6vK8lT9oPHA6vGn2xuW/mcZYgtCoIR2pFaqrxMT1cfkG8jgnxqlezDbjWtJE/bSMKqiR1UqrcDgBvg+Bz7fGj5MsMdVpqLQZK+dX5XZN4VcbT3DnYXxsNmNKsc0gnZm7jMSOP1x5+QT/ALqq9XNsqdyUkpywVoo6EadC1/DHrflvDAef5o0aSyeY22iNDcY8pxbx2kdtuxYfEWZ45eppGjVlVSq/n7gcnj21VLFGhd0QB38sQPJ/ujRqdzeJPxXeAd0ZJ+yv/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2018_03_Bj%C3%B6rn__l.jpg
 labels:
   - Bands
   - Beach House
@@ -40,17 +47,12 @@ labels:
   - This Is Hardcore
   - Vinyl
   - What I Got
-type: Artikel
-typeName: Artikel
-date: 2018-03-13T18:42:06.000Z
+focusKeyword: 10 Alben
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "20077"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_Bj%C3%B6rn__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_Bj%C3%B6rn__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQgH/8QAJxAAAgIBAwMDBQEAAAAAAAAAAQIDBAUABhESEyEHMUEUIjJRcWH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBgAE/8QAIhEAAQQBBAIDAAAAAAAAAAAAAQACAxEEBRIhMXHwIlGB/9oADAMBAAIRAxEAPwBAg37lI7+KguZmxXxWK6pK8EMSJLExjIdldRzy3U3kk/kf3rReM3KuQxmKy0ctmKLIRCx2XsCZoOpie2WHuB8D3AIGo9/0s2BDgLuVGKSX6VZWXuXpAGZCR9zE+ByPfSJvXJ4/Z16pjtpw1FxVWI9zqMk/YnMrdxeeocgEKOdaQBrbJPvhdGNC7KfsjoGr97Tl60q+59hCrBfpVJIb1eeazZj6o4owWBYrweSCw+3jWfB6aYGWzkKlrctmfKNBPbgnqUlMHMXLOjIG6vK8lT9oPHA6vGn2xuW/mcZYgtCoIR2pFaqrxMT1cfkG8jgnxqlezDbjWtJE/bSMKqiR1UqrcDgBvg+Bz7fGj5MsMdVpqLQZK+dX5XZN4VcbT3DnYXxsNmNKsc0gnZm7jMSOP1x5+QT/ALqq9XNsqdyUkpywVoo6EadC1/DHrflvDAef5o0aSyeY22iNDcY8pxbx2kdtuxYfEWZ45eppGjVlVSq/n7gcnj21VLFGhd0QB38sQPJ/ujRqdzeJPxXeAd0ZJ+yv/9k=
 subTitle: Lieblingsplattenliste eines Gartenbloggers
   
 ---

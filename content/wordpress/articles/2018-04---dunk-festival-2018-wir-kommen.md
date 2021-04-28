@@ -1,14 +1,21 @@
 ---
-title: Dunk!festival 2018 wir kommen!
-seoTitle: Dunk!festival 2018 wir kommen - Post-Rock rund um die Uhr
+date: 2018-04-18T08:00:12.000Z
 slug: dunkfest-2018-wir-kommen
 path: /2018/04/dunkfest-2018-wir-kommen/
-fileName: 2018-04---dunk-festival-2018-wir-kommen.md
+type: Artikel
+typeName: Artikel
+title: Dunk!festival 2018 wir kommen!
+seoTitle: Dunk!festival 2018 wir kommen - Post-Rock rund um die Uhr
+ogTitle: Dunk!festival 2018 wir kommen - Post-Rock rund um die Uhr
 description: Auch in diesem Jahr werden wir wieder das Dunk!festival im
   Belgischen Zottegem bereisen. Die Vorfreude steigt. Bald geht es los!
 excerpt: Auch in diesem Jahr werden wir wieder das Dunk!festival im Belgischen
   Zottegem bereisen. Die Vorfreude steigt. Bald geht es los!
-focusKeyword: Dunk!festival
+fileName: 2018-04---dunk-festival-2018-wir-kommen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_18556485_10154236337136887_6452039886214141882_o__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_18556485_10154236337136887_6452039886214141882_o__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREAEiEGMUETFCJRB2FxsdH/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAgMF/8QAIBEAAgIBAwUAAAAAAAAAAAAAAQIAEQMSMbEEIUFRcf/aAAwDAQACEQMRAD8AqV3rVihMiemyq6OGd9qEZxy3jg6mkHUNZbaoUdPdqyaOmcpF7mjEyEKCOGUk4x/HGtHc+qrNR18VrmpGlpc+3d1jHpxMI0cR4J+R+a5xwM9/Gk9qvnT9zvUMVp6fnmhMU0izJABvOBgKM4LNtYLkjJ47c6IuDKGJsVFJnVRVcTIfkHqGulr1hhmKS+kjOY0aMbmyzDDDIHI7/WnH4muDSUVZ7t9wVWMIfcXkfOSRxjAGe/2POlt7aK7UVorq2hhFZIJ45JguwVARwobBJwR2OCRlTgkaXW+xXNqQRQVWyk4J2blBxnvj9nUX04x3q94VyNRI+yi3+O21FBHdJI3kZqWKKVYookeXgAZlZS2B9D/NLbx1nc1hoo7e9BTxypIskaAzOoGMb9wAyeTnHnRo0Veryud/fEYuJaBieuqqmWOJamQOsEYWAfFQi+QqqAFH6Guu13SdMLj1adjypGQT/Y0aNVFiRq8zMclchqf/2Q==
+ogImage: null
 labels:
   - Baltic Post-Rock
   - Belgien
@@ -29,17 +36,12 @@ labels:
   - The Ocean
   - Tides Of Man
   - Zottegem
-type: Artikel
-typeName: Artikel
-date: 2018-04-18T08:00:12.000Z
+focusKeyword: Dunk!festival
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16753"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_18556485_10154236337136887_6452039886214141882_o__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_18556485_10154236337136887_6452039886214141882_o__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREAEiEGMUETFCJRB2FxsdH/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAgMF/8QAIBEAAgIBAwUAAAAAAAAAAAAAAQIAEQMSMbEEIUFRcf/aAAwDAQACEQMRAD8AqV3rVihMiemyq6OGd9qEZxy3jg6mkHUNZbaoUdPdqyaOmcpF7mjEyEKCOGUk4x/HGtHc+qrNR18VrmpGlpc+3d1jHpxMI0cR4J+R+a5xwM9/Gk9qvnT9zvUMVp6fnmhMU0izJABvOBgKM4LNtYLkjJ47c6IuDKGJsVFJnVRVcTIfkHqGulr1hhmKS+kjOY0aMbmyzDDDIHI7/WnH4muDSUVZ7t9wVWMIfcXkfOSRxjAGe/2POlt7aK7UVorq2hhFZIJ45JguwVARwobBJwR2OCRlTgkaXW+xXNqQRQVWyk4J2blBxnvj9nUX04x3q94VyNRI+yi3+O21FBHdJI3kZqWKKVYookeXgAZlZS2B9D/NLbx1nc1hoo7e9BTxypIskaAzOoGMb9wAyeTnHnRo0Veryud/fEYuJaBieuqqmWOJamQOsEYWAfFQi+QqqAFH6Guu13SdMLj1adjypGQT/Y0aNVFiRq8zMclchqf/2Q==
 subTitle: Post-Rock rund um die Uhr
   
 ---

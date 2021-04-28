@@ -1,15 +1,22 @@
 ---
-title: Spaziergang für die Seele
-seoTitle: Spaziergang für die Seele – eine Runde um den Block
+date: 2020-10-13T10:00:27.000Z
 slug: spaziergang-fuer-die-seele
 path: /2020/10/spaziergang-fuer-die-seele/
-fileName: 2020-10---spaziergang-fuer-die-seele.md
+type: Artikel
+typeName: Artikel
+title: Spaziergang für die Seele
+seoTitle: Spaziergang für die Seele – eine Runde um den Block
+ogTitle: Spaziergang für die Seele – eine Runde um den Block
 description: Ein Spaziergang ist nicht nur gut für die Gesundheit. Er sorgt auch
   für gute Laune, ist komplett kostenlos und zu jeder Jahres- und Tageszeit
   möglich.
 excerpt: Ein Spaziergang ist nicht nur gut für die Gesundheit. Er sorgt auch für
   gute Laune, ist komplett kostenlos und zu jeder Jahres- und Tageszeit möglich.
-focusKeyword: Spaziergang
+fileName: 2020-10---spaziergang-fuer-die-seele.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_spaziergang__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_spaziergang__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwf/xAApEAACAgEDAwMDBQAAAAAAAAABAgMEEQAFIRITMQYiQVFhcQcUIzKx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAMEAv/EAB4RAQACAgIDAQAAAAAAAAAAAAEAAhEhAzESEyJB/9oADAMBAAIRAxEAPwCD2rbp7LST14KkAf8Aiie3lOvClgWCnxnn8A6ofRm1Q+qvTVaaSDbKlh3lkedmcqCuVJLc+0+M5wcDSPbytzaqe0yMtW84h7YsxntSP1E9Mhbx/XjGfp9tXnpbbB6b3eCrJYgL3+uGeug6YTEqZTpXAzyAPcec5A1FbB9PUm4ae25V/Wc/3GiuzbtagsySSRQR4SpTAK9xmPUEY+UBU8HnIx9NIN9rSPA8ZqBbSt1KvtAVcjGCTg/ORn51X/qLuskPri496v37DJHJWnWwqBYiAFXoxkN1EjOcnP21P7zuEr7XPDMwfICwg1+vBOCwBxkEH/NKytxqahzVacmJrsM5rwrcvH91XSt2zwXM8bkgADOcgYyvgDJ02sivf2NIVuVlM8feYRyseQT0ElRy4Xx4PAHgaNGqwE3FOtye3uG+b1Xdp5UNaARIO5MGLAEnD+7khGyc8n450pSxcq3ZpYzGjpF0sskpZWLc5UrweMH8fGjRoKBbE35L3P/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_10_spaziergang-fb.png__l.jpg
 labels:
   - Achtsamkeit
   - Achtsamkeit
@@ -21,17 +28,12 @@ labels:
   - Selbstliebe
   - Spazieren
   - Spaziergang
-type: Artikel
-typeName: Artikel
-date: 2020-10-13T10:00:27.000Z
+focusKeyword: Spaziergang
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31576"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_spaziergang__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_spaziergang__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwf/xAApEAACAgEDAwMDBQAAAAAAAAABAgMEEQAFIRITMQYiQVFhcQcUIzKx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAMEAv/EAB4RAQACAgIDAQAAAAAAAAAAAAEAAhEhAzESEyJB/9oADAMBAAIRAxEAPwCD2rbp7LST14KkAf8Aiie3lOvClgWCnxnn8A6ofRm1Q+qvTVaaSDbKlh3lkedmcqCuVJLc+0+M5wcDSPbytzaqe0yMtW84h7YsxntSP1E9Mhbx/XjGfp9tXnpbbB6b3eCrJYgL3+uGeug6YTEqZTpXAzyAPcec5A1FbB9PUm4ae25V/Wc/3GiuzbtagsySSRQR4SpTAK9xmPUEY+UBU8HnIx9NIN9rSPA8ZqBbSt1KvtAVcjGCTg/ORn51X/qLuskPri496v37DJHJWnWwqBYiAFXoxkN1EjOcnP21P7zuEr7XPDMwfICwg1+vBOCwBxkEH/NKytxqahzVacmJrsM5rwrcvH91XSt2zwXM8bkgADOcgYyvgDJ02sivf2NIVuVlM8feYRyseQT0ElRy4Xx4PAHgaNGqwE3FOtye3uG+b1Xdp5UNaARIO5MGLAEnD+7khGyc8n450pSxcq3ZpYzGjpF0sskpZWLc5UrweMH8fGjRoKBbE35L3P/Z
 subTitle: Eine Runde um den Block
   
 ---

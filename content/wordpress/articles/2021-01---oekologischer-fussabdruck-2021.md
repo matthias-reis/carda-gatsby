@@ -1,14 +1,21 @@
 ---
-title: Ökologischer Fußabdruck 2021
-seoTitle: Ökologischer Fußabdruck 2021 – So errechnet Ihr Euren CO2-Verbrauch
+date: 2021-01-01T17:17:04.000Z
 slug: oekologischer-fussabdruck-co2-2021
 path: /2021/01/oekologischer-fussabdruck-co2-2021/
-fileName: 2021-01---oekologischer-fussabdruck-2021.md
+type: Artikel
+typeName: Artikel
+title: Ökologischer Fußabdruck 2021
+seoTitle: Ökologischer Fußabdruck 2021 – So errechnet Ihr Euren CO2-Verbrauch
+ogTitle: Ökologischer Fußabdruck 2021 – So errechnet Ihr Euren CO2-Verbrauch
 description: Hier könnt Ihr Euren CO2 Fußabdruck für 2020 ausrechnen. Und? Da
   geht noch was in 2021, oder? Darauf gilt es beim Klimaschutz zu achten.
 excerpt: Hier könnt Ihr Euren CO2 Fußabdruck für 2020 ausrechnen. Und? Da geht
   noch was in 2021, oder? Darauf gilt es beim Klimaschutz zu achten.
-focusKeyword: CO2
+fileName: 2021-01---oekologischer-fussabdruck-2021.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_co2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_co2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAtEAABAwIFAgUDBQAAAAAAAAABAgMEBREABhIhQSIxBxMUUWEVQnEWMjOBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQCBQb/xAAcEQACAwEAAwAAAAAAAAAAAAABAgADESExcaH/2gAMAwEAAhEDEQA/AJ/4aZ4k5XkyfpE1yMiX/Iwogt3tsUpIIBHB/wBvjSVbP+ZJqPW1GozDaxbbjyi0Ci+x0Isn+zfHW3+gKf4mQ4sGIzIiegOtCUreC5Cj02AtsUKuewFsK8h0SkSa/mUVbzW6ehxK2EobWD5Oo2SDf8e57HBTQ4JAPPZk6IlzrUDNpqagt15wMSEoS4vdwXFrE/cNzcW474xMh2Y+2whsMBtLZse6QNJuSD8fF9hjVeIUSmVCuR41HUqPBUyFPa17pWCoBdiB9o3A9x+MIU1OHTsvT4U9hxmrtBEcsKSkpWmxstJtq9r72seeD10FFKjp35K3Y5yBTW6vURJqsY/SGm9LaVL/AHDhAI6t9ySeNucWhudTEpT5MdloBsNWQLDSNgCB3HxgwY6GmtVUHPMFYxLGRPOMuNDrL7q4MazqlJb0FICQDbVpBJA53OJ1VXEOvJUgdVuojsd8GDGcUCucjE6s/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_co2-fb.png__l.jpg
 labels:
   - CO2
   - CO2-Ausgleich
@@ -20,17 +27,12 @@ labels:
   - Klimakatastrophe
   - Klimawandel
   - ökologischer Fussabdruck
-type: Artikel
-typeName: Artikel
-date: 2021-01-01T17:17:04.000Z
+focusKeyword: CO2
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "32235"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_co2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_co2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAtEAABAwIFAgUDBQAAAAAAAAABAgMEBREABhIhQSIxBxMUUWEVQnEWMjOBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQCBQb/xAAcEQACAwEAAwAAAAAAAAAAAAABAgADESExcaH/2gAMAwEAAhEDEQA/AJ/4aZ4k5XkyfpE1yMiX/Iwogt3tsUpIIBHB/wBvjSVbP+ZJqPW1GozDaxbbjyi0Ci+x0Isn+zfHW3+gKf4mQ4sGIzIiegOtCUreC5Cj02AtsUKuewFsK8h0SkSa/mUVbzW6ehxK2EobWD5Oo2SDf8e57HBTQ4JAPPZk6IlzrUDNpqagt15wMSEoS4vdwXFrE/cNzcW474xMh2Y+2whsMBtLZse6QNJuSD8fF9hjVeIUSmVCuR41HUqPBUyFPa17pWCoBdiB9o3A9x+MIU1OHTsvT4U9hxmrtBEcsKSkpWmxstJtq9r72seeD10FFKjp35K3Y5yBTW6vURJqsY/SGm9LaVL/AHDhAI6t9ySeNucWhudTEpT5MdloBsNWQLDSNgCB3HxgwY6GmtVUHPMFYxLGRPOMuNDrL7q4MazqlJb0FICQDbVpBJA53OJ1VXEOvJUgdVuojsd8GDGcUCucjE6s/9k=
 subTitle: So errechnet Ihr Euren CO<sub>2</sub>-Verbrauch
   
 ---

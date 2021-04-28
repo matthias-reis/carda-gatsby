@@ -1,15 +1,22 @@
 ---
-title: NINE INCH NAILS live @Zitadelle Spandau
-seoTitle: NINE INCH NAILS live @Zitadelle Spandau - Ein magischer Moment
+date: 2018-09-05T10:30:38.000Z
 slug: nine-inch-nails-zitadelle-spandau
 path: /2018/09/nine-inch-nails-zitadelle-spandau/
-fileName: 2018-09---nine-inch-nails-live-zitadelle-spandau.md
+type: Artikel
+typeName: Konzertbericht
+title: NINE INCH NAILS live @Zitadelle Spandau
+seoTitle: NINE INCH NAILS live @Zitadelle Spandau - Ein magischer Moment
+ogTitle: NINE INCH NAILS live @Zitadelle Spandau - Ein magischer Moment
 description: "Wehmut und roher Industrial: Wir haben in der Zitadelle Spandau
   wieder mal ein perfektes NINE INCH NAILS Konzert erlebt. Hier ist mein
   Rückblick."
 excerpt: "Wehmut und roher Industrial: Wir haben in der Zitadelle Spandau wieder
   mal ein perfektes NINE INCH NAILS Konzert erlebt. Hier ist mein Rückblick."
-focusKeyword: Zitadelle
+fileName: 2018-09---nine-inch-nails-live-zitadelle-spandau.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_nin__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_nin__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBQcG/8QAKRAAAgIBAwMCBgMAAAAAAAAAAQIDBAUABhESEyEHMRQiQVFhcRUjof/EABYBAQEBAAAAAAAAAAAAAAAAAAUABP/EABsRAAICAwEAAAAAAAAAAAAAAAACAREDBBIh/9oADAMBAAIRAxEAPwDsJbmLxO/Gwr4upNbtVPjoHn7kbqSRyjAeQ3SHI+/sdMxW6KWG9SqlO/NFDEU7UMhLrH3JGTheD7llK/otz7DWMWd6WdwbkGSzssVWZY/ls1IlWYMoAX+wgt7ePHB1BxdpbnqNhpIrFmxAcrUEbWJWkYr3o/ct51Ea7vTBmjmL71klmriZi0xA+V2JJHH25PHOo+yctbw+Vjggg78VluwEeQqIi5AZ1+nUQAOSPprItzZPdbbpzxo27T1v5K1Gh7xHgTuOP1+NU8u5N1YyWH4vIW6wkYr1pPweBwT50+u2r4uHiwmdN1ydJNCddN6YQJY9SNrxyjlDkoG4/Kt1D/VGjRoAWFbuoxVM9lgjSssuQnslWc8LJ33AYcce2qK9DCtlY3hWRe4COsk9JZeWI8/UgHRo1rvyCqPT/9k=
+ogImage: null
 labels:
   - Atticus Ross
   - Berlin
@@ -29,18 +36,13 @@ labels:
   - Trent Reznor
   - Zitadelle Spandau
   - ИINE IИCH ИAILS
-type: Artikel
-typeName: Konzertbericht
-date: 2018-09-05T10:30:38.000Z
+focusKeyword: Zitadelle
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   invalidMdx: "unknown: Unterminated JSX contents (89:16)"
-thumbnailId: "21955"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_nin__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_nin__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBQcG/8QAKRAAAgIBAwMCBgMAAAAAAAAAAQIDBAUABhESEyEHMRQiQVFhcRUjof/EABYBAQEBAAAAAAAAAAAAAAAAAAUABP/EABsRAAICAwEAAAAAAAAAAAAAAAACAREDBBIh/9oADAMBAAIRAxEAPwDsJbmLxO/Gwr4upNbtVPjoHn7kbqSRyjAeQ3SHI+/sdMxW6KWG9SqlO/NFDEU7UMhLrH3JGTheD7llK/otz7DWMWd6WdwbkGSzssVWZY/ls1IlWYMoAX+wgt7ePHB1BxdpbnqNhpIrFmxAcrUEbWJWkYr3o/ct51Ea7vTBmjmL71klmriZi0xA+V2JJHH25PHOo+yctbw+Vjggg78VluwEeQqIi5AZ1+nUQAOSPprItzZPdbbpzxo27T1v5K1Gh7xHgTuOP1+NU8u5N1YyWH4vIW6wkYr1pPweBwT50+u2r4uHiwmdN1ydJNCddN6YQJY9SNrxyjlDkoG4/Kt1D/VGjRoAWFbuoxVM9lgjSssuQnslWc8LJ33AYcce2qK9DCtlY3hWRe4COsk9JZeWI8/UgHRo1rvyCqPT/9k=
 subTitle: Ein magischer Moment
   
 ---

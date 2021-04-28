@@ -1,16 +1,23 @@
 ---
-title: Vegane Zahnpasta von Happybrush
-seoTitle: Vegane Zahnpasta von Happybrush - Mein Produkttest mit Life Hack
+date: 2018-03-25T08:06:56.000Z
 slug: zahnpasta-von-happybrush
 path: /2018/03/zahnpasta-von-happybrush/
-fileName: 2018-03---vegane-zahnpasta-von-happybrush.md
+type: Artikel
+typeName: Produkttest
+title: Vegane Zahnpasta von Happybrush
+seoTitle: Vegane Zahnpasta von Happybrush - Mein Produkttest mit Life Hack
+ogTitle: Vegane Zahnpasta von Happybrush - Mein Produkttest mit Life Hack
 description: Ich habe die vegane Zahnpasta von Happybrush getestet. Auf
   bedenkliche Inhaltsstoffe und Mikroplastik wird bei ihrer Herstellung aus
   Prinzip verzichtet.
 excerpt: Werbung & Affiliate Link - Ich habe die vegane Zahnpasta von Happybrush
   getestet. Auf bedenkliche Inhaltsstoffe und Mikroplastik wird bei ihrer
   Herstellung aus Prinzip verzichtet.
-focusKeyword: vegane Zahnpasta
+fileName: 2018-03---vegane-zahnpasta-von-happybrush.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38611072830_77fc45cac7_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38611072830_77fc45cac7_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHCP/EAC4QAAEDAwMBBgUFAAAAAAAAAAECAwQABREGEiEHCBMiMUFRFBVhccEzQoGR8P/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQD/xAAlEQABAwMBCQEAAAAAAAAAAAABAAIRAyExUQQFIkFScaGx8MH/2gAMAwEAAhEDEQA/AIRZUMOXSC3JG5lyQ0hxOcZSVgEZ+xNXW86A0vHgzixCdbkspeCU944RlDbigdxV7pScfes4Myi08y7n9NxCv6UD+K1lfC4tq+FODtakOcKGAktuDJH801pAZUJ6T95UfeL6rK+zCnMF8GJxbMdjmyQOj2jdP6ou9wansLmIRE71tpxTjYaUVgDxJIz6g+nrSt1usVs05rNEC0Qm4Mf4Nt0tIfW8MqUvncok5wBx5VQOzKvbertvKtwiNjGcp5c9P97Uh9paRv6pvgEeCDGTwMftJ/NCTd1uf4FQptMN4pzpqfvalCQFZB8jVw6b62nzYeqvnW6cpcAAFJQ1hOFAg4Tzn6/X3oopb2gi6KtZqR7BrrUFnRvtEiHBWtsJWqPBZQVAcjJCeeaXdVXi4X+8O3G8SDJmOJShTm0JyEjA4HHlRRWDGgyAnFxOV//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38611072830_77fc45cac7_z__l.jpg
 labels:
   - Fair Fashion & Beauty
   - happybrush
@@ -21,18 +28,13 @@ labels:
   - vegane Zahnpflege
   - Zahnpasta
   - Zahnpflege
-type: Artikel
-typeName: Produkttest
-date: 2018-03-25T08:06:56.000Z
+focusKeyword: vegane Zahnpasta
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "19808"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38611072830_77fc45cac7_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38611072830_77fc45cac7_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHCP/EAC4QAAEDAwMBBgUFAAAAAAAAAAECAwQABREGEiEHCBMiMUFRFBVhccEzQoGR8P/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQD/xAAlEQABAwMBCQEAAAAAAAAAAAABAAIRAyExUQQFIkFScaGx8MH/2gAMAwEAAhEDEQA/AIRZUMOXSC3JG5lyQ0hxOcZSVgEZ+xNXW86A0vHgzixCdbkspeCU944RlDbigdxV7pScfes4Myi08y7n9NxCv6UD+K1lfC4tq+FODtakOcKGAktuDJH801pAZUJ6T95UfeL6rK+zCnMF8GJxbMdjmyQOj2jdP6ou9wansLmIRE71tpxTjYaUVgDxJIz6g+nrSt1usVs05rNEC0Qm4Mf4Nt0tIfW8MqUvncok5wBx5VQOzKvbertvKtwiNjGcp5c9P97Uh9paRv6pvgEeCDGTwMftJ/NCTd1uf4FQptMN4pzpqfvalCQFZB8jVw6b62nzYeqvnW6cpcAAFJQ1hOFAg4Tzn6/X3oopb2gi6KtZqR7BrrUFnRvtEiHBWtsJWqPBZQVAcjJCeeaXdVXi4X+8O3G8SDJmOJShTm0JyEjA4HHlRRWDGgyAnFxOV//Z
 subTitle: Produkttest und Lifehack
   
 ---

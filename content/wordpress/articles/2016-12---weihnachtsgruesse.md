@@ -1,16 +1,23 @@
 ---
-title: Weihnachtsgrüße
-seoTitle: Weihnachtsgrüße - Frohe Festtage wünsche ich Euch allen
+date: 2016-12-24T18:11:16.000Z
 slug: weihnachtsgruesse
 path: /2016/12/weihnachtsgruesse/
-fileName: 2016-12---weihnachtsgruesse.md
+type: Artikel
+typeName: Artikel
+title: Weihnachtsgrüße
+seoTitle: Weihnachtsgrüße - Frohe Festtage wünsche ich Euch allen
+ogTitle: Weihnachtsgrüße - Frohe Festtage wünsche ich Euch allen
 description: "Ich wünsche Euch allen frohe Festtage! Ich habe für Euch eine
   kleine Galerie gebastelt: Eure lieben Weihnachtsgrüße in meinem Blog. Auf ein
   gelungenes Jahr!"
 excerpt: "Ich wünsche Euch allen frohe Festtage! Ich habe für Euch eine kleine
   Galerie gebastelt: Eure lieben Weihnachtsgrüße in meinem Blog. Auf ein
   gelungenes Jahr!"
-focusKeyword: Weihnachtsgrüße
+fileName: 2016-12---weihnachtsgruesse.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_12_31845910365_0aa70a0a2c_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_12_31845910365_0aa70a0a2c_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAsEAABAwQBAwIEBwAAAAAAAAABAgMEAAUREiEGE0ExYRYiMlEjJEJxodHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EACMRAAICAQQABwAAAAAAAAAAAAECABEhAwQSwQUTMVFhoeH/2gAMAwEAAhEDEQA/AF09JQru8uQ+mXKBUzFQ+kpQNieVK4+kD5SR9waq91m9P2pdyiOyIjMiK0laipIJSVnVJIx9yM0hp6gDr8+BKtqn4b77bLLzDYQGkfh41+X1wM5J8VXL5a23npclx9wBzA0QwF4x/Pis3h4NNn27jsUIWvWzf1+xKemWu9WmREgKjN3RcFT6uwhK+0AAQcHBJ5B15IyM1L7zYHpNrhMT5Yfnl/0YbG6RqSVbJ9RqoAgjIINXV2yx40aU+/KcXH7DwU2thCMBScKyQNvB/wB4qRdX3S3s9LMyLXIiPoVJbL4iJP0arCkhCzskE65yf28VPf8AMai1KaZPlEVixmu5vjKlWO6RYpluSGnZ+yhgIBJSSnI5yElPt6mnsdRmS3IU5HX+WKhhL5G3GfA/uiin2rFFNQaigoD8dzkfGBf2hohqSl1K8lx/ufp8gp5HtUclzcQo8FhlttLjwG2M6+SB7E84zxRRUt27M63ER2A4g4M//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2016_12_31845910365_0aa70a0a2c_k__l.jpg
 labels:
   - Festtage
   - Geschichten & Erlebtes
@@ -20,17 +27,12 @@ labels:
   - Weihnachten
   - Weihnachtsgrüße
   - Weihnachtskarten
-type: Artikel
-typeName: Artikel
-date: 2016-12-24T18:11:16.000Z
+focusKeyword: Weihnachtsgrüße
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "15605"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_12_31845910365_0aa70a0a2c_k__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_12_31845910365_0aa70a0a2c_k__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAsEAABAwQBAwIEBwAAAAAAAAABAgMEAAUREiEGE0ExYRYiMlEjJEJxodHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EACMRAAICAQQABwAAAAAAAAAAAAECABEhAwQSwQUTMVFhoeH/2gAMAwEAAhEDEQA/AF09JQru8uQ+mXKBUzFQ+kpQNieVK4+kD5SR9waq91m9P2pdyiOyIjMiK0laipIJSVnVJIx9yM0hp6gDr8+BKtqn4b77bLLzDYQGkfh41+X1wM5J8VXL5a23npclx9wBzA0QwF4x/Pis3h4NNn27jsUIWvWzf1+xKemWu9WmREgKjN3RcFT6uwhK+0AAQcHBJ5B15IyM1L7zYHpNrhMT5Yfnl/0YbG6RqSVbJ9RqoAgjIINXV2yx40aU+/KcXH7DwU2thCMBScKyQNvB/wB4qRdX3S3s9LMyLXIiPoVJbL4iJP0arCkhCzskE65yf28VPf8AMai1KaZPlEVixmu5vjKlWO6RYpluSGnZ+yhgIBJSSnI5yElPt6mnsdRmS3IU5HX+WKhhL5G3GfA/uiin2rFFNQaigoD8dzkfGBf2hohqSl1K8lx/ufp8gp5HtUclzcQo8FhlttLjwG2M6+SB7E84zxRRUt27M63ER2A4g4M//9k=
 subTitle: Frohe Festtage...
   
 ---

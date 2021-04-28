@@ -1,16 +1,23 @@
 ---
-title: Veganer Duftzwilling
-seoTitle: Veganer Duftzwilling - der Parfumgenerator von XAXX
+date: 2020-06-22T09:19:03.000Z
 slug: veganer-duftzwilling
 path: /2020/06/veganer-duftzwilling/
-fileName: 2020-06---veganer-duftzwilling.md
+type: Artikel
+typeName: Artikel
+title: Veganer Duftzwilling
+seoTitle: Veganer Duftzwilling - der Parfumgenerator von XAXX
+ogTitle: Veganer Duftzwilling - der Parfumgenerator von XAXX
 description: "Viele Veganer⋆innen kennen das: Kurz nach der Umstellung merkt
   man, dass das Lieblingsparfum nicht vegan ist. Der vegane Duftzwilling ist die
   Lösung."
 excerpt: "Werbung & Affiliate Links - Viele Veganer⋆innen kennen das: Kurz nach
   der Umstellung merkt man, dass das Lieblingsparfum nicht vegan ist. Der vegane
   Duftzwilling ist die Lösung."
-focusKeyword: Duftzwilling
+fileName: 2020-06---veganer-duftzwilling.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-30-xaxx-titel-18__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-30-xaxx-titel-18__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAYI/8QAJxAAAQQBAwMDBQAAAAAAAAAAAQACAwQRBRIxEyEyIkFRcYGhscH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAEQL/2gAMAwEAAhEDEQA/AOqSQB3OFR1LUY6dSWYYcWNJxnk+35wptuIJys7qsDLDts0TZoy3xdxyjpwonmjaq3UKMVhwDN4zjcD+iUya9rvEgrDUacNazCKVdldjd25rAAD6Tjj6rS0Q/c3BRz1s5MJ4uoO3KWW6E+Qa/TJPPUzgD7IQlNimDS3MIe/aXfDc/wBTKvCIm98bkIUAVf/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_veganer-duftzwilling-fb.png__l.jpg
 labels:
   - Duftgenerator
   - Duftzwillinge
@@ -19,17 +26,12 @@ labels:
   - vegane Duftzwillinge
   - veganes Parfum
   - XAXX
-type: Artikel
-typeName: Artikel
-date: 2020-06-22T09:19:03.000Z
+focusKeyword: Duftzwilling
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29812"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-30-xaxx-titel-18__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-30-xaxx-titel-18__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAYI/8QAJxAAAQQBAwMDBQAAAAAAAAAAAQACAwQRBRIxEyEyIkFRcYGhscH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAEQL/2gAMAwEAAhEDEQA/AOqSQB3OFR1LUY6dSWYYcWNJxnk+35wptuIJys7qsDLDts0TZoy3xdxyjpwonmjaq3UKMVhwDN4zjcD+iUya9rvEgrDUacNazCKVdldjd25rAAD6Tjj6rS0Q/c3BRz1s5MJ4uoO3KWW6E+Qa/TJPPUzgD7IQlNimDS3MIe/aXfDc/wBTKvCIm98bkIUAVf/Z
 subTitle: XAXX Parfum
   
 ---

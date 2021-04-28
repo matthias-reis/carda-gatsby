@@ -1,16 +1,23 @@
 ---
-title: Von Blankenese nach Altona
-seoTitle: Von Blankenese nach Altona - Winterlicher Spaziergang an der Elbe
+date: 2016-11-26T08:34:58.000Z
 slug: von-blankenese-nach-altona
 path: /2016/11/von-blankenese-nach-altona/
-fileName: 2016-11---von-blankenese-nach-altona.md
+type: Artikel
+typeName: Artikel
+title: Von Blankenese nach Altona
+seoTitle: Von Blankenese nach Altona - Winterlicher Spaziergang an der Elbe
+ogTitle: Von Blankenese nach Altona - Winterlicher Spaziergang an der Elbe
 description: Was ich in Blankenese gemacht habe? Nicht so wichtig. Aber meinen
   Spaziergang an der Elbe möchte ich Euch nicht vorenthalten. Hier sind meine
   Bilder.
 excerpt: Was ich in Blankenese gemacht habe? Nicht so wichtig. Aber meinen
   Spaziergang an der Elbe möchte ich Euch nicht vorenthalten. Hier sind meine
   Bilder.
-focusKeyword: Blankenese
+fileName: 2016-11---von-blankenese-nach-altona.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_11_31117999676_031983210c_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_11_31117999676_031983210c_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgP/xAArEAACAQMDAwMCBwAAAAAAAAABAgMEBREABhIhMUEHE2FRkSMzQlJxgcH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAcEQEAAwACAwAAAAAAAAAAAAABAAIREiEDE0H/2gAMAwEAAhEDEQA/AGNvntosyGalmWqIHunjkHP6lOO2Rp9t6hpq6NUoD+KewlLL0+vYAnUI2hcr/bnRdqX2ppW4HlBJmRCAc/lkMME/GqfBfN8PDckuMtFLNBAGU04anYsQT2ZSvbPgaVfN7DqS1ODjNvb9hVE19aou1PTiBenIxA8wfls/5rTRbRsFvqpHWGCNSpaSIw8lzjy5H8dANQ+9eot5s7yCttF0hlijVpS9QiqoYsFPIR4IODg5xrg/qDFXV9HTywQyGRWkdzc5Gj4cSADxToc48fTxrKze0QBJ7s29RWWukkLuqshWZlXLMPA+NaWj3upq6qcSB0liEXBnz+8E/Yj7aNGhyQyNBY+sPqS0W4quvqo6Z6OemgiaNwGASNpT/fVuoOlLbX2bX3lZIbzWQUdUj8o4wg9hirMDyPcBsdCvbz00aNLOtIPs/9k=
+ogImage: null
 labels:
   - Altona
   - Blankenese
@@ -19,17 +26,12 @@ labels:
   - Spaziergang
   - Treppenviertel
   - Winter
-type: Artikel
-typeName: Artikel
-date: 2016-11-26T08:34:58.000Z
+focusKeyword: Blankenese
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "15345"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_11_31117999676_031983210c_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_11_31117999676_031983210c_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgP/xAArEAACAQMDAwMCBwAAAAAAAAABAgMEBREABhIhMUEHE2FRkSMzQlJxgcH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAcEQEAAwACAwAAAAAAAAAAAAABAAIREiEDE0H/2gAMAwEAAhEDEQA/AGNvntosyGalmWqIHunjkHP6lOO2Rp9t6hpq6NUoD+KewlLL0+vYAnUI2hcr/bnRdqX2ppW4HlBJmRCAc/lkMME/GqfBfN8PDckuMtFLNBAGU04anYsQT2ZSvbPgaVfN7DqS1ODjNvb9hVE19aou1PTiBenIxA8wfls/5rTRbRsFvqpHWGCNSpaSIw8lzjy5H8dANQ+9eot5s7yCttF0hlijVpS9QiqoYsFPIR4IODg5xrg/qDFXV9HTywQyGRWkdzc5Gj4cSADxToc48fTxrKze0QBJ7s29RWWukkLuqshWZlXLMPA+NaWj3upq6qcSB0liEXBnz+8E/Yj7aNGhyQyNBY+sPqS0W4quvqo6Z6OemgiaNwGASNpT/fVuoOlLbX2bX3lZIbzWQUdUj8o4wg9hirMDyPcBsdCvbz00aNLOtIPs/9k=
 subTitle: Winterliche Elbe
   
 ---

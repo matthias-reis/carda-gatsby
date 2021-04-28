@@ -1,16 +1,23 @@
 ---
-title: Ashéra Gründerin Jacqueline
-seoTitle: Ashéra Gründerin Jacqueline Heimgärtner im Interview
+date: 2018-02-02T07:51:03.000Z
 slug: ashera-interview
 path: /2018/02/ashera-interview/
-fileName: 2018-02---ashera-gruenderin-jacqueline.md
+type: Artikel
+typeName: Interview
+title: Ashéra Gründerin Jacqueline
+seoTitle: Ashéra Gründerin Jacqueline Heimgärtner im Interview
+ogTitle: Ashéra Gründerin Jacqueline Heimgärtner im Interview
 description: '"Nachhaltigkeit und Natürlichkeit ist mein Thema!", sagt Ashéra
   Gründerin Jacqueline Heimgärtner im Interview. Und sie hat mir noch mehr
   verraten.'
 excerpt: '"Nachhaltigkeit und Natürlichkeit ist mein Thema!", sagt Ashéra
   Gründerin Jacqueline Heimgärtner im Interview. Und sie hat mir noch mehr
   verraten.'
-focusKeyword: Ashéra
+fileName: 2018-02---ashera-gruenderin-jacqueline.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_ueber_uns_jacqueline_heimgaertner__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_ueber_uns_jacqueline_heimgaertner__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAGCP/EAC0QAAIBAwMCBAQHAAAAAAAAAAECEQMEBQAGEiExB0FRcQgTImEUFTIzgZGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgQD/8QAIREAAgEDAwUAAAAAAAAAAAAAAAECAwQREjEzISNRcfD/2gAMAwEAAhEDEQA/AOmblOAUpHoPM/xrCeMu6H2dtxamKpF83kqv4SyPQ8HPTlB7xPQepE6QBbotJVaWVCSo7x6f1oz+IHB3mc2RRvsJcOMjiay39vTpKC9QiB0kiCJnzmIjUyNI7rJg901MhsXDUs9jdz7iur+1K1L6ne1HrUqoLBWlXEKOXb7dtMuDubXMYvGZVDy/MKKXIUiCEdf0j7SToK3xc53dGyillbUqFW8o06lyoqli1QCWQAkqgkkTJMjy76ZPCbG31lsDCU8qVN4lun7bIVRY+lQVJDKB0meusqc9SfUruYKGMI2F4VZgrorKByAM99GHiZf1WSxJWnxpOGRI+mWqcCY9ePQe51atGvxsNmu9Ewu4b6qMjbWcJ8hcct2ABxhzW4R0iBHX3Jme2k3wGqvceG+OFVifl17tR7Cu0f7q1aFtt95K7/jXs//Z
+ogImage: null
 labels:
   - Ashera
   - Ashera Cosmetics
@@ -44,17 +51,12 @@ labels:
   - Yin Yang
   - Yin-Tee
   - YinYang
-type: Artikel
-typeName: Interview
-date: 2018-02-02T07:51:03.000Z
+focusKeyword: Ashéra
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "19343"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_ueber_uns_jacqueline_heimgaertner__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_ueber_uns_jacqueline_heimgaertner__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAGCP/EAC0QAAIBAwMCBAQHAAAAAAAAAAECEQMEBQAGEiExB0FRcQgTImEUFTIzgZGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgQD/8QAIREAAgEDAwUAAAAAAAAAAAAAAAECAwQREjEzISNRcfD/2gAMAwEAAhEDEQA/AOmblOAUpHoPM/xrCeMu6H2dtxamKpF83kqv4SyPQ8HPTlB7xPQepE6QBbotJVaWVCSo7x6f1oz+IHB3mc2RRvsJcOMjiay39vTpKC9QiB0kiCJnzmIjUyNI7rJg901MhsXDUs9jdz7iur+1K1L6ne1HrUqoLBWlXEKOXb7dtMuDubXMYvGZVDy/MKKXIUiCEdf0j7SToK3xc53dGyillbUqFW8o06lyoqli1QCWQAkqgkkTJMjy76ZPCbG31lsDCU8qVN4lun7bIVRY+lQVJDKB0meusqc9SfUruYKGMI2F4VZgrorKByAM99GHiZf1WSxJWnxpOGRI+mWqcCY9ePQe51atGvxsNmu9Ewu4b6qMjbWcJ8hcct2ABxhzW4R0iBHX3Jme2k3wGqvceG+OFVifl17tR7Cu0f7q1aFtt95K7/jXs//Z
 subTitle: '"Nachhaltigkeit und Natürlichkeit ist mein Thema!"'
   
 ---

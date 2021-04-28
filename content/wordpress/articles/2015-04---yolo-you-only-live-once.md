@@ -1,14 +1,21 @@
 ---
-title: YOLO - You only live once
-seoTitle: YOLO - You only live once
+date: 2015-04-28T15:58:20.000Z
 slug: yolo-you-only-live-once
 path: /2015/04/yolo-you-only-live-once/
-fileName: 2015-04---yolo-you-only-live-once.md
+type: Artikel
+typeName: Artikel
+title: YOLO - You only live once
+seoTitle: YOLO - You only live once
+ogTitle: YOLO - You only live once
 description: YOLO - You only live once - Wo kommt dieser Ausdruck eigentlich
   her? Und was bedeutet er genau? Ich habe das mal aufgeschrieben...
 excerpt: "Ärgert Ihr Euch immer wieder darüber, dass Ihr einfach viel zu
   vernünftige Entscheidungen trefft? Ich habe da einen Tipp für Euch: #YOLO!"
-focusKeyword: YOLO
+fileName: 2015-04---yolo-you-only-live-once.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_04_08b3db396a497d4d96d412a89fb128dc15d3c64c082de4c8759c4ac84161b4ef__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_04_08b3db396a497d4d96d412a89fb128dc15d3c64c082de4c8759c4ac84161b4ef__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABsDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFBAj/xAAoEAACAQMDAgcBAQEAAAAAAAABAgMEBREGEiEAMQcTFCJBUWFxkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwL/xAAYEQEBAQEBAAAAAAAAAAAAAAABAAIRYf/aAAwDAQACEQMRAD8AKPCigkrbBeo2pDPTSzRIQwBjZgrHDfzg/nxg9LNDpbRYtK0k2mqGnlQKDIwMjbgzM3uYk45C8nsPwdU1s0xRx6Wsdltc6U+yghVaiBSV814w5kYAjcWJJzn/AJx1w3m3E2+R6CUXipij2PDTDc+VzuOVPHIPf3ZPbqaoqR3sIeIXhxVrerrdLA1qktU9U8tPSwVCxSRRs2QojfGQuce3Pbo9q7PcqSoeCooKlZFxkCMsORkcjj56eam3V81wT0lP5U44PmrtGDwefr9/nQ14iF6PW13pIppttNN6clsglkAUn/QetZ0sns66Pnuk+itM316yaiqJofSFlbh1iJjRyGBxlVHOO6560FvlfboJaQI1TCGaZ5MLHJKWYkh9hO7v3zz9dRPhvqBr7oWW03WrttLHa4ykM09UImkTBYIEI5YZIBHfsfs6FPY2TzTDqbT8qpS+qVfUhyw27vLHB9/xjjnqes670kTnGsLRVJWRrVzoYY4XLyMwONuORz98dTeqKLS93vtTcLtb45q2o2PI+8jd7BjsfrHWlV0M9NRSSXO/2taaBmUET4B2lhuQAYYHbkEd9w68/anv9Rdb7V1lKjw07kCJCuSEVQq5/SACf704yxf/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2015_04_52e__l.jpg
 labels:
   - Antifaschismus & Feminismus
   - Internet
@@ -21,17 +28,12 @@ labels:
   - Spendet bitte für Nepal!
   - YOLO
   - You Only Live Once
-type: Artikel
-typeName: Artikel
-date: 2015-04-28T15:58:20.000Z
+focusKeyword: YOLO
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11898"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_04_08b3db396a497d4d96d412a89fb128dc15d3c64c082de4c8759c4ac84161b4ef__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_04_08b3db396a497d4d96d412a89fb128dc15d3c64c082de4c8759c4ac84161b4ef__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABsDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFBAj/xAAoEAACAQMDAgcBAQEAAAAAAAABAgMEBREGEiEAMQcTFCJBUWFxkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwL/xAAYEQEBAQEBAAAAAAAAAAAAAAABAAIRYf/aAAwDAQACEQMRAD8AKPCigkrbBeo2pDPTSzRIQwBjZgrHDfzg/nxg9LNDpbRYtK0k2mqGnlQKDIwMjbgzM3uYk45C8nsPwdU1s0xRx6Wsdltc6U+yghVaiBSV814w5kYAjcWJJzn/AJx1w3m3E2+R6CUXipij2PDTDc+VzuOVPHIPf3ZPbqaoqR3sIeIXhxVrerrdLA1qktU9U8tPSwVCxSRRs2QojfGQuce3Pbo9q7PcqSoeCooKlZFxkCMsORkcjj56eam3V81wT0lP5U44PmrtGDwefr9/nQ14iF6PW13pIppttNN6clsglkAUn/QetZ0sns66Pnuk+itM316yaiqJofSFlbh1iJjRyGBxlVHOO6560FvlfboJaQI1TCGaZ5MLHJKWYkh9hO7v3zz9dRPhvqBr7oWW03WrttLHa4ykM09UImkTBYIEI5YZIBHfsfs6FPY2TzTDqbT8qpS+qVfUhyw27vLHB9/xjjnqes670kTnGsLRVJWRrVzoYY4XLyMwONuORz98dTeqKLS93vtTcLtb45q2o2PI+8jd7BjsfrHWlV0M9NRSSXO/2taaBmUET4B2lhuQAYYHbkEd9w68/anv9Rdb7V1lKjw07kCJCuSEVQq5/SACf704yxf/2Q==
 subTitle: Einfach nicht lange überlegen!
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: NORDEN Festival
-seoTitle: Norden Festival - Neues Open Air Event in den Startlöchern!
+date: 2018-07-05T06:57:32.000Z
 slug: norden-festival
 path: /2018/07/norden-festival/
-fileName: 2018-07---norden-festival.md
+type: Artikel
+typeName: Verlosung
+title: NORDEN Festival
+seoTitle: Norden Festival - Neues Open Air Event in den Startlöchern!
+ogTitle: Norden Festival - Neues Open Air Event in den Startlöchern!
 description: Vom 30. August bis einschließlich 16. September wird auf den
   Königswiesen erstmalig das NORDEN Festival stattfinden. Ich verlose 4
   Gästelistenplätze!
 excerpt: Werbung -  Vom 30. August bis einschließlich 16. September wird auf den
   Königswiesen erstmalig das NORDEN Festival stattfinden. Ich verlose 4
   Gästelistenplätze!
-focusKeyword: NORDEN Festival
+fileName: 2018-07---norden-festival.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Zelt-der-Wunder.jpeg__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Zelt-der-Wunder.jpeg__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMFBgIEB//EACgQAAIBAwQBBAIDAQAAAAAAAAECAwQFEQAGEiExEyIjQRQyUWGBof/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAIhEAAQQBBAIDAAAAAAAAAAAAAgABAxEhEiJB4SNRMWHw/9oADAMBAAIRAxEAPwCk7Ust8s219wV1vtlW92jeGKJHhEjIDz5MuRyBAODjogkafvCGagphtm7NLRCT0Kq30kAZ6dWcEO/J/ccFypGeio8gakYdx3u7bn9J56uG31EpqPTt5A/YK/2AOQVsd5/UnWW4r1bL9bDuKtStludOYBSGYkOJFJ9VCQCDnz/GR15xptGxaibL18e8V+9WgGCEo9sm7uu+1zhLfDbWqDcnemYtJFGJUVzjsEsAc5yPrTrHtk354ILNDNUtGjSTsR8cfnt26EY6Hk9/QJxq7UkFprbyry0Mb/mU0dSYioyIGGHw2B22GHXu6JGNJnr7jCojor89BTwTsI7VHUGH48gLLwXrOTkZHeP708ZCJ65UwRABeV3r6UHarpFHOwq52jYwtHFM/ahmXjlsd4x1qrQXOe1itVONRHOMHIPFWyfH+H/g0aNVRA11wthmtmypfZG52t1NHST1U0dH63qTdAqzAHgSfPRJwD7fces961t63OmqKg/gQxSGVQr1QA5EAJxUY8H485++R0aNE0QtLqXSN6pf/9k=
+ogImage: null
 labels:
   - Dänemark
   - Estland
@@ -30,17 +37,12 @@ labels:
   - Schweden
   - Skandinavien
   - Tangoliebe
-type: Artikel
-typeName: Verlosung
-date: 2018-07-05T06:57:32.000Z
+focusKeyword: NORDEN Festival
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "21333"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Zelt-der-Wunder.jpeg__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Zelt-der-Wunder.jpeg__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMFBgIEB//EACgQAAIBAwQBBAIDAQAAAAAAAAECAwQFEQAGEiExEyIjQRQyUWGBof/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAIhEAAQQBBAIDAAAAAAAAAAAAAgABAxEhEiJB4SNRMWHw/9oADAMBAAIRAxEAPwCk7Ust8s219wV1vtlW92jeGKJHhEjIDz5MuRyBAODjogkafvCGagphtm7NLRCT0Kq30kAZ6dWcEO/J/ccFypGeio8gakYdx3u7bn9J56uG31EpqPTt5A/YK/2AOQVsd5/UnWW4r1bL9bDuKtStludOYBSGYkOJFJ9VCQCDnz/GR15xptGxaibL18e8V+9WgGCEo9sm7uu+1zhLfDbWqDcnemYtJFGJUVzjsEsAc5yPrTrHtk354ILNDNUtGjSTsR8cfnt26EY6Hk9/QJxq7UkFprbyry0Mb/mU0dSYioyIGGHw2B22GHXu6JGNJnr7jCojor89BTwTsI7VHUGH48gLLwXrOTkZHeP708ZCJ65UwRABeV3r6UHarpFHOwq52jYwtHFM/ahmXjlsd4x1qrQXOe1itVONRHOMHIPFWyfH+H/g0aNVRA11wthmtmypfZG52t1NHST1U0dH63qTdAqzAHgSfPRJwD7fces961t63OmqKg/gQxSGVQr1QA5EAJxUY8H485++R0aNE0QtLqXSN6pf/9k=
 subTitle: Neues Open Air Event steht in den Startlöchern
   
 ---

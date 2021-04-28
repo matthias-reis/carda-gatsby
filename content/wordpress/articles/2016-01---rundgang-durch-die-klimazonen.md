@@ -1,15 +1,22 @@
 ---
-title: Rundgang durch die Klimazonen
-seoTitle: Ein Rundgang durch die Klimazonen zum neuen Jahr
+date: 2016-01-01T17:51:38.000Z
 slug: ein-rundgang-durch-die-klimazonen-zum-neuen-jahr
 path: /2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/
-fileName: 2016-01---rundgang-durch-die-klimazonen.md
+type: Galerie
+typeName: Galerie
+title: Rundgang durch die Klimazonen
+seoTitle: Ein Rundgang durch die Klimazonen zum neuen Jahr
+ogTitle: Ein Rundgang durch die Klimazonen zum neuen Jahr
 description: Was hat das neue Jahr mit Klimazonen zu tun? Ich erkläre es Euch
   mit meinen Bildern aus den Schaugewächshäusern bei Planen un Blomen in
   Hamburg.
 excerpt: Was hat das neue Jahr mit Klimazonen zu tun? Ich erkläre es Euch mit
   meinen Bildern aus den Schaugewächshäusern bei Planen un Blomen in Hamburg.
-focusKeyword: Klimazonen
+fileName: 2016-01---rundgang-durch-die-klimazonen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_01_23998566612_ef1c408d93_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_01_23998566612_ef1c408d93_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAApEAACAQMDAwMEAwAAAAAAAAABAgMEBREAEiEGMUEHE2EUIjJRcYGx/8QAFwEBAAMAAAAAAAAAAAAAAAAAAwAEBf/EACURAAIBAwIFBQAAAAAAAAAAAAECAwARMRIhBEGx4fAiUWHB0f/aAAwDAQACEQMRAD8AhkNJWUFULVUMKaIn3I8lRv58nvgjx4/Wqf0r0fLV1ttxDNS0l03UaVRw8Ym5baSDz2+3HcgfOl+dpqWlt9Yhhkgq0912kpl/PAyvP3DkHyO39aqHptcYJOjTaIqaomuv1VRW/UQPsjjjjVX3ZIyWVsbVxw2DkappNIY9S59+uxrBYLLLpfHU0jeqXpmel4Hal3y26UopnaMkRDJZg/PB4GPgakt0q4pHKU29UByhk4bb8/J/zGum+uTQ37pRJk6otdRCiLVJRyblqWdhhhMAzEyHONxwM+ADrm272pKWdJY2Z1BZHMnlgexPbzpuHV2juxue+3e1KHjWYpyyPP2tKyV71csMLRpsZ1jAcswGSBnGRnvpmo71V2q5SNZpZKFKacwxe25LAbSGJbyWycn+P1o0aWMAobgZtj4oZ1CuQKxDVNT0lxRgJRMwgkLd3GQRkjx8aXpXeoFWHdgsa8AH9cDRo0svpIA8zUgUAFue31X/2Q==
+ogImage: null
 labels:
   - Ausflug
   - Botanischer Garten
@@ -17,17 +24,12 @@ labels:
   - Hamburg
   - Klimazonen
   - Planten un Blomen
-type: Galerie
-typeName: Galerie
-date: 2016-01-01T17:51:38.000Z
+focusKeyword: Klimazonen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "13625"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_01_23998566612_ef1c408d93_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_01_23998566612_ef1c408d93_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAApEAACAQMDAwMEAwAAAAAAAAABAgMEBREAEiEGMUEHE2EUIjJRcYGx/8QAFwEBAAMAAAAAAAAAAAAAAAAAAwAEBf/EACURAAIBAwIFBQAAAAAAAAAAAAECAwARMRIhBEGx4fAiUWHB0f/aAAwDAQACEQMRAD8AhkNJWUFULVUMKaIn3I8lRv58nvgjx4/Wqf0r0fLV1ttxDNS0l03UaVRw8Ym5baSDz2+3HcgfOl+dpqWlt9Yhhkgq0912kpl/PAyvP3DkHyO39aqHptcYJOjTaIqaomuv1VRW/UQPsjjjjVX3ZIyWVsbVxw2DkappNIY9S59+uxrBYLLLpfHU0jeqXpmel4Hal3y26UopnaMkRDJZg/PB4GPgakt0q4pHKU29UByhk4bb8/J/zGum+uTQ37pRJk6otdRCiLVJRyblqWdhhhMAzEyHONxwM+ADrm272pKWdJY2Z1BZHMnlgexPbzpuHV2juxue+3e1KHjWYpyyPP2tKyV71csMLRpsZ1jAcswGSBnGRnvpmo71V2q5SNZpZKFKacwxe25LAbSGJbyWycn+P1o0aWMAobgZtj4oZ1CuQKxDVNT0lxRgJRMwgkLd3GQRkjx8aXpXeoFWHdgsa8AH9cDRo0svpIA8zUgUAFue31X/2Q==
 subTitle: Schaugewächshäuser bei Planten un Blomen
   
 ---

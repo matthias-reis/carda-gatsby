@@ -1,16 +1,23 @@
 ---
-title: Schutz vor Blue Light
-seoTitle: Schutz vor Blue Light - Das Repair & Glow Face Oil von Acaraa im Test
+date: 2020-07-06T11:40:47.000Z
 slug: schutz-vor-blue-light
 path: /2020/07/schutz-vor-blue-light/
-fileName: 2020-07---schutz-vor-blue-light.md
+type: Artikel
+typeName: Produkttest
+title: Schutz vor Blue Light
+seoTitle: Schutz vor Blue Light - Das Repair & Glow Face Oil von Acaraa im Test
+ogTitle: Schutz vor Blue Light - Das Repair & Glow Face Oil von Acaraa im Test
 description: Kennt Ihr schon das Repair & Glow Face Oil von Acaraa? Ich wollte
   meiner Haut etwas Gutes tun und habe es ausprobiert. Das hier ist mein
   Testbericht.
 excerpt: Werbung & Affiliate Links - Kennt Ihr schon das Repair & Glow Face Oil
   von Acaraa? Ich wollte meiner Haut etwas Gutes tun und habe es ausprobiert.
   Das hier ist mein Testbericht.
-focusKeyword: Blue Light
+fileName: 2020-07---schutz-vor-blue-light.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-27-acaraa-04__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-27-acaraa-04__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUACP/EACcQAAEDBAECBgMAAAAAAAAAAAECAwQABhESBQdBEyEiMWFxFBax/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACERAAICAQQCAwAAAAAAAAAAAAECAAMREhNBUQQhMfDx/9oADAMBAAIRAxEAPwDqmoV981+u2ZzfL5IVChuvIITt6gk6+XfzxVeTIaiRXH5KwhpsbKUewoF1a5BmX0+mfjPFTTzrCCU5AWkupCk/XYiksfbQvjOJSus2MF7OJc6a885cnT63uYkq3lS4LTj6tAnLuuFkAew2CsfFWpTqgD50J6OAt2U0x4ilJblyENjOwSkOH0j4FMpTZ1oqfcQOBjMS1dtynUhX1ab1wJbcgTBElBKm1qOcLQQfScffzRuZ0lD/AAKeHNw8i7CcTrJD+FbkEFKkgYCSCM/3NatVtbadPE0L5lqoEB9D7+dRZYlpM2lx7kZqSuQVlOSU6pAAwMJ7E9z3pG4gKHtWrUueZCx2tYs/yZ//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_blue-light-acaraa.png__l.jpg
 labels:
   - Acaraa
   - Beauty ohne Plastik
@@ -23,17 +30,12 @@ labels:
   - Gesichtsöl Test
   - Gesichtsöl unreine Haut
   - vegan beauty
-type: Artikel
-typeName: Produkttest
-date: 2020-07-06T11:40:47.000Z
+focusKeyword: Blue Light
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30296"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-27-acaraa-04__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-27-acaraa-04__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUACP/EACcQAAEDBAECBgMAAAAAAAAAAAECAwQABhESBQdBEyEiMWFxFBax/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACERAAICAQQCAwAAAAAAAAAAAAECAAMREhNBUQQhMfDx/9oADAMBAAIRAxEAPwDqmoV981+u2ZzfL5IVChuvIITt6gk6+XfzxVeTIaiRXH5KwhpsbKUewoF1a5BmX0+mfjPFTTzrCCU5AWkupCk/XYiksfbQvjOJSus2MF7OJc6a885cnT63uYkq3lS4LTj6tAnLuuFkAew2CsfFWpTqgD50J6OAt2U0x4ilJblyENjOwSkOH0j4FMpTZ1oqfcQOBjMS1dtynUhX1ab1wJbcgTBElBKm1qOcLQQfScffzRuZ0lD/AAKeHNw8i7CcTrJD+FbkEFKkgYCSCM/3NatVtbadPE0L5lqoEB9D7+dRZYlpM2lx7kZqSuQVlOSU6pAAwMJ7E9z3pG4gKHtWrUueZCx2tYs/yZ//2Q==
 subTitle: Das Repair &amp; Glow Face Oil von Acaraa
   
 ---

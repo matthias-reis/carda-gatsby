@@ -1,16 +1,23 @@
 ---
-title: Elblicht
-seoTitle: Elblicht - Flarfgedicht zum Jahresanfang an der Elbe
+date: 2018-01-06T11:51:30.000Z
 slug: elblicht-flarfgedicht-zum-jahresanfang
 path: /2018/01/elblicht-flarfgedicht-zum-jahresanfang/
-fileName: 2018-01---elblicht.md
+type: Artikel
+typeName: Gedicht
+title: Elblicht
+seoTitle: Elblicht - Flarfgedicht zum Jahresanfang an der Elbe
+ogTitle: Elblicht - Flarfgedicht zum Jahresanfang an der Elbe
 description: Elbenlichter sind Steine. Schirm für Lampen. Lichtblick. Der
   historische Eisbrecher. Winterlicht auf der Elbe. Frohes neues Jahr und alles
   Gute!
 excerpt: Elbenlichter sind Steine. Schirm für Lampen. Lichtblick. Der
   historische Eisbrecher. Winterlicht auf der Elbe. Frohes neues Jahr und alles
   Gute!
-focusKeyword: Elb
+fileName: 2018-01---elblicht.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-2-von-6__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-2-von-6__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QALBAAAQMDAgMIAgMAAAAAAAAAAQIDBAAFERIhBhMxFBUiMkFRYXEj0UKRsf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIRAzEikfD/2gAMAwEAAhEDEQA/AG7t9ly5IauHPfiHHibOoDHTpS6ReOzzPM44hPlSoaTp+R603uEDhqLIUrvOxJK8qSUTFNHB2yCk4/sUru7vCbFuecicSNqkI0gIffaeSo+uCCCK2LNB6MzhI1ThLkTrLDd7rZTEdCi5qfw4lSR7Y6fuq5e2kPTVOiKktMEKUthwOad/cZ2zVFtPEllRb1mY9GcXqwl9FyRH0qz10lWSMbHNTR+KrUyp1EN+zGSSW3HH7g2Sc59cgEbfNLcU2792NyrRkgnobRy1LLw38TwC1H7J61JcrtGchIbTGj6tvFykA7fQooqDKDXh+5xGon5IkRZI/myg/wCiuWfc4q1qHY4gT7BhH6ooo2BI/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-2-von-6__l.jpg
 labels:
   - Elbe
   - Flarf
@@ -21,17 +28,12 @@ labels:
   - Happy New Year
   - Neues Jahr
   - Poesie
-type: Artikel
-typeName: Gedicht
-date: 2018-01-06T11:51:30.000Z
+focusKeyword: Elb
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "18844"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-2-von-6__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-2-von-6__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QALBAAAQMDAgMIAgMAAAAAAAAAAQIDBAAFERIhBhMxFBUiMkFRYXEj0UKRsf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIRAzEikfD/2gAMAwEAAhEDEQA/AG7t9ly5IauHPfiHHibOoDHTpS6ReOzzPM44hPlSoaTp+R603uEDhqLIUrvOxJK8qSUTFNHB2yCk4/sUru7vCbFuecicSNqkI0gIffaeSo+uCCCK2LNB6MzhI1ThLkTrLDd7rZTEdCi5qfw4lSR7Y6fuq5e2kPTVOiKktMEKUthwOad/cZ2zVFtPEllRb1mY9GcXqwl9FyRH0qz10lWSMbHNTR+KrUyp1EN+zGSSW3HH7g2Sc59cgEbfNLcU2792NyrRkgnobRy1LLw38TwC1H7J61JcrtGchIbTGj6tvFykA7fQooqDKDXh+5xGon5IkRZI/myg/wCiuWfc4q1qHY4gT7BhH6ooo2BI/9k=
 subTitle: Jahresanfang
   
 ---

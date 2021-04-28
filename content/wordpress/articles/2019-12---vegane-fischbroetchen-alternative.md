@@ -1,16 +1,23 @@
 ---
-title: Vegane Fischbrötchen-Alternative
-seoTitle: Fischbrötchen For Future in der Kurkuma Kochschule - SoFine im Test
+date: 2019-12-06T13:02:39.000Z
 slug: vegane-fischbroetchen-for-future
 path: /2019/12/vegane-fischbroetchen-for-future/
-fileName: 2019-12---vegane-fischbroetchen-alternative.md
+type: Artikel
+typeName: Produkttest
+title: Vegane Fischbrötchen-Alternative
+seoTitle: Fischbrötchen For Future in der Kurkuma Kochschule - SoFine im Test
+ogTitle: Fischbrötchen For Future in der Kurkuma Kochschule - SoFine im Test
 description: "Am 18. November war ich in die vegane Kochschule Kurkuma in
   Eimsbüttel eingeladen: SoFine brachte seine vegane Alternative für
   Fischbrötchen nach Hamburg."
 excerpt: "Werbung - Am 18. November war ich in die vegane Kochschule Kurkuma in
   Eimsbüttel eingeladen: SoFine brachte seine vegane Alternative für
   Fischbrötchen nach Hamburg."
-focusKeyword: Fischbrötchen
+fileName: 2019-12---vegane-fischbroetchen-alternative.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-03-so-fine-27__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-03-so-fine-27__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QALxAAAQMDAgUCAwkAAAAAAAAAAQIDBAAFEQYhEhMiMUEHYRRygSNRUmJxgpGhwf/EABcBAQEBAQAAAAAAAAAAAAAAAAUEAAH/xAAjEQACAgECBgMAAAAAAAAAAAABAgADEQQSBSEiUYHwMmGx/9oADAMBAAIRAxEAPwBDGhpPNiKtEKRcUtqDiXW1ctI/KePhJ7d8eaabPphqzXWTcb/bRG6BhLjwUyVfiUnJHjAzjzWlaUjtPx2n5jpS2dkgecfefFRfUnR8O93CG43JjxfsS2S82VtqUN0g4IJOCrFC8RrDVHacY7dpZprAr9Qz74iVfrgi5w3iH4bMNnZTpfbIB8JCQSSfas/kxra8y8iOlAeeCk8a08LjgG5OfbI2Oaarjo4wVLR8XZlhPSpxiJsB86s4+lWmmbBp64WFxu6wG1hBKWh1BWDuVgk577bZ2FH8O2LbtRvfuV6yxdoGCfHL9kG2eoE6xKStphM2CoDjZ4uFaTjulX+EY/Sm1j1L0RfIxauRMJaxhaJkYjB+dGR9dqKKcZFclWGYeOQBE48/QHMS8LzbZASCUokS+ckfsWrH9VQXXV2kLPHcTEuEd1W/TGSVZ9gEjA/miiuVaapDlRiZ7Hf5Gf/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-11.png__l.jpg
 labels:
   - Alternative Fisch
   - Eimsbüttel
@@ -29,17 +36,12 @@ labels:
   - vegan
   - vegane Ernährung
   - vegane Fischalternative
-type: Artikel
-typeName: Produkttest
-date: 2019-12-06T13:02:39.000Z
+focusKeyword: Fischbrötchen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "27108"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-03-so-fine-27__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-03-so-fine-27__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QALxAAAQMDAgUCAwkAAAAAAAAAAQIDBAAFEQYhEhMiMUEHYRRygSNRUmJxgpGhwf/EABcBAQEBAQAAAAAAAAAAAAAAAAUEAAH/xAAjEQACAgECBgMAAAAAAAAAAAABAgADEQQSBSEiUYHwMmGx/9oADAMBAAIRAxEAPwBDGhpPNiKtEKRcUtqDiXW1ctI/KePhJ7d8eaabPphqzXWTcb/bRG6BhLjwUyVfiUnJHjAzjzWlaUjtPx2n5jpS2dkgecfefFRfUnR8O93CG43JjxfsS2S82VtqUN0g4IJOCrFC8RrDVHacY7dpZprAr9Qz74iVfrgi5w3iH4bMNnZTpfbIB8JCQSSfas/kxra8y8iOlAeeCk8a08LjgG5OfbI2Oaarjo4wVLR8XZlhPSpxiJsB86s4+lWmmbBp64WFxu6wG1hBKWh1BWDuVgk577bZ2FH8O2LbtRvfuV6yxdoGCfHL9kG2eoE6xKStphM2CoDjZ4uFaTjulX+EY/Sm1j1L0RfIxauRMJaxhaJkYjB+dGR9dqKKcZFclWGYeOQBE48/QHMS8LzbZASCUokS+ckfsWrH9VQXXV2kLPHcTEuEd1W/TGSVZ9gEjA/miiuVaapDlRiZ7Hf5Gf/Z
 subTitle: SoFine in der Kurkuma Kochschule
   
 ---

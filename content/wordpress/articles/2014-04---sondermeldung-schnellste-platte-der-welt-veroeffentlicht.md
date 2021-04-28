@@ -1,15 +1,22 @@
 ---
-title: Sondermeldung! Schnellste Platte der Welt veröffentlicht!
-seoTitle: Schnellste Platte der Welt veröffentlicht! - Sondermeldung!
+date: 2014-04-22T17:49:04.000Z
 slug: sondermeldung-schnellste-platte-der-welt-veroffentlicht
 path: /2014/04/sondermeldung-schnellste-platte-der-welt-veroffentlicht/
-fileName: 2014-04---sondermeldung-schnellste-platte-der-welt-veroeffentlicht.md
+type: Artikel
+typeName: Review
+title: Sondermeldung! Schnellste Platte der Welt veröffentlicht!
+seoTitle: Schnellste Platte der Welt veröffentlicht! - Sondermeldung!
+ogTitle: Schnellste Platte der Welt veröffentlicht! - Sondermeldung!
 description: Jack White setzt mal wieder noch eins obendrauf - Jetzt
   veröffentlichte er die schnellste Platte der Welt! Ich habe sie schon mal
   angehört!
 excerpt: Jack White setzt mal wieder noch eins obendrauf - Jetzt veröffentlichte
   er die schnellste Platte der Welt! Ich habe sie schon mal angehört!
-focusKeyword: Schnellste Platte der Welt
+fileName: 2014-04---sondermeldung-schnellste-platte-der-welt-veroeffentlicht.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_10_51gysednnl-_sl500_aa240___m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_10_51gysednnl-_sl500_aa240___l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcBBAYD/8QALBAAAgEDBAAFAgcBAAAAAAAAAQIDBAURAAYSIQcTFDFBUYEIFRYkMmFxwf/EABcBAQEBAQAAAAAAAAAAAAAAAAUDAgT/xAAfEQABBAICAwAAAAAAAAAAAAABAAIDEQQSITFBwfD/2gAMAwEAAhEDEQA/AAn4b7HBJTXa+TwQVEvJaOAOf4Y4uzHo+4wBj+9W/F+Xa1ZUPT/la1d+iCNFHC7sVTmpdW4jADKGGWOVyMax3hLcLlF6OkskVweb1fKcCb9t5bYHJk6yQARnv7aPJY5r/urdlDR3F6adqiTBI5YRWAxn+v8AvxpIMBHKCfKWSX97WLqdx7FWSZIPD+WIqjqnm3WRyr5TBYdAgcW66/lqN5/p2ms1FJQ2GKlmuduimgaKVz6eUS5diWJDAphcAdHvOg2+9rT7WvHpZZlqI5FykyjGT8gj6657pQLbduniQ7UIJJiCchkAHp2LDo9kL7e2O9R0q7SDZdwCOk4/AdaOu8OrvS1B8stLJDPKG4ssZTo5+McmP31RtE9kot0JWbesNxRiCiTs2IzkcWk4s2SCMdn/AHS48M94naF6kkqEaW21aeVVRjsgfDgfJH0+QTp07s3btu2iULTNV18iBirIy5GOvoBq8ZBReS1zHGvKV/ihKamvaKYgyxuG6ORg6W+BzYj2JzrTXutq7zcJZzEDI+W8uFekQDPX+D50DraSWlEJmjZOcayDI91YZB++sy8m104g0ZqSv//Z
+ogImage: null
 labels:
   - Bands
   - Guinness
@@ -29,18 +36,13 @@ labels:
   - The Raconteurs
   - White Stripes
   - World Record Jack White
-type: Artikel
-typeName: Review
-date: 2014-04-22T17:49:04.000Z
+focusKeyword: Schnellste Platte der Welt
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "4414"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_10_51gysednnl-_sl500_aa240___m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_10_51gysednnl-_sl500_aa240___l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcBBAYD/8QALBAAAgEDBAAFAgcBAAAAAAAAAQIDBAURAAYSIQcTFDFBUYEIFRYkMmFxwf/EABcBAQEBAQAAAAAAAAAAAAAAAAUDAgT/xAAfEQABBAICAwAAAAAAAAAAAAABAAIDEQQSITFBwfD/2gAMAwEAAhEDEQA/AAn4b7HBJTXa+TwQVEvJaOAOf4Y4uzHo+4wBj+9W/F+Xa1ZUPT/la1d+iCNFHC7sVTmpdW4jADKGGWOVyMax3hLcLlF6OkskVweb1fKcCb9t5bYHJk6yQARnv7aPJY5r/urdlDR3F6adqiTBI5YRWAxn+v8AvxpIMBHKCfKWSX97WLqdx7FWSZIPD+WIqjqnm3WRyr5TBYdAgcW66/lqN5/p2ms1FJQ2GKlmuduimgaKVz6eUS5diWJDAphcAdHvOg2+9rT7WvHpZZlqI5FykyjGT8gj6657pQLbduniQ7UIJJiCchkAHp2LDo9kL7e2O9R0q7SDZdwCOk4/AdaOu8OrvS1B8stLJDPKG4ssZTo5+McmP31RtE9kot0JWbesNxRiCiTs2IzkcWk4s2SCMdn/AHS48M94naF6kkqEaW21aeVVRjsgfDgfJH0+QTp07s3btu2iULTNV18iBirIy5GOvoBq8ZBReS1zHGvKV/ihKamvaKYgyxuG6ORg6W+BzYj2JzrTXutq7zcJZzEDI+W8uFekQDPX+D50DraSWlEJmjZOcayDI91YZB++sy8m104g0ZqSv//Z
 subTitle: Jack White setzt noch eins obendrauf!
   
 ---

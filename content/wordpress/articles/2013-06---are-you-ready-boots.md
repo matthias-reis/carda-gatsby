@@ -1,14 +1,21 @@
 ---
-title: Are you ready boots?
-seoTitle: Are your ready boots? Auf zum Southside Festival!
+date: 2013-06-18T09:57:55.000Z
 slug: are-you-ready-boots
 path: /2013/06/are-you-ready-boots/
-fileName: 2013-06---are-you-ready-boots.md
+type: Artikel
+typeName: Artikel
+title: Are you ready boots?
+seoTitle: Are your ready boots? Auf zum Southside Festival!
+ogTitle: Are your ready boots? Auf zum Southside Festival!
 description: Are you ready boots? Der Rucksack ist gepackt! Morgen geht es auf
   das Southside Festival und die Vorfreude ist extrem groß!
 excerpt: Are you ready boots? Der Rucksack ist gepackt! Morgen geht es auf das
   Southside Festival und die Vorfreude ist extrem groß!
-focusKeyword: Boots
+fileName: 2013-06---are-you-ready-boots.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_5951__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_5951__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcIBf/EAC8QAAIBBAEBBQYHAQAAAAAAAAECAwQFBhEABxIhMUFRExRhcaLhFiImQpGhsdH/xAAZAQACAwEAAAAAAAAAAAAAAAADBQABAgT/xAAcEQACAgIDAAAAAAAAAAAAAAABEQACA0EEEiH/2gAMAwEAAhEDEQA/AEHVK25XT091u1JlVyjhNaBHBTzPD7KMkgKOydaA15d/IpcMozSn7X6nyIAefv8AL4fzzWWdU6SYhciw2Awf6vvzImSIq1MoX14Diuzc7gjVyndH7nkF1oTNcMivNQ7tIoEtbI2gpA7tn48SpV5BR5tZOxerk1M9dFHJFJUM6OjMAylT3EaJ4Z6PTCntFpG9CSWoB+P5vtyiTQpJf7W+u9K2E/WOL81rDMS9zRQ8Wp3styOzPjt9omr4/eUilQp2W2HXy3rXiOZGvdUJ53Knz4+6gxZ22X5DSQ4nWS2962ZoZ6O3M3tI2YlW9ou+1tSCR6+nBrYnlb67eKX7R8Qtuk/5xhgBxgvcg6rwzvYTe46ey0CLJqajrCXXf7XPj8u/+uVWjv1PVZHZ0SQEvWQDW/VxyB/g3LoGDQ4tfyfUUEoP+cQdOsbzgdQMeapsF7ipEuEMs0lTSvHGiK4ZmLMNDQB+fB5eOL27AyrEKf/Z
+ogImage: null
 labels:
   - danko jones
   - Festivalliste
@@ -27,18 +34,13 @@ labels:
   - Wetter Festival
   - Wetter Southside Festival
   - Zelt Festival
-type: Artikel
-typeName: Artikel
-date: 2013-06-18T09:57:55.000Z
+focusKeyword: Boots
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "5980"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_5951__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_5951__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcIBf/EAC8QAAIBBAEBBQYHAQAAAAAAAAECAwQFBhEABxIhMUFRExRhcaLhFiImQpGhsdH/xAAZAQACAwEAAAAAAAAAAAAAAAADBQABAgT/xAAcEQACAgIDAAAAAAAAAAAAAAABEQACA0EEEiH/2gAMAwEAAhEDEQA/AEHVK25XT091u1JlVyjhNaBHBTzPD7KMkgKOydaA15d/IpcMozSn7X6nyIAefv8AL4fzzWWdU6SYhciw2Awf6vvzImSIq1MoX14Diuzc7gjVyndH7nkF1oTNcMivNQ7tIoEtbI2gpA7tn48SpV5BR5tZOxerk1M9dFHJFJUM6OjMAylT3EaJ4Z6PTCntFpG9CSWoB+P5vtyiTQpJf7W+u9K2E/WOL81rDMS9zRQ8Wp3styOzPjt9omr4/eUilQp2W2HXy3rXiOZGvdUJ53Knz4+6gxZ22X5DSQ4nWS2962ZoZ6O3M3tI2YlW9ou+1tSCR6+nBrYnlb67eKX7R8Qtuk/5xhgBxgvcg6rwzvYTe46ey0CLJqajrCXXf7XPj8u/+uVWjv1PVZHZ0SQEvWQDW/VxyB/g3LoGDQ4tfyfUUEoP+cQdOsbzgdQMeapsF7ipEuEMs0lTSvHGiK4ZmLMNDQB+fB5eOL27AyrEKf/Z
 subTitle: Southside Festival wir kommen!
   
 ---

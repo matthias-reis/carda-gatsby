@@ -1,14 +1,21 @@
 ---
-title: Kat Dennings wird vegan
-seoTitle: Kat Dennings wird vegan - "David Attenborougs Film überzeugte mich"
+date: 2020-10-19T08:57:35.000Z
 slug: kat-dennings
 path: /2020/10/kat-dennings/
-fileName: 2020-10---kat-dennings-wird-vegan.md
+type: Artikel
+typeName: Artikel
+title: Kat Dennings wird vegan
+seoTitle: Kat Dennings wird vegan - "David Attenborougs Film überzeugte mich"
+ogTitle: Kat Dennings wird vegan - "David Attenborougs Film überzeugte mich"
 description: Die Schauspielerin Kat Dennings möchte ab sofort vegan leben.
   Überzeugt hat sie David Attenboroughs neuer Film "A Life On Our Planet".
 excerpt: Die Schauspielerin Kat Dennings möchte ab sofort vegan leben. Überzeugt
   hat sie David Attenboroughs neuer Film "A Life On Our Planet".
-focusKeyword: Kat Dennings
+fileName: 2020-10---kat-dennings-wird-vegan.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_kat-dennings__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_kat-dennings__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QALBAAAgECBQMDAgcAAAAAAAAAAQIDBBEABQYSIRNRYQciMRQyQXGBkaGy4f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAdEQEAAgIDAQEAAAAAAAAAAAABAAIDESEiMRIj/9oADAMBAAIRAxEAPwDj+qIWkXL1ta8z/wBMOodLVUmlqHM1rY4BVSOkCFSNyrxcnzY28YXasYR0lLJISrbmCHzYf5++N1SacnrtJQxU2rYZYFplnpKNvb0pNounPy3ubgckHEOJ6DLMNPo5mUZKOtyf6R7PUUo4nI91iQPn8QCQCD3uPjGZdGikZG+5SRiWop6/S1W0OZKT11LxsrArIpuCQfzHIPOCpO6YNYAEAi2GvvEyxo59l/1QqYJ86NPR07QUsChY1Zi29tu5j+pP8Yf+luf5MmWLDqVag1NASITTRhmZDyL8jaRc2bsfGDBgcR+RGFmuXrEOY6iizvXqPLD0MpSN4ejEeY0Y8m/f7Se9sT6iymeirljMRKlE2Mq3DLtFiDgwYLWrBFqtbLP/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_10_Design-ohne-Titel.png__l.jpg
 labels:
   - A Life On Our Planet
   - Bücher & Filme
@@ -19,17 +26,12 @@ labels:
   - vegan celebrities
   - vegane Ernährung
   - vegane Stars
-type: Artikel
-typeName: Artikel
-date: 2020-10-19T08:57:35.000Z
+focusKeyword: Kat Dennings
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31597"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_kat-dennings__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_kat-dennings__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QALBAAAgECBQMDAgcAAAAAAAAAAQIDBBEABQYSIRNRYQciMRQyQXGBkaGy4f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAdEQEAAgIDAQEAAAAAAAAAAAABAAIDESEiMRIj/9oADAMBAAIRAxEAPwDj+qIWkXL1ta8z/wBMOodLVUmlqHM1rY4BVSOkCFSNyrxcnzY28YXasYR0lLJISrbmCHzYf5++N1SacnrtJQxU2rYZYFplnpKNvb0pNounPy3ubgckHEOJ6DLMNPo5mUZKOtyf6R7PUUo4nI91iQPn8QCQCD3uPjGZdGikZG+5SRiWop6/S1W0OZKT11LxsrArIpuCQfzHIPOCpO6YNYAEAi2GvvEyxo59l/1QqYJ86NPR07QUsChY1Zi29tu5j+pP8Yf+luf5MmWLDqVag1NASITTRhmZDyL8jaRc2bsfGDBgcR+RGFmuXrEOY6iizvXqPLD0MpSN4ejEeY0Y8m/f7Se9sT6iymeirljMRKlE2Mq3DLtFiDgwYLWrBFqtbLP/2Q==
 subTitle: '"David Attenboroughs Film hat mich überzeugt"'
   
 ---

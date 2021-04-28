@@ -1,16 +1,23 @@
 ---
-title: Sonnenaufgang im Paradies
-seoTitle: Smoothie-Rezept - Sonnenaufgang im Paradies
+date: 2014-08-31T15:25:02.000Z
 slug: sonnenaufgang-im-paradies
 path: /2014/08/sonnenaufgang-im-paradies/
-fileName: 2014-08---sonnenaufgang-im-paradies.md
+type: Artikel
+typeName: Rezept
+title: Sonnenaufgang im Paradies
+seoTitle: Smoothie-Rezept - Sonnenaufgang im Paradies
+ogTitle: Smoothie-Rezept - Sonnenaufgang im Paradies
 description: Smoothie-Rezept gefällig? Das sollt Ihr bekommen, denn ich habe
   wieder ein sportliches Erfolgserlebnis zu verbuchen! Hier ist mein
   Sonnenaufgang im Paradies
 excerpt: Smoothie-Rezept gefällig? Das sollt Ihr bekommen, denn ich habe wieder
   ein sportliches Erfolgserlebnis zu verbuchen! Hier ist mein Sonnenaufgang im
   Paradies.
-focusKeyword: Smoothie-Rezept
+fileName: 2014-08---sonnenaufgang-im-paradies.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_14905440660_a151d0bfe7_o__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_14905440660_a151d0bfe7_o__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcF/8QALhAAAgEDAgQEBAcAAAAAAAAAAQIDBAURAAYSITFBBxNRcSIyYbEUFVKBofDx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFAv/EACcRAAEDAwEHBQAAAAAAAAAAAAEAAgMEESFBEhMUIjFxoVFhsdHw/9oADAMBAAIRAxEAPwDE2xtxTGrMgx1JOndHt2NlREVHkb5UTBZvYf0aC76o7mLJbprKlY0mXjkWl4uLBUEE8PsdBdjbz3NtDeENbVfmFRgNE0FY0jL8QIyQT27an7YLiCqfDuEQkbqrrddkVccBklNNGT8sXzAj6sB19uQ+upfuSxZjdvJaNh1BH2PcasVz3RPf7ZYpXSSAVE8aGHIySzYwxHXGM/uNHt3UqiOTkO+smVpPKgtjda7lm2TdVirZKO3GujaqlkCpGCQSSCCP91O7tQSS3mSKkWYsBG/mCNpByYcQLe2e+gOzr3RWG4x1rW/8ZVoMw8TALE36sdz9SeXpqk27xhgSsjqLjb64uEVeGOaORMDOPgIGOvqNIVUdQ2YOYy49cfCfp5o90WONr9/pObhWVyX+yw2ahjrBRRpVPGZhGgZiwUM56dBj1OjW4fEemqhPBNRNS1sLGOWCSdchh14TjmNbSeJ2zb5RmGqWGJm5tHUQ+Tnnkeq8vfUp8TorHWSz3C3TKtUx4iRKG8z+ftpajqJpJzFLGWDTHnOh7YRJjCIbsy4dTf8Ae3lf/9k=
+ogImage: null
 labels:
   - foodblog
   - foodblogger
@@ -26,17 +33,12 @@ labels:
   - Vegane Rezepte
   - Veganer
   - whatvegansdrink
-type: Artikel
-typeName: Rezept
-date: 2014-08-31T15:25:02.000Z
+focusKeyword: Smoothie-Rezept
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "8691"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_14905440660_a151d0bfe7_o__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_14905440660_a151d0bfe7_o__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcF/8QALhAAAgEDAgQEBAcAAAAAAAAAAQIDBAURAAYSITFBBxNRcSIyYbEUFVKBofDx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFAv/EACcRAAEDAwEHBQAAAAAAAAAAAAEAAgMEESFBEhMUIjFxoVFhsdHw/9oADAMBAAIRAxEAPwDE2xtxTGrMgx1JOndHt2NlREVHkb5UTBZvYf0aC76o7mLJbprKlY0mXjkWl4uLBUEE8PsdBdjbz3NtDeENbVfmFRgNE0FY0jL8QIyQT27an7YLiCqfDuEQkbqrrddkVccBklNNGT8sXzAj6sB19uQ+upfuSxZjdvJaNh1BH2PcasVz3RPf7ZYpXSSAVE8aGHIySzYwxHXGM/uNHt3UqiOTkO+smVpPKgtjda7lm2TdVirZKO3GujaqlkCpGCQSSCCP91O7tQSS3mSKkWYsBG/mCNpByYcQLe2e+gOzr3RWG4x1rW/8ZVoMw8TALE36sdz9SeXpqk27xhgSsjqLjb64uEVeGOaORMDOPgIGOvqNIVUdQ2YOYy49cfCfp5o90WONr9/pObhWVyX+yw2ahjrBRRpVPGZhGgZiwUM56dBj1OjW4fEemqhPBNRNS1sLGOWCSdchh14TjmNbSeJ2zb5RmGqWGJm5tHUQ+Tnnkeq8vfUp8TorHWSz3C3TKtUx4iRKG8z+ftpajqJpJzFLGWDTHnOh7YRJjCIbsy4dTf8Ae3lf/9k=
 subTitle: After Workout Smoothie
   
 ---

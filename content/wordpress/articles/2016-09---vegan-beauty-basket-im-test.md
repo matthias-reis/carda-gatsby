@@ -1,16 +1,23 @@
 ---
-title: Vegan Beauty Basket im Test
-seoTitle: Vegan Beauty Basket im Test - Unboxing Wellness
+date: 2016-09-25T11:24:48.000Z
 slug: vegan-beauty-basket-im-test
 path: /2016/09/vegan-beauty-basket-im-test/
-fileName: 2016-09---vegan-beauty-basket-im-test.md
+type: Artikel
+typeName: Artikel
+title: Vegan Beauty Basket im Test
+seoTitle: Vegan Beauty Basket im Test - Unboxing Wellness
+ogTitle: Vegan Beauty Basket im Test - Unboxing Wellness
 description: Heute habe ich ein ganz besonderes Paket bekommen. Der aktuelle
   Vegan Beauty Basket kam bei mir an und ich bin begeistert - Ich zeige Euch,
   was drin ist.
 excerpt: Werbung - Heute habe ich ein ganz besonderes Paket bekommen. Der
   aktuelle Vegan Beauty Basket kam bei mir an und ich bin begeistert - Ich zeige
   Euch, was drin ist.
-focusKeyword: Vegan Beauty Basket
+fileName: 2016-09---vegan-beauty-basket-im-test.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_09_29837257706_c0621cf02a_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_09_29837257706_c0621cf02a_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgIHCP/EACkQAAEEAQMDAwQDAAAAAAAAAAECAwQRBQAGEiExQRMUURUigZEyYXH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAJhEAAgAFAgUFAAAAAAAAAAAAAQIAAwQRITFhEhNBUXEFIpGx8P/aAAwDAQACEQMRAD8Aa4uBgZYS+07JZIonGi+RWBQAPx8nvq+7ZwuEyTkgOY1bb7bY9aI4VcUm+ih1/qtUXY+4ZbiZCZkV33LDJWzKRGS48bUAUpKf5GiT2ugdG9snKYZgLRkHSZUVx5sKUUupCSnuq7APIiie4/GkpafnMBcZ2jf6pXtSSWdQTa2jb+PvO8Ot0tYGBmnI/wBKeEtAQGo7dhp3kL+7yAPOo+43F+3QMjhWHsh09u6lP2fmuhA+LrWiJ8hMt9P1t8uYsPceTj7pQh0hNlXC/HUFRruPnWGDkZN9uJGiSkZBHr1HbLbxSR5BSriehPjp1PXppZsnlk2PWGpK4T0QOvS+SSRjyMd+/wAR1RH24xDdW0hz1GuQBSttP7BABH70ryOydvqW5JcgJW88ilrUtSlkVdciSa0aNRluwewMCdLV5d2Go/YiC3snbjSHY8bGNtF1PEru771djrX+6SpaRt99+NjWYzVCg4GRzAoGrNnzo0arMwvENYjT+5uA6Wj/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2016_09_29578673560_1aab418caf_z__l.jpg
 labels:
   - Berlin
   - Fair Fashion & Beauty
@@ -21,17 +28,12 @@ labels:
   - vegane Kosmetik
   - vegane Kosmetikprodukte
   - Wellness
-type: Artikel
-typeName: Artikel
-date: 2016-09-25T11:24:48.000Z
+focusKeyword: Vegan Beauty Basket
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "15196"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_09_29837257706_c0621cf02a_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_09_29837257706_c0621cf02a_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgIHCP/EACkQAAEEAQMDAwQDAAAAAAAAAAECAwQRBQAGEiExQRMUURUigZEyYXH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAJhEAAgAFAgUFAAAAAAAAAAAAAQIAAwQRITFhEhNBUXEFIpGx8P/aAAwDAQACEQMRAD8Aa4uBgZYS+07JZIonGi+RWBQAPx8nvq+7ZwuEyTkgOY1bb7bY9aI4VcUm+ih1/qtUXY+4ZbiZCZkV33LDJWzKRGS48bUAUpKf5GiT2ugdG9snKYZgLRkHSZUVx5sKUUupCSnuq7APIiie4/GkpafnMBcZ2jf6pXtSSWdQTa2jb+PvO8Ot0tYGBmnI/wBKeEtAQGo7dhp3kL+7yAPOo+43F+3QMjhWHsh09u6lP2fmuhA+LrWiJ8hMt9P1t8uYsPceTj7pQh0hNlXC/HUFRruPnWGDkZN9uJGiSkZBHr1HbLbxSR5BSriehPjp1PXppZsnlk2PWGpK4T0QOvS+SSRjyMd+/wAR1RH24xDdW0hz1GuQBSttP7BABH70ryOydvqW5JcgJW88ilrUtSlkVdciSa0aNRluwewMCdLV5d2Go/YiC3snbjSHY8bGNtF1PEru771djrX+6SpaRt99+NjWYzVCg4GRzAoGrNnzo0arMwvENYjT+5uA6Wj/2Q==
 subTitle: Unboxing Wellness
   
 ---

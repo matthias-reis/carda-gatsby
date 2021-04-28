@@ -1,15 +1,22 @@
 ---
-title: Vegan auf Gran Canaria
-seoTitle: Vegan auf Gran Canaria - Willkommen im Paradies - Insel der süßen Früchte
+date: 2017-05-16T07:36:08.000Z
 slug: vegan-auf-gran-canaria
 path: /2017/05/vegan-auf-gran-canaria/
-fileName: 2017-05---vegan-auf-gran-canaria.md
+type: Artikel
+typeName: Artikel
+title: Vegan auf Gran Canaria
+seoTitle: Vegan auf Gran Canaria - Willkommen im Paradies - Insel der süßen Früchte
+ogTitle: Vegan auf Gran Canaria - Willkommen im Paradies
 description: Vegan auf Gran Canaria - Willkommen im Paradies! Die Früchte
   wachsen einem nur so in den Mund und überall wird man mit offenen Armen
   empfangen.
 excerpt: Vegan auf Gran Canaria - Willkommen im Paradies! Die Früchte wachsen
   einem nur so in den Mund und überall wird man mit offenen Armen empfangen.
-focusKeyword: Vegan auf Gran Canaria
+fileName: 2017-05---vegan-auf-gran-canaria.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2038__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2038__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGBAcI/8QALRAAAgIBAwMCAgsAAAAAAAAAAQIDBBEABSEGEjETQSJRBxQVIzIzQlJhgZH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQIEBv/EACMRAAIBAwMEAwAAAAAAAAAAAAEDAgARIQQxQRIjUfBhwfH/2gAMAwEAAhEDEQA/AJ2nvMclDcbtO3cjuXFNj7zsaZVb8woEx3Y7m4PPHtqi6Y6jlrdM1hFJJvO2n1FlkPfWaMexQscuue7IPv8AhxqQ6Pr27kFWfp6KhC9d2WwlidVBfz6uWxgEHlR+3+dO98s0dkNWgl+PcViVBMaMeQXY5YBeM4yfHkfLSJvbZIbm9aABLUxM2gk7gDOPm37Wzdgt7hu8Vj7N6klkrIQ6V7VVZ2RSByS+GOTkeT48nyVVzbuodyv2KtsTRwnASSvHEpnGfAUAsv8AZxpR0NNtG03lNQzXLEUTNHLcQIVOQOxFBPwAEnBPJ8+NNZOrdzryrDWsMQFMjKgJlUs+MccMTngA+3y0Rb2NkYFhsffIpbqVLSbwyOLj36rm6aa1s+6yRTRky1pXimrs5VWIOCOPByOCNVHT1+puFQz2kjgmiJxC2Sq5OO7J5OQACffAGjRq/qlRYsMO+KHpmGM+njNY299UW9gsVRtsqNuKyrOGYCQKo/Tg5HJH+Zz51Z1/pI2Lf9sT61ci2m4GDsklYyIWAI4KjvAwfHxDAGjRqSELMASKHqZmUyDxX//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2038__l.jpg
 labels:
   - Aloe Vera
   - Avocado
@@ -37,17 +44,12 @@ labels:
   - vegan travelling
   - Vegane Lokale
   - Vitamine
-type: Artikel
-typeName: Artikel
-date: 2017-05-16T07:36:08.000Z
+focusKeyword: Vegan auf Gran Canaria
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "16629"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2038__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2038__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGBAcI/8QALRAAAgIBAwMCAgsAAAAAAAAAAQIDBBEABSEGEjETQSJRBxQVIzIzQlJhgZH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQIEBv/EACMRAAIBAwMEAwAAAAAAAAAAAAEDAgARIQQxQRIjUfBhwfH/2gAMAwEAAhEDEQA/AJ2nvMclDcbtO3cjuXFNj7zsaZVb8woEx3Y7m4PPHtqi6Y6jlrdM1hFJJvO2n1FlkPfWaMexQscuue7IPv8AhxqQ6Pr27kFWfp6KhC9d2WwlidVBfz6uWxgEHlR+3+dO98s0dkNWgl+PcViVBMaMeQXY5YBeM4yfHkfLSJvbZIbm9aABLUxM2gk7gDOPm37Wzdgt7hu8Vj7N6klkrIQ6V7VVZ2RSByS+GOTkeT48nyVVzbuodyv2KtsTRwnASSvHEpnGfAUAsv8AZxpR0NNtG03lNQzXLEUTNHLcQIVOQOxFBPwAEnBPJ8+NNZOrdzryrDWsMQFMjKgJlUs+MccMTngA+3y0Rb2NkYFhsffIpbqVLSbwyOLj36rm6aa1s+6yRTRky1pXimrs5VWIOCOPByOCNVHT1+puFQz2kjgmiJxC2Sq5OO7J5OQACffAGjRq/qlRYsMO+KHpmGM+njNY299UW9gsVRtsqNuKyrOGYCQKo/Tg5HJH+Zz51Z1/pI2Lf9sT61ci2m4GDsklYyIWAI4KjvAwfHxDAGjRqSELMASKHqZmUyDxX//Z
 subTitle: Insel der süßen Früchte
   
 ---

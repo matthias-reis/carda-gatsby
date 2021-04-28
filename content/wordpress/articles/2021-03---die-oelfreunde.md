@@ -1,9 +1,12 @@
 ---
-title: Die Ölfreunde
-seoTitle: Die Ölfreunde – Kaltgepresste Öl-Spezialitäten seit 2019
+date: 2021-03-30T15:53:48.000Z
 slug: oelfreunde
 path: /2021/03/oelfreunde/
-fileName: 2021-03---die-oelfreunde.md
+type: Artikel
+typeName: Produkttest
+title: Die Ölfreunde
+seoTitle: Die Ölfreunde – Kaltgepresste Öl-Spezialitäten seit 2019
+ogTitle: Die Ölfreunde – Kaltgepresste Öl-Spezialitäten seit 2019
 description: Kennt Ihr die Ölfreunde? Der Familienbetrieb liefert leckere
   kaltgepresste Öle. Ich habe sie probiert und mir das Start-up mal angeschaut.
 excerpt: Werbung – Kennt Ihr die Ölfreunde? Der Familienbetrieb liefert leckere
@@ -11,7 +14,11 @@ excerpt: Werbung – Kennt Ihr die Ölfreunde? Der Familienbetrieb liefert lecke
   Gründer Paul ist die Qualität besonders wichtig. Er möchte ausschließlich
   gesunde Produkte ohne Schnickschnack verkaufen. Was ihm außerdem am Herzen
   liegt, ist der ökologische Fußabdruck.
-focusKeyword: Ölfreunde
+fileName: 2021-03---die-oelfreunde.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-30-oelfreunde-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-30-oelfreunde-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUIBwb/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREABhIHEyEUIkFRFjEjYfH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwABBP/EABoRAAIDAQEAAAAAAAAAAAAAAAECABESITH/2gAMAwEAAhEDEQA/AN26iXwWnZ95rmqGgWnp2cyr5K+R/mkVn3CavYtluxqKh4fSw1MkiDDygKcjGPkgZGub6lbbruotJNbrbe1t1LSpHNKGhduZYyDzggY9oPn61OOzX3NPJdLJteumucKdx4AsnAMFkRFeMM4ALFlODn48HQMO2JFPKMqnbu86DcNpprg9a0K1ULRdgN2ivvJzkkecYzj9Z/vXcWu6RTxKYJopY19vKOQOAQP1kE6ijptaKKsuFzo96Q0/8EJgpFr6jgqSq45hQHGTkjIB+dUB0elssH5LFYI6SltkVxSKPsueEjLCodgSTkcsgEePGrUZNH2Gy2uhH3VLZ9yuVnlexQS1INK8fpoK5qN2bkuE5DClcGTPI/X3rANu7J3htmshhgor5ZpYKGRJ65LdJVI87yK/bxEG9gCrh8Ecl+saNGjBoiKC+mKa/prumtjgo0s9/uCwTSSrUCh7KMJCCeKy8WJ9uT9Hxrc+kWzpNsbVja/Q+llhlkK07OjMYfGBJxJUMSTkZOMgfGjRpbnTWZoVyqZE/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_oelfreunde-fb.png__l.jpg
 labels:
   - Bruschetta
   - Chiliöl
@@ -36,17 +43,12 @@ labels:
   - Schwarzkümmelöl
   - Speiseöl
   - Würzöl
-type: Artikel
-typeName: Produkttest
-date: 2021-03-30T15:53:48.000Z
+focusKeyword: Ölfreunde
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33638"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-30-oelfreunde-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-30-oelfreunde-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUIBwb/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREABhIHEyEUIkFRFjEjYfH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwABBP/EABoRAAIDAQEAAAAAAAAAAAAAAAECABESITH/2gAMAwEAAhEDEQA/AN26iXwWnZ95rmqGgWnp2cyr5K+R/mkVn3CavYtluxqKh4fSw1MkiDDygKcjGPkgZGub6lbbruotJNbrbe1t1LSpHNKGhduZYyDzggY9oPn61OOzX3NPJdLJteumucKdx4AsnAMFkRFeMM4ALFlODn48HQMO2JFPKMqnbu86DcNpprg9a0K1ULRdgN2ivvJzkkecYzj9Z/vXcWu6RTxKYJopY19vKOQOAQP1kE6ijptaKKsuFzo96Q0/8EJgpFr6jgqSq45hQHGTkjIB+dUB0elssH5LFYI6SltkVxSKPsueEjLCodgSTkcsgEePGrUZNH2Gy2uhH3VLZ9yuVnlexQS1INK8fpoK5qN2bkuE5DClcGTPI/X3rANu7J3htmshhgor5ZpYKGRJ65LdJVI87yK/bxEG9gCrh8Ecl+saNGjBoiKC+mKa/prumtjgo0s9/uCwTSSrUCh7KMJCCeKy8WJ9uT9Hxrc+kWzpNsbVja/Q+llhlkK07OjMYfGBJxJUMSTkZOMgfGjRpbnTWZoVyqZE/9k=
 subTitle: Kaltgepresste Öl-Spezialitäten seit 2019
   
 ---

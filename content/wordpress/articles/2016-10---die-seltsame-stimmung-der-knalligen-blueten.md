@@ -1,16 +1,23 @@
 ---
-title: Die seltsame Stimmung der knalligen Blüten
-seoTitle: Die seltsame Stimmung der knalligen Blüten - Flarf-Gedicht
+date: 2016-10-02T12:59:32.000Z
 slug: die-seltsame-stimmung-der-knalligen-blueten
 path: /2016/10/die-seltsame-stimmung-der-knalligen-blueten/
-fileName: 2016-10---die-seltsame-stimmung-der-knalligen-blueten.md
+type: Artikel
+typeName: Gedicht
+title: Die seltsame Stimmung der knalligen Blüten
+seoTitle: Die seltsame Stimmung der knalligen Blüten - Flarf-Gedicht
+ogTitle: Die seltsame Stimmung der knalligen Blüten - Flarf-Gedicht
 description: Einige von Euch können sich vielleicht noch an meine Flarf-Gedichte
   erinnern. Stimmung, die durch aneinandergereihte Suchergebnisse entsteht -
   Wahre Poesie
 excerpt: Einige von Euch können sich vielleicht noch an meine Flarf-Gedichte
   erinnern. Stimmung, die durch aneinandergereihte Suchergebnisse entsteht -
   Wahre Poesie
-focusKeyword: Stimmung
+fileName: 2016-10---die-seltsame-stimmung-der-knalligen-blueten.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_10_29907307082_afb71b1829_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_10_29907307082_afb71b1829_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcI/8QAKBAAAgEDBAECBwEAAAAAAAAAAQIDABEhBAUGEjETFSJBQlFSYaGx/8QAGAEBAAMBAAAAAAAAAAAAAAAABAIDBQb/xAAdEQADAAEFAQAAAAAAAAAAAAAAAQIDBAURFSEx/9oADAMBAAIRAxEAPwC6Hi2oiQlkV0x9v8pul2aNRfoIm8diCB/azrRct1un5ZPyGX22WabTiAwpJOEsABhbH8Rmo/l/MeS7luy7lsm/LtqiJYRo4nfoDYhmyljfzkXFM7mKXoLq8kvlG0HZVmjQsV7LkspvepWCBYoUDNZQLeK56j5ly0RpG/JPUmFuzJc48AYUZx5tmpfZ+bcyhjnX3mKdGk7K2r0PrWAHhcqQDe/z8Ue9yxV9ERo8k+lETUDp8JMpI/QANPjkjRD6knUkXIJB/lFFc855NF02hkm46TSspCKSfqW1jY0uTfy6OQ5BGFxbH7ooqSxordM//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2016_10_29908839612_346370f2cd_z__l.jpg
 labels:
   - Arbeit
   - Flarf
@@ -19,17 +26,12 @@ labels:
   - Herbst
   - Lyrik
   - Poesie
-type: Artikel
-typeName: Gedicht
-date: 2016-10-02T12:59:32.000Z
+focusKeyword: Stimmung
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "15259"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_10_29907307082_afb71b1829_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_10_29907307082_afb71b1829_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcI/8QAKBAAAgEDBAECBwEAAAAAAAAAAQIDABEhBAUGEjETFSJBQlFSYaGx/8QAGAEBAAMBAAAAAAAAAAAAAAAABAIDBQb/xAAdEQADAAEFAQAAAAAAAAAAAAAAAQIDBAURFSEx/9oADAMBAAIRAxEAPwC6Hi2oiQlkV0x9v8pul2aNRfoIm8diCB/azrRct1un5ZPyGX22WabTiAwpJOEsABhbH8Rmo/l/MeS7luy7lsm/LtqiJYRo4nfoDYhmyljfzkXFM7mKXoLq8kvlG0HZVmjQsV7LkspvepWCBYoUDNZQLeK56j5ly0RpG/JPUmFuzJc48AYUZx5tmpfZ+bcyhjnX3mKdGk7K2r0PrWAHhcqQDe/z8Ue9yxV9ERo8k+lETUDp8JMpI/QANPjkjRD6knUkXIJB/lFFc855NF02hkm46TSspCKSfqW1jY0uTfy6OQ5BGFxbH7ooqSxordM//9k=
 subTitle: Herbst
   
 ---

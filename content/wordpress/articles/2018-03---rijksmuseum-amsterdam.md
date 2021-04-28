@@ -1,14 +1,21 @@
 ---
-title: Rijksmuseum Amsterdam
-seoTitle: Rijksmuseum Amsterdam - Museum und Monument
+date: 2018-03-05T17:13:25.000Z
 slug: rijksmuseum-amsterdam
 path: /2018/03/rijksmuseum-amsterdam/
-fileName: 2018-03---rijksmuseum-amsterdam.md
+type: Galerie mit Bild
+typeName: Galerie mit Bild
+title: Rijksmuseum Amsterdam
+seoTitle: Rijksmuseum Amsterdam - Museum und Monument
+ogTitle: Rijksmuseum Amsterdam - Museum und Monument
 description: Bei unserem Kurztrip nach Amsterdam haben wir auch das Rijksmuseum
   besucht und uns die Klassiker von Rembrandt und Vermeer angeschaut.
 excerpt: Bei unserem Kurztrip nach Amsterdam haben wir auch das Rijksmuseum
   besucht und uns die Klassiker von Rembrandt und Vermeer angeschaut.
-focusKeyword: Rijksmuseum
+fileName: 2018-03---rijksmuseum-amsterdam.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40282444201_f44c296af1_z-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40282444201_f44c296af1_z-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAgME/8QAKxAAAgEDAgIJBQAAAAAAAAAAAQIDAAQRBiEFEhMxMlFSYXGRoSMzQYHB/8QAFgEBAQEAAAAAAAAAAAAAAAAABQME/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAEQMFFDEiQVH/2gAMAwEAAhEDEQA/AFKcHU7gk9+RimPC9PwXkpRrmOHA8DOT6Bako9WXVvA6q0cyKOZ2A7J8OR+/jrotNT3jmWSzmtYG6IhfqElT37YOdxt5Ui2wAXx7hy68lrfqWV5pfoeyyuuM5KlD7GlEvCYQCMsW6sAY/lKrrW/E0QQBkVwp6Sd3OCceH8Hy3rbxnX9paQolqsk7kAnYKFzvjPWT6bVLnuRRluAgNiS1gBeRzrIqCCOIyuoAwcbD5IrHMKgc6RMMDB5Bn3xRRRufEq4jXqalYloO9sB9tT6Yrine1wSIk9qKKNW/srP/2Q==
+ogImage: null
 labels:
   - Amsterdam
   - Amsterdam2018
@@ -21,17 +28,12 @@ labels:
   - Rijksmuseum
   - travelling
   - Vermeer
-type: Galerie mit Bild
-typeName: Galerie mit Bild
-date: 2018-03-05T17:13:25.000Z
+focusKeyword: Rijksmuseum
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "19864"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40282444201_f44c296af1_z-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40282444201_f44c296af1_z-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAgME/8QAKxAAAgEDAgIJBQAAAAAAAAAAAQIDAAQRBiEFEhMxMlFSYXGRoSMzQYHB/8QAFgEBAQEAAAAAAAAAAAAAAAAABQME/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAEQMFFDEiQVH/2gAMAwEAAhEDEQA/AFKcHU7gk9+RimPC9PwXkpRrmOHA8DOT6Bako9WXVvA6q0cyKOZ2A7J8OR+/jrotNT3jmWSzmtYG6IhfqElT37YOdxt5Ui2wAXx7hy68lrfqWV5pfoeyyuuM5KlD7GlEvCYQCMsW6sAY/lKrrW/E0QQBkVwp6Sd3OCceH8Hy3rbxnX9paQolqsk7kAnYKFzvjPWT6bVLnuRRluAgNiS1gBeRzrIqCCOIyuoAwcbD5IrHMKgc6RMMDB5Bn3xRRRufEq4jXqalYloO9sB9tT6Yrine1wSIk9qKKNW/srP/2Q==
 subTitle: Museum und Monument
   
 ---

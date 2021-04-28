@@ -1,16 +1,23 @@
 ---
-title: Gumbies im Test
-seoTitle: Gumbies - Vegane Strandsandalen - Nachhaltige Flip Flops im Test
+date: 2018-03-08T13:44:56.000Z
 slug: gumbies-vegane-strandsandalen
 path: /2018/03/gumbies-vegane-strandsandalen/
-fileName: 2018-03---gumbies-im-test.md
+type: Artikel
+typeName: Produkttest
+title: Gumbies im Test
+seoTitle: Gumbies - Vegane Strandsandalen - Nachhaltige Flip Flops im Test
+ogTitle: Gumbies - Vegane Strandsandalen - Nachhaltige Flip Flops im Test
 description: "Gumbies-Gründer Michael Maurer hatte eine Vision: Vegane
   Strandsandalen aus Recycling-Materialien, die gut aussehen und alles
   mitmachen. Mein Testbericht."
 excerpt: "Werbung - Gumbies-Gründer Michael Maurer hatte eine Vision: Vegane
   Strandsandalen aus Recycling-Materialien, die gut aussehen und alles
   mitmachen. Mein Testbericht."
-focusKeyword: Gumbies
+fileName: 2018-03---gumbies-im-test.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_26744772468_aa874dc92c_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_26744772468_aa874dc92c_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAP/xAArEAACAQQBAwIGAgMAAAAAAAABAgMEBREhAAYSMRNBBxQiMlFhFSNxgZH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAECBf/EACARAAEDBAIDAAAAAAAAAAAAAAEAAgMEESExEiITQdH/2gAMAwEAAhEDEQA/ALlf+qLJZKuGmu1ckVVPkxwKpd20T4HjODjPniiu6ztNNQx1lRT1kcEg7lLooOM4zju8Z5JelLzbIqgyXJ53ulQWeMzHPrSAn6gd5O/tO9ayNc2XR46yshmp6uW2q8v9qsoMbAKPI3jPn2/7wkTPJk6WNWVskL+DBn57VIh6qslZJDErzxSTv6cSyQN9bHwAVyN8z3iv/i6qlS5xJTCpqvlIz6mQHKFx3HQGl9s7ZRyS9C1V0tXVhuNGHJjDOsMpyvpOSCUyDg6wBkH8azx/8S75FfLVYKmIHtgvUaOgQszAqxWQLkghhr85XGxjkTRiM4KZoql07bu2o/es/PVUD4YK8kQ1r7zvH50P8c703U0tPUhKmkp5wzBUftAkXtX3Yhu7/Yz++HDiwNtJ90bZerwnN5+IVVQUQpbZRpBPUJ2md37yv7C4Azxp8Lopb3dzcrtN68tvgihpkVQip5wcDyRvZ9yTw4cu4knKFFCyJnQbX//Z
+ogImage: null
 labels:
   - Australien
   - Dampfbad
@@ -33,17 +40,12 @@ labels:
   - Wandern
   - Workout
   - Yoga
-type: Artikel
-typeName: Produkttest
-date: 2018-03-08T13:44:56.000Z
+focusKeyword: Gumbies
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "20021"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_26744772468_aa874dc92c_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_26744772468_aa874dc92c_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAP/xAArEAACAQQBAwIGAgMAAAAAAAABAgMEBREhAAYSMRNBBxQiMlFhFSNxgZH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAECBf/EACARAAEDBAIDAAAAAAAAAAAAAAEAAgMEESExEiITQdH/2gAMAwEAAhEDEQA/ALlf+qLJZKuGmu1ckVVPkxwKpd20T4HjODjPniiu6ztNNQx1lRT1kcEg7lLooOM4zju8Z5JelLzbIqgyXJ53ulQWeMzHPrSAn6gd5O/tO9ayNc2XR46yshmp6uW2q8v9qsoMbAKPI3jPn2/7wkTPJk6WNWVskL+DBn57VIh6qslZJDErzxSTv6cSyQN9bHwAVyN8z3iv/i6qlS5xJTCpqvlIz6mQHKFx3HQGl9s7ZRyS9C1V0tXVhuNGHJjDOsMpyvpOSCUyDg6wBkH8azx/8S75FfLVYKmIHtgvUaOgQszAqxWQLkghhr85XGxjkTRiM4KZoql07bu2o/es/PVUD4YK8kQ1r7zvH50P8c703U0tPUhKmkp5wzBUftAkXtX3Yhu7/Yz++HDiwNtJ90bZerwnN5+IVVQUQpbZRpBPUJ2md37yv7C4Azxp8Lopb3dzcrtN68tvgihpkVQip5wcDyRvZ9yTw4cu4knKFFCyJnQbX//Z
 subTitle: Vegane Strandsandalen
   
 ---

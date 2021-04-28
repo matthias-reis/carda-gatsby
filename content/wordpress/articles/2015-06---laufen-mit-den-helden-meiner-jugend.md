@@ -1,15 +1,22 @@
 ---
-title: Laufen mit den Helden meiner Jugend
-seoTitle: Laufen mit den Helden meiner Jugend
+date: 2015-06-11T15:51:20.000Z
 slug: laufen-mit-den-helden-meiner-jugend
 path: /2015/06/laufen-mit-den-helden-meiner-jugend/
-fileName: 2015-06---laufen-mit-den-helden-meiner-jugend.md
+type: Artikel
+typeName: Artikel
+title: Laufen mit den Helden meiner Jugend
+seoTitle: Laufen mit den Helden meiner Jugend
+ogTitle: Laufen mit den Helden meiner Jugend
 description: Ich bin nach mehreren Monaten Pause endlich wieder angelaufen. Und
   was soll ich sagen? Ich fühle mich super! Laufen sollte jeder mal probieren.
 excerpt: Ich bin mit DJ Hell um die Häuser gezogen. Einem plötzlichen inneren
   Impuls folgend packte ich sein mit schweißtreibenden Beats bepacktes Album
   "Munich Machine" auf mein iPhone und joggte los
-focusKeyword: laufen
+fileName: 2015-06---laufen-mit-den-helden-meiner-jugend.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_06_IMG_5369-e1434036865202__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_06_IMG_5369-e1434036865202__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQj/xAArEAACAgEDAgQFBQAAAAAAAAABAgMEEQAFIQYSEyIxQVFhYnGRFBZSkqH/xAAZAQACAwEAAAAAAAAAAAAAAAACBAEDBQb/xAApEQABAwMCAwkBAAAAAAAAAAABAgMRAAQhMUEFUXETFCNhgZGhscHh/9oADAMBAAIRAxEAPwBgvdQTJelqVIVklWFp5CwJxGoy3aB9IJzo6r1BWbap7rxqi10Ez+HwJIzwCoPo3cO0j5jSPe3uPapd6k8JhYmjjhSznPZETiRQPctgD7E6Cs3Wi6Wq2IkxFYYhBMe0MC6gY/oTn2GPjoWLRlduCocs7+/xXUd3aVbFcwrEZzE5Mab46VQ9t62exNLLZroKkZjjkEYcNCzAkDuzgng8Ec4I00TzFrABdQv8jxjUj2bcF27eHpPC7xXAC0MqkCTuUlWz7MpP5B9jp4ksyfooFYYkKKCoOecDjSnEmEtBJSIob62abV4WnUn7z/IqPdRC7eIq0qk9uaxKqLHEmScEMCCM8+U54GPXRG82LKdJ7bQ3atDReux7zKPEITJKrgc/fnnGszq+/JtGxrJCe248gWN/dSQckfZc/nS5snUF/d5oNn3OSOxVmfh5IlEiEAnIcYPywc6dsnwm1KT57ViPKHaRrONdMyNufT1qiSTbmL1Hd025Fp1vC87WEGQv0hgRkE4yMjPsdUXbpobbl64k8rGMiRlYqR68jg8Ec65q/dG41nlp1WgqwRs0RSOFfNgkeZiCW/Ort0z1FVv9PVbNTsQtH2yRr5fDYcFcfDP+Eao4s4HUoI2qWHCVKGkmdZ/BX//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2015_06_IMG_5369-e1434036865202__l.jpg
 labels:
   - Cool Down
   - Geschichten & Erlebtes
@@ -26,17 +33,12 @@ labels:
   - Sport
   - Vegan Runners
   - Vegan Running
-type: Artikel
-typeName: Artikel
-date: 2015-06-11T15:51:20.000Z
+focusKeyword: laufen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "11989"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_06_IMG_5369-e1434036865202__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_06_IMG_5369-e1434036865202__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQj/xAArEAACAgEDAgQFBQAAAAAAAAABAgMEEQAFIQYSEyIxQVFhYnGRFBZSkqH/xAAZAQACAwEAAAAAAAAAAAAAAAACBAEDBQb/xAApEQABAwMCAwkBAAAAAAAAAAABAgMRAAQhMUEFUXETFCNhgZGhscHh/9oADAMBAAIRAxEAPwBgvdQTJelqVIVklWFp5CwJxGoy3aB9IJzo6r1BWbap7rxqi10Ez+HwJIzwCoPo3cO0j5jSPe3uPapd6k8JhYmjjhSznPZETiRQPctgD7E6Cs3Wi6Wq2IkxFYYhBMe0MC6gY/oTn2GPjoWLRlduCocs7+/xXUd3aVbFcwrEZzE5Mab46VQ9t62exNLLZroKkZjjkEYcNCzAkDuzgng8Ec4I00TzFrABdQv8jxjUj2bcF27eHpPC7xXAC0MqkCTuUlWz7MpP5B9jp4ksyfooFYYkKKCoOecDjSnEmEtBJSIob62abV4WnUn7z/IqPdRC7eIq0qk9uaxKqLHEmScEMCCM8+U54GPXRG82LKdJ7bQ3atDReux7zKPEITJKrgc/fnnGszq+/JtGxrJCe248gWN/dSQckfZc/nS5snUF/d5oNn3OSOxVmfh5IlEiEAnIcYPywc6dsnwm1KT57ViPKHaRrONdMyNufT1qiSTbmL1Hd025Fp1vC87WEGQv0hgRkE4yMjPsdUXbpobbl64k8rGMiRlYqR68jg8Ec65q/dG41nlp1WgqwRs0RSOFfNgkeZiCW/Ort0z1FVv9PVbNTsQtH2yRr5fDYcFcfDP+Eao4s4HUoI2qWHCVKGkmdZ/BX//Z
 subTitle: Feuert mich an!
   
 ---

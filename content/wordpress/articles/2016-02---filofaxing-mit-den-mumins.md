@@ -1,16 +1,23 @@
 ---
-title: Filofaxing mit den Mumins
-seoTitle: Filofaxing mit den Mumins - Fotolovestory
+date: 2016-02-02T11:23:29.000Z
 slug: filofaxing-mit-den-mumins
 path: /2016/02/filofaxing-mit-den-mumins/
-fileName: 2016-02---filofaxing-mit-den-mumins.md
+type: Artikel
+typeName: Artikel
+title: Filofaxing mit den Mumins
+seoTitle: Filofaxing mit den Mumins - Fotolovestory
+ogTitle: Filofaxing mit den Mumins - Fotolovestory
 description: Filofaxing mit den Comichelden meiner Jugend - Dank einer lieben
   Dame in Nippon ist das jetzt möglich. Mein Tagebuch wird ab sofort von den
   Mumins geziert.
 excerpt: Filofaxing mit den Comichelden meiner Jugend - Dank einer lieben Dame
   in Nippon ist das jetzt möglich. Mein Tagebuch wird ab sofort von den Mumins
   geziert.
-focusKeyword: Filofaxing
+fileName: 2016-02---filofaxing-mit-den-mumins.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24664700516_0b26de710b_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24664700516_0b26de710b_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgADBAUH/8QAJhAAAgEEAgEEAgMAAAAAAAAAAQIDAAQFERIhBiIxUWETQRRCgf/EABcBAQEBAQAAAAAAAAAAAAAAAAECAAP/xAAbEQACAwADAAAAAAAAAAAAAAAAAQIRQSExUf/aAAwDAQACEQMRAD8AHZmY4DHRXMlqbjm/DgG4/on30fimVp4lezvG9sLLTxq+jP0Qw316fcfsUf8AN4zeY/GwR8C0lyIkDsFDOyMANnrZPVPI89ifG1tE8jaezuVijjUvoRyFVCng2xvWu6ONNTfRgwGAix1xJc5c2wiC6KMgn5dbBHHfHX1ve9UTykeMbGtl4mS1xshZozKSulBI0d976PVOrDyDHXF9d2mJWTIT2fqk/jTqQO+O9Fvjr/O68wx2Kw+WyGWvITLcQW2RlezEu2iVHAb0qw1sEsKppYEZXfoixk+zGWRXCkNxYBgSPo127hbfJSBsjaW90wTiPzRq+h76Gx81VVB1Tw0+cVpFIlla21uGb8JMcQU8T7jY119Vzb+8kdWU/wBeuqqqQpI//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24664587156_867877258d_z__l.jpg
 labels:
   - Achtsamkeit
   - Filofaxing
@@ -18,17 +25,12 @@ labels:
   - Mumins
   - Scrapbooking
   - Tagebuch
-type: Artikel
-typeName: Artikel
-date: 2016-02-02T11:23:29.000Z
+focusKeyword: Filofaxing
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "13830"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24664700516_0b26de710b_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24664700516_0b26de710b_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgADBAUH/8QAJhAAAgEEAgEEAgMAAAAAAAAAAQIDAAQFERIhBiIxUWETQRRCgf/EABcBAQEBAQAAAAAAAAAAAAAAAAECAAP/xAAbEQACAwADAAAAAAAAAAAAAAAAAQIRQSExUf/aAAwDAQACEQMRAD8AHZmY4DHRXMlqbjm/DgG4/on30fimVp4lezvG9sLLTxq+jP0Qw316fcfsUf8AN4zeY/GwR8C0lyIkDsFDOyMANnrZPVPI89ifG1tE8jaezuVijjUvoRyFVCng2xvWu6ONNTfRgwGAix1xJc5c2wiC6KMgn5dbBHHfHX1ve9UTykeMbGtl4mS1xshZozKSulBI0d976PVOrDyDHXF9d2mJWTIT2fqk/jTqQO+O9Fvjr/O68wx2Kw+WyGWvITLcQW2RlezEu2iVHAb0qw1sEsKppYEZXfoixk+zGWRXCkNxYBgSPo127hbfJSBsjaW90wTiPzRq+h76Gx81VVB1Tw0+cVpFIlla21uGb8JMcQU8T7jY119Vzb+8kdWU/wBeuqqqQpI//9k=
 subTitle: Finnische Comic-Helden
   
 ---

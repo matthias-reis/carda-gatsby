@@ -1,16 +1,23 @@
 ---
-title: The Ocean live @ Club 100 Bremen
-seoTitle: The Ocean live @ Club 100 Bremen – Das erste Live-Konzert 2021
+date: 2021-03-25T20:32:30.000Z
 slug: the-ocean-live-club-100-bremen
 path: /2021/03/the-ocean-live-club-100-bremen/
-fileName: 2021-03---the-ocean-live-club-100-bremen.md
+type: Artikel
+typeName: Artikel
+title: The Ocean live @ Club 100 Bremen
+seoTitle: The Ocean live @ Club 100 Bremen – Das erste Live-Konzert 2021
+ogTitle: The Ocean live @ Club 100 Bremen – Das erste Live-Konzert 2021
 description: The Ocean haben heute Abend im Bremer Club 100 (Pier 21) das Album
   "Phanerozoic I" komplett gespielt. Ich war live dabei.
 excerpt: The Ocean haben heute Abend im Bremer Club 100 (Pier 21) das Album
   "Phanerozoic I" komplett gespielt. Ich war live dabei. Für mich war es nicht
   nur das erste Live-Konzert des Jahres, sondern auch eines meiner ersten
   Stream-Konzerte und ich war positiv überrascht.
-focusKeyword: The Ocean
+fileName: 2021-03---the-ocean-live-club-100-bremen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean-club-100__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean-club-100__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYE/8QAKhAAAQMDAgQFBQAAAAAAAAAAAQIDBAAFEQYhEhMxYQcyQVFxFBUiodH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAEFBv/EABgRAAMBAQAAAAAAAAAAAAAAAAABAgMR/9oADAMBAAIRAxEAPwBR22JCYukb7g0t6JxjmttucKlJ9QDvg1uZFttTroNqSsR1eQL3I7HvS9VNBcJ2PrTB8Pr5aWbzFVc2HFwUH8m0Kyonh65+d8UDndop8pMZGkdNGT4fXmIhClfVuocSAnO6On7zSt1PZW7VKSzJGFuJK0gYOQOtd2rtarja6KbKy/HgoCmW20PqSXUrIJXgbZHoO1Y6ddBJufOcd52NgpfUjPf5NNvqKzjR8psxLUpCvKvB9lbVYRZqmiMKUPaiigjSuEid+cXJDTylnmt8JCs4PUj+VXvSsub+9FFIkyj/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean.png__l.jpg
 labels:
   - Berlin
   - Bremen
@@ -19,17 +26,12 @@ labels:
   - Konzerte
   - Pier 21
   - The Ocean
-type: Artikel
-typeName: Artikel
-date: 2021-03-25T20:32:30.000Z
+focusKeyword: The Ocean
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33545"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean-club-100__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean-club-100__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYE/8QAKhAAAQMDAgQFBQAAAAAAAAAAAQIDBAAFEQYhEhMxYQcyQVFxFBUiodH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAEFBv/EABgRAAMBAQAAAAAAAAAAAAAAAAABAgMR/9oADAMBAAIRAxEAPwBR22JCYukb7g0t6JxjmttucKlJ9QDvg1uZFttTroNqSsR1eQL3I7HvS9VNBcJ2PrTB8Pr5aWbzFVc2HFwUH8m0Kyonh65+d8UDndop8pMZGkdNGT4fXmIhClfVuocSAnO6On7zSt1PZW7VKSzJGFuJK0gYOQOtd2rtarja6KbKy/HgoCmW20PqSXUrIJXgbZHoO1Y6ddBJufOcd52NgpfUjPf5NNvqKzjR8psxLUpCvKvB9lbVYRZqmiMKUPaiigjSuEid+cXJDTylnmt8JCs4PUj+VXvSsub+9FFIkyj/2Q==
 subTitle: Das erste Live-Konzert des Jahres 2021
   
 ---

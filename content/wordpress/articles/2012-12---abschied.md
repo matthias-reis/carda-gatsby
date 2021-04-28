@@ -1,16 +1,23 @@
 ---
-title: Abschied
-seoTitle: Abschied - eine kurze Geschichte voller Schmerz und Hoffnung
+date: 2012-12-29T19:28:31.000Z
 slug: abschied-kurzgeschichte
 path: /2012/12/abschied-kurzgeschichte/
-fileName: 2012-12---abschied.md
+type: Artikel
+typeName: Kurzgeschichte
+title: Abschied
+seoTitle: Abschied - eine kurze Geschichte voller Schmerz und Hoffnung
+ogTitle: Abschied - eine kurze Geschichte voller Schmerz und Hoffnung
 description: Er saß am Küchentisch und rührte den vierten Löffel Zucker in
   seinen schwarzen Kaffee. Gedankenverloren zog er an seiner Zigarette. Der
   Abschied war nah.
 excerpt: Er saß am Küchentisch und rührte den vierten Löffel Zucker in seinen
   schwarzen Kaffee. Gedankenverloren zog er an seiner Zigarette. Der Abschied
   war nah.
-focusKeyword: Abschied
+fileName: 2012-12---abschied.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_12_599460_450404824981652_1788614199_n1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_12_599460_450404824981652_1788614199_n1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAYC/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDAAQRBQYSEzEHISJBYRVRgSRCcZHC/8QAFwEBAQEBAAAAAAAAAAAAAAAABAEAAv/EABoRAQEAAgMAAAAAAAAAAAAAAAEAAlEREjH/2gAMAwEAAhEDEQA/AGi/CFQFaQN5ghhkj57YroXjsgjKyFQe4znFY9PEHbDkD6xEoP3ikH+ayfixvrRZNqC30nUZpr2aZVVrWWSIxqPUxJ8s5xj370HplqSoeziiaAxkytJ8Ae1RSMDIemuEHYd6XW1/FHRLvbFhcandyQah0+nPEULszr5FsgY9Xf8ANXj4nbXEgQ3865/d0GwPzU6ZasJ7zKeHaaSFv0ICcefJpWxj+6raxsRrtIYrbjbShuRHqbkCPnt96KKa5sDl3W7PZKxxLFLaxBY085C7En59u9SXm2dMtLTr3TwoqgniWwcgH+ffAooqmS3Ku7//2Q==
+ogImage: null
 labels:
   - Alkohol
   - Ausziehen
@@ -31,18 +38,13 @@ labels:
   - Schluss machen
   - Trennung
   - Weglaufen
-type: Artikel
-typeName: Kurzgeschichte
-date: 2012-12-29T19:28:31.000Z
+focusKeyword: Abschied
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "4714"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_12_599460_450404824981652_1788614199_n1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_12_599460_450404824981652_1788614199_n1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAYC/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDAAQRBQYSEzEHISJBYRVRgSRCcZHC/8QAFwEBAQEBAAAAAAAAAAAAAAAABAEAAv/EABoRAQEAAgMAAAAAAAAAAAAAAAEAAlEREjH/2gAMAwEAAhEDEQA/AGi/CFQFaQN5ghhkj57YroXjsgjKyFQe4znFY9PEHbDkD6xEoP3ikH+ayfixvrRZNqC30nUZpr2aZVVrWWSIxqPUxJ8s5xj370HplqSoeziiaAxkytJ8Ae1RSMDIemuEHYd6XW1/FHRLvbFhcandyQah0+nPEULszr5FsgY9Xf8ANXj4nbXEgQ3865/d0GwPzU6ZasJ7zKeHaaSFv0ICcefJpWxj+6raxsRrtIYrbjbShuRHqbkCPnt96KKa5sDl3W7PZKxxLFLaxBY085C7En59u9SXm2dMtLTr3TwoqgniWwcgH+ffAooqmS3Ku7//2Q==
 subTitle: Eine Geschichte aus dem Leben
   
 ---

@@ -1,16 +1,23 @@
 ---
-title: '"The End Of All Things"'
-seoTitle: '"The End Of All Things" – Das neue Album von Crown'
+date: 2021-04-10T15:18:34.000Z
 slug: crown-the-end-of-all-things
 path: /2021/04/crown-the-end-of-all-things/
-fileName: 2021-04---the-end-of-all-things.md
+type: Artikel
+typeName: Review
+title: '"The End Of All Things"'
+seoTitle: '"The End Of All Things" – Das neue Album von Crown'
+ogTitle: '"The End Of All Things" – Das neue Album von Crown'
 description: Am 16. April erscheint das neue Album von Crown. Ich habe mir "The
   End Of All Things" schon angehört und möchte es Euch hiermit empfehlen.
 excerpt: English & German – Am 16. April erscheint das neue Album von Crown. Ich
   habe mir "The End Of All Things" schon angehört und möchte es Euch hiermit
   empfehlen. Als Fans von Post-Rock und Industrial kommt Ihr auf jeden Fall auf
   Eure Kosten.
-focusKeyword: The End Of All Things
+fileName: 2021-04---the-end-of-all-things.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_crown-the-end-of-all-things__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_crown-the-end-of-all-things__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHAwb/xAArEAACAQMCBAUEAwAAAAAAAAABAgMABBEFMQYSIUETMlFxcgcWYYEjYsH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGREBAQADAQAAAAAAAAAAAAAAAAERITFB/9oADAMBAAIRAxEAPwDobvjfXtUkiFgyadGxIVLcc7t7sf8AMVlp9h497JNqVw11eMhkxcMX5sYBJ9um9T/TbyRHU+I0aZ3HX271tdXt2bmO5tLpo7qNhJHKRzcrehGxBGQR3BpzgdFxhd3NsgMaO8bZDvEG/jAG+aR22typGHlubyQJ8pQMfjfFODx3byQQxa3phsZi4RriHL2uDuwOCyfEg7+Y044I1DSrm5ihMmmPGysieBMsmTnIJXdcjOQe9TZsZTm052UYHTHQU3sreaRWTkyr4XYnLdgMDJP4HWiir8NRuFeAmCrPrAeGMjpbq2JG+TDyD+q9fUjaml19N+DXUD7b0tcd1gAb9sOp/ZoorOh//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_crown-the-end-of-all-things-fb.png__l.jpg
 labels:
   - Bands
   - Crown
@@ -19,17 +26,12 @@ labels:
   - Pelagic
   - Post-Metal
   - Post-Rock
-type: Artikel
-typeName: Review
-date: 2021-04-10T15:18:34.000Z
+focusKeyword: The End Of All Things
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33739"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_crown-the-end-of-all-things__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_crown-the-end-of-all-things__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHAwb/xAArEAACAQMCBAUEAwAAAAAAAAABAgMABBEFMQYSIUETMlFxcgcWYYEjYsH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGREBAQADAQAAAAAAAAAAAAAAAAERITFB/9oADAMBAAIRAxEAPwDobvjfXtUkiFgyadGxIVLcc7t7sf8AMVlp9h497JNqVw11eMhkxcMX5sYBJ9um9T/TbyRHU+I0aZ3HX271tdXt2bmO5tLpo7qNhJHKRzcrehGxBGQR3BpzgdFxhd3NsgMaO8bZDvEG/jAG+aR22typGHlubyQJ8pQMfjfFODx3byQQxa3phsZi4RriHL2uDuwOCyfEg7+Y044I1DSrm5ihMmmPGysieBMsmTnIJXdcjOQe9TZsZTm052UYHTHQU3sreaRWTkyr4XYnLdgMDJP4HWiir8NRuFeAmCrPrAeGMjpbq2JG+TDyD+q9fUjaml19N+DXUD7b0tcd1gAb9sOp/ZoorOh//9k=
 subTitle: Das neue Album von Crown
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: Veganes Bio-Eis aus Finnland
-seoTitle: Veganes Bio-Eis aus Finnland - Jymy mit Zutaten aus dem Wald
+date: 2019-06-18T15:42:02.000Z
 slug: veganes-bio-eis-jymy-finnland
 path: /2019/06/veganes-bio-eis-jymy-finnland/
-fileName: 2019-06---veganes-bio-eis-aus-finnland.md
+type: Artikel
+typeName: Artikel
+title: Veganes Bio-Eis aus Finnland
+seoTitle: Veganes Bio-Eis aus Finnland - Jymy mit Zutaten aus dem Wald
+ogTitle: Veganes Bio-Eis aus Finnland - Jymy mit Zutaten aus dem Wald
 description: "Aus Finnland kommt jetzt was ganz Neues: naturreines Eis auf der
   Basis von Vollkornhafer und Ackerbohnen - eine beerige Angelegeheit."
 excerpt: "Werbung - Aus Finnland kommt jetzt was ganz Neues: naturreines Eis auf
   der Basis von Vollkornhafer und Ackerbohnen - eine beerige Angelegeheit."
-focusKeyword: Veganes Bio-Eis
+fileName: 2019-06---veganes-bio-eis-aus-finnland.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_veganes-bio-eis-jymy-finnland__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_veganes-bio-eis-jymy-finnland__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcFBggDBP/EACoQAAEEAQIFBAEFAAAAAAAAAAECAwQRBQAhBhITMUEHIlFhFBUjQoGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIE/8QAHBEAAwEAAgMAAAAAAAAAAAAAAAERAgMxEiLw/9oADAMBAAIRAxEAPwCocVZReUTHxbCpDbUwREpbTv0l2buv5G+21/1pyemciJE4Vn42VLjNyEqWiK2qY0laUBtCQkcy/abCvFedZ1xkx6WqM3DaEnkkIeUhCylKeUkld9gSaFn4Fah5caO2vKNyokYvlSwXFJCi2oX2P2fOozv2pPgpDTPppCb/AFDKwM2wzHyR6LzSepbi2zytlRWlXKrwexBu6Gpj1dxTEaGmK7kpX4+QdbZfSu1XYUmwU0UgggUmwfjvpD8KceZnC5fFLS3H6EYM4tcIxkoSuMOXmQfaF9TYK5ztYHjTc9RfUzG5DhyaqGTIxERxv9wSum844ClYACt72Ff7sdK585ST+oPjfYi8QHUJdjtvkNKa9ymvYDtdfY2GvOMZjpKmHFsNuukEqU7uodu9nRo1ns6NecqFuZxUJGNROWT+R1A11lLN8nLdE+aA7fA12434cXl+GYTMJ1qO5Fc6zxfWoJcBTR3AP0bqvGjRqm4qER//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_06_veganes-bio-eis-finnland.png__l.jpg
 labels:
   - Bio-Eis
   - Blaubeereis
@@ -29,17 +36,12 @@ labels:
   - Suomisen Maito
   - vegane Ernährung
   - veganes Eis
-type: Artikel
-typeName: Artikel
-date: 2019-06-18T15:42:02.000Z
+focusKeyword: Veganes Bio-Eis
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "24584"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_veganes-bio-eis-jymy-finnland__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_veganes-bio-eis-jymy-finnland__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcFBggDBP/EACoQAAEEAQIFBAEFAAAAAAAAAAECAwQRBQAhBhITMUEHIlFhFBUjQoGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIE/8QAHBEAAwEAAgMAAAAAAAAAAAAAAAERAgMxEiLw/9oADAMBAAIRAxEAPwCocVZReUTHxbCpDbUwREpbTv0l2buv5G+21/1pyemciJE4Vn42VLjNyEqWiK2qY0laUBtCQkcy/abCvFedZ1xkx6WqM3DaEnkkIeUhCylKeUkld9gSaFn4Fah5caO2vKNyokYvlSwXFJCi2oX2P2fOozv2pPgpDTPppCb/AFDKwM2wzHyR6LzSepbi2zytlRWlXKrwexBu6Gpj1dxTEaGmK7kpX4+QdbZfSu1XYUmwU0UgggUmwfjvpD8KceZnC5fFLS3H6EYM4tcIxkoSuMOXmQfaF9TYK5ztYHjTc9RfUzG5DhyaqGTIxERxv9wSum844ClYACt72Ff7sdK585ST+oPjfYi8QHUJdjtvkNKa9ymvYDtdfY2GvOMZjpKmHFsNuukEqU7uodu9nRo1ns6NecqFuZxUJGNROWT+R1A11lLN8nLdE+aA7fA12434cXl+GYTMJ1qO5Fc6zxfWoJcBTR3AP0bqvGjRqm4qER//2Q==
 subTitle: Jymy Speiseeis mit Zutaten aus dem Wald
   
 ---

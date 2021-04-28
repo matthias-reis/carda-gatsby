@@ -1,16 +1,23 @@
 ---
-title: Feine vegane Schokolade
-seoTitle: Feine vegane Schokolade - Chocqlate im Test
+date: 2020-05-18T19:30:34.000Z
 slug: feine-vegane-schokolade
 path: /2020/05/feine-vegane-schokolade/
-fileName: 2020-05---feine-vegane-schokolade.md
+type: Artikel
+typeName: Artikel
+title: Feine vegane Schokolade
+seoTitle: Feine vegane Schokolade - Chocqlate im Test
+ogTitle: Feine vegane Schokolade - Chocqlate im Test
 description: Wenn Ihr auf der Suche nach feiner veganer Schokolade seid, habe
   ich einen Tipp für Euch. Beim Genuss von Chocqlate habe ich eine alte Liebe
   wiederentdeckt.
 excerpt: Werbung & Affiliate Links - Wenn Ihr auf der Suche nach feiner veganer
   Schokolade seid, habe ich einen Tipp für Euch. Beim Genuss von Chocqlate habe
   ich eine alte Liebe wiederentdeckt.
-focusKeyword: Feine vegane Schokolade
+fileName: 2020-05---feine-vegane-schokolade.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BC2020-04-27-chocqlate-01__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BC2020-04-27-chocqlate-01__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQIDB//EACoQAAEEAAUCBQUBAAAAAAAAAAECAwQRAAUSITFBUQYTIpGxFCNCYYHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgUDBAb/xAAgEQACAQUAAgMAAAAAAAAAAAABAhEAAwQhMWGhEkFx/9oADAMBAAIRAxEAPwDn0Vlb7OlwaFadDhbbGlSQRQUeqifjfF21CkNILzMqQyy2oAutgoQHL2JsUN6F107Y2ogNs5vL0PvhKnfMLIX9s36hQN1/K4xYFpS3UNiapKwdSWwpAIFHfT13PKgeKvFJlKa5T3Bt4TlXROiebnxS9Oy4JLrDqlOuqa176ndZIv1LoCrBvqD3xTZvlkdMZuVGbipacSUKjoeOoab34rc8Xh2lOIjuKlTInmtqpAQ0g6m1fipRG6q7874WsyTHfbeXFW0poIIDrzIaWqhuP32BI9sAPlO6eHIsLbLIB4qTP8QRmFRn5bpTbQQNCSoqKCb460fbGTPij67S3l+SS5pUKBcbAB+TzgwYNjusHbyXTHkdE+pqVJPi12GXzCiZeANw6rUpO9cX234wt5rFzAtuIn5yFJX6illsCyL61e3+4MGBPJqYXHOWcdmJUj8IkfUR7kV//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_chocqlate-fb.png__l.jpg
 labels:
   - Chocqlate
   - Ernährung & Gesundheit
@@ -18,17 +25,12 @@ labels:
   - Schokolade zum selber machen
   - vegane Schokolade
   - Virgin Schokolade
-type: Artikel
-typeName: Artikel
-date: 2020-05-18T19:30:34.000Z
+focusKeyword: Feine vegane Schokolade
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "29397"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BC2020-04-27-chocqlate-01__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BC2020-04-27-chocqlate-01__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQIDB//EACoQAAEEAAUCBQUBAAAAAAAAAAECAwQRAAUSITFBUQYTIpGxFCNCYYHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgUDBAb/xAAgEQACAQUAAgMAAAAAAAAAAAABAhEAAwQhMWGhEkFx/9oADAMBAAIRAxEAPwDn0Vlb7OlwaFadDhbbGlSQRQUeqifjfF21CkNILzMqQyy2oAutgoQHL2JsUN6F107Y2ogNs5vL0PvhKnfMLIX9s36hQN1/K4xYFpS3UNiapKwdSWwpAIFHfT13PKgeKvFJlKa5T3Bt4TlXROiebnxS9Oy4JLrDqlOuqa176ndZIv1LoCrBvqD3xTZvlkdMZuVGbipacSUKjoeOoab34rc8Xh2lOIjuKlTInmtqpAQ0g6m1fipRG6q7874WsyTHfbeXFW0poIIDrzIaWqhuP32BI9sAPlO6eHIsLbLIB4qTP8QRmFRn5bpTbQQNCSoqKCb460fbGTPij67S3l+SS5pUKBcbAB+TzgwYNjusHbyXTHkdE+pqVJPi12GXzCiZeANw6rUpO9cX234wt5rFzAtuIn5yFJX6illsCyL61e3+4MGBPJqYXHOWcdmJUj8IkfUR7kV//9k=
 subTitle: Chocqlate im Test
   
 ---

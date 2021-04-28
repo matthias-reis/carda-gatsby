@@ -1,14 +1,21 @@
 ---
-title: Chipstüten, Schlaf und französische Zigaretten
-seoTitle: Chipstüten, Schlaf und französische Zigaretten - Tagebucheintrag
+date: 2011-06-15T15:42:45.000Z
 slug: chipstuten-schlaf-und-franzosische-zigaretten
 path: /2011/06/chipstuten-schlaf-und-franzosische-zigaretten/
-fileName: 2011-06---chipstueten-schlaf-und-franzoesische-zigaretten.md
+type: Artikel
+typeName: Artikel
+title: Chipstüten, Schlaf und französische Zigaretten
+seoTitle: Chipstüten, Schlaf und französische Zigaretten - Tagebucheintrag
+ogTitle: Chipstüten, Schlaf und französische Zigaretten - Tagebucheintrag
 description: Es ist ein wunderbar warmer Tag. Genau so darf es bis nächsten
   Montag bleiben. Alles eingepackt. Rucksack beim Zumachen geplatzt.
 excerpt: Es ist ein wunderbar warmer Tag. Genau so darf es bis nächsten Montag
   bleiben. Alles eingepackt. Rucksack beim Zumachen geplatzt.
-focusKeyword: ""
+fileName: 2011-06---chipstueten-schlaf-und-franzoesische-zigaretten.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_7353__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_7353__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBAgF/8QAMBAAAQIFAwIEAwkAAAAAAAAAAQIDBAUGESEABxIxQRMUImFCUXEkMnKBkaGisdL/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAIBEAAQQCAwADAAAAAAAAAAAAAQACAxESIQRBUTGBof/aAAwDAQACEQMRAD8AZ9d1+ijHo9RS7FRsQ+rwIXxiAQkBJUST6UjHQZP66QEdvvVkVFkwkw8NvlxQyGkrS4L9wbn6Z1d39qNuaVpMoFllaVQi3Yfm4AkkXutSSPh6ZPTOk24pTK21NNhDLZwQMq99QuMxzrLye+1ZmdHHC3Cr71f0PKHytRRm9zkqotl6JlzJqjwftDSXFeXaWSeNzcm5SAopBx0v01DanfB6o5/LZTPkIhYuJfS2y8wpQacUfgUlRJST2yQTjGs1TKNdimWW1OEt2KgDgDkrr+2utti+mG3GpV1ZA4TOHKir8YH96LFC4i3nd9JN8rQaYNKxutE33DqhpSEocRM4lBsLEgOfeJ6Z+Q0HrU49j1qHsCdMzdShKoiq6qOPgacncQ0/NoshbUC4tJRzBSoEDINzY97aFnKOrENHnTM/S0Oxl7oA/jpsMoaCw7HI5nz92htHMAJIObJ4+/bR/szJYmM3aphtbDyWmo5EStS2+Isj1fTrYfnoXepWo2wOUgnCTcEAwLv+dPbZaXThieyfzksmLCDEoN3IdaBYG5OR8tLcuV8QBYLs0i8aFkt2aoWv/9k=
+ogImage: null
 labels:
   - Almodovar
   - Balkon
@@ -24,17 +31,12 @@ labels:
   - Southside-Festival
   - verreisen
   - Zigaretten
-type: Artikel
-typeName: Artikel
-date: 2011-06-15T15:42:45.000Z
+focusKeyword: ""
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "6915"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_7353__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_7353__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBAgF/8QAMBAAAQIFAwIEAwkAAAAAAAAAAQIDBAUGESEABxIxQRMUImFCUXEkMnKBkaGisdL/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAIBEAAQQCAwADAAAAAAAAAAAAAQACAxESIQRBUTGBof/aAAwDAQACEQMRAD8AZ9d1+ijHo9RS7FRsQ+rwIXxiAQkBJUST6UjHQZP66QEdvvVkVFkwkw8NvlxQyGkrS4L9wbn6Z1d39qNuaVpMoFllaVQi3Yfm4AkkXutSSPh6ZPTOk24pTK21NNhDLZwQMq99QuMxzrLye+1ZmdHHC3Cr71f0PKHytRRm9zkqotl6JlzJqjwftDSXFeXaWSeNzcm5SAopBx0v01DanfB6o5/LZTPkIhYuJfS2y8wpQacUfgUlRJST2yQTjGs1TKNdimWW1OEt2KgDgDkrr+2utti+mG3GpV1ZA4TOHKir8YH96LFC4i3nd9JN8rQaYNKxutE33DqhpSEocRM4lBsLEgOfeJ6Z+Q0HrU49j1qHsCdMzdShKoiq6qOPgacncQ0/NoshbUC4tJRzBSoEDINzY97aFnKOrENHnTM/S0Oxl7oA/jpsMoaCw7HI5nz92htHMAJIObJ4+/bR/szJYmM3aphtbDyWmo5EStS2+Isj1fTrYfnoXepWo2wOUgnCTcEAwLv+dPbZaXThieyfzksmLCDEoN3IdaBYG5OR8tLcuV8QBYLs0i8aFkt2aoWv/9k=
 subTitle: Tagebucheintrag
   
 ---

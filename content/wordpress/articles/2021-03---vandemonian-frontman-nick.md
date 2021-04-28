@@ -1,15 +1,22 @@
 ---
-title: Vandemonian Frontman Nick
-seoTitle: Vandemonian Frontman Nick im Interview – Post-Rock aus Hamburg
+date: 2021-03-10T08:16:17.000Z
 slug: vandemonian-frontman-nick
 path: /2021/03/vandemonian-frontman-nick/
-fileName: 2021-03---vandemonian-frontman-nick.md
+type: Artikel
+typeName: Interview
+title: Vandemonian Frontman Nick
+seoTitle: Vandemonian Frontman Nick im Interview – Post-Rock aus Hamburg
+ogTitle: Vandemonian Frontman Nick im Interview – Post-Rock aus Hamburg
 description: Die Hamburger Post-Rock Band Vandemonian veröffentlichte vor Kurzem
   ihr großartiges Debüt-Album "Xenophilia". Ich habe Nick interviewt.
 excerpt: English & German – Die Hamburger Post-Rock Band Vandemonian
   veröffentlichte vor Kurzem ihr großartiges Debüt-Album "Xenophilia". Ich habe
   mich jetzt mit Frontman Nick zum Interview verabredet.
-focusKeyword: Vandemonian
+fileName: 2021-03---vandemonian-frontman-nick.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_7__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_7__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAcFAQMEBgj/xAArEAABAwIFAwMEAwAAAAAAAAABAgMEBhEABRIhQRMiMQgUcRVRYWJjcrH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8ASlCMVLmk1By9iZIK3EgFKTpUpAFgVEW21C/9vzjqkSWKVptL9a5vGalJRq9vGPnkJUVGwF/i/GI3035B7eklvyVaEqmSjcq/k0f41ivqYzOnYlKRYWYQ1zW1uOdJcVzSuNIDSum4u5AUkXV2k+Rza2ARNUv5/UDyIk+e1JWhsSJE11xltpttaQoLJb2DNinSDc6iUgX2wuqi+kMhuNlKJD7gOp6bIGjqG52bbB7UWse66j+vjGUurJv0h3KmgwxlrrOhxhtoAOuagrqrJ3K7gWPA2AA2xriiVqG9yfvgHbTNeVAqncvpbIElUx5rrHxtqcUo7k7bKHHOLVXqlQ5VTQ8/ablmQ42uAuSq/RAW53WF79vkg8fIwYMAuc2mJk5ItguJlONSC77hI4I/IBAN72+4xEZdOTB6muFDlFVrF9KlafiyhgwYD//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_vandemonian-fb-1.png__l.jpg
 labels:
   - Bands
   - English & German
@@ -18,17 +25,12 @@ labels:
   - Interviews
   - Post-Rock
   - Vandemonian
-type: Artikel
-typeName: Interview
-date: 2021-03-10T08:16:17.000Z
+focusKeyword: Vandemonian
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33346"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_7__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_7__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAcFAQMEBgj/xAArEAABAwIFAwMEAwAAAAAAAAABAgMEBhEABRIhQRMiMQgUcRVRYWJjcrH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8ASlCMVLmk1By9iZIK3EgFKTpUpAFgVEW21C/9vzjqkSWKVptL9a5vGalJRq9vGPnkJUVGwF/i/GI3035B7eklvyVaEqmSjcq/k0f41ivqYzOnYlKRYWYQ1zW1uOdJcVzSuNIDSum4u5AUkXV2k+Rza2ARNUv5/UDyIk+e1JWhsSJE11xltpttaQoLJb2DNinSDc6iUgX2wuqi+kMhuNlKJD7gOp6bIGjqG52bbB7UWse66j+vjGUurJv0h3KmgwxlrrOhxhtoAOuagrqrJ3K7gWPA2AA2xriiVqG9yfvgHbTNeVAqncvpbIElUx5rrHxtqcUo7k7bKHHOLVXqlQ5VTQ8/ablmQ42uAuSq/RAW53WF79vkg8fIwYMAuc2mJk5ItguJlONSC77hI4I/IBAN72+4xEZdOTB6muFDlFVrF9KlafiyhgwYD//Z
 subTitle: '"In der heutigen Zeit kann man nicht schweigen"'
   
 ---

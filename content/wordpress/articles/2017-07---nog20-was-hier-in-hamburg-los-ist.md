@@ -1,16 +1,23 @@
 ---
-title: "#NoG20 - Was hier in Hamburg los ist"
-seoTitle: NoG20 - Was hier in Hamburg los ist - Statusmeldung einer Anwohnerin
+date: 2017-07-07T16:45:05.000Z
 slug: nog20
 path: /2017/07/nog20/
-fileName: 2017-07---nog20-was-hier-in-hamburg-los-ist.md
+type: Artikel
+typeName: Artikel
+title: "#NoG20 - Was hier in Hamburg los ist"
+seoTitle: NoG20 - Was hier in Hamburg los ist - Statusmeldung einer Anwohnerin
+ogTitle: "#NoG20 - Was hier in Hamburg los ist - Statusmeldung einer Anwohnerin"
 description: NoG20 ist letzte Nacht aus dem Ruder gelaufen. Ich gebe hiermit
   eine kleine Statusnachricht ab und erzähle Euch, wie sich das für uns Anwohner
   anfühlt.
 excerpt: NoG20 ist letzte Nacht aus dem Ruder gelaufen. Ich gebe hiermit eine
   kleine Statusnachricht ab und erzähle Euch, wie sich das für uns Anwohner
   anfühlt.
-focusKeyword: nog20
+fileName: 2017-07---nog20-was-hier-in-hamburg-los-ist.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-90__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-90__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYH/8QALBAAAQMDAwMCBQUAAAAAAAAAAgEDBAAREgUGIRMxQRRhIiU1UoGDkqLR0v/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAiEQABAwMDBQAAAAAAAAAAAAABAAIDBBESBRMxFCFBYfD/2gAMAwEAAhEDEQA/AOfRdF3Pl9Ke/aCov86cFt7cbcGO8EEXXXCJCji0nUaROxF8VrL4tUoqTW9EIXZMwZRsPWH1Qgt+mmHcuOVWrjYaiWx9ESUUo5rc4lcRt4TW2JWU1ReB7cL5VL96WMEQF7KozWa8uDd090hf0bc/PyR9f0h/3TGXou6tvaW89Ac02QkxBBxgGAU8VFb8ucJa6otl8+1W9RYMWmndSDV8uvZPRvJlj01tfn7sfP4rYbmkR4enRnpJMFiw+jfUjJJFx3BLDbxkt0y/usCONrcwEz1lbUTilfKXA+r+L8LMbb22/F0J2FMYZF155DNxggUxEURBxcJLp25S1MZu0okxgYrqunHUT6gnIHIsrInP4WiijZKHik+59lnqMWCEZiADsEBZaNXBBTb8qeKcle3K380buA4OxdBhGTSvRU6biNHdLoC9vaiihym7CFR0okVkZ+4K/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-90__l.jpg
 labels:
   - Altona
   - Antifaschismus & Feminismus
@@ -27,17 +34,12 @@ labels:
   - riot
   - stpauli
   - welcometohell
-type: Artikel
-typeName: Artikel
-date: 2017-07-07T16:45:05.000Z
+focusKeyword: nog20
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "17062"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-90__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-90__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYH/8QALBAAAQMDAwMCBQUAAAAAAAAAAgEDBAAREgUGIRMxQRRhIiU1UoGDkqLR0v/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAiEQABAwMDBQAAAAAAAAAAAAABAAIDBBESBRMxFCFBYfD/2gAMAwEAAhEDEQA/AOfRdF3Pl9Ke/aCov86cFt7cbcGO8EEXXXCJCji0nUaROxF8VrL4tUoqTW9EIXZMwZRsPWH1Qgt+mmHcuOVWrjYaiWx9ESUUo5rc4lcRt4TW2JWU1ReB7cL5VL96WMEQF7KozWa8uDd090hf0bc/PyR9f0h/3TGXou6tvaW89Ac02QkxBBxgGAU8VFb8ucJa6otl8+1W9RYMWmndSDV8uvZPRvJlj01tfn7sfP4rYbmkR4enRnpJMFiw+jfUjJJFx3BLDbxkt0y/usCONrcwEz1lbUTilfKXA+r+L8LMbb22/F0J2FMYZF155DNxggUxEURBxcJLp25S1MZu0okxgYrqunHUT6gnIHIsrInP4WiijZKHik+59lnqMWCEZiADsEBZaNXBBTb8qeKcle3K380buA4OxdBhGTSvRU6biNHdLoC9vaiihym7CFR0okVkZ+4K/9k=
 subTitle: Statusmeldung einer Anwohnerin
   
 ---

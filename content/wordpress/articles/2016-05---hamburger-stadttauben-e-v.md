@@ -1,16 +1,23 @@
 ---
-title: Hamburger Stadttauben e. V.
-seoTitle: Hamburger Stadttauben e. V. - Verein rettet Tauben
+date: 2016-05-26T07:00:34.000Z
 slug: hamburger-stadttauben-e-v
 path: /2016/05/hamburger-stadttauben-e-v/
-fileName: 2016-05---hamburger-stadttauben-e-v.md
+type: Artikel
+typeName: Artikel
+title: Hamburger Stadttauben e. V.
+seoTitle: Hamburger Stadttauben e. V. - Verein rettet Tauben
+ogTitle: Hamburger Stadttauben e. V. - Verein rettet Tauben
 description: Stadttauben haben eine traurige Geschichte. Der Hamburger
   Stadttauben e. V. hat es sich zur Aufgabe gemacht sie um die verlassenen
   Geschöpfe zu kümmern.
 excerpt: Stadttauben haben eine traurige Geschichte. Der Hamburger Stadttauben
   e. V. hat es sich zur Aufgabe gemacht sie um die verlassenen Geschöpfe zu
   kümmern.
-focusKeyword: Stadttauben
+fileName: 2016-05---hamburger-stadttauben-e-v.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_20058512143_51595b7228_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_20058512143_51595b7228_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAsEAACAgEDAgMHBQAAAAAAAAABAgMEBQAGEQchEhMxFCJBUWGBoRUWcXKx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAE/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACISJh/9oADAMBAAIRAxEAPwBu6oT2sBQxlvCTtRsW7ZSd4VVWmRYyQGJB+fY/DU4wvVDI43c2Qoby3LkoaCBfKmoV4JHiZveAZWj5K+E8HjvyAfjq0742dZ3PhKMVW8EtUnaSMTjlZfEoHDMPQ9ux41y11N2xPS3BKtyKWhkygeaKwpEcvooaJx2bkDvwSP8ANaeWnsz9F/J0fjt04DI1Uah1QrSA/C1TrCQ/ypRD+NZs8+Cq5b9Th39to3pIzE7tj4EeVOQfCzJICe4Hf1Gp/wBN+n+V29LHlNybaztorEPZIajBFBPDBmKyrJyCB7oGrTDmd25GsbH7UxsEnPPlW7b15U+xiP4J0BjjJQuAKAx1idUbSwbHv3ovK9qp+XNXd41k8tvGoJAYH1BIPzB0aNQaSXGTbbvVPLWr6Vnk2zTkPCxPchmjj/oGQkJ9wB9dON7L7/8ABwmL2pOnrzHemXn69xo0adwq5BRU2f/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2016_05_stadttauben.png__l.jpg
 labels:
   - Hamburg
   - Hamburg
@@ -21,17 +28,12 @@ labels:
   - Tauben
   - Tierrechte
   - Tierschutz
-type: Artikel
-typeName: Artikel
-date: 2016-05-26T07:00:34.000Z
+focusKeyword: Stadttauben
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "14901"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_20058512143_51595b7228_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_20058512143_51595b7228_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAsEAACAgEDAgMHBQAAAAAAAAABAgMEBQAGEQchEhMxFCJBUWGBoRUWcXKx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAE/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACISJh/9oADAMBAAIRAxEAPwBu6oT2sBQxlvCTtRsW7ZSd4VVWmRYyQGJB+fY/DU4wvVDI43c2Qoby3LkoaCBfKmoV4JHiZveAZWj5K+E8HjvyAfjq0742dZ3PhKMVW8EtUnaSMTjlZfEoHDMPQ9ux41y11N2xPS3BKtyKWhkygeaKwpEcvooaJx2bkDvwSP8ANaeWnsz9F/J0fjt04DI1Uah1QrSA/C1TrCQ/ypRD+NZs8+Cq5b9Th39to3pIzE7tj4EeVOQfCzJICe4Hf1Gp/wBN+n+V29LHlNybaztorEPZIajBFBPDBmKyrJyCB7oGrTDmd25GsbH7UxsEnPPlW7b15U+xiP4J0BjjJQuAKAx1idUbSwbHv3ovK9qp+XNXd41k8tvGoJAYH1BIPzB0aNQaSXGTbbvVPLWr6Vnk2zTkPCxPchmjj/oGQkJ9wB9dON7L7/8ABwmL2pOnrzHemXn69xo0adwq5BRU2f/Z
 subTitle: Ein Verein mit Herz für Tauben
   
 ---

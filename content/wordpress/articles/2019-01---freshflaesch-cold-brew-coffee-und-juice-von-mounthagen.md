@@ -1,16 +1,23 @@
 ---
-title: Freshfläsch - Cold Brew Coffee & Juice von Mounthagen
-seoTitle: Freshfläsch - Cold Brew Coffee & Juice von Mounthagen im Test
+date: 2019-01-31T11:55:46.000Z
 slug: freshflaesch-cold-brew-coffee-juice-von-mounthagen
 path: /2019/01/freshflaesch-cold-brew-coffee-juice-von-mounthagen/
-fileName: 2019-01---freshflaesch-cold-brew-coffee-und-juice-von-mounthagen.md
+type: Artikel
+typeName: Produkttest
+title: Freshfläsch - Cold Brew Coffee & Juice von Mounthagen
+seoTitle: Freshfläsch - Cold Brew Coffee & Juice von Mounthagen im Test
+ogTitle: Freshfläsch - Cold Brew Coffee & Juice von Mounthagen im Test
 description: 'Mounthagen stellt seit 1986 biologisch-dynamischen Kaffee her.
   Jetzt gibt es etwas ganz Neues vom Hamburger Röster: "Coffee & Juice" in der
   "Freshfläsch".'
 excerpt: 'Werbung - Mounthagen stellt seit 1986 biologisch-dynamischen Kaffee in
   Demeter-Qualität her. Jetzt gibt es etwas ganz Neues vom Hamburger Röster:
   "Coffee & Juice" in der "Freshfläsch".'
-focusKeyword: Cold Brew Kaffee
+fileName: 2019-01---freshflaesch-cold-brew-coffee-und-juice-von-mounthagen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_5__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_5__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUC/8QAKxAAAgEDAwMDAgcAAAAAAAAAAQIDBAURABIhBjFRE0GBFDIiQmFicZHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUE/8QAJBEAAgIBAwIHAAAAAAAAAAAAAQIAAwQFESFBgRIxUXGRofD/2gAMAwEAAhEDEQA/AIIqunsVVY3WlaRJ9tPNMDt9F2YgM3le3bWb1BW2q7XimsIj+pjihnqlqo42i2uzD7M8ttJz44OM54oRVFXWNQrW1bSw/WU+5HOVAMgGcDHbPnWhcqOkpOsbbHOkbrOJkLzF2bkE7fxtkr9vYAe/vp21lnoJqHA45HoPruYyeOp1psPxLl1WjWkQySv6+51csm0YXbhu/wCbJPxpCvs9GNwjcyH9qHTl1TRrLX1z09PFAqjfHjGXBwM8Hj+DpCucax5Dcv4BzqMmq2MSCBHs02tNipMa6dIqujeCoKiKRcEZwe/cH25GuoLKKe/UdfS7qyVW9V6maUTMnlVhGOT2LYP6aNGpeFc1doXzB6c7fveaslAyE9RJOprpE4mt1sSKK4VEqNzGVSGNdxcvnn2Hx8aULmI1LYBYeTwP6/zRo1Sz61qZVUAdpmxHZ1LMZ//Z
+ogImage: null
 labels:
   - Arabica
   - Arabica Kaffee
@@ -24,17 +31,12 @@ labels:
   - Koffein
   - Mounthagen
   - Papua Neuguinea
-type: Artikel
-typeName: Produkttest
-date: 2019-01-31T11:55:46.000Z
+focusKeyword: Cold Brew Kaffee
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "23341"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_5__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_5__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUC/8QAKxAAAgEDAwMDAgcAAAAAAAAAAQIDBAURABIhBjFRE0GBFDIiQmFicZHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUE/8QAJBEAAgIBAwIHAAAAAAAAAAAAAQIAAwQFESFBgRIxUXGRofD/2gAMAwEAAhEDEQA/AIIqunsVVY3WlaRJ9tPNMDt9F2YgM3le3bWb1BW2q7XimsIj+pjihnqlqo42i2uzD7M8ttJz44OM54oRVFXWNQrW1bSw/WU+5HOVAMgGcDHbPnWhcqOkpOsbbHOkbrOJkLzF2bkE7fxtkr9vYAe/vp21lnoJqHA45HoPruYyeOp1psPxLl1WjWkQySv6+51csm0YXbhu/wCbJPxpCvs9GNwjcyH9qHTl1TRrLX1z09PFAqjfHjGXBwM8Hj+DpCucax5Dcv4BzqMmq2MSCBHs02tNipMa6dIqujeCoKiKRcEZwe/cH25GuoLKKe/UdfS7qyVW9V6maUTMnlVhGOT2LYP6aNGpeFc1doXzB6c7fveaslAyE9RJOprpE4mt1sSKK4VEqNzGVSGNdxcvnn2Hx8aULmI1LYBYeTwP6/zRo1Sz61qZVUAdpmxHZ1LMZ//Z
 subTitle: Neue Wachmacher aus Hamburg
   
 ---

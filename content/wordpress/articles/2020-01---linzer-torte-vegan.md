@@ -1,16 +1,23 @@
 ---
-title: Linzer Torte vegan
-seoTitle: Linzer Torte vegan - Lieblingskuchen der Familie - Rezept
+date: 2020-01-12T17:13:46.000Z
 slug: linzer-torte-vegan
 path: /2020/01/linzer-torte-vegan/
-fileName: 2020-01---linzer-torte-vegan.md
+type: Artikel
+typeName: Rezept
+title: Linzer Torte vegan
+seoTitle: Linzer Torte vegan - Lieblingskuchen der Familie - Rezept
+ogTitle: Linzer Torte vegan - Familienrezept
 description: Wenn bei uns die ganze Familie zusammenkommt, backt meine Mutter
   ein vegane Linzer Torte - ein ganz wunderbarer Kuchen. Ich verrate Euch das
   Rezept.
 excerpt: Wenn bei uns die ganze Familie zusammenkommt, backt meine Mutter ein
   vegane Linzer Torte -  ein ganz wunderbarer Kuchen. Ich verrate Euch das
   Rezept.
-focusKeyword: Linzer Torte
+fileName: 2020-01---linzer-torte-vegan.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2019-12-24-linzer-torte-3__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2019-12-24-linzer-torte-3__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYD/8QAKBAAAQQBAwMEAgMAAAAAAAAAAQIDBAURABIhBiIxExRBYQeBFVGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EAB0RAAICAQUAAAAAAAAAAAAAAAABAhEDEiExQUL/2gAMAwEAAhEDEQA/AKybRcGKmxr2Y8RK0OvhyVIDLUhDfCg0DuUs8+MfPb41ov59lmwZj3sVltsvoYRYwXg/EU4cKCCrAKVYI4586Vw7VqolynGJTda9by45rprkBkNe0QlOXiOSlKfBJI3ZBwDnVe2fiP1F3Par2F1DHpxtyZ6wn35WFCQhlSRlSgoHJGeDjI1NbRZHHGtkKVdFXFlXXFza3zkdDKj6AUlxYVuUOTn45wBz+tQhdIdTyKCvs4F5EkNuqSj27Dy9pSFbe0hXn645GnXWcywnNzuj6Zt5Niy+ptxaMoaMVSyoFa/GeQkD6/xV+MoVjW9YSIEuHtSwkTQlbvYcZSFpwClQJweMcp+NCkMtuFlSoc6jrKSfSQW4M+vlxHIaDKOHGGl8lKVeNuTux/fPGtlKhOdQ2cWz6qLIRHDbcaqibvS7cBKn3Djfg5IAGecZxo0a12I1M7uLjo/IMCcpgPOvrSgg+chZTuznyNyT+tOk2rFhPsbBsc8RkkObxgEqUUn4BJTx9aNGguQebP/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel2.png__l.jpg
 labels:
   - backen
   - backen ohne Ei
@@ -23,17 +30,12 @@ labels:
   - vegane Rezepte
   - Vegane Rezepte
   - veganer Kuchen
-type: Artikel
-typeName: Rezept
-date: 2020-01-12T17:13:46.000Z
+focusKeyword: Linzer Torte
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "27315"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2019-12-24-linzer-torte-3__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2019-12-24-linzer-torte-3__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYD/8QAKBAAAQQBAwMEAgMAAAAAAAAAAQIDBAURABIhBiIxExRBYQeBFVGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EAB0RAAICAQUAAAAAAAAAAAAAAAABAhEDEiExQUL/2gAMAwEAAhEDEQA/AKybRcGKmxr2Y8RK0OvhyVIDLUhDfCg0DuUs8+MfPb41ov59lmwZj3sVltsvoYRYwXg/EU4cKCCrAKVYI4586Vw7VqolynGJTda9by45rprkBkNe0QlOXiOSlKfBJI3ZBwDnVe2fiP1F3Par2F1DHpxtyZ6wn35WFCQhlSRlSgoHJGeDjI1NbRZHHGtkKVdFXFlXXFza3zkdDKj6AUlxYVuUOTn45wBz+tQhdIdTyKCvs4F5EkNuqSj27Dy9pSFbe0hXn645GnXWcywnNzuj6Zt5Niy+ptxaMoaMVSyoFa/GeQkD6/xV+MoVjW9YSIEuHtSwkTQlbvYcZSFpwClQJweMcp+NCkMtuFlSoc6jrKSfSQW4M+vlxHIaDKOHGGl8lKVeNuTux/fPGtlKhOdQ2cWz6qLIRHDbcaqibvS7cBKn3Djfg5IAGecZxo0a12I1M7uLjo/IMCcpgPOvrSgg+chZTuznyNyT+tOk2rFhPsbBsc8RkkObxgEqUUn4BJTx9aNGguQebP/Z
 subTitle: Lieblingskuchen der Familie
   
 ---

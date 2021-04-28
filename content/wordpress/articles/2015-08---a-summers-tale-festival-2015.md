@@ -1,14 +1,21 @@
 ---
-title: A Summer's Tale Festival 2015
-seoTitle: A Summer's Tale 2015 - Bildergalerie
+date: 2015-08-18T09:18:58.000Z
 slug: a-summers-tale-festival-2015
 path: /2015/08/a-summers-tale-festival-2015/
-fileName: 2015-08---a-summers-tale-festival-2015.md
+type: Galerie
+typeName: Galerie
+title: A Summer's Tale Festival 2015
+seoTitle: A Summer's Tale 2015 - Bildergalerie
+ogTitle: A Summer's Tale 2015 - Bildergalerie
 description: Mit dem A Summer's Tale haben wir in diesem Jahr ein ganz neues
   Festival ausprobiert. Hier sind meine Bilder für Euch.
 excerpt: Wie in den letzten Tagen berichtet, haben wir dieses Jahr mit dem A
   Summer's Tale Festival in Luhmühlen.
-focusKeyword: A Summer's Tale
+fileName: 2015-08---a-summers-tale-festival-2015.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_20521813401_8f1989d2bb_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_08_20521813401_8f1989d2bb_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAmEAACAgEDBAICAwAAAAAAAAABAgMEEQAFIQYSEzEiUQcUYWJx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AIXpfpyGF5GvtLudOSI+NHwMEMOVJ5B4+/vTpI4Ond6pxbcyWEnrGwYLUZPjj8bSB1kwRj4ng6XdD7oWoXKspHxikljPOQc5wP5zyNWlivSm6q6S8pMFWXaVDDOMo8csYUE+yAGOPfGg7ds/IO3dohtiaeZGRVWCv3HtYBgcjAPDDBHvT89bbet/9GjZtS3I1Hnhr1RLYRfhjuD4UZ7uSeRrNbUVStPuKwQxR1tuuGJU8vzatHWiw/d/YsDn7YayDct43K1utm/ZltQXLSdkzLI0fkXgfY44HHrgaBn0ptnUHUDwSVoJpoY++ZrEx8UIYKSvJwCQygjtBPOnu4dXrFW6Dt1Sl2xtm3Is0IlI7XRpAqscH2rk496NGghtw36zdhgh3BhYFaJYY+7gBVVUGQPZ7UUZP0NLJLJKrGoQIGLg4y2SAPfvHHr/AHRo0H//2Q==
+ogImage: null
 labels:
   - A Summer's Tale
   - A Summer's Tale Festival
@@ -20,17 +27,12 @@ labels:
   - Lühneburger Heide
   - Open Air
   - Sommer
-type: Galerie
-typeName: Galerie
-date: 2015-08-18T09:18:58.000Z
+focusKeyword: A Summer's Tale
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "12311"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_20521813401_8f1989d2bb_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_08_20521813401_8f1989d2bb_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAmEAACAgEDBAICAwAAAAAAAAABAgMEEQAFIQYSEzEiUQcUYWJx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AIXpfpyGF5GvtLudOSI+NHwMEMOVJ5B4+/vTpI4Ond6pxbcyWEnrGwYLUZPjj8bSB1kwRj4ng6XdD7oWoXKspHxikljPOQc5wP5zyNWlivSm6q6S8pMFWXaVDDOMo8csYUE+yAGOPfGg7ds/IO3dohtiaeZGRVWCv3HtYBgcjAPDDBHvT89bbet/9GjZtS3I1Hnhr1RLYRfhjuD4UZ7uSeRrNbUVStPuKwQxR1tuuGJU8vzatHWiw/d/YsDn7YayDct43K1utm/ZltQXLSdkzLI0fkXgfY44HHrgaBn0ptnUHUDwSVoJpoY++ZrEx8UIYKSvJwCQygjtBPOnu4dXrFW6Dt1Sl2xtm3Is0IlI7XRpAqscH2rk496NGghtw36zdhgh3BhYFaJYY+7gBVVUGQPZ7UUZP0NLJLJKrGoQIGLg4y2SAPfvHHr/AHRo0H//2Q==
 subTitle: Bildergalerie und Fazit
   
 ---

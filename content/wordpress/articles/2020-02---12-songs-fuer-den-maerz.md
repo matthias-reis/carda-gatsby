@@ -1,16 +1,23 @@
 ---
-title: 12 Songs für den März
-seoTitle: 12 Songs für den März - frisch gehört und für gut befunden
+date: 2020-02-20T16:28:07.000Z
 slug: 12-songs-fuer-den-maerz-2020
 path: /2020/02/12-songs-fuer-den-maerz-2020/
-fileName: 2020-02---12-songs-fuer-den-maerz.md
+type: Artikel
+typeName: Artikel
+title: 12 Songs für den März
+seoTitle: 12 Songs für den März - frisch gehört und für gut befunden
+ogTitle: 12 Songs für den März - frisch gehört und für gut befunden
 description: Habt Ihr es auch schon gehört? Der Frühling steht vor der Tür!
   Musikalisch bringt er ganz schön was mit. Hinter jeder Ecke lauern
   Neuveröffentlichungen!
 excerpt: Habt Ihr es auch schon gehört? Der Frühling steht vor der Tür!
   Musikalisch bringt er ganz schön was mit. Hinter jeder Ecke lauern
   Neuveröffentlichungen!
-focusKeyword: Songs für den März
+fileName: 2020-02---12-songs-fuer-den-maerz.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_12-Songs-Header__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_12-Songs-Header__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHCAMF/8QALBAAAQMCBAUDBAMAAAAAAAAAAQIDBAURAAYSIQcTIjFBFFGBIzJhoUJSYv/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAeEQACAgICAwAAAAAAAAAAAAABAgADESEEEhMxQf/aAAwDAQACEQMRAD8AltNo4iZYhR5rUmDUZklMpEgs8xuRFWgJ5ZA/qRe3+vfDmqkpZ4bPxQw2uWiO+y0OQC7cu7AbahcBJ+BjlTY706nUhhuPJU7Gjoad5qultKF6gUW33He/kDD3CcYMYl1tRcB6elwhW53uFC3e3xheythgtrMFdy/EeqgHUhmR8uvRqZW5lUos9+QEsxmYqkloqStd1uC6STp0pFgP5Xx5mdY9PRQ6K9GjvRZoXIjOtLc1hSEKBSsnSmyiVHa17De22NDz3o6WFFlBJJuolLidAFjtdW/bz74lSeEU6v12rQKdmSguTWnPWPQwt4uMBZuNQ0W21AG17E2OCq3aDovNhIPyPOXs9wHaczSvTQUpKkhNmbqNxb77/s+ThBz1mj6jzcGY40ltJ2aJaI6uxPn8H4wYMU7WymxMrSosmhuJlRZydSXJ9PyO1VmGWi9JkaGmmWBcJAJIKid7mwNh+oFkDiRIp/EekVGqRWhHJcgvJYsk6H1jqUoglWg6T+QnxgwYnjXqM9FGwJ//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_02_12-songs-fuer-den-maerz.png__l.jpg
 labels:
   - 12 Songs
   - Alternative
@@ -55,17 +62,12 @@ labels:
   - TWINS
   - Vinyl
   - VÖ
-type: Artikel
-typeName: Artikel
-date: 2020-02-20T16:28:07.000Z
+focusKeyword: Songs für den März
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "27560"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_12-Songs-Header__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_12-Songs-Header__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHCAMF/8QALBAAAQMCBAUDBAMAAAAAAAAAAQIDBAURAAYSIQcTIjFBFFGBIzJhoUJSYv/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAeEQACAgICAwAAAAAAAAAAAAABAgADESEEEhMxQf/aAAwDAQACEQMRAD8AltNo4iZYhR5rUmDUZklMpEgs8xuRFWgJ5ZA/qRe3+vfDmqkpZ4bPxQw2uWiO+y0OQC7cu7AbahcBJ+BjlTY706nUhhuPJU7Gjoad5qultKF6gUW33He/kDD3CcYMYl1tRcB6elwhW53uFC3e3xheythgtrMFdy/EeqgHUhmR8uvRqZW5lUos9+QEsxmYqkloqStd1uC6STp0pFgP5Xx5mdY9PRQ6K9GjvRZoXIjOtLc1hSEKBSsnSmyiVHa17De22NDz3o6WFFlBJJuolLidAFjtdW/bz74lSeEU6v12rQKdmSguTWnPWPQwt4uMBZuNQ0W21AG17E2OCq3aDovNhIPyPOXs9wHaczSvTQUpKkhNmbqNxb77/s+ThBz1mj6jzcGY40ltJ2aJaI6uxPn8H4wYMU7WymxMrSosmhuJlRZydSXJ9PyO1VmGWi9JkaGmmWBcJAJIKid7mwNh+oFkDiRIp/EekVGqRWhHJcgvJYsk6H1jqUoglWg6T+QnxgwYnjXqM9FGwJ//2Q==
 subTitle: Frisch zusammengestellt von den drei von der Bande
   
 ---
@@ -224,8 +226,13 @@ One Pilots Label 'Fueled By Ramen' beheimatet."
 
  <YouTube id="Sk-U8ruIQyA" />
 
-<h3>Hier könnt Ihr unsere Liste bei Spotify hören
- <YouTube id="playlist/5IEj5A2OWAHLcEToYcNP9Q" /> </h3>
+## Hier könnt Ihr unsere Liste bei Spotify hören
+
+ <YouTube id="playlist/5IEj5A2OWAHLcEToYcNP9Q" />
+
+iTunes Hörer⋆innen klicken hier
+
+<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-02-25-die-drei-von-der-bande/pl.u-gEeGS8RXNXl" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
 
 Hat Euch unsere Liste gefallen? Ihr findet jeden Monat eine neue hier im Blog.
 Infos über frische Beiträge gibt es einmal pro Woche

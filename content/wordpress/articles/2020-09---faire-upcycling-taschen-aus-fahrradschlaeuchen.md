@@ -1,16 +1,23 @@
 ---
-title: Faire Upcycling-Taschen aus Fahrradschläuchen
-seoTitle: Faire Taschen aus Fahrradschläuchen - Unterwegs mit Luna und Hedwig
+date: 2020-09-14T10:10:32.000Z
 slug: faire-upcycling-taschen-aus-fahrradschlaeuchen
 path: /2020/09/faire-upcycling-taschen-aus-fahrradschlaeuchen/
-fileName: 2020-09---faire-upcycling-taschen-aus-fahrradschlaeuchen.md
+type: Artikel
+typeName: Produkttest
+title: Faire Upcycling-Taschen aus Fahrradschläuchen
+seoTitle: Faire Taschen aus Fahrradschläuchen - Unterwegs mit Luna und Hedwig
+ogTitle: Faire Taschen aus Fahrradschläuchen - Unterwegs mit Luna und Hedwig
 description: Taschen aus Fahrradschläuchen sind nicht nur robust - sie machen
   auch optisch richtig was her. Die von Mingalabar sind obendrein auch noch fair
   produziert.
 excerpt: Werbung & Affiliate Links - Taschen aus Fahrradschläuchen sind nicht
   nur robust - sie machen auch optisch richtig was her. Die von Mingalabar sind
   obendrein auch noch fair produziert.
-focusKeyword: Taschen aus Fahrradschläuchen
+fileName: 2020-09---faire-upcycling-taschen-aus-fahrradschlaeuchen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_taschen-aus-fahrradschlauch__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_taschen-aus-fahrradschlauch__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKBAAAQMDAwQBBQEAAAAAAAAAAQIDBAUGEQAhQRIiMXEUE1FSYWKB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AEyg1SAiW7D+Q8w6EtphOss9QcHO5CunJAGdvei54j4VTEvzDMcLqlFaRjBJbGN+c+dUL4ItVy35Nvuy0Kkx1okpklADgCxhISjwnuI9+tMNfqb1Zh2xUZLv1VSGUqabACW2UBSOwAc9RUSeT60DY9a8uVHmTnYinqW8lTzbi8AI7sY3O44BGfI09WxWKTbltpoFanoZVTVttRHH3Q2qQSo5SAeEqJGN9sawut328u0Y9rKcpbFPjBqK64ylTj7gZdCgVEnCQVIBIA38Z0rrvEzawt6ch2prccWENvFPTlw9xwRgf5oO/fMCRKj0iIiNGM5UlbKAXOuSSUhQC+kkADp8Ac6jqMGoW5BpdNkJMmmOyPmU+eUkZSopS4zn+VAHA/InnRo0GamFLnT5Qix3HAHl92O0d58nTA1a8ymRmZLmBJUvCcHZI588/f8AROjRoP/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_taschen-aus-fahrradschlaeuchen-fb.png__l.jpg
 labels:
   - Eco Fashion
   - Fair Fashion
@@ -24,17 +31,12 @@ labels:
   - Upcycling
   - Upcycling-Taschen
   - vegane Handtasche
-type: Artikel
-typeName: Produkttest
-date: 2020-09-14T10:10:32.000Z
+focusKeyword: Taschen aus Fahrradschläuchen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31300"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_taschen-aus-fahrradschlauch__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_taschen-aus-fahrradschlauch__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKBAAAQMDAwQBBQEAAAAAAAAAAQIDBAUGEQAhQRIiMXEUE1FSYWKB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AEyg1SAiW7D+Q8w6EtphOss9QcHO5CunJAGdvei54j4VTEvzDMcLqlFaRjBJbGN+c+dUL4ItVy35Nvuy0Kkx1okpklADgCxhISjwnuI9+tMNfqb1Zh2xUZLv1VSGUqabACW2UBSOwAc9RUSeT60DY9a8uVHmTnYinqW8lTzbi8AI7sY3O44BGfI09WxWKTbltpoFanoZVTVttRHH3Q2qQSo5SAeEqJGN9sawut328u0Y9rKcpbFPjBqK64ylTj7gZdCgVEnCQVIBIA38Z0rrvEzawt6ch2prccWENvFPTlw9xwRgf5oO/fMCRKj0iIiNGM5UlbKAXOuSSUhQC+kkADp8Ac6jqMGoW5BpdNkJMmmOyPmU+eUkZSopS4zn+VAHA/InnRo0GamFLnT5Qix3HAHl92O0d58nTA1a8ymRmZLmBJUvCcHZI588/f8AROjRoP/Z
 subTitle: Unterwegs mit Luna und Hedwig
   
 ---

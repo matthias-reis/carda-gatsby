@@ -1,14 +1,21 @@
 ---
-title: '"Vegan? Hamwa!"'
-seoTitle: Vegan? Hamwa! - Ökolatsche 2.0 - Ein Kommentar
+date: 2015-02-25T19:30:18.000Z
 slug: vegan-hamwa
 path: /2015/02/vegan-hamwa/
-fileName: 2015-02---vegan-hamwa.md
+type: Artikel
+typeName: Artikel
+title: '"Vegan? Hamwa!"'
+seoTitle: Vegan? Hamwa! - Ökolatsche 2.0 - Ein Kommentar
+ogTitle: Vegan? Hamwa! - Ökolatsche 2.0 - Ein Kommentar
 description: Vegan ist auf dem Vormarsch. Es ist schön, dass sich was tut. Das
   Umdenken erfolgt Schritt für Schritt. Hier mein Kommentar zum Thema.
 excerpt: Vegan ist auf dem Vormarsch. Es ist schön, dass sich was tut. Das
   Umdenken erfolgt Schritt für Schritt. Hier mein Kommentar zum Thema.
-focusKeyword: Vegan
+fileName: 2015-02---vegan-hamwa.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02_14928928498_12fe41202f_o__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_02_14928928498_12fe41202f_o__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYFBwgD/8QAKhAAAQQBAgUDBAMAAAAAAAAAAQIDBAURACEGEhMxQQcUIhUyUWEjcZH/xAAZAQACAwEAAAAAAAAAAAAAAAADBQECBAb/xAAkEQABAwMEAQUAAAAAAAAAAAABAgMRAAQxBSFx8BIyQVFh0f/aAAwDAQACEQMRAD8Ap7gNLblrH+psBaA4hsJbjN8xKlAYBxt5OtLVNR7CC+/wpGTDuEx8e8fQ0pptCVD4rxheCNgU5P8AmNZ34bmyC80wGKFHVSt0Kkx0oBU2CofIkZUfA8k40+Oeo78CsrSutrn232AuY6lpQBSocyUhGcDlBGQc5IP60pvrZxxQWMfeDXQWrLlwShkAhIJPZ4q5eHb5VpCs62xnQHJEaSUhFcwnlcSD3z5yc77ZAOuHEsOlkQIaL21r4z8d1Eh8CQhk9MkBSlAnITukZ7b6pyd6qmstJqotHXtIDPOHEBTbjy0pCsrUD2UQfiB5A/srhOzqr2w4h4gvbGEqwfrfbNNLeHSSp1ak/wAXNjIBQgbA/dkkHQ2WXGfK4UJA2AG5mYAxPv8AFZ9TtlMIU0v1Zju3NItJbVddWQJz8lMee04lbDjTLfOhffmHxyMd86PvJ8SVwROWy4666uUHA860Eq5QggjO3ckbY3I0nV1TBitqXY2z4bQk/CONztjGSPPbRFjZRXalxhtwrWlCUfInPbznv53Hf9abvRgir6YtTZUtKoJEc9ij+KYbT1bVS6x9Ut+TDDjidgoKAHMe/wCD531P+mFxCreJJDfSaWlVSkhJPLlwFJJyAcbnPbxnvpHj2kf6NXImRUyIrRHUb8KTn7c9/JxvqJkXYgXrz9WnoRlI6PSQokcn41LYBQU4oepvKed83DMgftf/2Q==
+ogImage: null
 labels:
   - Alternativen
   - Bio
@@ -20,17 +27,12 @@ labels:
   - vegan
   - vegan einkaufen
   - vegane Produkte
-type: Artikel
-typeName: Artikel
-date: 2015-02-25T19:30:18.000Z
+focusKeyword: Vegan
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "9510"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02_14928928498_12fe41202f_o__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_02_14928928498_12fe41202f_o__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYFBwgD/8QAKhAAAQQBAgUDBAMAAAAAAAAAAQIDBAURACEGEhMxQQcUIhUyUWEjcZH/xAAZAQACAwEAAAAAAAAAAAAAAAADBQECBAb/xAAkEQABAwMEAQUAAAAAAAAAAAABAgMRAAQxBSFx8BIyQVFh0f/aAAwDAQACEQMRAD8Ap7gNLblrH+psBaA4hsJbjN8xKlAYBxt5OtLVNR7CC+/wpGTDuEx8e8fQ0pptCVD4rxheCNgU5P8AmNZ34bmyC80wGKFHVSt0Kkx0oBU2CofIkZUfA8k40+Oeo78CsrSutrn232AuY6lpQBSocyUhGcDlBGQc5IP60pvrZxxQWMfeDXQWrLlwShkAhIJPZ4q5eHb5VpCs62xnQHJEaSUhFcwnlcSD3z5yc77ZAOuHEsOlkQIaL21r4z8d1Eh8CQhk9MkBSlAnITukZ7b6pyd6qmstJqotHXtIDPOHEBTbjy0pCsrUD2UQfiB5A/srhOzqr2w4h4gvbGEqwfrfbNNLeHSSp1ak/wAXNjIBQgbA/dkkHQ2WXGfK4UJA2AG5mYAxPv8AFZ9TtlMIU0v1Zju3NItJbVddWQJz8lMee04lbDjTLfOhffmHxyMd86PvJ8SVwROWy4666uUHA860Eq5QggjO3ckbY3I0nV1TBitqXY2z4bQk/CONztjGSPPbRFjZRXalxhtwrWlCUfInPbznv53Hf9abvRgir6YtTZUtKoJEc9ij+KYbT1bVS6x9Ut+TDDjidgoKAHMe/wCD531P+mFxCreJJDfSaWlVSkhJPLlwFJJyAcbnPbxnvpHj2kf6NXImRUyIrRHUb8KTn7c9/JxvqJkXYgXrz9WnoRlI6PSQokcn41LYBQU4oepvKed83DMgftf/2Q==
 subTitle: Ökolatsche 2.0
   
 ---

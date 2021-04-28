@@ -1,16 +1,23 @@
 ---
-title: Snacks für unterwegs
-seoTitle: Snacks für unterwegs - Warum Veganer*innen immer Proviant dabei haben
+date: 2020-08-24T06:58:34.000Z
 slug: snacks-fuer-unterwegs
 path: /2020/08/snacks-fuer-unterwegs/
-fileName: 2020-08---snacks-fuer-unterwegs.md
+type: Artikel
+typeName: Artikel
+title: Snacks für unterwegs
+seoTitle: Snacks für unterwegs - Warum Veganer*innen immer Proviant dabei haben
+ogTitle: Snacks für unterwegs - Warum Veganer*innen immer Proviant dabei haben
 description: Ist Euch schon mal aufgefallen, dass wir Veganer⋆innen eigentlich
   fast immer was zum Knabbern auf Tasche haben? Ich verrate Euch jetzt, warum
   das so ist.
 excerpt: Ist Euch schon mal aufgefallen, dass wir Veganer⋆innen eigentlich fast
   immer was zum Knabbern auf Tasche haben? Ich verrate Euch jetzt, warum das so
   ist.
-focusKeyword: unterwegs
+fileName: 2020-08---snacks-fuer-unterwegs.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-06-28-same-but-green-10__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-06-28-same-but-green-10__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAApEAACAgEEAQQBBAMAAAAAAAABAgMEEQAFBiESEzFRYRUHFCJiQXGR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQBAgX/xAAeEQACAwACAwEAAAAAAAAAAAABAgADIQQxERJhUf/aAAwDAQACEQMRAD8ArG78np07iU/KexekIWOvXiMsjEgHoD6I+hnvSzy/lHIdmnqGvx69BWmk8P3F2Auvl74xGxI6+fg61cP5DtLfqVyKhMWTdKaRAnI8ZFKA/wAckYI6z89fGmzeLtXdaxhcqlON0ksMxDBUB7LMpwOs4GckkdaxrLQrepOxxVPfiS25zjlstSKbadu9KRmZXFrb5CuR2O8jo4Iz/rVF4pvl29TT8tRFS8FVmWMkxtkZ/jkZHXuD2PvU+rX609KX8hXmrs6yeilhTmMnPh5H2zjGuZxS7bjg2Yo6LVKzRHD5b1Y+1KsCfMBOhnGAfb/Gg8LlGxQPpG6fm5DvSCGP5sfuTcQ2+0bt1tujltz+kXmQHzBiz4sP7YOMj698aUN+ntXIqleRt1WOtKJQiI7eoyg+IbzGMAnPXuQNGjTNtCWMCw6gUcgZM9hLe4yFp6m7uxwcqyLn/oOuxx3YbkMHo1alqKo8nrMsrtIzOR2ST0o/quBo0atVSleKJDOTP//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_08_unterwegs-1.png__l.jpg
 labels:
   - Ausflug
   - Ernährung & Gesundheit
@@ -20,17 +27,12 @@ labels:
   - vegan
   - vegane Snacks
   - Veganer
-type: Artikel
-typeName: Artikel
-date: 2020-08-24T06:58:34.000Z
+focusKeyword: unterwegs
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31066"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-06-28-same-but-green-10__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-06-28-same-but-green-10__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAApEAACAgEEAQQBBAMAAAAAAAABAgMEEQAFBiESEzFRYRUHFCJiQXGR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQBAgX/xAAeEQACAwACAwEAAAAAAAAAAAABAgADIQQxERJhUf/aAAwDAQACEQMRAD8ArG78np07iU/KexekIWOvXiMsjEgHoD6I+hnvSzy/lHIdmnqGvx69BWmk8P3F2Auvl74xGxI6+fg61cP5DtLfqVyKhMWTdKaRAnI8ZFKA/wAckYI6z89fGmzeLtXdaxhcqlON0ksMxDBUB7LMpwOs4GckkdaxrLQrepOxxVPfiS25zjlstSKbadu9KRmZXFrb5CuR2O8jo4Iz/rVF4pvl29TT8tRFS8FVmWMkxtkZ/jkZHXuD2PvU+rX609KX8hXmrs6yeilhTmMnPh5H2zjGuZxS7bjg2Yo6LVKzRHD5b1Y+1KsCfMBOhnGAfb/Gg8LlGxQPpG6fm5DvSCGP5sfuTcQ2+0bt1tujltz+kXmQHzBiz4sP7YOMj698aUN+ntXIqleRt1WOtKJQiI7eoyg+IbzGMAnPXuQNGjTNtCWMCw6gUcgZM9hLe4yFp6m7uxwcqyLn/oOuxx3YbkMHo1alqKo8nrMsrtIzOR2ST0o/quBo0atVSleKJDOTP//Z
 subTitle: Warum Veganer⋆innen immer Proviant dabei haben
   
 ---

@@ -1,13 +1,20 @@
 ---
-title: Amplifier live @Hansa 39 München
-seoTitle: Amplifier live in München
+date: 2013-04-26T13:15:33.000Z
 slug: amplifier-live-hansa-39-munchen
 path: /2013/04/amplifier-live-hansa-39-munchen/
-fileName: 2013-04---amplifier-live-hansa-39-muenchen.md
+type: Artikel
+typeName: Konzertbericht
+title: Amplifier live @Hansa 39 München
+seoTitle: Amplifier live in München
+ogTitle: Amplifier live in München
 description: Amplifier spielten gestern Abend live in München - Hier ist mein Konzertbericht
 excerpt: Am Mittwoch war es endlich mal wieder so weit und  Amplifier spielten
   ein Konzert in unserer Nähe.
-focusKeyword: Amplifier
+fileName: 2013-04---amplifier-live-hansa-39-muenchen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_04_img_4580__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_04_img_4580__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcCBAYD/8QALRAAAgEDAwMBBgcAAAAAAAAAAQIDBAURAAYSITFxIgcTIzJBYSQzUYGEkvD/xAAXAQADAQAAAAAAAAAAAAAAAAADBAYC/8QAHhEAAgEFAQEBAAAAAAAAAAAAAQIAAwQFEUEhEjH/2gAMAwEAAhEDEQA/ABtZIxyQ/QaFVEsrHJfr4GtNUbRvssSNR1dsYcmjfnBUn1KcHHBTgZz31WTYe6HcK8+3w2QODyzqT9scP9nUzTsHUe6lG+QpDsyU8jY9LA+ADodUSyjPqX+unLv3aF3vdXE1phtMSKzs0lTIUkOcAIAiEcFC9M9ep7ax0Xs0vspkWae1q6tj4crkY/dRpoW/z+aMFTv0cbPkadJGsSAMaaRZ5pZEfhyAUtnHcYOi6xz8zII5Ecn6uMDp5PjSNkv9zTBW41vcn8wgDP6fQa4ybpveMLeK8fyG1kXQbkXfHOeiPStroaJkNbOKdWHRpHABx9h5Goe/gDSZquXuvnBOQvbvpAVW6744Aa83AgHI/EnodUpt438c8Xy5Hn83xz10ZWDcgxj3Xs//2Q==
+ogImage: null
 labels:
   - akustik gitarre
   - Amplifier
@@ -26,18 +33,13 @@ labels:
   - motorhead
   - Sel Balamir
   - Tagebuch
-type: Artikel
-typeName: Konzertbericht
-date: 2013-04-26T13:15:33.000Z
+focusKeyword: Amplifier
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "5268"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_04_img_4580__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_04_img_4580__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcCBAYD/8QALRAAAgEDAwMBBgcAAAAAAAAAAQIDBAURAAYSITFxIgcTIzJBYSQzUYGEkvD/xAAXAQADAQAAAAAAAAAAAAAAAAADBAYC/8QAHhEAAgEFAQEBAAAAAAAAAAAAAQIAAwQFEUEhEjH/2gAMAwEAAhEDEQA/ABtZIxyQ/QaFVEsrHJfr4GtNUbRvssSNR1dsYcmjfnBUn1KcHHBTgZz31WTYe6HcK8+3w2QODyzqT9scP9nUzTsHUe6lG+QpDsyU8jY9LA+ADodUSyjPqX+unLv3aF3vdXE1phtMSKzs0lTIUkOcAIAiEcFC9M9ep7ax0Xs0vspkWae1q6tj4crkY/dRpoW/z+aMFTv0cbPkadJGsSAMaaRZ5pZEfhyAUtnHcYOi6xz8zII5Ecn6uMDp5PjSNkv9zTBW41vcn8wgDP6fQa4ybpveMLeK8fyG1kXQbkXfHOeiPStroaJkNbOKdWHRpHABx9h5Goe/gDSZquXuvnBOQvbvpAVW6744Aa83AgHI/EnodUpt438c8Xy5Hn83xz10ZWDcgxj3Xs//2Q==
 subTitle: Vielleicht das beste Konzert aller Zeiten
   
 ---

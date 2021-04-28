@@ -1,16 +1,23 @@
 ---
-title: Fritzi aus Preußen
-seoTitle: Fritzi aus Preußen - Mein Interview mit Senior Manager Daniela Engelke
+date: 2017-08-31T06:37:27.000Z
 slug: fritzi-aus-preussen-mein-interview
 path: /2017/08/fritzi-aus-preussen-mein-interview/
-fileName: 2017-08---fritzi-aus-preussen.md
+type: Artikel
+typeName: Interview
+title: Fritzi aus Preußen
+seoTitle: Fritzi aus Preußen - Mein Interview mit Senior Manager Daniela Engelke
+ogTitle: Fritzi aus Preußen - Mein Interview mit Senior Manager Daniela Engelke
 description: Daniela Engelke von Fritzi aus Preußen hat mir einiges über die
   Geschichte des Fashion Labels und die kommende Kollektion verraten. Seid
   gespannt!
 excerpt: Daniela Engelke von Fritzi aus Preußen hat mir einiges über die
   Geschichte des Fashion Labels und die kommende Kollektion verraten. Seid
   gespannt!
-focusKeyword: Fritzi aus Preußen
+fileName: 2017-08---fritzi-aus-preussen.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_Danny-Portrait__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_Danny-Portrait__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwIECP/EACsQAAEDAwIFAgcBAAAAAAAAAAECAwQABREGBxITISIxFHFBUWGBsbLB4f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwB925hJE+atA7gsfqafrc4owfVPY7G+M46eCaWdsmSbrdWwkngcQfYda2d3b7F0PoKU686kvylCMw2D3OKUrJwPjgZzQZxpSHJonOXZ9UeQDGEAJHLSvPcrOM5Hvioa3tLiX+5NYwVhKT0+RqtbJvBCuNqtdtbFxTfJjzMNcYoHJZGUgr4z5TgKIHnJwfGaty0XC33PV1+bQFOLir9O8nPCUODBP2wQQaCB2hu0iVcLk4k8suAEjz4Jqg9/75MvO6t9TNcWtq3PeijNlXRtCUgnH1Uokn/BRRQJumJSm9T2ZwAFSZjQz7qA/BrovRqZEvdXcOMxJXHSmY2SpIyTlAH8oooP/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2017_08_FaP_AnneMenden_sundown2_HW17__l.jpg
 labels:
   - Anne Menden
   - Berlin
@@ -29,17 +36,12 @@ labels:
   - Mode
   - Sea Shepherd
   - vegan fashion
-type: Artikel
-typeName: Interview
-date: 2017-08-31T06:37:27.000Z
+focusKeyword: Fritzi aus Preußen
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "17806"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_Danny-Portrait__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_Danny-Portrait__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwIECP/EACsQAAEDAwIFAgcBAAAAAAAAAAECAwQABREGBxITISIxFHFBUWGBsbLB4f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwB925hJE+atA7gsfqafrc4owfVPY7G+M46eCaWdsmSbrdWwkngcQfYda2d3b7F0PoKU686kvylCMw2D3OKUrJwPjgZzQZxpSHJonOXZ9UeQDGEAJHLSvPcrOM5Hvioa3tLiX+5NYwVhKT0+RqtbJvBCuNqtdtbFxTfJjzMNcYoHJZGUgr4z5TgKIHnJwfGaty0XC33PV1+bQFOLir9O8nPCUODBP2wQQaCB2hu0iVcLk4k8suAEjz4Jqg9/75MvO6t9TNcWtq3PeijNlXRtCUgnH1Uokn/BRRQJumJSm9T2ZwAFSZjQz7qA/BrovRqZEvdXcOMxJXHSmY2SpIyTlAH8oooP/9k=
 subTitle: “Für jede Frau die passende Fritzi”
   
 ---

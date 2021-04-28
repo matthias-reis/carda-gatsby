@@ -1,16 +1,23 @@
 ---
-title: Navy stellt gefährliche Sonartests ein
-seoTitle: Navy stellt gefährliche Sonartests ein Erfolg für NDRC
+date: 2015-09-17T14:06:27.000Z
 slug: sonartests-eingestellt-ndrc-erfolg
 path: /2015/09/sonartests-eingestellt-ndrc-erfolg/
-fileName: 2015-09---navy-stellt-gefaehrliche-sonartests-ein.md
+type: Artikel
+typeName: Artikel
+title: Navy stellt gefährliche Sonartests ein
+seoTitle: Navy stellt gefährliche Sonartests ein Erfolg für NDRC
+ogTitle: Navy stellt gefährliche Sonartests ein Erfolg für NDRC
 description: Seit vielen Jahren führt die US Navy ihre Sonartests in ökologisch
   sensiblen Bereichen des Meeres durch. Das hat zumRückzug der Meerestiere
   geführt.
 excerpt: Seit vielen Jahren führt die US Navy ihre Sonartests in ökologisch
   sensiblen Bereichen des Meeres durch. Das hat zumRückzug der Meerestiere
   geführt.
-focusKeyword: Sonartests
+fileName: 2015-09---navy-stellt-gefaehrliche-sonartests-ein.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_animal-1850235_1280__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_animal-1850235_1280__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBggF/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURAAYhEhMxB0GhFCJRCCNhcYH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUBAv/EAB8RAAICAQUBAQAAAAAAAAAAAAECAAMRBAUSITFRcf/aAAwDAQACEQMRAD8A0PLc7DtyJKeqraamcLnoZ8ucfwOdQKLfVDX0zVFFTzfTqSvXOVi62AyVQc9ZHv7D86rW3ZbVWzRU9HtW1w0RIeapnYyBU8ksxXljnAyeSdJf1l3PcbffqijpK1bdBFGkccdJF28xtl8R+4XJ5Y4LHR2qYthvYBLKwmUHUbPrD6ly2nZFfUWKZ6W5jtwxKyqx6pCVznJA6QCf7xz51C/TxaLjFsxZZ3rILR9GlPTQztkSv1s7zIpP2rliAeOrJPjGs7WXbr3NVrr7UGOkkPVFA8n7koz5POQPk/OmvJvPczxdiK9VFPTxIFRYglOiqOAEwg8D2B1Sp2yxk5AgZ+yZqN0qV+BBP5LLB6o39o/pJIbYy5+0inIwB7Y6sfGlhfbPDc9xPfa2SWpmZgxhnIZC3geMcD8aNGu6tPWD0Jr3ORgmdLuMQQWIYjhlVVx8ajFERizdyVycF5ZCx8f5o0abZm+xZa0HgE//2Q==
+ogImage: null
 labels:
   - Dekompressionskrankheit
   - Hawaii
@@ -26,17 +33,12 @@ labels:
   - Tierrechte
   - Tierschutz
   - Wale
-type: Artikel
-typeName: Artikel
-date: 2015-09-17T14:06:27.000Z
+focusKeyword: Sonartests
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "26958"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_animal-1850235_1280__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_animal-1850235_1280__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBggF/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURAAYhEhMxB0GhFCJRCCNhcYH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUBAv/EAB8RAAICAQUBAQAAAAAAAAAAAAECAAMRBAUSITFRcf/aAAwDAQACEQMRAD8A0PLc7DtyJKeqraamcLnoZ8ucfwOdQKLfVDX0zVFFTzfTqSvXOVi62AyVQc9ZHv7D86rW3ZbVWzRU9HtW1w0RIeapnYyBU8ksxXljnAyeSdJf1l3PcbffqijpK1bdBFGkccdJF28xtl8R+4XJ5Y4LHR2qYthvYBLKwmUHUbPrD6ly2nZFfUWKZ6W5jtwxKyqx6pCVznJA6QCf7xz51C/TxaLjFsxZZ3rILR9GlPTQztkSv1s7zIpP2rliAeOrJPjGs7WXbr3NVrr7UGOkkPVFA8n7koz5POQPk/OmvJvPczxdiK9VFPTxIFRYglOiqOAEwg8D2B1Sp2yxk5AgZ+yZqN0qV+BBP5LLB6o39o/pJIbYy5+0inIwB7Y6sfGlhfbPDc9xPfa2SWpmZgxhnIZC3geMcD8aNGu6tPWD0Jr3ORgmdLuMQQWIYjhlVVx8ajFERizdyVycF5ZCx8f5o0abZm+xZa0HgE//2Q==
 subTitle: Erfolg für NRDC
   
 ---

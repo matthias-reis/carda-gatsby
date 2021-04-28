@@ -1,14 +1,21 @@
 ---
-title: Lovechock Rocks
-seoTitle: Lovechock Rocks im Test - richtig gute Schokolade
+date: 2014-10-05T12:58:17.000Z
 slug: lovechock-rocks
 path: /2014/10/lovechock-rocks/
-fileName: 2014-10---lovechock-rocks.md
+type: Artikel
+typeName: Produkttest
+title: Lovechock Rocks
+seoTitle: Lovechock Rocks im Test - richtig gute Schokolade
+ogTitle: Lovechock Rocks im Test - richtig gute Schokolade
 description: 'Ich habe Lovechock Rocks getestet. Der Anspruch: Superfood in
   Bioqualität hübsch verpackt zum Snacken, das Motto: "Happiness inside".'
 excerpt: 'Werbung - Ich habe Lovechock Rocks getestet. Der Anspruch: Superfood
   in Bioqualität hübsch verpackt zum Snacken, das Motto: "Happiness inside".'
-focusKeyword: Lovechock
+fileName: 2014-10---lovechock-rocks.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACoQAAEEAQMDAwMFAAAAAAAAAAECAwQRBQASIQYTMQciQRVxsSMyUWGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMCBAX/xAAdEQADAAEFAQAAAAAAAAAAAAAAAQIhAwQREmEx/9oADAMBAAIRAxEAPwBqwuVKJOWLWRRj2pkpMlmSllEhZSgVXbURt3Ajk8iiPnTN6ddMx8fHRKiSmy6ttIV2CoJW4r3blpu+Eke0gAWKGomiWiIllb8tuM81SVIQS9aT4IA55G4fB4/vVp6RyUWJgIzEQqjuPgrIccSpbhNDd5NGqFeQAONUnuH9o1tXa9Y7S8sU+u24jWcchFpt5Tm1zc8faSN3F3Yqh5/nU6zmVj4yKxsit0HO22ErJAJNq+fzqtdW9KTs1JTNTkYf6bYQEPtluhd2VCwTyOSOdQf1EgS8fm/p0ksJcipQtzYvcncvkcj5oA6VLVV4DiVp+mvEYXFfTLZdHdfabWApAKULACtwH31vJ6wkpyCiiO0YTqjujundRsEbVcVVmrB/zRo0qW6jJJN8jvEya5+JhubVJjyCm2HF7wOa88fjUMzkk5bM5aXICg7ImOj93CUoUUAV9gNGjQh4YLP/2Q==
+ogImage: null
 labels:
   - Ernährung & Gesundheit
   - faire Schokolade
@@ -19,17 +26,12 @@ labels:
   - Superfood
   - vegan
   - vegane Schokolade
-type: Artikel
-typeName: Produkttest
-date: 2014-10-05T12:58:17.000Z
+focusKeyword: Lovechock
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "24427"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACoQAAEEAQMDAwMFAAAAAAAAAAECAwQRBQASIQYTMQciQRVxsSMyUWGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMCBAX/xAAdEQADAAEFAQAAAAAAAAAAAAAAAQIhAwQREmEx/9oADAMBAAIRAxEAPwBqwuVKJOWLWRRj2pkpMlmSllEhZSgVXbURt3Ajk8iiPnTN6ddMx8fHRKiSmy6ttIV2CoJW4r3blpu+Eke0gAWKGomiWiIllb8tuM81SVIQS9aT4IA55G4fB4/vVp6RyUWJgIzEQqjuPgrIccSpbhNDd5NGqFeQAONUnuH9o1tXa9Y7S8sU+u24jWcchFpt5Tm1zc8faSN3F3Yqh5/nU6zmVj4yKxsit0HO22ErJAJNq+fzqtdW9KTs1JTNTkYf6bYQEPtluhd2VCwTyOSOdQf1EgS8fm/p0ksJcipQtzYvcncvkcj5oA6VLVV4DiVp+mvEYXFfTLZdHdfabWApAKULACtwH31vJ6wkpyCiiO0YTqjujundRsEbVcVVmrB/zRo0qW6jJJN8jvEya5+JhubVJjyCm2HF7wOa88fjUMzkk5bM5aXICg7ImOj93CUoUUAV9gNGjQh4YLP/2Q==
 subTitle: Rohe Schokolade mit dem gewissen Etwas
   
 ---

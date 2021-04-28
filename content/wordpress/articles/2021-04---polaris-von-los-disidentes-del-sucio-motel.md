@@ -1,16 +1,23 @@
 ---
-title: '"Polaris" von Los Disidentes Del Sucio Motel'
-seoTitle: Los Disidentes Del Sucio Motel – "Polaris" – Musiktipp
+date: 2021-04-12T11:57:19.000Z
 slug: los-disidentes-del-sucio-motel-polaris-review
 path: /2021/04/los-disidentes-del-sucio-motel-polaris-review/
-fileName: 2021-04---polaris-von-los-disidentes-del-sucio-motel.md
+type: Artikel
+typeName: Review
+title: '"Polaris" von Los Disidentes Del Sucio Motel'
+seoTitle: Los Disidentes Del Sucio Motel – "Polaris" – Musiktipp
+ogTitle: Los Disidentes Del Sucio Motel – "Polaris" – Musiktipp
 description: Los Disidentes Del Sucio Motel haben ihr viertes Album "Polaris"
   fertig. Es ist seit dem zweiten April verfügbar.
 excerpt: English & German – Los Disidentes Del Sucio Motel haben ihr viertes
   Album "Polaris" fertig. Am zweiten April war es endlich so weit. Das lange
   herbeigesehnte Werk erblickte auf Klonosphere Records/Ripple das Licht der
   Musikwelt. Von mir gibt es eine klare Empfehlung.
-focusKeyword: Los Disidentes Del Sucio Motel
+fileName: 2021-04---polaris-von-los-disidentes-del-sucio-motel.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_Los-Disidentes-Del-Sucio-Motel-Polaris__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_Los-Disidentes-Del-Sucio-Motel-Polaris__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQf/xAAnEAACAgIBAwMFAQEAAAAAAAABAgMEBREAEiExBhNBIlFSYXEUMv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4TXpQy4S7cawyWIJI1WLp+llbse+ux+38PFw427PNWhgrySzWF64kQbZx47DjMjSmxd805JonMkcTdcTEoySKrr5APyDrXxzaydaxj/VVjHSZrrGHZkrTlCwcKN/Qqk68+N9u/gjhGVj8FbvYnL5CMxJDjAvvLIxDsSddKjXcjRJ3ri4cVPLg7WVEkAr15kgZGkAdmYb7L8j98rguWHhu1ZKXvWswY3CsjltsdoYwG0SersSG/XHNcwgxaQtWycVsK/+iuroIHmUkRt+Q0GII0f+R34EZaHIVKbz3Yatmt0VmMqsS8fV9DjQO+gEgjzoDW+T2Jqr5qxNL71qo1h3On6HlUtvuT46h5Pnvw4cKryXqG7e9QpmuivXswPE1eKCPpigWLXtoo/FQoH3Pc/PD1ffo5X1Nksji4GrVbkxsCAqFETMNso0T26urX94cOB//9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_Los-Disidentes-Del-Sucio-Motel-Polaris-FB.png__l.jpg
 labels:
   - Bands
   - English & German
@@ -18,17 +25,12 @@ labels:
   - Los Disidentes Del Sucio Motel
   - Prog
   - Review
-type: Artikel
-typeName: Review
-date: 2021-04-12T11:57:19.000Z
+focusKeyword: Los Disidentes Del Sucio Motel
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33831"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_Los-Disidentes-Del-Sucio-Motel-Polaris__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_Los-Disidentes-Del-Sucio-Motel-Polaris__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQf/xAAnEAACAgIBAwMFAQEAAAAAAAABAgMEBREAEiExBhNBIlFSYXEUMv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4TXpQy4S7cawyWIJI1WLp+llbse+ux+38PFw427PNWhgrySzWF64kQbZx47DjMjSmxd805JonMkcTdcTEoySKrr5APyDrXxzaydaxj/VVjHSZrrGHZkrTlCwcKN/Qqk68+N9u/gjhGVj8FbvYnL5CMxJDjAvvLIxDsSddKjXcjRJ3ri4cVPLg7WVEkAr15kgZGkAdmYb7L8j98rguWHhu1ZKXvWswY3CsjltsdoYwG0SersSG/XHNcwgxaQtWycVsK/+iuroIHmUkRt+Q0GII0f+R34EZaHIVKbz3Yatmt0VmMqsS8fV9DjQO+gEgjzoDW+T2Jqr5qxNL71qo1h3On6HlUtvuT46h5Pnvw4cKryXqG7e9QpmuivXswPE1eKCPpigWLXtoo/FQoH3Pc/PD1ffo5X1Nksji4GrVbkxsCAqFETMNso0T26urX94cOB//9k=
 subTitle: Aufbruch in ein neues Zeitalter
   
 ---

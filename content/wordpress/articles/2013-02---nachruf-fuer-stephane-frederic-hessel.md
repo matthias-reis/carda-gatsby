@@ -1,15 +1,22 @@
 ---
-title: Nachruf für Stéphane Frédéric Hessel
-seoTitle: Nachruf für Stéphane Frédéric Hessel
+date: 2013-02-28T11:29:18.000Z
 slug: stephane-frederic-hessel-nachruf
 path: /2013/02/stephane-frederic-hessel-nachruf/
-fileName: 2013-02---nachruf-fuer-stephane-frederic-hessel.md
+type: Artikel
+typeName: Artikel
+title: Nachruf für Stéphane Frédéric Hessel
+seoTitle: Nachruf für Stéphane Frédéric Hessel
+ogTitle: Nachruf für Stéphane Frédéric Hessel
 description: Der Poet des Widerstands Stéphane Frédéric Hessel ist heute im
   Alter von 95 Jahren gestorben. Stéphane Frédéric Hessel kämpfte für die
   Menschenrechte
 excerpt: In der Nacht von Dienstag auf Mittwoch ist der Résistance-Kämpfer und
   KZ-Überlebende Stéphane Frédéric Hessel  im Alter von 95 Jahren gestorben.
-focusKeyword: Stéphane Frédéric Hessel
+fileName: 2013-02---nachruf-fuer-stephane-frederic-hessel.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_02_9574608875_a986eb8c9c_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_02_9574608875_a986eb8c9c_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBAb/xAAnEAABAwMDBAIDAQAAAAAAAAABAgMEBREhAAYSBxMiMUFRMmKBof/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwT/xAAdEQACAwACAwAAAAAAAAAAAAABAgADERIhEzFB/9oADAMBAAIRAxEAPwBOIVJnS0waYJMh2Y4ltltAJ7h9hPH5N/vGqM2Z0WoYjNu7neFRqhCFrabdU0wwBc9tISQSCSCSfdsWGln0Bi02RuqVLUUF6FGStpm18qVZTmfVgCm/7aedVlrZkrkNh0vtAktpPoDFrE5t/o1nVQihiNi1pyOTnuofSiKqjk7Og9pSLpeitum7icG7YUT5Y9AjBxn2hqxTJ5nxI3beCmmQ8koZ81kKtn4CgRa+PWq8oNSkPQwqQ1xXyI4hZOBg2J+/7qeq8+iF1L3BGWC7GRNKS4TfiVXUUgXxxKuJ+Lg/yFwweRB7g6cDFr02ri9tbwh1IR1WdSW32hkuNEeRAx6IBtf41Sze6KRuJHONNgLfbCXVK5cClAVxuQsggaNGqiwk8Pkas9zFUd60ilwHVSaswEKQUMLiu9xZKb/iE3HLkRe/oHSEYqs2RIdqLqLEul2QttPiOarquPq5OB96NGo2nejFtOmf/9k=
+ogImage: null
 labels:
   - Anti-Faschista
   - Antifaschismus & Feminismus
@@ -56,17 +63,12 @@ labels:
   - Widerstand
   - Zeitzeugen
   - Zweiter Weltkrieg
-type: Artikel
-typeName: Artikel
-date: 2013-02-28T11:29:18.000Z
+focusKeyword: Stéphane Frédéric Hessel
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "10808"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_02_9574608875_a986eb8c9c_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_02_9574608875_a986eb8c9c_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBAb/xAAnEAABAwMDBAIDAQAAAAAAAAABAgMEBREhAAYSBxMiMUFRMmKBof/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwT/xAAdEQACAwACAwAAAAAAAAAAAAABAgADERIhEzFB/9oADAMBAAIRAxEAPwBOIVJnS0waYJMh2Y4ltltAJ7h9hPH5N/vGqM2Z0WoYjNu7neFRqhCFrabdU0wwBc9tISQSCSCSfdsWGln0Bi02RuqVLUUF6FGStpm18qVZTmfVgCm/7aedVlrZkrkNh0vtAktpPoDFrE5t/o1nVQihiNi1pyOTnuofSiKqjk7Og9pSLpeitum7icG7YUT5Y9AjBxn2hqxTJ5nxI3beCmmQ8koZ81kKtn4CgRa+PWq8oNSkPQwqQ1xXyI4hZOBg2J+/7qeq8+iF1L3BGWC7GRNKS4TfiVXUUgXxxKuJ+Lg/yFwweRB7g6cDFr02ri9tbwh1IR1WdSW32hkuNEeRAx6IBtf41Sze6KRuJHONNgLfbCXVK5cClAVxuQsggaNGqiwk8Pkas9zFUd60ilwHVSaswEKQUMLiu9xZKb/iE3HLkRe/oHSEYqs2RIdqLqLEul2QttPiOarquPq5OB96NGo2nejFtOmf/9k=
 subTitle: Poet des Widerstands im Alter von 95 Jahren gestorben
   
 ---

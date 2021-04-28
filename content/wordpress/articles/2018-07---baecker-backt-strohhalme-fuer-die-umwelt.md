@@ -1,15 +1,22 @@
 ---
-title: Bäcker backt Strohhalme für die Umwelt
-seoTitle: Bäcker backt Strohhalme für die Umwelt - Nudeln statt Plastik
+date: 2018-07-20T14:40:47.000Z
 slug: baecker-backt-strohhalme-fuer-die-umwelt
 path: /2018/07/baecker-backt-strohhalme-fuer-die-umwelt/
-fileName: 2018-07---baecker-backt-strohhalme-fuer-die-umwelt.md
+type: Artikel
+typeName: Artikel
+title: Bäcker backt Strohhalme für die Umwelt
+seoTitle: Bäcker backt Strohhalme für die Umwelt - Nudeln statt Plastik
+ogTitle: Bäcker backt Strohhalme für die Umwelt - Nudeln statt Plastik
 description: In einer Bäckerei in Bielefeld hat man sich jetzt etwas ganz
   Besonderes für die Kunden ausgedacht, die ihren Kaffee gerne durch Strohhalme
   trinken.
 excerpt: In einer Bäckerei in Bielefeld hat man sich jetzt etwas ganz Besonderes
   für die Kunden ausgedacht, die ihren Kaffee gerne durch Strohhalme trinken.
-focusKeyword: Strohhalme
+fileName: 2018-07---baecker-backt-strohhalme-fuer-die-umwelt.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_noodles-2329766_640__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_noodles-2329766_640__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAArEAACAQMCAwYHAAAAAAAAAAABAgMABBEFEiExQQYTFCJhkQcVI1FxgaH/xAAZAQABBQAAAAAAAAAAAAAAAAADAAIEBgf/xAAhEQABAwMEAwAAAAAAAAAAAAABAAIhAxExEhNRYXGh0f/aAAwDAQACEQMRAD8A2Wm2XiJUjN0Q55YUgcvenbu3FrJGsskckjg7QqEtgcyT05io+m6varqZhEu6S3kjSUKCdpkVio9lJ4ZxUr4oaLqGuwaLbabcXFpcPP30ksUjRmOAMVclvvnGBxz09M+p0HOMwM3PpWIkD4tIE7/f4dJXCjLFI9wH7pSeP6edjv6oB/RnhTmg6d8ttI7a21i+MYG17q6K3Eu0cceYYBOB0IFZpm1GLtVOvfT3OmCBle6ktltkaZZPK0ahiTuQ8SABwFM2g9utr8eAkTaCFXtZGSRoxtyp27gMZApg5ZN6HYcZI5g4ooqCHESjkXXCO5faHXKn81zuVS7ikaRAGA4kdaKKPUie0JvC/9k=
+ogImage: null
 labels:
   - Bäcker
   - Bielefeld
@@ -29,17 +36,12 @@ labels:
   - Umweltschutz
   - Zero Waste
   - zerowaste
-type: Artikel
-typeName: Artikel
-date: 2018-07-20T14:40:47.000Z
+focusKeyword: Strohhalme
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "21384"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_noodles-2329766_640__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_noodles-2329766_640__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAArEAACAQMCAwYHAAAAAAAAAAABAgMABBEFEiExQQYTFCJhkQcVI1FxgaH/xAAZAQABBQAAAAAAAAAAAAAAAAADAAIEBgf/xAAhEQABAwMEAwAAAAAAAAAAAAABAAIhAxExEhNRYXGh0f/aAAwDAQACEQMRAD8A2Wm2XiJUjN0Q55YUgcvenbu3FrJGsskckjg7QqEtgcyT05io+m6varqZhEu6S3kjSUKCdpkVio9lJ4ZxUr4oaLqGuwaLbabcXFpcPP30ksUjRmOAMVclvvnGBxz09M+p0HOMwM3PpWIkD4tIE7/f4dJXCjLFI9wH7pSeP6edjv6oB/RnhTmg6d8ttI7a21i+MYG17q6K3Eu0cceYYBOB0IFZpm1GLtVOvfT3OmCBle6ktltkaZZPK0ahiTuQ8SABwFM2g9utr8eAkTaCFXtZGSRoxtyp27gMZApg5ZN6HYcZI5g4ooqCHESjkXXCO5faHXKn81zuVS7ikaRAGA4kdaKKPUie0JvC/9k=
 subTitle: Nudeln statt Plastik
   
 ---

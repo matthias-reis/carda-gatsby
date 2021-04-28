@@ -1,16 +1,23 @@
 ---
-title: Wasser trinken
-seoTitle: Wasser trinken - Trinkroutine und Flaschen für unterwegs und daheim
+date: 2020-07-27T13:09:13.000Z
 slug: wasser-trinken
 path: /2020/07/wasser-trinken/
-fileName: 2020-07---wasser-trinken.md
+type: Artikel
+typeName: Artikel
+title: Wasser trinken
+seoTitle: Wasser trinken - Trinkroutine und Flaschen für unterwegs und daheim
+ogTitle: Wasser trinken - Trinkroutine und Flaschen für unterwegs und daheim
 description: Auf Tagestouren ist es immer gut, etwas zu Trinken dabei zu haben.
   Ich nehme mir am liebsten Wasser mit. Das ist natürlich und stillt den Durst
   perfekt.
 excerpt: Auf Tagestouren ist es immer gut, etwas zu Trinken dabei zu haben. Ich
   nehme mir am liebsten Wasser mit. Das ist ganz natürlich und stillt den Durst
   perfekt.
-focusKeyword: Wasser
+fileName: 2020-07---wasser-trinken.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-19__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-19__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYC/8QAKRAAAgIBBAECBQUAAAAAAAAAAQIDBBEABRIhMQZBExVRYaEiMnGR0f/EABgBAAMBAQAAAAAAAAAAAAAAAAABBAID/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECESEDQf/aAAwDAQACEQMRAD8AZ20RwJHxQhcdYBxj/Nd7k8sk7xbBHBa3Gu8S2IpFLiOOU9E+2TjOsvU3gxjBXiP3EkfcDVHBbt/MN4ty/GryWb1XoMR0qlQAR5GB+dc3NN0bUGtNXvPrf07tl96FtrC2oX+DMz1GwjA9gnzj38HrvUzd6lWarHNVqbfKrRthpVP6lIyvEr7fyNKn1htdu96o3aaCjYnklnbDnGG6Azybwf60zNukmh2mlRushtQ1445CpBXkqjIyPxj6aF02hOHouYfUMNWvyBXoYA9z9hqLPvl/cLEccMcIgV0kw2crx+/ecg6NGpm60pirw1dTeykjNMiszN2oVRyJ8jJ+mc+dW015GilUOFUE8eAA4j20aNEBdD//2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_wasser-fb.png__l.jpg
 labels:
   - Edelstahltrinkflasche
   - Ernährung & Gesundheit
@@ -21,17 +28,12 @@ labels:
   - Wasser trinken
   - Wasserflasche
   - Zero Waste
-type: Artikel
-typeName: Artikel
-date: 2020-07-27T13:09:13.000Z
+focusKeyword: Wasser
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "30714"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-19__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-19__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYC/8QAKRAAAgIBBAECBQUAAAAAAAAAAQIDBBEABRIhMQZBExVRYaEiMnGR0f/EABgBAAMBAQAAAAAAAAAAAAAAAAABBAID/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECESEDQf/aAAwDAQACEQMRAD8AZ20RwJHxQhcdYBxj/Nd7k8sk7xbBHBa3Gu8S2IpFLiOOU9E+2TjOsvU3gxjBXiP3EkfcDVHBbt/MN4ty/GryWb1XoMR0qlQAR5GB+dc3NN0bUGtNXvPrf07tl96FtrC2oX+DMz1GwjA9gnzj38HrvUzd6lWarHNVqbfKrRthpVP6lIyvEr7fyNKn1htdu96o3aaCjYnklnbDnGG6Azybwf60zNukmh2mlRushtQ1445CpBXkqjIyPxj6aF02hOHouYfUMNWvyBXoYA9z9hqLPvl/cLEccMcIgV0kw2crx+/ecg6NGpm60pirw1dTeykjNMiszN2oVRyJ8jJ+mc+dW015GilUOFUE8eAA4j20aNEBdD//2Q==
 subTitle: Trinkroutine und Flaschen für unterwegs und daheim
   
 ---

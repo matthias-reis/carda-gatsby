@@ -1,15 +1,22 @@
 ---
-title: 10 Jahre Blog-Jubiläum
-seoTitle: 10 Jahre Blog-Jubiläum
+date: 2018-03-19T18:08:11.000Z
 slug: 10-jahre-bloggen-jubilaeum
 path: /2018/03/10-jahre-bloggen-jubilaeum/
-fileName: 2018-03---10-jahre-blog-jubilaeum.md
+type: Artikel
+typeName: Artikel
+title: 10 Jahre Blog-Jubiläum
+seoTitle: 10 Jahre Blog-Jubiläum
+ogTitle: 10 Jahre Blog-Jubiläum
 description: Jubiläum! Mein Blog wird in diesem Jahr 10 Jahre alt! Zeit für
   einen Rückblick, eine Bestandsaufnahme und einen kleinen Ausblick auf die
   Zukunft.
 excerpt: Jubiläum! Mein Blog wird in diesem Jahr 10 Jahre alt! Zeit für einen
   Rückblick, eine Bestandsaufnahme und einen kleinen Ausblick auf die Zukunft.
-focusKeyword: Jubiläum
+fileName: 2018-03---10-jahre-blog-jubilaeum.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_27033144708_995a5720d0_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_27033144708_995a5720d0_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYHCAIDBAX/xAAqEAACAQMDBAECBwAAAAAAAAABAgMEBREAEiEGEzFBByJhIzJRUnGBsf/EABYBAQEBAAAAAAAAAAAAAAAAAAQGA//EACARAQABAwMFAAAAAAAAAAAAAAEAAgMhBRESBDFRgfD/2gAMAwEAAhEDEQA/AK/W1OxR1c2CSx2KB707/HlmtUsFPW3WNJFdmJ3ttVVB5PJA0mTKDaC7vtClmAPs+ANSF8Z1NJU2yjE1H3oY3ZXhK7iGxzt4yM5/3WXU1r6irVI1bM3/ADN0xb7beaO42cRijrKfayRDKLIqhhtPjBVlOAeCDr16a09qw2jCIwWiJx/J1l8l10S9EdLWbuqauOaaeaEvueIfSqgjAKg7mwMetMDOqWa3q0gGKGMcj9edUOknKyL9mJt0nJlaa6ViipnCj1qROiup6zpGso6mhjhmjh47Ey5Rs+fHOfvnRo1PoPeFtuZx9Z1UtV1VcLpI34lxqTVMv7C3O3PsDwPsNP8AfKmSOzAhvyUiY/qMnRo1RadUtt38RVrCz//Z
+ogImage: null
 labels:
   - 10 Jahre bloggen
   - Blogger
@@ -20,17 +27,12 @@ labels:
   - Jubiläum
   - Leidenschaft
   - schreiben
-type: Artikel
-typeName: Artikel
-date: 2018-03-19T18:08:11.000Z
+focusKeyword: Jubiläum
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "20148"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_27033144708_995a5720d0_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_27033144708_995a5720d0_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYHCAIDBAX/xAAqEAACAQMDBAECBwAAAAAAAAABAgMEBREAEiEGEzFBByJhIzJRUnGBsf/EABYBAQEBAAAAAAAAAAAAAAAAAAQGA//EACARAQABAwMFAAAAAAAAAAAAAAEAAgMhBRESBDFRgfD/2gAMAwEAAhEDEQA/AK/W1OxR1c2CSx2KB707/HlmtUsFPW3WNJFdmJ3ttVVB5PJA0mTKDaC7vtClmAPs+ANSF8Z1NJU2yjE1H3oY3ZXhK7iGxzt4yM5/3WXU1r6irVI1bM3/ADN0xb7beaO42cRijrKfayRDKLIqhhtPjBVlOAeCDr16a09qw2jCIwWiJx/J1l8l10S9EdLWbuqauOaaeaEvueIfSqgjAKg7mwMetMDOqWa3q0gGKGMcj9edUOknKyL9mJt0nJlaa6ViipnCj1qROiup6zpGso6mhjhmjh47Ey5Rs+fHOfvnRo1PoPeFtuZx9Z1UtV1VcLpI34lxqTVMv7C3O3PsDwPsNP8AfKmSOzAhvyUiY/qMnRo1RadUtt38RVrCz//Z
 subTitle: Rückblick und Bestandsaufnahme
   
 ---

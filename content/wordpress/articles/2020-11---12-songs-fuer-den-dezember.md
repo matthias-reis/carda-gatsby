@@ -1,16 +1,23 @@
 ---
-title: 12 Songs für den Dezember
-seoTitle: 12 Songs für den Dezember - Die neuen Lieblingsplatten
+date: 2020-11-25T12:06:55.000Z
 slug: musikliste-fuer-den-dezember-2020
 path: /2020/11/musikliste-fuer-den-dezember-2020/
-fileName: 2020-11---12-songs-fuer-den-dezember.md
+type: Artikel
+typeName: Artikel
+title: 12 Songs für den Dezember
+seoTitle: 12 Songs für den Dezember - Die neuen Lieblingsplatten
+ogTitle: 12 Songs für den Dezember - Die neuen Lieblingsplatten
 description: Es ist wieder ein Monat vorbei und wir kommen am besten gleich zum
   Punkt. Ich habe Musik für Euch. Von Mogwai bis Vennart – ein Highlight jagt
   das andere.
 excerpt: Es ist wieder ein Monat vorbei und wir kommen am besten gleich zum
   Punkt. Ich habe Musik für Euch. Von Mogwai bis Vennart – ein Highlight jagt
   das andere.
-focusKeyword: Musikliste
+fileName: 2020-11---12-songs-fuer-den-dezember.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_12-songs-dezember__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_12-songs-dezember__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBQcBBP/EACgQAAIBBAIBAwMFAAAAAAAAAAECAwQFERIABkETITEVIoFCUWGhsf/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAeEQABBAMAAwAAAAAAAAAAAAARAAECEgMTISJBgf/aAAwDAQACEQMRAD8A8d37FWWiSkaKNXMq5keT7hjOCoz7eP8AOMFo7BSXeOaSmky8JG+oAAznBA/HMnhvd47RamqaXryyUEchQua+OMq3n5UfOf65Kp7Re+tUAe5WGSCD18KorUA2Of0hckHU+/xwU8Eniap6Eot13Hx0nddMctdblnRHAqYY9GXKldxkEeR7nkuyQRRXW4xR+mPTqZggQYUAOQAB+2AOMNB0iZaqLWurqWSNg+zUDHQ5yDjb+OWNz6ZDNWy1jX1pnkdnZjbWVcsST7bHyTxrbHZY8ASI8AOlJdkvVztFC9DRPCaaSQyMkke4J/J5y/3e6XuD07lIkgDbhtcEYzgZz8DPxw4coUatfSw2WT8K13rNuFNRUaXSaul2UtUIrh229UDGzsdswlzkYw2o8cr/AKRXTW27x3GZ3qZFiagdJ9dHWT7g2MYBjJHt5A8cOHIiMv/Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_11_12-songs-dezember-fb.png__l.jpg
 labels:
   - Alternative
   - Australian Post-Rock
@@ -36,17 +43,12 @@ labels:
   - Slowly Building Weapons
   - Vennart
   - Zeal & Ardor
-type: Artikel
-typeName: Artikel
-date: 2020-11-25T12:06:55.000Z
+focusKeyword: Musikliste
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31957"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_12-songs-dezember__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_12-songs-dezember__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBQcBBP/EACgQAAIBBAIBAwMFAAAAAAAAAAECAwQFERIABkETITEVIoFCUWGhsf/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAeEQABBAMAAwAAAAAAAAAAAAARAAECEgMTISJBgf/aAAwDAQACEQMRAD8A8d37FWWiSkaKNXMq5keT7hjOCoz7eP8AOMFo7BSXeOaSmky8JG+oAAznBA/HMnhvd47RamqaXryyUEchQua+OMq3n5UfOf65Kp7Re+tUAe5WGSCD18KorUA2Of0hckHU+/xwU8Eniap6Eot13Hx0nddMctdblnRHAqYY9GXKldxkEeR7nkuyQRRXW4xR+mPTqZggQYUAOQAB+2AOMNB0iZaqLWurqWSNg+zUDHQ5yDjb+OWNz6ZDNWy1jX1pnkdnZjbWVcsST7bHyTxrbHZY8ASI8AOlJdkvVztFC9DRPCaaSQyMkke4J/J5y/3e6XuD07lIkgDbhtcEYzgZz8DPxw4coUatfSw2WT8K13rNuFNRUaXSaul2UtUIrh229UDGzsdswlzkYw2o8cr/AKRXTW27x3GZ3qZFiagdJ9dHWT7g2MYBjJHt5A8cOHIiMv/Z
 subTitle: Die neuen Lieblingsplatten
   
 ---

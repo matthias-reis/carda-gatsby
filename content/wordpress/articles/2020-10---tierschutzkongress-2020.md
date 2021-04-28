@@ -1,14 +1,21 @@
 ---
-title: Tierschutzkongress 2020
-seoTitle: Tierschutzkongress 2020 - Konferenz dieses Jahr digital
+date: 2020-10-27T15:02:46.000Z
 slug: tierschutzkongress-2020
 path: /2020/10/tierschutzkongress-2020/
-fileName: 2020-10---tierschutzkongress-2020.md
+type: Artikel
+typeName: Artikel
+title: Tierschutzkongress 2020
+seoTitle: Tierschutzkongress 2020 - Konferenz dieses Jahr digital
+ogTitle: Tierschutzkongress 2020 - Konferenz dieses Jahr digital
 description: Der Internationale Tierschutzkongress findet in diesem Jahr das
   erste Mal im Netz statt. Das Motto für 2020 lautet "Don't Forget The Animals".
 excerpt: Der Internationale Tierschutzkongress findet in diesem Jahr das erste
   Mal im Netz statt. Das Motto für 2020 lautet "Don't Forget The Animals".
-focusKeyword: Tierschutzkongress
+fileName: 2020-10---tierschutzkongress-2020.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_tierschutzkongress-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_tierschutzkongress-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgECA//EACgQAAEDBAICAgICAwAAAAAAAAECAwQFBhEhABITMSJBMlEHFGGRof/EABcBAQEBAQAAAAAAAAAAAAAAAAIEAAX/xAAeEQACAgICAwAAAAAAAAAAAAABAgADESEEEiKhwf/aAAwDAQACEQMRAD8Abtu8H4VVbijL0Zl10eF91XVaAkdcA5IySo/5GOF43jKYVJqUFbEWM00Gkw4DDagp3HfsouAdQU6wMnJB+jze0rLptSjR5D9xMwqqpoeZp6P1cZyT8OxWOw+I3j61yp3xa1GSuTMevFv+mEttqShhSys4UnIR5M73vH1+uak2oxfHyB7EdVAGse4hP/kKoXJQRFqDtQ+Ky86y+0022CCC2UlICvRUCN+jn65J2xcTUQtKLiEfFGiSo/jj0OQtJtahL8dQRdiHW0hT4bMJIUSgpSSpC1Yx8kjY3nXLWW6fWrfT4FCOHV9m5bFNbYcUB7OM7Sr3vfKEubO4AgZdalRj3o3HcmR2W2ZLqkkBxecsA9tj/Z/4eZnUCn3M/GqEquvsOGOhGAx5EYG89v3v9cOHObyLGrTKmVAAnYnSiW7b1CfemVOXMq8VURbZjIhELBKgoE41hPTJzrB4rVr3prwWINNS0G/xcku+JSwfWEN51r19a4cOLiO1idmhfxOp/9k=
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_10_tierschutzkongress-fb.png__l.jpg
 labels:
   - AHK São Paulo
   - Brasilien
@@ -27,17 +34,12 @@ labels:
   - UNESP
   - Universidade Estadual Paulista
   - vegane Ernährung
-type: Artikel
-typeName: Artikel
-date: 2020-10-27T15:02:46.000Z
+focusKeyword: Tierschutzkongress
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "31738"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_tierschutzkongress-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_tierschutzkongress-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgECA//EACgQAAEDBAICAgICAwAAAAAAAAECAwQFBhEhABITMSJBMlEHFGGRof/EABcBAQEBAQAAAAAAAAAAAAAAAAIEAAX/xAAeEQACAgICAwAAAAAAAAAAAAABAgADESEEEiKhwf/aAAwDAQACEQMRAD8Abtu8H4VVbijL0Zl10eF91XVaAkdcA5IySo/5GOF43jKYVJqUFbEWM00Gkw4DDagp3HfsouAdQU6wMnJB+jze0rLptSjR5D9xMwqqpoeZp6P1cZyT8OxWOw+I3j61yp3xa1GSuTMevFv+mEttqShhSys4UnIR5M73vH1+uak2oxfHyB7EdVAGse4hP/kKoXJQRFqDtQ+Ky86y+0022CCC2UlICvRUCN+jn65J2xcTUQtKLiEfFGiSo/jj0OQtJtahL8dQRdiHW0hT4bMJIUSgpSSpC1Yx8kjY3nXLWW6fWrfT4FCOHV9m5bFNbYcUB7OM7Sr3vfKEubO4AgZdalRj3o3HcmR2W2ZLqkkBxecsA9tj/Z/4eZnUCn3M/GqEquvsOGOhGAx5EYG89v3v9cOHObyLGrTKmVAAnYnSiW7b1CfemVOXMq8VURbZjIhELBKgoE41hPTJzrB4rVr3prwWINNS0G/xcku+JSwfWEN51r19a4cOLiO1idmhfxOp/9k=
 subTitle: Konferenz dieses Jahr digital
   
 ---

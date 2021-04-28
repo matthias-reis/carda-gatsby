@@ -1,14 +1,21 @@
 ---
-title: Choclate im Test
-seoTitle: Choclate - Vegane Schokolade aus Hamburg - Ich habe getestet
+date: 2018-02-28T16:46:18.000Z
 slug: choclate-vegane-schokolade-aus-hamburg
 path: /2018/02/choclate-vegane-schokolade-aus-hamburg/
-fileName: 2018-02---choclate-im-test.md
+type: Artikel
+typeName: Produkttest
+title: Choclate im Test
+seoTitle: Choclate - Vegane Schokolade aus Hamburg - Ich habe getestet
+ogTitle: Choclate - Vegane Schokolade aus Hamburg - Ich habe getestet
 description: Christina Löbel stellt unter dem Namen Choclate in Hamburg vegane
   Bio-Fairtrade-Schokolade her. Ich habe sie jetzt probiert.
 excerpt: Werbung - Christina Löbel stellt unter dem Namen Choclate in Hamburg
   vegane Bio-Fairtrade-Schokolade her. Ich habe sie jetzt probiert.
-focusKeyword: vegane Schokolade
+fileName: 2018-02---choclate-im-test.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40377842352_2678c05c4c_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40377842352_2678c05c4c_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAYHAgMFCP/EACsQAAIBAgUEAAUFAAAAAAAAAAECAwQRAAUGEiEHEzEyFEFRcaEVImGRkv/EABcBAQEBAQAAAAAAAAAAAAAAAAAEAQP/xAAlEQACAQIFAwUAAAAAAAAAAAABAgMAIQQREjFBEyJRYXHB8PH/2gAMAwEAAhEDEQA/AI1pTTyZ1XoFYywBhuJkKfu+SW4PNubcgE/xjZrLT75FnOYpT3+CWdFhWRyXAeMOByoJtyL/AG5PnDR0IyiCt1FmNTUrGUpaQBTIu5dzyAC44vwpxTavR2lapJIqmCGWSJtquxlIDHm1g5JsPpwLjHCTECJtHNWosT4dUC9+Zv6ePvvzbzvlOVSZrmuWUjyPClXUiJmjjMjIgtuYKPaw+V/xjoay0wNPRUbpJJV08qnfUds2Em42AINgCtiAT9fNsXTLdH6ZWjirKLLOzLSyN25nWVQGuNzKjOOOB5/o4nXWlRTfpMOWS9vK6uBpJYodyxyTRv7FSSLgMBxwLcY2OcSHTTpwJC4cHXbL5z/DSxpbU2babFUMmqIofidnd7lPHLu2ElfcG1rnxhjTqdrASNIM2iDsLFhRQXI/xgwYoKKbkVAGI2NYnqZq8bmGbJub2Jo4CW+90t+ML2qtT5xqZoGzyrSpaAt22FPHGRutf0UX8DzgwYBFFwKFidzX/9k=
+ogImage: null
 labels:
   - Altona
   - Big Tree Farms
@@ -25,18 +32,13 @@ labels:
   - Rohschokolade
   - vegane Ernährung
   - vegane Schokolade
-type: Artikel
-typeName: Produkttest
-date: 2018-02-28T16:46:18.000Z
+focusKeyword: vegane Schokolade
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (106:0)"
-thumbnailId: "19805"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40377842352_2678c05c4c_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40377842352_2678c05c4c_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAYHAgMFCP/EACsQAAIBAgUEAAUFAAAAAAAAAAECAwQRAAUGEiEHEzEyFEFRcaEVImGRkv/EABcBAQEBAQAAAAAAAAAAAAAAAAAEAQP/xAAlEQACAQIFAwUAAAAAAAAAAAABAgMAIQQREjFBEyJRYXHB8PH/2gAMAwEAAhEDEQA/AI1pTTyZ1XoFYywBhuJkKfu+SW4PNubcgE/xjZrLT75FnOYpT3+CWdFhWRyXAeMOByoJtyL/AG5PnDR0IyiCt1FmNTUrGUpaQBTIu5dzyAC44vwpxTavR2lapJIqmCGWSJtquxlIDHm1g5JsPpwLjHCTECJtHNWosT4dUC9+Zv6ePvvzbzvlOVSZrmuWUjyPClXUiJmjjMjIgtuYKPaw+V/xjoay0wNPRUbpJJV08qnfUds2Em42AINgCtiAT9fNsXTLdH6ZWjirKLLOzLSyN25nWVQGuNzKjOOOB5/o4nXWlRTfpMOWS9vK6uBpJYodyxyTRv7FSSLgMBxwLcY2OcSHTTpwJC4cHXbL5z/DSxpbU2babFUMmqIofidnd7lPHLu2ElfcG1rnxhjTqdrASNIM2iDsLFhRQXI/xgwYoKKbkVAGI2NYnqZq8bmGbJub2Jo4CW+90t+ML2qtT5xqZoGzyrSpaAt22FPHGRutf0UX8DzgwYBFFwKFidzX/9k=
 subTitle: Vegane Schokolade aus Hamburg
   
 ---

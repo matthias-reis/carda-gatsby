@@ -1,16 +1,23 @@
 ---
-title: '"Stummfilm"'
-seoTitle: '"Stummfilm" - Long Distance Calling veröffentlichen Konzert aus Altona'
+date: 2019-09-06T07:19:23.000Z
 slug: stummfilm-long-distance-calling-veroeffentlichen-konzert-aus-altona
 path: /2019/09/stummfilm-long-distance-calling-veroeffentlichen-konzert-aus-altona/
-fileName: 2019-09---stummfilm.md
+type: Artikel
+typeName: Review
+title: '"Stummfilm"'
+seoTitle: '"Stummfilm" - Long Distance Calling veröffentlichen Konzert aus Altona'
+ogTitle: '"Stummfilm" - Long Distance Calling veröffentlichen Konzert aus Altona'
 description: Das Long Distance Calling Konzert in der Kulturkirche Altona wurde
   komplett aufgezeichnet und ist ab sofort auf Vinyl, CD und als Video
   erhältlich.
 excerpt: Das Long Distance Calling Konzert in der Kulturkirche Altona wurde
   komplett aufgezeichnet und ist ab sofort auf Vinyl, CD und als Video
   erhältlich.
-focusKeyword: Long Distance Calling
+fileName: 2019-09---stummfilm.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-04-06-long-distance-calling-kulturkirche-altona-6__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-04-06-long-distance-calling-kulturkirche-altona-6__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKBAAAQMDAwMEAwEAAAAAAAAAAQIDEQAEBRIhMQZBgQcTImEUUXHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABsRAAMAAwEBAAAAAAAAAAAAAAABAgMRISIx/9oADAMBAAIRAxEAPwDnrp6wXdOONpTJCNR24+6kXeIeRdaAlJJVHxUCJ/Var0tsRc5RAWmUuKCFT2B2/wBraZXpL2HQ2lBBTeLK5E/KpqtvQ2hQXWIuGnQhbK0mO4qG/ZFEiONyaeuX6Tbx7xlmXtaENoCdyAePO9LDrC3asUqtGlhbgMuLHBM8D6HHimXTC/8ATDN46ybsEvlsulay8qYKUgjSCT/TFOjIdTYReWvF3OjQ0yLkoWsIK1DbxMgfe9FFXx4Zr0wdP4Z3JdYYrMPvu/n2zN5crGjU8JS3BkjsJ3Ec9u9JzrjK45GSWnHI9xJSCHFH4nsYG87zyfFFFFSlPAP/2Q==
+ogImage: https://storage.googleapis.com/cardamonchai-images/2019_09_long-distance-calling-facebook.png__l.jpg
 labels:
   - Altona
   - Bands
@@ -21,17 +28,12 @@ labels:
   - Münster
   - Musik
   - Post-Rock
-type: Artikel
-typeName: Review
-date: 2019-09-06T07:19:23.000Z
+focusKeyword: Long Distance Calling
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "26113"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-04-06-long-distance-calling-kulturkirche-altona-6__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-04-06-long-distance-calling-kulturkirche-altona-6__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKBAAAQMDAwMEAwEAAAAAAAAAAQIDEQAEBRIhMQZBgQcTImEUUXHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABsRAAMAAwEBAAAAAAAAAAAAAAABAgMRISIx/9oADAMBAAIRAxEAPwDnrp6wXdOONpTJCNR24+6kXeIeRdaAlJJVHxUCJ/Var0tsRc5RAWmUuKCFT2B2/wBraZXpL2HQ2lBBTeLK5E/KpqtvQ2hQXWIuGnQhbK0mO4qG/ZFEiONyaeuX6Tbx7xlmXtaENoCdyAePO9LDrC3asUqtGlhbgMuLHBM8D6HHimXTC/8ATDN46ybsEvlsulay8qYKUgjSCT/TFOjIdTYReWvF3OjQ0yLkoWsIK1DbxMgfe9FFXx4Zr0wdP4Z3JdYYrMPvu/n2zN5crGjU8JS3BkjsJ3Ec9u9JzrjK45GSWnHI9xJSCHFH4nsYG87zyfFFFFSlPAP/2Q==
 subTitle: Long Distance Calling veröffentlichen Konzert aus der Kulturkirche Altona
   
 ---

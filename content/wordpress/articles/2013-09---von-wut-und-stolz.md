@@ -1,13 +1,20 @@
 ---
-title: Von Wut und Stolz
-seoTitle: Von Wut und Stolz
+date: 2013-09-16T15:45:29.000Z
 slug: von-wut-und-stolz
 path: /2013/09/von-wut-und-stolz/
-fileName: 2013-09---von-wut-und-stolz.md
+type: Artikel
+typeName: Artikel
+title: Von Wut und Stolz
+seoTitle: Von Wut und Stolz
+ogTitle: Von Wut und Stolz
 description: ""
 excerpt: Sechs Tage ist es her, seit ich das letzte Mal berichtet habe. Das
   bedeutet, dass ich seit sieben Tagen nicht mehr geraucht habe.
-focusKeyword: ""
+fileName: 2013-09---von-wut-und-stolz.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_09_9609956388_0b1b3d5092_o__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_09_9609956388_0b1b3d5092_o__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAwX/xAArEAACAQQBAwIFBQEAAAAAAAABAgMEBQYRABIhQSIxBxNhgaEUFVFScrH/xAAXAQEBAQEAAAAAAAAAAAAAAAABBAAF/8QAHxEAAgMAAQUBAAAAAAAAAAAAAQIAAxEhEiIxQaGx/9oADAMBAAIRAxEAPwDr1lvyu65jfag5lkFDRi4SxQU9LN0okauQoC60BoD/AKffmtXQ5Akzx0/xAyQFVDdLuhI76/r9OOVI0L3W5AdJBqpgSD56zvglxsE09SxhcmIsrhQQNHyNnvo+xA1zk3XXDlPyXIiE90V4aK/JMsFdmuWt1qD1pURxqAfA2hJP04EaHKbLlthqYcxyOsoJK+CN4qqp61KtIoZXXWiCCe+uUa2UE0MjGsVddPfbdXc/x4+/AL20IraFjobrab1E9t/NXXCu27Nc/JmVNwCIFRlUtszDICkTSUP7hUIzb0qyLIysu/B7b79u/G62Zrb6hPVUNE3lZEO/xsHk+v8AY7zQ5BmPzbRd6mCprZ5444KR3R0Zy6sjKCCx37/Y8TjZsnhZP0dpyCWJvElqmUr3/wA8o6A25HFPmXmqyygVG6JzM+thI1JP51yXXvN5bhnWOW+P0JJdaMBF7gr89Nknz7a7fXgcFovqW+Y1VlvkhIIKJRSqXPjfp3ritimO5jcfiRjtTW47ekjjuNM7STUcqJHGkikksygABQT4400jSzeoPijif//Z
+ogImage: null
 labels:
   - aufhören
   - Belohnung
@@ -18,18 +25,13 @@ labels:
   - Schweinehund
   - Selbstversuch
   - Tagebuch
-type: Artikel
-typeName: Artikel
-date: 2013-09-16T15:45:29.000Z
+focusKeyword: ""
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "7200"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_09_9609956388_0b1b3d5092_o__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_09_9609956388_0b1b3d5092_o__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAwX/xAArEAACAQQBAwIFBQEAAAAAAAABAgMEBQYRABIhQSIxBxNhgaEUFVFScrH/xAAXAQEBAQEAAAAAAAAAAAAAAAABBAAF/8QAHxEAAgMAAQUBAAAAAAAAAAAAAQIAAxEhEiIxQaGx/9oADAMBAAIRAxEAPwDr1lvyu65jfag5lkFDRi4SxQU9LN0okauQoC60BoD/AKffmtXQ5Akzx0/xAyQFVDdLuhI76/r9OOVI0L3W5AdJBqpgSD56zvglxsE09SxhcmIsrhQQNHyNnvo+xA1zk3XXDlPyXIiE90V4aK/JMsFdmuWt1qD1pURxqAfA2hJP04EaHKbLlthqYcxyOsoJK+CN4qqp61KtIoZXXWiCCe+uUa2UE0MjGsVddPfbdXc/x4+/AL20IraFjobrab1E9t/NXXCu27Nc/JmVNwCIFRlUtszDICkTSUP7hUIzb0qyLIysu/B7b79u/G62Zrb6hPVUNE3lZEO/xsHk+v8AY7zQ5BmPzbRd6mCprZ5444KR3R0Zy6sjKCCx37/Y8TjZsnhZP0dpyCWJvElqmUr3/wA8o6A25HFPmXmqyygVG6JzM+thI1JP51yXXvN5bhnWOW+P0JJdaMBF7gr89Nknz7a7fXgcFovqW+Y1VlvkhIIKJRSqXPjfp3ritimO5jcfiRjtTW47ekjjuNM7STUcqJHGkikksygABQT4400jSzeoPijif//Z
 subTitle: Die erste Etappe ist geschafft
   
 ---

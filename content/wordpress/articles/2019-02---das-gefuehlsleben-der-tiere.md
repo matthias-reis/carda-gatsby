@@ -1,9 +1,12 @@
 ---
-title: '"Das Gefühlsleben der Tiere"'
-seoTitle: Buchtipp - "Das Gefühlsleben der Tiere"
+date: 2019-02-05T12:54:00.000Z
 slug: das-gefuehlsleben-der-tiere-marc-bekoff
 path: /2019/02/das-gefuehlsleben-der-tiere-marc-bekoff/
-fileName: 2019-02---das-gefuehlsleben-der-tiere.md
+type: Artikel
+typeName: Rezension
+title: '"Das Gefühlsleben der Tiere"'
+seoTitle: Buchtipp - "Das Gefühlsleben der Tiere"
+ogTitle: Buchtipp - "Das Gefühlsleben der Tiere"
 description: Heute möchte ich Euch das Buch "Das Gefühlsleben der Tiere" von
   Marc Bekoff vorstellen. Es ist am 1. Mai 2008 im Verlag "animal learn"
   erschienen.
@@ -11,7 +14,11 @@ excerpt: Affiliate Link - Heute möchte ich Euch das Buch "Das Gefühlsleben der
   Tiere" von Marc Bekoff vorstellen. Die deutsche Ausgabe ist am 1. Mai 2008 im
   Verlag "animal learn" erschienen. Ich bin der Meinung, es sollte in keinem
   Bücherregal fehlen.
-focusKeyword: Das Gefühlsleben der Tiere
+fileName: 2019-02---das-gefuehlsleben-der-tiere.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-05-das-gefuehlsleben-der-tiere-marc-bekoff-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-05-das-gefuehlsleben-der-tiere-marc-bekoff-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAuEAACAgEDAgMFCQAAAAAAAAABAgMEEQAFIRIxIkFhBgdRkaETFCMyQlJxsdH/xAAYAQADAQEAAAAAAAAAAAAAAAABAwUCBP/EACARAAEEAQQDAAAAAAAAAAAAAAEAAgMRMQQFEiEioeH/2gAMAwEAAhEDEQA/AOR7ZZtV7MxhRbNaMFuYlkbpHc4IzwO58tWNB9zG3T3du3CWheqzhJQg6YZEZguDgeEjIHw51We6J9ls7e1+AOk7s0cllolXn9UZGeMj54057ypKk277ZV2+It9vaimu2Ivy+FwR1HseB/udIJI7TbB8Vj0tkvCQJHZjWT9sUrO+B6Ip1s071yrthrUt3jdeuVvxiXySnPL4P01q7fD90SZqltbaHrevafplki6vEAQBgYPGT37Y41K24AVsS1GrZZpJJ3iAjBZuAWBxg9xqdJNJwJa6iEdJt0MMzXO7zk389JXZ9yqSIGURgry6MMHH09efTVRX3VBybPgwxCswOQT5Lj+PmdGjVArkCcrmPc7jQyyU1ZWUs7FctnGACRgnv56Y9p7lDYvZ56e32Kywyk5ESAOOeSek8gH+z8NGjWm4tA5pf//Z
+ogImage: null
 labels:
   - animal learn
   - Antonio Damasio
@@ -54,18 +61,13 @@ labels:
   - Veganismus
   - Verhaltensforschung
   - Wissenschaft
-type: Artikel
-typeName: Rezension
-date: 2019-02-05T12:54:00.000Z
+focusKeyword: Das Gefühlsleben der Tiere
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   outsideImage: article has at least one image from another domain
-thumbnailId: "23380"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-05-das-gefuehlsleben-der-tiere-marc-bekoff-2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-05-das-gefuehlsleben-der-tiere-marc-bekoff-2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAuEAACAgEDAgMFCQAAAAAAAAABAgMEEQAFIRIxIkFhBgdRkaETFCMyQlJxsdH/xAAYAQADAQEAAAAAAAAAAAAAAAABAwUCBP/EACARAAEEAQQDAAAAAAAAAAAAAAEAAgMRMQQFEiEioeH/2gAMAwEAAhEDEQA/AOR7ZZtV7MxhRbNaMFuYlkbpHc4IzwO58tWNB9zG3T3du3CWheqzhJQg6YZEZguDgeEjIHw51We6J9ls7e1+AOk7s0cllolXn9UZGeMj54057ypKk277ZV2+It9vaimu2Ivy+FwR1HseB/udIJI7TbB8Vj0tkvCQJHZjWT9sUrO+B6Ip1s071yrthrUt3jdeuVvxiXySnPL4P01q7fD90SZqltbaHrevafplki6vEAQBgYPGT37Y41K24AVsS1GrZZpJJ3iAjBZuAWBxg9xqdJNJwJa6iEdJt0MMzXO7zk389JXZ9yqSIGURgry6MMHH09efTVRX3VBybPgwxCswOQT5Lj+PmdGjVArkCcrmPc7jQyyU1ZWUs7FctnGACRgnv56Y9p7lDYvZ56e32Kywyk5ESAOOeSek8gH+z8NGjWm4tA5pf//Z
 subTitle: Buch von Marc Bekoff
   
 ---

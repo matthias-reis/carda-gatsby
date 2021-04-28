@@ -1,16 +1,23 @@
 ---
-title: 10 Songs für den Februar 2019
-seoTitle: 10 Songs für den Februar - präsentiert von den drei von der Bande
+date: 2019-01-25T14:27:45.000Z
 slug: 10-songs-fuer-den-februar
 path: /2019/01/10-songs-fuer-den-februar/
-fileName: 2019-01---10-songs-fuer-den-februar-2019.md
+type: Artikel
+typeName: Artikel
+title: 10 Songs für den Februar 2019
+seoTitle: 10 Songs für den Februar - präsentiert von den drei von der Bande
+ogTitle: 10 Songs für den Februar - präsentiert von den drei von der Bande
 description: Die drei von der Bande präsentieren Euch heute die 10 Songs für den
   Februar 2019. Die Auswahl haben wir uns nicht leicht gemacht.
 excerpt: Die drei von der Bande präsentieren Euch heute die 10 Songs für den
   Februar 2019. Die Auswahl besteht aus einer Kombination aus brandneuen Stücken
   mit Songs, die wir besonders lieben und diesen Monat besonders häufig gehört
   haben.
-focusKeyword: 10 Songs
+fileName: 2019-01---10-songs-fuer-den-februar-2019.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Top-10-Winter-Destinations__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Top-10-Winter-Destinations__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QAKBAAAgEDAwMDBQEAAAAAAAAAAQIDBAURABIhBiIxBxRREyNBYYFS/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAQL/xAAfEQACAgIBBQAAAAAAAAAAAAABAgARAwQhEhNBYcH/2gAMAwEAAhEDEQA/ANx6iV1NHb2t4w7To311gG+dIiDyiL3FicAY+c+NWXTVCtf0va46i1TrshSJ4qiFmYFceSwyQeD/AHSVSWnvfqJDd4veQyTXCnlChkYJ3oNobg4411vXrVmc+3EmzaCCAhGecju5+NSUTUpOrKopa5I7fHWtVTsIo5YYW+y5I2u3GdufIwcjI1D0hcjWW12u8tOtwaRpWhiz2KcYGOT+CNaC2rU/VBqQ5GweVQAN+tpzpL1nWNvo71VUbfZnWokAUyqpZtxH+eM/vWWdETpIjGvrPsP3A1AcUff2KbpKugpLnDJVgtErhjg44GrbqXqh6u5RSWuvuMFM0iMkYrZQcEjz3fOjRonmAjBrLZWpXOsfUF0LM7EAzt2/wHwNZ+vs1PQ++FRUQPJUzgySPGGcbwADk8jwcjz+dGjSTKByI22zlyCnNz//2Q==
+ogImage: null
 labels:
   - 10 Songs
   - 12 Songs
@@ -19,18 +26,13 @@ labels:
   - Musik
   - Playlist
   - Songs
-type: Artikel
-typeName: Artikel
-date: 2019-01-25T14:27:45.000Z
+focusKeyword: 10 Songs
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors:
   invalidMdx: "unknown: Unterminated JSX contents (39:16)"
-thumbnailId: "23276"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Top-10-Winter-Destinations__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Top-10-Winter-Destinations__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QAKBAAAgEDAwMDBQEAAAAAAAAAAQIDBAURABIhBiIxBxRREyNBYYFS/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAQL/xAAfEQACAgIBBQAAAAAAAAAAAAABAgARAwQhEhNBYcH/2gAMAwEAAhEDEQA/ANx6iV1NHb2t4w7To311gG+dIiDyiL3FicAY+c+NWXTVCtf0va46i1TrshSJ4qiFmYFceSwyQeD/AHSVSWnvfqJDd4veQyTXCnlChkYJ3oNobg4411vXrVmc+3EmzaCCAhGecju5+NSUTUpOrKopa5I7fHWtVTsIo5YYW+y5I2u3GdufIwcjI1D0hcjWW12u8tOtwaRpWhiz2KcYGOT+CNaC2rU/VBqQ5GweVQAN+tpzpL1nWNvo71VUbfZnWokAUyqpZtxH+eM/vWWdETpIjGvrPsP3A1AcUff2KbpKugpLnDJVgtErhjg44GrbqXqh6u5RSWuvuMFM0iMkYrZQcEjz3fOjRonmAjBrLZWpXOsfUF0LM7EAzt2/wHwNZ+vs1PQ++FRUQPJUzgySPGGcbwADk8jwcjz+dGjSTKByI22zlyCnNz//2Q==
 subTitle: Präsentiert von den drei von der Bande
   
 ---

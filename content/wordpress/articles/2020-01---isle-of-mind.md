@@ -1,16 +1,23 @@
 ---
-title: Isle Of Mind
-seoTitle: Isle Of Mind - Mein neues Yoga-Handtuch im Belastungstest
+date: 2020-01-20T17:41:24.000Z
 slug: isle-of-mind
 path: /2020/01/isle-of-mind/
-fileName: 2020-01---isle-of-mind.md
+type: Artikel
+typeName: Produkttest
+title: Isle Of Mind
+seoTitle: Isle Of Mind - Mein neues Yoga-Handtuch im Belastungstest
+ogTitle: Isle Of Mind - Mein neues Yoga-Handtuch im Belastungstest
 description: Die Yoga-Tücher von Isle Of Mind bestehen zu 45 Prozent aus
   PET-Flaschen. Ich habe jetzt eins ausprobiert und möchte es nie wieder
   hergeben.
 excerpt: Werbung & Affiliate Links - Die Yoga-Tücher von Isle Of Mind bestehen
   zu 45 Prozent aus PET-Flaschen. Ich habe jetzt eins ausprobiert und möchte es
   nie wieder hergeben.
-focusKeyword: Isle Of Mind
+fileName: 2020-01---isle-of-mind.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2020-01-12-yoga-56-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2020-01-12-yoga-56-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAJxAAAQMDBAEEAwEAAAAAAAAAAQIEEQADBQYSITFBEyJRYQcjgZH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAGxEAAQUBAQAAAAAAAAAAAAAAAQACERIhMQP/2gAMAwEAAhEDEQA/AMswqWDdt6iwtdlqV3SrmQO5mB99d9VP5bWNzUeGBeXLbDFpQUNrSdxJKYSbnBAK/ABMDwO6sP450+3VYF/KIB3D2WCAQmeisHs/X+0i60iNQOr2PvvmePcIurspsLgC7tUSICRtSYH9jqo2cG7kqwaJzYSDPVmRxOlLrf0E32G8NVLUFQPUBCVj4JIAPjyBWWaiw75OWWtbUotFSeiCAIArftIMruPvhthsjjHLpQhF5aibSQiZAQRyZPChxxPVVfVouJuXVuWmQsPVLlaFs/0rBPhSBH98z4pA70LbN2E5DA6rsld9N5a4LCSE8HiN3PP3VnxjVi1eJdWWiRe5T7jKeZMxET1z9CiitJAPVmsRxMFLRDxbwNEFyTu3KM8zMj4PAj4qD1BnXItK2yAfAUaKKIEcQJJ6v//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel-3.png__l.jpg
 labels:
   - Achtsamkeit
   - Fair Fashion & Beauty
@@ -25,17 +32,12 @@ labels:
   - Yoga-Handtuch
   - Yogalaken
   - Yogatuch
-type: Artikel
-typeName: Produkttest
-date: 2020-01-20T17:41:24.000Z
+focusKeyword: Isle Of Mind
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "27312"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2020-01-12-yoga-56-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2020-01-12-yoga-56-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAJxAAAQMDBAEEAwEAAAAAAAAAAQIEEQADBQYSITFBEyJRYQcjgZH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAGxEAAQUBAQAAAAAAAAAAAAAAAQACERIhMQP/2gAMAwEAAhEDEQA/AMswqWDdt6iwtdlqV3SrmQO5mB99d9VP5bWNzUeGBeXLbDFpQUNrSdxJKYSbnBAK/ABMDwO6sP450+3VYF/KIB3D2WCAQmeisHs/X+0i60iNQOr2PvvmePcIurspsLgC7tUSICRtSYH9jqo2cG7kqwaJzYSDPVmRxOlLrf0E32G8NVLUFQPUBCVj4JIAPjyBWWaiw75OWWtbUotFSeiCAIArftIMruPvhthsjjHLpQhF5aibSQiZAQRyZPChxxPVVfVouJuXVuWmQsPVLlaFs/0rBPhSBH98z4pA70LbN2E5DA6rsld9N5a4LCSE8HiN3PP3VnxjVi1eJdWWiRe5T7jKeZMxET1z9CiitJAPVmsRxMFLRDxbwNEFyTu3KM8zMj4PAj4qD1BnXItK2yAfAUaKKIEcQJJ6v//Z
 subTitle: Mein neues Yoga-Handtuch im Belastungstest
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: Neue Säfte von Voelkel
-seoTitle: Neue Säfte von Voelkel - Vitamine für das Immunsystem
+date: 2018-11-18T16:29:11.000Z
 slug: neue-saefte-von-voelkel
 path: /2018/11/neue-saefte-von-voelkel/
-fileName: 2018-11---neue-saefte-von-voelkel.md
+type: Galerie
+typeName: Produkttest
+title: Neue Säfte von Voelkel
+seoTitle: Neue Säfte von Voelkel - Vitamine für das Immunsystem
+ogTitle: Neue Säfte von Voelkel - Vitamine für das Immunsystem
 description: Von Voelkel gibt es derzeit neun verschiedene Muttersäfte. Drei
   davon habe ich getestet. Und noch drei andere Vitaminlieferanten.
 excerpt: Werbung - Von Voelkel gibt es derzeit neun verschiedene Muttersäfte.
   Drei davon habe ich getestet. Und noch drei andere Vitaminlieferanten.
-focusKeyword: Säfte
+fileName: 2018-11---neue-saefte-von-voelkel.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_11_2018-11-18-voelkel-muttersaefte0003__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_11_2018-11-18-voelkel-muttersaefte0003__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMFBgQH/8QAKxAAAQMDAwMDAwUAAAAAAAAAAQIDBAAFEQYSMRMhIgcUQTKB0SNhcZKh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMFAgT/xAAhEQACAgICAQUAAAAAAAAAAAABAgMRAAQxkUESFFGB8P/aAAwDAQACEQMRAD8A8wsMaTGQ86qIpKktnavqN5Qed31cgZ++Kli4zn5Q1G5IYcmpnBJQtlKklW1SxlsjZjA4x81R0pGkXefFt6p8hhqU4mOt4blJbCzt3EZAIGeDV+3emcs3C42JF1iqlK3Sg4WVbMtJWkDkkFQcP9azG0m0C8gBr4Gc8mtrwEAGiSLs+OOsz8O8o9pp1EttK0TJKRIAGAttSghXYfAyoY/FJhMsWu5agjvnptslxlCCkkLG/wAcD47d/vVWT6XXhFiYubNxgOwY0tUYeakKbKPLgjuNyz3zSr1acKdck3i2oWv6v1txOOOKMz+1dT5+8XFpRyqfTwTff7rE6J1G9ZnyWyNjmAVEA7SOFAftWvskCWi4vXaLf1vvvtqb8IQWjC+xyAef4NFFQ9iRohaHnL0SKxsjOmbZr+5pVuyR5GIXuFyHFqjdJThUeMb8Yx2/NY646Pcj5EiYykD56raf8BJoopR355CA7XWFdWJLKrzn/9k=
+ogImage: null
 labels:
   - Acerola
   - Antioxidantien
@@ -21,17 +28,12 @@ labels:
   - vegane Säfte
   - Vitamin C
   - Voelkel
-type: Galerie
-typeName: Produkttest
-date: 2018-11-18T16:29:11.000Z
+focusKeyword: Säfte
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "22806"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_11_2018-11-18-voelkel-muttersaefte0003__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_11_2018-11-18-voelkel-muttersaefte0003__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMFBgQH/8QAKxAAAQMDAwMDAwUAAAAAAAAAAQIDBAAFEQYSMRMhIgcUQTKB0SNhcZKh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMFAgT/xAAhEQACAgICAQUAAAAAAAAAAAABAgMRAAQxkUESFFGB8P/aAAwDAQACEQMRAD8A8wsMaTGQ86qIpKktnavqN5Qed31cgZ++Kli4zn5Q1G5IYcmpnBJQtlKklW1SxlsjZjA4x81R0pGkXefFt6p8hhqU4mOt4blJbCzt3EZAIGeDV+3emcs3C42JF1iqlK3Sg4WVbMtJWkDkkFQcP9azG0m0C8gBr4Gc8mtrwEAGiSLs+OOsz8O8o9pp1EttK0TJKRIAGAttSghXYfAyoY/FJhMsWu5agjvnptslxlCCkkLG/wAcD47d/vVWT6XXhFiYubNxgOwY0tUYeakKbKPLgjuNyz3zSr1acKdck3i2oWv6v1txOOOKMz+1dT5+8XFpRyqfTwTff7rE6J1G9ZnyWyNjmAVEA7SOFAftWvskCWi4vXaLf1vvvtqb8IQWjC+xyAef4NFFQ9iRohaHnL0SKxsjOmbZr+5pVuyR5GIXuFyHFqjdJThUeMb8Yx2/NY646Pcj5EiYykD56raf8BJoopR355CA7XWFdWJLKrzn/9k=
 subTitle: Vitamine für das Immunsystem
   
 ---

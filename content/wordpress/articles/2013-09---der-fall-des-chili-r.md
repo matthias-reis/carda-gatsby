@@ -1,14 +1,21 @@
 ---
-title: Der Fall des Chili R.
-seoTitle: Die traurige Geschichte eines tapferen Katers - Teil III / IV
+date: 2013-09-26T18:53:13.000Z
 slug: der-fall-des-chili-r
 path: /2013/09/der-fall-des-chili-r/
-fileName: 2013-09---der-fall-des-chili-r.md
+type: Artikel
+typeName: Artikel
+title: Der Fall des Chili R.
+seoTitle: Die traurige Geschichte eines tapferen Katers - Teil III / IV
+ogTitle: Die traurige Geschichte eines tapferen Katers - Teil III / IV
 description: Die Geschichte, die wir mit unserem Kater beim Tierarzt erlebt
   haben, soll vor allem daran erinnern, immer eine zweite Meinung einzuholen.
 excerpt: Die Geschichte, die wir mit unserem Kater beim Tierarzt erlebt haben,
   soll vor allem daran erinnern, immer eine zweite Meinung einzuholen.
-focusKeyword: ""
+fileName: 2013-09---der-fall-des-chili-r.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_23973872064_ed7f212e62_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_23973872064_ed7f212e62_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAnEAABAgUEAgIDAQAAAAAAAAABAgMABAURIQYSE0EHMSJhFDJDUf/EABUBAQEAAAAAAAAAAAAAAAAAAAQD/8QAHREAAgICAwEAAAAAAAAAAAAAAAECAxESBBMhIv/aAAwDAQACEQMRAD8AW5Gm2RyPJs2Bu3dWELDVfmZaoPJSW3JdK1FCnW03Kbm1vq1vcUqiEyqUsOnc6T8k/sDcej/mOjmN7Tnj7StarVRM0627MPy5Bpzt0pZUv+gV2ewOjEulZ9LyvePCWadqj9UrXBPrZaZ2HjShAAWrq593+sRr1amhsEpGIeNXeJ3GKp+XQpFpmUQhtPEZk/EpsLt4zjonswq6snHafNvSb8k9yN2BKlAdfeYPbHRpoRTLeLTOlPbl56RlZxDS2HFp3OpQ6drhBGbdHMXijVMsaeZLbDe1CLAHPUEENbYAX9YaxdoiKQ6iUS8ieK2HW1LsLpAIUMHPsRM/IzzdQnG53iLbq7trG64NvR9QQQS9/I3jrB//2Q==
+ogImage: null
 labels:
   - Chili
   - Geschichten & Erlebtes
@@ -25,17 +32,12 @@ labels:
   - Tierklinik Kritik
   - Tierrechte
   - Unfall bei der OP
-type: Artikel
-typeName: Artikel
-date: 2013-09-26T18:53:13.000Z
+focusKeyword: ""
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "13902"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_23973872064_ed7f212e62_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_23973872064_ed7f212e62_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAnEAABAgUEAgIDAQAAAAAAAAABAgMABAURIQYSE0EHMSJhFDJDUf/EABUBAQEAAAAAAAAAAAAAAAAAAAQD/8QAHREAAgICAwEAAAAAAAAAAAAAAAECAxESBBMhIv/aAAwDAQACEQMRAD8AW5Gm2RyPJs2Bu3dWELDVfmZaoPJSW3JdK1FCnW03Kbm1vq1vcUqiEyqUsOnc6T8k/sDcej/mOjmN7Tnj7StarVRM0627MPy5Bpzt0pZUv+gV2ewOjEulZ9LyvePCWadqj9UrXBPrZaZ2HjShAAWrq593+sRr1amhsEpGIeNXeJ3GKp+XQpFpmUQhtPEZk/EpsLt4zjonswq6snHafNvSb8k9yN2BKlAdfeYPbHRpoRTLeLTOlPbl56RlZxDS2HFp3OpQ6drhBGbdHMXijVMsaeZLbDe1CLAHPUEENbYAX9YaxdoiKQ6iUS8ieK2HW1LsLpAIUMHPsRM/IzzdQnG53iLbq7trG64NvR9QQQS9/I3jrB//2Q==
 subTitle: Ein aufschlussreiches Gespräch mit einem Tierchirurgen
   
 ---

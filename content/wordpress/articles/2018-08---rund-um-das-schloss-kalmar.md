@@ -1,16 +1,23 @@
 ---
-title: Rund um das Schloss Kalmar
-seoTitle: Rund um das Schloss Kalmar - Schwäne, Ostsee-Sund und alte Gemäuer
+date: 2018-08-13T07:07:25.000Z
 slug: rund-um-das-schloss-kalmar
 path: /2018/08/rund-um-das-schloss-kalmar/
-fileName: 2018-08---rund-um-das-schloss-kalmar.md
+type: Galerie
+typeName: Galerie
+title: Rund um das Schloss Kalmar
+seoTitle: Rund um das Schloss Kalmar - Schwäne, Ostsee-Sund und alte Gemäuer
+ogTitle: Rund um das Schloss Kalmar - Schwäne, Ostsee-Sund und alte Gemäuer
 description: Das Schoss von Kalmar erhielt sein heutiges Aussehen, als die
   Wasa-Könige im 16. Jahrhundert aus der Festung einen Renaissance-Palast
   machten.
 excerpt: Das Schoss von Kalmar erhielt sein heutiges Aussehen, als die
   Wasa-Könige im 16. Jahrhundert aus der Festung einen Renaissance-Palast
   machten. Am 21. Juni haben wir es besucht und einiges gesehen.
-focusKeyword: Kalmar
+fileName: 2018-08---rund-um-das-schloss-kalmar.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_29071713947_939b8375a0_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_29071713947_939b8375a0_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcE/8QALBAAAQQBAwIFAgcAAAAAAAAAAQIDBBEFABIhBjETIjJBUQcVI1JhcoGhsf/EABcBAQEBAQAAAAAAAAAAAAAAAAYEAgP/xAAhEQACAQMEAwEAAAAAAAAAAAABAgADESEEBTFxEkFh8f/aAAwDAQACEQMRAD8Aik497HeIUY1qUwpJAMlneUD35B/v/NSkbpCTk4ysh9nfZjFIFw0FaUn8xR6q/ber61CwkTOR8bISJb8ncFtIGwtmvIAkX6u/Hwb0zqnI5DAdPvOY99WMDS0tsxGPWsK8tqUbCfc0Bfbm+yepulluq5HPUOptoLWZseh9mVzMQI1R4ojSAjzmY04diwrgWD6auqNaVJfXAhP4+GGvxSS4ttW/bdcBXv276v304z0o9O+CqAl2VFUiO85e9x8lJIUtagTYHHb2GuHMxPCziGpWPp6Y2txKpatxFKATQASDfI/jVOn1yVVDuMd8n9ktfSPSJWmc9cCZJm+qHsp1LMl0lqS46dy2tyANiK8qgdwFJ+ffSG+o0HJx1sPzVDeNm99biVE8AlKvi9GjQrx9xh5GTb8aW841cpQCUBs7HnEKXR7qI9R/XVYTkmmsmmSTJX4RFh1RcIUlV8Entxo0a5sSBYGb+2n/2Q==
+ogImage: null
 labels:
   - Fernweh
   - Kalmar Slott
@@ -26,17 +33,12 @@ labels:
   - Sverige
   - Tripp Trapp Trull
   - Wasa
-type: Galerie
-typeName: Galerie
-date: 2018-08-13T07:07:25.000Z
+focusKeyword: Kalmar
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "21709"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_29071713947_939b8375a0_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_29071713947_939b8375a0_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcE/8QALBAAAQQBAwIFAgcAAAAAAAAAAQIDBBEFABIhBjETIjJBUQcVI1JhcoGhsf/EABcBAQEBAQAAAAAAAAAAAAAAAAYEAgP/xAAhEQACAQMEAwEAAAAAAAAAAAABAgADESEEBTFxEkFh8f/aAAwDAQACEQMRAD8Aik497HeIUY1qUwpJAMlneUD35B/v/NSkbpCTk4ysh9nfZjFIFw0FaUn8xR6q/ber61CwkTOR8bISJb8ncFtIGwtmvIAkX6u/Hwb0zqnI5DAdPvOY99WMDS0tsxGPWsK8tqUbCfc0Bfbm+yepulluq5HPUOptoLWZseh9mVzMQI1R4ojSAjzmY04diwrgWD6auqNaVJfXAhP4+GGvxSS4ttW/bdcBXv276v304z0o9O+CqAl2VFUiO85e9x8lJIUtagTYHHb2GuHMxPCziGpWPp6Y2txKpatxFKATQASDfI/jVOn1yVVDuMd8n9ktfSPSJWmc9cCZJm+qHsp1LMl0lqS46dy2tyANiK8qgdwFJ+ffSG+o0HJx1sPzVDeNm99biVE8AlKvi9GjQrx9xh5GTb8aW841cpQCUBs7HnEKXR7qI9R/XVYTkmmsmmSTJX4RFh1RcIUlV8Entxo0a5sSBYGb+2n/2Q==
 subTitle: Schwäne, Ostsee-Sund und alte Gemäuer
   
 ---

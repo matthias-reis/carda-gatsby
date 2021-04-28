@@ -1,14 +1,21 @@
 ---
-title: Herbstgedanken
-seoTitle: Herbstgedanken - kurzer Tagebucheintrag
+date: 2011-10-18T12:15:05.000Z
 slug: herbstgedanken
 path: /2011/10/herbstgedanken/
-fileName: 2011-10---herbstgedanken.md
+type: Artikel
+typeName: Artikel
+title: Herbstgedanken
+seoTitle: Herbstgedanken - kurzer Tagebucheintrag
+ogTitle: Herbstgedanken - kurzer Tagebucheintrag
 description: Steve Jobs Lieblingsrollis sind nicht mehr lieferbar. Innerhalb von
   ein paar Tagen verkaufte der Hersteller mehr, als sonst in einem Jahr.
 excerpt: Steve Jobs Lieblingsrollis sind nicht mehr lieferbar. Innerhalb von ein
   paar Tagen verkaufte der Hersteller mehr, als sonst in einem Jahr.
-focusKeyword: ""
+fileName: 2011-10---herbstgedanken.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_10_getimage__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_10_getimage__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCAwQF/8QAKBAAAQQBBAEDBAMAAAAAAAAAAQIDBBEFAAYSITETIkEHFFFxYZHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACARAAEEAQUBAQAAAAAAAAAAAAEAAgMRBAUTITFxEkH/2gAMAwEAAhEDEQA/ALttbcdyEhbypEkhKilBQsppN+OtG8TCIivswDKlBbvhBdIFkWDV93qvEZBnHwo2NQ00ibLbK0OOO8E87sC/g+P70NPbljuZlTCVcsjEp11j3KcCxVBJujRsgfgAfuLJ1LYpsYuu/P1Ts0jfJdI40bpGJ2dIjBX2mQmMA98UPKA83+dD+Tx2XhZTFlzM5BcZMxpS21SFFJAWPI00424oknCOLBQqQyEtrJBRzVxskBQ5AfsXpVZPczOQz8KG5QQ7JaCCDd2od6qfkRvZ9V2lQ4D4XUXHj1IDf27clJyclttRQhiQ6lq1HkgJPGinxV2RfesGwoLWWyTwQuS5LQhEgFbbrgNODkV+klSiKsX5sjUN1bc3GzuPMSDhMvHQuS85zRHWQEqcJHuA7Gs7bGYxsoLxGDyMZ1xgNqUYzvKymlFJPfZ/w0oNbXC145CDymDit+hEROAlx5c6fHdcQ0uC6WWweXtKgRZqh2e/dRqtc7b+Yemb82w0/JDsl6cyXwpr01ghy+KkV7SKHg1RFfOgNvG5/HTvTMDJxnZNsL4x1guAkWkdd/HQ/jRx9MtvZ9v6jbekysRlFMszUrdW5CWlKE92SSnqiB5P60oxMCIvBX//2Q==
+ogImage: null
 labels:
   - Arbeit
   - Ausbildung
@@ -57,17 +64,12 @@ labels:
   - Trottoir
   - unglücklich
   - Zukunft
-type: Artikel
-typeName: Artikel
-date: 2011-10-18T12:15:05.000Z
+focusKeyword: ""
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "2737"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_10_getimage__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_10_getimage__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCAwQF/8QAKBAAAQQBBAEDBAMAAAAAAAAAAQIDBBEFAAYSITETIkEHFFFxYZHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACARAAEEAQUBAQAAAAAAAAAAAAEAAgMRBAUTITFxEkH/2gAMAwEAAhEDEQA/ALttbcdyEhbypEkhKilBQsppN+OtG8TCIivswDKlBbvhBdIFkWDV93qvEZBnHwo2NQ00ibLbK0OOO8E87sC/g+P70NPbljuZlTCVcsjEp11j3KcCxVBJujRsgfgAfuLJ1LYpsYuu/P1Ts0jfJdI40bpGJ2dIjBX2mQmMA98UPKA83+dD+Tx2XhZTFlzM5BcZMxpS21SFFJAWPI00424oknCOLBQqQyEtrJBRzVxskBQ5AfsXpVZPczOQz8KG5QQ7JaCCDd2od6qfkRvZ9V2lQ4D4XUXHj1IDf27clJyclttRQhiQ6lq1HkgJPGinxV2RfesGwoLWWyTwQuS5LQhEgFbbrgNODkV+klSiKsX5sjUN1bc3GzuPMSDhMvHQuS85zRHWQEqcJHuA7Gs7bGYxsoLxGDyMZ1xgNqUYzvKymlFJPfZ/w0oNbXC145CDymDit+hEROAlx5c6fHdcQ0uC6WWweXtKgRZqh2e/dRqtc7b+Yemb82w0/JDsl6cyXwpr01ghy+KkV7SKHg1RFfOgNvG5/HTvTMDJxnZNsL4x1guAkWkdd/HQ/jRx9MtvZ9v6jbekysRlFMszUrdW5CWlKE92SSnqiB5P60oxMCIvBX//2Q==
 subTitle: Tagebucheintrag
   
 ---

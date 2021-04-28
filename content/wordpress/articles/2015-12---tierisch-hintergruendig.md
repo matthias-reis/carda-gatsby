@@ -1,14 +1,21 @@
 ---
-title: Tierisch hintergründig
-seoTitle: Tierisch hintergründig - Bilder von Denise Slapansky
+date: 2015-12-01T11:50:53.000Z
 slug: tierisch-hintergruendig-bilder-von-denise-slapansky
 path: /2015/12/tierisch-hintergruendig-bilder-von-denise-slapansky/
-fileName: 2015-12---tierisch-hintergruendig.md
+type: Artikel
+typeName: Artikel
+title: Tierisch hintergründig
+seoTitle: Tierisch hintergründig - Bilder von Denise Slapansky
+ogTitle: Tierisch hintergründig - Bilder von Denise Slapansky
 description: Die vegane Künstlerin Denise Slapansky zeigte in ihrer Ausstellung
   "Tierisch hintergründig" sogenannte "Nutztiere" wie sie wirklich sind.
 excerpt: Die vegane Künstlerin Denise Slapansky zeigte in ihrer Ausstellung
   "Tierisch hintergründig" sogenannte "Nutztiere" wie sie wirklich sind.
-focusKeyword: Tierisch
+fileName: 2015-12---tierisch-hintergruendig.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_Mehr-als-die-Summe-der-Teile-Sissi-Amaurette__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_Mehr-als-die-Summe-der-Teile-Sissi-Amaurette__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKBAAAQMCBgMAAQUAAAAAAAAAAQIDBAURAAYSISIxBxNBFDJRYoHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EAB8RAAEEAgIDAAAAAAAAAAAAAAEAAgMREiEEUUGR4f/aAAwDAQACEQMRAD8Ax6MvDNuZI1HhFyPHjpU7JkPoShxTYcsUIT2rcg/0L410WhZUyTmJiKy1UnpchHrcKZCFlq5BCVI4921H6LDrFDWV0ik+RcoFtaG4TTyXX3nlXQRqIVyPy7tx87xoqHRg7VZjlNYXNFlGO+m5QpCyVJUHPotYd37xKcmtBAs+02SZ0UL6OuuyaVzIn0b8B5+n0tuVMSdKDMbASkjbf9RT3fim5wmvIOQ6xltl6ryEwDEddJP4i1FDJUbpHJIOn4Dh50fKsenT25MmM6opT73QqS4tLbgF9X8gk3t/hig8v1RuRkQohRfZTKhDW+iWtSkBJRzCNJAIUQLi9v2tfDHRS1cpB3pM43LwOMY0RR+JYZipcepV3L9LhSWSJMjWotsKbCCXAFjc7jmVDrcG/Yx0xRmo8CnsQobfpisIS00hPxIGDBimNgYKCjkeXU3wpUj3KLJYWlCUnlqTqun6BuN8KnyzHzVLyrUIjDkCUw85oWhpstOes7gcllJsQN++7YMGNOGQpGF5jcCF/9k=
+ogImage: null
 labels:
   - Ausstellung
   - Bilder
@@ -18,17 +25,12 @@ labels:
   - Tiere
   - Tierrechte
   - vegan
-type: Artikel
-typeName: Artikel
-date: 2015-12-01T11:50:53.000Z
+focusKeyword: Tierisch
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "13248"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_Mehr-als-die-Summe-der-Teile-Sissi-Amaurette__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_Mehr-als-die-Summe-der-Teile-Sissi-Amaurette__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKBAAAQMCBgMAAQUAAAAAAAAAAQIDBAURAAYSISIxBxNBFDJRYoHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EAB8RAAEEAgIDAAAAAAAAAAAAAAEAAgMREiEEUUGR4f/aAAwDAQACEQMRAD8Ax6MvDNuZI1HhFyPHjpU7JkPoShxTYcsUIT2rcg/0L410WhZUyTmJiKy1UnpchHrcKZCFlq5BCVI4921H6LDrFDWV0ik+RcoFtaG4TTyXX3nlXQRqIVyPy7tx87xoqHRg7VZjlNYXNFlGO+m5QpCyVJUHPotYd37xKcmtBAs+02SZ0UL6OuuyaVzIn0b8B5+n0tuVMSdKDMbASkjbf9RT3fim5wmvIOQ6xltl6ryEwDEddJP4i1FDJUbpHJIOn4Dh50fKsenT25MmM6opT73QqS4tLbgF9X8gk3t/hig8v1RuRkQohRfZTKhDW+iWtSkBJRzCNJAIUQLi9v2tfDHRS1cpB3pM43LwOMY0RR+JYZipcepV3L9LhSWSJMjWotsKbCCXAFjc7jmVDrcG/Yx0xRmo8CnsQobfpisIS00hPxIGDBimNgYKCjkeXU3wpUj3KLJYWlCUnlqTqun6BuN8KnyzHzVLyrUIjDkCUw85oWhpstOes7gcllJsQN++7YMGNOGQpGF5jcCF/9k=
 subTitle: Die neue Ausstellung von Denise Slapansky
   
 ---

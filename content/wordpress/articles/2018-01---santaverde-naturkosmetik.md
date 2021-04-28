@@ -1,17 +1,25 @@
 ---
+date: 2018-01-22T06:47:08.000Z
+slug: santaverde
+path: /2018/01/santaverde/
+type: Artikel
+typeName: Produkttest
 title: Santaverde Naturkosmetik
 seoTitle: Santaverde Naturkosmetik - Zertifizierte vegane Schönheitspflege auf
   Aloe Vera Basis
-slug: santaverde
-path: /2018/01/santaverde/
-fileName: 2018-01---santaverde-naturkosmetik.md
+ogTitle: Santaverde Naturkosmetik - Zertifizierte vegane Schönheitspflege auf
+  Aloe Vera Basis
 description: Santaverde bietet Naturkosmetik auf Basis wertvoller Aloe Vera. Ich
   habe die Produkte jetzt genau untersucht und ausprobiert. Hier ist mein
   Testbericht.
 excerpt: Werbung - Santaverde bietet Naturkosmetik auf Basis wertvoller Aloe
   Vera. Ich habe die Produkte jetzt genau untersucht und ausprobiert. Hier ist
   mein Testbericht.
-focusKeyword: Santaverde
+fileName: 2018-01---santaverde-naturkosmetik.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-8__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-8__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBggH/8QAKBAAAQQBBAEDBAMAAAAAAAAAAQIDBAURAAYSITEHQVETFSIyYaGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECBP/EABwRAQACAgMBAAAAAAAAAAAAAAEAAgMRBBIhIv/aAAwDAQACEQMRAD8A0hLllOe9UDcfqVWUd9JqpkaYp5hpp1TjakcSHCQMAqz5GPGmG8b+TXykwq6K09KUElTjyjwbBz2QOyQB/Y1yfdt1t6Xeyn7iuD8iRFaBUh7gGi3lZHf7AHx/ujubCab8TLTEZrHyy5QfWanlbhg0rVbbImzHW2Eqc+lwbWvxywrPXvjXTa2a649xddCsJPQQEj21l+iu9pztwQrGr2rKrVNWkVa7GW+C2xlffI598jWka1C0LCnCgKII/E9e3zp79mfSG2NrKmr5qwuXEZdWBjkod4+MjUH7TDZADMdlsJ8BKB1o0aZKclkKq6kWZtmmsnQuxrIUtYIPJ5hKj14z84/nT6NDZRjihIAGAAnGNGjQyVXxn//Z
+ogImage: null
 labels:
   - Aloe Vera
   - aloepur
@@ -44,17 +52,12 @@ labels:
   - vegan beauty
   - Vegan Society
   - vegane Pflege
-type: Artikel
-typeName: Produkttest
-date: 2018-01-22T06:47:08.000Z
+focusKeyword: Santaverde
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "18999"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-8__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-8__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBggH/8QAKBAAAQQBBAEDBAMAAAAAAAAAAQIDBAURAAYSITEHQVETFSIyYaGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECBP/EABwRAQACAgMBAAAAAAAAAAAAAAEAAgMRBBIhIv/aAAwDAQACEQMRAD8A0hLllOe9UDcfqVWUd9JqpkaYp5hpp1TjakcSHCQMAqz5GPGmG8b+TXykwq6K09KUElTjyjwbBz2QOyQB/Y1yfdt1t6Xeyn7iuD8iRFaBUh7gGi3lZHf7AHx/ujubCab8TLTEZrHyy5QfWanlbhg0rVbbImzHW2Eqc+lwbWvxywrPXvjXTa2a649xddCsJPQQEj21l+iu9pztwQrGr2rKrVNWkVa7GW+C2xlffI598jWka1C0LCnCgKII/E9e3zp79mfSG2NrKmr5qwuXEZdWBjkod4+MjUH7TDZADMdlsJ8BKB1o0aZKclkKq6kWZtmmsnQuxrIUtYIPJ5hKj14z84/nT6NDZRjihIAGAAnGNGjQyVXxn//Z
 subTitle: Zertifizierte vegane Schönheitspflege auf Aloe Vera Basis
   
 ---

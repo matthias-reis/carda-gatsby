@@ -1,16 +1,23 @@
 ---
-title: Das freie Wochenende
-seoTitle: Das freie Wochenende - Fieber im Nebel - eine wahre Geschichte
+date: 2017-02-20T15:17:57.000Z
 slug: das-freie-wochenende
 path: /2017/02/das-freie-wochenende/
-fileName: 2017-02---das-freie-wochenende.md
+type: Artikel
+typeName: Artikel
+title: Das freie Wochenende
+seoTitle: Das freie Wochenende - Fieber im Nebel - eine wahre Geschichte
+ogTitle: Das freie Wochenende - Nebel am Meer
 description: Ein freies Wochenende hatte ich schon sehr lange nicht mehr. Wir
   wollten Samstag und Sonntag am Meer also mal so richtig genießen. Doch es kam
   alles anders.
 excerpt: Ein freies Wochenende hatte ich schon sehr lange nicht mehr. Wir
   wollten Samstag und Sonntag am Meer also mal so richtig genießen. Doch es kam
   alles anders.
-focusKeyword: Wochenende
+fileName: 2017-02---das-freie-wochenende.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_32857612592_50ed69dbfe_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_32857612592_50ed69dbfe_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwT/xAArEAABAwMDAwIGAwAAAAAAAAABAgMEBREhAAYTEjFBFGEVIiNicYEykaH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwL/xAAcEQADAAMAAwAAAAAAAAAAAAAAAQIRITESIpH/2gAMAwEAAhEDEQA/AEzYe8XFvIj1duMlsAJMkoIAP3kHH506V2rxmRIjsvSHS4ji446ypF836bZUog+Man9N28/CheqlIjsAX4lVF1LXHj+SWge/5zph2q+afUIdRRFn1o8ib9Mcss9Jx3OT4N8D3trLpvRZRE+z+HPSKVUpkud6KX6AyGuBVk3cKLgiwAPRgWtbGlmtbToVJeUlc/4jONythhJcXf7j2H71W9+blb3Akx5ESTGcSgqs2QkLXbAWpBClpN7kX8DU5muPM0lMDrbTFbJIbCUpBJ8m3c5831peMrCIunTy+kxdqbqKm6XAX+NRtyrJ9+/fT7N38+1FituQG1IH0bNvLRdIAtfJzn/NGjUbbXBvhttWvs1HdlGhiCWg9MYbUovlfy9YuLEdiMfvV+qdCojnKU0eG3fCuNHTf+tGjRNMZ2j/2Q==
+ogImage: null
 labels:
   - Ausflug
   - Deich
@@ -24,17 +31,12 @@ labels:
   - Nebel
   - nimm dich selbst nicht zu ernst
   - Wellness
-type: Artikel
-typeName: Artikel
-date: 2017-02-20T15:17:57.000Z
+focusKeyword: Wochenende
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "15917"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_32857612592_50ed69dbfe_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_32857612592_50ed69dbfe_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwT/xAArEAABAwMDAwIGAwAAAAAAAAABAgMEBREhAAYTEjFBFGEVIiNicYEykaH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwL/xAAcEQADAAMAAwAAAAAAAAAAAAAAAQIRITESIpH/2gAMAwEAAhEDEQA/AEzYe8XFvIj1duMlsAJMkoIAP3kHH506V2rxmRIjsvSHS4ji446ypF836bZUog+Man9N28/CheqlIjsAX4lVF1LXHj+SWge/5zph2q+afUIdRRFn1o8ib9Mcss9Jx3OT4N8D3trLpvRZRE+z+HPSKVUpkud6KX6AyGuBVk3cKLgiwAPRgWtbGlmtbToVJeUlc/4jONythhJcXf7j2H71W9+blb3Akx5ESTGcSgqs2QkLXbAWpBClpN7kX8DU5muPM0lMDrbTFbJIbCUpBJ8m3c5831peMrCIunTy+kxdqbqKm6XAX+NRtyrJ9+/fT7N38+1FituQG1IH0bNvLRdIAtfJzn/NGjUbbXBvhttWvs1HdlGhiCWg9MYbUovlfy9YuLEdiMfvV+qdCojnKU0eG3fCuNHTf+tGjRNMZ2j/2Q==
 subTitle: Fieber im Nebel
   
 ---

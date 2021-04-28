@@ -1,16 +1,23 @@
 ---
-title: Acaraa im Test
-seoTitle: Acaraa im Test - natürliche Pflegeöle für Haut und Haar
+date: 2020-02-08T20:35:55.000Z
 slug: acaraa-im-test
 path: /2020/02/acaraa-im-test/
-fileName: 2020-02---acaraa-im-test.md
+type: Artikel
+typeName: Artikel
+title: Acaraa im Test
+seoTitle: Acaraa im Test - natürliche Pflegeöle für Haut und Haar
+ogTitle: Acaraa im Test - natürliche Pflegeöle für Haut und Haar
 description: Ich habe das Haaröl und der Hautöl von Acaraa getestet. Die
   Naturkosmetikprodukte aus München habe ich genau im richtigen Moment für mich
   entdeckt.
 excerpt: Werbung & Affiliate Links - Ich habe das Haaröl und der Hautöl von
   Acaraa getestet. Die Naturkosmetikprodukte aus München habe ich genau im
   richtigen Moment für mich entdeckt.
-focusKeyword: Acaraa
+fileName: 2020-02---acaraa-im-test.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_P1250596__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_P1250596__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAKhAAAQMDAwMCBwEAAAAAAAAAAQIDBAAFEQYSIRMxQVFhBxQiI3GB0bH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwIF/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAwRBESEFEyIx8P/aAAwDAQACEQMRAD8Am1u0bbXYjjY65eUnCXirlB9QBxV40N8NbDdNIyzBca678dUZSAwjMZZAwok5JOQDnyDS1YLLCQlsyFPSVcZSk7E4/X9p0dvUbSEVh+MlqK3LUI524GVEgjnycbq5/kcPmk2MD8dAxOLlu7imo9tuc/2K3S7ZPvEWe0qLdocNz7Cm9yi4kKwUg+v0n9g+aTm5nTgNJlpCs7jnjdx5I/vpVw1lp2HcpV1mshTV9cJcam9ZeQsdj3wAQAO1STV9vnMxmJFxEN8ry31mtyVAgZwrsD58eDUcWtlPsJ4PU3lqWArXv99yqwL9Dhstrmy48dGAQXFZJ/CRya1muNbQb1a40KB8wosPdYvuJCQo7SBhPfuc84oop2fc3Br0ZHxlKhhdsTOjXV+8WtuTGUkJSlIcWpYSEnHvStqqG9IgvwFJQvqJC0uIUCAvuOfb/DRRSaqVKBjuGuvZbWUan//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Design-ohne-Titel-5.png__l.jpg
 labels:
   - Acaraa
   - Acaraa Testbericht
@@ -31,17 +38,12 @@ labels:
   - Rapswachskerze
   - vegan beauty
   - vegane Naturkosmetik
-type: Artikel
-typeName: Artikel
-date: 2020-02-08T20:35:55.000Z
+focusKeyword: Acaraa
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "27425"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_P1250596__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_P1250596__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAKhAAAQMDAwMCBwEAAAAAAAAAAQIDBAAFEQYSIRMxQVFhBxQiI3GB0bH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwIF/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAwRBESEFEyIx8P/aAAwDAQACEQMRAD8Am1u0bbXYjjY65eUnCXirlB9QBxV40N8NbDdNIyzBca678dUZSAwjMZZAwok5JOQDnyDS1YLLCQlsyFPSVcZSk7E4/X9p0dvUbSEVh+MlqK3LUI524GVEgjnycbq5/kcPmk2MD8dAxOLlu7imo9tuc/2K3S7ZPvEWe0qLdocNz7Cm9yi4kKwUg+v0n9g+aTm5nTgNJlpCs7jnjdx5I/vpVw1lp2HcpV1mshTV9cJcam9ZeQsdj3wAQAO1STV9vnMxmJFxEN8ry31mtyVAgZwrsD58eDUcWtlPsJ4PU3lqWArXv99yqwL9Dhstrmy48dGAQXFZJ/CRya1muNbQb1a40KB8wosPdYvuJCQo7SBhPfuc84oop2fc3Br0ZHxlKhhdsTOjXV+8WtuTGUkJSlIcWpYSEnHvStqqG9IgvwFJQvqJC0uIUCAvuOfb/DRRSaqVKBjuGuvZbWUan//Z
 subTitle: Natürliche Pflegeöle für Haut und Haar
   
 ---

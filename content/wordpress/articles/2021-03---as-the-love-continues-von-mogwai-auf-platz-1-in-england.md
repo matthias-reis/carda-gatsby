@@ -1,15 +1,22 @@
 ---
-title: '"As The Love Continues" von Mogwai auf Platz 1 in England'
-seoTitle: '"As The Love Continues" von Mogwai auf Platz 1 in England'
+date: 2021-03-03T10:14:02.000Z
 slug: as-the-love-continues-mogwai
 path: /2021/03/as-the-love-continues-mogwai/
-fileName: 2021-03---as-the-love-continues-von-mogwai-auf-platz-1-in-england.md
+type: Artikel
+typeName: Review
+title: '"As The Love Continues" von Mogwai auf Platz 1 in England'
+seoTitle: '"As The Love Continues" von Mogwai auf Platz 1 in England'
+ogTitle: '"As The Love Continues" von Mogwai auf Platz 1 in England'
 description: Mit "As The Love Continues" sind Mogwai als erste Post-Rock Band
   auf Platz 1 der britischen Charts gelandet.
 excerpt: English & German – Mit "As The Love Continues" sind Mogwai als erste
   Post-Rock Band auf Platz 1 der britischen Charts gelandet. Die Platte spiegelt
   den Zeitgeist wider.
-focusKeyword: As The Love Continues
+fileName: 2021-03---as-the-love-continues-von-mogwai-auf-platz-1-in-england.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-02-santaverde-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-02-santaverde-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgACBAUI/8QAKRAAAgIBAwMDAwUAAAAAAAAAAQIDBBEABSEGEjEHEyIVQVFhkcHR4f/EABcBAQEBAQAAAAAAAAAAAAAAAAQDBQb/xAAhEQACAQQCAgMAAAAAAAAAAAABAwIABBEhEjEFUSJhwf/aAAwDAQACEQMRAD8ALI6lN4keWwEgnYHssyL2kE8Y7v08DWFWPqkiGasm8rXIRkSGWXtKt4Awecj8Z0U3KzKlHdGMz+1PfkfAbg/NvI/bSroz1HtUL9X6hZJoRhA0IT4KFCrkAeDgZ4+/OOTqnLmNAVZ6pJwCSdZp70vS6irdQbe1z61HSWQh0mllaPHacAgnH+6Sw1onmELDDe8SCRjPOuVv3qLVs1hFsdexZluGWKo4XHdIhGAV8+Of61vVpZFowzbhJEloKHmKn4hvJxrkfOXrLZ62qlo6MfeCd/lOhbnhhgxXm+FbM81kzwAw2pGkdJEb7sT/ADpBFT2+j2RVaa2ElRffd0YYOckKeePB451atb0jnulru5Rx8Rr6pPsnUC7VuFIBNvioQzs7RxRsH7nBBk7sckAAY4866d/1MFbcFloUoZwnIazP2AH84HOrVojrRb3xczZj16oDGa0O6//Z
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_as-the-love-continues-fb.png__l.jpg
 labels:
   - As The Love Continues
   - Bands
@@ -18,17 +25,12 @@ labels:
   - Mogwai
   - Post-Rock
   - Zeitgeist
-type: Artikel
-typeName: Review
-date: 2021-03-03T10:14:02.000Z
+focusKeyword: As The Love Continues
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "33056"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-02-santaverde-2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-02-santaverde-2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgACBAUI/8QAKRAAAgIBAwMDAwUAAAAAAAAAAQIDBBEABSEGEjEHEyIVQVFhkcHR4f/EABcBAQEBAQAAAAAAAAAAAAAAAAQDBQb/xAAhEQACAQQCAgMAAAAAAAAAAAABAwIABBEhEjEFUSJhwf/aAAwDAQACEQMRAD8ALI6lN4keWwEgnYHssyL2kE8Y7v08DWFWPqkiGasm8rXIRkSGWXtKt4Awecj8Z0U3KzKlHdGMz+1PfkfAbg/NvI/bSroz1HtUL9X6hZJoRhA0IT4KFCrkAeDgZ4+/OOTqnLmNAVZ6pJwCSdZp70vS6irdQbe1z61HSWQh0mllaPHacAgnH+6Sw1onmELDDe8SCRjPOuVv3qLVs1hFsdexZluGWKo4XHdIhGAV8+Of61vVpZFowzbhJEloKHmKn4hvJxrkfOXrLZ62qlo6MfeCd/lOhbnhhgxXm+FbM81kzwAw2pGkdJEb7sT/ADpBFT2+j2RVaa2ElRffd0YYOckKeePB451atb0jnulru5Rx8Rr6pPsnUC7VuFIBNvioQzs7RxRsH7nBBk7sckAAY4866d/1MFbcFloUoZwnIazP2AH84HOrVojrRb3xczZj16oDGa0O6//Z
 subTitle: Die Musik der Introvertierten in den Charts
   
 ---

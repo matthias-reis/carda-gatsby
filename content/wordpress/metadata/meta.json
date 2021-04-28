@@ -1677,6 +1677,14 @@
         "message": "unknown: Unterminated JSX contents (100:16)"
       },
       {
+        "path": "https://cardamonchai.com/2018/11/sonnenuntergang-mit-bester-aussicht/",
+        "message": "unknown: Expected corresponding JSX closing tag for <MDXLayout> (19:0)"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/11/der-praesident/",
+        "message": "unknown: Expected corresponding JSX closing tag for <MDXLayout> (15:0)"
+      },
+      {
         "path": "https://cardamonchai.com/2018/12/neues-von-santaverde/",
         "message": "unknown: Unterminated JSX contents (71:16)"
       },

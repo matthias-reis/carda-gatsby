@@ -1,15 +1,22 @@
 ---
-title: Bald kommt das neue Tool Album
-seoTitle: Bald kommt das neue Tool Album "Fear Inoculum" - hier ist die erste Single
+date: 2019-08-07T16:35:50.000Z
 slug: bald-kommt-das-neue-tool-album
 path: /2019/08/bald-kommt-das-neue-tool-album/
-fileName: 2019-08---bald-kommt-das-neue-tool-album.md
+type: Artikel
+typeName: Review
+title: Bald kommt das neue Tool Album
+seoTitle: Bald kommt das neue Tool Album "Fear Inoculum" - hier ist die erste Single
+ogTitle: Bald kommt das neue Tool Album "Fear Inoculum" - hier ist die erste Single
 description: Es ist soweit! Tool haben für den 30. August nach 13 Jahren ihre
   neue Platte "Fear Inoculum" angekündigt. Die erste Vorauskopplung ist schon
   da!
 excerpt: Es ist soweit! Tool haben für den 30. August nach 13 Jahren ihre neue
   Platte "Fear Inoculum" angekündigt. Die erste Vorauskopplung ist schon da!
-focusKeyword: Tool Album
+fileName: 2019-08---bald-kommt-das-neue-tool-album.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_tool-fear-inoculum-single-980x518__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_tool-fear-inoculum-single-980x518__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAARACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAYH/8QALhAAAQMCAwUGBwAAAAAAAAAAAQIDBAARBTFxBgcSE4EhIzNRobEyQURzgoSy/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAMBAv/EABgRAQEBAQEAAAAAAAAAAAAAAAEAETFB/9oADAMBAAIRAxEAPwDgqcKgxIyV4pPixVqF0tJQVuH8Re3W1LJL8Voq5CFOIyu7HAB9af7vZuy0NMl3aaDiU2as91yuDgF/PiN71WxGchE2W/hzamo7oKkIIvZF7DXP0q6GWC7KY0iG5w85ktpyKmmbj3pocLgTWFKwyfFkOJFyypBbcGiVZ9L1EGaHJMRychTjLIClIAzQDY6eenbVzeBK2XnJjv7NRMSiTUdjqXOWWz8wQUm4NAMiu2MY+B3Qe9Mfpv10f0aKKl5dFKPAH2XqXHwutFFDkv/Z
+ogImage: null
 labels:
   - abundance
   - Bands
@@ -18,17 +25,12 @@ labels:
   - Maynard James Keenan
   - Tool
   - Tool Band
-type: Artikel
-typeName: Review
-date: 2019-08-07T16:35:50.000Z
+focusKeyword: Tool Album
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "25722"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_tool-fear-inoculum-single-980x518__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_tool-fear-inoculum-single-980x518__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAARACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAYH/8QALhAAAQMCAwUGBwAAAAAAAAAAAQIDBAARBTFxBgcSE4EhIzNRobEyQURzgoSy/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAMBAv/EABgRAQEBAQEAAAAAAAAAAAAAAAEAETFB/9oADAMBAAIRAxEAPwDgqcKgxIyV4pPixVqF0tJQVuH8Re3W1LJL8Voq5CFOIyu7HAB9af7vZuy0NMl3aaDiU2as91yuDgF/PiN71WxGchE2W/hzamo7oKkIIvZF7DXP0q6GWC7KY0iG5w85ktpyKmmbj3pocLgTWFKwyfFkOJFyypBbcGiVZ9L1EGaHJMRychTjLIClIAzQDY6eenbVzeBK2XnJjv7NRMSiTUdjqXOWWz8wQUm4NAMiu2MY+B3Qe9Mfpv10f0aKKl5dFKPAH2XqXHwutFFDkv/Z
 subTitle: '"Fear Inoculum" ist die Vorauskopplung'
   
 ---

@@ -1,14 +1,21 @@
 ---
-title: Von Bewerbungen, Neuerscheinungen und Katzen im Küchenschrank
-seoTitle: Von Bewerbungen, Neuerscheinungen und Katzen im Kühlschrank
+date: 2012-05-18T08:46:04.000Z
 slug: von-bewerbungen-neuerscheinungen-und-katzen-im-kuchenschrank
 path: /2012/05/von-bewerbungen-neuerscheinungen-und-katzen-im-kuchenschrank/
-fileName: 2012-05---von-bewerbungen-neuerscheinungen-und-katzen-im-kuechenschrank.md
+type: Artikel
+typeName: Artikel
+title: Von Bewerbungen, Neuerscheinungen und Katzen im Küchenschrank
+seoTitle: Von Bewerbungen, Neuerscheinungen und Katzen im Kühlschrank
+ogTitle: Von Bewerbungen, Neuerscheinungen und Katzen im Kühlschrank
 description: Das Wochenende werde ich heute mal wieder mit etwas einläuten, was
   ich schon viel zu lange nicht mehr getan habe. Einem Blogeintrag.
 excerpt: Das Wochenende werde ich heute mal wieder mit etwas einläuten, was ich
   schon viel zu lange nicht mehr getan habe. Einem Blogeintrag.
-focusKeyword: ""
+fileName: 2012-05---von-bewerbungen-neuerscheinungen-und-katzen-im-kuechenschrank.md
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_05_img_20120518_095143__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_05_img_20120518_095143__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQFBgcI/8QALRAAAQMDAwMCBAcAAAAAAAAAAQIEBQMGEQASIRMUMSJRBzRx0kFCc4GCkcL/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxEhBDESMoH/2gAMAwEAAhEDEQA/AMRuW4J5Vzy4EzKAd7XGA8qADFRXA9WlEzlw44nJfGM8Pav3afkUtRcksp1VSgF+4znzjqq/DSblywRVX0l7s5ACQePr7aIrsb1UweSjsw1KauCoOZ+Y3ePn6v3am7Kmp9N6W6mpNy6kKk2qVBTyqpKgayAQQVYIPtoFhx6bjuuNiKCPU8cIpHaSSlGcqUePASFfTXRV+2natoV4FzCQjCk5dTDNok1wuotO6qn1UypR2qASTpjQ6HD6mbXKOtzlO6N6LomFJOD31fCh+qrSCEnBKlD+Q1Y7shZZM/KpXDyOS9cKwWlQ+aqsc7eeNRbaDf8AVSakPI7c8ntKp/zqurnCsbXP2BqsnuGtadcQFzRkqwFVFRnWTUJoK9RT4UOeOUkj251ochfkzfHxDtJcinto1tLNS3bBWVEmqgb1kcFWP6ycaooZvKYPSi3+fHLSp+/5dT1ox0o4vS3TTjZAhMk1JPaVAE4qoySduAPOp7eU9p3GFKjc/9k=
+ogImage: null
 labels:
   - Arbeit
   - Arbeitssuche
@@ -39,17 +46,12 @@ labels:
   - Tofutante
   - Video
   - Wochenende
-type: Artikel
-typeName: Artikel
-date: 2012-05-18T08:46:04.000Z
+focusKeyword: ""
 status: publish
 isWerbung: false
 isAffiliate: false
+language: de
 errors: {}
-thumbnailId: "3029"
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_05_img_20120518_095143__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_05_img_20120518_095143__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQFBgcI/8QALRAAAQMDAwMCBAcAAAAAAAAAAQIEBQMGEQASIRMUMSJRBzRx0kFCc4GCkcL/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxEhBDESMoH/2gAMAwEAAhEDEQA/AMRuW4J5Vzy4EzKAd7XGA8qADFRXA9WlEzlw44nJfGM8Pav3afkUtRcksp1VSgF+4znzjqq/DSblywRVX0l7s5ACQePr7aIrsb1UweSjsw1KauCoOZ+Y3ePn6v3am7Kmp9N6W6mpNy6kKk2qVBTyqpKgayAQQVYIPtoFhx6bjuuNiKCPU8cIpHaSSlGcqUePASFfTXRV+2natoV4FzCQjCk5dTDNok1wuotO6qn1UypR2qASTpjQ6HD6mbXKOtzlO6N6LomFJOD31fCh+qrSCEnBKlD+Q1Y7shZZM/KpXDyOS9cKwWlQ+aqsc7eeNRbaDf8AVSakPI7c8ntKp/zqurnCsbXP2BqsnuGtadcQFzRkqwFVFRnWTUJoK9RT4UOeOUkj251ochfkzfHxDtJcinto1tLNS3bBWVEmqgb1kcFWP6ycaooZvKYPSi3+fHLSp+/5dT1ox0o4vS3TTjZAhMk1JPaVAE4qoySduAPOp7eU9p3GFKjc/9k=
 subTitle: Tagebucheintrag
   
 ---
