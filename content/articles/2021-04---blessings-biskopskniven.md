@@ -15,6 +15,7 @@ excerpt: '"Biskopskniven" von Blessings ist ein weiteres Album-Highlight für da
 image: /img/blessings.jpg
 ogImage: /img/blessings-fb.jpg
 labels:
+  - English & German
   - Blessings
   - Biskopskniven
   - Post-Hardcore
@@ -35,7 +36,6 @@ affiliate: false
 language: de
 languageLink: /2021/04/blessings-biskopskniven-en
 ---
-
 **Von Blessings erscheint am 21. Mai ein neues musikalisches Highlight aus der
 Post-Music Ecke. Verantwortlich für das neue Album "Biskopskniven" ist das The
 Ocean Label Pelagic Records. Ich habe schon mal reingehört.**
@@ -52,7 +52,7 @@ der Platte.
 
 ## "A Belly Full Of Stone"
 
-![Blessings – "Biskopskniven"](/img/blessings-biskopskniven-cover.jpeg 'Blessings – "Biskopskniven"')
+![Blessings – "Biskopskniven"](/img/blessings-biskopskniven-cover.jpeg 'Blessings – "Biskopskniven"' "Blessings – \"Biskopskniven\"")
 
 Den dritten Song auf "Biskopskniven" könnt Ihr Euch genau wie den sechsten
 ("Iron Heel") jetzt schon anhören. "A Belly Full Of Stone" beginnt mit
