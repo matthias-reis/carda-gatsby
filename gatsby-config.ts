@@ -58,40 +58,40 @@ export default {
               }));
             },
             query: `
-              allMdx(
-                limit: 30
-                sort: { fields: frontmatter___date, order: DESC }
-                filter: {
-                  frontmatter: { language: { ne: "en" } }
-                  fields: { type: { in: ["article", "wordpress"] } }
-                }
-              ) {
-                edges {
-                  node {
-                    fields {
-                      path
-                    }
-                    frontmatter {
-                      title
-                      subTitle
-                      description
-                      excerpt
-                      typeName
-                      date
-                      remoteThumbnailImage
-                      image {
-                        childImageSharp {
-                          fluid(maxWidth: 400, quality: 70) {
-                            ...GatsbyImageSharpFluid
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
+{
+  allMdx(
+    limit: 30
+    sort: { fields: frontmatter___date, order: DESC }
+    filter: {
+      frontmatter: { language: { ne: "en" } }
+      fields: { type: { in: ["article", "wordpress"] } }
+    }
+  ) {
+    edges {
+      node {
+        fields {
+          path
+        }
+        frontmatter {
+          title
+          subTitle
+          description
+          excerpt
+          typeName
+          date
+          remoteThumbnailImage
+          image {
+            childImageSharp {
+              fluid(maxWidth: 400, quality: 70) {
+                ...GatsbyImageSharpFluid
               }
             }
-            `,
+          }
+        }
+      }
+    }
+  }
+}`,
             output: '/rss.xml',
             title: "Your Site's RSS Feed",
           },
