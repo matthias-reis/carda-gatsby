@@ -3,18 +3,17 @@ templateKey: article
 date: 2021-04-22T15:18:00.000Z
 permalink: underking-at-hells-gate
 typeName: Review
-title: '"At Hell''s Gate"'
+title: "\"At Hell's Gate\""
 subTitle: Das neue Underking Album
 seoTitle: Underking – Das neue Album "At Hell's Gate" auf dem Plattenteller
-description:
-  Underking – das ist von Fantasy und Science-Fiction inspirierter Metal Sound.
-  Das neue Album "At Hell's Gate" erscheint morgen.
-excerpt:
-  Underking – das ist von Fantasy und Science-Fiction inspirierter Metal Sound.
-  Das neue Album "At Hell's Gate" erscheint morgen.
+description: Underking – das ist von Fantasy und Science-Fiction inspirierter
+  Metal Sound. Das neue Album "At Hell's Gate" erscheint morgen.
+excerpt: Underking – das ist von Fantasy und Science-Fiction inspirierter Metal
+  Sound. Das neue Album "At Hell's Gate" erscheint morgen.
 image: /img/underking-2.jpeg
 ogImage: /img/underking-fb.png
 labels:
+  - English & German
   - Underking
   - Metal
   - Melodic Metal
@@ -28,7 +27,6 @@ affiliate: false
 language: de
 languageLink: /2021/04/underking-at-hells-gate-en
 ---
-
 **Underking – das ist von Fantasy und Science-Fiction inspirierter Metal Sound
 aus Nottingham, England. Emotionsgeladen, hart und melodisch und dabei kein
 bisschen überladen.**
@@ -37,7 +35,7 @@ Das neue Underking Album "At Hell's Gate" erscheint morgen. Ich habe die Ehre,
 es schon seit ein paar Wochen hören zu können und möchte es hiermit allen
 Metal-Interessierten unter Euch empfehlen.
 
-![Underking – "At Hell's Gate"](/img/underking-at-hells-gate.jpeg (Underking – "At Hell's Gate"))
+![Underking – "At Hell's Gate"](/img/underking-at-hells-gate.jpeg (Underking – "At Hell's Gate") "Underking – \"At Hell's Gate\"")
 
 Die von Underking Gründer Maxwell Jeffries aufgezählten Einflüsse Judas Priest,
 Foo Fighters, Kvelertak und Black Sabbath kann man gut raushören. Dennoch ist
@@ -65,7 +63,7 @@ Das Projekt fasst für Max all seine Interessen unter einem Namen zusammen. Mit
 "Underking" bringt er seine Liebe für das Futuristische und den Metal-Bombast
 der Vergangenheit perfekt zum Ausdruck.
 
-![Underking](/img/underking-1.jpeg 'Underking')
+![Underking](/img/underking-1.jpeg 'Underking' "Underking")
 
 Nach seinem Anfang 2020 veröffentlichten Debüt-Album im Doppel-LP Format
 "Amongst The Dead" und "Ghosts Of The Past" veröffentlichte Max aka Underking
