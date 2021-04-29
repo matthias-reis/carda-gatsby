@@ -36,7 +36,7 @@ Der Song ist Teil der 2-Song-EP "Painful Reminder/Dead Is Dead", die am 16. Juli
 
 ### Crippled Black Phoenix stellen neuen Sänger vor
 
-![Crippled Black Phoenix – "Painful Reminder"](/img/painful-reminder-cbp.jpeg "Crippled Black Phoenix – \"Painful Reminder\"")
+![Crippled Black Phoenix – "Painful Reminder"](/img/painful-reminder-cbp.jpeg "Crippled Black Phoenix – \\"Painful Reminder\\"")
 
 Joels Stimme steht im Kontrast zu Belindas Gesang. Daraus ergibt sich eine angenehme Dynamik. Crippled Black Phoenix kommentieren das so:
 
@@ -55,3 +55,5 @@ Bereits erkrankt nahm er seine 7" Solo-Single auf: eine orchestral Version des a
 [Crippled Black Phoenix im Interview](http://cardamonchai.com/2020/12/crippled-black-phoenix-interview/)
 
 ### Crippled Black Phoenix – "Painful Reminder"
+
+<YouTube id="K2ABZn5Wkcs" />
