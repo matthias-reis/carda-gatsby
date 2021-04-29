@@ -1,10 +1,14 @@
+import { ENGINE_METHOD_DIGESTS } from 'node:constants';
+
 require('dotenv').config();
 
 export default {
   siteMetadata: {
     title: 'Cardamonchai.com',
     description: "Rock'n'Roll vegan.",
-    siteUrl: `https://cardamonchai.com`,
+    // will be changed when we go live
+    siteUrl: `https://cardamonchai.amreis.de`,
+    // siteUrl: `https://cardamonchai.com`,
   },
   plugins: [
     {
@@ -21,7 +25,75 @@ export default {
       },
     },
     'gatsby-plugin-webpack-size',
-    // 'gatsby-plugin-feed',
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        query: `
+          {
+            site {
+              siteMetadata {
+                title
+                description
+                siteUrl
+                site_url: siteUrl
+              }
+            }
+          }
+        `,
+        feeds: [
+          {
+            serialize: ({ query: { site, allMdx } }) => {
+              return allMdx.edges.map((edge) => ({
+                ...edge.node.fields,
+                ...edge.node.frontmatter,
+                description:
+                  edge.node.frontmatter.excerpt ||
+                  edge.node.frontmatter.description,
+                url: site.siteMetadata.siteUrl + edge.node.fields.path,
+                guid: site.siteMetadata.siteUrl + edge.node.fields.path,
+              }));
+            },
+            query: `
+              allMdx(
+                limit: 30
+                sort: { fields: frontmatter___date, order: DESC }
+                filter: {
+                  frontmatter: { language: { ne: "en" } }
+                  fields: { type: { in: ["article", "wordpress"] } }
+                }
+              ) {
+                edges {
+                  node {
+                    fields {
+                      path
+                    }
+                    frontmatter {
+                      title
+                      subTitle
+                      description
+                      excerpt
+                      typeName
+                      date
+                      remoteThumbnailImage
+                      image {
+                        childImageSharp {
+                          fluid(maxWidth: 400, quality: 70) {
+                            ...GatsbyImageSharpFluid
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+            `,
+            output: '/rss.xml',
+            title: "Your Site's RSS Feed",
+          },
+        ],
+      },
+    },
     'gatsby-plugin-react-helmet',
     `gatsby-transformer-yaml`,
     {
