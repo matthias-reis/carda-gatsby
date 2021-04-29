@@ -11,6 +11,7 @@ export const toCompactArticle: ToCompactArticleFn = ({
     typeName: frontmatter.typeName || frontmatter.type || 'Beitrag',
     subTitle: frontmatter.subTitle,
     description: frontmatter.description,
+    excerpt: frontmatter.excerpt,
     image: frontmatter.image,
     remoteLoadingImage: frontmatter.remoteLoadingImage,
     remoteThumbnailImage: frontmatter.remoteThumbnailImage,

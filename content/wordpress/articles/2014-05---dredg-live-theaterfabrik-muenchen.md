@@ -32,8 +32,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: Fast ein bisschen Nostalgie
   
 ---
@@ -54,9 +53,10 @@ Arms_ aufgetischt.
 
 <RemoteImage alt={`Das Ticket`} size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644064411807/with/13902413749/) Das Ticket`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/05/dredg-1146.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/05/dredg-1146.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1146__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1146__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAArEAABAwMDAwMDBQAAAAAAAAABAgMEBREhAAYSBxMxFCJRFSNScaGxweH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQIDBv/EACIRAAIBAwQCAwAAAAAAAAAAAAECAAMEEQUSISIxcUFRgf/aAAwDAQACEQMRAD8AW+m3T+mb54TJ8n07iZnpWY/Z7rSyhtLnvUCPyyPnGqVTU1mDGcZpkja0RKSUBa6etKsGwvZwg+P81j6BQIytrUWTAZLUdqRLdkFxwFwujgkeckEJGQLDTG1IbRGJHJdzf7T1gL+b2WdK9Vv2sVUoQBz8epJRu8xA3X05rO8HhIrNUpMqV2Qyy82240WxyKvaEpsck4N/OuCrY1Z2zFEeZKiSIqLkDi4HEj4FwBa/96scOoNMuJW87cKHHiBfjnH8fvpf6jT4ctMWPFksuSWpSVrbQ5cpTxIVi97DF7/Olltq1W8Xtjz9c8y6mNjACRrZW/p21jEgJnvppryyi3bRxjBRJJ5FNyFKUMXxY6fI2434skNu1Dsqc5JT2220qUALnjZOSBnRo1p9qsvYA+4Iw7YzNdF3dTIcMrqFYdnvIFnV3SsJI83sMY/TSTI3U7Ua9VJUWfJ+jPWESK6hCeN7clYF7XGM+DnRo0JVpU0XqoH5CqQy2Z//2Q=="
+/>
 
 Für mich war das natürlich besonders toll, da dadurch einige meiner
 Lieblingsstücke, wie _Spitshine_ und _Jamais Vu_ gespielt wurden.
@@ -65,9 +65,10 @@ Lieblingsstücke, wie _Spitshine_ und _Jamais Vu_ gespielt wurden.
 
 <RemoteImage alt={`Catch Without Arms`} size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644064411807/with/13902413749/) Dredg`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/05/dredg-1102.jpg?w=225"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/05/dredg-1102.jpg?w=225"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1102__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1102__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBgEFCP/EACYQAAIBAwQBBAMBAAAAAAAAAAECAwQFEQAGEiExEyJBURQjYYH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUG/8QAIxEAAQQCAgEFAQAAAAAAAAAAAgEDBBEAIQVB8BIxUXGxwf/aAAwDAQACEQMRAD8AQq7Sq4X4VUEsLjGVkQqR/h1iq280aEqMjTq2Jdlulspk3HXy1NzaNpiZI1MiAEjCkD3rgfZPkam1lj2xJTmWOaukYnpViUDGPPZ8/wAOs29OkMveh1KTpb0vf9yA5NfjO0+qIK939ee2cyVtK8DkFSBo00d87dpmlqGtaSilBPpGcL6nHHXLHWfPjRqoxObcG1XKDPIMODaEmVTam5a+1VMP4tSkaxiTis6l44w68XIGes9d/eNMeju9TweIqwnjZeSsCzFcjOB5JwesaTVsINfTqwBXn2DjGPnzq+WCqC3ikDVDxmSpjiLDPSsyqfkY6J7B60GdFGSYiWL8lDCY4AF58/mbVb0bpUTH1QtNLETDC8XFgVxyIbww7++vrRqDfLpTbfuMlqp4gzUYWJDJKHDoct+xR7S2T/B7VOCdGgOwBAqDSa6xSRxgNnTWkpNVn//Z"
+/>
 
 Dredg befinden sich derzeit auf einer sehr interessanten Tour, die Band spielt
 von Stadt zu Stadt immer abwechselnd das _Catch Without Arms_  (2005) und das
@@ -81,9 +82,10 @@ Finger davon lassen, mich an dieser Stelle zu weit aus dem Fenster zu lehnen.
 
 <RemoteImage alt={`The Intersphere`} size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644064411807/with/13902413749/) The Intersphere`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/05/dredg-1071.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/05/dredg-1071.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1071__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1071__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHAgj/xAAmEAACAQIGAQUBAQAAAAAAAAABAgMEEQAFBhIhMWEHEyJBURTR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgb/xAAlEQABAgUEAQUAAAAAAAAAAAABAhEAAwQFMRIhYfCxEyJBUXH/2gAMAwEAAhEDEQA/APN38pdeGsfPWFRSJxaQ357TjwO8a9pD03os6rKiUZmpyilhNRNMqWlVLGw2E9ki3dvOKG2WKuZiJ45fa3fIIPlt+7D9tiTLukuaSEnEdybHpf5IZ87PiIKOi3Ny0dubnaeMJS0oSMMQqszWCFrED9ONk0FoLLtQahio4K5jRSI7mZo9siADi6k93sODbnFH1fkByqokidg0iuysovcWNuTjMi5omTNEEn2YJQQk+4AEjg48d2jnS+r5soyj+YSl2mpm90GUqTsb4qf3jz9Yj8w1bJUU8hiDQViuPamjPO37v5/3Bgw4m30/qqXp3JfviJSrzVophKSpgQx+8AZy/MOtPeoucZFnLVdG0LxtCYzCy2UkpYm45757w1zjW1dmuavVVa05hmiAkp1QBA+2xZfsG/PfjrBgwUW6mC9YQHZn75zCCrrVlRWZhd+j84xH/9k="
+/>
 
 Als Vorband wärmten mal wieder  _The Intersphere_  aus Mannheim die Bühne an.
 Wie bereits [hier](//2013/10/30/von-hipsterclans-und-turstehern/) und an

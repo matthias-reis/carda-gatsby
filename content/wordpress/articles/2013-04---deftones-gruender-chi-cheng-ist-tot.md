@@ -33,8 +33,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: Nachruf
   
 ---
@@ -49,9 +48,10 @@ wieder richtig.
 
 <RemoteImage alt={`Chi Cheng`} size="full"
 title={`[ ](http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg) Chi Cheng`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_220px-chi_cheng__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_220px-chi_cheng__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgAB0DASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCAwcE/8QAKxAAAgIBAwQBAwMFAAAAAAAAAQMCBBEABSEGEjFBURMUIgdxkRUjcqHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEA//EAB0RAAMBAAEFAAAAAAAAAAAAAAECEQADBBIhUfD/2gAMAwEAAhEDEQA/AMSQu1djav7k+wy5YcTNlgmUjiJ9nk/80GhOxSTWLhGVCwDAdsomUTkEkjOQcjwfWjfXNjctt3FdSwl1MAGUTNeCw+CRn0ORpTjZfiMTP6ioSMhAnHJHn+NT8KMFvw1XUOneR6x3ZQ6Nm4Y/jIU3AcknHb545z50e21ytvtP+tSjbM0VRgswI4RA8Y857v8AWlzYJlu5sjXW6bGUrMBFcDORJWQBgDPnH86eXdK7ilaG3F1VMYlEftnWlKavtQqJMozkDycj5/E59a3Aoh09ho0v1Z2y11BvP9R2eDdyCrRqNC15YGNxNYPs5EsfGf30r7v0TY2rdRRuW0smpRlemqMgurMxyId5GGEZGe3j1nWsdf7jFfTFOxszHVKc0wrxXWkFslY4IEvfgMBPBGOfxOl7ovZaHVFSyu+uTLClFMDNnEGjjK4jGOfZ59eNBfAmfkIZ6Mr9N7xT2O3bp7PFz7j67YSsOyCuMIGfbHBBwe0Z+ffxrh337nc3V3vYXtNdOWP5nL+zDknPs5PPOobLtzRvz5mfZGCXcGXYDL6Mwfy+CcD9tU9Q02zhtsEqbiFNWe6JzntA5A/x0RkZqN//2Q=="
+/>
 
 Vor einem Jahr verbreitete sich die Nachricht, es würde ihm wieder etwas besser
 gehen, was leider nicht für lange Zeit anhielt. Chi Cheng wurde als genialer
@@ -117,9 +117,10 @@ nachdem er Chi im Krankenhaus besucht hatte.
 
 <RemoteImage alt={`Chi Cheng`} size="full"
 title={`[ ](http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg) Chi Cheng`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_chi-cheng__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_chi-cheng__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMH/8QAJBAAAQMDAwQDAAAAAAAAAAAAAQIDBAARIQUGEgcTMVFBYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AzYmyST4q+033ZG9AphiPIEGJdDTyrDktQ5L/AEAVBeWF39Gh+lTJEbdOouR3ltLKC1yQbHjgWx9fNA/6pSlOa/pspMZmOgqXHS424Fd5Kh4IsLWIHuowlExm7kZGKDbskPDVo0furLLD6i2kquEXIOKaaaomC0Sc8aD/2Q=="
+/>
 
 #### **Deftones - Minerva**
 

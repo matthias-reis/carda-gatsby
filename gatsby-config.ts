@@ -42,8 +42,12 @@ export default {
         `,
         feeds: [
           {
-            serialize: ({ query: { site, allMdx } }) => {
-              return allMdx.edges.map((edge) => ({
+            serialize: ({
+              query: { site, allMdx },
+            }: {
+              query: { site: any; allMdx: { edges: any[] } };
+            }) => {
+              return allMdx.edges.map((edge: any) => ({
                 ...edge.node.fields,
                 ...edge.node.frontmatter,
                 description:

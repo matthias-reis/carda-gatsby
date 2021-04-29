@@ -56,8 +56,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: 10 Fakten über Veganismus - Teil VII
   
 ---
@@ -113,9 +112,10 @@ krankheitsanfällig werden.
 
 <RemoteImage alt={`Emsige Biene`} size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets) Emsige Biene`}
-mediumUrl="https://cardamonchai.files.wordpress.com/2014/10/14357114080_6107bf707a_z.jpg?w=300"
-largeUrl="https://cardamonchai.files.wordpress.com/2014/10/14357114080_6107bf707a_z.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357114080_6107bf707a_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357114080_6107bf707a_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAArEAABAwMDBAAFBQAAAAAAAAABAgMRBAUhABJBBhMUMQcVIlFhJEKBscH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIRMSH/2gAMAwEAAhEDEQA/ALS0UqLLS+A9Q1Kadpe+e7lxyZKlegQcCIEDVb0q/aUGscpIp2iD30PCCAAfqJ5Ec/jUpf7/AONf1u0THm21xttLq2ne4UESCQJyIjGDrrTcra9RP+KtTdSplYQgNkgnaeInBz/GgXCuhklXuTPvip1HQ34UwtSv0jaC02NpQp0g+9gyRmZIVjjnWbdOWSsvd+oaCmZAdqnktoG3CcyZEAYCiZAkFCoImNMnKaslNNWupJKA24v1uUJGBOZmII5/GmtmuL9hubS7Uh5y6PlcOISB4zW0yd0QMkgc/UQNTrVXYnB8mzGgp7WjYjuPKH73VSfv9tIumlIuHVN1S+Fr2OdslRGYSDwBGjRqlph2dXUHRFFdbw2pt5dKSobghIIMycA+v6zpJcejqKlvny4P1BU2kOF5O1O8HgiP90aNZUDkT7P/2Q=="
+/>
 
 Die Bienen nehmen süße Säfte auf, reichern sie mit ihren körpereigenen Säften
 an, verändern sie innerhalb ihres Körpers, speichern sie in Waben und lassen sie
@@ -159,9 +159,10 @@ aufnehmen, enthalten. [<sup>4</sup>](#4)
 
 <RemoteImage alt={`Honig ist die Nahrung der Bienen`} size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets) Honig ist die Nahrung der Bienen`}
-mediumUrl="https://cardamonchai.files.wordpress.com/2014/10/14357129270_f2319edbbf_z.jpg?w=300"
-largeUrl="https://cardamonchai.files.wordpress.com/2014/10/14357129270_f2319edbbf_z.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357129270_f2319edbbf_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357129270_f2319edbbf_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBggH/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURAAYhBxIxEyJBUXGxMqHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAcEQABBQEBAQAAAAAAAAAAAAABAAIDBBEhEmH/2gAMAwEAAhEDEQA/AHXTnpPt+0xetc7M1VVBw6zVjLOnGMdowAB8+PzrqS09PKCiRRqIlwvauO3BzgaUWi/21aH0pa+kSRQAsUqHuUfTkZwf1qK9XR5Y6RbG5lqKiZY2SnILHycgngDzk+eNS3LDqsReGk/E9eITPDCcVKrunGwN7S7lWNJqO/xV4kqmhwksLng9qn2GN8Fs88k/jWeeoXTq57Pvc0FRE01veSQ0lSrK3rRhuMhf4tjBIONau2JYHhul3uVfTTUctWI6YxyHtUiMnDqPBz3efGlXW+3vUbIrorcjvNSypJKskQHpxjJZkGQAceTySMj51lOw6zEJHNLSnniEUngHVnSG/VNG8ka+/nuyzH51cdtbuqyYYzEgVjksjMrcHj3edGjVEnRhXEcVih6g3WIPTJ2hcMQc/sfOl1337f6qxzRrUxKgSVMNEHwAPs/1/ujRoY0NA8jEbp6v/9k="
+/>
 
 In der Steinzeit begannen die Menschen Honig als Nahrungsmittel zu nutzen. Die
 Haltung von Hausbienen geht auf das 7. Jahrhundert v. Chr. (Anatolien) zurück.
@@ -213,9 +214,10 @@ immer seltener.
 
 <RemoteImage alt={`Arbeiterbienen am Magazin`} size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets) Arbeiterbienen am Magazin`}
-mediumUrl="https://cardamonchai.files.wordpress.com/2014/10/14357307880_6532fa01ac_z.jpg?w=300"
-largeUrl="https://cardamonchai.files.wordpress.com/2014/10/14357307880_6532fa01ac_z.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357307880_6532fa01ac_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357307880_6532fa01ac_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgEDB//EACsQAAEDAgUCBgIDAAAAAAAAAAECAwQFEQAGEiExB0ETIlFhcZEUMqHR8P/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIDEjERYdHw/9oADAMBAAIRAxEAPwCwdLMpBMd5+WpAb20pTwlIH6knj3OMdV6g9GVSDS44Stx9ttlS4+oELWE+UXuNQuAAL23+NmUq5+THEBpvwocchkhO5fULbW9L8nv94Z9T84RMoZefZZkw0ZlebStAXpUplKlhN0pPcXP+OIrrcm64/dehx2U7rhV4FPpEbK1IjtSWZKHRIkMvpCw4hSbkjfi6ubcX7Y4VUaKYzKWkAOvkqKxp02Ha/wDH3hzBWtFWkz3W40iQ9KU4UON2u4TqJUPQK/re+GE7xXI5S84PyD5lK0i++9wPcmwHxgqY4ocoJLga5LrsikRn6gyhK3IwCWkq4BJAufXnFBl5gn5qrMeTWVNuvaC2VBFioairffm6sGDGVxWTYmGySxNCFsrQykFXFzfSkE7fPviQxUHWoC5w3fc8gUSTpJB3F+4Bt9nBgxSG2f/Z"
+/>
 
 Um einen möglichst hohen Gewinn zu erzielen, kommt es, genau wie bei
 [Milchproduktion](//2014/09/09/pflanzenmilch-wieso-denn-blos/), auch bei der

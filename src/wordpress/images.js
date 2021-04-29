@@ -12,12 +12,18 @@ const imagesBySource = R.indexBy(
   Object.values(images.images)
 );
 
-const createImageTag = (e, article, src, alt, size, title = '') => {
-  const remoteImage = imagesBySource[urlToId(src)];
+const createImageTag = (e, article, id, src, alt, size, title = '') => {
+  let remoteImage = images.images[id] || imagesBySource[urlToId(src)];
   if (!remoteImage) {
-    e('[img]', bold(article.meta.fileName), 'img from another domain');
+    e(
+      '[img]',
+      bold(article.meta.fileName),
+      'img from another domain or not found',
+      `id=${id}`,
+      `src=${src}`
+    );
     article.meta.errors.outsideImage =
-      'article has at least one image from another domain';
+      'article has at least one image that could not be found';
   }
   return `
 <RemoteImage
@@ -41,23 +47,27 @@ module.exports = async (l, e, line, article) => {
     const title = (captionMatch[2] + ' ' + captionMatch[4]).trim();
     const altMatch = /alt="([^"]*)"/.exec(captionMatch[3]);
     const alt = altMatch && altMatch[1];
+    const idMatch = /wp-image-([0-9]*)/.exec(captionMatch[3]);
+    const id = idMatch && idMatch[1];
     const srcMatch = /src="([^"]*)"/.exec(captionMatch[3]);
     const src = srcMatch && srcMatch[1];
     const sizeMatch = /class="[^"]*size-([^ "]*)[^"]*"/.exec(captionMatch[3]);
     const size = (sizeMatch && sizeMatch[1]) || 'medium';
 
-    const imgMd = createImageTag(e, article, src, alt, size, title);
+    const imgMd = createImageTag(e, article, id, src, alt, size, title);
     const md = line.replace(/\[caption.*\[\/caption\]/gms, '').trim();
     return md ? [imgMd, md].join('\n\n') : imgMd;
   } else if (imgMatch) {
     const altMatch = /alt="([^"]*)"/.exec(imgMatch[1]);
     const alt = altMatch && altMatch[1];
+    const idMatch = /wp-image-([0-9]*)/.exec(imgMatch[1]);
+    const id = idMatch && idMatch[1];
     const srcMatch = /src="([^"]*)"/.exec(imgMatch[1]);
     const src = srcMatch && srcMatch[1];
     const sizeMatch = /class="[^"]*size-([^ "]*)[^"]*"/.exec(imgMatch[1]);
     const size = (sizeMatch && sizeMatch[1]) || 'medium';
 
-    const imgMd = createImageTag(e, article, src, alt, size);
+    const imgMd = createImageTag(e, article, id, src, alt, size);
     const md = line.replace(/\<img.*>/gms, '').trim();
     return md ? [imgMd, md].join('\n\n') : imgMd;
   } else {

@@ -58,6 +58,7 @@ export type CompactArticle = Pick<
   | 'title'
   | 'subTitle'
   | 'description'
+  | 'excerpt'
   | 'image'
   | 'remoteLoadingImage'
   | 'remoteThumbnailImage'

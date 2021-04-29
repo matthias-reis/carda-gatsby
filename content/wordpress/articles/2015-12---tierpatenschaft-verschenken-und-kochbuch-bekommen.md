@@ -42,13 +42,12 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors:
-  outsideImage: article has at least one image from another domain
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (72:0)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (73:0)"
 subTitle: Ein perfektes Weihnachtsgeschenk
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;li> (72:0)
+## unknown: Expected corresponding JSX closing tag for &lt;li> (73:0)
 
 <!--
 **Über XING lernte ich die Patentierbetreuerin des Deutschen Tierschutzbüros
@@ -106,9 +105,10 @@ verraten.
 
 <RemoteImage alt={`Vegan Passion von Stina Spiegelberg`} size="medium"
 title={`Vegan Passion von Stina Spiegelberg`}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2015/12/Veganpassion_Das-Kochbuch-838x1024-640x782.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2015/12/Veganpassion_Das-Kochbuch-838x1024-640x782.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_Veganpassion_Das-Kochbuch-838x1024__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_Veganpassion_Das-Kochbuch-838x1024__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgQFCP/EAC0QAAIBAwMCAwcFAAAAAAAAAAECAwQFEQASIQYxEyJBByRRYXKBsRQyYnGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAHxEAAQQDAAMBAAAAAAAAAAAAAgABAxEEEhMUIUHh/9oADAMBAAIRAxEAPwDpdEjjRUVI1UAAAKB9ho/1he5bJY2qoFiM8tRDTRB0BAaRwuccZwCTjPONUXGvomqfCerEM8DbgjKuex58w4wMn+s6Ae0O6Wu5UFTaamoqKmjrhujkhRi8D/wwP3DAP30cp6A7pIx2Jkl9nXUdbeqi/wBuuhgkqbVVLGJ4olTxYpF3LuUEgOMMCB8BpLUKBUSgKMbj6fPQ7pCG30EizWuJUavfdUSFNjynYRlvmNvb0yfjppUD3iX6j+dHjS9o2JVMGh0yFdSVsCXaaWvt7LAxZPPyrkMRvU7T5jtVRnjjHY6yqaso7HMytBDLNGBTh4iAVCxIM5PfKlTx3J9NNeprLLeFmg/SwKjHas6hWYDdnsy4751jxdEVEI8ORqesiRVWMsDFIuDkZOHU49DgauUeguHx2pbY80BHXX0p7ZU2+oudPLAzLLlxtHC5CHuO2QNNage8S/UfzovTWd7ZUvMLRUSzY2iQFX9Md1C/6NLpqeVpXZUyCxI5GgwsXxY3jZ7a7/Fiml6Fa//Z"
+/>
 
 <div style="border: solid 2px #ff66cc; padding: 30px;">
 ## Alle Infos zur Weihnachtsaktion

@@ -40,7 +40,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors:
-  outsideImage: article has at least one image from another domain
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (41:29)"
 subTitle: And the nominees are...
   
@@ -172,9 +171,10 @@ Also eher der Sternschnuppen-Typ.</li> <li>
 
 <RemoteImage alt={`Lieblingsschallplatten`} size="thumbnail"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets) Lieblingsschallplatten`}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2014/11/9694670444_068ec34ffa_o-150x150.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2014/11/9694670444_068ec34ffa_o-150x150.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9694670444_068ec34ffa_o-e1582810742342__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9694670444_068ec34ffa_o-e1582810742342__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QAKhAAAgEDBAEDAgcAAAAAAAAAAQIDBAURAAYSITETIkEHFkJRY3GxsvD/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAQP/xAAgEQACAgAGAwAAAAAAAAAAAAABAgADBBESITGxMkHw/9oADAMBAAIRAxEAPwBU+m20LLFE9/3klJTJXTFYKeokMVNjGewxBYnsgN114/LaI7Zs6Jlheh24jhUKLJTQgOGUMvAlfd7cH251yLbcZqSxWuvkqrdTyeskVRUVKyiJldWAWMkhiS3AZHkZ+NXbHu66XUUUEEtonkmaKFZYYquRGdiQzMwHGMHi+M57xnryO1nsJP3URsvElT7V2jeEma22TbVQsfHmyUiADIyO+P8AsaWdx7As0Ks8dosMWPgQ4/gadaY3+73eojpmlpKKZpPTastMqegi4GPUYY5ZViD2CGHnvFisohbre8d13DanZfEjrHG2Mfiy3Z8nOs9bqeZNpldgr79X2qSs+4a6DgRxjhjiUDsAd8M/OtFtO3a+50ETV25rzMT5zUyDORn4YaNGnYgBPEe4axzqylyb6bWtEMtVPUVR/Vdm/sTpT3Zt2x2iJDHbUkdlJ5MQMY/YaNGh132FwCY3C0pYwDdmf//Z"
+/>
 
 **Wein, Bier oder Schnaps? Lieblingszigarettenmarke? Oder völlig gesund und
 lasterfrei?**

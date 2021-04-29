@@ -42,8 +42,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: '"Alles andere wirkt unwichtig und banal"'
   
 ---
@@ -77,9 +76,10 @@ speziell in Istanbul auf Euer tägliches Leben aus?
 
 <RemoteImage alt={`Zelte auf dem Taksim-Platz - Bild: Marie`} size="medium"
 title={`Zelte auf dem Taksim-Platz - Bild: Marie`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4371.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4371.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4371__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4371__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUBB//EACkQAAICAQMDAwQDAQAAAAAAAAECAwQRAAUGEiExExRRIiMyQQcVUoH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwUE/8QAIxEAAQMEAQQDAAAAAAAAAAAAAQACAxESITFBBFFx8AWhwf/aAAwDAQACEQMRAD8AR5dss2OYiKHaKUtezKZqxVwRJhWP5t2UeCQfAyRk63Z6Z2m5uS71U2qWHcI2nkkKo7OgkGYy3nIZlPUGBwP+BI2reF2Xi8dC7M3r15RMkgyrCNgPpUn4YEA48Me3616JuG8ce5txLjC0qku03aua/taaF39OUOFUM5+vLooOT3Eh0yZ8TIHAA3br29+koNnMwIcLO1Nn848qVLklVGoXJdpp1Km5ifP9UFXJiIx9oMSrAZyAFJzkdzqns12lZ5NDenkMKNO0QiMMpQQ+k4yVK5bJxgKfgH/WlY0aENCfdJJatHc7FqWKKpdrCOKuQCS2S3V0hiox0Yzj8iDjlTerNi/7K7cAj9ujwvKkgEzEDyFGSMg9OB31Ovc8ANFfK2iLOcKHD9y2+jySwd/rx7zQu0zSYW3aN+/T0v198HKhcfB86y9x3CCOF684uHaIlj6K0c69TKJOpk9QfHcfvycaNGineRMCOVZ6ONj/AI6S4ZB3zr3W+a0Cocw323ya5Fu9tK1GH0Ur1ayMSkcKEqqoO5wAO+e+Tn96e+J3/wCNhwxqlq9uMHIPbEyusbsJpSyuFjz9sKgDKScE9RPfGjRprmANIGFFDiXCq//Z"
+/>
 
 **Marie Hartlieb:** Die Ereignisse in Istanbul und in der Türkei stehen einfach
 im Vordergrund. Alles andere wirkt unwichtig und banal. Deshalb ist es schwierig
@@ -105,9 +105,10 @@ haben. Was war eure bisher interessanteste Begegnung dort?
 
 <RemoteImage alt={`Peace-Bus - Bild: Carolin`} size="medium"
 title={`Peace-Bus - Bild: Carolin`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/peace-bus.jpg?w=200"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/peace-bus.jpg?w=200"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_peace-bus__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_peace-bus__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHAgb/xAAqEAABBAEEAQIFBQAAAAAAAAABAgMFEQQABhIhE0FhBxUiMXEkMkJRof/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAeEQEAAgICAwEAAAAAAAAAAAABAAIDESFRBBJxgf/aAAwDAQACEQMRAD8Axt7EgjDRcHNZUtLyLRV+nQvx47Z5LACVEhVBKbAPQv7i9NpnE27DYbRcjUqadUEIcVIcggmj/JQv0OuZh4OXZhcXLx8Vaw4yC35ACjpR/cSeST2RXvphMbdkZ5bbb2Lks4zSippDWS265aQBw+sgBI7AA+4qya1O2GxvWvyDbJjOW3P2JpPBdm5J5UQ8paGgkOlLqVI5kd8VKNkWD6nRpdlbQk4mTdxSxnKQhpuiEhfZKibo0FdiwNGta9RlPVBlB3bE7xbkcgbejl5mK68pwg5KGfH6ABRVde1VpIuK+Iaynx7eU2R3bsu0oX+B76vSGm+gKJ/N3rXiFdAf1qnfUnfHxrtOZN9v7WkkxSPm4SrNWtTrg5ppBNfSKsUK/wB0aoJbSQCeIv30aGNAJ//Z"
+/>
 
 **Carolin Winterholler:** Die interessanteste Begegnung war für mich bis jetzt
 eine Gruppe BDP-Anhänger (also Kurden), die im Park Lieder gesungen und getanzt
@@ -133,9 +134,10 @@ trotzdem!
 
 <RemoteImage alt={`Es brennt - Bild: Carolin`} size="medium"
 title={`Es brennt - Bild: Carolin`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/brand.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/brand.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_brand__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_brand__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAcCCP/EACcQAAEDAwQBBAMBAAAAAAAAAAECAwQFESEABhIxUQcTImEjcZGB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMAAQT/xAAhEQABAwMEAwAAAAAAAAAAAAABAAIDETEyEiIzkXGxwf/aAAwDAQACEQMRAD8AdvTDcM+pMVFVVnqkNtBtQXK4pDQsb/IAXvjvTjLq0VENyRGdjPoTi6HQoX+yNeXZG53osKbQ4raeDriEPSFqLa1hNwA2kHo95J8anaqseGYrEaqPMRZCUkPnktpLi+23Edq4kcSR5HWo5xBIRth1UK3yob6oUGmR5k2Uv8q/bDUdsuLSfJT2B1k+dIte9ZKct51mmx3PcYQUiQ94ChdXG38F9L25dtU2gSG3n5iRBqMRUtlTdypCQUkNqvklKeZuDjq2dZFuaqREVdZpISuMj4KDzabu5zyH6A0rcTQpkkTRUtt2rdbAMyKoi5ClgHxnVBlRkU+SJBLoZ4+3z+XC6s2v1/mjRrZLyFAcG+B6ChqM+XJ3BOTIlSHUoW8hAW4VBKciwucDAx9a433nc8q+bJTb+aNGqkuULMOvq//Z"
+/>
 
 **Anne:** Seid ihr schon mal in eine gefährliche Situation gekommen?
 
@@ -149,9 +151,10 @@ Polizei waren und die Menschen um uns herum ausnahmslos friedlich, war niemand
 auf den Angriff vorbereitet.
 
 <RemoteImage alt={`Die Zitrone`} size="thumbnail" title={`Die Zitrone`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/969752_593296170689248_1481661969_n.jpg?w=150"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/969752_593296170689248_1481661969_n.jpg?w=150"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_969752_593296170689248_1481661969_n__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_969752_593296170689248_1481661969_n__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwUCBAYI/8QAKxAAAgEDAwMCBQUAAAAAAAAAAQIDBAURABIhBiIxE2EHFCNBUQhCUoHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EACURAAICAQIEBwAAAAAAAAAAAAEDAAIRBBITUaGxITFBYZHB8P/aAAwDAQACEQMRAD8Af5Kko0mO4qT2ryT/AFqfdLwaRPq088CmP1XrJEBhp1GCxk7sqducDH499SPiGt1q+mrrT2CqrKa6Komp5KPAdtpy0Y9yu4D3xoHtd96uguFwNuuFZerdJMFmBk+uCAFKvG2CDjgjGsKNDZ6zehGR6H98TQ14pYVM9J0F/o61BUU80L0U8jpSzCZWFQqDudMeVDZGfvjPgjVBnzIM+cgaF+haw3vqy30EFHX01vs9DMsJqid8jsyq0Y3E7Y1C4AGOc6WIFlE0IdXTaw5b93jUXo4RA8jyPTpKKZuHOYTFaSWdpIvULyFgoYg8n21wPxJsFLXdTdP1dLTU0d0nEqTM1UaczRoIyqkgdzjJA++CeeNJixR/MGQl92TwSSNQuo7dLVXWkmp1pG+Wj2OsyEsBLIqmRTkYKhCfz9hjzp9K8rYCPftFcsWrNfpuxLQXm5VcMcSyVJy8BmyYyeS3A7Sf4+ODq7I2yWFvT2MZApBkzkE6IbJcKyD9RC04VoqGqtxjjCgBZo0hJSQhSQMlWIzzgjS5XMGnhBhlJDqRIqEgc8Zx/ujqE2TsrY5zUdsfUCbCwJAx4z//2Q=="
+/>
 
 **Anne:** Was hat es eigentlich mit den Zitronen auf den Plakaten der
 Demonstranten auf sich?
@@ -168,9 +171,10 @@ heftig. Habt ihr sonst noch mit weiteren Einschränkungen zu kämpfen?
 
 <RemoteImage alt={`NVT - Bild: Carolin`} size="medium"
 title={`NVT - Bild: Carolin`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/nvt.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/nvt.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_nvt__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_nvt__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAMH/8QAKhAAAQQBAwMDAwUAAAAAAAAAAQIDBBEFAAYSITFBFBUiE1FhIzIzcYH/xAAYAQACAwAAAAAAAAAAAAAAAAABBQIDBP/EAB8RAAICAgEFAAAAAAAAAAAAAAECABEDBBIhYXGh0f/aAAwDAQACEQMRAD8ArspJUnDbcTHQJiHaccQ8lXFukGzRFWVEkV+bsaXwXWnJWRUwWVeoQkR2W1ghNrNAdq8Ghf41SZTIx8jsCHPx0VMOKGY8xlp0jgy3zBKCSeP7Sb6+T10sysvAe5epZZb+g8AtKmlUbujVKpHY2NVLtMHsRk2JXUWPfeKNibbgyti42UvKhuSWnlKZ4A8lB9YISSRfnzesmSTjYmTdhe4tFSHEJ5OgN/FSOXIjkTV/Ht386isXlpKtuRYCG+LTD8lbYsqKgt5aqUkiruiCPI1fwDBOxYUyazDfhrk/rypjPFDoSpaQoWkdTxT072Dd2dME3M4AHLoPHyLH1NdrIE93a2lt5vFe2JwmOOO48PTKjpU3xu64kVX41qjYPExAkRcZBZANj6cdCaP+DRo1joSXIxczsfa7LMpprAY1Lcr+dIYTTnz59fv8uv8AeubmwdpuMMsubfxq2WVFbTamQUtqJslI7A39tGjRguf/2Q=="
+/>
 
 **Carolin Winterholler:** Die Zensur der türkischen Medien ist allgegenwertig
 und wird bei den Protesten besonders deutlich. Anfangs wurde gar nicht
@@ -190,9 +194,10 @@ Ausländerin bei den Protesten dabei zu sein? Wie werdet Ihr aufgenommen?
 
 <RemoteImage alt={`Alle gehen auf die Straße - Bild: Marie`} size="medium"
 title={`Alle gehen auf die Straße - Bild: Marie`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4460.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4460.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4460__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4460__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAJxAAAgIBAwMEAgMAAAAAAAAAAQIDBBEABRIGITEUIkFxB1ETQmH/xAAXAQADAQAAAAAAAAAAAAAAAAACBAUD/8QAJREAAQQCAAQHAAAAAAAAAAAAAgABAxEFIQQSofATQmGBscHx/9oADAMBAAIRAxEAPwDLSU0ckKQ30M6jO28mJXGMfrTLZuoWt0dxsikNxp7a4WxapHj2PfmImGQoGcnP0NVdy63gqh4GivV40iLS+oYMlcNIeASJVyGfiGJJ+wBqqWWhtuXfyyTDGSmxXqvdlbOz1lFgH+UTKwEaqo4kfOSTnTfZaDx7ddjAYCSSLko/sAJNJts35n6XfcDWjSGMGM2ZnOBIBkhu3nBzqzF1iV2NZ7NSOKq7KeSSgyNhwgaMHHIF2IwM4UHPkaW4nIDJB4Y7d676LeDGzMbn5R/PtK+rOil6H2LqGGXc5Z7Ej03NSNFMZVX5GV8juM8lA8HPfOuSHcrEu73YpgwM8yzSFlDM0iAlB38AscY/R/zRo1LhjHl9U9LKV6W8/INaLYK9OhWrNSPoGeyj2xJzs8I+Tqo9qd3K4A+PjWPrbo25Qg3JLDpVmSSvhgwjwrexQfAJ7kDHydGjRuLO9opJSCwF9PXfV1//2Q=="
+/>
 
 **Marie Hartlieb:** Die Protestierenden sind eine so heterogene Gruppe. Da ist
 man nicht unbedingt „Außenseiter“ als Ausländer. Ich glaube, neben den
@@ -207,9 +212,10 @@ vertreten?
 
 <RemoteImage alt={`Taksim - Bild: Carolin`} size="medium"
 title={`Taksim - Bild: Carolin`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/taksim.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/taksim.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_taksim__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_taksim__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcGCAMEBf/EACoQAAEDAwMEAQMFAAAAAAAAAAECAwQABRESITEGFCJBUQcTYQgjcZGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQACAxESgf/aAAwDAQACEQMRAD8AVVxfVGlykMTWXw1jVoWTvgYAI5PvPGxGadf6Yrxc5sy9RHXXFW5ppDpbUkkJdKgnIPo6Qcj3sarZCltMOpC3i2h1Q+7qbCyU84B5A3HFMDpC99Q2WHMRaG3ZFukONF15tOQpW4SUgeRTjOTsNhR01iKdMtD9Q+r4vT9vkxlIUuS5FWsk7JaQfHUfk7nAHxyKrRc+p5N17xybK/cUhIClEEHA2HGANh/lYb91nNu7jIuakj78cBQUPLTrUMKB+Snb+RXPhQY91ht9q6xG7tQZYbKipwqHkonHiAn4JycjFHId6NxGNp7Fe8vU204BjO2M59VL+jLxNtcU3GI8pL1vWHEAnxUBk6T+Of7NFFVJKaFxlOSyZCjpLbiw2kEkJyvWc5OTzipTanm7TCZdca7pA0uIbWspCC5pORj2PLf3q/FFFZYAlq2Vn//Z"
+/>
 
 **Carolin Winterholler:** Ich hab noch nie so viele Menschen auf Istanbuls
 Straßen gesehen - und Istanbul ist immer voll. Außerdem gibt es fast täglich
@@ -223,9 +229,10 @@ Gegenbewegung?
 
 <RemoteImage alt={`Graffiti - Bild: Marie`} size="medium"
 title={`Graffiti - Bild: Marie`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4480.jpg?w=224"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4480.jpg?w=224"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4480__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4480__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAQQH/8QAKxAAAgECBQMDAwUAAAAAAAAAAQIDBBEABQYSISIxQRNhcRQVMiMzUXKR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQAAf/EAB4RAAICAgIDAAAAAAAAAAAAAAECABEDIRITMUGR/9oADAMBAAIRAxEAPwC4p4o6lKSgyyVYo5VZRIpDA2vcMxvx4/k34w1z6KLTeV0v1s4hpVnVd5ICtuYgqfY7u3xbE/lVbTwVbVFSzzht24Op3pGAenaLhxYcqeSfe2Emp/uuo9XZjS1dLF9sFTBXrKKpi/oxopWIR9lBk6r9+ki3fCMwqbEp5FvkpUzSnhr3j9VZqp2AEcB3E28sVBCm3I8kAXwYwkFJTus9PDAild/4Dbbbxa3mzH/MGJRS6l7cnNzSyOokiietqJIxE7B1dZA6rbi+75HHJt28Y5vrjVlfo/XgmhO+gnlklelLDrVwhJ9iG37b9r284r6PLVSOnkmrZ7p1BI1WNOfG21uxPzfCbXunYs6yen/emmo5g0KR/k8ZZQYyf6+b8WucIL8GFmKDaGNdLanp9V0lTWUEU0YgmMLRzuN9uGUk9uRcW+MGFWU5ZSaWqc0hoEWPL6lo5I/1CzhgpVlN+bdiDfycGOdZOwIYzH3P/9k="
+/>
 
 **Marie Hartlieb:** Die Proteste sind ja geprägt von einem sehr speziellen,
 ironischen Humor hier. Ein Bild, das im Internet kursiert sind zwei Hände die
@@ -246,9 +253,10 @@ sehr viele junge Menschen leben. Wie schätzt Ihr die Lage auf dem Land ein?
 
 <RemoteImage alt={`Zitronen und Essig für die Demo - Bild: Carolin`}
 size="medium" title={`Zitronen und Essig für die Demo - Bild: Carolin`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/zitronen-essig-fc3bcr-demo.jpg?w=200"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/zitronen-essig-fc3bcr-demo.jpg?w=200"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_zitronen-essig-fc3bcr-demo__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_zitronen-essig-fc3bcr-demo__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAQQF/8QAKRAAAgEDBAEDAwUAAAAAAAAAAQIDBAURAAYSITETQVEiYYEHFDIzcf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAD/xAAhEQABBAEDBQAAAAAAAAAAAAABAAIDETETIVFhkaGxwf/aAAwDAQACEQMRAD8ApVfuOg3FRw3W3VQkokAQmJyvFiAceO2+oZHWuffKqDb9P6tyeenhan5s6OcYLHAzjPfXWpL+k+8rfYdotBc0aD9vWS1UkplJK8TFhEjwebHBB7GOtPb3Wl3HtiGpirjIlVDIYW9GSNXJc/2KPPFgRjHz5zqd0GoCTnymNldEQL2rHfqtKh3ht6tRngJXB7E0hQ/Y4Pto1Mr1uG6Wy8VNHZ7l6UUZHqJQqOIkP8g3JCc5z5PXj20aSYDe3oJ4mcM/UqXa/wBPJfY6kLEKSSk48TEHTBJJAX2J98e/em7Zu75Kqc2qdlFDTQKKYxKF9NTgiPA8nJPfydIW6JIbtcKmriQwl2JjQKApGTgEDx+NY2fd4bczLPDCODNOJWH1kgKQmf8AVOPudXg8IIHiOVrnYtMtJcafblGtJDKxkd3kkJdo3yT0G45yQPv86NI9xuUlXWS1MqpzlPIhFwB+Bo1iG8IDIQaadl//2Q=="
+/>
 
 **Carolin Winterholler:** Wenn man weiß, wie die Medien berichten, werden die
 Menschen auf dem Land nicht viel von Erdoğans Machenschaften, Gesetzesreformen
@@ -282,9 +290,10 @@ gegeben hat?
 
 <RemoteImage alt={`Hier wird Geschichte geschrieben - Bild: Marie`}
 size="medium" title={`Hier wird Geschichte geschrieben - Bild: Marie`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43561.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43561.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_43561__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_43561__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKRAAAgEDAwQCAQUBAAAAAAAAAQIDBAURABIhBhMxUQciFBUWQWKCkf/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQAC/8QAIREBAAIBAwQDAAAAAAAAAAAAAQACEQMEMRITIaGBwdH/2gAMAwEAAhEDEQA/AMhT9C2+IFbgkeCkbp25JWLuMb1JH1Hn3jUCxfH6113qZK6tgtlBTRtI9VM4QNIH4GTgeDnjPC++NSv3Xb6y0RMDUSQVV23fjCp2yybmORwQVXcVYD1jVtXRXPpjqbqmlBQU7QALNGuIY5V4ZFUnPhiCcckZ1radRK1Z0Xsi4jF6P+W5/wBIttGlEkjRLHRrmrhHfdQM9tuVPAz9iDk+NXFN8t1kNtSrullplRpWgTtVg3yShvqqrj7DGASCRn+RnSCu4udd05T3GlC96Kp/DDI4UpUMMjaM5I2qCWIAHvTN686rqrE9poq+hoEstslVqYCANMdka5kKkgZLNnGcHPPg6Fe2H0QnaLefmcxvLXUzJWCuVHidZIdrgtuXwQB6IHn1po/KPVNPdbLa6iipKk1NdQxyVckjcd5WG58KfB+pxxo0aZaGYv1JM9ZeoMdKXFGUxzbwrSDAMhOSBj0Bx/o6r75XVcz/AIlbVCZotidw/ZiAAApb+vH/ADRo1fqDs9NTjHtt+Ek1U3N8PP0VxP/Z"
+/>
 
 **Marie Hartlieb:** Ich war für meine mündliche Bachelorprüfung in Deutschland,
 als die Proteste losgingen. Ich hatte meinen Flug schon gebucht und bin auch
@@ -304,9 +313,10 @@ davon? Was muss getan werden, um die Berichterstattung zu verbessern?
 
 <RemoteImage alt={`Taksim - Bild: Caro`} size="medium"
 title={`Taksim - Bild: Carolin`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/taksim2.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/taksim2.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_taksim2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_taksim2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAgFBgECBP/EACoQAAIBAwMDBAAHAAAAAAAAAAECAwQFEQATIQYSMSIyQXEHFiNRYWKh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIAAwT/xAAgEQACAgIABwAAAAAAAAAAAAABAgADETEhQVFhgcHw/9oADAMBAAIRAxEAPwCNtF4t1hihppKVIo1G6ZFyzd4YgMpHORyB/H3plbb1Nb7hDA1G0sjSgYBXBBPjP3pF6jq+sp0iWQQyiGJYkmTBSQhzlsHBwRkf786nL3V9SUlKktFUzUTL2yna7oWVT7VGCfGCecHkaVa1rJPWKKi/eOf1Rdo7fZqmSKojjqQq4UkdwywBOPo6VHqmvNMsRMv6U6tOv7AF2Xz8+3WaGvuH5SW+3K/qlUq7c0VXE8gEjAGMglu05U+fHnjVLvsNBT3ilUVUiwrEO+VpGqe5j6u5VbAGTngceo6uYlMA7MiVBgWGhIGCNYb1HDKqzpsORuKCQUBIPj+o11dV3utu93qmrJmkRJHVIz7VAGOAMDRo0aGOobQM5l6/Aa2U9wpLy9xUVdNFLTwx0s3qiDMHO4VPBIAwPjk62slwap6qtm9SUO/GtSks6QYebaVgpPJweB40aNaEGQhP3EQcm8e5/9k="
+/>
 
 **Carolin Winterholler:** Ich muss sagen, dass ich von der deutschen
 Berichterstattung begeistert bin. Alle großen deutschen Medien sind mit
@@ -326,9 +336,10 @@ nichts ändern.
 
 <RemoteImage alt={`Protest - Bild: Marie`} size="medium"
 title={`Protest - Bild: Marie`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43771.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43771.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_43771__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_43771__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EACkQAAEEAQMDAwQDAAAAAAAAAAECAwQRBQASIQYxUQcTIiNCkbFBYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADAv/EACIRAAICAQMEAwAAAAAAAAAAAAECAAMREiGxBBMxUUFhof/aAAwDAQACEQMRAD8AkPT1C5/VSswMpg1433G22y9kAh5oICSpKW6ogq5uxrYOuZk6dgXUYuezCUp1TYcRMQkLRxRKgkkXzwKI864kx2KZMVyaMfTaBZDiQ58rFAHubHjkH+tW9xbWXlJzgeZjpx0anC004tbCzW2xt2K43X54B1D3WOdtyM/Bi9lQBqOAcepfcj0FPyD7royWOpx4ukh9S1JB+3jj8jS0qNI6NxseUnNRI4FNqWy6XHbJ3duDt+Pbmr1l0uXkuoY6MeubGQG97ryKU20pV7ysJCRSaHe+57DTOUnJ5mHj0zHUuradLSdqLdabI+7sSk1wSf8AdAttuoayPuU3SjGVz+S5enuU6SRFzOWymHdkCO3HQ3HftLXukLKglF/NRoXZ4FayZrOTWY86DEWGY0tZLrLYsEc0LPNAfrRo0ioDnMM3Fn0ehzJfpqSZkbLMPyGmHHoyvbWtO1Njk2QPH70gJE5tSn4JeMhs/WcUUp3gVRAP8cEV+dGjTLSrVPYfII4itaylEXbY8z//2Q=="
+/>
 
 **Marie Hartlieb:** Das kann man schwer sagen, ich glaube, das hängt davon ab,
 wie es jetzt hier weitergeht. Einer unserer Protagonisten, ein Deutschtürke,
@@ -358,9 +369,10 @@ meisten von dem in Deutschland?
 
 <RemoteImage alt={`Das Kulturzentrum - Bild: Marie`} size="medium"
 title={`Das Kulturzentrum - Bild: Marie`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43341.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43341.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_43341__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_43341__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAQID/8QAKBAAAgIBAwMCBwEAAAAAAAAAAQIDBBEABSEGEjEHExQiIzJBQlEV/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAHxEAAgICAwADAAAAAAAAAAAAAQIAAxExBBIhEyJh/9oADAMBAAIRAxEAPwBdvPVPT+4VoKm0QItllFmSwUVRGAG7oyPJwRkt4Ix/dKrW8U6pX4WvFeZgxK9+MFRkAYPzEnjjXXr6D006cl2tukIRvE1d5FtyyyPNXmDADLykgEgjPyAjUgrDcdrkt17EhrwP9GAxB+4lUyhx+uV4J8DRW1q1+NW8ialWIsZfZWxX6dyu01eFVm7A4qCNmyCBjDhvPOSMfwaT9R7sNusSxUoY52hiWRyUZuScBOPB/OqC11Nt1bZ+m92/yZtxG4V3glqs3YEeFioZGBLDL5IyB9px51K3DLuNGlbW5J7kjBnSTswhKnjgDOPJ/JONFeZaqn7fm5oODVc2VGhnwCXHrj6Wy0HoXNoltzbFER8ZC7IWr/xh2gZU8DwccHxqH2BKcK2VpO7FXAeRjkFsfq3g8ecaNGs7UCjC6lDs57Mcma9TNffa4EoTxRLQV3UdgVu0ksVBA55LcHznGsqLVTpiWYqV96wI/sDfR9oEyKpGThgM+CMnRo0awChyNSM7Kw6nfk//2Q=="
+/>
 
 **Carolin Winterholler:** Haha... es unterscheidet sich wirklich in ALLEM. Ein
 kleines Beispiel: Nach einem Tag in meiner neuen Wohnung wusste jeder in der
@@ -378,9 +390,10 @@ keiner deutschen Großstadt.
 
 <RemoteImage alt={`Plakate und Banner - Bild: Marie`} size="medium"
 title={`Plakate und Banner - Bild: Marie`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43391.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_43391.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_43391__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_43391__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBwIEBf/EACkQAAICAgIBBAIABwAAAAAAAAECAwQFEQAhBhITMUEHIhQWI1FhcYH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAwT/xAAnEQACAQMCAwkAAAAAAAAAAAABAgMABBESIRQxMkFRYXGBkbHB0f/aAAwDAQACEQMRAD8A07+W8Cr5C972BdxMkT1ZKcorAKVPq9evvet/qexxl8KzdXymCvU9dShJURaVWnK0kks0UUe0IJUBm6I+RvXxyrMfjrXmjn+WMRcsSPC/9WOIstcqzKrMxOgT2w330dcy8MxeTxuWo4byVrFRx7hSWWX2mQhWYp7h3odfff7HXJONLM6DatEZURqg6u/P1Vg5XyYJY/iK9URR/KichETY+gOvj73zkt+RbeNrOSgyfvIyoFkAjjcOSfVoddHob74vZOCpYzKRY7HrmWtfvBFHI0sntKzKWYbA6C7/AO8Y08SyksUdWTDvXomF7EcdeNU9MzRbX1hm2WBIUgbHR4bxzWzgzSAHxIFXnt0mXCqT6Up4H8gy0qMOGwxatjUsvPGPSFJZDoBhs9aAOtnk+SeRytWa5dri007ltsAVWX6Y7/2dcOHGQxMZHnWVQAwNLfhs2TsA06mXejT9QM6x3FrSSLr4ViNn4HW9f44y+U+MXKmAxtyrkY52eSSy5NxWswxtKsMe2VtPsgnSfG+/78OHBYn13zxEDAGeW/YN/ekHXRbJIDuTj5/K/9k="
+/>
 
 **Marie Hartlieb:** Die Lebendigkeit, die Offenheit, und das Gefühl, dass hier
 jede noch so absurde Idee wichtig und realisierbar ist. Die Menschen machen
@@ -430,9 +443,10 @@ Zuhause?
 
 <RemoteImage alt={`Taksim bei Nacht - Bild: Marie`} size="medium"
 title={`Taksim bei Nacht - Bild: Marie`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4192.jpg?w=224"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_4192.jpg?w=224"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4192__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4192__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAHAAAAQMFAAAAAAAAAAAAAAAAAAUGBwECAwQI/8QAKhAAAgECBQQABgMAAAAAAAAAAQIDBBEABRIhMQYTIlEHI0FCYXGBkdH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAIBEAAgIBBAMBAAAAAAAAAAAAAQIAEQMSIjFBBCFhcf/aAAwDAQACEQMRAD8A5fQQrVRtLE5p9Q1Ir6WKjmxINr/rFohBlt5aeQLjVb/cOrMYculyam7FOtNmMSFKkmY3mBQOr6Tst9wQPQ2wgzSl5I2jjFwm+rff3gEUajIAwswqFo3pEWGKWOrXd5HmBV/wFsLf2b4MZZqaTsLIyHTcgEppFyL/AM4MIDUYrKUuXVbNMIoXdkBLKilioHJIHAw6un+lZKrJmr3k0O8ghp07ZIkYW1Xc2VAAb3N74kj4eUdE+RVGWxMy53DG9TMsHAQKPvFx4i5Km/Pu2FDOc/CdNw5TS1avWKrtoip/CWNirkjULrvYEbi/rEuTI7bU57+CVeOUTc49dfsiXrCoC08ktE8cdLO4iFP2+NCjyvbTuSeDf3gxr9V5dJTxsrmESx/MIWVWvvxYfUYMUImkVzMc2TW1kVP/2Q=="
+/>
 
 **Carolin Winterholler:** Ja, auf jeden Fall. Ich bin gerne in Deutschland,
 freue mich aber immer wieder nach Istanbul zurückzukommen. Obwohl meine Familie

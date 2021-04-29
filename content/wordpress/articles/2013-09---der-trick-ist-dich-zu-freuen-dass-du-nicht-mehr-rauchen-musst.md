@@ -37,8 +37,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: Die Sache mit der Motivation
   
 ---
@@ -52,9 +51,10 @@ unterstützen und mir mit Rat und Tat zur Seite stehen! Ihr seid großartig!
 
 <RemoteImage alt={`rauchen`} size="medium"
 title={`Das interessiert mich ab jetzt nicht mehr`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9576025930_4f28f0d3d1_o.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9576025930_4f28f0d3d1_o.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9576025930_4f28f0d3d1_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9576025930_4f28f0d3d1_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKRAAAQMDAwIFBQAAAAAAAAAAAQIDEQAEBQYhMRITIkFRcdEygpHB4f/EABcBAQEBAQAAAAAAAAAAAAAAAAMCAQT/xAAaEQADAQEBAQAAAAAAAAAAAAAAAQIDMQQR/9oADAMBAAIRAxEAPwDn5OFR5LeI9RHxU3H6ZeecbBS4UnkhY+K2tphnA8gltRSR9KQYreYPTdu+4C5bOucA+E0Kts6tWsxZ4/RIeAgPifVcfqrzH6BQSO4p9P3/AMp14PT1pZXLiVWKkoEFJSiZHBP5rb43A2dwEdDLja07hSkc+9TV2uEZ+j6Kmxtra37JIEqhMR5UwcPaMlA6NiYnbcUUUOdN9F3lMu2G+2FLS4QoHpIG46Z5iruzu0FUEHpPCo2HvRRW1TTAUI//2Q=="
+/>
 
 Nachdem eine solche Fülle positiven Feedbacks auf mich einströmt, seitdem ich
 Euch gestern von meinem Vorhaben, meine Sucht nach Stinkezigaretten endgültig ad
@@ -65,9 +65,10 @@ Bisschen. :-)
 **Was hat Dich, während der Entwöhnungsphase motiviert, weiter durchzuhalten?**
 
 <RemoteImage alt={`rauchen`} size="medium" title={`Die Ketten sprengen`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/ketten.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/09/ketten.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_ketten__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_ketten__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcB/8QAKRAAAgICAQMCBQUAAAAAAAAAAQIDBAURAAYSITFBExQiUXEjQpGh8f/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAcEQEAAgIDAQAAAAAAAAAAAAABABECIQMSYfD/2gAMAwEAAhEDEQA/AO0Fh6jCvj8pLDYw502WkiBjkRu7ceiQW8e59tb3xLqnpu7ks5Qsw5CKeGOIzpajXuLBNAkqD2sdHQO9DfJOlJjIOjYTYhjo4pJvi2lj7mMjBisaD3c+FJ++vtxjF2McuSgr4dbOXnraiksvsRrHMWL9p8AkBdnQ8aHIqjNoCbkficFJcwtiLETWDBIFWzJkGEqxoj7V11+5hsBT41660OZ31HUyFPqC0s0Fa0le5DJWmgUR67WVz4PljrwfxzT8lFfxb2KVDs+UbushSxBdjvX5AOv65nMomyuQ+HcxxV4IzLJamcrLEdbBAH0oN+3kkeTw4qsXMKqW3qfqRcdSvyQUInWhPBWhSRu4AyKCz+nr9Wv94vSyuTq5DqiKG5+tFXqNWkeNSIS0hB+gAA+vDhwJqG2/vZaqthKuHxdC1F804gYict2tsMR5HkEfxrkTFBVq3shSWuGSNRI7E+ZHY7JPj23oDhw42BuT5l6z/9k="
+/>
 
 **Evelyn:** Mein Freund ist Nichtraucher. Ich habe mir immer gesagt, wie schön
 es für ihn sein muss, keinen Aschenbecher mehr küssen zu müssen.
@@ -92,9 +93,10 @@ ich auch ein Jahr lang rauchfrei.
 **Hast Du Tipps für mich?**
 
 <RemoteImage alt={`rauchen`} size="medium" title={`I just toasted some money`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/toaster.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/09/toaster.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_toaster__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_toaster__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgMEBQYH/8QALhAAAgEDAwIEBAcBAAAAAAAAAQIDBAURABIhBjETFFFhFTJB4RYiI3GBocHw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwUCBP/EAB8RAQABBAIDAQAAAAAAAAAAAAECAAMRIRIxBBMicf/aAAwDAQACEQMRAD8A6XWz3aXqG5RxXOvWJamTaq1DBVXccADPA1aRx1kUa+br7gq43bvHdmIPYYz3P0/vUelLfiS6R1qxeVM0rk8g8NwB6++p9fuuNAzbmp6QEDZH8zL/AIcempN1Rd1TidZNUySjus6RyCrqI40DfkhmcOQPlHfBPqT30NsnrPiNKslZUurOpKvIxyD6g6XP1G9smMMkC+VRfDhJJDNgZB3HuCBoLLd6a9XaB4aj9eIgtAfmAJxnOBkaKNw5xjndHclg+gM9Vj7jWT3HrG5WgTeVjFZKWVwA0qgkEo31HHbuM862c81FRUCGI4cr4USIcl/b76xt5sV4n6luz/Bq6WmkrZJI3WMjI3Eq6sDkH0I1Y0NkvK7jPHcN23bHI0I3pxj9v5++em5aWShSso4BdFDfoKianqkSil3lN0YILDjBADHjGR7af0bapo7vQ3aeeB/FAgjjhOdnILBuBzwNPtMvUElHNR19nrzLGdkVQI9gcZ7n/udTbHbK2lulIzUM0aCUMzGPAHv7aweOewkmyguccOe/2v/Z"
+/>
 
 **Evelyn:** Leg das Geld, das Du Dir sparst, auch wirklich auf die Seite. Das
 motiviert ungemein!
@@ -166,9 +168,10 @@ vergessen hast. Klasse [Vorhaben](/2013/09/09/mein-pakt-mit-dem-schweinehund/) !
 Ich werde dich auf jeden Fall tatkräftig unterstützen
 
 <RemoteImage alt={`rauchen`} size="medium" title={`Ihr seid toll, Schnuckis!`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/herz.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/09/herz.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_herz__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_herz__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAAtEAABAwMDAwIFBQEAAAAAAAABAgMEBQYRABIhBxNBFDEiMlFhgRUWM1Jxof/EABgBAAIDAAAAAAAAAAAAAAAAAAIFAQME/8QAJhEAAQMCBQMFAAAAAAAAAAAAAQIDEQAxIUFRYcEEgbESEzLh8P/aAAwDAQACEQMRAD8Ax2NRbXRbNID9u06ozv05mVKW4w2G2QtOQp51WcFWeAAVHwPbVOo9o2q9LXAmWdQ4dRS33kteiZdS63nG9tewZweCCARkccg6SOmKBSGKFHfQtbNSiUuqMbU5LnZaCXUDySnIcx9Eas9bpUSrMtNTe6Cy5vS4y4ULHGFJ3DnapJKVDyPwdLHCZvTh1llpKAR8hM9hlbAyD5mkKfRLGU44iLaUSchslLj8ChIeaQR7jelOCR525xpB6m2jbYsapVSjUylBsxC8y/GjpT5HIIGQfcfbka6DHbbabbZQhtttIS2htISlAHsEgew+w1IeoWxyyeoKmQPSb3+0R8pWGmw6U/buhf53altRCqyLS2pBKARG/wBX4mill09qtdMLWZ7xjTY0CM9ElpGVR3ktpwofUcYI8j8ad6PVxUojneQI86MsszGCf4XRycHygj4kq8pP+6hXTjqFRIFr0iJLq0NlxiK22pLjm0pISBjkaNXPc1ArCXHaZd9Hp8mSz6SYVvpUl9jcDtIzwocgK/qojRKaPqiibcStHtuHAW21HfzpJpo/d5uS5U0ajVIU6OEKeL6WyqRJQByWwRtbQQeFK5PBA0O6oiLT+mlagwm0sxmqetpttJPAx/0+SfJJOgDl2RUveocv6hBxtPaYS1Fjr2NjPw5KsgEEcDHygaROol3MTaXU22roamIfY2CMhlG0nABwRyMkZ/J1YhrEfuKHqH0rAS2ISMt9Sc+Mor//2Q=="
+/>
 
 Es ist wirklich toll, wie viele positive Reaktionen ich auf dieses heikle Thema
 bekomme. Damit hätte ich wirklich nie gerechnet. Ich hätte Euch wohl schon viel

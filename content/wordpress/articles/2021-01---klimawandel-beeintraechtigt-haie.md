@@ -31,8 +31,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: Epaulettenhaie in Entwicklung gestört
   
 ---
@@ -61,9 +60,10 @@ Acht gelassen werden.
 ## Die gesteigerte CO<sub>2</sub>-Konzentration macht den Epaulettenhaien zu schaffen
 
 <RemoteImage alt={`Graphical © by Carolyn Wheeler`} size="medium" title={``}
-mediumUrl="/wp-content/uploads/2021/01/Graphical-©-by-Carolyn-Wheeler.jpg"
-largeUrl="/wp-content/uploads/2021/01/Graphical-©-by-Carolyn-Wheeler.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_Graphical-%C2%A9-by-Carolyn-Wheeler__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_Graphical-%C2%A9-by-Carolyn-Wheeler__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMEBQIGB//EACcQAAIBAwQCAgEFAAAAAAAAAAECEQMEIQAFEjEiQRNRBiMyYXGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgYAAQT/xAAlEQABAwIGAQUAAAAAAAAAAAABAgMRAAQFEiExYbHwQUJSweH/2gAMAwEAAhEDEQA/AOkXVqldlDuFJHfHMd96oTd2iiq1Wnerbj4zTrqodageSGw3iIEy0Yj71sd7cm2t+a2zVlWkzulMcmeAfECez1qh2m/3Cz28G22W2trOEKUrek1N6YYEvyU5aDiQM99a1PYipKsoOgn0nz7pXZwxK05iJmI1jfU0/jaMls4q1uNUkQ4CkAHLEEzHQxMyPvUjb6YSv1VUgsv6tOC0YOfY0gXS1LxLipt6i6YwX+KWj15f1HZx/mp1rXZ7yqhQBYJ5BIEiOz96JvECtQTO/FRzDUIQVRqATv5+1ju1K/KK+32zV6gpkoPIKzegSP51U29t+Smk73CDlKH42pEN+3zAZZAz1IOBo0aXLp5QeWOT3TRaNpNu2T8U9CmpS3FAEbkuJjgSZLe+uhgdZOfrTNtS5Tcl+YVeEN36xOdGjVWzyi82OR3RXTaRbuGParo1/9k="
+/>
 
 -Konzentration machten ihnen lange Zeit nichts aus. Zumindest gab es keine
 sichtbaren Veränderungen. Dass die Tiere jetzt so stark unter dem Einfluss der
@@ -89,9 +89,10 @@ nach 101 Tagen.
 
 <RemoteImage alt={`Shark pup © by E. Moothart`} size="medium"
 title={`Shark pup © by E. Moothart`}
-mediumUrl="/wp-content/uploads/2021/01/Shark-pup-©-by-E.-Moothart.jpg"
-largeUrl="/wp-content/uploads/2021/01/Shark-pup-©-by-E.-Moothart.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_Shark-pup-%C2%A9-by-E.-Moothart__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_Shark-pup-%C2%A9-by-E.-Moothart__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQHAgMI/8QAKRAAAgEDAwIEBwAAAAAAAAAAAQIDAAQRBRIhBjETIkFRBxQyYYGRof/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EABsRAAICAwEAAAAAAAAAAAAAAAABAhEDEiEE/9oADAMBAAIRAxEAPwDm+1SIuMJuzwAfenpLZ0lmiET7oSQ4VfpIODn81bdI+HHRl1beLbGS6AGfLetu/lKXnRsVheyDTNLlutO8Jpx40zmR5GG1V42+vJ3Fhg5xU3LV010a88pLZPhGDGwGSjADjJBrAxnv2FWHqodJW9kja4VS/MfktY5ndw3flEbHfIyfSpAWJA3cn2pxlZPJjeN02L2tzeWbn5O6nhzxgSEY+1NT6hql5EsV9qd3NEpyEeZiKKKV2G2jVFDGHAjRFJPcnH7Jph7aQKzGS3IXOcToTx7DPNFFaE//2Q=="
+/>
 
 Die "Frühchen" aus dem auf 31 Grad temperierten Aquarium waren wesentlich
 kleiner als die Fischbabys aus den anderen beiden Becken. Nun liegt eines

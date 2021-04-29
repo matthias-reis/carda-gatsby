@@ -32,16 +32,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: Klimaschutz und vegane Ernährung
   
 ---
 
 <RemoteImage alt={`Klimaschutz`} size="medium" title={`Biolandhof`}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/biogemc3bcseanbau-640x480-640x480.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/biogemc3bcseanbau-640x480-640x480.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_biogemc3bcseanbau-640x480__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_biogemc3bcseanbau-640x480__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAoEAACAgEDAwQBBQAAAAAAAAABAgMEEQAFIRIxQQYiUXETBxQVMpH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQG/8QAIBEAAgICAAcAAAAAAAAAAAAAAQIAEQMEBRIUIUGRwf/aAAwDAQACEQMRAD8A7RtybXaRW/e1o8kALK4RjnA/qee5Gm9ra6lNSbE0KAfJyf8AANcZG17FW3OtMbzwQxEtJGG6/pQccZONV8/qPb7EEQ/nZkeUsY4lsqrMRyMqB3486F+IFWKk+orHqArZEpJU21yqiUZfAX25zn651it7PG6F4el07ZXnGovdN/aCAXpN3s0FSs8hhsWAZA5wY2IwAOxHSecnSfdP1NrbRuG32I7TPPJKYpo5LH5I39gPQwUccEfR05N9we4uA+pjYXI6v6g/GpmryV3qrMTMWBCxsBlWYY4GOz9uD5B1S098uHYRQr0K5aMkrIyI8PyCACGPnnI7edGjWazt09FRdjzfypQzGL796pLK8u8U2kNZJOt5WLGQtjBVAT0Dnz8axyy0KYjTbdvrx9eXyKw9hJ5yxGcnnRo1PldmXmuJaf/Z"
+/>
 
 **"Klimaschutz und vegan? Wieso hängt das zusammen? Warum genau ist es
 eigentlich gut für die Umwelt, wenn ich vegan lebe?"**
@@ -61,9 +61,10 @@ betrachten.
 
 <RemoteImage alt={`Klimaschutz`} size="medium"
 title={`Veganer betreiben aktiv Klimaschutz`}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/kc3bchlschrank-640x640-640x640.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/kc3bchlschrank-640x640-640x640.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_kc3bchlschrank-640x640__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_kc3bchlschrank-640x640__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQj/xAAqEAABAwMDAwQCAwEAAAAAAAABAgMEBQYRABIhEzFBByJRYRQjFTJxM//EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAhEQACAgEEAgMAAAAAAAAAAAABAgARAwQhMZESYRNBsf/aAAwDAQACEQMRAD8ASmmahTFI6pqL1S/LVHK3pbp/YOyUoBGFJ79zkHtoVFuM1+j1ee49IiCJHRsJaK23UKd2BzJPHbOfsZ+ddW12jW9TaY5UHqHTXBHSUgKbSnCVq93J45Jz8n51MaRfNumIFR7OgxmY0SQrpgbQhCQhKkD2lKtySBjvxjWXLkCcmu5QUBZlOlxpC3mVofKEBPubBI3koCef876TbZuGLcU2sJgHczTZn4Zd3Eh0hKVKIHGBnI85xnzrDqNfoldpkS85c9+gSYkeZEhQpT6UJcUgEAlPk5I4H1oP0sumnC1o8mv1qks1aoOdRTCXdpSMBCE7Tk5wnOPvxpvl25jppS48gpPce/WG56RDtaq0icFyHn2UoU0gf13KBBJ55GM8A4xnUyVS310WtraqzaFQ2gmTHqEsIXHb3HOQls84GwHJyTnjxXL/ALNh3VGUVqLMwNFkOAckEjz3HAI+886mV1end3GqyEW0/TY9GkOpdkJcdw46UlJAOUnttA745Oo5cbs1jiWdcHghW73uKfpsmM5Z1KNfp5epcWZNTLLrClMtDqsqPUUAdowDz5I05/zdpTq61LqbtuSXWW1x09JklbaSohISvHuzu4P33PBGm7GhU+gSLYqiZAEqMpUp2KlOStW91R7nkhOAT8DSU/ZVvxZiX1KuJCEIjykf8FdTqL/WkgDIzj5/3xpDqqNCvfqF9JqXCnGm1D9+u5//2Q=="
+/>
 
 Gleich mal vorneweg: Über 80 Prozent der weltweit angebauten Sojabohnen werden
 zu Viehfutter verarbeitet. Hinzu kommen Biodiesel, Kosmetika, Farben und
@@ -110,9 +111,10 @@ Futtermittelindustrie zugeführt.
 ## 1 kg Rindfleisch erzeugt so viel Treibgas, wie 1.600 km Fahren auf der Autobahn
 
 <RemoteImage alt={`Klimaschutz`} size="medium" title={`Kühe im Regenwald`}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/regenwaldkc3bche-1-640x427-640x427.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/regenwaldkc3bche-1-640x427-640x427.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_regenwaldkc3bche-1-640x427__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_regenwaldkc3bche-1-640x427__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGBAcI/8QAJxAAAQMEAQMEAwEAAAAAAAAAAQIDBAUREiEABjFBExRRcTJSYaH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQAC/8QAHhEBAAICAQUAAAAAAAAAAAAAAQACAyEREzEyYbH/2gAMAwEAAhEDEQA/AOfqFE93Nbisy2mJLi/bpQ80SFBXm5Fhsdu/x55fwek7U7KoPMtOrVkhbEgOLQuwAUUhNwLhOr33cHi+hOxloDkRhmddScUvgJIJ8WItu/zfjqn0tYU29NyaaQC4XHXdNICgQkW0rXnf1wcha3jNj6Ty5DfpmDXKA0OnG59Q9ZDUiaWXJLaciDlvSiCT3OyOIupKNFgL9q1WY0pltKVMSAwtAWFDYXa+Cgbb2De9+/No0ibRp9AjQag1BJzLqTIaUnNarZYrSQE5YjyN2OuTnWEGhoEgOQ3ILiFFKE+o5r7I+dXB5yX21D5DviyCIakj0wy4uSkx3iypGe7E/ikntcb138cqKd1RKiNiO603KjlslTbwuCQkWP8ALX1w4cdqW7xLAm4rrb6J2CIzZggpJxZWcNH9TyWrVTnLW20/KddxQBdR72Bt/htw4cnAWZBQ4n//2Q=="
+/>
 
 In einer
 [Studie](https://www.vebu.de/aktuelles/pressemitteilungen/1310--aktuelle-studie-der-universitaet-wien-zeigt-rindfleisch-ist-25-mal-klimaschaedlicher-als-bisher-angenommen-)
@@ -137,9 +139,10 @@ einen sehr kleinen Teil, dem Anbau von Futtermitteln zu.
 
 <RemoteImage alt={`Klimaschutz`} size="medium"
 title={`Methan-Quelle Nummer eins`}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/kc3bche-640x480-640x480.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/kc3bche-640x480-640x480.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_kc3bche-640x480__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_kc3bche-640x480__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcE/8QAKBAAAgICAgEEAQQDAAAAAAAAAQIDBAURACESBhMxQVEUIkJhcZGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACERAAICAgIBBQAAAAAAAAAAAAECAAMREgQhMQVhgaHR/9oADAMBAAIRAxEAPwDswnqDKtD7trD2IIhvyeWukajQ2e2fvX9ctGEz1nI5ipi4KEEdmwCyiZ0UhVG2bXZ0B+O+ZBjcOl+5kWyiySH3pkgEjsQqMQdhTsd75oVrLWMdRuXK4Il9hlQRxBiCw0T49DZXyHfxvf1zIs9QdXALnz35h0TfRVH1G5TLzS356lexZntRSMrQ0p0YL4nR6WM9b5CepKfqWyRHHE8AYsVAtrC7BRs/C7Ouv98zyzlspj/Wl23ThnrzR2CIkVWUDx60R/fwQfs/nis2nqC5QyeQyd1Fa4iGFQ5k0jOP2Bv4A+Q3r8aPHNfcHwthx7kxor4+oLr38fkbjvUt+pOjQRyX4igSRJrAUKNDrsfWuiNdaB5efTuZhlrtJLjIKs0jeLw/qBKXX4O+9DfY/wC8OHM7kYJzjuSsSWyZGZPKUq3lftxoI54yZJWsAo58l639/Ckn7PKnk/X1F67VIERYQ3udOSCwP4+P8cOHL6aVsYs0An//2Q=="
+/>
 
 Die Irischen Rinder belegen auf dieser traurigen Liste Platz zwei. Gefolgt von
 den Niederländischen mit 2,1 Kilogramm CO<sub>2 </sub>pro Kilo auf Platz vier.
@@ -160,9 +163,10 @@ Wenn man die Klima-Schädlichkeit verschiedener Ernährungsformen pro Kopf und
 Jahr betrachtet, sieht das folgendermaßen aus:
 
 <RemoteImage alt={`Klimaschutz`} size="large" title={`Veggie Times, 4/2014`}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/schaubild-1-800x454-800x454.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/schaubild-1-800x454-800x454.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_schaubild-1-800x454__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_schaubild-1-800x454__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBQEECP/EACsQAAEDAwEGBQUAAAAAAAAAAAECAwQABREGEiEiMUFRBxMUcdIVMjNEkv/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAAEF/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAwQRYcESUfH/2gAMAwEAAhEDEQA/AOjLpKS1LWhV2ETDYWWy2k4BONrJHfpU0eoU4MXF4pI5JijPv9tVWsb3AtILlzmoisAJSSuP53ETw8IBPQ7/AHpcHiTp8EEamAPf6Y98KzmyXSwqV2ONdkRivDybR5V1sw9gEx6CJCCNqfLVy/UHxrYhtPpIW5LeeSAU7K2UoycjfyBpMjeJmlippKtQrccOEkGE8Ao/xTFaNXWS8zhDts0vSShTgR5LieFJGTlSQOopxbVcfOjCfCyaxt62A5Bl2Pxg9e9Yye5oooxFYZO7ealnKhmiirkn/9k="
+/>
 
 Menschen, die fleischliche Kost bevorzugen, haben somit durch ihre Ernährung
 einen 7,5 mal höheren CO<sub>2-</sub>Verbrauch, als Veganer. Den nicht
@@ -182,9 +186,10 @@ Rindern zurückzuführen. Der Transport ist hier noch gar nicht mit eingerechnet
 ## Den ökologischen Fußabdruck berechnen
 
 <RemoteImage alt={`Klimaschutz`} size="medium" title={`Bio-Sojamilch`}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/biosojamilch-1-640x480-640x480.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/biosojamilch-1-640x480-640x480.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_biosojamilch-1-640x480__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_biosojamilch-1-640x480__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKRAAAgICAQMDBAIDAAAAAAAAAQIDBAUREgAGIRMxUQcUIkEVYTNCkf/EABgBAAIDAAAAAAAAAAAAAAAAAAQFAgMG/8QAJhEAAQMCBQMFAAAAAAAAAAAAAQIDEQAhBBIxQZEFwfBRYXGB8f/aAAwDAQACEQMRAD8AaH1Gv1Vq46iliP7sZXHu8QmQOI2sCPlw3y47b31rx79c9YzPdwJiJYJslko5rVG/BDK2QLGSxXZZQ4Q/4wEUrtd8v3rp0ZXD+pDak7jWuMv/ACTJDajjQWXrRWfWrpzA2fAXx8D56nJ6VZ7FzG9tVUuWdvPYswKhk9wQxbyRonx4Hk/PWJxmKbbfUhSMxEbW0O/yZ+vWCGDaxkzZo1t+UkbM0d/uiGzZNuzazGRgjDt6hW1Qt1uMiLr8NRtvQ9wQfjpsdidqZdfpvi7X3s8uYtSS2r8klhledy3poefv+KIoAPjyf31En7pqjJQYq48EeWWMrTrUJzArpzB1snhv33r8tbA9/LI7Ly1S3228McgL0Z5Kso1rR3zHj+1dT1dgMUXVqaKCkZRE7gWt7X500tJ1CHGQ4lUyePI3pbfU/BV8Xk6FnEJfkvXw5tTzXpJXKxcPTPKRjx0WOta6qHiiFUPM8E8rnawvKzerr/Tm50GI2B/fR0dKeouFT8eaUSzg21ytV5qlsDE2LizNg2CxKzRWbQ4MrDRAEfgA715H/esnB35m+yc1kreNqLfxlsRi6kgbhG6luBDqdKxU62dgj510dHTbpAl7IbiI1PnFDOthpmE9uwFf/9k="
+/>
 
 Jetzt gehts ans Eingemachte. Auf der Seite  _
 [Footprint Deutschland](http://www.footprint-deutschland.de) _ kann jeder seinen

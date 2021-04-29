@@ -33,8 +33,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: Ein Filmprojekt
   
 ---
@@ -48,9 +47,10 @@ Ihr alles Glück der Welt und viel Erfolg. Und natürlich waren wir auch
 neugierig, was sie uns wohl erzählen würde.
 
 <RemoteImage alt={`Caro`} size="medium" title={`Caro`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/471968_3580270779112_1081736696_o-e1370449490146.jpg?w=490"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/471968_3580270779112_1081736696_o-e1370449490146.jpg?w=490"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_471968_3580270779112_1081736696_o-e1370449490146__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_471968_3580270779112_1081736696_o-e1370449490146__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcCBQYD/8QALRAAAgIBAgUCBAcBAAAAAAAAAQIDBAUAEQYSITFBByITFFGBFSMkMkJEYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AYGRlnxlbAy5GU3Jo7ViyQiKnNu4CoAOg7gaqPUnP5/A4pZ609WS4CXkhgAQQgeN2UiTz9NHzXcfm8lW2vvC2NQSOHRQi86CRWPMdyAQp6DSm9QYuIlxFGCDNw5i1aSxbsTRjmVa6leTuPbvuep2HbbQNf0r4xTjLFVL8ka17kTzJZgVv2t+UoO3gEDcffSD44sfMZ2zIWBZ7TMdj4BJ1P0Fy89Tjy1j4dzHejZJFHYco5uY/4vu0058Pw1dx8eRvUVajQlaOlDExV5232JkI6uWbwT27d9ARaxN6GbMWrc1OeWBoIGigh+FFyfLKSd2LN0Gw8b99uusTxW00Az92sHFOzXqx/FL7j4Q5m5FI7jt31uuJ1+cz9zHSs4rXMhVrTBDsSkiV0cfddx9zoTPWW/Gs5WRIo4FZSiIgATl3A5fp3OgovRngA4Xhi3fydySjxBmYQECxhmrVz7huD/JzsSNxsAB3JGtDkf0ciy24ljxWJjEVGNv7D7bcxHnbf7sf813w8INWAGST3uAxLbk9Prq/u4OlNYitSq7GkjvFGW9nN09xHkjx/wBOg//Z"
+/>
 
 Danach habe ich Caro für längere Zeit aus den Augen verloren, wir hatten für
 etwa drei Jahre gar nichts mehr miteinander zu tun. Bis ich sie eines Tages in
@@ -150,9 +150,10 @@ Woche lang in Istanbul aufgehalten hatte und Joanna nach ungefähr einem Monat.
 
 <RemoteImage alt={`Friedenstaube über dem Bosporus`} size="medium"
 title={`[ ](//2010/01/09/mowen-am-bosporus/) Friedenstaube über dem Bosporus`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_0232.jpg?w=490"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_0232.jpg?w=490"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_0232__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_0232__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcCBgMEBf/EACsQAAEDAgQFAgcAAAAAAAAAAAECAwQABQYRITEHEhNRYUFxIiQykaHR4f/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAYEQEBAAMAAAAAAAAAAAAAAAAAEQExMv/aAAwDAQACEQMRAD8Acwd81JK86qV/kYmZCTh+JZ5YO6ZjrjSk+2Wh+4qkyZ3F15ammotpi8uR6rDCFA+ylrUPxVLCmViHFdmsFoeuNwmtdBtSmwhpYUt1xO7aQN1Z6Ht65UuMDrufELEreJsQK6Ntti/koDeYbS5uM8/qIGSir1+EaDSqbbcNqbxY3b8d87qgsv8AViOghx13Xp7ZklR1AG/in/CiMwYjUSI0hmOyOVCEbD++aXrI6YAT3qQUe9FFUK10wYhnynlRWFOvtIS6pTYPOAVZZ/vwOwroKUSdTRRQZ//Z"
+/>
 
 Danach statteten sie den Dreien in regelmäßigen Abständen Besuche ab und nahmen
 an ihrem täglichen Leben teil. Der gesamte Zeitraum des Films umfasst eine
@@ -198,9 +199,10 @@ derzeit noch im Aufbau, kann aber schon besucht werden.
 alt={`Das Bild stammt von einer der größten up to date fb/twitter Organisationen. Die zitrone ist steht als Symbol für das Gas, mit dem die Demonstranten vertrieben werden.`}
 size="medium"
 title={`Das Bild stammt von einer der größten up to date Facebook/Twitter Organisationen. Die Zitrone steht als Symbol für das Gas, mit dem die Demonstranten vertrieben werden.`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/969752_593296170689248_1481661969_n.jpg"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/969752_593296170689248_1481661969_n.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_969752_593296170689248_1481661969_n__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_969752_593296170689248_1481661969_n__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwUCBAYI/8QAKxAAAgEDAwMCBQUAAAAAAAAAAQIDBAURABIhBiIxE2EHFCNBUQhCUoHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EACURAAICAQIEBwAAAAAAAAAAAAEDAAIRBBITUaGxITFBYZHB8P/aAAwDAQACEQMRAD8Af5Kko0mO4qT2ryT/AFqfdLwaRPq088CmP1XrJEBhp1GCxk7sqducDH499SPiGt1q+mrrT2CqrKa6Komp5KPAdtpy0Y9yu4D3xoHtd96uguFwNuuFZerdJMFmBk+uCAFKvG2CDjgjGsKNDZ6zehGR6H98TQ14pYVM9J0F/o61BUU80L0U8jpSzCZWFQqDudMeVDZGfvjPgjVBnzIM+cgaF+haw3vqy30EFHX01vs9DMsJqid8jsyq0Y3E7Y1C4AGOc6WIFlE0IdXTaw5b93jUXo4RA8jyPTpKKZuHOYTFaSWdpIvULyFgoYg8n21wPxJsFLXdTdP1dLTU0d0nEqTM1UaczRoIyqkgdzjJA++CeeNJixR/MGQl92TwSSNQuo7dLVXWkmp1pG+Wj2OsyEsBLIqmRTkYKhCfz9hjzp9K8rYCPftFcsWrNfpuxLQXm5VcMcSyVJy8BmyYyeS3A7Sf4+ODq7I2yWFvT2MZApBkzkE6IbJcKyD9RC04VoqGqtxjjCgBZo0hJSQhSQMlWIzzgjS5XMGnhBhlJDqRIqEgc8Zx/ujqE2TsrY5zUdsfUCbCwJAx4z//2Q=="
+/>
 
 Ich arbeite schon länger an diesem Artikel zum Filmprojekt von Marie und Caro.
 Erst habe ich überlegt, ob ich ihn, ob der
@@ -229,9 +231,10 @@ Kanäle dermaßen aufgewühlt haben.
 ## Hier noch eine kleine Nachricht an Euch, die mir Marie gerade schickte:
 
 <RemoteImage alt={`Marie`} size="medium" title={`Marie`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/31012_496184753733724_1570779907_n.jpg"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/31012_496184753733724_1570779907_n.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_31012_496184753733724_1570779907_n__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_31012_496184753733724_1570779907_n__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAT/xAAsEAACAQMCBAQGAwAAAAAAAAABAgMEBREAIQYSMUEHEzJRFBVxgZGxFmHB/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUB/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxIhBBETMcH/2gAMAwEAAhEDEQA/AI1ZqQRWx5lyaqXYuEywPsvt10wV/BN/tfDsNfeKCRqGdFZiyhmhYkjcZyu2O2jfgLUWynq56681MEXlYipxKR6ySSVz3Axqw8X8V2J6RrZcJZGFUhTZTjBGxz+tTbLSrdLKqVZrm52ZjS8UvwU7Im8Z3QnuNFfDu9fJ+K7dLNcK2goZJ44q2SjqJIXNOXXzBzIQemT9tdvENmeKjrKVwTU2+VlBPVkz++h0sUVF5s5jldomwTnlJwwGwP10tWVl3BPkr6lm8FYLLNa657knmVcUuEXIw2VwBvsO/wCdViK9WeYU2KMGSFFjZZgqPzDIAUBiWPQ+2O+sy8JXGusUstXSBZoXzHUUz9JVHUf0cZ/GqYnG9E1lb5Sa2WqigYRJUQKqUgI3JYeo9hjrtoVtZyJlOixQm9fYp+IF3j/nNzbHNHLUAzAHOQVAYfXRd7hSzUcbw0hKYRWkIAYsu2Ttv1BHfbSAtNM9w5KuN45w+XV/Vn1b57n/AHTZzzLSxkR+ZTyEZkyOZDkHfAG3b6/fW2ooAmcUeazph7M//9k="
+/>
 
 "Die Situation in Istanbul ist unglaublich ermüdend und motivierend zugleich. Es
 ist traurig, auf der einen Seite zu sehen, wie gewaltbereit die Polizei ist und
@@ -261,9 +264,10 @@ aber ich könnt Euch sicher sein: Ich werde auf jeden Fall weiter berichten!
 
 <RemoteImage alt={`Istanbul mit andern Augen`} size="full"
 title={`[ ](http://istanbulchangingperspectives.wordpress.com) [Istanbul mit andern Augen](http://istanbulchangingperspectives.wordpress.com)`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/cover_dvd.jpg"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/06/cover_dvd.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_cover_dvd__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_cover_dvd__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIEBQYH/8QAKhAAAgEDAgUEAQUAAAAAAAAAAQIDAAQRBRIGEyExURQiYdEjMkFCcXP/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQC/8QAHREBAAEDBQAAAAAAAAAAAAAAAAEDEWETFCGR8P/aAAwDAQACEQMRAD8As7bjeAanfadLpNty4UZWuXhBeR+awI3M2OwBz3/qqa/4g0+ZJ7e09Ulw49jDO1eoP6s9OgPatnNZajC+tGa49eJruR4IJAAYAZCBtZjjAHYDx5NRo49bPF2nNHEYtEECrNEk0ezfsbdlQckhsdcGmRUm5c0uLMQt1IMcy6uB5/M33TwXchuIdt3M3vXP5W8j5rrtxDujw0gCFs4MQYD47U9nCVkiKOvLBGVEQUMfNb1cJtrn3aTdaBdvdzOHtwDIxHuP7k/FEHD13HIjmS3wO4Bb6oopK1KbR7lxhxAV/wBG+qeLSLhGULyQoI/mfqiigP/Z"
+/>
 
 Merken
 

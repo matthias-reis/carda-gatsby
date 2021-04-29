@@ -30,16 +30,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: Die erste Etappe ist geschafft
   
 ---
 
 <RemoteImage alt={`Belohnung!`} size="medium" title={`Belohnung!`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9769518254_c7376914be_o.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9769518254_c7376914be_o.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9769518254_c7376914be_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9769518254_c7376914be_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABggBBAUH/8QAKhAAAQMCBgEDBAMAAAAAAAAAAQIDBAURAAYSEyExcQciQRQyUWEjM3L/xAAYAQACAwAAAAAAAAAAAAAAAAACAwABBP/EAB4RAAEEAgMBAAAAAAAAAAAAAAEAAgMRITEEEkFh/9oADAMBAAIRAxEAPwDj/pp6Q5iz3T36hARGhwGwQiRNKkofWO0t2BKrW5NrDzxgeiUqO3O2am0WmGXktynEI1bSSbHkDsgG35w3OQ0vSvS/KT9JrDMOoxqW0hBdTrQm6LG4HR/eLub6rFp/pa61U5keqVSOGVLcbaCN5wOiwCfxY6ecCzlm6r4nxxt7t7mh6lNr8imLqk96FTIbDL3sbS62BsCwA0jgXsOyDySe7HA5W1/UkL2YrQQmwEdlLY8m3Z84edRyhFqkyt1eDTXqqsaA640lRbbT9qE3Fhb8jvCferMunTs41aTR4keHEdVqDMdOlANuSB0L9m3zh8MjZcBuhtBKbcTq/Fk0vNtVhQGYkaW6lpCQlKArF5GYcxJUspM66eFHQq488cYx2MxON0z6NMaMj+EtbiRZQPFlA/ChYj96j8843FZ1uFLBS2sqCwlEcFP9mvTyvrpPI6xoa7GglKHK5WpLKy8mYsD7lKQrjybYGZzpXuFZGoggi/OCKFm5EcqKl7/tvZ2OPcrWpYPC+CNVr/IFrWxRqebHZsN2OuHCG4ztFaUe6+oqK/8ARvbxiy/BwpS//9k="
+/>
 
 **Sechs Tage ist es her, seit ich das letzte Mal berichtet habe. Das bedeutet,
 dass ich seit sieben Tagen nicht mehr geraucht habe. Zeit für die erste
@@ -65,9 +65,10 @@ Nachhinein betrachtet, schon ein Bisschen Auftrieb gegeben.
 
 <RemoteImage alt={`Früchtetee statt Nikotinpflaster`} size="full"
 title={`Früchtetee statt Nikotinpflaster`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/tc3bcren.jpg"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/09/tc3bcren.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_tc3bcren__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_tc3bcren__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHACADASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAIFB//EACUQAAEDAwMDBQAAAAAAAAAAAAECAxEABCEFEzEGElEkMjNBcf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAERIh/9oADAMBAAIRAxEAPwDdNL6de025ud7U7i7F4/uy4VyggHHvMzP1HHFWptHLZkerWEjwmc+cmlKgDyS9OsC3QDN26cd3xJmI/am2pe4FLuXHEBUFJbA54yDSlLLcv//Z"
+/>
 
 Was mir bis heute geblieben ist:
 [Die Worte der Twitterer und RL-Freunde](//2013/09/10/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/),
@@ -96,9 +97,10 @@ geschehen. Ich freute mich wie verrückt. Natürlich machten sich die beiden bei
 der Begrüßung gleich erst mal eine Zigarette an.
 
 <RemoteImage alt={`Eulen helfen immer`} size="full" title={`Eulen helfen immer`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/eulen.jpg"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/09/eulen.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_eulen__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_eulen__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAFACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMGB//EACYQAAEEAQIEBwAAAAAAAAAAAAECAwQRABIxBQYhURQyQUKB0fD/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAYEQEBAQEBAAAAAAAAAAAAAAABABECEv/aAAwDAQACEQMRAD8A7dy9wiVGfnImcVlSw/J1JUpxwFFAg7rI+AAOmx3zQOxVxmLbkumj7jq3s+uMZcmBNfTrSL0gpFPEEp1eRPa+368p4srTZQkUsDoT94xjwtwv/9k="
+/>
 
 Wir setzten uns dann im Café an einen Tisch und plauderten über vergangene und
 aktuelle Zeiten. Jede von uns war sichtlich nervös und glücklich, die anderen
@@ -128,9 +130,10 @@ meine Motivation.
 
 <RemoteImage alt={`Totale Reizüberflutung`} size="full"
 title={`Totale Reizüberflutung`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/ikea.jpg"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/09/ikea.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_ikea__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_ikea__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAGACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBQj/xAAjEAABBAEDBAMAAAAAAAAAAAABAAIDBBEFEjEGExSRITI0/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAMAwEAAhEDEQA/AOgdK6XZpctgR3bVgWrHfebDtxaQMYB59rYj08xt2ssygA5HHwiIDOSqutPxZcfsm9BWQV3skDn2ZZAB9XYwiJi//9k="
+/>
 
 Das war von Anfang an meine Hauptmotivation. Ich wollte nicht mehr stinken.
 Matze erzählt zwar immer, ich hätte nie nach Rauch gerochen, irgendwie kann ich

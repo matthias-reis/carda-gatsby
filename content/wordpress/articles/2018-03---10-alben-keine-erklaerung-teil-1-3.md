@@ -49,8 +49,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: Meine ultimative Lieblingsplatten-Liste aller Zeiten
   
 ---
@@ -123,9 +122,10 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 5.) Experimental Jet Set Trash And No Star Sonic Youth
 
 <RemoteImage alt={`} size="medium" title={`}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2018/02/experimental-jet-set-trash-and-no-star-50042a46eab9b-560x560-1-400x400.jpeg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2018/02/experimental-jet-set-trash-and-no-star-50042a46eab9b-560x560-1-400x400.jpeg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_experimental-jet-set-trash-and-no-star-50042a46eab9b-560x560-1.jpeg__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_experimental-jet-set-trash-and-no-star-50042a46eab9b-560x560-1.jpeg__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQGBwX/xAAoEAABAwMDAwQDAQAAAAAAAAABAgMEBQYRABIhEzFBBxQVIkJRYZH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUCBv/EACIRAAEEAQQCAwAAAAAAAAAAAAEAAhEhAwQSMUETUYGR8P/aAAwDAQACEQMRAD8Aw6x7ZFx3lb9vVGPIjtuqcekFttKXVNgKWdqj3+qMAngc60a8Letf06pk6K9HmvRKrGUlh1bbbj3WSlYKUufgk7m1EFJ/YOQAEbDj+odvQKu3AgQIMyQ+pDqp7ZRLG1sgBJPAQNxPHkHSvqjKqtVtSJCuOXRfloT3U2tz2y4WwwEkkZzvUpBUf2VD+a1A23yhEO3D0jz7tt1XtXEUcuxpzSw20uI010WFPMD2ySnJUEdJ5SXMZyoccnTsS56dIl3BDhpfZVLLjrciOyxl5ouSD7ZxLgIShXXQonacFHY4BAqVbkH3VNq1ebkxqdBhxSwgIX9yQXEqGO4AI4BznvqauCfV5d1y6k63tdffCFNDKgTtBwOPIwceMjTrNMxxJPaOwHxtc8RfHfytDpweqTgQp55SkAqClHqHvwBuB106YYUt+UWYsZwt4OHo7a1IVlQKTkHPbOp5hypUepddyj1lDbiVJIZguuYPjjHfRbdkSI1flvv0qqxYcjAC57C46VAqHIUpJBPc444yfGoeE8QVLwh9QCuf6nViuSWGabGiJMWXIS1HltN7ExVElJbGO6iEglXGASANRkZisUm7aQzUJkycw8UuIVIQ4npKyTnC+xGM8Z4/zVLeCqp8TGVAfRMkMvrcfjBRdc3FRU0tH12/QZyR/M51ExGrjuC5oL78WpFYdS6NqFfUI29RaQrgcYJ8c6ZAy2Jq11Ooy4Q4Ouaifs/iv//Z"
+/>
 
 6.) "In Utero" - Nirvana
 
@@ -162,9 +162,10 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 10.) "The Great Escape" - Blur
 
 <RemoteImage alt={`} size="medium" title={`}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2018/02/blur-greatescape-640x640-400x400.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2018/02/blur-greatescape-640x640-400x400.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_blur-greatescape-640x640__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_blur-greatescape-640x640__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYBAwUH/8QAKRAAAgEDAwMEAQUAAAAAAAAAAQIDBAURABIhBhMxFEFRcTIiIzNCYf/EABkBAAIDAQAAAAAAAAAAAAAAAAUGAQIEB//EACYRAAEDAwIFBQAAAAAAAAAAAAECAxEABCEiQQUSMVGxE3GBodH/2gAMAwEAAhEDEQA/AM+sv1NNSpGLVEJUUhZGYMASEG4rtwSFTAz85OTrP9dScE25CwGCS/B4+ANCdvUGM6d2bVphPK2IHuT5P10rnjl246ZWZ+B+UaK+jG3FtTH9v3M54/0caiSsomjZUtypIQQD3ScH2OqKSjkqqmKCIL3JGCLuYKMk45J4GibtY7laHRLlRTUxb8S68H6I4Ory2FBBOTtNSPVUgrCdI3jHimFrLvYBBlj4UDJ0fD0dXSbd0CU6sfyqXWEY+f1EHH0NLV06o6h9ZHFbrglLbsjK047chHvlhgk6Vajqq8w1Hd78a9ttiE7srxkktncTnjz76CucQWnERTI1wxs56106o6RnigZx6adgf44ZUYlceeSPrGs602VhWVdrnrK6NzF3oIZJ2kXtggPGUJIyh2lcYwGwNKt16su9ROsUlZcZGIUsYK94yM/J8ePvQg6oWjmoq2XvwVVDVB0w5nZ0YFZA7HHsQR58aw3Vwp1sydScg9jRK0t0MuCE6VCFDuDvX//Z"
+/>
 
 ## Wegweiser "Alben - Keine Erklärung"
 

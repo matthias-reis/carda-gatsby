@@ -31,8 +31,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: Stiftung Warentest überrascht
   
 ---
@@ -65,9 +64,10 @@ Schweitzer Stiftung für unsere Mitwelt verdeutlicht die Zahlen.
 alt={`Pflanzendrinks: Ökobilanz. Grafik: Albert Schweitzer Stiftung für unsere Mitwelt`}
 size="large"
 title={`Pflanzendrinks: Ökobilanz. Grafik: [Albert Schweitzer Stiftung für unsere Mitwelt](https://albert-schweitzer-stiftung.de/aktuell/oekobilanz-pflanzenmilch)`}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2020/08/ASS_-_Grafik_Vergleich-Pflanzenmilch-768x1273-640x1061.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2020/08/ASS_-_Grafik_Vergleich-Pflanzenmilch-768x1273-640x1061.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_ASS_-_Grafik_Vergleich-Pflanzenmilch-768x1273__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_ASS_-_Grafik_Vergleich-Pflanzenmilch-768x1273__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABMDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQDBgIFCP/EACkQAAIBAgUDBAIDAAAAAAAAAAECAwQRAAUSIUEGEyIxUWGBIzJCobH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwL/xAAgEQACAQMEAwAAAAAAAAAAAAAAARECBDEDEiFxIkJh/9oADAMBAAIRAxEAPwDoujNRWrUtFURKUnkiHi5sQ3jfzHF7jn4tjGHNXPUtXlUUy3hp4Km8kZbZmcML6huQFtwPnEKLTUUk7QZikI7k0jDupp1XAYkE/wAb7+xOFc66fy+pztqyWvkiqXFMGSOZUNkcldjwx2+cSW5LHIUR7FqgeRIgKl0eXe7IhUHfbYk8W5wYTyeADL4wtc9YLt+YuG1eR5G23p9YMUQiVLWPSw1XcilkfvyOqgeq6vf7xXupXzQdRytSRVXaKUY1Rgi9pSSLjgXuR877YtxmVpDeJwQSP1Njv7XtiUyLI3mkhPGhSD/uHU8/hu1rdu5z33IvluYS1tGk7Uk0BYsO23qLMR/dr/eDGzit210gqPY+uDAgqablI//Z"
+/>
 
 Die Stiftung Warentest untersuchte unter anderem Produkte von Oatly, Kölln und
 Alpro sowie die Hausmarken verschiedener Drogeriemärkte, Discounter und

@@ -49,7 +49,7 @@ export const ArticleListGridItem: React.FC<{
         <Text>
           <CompactTitle>{article.title}</CompactTitle>
           <CompactSubtitle>{article.subTitle}</CompactSubtitle>
-          <S>{article.description}</S>
+          <S>{article.excerpt || article.description}</S>
         </Text>
       </ItemLink>
     </Item>

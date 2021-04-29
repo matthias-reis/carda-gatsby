@@ -48,8 +48,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: Ist der Schachtelsatz vom Aussterben bedroht?
   
 ---
@@ -131,17 +130,19 @@ _Or do I merely thing you_ _Perfect in Mid Air?_
 _W. C. Williams_
 
 <RemoteImage alt={``} size="full" title={`Die Postkarte`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2011/10/shot_1318522744788.jpg"
-largeUrl="http://cardamonchai.files.wordpress.com/2011/10/shot_1318522744788.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_10_shot_1318522744788__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_10_shot_1318522744788__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFAwT/xAArEAABAwMDAgUEAwAAAAAAAAABAgMEBQYRABIhBzETFCIyQSMzUXFCYYH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAAxETIQQS/9oADAMBAAIRAxEAPwAM5Tpi7prCJF2qpxRKcQW1l4JQndwMoSU47aTt2rVHIwWzfbLiCMBXmJIHbt9s6QRZ8en1yusx1NuVB119YS9D3FpIUSpTakkZ9p7g86SSK7akuzXWWqUlioBISt0MEbV45V7txHf51FdKFRyatfYGPZIqrbdWYT4j18UtI75cqbySf8LejaG61FuCAU3RFnhUhAU0zUVOFwE8jaUjOdOLpqNjTW47U56rNORhhctlP1F+z0qB7gBOE5yQCc886nbwoyr9paLYq1SnU8PsqAmtIS4TkbvaRkZ/rP776b01qhOIL6LGYDkrqYlvSLmq3iJjNVHzLyS80t1t3knOFJcHPz2GiiKzRrLjVSD5iFVqrH2OmRKkqR6VIGC0EkhSsqOU/GCcHJ1uuXvf9qXZWm6Paj06CZjhZdcZeWhxG7KVDaccj8a4J6idSFMKZRZ8wJKHEE7JRIC3fFODvGCDwPwnjWS2L8jJl6mJJAk0p9cXd91NwpNN86mQotrLBQ3hGeVp9GE8ckn9nW/VemZte8qFPpDsh+mImNF0ydiVt/U7gpOFDGOeDn40sndSepj8aS0u0pCWnw8F7Wpgx4qgpWD4uU4I9OPaCQO+vOLp6i3fclvxa1bzsWCiY0FPIhvNpbQCAVKJXggAfy02dSpwYamBBM//2Q=="
+/>
 
 Den Zettel, auf dem dieser, zugegeben etwas emotionale, Schachtelsatz entstanden
 ist, musste ich natürlich auch fotografisch festhalten:
 
 <RemoteImage alt={`Der Zettel`} size="full" title={`Der Zettel`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2011/10/shot_1318522691267.jpg"
-largeUrl="http://cardamonchai.files.wordpress.com/2011/10/shot_1318522691267.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_10_shot_1318522691267__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_10_shot_1318522691267__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUDAAf/xAAtEAACAQMDAgQFBQEAAAAAAAABAgMEBREAEjEhQQYTFCJRYXGBoRUykbHw8f/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//EABkRAQADAQEAAAAAAAAAAAAAAAIAASESEf/aAAwDAQACEQMRAD8APVVd4hqfFl5Vb3dYqVK6RY40nYRxqDgKAOnA40lt0N3kT3Xi5OOOtSSB98/7OspKGKO43Wf1LU7+tfDN71Zi2MFe+eOmr7OWpokiUxzsoaRFGWTvtAP/AHjWQB5rJokur2Rqn9TYMUu1x2A7BmduT3OhtzgvSXyiZ7tXM5qUDh52Klc46/LBxr0WqlKrIpjadkJwcDcV+Xf79dRLhCr1lA29ZEjqUYBmy6jI5+I55/OowebyUJUq2YNVst9ry1E1Si1rpAu5cB8n3E9hg4POft1uU0MVZJLX01SytUDa4c70DZKkKeVPt6gfjOg11pL3TeMboZbHdDCayRqeRYG2Mu7IcHhhg5x+Rq1Bc65p2krrfNUxSnBUUzbW6AZP8ZG7OOzDQo0a2LN+3kT1M1TDHL6gA7GDiUrhevTcMAjA+GT240evEu6Wnkfb5yzRMRIu07sg+0cYP1P11y36aGn8uSmqZYwjRtF5DbRt6gkNk5PQZyfrorc7lXXHxBRrHQ1yAVMLOGi9se0/u3EdMD+tEzzeykrqsn//2Q=="
+/>
 
 Und schließlich und endlich noch das Partywissen, welches ich mir, zwecks
 Aneignung vor ein paar Tagen auf  dem Zettel notiert hatte:

@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors:
-  outsideImage: article has at least one image from another domain
+  outsideImage: article has at least one image that could not be found
 subTitle: Nachhaltige und faire Bio-Mode
   
 ---

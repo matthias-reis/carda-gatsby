@@ -48,8 +48,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: '"Der Schutz und die Rechte der Tiere stehen an erster Stelle"'
   
 ---
@@ -64,9 +63,10 @@ lebt mit Ihrer Frau Britta und der gemeinsamen Tochter Shaya auf dem
 buddhistischen Alltag.**
 
 <RemoteImage alt={`Lebenshof`} size="medium" title={`Johanna Schlitzkus`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/johanna.jpg"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/08/johanna.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_johanna__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_johanna__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABwDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABwEFBggCAwT/xAArEAACAQMDAwIFBQAAAAAAAAABAgMEBREAEiEGMUEicQcTFDJRUmFigZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AK1PaI3XJL/7rlktVS8TSxSFI2ztTHIHjJ/OoxVdYXWp6wisNvEMVBUPFGakKRLGGGW9WcDtgHHnUsuNTd6RY1iq6eWKSVYwZIwSODu2kYBHYcj86Bnt88q3EUdfzGeEnXjB8BvftnTlPbk+YctJn30yGO4S3S4NUiOOjSnw7qNr7y6kADJGPT/eohdutb19dIbZLI9Jn0EUW/Az2zjnQBKl6kubVwq/rpTVxkSQuzZxIpyp5/casJL8TLHVdHx3SZ3p5nQPLSxYOZfKg9xz41VYsVdgp+0c++sZHeQHLYP8AEcnQFOX4n36uucMjV7wWmSoWSSihCKjJu+0nGSccZzrfXV6tUFqBqoxsAzFqkrliOThdC+hXZRqCARkkDSyusjlpXnLH9B40H//Z"
+/>
 
 Nach und nach haben sie sich und ihren Tieren mit
 [AMOA](http://www.tierhof-amoa.de) ein großes, gemütliches Zuhause aufgebaut.
@@ -90,9 +90,10 @@ seit 2011 auch real.
 habt?
 
 <RemoteImage alt={`Lebenshof`} size="medium" title={`Der Hof 2011`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/hof-2011.jpg"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/08/hof-2011.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_hof-2011__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_hof-2011__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgMFBwL/xAAnEAACAQMDAwQDAQAAAAAAAAABAgMEBREAEiEGMUETFCJhB1GRMv/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwL/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARFR/9oADAMBAAIRAxEAPwDTn6/u3pGGCGGWqkAVGbCKg5JZiT4APGOc6ipIb9d2phdq/wBzI+W9uiCHDDJ2k5OQACfv+azSaxdTQW2kqqW4rV+55MVSEYQAoGUmQ7XbIOeF8cjV90t1PdaGFTcaeniqElRElgl3RsSoIX5HAyB2+9UVzhpb73X2cTW6sYRQbjLDLUTejtTO3BbkAliCAM5yf1qN+rbVA7RH2bmM7SzAEnHGTkaMfkW90FzoaesuU1NSxersMkq5XcOSpHYdsckd9BTa6KQ706ycK3IxWgcaQzTK6QUd3o6lhc3aqpXBKGn4VguAB2GCMD49u2oul6FbdUUMPvoVmlaQ01I0cp9U7OeQCqkD9kduNCai5XMzTJRW2vMau4R1oSquobj5EgHvnSjpiC6ztSz3WJo5KSV/SjTyrDAPxzyNNpq9urJLRZSaoQxU+WkY+kPmXPOQew+/Oe2jElP0O8jNNbbE8rEl2NHEcnyf86pay3XisgSjpzTUyKNoecuwfg8kDvzzg64H47u5A3XWkz5wgA/njQUkf//Z"
+/>
 
 **Johanna:** Wir haben es nicht geplant, es ist entstanden. Wir hatten bereits 2
 Katzen, einen gehörlosen Kater und zwei "Problemhunde". Eigentlich suchten wir
@@ -142,9 +143,10 @@ Kälbchen davon. Die Kuh lief lange hinter dem Anhänger her und beide schrien
 fürchterlich. Dieses Video hat für mich den Ausschlag gegeben.
 
 <RemoteImage alt={`Lebenshof`} size="medium" title={`Asha`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/asha.jpg?w=225"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/08/asha.jpg?w=225"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_asha__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_asha__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAGBAj/xAAqEAABBAEEAQIFBQAAAAAAAAABAgMEEQUABhIhMQcUIkFRYZEyQnGhsf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRIf/aAAwDAQACEQMRAD8A4txbdxy9vzpLbaGkFhJaS8k2hS/hSQogWOV9eevzltwYjFuuQ8fCUyr28dKG0q/ekCzRBu7BP50wb7xTacTjlyVpMOG86VtpbK18yikKq+/1Gr8HRpuXAwpCi/CcYKmnUlxsElbKkiyL8df19r0LWCwRFVIeTtlwngsN+5hP2bC08kA/KyfF/Tzq0gZvde3Mej2EeNInuyU8JUwoSrh8q77Kv8++rTHYUyNXqTMEHFLQtDDzT0hpKmXbHIcVlQ6rzSe76IGh7MT/AHkleNiwYsRk2oNRknkeXm6uwfvpl9QNtRtz5vbippdVj4geekIbURzsJCAqjdEjv+NYD1jw+Bw+XxjjUchKo9KjIcS02eKj8fkWdCx3YqvMhDHwORegvTUY2YuIlxSXZKGlKQ2sHwqvHVHv66tehvSgQ8ZsBp2C5bMp113i58NArKQkkm1eOvrdDVpZDs//2Q=="
+/>
 
 Wir haben alle vor dem Bildschirm gesessen und geweint. Danach haben wir ein
 Datum festgesetzt, so dass wir noch Zeit hatten unsere vegetarischen
@@ -164,9 +166,10 @@ Arterhaltung beiträgt. War das schon immer Dein Hauptthemengebiet, oder gab es
 schon mal ein anderes?
 
 <RemoteImage alt={`Lebenshof`} size="medium" title={`Maxi`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/mini.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/08/mini.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_mini__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_mini__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EACgQAAIBAgUEAgIDAAAAAAAAAAECAwQRAAUGEiETMUFhIlEHFjKB8P/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEF/8QAIREAAQMEAQUAAAAAAAAAAAAAAQACEQMSISIEMVFxseH/2gAMAwEAAhEDEQA/ALh+DtYTvLPQ1k6SUTRCSF95dY2va1/f+ONN1JmO/LJqimMrKqbiBEXUW7EheSL2/rHKOkc1q4s5p6ipZWhlKL1JWC8Kf5KAL7R92t3842/N85b9eMkE6OYqaRXEu5FkOwge9pJFyAOR2xl1OS8PsHT6PKu0RlQFHraTMKmlqssyqQwSzCDaVXquxuCxBYHaLN8m7AEC5OGOp6p4lUVwcrJIWWCNgSARcmTkCO9/JJNuL3xE5rmOTaS0xPUwztU5lPTwwUqq5Kxy7CHU/YDMxvYfWGOltR02pKalTOKVZ51jcj5bWUpcXUnztA9G2GVJaJbkJjaIqDUwUvSU2XUdSgp4oYp1RCzBAGYbQRz5HJ7YTzp5pY+mFV1a3TQ7mIX3z4JGDBgbQIKjWgKkavpZBSxA3Z4SW5BItcKePAB5v6wpomKpXUWWrLGimsBhhc8B9y9xbjaBe5I4wYMMB1De8+kbdThf/9k="
+/>
 
 **Johanna:** Es gibt immer Themen die mich faszinieren oder so dermaßen wütend
 machen, dass ich darüber schreiben muss. Tierschutz im "Kleinen" war schon immer
@@ -208,9 +211,10 @@ Es ist ein ewiger Kreislauf aus geben und verzehren.
 auch noch Zeit für Euch? Was macht Ihr, wenn Ihr mal wegfahren wollt?
 
 <RemoteImage alt={`Lebenshof`} size="medium" title={`Toffi`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/toffi.jpg?w=225"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/08/toffi.jpg?w=225"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_toffi__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_toffi__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEEBQcCAwb/xAAsEAACAgEDAwMBCQEAAAAAAAABAgMEEQAFEgYhURMxQWEUIzJSYnGBkaHR/8QAFQEBAQAAAAAAAAAAAAAAAAAABQT/xAAjEQACAgEDAwUAAAAAAAAAAAABAgARAwQFMRMhQVGBsdHx/9oADAMBAAIRAxEAPwDhIYKqQHLK/EZOMdv51N0qm3r0NfqmFhu1gy25VdeBjOV4qOWMgIiHPtljpV6bW/RNGlyhmtfdAdyvcf5qSs1Ke/RbfQXaq6LGiw2rTcgEkZVHpdvxEAZJ+P30doxYZvaP7xkOMog7efqUndp2rFl1gpTO0jnjCIjIR8dsA/2POjVy7t1La6O2S9tm3JUs7ljgsiqCIB8uy/mwRgEnyfGjSI4FQNnDmyIxr9SzQJDZou9YVSs/qYGWx3AP0ODkaiNx62u2tze1Xmip7ZeKzNUijDRrMFHJyuPc++fJOmW+0nG1rDJJFFG4BbgeRPEdlPgfX/utWzRBaRi+ziPmoQLMBycZySCvv7nGTqXT4jjBFRreG6+VUQWQOfX8+bibe9u/uLxtxmsWbHORmYAKAB3GfjAA8d9GsL5uRV7tOdBMJZTNU3NYfSZf0uR24kDGD7edGqbMCZCpphU//9k="
+/>
 
 **Johanna:** Wir versuchen alles halbe Jahr mal ins Kino zu gehen. Ansonsten ist
 wegfahren so eine Sache. Über Nacht geht nur im Notfall, da wir unsere Hunde
@@ -295,9 +299,10 @@ gefährdet oder getötet wird, um mich zu ernähren, gehört das Ablehnen von
 Fleisch und Milchkonsum für mich unbedingt dazu.
 
 <RemoteImage alt={`Lebenshof`} size="medium" title={`Der Tierhof AMOA`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/hof-jetzt.jpg"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/08/hof-jetzt.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_hof-jetzt__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_hof-jetzt__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAUG/8QALRAAAgEDAwIFAgcBAAAAAAAAAQIDBAURABIxBiEHEyJBUTJhFCNCcYGCofH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgME/8QAHBEBAAIDAAMAAAAAAAAAAAAAAQACAxEhEjFB/9oADAMBAAIRAxEAPwB0Xfxf6Pt0nlrcGrZByKSMuB/Y4X/dLCq8cb5tu60FthJWbzIpXfcY4s/Tt4J2j5+dcfSdCG50UczXFhV/rRQGTBBIK9+4PbjnOsybpqqt1zjtu9Z52i/ErGuV3DHPf3Hxntp7YlIhkPU3+t/E+8XvpS322VqQJP6/NiDbsLkHdnsOeBpQ3G7u6iSneRlX0erj/p12dbR1dPLJDNSSK8R2soUPt98ELnGqdBEtTWeU4CwR/mzDGPSvyPvx/OpOLUF8vsqW/qupsoUlWqKYOjtCWwp2nIx7qfuNMjp7qqO5pSqYxMj0zmKWcYnifacoTw37jRo1sHupC5zcgu9loepqt7pa7jtqHeN5EBwQUKdiD3H0Y9udReL1wjt/Tk0sYVJZiyjHYnOjRpr1CqydFbBP/9k="
+/>
 
 **Anne:** Shaya _(Name von Johannas und Brittas Tochter, Anm. Anne)_ ,
 [AMOA](http://www.tierhof-amoa.de), das klingt nach sehr bedeutungsvollen Namen.
@@ -320,9 +325,10 @@ unglücklich wurde. Als ich Britta kennenlernte, wollte sie zunächst keine
 Kinder.
 
 <RemoteImage alt={`Lebenshof`} size="medium" title={`Die blinde Bebbles`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/bebbles-ist-blind.jpg?w=222"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/08/bebbles-ist-blind.jpg?w=222"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bebbles-ist-blind__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bebbles-ist-blind__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgE/8QAKRAAAQMDBAICAAcAAAAAAAAAAQIDBAAFEQYSITEHQRNhFCIkUXGBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAQD/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAEQMSITFhBCL/2gAMAwEAAhEDEQA/AOh+1qutqtbTK1IXKcaiuke0KURuP2nJI+silON5desNtMOdpxp6RFWqMpxp8spWU5SCEbDjroHrnjNNVm1FbYkO3ofmMtusLbJQs7ScL5x6PBqk/KVyE3VN6Q6z8bjU1w5SrAJGU7iOsnA/wUVFVu/I/wChioFGXTpa/wA2+6ShXGcloSpa3VpS2jaA2FlKOP6oqO0Jc4cywQ5EFCk/hmUR3I+MFtaEDIx+x7B95ooL5F2OxqIRG1GouJN8aeRGVs/MEpJQoejSt5MYCNaXTC/kbk/rEudHYtIXyB12RWntUaKs+p3pLukpDUK7dv21xQCdx53JHYBz64+hzWe9T6Uv8bVBt9xsdwIQhmG6+y0txleM8hYHWMD6waXhOotuoXP+6A7lpeNIl+vxzCYZkpbYQohTwbWlAAAAPO7jgA/XIoqa8aSmdF29+Q5DeVNU18KSrDbTe4gJB3Hcok44AH80UYjE3Ju/Je8y8LVez//Z"
+/>
 
 Also habe ich es noch einmal versucht. Ich dachte tatsächlich, wenn ich nicht
 versuche, schwanger zu werden, sterbe ich. So hat es sich für mich wirklich
@@ -354,9 +360,10 @@ geschlossen, ich weiß gar nicht, ob da heute überhaupt noch eine Bar drin ist.
 
 <RemoteImage alt={`Lebenshof`} size="medium"
 title={`Maxi Mumm und Mini (v. l. n. r.)`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/maxi-mumm-und-mini-v-l-n-r.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/08/maxi-mumm-und-mini-v-l-n-r.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_maxi-mumm-und-mini-v-l-n-r__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_maxi-mumm-und-mini-v-l-n-r__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQDBQEGB//EACgQAAEDBAEDBAIDAAAAAAAAAAECAwQFERIhAAYTMRQiQVEyQhVhcf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEF/8QAHREBAAMAAQUAAAAAAAAAAAAAAQACERIDISMxQf/aAAwDAQACEQMRAD8ARc/i4nT8Ga4hsFRcS80w4CDdRCAQb4gpPjV+MU+lUuoUt1j1MYSHsWu9EeQrvN5BXuJuPKbg2v4/zmkT09SUHqGZGiQuwiWy3cLjh3uqbAUWyfu6vi2jyF+PMFSaNAS4tKFrW+1FC2lNK9qMVqucUk28btc8x3pAbW0eU3XcnQJfTstMePTkk+rRZXbbBUpxIVjtX7jE2B/U2Pzy1qPS8mmdO1N5bSnZzXp7pjpzzRdVzj+Vr2vvX1q/Kd6tVGiOt0QzJK4qZKqa4469djJTLaw4VEZYklQb/o2JPjksXraHX50ujfi8yhtEUsuk96xDhPjYASvX2R98HyBmaSii95RwKNNj+sCErmJKlN92M/YHwApKchvYIsDob48HJ1MsinqlSi+53HV5KW9klASMwFEi2Ogb7vrhw4nmsjXPUYnuVSZT1w33uxHcaDb7MqKFAknEG1wApWzo6J+PjIRMarLNRhsQWnWnQrvNUxtlTZHi5SSd5G40m3m54cODzSCqfZ//2Q=="
+/>
 
 **Johanna:** Bei mir ja, ich habe Britta von hinten gesehen und war sofort bis
 über beide Ohren verliebt. Nachdem ich ihr zum Abschied einen Kuss auf die Stirn
@@ -376,9 +383,10 @@ ein Punk mit Leib und Seele, Britta hingegen ist eine Polizistin.
 
 <RemoteImage alt={`Lebenshof`} size="medium"
 title={`Natchi wurde in Bulgarien gefunden. Sie hat keine Augen.`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/nachti.jpg?w=225"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/08/nachti.jpg?w=225"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_nachti__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_nachti__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAKBAAAQMDAwMEAwEAAAAAAAAAAQIDBAUREgAGIRMiMQcUQVEzQnHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAECESExQf/aAAwDAQACEQMRAD8Ai+yVQajtCo02rFxxpDvUQEJyUxcfkTfxY+R86WndsVFunOVBMcuQAspQ8DbIXIyt9cabts0UOMyJ7zzLMaJ+RMrsQskEJRf5Uo+E/QOmP0pfbk0evIrkkOwBEbc6S7qxV3JyCUi+CQDe3jjQtueocSq4yPxoqVPWdVZI5V8WGjWw3YxHTW5y6Vkad1VdEqGJCfi4/wBxbRpAKvuaiKXtURIjctKjLQ+42RmbYrTdJFwoDIcjkC+s3Ymw930+VF3DSYEVqI+wWB7p5sJ6KuFlaCQQCDwfPGqdMpLMV5qVTVvQ8XAtTLiCDlceDfHGwI4/v9d2VQ5LaFvnNI7glarjW0SeHOO+9ksswJHtoqlLdKnlcEJQQLDD9gLC/d96NVP1ZqjMPbdQlNoRk22QkAckngaNDH7ok19P/9k="
+/>
 
 Als ich erfahren habe, dass sie Bullin ist (das ist liebevoll gemeint), bin ich
 fast in Ohnmacht gefallen. Nachdem ich ihr von meiner Drogenvergangenheit
@@ -399,9 +407,10 @@ ausstellen können. Bis dahin sind alle Spenden selbstlos.
 ## "Wir haben eine Spendenliste"
 
 <RemoteImage alt={`Lebenshof`} size="medium" title={`Flecki`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/flecki.jpg?w=225"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/08/flecki.jpg?w=225"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_flecki__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_flecki__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAcFCP/EAC0QAAEDAwMCBAUFAAAAAAAAAAECAwQFESEABhIHMRMiQVEUFTJhgSQlkbHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQQCA//EAB0RAAICAwADAAAAAAAAAAAAAAEDAAIREiExUXH/2gAMAwEAAhEDEQA/APOUpxXiF9nBXlSfY+v4OpZDMlMKLLU3+nk8vDUDcXSbKH2t/WmpmlR1NID54hSkp8jZWo3IAsBknOAO+nKq7U2wymqU4SJEV+kRnp0ymtPBy/NYQWUKN7OoQEk2BHLkDgX1OoBlfkteSm/D5mX0NrhSlyVfW+VG6jbAwP8AdGnEbF+abHk1uiVAJp0NxbUWPKbW3IkFKea09uBUEWUOJIOfXGjWjT3OIZzAkG6ZApqYqKbPQuap9PgOReV02H1g2FiFFNv5115PS2u0msRI9Qh/EvVVaxFkQ3RIDyEpJc4kZCrZz3znWu9QujFK3LTf2hIpMxjzMrQm7bhOCFp75t6HHsdX+htA3TsqKqmVyZTqhAYClQYyEqU4wpRPLw3CkWSc3Gft6giTSldYOvZltpc2Zs12ndHN1Qa3GfaTLS/IbZdASpCQwngoAElJ8ouCbggjRp83XOekbNccdQlgSQEOJvy4A9wT6+350aHMIPBFIGOz/9k="
+/>
 
 Wir benötigen immer dringend Katzenfutter und Katzenstreu. Aus dem Grund habe
 ich [eine Spendenliste](http://www.amazon.de/registry/wishlist/2P1NRWBUCJD71)
@@ -444,9 +453,10 @@ Midgart (Himmel) und Asgart (Erde).
 
 <RemoteImage alt={`Lebenshof`} size="medium"
 title={`Bommels verstorbener Sohn Mary`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/mary-verstorben.jpg?w=225"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/08/mary-verstorben.jpg?w=225"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_mary-verstorben__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_mary-verstorben__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUH/8QAKxAAAQMDBAAFAwUAAAAAAAAAAQIDBAAFEQYSIUEHEyIxUTNhkSNxgbHw/8QAFgEBAQEAAAAAAAAAAAAAAAAABAED/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAyEREgT/2gAMAwEAAhEDEQA/AJWN52YgqtlvXLQ39QxlB3aP8atSbpFhLeVd8wPKOFKkLDePt6j/AFWN4f3mRB0004zGgsRvNKnJfmpQRHAQcEfO4nnvIHVMtjuGn/EoSbZf40echoqW0lwFCkJ6UhY9SeOqNWgsGRLo6knmREXrJi6amRbbI4ERknc5LI3JdRjJCPj43H8UVT1hpq8+HV3hsW+CymNdFpS0+FB1QbTIT+mVADk7kDJGcYHVFR/NeESKC+iJFpnyGYD9nClJdUdzJx9VOc+X++eR+PinHwburUG4IM7bHAcCHVKG0jvCj9sZqnbtIIuTTry3Wht9SVKdxhXuOeuq0bNoOdcpKFXWYmK2gZdXHcSp51HPCMnCXFe288Y559qVUxVdE0H1qoaudZZvcbXKWmkxW3LTZ5O9mc+k7nJaem8Z4SOSSCMlIoqdvMKNCixYMNMCIy0G48faUbE/zySSSSo8qJJPvRRWf0dXsyCkDG5P/9k="
+/>
 
 Ich weiß nicht, wer diese Mythologie mit in die Tierhalterwelt brachte. Auf
 jeden Fall bedeutet sie einen kleinen Hoffnungsschimmer in der Trauer um ein

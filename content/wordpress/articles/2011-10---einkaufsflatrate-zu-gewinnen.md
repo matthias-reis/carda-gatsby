@@ -39,8 +39,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: Umweltschutz und Preisbewusstsein zum Weltspartag
   
 ---
@@ -67,9 +66,10 @@ sogar hübsch anzusehen, Briefkästen, die er ziert, heben sich auf jedem Fall a
 dem Einheitsgrau hervor.
 
 <RemoteImage alt={`} size="full" title={`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2011/10/bitte-keine-werbung-umwelt-frosch-aufkleber.png"
-largeUrl="http://cardamonchai.files.wordpress.com/2011/10/bitte-keine-werbung-umwelt-frosch-aufkleber.png"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_10_bitte-keine-werbung-umwelt-frosch-aufkleber.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_10_bitte-keine-werbung-umwelt-frosch-aufkleber.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAALCAIAAACRcxhWAAAACXBIWXMAAAsTAAALEwEAmpwYAAAELUlEQVQ4jR3K6U+TdwDA8f4DS3yxxMSZ+I5sWbYscZkZk2QLc1l0TBNlGRPZwpyARGMyh9oyJkgLYrkEOdpylaNAofTkbGvpfT32KU+fPn2eHjzP0+tpua9yTX6LS76vPvmyrlfq8rnOsmc6UXnJj08tP1Sh3//tzvvHVsQ15VcbCrnmPhXeLvW9GF6qF3vLGm31Q94q0Zu6QS9HCFV0uat6PWPacPOY70Gbo3XUd7fJWtHh4gihJ91QjdibxzGwiupN13jwn9wRQ82p0sr8At5EbV3dHfZoHs9zvdb8y3ObUEO0TWG1w0jfbOiRyNMiw4SaUJsc50rQVgX+ZABpU4dEs8utimCLnBBMRwQzEdFcZNJEc4bQW41OVmkXWtAcrxmZMDiK1ZryGv4FSdl7o/xX9waImgHHb62uPK4zvwH6uRG61eS+/Qr+vQ0ubIE4w/7O6UizItyro/mqZYGWFizQ7dOkSBfl/4+T1mT1eLBEgLDYo+Rz4YPGl7m82ivSyb/E4qKHtTc61P4XqqQVjQ5oICQQetjvYQ8hd3v8pQJvuQgpES7dH/A9HvZXDGO8CYI7QQzqSAuS0noYI7pigBkrmmqQB6uleOV4mCWSC8YlOQLhpa+/O5P16fvnc87mFmZdfnS+ubqkpt/btJBWGn1LBJXZWuufQ5yh9UUkafanbIEVnFqPpzbTqxux5Mb29s7B3t7+7u5BJnN8uL+/uxuOrW/v7GFhhtUx0Vn37NzVnz6+U5FzqfyTgvaLpU1fVd777Cb7jLE+u1tOPp1OTNmjclPABcEHG/HMZjqzkU5SQTqMJ+PUztbG+lqapulYPMYwDEmSOE4kGSaVjAV8MOLDWfPEiVjOv/nH2VDwst5dYJ7/ZlVwYWvm20pRttX8kQpiRqBNsZ15uRCxQ1CUIkgqHApiRADxLbmDuC8ZXyYjAczvIcNYjA5FqSCBL+GYF8cQKow6PCjr+AAk1kFv35cAXNs5fOw3XoU4n49VZ7t5uTZdlptMWZcBTANbGAQosLsFmDSIrwCaOSEZEEm+JeMnCQYk0iCeBonku+JpEE+925gVYEUzrK7Xv/YZbvA7zpHh03T0otXzRXnxaXbxB2zJh8r5U936K53G2+NO7oRLIrGIZZZBuUW14H6tg+0yl13xxqGCtEqXYsw+0mNqGDK2Sh3tgxb+oEUktcs00JzG62YtBsQOQrboUsG4Su2Y8pimbCalzCA3wsrdLaU9OOaMDOmQPgM6OA31WIjhRd+IARl3BhQhZt5Lqb2UDKakjmCXM9yDJiRyO0+L9JsD/WhCasEkkfQMK7UGtI4jCDuiGDBr21+A9t3Bf+3okR460LuPYRz4Q0DvPHQhb03QUSIN7MixwZWZtW7qXTtw4GjOum2FAYJ5lQsarXlmVK2dtQD70jEZA2L16voW+A+dse9EaElWnwAAAABJRU5ErkJggg=="
+/>
 
 [](http://www.kaufda.de/umwelt/bitte-keine-werbung-aufkleber/)
 
@@ -114,9 +114,10 @@ Hier geht es zu den
 von [kaufDA](http://www.kaufda.de).
 
 <RemoteImage alt={`} size="full" title={`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2011/10/einkaufsflatrate1.jpg"
-largeUrl="http://cardamonchai.files.wordpress.com/2011/10/einkaufsflatrate1.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_10_einkaufsflatrate1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_10_einkaufsflatrate1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABkDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGCP/EACkQAAICAAUDBAEFAAAAAAAAAAECAwQABQYREiEiMQcTQWFRIzJCobH/xAAYAQEAAwEAAAAAAAAAAAAAAAADAAIEBf/EACARAAEEAgIDAQAAAAAAAAAAAAEAAgMREiExcQQTQaH/2gAMAwEAAhEDEQA/AOqcC3qHri/Qzy1UmzBsuqI/6ccLAzMF3HLYDfubbt38EYT9U6ko6cqRzX3IMpKxqNhuQNyST0AA8k4DdU5vpjUl2tnUdSjejM1dDIbLLyVSRIWA6EkEDkeoCrgpHkaaa/VQzwsOMu+uUt6G1a+dzvl9yBktxV1nEo8SIW47sv8AFtx+3cj7+MbHB16VPk1me5byhEkdoUDWEnEysOTbgMPsbkfnCLhBXwqMeHtyCGfUPK9QZtqe5VuSPmenHQNVoCmXAk4kFvcjClSpJHc2xB+cTLmib2aSgXKNaOR2XdZDXgD7DoCgLn/cbrP8qsWc4sTxVLLcnHfHflhHbvseIBHz5Hn5xMr6cNe9XuRZIizxSKw5XHfbiAFPVfPapwLoiTYK6kPlQgU+NuhzjdkcckV3tT9KZPnulNRCvTyqR8quTe/emikr+wBxI6HijAg8TsFPk/OGDiPz/eDupl11LcUz5fKro+/Nr0kvTiVIC7fZ2B6ecI2Fa3EVayTTe03iG9Cl/9k="
+/>
 
 [](http://www.kaufda.de)
 

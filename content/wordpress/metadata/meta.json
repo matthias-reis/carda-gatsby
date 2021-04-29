@@ -1277,308 +1277,6 @@
     "/2021/04/sauerteig-grundrezept/"
   ],
   "errors": {
-    "outsideImage": [
-      {
-        "path": "https://cardamonchai.com/2011/10/umweltschutz-und-preisbewusstsein-zum-weltspartag/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2011/10/statusnachrichten-und-neugierige-nachbarn-oder-ist-der-schachtelsatz-vom-aussterben-bedroht/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/07/marchenprinzen-und-andere-schwierigkeiten/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/04/schmuckaufbewahrung-selber-basteln/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/07/seo/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/08/bob-dylan-stellt-neuen-song-duquesne-whistle-vor/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/09/konzerte-und-alben/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/09/verlosung-exklusive-cd-t-shirts-und-vinyl-zu-gewinnen/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/12/abschied-kurzgeschichte/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/03/die-ultimative-festivalliste/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/04/nachruf-deftones-grunder-chi-cheng-ist-tot/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/04/hoch-die-tassen-jubilaum/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/04/amplifier-live-hansa-39-munchen/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/05/neues-nine-inch-nails-album-in-kurze-und-queens-of-the-stone-age-schon-auf-dem-weg/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/05/regen-am-freitag/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/06/istanbul-mit-anderen-augen/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/06/alles-andere-wirkt-unwichtig-und-banal/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/06/von-ghana-uber-irland-nach-neuseeland/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/06/are-you-ready-boots/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/07/traditioneller-barongtanz-auf-bali/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/08/rocknheim-2013/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/09/musikmagazin-abo-kuendigung/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/09/mein-pakt-mit-dem-schweinehund/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/09/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/09/von-wut-und-stolz/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/11/wo-bleibt-eigentlich-der-versprochene-artikel/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/01/mein-jahresruckblick-2013/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/03/valentinstag-in-venedig/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/04/st-patricks-day-in-london/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/04/jack-white-stellt-neuen-song-vor/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/04/sondermeldung-schnellste-platte-der-welt-veroffentlicht/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/05/fast-ein-bisschen-nostalgie/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/07/my-vegan-diary-mein-veganes-tagebuch/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/08/wiesenhof-hahnchen-mit-tierschutzlogo/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/08/amoa-lebenshof-und-zuhause/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/08/blutige-zahlen/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/09/flucht-in-die-flucht/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/09/gemuseauflauf-mit-basilikum-tofu-und-gelber-bete/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/09/sulawesi-on-the-road-and-inside-indonesia/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/11/liebster-blog-award/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/11/fakepelz-echtpelz/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/02/veganer-sind-unglaublich-kreativ/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/02/chiapudding/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/09/bloggerfuergefluechtete/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/12/tierpatenschaft-verschenken-und-kochbuch-bekommen/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/12/planet-backpack-interview/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/09/interview-lovely-day-botanicals/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/02/klimaschutz-und-vegane-ernaehrung/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/08/earth-overshoot-day-ein-tag-als-mahnmal/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/08/happybrush-der-ultimative-produkttest/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/11/landpatenschaft-erdlingshof/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/02/faire-klamotten/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/03/meine-ultimative-lieblingsplatten-liste/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/03/zahnpasta-von-happybrush/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/08/veganer-bio-glitter-naissance/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/08/batterien-aus-papier/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/08/boldking-im-test-minimalistisch-rasieren-mit-recycling-programm/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/09/philosophie/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/09/repair-cafes-reparieren-statt-wegwerfen/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/09/neue-kokosmilch-coco-milk-dr-martins/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/02/das-gefuehlsleben-der-tiere-marc-bekoff/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/03/die-hermetiker-unser-roman-ist-jetzt-bestellbar/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/07/deutscher-selfpublishing-preis-2019-wir-sind-dabei/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/11/vegane-schoko-walnuss-cookies/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/12/vegan-travel-handbook-der-vegane-lonely-planet/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2020/02/das-kraeuterkontor-im-test/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2020/05/ueberbackener-kohlrabi-mit-kartoffeln-und-bohnen/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2020/05/bio-gemuese-von-etepetete/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2020/05/green-shirts/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2020/06/little-lunch/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2020/08/haferdrink-stiftung-warentest/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2021/01/epaulettenhaie-klimawandel/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2021/04/erdnussbutterschnitten-vegan-glutenfrei/",
-        "message": "article has at least one image from another domain"
-      },
-      {
-        "path": "https://cardamonchai.com/2021/04/sauerteig-grundrezept/",
-        "message": "article has at least one image from another domain"
-      }
-    ],
     "invalidMdx": [
       {
         "path": "https://cardamonchai.com/2012/09/deftones-stellen-zwei-neue-songs-vor-album-im-november/",
@@ -1602,7 +1300,7 @@
       },
       {
         "path": "https://cardamonchai.com/2015/02/chiapudding/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (34:25)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (35:25)"
       },
       {
         "path": "https://cardamonchai.com/2015/03/die-ultimative-vegane-festivalliste/",
@@ -1614,7 +1312,7 @@
       },
       {
         "path": "https://cardamonchai.com/2015/12/tierpatenschaft-verschenken-und-kochbuch-bekommen/",
-        "message": "unknown: Expected corresponding JSX closing tag for <li> (72:0)"
+        "message": "unknown: Expected corresponding JSX closing tag for <li> (73:0)"
       },
       {
         "path": "https://cardamonchai.com/2016/08/vegan-beauty-basket-gratis-aktion/",
@@ -1743,6 +1441,92 @@
       {
         "path": "https://cardamonchai.com/2021/02/feuerwear-verlosung/",
         "message": "unknown: Expected corresponding JSX closing tag for <p> (63:96)"
+      }
+    ],
+    "outsideImage": [
+      {
+        "path": "https://cardamonchai.com/2014/01/mein-jahresruckblick-2013/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2017/08/happybrush-der-ultimative-produkttest/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/02/faire-klamotten/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/03/zahnpasta-von-happybrush/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/08/veganer-bio-glitter-naissance/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/08/batterien-aus-papier/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/08/boldking-im-test-minimalistisch-rasieren-mit-recycling-programm/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/09/philosophie/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/09/repair-cafes-reparieren-statt-wegwerfen/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/09/neue-kokosmilch-coco-milk-dr-martins/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/02/das-gefuehlsleben-der-tiere-marc-bekoff/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/03/die-hermetiker-unser-roman-ist-jetzt-bestellbar/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/11/vegane-schoko-walnuss-cookies/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/12/vegan-travel-handbook-der-vegane-lonely-planet/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2020/02/das-kraeuterkontor-im-test/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2020/05/ueberbackener-kohlrabi-mit-kartoffeln-und-bohnen/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2020/05/bio-gemuese-von-etepetete/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2020/05/green-shirts/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2020/06/little-lunch/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2021/04/erdnussbutterschnitten-vegan-glutenfrei/",
+        "message": "article has at least one image that could not be found"
+      },
+      {
+        "path": "https://cardamonchai.com/2021/04/sauerteig-grundrezept/",
+        "message": "article has at least one image that could not be found"
       }
     ],
     "noSubtitle": [

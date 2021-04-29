@@ -27,8 +27,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: Spendet Tieren eine Heimat
   
 ---
@@ -58,9 +57,10 @@ mithilfe eines Puzzles dargestellt. Jedes Puzzleteil steht für 4.000 gespendete
 Euro.
 
 <RemoteImage alt={`Erdlingshof`} size="large" title={``}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/11/Puzzle_8Teile-768x768-520x520.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2017/11/Puzzle_8Teile-768x768-520x520.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Puzzle_8Teile-768x768__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Puzzle_8Teile-768x768__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAQID/8QAKhAAAgEDAgUDBAMAAAAAAAAAAQIDBAURABIGEyExQSJRYRQVI3EyQqH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAgED/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxEhEjH/2gAMAwEAAhEDEQA/ALdaLfeY79SzSLbmtAjQGn+iIqFYouXaYsQfVuOAB3HXR+5Vdt+3vUtAk8cJYYEefUOm3HvoRFxdHJU01BDTy/mjXY6gtt6ZO7wO3z84PTW8dRMZYo5I1dO5L+/XrjXNrQ+hTCkNC9n5RptxoPpt+G2tHtzkex7HWLtb6WS31rxUiGpKMVIT1bvBB/elm68dWu33VLdVTs1W0BmCxAN0GcA9e58aZLTcY7jaOfTuGV0OVLZZfg/OsrsG+d0xwc2TPiK0Xi33fha+W2KSa0xQKlaIvU6s/TfsALMvqG7qMYB7DXbjLiafhuGjYUb1E00hUkKQOWoySHHnwAfBz41VKNqeGjp0V1QIqrgN2+NBb9Y7dc5IXPKZo5OaqSZ2hh/YY7H/AD41L1Eb4loQOESX2NaTjaqq7hWU0kCwgxRrHCBzUb+DsxB9Y9s4wB0wdUnhC0fbOH4qdN5SCJlEkgwznJyTjue2h9ss1BabnLNV3AU8Dru+ggH4mYnrITjOemMA4AGnAT0slAxp5IzGyHZtPcfrSqkr1vsOQfk//9k="
+/>
 
 Jeder Spender erhält eine individuelle Spender-Urkunde sowie je nach Höhe des
 gespendeten Betrags ein Dankeschön:

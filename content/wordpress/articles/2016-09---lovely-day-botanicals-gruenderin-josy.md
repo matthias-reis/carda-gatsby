@@ -36,8 +36,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: „Don't be Eye Candy, be Soul Food“
   
 ---
@@ -64,9 +63,10 @@ gemacht?
 ## Lovely Day Botanicals bekommt ein eigenes Studio
 
 <RemoteImage alt={`Lovely Day Botanicals`} size="medium" title={``}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2016/09/lovely-day-botanicals-skincare-berlin-08-1280x853-640x427.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2016/09/lovely-day-botanicals-skincare-berlin-08-1280x853-640x427.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_lovely-day-botanicals-skincare-berlin-08-1280x853__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_lovely-day-botanicals-skincare-berlin-08-1280x853__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYCA//EACgQAAICAAQEBwEBAAAAAAAAAAECAxEABRIhBAYTMQcIFSJBUYFxkf/EABcBAQEBAQAAAAAAAAAAAAAAAAMBAAL/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIhERIDIiP/2gAMAwEAAhEDEQA/AL7x/Z4XyGbrRRwyyNGQSNZYDYgA6iADvW29HDF8IwH5MglRomSSRmXp1stAAMATRodibqsJrzHQSzc6ZQ4BMPp2lAKq+q+oAfJ3X9I/GD5eZ2fJs2BIMfXj012LaWuvyvk7Vvg1L0aElx1uNtQfrHYv6xBh48PMNK6oiSntU3Yrf+YnxOkqB4nV0PZlNjD5yG8qmYXmTk/KeZTB6rFI7RMSjRyFCL79vjYf5i35f5Zy3J+D4Xhsuh6UHDyGZVPuJcrpLEmzdbX+YMGIoRT2Ss4cpPq3RoIYkiXTGoUXdAVj0AA7AD+YMGKY/9k="
+/>
 
 **Josy:** Mir geht es super liebe Anne, ich bin gerade frisch aus dem Surfurlaub
 in Portugal zurück und fühle mich gut erholt. Ich habe seit ein paar Tagen

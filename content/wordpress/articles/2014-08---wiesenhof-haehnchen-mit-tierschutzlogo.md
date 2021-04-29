@@ -67,8 +67,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: Skandal um Tierschutzbund
   
 ---
@@ -144,9 +143,10 @@ bitte verzeihen, wenn es mir gerade etwas schwerfällt, mich auszudrücken.
 
 <RemoteImage alt={`Schweinetransporter Bild: PETA`} size="medium"
 title={`Schweinetransporter Bild: PETA`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/schweinetransporter-peta.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/08/schweinetransporter-peta.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_schweinetransporter-peta__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_schweinetransporter-peta__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAUGBwgBAwT/xAAtEAACAQIEAwUJAAAAAAAAAAABAgMABAUREiEGBzETIkFRcRQXJjKBg5Gh0f/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAAQF/8QAIhEAAgECBQUAAAAAAAAAAAAAAAECAxIEBREhMRMUFUFh/9oADAMBAAIRAxEAPwDZYcyuFraJ2s8Kw5V81ihXMj0G1dfvnsFOm1wxZVA+aMKR0zyqteC3tvbRvb3Z7OMtqDgdD5GpP4Lhw2BgsCzO107MGkQgbAZ5elUVl1z3kx3UWnA/5+e6pnowt2YDUcshkB4mk+XnnbECSWwWBWOWchGX4pvcYxQrhMmuEyAOFZU3Pp+qiTGpGxNFmhQpaxDuA9d/E1PHQXtgVT4WUl5IcPyIfhrE4yQdxeyN/aWLXl3b2iwqmHY3ohHdXtiRq33Pc369KKKzO7rw2U2C1Mxe8C2t1bSRXWH4w5cli6voP0AjpuHlHw9GpVsM4gKkDWPa2IOX29qKKW8dXfMgqCP/2Q=="
+/>
 
 Hier werden ganz bewusst Verbraucher getäuscht. Menschen, die der Meinung sind,
 noch Fleisch essen zu müssen, aber gerne auf die Herkunft achten möchten. Es
@@ -227,9 +227,10 @@ gefahren werden.
 
 <RemoteImage alt={`Bild: &quot;WWF-Scheiss&quot; Quelle: Der Artgenosse`}
 size="large" title={`Bild: "WWF-Scheiss" Quelle: Der Artgenosse`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/wwf-scheiss.jpg?w=646"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/08/wwf-scheiss.jpg?w=646"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_wwf-scheiss__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_wwf-scheiss__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBiIxExRBYUJxI1GR/8QAFgEBAQEAAAAAAAAAAAAAAAAABQYD/8QAJREAAQMCBQQDAAAAAAAAAAAAAQIDEQAEEiExQVEFE3GhkbHw/9oADAMBAAIRAxEAPwDLVRpf45QksrxzM0yyXLibEjErt4K5HHn/AHV1YrjbbrV2SWWmrqGsp7nAQlMZGjj3yrsV3JwAT4GB861t3tbLLPWJZoV93WN7eaWJPTiGWzKe3BUDBA/I4+xq16XraS211skWAyUtzrAFiSnXBwdgl/W76/EfR0cbtCTggj94qnQw200VNDNUqiTrvz7jQ0nT0tCsQjqKaqcMsrTys0xlEm4bRGFyCD3HPgAc+dJ0dulEO0tM0immnDGVleNHbKk/3naR5OCMHW3ktkKSQ74Kc94yDGmTz88aVpaSC6XeSt9nWU9RTx+yXDqYmiVjIrFeCO5SBjON3Okm1u2N1g7hV3CCZJO504yy4IAEVGsWqLm3Ut0AYAQmABnA15n5BMztUs1piu9EsE6bJvScsUwrTPt2qcrk9owOR4Gudw2RrF1TbZWrqkE1tOipKgbfJ6iE4CZx27sAtgAeNGjQ4T3VgkxpSrfUHkAwRvtznHiqmLrHqC2xmKlq/VSOYsFnjEh4bxk84+s6mm6x6gvMsAr630ohMjbIVWIDuA8jk/rJ0aNaLcURJNRHQwu9vGrBxaghaoMHb69V/9k="
+/>
 
 Ich habe noch heute Vormittag meine Mitgliedschaft beim Deutschen Tierschutzbund
 mit den folgenden Worten gekündigt:
@@ -293,9 +294,10 @@ Facebook-Fans und Twitter-Follower weiterzugeben!
 
 <RemoteImage alt={`Petition für ehrlichen Tierschutz`} size="large"
 title={`[ ](https://www.openpetition.de/petition/online/ehrlicher-tierschutz) Petition für ehrlichen Tierschutz`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/bildschirmfoto-2014-08-06-um-16-47-26.png?w=646"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/08/bildschirmfoto-2014-08-06-um-16-47-26.png?w=646"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bildschirmfoto-2014-08-06-um-16-47-26.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bildschirmfoto-2014-08-06-um-16-47-26.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAANCAIAAABHKvtLAAAACXBIWXMAAAsTAAALEwEAmpwYAAADwElEQVQ4jV2UWW/bRhSF9f9/RpGXJk2aBG4W2ZIt01pISRQpruKQnOHs3EZcJMWJbaCV3L4U+HBwMA8XuGfuvQOl6uOxP50Oh+PhdOz6vu275nDou757pe/bvu+6rm+7tjv0qlGMZpIRIShnhDNS5CKXTHDCOWGccHpW8Z8fUMa14SdnNvL0e3O92pqG/jC5uxnq07vJ7fX45tvs/gYEG+CvSLhmnO77Y5lz33N8z0Eo1o0FiMMg9HEGX4v+j0FVlV/fv/n+8ffhp7dfPn0Yffm41G6Gn9+Orv4Yfn539f7N+Muf0XoazMdAvw5m34QQdZ2DOIxBxBhOU8AophjySweCE8EwoxmjWHDMKBn0rYLWjIQ2i2wBttjSsGsQ4OP1mPhLBbx96DSRVzobGbrRzsxFXldFGLhB6DGahaGHYJKACEQhiHeck1zyqi7Kgp8bomSgqiIyJsF65hgTUxvG5n3qWUnogtWEM0qsze7hNnM3aGvL0FsFKyqZKgvHsZbGQgiqLxZxvKM0QyilJMtzBqJwvpgFoSslYzQb7Js6MqfmeGhOroOFhh2DuGviGtg3MWOxv3GXd4lr0sgXHPOyrJWqq9ww5uPbUVVK297EcZRCsAt9QrMi5zCNbcsMfPeSEhl0TfUw+u6Or8H8BtkW9LbBdAi3ywymIHDjwA7tJd2uSs+KQVRUxaFri4L7rnt3OxKCGsYCwZRgRDCU4jxLUrKqlGX+GlE24Fz+9n40mWiTe22q21Zc7MxFahuAlyQNA8feBW5oLaBrOSkhSj0/PXJO0wSEgSc4iaIARCFM4ySOCIacYcYJZRk7m8snE8LfLQKTdWtc66z7EJ+MABLfJFnG4M4x57aurc1pEgcpjCVGzz8fGcVSMqVKlCWGPht++xr4rudvbctMEyAFZZQIjgWnjOIBxvivpa8lhZaqRdaMfDmfr0L9bmebnq4tteuVNlo/jM35rbuageX01LdCsAwlEKWM4DD0m31VlTKXXAoq80tKgl5W7zypg8cfp5+PT0/PL8+/np4v+qtTj/3+Z98em/rYqmOrTu3+R9scu+Z06F5envOc+65j25s03l1dfeaCIBhfypGqlObaWC71XNLzTnAyUKrq+26v6r2qVV3VdXVx+0rt632zv6Catum6tu36w6FWNUIJxhBjKDl1fc/eWqZpJjDBGFFGdlG03Fi7FBFKCUaDLEvPoATBf4EwgmkE0xidNUIQXN4BSkGGUoIhJdklBybOF4nlkuVCUIopxYwzjoAMDObOaAr+ORV/A/G/NwHZC/XyAAAAAElFTkSuQmCC"
+/>
 
 Mit PETA habe ich auch Kontakt aufgenommen, ich gebe Euch Bescheid, sobald ich
 eine Antwort bekomme:
@@ -348,9 +350,10 @@ aufgetaucht sind:
 
 <RemoteImage alt={`Neuland und der Tierschutzbund`} size="large"
 title={`Neuland und der Tierschutzbund`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/neuland-33.jpg?w=646"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/08/neuland-33.jpg?w=646"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_neuland-33__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_neuland-33__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAMCCP/EACoQAAIBAgQEBQUAAAAAAAAAAAECAwARBBMxURIhQWEFFCMkMlJicZGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwDojFwyQT+1kaMOCzXTjuSeev4FEyJwDeQ9vR06703xjIIV51uEXi+F9SBuO1QwjRxTHyxy5H5E5WtyPu3NaTLATglxboFeeUKDYMqIthbYgk0+JGS/FK0l/qCi36ArISUKBJOS/UqoAqiAgc2LdyAP5Ul//9k="
+/>
 
 <RemoteImage alt={`Wiesenhof`} size="large" title={`Abgründe tun sich auf`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_vier-pfoten1-49__m.jpg"

@@ -37,8 +37,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: 10 Fakten über Veganismus – Teil VIII
   
 ---
@@ -47,9 +46,10 @@ subTitle: 10 Fakten über Veganismus – Teil VIII
 
 <RemoteImage alt={`Bitte trage keinen Pelz!`} size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets) Bitte trage keinen Pelz!`}
-mediumUrl="https://cardamonchai.files.wordpress.com/2014/11/15582329425_4ea402f130_z.jpg?w=300"
-largeUrl="https://cardamonchai.files.wordpress.com/2014/11/15582329425_4ea402f130_z.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_15582329425_4ea402f130_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_15582329425_4ea402f130_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAJxAAAQMDAwQDAAMAAAAAAAAAAQIDBAURIQAGEgcTIjEyQVEUYZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A49TdqzdzVeM/Icp8VyUOZKWwAu5PkEgi+RpnVdhRqBSost5Sp3ffDbTjak9pPK1udr+z6AP1nVPp3V36NMhTlNLfZgDCEny5K5WCAT7zrp+748SbsGpwaUskh9EppKVi6XE+Vjj9uLaDLzaEzUJNIbnIS1C7q2nVtJT3XEJUhXA55AfLyza+NMKjsXa7bj8qnSak0pniw/EDRUI/LHyWDlNvSrcuONZOBuUO76hyGZK50WFGKgmUwlgNvKSUr8QcgFRF7/h+tNtwdRkQWZVOnUxIcMI/xX4yUIUFrSoJDhsCpIvkixVm/s6Cq6+IqVKjtJSsKQAbm1z92va39al3lPmUja1HlQn+Mt/k464ocr4BAAJsPejRoMNsZ1dQ6hxJU09xx15yQ5xASFrCVLyBixIyNT9SX1zNzTVucR2URGjYfK7fIn/SdGjQf//Z"
+/>
 
 **
 [_Hier gehts zu Teil 7 des Artikels_](/2014/10/16/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
@@ -72,9 +72,10 @@ hängen Kleidungsstücke, die mit Pelz besetzt sind.
 
 <RemoteImage alt={`Pelztier`} size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets) Pelztier`}
-mediumUrl="https://cardamonchai.files.wordpress.com/2014/11/9587809207_e7cd67eede_z.jpg?w=300"
-largeUrl="https://cardamonchai.files.wordpress.com/2014/11/9587809207_e7cd67eede_z.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9587809207_e7cd67eede_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9587809207_e7cd67eede_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYIAf/EACgQAAEDAwIGAQUAAAAAAAAAAAECAxEABAUSIQYHEzFBUWEVFoGCsf/EABgBAAMBAQAAAAAAAAAAAAAAAAECBAAD/8QAGhEAAwEAAwAAAAAAAAAAAAAAAAECERITMv/aAAwDAQACEQMRAD8A1TTLM45jK41+yukBbbqY3E6T4I+QYNV/i/mLwvwk4Wc1lWmrrTqFs2kuun9Ugx+YrNXM/mT9w526uMJmM4jFXDaQbR1a2UtKCQCAlC4Ukxqk7yTPigworfHGYaRlnWWGbhk246a2HCCeoDBnSSkee3x6qAsL9nrgsKTbO6hp6nbvv/N6ZqWp1AbaSAklRBbTpUZ9n1ST2LU0Su4Q4UEGQFDv4peKSw69lN6Wj6Ow63cXClLlJOsTJWfc+6WVw7bBthba1DqtlcLGqIMfFFFOzTKJvEcNW6r4Wylg2zkJUjRvvO+qZ8V24ZsmrixbNiwesVN6gIOwG590UVPXopmUpP/Z"
+/>
 
 Das Problem: Die meisten Pelze sind nicht als solche ausgezeichnet. Erst gestern
 führte ich wieder ein Gespräch mit einer jungen Mutter, die ihrem 1-jährigen
@@ -99,9 +100,10 @@ ausgehen, dass das Fell an der Kapuze auch aus Polyacryl ist.
 alt={`Straßenkatze - Endet sie vielleicht bald schon als Pelzkragen? `}
 size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets) Straßenkatze - Endet sie vielleicht bald schon als Pelzkragen?`}
-mediumUrl="https://cardamonchai.files.wordpress.com/2014/11/11511411436_36697d37d0_z.jpg?w=300"
-largeUrl="https://cardamonchai.files.wordpress.com/2014/11/11511411436_36697d37d0_z.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_11511411436_36697d37d0_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_11511411436_36697d37d0_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcCBQQGCP/EACoQAAIBBAEDAwIHAAAAAAAAAAECAwAEERIFISJhEzFBBgcVUWJxgaHx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECESEDMRL/2gAMAwEAAhEDEQA/AEdNcBWcBsnJyAM/FHF2s/L3Ys7RW37AzHJCbMqAkKCcZYVnWfEQzQJcTrLJ6vdp6naOuMEDH5fNOP7G2lhY/i9zGiRTxxjdRhdYsjrnyff+KCHNYbuveW0Jz6v4m24nnLriYE5IXVtdNBMbtVVTqD1XHvn3HjFUE1rj/K6M++EUV1x3HzO3pNFc6wxOdmfZOpx8ADGP3pKXsLLkFNP1Oox/VIlWGWT+lbNnh0HZHGqqpwPnA8Va8bcyW0V/bQHVby3WGR8nYKSGwOvTqBRRVJJeEOTfpD6qmHLyo3JRpM0wWM65UdoABwD71RRcXFZRvHFJK0WwCo7bBfA8eKKKOeDctuz/2Q=="
+/>
 
 Hinzu kommen Phantasiebezeichnungen, die sich die Pelzindustrie ausgedacht hat,
 um die Verbraucher bewusst zu täuschen. Loup d'Asie, Bio-Wolf, Corsac Fox und
@@ -129,9 +131,10 @@ werden dort als Kunstpelze verkauft.
 alt={`In diesen Käfigen werden die Tiere auf den Pelzfarmen gehalten`}
 size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets) In diesen Käfigen werden die Tiere auf den Pelzfarmen gehalten`}
-mediumUrl="https://cardamonchai.files.wordpress.com/2014/11/tierrechtsdemo.jpg?w=199"
-largeUrl="https://cardamonchai.files.wordpress.com/2014/11/tierrechtsdemo.jpg?w=199"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_tierrechtsdemo__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_tierrechtsdemo__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAGA//EACoQAAIBAwMEAQIHAAAAAAAAAAECAwQFEQASIQYTIjFBBxQVI1FhcZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAGhEBAQEAAwEAAAAAAAAAAAAAAQARAgMhEv/aAAwDAQACEQMRAD8AB7VTzvR0EMMcm5pihQAn2QPjSR1TZbRRJUJ0oK5QKPJerfEndwS+CcYGNdrT0tTdL1tvu1Be3lmomaeLNMCqN48kZ59DXfquguVXdpLjVzQL+Lbu5IkeSxYBzhSRt405vpQ8s8YrulD2bi8MtVC0qxoZGMWfM5yPfOOOfnOrSXP9MrTOkU0fUar3F3ZdWVyDyN3ieRn9dWhBaxQtz1ssD0iRsqqWpyfyYghzu+ccf3o67lJFX0iVM9SIhgkoSxPieAMnB9DW6uj0tdaJzHWSyVqxBVppKUhG5yRv3fzjj41i7jbrvEFkoDCJo2ByjqRwOMAj98HWh6/p3ZOit9se30LNTUzkwJlhI4ydoz6OrRwl76ojp4I/s4HCIFBEQP8AobVrVX//2Q=="
+/>
 
 Die Pelztiere werden unter unvorstellbaren Bedingungen auf engstem Raum in
 Käfigen gehalten, sie haben keinen Platz sich umzudrehen. Sie werden erschlagen,
@@ -164,9 +167,10 @@ nicht nach Kunststoff, kann man sich sicher sein.
 alt={`Straßenhund - Endet er vielleicht schon bald als Pelzkapuze?`}
 size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets) Straßenhund - Endet er vielleicht schon bald als Pelzkapuze?`}
-mediumUrl="https://cardamonchai.files.wordpress.com/2014/11/9645840511_7953ee07d6_z.jpg?w=300"
-largeUrl="https://cardamonchai.files.wordpress.com/2014/11/9645840511_7953ee07d6_z.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9645840511_7953ee07d6_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9645840511_7953ee07d6_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcE/8QAKRAAAgEDBAAGAQUAAAAAAAAAAQIDBBEhAAUSMQYUIkFRYZETMmJxof/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EABsRAQADAAMBAAAAAAAAAAAAAAEAAhEDMUES/9oADAMBAAIRAxEAPwC7ljagYFGcT+m45ECS2e/nVIfHk1Bt9TNUSPW1cCvKCifprIORVVBPZItkY0x7rShaQmKUFS3E/wAfi9vv51mNVsW511TMiTwUsChhJFyBkLDAPG1rEdAYFtDjwHZKgdM1vwj4orN02AV1Xtr0c7PZKeGXm9jkGxsbkZt8aaaHxDLG5ieV2KAhkkUAkjH4+/rWRncYttm2U0wmlozHJTPLOhQrL6SHNsAEKV+iwtqyqK1q8UxgkmF+T2aUMVX3vjv3Gc6f1hpK2qBpGgx+ReJV4OjXwVz+62TfOpVkfNSx44XkPT1gH2/v/NGjUfJmeRV3LaoqmCONnY04BZY3AcoTyOGOQO/zrq2hfJbdT0lMStMkNwpyc93Pv3o0aCsFe8n/2Q=="
+/>
 
 Eine weitere Methode ist es, den Fall der Haare zu beobachten. Bewegen sie sich
 beim Dagegenpusten oder im Wind leicht, haben einen „Strich“, wie wenn ein
@@ -228,9 +232,10 @@ und Grundwasser.
 alt={`Straßenhund - Endet er vielleicht schon bald als Pelzkapuze?`}
 size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets) Vielleicht schon bald ein Pelzbesatz?`}
-mediumUrl="https://cardamonchai.files.wordpress.com/2014/11/9590467002_a47050b74a_z.jpg?w=300"
-largeUrl="https://cardamonchai.files.wordpress.com/2014/11/9590467002_a47050b74a_z.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9590467002_a47050b74a_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9590467002_a47050b74a_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCAwUG/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDAAQRBRIhBhMxIkFxFGHBI0JRgZH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxEhBDESobH/2gAMAwEAAhEDEQA/AEZGyQxgkXCs3hUkBLA/xxXVdNdNrrGj3Esk9za3QLuv1EZZO0q5JJC5JYnauBjP+00tLt4d6IEfcfTje4H9+K2ZdLjvYWt45VjeQhEd8sVOfYbsVIeQT0ICvsZGoptG0hbaN7K3n7jOO4VLZ2kHBIGPgcfmomwnVJRdTQpIrYBiBUePBGfOc0z36XiisntdMRY5mQQM0Y/bzuPqJP3xn4qjUOn4LdmUfrsiKhkAwj4GN+PvQNdYk21gACnuX2MTiHfJLvHsMEfmtCJlGx4+6snjPcPHwPaiip7mKthfgi7T4tgSkFLdIpoYkDoQ6klmIPyTzWRqDiFkXDktySXPOefFFFNp33G1DPc//9k="
+/>
 
 In Deutschland gibt es auch heute noch 10 Pelztierfarmen, auf denen die Tiere
 bis zur grausamen „Pelzernte“ auf engstem Raum in Drahtkäfigen gehalten werden,
@@ -256,9 +261,10 @@ sind, kann es sich um Echtpelz handeln!
 
 <RemoteImage alt={`Gemeinsam stark gegen die Pelzindustrie`} size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets) Gemeinsam stark gegen die Pelzindustrie`}
-mediumUrl="https://cardamonchai.files.wordpress.com/2014/11/augsburg-pelzfrei_-30.jpg?w=300"
-largeUrl="https://cardamonchai.files.wordpress.com/2014/11/augsburg-pelzfrei_-30.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_augsburg-pelzfrei_-30__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_augsburg-pelzfrei_-30__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBQYD/8QAJxAAAgEDAwMFAAMAAAAAAAAAAQIDBBEhAAUSBhMxIjJBUWFxgZH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwEC/8QAHhEAAgICAgMAAAAAAAAAAAAAAAECERIxBCEUIkH/2gAMAwEAAhEDEQA/AF+kd8lqoZElpo4Y5GkjBDYUhGZ2sM5IGPGDi51SUO/0VLFW1u3TiVzTvI0AIVZHVlCs1/Asx9S5tbzqp2zqGrkvSUihIo+YJkk4iNmVjY4wB6gFvb3X0s+20lJHKKdhUpSSSpJDFCGU0/Eu/wCNjIY+M/QOsgsblpnUrl6vtM2HSHUw6lWaMRBKiMi6qDxZT4sT83uLaluG8bPSbvFTblUcYI7SVDRHkUj8nI+bWtrCUfUc22PPFSU6R008SSx84i6L27sp9wytz9/3pjcd1roO4kqwVM3dWJJ+QUhxxGbHjZgL2xj90vyJ4V9BriwzvaHhsVDH3HZXaRgQxBAuDcHFv06qJ1k2emquxKwJMkBZCVJXjbOSPBtgDGjRoibfTFtJGfrrjadsUiIcUTgUjCkXAB/nXWqHHp+hk5MI5JJnaNbC9m42Jtc/f+/ejRqi0SltH//Z"
+/>
 
 Bitte gebt die Infos weiter, es ist wichtig, dass so viele Menschen wie möglich
 aufgeklärt werden, dass der Gedanke weitergegeben wird und die Händler auf ihrer
@@ -291,8 +297,9 @@ von der Tierrechtsinitiative Augsburg einiges zum Thema Pelze.
 
 <RemoteImage alt={`Tierrechtsdemo in Augsburg`} size="large"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets) Tierrechtsdemo in Augsburg`}
-mediumUrl="https://cardamonchai.files.wordpress.com/2014/11/tierrechtsdemo-391.jpg?w=646"
-largeUrl="https://cardamonchai.files.wordpress.com/2014/11/tierrechtsdemo-391.jpg?w=646"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_tierrechtsdemo-391__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_tierrechtsdemo-391__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQIEB//EACsQAAICAQMCBAUFAAAAAAAAAAECAwQRAAUSEyEGMTJBFCIjYXFRgZGhwf/EABYBAQEBAAAAAAAAAAAAAAAAAAMCAf/EABsRAQACAwEBAAAAAAAAAAAAAAEAEQIDMSFB/9oADAMBAAIRAxEAPwBB8P8Ah2O9at0tyshfiJRZaSuCp5A4CAkk47Zz28tNmzSNe5xSpdiTEiw2GQ9MMpIDMWAJBx7d8HS9ItmcPKVsxLgj6bdPkv3AIzqTb9iK1Uc85rdW18pc9VnWQDGex5YIPb76TFDpCRb9qXEO47w6y0LNGsltgQjrCqKxXzCn9T7Z1HY22rfpSSXlEq5HFTj6RwCVb5iWAPkcD7jW3e2638PNbvySqwYN1GUBkYYAIH7DuBjWZvMsAs9LmztxngJ6eXA9an2JHf8AnUbDK6i66CK1KV5oissjkFiuFPEYyR7DP96s/D0zJut2JCwDQI+eRJBBI/3Ro1ePSHG+2Z7ex3LU7wkRoR0xGQH9XqPLvjtjyx+Nc9NmUSdN5ZWVVCsA3EPjHnj86NGn3dJj9n//2Q=="
+/>
 
   

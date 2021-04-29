@@ -42,16 +42,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: Unsere große Reise - Teil II
   
 ---
 
 <RemoteImage alt={`Legong`} size="medium" title={`Legong`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/07/2013-07-12_1373620697.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/07/2013-07-12_1373620697.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_07_2013-07-12_1373620697__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_07_2013-07-12_1373620697__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYCBAcB/8QALBAAAgEDAwIEBwADAAAAAAAAAQIDBAURAAYhEjEHEyJRFBUjQWFxgYKR8P/EABgBAAIDAAAAAAAAAAAAAAAAAAACAQME/8QAHhEBAAICAgMBAAAAAAAAAAAAAQACERIhIhMxQcH/2gAMAwEAAhEDEQA/AHu6bpqrZHeY6ya7wTJcpB8V0fRjg85vJw2cA4GMEDqU85wDrOrhe7nU1Smyb1v8tP0s0jTVfSUPVjHp4x7dtXvGW+/MTNYqKAVFVFWVLTSxxFpo0ilYjDDugEjAg9unjvpRsVNE1r9VWqJVRS+lhyWDD09v7qoSpszVWrbrGqg3O9FCouW49zVcpZlBiubKMD3GCf8Av3po2vu+715tcEdbPHCauGJ5ZpDNJU4ZASxPCBh1elR9+/GswjsjTmGnpXknqah+kRIMdsknk9uO501eGsghu0TSR+SfjKSJg4HVkMcfo544A7Y0XTCjAqqZJnt9rzB4xbsjaaeFPm1UDJFIQQDLnHbjkA/zQ626NQy00ar1gIwdUbOCCuCPbOOx/Or2+Nn7ik8Qt01tJYrzURz3SoeNloZWjdWkJDAheRj7g6nB4Y3CT1SW+/KfYUTgD9ZXT8bZZG/QD3z+Ttsv61tSV+F8tEVncmUqSCewA57n/WdTtFwkff1ipnpyim80jeb1lw+JVAwcnjBGiz+Hl2oYJZqG3X2aqVCERqJiCT/iPzo229lXin3nYaua1X4BLlTzSM1JII0+qpYnK8Lx76XBtkjeR0K/cz//2Q=="
+/>
 
 **Nach drei Tagen ließen wir [Dubai](/2013/07/29/unsere-grose-reise/) hinter uns
 und reisten über Jakarta nach Denpasar.**
@@ -66,9 +66,10 @@ kleine Erklärung:
 
 <RemoteImage alt={`If you're going to Bali...`} size="medium"
 title={`If you're going to Bali...`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/07/2013-07-12_1373617546.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/07/2013-07-12_1373617546.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_07_2013-07-12_1373617546__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_07_2013-07-12_1373617546__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwUGCAIE/8QAKRAAAgEEAQMDBAMBAAAAAAAAAQIDBAUGEQASITEHE0EVMmFxFiNRof/EABcBAQEBAQAAAAAAAAAAAAAAAAQFAgP/xAAbEQACAgMBAAAAAAAAAAAAAAABAgARAwQhMf/aAAwDAQACEQMRAD8A9Oc3a+/yi7kZBeaKOOqkSOKCVgnQCQoVQQB2HKvV37JLhbj9Jv2QRmk3KCbg/uT6+4N30o0Dr4/Z4h57Y5qmsuE0SEn35G7a33J5HejeOWu9VeRw3SkeWohihRJdkGHqL7ZG8K+wuvwP83yMuYi2J8lkhAgNTkNlSYtTVF6ut2pRIvXT1MdU/uyhh1Dw2vHww3og8OcbynMaP1IsVLUZVeqhPqVPFLFLWNJHJG8qqQUJII6W1+OaiyyxNf7VR0iSBmglVm6z0+4OjpOyPHwew4UZNgN1t+V4/e7vdLZHRLc6SCCnpozEIf7gyou/uLdyT5JJ5rV2AxLA2DOTFGTo7Eeo6KmorYyASJXH/eGNJmNR6eX+9e1aTc6euCERLL7bB13o70djTEa8+OXcy3Cnv1xje31hQ1DsrrCzKyk7BBA0RrkZUWmeetnqHt07ONsjNA3kDY+OFUlXNiICqVo+GJmKV5u1kpa54VgqpYwZoI2L+0+u6n5P75nP1WyKvr/Xmy2eW5x1droLvRNTwxBQsLtJH1K2vucHY2T2B1278kcoa+SYi1HUWzIGkqpnRJaKilaWNQoYMwXR11HXf88KcFxHKn9QMdkkxu8xRJc6eaSSWhkjREWVWZmZlAAABOzx+liVU4Khs+NcTHtz/9k="
+/>
 
 Der Barong ist ein mystisches Wesen, welches die auf der Erde vorhandenen
 positiven Kräfte zum Ausdruck bringt. Seine Gegenspielerin ist Rangda, die

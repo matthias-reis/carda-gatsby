@@ -33,8 +33,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: Werdet aktiv!
   
 ---
@@ -108,9 +107,10 @@ Unterkünfte. #refugeeswelcome!
 
 <RemoteImage alt={`#BloggerfuerFluechtlinge`} size="large"
 title={`[ ](/wp-content/uploads/2015/09/11144488_10207688042865199_8063703920232044845_n-e1442239162466.jpg) #BloggerfuerFluechtlinge`}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2015/09/11144488_10207688042865199_8063703920232044845_n-800x296.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2015/09/11144488_10207688042865199_8063703920232044845_n-800x296.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_11144488_10207688042865199_8063703920232044845_n-e1442239162466__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_11144488_10207688042865199_8063703920232044845_n-e1442239162466__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMI/8QAJhAAAgECBQIHAAAAAAAAAAAAAQIDABEEEiExQSIjBTJCUWGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAEDBf/EABwRAAICAgMAAAAAAAAAAAAAAAABITECEiJh8P/aAAwDAQACEQMRAD8A06O29/Q3NCx8k8EyiFnWIjqKwFzbXY7Aj5BFJDFdNweDUmwWHEw7dw19Cx5N/erUZi5KIJ+Fy4h2viJIGuNRCjBQTqACxufwb01OiZl4O1GTBwF8hjuEIKnMbi33SLlosx8ynQ0WOK1S68z/2Q=="
+/>
 
 <RemoteImage alt={`#BloggerfuerFluechtlinge - Jetzt spenden!`} size="full"
 title={`[ ](/wp-content/uploads/2015/09/Bildschirmfoto-2015-09-14-um-15.42.29.png) #BloggerfuerFluechtlinge - Jetzt spenden!`}

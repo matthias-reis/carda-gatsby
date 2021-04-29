@@ -31,8 +31,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: Ein Tag als Mahnmal
   
 ---
@@ -140,9 +139,10 @@ Denken geben:
 > ## 1 kg Rindfleisch erzeugt so viel Treibhausgas, wie 1.600 km Fahren auf der Autobahn
 
 <RemoteImage alt={`Klimaschutz`} size="large" title={``}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/schaubild-1-800x454-800x454.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/schaubild-1-800x454-800x454.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_schaubild-1-800x454__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_schaubild-1-800x454__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBQEECP/EACsQAAEDAwEGBQUAAAAAAAAAAAECAwQABREGEiEiMUFRBxMUcdIVMjNEkv/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAAEF/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAwQRYcESUfH/2gAMAwEAAhEDEQA/AOjLpKS1LWhV2ETDYWWy2k4BONrJHfpU0eoU4MXF4pI5JijPv9tVWsb3AtILlzmoisAJSSuP53ETw8IBPQ7/AHpcHiTp8EEamAPf6Y98KzmyXSwqV2ONdkRivDybR5V1sw9gEx6CJCCNqfLVy/UHxrYhtPpIW5LeeSAU7K2UoycjfyBpMjeJmlippKtQrccOEkGE8Ao/xTFaNXWS8zhDts0vSShTgR5LieFJGTlSQOopxbVcfOjCfCyaxt62A5Bl2Pxg9e9Yye5oooxFYZO7ealnKhmiirkn/9k="
+/>
 
 Wichtig ist vor allem, dass wir bewusst leben, nicht alles als gegeben hinnehmen
 und die Entscheidungen unserer gewählten Vertreter kritisch hinterfragen.

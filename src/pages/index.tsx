@@ -43,6 +43,7 @@ export const query = graphql`
             title
             subTitle
             description
+            excerpt
             type
             typeName
             date

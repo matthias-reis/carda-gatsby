@@ -46,8 +46,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: Ich habe aufgehört zu rauchen...
   
 ---
@@ -180,18 +179,20 @@ zwischen Al Pacino und Bruce Willis senden. :-P Hier kommt der Vertrag:
  __Evelyn__   _(Meine liebe Arbeitskollegen, die seit 4 Jahren rauchfrei ist, und mich mit ihrer heiteren Art unterstützt, wo sie kann.)_
 
 <RemoteImage alt={`Evelyn`} size="medium" title={`Evelyn`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9680795254_0fc1099280_o.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9680795254_0fc1099280_o.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9680795254_0fc1099280_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9680795254_0fc1099280_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUHCP/EAC0QAAIBAwIEBQIHAAAAAAAAAAECAwQFEQAGEiFBURMiMWFxFKEHFUJigZGx/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUCAwb/xAAhEQABAwQCAwEAAAAAAAAAAAACAAERAwQSITGBE0GxUv/aAAwDAQACEQMRAD8AxPatmpKukgeamiclQSWXOdaDZdpWiqljjagoQzegaFSXOOSjPU++Bodsa5UTUkNMJAlQqAFH5FuXqO+m9DWiOsp3BA4JVznseR/3U64lg+GnhWUg8psExLxPMda+qqNm2LgjP5TbykqB43+nXzA9fTRndu0Laljuc9Ba4A0FNLJ4kcQAUqpPr3GD/Wnu/wC7T0G2hcaaIS1KzRwhXJIAc4yfblj+Rpfeae1Xj8Gr5cbSrxRRWqs4oJB54mEDtwHvjoeoOgKdYsWcuUVc2Z274luI3139XFUPNF740ktO6KuiXwqsfVQY5Fjh1+D1+DovE4AAJA1atUdO84zUQKT+p5Ao++nTmLBtBUwcyhl08pW9bQdHg8s9NHOpOMZBDD7jUm53cU9i3Vb1WU0zWOpEipJwr4hjbgLDrgdP3anbb3LaLdt+ipZr3b3MSeF56pOLh9+es6pN3JNTbqS41NOJqymnEYVwRkqVVAevLHzpBRt3Inf0y0d7cC1LH9L/2Q=="
+/>
 
 **Matze**   _(Der noch nie einen Glimmstengel angefasst hat und heute Abend,
 beim Stöbern in meinem Blog völlig unvorbereitet von meinem Vorhaben erfahren
 wird.)_
 
 <RemoteImage alt={`Der Herzmann`} size="medium" title={`Matze`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/189270_1914558587933_3844410_n.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/09/189270_1914558587933_3844410_n.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_189270_1914558587933_3844410_n__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_189270_1914558587933_3844410_n__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgCAwUG/8QAKhAAAQMCBgEDBAMAAAAAAAAAAQIDBAURAAYHEiExURNBYRQiMkJSYoH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AZpPWFi170elVrVGBWYjqm6XXFpjynkN7/pZAb2oKk3H2r2pF/wCV79i7Ng4pqLJk02UwFLSXWlIBQbKFx7fOAX2nUyuUrT2g0+JLkRJ0dC4zqYMMSXXXEuKTZO4hKRxcqNscvll+sZgq1Ug1iVUDKhMuPhU2I23cova2zq583wY6EwIkSTTS4UriPKbbX7lJAUlR+Tu5+b4z35sClRJHqJeC5bhaU+hneVK28lSukpHkm3jAFpJxMHgn2AuT4wONTNW8taftKZnvmbV9t0U6KQXOuC4rpscjvkg8A4UvUrWLNWey5HlyvoKQo8U+GShsj+57cPX5G1xwBgGSzRnOkP5zkSKJOTPipbRGluMp3Mh8AkJS50pWzvaTa2BS7HkVim1eZWZywwmQ+lhv0lrKmx+yQD84s0KfjVvTSp0MpSmVDmF7ckC4DiQULHyFNqH+jGdmSu1aj012BUoPqONrKm5TIFiLD9T+J824wH//2Q=="
+/>
 
 <address style="text-align: left;"> </address></div>
 

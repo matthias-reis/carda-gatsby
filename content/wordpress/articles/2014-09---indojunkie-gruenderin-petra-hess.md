@@ -41,17 +41,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: <strong>Sulawesi - On The Road And Inside Indonesia</strong>
   
 ---
 
 <RemoteImage alt={`Petra in Sulawesi`} size="medium"
 title={`Petra auf Sulawesi`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6766.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6766.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_6766__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_6766__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKhAAAQQBAwMDAwUAAAAAAAAAAQIDBBEFABIhBhMxBxRBFVFhIiMycaH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAL/xAAkEQEAAQQABAcAAAAAAAAAAAABAgADETEEBQYhEhOBorHB8P/aAAwDAQACEQMRAD8AhgycWMcyiUIiXktpCkuAJULQk/PN6mhN4dUpk+6QkUr9KZCqPz4B/wA0v5hBgYjFJnR2YzrqkuCLvS8+tqwBavyL4HPH21PipS4CVy/o89bEPuLbdRFUbPbOxIVX8iogULq/OjIyYk8bqsnEfBnVNeGzEeW+hiPF7AZcbXs3pc/bcQFpVab8g8g+DpnOSaU0UPIMeOyHFKW6NooDjzrGo8mLBkmF7VbebUwplyOhiu08knag+LWAOT48D8ardHuZ6H0z1f1BGe+owMehDDjU6Q4twbyKX27qgOSODwNbM6axJxhNP77rWPVHpoq6ClyWZTQkRtr6XXYja1pas2ygjbtBIHPJoVpV9Dc08zhJuPlJMpL85tthxa1BUfuN2oj7i0pIHFGz81o0aa8AdqnuyS3JHQvriuN1h0I7hOqV5qJmHFS+4ZW9xi1qVXIUoKG6+bNDk6r5XK5Kdjd7Esx4eUQY82IRbb4ryaKaIrgj+vGjRqNVRaTp+/c4jld3zXOO/ux8V//Z"
+/>
 
 **Petra und Melissa sind zwei Bloggerinnen, die eine große Schwäche für
 Indonesien vereint. Sie haben das Land bereist, seine Natur, die Leute und die
@@ -67,9 +67,10 @@ Abwechslungsreich, verspielt und überraschend."
 
 <RemoteImage alt={`Petra in lernte in Sulawesi Land und Leute kennen`}
 size="medium" title={`Petra lernte in Sulawesi Land und Leute kennen`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/petra-indonesia.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/09/petra-indonesia.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_petra-indonesia__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_petra-indonesia__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIGBAf/xAAmEAABBAEDBAIDAQAAAAAAAAABAgMEEQAFEiETFDFBBiJhcaGR/8QAGQEAAQUAAAAAAAAAAAAAAAAABgABAgQF/8QAJhEAAQMBBQkAAAAAAAAAAAAAAQADEQIEEhQyYRMhMUFRcYGhsf/aAAwDAQACEQMRAD8AlRE1EyR2khaytZbtB2uAKBBAP6OV2iwVxHelObdSzuQoruwbseb88XeTjrkd9b4ky+i6o7uk2nbVj6m/YPih+cRzUDEhvvNPFc1ZaKA2kJSdw4+gHIF2ffGV4FLl4Irw9tfsWzeIAInUARA08cFVzIInOnSG5L8JMhQbcfZKS7s9pSVEAXYBN+LrMw0+BoPyrsW3S9pyoyJTMd1zcttdbVKUEkgWaND0MWFJR3qHH1KTtWlW+wkrPkUDx59Y/wAgjx53zWBqTTTjjS2BHcSlwJW4o3SRt9gn+Y1ThvTyWFhS3SW680rl7i5Gp6+xHcdS2l1ao56aSKCObHPk3WLM1iZpExU2IpsuhxTACwSABQJHPsCv1hhkKgjRwmpiuesewtYnP6lPcmOqCbAbKAOCrp793++sqNBeV2Mx5fK2C26gjiiHAb/tYYYhlhClp3OnsPi//9k="
+/>
 
 Petra kenne ich schon sehr lange. Sie wuchs nur ein paar Häuser weiter auf und
 ging in die gleiche Schule wie ich. Während meiner Ausbildungszeit und auch
@@ -87,9 +88,10 @@ ich heute noch ein T-Shirt als Andenken.
 
 <RemoteImage alt={`Traditionelle Musik`} size="medium"
 title={`Traditionelle Musik`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_7902.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_7902.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_7902__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_7902__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwID/8QAKRAAAgEDBAEDBAMBAAAAAAAAAQIDBAURAAYSIVETIjEHQUJhFBYkcf/EABcBAQEBAQAAAAAAAAAAAAAAAAMCAQT/xAAlEQABBAAEBgMAAAAAAAAAAAACAAEDERIhIjEEBRVhgfDB4fH/2gAMAwEAAhEDEQA/ANAuse3aKvBe0rWmIukhmqnlEhP5Bj8HPjUnvG62i37aq327tSjiuBdXNTOS5iUHOVKjkPHyB5+w0gH1LBcyskHEjsK/EZxgcfb0PvjXvSbjartNdPVzQx25lCV8noyTF2/HKAceOOR6I7Iz8AgTlgLSzZ++7ro6dxMTY5Gau378KUuez7bcKANZrQbfdKeRXMrVRnjkB74EcjxGD1gfPgaU/wBZlt8kslQV5SRYiCyMCrde0gYHfk9a0qi35DaKCWkj/wBiBUajiiiZYxGce0nvicHPXQ4+dcXffK1qtCLNVUsqORhJOGMY6KmNiDkfGdEM4xlq28/aZuXySjYC9+KUdP8AWTeSVMNxdrHJV8eKyNbF5KP0eXWlG6d63ncz26tuky/yWVjL6QKRuOeccM4HQA7z50aNXaIRa3Tfdr1W26+tFpqfSWkZ4kQoGRisp7Kno5BxjUlXb53NVPznusxqDjlKCfcAMAYz/wA7/WjRrGAZGo2tTicHscl//9k="
+/>
 
 Schon kurze Zeit danach begann Petra ihr Studium in Düsseldorf und wir verloren
 uns, bis auf den losen Kontakt über Facebook, ein Bisschen aus den Augen. Erst
@@ -109,9 +111,10 @@ Petra schrieb mich an und schwärmte über Bali und Indonesien.
 
 <RemoteImage alt={`Petra und Melissa auf Sulawesi`} size="medium"
 title={`Petra und Melissa auf Sulawesi`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6533.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6533.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_6533__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_6533__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QAKhAAAgEDAgYBAwUAAAAAAAAAAQIDBAURACEGEhMiMVGBQWFxBwgUMqH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAeEQACAgICAwAAAAAAAAAAAAAAAQIDITEEERITIv/aAAwDAQACEQMRAD8A6ftdvd1orpd6R7dUSW6aAStKw5AkiHtG/sMfHoa2C7/qXHSVt2oYbe5qqGmknBd8q5jRJHXA3HY4IP2Pyo8HRx2N3ZA8qSYypk2X386TaylMfE1RXVdWohlnY09N0x1DOy9OVXYjuTlC4xv3ehubPjQ+PH2d+RrtjvfFN4pEuMFy4d6DsQaf+LK7R4JHLziTz9c4+vjUt7pxNEG6tTw+2+QRTTAAev7nP50h8DVEHDVQaOMGGnkdlkBBwHC9o22z876aa66ROOYkA+ST4H+aVbU0C6LrkJ0M7CNe1e4bEZBGqiajWaokM7mUSkNhgDysNgw9YyR+DjRo1k0VrwydQ26NZQzHnAzhWzjI+vn76tOsWXlAA233OPj1o0aaxom87P/Z"
+/>
 
 Leider war sie just zu der Zeit, zu der wir uns auf der
 [Insel der Götter](//2013/08/03/unsere-grose-reise-6/) befanden, nicht im Lande,
@@ -132,9 +135,10 @@ nimmst!
 Auslandssemester gerade dort verbringen?
 
 <RemoteImage alt={`Fischer`} size="medium" title={`Fischer`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/fischer.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/09/fischer.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_fischer__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_fischer__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgE/8QAJRAAAgIBBAEEAwEAAAAAAAAAAQIDBBEABQYhEgcTMUEUIlEy/8QAFQEBAQAAAAAAAAAAAAAAAAAABAP/xAAnEQABAgQDCQEAAAAAAAAAAAABAAMCBBExEiFxIjJBUWGBkbGy8P/aAAwDAQACEQMRAD8AtV+ebHsHD23K7BUhSG3LWjrNOuZsTMGMZc99ZbH8GOutJV3mNBONX5dzq/m71HIYRLEBHGxaIyoSgHjj4GPsYyc50r8m2O7xzn2ybbZ3DbomSrMkDGs8wdGz5AlyxUN+/wBEAg/Wlzd9o3usbFdI5iJngkljkUM6tDF4qGx8EAAfAyCDg6K67gNKpEvKQuAGIca9QKrr4HyGttMdO3NZFn8ujbntw3CwR5oipXyIyVLEsMKOxgY1fu5+pFTbeK0XpTbZZ3+/D5VKETSESSMwA6A8gvZ/1jONZ0r7YLQjeSlC8aupMpUn2v2DHxZSMDr707bZRr7VzXithaaxy3I5fcr4kIRHkLRzeecHxOEwv0M9dak0/XZrmnvyMBjxQ2y18KEuW7Fr1YrR2p5ZkgsyxRLI5YRpgfqoPwOz0Ou9SXqvNLHf3qSOR1djRUsrEEgooIz/AA4GjRqkxcoslaHt9BI29W7NPc+MValiaCsZsmKJyqEhcg+I6+dbC2+KOS/t/uRo3jtwI8gDjtdGjUGbfuabP740HoL/2Q=="
+/>
 
 **Petra:** Malaysia hat mich sehr gereizt, da ich Lust hatte, längere Zeit in
 einem ganz anderen Teil dieser Welt zu leben. Dort Neues zu entdecken, anders zu
@@ -150,9 +154,10 @@ lange gedauert.
 zu stellen. Wie kamt Ihr drauf?
 
 <RemoteImage alt={`Sulawesi`} size="medium" title={`Sulawesi`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_4481.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_4481.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_4481__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_4481__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAgX/xAApEAACAQIFBAEEAwAAAAAAAAABAgMEBQAGERIhFCIxUYEHFWFxQaHh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMEAAL/xAAhEQABAwQCAwEAAAAAAAAAAAABAAIDBBEhMRKhBVFhcf/aAAwDAQACEQMRAD8A7lxkMufsvC9IZraKeoipnqZS6LK0evliSCNuEi/UaszVlKyTRK5ClSO4a+QfGn5xV56WGZoeoiWRUcSLqOQfY/vCBfrZSU9HUQdMFq0rTMBGR3jaQTtLcAHTnxxieo5McARbtW0To5GktN+ilmqo1muNvv1vZ4qimkhEyoBuVwRscajn8/rDTm3LOdHqDW0t8a7JJo23YKeUAnUhgO0n5GM5CigqLxTR1gCU0ku4yPIQHZR26n1r8HDVnG83O0b44LRPNCV3Coj3MoPohRrhfJ0p1r4F1KI4RvJ1myoJhoIcuVV2a3xOYC6rDroDtJHJ+MT3NriqWgaWGEddb45WVIwoVhM44H88EefWDBjSjf4hT4kFvaShuarihR2HftDNydff+Yp30su9T9ikasbq0erKIJeTGAq8Bv2dcGDApc2BTvIYGF//2Q=="
+/>
 
 **Petra:** Melissa und ich sind Anfang diesen Jahres für 8 Wochen nach Sulawesi
 aufgebrochen. Ich hatte die Insel, die mit ihrem nördlichen Teil auf dem Äquator
@@ -175,9 +180,10 @@ wunderbar. Einfach phantastisch. Wir sind nicht vielen Touristen begegnet und
 dachten uns warum?
 
 <RemoteImage alt={`Sulawesi`} size="medium" title={`Sulawesi`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6650.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6650.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_6650__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_6650__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgj/xAAqEAACAQMEAQIFBQAAAAAAAAABAgMEBREABhIhMQdRExQVImEjQaGx0f/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAkEQABAwIEBwAAAAAAAAAAAAABAAIDITEEERJBIjJRcZHB8P/aAAwDAQACEQMRAD8Af+mnpa23Wlrd0xU1Xcqc5pEiZpIYyM4ZxgcjniceAPzpB6l26+XHcVhqd0UFAt4J+VoqiiUiKZOSnk5BOFBcDJA48jrZVe6nuFRcEsl/t9RLBEeTJUuZI2I4jKoAo77BJPg6im4zuOkrfpLXOW6r9PaJKmSqZ2CNMpfPLwSRkD2Pk6hE6Rjy9w8rU5gmj0i1LXt736qkR+mImud8vsdbapFktZoYIqdBKBMqrymDlipIdXHYz58Ea2Fp21JU7eoDHPZo3p6VoqmnjoIkaab7uOG4+O07B8d6V+nVBKlhqKOnkUU1PKeS0yBebOO+gfbH7/3qibdSntNCaaX595WliYSVMDYVAVBAIGAAAes6EOsO4qqc7QKBcQVNthFBdJwB+hhI/Oe3C5Jz3gE6qW1a6puE9LbmmaCnSOMxmFVDo8UpTIYg9MMfb/ujRqslW1+qmwZOTh2VW9LbfRQ7daqSlj+cllkimmYcjJ8N2UHvJH579vbW35GndPhsyHGfsYjv+dGjR3SS8xX/2Q=="
+/>
 
 Es gibt bis jetzt kaum Literatur über Sulawesi und das möchten wir gerne ändern.
 Da wir beide Studentinnen sind, konnten wir uns die Kosten für Design und Druck
@@ -211,9 +217,10 @@ Touristen eingestellt, es spielt sich noch "das echte Leben" dort ab, was die
 Insel unglaublich spannend macht.
 
 <RemoteImage alt={`Sulawesi`} size="medium" title={`Sulawesi`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_5687.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_5687.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_5687__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_5687__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAArEAABBAEEAQIEBwAAAAAAAAABAgMEERIABSExIgYUE0FRkRUjM2FykrH/xAAaAQABBQEAAAAAAAAAAAAAAAABAAIDBAUG/8QAJxEAAAQDBwUBAAAAAAAAAAAAAAECAwQREgUhMTNRcbETMjSRwdH/2gAMAwEAAhEDEQA/AG25R2XafKHKWtZckPRZzl1kfzP5A4eKSeb/AH1jwvU6ERw+1tDrbIcLTjbOSipXKkjEgJTXIKbsX1pg7/sLm2xhH9+48pa0CEwziWylQ8y6lRoDs0LOVDu9LSWZ+7biw68VR4yELQmP00EXeeN+ORAF8k8A86x0xRwy6pXmZndqOsKz23mqU9uBzu9YfmgSnehmN0lTZkmZMbCb9omK2HGyBWN8d89D6Xqo2uGUwWmZpLriUhKyujkR89TSN6kwg6VkNNvOgYNrHdcYpuxwKvrjW76cdH4S8qW8UPpKSwyGyoKSScrX8iOD99SMRJqUlCixFSMs7ptrcSc6TKfHP0c0bJZmyQ0S2EAY48Y2k3X06H21e5qe9G72t1RWv4TPko2f1GT/ALo0aRZpAOZSthKFIXCl5gKxcSE2LoWOtVu3k+3aNmypV/2OjRpzGYoGN8drYf/Z"
+/>
 
 Du kannst in ein Microlet in Manado steigen und durch die kleinen Gassen
 brausen, lokale Märkte, Malls und Warungs besuchen. Du kannst auf den Togian
@@ -245,9 +252,10 @@ melancholische Gedanken hinweg. Da wird dann schon mal "Heute hier, morgen dort"
 von Hannes Wader geschmettert (lacht).
 
 <RemoteImage alt={`Sulawesi`} size="medium" title={`Sulawesi`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_5211.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_5211.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_5211__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_5211__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgADBAUH/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBhNBBxQiMVGBcZGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDBAX/xAAiEQACAQMCBwAAAAAAAAAAAAABAgADETEEEiEzQUJRYfD/2gAMAwEAAhEDEQA/AF/qdutNzoLleJu5OtQrRqlKqNMVGd2CQNygAA8fY88aL0lzuN7qolTte2CzSTOsvcWJUYKgbxk5z/n0ddXr+OovMvtpJy4dkaOWf5iOVTnDKc/E/r8+NBrbeK2AVtDMJaK4UtUKuSkAjSmbaWypYYG5lOck7eRj6zrkDSUmbewuZpNzxtM936eqaCWWeKKsnpZC080kRyqDJDKAeNxzxknkj611OiGslRRCrt3faNHME7TKe5G2AWDD6+jxjOtiO+y3H01iA2Rz+87MqFdy5GGY+M+T5HjQ2xXSm6flaFO3I/uDVSSTcGUSYZWIHHAXA4x/eg5K3C5zK1UvTVyPU9R60HZFcYvgcx8rx4OiN4hikqHeSNGdrfhmZQScTkDP641atXGYo6Ql1zUzrb51WeUKluyoDnCknkj8Z0At8jzz10kztI+xfk5yeCAOf41atGn3feI+p5az/9k="
+/>
 
 **Anne:** Derzeit weilst du im schönen Aachen. Gibt es schon Reisepläne, die
 nähere Zukunft betreffend?
@@ -269,9 +277,10 @@ reichern sie mit unseren Bildern und einem tollen Design an und Ende Dezember
 2014 gibt es dann ein druckfrisches Sulawesi-Buch zu kaufen.
 
 <RemoteImage alt={`Sulawesi`} size="medium" title={`Sulawesi`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6860.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6860.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_6860__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_6860__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBgcF/8QAKBAAAgIBAwMDBAMAAAAAAAAAAQIDBBEABRIGIUEHFDEiIzJRYXGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAMFAv/EACYRAAECAgkFAAAAAAAAAAAAAAEAAgNxBBESEyEzYYHBMkGx0fD/2gAMAwEAAhEDEQA/ALnZq79WWJ9oo2rSMgZhLLHyRiewxxyxHz/GdZ5J6mXozDJLQlaWxlqyQPGC6g/UeQjPfzjxpuj17ZtxK098115gfngk98Y+dO16Ow2aa9QxWZKsgDU5oMq4y6ZaVFYHGWw2MDJ7HUa1d4OH2yoQgIpKbtesCx7ZEu27PbaNFEsstmcBpYsgDgUVvqZiRg4A7asPTG5WuqtuS/faXb66yyJJQgSMtlSuPujschvkAH5HbVN6q27puPbUr7IKlnaHgXjMzF7UUyEBQG7FQwLdx5GNTv7nNU6W9ztrSBqcwjdRkgJwDFuRzyOTknwM/rRW2IGluFeiHCwDosgusyMQhKgoSQDjJ7a1Do+GKOToaWONElkuWubqoBbiX45PnHj9aNGm0vLO/gpNC6zLkLs+qteCr75qsMcLSGmzmNQpYmUZJx8nTVXv6SQufzM0ZLeSTIqn/VJH9EjRo1mHltl7Tn958Bf/2Q=="
+/>
 
 **Anne:** Was unterscheidet "Sulawesi – On The Road And Inside Indonesia" vom
 handelsüblichen Lonely Planet?
@@ -294,9 +303,10 @@ unserem Buch den Menschen und der Kultur auf Sulawesi ein Gesicht geben.
 
 <RemoteImage alt={`Unterwegs auf Sulawesi`} size="medium"
 title={`Unterwegs auf Sulawesi`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6982.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6982.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_6982__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_6982__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwIDCP/EACoQAAIBAwMDBAAHAAAAAAAAAAECAwQFEQAhMQYSEwcUQVEVIjJCYXGR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMAAgT/xAAfEQACAgEEAwAAAAAAAAAAAAABAgARAwQSITEFQbH/2gAMAwEAAhEDEQA/AGKL1ttaWej8FFUtdpsq8GcRRkfuBJyw+QNv5OpKD1UXyOtJa4HrqiVpFieuXLIqgM2ynB23XgZG/OqWt9wsHhJ8DjbtKvC4BH+nP9abKx7RB0XD1LHRnvj8sKOU2EQOD2oThvzAc74U6xnyTWNw7NdQ4tKj2AY61Hq5dVrkjj6fXxPgjyO2Qv2WAxrZWeoXUc0aR09qtks/eqyeFJZ/DnYFgBgDJUZBO+sOjJbbamW5V9zlkrHXtESlexU+sAcbnn740w13UdjdCtJTzGdsHvpFWIqQcjc4zggHjQOozsOL+SwwJ7nMnT9L7urpvciKWJWGYnU9r8c75+fv41HXCipVu/4LNSU59zUvTCpiMivH2v8AqUF2HwdiPnnRo0xOCah6EtKw9X3aWyiJZIIvbxRxNIkCh5GAALk42J1M2etuN6uFPRmukgaV8NKMk4xngEDRo0xlAQkCSzuqf//Z"
+/>
 
 **Anne:** Wie können meine Leser das Projekt unterstützen?
 
@@ -320,9 +330,10 @@ Fertigstellung des Buches beschäftigen. Die Doku soll vor allem Lust machen,
 nach Sulawesi zu reisen.
 
 <RemoteImage alt={`Sulawesi`} size="medium" title={`Sulawesi`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_7061.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_7061.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_7061__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_7061__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBQIDBv/EACYQAAEEAQQCAgIDAAAAAAAAAAECAwQRBQAGEiETMUFRIiMUMrH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQACBP/EACERAAICAQMFAQAAAAAAAAAAAAECAAMRBCExEhMVIpFB/9oADAMBAAIRAxEAPwChxu7I0ZhmK1iEottSVJS6gNg++XGrIvWxzdcmHOx8uBt+LkJCIA8xyClKSPMedABQA/FI7onv0AO8IkBAmO+VaEOpSVtq48UpRfaaqx93ZHep+cw6ZOHh5VnzOMvtFlxKF0CtCVJTde+uI6PxpdRrizFW3MJQosbpMkTd0sTcHjsxjcSyww66tmW2/wDs/jOo9AVVg/f1XrSjymHk7m3bMdgPwETnXQpLZWllKjxH9T6o/Wmtt3GCTsTJVHUsW7JZY5m1qbq02LPfBQ0uctkNuxT5Yi5EVwq/bDeUVqaNBVjkAe6quiCfnR7LGJyv78hkQD1J4nS7fffdf8klxLrYCqZKaQVpJAUR89m69ehpubUSM3HlxMwlEyEW21eB1P4pN+01XH18aNGsQUJqVCxpSi+Od8b55+Sk3Tno+zs43jsbi2fAiOl1A8ik8OajYHv5s2b96ijJws4+/kZOHhuTWYi5IffQl1Z4HpPLiDX+aNGrNc/davO0j6SoaFb8exHOTP/Z"
+/>
 
 **Anne:** Macht ihr eigentlich alle Fotos, die auf eurer Homepage und später
 auch im Buch auftauchen, selbst?
@@ -347,9 +358,10 @@ ich könnte mir vorstellen, ein paar Monate im Jahr dort zu verbringen. Aber
 nicht komplett, nein.
 
 <RemoteImage alt={`Sulawesi`} size="medium" title={`Sulawesi`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_7685.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_7685.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_7685__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_7685__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYD/8QAJxAAAgEDAwQCAgMAAAAAAAAAAQIEAwURABIhBhMxUQdxFEEVIlL/xAAWAQEBAQAAAAAAAAAAAAAAAAAEBQb/xAAkEQAABQMCBwAAAAAAAAAAAAAAAQIDBBEhMTJxBQZCcsHR4f/aAAwDAQACEQMRAD8ARVkt0qTDo04sXuSXkFUQcBhg5JPOB7Op1g6UlTBUfFCm4iVqgU1wqVEBalgkZO7eCcegNbnpOwUbdZrTOqymSVXjvJKdwJtWqzIgGfJxzjxq+6f6X/BhPKt0+a1WuO0zErkAv5ZfeR5z9jnRnkLj0NfVcg2NJZm1S0eg6Hv98BRWex2iRc7ZRqSZyiTQElWBRCx/yCCdpDKwzjJ84Gqa52aQl5mxI1M1TS31BtzyijJI3cnA+/3p5dCdOWGzzJEKZEiTrg9VitesVL0qabRjbyp53Zx5z60wOvntkOwfiVqVB60sVHV0QL2FAAG39jIGPrRzkUUdLkEkyVknkLWKoa2I7AFkiQVUnyo2jgehrV/F1Kn/AAjN203PcJoY7RlsPxnRo1Q43hvYQeWcPd3sSfhBFkXm/rXUVVV7iAHG7A3Uveu/VDNWstxesxqMkT+pY5K8449cADRo1GTgaFzWP//Z"
+/>
 
 **Anne:** Gerade erst las ich wieder von den Korruptionsproblemen in Indonesien.
 Auch unser Guide erzählte uns auf unserer Bali-Reise davon, außerdem musste
@@ -376,9 +388,10 @@ Sulawesi immer dabei haben sollte?
 
 <RemoteImage alt={`Die nächste Reise kommt bestimmt`} size="medium"
 title={`Die nächste Reise kommt bestimmt`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_4333.jpg?w=300"
-largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_4333.jpg?w=300"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_4333__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_4333__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAX/xAAqEAACAQMDBAECBwAAAAAAAAABAgMEBREABiEHEjFBExRhFSIjUXGRof/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EACQRAAECBAYDAQAAAAAAAAAAAAEAAgMREiEEIjFBUbETUoHR/9oADAMBAAIRAxEAPwDTMNTJwphZR67QP60nWXqdQXff9ftakpJzLRq/yVQIKBkIDKR65yAfZGuTQ3mAyr2MpYnjBzk+tZ86T7xen3jdoJ2lFddZyIFkUSRly7Fg+ffj83gYOqRBTdGDntNaK6g9TLbtPctuts9A1ZLUBZZ5UcBqdO7AIBBzxk44/wB03XSn+qkEkZDIV4IzyNQ65bXo963iC9VcUkVNUUvxPEODG6sO1l5BGRnkZ/jnTdUX1aRY6VZ3/RQR8ynOAMDP7nA1pw8OJOrZRxNDRI6qXV24Ky32qOqpynzyrK6MwyI+wqPHhie7jPAx4OohA8tp3G8scnfPSyyP3nI7yM5zzxnn370aNTdmaXHkjtaHgM8bW+oP2yqHTfqJcfxu27fNNTmkZXZ5CWMjNgvnJOMesY8aZrdWG726/wBbmaNrfM7GN5O9XUscKpAVlx9yR9tGjSBLoQJOh/ESaXyG/N+1/9k="
+/>
 
 **Petra:** Kamera, Ukulele, Mückenspray, Pflaster und Jod.
 

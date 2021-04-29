@@ -45,8 +45,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: Es gibt was zu feiern
   
 ---
@@ -109,9 +108,10 @@ auf so einen Unsinn gekommen bin. :-)
 
 <RemoteImage alt={`Jubiläums-Sonnenuntergang`} size="medium"
 title={`Jubiläums-Sonnenuntergang`}
-mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/294501_463496133672521_2123941963_n.jpg?w=186"
-largeUrl="http://cardamonchai.files.wordpress.com/2013/04/294501_463496133672521_2123941963_n.jpg?w=186"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_294501_463496133672521_2123941963_n__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_294501_463496133672521_2123941963_n__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgBBgcC/8QALBAAAQQBAwMCBAcAAAAAAAAAAQIDBAUGABEhBxJBCBMUFzGBIjJRYZGhsv/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAP/EABgRAQEBAQEAAAAAAAAAAAAAAAABEUEx/9oADAMBAAIRAxEAPwDYZ2JYmhKks4rQqI42VBQr+tUjJcdqm2nAilqYjZB/JBbbH87a5bp51/1Bz+qvMkyFTNS8w9Ejx55jt+y+kr2IbAJ7TsBz9NYV1GgxaHqRHhOxYyqx5DZ9ya45IOx4WoqUskHcEfp9ONFd3CzJPDdY5g2GTsfrZYxqjcL8ZtwrTEbIUSkbncDnRqeiLzUnpfSe0lCUspcY7UAADscUkAfYDRpIOqfb2NXjnqGslWlnEgRbXHWnXHJEhDSQ60/2gEqIG5QOPvpMMylNzMtvJEdaVsvz33UKSQQoFxRB388HTTZ5dY7K674lklZZVU2CIjkSwdVIbLTadlhJPd53X43PA1iVj06k3t/Zz15RikJmRKdcQqddNrX2lZI7uwKO+37DU63DA+kK5ba6WSY0t7iPZuoaGx4QW2l/6WrRqg4PQnG6X4H5jYaklwuEIkOLA4AHP4fAHjRqo//Z"
+/>
 
 Fazit der 3 Jahre: 77 Follower auf meinem Blog, die regelmäßig vorbeischauen und
 gerne auch mal eine tolle Nachricht in meinem Postfach hinterlassen, eine liebe

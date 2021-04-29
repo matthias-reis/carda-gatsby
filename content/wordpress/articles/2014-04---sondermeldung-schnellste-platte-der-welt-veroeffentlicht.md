@@ -41,8 +41,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image from another domain
+errors: {}
 subTitle: Jack White setzt noch eins obendrauf!
   
 ---
@@ -52,9 +51,10 @@ subTitle: Jack White setzt noch eins obendrauf!
 
 <RemoteImage alt={`Bild: Interview Magazine That Eric Alper`} size="medium"
 title={`Bild: Interview Magazine That Eric Alper`}
-mediumUrl="http://cardamonchai.com/wp-content/uploads/2014/04/jack-white-interview-magazine-02-700x904-640x827.jpg"
-largeUrl="http://cardamonchai.com/wp-content/uploads/2014/04/jack-white-interview-magazine-02-700x904-640x827.jpg"
-loadingUrl="undefined" />
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_jack-white-interview-magazine-02-700x904__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_jack-white-interview-magazine-02-700x904__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABkDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAP/xAAyEAABAwIFAgQBDQAAAAAAAAABAgMEBREABhIhMRMUByJRYdEIFSUyQUJSU1WSk6LB/8QAFwEBAQEBAAAAAAAAAAAAAAAABAUCA//EABwRAAICAwEBAAAAAAAAAAAAAAECAAMEERIhYf/aAAwDAQACEQMRAD8ARa5mGLRqEG2qf9IKcumSVAJU2pAGjRfkEE6trAkb7WEN5pzk1Rnaw6wZFCdmjqOyoSXo/caLWuoc2A4I9+cd80Ro02nx25VRRBbajrWm41dy+VeRJJ+pZKtz6J98VHKBYmfJ4fpb9WqaYqqbJkulEZgstuIWbslwpJKlrWhQ31bbEcYp5DP3qBpVOYj5Yr0evxLOQY8eZFI6yo+yXUm2myOAb3uR640dsj8hX7DgF4UqiMUqcQ2hc6deOS6N2WgQdSN9l3sLjix9cG7n8f8Ac/HDcZmZATC3AK5Ak3rC3qxZSS2oLWstNJ4QB9hPrxhwy9WUjw3XCiw0u5gZQ9FaAQojpLuvuVJHl6jYLrYURqTqBBGnCXlqPUK7mun0ejobU/PeDLKXFFKRf7yjuQAASedhi054yDk7JHhtLRWqs3U85us2DcWodMJUpQHlZBBLaRsVKBJseLi013Un30xq1sB8kloj1QyhEj1RblLkMySSIy5SHHgE7XUlCipv21c24w6fOlP/AFCnfyH44jU14KbQyz5WmweBa5JJ/wBtjHY46VZRrGgJmzGFh2TP/9k="
+/>
 
 **Bereits vor ein paar Stunden
 [titelte ich mit Jack White](//2014/04/22/jack-white-stellt-neuen-song-vor/).
