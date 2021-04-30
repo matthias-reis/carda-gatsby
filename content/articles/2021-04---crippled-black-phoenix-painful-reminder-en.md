@@ -14,8 +14,8 @@ excerpt: Crippled Black Phoenix have just released their new single "Painful
   Reminder". It is a cover version of the SNFU song and their first recording
   with their new singer and lyricist Joel Segerstedt, who is now a full member
   of the band.
-image: /img/bauernproteste-in-frankreich.jpg
-ogImage: /img/bauernproteste-in-frankreich.jpg
+image: /img/painful-reminder-cbp.jpg
+ogImage: /img/painful-reminder-cbp-fb.jpg
 labels:
   - Painful Reminder
   - Crippled Black Phoenix
