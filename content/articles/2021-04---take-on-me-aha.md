@@ -1,7 +1,7 @@
 ---
 templateKey: article
 date: 2021-04-25T16:00:00.000Z
-permalink: take-on-me-aha
+slug: take-on-me-aha
 typeName: Beitrag
 title: Musikalisches Blind Date
 subTitle: a-ha – "Take On Me"

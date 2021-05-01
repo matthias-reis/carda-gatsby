@@ -1,7 +1,7 @@
 ---
 templateKey: article
 date: 2021-04-24T10:10:00.000Z
-permalink: playlist-mai-2021
+slug: playlist-mai-2021
 typeName: Beitrag
 title: Musikliste für den Mai
 subTitle: 12 Songs für mehr Hoffnung
@@ -139,14 +139,13 @@ Matze:
 
 Matze:
 
-> "Und noch ein Cover. Dieses Mal stammt das Original von meiner
-> Lieblings-Postrock-Band Caspian. Die Interpretation erschuf die Cellistin, die
-> wir wohl am häufigsten im Vorprogramm unserer geliebten Post-Rock Bands
-> gesehen haben, zuletzt kurz bevor es mit COVID losging, vor Mono. Das Original
-> ist für mich das Highlight vom 2011 erschienen Caspian Album "Tertia". Das
-> Cover mit Cello hat wie erwartet einen komplett eigenen Stil und bringt eine
-> völlig neue Seite des ursprünglich recht harten und lauten Songs zum
-> Vorschein."
+> "Und noch ein Cover. Dieses Mal stammt das Original von meiner Lieblings
+> Post-Rock Band Caspian. Die Interpretation erschuf die Cellistin, die wir wohl
+> am häufigsten im Vorprogramm unserer geliebten Post-Rock Bands gesehen haben,
+> zuletzt kurz bevor es mit COVID losging, vor Mono. Das Original ist für mich
+> das Highlight vom 2011 erschienen Caspian Album "Tertia". Das Cover mit Cello
+> hat wie erwartet einen komplett eigenen Stil und bringt eine völlig neue Seite
+> des ursprünglich recht harten und lauten Songs zum Vorschein."
 
 <YouTube id="jLwXm2oICyc" />
 

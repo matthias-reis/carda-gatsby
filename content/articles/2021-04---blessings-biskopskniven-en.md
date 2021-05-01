@@ -1,17 +1,19 @@
 ---
 templateKey: article
 date: 2021-04-27T16:31:23.218Z
-permalink: blessings-biskopskniven-en
+slug: blessings-biskopskniven-en
 typeName: Beitrag
 title: '"Biskopskniven" By Blessings'
 subTitle: Post-Hardcore At Its Best
 seoTitle: '"Biskopskniven" By Blessings – Post-Hardcore At Its Best'
-description: Blessings are planning to release a new highlight from the
-  post-music corner on May 21st. The Ocean label Pelagic Records is responsible
-  for the new album "Biskopskniven".
-excerpt: Blessings are planning to release a new highlight from the post-music
-  corner on May 21st. The Ocean label Pelagic Records is responsible for the new
-  album "Biskopskniven". I have already had the chance to listen to it.
+description:
+  Blessings are planning to release a new highlight from the post-music corner
+  on May 21st. The Ocean label Pelagic Records is responsible for the new album
+  "Biskopskniven".
+excerpt:
+  Blessings are planning to release a new highlight from the post-music corner
+  on May 21st. The Ocean label Pelagic Records is responsible for the new album
+  "Biskopskniven". I have already had the chance to listen to it.
 image: /img/blessings.jpg
 ogImage: /img/blessings-fb.jpg
 labels:
@@ -36,6 +38,7 @@ affiliate: false
 language: en
 languageLink: blessings-biskopskniven
 ---
+
 ## "Biskopskniven" by Blessings – Post-Hardcore at its best
 
 **Blessings are planning to release a new highlight from the post-music corner
@@ -53,7 +56,8 @@ the record "Strings Of Read".
 
 ### "A Belly Full Of Stone"
 
-![Blessings – "Biskopskniven"](/img/blessings-biskopskniven-cover.jpeg 'Blessings – "Biskopskniven"' "Blessings – \"Biskopskniven\"")
+![Blessings – "Biskopskniven"](/img/blessings-biskopskniven-cover.jpeg
+'Blessings – "Biskopskniven"' "Blessings – \"Biskopskniven\"")
 
 The third song on "Biskopskniven" is already available, just like the sixth
 ("Iron Heel"). "A Belly Full Of Stone" starts with clattering noise effects and

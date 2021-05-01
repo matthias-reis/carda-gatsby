@@ -1,17 +1,19 @@
 ---
 templateKey: article
 date: 2021-04-27T16:16:36.963Z
-permalink: blessings-biskopskniven
+slug: blessings-biskopskniven
 typeName: Review
 title: '"Biskopskniven" von Blessings'
 subTitle: Post-Hardcore vom Feinsten
 seoTitle: '"Biskopskniven" von Blessings – Post-Hardcore vom Feinsten'
-description: '"Biskopskniven" von Blessings ist ein weiteres Album-Highlight für
-  das Jahr 2021. Ich habe mir die Platte schonmal angehört.'
-excerpt: '"Biskopskniven" von Blessings ist ein weiteres Album-Highlight für das
-  Jahr 2021. Die Platte erscheint am 21. Mai bei Pelagic Records und bietet
-  einige Überraschungen. Ich habe sie mir schon angehört und möchte sie Euch
-  hiermit ans Herz legen.'
+description:
+  '"Biskopskniven" von Blessings ist ein weiteres Album-Highlight für das Jahr
+  2021. Ich habe mir die Platte schonmal angehört.'
+excerpt:
+  '"Biskopskniven" von Blessings ist ein weiteres Album-Highlight für das Jahr
+  2021. Die Platte erscheint am 21. Mai bei Pelagic Records und bietet einige
+  Überraschungen. Ich habe sie mir schon angehört und möchte sie Euch hiermit
+  ans Herz legen.'
 image: /img/blessings.jpg
 ogImage: /img/blessings-fb.jpg
 labels:
@@ -36,6 +38,7 @@ affiliate: false
 language: de
 languageLink: /2021/04/blessings-biskopskniven-en
 ---
+
 **Von Blessings erscheint am 21. Mai ein neues musikalisches Highlight aus der
 Post-Music Ecke. Verantwortlich für das neue Album "Biskopskniven" ist das The
 Ocean Label Pelagic Records. Ich habe schon mal reingehört.**
@@ -52,7 +55,8 @@ der Platte.
 
 ## "A Belly Full Of Stone"
 
-![Blessings – "Biskopskniven"](/img/blessings-biskopskniven-cover.jpeg 'Blessings – "Biskopskniven"' "Blessings – \"Biskopskniven\"")
+![Blessings – "Biskopskniven"](/img/blessings-biskopskniven-cover.jpeg
+'Blessings – "Biskopskniven"' "Blessings – \"Biskopskniven\"")
 
 Den dritten Song auf "Biskopskniven" könnt Ihr Euch genau wie den sechsten
 ("Iron Heel") jetzt schon anhören. "A Belly Full Of Stone" beginnt mit
