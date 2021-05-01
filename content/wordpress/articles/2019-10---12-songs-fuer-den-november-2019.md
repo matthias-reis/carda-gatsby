@@ -7,10 +7,12 @@ typeName: Artikel
 title: 12 Songs für den November 2019
 seoTitle: 12 Songs für den November - präsentiert von den drei von der Bande
 ogTitle: 12 Songs für den November - präsentiert von den drei von der Bande
-description: Es ist soweit! Die heiß ersehnte Musikliste für den November ist
-  da! Der goldene Oktober hat gleich eine ganze Reihe Goldschätze mitgebracht.
-excerpt: Es ist soweit! Die heiß ersehnte Musikliste für den November ist da!
-  Der goldene Oktober hat gleich eine ganze Reihe Goldschätze mitgebracht.
+description:
+  Es ist soweit! Die heiß ersehnte Musikliste für den November ist da! Der
+  goldene Oktober hat gleich eine ganze Reihe Goldschätze mitgebracht.
+excerpt:
+  Es ist soweit! Die heiß ersehnte Musikliste für den November ist da! Der
+  goldene Oktober hat gleich eine ganze Reihe Goldschätze mitgebracht.
 fileName: 2019-10---12-songs-fuer-den-november-2019.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_10_12-songs-fuer-den-november-anne-bloggt-cardamonchai-rock-n-roll-vegan.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_10_12-songs-fuer-den-november-anne-bloggt-cardamonchai-rock-n-roll-vegan.png__l.jpg
@@ -54,7 +56,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Präsentiert von den drei von der Bande
-  
 ---
 
 **Es ist soweit! Die heiß ersehnte Musikliste für den November ist da! Der
@@ -221,20 +222,6 @@ könnte ein Plätzchen in der Dezember-Liste werden), Turbostaat, Boris, Bruce
 Soord, Ranges, Dominik Eulberg, Crippled Black Phoenix, Porcupine Tree, Pearl
 Jam, Boris, ...
 
-## iTunes Fans können unsere Liste für den November hier anhören
+## Unsere Playlists
 
-<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2019-10-25-die-drei-von-der-bande/pl.u-85PbsXeGBGJ?l=en" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
-
-## Spotify Anhänger\*innen werden hier glücklich
-
- <YouTube id="playlist/1mMeJKGqzImH7oKZzBj5Cu" />
-
-<RemoteImage
-alt={`12-songs-fuer-den-november-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin`}
-size="large" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_12-songs-fuer-den-november-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_12-songs-fuer-den-november-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,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"
-/>
-
-  
+<Playlist itunes="2019-10-25-die-drei-von-der-bande/pl.u-85PbsXeGBGJ?l=en" spotify="1mMeJKGqzImH7oKZzBj5Cu" />

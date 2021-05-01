@@ -37,5 +37,56 @@ subTitle: Duft und Remidemi
   
 ---
 
+Zwischen duftenden Blumen und singenden Vögeln wanderte der Besucherstrom durch
+die schöne Parkanlage im Herzen von Hamburg. Der Frühling zeigte sich in seiner
+ganzen Pracht. Auf der Strecke hatten schon alle Biergärten ihre Pforten
+geöffnet, es gab kleine Veranstaltungen am Wegesrand und natürlich jede Menge zu
+fotografieren.
+
+## **1. Mai 2016**
+
+Was habt Ihr am 1. Mai gemacht? Wart Ihr auch im Park? Oder sogar am
+[Meer](/2015/08/st-peter-ording/) ? Erzählt mal! Ich bin gespannt! :-)
+
+<Gallery name="flickr/anneplantenunblomen52016" />
+
+<blockquote>
+
+## Sehnsucht nach dem Frühlinge
+
+(Von Mozart vertonte Fassung)
+
+Komm, lieber Mai, und mache die Bäume wieder grün, und lass mir an dem Bache die
+kleinen Veilchen blüh’n! Wie möcht’ ich doch so gerne ein Veilchen wieder seh’n!
+Ach, lieber Mai, wie gerne einmal spazieren geh’n!
+
+Zwar Wintertage haben wohl auch der Freuden viel; man kann im Schnee eins traben
+und treibt manch’ Abendspiel; baut Häuserchen von Karten, spielt Blindekuh und
+Pfand, auch gibt’s wohl Schlittenfahrten aufs liebe freie Land.
+
+Doch wenn die Vögel singen, und wir dann froh und flink auf grünem Rasen
+springen, das ist ein ander Ding! Jetzt muss mein Steckenpferdchen dort in dem
+Winkel stehen, denn draußen in dem Gärtchen kann man vor Kot nicht geh’n.
+
+Am meisten aber dauert mich Lottchens Herzeleid. Das arme Mädchen lauert recht
+auf die Blumenzeit. Umsonst hol’ ich ihr Spielchen zum Zeitvertreib herbei: Sie
+sitzt in ihrem Stühlchen wie’s Hühnchen auf dem Ei.
+
+Ach, wenn’s doch erst gelinder und grüner draußen wär’! Komm, lieber Mai, wir
+Kinder, wir bitten gar zu sehr! O komm und bring’ vor allem uns viele Veilchen
+mit! Bring’ auch viel Nachtigallen und schöne Kuckucks mit
+
+</blockquote>
+
+## Wegweiser Planten un Blomen
+
+1.  [Planten un Blomen - Hamburgs grüner Fluss (Juni 2015)](/2015/06/planten-un-blomen/)
+    [](/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/)
+1.  [Ein Rundgang durch die Klimazonen (Januar 2016)](/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/)
+1.  [Blütenmeer im Winter (Januar 2016)](/2016/01/bluetenpracht-im-winter/)
+1.  [Möwen auf der Brücke (Januar 2016)](/2016/01/moewen-auf-der-bruecke/)
+1.  1. Mai bei Planten un Blomen (Mai 2016)
+1.  [Weihnachten bei Planten un Blomen (Dezember 2017)](/2017/12/weihnachten-bei-planten-un-blomen/)
+    [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
   

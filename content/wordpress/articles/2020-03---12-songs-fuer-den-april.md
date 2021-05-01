@@ -7,11 +7,12 @@ typeName: Artikel
 title: 12 Songs für den April
 seoTitle: 12 Songs für den April - frisch selektiert
 ogTitle: 12 Songs für den April - frisch selektiert
-description: Im Moment ist alles anders. Das soll uns aber nicht davon abhalten,
-  so viel wie möglich Musik zu konsumieren. Hier kommen unsere Platten des
-  Monats.
-excerpt: Im Moment ist alles anders. Das soll uns aber nicht davon abhalten, so
-  viel wie möglich Musik zu konsumieren. Hier kommen unsere Platten des Monats.
+description:
+  Im Moment ist alles anders. Das soll uns aber nicht davon abhalten, so viel
+  wie möglich Musik zu konsumieren. Hier kommen unsere Platten des Monats.
+excerpt:
+  Im Moment ist alles anders. Das soll uns aber nicht davon abhalten, so viel
+  wie möglich Musik zu konsumieren. Hier kommen unsere Platten des Monats.
 fileName: 2020-03---12-songs-fuer-den-april.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_12-Songs-Header-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_12-Songs-Header-1__l.jpg
@@ -52,7 +53,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Frisch selektiert von den drei von der Bande
-  
 ---
 
 **Im Moment ist alles anders. Das soll uns aber nicht davon abhalten, so viel
@@ -216,18 +216,6 @@ Video.
 
  <YouTube id="ByImn0s5uFA" />
 
-## Playlist in Spotify
+## Unsere Playlists
 
- <YouTube id="playlist/6zh7aRzSDgkPItgAl8dWy3" />
-
-## Playlist in iTunes
-
-<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-03-25-die-drei-von-der-bande/pl.u-kMmLUv3dBdD" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
-
-<RemoteImage alt={`playlist`} size="large" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_12-songs-pin.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_12-songs-pin.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAgCAYAAAD9oDOIAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAIBUlEQVRIiWWUe1CTZxbGv5nd2e52Znfa3e203XZbaS3eUYEol1gtIEhVlKtgBJRbCDEQwl1uCZcQDSIQAobAcE+4x1Za29rarlV3ulp3rXWpSiGi2O1lnG1tp5et/e18X0uHmf7xzHnPec95vvOe8yQC/I/E5EQe+OOfeeJJD65du4wYu+G+iteytcj95Hit9CYiMobwsK1s3PAcT3uuwFph5JS9n9F6C13qRBoCFlHv8zQHPe9HgO+JjolmvX8AJWWVzM3N8MMPXzHjvoYsIJRNm3cSGZtEnCKVTE0uvn7BZOmKODM4gMt4iPF6K4N6PYOGMsaaW+jW7kO4x9ekpacxNurEPTvNR5/OcefzT4BvcYw4idm9lzdOvUpA0FZyCorZm64mIT2bnupCjh804GpoZrSqjGMNVl6w9jBmbEDgh7t01ZThnmjm3seXuHHLDXzBF7enkW8Kx8fvOeIi9+D3bBgh4ZFs2BTOfY+vQrvqr9j9PGjauJyW0OV0pUQwkJfBkKkWoWjyY/a89A7at98l78J11O/cwHnrM0bem+Qvjy3j/gc9CA6PJD45nZDno0lOUeIVvBPNw49g/v2vqPiNQJkgUC4IlP1aoG7ZYwge5z5m1ZXveOLiNzx09g5PnbnN4+fvsOi1KRTJaag1OoLCopDJtxCfmEpswl7CdivRR/oynB9LpzqGLlUSbYpoDvmspOIP9yGc+ewOR20WTp56gben/kXe+Vv03rzLxIybiB3RpClVyDdv4dnQbWwI2876kFDiswopDVpER8gDWHaspLcgj8EaM0N19fQXF4jb/w6LKoGT+4K42WfA9U83u8uP8d9PZ1Cps1i0VM62IH/2xKxHpQik1RDDQ0v8MKVkMJAaxpHQRTRuWUxTkAfNoYuxblmC8NW9r2k8bGbAWEZnq5G616/zxJYyXBfeRx6ylSJTCe7r9dz96Czfzp7j9qkOQravotXUwER9I059Nc5yA726XDrSd2ON8UO4fOUi5upSrA3VnDw5TpT1TZ7cVsuRF/+GTLaOq9nBzLR4c+nqOSZv3uT69cvMKtZypq4SZ42J4aoaxswWRqpNDFebGKk1I4yfvURPfz+XT7uYnp1GVvcWKZ3nefniFRr3bQR/GXOKNOZmL3N7bpLPv5wlKzyS5qx8xqv1OGvqcDXZGT/YxGiVkcHyCoTcwjYCQhS0tbeh1hbgOvse33APvrzO3cwITh+2cfHUCc5fPsNbp17ixofvkHKgFF3Kfk6YjAwZzbgOtzHecJSh6lp6NMkIxYUNPPqIJ3J5IDKfddx2vyf99j/55Cq6rQF4yOT8buk6HvT04rePLePptf4sDgjGqC1mwliNs8rEsL6aoaoa+vLVdCmjESxH6ggMCCQzU0NERCST164gKuLSzBTJT3lyaMVSUtb40OCzAl9vf8rXrsbs8SgWbT6uKj3DpkaGDAa6NfvoVifiKMpB6K8pJMhvPaHhOwgJ3szUh/+WSKduTOG1xIuw1d5E+a4nw9cHmY+cFJk/USu8qMpIxVVegLPKKGlzoLiQgZIiHAfyEfp0aWzyXc2G50LYHLyZ23Mf8j3f8fWtSeJWLyPZdzXrVvgSsnItKu9VZMu9UQesoT55J87sOLq1GThKSxjWG3CUFDBYUY4wNdbJtpBNeMv8CQyQMzM9Kc30o9mrrHnSE4VsDfJd23heuYOt8WEEyfzwWuxFXWoCTk0MvfkaxmrNOIrzJIwYahC+dJ8naU88y1euITBwA9M/kbo/eJ/Ncl+SWrNQHTeimzCjOm4iuiWLiE0BHIl7nu4kLzqzkhmqqmOgJI/BikoJAtwlLWUfns8sJ8AvkFn3NeAe/3FfI7Y+nZ1dORx5pRPXhVdpe72PhP484ptyqA1+is6IP0n/+qP6WsYrKhkqymdAlJTYVWaGkqWeK3g2cCMz0x9IpBem3mVbi5K4VjWVxxoZ/McE9tNDRDZnEOPUUxH1DN3bn8FZlIejwoAlT0eHOpVWTSaCsr+MBGs2MU0qth9OI6kzn8QOHVEtKnZYlERbs4hr209mbxm5gzXstCiJsmWzy6IitknJrtYcIptVRLao2XNUS7wtHyG2bT+77Dmk95fSenqAyhebML9iR/9CM4df7ZBQOGKSbOn4YXrPjVMwbML0WgdtZ4Yxn+zk4Gt2UnpLiLPnoOjUISR15LHbpiXRnoftTQcHX7bRdLJbIrG83oNxopUyVwN5Q0bpbHvLgdZZTf2JdtrfdFB73Ir1jV4yug8Q35ZNYrsOQdGei4jd7VpiW/ez66hGenJEc7rkt7zRR/fZMUYvnKD/78fI6quQxpJgyyGmVc2uo9lEtmRKvsKei8KuQ9hj10mkCyHGxI/s7Syg3NUgdVoyaqbupTYMLzb/eG/T/tTMj/kLa4X5Q6JdJ9mFEInFbqKsWURZVdLyxB3M1yzEfL2iPRdBLFT2lJLtqGL/gB7NAvzsOwxoBgy/jC/wxXplb5nUiNRpgk1L/NEc4m050ll8mjgj0Ypf/zGeI3UhWhHxP93P54r1Yq1C7HThU+aXJUJ8sqiIA2P16AZrKR49RPVxC+WuI9KsxTGIeeJ4RLJ5DsVCUpEwuSNfWoRIIEpI1KVIWjBcR/5wnST+opGDkhW1K+ZVHGsko6dU6vYXpPNW3V/J/n69NB8xWZxVZm+55Kd2FaPqq0DVV056zwGyHQYJYufzo/qZdCGxqNO4No2kPxHz53gRtpyf46Iv3olYSCiS/h+/YpTFCmxQUgAAAABJRU5ErkJggg=="
-/>
-
-  
+ <Playlist spotify="6zh7aRzSDgkPItgAl8dWy3" itunes="2020-03-25-die-drei-von-der-bande/pl.u-kMmLUv3dBdD" />

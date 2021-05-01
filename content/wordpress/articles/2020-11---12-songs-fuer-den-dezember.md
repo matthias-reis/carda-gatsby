@@ -7,12 +7,12 @@ typeName: Artikel
 title: 12 Songs für den Dezember
 seoTitle: 12 Songs für den Dezember - Die neuen Lieblingsplatten
 ogTitle: 12 Songs für den Dezember - Die neuen Lieblingsplatten
-description: Es ist wieder ein Monat vorbei und wir kommen am besten gleich zum
-  Punkt. Ich habe Musik für Euch. Von Mogwai bis Vennart – ein Highlight jagt
-  das andere.
-excerpt: Es ist wieder ein Monat vorbei und wir kommen am besten gleich zum
-  Punkt. Ich habe Musik für Euch. Von Mogwai bis Vennart – ein Highlight jagt
-  das andere.
+description:
+  Es ist wieder ein Monat vorbei und wir kommen am besten gleich zum Punkt. Ich
+  habe Musik für Euch. Von Mogwai bis Vennart – ein Highlight jagt das andere.
+excerpt:
+  Es ist wieder ein Monat vorbei und wir kommen am besten gleich zum Punkt. Ich
+  habe Musik für Euch. Von Mogwai bis Vennart – ein Highlight jagt das andere.
 fileName: 2020-11---12-songs-fuer-den-dezember.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_12-songs-dezember__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_12-songs-dezember__l.jpg
@@ -50,7 +50,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Die neuen Lieblingsplatten
-  
 ---
 
 **Es ist wieder ein Monat vorbei und wir kommen am besten gleich zum Punkt. Ich
@@ -63,12 +62,6 @@ für (fast) jede⋆n wieder etwas dabei. Nehmt Euch also am besten ein paar Mome
 Zeit, setzt Euch die Kopfhörer auf und vergesst die Welt da draußen. Das darf
 man im Moment nämlich durchaus ab und zu mal machen. Das ist völlig legitim. Und
 mit guter Musik klappt das bekanntlich am besten.
-
-<RemoteImage alt={`musikliste`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_12-songs-pin-dezember__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_12-songs-pin-dezember__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcI/8QALRAAAQMCBQMDAgcAAAAAAAAAAQIDEQQFAAYSITEHEyIUQVFh0RUWFzJxofD/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQC/8QAJREAAQMCBAcBAAAAAAAAAAAAAQACERIhA0FRoQQUImGBscHR/9oADAMBAAIRAxEAPwCrevF0pae8IWsPMIQpxlLiZ0eadtvYCdsLVY9SVHTPMy7rl11i9KbQpFYK6G1JLifPtFXO/AEaf4w0Z7oXGclXhKrml4sl+W+3BUQoagdpHG5+vvOMhPok1VpfDhKQUuPmdWmHTOx+gSY++MNwzTM7Kp+Lh3bTcZzr4+pYzMmmTdSKJxhxnssiWR4yG0g+3MzP3wY6H61C0U+dALgoXd80rR9TTvM06SNyBpCCPeZk8jf4MK5jt6/UigaqOY79YUWq4p/J1iphoBW+KdR0gqHEkg4T6i55VqKBRZosuIWCgz6Xg6hGoAAxIggHicL/AEYqEfqVlyKWnWp+qDWh0w3Gkg88HggzscbJ1CQ9QUeZ2bup2rpKhlbi6PQlIYbQ60odpQAIBBUNRJ1T84cG3pOaAk9QtCx/qLcMu3JizOM2qjtlYGl99NuCEhf7YKkgEDcLI4MEAjYSYrLknLilJ/D7PXMiVFXcfKp+I8v9/WDFDeEDBSBuUXPc4y5wlf/Z"
-/>
 
 Da wir in großen Schritten auf das Jahresende zu tänzeln, wird die nächste
 Musikliste hier im Blog vermutlich schon die "Songs des Jahres Liste" sein.
@@ -269,12 +262,6 @@ den Link hören. Viel Freude mit dieser Perle! Hier kommt Matzes Aufmacher dazu:
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3576854752/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2340043017/transparent=true/" seamless="">﻿ [In The Dead, Dead Wood by Vennart](https://vennart.bandcamp.com/album/in-the-dead-dead-wood) </iframe>
 
-## Unsere Dezember-Liste bei Spotify
+## Unsere Playlists
 
- <YouTube id="playlist/5xdx9A1mosN2onTUgX4nnh" />
-
-## Unsere Dezember-Liste bei iTunes
-
-<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-11-25-rock-n-roll-vegan/pl.u-ooagu3ye8ea" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
-
-  
+ <Playlist spotify="5xdx9A1mosN2onTUgX4nnh" itunes="2020-11-25-rock-n-roll-vegan/pl.u-ooagu3ye8ea" />

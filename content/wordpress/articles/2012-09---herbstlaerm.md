@@ -61,7 +61,7 @@ labels:
   - neuer Laptop
   - Nicht zu viele Fotos verwenden
   - Radau
-  - Rock´n`Roll
+  - Rock'n'Roll
   - Schlafzimmer
   - Schlafzimmerfenster
   - schreiben

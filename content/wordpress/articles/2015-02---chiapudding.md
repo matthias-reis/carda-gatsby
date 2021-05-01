@@ -45,15 +45,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (35:25)"
+errors: {}
 subTitle: Grundrezept
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (35:25)
-
-<!--
 <RemoteImage alt={`Chiapudding mit Blaubeeren`} size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets/) Chiapudding mit Blaubeeren`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_img_3668__m.jpg"
@@ -79,9 +75,6 @@ Vegan-Onlinehandel, im Reformhaus und im gut sortierten Supermarkt.
 
 ## Zutaten (für 2 Portionen):
 
-<ul>
-    <li>
-
 <RemoteImage alt={`Chiasamen`} size="medium"
 title={`[ ](https://www.flickr.com/photos/99929697@N07/sets) Chiasamen`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_img_3673__m.jpg"
@@ -89,12 +82,11 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_img_3673__l
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACgQAAIBAwMDBAIDAAAAAAAAAAECAwQRIQAFEgYTMRQiQVEHYVJxgf/EABYBAQEBAAAAAAAAAAAAAAAAAAQDBf/EABsRAQACAgMAAAAAAAAAAAAAAAEAAhIhAwQR/9oADAMBAAIRAxEAPwCtbzWywRr2lJJa7twLKqjLDBwxGFPi5F8aW6iaoblIOauVDBhIxbw0Ya9ypIv/AB4lvse7WF1X1VQ0vUvo50jqzDAe+8CXqKIEo17sOBVrJi/K9tKm09WSVPWrTzbhDFtUyPR+nkQjjChujBrZYgq1z55W+tH5eTctQ81KhttcaiGVJHDvDxs4ueaEXRmNgvM2PILcA40aV+nuoKfdK+tp6AOXhjRHMs57slrnkIbntrdjn5x8AaNQteJpT0jDJQbfHUbhKlJAaqtstaT7jIALBWGcWHj/AHSq/SOxd5C0NQyJIZRE0lwSbecXIx9/J0qzfkHbaLdK2Rtp3GnqZT7jwjufHyHz41lVfX22VNQsklLVlwcs8YuLeLcT+zpVyrshwTTKpHttBR7jUbvFTduulpDSkphe2PA4+LiwH9aNT2k6+2pqRqZZqwXjMcavA2MWAvn9ZOjWf2MhMY/r4o5T/9k="
 />
 
-2 Tassen Chiasamen</li> <li>ca. 1/2 Liter Mandelmilch, Kokosmilch, Reismilch,
-kalter Kakao, Vanillemilch oder Fruchtsaft (je nach Gusto)</li> <li>Früchte,
-Schokolade oder anderer Süßkram</li> <li>Evtl. etwas Agavendicksaft oder
-Apfelsüße</li>
-
-</ul>
+- 2 Tassen Chiasamen
+- ca. 1/2 Liter Mandelmilch, Kokosmilch, Reismilch, kalter Kakao, Vanillemilch
+  oder Fruchtsaft (je nach Gusto)
+- Früchte, Schokolade oder anderer Süßkram
+- Evtl. etwas Agavendicksaft oder Apfelsüße
 
 Wie Ihr seht, sind meine Angaben hier sehr vage, ihr könnt die Zutaten wirklich
 ganz frei nach Eurem Geschmack wählen, wichtig sind nur die Chiasamen. Ihr könnt
@@ -127,12 +119,12 @@ geben. Ich esse am liebsten Blaubeeren dazu.
 
 Voilà: Fertig ist der Chiapudding! Lasst es Euch schmecken!
 
-Bis bald Anne &lt;3
+Bis bald
 
-<small> _Quellen: [Wikipedia](http://de.wikipedia.org/wiki/Mexikanische_Chia)  ,
+Anne &lt;3
+
+_Quellen: [Wikipedia](http://de.wikipedia.org/wiki/Mexikanische_Chia)  ,
 [CHIA SAMEN KAUFEN.de](http://www.chia-samen-kaufen.de/),  
-[chiasamen.info](http://www.chia-samen.info) _ </small>
-
--->
+[chiasamen.info](http://www.chia-samen.info) _
 
   

@@ -34,15 +34,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Unterminated JSX contents (71:16)"
+errors: {}
 subTitle: XINGU Age Perfect Toner
   
 ---
 
-## unknown: Unterminated JSX contents (71:16)
-
-<!--
 _Werbung\*_
 
 **Santaverde kennt Ihr ja von mir schon. Ich mag die milden Pflegeprodukte auf
@@ -104,8 +100,19 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAArEAACAQMDAgUDBQAAAAAAAAABAgMEBREAEiEGEyIxQXGBMmGRFBYjUrH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwEEBQb/xAAlEQABAwIEBwEAAAAAAAAAAAABAAIRAwQUQVHwEhMhIiMxgZH/2gAMAwEAAhEDEQA/AENo6Mrr1ZaeWmrqZE7hDR1G5jhT9DEDkeXuNVP7Ir99Nmst8dLAysQdwYnjw78eQ5AOM8459cnQ19p7VRVFPd2MDvN3YAgaTeu3xYOMcbQdUd5u9FeLYaO2zvIxYO7NTSLtA+kjcoB5wftgaqVGUwTxLYu6Fw64eGzE/APY/EoqOhqqVi9XVU0zh9yxZdI4wDwMAHdxnJPxqe6o6dlttueqqBSuocKzRu+7LHAAUjHzn010Oq6tsyJmtrBBMB/KrQS4VvXnbg8/fUb11e6G62mCntU/6l3mWUhUIBQBsNyPLdxoxAgjNNtMZiGh5dBPWZgrDZ7osarO67ikna27WO1fXaFHi9z+dPpp5JZAoaaWQeLvNtRAP68Hn8fOjRptVgLY1XQBvM7TvcId3WIyVlc0YRj4I5F7ZTjG/cPP20hvl0hWkaSCIVEZOMUwU/5o0aKm0FonJS7xyG6L/9k="
 />
 
-<ul>
-    <li>Aloe Vera Saft*
+- Aloe Vera Saft\*
+- Rosenblütenhydrolat\*
+- Weingeist\*
+- Cashew Saft\*
+- Maracujakrautextrakt\*
+- Orangenblütenhydrolat\*
+- Pflanzl. Hyaloronsäure
+- Ectoin
+- Weiderindenextrakt
+- Pflanzl. Levulinsäure
+- Pflanzl. Glycerin
+- Plans. Natriumlevulinat
+- Lavendelöl\*
 
 \*Aus kontrolliert biologischem Anbau
 
@@ -122,7 +129,5 @@ EU-Biosiegel. Wer mehr über Santaverde erfahren möchte, liest am besten mal
 - _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
   dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
   findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
-
--->
 
   

@@ -7,19 +7,21 @@ typeName: Artikel
 title: Die Post ist da!
 seoTitle: Die Post ist da - Mixtape-Tausch Teil 2/2
 ogTitle: Die Post ist da - Mixtape-Tausch Teil 2/2
-description: Die meisten Bands kannte ich noch nicht, also eine wunderbare
-  Möglichkeit für mich neue Musik kennen zu lernen und meinen musikalischen
-  Horizont zu erweitern.
-excerpt: Die meisten Bands kannte ich noch nicht, also eine wunderbare
-  Möglichkeit für mich neue Musik kennen zu lernen und meinen musikalischen
-  Horizont zu erweitern.
+description:
+  Die meisten Bands kannte ich noch nicht, also eine wunderbare Möglichkeit für
+  mich neue Musik kennen zu lernen und meinen musikalischen Horizont zu
+  erweitern.
+excerpt:
+  Die meisten Bands kannte ich noch nicht, also eine wunderbare Möglichkeit für
+  mich neue Musik kennen zu lernen und meinen musikalischen Horizont zu
+  erweitern.
 fileName: 2011-08---die-post-ist-da.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_10__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_10__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcI/8QAKBAAAgEEAAYCAQUAAAAAAAAAAQIDAAQFEQYSEyExURRBMiJhYnKB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQQAAgMF/8QAIBEAAgICAAcAAAAAAAAAAAAAAAECERIhAxMxQYGx8P/aAAwDAQACEQMRAD8A56sYYjDG8sYZXdkLnyp+qcuFstLhbqBldxZR87vGjlUJK6/Het+O9KmGZfikMGJ2SfXnt/tWE3UWC4WccnTXmBJ/JaXdt0dSCiuC97a+XmvaseMNnMxc4+O/kyIV764kgjhnVemESMyHRHffMVUD78VfcKXd9lseDHDE9xbGMPzMArhgWBBPg71sVRQ/GsLW1s52UXFphldFZOZutcSguw9Mqug99+1OfB+NxknClqoDoXZ5C6uqOdO4Gz/X37+qkpYoSUXJ0YRYTJbY6MCIM5DNzE/yIqCTIPcr0XRe/wCgN9gHtRRWmK6h5s6xvQ5ZbJXS3c8N2YpWmuflStGhjDERhEXWzpV1sCtxx9okcEUKFlSJFQaJ8Aa9/tRRQaKx7n//2Q==
 ogImage: null
 labels:
-  - "2011"
+  - '2011'
   - Bands
   - Beastie Boys
   - Beulah
@@ -69,7 +71,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Der Mixtape-Tausch Teil 2/2
-  
 ---
 
 ** [...Teil 1](/2011/08/der-mixtape-tausch/) Erstmal ein ganz großes Dankeschön
@@ -169,9 +170,9 @@ Mixtape-Zeit!
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_16__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_15__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_15__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_14__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_14__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_13__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_13__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_12__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_12__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_11__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_11__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_10__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_10__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_8__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_8__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_5__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_5__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_3__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_1__l.jpg"}]}
 />
 
-## Die Musik:
+## Die Musik
 
-### Seite A: \_\_
+### Seite A
 
 ####  1.) Yo La Tengo - "The Story Of Yo La Tengo"
 
@@ -242,7 +243,7 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_0
 
  <YouTube id="8VIJXD4x89s" />
 
-### Die Gescheiterten:
+### Die Gescheiterten
 
 #### 18.) The Beasty Boys - "I Don´t Know"
 
@@ -265,8 +266,9 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_0
 
 #### 23.) Yo La Tengo - "Deeper Into Movies"
 
-<h5> <YouTube id="T-3NhI6VOuo" /> 
-24.) The Pains Of Being Pure At Heart - "Young Adult Friction"</h5>
+<YouTube id="T-3NhI6VOuo" />
+
+#### 24.) The Pains Of Being Pure At Heart - "Young Adult Friction"
 
  <YouTube id="01ui9GR84OU" />
 
@@ -277,5 +279,3 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_0
 #### 26.) Prefab Sprout - "Bonny"
 
  <YouTube id="L3Rh2hnDtAg" />
-
-  

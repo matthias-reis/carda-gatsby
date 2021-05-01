@@ -63,7 +63,7 @@ mit seiner Akustik-Gitarre zwischen den Fans. Danach betrat er die Bühne und
 lieferte ein beeindruckendes Set, nur mit seiner Gitarre, seinem verbeulten
 Macbook und eine Loopmachine ausgestattet. Als seine Gitarre bei einer kleinen
 Bodypercussion-Einlage einen Riss bekam, trug er es mit Humor 'Schließlich ist
-es immer noch irgendwie Rock´n`Roll', lachte er.
+es immer noch irgendwie Rock'n'Roll', lachte er.
 
 <RemoteImage alt={`Charlie Barnes`} size="medium"
 title={`[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4525.jpg) Charlie Barnes`}

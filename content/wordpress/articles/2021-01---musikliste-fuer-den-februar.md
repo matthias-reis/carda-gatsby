@@ -7,10 +7,12 @@ typeName: Artikel
 title: Musikliste für den Februar
 seoTitle: Musikliste für den Februar – 12 Songs von Post-Rock bis Pop
 ogTitle: Musikliste für den Februar – 12 Songs von Post-Rock bis Pop
-description: Wir haben in den letzten vier Wochen wieder wild in allen Genres
-  geplündert und eine ziemlich geniale Musikliste für Euch zusammengestellt.
-excerpt: Wir haben in den letzten vier Wochen wieder wild in allen Genres
-  geplündert und eine ziemlich geniale Musikliste für Euch zusammengestellt.
+description:
+  Wir haben in den letzten vier Wochen wieder wild in allen Genres geplündert
+  und eine ziemlich geniale Musikliste für Euch zusammengestellt.
+excerpt:
+  Wir haben in den letzten vier Wochen wieder wild in allen Genres geplündert
+  und eine ziemlich geniale Musikliste für Euch zusammengestellt.
 fileName: 2021-01---musikliste-fuer-den-februar.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_12-songs-februar-blog__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_12-songs-februar-blog__l.jpg
@@ -52,7 +54,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: 12 Songs von Post-Rock bis Pop
-  
 ---
 
 **Wir haben in den letzten vier Wochen wieder wild in allen Genres geplündert
@@ -265,12 +266,6 @@ Und hier noch einer von Matze:
 
  <YouTube id="ExmWm3wk4Nk" />
 
-## Die Februar-Musikliste bei Spotify
+## Die Februar-Musikliste als Playlist
 
- <YouTube id="playlist/24x1S6k7BlrBHP1jw98qqi" />
-
-## Die Februar-Musikliste bei iTunes
-
-<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2021-01-25-rock-n-roll-vegan/pl.u-oo8et3ye8ea" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
-
-  
+ <Playlist spotify="24x1S6k7BlrBHP1jw98qqi" itunes="2021-01-25-rock-n-roll-vegan/pl.u-oo8et3ye8ea" />

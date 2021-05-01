@@ -37,15 +37,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (106:0)"
+errors: {}
 subTitle: Vegane Schokolade aus Hamburg
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;li> (106:0)
-
-<!--
 _Werbung\*_
 
 **Christina Löbel stellt unter dem Namen Choclate in Hamburg vegane
@@ -154,19 +150,8 @@ Kaufen kann man sie auf dem Foodmarket "Marktzeit" in der Fabrik in Hamburg
 Altona. Weitere Infos findet Ihr auf
 [Christinas Homepage](http://www.choclate.online).
 
-<section id="aboutus">
-<div id="content" class="container">
-<div class="row">
-<div class="col-xs-12 col-sm-8 col-sm-offset-2">
-<div id="c12">
-<div class="ce-textpic ce-right ce-intext">
-<div class="ce-bodytext">
-
 - _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
   dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
   findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
-  </div></div></div></div></div></div></section>
-
--->
 
   

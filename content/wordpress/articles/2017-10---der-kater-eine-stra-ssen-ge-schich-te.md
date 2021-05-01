@@ -135,18 +135,18 @@ weich geworden und nicht mehr so staubig, wie damals. Flöhe habe ich auch schon
 lange keine mehr. Und auch keine Bauchschmerzen. Ich bin dankbar für diesen
 Platz. Keiner kann ihn mir mehr wegnehmen.
 
-<RemoteImage alt={`Kater`} size="full" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_Gran-Canaria-514__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_Gran-Canaria-514__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QALBAAAQMDAwIFAwUAAAAAAAAAAQIDBAUGEQASIQcxEyJRYYEyQXEjQmKRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABoRAQADAQEBAAAAAAAAAAAAAAEAAiERAyL/2gAMAwEAAhEDEQA/AKHo5AoLNSferQeaiMrL0dL8ZAKju4A2EqwBgkHv6+rz1C6kSrVmtIplNpVVjyk+PFecDrCmxkgpcT9yD2Ixka5LHetNMRK6mp0zB5ghKcNd+2eSVfGNLXViuW1cDlNbt2I7EdQt1CnnEKQ0scYKdwGQFZOR+PvpfMpXpJrZXkloN0XfddTdWnwH3H6ctKoTTTYZ2heCQk5O7nJySTn0Gkq47Pq9KK3amw7GbydoU0Ve+cjjv/mnjpLDlOX/AE+Ay4mMpECSsuKb3q+kDkZ+kHt/fOnG9qfd0RtwzZsmZDSSrxWVFxtP5R3SPjGq8gsbD0UcmPUyrKSBjATj9o1a1VMSqtQ5zaVLdiLxKYwVktqSUlbff1GR7aNGru/PIVN7F6wa3Ot6rMz1KdE1Cf1XF586cjCOfYDj21s1bv8AfmRkTqJJQo7cuxHjjP8AJBHI+NGjRUyZdn//2Q=="
-/>
-
 Manchmal gehe ich runter an die Strandpromenade. Wenn ich dort ein paar junge
 Kätzchen sehe, dann lade ich sie zum Mitessen ein. Der Koch scheint nichts
 dagegen zu haben. Jagen kann ich bis heute nicht. Dafür teile ich mir meinen
 Schlafplatz im Schuppen mit ein paar echt netten Mäusen. Wenn sie nachts frieren
 rollen wir uns manchmal zusammen auf der Decke, die der Koch dort für mich
 ausgebreitet hat, ein. Und erzählen uns unsere Geschichten von der Straße.
+
+<RemoteImage alt={`Kater`} size="full" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_Gran-Canaria-514__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_Gran-Canaria-514__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QALBAAAQMDAwIFAwUAAAAAAAAAAQIDBAUGEQASIQcxEyJRYYEyQXEjQmKRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABoRAQADAQEBAAAAAAAAAAAAAAEAAiERAyL/2gAMAwEAAhEDEQA/AKHo5AoLNSferQeaiMrL0dL8ZAKju4A2EqwBgkHv6+rz1C6kSrVmtIplNpVVjyk+PFecDrCmxkgpcT9yD2Ixka5LHetNMRK6mp0zB5ghKcNd+2eSVfGNLXViuW1cDlNbt2I7EdQt1CnnEKQ0scYKdwGQFZOR+PvpfMpXpJrZXkloN0XfddTdWnwH3H6ctKoTTTYZ2heCQk5O7nJySTn0Gkq47Pq9KK3amw7GbydoU0Ve+cjjv/mnjpLDlOX/AE+Ay4mMpECSsuKb3q+kDkZ+kHt/fOnG9qfd0RtwzZsmZDSSrxWVFxtP5R3SPjGq8gsbD0UcmPUyrKSBjATj9o1a1VMSqtQ5zaVLdiLxKYwVktqSUlbff1GR7aNGru/PIVN7F6wa3Ot6rMz1KdE1Cf1XF586cjCOfYDj21s1bv8AfmRkTqJJQo7cuxHjjP8AJBHI+NGjRUyZdn//2Q=="
+/>
 
 Mein Interview mit Lani vom Katzentempel Hamburg
 [könnt Ihr hier lesen](/2017/08/katzentempel-hamburg-interview/).

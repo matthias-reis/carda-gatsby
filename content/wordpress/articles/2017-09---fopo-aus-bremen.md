@@ -42,15 +42,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <sub> (44:121)"
+errors: {}
 subTitle: Trockenfrüchte fürs Klima
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;sub> (44:121)
-
-<!--
 Werbung\*
 
 **Die Gründer von _FoPo_ haben es sich zur Aufgabe gemacht, aussortierte Früchte
@@ -95,8 +91,8 @@ unvorstellbaren Fakten, dass
   könnten, wenn wir nur ein Viertel der verschwendeten Lebensmittel retten
   würden.
 
-Mit jeder Packung eines _FoPo_ Produkts wird die Emission von 265 Gramm CO<sub>2
-</sub> verhindert. 20 Liter Wasser spart es obendrein.
+Mit jeder Packung eines _FoPo_ Produkts wird die Emission von 265 Gramm
+CO<sub>2</sub> verhindert. 20 Liter Wasser spart es obendrein.
 
 ## FoPo im Test
 
@@ -149,7 +145,5 @@ _\*Hinweis: Dieser Artikel enthält Werbung und entstand im Zusammenhang mit
 Trusted Blogs. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst.
 [Für Infos dazu bitte hier klicken](https://www.trusted-blogs.com/tipps/werbekennzeichnung).
 _
-
--->
 
   

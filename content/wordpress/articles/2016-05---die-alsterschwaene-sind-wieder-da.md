@@ -32,5 +32,20 @@ subTitle: Pas de trois am Schwanensee
   
 ---
 
+Mitte April ließ sich der Frühling endgültig nicht mehr verleugnen. Denn: Die
+Alterschwäne sind wieder aufgetaucht! Für mich haben sie einen schönen Pas de
+trois auf dem noch kühlen Alsterwasser hingelegt.
+
+## Alsterschwäne - ein Wahrzeichen der Stadt Hamburg
+
+Die Alsterschwäne gehören zu Hamburg einfach dazu. Genau wie die Reeperbahn und
+der [FC St. Pauli](/2016/05/millerntor-stadion-hamburg/). Sie sind ein
+lebendiges Wahrzeichen, das aus der Hansestadt nicht wegzudenken ist.
+
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26254644900_e42d8ebc87_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26254644900_e42d8ebc87_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26524152455_733d96939e_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26524152455_733d96939e_z__l.jpg"}]}
+/>
+
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
   

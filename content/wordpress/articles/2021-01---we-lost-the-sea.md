@@ -33,15 +33,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: 'unknown: Unexpected token, expected "}" (184:23)'
+errors: {}
 subTitle: '"Post-Rock löst Grenzen auf"'
   
 ---
 
-## unknown: Unexpected token, expected "}" (184:23)
-
-<!--
 [🇬🇧 Click here for English version](#⋆)
 
 **Zum Start in 2021 habe ich eine ganz besondere Sensation vorbereitet. Vor
@@ -259,10 +255,9 @@ wieder lügen oder es verheimlichen, bis er es auf die Bühne geschafft hatte.
 
 ### Deine Leser⋆innen finden die beiden Bands hier:
 
-<style> .hbox { display: block;} @media (min-width: 700px) { .hbox {display: flex;}  }</style>
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=1568356024/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" frameborder="0" seamless="" data-mce-fragment="1">
 
-<div class="hbox"><iframe src="https://bandcamp.com/EmbeddedPlayer/album=1568356024/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" frameborder="0" seamless="" data-mce-fragment="1"></iframe>
-<iframe src="https://bandcamp.com/EmbeddedPlayer/album=136794291/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" frameborder="0" seamless="" data-mce-fragment="1"></iframe></div>
+</iframe><iframe src="https://bandcamp.com/EmbeddedPlayer/album=136794291/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" frameborder="0" seamless="" data-mce-fragment="1"></iframe>
 
 **Anne:** Euer letztes Album "Triumph and Disaster" von 2019 ist eine der besten
 Platten, die ich jemals gehört habe. Jedes Mal, wenn ich sie auf den
@@ -567,8 +562,9 @@ on stage because he was underage.
 
 ### Check both out here:
 
-<div class="hbox"><iframe src="https://bandcamp.com/EmbeddedPlayer/album=1568356024/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" frameborder="0" seamless="" data-mce-fragment="1"></iframe>
-<iframe src="https://bandcamp.com/EmbeddedPlayer/album=136794291/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" frameborder="0" seamless="" data-mce-fragment="1"></iframe></div>
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=1568356024/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" frameborder="0" seamless="" data-mce-fragment="1"></iframe>
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=136794291/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" frameborder="0" seamless="" data-mce-fragment="1"></iframe>
 
 **Anne:** Your latest album "Triumph and Disaster" from 2019 is one of the best
 records I've ever listened to. Every time I put it on the record player, I
@@ -663,7 +659,5 @@ and focus on writing and recording a new album.
 ## We Lost The Sea At Dunk!festival 2017
 
  <YouTube id="QyHhEJG9oZE" />
-
--->
 
   

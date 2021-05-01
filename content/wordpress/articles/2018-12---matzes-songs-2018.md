@@ -7,10 +7,12 @@ typeName: Artikel
 title: Matzes Songs 2018
 seoTitle: Matzes Songs 2018 - präsentiert von den drei von der Bande
 ogTitle: Matzes Songs 2018 - präsentiert von den drei von der Bande
-description: Musikalisch hatte es 2018 definitiv in sich. Insgesamt hat Matze 30
-  Songs zusammengestellt. Seine Songs 2018 könnt Ihr hier direkt anhören.
-excerpt: Musikalisch hatte es 2018 definitiv in sich. Insgesamt hat Matze 30
-  Songs zusammengestellt. Seine Songs 2018 könnt Ihr hier direkt anhören.
+description:
+  Musikalisch hatte es 2018 definitiv in sich. Insgesamt hat Matze 30 Songs
+  zusammengestellt. Seine Songs 2018 könnt Ihr hier direkt anhören.
+excerpt:
+  Musikalisch hatte es 2018 definitiv in sich. Insgesamt hat Matze 30 Songs
+  zusammengestellt. Seine Songs 2018 könnt Ihr hier direkt anhören.
 fileName: 2018-12---matzes-songs-2018.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_matze__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_matze__l.jpg
@@ -37,7 +39,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Präsentiert von den drei von der Bande
-  
 ---
 
 **Da war ganz schön was los musikalisch die letzten 365 Tage, oder? Einige
@@ -85,12 +86,6 @@ Meine Favoriten von Matzes Liste sind (außer den beiden bereits genannten)
 1.  "Why Walk A Dog" - Jack White vom Album "Boarding House Reach"
     <YouTube id="K5rtIRHnRSI" />
 
-Für iTunes bitte hier entlang:
+### Hier geht's zu den Playlists:
 
-<iframe style="width: 100%; max-width: 300px !important; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2018-matze-top-30/pl.u-gpp7t8RXNXl" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
-
-Wer Spotify bevorzugt, wählt diesen Player:
-
- <YouTube id="user/1121766356/playlist/6GZefsDQf2SqdN1hord5ME" />
-
-  
+<Playlist itunes="w2018-matze-top-30/pl.u-gpp7t8RXNXl" spotify="6GZefsDQf2SqdN1hord5ME" />

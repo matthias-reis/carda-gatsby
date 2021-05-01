@@ -39,15 +39,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (63:96)"
+errors: {}
 subTitle: Zwei Portemonnaie-Unikate zu gewinnen
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (63:96)
-
-<!--
 _Werbung\*_
 
 <hr />
@@ -117,7 +113,7 @@ entscheidet. Am Tag der Liebe erwartet Euch also vielleicht eine schöne
 
 [Hier geht es zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/)
 
-<div id="1">
+<div id="1"></div>
 
 [1]
 [Homepage Feuerwear](https://www.feuerwear.de/unsere-aktionen/valentins-edition)
@@ -125,8 +121,6 @@ entscheidet. Am Tag der Liebe erwartet Euch also vielleicht eine schöne
 _\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos zur
 Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht
 beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner  [Transparenz-Seite](/werbung/). _ </div>
-
--->
+meiner  [Transparenz-Seite](/werbung/). _
 
   

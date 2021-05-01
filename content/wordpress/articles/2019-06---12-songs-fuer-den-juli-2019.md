@@ -68,7 +68,113 @@ Euch viel Spaß beim Hören.
 
 ## Die Liste
 
-1.  ## Radiohead - "Karma Police" vom Album "OK Computer" (1997) Dass Radiohead für mich die Helden der Stunde sind, [habe ich Euch ja schon erzählt](/2019/06/der-radiohead-hack/). "Karma Police" vom legendären, 1997 erschienenen Album "OK Computer" hat mich nachhaltig geprägt. Das Stück muss diesen Monat einfach an erster Stelle stehen. <YouTube id="H8upWdou25c" />
+## Radiohead - "Karma Police" vom Album "OK Computer" (1997)
+
+Dass Radiohead für mich die Helden der Stunde sind,
+[habe ich Euch ja schon erzählt](/2019/06/der-radiohead-hack/). "Karma Police"
+vom legendären, 1997 erschienenen Album "OK Computer" hat mich nachhaltig
+geprägt. Das Stück muss diesen Monat einfach an erster Stelle stehen.
+
+ <YouTube id="1uYWYWPc9HU" />
+
+## Deftones Cover von Brass Against feat. ft. Sophia Urista "My Own Summer (Shove It)" (2019)
+
+Valentin und ich haben vieles gemeinsam. Dazu gehört,
+[dass wir die Deftones lieben](/2013/04/nachruf-deftones-grunder-chi-cheng-ist-tot/).
+Die Musikgenies von Brass Against haben jetzt auch ihre Musik gecovert und
+gemeinsam mit Sängerin Sophia Urista "My Own Summer (Shove It)" aufgenommen.
+Herausgekommen ist mal wieder ein wahres Kunstwerk.
+
+ <YouTube id="PFpY6atlyf8" />
+
+## Matze Smashing Pumpkins - "Window Paine" vom Album "Gish" (1991)
+
+"Das Smashing Pumpkins Konzert bei Rock am Ring hat mich sehr positiv
+überrascht. Die Stimmung war einfach grandios und Billy Corgan richtig gut
+drauf. Ein bisschen schade fand ich nur, dass sie "Window Paine" nicht gespielt
+haben", meint Matze. Wir holen das jetzt einfach nach.
+
+ <YouTube id="Zu2N6aOW2W0" />
+
+## Feine Sahne Fischfilet "Komplett im Arsch" vom Album "Scheitern und Verstehen" (2012)
+
+Die Stimme einer Generation ruft "Ich kann immer noch nicht singen und spiel
+jetzt bei Rock am Ring". Genau dort hat uns Jan "Monchi" Gorkow mit seiner Band
+Feine Sahne Fischfilet mal wieder schwerstens beeindruckt. Wir freuen uns schon
+aufs Konzert im Dezember und hören solange alle Songs hoch und runter. Besonders
+diesen hier.
+
+ <YouTube id="3-Oe1XzxCw8" />
+
+## Slash feat. Myles Kennedy &amp; The Conspirators - "Anastasia" vom Album Apocalyptic Love (2012)
+
+Auch der werte Herr Slash war bei Rock am Ring zugegen und lieferte gemeinsam
+mit Myles Kennedy (Alter Bridge) ordentlich ab. Valentin fand das Konzert mehr
+als nur klasse und hat daher diesen Song zu unserer Liste hinzugefügt.
+
+ <YouTube id="bC8EmPA6H6g" />
+
+## Pelican - "Cold Hope" vom brandneuen Album "Nighttime Stories" (2019)
+
+Wir alle konnten es kaum erwarten, endlich diese Platte komplett hören zu
+können. Nun ist es endlich soweit. Matze findet, dass "Cold Hope" besonders
+hervorsticht.
+
+ <YouTube id="zkGvxPqKxU8" />
+
+## Alice In Chains - "Would" vom Album "Dirt" (1992)
+
+Die 1990er. Ein Jahrzehnt der Musiktalente und Tragödien. Zu Tränen gebannt
+standen die Fans beim RAR Konzert von Alice In Chains an der Bande und konnten
+ihren Ohren kaum trauen, was ihnen da geboten wurde. Zum Glück waren wir ganz
+vorne mit dabei. Ein Konzert, das wir niemals vergessen werden.
+
+ <YouTube id="Nco_kh8xJDs" />
+
+## Baroness - "Throw Me An Anchor" vom Album "Gold &amp; Grey" (2019)
+
+Dieses Album will mich nicht mehr loslassen. Seine Vielschichtigkeit beeindruckt
+mich sehr. In "Throw Me An Anchor" kommt sie besonders gut zur Geltung.
+
+ <YouTube id="KcWFiTJ23Vo" />
+
+## Zeal &amp; Ardor - "Gravedigger’s Chant" vom Album "Stranger Fruit" (2018)
+
+Bei diesem Projekt handelt es sich um eine Neuentdeckung von Matze. Wir werden
+Zeal &amp; Ardor
+[auf dem ArcTanGent Festival bei Bristol](/2019/05/arctangent-festival-2019/)
+sehen. Nachdem wir uns das aktuelle Album "Stranger Fruit", von dem auch
+"Gravediggers Chant" stammt, angehört haben, sind wir mehr als gespannt auf den
+Auftritt des Amerikaschweizers Manuel Gagneux und seiner Band. Geprägt wurde ihr
+Stil von Black Metal und Gospel.
+
+ <YouTube id="ARM8cD8Xyno" />
+
+## Tool - "Vicarious" vom Album "10,000 Days" (2006)
+
+Dass Tool diesen Monat nicht fehlen dürfen ist klar. Sie haben es nicht nur
+geschafft, bei Rock am Ring alle an die Wand zu spielen - sie haben sogar neue
+Musik vorgestellt! Das komplette Album bekommen wir dann im August zu hören. Wir
+sind gespannt wie drei Flitzebogen!
+
+ <YouTube id="Mq1Qb2rGQEs" />
+
+## Sigur Rós - "Ágætis byrjun" (Jubiläumsedition 2019)
+
+Sigur Rós feiern diesen Monat das 20-jährige Jubiläum der Platte "Ágætis
+byrjun" - was hat sie uns damals verzaubert und das tut sie heute auch noch. Da
+soll erstmal eine Band kommen und versuchen, das nachzumachen.
+
+ <YouTube id="Hrq7ffdV1ro" />
+
+## Plastic Mermaids - "10.000 Violins Playing In An Otherwise Empty Head" vom Album "Suddenly Everyone Explodes"
+
+Was für ein unglaublich kreatives Album! Plastic Mermaids sind eine waschechte
+[Isle Of Wight](/2012/07/isle-of-wight-festival-2012/) Band - Beatles Gefühl
+inklusive. [Ihre Webseite](https://www.plasticmermaids.com) ist auch einen
+Besuch wert. So wunderbar bunt!
+
+ <YouTube id="H8upWdou25c" />
 
 Das wars für diesen Monat. Wir hoffen, dass wir Euch ein bisschen inspirieren
 konnten. Wir hören uns dann im Juli wieder.

@@ -7,10 +7,11 @@ typeName: Artikel
 title: 12 Songs für den August
 seoTitle: 12 Songs für den August - Die Sommer-Musikliste 2020
 ogTitle: 12 Songs für den August - Die Sommer-Musikliste 2020
-description: Der Sommer ist da und mit ihm eine Tonne neuer Singles, Alben, EPs
-  und Vorauskopplungen, die Lust auf mehr machen. Hier kommt die
-  Sommer-Musikliste
-excerpt: Der Sommer ist da und mit ihm eine Tonne neuer Singles, Alben, EPs und
+description:
+  Der Sommer ist da und mit ihm eine Tonne neuer Singles, Alben, EPs und
+  Vorauskopplungen, die Lust auf mehr machen. Hier kommt die Sommer-Musikliste
+excerpt:
+  Der Sommer ist da und mit ihm eine Tonne neuer Singles, Alben, EPs und
   Vorauskopplungen, die Lust auf mehr machen. Hier kommt die Sommer-Musikliste
 fileName: 2020-07---12-songs-fuer-den-august.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_12-songs-fuer-den-august__m.jpg
@@ -50,18 +51,11 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Die Sommer-Musikliste 2020
-  
 ---
 
 **Der Sommer ist da und mit ihm eine Tonne neuer Singles, Alben, EPs und
 Vorauskopplungen, die Lust auf mehr machen. Valentin, Matze und ich haben wieder
 eine Liste für Euch zusammengestellt.**
-
-<RemoteImage alt={`Sommer-Musikliste`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_12-songs-sommer-songs-august__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_12-songs-sommer-songs-august__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAgj/xAAqEAACAQMEAAUEAwEAAAAAAAABAgMEBREABhIhBxMUMUEiMmGhJDNRgf/EABgBAQADAQAAAAAAAAAAAAAAAAUBAgME/8QAJxEAAQIEBQMFAAAAAAAAAAAAAgABAwQRIQUSMWHhInGhQVGBkdH/2gAMAwEAAhEDEQA/AMbn28bTsLcS+eJKCnpGWmRWYkAup5Oflv13qW+HZjbfNs4NwOZyCx6GKeUj9410tu2eOq2J6msWpQVtvmgd6KYtSU0HNXV5EfgQxCqOXEkEsM4OdRXcFLSDaV69IxWZFVkHqEIn4uoHQc8u8tjH+6uEu5Q3Ny0/FE5iVZgBy+3rv2VXqvEKXyFlakreUkrnM00sIIKo4K4Ha5c4GBgY/wCGpRs3bl9v9bcavatuhq6UpD5gkq0gETnnlPtAJznOPjH40aMFzoyWOODk/RT5SpsBds1V8qKO8G3eQn8yleOEmN1EhaSOQsBJkR8uIHeVHvkZfNoV+2NuUy3e2NUJWiKSWikmVRF5vKZY3k5fUSFIyFKj2z76tn99CWtVbBNc8MIYTx4iQo4Qn8cgv4986T4Y6qLZe9lne7iJSqILkjh3+0s2WJ75HBAAHXXR1pCzTJi+l++v0j3Bob1K/jfhP3hpe7fbbBR22oqiiLRwVkImMakJKXwMIAB2hPyfq99GoHcaOlpaaimpq2Koaoj5yRCJlaBvlWPYPecY0afDC7WPxyueJMsZOTjrvwv/2Q=="
-/>
 
 Mit dabei sind dieses Mal fast nur neue Stücke plus ein paar Klassiker mit
 aktuellem Bezug, die wir auf keinen Fall auslassen konnten. Wir wünschen Euch
@@ -244,12 +238,6 @@ Angels" von 2016 Dylans erstes eigenes musikalisches Werk nach
 
  <YouTube id="3NbQkyvbw18" />
 
-## Unsere Sommer-Musikliste bei Spotify
+## Unsere Playlists
 
- <YouTube id="playlist/2L92zUytDoMdfqaRxGHX9S" />
-
-## Unsere Sommer-Musikliste bei iTunes
-
-<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-07-25-die-drei-von-der-bande/pl.u-xo7YtA70b0v" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
-
-  
+ <Playlist spotify="2L92zUytDoMdfqaRxGHX9S" itunes="2020-07-25-die-drei-von-der-bande/pl.u-xo7YtA70b0v" />

@@ -41,15 +41,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Unterminated JSX contents (89:16)"
+errors: {}
 subTitle: Ein magischer Moment
   
 ---
 
-## unknown: Unterminated JSX contents (89:16)
-
-<!--
 **Auch, wenn er schon ein paar Tage zurückliegt, möchte ich diesen besonderen
 Moment gerne mit Euch teilen. Vier Jahre nach dem ganz besonderen NINE INCH
 NAILS Konzert in der Zitadelle in Berlin Spandau war es diesen Sommer wieder
@@ -144,11 +140,27 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42747651245
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABgADCAUH/8QAKBAAAgEDBAEEAQUAAAAAAAAAAQIDBAURAAYSITEHExRBkRYyUYKh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AFe46Gy2e6S1F9E8KTqQjiX2md+QJUnsYAGRy+8Aa79xXbNvhroLY9dL8AK08Kx+4AvkcFx3knPXnPei3r9R1c9hstosnzbvEmXmqOSykj9iAlR23ZJPXQ786qsG+KWk23Rfqe5GgrkhWnqIJCpkkVARyULkjkMecHOgQ7XuCSb/AIoZKiUPbkmVYAzRiQ8iFjYE8SQql8eev4Gnku+bDDK8clWyujFWUqcgjyNZOrd21FJuE3a1VvyK4vPJ70tPhY2lPlAxySFOAxA++u9J4fVi4vCjVG0bLUzFQXnMEo91vtsA4GT3113oPPrtuK8XWMx19zqZY8ECMNwQf1XA/wA0npa/blJQxvHRWuOo9ntSokDPx7OQCcnv86B6mgg6UAd41etTOqhVnkCgYADeNUqruwSJS0jEKij7YnAH5I1oyH0b2qkSJUwX9p1UCQrPgFvvA4eM6D//2Q=="
 />
 
-<ol>
-    <li>
+1.  Branches/Bones
+1.  Wish
+1.  Less Than
+1.  March Of The Pigs
+1.  The Frail
+1.  The Lovers
+1.  Reptile (mit Teaser: Closer)
+1.  Shit Mirror
+1.  Ahead Of Ourselves
+1.  God Break Down The Door
+1.  Copy Of A
+1.  Gave Up
+1.  I'm Afraid Of Americans (
+    [David Bowie](/2016/01/rip-david-bowie-abschied-von-einer-ikone/) )
+1.  I Do Not Want This
+1.  Digital (Joy Division)
+1.  The Hand That Feeds
+1.  Head Like A Hole
+1.  Even Deeper (Encore 1)
+1.  Hurt (Encore 2)
 
 <Gallery name="flickr/anneninzitadelle2018hurtherz" />
-
--->
 
   

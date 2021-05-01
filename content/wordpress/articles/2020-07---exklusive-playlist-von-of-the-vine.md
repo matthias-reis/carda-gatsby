@@ -7,10 +7,12 @@ typeName: Artikel
 title: Exklusive Playlist von Of the Vine
 seoTitle: Exklusive Playlist von Of the Vine - "Diese Musik hat uns geprägt"
 ogTitle: Exklusive Playlist von Of the Vine - "Diese Musik hat uns geprägt"
-description: Kein Geringerer als Samuel Laubscher von Of the Vine hat exklusiv
-  eine Playlist für meinen Blog zusammengestellt. Von Ben Frost bis Mogwai.
-excerpt: English & German - Kein Geringerer als Samuel Laubscher von Of the Vine
-  hat exklusiv eine Playlist für meinen Blog zusammengestellt. Von Ben Frost bis
+description:
+  Kein Geringerer als Samuel Laubscher von Of the Vine hat exklusiv eine
+  Playlist für meinen Blog zusammengestellt. Von Ben Frost bis Mogwai.
+excerpt:
+  English & German - Kein Geringerer als Samuel Laubscher von Of the Vine hat
+  exklusiv eine Playlist für meinen Blog zusammengestellt. Von Ben Frost bis
   Mogwai.
 fileName: 2020-07---exklusive-playlist-von-of-the-vine.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-1__m.jpg
@@ -57,7 +59,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Diese Musik hat uns geprägt"'
-  
 ---
 
 [🇬🇧 Click here for English version](#⋆)
@@ -65,12 +66,6 @@ subTitle: '"Diese Musik hat uns geprägt"'
 **Kein Geringerer als Of the Vine Gitarrist Samuel Laubscher hat eine Playlist
 für meinen Blog zusammengestellt. Es ist mir eine große Ehre, sie Euch heute
 präsentieren zu dürfen.**
-
-<RemoteImage alt={`Of The Vine Playlist Pin`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-playlist-cardamonchai-rock-n-roll-vegan__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-playlist-cardamonchai-rock-n-roll-vegan__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBQb/xAAnEAABBAEEAQQCAwAAAAAAAAABAgMEEQUABhIhMQcTIkEUUQhhcf/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAv/EACARAQACAAcAAwAAAAAAAAAAAAEAEQIDBBIhMVETJEH/2gAMAwEAAhEDEQA/AJjurL5DcGIayGYjKyEWM5+M0mLF9kIRyUU2sHvl2QaPSVDro61treoLuF2Sccyw2hNvUwQEhoKsUkVdf6Sf70vsncTCcw3FwMx1lyJDLaZbkdK+bYCQoe2rqyQDZ8Uf3rS9aJmNhb691uUHZqGIimmUNgKNso8r8J7JI++9Rzd2SUXd9RB9nE76AO7PfOPYrtrfOycBtrHRs5hIe4ZgbCS2nFMtiIAB8StSbcUSVWuzfEeNGuaeivZ7LT34rLwpyylxQtIJPEWaugK0aSKFEKhibZQ/UDY+T2tj8TJSYKYscfhoeDiWuZPg8QTd8b5Gj560vtdhubjnkyUMql/Jbj4d58kCwlKfofRJ8nSHotGD+7HkILnuiG6VFV8LCkAC/wB61t/4eK9uNbzrDZlNhpxThkto4pQAqgCeRPxPgfY1HFnGLO2PHHcUaYNP8w/tVI43XstHisEoHKwezo1fY/8AIzBpyeVeRGyDbEmQXWwthKlVxCbNL66SnrRrVSFz/9k="
-/>
 
 Vor ein paar Wochen lernte ich Sam bei
 [unserem Interview](/2020/05/of-the-vine/) kennen. Unser Gespräch und meine
@@ -266,19 +261,15 @@ es [hier lesen](/2020/05/of-the-vine/).
 
 ## Sams Playlist bei Spotify
 
- <YouTube id="playlist/3zLKlVQnK9cOdWl8eTmKIf" />
+<Playlist spotify="3zLKlVQnK9cOdWl8eTmKIf" />
 
 Hier sind für Euch Of the Vine mit "An Event Of Moon Disaster"
 
- <YouTube id="WzsS0pBXJl8" />
+<YouTube id="WzsS0pBXJl8" />
 
 <div id="⋆">[⋆]  _English version_ </div>
 
-<div></div>
-
 ## "What made us" - a special playlist by Of the Vine
-
-<div>
 
 **Non-other than Of the Vine guitarist Samuel Laubscher has compiled a playlist
 for my blog. It is a great honor for me to present it to you today.**
@@ -347,6 +338,7 @@ piece.
 For the more logic-driven among us, I highly recommend reading up on this
 movement and his tintinnabuli style check out the
 [Wiki about "Cantus In Memoriam Benjamin Britten"](https://en.wikipedia.org/wiki/Cantus_in_Memoriam_Benjamin_Britten).
+
 <YouTube id="mto84jhDyGk" />
 
 In our interview, I talked to Sam about the current Of the Vine Album "East The
@@ -355,8 +347,8 @@ Water" and the band's development. You can 
 
 ## Sam's playlist on Spotify
 
- <YouTube id="WzsS0pBXJl8" />
+<Playlist spotify="3zLKlVQnK9cOdWl8eTmKIf" />
 
-</div>
+Here are Of The Vine with „An Event Of Moon Disaster“
 
-  
+<YouTube id="WzsS0pBXJl8" />

@@ -46,15 +46,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Unterminated JSX contents (101:16)"
+errors: {}
 subTitle: Einfach mal auf Schminke verzichten
   
 ---
 
-## unknown: Unterminated JSX contents (101:16)
-
-<!--
 _Produktplatzierung\*_
 
 **Ich liebe Make-up und trage es schon seit meiner frühesten Jugend täglich.
@@ -154,8 +150,20 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_42751807875
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgDBQYH/8QAKBAAAgEDAwMDBQEAAAAAAAAAAQIDBAURABIhBhMxB0GBIiNRYXGx/8QAFwEBAAMAAAAAAAAAAAAAAAAABAIDBf/EACURAAECBAQHAAAAAAAAAAAAAAEAAgMEERIxQXHwBRMUITJR8f/aAAwDAQACEQMRAD8Ax/o8qydaWZrpDT1VrrC1IVnjDIZHJVCyvnkNtAI/mmMrekrFQxy1U1hsAMQMj7bbHk45PJH60rfTl8NJW0FxNCmaerE0EaOSY1T8KfHgn201HqVeI4emLvNTli4ppGVWVlJJQkfHI502bHiQcVkcMe62IHNw03kkwvK1LXasn7SyTyOZkMeMoGyQFUjO0c8DjRqYmKjrRHtmNZI577qd/GM8A5b/ADRpFgOdELnEAVaDqPqkqLbEYZzDCu3YCwmmBZnJxxgccfs67p1v1/arp6TU8cFeZLjPQw0z03ZZWWT6VYtkYC8HnPPtpeJK2FZY2DOcTIzxCQMSB74J84Gf7re9RXGyV9via23GmBaPaUb7eBnwVPn2+c6JMxBUABPkoL7XAmpO/axEUcizt24XWnQkSSjjY3jIIyfjxo1XVkryCWOnPcXG19khUfKnz40amItBgq+nuPd1F//Z"
 />
 
-<ul>
-    <li>
+- Morgens spart man Zeit, die man mit Kuscheln, Katze Streicheln, Kaffee
+  Trinken, Gießen oder Schreiben verbringen kann.
+- Man kann seinen Freudentränen freien Lauf lassen, wenn man merkt, wie klasse
+  es einem ohne Schminke geht. Ganz ohne Pandaaugen.
+- Die Pickel werden weniger und die Haut atmet insgesamt auf.
+- Dadurch, dass die Poren nicht mehr permanent verstopft werden, werden sie
+  feiner, die Haut reguliert sich selbst, die Faltenbildung lässt nach.
+- Die Augen sind weniger gereizt. Klar, wenn nicht ständig Wimperntuschepartikel
+  im Tränenkanal landen, bekommt man auch nicht so schnell rote Äuglein.
+- Allergische Reaktionen lassen nach und sind weniger heftig.
+- Irgendwann traut man sich dann auch ohne Make-up ins Stammcafé und erhält ein
+  Kompliment von der Kellnerin. "Du siehst aber heute gut aus! So erholt!" Eins
+  kann ich Euch verraten: Ein ungeschminkt empfangenes Kompliment von einer
+  Person, die einen so gut wie jeden Tag sieht, geht runter wie Öl!
 
 Wer jetzt neugierig geworden ist und das Make-up-Fasten auch mal ausprobieren
 möchte: Versucht es! Es lohnt sich! Vielleicht steht in Kürze eine längere
@@ -170,7 +178,5 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_0
   meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
   Werbekennzeichnung in meinem Blog findet Ihr auf meiner
   [Transparenz-Seite](/werbung/). _
-
--->
 
   

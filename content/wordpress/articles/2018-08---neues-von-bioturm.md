@@ -37,15 +37,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (58:34)"
+errors: {}
 subTitle: Schaumfestiger und Duschgele
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;li> (58:34)
-
-<!--
 _Werbung\*_
 
 **Wisst Ihr, was ich gerne mag, wenn es so richtig heiß ist, wie im Moment?
@@ -104,14 +100,15 @@ willkommene Abwechslung zu meinem Salzwasserspray, das die Haare ja auf Dauer
 sowieso etwas strohig macht. Die pflegenden Inhaltsstoffe können da auf jeden
 Fall nicht schaden.
 
-**<sub><small>Schaumfestiger (leichter Halt) - Inhaltsstoffe</small></sub>**
-<small><sub>Wasser, Trinkalkohol, natürlicher Stylingkomplex, waschaktive
-Aminosäure, Glycerin, Grüner Tee-Extrakt*, Malvenblüten-Extrakt*, hydrolysiertes
-pflanzl. Protein, Fettsäureester auf pflanzl. Basis, Mischung nat. äth. Öle,
-Zitronensäure, Natriumbenzoat, Inhaltsstoffe der nat. äth. Öle
+**Schaumfestiger (leichter Halt) - Inhaltsstoffe**
 
-- aus kontrolliert biologischem Anbau frei von Silikonen, synthetischen Duft-
-  und Farbstoffen, PEG, Paraffinöl</sub></small>
+<small>Wasser, Trinkalkohol, natürlicher Stylingkomplex, waschaktive Aminosäure,
+Glycerin, Grüner Tee-Extrakt*, Malvenblüten-Extrakt*, hydrolysiertes pflanzl.
+Protein, Fettsäureester auf pflanzl. Basis, Mischung nat. äth. Öle,
+Zitronensäure, Natriumbenzoat, Inhaltsstoffe der nat. äth. Öle</small>
+
+<small>\* aus kontrolliert biologischem Anbau</small> <small>frei von Silikonen,
+synthetischen Duft- und Farbstoffen, PEG, Paraffinöl</small>
 
 ## Die neuen Bioturm Duschgele
 
@@ -137,7 +134,16 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_28884414977
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQYD/8QAKRAAAQMDBAAEBwAAAAAAAAAAAQIDBAAREgUHITEGE0FxUWFygZGhsf/EABkBAAIDAQAAAAAAAAAAAAAAAAMFAAECBP/EACQRAAEEAAUEAwAAAAAAAAAAAAEAAgMRBAUGITESImGRcaGx/9oADAMBAAIRAxEAPwBUQ4eWBxHfdO/ZVTiNJ1OG0SFpdRISAgEEKGKgSfp4pb6ayhTSOMRbu1b/AGcKoviSXHUshL0UlFj2UqBAP2JoOpGSHLJTEacAD6IJ48WmxYC3ddd9chF0mE4Ei7jr1rAKsAEi9uPU0jZ0Ek3CePanJvPNaf8AFEVl14DyYoUq/Fslnr8VhJ0doRzgcjbsVnTW+WREmybPtxI+lBHTVDRpam4wyAIt0f5VqphUaCuYnV0uTnMkJiNtLUgDIcrc6HHw/dFFNpm9dNtFDQ+NzXcEKk1aJN1DVbynw80GrKeXxZKSrFHryOwPnQ8tDEfyQSU2vkvs+9FFXFCyIdoXJg8RJPg43SGzXx+L/9k="
 />
 
-<small> \_\_<sub>
+**Duschgel Zitrone - Inhaltsstoffe**
+
+<small>Wasser, waschaktive Substanz auf pflanzl. Basis, waschaktive Substanz auf
+Kokos/Zucker Basis, Mandelmilch*, Inulin, Milchsäure, Mischung nat. äth. Öle,
+Kochsalz, Fettsäureester des Sonnenblumenöls\*\*, Zitronensaft*, Lorbeerbaumöl,
+Fettsäureester auf pflanzl. Basis, Inhaltsstoffe der nat. äth. Öle</small>
+
+<small>\* aus kontrolliert biologischem Anbau</small> <small>\*\* hergestellt
+aus biologischen Rohstoffen</small> <small>frei von synthetischen
+Konservierungsmitteln, Farbstoffen, PEG, Paraffinöl</small>
 
 Wachholder ist hingegen etwas gediegener und wirkt auf mich entspannend. Der
 Duft erinnert mich stark an einen Badezusatz, den ich mal eine Zeit lang
@@ -151,6 +157,17 @@ mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_4377254281
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43772542812_72f23f49ef_z-1__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACgQAAEDAwIFBAMAAAAAAAAAAAECAwQAESEFEhMiMUFRBzJhcQYVgf/EABgBAAMBAQAAAAAAAAAAAAAAAAACBAMF/8QAIBEAAgEEAQUAAAAAAAAAAAAAAQIAAwQREiEUMUFR8P/aAAwDAQACEQMRAD8Ax+NE3Jv0/laz6SJcELVmmI+mqCFsurdlR0OOoQbpPD3gp8Y82+apGmxmVspAAz5OKmdBjOJmSEO8QsIaU+eGq3tIsT5sT2q/UEczqXakW7ERfqA8XpbEJSwtDCN+7hIQVFRIBO1I7Cs/mw7LJSOX6q5/kGofudbUtx5u7aEtA3sEpHROScZxmmU2IhuMSCCbdqUdoWlM9OuZx0GQpthIdttIyFGn7zmpMykLhP7o7wLb3EB28MkbgfgY6C+KKKHTdcGWJyhUjIIMi9T0iVJ1p1T0oOMhtF3jy228qUAAnKQOl+9PJC0NRQzcnaPcrqr7oopaVNUGR5mFtUZrWnt6H3E//9k="
 />
+
+**Duschgel Wachholder - Inhaltsstoffe**
+
+<small>Wasser, waschaktive Substanz auf pflanzl. Basis, waschaktive Substanz auf
+Kokos/Zucker Basis, Mandelmilch\*, Inulin, Milchsäure, Mischung nat. äth. Öle,
+Kochsalz, Fettsäureester des Sonnenblumenöls\*\*, Wacholderbeerenöl,
+Fettsäureester auf pflanzl. Basis, Inhaltsstoffe der nat. äth. Öle</small>
+
+<small>\* aus kontrolliert biologischem Anbau</small> <small>\*\* hergestellt
+aus biologischen Rohstoffen</small> <small>frei von synthetischen
+Konservierungsmitteln, Farbstoffen, PEG, Paraffinöl</small>
 
 ## Newcomer aus der Tube
 
@@ -205,41 +222,38 @@ Wissensschatz in das inzwischen 15-jährige Familienunternehmen mit ein.
 Gestern habe ich von Bioturm eine E-Mail erhalten, über die mich sehr gefreut
 habe. Lest sie am besten selbst:
 
-<blockquote>
-
-Liebe Anne, Du sprichst in Deinem Artikel auch das Thema Nachhaltigkeit an. Das
-liegt natürlich auch uns sehr am Herzen und so richten wir auch in Bezug auf
-unsere Rohstoffe immer unseren Fokus darauf. Es ist nur sehr schwierig, eine
-andere Verpackung als Plastik einzusetzen. Kunststoff stellt die hauptsächliche
-Verpackungsart für Kosmetikprodukte dar. In den meisten Fällen in Form von PE,
-PP oder einer Mischung aus beidem. Kunststoff hat den Vorteil, dass er leicht
-ist, flexibel und bruchsicher und sich somit für Tiegel, Tuben und
-Flaschenprodukte eignet. Über den Grünen Punkt kann er gut recycelt werden. Glas
-ist keine gute Alternative, da hier Bruchgefahr im Bad besteht und es sehr viel
-schwerer beim Transport ist (der Treibstoffverbrauch bei der Fracht steigt).
-Auch müsste das Produkt zusätzlich vor Sonneneinstrahlung geschützt werden -
-Jede Flasche bräuchte also eine Faltschachtel oder müsste dunkel eingefärbt
-werden. Beim Transport müsste das Glas auch gut geschützt werden, was
-zusätzlichen Verpackungsmüll bedeuten würde.
-
-### Eine Metallverpackung müsste auch mit Kunststoff beschichtet werden, damit man sie für Kosmetik verwenden kann. Es bestünde sonst Korrosionsgefahr. Eine solche Verpackung würde auch über den Grünen Punkt recycelt.
-
-Bio-Kunststoff ist für uns auch keine befriedigende Alternative. Er würde auch
-über den Grünen Punkt recycelt, aber er wird zum Teil aus pflanzlichen Quellen
-gewonnen, die auch als Nahrungsmittel dienen können. Hierfür gehen also
-Anbaugebiete verloren, die eigentlich für die Nahrungsmittelproduktion genutzt
-werden könnten. Wir schauen uns nach alternativen Verpackungen um, aber diese
-müssen eben auch wirklich alle wichtigen Kriterien erfüllen: das Produkt muss
-fest verschließbar, möglichst leicht und vor Licht geschützt sein. Auch darf es
-keine eigenen Stoffe an das Produkt abgeben. Unsere Verpackungen sind
-lebensmittelecht und enthalten nachweislich keine Weichmacher. Wir können davon
-ausgehen, dass hier weder Stoffe aus dem Kunststoff in das Produkt diffundieren,
-noch das Produkt durch den Kunststoff diffundieren kann. Dies müsste eine neue
-Verpackung natürlich auch erfüllen. Das ist also alles nicht ganz so einfach.
-Wir hoffen, dass Du Verständnis dafür hast, dass wir eine Veränderung der
-Verpackung erst einmal nicht umsetzen können, aber wir bleiben dran...
-
-</blockquote>
+> Liebe Anne, <br />Du sprichst in Deinem Artikel auch das Thema Nachhaltigkeit
+> an. Das liegt natürlich auch uns sehr am Herzen und so richten wir auch in
+> Bezug auf unsere Rohstoffe immer unseren Fokus darauf. Es ist nur sehr
+> schwierig, eine andere Verpackung als Plastik einzusetzen. Kunststoff stellt
+> die hauptsächliche Verpackungsart für Kosmetikprodukte dar. In den meisten
+> Fällen in Form von PE, PP oder einer Mischung aus beidem. Kunststoff hat den
+> Vorteil, dass er leicht ist, flexibel und bruchsicher und sich somit für
+> Tiegel, Tuben und Flaschenprodukte eignet. Über den Grünen Punkt kann er gut
+> recycelt werden.<br />Glas ist keine gute Alternative, da hier Bruchgefahr im
+> Bad besteht und es sehr viel schwerer beim Transport ist (der
+> Treibstoffverbrauch bei der Fracht steigt). Auch müsste das Produkt zusätzlich
+> vor Sonneneinstrahlung geschützt werden - Jede Flasche bräuchte also eine
+> Faltschachtel oder müsste dunkel eingefärbt werden. Beim Transport müsste das
+> Glas auch gut geschützt werden, was zusätzlichen Verpackungsmüll bedeuten
+> würde.<br />Eine Metallverpackung müsste auch mit Kunststoff beschichtet
+> werden, damit man sie für Kosmetik verwenden kann. Es bestünde sonst
+> Korrosionsgefahr. Eine solche Verpackung würde auch über den Grünen Punkt
+> recycelt.<br />Bio-Kunststoff ist für uns auch keine befriedigende
+> Alternative. Er würde auch über den Grünen Punkt recycelt, aber er wird zum
+> Teil aus pflanzlichen Quellen gewonnen, die auch als Nahrungsmittel dienen
+> können. Hierfür gehen also Anbaugebiete verloren, die eigentlich für die
+> Nahrungsmittelproduktion genutzt werden könnten.<br />Wir schauen uns nach
+> alternativen Verpackungen um, aber diese müssen eben auch wirklich alle
+> wichtigen Kriterien erfüllen: das Produkt muss fest verschließbar, möglichst
+> leicht und vor Licht geschützt sein. Auch darf es keine eigenen Stoffe an das
+> Produkt abgeben. Unsere Verpackungen sind lebensmittelecht und enthalten
+> nachweislich keine Weichmacher. Wir können davon ausgehen, dass hier weder
+> Stoffe aus dem Kunststoff in das Produkt diffundieren, noch das Produkt durch
+> den Kunststoff diffundieren kann. Dies müsste eine neue Verpackung natürlich
+> auch erfüllen. Das ist also alles nicht ganz so einfach.<br />Wir hoffen, dass
+> Du Verständnis dafür hast, dass wir eine Veränderung der Verpackung erst
+> einmal nicht umsetzen können, aber wir bleiben dran...
 
 Das klingt doch schon mal sehr gut, oder? Ich bleibe auf jeden Fall auch dran
 und werde weiter berichten!
@@ -254,7 +268,5 @@ und werde weiter berichten!
 
 Vielen Dank an Bioturm für die freundliche Zurverfügungstellung der Produkte!
 [Hier gehts zur Homepage](https://www.bioturm.de/).
-
--->
 
   

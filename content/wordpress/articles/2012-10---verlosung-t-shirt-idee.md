@@ -115,24 +115,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (11:15)"
+errors: {}
 subTitle: Die Bildergalerie
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (11:15)
-
-<!--
-<strong>
-
-<del>
-
 <hr />
 
-</del>
-
-Hinweis:</strong> Die Aktion ist beendet.
+**Hinweis:** Die Aktion ist beendet.
 [Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
 <hr />
@@ -327,7 +317,5 @@ den Teilnehmern einen Preis gewinnt! Teilnehmer, die mit mehreren Fotos
 teilgenommen haben nehmen selbstverständlich auch nur ein Mal an der Verlosung
 teil. Die Gewinner werden von einer neutralen Person gezogen. Die Gewinne werden
 per Post zugestellt.
-
--->
 
   

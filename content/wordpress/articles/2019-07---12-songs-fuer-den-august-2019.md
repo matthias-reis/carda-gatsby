@@ -7,10 +7,12 @@ typeName: Artikel
 title: 12 Songs für den August 2019
 seoTitle: 12 Songs für den August - präsentiert von den drei von der Bande
 ogTitle: 12 Songs für den August - präsentiert von den drei von der Bande
-description: Was für ein musikalischer Sommer! Wöchentlich gibt es neue Platten
-  zu entdecken - eine interessanter, als die andere! Wir haben 12 Songs
+description:
+  Was für ein musikalischer Sommer! Wöchentlich gibt es neue Platten zu
+  entdecken - eine interessanter, als die andere! Wir haben 12 Songs
   zusammengestellt.
-excerpt: Was für ein musikalischer Sommer! Wöchentlich gibt es neue Platten zu
+excerpt:
+  Was für ein musikalischer Sommer! Wöchentlich gibt es neue Platten zu
   entdecken - eine interessanter, als die andere! Wir haben 12 Songs
   zusammengestellt.
 fileName: 2019-07---12-songs-fuer-den-august-2019.md
@@ -51,7 +53,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Präsentiert von den drei von der Bande
-  
 ---
 
 **Was für ein musikalischer Sommer! Wöchentlich gibt es neue Platten zu
@@ -73,20 +74,139 @@ die Liste ein bisschen anders gegliedert, als sonst. Zuerst kommen Matzes vier
 Favoriten, dann Valentins und zum Schluss meine. Die komplette Playlist für
 Spotify und iTunes findet Ihr im Anschluss an den Artikel.
 
-1.  ## Opeth - "Heart in Hand" vom Album "In Cauda Venenum" Bei diesem Song handelt es sich um die erste Auskopplung vom neuen Opeth Album. Matzes Kommentar dazu: "Ein cooler Metal Song, vielleicht (und hoffentlich nicht) der beste auf der neuen Platte. Aber er rockt schon mal ganz gut, besonders im ersten Teil! Für mich ist er diesen Monat auf  jeden Fall die Nummer eins." <YouTube id="90M585muQBM" />
+## Opeth - "Heart in Hand" vom Album "In Cauda Venenum"
 
-## iTunes Fans können die Liste hier hören
+Bei diesem Song handelt es sich um die erste Auskopplung vom neuen Opeth Album.
+Matzes Kommentar dazu: "Ein cooler Metal Song, vielleicht (und hoffentlich
+nicht) der beste auf der neuen Platte. Aber er rockt schon mal ganz gut,
+besonders im ersten Teil! Für mich ist er diesen Monat auf  jeden Fall die
+Nummer eins."
 
-<iframe style="overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2019-07-25-die-drei-von-der-bande/pl.u-KA7VUvegag0?app=music" width="300" height="380" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
+ <YouTube id="yAh7XQ0whvg" />
 
-## Spotify Anhänger<span class="e24Kjd">\*</span>innen werden hier glücklich
+## David Bowie - "Space Oddity" vom Album "Space Oddity"
 
- <YouTube id="user/1121757456/playlist/6v9gj9LjXWDL43U7Vijx4F" />
+Matze meint: "OK, eigentlich sollte das die Nummer eins auf _jeder_ Liste sein.
+Allerdings sollte man neuen Sachen zumindest manchmal einen kleinen Vorzug
+geben. 'Space Oddity' von
+[David Bowie](/2016/01/rip-david-bowie-abschied-von-einer-ikone/) ist inzwischen
+50 Jahre und passt im Moment einfach sehr gut - im Kontext mit der Mondlandung
+hatte ich ihn bisher überhaupt noch nicht gehört."
 
-<RemoteImage alt={`12-songs-august-pinterest`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_121.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_121.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,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"
-/>
+ <YouTube id="iYYRH4apXDo" />
 
-  
+## We Lost the Sea - "Towers" vom Album "Towers"
+
+Noch eine Vorauskopplung. Matze sagt dazu "Das ist mal wieder ein wahnsinnig
+gutes Stück Post-Rock - für mich geht es schon fast in Richtung Post-Metal.
+Achtet unbedingt auf den harten Break nach ungefähr siebeneinhalb Minuten bei
+insgesamt 15 Minuten Gesamtlänge. Genial ist auch der proggige Spannungsanstieg
+zum Ende hin. Ich freue mich schon total darauf, dieses Stück demnächst mal
+irgendwo als letzte Zugabe live zu erleben."
+
+ <YouTube id="1gd4_usFLKI" />
+
+## Thrice - "Deeper Wells" von der EP "Palms - Deeper Wells"
+
+Matzes viertes Stück stammt von einer unserer gemeinsamen Lieblingsbands Thrice.
+Auch hierzu findet er lobende Worte: "Nach dem für mich persönlich okayen Album
+aus dem letzten Jahr haben Thrice nun nochmal eine EP nachgelegt. Der Titeltrack
+'Deeper Wells' ist für mich die beste Nummer darauf. Sie erinnert mich stark an
+ihre härteren Tracks auf 'Vheissu'. Kurz, etwas punkig und dafür wenig proggig
+treibt der Song seine Hörer\*innen permanent an."
+
+ <YouTube id="mvGavLB5bqc" />
+
+## Slipknot "Solway Firth" vom Album "We Are Not Your Kind"
+
+Die Vorauskopplung vom neuen Slipknot Album "We Are Not Your Kind", "Solway
+Firth", hat Valentin auf die Liste gesetzt: "Tatsächlich Was Neues von
+Slipknot!", sagt er. Der neue Song haut wirklich ziemlich rein und das Video ist
+leider nichts für schwache Gemüter" - wir fühlen uns ein bisschen in die gute
+alte Zeit zurückversetzt und sind schon sehr gespannt auf den Rest des Albums.
+Mal sehen, was Corey Taylor und Co. da noch so alles gebastelt haben.
+
+ <YouTube id="V3ADK6gsDGg" />
+
+## Korn - "You'll Never Find Me" vom Album "The Nothing"
+
+Auch dieser Song ist eine Vorauskopplung und: noch eine Band, die uns an die
+gute alte Zeit erinnert. Valentin findet "'You'll Never Find Me' hat es mir
+irgendwie angetan. Das Stück ist ziemlich 'Back To The Roots'. Irgendwie hat mir
+Korn genau wie Slipknot gefehlt."
+
+ <YouTube id="As8x9xqdCtc" />
+
+## Mackeson - "Bye Bye Bay"
+
+Valentin hat dieses Stück in einer etwas "poppigeren" Version in der Serie "The
+Rookie" entdeckt. Im Video ist die Akustik-Variante zu hören. "Von Mackeson gibt
+es bisher nur eine knappe Handvoll Songs. Ich bin mehr als gespannt, was uns von
+ihm noch erwartet." - ich habe sicherheitshalber auch gleich mal den Youtube
+Channel und sein iTunes Profil abonniert.
+
+ <YouTube id="MQK5FjJUpKE" />
+
+## Atmosphere - "Virgo" vom Album "Mi Vida Local"
+
+Atmosphere wollte Valentin schon seit längerer Zeit auf eine unserer Listen
+setzen: "Ich schätze sie schon seit Jahren besonders wegen der Texte ihres
+Rappes Slug sehr." Die Combo aus Minneapolis gründete sich im Jahr 1994 und hat
+seither zahlreiche Alben und EPs aufgenommen. "Virgo ist das dritte Stück auf
+dem 2018 erschienenen Werk "Mi Vida Local".
+
+ <YouTube id="w9N_qFCdH3U" />
+
+## UNKLE "Only You" vom Album "The Road Part II / Lost Highway"
+
+Hatte ich bereits erwähnt, dass ich UNKLE liebe? Valentin weiß das und schenkte
+mir zu meinem Geburtstag die wunderbare Special Edition von "The Road Part II /
+Lost Highway" - das komplette Doppelalbum inklusive Extrascheibe mit
+Instrumentals. Danke nochmal an dieser Stelle, das Album lässt mein Herz
+aufgehen! "Only You" habe ich ausgewählt, weil es bei mir sofort hängengeblieben
+ist - es hat etwas Magisches an sich. Das 1992 gegründete Projekt überrascht
+seit jeher regelmäßig mit unfassbar kreativem Output. James Lavelle, Matthew
+Puffett und Jack Leonard haben sich dieses Mal unter anderem Verstärkung von
+Größen wie [Mark Lanegan](/2015/03/mark-lanegan-live-freiheiz-muenchen/) geholt.
+Inspirieren ließ man sich zum Beispiel von Stanley Kubrick. Eine kleine
+Lobhudelei gab es schon [in der Mai-Ausgabe](/2019/04/12-songs-fuer-den-mai/),
+diese muss ich heute einfach nochmal aufgreifen. <YouTube id="pcznaEKW7Ts" />
+
+## Toska "A Tall Order" vom Album "Fire By The Silos"
+
+Toska (nicht zu verwechseln mit dem Richard Dorfmeister Projekt "Tosca" - auch
+gut, aber anders) gibt es bereits seit 2014. Seitdem haben die britischen
+Progger drei Alben veröffentlicht, das neueste "Fire By The Silos" stammt aus
+dem Jahr 2018. "A Tall Order" läuft bei mir gerade mal wieder rund, daher habe
+ich es auf die August-Liste gesetzt. Ich freue mich sehr auf ein hoffentlich
+bald neues Werk von Rabea Massaad, Dave Hollingworth und Ben Minal. Ich finde,
+es wird für die Band Zeit, aus dem Schatten zu treten und alten Prog-Größen zu
+zeigen, wie man Stilrichtungen zu Gesamtkunstwerken verschmelzen lässt.
+<YouTube id="0tgm5IiO9JU" />
+
+## Sleep Token "The Night Does Not Belong To God" (Single)
+
+Das anonyme Musik-Kollektiv Sleep Token beschäftigt mich schon länger. Mich
+fasziniert nicht nur das Mysterium um die Musiker, sondern auch ihre
+außerirdische Art, mit Klängen umzugehen. Die neue Single ist ganz frisch
+erschienen und macht Lust auf mehr. Vielleicht folgt auf die Alben "One" und
+"Two" ja bald "Three" - hoffen wir es.
+
+ <YouTube id="FrbwVzgvl3E" />
+
+## Her Name Is Calla "The Dead Rift" vom Album "Animal Choir"
+
+Das frisch erschienene Album von Her Name is Calla haut mich komplett vom
+Sockel. Es ist genau das, was ich musikalisch im Moment gebraucht habe. Der Song
+"The Dead Rift" ist melodisch, bunt, nachdenklich und wild zugleich. Dadurch
+hebt es sich ein kleines bisschen vom Rest der Platte ab, die streckenweise
+elektronisch-eklektisch und fast schon rave-mäßig um die Ecke kommt und dennoch
+ihre ruhigen Momente hat. Für mich eine Scheibe, die man auf jeden Fall im
+Plattenregal stehen haben sollte. Die 2004 in Leeds gegründete Post-Rock Band
+hat definitiv noch viel mehr Aufmerksamkeit verdient.
+
+ <YouTube id="90M585muQBM" />
+
+## iTunes und Spotify Fans können die Liste hier hören
+
+<Playlist itunes="2019-07-25-die-drei-von-der-bande/pl.u-KA7VUvegag0?app=music" spotify="6v9gj9LjXWDL43U7Vijx4F" />

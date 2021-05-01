@@ -7,12 +7,12 @@ typeName: Artikel
 title: 12 Songs für den November
 seoTitle: Musikliste für den November - 12 Songs für den Spätherbst
 ogTitle: Musikliste für den November - 12 Songs für den Spätherbst
-description: "Es ist so weit! Die Platten für den November stehen bereit! In den
-  letzten vier Wochen war musikalisch so einiges geboten also: Buckle your
-  seatbelts!"
-excerpt: "Es ist so weit! Die Platten für den November stehen bereit! In den
-  letzten vier Wochen war musikalisch so einiges geboten also: Buckle your
-  seatbelts!"
+description:
+  'Es ist so weit! Die Platten für den November stehen bereit! In den letzten
+  vier Wochen war musikalisch so einiges geboten also: Buckle your seatbelts!'
+excerpt:
+  'Es ist so weit! Die Platten für den November stehen bereit! In den letzten
+  vier Wochen war musikalisch so einiges geboten also: Buckle your seatbelts!'
 fileName: 2020-10---12-songs-fuer-den-november.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_musikliste__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_musikliste__l.jpg
@@ -46,17 +46,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Platten im Spätherbst
-  
 ---
 
 **Es ist so weit! Die Songs für den November stehen bereit! In den letzten vier
 Wochen war musikalisch so einiges geboten also: Buckle your seatbelts!**
-
-<RemoteImage alt={`Platten November`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_12-songs-november__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_12-songs-november__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAP/xAAqEAACAQIFAwMEAwAAAAAAAAABAgMEEQAFBhIxISJhBxQVEyNBUXGBof/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EACIRAAIBAwIHAAAAAAAAAAAAAAABAgMRQSExE1FhcYGR8P/aAAwDAQACEQMRAD8A76spMwgyPXHyHySS/EXqHmBMEspmUERndbYFAK7QBY25HWQaUdYdUUcylN0E25EZwobtPS/94WpqjT/sKKky2mnkqPrSP7iRAkqiw2K1iVZeb/kWFjyC2+llTLQ+omQ1dFEGnp5JZUWUNtNoJDY7QT++AT4PGMuHruW53HCpzRKSkp2q6Ny0rO6mGQoNtx0tY8G9j+sGNW6fzc5plcdQbpKpMUylGQCRbbgocBtt+LgHwMGNSCaCOmp6U09TVLNPMgWa7liu7uAAv0IHQ4V9eH2Okc+q6UtDVQITA0QYEDtU2P54br5xA/TuS+usvSTeYjUqO0dR2nj/ADGjNLHMq3OkjzYUYpo5itP7ZmLMvcPubhYGwHHnBqknSnFJXGyVOvFy2ec9ni3LwQvMPUWvzCraoq3rHmKqh2kW7Ra/jgcWF8GNWxlzNNHLtT6ZspB3bh+D4/jBhL+1BXfT0j//2Q=="
-/>
 
 Im Moment befindet sich alles im Umbruch. Während draußen die Blätter von den
 Bäumen fallen, wird unsere Plattensammlung feinsäuberlich in Kartons
@@ -243,10 +236,4 @@ hat er einen ganz besonderen für uns.
 
 ## Unsere November-Musikliste bei Spotify
 
- <YouTube id="playlist/4DjDm9SwKVfpqcUFRT89oI" />
-
-## Unsere November-Musikliste bei iTunes
-
-<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-10-25-rock-n-roll-vegan/pl.u-oo4Yt3ye8ea" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
-
-  
+ <Playlist spotify="4DjDm9SwKVfpqcUFRT89oI" itunes="2020-10-25-rock-n-roll-vegan/pl.u-oo4Yt3ye8ea" />

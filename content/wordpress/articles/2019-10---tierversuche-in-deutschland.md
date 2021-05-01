@@ -34,15 +34,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: 'unknown: Unexpected token, expected "}" (15:21)'
+errors: {}
 subTitle: Die traurige Realität
   
 ---
 
-## unknown: Unexpected token, expected "}" (15:21)
-
-<!--
 **Noch heute finden in Deutschland täglich Tierversuche statt. Das ist traurige
 Realität. Im Jahr 2017 wurden in Deutschland fast drei Millionen Tiere im Namen
 der Wissenschaft missbraucht und getötet.**
@@ -53,88 +49,7 @@ und Landwirtschaft vorliegen. Hier eine Übersicht:
 
 ## Tierversuche in Deutschland
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}<br />.tg td{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}<br />.tg th{font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}<br />.tg .tg-0lax{text-align:left;vertical-align:top}<br /></style>
-
-<table class="tg">
-<tbody>
-<tr>
-<th class="tg-0lax">Mäuse</th>
-<td class="tg-0lax">1.963.337</td>
-<td class="tg-0lax">69.9%</td>
-</tr>
-<tr>
-<th class="tg-0lax">Ratten</th>
-<td class="tg-0lax">316.397</td>
-<td class="tg-0lax">11.3%</td>
-</tr>
-<tr>
-<th class="tg-0lax">Fische</th>
-<td class="tg-0lax">300.033</td>
-<td class="tg-0lax">10.7%</td>
-</tr>
-<tr>
-<th class="tg-0lax">Kaninchen</th>
-<td class="tg-0lax">94.816</td>
-<td class="tg-0lax">3.4%</td>
-</tr>
-<tr>
-<th class="tg-0lax">Vögel</th>
-<td class="tg-0lax">49.974</td>
-<td class="tg-0lax">1.8%</td>
-</tr>
-<tr>
-<th class="tg-0lax">Andere Nagetiere</th>
-<td class="tg-0lax">32.720</td>
-<td class="tg-0lax">1.2%</td>
-</tr>
-<tr>
-<th class="tg-0lax">Schweine</th>
-<td class="tg-0lax">18.221</td>
-<td class="tg-0lax">0.6%</td>
-</tr>
-<tr>
-<th class="tg-0lax">Amphibien &amp; Reptilien</th>
-<td class="tg-0lax">10.893</td>
-<td class="tg-0lax">0.4%</td>
-</tr>
-<tr>
-<th class="tg-0lax">Rinder</th>
-<td class="tg-0lax">6.357</td>
-<td class="tg-0lax">0.2%</td>
-</tr>
-<tr>
-<th class="tg-0lax">Primaten</th>
-<td class="tg-0lax">3.525</td>
-<td class="tg-0lax">0.1%</td>
-</tr>
-<tr>
-<th class="tg-0lax">Hunde</th>
-<td class="tg-0lax">3.334</td>
-<td class="tg-0lax">0.1%</td>
-</tr>
-<tr>
-<th class="tg-0lax">Schafe</th>
-<td class="tg-0lax">3.084</td>
-<td class="tg-0lax">0.1%</td>
-</tr>
-<tr>
-<th class="tg-0lax">Andere Spezies</th>
-<td class="tg-0lax">4.606</td>
-<td class="tg-0lax">0.2%</td>
-</tr>
-<tr>
-<th class="tg-0lax"></th>
-<td class="tg-0lax"></td>
-<td class="tg-0lax"></td>
-</tr>
-<tr>
-<th class="tg-0lax">Summe</th>
-<td class="tg-0lax">2.807.297</td>
-<td class="tg-0lax"></td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><th>Mäuse</th><td>1.963.337</td><td>69.9%</td></tr><tr><th>Ratten</th><td>316.397</td><td>11.3%</td></tr><tr><th>Fische</th><td>300.033</td><td>10.7%</td></tr><tr><th>Kaninchen</th><td>94.816</td><td>3.4%</td></tr><tr><th>Vögel</th><td>49.974</td><td>1.8%</td></tr><tr><th>Andere Nagetiere</th><td>32.720</td><td>1.2%</td></tr><tr><th>Schweine</th><td>18.221</td><td>0.6%</td></tr><tr><th>Amphibien &amp; Reptilien</th><td>10.893</td><td>0.4%</td></tr><tr><th>Rinder</th><td>6.357</td><td>0.2%</td></tr><tr><th>Primaten</th><td>3.525</td><td>0.1%</td></tr><tr><th>Hunde</th><td>3.334</td><td>0.1%</td></tr><tr><th>Schafe</th><td>3.084</td><td>0.1%</td></tr><tr><th>Andere Spezies</th><td>4.606</td><td>0.2%</td></tr><tr><th></th><td></td><td></td></tr><tr><th>Summe</th><td>2.807.297</td><td></td></tr></tbody></table>
 
 In den Versuchen werden den Tieren Gifte wie Nikotin oder Kokain injiziert und
 nach einer festgelegten Beobachtungsphase werden sie getötet. Laut PETA wird
@@ -253,9 +168,5 @@ Bild im Header:
 [Ärzte gegen Tierversuche e. V.](https://www.aerzte-gegen-tierversuche.de/de/neuigkeiten/3020-hinter-verschlossenen-tueren-grausame-tierversuche-in-hamburg-aufgedeckt)  
 [Tierbefreiung Hamburg](https://www.tierbefreiung-hamburg.org/)  
 [PETA](https://www.peta.de/erneuter-tierskandal-nach-schock-bildern-aus-tierversuchslabor-fordert-peta)
-
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fanne.reko%2Fposts%2F2736265443062234&amp;width=500" width="500" height="779" frameborder="0" scrolling="no"></iframe>
-
--->
 
   

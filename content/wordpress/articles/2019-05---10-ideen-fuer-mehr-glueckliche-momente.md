@@ -42,15 +42,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (50:40)"
+errors: {}
 subTitle: Achtsamkeit im Alltag
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (50:40)
-
-<!--
 **Eins haben wir wohl alle gemeinsam: Wir sehnen uns danach, glücklich zu sein.
 Leider ist das nicht immer so einfach - darum habe ich einige Ideen für mehr
 glückliche Momente zusammengestellt.**
@@ -79,31 +75,116 @@ Frage. Das bedeutet Überstunden, Stress und wieder keine Zeit, mit Deiner Chefi
 zu sprechen. Was für ein Teufelskreis, oder? Zum Glück gibt es ein paar
 Deeskalationsmöglichkeiten, die den Alltag wesentlich glücklicher machen.
 
+## 1. Lebe die Dankbarkeit
+
+Es gibt kaum etwas, das fast wie auf Knopfdruck für mehr **Glücksgefühle**
+sorgen kann, als Dankbarkeit. Du findest, das klingt seltsam? Das ist es gar
+nicht. Allerdings kann es sein, dass Du Dich anfangs ein bisschen in die Bahn
+bringen musst. Dabei kann es Dir helfen, jeden Tag ein paar Dinge
+aufzuschreiben, für die Du dankbar bist. Irgendwann geht das Ganze dann in
+Fleisch und Blut über und Du kannst Zettel und Stift weglassen. Überleg mal:
+Wann warst Du das letzte Mal dankbar und wofür?
+
 <RemoteImage alt={`glueckliche-momente`} size="large" title={``}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_Dankbarkeit.png__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_Dankbarkeit.png__l.jpg"
 loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAgCAYAAAD9oDOIAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAFX0lEQVRIiZ1V+09UVxC+/1h/8IemTRNtCik+KAIqCS12qyBPQYqw2iyCsCAr6rrvu/fevbu8lF1edldiCxJUEtBKLUR8QKLWRxQEH1/zHTnr1WKa9CSTmTtnzpyZb2bOVSaOlOLHbZm4UmVDr6sWoZgHfyfj+KP6B2R9sxmdu3LQf/oQMgIHMew7gamDJWj8LgtjTXW4rIWwOPE7rnja8dexchzO3wF1XwGUkbJCfLZpE0Z258DZuh+fe/ZhtFvHUpsd/rztSNnykTrTgM1aNWzuYkxUfo+ar79C+IgNzkATUn4vLrk7MFu3F1lffoGfs7+FMuOsxfyREvx5rAZR9SwyvcX4xXTDDLvh7dyPpM+JmdEUTnT7scNbidgZBxbOtKPdb0fW2XKMXLiI38YvYdrdiDn6+aUMSsiMItETxeWpK7jw6yW4/KfhUX1wqCdxINiMYKQHQ8mLmBybgK4ZCJpR6LE+uHUVZ1UfYpqJ+PAIEskUYroKM6JB0XQDIc0AuaaFETVMdEViiOoR9GgmjHAYaiiEUCgELRyGHtagaxqiRkTYaroGVVXFvqpHEDZMKIaug6RbiIbksa4udHV1wYxG0d3djVgsJrhhGGkbymla96XoVuU6RSIR4SAej6O/vx89PT1CPn/+PBKJBKLRKEzTFHbWYHTdAP0pUkFn5DQOBoM4deqU+BZpqarQSa5pWprLc5LrIlJLCtIpHdXU1KC+vh5VVVVoaGhAbW0t6urqUFlZiebmZtjtdng8HhH1xz4U6w28mSn5/X4cP34cLS0tcDgcQiZRJrlcLrHHywW+miZIOlekQ4kROW9ngYglicUh9fb2pgsmiWfkOYmxIr2fO3dOEItB6uvrE0VhoQYHB9PFko65J+14jt/Ua5r2PlKZgpXC4bBIURZLcurlvtV+w0IZHxFhGBgYEJHGEwkMDA5iaGhIQPOpM7p0aiVrF7BgW7duw/bt21CwZw9ycnKwZcsW0W7E09pSVlI2Ulp7j4cZcSLej1g0KmRZEKvdB31qfGKiiB2LI9faq1dpmRAwC9ptdF6RNxB0SUwrEAgIg+fPn+PWrVuYmZnBtWvX8PjxY1Ftr9f7QYF57oM+NU1TtAuLIjlbiW2y0UqlUu/aat2OZ2hLqHQrpqWlpSguLkZNdTUqKypQVFQkJqe1tRVOZytcHR1wOp1oampCZ2cnbDYbSksPoKKiHBXl5SgsLITP5xOYC6cMnXNttzegtaUFjQ6HmPmOjg7Baw8dEnv1hw+jrKxM6BsbG9He1oaTLhfa29vEWyBxVuiQglzLyytp+erVq2l5dW0Ny8vLQp6cnEzrV1ZWsLq6KmTCFggEoBBkVvrJkyeYn5/H9PQ0pqamxPfIyAgePHiA2dlZ3Lx5E/fu3cPLly8Fhg8fPsT169fFBXfv3hVOiWkwGHznlJjK9fr1a3Hw44isa3R0dEM934IgncqGlY+HJH6zK+RLxSg4nnxAWAfus1+Hh4fTnDBqfFBowIciPz9fjOP+n2zYvWuXGMejR48iLy8Pubm5KCkpQUFBATIzM8Wbmp2djbzcXNj2FmHnzhxkZGTA7XaLQP6VPlN/8/atkInt+wIuC2i4xsfH16F6g7frtlzMMBQKvXNKHJ4+fYr79+/jxo0buHPnThq7R48e4fbt21haWsKzZ8/SY8pJW1hYEHucMi4ORFAWit7ZFryVVV1cXBRGY2NjomUY/YsXL9ItlUwmsba2Juzm5uaEYy4+4EFZKPYq24K3M2ISnbClqKfMaEiMlkViVmw3ZkDiGRaS7Zl2yqblI8E/JIkjRx2nROrJ+S31tJHEbzr8z5f//xCd/gNTeQ8gmjchZgAAAABJRU5ErkJggg=="
 />
 
-<ol>
-    <li>
-## Lebe die Dankbarkeit
-Es gibt kaum etwas, das fast wie auf Knopfdruck für mehr  __Glücksgefühle__  sorgen kann, als Dankbarkeit. Du findest, das klingt seltsam? Das ist es gar nicht. Allerdings kann es sein, dass Du Dich anfangs ein bisschen in die Bahn bringen musst. Dabei kann es Dir helfen, jeden Tag ein paar Dinge aufzuschreiben, für die Du dankbar bist. Irgendwann geht das Ganze dann in Fleisch und Blut über und Du kannst Zettel und Stift weglassen. Überleg mal: Wann warst Du das letzte Mal dankbar und wofür? Hier ein paar Anregungen: 
-[Zugegeben: Es ist schon ziemlich verlockend, allen zu helfen. Ich freue mich auch gerne mit, wenn ich anderen wieder einen Stapel Arbeit abgenommen habe. Bis zu einem gewissen Punkt kann einen das auch ziemlich glücklich machen. Mal abgesehen davon, dass Vorgesetzte es meistens gerne sehen, wenn man flexibel und belastbar ist. Allerdings sollte man bei diesem Spiel seine Grenzen ganz genau kennen und im richtigen Moment auch mal nein sagen können.
+Hier ein paar Anregungen: [](/wp-content/uploads/2019/05/Dankbarkeit.png)
+
+### Es gibt viele Gründe, dankbar zu sein:
+
+Die Liebe zu Deiner Familie, Deine Gesundheit, Deine Freunde, dass Du letzte
+Nacht ruhig schlafen konntest, der **Frieden** bei uns im Land, dass Du jeden
+Tag saubere Kleidung hast, das leckere Mittagessen gestern und
+[die gute Musik](/2019/04/12-songs-fuer-den-mai/), die Du jeden Tag hören kannst
+sind nur einige davon. Die Liste lässt sich beliebig und je nach Tagesstimmung
+erweitern.
+
+## 2. Schenk Dir selbst ein Lächeln
+
+Auch, wenn es Dir gerade unpassend erscheint: Lächle, was das Zeug hält. Man
+möchte es kaum glauben: Es ist gesund. Dabei werden nicht nur massenhaft
+Endorphine ausgeschüttet, Du trainierst auch noch Deine Gesichtsmuskeln. Klingt
+gut, oder? Wenn das im Moment nicht so gut klappt oder (ich kenne das nur zu
+gut, glaub mir mir!) vor dem Spiegel irgendwie komisch aussieht: Du lächelst für
+Dich selbst! Der Gesichtsausdruck ist dabei Nebensache. Und ich kann Dir eines
+aus eigener Erfahrung verraten: Glücklich macht ein **Lächeln** auch dann, wenn
+es nach außen hin eher grumpy wirkt.
+
+Bei dieser kleinen Übung geht es nicht darum, Leute anzulächeln. Sie ist für
+Dich gedacht und Du kannst sie auch ganz für Dich alleine genießen. Dass ein
+Lächeln etwas sehr Intimes ist, kann ich sehr gut verstehen.
+[Ein kleines Anekdötchen dazu](/2017/09/chelsea-handler-maenner-frauen-laecheln/)
+findest Du übrigens auch hier im Blog.
+
+## 3. Vermeide Stress
+
+<RemoteImage alt={`glueckliche-momente`} size="large" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_Dankbarkeit2.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_Dankbarkeit2.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,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"
+/>
+
+Hör auf Dich selbst. Was löst Stress in Dir aus? Brauchst Du mehr Struktur in
+Deinem Alltag? Dann sorge dafür. Führe ein Journal, schreibe Einkaufslisten,
+lege einen Putzplan an. Ist es zu laut an Deinem Arbeitsplatz? Hast Du schon mal
+über Noise-Cancelling-Kopfhörer nachgedacht? Zieht es in Deinem Schlafzimmer?
+Dann Dichte das Fenster ab. Vielleicht reicht schon ein Teppich. Verlegst Du
+häufiger Dinge? Notiere Dir in Deinem Mobiltelefon, wo Du sie zuletzt hingelegt
+hast. Und vor allem: Leg zwischendurch Pausen ein, sorge für eine behagliche
+Atmosphäre, in der Du Dich wohlfühlst und mach es Dir gemütlich!
+[](/wp-content/uploads/2019/05/Dankbarkeit2.png)
+
+## 4. Geh mal wieder raus
+
+Draußen regnet es, im Fernsehen läuft nur Mist und der Kühlschrank brummt? Ab in
+die Gummistiefel und raus mit Dir! Das bringt Dich auf andere Gedanken -
+versprochen. Ich weiß, wie viel Überwindung das kosten kann, aber man ist immer
+ein bisschen glücklicher, wenn man sich nach ein paar Schritten vor der Haustür
+wieder ins Sofa sinken lassen kann. Ob es draußen stürmt und schneit oder die
+Sonne scheint, spielt dabei überhaupt keine Rolle. Es gibt schließlich kein
+schlechtes Wetter, sondern nur falsche Kleidung.
+
+Ich meine mit diesem Punkt übrigens nicht, dass Du Dich zwangsläufig mit
+Menschen zum Gutdraufsein verabreden sollst. An manchen Tagen funktioniert das
+eben einfach nicht. Und das ist auch völlig OK. **Frische Luft** um die Nase
+kann man schließlich auch alleine genießen und wer weiß: Vielleicht inspiriert
+sie Dich ja sogar zu einem gemütlichen Umtrunk mit Freunden. Nächste Woche oder
+so.
+
+## 5. Sag nein
+
+<RemoteImage alt={`glueckliche-momente`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-19-21-bielefeld-matze__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-19-21-bielefeld-matze__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMEBQb/xAAqEAACAgEDAgUDBQAAAAAAAAABAgMEEQAFEiExBhMUQVEHInEVIzJCgf/EABgBAAIDAAAAAAAAAAAAAAAAAAECAwQG/8QAHBEAAgMBAAMAAAAAAAAAAAAAAQIAAxESITFR/9oADAMBAAIRAxEAPwDH7PXinrxmtzMKAedbePmZXJ4rHwXBUduo7ds6lpUuQkyXYlWt5J9RPCufOwwj6nvkFeOBgHiT+W7Lbv8AKlSgkinsGYROiEKF7HjjPfHLAxkkHTPqLUprRhi2SnYnSbk3FC0cUaKST0b7iWyzk5xnp7az9dRcE+oyV9bMvf2xZLBaREkT+jsclh8nJ6H5GjUHwxdiuPb9XXi/b4BVKnCdCeIx/mjTOpQ8w8fJf+Bzt9OKluO4yxwzI62a1eIsBFgYDsScsTgEE9s6k7rvTX7dq9uFuCeKdlggao0wUEspPX+TEDln2JJGNYfcrVe6k6QXUjVIgAC2MHsQMe3bSYrklCrtsI4ArCVWQgDGevf8tnVxU0bJQ/IwCVrwTz7nuP6XJI8HqHYMmU5AscHH49tGrfw+0KbYs8tnhLYdndV9iDjr9p+NGizuDgiionzP/9k="
+/>
+
+Zugegeben: Es ist schon ziemlich verlockend, allen zu helfen. Ich freue mich
+auch gerne mit, wenn ich anderen wieder einen Stapel Arbeit abgenommen habe. Bis
+zu einem gewissen Punkt kann einen das auch ziemlich glücklich machen. Mal
+abgesehen davon, dass Vorgesetzte es meistens gerne sehen, wenn man flexibel und
+belastbar ist. Allerdings sollte man bei diesem Spiel seine Grenzen ganz genau
+kennen und im richtigen Moment auch mal nein sagen können.
 
 Nein sagen solltest Du zum Beispiel, wenn Du um etwas gebeten wirst, dass Du
 absolut nicht tun möchtest, weil es Deiner Einstellung widerspricht oder wenn Du
 jemandem zum wiederholten Male Arbeit abnimmst und dabei Gefahr läufst, dass
-Deine eigenen Projekten hinten runter kippen. <br /> Bist Du schon mal vom
-Shoppen nach Hause gekommen und hast Dich gefragt, warum zur Hölle Du nur dieses
-komische graue Oberteil erworben hast, das gar nicht zu Deinem Style passt? Wenn
-Du Dich der Verkäuferin gegenüber doch nur getraut hättet, ein klares "Nein"
-auszusprechen. <br /> Dass es nicht leicht ist, etwas abzulehnen, kann ich gut
-verstehen. Man muss sich schon selbst überwinden und auch mal aus dem
-Schneckenhaus rauskommen, um das zu tun. Es kann einem jedoch eine ganz schön
-schwere Last von den Schultern nehmen.</li> <li>
+Deine eigenen Projekten hinten runter kippen.
 
-## Erkenne Deine eigene Schönheit
+Bist Du schon mal vom Shoppen nach Hause gekommen und hast Dich gefragt, warum
+zur Hölle Du nur dieses komische graue Oberteil erworben hast, das gar nicht zu
+Deinem Style passt? Wenn Du Dich der Verkäuferin gegenüber doch nur getraut
+hättet, ein klares "Nein" auszusprechen.
+
+Dass es nicht leicht ist, etwas abzulehnen, kann ich gut verstehen. Man muss
+sich schon selbst überwinden und auch mal aus dem Schneckenhaus rauskommen, um
+das zu tun. Es kann einem jedoch eine ganz schön schwere Last von den Schultern
+nehmen.
+
+## 6. Erkenne Deine eigene Schönheit
 
 Du schaust in den Spiegel und siehst mal wieder nur Deine Augenringe und Deine
 abfallenden Schultern, die Deiner Meinung nach einfach gar nicht gehen. Dass Du
@@ -124,7 +205,95 @@ loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAgCAYAAAD9oDOIA
 Keine Sorge, falls Du nicht gleich zehn onder fünfzehn Dinge findest, die Du an
 Deinem Körper schön findest. Füge einfach ein paar positive Eigenschaften und
 Talente hinzu und schon hast Du eine umfangreiche Liste. Anschließend liest Du
-sie durch und bewunderst Dein neues Selbstbild. [
+sie durch und bewunderst Dein neues Selbstbild.
+[](/wp-content/uploads/2019/05/Dankbarkeit1.png)
+
+## 7. Setz Dich nicht selbst unter Druck
+
+Du hast die Fahrprüfung nicht auf Anhieb bestanden? Die Grafik, die Du gestaltet
+hast, sieht ganz anders aus, als Du sie Dir vorgestellt hattest? Du wolltest das
+Projekt am Freitag abschließen und hast immer noch nicht angefangen? Setz Dich
+nicht unter Druck! Mach Dir lieber einen Plan, wie Du es schaffen kannst, Dein
+**Ziel** zu erreichen und setze ihn nach und nach in die Tat um.
+
+Dabei kannst Du Dir kleine Zwischenziele stecken. Welchen Teil Deines Projekts
+planst Du wann fertigzustellen? Bis wann möchtest Du so fit sein, dass Du Dich
+erneut für die Prüfung anmelden kannst? Auch für den Tag, an dem Du Dein Ziel
+erreichen möchtest, legst Du ein bestimmtes Datum fest. Wenn Du es dann früher
+schaffst, hast Du was zu feiern: Es hat schließlich geklappt, ohne, dass Du Dich
+selbst unter Druck gesetzt hast. Du kannst stolz auf Dich sein!
+
+## 8. Schlaf häufiger aus
+
+<RemoteImage alt={`glueckliche-momente`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-19-21-bielefeld-matze-10__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-19-21-bielefeld-matze-10__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBAEF/8QALBAAAQMEAgEBBgcAAAAAAAAAAQIDBAAFERIhMQZRByIyQUJhExQVcYGRwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCMKbDFtjrJ2UHiMD6eOf8ADmuNpT+RkklrZKEKSjGFcEfCR+/VN/kXhws0a1sTrpH1lr2X+G0VFjBGygBy5xwOuq1zvE4Nvs8mRHuLDsdbhDDziUndWhwlRSDqOCOM+9g9CglE1tTjgynTA6or0ZK0sO6yEFrIBQCoHI9QfmKKButztwvV4bQ6A7MkLLaVAYDeCPdRj6U8j7nJ7FMHk3jgReLheYbpW63GjMLGxc5CdHCsgDspSAPQ1l9kLAcuC7g5HlSI8dKmG0xWg8tCiQckZAxgn+6pV0ZgC1XFMa23xh59Cl7/AKeOFAZHQOB9hQRWZLtzJU+2QlMh1xRYW0CGVZ+EFQIxjXrn1+VFL3k0oRH2yhJLEnaU2kthOux5Gp66x/FFB//Z"
+/>
+
+Jeden Morgen zum Sport, dann ins Büro, zwischendurch mit dem Hund in den Park
+und abends noch schnell Lebensmittel einkaufen. Dann hast Du noch einen
+HTML-Kurs, Du möchtest Dich mit Freunden treffen, den Frühjahrsputz endlich
+erledigen und die Lampe im Flur aufhängen. Bist Du Dir wirklich sicher? Atme mal
+durch! So und jetzt nimm Dir einen Stift und Deinen Kalender. Mach Dir ein Kreuz
+an allen Tagen im nächsten Monat, an denen Du **ausschlafen** möchtest.
+
+Das fühlt sich gut an, oder? Was außerdem nachweislich glücklicher macht, sind
+regelmäßige Zubettgezeiten - die lassen sich durchaus auch in einen turbulenten
+Alltag integrieren. Probier es mal aus, Du wirst den Unterschied schnell
+bemerken.
+
+## 9. Verzeihe
+
+Mit Deinem Kumpel herrscht seit mehreren Monaten Funkstille. Er hat sich etwas
+erlaubt, das Dich verletzt hat. Außerdem gärt es in Dir, weil Du Dich gestern
+Abend mit Deiner Frau gestritten hast. Seitdem hast Du nicht mehr mit ihr
+geredet. Worum es eigentlich gegangen ist, weißt Du nicht mehr, aber Dir geht es
+seitdem nicht gut. Weil Du so sauer bist, hat Dir vorhin noch nicht mal Dein
+Kaffee geschmeckt.
+
+Was Dir jetzt hilft, ist loslassen. Lass die **Vergangenheit** ruhen und
+verzeihe. Das muss nicht bedeuten, dass Du und Dein Kumpel wieder die engsten
+Freunde werdet, aber es befreit Dich und hilft Dir, Dich wieder auf positivere
+Dinge in Deinem Leben zu konzentrieren. Jeder ist ab und an gekränkt. Diese
+kleinen oder größeren Stiche zu verzeihen, ist ganz besonders wichtig für die
+seelische Balance. Das heißt nicht zwangsläufig auch, dass Du mit der Person,
+der Du verzeihst, Kontakt aufnehmen musst. Das kann aus den verschiedensten
+Gründen, die ich hier nicht weiter vertiefen möchte, schlichtweg nicht möglich
+sein. Wenn Du Dir jedoch selbst aktiv mitteilst, dass Du dieses Kapitel nun
+abhakst, wird es Dir wesentlich leichter fallen, weiterzumachen und wieder
+glücklich zu sein.
+
+<RemoteImage alt={`glueckliche-momente`} size="large" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_Dankbarkeit3.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_Dankbarkeit3.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,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"
+/>
+
+[](/wp-content/uploads/2019/05/Dankbarkeit3.png)
+
+## 10. Verschiebe das Glücklichsein nicht auf später
+
+Irgendwie neigt man ja immer dazu, alles Schöne auf später zu verschieben. "Wenn
+ich endlich ganz viel Geld verdiene, einen coolen Job habe, in Thailand bin oder
+zwei Kinder habe - dann bin ich glücklich." Warum erst dann? Das ergibt doch gar
+keinen Sinn? Warum nicht schon jetzt? Das ist doch viel schöner? Verschieben ist
+für Dinge vorgesehen, die keinen Spaß machen und **glücklich sein** macht Spaß!
+Also verschieb das Fenster putzen und geh in den Park. Da hast Du heute
+eindeutig mehr davon. Morgen ist es wieder kühler. Dann klappt das mit den
+streifenfreien Fenstern sowieso viel besser und dann hast Du automatisch morgen
+wieder etwas, an dem Du Dich erfreuen kannst.
+
+Wenn man immer auf den großen Knall wartet, der kommen wird, wenn man ein
+bestimmtes Ziel erreicht hat, führt das nur zu innerer Leere. Das neue Notebook
+ist endlich da? Klar, es ist schön und Du darfst Dich auch darüber freuen -
+klar. Allerdings wäre es doch viel schöner gewesen, die Wartezeit mit Vorfreude
+zu füllen und nicht mit Negativität. Statt zu fluchen, dass "die alte Mühle" so
+langsam geworden ist und sie ins Café zu schleppen ist eine Zumutung ist, weil
+sie so schwer ist, kann man sich auch freuen, dass bald modernere Zeiten
+anbrechen werden an der Digitalfront.
+
+<hr />
 
 ## Was ist das eigentlich "glücklich sein"?
 
@@ -139,7 +308,5 @@ weniger fröhlichen Phasen an sie zurückzudenken. Wenn Du das schaffst, bist Du
 schon ein gutes Stück glücklicher. Auch, wenn
 [das mit dem Lächeln](/2017/09/chelsea-handler-maenner-frauen-laecheln/)
 vielleicht im Moment nicht so gut klappt.
-
--->
 
   

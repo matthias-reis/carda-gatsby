@@ -106,7 +106,7 @@ Auch ich bin natürlich schon wieder fleißig am Planen und wie in jedem Jahr si
 ein paar kostbare Urlaubstage auch wieder für Open Air Veranstaltungen
 reserviert. In der Vergangenheit wurde traditionell das Southside besucht. Auch
 das Taubertal Festival, [Rock im Park](/2012/06/rock-im-park-2012/), das
-Rock´n`Heim, das [Herzberg Festival](/2012/08/burg-herzberg-festival-2012/), das
+Rock'n'Heim, das [Herzberg Festival](/2012/08/burg-herzberg-festival-2012/), das
 [A Summer's Tale](/2015/08/a-summers-tale-festival-2015/), das
 [Whiley Open Air](/2009/08/wiley-open-air-2009-ulm/), das Hurricane und das
 [Isle Of Wight](/2012/07/isle-of-wight-festival-2012/) habe ich schon bereist.

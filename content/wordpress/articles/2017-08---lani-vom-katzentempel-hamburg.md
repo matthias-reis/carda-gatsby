@@ -45,15 +45,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <i> (214:95)"
+errors: {}
 subTitle: Frühstück im Katzencafé
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;i> (214:95)
-
-<!--
 **Im _Katzentempel_ am Kleinen Schäferkamp 24 in Hamburg kann man nicht nur
 Frühstück, Mittag und Abendessen genießen, sondern dabei auch noch sechs
 Samtpfoten begegnen. Die Betreiberin Rilana Rentsch habe ich dort jetzt zum
@@ -223,7 +219,7 @@ erklären, als dass sie in frühester Kindheit schon eingebläut bekommen haben,
 dass Tiere nichts wert sind. Wie soll ein Kind den Umgang mit Tieren lernen,
 wenn der Vater im Garten den Maulwurf mit der Schaufel erschlägt?
 
-Bei diesem „Den einen essen, den anderen streicheln“ tun ja immer alle so, als
+Bei diesem "Den einen essen, den anderen streicheln" tun ja immer alle so, als
 wäre es schon immer so gewesen. Alle hängen sich an der Tradition auf. Natürlich
 gab es wohl schon immer leichte Unterschiede. Aber eben nicht in einer so
 extremen Ausprägung, wie wir sie heute haben und in einer ganz anderen Art und
@@ -298,11 +294,17 @@ mit denen Du Kooperationen hast?
 
 ## "Ich arbeite mit den Puss In Boots zusammen"
 
-**\_Lani:** Meine Hauptpartner in Sachen Tierschutz sind die <i>Puss In Boots* .
-Von ihnen stammen auch fünf der Katzen im \_Katzentempel* . Kara lebt in
-Deutschland und ihre Mutter in Irland, wo auch die Auffangstation für die Katzen
-ist. Ursprünglich wurde sie für Greyhounds gegründet. Allerdings wurden dann
-immer mehr kleine Katzen gebracht. _Puss In Boots_ war geboren.
+<RemoteImage alt={`Katzentempel`} size="medium" title={``}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36592928171_92f6f6e842_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36592928171_92f6f6e842_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBQYHA//EACgQAAEEAQMEAgEFAAAAAAAAAAECAwQRBQASIQYxQWEiUQcTFEJxof/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABwRAQACAwADAAAAAAAAAAAAAAEAAgMRIQQxUf/aAAwDAQACEQMRAD8AtXUODfkZBmWQ0mNs+bq1hKUUCOSe2oF0YqHCdhJyDahXzfRZb3EAJAvlRsdgK98a7/kHJqdyohqUr9OGgNBP0Tajx/atVtjCRc22mM5IcZkG1JUgmq8g1z70rr3UGPDV02liwvUMcZPCQiVyXkymUmRVocJTtsHz/I361C9VYqSrLZWf+2eMVuUoLdSkFItRqwe+nw8W909mhKbjLONilLm9wilkVtPpQV2P+a0xKcdlJAeUiW2XWw4DHlrDSru622ODweO+pUs22MfkYuCTBczKfayDzbjqnFtrKCsk2rbxZuz4+9TXReTcayTbhG9RUGuT4Vfr1o0ao+mKoABGdf8AWMuPko+EisobMv5KfJspCeeE1673pI+eltNdKQ29qQuOt5DnIW2sLN8irBBog/WjRrPvXZoPk//Z"
+/>
+
+**Lani:** Meine Hauptpartner in Sachen Tierschutz sind die _Puss In Boots_ . Von
+ihnen stammen auch fünf der Katzen im _Katzentempel_ . Kara lebt in Deutschland
+und ihre Mutter in Irland, wo auch die Auffangstation für die Katzen ist.
+Ursprünglich wurde sie für Greyhounds gegründet. Allerdings wurden dann immer
+mehr kleine Katzen gebracht. _Puss In Boots_ war geboren.
 
 Von der zweiten Organisation, den _Flying Cats_ , stammt Keshia aus
 Griechenland.
@@ -424,11 +426,5 @@ Die _Puss In Boots_ haben auch eine Seite,
 [besucht sie mal](http://www.irish-pibar.de/) !
 
 Zu den  _Flying Cats_ geht es [hier entlang](http://www.flying-cats.de/).
-
-Merken
-
-Merken
-
--->
 
   

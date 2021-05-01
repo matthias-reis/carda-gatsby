@@ -7,9 +7,11 @@ typeName: Artikel
 title: 12 Songs für den Juni
 seoTitle: 12 Songs für den Juni - die drei von der Bande legen auf
 ogTitle: 12 Songs für den Juni - die drei von der Bande legen auf
-description: Für den Juni haben wir wieder 12 ganz besondere Songs für Euch in
-  eine Playlist gepackt. Wir wünschen Euch viel Freude beim Hören.
-excerpt: Für den Juni haben wir wieder 12 ganz besondere Songs für Euch in eine
+description:
+  Für den Juni haben wir wieder 12 ganz besondere Songs für Euch in eine
+  Playlist gepackt. Wir wünschen Euch viel Freude beim Hören.
+excerpt:
+  Für den Juni haben wir wieder 12 ganz besondere Songs für Euch in eine
   Playlist gepackt. Wir wünschen Euch viel Freude beim Hören.
 fileName: 2020-05---12-songs-fuer-den-juni.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_12-songs-fuer-den-juni-1.png__m.jpg
@@ -42,18 +44,11 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Die drei von der Bande legen auf
-  
 ---
 
 **Es ist schon wieder ein Monat vorbei! Wo ist die Zeit nur geblieben? In Musik
 gerechnet ist ziemlich viel davon vergangen. In Tagen an der frischen Luft eher
 weniger. Doch was soll's. Hier geht's schließlich um Ersteres.**
-
-<RemoteImage alt={`songs`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_12-songs-pin-juni__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_12-songs-pin-juni__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcCBgUICf/EACoQAAEDAgUEAQQDAAAAAAAAAAECAwQFEQAGEiExBxNBUSIUFTJhUnGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAHBEAAgMAAwEAAAAAAAAAAAAAAREAAgMSIkFh/9oADAMBAAIRAxEAPwBoZydqtFy3nCpioT5LceE45HYfLYb33UAUjV8d0i/vzzjXDq3U84x47tPq0yZGhyGReA1JKmHGwEhKrBSgd07gHnxhidRc7ZczB08zMiFLeLpiJTH7zKkuLVqTqCjxtYW3PJwn+jEmDA6o5RkI7YX9wQ0QF3uFhSQT+7q/wYPhnXEcRZv4pTNpQamFL7RIdW6BpVqB2A/G23rBjojk3NcDM0+rQYiJSHacI61qktBGpL7QcRYD0DY33uDgwpSGYhaRR5Lc+lhyU2lEFaFJaLpNvjYAWTZRsPP7vfFwzNKQxl6Q7DZL77cclTYIT3HAbi2rYc2sf4384q8WNRqfmHIsGGxTWaiJTTjnYIU4U/TuG5I5Gq29+RiHU+OBS8xuhx9p5Lznyc1dkNgpIVextvtbfj2cB8QAEUxfsJjYWYKwqmR/oIkAq1L7pkPpbIOr8dIKbW3N+SCPWDCdkNTO4G5z1PDiUgpCX0DY7f1yDtyPODGgysfRMjtUFIz/2Q=="
-/>
 
 Wir haben in den vergangenen Wochen wieder einiges an Musik gehört und lange
 überlegt und geplant, welche Künstler⋆innen es am Ende in diesen Artikel
@@ -229,12 +224,6 @@ Song von den Herrschaften für Euch bereitgestellt.
 
  <YouTube id="mYa02QAcAkA" />
 
-## Unsere Playlist auf Spotify
+## Unsere Playlists
 
- <YouTube id="playlist/7z2UgP1btP8Sa7sboX5UX3" />
-
-## Unsere Playlist bei iTunes
-
-<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-05-25-die-drei-von-der-bande/pl.u-29NyT8b5452" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
-
-  
+ <Playlist spotify="7z2UgP1btP8Sa7sboX5UX3" itunes="2020-05-25-die-drei-von-der-bande/pl.u-29NyT8b5452" />

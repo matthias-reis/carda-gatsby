@@ -7,12 +7,13 @@ typeName: Artikel
 title: Musikliste März
 seoTitle: Musikliste März – 12 Songs für den Frühlingsanfang
 ogTitle: Musikliste März – 12 Songs für den Frühlingsanfang
-description: Am 20. März geht der Frühling los. Um uns darauf einzustimmen,
-  haben wir eine Musikliste mit 12 wunderbaren Songs zusammengestellt.
-excerpt: Am 20. März geht der Frühling los. Um uns darauf einzustimmen, haben
-  wir eine Musikliste mit 12 wunderbaren Songs aus den verschiedensten
-  zusammengestellt. Auf eine gute Dosis Post-Rock haben wir natürlich nicht
-  verzichtet.
+description:
+  Am 20. März geht der Frühling los. Um uns darauf einzustimmen, haben wir eine
+  Musikliste mit 12 wunderbaren Songs zusammengestellt.
+excerpt:
+  Am 20. März geht der Frühling los. Um uns darauf einzustimmen, haben wir eine
+  Musikliste mit 12 wunderbaren Songs aus den verschiedensten zusammengestellt.
+  Auf eine gute Dosis Post-Rock haben wir natürlich nicht verzichtet.
 fileName: 2021-02---musikliste-maerz.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_12-songs-maerz-blog__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_12-songs-maerz-blog__l.jpg
@@ -51,7 +52,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: 12 Songs für den Frühlingsbeginn
-  
 ---
 
 **Am 20. März geht der Frühling los. Um uns darauf einzustimmen, haben wir eine
@@ -63,12 +63,6 @@ Schneeglöckchen sprießen schon! Musikalisch untermalt wird das von 12 genialen
 Projekten aus den verschiedensten Genres. Die Songs habe ich wie immer gemeinsam
 mit Matze und Valentin rausgesucht, die mich in einer anderen Zeit regelmäßig zu
 Konzerten begleitet haben.
-
-<RemoteImage alt={`Musikliste`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_12-songs-maerz-1__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_12-songs-maerz-1__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHAwb/xAApEAABBAEDAwMEAwAAAAAAAAABAgMEEQUABiEHEjETFUEUIlFxIzKB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAIREAAAYCAQUAAAAAAAAAAAAAAAECAxESEyHwBCNBYYH/2gAMAwEAAhEDEQA/ANQIOysyqVkpr0KO7H9MlxovAOqFpIq/PabvUV6h5CBnN3uZGIVOsKQ0grWgItaUgHgHwaNVql7cVJ6hSIuL3e4p/FLYVNQ3EbEZ3vb7UlQVZtILihXN8HXDdQ9t4PDb2Rh8XFybaHfTU36r5cK0qRyDx5Cxfj4rUkNURVOhUuoUpcunY49CjNYPF5bultO47DRVmm0KdUsrIACjzdC/xXk6NZbj2phYrjCsLumEGXgVlMh0AgfHBqj5v/NGo3IOoT6Pzcc5veMcxj1R8RBwbjIYkO/UNtud7ZK0kgFIUQTyTX6051E2LmN+bhdzezX8R7IxHDbTTzyW3G/TNuEJolP3DzfP6OuO2VB94cz2JYlBlMrGuKDqGqCFBxsix/aqsUPzqgy5Gfg4zGN7djRU5Vlcky5ZWgIdZW2m0EnldAKsEfbxXOtO5MA2u3ljzHOb+CNzNwPSlofTHdAWhNd6SqxXHJ0aaxmXMOBHYbhMvdqB/IsWVCuPn4A0aRMoIDIof//Z"
-/>
 
 Kocht Euch am besten einen Kaffee oder macht Euch ein Bierchen auf, setzt die
 Kopfhörer auf die Ohren, macht es Euch gemütlich und genießt den Sound. Ganz
@@ -250,12 +244,7 @@ Matze:
 
  <YouTube id="lkZd2lBQb2c" />
 
-## Musikliste bei Spotify
+## Unsere Playlists
 
- <YouTube id="playlist/0ialZJpNBfqvR6hSblZXsV" />
-
-## Musikliste bei iTunes
-
-<iframe src="https://embed.music.apple.com/de/playlist/2021-02-25-rock-n-roll-vegan/pl.u-WJ03TEkXBXN" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" data-mce-fragment="1"></iframe>
-
-  
+<Playlist spotify="0ialZJpNBfqvR6hSblZXsV"
+itunes="2021-02-25-rock-n-roll-vegan/pl.u-WJ03TEkXBXN" />

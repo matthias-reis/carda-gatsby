@@ -31,41 +31,33 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <sub> (12:86)"
+errors: {}
 subTitle: 16-jährige Schülerin demonstriert in China
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;sub> (12:86)
-
-<!--
 **Junge Menschen streiken derzeit weltweit für eine bessere Klimapolitik. Die
 Schwedin Greta Thunberg gilt als Vorreiterin der Bewegung. Jetzt sorgt wieder
 ein Mädchen für Aufmerksamkeit: Howey Ou geht im chinesischen Guilin ganz
 alleine auf die Straße.**
 
 Laut eigener Aussage will Howey so lange streiken, bis die chinesische Regierung
-ein eindeutiges Klimaversprechen macht. Das Land ist derzeit der größte CO<sub>2
-</sub> Verursacher weltweit. Sie fordert, dass alle Länder entsprechende
+ein eindeutiges Klimaversprechen macht. Das Land ist derzeit der größte
+CO<sub>2</sub> Verursacher weltweit. Sie fordert, dass alle Länder entsprechende
 Maßnahmen ergreifen.
 
 > I will keep doing Climate Strike everyday before I got next plan that maybe
 > build international connections with some organizations then strengthen power
-> outsides to insides .Hope all is well.Globally. — Howey Ou (@howey_ou)
-> [May 24, 2019](https://twitter.com/howey_ou/status/1132004463311409153?ref_src=twsrc%5Etfw)
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+> outsides to insides .Hope all is well.Globally. —
+> [Howey Ou (@howey_ou) May 24, 2019](https://twitter.com/howey_ou/status/1132004463311409153?ref_src=twsrc%5Etfw)
 
 Seit letztem Freitag befindet sich die Schülerin jetzt im Streik. Sie prangert
 an, dass China sich in der Debatte um den Klimaschutz bisher sehr bedeckt
 gehalten hat.
 
 > This is the Day 2 of School Striking for Climate.
-> [pic.twitter.com/5lEesOgX29](https://t.co/5lEesOgX29) — Howey Ou (@howey_ou)
-> [May 27, 2019](https://twitter.com/howey_ou/status/1133082582004903939?ref_src=twsrc%5Etfw)
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+> [pic.twitter.com/5lEesOgX29](https://t.co/5lEesOgX29) —
+> [Howey Ou (@howey_ou) May 27, 2019](https://twitter.com/howey_ou/status/1133082582004903939?ref_src=twsrc%5Etfw)
 
 Von widrigen Umständen wie Regenwetter oder Personen, die sie in ihrem
 Aktivismus bremsen möchten, lässt sie sich dabei nicht aufhalten. Ihr erklärtes
@@ -89,10 +81,8 @@ Chinesischen Festland."
 > than I thought.And it has about 21 kilometers from my home.And I didn’t stay
 > there long ,feel guilty to say. But I will keep on doing it everyday,till get
 > next plan.Hope to have next development.I can wait
-> [pic.twitter.com/DAiEmlFkvo](https://t.co/DAiEmlFkvo) — Howey Ou (@howey_ou)
-> [May 24, 2019](https://twitter.com/howey_ou/status/1131951492913541121?ref_src=twsrc%5Etfw)
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+> [pic.twitter.com/DAiEmlFkvo](https://t.co/DAiEmlFkvo) —
+> [Howey Ou (@howey_ou) May 24, 2019](https://twitter.com/howey_ou/status/1131951492913541121?ref_src=twsrc%5Etfw)
 
 Der Presse gegenüber gibt die junge Aktivistin bisher nichts von sich preis. Sie
 fürchtet die Folgen, die das für sie und ihre Familie nach sich ziehen könnte.
@@ -109,20 +99,11 @@ Dass sie ganz alleine mit ihren Plakaten losgezogen ist, um sich vor dem
 Regierungsgebäude in Guilin zu postieren, das 21 Kilometer von ihrem Zuhause
 entfernt ist, zeigt mehr als nur Mut.
 
-<blockquote>
-
-The Day 3 of School Strike for Climate.If you don’t trust me ,look at the
-Chinese flag. Thank you for all your support and the strikers who are panic.I
-have seen all your reviews carefully,though some of them I didn’t reply.
-
-Sorry! [pic.twitter.com/L0VU8uO6WY](https://t.co/L0VU8uO6WY)
-
-— Howey Ou (@howey_ou)
-[May 28, 2019](https://twitter.com/howey_ou/status/1133366733505421313?ref_src=twsrc%5Etfw)
-
-</blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+> The Day 3 of School Strike for Climate. If you don’t trust me, look at the
+> Chinese flag. Thank you for all your support and the strikers who are panic.I
+> have seen all your reviews carefully,though some of them I didn’t
+> reply.<br />Sorry! [pic.twitter.com/L0VU8uO6WY](https://t.co/L0VU8uO6WY) —
+> [Howey Ou (@howey_ou) May 28, 2019](https://twitter.com/howey_ou/status/1133366733505421313?ref_src=twsrc%5Etfw)
 
 ### Quellen:
 
@@ -133,9 +114,5 @@ Sorry! [pic.twitter.com/L0VU8uO6WY](https://t.co/L0VU8uO6WY)
 ### Bilder:
 
 Howey Ou privat ( [Twitter](https://twitter.com/howey_ou) )
-
-&nbsp;
-
--->
 
   

@@ -7,11 +7,12 @@ typeName: Artikel
 title: 10 Songs für den April 2019
 seoTitle: 10 Songs für den April - Ausgewählt von den drei von der Bande
 ogTitle: 10 Songs für den April - Ausgewählt von den drei von der Bande
-description: Bevor der April um die Ecke kommt, gibt es erstmal was auf die
-  Ohren Hier kommen unsere 10 Songs für Euch - liebevoll ausgewählt und
-  kommentiert.
-excerpt: Bevor der April um die Ecke kommt, gibt es erstmal was auf die Ohren
-  Hier kommen unsere 10 Songs für Euch - liebevoll ausgewählt und kommentiert.
+description:
+  Bevor der April um die Ecke kommt, gibt es erstmal was auf die Ohren Hier
+  kommen unsere 10 Songs für Euch - liebevoll ausgewählt und kommentiert.
+excerpt:
+  Bevor der April um die Ecke kommt, gibt es erstmal was auf die Ohren Hier
+  kommen unsere 10 Songs für Euch - liebevoll ausgewählt und kommentiert.
 fileName: 2019-03---10-songs-fuer-den-april-2019.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_03_Kopie-von-10-Songs-fu%CC%88r-den-Ma%CC%88rz__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_03_Kopie-von-10-Songs-fu%CC%88r-den-Ma%CC%88rz__l.jpg
@@ -69,7 +70,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Ausgewählt und präsentiert von den drei von der Bande
-  
 ---
 
 **Bald heißt es wieder "April, April!" - doch bis es soweit ist, gibt es erst
@@ -98,11 +98,6 @@ geschafft. Was nicht bedeutet, dass es nicht genial ist.
     Bässen bis zum Horizont. Schade, dass Du gegangen bist, Keith. Wir vermissen
     Dich. <YouTube id="x3GQkZa6kXA" />
 
-<h4>Die komplette Liste könnt Ihr Euch auf Spotify hier anhören
- <YouTube id="user/1121757456/playlist/4JFNEgbt4YmsgzDBN0zgDE" /> </h4>
+### Die komplette Liste könnt Ihr Euch auf Spotify und iTunes anhören
 
-### Apple Musik Fans werden hier glücklich
-
-<iframe style="width: 100%; max-width: 300px !important; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2019-03-25-die-drei-von-der-bande/pl.u-2maDT8b5452?app=music" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
-
-  
+ <Playlist spotify="4JFNEgbt4YmsgzDBN0zgDE" itunes="2019-03-25-die-drei-von-der-bande/pl.u-2maDT8b5452?app=music" />
