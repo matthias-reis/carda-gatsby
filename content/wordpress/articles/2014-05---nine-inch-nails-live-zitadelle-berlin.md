@@ -5,14 +5,16 @@ path: /2014/05/nine-inch-nails-live-zitadelle-berlin/
 type: Artikel
 typeName: Konzertbericht
 title: NINE INCH NAILS live @Zitadelle Berlin
-seoTitle: NINE INCH NAILS live @ Zitadelle Berlin - "We have a lotta shit für you!"
-ogTitle: NINE INCH NAILS live @ Zitadelle Berlin - "We have a lotta shit für you!"
-description: NINE INCH NAILS - Am 15. Mai war es endlich so weit und wir durften
-  Trent Reznor und seine Band in Berlin live sehen. Für mich das Konzert des
-  Jahres.
-excerpt: NINE INCH NAILS - Am 15. Mai war es endlich so weit und wir durften
-  Trent Reznor und seine Band in Berlin live sehen. Für mich das Konzert des
-  Jahres.
+seoTitle:
+  NINE INCH NAILS live @ Zitadelle Berlin - "We have a lotta shit für you!"
+ogTitle:
+  NINE INCH NAILS live @ Zitadelle Berlin - "We have a lotta shit für you!"
+description:
+  NINE INCH NAILS - Am 15. Mai war es endlich so weit und wir durften Trent
+  Reznor und seine Band in Berlin live sehen. Für mich das Konzert des Jahres.
+excerpt:
+  NINE INCH NAILS - Am 15. Mai war es endlich so weit und wir durften Trent
+  Reznor und seine Band in Berlin live sehen. Für mich das Konzert des Jahres.
 fileName: 2014-05---nine-inch-nails-live-zitadelle-berlin.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_05_nine-inch-nails-citadel-music-festival-berlin-1291__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_05_nine-inch-nails-citadel-music-festival-berlin-1291__l.jpg
@@ -38,14 +40,12 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (87:18)"
+  invalidMdx: 'unknown: Expected corresponding JSX closing tag for <p> (87:18)'
 subTitle: '"We have a lotta shit for you!"'
-  
 ---
 
 ## unknown: Expected corresponding JSX closing tag for &lt;p> (87:18)
 
-<!--
 **Bereits im November letzten Jahres hatten Matze, Valentin und ich uns über den
 N** **INE IN** **CH N** **AILS Fanclub Tickets für den Auftritt auf dem Citadel
 Music Festival in der Spandauer Zitadelle besorgt.**
@@ -153,6 +153,7 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 
 Me, I'm Not</li> <li>Sanctified</li> <li>The Beginning Of The End</li> <li>March
 Of The Pigs</li> <li>Piggy</li> <li>All Time Low</li> <li>Disappointed</li>
+
 <li>The Becoming</li> <li>Came Back Haunted</li> <li>Find My Way</li>
 <li>Various Methods Of Escape</li> <li>Survivalism</li> <li>The Warning</li>
 <li>Copy Of A</li> <li>The Great Destroyer</li> <li>Hand Covers Bruise</li>
@@ -165,5 +166,3 @@ Like A Hole</li> <li>Closer</li> <li>The Day The World Went Away</li>
 &nbsp;
 
 -->
-
-  
