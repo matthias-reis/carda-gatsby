@@ -1,0 +1,55 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: templateKey
+  label: templateKey
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: slug
+  label: slug
+- type: text
+  name: typeName
+  label: typeName
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subTitle
+  label: subTitle
+- type: text
+  name: seoTitle
+  label: seoTitle
+- type: textarea
+  name: description
+  label: description
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: file
+  name: image
+  label: image
+- type: file
+  name: ogImage
+  label: ogImage
+- type: list
+  name: labels
+  label: labels
+- type: text
+  name: focusKeyword
+  label: focusKeyword
+- type: boolean
+  name: advertisement
+  label: advertisement
+- type: boolean
+  name: affiliate
+  label: affiliate
+- type: text
+  name: language
+  label: language
+- type: text
+  name: languageLink
+  label: languageLink
