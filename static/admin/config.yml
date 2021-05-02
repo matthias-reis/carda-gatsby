@@ -7,7 +7,6 @@ backend:
     delete: 'cms: Delete “{{slug}}”'
     uploadMedia: 'cms media: [skip ci] Upload “{{path}}”'
     deleteMedia: 'cms media: [skip ci] Delete “{{path}}”'
-
 media_folder: static/img
 public_folder: /img
 publish_mode: editorial_workflow
@@ -163,7 +162,7 @@ collections:
           hint: 'Für Übersichtsseiten - Fallback: Description',
         }
       - { label: 'Text', name: 'body', widget: 'markdown' }
-      - { label: 'Hauptbild', name: 'image', widget: image }
+      - { label: 'Hauptbild', name: 'image', widget: image, required: false }
       - { label: 'Social Media Bild', name: 'ogImage', widget: image }
       - { label: 'Labels', name: 'labels', widget: 'list' }
       - {
