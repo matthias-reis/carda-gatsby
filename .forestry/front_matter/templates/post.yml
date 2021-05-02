@@ -10,7 +10,7 @@ fields:
 - name: year
   type: text
   config:
-    required: true
+    required: false
     min: 4
     max: 4
   label: Jahr
