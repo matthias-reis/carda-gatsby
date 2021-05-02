@@ -30,8 +30,6 @@ languageLink: smycka-interview-en
 ---
 ## "Vieles im Leben ist von Natur aus kafkaesk"
 
-[🇬🇧 Click here for English version](#⋆)
-
 **Smyčka hatten Lust auf ein Interview. Weil mich die Geschichte der Band ziemlich fasziniert und ich das Debüt-Album "Fated" ziemlich klasse finde, habe ich mich sehr darüber gefreut.**
 
 Sängerin Julia, Drummer Anton und Gitarrist und Gründer der Band Vasily haben mir einiges über die Entstehung ihrer gerade veröffentlichten Platte, die Post-Music Szene in Russland und ihre Schwäche für Franz Kafkas Geschichten erzählt.
