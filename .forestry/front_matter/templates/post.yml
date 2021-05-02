@@ -54,4 +54,5 @@ fields:
   name: languageLink
   label: languageLink
 pages:
+- content/articles/smycka-im-interview.md
 - content/articles/test-weiter.md
