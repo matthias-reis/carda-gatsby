@@ -24,3 +24,9 @@ Test
 Hier geht's weiter mit Markdown ...
 
 bla weiter
+
+### Hallo
+
+wie gehts
+
+![](/img/smycka.jpg)
