@@ -53,3 +53,5 @@ fields:
 - type: text
   name: languageLink
   label: languageLink
+pages:
+- content/articles/test-weiter.md
