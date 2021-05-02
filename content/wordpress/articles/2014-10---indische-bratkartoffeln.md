@@ -6,7 +6,7 @@ type: Artikel
 typeName: Rezept
 title: Scharfe Bratkartoffeln
 seoTitle: Indische Bratkartoffeln - Scharf und lecker
-ogTitle: Indische Bratkartoffeln - Scharf und lecker
+ogTitle: Indische Bratkartoffeln – pikant und lecker
 description: Heute möchte ich Euch ein ganz besonderes Rezept aus meiner Küche verraten
   - Auf den Tisch kommen schmackhafte, leckere Indische Bratkartoffeln.
 excerpt: Ihr habt Lust auf Bratkartoffeln? Gleichzeitig wollt Ihr aber auch noch was
