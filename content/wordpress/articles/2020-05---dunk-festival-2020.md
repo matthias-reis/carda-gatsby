@@ -7,10 +7,12 @@ typeName: Artikel
 title: DUNK!festival 2020
 seoTitle: DUNK! Festival 2020 - 28 ganz besondere Songs
 ogTitle: DUNK! Festival 2020 - 28 ganz besondere Songs
-description: Diese Musikliste besteht aus 28 ganz besonderen Stücken - die
-  Musiker⋆innen wären alle auf dem DUNK! 2020 Festival aufgetreten.
-excerpt: Diese Musikliste besteht aus 28 ganz besonderen Stücken - die
-  Musiker⋆innen wären alle auf dem DUNK! 2020 Festival aufgetreten.
+description:
+  Diese Musikliste besteht aus 28 ganz besonderen Stücken - die Musiker⋆innen
+  wären alle auf dem DUNK! 2020 Festival aufgetreten.
+excerpt:
+  Diese Musikliste besteht aus 28 ganz besonderen Stücken - die Musiker⋆innen
+  wären alle auf dem DUNK! 2020 Festival aufgetreten.
 fileName: 2020-05---dunk-festival-2020.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_dunk-2020__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_dunk-2020__l.jpg
@@ -35,7 +37,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: 28 ganz besondere Songs
-  
 ---
 
 **Heute möchte ich eine Musikliste mit Euch teilen, die für mich eine ganz
@@ -336,13 +337,9 @@ momentan sehr. Solkyri stammen genau wie We Lost The Sea aus Sydney.
 
 Hier kommen die versprochenen Playlisten:
 
-## iTunes
+## Playlists
 
-<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-05-20-dunk-2020/pl.u-xoK2HA70b0v" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
-
-## Spotify
-
- <YouTube id="playlist/7xmA32cuOg5E2xHhhdqWlX" />
+<Playlist itunes="2020-05-20-dunk-2020/pl.u-xoK2HA70b0v" spotify="7xmA32cuOg5E2xHhhdqWlX" />
 
 Viel Spaß beim Hören. Bleibt Eurem Festival treu. Wer noch nicht genug hat und
 gerne weitere Bands aus diesem Genre kennenlernen möchte,
@@ -363,5 +360,3 @@ Er wurde vor ein paar Tagen gegründet und sendet rund um die Uhr.
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
 Artwork: [Error! Design](https://error-design.com/)
-
-  

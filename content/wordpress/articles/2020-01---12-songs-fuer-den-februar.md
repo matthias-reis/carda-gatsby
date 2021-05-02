@@ -7,11 +7,12 @@ typeName: Artikel
 title: 12 Songs für den Februar
 seoTitle: 12 Songs für den Februar - frisch ausgesucht
 ogTitle: 12 Songs für den Februar - frisch ausgesucht
-description: Im Januar war ja musikalisch echt schon einiges los. Wir haben
-  wieder eine starke Hörliste für Euch zusammengestellt - mit ziemlich genialen
-  Songs.
-excerpt: Im Januar war ja musikalisch echt schon einiges los. Wir haben wieder
-  eine starke Hörliste für Euch zusammengestellt - mit ziemlich genialen Songs.
+description:
+  Im Januar war ja musikalisch echt schon einiges los. Wir haben wieder eine
+  starke Hörliste für Euch zusammengestellt - mit ziemlich genialen Songs.
+excerpt:
+  Im Januar war ja musikalisch echt schon einiges los. Wir haben wieder eine
+  starke Hörliste für Euch zusammengestellt - mit ziemlich genialen Songs.
 fileName: 2020-01---12-songs-fuer-den-februar.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_12-Songs-Header.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_12-Songs-Header.png__l.jpg
@@ -50,9 +51,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Präsentiert von den drei von der Bande
-  
 ---
 
 **Im Januar war ja musikalisch echt schon einiges los. Wir haben wie jeden Monat
@@ -68,30 +67,57 @@ Playbutton drücken.
 
 ### Caspian - "Ishmael" vom Album "On Circles"
 
-<p class="p1">Matze meint: "Vor zwei Monaten hatte ich schon die erste Singleauskopplung  [in unserer Liste](/2019/11/13-songs-fuer-den-dezember/).  Jetzt ist das wundervolle Album erschienen, das insgesamt fast an seinen genialen Vorgänger "Dust and Disquiet" heranreicht. 'Ishmael' ist der siebenminütige, gewaltige vorletzte Track. Er schaukelt sich über einige schräge Violinenklänge in altbekannte Post-Rock Höhen hoch und gewinnt mich damit bei jedem Hören mehr."
- <YouTube id="G4MR6_HvckU" /> </p>
+Matze meint: "Vor zwei Monaten hatte ich schon die erste Singleauskopplung
+[in unserer Liste](/2019/11/13-songs-fuer-den-dezember/). Jetzt ist das
+wundervolle Album erschienen, das insgesamt fast an seinen genialen Vorgänger
+"Dust and Disquiet" heranreicht. 'Ishmael' ist der siebenminütige, gewaltige
+vorletzte Track. Er schaukelt sich über einige schräge Violinenklänge in
+altbekannte Post-Rock Höhen hoch und gewinnt mich damit bei jedem Hören mehr."
+
+ <YouTube id="G4MR6_HvckU" />
 
 ### Alcest - "Protection" in der Ben Chisholm Version (Single)
 
-<p class="p1">Matzes Worte zu diesem Stück: "'Protection' ist eines der starken Metal/Post-Metal/Shoegaze Stücke vom 2019er Album 'Spiritual Instinct'. Ben Chisholm, Multiinstrumentalist bei Chelsea Wolfe, hat dies nun in seine Einzelteile zerlegt und elektronische Untertöne hinzugefügt. Das lässt den Song fast noch besser werden. Die Stimme von Alcest Sänger Neige wird noch eine Spur mehr betont."
- <YouTube id="Tn7wvu8R4Wk" /> </p>
+Matzes Worte zu diesem Stück: "'Protection' ist eines der starken
+Metal/Post-Metal/Shoegaze Stücke vom 2019er Album 'Spiritual Instinct'. Ben
+Chisholm, Multiinstrumentalist bei Chelsea Wolfe, hat dies nun in seine
+Einzelteile zerlegt und elektronische Untertöne hinzugefügt. Das lässt den Song
+fast noch besser werden. Die Stimme von Alcest Sänger Neige wird noch eine Spur
+mehr betont."
+
+<YouTube id="Tn7wvu8R4Wk" />
 
 ### Pearl Jam - "Dance Of The Clairvoyants" - Vorauskopplung aus dem Album "Gigaton"
 
-Matze fehlen hier ein bisschen die Worte. Zu Recht. "Wow. Der Vorgänger von
+Matze fehlen hier ein bisschen die Worte. Zu Recht. " Wow. Der Vorgänger von
 'Gigaton' 'Lightening Bolt' ist inzwischen schon acht Jahre alt. Wie schnell
 doch die Zeit vergeht. Umso gespannter war ich auf neues Material. Diese
 Vorauskopplung ist etwas anders, als wir es von früheren Pearl Jam Platten
 kennen. Obwohl man den geliebten Sound natürlich auch wieder heraushören kann -
 wie könnte es anders sein.
 
-<p class="p1">Der Song startet mit nahezu Kasabian ähnlichen elektronischen Tunes bis Eddie Vedder und der Rest der Band  dann doch wieder ihr Ding machen. Was gut ist. Für sich genommen ist 'Dance Of The Clairvoyants' ein sehr gutes Stück Musik und für mich der perfekter Teaser für das kommende Album."
- <YouTube id="ss6mIGfyvXM" /> </p>
+Der Song startet mit nahezu Kasabian ähnlichen elektronischen Tunes bis Eddie
+Vedder und der Rest der Band  dann doch wieder ihr Ding machen. Was gut ist. Für
+sich genommen ist 'Dance Of The Clairvoyants' ein sehr gutes Stück Musik und für
+mich der perfekter Teaser für das kommende Album."
+
+ <YouTube id="ss6mIGfyvXM" />
 
 ### Tindersticks - "See My Girls" von der EP "See my Girls"
 
-<p class="p1">Matze hat sich über die neue Tindersticks EP sehr gefreut. "Die Briten haben es mir mit ihrem komplett eigenen Mix aus Indie Pop und Avantgarde irgendwie angetan. Vielleicht ist es die düstere, aber dennoch nicht tiefe, melancholische Stimme von Stuart Staples oder ihre experimentellen Rhythmen, die mich sogar manchmal vage an die Neubauten erinnern - gepaart mit Leonard Cohen. Ich weiß es nicht. 'See My Girls' ist wie das Stück von Alcest ebenfalls ein alter, aber vollkommen neu gedachter Bekannter aus dem Vorgängeralbum. Und 'No Treasure But Hope' war ja an sich schon etwas ganz Besonderes. Verpackt wurde die EP mit zwei weiteren komplett neuen Songs, die es sich definitiv auch zu hören lohnt."
- <YouTube id="8CWAtHcnNB0" /> </p>
+Matze hat sich über die neue Tindersticks EP sehr gefreut.
+
+"Die Briten haben es mir mit ihrem komplett eigenen Mix aus Indie Pop und
+Avantgarde irgendwie angetan. Vielleicht ist es die düstere, aber dennoch nicht
+tiefe, melancholische Stimme von Stuart Staples oder ihre experimentellen
+Rhythmen, die mich sogar manchmal vage an die Neubauten erinnern - gepaart mit
+Leonard Cohen. Ich weiß es nicht. 'See My Girls' ist wie das Stück von Alcest
+ebenfalls ein alter, aber vollkommen neu gedachter Bekannter aus dem
+Vorgängeralbum. Und 'No Treasure But Hope' war ja an sich schon etwas ganz
+Besonderes. Verpackt wurde die EP mit zwei weiteren komplett neuen Songs, die es
+sich definitiv auch zu hören lohnt."
+
+ <YouTube id="8CWAtHcnNB0" />
 
 ## Meine Auswahl
 
@@ -154,13 +180,22 @@ Hamburger Label Grandhotel van Cleef zu Hause!"
 
  <YouTube id="UqsDrvNz-N4" />
 
-<p class="p1">"Wunderbare Musik von einem Künstler aus Nashville, Tennessee, von dem ich unbedingt noch mehr hören möchte! Devon Gilfillian ist eine Empfehlung meines Vaters!"
- <YouTube id="-ahIUlfWiXA" /> </p>
+### Devon Gilfillian - "Unchained" vom Album "Black Hole Rainbow"
+
+"Wunderbare Musik von einem Künstler aus Nashville, Tennessee, von dem ich
+unbedingt noch mehr hören möchte! Devon Gilfillian ist eine Empfehlung meines
+Vaters!"
+
+<YouTube id="-ahIUlfWiXA" />
 
 ### The Specials - "Black Skin Blue Eyed Boys" vom Album "Encore"
 
-<p class="p1">"Mein dritter Song diesen Monat stammt von der britischen Ska-Band The Specials. Die Musiker aus Coventry machen bereits seit 1977 gemeinsam Musik. 'Black Skin Blue Eyed Boys' ist auf dem letzten Album "Encore" von 2019 erschienen -  das Stück kommt sehr funky daher, wie ich finde."
- <YouTube id="BUVHz-HwR7c" /> </p>
+"Mein dritter Song diesen Monat stammt von der britischen Ska-Band The Specials.
+Die Musiker aus Coventry machen bereits seit 1977 gemeinsam Musik. 'Black Skin
+Blue Eyed Boys' ist auf dem letzten Album "Encore" von 2019 erschienen -  das
+Stück kommt sehr funky daher, wie ich finde."
+
+<YouTube id="BUVHz-HwR7c" />
 
 ### Incubus "Here In My Room" vom Album "A Crow Left Of The Murder"
 
@@ -169,20 +204,8 @@ Room' begleitet mich schon seit vielen Jahren. Der Song ist einfach wunderschön
 Er stammt vom für mich besten Album der Kalifornier 'A crow left of the murder',
 das im Jahr 2004 erschienen ist."
 
- <YouTube id="0IlPlKBXRHE" />
+<YouTube id="0IlPlKBXRHE" />
 
-## Hier findet Ihr unsere Playlist auf Spotify
+## Unsere Playlists
 
- <YouTube id="playlist/2htD7IJ5xflkNeQWb79MLx" />
-
-## iTunes Fanboys✶girls werden hier glücklich
-
-<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-01-25-die-drei-von-der-bande/pl.u-jvM9ujekrkB" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
-
-<RemoteImage alt={`12-songs`} size="large" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_12-songs-pinterest.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_12-songs-pinterest.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAgCAYAAAD9oDOIAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAHk0lEQVRIiV2S+1PTVxrG87fsOrNjKyKKJCSBkBv3Wwgh4RqSIElA7igEiCHeAIt4SbnJCkq9YVXwjngBR7ysdq3jrtXdpXVGa7tWq4Ldtd3tzGfnfDtxWH945j3nPe95znOe95U9fvw3rkxf5t27V7x8+S2//neBrx7dJxTqR78sGeVSA9qoLNJVDvINNVTmtNHq6MCQmEmkWkl0vIYoVSyRyliWx8YSpVIie/78CTMz0yws/MDbty/4108v2dXbh73Ui/EPRpIi0siMtuJIbaDGtommsg6CLbvRp2fxsXw1UWo1K9VqVsWrkWsTfiP95Zc3XL8xy/z8c0ntnqG9NLYEcLtryViSiCUqB7vKSaPFj9+7jbYNIXx79qC35BCxOppV8XGs1sSzKk7F0uhIlscqkF26fJHmliAvXjzj53evOHPmDFPTlxnoG8S5NIOylTYaDVV0ODvp2NCLb3gI78wIcUU5rFgZg1ynZYVSwer4ODzVPmI0GmR3797m1OlTLCy8kCy4eWOWx0/nuHv7FvUfmWhWONmW3UJ/w062DY1Qe2WE3G+GiXGZiI6SI9frWKVWkZCUQlf3CMa0TGTXZq9yYnycp98+5s9371BT18TIoUPUrl3H5o+s7DbWM+Laxr7te9h88QDOh6MY/z2MosLCyohVKPQatEYDaq2GaKWCyFg5sps3r+OuqGONp5bpmWmKSzzEajNI1psYjnFzILOVE/5+hsf30/7VUTw/HMLMPuIqc4mJVJCYmkxOehoZyUmkp6WgTzQi+/rrh4wdPUpSioW8fCfp6TaMmTYKch1MxNdxzrmVs6OjhL48SOfzCdrmP6eaQyS4zSQpdXiLi6m2O2j1uCk2m3DZbMh6doTILywnQZdFZnYRGk0GpZV1+NcHuJLUwtXOTzl5+wQ9z44y9HqK0OsJghzF2eCk2mTDlW/B5y6jpcLD4NZNHN75CTJVXDJaXRpJqVasNjupqVbWrl9PU2Uzd8q6mJncx/j35+mbn+D062sMv5qgl3EG+rrpqKijJDebjvoa7Lm59DQ30LGuDpnFaiczKw9bYTltgXYseQ5qmpspyXZwPzTI1OMxJuevMvbmHDOvrjP04zHGmaK3r491rmaqnJUUmIvRKFX4ysqwW+3Ilq/Q0LDeT/26VmZvzFKxthFbqZfBnn7uzR7i0sIpbry+xdlX57nyapp9L49xgcu4vGVEL1ezNjhE5/4rrO8cpnPPGSqqtiCbOHmKvz64R9uGTdy//yXjE+PYisrZGNzKne/GufHTFHd+vMXh+UOMvT1G18JeBvmMDSPDpCQ7idems7F7L/snv2Dj9hF0BjOy4ZH9PHkyx65QL/s/OyCRL4uIx1ro5O67C3yxcJGZN+fY/mYLLc824r0XwPGogd7pyxyc/Addu0axF1VQVe2np3uA3QNjyNIybNz60w2OjI3xzeO/s3N3LxERGnIspdz9+QLX5g9w/LsQO+7UEDxZj+9IM/UHK+k/fYHDlx7QN3CQ5pYe/IFd5FjLcHsCyL7/51POnj/H0WPHmJt7SCC4hagoHbaCcq7/5wjTb3qYftLN5FQLhyf8fHLST/uxGvZdvMLmLQdRq9MxWZxsaN+ONjGPiopNyDo6ewj1DdDbP8iFqQuYLXYU8hTyHW5u/bqX6b90sau/jrb6Ero6vIyOBxmdDRI6PoGjKIBClUxroJMHj+bIMtmprtyCTB6bhK8tKCktLvWSlGrBoM+lzu/j8MwmjAk6lvwugmURq1jy+48xanWMTvr4dGIcR0GAlFQbO0J/5PjEJJVeP+4yPzK7s5L6dW2E+gbJySvFVrQGnd6Me20tmaY0FDFqPB432dlZ+HxNrIxUYMrTs3NsAq9rM8VFdWRb7dIUNFRvo9zViqzFv4nunt0cPzFObUMLTncNmaYSkpLNJGg0GAx6ZmZm8Pl8zM3NYc2zErM6GldtF0WFdbicjazx1GMvrMe3bifeNW3IkpOTSUtLxZJrJjU1lYSEBFQqNeq4OJTKWBQKBcFgEK/XS3d3N1qtFoVCjiouHoVcQXx8PBkZGSQakzAYjBJkCQka6SAuLg6VSoXZnIPD4aCkpBi73Y7L5SIlJYX8/HwsFot0lpOTg8vlpLx8jZRXqZTodNr3kBkMBoxGI4mJiZLK4uJimpqaqa6ulgirqqqw2WwSmUBlZaVE3tjYSFNTEx6PRxIlOASXwWBAptfrWQyhODY2lpiYGEmR1WqVSPPy8khLSyMzM1MiFb8SNWq1Wrr3G6FeWktKF5OGlQvvhJr29nYJra2tkiqhLhAISJaE6z8UJltMFJYfLlQqlZIaAblcLu3FLwTEo4vrw/f1glSn05GdnS0ZLr65GAUFBf8HURNef1grzkwmE4JPUipeFWYLJcIrgfA0CM/CUeQWxzDC54JHH/ZUsAuPRDPMZrPUILEXL4sZzMrKkhokciKKeRa/C+dFvdgLHoPofphUFBYWFkrfEB0vKyujvLxcGiHRILfbjdPplKLYizNhgyAUd0QM+/y+UWELwjYIxWJ00tPTJTVhVWKsRF6sxVyH74j1++6HO7a4kwKiSKPRSPFDhPMf3gvv/wdWj/V4AWWx4wAAAABJRU5ErkJggg=="
-/>
-
-  
+<Playlist spotify="2htD7IJ5xflkNeQWb79MLx" itunes="2020-01-25-die-drei-von-der-bande/pl.u-jvM9ujekrkB" />

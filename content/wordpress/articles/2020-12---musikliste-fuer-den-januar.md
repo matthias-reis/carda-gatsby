@@ -7,10 +7,11 @@ typeName: Artikel
 title: Musikliste für den Januar
 seoTitle: 12 Songs zum Start ins Jahr 2021 – Musikliste für den Januar
 ogTitle: 12 Songs zum Start ins Jahr 2021 – Musikliste für den Januar
-description: Die Musikliste für den Januar ist natürlich eine ganz besondere –
-  von Post-Rock über Ambient bis hin zu Prog sind ausschließlich Highlights
-  dabei.
-excerpt: Die Musikliste für den Januar ist natürlich eine ganz besondere – von
+description:
+  Die Musikliste für den Januar ist natürlich eine ganz besondere – von
+  Post-Rock über Ambient bis hin zu Prog sind ausschließlich Highlights dabei.
+excerpt:
+  Die Musikliste für den Januar ist natürlich eine ganz besondere – von
   Post-Rock über Ambient bis hin zu Prog sind ausschließlich Highlights dabei.
 fileName: 2020-12---musikliste-fuer-den-januar.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_12-songs-januar__m.jpg
@@ -54,7 +55,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: 12 Songs zum Start ins Jahr 2021
-  
 ---
 
 **Kurz vor Abschluss des Jahres melden wir uns nochmal mit den Songs des Monats
@@ -64,12 +64,6 @@ Vielleicht spielt Ihr an Silvester ja ein paar unserer Musiklisten. Wir würden
 uns freuen. Für den Januar haben wir auch wieder eine wilde Mischung
 zusammengestellt. Weiter unten findet Ihr wie immer die Playlists für iTunes und
 Spotify. Viel Freude damit!
-
-<RemoteImage alt={`Musikliste Januar 2021`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_12_12-songs-januar-2021__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_12_12-songs-januar-2021__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgMECP/EACoQAAEEAQMDAwMFAAAAAAAAAAECAwQRBQASIQYiQQcTMSRRgRQVM2Fi/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIBA//EACERAAEDAwQDAAAAAAAAAAAAAAEAAhEDQWEEElGRgdHh/9oADAMBAAIRAxEAPwDmyOYSXoatrX8iCoFR+L5s6tGRBTNLxmQ97MtrdHZUVHai0BRUpPPg9qje6yBWsUNzp0Yzpx7p8z4fVYUpM0rcSYoSNw3JBBWFKTtJ8A3Q1JRG38nDRiMXF/UPTIyEHd2LQ+lVlNqrihR8fHPzqBLcpTKTarS4mIm3HnvhQy3A3NkLabEcL2320lZq7H9886NMSJh/UyPh4cBtrbEilYZbMhhQTdE1ZOjXQEgQjEgmYWlL/cn+iM6sZBh7HtNrStPt95J2VR+13Vaq3Q3trz+IZxRdTmXJna9vKPbSEH4JoUebvxx50xvRFjHO9T4SS+8E5NGXaQ02EXaPaXwPsD3En/I06/UrqeUn066mMnHvRjFhhwP8Uv6gIAArg0L/ADo7DBLTfGEuuzY4EW9qgY2F1JLyOVaViIMlqPIKGlPSQz2EWCncU2kg8Efmjxo0quts5DizY/125K2goJaQhwg0Ls1xZuho1B0lPPa0a+oRMDr6v//Z"
-/>
 
 Ach ja: Wir machen nächstes Jahr natürlich weiter mit unseren Listen. Bleibt
 also auf alle Fälle dran. Es warten ganz sicher wieder viele Überraschungen auf
@@ -281,12 +275,6 @@ durch.
 
  <YouTube id="dj2lrXVP3fs" />
 
-## Musikliste für den Januar bei Spotify hören
+## Unsere Playlists
 
- <YouTube id="playlist/6UkNIHbWgGMn6VY71odXBd" />
-
-## Musikliste für den Januar bei iTunes hören
-
-<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/de/playlist/2020-12-25-rock-n-roll-vegan/pl.u-NNyGTlxZ2Zy"></iframe>
-
-  
+ <Playlist spotify="6UkNIHbWgGMn6VY71odXBd" itunes="/2020-12-25-rock-n-roll-vegan/pl.u-NNyGTlxZ2Zy" />

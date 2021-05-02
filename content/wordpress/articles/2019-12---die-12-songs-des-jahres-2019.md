@@ -7,10 +7,12 @@ typeName: Artikel
 title: Die 12 Songs des Jahres 2019
 seoTitle: Die 12 Songs des Jahres 2019 - präsentiert von den drei von der Bande
 ogTitle: Die 12 Songs des Jahres 2019 - präsentiert von den drei von der Bande
-description: "Es ist so weit: die Songs 2019 stehen fest. Diese 12 Stücke sind
-  die besten des Jahres. Wir haben sie exklusiv für Euch zusammengestellt."
-excerpt: "Es ist so weit: die Songs 2019 stehen fest. Diese 12 Stücke sind die
-  besten des Jahres. Wir haben sie exklusiv für Euch zusammengestellt."
+description:
+  'Es ist so weit: die Songs 2019 stehen fest. Diese 12 Stücke sind die besten
+  des Jahres. Wir haben sie exklusiv für Euch zusammengestellt.'
+excerpt:
+  'Es ist so weit: die Songs 2019 stehen fest. Diese 12 Stücke sind die besten
+  des Jahres. Wir haben sie exklusiv für Euch zusammengestellt.'
 fileName: 2019-12---die-12-songs-des-jahres-2019.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Its-always-coffee-oclock.-1.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Its-always-coffee-oclock.-1.png__l.jpg
@@ -65,7 +67,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Präsentiert von den drei von der Bande
-  
 ---
 
 **Es ist so weit: unsere Songs 2019 stehen fest. Valentin, Matze und ich haben
@@ -101,34 +102,128 @@ Euch vorbereitet: Die Essenz unserer Monatslisten ergibt unsere 12 Songs des
 Jahres 2019. Wir möchten hiermit allen Leser⋆innen und Hörer⋆innen danken und
 wünschen Euch viel Spaß mit den folgenden Meisterwerken.
 
-<ol>
-    <li style="list-style-type: none;">
-<ol>
-    <li>
 ## Mono - "After You Comes The Flood" vom Album "Nowhere Now Here"
-Matze und ich sind uns einig: Dieses Anfang des Jahres erschienene Stück konnte einfach von keiner der vielen großen Veröffentlichungen in diesem Jahr übertroffen werden. Mono haben damit einen wahren Sound-Prunkbau abgeliefert. "After You Comes The Flood" ist von Anfang an düster und mächtig - dennoch schafft es die vor 20 Jahren in Tokio gegründete Band sich bis zum Schlussakkord immer weiter hochzuschaukeln. Auf der Genussskala ist dieses Stück Musik ganz oben angesiedelt.
- <YouTube id="79btD88nFbY" /> </li>
-    <li>
-## Slipknot - "Unsainted" vom Album "We Are Not Your Kind"
-Valentin hat auch dieses Stück auf die Jahresliste gepackt:
-"Wie Matze in unserer  [Liste für den August](/2019/07/12-songs-fuer-den-august/)  schon geschrieben hat.: 'We Are Not Your Kind' ist das mächtigste Metal-Album des Jahres 2019. Ich wähle den Song 'Unsainted' für die Jahrescharts."
 
-<YouTube id="V8l9TD02meA" /> </li> <li>
+Matze und ich sind uns einig: Dieses Anfang des Jahres erschienene Stück konnte
+einfach von keiner der vielen großen Veröffentlichungen in diesem Jahr
+übertroffen werden. Mono haben damit einen wahren Sound-Prunkbau abgeliefert.
+"After You Comes The Flood" ist von Anfang an düster und mächtig - dennoch
+schafft es die vor 20 Jahren in Tokio gegründete Band sich bis zum Schlussakkord
+immer weiter hochzuschaukeln. Auf der Genussskala ist dieses Stück Musik ganz
+oben angesiedelt.
+
+ <YouTube id="L3Plq_c77r0" />
+
+## 65daysofstatic - "Five Waves" vom Album "replicr"
+
+Aus dem wohl homogensten und experimentellsten Album des Jahres haben Matze und
+ich dieses wunderbare Stück hier ausgesucht. Für Matze ist es die perfekte
+Verbindung aus elektronischen Kompositionen und Post-Rock Gitarren - diese sind
+bei 65daysofstatic weiter in den Hintergrund gerückt.
+
+ <YouTube id="Ph2V7KlA07Y" />
+
+## Cult Of Luna - "A Dawn To Fear" vom Album "A Dawn To Fear"
+
+Beim Aussuchen des Songs wurde Matze mal wieder klar, wie gut das aktuelle Cult
+Of Luna Album ist. Es ist uns allen dreien schwergefallen, einen Song daraus
+auszusuchen - eigentlich könnte man das komplette Werk auf die Jahresliste
+setzen. Der Titelsong stellt für Matze die perfekte Mischung aus leiseren,
+präzisen Passagen und der harten, von den beiden Schlagzeugen Johannes Perssons
+Stimme geprägten Spielweise der Band dar.
+
+ <YouTube id="2cYtqwUso-g" />
+
+## Tool - "Culling Voices" vom Album "Fear Inoculum"
+
+"Culling Voices" von Tool musste für Matze einfach dabei sein. Für ihn ist der
+Song ein wahres Meisterwerk und der eigenständigste vom Konzeptalbum "Fear
+Inoculum" - er hat die wenigsten Referenzen auf "10.000 Days" und "Lateralus"
+nötig.
+
+ <YouTube id="rj3IbZV_YQM" />
+
+## Kim Gordon - "Murdered Out" vom Album "No Home Record"
+
+Dass Kim Gordon 2019 ein neues Werk veröffentlicht hat, hat mich sehr glücklich
+gemacht. "No Home Record" ist ein starkes Stück, das in keinem Plattenregal
+fehlen sollte. "Murdered Out" hat es schon auf die
+[Liste für den Dezember](/2019/11/13-songs-fuer-den-dezember/) geschafft und
+sich inzwischen fest in meine Ohren und in mein Herz eingebrannt.
+
+ <YouTube id="NvgRg_mUhtQ" />
+
+## Unkle - "Crucifixion" vom Album "The Road: Part II / Lost Highway"
+
+Für Valentin und mich ist "Crucifixion" einer der interessantesten Songs vom
+2019er Unkle Album "The Road Part II / Lost Highway". Was ihn zu einem ganz
+besonderen Highlight werden lässt, ist Ian Astburys (The Cult) wunderbaren
+Stimme.
+
+ <YouTube id="gxKfb84DSL0" />
+
+## Russian Circles - "Arluck" vom Album "Blood Year"
+
+Russian Circles sind Valentins erklärte Lieblings Post-Metalband. Für ihn ist es
+immer ziemlich schwierig, einen einzelnen Song aus einem ganz besonderen
+Instrumentalalbum herauszufiltern. "Arluck" hat es geschafft - das Stück geht
+einfach am meisten ins Ohr. Auf das im April anstehende Konzert mit Torche freut
+er sich schon riesig.
+
+ <YouTube id="79btD88nFbY" />
+
+## Slipknot - "Unsainted" vom Album "We Are Not Your Kind"
+
+Valentin hat auch dieses Stück auf die Jahresliste gepackt:
+
+"Wie Matze in unserer [Liste für den August](/2019/07/12-songs-fuer-den-august/)
+schon geschrieben hat.: 'We Are Not Your Kind' ist das mächtigste Metal-Album
+des Jahres 2019. Ich wähle den Song 'Unsainted' für die Jahrescharts."
+
+ <YouTube id="VpATBBRajP8" />
+
+## Nick Cave &amp; The Bad Seeds "Leviathan" vom Album "Ghosteen"
+
+Auch ein Song von Nick Caves neuer Platte durfte für Valentin auf keinen Fall
+fehlen. Nach dem wunderschönen "Waiting for you" in der
+[Dezember-Liste](/2019/11/13-songs-fuer-den-dezember/) hat er sich in der
+Jahresliste für "Leviathan" entschieden.
+
+ <YouTube id="M41EdpS16V0" />
+
+## Tides From Nebula - "The New Delta" vom Album "From Voodoo to Zen"
+
+Die unvergessliche Post-Rock Band Tides From Nebula hat 2019 endlich wieder
+abgeliefert. Im September hat es "The New Delta" damals noch als Vorauskopplung
+von "From Voodoo to Zen" auf die Liste geschafft. Das Stück begleitet mich nach
+wie vor - ich höre es fast täglich. Manchmal eingebettet in seine vorhergesehene
+Umgebung, manchmal inmitten einer Playlist - insgesamt hat es das Stück bei mir
+bis jetzt auf fünf davon geschafft.  Was wirklich etwas bedeutet.
+
+ <YouTube id="WChncS50fqM" />
+
+## The End Of The Ocean - "Homesick" vom Album "Aire"
+
+The End Of the Ocean haben mich mit ihrem aktuellen Album davongetragen. Sie
+haben mich auf Reisen und Ausflügen begleitet und beim Schreiben inspiriert.
+"Homesick" ist zu Recht bereits auf der Liste für den März gelandet. Der Song
+sollte auf keinen Fall in Vergessenheit geraten - das trifft übrigens auf das
+komplette Gesamtkunstwerk mit dem Namen "Aire" zu.
+
+ <YouTube id="V8l9TD02meA" />
 
 ## Opeth - "Continuum" vom Album "In Cauda Venenum"
 
 Für Matze durften Opeth auf der Liste des Jahres auf keinen Fall fehlen. Hier
-sind seine Gedanken zu "Continuum": "Während Mono den perfekten Opener meiner
-persönlichen Lieblingsveröffentlichungen des Jahres abgeliefert haben, macht der
-von mir gewählte Opeth Song, den perfekten Abschluss. Gleichzeitig hart wie
-gewohnt, haben sich die Schweden hier zusätzlich verspielte und verträumte
-Einflüsse aus den 1970er Jahren mit ins Portfolio geholt.
+sind seine Gedanken zu "Continuum":
 
-<YouTube id="Ejy01XpjQMY" /> </li>
+"Während Mono den perfekten Opener meiner persönlichen
+Lieblingsveröffentlichungen des Jahres abgeliefert haben, macht der von mir
+gewählte Opeth Song, den perfekten Abschluss. Gleichzeitig hart wie gewohnt,
+haben sich die Schweden hier zusätzlich verspielte und verträumte Einflüsse aus
+den 1970er Jahren mit ins Portfolio geholt.
 
-</ol>
-</li>
-</ol>
+ <YouTube id="Ejy01XpjQMY" />
 
 Das sind sie also: unsere Songs des Jahres. Die Auswahl ist uns nicht leicht
 gefallen. Wir haben 2019 einfach so wahnsinnig viel gute Musik gehört. Was
@@ -145,13 +240,9 @@ sehr gespannt, welche Künstler uns nächstes Jahr mit ihrer Musik begeistern
 werden und warten neugierig auf aufregende Neuentdeckungen und gute alte
 Bekannte.
 
-## Spotify-Fans können die Songs des Jahres 2019 hier hören
+## Die Playlists
 
- <YouTube id="playlist/03a60jlpV7loROW2M32r4i" />
-
-## iTunes Menschen werden hier glücklich
-
-<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2019-songs-des-jahres-die-drei-von-der-bande/pl.u-85R6uXeGBGJ?l=en" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
+<Playlist spotify="03a60jlpV7loROW2M32r4i" itunes="2019-songs-des-jahres-die-drei-von-der-bande/pl.u-85R6uXeGBGJ?l=en"  />
 
 Hat Euch unsere Jahresliste gefallen? Dann bleibt am besten dran. Wir haben vor,
 Euch auch im nächsten Jahr wieder mit Musiklisten zu beglücken. Wer nichts
@@ -165,13 +256,3 @@ möchte, kann das über meinen Paypal Me Link tun:
 [paypal.me/cardamonchai](/2019/10/12-songs-fuer-den-november/paypal.me/cardamonchai)
 
 Danke schön!
-
-<RemoteImage
-alt={`songs-des-jahres-anne-bloggt-cardamonchai-rock-n-roll-vegan-cardamonchai-2019`}
-size="large" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_12-1.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_12-1.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,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"
-/>
-
-  

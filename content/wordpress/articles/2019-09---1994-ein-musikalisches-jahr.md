@@ -703,15 +703,9 @@ ist er solo unterwegs. Manchmal wünsche ich mir die gute alte Zeit zurück.
 
  <YouTube id="4T5iB612h7M" />
 
-## Playlists
+## Unsere Playlists
 
-### Spotify
-
- <YouTube id="playlist/0gOIpcmsHBDTXppsDqTrH9" />
-
-### iTunes
-
-<div style="width: 100%; overflow: scroll;"><iframe src="https://embed.music.apple.com/de/playlist/1994/pl.u-W4ZYIEkXBXN?app=music" width="300" height="380" frameborder="0"></iframe></div>
+ <Playlists spotify="0gOIpcmsHBDTXppsDqTrH9" itunes="1994/pl.u-W4ZYIEkXBXN?app=music" />
 
 **Hinweis:** Ja, es stimmt. Ich war 1994 noch _etwas_ jünger. Ich habe die hier
 genannten Platten daher _nicht alle_ schon gekannt oder besessen. Zumal damals,

@@ -7,11 +7,13 @@ typeName: Artikel
 title: 12 Songs für den Mai
 seoTitle: 12 Songs für den Mai - aufgelegt von den drei von der Bande
 ogTitle: 12 Songs für den Mai - aufgelegt von den drei von der Bande
-description: Jetzt sind wir schon seit fünf Wochen daheim. Da hatten wir
-  natürlich sehr viel Zeit, Musik zu hören. Dabei haben wir ein paar wunderbare
-  Stücke entdeckt.
-excerpt: Jetzt sind wir schon seit fünf Wochen daheim. Da hatten wir natürlich
-  sehr viel Zeit, Musik zu hören. Dabei haben wir ein paar wunderbare Stücke
+description:
+  Jetzt sind wir schon seit fünf Wochen daheim. Da hatten wir natürlich sehr
+  viel Zeit, Musik zu hören. Dabei haben wir ein paar wunderbare Stücke
+  entdeckt.
+excerpt:
+  Jetzt sind wir schon seit fünf Wochen daheim. Da hatten wir natürlich sehr
+  viel Zeit, Musik zu hören. Dabei haben wir ein paar wunderbare Stücke
   entdeckt.
 fileName: 2020-04---12-songs-fuer-den-mai.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_12-songs-fuer-den-mai-1__m.jpg
@@ -53,7 +55,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Aufgelegt von den drei von der Bande
-  
 ---
 
 **Jetzt sind wir schon seit fünf Wochen daheim. Da hatten wir natürlich sehr
@@ -65,12 +66,6 @@ wunderbar, dass uns in diesen Zeiten die Musik erhalten bleibt. Wir sollten
 allerdings auch daran denken, die Künstler⋆innen, die uns ans Herz gewachsen
 sind, weiterhin zu unterstützen. Es ist natürlich praktisch, Musik einfach zu
 streamen.
-
-<RemoteImage alt={`12-songs-mai-2020-pin`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_12-songs-mai-pin-1__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_12-songs-mai-pin-1__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcI/8QALRAAAgIBAwIEAwkAAAAAAAAAAQIDBBEABQYSIQciMUETUXEUFRYXI0JhkaH/xAAZAQACAwEAAAAAAAAAAAAAAAADBQABAgT/xAAqEQABAgIIBQUAAAAAAAAAAAABAgMAEQQSIUFRYXGBEyIx0fAUobHS4f/aAAwDAQACEQMRAD8AQNw3KWWldrR30Wp9qdBDBWSETxZOPRRkEY7n6abNlmeXmmwTcfq16+5RGYU0JBZ2EEmA4AAHphR39dTc25ja3HhO+1bM4aOSuYlXHbJYen9ay/wxEf5hbAVpLaInY/AeToWT9N+xbHYe/wDmo4kqUlSxKXmUEQuohSG+Yna33jpzwNr7y9HdrtZhRqTyoqxW43JEidQl8rEEMXJJ7AHIx/BqLjsdeXaVG7UY90tQyvB8ZZUiAVD0hcNknGCM++M++jWptDqr47xyqRTp8jQI1P1jBeNTyNyHZo66UYwsqoJoY8E5ywZf3dwpGce5+enek2woNw/GM5m2avbWe30FpBIgYYHR6hchMgYz1Ht66S+Wwx1uI7xBDeWaNIozJE1dF856WVlYMfY98fLVL4exQVvEDhELPE5SASFo2VsdYlkYNg5BHUAAfkdL10wFhx5AnVExtbeL/wBygVCd9WQuRTcRr0wxwyh03Dk3g5yypWm5VUt7fuMDuo+6a5jV426XVW7tnoyUznuVY4AI0afbfM9lqbpcrXdyr1ihRo0kJXyFAQQe4Oe/00asUp0gHhG3XtDTgIFlcebx/9k="
-/>
 
 Bands haben jedoch mehr davon, wenn wir ab und an auch mal eine ihrer Platten
 kaufen. Besonders, da ja im Moment sämtliche Konzerte und Festivals abgesagt
@@ -250,12 +245,6 @@ sie am Stück anhören. Hinweis: Das wunderbare Stück von Michael Stipe ist bei
 den Streaming-Diensten nicht verfügbar, daher habe ich seine großartige Single
 "Your Capricious Soul" hinzugefügt, die er im November 2019 veröffentlicht hat.
 
-## 12 Songs für den Mai 2020 bei iTunes
+## Unsere Playlists
 
-<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-04-25-die-drei-von-der-bande/pl.u-29NLF8b5452" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
-
-## 12 Songs für den Mai 2020 bei Spotify
-
- <YouTube id="playlist/60Gj0SHe4OYkCc8HoC1QLw" />
-
-  
+<Playlist itunes="2020-04-25-die-drei-von-der-bande/pl.u-29NLF8b5452" spotify="60Gj0SHe4OYkCc8HoC1QLw" />

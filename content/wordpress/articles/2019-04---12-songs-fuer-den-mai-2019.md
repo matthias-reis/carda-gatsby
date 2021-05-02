@@ -7,12 +7,13 @@ typeName: Artikel
 title: 12 Songs für den Mai 2019
 seoTitle: 12 Songs für den Mai - präsentiert von den drei von der Bande
 ogTitle: 12 Songs für den Mai - präsentiert von den drei von der Bande
-description: Rock in den Mai! Wir haben 12 Songs für den Mai für Euch
-  zusammengestellt - Rock in den Mai kann somit also nichts mehr im Wege stehen.
-  Viel Spaß damit!
-excerpt: Rock in den Mai! Wir haben 12 Songs für den Mai für Euch
-  zusammengestellt - Rock in den Mai kann somit also nichts mehr im Wege stehen.
-  Wir wünschen Euch viel Spaß beim Hören!
+description:
+  Rock in den Mai! Wir haben 12 Songs für den Mai für Euch zusammengestellt -
+  Rock in den Mai kann somit also nichts mehr im Wege stehen. Viel Spaß damit!
+excerpt:
+  Rock in den Mai! Wir haben 12 Songs für den Mai für Euch zusammengestellt -
+  Rock in den Mai kann somit also nichts mehr im Wege stehen. Wir wünschen Euch
+  viel Spaß beim Hören!
 fileName: 2019-04---12-songs-fuer-den-mai-2019.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_12-songs-mai.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_12-songs-mai.png__l.jpg
@@ -87,7 +88,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Präsentiert von den drei von der Bande
-  
 ---
 
 **Alles neu macht der Mai - dieser Satz passt gerade ziemlich gut, denn im
@@ -118,14 +118,35 @@ Wir wünschen Euch viel Freude beim Hören und freuen uns auf Euren Applaus und
 Euer Gespött. Vorschläge und Ideen für den nächsten Monat nehmen wir gerne
 entgegen. Nutzt dazu gerne die Kommentarfunktion.
 
-<ol>
-    <li>
 ### Pelican "Midnight And Mescaline" Vorauskopplung vom Album "Nighttime Stories" (2019)
-Was habe ich getobt, als ich gehört habe, dass es was Neues von  __Pelican__  geben wird! Das komplette Album gibt es erst in ein paar Tagen zu hören. "Midnight and Mescaline" wurde schon mal vorausgeschickt und macht richtig viel Lust auf mehr!
- <YouTube id="bCrfdqC0YCE" /> </li>
-    <li>
+
+Was habe ich getobt, als ich gehört habe, dass es was Neues von **Pelican**
+geben wird! Das komplette Album gibt es erst in ein paar Tagen zu hören.
+"Midnight and Mescaline" wurde schon mal vorausgeschickt und macht richtig viel
+Lust auf mehr!
+
+ <YouTube id="sqpRKLbhlck" />
+
+### Lost in Kiev - "Persona" Vorauskopplung vom Album "Persona" (2019)
+
+**Lost in Kiev** ist eine von Matzes und meinen gemeinsamen Lieblingsbands. Wir
+sind schon sehr gespannt aufs neue Album "Persona" und erfreuen uns so lange an
+den beiden Vorauskopplungen "Persona" und "Lifelooper". Matze hat unserer Liste
+"Persona" hinzugefügt.
+
+ <YouTube id="bCrfdqC0YCE" />
+
 ### Unkle - Crucifixion / A Prophet (Feat. Tom Smith, Ian Astbury and others) vom Album "The Road Part II" (29.03.2019)
-Valentin dazu: "Das Stück gefällt mir von der neuesten Platte bisher am besten. Unkle ist ein sensationelles Projekt von James Lavelle, dass ich persönlich schon seit der Zeit mit DJ Shadow verfolge. 'The Road: Part II (Lost Highway)' ist die Fortsetzung vom 2017er Album 'The Road: Part I' Mit dabei sind wieder tolle Gästen - dieses Mal unter anderem auch  [Mark Lanegan](/2015/03/mark-lanegan-live-freiheiz-muenchen/) ! Bei diesem Song ist u. A. Ian Astbury von  __The Cult__  beteiligt - nicht die erste Zusammenarbeit. Außerdem mischen der einzigartige Twiggy Ramirez und Chris Goss mit."
+
+Valentin dazu: "Das Stück gefällt mir von der neuesten Platte bisher am besten.
+Unkle ist ein sensationelles Projekt von James Lavelle, dass ich persönlich
+schon seit der Zeit mit DJ Shadow verfolge. 'The Road: Part II (Lost Highway)'
+ist die Fortsetzung vom 2017er Album 'The Road: Part I' Mit dabei sind wieder
+tolle Gästen - dieses Mal unter anderem auch
+[Mark Lanegan](/2015/03/mark-lanegan-live-freiheiz-muenchen/) ! Bei diesem Song
+ist u. A. Ian Astbury von **The Cult** beteiligt - nicht die erste
+Zusammenarbeit. Außerdem mischen der einzigartige Twiggy Ramirez und Chris Goss
+mit."
 
 Die ebenfalls grandiose Vorauskopplung "The Other Side" mit Tom Smith und Philip
 Sheppard hatte es letzen Monat noch nicht aus meiner Vorauswahl in die
@@ -133,17 +154,102 @@ Hauptliste geschafft. Das Album haut mit seinem Gesamtkonzept mächtig aufs Ohr
 und gehört definitiv ins Plattenregal. Die Liebe zur Band teile ich mit
 Valentin. "Crucifixion / A Prophet" hat die Platzierung definitiv verdient. Ian
 Astburys Stimme zieht uns mit seiner magischen Stimme alle in seinen Bann.
-<YouTube id="V8ia-nyd_K8" /> </li>
 
-</ol>
+ <YouTube id="gxKfb84DSL0" />
 
-## Ihr findet die komplette Playlist wie immer bei Spotify
+### Baroness - "Seasons" Vorauskopplung vom Album "Gold &amp; Grey" (2019)
 
- <YouTube id="user/1121757456/playlist/3wCMFSZMJnYUgIx6LnS4zW" />
+Was ist denn bitte los im Moment? Noch eine Wahnsinnsband, die ein Album in den
+Startlöchern hat! "Gold &amp; Grey" kommt in ein paar Tagen. Mit "Seasons" haben
+die Herren aus Savannah, Georgia die Messlatte schon mal gut hoch gelegt. Wir
+sind gespannt, wie es weitergeht! Matze hat es auf unsere Liste gesetzt und hält
+seine Augen und Ohren offen, was als nächstes an dieser Front kommt!
+<YouTube id="k3n8RBaUMpc" />
 
-## Ihr seid bei iTunes? Dann einfach hier hören
+### Queens Of The Stone Age "Hideaway" vom Album "Villains" (2017)
 
-<iframe style="overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2019-04-25-die-drei-von-der-bande/pl.u-xmRkIA70b0v?app=music" width="300" height="380" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
+Valentin findet zu diesem Stück die folgenden Worte "Da ich mir die aktuelle
+**QOTSA** erst jetzt gekauft habe, ist sie für mich praktisch auch neu. Dieses
+Stück gefällt mir besonders gut!"
+
+ <YouTube id="2dcbcic06vw" />
+
+### Jambinai - "Sawtooth" vom Album "ONDA" (2019)
+
+Matze findet den koreanischen Avant-Rock von Jambinai unfassbar gut und hat mich
+damit inzwischen auch angesteckt. "ONDA" ist das dritte Album der Band, die sich
+2009 in Seoul gegründet hat.
+
+ <YouTube id="IPaO8b5AVak" />
+
+### Cave In - "All Illusion" Vorauskopplung vom Album "Final Transmission" (2019)
+
+Und noch eine **Vorauskopplung** ! Das ist so unglaublich spannend dieses Mal!
+Ich bin schon gespannt, wer in der nächsten Monatsliste vielleicht sogar nochmal
+einen Platz finden wird? Matze hat dieses Juwel ausgegraben. Die Band war Anfang
+der 2000er schon mal ziemlich groß dabei und hat ihn schon damals sehr
+begeistert. Cave in stammen aus Methuen, Massachusetts und ihre Musik kann wohl
+am ehesten dem **Post-Hardcore** zugeordnet werden.
+
+ <YouTube id="G6pnX5A892k" />
+
+### Audioslave "Gasoline" vom Album "Audioslave" (2000)
+
+**Audioslave** Gründer und Multitalent
+[Chris Cornell](/2017/05/chris-cornell-nachruf/) war einer der größten Musiker
+aller Zeiten. Er wird niemals in Vergessenheit geraten und wir werden seine
+Stücke immer bei uns tragen und seine Worte in unseren Herzen. Valentin hat
+diesen Monat "Gasoline" zu unserer Liste hinzugefügt. Bitte beim Hören ganz laut
+aufdrehen.
+
+ <YouTube id="62_0ZHhOo58" />
+
+### Long Distance Calling - "Jungfernflug" vom Album "Satellite Bay"
+
+"Jungfernflug" ist unser gemeinsamer Lieblingssong von LDC,
+[die wir zuletzt in der Kulturkirche Altona live erleben durften](/2019/04/long-distance-calling-kulturkirche-altona/).
+Die Band aus Münster begleitet uns schon lange Jahre und vereint mit ihrer Musik
+alle Einflüsse, die auch für uns wichtig sind.
+
+ <YouTube id="UEftFWvGjpk" />
+
+### Old Solar - "Spring Equinox: The Mountains Break Forth In Song" vom Album "See" (2019)
+
+Wer sich mal wieder so richtig verzaubern lassen möchte, der gibt sich den
+musikalischen Werken von **Old Solar** hin. Sie wird auf dunk!records gepresst
+und sprengt derzeit alle Bewertungen. Ich habe Euch "Spring Equinox: The
+Mountains Break Forth In Song" mitgebracht - nehmt Euch einfach mal acht Minuten
+und 19 Sekunden und lehnt Euch zurück. Vermutlich werdet Ihr danach das
+komplette Album hören wollen.
+
+ <YouTube id="RC1Wmm0VU14" />
+
+### Meshuggah - "Straws Pulled At Random" vom Album "Nothing" (2002, Reissue 2006)
+
+Diesen wandelnden Powerchord hat Valentin ausgewählt. Im Moment ist es sein
+liebster Meshuggah Song und seit er das erwähnt hat, läuft er auch bei Matze und
+mir wieder. Wir finden: Eine Band, deren Werke man definitiv nicht
+vernachlässigen sollte.
+
+ <YouTube id="LmVzqjycA-o" />
+
+### Waste Of Space Orchestra - "Seekers Reflection" vom Album "Syntheosis" (2019)
+
+Waste Of Space Orchestra gründeten sich 2018 im finnischen Tampere. Sie machen
+rauen **Metal** , der das Herz berührt. Ihr Album komponierten sie ursprünglich
+für das sie für das Roadburn Festival 2018, wo es vor 3.000 Zuschauern zum
+ersten Mal in voller Länge gespielt wurde, bevor es vor Kurzem unter dem Label
+Svart / Cargo erschien. Unter der Regie von Oranssi Pazuzu und Dark Buddha
+Rising sind zehn Musiker an dem aufregenden Projekt beteiligt, darunter drei
+Stimmen, drei Gitarristen und ein Keyboarder bzw. Organist. Das Konzeptalbum
+entspricht einer Suite aus neun Teilen, die ich Euch hiermit wärmstens empfehle.
+
+ <YouTube id="V8ia-nyd_K8" />
+
+## Ihr findet die komplette Playlist wie immer bei Spotify und iTunes
+
+<Playlist spotify="3wCMFSZMJnYUgIx6LnS4zW"
+itunes="2019-04-25-die-drei-von-der-bande/pl.u-xmRkIA70b0v?app=music" />
 
 ## Songs für den Mai - die waren noch in der Vorauswahl
 
@@ -186,5 +292,3 @@ Astburys Stimme zieht uns mit seiner magischen Stimme alle in seinen Bann.
 1.  The Physics House Band - "Death Sequence I" Vorauskopplung von der EP "Death
     Sequence" (2019)
 1.  The Breath - "Only Stories" vom Album "Only Stories" (4/2019)
-
-  

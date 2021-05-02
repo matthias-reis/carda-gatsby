@@ -37,15 +37,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (38:76)"
+errors: {}
 subTitle: Einfaches veganes Vollkornbrot
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (38:76)
-
-<!--
 <RemoteImage alt={`Veganes Vollkornbrot aus meinem Ofen`} size="medium"
 title={`Veganes Vollkornbrot aus meinem Ofen`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0345__m.jpg"
@@ -70,9 +66,6 @@ ihm den klangvollen Namen Jederkanns-Brot gegeben.**
 
 ## Zutaten
 
-<ul>
-    <li>
-
 <RemoteImage alt={`Alles gut vermischen`} size="medium"
 title={`Alles gut vermischen`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0338__m.jpg"
@@ -80,14 +73,15 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0338__l
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgL/xAAqEAACAgEDAwMCBwAAAAAAAAABAgMRBAAFIRITMQZBURRhByIycYGx8P/EABYBAQEBAAAAAAAAAAAAAAAAAAQDBf/EACARAAICAgICAwAAAAAAAAAAAAECAAMEIRESMUETkfD/2gAMAwEAAhEDEQA/ANPnZe5Y8OzZeHkBVw5GnYxx8zg0OyaPCEE3d8rfFanesd83RpUyJ8oQ7WU7eRDjQM0kqKQzRlzSkMeCARwfJ1BOcxxpA0qqsasRG3iTj9Fm6HPPGudi3NE23IUZK5CvJQIV6QgeEjY0AAtffnWPkWNU7Ih1H0IHQMw3Gtu/FnIyt2c5PbgxVXrxkTq6uqgGVxdN5NVxoe/erM/1FUMHWiMaJKFaHg3fI1nG2ESzqn0UuNuGC9R4k7o5njN30GyaJ49hf86rw4nYSbJWUmGUs8SO1tGCASDX3vnxpFOR8hFbH7/bkraug7iS4M3HLd7GygJZOqEMrdIZaJIojlrFe3kaANwy43lmxhPKhCtEgiYsrhfAFA3yeLPPxzpzIwTFIZo40cEWVFKSR45/vSc+SZ5UkEWVJmQxOIww6VQ/IUcCyRzfAHzo9yOXLEcg+5Sl1C8DUfxMCDN9PYzYmVNJ3YnWQySWmO7AN1Iem1prBU2K886VCwRIuNt8faxlAAW79v8AGtDxd2l7uJifTdnKC9ljMv5pweWaqI4/cc1qg8Kww2KZ/HtpWDxUWL+fUhlkuFC+J//Z"
 />
 
-500 g Vollkornmehl (Ich habe mit meiner Kornmühle 400 g Roggenmehl und 100 g
-Buchweizenmehl hergestellt und beide Sorten gemischt, die Spelzen habe ich im
-Mehl belassen, Ihr könnt natürlich auch jedes andere Vollkornmehl nehmen.)</li>
-<li>150 g Saat (z. B. Kürbiskerne, Sesam oder Leinsamen)</li> <li>450 ml
-lauwarmes Wasser</li> <li>1 Beutelchen [Trockenhefe](/2021/01/hefe-ist-vegan/)
-</li> <li>2 Esslöffel Essig</li> <li>1 Tl Salz</li> <li>Etwas Pflanzenöl</li>
-
-</ul>
+- 500 g Vollkornmehl (Ich habe mit meiner Kornmühle 400 g Roggenmehl und 100 g
+  Buchweizenmehl hergestellt und beide Sorten gemischt, die Spelzen habe ich im
+  Mehl belassen, Ihr könnt natürlich auch jedes andere Vollkornmehl nehmen.)
+- 150 g Saat (z. B. Kürbiskerne, Sesam oder Leinsamen)
+- 450 ml lauwarmes Wasser
+- 1 Beutelchen [Trockenhefe](/2021/01/hefe-ist-vegan/)
+- 2 Esslöffel Essig
+- 1 Tl Salz
+- Etwas Pflanzenöl
 
 ## Zubereitung
 
@@ -121,7 +115,5 @@ Schmeckt natürlich nicht nur zu
 [Zucchinisuppe](/2015/09/zucchinisuppe-herbstlich-vegan/) gut. :-)
 
 Guten Appetit!
-
--->
 
   

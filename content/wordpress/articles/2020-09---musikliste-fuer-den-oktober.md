@@ -7,9 +7,11 @@ typeName: Artikel
 title: Musikliste für den Oktober
 seoTitle: Musikliste für den Oktober - Im Herbst auf unseren Plattentellern
 ogTitle: Musikliste für den Oktober - Im Herbst auf unseren Plattentellern
-description: Für den Oktober haben wir wieder eine brandheiße Musikliste für
-  Euch zusammengestellt. Mit dabei sind diesen Monat einige echte Sensationen.
-excerpt: Für den Oktober haben wir wieder eine brandheiße Musikliste für Euch
+description:
+  Für den Oktober haben wir wieder eine brandheiße Musikliste für Euch
+  zusammengestellt. Mit dabei sind diesen Monat einige echte Sensationen.
+excerpt:
+  Für den Oktober haben wir wieder eine brandheiße Musikliste für Euch
   zusammengestellt. Mit dabei sind diesen Monat einige echte Sensationen.
 fileName: 2020-09---musikliste-fuer-den-oktober.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_musikliste-1__m.jpg
@@ -46,18 +48,11 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Im Herbst auf unseren Plattentellern
-  
 ---
 
 **Für den Oktober haben wir wieder 12 ganz besondere Songs für Euch selektiert.
 Mit im Körbchen sind wieder ausschließlich echte Spezialitäten. Wir wünschen
 Euch viel Freude beim Hören und einen goldenen Herbst!**
-
-<RemoteImage alt={`12 Songs Oktober`} size="medium" title={`Jetzt pinnen`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_12-songs-oktober__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_12-songs-oktober__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcE/8QAKxAAAQMDAwMDAwUAAAAAAAAAAQIDBAUGEQASIRMxUQciYRQjcUFCwdHh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQAAf/EACIRAAICAgEDBQAAAAAAAAAAAAECABEDIQQxQaESE3GB8P/aAAwDAQACEQMRAD8Ap/Tnps3NaxGA8/KSpRCvacpVgeCrGefjTFctUr1SsO6kXBR5cKC1EUH33Dt3JMhnYhKexUAFnI4APyNZbVZcyREosBbTaI8NwEutJ4cIQU7vA4PPk6rqswpFMe+8FJDIQQ4BgnI9xI/rUeK8w9Z1UXBkKoVdRbeIeqTdBarrCaHFdhx0sBGxABQoAkBQzzk85JJyRo1x+pFvuW1U4jMlyFl6OlQREdU7jHBUrPk9iOCOQBo1QCQKMU4FY2p18R7uj6tqnXN1ahMcakKC1surQpvAV+3JJHcAYA4TyCNKlpMx5V70lDMVLMVyQCGnFBSh7T3Vnnt4H41N6a1Taiy/0WIcWDL3Yb3FOFA4IyST+Mk4PfTbGvOkVu/bUmREsvz6a+rDaUKKpCVhXtB24O3vzjHOCc64rs53+8mJh4OM4fcDgNoVoXoC+31rt1miVu3qcmFTUSJLqAlranrbckADx8Y/jRq39LLpdqVuuCXEQz0X17Xlr6iX9x3lSSf0yr/Bxo0guukycUuAwM//2Q=="
-/>
 
 Die Sommermonate sind trotz des Verzichts auf Festivals, Tourneen und Co.
 unfassbar schnell vergangen, oder? Die gute Musik, die uns während dieser
@@ -251,10 +246,6 @@ bereits am 14. August veröffentlicht.
 
  <YouTube id="bbA5p54Rw2M" />
 
-## Playlist bei Spotify hören
+## Unsere Playlists
 
- <YouTube id="playlist/40E0DM7igEaweVKPIaA4ug" />
-
-## Playlist auf iTunes abspielen<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-09-25-rock-n-roll-vegan/pl.u-xojWFA70b0v" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
-
-  
+ <Playlist spotify="40E0DM7igEaweVKPIaA4ug" itunes="2020-09-25-rock-n-roll-vegan/pl.u-xojWFA70b0v" />

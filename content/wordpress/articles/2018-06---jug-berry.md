@@ -49,8 +49,8 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 />
 
 Heute verrate ich Euch eines meiner allerliebsten Cocktail-Rezepte. Es geht in
-Richtung Limes, hat aber etwas mehr Rock ´n` Roll im Blut. Meine Damen und
-Herren, die Bühne betritt nun: Jug Berry!
+Richtung Limes, hat aber etwas mehr Rock'n'Roll im Blut. Meine Damen und Herren,
+die Bühne betritt nun: Jug Berry!
 
 ## Zutaten für zwei Becher
 

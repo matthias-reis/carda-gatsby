@@ -7,12 +7,12 @@ typeName: Artikel
 title: 12 Songs für den März
 seoTitle: 12 Songs für den März - frisch gehört und für gut befunden
 ogTitle: 12 Songs für den März - frisch gehört und für gut befunden
-description: Habt Ihr es auch schon gehört? Der Frühling steht vor der Tür!
-  Musikalisch bringt er ganz schön was mit. Hinter jeder Ecke lauern
-  Neuveröffentlichungen!
-excerpt: Habt Ihr es auch schon gehört? Der Frühling steht vor der Tür!
-  Musikalisch bringt er ganz schön was mit. Hinter jeder Ecke lauern
-  Neuveröffentlichungen!
+description:
+  Habt Ihr es auch schon gehört? Der Frühling steht vor der Tür! Musikalisch
+  bringt er ganz schön was mit. Hinter jeder Ecke lauern Neuveröffentlichungen!
+excerpt:
+  Habt Ihr es auch schon gehört? Der Frühling steht vor der Tür! Musikalisch
+  bringt er ganz schön was mit. Hinter jeder Ecke lauern Neuveröffentlichungen!
 fileName: 2020-02---12-songs-fuer-den-maerz.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_12-Songs-Header__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_12-Songs-Header__l.jpg
@@ -69,7 +69,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Frisch zusammengestellt von den drei von der Bande
-  
 ---
 
 **Habt Ihr es auch schon gehört? Der Frühling steht vor der Tür! Musikalisch
@@ -226,22 +225,10 @@ One Pilots Label 'Fueled By Ramen' beheimatet."
 
  <YouTube id="Sk-U8ruIQyA" />
 
-## Hier könnt Ihr unsere Liste bei Spotify hören
+## Unsere Playlists
 
- <YouTube id="playlist/5IEj5A2OWAHLcEToYcNP9Q" />
-
-iTunes Hörer⋆innen klicken hier
-
-<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-02-25-die-drei-von-der-bande/pl.u-gEeGS8RXNXl" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
+<Playlist spotify="5IEj5A2OWAHLcEToYcNP9Q" itunes="2020-02-25-die-drei-von-der-bande/pl.u-gEeGS8RXNXl"  />
 
 Hat Euch unsere Liste gefallen? Ihr findet jeden Monat eine neue hier im Blog.
 Infos über frische Beiträge gibt es einmal pro Woche
 [in meinem Newsletter](#newsletter).
-
-<RemoteImage alt={`12-songs-fuer-den-maerz`} size="large" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_12-songs-pin__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_12-songs-pin__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcC/8QAKxAAAQMDAwIFBAMAAAAAAAAAAQIDBAAFEQYSIRMxFEFRgaEHIjJhNFRx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgQFAf/EAB8RAAICAQQDAAAAAAAAAAAAAAABAgOxERIhcQRBUf/aAAwDAQACEQMRAD8A0zXMxUJuLa4kRc6RcXOg8hKtvh2SMKdPHPcAeWe5rKPqpb/D6Yl+FhOoUGhu3AE/mnHPv2pLddb6lm6/iqvLrMF2LLMN1mK39qUhzCknJUV8juTV6lXOPLftSJCBJTJdRtQpkDqgqHHyMfsU5Q9lM+ngSu1d0OzLtRWFu0S47UGFDuMB6Ky81IJGVKKQHBkHnCwrjy7UVPuFsbDhcisGO244vDCiR0huOEkZ4Pn/AIoUVNSbRS3pcaYGd10wq56pl3lbyw3JnOTSyGicBSirZuz7ZxT64xQ6xAMSMqLJhqQtLuxShvSoKHHocdv3UhtxxLYSmQlKcfj1lD4roPO/2R6/yFULnJ+yC7pyak3yiu3Ozy5056TOloXIeWXFlccjJPoMjHAA9qKdyFKUoKW4HFEdwsrPzRQGvyrfuD//2Q=="
-/>
-
-  

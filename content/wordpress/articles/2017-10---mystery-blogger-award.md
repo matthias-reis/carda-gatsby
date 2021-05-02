@@ -34,15 +34,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (133:0)"
+errors: {}
 subTitle: Kohlrabi und Deichkind
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;li> (133:0)
-
-<!--
 **Vor einigen Tagen wurde ich von Björn vom Blog
 [Gartenbaukunst](https://gartenbaukunst.wordpress.com/) für den _Mystery Blogger
 Award_ nominiert. Danke schön! Ich nehme natürlich an! Wenn etwas schon als
@@ -72,21 +68,16 @@ Ausgedacht hat sich den _Mystery Blogger Award_ vor einiger Zeit
 [Okoto Enigma](https://www.okotoenigmasblog.com/). Ihre Motivation dahinter
 formuliert sie folgendermaßen:
 
-<blockquote>
-
-„This is an award for amazing bloggers with ingenious posts. Their blog not only
-captivates, it inspires and motivates. They are one of the best out there, and
-they deserve every recognition they get. This award is also for bloggers who
-find fun and inspiration in blogging and they do it with so much love and
-passion.“
-
-"Der _Mystery Blogger Award_ ist ein Award für tolle Blogger mit einfallsreichen
-Artikeln, deren Blogs nicht nur faszinieren, sondern auch inspirieren und
-motivieren. Sie gehören zu den besten da draußen und verdienen jede einzelne
-Erwähnung. Dieser Award ist außerdem für Blogger, die Spaß und Inspiration aus
-anderen Blogs ziehen und das Bloggen mit viel Liebe und Leidenschaft betreiben."
-
-</blockquote>
+> „This is an award for amazing bloggers with ingenious posts. Their blog not
+> only captivates, it inspires and motivates. They are one of the best out
+> there, and they deserve every recognition they get. This award is also for
+> bloggers who find fun and inspiration in blogging and they do it with so much
+> love and passion.“<br />"Der _Mystery Blogger Award_ ist ein Award für tolle
+> Blogger mit einfallsreichen Artikeln, deren Blogs nicht nur faszinieren,
+> sondern auch inspirieren und motivieren. Sie gehören zu den besten da draußen
+> und verdienen jede einzelne Erwähnung. Dieser Award ist außerdem für Blogger,
+> die Spaß und Inspiration aus anderen Blogs ziehen und das Bloggen mit viel
+> Liebe und Leidenschaft betreiben."
 
 Ich finde das einen schönen Beweggrund. Es geht also nicht (oder zumindest nicht
 nur) ums Linkbuilding, Vernetzen und Profitieren, sondern auch darum,
@@ -115,21 +106,22 @@ Die Regeln des Awards lauten wie folgt:
 ## Fünf Fragen von Gartenbaukunst an mich
 
 1.  Hättest Du gerne ein bedingungsloses Grundeinkommen und würdest Du dann noch
-    arbeiten gehen? **Selbstverständlich würde ich dazu nicht nein sagen! Ich
-    denke, ich würde auf jeden Fall weiter arbeiten gehen, da der Job, dem ich
-    nachgehe, mir sehr viel bedeutet und ich großen Spaß an meiner Arbeit
+    arbeiten gehen?<br /> **Selbstverständlich würde ich dazu nicht nein sagen!
+    Ich denke, ich würde auf jeden Fall weiter arbeiten gehen, da der Job, dem
+    ich nachgehe, mir sehr viel bedeutet und ich großen Spaß an meiner Arbeit
     habe.**
 1.  Wie lautet die Antwort auf die Fragen nach dem Leben, dem Universum und dem
-    ganzen Rest? **42.**
-1.  Wie heißt die Band, die die Party rockt? **Deichkind!**
-1.  Gehts Du auf den Jahrmarkt, die Kirmes oder den Dom? **Auf jeden Fall auf
-    den Dom!**
-1.  Bevorzugst du eine utopische oder eine dystopische Zukunftsvorstellung?
-    **Wenn man mein Blog liest, wird einem relativ schnell klar, dass ich
-    persönlich die Utopie der Dystopie vorziehe. Ich hoffe sehr darauf, dass
-    Verbrennungsmotoren schon bald der Vergangenheit angehören und der
-    Menschheit endlich bewusst wird, was sie mit ihrem Fleischverzehr, dem
-    Raubbau an der Erde und ihrer unstillbaren Gier nach Macht anrichtet.**
+    ganzen Rest?<br /> **42.**
+1.  Wie heißt die Band, die die Party rockt?<br /> **Deichkind!**
+1.  Gehts Du auf den Jahrmarkt, die Kirmes oder den Dom?<br /> **Auf jeden Fall
+    auf den Dom!**
+1.  Bevorzugst du eine utopische oder eine dystopische
+    Zukunftsvorstellung?<br /> **Wenn man mein Blog liest, wird einem relativ
+    schnell klar, dass ich persönlich die Utopie der Dystopie vorziehe. Ich
+    hoffe sehr darauf, dass Verbrennungsmotoren schon bald der Vergangenheit
+    angehören und der Menschheit endlich bewusst wird, was sie mit ihrem
+    Fleischverzehr, dem Raubbau an der Erde und ihrer unstillbaren Gier nach
+    Macht anrichtet.**
 
 ## Drei geheime Dinge über mich
 
@@ -171,9 +163,6 @@ Und jetzt geht's ans Eingemachte. Hier kommen meine Nominierungen:
 - [Tom](https://tomdot.wordpress.com/)
 - [Life is noisey](https://andiau.wordpress.com/)
 
-<article id="post-5953" class="post-5953 post type-post status-publish format-standard hentry category-ueber-mich tag-ueber-mich tag-bloggeraward tag-david-lynch tag-garten tag-halloween tag-interview tag-persoenliches tag-the-mystery-blogger-award tag-top clear-fix ">
-<div class="entry-content">
-
 Wie bereits angesprochen, erfolgt Eure Teilnahme auf rein freiwiller Basis.
 Bitte fühlt Euch nicht genötigt! Ich würde mich natürlich trotzdem unheimlich
 freuen, schon bald Eure Antworten auf meine Fragen in Euren Blogs zu lesen.
@@ -187,9 +176,5 @@ Also: Wir lesen uns!
 - [Liebster Blog Award 2014](/2014/11/and-the-nominees-are/)
 - [Liebster Blog Award 2017](/2017/01/liebster-blog-award-2017-01/)
 - Mystery Blogger Award 2017
-</div>
-</article>
-
--->
 
   

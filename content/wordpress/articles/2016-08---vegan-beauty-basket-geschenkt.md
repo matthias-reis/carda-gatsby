@@ -29,15 +29,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (53:95)"
+errors: {}
 subTitle: Box ab jetzt alle zwei Monate
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (53:95)
-
-<!--
 Werbung\*
 
 <RemoteImage alt={`Vegan Beauty Basket`} size="medium" title={``}
@@ -57,11 +53,9 @@ Vegan News und freue mich total auf die Aktion.
 
 ## Tolle Geburtstagsaktion von Vegan Beauty Basket
 
-Übrigens hat sich die bezaubernde Ina, Gründerin von **Vegan Beauty** **Basket**
-, zum Geburtstag des jungen Beauty-Vertriebes etwas ganz Besonderes für Ihre
+Übrigens hat sich die bezaubernde Ina, Gründerin von **Vegan Beauty Basket** ,
+zum Geburtstag des jungen Beauty-Vertriebes etwas ganz Besonderes für Ihre
 Kunden/innen einfallen lassen.
-
-<div>
 
 Beim Abschluss eines 3er-Abos bekommen alle Neu-Abonnenten/innen mit dem Code
 “GRATISBOX” eine vierte Box gratis dazu. Wer also Lust hat, sich mal was Schönes
@@ -95,13 +89,19 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_vbb__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAQBBf/EACcQAAIBAwQBAwUBAAAAAAAAAAECAwQFEQAGITESBxMWIzJBQlKR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECISL/2gAMAwEAAhEDEQA/AFJ0OftHHJ4xqS7vXRWqsktMUc9wSFzTxTMUR5AD4qxHQJ4zqxOUU9cdDrWDlFJ/bBP+a0INI/WDcfyS07hvF3MksNXJDPYYY3iSOLgMPHpmOWAyWYMo50gK/wBSNnR1EtF8jt6PG3tM1RSye0kmPLwabiNXH8kgggjsa7tr2Ptq37ouN+pbPSrdqqQVD1LL5MHIGSuc+OTycYySdHnfdDHZPU7dNBRs5prbSrdIEkwQS31PZcYw8QZjgMCR+GGjXWFKT0//2Q=="
 />
 
+## Wegweiser Vegan Beauty Basket
+
+1.  Der Basket im 3er-Abo 8/2016
+1.  [Im Test 9/2016](/2016/09/vegan-beauty-basket-im-test/)
+1.  [Unboxing Weihnachtsedition 12/2016](/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/)
+1.  [Interview mit Gründerin Ina 2/2017](/2017/02/vegan-beauty-basket-interview/)
+1.  [Unboxing März-Ausgabe 3/2018](/2018/03/unboxing-vegan-beauty-basket-maerz/)
+
 Zum Vegan Beauty Basket geht es
 [hier entlang.](https://www.veganbeautybasket.com/)
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf
-meiner [Transparenz-Seite](/werbung/). _ </div>
-
--->
+meiner [Transparenz-Seite](/werbung/). _
 
   

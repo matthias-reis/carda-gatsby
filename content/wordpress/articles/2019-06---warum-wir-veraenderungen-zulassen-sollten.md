@@ -7,12 +7,12 @@ typeName: Artikel
 title: Warum wir Veränderungen zulassen sollten
 seoTitle: Warum wir Veränderungen zulassen sollten - neu ist gut
 ogTitle: Warum wir Veränderungen zulassen sollten - neu ist gut
-description:
-  Veränderung ist wichtig. Wir sollten sie nicht nur zulassen, sondern aktiv
-  danach verlangen und an ihr arbeiten. Nur so werden wir dauerhaft glücklich.
-excerpt:
-  Veränderung ist wichtig. Wir sollten sie nicht nur zulassen, sondern aktiv
-  danach verlangen und an ihr arbeiten. Nur so werden wir dauerhaft glücklich.
+description: Veränderung ist wichtig. Wir sollten sie nicht nur zulassen,
+  sondern aktiv danach verlangen und an ihr arbeiten. Nur so werden wir
+  dauerhaft glücklich.
+excerpt: Veränderung ist wichtig. Wir sollten sie nicht nur zulassen, sondern
+  aktiv danach verlangen und an ihr arbeiten. Nur so werden wir dauerhaft
+  glücklich.
 fileName: 2019-06---warum-wir-veraenderungen-zulassen-sollten.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-4__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-4__l.jpg
@@ -39,6 +39,7 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Neu ist gut
+  
 ---
 
 **Progressivität ist ein Gewinn für uns alle. Würde sich die Welt nicht
@@ -219,7 +220,7 @@ ein Einfluss für die nächsten Veröffentlichungen und neue Künstler. Immer wi
 entstehen neue Zweige, die zu neuen Stilen und Musikrichtungen heranreifen und
 was gibt es spannenderes, als live dabei zu sein, wenn aus Jungle plötzlich Drum
 and Base herauswächst oder aus Progressive Rock und technoiden Einflüssen
-moderner Post-Rock?
+moderner Postrock?
 
 Mit neuen Generationen kommen neue Ideen, neue Innovationen, neue Kreativität,
 neue Fehler. Genauso wird alter Kram wieder aus der Versenkung geholt, neu
@@ -267,3 +268,5 @@ glücklicher werden.
   [Mai von MaiLab - "Rezo wissenschaftlich geprüft"](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=1089s)
 - [3] [Die Nachbarschaftsapp "nebenan.de"](https://nebenan.de/)
 - [4] [Missy Magazine](https://missy-magazine.de/)
+
+  

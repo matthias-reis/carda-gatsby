@@ -63,15 +63,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <span> (214:120)"
-subTitle: <span class="s1">„Wir möchten Gutes tun und keinen Benz kaufen“</span>
+errors: {}
+subTitle: <span class="s1">„Wir möchten Gutes tun und keinen Benz kaufen“
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;span> (214:120)
-
-<!--
 <RemoteImage alt={`Vegablum`} size="medium" title={``}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34095028076_7be27a02bd_z__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34095028076_7be27a02bd_z__l.jpg"
@@ -108,7 +104,15 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33978181982
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAApEAACAgEDAwMDBQAAAAAAAAABAgMEEQAFBhIhQQcTMSJRYRSBkaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMA/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACMQMRIUH/2gAMAwEAAhEDEQA/AE3LuC0NxiTc6tqP3HQqaz2QwjPUcdPjBHg57+dTUfHIq1yWzcaK1I0fS6yygKQMfOAPCj+NdN5lwKpzrccmGCDcDR/TUpTVeKMRhlYP7YY/ViUDOSPn7ahKcti1xzeKrQVtm3MVYhVsQQ4MgZ2RmLE56CsbDqXPfI1KwdbHVRyQm/LX2uFpYGV5lbqiKscAFwe4P+YH50ph3zpsxO5kMIJMiLM49zsfue37apIOG16bNJuVmlcmYfUJpTHhsdhnPde4OcA/jWeH0t5FdWnLtNVtyrXIzNBJSjeZSgcqcsFADKexBxjI8HWqmRWPvUcbf6zb/tj3W26htMUluX3nkkSWVgcfCgv0gZ74AxnS236scovTNNuNra7LnIVp9qruUXKnpTKfSuRnA7ZyfOjRqhx1FQ2Tb2fVmKz6k8hmKZ3MRBO6CvRgiC5+cdKDS+Tlu/W3maTfd2KSjDqLboG8HKqQP60aNIAyF9n/2Q=="
 />
 
-<p class="p1"> __
+**Danny:** Ich bin mit sehr vielen saisonalen Produkten gestartet, das stimmt.
+Mittlerweile biete ich zumindest die Vonig-Sorten alle auch ganzjährig an. Bei
+Vegablum ist so viel Bewegung drin. Es gibt immer wieder neue Ideen, die
+umgesetzt werden. Beim Likör wird es weiterhin so bleiben, dass wir soweit wie
+möglich das Obst aus der Region einsetzen. Da jetzt die Rhabarberzeit begonnen
+hat, wird derzeit der Rhabarber-Likör angesetzt.
+
+**Anne:** Du hast Vegablum im Oktober 2015 in Meerbusch gegründet. Ist das Deine
+Heimat?
 
 **Danny:** Nein, eine Heimat habe ich in dem Sinne nicht, ich war schon überall
 und nirgends. Unter anderem habe ich auch schon fünf Jahre in Irland und sechs
@@ -162,7 +166,7 @@ gar nicht funktionieren. Unser Freund Heino macht die Akquise für uns.
 
 Hinzukommt ein kleines Netzwerk aus anderen Manufakturen und Veganer/innen. In
 der veganen Szene hilft man sich ja immer untereinander. Wir haben alle das
-gleiche Ziel, das ist wirklich schön. André von der _Veganica_ _Bio-Manufaktur_
+gleiche Ziel, das ist wirklich schön. André von der _Veganica Bio-Manufaktur_
 ist zum Beispiel Fotograf und hilft uns dabei, unsere vielen Produkte zu
 fotografieren und auch sonst stehen uns er und seine Frau Nicole immer zur
 Seite. Das kleine Lädchen _Die Kichererbse_ in Stuttgart unterstützt uns fleißig
@@ -186,9 +190,9 @@ in Bio-Qualität.
 
 **Anne:** Ihr selbst habt aber noch keine Bio-Zertifizierung?
 
-Danny: Nein, das konnten wir bisher finanziell und technisch nicht realisieren.
-Es ist aber für die Zukunft auf jeden Fall geplant, schon allein um weitere
-Absatzmöglichkeiten zu haben.
+**Danny:** Nein, das konnten wir bisher finanziell und technisch nicht
+realisieren. Es ist aber für die Zukunft auf jeden Fall geplant, schon allein um
+weitere Absatzmöglichkeiten zu haben.
 
 **Anne:** Du liebst Mittelaltermärkte und -Feste. Daher kommt ja auch Dein Bezug
 zum Met. Besuchst Du regelmäßig welche?
@@ -347,16 +351,10 @@ wünsche dir auch weiterhin noch viel Erfolg mit deinem Blog!
   [findet Ihr hier](https://vegablum.de/rezepte/bbq-sosse).
 - [Hier hat mich Danny auf ihrer Homepage vorgestellt](https://vegablum.de/partner/anne-bloggt-cardamonchai).
 - Den Lebenshof El Kotti
-  [<span class="s2">findet Ihr hier](https://vegablum.de/partner/lebenshof-el-kotti).
-  </span>
-- Das Tier Refugium Wegberg
-  [<span class="s2">findet Ihr hier](https://www.tier-refugium.de/). </span>
+  [findet Ihr hier](https://vegablum.de/partner/lebenshof-el-kotti).
+- Das Tier Refugium Wegberg [findet Ihr hier](https://www.tier-refugium.de/).
 - [Hier geht es](https://vegablum.de) zur Vegablum Homepage.
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken](/2015/03/die-ultimative-vegane-festivalliste)
-
-Merken
-
--->
 
   

@@ -34,15 +34,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Unterminated JSX contents (113:16)"
+errors: {}
 subTitle: Geschmack von Italien und Skandinavien
   
 ---
 
-## unknown: Unterminated JSX contents (113:16)
-
-<!--
 _Werbung\*_
 
 **Sommerzeit ist Limozeit. Von der Naturkostsafterei Voelkel gibt es jetzt ein
@@ -67,11 +63,16 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_30031081808
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAFBv/EACoQAAIBAwMDBAAHAAAAAAAAAAECAwQFEQASIQYxQQcTUXEUIjJCYWLB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQAAQP/xAAjEQACAQIEBwAAAAAAAAAAAAABAgADEQQSIVETMTNxgZHh/9oADAMBAAIRAxEAPwAKorc3tx11J+QQurNKrbQBnjn5zgjSpLYnv9qtd1ta+/czAEZJUyr8ncue4bdnnnjXGWuJ6K3QwqXUou5wjjbL4OfOB8dgfvTV6W3CkqOjKRoII/xdtkeJ5O7BjgqQc45GDz8aF6JS1Xbz6i/SXM9+0ErtYUpKlJVpamR3bM9HAWQxZP7ewIzx41jXGjpo6WTbOxPukRo364SDnDj64z86aPVrpgXW5UV/atakp5h7VQ2TsWdTw+QMEOvx5B+dFlxhkgVnC3ARS8o5QHePvH8f740JqKVzKPkzd1sGUaGYEE1RFSz7KuQlsMQ5zuI5wD40mel3W1ttt9igeAR09wjw8TxhUV0OUOAMEAZGfrVq1a1mCEHWQuSDeJfWfVVF1BYKu2NErQTLxLNJykgO5HVf6sAee40ASX5pZJqa8JGJw7AugIR8cAKSeOx1atL4EcO1IcjvHawAIvrP/9k="
 />
 
-<ul>
-    <li><small><sub>
+- Natürliches Mineralwasser
+- Zitronenauszug (Natürliches Mineralwasser, Zitronen)
+- Rohrohrzucker\*
+- Zitronensaft/small&gt;
+- Zitronenfruchtmarkt
+- Traubensüße&gt;
+- Kohlensäure
 
-<small><sub>\*Aus kontrolliert biologischem Anbau. Rohrohrzucker aus dem
-Fairtrade Zucker Programm.</sub></small>
+<small>\*Aus kontrolliert biologischem Anbau. Rohrohrzucker aus dem Fairtrade
+Zucker Programm.</small>
 
 ## Blutorange
 
@@ -86,11 +87,18 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_28964053667
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QALBAAAQQBAwMCBAcAAAAAAAAAAQIDBBEFABIhBhMxB0EUMkJRFSIjM2Fxsf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQH/xAAjEQACAQIGAgMAAAAAAAAAAAABAgMAEQQSIVFh0QUxQcHw/9oADAMBAAIRAxEAPwCI4kGAkNzoPdQOAoAqQU3Z8eD/ADp26U9Ns/1FDORwcGUiP2wr4orS0yqjyB3SN4FVY441WukPTjE4llC+/A6hzLd99lVoQyAOe02bDix9lH+hptGQkLlJaYRGWl5ktxlBpRStN/tFN8g0pJJ5B960hCHGYHTg0eH8JLMC7nLx3t16rnaD0XnZGTbhzlY8Nq3W6lRux9I2XZHB20NZPqBhMDgMCqFIitKnpaK0yU2Hku8bd1EhKST8tngffVb9Ym4mJwDE7Fks5eS4lsl58DaojcgEj2TtKeOSCbJ1Gcixk5KpMROVxU+BIQlKyV04CR9IIF883f8AmsEBmYgmwG1HFHFhlzIt2YEa2IHxVv6Mz8TMMwso7I+EajvB1ePQUlLTxHurzXN151oupfUKJgXc82yGmH5L6hE7RG+1A7ykn5U0lKj4Fk+Txo0aRHAiuFXQHqqGJmYA8gfR/XpB6omZSeleXny2ZEANK7cRTJV2qSFbhZBLlDzxwbB9tL/47hcrioscLRCmBCv1kOEHcbACkn8hs1x9j50aNWHUKwC1IjclTev/2Q=="
 />
 
-<ul>
-    <li><small>
+- Natürliches Mineralwasser
+- Blutorangensaft
+- Zitronensaft
+- Rohrohrzucker\*
+- Blutorangenfruchtmark
+- Traubensüße
+- Heidelbeersaft
+- Orangenöl
+- Kohlensäure
 
-<small><sub>\*Aus kontrolliert biologischem Anbau. Rohrohrzucker aus dem
-Fairtrade Zucker Programm.</sub></small>
+<small>\*Aus kontrolliert biologischem Anbau. Rohrohrzucker aus dem Fairtrade
+Zucker Programm.</small>
 
 Mit sogar noch etwas weniger Ingredienzien kommt die Sorte "Himbeer-Cassis" aus.
 Auch sie sind zu 100 Prozent natürlicher Herkunft:
@@ -101,11 +109,16 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_42996018735
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgUI/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQMCBBEhAAUSBiIxE0FhBzKBFEJRkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAQL/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADESESMWHw/9oADAMBAAIRAxEAPwCDUSEz5wq/VSJMMg3ibAjwbi4Fv609U2xIqKJSQoVFWrjFiYKuamEr2lfPcLZ9rHGtb0xtbqjbz6jPTU+cbBkrFkSfsjIDHb+75+NWv6W1S1V9ftY2udDukFxTTMbACPJfLsTM5NxIEm4zHJ8aOtTWbJwIWitmJDdH7IkTq+nahXT9c5ISuDWTCU8jyhGPbI2IFrkf6LjOk7cVrHGU1VFOIERBlEi/5tbHjXSH1WUiiqxur3bUDXQNNWuCy2xiDEE4GZEeY37hbII1En1jJbFV0b2vqVSmZUsVwAVIg2uw2BPg4IHnU4gHvUr0ipgMzDpjqFlBKoaK5gghIgmDB6kSRcHiP4Ax+fjTf0d1a2t2k01IxdHulMGNk97LwZOUhxlYZNjYgAe2TbRo0mpjkLNcyBFrfdz3mO4Q/UzpamAtPlKQZz7bHgD9o89vtperKlLHzWkNpWnJ7rXwMkeD+NGjRX3Y3kwzGxstP//Z"
 />
 
-<ul>
-    <li><small><sub>
+- Natürliches Mineralwasser
+- Himbeersaft
+- Rohrohrzucker\*
+- Schwarzer Johannisbeersaft
+- Traubensüße
+- Zitronensaft
+- Kohlensäure
 
-<small><sub>\*Aus kontrolliert biologischem Anbau. Rohrohrzucker aus dem
-Fairtrade Zucker Programm.</sub></small>
+<small>\*Aus kontrolliert biologischem Anbau. Rohrohrzucker aus dem Fairtrade
+Zucker Programm.</small>
 
 ## Beerensammeln in Skandinavien
 
@@ -177,7 +190,5 @@ Sinne: Prost!
 Vielen Dank an Voelkel für die freundliche Zurverfügungstellung der Produkte!
 [Hier gehts zur Homepage](https://voelkeljuice.de/startseite.html) der
 Naturkostsafterei.
-
--->
 
   

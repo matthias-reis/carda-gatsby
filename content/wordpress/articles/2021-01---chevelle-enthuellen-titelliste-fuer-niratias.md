@@ -34,15 +34,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (24:15)"
+errors: {}
 subTitle: Neues Album am 5. März
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (24:15)
-
-<!--
 **Am 5. März veröffentlichen Chevelle ihr langersehntes neues Album "Niratias".
 Die Band hat jetzt die komplette Track-Liste bekannt gegeben. Die Platte soll
 die bislang provokativste der Chicagoer Band werden.**
@@ -55,9 +51,6 @@ Track-Liste:
 
 ## Niratias Tracklist
 
-<ol>
-    <li>
-
 <RemoteImage alt={`Chevelle Niratias`} size="medium"
 title={`"Niratias" by Chevelle`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_chevelle-niratias__m.jpg"
@@ -65,12 +58,19 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_chevelle-ni
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAT/xAAqEAABAwQABAUFAQAAAAAAAAABAgMRAAQFEgcTITEGMkFRcRQiQoGRwf/EABgBAAIDAAAAAAAAAAAAAAAAAAMFAQIE/8QAJREAAAYBAgYDAAAAAAAAAAAAAAECAwQRIQVBEzFRYcHwcYGR/9oADAMBAAIRAxEAPwDMq16Akd4p98JcOstmGEXF4tqwYc8nNb2Woe+o7fulHBKtU53Hqv5+kS+lToAmQDMR/Kv6s6pZJsilzdpCmk6yUAzMgdZ7Uo1STJZTUcvkz2zWO/gMYDLDireP6928hM8T8IMri8M7kMZfM3/KTzHWQ1ovUdynvPxUn3CwkxB6z/a1piPELDGAuH8utKCygbEfkSTIgmOoPv8AqsqZdtlrMXyLVRUwHlaEiDEz/tB0WTLeJaZWa5HVX17YETmWW1FwvwcL0gfbM+kfNWLh9cXTuYtrvL26LO3U0gOLWnUKCexA6kHoO8CiitmoLNLdFuBRStfvUc3E3OPsZC5cZRz7fYC2KfIlOoGxHvM1JmlKWVKWSVqJJJ9TJooosFJJjoItiFJOXlKPmZj/2Q=="
 />
 
-Verruckt</li> <li>So Long, Mother Earth</li> <li>Mars Simula</li> <li>Sleep the
-Deep</li> <li> **Self Destructor** </li> <li>Piistol Star (Gravity Heals)</li>
-<li>VVurmhole</li> <li>Peach</li> <li>Test Test...Enough</li> <li>Endlessly</li>
-<li>Remember When</li> <li>Ghost and Razor</li> <li>Lost in Digital Woods</li>
-
-</ol>
+1.  Verruckt
+1.  So Long, Mother Earth
+1.  Mars Simula
+1.  Sleep the Deep
+1.  **Self Destructor**
+1.  Piistol Star (Gravity Heals)
+1.  VVurmhole
+1.  Peach
+1.  Test Test...Enough
+1.  Endlessly
+1.  Remember When
+1.  Ghost and Razor
+1.  Lost in Digital Woods
 
 Chevelle kündigen "Niratias" als ihre bisher härteste und provokativste Platte
 bisher an. Gemeinsam mit Producer Joe Barresi (Tool, Queens Of The Stone Age)
@@ -120,7 +120,5 @@ Chevelle – "Self Destructor"
 
 Bilder/Quelle/Pictures/Source: Epic Records,
 [Chevelle](https://getmorechevelle.com/)
-
--->
 
   

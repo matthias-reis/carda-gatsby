@@ -7,11 +7,13 @@ typeName: Artikel
 title: 10 Songs für den Februar 2019
 seoTitle: 10 Songs für den Februar - präsentiert von den drei von der Bande
 ogTitle: 10 Songs für den Februar - präsentiert von den drei von der Bande
-description: Die drei von der Bande präsentieren Euch heute die 10 Songs für den
-  Februar 2019. Die Auswahl haben wir uns nicht leicht gemacht.
-excerpt: Die drei von der Bande präsentieren Euch heute die 10 Songs für den
-  Februar 2019. Die Auswahl besteht aus einer Kombination aus brandneuen Stücken
-  mit Songs, die wir besonders lieben und diesen Monat besonders häufig gehört
+description:
+  Die drei von der Bande präsentieren Euch heute die 10 Songs für den Februar
+  2019. Die Auswahl haben wir uns nicht leicht gemacht.
+excerpt:
+  Die drei von der Bande präsentieren Euch heute die 10 Songs für den Februar
+  2019. Die Auswahl besteht aus einer Kombination aus brandneuen Stücken mit
+  Songs, die wir besonders lieben und diesen Monat besonders häufig gehört
   haben.
 fileName: 2019-01---10-songs-fuer-den-februar-2019.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Top-10-Winter-Destinations__m.jpg
@@ -31,15 +33,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Unterminated JSX contents (39:16)"
+errors: {}
 subTitle: Präsentiert von den drei von der Bande
-  
 ---
 
-## unknown: Unterminated JSX contents (39:16)
-
-<!--
 **Die drei von der Bande präsentieren Euch heute die 10 Songs für den
 Februar 2019. Die Auswahl besteht aus einer Kombination aus brandneuen Stücken
 mit Songs, die wir besonders lieben und diesen Monat besonders häufig gehört
@@ -64,26 +61,104 @@ hoch und runter spielt.
 
 ## 10 Songs, die Ihr nicht mehr vergesst
 
+**Mono - "Nowhere, Now Here"**
+
+Das neue Mono-Album ist das musikalische Werk, auf das wir alle sehnsüchtig
+gewartet haben. "Nowhere, Now Here" ist eines von vielen nachdenklichen,
+kreativen und hochmusikalischen Stücken, die uns auf der gleichnamigen LP
+beschert wurden. Ein Juwel.
+
+ <YouTube id="L3Plq_c77r0" />
+
+**Brass Against - "The Pot" (Tool Cover)**
+
+Dieses Tool Cover wurde mir vom Schallplattenhändler meines Vertrauens Martin
+ans Herz gelegt - und das will wirklich was heißen! Durch meine
+Qualitätskontrolle ist es auch durch - Ihr könnt es also auf jeden Fall hören!
+
+ <YouTube id="8zfYO9sZjrE" />
+
+**Brutus - "War"**
+
+Schaut Euch dieses Video an, dann werdes Ihr überzeugt sein: Hochleistungsport
+an den Drums und der Stimme liefert Sängerin Stefanie da ab. Die Band stammt
+übrigens aus Brüssel. Empfohlen hat sie Valentin.
+
+ <YouTube id="EBRYSlKDlws" />
+
+**Audioslave - "Show Me How To Live"**
+
+Ein Klassiker, der bei Valentin diesen Monat mal wieder rundlief - sollte man
+einfach viel häufiger hören. Besonders schön werden die Emotionen in diesem
+Stück Film transportiert, in dem Dave Grohl mit auf die Bühne geholt wird. Danke
+für den Link zu diesem genialen Video, Valentin - das ist wirklich legendär!
+
+ <YouTube id="tWNnLOaVupk" />
+
+**John Garcia - "Space Vato"**
+
+Kyuss Sänger John hat mal wieder eine kleine musikalische Perle hervorgebracht.
+Das neue Album "John Garcia And The Band Of Gold" ist die Muschel drumherum.
+
+ <YouTube id="KX0f2_zQS8o" />
+
+**Staind - "Outside"**
+
+Was haben wir diesen Song hoch und runtergehört, mitgesungen, dazu geweint,
+getanzt,  geschrieben und nachgedacht. Jetzt ist er wieder hier. Valentin hat
+ihn - zu Recht - aus der Versenkung geholt.
+
+ <YouTube id="mVQpfoqsY8Q" />
+
+**La Dispute - "FULTON STREET I"**
+
+In Kürze werden La Dispute ihr langersehntes neues Album "Panorama"
+veröffentlichen. Matze hat die Vorauskopplung "Fulton Street" zu unserer Liste
+hinzugefügt und jetzt wollen wir alle drei nicht mehr warten, bis wir endlich
+alle Songs hören können.
+
+ <YouTube id="bhgqj1SP750" />
+
+**Trent Reznor &amp; Atticus Ross - "Undercurrents"**
+
+Ich muss zugeben dieses " **Birdbox** " auf Netflix macht mir ein bisschen
+Angst. Ich fürchte, es könnte zu gruselig werden. Allerdings komme ich wohl
+nicht darum herum: Niemand geringeres als NIN-Dreamteam Reznor und Ross haben
+den Soundtrack dazu beigetragen und der ist ziemlich gut. Genau wie so ziemlich
+alles an Filmmaterial, was die beiden bis jetzt mit ihrer Musik ausgeschmückt
+haben. Erst letzens hat mich " **Gone Girl** " bis ins Mark begeistert. Ich bin
+also gespannt und hole mir schon mal ein Kissen "für vor die Augen". Hier gibt
+es leider nur einen Screenshot, das Abspielen des Videos wurde unterbunden.
+Anhören könnt Ihr das Stück dann weiter unten - versprochen!
+
 <RemoteImage alt={`10-songs`} size="medium" title={``}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Bildschirmfoto-2019-01-25-um-14.58.27.png__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Bildschirmfoto-2019-01-25-um-14.58.27.png__l.jpg"
 loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAKCAYAAADVTVykAAAACXBIWXMAAAsTAAALEwEAmpwYAAADHklEQVQ4jZ2Ty08bVxTGRwoUREwch9gzHo/t8WP8wAOO3++HoAZiJ3LcJmwaKZWyaRdIbNJWqAukdgFSqZCARUULRaqExENsqNmwYF9W/Yd+1b0SUdRdsjg6955z5tzvfN8ZJZcv8mR2lulkgkTqCbOFNna2jp2rU8tnqFby5AslarUapVKJbDZLJpOhUqlQLpff34vForRCoSDj1WqVfD4vc+l0+n2N6CG8qBF5xbZnKKdt+q0KUV0jFU0QS5QwZ3t883mNVtrP88FLBoMXJBIJ+XC73SYUChGPx2m1WvIucrZtS0CWZWEYBrlcjrm5ObrdLs1mk1QqJb8RddFoVIJV4rEYD50PsJNxTK+bmDHFd4MaP339BX/+8JZONsTub78z/PuS09NTNjY2uLm54fDwkLW1Nba2tri9veX4+Jjt7W0uLy+5urri5OSEs7MzdnZ22N/f5/z8nL29Pa6vrzk6OmI4HLK5uYkikIzcG2HS4eChy4Xy2QTBYBBT8zAoWiyV43SePqNaqcjpwuEw8/PzLC8vSzrF9EKepaUlOfHCwgIrKyssLi7Ks5i80+nQaDQke6urq9L3ej0phSIajo+NMemYwOm4T84K061k+PnH70mGDQLqI375dZuDgz9YX19nd3eXi4sL6vU6LpcL0zQl4EAgIMH5/X68Xi8+n0/GhFR3NcKLnIiLOlGviMToyD2iYZOZ1DSvnzZ59+ZLhn8d8PJ5F/XxFMVSWU7T7XWp1Wv0+30JQGgqFknoKnbgzieTSek/jN2d/59TfIaBY3yUcmaGZwtzvHrRo7c4z1fLr3A5J5m4PyGpLxVLtBpNmo2G3GBBsaBdbLuQUUwqJvpYU3y6zuTYKO1kgKLlxwqbTLkeEAmbGN4pHOPjpEIJLD1ERA0SMyLEAhH5qGhwR6lg8lNM8Rs+nE4nfq9GyG8QNoOoqls+4NYe4xl1or2rYv37luw/3+K+6mPlp5mJp0impiUIXdflbyd0/1hTNE3Dq+t4NA23quJRVURMFV734nV50BJ+9FYcoxrHU4ng03QM3cBn+CQDslbTPsn+A1bZBuW5mq8sAAAAAElFTkSuQmCC"
 />
 
-<ol>
-    <li> __Mono - "Nowhere, Now Here"__ Das neue Mono-Album ist das musikalische Werk, auf das wir alle sehnsüchtig gewartet haben. "Nowhere, Now Here" ist eines von vielen nachdenklichen, kreativen und hochmusikalischen Stücken, die uns auf der gleichnamigen LP beschert wurden. Ein Juwel.
- <YouTube id="bhgqj1SP750" /> </li>
-    <li> __Trent Reznor &amp; Atticus Ross - "Undercurrents"__ 
-Ich muss zugeben dieses " __Birdbox__ " auf Netflix macht mir ein bisschen Angst. Ich fürchte, es könnte zu gruselig werden. Allerdings komme ich wohl nicht darum herum: Niemand geringeres als NIN-Dreamteam Reznor und Ross haben den Soundtrack dazu beigetragen und der ist ziemlich gut. Genau wie so ziemlich alles an Filmmaterial, was die beiden bis jetzt mit ihrer Musik ausgeschmückt haben. Erst letzens hat mich " __Gone Girl__ " bis ins Mark begeistert. Ich bin also gespannt und hole mir schon mal ein Kissen "für vor die Augen". Hier gibt es leider nur einen Screenshot, das Abspielen des Videos wurde unterbunden. Anhören könnt Ihr das Stück dann weiter unten - versprochen!
+**Steve Gunn - "Stonehurst Cowboy"**
 
-## Unsere komplette Liste findet Ihr auch bei iTunes
+Der New Yorker Sänger und Gitarrist Steve Gunn beschreitet inzwischen seit rund
+15 Jahren musikalische Pfade. Im Januar hat er wieder ein besonders schönes
+Album für uns. "The Unseen In Between" streift, wie wir es von ihm kennen,
+wieder die verschiedensten Stilrichtungen. "Stonehurst Cowboy" gefällt mir
+persönlich besonders gut.
 
-## <iframe style="width: 100%; max-width: 300px !important; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2019-01-25-die-drei-von-der-bande-10/pl.u-krNVFv3dBdD" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
+ <YouTube id="9B2LQ4UP8DQ" />
 
-## Spotify-Hörer werden hier glücklich
+**Jimi Hendrix - "The Wind Cries Mary"**
 
- <YouTube id="user/1121757456/playlist/7CmB7tQhXfOuhJrvTDZt05" />
+"Kann das eigentlich wirklich wahr sein, dass wir alle viel zu selten Jimi
+Hendrix hören? Wie kommt das?", hat sich Valentin gefragt und diesen Song zu
+unserer Liste beigesteuert. Beim Schauen des Videos wird mir erstmal bewusst,
+wie wunderbar es eigentlich ist, dass das Internet diese ganzen unvergesslichen
+Aufnahmen konserviert, die uns schon unsere Eltern früher regelmäßig
+präsentierten und die wohl auch noch Generationen um Generationen nach uns in
+ihren Bann ziehen werden.
 
--->
+ <YouTube id="r0EMrJTgqgM" />
 
-  
+## Unsere komplette Liste findet Ihr auch als Playlist
+
+<Playlist itunes="2019-01-25-die-drei-von-der-bande-10/pl.u-krNVFv3dBdD" spotify="7CmB7tQhXfOuhJrvTDZt05" />

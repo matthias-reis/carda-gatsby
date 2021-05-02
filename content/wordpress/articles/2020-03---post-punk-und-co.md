@@ -7,12 +7,12 @@ typeName: Artikel
 title: Post-Punk & Co.
 seoTitle: Post-Punk und Co. - Playlist von Joy Division bis Idles
 ogTitle: Post-Punk und Co. - Playlist von Joy Division bis Idles
-description: Habt Ihr Lust auf ein bisschen Post-Punk, No Wave und New Wave? Ich
-  habe eine umfangreiche Playlist zusammengestellt, die keine Wünsche offen
-  lässt.
-excerpt: Habt Ihr Lust auf ein bisschen Post-Punk, No Wave und New Wave? Ich
-  habe eine umfangreiche Playlist zusammengestellt, die keine Wünsche offen
-  lässt.
+description:
+  Habt Ihr Lust auf ein bisschen Post-Punk, No Wave und New Wave? Ich habe eine
+  umfangreiche Playlist zusammengestellt, die keine Wünsche offen lässt.
+excerpt:
+  Habt Ihr Lust auf ein bisschen Post-Punk, No Wave und New Wave? Ich habe eine
+  umfangreiche Playlist zusammengestellt, die keine Wünsche offen lässt.
 fileName: 2020-03---post-punk-und-co.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_12-Songs-Header__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_12-Songs-Header__l.jpg
@@ -35,7 +35,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Von Joy Division bis Idles
-  
 ---
 
 **Wer hat Lust auf ein bisschen Post-Punk, No-Wave und New Wave? Ich habe eine
@@ -288,12 +287,6 @@ aktuellen Album "Dusty Notes" mal wieder bewiesen. Dieses Stück Musik hier wurd
 Wenn Euch meine Liste gefällt, könnt Ihr sie jederzeit bei iTunes und Spotify
 anhören.
 
-## iTunes
+## Die Playlists
 
-<iframe src="https://embed.music.apple.com/de/playlist/2020-01-20-wave-postpunk/pl.u-NeAgClxZ2Zy" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" data-mce-fragment="1"></iframe>
-
-## Spotify
-
- <YouTube id="playlist/4qj01sHMZGcb8Z6qvFPPIJ" />
-
-  
+<Playlist itunes="2020-01-20-wave-postpunk/pl.u-NeAgClxZ2Zy"  spotify="4qj01sHMZGcb8Z6qvFPPIJ" />

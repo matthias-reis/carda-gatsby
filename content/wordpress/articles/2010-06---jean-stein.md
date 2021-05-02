@@ -23,7 +23,7 @@ labels:
   - Indie-Club
   - Jean Stein
   - Rock
-  - Rock´n`Roll
+  - Rock'n'Roll
   - Schornstein
 focusKeyword: Jean Stein
 status: publish

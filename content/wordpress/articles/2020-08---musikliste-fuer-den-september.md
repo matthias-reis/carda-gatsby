@@ -7,10 +7,12 @@ typeName: Artikel
 title: Musikliste für den September
 seoTitle: Musikliste für den September - frisch selektiert und aufgelegt
 ogTitle: Musikliste für den September - frisch selektiert und aufgelegt
-description: "Es ist soweit: Die Musikliste für den September ist bereit. Ihr
-  findet darin unsere aktuellen Highlights aus Ambient, Post-Rock, Prog und Co."
-excerpt: "Es ist soweit: Die Musikliste für den September ist bereit. Ihr findet
-  darin unsere aktuellen Highlights aus Ambient, Post-Rock, Prog und Co."
+description:
+  'Es ist soweit: Die Musikliste für den September ist bereit. Ihr findet darin
+  unsere aktuellen Highlights aus Ambient, Post-Rock, Prog und Co.'
+excerpt:
+  'Es ist soweit: Die Musikliste für den September ist bereit. Ihr findet darin
+  unsere aktuellen Highlights aus Ambient, Post-Rock, Prog und Co.'
 fileName: 2020-08---musikliste-fuer-den-september.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_musikliste-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_musikliste-1__l.jpg
@@ -44,7 +46,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Frisch selektiert und aufgelegt
-  
 ---
 
 **Es ist wieder so weit. Die Musikliste für den nächsten Monat ist fertig. Wie
@@ -232,12 +233,6 @@ unsere Liste gesetzt. Hier ist sein Opener zum Video:
 
  <YouTube id="EcG-htmIZR0" />
 
-## Unsere September-Playlist bei Spotify
+## Unsere September-Playlists
 
- <YouTube id="playlist/4Fs316twb1xaWAzFndLXja" />
-
-## Unsere September-Playlist bei iTunes
-
-<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-08-25-rock-n-roll-vegan/pl.u-29rac8b5452" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
-
-  
+ <Playlist spotify="4Fs316twb1xaWAzFndLXja" itunes="2020-08-25-rock-n-roll-vegan/pl.u-29rac8b5452" />

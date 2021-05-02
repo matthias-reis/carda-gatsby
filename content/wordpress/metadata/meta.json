@@ -1277,172 +1277,6 @@
     "/2021/04/sauerteig-grundrezept/"
   ],
   "errors": {
-    "invalidMdx": [
-      {
-        "path": "https://cardamonchai.com/2012/09/deftones-stellen-zwei-neue-songs-vor-album-im-november/",
-        "message": "unknown: Unexpected token, expected \"}\" (16:67)"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/10/verlosung-t-shirt-idee-die-bildergalerie/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (11:15)"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/05/nine-inch-nails-live-zitadelle-berlin/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (87:18)"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/11/liebster-blog-award/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (41:29)"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/09/15-lesetipps-fuer-vegan-einsteiger/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (146:53)"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/02/chiapudding/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (35:25)"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/03/die-ultimative-vegane-festivalliste/",
-        "message": "unknown: Unterminated JSX contents (284:16)"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/09/jeder-kanns-brot-veganes-vollkornbrot-rezept/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (38:76)"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/12/tierpatenschaft-verschenken-und-kochbuch-bekommen/",
-        "message": "unknown: Expected corresponding JSX closing tag for <li> (73:0)"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/08/vegan-beauty-basket-gratis-aktion/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (53:95)"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/04/interview-mit-danny-von-vegablum/",
-        "message": "unknown: Expected corresponding JSX closing tag for <span> (214:120)"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/08/erwartungsgebuegel-menschen-untereinander/",
-        "message": "unknown: Unterminated JSX contents (52:16)"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/08/katzentempel-hamburg-interview/",
-        "message": "unknown: Expected corresponding JSX closing tag for <i> (214:95)"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/09/fopo-rettet-aussortierte-fruechte/",
-        "message": "unknown: Expected corresponding JSX closing tag for <sub> (44:121)"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/10/mystery-blogger-award-mein-blog-ist-dabei/",
-        "message": "unknown: Expected corresponding JSX closing tag for <li> (133:0)"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (168:36)"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/02/choclate-vegane-schokolade-aus-hamburg/",
-        "message": "unknown: Expected corresponding JSX closing tag for <li> (106:0)"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/06/kartoffelsalat-mit-superfruits-und-zuckerschoten/",
-        "message": "unknown: Unterminated JSX contents (52:16)"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/07/make-up-fasten/",
-        "message": "unknown: Unterminated JSX contents (101:16)"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/08/veganer-schaumfestiger-herbe-duschgele-bioturm/",
-        "message": "unknown: Expected corresponding JSX closing tag for <li> (58:34)"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/08/fuer-limo-von-voelkel-im-test/",
-        "message": "unknown: Unterminated JSX contents (113:16)"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/08/wwf-geisternetz-warnemuende/",
-        "message": "unknown: Unexpected token, expected \"}\" (55:13)"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/09/nine-inch-nails-zitadelle-spandau/",
-        "message": "unknown: Unterminated JSX contents (89:16)"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/10/kushel-im-test/",
-        "message": "unknown: Unterminated JSX contents (100:16)"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/11/sonnenuntergang-mit-bester-aussicht/",
-        "message": "unknown: Expected corresponding JSX closing tag for <MDXLayout> (19:0)"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/11/der-praesident/",
-        "message": "unknown: Expected corresponding JSX closing tag for <MDXLayout> (15:0)"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/12/neues-von-santaverde/",
-        "message": "unknown: Unterminated JSX contents (71:16)"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/12/musik-2018/",
-        "message": "unknown: Unterminated JSX contents (133:16)"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/01/10-gruende-warum-es-ok-ist-an-sich-zu-arbeiten/",
-        "message": "unknown: Unterminated JSX contents (38:16)"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/01/10-songs-fuer-den-februar/",
-        "message": "unknown: Unterminated JSX contents (39:16)"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/04/10-tipps-wie-du-deine-nerven-schonst/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (45:6)"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/05/10-ideen-fuer-mehr-glueckliche-momente/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (50:40)"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/05/howey-ou-klimastreik/",
-        "message": "unknown: Expected corresponding JSX closing tag for <sub> (12:86)"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/08/12-songs-fuer-den-september-2019/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (28:71)"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/10/tierversuche-in-deutschland/",
-        "message": "unknown: Unexpected token, expected \"}\" (15:21)"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/10/archive-live-grosse-freiheit-36/",
-        "message": "unknown: Unexpected token, expected \"}\" (17:5)"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/11/13-songs-fuer-den-dezember-2019/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (22:72)"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/12/10-tipps-gegen-negativitaet/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (74:46)"
-      },
-      {
-        "path": "https://cardamonchai.com/2021/01/we-lost-the-sea-interview/",
-        "message": "unknown: Unexpected token, expected \"}\" (184:23)"
-      },
-      {
-        "path": "https://cardamonchai.com/2021/01/chevelle-niratias-titelliste/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (24:15)"
-      },
-      {
-        "path": "https://cardamonchai.com/2021/02/feuerwear-verlosung/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (63:96)"
-      }
-    ],
     "outsideImage": [
       {
         "path": "https://cardamonchai.com/2014/01/mein-jahresruckblick-2013/",
@@ -1533,6 +1367,12 @@
       {
         "path": "https://cardamonchai.com/2018/11/spielt-keine-rolle/",
         "message": "no h2 heading found - no sub title"
+      }
+    ],
+    "invalidMdx": [
+      {
+        "path": "https://cardamonchai.com/2020/01/12-songs-fuer-den-februar-2020/",
+        "message": "unknown: Expected corresponding JSX closing tag for <MDXLayout> (29:53)"
       }
     ]
   }

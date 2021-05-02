@@ -7,12 +7,12 @@ typeName: Artikel
 title: 12 Songs für den Januar
 seoTitle: 12 Songs für den Januar - präsentiert von den drei von der Bande
 ogTitle: 12 Songs für den Januar - präsentiert von den drei von der Bande
-description: Auch im neuen Jahr möchten wir Euch regelmäßig mit neuer Musik
-  versorgen. Für den Januar haben wir bereits 12 Songs für Euch
-  zusammengestellt.
-excerpt: Auch im neuen Jahr möchten wir Euch regelmäßig mit neuer Musik
-  versorgen. Für den Januar haben wir bereits 12 Songs für Euch
-  zusammengestellt.
+description:
+  Auch im neuen Jahr möchten wir Euch regelmäßig mit neuer Musik versorgen. Für
+  den Januar haben wir bereits 12 Songs für Euch zusammengestellt.
+excerpt:
+  Auch im neuen Jahr möchten wir Euch regelmäßig mit neuer Musik versorgen. Für
+  den Januar haben wir bereits 12 Songs für Euch zusammengestellt.
 fileName: 2019-12---12-songs-fuer-den-januar.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_12_12-Songs-Header.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_12_12-Songs-Header.png__l.jpg
@@ -56,7 +56,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Präsentiert von den drei von der Bande
-  
 ---
 
 **Auch im neuen Jahr möchten wir Euch regelmäßig mit neuer Musik versorgen. Für
@@ -203,22 +202,10 @@ am besten "Mom, It Doesn't Work" an - Vorsicht! Suchtgefahr!
 
  <YouTube id="N-kIcXxCmzI" />
 
-## Hier findet Ihr die Playlist auf Spotify
+## Unsere Playlists
 
- <YouTube id="playlist/2s53Sj6xPHpvOg1LBi4onA" />
-
-## iTunes Fans werden hier glücklich
-
-<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2019-12-25-die-drei-von-der-bande/pl.u-W4NaCEkXBXN?l=en" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
+ <Playlist spotify="2s53Sj6xPHpvOg1LBi4onA" itunes="2019-12-25-die-drei-von-der-bande/pl.u-W4NaCEkXBXN"  />
 
 Hat Euch unsere Liste gefallen? Klasse!
 [Abonniert gerne meinen Newsletter](#newsletter), um in Zukunft auf meiner Seite
 nichts mehr zu verpassen!
-
-<RemoteImage alt={`12-songs-pin`} size="large" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_12-Songs-Pinterest-2.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_12-Songs-Pinterest-2.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,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"
-/>
-
-  

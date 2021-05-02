@@ -189,7 +189,7 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_0
 ### August
 
 Im [August](/2015/08/) habe ich Karten für das
-[Rock´n`Heim Festival](/2015/08/rocknheim-festival-2015/) und die Teilnahme an
+[Rock'n'Heim Festival](/2015/08/rocknheim-festival-2015/) und die Teilnahme an
 einem Fahrsicherheitstraining am Hockenheimring gewonnen, wo wir ein tolles
 Wochenende in Saus und Braus verlebten. Außerdem waren wir auf dem
 [A Summer's Tale Festival](/2015/08/a-summers-tale-festival-2015/), ich habe ein

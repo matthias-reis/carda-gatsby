@@ -7,11 +7,13 @@ typeName: Artikel
 title: Playlist April
 seoTitle: Playlist April – 12 Songs zum Davonträumen (Post-Rock bis Jazz Core)
 ogTitle: Musikliste April – 12 Songs zum Davonträumen (Post-Rock bis Jazz Core)
-description: Die Playlist für den April ist fertig! Wir haben 12 Songs aus den
+description:
+  Die Playlist für den April ist fertig! Wir haben 12 Songs aus den
   unterschiedlichsten alternativen Genres für Euch zusammengestellt.
-excerpt: Hier sind wieder 12 ganz besonderes Songs für Euch. Bei unserer Auswahl
-  haben wir uns in den verschiedensten Genres ausgetobt – Es werden also nicht
-  nur Post-Rock Fans glücklich. Die Stücke laden Euch dazu ein, Euch von Zeit zu
+excerpt:
+  Hier sind wieder 12 ganz besonderes Songs für Euch. Bei unserer Auswahl haben
+  wir uns in den verschiedensten Genres ausgetobt – Es werden also nicht nur
+  Post-Rock Fans glücklich. Die Stücke laden Euch dazu ein, Euch von Zeit zu
   Zeit ein bisschen davon zu träumen
 fileName: 2021-03---playlist-april.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_12-songs-april-blog__m.jpg
@@ -58,7 +60,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: 12 Songs zum Davonträumen
-  
 ---
 
 **Die Playlist für den April ist fertig! Das ging ganz schön schnell, oder? Man
@@ -247,12 +248,6 @@ Wenn Ihr in Zukunft keine Playlist mehr verpassen wollte,
 an. Ihr werdet dann einmal pro Woche über neue Artikel auf meiner Seite
 informiert und erhaltet einmal im Monat den Link zur frischen Playlist.
 
-## Die Playlist für den April bei Spotify hören
+## Die Playlists für den April
 
- <YouTube id="playlist/7dAubapyKRl1i2HnqjZMIL" />
-
-## Die Playlist für den April bei iTunes hören
-
-<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2021-03-25-rock-n-roll-vegan/pl.u-NN34ulxZ2Zy" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
-
-  
+ <Playlist spotify="7dAubapyKRl1i2HnqjZMIL" itunes="2021-03-25-rock-n-roll-vegan/pl.u-NN34ulxZ2Zy" />

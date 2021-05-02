@@ -27,15 +27,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (146:53)"
+errors: {}
 subTitle: Diese Bücher bringen wirklich was
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (146:53)
-
-<!--
 **Für Dich habe ich mal ein paar Lesetipps zusammengestellt, die jede/r
 Vegan-Einsteiger\*in auf dem Zettel haben sollte.**
 
@@ -170,7 +166,7 @@ auf seinem Blog und seiner Facebook-Seite teilt.
 
 ### 12. Der Verein "Vegane Gesellschaft Deutschland e. V.”
 
-über die Vegane Gesellschaft können Informationen zu allen das vegane Leben
+Über die Vegane Gesellschaft können Informationen zu allen das vegane Leben
 betreffenden Themen bezogen werden. Im Blog gibt es u. a. aber auch
 Veranstaltungshinweise und Ernährungstipps.
 [Hier geht's zur Homepage](https://www.vegane.org/).
@@ -184,7 +180,7 @@ Antworten auf Standard-Gegenargumente wie "Es ist natürlich, dass Menschen
 Fleisch essen" und "Die Tiere werden doch human getötet" bereithält.
 [Hier geht's zur Homepage](https://vebu.de/).
 
-### 14. Der Verein "PETA Deutschland e.V.”
+### 14. Der Verein "PETA Deutschland e.V."
 
 PETA bietet auf seiner Homepage nicht nur Informationen zu aktuellen
 Tierschutzaktionen, sondern auch hilfreiche Tipps für Diskussionen,
@@ -201,12 +197,15 @@ Beispiel, wie er es durch seine Ernährungsumstellung geschafft hat, 25 Kilo
 abzunehmen.
 [Hier geht's zu meiner Rezension](/2014/11/so-geht-vegan-von-patrick-bolk/).
 
-<div class="page" title="Page 1">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
 ### Zitat aus meiner Rezension:
-> "Die meisten Veganer, die ich kenne, sind eher unvorbereitet in ihre Umstellung hineingestolpert und haben sich nach und nach ihr Infos aus dem Internet und auch Büchern besorgt, mir geht es hier ähnlich. Ich denke, das geht auch gut, wenn man dabei ein paar Grundregeln beachtet. Wer sich jedoch etwas Unterstützung wünscht, der ist mit dem 10-Punkte-Programm "So geht vegan" sicherlich sehr gut beraten." 
+
+> "Die meisten Veganer, die ich kenne, sind eher unvorbereitet in ihre
+> Umstellung hineingestolpert und haben sich nach und nach ihr Infos aus dem
+> Internet und auch Büchern besorgt, mir geht es hier ähnlich. Ich denke, das
+> geht auch gut, wenn man dabei ein paar Grundregeln beachtet. Wer sich jedoch
+> etwas Unterstützung wünscht, der ist mit dem 10-Punkte-Programm "So geht
+> vegan" sicherlich sehr gut beraten."
+
 [Meine komplette Rezension des Buchs findest Du hier](/2014/11/so-geht-vegan-von-patrick-bolk/).
 
 ## Hast Du noch weitere Quellen für Vegan-Einsteiger?
@@ -214,8 +213,6 @@ abzunehmen.
 Das waren meine 15 Tipps für Vegan-Einsteiger. Sicher gibt es aber noch mehr.
 Wenn Du noch einen guten Lesetipp für Menschen hast, die sich dem Veganismus
 nähern möchten, dann poste gerne unten in den Kommentaren und verlinke dort auch
-andere Seiten mit Lese-Listen für Vegan-Einsteiger.</div></div></div></div>
-
--->
+andere Seiten mit Lese-Listen für Vegan-Einsteiger.
 
   

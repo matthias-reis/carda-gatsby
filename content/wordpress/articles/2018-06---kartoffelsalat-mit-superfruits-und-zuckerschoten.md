@@ -45,15 +45,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Unterminated JSX contents (52:16)"
+errors: {}
 subTitle: Vegan, leicht und lecker
   
 ---
 
-## unknown: Unterminated JSX contents (52:16)
-
-<!--
 **Der Sommer ist da und das bedeutet: Picknicks und Abende im Park oder auf dem
 Balkon stehen an. Da ist es gut, wenn man Essen vorbereitet, das man gut
 mitnehmen kann. Lecker schmecken sollte es natürlich nach Möglichkeit auch
@@ -71,8 +67,21 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28658850088
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAYF/8QAKRAAAQQBBAIBAwUBAAAAAAAAAQIDBBEFABIhMQYTUSJBUgcUYXGSof/EABcBAQEBAQAAAAAAAAAAAAAAAAMEBQb/xAAoEQABAwIEBAcAAAAAAAAAAAABAgMRAAQhMUHwBRJRwWFxgaGx0eH/2gAMAwEAAhEDEQA/AGRmvOMR41IaYyC1vSXG96I8f6lk3wCPtfPP8HXIb/VWNCb9WakTY0poEpQmCEh38QSSDuPQoAdaxeJ8gkYWe/PdisyDIfa2iPSVkBtaq29dlfR44+dR5jzR/JKckGfjmsXLZRsYLnskNKCv8pUKPf8AeufdvXnnMjy9QqO0zhr4+VatnZJcSCCCTlrv8pi5DPyshj1zI8qTHmPsJWiO68kGOCdu4gGhV2a+BqxP82XFjOx1PMqkM9PEez3CwBVf9J0nvF8vIXkpU2OtorltpYUhvfvbaBKUrKjQSpShwB13ZvVfM4TJysoy+p4Mrfc9TMduiWAbO90ffu7skCgdRNF5l1Uukc2s7y30qx+2ZAwGA9B23FRZVmVDeSZ8Rhl2QhUqPIQ4q2wfyCbHX0gXxersLA4PHzsGMvCVHiISZIcWyoIdfco7Vr5Ctps0aqkj50aNCtakkJSYBn2qa2bSlRgafJNaPyObAzGTjfuI8X0ReWZCFU5YoghQ+Oe9KdLuQGXkyIM8zmS66lYWorPqSo2V0KI4sHiyBo0aayltBIOn3RcQWYAFf//Z"
 />
 
-<ul>
-    <li>
+- 1 kg kleine festkochende Kartoffeln
+- 250 g Zuckerschoten
+- 100 g Dahl-Linsen
+- 2 EL Balsamico-Essig
+- 1 gehäufter EL Sanddornmarmelade
+- 2 TL Senf
+- 1 Zitrone
+- Olivenöl
+- Biber (Chiliflocken)
+- Wasser
+- 1 - 2 TL Currypulver
+- 100 g gemische Superfruits (Goji, Maulbeeren, Acai, Cranberrys)
+- Salz
+- Pfeffer
+- 1 EL Sojasauce
 
 ## Zubereitung
 
@@ -112,7 +121,5 @@ mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_4072405113
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_40724051130_bce9b9d453_z__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQGBf/EACsQAAIBAwQBAgUFAQAAAAAAAAECAwQFEQAGEiExByITFEFRYRUjMmJxkf/EABcBAAMBAAAAAAAAAAAAAAAAAAIEBQP/xAAlEQACAQMCBQUAAAAAAAAAAAABAgMABBExQQVhgZHwEhMhUcH/2gAMAwEAAhEDEQA/AND0321R7b29+o16Riqki+JM8mPYuOQTv6AYyPq2c/xGteH1Ct9bAzUFVBCpmWniEjj5iYsSvJI+zgH8ffsY0nv1qhrBTpFUCCKSrWGoBUe9XLgjJ8Ybv8kAai6i4XG+T09vjp6OIRkQRVJSNOAYMSzeWBAU5C+c96hcQndCIlPpGMk5x50qpbsLuYyzHJPmOg/Krq/edRYTMtZcwUYskYf9x8hVKt34zh+/tj/dKere3I73san3BHBHFXQ0y1REXgArzkT/AAjk2Pow/sdR8geK626nqqVaxkjXjUGcERxqxCDgQCVOBkEZIAGrKnvTnZe+ZLlA8aRhmWThxjkBhfpegM9gHHXuUaDhbOCIiSwI1zpjlzJorllib3IvgqRt97UtsPcdu3RY0oLsElniVDUQuxBbgQRIMd4JUEkeGznojTW61rLRU3Got9oqrlDVxrJLMnBvcD7cA+SeWDgZ6zo0acubSK6QGUaUN4xs7l1i0OD3rE2dYqivsqGutRtlV84Z5a9z8JznDHgPJwMqCB/wakvW31Ao7hSLtjbTKbfG2Z5I25K3u5cA2Ty92GZu8kAZPZJo1taW6QqWXU+dqQSVpiA+1f/Z"
 />
-
--->
 
   

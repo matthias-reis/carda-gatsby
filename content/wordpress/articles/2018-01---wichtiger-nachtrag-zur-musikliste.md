@@ -123,11 +123,13 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_mqdefault__
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAQUI/8QAKRAAAQQBAwIEBwAAAAAAAAAAAQACAwQRNHOxBSEGEiJRMkFxcoGRof/EABYBAQEBAAAAAAAAAAAAAAAAAAACBP/EABsRAAICAwEAAAAAAAAAAAAAAAABAgQREjEy/9oADAMBAAIRAxEAPwDlyjrq+43lOxhkEbZHtMcbvhc8Fod9CRg/hJNHXVtxvKpVHxJ1KjFWihfCY68b4ow+IOw1zi4g9+/qOf17K4mytnV4NQ9vlOC5pOcYB7pMva6zuO5VHu+IOo3a0sFmSIxynL/LEGkn0/MfaP77qcXtdZ3HcpIWfKClra+43lOBPdCEiKvGYylC9rrG47lCEkLPEf/Z"
 />
 
-<h4>Das komplette Album von Japandroids "Near To The Wild Heart Of Life"
- <YouTube id="pSkrhQiwFcE" /> </h4>
+### Das komplette Album von Japandroids "Near To The Wild Heart Of Life"
 
-<h4>"Walk It Back" vom Album "Sleep Well Beast" von The National
- <YouTube id="UrfwMlB9u_w" /> </h4>
+ <YouTube id="pSkrhQiwFcE" />
+
+### "Walk It Back" vom Album "Sleep Well Beast" von The National
+
+ <YouTube id="UrfwMlB9u_w" />
 
 ### "Ether" von Behind The Shadow Drops (Album "Harmonic", 2017)
 
@@ -197,7 +199,7 @@ LCD Soundsystem in meiner
 [ultimativen Songliste 2017](/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/)
 vergessen habe!
 
-## Mogwai "Coolverine" vom Album "Every Country's Sun"
+### Mogwai "Coolverine" vom Album "Every Country's Sun"
 
 Neben "The Doomed" von A Perfect Circle und "Less Than" von Nine Inch Nails, die
 bereits in meiner ersten Liste Erwähnung fanden, deckt sich Valentins

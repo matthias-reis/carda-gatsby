@@ -7,9 +7,11 @@ typeName: Artikel
 title: 12 Songs für den Juli
 seoTitle: 12 Songs für den Juli - frisch auf Eurem Plattenteller
 ogTitle: 12 Songs für den Juli - frisch auf Eurem Plattenteller
-description: Für den Juli haben wir wieder 12 besonders herausragende Songs für
-  Euch zusammengestellt. Mit dabei sind neue Sensationen und starke Klassiker.
-excerpt: Für den Juli haben wir wieder 12 besonders herausragende Songs für Euch
+description:
+  Für den Juli haben wir wieder 12 besonders herausragende Songs für Euch
+  zusammengestellt. Mit dabei sind neue Sensationen und starke Klassiker.
+excerpt:
+  Für den Juli haben wir wieder 12 besonders herausragende Songs für Euch
   zusammengestellt. Mit dabei sind neue Sensationen und starke Klassiker.
 fileName: 2020-06---12-songs-fuer-den-juli.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_12-songs-fuer-den-juli__m.jpg
@@ -51,7 +53,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Frisch auf Eurem Plattenteller
-  
 ---
 
 **Gemeinsam mit Valentin und Matze habe ich wieder 12 Songs für Euch
@@ -202,8 +203,9 @@ kann, bin ich auf dieses Schmuckstück von dem von uns allen verehrten Richard D
 James aka Aphex Twin gekommen. Es stammt von seiner hochinteressanten EP
 'Computer Controlled Acoustic Instruments pt2' von 2015.
 
-<h3> <YouTube id="8tz6F32KeBw" /> 
-deM atlaS - "Gratitude" vom Album "Bad Actress"</h3>
+ <YouTube id="8tz6F32KeBw" />
+
+## deM atlaS - "Gratitude" vom Album "Bad Actress"
 
 Das Album, von dem dieses Lieblingstück aus Valentins Sammlung stammt, ist
 von 2018.
@@ -224,10 +226,7 @@ Deluxe Edition' des Albums 'Road To Ruin' veröffentlicht."
 
  <YouTube id="Z5_fQHTW_Sk" />
 
-<h3>12 Songs für den Juli bei Spotify hören
- <YouTube id="playlist/4RXyAdK8VzKoI4xCEhihrO" /> </h3>
+## Unsere Playlists
 
-<h3>12 Songs für den Juli bei iTunes hören
-<iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-06-25-die-drei-von-der-bande/pl.u-29k6F8b5452" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe></h3>
-
-  
+<Playlist spotify="4RXyAdK8VzKoI4xCEhihrO"
+itunes="2020-06-25-die-drei-von-der-bande/pl.u-29k6F8b5452" />

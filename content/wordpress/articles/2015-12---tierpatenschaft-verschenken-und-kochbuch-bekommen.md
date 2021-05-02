@@ -41,15 +41,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (73:0)"
+errors: {}
 subTitle: Ein perfektes Weihnachtsgeschenk
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;li> (73:0)
-
-<!--
 **Über XING lernte ich die Patentierbetreuerin des Deutschen Tierschutzbüros
 Denise Weber kennen. Sie stellte mir direkt ihr Projekt „Tierpatenschaft mit
 Herz" vor, von dem ich Euch heute gerne berichten möchte.**
@@ -73,7 +69,7 @@ Pflege brauchen oder aus anderen Gründen nicht vermittelbar sind. Sie werden
 dann auf Gnadenhöfen untergebracht, der Verein übernimmt dabei die anfallenden
 Kosten.
 
-<div style="float: right;"> <YouTube id="ZjvS5v8bi7Q" /> </div>
+ <YouTube id="ZjvS5v8bi7Q" />
 
 Denise erzählte mir, dass erst vor Kurzem zwei Neuankömmlinge im Projekt
 aufgenommen wurden. Die beiden Kühe Dorte und Denise wurden aus einem
@@ -103,15 +99,14 @@ Lieblingsrezepte, saisonal und zu jedem Anlass passend. Kleiner Geheimtipp: Es
 werden darin auch tolle Ideen für ein leckeres und pflanzliches Weihnachtsmenü
 verraten.
 
+## Alle Infos zur Weihnachtsaktion
+
 <RemoteImage alt={`Vegan Passion von Stina Spiegelberg`} size="medium"
 title={`Vegan Passion von Stina Spiegelberg`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_Veganpassion_Das-Kochbuch-838x1024__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_Veganpassion_Das-Kochbuch-838x1024__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgQFCP/EAC0QAAIBAwMCAwcFAAAAAAAAAAECAwQFEQASIQYxEyJBByRRYXKBsRQyYnGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAHxEAAQQDAAMBAAAAAAAAAAAAAgABAxEEEhMUIUHh/9oADAMBAAIRAxEAPwDpdEjjRUVI1UAAAKB9ho/1he5bJY2qoFiM8tRDTRB0BAaRwuccZwCTjPONUXGvomqfCerEM8DbgjKuex58w4wMn+s6Ae0O6Wu5UFTaamoqKmjrhujkhRi8D/wwP3DAP30cp6A7pIx2Jkl9nXUdbeqi/wBuuhgkqbVVLGJ4olTxYpF3LuUEgOMMCB8BpLUKBUSgKMbj6fPQ7pCG30EizWuJUavfdUSFNjynYRlvmNvb0yfjppUD3iX6j+dHjS9o2JVMGh0yFdSVsCXaaWvt7LAxZPPyrkMRvU7T5jtVRnjjHY6yqaso7HMytBDLNGBTh4iAVCxIM5PfKlTx3J9NNeprLLeFmg/SwKjHas6hWYDdnsy4751jxdEVEI8ORqesiRVWMsDFIuDkZOHU49DgauUeguHx2pbY80BHXX0p7ZU2+oudPLAzLLlxtHC5CHuO2QNNage8S/UfzovTWd7ZUvMLRUSzY2iQFX9Md1C/6NLpqeVpXZUyCxI5GgwsXxY3jZ7a7/Fiml6Fa//Z"
 />
-
-<div style="border: solid 2px #ff66cc; padding: 30px;">
-## Alle Infos zur Weihnachtsaktion
 
 - Wer in der Zeit vom 25. November bis einschließlich 23. Dezember eine
   Tierpatenschaft übernimmt oder eine verschenkt, erhält das vegane Kochbuch
@@ -127,8 +122,7 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
   geschickt. Es kommt in einem Paket zusammen mit den Unterlagen für die
   Patenschaft, der Urkunde sowie einem Tierretterarmband.
 - Zur Weihnachtsaktion des Deutschen Tierschutzbüro e. V. geht es
-[hier entlang](http://www.tier-patenschaft.de/weihnachten/).
-</div>
+  [hier entlang](http://www.tier-patenschaft.de/weihnachten/).
 
 Wer sich gerne weiter informieren möchte, oder sich für eine Patenschaft
 interessiert, besucht am besten die [Homepage](http://www.tierschutzbuero.de/)
@@ -141,7 +135,5 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_1
 
 Wer gerne mehr über die Milchindustrie und das Leid der Kühe in Erfahrung
 bringen möchte: [Hier entlang](/2014/09/pflanzenmilch-wieso-denn-blos/).
-
--->
 
   

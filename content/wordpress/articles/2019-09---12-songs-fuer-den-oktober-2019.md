@@ -7,10 +7,12 @@ typeName: Artikel
 title: 12 Songs für den Oktober 2019
 seoTitle: 12 Songs für den Oktober - Präsentiert von den drei von der Bande
 ogTitle: 12 Songs für den Oktober - Präsentiert von den drei von der Bande
-description: Auch musikalisch bedeutet der Herbst noch mehr bunte Vielfalt. Wir
-  haben wieder ein paar geniale Platten für Euch zusammengestellt.
-excerpt: Auch musikalisch bedeutet der Herbst noch mehr bunte Vielfalt. Wir
-  haben wieder ein paar geniale Platten für Euch zusammengestellt.
+description:
+  Auch musikalisch bedeutet der Herbst noch mehr bunte Vielfalt. Wir haben
+  wieder ein paar geniale Platten für Euch zusammengestellt.
+excerpt:
+  Auch musikalisch bedeutet der Herbst noch mehr bunte Vielfalt. Wir haben
+  wieder ein paar geniale Platten für Euch zusammengestellt.
 fileName: 2019-09---12-songs-fuer-den-oktober-2019.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_12-songs-fuer-den-oktober-anne-reis-cardamonchai-rock-n-roll-vegan-final.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_12-songs-fuer-den-oktober-anne-reis-cardamonchai-rock-n-roll-vegan-final.png__l.jpg
@@ -52,7 +54,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Präsentiert von den drei von der Bande
-  
 ---
 
 **Leute, der Herbst ist da! Alles wird bunt! Auch musikalisch bedeutet die neue
@@ -73,22 +74,137 @@ gehört haben, tauchen plötzlich wieder aus der Versenkung auf. Natürlich habe
 sie es nicht alle auf unsere 12er-Liste geschafft. Hier unsere Juwelen des
 Monats.
 
-1.  <ol>     <li> ## Cult Of Luna - "A Dawn To Fear" vom Album "A Dawn To Fear" Endlich bekommen wir nach und nach die Alben komplett zu hören, von denen wir in den letzen Monaten die Vorauskopplungen so sehr geliebt haben.  [Die neue Cult Of Luna Platte "A Dawn To Fear"](/2019/09/cult-of-luna-a-dawn-to-fear/)  ist für uns alle drei das Album-Highlight des Monats. Es kann sich definitiv mit den neuen Werken von Russian Circles und  [Tool](/2019/08/das-neue-tool-album-ist-da/)  ( [beide haben wir letzten Monat vorgestellt](/2019/08/12-songs-fuer-den-september/) ) messen. <YouTube id="9D2R69gVyZ0" />
-    </li>
-    </ol>
+## Cult Of Luna - "A Dawn To Fear" vom Album "A Dawn To Fear"
 
-## iTunes Fans können unsere Liste für den Oktober hier anhören
+Endlich bekommen wir nach und nach die Alben komplett zu hören, von denen wir in
+den letzen Monaten die Vorauskopplungen so sehr geliebt haben.
+[Die neue Cult Of Luna Platte "A Dawn To Fear"](/2019/09/cult-of-luna-a-dawn-to-fear/)
+ist für uns alle drei das Album-Highlight des Monats. Es kann sich definitiv mit
+den neuen Werken von Russian Circles und
+[Tool](/2019/08/das-neue-tool-album-ist-da/) (
+[beide haben wir letzten Monat vorgestellt](/2019/08/12-songs-fuer-den-september/)
+) messen.
 
-<iframe style="overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2019-09-25-die-drei-von-der-bande/pl.u-KA0vfvegag0?app=music" width="300" height="380" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
+ <YouTube id="2cYtqwUso-g" />
 
-## Spotify Anhänger\*innen werden hier glücklich
+## 65daysofstatic - "Popular Beats" vom Album "replicr"
 
- <YouTube id="playlist/7g5r96NzhAA2vE9HonQUDh" />
+Matze und ich würden am liebsten jeden Monat einen Song von 65daysofstatic in
+die Liste aufnehmen. Inzwischen gehört sie nicht mehr nur zu meinen
+Lieblingsbands. Auch Matze ist die Band aus Sheffield mehr als nur ans Herz
+gewachsen. Das Album "replicr" erscheint in Kürze und wird sicher hier im Blog
+auch mehr Beachtung finden. Letzten Monat hatten wir die erste Auskopplung
+"Trackeplatz" in der Liste. Weil Matze am liebsten "Popular Beats" mit drauf
+gepackt hätte und es inzwischen mit "Five Waves" noch eine dritte gibt, kommt
+Ihr heute wieder in den Genuss, Post-Rock für die Seele mit uns zu genießen.
+Matze rechnet übrigens mit einem Kopf-an-Kopf-an-Kopf-Rennen um das Album des
+Jahres zwischen Tool, Cult Of Luna und 65daysofstatic - es ist eben ein
+hochkarätiges Jahr, was Musikveröffentlichungen angeht. Wir bleiben dran.
 
-<RemoteImage alt={`12-songs`} size="large" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_12-songs-fuer-den-oktober-anne-reis-cardamonchai-rock-n-roll-vegan-pin.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_12-songs-fuer-den-oktober-anne-reis-cardamonchai-rock-n-roll-vegan-pin.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,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"
-/>
+## .gif from god - "Possible Futures In the Minds Of Children" vom Album "Approximation Of A Human"
 
-  
+.gif from god machen harte Musik, die ins Herz geht. Darum spielen sie in meiner
+Musiksammlung inzwischen schon fast sowas, wie eine tragende Rolle. Das neue
+Album "Approximation Of A Human" solltet Ihr auf jeden Fall mal komplett
+anhören. Neben irren Sounds macht die Band aus Richmond, Virginia im Web
+übrigens auch mit irren Bildern auf sich aufmerksam. Schaut mal nach.
+
+ <YouTube id="a_bzbK5Xs40" />
+
+## Mike Patton &amp; Jean-Claude Vannier - "Browning" vom Album "Corpse Flower"
+
+Matze findet klare Worte zu diesem Titel: "Ein klassischer Patton -
+experimentell und avantgardistisch, aber immer noch die beste Stimme im
+Musikbusiness. Ja, noch vor Maynard von Tool."
+
+ <YouTube id="lfyXn5hS2zY" />
+
+## Tiny Fingers - "The Day" von der Single "Session Ex"
+
+"Die neue EP ist sehr spannen und lässt auf mehr hoffen", findet Matze.
+Vielleicht gibt es ja bald einen Album-Nachfolger für "The Fall"? Wir bleiben
+gespannt. "The Day" ist auf jeden Fall schon mal ein schmuckes Stück Post-Rock.
+<YouTube id="0Njnwy0vzYc" />
+
+## Neil Young &amp; Crazy Horse - "Milky Way" vom Album "Colorado"
+
+Dass Neil Young bald ein neues Album herausbringt, erfreut uns alle drei sehr.
+Besonders, dass es wieder gemeinsame Aufnahmen mit Crazy Horse gibt, ist ein
+Highlight. Das ist das erste Mal mit dieser großartigen Band seit sieben Jahren.
+"Milky Way" ist eine von zwei bisherigen Vorauskopplungen. Am 25. Oktober wird
+es dann so weit sein und die komplette Platte wird enthüllt.
+
+ <YouTube id="y_-9qcbuLcA" />
+
+## Pixies - "On Graveyard Hill" vom Album "Beneath The Eyrie"
+
+Die Pixies begleiten mich schon seit ich ein Teeny war. Auf die Band um Francis
+Black ist immer Verlass. In schöner Regelmäßigkeit bringen die Bostoner (trotz
+einer kurzen zwischenzeitlichen Trennung) neue Musik raus, die mich immer wieder
+aufs Neue glücklich macht. So auch das neue Album "Beneath The Eyrie". Ich würde
+schon fast behaupten, dass ich es nahezu so oft gehört habe, wie das erste
+Pixies Werk, das ich in die Finger bekommen habe in den ersten paar Wochen.
+Gerade bekomme ich Lust, "Surfer Rosa" mal wieder anzuhören...
+
+ <YouTube id="E2o-65chdoc" />
+
+## Death Cab For Cutie - "Man in Blue" von der "Blue EP"
+
+DCFC ist eine dieser melancholischen Indiebands, die ich niemals missen möchte.
+Seid den späten 90ern machen sie ihre Fans glücklich. Nach dem letzten Album
+"Thank You For Today" von 2018 haben sie jetzt eine neue EP auf den Markt
+gebracht. Die Kreativität lodert ungebrochen weiter. Ich bin gespannt, was als
+Nächstes kommt.
+
+ <YouTube id="Z7I8oXaEWWQ" />
+
+## The Butterfly Effect - "Unbroken" (Single)
+
+An das Butterfly Effect Konzert, das ich vor gut zehn Jahren mit Valentin
+besucht habe, kann ich mich erinnern, als wäre es gestern gewesen. Ganz vorne in
+der ersten Reihe konnten wir Paul Gallaghers unglaubliche Stimme in vollem
+Umfang genießen. Leider haben die Australier bis jetzt noch nicht so viel Musik
+gemacht, wie ich es mir gewünscht hätte. Neben drei Alben ist ihre Diskographie
+bis jetzt vor allem mit Singles gefüllt. Aber, was nicht ist, kann ja noch
+werden. "Unbroken" ist im August erschienen und eine gute Überbrückung, bis
+hoffentlich bald ein weiteres Album in den Ladenregalen steht. Matze findet auch
+"Da kommt noch was! Das klingt auf jeden Fall nach mehr! Solider, progressiver
+Alternative Rock - den brauchen wir doch alle!"
+
+ <YouTube id="3G-P0GApRa4" />
+
+## Thom Yorke &amp; Flea - "Daily Battles" vom "Motherless Brooklyn" Soundtrack
+
+So, wie die Musik klingt, muss ich mir diesen Film ansehen. Matze hat sich in
+letzer Zeit ein bisschen an Thom Yorkes Musik sattgehört. Er findet dennoch,
+dass diese Kooperation mit Red Hot Chili Peppers Basser Flea definitiv zu den
+Must Hears gehört.
+
+ <YouTube id="gFjep-baGuU" />
+
+## The Tesky Brothers - "That Bird" vom Album "Run Home Slow"
+
+Das Album, von dem dieser Song stammt, hat mir der Schallplattenhändler meines
+Vertrauens ans Herz gelegt und was soll ich sagen? Sie ist mir an selbiges
+gewachsen und ich höre sie seitdem immer wieder. "That Bird" ist, finde ich, ein
+schöner Einstieg in den Blues der 2008  gegründeten Tesky Brothers aus
+Melbourne.
+
+ <YouTube id="azE_CKdS_JE" />
+
+## Tool - "7empest" vom Album "Fear Inoculum"
+
+Über Tool habe ich in den letzten Wochen ziemlich oft berichtet. Bevor Ihr
+durchdreht: Das wird (vermutlich) erstmal bis auf Weiteres das letzte Mal sein.
+Man kann schon mal ein bisschen hohldrehen, wenn eine so besondere Band nach 13
+Jahren endlich eine neue Platte veröffentlicht und dabei so ein Tamtam macht.
+Und diese neue Platte auch noch so gut ist, wie
+["Fear Inoculum" von Tool](/2019/08/das-neue-tool-album-ist-da/). Wir drei haben
+uns inzwischen reingehört und sind alle dafür, dass unser (inzwischen)
+gemeinsamer Favorit der Platte "7empest" hier nochmal Erwähnung findet.
+
+ <YouTube id="9D2R69gVyZ0" />
+
+## Unsere Playlists
+
+<Playlist itunes="2019-09-25-die-drei-von-der-bande/pl.u-KA0vfvegag0?app=music" spotify="7g5r96NzhAA2vE9HonQUDh" />

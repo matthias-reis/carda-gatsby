@@ -37,18 +37,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (87:18)"
+errors: {}
 subTitle: '"We have a lotta shit for you!"'
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (87:18)
-
-<!--
 **Bereits im November letzten Jahres hatten Matze, Valentin und ich uns über den
-N** **INE IN** **CH N** **AILS Fanclub Tickets für den Auftritt auf dem Citadel
-Music Festival in der Spandauer Zitadelle besorgt.**
+NINE INCH NAILS Fanclub Tickets für den Auftritt auf dem Citadel Music Festival
+in der Spandauer Zitadelle besorgt.**
 
 Am 15. Mai, zwei Tage nach dem Geburtstag meines Bruders brachen wir dann in
 aller Frühe auf nach Berlin. Unser Ziel: Ein kleines Hotel in Spandau. Dort
@@ -91,8 +87,7 @@ Dienst und die Location schien ihm besonders gut zu gefallen.
 
 Zitat Trent: _"We have a lotta shit for you!"_
 
-<RemoteImage alt={`Nine Inch Nails`} size="medium"
-title={`[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/) Nine Inch Nails`}
+<RemoteImage alt={`Nine Inch Nails`} size="medium" title={`Nine Inch Nails`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_nine-inch-nails-citadel-music-festival-berlin-1291__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_nine-inch-nails-citadel-music-festival-berlin-1291__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBAYHCP/EACYQAAIBAwMDBAMAAAAAAAAAAAECAwAEEQUSIQYxQRMyUWEikaH/xAAYAQACAwAAAAAAAAAAAAAAAAACBQEDBP/EACYRAAEDAQUJAAAAAAAAAAAAAAEAAgMRBAUSITEUFUFCYbHB0fD/2gAMAwEAAhEDEQA/AOa7WFpMYPFXFtSrFSMHOOacWPT0oKCO4hyzcbm24+zmnGnaW07yGWaFFjVh6j5IkK9toAySeMVYbSxpzKaQ3RNI2uH7isSksm5EmRjzjtVB7cxyEZ7VsuPS4pYMXMixybdxUsM/GcfFLNUTTrO3X0IRdT7T7+wA+qHa2k0AqUctyOY3E40HX1qqsfUKCDZCoQgbndl4TjjP2Qf5UFtrYt3uLmKTMUrAqB4IGD3/AHiiitIgYSSQlbr3tIa1rTSh8FSnqTc0ckixFQoVyPceckKfPilUutyerlmR3TP4hcgeDz4HaiioMEY5UO9LW/IyGmvZf//Z"
@@ -104,7 +99,7 @@ nicht die komplette Lightshow geboten bekamen, spielten NINE INCH NAILS anstatt
 
 Ein gelungenes Konzert, durch die kleinere Bühne und den Veranstaltungsort etwas
 intimer, als z. B. in Düsseldorf in der Philipshalle 2009 oder letztes Jahr bei
-[Rock´N`Heim](//2013/08/20/rocknheim-2013/), aber dadurch kein Bisschen ruhiger.
+[Rock'N'Heim](//2013/08/20/rocknheim-2013/), aber dadurch kein Bisschen ruhiger.
 
 Eine lohnende Reise. Nach der langen verregneten Anfahrt im Auto wurden wir, in
 Berlin angekommen, auch noch mit besten Wetter belohnt. Das hielt auch noch den
@@ -113,8 +108,7 @@ mehr im nächsten Blogeintrag.
 
 ## Die Setlist des Abends
 
-<RemoteImage alt={`Nine Inch Nails `} size="medium"
-title={`[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/) Nine Inch Nails`}
+<RemoteImage alt={`Nine Inch Nails `} size="medium" title={`Nine Inch Nails`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_nine-inch-nails-citadel-music-festival-berlin-1277__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_nine-inch-nails-citadel-music-festival-berlin-1277__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcI/8QAKxAAAgEDAwMCBQUAAAAAAAAAAQIDAAQRBRIhBkFxFGETFSIxkSRCgaGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACIRAAEEAgIBBQAAAAAAAAAAAAEAAgMRBAUTIRIVIjGR4f/aAAwDAQACEQMRAD8A5+0/RJ7mKV4x9ESGSTJxgAgfnJApW+0e5iHqI1ZolIG4clfPt71qfTlgflEyRAb7vgZ7IjKTjyxH4pp9H2B4wgjI7Y++fv58VZj1vKwkLLP3XDJRWJT28qxEyKdoPJxyKWl3KxUhTgYyOa0PWNJlsNZW4jgLJuVhGTlDjnafY1WdT0O6jmBNvI7OPiEgYUZ5OT2pOTAlZZroKzj58UrQSflX/TOq7G1S0/VIoSIwKXQ4Rc7t3HYsSMn/ACpE9X2J1Bn9VFJIsJXaWIUchj5NFFFZs5o2nxpT36PGlfbifv8AFXNa6jt72/huZVVgBxCjfsDAZ/s/wKX6y1+wu5o10yd2iilBZ8bVbg4GO4oooPqUxDga7Tsepx2FpF+0dL//2Q=="
@@ -131,10 +125,11 @@ Bass, Keyboards, Backing Vocals) und natürlich Trent Reznor (Gesang, Gitarre,
 Keyboards). Um hier mal alle Gerüchte diverser Musikmagazine aus der Welt zu
 schaffen. Für weitere Infos empfehle ich Euch [ninwiki](http://www.ninwiki.com).
 
-_Hier sind für Euch NINE INCH NAILS mit "Me, I'm Not"_
-<YouTube id="WaaaFNYgbGQ" />
+**Hier sind für Euch NINE INCH NAILS mit "Me, I'm Not"**
 
-_... und hier mit "Closer"_
+ <YouTube id="WaaaFNYgbGQ" />
+
+**... und hier mit "Closer"**
 
  <YouTube id="Tx1MJNX-v74" />
 
@@ -142,28 +137,34 @@ Kussi _Anne_
 
 ## Setlist NINE INCH NAILS Zitadelle Spandau 15. Juli 2014
 
-<ol>
-    <li>
-
 <RemoteImage alt={`Das Ticket`} size="medium" title={`Das Ticket`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_nin-ticket-1553__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_nin-ticket-1553__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBwgF/8QALRAAAQMEAQMBBgcAAAAAAAAAAQIDBAAFESESBhMxIgcVI0FRgTJhcXKRocH/xAAYAQEAAwEAAAAAAAAAAAAAAAAAAQIEBf/EACARAAICAgICAwAAAAAAAAAAAAECAAMhMQRhERIiQXH/2gAMAwEAAhEDEQA/AECy9MqcR3BKLY85WnX+UzQOmnTldzvFqtkVlKHil1xl1yUkq2hPxPQcb2DpQIpYtj8x2OiG2+8kPLbT6TyP405/kZH3rVEGHDbcCFpjpkMoHccbKCFfnsf3XL49ItVi5zoddzfdb6MoXX33MyPSrlBusuZbGbU5ZlLWkRu+gyOKSMY3k58ggHJ19DU/US23Yb7C2UoUtKkHB4kHxsfUGtUSn0uMGIllx1l9JT8Ickj9wHgVQHVHu+Fcb5HbLRjqnvOJQE5COQSVowRopXzBHypyaEqVXQZGP2OPazsVbUpluctKE8VkFOhg+KfbF7X75HCok6Yww0WO2JIic18wDxKuOztWjjWBo0UVZPifAhs7nWuPtlmy7fHYiOSW31MJQ68XMHnwAWoffJB9ONapSk3gSYqf0xnkSTj5knNFFRYxsI9oRQgxP//Z"
 />
 
-Me, I'm Not</li> <li>Sanctified</li> <li>The Beginning Of The End</li> <li>March
-Of The Pigs</li> <li>Piggy</li> <li>All Time Low</li> <li>Disappointed</li>
-<li>The Becoming</li> <li>Came Back Haunted</li> <li>Find My Way</li>
-<li>Various Methods Of Escape</li> <li>Survivalism</li> <li>The Warning</li>
-<li>Copy Of A</li> <li>The Great Destroyer</li> <li>Hand Covers Bruise</li>
-<li>Beside You In Time</li> <li>Wish</li> <li>The Hand That Feeds</li> <li>Head
-Like A Hole</li> <li>Closer</li> <li>The Day The World Went Away</li>
-<li>Hurt</li>
-
-</ol>
-
-&nbsp;
-
--->
+1.  Me, I'm Not
+1.  Sanctified
+1.  The Beginning Of The End
+1.  March Of The Pigs
+1.  Piggy
+1.  All Time Low
+1.  Disappointed
+1.  The Becoming
+1.  Came Back Haunted
+1.  Find My Way
+1.  Various Methods Of Escape
+1.  Survivalism
+1.  The Warning
+1.  Copy Of A
+1.  The Great Destroyer
+1.  Hand Covers Bruise
+1.  Beside You In Time
+1.  Wish
+1.  The Hand That Feeds
+1.  Head Like A Hole
+1.  Closer
+1.  The Day The World Went Away
+1.  Hurt
 
   

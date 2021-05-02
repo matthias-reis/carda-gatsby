@@ -7,9 +7,11 @@ typeName: Artikel
 title: 12 Songs für den September 2019
 seoTitle: 12 Songs für den September - präsentiert von den drei von der Bande
 ogTitle: 12 Songs für den September - präsentiert von den drei von der Bande
-description: Der Sommer ist nach wie vor in vollem Gange und mit ihm brechen die
+description:
+  Der Sommer ist nach wie vor in vollem Gange und mit ihm brechen die
   musikalischen Glücksmeldungen nicht ab - 12 Songs für Euch.
-excerpt: Der Sommer ist nach wie vor in vollem Gange und mit ihm brechen die
+excerpt:
+  Der Sommer ist nach wie vor in vollem Gange und mit ihm brechen die
   musikalischen Glücksmeldungen nicht ab - 12 Songs für Euch.
 fileName: 2019-08---12-songs-fuer-den-september-2019.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_12-songs-fuer-den-september.png__m.jpg
@@ -47,15 +49,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (28:71)"
+errors: {}
 subTitle: Präsentiert von den drei von der Bande
-  
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (28:71)
-
-<!--
 **Der Sommer ist nach wie vor in vollem Gange und mit ihm brechen die
 musikalischen Glücksmeldungen nicht ab. Eine wunderbare Platte nach der anderen
 wird veröffentlicht.**
@@ -72,12 +69,20 @@ Natürlich haben wir uns auch in diesem Monat nicht auf Neuveröffentlichungen
 beschränkt, sondern auch paar Klassiker mit eingefügt. Wir wünschen Euch viel
 Spaß beim Hören.
 
-<ol>
-    <li>
 ## Tool - "Fear Inoculum" vom neuen Album "Fear Inoculum"
-Selbstverständlich darf dieses Stück diesen Monat nicht fehlen. Wir haben es gemeinsam auf die Liste gesetzt. Über die neueste Veröffentlichungspolitik der Band darf gestritten werden. Erst gar nichts digital, dann plötzlich alles und die neue Platte wird es (zumindest heißt es das bis jetzt) nur in einer Edelversion für 90 Euro geben? Eigentlich ist es doch ganz schön cool, dass man jetzt auch alle alten Schätze digital hören kann, oder nicht? Das Stück ist klasse,  [eine komplette Rezension findet Ihr hier im Blog bereits](/2019/08/bald-kommt-das-neue-tool-album/).  Wir freuen uns auf das komplette Album, das übermorgen das Licht der Welt erblicken soll.
 
-<YouTube id="q7DfQMPmJRI" /> </li> <li>
+Selbstverständlich darf dieses Stück diesen Monat nicht fehlen. Wir haben es
+gemeinsam auf die Liste gesetzt. Über die neueste Veröffentlichungspolitik der
+Band darf gestritten werden. Erst gar nichts digital, dann plötzlich alles und
+die neue Platte wird es (zumindest heißt es das bis jetzt) nur in einer
+Edelversion für 90 Euro geben? Eigentlich ist es doch ganz schön cool, dass man
+jetzt auch alle alten Schätze digital hören kann, oder nicht? Das Stück ist
+klasse,
+[eine komplette Rezension findet Ihr hier im Blog bereits](/2019/08/bald-kommt-das-neue-tool-album/).
+Wir freuen uns auf das komplette Album, das übermorgen das Licht der Welt
+erblicken soll.
+
+ <YouTube id="q7DfQMPmJRI" />
 
 ## Tom Morello feat. Serj Tankian &amp; ATTLAS - "A Higher Frequency"
 
@@ -85,7 +90,9 @@ Selbstverständlich darf dieses Stück diesen Monat nicht fehlen. Wir haben es g
 
 "Eine Kooperation zweier Musikgötter. Sie darf in der Liste auf keinen Fall
 fehlen. Mir persönlich ist die Nummer fast ein bisschen zum mainstreamig. Hört
-am besten einfach selbst mal rein." <YouTube id="sdudfvaNb6s" /> </li> <li>
+am besten einfach selbst mal rein."
+
+ <YouTube id="sdudfvaNb6s" />
 
 ## Refused - "Blood Red" - Auskopplung vom neuen Album "War Music"
 
@@ -95,7 +102,7 @@ Auch dieses Stück hat Matze auf die Liste gepackt. Seine Freude ist groß.
 Gefühl habe, aus der Musik ein bisschen 'herausgewachsen' zu sein, ist 'Blood
 Red' definitiv schon mal ein Kracher. Ich bin gespannt auf die Platte!"
 
-<YouTube id="DUOvGdXEzWg" /> </li> <li>
+ <YouTube id="DUOvGdXEzWg" />
 
 ## Russian Circles - "Arluck" vom neuen Album "Blood Year"
 
@@ -109,7 +116,7 @@ auch 'Quartered' werden können. Sucht Euch Euren Favoriten am besten einfach
 selbst raus. Ich bin auf jeden Fall der Meinung, man sollte die Platte am Stück
 hören."
 
-<YouTube id="79btD88nFbY" /> </li> <li>
+ <YouTube id="79btD88nFbY" />
 
 ## We Lost The Sea - "A Beautiful Collapse"
 
@@ -119,7 +126,7 @@ jetzt "A Beautiful Collapse". Das neue Album kann schon vorbestellt werden - die
 beiden Songs gibt es sofort, die haptische LP dann, wenn es fertig ist. Wir
 haben natürlich schon bestellt und freuen uns darauf!
 
-<YouTube id="DonwlhImpWs" /> </li> <li>
+ <YouTube id="DonwlhImpWs" />
 
 ## 65daysofstatic - "trackerplatz" - Voraubauskopplung vom neuen Album "replicr"
 
@@ -133,7 +140,7 @@ Moment sind 65days meine absolute Lieblingsband." Das klingt schon mal gut,
 oder? Matze hatte übrigens die erste Auskopplung "Popular Beats" auf seiner
 Liste. Die lohnt es sich auf alle Fälle auch zu hören!
 
-<YouTube id="l73eDjbpPzA" /> </li> <li>
+ <YouTube id="l73eDjbpPzA" />
 
 ## Tides From Nebula - "The New Delta" - Vorauskopplung vom bald folgenden Album "From Voodoo To Zen"
 
@@ -148,7 +155,7 @@ seine Liste gesetzt hat. Er findet die folgenden Worte
 Ganz anders, als bei 65daysofstatic, Russian Circles oder BATTLES. Ich höre es
 gerne!"
 
-<YouTube id="WChncS50fqM" /> </li> <li>
+ <YouTube id="WChncS50fqM" />
 
 ## Röyksopp - "Rescue" (Lost Tapes)
 
@@ -170,7 +177,7 @@ Das klingt unglaublich spannend, oder? Meine Neugierde ist auf jeden Fall
 geweckt. Falls Ihr Euch übrigens schon mal gefragt habt, was Röyksopp oder
 Røyksopp bedeutet: Atompilz!
 
-<YouTube id="aeRaylOqiuk" /> </li> <li>
+ <YouTube id="aeRaylOqiuk" />
 
 ## Dominik Eulberg - "Fünfflecken Widderchen"  - zweite Auskopplung vom neuen Album "Mannigfaltig"
 
@@ -181,7 +188,7 @@ September vollständig veröffentlicht ist. Mit "Fünfflecken-Widderchen" liefer
 er das zweite geniale Technostück der Scheibe aus. Es folgte bereits "Goldene
 Acht", der Vorgänger ist "Neuntöter".
 
-<YouTube id="FabRWxFq5W4" /> </li> <li>
+ <YouTube id="FabRWxFq5W4" />
 
 ## Metallica - "The Outlaw Torn" vom Album "Load" (1996)
 
@@ -199,7 +206,7 @@ von Metallica. Diese beiden Songs waren wahrscheinlich ein kleines Warm-up für
 September zum 20-jährigen Jubiläum vom ersten 'S&amp;M' stattfinden sollen. Wir
 sind gespannt..."
 
-<YouTube id="yRdSpghO4Es" /> </li> <li>
+ <YouTube id="yRdSpghO4Es" />
 
 ## Alter Bridge - "Wouldn't You Rather" erste Auskopplung vom neuen Album "Walk The Sky"
 
@@ -208,7 +215,7 @@ der ehemaligen Creed Instrumentalisten zusammen mit dem einmaligen Sänger Miles
 Kennedy. Ich bin schon sehr gespannt auf das Konzert im Münchner Zenith im
 November."
 
-<YouTube id="bAz1vYAwVKE" /> </li> <li>
+ <YouTube id="bAz1vYAwVKE" />
 
 ## The Holy Modal Rounders - "If You Want To Be A Bird" vom Album "Last Round" (1978)
 
@@ -225,24 +232,9 @@ ein schöner und ein wenig wehmütiger Ausklang. Das sagt Valentin
 leider von uns gegangen ist. Ein wunderschönes Stück Musik aus dem Easy Rider
 Soundtrack."
 
-<YouTube id="LcBcgraw1pQ" /> </li>
+ <YouTube id="LcBcgraw1pQ" />
 
-</ol>
+## Unsere Playlists
 
-## iTunes Fans können unsere Liste für den September hier anhören
-
-<iframe style="overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2019-08-25-die-drei-von-der-bande/pl.u-KABWhvegag0?app=music" width="300" height="380" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
-
-## Spotify Anhänger\*innen werden hier glücklich
-
- <YouTube id="playlist/4t6teMeF1I5dTDWBxov5pl" />
-
-<RemoteImage alt={`12-songs-september-pinterest`} size="large" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_122.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_122.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,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"
-/>
-
--->
-
-  
+<Playlist itunes="2019-08-25-die-drei-von-der-bande/pl.u-KABWhvegag0?"
+spotify="4t6teMeF1I5dTDWBxov5pl" />

@@ -33,16 +33,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  invalidMdx: 'unknown: Unexpected token, expected "}" (55:13)'
+errors: {}
 subTitle: Zwei Kormorane und zahlreiche Fische erstickt
   
 ---
-
-## unknown: Unexpected token, expected "}" (55:13)
-
-<!--
-_Anzeige &amp; Affiliate Link_
 
 **Taucher des WWF haben jetzt vor Warnemünde ein Geisternetz aus dem Meer
 gezogen. Das meldete die Umweltschutzorganisation am 8. August. Das rund 500
@@ -98,25 +92,9 @@ Für das Jahr 2019 plant der WWF eine App, mit deren Hilfe Wassersportler
 Fundstellen melden können. Bis dahin freuen sich die Naturschützer über Hinweise
 unter geisternetze@wwf.de.
 
-<script type="text/javascript" src="https://www.adcell.de/js/jsadlib.js"></script>
-
-<script type="text/javascript">
-    Adcell.user.setPartnerId("80259");
-    Adcell.user.getAd({
-        "wid":"170962",
-        "target":"_blank"
-    });
-</script>
-
-- _Hinweis: Dieser Beitrag enthält eine Anzeige mit einem Affiliate Link. Der
-  Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-  Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-  [Transparenz-Seite](/werbung/). _
-
 **Quelle:** Pressemitteilung des WWF
 [Link hier](https://www.wwf.de/2018/juli/500-meter-geisternetz-geborgen/)
-**Titelbild:** [HeidelX](https://pixabay.com/de/users/HeidelX-281649/), pixabay
 
--->
+**Titelbild:** [HeidelX](https://pixabay.com/de/users/HeidelX-281649/), pixabay
 
   
