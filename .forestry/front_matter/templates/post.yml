@@ -5,7 +5,29 @@ fields:
 - type: datetime
   name: date
   label: Go Live
-  default: now
+  default: '2021-05-02T17:21:42Z'
+- name: year
+  type: number
+  label: Jahr
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 1900
+    max: 2100
+    step: 
+    required: false
+- name: month
+  type: number
+  label: Monat
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 1
+    max: 12
+    step: 
+    required: true
 - type: text
   name: slug
   label: Permalink
@@ -13,46 +35,75 @@ fields:
     required: true
 - type: text
   name: typeName
-  label: typeName
+  label: Typ
+  description: 'Art des Beitrags (Standard: Beitrag)'
 - type: text
   name: title
   label: Titel
+  config:
+    required: true
 - type: text
   name: subTitle
-  label: subTitle
+  label: Untertitel
 - type: text
   name: seoTitle
-  label: seoTitle
+  label: SEO Titel
+  description: "(Standard: Titel)"
+- name: ogTitle
+  type: text
+  config:
+    required: false
+  label: Social Media Titel
+  description: "(Standard: SEO Titel | Titel)"
 - type: textarea
   name: description
-  label: description
+  label: Meta Description
+  config:
+    wysiwyg: false
+    required: true
 - type: textarea
   name: excerpt
-  label: excerpt
+  label: Teaser (Textauszug)
+  description: "(Standard: Meta Description)"
 - type: file
   name: image
-  label: image
+  label: Hauptbild
 - type: file
   name: ogImage
-  label: ogImage
-- type: list
-  name: labels
-  label: labels
+  label: Social Media Bild
+- name: labels
+  type: tag_list
+  default: []
+  label: Labels
+  description: Tags und Kategorien
 - type: text
   name: focusKeyword
-  label: focusKeyword
+  label: Fokuskeyword
 - type: boolean
   name: advertisement
-  label: advertisement
+  label: Werbung
 - type: boolean
   name: affiliate
-  label: affiliate
-- type: text
-  name: language
-  label: language
+  label: Affiliate
+  default: false
+- name: language
+  type: select
+  default: de
+  config:
+    required: false
+    options:
+    - de
+    - en
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Sprache
 - type: text
   name: languageLink
-  label: languageLink
+  label: Sprachlink
+  description: Bitte vollständig angeben (/2021/04/titel)
 pages:
 - content/articles/smycka-im-interview.md
 - content/articles/test-weiter.md
