@@ -2,21 +2,21 @@
 label: Post
 hide_body: false
 fields:
-- type: text
-  name: templateKey
-  label: templateKey
 - type: datetime
   name: date
-  label: date
+  label: Go Live
+  default: now
 - type: text
   name: slug
-  label: slug
+  label: Permalink
+  config:
+    required: true
 - type: text
   name: typeName
   label: typeName
 - type: text
   name: title
-  label: title
+  label: Titel
 - type: text
   name: subTitle
   label: subTitle
