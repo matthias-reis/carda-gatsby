@@ -16,6 +16,7 @@ excerpt:
 image: /img/12-songs-mai-blog.jpg
 ogImage: /img/musikliste-mai-fb.png
 labels:
+  - serie:Playlists
   - Ambient
   - Black Mountain
   - Devil Sold His Soul
