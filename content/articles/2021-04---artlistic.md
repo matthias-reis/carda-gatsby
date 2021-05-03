@@ -108,7 +108,7 @@ Seid Ihr neugierig geworden? Dann
 [stöbert doch selbst mal bei ARTlistic](https://www.awin1.com/cread.php?awinmid=22245&awinaffid=632580&ued=https%3A%2F%2Fartlistic.com)!
 Es lohnt sich!
 
-_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+_Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
 meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner
 [Transparenz-Seite](http://cardamonchai.com/werbung/)._
