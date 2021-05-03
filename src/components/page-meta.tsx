@@ -20,7 +20,7 @@ export const PageMeta: React.FC<{
       <meta name="description" content={meta.frontmatter.description} />
       <link
         rel="canonical"
-        href={`http://cardamonchai.com${meta.fields.path}`}
+        href={`https://cardamonchai.com${meta.fields.path}`}
       />
       <meta
         property="og:locale"
