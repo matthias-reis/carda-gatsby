@@ -1,39 +1,38 @@
 ---
-date: 2017-10-17T15:42:56.000Z
+date: 2017-10-17T15:42:56.000+00:00
 slug: guinness-ist-vegan-brauerei-besuch
-path: /2017/10/guinness-ist-vegan-brauerei-besuch/
+path: "/2017/10/guinness-ist-vegan-brauerei-besuch/"
 type: Artikel
 typeName: Artikel
 title: Guinness ist vegan!
 seoTitle: Guinness ist vegan! Wir haben die Brauerei in Dublin besucht
 ogTitle: Guinness ist vegan! Wir haben die Brauerei in Dublin besucht
-description: "Heute habe ich ein paar Fakten über Guinness vorbereitet. Wir
-  haben die Brauerei in Dublin besucht. Gute Nachricht: Guinness ist inzwischen
-  wieder vegan!"
-excerpt: "Heute habe ich ein paar Fakten über Guinness vorbereitet. Wir haben
-  die Brauerei in Dublin besucht. Gute Nachricht: Guinness ist inzwischen wieder
-  vegan!"
+description: 'Heute habe ich ein paar Fakten über Guinness vorbereitet. Wir haben
+  die Brauerei in Dublin besucht. Gute Nachricht: Guinness ist inzwischen wieder vegan!'
+excerpt: 'Heute habe ich ein paar Fakten über Guinness vorbereitet. Wir haben die
+  Brauerei in Dublin besucht. Gute Nachricht: Guinness ist inzwischen wieder vegan!'
 fileName: 2017-10---guinness-ist-vegan.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_IMG_3560__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_IMG_3560__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBgcCCP/EACwQAAEDAgUCBQQDAAAAAAAAAAECAwQFEQAGEiExBxMUIkFCUTJhcYGRorH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AnoPR2kSu3Iq0yQ+7YeVtpCU/21HHXUfphQ6dlMO00hnRMYLxdaSVFsr0qHlAHuHIwlofXFM20SJRX/FBslLbkoELI5AsPje3rim5z6k1vNsuNTV9iLSvElKmYwUQ9p4Klnc25sLDAem4uW6FEgJiQoccMoKilIbQNiTsbJvYDYfjFL6gZVgros9TUOKVFlQTqaSbG3PGMEy51Gz1T4S4lOqr8tMdOgNPtIfKANhYqGq23zhnm7NuaKpeKuoSmYa1glu6WtaQNRSU/UQCNzxuMBmLdQXT3kmIGFBJ1IccYSVJJ55++GdNq8iXUUyp0gudpJCQsgBJVt5UjYevHxgwYBdVHkt1J9aLbr7if3viKPLLTTq0Ks65dJsPadz/ACf8wYMB/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_10_IMG_3560__l.jpg
 labels:
-  - Bier
-  - Britische Inseln
-  - Extra Stout
-  - Fernweh
-  - Guinness
-  - Guinness Store House
-  - Guinness vegan
-  - Hausenblase
-  - Ireland
-  - Irish
-  - Irland
-  - Irland2017
-  - St. James Gate Brewery
-  - Stout
-  - veganes Bier
+- Bier
+- Britische Inseln
+- Extra Stout
+- Fernweh
+- Guinness
+- Guinness Store House
+- Guinness vegan
+- Hausenblase
+- Ireland
+- Irish
+- Irland
+- Irland2017
+- St. James Gate Brewery
+- Stout
+- veganes Bier
+- Serie:Irland 2017
 focusKeyword: Guinness
 status: publish
 isWerbung: false
@@ -41,9 +40,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Besuch der Guinness Brauerei in Dublin
-  
----
+year: "2017"
+month: "10"
 
+---
 **Traditionell wurde Guiness schon früher ohne den Klärvorgang mit Hausenblase
 hergestellt. Das war leider viele Jahre nicht mehr der Fall, was den Genuss des
 Bieres für Veganer und Vegetarier unmöglich machte. Erst vor Kurzem kam man
@@ -128,35 +128,3 @@ Liebe Grüße Ihr Guinness WebTeam"
 <sub>Vielen Dank an Robin Rader für den Hinweis.</sub>
 
 <Gallery name="flickr/anneguinness2017" />
-
-## Wegweiser Irland 2017
-
-1.  [Möwen in Dublin](/2017/10/moewen-in-dublin/)
-1.  [Spaziergang durch Dublin](/2017/10/kleiner-spaziergang-durch-dublin/)
-1.  Guinness ist vegan - Unser Besuch in der St. James Gate Brewery
-1.  [Farbenfrohe Details in Kilkenny](/2017/11/kilkenny-bunte-insel-irland/)
-1.  [Kilkenny Castle - Ein Schloss mit vielen Gesichtern](/2017/11/kilkenny-castle/)
-1.  [Rock Of Cashel - Ein geschichtsträchtiger Ort](/2017/11/rock-of-cashel/)
-1.  [Cork - Technik und Tradition](/2017/12/cork/)
-1.  [Abenteuer auf dem Ring Of Kerry](/2018/01/auf-dem-skellig-ring-in-richtung-dingle-halbinsel/)
-1.  [Muckross House und Torc Waterfall](/2018/02/muckross-house-und-torc-waterfall-irland/)
-1.  [Inch Beach - Traumstrand auf der Dingle Halbinsel](/2018/02/lieblingsstrand-inch-beach/)
-1.  [Limerick - Fünf Zeilen Spaß und eine Stadt in Irland](/2018/02/limerick/)
-1.  [Das Ende des Regenbogens - Eine Irische Sage](/2018/02/das-ende-des-regenbogens/)
-1.  [Da Vincenzo Limerick - Irlands beste vegane Steinofenpizza](/2018/03/da-vincenzo-limerick/)
-1.  [Dingle - Buntes Städtchen am Atlantik](/2018/03/dingle/)
-1.  [Curraghchase Caravan &amp; Camp Site - Kilcornan](/2018/03/curraghchase-caravan-camp-site/)
-1.  [Bunratty Castle - Normannische Burg und Publikumsmagnet](/2018/03/bunratty-castle/)
-1.  [Cliffs Of Moher](/2018/04/cliffs-of-moher/)
-1.  [Fitzpatrick's Pub Doolin](/2018/04/fitzpatricks-pub-doolin/)
-1.  [Doolin - Sehnsuchtsort am Atlantik](/2018/04/doolin/)
-    [Burren und Poulnabrone Dolmen](/2018/04/poulnabrone-dolmen-burren/)
-1.  [Galway - Kunst, Kultur und Livemusik](/2018/04/galway/)
-1.  [The Lighthouse Tea Room Galway](/2018/05/the-lighthouse-tea-room-galway/)
-1.  [Birds of Westport](/2018/05/birds-of-westport/)
-1.  [Sky Loop Road](/2018/05/sky-loop-road-clifden/)
-1.  [Irischer Traumstrand](/2018/05/irischer-traumstrand/)
-1.  [Connemara National Park](/2018/05/connemara-national-park/)
-1.  [Kylemore Abbey](/2018/05/kylemore-abbey/)
-
-  
