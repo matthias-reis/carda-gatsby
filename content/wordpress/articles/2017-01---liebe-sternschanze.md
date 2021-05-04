@@ -39,11 +39,9 @@ year: "2017"
 month: '01'
 
 ---
-**Meine** [**Flarf-Gedichte**](/?s=Flarf)** kennt Ihr nun ja schon. Auch um Hamburg ging
+**Meine** [**Flarf-Gedichte__](/?s=Flarf)** kennt Ihr nun ja schon. Auch um Hamburg ging
 es darin schon, das letzte habe ich der Elbe gewidmet. Heute ist es an der Zeit,
 mal etwas über die Schanze zu schreiben.**
-
-<blockquote>
 
 ## Liebe Sternschanze
 
@@ -68,5 +66,3 @@ Ein architektonisches Zeichen wider die ranzigen Neubaukästen Wie sieht der
 Stadtteil aus, in dem Du leben möchtest?
 
 <Gallery name="flickr/anneflarfsternschanze" />
-
-</blockquote>
