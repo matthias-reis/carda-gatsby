@@ -27,7 +27,7 @@ labels:
 - Sommer
 - Song
 - Summerwine
-- serie:bloggerblinddate
+- 'serie: Musikalisches Blind Date'
 focusKeyword: Blind Date
 status: publish
 isWerbung: false

@@ -18,7 +18,7 @@ remoteLoadingImage: data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAA
 ogImage: 
 labels:
 - Bands
-- serie:bloggerblinddate
+- 'serie: Musikalisches Blind Date'
 focusKeyword: blogger blind date
 status: publish
 isWerbung: false
