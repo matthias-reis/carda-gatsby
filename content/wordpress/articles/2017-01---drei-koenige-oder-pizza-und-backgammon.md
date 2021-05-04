@@ -1,33 +1,33 @@
 ---
-date: 2017-01-06T10:59:26.000Z
+date: 2017-01-06T10:59:26.000+00:00
 slug: drei-koenige
-path: /2017/01/drei-koenige/
+path: "/2017/01/drei-koenige/"
 type: Artikel
 typeName: Gedicht
-title: "Drei Könige oder: Pizza und Backgammon"
-seoTitle: "Drei Könige oder: Pizza und Backgammon - Die Moral von der Geschicht"
-ogTitle: "Drei Könige oder: Pizza und Backgammon - Die Moral von der Geschicht"
-description: Drei Könige gingen über die Straße in eine Bar und spielten
-  zusammen Backgammon. Es kam ein Sturm auf und so mussten sie austrinken und
-  gehen...
-excerpt: Drei Könige gingen über die Straße in eine Bar und spielten zusammen
+title: 'Drei Könige oder: Pizza und Backgammon'
+seoTitle: 'Drei Könige oder: Pizza und Backgammon - Die Moral von der Geschicht'
+ogTitle: 'Drei Könige oder: Pizza und Backgammon - Die Moral von der Geschicht'
+description: Drei Könige gingen über die Straße in eine Bar und spielten zusammen
   Backgammon. Es kam ein Sturm auf und so mussten sie austrinken und gehen...
+excerpt: Drei Könige gingen über die Straße in eine Bar und spielten zusammen Backgammon.
+  Es kam ein Sturm auf und so mussten sie austrinken und gehen...
 fileName: 2017-01---drei-koenige-oder-pizza-und-backgammon.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_01_31988512212_a9c65ba3c8_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_01_31988512212_a9c65ba3c8_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBAwUE/8QAKBAAAgEDAgUDBQAAAAAAAAAAAQIDAAQREiEFEzFBURSBkSIyYXGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AHC4tpDfR2tqqCQpzZJGXUEXJAwO5JB67DGd9qt9EQSrzNKcZKsij4wBTJ6WCGOa7IfXysuQeoQEgD5NZ0kTy3fqZI1iAiCKobUTvkk428DH7oFbiPDAk3jPiimXikamRPpJ2ooO20vjcPPbvChjTTG2WJ1BkBO2PBI9qpuZwl+sULao+US466TnC/Izt+Kx7O5lSQTx6SWUK6s33Yzg57EZPtUXnE1iBMmlAT2YE/wUFvF75RKg1dAaKWru5W4k1jOO2DRQf//Z
-ogImage: null
+ogImage: 
 labels:
-  - Altona
-  - Backgammon
-  - Docks
-  - Drei Könige
-  - Familie
-  - Frieden
-  - Geschichten & Erlebtes
-  - Hamburg
-  - Liebe
-  - Märchen
+- Altona
+- Backgammon
+- Docks
+- Drei Könige
+- Familie
+- Frieden
+- Geschichten & Erlebtes
+- Hamburg
+- Liebe
+- Märchen
+- serie:Flarf-Gedichte
 focusKeyword: Drei Könige
 status: publish
 isWerbung: false
@@ -35,9 +35,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Die Moral von der Geschicht
-  
----
+year: "2017"
+month: '01'
 
+---
 **Drei Könige gingen über die Straße in eine Bar und spielten zusammen
 Backgammon. Es kam ein Sturm auf und so mussten sie austrinken, ihr Spiel auf
 den nächsten Tag verschieben und in ihren Königreichen nach dem Rechten sehen.**
@@ -60,27 +61,4 @@ und Pizza. An der Hauswand gegenüber malte indes ein altes Mütterchen in aller
 Seelenruhe ein farbenfrohes Graffito. Sie winkte freundlich herüber und
 lächelte.
 
-Und wenn sie nicht gestorben sind, dann leben sie noch heute
-
-## Flarf-Gedichte Wegweiser
-
-1.  [Die Poesie der Vernetzung](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/)
-1.  [Straßenlaternen der Welt](/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/)
-1.  [Sonne und Frieden](/2016/03/sonne-und-frieden/)
-1.  [Manieren der Boshaftigkeit](/2016/04/manieren-der-boshaftigkeit/)
-1.  [Das übersetzte Wetter im Spiegel](/2016/05/das-uebersetzte-wetter-im-spiegel/)
-1.  [Die seltsame Stimmung der knalligen Blüten](/2016/10/die-seltsame-stimmung-der-knalligen-blueten/)
-1.  [Elbe schwarz-weiß bunt](/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/)
-1.  Pizza und Backgammon
-1.  [Liebe Sternschanze](/2017/01/liebe-sternschanze/)
-1.  [Haters rest in poetry](/2017/02/haters-rest-in-poetry/)
-1.  [Die Sehnsucht der Postmoderne](/2017/02/die-sehnsucht-der-postmoderne/)
-1.  [In den Straßen von St. Pauli](/2017/02/dauerregen-stpauli/)
-1.  [Elblicht](/2018/01/elblicht-flarfgedicht-zum-jahresanfang/)
-1.  [Möwe am Wasser](/2018/01/moewe-am-wasser/)
-1.  [Jahreszeiten an der Brücke](/2018/02/ein-fleet-im-verlauf-der-jahreszeiten/)
-1.  [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/)
-1.  [Abschied von Dir - Tschüss, mach es gut](/2018/04/abschied-von-dir/)
-1.  [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/)
-
-  
+Und wenn sie nicht gestorben sind, dann leben sie noch heute.
