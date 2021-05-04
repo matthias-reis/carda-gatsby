@@ -1,33 +1,33 @@
 ---
-date: 2018-02-26T17:07:42.000Z
+date: 2018-02-26T17:07:42.000+00:00
 slug: ein-fleet-im-verlauf-der-jahreszeiten
-path: /2018/02/ein-fleet-im-verlauf-der-jahreszeiten/
+path: "/2018/02/ein-fleet-im-verlauf-der-jahreszeiten/"
 type: Galerie mit Bild
 typeName: Gedicht
 title: Ein Fleet im Verlauf der Jahreszeiten
 seoTitle: Ein Fleet im Verlauf der Jahreszeiten - Die Bille in Hamburg
 ogTitle: Ein Fleet im Verlauf der Jahreszeiten - Die Bille in Hamburg
-description: Als wir ganz frisch in Hamburg angekommen sind, haben wir eine
-  Zeitlang in Hamm an der Bille gewohnt. Dort sind diese Jahreszeitenbilder
-  entstanden.
-excerpt: Als wir ganz frisch in Hamburg angekommen sind, haben wir eine Zeitlang
+description: Als wir ganz frisch in Hamburg angekommen sind, haben wir eine Zeitlang
   in Hamm an der Bille gewohnt. Dort sind diese Jahreszeitenbilder entstanden.
+excerpt: Als wir ganz frisch in Hamburg angekommen sind, haben wir eine Zeitlang in
+  Hamm an der Bille gewohnt. Dort sind diese Jahreszeitenbilder entstanden.
 fileName: 2018-02---ein-fleet-im-verlauf-der-jahreszeiten.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_Bille__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_Bille__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAwX/xAAqEAACAQMDAwIGAwAAAAAAAAABAgMEBREABhITITEHQRQVIjJhcZGxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAUE/8QAHhEAAgEEAwEAAAAAAAAAAAAAAQMAAhEhkQQSE0H/2gAMAwEAAhEDEQA/AOza91y7irp0pbTRUcMLRx8uKMFATMjN3GfqPbIzpA3xu6+W+5LFJDTUarIfh2iUETDkCCTgjwQMfv8Aeitz7rt08VHLt6KZ1iRYX68PWLgD7ixJJAGBj+tKG4NyfN5KdaqGmQBkXhDGEweQ9v8ANJcdDAvLKtmRMrX3sFjQlCsvrVfYbpJT09HHdOZEaxzxhG6hZshSgGfYd9Ybx9Y93QM0L2yG1yknI5FjggYwPYee/wCfxqWUN3WjvMlSGVnXKDCKoHFyfAA/nydGblvCXqGOSVh1olIRvfvjQnj9vGg0DFp//9k=
-ogImage: null
+ogImage: 
 labels:
-  - Bille
-  - Boote
-  - Brücke
-  - Fleet
-  - Fluss
-  - Geschichten & Erlebtes
-  - Hamburg
-  - Hamburg
-  - Jahreszeiten
-  - Wasser
+- Bille
+- Boote
+- Brücke
+- Fleet
+- Fluss
+- Geschichten & Erlebtes
+- Hamburg
+- Hamburg
+- Jahreszeiten
+- Wasser
+- serie:Flarf-Gedichte
 focusKeyword: Jahreszeiten
 status: publish
 isWerbung: false
@@ -35,9 +35,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Die Bille in Hamburg
-  
----
+year: "2018"
+month: '02'
 
+---
 **Als wir ganz frisch in Hamburg angekommen sind, haben wir eine Zeitlang in
 Hamm an der Bille gewohnt. Ich bin dort regelmäßig in der Schrebergartensiedung
 joggen gegangen und dabei sind diese Bilder entstanden.**
@@ -64,26 +65,3 @@ In den Sommermonaten blüht das Ufer. Im Winter versinkt es im Nebel.
 </blockquote>
 
 <Gallery name="flickr/annefleetbillegoodbyejahreszeiten" />
-
-## Flarf-Gedichte Wegweiser
-
-1.  [Die Poesie der Vernetzung](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/)
-1.  [Straßenlaternen der Welt](/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/)
-1.  [Sonne und Frieden](/2016/03/sonne-und-frieden/)
-1.  [Manieren der Boshaftigkeit](/2016/04/manieren-der-boshaftigkeit/)
-1.  [Das übersetzte Wetter im Spiegel](/2016/05/das-uebersetzte-wetter-im-spiegel/)
-1.  [Die seltsame Stimmung der knalligen Blüten](/2016/10/die-seltsame-stimmung-der-knalligen-blueten/)
-1.  [Elbe schwarz-weiß bunt](/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/)
-1.  [Pizza und Backgammon](/2017/01/drei-koenige/)
-1.  [Liebe Sternschanze](/2017/01/liebe-sternschanze/)
-1.  [Haters rest in poetry](/2017/02/haters-rest-in-poetry/)
-1.  [Die Sehnsucht der Postmoderne](/2017/02/die-sehnsucht-der-postmoderne/)
-1.  [In den Straßen von St. Pauli](/2017/02/dauerregen-stpauli/)
-1.  [Elblicht](/2018/01/elblicht-flarfgedicht-zum-jahresanfang/)
-1.  [Möwe am Wasser](/2018/01/moewe-am-wasser/)
-1.  Jahreszeiten an der Brücke
-1.  [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/)
-1.  [Abschied von Dir - Tschüss, mach es gut](/2018/04/abschied-von-dir/)
-1.  [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/)
-
-  
