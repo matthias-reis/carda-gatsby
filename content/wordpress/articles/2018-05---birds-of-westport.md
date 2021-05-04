@@ -1,33 +1,33 @@
 ---
-date: 2018-05-07T08:00:01.000Z
+date: 2018-05-07T08:00:01.000+00:00
 slug: birds-of-westport
-path: /2018/05/birds-of-westport/
+path: "/2018/05/birds-of-westport/"
 type: Galerie
 typeName: Galerie
 title: Birds of Westport
 seoTitle: Birds of Westport - Begegnungen in einer Regenpause
 ogTitle: Birds of Westport - Begegnungen in einer Regenpause
-description: Möwen und ein Fischreiher waren die einzigen Lebewesen, die uns
-  eines verregneten Nachmittags in Westport begegneten. Ich habe sie
-  fotografiert.
-excerpt: Möwen und ein Fischreiher waren die einzigen Lebewesen, die uns eines
+description: Möwen und ein Fischreiher waren die einzigen Lebewesen, die uns eines
   verregneten Nachmittags in Westport begegneten. Ich habe sie fotografiert.
+excerpt: Möwen und ein Fischreiher waren die einzigen Lebewesen, die uns eines verregneten
+  Nachmittags in Westport begegneten. Ich habe sie fotografiert.
 fileName: 2018-05---birds-of-westport.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40218556402_c86ff6bca9_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40218556402_c86ff6bca9_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYHCAMEBf/EACYQAAIBAwMDBQEBAAAAAAAAAAECAwQFEQASIQYHMRMiQVGRccH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAIDAQEBAAAAAAAAAAAAAAABAhEhMQPw/9oADAMBAAIRAxEAPwBH6ApZbs1VbKuRTQOqwmApkyswHA+QcnjGnu09u7dDaq2KFoJfQkQRws5Jbc2Gztx7hkaiakuIFTI8bDDyF0P4P8Opn7YXc0EkVZUU0Zt2eJXTYrt4wgA5Pj4++dTxgpPeiTzUatb0JBTVCmSipHjVlddzMSABzkMTj90m90enYhVtNS00cCrjIXAxwNWTpb/ZrneXs0whS5LEhEePORuC4YZ3Ackc6w9T9P0c9FKFRYy2SWVV9x+zkaaXnJqkw7ooxUVckVQFQkDauOfGdOFs6grmihiWQiOmx6YJJ2c59uCAOdGjUzxKhn079iv72PuXFeYIAzinepMG8hC5QgnnPzz++NWfr6p5YctwSoPH80aNW+buKDmsv7iP/9k=
-ogImage: null
+ogImage: 
 labels:
-  - Britische Inseln
-  - Fernweh
-  - Fischreiher
-  - Ireland
-  - Irland
-  - Irland2017
-  - Möwen
-  - Reiher
-  - Reisen
-  - Westport
+- Britische Inseln
+- Fernweh
+- Fischreiher
+- Ireland
+- Irland
+- Irland2017
+- Möwen
+- Reiher
+- Reisen
+- Westport
+- serie:Möwen
 focusKeyword: Westport
 status: publish
 isWerbung: false
@@ -35,9 +35,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Begegnungen in einer Regenpause
-  
----
+year: "2018"
+month: '05'
 
+---
 **Möwen und ein Fischreiher waren die einzigen Lebewesen, die uns eines
 verregneten Nachmittags in Westport im Irischen County Mayo begegneten.**
 
@@ -45,20 +46,6 @@ Ich habe sie fotografisch festgehalten, um Euch an diesem magischen Moment
 zwischen zwei Schauern teilhaben zu lassen.
 
 <Gallery name="flickr/annewestportlove2017" />
-
-## Wegweiser Möwen
-
-1.  [Möwen am Bosporus (Januar 2010)](/2010/01/moewen-am-bosporus/)
-1.  [Zurück nach St. Peter Ording (Juli 2015)](/2015/07/zurueck-nach-st-peter-ording/)
-1.  [St. Peter Ording - Perle an der Nordsee (August 2015)](/2015/08/st-peter-ording/)
-1.  [Birdwatching am Timmendorfer Strand (November 2015)](/2015/11/birdwatching-am-timmendorfer-strand/)
-1.  [Die Möwe, Kiel (November 2015)](/2015/11/die-moewe/)
-1.  [Möwen auf der Brücke (Januar 2016)](/2016/01/moewen-auf-der-bruecke/)
-1.  [Sommer auf der Ostsee - Möwen vor Helsinki (Juni 2016)](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/)
-1.  [Seevögel in Helsinki - Auf jeder Statue eine Möwe (Juni 2016)](/2016/08/auf-jeder-statue-eine-moewe/)
-1.  [Möwen in Dublin - Bunte Bilderserie mit original Irischen Seevögeln (September 2017)](/2017/10/moewen-in-dublin/)
-1.  [Möwe am Wasser](/2018/01/moewe-am-wasser/)
-1.  Birds Of Westport
 
 ## Wegweiser Irland 2017
 
@@ -89,5 +76,3 @@ zwischen zwei Schauern teilhaben zu lassen.
 1.  [Irischer Traumstrand](/2018/05/irischer-traumstrand/)
 1.  [Connemara National Park](/2018/05/connemara-national-park/)
 1.  [Kylemore Abbey](/2018/05/kylemore-abbey/)
-
-  
