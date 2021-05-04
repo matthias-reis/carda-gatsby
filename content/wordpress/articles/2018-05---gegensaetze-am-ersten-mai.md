@@ -31,6 +31,7 @@ labels:
 - Maidemo
 - Tag der Arbeit
 - serie:Flarf-Gedichte
+- serie:Loki Schmidt Garten
 focusKeyword: Erster Mai
 status: publish
 isWerbung: false
@@ -68,8 +69,6 @@ wächst.**
 **Das Lied der Gemeinschaft verklingt nach Stunden im Rauch.** **Der Präsident
 spricht von Erfolg.**
 
- 
-
 Erster Mai.
 
 Freundliches Wetter, gute Stimmung.
@@ -106,14 +105,6 @@ miteinander verbracht haben schon erstaunlich gut. :-)
 
 Beim Text oben handelt es sich um ein Flarf-Gedicht. Wer gerne wissen möchte,
 was das ist,
-[findet hier eine genaue Erklärung](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/). 
-
-## Wegweiser Loki Schmidt Garten
-
-1. [Indian Summer](/2015/09/indian-summer-im-loki-schmidt-garten/)
-2. [Spätsommer](/2016/08/spaetsommer-loki-schmidt-garten/)
-3. [Frühlingsboten](/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/)
-4. Erster Mai
-5. [September](/2019/09/september-im-loki-schmidt-garten/)
+[findet hier eine genaue Erklärung](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/).
 
 <Gallery name="flickr/annelokischmidt42018" />
