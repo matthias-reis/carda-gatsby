@@ -76,18 +76,6 @@ Hoffentlich werden sie das hier geschriebene auch ins Englische übersetzen.
 
 </blockquote>
 
-Hat Euch das Gedicht gefallen? Wollt Ihr gerne mehr davon?
-[Schreibt mir](mailto:info@cardamonchai.com) doch einfach mal! Gerne schreibe
-ich auch mal ein Gedicht aus Euren Lieblingswörtern! Natürlich könnt ihr mir
-auch gerne sagen, wenn es ein anderes Thema gibt, das ich hier mal aufgreifen
-soll.
-
-Denn wie habe ich das vor Kurzem in geselliger Runde mal angemerkt: Das
-Schwierige und gleichzeitig auch das Gute an meinem Weblog ist, dass es
-thematisch nicht festgelegt ist. Vorschläge also gerne immer an mich! Gerne
-mache ich z. B. auch ein [Interview](/category/rock-n-roll/interviews/) mit
-Euch, wenn Ihr was Interessantes oder Lustiges oder beides zu berichten habt!
-
 <Gallery
 images={\[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_14258074263_684bbef3fd_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_14258074263_684bbef3fd_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_14418919860_161d8d7737_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_14418919860_161d8d7737_z__l.jpg"}\]}
 />
