@@ -25,6 +25,7 @@ labels:
 - Kieler Förde
 - Lieblingswetter
 - Norden
+- serie:Kiel 2015
 focusKeyword: Kiel
 status: publish
 isWerbung: false
