@@ -1,33 +1,33 @@
 ---
-date: 2016-03-11T11:18:20.000Z
+date: 2016-03-11T11:18:20.000+00:00
 slug: flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung
-path: /2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/
+path: "/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/"
 type: Artikel
 typeName: Gedicht
 title: Flarf ist Inspiration aus dem Internet
 seoTitle: Flarf - Poesie aus dem Internet spricht alle Sinne an
 ogTitle: Flarf - Inspiration aus dem Internet - Poesie der Vernetzung
-description: Flarf - Was ist das eigentlich? Klingt wie eine Wortschöpfung von
-  Pipi Langstrumpf. Wie Suchergebnisse die Phantasie anregen können - Ein
-  Gedicht.
-excerpt: Flarf - Was ist das eigentlich? Klingt wie eine Wortschöpfung von Pipi
+description: Flarf - Was ist das eigentlich? Klingt wie eine Wortschöpfung von Pipi
   Langstrumpf. Wie Suchergebnisse die Phantasie anregen können - Ein Gedicht.
+excerpt: Flarf - Was ist das eigentlich? Klingt wie eine Wortschöpfung von Pipi Langstrumpf.
+  Wie Suchergebnisse die Phantasie anregen können - Ein Gedicht.
 fileName: 2016-03---flarf-ist-inspiration-aus-dem-internet.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_16075705018_6c22852970_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_16075705018_6c22852970_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgf/xAAnEAACAQMDBAICAwAAAAAAAAABAgMEBREAEiEGEzFRFGEiMkFxgf/EABcBAQEBAQAAAAAAAAAAAAAAAAUEAAH/xAAhEQACAgIABwEAAAAAAAAAAAABAgAEETEFEhUhcZHw0f/aAAwDAQACEQMRAD8A5yXrHsrrC9RUJJDFFSoSAyKW5CgrhOcnOfOfR1uqazdNw26nRqmmoayGVnfFaszSZQAlt5JDbhn8do+tZ2HrSWk6WudDdacUsdyVE2Q0QjCDYNyIrMCuGCnOGByfHGmae2U1whWaWRUdkA5QNhhwcn+SSNVVqzWSQp1D711aYVmGzj7sY/cLL0xUU5Vr1SoxlMzFaheXJ5OM4GfJAGNQrrYLFDA89NWU1cyo5aOGtQFQT5PIJHraM/Wnp7RRwU3cqaqniijABkkTCgE8/wBedJVwssUCCKSjeYRje6SKdze9WdLIOGbH3mHjjfMpZEz7/IrFa7bI6b6aYdxgPwqXAB59k+tUoeiqOp78kNbXxTGKV0YyghW2lgSABnBHvRo0TqPkA7mWunT81vpnuPz+8QG3I0X7khuSd31nxqFaLTFdpIq2pYBfkbDEiAAgbfB/3Ro10kzAY1P/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2016_03_11153925974_fe91f672d3_z__l.jpg
 labels:
-  - es reimt sich nicht
-  - Flarf
-  - Gedicht
-  - Geschichten & Erlebtes
-  - Ideen
-  - Kreativität
-  - Lyrik
-  - Phantasie
-  - Poesie
-  - schreiben
+- es reimt sich nicht
+- Flarf
+- Gedicht
+- Geschichten & Erlebtes
+- Ideen
+- Kreativität
+- Lyrik
+- Phantasie
+- Poesie
+- schreiben
+- serie:Flarf-Gedichte
 focusKeyword: Flarf
 status: publish
 isWerbung: false
@@ -35,9 +35,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Poesie der Vernetzung
-  
----
+year: "2016"
+month: '03'
 
+---
 <RemoteImage alt={`Flarf`} size="medium" title={`Flarf regt die Phantasie an`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_16277877741_01b8d8a4b5_z__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_16277877741_01b8d8a4b5_z__l.jpg"
@@ -104,7 +105,7 @@ Mountain Mist
 </blockquote>
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15659809233_3fa9f37cff_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15659809233_3fa9f37cff_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15642744004_9a850bc9bf_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15642744004_9a850bc9bf_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_11627444026_23859e830a_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_11627444026_23859e830a_z__l.jpg"}]}
+images={\[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15659809233_3fa9f37cff_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15659809233_3fa9f37cff_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15642744004_9a850bc9bf_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15642744004_9a850bc9bf_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_11627444026_23859e830a_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_11627444026_23859e830a_z__l.jpg"}\]}
 />
 
 Ein weiteres Gedicht aus meiner Feder
@@ -118,26 +119,3 @@ jederzeit zukommen lassen! Gerne mache ich z. B. auch ein
 [Interview](/category/rock-n-roll/interviews/) mit Euch, wenn Ihr etwas
 Spannendes zu berichten habt. [Schreibt mir](mailto:info@cardamonchai.com) gerne
 jederzeit.
-
-## Flarf-Gedichte Wegweiser
-
-1.  Die Poesie der Vernetzung
-1.  [Straßenlaternen der Welt](/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/)
-1.  [Sonne und Frieden](/2016/03/sonne-und-frieden/)
-1.  [Manieren der Boshaftigkeit](/2016/04/manieren-der-boshaftigkeit/)
-1.  [Das übersetzte Wetter im Spiegel](/2016/05/das-uebersetzte-wetter-im-spiegel/)
-1.  [Die seltsame Stimmung der knalligen Blüten](/2016/10/die-seltsame-stimmung-der-knalligen-blueten/)
-1.  [Elbe schwarz-weiß bunt](/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/)
-1.  [Pizza und Backgammon](/2017/01/drei-koenige/)
-1.  [Liebe Sternschanze](/2017/01/liebe-sternschanze/)
-1.  [Haters rest in poetry](/2017/02/haters-rest-in-poetry/)
-1.  [Die Sehnsucht der Postmoderne](/2017/02/die-sehnsucht-der-postmoderne/)
-1.  [In den Straßen von St. Pauli](/2017/02/dauerregen-stpauli/)
-1.  [Elblicht](/2018/01/elblicht-flarfgedicht-zum-jahresanfang/)
-1.  [Möwe am Wasser](/2018/01/moewe-am-wasser/)
-1.  [Jahreszeiten an der Brücke](/2018/02/ein-fleet-im-verlauf-der-jahreszeiten/)
-1.  [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/)
-1.  [Abschied von Dir - Tschüss, mach es gut](/2018/04/abschied-von-dir/)
-1.  [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/)
-
-  
