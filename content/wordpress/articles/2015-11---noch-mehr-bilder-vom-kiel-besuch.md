@@ -34,8 +34,8 @@ year: "2015"
 month: "11"
 
 ---
-**Vor Kurzem gab es an dieser Stelle schon mal eine
-[Galerie](/2015/11/ein-besuch-in-kiel/) von unserem Kiel-Besuch letzte Woche.
+**Vor Kurzem gab es an dieser Stelle schon mal eine**
+[**Galerie**](/2015/11/ein-besuch-in-kiel/)** von unserem Kiel-Besuch letzte Woche.
 Heute gibt es noch ein Bisschen mehr zu sehen. Die Bilder habe ich dieses Mal
 nicht mit meiner Kamera aufgenommen, sie stammen aus meinem Instagram-Account,
 sind also Mobiltelefon aufgenommen.**
@@ -56,5 +56,4 @@ Nord-Ostsee-Kanal im Wandel der Geschichte, nautische Geräte, Marinemalerei und
 Boote. Durch die Fenster kann man direkt aufs Wasser blicken.
 
 Plant auch Ihr einen Kiel-Besuch? Das
-[Museum](http://www.kiel.de/kultur/museum/schifffahrtsmuseum/) ist täglich von
-10 - 18 Uhr geöffnet, der Eintritt kostet regulär 3 Euro.
+[Museum](http://www.kiel.de/kultur/museum/schifffahrtsmuseum/) ist täglich von 10 bis 18 Uhr geöffnet, der Eintritt kostet regulär 3 Euro.
