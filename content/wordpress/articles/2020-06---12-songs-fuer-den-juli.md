@@ -1,52 +1,50 @@
 ---
-date: 2020-06-24T14:46:24.000Z
+date: 2020-06-24T14:46:24.000+00:00
 slug: 12-songs-fuer-den-juli-2020
-path: /2020/06/12-songs-fuer-den-juli-2020/
+path: "/2020/06/12-songs-fuer-den-juli-2020/"
 type: Artikel
 typeName: Artikel
 title: 12 Songs für den Juli
 seoTitle: 12 Songs für den Juli - frisch auf Eurem Plattenteller
 ogTitle: 12 Songs für den Juli - frisch auf Eurem Plattenteller
-description:
-  Für den Juli haben wir wieder 12 besonders herausragende Songs für Euch
+description: Für den Juli haben wir wieder 12 besonders herausragende Songs für Euch
   zusammengestellt. Mit dabei sind neue Sensationen und starke Klassiker.
-excerpt:
-  Für den Juli haben wir wieder 12 besonders herausragende Songs für Euch
-  zusammengestellt. Mit dabei sind neue Sensationen und starke Klassiker.
+excerpt: Für den Juli haben wir wieder 12 besonders herausragende Songs für Euch zusammengestellt.
+  Mit dabei sind neue Sensationen und starke Klassiker.
 fileName: 2020-06---12-songs-fuer-den-juli.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_12-songs-fuer-den-juli__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_12-songs-fuer-den-juli__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBgcI/8QAJxAAAgEEAAYCAgMAAAAAAAAAAQIDAAQFEQYSEyExQTKhB0JRYYH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBAID/8QAHxEAAQMEAwEAAAAAAAAAAAAAAAESIQIREzEUNPBR/9oADAMBAAIRAxEAPwDmXh2W1t87j5shEJrSOdHljKhg6hgSCCRsH2Njt7rQfz9DhI85g3wEGBgMuNWS7jwsqyQCYyyDsVPnlCnXrdUTEYue6lZopTGE0OZVJOz4AA91LNYye3kVppeoPhsx8hBHoiumKtr7QYyUuZeTXmuUhPTIWDfK3xHNrsANf4PG6XI75HIpbJcq8exGwKqFZQp0djvvwKp44jZoUWa255Y2DpKHAIYEEH4/1902PifprGsdoQEbmB6o2DvY/X1U2NGakpelULoXwaLJbgMbgmNJufZQqOynX3rvUuNEs5J5JFuV6cj9QMilgW5Dsb/nY+6KKdRV4FvbCV7XvhXaB5ooocQP/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_12-songs-fb.png__l.jpg
 labels:
-  - serie:Playlists
-  - A. A. Williams
-  - Ambient
-  - Aphex Twin
-  - Bands
-  - Bibio
-  - C. Diab
-  - Covet
-  - deM atlaS
-  - Ghostpoet
-  - iTunes
-  - Metal
-  - Mike Patton
-  - Mr. Bungle
-  - Playlist
-  - Post-Metal
-  - Post-Rock
-  - Progressive
-  - Punk
-  - Ramones
-  - Rap
-  - Richard D James
-  - sleepmakeswaves
-  - Songs
-  - Spotify
-  - This Will Destroy You
-  - Tricky
-  - Tricky feat. Marta
+- serie:Playlists
+- A. A. Williams
+- Ambient
+- Aphex Twin
+- Bands
+- Bibio
+- C. Diab
+- Covet
+- deM atlaS
+- Ghostpoet
+- iTunes
+- Metal
+- Mike Patton
+- Mr. Bungle
+- Playlist
+- Post-Metal
+- Post-Rock
+- Progressive
+- Punk
+- Ramones
+- Rap
+- Richard D James
+- sleepmakeswaves
+- Songs
+- Spotify
+- This Will Destroy You
+- Tricky
+- Tricky feat. Marta
 focusKeyword: Songs
 status: publish
 isWerbung: false
@@ -54,17 +52,13 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Frisch auf Eurem Plattenteller
----
+year: "2020"
+month: '06'
 
+---
 **Gemeinsam mit Valentin und Matze habe ich wieder 12 Songs für Euch
 vorbereitet. Sie sollen Euch den Juli versüßen. Mit dabei sind einige geniale
 Neuentdeckungen. Valentin hat sich wieder um die Klassiker gekümmert.**
-
-<RemoteImage alt={`12 Songs für den Juli`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_06_12-songs-juli__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_06_12-songs-juli__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAArEAABAwIFAwIHAQAAAAAAAAABAgMRBAUABhIhMRMiQQdRFBYjQmGBkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAABAX/xAAlEQACAQEGBwEAAAAAAAAAAAABAgASAxEhMVGhExRBcZKx4dH/2gAMAwEAAhEDEQA/AIdnR60P0zK7KwKcFkF1oKKtJ2EEnlUg7+ZwwejV2s4zv6eMs0CWLjSVlQa2qBjrpUPpgyYlPcOByMIdifp/mW3rUU9HqJ1SnYbe2K/Yq96mvNDUUbaW6phS1sJRolTmkwR7jeed/wB4W1oWHbUwi0i/OdAZMzoxmSxCuFA7SqS+6yprV1I0q2MwOU6TEbcbxgwgWjMua7dbmKe42u7pq0Jh0qWZWvlS9QEHUSTsTHGDGYUU4h/X7KubIwo3+SVZmzibpbr9bKpCkIFMoIcUsqEak6YTEAfkc7YwqegoaO72F6l6QWHO8BHmFGP5H+4Ys43FJtj6ELYUh6lWhC6VKtDu/bvJHb3DCNlr4ZGYbeax0U1KXwHXglJ0IMgmFAjz5GNZXoRlAvJkLJUQb8pU6WoZ6ABYZUdSlTIJgnYeIA4GDCrmq+2Va6c0tVUhQ1JWikpmFp5EKnSeeIn7ZIE4MSg2vUDy+Rwl12n/2Q=="
-/>
 
 Wie schnell dieses Jahr vergeht, fühlt sich ziemlich verrückt an, oder? Ich für
 meinen Teil habe das Gefühl, es ist immer noch April. Geht es Euch auch so? Die
@@ -80,7 +74,7 @@ klären mussten, wer welchen Song auf die Playlist setzt. Dieser Song von TWDY
 sollte im Moment aber wirklich auf keiner Liste fehlen. Matze findet die
 folgenden Worte dazu:
 
-"Erst letzten Monat hatte ich This Will Destroy You mit 'Variations &amp;
+"Erst letzten Monat hatte ich This Will Destroy You mit 'Variations &
 Rarities 2004-2019, Vol 1' auf die Liste gesetzt. Der Titel verspricht zwar
 schon so einiges. Aber was uns die Band nur einen Monat später tatsächlich
 vorgesetzt hat, ist mehr als nur außergewöhnlich. Das 'Vespertine' ist ein
@@ -91,7 +85,7 @@ musikalische Untermalung beigesteuert. In jedem Raum erwarten einen dort andere
 Klangimpression. Den beeindruckenden Food Soundtrack hat die Band diesen Monat
 als EP veröffentlicht."
 
- <YouTube id="ycn-6bgJi0w" />
+<YouTube id="ycn-6bgJi0w" />
 
 ## Mr. Bungle - "USA" (Single)
 
@@ -105,7 +99,7 @@ handelt sich bei 'USA' um die erste neue Aufnahme der Mike Patton Band seit
 Pattons Stimme heraushört, die man so vielleicht vorher nicht kannte. 'USA' ist
 ein hochpolitisches Zeichen in Zeiten von Black Lives Matter und Corona."
 
- <YouTube id="lyAYIkfjFXQ" />
+<YouTube id="lyAYIkfjFXQ" />
 
 ## A. A. Williams - "Melt" (Vorauskopplung aus dem Album "Forever Blue")
 
@@ -117,7 +111,7 @@ dann zu einem zweiten Teil mit post-rockigem Instrumentalpart hochzuschrauben.
 Die Einflüsse und Gemeinsamkeiten aus der Zusammenarbeit mit Mono (Japan)
 klingen noch sehr schön nach."
 
- <YouTube id="PYDWOjegH7c" />
+<YouTube id="PYDWOjegH7c" />
 
 ## Sleepmakeswaves - "Time Wants A Skeleton" von der EP "No Safe Place"
 
@@ -137,7 +131,7 @@ Tonight" Moment bis Minute 3:20 vor."
 Was macht Matze da für Vorschläge? Hört Euch das komplette Werk an! Von vorne
 bis hinten! Wir haben uns lange genug darauf gefreut!
 
- <YouTube id="migkQDvwtMA" />
+<YouTube id="migkQDvwtMA" />
 
 ## Covet - "Atreyu" vom Album "Technicolor"
 
@@ -147,7 +141,7 @@ und irrsinnig kreative musikalische Output des Trios Covet. Dieses wunderschöne
 Stücke Ohrenpflege stammt vom soeben veröffentlichten Album "Technicolor". Ihr
 müsst es Euch anhören.
 
- <YouTube id="EHF18Trrq8M" />
+<YouTube id="EHF18Trrq8M" />
 
 ## C. Diab - "Street Scenes" vom Album "White Whale"
 
@@ -157,7 +151,7 @@ als eingängig. Besonderes Highlight: Die mit Hilfe eines Geigenbogens gespielte
 Akustik-Gitarre. "White Whale" ist bereits das fünfte Album seit C. Diabs Debut
 im Jahr 2013.
 
- <YouTube id="q5NPhfsXZd8" />
+<YouTube id="q5NPhfsXZd8" />
 
 ## Bibio - "A Couple Swim" vom Album "Sleep On The Wing"
 
@@ -167,7 +161,7 @@ Folk der 1960er Jahre. Der Künstler spielt jedoch ebenso gekonnt mit Elementen
 aus der elektronischen und experimentellen Ecke. "A Couple Swim" vom neuen Album
 "Sleep On The Wing" zeigt diesen Stilmix sehr plakativ.
 
- <YouTube id="XhZddJGPczw" />
+<YouTube id="EtRJCeRoZFs" />
 
 ## Tricky feat. Marta "Fall Please" (Single)
 
@@ -178,7 +172,7 @@ Ambient und Techno der 1990 Jahr mit Soul-Anleihen und treibendem Beatgeländer.
 Eins ist sicher: Diese Platte wird bei mir nicht in der zweiten Reihe
 verstauben.
 
- <YouTube id="yAEiIF5parQ" />
+<YouTube id="yAEiIF5parQ" />
 
 ## Ghostpoet - "Whoe Is Meee" vom Album "Dark Days And Canapés"
 
@@ -194,7 +188,7 @@ Canapés' aus dem Jahr 2017."
 Am 1. Mai hat Ghostpoet übrigens seine neueste LP "I Grow Tired But Dare Not
 Fall Asleep' veröffentlicht. Auch hier lohnt sich das Reinhören.
 
- <YouTube id="9N1ZtVi6QCQ" />
+<YouTube id="9N1ZtVi6QCQ" />
 
 ## Richard D James - "Diskhat 1" von der EP "Computer Controlled Acoustic Instruments pt2"
 
@@ -204,7 +198,7 @@ kann, bin ich auf dieses Schmuckstück von dem von uns allen verehrten Richard D
 James aka Aphex Twin gekommen. Es stammt von seiner hochinteressanten EP
 'Computer Controlled Acoustic Instruments pt2' von 2015.
 
- <YouTube id="8tz6F32KeBw" />
+<YouTube id="8tz6F32KeBw" />
 
 ## deM atlaS - "Gratitude" vom Album "Bad Actress"
 
@@ -216,7 +210,7 @@ gesellschaftskritisch. Der Rapper aus Saint Paul, Minnesota zählt Rap-Größen 
 Nas  aber auch Louis Armstrong, Billie Holiday und Hardcore Punk Bands wie Minor
 Threat zu seinen Einflüssen."
 
- <YouTube id="UWjmdF1Tb7g" />
+<YouTube id="UWjmdF1Tb7g" />
 
 ## Ramones - "She's The One" vom Album "Road To Ruin"
 
@@ -225,7 +219,7 @@ auf Valentins Zettel stand. Er hat dazu einen echten Insider-Fact: "Das
 Musikvideo zu 'She's The One' wurde erst 2018 zusammen mit der '40th Anniversary
 Deluxe Edition' des Albums 'Road To Ruin' veröffentlicht."
 
- <YouTube id="Z5_fQHTW_Sk" />
+<YouTube id="Z5_fQHTW_Sk" />
 
 ## Unsere Playlists
 
