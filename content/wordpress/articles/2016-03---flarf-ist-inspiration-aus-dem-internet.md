@@ -111,11 +111,3 @@ images={\[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_
 Ein weiteres Gedicht aus meiner Feder
 [findet Ihr hier](/2011/09/heimweggedanken/). Es ist kein Flarf-Gedicht, aber
 trotzdem schön. Unter anderem geht es darin um frittierte Glückseligkeit.
-
-Übrigens freue ich mich immer über Feedback. Thematisch ist mein Blog nicht
-festgelegt, ich biete Euch Artikel zu den verschiedensten Themen. Findet Ihr das
-sperrig? Oder gefällt es Euch besonders gut? Auch Vorschläge könnt Ihr mir gerne
-jederzeit zukommen lassen! Gerne mache ich z. B. auch ein
-[Interview](/category/rock-n-roll/interviews/) mit Euch, wenn Ihr etwas
-Spannendes zu berichten habt. [Schreibt mir](mailto:info@cardamonchai.com) gerne
-jederzeit.
