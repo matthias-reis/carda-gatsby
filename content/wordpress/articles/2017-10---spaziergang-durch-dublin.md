@@ -1,44 +1,43 @@
 ---
-date: 2017-10-06T15:03:46.000Z
+date: 2017-10-06T15:03:46.000+00:00
 slug: kleiner-spaziergang-durch-dublin
-path: /2017/10/kleiner-spaziergang-durch-dublin/
+path: "/2017/10/kleiner-spaziergang-durch-dublin/"
 type: Galerie mit Bild
 typeName: Galerie mit Bild
 title: Spaziergang durch Dublin
 seoTitle: Spaziergang durch Dublin - Fröhliche Menschen und altehrwürdige Bauten
 ogTitle: Spaziergang durch Dublin - Fröhliche Menschen und altehrwürdige Bauten
-description: In Dublin fielen uns zuerst die fröhlichen Menschen auf. Überall in
-  der Stadt wird man mit offenen Armen empfangen. Im Blog findet Ihr meine
-  Bilderserie.
-excerpt: In Dublin fielen uns zuerst die fröhlichen Menschen auf. Überall in der
-  Stadt wird man mit offenen Armen empfangen. Im Blog findet Ihr meine
-  Bilderserie.
+description: In Dublin fielen uns zuerst die fröhlichen Menschen auf. Überall in der
+  Stadt wird man mit offenen Armen empfangen. Im Blog findet Ihr meine Bilderserie.
+excerpt: In Dublin fielen uns zuerst die fröhlichen Menschen auf. Überall in der Stadt
+  wird man mit offenen Armen empfangen. Im Blog findet Ihr meine Bilderserie.
 fileName: 2017-10---spaziergang-durch-dublin.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_36828633353_d7e6a62388_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_36828633353_d7e6a62388_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCA//EACoQAAIBAwMDAwMFAAAAAAAAAAECAwQFEQASIQYTMRQiQTJRYQcjQpGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AKGOSop+jikNIaqNIonqFcEBEJJBH593BGdeFFdrZdKyzU9ZULRUlvjKyRbgZpSxypBYc4JG7bgDU231dVcOhqmkWKVJPTwhlZWBZRgYHGfPwP61nAqkTqONFpEkRpTF21cqjhgVZSPJBPHnQbVU2uhlX0tJb7lOMM5EKMzccbjtjP4Hj50rXujoun6SSoqrTdgJj6dUmpuSPq3ATBQCNuMrk886WEuV3pry1JS3apM8UskcG4tltgHHAzg+MEfxzptud6unUPT5k6gh9dXKxlikiAA98Z25Rhjgjkg87sDGNAzWTr2RgkcduRGLFN/dLEfGRkcHVVSfo7SDbcoL3WCWDdPGJY0f3J7huPGeRz40aNBE6Yt8dyulSGd4KeCXuyQQnaszuDlvuvBIO3Gfvru4Xymu92u9nqLZGILardv9zcpwVX6SMDz/AJo0aD//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_10_36828633353_d7e6a62388_k__l.jpg
 labels:
-  - Amnesia
-  - Auld Dubliner
-  - Book of Kells
-  - Britische Inseln
-  - Cornuconia
-  - Crafton Street
-  - Dublin
-  - Fernweh
-  - Govinda's
-  - Guinness
-  - Guinness Store House
-  - H' Penny Bridge
-  - Irland
-  - Irland2017
-  - Molly Malone
-  - Reise
-  - River Liffey
-  - St. Patrick's
-  - Stephen's Green
-  - Trinity College
+- Amnesia
+- Auld Dubliner
+- Book of Kells
+- Britische Inseln
+- Cornuconia
+- Crafton Street
+- Dublin
+- Fernweh
+- Govinda's
+- Guinness
+- Guinness Store House
+- H' Penny Bridge
+- Irland
+- Irland2017
+- Molly Malone
+- Reise
+- River Liffey
+- St. Patrick's
+- Stephen's Green
+- Trinity College
+- serie:Irland 2017
 focusKeyword: Dublin
 status: publish
 isWerbung: false
@@ -46,9 +45,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Fröhliche Menschen und altehrwürdige Bauten
-  
----
+year: "2017"
+month: "10"
 
+---
 **Wie schon im letzten Beitrag erwähnt, starteten wir unseren diesjährigen
 Roadtrip durch Irland in Dublin. Die zwei Tage, die wir dort hatten, nutzten wir
 vor allem für ausgedehnte Spaziergänge.**
@@ -131,35 +131,3 @@ Alive, alive, oh Alive, alive, oh Crying "cockles and mussels, alive, alive, oh"
 </blockquote>
 
 <Gallery name="flickr/annedublin2017" />
-
-## Wegweiser Irland 2017
-
-1.  [Möwen in Dublin](/2017/10/moewen-in-dublin/)
-1.  Spaziergang durch Dublin
-1.  [Guinness ist vegan – Unser Besuch in der St. James Gate Brewery](/2017/10/guinness-ist-vegan-brauerei-besuch/)
-1.  [Farbenfrohe Details in Kilkenny](/2017/11/kilkenny-bunte-insel-irland/)
-1.  [Kilkenny Castle - Ein Schloss mit vielen Gesichtern](/2017/11/kilkenny-castle/)
-1.  [Rock Of Cashel - Ein geschichtsträchtiger Ort](/2017/11/rock-of-cashel/)
-1.  [Cork - Technik und Tradition](/2017/12/cork/)
-1.  [Abenteuer auf dem Ring Of Kerry](/2018/01/auf-dem-skellig-ring-in-richtung-dingle-halbinsel/)
-1.  [Muckross House und Torc Waterfall](/2018/02/muckross-house-und-torc-waterfall-irland/)
-1.  [Inch Beach - Traumstrand auf der Dingle Halbinsel](/2018/02/lieblingsstrand-inch-beach/)
-1.  [Limerick - Fünf Zeilen Spaß und eine Stadt in Irland](/2018/02/limerick/)
-1.  [Das Ende des Regenbogens - Eine Irische Sage](/2018/02/das-ende-des-regenbogens/)
-1.  [Da Vincenzo Limerick - Irlands beste vegane Steinofenpizza](/2018/03/da-vincenzo-limerick/)
-1.  [Dingle - Buntes Städtchen am Atlantik](/2018/03/dingle/)
-1.  [Curraghchase Caravan &amp; Camp Site - Kilcornan](/2018/03/curraghchase-caravan-camp-site/)
-1.  [Bunratty Castle - Normannische Burg und Publikumsmagnet](/2018/03/bunratty-castle/)
-1.  [Cliffs Of Moher](/2018/04/cliffs-of-moher/)
-1.  [Fitzpatrick's Pub Doolin](/2018/04/fitzpatricks-pub-doolin/)
-1.  [Doolin - Sehnsuchtsort am Atlantik](/2018/04/doolin/)
-1.  [Burren und Poulnabrone Dolmen](/2018/04/poulnabrone-dolmen-burren/)
-1.  [Galway - Kunst, Kultur und Livemusik](/2018/04/galway/)
-1.  [The Lighthouse Tea Room Galway](/2018/05/the-lighthouse-tea-room-galway/)
-1.  [Birds of Westport](/2018/05/birds-of-westport/)
-1.  [Sky Loop Road](/2018/05/sky-loop-road-clifden/)
-1.  [Irischer Traumstrand](/2018/05/irischer-traumstrand/)
-1.  [Connemara National Park](/2018/05/connemara-national-park/)
-1.  [Kylemore Abbey](/2018/05/kylemore-abbey/)
-
-  
