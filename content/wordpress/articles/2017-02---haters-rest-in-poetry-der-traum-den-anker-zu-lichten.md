@@ -50,8 +50,6 @@ Beschäftigung geworden.
 Vielleicht ist es mir ja dieses Mal dabei sogar gelungen, ein kleines Bisschen
 Hass in Liebe umzuwandeln. Seht selbst.
 
-<blockquote>
-
 ## Haters rest in poetry - Der Traum, den Anker zu lichten
 
 Ahoi! Entdecken Sie unsere Anker-Kollektion! Das Geschäft mit der Liebe.
@@ -71,8 +69,4 @@ High Quality Liebe. Doch dabei verfing sich die Kette in ihrer Hand.
 
 Findet Euren Anker. Liebe ist der Anker unseres Lebens.
 
-Statement Ring Haters Hatespeech verklingt
-
-Liebe Grüße aus Hamburg
-
-</blockquote>
+Statement Ring Haters Hatespeech verklingt.
