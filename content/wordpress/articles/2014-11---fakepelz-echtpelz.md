@@ -46,13 +46,6 @@ month: "11"
 ---
 ## Die finsteren Machenschaften der Modeindustrie
 
-<RemoteImage alt={`Bitte trage keinen Pelz!`} size="medium"
-title={`[ ](https://www.flickr.com/photos/99929697@N07/sets) Bitte trage keinen Pelz!`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_15582329425_4ea402f130_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_15582329425_4ea402f130_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAJxAAAQMDAwQDAAMAAAAAAAAAAQIDBAURIQAGEgcTIjEyQVEUYZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A49TdqzdzVeM/Icp8VyUOZKWwAu5PkEgi+RpnVdhRqBSost5Sp3ffDbTjak9pPK1udr+z6AP1nVPp3V36NMhTlNLfZgDCEny5K5WCAT7zrp+748SbsGpwaUskh9EppKVi6XE+Vjj9uLaDLzaEzUJNIbnIS1C7q2nVtJT3XEJUhXA55AfLyza+NMKjsXa7bj8qnSak0pniw/EDRUI/LHyWDlNvSrcuONZOBuUO76hyGZK50WFGKgmUwlgNvKSUr8QcgFRF7/h+tNtwdRkQWZVOnUxIcMI/xX4yUIUFrSoJDhsCpIvkixVm/s6Cq6+IqVKjtJSsKQAbm1z92va39al3lPmUja1HlQn+Mt/k464ocr4BAAJsPejRoMNsZ1dQ6hxJU09xx15yQ5xASFrCVLyBixIyNT9SX1zNzTVucR2URGjYfK7fIn/SdGjQf//Z"
-/>
-
 **
 [_Hier gehts zu Teil 7 des Artikels_](/2014/10/16/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
 ** **Vegan leben bedeutet natürlich auch, auf das Tragen von Pelz und Leder,
