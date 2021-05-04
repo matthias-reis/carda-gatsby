@@ -1,41 +1,42 @@
 ---
-date: 2018-04-18T08:00:12.000Z
+date: 2018-04-18T08:00:12.000+00:00
 slug: dunkfest-2018-wir-kommen
-path: /2018/04/dunkfest-2018-wir-kommen/
+path: "/2018/04/dunkfest-2018-wir-kommen/"
 type: Artikel
 typeName: Artikel
 title: Dunk!festival 2018 wir kommen!
 seoTitle: Dunk!festival 2018 wir kommen - Post-Rock rund um die Uhr
 ogTitle: Dunk!festival 2018 wir kommen - Post-Rock rund um die Uhr
-description: Auch in diesem Jahr werden wir wieder das Dunk!festival im
-  Belgischen Zottegem bereisen. Die Vorfreude steigt. Bald geht es los!
-excerpt: Auch in diesem Jahr werden wir wieder das Dunk!festival im Belgischen
+description: Auch in diesem Jahr werden wir wieder das Dunk!festival im Belgischen
   Zottegem bereisen. Die Vorfreude steigt. Bald geht es los!
+excerpt: Auch in diesem Jahr werden wir wieder das Dunk!festival im Belgischen Zottegem
+  bereisen. Die Vorfreude steigt. Bald geht es los!
 fileName: 2018-04---dunk-festival-2018-wir-kommen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_18556485_10154236337136887_6452039886214141882_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_18556485_10154236337136887_6452039886214141882_o__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREAEiEGMUETFCJRB2FxsdH/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAgMF/8QAIBEAAgIBAwUAAAAAAAAAAAAAAQIAEQMSMbEEIUFRcf/aAAwDAQACEQMRAD8AqV3rVihMiemyq6OGd9qEZxy3jg6mkHUNZbaoUdPdqyaOmcpF7mjEyEKCOGUk4x/HGtHc+qrNR18VrmpGlpc+3d1jHpxMI0cR4J+R+a5xwM9/Gk9qvnT9zvUMVp6fnmhMU0izJABvOBgKM4LNtYLkjJ47c6IuDKGJsVFJnVRVcTIfkHqGulr1hhmKS+kjOY0aMbmyzDDDIHI7/WnH4muDSUVZ7t9wVWMIfcXkfOSRxjAGe/2POlt7aK7UVorq2hhFZIJ45JguwVARwobBJwR2OCRlTgkaXW+xXNqQRQVWyk4J2blBxnvj9nUX04x3q94VyNRI+yi3+O21FBHdJI3kZqWKKVYookeXgAZlZS2B9D/NLbx1nc1hoo7e9BTxypIskaAzOoGMb9wAyeTnHnRo0Veryud/fEYuJaBieuqqmWOJamQOsEYWAfFQi+QqqAFH6Guu13SdMLj1adjypGQT/Y0aNVFiRq8zMclchqf/2Q==
-ogImage: null
+ogImage: 
 labels:
-  - Baltic Post-Rock
-  - Belgien
-  - Caspian
-  - Dunk Festival
-  - Dunk Records
-  - DUNK!festival
-  - DUNK!records
-  - EF
-  - Festivals
-  - Grails
-  - Les Discrets
-  - Post-Rock
-  - Postrock
-  - Ranges
-  - Rosetta
-  - Russian Circles
-  - The Ocean
-  - Tides Of Man
-  - Zottegem
+- Baltic Post-Rock
+- Belgien
+- Caspian
+- Dunk Festival
+- Dunk Records
+- DUNK!festival
+- DUNK!records
+- EF
+- Festivals
+- Grails
+- Les Discrets
+- Post-Rock
+- Postrock
+- Ranges
+- Rosetta
+- Russian Circles
+- The Ocean
+- Tides Of Man
+- Zottegem
+- serie:DUNK!festival
 focusKeyword: Dunk!festival
 status: publish
 isWerbung: false
@@ -43,9 +44,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Post-Rock rund um die Uhr
-  
----
+year: "2018"
+month: '04'
 
+---
 **Bereits 2017 hatten wir viel Spaß auf dem Dunk!festival. Drei Tage mit
 Post-Rock, tollen Menschen und Sonne satt. Auch 2018 wollen wir uns das Festival
 im Belgischen Zottegem nicht entgehen lassen. Es findet dieses Mal vom 10. bis
@@ -134,5 +136,3 @@ Helga und Polonaise haben keinen Zutritt.
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
 ## Quelle Titelbild, Artwork und Timetable: [Dunk!festival](https://www.dunkfestival.be/)
-
-  
