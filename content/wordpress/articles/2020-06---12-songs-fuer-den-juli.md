@@ -198,8 +198,6 @@ kann, bin ich auf dieses Schmuckstück von dem von uns allen verehrten Richard D
 James aka Aphex Twin gekommen. Es stammt von seiner hochinteressanten EP
 'Computer Controlled Acoustic Instruments pt2' von 2015.
 
-<YouTube id="8tz6F32KeBw" />
-
 ## deM atlaS - "Gratitude" vom Album "Bad Actress"
 
 Das Album, von dem dieses Lieblingstück aus Valentins Sammlung stammt, ist
