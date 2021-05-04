@@ -58,24 +58,24 @@ month: '08'
 ---
 ## Veganer retten Leben
 
-**_ [Hier gehts zu Teil 2 des Artikels](2014/08/ich-war-so-muede/) _** **In
-Deutschland leben momentan rund 1,2 Millionen Veganer\*innen (Quelle:
-[VEBU](https://www.vebu.de/lifestyle/anzahl-der-vegetarierinnen), Stand Juli
+**_** [**Hier gehts zu Teil 2 des Artikels**](2014/08/ich-war-so-muede/) **_** **In
+Deutschland leben momentan rund 1,2 Millionen Veganer*innen (Quelle:
+**[**VEBU**](https://www.vebu.de/lifestyle/anzahl-der-vegetarierinnen)**, Stand Juli
 2014), bei einer derzeitigen Gesamtbevölkerung von 81.890.000 (Stand heute)
 bedeutet das, dass 1,465 Prozent der Deutschen vegan leben, die Zahl wächst
 stetig.**
 
 Geht man davon aus, wie viele Tiere in Deutschland pro Kopf geschlachtet werden
-(\*), ergibt sich daraus, dass dadurch täglich gerettet werden:
+(*), ergibt sich daraus, dass dadurch täglich gerettet werden:
 
-- 25.210 Hühner
-- 2.243 Schweine
-- 1.514 Puten
-- 1.022 Enten
-- 130 Rinder
-- 44 Schafe
-- 21 Gänse
-- 1 Ziege
+* 25.210 Hühner
+* 2.243 Schweine
+* 1.514 Puten
+* 1.022 Enten
+* 130 Rinder
+* 44 Schafe
+* 21 Gänse
+* 1 Ziege
 
 ### 150 Milliarden geschlachtete Tiere jährlich
 
@@ -84,7 +84,7 @@ weltweit jährlich mehr als 150 Milliarden Tiere **geschlachtet** werden.
 In Deutschland sind das jährlich u. A. 58 Millionen Schweine, 630 Millionen
 Hühner und 3,2 Millionen Rinder. In den USA schlachtet alleine die Gesellschaft
 "Tyson Foods" mehr als 42 Millionen Tiere in einer einzigen Woche, in China
-werden über 660 Millionen Schweine pro Jahr geschlachtet. (**, \***)
+werden über 660 Millionen Schweine pro Jahr geschlachtet. (__, *__)
 
 <RemoteImage alt={`Geschlachtete Tiere in Deutschland - bund.net`} size="large"
 title={`[ ](http://www.bund.net/fileadmin/bundnet/publikationen/landwirtschaft/140108_bund_landwirtschaft_fleischatlas_2014.pdf) Geschlachtete Tiere in Deutschland - bund.net`}
@@ -148,7 +148,7 @@ gänzlich fehlt. (
 ) Dabei besteht kein Unterschied bei der Schlachtung von Biotieren, wie u. A.
 dieses Video beweist:
 
- <YouTube id="HWYuYZ_KfdE" />
+<YouTube id="HWYuYZ_KfdE" />
 
 Mehr über die Wahrheit zur Schlachtung von Biotieren ist auf der Seite
 [biowahrheit.de](http://www.biowahrheit.de/inhalt/schlachtung.htm) zu finden,
@@ -174,7 +174,7 @@ Daten aus 53 Schlachtbetrieben in Deutschland auswertet.
 Über 55 Prozent der in Deutschland geschlachteten Schweine fallen auf die drei
 größten Schlachtkonzerne, Westfleisch, Tönnies und Vion, bei Geflügel führt die
 PHW-Gruppe, bekannt durch "Wiesenhof"die Branche an, es lässt sich also durchaus
-von einer Zentralisierung sprechen. (\*)
+von einer Zentralisierung sprechen. (*)
 
 <RemoteImage alt={`Weltweite Schlachtungen bund.net`} size="full"
 title={`[ ](http://www.bund.net/fleischatlas) Weltweite Schlachtungen bund.net`}
@@ -240,29 +240,16 @@ Tonnen pro Jahr bis Mitte dieses Jahrhunderts fort, kommt man bis zu diesem
 Zeitpunkt auf fast eine halbe Milliarde Tonnen pro Jahr. Hinzukommt, dass sich
 die [Sojaproduktion](//2014/07/30/10-fakten-uber-vegane-ernahrung/) für das
 Futter zur Mästung der Tiere von heute 260 auf über 500 Millionen Tonnen nahezu
-verdoppeln wird. (\*\*)
+verdoppeln wird. (**)
 
 > Nichts auf der Welt ist so mächtig wie eine Idee, deren Zeit gekommmen ist.
 > (Victor Hugo,1802-1885)
 
 [_ **Hier gehts zu Teil 4 des Artikels** _](/2014/08/26/vitamin-b12-mythos-und-wahrheit/)
 
-_Text und Fotos: [Anne Reis](//about/), Quellen: \*
+Quellen: *
 [Fleischatlas 2014](http://www.bund.net/fileadmin/bundnet/publikationen/landwirtschaft/140108_bund_landwirtschaft_fleischatlas_2014.pdf),
-** [bund.net](http://www.bund.net/fleischatlas), \***
+\** [bund.net](http://www.bund.net/fleischatlas), ***
 [Campact Blog](http://blog.campact.de/2014/01/wir-habens-satt-750-mio-tiere-werden-pro-jahr-in-deutschland-geschlachtet/),
   [biowahrheit.de](http://www.biowahrheit.de),
-[Occupy For Animals](http://www.occupyforanimals.org/animal-kill-counter.html) _
-
-### Inhaltsverzeichnis "10 Fakten über Veganismus"
-
-1.  [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
-1.  [Ich war so müde](/2014/08/ich-war-so-muede/) !
-1.  [Blutige Zahlen](/2014/08/blutige-zahlen/)
-1.  [Vitamin B12 - Mythos und Fakten](/2014/08/vitamin-b12-mythos-und-wahrheit/)
-1.  [Pflanzenmilch? Wieso denn bloß?](/2014/09/pflanzenmilch-wieso-denn-blos/)
-1.  [Wolle? Das kann doch gar nicht so schlimm sein!](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
-1.  [Honig? Das ist jetzt aber wirklich übertrieben, oder?](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
-1.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
-1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
-1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)
+[Occupy For Animals](http://www.occupyforanimals.org/animal-kill-counter.html) 
