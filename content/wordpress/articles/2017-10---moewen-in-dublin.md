@@ -1,32 +1,31 @@
 ---
-date: 2017-10-05T05:10:09.000Z
+date: 2017-10-05T05:10:09.000+00:00
 slug: moewen-in-dublin
-path: /2017/10/moewen-in-dublin/
+path: "/2017/10/moewen-in-dublin/"
 type: Galerie
 typeName: Galerie
 title: Möwen in Dublin
 seoTitle: Möwen in Dublin - Bunte Bilderserie mit original Irischen Seevögeln
 ogTitle: Möwen in Dublin - Bunte Bilderserie mit original Irischen Seevögeln
-description: In Dublin konnte ich mich kaum sattsehen. Möwen! Überall Möwen!
-  Dass ich die Seevögel liebe, ist kein Geheimnis. Die Dubliner Möwen sind
-  besonders toll!
-excerpt: In Dublin konnte ich mich kaum sattsehen. Möwen! Überall Möwen! Dass
-  ich die Seevögel liebe, ist kein Geheimnis. Die Dubliner Möwen sind besonders
-  toll!
+description: In Dublin konnte ich mich kaum sattsehen. Möwen! Überall Möwen! Dass
+  ich die Seevögel liebe, ist kein Geheimnis. Die Dubliner Möwen sind besonders toll!
+excerpt: In Dublin konnte ich mich kaum sattsehen. Möwen! Überall Möwen! Dass ich
+  die Seevögel liebe, ist kein Geheimnis. Die Dubliner Möwen sind besonders toll!
 fileName: 2017-10---moewen-in-dublin.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_37239585240_9e5d04507e_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_37239585240_9e5d04507e_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGCAIDBAf/xAAqEAABAwMEAQMDBQAAAAAAAAABAgMEAAURBhIhMRMHQVEikbEVQmFykv/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABgRAQEBAQEAAAAAAAAAAAAAAAABEoER/9oADAMBAAIRAxEAPwDRrzXMLVNxYfktIgIYb8CAp7K8Fe4qJKRg9cfmuRvWz0CJBgWK7rjmJI8iEJddy6lfKioAgKHvwMDjGBT6w+sM9TTCb7BiHLbbinUpwMKJSMqP0btyVDB28g091Zdm9R2RtiwzbVCuLkltTjc6Olryo6278Ed7T2eE4rPW+PLLpcbRd5SpkjUs4lS1J2vPZWn5zuOQMYAPvjFRubHtT8ZuPHvpUtJUoKfyrOex381Z622UP2aGb1GtTk1TYLi24TZSon4JTzxjmlV20Np+VkyYccjHTUdlv8JzThb8V/0BcHP1Rhhf1szGpEZ5B6Ught3kf2Wv/VYW2B4fTSXeo8h3fbHzGfjPnytSE7yEkA4LZA/kg/FFFCM9KaxuEJlJtzr8VPYbS9ubBwP2EEe/tipPa/VC4y56INwhsOLWceVklr7p5H2xRRRLYbH/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_10_37239585240_9e5d04507e_k__l.jpg
 labels:
-  - Britische Inseln
-  - Dublin
-  - Fernweh
-  - Irland
-  - Irland2017
-  - Möwen
-  - Möwenbilder
-  - Seevögel
+- Britische Inseln
+- Dublin
+- Fernweh
+- Irland
+- Irland2017
+- Möwen
+- Möwenbilder
+- Seevögel
+- serie:Möwen
 focusKeyword: Möwen in Dublin
 status: publish
 isWerbung: false
@@ -34,9 +33,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Bunte Bilderserie mit original Irischen Seevögeln
-  
----
+year: "2017"
+month: "10"
 
+---
 **In Dublin konnte ich mich kaum sattsehen. Möwen! Überall Möwen! Ein paar Mal
 musste ich sogar aufpassen, dass ich vor lauter Möwenfotografie nicht die tollen
 Sehenswürdigkeiten übersehe. Aus lieber Tradition und weil die Dubliner Möwen
@@ -78,21 +78,6 @@ Christian Morgenstern
 
 <Gallery name="flickr/annemoewendublin2017" />
 
-## Wegweiser Möwen
-
-1.  [Möwen am Bosporus (Januar 2010)](/2010/01/moewen-am-bosporus/)
-1.  [Zurück nach St. Peter Ording (Juli 2015)](/2015/07/zurueck-nach-st-peter-ording/)
-1.  [St. Peter Ording - Perle an der Nordsee (August 2015)](/2015/08/st-peter-ording/)
-1.  [Birdwatching am Timmendorfer Strand (November 2015)](/2015/11/birdwatching-am-timmendorfer-strand/)
-1.  [Die Möwe, Kiel (November 2015)](/2015/11/die-moewe/)
-1.  [Möwen auf der Brücke (Januar 2016)](/2016/01/moewen-auf-der-bruecke/)
-1.  [Sommer auf der Ostsee - Möwen vor Helsinki (Juni 2016)](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/)
-1.  [Seevögel in Helsinki - Auf jeder Statue eine Möwe (Juni 2016)](/2016/08/auf-jeder-statue-eine-moewe/)
-1.  Möwen in Dublin - Bunte Bilderserie mit original Irischen Seevögeln
-    (September 2017)
-1.  [Möwe am Wasser](/2018/01/moewe-am-wasser/)
-1.  [Birds of Westport](/2018/05/birds-of-westport/)
-
 ## Wegweiser Irland 2017
 
 1.  Möwen in Dublin
@@ -122,5 +107,3 @@ Christian Morgenstern
 1.  [Irischer Traumstrand](/2018/05/irischer-traumstrand/)
 1.  [Connemara National Park](/2018/05/connemara-national-park/)
 1.  [Kylemore Abbey](/2018/05/kylemore-abbey/)
-
-  
