@@ -51,8 +51,6 @@ Welt dafür!
 
 <blockquote>
 
-## Die Sehnsucht der Postmoderne - Neidische Romantik-Diebe
-
 Er war ein pathetischer Romantiker. Romantisch und zugleich sehr modern.
 
 Männer wären lieber Frauen. Nie Neid und auch kein Mitleid wollen.
