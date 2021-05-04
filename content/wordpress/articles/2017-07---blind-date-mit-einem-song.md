@@ -84,14 +84,14 @@ Es ist also soweit. Das Blind Date geht los. Ihr dürft gespannt sein, denn Ihr
 dürft live dabei sein, wie ich Nancy Sinatras "Summerwine" auf mich wirken
 lasse. Vorhang auf für Gefühle. Hier kommt mein Text.
 
-**Ein breiter Strand mit hellem Sand. Vielleicht in Kalifornien. Oder anderswo
-auf der Welt. Fröhliche Menschen tanzen glücklich im Abendlicht. Für sich.
-Vertieft in die Musik. Zu zweit. Eng aneinander geschmiegt oder in Gruppen von
-dreien oder vieren. Männer. Frauen. Kinder. Hunde. Sie murmeln. Lachen. Teilen
-mitgebrachtes Essen. Laden Passanten ein, sich ihnen anzuschließen.** **Jemand
-sitzt auf einer Schaukel, an deren langen Bändern Blumengirlanden befestigt
-sind. Das wirre Haar und die luftige Kleidung der Person flattert im Wind. Fast
-feenhaft. Leicht. Beschwingt.**
+>Ein breiter Strand mit hellem Sand. Vielleicht in Kalifornien. Oder anderswo
+>auf der Welt. Fröhliche Menschen tanzen glücklich im Abendlicht. Für sich.
+>Vertieft in die Musik. Zu zweit. Eng aneinander geschmiegt oder in Gruppen von
+>dreien oder vieren. Männer. Frauen. Kinder. Hunde. Sie murmeln. Lachen. Teilen
+>mitgebrachtes Essen. Laden Passanten ein, sich ihnen anzuschließen. Jemand
+>sitzt auf einer Schaukel, an deren langen Bändern Blumengirlanden befestigt
+>sind. Das wirre Haar und die luftige Kleidung der Person flattert im Wind. Fast
+>feenhaft. Leicht. Beschwingt.
 
 <RemoteImage alt={`} size="medium" title={`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_16339551251_a0008bf3fa_z__m.jpg"
@@ -99,22 +99,22 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_16339551251
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBAII/8QAKhAAAgEDAwMCBgMAAAAAAAAAAQIDBAURAAYSByExEyIjQVFxgbEVMkL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAHxEAAgICAQUAAAAAAAAAAAAAAQIAEQMSMQQiUXGR/9oADAMBAAIRAxEAPwBZ6k2+jqNvXC81NvD1DUEhozI6/Bi9aFVPENkNxkLdwSCxH2qXRfaVBZ7PXETw1TVVfIFnCj40UTGJH7dhkhjj6Ea86bp3hXXzbsVLVRcYmkQh1IBIPlfscD8gacbL1WvNFYo6Smp0ifi7iZ/8lmZy3H5n3HHyzjVic5NrzJJj6ULqzUPUot56Z7Vuu1paaloR/KVERkjnhGXjZSyq5YkAKxXvnz3841E36Y1totu5Km5zxrU2hW9sY5pIGiDhs5BGQe360y0HVGuoqCKCkhAQRr7pZC7thQByY+cAY0sbo3tcK0X1ZeKi4UkccgU5/oWXP3wcfjSK5eWAivAO1GPwydTVUzwRxM/sQ5GPrreL5X+n6YmxGF48QPljH60aNZDGU1HicRXGrhiCRzHj5wRnWarq55g5kfPJQh7eRnOjRo2NVAIt3U//2Q=="
 />
 
-**Der Sonnenuntergang spielt mit dem Meeresspiegel. Farben von gelb über orange
-bis violett mischen sich in die leichten Wellen. Grillen zirpen in den Dünen.
-Jemand greift zur Gitarre. Begleitet die Geigen. Gibt dem Bild für einen kleinen
-Augenblick Kontur. Der Sand ist noch heiß vom Tag. Der mitgebrachte Wein etwas
-warm. Aber das stört niemanden. Es ist windstill. In der Ferne zieht ein kleines
-Boot seine Kreise.**
-
-**Von der nahegelegenen Promenade dringen Geräusche zu den Menschen am Strand.
-Durch das Schilf und die Palmen wirken sie gedämpft. Wie durch einen weichen
-Vorhang. Ein satter, sanfter Klangteppich aus Musik, fröhlichen Menschen und
-klirrenden Gläsern. Der Asphalt ist dampfig und weich. Ein Mann schreitet das
-Trottoir entlang. Einen schmalen Koffer unter dem Arm. Sein Anzug sitzt akkurat,
-die Schuhe sehen poliert aus, der Kragen frisch gestärkt. Keine Spur von Schweiß
-auf seiner Stirn. Er steigt in einen silbrig glänzenden Sportwagen ein. Gibt Gas
-und verschwindet in der dunkler werdenden Nacht. Sein Auftrag ist geheim. Sein
-Name Bond. James Bond.**
+>Der Sonnenuntergang spielt mit dem Meeresspiegel. Farben von gelb über orange
+>bis violett mischen sich in die leichten Wellen. Grillen zirpen in den Dünen.
+>Jemand greift zur Gitarre. Begleitet die Geigen. Gibt dem Bild für einen kleinen
+>Augenblick Kontur. Der Sand ist noch heiß vom Tag. Der mitgebrachte Wein etwas
+>warm. Aber das stört niemanden. Es ist windstill. In der Ferne zieht ein kleines
+>Boot seine Kreise.
+>
+>Von der nahegelegenen Promenade dringen Geräusche zu den Menschen am Strand.
+>Durch das Schilf und die Palmen wirken sie gedämpft. Wie durch einen weichen
+<Vorhang. Ein satter, sanfter Klangteppich aus Musik, fröhlichen Menschen und
+>klirrenden Gläsern. Der Asphalt ist dampfig und weich. Ein Mann schreitet das
+>Trottoir entlang. Einen schmalen Koffer unter dem Arm. Sein Anzug sitzt akkurat,
+>die Schuhe sehen poliert aus, der Kragen frisch gestärkt. Keine Spur von Schweiß
+>auf seiner Stirn. Er steigt in einen silbrig glänzenden Sportwagen ein. Gibt Gas
+>und verschwindet in der dunkler werdenden Nacht. Sein Auftrag ist geheim. Sein
+>Name Bond. James Bond.
 
 ## Summer Wine - Der Song
 
