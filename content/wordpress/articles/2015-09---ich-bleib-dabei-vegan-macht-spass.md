@@ -1,36 +1,34 @@
 ---
-date: 2015-09-09T16:38:28.000Z
+date: 2015-09-09T16:38:28.000+00:00
 slug: ich-bleib-dabei-vegan-macht-spass
-path: /2015/09/ich-bleib-dabei-vegan-macht-spass/
+path: "/2015/09/ich-bleib-dabei-vegan-macht-spass/"
 type: Artikel
 typeName: Artikel
 title: Ich bleib dabei! Vegan macht Spaß!
 seoTitle: Warum ich für immer vegan leben möchte - ich bleibe dabei!
 ogTitle: Warum ich für immer vegan leben möchte - ich bleibe dabei!
-description: Im letzten Teil meiner Serie "10 Fakten über Veganismus" möchte ich
-  mich bei allen bedanken, die sich mit mir über das Thema vegan unterhalten
-  haben.
-excerpt: Im letzten Teil meiner Serie "10 Fakten über Veganismus" möchte ich
-  mich bei allen bedanken, die sich mit mir über das Thema vegan unterhalten
-  haben.
+description: Im letzten Teil meiner Serie "10 Fakten über Veganismus" möchte ich mich
+  bei allen bedanken, die sich mit mir über das Thema vegan unterhalten haben.
+excerpt: Im letzten Teil meiner Serie "10 Fakten über Veganismus" möchte ich mich
+  bei allen bedanken, die sich mit mir über das Thema vegan unterhalten haben.
 fileName: 2015-09---ich-bleib-dabei-vegan-macht-spass.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_vegan__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_vegan__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EACsQAAEEAQMDAgcAAwAAAAAAAAECAwQRBQAGIRIxQRNRBxQVIjNhcSOBwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAb/xAAdEQACAgMBAQEAAAAAAAAAAAABAgADBBESEyIx/9oADAMBAAIRAxEAPwCO7RbcTJlRWh+Udd+RQ05xNqzJ8JXyaXpUp3hLKRZJ/wCf06X8Oo4zONutpCrQU1q57MdJ2G7IhMpVIluuNuvkm0JFp6APbm7971m7Va20HehHpSbLOBA2J+HeXx+xJCMllsdBbLXDRdKiFKNJCyBSQbq+a/mtWIkqweyG42SjJRKZPpOISoK6Vdu/YjzY76D76ejQMEtxSPRdEcRFqZUf89qBSCO1iuD7aBT5kh/Y2254fDiUofiO2pVkNOfZdjwlVXejsReCyRmRjeAlGc+DOIjKTPk5qYlltAdMQNILoSeKK7HmuekaNZqaxh8GgoS3EhR2zSECwhtI7D3Pez5OnfdsZrJYxp2OHVuHqS26ynqrqHKVeQD2/Wpfkm/WCWnisJ6ejoXyKrVV6BTyssw1GvQ/sh+7d+zc9GejwscyiICXEnq63CAQQSRwOOfP91pfkOnHQcM6HEJx0X07UfyLcUXFKr92kf6/eqVH287j4rv0mHFcjLT0uhTKRXPH3eavS058PtwfWXnfly4gU59h4r20iw/PIGpJmWMx00//2Q==
-ogImage: null
+ogImage: 
 labels:
-  - 10 Fakten über Veganismus
-  - Ernährung
-  - Ernährung & Gesundheit
-  - Geschichten & Erlebtes
-  - go vegan
-  - Umstellung auf Vegan
-  - vegan
-  - Vegan Leben
-  - vegane Bloggerin
-  - vegane Ernährung
-  - Veganer
-  - Veganismus
+- 10 Fakten über Veganismus
+- Ernährung
+- Ernährung & Gesundheit
+- Geschichten & Erlebtes
+- go vegan
+- Umstellung auf Vegan
+- vegan
+- Vegan Leben
+- vegane Bloggerin
+- vegane Ernährung
+- Veganer
+- Veganismus
 focusKeyword: Vegan
 status: publish
 isWerbung: false
@@ -38,9 +36,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: 10 Fakten über Veganismus - Teil X
-  
----
+year: "2015"
+month: '09'
 
+---
 <RemoteImage alt={`Ich bleibe vegan!`} size="medium" title={`Ich bleibe vegan!`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_14783170858_21a50b64ff_z__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_14783170858_21a50b64ff_z__l.jpg"
@@ -269,5 +268,3 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_0
 1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
-
-  

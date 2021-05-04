@@ -1,56 +1,57 @@
 ---
-date: 2014-10-16T13:02:45.000Z
+date: 2014-10-16T13:02:45.000+00:00
 slug: honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder
-path: /2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/
+path: "/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/"
 type: Artikel
 typeName: Artikel
 title: Honig? Das ist jetzt aber wirklich übertrieben, oder?
 seoTitle: Warum Veganer auf Honig verzichten und das nicht übertrieben ist
 ogTitle: Warum Veganer auf Honig verzichten und das nicht übertrieben ist
-description: Bienen sterben, weil wir ihren natürlich Lebensraum zerstören und
-  sie ausbeuten, auch indem wir ihnen ihren Honig wegnehmen.
-excerpt: Bienen sterben, weil wir ihren natürlich Lebensraum zerstören und sie
+description: Bienen sterben, weil wir ihren natürlich Lebensraum zerstören und sie
   ausbeuten, auch indem wir ihnen ihren Honig wegnehmen.
+excerpt: Bienen sterben, weil wir ihren natürlich Lebensraum zerstören und sie ausbeuten,
+  auch indem wir ihnen ihren Honig wegnehmen.
 fileName: 2014-10---honig-das-ist-jetzt-aber-wirklich-uebertrieben-oder.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_10_14357441908_09b3d46f87_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_10_14357441908_09b3d46f87_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAF/8QAKRAAAgEDAwQCAAcAAAAAAAAAAQIDBAURABIhBhMxUSJBFDJhYnGB8P/EABcBAAMBAAAAAAAAAAAAAAAAAAACBQP/xAAmEQABAwIFBQADAAAAAAAAAAABAgMRACEEBTFRgRITMmFxQcHw/9oADAMBAAIRAxEAPwDCo+naVliMkxCSj45OOfWqkIsb0iTPuaHKGOOMCMjPx3E851jWa4yCeCnlXt0kEqpDLM4wyhs5b1xxra6pS/32GGIVatQpjCqd6yc55Hvj/Z0ZLg0Yh1fcT1wPGY5n1pG5rXIcCh9xfdT3IHjMcyNtPppFDUvdKCpdo6fYxxkxlu0wHHB+tGb0EkqK610M6m6xRBxAI/zAD6fxnn609obI9q6dMsEzGoji2tGXHyOBlgTjJP8AePfoNvNxrBV10Qaoyu2WdNrRgZPBBGPPjQ7lQfLuNw6gltBMCbwIv8voTPND2VJcQ/jcGQG0EwJvAi4PNhM/TWL3D+HqZVCgwllwRndx961rXcJ7J1L0/Q0kkhWvIkLM2REec7V/XGdWrUpryjcfqpbJKASn+tS64Xk9uGdonZ3lAQtLuKEZbOSP24/g6PJVrVx1skkbBYWZmCycvwTjJ8eNWrSKUpC+lJMEXvr+b73pUOKCSgGx193m/Nf/2Q==
-ogImage: null
+ogImage: 
 labels:
-  - 10 Fakten über Veganismus
-  - Arbeitsbienen
-  - Bestäubung
-  - Bienen
-  - Bienen sterben
-  - Bienen tot
-  - Bienenkönigin
-  - Bienensterben
-  - Blumen
-  - diy
-  - Ernährung & Gesundheit
-  - Honig
-  - Honig DIY
-  - Honig selber machen
-  - Honig vegan
-  - Honigbienen
-  - Honigersatz
-  - Honigproduktion
-  - Imker
-  - Imkerei
-  - Klimaerwärmung
-  - Natur
-  - Naturschutz
-  - Parasiten
-  - Rezept Honig
-  - Tierliebe
-  - Tierrechte
-  - Tierschutz
-  - tote Bienen
-  - Varroa-Milbe
-  - vegan
-  - Veganer
-  - Waben
-  - Wabenhonig
+- 10 Fakten über Veganismus
+- Arbeitsbienen
+- Bestäubung
+- Bienen
+- Bienen sterben
+- Bienen tot
+- Bienenkönigin
+- Bienensterben
+- Blumen
+- diy
+- Ernährung & Gesundheit
+- Honig
+- Honig DIY
+- Honig selber machen
+- Honig vegan
+- Honigbienen
+- Honigersatz
+- Honigproduktion
+- Imker
+- Imkerei
+- Klimaerwärmung
+- Natur
+- Naturschutz
+- Parasiten
+- Rezept Honig
+- Tierliebe
+- Tierrechte
+- Tierschutz
+- tote Bienen
+- Varroa-Milbe
+- vegan
+- Veganer
+- Waben
+- Wabenhonig
+- serie:10 Fakten über Veganismus
 focusKeyword: Honig
 status: publish
 isWerbung: false
@@ -58,9 +59,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: 10 Fakten über Veganismus - Teil VII
-  
----
+year: "2014"
+month: "10"
 
+---
 ## von Ausbeutung und Bienensterben
 
 <RemoteImage alt={`Biene sammelt Nektar`} size="medium"
@@ -401,5 +403,3 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 
 - [Wikipedia Bienen](http://de.wikipedia.org/wiki/Bienen)
 - [Wikipedia Honig](http://de.wikipedia.org/wiki/Honig)
-
-  

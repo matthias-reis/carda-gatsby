@@ -1,49 +1,50 @@
 ---
-date: 2014-08-22T12:54:02.000Z
+date: 2014-08-22T12:54:02.000+00:00
 slug: blutige-zahlen
-path: /2014/08/blutige-zahlen/
+path: "/2014/08/blutige-zahlen/"
 type: Artikel
 typeName: Artikel
 title: Blutige Zahlen
 seoTitle: Blutige Zahlen - Veganer retten Leben
 ogTitle: Blutige Zahlen - Veganer retten Leben
-description: Warum Veganer Leben retten - Blutige Zahlen geben Aufschluss - Eine
-  Reportage in Zahlen und Fakten
-excerpt: Wir lieben es nicht, Tiere, die wir zu unseren Sklaven gemacht haben,
-  als ebenbürtig zu betrachten. (Charles Darwin)
+description: Warum Veganer Leben retten - Blutige Zahlen geben Aufschluss - Eine Reportage
+  in Zahlen und Fakten
+excerpt: Wir lieben es nicht, Tiere, die wir zu unseren Sklaven gemacht haben, als
+  ebenbürtig zu betrachten. (Charles Darwin)
 fileName: 2014-08---blutige-zahlen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_veganismus-zahlen__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_veganismus-zahlen__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBgcIBQn/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREAITEGEhMHFEFxIjJRYaH/xAAYAQACAwAAAAAAAAAAAAAAAAAAAgEDBP/EAB4RAQACAgEFAAAAAAAAAAAAAAEAAhEhAxITMVHw/9oADAMBAAIRAxEAPwC3unPUnpi+XVqG21vmw5QTbCNiBk8kHGPnH86n1L454klhZJInGVdCGVh/RGx154X2mjtNf7SKZp4wSWDcnDEBSOPg/edSSwdVXShkprQlxekoIZX8sSLnuAOSo3woOcYH+6avI3M+4nbDxNy3O52+2W9q6tqIoqVSF8hOQSTgAY5OdsDSNJdrdWUaVUFVF7d8gO58e45/bGsN0HVNVdOrxNLU1UsLzO0UVRUM6quPxQDhQN8Yxrs+rc0lV0vYXlRJaeKrmjjzyncoYr9HGfsaFRk9JiV7dpWapWT2qksvdkg9225Jwccb8acRRz1S1lbLBHFPBJHE3cWXLMGznJ5AUaNGs7drUx9uWm4vBZkC0tTFOkZbtkGSfxB+edPp7zJST1KVVUtwjJAijaM+JSMgOoJO4440aNDZsowdE//Z
-ogImage: null
+ogImage: 
 labels:
-  - 10 Fakten über Veganismus
-  - aufs Brot schmieren
-  - Bio
-  - Brigitte Bardot
-  - Charles Darwin
-  - Demo
-  - Ernährung
-  - Ernährung & Gesundheit
-  - Fleischkonsum
-  - geschlachtete Tiere
-  - Gesellschaft
-  - govegan
-  - Occupy Animals
-  - schlachten
-  - Schlachtung Bio
-  - Studien Fleischkonsum
-  - Tierhaltung
-  - Tierqäulerei
-  - Tierrechte
-  - Tierrechte
-  - Tierschutz
-  - Tierversuche
-  - Umfragen Fleischkonsum
-  - vegan
-  - Veganismus
-  - Vegetarier
-  - Zahlen
+- 10 Fakten über Veganismus
+- aufs Brot schmieren
+- Bio
+- Brigitte Bardot
+- Charles Darwin
+- Demo
+- Ernährung
+- Ernährung & Gesundheit
+- Fleischkonsum
+- geschlachtete Tiere
+- Gesellschaft
+- govegan
+- Occupy Animals
+- schlachten
+- Schlachtung Bio
+- Studien Fleischkonsum
+- Tierhaltung
+- Tierqäulerei
+- Tierrechte
+- Tierrechte
+- Tierschutz
+- Tierversuche
+- Umfragen Fleischkonsum
+- vegan
+- Veganismus
+- Vegetarier
+- Zahlen
+- serie:10 Fakten über Veganismus
 focusKeyword: Blutige
 status: publish
 isWerbung: false
@@ -51,9 +52,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: 10 Fakten über Veganismus - Teil III
-  
----
+year: "2014"
+month: '08'
 
+---
 ## Veganer retten Leben
 
 **_ [Hier gehts zu Teil 2 des Artikels](2014/08/ich-war-so-muede/) _** **In
@@ -264,5 +266,3 @@ _Text und Fotos: [Anne Reis](//about/), Quellen: \*
 1.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
 1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
 1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)
-
-  

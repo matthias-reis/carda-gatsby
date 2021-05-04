@@ -1,46 +1,47 @@
 ---
-date: 2014-12-05T13:14:24.000Z
+date: 2014-12-05T13:14:24Z
 slug: versteckte-tierische-inhaltsstoffe-in-lebensmitteln
-path: /2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/
+path: "/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/"
 type: Artikel
 typeName: Artikel
 title: Versteckte tierische Inhaltsstoffe in Lebensmitteln
 seoTitle: Versteckte tierische Inhaltsstoffe in Lebensmitteln
 ogTitle: Versteckte tierische Inhaltsstoffe in Lebensmitteln
-description: Man glaubt es wirklich kaum, in wie vielen Lebensmitteln sich
-  versteckte tierische Inhaltsstoffe verbergen - eine Auflistung
-excerpt: Man glaubt es wirklich kaum, in wie vielen Lebensmitteln sich
-  versteckte tierische Inhaltsstoffe verbergen - eine Auflistung
+description: Man glaubt es wirklich kaum, in wie vielen Lebensmitteln sich versteckte
+  tierische Inhaltsstoffe verbergen - eine Auflistung
+excerpt: Man glaubt es wirklich kaum, in wie vielen Lebensmitteln sich versteckte
+  tierische Inhaltsstoffe verbergen - eine Auflistung
 fileName: 2014-12---versteckte-tierische-inhaltsstoffe-in-lebensmitteln.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_12_14434716447_d5a4470f5e_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_12_14434716447_d5a4470f5e_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAYHCP/EAC0QAAEEAQQBAQUJAAAAAAAAAAECAwQRBQAGITESEwcVMmGBIiMkQUNRcZGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EABwRAAIDAAMBAAAAAAAAAAAAAAABAgMREiEiMv/aAAwDAQACEQMRAD8AxzGTpWPmOpjwSpz3cIcsrBWUt+oUlxIJ+yfCki+AdN7OilbuVgeKUuTVsNsvFClqaUl9K6odmhzQN1xqwT8tAVn8pL93tsMvYr0D5FRQHPV8ipKgSOE0av6anYXMw2twxY83HS4rTP3rb5UFF4oSPJIBAog2e+hValsk4ryh9Ndb+ngnaeyW1ZfOwNwyGo2UdjIcipaeFkldqUqxwD1Ro2OtQpeyd0YthaSYSI8n4wl8pDgu7V13x/WtBzOLcym4Zuak5GGBNJQlRfpxCQQlNKbJKuByCRyeetTRsKNKUhxncbsmKlPH4l1pYJ/NJU2oD+P90Yw5vZEFtCssci+Zj2O7Uz8BpMCM/hnytKkmI6S1Y5Hk0q0qH0B+eudt/bcn4OfLEvNLyC0qL5WtjwJUtRs/Ea7PVXejRppYhe2s64rLSITrSVIFmwEG75N+SVfvrS4OykZnHNSFZOQ025+l6LRr5WEix9NGjW11mBxPT//Z
-ogImage: null
+ogImage: 
 labels:
-  - 10 Fakten über Veganismus
-  - Afri-Cola
-  - bewusst einkaufen
-  - Buddhisten
-  - Ernährung
-  - Ernährung & Gesundheit
-  - Ernährungsberatung
-  - foodblogger
-  - Gelatine
-  - go vegan
-  - Hindus
-  - Karmin
-  - Kasein
-  - Lieblingsgetränke
-  - Muslime
-  - NOW-Limo
-  - Schellack
-  - Schweineborsten im Brot
-  - Schweinefett
-  - vegane Ernährung
-  - Veganer
-  - versteckte tierische Inhaltsstoffe
-  - Wild in Chips
-  - Zucker weißen
+- 10 Fakten über Veganismus
+- Afri-Cola
+- bewusst einkaufen
+- Buddhisten
+- Ernährung
+- Ernährung & Gesundheit
+- Ernährungsberatung
+- foodblogger
+- Gelatine
+- go vegan
+- Hindus
+- Karmin
+- Kasein
+- Lieblingsgetränke
+- Muslime
+- NOW-Limo
+- Schellack
+- Schweineborsten im Brot
+- Schweinefett
+- vegane Ernährung
+- Veganer
+- versteckte tierische Inhaltsstoffe
+- Wild in Chips
+- Zucker weißen
+- serie:10 Fakten über Veganismus
 focusKeyword: Versteckte tierische Inhaltsstoffe
 status: publish
 isWerbung: false
@@ -48,9 +49,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: 10 Fakten über Veganismus - Teil IX
-  
----
+year: "2014"
+month: "12"
 
+---
 ## Von Fischblase im Bier und Schweineborsten im Brot
 
 _Werbung, da Erwähnung von Produkten\*_
@@ -298,5 +300,3 @@ _ **
   laut Gesetz um Werbung. Der Inhalt und meine Meinung wurden dadurch nicht
   beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
   meiner [Transparenz-Seite](/werbung/). _
-
-  
