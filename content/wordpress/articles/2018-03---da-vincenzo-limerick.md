@@ -33,6 +33,7 @@ labels:
 - vegane Lokale
 - vegane Pizza
 - serie:Irland 2017
+- Pasta
 focusKeyword: Da Vincenzo Limerick
 status: publish
 isWerbung: false
