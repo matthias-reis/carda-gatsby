@@ -1,34 +1,34 @@
 ---
-date: 2018-03-15T08:00:01.000Z
+date: 2018-03-15T08:00:01.000+00:00
 slug: amsterdam
-path: /2018/03/amsterdam/
+path: "/2018/03/amsterdam/"
 type: Galerie mit Bild
 typeName: Gedicht
 title: Amsterdam
 seoTitle: Amsterdam - Grachten, Gassen und Poesie
 ogTitle: Amsterdam - Grachten, Gassen und Poesie
-description: Hier sind meine Fotos von unserer Stadtbesichtigung in Amsterdam im
-  Januar. Wir hatten großes Glück mit dem Wetter - daher gibt es auch Sonne zu
-  sehen.
-excerpt: Meine Bilder von unserem Besuch in Amsterdam im Januar möchte ich gerne
-  mit einem kleinen Gedicht verbinden, das heute morgen auf einer Seite meines
-  Notizbuchs Form angenommen hat.
+description: Hier sind meine Fotos von unserer Stadtbesichtigung in Amsterdam im Januar.
+  Wir hatten großes Glück mit dem Wetter - daher gibt es auch Sonne zu sehen.
+excerpt: Meine Bilder von unserem Besuch in Amsterdam im Januar möchte ich gerne mit
+  einem kleinen Gedicht verbinden, das heute morgen auf einer Seite meines Notizbuchs
+  Form angenommen hat.
 fileName: 2018-03---amsterdam.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_38472618030_65476601c2_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_38472618030_65476601c2_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwMECP/EACwQAAICAQMDAQYHAAAAAAAAAAECAxEEAAUhBhIxQRMVIjJRgQcUQmFxscH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIxERIhQVH/2gAMAwEAAhEDEQA/AEzp3qf8ljR4u6zt7HFmWXFZ3eXss/Eqt81ccX4J1cW0YcO9bTt+67eoLhSj+3AIN2CSfBIB8/5rnua8gxuwuSQoSpYM3y+L4/rT7+G3Vm57cudhYeB7zx2xZW7GkC9gUEqzXx2iqrjUSxZqbo3t36hztr3WSHKzckQK4gETKDdHk0F5sA/bUR1N1ZjOq+5VE0jP8TSQ0q2QKCmgLJ+Y/b66Vc/e5c/cEysx3EyFnWMgsq+KAP7cn76xSRwZ0M2TlZiuqMS/6l4ogfSvTStqfOA4rXsRcKSWdwvcShvuPrWrr6GysPaNuaNSqNJjMjG+SW82fXRo0E/BkV91dktHlvPhSoVeS2Qpd16g+l6iBmF4jPi0ikkSxXXFUfH86NGrqiFR/9k=
-ogImage: null
+ogImage: 
 labels:
-  - Amsterdam
-  - Amsterdam2018
-  - Fernweh
-  - Flarf
-  - Gedicht
-  - Geschichten & Erlebtes
-  - Liebe
-  - Poesie
-  - Reisen
-  - Sehnsucht
+- Amsterdam
+- Amsterdam2018
+- Fernweh
+- Flarf
+- Gedicht
+- Geschichten & Erlebtes
+- Liebe
+- Poesie
+- Reisen
+- Sehnsucht
+- serie:Flarf-Gedichte
 focusKeyword: Amsterdam
 status: publish
 isWerbung: false
@@ -36,9 +36,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Grachten, Gassen und Poesie
-  
----
+year: "2018"
+month: '03'
 
+---
 **Meine Bilder von unserem Besuch in Amsterdam im Januar möchte ich gerne mit
 einem kleinen Gedicht verbinden, das heute morgen auf einer Seite meines
 Notizbuchs Form angenommen hat.**
@@ -68,37 +69,13 @@ In [Venedig](/2014/03/valentinstag-in-venedig/) war es wärmer.
 
 ## Wegweiser Amsterdam
 
-1.  [Banksy im Moco Amsterdam](/2018/01/banksy-im-moco-amsterdam/)
-1.  [Stedelijk Museum Amsterdam](/2018/02/stedelijk-museum-amsterdam/)
-1.  [Vegan Junk Food Bar Amsterdam](/2018/02/vegan-junk-food-bar-amsterdam/)
-1.  [Rijksmusem Amsterdam](/2018/03/rijksmuseum-amsterdam/)
-1.  Amsterdam - Grachten und Gassen
-1.  [Raw Food Café Amsterdam](/2018/03/raw-food-cafe-amsterdam-zest-for-life/)
+1. [Banksy im Moco Amsterdam](/2018/01/banksy-im-moco-amsterdam/)
+2. [Stedelijk Museum Amsterdam](/2018/02/stedelijk-museum-amsterdam/)
+3. [Vegan Junk Food Bar Amsterdam](/2018/02/vegan-junk-food-bar-amsterdam/)
+4. [Rijksmusem Amsterdam](/2018/03/rijksmuseum-amsterdam/)
+5. Amsterdam - Grachten und Gassen
+6. [Raw Food Café Amsterdam](/2018/03/raw-food-cafe-amsterdam-zest-for-life/)
 
 Bei diesem Text handelt es sich um ein Flarf-Gedicht. Wer gerne wissen möchte,
 was das ist,
 [findet hier eine genaue Erklärung](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/).
- Weitere Flarf-Gedichte gibt es hier:
-
-## Flarf-Gedichte Wegweiser
-
-1.  [Die Poesie der Vernetzung](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/)
-1.  [Straßenlaternen der Welt](/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/)
-1.  [Sonne und Frieden](/2016/03/sonne-und-frieden/)
-1.  [Manieren der Boshaftigkeit](/2016/04/manieren-der-boshaftigkeit/)
-1.  [Das übersetzte Wetter im Spiegel](/2016/05/das-uebersetzte-wetter-im-spiegel/)
-1.  [Die seltsame Stimmung der knalligen Blüten](/2016/10/die-seltsame-stimmung-der-knalligen-blueten/)
-1.  [Elbe schwarz-weiß bunt](/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/)
-1.  [Pizza und Backgammon](/2017/01/drei-koenige/)
-1.  [Liebe Sternschanze](/2017/01/liebe-sternschanze/)
-1.  [Haters rest in poetry](/2017/02/haters-rest-in-poetry/)
-1.  [Die Sehnsucht der Postmoderne](/2017/02/die-sehnsucht-der-postmoderne/)
-1.  [In den Straßen von St. Pauli](/2017/02/dauerregen-stpauli/)
-1.  [Elblicht](/2018/01/elblicht-flarfgedicht-zum-jahresanfang/)
-1.  [Möwe am Wasser](/2018/01/moewe-am-wasser/)
-1.  [Jahreszeiten an der Brücke](/2018/02/ein-fleet-im-verlauf-der-jahreszeiten/)
-1.  Amsterdam - Grachten und Gassen
-1.  [Abschied von Dir - Tschüss, mach es gut](/2018/04/abschied-von-dir/)
-1.  [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/)
-
-  
