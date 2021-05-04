@@ -1,31 +1,30 @@
 ---
 templateKey: article
-date: 2021-04-25T16:00:00.000Z
+date: 2021-04-25T16:00:00.000+00:00
 slug: take-on-me-aha
 typeName: Beitrag
 title: Musikalisches Blind Date
 subTitle: a-ha – "Take On Me"
 seoTitle: a-ha – "Take On Me" – Das musikalische Blogger Blind Date
-description:
-  Heute findet das inzwischen achte musikalische Blogger Blind Date statt.
-  Natürlich wollte ich es mir nicht entgehen lassen, auch dieses Mal wieder
-  teilzunehmen. Die Musikwahl fiel dieses Mal auf den Song "Take On Me" von
-  a-ha.
-image: /img/design-ohne-titel.jpg
-ogImage: /img/take-on-me-fb.png
+description: Heute findet das inzwischen achte musikalische Blogger Blind Date statt.
+  Natürlich wollte ich es mir nicht entgehen lassen, auch dieses Mal wieder teilzunehmen.
+  Die Musikwahl fiel dieses Mal auf den Song "Take On Me" von a-ha.
+image: "/img/design-ohne-titel.jpg"
+ogImage: "/img/take-on-me-fb.png"
 labels:
-  - a-ha
-  - Blogger Blind Date
-  - Take On Me
-  - Song
-  - Kindheit
-  - '1982'
+- serie:bloggerblinddate
+- a-ha
+- Blogger Blind Date
+- Take On Me
+- Song
+- Kindheit
+- '1982'
 focusKeyword: Take On Me
 advertisement: false
 affiliate: false
 language: de
----
 
+---
 **Heute findet das inzwischen achte musikalische Blogger Blind Date statt.
 Natürlich wollte ich es mir nicht entgehen lassen, auch dieses Mal wieder
 teilzunehmen. Die Musikwahl fiel dieses Mal auf den Song "Take On Me" von
