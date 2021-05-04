@@ -64,7 +64,7 @@ veröffentlichen Ihre Artikel am selben Tag zu selben Uhrzeit und verlinken sich
 untereinander.
 
 Ausgedacht haben sich das „Blind Date mit einem Song“ Caro von 
-_Hauptstadtgarten\*_ und Björn von  _Gartenbaukunst_ \*. Heute findet es zum
+_Hauptstadtgarten*_ und Björn von  _Gartenbaukunst_ *. Heute findet es zum
 vierten mal statt. Ich persönlich bin zum dritten mal dabei.
 
 Für mich liegt der Reiz der Aktion in der Neugierde darauf, was die anderen
@@ -77,7 +77,7 @@ unterschiedlich waren, sehr gut zusammen. Sie harmonierten.
 
 ## Mein Blind Date mit "Peaches" von den Presidents Of The United States
 
-<RemoteImage alt={`Presidents Of the United States`} size="medium" title={``}
+<RemoteImage alt={`Presidents Of the United States`} size="medium" title={\`\`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_peach-2573836_640__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_peach-2573836_640__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAApEAABAwMDAwMFAQAAAAAAAAABAgMEAAURBiExEkFRBxMiFGFxgZGi/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAwb/xAAmEQACAQMCBAcAAAAAAAAAAAABAhEAAwQhMSIjQVEFEmFx0fDx/9oADAMBAAIRAxEAPwBp1rPu8NIhyLfa3rZNX7CFOAuIIPPVndJA34/tTVqa5obUSI+lW5ZfuAKZqCpsqQE8FtQHcn48feq/qiWwtuTAnOQEuDDsVq4Ehg7bKON1b5HO3ikq5xdKz7tbYcCXCZvclQS7JgZ6G2kglWxPTk8J75Ncdk5hW+QvmgTPz04RvVwYaNh8K8w9fvpp70raUsVgtGrWLo9FUpKyHY76cKbYcAOFqbVkH5c54VuKr+ntWQ7pa1PTpcSFMZfXHebU5hKlJwepOexBB+xyKU16SdVcxbF27GnGELSJ0qUhK1ZAwRgHvnCcbADJpVtFoisTpUCFeYzjCXylt98KSHSfKkpKR4zxtTPhWQ128VZ5Ed5/D3FLXsZbGOBMmRrEd99dats+2wb1B+kusRqUwN0hY3SfIPI/VLUL0v0mxMEpEOYp4cFcxagO2PxvxRRVkAGsluOuxNcu9ekSZTvTGvr7LC/kELY9wp/0Af5W+w+m1qs4b+pfkXBSdwl3CUZHlIG/4zRRQqoQwtFeybt8cxpiv//Z"
@@ -107,7 +107,7 @@ Man rappelt sich auf und
 
 ## Ninjas betreten die Szenerie
 
-<RemoteImage alt={`Presidents Of The United States`} size="medium" title={``}
+<RemoteImage alt={`Presidents Of The United States`} size="medium" title={\`\`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_peaches-869386_640__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_peaches-869386_640__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHAv/EACsQAAIBBAECBAUFAAAAAAAAAAECAwQFESEAEiITMVFhBgdBgZEjQlJx8f/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBgX/xAAlEQACAQIFAwUAAAAAAAAAAAABAgADEQQhQVGRBRITMaGx8PH/2gAMAwEAAhEDEQA/AMznukdtt7ZWFn8HxWlj/c7YCIB/EHGfv68T4KttPd6ueC75qYhDPWT1FOpQwhlVQInZekktj6YAz6bSzVlMsUM0jx0kfX2fpElkBPaxzn6YODk69M8lKf4qRr1cZIqU1MtIjReDKSqtGw7grZJJGjg61rksxZO5UXPf2+5x2gqXD1DcX9NxH7i02OoFTb2qqguMxU1xdZihAy2Djuz6Ea3jlM+YVWjXimo7Q8UVLKiVb01MAqxFowvR0qdEDIxrz3587v8AU0yUzz1ayuZdQCXXhMV13D6Y3n25Uado44uoIrRSk9z6kIyNg79j7e/GMHRa/lY3+D+RvH10NMUQgBHIGxk1UMyx05Vm6Ii6qrHOBjy/Iz9zy12+xpbqix3aOd5Z7lDT1EyyqCMue4DGPb8cOHAYx2VVA1JB4MH09FZmJ0EzW+XaoujN4vSkMUrFIlGgST/g4zaZhBTITlFdhj1Hbr+uHDlAiKoCgZTMZyxuxn//2Q=="
@@ -146,33 +146,25 @@ mitgebrachten Pfirsichkuchen ab.
 
 Ja, so war das damals. Ich werde alt.
 
- <YouTube id="wvAnQqVJ3XQ" />
+<YouTube id="wvAnQqVJ3XQ" />
 
 ## Teilnehmer am Blind Date mit "Peaches" von den Presidents Of The United States
 
-- [Gartenbaukunst](https://gartenbaukunst.wordpress.com/)
-- [Hauptstadtgarten](https://www.hauptstadtgarten.de/)
-- [Beetkultur](https://www.beetkultur.de/)
-- [Der kleine Horrorgarten](http://der-kleine-horror-garten.de/)
-- [Karo-Tina Aldente](https://karotinasblog.wordpress.com/)
-- [Milli Blohm](http://millibloom.com/)
-- [Rienmakäfer](https://rienmakaefer.com/blog/)
-- [Garteneuphorie](https://garteneuphorie.wordpress.com/)
-- [Grünliebe](http://xn--grneliebe-r9a.de/)
-- [Garteninspektor](http://www.garteninspektor.com/)
-- [Faun &amp; Farn](http://faunundfarn.de/)
-- [Mrs. Greenhouse](https://mrsgreenhouse.de/)
-- [Buddenbohm &amp; Söhne](http://www.buddenbohm-und-soehne.de/)
-- [Syl Gervais](https://www.syl-gervais.com/)
-- [Anne bloggt cardamonchai - Rock 'n' Roll vegan]()
-
-## Wegweiser Blind Date mit einem Song
-
-1.  [Eels - "I Like Birds"](/2017/09/i-like-birds-blind-date-mit-einem-ganz-besonderen-song/)
-1.  [Nancy Sinatra - "Summer Wine"](/2017/07/blind-date-summerwine/)
-1.  The Presidents Of the United States - "Peaches"
-
-_To be continued..._
+* [Gartenbaukunst](https://gartenbaukunst.wordpress.com/)
+* [Hauptstadtgarten](https://www.hauptstadtgarten.de/)
+* [Beetkultur](https://www.beetkultur.de/)
+* [Der kleine Horrorgarten](http://der-kleine-horror-garten.de/)
+* [Karo-Tina Aldente](https://karotinasblog.wordpress.com/)
+* [Milli Blohm](http://millibloom.com/)
+* [Rienmakäfer](https://rienmakaefer.com/blog/)
+* [Garteneuphorie](https://garteneuphorie.wordpress.com/)
+* [Grünliebe](http://xn--grneliebe-r9a.de/)
+* [Garteninspektor](http://www.garteninspektor.com/)
+* [Faun & Farn](http://faunundfarn.de/)
+* [Mrs. Greenhouse](https://mrsgreenhouse.de/)
+* [Buddenbohm & Söhne](http://www.buddenbohm-und-soehne.de/)
+* [Syl Gervais](https://www.syl-gervais.com/)
+* [Anne bloggt cardamonchai - Rock 'n' Roll vegan]()
 
 **Bilder:** Titel: Presidents Of The United States, Artwort; erstes Bild im
 Text: [Coulour](https://pixabay.com/de/users/Couleur-1195798/), Pixabay; zweites
