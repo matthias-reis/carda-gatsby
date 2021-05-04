@@ -58,9 +58,10 @@ month: '08'
 ---
 ## Veganer retten Leben
 
-**_** [**Hier gehts zu Teil 2 des Artikels**](2014/08/ich-war-so-muede/) **_** **In
-Deutschland leben momentan rund 1,2 Millionen Veganer*innen (Quelle:
-**[**VEBU**](https://www.vebu.de/lifestyle/anzahl-der-vegetarierinnen)**, Stand Juli
+[**Hier gehts zu Teil 2 des Artikels**](2014/08/ich-war-so-muede/)
+
+**In Deutschland leben momentan rund 1,2 Millionen Veganer*innen (Quelle:
+[VEBU](https://www.vebu.de/lifestyle/anzahl-der-vegetarierinnen), Stand Juli
 2014), bei einer derzeitigen Gesamtbevölkerung von 81.890.000 (Stand heute)
 bedeutet das, dass 1,465 Prozent der Deutschen vegan leben, die Zahl wächst
 stetig.**
@@ -84,7 +85,7 @@ weltweit jährlich mehr als 150 Milliarden Tiere **geschlachtet** werden.
 In Deutschland sind das jährlich u. A. 58 Millionen Schweine, 630 Millionen
 Hühner und 3,2 Millionen Rinder. In den USA schlachtet alleine die Gesellschaft
 "Tyson Foods" mehr als 42 Millionen Tiere in einer einzigen Woche, in China
-werden über 660 Millionen Schweine pro Jahr geschlachtet. (__, *__)
+werden über 660 Millionen Schweine pro Jahr geschlachtet. (*)
 
 <RemoteImage alt={`Geschlachtete Tiere in Deutschland - bund.net`} size="large"
 title={`[ ](http://www.bund.net/fileadmin/bundnet/publikationen/landwirtschaft/140108_bund_landwirtschaft_fleischatlas_2014.pdf) Geschlachtete Tiere in Deutschland - bund.net`}
@@ -252,4 +253,4 @@ Quellen: *
 \** [bund.net](http://www.bund.net/fleischatlas), ***
 [Campact Blog](http://blog.campact.de/2014/01/wir-habens-satt-750-mio-tiere-werden-pro-jahr-in-deutschland-geschlachtet/),
   [biowahrheit.de](http://www.biowahrheit.de),
-[Occupy For Animals](http://www.occupyforanimals.org/animal-kill-counter.html) 
+[Occupy For Animals](http://www.occupyforanimals.org/animal-kill-counter.html)
