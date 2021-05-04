@@ -82,7 +82,3 @@ images={\[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_
 
 Was genau ein Flarf-Gedicht ist und wie es entsteht,
 [erfahrt Ihr hier](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/).
-Auch zum Thema
-"[Straßenlaternen](/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/)"
-habe ich bereits ein Flarf-Gedicht geschrieben. Wenn Ihr es romantisch mögt,
-klickt mal drauf.
