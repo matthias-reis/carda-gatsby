@@ -26,7 +26,7 @@ labels:
 - Menschen
 - Musik
 - Stadt
-- serie:bloggerblinddate
+- 'serie: Musikalisches Blind Date'
 focusKeyword: I like birds
 status: publish
 isWerbung: false
