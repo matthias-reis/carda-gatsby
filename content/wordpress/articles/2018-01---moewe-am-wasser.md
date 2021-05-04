@@ -35,6 +35,7 @@ labels:
 - Wasser
 - Winter
 - serie:Flarf-Gedichte
+- serie:Möwen
 focusKeyword: Wasser
 status: publish
 isWerbung: false
@@ -62,17 +63,3 @@ Weiterschwimmen. Muscheln sammeln. Aufplustern. Wärmen. Dösen.
 Bei diesem Text handelt es sich um ein Flarf-Gedicht. Wer gerne wissen möchte,
 was das ist,
 [findet hier eine genaue Erklärung](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/).
-
-## Wegweiser Möwen
-
- 1. [Möwen am Bosporus (Januar 2010)](/2010/01/moewen-am-bosporus/)
- 2. [Zurück nach St. Peter Ording (Juli 2015)](/2015/07/zurueck-nach-st-peter-ording/)
- 3. [St. Peter Ording - Perle an der Nordsee (August 2015)](/2015/08/st-peter-ording/)
- 4. [Birdwatching am Timmendorfer Strand (November 2015)](/2015/11/birdwatching-am-timmendorfer-strand/)
- 5. [Die Möwe, Kiel (November 2015)](/2015/11/die-moewe/)
- 6. [Möwen auf der Brücke (Januar 2016)](/2016/01/moewen-auf-der-bruecke/)
- 7. [Sommer auf der Ostsee - Möwen vor Helsinki (Juni 2016)](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/)
- 8. [Seevögel in Helsinki - Auf jeder Statue eine Möwe (Juni 2016)](/2016/08/auf-jeder-statue-eine-moewe/)
- 9. [Möwen in Dublin - Bunte Bilderserie mit original Irischen Seevögeln (September 2017)](/2017/10/moewen-in-dublin/)
-10. Möwe am Wasser
-11. [Birds of Westport](/2018/05/birds-of-westport/)
