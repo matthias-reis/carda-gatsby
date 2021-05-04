@@ -28,7 +28,7 @@ labels:
 - Musik
 - Popmusik
 - Schnulze
-- serie:bloggerblinddate
+- 'serie: Musikalisches Blind Date'
 focusKeyword: Gartenblogger Blind Date
 status: publish
 isWerbung: false

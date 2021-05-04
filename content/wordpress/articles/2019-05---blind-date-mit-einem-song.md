@@ -55,7 +55,7 @@ labels:
 - The Temptations
 - Toleranz
 - Vorurteile
-- serie:bloggerblinddate
+- 'serie: Musikalisches Blind Date'
 focusKeyword: Papa Was A Rolling Stone
 status: publish
 isWerbung: false

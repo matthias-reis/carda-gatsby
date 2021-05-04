@@ -35,7 +35,7 @@ labels:
 - Peaches
 - Post-Grunge
 - The Presidents Of The United States
-- serie:bloggerblinddate
+- 'serie: Musikalisches Blind Date'
 focusKeyword: Presidents Of the United States
 status: publish
 isWerbung: false
