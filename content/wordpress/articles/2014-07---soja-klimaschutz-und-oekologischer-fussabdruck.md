@@ -1,59 +1,60 @@
 ---
-date: 2014-07-30T07:11:57.000Z
+date: 2014-07-30T07:11:57.000+00:00
 slug: soja-klimaschutz-oekologischer-fussabdruck
-path: /2014/07/soja-klimaschutz-oekologischer-fussabdruck/
+path: "/2014/07/soja-klimaschutz-oekologischer-fussabdruck/"
 type: Artikel
 typeName: Artikel
 title: Soja, Klimaschutz und ökologischer Fussabdruck
 seoTitle: Soja, Klimaschutz und ökologischer Fussabdruck
 ogTitle: Soja, Klimaschutz und ökologischer Fussabdruck
-description: Ein fairer ökologischer Fussabdruck soll aber nur 1.8 Hektar groß
-  sein. Denn wenn alle deinen Lebensstil haben, benötigen wir 2.66 Erden.
-excerpt: Ein fairer ökologischer Fussabdruck soll aber nur 1,8 Hektar groß sein.
+description: Ein fairer ökologischer Fussabdruck soll aber nur 1.8 Hektar groß sein.
   Denn wenn alle deinen Lebensstil haben, benötigen wir 2.66 Erden.
+excerpt: Ein fairer ökologischer Fussabdruck soll aber nur 1,8 Hektar groß sein. Denn
+  wenn alle deinen Lebensstil haben, benötigen wir 2.66 Erden.
 fileName: 2014-07---soja-klimaschutz-und-oekologischer-fussabdruck.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_07_biogemc3bcseanbau__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_07_biogemc3bcseanbau__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAApEAACAgEDAwMDBQAAAAAAAAABAgMEEQAFIRIxQRMiUQYUcQcVMmGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACARAAICAgAHAAAAAAAAAAAAAAECABEDBAUSFEFRkcH/2gAMAwEAAhEDEQA/AOz7b+1WUVvvq0ecYSVwjHOPB57ka2bW2U6ak2JokA75yT/gGuMHa9hr7lWmN14IoiWlQN1j+lB8ZOPnjVfP9R7dYhjU75Kjys3pxCyEZmHIyoHfjzoX4gVYqT6iseoCtkSklXbWZVEnLnC+3Oc/jSdraIpELwlXXscePzqK3TffQgW7LutmgErySNFYsZfrODGxGAB2I6T5OsXdP1MrbTe2+zHbLWHm9KVHsepGw6AehguccEfJB05N5wfMB9TGwuSFf6g6FaetJA9ZZszFgemMgZVmGOBgfz7cHyNUtLfbh2E0a9GAlCWWQqkkRB9wIUEMec+R20aNZrO3T0VF2O9/KlDMYhfvVZZWl3im0n2yyF3kYsZCwGCqAnpHPc/Gk5ZqFRY026hDH6mZMisB0Enn3EZz30aNTZcjFea4kz//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2014_07_Klimaschutz-1-von-1__l.jpg
 labels:
-  - 10 Fakten über Veganismus
-  - Aufklärung
-  - Bauernhof
-  - Bio
-  - CO2
-  - CO2-Bilanz
-  - Ernährung
-  - Ernährung & Gesundheit
-  - Ernährungsumstellung
-  - Evolution
-  - Futtermittelherstellung
-  - Klima
-  - Klima & Umweltschutz
-  - Klimaschutz
-  - Klimawandel
-  - Kühe
-  - Kühlschrank
-  - Metan
-  - Methanausstoss
-  - moderne Ernährung
-  - Öko
-  - Ökologie
-  - ökologischer Fussabdruck
-  - Regenwald
-  - Rinder
-  - Rinderzucht
-  - Soja
-  - Sojaanbau
-  - Studie Veganer
-  - Studie Veganismus
-  - Tofu
-  - Unwissenheit
-  - vegan
-  - vegane Ernährung
-  - Veganer
-  - Vegetarier
-  - Wasserknappheit
+- 10 Fakten über Veganismus
+- Aufklärung
+- Bauernhof
+- Bio
+- CO2
+- CO2-Bilanz
+- Ernährung
+- Ernährung & Gesundheit
+- Ernährungsumstellung
+- Evolution
+- Futtermittelherstellung
+- Klima
+- Klima & Umweltschutz
+- Klimaschutz
+- Klimawandel
+- Kühe
+- Kühlschrank
+- Metan
+- Methanausstoss
+- moderne Ernährung
+- Öko
+- Ökologie
+- ökologischer Fussabdruck
+- Regenwald
+- Rinder
+- Rinderzucht
+- Soja
+- Sojaanbau
+- Studie Veganer
+- Studie Veganismus
+- Tofu
+- Unwissenheit
+- vegan
+- vegane Ernährung
+- Veganer
+- Vegetarier
+- Wasserknappheit
+- serie:10 Fakten über Veganismus
 focusKeyword: ökologischer Fussabdruck
 status: publish
 isWerbung: false
@@ -61,9 +62,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: 10 Fakten über Veganismus - Teil I
-  
----
+year: "2014"
+month: '07'
 
+---
 ## Veganer setzen sich aktiv für den Umweltschutz ein
 
 **Wie versprochen, habe ich zehn Fakten über vegane Ernährung für Euch
@@ -340,5 +342,3 @@ klicken. [_ **Hier gehts zu Teil 2 des Artikels** _](/2014/08/ich-war-so-muede/)
 [Der Artgenosse](https://www.facebook.com/artgenosse?fref=ts), Wikipedia,
 [Footprint Deutschland](http://www.footprint-deutschland.de),
 [Naturschutz Sylt](http://www.naturschutz-sylt.de)
-
-  
