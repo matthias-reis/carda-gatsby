@@ -1,54 +1,50 @@
 ---
-date: 2020-04-24T08:16:25.000Z
+date: 2020-04-24T08:16:25.000+00:00
 slug: 12-songs-fuer-den-mai-2020
-path: /2020/04/12-songs-fuer-den-mai-2020/
+path: "/2020/04/12-songs-fuer-den-mai-2020/"
 type: Artikel
 typeName: Artikel
 title: 12 Songs für den Mai
 seoTitle: 12 Songs für den Mai - aufgelegt von den drei von der Bande
 ogTitle: 12 Songs für den Mai - aufgelegt von den drei von der Bande
-description:
-  Jetzt sind wir schon seit fünf Wochen daheim. Da hatten wir natürlich sehr
-  viel Zeit, Musik zu hören. Dabei haben wir ein paar wunderbare Stücke
-  entdeckt.
-excerpt:
-  Jetzt sind wir schon seit fünf Wochen daheim. Da hatten wir natürlich sehr
-  viel Zeit, Musik zu hören. Dabei haben wir ein paar wunderbare Stücke
-  entdeckt.
+description: Jetzt sind wir schon seit fünf Wochen daheim. Da hatten wir natürlich
+  sehr viel Zeit, Musik zu hören. Dabei haben wir ein paar wunderbare Stücke entdeckt.
+excerpt: Jetzt sind wir schon seit fünf Wochen daheim. Da hatten wir natürlich sehr
+  viel Zeit, Musik zu hören. Dabei haben wir ein paar wunderbare Stücke entdeckt.
 fileName: 2020-04---12-songs-fuer-den-mai.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_12-songs-fuer-den-mai-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_12-songs-fuer-den-mai-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBwEEBv/EACkQAAEDAwMDBAIDAAAAAAAAAAECAwQABREGEiEiMUEHExRhMlFScoH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBAX/xAAjEQABBAIBAwUAAAAAAAAAAAABAAIDESExExIiQSNxgZHB/9oADAMBAAIRAxEAPwBPqNyQ9ZUNSRIebnITGW04642lKgSFKwO6urjgg/rzTm2xGpVnTHgvKUmIFF1sub1YbxlPA5USR08earR71ilXVlEB207UvuMha0yCtXCwTtG3yfGfqtu4+patKXG4WZi0ofjR5CgXWpHtlboVkrJCD1cYIycbaMsrhFbGguvV17HVY+NWpooHCXoce2t/d+bz+quGUhW0EgZHfFZWkJUQCD94rrdPaMF0huyHriYzSFhtJEVTuVHycHpTnA3VHqTRr9jlhlySHmyncHEt4845GeOc4/eKImYX8d5V3BJV0knpPB+VrOLIU3vbgIXMOfxSUJJSSf7YP+UmvxeiuyLfMazJQ8pxbvvbtxVznjg5BFFFLygrg0tfpsK1piRQ02tQIQ6prlKc/wAidp7k9vHY1DqEe0tSbhK+ZPdcSoODJS2Aeeojk4IHYD6FFFShoE+BV5WoR6ZX/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_04_12-songs-fb-1.png__l.jpg
 labels:
-  - serie:Playlists
-  - 12 Songs
-  - Aventgarde
-  - Bands
-  - Crippled Black Phoenix
-  - DJ Krush
-  - Elephant Tree
-  - Hardcore
-  - Indie
-  - La Dispute
-  - Lich King
-  - Metal
-  - Michael Stipe
-  - Musik
-  - Musik in Zeiten von Corona
-  - Musikliste
-  - Nine Inch Nails
-  - Pearl Jam
-  - Pixies
-  - Playlist
-  - Post-Rock
-  - Riverside
-  - Schallplatten
-  - Solidarität
-  - Spotlights
-  - Strokes
-  - Support your favourite bands
-  - Vinyl
+- serie:Playlists
+- 12 Songs
+- Aventgarde
+- Bands
+- Crippled Black Phoenix
+- DJ Krush
+- Elephant Tree
+- Hardcore
+- Indie
+- La Dispute
+- Lich King
+- Metal
+- Michael Stipe
+- Musik
+- Musik in Zeiten von Corona
+- Musikliste
+- Nine Inch Nails
+- Pearl Jam
+- Pixies
+- Playlist
+- Post-Rock
+- Riverside
+- Schallplatten
+- Solidarität
+- Spotlights
+- Strokes
+- Support your favourite bands
+- Vinyl
 focusKeyword: Songs
 status: publish
 isWerbung: false
@@ -56,8 +52,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Aufgelegt von den drei von der Bande
----
+year: "2020"
+month: '04'
 
+---
 **Jetzt sind wir schon seit fünf Wochen daheim. Da hatten wir natürlich sehr
 viel Zeit, Musik zu hören. Dabei haben wir ein paar wunderbare Entdeckungen
 gemacht, die wir heute gerne mit Euch teilen.**
@@ -107,7 +105,7 @@ komplexen Werken herauszufischen. Anne hat mir das Stück 'Run Like Hell' für
 unsere Liste vorgeschlagen. Inzwischen finde ich, dass es sich dabei um das
 aussagekräftigste von 'Ghosts IV' handelt."
 
- <YouTube id="_-BLflnCUv8" />
+<YouTube id="_-BLflnCUv8" />
 
 ## Spotlights - "Part I" von der EP "We Are All Atomic"
 
@@ -117,11 +115,11 @@ Isis unterwegs. Sie haben auch schon im Vorprogramm von Pelican und den Melvins
 gespielt. Das Ehepaar Quintero fabriziert schönen harten, trockenen Sludge
 Sound, der einen streckenweise tatsächlich immer wieder mal an Isis denken
 lässt. Der Song ist der Auftakt zu einer vierteiligen EP. Der Longplayer "Love
-&amp; Decay" aus dem Jahr 2019 ist ebenfalls durchaus empfehlenswert.
+& Decay" aus dem Jahr 2019 ist ebenfalls durchaus empfehlenswert.
 
- <YouTube id="TaVC3rBMijc" />
+<YouTube id="gTZ-0c2hqaA" />
 
-## La Dispute - "Footsteps At The Pond" (Remix by Zeal &amp; Ardor) vom Remix Album "Panorama Remixed"
+## La Dispute - "Footsteps At The Pond" (Remix by Zeal & Ardor) vom Remix Album "Panorama Remixed"
 
 Diese Schönheit hat Matze zu unserer Liste hinzugefügt. Sie läuft bei uns seit
 der Veröffentlichung in Dauerschleife.
@@ -130,11 +128,11 @@ der Veröffentlichung in Dauerschleife.
 Alben des Jahres. Nun haben La Dispute eine LP nachgeschoben, bei der sich
 verschiedene andere Bands jeweils am Remix eines Stück versucht haben. Ich habe
 den genialen Track 'Footsteps At The Pond' rausgesucht, den die nicht minder
-genialen Zeal &amp; Ardor völlig umgekrempelt haben. Dabei ist kein Stein auf
+genialen Zeal & Ardor völlig umgekrempelt haben. Dabei ist kein Stein auf
 dem anderen geblieben. Hört Euch unbedingt das komplette Album an, es schlummern
 einige Songschätze darauf."
 
- <YouTube id="DVWvHnJBLAU" />
+<YouTube id="DVWvHnJBLAU" />
 
 ## Pixies - "On Graveyard Hill" (Album "Beneath The Eyrie")
 
@@ -143,7 +141,7 @@ Vinylbestellung ist noch gar nicht raus, aber digital läuft es bei mir im Momen
 auf Rotation. Zum Glück haben wir auf diesem Planeten Menschen wie Francis Black
 und seine Band.
 
- <YouTube id="E2o-65chdoc" />
+<YouTube id="E2o-65chdoc" />
 
 ## The Strokes - "Bad Decisions" vom Album "The New Abnormal"
 
@@ -154,7 +152,7 @@ Normalität" schwafeln, sind sie schon weiter und besingen "The New Abnormal".
 Die Musiker um Julian Casablancas haben einfach schon immer gewusst, was wir uns
 wünschen und sie liefern es nach wie vor ab und zwar auf den Punkt.
 
- <YouTube id="5fbZTnZDvPA" />
+<YouTube id="5fbZTnZDvPA" />
 
 ## Pearl Jam - "Quick Escape" vom Album: "Gigaton"
 
@@ -167,7 +165,7 @@ klassische Pearl Jam Passagen, die an die Zeit von 'Yield' erinnern. Bei einigen
 späteren Songpassagen musste ich sogar an Audioslave denken. Insgesamt hört man
 hier soliden Rock mit einigen Highlights"
 
- <YouTube id="GjeRrJljrHs" />
+<YouTube id="GjeRrJljrHs" />
 
 ## Crippled Black Phoenix - The Partisan/Bella Ciao vom Live Album "We Shall See Victory"
 
@@ -181,9 +179,9 @@ einigen Tagen veröffentlichten Live Album, punkten sie mit dem Partisanenlied
 jedem ein Begriff sein. 'We Shall See Victory enthält Aufnahmen eines epischen
 Konzerts aus dem Jahr 2012 und zeigt Band und Publikum in bester Form und Laune.
 'Bella Ciao' wird mit einer rohen Version geehrt, die mich teilweise sogar an 
-Pogues &amp; Co. erinnert."
+Pogues & Co. erinnert."
 
- <YouTube id="mMFPC2cnAzc" />
+<YouTube id="mMFPC2cnAzc" />
 
 ## DJ Krush - "Doomsayer" vom Album "Trickster"
 
@@ -197,7 +195,7 @@ Künstlern wie Mos Def und DJ Shadow zusammen. Als ich erfuhr, dass er ein neues
 Album am Start hat, habe ich mich natürlich sehr gefreut. Ich habe mich für
 unsere Liste für den Song 'Doomsayer' entschieden."
 
- <YouTube id="2to5VZzY1gM" />
+<YouTube id="2to5VZzY1gM" />
 
 ## Riverside - "Time Travellers" (Single Version von 2020)
 
@@ -207,7 +205,7 @@ Band eingelassen. Ich hoffe, es kommt bald mal wieder ein komplettes Album von
 der Progband aus Warschau. "Wasteland" von 2018 ist doch schon eine ganze Weile
 her.
 
- <YouTube id="S7UG2JZ6tRA" />
+<YouTube id="S7UG2JZ6tRA" />
 
 ## Elephant Tree - "Bird" vom Album "Habits" (Vorauskopplung)
 
@@ -219,7 +217,7 @@ von Beginn an begeistert. Der Song hier erinnert mich stark an Bands wie die
 späten Katatonia oder The Pineapple Thief. Er kommt aber härter und direkter
 daher. Ich bin gespannt auf das Album. Es erscheint am 24. April."
 
- <YouTube id="jdKfohDIFUI" />
+<YouTube id="jdKfohDIFUI" />
 
 ## Lich King - "Combat Mosh"
 
@@ -230,7 +228,7 @@ Amherst/Massachusetts. Es ist endlich mal wieder Zeit für ordentlichen Thrash
 Metal. Anthrax, Slayer, Exodus und die frühen Metallica sind als Einfluss nicht
 zu überhören, um nur ein paar Beispiele zu nennen. Viel Spaß damit!"
 
- <YouTube id="eb0D0-aMhpY" />
+<YouTube id="eb0D0-aMhpY" />
 
 ## Michael Stipe - "No Time For Love Like Now"
 
@@ -239,7 +237,7 @@ Stück von Michael Stipe entdeckt. "Mein viertes Stück passt sehr gut zur
 aktuellen Lage, in der wir uns im Moment alle befinden. Michael Stipe von R.E.M.
 hat dieses Stück Herzschmerz in seinem Zuhause aufgenommen."
 
- <YouTube id="MYgpEcXf2S4" />
+<YouTube id="MYgpEcXf2S4" />
 
 Gefällt Euch unsere Liste? Das freut uns sehr! Bei iTunes und Spotify könnt Ihr
 sie am Stück anhören. Hinweis: Das wunderbare Stück von Michael Stipe ist bei
