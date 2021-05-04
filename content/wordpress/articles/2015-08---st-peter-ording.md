@@ -38,7 +38,7 @@ year: "2015"
 month: '08'
 
 ---
-**Wie versprochen [<sup>1</sup>](#1)  kommt hier eine kleine Auswahl meiner
+**Wie versprochen kommt hier eine kleine Auswahl meiner
 Bilder von unserem Besuch in St. Peter-Ording letztes Jahr im Oktober. Für St.
 Peter-Ording Fans und alle, die es noch werden wollen. Natürlich sind auch
 wieder ganz viele Möwen dabei.**
