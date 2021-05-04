@@ -1,61 +1,61 @@
 ---
-date: 2019-05-30T09:00:28.000Z
+date: 2019-05-30T09:00:28.000+00:00
 slug: papa-was-a-rolling-stone
-path: /2019/05/papa-was-a-rolling-stone/
+path: "/2019/05/papa-was-a-rolling-stone/"
 type: Artikel
 typeName: Artikel
 title: Blind Date mit einem Song
 seoTitle: Papa Was A Rolling Stone - Blind Date mit einem Song
 ogTitle: Papa Was A Rolling Stone - Blind Date mit einem Song
-description: 'Es ist soweit: Das siebte Blogger Blind Date mit einem Song geht
-  an den Start. Dieses Mal mit dem Klassiker "Papa Was A Rolling Stone" von The
-  Temptations.'
-excerpt: "Es ist soweit: Das siebte Blogger Blind Date mit einem Song geht an
-  den Start. Ich nutze die Gelegenheit und erzähle Euch eine kleine Geschichte
-  von meinem letzten Köln-Besuch."
+description: 'Es ist soweit: Das siebte Blogger Blind Date mit einem Song geht an
+  den Start. Dieses Mal mit dem Klassiker "Papa Was A Rolling Stone" von The Temptations.'
+excerpt: 'Es ist soweit: Das siebte Blogger Blind Date mit einem Song geht an den
+  Start. Ich nutze die Gelegenheit und erzähle Euch eine kleine Geschichte von meinem
+  letzten Köln-Besuch.'
 fileName: 2019-05---blind-date-mit-einem-song.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2010-01-istanbul_11511399683_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2010-01-istanbul_11511399683_o__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QAKBAAAQQBBAIBAwUAAAAAAAAAAQIDBBEFABIhMQYTFAdBUSMyYXHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQUGAAT/xAAmEQACAQMDAQkAAAAAAAAAAAABAgADESESMUEFBBRRcYGRsdHh/9oADAMBAAIRAxEAPwBachOR8O/KT7JTYY2O3QU2CLoVfXFECvsdaBkMmfHcHCyLb7TalpaZHtaUtKlKAUkWCCOU/c0ej3rFImOcGRwjUzIylY7IuuR3BHUoelzhIKhZ3AFaCeuLGjyyVk/GgjBBbkt32JVTxcAT+oobUIJoco/eBfPFama/S6lR0bXsTxwZT0uoU1UrpsMY3uf2X2LkvQRilma4/BlPD5AILbcYAneoJQef65H41MzMliN5TFgYWcudjDFcSp4NLRuJR0Uq54PF/fSmJ0iZCdPy3lvsslPqLpJWlKQpQujxyUi/40u4vKuPZyGlYWGy4ClFgUroE8c66e43bUwzb78viAdrBVhqtnb259PGXInmN41BmrQXlwcjGmNhSuzyVJPHRoan/U3yFvIeRxpEOAiG4GnHVK37ypTirJuh/idGjTcAG14idijkriJ7WQle5t32D2pbcQTRpQUFAki6uj2K6Gu+IlNKyrDXw44WFpt3YNxP5utGjQYC0yEk5n//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_05_papa-was-a-rollling-stone-blind-date-mit-einem-song-fb.png__l.jpg
 labels:
-  - Alternative
-  - Äußerlichkeiten
-  - Bands
-  - Britpop
-  - Cross Over
-  - diversity
-  - Frank Zappa
-  - Funk
-  - Hamburg
-  - Ignoranz
-  - Indie
-  - Jazz
-  - Jimi Hendrix
-  - Köln
-  - London
-  - Marquee Club
-  - Metal
-  - Musik
-  - My Generation
-  - Papa Was A Rolling Stone
-  - Pop
-  - Punk
-  - Respect
-  - Respekt
-  - Rock
-  - Rock 'n' Roll
-  - Rock 'n' Roll Hall Of Fame
-  - Rücksicht
-  - Selbstbewusstsein
-  - Soul
-  - Spektrum
-  - Swing
-  - Talking Bout My Generation
-  - Techno
-  - The Temptations
-  - Toleranz
-  - Vorurteile
+- Alternative
+- Äußerlichkeiten
+- Bands
+- Britpop
+- Cross Over
+- diversity
+- Frank Zappa
+- Funk
+- Hamburg
+- Ignoranz
+- Indie
+- Jazz
+- Jimi Hendrix
+- Köln
+- London
+- Marquee Club
+- Metal
+- Musik
+- My Generation
+- Papa Was A Rolling Stone
+- Pop
+- Punk
+- Respect
+- Respekt
+- Rock
+- Rock 'n' Roll
+- Rock 'n' Roll Hall Of Fame
+- Rücksicht
+- Selbstbewusstsein
+- Soul
+- Spektrum
+- Swing
+- Talking Bout My Generation
+- Techno
+- The Temptations
+- Toleranz
+- Vorurteile
+- serie:bloggerblinddate
 focusKeyword: Papa Was A Rolling Stone
 status: publish
 isWerbung: false
@@ -63,9 +63,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Papa Was A Rolling Stone" von The Temptations'
-  
----
+year: "2019"
+month: '05'
 
+---
 **Heute ist es soweit: Das inzwischen siebte Blogger Blind Date mit einem Song
 geht an den Start - dieses Mal mit dem Klassiker "Papa Was A Rolling Stone" von
 The Temptations.**
@@ -246,5 +247,3 @@ Beim Blogger Blind Date mit einem Song sind dieses Mal dabei:</h4>
 [Kistengrün](https://www.kistengruen.de/wp/),
 [WirGartenkinder](https://wirgartenkinder.de),
 [Wohnungsgarten](https://www.wohnungsgarten.de) und meine Wenigkeit.
-
-  
