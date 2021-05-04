@@ -1,37 +1,36 @@
 ---
-date: 2017-11-05T19:48:02.000Z
+date: 2017-11-05T19:48:02.000+00:00
 slug: kilkenny-castle
-path: /2017/11/kilkenny-castle/
+path: "/2017/11/kilkenny-castle/"
 type: Galerie mit Bild
 typeName: Galerie mit Bild
 title: Kilkenny Castle
 seoTitle: Kilkenny Castle - Ein Schloss mit vielen Gesichtern
 ogTitle: Kilkenny Castle - Ein Schloss mit vielen Gesichtern
-description: Das weltberühmte Kilkenny Castle befindet sich auf einer leichten
-  Anhöhe oberhalb der Stadt. Es blickt auf eine lange, bewegte Geschichte
-  zurück.
-excerpt: Das weltberühmte Kilkenny Castle befindet sich auf einer leichten
-  Anhöhe oberhalb der Stadt. Es blickt auf eine lange, bewegte Geschichte
-  zurück.
+description: Das weltberühmte Kilkenny Castle befindet sich auf einer leichten Anhöhe
+  oberhalb der Stadt. Es blickt auf eine lange, bewegte Geschichte zurück.
+excerpt: Das weltberühmte Kilkenny Castle befindet sich auf einer leichten Anhöhe
+  oberhalb der Stadt. Es blickt auf eine lange, bewegte Geschichte zurück.
 fileName: 2017-11---kilkenny-castle.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_24313563518_96f22f71cc_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_24313563518_96f22f71cc_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYHCAIDBf/EACgQAAIBAgUDAwUAAAAAAAAAAAECBAMRAAUGEiExQVEUIuETMmGB8P/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgQF/8QAHxEAAgIBBAMAAAAAAAAAAAAAAAECAwQREjGRFCEy/9oADAMBAAIRAxEAPwCXtLy8rgRGWM1I0Tep9W4YbR1N/A84Z1zKm9IOjKVPIIPFuxxTLTuXal9VA2tDWFRcs9BpPBVuGWy9VPcYdtOUNYxGmvPzWmzyGV91KUw3WFgPt4AFrDtir5+Ovqa7HoWDzGejBQ7MjOwVCeNzHoB5PHTCZq6dFy+E8nM8wFKlYkhha9uw7k/gYjOZC1JIzChMrTKLtRsabGSzPTIN/adotziO9Q5Pqd65ecvqfcam95gaxJF7A9zYfwGE8+jiMl2LazDK83kJt2EqPF/jDJSz6ZSpg7wR4wYMYF9cdeCRrrallsxHnjr8Y5M/M5NVSzMP1gwYK64J+kB//9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_11_24313563518_96f22f71cc_k__l.jpg
 labels:
-  - Britische Inseln
-  - Castle
-  - Castle Of Butlers
-  - Fernweh
-  - Geschichte
-  - Ireland
-  - Irland
-  - Irland2017
-  - Kilkenny
-  - Kilkenny Castle
-  - Office of Public Works
-  - Reisen
-  - travelling
+- Britische Inseln
+- Castle
+- Castle Of Butlers
+- Fernweh
+- Geschichte
+- Ireland
+- Irland
+- Irland2017
+- Kilkenny
+- Kilkenny Castle
+- Office of Public Works
+- Reisen
+- travelling
+- serie:Irland 2017
 focusKeyword: Kilkenny Castle
 status: publish
 isWerbung: false
@@ -39,9 +38,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Ein Schloss mit vielen Gesichtern
-  
----
+year: "2017"
+month: "11"
 
+---
 **Das weltberühmte Kilkenny Castle steht auf einer leichten Anhöhe oberhalb der
 Stadt. Wir haben es bei unserer Irlandreise besucht und dabei einiges gelernt.**
 
@@ -112,36 +112,4 @@ Grinsekatze.
 <Gallery name="flickr/kilkennycastle2017" />
 
 \*Hier gehts zur [Homepage](http://www.kilkennycastle.ie/VisitorInformation/)
-von Schloss Kilkenny
-
-## Wegweiser Irland 2017
-
-1.  [Möwen in Dublin](/2017/10/moewen-in-dublin/)
-1.  [Spaziergang durch Dublin](/2017/10/kleiner-spaziergang-durch-dublin/)
-1.  [Guinness ist vegan - Unser Besuch in der St. James Gate Brewery](/2017/10/guinness-ist-vegan-brauerei-besuch/)
-1.  [Bunte Insel Irland - Farbenfrohe Details in Kilkenny](/2017/11/kilkenny-bunte-insel-irland/)
-1.  Kilkenny Castle - Ein Schloss mit vielen Gesichtern
-1.  [Rock Of Cashel - Ein geschichtsträchtiger Ort](/2017/11/rock-of-cashel/)
-1.  [Cork - Technik und Tradition](/2017/12/cork/)
-1.  [Abenteuer auf dem Ring Of Kerry](/2018/01/auf-dem-skellig-ring-in-richtung-dingle-halbinsel/)
-1.  [Muckross House und Torc Waterfall](/2018/02/muckross-house-und-torc-waterfall-irland/)
-1.  [Inch Beach - Traumstrand auf der Dingle Halbinsel](/2018/02/lieblingsstrand-inch-beach/)
-1.  [Limerick - Fünf Zeilen Spaß und eine Stadt in Irland](/2018/02/limerick/)
-1.  [Das Ende des Regenbogens - Eine Irische Sage](/2018/02/das-ende-des-regenbogens/)
-1.  [Da Vincenzo Limerick - Irlands beste vegane Steinofenpizza](/2018/03/da-vincenzo-limerick/)
-1.  [Dingle - Buntes Städtchen am Atlantik](/2018/03/dingle/)
-1.  [Curraghchase Caravan &amp; Camp Site - Kilcornan](/2018/03/curraghchase-caravan-camp-site/)
-1.  [Bunratty Castle - Normannische Burg und Publikumsmagnet](/2018/03/bunratty-castle/)
-1.  [Cliffs Of Moher](/2018/04/cliffs-of-moher/)
-1.  [Fitzpatrick's Pub Doolin](/2018/04/fitzpatricks-pub-doolin/)
-1.  [Doolin - Sehnsuchtsort am Atlantik](/2018/04/doolin/)
-1.  [Burren und Poulnabrone Dolmen](/2018/04/poulnabrone-dolmen-burren/)
-1.  [Galway - Kunst, Kultur und Livemusik](/2018/04/galway/)
-1.  [The Lighthouse Tea Room Galway](/2018/05/the-lighthouse-tea-room-galway/)
-1.  [Birds of Westport](/2018/05/birds-of-westport/)
-1.  [Sky Loop Road](/2018/05/sky-loop-road-clifden/)
-1.  [Irischer Traumstrand](/2018/05/irischer-traumstrand/)
-1.  [Connemara National Park](/2018/05/connemara-national-park/)
-1.  [Kylemore Abbey](/2018/05/kylemore-abbey/)
-
-  
+von Schloss Kilkenny.
