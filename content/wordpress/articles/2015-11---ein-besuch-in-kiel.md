@@ -26,6 +26,7 @@ labels:
 - Lieblingswetter
 - Norden
 - serie:Kiel 2015
+- Ostsee
 focusKeyword: Kiel
 status: publish
 isWerbung: false
