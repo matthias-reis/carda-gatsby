@@ -55,7 +55,7 @@ month: "12"
 ---
 ## Von Fischblase im Bier und Schweineborsten im Brot
 
-_Werbung, da Erwähnung von Produkten\*_
+_Werbung, da Erwähnung von Produkten*_
 
 <RemoteImage alt={`Wer hätte gedacht, dass sich in Chips Wild versteckt?`}
 size="medium" title={`Wer hätte gedacht, dass sich in Chips Wild versteckt?`}
@@ -64,7 +64,7 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_12_14434716447
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAYHCP/EAC0QAAEEAQQBAQUJAAAAAAAAAAECAwQRBQAGITESEwcVMmGBIiMkQUNRcZGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EABwRAAIDAAMBAAAAAAAAAAAAAAABAgMREiEiMv/aAAwDAQACEQMRAD8AxzGTpWPmOpjwSpz3cIcsrBWUt+oUlxIJ+yfCki+AdN7OilbuVgeKUuTVsNsvFClqaUl9K6odmhzQN1xqwT8tAVn8pL93tsMvYr0D5FRQHPV8ipKgSOE0av6anYXMw2twxY83HS4rTP3rb5UFF4oSPJIBAog2e+hValsk4ryh9Ndb+ngnaeyW1ZfOwNwyGo2UdjIcipaeFkldqUqxwD1Ro2OtQpeyd0YthaSYSI8n4wl8pDgu7V13x/WtBzOLcym4Zuak5GGBNJQlRfpxCQQlNKbJKuByCRyeetTRsKNKUhxncbsmKlPH4l1pYJ/NJU2oD+P90Yw5vZEFtCssci+Zj2O7Uz8BpMCM/hnytKkmI6S1Y5Hk0q0qH0B+eudt/bcn4OfLEvNLyC0qL5WtjwJUtRs/Ea7PVXejRppYhe2s64rLSITrSVIFmwEG75N+SVfvrS4OykZnHNSFZOQ025+l6LRr5WEix9NGjW11mBxPT//Z"
 />
 
-** [_Hier gehts zu Teil 8 des Artikels_](/2014/11/28/fakepelz-echtpelz/) "Die
+\** [_Hier gehts zu Teil 8 des Artikels_](/2014/11/28/fakepelz-echtpelz/) "Die
 kannst Du doch essen! Sind doch nur Kartoffelchips!" Kartoffelchips mit
 Paprikageschmack. Das darin Wild enthalten ist, hätte ich mir vor ein paar
 Monaten auch noch nicht träumen lassen. Damals war ich noch Vegetarierin.**
@@ -97,7 +97,7 @@ Ausscheidungen der Lackschildlaus handelt, rote Getränke oder Speisen haben ihr
 Farbe in vielen Fällen von dem darin enthaltenen Karmin, das aus getrockneten,
 zerriebenen  **Cochenille-Schildläusen** hergestellt wird. ZDF WISO klärte auf:
 
- <YouTube id="VKOcDahYo8Y" />
+<YouTube id="VKOcDahYo8Y" />
 
 ## Tierkohle zum Entfärben
 
@@ -150,7 +150,7 @@ Getränks eingeben und die App sagt einem, ob man es bedenkenlos genießen kann.
 Leider klappt das noch nicht bei allen Getränken.
 
 Auch die **Scanner-App** von Barcoo [<sup>6</sup>](#6) wird nach und nach immer
-mehr von fleißigen Veganer\*innen mit Informationen aus Produktanfragen
+mehr von fleißigen Veganer*innen mit Informationen aus Produktanfragen
 gefüttert, bis man hier von Vollständigkeit sprechen kann, werden aber mit
 Sicherheit noch einige Tage ins Land gehen.
 
@@ -168,41 +168,41 @@ eine Proteinmischung, die bei der Milchproduktion abfällt.
 
 ## Hier eine kleine Liste veganer Getränke:
 
-- Club Mate alle Sorten
-- Fritz Cola und alle Fritz Limonaden
-- Alle Sorten LemonAid
-- FruchtTiger
-- Bionade (allerdings sind hier die Etiketten kaseinhaltig)
-- Gaffel Kölsch
-- Rockstar Energy (Bis auf die Sorte "Zero Sugar")
-- Aldi Süd Gartenkrone Apfelsaft naturtrüb
-- Amecke Grapefruitsaft
-- Alle NOW-Limonaden
-- [FÜR Limo von Voelkel](/2018/08/fuer-limo-von-voelkel-im-test/)
-- [Juiced Water, Infused Water und Switchel von Voelkel](/2018/09/voelkel-naturkostsafterei/)
-- [Cold Brew Coffee &amp; Juice von Mounthagen](/2019/01/freshflaesch-cold-brew-coffee-juice-von-mounthagen/)
+* Club Mate alle Sorten
+* Fritz Cola und alle Fritz Limonaden
+* Alle Sorten LemonAid
+* FruchtTiger
+* Bionade (allerdings sind hier die Etiketten kaseinhaltig)
+* Gaffel Kölsch
+* Rockstar Energy (Bis auf die Sorte "Zero Sugar")
+* Aldi Süd Gartenkrone Apfelsaft naturtrüb
+* Amecke Grapefruitsaft
+* Alle NOW-Limonaden
+* [FÜR Limo von Voelkel](/2018/08/fuer-limo-von-voelkel-im-test/)
+* [Juiced Water, Infused Water und Switchel von Voelkel](/2018/09/voelkel-naturkostsafterei/)
+* [Cold Brew Coffee & Juice von Mounthagen](/2019/01/freshflaesch-cold-brew-coffee-juice-von-mounthagen/)
 
-[Nachtrag 2018] Auch [Guinness](/2017/10/guinness-ist-vegan-brauerei-besuch/)
+\[Nachtrag 2018\] Auch [Guinness](/2017/10/guinness-ist-vegan-brauerei-besuch/)
 und die Produkte von [Niehoffs Vaihinger](http://www.niehoffs-vaihinger.de/)
 sind inzwischen vegan. Dazu gehören
 
-- afri cola
-- [Klindworth Fruchtsäfte und Schorlen](/2018/04/vegane-saefte-und-schorlen-im-test/)
-- Niehoffs Vaihinger Säfte
-- die Tee- und Eistee-Konzentrate von der
+* afri cola
+* [Klindworth Fruchtsäfte und Schorlen](/2018/04/vegane-saefte-und-schorlen-im-test/)
+* Niehoffs Vaihinger Säfte
+* die Tee- und Eistee-Konzentrate von der
   [TeaTime Manufaktur](/2018/05/bio-eistee-konzentrate-von-teatime-im-test/)
-- Lindavia und Merziger (zum Beispiel Apfelsaft)
+* Lindavia und Merziger (zum Beispiel Apfelsaft)
 
 ## Nicht vegan sind hingegen u. a.:
 
-- Fanta Orange normal und light
-- Kinley Bitterlemon
-- Bulmers Cider
-- Sinalco
-- Eckes Traubensaft rot
-- Capri-Sonne
-- Lidl Freeway Apfelschorle
-- Milford Tees (Hersteller gibt keine Garantie, dass die Produkte auf allen
+* Fanta Orange normal und light
+* Kinley Bitterlemon
+* Bulmers Cider
+* Sinalco
+* Eckes Traubensaft rot
+* Capri-Sonne
+* Lidl Freeway Apfelschorle
+* Milford Tees (Hersteller gibt keine Garantie, dass die Produkte auf allen
   Produktionsstufen ohne zur Hilfenahme tierischer Stoffe hergestellt werden)
 
 <RemoteImage alt={`Veganes kennzeichnen!`} size="medium"
@@ -258,45 +258,33 @@ Tierisches verbirgt, möchte ich in der 10. und letzten Folge meiner Reportage
 
 > **Dies ist mein persönlicher Blog. Für Vollständigkeit und Richtigkeit meiner
 > Angaben übernehme ich keine Gewehr. Neue Informationen 
-> [nehme ich gerne entgegen](mailto:info@cardamonchai.com) und aktualisiere den
+> **[**nehme ich gerne entgegen**](mailto:info@cardamonchai.com)** und aktualisiere den
 > Artikel entsprechend.**
 
 _ **
 [Hier gehts zu Teil 10 des Artikels](/2015/09/ich-bleib-dabei-vegan-macht-spass/)
-** _
+\** _
 
 ## Fußnoten
 
-- [1]
+* \[1\]
   [Versteckte Tierische Inhaltsstoffe kennzeichnen](http://www.foodwatch.org/de/informieren/versteckte-tiere/2-minuten-info/)
-- [2] [Bentonit Wikipedia](//de.wikipedia.org/wiki/Bentonit)
-- [3] [Vegan4Love](http://www.vegan4love.info)
-- [4]
+* \[2\] [Bentonit Wikipedia](//de.wikipedia.org/wiki/Bentonit)
+* \[3\] [Vegan4Love](http://www.vegan4love.info)
+* \[4\]
   [Veganer Einkaufsguide bei PETA2](http://www.peta2.de/web/einkaufsguide.401.html)
-- [5] [Barnivore](http://www.barnivore.com/mobile)
-- [6]
+* \[5\] [Barnivore](http://www.barnivore.com/mobile)
+* \[6\]
   [Scanner-App von Barcoo](http://www.barcoo.com/barcode-scanner-qr-code-reader-download)
-- [7]
+* \[7\]
   [Getränkeliste FitForVegan](http://www.fitforvegan.de/ernahrung/liste-safte-und-andere-getranke-mit-gelatine-und-ohne/)
-- [8]
+* \[8\]
   [Liste der Zusatzstoffe](http://de.wikipedia.org/wiki/Liste_der_Lebensmittelzusatzstoffe)
-- [9]
+* \[9\]
   [Petition der Verbraucherschutzorganisation Foodwatch](http://www.foodwatch.org/de/informieren/versteckte-tiere/2-minuten-info/)
 
-## Inhaltsverzeichnis "10 Fakten über Veganismus"
 
-1.  [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
-1.  [Ich war so müde](/2014/08/ich-war-so-muede/) !
-1.  [Blutige Zahlen](/2014/08/blutige-zahlen/)
-1.  [Vitamin B12 - Mythos und Fakten](/2014/08/vitamin-b12-mythos-und-wahrheit/)
-1.  [Pflanzenmilch? Wieso denn bloß?](/2014/09/pflanzenmilch-wieso-denn-blos/)
-1.  [Wolle? Das kann doch gar nicht so schlimm sein!](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
-1.  [Honig? Das ist jetzt aber wirklich übertrieben, oder?](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
-1.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
-1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
-1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)
-
-- _Hinweis: In diesem Artikel werden Produkte erwähnt. Daher handelt es sich
+* _Hinweis: In diesem Artikel werden Produkte erwähnt. Daher handelt es sich
   laut Gesetz um Werbung. Der Inhalt und meine Meinung wurden dadurch nicht
   beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
   meiner [Transparenz-Seite](/werbung/). _

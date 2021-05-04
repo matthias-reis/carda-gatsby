@@ -74,7 +74,7 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 
 _ **
 [Hier gehts zu Teil 6 des Artikels](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
-** _ **"Das ist doch jetzt wirklich nicht dein Ernst, dass du nicht mal mehr
+\** _ **"Das ist doch jetzt wirklich nicht dein Ernst, dass du nicht mal mehr
 Honig zu dir nehmen willst?!" - Doch, das ist mein voller Ernst. Warum das so
 ist, lässt sich in ein paar Sätzen erklären. Ein Beispiel nehmen hat nämlich
 nichts mit wegnehmen zu tun.**
@@ -190,7 +190,7 @@ loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAVCAIAAACor3u9A
 />
 
 Hauptimportländer sind hierzulande Mexico und Argentinien. 2012 wurden u. a.
-15.000 Tonnen aus Mexico und 13.000 Tonnen aus Argentinien nach Deutschland
+15\.000 Tonnen aus Mexico und 13.000 Tonnen aus Argentinien nach Deutschland
 importiert. [<sup>2</sup>](#2) Fast 50 Prozent des Honigs auf der Welt stammen
 aus Asien, 23 Prozent aus Europa, 12 Prozent aus Afrika, 10  Prozent aus Nord-
 und Mittelamerika, 8 Prozent aus Südamerika und 2 Prozent aus Australien und
@@ -352,17 +352,17 @@ Bienen herstellen. Hier ein Rezept:
 
 #### Zutaten für ein großes Glas Gänseblümchenhonig
 
-- 2 Handvoll Gänseblümchen
-- 500 Gramm Rohrohrzucker
-- 2 Teelöffel Zitronensaft
-- 500 Milliliter Wasser
+* 2 Handvoll Gänseblümchen
+* 500 Gramm Rohrohrzucker
+* 2 Teelöffel Zitronensaft
+* 500 Milliliter Wasser
 
 #### Zubereitung
 
 Das Wasser zusammen mit den Blumen aufkochen und im Anschluss für ca. 3-4
 Stunden ziehen lassen. Den Sud durch ein Sieb drücken und mit dem Zitronensaft
 und dem Zucker einkochen, bis er dickflüssig wird. In ein großes oder zwei
-kleine Marmeladengläser abfüllen und fertig ist der Gänseblümchenhonig. &lt;3
+kleine Marmeladengläser abfüllen und fertig ist der Gänseblümchenhonig. <3
 
 [_ **Hier gehts zu Teil 8 des Artikels** _](/2014/11/28/fakepelz-echtpelz/)
 
@@ -373,33 +373,20 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14258998664
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAFAwf/xAAoEAACAQMDAwMFAQAAAAAAAAABAgMEBREAEiEGIjETFEEHFVFhcSP/xAAYAQACAwAAAAAAAAAAAAAAAAACBAEDBf/EACMRAAEEAQQBBQAAAAAAAAAAAAEAAgMRBBMhMXESUWGBofD/2gAMAwEAAhEDEQA/AO72OCOxwWqtnpoLj6jSQPGxb05UbOTuxlCMEY5x+xnTCvrayhutsgi9nFTVHY55AyOXZeMccYHkkn8aG9TVt1qKqlrhSLSUlA5zVtIrs6MRjK57vA8cf3SCu6yrLT7imqrS3s3hT2dflfTkBAP8DZJwPj51gRzF7RqkX2mo8nUoOO1/KJ9cXa6dOXaqNesrWtIP8UZ1KVTPtbJB5UqM54xx86GW3q2AF/t9rpqirLd8TlEzH87XXu/fOdM+pYku3Rks1VQpdLkrLsqmLqQGwG7hgMw7cAjGCDzrNXpGpholppbnLRB2iMUbMJkkhYHcBtTcMMVAJ486nIhxYy0tbVj3Hd16cdJXMjbG4Bg2P764R36dXepFNHTdR3ErYaJwWpG7p5kKsFjXHcRuxkfweNemdNdOW2Y11RRVMs1BTE+pbiRMpYZKSIxPDFSqkfkMP3q1aonbbieEqDusa4JRW5KCS6W26QxrE8cJdwgklbaU3ANgBQmASDjj40fvP1AudwuEE9FTxURgL7BTQ7gUJy2c554Hjjzq1aOONsjfJ4tFI8vJJX//2Q=="
 />
 
-## Inhaltsverzeichnis "10 Fakten über Veganismus"
-
-1.  [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
-1.  [Ich war so müde](/2014/08/ich-war-so-muede/) !
-1.  [Blutige Zahlen](/2014/08/blutige-zahlen/)
-1.  [Vitamin B12 - Mythos und Fakten](/2014/08/vitamin-b12-mythos-und-wahrheit/)
-1.  [Pflanzenmilch? Wieso denn bloß?](/2014/09/pflanzenmilch-wieso-denn-blos/)
-1.  [Wolle? Das kann doch gar nicht so schlimm sein!](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
-1.  [Honig? Das ist jetzt aber wirklich übertrieben, oder?](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
-1.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
-1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
-1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)
-
 ## Fußnoten
 
-- [1]
+* \[1\]
   [PETA - 8 Gründe, warum Honig nicht vegan ist](http://www.peta.de/honig#.VDzaLr6USmA)
-- [2] [proplanta.de](http://www.proplanta.de/Agrar-News/Honigproduktion-2013)
-- [3]
+* \[2\] [proplanta.de](http://www.proplanta.de/Agrar-News/Honigproduktion-2013)
+* \[3\]
   [bee-info.de](http://www.bee-info.de/imker-wissen/massnahmen-gegen-schwaermen.html)
-- [4]
+* \[4\]
   [Projektarchiv Ökotrophologie Honigmarkt](http://www-proj.loel.hs-anhalt.de/projektarchiv/oekotrophologie/honigmarkt/Interdisziplinaeres_Projekt_Honig.pdf)
-- [5] [bienentakt.de](http://www.bienentakt.de/smoker-und-pfeife)
-- [6] [Wikipedia Bestäubung](http://de.wikipedia.org/wiki/Bestäubung)
-- [7] [Wikipedia Varroamilbe](http://de.wikipedia.org/wiki/Varroamilbe)
+* \[5\] [bienentakt.de](http://www.bienentakt.de/smoker-und-pfeife)
+* \[6\] [Wikipedia Bestäubung](http://de.wikipedia.org/wiki/Bestäubung)
+* \[7\] [Wikipedia Varroamilbe](http://de.wikipedia.org/wiki/Varroamilbe)
 
 ## Weitere Quellen
 
-- [Wikipedia Bienen](http://de.wikipedia.org/wiki/Bienen)
-- [Wikipedia Honig](http://de.wikipedia.org/wiki/Honig)
+* [Wikipedia Bienen](http://de.wikipedia.org/wiki/Bienen)
+* [Wikipedia Honig](http://de.wikipedia.org/wiki/Honig)
