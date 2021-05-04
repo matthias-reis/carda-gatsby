@@ -1,37 +1,35 @@
 ---
-date: 2014-10-09T10:49:57Z
-slug:
-path: '/2014/10/bratkartoffeln-scharf-spinat'
+date: 2014-10-09T10:49:57.000+00:00
+slug: bratkartoffeln-scharf-spinat
+path: "/2014/10/bratkartoffeln-scharf-spinat"
 type: Rezept
 typeName: Rezept
 title: Scharfe Bratkartoffeln
 seoTitle: Scharfe Bratkartoffeln mit Spinat - Pikant und lecker
 ogTitle: Scharfe Bratkartoffeln – pikant und lecker
-description:
-  Scharfe Bratkartoffeln mit Spinat sind genau das Richtig, wenn man Lust
+description: Scharfe Bratkartoffeln mit Spinat sind genau das Richtig, wenn man Lust
   Kartoffeln und herzhafte Schärfe habt.
-excerpt:
-  Ihr habt Lust auf Bratkartoffeln? Gleichzeitig wollt Ihr aber auch noch was
+excerpt: Ihr habt Lust auf Bratkartoffeln? Gleichzeitig wollt Ihr aber auch noch was
   richtig schön Scharfes essen? Ich habe genau das Richtige für Euch.
 fileName: 2014-10---bratkartoffeln-scharf-spinat.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-24-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-24-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAApEAABBAEDAwQBBQAAAAAAAAABAgMEEQUABiEHEjETIkFxYTJRcoGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQQFA//EACYRAAEDAwIFBQAAAAAAAAAAAAECAxEABCESMRNBUWGRcYGhwdH/2gAMAwEAAhEDEQA/AOz0w6bwXozMvNMB9so9UMucJBNEdwHmr+TWnjcqtrbWwj0pqFCCo7ZUhmOwlPdXwSBrR07yLU7buPdH6X47a6v90i/9sf1pP6nLwYzbOCzzkkMzy16TjQ7Et2eO9XyO5J8VQ+tS3EJatytowr57x3jblVJS7m6uChQKt8Dt9UnzN3JzWTbhTtuQpkYLWtSGI5TKLSQm+1SSFJUm7HwfBB0n7o2qlvBtZzFiS5hJCi0A8mnYy0kj03gOAQeARwoG+DxqjSNiZRGZD2KwbuNbhFbUKQHgtXaolSirtVSgST5s66W548DYfSGdjclLVKnz0rDYdABdfUQbSk3SU0D+K/OlbJt+5GtwECMFW859ZxE7wZrW0vlMKS2nIJyOXt0/Kn3TLqErbDTUXKtg491RcR6JtbBIs+0+Ung1d2bHkjTHvfdmzd2ZnFyZeZbTj48ZaXLZdS4lwrFUns5IF196NGnrNOveqTjQUeODCjjHjzFbd2deYsRlcPa2OW46lFCVkElCftLYNk/yI+tQ3O5ufuDKmdlpcibLebpTjhoJrmgmqCRz7QB5450aNNk6UCOlC2tW2ka0jNf/2Q==
-ogImage:
+ogImage: 
 labels:
-  - Basmati-Reis
-  - Chili
-  - Essen
-  - foodblogger
-  - Kartoffeln
-  - Rasawath aharak
-  - Rezept
-  - scharf
-  - Spinat
-  - vegan
-  - vegan kochen
-  - vegane Rezepte
-  - Vegane Rezepte
+- Basmati-Reis
+- Chili
+- Essen
+- foodblogger
+- Kartoffeln
+- Rasawath aharak
+- Rezept
+- scharf
+- Spinat
+- vegan
+- vegan kochen
+- vegane Rezepte
+- Vegane Rezepte
 focusKeyword: Bratkartoffeln
 status: publish
 isWerbung: false
@@ -39,8 +37,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Pikant und lecker
----
+year: "2014"
+month: "10"
 
+---
 **Ihr habt Lust auf Bratkartoffeln? Gleichzeitig wollt Ihr aber auch noch was
 richtig schön Scharfes essen? Ich habe genau das Richtige für Euch.**
 
