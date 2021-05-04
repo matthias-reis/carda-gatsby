@@ -48,8 +48,6 @@ nächste Blogeintrag. Hier kommt das heutige Gedicht.
 
 <blockquote>
 
-## Dauerregen an der Glasfensterfront - In den Straßen von St. Pauli
-
 Regen und Wärme sorgen für ein gutes Pilzwachstum
 
 Eine Straße, ein Kiez Verzögerte Wärmeabgabe
