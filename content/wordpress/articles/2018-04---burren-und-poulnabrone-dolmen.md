@@ -1,43 +1,44 @@
 ---
-date: 2018-04-25T06:20:09.000Z
+date: 2018-04-25T06:20:09.000+00:00
 slug: poulnabrone-dolmen-burren
-path: /2018/04/poulnabrone-dolmen-burren/
+path: "/2018/04/poulnabrone-dolmen-burren/"
 type: Galerie mit Bild
 typeName: Galerie mit Bild
 title: Burren und Poulnabrone Dolmen
 seoTitle: Burren und Poulnabrone Dolmen - Mondlandschaft mit mystischen Steinen
 ogTitle: Burren und Poulnabrone Dolmen - Mondlandschaft mit mystischen Steinen
-description: Der Poulnabrone-Dolmen inmitten des Burren ist ein sogenannter
-  Portal Tomb. Er wird auch "Hole Of Sorrows" (Loch der Sorgen) genannt.
-excerpt: Der Poulnabrone-Dolmen inmitten des Burren ist ein sogenannter Portal
+description: Der Poulnabrone-Dolmen inmitten des Burren ist ein sogenannter Portal
   Tomb. Er wird auch "Hole Of Sorrows" (Loch der Sorgen) genannt.
+excerpt: Der Poulnabrone-Dolmen inmitten des Burren ist ein sogenannter Portal Tomb.
+  Er wird auch "Hole Of Sorrows" (Loch der Sorgen) genannt.
 fileName: 2018-04---burren-und-poulnabrone-dolmen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39516177774_9949272337_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39516177774_9949272337_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAoEAACAgEDBAEDBQAAAAAAAAABAgMEEQAFIQYHEjETFCJBUVJhcYH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAAIDBf/EABsRAAMBAQEBAQAAAAAAAAAAAAABAwIhMTJC/9oADAMBAAIRAxEAPwCs06ZkKDHsgaQpO5VAfNGNslMkTsjD5hjKkj9v8arNNHUqfFh4nJwM8/nXL3WWx3Ni6s3KPcUihEs0s8ESzLJ5Rs5KlgORwcgEDSaU1+Q85p/Q0N3e2/L/AD7NKQB9ojmxn+8jW10zvV7qWn9adhn26gyFobUkysJj5Ywi4DY98+uNQjd6U3TXUUUdhIrDV3WUxyoGWRSAwBU8EFSPf6668knotRjkqUoFryxI8KjIWOMqCoUDAAwdWlXTfSWllLhMZO6++yTTNTgo1q6syrGYjI3HGSxOCcnPoalfcPcrc26Lulmd57V9C0xfHJGBxgcDGOPxjjRo1w53o6JNjt4SXBJ3rcrm5WRau2GmmKLH5sBnxVQqgke8KoH+a3ou7fVlSlWojcWWvWhWKERRxqQirgAkoxPoc6NGnZ02Y++n/9k=
-ogImage: null
+ogImage: 
 labels:
-  - Britische Inseln
-  - Burren
-  - Burren Poulnabrone Dolmen
-  - Dolmen
-  - Enzian
-  - Farn
-  - Fernweh
-  - Ireland
-  - Irland
-  - Irland2017
-  - Kalksandstein
-  - Karst
-  - Megalith
-  - Mondlandschaft
-  - Monument
-  - Natur
-  - Orchideen
-  - Portal Tomb
-  - Poulnabrone Dolmen
-  - reisen travelling
-  - Stechpalmen
+- Britische Inseln
+- Burren
+- Burren Poulnabrone Dolmen
+- Dolmen
+- Enzian
+- Farn
+- Fernweh
+- Ireland
+- Irland
+- Irland2017
+- Kalksandstein
+- Karst
+- Megalith
+- Mondlandschaft
+- Monument
+- Natur
+- Orchideen
+- Portal Tomb
+- Poulnabrone Dolmen
+- reisen travelling
+- Stechpalmen
+- serie:Irland 2017
 focusKeyword: Poulnabrone Dolmen
 status: publish
 isWerbung: false
@@ -45,9 +46,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Mondlandschaft mit mystischen Steinen
-  
----
+year: "2018"
+month: '04'
 
+---
 **Die nächste Sehenswürdigkeit, die uns auf unserer Reise durch Irland letzten
 Herbst erwartete, war der Poulnabrone-Dolmen. Es handelt sich dabei um einen
 sogenannten Portal Tomb. Er wird auch "Hole Of Sorrows" (Loch der Sorgen)
@@ -76,36 +78,4 @@ sowie Stechpalmen und verschiedene Orchideenarten.
 Ähnliche Karstlandschaften findet man zum Beispiel in Perthshire, in Yorkshire,
 in Süd-Wales, sowie auf der Schwedischen Insel Öland und im Kanadischen Ontario.
 
-## Wegweiser Irland 2017
-
-1.  [Möwen in Dublin](/2017/10/moewen-in-dublin/)
-1.  [Spaziergang durch Dublin](/2017/10/kleiner-spaziergang-durch-dublin/)
-1.  [Guinness ist vegan - Unser Besuch in der St. James Gate Brewery](/2017/10/guinness-ist-vegan-brauerei-besuch/)
-1.  [Bunte Insel Irland - Farbenfrohe Details in Kilkenny](/2017/11/kilkenny-bunte-insel-irland/)
-1.  [Kilkenny Castle - Ein Schloss mit vielen Gesichtern](/2017/11/kilkenny-castle/)
-1.  [Rock Of Cashel - Ein geschichtsträchtiger Ort](/2017/11/rock-of-cashel/)
-1.  [Cork - Technik und Tradition](/2017/12/cork/)
-1.  [Abenteuer auf dem Ring Of Kerry](/2018/01/ring-of-kerry/)
-1.  [Muckross House und Torc Waterfall](/2018/02/muckross-house-und-torc-waterfall-irland/)
-1.  [Inch Beach - Traumstrand auf der Dingle Halbinsel](/2018/02/lieblingsstrand-inch-beach/)
-1.  [Limerick - Fünf Zeilen Spaß und eine Stadt in Irland](/2018/02/limerick/)
-1.  [Das Ende des Regenbogens - Eine Irische Sage](/2018/02/das-ende-des-regenbogens/)
-1.  [Da Vincenzo Limerick - Irlands beste vegane Steinofenpizza](/2018/03/da-vincenzo-limerick/)
-1.  [Dingle - Buntes Städtchen am Atlantik](/2018/03/dingle/)
-1.  [Curraghchase Caravan &amp; Camp Site - Kilcornan](/2018/03/curraghchase-caravan-camp-site/)
-1.  [Bunratty Castle - Normanische Burg und Publikumsmagnet](/2018/03/bunratty-castle/)
-1.  [Cliffs Of Moher](/2018/04/cliffs-of-moher/)
-1.  [Fitzpatrick's Pub Doolin](/2018/04/fitzpatricks-pub-doolin/)
-1.  [Doolin - Sehnsuchtsort am Atlantik](/2018/04/doolin/)
-1.  Burren und Poulnabrone Dolmen
-1.  [Galway - Kunst, Kultur und Livemusik](/2018/04/galway/)
-1.  [The Lighthouse Tea Room Galway](/2018/05/the-lighthouse-tea-room-galway/)
-1.  [Birds of Westport](/2018/05/birds-of-westport/)
-1.  [Sky Loop Road](/2018/05/sky-loop-road-clifden/)
-1.  [Irischer Traumstrand](/2018/05/irischer-traumstrand/)
-1.  [Connemara National Park](/2018/05/connemara-national-park/)
-1.  [Kylemore Abbey](/2018/05/kylemore-abbey/)
-
 <Gallery name="flickr/anneburrenpoulnabronedolmen2017" />
-
-  
