@@ -1,33 +1,32 @@
 ---
-date: 2015-11-22T16:56:52.000Z
+date: 2015-11-22T16:56:52.000+00:00
 slug: die-moewe
-path: /2015/11/die-moewe/
+path: "/2015/11/die-moewe/"
 type: Galerie
 typeName: Galerie
 title: Die Möwe
 seoTitle: Die Möwe - Bildergalerie
 ogTitle: Die Möwe - Bildergalerie
-description: Es ist nicht leicht, eine Möwe im perfekten Licht zu erwischen. Um
-  so stolzer ist man natürlich, wenn einem dann der ein oder andere
-  Schnappschuss gelingt.
-excerpt: Jeder, der schon mal mit seiner Kamera in der Nähe eines Gewässers
-  unterwegs war, weiß, wie schwierig es sein kann, eine Möwe im optimalen Licht
-  zu erwischen.
+description: Es ist nicht leicht, eine Möwe im perfekten Licht zu erwischen. Um so
+  stolzer ist man natürlich, wenn einem dann der ein oder andere Schnappschuss gelingt.
+excerpt: Jeder, der schon mal mit seiner Kamera in der Nähe eines Gewässers unterwegs
+  war, weiß, wie schwierig es sein kann, eine Möwe im optimalen Licht zu erwischen.
 fileName: 2015-11---die-moewe.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_23182551155_758672cfed_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_23182551155_758672cfed_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcE/8QAKxAAAQQBAgQFBAMAAAAAAAAAAQIDBBEFABIGITFBEyIjMlEHFEOBcZGS/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EAB4RAAIBBAMBAAAAAAAAAAAAAAABAgMREjEhIlGh/9oADAMBAAIRAxEAPwCowsaCHN0hLn26aKvVQkkX+j01fxl4dlshxCBSgRulgWL78/itIWGnYrO5Vbch8sR5LaWJDinW2FIRe60JVe48hrSY7mMgsRF4rCx8luQkIfLyJLpI7gdO3YafO2yUablp/ScnFoaSoHGtpNJJ3lTmy+YsUasfNXpM4jiojMALU0x5jRDJ6g38abuP87Gex+NizEoenBS3nSw7tCE9gVV7iT7R0rWdZHKwpO9K4K1qBPmXIWrn/WjJyVx8VFihG4neYTGUzEioUpRSr0km/LdjlrYPpHipPGUGTkXZrUMQZIbS2iI2vdQSq7PQG6oD96NGsqcaCj2V2P54FgN+K45OyewqBDTS2kJSCQKvwyeX865MjwpgGAoOsZKRR/JkFi/8gaNGpOT9Lximf//Z
-ogImage: null
+ogImage: 
 labels:
-  - Ausflug
-  - Hafen
-  - i like birds
-  - Kiel
-  - Moewe
-  - Möwe
-  - Möwen
-  - Norden
-  - Seagulls
+- Ausflug
+- Hafen
+- i like birds
+- Kiel
+- Moewe
+- Möwe
+- Möwen
+- Norden
+- Seagulls
+- serie:Möwen
 focusKeyword: Möwe
 status: publish
 isWerbung: false
@@ -35,9 +34,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Bildergalerie
-  
----
+year: "2015"
+month: "11"
 
+---
 **Jeder, der schon mal mit seiner Kamera in der Nähe eines Gewässers unterwegs
 war, weiß, wie schwierig es sein kann, eine Möwe im optimalen Licht zu
 erwischen. Umso stolzer ist man dann natürlich, wenn sich mal eine tolle
@@ -77,19 +77,3 @@ Auch am Bosporus sind mir einige Möwenbilder gelungen.
 1.  [Ein Besuch in Kiel](/2015/11/ein-besuch-in-kiel/)
 1.  [Die Möwe](/2015/11/die-moewe/)
 1.  [Noch mehr Kiel](/2015/11/noch-mehr-kiel/)
-
-## Wegweiser Möwen
-
-1.  [Möwen am Bosporus (Januar 2010)](/2010/01/moewen-am-bosporus/)
-1.  [Zurück nach St. Peter Ording (Juli 2015)](/2015/07/zurueck-nach-st-peter-ording/)
-1.  [St. Peter Ording - Perle an der Nordsee (August 2015)](/2015/08/st-peter-ording/)
-1.  [Birdwatching am Timmendorfer Strand (November 2015)](/2015/11/birdwatching-am-timmendorfer-strand/)
-1.  Die Möwe, Kiel (November 2015)
-1.  [Möwen auf der Brücke (Januar 2016)](/2016/01/moewen-auf-der-bruecke/)
-1.  [Sommer auf der Ostsee - Möwen vor Helsinki (Juni 2016)](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/)
-1.  [Seevögel in Helsinki - Auf jeder Statue eine Möwe (Juni 2016)](/2016/08/auf-jeder-statue-eine-moewe/)
-1.  [Möwen in Dublin - Bunte Bilderserie mit original Irischen Seevögeln (September 2017)](/2017/10/moewen-in-dublin/)
-1.  [Möwe am Wasser](/2018/01/moewe-am-wasser/)
-1.  [Birds of Westport](/2018/05/birds-of-westport/)
-
-  
