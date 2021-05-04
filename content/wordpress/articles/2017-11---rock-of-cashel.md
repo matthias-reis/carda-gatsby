@@ -1,39 +1,39 @@
 ---
-date: 2017-11-16T08:01:25.000Z
+date: 2017-11-16T08:01:25.000+00:00
 slug: rock-of-cashel
-path: /2017/11/rock-of-cashel/
+path: "/2017/11/rock-of-cashel/"
 type: Galerie mit Bild
 typeName: Galerie mit Bild
 title: Rock Of Cashel
 seoTitle: Rock Of Cashel - Ein geschichtsträchtiger Ort - Geschichte & Fotos
 ogTitle: Rock Of Cashel - Ein geschichtsträchtiger Ort - Geschichte & Fotos
-description: Der Rock Of Cashel ist ein mystischer Ort. Längst vergangene
-  Zeiten, Macht und Ohnmacht spiegeln sich in ihm wieder. Raben ziehen ihre
-  Kreise.
-excerpt: Der Rock Of Cashel ist ein mystischer Ort. Längst vergangene Zeiten,
+description: Der Rock Of Cashel ist ein mystischer Ort. Längst vergangene Zeiten,
   Macht und Ohnmacht spiegeln sich in ihm wieder. Raben ziehen ihre Kreise.
+excerpt: Der Rock Of Cashel ist ein mystischer Ort. Längst vergangene Zeiten, Macht
+  und Ohnmacht spiegeln sich in ihm wieder. Raben ziehen ihre Kreise.
 fileName: 2017-11---rock-of-cashel.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Rock-Of-Cashel-Duo__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Rock-Of-Cashel-Duo__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBgEFCP/EACkQAAEEAAUDBAIDAAAAAAAAAAECAwQRAAUGEiEiMUEUMlFxExUjgZH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAIF/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAEQQDEiFxMbHB/9oADAMBAAIRAxEAPwBq5fIh/r4qVTGGX5kj07CF8KecA9iSe5q/gcYsq8uddgNxpJaQ04tPG8KJN+2q8jyDYwlddnUMfU+WrnlLUSO6h3L3QXLcd2kKPQD1bjXk1soUVHDo01PXmem8uezR+KuW4hv1AjnpQ4UhSkfKeDyPvxhmajUNRYuc56i0IliWrNYLe7KnXiV0D/CSo3fgJs0MRntFxnHpDgcZCENpc4Vu3WCD37cj+sMPTmpZC9MxMtTCZnMJZ/AVlzqeqwTR88HjGIyYEhAC4LAQ/ACm0mk1tWD0q4smzx5rDJmhmVe7+QmxSoZuor9XZ3EkIyVl5ZeUiQVqTJfXJURae4UTxV8cXjTaq1jl8R9EDIkiWynMDIW4uOmOiiaDaAOraO3J7cVgwY42km5EYknz7lTGjQkzQWogdXxcvlkvoL5bYVQIaVsUgn64P+4vDE15qG27DkRW5jaHOlbe9ujxtAChQvBgxSeCCJocggz/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Rock-Of-Cashel-Duo__l.jpg
 labels:
-  - Britische Inseln
-  - Burg
-  - Burgen
-  - Cashel
-  - Dreifaltigkeit
-  - Edward mit den Scherenhänden
-  - Feen
-  - Fernweh
-  - Game Of Thrones
-  - Heritage Ireland
-  - Ireland
-  - Irland
-  - Irland2017
-  - Legenden
-  - Rock Of Cashel
-  - St. Patrick
+- Britische Inseln
+- Burg
+- Burgen
+- Cashel
+- Dreifaltigkeit
+- Edward mit den Scherenhänden
+- Feen
+- Fernweh
+- Game Of Thrones
+- Heritage Ireland
+- Ireland
+- Irland
+- Irland2017
+- Legenden
+- Rock Of Cashel
+- St. Patrick
+- serie:Irland 2017
 focusKeyword: Rock Of Cashel
 status: publish
 isWerbung: false
@@ -41,9 +41,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Ein geschichtsträchtiger Ort
-  
----
+year: "2017"
+month: "11"
 
+---
 **Raben kreisen um die Zinnen der alten Gemäuer. Ein kühles Lüftchen zieht durch
 die Nischen und Ecken. Der Rock Of Cashel ist ein mystischer Ort, von dem eine
 gewaltige Kraft auszugehen scheint. Längst vergangene Zeiten, Macht und Ohnmacht
@@ -155,36 +156,4 @@ _Petyr "Littlefinger" Baelish, "Game Of Thrones"_
 
 </blockquote>
 
-## Wegweiser Irland
-
-1.  [Möwen in Dublin](/2017/10/moewen-in-dublin/)
-1.  [Spaziergang durch Dublin](/2017/10/kleiner-spaziergang-durch-dublin/)
-1.  [Guinness ist vegan - Unser Besuch in der St. James Gate Brewery](/2017/10/guinness-ist-vegan-brauerei-besuch/)
-1.  [Bunte Insel Irland - Farbenfrohe Details in Kilkenny](/2017/11/kilkenny-bunte-insel-irland/)
-1.  [Kilkenny Castle - Ein Schloss mit vielen Gesichtern](/2017/11/kilkenny-castle/)
-1.  Rock Of Cashel - Ein geschichtsträchtiger Ort
-1.  [Cork - Technik und Tradition](/2017/12/cork/)
-1.  [Abenteuer auf dem Ring Of Kerry](/2018/01/auf-dem-skellig-ring-in-richtung-dingle-halbinsel/)
-1.  [Muckross House und Torc Waterfalls](/2018/02/muckross-house-und-torc-waterfall-irland/)
-1.  [Inch Beach - Traumstrand auf der Dingle Halbinsel](/2018/02/lieblingsstrand-inch-beach/)
-1.  [Limerick - Fünf Zeilen Spaß und eine Stadt in Irland](/2018/02/limerick/)
-1.  [Das Ende des Regenbogens - Eine Irische Sage](/2018/02/das-ende-des-regenbogens/)
-1.  [Da Vincenzo Limerick - Irlands beste vegane Steinofenpizza](/2018/03/da-vincenzo-limerick/)
-1.  [Dingle - Buntes Städtchen am Atlantik](/2018/03/dingle/)
-1.  [Curraghchase Caravan &amp; Camp Site - Kilcornan](/2018/03/curraghchase-caravan-camp-site/)
-1.  [Bunratty Castle - Normannische Burg und Publikumsmagnet](/2018/03/bunratty-castle/)
-1.  [Cliffs Of Moher](/2018/04/cliffs-of-moher/)
-1.  [Fitzpatrick's Pub Doolin](/2018/04/fitzpatricks-pub-doolin/)
-1.  [Doolin - Sehnsuchtsort am Atlantik](/2018/04/doolin/)
-1.  [Burren und Poulnabrone Dolmen](/2018/04/poulnabrone-dolmen-burren/)
-1.  [Galway - Kunst, Kultur und Livemusik](/2018/04/galway/)
-1.  [The Lighthouse Tea Room Galway](/2018/05/the-lighthouse-tea-room-galway/)
-1.  [Birds of Westport](/2018/05/birds-of-westport/)
-1.  [Sky Loop Road](/2018/05/sky-loop-road-clifden/)
-1.  [Irischer Traumstrand](/2018/05/irischer-traumstrand/)
-1.  [Connemara National Park](/2018/05/connemara-national-park/)
-1.  [Kylemore Abbey](/2018/05/kylemore-abbey/)
-
 <Gallery name="flickr/annerockofcashel2017" />
-
-  
