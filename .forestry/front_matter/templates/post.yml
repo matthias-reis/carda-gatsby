@@ -99,3 +99,5 @@ fields:
   name: languageLink
   label: Sprachlink
   description: Bitte vollständig angeben (/2021/04/titel)
+pages:
+- content/articles/faire-vegane-bettwasche.md
