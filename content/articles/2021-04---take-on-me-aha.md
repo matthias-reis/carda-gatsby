@@ -12,7 +12,7 @@ description: Heute findet das inzwischen achte musikalische Blogger Blind Date s
 image: "/img/design-ohne-titel.jpg"
 ogImage: "/img/take-on-me-fb.png"
 labels:
-- serie:bloggerblinddate
+- 'serie: Musikalisches Blind Date'
 - a-ha
 - Blogger Blind Date
 - Take On Me
