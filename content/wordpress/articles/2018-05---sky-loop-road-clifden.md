@@ -1,36 +1,35 @@
 ---
-date: 2018-05-14T05:34:57.000Z
+date: 2018-05-14T05:34:57.000+00:00
 slug: sky-loop-road-clifden
-path: /2018/05/sky-loop-road-clifden/
+path: "/2018/05/sky-loop-road-clifden/"
 type: Galerie mit Bild
 typeName: Galerie mit Bild
 title: Sky Loop Road Clifden
 seoTitle: Sky Loop Road Clifden - Panoramastraße über dem Meer
 ogTitle: Sky Loop Road Clifden - Panoramastraße über dem Meer
-description: In Clifden im County Connemara beginnt und endet mit der Sky Loop
-  Road eine Panoramastraße, die man auf der Durchreise auf keinen Fall verpassen
-  sollte.
-excerpt: In Clifden im County Connemara beginnt und endet mit der Sky Loop Road
-  eine Panoramastraße, die man auf der Durchreise auf keinen Fall verpassen
-  sollte.
+description: In Clifden im County Connemara beginnt und endet mit der Sky Loop Road
+  eine Panoramastraße, die man auf der Durchreise auf keinen Fall verpassen sollte.
+excerpt: In Clifden im County Connemara beginnt und endet mit der Sky Loop Road eine
+  Panoramastraße, die man auf der Durchreise auf keinen Fall verpassen sollte.
 fileName: 2018-05---sky-loop-road-clifden.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25392225977_19bddc7e2e_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25392225977_19bddc7e2e_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAqEAABAwMDAgUFAQAAAAAAAAABAgMEAAURBhIhEzEiYXGhsRVBQ1Fygf/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAgUG/8QAHREAAgIDAAMAAAAAAAAAAAAAAQIAEQMhMRJBUf/aAAwDAQACEQMRAD8As4Nht0pTgWtlwoUUlRbHOO+KeGnbE6yI6YYUckLU2NvvSTtvZjkPx7fMnqSASWVOZJ8kgHNZyr/ao73TlW6/Q5GQelseB9dvGfUCnF1HTF0x4I9dtEafTGCmoyWXs+FS3SM/7moPU2g4be10XVAZ/IcqJT/PHzV79QjSI7i2xPQ2EklM5DraMeZWjHvXPdSa2tzSnIqwRhPLkR9DqDnt2x80fJPZgpjwTnluadYS0tuZKSQM+Be3Jx34qgK5rcJ59VymLLLO4BbpOf2MntRRWcfI11ctVRfkx5klayjrAPJA3lLilEHPPbNTk64rUyNrTKEONHwJQMDnz+9FFPx7O5B9T//Z
-ogImage: null
+ogImage: 
 labels:
-  - Aussicht
-  - Britische Inseln
-  - Clifden
-  - Connemara
-  - Fernweh
-  - Ireland
-  - Irland
-  - Irland2017
-  - Reisen
-  - Sky Loop Road
-  - Sky Road
-  - travelling
+- Aussicht
+- Britische Inseln
+- Clifden
+- Connemara
+- Fernweh
+- Ireland
+- Irland
+- Irland2017
+- Reisen
+- Sky Loop Road
+- Sky Road
+- travelling
+- serie:Irland 2017
 focusKeyword: Sky Loop Road
 status: publish
 isWerbung: false
@@ -38,9 +37,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Panoramastraße über dem Meer
-  
----
+year: "2018"
+month: '05'
 
+---
 **In Clifden in Connemara im County Galway beginnt und endet eine
 Panoramastraße, die man auf der Durchreise auf keinen Fall verpassen sollte.**
 
@@ -56,35 +56,3 @@ Inishturk und Turbot. Mir sind dort ein paar Wolkenfotos gelungen, die ich Euch
 gerne zeigen möchte.
 
 <Gallery name="flickr/anneskylooproadlove2017" />
-
-## Wegweiser Irland 2017
-
-1.  [Möwen in Dublin](/2017/10/moewen-in-dublin/)
-1.  [Spaziergang durch Dublin](/2017/10/kleiner-spaziergang-durch-dublin/)
-1.  [Guinness ist vegan - Unser Besuch in der St. James Gate Brewery](/2017/10/guinness-ist-vegan-brauerei-besuch/)
-1.  [Bunte Insel Irland - Farbenfrohe Details in Kilkenny](/2017/11/kilkenny-bunte-insel-irland/)
-1.  [Kilkenny Castle - Ein Schloss mit vielen Gesichtern](/2017/11/kilkenny-castle/)
-1.  [Rock Of Cashel - Ein geschichtsträchtiger Ort](/2017/11/rock-of-cashel/)
-1.  [Cork - Technik und Tradition](/2017/12/cork/)
-1.  [Abenteuer auf dem Ring Of Kerry](/2018/01/ring-of-kerry/)
-1.  [Muckross House und Torc Waterfall](/2018/02/muckross-house-und-torc-waterfall-irland/)
-1.  [Inch Beach - Traumstrand auf der Dingle Halbinsel](/2018/02/lieblingsstrand-inch-beach/)
-1.  [Limerick - Fünf Zeilen Spaß und eine Stadt in Irland](/2018/02/limerick/)
-1.  [Das Ende des Regenbogens - Eine Irische Sage](/2018/02/das-ende-des-regenbogens/)
-1.  [Da Vincenzo Limerick - Irlands beste vegane Steinofenpizza](/2018/03/da-vincenzo-limerick/)
-1.  [Dingle - Buntes Städtchen am Atlantik](/2018/03/dingle/)
-1.  [Curraghchase Caravan &amp; Camp Site - Kilcornan](/2018/03/curraghchase-caravan-camp-site/)
-1.  [Bunratty Castle - Normanische Burg und Publikumsmagnet](/2018/03/bunratty-castle/)
-1.  [Cliffs Of Moher](/2018/04/cliffs-of-moher/)
-1.  [Fitzpatrick's Pub Doolin](/2018/04/fitzpatricks-pub-doolin/)
-1.  [Doolin - Sehnsuchtsort am Atlantik](/2018/04/doolin/)
-1.  [Burren und Poulnabrone Dolmen](/2018/04/poulnabrone-dolmen-burren/)
-1.  [Galway - Kunst, Kultur und Livemusik](/2018/04/galway/)
-1.  [The Lighthouse Tea Room Galway - Vegane Küche vom Feinsten](/2018/05/the-lighthouse-tea-room-galway/)
-1.  [Birds of Westport](/2018/05/birds-of-westport/)
-1.  Sky Loop Road
-1.  [Irischer Traumstrand](/2018/05/irischer-traumstrand/)
-1.  [Connemara National Park](/2018/05/connemara-national-park/)
-1.  [Kylemore Abbey](/2018/05/kylemore-abbey/)
-
-  
