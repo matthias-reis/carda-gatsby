@@ -51,18 +51,10 @@ errors: {}
 subTitle: 10 Fakten über Veganismus - Teil IX
 year: "2014"
 month: "12"
+advertisement: true
 
 ---
 ## Von Fischblase im Bier und Schweineborsten im Brot
-
-_Werbung, da Erwähnung von Produkten*_
-
-<RemoteImage alt={`Wer hätte gedacht, dass sich in Chips Wild versteckt?`}
-size="medium" title={`Wer hätte gedacht, dass sich in Chips Wild versteckt?`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_12_14434716447_d5a4470f5e_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_12_14434716447_d5a4470f5e_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAYHCP/EAC0QAAEEAQQBAQUJAAAAAAAAAAECAwQRBQAGITESEwcVMmGBIiMkQUNRcZGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EABwRAAIDAAMBAAAAAAAAAAAAAAABAgMREiEiMv/aAAwDAQACEQMRAD8AxzGTpWPmOpjwSpz3cIcsrBWUt+oUlxIJ+yfCki+AdN7OilbuVgeKUuTVsNsvFClqaUl9K6odmhzQN1xqwT8tAVn8pL93tsMvYr0D5FRQHPV8ipKgSOE0av6anYXMw2twxY83HS4rTP3rb5UFF4oSPJIBAog2e+hValsk4ryh9Ndb+ngnaeyW1ZfOwNwyGo2UdjIcipaeFkldqUqxwD1Ro2OtQpeyd0YthaSYSI8n4wl8pDgu7V13x/WtBzOLcym4Zuak5GGBNJQlRfpxCQQlNKbJKuByCRyeetTRsKNKUhxncbsmKlPH4l1pYJ/NJU2oD+P90Yw5vZEFtCssci+Zj2O7Uz8BpMCM/hnytKkmI6S1Y5Hk0q0qH0B+eudt/bcn4OfLEvNLyC0qL5WtjwJUtRs/Ea7PVXejRppYhe2s64rLSITrSVIFmwEG75N+SVfvrS4OykZnHNSFZOQ025+l6LRr5WEix9NGjW11mBxPT//Z"
-/>
 
 \** [_Hier gehts zu Teil 8 des Artikels_](/2014/11/28/fakepelz-echtpelz/) "Die
 kannst Du doch essen! Sind doch nur Kartoffelchips!" Kartoffelchips mit
@@ -282,9 +274,3 @@ _ **
   [Liste der Zusatzstoffe](http://de.wikipedia.org/wiki/Liste_der_Lebensmittelzusatzstoffe)
 * \[9\]
   [Petition der Verbraucherschutzorganisation Foodwatch](http://www.foodwatch.org/de/informieren/versteckte-tiere/2-minuten-info/)
-
-
-* _Hinweis: In diesem Artikel werden Produkte erwähnt. Daher handelt es sich
-  laut Gesetz um Werbung. Der Inhalt und meine Meinung wurden dadurch nicht
-  beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
-  meiner [Transparenz-Seite](/werbung/). _
