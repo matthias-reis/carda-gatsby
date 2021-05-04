@@ -47,6 +47,7 @@ komplett um mich geschehen. Das Wetter war wunderbar wild mit tollem Wind und
 gelegentlichen starken Schauern.
 
 >"Wind ist erst, wenn die Schafe keine Locken mehr haben"
+>
 >Unbekannt
 
 <Gallery name="flickr/annekiel2015" />
