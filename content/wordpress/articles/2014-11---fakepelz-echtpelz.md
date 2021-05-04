@@ -1,37 +1,38 @@
 ---
-date: 2014-11-28T10:22:16.000Z
+date: 2014-11-28T10:22:16.000+00:00
 slug: fakepelz-echtpelz
-path: /2014/11/fakepelz-echtpelz/
+path: "/2014/11/fakepelz-echtpelz/"
 type: Artikel
 typeName: Artikel
 title: Fakepelz = Echtpelz
 seoTitle: Fakepelz = Echtpelz - warum Veganer auf Tierhaut verzichten
 ogTitle: Fakepelz = Echtpelz - warum Veganer auf Tierhaut verzichten
-description: Über die finsteren Machenschaften der Modeindustrie und warum es
-  sich bei sogenanntem "Fakepelz" in den meisten Fällen um Echtpelz handelt.
-excerpt: Über die finsteren Machenschaften der Modeindustrie und warum es sich
+description: Über die finsteren Machenschaften der Modeindustrie und warum es sich
   bei sogenanntem "Fakepelz" in den meisten Fällen um Echtpelz handelt.
+excerpt: Über die finsteren Machenschaften der Modeindustrie und warum es sich bei
+  sogenanntem "Fakepelz" in den meisten Fällen um Echtpelz handelt.
 fileName: 2014-11---fakepelz-echtpelz.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_tierrechtsdemo-391__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_tierrechtsdemo-391__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQIEB//EACsQAAICAQMCBAUFAAAAAAAAAAECAwQRAAUSEyEGMTJBFCIjYXFRgZGhwf/EABYBAQEBAAAAAAAAAAAAAAAAAAMCAf/EABsRAQACAwEBAAAAAAAAAAAAAAEAEQIDMSFB/9oADAMBAAIRAxEAPwBB8P8Ah2O9at0tyshfiJRZaSuCp5A4CAkk47Zz28tNmzSNe5xSpdiTEiw2GQ9MMpIDMWAJBx7d8HS9ItmcPKVsxLgj6bdPkv3AIzqTb9iK1Uc85rdW18pc9VnWQDGex5YIPb76TFDpCRb9qXEO47w6y0LNGsltgQjrCqKxXzCn9T7Z1HY22rfpSSXlEq5HFTj6RwCVb5iWAPkcD7jW3e2638PNbvySqwYN1GUBkYYAIH7DuBjWZvMsAs9LmztxngJ6eXA9an2JHf8AnUbDK6i66CK1KV5oissjkFiuFPEYyR7DP96s/D0zJut2JCwDQI+eRJBBI/3Ro1ePSHG+2Z7ex3LU7wkRoR0xGQH9XqPLvjtjyx+Nc9NmUSdN5ZWVVCsA3EPjHnj86NGn3dJj9n//2Q==
-ogImage: null
+ogImage: 
 labels:
-  - 10 Fakten über Veganismus
-  - Auszeichungspflicht
-  - Echtpelz
-  - Parka
-  - Parka mit Pelzkragen
-  - Pelz
-  - Pelze
-  - Pelzfarmen
-  - Pelzkragen
-  - Pelzmantel
-  - Pelzmode
-  - Pelztiere
-  - Tierrechte
-  - Tierrechte
-  - Tierschutz
+- 10 Fakten über Veganismus
+- Auszeichungspflicht
+- Echtpelz
+- Parka
+- Parka mit Pelzkragen
+- Pelz
+- Pelze
+- Pelzfarmen
+- Pelzkragen
+- Pelzmantel
+- Pelzmode
+- Pelztiere
+- Tierrechte
+- Tierrechte
+- Tierschutz
+- serie:10 Fakten über Veganismus
 focusKeyword: Fakepelz
 status: publish
 isWerbung: false
@@ -39,9 +40,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: 10 Fakten über Veganismus – Teil VIII
-  
----
+year: "2014"
+month: "11"
 
+---
 ## Die finsteren Machenschaften der Modeindustrie
 
 <RemoteImage alt={`Bitte trage keinen Pelz!`} size="medium"
@@ -301,5 +303,3 @@ mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_tierrechts
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_tierrechtsdemo-391__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQIEB//EACsQAAICAQMCBAUFAAAAAAAAAAECAwQRAAUSEyEGMTJBFCIjYXFRgZGhwf/EABYBAQEBAAAAAAAAAAAAAAAAAAMCAf/EABsRAQACAwEBAAAAAAAAAAAAAAEAEQIDMSFB/9oADAMBAAIRAxEAPwBB8P8Ah2O9at0tyshfiJRZaSuCp5A4CAkk47Zz28tNmzSNe5xSpdiTEiw2GQ9MMpIDMWAJBx7d8HS9ItmcPKVsxLgj6bdPkv3AIzqTb9iK1Uc85rdW18pc9VnWQDGex5YIPb76TFDpCRb9qXEO47w6y0LNGsltgQjrCqKxXzCn9T7Z1HY22rfpSSXlEq5HFTj6RwCVb5iWAPkcD7jW3e2638PNbvySqwYN1GUBkYYAIH7DuBjWZvMsAs9LmztxngJ6eXA9an2JHf8AnUbDK6i66CK1KV5oissjkFiuFPEYyR7DP96s/D0zJut2JCwDQI+eRJBBI/3Ro1ePSHG+2Z7ex3LU7wkRoR0xGQH9XqPLvjtjyx+Nc9NmUSdN5ZWVVCsA3EPjHnj86NGn3dJj9n//2Q=="
 />
-
-  
