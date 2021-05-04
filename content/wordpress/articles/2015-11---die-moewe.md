@@ -27,6 +27,7 @@ labels:
 - Norden
 - Seagulls
 - serie:Möwen
+- serie:Kiel 2015
 focusKeyword: Möwe
 status: publish
 isWerbung: false
@@ -53,27 +54,17 @@ entstanden.
 
 <Gallery name="flickr/annemoewekiel2015" />
 
-_Eine neugierkranke Möwe,_ _kreiste ich zu häupten eines_ _Wesens, das in einen
-weiten_ _dunklen Mantel eingewickelt,_ _von dem Kopfe einer Bune_ _auf die grüne
-See hinaussah._ _Und ich wußte, daß ich selber_ _dieses Wesen sei, und war mir_
-_dennoch selbst so problematisch,_ _wie nur je dem klugen Sinne_ _einer Möwe
-solch ein dunkler_ _Mantelvogel, Mensch geheißen._ _Warum blickt dies große,
-stumme,_ _rätselhafte Tier so ernsthaft_ _auf der Wasser Flucht und Rückkehr?_
-_Lauert es geheimer Beute?_ _Wird es plötzlich aus des Mantels_ _Schoß verborgne
-Schwingen strecken,_ _und mit schwerem Flügelschlag den_ _Schaum der weißen
-Kämme streifen?_ _So und anders fragte rastlos_ _mein beschränktes Möwenhirn
-sich,_ _und in immer frechern Kreisen_ _stieß ich, kläglich schreiend, oder_
-_ärgerlich und höhnisch lachend,_ _um mich selber... Da erhob sich_ _aus dem
-Meere eine Woge..._ _stieg und stieg... Und Mensch und Möwe_ _ward verschlungen
-und begraben._
-
-Christian Morgenstern
-
-Auch am Bosporus sind mir einige Möwenbilder gelungen.
-[Hier findet Ihr sie!](/2010/01/moewen-am-bosporus/)
-
-## Unser Kiel-Besuch - Wegweiser
-
-1.  [Ein Besuch in Kiel](/2015/11/ein-besuch-in-kiel/)
-1.  [Die Möwe](/2015/11/die-moewe/)
-1.  [Noch mehr Kiel](/2015/11/noch-mehr-kiel/)
+>"Eine neugierkranke Möwe, kreiste ich zu häupten eines Wesens, das in einen
+>weiten dunklen Mantel eingewickelt, von dem Kopfe einer Bune auf die grüne
+>See hinaussah. Und ich wußte, daß ich selber dieses Wesen sei, und war mir
+>dennoch selbst so problematisch, wie nur je dem klugen Sinne einer Möwe
+>solch ein dunkler Mantelvogel, Mensch geheißen. Warum blickt dies große,
+>stumme, rätselhafte Tier so ernsthaft auf der Wasser Flucht und Rückkehr?
+>Lauert es geheimer Beute? Wird es plötzlich aus des Mantels Schoß verborgne
+>Schwingen strecken, und mit schwerem Flügelschlag den Schaum der weißen
+>Kämme streifen? So und anders fragte rastlos mein beschränktes Möwenhirn
+>sich, und in immer frechern Kreisen stieß ich, kläglich schreiend, oder
+>ärgerlich und höhnisch lachend, um mich selber... Da erhob sich aus dem
+>Meere eine Woge... stieg und stieg... Und Mensch und Möwe ward verschlungen
+>und begraben."
+>Christian Morgenstern
