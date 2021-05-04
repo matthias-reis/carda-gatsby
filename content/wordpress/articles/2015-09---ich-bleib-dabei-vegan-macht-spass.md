@@ -29,6 +29,7 @@ labels:
 - vegane Ernährung
 - Veganer
 - Veganismus
+- serie:10 Fakten über Veganismus
 focusKeyword: Vegan
 status: publish
 isWerbung: false
@@ -40,12 +41,6 @@ year: "2015"
 month: '09'
 
 ---
-<RemoteImage alt={`Ich bleibe vegan!`} size="medium" title={`Ich bleibe vegan!`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_14783170858_21a50b64ff_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_14783170858_21a50b64ff_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQL/xAAqEAACAQIGAQQABwAAAAAAAAABAgMEEQAFBhIhMUETI1FhByIkQnGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EABsRAQEAAgMBAAAAAAAAAAAAAAEAITEREiJx/9oADAMBAAIRAxEAPwCZ6OqITqyhnq1RQjSsiwjYA/tMOuhccj7+8UnVcW6COYxH9Zm9ROr35b8042fYuRhC02lCdZZVBLLFDTSpKyc7yfaAAt4YlOuLf5ihZtXUtdn+nckFLXSUc6StE42tI8gdi+zrixY8XJ2kWxnsvkomaOaho5Yq2acbVhSVXayFlDDkcDyTfr4wYpusdCZlIIapWWGjdxL6j+ptVQLRhgqmzW2mx5wYAU1UlDQukqSaA1tc0sscIv6X77jm3HIJ+AefOOs1rqmfU1LnAmzlq6Ahkkmy5y8YBumz3SLrZeBbz/GMqPU0+U0EUdFDDUFms4qLnaPnjo+P7xoUusa+VAZNMZa7HgSiSRBcjru3WLYNTxN+bfiLqEUr5rJmFbewDwvN6Qv0G2gcXHgjjBiXapqqnOrtPRJl6xgjZE5Kub983vxYYMZfk3//2Q=="
-/>
-
 \**
 [_Hier gehts zu Teil 9 des Artikels_](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
 Im zehnten und letzten Teil meiner großen Reportage "10 Fakten über Veganismus"
@@ -67,11 +62,10 @@ kennenlernen durfte, die mir ihre Geschichten über das vegan werden erzählten.
 finde, er hat recht. Wir haben beide unser Hobby, das Kochen ganz neu entdeckt,
 probieren tägliche neue Gerichte aus, experimentieren und testen.
 
-<RemoteImage alt={`Johanna Schlitzkus vom Tierhof Amoa`} size="full"
-title={`Johanna Schlitzkus vom Tierhof Amoa`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_johanna__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_johanna__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABwDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABwEFBggCAwT/xAArEAACAQMDAwIFBQAAAAAAAAABAgMEBREAEiEGMUEicQcTFDJRUmFigZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AK1PaI3XJL/7rlktVS8TSxSFI2ztTHIHjJ/OoxVdYXWp6wisNvEMVBUPFGakKRLGGGW9WcDtgHHnUsuNTd6RY1iq6eWKSVYwZIwSODu2kYBHYcj86Bnt88q3EUdfzGeEnXjB8BvftnTlPbk+YctJn30yGO4S3S4NUiOOjSnw7qNr7y6kADJGPT/eohdutb19dIbZLI9Jn0EUW/Az2zjnQBKl6kubVwq/rpTVxkSQuzZxIpyp5/casJL8TLHVdHx3SZ3p5nQPLSxYOZfKg9xz41VYsVdgp+0c++sZHeQHLYP8AEcnQFOX4n36uucMjV7wWmSoWSSihCKjJu+0nGSccZzrfXV6tUFqBqoxsAzFqkrliOThdC+hXZRqCARkkDSyusjlpXnLH9B40H//Z"
+<RemoteImage alt={Ich bleibe vegan!} size="medium" title={Ich bleibe vegan!}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_14783170858_21a50b64ff_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_14783170858_21a50b64ff_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQL/xAAqEAACAQIGAQQABwAAAAAAAAABAgMEEQAFBhIhMUETI1FhByIkQnGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EABsRAQEAAgMBAAAAAAAAAAAAAAEAITEREiJx/9oADAMBAAIRAxEAPwCZ6OqITqyhnq1RQjSsiwjYA/tMOuhccj7+8UnVcW6COYxH9Zm9ROr35b8042fYuRhC02lCdZZVBLLFDTSpKyc7yfaAAt4YlOuLf5ihZtXUtdn+nckFLXSUc6StE42tI8gdi+zrixY8XJ2kWxnsvkomaOaho5Yq2acbVhSVXayFlDDkcDyTfr4wYpusdCZlIIapWWGjdxL6j+ptVQLRhgqmzW2mx5wYAU1UlDQukqSaA1tc0sscIv6X77jm3HIJ+AefOOs1rqmfU1LnAmzlq6Ahkkmy5y8YBumz3SLrZeBbz/GMqPU0+U0EUdFDDUFms4qLnaPnjo+P7xoUusa+VAZNMZa7HgSiSRBcjru3WLYNTxN+bfiLqEUr5rJmFbewDwvN6Qv0G2gcXHgjjBiXapqqnOrtPRJl6xgjZE5Kub983vxYYMZfk3//2Q=="
 />
 
 Wir haben viel über das Thema Tierrechte [<sup>1</sup>](#1) gelernt, haben uns
