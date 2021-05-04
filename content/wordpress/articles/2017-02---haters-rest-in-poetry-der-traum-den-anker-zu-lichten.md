@@ -50,23 +50,22 @@ Beschäftigung geworden.
 Vielleicht ist es mir ja dieses Mal dabei sogar gelungen, ein kleines Bisschen
 Hass in Liebe umzuwandeln. Seht selbst.
 
-## Haters rest in poetry - Der Traum, den Anker zu lichten
-
-Ahoi! Entdecken Sie unsere Anker-Kollektion! Das Geschäft mit der Liebe.
-
-Aber: Hatters wanna hate. Eva ist schuld, denkt er.
-
-Die Knechte gruben eine Gruft und senkten Haters Leiche hinein.
-
-Vom Stall weg, verjagt die Herde. Da liegt mein Kiel jetzt noch vor Anker.
-
-Früher war es nur ein Traum, heute ist es mehr als Liebe. Sich geehrt fühlen und
-erst gegen Mitternacht vor Anker gehen.
-
-See more about glücklich. Seitdem liegt das Schiff verlassen vor Anker.
-
-High Quality Liebe. Doch dabei verfing sich die Kette in ihrer Hand.
-
-Findet Euren Anker. Liebe ist der Anker unseres Lebens.
-
-Statement Ring Haters Hatespeech verklingt.
+>Ahoi! Entdecken Sie unsere Anker-Kollektion! Das Geschäft mit der Liebe.  
+>  
+>Aber: Hatters wanna hate. Eva ist schuld, denkt er.  
+>  
+>Die Knechte gruben eine Gruft und senkten Haters Leiche hinein.  
+>  
+>Vom Stall weg, verjagt die Herde. Da liegt mein Kiel jetzt noch vor Anker.  
+>  
+>Früher war es nur ein Traum, heute ist es mehr als Liebe. Sich geehrt fühlen und erst >  
+>  
+>gegen Mitternacht vor Anker gehen.  
+>  
+>See more about glücklich. Seitdem liegt das Schiff verlassen vor Anker.  
+>  
+>High Quality Liebe. Doch dabei verfing sich die Kette in ihrer Hand.  
+>  
+>Findet Euren Anker. Liebe ist der Anker unseres Lebens.  
+>  
+>Statement Ring Haters Hatespeech verklingt.
