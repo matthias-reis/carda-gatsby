@@ -217,7 +217,7 @@ von Beginn an begeistert. Der Song hier erinnert mich stark an Bands wie die
 späten Katatonia oder The Pineapple Thief. Er kommt aber härter und direkter
 daher. Ich bin gespannt auf das Album. Es erscheint am 24. April."
 
-<YouTube id="jdKfohDIFUI" />
+<YouTube id="U-BnUake2Kw" />
 
 ## Lich King - "Combat Mosh"
 
