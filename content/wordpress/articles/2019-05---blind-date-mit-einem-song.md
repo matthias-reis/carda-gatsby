@@ -72,7 +72,7 @@ geht an den Start - dieses Mal mit dem Klassiker "Papa Was A Rolling Stone" von
 The Temptations.**
 
 Was ein Blogger Blind Date ist? Ganz einfach: Das, was dabei herauskommt, wenn
-inzwischen 16 Blogger\*innen zu einem vorher festgelegten Song frei assoziieren
+inzwischen 16 Blogger*innen zu einem vorher festgelegten Song frei assoziieren
 und dadurch die unterschiedlichsten Geschichten entstehen. Der Clou: Keiner
 weiß, was die anderen schreiben, veröffentlicht wird zur selben Zeit.
 
@@ -106,7 +106,7 @@ sozusagen live dabei bei der Entstehung des Rock 'n' Roll. Ich sage das ohne zu
 übertreiben oder anzugeben. Mich als seine Tochter hat das von Anfang an
 geprägt - mein Interesse für Musik wurde mir sozusagen in die Wiege gelegt.
 
- <YouTube id="rL7cJYSvvi8" />
+<YouTube id="nXiQtD5gcHU" />
 
 ## Musik in der Kindheit
 
@@ -114,7 +114,7 @@ Der Plattenspieler war der Mittelpunkt unseres Wohnzimmers. Rundherum standen
 schränkeweise Schallplatten, Tonbänder und Kassetten mit Aufnahmen der
 verschiedensten Künstler von Greatfull Dead und Ten Years After über John Lee
 Hooker und Joni Mitchel, Canned Heat, Led Zeppelin, Woody Guthrie, Crosbie,
-Stills, Nash &amp; Young, BB King und natürlich
+Stills, Nash & Young, BB King und natürlich
 [Bob Dylan](/2012/08/bob-dylan-stellt-neuen-song-duquesne-whistle-vor/). Neben
 dieser Vielfalt gab es noch ein stattliche Sammlung aus der Jazz-Ecke sowie
 einige klassische Sahnestücke.
@@ -142,7 +142,7 @@ vorstellen. Sie war einfach immer da und umgibt mich wie die Luft zum Atmen. Aus
 diesem Grund ist sie auch zum festen Bestandteil meines Blogs geworden.
 
 Als Teenager fing ich dann an, selbst die musikalische Welt zu entdecken. Von
-den Boybands, die meine Freund\*innen so toll fanden, kam ich schnell wieder
+den Boybands, die meine Freund*innen so toll fanden, kam ich schnell wieder
 ab - sie waren mir schlicht zu langweilig. Vom Grunge kam ich zum Britpop, vom
 Britpop zum Indie. Irgendwann hatte ich zwischezeitlich mal eine Technophase,
 legte aber nach dem Feiern zu Hause sofort wieder Punk, Cross Over und Metal
@@ -201,7 +201,7 @@ Dennoch würde es mich freuen, wenn sich die Menschenheit mehr Toleranz zulegen
 würde. Das Wort bedeutet übrigens, Menschen so sein zu lassen, wie sie sind:
 Groß, klein, bunt, grau, ruhig, laut, in sich gekehrt, genau wie man selbst oder
 anders. Und nein, sie fängt nicht erst dann an, wenn man jemanden unter Druck
-dazu gedrängt hat, zu sagen, warum er\*sie anders ist und gerne mit Rücksicht
+dazu gedrängt hat, zu sagen, warum er*sie anders ist und gerne mit Rücksicht
 behandelt werden möchte. Sie sollte permanent und allgegenwertig sein.
 
 Auf Konzerten fühlt sich das auch gut an, wenn man das Gefühl hat, alle
@@ -229,7 +229,7 @@ Fame aufgenommen, 2003 wurden sie bei den Grammys für Ihr Lebenswerk
 ausgezeichnet. Hier sind sie für Euch mit dem großartigen Song "Papa Was A
 Rolling Stone".
 
-<h4> <YouTube id="nXiQtD5gcHU" /> 
+<h4> <YouTube id="nXiQtD5gcHU" />
 Beim Blogger Blind Date mit einem Song sind dieses Mal dabei:</h4>
 
 [Gartenbaukunst](https://www.gartenbaukunst.net),
@@ -239,7 +239,7 @@ Beim Blogger Blind Date mit einem Song sind dieses Mal dabei:</h4>
 [Rienmakäfer](https://rienmakaefer.com/),  
 [Garteneuphorie](https://www.garteneuphorie.de/),
 [Garteninspektor,](https://www.garteninspektor.com/)
-[Faun &amp; Farn](https://faunundfarn.de/),
+[Faun & Farn](https://faunundfarn.de/),
 [Laubenhausmädchen](https://laubenhausmaedchen.de/),
 [Naturgartenideen](https://www.naturgartenideen.de/),
 [Ein Stück Arbeit](https://einstueckarbeit.de),
