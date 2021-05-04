@@ -99,6 +99,3 @@ fields:
   name: languageLink
   label: Sprachlink
   description: Bitte vollständig angeben (/2021/04/titel)
-pages:
-- content/articles/interview-with-smycka.md
-- content/articles/smycka-im-interview.md
