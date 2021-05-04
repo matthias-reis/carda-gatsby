@@ -44,11 +44,7 @@ ablegte, in die ich gerne so bald wie möglich wieder fahren möchte, war es
 komplett um mich geschehen. Das Wetter war wunderbar wild mit tollem Wind und
 gelegentlichen starken Schauern.
 
-## Bald gibt es noch mehr aus Kiel
-
-Für den nächsten Artikel habe ich dazu noch was ganz Besonderes vorbereitet,
-also stay tuned! &lt;3
+>"Wind ist erst, wenn die Schafe keine Locken mehr haben"
+>Unbekannt
 
 <Gallery name="flickr/annekiel2015" />
-
-"Wind ist erst, wenn die Schafe keine Locken mehr haben" - Unbekannt
