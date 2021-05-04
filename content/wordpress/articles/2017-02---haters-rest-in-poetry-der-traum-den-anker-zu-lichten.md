@@ -4,9 +4,9 @@ slug: haters-rest-in-poetry
 path: "/2017/02/haters-rest-in-poetry/"
 type: Artikel
 typeName: Gedicht
-title: Haters rest in poetry - Der Traum, den Anker zu lichten
-seoTitle: Haters rest in poetry - Der Traum, den Anker zu lichten
-ogTitle: Haters rest in poetry - Der Traum, den Anker zu lichten
+title: Haters Rest in Poetry - Der Traum, den Anker zu lichten
+seoTitle: Haters Rest in Poetry - Der Traum, den Anker zu lichten
+ogTitle: Haters Rest in Poetry - Der Traum, den Anker zu lichten
 description: Haters - Was für ein mächtiges Wort und eigentlich doch kein Wort. Die
   Kunst ist, den Hass in Liebe umzuwandeln, den Anker zu lichten und Poesie zuzulassen.
 excerpt: Haters - Was für ein mächtiges Wort und eigentlich doch kein Wort. Die Kunst
