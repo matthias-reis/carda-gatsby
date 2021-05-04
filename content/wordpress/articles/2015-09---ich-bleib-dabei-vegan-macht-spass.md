@@ -46,7 +46,7 @@ largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_14783170858
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQL/xAAqEAACAQIGAQQABwAAAAAAAAABAgMEEQAFBhIhMUETI1FhByIkQnGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EABsRAQEAAgMBAAAAAAAAAAAAAAEAITEREiJx/9oADAMBAAIRAxEAPwCZ6OqITqyhnq1RQjSsiwjYA/tMOuhccj7+8UnVcW6COYxH9Zm9ROr35b8042fYuRhC02lCdZZVBLLFDTSpKyc7yfaAAt4YlOuLf5ihZtXUtdn+nckFLXSUc6StE42tI8gdi+zrixY8XJ2kWxnsvkomaOaho5Yq2acbVhSVXayFlDDkcDyTfr4wYpusdCZlIIapWWGjdxL6j+ptVQLRhgqmzW2mx5wYAU1UlDQukqSaA1tc0sscIv6X77jm3HIJ+AefOOs1rqmfU1LnAmzlq6Ahkkmy5y8YBumz3SLrZeBbz/GMqPU0+U0EUdFDDUFms4qLnaPnjo+P7xoUusa+VAZNMZa7HgSiSRBcjru3WLYNTxN+bfiLqEUr5rJmFbewDwvN6Qv0G2gcXHgjjBiXapqqnOrtPRJl6xgjZE5Kub983vxYYMZfk3//2Q=="
 />
 
-**
+\**
 [_Hier gehts zu Teil 9 des Artikels_](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
 Im zehnten und letzten Teil meiner großen Reportage "10 Fakten über Veganismus"
 möchte ich Euch heute von meinen Erfahrungen und Begegnungen berichten.**
@@ -128,7 +128,7 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 />
 
 Und nicht nur hier in meinem persönlichen Blog sind Interviews mit tollen
-Veganer\*innen erschienen. Auch im Welt Vegan Magazin [<sup>10</sup>](#10) und
+Veganer*innen erschienen. Auch im Welt Vegan Magazin [<sup>10</sup>](#10) und
 bei Vegan News [<sup>11</sup>](#11) gibt/gab es einiges zu lesen. Christiane
 [<sup>12</sup>](#12), die Gründerin der ersten komplett veganen Unterkunft in
 Hamburg, Thomas [<sup>13</sup>](#13), der Tierrechtsaktivist, Enrico
@@ -202,11 +202,11 @@ Radikalismus hat das alles nichts zu tun und ich hatte damit sowieso noch nie
 was am Hut. Wenn es nach mir geht, können wir es gerne ab heute auch anders
 nennen. Es ist und bleibt
 
-1.  gut für die Umwelt,
-1.  gut für die Tiere
-1.  gesund
-1.  ungefährlich und
-1.  macht gute Laune
+1. gut für die Umwelt,
+2. gut für die Tiere
+3. gesund
+4. ungefährlich und
+5. macht gute Laune
 
 So, Schluss mit der Lobhudelei, ich muss kochen, heute gibt es was wirklich
 Leckeres! Wir lesen uns ganz sicher! Wer im Gegensatz zu mir noch nicht weiß,
@@ -214,57 +214,44 @@ was er/sie heute Abend auf den Tisch bringen könnte:
 [Hier geht's zu meinen Rezepten](/category/vegan/vegane-rezepte/).
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Das-Vegan-Sneaker-Connection-Team__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Das-Vegan-Sneaker-Connection-Team__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Sandra-Umann__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Sandra-Umann__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_1016809_626965250655757_993245008_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_1016809_626965250655757_993245008_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_IMG-20140828-WA0005__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_IMG-20140828-WA0005__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Kathrin-Eva-Schmid-vom-Tierschutztheater1-e1441814170282__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Kathrin-Eva-Schmid-vom-Tierschutztheater1-e1441814170282__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Anhang-7__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Anhang-7__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_07_website__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_07_website__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Anja-Umann__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Anja-Umann__l.jpg"}]}
+images={\[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Das-Vegan-Sneaker-Connection-Team__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Das-Vegan-Sneaker-Connection-Team__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Sandra-Umann__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Sandra-Umann__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_1016809_626965250655757_993245008_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_1016809_626965250655757_993245008_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_IMG-20140828-WA0005__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_IMG-20140828-WA0005__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Kathrin-Eva-Schmid-vom-Tierschutztheater1-e1441814170282__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Kathrin-Eva-Schmid-vom-Tierschutztheater1-e1441814170282__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Anhang-7__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Anhang-7__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_07_website__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_07_website__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Anja-Umann__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Anja-Umann__l.jpg"}\]}
 />
 
 ## Fußnoten
 
-- [1] [Tierrechte](/2014/08/blutige-zahlen/)
-- [2]
+* \[1\] [Tierrechte](/2014/08/blutige-zahlen/)
+* \[2\]
   [Ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
-- [3] [Honig](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
-- [4] [Die Wahrheit über Milch](/2014/09/pflanzenmilch-wieso-denn-blos/)
-- [5]
+* \[3\] [Honig](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+* \[4\] [Die Wahrheit über Milch](/2014/09/pflanzenmilch-wieso-denn-blos/)
+* \[5\]
   [Johanna im Interview](/2014/08/der-schutz-und-die-rechte-der-tiere-stehen-an-erster-stelle/)
-- [6] [Sebastian im Interview](/2015/01/ich-hatte-noch-nie-heimweh/)
-- [7] [Denise im Interview](/2015/04/vegane-haekelmuetzen-mit-statement/)
-- [8] [Margit im Interview](/2015/02/veganer-sind-unglaublich-kreativ/)
-- [9] [Petra im Interview](/2015/08/interview-mit-petra-mazur-von-ethice/)
-- [10]
+* \[6\] [Sebastian im Interview](/2015/01/ich-hatte-noch-nie-heimweh/)
+* \[7\] [Denise im Interview](/2015/04/vegane-haekelmuetzen-mit-statement/)
+* \[8\] [Margit im Interview](/2015/02/veganer-sind-unglaublich-kreativ/)
+* \[9\] [Petra im Interview](/2015/08/interview-mit-petra-mazur-von-ethice/)
+* \[10\]
   [Mein erster Artikel im Welt Vegan Magazin](/2015/04/mein-erster-artikel-im-welt-vegan-magazin/)
-- [11] Archiv meiner Artikel bei Vegan News (stillgelegt,
+* \[11\] Archiv meiner Artikel bei Vegan News (stillgelegt,
   [Artikel sind in meinem Blog umgezogen]() )
-- [12] Christiane im Interview
-- [13]
+* \[12\] Christiane im Interview
+* \[13\]
   [Thomas vom Volksverpetzer im Interview](/2014/10/thomas-laschyk-volksverpetzer/)
-- [14] Enrico im Interview
-- [15]
+* \[14\] Enrico im Interview
+* \[15\]
   [Interview mit Matteo von Vegan Travel Sardinia](/2015/04/vegane-strandhaeuser-auf-sardinien/)
-- [16]
+* \[16\]
   [Interview mit der Leiterin des Tierschutztheaters](/2019/09/kathrin-eva-schmid-vom-tierschutztheater-im-interview/)
-- [17]
+* \[17\]
   [Rainer von der Vegan Sneaker Connection im Interview](/2014/12/rainer-von-der-vegan-sneaker-connection-im-interview/)
-- [18] Interview mit den Modeschöpfern von Umasan
-- [19]
+* \[18\] Interview mit den Modeschöpfern von Umasan
+* \[19\]
   [Dr. Hanno Platz im Interview](/2019/06/veganer-arzt-interview-dr-hanno-platz/)
-- [20]
+* \[20\]
   [Interview mit Dr. Barbara Gorißen](/2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/)
-- [21]
+* \[21\]
   [Tolle neue Sachen: Wolkenseifen](/2014/08/himmlische-dufte-ganz-ohne-plastik/)
-- [22]
+* \[22\]
   [Artikel über Leder aus aussortierten Früchten](/2019/06/fruitleather-rotterdam/)
-
-## Inhaltsverzeichnis "10 Fakten über Veganismus"
-
-1.  [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
-1.  [Ich war so müde](/2014/08/ich-war-so-muede/) !
-1.  [Blutige Zahlen](/2014/08/blutige-zahlen/)
-1.  [Vitamin B12 - Mythos und Fakten](/2014/08/vitamin-b12-mythos-und-wahrheit/)
-1.  [Pflanzenmilch? Wieso denn bloß?](/2014/09/pflanzenmilch-wieso-denn-blos/)
-1.  [Wolle? Das kann doch gar nicht so schlimm sein!](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
-1.  [Honig? Das ist jetzt aber wirklich übertrieben, oder?](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
-1.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
-1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
-1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
