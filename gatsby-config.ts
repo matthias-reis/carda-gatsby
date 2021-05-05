@@ -10,6 +10,9 @@ export default {
     siteUrl: `https://cardamonchai.amreis.de`,
     // siteUrl: `https://cardamonchai.com`,
   },
+  flags: {
+    DEV_SSR: false,
+  },
   plugins: [
     {
       resolve: `gatsby-plugin-typescript`,
