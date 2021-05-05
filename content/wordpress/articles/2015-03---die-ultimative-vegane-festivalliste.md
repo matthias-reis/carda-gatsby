@@ -63,7 +63,7 @@ Inzwischen hat fast jedes Festival eine eigene App mit dem Spielplan und noch an
 <RemoteImage
   alt={`Nicht vergessen: Die Tickets`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/sets) Nicht vergessen: Die Tickets`}
+  title={`Nicht vergessen: Die Tickets`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14725191205_35f327d6cb_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14725191205_35f327d6cb_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABgcCBAX/xAApEAACAQIFAwQCAwAAAAAAAAABAgMEEQAFBhIhIjFRE0FhcRUyobHh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgUAAQT/xAAlEQABAgUDBAMAAAAAAAAAAAABAhEAAwQhMRJRgSJBodFh8PH/2gAMAwEAAhEDEQA/ABWkMoSVh0M5H7bULW+eBimUMOWvMTHKG3MAAI2+PjAnSefT5WJkQLILttLhukBvog4T5bqGrgqxWFkO1rtEEdQQLEDtcffzhMQkku9vPqHCZtKArU9vzaM82yujFQ6yHa+4kh0IPPbi3jADV2UwpHvClQ69JKEBvrjFAzbUlZmNVvDRxFT0hY25IIFr2F+/YecE9Y6hqK+nSIoiIoUFgjEkXte57X+cFLAGnN/HuBXPpSEs9/u0GspmrjOsNPTtM8repGqDezBiSBYH+MKWizilWSaronglUqWinXYdriysFPt0HnE8yfUlYkVGphp3anI2BlUjxzzz/mE0OtM2SaoZI6GKKaFYmSKNFDKL/sOfJxoUJCQXzxEQikLkpWXzjcG3HxHceg1BNDTyy5fLBSy2WGeQbY2ZrMvUD7gYI5r+YroZngo2eIW9RlC2XsfPHGNio1bm8cNNHActiNMySK4gi9Sy9uoJe/m55wUzrVGYSSVBMlOzynrLxI7E2tflP698GkU6lAIduIqZKpAnpSpxh237x//Z"

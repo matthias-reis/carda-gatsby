@@ -276,7 +276,7 @@ Ich wünsche Euch viel Spaß beim Nähen!
 <RemoteImage
   alt={`Die Maße`}
   size="medium"
-  title={`[ ](/wp-content/uploads/2015/09/Körnerkissen-8.jpg) Die Maße`}
+  title={`Die Maße`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-8__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-8__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAUGBwgBAwT/xAApEAABAwMCBgICAwAAAAAAAAABAgMEBQYRACEHEjFBUWETIhSBMlJx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQDBQb/xAAdEQEAAgIDAQEAAAAAAAAAAAABAAIDMQQSIRMi/9oADAMBAAIRAxEAPwBocOOHkm6Sl1Thh05r6qkBOVKX/VA747k7DPc6sDQOHtApEFPJTo0iUlGFSJDYcWo+d8gfoDSdYc+lx7YjOw3G0UyPH5wsHIShIySffXPvOt1Euqo3tDmsW861RHo4CgqUgPOPJOcFIGyB5OFEZGs92F9l9csH51MXjZ1jkhubHjQJrqeZswz8SyM4yAPqRnyNQbcNt0qjtVP8tM2chaVNwpLCVMpbdST/ADCh9gfQxtt12niq3lVLREGHU3Wa5IW38jzjbZjuNJ2GNsgk7kZCTtv11zcXK7Sk2M65KAmNVFoCK3nBWojmSvPbl65/XfUg0V67INfoB20yp9vXpU4dHqFLbUDDmN8jiCTtuCSnwTjB04LcrkyNJalQ3XI0hByhxpZSpJ/3Ro0zycVT0IPGyWttiw/V5DgWt1S3HVnnWtThKlKPUk99INdq8uVHZbfeccbjNlplKlbNpyTgesk6NGlcVQfIxlspP//Z"

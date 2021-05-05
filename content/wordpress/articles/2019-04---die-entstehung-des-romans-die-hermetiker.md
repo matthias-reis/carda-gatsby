@@ -205,7 +205,7 @@ LG, Matze
 <RemoteImage
   alt={`die-hermetiker`}
   size="large"
-  title={`[ ](https://amreis.de/ha128) Die Hermetiker`}
+  title={`Die Hermetiker`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-22__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-22__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBAIDBv/EACgQAAIBAwMEAgEFAAAAAAAAAAECAwAEEQUSIRMiMUFRgRQVMnGRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAP/EAB0RAAICAgMBAAAAAAAAAAAAAAECABEDIRIxYZH/2gAMAwEAAhEDEQA/AOHXRZp3gbUIYtqKIgXcyOduSeFwPZ8mr2k2mm/lRL0LBwo60keO5o1I3DIzjjPutAikvJ5HAlub2Ub3Mio25FGT6HcO36pZq19eae0NxabWuUfdmJtxXg+fXOSKlgxOQCx18E3H2M7uWxWaeSC0hjYyMApjAMfcQF3fOCD90h1ZukJAbYKc55U81f0GeO701rq5Ml1IZlHUuT1nDAcIwY7SoAABP8Vn+mLcQ3bSoY1EvYqvhf2jJC+Oc4JHxV3RQaWJlZRdRPcG3FozQlhLEhfc5OJRxxgePGaZ20V1cqgmlQxE5EaoFT6Ucf3miimEHUAYgajDRYYrW3uZHQo0s7uFcc49f5UahfqEO0AfOKKKSiosrWZ//9k="

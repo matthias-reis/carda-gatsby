@@ -57,7 +57,7 @@ Auf den Gehsteigen, auf der Straße, im Supermarkt, auf dem Teppich und in den H
 <RemoteImage
   alt={`Überall liegt Rollsplit`}
   size="medium"
-  title={`[ ](/wp-content/uploads/2011/04/16282996591_cd8d21c6a1_o.jpg) Überall liegt Rollsplit`}
+  title={`Überall liegt Rollsplit`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_04_16282996591_cd8d21c6a1_o-e1582812580559__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_04_16282996591_cd8d21c6a1_o-e1582812580559__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACwQAAEDAwMCBQMFAAAAAAAAAAECAwQABhEFEiETMRQiQUJhFnGBMkNRcpH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQT/xAAcEQEAAgMAAwAAAAAAAAAAAAABAAIDERIhQVH/2gAMAwEAAhEDEQA/AIctbKJTghupdj7j017Bkj07052DbmqXHrKImnxlPulJyVowlkHguKOMJ+D/AJzWpa2i6RcctCdVkoTufcW6ttzphI6KNuEhI9+4cdsfk2uI9Bs2Ahu24UCK46gIdlqQtzrAHynOeTySc454q5MwGvc1WsngjZYdgaZajCHDiZqRHmkuDO34QPaPnuacQgJO4J+M4qD6jdFzywpKLkcjoUohPhmWEcAevBUM/fisFfgpMRH1Zq13ajKJUVCJM3N7c8cDtWbo+wHFazuzJlbuI0hKsAqJznGKsGiawDEDLyUutKGFIV2NFFPmNx7TP1u309MydIeBbP7TvKM98Z/Ug/bI/ik2VNeiOCNKcfhv58qHyHW1f1J7/g0UUVDp0yVWf//Z"

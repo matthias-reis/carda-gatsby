@@ -67,7 +67,7 @@ Vegan ist ein Prozess. Zu Beginn meiner Serie "Zehn Fakten über Veganismus" tru
 <RemoteImage
   alt={`Glückliche Schafe?`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Glückliche Schafe?`}
+  title={`Glückliche Schafe?`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501753853_8ce53b76af_b__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501753853_8ce53b76af_b__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAYHBf/EACcQAAEDBAEEAgIDAAAAAAAAAAECAwQABREhQQYSEzEikUKxYXGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBf/EABoRAQEBAAMBAAAAAAAAAAAAAAEAAgMRMRL/2gAMAwEAAhEDEQA/AJzLweT83CE49Akfqnnl3GW00mxC3vuv6b8zqxo4Gcflv+sVmcCbeLjckQITMiS8rIWwhQbPGTkHQB5zoe81okSzXRp9T0q7WhLyWyAyta8BXOVY1jGNe9+6bXKUs4Z+Eze4sCQ5cmWJEsFQbbiskJyOCrfs84rLupeoermZT6JbS7clICinwpASk+sKOc75z9VYeoL3MsS0x3GThwqJCHC4FFJGT3cpII37qvdWz5FxsLM6E46iKtfifj/nsaI57cgg/wA4qJyr0NRwHk7Z7qILpcjpUw4U+JTjeO4pI2M4+6R2XHdWnxxVKKc/Jwd2+f8AaKKzHT5D6eqM/LeXtbbXbrnX0fqubJceBykJCU7AST+qKKOWUb//2Q=="
@@ -86,7 +86,7 @@ Die Devise war also auch bisher schon: Finger weg von Wolle. Nur achte ich eben 
 <RemoteImage
   alt={`Schafe`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Schafe.`}
+  title={`Schafe.`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11354273536_d4beb822f5_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11354273536_d4beb822f5_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwUE/8QAKhAAAQQBAwMDAwUAAAAAAAAAAQIDBBEABRIhBhMxIkFxFJGhQ1FhgfD/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMSMVH/2gAMAwEAAhEDEQA/AF9LpBJVvSnjzf5xj07SYytNjS1xdQmy5QtLMNCgplNeVgoP3uuRV+cV0ymP1ZD44om9vv8AGaGl6qtuV3Ibz5XQQaX6eBSVK+L2gZncLXbKExjeMY+lOl35UkCZo8luM44lPdlp7KG03ajSqUSQAPSPc5Zr/TulaPEkHdImPb9p31HDFg7SEi+4DRqjxX85ls9cSp0oMFLqXO1ZHkgmvf8A3jFjUtenzIbIecU2w9b5QVbyg3XP7cJBrxyT75RSmY+h1koglpJUnb6QB8n75Rqrn0KohZ3WpVnmgTV3QwwyKfRCRzI1siMsIjNhK0JJSTYok8fjJuPKdgNyUU0e2VFKRxQPj+8MMawj/9k="
@@ -115,7 +115,7 @@ Kaschmir, Angora, Mohair, Schurwolle, Alpakawolle, Merinowolle, all das waren Be
 <RemoteImage
   alt={`Schafe am Wegesrand`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Schafe am Wegesrand.`}
+  title={`Schafe am Wegesrand.`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14259833145_d42874d205_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14259833145_d42874d205_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAArEAACAQMDAwMCBwAAAAAAAAABAgMEBREABiESEzFRYXEUIiQzQUKBobH/xAAXAQEAAwAAAAAAAAAAAAAAAAADAQQF/8QAIREAAQQBAwUAAAAAAAAAAAAAAQACAxESEyExQWGh4fD/2gAMAwEAAhEDEQA/AMopKqBHZq6WeKQSdsRKvSWIPqeQM/r7e+rjbUctNeWWlZEkDjpPcI7itzkn+ePTGuhdvbfmFKbxVmsMtQtPBJbqYlgGbj75CCFwpIOP9xq/s9v2pZrULraKeorK2FEJjmLSTgFwORwPDcjHBPJ41liLMWDX3ZDg4qEuGz77XRUSphRTySuiGdZUi6z5ABJPx7edIL7si5N3ZpvpYyCuVkfyFXpUcD0GdbXWbnaalmitNoovxEYamlq1IiQup/M48qxC/wB41PU9+3pJa6mpulstgDxs6BGWUZBKhcADjH3DOTjHxp2wSkbO8e1OkB1S8Xit3g8Us9DRipjh6Y+pRkqP2+wBPHpnVDt2wrbpJa2uhemqGz2limUqucZ+0Y4POQc50aNNDCy8zyUh5tURrqanpUgi6UgUYWPOc/PqffSStusYDFcL8ADRo1daEbiv/9k="
@@ -140,7 +140,7 @@ Bis zum Beginn der Bronzezeit verwendeten Menschen ausschließlich Pflanzenfaser
 <RemoteImage
   alt={`Schaf`}
   size="thumbnail"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Schaf.`}
+  title={`Schaf.`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_13873616033_2496f567af_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_13873616033_2496f567af_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKxAAAgEDAwMDAgcAAAAAAAAAAQIDBAURABIhBjFhE0FRFCJCcYGRodHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAGhEBAAMBAQEAAAAAAAAAAAAAAQACERJBkf/aAAwDAQACEQMRAD8Aw1taFqhlaKaNNowGUsGPIx28fxp7vodqRyxpyNpPIHjn/e2oaOeOktzV1XNU01BEFDsq73dnJ2AAnJxgk47Z/TWtt9vprhRiQXmhEKv6ZxveTcPZgAAD5zrA1GWa4azmF7nFJHJ6SLhmxtbkHHH5dtGtT1NZKulLrLIjxKOGBJckj4YA4xj50aqVrDzsp9M3i2zWyuoLjbjXR1SRmNthPpshyBg4G0555/fVaz3WSz3Kpr6CjMKqyj6WYCcMpH3OD7N8DydIqSalj9JKgfcy43R5YjyOOO+nr11Dt2bcqVADMCCnHcHgE/3otT7H0sQdT9QdQXWsklWiqVIbCkqABx+H59tGrtxuaDckElftOVAUIVYeM849tGqFsMyFN9n/2Q=="
@@ -159,7 +159,7 @@ Ein Schafscherer bekommt pro Schafschur ca. 3 Euro plus Fahrt- und Transportkost
 <RemoteImage
   alt={`Wenn ihre Zuchtleistung nachgelassen hat, wird sie ihren Kindern in den Tod folgen`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Wenn ihre Zuchtleistung nachgelassen hat, wird sie ihren Kindern in den Tod folgen.`}
+  title={`Wenn ihre Zuchtleistung nachgelassen hat, wird sie ihren Kindern in den Tod folgen.`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501550486_c0fb2d0090_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501550486_c0fb2d0090_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBgIEB//EACkQAAEDAwMDBAIDAAAAAAAAAAECAwQABRESEzEGByEUQVFxIjJhkbH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAMEBf/EABwRAAICAwEBAAAAAAAAAAAAAAABAiEDERITMf/aAAwDAQACEQMRAD8AVWuMJkluPHiMF1fgKI04+znAFXcdubntbnrrZ5OMBaz/AInmuUXe8+kjlyM4FSm1tr20rB8JIKhg8fjn4p71B3amWWfDRbob7cTbbKlyiSl1WNSkjHBGQP7rg4sXasug9q2Wi59ETLe7DbemwUKlSEsNErVkLUQASNOQP5qqXOC/DmSYkoMKdYcW0spVqTqSog4P2OaRdwO7DnUkOM2mGmO8y6ZG6peog4xpA+Pfz74rLpqTKuNnYlypBddeKllS1g4GogDjHtSy4fOCkGel8N0RbdL1CTGaW4UFOpYzqB5HjHipLjboktwl6OhzcCUrTj9tKQkHP0kCiisvUlWyNUKX7HbWUoWYIUQMg+cpGc81PGZYiQ2o8JvbZSk6QTwDk5PzRRTcpNWwpUf/2Q=="
@@ -178,7 +178,7 @@ Die Schafzucht für Wolle rechnet sich lediglich für sehr große Zuchtbetriebe 
 <RemoteImage
   alt={`Merinoschaf`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Merinoschaf.`}
+  title={`Merinoschaf.`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501556376_ce12a81f12_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501556376_ce12a81f12_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBAUHBv/EACgQAAIBAwQBAwQDAAAAAAAAAAECAwQFEQASITEGFCJBBxNRYRWBkf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQQF/8QAGxEAAwEBAAMAAAAAAAAAAAAAAAECESEDIjH/2gAMAwEAAhEDEQA/AIngNst5r/X36T7EFDLHKw35UHBLO6EYZAqnj8gaW7+QwXzy6CWSoart4WTZHTlFZYpMBdxI9zBSSA3R+M6kWOqp6r6fX6VJX9W4idCnBdF3Y/rJORrnq6a3fy87WoQpEFVS6A44Ubjk/OcnWd463jQxL100OPxjw1YFeGvuswX3tFJPHuK55GAhP+azvzOwUkN0SqtFXVemOA0VVThgg7AABGRgYzxp8l1DssayAsirucjG7THlWulcSzSZAU7i3Y6C/oDTKmVOoFvhXWOrEEs1NBIYYWXLxM2FwRgbSPzjOi5W9oo41pqmRZWw26SPI3c5GB0AMc/OdGjVOdT0FfCiWgucNznWWpjkLbQz8gDsHjHfHX71PpXmp1qHijkneduCcAoo6wNGjTnbc9IP/9k="
@@ -205,7 +205,7 @@ In Deutschland leben die meisten Schafe in Bayern, Baden-Württhemberg und Schle
 <RemoteImage
   alt={`Schafe am Glastonbury Tor`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Schafe am Glastonbury Tor.`}
+  title={`Schafe am Glastonbury Tor.`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11354464146_bb430f9a5c_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11354464146_bb430f9a5c_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcBBgMEBQj/xAAmEAABBAEDBAIDAQAAAAAAAAABAgMEEQAFEiEGEzFBByJSYXGB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAMBBAb/xAAeEQACAgICAwAAAAAAAAAAAAABAgADBBEhkQUiMf/aAAwDAQACEQMRAD8AeZ16KtS09z6gcbhxkwepNOD3benw0uE7QhbyUm6uqxS/IGuQ3epOn5WjSO7FjylvyhxsApIAKfCvZA5HGcHWH+n9X6k1TU9SiuBl9DYZYguKZ2mvstRA5UaSKquSfOIsyUX1BHclRsbM9AavMiT4xQ0lqZtIK9iwpLZri68ZWI+nMA8sLNfmrE8xNgaYqU/oTWqNrWgpjuKfPcYdCr3LNAOIN1RGXaH8hwmoQ3xJUl5DYShLywlpShVFW036PH7x2P5OpFKu2u4i6ksQVEWDkp4ObUKAJuyRfjNhpTxiBxxwEnghIKf94OGGZR+AJaH2YkTHEBtQHKvYJvJEjuG9tf03hhhrmAn/2Q=="
@@ -226,6 +226,7 @@ Häufig kommt es auch zu Tritten und Schlägen mit den Schermaschinen.
 Im größten Wollexportland der Welt Australien (75 Millionen Schafe) wird bei der Schafschur besonders kaltblütig vorgegangen. Videos zeigen, wie sich die Scherer auf den Hals der Tiere stellen, ihnen ins Gesicht schlagen und sie stark verletzen.
 
 {' '}
+
 <YouTube id="OKNGyUG6XB0?rel=0" />
 
 Merinoschafe wurden faltig gezüchtet, um noch mehr Wolle zu gewinnen. Durch die Massen an Wolle sterben diese Tiere in den Sommermonaten oft an Überhitzung.
@@ -277,7 +278,7 @@ Wenn ihnen das Fell entfernt wird, werden sie mit Schnüren an Bretter gebunden,
 <RemoteImage
   alt={`Schafe auf der Weide in Cornwall`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Schafe auf der Weide in Cornwall.`}
+  title={`Schafe auf der Weide in Cornwall.`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501524574_3c0c341e5c_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501524574_3c0c341e5c_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYEBQf/xAArEAACAgEEAQEGBwAAAAAAAAABAgMEEQAFEiEGFBMxQVFhoQcVIjJSgdH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQIF/8QAHBEAAgICAwAAAAAAAAAAAAAAAAECEQMSIjFB/9oADAMBAAIRAxEAPwBI8K8dt7/ucfs1AoxsvqHZih4k9gH+RGcDTxBsm3+ORNZ3WnWj4zcVtSMJUAY4A7yFPw/3S5+G2+RbTVu1rbFXlkEkYPTEYwcfbT9Zlq7ptV6JnikgnruJA3Z44wGOB13/AFrkKh8SVbGZ7onjlmTdJ4vVYdwtc1k4qoxh392CC2B8Osn5aR7sCtx5s/POSh9+tK8M23aJNjvzbrYtPNFC7PXaQxosJI5djsklB0CMdfPVF5dfpSV69WlT9NX4ifCIV6P7cn3nrvv6a15YUltyFy16aSAo54KxGBE36hjPWpdTcrVWu0NO1LBHJD7Fo2OeQwASfqcZ+neNGjR20uw0yc2+WPyoUJ0MtM13rvCrkcuT81kBHYZWx38QMHOdUW4TTzObEhX2zoqFuGMKqhR9gNGjVi3RT//Z"

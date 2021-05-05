@@ -77,7 +77,7 @@ Selbstverständlich möchte ich niemandem so etwas unterstellen. Noch weniger m�
 <RemoteImage
   alt={`ökologischer Fußabdruck`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Vegane Zone`}
+  title={`Vegane Zone`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_kc3bchlschrank__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_kc3bchlschrank__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQj/xAApEAABAwMDAwQDAQEAAAAAAAABAgMEBQYRABIhEzFBByJRYRQjcRUy/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACERAAEDBAIDAQAAAAAAAAAAAAEAAhEDBCExEkETYZGx/9oADAMBAAIRAxEAPwBKbZqFMU31TUXql+Wpgrelun9g7JSgEYUnv3OQe2hUW4zX6PV57j0iIIkdGwlorbdQp3YHMk8ds5+xn511bXaNb1NpjlQeodNcEdJQAptKcJWr3cnjknPyfnUxpF826YgVHs6DGZjRJCumBtCEJCEqQPaUq3JIGO/GNZatQM2Y+qggCSqdLjSFvMrQ+UICfc2CRvJQE8/zvpNtm4YtxTawmAdzNNmfhl3cSHSEpUogcYGcjznGfOsSo1+iV2mRLzlz36BJiR5kSFClPpQlxSAQCU+TkjgfWgvSy6acLWjybgrVJZq9Qc6imEu7SkYCEJ2nJzhOcffjTeXG07LUvHINJ77T56w3PSIdrVWkTguQ8+ylCm0D/ncoEEnk5GM8A4xnUxVS310WtraqzaFQ2gmTHqEsIXHb3HOQls84GwHJyTnjxXL/ALOh3VGVvUWZgaLQcA5IJHnuOAR95xqZXV6d3carIRbT9Nj0aQ6l19LjuHHSkpIByk9toHfHJ1GrTe50jSu9tDgwtmcylP02TGcs6lGv08vUuLMmoll1hSmWR1WVHqKAO0YB58kac/8AbtKdXWpdTdtyS6y2uOnpskrbSSQkJXj3Z3cH77ngjTdjQqfQJFsVRMgCVGUZTsVKclat7qj3PJCcAn4Gkp+yrfizEvqVcSENojykcMK6nUX+tJAGRnHz/fGkN1BgR73hD7S5eGmmzED96+r/2Q=="
@@ -94,7 +94,7 @@ Aus lediglich zwei Prozent des angebauten Soja werden tatsächlich Lebensmittel
 <RemoteImage
   alt={`ökologischer Fußabdruck`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Biosojamilch`}
+  title={`Biosojamilch`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_biosojamilch-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_biosojamilch-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKBAAAgICAQQBBAIDAAAAAAAAAQIDBAUREgAGITETBxUiYRRRQUJi/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUCAwb/xAAnEQABAwIDCAMAAAAAAAAAAAABAgMRACEEEkEFEzFRcZHB8GGB4f/aAAwDAQACEQMRAD8AaP1Gu1lqY6mk6fyfuuPZ4xKocRtYEfLjvlrbe9a2PfXPWM7g7hXDywz5PJRzWqV+CGVr5b5bFZlkDBD5jAQFdjfInzrpz5XDfLFam7iSuuX+4tHDajjUWHrRWfmgXkB58BfHvXU1FgrvYu47tqsLtjbT2LMAT5Pewxb/ABonwNDyf76xOMxTbb6kKRmIjS3A69TP1zghg2sZM2aONJGzPFf7oisWnt2beXyEEXImQrZoW63F0XX4ajbeh7BB/rps9idq5hfpvjLZuzy5i3LLbyEj2GV53LfGh5/8ogAB8eSffUSbuiquSgxVtoYcskZWnVoTGFXTkDrZPx7971+Wtge/LJ7Ly1S1200MTgvRnkqyjWtHfMeP2rqercBi96tTRQUjKInUC1vi/fpUnUJcaDiVTJ7exrS1+p+DgxeToWcUMhLdvhzanmuvK3GLh8ZDOTx0WPrXVS8UYqB53inlfysLSsxl1/oHY8QxG9fvo6OlW0nCp/3l+USzg2lytV6pJ1xNi4sxwj8YVZorVkFCrDRAEfgA715HWTh7+zXZGayVqhVF/GWxGLiSc+MbqW4EOp0rFTrZ2CB+ujo6bbITL5QbiIuT72oZ1AaZhPjwBX//2Q=="
@@ -115,7 +115,7 @@ Aus den entölten "Abfallprodukten" der Sojaölproduktion können sehr gut zum B
 <RemoteImage
   alt={`ökologischer Fußabdruck`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Kühe im Regenwald`}
+  title={`Kühe im Regenwald`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_regenwaldkc3bche-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_regenwaldkc3bche-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGBAcI/8QAJxAAAgEDAwMEAwEAAAAAAAAAAQIDBAURABIhBjFBExRRcSJhkqH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQAC/8QAHhEBAAICAQUAAAAAAAAAAAAAAQACAxEhEzEyYbH/2gAMAwEAAhEDEQA/AOfrFSe7rY6WGrjgqZJBTqssRIYN5yRgdu3f486v6HpMC3brhPBFK7bkenn9R0fGAxULwMheM+cg6X2KandBJRwQ1pLLhagBSCfGCMc/edO6C1srRz1uYokBkMksvESBgQoxw3A7/vtoblreM2PpO3Ic+pg3ywRDpyOvuHrpFUVphkqIl3MpDDP4sQSe55I7c6Q9SWekoH9rDeaerhRVMFR6DoHDDkPjIRhxzyDnIPfW0bPXWeusFNQ3CKhP5eorVELAO7Y3YdSNu7avxzg6nesKKxoKgS0L0UiMQiiR+Psg+RjOdclnbUPkO+LIIhxJHpamkln3QTmFow5yBnO1c/Pfjv41T23qeso4xC6R1FOUO6OYZBO0YP6xnjRo06Fu8SwJzFd+nStZI4IvZcZ2wMQn8n61KXq5VrSRwz1U0oVAMs3wDj/DjRo1NG2QUNT/2Q=="
@@ -134,7 +134,7 @@ Betrachtet man die Klimaschädlichkeit der verschiedenen Ernährungsweisen pro K
 <RemoteImage
   alt={`ökologischer Fußabdruck`}
   size="large"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Schaubild: Veggie Times April 2014`}
+  title={`Schaubild: Veggie Times April 2014`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_schaubild-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_schaubild-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBQEECP/EACoQAAIBBAAEBQQDAAAAAAAAAAECAwAEBREGEiFBByIxUpETUWHShJLB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIEBf/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMEYRHBElGR/9oADAMBAAIRAxEAPwDo3K3SRXjI+WFpqIOUManQ3rm2Qe/TVZT67yAjJTFSPRbYfrVbxhmbHFAvkrwW0AVQd25n8xPl8oBJ9D1H53S4PEbAgjXEcwI7nEz/AOLWc+TYlhBXkaK9sJQmHkWjyrrZhoEx4Ec6kc1/dt/EH6VsWcMysJJLyaVQCOWSFU2fv6A0nW3iRwxuJWztw8nRTvH3AVj/AE6Uw4ri3C5e+Fnj7t5bgqzhTbyINLrZ2ygdx3qxLVYevnRMZ8LJrHL1sBsGXLEhOhNQ529x+aKKeTQ529x+ampJYAkkUUUQM//Z"
@@ -143,7 +143,7 @@ Betrachtet man die Klimaschädlichkeit der verschiedenen Ernährungsweisen pro K
 <RemoteImage
   alt={`ökologischer Fußabdruck`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Rinder stoßen Methan aus`}
+  title={`Rinder stoßen Methan aus`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_kc3bche__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_kc3bche__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcE/8QAKBAAAgICAQMDAwUAAAAAAAAAAQIDBAURAAYSIRMxYSJBURQyQoGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACERAAICAgIBBQAAAAAAAAAAAAECABEDEgQhBTFhgaHR/9oADAMBAAIRAxEAPwDswnUOUMPq2cRYgiG+5pIEjUaGz5Z/Ovjloweds5LMVcXBRgjszgsPWdFIVRtm0NnQ+OZBi8Ot61fbKLJI/rTJCJHY9iFgw0p2PPNCt5axj6N23WUiUwMiCOIMQWGmPb4GyvcN/be+ZD+QdXALmr79YdE30VR9RmTzE01+epWsWp7UUjI0VKdGC9p7T+2M+N/PITqSn1JYIjSN4AxdlAtLC7Bff2XZ14/3mez5fK47rK9cpwz15o7LekiqyqO3wQR860R+T+eKzcfUFuhkr2TuoGuKhhUOZPodx9Ab+IPcN699aPHNnzB6GQ17kxox8fUF17+PyNx3Ut6rOrQRvfiZAkiTWAoUaHjyPtrwRrx4I5euncxDLXMkuMgqyyN2yQ/qBKXHsd+dDftw4czuRRN13JSSWsyKyWUpVg1+3GipPGTJI047HPcPG/6Uk/c8qeT6+ovXNSBEWFW9Tw5ILb/Htw4cuw4VyMWaAT//2Q=="
@@ -162,7 +162,7 @@ Ich habe das für zwei Personen getan. Ich habe die beiden liebevoll  _Omni_ un
 <RemoteImage
   alt={`ökologischer Fußabdruck`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Einfach mal wieder Fahrrad fahren`}
+  title={`Einfach mal wieder Fahrrad fahren`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_fahrrad__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_fahrrad__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQECAwQGB//EACoQAAICAQMDAwQCAwAAAAAAAAECAwQRAAUhEhMxBlFxIkFCYRQyofDx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUC/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIhAAMRMUFRBHGhwf/aAAwDAQACEQMRAD8AI7/6kqNuc8F+UzQRzdmN1jRh0Ru/SSG8npIx7Y/eqlzeYpP5m33Ia8KK5FWxFH3O27eZcJnBIJ+QVBPA0a9SbPR3u/f3FoYnSGdo3lsP3Y2lAVXZYwVwVIIPUxB5wOM6xl30lSi3azFZryrDDCrmSnL0N2ycHq6+rxkfrA+3OpTXyQttiSBmOqq27AckiGOANT93r3SbxWt7jZvTXBWr7A6hazrYjMtZv7Ie2CfrZslzjP1AeFGsfvW6XrM0kk0ViV69aOCKOONjGWA6Q3jJABY/JOugbJse3u8zVEElRQvRNeiWZgp/FVGFJIwSWz5UAeTp+9emau436C2q5dXDV456NaKEscZEboeCOlWIYEEFfBzoz5SNcChY9/dUbeNdQHJzjqMd88TPO6rrY3kMOxu06xPlnRhnqJ/Ie2f86J0bstJrBkkszWpwqzvMyMWwOABjheTwPfQppQ8TNnqRT9R/qS3t8DUSTBA5Z2PQvBQfkffP+86ZRz+UzzFF0vSQTNNWnWIyIFMU0OY2A4GMEYPOP2MZ8amr7vfW3DZutWllrlljrxxkKuRgsMnlsZA9sn30KWeNu7gcrGOeotzz9x8ffTbFsISGGO4vUGyBgj/o0LWlJyBNaDELgmK//9k="
