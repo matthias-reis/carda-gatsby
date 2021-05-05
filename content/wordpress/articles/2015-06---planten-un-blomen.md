@@ -72,8 +72,6 @@ Am 25. Mai haben Matze und ich eine schöne Fototour durch den Park unternommen.
 
 <Gallery name="flickr/anneplantenunblomen52015" />
 
-Weitere Bilder findet Ihr wie immer in meinem [Flickr](https://www.flickr.com/photos/99929697@N07/)
-
 ## Weite Infos
 
 [Anfahrt und Parken](http://plantenunblomen.hamburg.de/anfahrt-parken/) Planten un Blomen
