@@ -7,12 +7,8 @@ typeName: Galerie
 title: Jardín Canario - Grüne Oase in Tafira
 seoTitle: Jardín Canario - Grüne Oase in Tafira - Botanischer Garten der Kanaren
 ogTitle: Jardín Canario - Grüne Oase in Tafira - Botanischer Garten der Kanaren
-description: Im Botanischen Garten Jardín Canario auf Gran Canaria beeindrucken
-  Kakteen, Sukkulenten, Drachenbäume, Kiefernhaine, Loorbeerbäume und Palmen die
-  Besucher.
-excerpt: Im Botanischen Garten Jardín Canario auf Gran Canaria beeindrucken
-  Kakteen, Sukkulenten, Drachenbäume, Kiefernhaine, Loorbeerbäume und Palmen die
-  Besucher.
+description: Im Botanischen Garten Jardín Canario auf Gran Canaria beeindrucken Kakteen, Sukkulenten, Drachenbäume, Kiefernhaine, Loorbeerbäume und Palmen die Besucher.
+excerpt: Im Botanischen Garten Jardín Canario auf Gran Canaria beeindrucken Kakteen, Sukkulenten, Drachenbäume, Kiefernhaine, Loorbeerbäume und Palmen die Besucher.
 fileName: 2017-09---jard-n-canario-gruene-oase-in-tafira.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Gran-Canaria-488__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Gran-Canaria-488__l.jpg
@@ -38,30 +34,20 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Botanischer Garten auf Gran Canaria
-  
 ---
 
-**Im Botanischen Garten _Jardín Canario_ in Tafira auf Gran Canaria findet man
-die rund 500 auf der Insel heimischen Pflanzenarten an einem Ort versammelt.
-Kakteen und Sukkulenten, Drachenbäume, Kiefern, Loorbeerbäume und Palmen
-beeindrucken die Besucher das ganze Jahr über.**
+**Im Botanischen Garten _Jardín Canario_ in Tafira auf Gran Canaria findet man die rund 500 auf der Insel heimischen Pflanzenarten an einem Ort versammelt. Kakteen und Sukkulenten, Drachenbäume, Kiefern, Loorbeerbäume und Palmen beeindrucken die Besucher das ganze Jahr über.**
 
-Seit 1983 befindet sich im 27 Hektar großen Garten zudem eine Samenbank. In ihr
-werden unter anderem die Samen von ungefähr 400 auf den Kanaren und weiteren
-Makaronesischen Inseln endemischen Baumarten gehütet.
+Seit 1983 befindet sich im 27 Hektar großen Garten zudem eine Samenbank. In ihr werden unter anderem die Samen von ungefähr 400 auf den Kanaren und weiteren Makaronesischen Inseln endemischen Baumarten gehütet.
 
 ## Jardín Canario - Ein Garten als Lebenswerk
 
-Der vollständige Name des Gartens lautet Jardín _Botánico Canario Viera y
-Clavijo_ , was so viel bedeutet wie "Botanischer Garten der Kanaren zu Ehren des
-José Viera y Clavijo\*". Der Garten wurde von dem Schwedischen Botaniker
-Botanikers Erik Ragnar Svensson erschaffen und gilt als sein Lebenswerk. Nachdem
-er den Garten von 1952 bis 1959 aufgebaut hatte, war er der erste Direktor des
-Jardín Canario. Nachdem er im Jahr 1973 verstarb, wurde David Bramwell zu seinem
-Nachfolger.
+Der vollständige Name des Gartens lautet Jardín _Botánico Canario Viera y Clavijo_ , was so viel bedeutet wie "Botanischer Garten der Kanaren zu Ehren des José Viera y Clavijo\*". Der Garten wurde von dem Schwedischen Botaniker Botanikers Erik Ragnar Svensson erschaffen und gilt als sein Lebenswerk. Nachdem er den Garten von 1952 bis 1959 aufgebaut hatte, war er der erste Direktor des Jardín Canario. Nachdem er im Jahr 1973 verstarb, wurde David Bramwell zu seinem Nachfolger.
 
-<sub>\*Spanischer römisch-katholischer Geistlicher, Universalgelehrter und ein
-bedeutender Dichter der spanischen Aufklärung</sub>
+<sub>
+  \*Spanischer römisch-katholischer Geistlicher, Universalgelehrter und ein
+  bedeutender Dichter der spanischen Aufklärung
+</sub>
 
 <Gallery name="flickr/annejardincanario2017" />
 
@@ -77,5 +63,3 @@ bedeutender Dichter der spanischen Aufklärung</sub>
 1.  [Die einzige Kaffeeplantage Europas](/2017/09/die-einzige-kaffeeplantage-europas/)
 1.  [Las Vegas auf Gran Canaria](/2017/09/bananen-papayas-und-esel-las-vegas-auf-gran-canaria/)
 1.  Jardín Canario - Grüne Oase in Tafira
-
-  

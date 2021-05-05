@@ -7,12 +7,8 @@ typeName: Galerie
 title: Fabelwesen im Hochmoor
 seoTitle: Rotes Moor - Fabelwesen im Hochmoor - meine Bildergalerie
 ogTitle: Rotes Moor - Fabelwesen im Hochmoor - meine Bildergalerie
-description: Das Rote Moor bei Fulda ist ein ganz besonders schönes Hochmoor.
-  Mir sind dort vor Kurzem ein paar gruselige Fabelwesen begegnet. Ich habe sie
-  fotografiert.
-excerpt: Das Rote Moor bei Fulda ist ein ganz besonders schönes Hochmoor. Mir
-  sind dort vor Kurzem ein paar gruselige Fabelwesen begegnet. Ich habe sie
-  fotografiert.
+description: Das Rote Moor bei Fulda ist ein ganz besonders schönes Hochmoor. Mir sind dort vor Kurzem ein paar gruselige Fabelwesen begegnet. Ich habe sie fotografiert.
+excerpt: Das Rote Moor bei Fulda ist ein ganz besonders schönes Hochmoor. Mir sind dort vor Kurzem ein paar gruselige Fabelwesen begegnet. Ich habe sie fotografiert.
 fileName: 2012-02---fabelwesen-im-hochmoor.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_02_img_8691__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_02_img_8691__l.jpg
@@ -40,13 +36,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Impressionen aus dem Roten Moor
-  
 ---
 
-**Das Rote Moor bei Fulda ist ein ganz besonders schönes Hochmoor. Mir sind dort
-vor Kurzem ein paar gruselige Fabelwesen begegnet. Ich habe sie fotografisch
-festgehalten.**
+**Das Rote Moor bei Fulda ist ein ganz besonders schönes Hochmoor. Mir sind dort vor Kurzem ein paar gruselige Fabelwesen begegnet. Ich habe sie fotografisch festgehalten.**
 
 <Gallery name="flickr/fabelwesenimhochmoor" />
-
-  

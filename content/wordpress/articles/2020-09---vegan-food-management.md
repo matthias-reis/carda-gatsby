@@ -7,10 +7,8 @@ typeName: Artikel
 title: Vegan Food Management
 seoTitle: Vegan Food Management - der vegane Studiengang
 ogTitle: Vegan Food Management - der vegane Studiengang
-description: Etwa 1,36 Prozent der Deutschen leben vegan. Das Interesse wächst.
-  Seit 2016 kann man jetzt sogar Vegan Food Management studieren.
-excerpt: Etwa 1,36 Prozent der Deutschen leben vegan. Das Interesse wächst. Seit
-  2016 kann man jetzt sogar Vegan Food Management studieren.
+description: Etwa 1,36 Prozent der Deutschen leben vegan. Das Interesse wächst. Seit 2016 kann man jetzt sogar Vegan Food Management studieren.
+excerpt: Etwa 1,36 Prozent der Deutschen leben vegan. Das Interesse wächst. Seit 2016 kann man jetzt sogar Vegan Food Management studieren.
 fileName: 2020-09---vegan-food-management.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_vegan-food-management__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_vegan-food-management__l.jpg
@@ -30,64 +28,28 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Der vegane Studiengang
-  
 ---
 
-**Etwa 1,13 Millionen Menschen leben in Deutschland derzeit vegan. Das sind
-immerhin 1,36 Prozent der Bevölkerung. Weil auch beim Rest der Deutschen das
-Interesse immer größer wird, kann man seit 2016 Vegan Food Management
-studieren.**
+**Etwa 1,13 Millionen Menschen leben in Deutschland derzeit vegan. Das sind immerhin 1,36 Prozent der Bevölkerung. Weil auch beim Rest der Deutschen das Interesse immer größer wird, kann man seit 2016 Vegan Food Management studieren.**
 
-Unter anderem in Berlin, Bamberg und Köln kann man sich in Sachen Veganismus fit
-machen. Außerdem ist auch ein Fernstudium möglich. Der staatlich anerkannten
-Fachschule des Mittelstandes (FHM) wurde von Peta 2016 von für das Engagement
-sogar der Progress Award verliehen.
+Unter anderem in Berlin, Bamberg und Köln kann man sich in Sachen Veganismus fit machen. Außerdem ist auch ein Fernstudium möglich. Der staatlich anerkannten Fachschule des Mittelstandes (FHM) wurde von Peta 2016 von für das Engagement sogar der Progress Award verliehen.
 
-Das große Potenzial, das in pflanzenbasierten Produkten steckt, wurde längt
-erkannt. Selbst große Fleischproduzenten setzen inzwischen auf vegan und
-erklären sogar öffentlich, dass sich damit größere Umsätze erzielen lassen, als
-mit Fleisch- und Wurstwaren.
+Das große Potenzial, das in pflanzenbasierten Produkten steckt, wurde längt erkannt. Selbst große Fleischproduzenten setzen inzwischen auf vegan und erklären sogar öffentlich, dass sich damit größere Umsätze erzielen lassen, als mit Fleisch- und Wurstwaren.
 
 ## Das vegane Angebot wächst
 
-Nicht nur in den großen Städten gibt es immer mehr
-[Restaurants und Cafés mit veganem Angebot](/tag/vegane-lokale/). Reisebüros
-bieten vegane Reisen an und in der Bekleidungsindustrie ist
-[veganes Leder](/tag/veganes-leder/) einer der größten Trends der letzten Jahre.
+Nicht nur in den großen Städten gibt es immer mehr [Restaurants und Cafés mit veganem Angebot](/tag/vegane-lokale/). Reisebüros bieten vegane Reisen an und in der Bekleidungsindustrie ist [veganes Leder](/tag/veganes-leder/) einer der größten Trends der letzten Jahre.
 
-Im Bachelorstudiengang "B.A. Vegan Food Management" wird dieser aktuelle Trend
-aufgegriffen. Inhalte des Studiums sind unter anderem Betriebswirtschaft aber
-auch ernährungswissenschaftliches Wissen sowie Verhaltensforschung.
+Im Bachelorstudiengang "B.A. Vegan Food Management" wird dieser aktuelle Trend aufgegriffen. Inhalte des Studiums sind unter anderem Betriebswirtschaft aber auch ernährungswissenschaftliches Wissen sowie Verhaltensforschung.
 
-Wer sich für das Studium entscheidet, lernt Produktions- und
-Verarbeitungsprozesse, Handel, Lebensmittelforschung und Ernährungslehre. Nach
-erfolgreichem Abschluss ist darf man sich dann vegan⋆er Foodexpert⋆in nennen und
-kann bei Themen wie Ethik, Grundlage der nachhaltigen Produkt- und
-Unternehmensstrategie und Soziologie mitreden.
+Wer sich für das Studium entscheidet, lernt Produktions- und Verarbeitungsprozesse, Handel, Lebensmittelforschung und Ernährungslehre. Nach erfolgreichem Abschluss ist darf man sich dann vegan⋆er Foodexpert⋆in nennen und kann bei Themen wie Ethik, Grundlage der nachhaltigen Produkt- und Unternehmensstrategie und Soziologie mitreden.
 
 ## Vegan Food Management studieren und die Zukunft gestalten
 
-Nachhaltigkeit, Ethik und Gesundheit spielen in der heutigen Zeit eine immer
-größere Rolle - vor allem was die Ernährung angeht. Gut, dass diese Zeichen
-erkannt werden und es immer leichter wird, sich in diese Richtung Wissen
-anzueignen. Mit dem notwendigen Fachwissen wird es jungen Gründern und
-Visionären immer leichter fallen, ihre Ideen und Träume in die Tat umzusetzen
-und so ihren Teil zu einer faireren, nachhaltigeren und gesünderen Zukunft
-beizutragen.
+Nachhaltigkeit, Ethik und Gesundheit spielen in der heutigen Zeit eine immer größere Rolle - vor allem was die Ernährung angeht. Gut, dass diese Zeichen erkannt werden und es immer leichter wird, sich in diese Richtung Wissen anzueignen. Mit dem notwendigen Fachwissen wird es jungen Gründern und Visionären immer leichter fallen, ihre Ideen und Träume in die Tat umzusetzen und so ihren Teil zu einer faireren, nachhaltigeren und gesünderen Zukunft beizutragen.
 
-Der Studiengang "Vegan Food Management" hat eine Regelstudienzeit von sechs
-Semestern. Mit inbegriffen sind 24 Wochen Praxisphase im In- und Ausland. Das
-Studium wird als Vollzeitstudium angeboten und endet mit dem Abschluss "Bachelor
-of Arts". Die Kosten für die Ausbildung belaufen sich je nach Standort auf
-zwischen 540 und 640 Euro pro Monat. Eine Finanzierung über BAföG oder
-Bildungskredit ist möglich.
+Der Studiengang "Vegan Food Management" hat eine Regelstudienzeit von sechs Semestern. Mit inbegriffen sind 24 Wochen Praxisphase im In- und Ausland. Das Studium wird als Vollzeitstudium angeboten und endet mit dem Abschluss "Bachelor of Arts". Die Kosten für die Ausbildung belaufen sich je nach Standort auf zwischen 540 und 640 Euro pro Monat. Eine Finanzierung über BAföG oder Bildungskredit ist möglich.
 
-Quellen:
-[Statista](https://de.statista.com/statistik/daten/studie/445155/umfrage/umfrage-in-deutschland-zur-anzahl-der-veganer/),
-Fachhochschule des [Mittelstandes](https://www.fh-mittelstand.de/vegan/)
+Quellen: [Statista](https://de.statista.com/statistik/daten/studie/445155/umfrage/umfrage-in-deutschland-zur-anzahl-der-veganer/), Fachhochschule des [Mittelstandes](https://www.fh-mittelstand.de/vegan/)
 
-Bild:
-[Pexels](https://pixabay.com/de/photos/sonnenaufgang-absolventen-1840298/),
-pixabay
-
-  
+Bild: [Pexels](https://pixabay.com/de/photos/sonnenaufgang-absolventen-1840298/), pixabay

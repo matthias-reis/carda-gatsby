@@ -7,10 +7,8 @@ typeName: Galerie
 title: Unten an den Landungsbrücken
 seoTitle: Landungsbrücken Hamburg am 24. Dezember - Fotos
 ogTitle: Landungsbrücken Hamburg am 24. Dezember - Fotos
-description: Einen wunderschönen Sonnenuntergang durften wir am 24. Dezember an
-  den Landungsbrücken genießen - Hier ein paar Bilder.
-excerpt: Einen wunderschönen Sonnenuntergang durften wir am 24. Dezember an den
-  Landungsbrücken genießen.
+description: Einen wunderschönen Sonnenuntergang durften wir am 24. Dezember an den Landungsbrücken genießen - Hier ein paar Bilder.
+excerpt: Einen wunderschönen Sonnenuntergang durften wir am 24. Dezember an den Landungsbrücken genießen.
 fileName: 2016-01---unten-an-den-landungsbruecken.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24087745632_8e27e0e363_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24087745632_8e27e0e363_z__l.jpg
@@ -32,9 +30,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Hach Hamburg ♥
-  
 ---
 
 <Gallery name="flickr/annelandungsbruecken122015" />
-
-  

@@ -7,9 +7,8 @@ typeName: Artikel
 title: Die Post ist da!
 seoTitle: Die Post ist da!
 ogTitle: Die Post ist da!
-description: ""
-excerpt: Bereits letzte Woche Mittwoch hatte der Schallplattenhändler meines
-  Vertrauens ein Paket für mich aufgegeben.
+description: ''
+excerpt: Bereits letzte Woche Mittwoch hatte der Schallplattenhändler meines Vertrauens ein Paket für mich aufgegeben.
 fileName: 2013-06---die-post-ist-da.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_4216__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_4216__l.jpg
@@ -51,34 +50,88 @@ labels:
   - Vinyl
   - White Orchid
   - You Already Have A Home
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Neue Schallplatten in meiner Sammlung
-  
 ---
 
-**Bereits letzte Woche Mittwoch hatte der Schallplattenhändler meines Vertrauens
-ein Paket für mich aufgegeben. Vielleicht haben ja einige von Euch auf Twitter
-mitverfolgt, was für eine spannende Reise es hinter sich hat.**
+**Bereits letzte Woche Mittwoch hatte der Schallplattenhändler meines Vertrauens ein Paket für mich aufgegeben. Vielleicht haben ja einige von Euch auf Twitter mitverfolgt, was für eine spannende Reise es hinter sich hat.**
 
-Nachdem ich leider keine Nachricht vom Paketdienst bekommen hatte, fuhr ich
-heute auf gut Glück zum Paketshop, der normalerweise meine Pakete entgegennimmt.
-Und: Es war da! Ich musste mich zusammenreißen, nicht zu schnell zu fahren, so
-groß war die Vorfreude auf den Inhalt.
+Nachdem ich leider keine Nachricht vom Paketdienst bekommen hatte, fuhr ich heute auf gut Glück zum Paketshop, der normalerweise meine Pakete entgegennimmt. Und: Es war da! Ich musste mich zusammenreißen, nicht zu schnell zu fahren, so groß war die Vorfreude auf den Inhalt.
 
-Zu Hause angekommen, öffnete ich andächtig und mit zittrigen Fingern den Karton.
-Und welch wundervoller Inhalt glänzte mir entgegen! Da mir momentan noch die
-Worte fehlen und ich erstmal in der Musik schwelgen muss, bevor ich sie
-redaktionell verarbeiten und mit Euch teilen kann, habe ich für den Moment
-erstmal eine kleine Bildergalerie für Euch zusammengestellt. Viel Spaß damit und
-stay tuned!
+Zu Hause angekommen, öffnete ich andächtig und mit zittrigen Fingern den Karton. Und welch wundervoller Inhalt glänzte mir entgegen! Da mir momentan noch die Worte fehlen und ich erstmal in der Musik schwelgen muss, bevor ich sie redaktionell verarbeiten und mit Euch teilen kann, habe ich für den Moment erstmal eine kleine Bildergalerie für Euch zusammengestellt. Viel Spaß damit und stay tuned!
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4209__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4209__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4210__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4210__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4212__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4212__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4216__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4216__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4218__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4218__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4220__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4220__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4222__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4222__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4223__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4223__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4224__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4224__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4225__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4225__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4226__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4226__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4209__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4209__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4210__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4210__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4212__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4212__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4216__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4216__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4218__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4218__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4220__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4220__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4222__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4222__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4223__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4223__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4224__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4224__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4225__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4225__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4226__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_06_img_4226__l.jpg',
+    },
+  ]}
 />
-
-  

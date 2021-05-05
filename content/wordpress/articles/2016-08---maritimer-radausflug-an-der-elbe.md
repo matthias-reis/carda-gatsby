@@ -7,12 +7,8 @@ typeName: Galerie
 title: Maritimer Radausflug an der Elbe
 seoTitle: Maritimer Radausflug an der Elbe - Der Sonntag ist gerettet
 ogTitle: Maritimer Radausflug in Hamburg
-description: '"Mal wieder so ein maritimer Moment in Deinem Blog! Das wäre
-  toll!" Solche Mails erreichen mich immer wieder. Heute möchte ich Euch Euren
-  Wunsch erfüllen.'
-excerpt: '"Mal wieder so ein maritimer Moment in Deinem Blog! Das wäre toll!"
-  Solche Mails erreichen mich immer wieder. Heute möchte ich Euch Euren Wunsch
-  erfüllen.'
+description: '"Mal wieder so ein maritimer Moment in Deinem Blog! Das wäre toll!" Solche Mails erreichen mich immer wieder. Heute möchte ich Euch Euren Wunsch erfüllen.'
+excerpt: '"Mal wieder so ein maritimer Moment in Deinem Blog! Das wäre toll!" Solche Mails erreichen mich immer wieder. Heute möchte ich Euch Euren Wunsch erfüllen.'
 fileName: 2016-08---maritimer-radausflug-an-der-elbe.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_08_29126552756_b221c36c73_z-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_08_29126552756_b221c36c73_z-1__l.jpg
@@ -27,21 +23,15 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Hamburg mit dem Fahrrad
-  
 ---
 
-**Einige von Euch kennen bereits meine Bilder vom Meer und von der Elbe. Hin und
-wieder bekomme ich auch mal eine Nachricht "Mal wieder so ein maritimer Moment
-in Deinem Blog, das wäre toll!".**
+**Einige von Euch kennen bereits meine Bilder vom Meer und von der Elbe. Hin und wieder bekomme ich auch mal eine Nachricht "Mal wieder so ein maritimer Moment in Deinem Blog, das wäre toll!".**
 
-Heute habe ich Euch einen solchen mitgebracht. Wir haben unseren freien Sonntag
-genutzt und eine kleine Radtour gemacht, die an der Elbe in Altona losging.
+Heute habe ich Euch einen solchen mitgebracht. Wir haben unseren freien Sonntag genutzt und eine kleine Radtour gemacht, die an der Elbe in Altona losging.
 
 ## Mein maritimer Moment für Euch
 
-Vom dortigen Fähranleger aus habe ich diese drei Momentaufnahmen für Euch
-gemacht. [Versprochen](/2016/08/spaetsommer-loki-schmid-garten/) ist ja
-schließlich versprochen. Ich hoffe, sie gefallen Euch!
+Vom dortigen Fähranleger aus habe ich diese drei Momentaufnahmen für Euch gemacht. [Versprochen](/2016/08/spaetsommer-loki-schmid-garten/) ist ja schließlich versprochen. Ich hoffe, sie gefallen Euch!
 
 _Schiff ahoi!_
 
@@ -51,14 +41,10 @@ _Schiff ahoi!_
 
 Am Flusse
 
-Verfließet, vielgeliebte Lieder, Zum Meere der Vergessenheit! Kein Knabe sing
-entzückt euch wieder, Kein Mädchen in der Blütenzeit.
+Verfließet, vielgeliebte Lieder, Zum Meere der Vergessenheit! Kein Knabe sing entzückt euch wieder, Kein Mädchen in der Blütenzeit.
 
-Ihr sänget nur von meiner Lieben; Nun spricht sie meiner Treue Hohn. Ihr wart
-ins Wasser eingeschrieben; So fließt denn auch mit ihm davon.
+Ihr sänget nur von meiner Lieben; Nun spricht sie meiner Treue Hohn. Ihr wart ins Wasser eingeschrieben; So fließt denn auch mit ihm davon.
 
 J. W. Goethe
 
 </blockquote>
-
-  

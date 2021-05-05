@@ -7,12 +7,8 @@ typeName: Artikel
 title: Fleisch bald teurer?
 seoTitle: Fleisch bald teurer? Neue Studie der Uni Augsburg
 ogTitle: Fleisch bald teurer? Neue Studie der Uni Augsburg
-description: Fleisch ist zu billig. Wenn wir das Klima retten wollen, müssen wir
-  für erheblich höhere Preise sorgen. Das geht aus einer Studie der Uni Augsburg
-  hervor.
-excerpt: Fleisch ist zu billig. Wenn wir das Klima retten wollen, müssen wir für
-  erheblich höhere Preise sorgen. Das geht aus einer Studie der Uni Augsburg
-  hervor.
+description: Fleisch ist zu billig. Wenn wir das Klima retten wollen, müssen wir für erheblich höhere Preise sorgen. Das geht aus einer Studie der Uni Augsburg hervor.
+excerpt: Fleisch ist zu billig. Wenn wir das Klima retten wollen, müssen wir für erheblich höhere Preise sorgen. Das geht aus einer Studie der Uni Augsburg hervor.
 fileName: 2021-01---fleisch-bald-teurer.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_fleisch__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_fleisch__l.jpg
@@ -33,75 +29,38 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Fleisch müsste 146 Prozent mehr kosten
-  
 ---
 
-**Eine neue Studie der Universität Augsburg zeigt, dass für Fleisch ein
-Preisaufschlag von 146 Prozent nötig wäre, würde man die Zerstörung der Umwelt
-bei der Herstellung einkalkulieren.**
+**Eine neue Studie der Universität Augsburg zeigt, dass für Fleisch ein Preisaufschlag von 146 Prozent nötig wäre, würde man die Zerstörung der Umwelt bei der Herstellung einkalkulieren.**
 
-Die Studie belegt, dass die Umweltzerstörung durch die Lebensmittelindustrie
-nicht in die Endkosten einbezogen wird. Die Wissenschaftler⋆innen der Augsburger
-Hochschule veröffentlichten das Ergebnis ihrer Forschungen im Nature
-Communications Journal.
+Die Studie belegt, dass die Umweltzerstörung durch die Lebensmittelindustrie nicht in die Endkosten einbezogen wird. Die Wissenschaftler⋆innen der Augsburger Hochschule veröffentlichten das Ergebnis ihrer Forschungen im Nature Communications Journal.
 
 ## Umweltschäden müssen eingerechnet werden
 
-Würde man die Schäden in der Natur in die Berechnungen mit einfließen lassen,
-wäre der Fleischpreis bei herkömmlichen Produkten um 146 Prozent höher, der
-Milchpreis um 91 Prozent. Für die teureren Bio-Lebensmittel ergibt sich immerhin
-ein Preisaufschlag von 40 Prozent für Bio-Milchprodukte und 71 Prozent für
-Bio-Fleisch, so die Forscher⋆innen. Sie zeigen sich überrascht:
+Würde man die Schäden in der Natur in die Berechnungen mit einfließen lassen, wäre der Fleischpreis bei herkömmlichen Produkten um 146 Prozent höher, der Milchpreis um 91 Prozent. Für die teureren Bio-Lebensmittel ergibt sich immerhin ein Preisaufschlag von 40 Prozent für Bio-Milchprodukte und 71 Prozent für Bio-Fleisch, so die Forscher⋆innen. Sie zeigen sich überrascht:
 
-> "Wir sind selbst erstaunt über den großen Unterschied zwischen den
-> untersuchten Lebensmittelgruppen und den daraus resultierenden
-> Fehlbewertungen, insbesondere von tierischen Lebensmitteln",
+> "Wir sind selbst erstaunt über den großen Unterschied zwischen den untersuchten Lebensmittelgruppen und den daraus resultierenden Fehlbewertungen, insbesondere von tierischen Lebensmitteln",
 
-berichtet der Co-Autor der Studie Wirtschaftswissenschaftler und
-Nachhaltigkeitsforscher an der Uni Augsburg Tobias Gaugler. Seine Kollegin und
-Co-Autorin der Studie die Doktorandin an der Universität Greifswald Amelie
-Michalke fügt hinzu:
+berichtet der Co-Autor der Studie Wirtschaftswissenschaftler und Nachhaltigkeitsforscher an der Uni Augsburg Tobias Gaugler. Seine Kollegin und Co-Autorin der Studie die Doktorandin an der Universität Greifswald Amelie Michalke fügt hinzu:
 
-> "Würden diese Fehlbewertungen des Marktes wegfallen oder zumindest reduziert
-> werden, hätte dies einen bedeutenden Einfluss auf die Nachfrage nach
-> Lebensmitteln".
+> "Würden diese Fehlbewertungen des Marktes wegfallen oder zumindest reduziert werden, hätte dies einen bedeutenden Einfluss auf die Nachfrage nach Lebensmitteln".
 
 ## Fleisch muss teurer werden
 
-Die Nachforschungen von Gauglers Team beweisen, dass der Preis für Fleisch um
-146 Prozent ansteigen würde, würde man die Auswirkungen auf das Klima mit
-einberechnen.
+Die Nachforschungen von Gauglers Team beweisen, dass der Preis für Fleisch um 146 Prozent ansteigen würde, würde man die Auswirkungen auf das Klima mit einberechnen.
 
-Die neue Studie zeigt auch,  dass die Klimaauswirkungen der Landnutzung vor
-allem durch die Abholzung von Regenwäldern und die Trockenlegung von
-Torfgebieten für den Anbau von Tierfutter verursacht werden.
+Die neue Studie zeigt auch,  dass die Klimaauswirkungen der Landnutzung vor allem durch die Abholzung von Regenwäldern und die Trockenlegung von Torfgebieten für den Anbau von Tierfutter verursacht werden.
 
 ## Fleisch – einer der Haupttreiber des Klimawandels
 
-In Michalkes und Gauglers Fazit zur Studie steht, dass die Landwirtschaft mit
-einem Anteil von 24 Prozent an den globalen Emissionen eine der Hauptquellen für
-die von Menschen verursachten Treibhausgase ist. Die Wissenschaftler⋆innen
-schließen daraus, dass der Anpassungsbedarf groß ist. Sie sehen darin das
-Potenzial des primären Sektors, die Klimaziele des Pariser Abkommens zu
-erreichen. Sprich: Die Erderwärmung deutlich unter zwei Grad Celsius zu halten.
+In Michalkes und Gauglers Fazit zur Studie steht, dass die Landwirtschaft mit einem Anteil von 24 Prozent an den globalen Emissionen eine der Hauptquellen für die von Menschen verursachten Treibhausgase ist. Die Wissenschaftler⋆innen schließen daraus, dass der Anpassungsbedarf groß ist. Sie sehen darin das Potenzial des primären Sektors, die Klimaziele des Pariser Abkommens zu erreichen. Sprich: Die Erderwärmung deutlich unter zwei Grad Celsius zu halten.
 
-Michalke und Gaugler glauben, dass die Einbeziehung der Umweltauswirkungen in
-die Kosten von Fleisch und Milchprodukten zur Entschärfung der Klimakrise
-beitragen können:
+Michalke und Gaugler glauben, dass die Einbeziehung der Umweltauswirkungen in die Kosten von Fleisch und Milchprodukten zur Entschärfung der Klimakrise beitragen können:
 
 > "Wenn Lebensmittel deutlich teurer werden, sinkt auch die Nachfrage danach",
 
 so Michalke.
 
-Ob Fleisch wirklich bald wesentlich mehr kostet, lässt sich nur schwer sagen.
-Bis es soweit ist, gibt es sicher noch einige Hürden zu überwinden. Dass es
-nicht nur
-[für das Klima von Vorteil wäre](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/),
-wenn durch einen Wandel in der Lebensmittelindustrie weniger Menschen
-Lebensmittel tierischer Herkunft konsumieren, sollte jedem⋆r Tierschützer⋆in
-klar sein.
+Ob Fleisch wirklich bald wesentlich mehr kostet, lässt sich nur schwer sagen. Bis es soweit ist, gibt es sicher noch einige Hürden zu überwinden. Dass es nicht nur [für das Klima von Vorteil wäre](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/), wenn durch einen Wandel in der Lebensmittelindustrie weniger Menschen Lebensmittel tierischer Herkunft konsumieren, sollte jedem⋆r Tierschützer⋆in klar sein.
 
-Quelle:
-[idw (Informationsdienst Wissenschaft)](https://idw-online.de/de/news760110)
-
-  
+Quelle: [idw (Informationsdienst Wissenschaft)](https://idw-online.de/de/news760110)

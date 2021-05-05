@@ -7,10 +7,8 @@ typeName: Rezept
 title: Spargelsalat mit Erdbeeren und rotem Feldsalat
 seoTitle: Spargelsalat mit Erdbeeren und rotem Feldsalat - Rezept für 2 Personen
 ogTitle: Spargelsalat mit Erdbeeren und rotem Feldsalat - Rezept für zwei Personen
-description: Heute habe ich wieder ein ganz wunderbares Spargelrezept für Euch.
-  Den Spargelsalat mit Erdbeeren könnt Ihr ganz leicht selbst zubereiten.
-excerpt: Heute habe ich wieder ein ganz wunderbares Spargelrezept für Euch. Den
-  Spargelsalat mit Erdbeeren könnt Ihr ganz leicht selbst zubereiten.
+description: Heute habe ich wieder ein ganz wunderbares Spargelrezept für Euch. Den Spargelsalat mit Erdbeeren könnt Ihr ganz leicht selbst zubereiten.
+excerpt: Heute habe ich wieder ein ganz wunderbares Spargelrezept für Euch. Den Spargelsalat mit Erdbeeren könnt Ihr ganz leicht selbst zubereiten.
 fileName: 2018-06---spargelsalat-mit-erdbeeren-und-rotem-feldsalat.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_41667092854_e157247ae3_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_41667092854_e157247ae3_z__l.jpg
@@ -37,17 +35,11 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Für zwei Personen
-  
 ---
 
-**Heute habe ich wieder ein ganz wunderbares Spargelrezept für Euch. Den
-Spargelsalat hat sich Matze vor Kurzem ausgedacht. Er ist wunderbar aromatisch
-und einfach perfekt für warme Hochsommerabende.**
+**Heute habe ich wieder ein ganz wunderbares Spargelrezept für Euch. Den Spargelsalat hat sich Matze vor Kurzem ausgedacht. Er ist wunderbar aromatisch und einfach perfekt für warme Hochsommerabende.**
 
-Den Spargel bereitet Ihr vor, indem ihr ihn im Ofen gart. Wie das geht, wissen
-einige von Euch schon aus meinem
-[Ofenspargelrezept](/2018/05/spargel-aus-dem-ofen-mit-veganer-kokos-hollandaise/).
-Natürlich verrate ich es Euch es hier aber auch noch mal.
+Den Spargel bereitet Ihr vor, indem ihr ihn im Ofen gart. Wie das geht, wissen einige von Euch schon aus meinem [Ofenspargelrezept](/2018/05/spargel-aus-dem-ofen-mit-veganer-kokos-hollandaise/). Natürlich verrate ich es Euch es hier aber auch noch mal.
 
 ## Zutaten
 
@@ -67,34 +59,18 @@ Natürlich verrate ich es Euch es hier aber auch noch mal.
 
 ## Zubereitung
 
-Den Spargel bereitet Ihr am besten einen Tag vorher im Ofen vor. Es bietet sich
-an, gleich zwei Kilo zu machen und am Vortag klassisch Spargel mit Kartoffeln
-und Hollandaise zu essen. Mein veganes Rezept dafür findet Ihr hier
-[auch hier im Blog](/2018/05/spargel-aus-dem-ofen-mit-veganer-kokos-hollandaise/).
+Den Spargel bereitet Ihr am besten einen Tag vorher im Ofen vor. Es bietet sich an, gleich zwei Kilo zu machen und am Vortag klassisch Spargel mit Kartoffeln und Hollandaise zu essen. Mein veganes Rezept dafür findet Ihr hier [auch hier im Blog](/2018/05/spargel-aus-dem-ofen-mit-veganer-kokos-hollandaise/).
 
-Heizt den Backofen auf 200 Grad vor und schält den Spargel. Legt ihn in eine
-Kasserole und füllt sie mit dem Saft einer Zitrone und Wasser auf, bis alles
-schön bedeckt ist. Gebt einen Stich Margarine sowie eine Prise Salz und einen
-Hauch Zucker hinzu und lasst den Spargel abgedeckt 45 Minuten lang garen.
+Heizt den Backofen auf 200 Grad vor und schält den Spargel. Legt ihn in eine Kasserole und füllt sie mit dem Saft einer Zitrone und Wasser auf, bis alles schön bedeckt ist. Gebt einen Stich Margarine sowie eine Prise Salz und einen Hauch Zucker hinzu und lasst den Spargel abgedeckt 45 Minuten lang garen.
 
-Rührt eine Marinade aus dem Olivenöl, dem Essig, dem Senf, der Minze sowie etwas
-Pfeffer und Salz an. Wenn der Spargel gar ist, lasst Ihr ihn etwas abkühlen und
-mariniert ihn mit der vorbereiteten Sauce.
+Rührt eine Marinade aus dem Olivenöl, dem Essig, dem Senf, der Minze sowie etwas Pfeffer und Salz an. Wenn der Spargel gar ist, lasst Ihr ihn etwas abkühlen und mariniert ihn mit der vorbereiteten Sauce.
 
 ## Frischer Spargelsalat
 
-Lasst ihn über Nacht im Kühlschrank ziehen. Am nächsten Tag schneidet Ihr das
-Tofu in feine Würfel und bratet es an. Richtet den Spargelsalat zusammen mit dem
-roten Feldsalat, den Erdbeeren und den noch warmen Tofuwürfeln an. Falls Ihr
-keinen roten Feldsalat bekommt, könnt Ihr auch Eichblattsalat oder Frisée
-nehmen.
+Lasst ihn über Nacht im Kühlschrank ziehen. Am nächsten Tag schneidet Ihr das Tofu in feine Würfel und bratet es an. Richtet den Spargelsalat zusammen mit dem roten Feldsalat, den Erdbeeren und den noch warmen Tofuwürfeln an. Falls Ihr keinen roten Feldsalat bekommt, könnt Ihr auch Eichblattsalat oder Frisée nehmen.
 
-Schmeckt zum Schluss noch mal mit Pfeffer und Salz ab. Je nach Geschmack könnt
-Ihr als Topping verschiedene Samen oder Nüsse hinzugeben.
+Schmeckt zum Schluss noch mal mit Pfeffer und Salz ab. Je nach Geschmack könnt Ihr als Topping verschiedene Samen oder Nüsse hinzugeben.
 
-Dazu passt zum Beispiel gut ein schönes kaltes
-[Alsterwasser](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/).
+Dazu passt zum Beispiel gut ein schönes kaltes [Alsterwasser](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/).
 
 Matze &amp; Anne wünschen guten Appetit! &lt;3
-
-  

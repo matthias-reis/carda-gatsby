@@ -7,10 +7,8 @@ typeName: Artikel
 title: Natalie Portman und John Legend investieren in veganes Leder
 seoTitle: Natalie Portman und John Legend investieren in veganes Leder
 ogTitle: Natalie Portman und John Legend investieren in veganes Leder
-description: MycoWorks ist eine Firma, die veganes Leder aus Pilzen herstellt.
-  Natalie Portman und John Legend unterstützen das Unternehmen jetzt.
-excerpt: MycoWorks ist eine Firma, die veganes Leder aus Pilzen herstellt.
-  Natalie Portman und John Legend unterstützen das Unternehmen jetzt.
+description: MycoWorks ist eine Firma, die veganes Leder aus Pilzen herstellt. Natalie Portman und John Legend unterstützen das Unternehmen jetzt.
+excerpt: MycoWorks ist eine Firma, die veganes Leder aus Pilzen herstellt. Natalie Portman und John Legend unterstützen das Unternehmen jetzt.
 fileName: 2020-11---natalie-portman-und-john-legend-investieren-in-veganes-leder.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_natalie-portman-john-legend__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_natalie-portman-john-legend__l.jpg
@@ -31,60 +29,34 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Pilze statt Tierhaut
-  
 ---
 
-**MycoWorks ist eine Firma, die veganes Leder aus Pilzen herstellt. Natalie
-Portman und John Legend unterstützen das Unternehmen jetzt.**
+**MycoWorks ist eine Firma, die veganes Leder aus Pilzen herstellt. Natalie Portman und John Legend unterstützen das Unternehmen jetzt.**
 
-MycoWorks hat es geschafft, ein Material, das sich "wie Rindsleder anfühlt"
-vollständig aus Pilzen herzustellen. Die Idee erfreut sich großer Beliebtheit:
-In seiner letzten Finanzierungsrunde kam das Unternehmen auf ganze 45 Millionen
-Dollar. Unter den Investor⋆innen sind auch die Prominenten Natalie Portman und
-John Legend.
+MycoWorks hat es geschafft, ein Material, das sich "wie Rindsleder anfühlt" vollständig aus Pilzen herzustellen. Die Idee erfreut sich großer Beliebtheit: In seiner letzten Finanzierungsrunde kam das Unternehmen auf ganze 45 Millionen Dollar. Unter den Investor⋆innen sind auch die Prominenten Natalie Portman und John Legend.
 
-Die Nachfrage nach dem Produkt steigt trotz der COVID-Pandemie stetig weiter.
-Daher wurde auch entschieden, das Geld zu nutzen, um die hohe Nachfrage der
-Kund⋆innen zu erfüllen.
+Die Nachfrage nach dem Produkt steigt trotz der COVID-Pandemie stetig weiter. Daher wurde auch entschieden, das Geld zu nutzen, um die hohe Nachfrage der Kund⋆innen zu erfüllen.
 
 ## Technische Innovationen für den Modemarkt
 
-> "Das zeigt uns, wie wichtig es ist, technologische Innovationen auf für den
-> Markt der Luxusmodemarken voranzubringen",
+> "Das zeigt uns, wie wichtig es ist, technologische Innovationen auf für den Markt der Luxusmodemarken voranzubringen",
 
-heißt es in einem Statement von MycoWorks. Mat Scullin, CEO bei MycoWorks führt
-das weiter aus:
+heißt es in einem Statement von MycoWorks. Mat Scullin, CEO bei MycoWorks führt das weiter aus:
 
-> "Wir haben eine Biotech-Plattform für die Mode- und Luxusindustrie geschaffen.
-> Wir liefern die hochwertigsten und vielseitigsten natürlichen Materialien der
-> Welt. Unsere Vision ist es, die Stoffe der Zukunft zu liefern. Unsere
-> Investoren sehen das langfristige Potenzial von MycoWorks, mit unserer
-> patentierten Technologie zahlreiche Industrien zu verändern".
+> "Wir haben eine Biotech-Plattform für die Mode- und Luxusindustrie geschaffen. Wir liefern die hochwertigsten und vielseitigsten natürlichen Materialien der Welt. Unsere Vision ist es, die Stoffe der Zukunft zu liefern. Unsere Investoren sehen das langfristige Potenzial von MycoWorks, mit unserer patentierten Technologie zahlreiche Industrien zu verändern".
 
-Über das Engagement von Natalie Portman und John Legend freut sich Scullin ganz
-besonders:
+Über das Engagement von Natalie Portman und John Legend freut sich Scullin ganz besonders:
 
-> "Die Unterstützung der Stars wird die Zugkraft nachhaltiger Optionen in der
-> Modebranche noch verstärken"
+> "Die Unterstützung der Stars wird die Zugkraft nachhaltiger Optionen in der Modebranche noch verstärken"
 
 ## Die Veganerin Natalie Portman
 
-Die Schauspielerin Natalie Portman ist überzeugte Veganerin. Sie nutzt ihre
-große Reichweite regelmäßig, um für die pflanzliche Ernährung und mehr
-Gerechtigkeit gegenüber Tieren zu werben.
+Die Schauspielerin Natalie Portman ist überzeugte Veganerin. Sie nutzt ihre große Reichweite regelmäßig, um für die pflanzliche Ernährung und mehr Gerechtigkeit gegenüber Tieren zu werben.
 
-Während der Corona-Quarantäne teilte sie beispielsweise vegane Kochvideos über
-die sozialen Netzwerke. Im Gespräch mit Showmaster Jimmy Fallon erklärte sie
-ihre Videos:
+Während der Corona-Quarantäne teilte sie beispielsweise vegane Kochvideos über die sozialen Netzwerke. Im Gespräch mit Showmaster Jimmy Fallon erklärte sie ihre Videos:
 
-> "Ich zeige gerne, dass es wirklich köstliche und abwechslungsreiche vegane
-> Gerichte gibt, die man ganz einfach zu Hause zubereiten kann."
+> "Ich zeige gerne, dass es wirklich köstliche und abwechslungsreiche vegane Gerichte gibt, die man ganz einfach zu Hause zubereiten kann."
 
-Vom Veganismus überzeugt hat die zweifache Mutter übrigens
-[Jonathan Safran Foers Buch "Tiere essen"](/2019/02/tiere-essen-von-jonathan-safran-foer/).
+Vom Veganismus überzeugt hat die zweifache Mutter übrigens [Jonathan Safran Foers Buch "Tiere essen"](/2019/02/tiere-essen-von-jonathan-safran-foer/).
 
-Bilder/pictures: Wikimedia Commons
-[Natalie Portman](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Natalie_Portman_at_the_TIFF_2009-01.jpg/1024px-Natalie_Portman_at_the_TIFF_2009-01.jpg),
-[John Legend](https://upload.wikimedia.org/wikipedia/commons/0/04/University_of_Texas_at_Arlington_graduation_guest_speaker_John_Legend_%2810009630%29_%28cropped%29.jpg)
-
-  
+Bilder/pictures: Wikimedia Commons [Natalie Portman](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Natalie_Portman_at_the_TIFF_2009-01.jpg/1024px-Natalie_Portman_at_the_TIFF_2009-01.jpg), [John Legend](https://upload.wikimedia.org/wikipedia/commons/0/04/University_of_Texas_at_Arlington_graduation_guest_speaker_John_Legend_%2810009630%29_%28cropped%29.jpg)

@@ -7,10 +7,8 @@ typeName: Galerie
 title: Hamburg Harley Days 2016
 seoTitle: Hamburg Harley Days 2016 - Bildergalerie
 ogTitle: Hamburg Harley Days 2016 - Bildergalerie
-description: Vor Kurzem fanden hier in Hamburg wieder die Harley Days statt und
-  ich habe natürlich wieder jede Menge Aufnahmen gemacht.
-excerpt: Vor Kurzem fanden hier in Hamburg wieder die Harley Days statt und ich
-  habe natürlich wieder jede Menge Aufnahmen gemacht.
+description: Vor Kurzem fanden hier in Hamburg wieder die Harley Days statt und ich habe natürlich wieder jede Menge Aufnahmen gemacht.
+excerpt: Vor Kurzem fanden hier in Hamburg wieder die Harley Days statt und ich habe natürlich wieder jede Menge Aufnahmen gemacht.
 fileName: 2016-07---hamburg-harley-days-2016.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_07_27920790664_e77affeb20_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_07_27920790664_e77affeb20_z__l.jpg
@@ -33,23 +31,13 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Biker rocken die Reeperbahn
-  
 ---
 
-**Vor Kurzem waren hier in Hamburg wieder Harley Days. Weil wir vom geplanten
-Festival aufgrund widriger Umstände leider abreisen mussten, hatten auch wir
-wieder die Gelegenheit, sie zu besuchen. Und es hat sich gelohnt!**
+**Vor Kurzem waren hier in Hamburg wieder Harley Days. Weil wir vom geplanten Festival aufgrund widriger Umstände leider abreisen mussten, hatten auch wir wieder die Gelegenheit, sie zu besuchen. Und es hat sich gelohnt!**
 
-Genau wie im letzten Jahr war auch bei der diesjährigen Parade wieder tolles
-Wetter und ich habe mit meiner Hosentaschenkamera aus der Hüfte geknipst, was
-das Zeug hält. Und unseren Besuchern aus dem wilden Süden, mit denen wir
-eigentlich das Festival unsicher machen wollten, hat es auch Spaß gemacht. Mit
-den beiden haben wir übrigens noch eine andere Hamburger Attraktion besucht,
-dazu verrate ich Euch hier demnächst mehr.
+Genau wie im letzten Jahr war auch bei der diesjährigen Parade wieder tolles Wetter und ich habe mit meiner Hosentaschenkamera aus der Hüfte geknipst, was das Zeug hält. Und unseren Besuchern aus dem wilden Süden, mit denen wir eigentlich das Festival unsicher machen wollten, hat es auch Spaß gemacht. Mit den beiden haben wir übrigens noch eine andere Hamburger Attraktion besucht, dazu verrate ich Euch hier demnächst mehr.
 
-Nun gibts erstmal ein paar Bilder von den Hamburg Harley Days. Die fanden
-übrigens vom 24. bis zum 26. Juni statt, die große Parade wurde am 26.
-zelebriert.
+Nun gibts erstmal ein paar Bilder von den Hamburg Harley Days. Die fanden übrigens vom 24. bis zum 26. Juni statt, die große Parade wurde am 26. zelebriert.
 
 <Gallery name="flickr/anneharleydays2016" />
 
@@ -58,5 +46,3 @@ zelebriert.
 1.  [2015](/2017/07/harley-days-2015-biker-rocken-den-kiez/)
 1.  2016 [](/2016/07/hamburg-harley-days-2016/)
 1.  [2017](/2017/07/harley-days-2017/)
-
-  

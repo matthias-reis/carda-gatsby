@@ -18,17 +18,20 @@ mainNavigation:
     url: /tag/lifestyle
     children:
       - { url: /tag/buecher-und-filme, label: Bücher & Filme }
-      - { url: /tag/antifaschismus-und-feminismus, label: Antifaschismus und Feminismus }
+      - {
+          url: /tag/antifaschismus-und-feminismus,
+          label: Antifaschismus und Feminismus,
+        }
       - { url: /tag/achtsamkeit, label: Achtsamkeit }
       - { url: /tag/fair-fashion-und-beauty, label: Fair Fashion & Beauty }
-      - { url: /tag/geschichten-und-erlebtes, label: Geschichten & Erlebtes}
+      - { url: /tag/geschichten-und-erlebtes, label: Geschichten & Erlebtes }
   - label: Slow Travel
     url: /tag/slow-travel
     children:
       - { url: /tag/hamburg, label: Hamburg }
       - { url: /tag/ausflug, label: Ausflug }
       - { url: /tag/skandinavien, label: Skandinavien }
-      - { url: /tag/britische-inseln, label: Britische Inseln}
+      - { url: /tag/britische-inseln, label: Britische Inseln }
       - { url: /tag/fernweh, label: Fernweh }
   - label: Buch kaufen
     external: true

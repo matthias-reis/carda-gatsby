@@ -27,8 +27,4 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Wunderschönes Schneegestöber
-  
 ---
-
-
-  

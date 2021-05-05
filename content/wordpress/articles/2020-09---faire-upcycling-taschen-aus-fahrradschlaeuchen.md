@@ -7,12 +7,8 @@ typeName: Produkttest
 title: Faire Upcycling-Taschen aus Fahrradschläuchen
 seoTitle: Faire Taschen aus Fahrradschläuchen - Unterwegs mit Luna und Hedwig
 ogTitle: Faire Taschen aus Fahrradschläuchen - Unterwegs mit Luna und Hedwig
-description: Taschen aus Fahrradschläuchen sind nicht nur robust - sie machen
-  auch optisch richtig was her. Die von Mingalabar sind obendrein auch noch fair
-  produziert.
-excerpt: Werbung & Affiliate Links - Taschen aus Fahrradschläuchen sind nicht
-  nur robust - sie machen auch optisch richtig was her. Die von Mingalabar sind
-  obendrein auch noch fair produziert.
+description: Taschen aus Fahrradschläuchen sind nicht nur robust - sie machen auch optisch richtig was her. Die von Mingalabar sind obendrein auch noch fair produziert.
+excerpt: Werbung & Affiliate Links - Taschen aus Fahrradschläuchen sind nicht nur robust - sie machen auch optisch richtig was her. Die von Mingalabar sind obendrein auch noch fair produziert.
 fileName: 2020-09---faire-upcycling-taschen-aus-fahrradschlaeuchen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_taschen-aus-fahrradschlauch__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_taschen-aus-fahrradschlauch__l.jpg
@@ -38,105 +34,43 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Unterwegs mit Luna und Hedwig
-  
 ---
 
 _Werbung &amp; Affiliate Links_ \*
 
-**Kennt Ihr Mingalabar? Ich habe den Upcycling-Shop vor Kurzem kennengelernt.
-Man findet dort wunderschöne Taschen, Rucksäcke und Accessoires aus ausgedienten
-Fahrradschläuchen. Gute Idee, oder?**
+**Kennt Ihr Mingalabar? Ich habe den Upcycling-Shop vor Kurzem kennengelernt. Man findet dort wunderschöne Taschen, Rucksäcke und Accessoires aus ausgedienten Fahrradschläuchen. Gute Idee, oder?**
 
-Das Material ist äußerst robust und in Taschenform ein echter Hingucker. Weil
-nichts durchgeht, wenn es mal regnet, sind die Taschen von Mingalabar tolle
-Begleiter auf Festivals beim Campen und Wandern. Genau das Richtige für mich
-also.
+Das Material ist äußerst robust und in Taschenform ein echter Hingucker. Weil nichts durchgeht, wenn es mal regnet, sind die Taschen von Mingalabar tolle Begleiter auf Festivals beim Campen und Wandern. Genau das Richtige für mich also.
 
-Ich hatte jetzt die Gelegenheit, mir zwei Modelle mal genauer anzuschauen:
-[Luna, die Handtasche](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FLuna)
-und
-[Hedwig den Kulturbeutel](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FHedwig).
-Beide trafen innerhalb von zwei Tagen bei mir ein. Beim Auspacken freute ich
-mich: Es roch ein bisschen nach Fahrradtour - der Duft des Abenteuers!
+Ich hatte jetzt die Gelegenheit, mir zwei Modelle mal genauer anzuschauen: [Luna, die Handtasche](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FLuna) und [Hedwig den Kulturbeutel](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FHedwig). Beide trafen innerhalb von zwei Tagen bei mir ein. Beim Auspacken freute ich mich: Es roch ein bisschen nach Fahrradtour - der Duft des Abenteuers!
 
 ## Taschen aus Fahrradschläuchen zu Hause und auf Tour
 
-Da das mit dem auf Tour gehen im Moment so eine Sache ist, kommen die beiden
-erstmal nicht auf Festivals zum Einsatz. Allerdings scheinen sie sich in
-heimischen Gefilden auch wohl zu fühlen. Hedwig ist im Moment für die
-Aufbewahrung meiner dekorativen Kosmetik zuständig und übernimmt diesen Job ganz
-vorbildlich. Mit ihrer handlichen Form und einer Größe von 22  x 10 × 10 cm
-eignet sie sich dafür ideal.
+Da das mit dem auf Tour gehen im Moment so eine Sache ist, kommen die beiden erstmal nicht auf Festivals zum Einsatz. Allerdings scheinen sie sich in heimischen Gefilden auch wohl zu fühlen. Hedwig ist im Moment für die Aufbewahrung meiner dekorativen Kosmetik zuständig und übernimmt diesen Job ganz vorbildlich. Mit ihrer handlichen Form und einer Größe von 22  x 10 × 10 cm eignet sie sich dafür ideal.
 
-Auf längere Sicht plane ich
-[Hedwig](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FHedwig)
-auf Reisen mitzunehmen. Zahnpuder, Zahnbürste, Haarbürste, Rasierer, Kajal,
-Mascara, Deocreme, Gesichtscreme und mein festes Parfum passen wunderbar rein
-und ich habe sogar noch Platz für etwas Kleinkram. Das habe ich bereits
-ausprobiert. Damit sie im Duschwagen auf dem Festival nicht im Wasser liegt, hat
-sie eine praktische Schlaufe, an der man sie mithilfe eines Karabinerhakens
-einfach aufhängen kann. Das ist zum Beispiel auch praktisch, wenn der
-[Rucksack](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2Frucksack)
-mal schon zu voll ist: Man kann sie einfach außen anbringen.
+Auf längere Sicht plane ich [Hedwig](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FHedwig) auf Reisen mitzunehmen. Zahnpuder, Zahnbürste, Haarbürste, Rasierer, Kajal, Mascara, Deocreme, Gesichtscreme und mein festes Parfum passen wunderbar rein und ich habe sogar noch Platz für etwas Kleinkram. Das habe ich bereits ausprobiert. Damit sie im Duschwagen auf dem Festival nicht im Wasser liegt, hat sie eine praktische Schlaufe, an der man sie mithilfe eines Karabinerhakens einfach aufhängen kann. Das ist zum Beispiel auch praktisch, wenn der [Rucksack](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2Frucksack) mal schon zu voll ist: Man kann sie einfach außen anbringen.
 
 <Gallery name="tube1" />
 
 ## Luna die Handtasche aus Fahrradschlauch
 
-Meine
-[Luna](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FLuna)
-habe von der ersten Minute an ins Herz geschlossen. Normalerweise bin ich eher
-der geradlinige Typ. Ihr kennt mich ja: Normalerweise laufe ich im Hoody rum und
-als Tasche habe ich maximal einen
-[Rucksack](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2Frucksack)
-oder einen
-[Messenger Bag](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FHugo-Size-S)
-dabei. Dieses Mal ist das anders: Die verspielte Fahrradschlauch-Tasche spricht
-mich mit ihrem ausgefallenen Fransendesign an.
+Meine [Luna](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FLuna) habe von der ersten Minute an ins Herz geschlossen. Normalerweise bin ich eher der geradlinige Typ. Ihr kennt mich ja: Normalerweise laufe ich im Hoody rum und als Tasche habe ich maximal einen [Rucksack](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2Frucksack) oder einen [Messenger Bag](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FHugo-Size-S) dabei. Dieses Mal ist das anders: Die verspielte Fahrradschlauch-Tasche spricht mich mit ihrem ausgefallenen Fransendesign an.
 
-Ihre Form erinnert mich stark an einen Traumfänger. Durch den langen Tragriemen
-kann ich sie wunderbar quer tragen und spüre sie dadurch praktisch nicht. Die
-Größe eignet sich toll für die klassische Abendausstattung: Konzertkarten,
-Geldbörse, Puderdose, Taschentücher und Handy passen perfekt hinein, ohne, dass
-ich quetschen muss.
+Ihre Form erinnert mich stark an einen Traumfänger. Durch den langen Tragriemen kann ich sie wunderbar quer tragen und spüre sie dadurch praktisch nicht. Die Größe eignet sich toll für die klassische Abendausstattung: Konzertkarten, Geldbörse, Puderdose, Taschentücher und Handy passen perfekt hinein, ohne, dass ich quetschen muss.
 
-Sie baumelt elegant in Gürtelhöhe und wertet meine Basics-Outfits wunderbar auf.
-Für die unter Euch, die es extravaganter mögen: Auch Kombinationen mit High
-Heels und Co. kann man sich wunderbar vorstellen. Stimmt doch, oder?
+Sie baumelt elegant in Gürtelhöhe und wertet meine Basics-Outfits wunderbar auf. Für die unter Euch, die es extravaganter mögen: Auch Kombinationen mit High Heels und Co. kann man sich wunderbar vorstellen. Stimmt doch, oder?
 
 ## Mingalabar - das steckt dahinter
 
-Mingalabar Gründer Hartfried Schmid arbeitete von 2005 vis 2014 in Bankok für
-die Unesco und lernte den Ort und die Menschen dort in dieser Zeit sehr gut
-kennen. Er begann sich im Bereich Upcyling umzusehen und konzentrierte sich
-zunächst auf die Produktion im strukturarmen Norden Thailands.
+Mingalabar Gründer Hartfried Schmid arbeitete von 2005 vis 2014 in Bankok für die Unesco und lernte den Ort und die Menschen dort in dieser Zeit sehr gut kennen. Er begann sich im Bereich Upcyling umzusehen und konzentrierte sich zunächst auf die Produktion im strukturarmen Norden Thailands.
 
-In Thailand wird kaum etwas weggeworfen. Geht etwas kaputt, wird es repariert.
-Auch Upcycling hat dort Tradition und erfreut sich großer Beliebtheit.
+In Thailand wird kaum etwas weggeworfen. Geht etwas kaputt, wird es repariert. Auch Upcycling hat dort Tradition und erfreut sich großer Beliebtheit.
 
-Mit einigen Freund⋆innen rief er dort das Projekt
-"[Forrest of Peace](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FForest-of-Peace)"
-ins Leben. Der Forrest ist ein Wald aus 1600 Teakbäumen, die voller Hingabe
-gepflegt werden. Innerhalb des Waldes wurden mit der Gründung von Mingalabar
-neue Arbeitsplätze mit fairer Bezahlung geschaffen - im Norden Thailands sind
-sie bis heute leider Mangelware. Das führt dazu, das immer mehr Menschen in den
-reichen Süden gehen.
+Mit einigen Freund⋆innen rief er dort das Projekt "[Forrest of Peace](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FForest-of-Peace)" ins Leben. Der Forrest ist ein Wald aus 1600 Teakbäumen, die voller Hingabe gepflegt werden. Innerhalb des Waldes wurden mit der Gründung von Mingalabar neue Arbeitsplätze mit fairer Bezahlung geschaffen - im Norden Thailands sind sie bis heute leider Mangelware. Das führt dazu, das immer mehr Menschen in den reichen Süden gehen.
 
-Mit seinem kreativen und nachhaltigen Upcycling-Projekt hatte Hartfried Schmid
-eine zukunftsträchtige Idee. Mit Mingalabar setzt er ein Zeichen gegen unfaire
-Arbeitsbedingungen und unsere wachsende Wegwerfmentalität. Gleichzeitig sorgt er
-dafür, dass Menschen ihre Heimat nicht verlassen müssen.
+Mit seinem kreativen und nachhaltigen Upcycling-Projekt hatte Hartfried Schmid eine zukunftsträchtige Idee. Mit Mingalabar setzt er ein Zeichen gegen unfaire Arbeitsbedingungen und unsere wachsende Wegwerfmentalität. Gleichzeitig sorgt er dafür, dass Menschen ihre Heimat nicht verlassen müssen.
 
-Neben
-[Taschen](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FMessenger-Bag)
-und
-[Rucksäcken](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2Frucksack)
-findet Ihr im Mingalabar Onlineshop auch
-[Geldbörsen](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FPortmonee)
-und
-[Fahrradzubehör](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FFahrradzubehoer).
-Diesen Gutschein im Wert von 5 Euro könnt Ihr bis einschließlich 31.12.2020 um
-23:59 Uhr im Mingalabar Onlineshop einlösen:  **icf49zL**
+Neben [Taschen](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FMessenger-Bag) und [Rucksäcken](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2Frucksack) findet Ihr im Mingalabar Onlineshop auch [Geldbörsen](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FPortmonee) und [Fahrradzubehör](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FFahrradzubehoer). Diesen Gutschein im Wert von 5 Euro könnt Ihr bis einschließlich 31.12.2020 um 23:59 Uhr im Mingalabar Onlineshop einlösen:  **icf49zL**
 
 (Der Gutschein kann pro Kund⋆in einmal verwendet werden)
 
@@ -144,11 +78,7 @@ Diesen Gutschein im Wert von 5 Euro könnt Ihr bis einschließlich 31.12.2020 um
 
 ## Hier könnt Ihr sehen, wo und wie die tollen Tube Taschen hergestellt werden
 
- <YouTube id="p8aU09nPYAk" />
+{' '}
+<YouTube id="p8aU09nPYAk" />
 
-_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
-meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-[Transparenz-Seite](/werbung/). _
-
-  
+_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _

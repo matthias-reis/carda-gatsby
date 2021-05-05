@@ -7,10 +7,8 @@ typeName: Galerie
 title: Olympiapark München
 seoTitle: Olympiapark München - Anne bloggt cardamonchai
 ogTitle: Olympiapark München - Anne bloggt cardamonchai
-description: Immer wieder schön ist ein ausgdehnter Spaziergang durch den
-  Olympiapark München
-excerpt: "Immer wieder schön: Ein ausgedehnter Spaziergang durch den Olympiapark
-  München."
+description: Immer wieder schön ist ein ausgdehnter Spaziergang durch den Olympiapark München
+excerpt: 'Immer wieder schön: Ein ausgedehnter Spaziergang durch den Olympiapark München.'
 fileName: 2009-05---olympiapark-muenchen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-3__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-3__l.jpg
@@ -28,13 +26,35 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Impressionen aus dem Olympiapark München
-  
 ---
 
 Immer wieder schön: Ein ausgedehnter Spaziergang durch den Olympiapark München.
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-3__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-2__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-3__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-3__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-4__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-4__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-2__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-2__l.jpg',
+    },
+  ]}
 />
-
-  

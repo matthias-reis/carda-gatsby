@@ -1,6 +1,6 @@
-import * as React from "react";
-import styled from "@emotion/styled";
-import { space, width } from "../style";
+import * as React from 'react';
+import styled from '@emotion/styled';
+import { space, width } from '../style';
 
 export const Container = styled.div<{ large?: boolean }>`
   position: relative;

@@ -7,10 +7,8 @@ typeName: Konzertbericht
 title: Beatsteaks live @Kantine Augsburg 13.08.2005
 seoTitle: Beatsteaks live in der Augsburger Kantine 13.08.2005
 ogTitle: Beatsteaks live in der Augsburger Kantine 13.08.2005
-description: Was für ein Konzert! Schuhe im Gesicht und zu Schluss standen wir
-  alle unter Wasser! Genial! Sagenhaft! Und überall blaue Flecken!
-excerpt: Was für ein  Beatsteaks Konzert! Schuhe im Gesicht und zu Schluss
-  standen wir alle unter Wasser! Genial! Sagenhaft! Und überall blaue Flecken!
+description: Was für ein Konzert! Schuhe im Gesicht und zu Schluss standen wir alle unter Wasser! Genial! Sagenhaft! Und überall blaue Flecken!
+excerpt: Was für ein  Beatsteaks Konzert! Schuhe im Gesicht und zu Schluss standen wir alle unter Wasser! Genial! Sagenhaft! Und überall blaue Flecken!
 fileName: 2013-05---beatsteaks-live-kantine-augsburg-13-08-2005.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_peterarnim__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_peterarnim__l.jpg
@@ -48,24 +46,153 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Da kommen Erinnerungen hoch!
-  
 ---
 
-**Gerade habe ich mir das neue [Beatsteaks](http://beatsteaks.com) -Album (
-[Muffensausen](http://www.thestereoboutique.com/de/s/beatsteaks/?intcmp=120506/beatsteaks/wmde/hp/s_hp/ban/bdy/de/Beatsteaks_Website_News_Bundle)
-) vorbestellt und aus diesem Anlass mal meine alten Konzertbilder gesichtet.
-Dabei bin ich auf eine (zugegeben sehr verwackelte) Bilderserie von ihrem
-legendären Kantine-Gig im August 2005 gestoßen.**
+**Gerade habe ich mir das neue [Beatsteaks](http://beatsteaks.com) -Album ( [Muffensausen](http://www.thestereoboutique.com/de/s/beatsteaks/?intcmp=120506/beatsteaks/wmde/hp/s_hp/ban/bdy/de/Beatsteaks_Website_News_Bundle) ) vorbestellt und aus diesem Anlass mal meine alten Konzertbilder gesichtet. Dabei bin ich auf eine (zugegeben sehr verwackelte) Bilderserie von ihrem legendären Kantine-Gig im August 2005 gestoßen.**
 
-Da kommen Erinnerungen hoch! Was für ein Konzert! Schuhe im Gesicht und zu
-Schluss standen wir alle unter Wasser! Genial! Sagenhaft! Und überall blaue
-Flecken! Was freue ich mich drauf, die Jungs bald wieder auf der Bühne zu sehen!
-Danke, dass es Euch gibt! Ihr seid toll!
+Da kommen Erinnerungen hoch! Was für ein Konzert! Schuhe im Gesicht und zu Schluss standen wir alle unter Wasser! Genial! Sagenhaft! Und überall blaue Flecken! Was freue ich mich drauf, die Jungs bald wieder auf der Bühne zu sehen! Danke, dass es Euch gibt! Ihr seid toll!
 
 Und nun: Vorhang auf für meine Bildergalerie. Viel Spaß beim Anschauen!
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_peterle__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_peterle__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_relax__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_relax__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_support__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_support__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_arnim-getarnt__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_arnim-getarnt__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_thomas__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_thomas__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_i-donc2b4t-care-as-long-as-you-sing__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_i-donc2b4t-care-as-long-as-you-sing__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_let-me-in__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_let-me-in__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_peter__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_peter__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_peter-again__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_peter-again__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_peterarnim__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_peterarnim__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_dankeschc3b6c3b6n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_dankeschc3b6c3b6n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_der-peter__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_der-peter__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_groc39fe-band-kleiner-club__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_groc39fe-band-kleiner-club__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_beste-liveband-der-welt__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_beste-liveband-der-welt__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_bernd-auf-der-bar__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_bernd-auf-der-bar__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_auf-der-haifischbar__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_auf-der-haifischbar__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_berndthorstenarnim__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_berndthorstenarnim__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_beatsteaks-anne__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_beatsteaks-anne__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_arnim-___m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_arnim-___l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_arnim__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_arnim__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_arnim2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_arnim2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_arnim-mitten-drin__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_arnim-mitten-drin__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_arnim-again__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_arnim-again__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_peterle__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_peterle__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_relax__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_relax__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_support__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_support__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_arnim-getarnt__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_arnim-getarnt__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_thomas__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_thomas__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_i-donc2b4t-care-as-long-as-you-sing__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_i-donc2b4t-care-as-long-as-you-sing__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_let-me-in__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_let-me-in__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_peter__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_peter__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_peter-again__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_peter-again__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_peterarnim__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_peterarnim__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_dankeschc3b6c3b6n__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_dankeschc3b6c3b6n__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_der-peter__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_der-peter__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_groc39fe-band-kleiner-club__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_groc39fe-band-kleiner-club__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_beste-liveband-der-welt__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_beste-liveband-der-welt__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_bernd-auf-der-bar__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_bernd-auf-der-bar__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_auf-der-haifischbar__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_auf-der-haifischbar__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_berndthorstenarnim__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_berndthorstenarnim__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_beatsteaks-anne__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_beatsteaks-anne__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_arnim-___m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_arnim-___l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_arnim__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_arnim__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_arnim2__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_arnim2__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_arnim-mitten-drin__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_arnim-mitten-drin__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_arnim-again__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_arnim-again__l.jpg',
+    },
+  ]}
 />
-
-  

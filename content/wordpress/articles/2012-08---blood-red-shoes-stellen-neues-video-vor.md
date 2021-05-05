@@ -7,10 +7,8 @@ typeName: Review
 title: Blood Red Shoes stellen neues Video vor
 seoTitle: Blood Red Shoes stellen neues Video vor - Regen ist abgesagt
 ogTitle: Blood Red Shoes stellen neues Video vor - Regen ist abgesagt
-description: Heute ist Freitag. Freitag und es regnet. Aber das macht mir nichts
-  aus, weil die BLOOD RED SHOES heute ihr neues Video vorgestellt haben.
-excerpt: Heute ist Freitag. Freitag und es regnet. Aber das macht mir nichts
-  aus, weil die BLOOD RED SHOES heute ihr neues Video vorgestellt haben.
+description: Heute ist Freitag. Freitag und es regnet. Aber das macht mir nichts aus, weil die BLOOD RED SHOES heute ihr neues Video vorgestellt haben.
+excerpt: Heute ist Freitag. Freitag und es regnet. Aber das macht mir nichts aus, weil die BLOOD RED SHOES heute ihr neues Video vorgestellt haben.
 fileName: 2012-08---blood-red-shoes-stellen-neues-video-vor.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_15695_105416536147151_5021614_n-e1587460509836__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_15695_105416536147151_5021614_n-e1587460509836__l.jpg
@@ -48,35 +46,19 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Regen am Freitag macht mir nichts aus
-  
 ---
 
-**Heute ist Freitag. Freitag und es regnet. Aber das macht mir nichts aus, weil
-die ♥BLOOD RED SHOES♥ heute ihr neues Video vorgestellt haben. Und es ist toll!
-Laura und Steven hatten ja schon angekündigt, dass es was ganz Besonderes werden
-sollte.**
+**Heute ist Freitag. Freitag und es regnet. Aber das macht mir nichts aus, weil die ♥BLOOD RED SHOES♥ heute ihr neues Video vorgestellt haben. Und es ist toll! Laura und Steven hatten ja schon angekündigt, dass es was ganz Besonderes werden sollte.**
 
-Heute schreiben sie auf Ihrer Facebook-Seite, dass es sich um bisheriges
-Lieblingsvideo handelt:
+Heute schreiben sie auf Ihrer Facebook-Seite, dass es sich um bisheriges Lieblingsvideo handelt:
 
-> "well we said we wanted to do something special for our next video...so here
-> it is! this is probably our favourite video that we've made to date, so please
-> share it around!"
+> "well we said we wanted to do something special for our next video...so here it is! this is probably our favourite video that we've made to date, so please share it around!"
 
-Natürlich gibt es noch weitere Gründe, gute Laune zu haben. Es ist Freitag.
-Freitag und es regnet. Und ich werde heute ins Kino gehen. Und tanzen. Und
-morgen ist das Wetter wieder schön. Außerdem trage ich heute meine Glücksschuhe.
-Ich habe sie  vor ein paar Jahren auf einem Bazar in der Türkei erstanden. Sie
-sind nicht die Bequemsten, muss ich gestehen, aber dafür sehen sie toll aus und
-sie bringen Glück. Außerdem sind rubinrote Steine dran. Und ich mag Rubinrot.
-Bloodred.
+Natürlich gibt es noch weitere Gründe, gute Laune zu haben. Es ist Freitag. Freitag und es regnet. Und ich werde heute ins Kino gehen. Und tanzen. Und morgen ist das Wetter wieder schön. Außerdem trage ich heute meine Glücksschuhe. Ich habe sie  vor ein paar Jahren auf einem Bazar in der Türkei erstanden. Sie sind nicht die Bequemsten, muss ich gestehen, aber dafür sehen sie toll aus und sie bringen Glück. Außerdem sind rubinrote Steine dran. Und ich mag Rubinrot. Bloodred.
 
-Naja, nun genug vom Smalltalk, ich möchte Euch ja nicht unnötig lange auf die
-Folter spannen. Hier sind für Euch die Blood Red Shoes mit 'In Time To Voices'
-aus dem gleichnamigen, brillanten, im März 2012 erschienen Album.
+Naja, nun genug vom Smalltalk, ich möchte Euch ja nicht unnötig lange auf die Folter spannen. Hier sind für Euch die Blood Red Shoes mit 'In Time To Voices' aus dem gleichnamigen, brillanten, im März 2012 erschienen Album.
 
 ## Blood Red Shoes – "In Time To Voices"
 
- <YouTube id="3N69hRav3WI" />
-
-  
+{' '}
+<YouTube id="3N69hRav3WI" />

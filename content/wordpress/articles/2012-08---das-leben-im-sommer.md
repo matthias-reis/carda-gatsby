@@ -7,12 +7,8 @@ typeName: Artikel
 title: Das Leben im Sommer
 seoTitle: Kernzeitverkürzung - das Leben im Sommer ist schön
 ogTitle: Kernzeitverkürzung - das Leben im Sommer ist schön
-description: '"Kernzeitverkürzung". Das bedeutet so viel wie "Hitzefrei" und
-  schreit nach einem Picknick am See. Im Büro wird es im Winter sicher wieder
-  kühl genug sein. Der Kaffee ist heute irgendwie zu warm.'
-excerpt: '"Kernzeitverkürzung". Das bedeutet so viel wie "Hitzefrei" und schreit
-  nach einem Picknick am See. Im Büro wird es im Winter sicher wieder kühl genug
-  sein. Der Kaffee ist heute irgendwie zu warm.'
+description: '"Kernzeitverkürzung". Das bedeutet so viel wie "Hitzefrei" und schreit nach einem Picknick am See. Im Büro wird es im Winter sicher wieder kühl genug sein. Der Kaffee ist heute irgendwie zu warm.'
+excerpt: '"Kernzeitverkürzung". Das bedeutet so viel wie "Hitzefrei" und schreit nach einem Picknick am See. Im Büro wird es im Winter sicher wieder kühl genug sein. Der Kaffee ist heute irgendwie zu warm.'
 fileName: 2012-08---das-leben-im-sommer.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_255337_448938665128268_1765079901_n-foto-auf-sandstein1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_255337_448938665128268_1765079901_n-foto-auf-sandstein1__l.jpg
@@ -62,39 +58,22 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: "<strong>Oder: Strände lassen sich nicht in Schubladen einordnen.</strong>"
-  
+subTitle: '<strong>Oder: Strände lassen sich nicht in Schubladen einordnen.</strong>'
 ---
 
-**"Kernzeitverkürzung". Das bedeutet so viel wie "Hitzefrei" und schreit nach
-einem Picknick am See. Im Büro wird es im Winter sicher wieder kühl genug sein.
-Der Kaffee ist heute irgendwie zu warm. Wie ein etwas zu klein geratenes
-Kleidungsstück fühlt sich das an.**
+**"Kernzeitverkürzung". Das bedeutet so viel wie "Hitzefrei" und schreit nach einem Picknick am See. Im Büro wird es im Winter sicher wieder kühl genug sein. Der Kaffee ist heute irgendwie zu warm. Wie ein etwas zu klein geratenes Kleidungsstück fühlt sich das an.**
 
-Manchmal mangelt es an Verständnis, dann bedarf es einer Erklärung.
-Lebensplanung für Spontane. Den Koffer packen und zum Flughafen. Nur noch wenige
-Wochen. Das Meer ruft schon. Wasserdichte Strandschuhe sind für Barfußdenker
-nicht nötig. Der Sand zwischen den Zehen und das Salz im Haar. Das gilt es nicht
-zu vermeiden, man sollte versuchen es mit aller Macht herbeizuführen. So oft,
-wie nur irgend möglich.
+Manchmal mangelt es an Verständnis, dann bedarf es einer Erklärung. Lebensplanung für Spontane. Den Koffer packen und zum Flughafen. Nur noch wenige Wochen. Das Meer ruft schon. Wasserdichte Strandschuhe sind für Barfußdenker nicht nötig. Der Sand zwischen den Zehen und das Salz im Haar. Das gilt es nicht zu vermeiden, man sollte versuchen es mit aller Macht herbeizuführen. So oft, wie nur irgend möglich.
 
-Das Leben gehört nicht vakuumverpackt in eine Schublade eingeräumt. Es ist mal
-herzförmig und bunt, mal grau und steinartig, dann wieder sternförmig und
-glitzernd. Immer in Bewegung. Genau wie ein Strand. Geformt vom Ozean.
+Das Leben gehört nicht vakuumverpackt in eine Schublade eingeräumt. Es ist mal herzförmig und bunt, mal grau und steinartig, dann wieder sternförmig und glitzernd. Immer in Bewegung. Genau wie ein Strand. Geformt vom Ozean.
 
-Ich wünsche allen einen schönen Montag. Hiermit möchte ich nochmal freundlich
-auf mein
-[spektakuläres Gewinnspiel](//2012/08/16/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/)
-hinweisen, für das ich weder Kosten noch Mühen gescheut habe. Es gibt tolle
-Musik zu Gewinnen. Ich würde mich sehr freuen, wenn Ihr mitmacht und das
-womöglich auch noch weitererzählt.
+Ich wünsche allen einen schönen Montag. Hiermit möchte ich nochmal freundlich auf mein [spektakuläres Gewinnspiel](//2012/08/16/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/) hinweisen, für das ich weder Kosten noch Mühen gescheut habe. Es gibt tolle Musik zu Gewinnen. Ich würde mich sehr freuen, wenn Ihr mitmacht und das womöglich auch noch weitererzählt.
 
 Liebe Grüße aus der Mittagspausensonne hinter dem Bürofenster. \_\_
 
 ## Song des Tages Weezer – "Island In The Sun"
 
- <YouTube id="w5PG3yiSx-E" />
+{' '}
+<YouTube id="w5PG3yiSx-E" />
 
 RIP Mikey Welsh
-
-  

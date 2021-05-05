@@ -7,10 +7,8 @@ typeName: Review
 title: Kalle Kuul - "Die Prinzessin von Osnabrück"
 seoTitle: Kalle Kuul mit neuem Video zu "Die Prinzessin von Osnabrück"
 ogTitle: Kalle Kuul mit neuem Video zu "Die Prinzessin von Osnabrück"
-description: Vor ziemlich genau drei Jahren wurde das Singer-Songwriter Projekt
-  Kalle Kuul gegründet. Jetzt haben die Kölner ihr neues Video vorgestellt.
-excerpt: Vor ziemlich genau drei Jahren wurde das Singer-Songwriter Projekt
-  Kalle Kuul gegründet. Jetzt haben die Kölner ihr neues Video vorgestellt.
+description: Vor ziemlich genau drei Jahren wurde das Singer-Songwriter Projekt Kalle Kuul gegründet. Jetzt haben die Kölner ihr neues Video vorgestellt.
+excerpt: Vor ziemlich genau drei Jahren wurde das Singer-Songwriter Projekt Kalle Kuul gegründet. Jetzt haben die Kölner ihr neues Video vorgestellt.
 fileName: 2019-09---kalle-kuul-die-prinzessin-von-osnabrueck.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_kalle-kuul.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_kalle-kuul.png__l.jpg
@@ -39,80 +37,42 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Neues Video der Kölner Singer-Songwriter
-  
 ---
 
-**Vor ziemlich genau drei Jahren gründeten David und Lukas das Singer-Songwriter
-Projekt Kalle Kuul. Kurze Zeit später kamen Martin und Marcel dazu. Rio
-komplettierte die Band vor Kurzem. Jetzt haben die fünf ihr neues Musikvideo
-vorgestellt. "Die Prinzessin von Osnabrück" ist ein ganz besonderer Song.**
+**Vor ziemlich genau drei Jahren gründeten David und Lukas das Singer-Songwriter Projekt Kalle Kuul. Kurze Zeit später kamen Martin und Marcel dazu. Rio komplettierte die Band vor Kurzem. Jetzt haben die fünf ihr neues Musikvideo vorgestellt. "Die Prinzessin von Osnabrück" ist ein ganz besonderer Song.**
 
-2016 fingen David (Gitarre/Ukulele) und Lukas (Gesang) an, gemeinsam Songs zu
-arrangieren, die Lukas in den Jahren davor geschrieben hatte. Etwas später kam
-Martin auf ein Bier im Proberaum vorbei und beschloss das nächste Mal seinen
-Bass mitzubringen. Mit Marcel (Gitarre), der über eine Anzeige im Internet
-dazukam und Mario "Rio" (Percussion) wurde die Band komplett. Rio kümmert sich
-inzwischen um die Percussion. Bisher hatte David mit den Füßen eine Bassdrum und
-einen Schellenkranz gespielt.
+2016 fingen David (Gitarre/Ukulele) und Lukas (Gesang) an, gemeinsam Songs zu arrangieren, die Lukas in den Jahren davor geschrieben hatte. Etwas später kam Martin auf ein Bier im Proberaum vorbei und beschloss das nächste Mal seinen Bass mitzubringen. Mit Marcel (Gitarre), der über eine Anzeige im Internet dazukam und Mario "Rio" (Percussion) wurde die Band komplett. Rio kümmert sich inzwischen um die Percussion. Bisher hatte David mit den Füßen eine Bassdrum und einen Schellenkranz gespielt.
 
-Die Songs der Kölner entstehen, indem Sänger Lukas die Texte schreibt und sich
-die Gesangsmelodie sowie die Harmonien ausdenkt. David fügt dann das Arrangement
-hinzu, komponiert eine zweite Stimme, Gitarrenlicks, Grooves und Basslines.
-Anschließend wird gemeinsam geübt, bis alles sitzt.
+Die Songs der Kölner entstehen, indem Sänger Lukas die Texte schreibt und sich die Gesangsmelodie sowie die Harmonien ausdenkt. David fügt dann das Arrangement hinzu, komponiert eine zweite Stimme, Gitarrenlicks, Grooves und Basslines. Anschließend wird gemeinsam geübt, bis alles sitzt.
 
 ## Kalle Kuul haben sich gefunden
 
-<RemoteImage alt={`kalle-kuul`} size="medium"
-title={`Lukas von Kalle Kuul mit seiner Hündin Otti. Foto: Kalle Kuul`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kalle-kuul-1__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kalle-kuul-1__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQHBgMF/8QAJxAAAgEDBAIBBAMAAAAAAAAAAQIDBAURABIhMQZBEwcVIoEjUZH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQT/xAAeEQACAQQDAQAAAAAAAAAAAAAAAQMCESFBEiIxUv/aAAwDAQACEQMRAD8At0SMxCou9j0oPLH0P3qdVnmlI3jUvkMN4jt99ipyIbZNO0kExDY2GHGckqw3g8EZzjOk795Bc5bZc2N1wka/I8NK3xbFX8ioYDd1gd515H07pv4LxfWiWWjpZB9vNSpcfIn5Zz7C5x1wc40LnVWUNFF15PZbrdUS1dBSVE9LJRzTRJI9NKwLwswyUJHsaXorlDVvXGmLkQytT4ZShMiHDYB54LDn331qd+RfUGtkqZ6e3mKhRGP5hhJK376A765I1lqWa7XOoaZpjUDeWBDYZnPvPWTx/g1Kp/lA2to20lnlj2yyV8kyJmOOOSJCqgjB4xz2e/71yS0UVYtsFdTRsYaVqdEh3RwoNrEsseSAx4556GjRoVg0ttrIrD4fZqeMHFc4yqkNUDn1nhdM0tio5DPDE9VBDEVKiKUBge85xo0anpKkj//Z"
+<RemoteImage
+  alt={`kalle-kuul`}
+  size="medium"
+  title={`Lukas von Kalle Kuul mit seiner Hündin Otti. Foto: Kalle Kuul`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kalle-kuul-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kalle-kuul-1__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQHBgMF/8QAJxAAAgEDBAIBBAMAAAAAAAAAAQIDBAURABIhMQZBEwcVIoEjUZH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQT/xAAeEQACAQQDAQAAAAAAAAAAAAAAAQMCESFBEiIxUv/aAAwDAQACEQMRAD8At0SMxCou9j0oPLH0P3qdVnmlI3jUvkMN4jt99ipyIbZNO0kExDY2GHGckqw3g8EZzjOk795Bc5bZc2N1wka/I8NK3xbFX8ioYDd1gd515H07pv4LxfWiWWjpZB9vNSpcfIn5Zz7C5x1wc40LnVWUNFF15PZbrdUS1dBSVE9LJRzTRJI9NKwLwswyUJHsaXorlDVvXGmLkQytT4ZShMiHDYB54LDn331qd+RfUGtkqZ6e3mKhRGP5hhJK376A765I1lqWa7XOoaZpjUDeWBDYZnPvPWTx/g1Kp/lA2to20lnlj2yyV8kyJmOOOSJCqgjB4xz2e/71yS0UVYtsFdTRsYaVqdEh3RwoNrEsseSAx4556GjRoVg0ttrIrD4fZqeMHFc4yqkNUDn1nhdM0tio5DPDE9VBDEVKiKUBge85xo0anpKkj//Z"
 />
 
-Das Quintett geht ganz unterschiedlichen Berufen nach. David ist studierter
-Bild- und Toningenieur, Martin Inhaber eines nachhaltigen Modelabels, Marcel
-studiert noch, Rio ist Lehrer und Lukas Schreiner. Martin, Rio und Lukas lernten
-sich kennen, als Lukas und Martin bei Martin einen Studentenjob hatten. David
-ist Martins bester Freund und kam damals immer zum Mittagessen in der Firma
-vorbei. So fügte sich alles wie von selbst.
+Das Quintett geht ganz unterschiedlichen Berufen nach. David ist studierter Bild- und Toningenieur, Martin Inhaber eines nachhaltigen Modelabels, Marcel studiert noch, Rio ist Lehrer und Lukas Schreiner. Martin, Rio und Lukas lernten sich kennen, als Lukas und Martin bei Martin einen Studentenjob hatten. David ist Martins bester Freund und kam damals immer zum Mittagessen in der Firma vorbei. So fügte sich alles wie von selbst.
 
-Bis jetzt hat die Combo einige Songs aufgenommen, die es im Youtube Kanal von
-Kalle Kuul zu hören und zu sehen gibt. Bei den Videos legt die Band sehr viel
-Wert auf Details. Davids Expertenwissen spielt hier sicher eine tragende Rolle -
-was sehr gut ist: Die Werke sind wirklich sehr sehenswert und machen Lust auf
-mehr. Insgesamt können Kalle Kuul inzwischen 13 auskomponierte Songs vorweisen,
-die regelmäßig in ihrer Heimat Köln performt werden.
+Bis jetzt hat die Combo einige Songs aufgenommen, die es im Youtube Kanal von Kalle Kuul zu hören und zu sehen gibt. Bei den Videos legt die Band sehr viel Wert auf Details. Davids Expertenwissen spielt hier sicher eine tragende Rolle - was sehr gut ist: Die Werke sind wirklich sehr sehenswert und machen Lust auf mehr. Insgesamt können Kalle Kuul inzwischen 13 auskomponierte Songs vorweisen, die regelmäßig in ihrer Heimat Köln performt werden.
 
 ## "Die Prinzessin von Osnabrück" - das Video
 
 Über die "Die Prinzessin von Osnabrück" hat mir Lukas einiges erzählt:
 
-> "Ich habe in Leipzig auf der Straße eine Frau kennengelernt. Sie war für die
-> Liebe von Leipzig nach Osnabrück gezogen. Leider hatte das Ganze nicht so
-> funktioniert, wie sie es sich vorgestellt hatte, also war sie wieder auf der
-> Suche nach einer Wohnung in Leipzig. Sie war stinksauer auf ihren Exfreund und
-> zutiefst in ihrem Stolz verletzt. Ihr rotziger Charme stand ihr sehr gut und
-> sie verzauberte mich auf eine ganz besondere Art. Ich hing geradezu an ihren
-> Lippen, als wir bei einem Glas Wein vor einem Hinterhof-Club saßen. Einige
-> Zeilen des Songs sind direkte Zitate von ihr: 'Ich bin fast 30, doch seh aus
-> wie 22' zum Beispiel. Den einzigen Kontakt seither hatten wir, als ich ihr den
-> Link zum Video geschickt habe. Sie war entzückt. Ich glaube, dass ich nun
-> sogar Teil ihres Hofstaats sein darf."
+> "Ich habe in Leipzig auf der Straße eine Frau kennengelernt. Sie war für die Liebe von Leipzig nach Osnabrück gezogen. Leider hatte das Ganze nicht so funktioniert, wie sie es sich vorgestellt hatte, also war sie wieder auf der Suche nach einer Wohnung in Leipzig. Sie war stinksauer auf ihren Exfreund und zutiefst in ihrem Stolz verletzt. Ihr rotziger Charme stand ihr sehr gut und sie verzauberte mich auf eine ganz besondere Art. Ich hing geradezu an ihren Lippen, als wir bei einem Glas Wein vor einem Hinterhof-Club saßen. Einige Zeilen des Songs sind direkte Zitate von ihr: 'Ich bin fast 30, doch seh aus wie 22' zum Beispiel. Den einzigen Kontakt seither hatten wir, als ich ihr den Link zum Video geschickt habe. Sie war entzückt. Ich glaube, dass ich nun sogar Teil ihres Hofstaats sein darf."
 
-Aufgenommen haben Kalle Kuul den Song in Davids Wohnzimmer. Das Video hat Lukas
-Kumpel Julian Lührs gefilmt und geschnitten. Die heimliche Hauptrolle hat seine
-vierjährige Hündin Otti. In zwei bis drei Wochen soll "Die Prinzessin von
-Osnabrück" auch bei iTunes und Spotify Premiere feiern.
+Aufgenommen haben Kalle Kuul den Song in Davids Wohnzimmer. Das Video hat Lukas Kumpel Julian Lührs gefilmt und geschnitten. Die heimliche Hauptrolle hat seine vierjährige Hündin Otti. In zwei bis drei Wochen soll "Die Prinzessin von Osnabrück" auch bei iTunes und Spotify Premiere feiern.
 
 Hier sind für Euch Kalle Kuul mit "Die Prinzessin von Osnabrück".
 
- <YouTube id="9bhzuqbPVC4" />
+{' '}
+<YouTube id="9bhzuqbPVC4" />
 
-Hat Euch der Beitrag neugierig gemacht? Dann bleibt am besten dran. In Kürze
-wird hier im Blog ein Interview mit Kalle Kuul erscheinen. Wenn Ihr in Zukunft
-nichts mehr verpassen wollt, [abonniert gerne meinen Newsletter](#newsletter).
-Dann halte ich Euch auf dem Laufenden.
+Hat Euch der Beitrag neugierig gemacht? Dann bleibt am besten dran. In Kürze wird hier im Blog ein Interview mit Kalle Kuul erscheinen. Wenn Ihr in Zukunft nichts mehr verpassen wollt, [abonniert gerne meinen Newsletter](#newsletter). Dann halte ich Euch auf dem Laufenden.
 
 **Quelle und Fotos:** [Kalle Kuul](https://kallekuul.com/)
-
-  

@@ -24,9 +24,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Ausgefallener Sonnenschutz
-  
 ---
 
 &nbsp;
-
-  

@@ -7,10 +7,8 @@ typeName: Artikel
 title: Wenn die Hölle zufriert
 seoTitle: Wenn die Hölle zufriert - ein winterlicher Tagebucheintrag
 ogTitle: Wenn die Hölle zufriert - ein winterlicher Tagebucheintrag
-description: Draußen sind es gefühlte - 21 ° C. Drinnen wird es Zeit für einen
-  neuen Blogeintrag. Die Katzen liegen zusammengerollt unter dem Heizkörper.
-excerpt: Draußen sind es gefühlte - 21 ° C. Drinnen wird es Zeit für einen neuen
-  Blogeintrag. Die Katzen liegen zusammengerollt unter dem Heizkörper.
+description: Draußen sind es gefühlte - 21 ° C. Drinnen wird es Zeit für einen neuen Blogeintrag. Die Katzen liegen zusammengerollt unter dem Heizkörper.
+excerpt: Draußen sind es gefühlte - 21 ° C. Drinnen wird es Zeit für einen neuen Blogeintrag. Die Katzen liegen zusammengerollt unter dem Heizkörper.
 fileName: 2012-02---wenn-die-hoelle-zufriert.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_02_download__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_02_download__l.jpg
@@ -50,51 +48,32 @@ labels:
   - wenn die Hölle zufriert
   - Winter
   - Wo ist eigentlich der Sommer schon wieder hin?
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Tagebucheintrag
-  
 ---
 
-**Draußen sind es gefühlte - 21 ° C. Drinnen wird es Zeit für einen neuen
-Blogeintrag.**
+**Draußen sind es gefühlte - 21 ° C. Drinnen wird es Zeit für einen neuen Blogeintrag.**
 
-Manchmal steht man am Fenster, hört einen Zug vorbeirattern und denkt an die
-Ferne. Wo man jetzt überall sein könnte. Beim Gummistiefeleinkaufen in
-Lappeenranta. An einem verlassenen, korsischen Strand oder im Stehcafé in Bad
-Münstereifel. Wie würde es einem dann wohl gehen? Würde das irgendetwas an der
-Stimmung ändern?
+Manchmal steht man am Fenster, hört einen Zug vorbeirattern und denkt an die Ferne. Wo man jetzt überall sein könnte. Beim Gummistiefeleinkaufen in Lappeenranta. An einem verlassenen, korsischen Strand oder im Stehcafé in Bad Münstereifel. Wie würde es einem dann wohl gehen? Würde das irgendetwas an der Stimmung ändern?
 
-Die Kälte friert jedes auch noch so durchgekaute Thema ein. Ob auf politischer
-oder wirtschaftlicher Ebene. Eigentlich ist das ziemlich praktisch. Man sollte
-eine Möglichkeit finden, das Klima für immer auf unter - 10 ° C abzukühlen. Dann
-hätten wir keine Probleme mehr. Und die Eisbärpopulation würde sich auch
-erholen.
+Die Kälte friert jedes auch noch so durchgekaute Thema ein. Ob auf politischer oder wirtschaftlicher Ebene. Eigentlich ist das ziemlich praktisch. Man sollte eine Möglichkeit finden, das Klima für immer auf unter - 10 ° C abzukühlen. Dann hätten wir keine Probleme mehr. Und die Eisbärpopulation würde sich auch erholen.
 
-Die Katzen liegen zusammengerollt unter dem Heizkörper. Eigentlich sollte man
-sich viel mehr von ihrem Verhalten abschauen. Irgendwie machen sie es doch genau
-richtig.
+Die Katzen liegen zusammengerollt unter dem Heizkörper. Eigentlich sollte man sich viel mehr von ihrem Verhalten abschauen. Irgendwie machen sie es doch genau richtig.
 
-Aber es gibt ja so viel zu tun. Über den plötzlichen, unvorhersehbaren
-Wintereinbruch Anfang Februar jammern, z. B., oder Mitbürgern beim Autofahren
-den Weg abschneiden. Bei Bäcker Kuchen vorbestellen. Eine Versicherung für´s
-Mobiltelefon abschließen. SUVs probefahren, Gerichtssendungen sehen und
-Reinigungskräfte kritisieren.
+Aber es gibt ja so viel zu tun. Über den plötzlichen, unvorhersehbaren Wintereinbruch Anfang Februar jammern, z. B., oder Mitbürgern beim Autofahren den Weg abschneiden. Bei Bäcker Kuchen vorbestellen. Eine Versicherung für´s Mobiltelefon abschließen. SUVs probefahren, Gerichtssendungen sehen und Reinigungskräfte kritisieren.
 
-Man sollte darüber auf jeden Fall mal intensiv nachdenken. Einfach mal jemanden
-vorlassen. Etwas mehr Obst essen. Eine Petition unterschreiben. Den Fernseher
-ausmachen.
+Man sollte darüber auf jeden Fall mal intensiv nachdenken. Einfach mal jemanden vorlassen. Etwas mehr Obst essen. Eine Petition unterschreiben. Den Fernseher ausmachen.
 
 Vielleicht ist es ja dann draußen schon wieder ein kleines Bisschen wärmer.
 
 ## Song des Tages: PJ Harvey/Tom Yorke – "This Mess We´re In"
 
- <YouTube id="GbYIiGu8duk" />
+{' '}
+<YouTube id="GbYIiGu8duk" />
 
 <h1 id="watch-headline-title"></h1>
-
-  

@@ -7,12 +7,8 @@ typeName: Artikel
 title: Sommerregen, Fernweh und Wodkaverbot
 seoTitle: Sommerregen, Fernweh und Wodkaverbot - Tagebucheintrag
 ogTitle: Sommerregen, Fernweh und Wodkaverbot - Tagebucheintrag
-description: Sommerregen auf warmem Asphalt. Musik im Kopf, ein Gefühl wie in
-  Watte verpackt. Wasser auf Staub. Kaum zurück in der Zivilisation, schon
-  wieder Fernweh.
-excerpt: Sommerregen auf warmem Asphalt. Musik im Kopf, ein Gefühl wie in Watte
-  verpackt. Wasser auf Staub. Kaum zurück in der Zivilisation, schon wieder
-  Fernweh.
+description: Sommerregen auf warmem Asphalt. Musik im Kopf, ein Gefühl wie in Watte verpackt. Wasser auf Staub. Kaum zurück in der Zivilisation, schon wieder Fernweh.
+excerpt: Sommerregen auf warmem Asphalt. Musik im Kopf, ein Gefühl wie in Watte verpackt. Wasser auf Staub. Kaum zurück in der Zivilisation, schon wieder Fernweh.
 fileName: 2011-06---sommerregen-fernweh-und-wodkaverbot.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_07_cool-car-prinz-karl-15-06__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_07_cool-car-prinz-karl-15-06__l.jpg
@@ -64,30 +60,20 @@ labels:
   - youtube
   - Zivilisation
   - Zwischenfall
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Tagebucheintrag
-  
 ---
 
-**Sommerregen auf warmem Asphalt. Musik im Kopf, ein Gefühl wie in Watte
-verpackt. Wasser auf Staub. Kaum zurück in der Zivilisation, schon wieder vom
-Fernweh gepackt.**
+**Sommerregen auf warmem Asphalt. Musik im Kopf, ein Gefühl wie in Watte verpackt. Wasser auf Staub. Kaum zurück in der Zivilisation, schon wieder vom Fernweh gepackt.**
 
-Eine kurze Woche mit sagenhaftem Wetter. Vulkanasche, Flugplatzchaos,
-Steuersenkungen, Wodkaverbot und Christensekten. Die Boulevardpresse versucht
-mit aller Gewalt das Sommerloch zu füllen und verbietet jetzt das Baden in
-Baggerseen. Grund: Gefahr vor EHEC. Zeitgleich sterben in Japan die Menschen den
-Strahlentod, in China flüchten die Menschen vor dem Sturm und der damit
-zusammenhängenden Flut und in Nordirland flammt der Konflikt zwischen Katholiken
-und Protestanten wieder auf. Um nur einige Krisenherde zu nennen.
+Eine kurze Woche mit sagenhaftem Wetter. Vulkanasche, Flugplatzchaos, Steuersenkungen, Wodkaverbot und Christensekten. Die Boulevardpresse versucht mit aller Gewalt das Sommerloch zu füllen und verbietet jetzt das Baden in Baggerseen. Grund: Gefahr vor EHEC. Zeitgleich sterben in Japan die Menschen den Strahlentod, in China flüchten die Menschen vor dem Sturm und der damit zusammenhängenden Flut und in Nordirland flammt der Konflikt zwischen Katholiken und Protestanten wieder auf. Um nur einige Krisenherde zu nennen.
 
 ## Song des Tages: Incubus - "The Warmth"
 
- <YouTube id="VeHddLI-aY8" />
-
-  
+{' '}
+<YouTube id="VeHddLI-aY8" />

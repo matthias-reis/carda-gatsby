@@ -7,12 +7,8 @@ typeName: Artikel
 title: Grow Café Tarifa
 seoTitle: Grow Café Tarifa - eine vegane Oase
 ogTitle: Grow Café Tarifa - eine vegane Oase
-description: Bei unserem Besuch in Tarifa im letzten Jahr haben wir das
-  wunderbare Grow Café entdeckt. Dort gibt es tolle vegane Gerichte - in
-  familiärem Ambiente.
-excerpt: Bei unserem Besuch in Tarifa im letzten Jahr haben wir das wunderbare
-  Grow Café entdeckt. Dort gibt es tolle vegane Gerichte - in familiärem
-  Ambiente.
+description: Bei unserem Besuch in Tarifa im letzten Jahr haben wir das wunderbare Grow Café entdeckt. Dort gibt es tolle vegane Gerichte - in familiärem Ambiente.
+excerpt: Bei unserem Besuch in Tarifa im letzten Jahr haben wir das wunderbare Grow Café entdeckt. Dort gibt es tolle vegane Gerichte - in familiärem Ambiente.
 fileName: 2020-04---grow-cafe-tarifa.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_2019-07-00-spanien-iphone-103_1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_2019-07-00-spanien-iphone-103_1__l.jpg
@@ -39,40 +35,23 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Eine vegane Oase
-  
 ---
 
-**Bei unserem Besuch in Tarifa im letzten Sommer haben wir das wunderbare Grow
-Café entdeckt. Dort kommen ausgefallene vegane Speisen auf den Tisch - in
-familiärem Ambiente.**
+**Bei unserem Besuch in Tarifa im letzten Sommer haben wir das wunderbare Grow Café entdeckt. Dort kommen ausgefallene vegane Speisen auf den Tisch - in familiärem Ambiente.**
 
-Auf der Karte des Grow Café findet Ihr frische hausgemachte Säfte und Smoothies,
-leckeren starken Matetee, diverse Kaffeespezialitäten Frühstück, Mittagessen,
-Abendessen und die verschiedensten leckeren Snacks - alles hausgemacht.
+Auf der Karte des Grow Café findet Ihr frische hausgemachte Säfte und Smoothies, leckeren starken Matetee, diverse Kaffeespezialitäten Frühstück, Mittagessen, Abendessen und die verschiedensten leckeren Snacks - alles hausgemacht.
 
 > "Ich fühle mich hier zuhause",
 
-schreibt eine Rezensentin im Online-Bewertungsportal Trip Advisor. Uns ging es
-ganz genau so. Während wir uns durch die Speisen probierten, merkten wir gar
-nicht, wie die Zeit verging.
+schreibt eine Rezensentin im Online-Bewertungsportal Trip Advisor. Uns ging es ganz genau so. Während wir uns durch die Speisen probierten, merkten wir gar nicht, wie die Zeit verging.
 
-Besonders beliebt sind die frischen Salatvariationen, Tapas und Crepes. Ihr
-findet im Grow Café aber auch leckere Falafel Pitas und tolle Kuchen und
-Süßspeisen. Neben dem Cafébetrieb gibt es auch einen kleinen Shop mit einer
-feinen Auswahl an Waren des täglichen Bedarfs zu kaufen.
+Besonders beliebt sind die frischen Salatvariationen, Tapas und Crepes. Ihr findet im Grow Café aber auch leckere Falafel Pitas und tolle Kuchen und Süßspeisen. Neben dem Cafébetrieb gibt es auch einen kleinen Shop mit einer feinen Auswahl an Waren des täglichen Bedarfs zu kaufen.
 
 ## Eine gemütliche Siesta im Grow Café
 
-Die Küche ist europäisch-arabisch mit mediterranen Elementen. Wir haben bei
-unseren Besuch draußen vor der Tür gesessen. Es gibt dort ein paar wirklich
-bequeme geschützte Sitzplätze, die zu langem Verweilen einladen - perfekt für
-eine Siesta nach dem Wellenreiten. Neben veganen gibt es auch ein paar
-vegetarische Speisen.
+Die Küche ist europäisch-arabisch mit mediterranen Elementen. Wir haben bei unseren Besuch draußen vor der Tür gesessen. Es gibt dort ein paar wirklich bequeme geschützte Sitzplätze, die zu langem Verweilen einladen - perfekt für eine Siesta nach dem Wellenreiten. Neben veganen gibt es auch ein paar vegetarische Speisen.
 
-Wir haben ein paar schöne Tage in Tarifa verbracht und dort einiges ausprobiert.
-Ich kann ziemlich sicher sagen, dass ich hier das leckerste Mittagessen zu mir
-genommen habe und der Matetee war wirklich perfekt. Eines ist ganz feste
-geplant: Wir werden auf alle Fälle wiederkommen!
+Wir haben ein paar schöne Tage in Tarifa verbracht und dort einiges ausprobiert. Ich kann ziemlich sicher sagen, dass ich hier das leckerste Mittagessen zu mir genommen habe und der Matetee war wirklich perfekt. Eines ist ganz feste geplant: Wir werden auf alle Fälle wiederkommen!
 
 [Tarifa entdecken](/2020/04/tarifa-im-sommer/)
 
@@ -83,5 +62,3 @@ geplant: Wir werden auf alle Fälle wiederkommen!
 Calle Alcalde Juan Núñez Local 4 11380 Tarifa
 
 [Website Grow Café](https://www.growcafe.es/es/)
-
-  

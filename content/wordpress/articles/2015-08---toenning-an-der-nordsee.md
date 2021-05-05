@@ -8,9 +8,7 @@ title: Tönning an der Nordsee
 seoTitle: Tönning - Ein verdammt guter Kaffee an der Nordsee
 ogTitle: Tönning - Ein verdammt guter Kaffee an der Nordsee
 description: Hier sind meine Bilder von unserem Ausflug nach Tönning in Nordfriesland
-excerpt: Am 26. Juli führte uns unser Weg in den kleinen Nordseeküsten-Ort
-  Tönning. Nachdem wir den historischen Hafen bewundert hatten, gab es dort noch
-  einen verdammt guten Kaffee für uns.
+excerpt: Am 26. Juli führte uns unser Weg in den kleinen Nordseeküsten-Ort Tönning. Nachdem wir den historischen Hafen bewundert hatten, gab es dort noch einen verdammt guten Kaffee für uns.
 fileName: 2015-08---toenning-an-der-nordsee.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_19545838024_0cdec8be6a_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_19545838024_0cdec8be6a_z__l.jpg
@@ -31,19 +29,12 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Ein verdammt guter Kaffee in Nordfriesland
-  
 ---
 
-**Am 26. Juli führte uns unser Weg in den kleinen Nordseeküsten-Ort Tönning.
-Nachdem wir den historischen Hafen bewundert hatten, gab es dort noch einen
-verdammt guten Kaffee für uns.**
+**Am 26. Juli führte uns unser Weg in den kleinen Nordseeküsten-Ort Tönning. Nachdem wir den historischen Hafen bewundert hatten, gab es dort noch einen verdammt guten Kaffee für uns.**
 
 Hier sind meine Bilder:
 
 <Gallery name="flickr/annetönning72015" />
 
-Weitere Bilder findet Ihr wie immer in meinem
-[Flickr](https://www.flickr.com/photos/99929697@N07/). Hier geht es zur
-[Homepage](http://www.toenning.de/) von Tönning.
-
-  
+Weitere Bilder findet Ihr wie immer in meinem [Flickr](https://www.flickr.com/photos/99929697@N07/). Hier geht es zur [Homepage](http://www.toenning.de/) von Tönning.

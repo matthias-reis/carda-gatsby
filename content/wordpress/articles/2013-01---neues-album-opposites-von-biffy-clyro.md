@@ -8,8 +8,7 @@ title: Neues Album "Opposites" von Biffy Clyro
 seoTitle: Biffy Clyro bringen neues Album raus
 ogTitle: Biffy Clyro bringen neues Album raus
 description: Biffy Clyro haben ihr neues Album rausgebracht - Ich habe schon mal reingehört
-excerpt: Das sehnsüchtige Warten hat endlich ein Ende. Gestern kam das neue
-  Biffy Clyro Album "Opposites" auf den Markt.
+excerpt: Das sehnsüchtige Warten hat endlich ein Ende. Gestern kam das neue Biffy Clyro Album "Opposites" auf den Markt.
 fileName: 2013-01---neues-album-opposites-von-biffy-clyro.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_01_img_2996__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_01_img_2996__l.jpg
@@ -39,22 +38,15 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Melancholie meets gerechtes Brett
-  
 ---
 
-**Das sehnsüchtige Warten hat endlich ein Ende. Gestern kam das neue
-[Biffy Clyro](http://www.biffyclyro.com) Album "Opposites" auf den Markt.**
+**Das sehnsüchtige Warten hat endlich ein Ende. Gestern kam das neue [Biffy Clyro](http://www.biffyclyro.com) Album "Opposites" auf den Markt.**
 
-Seit dem ich es aus seinem Versandkarton befreit habe, läuft es bei mir hoch und
-runter und ich kann nur so viel sagen: Ihr werdet es lieben. Melancholie meets
-gerechtes Brett. Und das Artwork haut auch noch auf's Auge. Ich freue mich jetzt
-schon, die Band endlich wieder live zu sehen.  Von mir gibt's fünf Herzen von
-fünf. Mit Sternchen.
+Seit dem ich es aus seinem Versandkarton befreit habe, läuft es bei mir hoch und runter und ich kann nur so viel sagen: Ihr werdet es lieben. Melancholie meets gerechtes Brett. Und das Artwork haut auch noch auf's Auge. Ich freue mich jetzt schon, die Band endlich wieder live zu sehen.  Von mir gibt's fünf Herzen von fünf. Mit Sternchen.
 
 ♥♥♥♥♥☆
 
 ## Hier sind für Euch [Biffy Clyro](http://www.biffyclyro.com) mit Black Chandelier:
 
- <YouTube id="myc_RViTHhY" />
-
-  
+{' '}
+<YouTube id="myc_RViTHhY" />

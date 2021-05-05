@@ -7,10 +7,8 @@ typeName: Galerie
 title: Blumen und Gewürze
 seoTitle: Blumen und Gewürze
 ogTitle: Blumen und Gewürze
-description: Blumen und Gewürze, gesehen auf der Ausstellung "Lebensraum Garten"
-  auf Gut Mergenthau bei Friedberg
-excerpt: Blumen und vieles mehr - Gesehen auf der Ausstellung "Lebensraum
-  Garten" auf Gut Mergenthau
+description: Blumen und Gewürze, gesehen auf der Ausstellung "Lebensraum Garten" auf Gut Mergenthau bei Friedberg
+excerpt: Blumen und vieles mehr - Gesehen auf der Ausstellung "Lebensraum Garten" auf Gut Mergenthau
 fileName: 2009-05---blumen-und-gewuerze.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_05_12987491763_6a54394f92_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_05_12987491763_6a54394f92_z__l.jpg
@@ -32,12 +30,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Gärtnern macht glücklich
-  
 ---
 
-Blumen und vieles mehr - Gesehen auf der Ausstellung "Lebensraum Garten" auf Gut
-Mergenthau
+Blumen und vieles mehr - Gesehen auf der Ausstellung "Lebensraum Garten" auf Gut Mergenthau
 
 <Gallery name="flickr/AnneLebensraumgarten2009" />
-
-  

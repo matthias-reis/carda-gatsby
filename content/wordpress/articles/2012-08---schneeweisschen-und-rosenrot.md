@@ -7,10 +7,8 @@ typeName: Galerie
 title: Schneeweißchen und Rosenrot
 seoTitle: Schneeweißchen und Rosenrot - Erinnerungen an den Sommer in England
 ogTitle: Schneeweißchen und Rosenrot - Erinnerungen an den Sommer in England
-description: Im Eden Project in St. Austell habe ich einige der schönsten Rosen
-  überhaubt gesehen. Natürlich habe ich sie fotografiert.
-excerpt: Im Eden Project in St. Austell habe ich einige der schönsten Rosen
-  überhaubt gesehen. Natürlich habe ich sie fotografiert.
+description: Im Eden Project in St. Austell habe ich einige der schönsten Rosen überhaubt gesehen. Natürlich habe ich sie fotografiert.
+excerpt: Im Eden Project in St. Austell habe ich einige der schönsten Rosen überhaubt gesehen. Natürlich habe ich sie fotografiert.
 fileName: 2012-08---schneeweisschen-und-rosenrot.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0181__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0181__l.jpg
@@ -33,16 +31,75 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 9/9
-  
 ---
 
 ## Rosen
 
-[_Teil 8/9_](/2012/08/fabelwesen/) Gesehen im Eden Project, St. Austell,
-England, 6/2012
+[_Teil 8/9_](/2012/08/fabelwesen/) Gesehen im Eden Project, St. Austell, England, 6/2012
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0196__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0196__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0195__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0195__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0193__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0193__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0192__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0192__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0191__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0191__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0188__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0188__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0187__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0187__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0185__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0185__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0183__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0183__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0181__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0181__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0196__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0196__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0195__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0195__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0193__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0193__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0192__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0192__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0191__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0191__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0188__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0188__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0187__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0187__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0185__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0185__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0183__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0183__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0181__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0181__l.jpg',
+    },
+  ]}
 />
 
 ## England 2012 Wegweiser
@@ -56,5 +113,3 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_0
 1.  [Eden Project](/2012/08/eden-project-2/)
 1.  [Fabelwesen](/2012/08/fabelwesen/)
 1.  [Schneeweißchen und Rosenrot](/2012/08/schneeweis-und-rosenrot/)
-
-  

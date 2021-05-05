@@ -7,12 +7,8 @@ typeName: Artikel
 title: '"Die Hermetiker" - unser Roman ist jetzt bestellbar!'
 seoTitle: '"Die Hermetiker" - unser Roman ist jetzt bestellbar!'
 ogTitle: '"Die Hermetiker" - unser Roman ist jetzt bestellbar!'
-description: Es ist soweit! Unser Roman wurde veröffentlicht und kann ab sofort
-  bestellt werden! Wir sind stolz und freuen uns, Euch "die Hermetiker" zu
-  präsentieren.
-excerpt: Es ist soweit! Unser Roman wurde veröffentlicht und kann ab sofort
-  bestellt werden! Wir sind stolz und freuen uns, Euch "die Hermetiker" zu
-  präsentieren.
+description: Es ist soweit! Unser Roman wurde veröffentlicht und kann ab sofort bestellt werden! Wir sind stolz und freuen uns, Euch "die Hermetiker" zu präsentieren.
+excerpt: Es ist soweit! Unser Roman wurde veröffentlicht und kann ab sofort bestellt werden! Wir sind stolz und freuen uns, Euch "die Hermetiker" zu präsentieren.
 fileName: 2019-03---die-hermetiker-unser-roman-ist-jetzt-bestellbar.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_photo_2019-02-16-17.42.54.jpeg__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_photo_2019-02-16-17.42.54.jpeg__l.jpg
@@ -28,82 +24,48 @@ language: de
 errors:
   outsideImage: article has at least one image that could not be found
 subTitle: Unsere erste Buchveröffentlichung
-  
 ---
 
 _Werbung in eigener Sache\*_
 
-**Es ist soweit! Unser Roman wurde veröffentlicht und kann ab sofort bestellt
-werden! Wir sind sehr stolz und freuen uns! Alle Fans von Thriller und Urban
-Fantasy sollten jetzt in den Buchladen gehen!**
+**Es ist soweit! Unser Roman wurde veröffentlicht und kann ab sofort bestellt werden! Wir sind sehr stolz und freuen uns! Alle Fans von Thriller und Urban Fantasy sollten jetzt in den Buchladen gehen!**
 
-<RemoteImage alt={`} size="medium" title={`}
-mediumUrl="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=3748126522&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=\_SL250_&amp;tag=cardamonchai-21"
-largeUrl="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=3748126522&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=\_SL250_&amp;tag=cardamonchai-21"
-loadingUrl="undefined" />
+<RemoteImage
+  alt={`} size="medium" title={`}
+  mediumUrl="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=3748126522&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=\_SL250_&amp;tag=cardamonchai-21"
+  largeUrl="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=3748126522&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=\_SL250_&amp;tag=cardamonchai-21"
+  loadingUrl="undefined"
+/>
 
-Die letzten Tage waren sehr spannend für Matze und mich. Am Sonntag, den 3.
-Februar haben wir unser Buch bei BOD veröffentlicht. Das bedeutet: An diesem Tag
-wurde es in Auftrag gegeben und es hat seine ISBN (
-[978-3748126522](https://amzn.to/2IbmJIE) ) bekommen. Als offizielles VÖ-Datum
-geht der 12. Februar in die Geschichte ein. [ **Inzwischen ist "Die Hermetiker"
-von A.M. Reis bestellbar!** Das heißt, Ihr könnt in den Buchladen Eures
-Vertrauens gehen und es unter der Angabe der ISBN bestellen. Wir fänden es sogar
-noch toller, wenn Ihr darum bittet, dass noch ein paar weitere Exemplare
-bestellt und der Auslage hinzugefügt werden. Wir freuen uns nämlich, wenn so
-viele Menschen wie möglich unseren Roman lesen! Ganz Eilige können auch
-[über Amazon bestellen](https://amzn.to/2IbmJIE).
+Die letzten Tage waren sehr spannend für Matze und mich. Am Sonntag, den 3. Februar haben wir unser Buch bei BOD veröffentlicht. Das bedeutet: An diesem Tag wurde es in Auftrag gegeben und es hat seine ISBN ( [978-3748126522](https://amzn.to/2IbmJIE) ) bekommen. Als offizielles VÖ-Datum geht der 12. Februar in die Geschichte ein. [ **Inzwischen ist "Die Hermetiker" von A.M. Reis bestellbar!** Das heißt, Ihr könnt in den Buchladen Eures Vertrauens gehen und es unter der Angabe der ISBN bestellen. Wir fänden es sogar noch toller, wenn Ihr darum bittet, dass noch ein paar weitere Exemplare bestellt und der Auslage hinzugefügt werden. Wir freuen uns nämlich, wenn so viele Menschen wie möglich unseren Roman lesen! Ganz Eilige können auch [über Amazon bestellen](https://amzn.to/2IbmJIE).
 
 ## "Die Hermetiker" - darum geht es
 
-_Merkwürdige Vorahnungen lassen den jungen Claude tief in eine geheimnisvolle
-und magische Welt eintauchen. Nach und nach findet er heraus, dass er von Geburt
-an Hermetiker ist. Auf der Suche nach dem Warum entdeckt er seine Leidenschaft
-für mächtige Artefakte und begibt sich auf eine spannende Entdeckungsreise, die
-fortan sein Leben bestimmt._
+_Merkwürdige Vorahnungen lassen den jungen Claude tief in eine geheimnisvolle und magische Welt eintauchen. Nach und nach findet er heraus, dass er von Geburt an Hermetiker ist. Auf der Suche nach dem Warum entdeckt er seine Leidenschaft für mächtige Artefakte und begibt sich auf eine spannende Entdeckungsreise, die fortan sein Leben bestimmt._
 
-"Die Hermetiker" wird Euch von Anfang an fesseln - versprochen. Ich zitiere hier
-mal die liebe Caro, die unser Werk schon lesen durfte:
+"Die Hermetiker" wird Euch von Anfang an fesseln - versprochen. Ich zitiere hier mal die liebe Caro, die unser Werk schon lesen durfte:
 
-> **"Wow! Ernsthaft Wow! Es ist einfach unglaublich, was Ihr beiden da
-> geschaffen habt! Insgesamt fand ich das Buch extrem kurzweilig, die Geschichte
-> hat mich von Anfang an neugierig gemacht und ich habe mich immer gefreut,
-> weiterzulesen. Auch jetzt beschäftigt sie mich noch. Die Personen sind mir im
-> Kopf geblieben. Mir hat es sehr viel Spaß gemacht!"**
+> **"Wow! Ernsthaft Wow! Es ist einfach unglaublich, was Ihr beiden da geschaffen habt! Insgesamt fand ich das Buch extrem kurzweilig, die Geschichte hat mich von Anfang an neugierig gemacht und ich habe mich immer gefreut, weiterzulesen. Auch jetzt beschäftigt sie mich noch. Die Personen sind mir im Kopf geblieben. Mir hat es sehr viel Spaß gemacht!"**
 
 Auch Gerd durfte es schon lesen. Von ihm stammt das folgende Zitat:
 
-> **"Für ein Erstlingswerk wirklich beachtlich! Eine gute Idee und ein
-> exotisches Thema!"**
+> **"Für ein Erstlingswerk wirklich beachtlich! Eine gute Idee und ein exotisches Thema!"**
 
-Das klingt doch schon mal sehr gut, oder? Das finden wir auch und wir freuen uns
-schon auf Euer Feedback - gerne in Form einer Rezension bei Goodreads oder
-Amazon.
+Das klingt doch schon mal sehr gut, oder? Das finden wir auch und wir freuen uns schon auf Euer Feedback - gerne in Form einer Rezension bei Goodreads oder Amazon.
 
 ## Über uns
 
-Schon seit Matze und ich uns vor acht Jahren kennengelernt haben, stürzen wir
-uns von einem kreativen Projekt ins nächste. Es war von Anfang an klar, dass wir
-irgendwann gemeinsam etwas veröffentlichen würde, das unsere Ideen vereint. "
-**Die Hermetiker** " ist innerhalb der letzten drei Jahre entstanden. Matze ist
-für das Thema, die Handlungsstränge und den roten Faden verantwortlich und ich
-habe die Charaktere ausgearbeitet und die Texte gestaltet.
+Schon seit Matze und ich uns vor acht Jahren kennengelernt haben, stürzen wir uns von einem kreativen Projekt ins nächste. Es war von Anfang an klar, dass wir irgendwann gemeinsam etwas veröffentlichen würde, das unsere Ideen vereint. " **Die Hermetiker** " ist innerhalb der letzten drei Jahre entstanden. Matze ist für das Thema, die Handlungsstränge und den roten Faden verantwortlich und ich habe die Charaktere ausgearbeitet und die Texte gestaltet.
 
-"[Die Hermetiker](https://amzn.to/2IbmJIE)" ist eine spannende Urban Fantasy
-Story mit Thriller-Elementen. Besonderheiten sind die verschiedenen Zeiten, in
-denen sie spielt, sowie die zwischen den verschiedenen Figuren wechselnde
-Perspektive. Matzes Enthusiasmus für Wissenschaft und Technik sowie meine
-Begeisterung für Reisen und Abenteuer könnt Ihr möglicherweise an der einen oder
-anderen Stelle herauslesen. Doch ich möchte noch nicht zu viel verraten. Wir
-wünschen Euch viel Spaß beim Lesen! Wer mehr über uns und unseren Roman erfahren
-möchte, kann uns jederzeit auf unserer [Autorenseite](https://amreis.de/ha121)
-besuchen. wir freuen uns auf Euch!
+"[Die Hermetiker](https://amzn.to/2IbmJIE)" ist eine spannende Urban Fantasy Story mit Thriller-Elementen. Besonderheiten sind die verschiedenen Zeiten, in denen sie spielt, sowie die zwischen den verschiedenen Figuren wechselnde Perspektive. Matzes Enthusiasmus für Wissenschaft und Technik sowie meine Begeisterung für Reisen und Abenteuer könnt Ihr möglicherweise an der einen oder anderen Stelle herauslesen. Doch ich möchte noch nicht zu viel verraten. Wir wünschen Euch viel Spaß beim Lesen! Wer mehr über uns und unseren Roman erfahren möchte, kann uns jederzeit auf unserer [Autorenseite](https://amreis.de/ha121) besuchen. wir freuen uns auf Euch!
 
-<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3748126522&amp;asins=3748126522&amp;linkId=0725512b84f13a5f2ca14219ec7087cf&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
-</iframe>
+<iframe
+  style="width: 120px; height: 240px;"
+  src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3748126522&amp;asins=3748126522&amp;linkId=0725512b84f13a5f2ca14219ec7087cf&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff"
+  frameborder="0"
+  marginwidth="0"
+  marginheight="0"
+  scrolling="no"
+></iframe>
 
-- _Hinweis: Dieser Beitrag enthält Werbung in eigener Sache. Infos zum Thema
-  Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-  [Transparenz-Seite](/werbung/). _
-
-  
+- _Hinweis: Dieser Beitrag enthält Werbung in eigener Sache. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _

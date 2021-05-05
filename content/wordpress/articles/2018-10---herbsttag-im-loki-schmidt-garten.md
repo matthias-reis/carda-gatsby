@@ -7,11 +7,8 @@ typeName: Galerie
 title: Herbsttag im Loki Schmidt Garten
 seoTitle: Herbsttag im Loki Schmidt Garten - Astern, Bienen und Sonnenschein
 ogTitle: Herbsttag im Loki Schmidt Garten - Astern, Bienen und Sonnenschein
-description: Bei dem wunderbaren Herbstwetter war heute endlich mal wieder Zeit
-  für einen ausgedehnten Spaziergang im Hamburger Loki Schmidt Garten.
-excerpt: Hamburg zeigte sich am Wochenende mal wieder von der sonnigen Seite. Da
-  mussten wir uns einfach Zeit nehmen für einen kleinen Spaziergang. Ein
-  Herbsttag im Loki Schmidt Garten.
+description: Bei dem wunderbaren Herbstwetter war heute endlich mal wieder Zeit für einen ausgedehnten Spaziergang im Hamburger Loki Schmidt Garten.
+excerpt: Hamburg zeigte sich am Wochenende mal wieder von der sonnigen Seite. Da mussten wir uns einfach Zeit nehmen für einen kleinen Spaziergang. Ein Herbsttag im Loki Schmidt Garten.
 fileName: 2018-10---herbsttag-im-loki-schmidt-garten.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-07-Loki-Schmidt-Garten-115__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-07-Loki-Schmidt-Garten-115__l.jpg
@@ -35,28 +32,21 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Astern, Bienen und Sonnenschein
-  
 ---
 
 _Bildergalerie_
 
-**Hamburg zeigte sich am Wochenende mal wieder von der sonnigen Seite. Da
-mussten wir uns einfach Zeit nehmen für einen kleinen Spaziergang.**
+**Hamburg zeigte sich am Wochenende mal wieder von der sonnigen Seite. Da mussten wir uns einfach Zeit nehmen für einen kleinen Spaziergang.**
 
-Also rein in die S-Bahn und die drei Stationen bis zum _Loki Schmidt Garten_ mit
-dem Einstellen der Kamera und Vorfreude verbringen.
+Also rein in die S-Bahn und die drei Stationen bis zum _Loki Schmidt Garten_ mit dem Einstellen der Kamera und Vorfreude verbringen.
 
-Dort angekommen, waren wir ziemlich überrascht. Soviel, wie wir zuerst vermutet
-hatten, war gar nicht los. Wir hatten also schön Zeit, zu zweit ein Bisschen zu
-schlendern. Der Garten ist im Herbst wirklich immer wieder ein Genuss. Einfach
-wunderbar, was um diese Jahreszeit noch alles blüht.
+Dort angekommen, waren wir ziemlich überrascht. Soviel, wie wir zuerst vermutet hatten, war gar nicht los. Wir hatten also schön Zeit, zu zweit ein Bisschen zu schlendern. Der Garten ist im Herbst wirklich immer wieder ein Genuss. Einfach wunderbar, was um diese Jahreszeit noch alles blüht.
 
 <blockquote>
 
 ## Ein sonniger Herbsttag
 
-Die Waschmaschine in der Wohnung macht jede Menge Lärm. Draußen auf der Straße
-schreien sich die Leute an.
+Die Waschmaschine in der Wohnung macht jede Menge Lärm. Draußen auf der Straße schreien sich die Leute an.
 
 In der Küche riecht es nach Pflaumenkuchen. Die Sonne scheint durchs Fenster.
 
@@ -78,8 +68,7 @@ Der Winter scheint noch so weit. Unbemerkt kriecht er durch das Moos.
 
 Die Borke hinauf. Wandert in das Blattwerk.
 
-Fällt mit ihm vereint sanft wieder zu Boden. Und nährt die kommenden
-Generationen.
+Fällt mit ihm vereint sanft wieder zu Boden. Und nährt die kommenden Generationen.
 
 </blockquote>
 
@@ -92,5 +81,3 @@ Generationen.
 1.  [Frühlingsboten im Loki Schmidt Garten](/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/)
 1.  [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/)
 1.  Herbsttag im Loki Schmidt Garten
-
-  

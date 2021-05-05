@@ -7,12 +7,8 @@ typeName: Rezept
 title: Hanf Banane Himbeer Reigen
 seoTitle: Hanf Banane Himbeer Reigen - Kräftigender Smoothie für Naschkatzen
 ogTitle: Hanf Banane Himbeer Reigen - Kräftigender Smoothie für Naschkatzen
-description: Ihr habt nicht viel Zeit für die Mittagspause? Wie wäre es mit
-  einem leckeren Smoothie? Mein Hanf Banane Himbeer Reigen gibt Euch die Power,
-  die Ihr braucht
-excerpt: Ihr habt nicht viel Zeit für die Mittagspause? Wie wäre es mit einem
-  leckeren Smoothie? Mein Hanf Banane Himbeer Reigen gibt Euch die Power, die
-  Ihr braucht.
+description: Ihr habt nicht viel Zeit für die Mittagspause? Wie wäre es mit einem leckeren Smoothie? Mein Hanf Banane Himbeer Reigen gibt Euch die Power, die Ihr braucht
+excerpt: Ihr habt nicht viel Zeit für die Mittagspause? Wie wäre es mit einem leckeren Smoothie? Mein Hanf Banane Himbeer Reigen gibt Euch die Power, die Ihr braucht.
 fileName: 2017-04---hanf-banane-himbeer-reigen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_35362413535_6f31420067_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_35362413535_6f31420067_k__l.jpg
@@ -38,31 +34,22 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Kräftigender Smoothie
-  
 ---
 
-<RemoteImage alt={`Hanf`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_35362415875_303a38ecae_k__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_35362415875_303a38ecae_k__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAYH/8QAKxAAAgEDAgMHBQEAAAAAAAAAAQIDAAQRBRIGITETIkFRcYGRFDJhgqGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEBQb/xAAeEQACAgEFAQAAAAAAAAAAAAAAAQIDEQQSEyExQf/aAAwDAQACEQMRAD8As6xdNfS/RafINjnvMp+7xIH4H9p0uiLJpySuJXVYwoZm648Caxtg0OiXk9kzSzbChWRsZ6D4pjPxnGoMItZM4296UgD2FBOyLeGV06G3apR8Lk+joHxhh+xoqb6dpeyMe9G2987Op+TRSN0fgvtdMyOrXAbXZmVg2Y0OQc+ApbIQ7lRgAmq3EEwsb2OUg9nswSkRwD6D250ri1ZbmUpaCSWQHmEjbl6+VFOLyzRo1NfCsvxHfZru2a3tWSEOGiU74F3BuQ5nyPKisxBxQscEFveWjqsMKLGRKQD1zjAx1/2iqkc5K1ZP/9k="
+<RemoteImage
+  alt={`Hanf`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_35362415875_303a38ecae_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_35362415875_303a38ecae_k__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAYH/8QAKxAAAgEDAgMHBQEAAAAAAAAAAQIDAAQRBRIGITETIkFRcYGRFDJhgqGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEBQb/xAAeEQACAgEFAQAAAAAAAAAAAAAAAQIDEQQSEyExQf/aAAwDAQACEQMRAD8As6xdNfS/RafINjnvMp+7xIH4H9p0uiLJpySuJXVYwoZm648Caxtg0OiXk9kzSzbChWRsZ6D4pjPxnGoMItZM4296UgD2FBOyLeGV06G3apR8Lk+joHxhh+xoqb6dpeyMe9G2987Op+TRSN0fgvtdMyOrXAbXZmVg2Y0OQc+ApbIQ7lRgAmq3EEwsb2OUg9nswSkRwD6D250ri1ZbmUpaCSWQHmEjbl6+VFOLyzRo1NfCsvxHfZru2a3tWSEOGiU74F3BuQ5nyPKisxBxQscEFveWjqsMKLGRKQD1zjAx1/2iqkc5K1ZP/9k="
 />
 
-**Kennt Ihr das? Man kommt einfach nicht dazu, Dinge zu erledigen und plötzlich
-hat sich ein riesiger Berg Arbeit angehäuft, der erledigt werden will. Da bleibt
-oft kaum Zeit für eine Pause. Zwischendurch mal schnell "was brutzeln" klappt
-einfach nicht.**
+**Kennt Ihr das? Man kommt einfach nicht dazu, Dinge zu erledigen und plötzlich hat sich ein riesiger Berg Arbeit angehäuft, der erledigt werden will. Da bleibt oft kaum Zeit für eine Pause. Zwischendurch mal schnell "was brutzeln" klappt einfach nicht.**
 
-Auf dem Schreibtisch stapeln sich die Akten. Das E-Mail-Postfach ist voll und
-fünf Chat-Fenster poppen schon seit gefühlten Stunden vor Euch auf. Der Magen
-sagt Euch, dass die Mittagspause längt überfällig ist. Aber bloß nicht zu lange,
-sonst klappt das heute Abend nicht mehr mit der Reinigung und dem Einkaufen und
-der Steuererklärung.
+Auf dem Schreibtisch stapeln sich die Akten. Das E-Mail-Postfach ist voll und fünf Chat-Fenster poppen schon seit gefühlten Stunden vor Euch auf. Der Magen sagt Euch, dass die Mittagspause längt überfällig ist. Aber bloß nicht zu lange, sonst klappt das heute Abend nicht mehr mit der Reinigung und dem Einkaufen und der Steuererklärung.
 
-Zeit für einen Reigen aus leckeren Zutaten, die Euch die Kraft geben, die Ihr
-für den Nachmittag benötigt. Wie wäre es mit einem leckeren Smoothie, der gut
-für die Nerven ist, die Laune hebt und obendrein auch noch richtig gut schmeckt?
-Mein Hanf Banane Reigen kann all dass. Außerdem ist er natürlich vegan und zudem
-auch noch Gluten-frei.
+Zeit für einen Reigen aus leckeren Zutaten, die Euch die Kraft geben, die Ihr für den Nachmittag benötigt. Wie wäre es mit einem leckeren Smoothie, der gut für die Nerven ist, die Laune hebt und obendrein auch noch richtig gut schmeckt? Mein Hanf Banane Reigen kann all dass. Außerdem ist er natürlich vegan und zudem auch noch Gluten-frei.
 
 ## Zutaten
 
@@ -73,14 +60,11 @@ auch noch Gluten-frei.
 
 ## Tipp
 
-Ganz Hungrige können auch noch eine Handvoll Reis- oder Quinoa-Flocken
-hinzugeben. Ich packe ab und an auch gerne ein paar Chia-Samen mit rein.
+Ganz Hungrige können auch noch eine Handvoll Reis- oder Quinoa-Flocken hinzugeben. Ich packe ab und an auch gerne ein paar Chia-Samen mit rein.
 
 ## Zubereitung
 
-Gebt ganz einfach alle Zutaten zusammen in den Mixer und lasst sie rund 30
-Minuten bei voller Stärke tanzen. Ihr werdet sehen, was Ihr davon habt, der
-Smoothie macht nämlich süchtig. :-P
+Gebt ganz einfach alle Zutaten zusammen in den Mixer und lasst sie rund 30 Minuten bei voller Stärke tanzen. Ihr werdet sehen, was Ihr davon habt, der Smoothie macht nämlich süchtig. :-P
 
 Viel Spaß beim Ausprobieren! Ich wünsche Euch eine stressfreie Woche!
 
@@ -93,7 +77,18 @@ Viel Spaß beim Ausprobieren! Ich wünsche Euch eine stressfreie Woche!
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken](/2015/03/die-ultimative-vegane-festivalliste)
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_35362418545_c87105858c_k__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_35362418545_c87105858c_k__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_35362417555_a553dbbfb8_k__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_35362417555_a553dbbfb8_k__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2017_04_35362418545_c87105858c_k__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2017_04_35362418545_c87105858c_k__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2017_04_35362417555_a553dbbfb8_k__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2017_04_35362417555_a553dbbfb8_k__l.jpg',
+    },
+  ]}
 />
-
-  

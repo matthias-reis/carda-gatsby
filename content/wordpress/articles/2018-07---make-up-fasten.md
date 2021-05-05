@@ -7,12 +7,8 @@ typeName: Artikel
 title: Make-up-Fasten
 seoTitle: Make-up-Fasten - Einfach mal auf Schminke verzichten
 ogTitle: Make-up-Fasten - Einfach mal auf Schminke verzichten
-description: Ich liebe Make-up und trage es schon seit meiner frühesten Jugend
-  täglich. Doch ab und zu genieße ich es auch, mal ein paar Tage darauf zu
-  verzichten.
-excerpt: Produktplatzierung - Ich liebe Make-up und trage es schon seit meiner
-  frühesten Jugend täglich. Doch ab und zu genieße ich es auch, mal ein paar
-  Tage darauf zu verzichten.
+description: Ich liebe Make-up und trage es schon seit meiner frühesten Jugend täglich. Doch ab und zu genieße ich es auch, mal ein paar Tage darauf zu verzichten.
+excerpt: Produktplatzierung - Ich liebe Make-up und trage es schon seit meiner frühesten Jugend täglich. Doch ab und zu genieße ich es auch, mal ein paar Tage darauf zu verzichten.
 fileName: 2018-07---make-up-fasten.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Ungeschminkt.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Ungeschminkt.png__l.jpg
@@ -48,135 +44,113 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Einfach mal auf Schminke verzichten
-  
 ---
 
 _Produktplatzierung\*_
 
-**Ich liebe Make-up und trage es schon seit meiner frühesten Jugend täglich.
-Doch ab und zu genieße ich es auch, mal ein paar Tage lang darauf zu verzichten.
-Inzwischen macht mir das richtig Spaß.**
+**Ich liebe Make-up und trage es schon seit meiner frühesten Jugend täglich. Doch ab und zu genieße ich es auch, mal ein paar Tage lang darauf zu verzichten. Inzwischen macht mir das richtig Spaß.**
 
-<RemoteImage alt={`Make-up`} size="medium" title={`Ungeschminkt auf Fototour`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-08__335__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-08__335__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQHBgID/8QALBAAAQMCBQQBAgcAAAAAAAAAAQIDBAURAAYSITEHEyJRQRRxMmGBkaGxwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBjpXTqzQ3UZeromPtl2zSGJLjbrLduEm34dW+ni/rHln7pBlaHCRV6dEqMaYmSG1R5DvcL61L2WpSjsLnf3fDlD6rPpo8WTC+hdcdWsrZQ1ocQoEXB7jmk3uLEEfvjiH1Bn5oNSZao8+odmQFixaCG7C6UAagTYoJHPP2wEYrhIrk0obQ+nWEJ8whKQBYBPsfb/cGNTnCDSotRSiFMS0ogqdjISpwNLKjtcfPFxc8YMBq+ltTyHCjFDhjxJKdBUt5sFbhAt4A33uTbxv8AJwhkV2iUGVm5ivVFsiROH06JClI8ELd8yUg+R4ttt+RxGqbNYZ7esak/O3z8H37/AIw+qpuTIyXpUp5+Q2eykaQQGhtckck/3ycBSs/52Q3OjN5ZkR30Bsl5wRwU7qOlIBHIHPu+DE7plVVTVvojy1NlZSpRAsTtx+lzgwH/2Q=="
+<RemoteImage
+  alt={`Make-up`}
+  size="medium"
+  title={`Ungeschminkt auf Fototour`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-08__335__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-08__335__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQHBgID/8QALBAAAQMCBQQBAgcAAAAAAAAAAQIDBAURAAYSITEHEyJRQRRxMmGBkaGxwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBjpXTqzQ3UZeromPtl2zSGJLjbrLduEm34dW+ni/rHln7pBlaHCRV6dEqMaYmSG1R5DvcL61L2WpSjsLnf3fDlD6rPpo8WTC+hdcdWsrZQ1ocQoEXB7jmk3uLEEfvjiH1Bn5oNSZao8+odmQFixaCG7C6UAagTYoJHPP2wEYrhIrk0obQ+nWEJ8whKQBYBPsfb/cGNTnCDSotRSiFMS0ogqdjISpwNLKjtcfPFxc8YMBq+ltTyHCjFDhjxJKdBUt5sFbhAt4A33uTbxv8AJwhkV2iUGVm5ivVFsiROH06JClI8ELd8yUg+R4ttt+RxGqbNYZ7esak/O3z8H37/AIw+qpuTIyXpUp5+Q2eykaQQGhtckck/3ycBSs/52Q3OjN5ZkR30Bsl5wRwU7qOlIBHIHPu+DE7plVVTVvojy1NlZSpRAsTtx+lzgwH/2Q=="
 />
 
-Besonders gut klappt das bei mir im Urlaub, oder wenn ich, wie im Moment, eine
-Weile Homeoffice mache. Bei uns im Büro stiegen die Temperaturen in den letzten
-Tage so stark an, dass die Geschäftsleitung die Entscheidung traf: Heat Office
-für alle. Jetzt wird, bis das Thermometer wieder in den Normalbereich sinkt, von
-zu Hause aus gearbeitet. Zeit für eine Runde Make-up-Fasten!
+Besonders gut klappt das bei mir im Urlaub, oder wenn ich, wie im Moment, eine Weile Homeoffice mache. Bei uns im Büro stiegen die Temperaturen in den letzten Tage so stark an, dass die Geschäftsleitung die Entscheidung traf: Heat Office für alle. Jetzt wird, bis das Thermometer wieder in den Normalbereich sinkt, von zu Hause aus gearbeitet. Zeit für eine Runde Make-up-Fasten!
 
-Verzichtet man eine Zeit lang aufs Schminken, gibt man der Haut eine Chance,
-aufzuatmen und wieder schneller zu regenerieren. Ich persönlich merke meist
-schon nach den ersten beiden Tagen, dass mein Hautbild klarer wird. Sogar meine
-Fältchen gehen etwas zurück, der Teint wirkt insgesamt ausgeglichener.
+Verzichtet man eine Zeit lang aufs Schminken, gibt man der Haut eine Chance, aufzuatmen und wieder schneller zu regenerieren. Ich persönlich merke meist schon nach den ersten beiden Tagen, dass mein Hautbild klarer wird. Sogar meine Fältchen gehen etwas zurück, der Teint wirkt insgesamt ausgeglichener.
 
 ## Gesunde Pflege
 
-Auf die gewohnte Reinigung sollte man jedoch auch während der Zeit des
-Make-up-Fastens nicht verzichten. Auch die zum Hauttyp passende Pflege sollte
-nicht zu kurz kommen. Am ersten Tag kann man
-[eine Feuchtigkeit spendende oder klärende Maske](/2018/05/hej-organic-kosmetik-im-test/)
-auflegen. Morgens sollte man das Gesicht wie gewohnt mit einem milden,
-seifenfreien Waschstück oder einer Emulsion reinigen. Mein Favorit ist auf
-diesem Gebiet im Moment die Aloe Vera Reinigungsemulsion von
-[Santaverde](/2018/01/santaverde/).
+Auf die gewohnte Reinigung sollte man jedoch auch während der Zeit des Make-up-Fastens nicht verzichten. Auch die zum Hauttyp passende Pflege sollte nicht zu kurz kommen. Am ersten Tag kann man [eine Feuchtigkeit spendende oder klärende Maske](/2018/05/hej-organic-kosmetik-im-test/) auflegen. Morgens sollte man das Gesicht wie gewohnt mit einem milden, seifenfreien Waschstück oder einer Emulsion reinigen. Mein Favorit ist auf diesem Gebiet im Moment die Aloe Vera Reinigungsemulsion von [Santaverde](/2018/01/santaverde/).
 
-Anschließend sprühe ich den Aloe Vera Toner aus der "Pure" Serie auf. Er beugt
-Hautunreinheiten vor und kühlt schön. Das ist übrigens auch mein absoluter
-Geheimtipp für zwischendurch. Vielleicht kennt Ihr das ja auch. Gerade wenn es
-so warm ist, wie im Moment, neigt meine Rosacea-Haut zu Flushs. Gerade um die
-Mittagszeit. Ich sprühe dann einfach einmal kurz und schon fühlt sich alles
-wieder viel entspannter an. Das klappt auch nach scharfem Essen gut und
-funktioniert natürlich auch mit Eurem liebsten milden Toner.
+Anschließend sprühe ich den Aloe Vera Toner aus der "Pure" Serie auf. Er beugt Hautunreinheiten vor und kühlt schön. Das ist übrigens auch mein absoluter Geheimtipp für zwischendurch. Vielleicht kennt Ihr das ja auch. Gerade wenn es so warm ist, wie im Moment, neigt meine Rosacea-Haut zu Flushs. Gerade um die Mittagszeit. Ich sprühe dann einfach einmal kurz und schon fühlt sich alles wieder viel entspannter an. Das klappt auch nach scharfem Essen gut und funktioniert natürlich auch mit Eurem liebsten milden Toner.
 
 ## Make-up-freie Morgenroutine
 
-<RemoteImage alt={`Make-up`} size="medium" title={`Morgenroutine`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_28766720927_7a6f2ae10b_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_28766720927_7a6f2ae10b_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAcIAwUG/8QALBAAAgEDAwMCBAcAAAAAAAAAAQIDBAURAAYhEhMxB1EUQWGBFSIjJFJz8P/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAIREAAQQBBAMBAAAAAAAAAAAAAQACBBESAyFRsSIxofD/2gAMAwEAAhEDEQA/AElRW7uU8cncCfmLKvScoP49WeB9NUBs7adlod6bgtQt8DYp4alDURrUdOGKMAXyRkkHHjgaUPpnQw1O/bbDcY6aeGaRy6sCULdtjypODjVEUdBSWfcdL+G0MKPUJKjiJQhIChv8NNSH4+ICzYWlnbyb3/d/FxPq/tKKOy0cG37DG80tQzzNQ25C/SqHAPSvGS2efbSAulvltc86VdMYpqc9hknjKPG2M8/Pq59tWlO8clekciSKxHAJwCPsdSDvqoFVui81YmjX97PIMf2MADznwNRovsYlWksxfkD72WT0/ulJbt1Wysr5hHSxSMXZgf01KMMdXJxyPlp8LvWyT11vuNJcKdqejMncw/TkOvTwWx48+Ppo0aDKcaBCYhNFkVz0to27KBty19PUXSjhiipIZVb4lUBYtJlSSeTgKfuPfUsXKeWpqKieSGSNp5TI+WYZBJOjRoui2gl5DySL5K//2Q=="
+<RemoteImage
+  alt={`Make-up`}
+  size="medium"
+  title={`Morgenroutine`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_28766720927_7a6f2ae10b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_28766720927_7a6f2ae10b_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAcIAwUG/8QALBAAAgEDAwMCBAcAAAAAAAAAAQIDBAURAAYhEhMxB1EUQWGBFSIjJFJz8P/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAIREAAQQBBAMBAAAAAAAAAAAAAQACBBESAyFRsSIxofD/2gAMAwEAAhEDEQA/AElRW7uU8cncCfmLKvScoP49WeB9NUBs7adlod6bgtQt8DYp4alDURrUdOGKMAXyRkkHHjgaUPpnQw1O/bbDcY6aeGaRy6sCULdtjypODjVEUdBSWfcdL+G0MKPUJKjiJQhIChv8NNSH4+ICzYWlnbyb3/d/FxPq/tKKOy0cG37DG80tQzzNQ25C/SqHAPSvGS2efbSAulvltc86VdMYpqc9hknjKPG2M8/Pq59tWlO8clekciSKxHAJwCPsdSDvqoFVui81YmjX97PIMf2MADznwNRovsYlWksxfkD72WT0/ulJbt1Wysr5hHSxSMXZgf01KMMdXJxyPlp8LvWyT11vuNJcKdqejMncw/TkOvTwWx48+Ppo0aDKcaBCYhNFkVz0to27KBty19PUXSjhiipIZVb4lUBYtJlSSeTgKfuPfUsXKeWpqKieSGSNp5TI+WYZBJOjRoui2gl5DySL5K//2Q=="
 />
 
-Doch zurück zur Morgenroutine in der Make-up-Fastenzeit. Im Anschluss an den
-Toner kommt mein Aloe Vera Serum "pure refining" zum Einsatz. Im Gegensatz zur
-kalten Jahreszeit benötige ich im Sommer keine reichhaltige Pflege. Das Serum
-ist schön leicht, beruhigt, spendet Feuchtigkeit und soll Rötungen
-entgegenwirken.
+Doch zurück zur Morgenroutine in der Make-up-Fastenzeit. Im Anschluss an den Toner kommt mein Aloe Vera Serum "pure refining" zum Einsatz. Im Gegensatz zur kalten Jahreszeit benötige ich im Sommer keine reichhaltige Pflege. Das Serum ist schön leicht, beruhigt, spendet Feuchtigkeit und soll Rötungen entgegenwirken.
 
-Auf eine zusätzliche Creme kann ich im Moment gut verzichten. Außer natürlich,
-ich habe vor, mich nach draußen zu begeben. Dann trage ich einen leicht
-texturierten Sonnenschutz mit hohem Lichtschutzfaktor auf. Wenn ich den ganzen
-Tag zu Hause am Schreibtisch sitze, brauche ich das nicht. Anders ist es im
-Urlaub, da würde ich auf diesen Schritt natürlich nicht verzichten.
+Auf eine zusätzliche Creme kann ich im Moment gut verzichten. Außer natürlich, ich habe vor, mich nach draußen zu begeben. Dann trage ich einen leicht texturierten Sonnenschutz mit hohem Lichtschutzfaktor auf. Wenn ich den ganzen Tag zu Hause am Schreibtisch sitze, brauche ich das nicht. Anders ist es im Urlaub, da würde ich auf diesen Schritt natürlich nicht verzichten.
 
-Bei empfindlicher Haut und Rosacea ist guter UV-Schutz unerlässlich, egal bei
-welcher Witterung. Außerdem schützt Sonnencreme natürlich auch vor vorzeitiger
-Hautalterung.
+Bei empfindlicher Haut und Rosacea ist guter UV-Schutz unerlässlich, egal bei welcher Witterung. Außerdem schützt Sonnencreme natürlich auch vor vorzeitiger Hautalterung.
 
 ## Wasser ins Gesicht und ab ins Bett
 
-<RemoteImage alt={`Make-up`} size="medium" title={`Ungeschminkt Katzen kraulen`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_27262648097_415a4fbb14_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_27262648097_415a4fbb14_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgIDBAUHCP/EACsQAAEEAQQBAwIHAQAAAAAAAAECAwQRBQAGEiExBxNBIlEUIzJhscHR8P/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMRIRIi/9oADAMBAAIRAxEAPwBmfvqE68/jX4slmM8370d11hQW2r3FcSpKSaSR4I8dg61/amVZym08bOYZS0l9hKuCAeKT4IAP7g65I29uZpE1b24kysi41BMWIsvUEkLBSHT+pSUi6o2PHjWg7d9TSYzEUKjsvMMkNpfWpqMkJ5KUshBtbirFD5P2GpXrIPJUrgjCZfeteZn4uZAkwJy222XbU2lkflOAHguyOyQpXX20MR/XLc7TDbYiYhYQkJ5KiC1UPJ70D7y3bOzXJl5+O9HQrklxiOWAuhQPEknoGu++u9Nx5bH4dqoqK4ir8+NKiYOwrGUn5kJO25T2SYx8N6O/OcSCW+YQlJ+fqVQNf7V6KXvSjNR8q/DlT8Q2y0psCSJXTyVkdtpIskAk0auutL2vOwmRyD83LR2ETm6AbF8FKAoOEf1oqyefhuR1RXHA5dITxQKQAPAv+dE9rg4IiVoRpgPu5OFk7hZbw2KRCgx0loKNhb5R9NrF1y6sn5OqhWKPI8HFhN9AfA1ZZWVCd95bBDa0H3ALu7V/h1E94/8AHSV7kzZnrZ//2Q=="
+<RemoteImage
+  alt={`Make-up`}
+  size="medium"
+  title={`Ungeschminkt Katzen kraulen`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_27262648097_415a4fbb14_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_27262648097_415a4fbb14_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgIDBAUHCP/EACsQAAEEAQQBAwIHAQAAAAAAAAECAwQRBQAGEiExBxNBIlEUIzJhscHR8P/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMRIRIi/9oADAMBAAIRAxEAPwBmfvqE68/jX4slmM8370d11hQW2r3FcSpKSaSR4I8dg61/amVZym08bOYZS0l9hKuCAeKT4IAP7g65I29uZpE1b24kysi41BMWIsvUEkLBSHT+pSUi6o2PHjWg7d9TSYzEUKjsvMMkNpfWpqMkJ5KUshBtbirFD5P2GpXrIPJUrgjCZfeteZn4uZAkwJy222XbU2lkflOAHguyOyQpXX20MR/XLc7TDbYiYhYQkJ5KiC1UPJ70D7y3bOzXJl5+O9HQrklxiOWAuhQPEknoGu++u9Nx5bH4dqoqK4ir8+NKiYOwrGUn5kJO25T2SYx8N6O/OcSCW+YQlJ+fqVQNf7V6KXvSjNR8q/DlT8Q2y0psCSJXTyVkdtpIskAk0auutL2vOwmRyD83LR2ETm6AbF8FKAoOEf1oqyefhuR1RXHA5dITxQKQAPAv+dE9rg4IiVoRpgPu5OFk7hZbw2KRCgx0loKNhb5R9NrF1y6sn5OqhWKPI8HFhN9AfA1ZZWVCd95bBDa0H3ALu7V/h1E94/8AHSV7kzZnrZ//2Q=="
 />
 
-Abends wasche ich mein Gesicht mit lauwarmem Wasser, sprühe erneut den Toner auf
-und lege mich ins Bett. Das wars auch schon. Mühsames Abschminken fällt
-natürlich auch aus.
+Abends wasche ich mein Gesicht mit lauwarmem Wasser, sprühe erneut den Toner auf und lege mich ins Bett. Das wars auch schon. Mühsames Abschminken fällt natürlich auch aus.
 
-Ich gebe zu, dass es am Anfang Überwindung kostet, auf Make-up zu verzichten,
-aber es bringt wirklich einige Vorteile. Auch, wenn man zu Beginn ab und zu in
-den Spiegel blickt und sich denkt "Wer ist diese Frau mit den roten Punkten auf
-der Stirn?", irgendwann genießt man es nur noch, fühlt sich frei und  stellt
-nach und nach immer mehr positive Veränderungen fest.
+Ich gebe zu, dass es am Anfang Überwindung kostet, auf Make-up zu verzichten, aber es bringt wirklich einige Vorteile. Auch, wenn man zu Beginn ab und zu in den Spiegel blickt und sich denkt "Wer ist diese Frau mit den roten Punkten auf der Stirn?", irgendwann genießt man es nur noch, fühlt sich frei und  stellt nach und nach immer mehr positive Veränderungen fest.
 
 ## Frau lernt sich selbst kennen
 
-Ich meine: Es ist doch auch irgendwie klar, dass man sich erst mal selbst
-kennenlernen muss, wenn man es seit Jahrzehnten gewohnt ist, nur in voller
-Kriegsbemalung vor die Tür zu gehen? Ladys, lasst Euch eins gesagt sein: Ihr
-seid auch ohne Mascara, Camouflage und Lippenstift schön! Frau lernt sich selbst
-kennen so ganz ohne Tusche im Gesicht. Und lieben! Versprochen! Außerdem gibt es
-noch viele weitere tolle Effekte, die Ihr feststellen werdet:
+Ich meine: Es ist doch auch irgendwie klar, dass man sich erst mal selbst kennenlernen muss, wenn man es seit Jahrzehnten gewohnt ist, nur in voller Kriegsbemalung vor die Tür zu gehen? Ladys, lasst Euch eins gesagt sein: Ihr seid auch ohne Mascara, Camouflage und Lippenstift schön! Frau lernt sich selbst kennen so ganz ohne Tusche im Gesicht. Und lieben! Versprochen! Außerdem gibt es noch viele weitere tolle Effekte, die Ihr feststellen werdet:
 
-<RemoteImage alt={`Gewohnte Reinigung`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_42751807875_847d66c8d1_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_42751807875_847d66c8d1_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgDBQYH/8QAKBAAAgEDAwMDBQEAAAAAAAAAAQIDBAURABIhBhMxB0GBIiNRYXGx/8QAFwEBAAMAAAAAAAAAAAAAAAAABAIDBf/EACURAAECBAQHAAAAAAAAAAAAAAEAAgMEERIxQXHwBRMUITJR8f/aAAwDAQACEQMRAD8Ax/o8qydaWZrpDT1VrrC1IVnjDIZHJVCyvnkNtAI/mmMrekrFQxy1U1hsAMQMj7bbHk45PJH60rfTl8NJW0FxNCmaerE0EaOSY1T8KfHgn201HqVeI4emLvNTli4ppGVWVlJJQkfHI502bHiQcVkcMe62IHNw03kkwvK1LXasn7SyTyOZkMeMoGyQFUjO0c8DjRqYmKjrRHtmNZI577qd/GM8A5b/ADRpFgOdELnEAVaDqPqkqLbEYZzDCu3YCwmmBZnJxxgccfs67p1v1/arp6TU8cFeZLjPQw0z03ZZWWT6VYtkYC8HnPPtpeJK2FZY2DOcTIzxCQMSB74J84Gf7re9RXGyV9via23GmBaPaUb7eBnwVPn2+c6JMxBUABPkoL7XAmpO/axEUcizt24XWnQkSSjjY3jIIyfjxo1XVkryCWOnPcXG19khUfKnz40amItBgq+nuPd1F//Z"
+<RemoteImage
+  alt={`Gewohnte Reinigung`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_42751807875_847d66c8d1_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_42751807875_847d66c8d1_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgDBQYH/8QAKBAAAgEDAwMDBQEAAAAAAAAAAQIDBAURABIhBhMxB0GBIiNRYXGx/8QAFwEBAAMAAAAAAAAAAAAAAAAABAIDBf/EACURAAECBAQHAAAAAAAAAAAAAAEAAgMEERIxQXHwBRMUITJR8f/aAAwDAQACEQMRAD8Ax/o8qydaWZrpDT1VrrC1IVnjDIZHJVCyvnkNtAI/mmMrekrFQxy1U1hsAMQMj7bbHk45PJH60rfTl8NJW0FxNCmaerE0EaOSY1T8KfHgn201HqVeI4emLvNTli4ppGVWVlJJQkfHI502bHiQcVkcMe62IHNw03kkwvK1LXasn7SyTyOZkMeMoGyQFUjO0c8DjRqYmKjrRHtmNZI577qd/GM8A5b/ADRpFgOdELnEAVaDqPqkqLbEYZzDCu3YCwmmBZnJxxgccfs67p1v1/arp6TU8cFeZLjPQw0z03ZZWWT6VYtkYC8HnPPtpeJK2FZY2DOcTIzxCQMSB74J84Gf7re9RXGyV9via23GmBaPaUb7eBnwVPn2+c6JMxBUABPkoL7XAmpO/axEUcizt24XWnQkSSjjY3jIIyfjxo1XVkryCWOnPcXG19khUfKnz40amItBgq+nuPd1F//Z"
 />
 
-- Morgens spart man Zeit, die man mit Kuscheln, Katze Streicheln, Kaffee
-  Trinken, Gießen oder Schreiben verbringen kann.
-- Man kann seinen Freudentränen freien Lauf lassen, wenn man merkt, wie klasse
-  es einem ohne Schminke geht. Ganz ohne Pandaaugen.
+- Morgens spart man Zeit, die man mit Kuscheln, Katze Streicheln, Kaffee Trinken, Gießen oder Schreiben verbringen kann.
+- Man kann seinen Freudentränen freien Lauf lassen, wenn man merkt, wie klasse es einem ohne Schminke geht. Ganz ohne Pandaaugen.
 - Die Pickel werden weniger und die Haut atmet insgesamt auf.
-- Dadurch, dass die Poren nicht mehr permanent verstopft werden, werden sie
-  feiner, die Haut reguliert sich selbst, die Faltenbildung lässt nach.
-- Die Augen sind weniger gereizt. Klar, wenn nicht ständig Wimperntuschepartikel
-  im Tränenkanal landen, bekommt man auch nicht so schnell rote Äuglein.
+- Dadurch, dass die Poren nicht mehr permanent verstopft werden, werden sie feiner, die Haut reguliert sich selbst, die Faltenbildung lässt nach.
+- Die Augen sind weniger gereizt. Klar, wenn nicht ständig Wimperntuschepartikel im Tränenkanal landen, bekommt man auch nicht so schnell rote Äuglein.
 - Allergische Reaktionen lassen nach und sind weniger heftig.
-- Irgendwann traut man sich dann auch ohne Make-up ins Stammcafé und erhält ein
-  Kompliment von der Kellnerin. "Du siehst aber heute gut aus! So erholt!" Eins
-  kann ich Euch verraten: Ein ungeschminkt empfangenes Kompliment von einer
-  Person, die einen so gut wie jeden Tag sieht, geht runter wie Öl!
+- Irgendwann traut man sich dann auch ohne Make-up ins Stammcafé und erhält ein Kompliment von der Kellnerin. "Du siehst aber heute gut aus! So erholt!" Eins kann ich Euch verraten: Ein ungeschminkt empfangenes Kompliment von einer Person, die einen so gut wie jeden Tag sieht, geht runter wie Öl!
 
-Wer jetzt neugierig geworden ist und das Make-up-Fasten auch mal ausprobieren
-möchte: Versucht es! Es lohnt sich! Vielleicht steht in Kürze eine längere
-Autofahrt an? Ein Urlaub? Oder sitzt Ihr auch im Heat Office und wünscht Euch
-eine Abkühlung: Worauf wartet Ihr noch?
+Wer jetzt neugierig geworden ist und das Make-up-Fasten auch mal ausprobieren möchte: Versucht es! Es lohnt sich! Vielleicht steht in Kürze eine längere Autofahrt an? Ein Urlaub? Oder sitzt Ihr auch im Heat Office und wünscht Euch eine Abkühlung: Worauf wartet Ihr noch?
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_07_42751805685_6a21934b1b_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_07_42751805685_6a21934b1b_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-10__364__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-10__364__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_07_29785098038_64b8f03ef5_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_07_29785098038_64b8f03ef5_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-10__376__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-10__376__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_07_42751805685_6a21934b1b_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_07_42751805685_6a21934b1b_z__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-10__364__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-10__364__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_07_29785098038_64b8f03ef5_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_07_29785098038_64b8f03ef5_z__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-10__376__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-10__376__l.jpg',
+    },
+  ]}
 />
 
-- _Hinweis: Dieser Beitrag enthält Produktplatzierungen/Werbung. Der Inhalt und
-  meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-  Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-  [Transparenz-Seite](/werbung/). _
-
-  
+- _Hinweis: Dieser Beitrag enthält Produktplatzierungen/Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _

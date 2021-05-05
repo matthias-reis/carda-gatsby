@@ -7,10 +7,8 @@ typeName: Konzertbericht
 title: Calexico live @ Große Freiheit 36 15.04.2015
 seoTitle: Calexico live @ Große Freiheit 36
 ogTitle: Calexico live @ Große Freiheit 36
-description: Hier sind meine Eindrücke vom Calexico-Konzert gestern in der
-  Großen Freiheit. Toll, die Große Freiheit, tolles Konzert!
-excerpt: Hier sind meine Eindrücke vom gestrigen Calexico-Konzert in der Großen
-  Freiheit in Hamburg.
+description: Hier sind meine Eindrücke vom Calexico-Konzert gestern in der Großen Freiheit. Toll, die Große Freiheit, tolles Konzert!
+excerpt: Hier sind meine Eindrücke vom gestrigen Calexico-Konzert in der Großen Freiheit in Hamburg.
 fileName: 2015-04---calexico-live-grosse-freiheit-36-15-04-2015.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_04_16959374197_3cf4e89b1a_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_04_16959374197_3cf4e89b1a_z__l.jpg
@@ -32,21 +30,20 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Bildergalerie
-  
 ---
 
-<RemoteImage alt={`Joey`} size="medium" title={`Joey`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_16959318267_fe6f1b6bd0_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_16959318267_fe6f1b6bd0_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACcQAAIBAwQBBAIDAAAAAAAAAAECAwAEEQUSITEGBxNBYSIyQnGB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMAAQT/xAAcEQACAgMBAQAAAAAAAAAAAAABAgADERIhQfD/2gAMAwEAAhEDEQA/AJf476dyX9hcXUjmFI0Zt32FJ66pltPFbBNPjDyLNNJAk+0xgbVI4yQMVSbSey0zxO5kkKm3AuTIxXgKHkGD/gxUD8W8juraKO1uJJntUhW3h/PaYMsDwf7PRzT2bODDRQMgw1/QkgaUBdsbHO34zikDULYQyEr191StYu0nlSTUElFqGPuTxKW2A8DjIGc44qf6tICX2hdv8WK4JqWa+SteZj9q/qKt9YwWcTXCI0ss0pkAH7O7BeD0N1YNv5DJeKbOTbM4jQptYBcqOWO7tsZ6oorO9a2WBmHwjVudU0B5M/Wr2QIsN17qqyboyHDD5++sml+WdpF5JCkj8c/FFFGw7FEz/9k="
+<RemoteImage
+  alt={`Joey`}
+  size="medium"
+  title={`Joey`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_16959318267_fe6f1b6bd0_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_16959318267_fe6f1b6bd0_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACcQAAIBAwQBBAIDAAAAAAAAAAECAwAEEQUSITEGBxNBYSIyQnGB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMAAQT/xAAcEQACAgMBAQAAAAAAAAAAAAABAgADERIhQfD/2gAMAwEAAhEDEQA/AJf476dyX9hcXUjmFI0Zt32FJ66pltPFbBNPjDyLNNJAk+0xgbVI4yQMVSbSey0zxO5kkKm3AuTIxXgKHkGD/gxUD8W8juraKO1uJJntUhW3h/PaYMsDwf7PRzT2bODDRQMgw1/QkgaUBdsbHO34zikDULYQyEr191StYu0nlSTUElFqGPuTxKW2A8DjIGc44qf6tICX2hdv8WK4JqWa+SteZj9q/qKt9YwWcTXCI0ss0pkAH7O7BeD0N1YNv5DJeKbOTbM4jQptYBcqOWO7tsZ6oorO9a2WBmHwjVudU0B5M/Wr2QIsN17qqyboyHDD5++sml+WdpF5JCkj8c/FFFGw7FEz/9k="
 />
 
-**Hier sind meine Eindrücke vom gestrigen Calexico-Konzert in der Großen
-Freiheit in Hamburg.**
+**Hier sind meine Eindrücke vom gestrigen Calexico-Konzert in der Großen Freiheit in Hamburg.**
 
-Die Stimmung war großartig, zwei Mal wurde die Band zu Zugaben auf die Bühne
-zurückgerufen. Klasse, dass es mit den Karten noch geklappt hat, wir hatten
-schon Angst, dass es nichts mehr werden könnte.
+Die Stimmung war großartig, zwei Mal wurde die Band zu Zugaben auf die Bühne zurückgerufen. Klasse, dass es mit den Karten noch geklappt hat, wir hatten schon Angst, dass es nichts mehr werden könnte.
 
 ## Die Setlist des Abends
 
@@ -97,5 +94,3 @@ schon Angst, dass es nichts mehr werden könnte.
 [Homepage](http://www.casadecalexico.com) Calexico
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
-
-  

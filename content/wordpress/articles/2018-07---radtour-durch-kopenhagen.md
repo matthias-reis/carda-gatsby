@@ -7,12 +7,8 @@ typeName: Galerie
 title: Radtour durch Kopenhagen
 seoTitle: Radtour durch Kopenhagen - Dänische Fahrradstadt im Sonnenlicht
 ogTitle: Radtour durch Kopenhagen - Dänische Fahrradstadt im Sonnenlicht
-description: Wir haben Kopenhagen mit dem Fahrrad erkundet und haben uns sofort
-  in die Dänische Hauptstadt verliebt. Ich habe Euch ein paar Eindrücke
-  mitgebracht.
-excerpt: Wir haben Kopenhagen mit dem Fahrrad erkundet und haben uns sofort in
-  die Dänische Hauptstadt verliebt. Ich habe Euch ein paar Eindrücke
-  mitgebracht.
+description: Wir haben Kopenhagen mit dem Fahrrad erkundet und haben uns sofort in die Dänische Hauptstadt verliebt. Ich habe Euch ein paar Eindrücke mitgebracht.
+excerpt: Wir haben Kopenhagen mit dem Fahrrad erkundet und haben uns sofort in die Dänische Hauptstadt verliebt. Ich habe Euch ein paar Eindrücke mitgebracht.
 fileName: 2018-07---radtour-durch-kopenhagen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_29423357478_b319cb9d0f_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_29423357478_b319cb9d0f_z__l.jpg
@@ -37,30 +33,16 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Dänische Fahrradstadt im Sonnenlicht
-  
 ---
 
-**Eine Großstadt vom Fahrrad aus erkunden? Geht nicht? Geht doch! Kopenhagen ist
-eine Zweiradstadt, wie sie im Buche steht. Vor Kurzem kamen wir in den Genuss,
-sie für uns zu entdecken.**
+**Eine Großstadt vom Fahrrad aus erkunden? Geht nicht? Geht doch! Kopenhagen ist eine Zweiradstadt, wie sie im Buche steht. Vor Kurzem kamen wir in den Genuss, sie für uns zu entdecken.**
 
-Breite, ausgebaute, vom Autoverkehr komplett getrennte Fahrradwege soweit das
-Auge reicht. In Kopenhagen ist das keine Zukunftsmusik und auch kein Traum. Was
-in anderen Städten unmöglich erscheint, ist hier längst Wirklichkeit. Tja,
-[Hamburg](/category/slow-travel/hamburg/), da kannst Du Dir echt mal eine
-Scheibe davon abschneiden. Das würde auch Dir gut stehen.
+Breite, ausgebaute, vom Autoverkehr komplett getrennte Fahrradwege soweit das Auge reicht. In Kopenhagen ist das keine Zukunftsmusik und auch kein Traum. Was in anderen Städten unmöglich erscheint, ist hier längst Wirklichkeit. Tja, [Hamburg](/category/slow-travel/hamburg/), da kannst Du Dir echt mal eine Scheibe davon abschneiden. Das würde auch Dir gut stehen.
 
 ## Eine Radtour durch Kopenhagen die ist schön
 
-Unsere Radtour führte uns an allen Sehenswürdigkeiten vorbei, vom Rokokoviertel
-über Nyhavn bis zum Schloss Amalienburg. Selbstverständlich haben wir auch das
-berühmte Tivoli nicht ausgelassen, doch davon gibt es in dieser Fotoserie
-erstmal nur ein Bild. Ich plane, es noch gesondert zu verbloggen.
+Unsere Radtour führte uns an allen Sehenswürdigkeiten vorbei, vom Rokokoviertel über Nyhavn bis zum Schloss Amalienburg. Selbstverständlich haben wir auch das berühmte Tivoli nicht ausgelassen, doch davon gibt es in dieser Fotoserie erstmal nur ein Bild. Ich plane, es noch gesondert zu verbloggen.
 
-Weil ich so viel Spaß am Radfahren hatte, habe ich nicht so viele Fotos gemacht,
-wie ich es sonst bei Stadtbesichtigungen gewohnt bin. Einen kleinen Eindruck
-solltet Ihr dennoch erhalten.
+Weil ich so viel Spaß am Radfahren hatte, habe ich nicht so viele Fotos gemacht, wie ich es sonst bei Stadtbesichtigungen gewohnt bin. Einen kleinen Eindruck solltet Ihr dennoch erhalten.
 
 <Gallery name="flickr/annekopenhagen20180619" />
-
-  

@@ -7,12 +7,8 @@ typeName: Artikel
 title: 12 Songs für den Februar
 seoTitle: 12 Songs für den Februar - frisch ausgesucht
 ogTitle: 12 Songs für den Februar - frisch ausgesucht
-description:
-  Im Januar war ja musikalisch echt schon einiges los. Wir haben wieder eine
-  starke Hörliste für Euch zusammengestellt - mit ziemlich genialen Songs.
-excerpt:
-  Im Januar war ja musikalisch echt schon einiges los. Wir haben wieder eine
-  starke Hörliste für Euch zusammengestellt - mit ziemlich genialen Songs.
+description: Im Januar war ja musikalisch echt schon einiges los. Wir haben wieder eine starke Hörliste für Euch zusammengestellt - mit ziemlich genialen Songs.
+excerpt: Im Januar war ja musikalisch echt schon einiges los. Wir haben wieder eine starke Hörliste für Euch zusammengestellt - mit ziemlich genialen Songs.
 fileName: 2020-01---12-songs-fuer-den-februar.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_12-Songs-Header.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_12-Songs-Header.png__l.jpg
@@ -55,158 +51,105 @@ language: de
 subTitle: Präsentiert von den drei von der Bande
 ---
 
-**Im Januar war ja musikalisch echt schon einiges los. Wir haben wie jeden Monat
-wieder eine starke Hörliste für Euch zusammengestellt - mit einigen echten
-Überraschungen.**
+**Im Januar war ja musikalisch echt schon einiges los. Wir haben wie jeden Monat wieder eine starke Hörliste für Euch zusammengestellt - mit einigen echten Überraschungen.**
 
-Wie immer hat wieder jeder von uns dreien vier Songs zusammengestellt. Erlaubt
-war wie immer alles, was gefällt. Egal, welche Stilrichtung. Weiter unten findet
-Ihr dann Playlisten für iTunes und Spotify. Dann müsst Ihr quasi nur noch den
-Playbutton drücken.
+Wie immer hat wieder jeder von uns dreien vier Songs zusammengestellt. Erlaubt war wie immer alles, was gefällt. Egal, welche Stilrichtung. Weiter unten findet Ihr dann Playlisten für iTunes und Spotify. Dann müsst Ihr quasi nur noch den Playbutton drücken.
 
 ## Matzes Auswahl
 
 ### Caspian - "Ishmael" vom Album "On Circles"
 
-Matze meint: "Vor zwei Monaten hatte ich schon die erste Singleauskopplung
-[in unserer Liste](/2019/11/13-songs-fuer-den-dezember/). Jetzt ist das
-wundervolle Album erschienen, das insgesamt fast an seinen genialen Vorgänger
-"Dust and Disquiet" heranreicht. 'Ishmael' ist der siebenminütige, gewaltige
-vorletzte Track. Er schaukelt sich über einige schräge Violinenklänge in
-altbekannte Post-Rock Höhen hoch und gewinnt mich damit bei jedem Hören mehr."
+Matze meint: "Vor zwei Monaten hatte ich schon die erste Singleauskopplung [in unserer Liste](/2019/11/13-songs-fuer-den-dezember/). Jetzt ist das wundervolle Album erschienen, das insgesamt fast an seinen genialen Vorgänger "Dust and Disquiet" heranreicht. 'Ishmael' ist der siebenminütige, gewaltige vorletzte Track. Er schaukelt sich über einige schräge Violinenklänge in altbekannte Post-Rock Höhen hoch und gewinnt mich damit bei jedem Hören mehr."
 
- <YouTube id="G4MR6_HvckU" />
+{' '}
+<YouTube id="G4MR6_HvckU" />
 
 ### Alcest - "Protection" in der Ben Chisholm Version (Single)
 
-Matzes Worte zu diesem Stück: "'Protection' ist eines der starken
-Metal/Post-Metal/Shoegaze Stücke vom 2019er Album 'Spiritual Instinct'. Ben
-Chisholm, Multiinstrumentalist bei Chelsea Wolfe, hat dies nun in seine
-Einzelteile zerlegt und elektronische Untertöne hinzugefügt. Das lässt den Song
-fast noch besser werden. Die Stimme von Alcest Sänger Neige wird noch eine Spur
-mehr betont."
+Matzes Worte zu diesem Stück: "'Protection' ist eines der starken Metal/Post-Metal/Shoegaze Stücke vom 2019er Album 'Spiritual Instinct'. Ben Chisholm, Multiinstrumentalist bei Chelsea Wolfe, hat dies nun in seine Einzelteile zerlegt und elektronische Untertöne hinzugefügt. Das lässt den Song fast noch besser werden. Die Stimme von Alcest Sänger Neige wird noch eine Spur mehr betont."
 
 <YouTube id="Tn7wvu8R4Wk" />
 
 ### Pearl Jam - "Dance Of The Clairvoyants" - Vorauskopplung aus dem Album "Gigaton"
 
-Matze fehlen hier ein bisschen die Worte. Zu Recht. " Wow. Der Vorgänger von
-'Gigaton' 'Lightening Bolt' ist inzwischen schon acht Jahre alt. Wie schnell
-doch die Zeit vergeht. Umso gespannter war ich auf neues Material. Diese
-Vorauskopplung ist etwas anders, als wir es von früheren Pearl Jam Platten
-kennen. Obwohl man den geliebten Sound natürlich auch wieder heraushören kann -
-wie könnte es anders sein.
+Matze fehlen hier ein bisschen die Worte. Zu Recht. " Wow. Der Vorgänger von 'Gigaton' 'Lightening Bolt' ist inzwischen schon acht Jahre alt. Wie schnell doch die Zeit vergeht. Umso gespannter war ich auf neues Material. Diese Vorauskopplung ist etwas anders, als wir es von früheren Pearl Jam Platten kennen. Obwohl man den geliebten Sound natürlich auch wieder heraushören kann - wie könnte es anders sein.
 
-Der Song startet mit nahezu Kasabian ähnlichen elektronischen Tunes bis Eddie
-Vedder und der Rest der Band  dann doch wieder ihr Ding machen. Was gut ist. Für
-sich genommen ist 'Dance Of The Clairvoyants' ein sehr gutes Stück Musik und für
-mich der perfekter Teaser für das kommende Album."
+Der Song startet mit nahezu Kasabian ähnlichen elektronischen Tunes bis Eddie Vedder und der Rest der Band  dann doch wieder ihr Ding machen. Was gut ist. Für sich genommen ist 'Dance Of The Clairvoyants' ein sehr gutes Stück Musik und für mich der perfekter Teaser für das kommende Album."
 
- <YouTube id="ss6mIGfyvXM" />
+{' '}
+<YouTube id="ss6mIGfyvXM" />
 
 ### Tindersticks - "See My Girls" von der EP "See my Girls"
 
 Matze hat sich über die neue Tindersticks EP sehr gefreut.
 
-"Die Briten haben es mir mit ihrem komplett eigenen Mix aus Indie Pop und
-Avantgarde irgendwie angetan. Vielleicht ist es die düstere, aber dennoch nicht
-tiefe, melancholische Stimme von Stuart Staples oder ihre experimentellen
-Rhythmen, die mich sogar manchmal vage an die Neubauten erinnern - gepaart mit
-Leonard Cohen. Ich weiß es nicht. 'See My Girls' ist wie das Stück von Alcest
-ebenfalls ein alter, aber vollkommen neu gedachter Bekannter aus dem
-Vorgängeralbum. Und 'No Treasure But Hope' war ja an sich schon etwas ganz
-Besonderes. Verpackt wurde die EP mit zwei weiteren komplett neuen Songs, die es
-sich definitiv auch zu hören lohnt."
+"Die Briten haben es mir mit ihrem komplett eigenen Mix aus Indie Pop und Avantgarde irgendwie angetan. Vielleicht ist es die düstere, aber dennoch nicht tiefe, melancholische Stimme von Stuart Staples oder ihre experimentellen Rhythmen, die mich sogar manchmal vage an die Neubauten erinnern - gepaart mit Leonard Cohen. Ich weiß es nicht. 'See My Girls' ist wie das Stück von Alcest ebenfalls ein alter, aber vollkommen neu gedachter Bekannter aus dem Vorgängeralbum. Und 'No Treasure But Hope' war ja an sich schon etwas ganz Besonderes. Verpackt wurde die EP mit zwei weiteren komplett neuen Songs, die es sich definitiv auch zu hören lohnt."
 
- <YouTube id="8CWAtHcnNB0" />
+{' '}
+<YouTube id="8CWAtHcnNB0" />
 
 ## Meine Auswahl
 
 ### Holy Fawn -  "Candy" von der Single "The Black Moon"
 
-Mein Highlight auf der aus drei Songs bestehenden neuen Platte von Holy Fawn
-trägt den schönen Namen "Candy". Wunderbarer Post-Rock für das Jahr 2020. Ich
-hoffe sehr darauf, dass bald wieder ein komplettes neues Album von den Musikern
-aus Arizona kommt. Bis jetzt haben sie mich noch nie enttäuscht.
+Mein Highlight auf der aus drei Songs bestehenden neuen Platte von Holy Fawn trägt den schönen Namen "Candy". Wunderbarer Post-Rock für das Jahr 2020. Ich hoffe sehr darauf, dass bald wieder ein komplettes neues Album von den Musikern aus Arizona kommt. Bis jetzt haben sie mich noch nie enttäuscht.
 
- <YouTube id="GPnqVsODSt0" />
+{' '}
+<YouTube id="GPnqVsODSt0" />
 
 ### Algiers - "Dispossession" vom Album "There is no year"
 
-Noch ein Werk, das frisch in diesem Jahr veröffentlicht wurde. Algiers machen
-normalerweise mit handfestem Post-Punk Furore. Das trifft auch für das neue
-Album "There is no year" zu. "Dispossession" sticht da hervor. Es klingt
-orchestraler, ja fast ein bisschen poppig. Auf eine gute Art. Der Gesang
-erinnert mich ein bisschen an Zeal and Ardor. Sehr schön.
+Noch ein Werk, das frisch in diesem Jahr veröffentlicht wurde. Algiers machen normalerweise mit handfestem Post-Punk Furore. Das trifft auch für das neue Album "There is no year" zu. "Dispossession" sticht da hervor. Es klingt orchestraler, ja fast ein bisschen poppig. Auf eine gute Art. Der Gesang erinnert mich ein bisschen an Zeal and Ardor. Sehr schön.
 
- <YouTube id="bwKTIQuH5ug" />
+{' '}
+<YouTube id="bwKTIQuH5ug" />
 
 ### An Isolated Mind - "Afraid Of Dissonance" vom Album "I'm Losing Myself"
 
-Harter Post-Metal darf auch in diesem Jahr nicht fehlen. An Isolated Mind
-liefern mit ihrem neuen Album das ab, was unsere Seelen aufwühlt. Sie reißen uns
-hinab in einen Strudel aus Gebrüll und Düsternis. Musikalisch durchdachte Wellen
-tragen uns davon. Klarinettenklänge begleiten uns auf unserer Reise.
+Harter Post-Metal darf auch in diesem Jahr nicht fehlen. An Isolated Mind liefern mit ihrem neuen Album das ab, was unsere Seelen aufwühlt. Sie reißen uns hinab in einen Strudel aus Gebrüll und Düsternis. Musikalisch durchdachte Wellen tragen uns davon. Klarinettenklänge begleiten uns auf unserer Reise.
 
- <YouTube id="bQXiG6J9D3I" />
+{' '}
+<YouTube id="bQXiG6J9D3I" />
 
 ### And You Will Know Us By The Trail Of Dead - "Into The Godless Void" vom Album "Into The Godless Void And Other Stories"
 
-Als ich vor etwa drei Jahren mit Matze mal wieder auf einem Trail Of Dead
-Konzert war, war alles anders, als zur Zeit von "Worlds Apart" - damals waren
-sie ja mit zwei Drumsets aufgetreten und alles war einfach extrem perfekt
-aufeinander abgestimmt gewesen. Irgendwie hatte sich die Band an ihre
-Anfangszeit zurückerinnert und ein winziges Set in einem winzigen Club gegeben.
-Die Idee klingt auf jeden Fall schon mal ganz gut.
+Als ich vor etwa drei Jahren mit Matze mal wieder auf einem Trail Of Dead Konzert war, war alles anders, als zur Zeit von "Worlds Apart" - damals waren sie ja mit zwei Drumsets aufgetreten und alles war einfach extrem perfekt aufeinander abgestimmt gewesen. Irgendwie hatte sich die Band an ihre Anfangszeit zurückerinnert und ein winziges Set in einem winzigen Club gegeben. Die Idee klingt auf jeden Fall schon mal ganz gut.
 
-Allerdings waren die Musiker an dem Tag komplett durch den Tüddel und haben
-(gelinde gesagt) nicht besonders toll gespielt. Umso mehr habe ich mich gefreut,
-als das neue Album kam. Es erinnert mich tatsächlich auch mehr an "Madonna" und
-"Relative Ways", als an "Worlds Apart" und "So Devided". Es klingt ganz danach,
-als hätten sich Conrad Keeley und Co. dieses Mal tatsächlich wiedergefunden. Ich
-werde ihnen auf jeden Fall auch live eine neue Chance geben, wenn sich die
-Gelegenheit bietet.
+Allerdings waren die Musiker an dem Tag komplett durch den Tüddel und haben (gelinde gesagt) nicht besonders toll gespielt. Umso mehr habe ich mich gefreut, als das neue Album kam. Es erinnert mich tatsächlich auch mehr an "Madonna" und "Relative Ways", als an "Worlds Apart" und "So Devided". Es klingt ganz danach, als hätten sich Conrad Keeley und Co. dieses Mal tatsächlich wiedergefunden. Ich werde ihnen auf jeden Fall auch live eine neue Chance geben, wenn sich die Gelegenheit bietet.
 
- <YouTube id="qwPvnMdAXyA" />
+{' '}
+<YouTube id="qwPvnMdAXyA" />
 
 ## Valentins Auswahl
 
 ### Fjørt - "Eden" vom Album "Colour"
 
-"Von der sympathischen und wirklich einzigartigen Band aus Aachen Fjørt (die ich
-leider erst jetzt für mich entdeckt habe) habe ich den Song 'Eden' ausgewählt.
-Er wurde auf dem ihrem dritten Album 'Colour' aus dem Jahr 2017 verewigt.  Für
-mich ist er pure Emotion in Musikgestalt. Fjørt sind übrigens beim legendären
-Hamburger Label Grandhotel van Cleef zu Hause!"
+"Von der sympathischen und wirklich einzigartigen Band aus Aachen Fjørt (die ich leider erst jetzt für mich entdeckt habe) habe ich den Song 'Eden' ausgewählt. Er wurde auf dem ihrem dritten Album 'Colour' aus dem Jahr 2017 verewigt.  Für mich ist er pure Emotion in Musikgestalt. Fjørt sind übrigens beim legendären Hamburger Label Grandhotel van Cleef zu Hause!"
 
- <YouTube id="UqsDrvNz-N4" />
+{' '}
+<YouTube id="UqsDrvNz-N4" />
 
 ### Devon Gilfillian - "Unchained" vom Album "Black Hole Rainbow"
 
-"Wunderbare Musik von einem Künstler aus Nashville, Tennessee, von dem ich
-unbedingt noch mehr hören möchte! Devon Gilfillian ist eine Empfehlung meines
-Vaters!"
+"Wunderbare Musik von einem Künstler aus Nashville, Tennessee, von dem ich unbedingt noch mehr hören möchte! Devon Gilfillian ist eine Empfehlung meines Vaters!"
 
 <YouTube id="-ahIUlfWiXA" />
 
 ### The Specials - "Black Skin Blue Eyed Boys" vom Album "Encore"
 
-"Mein dritter Song diesen Monat stammt von der britischen Ska-Band The Specials.
-Die Musiker aus Coventry machen bereits seit 1977 gemeinsam Musik. 'Black Skin
-Blue Eyed Boys' ist auf dem letzten Album "Encore" von 2019 erschienen -  das
-Stück kommt sehr funky daher, wie ich finde."
+"Mein dritter Song diesen Monat stammt von der britischen Ska-Band The Specials. Die Musiker aus Coventry machen bereits seit 1977 gemeinsam Musik. 'Black Skin Blue Eyed Boys' ist auf dem letzten Album "Encore" von 2019 erschienen -  das Stück kommt sehr funky daher, wie ich finde."
 
 <YouTube id="BUVHz-HwR7c" />
 
 ### Incubus "Here In My Room" vom Album "A Crow Left Of The Murder"
 
-"Dazu gibt es von mir diesen Monat noch einen Klassiker von Incubus.'Here In My
-Room' begleitet mich schon seit vielen Jahren. Der Song ist einfach wunderschön.
-Er stammt vom für mich besten Album der Kalifornier 'A crow left of the murder',
-das im Jahr 2004 erschienen ist."
+"Dazu gibt es von mir diesen Monat noch einen Klassiker von Incubus.'Here In My Room' begleitet mich schon seit vielen Jahren. Der Song ist einfach wunderschön. Er stammt vom für mich besten Album der Kalifornier 'A crow left of the murder', das im Jahr 2004 erschienen ist."
 
 <YouTube id="0IlPlKBXRHE" />
 
 ## Unsere Playlists
 
-<Playlist spotify="2htD7IJ5xflkNeQWb79MLx" itunes="2020-01-25-die-drei-von-der-bande/pl.u-jvM9ujekrkB" />
+<Playlist
+  spotify="2htD7IJ5xflkNeQWb79MLx"
+  itunes="2020-01-25-die-drei-von-der-bande/pl.u-jvM9ujekrkB"
+/>

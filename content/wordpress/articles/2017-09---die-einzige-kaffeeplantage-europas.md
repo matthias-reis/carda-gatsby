@@ -7,12 +7,8 @@ typeName: Galerie
 title: Die einzige Kaffeeplantage Europas
 seoTitle: Die einzige Kaffeeplantage Europas - Zu Besuch in der Finca La Laja
 ogTitle: Die Finca La Laja - Zu Besuch auf der einzigen Kaffeplantage Europas
-description: Bereist man Gran Canaria, lohnt sich auch ein Besuch auf der
-  einzigen Kaffeeplantage Europas. Dort gibt es neben einer Rösterei noch vieles
-  mehr zu sehen.
-excerpt: Bereist man Gran Canaria, lohnt sich auch ein Besuch auf der einzigen
-  Kaffeeplantage Europas. Dort gibt es neben einer Rösterei noch vieles mehr zu
-  sehen.
+description: Bereist man Gran Canaria, lohnt sich auch ein Besuch auf der einzigen Kaffeeplantage Europas. Dort gibt es neben einer Rösterei noch vieles mehr zu sehen.
+excerpt: Bereist man Gran Canaria, lohnt sich auch ein Besuch auf der einzigen Kaffeeplantage Europas. Dort gibt es neben einer Rösterei noch vieles mehr zu sehen.
 fileName: 2017-09---die-einzige-kaffeeplantage-europas.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_36615182483_fdf56a499e_b__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_36615182483_fdf56a499e_b__l.jpg
@@ -36,34 +32,21 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Zu Besuch in der Finca La Laja in Agaete
-  
 ---
 
-**Reist man durch Gran Canaria, trifft man immer wieder auf ganz besondere
-Fincas, die man zum Teil auch besichtigen kann. Eine davon ist die Finca _La
-Laja_ bei Agaete. Sie beherbergt die einzige Kaffeeplantage Europas.**
+**Reist man durch Gran Canaria, trifft man immer wieder auf ganz besondere Fincas, die man zum Teil auch besichtigen kann. Eine davon ist die Finca _La Laja_ bei Agaete. Sie beherbergt die einzige Kaffeeplantage Europas.**
 
-Außerdem findet man dort einen Bananenhain, sowie eine Weinplantage samt
-Kelterei, eine Rösterei und jede Menge frisches Obst und Gemüse. Und die
-gemütliche Bodega _Los Berrazales_ .
+Außerdem findet man dort einen Bananenhain, sowie eine Weinplantage samt Kelterei, eine Rösterei und jede Menge frisches Obst und Gemüse. Und die gemütliche Bodega _Los Berrazales_ .
 
 ## Kaffee, Wein und Bananen
 
-Auf dem Gebiet der Finca  _La Laja_ werden neben Kaffee, Wein und Bananen auch
-noch Mangos angebaut. Alle Erzeugnisse des Hofs kann man beim Besuch auch
-probieren. Liebevoll serviert im Schatten der gemütlichen Terrasse der Bodega
-_Los Berrazales_ . Nachdem uns ein Einheimischer den Besuch wärmstens empfohlen
-hatte, machten wir uns auf den Weg nach Agaete. Unweit des Dorfs, eingebettet in
-den Weinberg, befindet sich die Finca.
+Auf dem Gebiet der Finca  _La Laja_ werden neben Kaffee, Wein und Bananen auch noch Mangos angebaut. Alle Erzeugnisse des Hofs kann man beim Besuch auch probieren. Liebevoll serviert im Schatten der gemütlichen Terrasse der Bodega _Los Berrazales_ . Nachdem uns ein Einheimischer den Besuch wärmstens empfohlen hatte, machten wir uns auf den Weg nach Agaete. Unweit des Dorfs, eingebettet in den Weinberg, befindet sich die Finca.
 
-Wer Interesse hat, die einzige Kaffeeplantage Europas zu besichtigen, informiert
-sich am besten vorab auf der Homepage\* der Bodega. Eine Voranmeldung ist immer
-sinnvoll.
+Wer Interesse hat, die einzige Kaffeeplantage Europas zu besichtigen, informiert sich am besten vorab auf der Homepage\* der Bodega. Eine Voranmeldung ist immer sinnvoll.
 
 <Gallery name="flickr/annelosberrazales" />
 
-\*Zur [Homepage](http://www.bodegalosberrazales.com/) der _Bodega Los
-Berrazales_ geht es hier entlang.
+\*Zur [Homepage](http://www.bodegalosberrazales.com/) der _Bodega Los Berrazales_ geht es hier entlang.
 
 ## Wegweiser Gran Canaria
 
@@ -77,5 +60,3 @@ Berrazales_ geht es hier entlang.
 1.  Die einzige Kaffeeplantage Europas
 1.  [Las Vegas auf Gran Canaria](/2017/09/bananen-papayas-und-esel-las-vegas-auf-gran-canaria/)
 1.  [Jardín Canario - Grüne Oase in Tafira](/2017/09/jardin-canario-gruene-oase-in-tafira/)
-
-  

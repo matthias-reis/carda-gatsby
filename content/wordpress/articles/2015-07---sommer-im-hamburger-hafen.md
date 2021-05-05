@@ -7,11 +7,8 @@ typeName: Galerie
 title: Sommer im Hamburger Hafen
 seoTitle: Sommer im Hamburger Hafen
 ogTitle: Sommer im Hamburger Hafen
-description: Die Elbphilharmonie hat endlich ihre Kräne abgelegt - Höchste Zeit,
-  bei schönem Wetter mal wieder den Hamburger Hafen unsicher zu machen
-excerpt: Samstag - Die Sonne scheint bei gemütlichen 25 Grad, die Möwen
-  kreischen, die Elbphilharmonie ist endlich ihre Kräne losgeworden, lieber
-  Besuch von der Familie.
+description: Die Elbphilharmonie hat endlich ihre Kräne abgelegt - Höchste Zeit, bei schönem Wetter mal wieder den Hamburger Hafen unsicher zu machen
+excerpt: Samstag - Die Sonne scheint bei gemütlichen 25 Grad, die Möwen kreischen, die Elbphilharmonie ist endlich ihre Kräne losgeworden, lieber Besuch von der Familie.
 fileName: 2015-07---sommer-im-hamburger-hafen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_19233819943_46a258f5b9_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_19233819943_46a258f5b9_z__l.jpg
@@ -39,28 +36,18 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Sonne und Möwen
-  
 ---
 
-**Samstag - Die Sonne scheint bei gemütlichen 25 Grad, die Möwen kreischen, die
-Elbphilharmonie ist endlich ihre Kräne losgeworden, lieber Besuch von der
-Familie.**
+**Samstag - Die Sonne scheint bei gemütlichen 25 Grad, die Möwen kreischen, die Elbphilharmonie ist endlich ihre Kräne losgeworden, lieber Besuch von der Familie.**
 
-Höchste Zeit, endlich mal so richtig mit dem Hamburger Hafen und Hamburg im
-Allgemeinen anzugeben und mal wieder eine große Hafenrundfahrt zu machen.
+Höchste Zeit, endlich mal so richtig mit dem Hamburger Hafen und Hamburg im Allgemeinen anzugeben und mal wieder eine große Hafenrundfahrt zu machen.
 
 ## Eine Runde durch die Docks
 
-Los geht's an den Landungsbrücken über den alten und den neuen Elbtunnel hinweg,
-vorbei an St. Pauli und Altona, weiter Richtung Övelgönne, Elbstrand,
-Blankenese, Tollerort, eine Runde durch die Docks, vorbei an Frachtern,
-Kreuzfahrtschiffen, Kränen und neugierigen Menschen in Barkassen. Immer dabei:
-Der Traum von der Ferne.
+Los geht's an den Landungsbrücken über den alten und den neuen Elbtunnel hinweg, vorbei an St. Pauli und Altona, weiter Richtung Övelgönne, Elbstrand, Blankenese, Tollerort, eine Runde durch die Docks, vorbei an Frachtern, Kreuzfahrtschiffen, Kränen und neugierigen Menschen in Barkassen. Immer dabei: Der Traum von der Ferne.
 
 ### Hier sind meine Eindrücke aus dem Hamburger Hafen von Samstag für Euch.
 
 <Gallery name="flickr/annehafenrundfahrt072015" />
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
-
-  

@@ -7,11 +7,8 @@ typeName: Konzertbericht
 title: Caspian live @ Hafenklang Hamburg
 seoTitle: Caspian live @ Hafenklang Hamburg
 ogTitle: Caspian live @ Hafenklang Hamburg
-description: "Gestern war der große Tag endlich gekommen: Caspian spielten live
-  im Hafenklang in Hamburg."
-excerpt: "Gestern stand für uns ein echtes Highlight an: Das Caspian Konzert im
-  Hafenklang in Hamburg. Schon seit Wochen hatten wir uns drauf gefreut, endlich
-  war der Tag gekommen."
+description: 'Gestern war der große Tag endlich gekommen: Caspian spielten live im Hafenklang in Hamburg.'
+excerpt: 'Gestern stand für uns ein echtes Highlight an: Das Caspian Konzert im Hafenklang in Hamburg. Schon seit Wochen hatten wir uns drauf gefreut, endlich war der Tag gekommen.'
 fileName: 2015-11---caspian-live-hafenklang-hamburg.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22547749049_b55cb368b4_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22547749049_b55cb368b4_z__l.jpg
@@ -32,38 +29,23 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Konzert ohne Kamera
-  
 ---
 
-**Gestern stand für uns ein echtes Highlight an: Das Caspian Konzert im
-Hafenklang in Hamburg. Schon seit Wochen hatten wir uns drauf gefreut, endlich
-war der Tag gekommen.**
+**Gestern stand für uns ein echtes Highlight an: Das Caspian Konzert im Hafenklang in Hamburg. Schon seit Wochen hatten wir uns drauf gefreut, endlich war der Tag gekommen.**
 
-Und was soll ich sagen: Es war großartig. Auf jeden Fall eines der besten
-Konzerte der letzten Jahre. Und es war laut! Mein rechtes Ohr ist jetzt noch ein
-Bisschen träge. :-P Besonderes Highlight: Nach der klassischen Zugabe, bei der
-die komplette Band Schlagzeug spielt, machte das Publikum so einen Rabatz, dass
-Caspian noch mal auf die Bühne kamen! Sie selbst bestätigten, dass sie das noch
-nie gemacht hatten.
+Und was soll ich sagen: Es war großartig. Auf jeden Fall eines der besten Konzerte der letzten Jahre. Und es war laut! Mein rechtes Ohr ist jetzt noch ein Bisschen träge. :-P Besonderes Highlight: Nach der klassischen Zugabe, bei der die komplette Band Schlagzeug spielt, machte das Publikum so einen Rabatz, dass Caspian noch mal auf die Bühne kamen! Sie selbst bestätigten, dass sie das noch nie gemacht hatten.
 
-Auch der aus Australien stammende Support, die E-Chellistin Jo Quail hatte tolle
-Musik im Gepäck und wusste die Zuhörer mit ihrer gekonnten Loop-Technik zu
-beeindrucken.
+Auch der aus Australien stammende Support, die E-Chellistin Jo Quail hatte tolle Musik im Gepäck und wusste die Zuhörer mit ihrer gekonnten Loop-Technik zu beeindrucken.
 
-Da ich gestern bewusst auf die Kameraschlepperei verzichtet habe, um einen
-möglichst entspannten Abend zu genießen, habe ich heute "nur" eine kleine
-Instagram-Gallerie für Euch. Viel Spaß damit!
+Da ich gestern bewusst auf die Kameraschlepperei verzichtet habe, um einen möglichst entspannten Abend zu genießen, habe ich heute "nur" eine kleine Instagram-Gallerie für Euch. Viel Spaß damit!
 
 <Gallery name="flickr/annecaspian2015" />
 
 Hier sind für Euch Caspian mit "Gone In Bloom And Bough"
 
- <YouTube id="hkCoPRszZRI" />
+{' '}
+<YouTube id="hkCoPRszZRI" />
 
-Die komplette Session könnt Ihr Euch übrigens
-[hier herunterladen](http://audiotree.tv/session/caspian/).
+Die komplette Session könnt Ihr Euch übrigens [hier herunterladen](http://audiotree.tv/session/caspian/).
 
-Ihr liebt Mark Lanegan?
-[Hier gehts zu seinem Konzert im Freiheiz](/2015/03/mark-lanegan-live-freiheiz-muenchen/).
-
-  
+Ihr liebt Mark Lanegan? [Hier gehts zu seinem Konzert im Freiheiz](/2015/03/mark-lanegan-live-freiheiz-muenchen/).

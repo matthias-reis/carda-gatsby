@@ -7,11 +7,8 @@ typeName: Galerie
 title: Gruß aus Cuxhafen
 seoTitle: Gruß aus Cuxhafen - Bildergalerie
 ogTitle: Gruß aus Cuxhafen - Instagram-Galerie
-description: Letzen Sonntag stand uns bei dem herrlichen Wetter der Sinn nach
-  Wattwandern, also brachen wir nach Cuxhafen auf. Hier sind meine Eindrücke.
-excerpt: Letzen Sonntag stand uns bei dem herrlichen Wetter der Sinn nach
-  Wattwandern, also brachen wir nach Cuxhafen auf. Hier eine kleine Galerie aus
-  meinem Istagram-Account, die an dem Tag entstanden ist.
+description: Letzen Sonntag stand uns bei dem herrlichen Wetter der Sinn nach Wattwandern, also brachen wir nach Cuxhafen auf. Hier sind meine Eindrücke.
+excerpt: Letzen Sonntag stand uns bei dem herrlichen Wetter der Sinn nach Wattwandern, also brachen wir nach Cuxhafen auf. Hier eine kleine Galerie aus meinem Istagram-Account, die an dem Tag entstanden ist.
 fileName: 2015-11---gruss-aus-cuxhafen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22692278410_58f37aa356_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22692278410_58f37aa356_z__l.jpg
@@ -31,13 +28,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Bildergalerie
-  
 ---
 
-**Letzen Sonntag stand uns bei dem herrlichen Wetter der Sinn nach Wattwandern,
-also brachen wir nach Cuxhafen auf. Hier eine kleine Galerie aus meinem
-Istagram-Account, die an dem Tag entstanden ist.**
+**Letzen Sonntag stand uns bei dem herrlichen Wetter der Sinn nach Wattwandern, also brachen wir nach Cuxhafen auf. Hier eine kleine Galerie aus meinem Istagram-Account, die an dem Tag entstanden ist.**
 
 <Gallery name="flickr/annecuxhafen2015" />
-
-  

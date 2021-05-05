@@ -7,12 +7,8 @@ typeName: Galerie
 title: Panoptikum Hamburg
 seoTitle: Das Panoptikum - Deutschlands ältestes Wachsfigurenkabinett
 ogTitle: Das Panoptikum - Deutschlands ältestes Wachsfigurenkabinett
-description: Seit über 130 Jahren gibt es in Hamburg das Panoptikum - In
-  Deutschlands ältestem Wachsfigurenkabinett habe ich unter anderem die Beatles
-  fotografiert.
-excerpt: Seit über 130 Jahren gibt es in Hamburg das Panoptikum - In
-  Deutschlands ältestem Wachsfigurenkabinett habe ich unter anderem die Beatles
-  fotografiert.
+description: Seit über 130 Jahren gibt es in Hamburg das Panoptikum - In Deutschlands ältestem Wachsfigurenkabinett habe ich unter anderem die Beatles fotografiert.
+excerpt: Seit über 130 Jahren gibt es in Hamburg das Panoptikum - In Deutschlands ältestem Wachsfigurenkabinett habe ich unter anderem die Beatles fotografiert.
 fileName: 2016-01---panoptikum-hamburg.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24310408846_2401e72222_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24310408846_2401e72222_z__l.jpg
@@ -34,38 +30,27 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Deutschlands ältestes Wachsfigurenkabinett
-  
 ---
 
-<RemoteImage alt={`Fotorunde im Panoptikum in Hamburg`} size="medium"
-title={`Fotorunde im Panoptikum in Hamburg`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24228465322_9e793a5ea7_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24228465322_9e793a5ea7_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABEDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAEBgf/xAAxEAABAwIEAQgLAAAAAAAAAAABAgMRAAQFEhMh0QYUIlORkqHwFTFBQlFUVWFxgZP/xAAYAQADAQEAAAAAAAAAAAAAAAABAwUCBP/EAB8RAAIBAwUBAAAAAAAAAAAAAAABAwIREhMiUqHRMf/aAAwDAQACEQMRAD8A8Dwk3VqUlAUpBg5FDxFNco8UTeYbhjTaFNXLCHWn1RGdKlSg/eASP1TuA4GsW9kpbQUl8SCBGUCBv53msy38ITidkpzVYSdNxLlw1qtTnIUSJkIKQIgGCJqXJJudX2xRojbWJzcJ6tfdXVTvprB/pQ/ujhVTdeTg+vQaFHNd+CWBcrtJFs2848WoTs8mQVCPVA27Irkrg6uPLby5QLggQmYGbojb8iiLW4UFsDL0kFM/D2ee2mry7cfuXFLfeyLdJyBxWXefdJgHYVlw4VOwVImk2aea33yNz3HeFVH673WeI41V0Cro/9k="
+<RemoteImage
+  alt={`Fotorunde im Panoptikum in Hamburg`}
+  size="medium"
+  title={`Fotorunde im Panoptikum in Hamburg`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24228465322_9e793a5ea7_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24228465322_9e793a5ea7_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABEDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAEBgf/xAAxEAABAwIEAQgLAAAAAAAAAAABAgMRAAQFEhMh0QYUIlORkqHwFTFBQlFUVWFxgZP/xAAYAQADAQEAAAAAAAAAAAAAAAABAwUCBP/EAB8RAAIBAwUBAAAAAAAAAAAAAAABAwIREhMiUqHRMf/aAAwDAQACEQMRAD8A8Dwk3VqUlAUpBg5FDxFNco8UTeYbhjTaFNXLCHWn1RGdKlSg/eASP1TuA4GsW9kpbQUl8SCBGUCBv53msy38ITidkpzVYSdNxLlw1qtTnIUSJkIKQIgGCJqXJJudX2xRojbWJzcJ6tfdXVTvprB/pQ/ujhVTdeTg+vQaFHNd+CWBcrtJFs2848WoTs8mQVCPVA27Irkrg6uPLby5QLggQmYGbojb8iiLW4UFsDL0kFM/D2ee2mry7cfuXFLfeyLdJyBxWXefdJgHYVlw4VOwVImk2aea33yNz3HeFVH673WeI41V0Cro/9k="
 />
 
-**Seit über 130 Jahren gibt es in St. Pauli etwas ganz Besonderes: Das
-Panoptikum stellt Künstler, Politiker, Wissenschaftler und andere interessante
-Persönlichkeiten als Wachspuppen aus.**
+**Seit über 130 Jahren gibt es in St. Pauli etwas ganz Besonderes: Das Panoptikum stellt Künstler, Politiker, Wissenschaftler und andere interessante Persönlichkeiten als Wachspuppen aus.**
 
-Ganz ähnlich wie bei [Madame Tussauds](/2014/04/st-patricks-day-in-london/) in
-London sind die Figuren nach Themen sortiert. Beim Rundgang durch das
-älteste Wachsfigurenmuseum Deutschlands hat man die Möglichkeit tolle Bilder von
-den Stars zu machen.
+Ganz ähnlich wie bei [Madame Tussauds](/2014/04/st-patricks-day-in-london/) in London sind die Figuren nach Themen sortiert. Beim Rundgang durch das älteste Wachsfigurenmuseum Deutschlands hat man die Möglichkeit tolle Bilder von den Stars zu machen.
 
 ## Die Beatles und Madonna stehen im Panoptikum
 
-Bei unserem Besuch am 3. Januar war es nicht besonders voll, weshalb wir freie
-Bahn für unsere Fotos hatten. Schon eine tolle Sache, Karl Lagerfeld, Madonna,
-die Beatles, Charlie Chaplin und Jan Fedder mal aus der Nähe zu sehen. Bei so
-einem kurzweiligen Ausflug kommen einem über 700 qm plötzlich gar nicht mehr so
-groß vor.
+Bei unserem Besuch am 3. Januar war es nicht besonders voll, weshalb wir freie Bahn für unsere Fotos hatten. Schon eine tolle Sache, Karl Lagerfeld, Madonna, die Beatles, Charlie Chaplin und Jan Fedder mal aus der Nähe zu sehen. Bei so einem kurzweiligen Ausflug kommen einem über 700 qm plötzlich gar nicht mehr so groß vor.
 
-Willkommen, willkommen! Tretet ein in das glitzernde und funkelnde Museum der
-Originale, das Wunderland der Berühmtheiten!
+Willkommen, willkommen! Tretet ein in das glitzernde und funkelnde Museum der Originale, das Wunderland der Berühmtheiten!
 
 <Gallery name="flickr/annepanotikum2016" />
 
 &nbsp;
-
-  

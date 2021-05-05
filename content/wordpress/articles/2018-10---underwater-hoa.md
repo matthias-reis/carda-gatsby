@@ -7,12 +7,8 @@ typeName: Artikel
 title: Underwater HOA
 seoTitle: Underwater HOA - Künstler Xavier Cortada kämpft gegen den Klimawandel
 ogTitle: Underwater HOA - Künstler Xavier Cortada kämpft gegen den Klimawandel
-description: Der Umweltaktivist und Künstler Xavier Cortada möchte mit seinem
-  Projekt Underwater HOA zum sofortigen Handeln gegen steigenden Meeresspiegel
-  aufrufen.
-excerpt: Der Umweltaktivist und Künstler Xavier Cortada möchte mit seinem
-  Projekt Underwater HOA  zum sofortigen Handeln gegen steigenden Meeresspiegel
-  aufrufen.
+description: Der Umweltaktivist und Künstler Xavier Cortada möchte mit seinem Projekt Underwater HOA zum sofortigen Handeln gegen steigenden Meeresspiegel aufrufen.
+excerpt: Der Umweltaktivist und Künstler Xavier Cortada möchte mit seinem Projekt Underwater HOA  zum sofortigen Handeln gegen steigenden Meeresspiegel aufrufen.
 fileName: 2018-10---underwater-hoa.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_UHOA_Marker8-CortadaStudio_IMG_5576.jpeg__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_UHOA_Marker8-CortadaStudio_IMG_5576.jpeg__l.jpg
@@ -55,134 +51,53 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Künstler Xavier Cortada für Klimaschutz ein
-  
 ---
 
-**Der Ort Pinecrest und der renommierte Umweltaktivist und Künstler Xavier
-Cortada möchten mit einem neuen interaktiven Projekt zum sofortigen Handeln
-gegen steigenden Meeresspiegel aufrufen.**
+**Der Ort Pinecrest und der renommierte Umweltaktivist und Künstler Xavier Cortada möchten mit einem neuen interaktiven Projekt zum sofortigen Handeln gegen steigenden Meeresspiegel aufrufen.**
 
-"Underwater HOA" kartiert die Höhenlage von 6.000 Gebäuden, vier großen
-Straßenkreuzungen sowie 4 Kilometern des Kilian Drive, um die Auswirkungen des
-Klimawandels durch den steigenden Meeresspiegel sichtbar zu machen.
+"Underwater HOA" kartiert die Höhenlage von 6.000 Gebäuden, vier großen Straßenkreuzungen sowie 4 Kilometern des Kilian Drive, um die Auswirkungen des Klimawandels durch den steigenden Meeresspiegel sichtbar zu machen.
 
-_Pinecrest, Florida_ - Wissenschaftler warnen vor dem beschleunigten Anstieg des
-Meeresspiegels rund um den Globus. Vor allem das Abschmelzen der Eisschichten in
-der Antarktis und in Grönland sorgt dafür, dass sich dieser Prozess immer mehr
-beschleunigt. Zu Endes des Jahres werden die Weltmeere mindestens um 0,61 Meter
-höher stehen, als zum heutigen Tage. Davon geht das Wissenschaftsjournal
-Proceedings of the National Academy of Sciences (PNAS) aus. Xavier Cortada ist
-Stipendiant des National Science Foundation Antarctic Artists and Writers
-Program. Derzeit wohnt er in Pinecrest Gardens. Das ewige Eis hat er bei einem
-Besuch in Grönland vor zehn Jahren noch selbst erlebt. Von der Zusammenarbeit
-mit der Gemeinde Pinecrest erhofft er sich die Schärfung des Bewusstseins
-innerhalb der Bevölkerung. Außerdem möchte er mit seinem Kunstprojekt
-"Underwater HOA" andere bei der Vorbereitung auf das Unvermeidliche
-unterstützen.
+_Pinecrest, Florida_ - Wissenschaftler warnen vor dem beschleunigten Anstieg des Meeresspiegels rund um den Globus. Vor allem das Abschmelzen der Eisschichten in der Antarktis und in Grönland sorgt dafür, dass sich dieser Prozess immer mehr beschleunigt. Zu Endes des Jahres werden die Weltmeere mindestens um 0,61 Meter höher stehen, als zum heutigen Tage. Davon geht das Wissenschaftsjournal Proceedings of the National Academy of Sciences (PNAS) aus. Xavier Cortada ist Stipendiant des National Science Foundation Antarctic Artists and Writers Program. Derzeit wohnt er in Pinecrest Gardens. Das ewige Eis hat er bei einem Besuch in Grönland vor zehn Jahren noch selbst erlebt. Von der Zusammenarbeit mit der Gemeinde Pinecrest erhofft er sich die Schärfung des Bewusstseins innerhalb der Bevölkerung. Außerdem möchte er mit seinem Kunstprojekt "Underwater HOA" andere bei der Vorbereitung auf das Unvermeidliche unterstützen.
 
 ## 6.000 Haushalte bekommen Wasserstandsmarkierungen
 
-Ab Sonntag, 2. Dezember 2018 sowie während der "Art Basel Miami Beach", die
-vom 3. bis 9. Dezember stattfindet, möchte Cortada zusammen mit dem Ort
-Pinecrest 6.000 Haushalte dazu ermutigen, sich seiner neu gegründeten
-"Underwater Homeonwner Association", zu deutsch "Vereinigung der
-Unterwasser-Hausbesitzer", anzuschließen. Sie sollen Wasserstandsmarkierungen,
-die der Umweltkünstler höchstpersönlich entworfen hat, an ihren Hauswänden
-anbringen. Die Markierungen reichen von 0 bis 5,2 Metern. Das entspricht dem
-Höhenunterschied der Häuser. Damit soll sichtbar gemacht werden, wie wenig noch
-nötig ist, bis die Grundstücke komplett unter Wasser gesetzt sind. Geplant ist
-die Zusammenarbeit mit den Schülern einer örtlichen Highschool. Sie sollen
-Markierungen auf den vier großen Kreuzungen der Gemeinde anbringen. Hinzu kommen
-Markierungen auf dem Kilian Drive, der die Hauptverkehrsader in Pinecrest ist.
+Ab Sonntag, 2. Dezember 2018 sowie während der "Art Basel Miami Beach", die vom 3. bis 9. Dezember stattfindet, möchte Cortada zusammen mit dem Ort Pinecrest 6.000 Haushalte dazu ermutigen, sich seiner neu gegründeten "Underwater Homeonwner Association", zu deutsch "Vereinigung der Unterwasser-Hausbesitzer", anzuschließen. Sie sollen Wasserstandsmarkierungen, die der Umweltkünstler höchstpersönlich entworfen hat, an ihren Hauswänden anbringen. Die Markierungen reichen von 0 bis 5,2 Metern. Das entspricht dem Höhenunterschied der Häuser. Damit soll sichtbar gemacht werden, wie wenig noch nötig ist, bis die Grundstücke komplett unter Wasser gesetzt sind. Geplant ist die Zusammenarbeit mit den Schülern einer örtlichen Highschool. Sie sollen Markierungen auf den vier großen Kreuzungen der Gemeinde anbringen. Hinzu kommen Markierungen auf dem Kilian Drive, der die Hauptverkehrsader in Pinecrest ist.
 
-Neben Cortada und der Gemeinde Pinecrest sind auch das "Abess Center for
-Ecosystem Science and Policy" der Universität Miami und das "Sea Level Solutions
-Centre" der Florida International University sowie die "Eyes on the Rise" App
-Partner des Projekts. Sponsor ist der amerikanische Marktführer in Sachen
-erneuerbare Energien "Ygrene".
+Neben Cortada und der Gemeinde Pinecrest sind auch das "Abess Center for Ecosystem Science and Policy" der Universität Miami und das "Sea Level Solutions Centre" der Florida International University sowie die "Eyes on the Rise" App Partner des Projekts. Sponsor ist der amerikanische Marktführer in Sachen erneuerbare Energien "Ygrene".
 
-"Indem ich die uns bevorstehende Krise kartiere und markiere, mache ich das
-Unsichtbare sichtbar.", sagt Cortada. "Block für Block, Haus für Haus, Nachbar
-für Nachbar. Ich möchte zeigen, dass wir die zukünftigen Auswirkungen des
-Meeresspiegel-Anstieges nicht ignorieren dürfen. Indem ich die Menschen dazu
-einlade, der neu gegründeten Gruppe "Underwater HOA" beizutreten, hoffe ich, sie
-für die Sache zu gewinnen. Indem sie jetzt lernen, was uns bevorsteht, werden
-sie zu Problemlösern und können dabei helfen, zukünftige Generationen auf das
-kommende Chaos vorzubereiten."
+"Indem ich die uns bevorstehende Krise kartiere und markiere, mache ich das Unsichtbare sichtbar.", sagt Cortada. "Block für Block, Haus für Haus, Nachbar für Nachbar. Ich möchte zeigen, dass wir die zukünftigen Auswirkungen des Meeresspiegel-Anstieges nicht ignorieren dürfen. Indem ich die Menschen dazu einlade, der neu gegründeten Gruppe "Underwater HOA" beizutreten, hoffe ich, sie für die Sache zu gewinnen. Indem sie jetzt lernen, was uns bevorsteht, werden sie zu Problemlösern und können dabei helfen, zukünftige Generationen auf das kommende Chaos vorzubereiten."
 
 ## Xavier Cortada stellt "Underwater HOA vor
 
-Darüber hinaus wird der Aktionskünstler 60 bisher unbetitelte Gemälde
-vorstellen. Die Ausstellung "Antarctic Ice Paintings: Global Coastlines and
-Underwater HOA" wird vom 8. November 2018 bis einschließlich 13. Januar 2019 in
-der Hibiscus Gallery in Pinecrest Gardens gezeigt. Die Bilder zeigen 60 weitere
-Küstengemeinden, die akut vom Anstieg des Meeresspiegels bedroht sind. Unter
-ihnen sind Shanghai, Barcelona und Buenos Aires.
+Darüber hinaus wird der Aktionskünstler 60 bisher unbetitelte Gemälde vorstellen. Die Ausstellung "Antarctic Ice Paintings: Global Coastlines and Underwater HOA" wird vom 8. November 2018 bis einschließlich 13. Januar 2019 in der Hibiscus Gallery in Pinecrest Gardens gezeigt. Die Bilder zeigen 60 weitere Küstengemeinden, die akut vom Anstieg des Meeresspiegels bedroht sind. Unter ihnen sind Shanghai, Barcelona und Buenos Aires.
 
-Seit seiner ersten Reise auf den Kontinent mit der National Science Foundation
-im Jahr 2006 lässt Cortada die Antarktis nicht mehr los. Dort entstanden unter
-anderem einige seiner Werke mit dem Titel "Antarctic Ice Paintings", die bereits
-im "American Arts Journal" des Smithonian vorgestellt wurden. Als Werkstoffe
-verwendete er dabei unter anderem Gletschereis und Sedimentproben.
+Seit seiner ersten Reise auf den Kontinent mit der National Science Foundation im Jahr 2006 lässt Cortada die Antarktis nicht mehr los. Dort entstanden unter anderem einige seiner Werke mit dem Titel "Antarctic Ice Paintings", die bereits im "American Arts Journal" des Smithonian vorgestellt wurden. Als Werkstoffe verwendete er dabei unter anderem Gletschereis und Sedimentproben.
 
-"Von den Wissenschaftlern habe ich gelernt, dass genau das Eis, das ich für
-meine Arbeiten genutzt habe, droht, meine Stadt im Meer zu versenken.",
-berichtet er. "Die Antarktis wird an jede Küstenlinie der Welt vordringen. Statt
-unsere Köpfe in den Sand zu stecken, sollten wir lieber versuchen
-herauszufinden, wie wir gemeinsam etwas gegen den Klimawandel tun können."
+"Von den Wissenschaftlern habe ich gelernt, dass genau das Eis, das ich für meine Arbeiten genutzt habe, droht, meine Stadt im Meer zu versenken.", berichtet er. "Die Antarktis wird an jede Küstenlinie der Welt vordringen. Statt unsere Köpfe in den Sand zu stecken, sollten wir lieber versuchen herauszufinden, wie wir gemeinsam etwas gegen den Klimawandel tun können."
 
 ## Die Anwohner treffen auf den Künstler
 
-Das erste Underwater HOA Meeting ist für Mittwoch, 9. Januar 2019 angesetzt. Die
-Anwohner haben die Möglichkeit, Xavier Cortada zu treffen und ihre
-Wasserstands-Markierungen von ihm signieren zu lassen. Während der Sitzung
-sollen außerdem Verantwortliche gewählt und die Satzung der Organisation
-beschlossen werden. Jedem Haushalt wird außerdem ein Lichtbildausweis sowie ein
-Höhennachweis ausgehändigt.
+Das erste Underwater HOA Meeting ist für Mittwoch, 9. Januar 2019 angesetzt. Die Anwohner haben die Möglichkeit, Xavier Cortada zu treffen und ihre Wasserstands-Markierungen von ihm signieren zu lassen. Während der Sitzung sollen außerdem Verantwortliche gewählt und die Satzung der Organisation beschlossen werden. Jedem Haushalt wird außerdem ein Lichtbildausweis sowie ein Höhennachweis ausgehändigt.
 
-"Der Klimawandel wird die Zukunft von Pinecrest und ganz Südflorida
-beeinflussen.", sagt Joseph M. Corradino, Bürgermeister von Pinecrest. "Mit
-seinem außergewöhnlichen Engagement macht Xavier eine mutige Aussage. Den
-Menschen wird dadurch bewusster werden, was der Anstieg des Meeresspiegels
-wirklich bedeutet. Das wird die Gemeinschaft auf wirkungsvolle Weise
-zusammenbringen. Die Gemeinde Pinecrest ist sehr stolz darauf, an diesem
-öffentlichen Kunstprojekt mitwirken zu dürfen. Wir haben den Start des Projekts
-bewusst um unsere Art Basel herum geplant. Wenn der Fokus der Kunstwelt auf
-Miami liegt, werden wir gemeinsam auf dieses wichtige Thema aufmerksam machen"
+"Der Klimawandel wird die Zukunft von Pinecrest und ganz Südflorida beeinflussen.", sagt Joseph M. Corradino, Bürgermeister von Pinecrest. "Mit seinem außergewöhnlichen Engagement macht Xavier eine mutige Aussage. Den Menschen wird dadurch bewusster werden, was der Anstieg des Meeresspiegels wirklich bedeutet. Das wird die Gemeinschaft auf wirkungsvolle Weise zusammenbringen. Die Gemeinde Pinecrest ist sehr stolz darauf, an diesem öffentlichen Kunstprojekt mitwirken zu dürfen. Wir haben den Start des Projekts bewusst um unsere Art Basel herum geplant. Wenn der Fokus der Kunstwelt auf Miami liegt, werden wir gemeinsam auf dieses wichtige Thema aufmerksam machen"
 
 ## Über den Künstler Xavier Cortada
 
-Xavier Cortadas Atelier befindet sich inmitten der Pinecrest Gardens. Er lebt
-dort als Artist-in-Residence. Von dort aus plant er seine Kunstprojekte und
-leitet die Hibiscus Gallery. Er ist einer von 12 Künstlern, die erst vor kurzem
-in der New York Times zum Thema Klimawandel vorgestellt wurden.
+Xavier Cortadas Atelier befindet sich inmitten der Pinecrest Gardens. Er lebt dort als Artist-in-Residence. Von dort aus plant er seine Kunstprojekte und leitet die Hibiscus Gallery. Er ist einer von 12 Künstlern, die erst vor kurzem in der New York Times zum Thema Klimawandel vorgestellt wurden.
 
-Bei der Erschaffung seiner Kunstwerke arbeitet er mit zahlreichen
-Wissenschaftlern und Gruppen auf der ganzen Welt zusammen. Zu seinen Werken
-zählen unter anderem Umweltinstallationen am Nord- und Südpol, Friedensmalereien
-auf Zypern und in Nordirland, Kindermalereien in Bolivien und Panama,
-AIDS-Projekte in der Schweiz und in Südafrika sowie Öko-Kunstwerke in Thaiwan
-und Holland.
+Bei der Erschaffung seiner Kunstwerke arbeitet er mit zahlreichen Wissenschaftlern und Gruppen auf der ganzen Welt zusammen. Zu seinen Werken zählen unter anderem Umweltinstallationen am Nord- und Südpol, Friedensmalereien auf Zypern und in Nordirland, Kindermalereien in Bolivien und Panama, AIDS-Projekte in der Schweiz und in Südafrika sowie Öko-Kunstwerke in Thaiwan und Holland.
 
-Er schafft Kunstwerke für das CERN, das Weiße Haus, die Weltbank, den Obersten
-Gerichtshof Floridas, das Herrenhaus des Gouverneurs von Florida, das Museum of
-Florida History, den Botanischen Garten von Florida, die Miami City Hall, das
-Frost Science Museum, die Miami-Dade Country Hall, Port Everglades und den
-Florida Turnpike. Seine Werke befinden sich unter anderem in den Sammlungen des
-Perez Art Museum Miami (PAMM), das Whatcom Museum und das Patricia &amp; Philip
-Frost Art Museum. Darüber hinaus wurde Cortadas Kunst bereits im National
-Geographic TV und im Discovery Channel gezeigt.
+Er schafft Kunstwerke für das CERN, das Weiße Haus, die Weltbank, den Obersten Gerichtshof Floridas, das Herrenhaus des Gouverneurs von Florida, das Museum of Florida History, den Botanischen Garten von Florida, die Miami City Hall, das Frost Science Museum, die Miami-Dade Country Hall, Port Everglades und den Florida Turnpike. Seine Werke befinden sich unter anderem in den Sammlungen des Perez Art Museum Miami (PAMM), das Whatcom Museum und das Patricia &amp; Philip Frost Art Museum. Darüber hinaus wurde Cortadas Kunst bereits im National Geographic TV und im Discovery Channel gezeigt.
 
-Mehr über das Projekt "Underwater HOA" erfahrt Ihr unter
-[www.underwaterhoa.com](http://www.underwaterhoa.com.). Ich bedanke mich bei
-Rachel Pinzur für die Übersendung der Pressemitteilung.
+Mehr über das Projekt "Underwater HOA" erfahrt Ihr unter [www.underwaterhoa.com](http://www.underwaterhoa.com.). Ich bedanke mich bei Rachel Pinzur für die Übersendung der Pressemitteilung.
 
-<RemoteImage alt={`Underwater HOA`} size="full" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_ShowImage.jpeg__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_ShowImage.jpeg__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAGQAAAQUAAAAAAAAAAAAAAAAABgECAwQF/8QAJhAAAgIBAwMDBQAAAAAAAAAAAQIDBBEABSESMUETFHFhgZHR8f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAfEQABAwQDAQAAAAAAAAAAAAABAAIDERIhYQQiUfD/2gAMAwEAAhEDEQA/AA3cdlvRyO0Flvb89DsDn69v7pae47rXqQwNQrWukHMjxoS/nkkZ1rPuc0TzrGkIjUkFSgbq+SefwdPs2vR9IwQwoZF6icFsfAYkarvmxkLDMnH7EAin3qEt03qaWJ61ijFWeQqetVCtwfBx57aqJFZZleIylcjnv+tGkkkdum8turXmaI8B1OD9s41DVWvYspFYpVHVsYIiCFfgrjRtlkAOkp1jnNoTnQX/2Q=="
+<RemoteImage
+  alt={`Underwater HOA`}
+  size="full"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_ShowImage.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_ShowImage.jpeg__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAGQAAAQUAAAAAAAAAAAAAAAAABgECAwQF/8QAJhAAAgIBAwMDBQAAAAAAAAAAAQIDBBEABSESMUETFHFhgZHR8f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAfEQABAwQDAQAAAAAAAAAAAAABAAIDERIhYQQiUfD/2gAMAwEAAhEDEQA/AA3cdlvRyO0Flvb89DsDn69v7pae47rXqQwNQrWukHMjxoS/nkkZ1rPuc0TzrGkIjUkFSgbq+SefwdPs2vR9IwQwoZF6icFsfAYkarvmxkLDMnH7EAin3qEt03qaWJ61ijFWeQqetVCtwfBx57aqJFZZleIylcjnv+tGkkkdum8turXmaI8B1OD9s41DVWvYspFYpVHVsYIiCFfgrjRtlkAOkp1jnNoTnQX/2Q=="
 />
 
 **Bilder / Pictures:** Underwater HOA
-
-  

@@ -7,11 +7,8 @@ typeName: Artikel
 title: Gegensätze ziehen sich an
 seoTitle: Gegensätze ziehen sich an - Kontraste im Hamburger Stadtpark
 ogTitle: Gegensätze ziehen sich an - Kontraste im Hamburger Stadtpark
-description: "Bei einem kleinen Spaziergang durch den Hamburger Stadtpark ist
-  mir mal wieder aufgefallen: Gegensätze ziehen sich an. Schöne Kontraste,
-  oder?"
-excerpt: "Bei einem kleinen Spaziergang durch den Hamburger Stadtpark ist mir
-  mal wieder aufgefallen: Gegensätze ziehen sich an. Schöne Kontraste, oder?"
+description: 'Bei einem kleinen Spaziergang durch den Hamburger Stadtpark ist mir mal wieder aufgefallen: Gegensätze ziehen sich an. Schöne Kontraste, oder?'
+excerpt: 'Bei einem kleinen Spaziergang durch den Hamburger Stadtpark ist mir mal wieder aufgefallen: Gegensätze ziehen sich an. Schöne Kontraste, oder?'
 fileName: 2016-05---gegensaetze-ziehen-sich-an.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26757799732_9e5dca204f_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26757799732_9e5dca204f_z__l.jpg
@@ -29,14 +26,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Schnappschüsse aus dem Hamburger Stadtpark
-  
 ---
 
 <Gallery name="flickr/annekontrastestadtpark" />
 
-[Bei Planten un Blomen](/2016/05/1-mai-bei-planten-un-blomen/) am ersten Mai
-habe ich auch ein paar tolle Aufnahmen gemacht.
+[Bei Planten un Blomen](/2016/05/1-mai-bei-planten-un-blomen/) am ersten Mai habe ich auch ein paar tolle Aufnahmen gemacht.
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
-
-  

@@ -7,10 +7,8 @@ typeName: Artikel
 title: Virtueller Klimastreik am 24. April
 seoTitle: Virtueller Klimastreik am 24. April - Fridays For Future
 ogTitle: Virtueller Klimastreik am 24. April - Fridays For Future
-description: Auch in Zeiten von Corona schläft Fridays for future nicht. Am 24.
-  April ab 12 Uhr mittags findet der erste virtuelle globale Klimastreik statt.
-excerpt: Auch in Zeiten von Corona schläft Fridays for future nicht. Am 24.
-  April ab 12 Uhr mittags findet der erste virtuelle globale Klimastreik statt.
+description: Auch in Zeiten von Corona schläft Fridays for future nicht. Am 24. April ab 12 Uhr mittags findet der erste virtuelle globale Klimastreik statt.
+excerpt: Auch in Zeiten von Corona schläft Fridays for future nicht. Am 24. April ab 12 Uhr mittags findet der erste virtuelle globale Klimastreik statt.
 fileName: 2020-04---virtueller-klimastreik-am-24-april.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Virtueller-Klimastreik-am-24.-April__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Virtueller-Klimastreik-am-24.-April__l.jpg
@@ -29,41 +27,25 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Fridays For Future goes Livestream
-  
 ---
 
-**Fridays For Future schläft auch in Zeiten von Corona nicht. Am 24. April ab 12
-Uhr mittags findet der erste virtuelle globale Klimastreik statt.**
+**Fridays For Future schläft auch in Zeiten von Corona nicht. Am 24. April ab 12 Uhr mittags findet der erste virtuelle globale Klimastreik statt.**
 
-Wir alle müssen Abstand halten. Weil der Schutz der Gesundheit, die
-Verlangsamung der Ansteckungen und der Kampf gegen das Virus im Moment oberstes
-Gebot sind, können derzeit auch keine Demonstrationen stattfinden.
+Wir alle müssen Abstand halten. Weil der Schutz der Gesundheit, die Verlangsamung der Ansteckungen und der Kampf gegen das Virus im Moment oberstes Gebot sind, können derzeit auch keine Demonstrationen stattfinden.
 
-Aus diesem Grund findet unter dem bekannten Motto am Freitag, den 24. April 2020
-ab 12:00 ein Livestream mit vielen Redner⋆innen und Künstler⋆innen statt.
+Aus diesem Grund findet unter dem bekannten Motto am Freitag, den 24. April 2020 ab 12:00 ein Livestream mit vielen Redner⋆innen und Künstler⋆innen statt.
 
 ## Fridays For Future live online
 
-Die Veranstalter⋆innen rufen die Teilnehmer⋆innen dazu auf, ein Demoschild
-vorzubereiten und es am Balkon oder am Fenster anzubringen, damit möglichst
-viele dabei sind, wenn es heißt:
-[Fridays For Future](/2019/09/allefuersklima-hamburg/) goes Livestream. Auf
-einer Klimastreikkarte kann man sich vorab zur Demo anmelden und seine
-Solidarität zeigen. [<sup>1</sup>](#1)
+Die Veranstalter⋆innen rufen die Teilnehmer⋆innen dazu auf, ein Demoschild vorzubereiten und es am Balkon oder am Fenster anzubringen, damit möglichst viele dabei sind, wenn es heißt: [Fridays For Future](/2019/09/allefuersklima-hamburg/) goes Livestream. Auf einer Klimastreikkarte kann man sich vorab zur Demo anmelden und seine Solidarität zeigen. [<sup>1</sup>](#1)
 
-Politiker⋆innen können ab sofort nicht mehr in ihren Reden erzählen, die
-Corona-Krise sei doch eine willkommene Ausrede für die Bewegung. Auch in
-schwierigen Zeiten wird weiter mobil gemacht und für den Klimaschutz gekämpft.
+Politiker⋆innen können ab sofort nicht mehr in ihren Reden erzählen, die Corona-Krise sei doch eine willkommene Ausrede für die Bewegung. Auch in schwierigen Zeiten wird weiter mobil gemacht und für den Klimaschutz gekämpft.
 
-Es ist [Zeit, dass sich was ändert](/2020/04/inger-andersen-un-covid-19/) ! Seid
-auch Ihr dabei! Der Livestream geht am 24. April um Punkt 12:00 los. Wir sehen
-uns! Zum Livestream geht es hier entlang:
+Es ist [Zeit, dass sich was ändert](/2020/04/inger-andersen-un-covid-19/) ! Seid auch Ihr dabei! Der Livestream geht am 24. April um Punkt 12:00 los. Wir sehen uns! Zum Livestream geht es hier entlang:
 
- <YouTube id="9EUVRPSWJsk" />
+{' '}
+<YouTube id="9EUVRPSWJsk" />
 
 <div class="footnotes">
-### Fußnoten
--  [1]  [Klimastreikkarte](https://www.klima-streik.org/)
+  ### Fußnoten - [1] [Klimastreikkarte](https://www.klima-streik.org/)
 </div>
-
-  

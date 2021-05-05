@@ -7,12 +7,8 @@ typeName: Rezept
 title: Erbsensuppe wie bei Oma
 seoTitle: Erbsensuppe wie bei Oma - Grünes Protein für alle
 ogTitle: Erbsensuppe wie bei Oma - Grünes Protein für alle
-description: Meine Erbsensuppe hat bei Instagram voll abgeräumt. Deshalb
-  präsentiere ich Euch heute das Rezept. Die Suppe ist lecker, Kalorien-arm und
-  reich an Protein.
-excerpt: Meine Erbsensuppe hat bei Instagram voll abgeräumt. Deshalb präsentiere
-  ich Euch heute das Rezept. Die Suppe ist lecker, Kalorien-arm und reich an
-  Protein.
+description: Meine Erbsensuppe hat bei Instagram voll abgeräumt. Deshalb präsentiere ich Euch heute das Rezept. Die Suppe ist lecker, Kalorien-arm und reich an Protein.
+excerpt: Meine Erbsensuppe hat bei Instagram voll abgeräumt. Deshalb präsentiere ich Euch heute das Rezept. Die Suppe ist lecker, Kalorien-arm und reich an Protein.
 fileName: 2017-04---erbsensuppe-wie-bei-oma.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33985853262_4637f5bfe8_b__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33985853262_4637f5bfe8_b__l.jpg
@@ -50,17 +46,11 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Grünes Protein für alle
-  
 ---
 
-**Ich will nicht angeben, aber: Meine Erbsensuppe hat bei Instagram voll
-abgeräumt. Ich habe gleich ein paar Nachrichten mit der Frage nach dem Rezept
-bekommen. Hiermit verrate ich es Euch.**
+**Ich will nicht angeben, aber: Meine Erbsensuppe hat bei Instagram voll abgeräumt. Ich habe gleich ein paar Nachrichten mit der Frage nach dem Rezept bekommen. Hiermit verrate ich es Euch.**
 
-Es ist echt ganz einfach, Ihr müsst nur ein kleines Bisschen Geduld haben, denn
-die Erbsen brauchen etwas Vorbereitungszeit. Ihr werdet aber auf jeden Fall für
-Euer Warten belohnt werden. Ein leckeres, kalorienarmes, extrem Protein-haltiges
-Gericht wartet auf Euch.
+Es ist echt ganz einfach, Ihr müsst nur ein kleines Bisschen Geduld haben, denn die Erbsen brauchen etwas Vorbereitungszeit. Ihr werdet aber auf jeden Fall für Euer Warten belohnt werden. Ein leckeres, kalorienarmes, extrem Protein-haltiges Gericht wartet auf Euch.
 
 ## Zutaten (für 5 - 6 Teller)
 
@@ -75,43 +65,37 @@ Gericht wartet auf Euch.
 
 ## Zubereitung
 
-Als Erstes müsst Ihr die Erbsen in rund zwei Litern Wasser einweichen. Das könnt
-Ihr über Nacht machen, wenn es ein Mittagessen werden soll, oder über den Tag,
-wenn Ihr die Suppe lieber abends genießen wollt. Gebt einen guten Schuss Essig
-hinzu.
+Als Erstes müsst Ihr die Erbsen in rund zwei Litern Wasser einweichen. Das könnt Ihr über Nacht machen, wenn es ein Mittagessen werden soll, oder über den Tag, wenn Ihr die Suppe lieber abends genießen wollt. Gebt einen guten Schuss Essig hinzu.
 
-Wenn es an die Zubereitung geht, röstet Ihr zunächst die Zwiebeln zusammen mit
-der Chilischote in einem großen Suppentopf an. Es reicht, wenn Ihr die Zwiebeln
-vorher in grobe Stücke schneidet. Würzt ordentlich mit Pfeffer. Wenn alles schön
-angebraten sind, löscht ihr großzügig mit Sojasauce ab und gebt noch mal einen
-kleinen Schuss (ca. 2 EL) Essig hinzu. Schüttet nun die Erbsen zusammen mit dem
-Wasser, das sie nicht aufgesaugt haben, mit in den Topf und lasst alles unter
-einem Deckel gut 30 Minuten köcheln. Die Einweich-Schüssel könnt Ihr gleich noch
-mal gebrauchen.
+Wenn es an die Zubereitung geht, röstet Ihr zunächst die Zwiebeln zusammen mit der Chilischote in einem großen Suppentopf an. Es reicht, wenn Ihr die Zwiebeln vorher in grobe Stücke schneidet. Würzt ordentlich mit Pfeffer. Wenn alles schön angebraten sind, löscht ihr großzügig mit Sojasauce ab und gebt noch mal einen kleinen Schuss (ca. 2 EL) Essig hinzu. Schüttet nun die Erbsen zusammen mit dem Wasser, das sie nicht aufgesaugt haben, mit in den Topf und lasst alles unter einem Deckel gut 30 Minuten köcheln. Die Einweich-Schüssel könnt Ihr gleich noch mal gebrauchen.
 
 ## Erbsensuppe - Mit Liebe zubereitet
 
-Nach Ablauf der halben Stunde schöpft Ihr je nachdem, wie viel Einlage Ihr
-nachher in der Suppe haben wollt, ein bis zwei Schöpflöffel Erbsen aus der Suppe
-ab und hebt sie in der Schüssel auf. Püriert jetzt alles, was noch im Topf ist,
-mit dem Mixstab durch, bis eine schöne, glatte Suppe entstanden ist. Wenn Ihr
-wollt, könnt Ihr noch Soja- oder Hafer-Cuisine hinzugeben. Das ist aber nicht
-zwingend notwendig und dient nur dem Geschmack.
+Nach Ablauf der halben Stunde schöpft Ihr je nachdem, wie viel Einlage Ihr nachher in der Suppe haben wollt, ein bis zwei Schöpflöffel Erbsen aus der Suppe ab und hebt sie in der Schüssel auf. Püriert jetzt alles, was noch im Topf ist, mit dem Mixstab durch, bis eine schöne, glatte Suppe entstanden ist. Wenn Ihr wollt, könnt Ihr noch Soja- oder Hafer-Cuisine hinzugeben. Das ist aber nicht zwingend notwendig und dient nur dem Geschmack.
 
-Anschließend gebt Ihr die abgeschöpften Erbsen wieder hinzu und lasst die Suppe
-weiter köcheln, bis sie schön weich sind. Achtung, das kann ziemlich schnell
-gehen. Macht am besten immer mal wieder eine Geschmacksprobe. Zum Schluss
-schmeckt Ihr die Suppe noch mit Sojasauce ab. Garniert sie vor dem Servieren mit
-ein paar geschroteten Leinsamen. Die sorgen nicht nur für einen zusätzlichen
-Twist, sondern enthalten auch noch wertvolle Omega-3-Fettsäuren. Perfekt passt
-dazu übrigens ein
-[selbst gemachtes Sesambrot](/2017/04/sesambrot-kichererbsenmehl/) und ein
-schöner Apfelwein oder Cider.
+Anschließend gebt Ihr die abgeschöpften Erbsen wieder hinzu und lasst die Suppe weiter köcheln, bis sie schön weich sind. Achtung, das kann ziemlich schnell gehen. Macht am besten immer mal wieder eine Geschmacksprobe. Zum Schluss schmeckt Ihr die Suppe noch mit Sojasauce ab. Garniert sie vor dem Servieren mit ein paar geschroteten Leinsamen. Die sorgen nicht nur für einen zusätzlichen Twist, sondern enthalten auch noch wertvolle Omega-3-Fettsäuren. Perfekt passt dazu übrigens ein [selbst gemachtes Sesambrot](/2017/04/sesambrot-kichererbsenmehl/) und ein schöner Apfelwein oder Cider.
 
 Guten Appetit! &lt;3
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_33985853262_4637f5bfe8_b__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_33985853262_4637f5bfe8_b__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_34116109675_52a2bda588_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_34116109675_52a2bda588_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_34177901995_1ca6301d48_b__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_34177901995_1ca6301d48_b__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2017_04_33985853262_4637f5bfe8_b__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2017_04_33985853262_4637f5bfe8_b__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2017_04_34116109675_52a2bda588_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2017_04_34116109675_52a2bda588_z__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2017_04_34177901995_1ca6301d48_b__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2017_04_34177901995_1ca6301d48_b__l.jpg',
+    },
+  ]}
 />
-
-  

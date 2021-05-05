@@ -7,12 +7,8 @@ typeName: Galerie
 title: Kater auf Balkonien
 seoTitle: Kater auf Balkoninen - Fotogalerie vom Stadtbalkon
 ogTitle: Kater auf Balkoninen - Fotogalerie vom Stadtbalkon
-description: Es muss nicht immer ein Ausflug sein an einem freien Tag. Gesten
-  habe ich zum Beispiel ein paar schöne Stunden mit Kater Chili auf dem Balkon
-  verbracht.
-excerpt: Es muss nicht immer ein Ausflug sein an einem freien Tag. Gesten habe
-  ich zum Beispiel ein paar schöne Stunden mit Kater Chili auf dem Balkon
-  verbracht.
+description: Es muss nicht immer ein Ausflug sein an einem freien Tag. Gesten habe ich zum Beispiel ein paar schöne Stunden mit Kater Chili auf dem Balkon verbracht.
+excerpt: Es muss nicht immer ein Ausflug sein an einem freien Tag. Gesten habe ich zum Beispiel ein paar schöne Stunden mit Kater Chili auf dem Balkon verbracht.
 fileName: 2018-06---kater-auf-balkonien.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_42479724622_9766df5d52_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_42479724622_9766df5d52_z__l.jpg
@@ -36,13 +32,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Fotogalerie vom Balkon
-  
 ---
 
-**Es muss nicht immer ein Ausflug sein, wenn man einen freien Tag hat. Gestern
-habe ich zum Beispiel ein paar schöne Stunden mit Kater Chili auf dem Balkon
-verbracht.**
+**Es muss nicht immer ein Ausflug sein, wenn man einen freien Tag hat. Gestern habe ich zum Beispiel ein paar schöne Stunden mit Kater Chili auf dem Balkon verbracht.**
 
 <Gallery name="flickr/20180602AnneChiliBalkon" />
-
-  

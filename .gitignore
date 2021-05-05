@@ -10,4 +10,4 @@ yarn-error.log
 *.js
 !/src/wordpress/*.js
 .env
-
+database-debug.log

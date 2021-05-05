@@ -4,11 +4,9 @@ seoTitle: Immer Ärger mit dem Sendemast - Von Warteschleifen und Wutanfällen
 slug: immer-aerger-mit-dem-sendemast
 path: /2012/08/immer-aerger-mit-dem-sendemast/
 fileName: 2012-08---immer-aerger-mit-dem-sendemast.md
-description: ""
-excerpt: Heute lasse ich Euch mal an meinem Alltagsfrust teilnehmen. Ihr dürft
-  eine höchstprivate, topaktuelle E-Mail lesen, die ich heute an ein paar meiner
-  besten Freundinnen geschickt habe.
-focusKeyword: ""
+description: ''
+excerpt: Heute lasse ich Euch mal an meinem Alltagsfrust teilnehmen. Ihr dürft eine höchstprivate, topaktuelle E-Mail lesen, die ich heute an ein paar meiner besten Freundinnen geschickt habe.
+focusKeyword: ''
 labels:
   - am Rande des Nervenzusammenbruchs
   - Ärger
@@ -58,13 +56,12 @@ isWerbung: false
 isAffiliate: false
 errors:
   outsideImage: article has at least one image from another domain
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <MDXLayout> (57:0)"
-thumbnailId: "5020"
+  invalidMdx: 'unknown: Expected corresponding JSX closing tag for <MDXLayout> (57:0)'
+thumbnailId: '5020'
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_gemaltes-phone__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_03_gemaltes-phone__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAT/xAAwEAABAwMCBAMHBQEAAAAAAAABAgMEBQYRACEHEhMxFEFxIlFhYoGRoQgVQ1Nzsf/EABkBAAIDAQAAAAAAAAAAAAAAAAMFAAECBP/EACQRAAIBBAECBwAAAAAAAAAAAAECAAMEESEFMUESEyJRgZHx/9oADAMBAAIRAxEAPwDStYq9OosNUqrzo0KMP5H3Agegz3PwGp7O46WNGcKW58mUM452IyuU+hVjOgHHGHEm3vQBMfbeQ1DeV4JRIGSse2r5SAdvkPlonXLYtyHbDEr9waMohHhA30+RTm2EoQBkDfuDkd9AZ3JIXtG9G2tlRGrEkt2+YVpHGazam6ltqc40T/akf8BJ/GnqmVSDVGS7T5TMlA79NWSn1HcfXWSOLlPjsx0oce6vO6A2cAuBaQFH2vMDmH3GgVn12vyK1QKdQZkhp7xTaY5iAc+Csc25BynGSQrKcA5GsLWbOxOy44qgFLI2NZ9/z7hG/LuVV76qtSOcplLaYUUhaOkglCRg+WBn1J9+uu0rhorcvmqD8aluHOZEeIVLIIIICt+TIJB2IOd860XXuE1k1t51+XQY7UhwlSnYi1x1EnuTyEAn1GlKZ+ni1XAoxKjW4qz2w824kfRSM/nU8hs5BlLy9EqFZOgwNCQe9K2irV5T1HSrwEM9KKpQJJHmo53KlqJPv7adLEdv+37YuCTTLWVFmvMpAempWE9EBWeRpKc9TJzuQAMbHfVp4f8ACi37OdEpvrVGopJKJMwJJa/zSAEpPx3PxxtqhZPvP30WnT8PWLr29Ff0oNT/2Q==
 subTitle: Von Warteschleifen und Wutanfällen
-  
 ---
 
 ## unknown: Expected corresponding JSX closing tag for &lt;MDXLayout> (57:0)
@@ -170,5 +167,3 @@ durch!
 [_ **Weiterlesen...** _](/2012/10/immer-arger-mit-dem-sendemast-2/)
 
 -->
-
-  

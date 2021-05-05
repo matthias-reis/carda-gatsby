@@ -7,12 +7,8 @@ typeName: Artikel
 title: Umzug zu Wordpress
 seoTitle: Mein Blog zieht um zu Wordpress - Tagebucheintrag
 ogTitle: Mein Blog zieht um zu Wordpress - Tagebucheintrag
-description: Ich möchte nicht alles auf meiner Festplatte speichern, und ich
-  würde mich auch freuen würde, wenn Sie ab und an der Ein oder Andere liest.
-  Der Umzug beginnt heute und ich bin gespannt.
-excerpt: Ich möchte nicht alles auf meiner Festplatte speichern, und ich würde
-  mich auch freuen würde, wenn Sie ab und an der Ein oder Andere liest. Der
-  Umzug beginnt heute und ich bin gespannt.
+description: Ich möchte nicht alles auf meiner Festplatte speichern, und ich würde mich auch freuen würde, wenn Sie ab und an der Ein oder Andere liest. Der Umzug beginnt heute und ich bin gespannt.
+excerpt: Ich möchte nicht alles auf meiner Festplatte speichern, und ich würde mich auch freuen würde, wenn Sie ab und an der Ein oder Andere liest. Der Umzug beginnt heute und ich bin gespannt.
 fileName: 2011-02---umzug-zu-wordpress.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_02_img_4857__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_02_img_4857__l.jpg
@@ -29,18 +25,9 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: <img class="alignright size-medium wp-image-271"
-  src="http://cardamonchai.com/wp-content/uploads/2011/02/img_4857-640x427.jpg"
-  alt="Umzug zu Wordpress" width="300" height="200" />Alte und neue Beiträge
-  
+subTitle: <img class="alignright size-medium wp-image-271" src="http://cardamonchai.com/wp-content/uploads/2011/02/img_4857-640x427.jpg" alt="Umzug zu Wordpress" width="300" height="200" />Alte und neue Beiträge
 ---
 
-Ich habe dieses Weblog schon vor einiger Zeit angelegt und werde es nun endlich
-nutzen. Zuerst möchte ich meine Beiträge, die ich von 2008 bis heute für einen
-kleinen Verlag geschrieben habe, hier veröffentlichen.
+Ich habe dieses Weblog schon vor einiger Zeit angelegt und werde es nun endlich nutzen. Zuerst möchte ich meine Beiträge, die ich von 2008 bis heute für einen kleinen Verlag geschrieben habe, hier veröffentlichen.
 
-Ich möchte nicht alles auf meiner Festplatte speichern, und ich würde mich auch
-freuen würde, wenn Sie ab und an der Ein oder Andere liest. Der Umzug beginnt
-heute und ich bin gespannt, wie viel Zeit er in Anspruch nehmen wird.
-
-  
+Ich möchte nicht alles auf meiner Festplatte speichern, und ich würde mich auch freuen würde, wenn Sie ab und an der Ein oder Andere liest. Der Umzug beginnt heute und ich bin gespannt, wie viel Zeit er in Anspruch nehmen wird.

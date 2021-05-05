@@ -7,12 +7,8 @@ typeName: Rezept
 title: Vegane Erd­nuss­but­ter­schnit­ten
 seoTitle: Vegane Erdnussbutterschnitten – Glutenfreies Rezept
 ogTitle: Vegane Erdnussbutterschnitten – Glutenfreies Rezept
-description: Erdnussbutterschnitten könnt Ihr ganz leicht mit ein paar Zutaten
-  herstellen. Sie sind vegan, glutenfrei und Ihr braucht nicht mal einen Ofen.
-excerpt: Affiliate Links – Habt Ihr gerade ein frisches Glas Erdnussbutter im
-  Haus? Dann habe ich ein tolles Rezept für Euch. Erdnussbutterschnitten könnt
-  Ihr ganz leicht mit ein paar Zutaten herstellen. Sie sind vegan, glutenfrei
-  und Ihr braucht nicht mal einen Ofen.
+description: Erdnussbutterschnitten könnt Ihr ganz leicht mit ein paar Zutaten herstellen. Sie sind vegan, glutenfrei und Ihr braucht nicht mal einen Ofen.
+excerpt: Affiliate Links – Habt Ihr gerade ein frisches Glas Erdnussbutter im Haus? Dann habe ich ein tolles Rezept für Euch. Erdnussbutterschnitten könnt Ihr ganz leicht mit ein paar Zutaten herstellen. Sie sind vegan, glutenfrei und Ihr braucht nicht mal einen Ofen.
 fileName: 2021-04---vegane-erd-nuss-but-ter-schnit-ten.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_erdnussbutterschnitten-direkt-vom-feld__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_erdnussbutterschnitten-direkt-vom-feld__l.jpg
@@ -36,92 +32,59 @@ language: de
 errors:
   outsideImage: article has at least one image that could not be found
 subTitle: Glutenfrei und lecker
-  
 ---
 
 _Affiliate Links_ \*
 
-**Erdnussbutter ist für mich eine ganz besondere Delikatesse. Ich esse wirklich
-selten Süßes, weil ich vermutlich einfach nicht so einen "Sweet Tooth" habe.
-Wenn wir allerdings ein frisches Glas Erdnussbutter im Haus haben, kann ich
-nicht widerstehen.**
+**Erdnussbutter ist für mich eine ganz besondere Delikatesse. Ich esse wirklich selten Süßes, weil ich vermutlich einfach nicht so einen "Sweet Tooth" habe. Wenn wir allerdings ein frisches Glas Erdnussbutter im Haus haben, kann ich nicht widerstehen.**
 
-Neben [leckeren Broten](/tag/brot/) mit Erdnussbutter und Banane könnt Ihr mit
-der Paste noch viele weitere leckere Gerichte zaubern. Sie eignet sich zum
-Beispiel perfekt als Würze für Saucen und als Füllung für Kekse.
+Neben [leckeren Broten](/tag/brot/) mit Erdnussbutter und Banane könnt Ihr mit der Paste noch viele weitere leckere Gerichte zaubern. Sie eignet sich zum Beispiel perfekt als Würze für Saucen und als Füllung für Kekse.
 
-Für Euch habe ich heute ein schönes Rezept auf der Basis von Erdnussbutter
-vorbereitet. Die Schnitten sind sehr schmackhaft, schnell zubereitet und passen
-wirklich zu jeder Gelegenheit. Sie sind selbstverständlich vegan und obendrein
-auch noch glutenfrei. Einen Backofen braucht Ihr für die Herstellung nicht. Ihr
-braucht die Schnitten nur kurz im Kühlschrank ruhen lassen
+Für Euch habe ich heute ein schönes Rezept auf der Basis von Erdnussbutter vorbereitet. Die Schnitten sind sehr schmackhaft, schnell zubereitet und passen wirklich zu jeder Gelegenheit. Sie sind selbstverständlich vegan und obendrein auch noch glutenfrei. Einen Backofen braucht Ihr für die Herstellung nicht. Ihr braucht die Schnitten nur kurz im Kühlschrank ruhen lassen
 
 ## Zutaten erste Lage
 
 - 70g Mandelmehl
 - 6 EL Ahornsirup
 - 3 EL Kakaopulver
-- 1 Prise
-  [Himalaya-Salz](https://t.adcell.com/p/click?promoId=237421&slotId=80259&param0=https%3A%2F%2Fdirektvomfeld.eu%2Fproducts%2Fhimalaya-salz)
-- 1 Prise
-  [Ceylon-Zimt](https://t.adcell.com/p/click?promoId=237421&slotId=80259&param0=https%3A%2F%2Fdirektvomfeld.eu%2Fproducts%2Fceylon-zimt)
+- 1 Prise [Himalaya-Salz](https://t.adcell.com/p/click?promoId=237421&slotId=80259&param0=https%3A%2F%2Fdirektvomfeld.eu%2Fproducts%2Fhimalaya-salz)
+- 1 Prise [Ceylon-Zimt](https://t.adcell.com/p/click?promoId=237421&slotId=80259&param0=https%3A%2F%2Fdirektvomfeld.eu%2Fproducts%2Fceylon-zimt)
 
 ## Zutaten zweite Lage
 
 - 250g Erdnussbutter
 - 60ml Ahornsirup
 - 50g Kokosöl
-- 1 EL
-  [Kakaonibs](https://t.adcell.com/p/click?promoId=237421&slotId=80259&param0=https%3A%2F%2Fdirektvomfeld.eu%2Fproducts%2Fkakaonibs)
-- 1/2
-  [Vanilleschote](https://t.adcell.com/p/click?promoId=237421&slotId=80259&param0=https%3A%2F%2Fdirektvomfeld.eu%2Fproducts%2Fvanilleschoten-bio-madagaskar%3F_pos%3D4%26_sid%3Dfb7086508%26_ss%3Dr)
+- 1 EL [Kakaonibs](https://t.adcell.com/p/click?promoId=237421&slotId=80259&param0=https%3A%2F%2Fdirektvomfeld.eu%2Fproducts%2Fkakaonibs)
+- 1/2 [Vanilleschote](https://t.adcell.com/p/click?promoId=237421&slotId=80259&param0=https%3A%2F%2Fdirektvomfeld.eu%2Fproducts%2Fvanilleschoten-bio-madagaskar%3F_pos%3D4%26_sid%3Dfb7086508%26_ss%3Dr)
 
 ## Zutaten dritte Lage
 
-- 1 Prise
-  [Himalaya-Salz](https://t.adcell.com/p/click?promoId=237421&slotId=80259&param0=https%3A%2F%2Fdirektvomfeld.eu%2Fproducts%2Fhimalaya-salz)
+- 1 Prise [Himalaya-Salz](https://t.adcell.com/p/click?promoId=237421&slotId=80259&param0=https%3A%2F%2Fdirektvomfeld.eu%2Fproducts%2Fhimalaya-salz)
 - 80g Schokolade (Zartbitter)
 - 1 TL Kokosöl
 
 ## Zubereitung
 
-Vermischt alle Zutaten für die erste Schicht. Breitet ein Backpapier auf einem
-Blech aus und drückt den Teig in Form. Lasst ihn dann im Kühlschrank für 30
-Minuten ruhen. Wenn es draußen kalt ist, könnt Ihr das Blech auch auf den Balkon
-stellen.
+Vermischt alle Zutaten für die erste Schicht. Breitet ein Backpapier auf einem Blech aus und drückt den Teig in Form. Lasst ihn dann im Kühlschrank für 30 Minuten ruhen. Wenn es draußen kalt ist, könnt Ihr das Blech auch auf den Balkon stellen.
 
-Kratzt die
-[Vanilleschote](https://t.adcell.com/p/click?promoId=237421&slotId=80259&param0=https%3A%2F%2Fdirektvomfeld.eu%2Fproducts%2Fvanilleschoten-bio-madagaskar%3F_pos%3D4%26_sid%3Dfb7086508%26_ss%3Dr)
-aus und lasst das Kokosöl in einem Wasserbad schmelzen. Vermischt die beiden
-Zutaten mit den restlichen Zutaten. Tragt die Masse auf Eure vorbereiteten
-Riegel auf und legt sie anschließend für zehn Minuten ins Kühlfach.
+Kratzt die [Vanilleschote](https://t.adcell.com/p/click?promoId=237421&slotId=80259&param0=https%3A%2F%2Fdirektvomfeld.eu%2Fproducts%2Fvanilleschoten-bio-madagaskar%3F_pos%3D4%26_sid%3Dfb7086508%26_ss%3Dr) aus und lasst das Kokosöl in einem Wasserbad schmelzen. Vermischt die beiden Zutaten mit den restlichen Zutaten. Tragt die Masse auf Eure vorbereiteten Riegel auf und legt sie anschließend für zehn Minuten ins Kühlfach.
 
-Lasst nun auch die Schokolade in einem Wasserbad zergehen und vermischt sie
-anschließend mit dem Kokosöl. Die Schokocreme bildet jetzt die dritte Schicht.
-Ihr könnt Eure Erdnussbutterschnitten je nach Gusto noch mit einem Hauch
-[Himalaya-Kristallsalz](https://t.adcell.com/p/click?promoId=237421&slotId=80259&param0=https%3A%2F%2Fdirektvomfeld.eu%2Fproducts%2Fhimalaya-salz)
-verzieren, ehe Ihr sie für eine weitere halbe Stunde in den Kühlschrank stellt.
+Lasst nun auch die Schokolade in einem Wasserbad zergehen und vermischt sie anschließend mit dem Kokosöl. Die Schokocreme bildet jetzt die dritte Schicht. Ihr könnt Eure Erdnussbutterschnitten je nach Gusto noch mit einem Hauch [Himalaya-Kristallsalz](https://t.adcell.com/p/click?promoId=237421&slotId=80259&param0=https%3A%2F%2Fdirektvomfeld.eu%2Fproducts%2Fhimalaya-salz) verzieren, ehe Ihr sie für eine weitere halbe Stunde in den Kühlschrank stellt.
 
 ## Rabatt für Zutaten
 
-**Psst:** Für die im Text verlinkten Zutaten erhaltet Ihr als meine Leser⋆innen
-ab einem Bestellwert von 25 Euro einen Rabatt in Höhe von 5 Euro. Das geht ganz
-einfach: Beim Bestellen
-[im Direkt vom Feld Shop](https://t.adcell.com/p/click?promoId=241393&slotId=80259)
-verwendet Ihr einfach den folgenden Gutschein:
+**Psst:** Für die im Text verlinkten Zutaten erhaltet Ihr als meine Leser⋆innen ab einem Bestellwert von 25 Euro einen Rabatt in Höhe von 5 Euro. Das geht ganz einfach: Beim Bestellen [im Direkt vom Feld Shop](https://t.adcell.com/p/click?promoId=241393&slotId=80259) verwendet Ihr einfach den folgenden Gutschein:
 
-<RemoteImage alt={`} size="medium" title={`}
-mediumUrl="https://t.adcell.com/p/view?promoId=241393&amp;slotId=80259"
-largeUrl="https://t.adcell.com/p/view?promoId=241393&amp;slotId=80259"
-loadingUrl="undefined" />
+<RemoteImage
+  alt={`} size="medium" title={`}
+  mediumUrl="https://t.adcell.com/p/view?promoId=241393&amp;slotId=80259"
+  largeUrl="https://t.adcell.com/p/view?promoId=241393&amp;slotId=80259"
+  loadingUrl="undefined"
+/>
 
 [5 € Rabatt ab einem Bestellwert von 25 € (Code: spicegold)](https://t.adcell.com/p/click?promoId=241393&slotId=80259)
 
-_\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+_\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
 
-Bild:
-[Direkt vom Feld](https://t.adcell.com/p/click?promoId=237421&slotId=80259&param0=https%3A%2F%2Fdirektvomfeld.eu%2F)
-
-  
+Bild: [Direkt vom Feld](https://t.adcell.com/p/click?promoId=237421&slotId=80259&param0=https%3A%2F%2Fdirektvomfeld.eu%2F)

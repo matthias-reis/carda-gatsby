@@ -7,10 +7,8 @@ typeName: Gedicht
 title: Frühling...
 seoTitle: Frühling - noch nicht ganz - ein warm-kaltes Gedicht
 ogTitle: Frühling - noch nicht ganz - ein warm-kaltes Gedicht
-description: Richtig warm ist es noch nicht draußen, das stimmt. Der Frühling
-  steht vor der Tür und wartet auf Einlass. Wann wird es soweit sein?
-excerpt: Richtig warm ist es noch nicht draußen, das stimmt. Der Frühling steht
-  vor der Tür und wartet auf Einlass. Wann wird es soweit sein?
+description: Richtig warm ist es noch nicht draußen, das stimmt. Der Frühling steht vor der Tür und wartet auf Einlass. Wann wird es soweit sein?
+excerpt: Richtig warm ist es noch nicht draußen, das stimmt. Der Frühling steht vor der Tür und wartet auf Einlass. Wann wird es soweit sein?
 fileName: 2019-04---fruehling.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-planten-un-blomen-3__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-planten-un-blomen-3__l.jpg
@@ -31,24 +29,18 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: ... noch nicht ganz
-  
 ---
 
-Richtig warm ist es noch nicht draußen, das stimmt. Der Frühling steht vor der
-Tür und wartet auf Einlass.
+Richtig warm ist es noch nicht draußen, das stimmt. Der Frühling steht vor der Tür und wartet auf Einlass.
 
-Die Häuserwände schimmern wie dunkles Gold im Sonnenlicht. Kräftige Farben sind
-im Kommen - auch in der Natur.
+Die Häuserwände schimmern wie dunkles Gold im Sonnenlicht. Kräftige Farben sind im Kommen - auch in der Natur.
 
 Blauer Himmel, Kälte und Frühlingsblumen. Langsam erwärmt die Sonne den Boden.
 
 Tagsüber barfuß, abends dick vermummt. Mit Sonnenbrillen in Richtung Polarluft.
 
-Der warmen Jahreszeit entgegen. Mit hochgezogenen Schultern - die Hände tief in
-den Manteltaschen.
+Der warmen Jahreszeit entgegen. Mit hochgezogenen Schultern - die Hände tief in den Manteltaschen.
 
 <Gallery name="planten-un-blomen-2019-03-31" />
 
 Die Bilder sind am 31. März bei Planten un Blomen in Hamburg entstanden.
-
-  

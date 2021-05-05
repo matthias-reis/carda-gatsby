@@ -7,10 +7,8 @@ typeName: Review
 title: Neue Deftones Single "Ohms"
 seoTitle: Deftones stellen neuen Song "Ohms" vor - gleichnamiges Album in Kürze
 ogTitle: Deftones stellen neuen Song "Ohms" vor - gleichnamiges Album in Kürze
-description: Die Deftones haben ihr neues Album "Ohms" nun offiziell für den 25.
-  September angekündigt. Die erste Vorauskopplung kann schon gehört werden.
-excerpt: Die Deftones haben ihr neues Album "Ohms" nun offiziell für den 25.
-  September angekündigt. Die erste Vorauskopplung kann schon gehört werden.
+description: Die Deftones haben ihr neues Album "Ohms" nun offiziell für den 25. September angekündigt. Die erste Vorauskopplung kann schon gehört werden.
+excerpt: Die Deftones haben ihr neues Album "Ohms" nun offiziell für den 25. September angekündigt. Die erste Vorauskopplung kann schon gehört werden.
 fileName: 2020-08---neue-deftones-single-ohms.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_deftones-anne-reis-cardamonchai.com_.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_deftones-anne-reis-cardamonchai.com_.png__l.jpg
@@ -35,66 +33,42 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Gleichnamiges Album in Kürze
-  
 ---
 
-**Letzte Woche überschlugen sich die musikalischen Ereignisse nur so. Eines mit
-für mich besonders großer Bedeutung ist die Ankündigung des neuen Deftones
-Albums "Ohms" für den 25. September.**
+**Letzte Woche überschlugen sich die musikalischen Ereignisse nur so. Eines mit für mich besonders großer Bedeutung ist die Ankündigung des neuen Deftones Albums "Ohms" für den 25. September.**
 
-Die erste Single ist sogar schon da. Sie trägt den gleichen Namen und macht Lust
-auf mehr. Nach dem großartigen "Gore" von 2016 wird das neue Werk das achte
-Studioalbum meiner Lieblingsband aus Sacramento sein.
+Die erste Single ist sogar schon da. Sie trägt den gleichen Namen und macht Lust auf mehr. Nach dem großartigen "Gore" von 2016 wird das neue Werk das achte Studioalbum meiner Lieblingsband aus Sacramento sein.
 
-Seit es die Deftones gibt, wird ein neues Album der Band bei uns groß gefeiert.
-Mein Bruder und ich sind glühende Fans der ersten Stunde und verpassen keine
-News über die Gruppe um Chino Moreno.
+Seit es die Deftones gibt, wird ein neues Album der Band bei uns groß gefeiert. Mein Bruder und ich sind glühende Fans der ersten Stunde und verpassen keine News über die Gruppe um Chino Moreno.
 
 ## Versteckte Hinweise
 
-<RemoteImage alt={`&quot;Ohms&quot; von den Deftones`} size="medium"
-title={`"Ohms" von den Deftones: Die Tracklist steht schon fest.`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_Bildschirmfoto-2020-08-24-um-18.11.02.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_Bildschirmfoto-2020-08-24-um-18.11.02.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAWCAYAAAChWZ5EAAAACXBIWXMAABYlAAAWJQFJUiTwAAAC8ElEQVRIibWUT08TQRjGR41RU1q63dJ2d2dmd2d3cVvSWCktxdDwJ0AiLYca5aI3FDHGqAe/gpy8mPgBPBpvHv1skse8AwsFCxRaD09mZvvn/c3zPvsy13Vh2zaKxaJWqVTSSs6WZUEIAcE5uG2BOxYknQWHlBJSiqP1RPT9s8/OE6MihmHoA+ccjuNo0Z7+qFAsYiKVQuvRIrq9baxudFCrz6NocwgvAHcVuBD6+8lvEohhxEzTRLVaRa/Xw+rqKrrdLjY3N7GysoKtrS0sttvIpO5BRTHc6RqkH0GV0gjyt6ByN+DnbkK5DoIggFLq6g6YpolyuYxGo6EfzM3NYWlpCTMzM2g2m2g0W5i8yyDnn8Db/oro6T783j7E+kfEz79BPfsCP36AOAoQTd8/BTC0A5VKBbVaTd+AihNEJpPRt2rML8C4y1Ba3IH75jfiVz8gXnxH7vFn+Lu/oHZ+oqRmwK0pcC6udPtjB+I4RqfTwfr6um4DaXl5Ga1WS4Nls1moUgZygkFMMMg0g5dlECkGkWZw7cKVig4E2NjYQLvd1g6QCIBAZmfrmJychK9C+GEMFZV1+EjSD7WEdIcO3cAWRFGkAagwhY+Kk2g/12hoAGqP53l6pVf30OpE8voOGIahe06JJwcSAIJZW1tDvX7kgO/rwgQxSsF/ACzL0j3O5XK6EO1JyT6dTiOfz2uAQ6krB+1CANd1jw+0H6Tks3HfXgNcFpLkfSYAciCZmGcn37UBZN/AGDQ8+gEOQxjo+RCGodZJIEcAkOdoEEASxv72jOyAHAIgKU4h7Ld/LC2QQwDQmkDQLEjy8P8cEKczQGvSBpK2fwyvIzv39mdb4Cv4QQgVRPD84HD8Sm9kseEccODzApSYghIFeE4erm3CtfMji10IoFcO4RThBFUIVYYXViD8CMILIbxoZLGLAVy4TgF2+BB33gPpT8DtdwdgL/+AvT4A2x2DLnWAWxDcgbHwAWbrLcz5PWQbezCa49FfxuHqQaUa5WAAAAAASUVORK5CYII="
+<RemoteImage
+  alt={`&quot;Ohms&quot; von den Deftones`}
+  size="medium"
+  title={`"Ohms" von den Deftones: Die Tracklist steht schon fest.`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_Bildschirmfoto-2020-08-24-um-18.11.02.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_Bildschirmfoto-2020-08-24-um-18.11.02.png__l.jpg"
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAWCAYAAAChWZ5EAAAACXBIWXMAABYlAAAWJQFJUiTwAAAC8ElEQVRIibWUT08TQRjGR41RU1q63dJ2d2dmd2d3cVvSWCktxdDwJ0AiLYca5aI3FDHGqAe/gpy8mPgBPBpvHv1skse8AwsFCxRaD09mZvvn/c3zPvsy13Vh2zaKxaJWqVTSSs6WZUEIAcE5uG2BOxYknQWHlBJSiqP1RPT9s8/OE6MihmHoA+ccjuNo0Z7+qFAsYiKVQuvRIrq9baxudFCrz6NocwgvAHcVuBD6+8lvEohhxEzTRLVaRa/Xw+rqKrrdLjY3N7GysoKtrS0sttvIpO5BRTHc6RqkH0GV0gjyt6ByN+DnbkK5DoIggFLq6g6YpolyuYxGo6EfzM3NYWlpCTMzM2g2m2g0W5i8yyDnn8Db/oro6T783j7E+kfEz79BPfsCP36AOAoQTd8/BTC0A5VKBbVaTd+AihNEJpPRt2rML8C4y1Ba3IH75jfiVz8gXnxH7vFn+Lu/oHZ+oqRmwK0pcC6udPtjB+I4RqfTwfr6um4DaXl5Ga1WS4Nls1moUgZygkFMMMg0g5dlECkGkWZw7cKVig4E2NjYQLvd1g6QCIBAZmfrmJychK9C+GEMFZV1+EjSD7WEdIcO3cAWRFGkAagwhY+Kk2g/12hoAGqP53l6pVf30OpE8voOGIahe06JJwcSAIJZW1tDvX7kgO/rwgQxSsF/ACzL0j3O5XK6EO1JyT6dTiOfz2uAQ6krB+1CANd1jw+0H6Tks3HfXgNcFpLkfSYAciCZmGcn37UBZN/AGDQ8+gEOQxjo+RCGodZJIEcAkOdoEEASxv72jOyAHAIgKU4h7Ld/LC2QQwDQmkDQLEjy8P8cEKczQGvSBpK2fwyvIzv39mdb4Cv4QQgVRPD84HD8Sm9kseEccODzApSYghIFeE4erm3CtfMji10IoFcO4RThBFUIVYYXViD8CMILIbxoZLGLAVy4TgF2+BB33gPpT8DtdwdgL/+AvT4A2x2DLnWAWxDcgbHwAWbrLcz5PWQbezCa49FfxuHqQaUa5WAAAAAASUVORK5CYII="
 />
 
-Auf "Ohms" haben wir uns besonders gefreut. Über die sozialen Netzwerke hatte
-die Band immer wieder Brotkrumen mit Hinweisen auf eine Neuveröffentlichung Ende
-September verteilt - nun steht offiziell fest, dass es das neue Album geben
-wird.
+Auf "Ohms" haben wir uns besonders gefreut. Über die sozialen Netzwerke hatte die Band immer wieder Brotkrumen mit Hinweisen auf eine Neuveröffentlichung Ende September verteilt - nun steht offiziell fest, dass es das neue Album geben wird.
 
-Produziert hat das Werk kein Geringerer als Terry Date. Das Soundgenie hatte mit
-den Deftones bereits "Around The Fur" und White Pony" finalisiert. Aufgenommen
-wurden die zehn neuen Stücke 2019 in Woodinville, Washington.
+Produziert hat das Werk kein Geringerer als Terry Date. Das Soundgenie hatte mit den Deftones bereits "Around The Fur" und White Pony" finalisiert. Aufgenommen wurden die zehn neuen Stücke 2019 in Woodinville, Washington.
 
 ## So klingt "Ohms"
 
-Der zehnte und letzte Track ist die grandiose Vorauskopplung der neuen Platte.
-Die Band läuft darin zu alter Höchstform auf und prägt sich gewohnt kraftvoll
-ein. Chinos Stimme erinnert uns an alte Zeiten und zeigt uns, dass die neuen gar
-nicht so schlimm werden können. Obwohl der Text, wie wir es von den Deftones
-gewohnt sind, eher finster ist.
+Der zehnte und letzte Track ist die grandiose Vorauskopplung der neuen Platte. Die Band läuft darin zu alter Höchstform auf und prägt sich gewohnt kraftvoll ein. Chinos Stimme erinnert uns an alte Zeiten und zeigt uns, dass die neuen gar nicht so schlimm werden können. Obwohl der Text, wie wir es von den Deftones gewohnt sind, eher finster ist.
 
-Er handelt von den Trümmern der Vergangenheit, die uns umgeben. Davon, dass wir
-die Chance verpasst haben, eine Veränderung der Gezeiten zu bewirken, das
-Labyrinth der Geister in unseren Köpfen und die Versprechen, die wir und
-gegenseitig geben. Insgesamt sind die Lyrics genial, dunkel und romantisch. Die
-Auslegung der Zeilen um das hoffnungslose Meer des Bedauerns und die Zeit, die
-nichts ändern wird, bleibt jedem selbst überlassen.
+Er handelt von den Trümmern der Vergangenheit, die uns umgeben. Davon, dass wir die Chance verpasst haben, eine Veränderung der Gezeiten zu bewirken, das Labyrinth der Geister in unseren Köpfen und die Versprechen, die wir und gegenseitig geben. Insgesamt sind die Lyrics genial, dunkel und romantisch. Die Auslegung der Zeilen um das hoffnungslose Meer des Bedauerns und die Zeit, die nichts ändern wird, bleibt jedem selbst überlassen.
 
-Die Wegbereiter ihres Genres haben es noch voll drauf und lassen uns von
-ausgelassenen Festivalshows träumen. Hoffentlich können sie die eigentlich für
-dieses Jahr geplante Tour bald nachholen damit wir wieder alle vereint glücklich
-vor der Bande in ihrer Musik schwelgen können.
+Die Wegbereiter ihres Genres haben es noch voll drauf und lassen uns von ausgelassenen Festivalshows träumen. Hoffentlich können sie die eigentlich für dieses Jahr geplante Tour bald nachholen damit wir wieder alle vereint glücklich vor der Bande in ihrer Musik schwelgen können.
 
 ## "Ohms" von den Deftones hören
 
- <YouTube id="KUDbj0oeAj0" />
+{' '}
+<YouTube id="KUDbj0oeAj0" />
 
-Das Foto habe ich 2013 auf dem [Rocknheim Festival](/2013/08/rocknheim-2013/)
-aufgenommen.
+Das Foto habe ich 2013 auf dem [Rocknheim Festival](/2013/08/rocknheim-2013/) aufgenommen.
 
 [Nachruf für Deftones Gründer Chi Cheng](/2013/04/nachruf-deftones-grunder-chi-cheng-ist-tot/)
-
-  

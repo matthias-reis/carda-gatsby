@@ -7,10 +7,8 @@ typeName: Filmtipp
 title: '"The Game Changers"'
 seoTitle: Filmtipp - "The Game Changers"
 ogTitle: Filmtipp - "The Game Changers"
-description: Am 16. September erschien eine ganz besondere Dokumentation. "The
-  Game Changers" sollte meiner Meinung nach jede*r mal gesehen haben.
-excerpt: Am 16. September erschien eine ganz besondere Dokumentation. "The Game
-  Changers" sollte meiner Meinung nach jede*r mal gesehen haben.
+description: Am 16. September erschien eine ganz besondere Dokumentation. "The Game Changers" sollte meiner Meinung nach jede*r mal gesehen haben.
+excerpt: Am 16. September erschien eine ganz besondere Dokumentation. "The Game Changers" sollte meiner Meinung nach jede*r mal gesehen haben.
 fileName: 2019-11---the-game-changers.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_the-game-changers.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_the-game-changers.png__l.jpg
@@ -48,91 +46,61 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Vegane Athleten und Bodybuilder
-  
 ---
 
-**Am 16. September erschien eine ganz besondere Dokumentation. "The Game
-Changers" sollte meiner Meinung nach jede\*r mal gesehen haben.**
+**Am 16. September erschien eine ganz besondere Dokumentation. "The Game Changers" sollte meiner Meinung nach jede\*r mal gesehen haben.**
 
-Regisseur Louie Psihoyos zeigt in seinem Film vor allem Athleten, die früher im
-Training auf eine besonders fleischreiche Ernährung setzten. Sie alle haben
-eines gemeinsam: ihre Umstellung auf eine vegane Lebensweise führte sie zu
-Höchstleistungen.
+Regisseur Louie Psihoyos zeigt in seinem Film vor allem Athleten, die früher im Training auf eine besonders fleischreiche Ernährung setzten. Sie alle haben eines gemeinsam: ihre Umstellung auf eine vegane Lebensweise führte sie zu Höchstleistungen.
 
 ## "The Game Changers" zeigt, wie es wirklich ist
 
-<RemoteImage alt={`the-game-changers`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_the-game-changers-release-netflix__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_the-game-changers-release-netflix__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgAEBQcIAf/EACsQAAIBAgUDBAICAwAAAAAAAAECAwQRAAUGEiEHEzEUIkFRMmEWI0Jxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAcEQEAAwACAwAAAAAAAAAAAAABAAIRAxIxQWH/2gAMAwEAAhEDEQA/AAzMtXPksFNTtSUksdRI3cECbDIqP7tzEkbiQfFwQQeL4tbpT1My2krM+SuapWiWmilpmZ17ZKIB2lW/tc7hx4484pbqbBHQZZliLKrWmqJZF3fi7gHx8X+/1hpDounpenFJqutrHjmqMxSnVY1VlMJU+8k87tykccWF8T8dAr2JRVM6Phmkc76wQfxwVEBlosx9SHjgij75lgWQKwLWKqT4uxAueMc0f1Ijm6gSJn1Hm2VNnAipqWCphPbjlUn2lv8AIm62KiwvY/eMyUVGuX5RHqIN6iCXM5KCFN5QMyxiQuePcBvAIPBxN9OKhqnVdLU11a4GWhKiDuux9wccAXsL25/1hlw7PqOlK1Q+yN6w5dUZdW071EFTE8sZS8pUiVlI/CxJIAZbk254+Dix8102cx6Z6K03NWtRS9pJdhj39yTbuIuPG0O5+L4Wu8nptU5zkrgxj0fcBElytmIIO3wbEfJGCnOJoKiooBMju1HIaiEjx3e2yAkX8AMTbGhhXJMCO5ApdIlukNVk/fWSsgzOXMaeVIm/sKqI9hB5DMARxx+N/nEPpDQ85yisqfUU8taXSJIu2y3CodyjeFO4NceNpt54wd1PapdIQUtYL3QRytGQpf7NjwCTyePn/uHukIIKDJqGCJjIAS5eRURjc8EhfBCgDj6/eDhYxgtP/9k="
+<RemoteImage
+  alt={`the-game-changers`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_the-game-changers-release-netflix__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_the-game-changers-release-netflix__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgAEBQcIAf/EACsQAAIBAgUDBAICAwAAAAAAAAECAwQRAAUGEiEHEzEUIkFRMmEWI0Jxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAcEQEAAwACAwAAAAAAAAAAAAABAAIRAxIxQWH/2gAMAwEAAhEDEQA/AAzMtXPksFNTtSUksdRI3cECbDIqP7tzEkbiQfFwQQeL4tbpT1My2krM+SuapWiWmilpmZ17ZKIB2lW/tc7hx4484pbqbBHQZZliLKrWmqJZF3fi7gHx8X+/1hpDounpenFJqutrHjmqMxSnVY1VlMJU+8k87tykccWF8T8dAr2JRVM6Phmkc76wQfxwVEBlosx9SHjgij75lgWQKwLWKqT4uxAueMc0f1Ijm6gSJn1Hm2VNnAipqWCphPbjlUn2lv8AIm62KiwvY/eMyUVGuX5RHqIN6iCXM5KCFN5QMyxiQuePcBvAIPBxN9OKhqnVdLU11a4GWhKiDuux9wccAXsL25/1hlw7PqOlK1Q+yN6w5dUZdW071EFTE8sZS8pUiVlI/CxJIAZbk254+Dix8102cx6Z6K03NWtRS9pJdhj39yTbuIuPG0O5+L4Wu8nptU5zkrgxj0fcBElytmIIO3wbEfJGCnOJoKiooBMju1HIaiEjx3e2yAkX8AMTbGhhXJMCO5ApdIlukNVk/fWSsgzOXMaeVIm/sKqI9hB5DMARxx+N/nEPpDQ85yisqfUU8taXSJIu2y3CodyjeFO4NceNpt54wd1PapdIQUtYL3QRytGQpf7NjwCTyePn/uHukIIKDJqGCJjIAS5eRURjc8EhfBCgDj6/eDhYxgtP/9k="
 />
 
-Schauspieler und Bodybuilder Arnold Schwarzenegger, Rekord-Gewichtheber Patrick
-Baboumian, Formel 1 Fahrer Lewis Hamilton, Radrennfahrerin Dotsie Bausch und
-Mixed Martial Artist James Wilks berichten im Film über ihre Erfolge, die sie
-fleischloser Ernährung zu verdanken haben.
+Schauspieler und Bodybuilder Arnold Schwarzenegger, Rekord-Gewichtheber Patrick Baboumian, Formel 1 Fahrer Lewis Hamilton, Radrennfahrerin Dotsie Bausch und Mixed Martial Artist James Wilks berichten im Film über ihre Erfolge, die sie fleischloser Ernährung zu verdanken haben.
 
-Im Zentrum der Dokumentation steht der Elite-Sondereinheitentrainer und Ultimate
-Fighter James Wilks. Nach einem schweren Unfall, der ihn außer Gefecht setzt,
-beginnt er sich mit Ernährung, speziell mit dem Thema Protein, zu beschäftigen
-und findet Erstaunliches heraus.
+Im Zentrum der Dokumentation steht der Elite-Sondereinheitentrainer und Ultimate Fighter James Wilks. Nach einem schweren Unfall, der ihn außer Gefecht setzt, beginnt er sich mit Ernährung, speziell mit dem Thema Protein, zu beschäftigen und findet Erstaunliches heraus.
 
 ## Vegetarische Gladiatoren
 
-Nachdem er herausfindet, dass die römischen Gladiatoren sich so gut wie
-fleischfrei ernährt haben, ist sein Interesse geweckt. Er geht der Frage nach,
-ob Nahrungsmittel tierischer Herkunft nötig sind, um eine ausreichende
-Proteinzufuhr zu erhalten.
+Nachdem er herausfindet, dass die römischen Gladiatoren sich so gut wie fleischfrei ernährt haben, ist sein Interesse geweckt. Er geht der Frage nach, ob Nahrungsmittel tierischer Herkunft nötig sind, um eine ausreichende Proteinzufuhr zu erhalten.
 
-Zunächst ist er noch überzeugt davon, das Fleischprotein für die Muskelbildung
-unersetzbar ist. Nach und nach taucht er immer tiefer in die Forschung ein. Er
-trifft sich mit Wissenschaftlern und beschäftigt sich mit Nährstoffen.
+Zunächst ist er noch überzeugt davon, das Fleischprotein für die Muskelbildung unersetzbar ist. Nach und nach taucht er immer tiefer in die Forschung ein. Er trifft sich mit Wissenschaftlern und beschäftigt sich mit Nährstoffen.
 
-Seine Überzeugung wächst, als er auf seiner Reise auf immer mehr vegan lebende
-Hochleistungssportler trifft. Unter anderem begleitet er den Gewichtheber
-Patrick Baboumian auf seinem Weg zum Weltrekord.
+Seine Überzeugung wächst, als er auf seiner Reise auf immer mehr vegan lebende Hochleistungssportler trifft. Unter anderem begleitet er den Gewichtheber Patrick Baboumian auf seinem Weg zum Weltrekord.
 
-> "Mich hat mal einer gefragt, wie ich so stark geworden bin, ohne Fleisch zu
-> essen. Ich habe zurückgefragt, ob er jemals einen Ochsen gesehen hat, der
-> Fleisch isst."
+> "Mich hat mal einer gefragt, wie ich so stark geworden bin, ohne Fleisch zu essen. Ich habe zurückgefragt, ob er jemals einen Ochsen gesehen hat, der Fleisch isst."
 
-erzählt dieser ihm. Zwei Worte ruft er, als er es schafft, ganze 555 Kilogramm
-zehn Meter weit zu tragen und sich dabei einen Eintrag ins Guinness Buch der
-Rekorde zu sichern.
+erzählt dieser ihm. Zwei Worte ruft er, als er es schafft, ganze 555 Kilogramm zehn Meter weit zu tragen und sich dabei einen Eintrag ins Guinness Buch der Rekorde zu sichern.
 
 > "Vegan Power!",
 
- <YouTube id="aL4lb6IevWw" />
+{' '}
+<YouTube id="aL4lb6IevWw" />
 
-James Wilks stellt schlussendlich selbst seine Ernährung um und schafft es nicht
-nur, sich schnell wieder von seinen Verletzungen zu erholen -  er läuft zu neuen
-ihm bisher unbekannten Höchstleistungen auf. Fortan verbringt er einen großen
-Teil seiner Zeit damit, anderen Menschen zu mehr Gesundheit und besseren
-Leistungen zu verhelfen, indem er über rein pflanzliche Ernährung aufklärt.
+James Wilks stellt schlussendlich selbst seine Ernährung um und schafft es nicht nur, sich schnell wieder von seinen Verletzungen zu erholen -  er läuft zu neuen ihm bisher unbekannten Höchstleistungen auf. Fortan verbringt er einen großen Teil seiner Zeit damit, anderen Menschen zu mehr Gesundheit und besseren Leistungen zu verhelfen, indem er über rein pflanzliche Ernährung aufklärt.
 
 ## "The Game Changers" - ein Film von Louie Psihoyos
 
-Louie Psihoyos ist im Filmgeschäft kein unbeschriebenes Blatt. Für seine Doku
-"Die Bucht" wurde ihm der Oskar verliehen.
+Louie Psihoyos ist im Filmgeschäft kein unbeschriebenes Blatt. Für seine Doku "Die Bucht" wurde ihm der Oskar verliehen.
 
-Als Executive Producer waren unter anderem James Cameron und Jackie Chan am Film
-beteiligt. Es geht also auf ganzer Linie hochkarätig zu bei "The Game Changers".
+Als Executive Producer waren unter anderem James Cameron und Jackie Chan am Film beteiligt. Es geht also auf ganzer Linie hochkarätig zu bei "The Game Changers".
 
-Zu sehen gibt es den Film bei Netflix, YouTube, GooglePlay, Vimeo, iTunes und
-VUDU.
+Zu sehen gibt es den Film bei Netflix, YouTube, GooglePlay, Vimeo, iTunes und VUDU.
 
-Auf der [Homepage](https://gamechangersmovie.com/) findet Ihr neben Infos zur
-Doku unter anderem Tipps sowie tolle Rezepte unter dem Motto "Eat like a Game
-Changer".
+Auf der [Homepage](https://gamechangersmovie.com/) findet Ihr neben Infos zur Doku unter anderem Tipps sowie tolle Rezepte unter dem Motto "Eat like a Game Changer".
 
 ## Trailer "The Game Changers"
 
- <YouTube id="7JPGRGp4sSI" />
+{' '}
+<YouTube id="7JPGRGp4sSI" />
 
-Hat Euch mein Filmtipp gefallen? Das freut mich! Um in Zukunft nichts mehr auf
-meinem Blog zu verpassen, [abonniert gerne meinen Newsletter](#newsletter). Ich
-freue mich auf Euch!
+Hat Euch mein Filmtipp gefallen? Das freut mich! Um in Zukunft nichts mehr auf meinem Blog zu verpassen, [abonniert gerne meinen Newsletter](#newsletter). Ich freue mich auf Euch!
 
 Bilder / pictures [The Game Changers](https://gamechangersmovie.com/)
-
-  

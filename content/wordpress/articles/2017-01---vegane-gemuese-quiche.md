@@ -7,12 +7,8 @@ typeName: Rezept
 title: Vegane Gemüse-Quiche
 seoTitle: Vegane Gemüse-Quiche
 ogTitle: Vegane Gemüse-Quiche
-description: Eine mit viel Liebe gebackene vegane Gemüse-Quiche wartete am
-  Sonntag nach der Arbeit auf mich. Hier kommt das Rezept. Foodblog? Sollt Ihr
-  haben!
-excerpt: Eine mit viel Liebe gebackene vegane Gemüse-Quiche wartete am Sonntag
-  nach der Arbeit auf mich. Hier kommt das Rezept. Foodblog? Sollt Ihr haben!
-  Guten Appetit!
+description: Eine mit viel Liebe gebackene vegane Gemüse-Quiche wartete am Sonntag nach der Arbeit auf mich. Hier kommt das Rezept. Foodblog? Sollt Ihr haben!
+excerpt: Eine mit viel Liebe gebackene vegane Gemüse-Quiche wartete am Sonntag nach der Arbeit auf mich. Hier kommt das Rezept. Foodblog? Sollt Ihr haben! Guten Appetit!
 fileName: 2017-01---vegane-gemuese-quiche.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_01_gemuesequiche-herzmann-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_01_gemuesequiche-herzmann-1__l.jpg
@@ -33,21 +29,13 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Foodblog? Sollt Ihr haben!
-  
 ---
 
-**Als ich am Sonntag von der Arbeit nach Hause kam, wartete eine ganz besondere
-Überraschung auf mich. Matze hatte eine vegane Gemüse-Quiche vorbereitet.**
+**Als ich am Sonntag von der Arbeit nach Hause kam, wartete eine ganz besondere Überraschung auf mich. Matze hatte eine vegane Gemüse-Quiche vorbereitet.**
 
-Schon beim Aufschließen der Wohnungstür strömte mir ein wunderbarer Duft
-entgegen und ich konnte es kaum erwarten, sie zu probieren.
+Schon beim Aufschließen der Wohnungstür strömte mir ein wunderbarer Duft entgegen und ich konnte es kaum erwarten, sie zu probieren.
 
-Weil mir beim
-[Bloggertreffen](/2017/01/hamburger-bloggertreffen-2017-klappe-die-erste/) vor
-ein paar Tagen ja nachgesagt wurde, ich würde ein Foodblog führen, gebe ich
-denen jetzt mal Foodblog. Hier kommt Matzes unglaublich leckeres Rezept für
-vegane Gemüse-Quiche. Ja, er hat es komplett selbst kreiiert. Und nein, es ist
-keine Milch drin. :-)
+Weil mir beim [Bloggertreffen](/2017/01/hamburger-bloggertreffen-2017-klappe-die-erste/) vor ein paar Tagen ja nachgesagt wurde, ich würde ein Foodblog führen, gebe ich denen jetzt mal Foodblog. Hier kommt Matzes unglaublich leckeres Rezept für vegane Gemüse-Quiche. Ja, er hat es komplett selbst kreiiert. Und nein, es ist keine Milch drin. :-)
 
 ## Zutaten für vier Portionen
 
@@ -74,48 +62,33 @@ keine Milch drin. :-)
 
 ### Mürbeteig
 
-<RemoteImage alt={`Vegane Gemüse-Quiche`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_32251663760_6f2db50b5c_k__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_32251663760_6f2db50b5c_k__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAKRAAAgEDBAEDAwUAAAAAAAAAAQIDBAURAAYSMSETFEIHFSJBUnGCkf/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBgX/xAAjEQACAQQCAAcAAAAAAAAAAAABAgADBBEhMWETFBUiMrHh/9oADAMBAAIRAxEAPwB5RXv3u47hTJaqeotFKp5TNUGN1k4ksGVQVGeTkHPy7OuO/wC+ayluPC3bcWSnRjGY/Ubm5JKqynAJXIzyAK4AHZ03R4aiF6JLfSUUla7qqQ1YHFUUMT1hhkEfj3g6lEdGvrcaDlcmCQtC7jD5QFR6mMcem/k478al/UKo3j6lGtnTKkkcd/sT27ctnqY6f7/TT2mslneIQPVM8SkH8QTy7Ix2AM50aW7hp7VT2eWnWlSNJKqJ/cRvxkKuCealvjnxnx4J6zo02l7r3pvqLVLQE5R8Dsy03ixUr2ara7e7S4YcRmAhHkVDlXUcT6YPIgnP+nVGlvdbti2PQXCSWWVAk9GkPIhXy2cg+QFTAwBgnzrU93W0Xez1QpqeOqqPaSxxxPIUDFgD5AGfiNU/6ffT2Ggo4q29K09UwVlV2bOB1zB8/wBetESwPiFW+I4gPOgJrkxLtjbNTuKeKsusjCijjEcCqRzaPtUOPAAGDg/odGtVqZY4Y/TjWOGP9sahc6NaVOkqKBiIVKzOckz/2Q=="
+<RemoteImage
+  alt={`Vegane Gemüse-Quiche`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_32251663760_6f2db50b5c_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_32251663760_6f2db50b5c_k__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAKRAAAgEDBAEDAwUAAAAAAAAAAQIDBAURAAYSMSETFEIHFSJBUnGCkf/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBgX/xAAjEQACAQQCAAcAAAAAAAAAAAABAgADBBEhMWETFBUiMrHh/9oADAMBAAIRAxEAPwB5RXv3u47hTJaqeotFKp5TNUGN1k4ksGVQVGeTkHPy7OuO/wC+ayluPC3bcWSnRjGY/Ubm5JKqynAJXIzyAK4AHZ03R4aiF6JLfSUUla7qqQ1YHFUUMT1hhkEfj3g6lEdGvrcaDlcmCQtC7jD5QFR6mMcem/k478al/UKo3j6lGtnTKkkcd/sT27ctnqY6f7/TT2mslneIQPVM8SkH8QTy7Ix2AM50aW7hp7VT2eWnWlSNJKqJ/cRvxkKuCealvjnxnx4J6zo02l7r3pvqLVLQE5R8Dsy03ixUr2ara7e7S4YcRmAhHkVDlXUcT6YPIgnP+nVGlvdbti2PQXCSWWVAk9GkPIhXy2cg+QFTAwBgnzrU93W0Xez1QpqeOqqPaSxxxPIUDFgD5AGfiNU/6ffT2Ggo4q29K09UwVlV2bOB1zB8/wBetESwPiFW+I4gPOgJrkxLtjbNTuKeKsusjCijjEcCqRzaPtUOPAAGDg/odGtVqZY4Y/TjWOGP9sahc6NaVOkqKBiIVKzOckz/2Q=="
 />
 
-Das Mehl zusammen mit dem Kokosöl zu einem bröseligen Teig vermischen. Das
-Wasser hinzugeben und alles zusammen zu einer homogenen Masse verkneten.
-Ausrollen und über den Boden und die Wände einer Springform ausbreiten. Achtung!
-Dabei unbedingt ca. 2 cm unter dem Rand frei lassen.
+Das Mehl zusammen mit dem Kokosöl zu einem bröseligen Teig vermischen. Das Wasser hinzugeben und alles zusammen zu einer homogenen Masse verkneten. Ausrollen und über den Boden und die Wände einer Springform ausbreiten. Achtung! Dabei unbedingt ca. 2 cm unter dem Rand frei lassen.
 
-Während die Gemüsefüllung zubereitet wird, lässt man den Teig im Kühlschrank
-ruhen. Vor dem Einfüllen der Masse werden mit einer Gabel ein paar Löcher in den
-Boden gestochen. Der Ofen darf nun schon mal auf 180° C vorgeheizt werden.
+Während die Gemüsefüllung zubereitet wird, lässt man den Teig im Kühlschrank ruhen. Vor dem Einfüllen der Masse werden mit einer Gabel ein paar Löcher in den Boden gestochen. Der Ofen darf nun schon mal auf 180° C vorgeheizt werden.
 
 ### Gemüsefüllung
 
-Die Zwiebel, den Porree, die Paprika, die Chili und die Tomaten in feine Würfel
-hacken. Die Zwiebelstückchen in der Pfanne anschwitzen, bis sie schön glasig bis
-braun sind. Den Porree, die Paprika, die Tomaten und die Chili zugeben und alles
-kurz anbraten.
+Die Zwiebel, den Porree, die Paprika, die Chili und die Tomaten in feine Würfel hacken. Die Zwiebelstückchen in der Pfanne anschwitzen, bis sie schön glasig bis braun sind. Den Porree, die Paprika, die Tomaten und die Chili zugeben und alles kurz anbraten.
 
-In einer Schüssel den Pizzaschmelz, das Mehl und die Petersilie vermischen. Das
-angebratene Gemüse hinzugeben, nochmals gut verrühren und im Anschluss alles in
-die mit dem Teig vorbereitete Form füllen. Zum Schluss noch die Soja-Cuisine
-gleichmäßig darüber verteilen. Dabei aufpassen, dass nichts zwischen den Teig
-und die Form läuft.
+In einer Schüssel den Pizzaschmelz, das Mehl und die Petersilie vermischen. Das angebratene Gemüse hinzugeben, nochmals gut verrühren und im Anschluss alles in die mit dem Teig vorbereitete Form füllen. Zum Schluss noch die Soja-Cuisine gleichmäßig darüber verteilen. Dabei aufpassen, dass nichts zwischen den Teig und die Form läuft.
 
 ### Vegane Gemüse-Quiche backen
 
-Stellt Eure vegane Gemüse-Quiche jetzt in den vorgeheizten Ofen und backt sie
-für 45 Minuten. Nachdem sie 10 Minuten lang auf einem Rost ausgekühlt ist, könnt
-Ihr die Springform öffnen und die Quiche in Portionen aufteilen.
+Stellt Eure vegane Gemüse-Quiche jetzt in den vorgeheizten Ofen und backt sie für 45 Minuten. Nachdem sie 10 Minuten lang auf einem Rost ausgekühlt ist, könnt Ihr die Springform öffnen und die Quiche in Portionen aufteilen.
 
-Dazu passt hervorragend ein schöner Frankfurter Äppler oder ein trockener Cider.
-Ihr wollt noch eine Beilage? Wie wäre es mit einem kräftigen
-[Vollkornbrot](/2015/09/jeder-kanns-brot-veganes-vollkornbrot-rezept/) ?
+Dazu passt hervorragend ein schöner Frankfurter Äppler oder ein trockener Cider. Ihr wollt noch eine Beilage? Wie wäre es mit einem kräftigen [Vollkornbrot](/2015/09/jeder-kanns-brot-veganes-vollkornbrot-rezept/) ?
 
 Buon Appetit! &lt;3
 
 <Gallery name="flickr/herzmanngemuesequiche" />
 
 &nbsp;
-
-  

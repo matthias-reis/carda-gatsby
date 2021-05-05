@@ -1,13 +1,13 @@
-import React from "react";
+import React from 'react';
 
-import { ArticlePage } from "./article-page";
-import { ErrorBoundary } from "./error-boundary";
-import { processor } from "../markdown";
+import { ArticlePage } from './article-page';
+import { ErrorBoundary } from './error-boundary';
+import { processor } from '../markdown';
 
-import { VFile } from "vfile";
+import { VFile } from 'vfile';
 
 const ArticleCmsController: React.FC<any> = ({ entry, getAsset }) => {
-  const data = entry.getIn(["data"]).toJS();
+  const data = entry.getIn(['data']).toJS();
   if (data) {
     const { body, ...meta } = data;
     try {

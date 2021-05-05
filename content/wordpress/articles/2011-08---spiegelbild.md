@@ -7,10 +7,8 @@ typeName: Gedicht
 title: Spiegelbild
 seoTitle: Spiegelbild - ein Gedicht
 ogTitle: Spiegelbild - ein Gedicht
-description: Sternenregen. Sternklarer Himmel. Sternennacht. In der anderen
-  Stadt Regen. Wolkenverhangener Himmel. Nachgedacht.
-excerpt: Sternenregen. Sternklarer Himmel. Sternennacht. In der anderen Stadt
-  Regen. Wolkenverhangener Himmel. Nachgedacht.
+description: Sternenregen. Sternklarer Himmel. Sternennacht. In der anderen Stadt Regen. Wolkenverhangener Himmel. Nachgedacht.
+excerpt: Sternenregen. Sternklarer Himmel. Sternennacht. In der anderen Stadt Regen. Wolkenverhangener Himmel. Nachgedacht.
 fileName: 2011-08---spiegelbild.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_268275_238761572812646_100000364159291_838681_1743551_n__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_268275_238761572812646_100000364159291_838681_1743551_n__l.jpg
@@ -45,29 +43,23 @@ labels:
   - wellenlos
   - Wetter
   - Wolken
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Geträumt
-  
 ---
 
 Sternenregen Sternklarer Himmel Sternennacht
 
 In der anderen Stadt Regen Wolkenverhangener Himmel Nachgedacht
 
-Spätsommersonne Den Regen gegen den Wein getauscht Picknick am See Schaum Im
-Fluss Tagebau
+Spätsommersonne Den Regen gegen den Wein getauscht Picknick am See Schaum Im Fluss Tagebau
 
-Was spielt das Wetter für eine Rolle? Alltag vergessen Eingetaucht In das Meer
-der Worte
+Was spielt das Wetter für eine Rolle? Alltag vergessen Eingetaucht In das Meer der Worte
 
 Ganz ohne Wellen Glatt und klar Wie ein Spiegel Der mir meine Seele zeigt
 
-Doch dieser Spiegel Wirft das Bild nicht zurück Er lässt mich hindurchblicken
-Glänzend und doch weich Fast samtig Leicht und fragil Und doch beständig
-
-  
+Doch dieser Spiegel Wirft das Bild nicht zurück Er lässt mich hindurchblicken Glänzend und doch weich Fast samtig Leicht und fragil Und doch beständig

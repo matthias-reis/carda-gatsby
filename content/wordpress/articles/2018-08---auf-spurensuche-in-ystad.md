@@ -7,12 +7,8 @@ typeName: Galerie mit Bild
 title: Auf Spurensuche in Ystad
 seoTitle: Auf Spurensuche in Ystad - Rosen, Sommerregen und Krimifeeling
 ogTitle: Auf Spurensuche in Ystad - Rosen, Sommerregen und Krimifeeling
-description: Auf der Durchreise machten wir einen Kaffeehalt in der Krimistadt
-  Ystad. Auf den Spuren von Kommissar Wallander schlenderten wir durch die
-  Gassen.
-excerpt: Auf der Durchreise machten wir einen Kaffeehalt in der Krimistadt
-  Ystad. Auf den Spuren von Kommissar Wallander schlenderten wir durch die
-  Gassen.
+description: Auf der Durchreise machten wir einen Kaffeehalt in der Krimistadt Ystad. Auf den Spuren von Kommissar Wallander schlenderten wir durch die Gassen.
+excerpt: Auf der Durchreise machten wir einen Kaffeehalt in der Krimistadt Ystad. Auf den Spuren von Kommissar Wallander schlenderten wir durch die Gassen.
 fileName: 2018-08---auf-spurensuche-in-ystad.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_Ystad__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_Ystad__l.jpg
@@ -38,27 +34,17 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Rosen, Sommerregen und Krimifeeling
-  
 ---
 
-**Auf der Durchreise machten wir einen Kaffeehalt in der Krimistadt Ystad. Im
-Anschluss an unsere Pause mit Heißgetränk schlenderten wir im warmen Sommerregen
-durch die gemütlichen Gassen.**
+**Auf der Durchreise machten wir einen Kaffeehalt in der Krimistadt Ystad. Im Anschluss an unsere Pause mit Heißgetränk schlenderten wir im warmen Sommerregen durch die gemütlichen Gassen.**
 
-Ystad liegt in der Schwedischen Provinz
-[Skåne](/2018/07/zwischenstopp-in-skane/). Die 1244 gegründete Stadt wurde
-bekannt durch die dort spielenden Krimis von Henning Mankell. Kommissar Kurt
-Wallander dürfte wohl jedem ein Begriff sein.
+Ystad liegt in der Schwedischen Provinz [Skåne](/2018/07/zwischenstopp-in-skane/). Die 1244 gegründete Stadt wurde bekannt durch die dort spielenden Krimis von Henning Mankell. Kommissar Kurt Wallander dürfte wohl jedem ein Begriff sein.
 
-Alle Orte aus den Büchern gibt es wirklich. Als man in den 90er Jahren begann,
-Mankells Werke zu verfilmen, nutzte man diese Tatsache. Das führte zu einem
-regelrechten Ansturm von "Krimipilgern" in der Südschwedischen Stadt.
+Alle Orte aus den Büchern gibt es wirklich. Als man in den 90er Jahren begann, Mankells Werke zu verfilmen, nutzte man diese Tatsache. Das führte zu einem regelrechten Ansturm von "Krimipilgern" in der Südschwedischen Stadt.
 
 ## Ystad ist eine Reise wert
 
-Doch der Besuch lohnt sich nicht nur aus diesem Grund sehr. Ystad ist wirklich
-sehr schön. Die gepflegte Altstadt lädt zum Spaziergang ein. Viele gemütliche
-Cafés locken mit Kaffee und Godis.
+Doch der Besuch lohnt sich nicht nur aus diesem Grund sehr. Ystad ist wirklich sehr schön. Die gepflegte Altstadt lädt zum Spaziergang ein. Viele gemütliche Cafés locken mit Kaffee und Godis.
 
 <hr />
 
@@ -72,15 +58,13 @@ Eine Katze schleicht um die Ecke. Ihr Blick folgt einer tieffliegenden Schwalbe.
 
 Der Geruch von Regen hängt noch in der Luft. Schwer und süß.
 
-Leider ist mir sein Name entfallen. Ich kannte ihn. Er ist mir schon mal
-begegnet.
+Leider ist mir sein Name entfallen. Ich kannte ihn. Er ist mir schon mal begegnet.
 
 Das Kopfsteinpflaster glänzt vor Nässe. Blut mischt sich mit einer Pfütze.
 
 Der Ermittler zückt seinen Block. Räuspert sich und nickt.
 
-Es muss gegen zwei Uhr nachts passiert sein. Durch den Sturm fand man ihn erst
-jetzt.
+Es muss gegen zwei Uhr nachts passiert sein. Durch den Sturm fand man ihn erst jetzt.
 
 Bitte bleiben Sie hinter der Absperrung. Es gibt hier nichts zu sehen.
 
@@ -93,5 +77,3 @@ Halten Sie das zunächst von der Presse fern. Es könnte uns in Gefahr bringen.
 Der Aktenberg. Die Angehörigen. Der Abend am Steg. Am Strand ist es still.
 
 <Gallery name="flickr/annewallanderystadkrimi2018rosenschoen" />
-
-  

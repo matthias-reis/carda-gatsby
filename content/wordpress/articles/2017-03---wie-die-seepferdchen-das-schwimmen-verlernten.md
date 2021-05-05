@@ -7,8 +7,7 @@ typeName: Gedicht
 title: Wie die Seepferdchen das Schwimmen verlernten
 seoTitle: Wie die Seepferdchen das Schwimmen verlernten - Ein Gedicht
 ogTitle: Wie die Seepferdchen das Schwimmen verlernten - Klimaerwärmung
-description: Seepferdchen stehen für Freiheit, Gelassenheit und Unabhängigkeit.
-  Die Klimaerwärmung bringt uns nur Schwefeldioxid, Stickoxide und Ammoniak.
+description: Seepferdchen stehen für Freiheit, Gelassenheit und Unabhängigkeit. Die Klimaerwärmung bringt uns nur Schwefeldioxid, Stickoxide und Ammoniak.
 excerpt: |-
   Seepferdchen stehen für Freiheit, Gelassenheit und Unabhängigkeit.
   Die Klimaerwärmung bringt uns nur Schwefeldioxid, Stickoxide und Ammoniak.
@@ -31,43 +30,29 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Klimaerwärmung
-  
 ---
 
 <blockquote>
 
-Wie die Seepferdchen das Schwimmen verlernten. Die stetige
-[Klimaerwärmung](/2017/02/klimaschutz-und-vegane-ernaehrung/) bei der Arbeit.
+Wie die Seepferdchen das Schwimmen verlernten. Die stetige [Klimaerwärmung](/2017/02/klimaschutz-und-vegane-ernaehrung/) bei der Arbeit.
 
-170 Jahre alter Champagner. Inzwischen heißt die Klimaerwärmung
-Klimaveränderung.
+170 Jahre alter Champagner. Inzwischen heißt die Klimaerwärmung Klimaveränderung.
 
-Die Sonne schickt Geborgenheit. Sie bedeutet Glück, Schmerz, Ekstase und
-Verlust.
+Die Sonne schickt Geborgenheit. Sie bedeutet Glück, Schmerz, Ekstase und Verlust.
 
-Raffinierte Jagdmanöver gelingen Seepferdchen durch einen Trick. Sie suchen
-unter grünen Bäumen Geborgenheit.
+Raffinierte Jagdmanöver gelingen Seepferdchen durch einen Trick. Sie suchen unter grünen Bäumen Geborgenheit.
 
-Gesellschafts- und Normen-konformes Leben. Die Klimaerwärmung setzt dem
-Permafrost stark zu.
+Gesellschafts- und Normen-konformes Leben. Die Klimaerwärmung setzt dem Permafrost stark zu.
 
-Gobibärenforscher führen das Zittern auf die Klimaerwärmung zurück. Bestellen
-Sie jetzt Tickets für das Meeresmuseum.
+Gobibärenforscher führen das Zittern auf die Klimaerwärmung zurück. Bestellen Sie jetzt Tickets für das Meeresmuseum.
 
-Erleben Sie mit, wie hunderte verölte Seevögel geborgen werden. Ihr
-Braunkohlekraftwerk sichert Ihnen bei der Klimaerwärmung einen Platz in der
-vordersten Reihe.
+Erleben Sie mit, wie hunderte verölte Seevögel geborgen werden. Ihr Braunkohlekraftwerk sichert Ihnen bei der Klimaerwärmung einen Platz in der vordersten Reihe.
 
-Seepferdchen stehen für Freiheit, Gelassenheit und Unabhängigkeit. Die
-Klimakrise bringt uns nur Schwefeldioxid, Stickoxide und Ammoniak.
+Seepferdchen stehen für Freiheit, Gelassenheit und Unabhängigkeit. Die Klimakrise bringt uns nur Schwefeldioxid, Stickoxide und Ammoniak.
 
 </blockquote>
 
-**Hinweis:** Bei diesem Text handelt es sich um ein Flarf-Gedicht.
-Flarf-Gedichte enstehen, indem man die Ergebnisse der Suchmaschine zu bestimmten
-Begriffen geschickt miteinander kombiniert. Für mich ist diese Beschäftigung zum
-Hobby geworden. In meinem Blog habe ich daher schon einige solche Gedichte
-veröffentlicht.
+**Hinweis:** Bei diesem Text handelt es sich um ein Flarf-Gedicht. Flarf-Gedichte enstehen, indem man die Ergebnisse der Suchmaschine zu bestimmten Begriffen geschickt miteinander kombiniert. Für mich ist diese Beschäftigung zum Hobby geworden. In meinem Blog habe ich daher schon einige solche Gedichte veröffentlicht.
 
 ## Flarf-Gedichte Wegweiser
 
@@ -84,5 +69,3 @@ veröffentlicht.
 1.  [Die Sehnsucht der Postmoderne](/2017/02/die-sehnsucht-der-postmoderne/)
 1.  [In den Straßen von St. Pauli](/2017/02/dauerregen-stpauli/)
 1.  Wie die Seepferdchen das Schwimmen verlernten
-
-  

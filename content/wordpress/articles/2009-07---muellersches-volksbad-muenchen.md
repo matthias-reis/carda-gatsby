@@ -29,8 +29,4 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Auch mal ein Foto wert
-  
 ---
-
-
-  

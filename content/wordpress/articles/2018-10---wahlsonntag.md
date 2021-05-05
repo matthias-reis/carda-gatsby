@@ -7,10 +7,8 @@ typeName: Gedicht
 title: Wahlsonntag
 seoTitle: Wahlsonntag - Statements und Prognosen - Lyrisch betrachtet
 ogTitle: Wahlsonntag - Statements und Prognosen - Lyrisch betrachtet
-description: Ein Gedicht zum Wahlsonntag - Grenzen sind dazu da, sie zu
-  überwinden. Sie abzureißen und durch Verbindungswege zu ersetzen.
-excerpt: Gedicht - Grenzen sind dazu da, sie zu überwinden. Sie abzureißen und
-  durch Verbindungswege zu ersetzen. Das haben die Menschen klar entschieden.
+description: Ein Gedicht zum Wahlsonntag - Grenzen sind dazu da, sie zu überwinden. Sie abzureißen und durch Verbindungswege zu ersetzen.
+excerpt: Gedicht - Grenzen sind dazu da, sie zu überwinden. Sie abzureißen und durch Verbindungswege zu ersetzen. Das haben die Menschen klar entschieden.
 fileName: 2018-10---wahlsonntag.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_September-29-2018-at-06_15PM__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_September-29-2018-at-06_15PM__l.jpg
@@ -30,14 +28,13 @@ labels:
   - Wahl in Bayern
   - Wahlsonntag
   - wir sind mehr
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Statements und Prognosen
-  
 ---
 
 <blockquote>
@@ -52,13 +49,11 @@ Entscheidungen treffen. Entgegensetzen. Der Druck steigt.
 
 Das Statement fällt eher lahm aus. Personalwechsel.
 
-Wir lassen uns die Kohle nicht aufs Brot legen! Das könnt Ihr an Eurer
-Niederlage klar erkennen.
+Wir lassen uns die Kohle nicht aufs Brot legen! Das könnt Ihr an Eurer Niederlage klar erkennen.
 
 Grenzenloser Optimismus. Auf allen Seiten.
 
-Grenzen sind dazu da, sie zu überwinden. Sie abzureißen und durch
-Verbindungswege zu ersetzen.
+Grenzen sind dazu da, sie zu überwinden. Sie abzureißen und durch Verbindungswege zu ersetzen.
 
 Konsequenzen. Zu spät.
 
@@ -70,7 +65,4 @@ Das Kraut simmert im Topf. Der Kaffee ist kalt geworden.
 
 </blockquote>
 
-Das Foto habe ich am 29. September 2018 auf der United Against Racism Demo in
-Hamburg aufgenommen. Es ist bereits auf meinem Instagram-Kanal erschienen.
-
-  
+Das Foto habe ich am 29. September 2018 auf der United Against Racism Demo in Hamburg aufgenommen. Es ist bereits auf meinem Instagram-Kanal erschienen.

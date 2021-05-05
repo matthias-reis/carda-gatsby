@@ -7,8 +7,7 @@ typeName: Galerie
 title: Prerow am Abend
 seoTitle: Prerow am Abend - Sommerliche Impressionen von der Ostsee
 ogTitle: Prerow am Abend - Sommerliche Impressionen von der Ostsee
-description: Auf zum Darß - Dem Mittelteil der Halbinsel Fischland-Darß-Zingst.
-  Den Sonnenuntergang erleben - Ein Sommerabend in Prerow an der Ostsee
+description: Auf zum Darß - Dem Mittelteil der Halbinsel Fischland-Darß-Zingst. Den Sonnenuntergang erleben - Ein Sommerabend in Prerow an der Ostsee
 excerpt: |-
   Auf zum Darß - Dem Mittelteil der Halbinsel Fischland-Darß-Zingst.
   Den Sonnenuntergang erleben - Ein Sommerabend in Prerow an der Ostsee
@@ -38,16 +37,17 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Sommerliche Impressionen von der Ostsee
-  
 ---
 
-Auf zum Darß - Dem Mittelteil der Halbinsel Fischland-Darß-Zingst. Den
-Sonnenuntergang erleben.
+Auf zum Darß - Dem Mittelteil der Halbinsel Fischland-Darß-Zingst. Den Sonnenuntergang erleben.
 
-<RemoteImage alt={`Prerow`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42679607012_5bf03463f1_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42679607012_5bf03463f1_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAYI/8QALhAAAQMCBAQCCwAAAAAAAAAAAQIDBAARBQYSIQcxQVETFDNCQ2FxgZGSwdHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAGxEAAwACAwAAAAAAAAAAAAAAAAERIVECAxL/2gAMAwEAAhEDEQA/AOhxINT5hXekKXJh9o39tCpElIup1ofFP9p1ByPvMK70VnlzHkj07PuvYfmiqosmclZjhQ2tUtrw0chqsCT2A61jsd4owGksqgMStImtIfWW0C7QuV259Bb58xVnFcFh4sUOSlPa0DSChdut/wB0tZynhsVp5CEvKQ4pTi0qXquSd9rbdOVJ9egLnsVZg4gOzHHGocWPCjJSCHlJBUoknYfT1d6KsScmYRIkmQ4wFvquLu7nbsCbCirykbaf/9k="
+<RemoteImage
+  alt={`Prerow`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42679607012_5bf03463f1_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42679607012_5bf03463f1_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAYI/8QALhAAAQMCBAQCCwAAAAAAAAAAAQIDBAARBQYSIQcxQVETFDNCQ2FxgZGSwdHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAGxEAAwACAwAAAAAAAAAAAAAAAAERIVECAxL/2gAMAwEAAhEDEQA/AOhxINT5hXekKXJh9o39tCpElIup1ofFP9p1ByPvMK70VnlzHkj07PuvYfmiqosmclZjhQ2tUtrw0chqsCT2A61jsd4owGksqgMStImtIfWW0C7QuV259Bb58xVnFcFh4sUOSlPa0DSChdut/wB0tZynhsVp5CEvKQ4pTi0qXquSd9rbdOVJ9egLnsVZg4gOzHHGocWPCjJSCHlJBUoknYfT1d6KsScmYRIkmQ4wFvquLu7nbsCbCirykbaf/9k="
 />
 
 Spuren im weißen Sand. Impressionen aus Prerow an der Ostsee.
@@ -64,8 +64,4 @@ Morgen wird es sonnig. Die schöne Küste lädt uns ein.
 
 <Gallery name="flickr/anneprerow20180608" />
 
-Die Bilder in diesem Beitrag sind am Abend des 8. Juni 2018 im Ostseebad Prerow
-entstanden. Wer jetzt Lust auf einen kleinen Sundowner bekommen hat, ist
-eingeladen, [hier weiterzulesen](/2018/06/sloe-dancer/).
-
-  
+Die Bilder in diesem Beitrag sind am Abend des 8. Juni 2018 im Ostseebad Prerow entstanden. Wer jetzt Lust auf einen kleinen Sundowner bekommen hat, ist eingeladen, [hier weiterzulesen](/2018/06/sloe-dancer/).

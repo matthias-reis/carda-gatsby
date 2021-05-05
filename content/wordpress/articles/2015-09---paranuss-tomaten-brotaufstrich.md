@@ -7,12 +7,8 @@ typeName: Rezept
 title: Paranuss-Tomaten-Brotaufstrich
 seoTitle: DIY Paranuss-Tomaten-Brotaufstrich - Veganes Rezept
 ogTitle: DIY Paranuss-Tomaten-Brotaufstrich - Veganes Rezept
-description: "Bei einem perfekten Frühstück am Wochenende darf eins auf keinen
-  Fall fehlen: Der perfekte Paranuss-Tomaten Brotaufstrich. Hier ist mein Rezept
-  für Euch."
-excerpt: Selbstgemachte Brotaufstriche dürfen bei einem perfekten Frühstück
-  nicht fehlen. Ich verrate Euch heute mein Rezept für einen leckeren
-  Paranuss-Tomaten-Aufstrich.
+description: 'Bei einem perfekten Frühstück am Wochenende darf eins auf keinen Fall fehlen: Der perfekte Paranuss-Tomaten Brotaufstrich. Hier ist mein Rezept für Euch.'
+excerpt: Selbstgemachte Brotaufstriche dürfen bei einem perfekten Frühstück nicht fehlen. Ich verrate Euch heute mein Rezept für einen leckeren Paranuss-Tomaten-Aufstrich.
 fileName: 2015-09---paranuss-tomaten-brotaufstrich.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0831__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0831__l.jpg
@@ -37,18 +33,11 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Veganer Frühstücksaufstrich zum Selbermachen
-  
 ---
 
-**Liebt Ihr es auch auch so sehr, am Wochenende ausgedehnt zu frühstücken?
-Selbstgemachte Brotaufstriche dürfen dabei nicht fehlen. Ich verrate Euch heute
-mein Rezept für einen leckeren Paranuss-Tomaten-Aufstrich.**
+**Liebt Ihr es auch auch so sehr, am Wochenende ausgedehnt zu frühstücken? Selbstgemachte Brotaufstriche dürfen dabei nicht fehlen. Ich verrate Euch heute mein Rezept für einen leckeren Paranuss-Tomaten-Aufstrich.**
 
-Paranüsse, auch Amazonenmandeln oder Marahonkastanie genannt, sind sehr gesund.
-Sie stecken voll mit gesunden Fettsäuren, Proteinen und Nährstoffen. Nur
-Vorsicht, nicht zuviel davon genießen, sonst bleibt kein Platz mehr im Magen für
-Eure [Bananenwaffeln](/2015/03/bananenwaffeln/) und das
-[Rührtofu](/2014/09/ruhrtofu/), denn die Dinger sind auch ganz schön fettig. ;-)
+Paranüsse, auch Amazonenmandeln oder Marahonkastanie genannt, sind sehr gesund. Sie stecken voll mit gesunden Fettsäuren, Proteinen und Nährstoffen. Nur Vorsicht, nicht zuviel davon genießen, sonst bleibt kein Platz mehr im Magen für Eure [Bananenwaffeln](/2015/03/bananenwaffeln/) und das [Rührtofu](/2014/09/ruhrtofu/), denn die Dinger sind auch ganz schön fettig. ;-)
 
 ## Ihr braucht
 
@@ -67,24 +56,10 @@ Eure [Bananenwaffeln](/2015/03/bananenwaffeln/) und das
 
 ## Zubereitung
 
-Alle Zutaten zusammen in den Blender geben und in kurzen Hüben pürieren, bis
-sich eine gleichmäßige Masse ergeben hat. Habt Geduld, es kann eine kleine Weile
-dauern. Achtet darauf, zwischendurch ein paar kleine Pausen einzulegen, damit
-der Blender nicht überhitzt. Für unser 2 PS Modell stellt das kein Problem dar,
-für kleinere Mixer ist es evtl. schwieriger und es kann dann auch Sinn machen,
-die Nüsse vorher schon mal ein Bisschen mit dem Messer zu zerkleinern.
+Alle Zutaten zusammen in den Blender geben und in kurzen Hüben pürieren, bis sich eine gleichmäßige Masse ergeben hat. Habt Geduld, es kann eine kleine Weile dauern. Achtet darauf, zwischendurch ein paar kleine Pausen einzulegen, damit der Blender nicht überhitzt. Für unser 2 PS Modell stellt das kein Problem dar, für kleinere Mixer ist es evtl. schwieriger und es kann dann auch Sinn machen, die Nüsse vorher schon mal ein Bisschen mit dem Messer zu zerkleinern.
 
-Mit dem Löffel nehmt ihr im Anschluss die Masse aus dem Mixer und füllt sie
-feinsäuberlich in das Glas. Nehmt auf jeden Fall einen aus Plastik, um die
-Messer des Blenders nicht zu beschädigen. Im Kühlschrank ist der Aufstrich rund
-zwei Wochen haltbar.
+Mit dem Löffel nehmt ihr im Anschluss die Masse aus dem Mixer und füllt sie feinsäuberlich in das Glas. Nehmt auf jeden Fall einen aus Plastik, um die Messer des Blenders nicht zu beschädigen. Im Kühlschrank ist der Aufstrich rund zwei Wochen haltbar.
 
-Ihr könnt den Aufstrich auch mit andern Nüssen machen und mit Gewürzen
-variieren. Probiert auch mal eine süße Variante. Man kann z. B. auch aus
-Studentenfutter einen genialen Frühstücksaufstrich herstellen. Viel Spaß beim
-Ausprobieren!
+Ihr könnt den Aufstrich auch mit andern Nüssen machen und mit Gewürzen variieren. Probiert auch mal eine süße Variante. Man kann z. B. auch aus Studentenfutter einen genialen Frühstücksaufstrich herstellen. Viel Spaß beim Ausprobieren!
 
-Weitere Rezepte aus meiner Feder
-[sind hier zu finden](/category/vegan/vegane-rezepte/).
-
-  
+Weitere Rezepte aus meiner Feder [sind hier zu finden](/category/vegan/vegane-rezepte/).

@@ -7,10 +7,8 @@ typeName: Artikel
 title: Brausegedanken
 seoTitle: Brausegedanken - was der Alltag so mitbringt
 ogTitle: Brausegedanken - was der Alltag so mitbringt
-description: Gemütliches Kino statt matschiger Bühnen. Nanamintchai statt grüner
-  Dosen. Retrorock und Fahrradgespräche. Bleistift und Papier.
-excerpt: Gemütliches Kino statt matschiger Bühnen. Nanamintchai statt grüner
-  Dosen. Retrorock und Fahrradgespräche. Bleistift und Papier.
+description: Gemütliches Kino statt matschiger Bühnen. Nanamintchai statt grüner Dosen. Retrorock und Fahrradgespräche. Bleistift und Papier.
+excerpt: Gemütliches Kino statt matschiger Bühnen. Nanamintchai statt grüner Dosen. Retrorock und Fahrradgespräche. Bleistift und Papier.
 fileName: 2011-08---brausegedanken.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_29528_120793437942794_100000364159291_195884_6849681_n__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_29528_120793437942794_100000364159291_195884_6849681_n__l.jpg
@@ -56,29 +54,17 @@ labels:
   - Volk
   - Wahnsinn
   - Wochenende
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Was der Alltag so mitbringt
-  
 ---
 
-Telefonläuten und E-Mail-Stau Das Rattern moderner Schreibmaschinen Motorenlärm
-und Bildschirmflackern Kaffeemaschinen und Druckerstaub Halbgefrorenes 
-Fertiggericht Von Neonröhren gegahrtes Plastiksandwich Elektrosmog - praktisch
-und kabellos
+Telefonläuten und E-Mail-Stau Das Rattern moderner Schreibmaschinen Motorenlärm und Bildschirmflackern Kaffeemaschinen und Druckerstaub Halbgefrorenes  Fertiggericht Von Neonröhren gegahrtes Plastiksandwich Elektrosmog - praktisch und kabellos
 
-Dazwischen Gezwitscher und Titelthemen Die Polizei ermittelt, Gesichtserkennung
-Verdeckte Ermittler und Petitionen Sonnenkönige und Streikbrecher Updates und
-News Strahlen und ihre Folgen Die Mast und der Hunger Musik, Wolken, Watte,
-Zucker Über das alles Das Volk und die Medien Dann esst doch Kuchen, wenn kein
-Brot da ist Hitziges Gefecht Vermeiden Schlammschlacht Wogen glätten offline
+Dazwischen Gezwitscher und Titelthemen Die Polizei ermittelt, Gesichtserkennung Verdeckte Ermittler und Petitionen Sonnenkönige und Streikbrecher Updates und News Strahlen und ihre Folgen Die Mast und der Hunger Musik, Wolken, Watte, Zucker Über das alles Das Volk und die Medien Dann esst doch Kuchen, wenn kein Brot da ist Hitziges Gefecht Vermeiden Schlammschlacht Wogen glätten offline
 
-Gemütliches Kino statt matschiger Bühnen Nanamintchai statt grüner Dosen
-Retrorock und Fahrradgespräche Flohmarkttraum und Brausegedanken Smetana und
-Badenixen Bleistift und Papier
-
-  
+Gemütliches Kino statt matschiger Bühnen Nanamintchai statt grüner Dosen Retrorock und Fahrradgespräche Flohmarkttraum und Brausegedanken Smetana und Badenixen Bleistift und Papier

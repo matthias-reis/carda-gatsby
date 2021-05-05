@@ -1,123 +1,119 @@
-- title: "Allgemein"
-  description: "Alle Rubriken meines Blogs sind einem bestimmten Thema zugeordnet, daher sollte es selten bis gar nicht vorkommen, dass an dieser Stelle ein Artikel auftaucht."
+- title: 'Allgemein'
+  description: 'Alle Rubriken meines Blogs sind einem bestimmten Thema zugeordnet, daher sollte es selten bis gar nicht vorkommen, dass an dieser Stelle ein Artikel auftaucht.'
   slug: allgemein
 
-- title: "Vegan"
-  description: "Vegan ist nicht nur Hauptthema meines Blogs. Ich lebe seit vielen Jahren vegan. In dieser Blogrubrik beleuchte die Aspekte Ethik, Klimaschutz und Gesundheit"
+- title: 'Vegan'
+  description: 'Vegan ist nicht nur Hauptthema meines Blogs. Ich lebe seit vielen Jahren vegan. In dieser Blogrubrik beleuchte die Aspekte Ethik, Klimaschutz und Gesundheit'
   slug: vegan
 
-- title: "Tierrechte"
-  description: "Tierrechte sind die Grundlage des Veganismus. In dieser Blogrubrik findet Ihr meine Berichte über Tierrechtsaktivismus sowie immer wieder News zum Thema."
+- title: 'Tierrechte'
+  description: 'Tierrechte sind die Grundlage des Veganismus. In dieser Blogrubrik findet Ihr meine Berichte über Tierrechtsaktivismus sowie immer wieder News zum Thema.'
   slug: tierrechte
   parentId: vegan
 
-- title: "Klima & Umweltschutz"
-  description: "TBD"
+- title: 'Klima & Umweltschutz'
+  description: 'TBD'
   slug: klima-und-umweltschutz
   parentId: vegan
 
-- title: "Ernährung & Gesundheit"
-  description: "In der Rubrik „Ernährung“ dreht sich alles um vegane Ernährung und Gesunheit."
+- title: 'Ernährung & Gesundheit'
+  description: 'In der Rubrik „Ernährung“ dreht sich alles um vegane Ernährung und Gesunheit.'
   slug: ernaehrung-und-gesundheit
   parentId: vegan
 
-- title: "Vegane Rezepte"
-  description: "Kochen und backen mit rein pflanzlichen Zutaten – klingt lecker oder? In dieser Blogrubrik findet Ihr tolle vegane Rezepte."
+- title: 'Vegane Rezepte'
+  description: 'Kochen und backen mit rein pflanzlichen Zutaten – klingt lecker oder? In dieser Blogrubrik findet Ihr tolle vegane Rezepte.'
   slug: vegane-rezepte
   parentId: vegan
 
-- title: "Vegane Lokale"
-  description: "Vegane Lokale sind für mich ganz besondere Orte. Ab und zu schreibe ich einen Bericht über eins, das mir besonders gefällt. Den findet Ihr dann hier."
+- title: 'Vegane Lokale'
+  description: 'Vegane Lokale sind für mich ganz besondere Orte. Ab und zu schreibe ich einen Bericht über eins, das mir besonders gefällt. Den findet Ihr dann hier.'
   slug: vegane-lokale
   parentId: vegan
 
-- title: "Rock ’n‘ Roll"
-  description: "Rock ’n‘ Roll ist ein Lebensgefühl. Unter dieser Hauptrubrik meines Blogs findet Ihr Rezensionen, Interviews und Berichte über Konzerte und Festivals."
+- title: 'Rock ’n‘ Roll'
+  description: 'Rock ’n‘ Roll ist ein Lebensgefühl. Unter dieser Hauptrubrik meines Blogs findet Ihr Rezensionen, Interviews und Berichte über Konzerte und Festivals.'
   slug: musik
 
-- title: "Interviews"
-  description: "Interviews mit Post-Rock Musiker⋆innen und interessanten Persönlichkeiten besonders aus der veganen Szene sind fester Bestandteil meines Blogs."
+- title: 'Interviews'
+  description: 'Interviews mit Post-Rock Musiker⋆innen und interessanten Persönlichkeiten besonders aus der veganen Szene sind fester Bestandteil meines Blogs.'
   slug: interviews
   parentId: musik
 
-
-- title: "Bands"
-  description: "In dieser Blogrubrik stelle ich immer wieder Bands und ihre Musik aus den Genres Post-Rock, Alternative, Indie und Ambient vor. Mitlesen lohnt sich also auf jeden Fall."
+- title: 'Bands'
+  description: 'In dieser Blogrubrik stelle ich immer wieder Bands und ihre Musik aus den Genres Post-Rock, Alternative, Indie und Ambient vor. Mitlesen lohnt sich also auf jeden Fall.'
   slug: bands
   parentId: musik
 
-
-- title: "Festivals"
-  description: "Festivals gehören zu meinem Leben, seit ich denken kann. Auf meiner Homepage habe ich ihnen eine Rubrik gewidmet. Darin lest Ihr meine Artikel zum Thema."
+- title: 'Festivals'
+  description: 'Festivals gehören zu meinem Leben, seit ich denken kann. Auf meiner Homepage habe ich ihnen eine Rubrik gewidmet. Darin lest Ihr meine Artikel zum Thema.'
   slug: festivals
   parentId: musik
 
-
-- title: "Konzerte"
-  description: "Konzerte haben mich schon immer fasziniert. In dieser Blogrubrik findet Ihr Konzertberichte vor allem aus den Genres Post-Rock und Alternative."
+- title: 'Konzerte'
+  description: 'Konzerte haben mich schon immer fasziniert. In dieser Blogrubrik findet Ihr Konzertberichte vor allem aus den Genres Post-Rock und Alternative.'
   slug: konzerte
   parentId: musik
 
-
-- title: "Lifestyle"
-  description: "In der Blogrubrik „Lifestyle“ findet Ihr alle Artikel zu den Themen „Achtsamkeit“, „Feminismus“, „Bücher & Filme“ sowie „Geschichten & Erlebtes“ und DIY."
+- title: 'Lifestyle'
+  description: 'In der Blogrubrik „Lifestyle“ findet Ihr alle Artikel zu den Themen „Achtsamkeit“, „Feminismus“, „Bücher & Filme“ sowie „Geschichten & Erlebtes“ und DIY.'
   slug: lifestyle
 
-- title: "Achtsamkeit"
-  description: "Wie der Name schon sagt, dreht sich in diesem Blogkapitel alles um das Thema „Achtsamkeit“. Hier findet Ihr Ideen, Anregungen und Erfahrungsberichte."
+- title: 'Achtsamkeit'
+  description: 'Wie der Name schon sagt, dreht sich in diesem Blogkapitel alles um das Thema „Achtsamkeit“. Hier findet Ihr Ideen, Anregungen und Erfahrungsberichte.'
   slug: achtsamkeit
   parentId: lifestyle
 
-- title: "Fair Fashion & Beauty"
-  description: "Fair Fashion & Beauty gehören für mich zu einem modernen veganen und nachhaltigen Leben unbedingt dazu. In dieser Blogrubrik findet Ihr alles zu den Themen."
+- title: 'Fair Fashion & Beauty'
+  description: 'Fair Fashion & Beauty gehören für mich zu einem modernen veganen und nachhaltigen Leben unbedingt dazu. In dieser Blogrubrik findet Ihr alles zu den Themen.'
   slug: fair-fashion-und-beauty
   parentId: lifestyle
 
-- title: "Antifaschismus & Feminismus"
-  description: "Antifaschismus und Feminismus sind zwei Themen, die nie zu kurz kommen sollten. Aus diesem Grund habe ich ihnen eine Blogrubrik gewidmet."
+- title: 'Antifaschismus & Feminismus'
+  description: 'Antifaschismus und Feminismus sind zwei Themen, die nie zu kurz kommen sollten. Aus diesem Grund habe ich ihnen eine Blogrubrik gewidmet.'
   slug: antifaschismus-und-feminismus
   parentId: lifestyle
 
-- title: "Bücher & Filme"
-  description: "Bücher und Filme über Veganismus und Nachhaltigkeit und stelle ich am häufigsten vor. Hin und wieder kommen auch Themen wie Antifaschismus und Feminismus dazu."
+- title: 'Bücher & Filme'
+  description: 'Bücher und Filme über Veganismus und Nachhaltigkeit und stelle ich am häufigsten vor. Hin und wieder kommen auch Themen wie Antifaschismus und Feminismus dazu.'
   slug: buecher-und-filme
   parentId: lifestyle
 
-- title: "Geschichten & Erlebtes"
-  description: "Fiktive Geschichten und Erlebnisse haben vieles gemeinsam: Sie können unterhaltsam und den Alltag bunter machen."
+- title: 'Geschichten & Erlebtes'
+  description: 'Fiktive Geschichten und Erlebnisse haben vieles gemeinsam: Sie können unterhaltsam und den Alltag bunter machen.'
   slug: geschichten-und-erlebtes
   parentId: lifestyle
 
-- title: "Klima & Umweltschutz"
-  description: "Klima & Umweltschutz – das Thema, das uns allen in der heutigen Zeit mit Abstand am meisten beschäftigen sollte ist eines der Kernthemen meines Blogs."
+- title: 'Klima & Umweltschutz'
+  description: 'Klima & Umweltschutz – das Thema, das uns allen in der heutigen Zeit mit Abstand am meisten beschäftigen sollte ist eines der Kernthemen meines Blogs.'
   slug: klima-und-umweltschutz
   parentId: lifestyle
 
-- title: "Slow Travel"
-  description: "Slow Travel – Die Kunst des langsamen Reisens ohne viel Gepäck. Dabei soll möglichst ein möglichst kleiner Fußabdruck hinterlassen werden."
+- title: 'Slow Travel'
+  description: 'Slow Travel – Die Kunst des langsamen Reisens ohne viel Gepäck. Dabei soll möglichst ein möglichst kleiner Fußabdruck hinterlassen werden.'
   slug: slow-travel
 
-- title: "Ausflug"
-  description: "Ausflug gefällig? In dieser Blogrubrik findet Ihr jede Menge Tipps und Berichte zum Thema. Vor allem aus der Region Hamburg aber auch aus anderen Ecken."
+- title: 'Ausflug'
+  description: 'Ausflug gefällig? In dieser Blogrubrik findet Ihr jede Menge Tipps und Berichte zum Thema. Vor allem aus der Region Hamburg aber auch aus anderen Ecken.'
   slug: ausflug
   parentId: slow-travel
 
-- title: "Britische Inseln"
-  description: "Die britischen Inseln sind eines meiner allerliebsten Reiseziele. Hier zieht es mich immer wieder hin, um das Land, die Leute und die Festivals zu erleben."
+- title: 'Britische Inseln'
+  description: 'Die britischen Inseln sind eines meiner allerliebsten Reiseziele. Hier zieht es mich immer wieder hin, um das Land, die Leute und die Festivals zu erleben.'
   slug: britische-inseln
   parentId: slow-travel
 
-- title: "Fernweh"
-  description: "Packt Euch auch manchmal das Fernweh? In diesen Momenten greife ich gerne auf diese Blogrubrik zurück und schwelge in Erinnerungen."
+- title: 'Fernweh'
+  description: 'Packt Euch auch manchmal das Fernweh? In diesen Momenten greife ich gerne auf diese Blogrubrik zurück und schwelge in Erinnerungen.'
   slug: fernweh
   parentId: slow-travel
 
-- title: "Hamburg"
-  description: "Hamburg ist für mich zum Heimathafen geworden, zu dem ich immer wieder zurückkehre. Unserer lauten Stadt an der Elbe habe ich diese Blogrubrik gewidmet."
+- title: 'Hamburg'
+  description: 'Hamburg ist für mich zum Heimathafen geworden, zu dem ich immer wieder zurückkehre. Unserer lauten Stadt an der Elbe habe ich diese Blogrubrik gewidmet.'
   slug: hamburg
   parentId: slow-travel
 
-- title: "Skandinavien"
-  description: "Skandinavien fasziniert mich schon seit Kindesbeinen. Seit ich meinen ersten Geburtstag dort verbracht habe, zieht es mich immer wieder in den hohen Norden."
+- title: 'Skandinavien'
+  description: 'Skandinavien fasziniert mich schon seit Kindesbeinen. Seit ich meinen ersten Geburtstag dort verbracht habe, zieht es mich immer wieder in den hohen Norden.'
   slug: skandinavien
   parentId: slow-travel

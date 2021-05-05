@@ -7,11 +7,8 @@ typeName: Artikel
 title: Auf Dich!
 seoTitle: Auf Dich! Danke, dass Du da bist! Du toller Mensch!
 ogTitle: Auf Dich! Danke, dass Du da bist! Du toller Mensch!
-description: Danke, dass Du da bist. Für den Menschen, der Dich am meisten
-  braucht, in diesem Moment. Für die Unterstützung und die Liebe. Prost! Auf
-  Dich!
-excerpt: Danke, dass Du da bist. Für den Menschen, der Dich am meisten braucht,
-  in diesem Moment. Für die Unterstützung und die Liebe. Prost! Auf Dich!
+description: Danke, dass Du da bist. Für den Menschen, der Dich am meisten braucht, in diesem Moment. Für die Unterstützung und die Liebe. Prost! Auf Dich!
+excerpt: Danke, dass Du da bist. Für den Menschen, der Dich am meisten braucht, in diesem Moment. Für die Unterstützung und die Liebe. Prost! Auf Dich!
 fileName: 2017-08---auf-dich.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_Katzentempel__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_Katzentempel__l.jpg
@@ -38,16 +35,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Danke, dass Du da bist!
-  
 ---
 
-Danke, dass Du da bist, für den Menschen, der Dich am meisten braucht in diesem
-Moment. Für die Selbstlosigkeit, den Rückhalt, das Kümmern und die Hilfe. Das
-Auffangen, das Türaufhalten und die Unterstützung. Für das Glas Bier, das Du mit
-mir teilst. Lass es Dir schmecken.
+Danke, dass Du da bist, für den Menschen, der Dich am meisten braucht in diesem Moment. Für die Selbstlosigkeit, den Rückhalt, das Kümmern und die Hilfe. Das Auffangen, das Türaufhalten und die Unterstützung. Für das Glas Bier, das Du mit mir teilst. Lass es Dir schmecken.
 
 Prost! Auf Dich!
 
 Von diesem Text darf sich gerne jede/r angesprochen fühlen
-
-  

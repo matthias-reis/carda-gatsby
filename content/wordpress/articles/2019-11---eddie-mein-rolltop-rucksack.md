@@ -7,10 +7,8 @@ typeName: Artikel
 title: Eddie mein Rolltop-Rucksack
 seoTitle: '"Eddie" - mein neuer Rolltop-Rucksack von Feuerwear'
 ogTitle: '"Eddie" - mein neuer Rolltop-Rucksack von Feuerwear'
-description: Vor Kurzem ist "Eddie" der Rolltop-Rucksack von Feuerwear bei mir
-  eingezogen - für meine Fototouren bringt er einige Vorteile mit.
-excerpt: Werbung - Vor Kurzem ist "Eddie"  der Rolltop-Rucksack von Feuerwear
-  bei mir eingezogen - für meine Fototouren bringt er einige Vorteile mit.
+description: Vor Kurzem ist "Eddie" der Rolltop-Rucksack von Feuerwear bei mir eingezogen - für meine Fototouren bringt er einige Vorteile mit.
+excerpt: Werbung - Vor Kurzem ist "Eddie"  der Rolltop-Rucksack von Feuerwear bei mir eingezogen - für meine Fototouren bringt er einige Vorteile mit.
 fileName: 2019-11---eddie-mein-rolltop-rucksack.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_feuerwear.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_feuerwear.png__l.jpg
@@ -34,80 +32,36 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Fototouren mit Feuerwear
-  
 ---
 
 _Werbung\*_
 
-**Feuerwear kennt Ihr ja von mir schon. Ich schwöre schon lange auf die robusten
-Taschen aus ausgemusterten Feuerwehrschläuchen. Vor Kurzem ist der
-Rolltop-Rucksack "Eddie" bei mir eingezogen - er begleitet mich seitdem auf
-meinen Fototouren.**
+**Feuerwear kennt Ihr ja von mir schon. Ich schwöre schon lange auf die robusten Taschen aus ausgemusterten Feuerwehrschläuchen. Vor Kurzem ist der Rolltop-Rucksack "Eddie" bei mir eingezogen - er begleitet mich seitdem auf meinen Fototouren.**
 
-Meine Wahl fiel zu diesem Zweck auf "Eddie", weil das Modell ein paar ganz
-besondere Vorzüge besitzt, die speziell für meine Ansprüche perfekt sind.
+Meine Wahl fiel zu diesem Zweck auf "Eddie", weil das Modell ein paar ganz besondere Vorzüge besitzt, die speziell für meine Ansprüche perfekt sind.
 
-"Eddie" ist mit  einem seitlichen Reißverschluss ausgestattet. Wenn ich für
-einen Objektivwechsel kurz ans Tascheninnere muss,  fädle ich einfach meinen
-rechten Arm aus dem Gurt aus und kann in ganz einfach nach vorne gleiten lassen.
-Ich wechsle das Objektiv im schützenden Polster des Rucksacks und schließe ihn
-anschließend ganz bequem mit einer Hand wieder.
+"Eddie" ist mit  einem seitlichen Reißverschluss ausgestattet. Wenn ich für einen Objektivwechsel kurz ans Tascheninnere muss,  fädle ich einfach meinen rechten Arm aus dem Gurt aus und kann in ganz einfach nach vorne gleiten lassen. Ich wechsle das Objektiv im schützenden Polster des Rucksacks und schließe ihn anschließend ganz bequem mit einer Hand wieder.
 
 ## Der seitliche Eingriff erleichtert Objektivwechsel
 
-Wenn ich etwas größeres hineinlegen möchten oder fürs initiale Packen vor einer
-Fototour, nutze ich den Rolltop-Verschluss. Dieser ist zusätzlich mit einem
-Reißverschluss gesichert, was ich ziemlich genial finde. So kann man die Rolle
-einfach offen lassen, wenn er (zum Beispiel nach einem Einkauf) mal komplett
-voll ist. "Eddie" wächst so von einem Innenwolumen von 16 Litern auf insgesamt
-23 Liter an.
+Wenn ich etwas größeres hineinlegen möchten oder fürs initiale Packen vor einer Fototour, nutze ich den Rolltop-Verschluss. Dieser ist zusätzlich mit einem Reißverschluss gesichert, was ich ziemlich genial finde. So kann man die Rolle einfach offen lassen, wenn er (zum Beispiel nach einem Einkauf) mal komplett voll ist. "Eddie" wächst so von einem Innenwolumen von 16 Litern auf insgesamt 23 Liter an.
 
-Insgesamt gibt es ziemlich viele praktische Fächer. Ein gepolstertes mit Fleece
-ausgekleidetes Laptopfach innen, ein Schlüsselfach mit Reißverschluss und ein
-Handyfach mit Klettverschluss vorne sowie eins Steckfach für eine große
-1-Liter-Flasche auf der linken Außenseite. Hinzu kommen ein Innenfach für
-Wertsachen, ein großes Hauptfach und ein praktischer Schlüsselfinder im
-Front-Fach.
+Insgesamt gibt es ziemlich viele praktische Fächer. Ein gepolstertes mit Fleece ausgekleidetes Laptopfach innen, ein Schlüsselfach mit Reißverschluss und ein Handyfach mit Klettverschluss vorne sowie eins Steckfach für eine große 1-Liter-Flasche auf der linken Außenseite. Hinzu kommen ein Innenfach für Wertsachen, ein großes Hauptfach und ein praktischer Schlüsselfinder im Front-Fach.
 
 <Gallery name="feuerwear1" />
 
-Das Rolltop kann ich mit einem praktischen Haken in drei Positionen
-verschließen, je nachdem wie voll ich "Eddie" gepackt habe. Auch, wenn ich mal
-mehr mit mir rumschleppe, sitzt der Rucksack sogar auf dem Fahrrad immer bequem.
-Der gepolsterte Rücken ist klasse und die Gurte (aus aussortierten Autogurten)
-drücken kein bisschen.
+Das Rolltop kann ich mit einem praktischen Haken in drei Positionen verschließen, je nachdem wie voll ich "Eddie" gepackt habe. Auch, wenn ich mal mehr mit mir rumschleppe, sitzt der Rucksack sogar auf dem Fahrrad immer bequem. Der gepolsterte Rücken ist klasse und die Gurte (aus aussortierten Autogurten) drücken kein bisschen.
 
 ## Reflektorstreifen und Schlüsselfinder
 
-Weil ich so gerne schwarz trage, habe ich mich auch bei "Eddie" für schwarz
-entschieden. Klasse ist, dass er hinten mit zwei Reflektorstreifen ausgestattet
-ist. So sieht man mich auch in der Dunkelheit.
+Weil ich so gerne schwarz trage, habe ich mich auch bei "Eddie" für schwarz entschieden. Klasse ist, dass er hinten mit zwei Reflektorstreifen ausgestattet ist. So sieht man mich auch in der Dunkelheit.
 
-Wie alle Feuerwear Produkte sind auch die "Eddies" echte Einzelstücke. Das liegt
-daran, dass es jedes Stück Feuerwehrschlauch nur ein einziges Mal gibt. Farbe,
-Beschriftung und Abnutzungsgrad bestimmten das Muster. Im Feuerwear-Onlineshop
-sieht man daher ausschließlich Unikate. Bei meinem "Eddie" steht genau wie
-[meiner Handtasche "Phil"](/2019/09/feuerwear-feminine-kollektion/)  die
-Innenseite des Schlauchs im Mittelpunkt des Designs. Bei den helleren Farben
-(zum Beispiel Rot und Weiß) ist die Außenseite außen zu sehen.
+Wie alle Feuerwear Produkte sind auch die "Eddies" echte Einzelstücke. Das liegt daran, dass es jedes Stück Feuerwehrschlauch nur ein einziges Mal gibt. Farbe, Beschriftung und Abnutzungsgrad bestimmten das Muster. Im Feuerwear-Onlineshop sieht man daher ausschließlich Unikate. Bei meinem "Eddie" steht genau wie [meiner Handtasche "Phil"](/2019/09/feuerwear-feminine-kollektion/)  die Innenseite des Schlauchs im Mittelpunkt des Designs. Bei den helleren Farben (zum Beispiel Rot und Weiß) ist die Außenseite außen zu sehen.
 
-Das Material ist extrem hitzebeständig und reißfest. Schließlich muss es
-Feuerwehreinsätze aushalten. Es kann zum Beispiel auch einen
-Feuerwehr-Einsatzwagen mit 15 Tonnen Gewicht abschleppen. "Eddie" ist daher ganz
-schön stark. Da schubbert sich ganz sicher nichts durch. Wenn man mal in einen
-Regen kommt, macht das auch nichts aus - mein "Eddie" hat den letzten Hamburger
-Wolkenbruch gut überstanden. Meine Objektive sind nicht angelaufen und auch
-sonst ist innen alles schön trocken geblieben.
+Das Material ist extrem hitzebeständig und reißfest. Schließlich muss es Feuerwehreinsätze aushalten. Es kann zum Beispiel auch einen Feuerwehr-Einsatzwagen mit 15 Tonnen Gewicht abschleppen. "Eddie" ist daher ganz schön stark. Da schubbert sich ganz sicher nichts durch. Wenn man mal in einen Regen kommt, macht das auch nichts aus - mein "Eddie" hat den letzten Hamburger Wolkenbruch gut überstanden. Meine Objektive sind nicht angelaufen und auch sonst ist innen alles schön trocken geblieben.
 
 <Gallery name="feuerwear2" />
 
-Wer neugierig geworden ist und selbst einen "Eddie" adoptieren möchte, kann das
-[auf der Homepage](https://www.feuerwear.de/rucksaecke-aus-feuerwehrschlauch/rolltop-rucksack-eddie)
-von Feuerwear tun. Für 189 Euro gehört eines der in liebevoller Handarbeit
-hergestellten Einzelstücke Euch.
+Wer neugierig geworden ist und selbst einen "Eddie" adoptieren möchte, kann das [auf der Homepage](https://www.feuerwear.de/rucksaecke-aus-feuerwehrschlauch/rolltop-rucksack-eddie) von Feuerwear tun. Für 189 Euro gehört eines der in liebevoller Handarbeit hergestellten Einzelstücke Euch.
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
-  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
-  findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
-
-  
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _

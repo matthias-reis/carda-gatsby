@@ -7,12 +7,8 @@ typeName: Galerie
 title: Mutterglück und Morgensonne
 seoTitle: Mutterglück & Morgensonne - Der Wasservogel-Kindergarten vom Vänern
 ogTitle: Mutterglück & Morgensonne - Der Wasservogel-Kindergarten vom Vänern
-description: So sieht perfektes Mutterglück aus, oder? Ein schöner Spaziergang
-  durch die Hood mit den Besten und den lieben Kleinen gefolgt von einem Bad im
-  See.
-excerpt: Ihr habt gedacht, Ihr habt schon alle Fotoserien gesehen, die ich im
-  Juni am Vänern aufgenommen habe? Eine fehlt noch.  Sie zeigt das perfekte
-  Mutterglück.
+description: So sieht perfektes Mutterglück aus, oder? Ein schöner Spaziergang durch die Hood mit den Besten und den lieben Kleinen gefolgt von einem Bad im See.
+excerpt: Ihr habt gedacht, Ihr habt schon alle Fotoserien gesehen, die ich im Juni am Vänern aufgenommen habe? Eine fehlt noch.  Sie zeigt das perfekte Mutterglück.
 fileName: 2018-10---mutterglueck-und-morgensonne.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44950157941_ab64ff0946_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44950157941_ab64ff0946_z__l.jpg
@@ -35,48 +31,24 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Der Wasservogel-Kindergarten vom Vänern
-  
 ---
 
-**Ihr habt gedacht, Ihr habt alle Fotoserien gesehen, die ich diesen Sommer am
-Vänern aufgenommen habe? Weit gefehlt. Eine ganz wichtige fehlt noch. Entstanden
-ist sie am frühen Morgen des 29. Juni 2018.**
+**Ihr habt gedacht, Ihr habt alle Fotoserien gesehen, die ich diesen Sommer am Vänern aufgenommen habe? Weit gefehlt. Eine ganz wichtige fehlt noch. Entstanden ist sie am frühen Morgen des 29. Juni 2018.**
 
-Die Sonne war gerade aufgegangen und in der ganzen Umgebung war alles ruhig. Der
-perfekte Moment, um den Wasservogel-Kindergarten mit der Kamera zu begleiten.
+Die Sonne war gerade aufgegangen und in der ganzen Umgebung war alles ruhig. Der perfekte Moment, um den Wasservogel-Kindergarten mit der Kamera zu begleiten.
 
 ## Perfektes Mutterglück
 
-So sieht perfektes Mutterglück aus, oder? Mit den besten Freundinnen und allen
-lieben Kleinen einen schönen Morgenspaziergang durch die Hood mit anschließender
-Schwimmeinlage. Vielleicht gefolgt von einer
-[schönen Tasse Kaffee](/2017/02/latte-macchiato-muttis/) oder Tee im gemeinsamen
-Lieblingscafé. Zuviel Klischee meint Ihr?  Dann schaut Euch mal die Bilder an.
+So sieht perfektes Mutterglück aus, oder? Mit den besten Freundinnen und allen lieben Kleinen einen schönen Morgenspaziergang durch die Hood mit anschließender Schwimmeinlage. Vielleicht gefolgt von einer [schönen Tasse Kaffee](/2017/02/latte-macchiato-muttis/) oder Tee im gemeinsamen Lieblingscafé. Zuviel Klischee meint Ihr?  Dann schaut Euch mal die Bilder an.
 
-Übrigens ging gleich im Anschluss an das letzte "Klick" meines Auslösers der
-Wecker im Zelt unserer Nachbarn an und ein Hund tollte jubelnd durchs Unterholz.
-So ist das mit den magischen Momenten. Sie sind häufig von kurzer Dauer. Genau
-aus diesem Grund finde ich es schön, dass es mir gelungen ist, einen von ihnen
-zu konservieren.
+Übrigens ging gleich im Anschluss an das letzte "Klick" meines Auslösers der Wecker im Zelt unserer Nachbarn an und ein Hund tollte jubelnd durchs Unterholz. So ist das mit den magischen Momenten. Sie sind häufig von kurzer Dauer. Genau aus diesem Grund finde ich es schön, dass es mir gelungen ist, einen von ihnen zu konservieren.
 
 <Gallery name="flickr/20180628vaenernekuddenentenkindergarten" />
 
-Ihr wollt gerne mehr Bilder vom wunderschönen Vänern sehen? Dann könnt Ihr Euch
-ja mal [Fotoserie I](/2018/09/der-vaenern-am-abend/) und
-[Fotoserie II](/2018/09/der-vaenern-am-morgen/) ansehen.
+Ihr wollt gerne mehr Bilder vom wunderschönen Vänern sehen? Dann könnt Ihr Euch ja mal [Fotoserie I](/2018/09/der-vaenern-am-abend/) und [Fotoserie II](/2018/09/der-vaenern-am-morgen/) ansehen.
 
-Aber
-[keine Panik](/2016/05/international-towel-day-einmal-im-jahr-ist-handtuchtag/).
-Auch danach geht es natürlich bunt weiter hier im Blog. Wenn Euch in der
-Zwischenzeit langweilig wird, könnt Ihr gerne
-[meine bisher größte Reisereportage](/tag/irland2017/) anschauen. Darin dreht
-sich alles um die grüne Insel Irland.
+Aber [keine Panik](/2016/05/international-towel-day-einmal-im-jahr-ist-handtuchtag/). Auch danach geht es natürlich bunt weiter hier im Blog. Wenn Euch in der Zwischenzeit langweilig wird, könnt Ihr gerne [meine bisher größte Reisereportage](/tag/irland2017/) anschauen. Darin dreht sich alles um die grüne Insel Irland.
 
-Neben der Reiserubrik findet Ihr auf meiner Seite auch Themen wie
-Nachhaltigkeit, veganes Leben, Musik und Hamburg. Lasst Euch überraschen. Ich
-freue mich auf Euch!
+Neben der Reiserubrik findet Ihr auf meiner Seite auch Themen wie Nachhaltigkeit, veganes Leben, Musik und Hamburg. Lasst Euch überraschen. Ich freue mich auf Euch!
 
-Last, but not least: Für alle, die Wasservögel mögen, habe ich noch
-[eine schöne Bilderstrecke, die vor zwei Jahren in Helsinki entstanden ist](/2016/08/gaense-helsinki/).
-
-  
+Last, but not least: Für alle, die Wasservögel mögen, habe ich noch [eine schöne Bilderstrecke, die vor zwei Jahren in Helsinki entstanden ist](/2016/08/gaense-helsinki/).

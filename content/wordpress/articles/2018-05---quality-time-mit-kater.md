@@ -7,12 +7,8 @@ typeName: Galerie
 title: Quality Time mit Kater
 seoTitle: Quality Time - Zeit für ein paar Minuten Ruhe
 ogTitle: Quality Time - Zeit für ein paar Minuten Ruhe
-description: Kater Oskar genießt seine Quality Time sichtlich. Er findet es
-  besonders gut, wenn zwischendurch mal Ruhe einkehrt und er die volle
-  Aufmerksamkeit bekommt.
-excerpt: Kater Oskar genießt seine Quality Time sichtlich. Er findet es
-  besonders gut, wenn zwischendurch mal Ruhe einkehrt und er die volle
-  Aufmerksamkeit bekommt.
+description: Kater Oskar genießt seine Quality Time sichtlich. Er findet es besonders gut, wenn zwischendurch mal Ruhe einkehrt und er die volle Aufmerksamkeit bekommt.
+excerpt: Kater Oskar genießt seine Quality Time sichtlich. Er findet es besonders gut, wenn zwischendurch mal Ruhe einkehrt und er die volle Aufmerksamkeit bekommt.
 fileName: 2018-05---quality-time-mit-kater.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_40933144375_28925c2e59_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_40933144375_28925c2e59_z__l.jpg
@@ -34,23 +30,14 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Zeit für Bilder
-  
 ---
 
-**Manchmal hat man diese paar Minuten, in denen man gar nichts machen muss. Man
-sitzt einfach nur da und die Sonne scheint durch das Fenster.**
+**Manchmal hat man diese paar Minuten, in denen man gar nichts machen muss. Man sitzt einfach nur da und die Sonne scheint durch das Fenster.**
 
-Besonders schön ist es, wenn man zwei fellige Mitbewohner hat, von denen einer
-just in diesem Moment seinen großen Auftritt auf das Parkett (bzw. auf sein
-Sofadeckchen) legt.
+Besonders schön ist es, wenn man zwei fellige Mitbewohner hat, von denen einer just in diesem Moment seinen großen Auftritt auf das Parkett (bzw. auf sein Sofadeckchen) legt.
 
-Oskar liebt es, wenn man Zeit mit ihm verbringt und wenn man ihm dann noch die
-volle Aufmerksamkeit schenkt, blüht er regelrecht auf. Zeit für ein paar Fotos
-also.
+Oskar liebt es, wenn man Zeit mit ihm verbringt und wenn man ihm dann noch die volle Aufmerksamkeit schenkt, blüht er regelrecht auf. Zeit für ein paar Fotos also.
 
-So geschehen vor ein paar Tagen in unserem Wohnzimmer. Die Quality Time hat das
-Katerchen sichtlich genossen.
+So geschehen vor ein paar Tagen in unserem Wohnzimmer. Die Quality Time hat das Katerchen sichtlich genossen.
 
 <Gallery name="flickr/oskaranneolympusapril2018" />
-
-  

@@ -8,8 +8,7 @@ title: Calexico live @ Southside Festival 2008
 seoTitle: Calexico live @ Southside Festival 2008
 ogTitle: Calexico live @ Southside Festival 2008
 description: Hier sind meine Eindrücke vom Calexico-Konzert auf dem Southside Festival 2008
-excerpt: Anlässlich der neuen Platte und des tollen Konzerts gestern in der
-  Großen Freiheit, gibt es gleich drei Nostalgie-Konzert-Beiträge von mir.
+excerpt: Anlässlich der neuen Platte und des tollen Konzerts gestern in der Großen Freiheit, gibt es gleich drei Nostalgie-Konzert-Beiträge von mir.
 fileName: 2015-04---calexico-live-southside-festival-2008.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_04_9824513413_78202b5397_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_04_9824513413_78202b5397_z__l.jpg
@@ -25,15 +24,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Bildergalerie
-  
 ---
 
-**Anlässlich der [neuen Platte](/2015/04/calexico-edge-of-the-sun-ist-da/) und
-des tollen Konzerts gestern in der Großen Freiheit, gibt es gleich drei
-Nostalgie-Konzert-Beiträge von mir. Hier ist Beitrag Nummer 3, zum ersten geht
-es [hier entlang](/2015/04/calexico-live-open-air-dachau-25-07-2007/), zum
-zweiten [hier entlang](/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/).
-**
+**Anlässlich der [neuen Platte](/2015/04/calexico-edge-of-the-sun-ist-da/) und des tollen Konzerts gestern in der Großen Freiheit, gibt es gleich drei Nostalgie-Konzert-Beiträge von mir. Hier ist Beitrag Nummer 3, zum ersten geht es [hier entlang](/2015/04/calexico-live-open-air-dachau-25-07-2007/), zum zweiten [hier entlang](/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/). **
 
 Gezeigt werden die Fotos vom Calexico-Auftritt auf dem Southside Festival 2008
 
@@ -56,5 +49,3 @@ Gezeigt werden die Fotos vom Calexico-Auftritt auf dem Southside Festival 2008
 [Homepage](http://www.casadecalexico.com) Calexico
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
-
-  

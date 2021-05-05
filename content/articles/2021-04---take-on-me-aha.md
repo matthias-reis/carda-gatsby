@@ -6,33 +6,28 @@ typeName: Beitrag
 title: Musikalisches Blind Date
 subTitle: a-ha – "Take On Me"
 seoTitle: a-ha – "Take On Me" – Das musikalische Blogger Blind Date
-description: Heute findet das inzwischen achte musikalische Blogger Blind Date statt.
-  Natürlich wollte ich es mir nicht entgehen lassen, auch dieses Mal wieder teilzunehmen.
-  Die Musikwahl fiel dieses Mal auf den Song "Take On Me" von a-ha.
-image: "/img/design-ohne-titel.jpg"
-ogImage: "/img/take-on-me-fb.png"
+description: Heute findet das inzwischen achte musikalische Blogger Blind Date statt. Natürlich wollte ich es mir nicht entgehen lassen, auch dieses Mal wieder teilzunehmen. Die Musikwahl fiel dieses Mal auf den Song "Take On Me" von a-ha.
+image: '/img/design-ohne-titel.jpg'
+ogImage: '/img/take-on-me-fb.png'
 labels:
-- 'serie: Musikalisches Blind Date'
-- a-ha
-- Blogger Blind Date
-- Take On Me
-- Song
-- Kindheit
-- '1982'
+  - 'serie: Musikalisches Blind Date'
+  - a-ha
+  - Blogger Blind Date
+  - Take On Me
+  - Song
+  - Kindheit
+  - '1982'
 focusKeyword: Take On Me
 advertisement: false
 affiliate: false
 language: de
-
 ---
-**Heute findet das inzwischen achte musikalische Blogger Blind Date statt.
-Natürlich wollte ich es mir nicht entgehen lassen, auch dieses Mal wieder
-teilzunehmen. Die Musikwahl fiel dieses Mal auf den Song "Take On Me" von
-a-ha.**
+
+**Heute findet das inzwischen achte musikalische Blogger Blind Date statt. Natürlich wollte ich es mir nicht entgehen lassen, auch dieses Mal wieder teilzunehmen. Die Musikwahl fiel dieses Mal auf den Song "Take On Me" von a-ha.**
 
 Für diejenigen unter Euch, die es noch nicht kennen: Beim musikalischen Blogger Blind Date verabreden sich Blogger⋆innen, um zu einem vorher verabredeten Zeitpunkt frei zu einem Song zu schreiben. Dabei entstehen ganz unterschiedliche Geschichten. Denn: Niemand weiß, was die anderen schreiben. Alle drücken gleichzeitig auf "veröffentlichen" und dann geht der Spaß so richtig los: Alle schmökern sich genüsslich durch die Geschichten und tauchen in die Welt ihrer Blogger-Kolleg⋆innen ein.
 
-***
+---
 
 Es ist also wieder so weit. Bei der demokratischen Abstimmung fiel die Wahl dieses Mal auf einen für mich nicht ganz einfachen Song. Verknüpft mit dem vorgegebenen Thema "Kindheits-Erinnerungen", das ich nicht unbedingt mit dem Song verbinde – obwohl ich ihn in meiner Kindheit sicher sehr oft gehört habe.
 
@@ -76,5 +71,4 @@ Weil ich in meiner Kindheit leidenschaftlich gerne Erdbeeren geerntet und gegess
 
 <YouTube id="-xKM3mGt2pE" />
 
-Beim Blogger Blinddate sind dieses Mal
-dabei: [Beetkultur](https://www.beetkultur.de/), [Der Hagenberg](https://www.derhagenberg.de/), [thebohoshack](https://thebohoshack.de/), Rock ’n‘ Roll vegan, [Garteninspektor](https://www.garteninspektor.com/), [Faun & Farn](https://faunundfarn.de/), [Gartenbaukunst](https://gartenbaukunst.net/), [Laubenhausmädchen](https://laubenhausmaedchen.de/), [Ein Stück Arbeit](https://einstueckarbeit.de/), [WirGartenkinder](https://wirgartenkinder.de/) und [Berlingarten](https://www.berlingarten.de/).
+Beim Blogger Blinddate sind dieses Mal dabei: [Beetkultur](https://www.beetkultur.de/), [Der Hagenberg](https://www.derhagenberg.de/), [thebohoshack](https://thebohoshack.de/), Rock ’n‘ Roll vegan, [Garteninspektor](https://www.garteninspektor.com/), [Faun & Farn](https://faunundfarn.de/), [Gartenbaukunst](https://gartenbaukunst.net/), [Laubenhausmädchen](https://laubenhausmaedchen.de/), [Ein Stück Arbeit](https://einstueckarbeit.de/), [WirGartenkinder](https://wirgartenkinder.de/) und [Berlingarten](https://www.berlingarten.de/).

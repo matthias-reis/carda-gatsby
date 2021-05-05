@@ -7,12 +7,8 @@ typeName: Artikel
 title: '"The End Of Medicine"'
 seoTitle: '"The End Of Medicine" - Neuer Film von Rooney Mara & Joaquin Phoenix'
 ogTitle: '"The End Of Medicine" - Neuer Film von Rooney Mara & Joaquin Phoenix'
-description: Das vegane Hollywood-Paar Joaquin Phoenix und Rooney Mara arbeitet
-  derzeit an einem neuen Film zum Thema Massentierhaltung. Die Regie führt Alex
-  Lockwood.
-excerpt: Das vegane Hollywood-Paar Joaquin Phoenix und Rooney Mara arbeitet
-  derzeit an einem neuen Film zum Thema Massentierhaltung. Die Regie führt Alex
-  Lockwood.
+description: Das vegane Hollywood-Paar Joaquin Phoenix und Rooney Mara arbeitet derzeit an einem neuen Film zum Thema Massentierhaltung. Die Regie führt Alex Lockwood.
+excerpt: Das vegane Hollywood-Paar Joaquin Phoenix und Rooney Mara arbeitet derzeit an einem neuen Film zum Thema Massentierhaltung. Die Regie führt Alex Lockwood.
 fileName: 2020-08---the-end-of-medicine.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_rooney-mara-joaquin-phoenix__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_rooney-mara-joaquin-phoenix__l.jpg
@@ -37,71 +33,37 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Neuer Tierrechts-Film von Rooney Mara und Joaquin Phoenix
-  
 ---
 
-**Das vegane Hollywood-Paar Joaquin Phoenix und Rooney Mara arbeitet derzeit an
-einem neuen Film zum Thema Massentierhaltung. Die Regie führt Alex Lockwood, der
-unter anderem durch seinen dokumentarischen Kurzfilm "73 Cows" bekannt wurde.
-Ihm wurde dafür der BAFTA Award für den besten Kurzfilm verliehen.**
+**Das vegane Hollywood-Paar Joaquin Phoenix und Rooney Mara arbeitet derzeit an einem neuen Film zum Thema Massentierhaltung. Die Regie führt Alex Lockwood, der unter anderem durch seinen dokumentarischen Kurzfilm "73 Cows" bekannt wurde. Ihm wurde dafür der BAFTA Award für den besten Kurzfilm verliehen.**
 
-"The End Of Medicine" soll über Zoonosen, sprich Krankheiten, die vom Tier auf
-den Menschen übertragen werden, aufklären. Unter anderem zählt dazu auch
-COVID-19. Für den Menschen stellen diese Krankheiten eine Gefahr dar, die
-zahlreiche Wissenschaftlern für gefährlicher halten, als die Klimakatastrophe.
+"The End Of Medicine" soll über Zoonosen, sprich Krankheiten, die vom Tier auf den Menschen übertragen werden, aufklären. Unter anderem zählt dazu auch COVID-19. Für den Menschen stellen diese Krankheiten eine Gefahr dar, die zahlreiche Wissenschaftlern für gefährlicher halten, als die Klimakatastrophe.
 
-Joaquin und Rooney leiten die Produktion des Films. Produzent und Autor ist
-"[Cowspiracy](/2020/04/cowspiracy-vegane-doku/)" Regisseur Keegan Kuhn. Das Paar
-hofft, dass "The End Of Medicine" den Menschen die Augen offnen wird. Sie
-erhoffen sich, dass durch ihre Dokumentation mehr Menschen dazu bereit sind,
-ihre Gewohnheiten zu ändern.
+Joaquin und Rooney leiten die Produktion des Films. Produzent und Autor ist "[Cowspiracy](/2020/04/cowspiracy-vegane-doku/)" Regisseur Keegan Kuhn. Das Paar hofft, dass "The End Of Medicine" den Menschen die Augen offnen wird. Sie erhoffen sich, dass durch ihre Dokumentation mehr Menschen dazu bereit sind, ihre Gewohnheiten zu ändern.
 
 ## "The End Of Medicine" zeigt, wie moderne Tierhaltung uns krank macht
 
-Bei der Vorstellung ihres Projekts betonten die beiden Schauspieler, dass die
-Forschungsergebnisse unwiderlegbar sind.
+Bei der Vorstellung ihres Projekts betonten die beiden Schauspieler, dass die Forschungsergebnisse unwiderlegbar sind.
 
-> "Die moderne Tierhaltung wird uns weiter krank machen, wenn wir unser
-> Konsummuster nicht radikal ändern."
+> "Die moderne Tierhaltung wird uns weiter krank machen, wenn wir unser Konsummuster nicht radikal ändern."
 
 lautet eines ihrer Statements zur Doku.
 
-Dem Paar ist es außerdem wichtig, darauf aufmerksam zu machen, dass sich das
-Problem nicht auf einzelne Länder beschränkt. In einem Gespräch mit der
-Washington Post im April betonten die beiden, dass China nicht das einzige Land
-ist, in dem es Märkte gibt, auf denen lebendige Tiere verkauft werden und dass
-von der modernen Massentierhaltung eine noch weitaus größere Gefahr ausgeht.
+Dem Paar ist es außerdem wichtig, darauf aufmerksam zu machen, dass sich das Problem nicht auf einzelne Länder beschränkt. In einem Gespräch mit der Washington Post im April betonten die beiden, dass China nicht das einzige Land ist, in dem es Märkte gibt, auf denen lebendige Tiere verkauft werden und dass von der modernen Massentierhaltung eine noch weitaus größere Gefahr ausgeht.
 
 ## Drehstart vor Corona
 
-Der Dreh der Dokumentation startete im Oktober 2019. Zu diesem Zeitpunkt war
-COVID-19 noch kein Thema. Der Film enthält unter anderem Interviews mit einigen
-der weltweit führenden Wissenschaftler⋆innen. Ihre Forschungen und Aussagen
-kommen alle zu dem Schluss, dass der Gesundheitsnotstand, mit dem wir uns
-derzeit konfrontiert sehen, unvermeidbar war und noch lange nicht vorbei ist.
+Der Dreh der Dokumentation startete im Oktober 2019. Zu diesem Zeitpunkt war COVID-19 noch kein Thema. Der Film enthält unter anderem Interviews mit einigen der weltweit führenden Wissenschaftler⋆innen. Ihre Forschungen und Aussagen kommen alle zu dem Schluss, dass der Gesundheitsnotstand, mit dem wir uns derzeit konfrontiert sehen, unvermeidbar war und noch lange nicht vorbei ist.
 
-> "Wir werden uns langsam der Bedrohung bewusst, die von Zoonosen ausgeht. Aber
-> unsere Regierungen und die Mainstream-Medien konzentrieren sich nach wie vor
-> auf das Löschen kleiner Brände, anstatt endlich mit der Prävention zu
-> beginnen"
+> "Wir werden uns langsam der Bedrohung bewusst, die von Zoonosen ausgeht. Aber unsere Regierungen und die Mainstream-Medien konzentrieren sich nach wie vor auf das Löschen kleiner Brände, anstatt endlich mit der Prävention zu beginnen"
 
-sagten Rooney Mara und [Joaquin Phoenix](/2020/02/joaquin-phoenix-oscar/) in
-ihrem gemeinsamen Statement gegenüber der Presse. Sie hoffen, den Schleier
-endlich lüften zu können, und das Thema in den öffentlichen Fokus zu rücken.
+sagten Rooney Mara und [Joaquin Phoenix](/2020/02/joaquin-phoenix-oscar/) in ihrem gemeinsamen Statement gegenüber der Presse. Sie hoffen, den Schleier endlich lüften zu können, und das Thema in den öffentlichen Fokus zu rücken.
 
 ## Weiterlesen
 
 - [Hier erfahrt Ihr, wie Joaquin Phoenix mit seiner Stimme mein Leben verändert hat](/2020/07/earthlings/)
 - [Joaquin Phoenix spricht sich in seiner Oscar Rede für mehr Empathie aus](/2020/02/joaquin-phoenix-oscar/)
 
-Quellen/Sources:
-[Live Kindly](https://www.livekindly.co/joaquin-phoenix-rooney-mara-factory-farms-film/),
-[deadline.com](https://deadline.com/2020/07/rooney-mara-joaquin-phoenix-to-exec-produce-documentary-1202999911/),
-[Washington Post](https://www.washingtonpost.com/gdpr-consent/?next_url=https%3a%2f%2fwww.washingtonpost.com%2foutlook%2f2020%2f04%2f21%2fmara-phoenix-wet-market-animal-cruelty%2f)
+Quellen/Sources: [Live Kindly](https://www.livekindly.co/joaquin-phoenix-rooney-mara-factory-farms-film/), [deadline.com](https://deadline.com/2020/07/rooney-mara-joaquin-phoenix-to-exec-produce-documentary-1202999911/), [Washington Post](https://www.washingtonpost.com/gdpr-consent/?next_url=https%3a%2f%2fwww.washingtonpost.com%2foutlook%2f2020%2f04%2f21%2fmara-phoenix-wet-market-animal-cruelty%2f)
 
-Bilder/Pictures Rooney Mara:
-[By Leod23 - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=54413972),
-Joaquin Phoenix:
-[By Harald Krichel - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=86815006)
-
-  
+Bilder/Pictures Rooney Mara: [By Leod23 - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=54413972), Joaquin Phoenix: [By Harald Krichel - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=86815006)

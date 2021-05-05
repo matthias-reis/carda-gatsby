@@ -7,11 +7,8 @@ typeName: Artikel
 title: DIY Upcycling Armstulpen
 seoTitle: DIY Upcycling Armstulpen
 ogTitle: DIY Upcycling Armstulpen
-description: Wie versprochen zeige ich Euch heute, wie Ihr mit ganz wenig
-  Aufwand ein paar tolle Armstulpen herstellen könnt
-excerpt: Vor Kurzem hatte ich hier die Anleitung für einen hübschen Loopschal
-  mit Euch geteilt und Euch versprochen, dass es dazu auch noch Stulpen geben
-  würde.
+description: Wie versprochen zeige ich Euch heute, wie Ihr mit ganz wenig Aufwand ein paar tolle Armstulpen herstellen könnt
+excerpt: Vor Kurzem hatte ich hier die Anleitung für einen hübschen Loopschal mit Euch geteilt und Euch versprochen, dass es dazu auch noch Stulpen geben würde.
 fileName: 2015-11---diy-upcycling-armstulpen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22800073310_64a2c90b4c_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22800073310_64a2c90b4c_z__l.jpg
@@ -31,28 +28,24 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Strick mit bunten Manschetten
-  
 ---
 
-<RemoteImage alt={`Meine neuen Armstulpen`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22800084930_be52abda5f_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22800084930_be52abda5f_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAGBf/EACwQAAIBBAAEBQIHAAAAAAAAAAECAwAEBRESEyExBgcUQVEjgRUiMmFxkfD/xAAXAQADAQAAAAAAAAAAAAAAAAADBQYE/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAAwQRExQh8HH/2gAMAwEAAhEDEQA/AOVgMVD6czXBVIkTiZ3Ogq99k1pY8ElzYxXEKs0ctus6cS8JKMSFYg9tkUbZfxXLHJLjUubaC1WPlTc2JXZ27kji2BogD7Gth4R8fXc13Z2+auI8jaTXMCrNAoVk0Cqh9fqQMwOh16d/apzp2MvI0re1UG41Pv337OZkcO8ci/lI2N9OtVbzOWYFwvCAe/uKqyrcdQxrB9gDbTwT5O5uo4mjjlkJU99D4I/3ekDy4wcD5T8a5ipbwt9NF1qSX5I9tAj76+KIcTfcoKCQNUj+X+ct4fX28zN9XhmUhugI6H999R/VPslWTHISTmKyWZILxQymUhin0xXWunCd1UbZfKtLdFopdL/NVJlxtjZj83gHU//Z"
+<RemoteImage
+  alt={`Meine neuen Armstulpen`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22800084930_be52abda5f_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22800084930_be52abda5f_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAGBf/EACwQAAIBBAAEBQIHAAAAAAAAAAECAwAEBRESEyExBgcUQVEjgRUiMmFxkfD/xAAXAQADAQAAAAAAAAAAAAAAAAADBQYE/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAAwQRExQh8HH/2gAMAwEAAhEDEQA/AOVgMVD6czXBVIkTiZ3Ogq99k1pY8ElzYxXEKs0ctus6cS8JKMSFYg9tkUbZfxXLHJLjUubaC1WPlTc2JXZ27kji2BogD7Gth4R8fXc13Z2+auI8jaTXMCrNAoVk0Cqh9fqQMwOh16d/apzp2MvI0re1UG41Pv337OZkcO8ci/lI2N9OtVbzOWYFwvCAe/uKqyrcdQxrB9gDbTwT5O5uo4mjjlkJU99D4I/3ekDy4wcD5T8a5ipbwt9NF1qSX5I9tAj76+KIcTfcoKCQNUj+X+ct4fX28zN9XhmUhugI6H999R/VPslWTHISTmKyWZILxQymUhin0xXWunCd1UbZfKtLdFopdL/NVJlxtjZj83gHU//Z"
 />
 
-**Vor Kurzem hatte ich hier die Anleitung für einen hübschen Loopschal mit Euch
-geteilt und Euch versprochen, dass es dazu auch noch Stulpen geben würde.
-Hiermit löse ich das Versprechen ein.**
+**Vor Kurzem hatte ich hier die Anleitung für einen hübschen Loopschal mit Euch geteilt und Euch versprochen, dass es dazu auch noch Stulpen geben würde. Hiermit löse ich das Versprechen ein.**
 
-Denn schließlich ist ein warmer Puls am allerwichtigsten, wenn es draußen kalt
-und zugig wird. Mit dieser Methode könnt Ihr übrigens auch all Eure abgetragenen
-Sweatshirts aufwerten oder auch mal Ärmel verlängern, wenn Euch was im Trockner
-eingegangen ist.
+Denn schließlich ist ein warmer Puls am allerwichtigsten, wenn es draußen kalt und zugig wird. Mit dieser Methode könnt Ihr übrigens auch all Eure abgetragenen Sweatshirts aufwerten oder auch mal Ärmel verlängern, wenn Euch was im Trockner eingegangen ist.
 
 ## Das braucht Ihr:
 
-- Den Rest der Strickjacke aus dem
-  [Projekt Upcycling Loopschal](/2015/11/diy-upcycling-loopschal/)
+- Den Rest der Strickjacke aus dem [Projekt Upcycling Loopschal](/2015/11/diy-upcycling-loopschal/)
 - Den Rest Stoff aus dem Projekt DIY Upcycling Loopschal
 - Passendes Nähgarn
 - Stecknadeln
@@ -64,43 +57,71 @@ _Hinweis: Für alle Nähte gilt: Bitte sauber verriegeln!_
 
 ## So entstehen Eure brandneuen Armstulpen
 
-Schneidet die Ärmel ungefähr in der Mitte ab. Die obere Kante stülpt Ihr zwei
-Mal ca. 1 cm breit um und näht sie mit zwei parallelen Steppnähten rundherum
-fest.
+Schneidet die Ärmel ungefähr in der Mitte ab. Die obere Kante stülpt Ihr zwei Mal ca. 1 cm breit um und näht sie mit zwei parallelen Steppnähten rundherum fest.
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22366879613_009dd9daf6_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22366879613_009dd9daf6_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22999181331_04cd403487_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22999181331_04cd403487_z__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_11_22366879613_009dd9daf6_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_11_22366879613_009dd9daf6_z__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_11_22999181331_04cd403487_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_11_22999181331_04cd403487_z__l.jpg',
+    },
+  ]}
 />
 
-Anschließend messt Ihr mit dem Maßband den inneren Umfang der Ärmelbündchen aus.
-Aus der Zahl ergibt sich die Länge Eurer Manschetten. Hinzu kommen noch 2 cm für
-die Nahtzugabe.
+Anschließend messt Ihr mit dem Maßband den inneren Umfang der Ärmelbündchen aus. Aus der Zahl ergibt sich die Länge Eurer Manschetten. Hinzu kommen noch 2 cm für die Nahtzugabe.
 
-Beispiel: Bei 24 cm schneidet Ihr zwei Rechtecke in der Länge 26 x 7 cm aus. Die
-Breite beträgt in jedem Fall 7 cm, auch wenn Eure Bündchen schmaler oder breiter
-sind.
+Beispiel: Bei 24 cm schneidet Ihr zwei Rechtecke in der Länge 26 x 7 cm aus. Die Breite beträgt in jedem Fall 7 cm, auch wenn Eure Bündchen schmaler oder breiter sind.
 
-Faltet die beiden Rechtecke in der Mitte, sodass sie rechts auf rechts liegen
-und näht mit der Nähmaschine die kurzen Seiten zusammen. Näht zunächst mit einer
-mittleren Steppnaht füßchenbreit und anschließend mit einer Zickzack-Naht
-entlang des Saums, damit hinterher nichts aufgeht.
+Faltet die beiden Rechtecke in der Mitte, sodass sie rechts auf rechts liegen und näht mit der Nähmaschine die kurzen Seiten zusammen. Näht zunächst mit einer mittleren Steppnaht füßchenbreit und anschließend mit einer Zickzack-Naht entlang des Saums, damit hinterher nichts aufgeht.
 
-Die so entstandenen Manschetten legt Ihr nun links auf links und näht die Kanten
-zusammen. Steckt sie mit den Stecknadeln sauber Naht auf Naht in die
-Ärmelbündchen, sie sollten ungefähr 2,5 bis 3 cm daraus hervorschauen. Steppt
-sie mit der Nähmaschine einmal knappkantig und einmal entlang der oberen Kante
-rundherum fest. Dazu könnt Ihr die Stulpen auf links drehen, so tut Ihr Euch
-leichter.
+Die so entstandenen Manschetten legt Ihr nun links auf links und näht die Kanten zusammen. Steckt sie mit den Stecknadeln sauber Naht auf Naht in die Ärmelbündchen, sie sollten ungefähr 2,5 bis 3 cm daraus hervorschauen. Steppt sie mit der Nähmaschine einmal knappkantig und einmal entlang der oberen Kante rundherum fest. Dazu könnt Ihr die Stulpen auf links drehen, so tut Ihr Euch leichter.
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22595905739_78c3099f01_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22595905739_78c3099f01_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22974662532_51b909728a_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22974662532_51b909728a_z__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_11_22595905739_78c3099f01_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_11_22595905739_78c3099f01_z__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_11_22974662532_51b909728a_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_11_22974662532_51b909728a_z__l.jpg',
+    },
+  ]}
 />
 
-Fertig sind Eure neuen Armstulpen passend zum
-[winterlichen Loopschal](/2015/11/diy-upcycling-loopschal/). &lt;3
+Fertig sind Eure neuen Armstulpen passend zum [winterlichen Loopschal](/2015/11/diy-upcycling-loopschal/). &lt;3
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22800084930_be52abda5f_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22800084930_be52abda5f_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22800073310_64a2c90b4c_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22800073310_64a2c90b4c_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22999231331_aff24386dd_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22999231331_aff24386dd_z__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_11_22800084930_be52abda5f_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_11_22800084930_be52abda5f_z__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_11_22800073310_64a2c90b4c_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_11_22800073310_64a2c90b4c_z__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_11_22999231331_aff24386dd_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_11_22999231331_aff24386dd_z__l.jpg',
+    },
+  ]}
 />
-
-  

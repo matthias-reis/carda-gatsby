@@ -7,11 +7,8 @@ typeName: Konzertbericht
 title: Blackmail live in der Kantine Augsburg
 seoTitle: Blackmail live in der Kantine Augsburg - Konzertbericht
 ogTitle: Blackmail live in der Kantine Augsburg - Konzertbericht
-description: "Mittwoch, 10.12.2008: Die Koblenzer Indie-Band Blackmail rockte an
-  diesem Abend die Kantine. Alle waren guter Stimmung, als die Band die Bühne
-  betrat."
-excerpt: "Mittwoch, 10.12.2008: Die Koblenzer Indie-Band Blackmail rockte an
-  diesem Abend die Kantine."
+description: 'Mittwoch, 10.12.2008: Die Koblenzer Indie-Band Blackmail rockte an diesem Abend die Kantine. Alle waren guter Stimmung, als die Band die Bühne betrat.'
+excerpt: 'Mittwoch, 10.12.2008: Die Koblenzer Indie-Band Blackmail rockte an diesem Abend die Kantine.'
 fileName: 2008-12---blackmail-live-in-der-kantine-augsburg.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2008_12_PC100012__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2008_12_PC100012__l.jpg
@@ -34,24 +31,14 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Aktuelle Songs und alte Hits
-  
 ---
 
-**Mittwoch, 10.12.2008: Die Koblenzer Indie-Band Blackmail rockte an diesem
-Abend die Kantine. Alle waren guter Stimmung, als die Band die Bühne betrat.**
+**Mittwoch, 10.12.2008: Die Koblenzer Indie-Band Blackmail rockte an diesem Abend die Kantine. Alle waren guter Stimmung, als die Band die Bühne betrat.**
 
-Sänger Aydo Abay, Schlagzeuger Mario Matthias, Gitarrist Kurt Ebelhäuser und
-Bassist Carlos Ebelhäuser lieferten eine tolle Show ab! Es gab nicht nur Songs
-vom aktuellen Album zu hören, sondern auch "alte Hits" wie "Same Sane" von der
-"Bliss Please"-LP, mit der den Jungs 2001 endgültig der Durchbruch gelungen ist.
-Als Support brachte die dänische Newcomerband "The River Phoenix"  das Publikum
-ordentlich in Schwung.
+Sänger Aydo Abay, Schlagzeuger Mario Matthias, Gitarrist Kurt Ebelhäuser und Bassist Carlos Ebelhäuser lieferten eine tolle Show ab! Es gab nicht nur Songs vom aktuellen Album zu hören, sondern auch "alte Hits" wie "Same Sane" von der "Bliss Please"-LP, mit der den Jungs 2001 endgültig der Durchbruch gelungen ist. Als Support brachte die dänische Newcomerband "The River Phoenix"  das Publikum ordentlich in Schwung.
 
 ## **Blackmail Alben**
 
-"Tempo Tempo" (2008) Arial View (2006) Friend Or Foe? (2003) Bliss Please (2001)
-Science Fiction (1999) Blackmail (1997)
+"Tempo Tempo" (2008) Arial View (2006) Friend Or Foe? (2003) Bliss Please (2001) Science Fiction (1999) Blackmail (1997)
 
 undefined
-
-  

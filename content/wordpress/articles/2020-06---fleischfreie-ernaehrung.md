@@ -7,12 +7,8 @@ typeName: Artikel
 title: Fleischfreie Ernährung
 seoTitle: Fleischfreie Ernährung - neuer Unterricht in Neuseelands Schulen
 ogTitle: Fleischfreie Ernährung - neuer Unterricht in Neuseelands Schulen
-description: Fleischfreie Ernährung und Klimaschutz steht jetzt in Neuseelands
-  Sekundarschulen fest auf dem Stundenplan. Die Initiative ist Teil eines neuen
-  Programms.
-excerpt: Fleischfreie Ernährung und Klimaschutz steht jetzt in Neuseelands
-  Sekundarschulen fest auf dem Stundenplan. Die Initiative ist Teil eines neuen
-  Programms.
+description: Fleischfreie Ernährung und Klimaschutz steht jetzt in Neuseelands Sekundarschulen fest auf dem Stundenplan. Die Initiative ist Teil eines neuen Programms.
+excerpt: Fleischfreie Ernährung und Klimaschutz steht jetzt in Neuseelands Sekundarschulen fest auf dem Stundenplan. Die Initiative ist Teil eines neuen Programms.
 fileName: 2020-06---fleischfreie-ernaehrung.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_fleischfreie-ernaehrung__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_fleischfreie-ernaehrung__l.jpg
@@ -33,68 +29,40 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Neuseelands Schulen gegen den Klimawandel
-  
 ---
 
-**Neuseeland möchte, dass Schüler weniger Fleisch essen, um das Klima zu
-schützen. Darum wird jetzt in den Schulen unterrichtet, wie man sich ohne
-Fleisch und Milch ernährt.**
+**Neuseeland möchte, dass Schüler weniger Fleisch essen, um das Klima zu schützen. Darum wird jetzt in den Schulen unterrichtet, wie man sich ohne Fleisch und Milch ernährt.**
 
-Die Nachrichtenagentur Reuters berichtet, dass der neue Lehrplan bereits im
-Januar eingeführt wurde. Die Sekundarschüler⋆innen sollen auf Grundlage der
-neuesten Forschungen lernen, wie sich der Klimawandel auf die Erde auswirkt.
+Die Nachrichtenagentur Reuters berichtet, dass der neue Lehrplan bereits im Januar eingeführt wurde. Die Sekundarschüler⋆innen sollen auf Grundlage der neuesten Forschungen lernen, wie sich der Klimawandel auf die Erde auswirkt.
 
 ## Vegan für das Klima
 
-Die Schüler⋆innen erfahren außerdem, wie der Verzehr von Fleisch- und
-Milchprodukten das Klima negativ beeinflusst. Nach Angaben der Ernährungs- und
-Landwirtschaftsorganisation der UNO ist die Tierhaltung weltweit für 14,5
-Prozent aller globalen Treibhausgasemissionen verantwortlich. In reichen
-Industrieländern ist der Anteil besonders hoch.
+Die Schüler⋆innen erfahren außerdem, wie der Verzehr von Fleisch- und Milchprodukten das Klima negativ beeinflusst. Nach Angaben der Ernährungs- und Landwirtschaftsorganisation der UNO ist die Tierhaltung weltweit für 14,5 Prozent aller globalen Treibhausgasemissionen verantwortlich. In reichen Industrieländern ist der Anteil besonders hoch.
 
-Die Tierzucht und -Haltung gilt als eine der Hauptursachen für die Klimakrise.
-Das UN Umweltprogramm bezeichnete Fleisch als "das dringendste Problem der
-Welt".
+Die Tierzucht und -Haltung gilt als eine der Hauptursachen für die Klimakrise. Das UN Umweltprogramm bezeichnete Fleisch als "das dringendste Problem der Welt".
 
-Die Premierministerin von Neuseeland Jacinda Anderen stimmte dieser Aussage zu.
-Anfang des Jahres leitete sie darum umfangreiche Reformen zur Bekämpfung des
-Klimawandels ein. Zu den Plänen gehört unter anderem, dass Neuseeland bis 2050
-komplett CO₂-neutral werden soll. Die Emissionsziele für die Landwirtschaft
-stehen dabei an erster Stelle.
+Die Premierministerin von Neuseeland Jacinda Anderen stimmte dieser Aussage zu. Anfang des Jahres leitete sie darum umfangreiche Reformen zur Bekämpfung des Klimawandels ein. Zu den Plänen gehört unter anderem, dass Neuseeland bis 2050 komplett CO₂-neutral werden soll. Die Emissionsziele für die Landwirtschaft stehen dabei an erster Stelle.
 
 ## Neuseeland sagt dem Klimawandel den Kampf an
 
-Das neuseeländische Umweltministerium gibt an, dass die
-Brutto-Treibgasemissionen im Land von 1990 bis 2018 um 24 Prozent gestiegen
-sind. Neuseeland emittierte 2018 78,9 Millionen Tonnen CO₂-Äquivalent.
+Das neuseeländische Umweltministerium gibt an, dass die Brutto-Treibgasemissionen im Land von 1990 bis 2018 um 24 Prozent gestiegen sind. Neuseeland emittierte 2018 78,9 Millionen Tonnen CO₂-Äquivalent.
 
-Laut dem Ministerium ist der Landwirtschaftssektor mit einem Anteil von 48
-Prozent an der Gesamtemission einer der größten Verursacher von Treibhausgasen
-in Neuseeland. Der Energiesektor liegt mit 41 Prozent an zweiter Stelle.
+Laut dem Ministerium ist der Landwirtschaftssektor mit einem Anteil von 48 Prozent an der Gesamtemission einer der größten Verursacher von Treibhausgasen in Neuseeland. Der Energiesektor liegt mit 41 Prozent an zweiter Stelle.
 
-Aus einer Studie der Universität Otago geht hervor, dass die Bevölkerungs-weite
-Umstellung auf vegane Kost die Treibgasemissionen in Neuseeland um bis zu 42
-Prozent reduzieren könnte.
+Aus einer Studie der Universität Otago geht hervor, dass die Bevölkerungs-weite Umstellung auf vegane Kost die Treibgasemissionen in Neuseeland um bis zu 42 Prozent reduzieren könnte.
 
 ## "Die Kinder erwarten von uns, dass wir handeln!"
 
-Viele Politiker⋆innen in Neuseeland freuen sich über den neuen Lehrplan für die
-Schüler⋆innen.
+Viele Politiker⋆innen in Neuseeland freuen sich über den neuen Lehrplan für die Schüler⋆innen.
 
-> "Jedes Jahr, das sie bis jetzt erlebt haben, war das heißeste seit Beginn der
-> Aufzeichnungen",
+> "Jedes Jahr, das sie bis jetzt erlebt haben, war das heißeste seit Beginn der Aufzeichnungen",
 
 sagt James Shaw, Minister für Klimawandel in Australien gegenüber Reuters.
 
 > "Sie erwarten von uns, dass wir handeln!"
 
-Er findet es wichtig, dass die Kinder lernen, wie sich der Klimawandel auf ihr
-Leben auswirken wird, wenn sie erwachsen sind.
+Er findet es wichtig, dass die Kinder lernen, wie sich der Klimawandel auf ihr Leben auswirken wird, wenn sie erwachsen sind.
 
-Quellen:
-[Reuters](https://www.reuters.com/article/us-climate-change-newzealand/new-zealands-school-climate-change-curriculum-vexes-farmers-idUSKBN22I0KE),
-[Live Kindly](https://www.livekindly.co/new-zealand-schools-students-replace-meat-dairy/)
+Quellen: [Reuters](https://www.reuters.com/article/us-climate-change-newzealand/new-zealands-school-climate-change-curriculum-vexes-farmers-idUSKBN22I0KE), [Live Kindly](https://www.livekindly.co/new-zealand-schools-students-replace-meat-dairy/)
 
 Bild: [sasint](https://pixabay.com/de/users/sasint-3639875/), pixabay
-
-  

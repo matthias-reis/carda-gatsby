@@ -7,12 +7,8 @@ typeName: Rezept
 title: Schichtkartoffeln & Kürbis
 seoTitle: Schichtkartoffeln und Kürbis aus dem Ofen
 ogTitle: Schichtkartoffeln und Kürbis aus dem Ofen
-description: Winter ist Kartoffelzeit. Besonders lecker sind zum Beispiel
-  Schichtkartoffeln aus dem Ofen. Sie schmecken besonders mit Kürbis gut - hier
-  ist mein Rezept.
-excerpt: Werbung & Affiliate Link - Winter ist Kartoffelzeit. Besonders lecker
-  sind zum Beispiel Schichtkartoffeln aus dem Ofen. Sie schmecken besonders mit
-  Kürbis gut - hier ist mein Rezept.
+description: Winter ist Kartoffelzeit. Besonders lecker sind zum Beispiel Schichtkartoffeln aus dem Ofen. Sie schmecken besonders mit Kürbis gut - hier ist mein Rezept.
+excerpt: Werbung & Affiliate Link - Winter ist Kartoffelzeit. Besonders lecker sind zum Beispiel Schichtkartoffeln aus dem Ofen. Sie schmecken besonders mit Kürbis gut - hier ist mein Rezept.
 fileName: 2019-11---schichtkartoffeln-und-kuerbis.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-04-xucker-9__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-04-xucker-9__l.jpg
@@ -40,17 +36,13 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Winterliches Ofenrezept
-  
 ---
 
 _Werbung &amp; Affiliate Link_
 
-**Winter ist Kartoffelzeit. Besonders lecker sind zum Beispiel Schichtkartoffeln
-aus dem Ofen. Sie lassen sich so gut wie mit allen winterlichen Gerichten gut
-kombinieren und gelingen ganz leicht.**
+**Winter ist Kartoffelzeit. Besonders lecker sind zum Beispiel Schichtkartoffeln aus dem Ofen. Sie lassen sich so gut wie mit allen winterlichen Gerichten gut kombinieren und gelingen ganz leicht.**
 
-Besonders mit Kürbis ergibt sich ein geradezu legendäres Gericht und das
-Schönste: die Küche bleibt bei der Zubereitung so gut wie frei von Chaos.
+Besonders mit Kürbis ergibt sich ein geradezu legendäres Gericht und das Schönste: die Küche bleibt bei der Zubereitung so gut wie frei von Chaos.
 
 ## Zutaten für zwei große Portionen
 
@@ -65,42 +57,22 @@ Schönste: die Küche bleibt bei der Zubereitung so gut wie frei von Chaos.
 
 ## Zubereitung
 
-Wascht die Kartoffeln und den Kürbis und trocknet alles schön ab. Die Schale
-bleibt dran. Schneidet die Kartoffeln in rund einen Zentimeter dicke Scheiben
-und schichtet sie in eine Backform. Träufelt etwas Olivenöl darüber und bestreut
-alles großzügig mit Rosmarin, Chiliflocken, Pfeffer und Meersalz.
+Wascht die Kartoffeln und den Kürbis und trocknet alles schön ab. Die Schale bleibt dran. Schneidet die Kartoffeln in rund einen Zentimeter dicke Scheiben und schichtet sie in eine Backform. Träufelt etwas Olivenöl darüber und bestreut alles großzügig mit Rosmarin, Chiliflocken, Pfeffer und Meersalz.
 
-Halbiert den Kürbis, entnehmt die Kerne mit einem Löffel und legt ihn auf einen
-Ofenrost. In die Mitte zwischen die zwei Hälften stellt Ihr die Backform mit den
-Kartoffelnscheiben.
+Halbiert den Kürbis, entnehmt die Kerne mit einem Löffel und legt ihn auf einen Ofenrost. In die Mitte zwischen die zwei Hälften stellt Ihr die Backform mit den Kartoffelnscheiben.
 
 <Gallery name="2019-11-04-schichtkartoffeln" />
 
-Schneidet das Tofu in Würfel und gebt es in die das ausgehöhlte Kerngehäuse.
-Träufelt auch hier etwas Öl darüber und würzt den Kürbis mir Meersalz und
-Pfeffer.
+Schneidet das Tofu in Würfel und gebt es in die das ausgehöhlte Kerngehäuse. Träufelt auch hier etwas Öl darüber und würzt den Kürbis mir Meersalz und Pfeffer.
 
 ## Die Schichtkartoffeln kommen für 30 Minuten in den Ofen
 
-Ab in den Ofen mit dem Rost! Am besten stellt Ihr 250 Grad Umluft ein. Nach
-einer halben Stunde könnt Ihr Euer fertiges Dinner rausholen - in der
-Zwischenzeit bietet sich die einmalige Chance, das Schneidebrett, den Löffel und
-das Messer zu säubern. Mehr Werkzeug braucht Ihr nämlich für die Zubereitung
-nicht. Küche aufgeräumt, Essen kann losgehen!
+Ab in den Ofen mit dem Rost! Am besten stellt Ihr 250 Grad Umluft ein. Nach einer halben Stunde könnt Ihr Euer fertiges Dinner rausholen - in der Zwischenzeit bietet sich die einmalige Chance, das Schneidebrett, den Löffel und das Messer zu säubern. Mehr Werkzeug braucht Ihr nämlich für die Zubereitung nicht. Küche aufgeräumt, Essen kann losgehen!
 
-Dazu passt hervorragend ein schmackhafter Tomaten-Ketchup.
-[Probiert zum Beispiel mal den von Xucker](http://tidd.ly/3a78d1a7). Der hat
-besonders wenig Kalorien, schmeckt aber wunderbar fruchtig und kein bisschen
-säuerlich.
-[Meinen Bericht über das vegane Xucker Sortiment findet Ihr hier](https://wp.me/p533wO-6WI).
+Dazu passt hervorragend ein schmackhafter Tomaten-Ketchup. [Probiert zum Beispiel mal den von Xucker](http://tidd.ly/3a78d1a7). Der hat besonders wenig Kalorien, schmeckt aber wunderbar fruchtig und kein bisschen säuerlich. [Meinen Bericht über das vegane Xucker Sortiment findet Ihr hier](https://wp.me/p533wO-6WI).
 
 Guten Appetit!
 
 <Gallery name="kartoffeln-gar" />
 
-_\*Hinweis: Dieser Beitrag enthält Werbung und einen Affiliate Link. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-[Transparenz-Seite](/werbung/). _
-
-  
+_\*Hinweis: Dieser Beitrag enthält Werbung und einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _

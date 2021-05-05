@@ -7,10 +7,8 @@ typeName: Artikel
 title: '"Ich kann nicht atmen"'
 seoTitle: '"Ich kann nicht atmen" - George Floyds letzte Worte'
 ogTitle: '"Ich kann nicht atmen" - George Floyds letzte Worte'
-description: Heute wird in Houston der von einem Polizisten getötete
-  Afro-Amerikaner George Floyd beigesetzt. Die Welt nimmt Abschied.
-excerpt: Heute wird in Houston der von einem Polizisten getötete Afro-Amerikaner
-  George Floyd beigesetzt. Die Welt nimmt Abschied.
+description: Heute wird in Houston der von einem Polizisten getötete Afro-Amerikaner George Floyd beigesetzt. Die Welt nimmt Abschied.
+excerpt: Heute wird in Houston der von einem Polizisten getötete Afro-Amerikaner George Floyd beigesetzt. Die Welt nimmt Abschied.
 fileName: 2020-06---ich-kann-nicht-atmen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_oakImage-1590976708225-superJumbo__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_oakImage-1590976708225-superJumbo__l.jpg
@@ -32,20 +30,15 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: George Floyds letzte Worte
-  
 ---
 
-**Heute wird der von einem Polizisten getötete Afro-Amerikaner George Floyd in
-seiner Heimatstadt Houston beigesetzt. Die Welt trauert.**
+**Heute wird der von einem Polizisten getötete Afro-Amerikaner George Floyd in seiner Heimatstadt Houston beigesetzt. Die Welt trauert.**
 
-Seit Tagen demonstrieren Menschen weltweit gegen Gewalt und Unterdrückung
-gegenüber People of color. Der Auslöser dafür war die unfassbare und sinnlose
-Gewalt, durch die George Floyd am 25. Mai in Minnesota zu Tode kam.
+Seit Tagen demonstrieren Menschen weltweit gegen Gewalt und Unterdrückung gegenüber People of color. Der Auslöser dafür war die unfassbare und sinnlose Gewalt, durch die George Floyd am 25. Mai in Minnesota zu Tode kam.
 
 ## Abschied von George Floyd
 
-Heute nimmt die Welt von ihm Abschied. Seine letzten Worte werden noch lange
-nachhallen.
+Heute nimmt die Welt von ihm Abschied. Seine letzten Worte werden noch lange nachhallen.
 
 <blockquote>
 
@@ -103,46 +96,24 @@ ich kann nicht atmen.
 
 ## Black Lives Matter
 
-Das Video von der gewaltsamen Festnahme und dem Übergriff, der zu George Floyds
-Tod führte, ging um die Welt. Die vier an dem Einsatz beteiligten Polizisten
-wurden wegen des Tötungsdelikts inhaftiert.
+Das Video von der gewaltsamen Festnahme und dem Übergriff, der zu George Floyds Tod führte, ging um die Welt. Die vier an dem Einsatz beteiligten Polizisten wurden wegen des Tötungsdelikts inhaftiert.
 
-Währenddessen wird die Black Lives Matter Bewegung wieder lauter. 46 Jahre wurde
-George Floyd alt. Er wurde in der Mitte seines Lebens getötet. Seine Familie und
-seine Freunde trauern um ihn und mit ihnen die Menschen auf der ganzen Welt.
+Währenddessen wird die Black Lives Matter Bewegung wieder lauter. 46 Jahre wurde George Floyd alt. Er wurde in der Mitte seines Lebens getötet. Seine Familie und seine Freunde trauern um ihn und mit ihnen die Menschen auf der ganzen Welt.
 
 ## Gegen Rassismus kämpfen
 
-Wir müssen aufstehen. Gegen Rassismus kämpfen. Gegen Unterdrückung. Für
-Gleichberechtigung. Dieses Mal muss sich etwas ändern. Es kann nicht so
-weitergehen. Der Hass muss als das bezeichnet werden, was er ist: Rassismus.
-Dabei zählt nur eins: Weiter machen und die Hoffnung nicht verlieren.
+Wir müssen aufstehen. Gegen Rassismus kämpfen. Gegen Unterdrückung. Für Gleichberechtigung. Dieses Mal muss sich etwas ändern. Es kann nicht so weitergehen. Der Hass muss als das bezeichnet werden, was er ist: Rassismus. Dabei zählt nur eins: Weiter machen und die Hoffnung nicht verlieren.
 
-Die Black Lives Matter Bewegung fand ihren Ursprung 2013. In diesem Jahr tauchte
-auch der Hashtag **#BlackLivesMatter** im Zusammengang mit dem Freispruch des
-mutmaßlichen Täters George Zimmermann nach dem Tod von Afro-Amerikaner Trayvon
-Martin das erste Mal auf. Durch die Demonstrationen nach den Todesfällen von
-Michael Brown und Eric Garner erlange Black Lives Matter internationale
-Bekanntheit.
+Die Black Lives Matter Bewegung fand ihren Ursprung 2013. In diesem Jahr tauchte auch der Hashtag **#BlackLivesMatter** im Zusammengang mit dem Freispruch des mutmaßlichen Täters George Zimmermann nach dem Tod von Afro-Amerikaner Trayvon Martin das erste Mal auf. Durch die Demonstrationen nach den Todesfällen von Michael Brown und Eric Garner erlange Black Lives Matter internationale Bekanntheit.
 
 ## Hören, sehen und laut sein
 
-Unter dem Banner Black Lives Matter organisieren sich regelmäßig Proteste gegen
-Polizeigewalt, Racial Profiling und Rassismus.
+Unter dem Banner Black Lives Matter organisieren sich regelmäßig Proteste gegen Polizeigewalt, Racial Profiling und Rassismus.
 
-Wir alle müssen laut sein. Den Kampf unterstützen. Demonstrieren, Informationen
-teilen, die Bewegung mit Spenden unterstützen. Und vor allem: unsere Meinung
-sagen, wann immer uns Rassismus begegnet.
+Wir alle müssen laut sein. Den Kampf unterstützen. Demonstrieren, Informationen teilen, die Bewegung mit Spenden unterstützen. Und vor allem: unsere Meinung sagen, wann immer uns Rassismus begegnet.
 
-> "Unser Leben beginnt mit dem Tag zu enden, an dem wir über wichtige Dinge
-> schweigen." (Martin Luther King)
+> "Unser Leben beginnt mit dem Tag zu enden, an dem wir über wichtige Dinge schweigen." (Martin Luther King)
 
-Letzten Samstag zeigte der Künstler Jamie Holmes seinen Protest auf seine Weise:
-In fünf amerikanischen Städten ließ er mit George Floyds letzten Worten
-bedruckte Banner von Flugzeugen über den Himmel ziehen. Eines davon könnt Ihr im
-Bild oben sehen.
+Letzten Samstag zeigte der Künstler Jamie Holmes seinen Protest auf seine Weise: In fünf amerikanischen Städten ließ er mit George Floyds letzten Worten bedruckte Banner von Flugzeugen über den Himmel ziehen. Eines davon könnt Ihr im Bild oben sehen.
 
-**Bild/picture:** Jammie Holmes "They’re Going to Kill Me (New York City)"
-(2020). Courtesy of the artist and Library Street Collective.
-
-  
+**Bild/picture:** Jammie Holmes "They’re Going to Kill Me (New York City)" (2020). Courtesy of the artist and Library Street Collective.

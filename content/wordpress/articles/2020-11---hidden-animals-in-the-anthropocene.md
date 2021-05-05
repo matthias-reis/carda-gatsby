@@ -7,12 +7,8 @@ typeName: Artikel
 title: '"Hidden: Animals in the Anthropocene"'
 seoTitle: '"Hidden: Animals in the Anthropocene" – Tierrechtsbuch zeigt die Wahrheit'
 ogTitle: '"Hidden: Animals in the Anthropocene" – Tierrechtsbuch zeigt die Wahrheit'
-description: Die preisgekrönte Fotojournalistin Anne McArthur hat gemeinsam mit
-  Keith Wilson ein neues Tierrechtsbuch gemacht. Das Vorwort ist von Joaquin
-  Phoenix.
-excerpt: Die preisgekrönte Fotojournalistin Anne McArthur hat gemeinsam mit
-  Keith Wilson ein neues Tierrechtsbuch gemacht. Das Vorwort ist von Joaquin
-  Phoenix.
+description: Die preisgekrönte Fotojournalistin Anne McArthur hat gemeinsam mit Keith Wilson ein neues Tierrechtsbuch gemacht. Das Vorwort ist von Joaquin Phoenix.
+excerpt: Die preisgekrönte Fotojournalistin Anne McArthur hat gemeinsam mit Keith Wilson ein neues Tierrechtsbuch gemacht. Das Vorwort ist von Joaquin Phoenix.
 fileName: 2020-11---hidden-animals-in-the-anthropocene.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_hidden__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_hidden__l.jpg
@@ -34,49 +30,29 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Tierrechtsbuch zeigt die blutige Wahrheit
-  
 ---
 
-**Die preisgekrönte Fotojournalistin Anne McArthur hat gemeinsam mit Keith
-Wilson ein neues Tierrechtsbuch gemacht. Auf 305 Seiten zeigt es die schlimmsten
-Gräueltaten der Menschheit Tieren gegenüber.**
+**Die preisgekrönte Fotojournalistin Anne McArthur hat gemeinsam mit Keith Wilson ein neues Tierrechtsbuch gemacht. Auf 305 Seiten zeigt es die schlimmsten Gräueltaten der Menschheit Tieren gegenüber.**
 
-Zu sehen sind Tiere, die vor der Öffentlichkeit versteckt ein trauriges Leben in
-der Nahrungsindustrie, der Unterhaltungsbranche führen. Dabei beleuchten
-McArthur und Wilson auch religiöse und traditionelle Hintergründe.
+Zu sehen sind Tiere, die vor der Öffentlichkeit versteckt ein trauriges Leben in der Nahrungsindustrie, der Unterhaltungsbranche führen. Dabei beleuchten McArthur und Wilson auch religiöse und traditionelle Hintergründe.
 
 ## Hidden zeigt die grausame Realität
 
-"Hidden" wird mit einem Vorwort des Schauspielers und überzeugten
-Tierrechtsaktivisten [Joaquin Phoenix](/tag/joaquin-phoenix/) eröffnet.
-Insgesamt enthält das gebundene Werk 200 Bilder von 40 internationalen
-Fotograf⋆innen.
+"Hidden" wird mit einem Vorwort des Schauspielers und überzeugten Tierrechtsaktivisten [Joaquin Phoenix](/tag/joaquin-phoenix/) eröffnet. Insgesamt enthält das gebundene Werk 200 Bilder von 40 internationalen Fotograf⋆innen.
 
-Wilson möchte mit dem Band beweisen, welches grausame Leben in Finsternis die
-Tiere führen. Sie will zeigen, dass die Tiere, die wir züchten und töten, für
-Sport und Unterhaltung ausbeuten die gleichen Emotionen wie wir erleben: Trauer,
-Freude, Schmerz, Angst und Liebe. Daher zeigt sie das Leid ungeschönt.
+Wilson möchte mit dem Band beweisen, welches grausame Leben in Finsternis die Tiere führen. Sie will zeigen, dass die Tiere, die wir züchten und töten, für Sport und Unterhaltung ausbeuten die gleichen Emotionen wie wir erleben: Trauer, Freude, Schmerz, Angst und Liebe. Daher zeigt sie das Leid ungeschönt.
 
 ## "Leuchtfeuer des Wandels"
 
 Joaquin Phoenix sagte in einem Statement gegenüber der Presse:
 
-> "Die Fotograf⋆innen haben für 'Hidden' einige der dunkelsten und
-> beunruhigendsten Orte der Welt betreten. Die Bilder, die sie aufgenommen
-> haben, sind eine schmerzvolle Erinnerung an unser unverzeihliches Verhalten
-> gegenüber den Tieren. Das Buch wird für mich in den nächsten Jahren als
-> Leuchtfeuer des Wandels dienen."
+> "Die Fotograf⋆innen haben für 'Hidden' einige der dunkelsten und beunruhigendsten Orte der Welt betreten. Die Bilder, die sie aufgenommen haben, sind eine schmerzvolle Erinnerung an unser unverzeihliches Verhalten gegenüber den Tieren. Das Buch wird für mich in den nächsten Jahren als Leuchtfeuer des Wandels dienen."
 
-Das Anthropozän definiert die jüngste geologische Zeitperiode der Erde. Sie wird
-dadurch bestimmt, dass der Mensch atmosphärische, geologische, hydrologische und
-biosphärische Prozesse beeinflusst. Daher auch der Titel, der zu Deutsch lautet
-"Versteckt: Tiere im Anthropozän".
+Das Anthropozän definiert die jüngste geologische Zeitperiode der Erde. Sie wird dadurch bestimmt, dass der Mensch atmosphärische, geologische, hydrologische und biosphärische Prozesse beeinflusst. Daher auch der Titel, der zu Deutsch lautet "Versteckt: Tiere im Anthropozän".
 
 [Bestellen könnt Ihr das Buch hier](https://amzn.to/32QSkaA).
 
- <YouTube id="V69c27TuHxc" />
+{' '}
+<YouTube id="V69c27TuHxc" />
 
-Quelle/source:
-[We Animals Media Hidden Campaign](https://weanimalsmedia.org/2020/05/04/announcing-hidden-animals-in-the-anthropocene/)
-
-  
+Quelle/source: [We Animals Media Hidden Campaign](https://weanimalsmedia.org/2020/05/04/announcing-hidden-animals-in-the-anthropocene/)

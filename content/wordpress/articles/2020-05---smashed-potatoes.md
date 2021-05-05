@@ -7,10 +7,8 @@ typeName: Rezept
 title: Smashed Potatoes
 seoTitle: Smashed Potatoes - rustikale Kartoffeln aus dem Ofen
 ogTitle: Smashed Potatoes - rustikale Kartoffeln aus dem Ofen
-description: Smashed Potatoes zählen seit kurzem zu meinen Lieblingsgerichten.
-  Sie lassen sich ganz leicht zubereiten und schmecken besser als Chips.
-excerpt: Smashed Potatoes zählen seit kurzem zu meinen Lieblingsgerichten. Sie
-  lassen sich ganz leicht zubereiten und schmecken besser als Chips.
+description: Smashed Potatoes zählen seit kurzem zu meinen Lieblingsgerichten. Sie lassen sich ganz leicht zubereiten und schmecken besser als Chips.
+excerpt: Smashed Potatoes zählen seit kurzem zu meinen Lieblingsgerichten. Sie lassen sich ganz leicht zubereiten und schmecken besser als Chips.
 fileName: 2020-05---smashed-potatoes.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-06-kartoffeln-12__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-06-kartoffeln-12__l.jpg
@@ -29,17 +27,11 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Rustikale Kartoffeln aus dem Ofen
-  
 ---
 
-**Smashed Potatoes zählen seit Kurzem zu meinen Lieblingsgerichten. Sie lassen
-sich ganz leicht zubereiten, passen fast überall dazu und schmecken besser als
-Chips.**
+**Smashed Potatoes zählen seit Kurzem zu meinen Lieblingsgerichten. Sie lassen sich ganz leicht zubereiten, passen fast überall dazu und schmecken besser als Chips.**
 
-Für die Herstellung braucht Ihr nur ein paar Zutaten. Zuletzt haben wir sie mit
-Tomaten-Tofu-Gurken-Salat und Mais gegessen, darum seht Ihr diese Beilagen auch
-auf den Fotos. Den Mais kann man prima mit in den Ofen legen. Das macht das
-Gericht noch praktischer, wenn es mal schnell gehen muss.
+Für die Herstellung braucht Ihr nur ein paar Zutaten. Zuletzt haben wir sie mit Tomaten-Tofu-Gurken-Salat und Mais gegessen, darum seht Ihr diese Beilagen auch auf den Fotos. Den Mais kann man prima mit in den Ofen legen. Das macht das Gericht noch praktischer, wenn es mal schnell gehen muss.
 
 ## Zutaten für 2 Portionen
 
@@ -54,24 +46,12 @@ Gericht noch praktischer, wenn es mal schnell gehen muss.
 
 ## Smashed Potatoes Zubereitung
 
-Wascht die Kartoffeln und kocht sie, bis sie noch gut bissfest sind. Die Schale
-lasst Ihr einfach dran. Heizt den Ofen auf 200 Grad vor und bereitet ein
-Backblech mit Backpapier vor.
+Wascht die Kartoffeln und kocht sie, bis sie noch gut bissfest sind. Die Schale lasst Ihr einfach dran. Heizt den Ofen auf 200 Grad vor und bereitet ein Backblech mit Backpapier vor.
 
-Gießt die Kartoffeln ab und lasst ordentlich kaltes Wasser drüber laufen, damit
-Ihr Euch beim nächsten Schritt nicht verbrennt. Tupft sie ab und legt sie auf
-das Backblech. Zerdrückt sie nun mit der Seite eines breiten Messers oder
-(vorsichtig!) mit einem Kartoffelstampfer.
+Gießt die Kartoffeln ab und lasst ordentlich kaltes Wasser drüber laufen, damit Ihr Euch beim nächsten Schritt nicht verbrennt. Tupft sie ab und legt sie auf das Backblech. Zerdrückt sie nun mit der Seite eines breiten Messers oder (vorsichtig!) mit einem Kartoffelstampfer.
 
-Bestreut Eure Smashed Potatoes mit Meersalz und dem Gewürz Eurer Wahl, gebt
-einen ordentlichen Schuss Olivenöl darüber und schiebt sie in den Ofen. Die
-restliche Garzeit hängt von der Größe Eurer Kartoffeln ab. Bei mittelgroßen
-Exemplaren dauert es etwa 30 Minuten, bis sie gar sind. Schaut am besten immer
-mal wieder in den Ofen. Wenn die Schale gut gebräunt ist, sind sie
-servierfertig. Guten Appetit!
+Bestreut Eure Smashed Potatoes mit Meersalz und dem Gewürz Eurer Wahl, gebt einen ordentlichen Schuss Olivenöl darüber und schiebt sie in den Ofen. Die restliche Garzeit hängt von der Größe Eurer Kartoffeln ab. Bei mittelgroßen Exemplaren dauert es etwa 30 Minuten, bis sie gar sind. Schaut am besten immer mal wieder in den Ofen. Wenn die Schale gut gebräunt ist, sind sie servierfertig. Guten Appetit!
 
 ## Nachher
 
 <Gallery name="smashedpotatoesvorher" />
-
-  

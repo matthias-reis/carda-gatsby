@@ -7,10 +7,8 @@ typeName: Galerie
 title: Der Kater und der Leuchtturm
 seoTitle: Der Kater und der Leuchtturm - Erinnerungen an den Sommer in England
 ogTitle: Der Kater und der Leuchtturm - Erinnerungen an den Sommer in England
-description: Teil 1/9 Impressionen aus Mevagissey, Cornwall 6/12 - Ein Kater,
-  ein Leuchtturm und ein paar schöne Requisiten in der Sonne
-excerpt: Teil 1/9 Impressionen aus Mevagissey, Cornwall 6/12 - Ein Kater, ein
-  Leuchtturm und ein paar schöne Requisiten in der Sonne.
+description: Teil 1/9 Impressionen aus Mevagissey, Cornwall 6/12 - Ein Kater, ein Leuchtturm und ein paar schöne Requisiten in der Sonne
+excerpt: Teil 1/9 Impressionen aus Mevagissey, Cornwall 6/12 - Ein Kater, ein Leuchtturm und ein paar schöne Requisiten in der Sonne.
 fileName: 2012-07---der-kater-und-der-leuchtturm.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0308__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0308__l.jpg
@@ -49,14 +47,157 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 2/9
-  
 ---
 
-_ [Teil 1/9](http://wp.me/p533wO-Ry) _  Impressionen aus Mevagissey, Cornwall
-6/12
+_ [Teil 1/9](http://wp.me/p533wO-Ry) _  Impressionen aus Mevagissey, Cornwall 6/12
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0293__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0293__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0294__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0294__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0296__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0296__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0298__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0298__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0318__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0318__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0317__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0317__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0315__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0315__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0308__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0308__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0304__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0304__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0333__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0333__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0335__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0335__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0336__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0336__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0337__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0337__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0338__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0338__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0343__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0343__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0342__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0342__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0341__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0341__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0340__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0340__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0339__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0339__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0347__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0347__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0348__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0348__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0349__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0349__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0350__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0350__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0351__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0351__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0293__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0293__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0294__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0294__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0296__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0296__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0298__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0298__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0318__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0318__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0317__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0317__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0315__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0315__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0308__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0308__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0304__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0304__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0333__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0333__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0335__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0335__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0336__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0336__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0337__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0337__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0338__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0338__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0343__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0343__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0342__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0342__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0341__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0341__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0340__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0340__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0339__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0339__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0347__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0347__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0348__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0348__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0349__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0349__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0350__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0350__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0351__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0351__l.jpg',
+    },
+  ]}
 />
 
 Hier geht's zu [_Teil 3/9_](/2012/07/glastonbury/)  der Galerie "England 2012"
@@ -75,6 +216,5 @@ Hier geht's zu [_Teil 3/9_](/2012/07/glastonbury/)  der Galerie "England 2012"
 
 ## Musik zu den Bildern: Neil Young - Mirroball
 
- <YouTube id="i07fRWZrrEY" />
-
-  
+{' '}
+<YouTube id="i07fRWZrrEY" />

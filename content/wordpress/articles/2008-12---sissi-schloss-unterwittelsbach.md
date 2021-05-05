@@ -7,10 +7,8 @@ typeName: Galerie
 title: Sissi-Schloss Unterwittelsbach
 seoTitle: Sissi-Schloss bei Unterwittelsbach
 ogTitle: Sissi-Schloss bei Unterwittelsbach
-description: Das Sissi-Schloss bei Unterwittelsbach ist ein echtes
-  Märchenschloss. Eigentlich schreibt man es mit einem "S".
-excerpt: Das Wasserschloss in Aichacher Stadtteil Unterwittelsbach ist den
-  meisten unter dem Namen Sisi-Schloss bekannt.
+description: Das Sissi-Schloss bei Unterwittelsbach ist ein echtes Märchenschloss. Eigentlich schreibt man es mit einem "S".
+excerpt: Das Wasserschloss in Aichacher Stadtteil Unterwittelsbach ist den meisten unter dem Namen Sisi-Schloss bekannt.
 fileName: 2008-12---sissi-schloss-unterwittelsbach.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2008_12_PC260044__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2008_12_PC260044__l.jpg
@@ -35,18 +33,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Märchenschloss bei Aichach
-  
 ---
 
-**Das Wasserschloss in Aichacher Stadtteil Unterwittelsbach ist den meisten
-unter dem Namen Sisi-Schloss bekannt. Ja, ganz genau, mit einem "S".**
+**Das Wasserschloss in Aichacher Stadtteil Unterwittelsbach ist den meisten unter dem Namen Sisi-Schloss bekannt. Ja, ganz genau, mit einem "S".**
 
-Viele Jahre befand sich das Jagdschlösschen im Besitz des bayerischen Herzogs
-Max, des Vaters der berühmten Sisi, Kaiserin von Österreich und Königin von
-Ungarn. Sie verbrachte dort etliche Sommertage ihrer Kindheit. Ihr Vater nannte
-das Schlösschen liebevoll seine "Burg". Bekannt ist uns Sisi durch die berühmte
-Filmtrilogie "Sissi", die in den 50er-Jahren mit Romi Schneider verfilmt wurde.
+Viele Jahre befand sich das Jagdschlösschen im Besitz des bayerischen Herzogs Max, des Vaters der berühmten Sisi, Kaiserin von Österreich und Königin von Ungarn. Sie verbrachte dort etliche Sommertage ihrer Kindheit. Ihr Vater nannte das Schlösschen liebevoll seine "Burg". Bekannt ist uns Sisi durch die berühmte Filmtrilogie "Sissi", die in den 50er-Jahren mit Romi Schneider verfilmt wurde.
 
 <Gallery name="sisi-unterwittelsbach" />
-
-  

@@ -31,9 +31,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Herbstbilder aus dem Garten
-  
 ---
 
 <Gallery name="flickr/herbstgarteninmakro2009" />
-
-  

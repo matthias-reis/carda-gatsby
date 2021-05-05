@@ -7,11 +7,8 @@ typeName: Rezept
 title: Sauerteigbrot mit Roggen- und Kichererbsenmehl
 seoTitle: Sauerteigbrot mit Roggen- und Kichererbsenmehl - veganes Rezept
 ogTitle: Sauerteigbrot mit Roggen- und Kichererbsenmehl - veganes Rezept
-description: Sauerteigbrot ist sehr vielfältig. Damit lassen sich die tollsten
-  Brot-Variationen herstellen. Hier ein Rezept mit Roggen und Kichererbsen.
-excerpt: Sauerteig ist sehr vielfältig. Damit lassen sich die tollsten
-  Brot-Variationen herstellen. Mein neuestes Rezept kommt mit Roggen- und
-  Kichererbsenmehl daher.
+description: Sauerteigbrot ist sehr vielfältig. Damit lassen sich die tollsten Brot-Variationen herstellen. Hier ein Rezept mit Roggen und Kichererbsen.
+excerpt: Sauerteig ist sehr vielfältig. Damit lassen sich die tollsten Brot-Variationen herstellen. Mein neuestes Rezept kommt mit Roggen- und Kichererbsenmehl daher.
 fileName: 2021-03---sauerteigbrot-mit-roggen-und-kichererbsenmehl.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_sauerteig-brot__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_sauerteig-brot__l.jpg
@@ -34,20 +31,11 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Vegan und einfach
-  
 ---
 
-**Sauerteigbrot ist lecker. Das Tolle ist: Man kann die verschiedensten
-Variationen herstellen – es wird einfach nie langweilig. Am Wochenende habe ich
-mir mal wieder ein neues Rezept ausgedacht. Weil es so gut gelungen ist, möchte
-ich es heute gerne mit Euch teilen.**
+**Sauerteigbrot ist lecker. Das Tolle ist: Man kann die verschiedensten Variationen herstellen – es wird einfach nie langweilig. Am Wochenende habe ich mir mal wieder ein neues Rezept ausgedacht. Weil es so gut gelungen ist, möchte ich es heute gerne mit Euch teilen.**
 
-Ich habe dieses Mal einfach den getrockneten Bio-Sauerteig aus dem Drogeriemarkt
-verwendet. Mit selbst gemachtem Sauerteig wird das Brot vermutlich noch
-schmackhafter. Probiert einfach aus, wie Ihr es am liebsten mögt. Ich finde den
-fertigen Sauerteig ab und an sehr praktisch und nutze ihn gerne, wenn es schnell
-gehen muss. Das Brot ist damit genauso eine Woche haltbar und länger bleibt bei
-uns sowieso nichts übrig.
+Ich habe dieses Mal einfach den getrockneten Bio-Sauerteig aus dem Drogeriemarkt verwendet. Mit selbst gemachtem Sauerteig wird das Brot vermutlich noch schmackhafter. Probiert einfach aus, wie Ihr es am liebsten mögt. Ich finde den fertigen Sauerteig ab und an sehr praktisch und nutze ihn gerne, wenn es schnell gehen muss. Das Brot ist damit genauso eine Woche haltbar und länger bleibt bei uns sowieso nichts übrig.
 
 ## Zutaten für das Sauerteigbrot mit Kichererbsenmehl
 
@@ -61,25 +49,12 @@ uns sowieso nichts übrig.
 
 ## Sauerteig Zubereitung
 
-Für das Brot nutzt Ihr die Grundanleitung für Sauerteigbrot. Dafür gebt Ihr
-einfach alle Zutaten in eine große Backschüssel und knetet den Teig mit den
-Händen, bis Ihr eine schöne zusammenhängende Kugel habt. Deckt die Schüssel ab
-und lasst Euer Sauerteigbrot für eine gute Stunde an einem ruhigen, vor Zugluft
-geschützten Ort gehen.
+Für das Brot nutzt Ihr die Grundanleitung für Sauerteigbrot. Dafür gebt Ihr einfach alle Zutaten in eine große Backschüssel und knetet den Teig mit den Händen, bis Ihr eine schöne zusammenhängende Kugel habt. Deckt die Schüssel ab und lasst Euer Sauerteigbrot für eine gute Stunde an einem ruhigen, vor Zugluft geschützten Ort gehen.
 
-Nach Ablauf der Stunde knetet Ihr den Teig erneut und formt anschließend einen
-schönen Brotlaib. Heizt den Ofen auf 200 Grad Celsius vor und legt das Brot auf
-ein mit Backpapier abgedecktes Backblech. Deckt es erneut ab und lasst es erneut
-für 30 bis 45 Minuten gehen. Bereitet Euch am besten auch schon mal einen Rost
-vor, auf dem es später abkühlen kann.
+Nach Ablauf der Stunde knetet Ihr den Teig erneut und formt anschließend einen schönen Brotlaib. Heizt den Ofen auf 200 Grad Celsius vor und legt das Brot auf ein mit Backpapier abgedecktes Backblech. Deckt es erneut ab und lasst es erneut für 30 bis 45 Minuten gehen. Bereitet Euch am besten auch schon mal einen Rost vor, auf dem es später abkühlen kann.
 
-Gebt das Brot in den Ofen und backt es für 55 Minuten bei gleichbleibender
-Temperatur.
+Gebt das Brot in den Ofen und backt es für 55 Minuten bei gleichbleibender Temperatur.
 
-Das Brot passt zu so gut wie allem – von Marmelade bis Räuchertofu mit einem
-leckeren selbst hergestellten [Aufstrich](/tag/aufstrich/) : Der Fantasie sind
-keine Grenzen gesetzt.
+Das Brot passt zu so gut wie allem – von Marmelade bis Räuchertofu mit einem leckeren selbst hergestellten [Aufstrich](/tag/aufstrich/) : Der Fantasie sind keine Grenzen gesetzt.
 
 Guten Appetit!
-
-  
