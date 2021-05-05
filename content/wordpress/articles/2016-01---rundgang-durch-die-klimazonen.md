@@ -23,6 +23,7 @@ labels:
 - Hamburg
 - Klimazonen
 - Planten un Blomen
+- serie:Planten un Blomen
 focusKeyword: Klimazonen
 status: publish
 isWerbung: false
