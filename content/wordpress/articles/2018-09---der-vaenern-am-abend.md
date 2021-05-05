@@ -7,12 +7,8 @@ typeName: Galerie
 title: Der Vänern am Abend
 seoTitle: Der sommerliche Vänern am Abend - Romantisches Farbspiel
 ogTitle: Der sommerliche Vänern am Abend - Romantisches Farbspiel
-description: Den nördlichsten Punkt unserer Schwedenreise diesen Sommer hatten
-  wir am wunderschönen Vänern erreicht. Dort bot sich uns ein romantisches
-  Farbspiel.
-excerpt: Den nördlichsten Punkt unserer Schwedenreise diesen Sommer hatten wir
-  am wunderschönen Vänern erreicht. Dort bot sich uns ein romantisches
-  Farbspiel.
+description: Den nördlichsten Punkt unserer Schwedenreise diesen Sommer hatten wir am wunderschönen Vänern erreicht. Dort bot sich uns ein romantisches Farbspiel.
+excerpt: Den nördlichsten Punkt unserer Schwedenreise diesen Sommer hatten wir am wunderschönen Vänern erreicht. Dort bot sich uns ein romantisches Farbspiel.
 fileName: 2018-09---der-vaenern-am-abend.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29737761437_cf2b7e0b6d_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29737761437_cf2b7e0b6d_z__l.jpg
@@ -37,41 +33,20 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Romantisches Farbspiel
-  
 ---
 
-**Den nördlichsten Punkt unserer Schwedenreise diesen Sommer hatten wir am
-wunderschönen Vänern erreicht. Der See liegt im Südwesten zwischen den Provinzen
-Värmlands Län, Västra Götaland und Dalsland.**
+**Den nördlichsten Punkt unserer Schwedenreise diesen Sommer hatten wir am wunderschönen Vänern erreicht. Der See liegt im Südwesten zwischen den Provinzen Värmlands Län, Västra Götaland und Dalsland.**
 
-Am Abend des 26. Juni bot uns die Natur dort ein romantisches Farbspiel. Eine
-kleine Auswahl meiner Bilder von diesem wunderschönen Moment möchte ich Euch
-heute zeigen.
+Am Abend des 26. Juni bot uns die Natur dort ein romantisches Farbspiel. Eine kleine Auswahl meiner Bilder von diesem wunderschönen Moment möchte ich Euch heute zeigen.
 
-Der Vänern ist der größte See Schwedens. Die Wasserlandschaft erstreckt sich
-über eine Fläche von 5.519 Quadratkilometern. Steht man an seinem Ufer, oder
-befährt ihn mit dem Boot, kommt man sich ziemlich klein vor. Für zweiteres kann
-ich Euch die Mitnahme eines Navigationsgeräts wärmstens empfehlen.
+Der Vänern ist der größte See Schwedens. Die Wasserlandschaft erstreckt sich über eine Fläche von 5.519 Quadratkilometern. Steht man an seinem Ufer, oder befährt ihn mit dem Boot, kommt man sich ziemlich klein vor. Für zweiteres kann ich Euch die Mitnahme eines Navigationsgeräts wärmstens empfehlen.
 
 ## Zahlreiche Vogelarten leben am Vänern
 
-Eine Besonderheit des Sees ist die teilweise marine Pflanzen- und Tierwelt. Sie
-stammt noch aus der letzten Eiszeit. Damals gab es eine Verbindung zwischen dem
-Vänern und der Ostsee. An seinen Ufern leben Seeschwalben, Kormorane und
-zahlreiche weitere Vogelarten. Selbsternannte Hobby-Ornitholog\*innen wie ich
-kommen dort voll auf ihre Kosten.
+Eine Besonderheit des Sees ist die teilweise marine Pflanzen- und Tierwelt. Sie stammt noch aus der letzten Eiszeit. Damals gab es eine Verbindung zwischen dem Vänern und der Ostsee. An seinen Ufern leben Seeschwalben, Kormorane und zahlreiche weitere Vogelarten. Selbsternannte Hobby-Ornitholog\*innen wie ich kommen dort voll auf ihre Kosten.
 
-Der Vänern bildet das Mittelstück einer großen Wasserstraße, die durch ganz
-Schweden führt. Über den Göta-Kanal gelangt man von dort aus bis zum Vätternsee
-und nach Stockholm, der Trollhätte-Kanal führt nach Göteborg. Zahlreiche
-Campingplätze und Bootsanleger ziehen während der warmen Jahreszeit jede Menge
-Gäste an. Badestellen sorgen für Freude unter Schwimmern und anderen
-Wasserratten.
+Der Vänern bildet das Mittelstück einer großen Wasserstraße, die durch ganz Schweden führt. Über den Göta-Kanal gelangt man von dort aus bis zum Vätternsee und nach Stockholm, der Trollhätte-Kanal führt nach Göteborg. Zahlreiche Campingplätze und Bootsanleger ziehen während der warmen Jahreszeit jede Menge Gäste an. Badestellen sorgen für Freude unter Schwimmern und anderen Wasserratten.
 
 <Gallery name="flickr/annevaenern2018seeliebesoschoen" />
 
-Übrigens ist vor kurzem meine bisher größte Reisereportage hier im Blog
-erschienen. Sie beschäftigt sich ausgiebig mit Irland.
-[Neugierige dürfen hier klicken](/tag/irland2017/).
-
-  
+Übrigens ist vor kurzem meine bisher größte Reisereportage hier im Blog erschienen. Sie beschäftigt sich ausgiebig mit Irland. [Neugierige dürfen hier klicken](/tag/irland2017/).

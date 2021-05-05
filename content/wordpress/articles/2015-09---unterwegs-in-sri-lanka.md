@@ -7,11 +7,8 @@ typeName: Galerie
 title: Unterwegs in Sri Lanka
 seoTitle: Unterwegs in Sri Lanka - Mein Reisebericht mit Bildern
 ogTitle: Unterwegs in Sri Lanka - Mein Reisebericht mit Bildern
-description: "Sri Lanka: Ein Land voll Artenreichtum und Vielfalt, lebensfroher
-  Menschen, Improvisationstalenten, Kochkünstlern, Schönheit und Traurigkeit."
-excerpt: Im Dezember und Januar reisten Matze und ich durch Sri Lanka und haben
-  dort einige Abenteuer erlebt, viele tolle Menschen getroffen und Erfahrungen
-  gesammelt.
+description: 'Sri Lanka: Ein Land voll Artenreichtum und Vielfalt, lebensfroher Menschen, Improvisationstalenten, Kochkünstlern, Schönheit und Traurigkeit.'
+excerpt: Im Dezember und Januar reisten Matze und ich durch Sri Lanka und haben dort einige Abenteuer erlebt, viele tolle Menschen getroffen und Erfahrungen gesammelt.
 fileName: 2015-09---unterwegs-in-sri-lanka.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_16082601308_d57d61bb84_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_16082601308_d57d61bb84_z__l.jpg
@@ -33,43 +30,22 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Mein Reisebericht mit Bildern
-  
 ---
 
-**Im Dezember und Januar sind Matze und ich durch Sri Lanka gereist und haben
-dort einige Abenteuer erlebt, viele tolle Menschen getroffen und Erfahrungen
-gesammelt.**
+**Im Dezember und Januar sind Matze und ich durch Sri Lanka gereist und haben dort einige Abenteuer erlebt, viele tolle Menschen getroffen und Erfahrungen gesammelt.**
 
-Einige meiner Eindrücke habe ich fotografisch festgehalten und möchte sie Euch
-gerne zeigen.
+Einige meiner Eindrücke habe ich fotografisch festgehalten und möchte sie Euch gerne zeigen.
 
-Kennt Ihr das, wenn man erst mal eine Weile braucht, um Erlebtes zu verarbeiten?
-Mir ging es in diesem Fall so. Danach war ich ziemlich lange mit dem Sortieren
-und Entwickeln der Fotos beschäftigt. Im Anschluss stand der Umzug meines Blogs
-an, kurz danach unser eigener. Die Sri Lanka Bildergalerie lag also eine ganze
-Weile im Fach mit den Entwürfen.
+Kennt Ihr das, wenn man erst mal eine Weile braucht, um Erlebtes zu verarbeiten? Mir ging es in diesem Fall so. Danach war ich ziemlich lange mit dem Sortieren und Entwickeln der Fotos beschäftigt. Im Anschluss stand der Umzug meines Blogs an, kurz danach unser eigener. Die Sri Lanka Bildergalerie lag also eine ganze Weile im Fach mit den Entwürfen.
 
 ## Sri Lanka in Bildern
 
-Ich werde mich hier nicht in endlosen Reiseberichten ergehen, vielmehr lege ich
-beim Betrachten der Bilder eine Schweigeminute ein für die Opfer der Hochwasser
-und Erdrutsche in Sri Lanka im Januar dieses Jahres und ihre Hinterbliebenen.
+Ich werde mich hier nicht in endlosen Reiseberichten ergehen, vielmehr lege ich beim Betrachten der Bilder eine Schweigeminute ein für die Opfer der Hochwasser und Erdrutsche in Sri Lanka im Januar dieses Jahres und ihre Hinterbliebenen.
 
-Vielen Dank an unseren stets freundlichen, tapferen Guide, der uns zweimal aus
-einer brenzligen Lage befreit hat und uns im Hochland ganz selbstverständlich
-das Leben rettete, während bei seiner Familie die Fluten ins Haus drangen. Danke
-an das Land Sri Lanka und seine überaus herzlichen, lieben Bewohner. Ihr seid
-für immer in unseren Herzen.
+Vielen Dank an unseren stets freundlichen, tapferen Guide, der uns zweimal aus einer brenzligen Lage befreit hat und uns im Hochland ganz selbstverständlich das Leben rettete, während bei seiner Familie die Fluten ins Haus drangen. Danke an das Land Sri Lanka und seine überaus herzlichen, lieben Bewohner. Ihr seid für immer in unseren Herzen.
 
-Sri Lanka: Ein Land voll Artenreichtum und Vielfalt, aber auch Armut, voll
-lebensfroher Menschen aber auch Tierleid,  voll von Improvisationstalenten und
-Kochkünstlern, Schönheit und Traurigkeit. Hier sind meine Bilder. Ich denke, ein
-paar davon sind durchaus zeigenswert und schaffen es ansatzweise auszudrücken,
-was für eine wunderbare und faszinierende Insel Sri Lanka mit all ihrer
-Schönheit ist.
+Sri Lanka: Ein Land voll Artenreichtum und Vielfalt, aber auch Armut, voll lebensfroher Menschen aber auch Tierleid,  voll von Improvisationstalenten und Kochkünstlern, Schönheit und Traurigkeit. Hier sind meine Bilder. Ich denke, ein paar davon sind durchaus zeigenswert und schaffen es ansatzweise auszudrücken, was für eine wunderbare und faszinierende Insel Sri Lanka mit all ihrer Schönheit ist.
 
 <Gallery name="flickr/srilanka2015anne" />
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
-
-  

@@ -16,18 +16,16 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: null
 labels:
   - Geschichten & Erlebtes
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Song des Tages
-  
 ---
 
 ## Blood Red Shoes - "Light It Up"
 
- <YouTube id="LXu-Q4EsaFA&amp;feature=fvsr" />
-
-  
+{' '}
+<YouTube id="LXu-Q4EsaFA&amp;feature=fvsr" />

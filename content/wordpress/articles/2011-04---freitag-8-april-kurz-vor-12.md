@@ -7,12 +7,8 @@ typeName: Artikel
 title: Freitag, 8. April kurz vor 12
 seoTitle: Freitag kurz vor 12 - Tagebucheintrag
 ogTitle: Freitag kurz vor 12 - Tagebucheintrag
-description: Das Wochenende steht vor der Tür. In ein paar Stunden geht es in
-  Richtung Berge. Das Wetter ist schön. Gute Aussichten auch für die nächsten
-  Tage.
-excerpt: Das Wochenende steht vor der Tür. In ein paar Stunden geht es in
-  Richtung Berge. Das Wetter ist schön. Gute Aussichten auch für die nächsten
-  Tage.
+description: Das Wochenende steht vor der Tür. In ein paar Stunden geht es in Richtung Berge. Das Wetter ist schön. Gute Aussichten auch für die nächsten Tage.
+excerpt: Das Wochenende steht vor der Tür. In ein paar Stunden geht es in Richtung Berge. Das Wetter ist schön. Gute Aussichten auch für die nächsten Tage.
 fileName: 2011-04---freitag-8-april-kurz-vor-12.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_04_img_3671__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_04_img_3671__l.jpg
@@ -25,28 +21,22 @@ labels:
   - PJ Harvey
   - Queens Of The Stone Age
   - Wochenende
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Tagebucheintrag
-  
 ---
 
-**Das Wochenende steht vor der Tür. In ein paar Stunden geht es in Richtung
-Berge. Das Wetter ist schön. Gute Aussichten auch für die nächsten Tage.**
+**Das Wochenende steht vor der Tür. In ein paar Stunden geht es in Richtung Berge. Das Wetter ist schön. Gute Aussichten auch für die nächsten Tage.**
 
-Stimmung: Eher nachdenklich heute, doch die Laune ist gut. Zeit für einen
-Tapetenwechsel.
+Stimmung: Eher nachdenklich heute, doch die Laune ist gut. Zeit für einen Tapetenwechsel.
 
-Im Büro ist es laut. Quasselstrippe am Telefon, Baustelle vor dem Fenster. Sogar
-die vorbeifahrenden Züge kommen einem heute irgendwie lauter vor. Insgesamt eine
-imposante Geräuschkulisse. Doch zum Glück gibt es Kopfhörer.
+Im Büro ist es laut. Quasselstrippe am Telefon, Baustelle vor dem Fenster. Sogar die vorbeifahrenden Züge kommen einem heute irgendwie lauter vor. Insgesamt eine imposante Geräuschkulisse. Doch zum Glück gibt es Kopfhörer.
 
 ## Song des Tages: PJ Harvey &amp; Josh Homme - "Crawl Home"
 
- <YouTube id="Glb_moRvgps" />
-
-  
+{' '}
+<YouTube id="Glb_moRvgps" />

@@ -7,12 +7,8 @@ typeName: Artikel
 title: Fleischatlas 2018
 seoTitle: Fleischatlas 2018 - Broschüre zeigt die ungeschönte Wahrheit
 ogTitle: Fleischatlas - Broschüre zeigt die ungeschönte Wahrheit
-description: Vor Kurzem veröffentlichte die Heinrich Böll Stiftung gemeinsam mit
-  BUND und der deutschen Ausgabe von Le Monde Diplomatique den aktuellen
-  Fleischatlas.
-excerpt: Vor Kurzem veröffentlichte die Heinricht Böll Stiftung gemeinsam mit
-  BUND und der deutschen Ausgabe von Le Monde Diplomatique den aktuellen
-  Fleischatlas.
+description: Vor Kurzem veröffentlichte die Heinrich Böll Stiftung gemeinsam mit BUND und der deutschen Ausgabe von Le Monde Diplomatique den aktuellen Fleischatlas.
+excerpt: Vor Kurzem veröffentlichte die Heinricht Böll Stiftung gemeinsam mit BUND und der deutschen Ausgabe von Le Monde Diplomatique den aktuellen Fleischatlas.
 fileName: 2018-01---fleischatlas-2018.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_steak-575806_640.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_steak-575806_640.png__l.jpg
@@ -42,227 +38,153 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Broschüre zeigt die ungeschönte Wahrheit
-  
 ---
 
-**Vor Kurzem veröffentlichte die _Heinrich Böll Stiftung_ gemeinsam _BUND_ und
-der deutschen Ausgabe von _Le Monde Diplomatique_ wieder den aktuellen
-Fleischatlas. Die Broschüre zeigt alle Daten und Fakten über Tiere als
-Nahrungsmittel. Ohne etwas wegzulassen oder zu schönen.**
+**Vor Kurzem veröffentlichte die _Heinrich Böll Stiftung_ gemeinsam _BUND_ und der deutschen Ausgabe von _Le Monde Diplomatique_ wieder den aktuellen Fleischatlas. Die Broschüre zeigt alle Daten und Fakten über Tiere als Nahrungsmittel. Ohne etwas wegzulassen oder zu schönen.**
 
-Auf insgesamt 52 Seiten werden unter anderem Themen wie die fatalen Auswirkungen
-der Massentierhaltung auf den Welthunger, Marketinginstrumente,
-Kennzeichnungspflichten, Steuern, Schlachtung, "flächengebundene Tierhaltung",
-Tierwohl, Nitrate, Antibiotika, Gesundheit, Vermarktung, Laborfleisch, Klima und
-Gentechnik genau beleuchtet.
+Auf insgesamt 52 Seiten werden unter anderem Themen wie die fatalen Auswirkungen der Massentierhaltung auf den Welthunger, Marketinginstrumente, Kennzeichnungspflichten, Steuern, Schlachtung, "flächengebundene Tierhaltung", Tierwohl, Nitrate, Antibiotika, Gesundheit, Vermarktung, Laborfleisch, Klima und Gentechnik genau beleuchtet.
 
 ## Der Fleischatlas macht unser Konsumverhalten zum Thema
 
-Das Lesen lohnt sich in jedem Fall nicht nur für Veganer und Tierschützer. Auch
-Fleischesser sollten definitiv mal einen Blick hineinwerfen. Auch der Abschnitt
-zum Thema Biofleisch (Fleisch "vom Metzger des Vertrauens") gibt Aufschluss über
-so einiges. Und wie auf Seite 6 bereits einleitend erklärt wird:
+Das Lesen lohnt sich in jedem Fall nicht nur für Veganer und Tierschützer. Auch Fleischesser sollten definitiv mal einen Blick hineinwerfen. Auch der Abschnitt zum Thema Biofleisch (Fleisch "vom Metzger des Vertrauens") gibt Aufschluss über so einiges. Und wie auf Seite 6 bereits einleitend erklärt wird:
 
-> "Mittlerweile werden überall in der Gesellschaft die verschiedenen Aspekte der
-> Fleischproduktion diskutiert."
+> "Mittlerweile werden überall in der Gesellschaft die verschiedenen Aspekte der Fleischproduktion diskutiert."
 
-Und das ist auch gut so und sollte sich möglichst schnell weiter verbreiten. Um
-Tieren weitere Qualen zu ersparen, den Welthunger nicht noch weiter
-voranzutreiben und unser Klima und unsere Gesundheit zu retten, bevor es zu spät
-ist.
+Und das ist auch gut so und sollte sich möglichst schnell weiter verbreiten. Um Tieren weitere Qualen zu ersparen, den Welthunger nicht noch weiter voranzutreiben und unser Klima und unsere Gesundheit zu retten, bevor es zu spät ist.
 
-<RemoteImage alt={`Fleischatlas`} size="full"
-title={`Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas1.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas1.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,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"
+<RemoteImage
+  alt={`Fleischatlas`}
+  size="full"
+  title={`Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas1.png__l.jpg"
+  loadingUrl="data:image/jpeg;base64,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"
 />
 
-Besonders herausgearbeitet wurde unter anderem das Thema Beeinflussung durch
-Werbung. Hier im Bild sehr gut dargestellt:
+Besonders herausgearbeitet wurde unter anderem das Thema Beeinflussung durch Werbung. Hier im Bild sehr gut dargestellt:
 
 Hierzu wird ganz klar gesagt:
 
-> "Der Markt bietet Anreize für mehr Fleischverzehr – der Staat sollte Anreize
-> für mehr Fleischverzicht geben."
+> "Der Markt bietet Anreize für mehr Fleischverzehr – der Staat sollte Anreize für mehr Fleischverzicht geben."
 
 ## Die Werbung manipuliert uns
 
-Unter anderem wird das Verbot der Bewerbung von XXL-Portionen sowie die
-Einschränkung des Fleischangebots in Kantinen und Mensen gefordert. Fleisch soll
-teurer werden, um den Konsum zu senken, dafür sollen Anreize für den Kauf
-gesunder Lebensmittel geschaffen werden. Die Verbraucher sollen besser
-aufgeklärt und ein sinnvolles Labeling geschaffen werden.
+Unter anderem wird das Verbot der Bewerbung von XXL-Portionen sowie die Einschränkung des Fleischangebots in Kantinen und Mensen gefordert. Fleisch soll teurer werden, um den Konsum zu senken, dafür sollen Anreize für den Kauf gesunder Lebensmittel geschaffen werden. Die Verbraucher sollen besser aufgeklärt und ein sinnvolles Labeling geschaffen werden.
 
-Viele Menschen möchten gerne genauer wissen, wie die Tiere gehalten werden,
-deren Fleisch sie verzehren. Jedoch gibt es einen schieren Dschungel aus Labels,
-an der Haltung ändert sich jedoch nichts oder nicht viel. So findet bei der
-Haltung von Legehennen in Käfigen beispielsweise keine Veränderung mehr statt.
+Viele Menschen möchten gerne genauer wissen, wie die Tiere gehalten werden, deren Fleisch sie verzehren. Jedoch gibt es einen schieren Dschungel aus Labels, an der Haltung ändert sich jedoch nichts oder nicht viel. So findet bei der Haltung von Legehennen in Käfigen beispielsweise keine Veränderung mehr statt.
 
-<RemoteImage alt={`Fleischatlas`} size="full"
-title={`Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas2.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas2.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,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"
+<RemoteImage
+  alt={`Fleischatlas`}
+  size="full"
+  title={`Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas2.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas2.png__l.jpg"
+  loadingUrl="data:image/jpeg;base64,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"
 />
 
-Hier stellt sich für mich ganz klar die Frage: Wenn immer alle berichten, sie
-äßen nur Eier vom Biolandhof und Fleisch vom Metzger nebenan: Wer verzehrt dann
-das Gros? Die Käfigeier und das Qualfleisch werden sicher nicht komplett von
-Nudelherstellern und Fastfood-Ketten aufgekauft. Und auch den Output dieser
-Institutionen isst ja am Ende irgendjemand. Doch das nur am Rande.
+Hier stellt sich für mich ganz klar die Frage: Wenn immer alle berichten, sie äßen nur Eier vom Biolandhof und Fleisch vom Metzger nebenan: Wer verzehrt dann das Gros? Die Käfigeier und das Qualfleisch werden sicher nicht komplett von Nudelherstellern und Fastfood-Ketten aufgekauft. Und auch den Output dieser Institutionen isst ja am Ende irgendjemand. Doch das nur am Rande.
 
 ## Grenzen für Nutztiere?
 
-Weitere niederschmetternde Fakten liefert das Kapitel "Grenzen für Nutztiere",
-das sich mit der "flächengebundenen Tierhaltung" beschäftigt: Wie viele Tiere
-pro Hektar.
+Weitere niederschmetternde Fakten liefert das Kapitel "Grenzen für Nutztiere", das sich mit der "flächengebundenen Tierhaltung" beschäftigt: Wie viele Tiere pro Hektar.
 
-In Deutschland wurden im Jahr 2017 27,1 Millionen Schweine, 12,4 Millionen
-Rinder, 1,8 Millionen Schafe und 41 Millionen Legehennen gehalten. Dadurch
-wurden 208 Millionen Kubikmeter Gülle, Jauche und Gärreste produziert, die auf
-Äckern, Wiesen und Weiden als "Dünger" ausgebracht wurden.
+In Deutschland wurden im Jahr 2017 27,1 Millionen Schweine, 12,4 Millionen Rinder, 1,8 Millionen Schafe und 41 Millionen Legehennen gehalten. Dadurch wurden 208 Millionen Kubikmeter Gülle, Jauche und Gärreste produziert, die auf Äckern, Wiesen und Weiden als "Dünger" ausgebracht wurden.
 
-Viele Gebiete sind dadurch so übersättigt, dass das Grundwasser nicht mehr
-genießbar ist. Die Kosten für Trinkwasser können dadurch um bis zu 62 Prozent in
-die Höhe schnellen.
+Viele Gebiete sind dadurch so übersättigt, dass das Grundwasser nicht mehr genießbar ist. Die Kosten für Trinkwasser können dadurch um bis zu 62 Prozent in die Höhe schnellen.
 
 ## Gülle verschmutzt unser Trinkwasser
 
-Am schlimmsten sind die Verunreinigungen in Gegenden, in denen besonders viele
-"Nutztiere" gehalten werden. Ganz vorne ist hier Vechta in Niedersachsen dabei.
-Dort werden 3,64 Großvieheinheiten pro Hektar landwirtschaftlicher Nutzfläche
-gezählt. Es folgen Cloppenburg (3,05), das Nordrhein-Westfälische Borken (2,66)
-und die Grafschaft Bentheim (2,55).
+Am schlimmsten sind die Verunreinigungen in Gegenden, in denen besonders viele "Nutztiere" gehalten werden. Ganz vorne ist hier Vechta in Niedersachsen dabei. Dort werden 3,64 Großvieheinheiten pro Hektar landwirtschaftlicher Nutzfläche gezählt. Es folgen Cloppenburg (3,05), das Nordrhein-Westfälische Borken (2,66) und die Grafschaft Bentheim (2,55).
 
-Die "flächengebundene Tierhaltung" legt fest, wie viele Tiere eine Fläche gerade
-noch so verträgt, ohne einem Kollaps zu erliegen.
+Die "flächengebundene Tierhaltung" legt fest, wie viele Tiere eine Fläche gerade noch so verträgt, ohne einem Kollaps zu erliegen.
 
-> "Zwei Großvieheinheiten auf einen Hektar. Zwei GVE – das entspricht zwei
-> Kühen, zehn schlachtreifen Schweinen oder 666,6 Masthähnchen. Flächengebundene
-> Tierhaltung für ganz Deutschland kann nur gelingen, wenn die Tierbestände
-> reduziert werden. Diese Abstockung muss beginnen, wo die intensive Tierhaltung
-> besonders verbreitet ist."
+> "Zwei Großvieheinheiten auf einen Hektar. Zwei GVE – das entspricht zwei Kühen, zehn schlachtreifen Schweinen oder 666,6 Masthähnchen. Flächengebundene Tierhaltung für ganz Deutschland kann nur gelingen, wenn die Tierbestände reduziert werden. Diese Abstockung muss beginnen, wo die intensive Tierhaltung besonders verbreitet ist."
 
-<RemoteImage alt={`Fleischatlas`} size="full"
-title={`Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas3.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas3.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,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"
+<RemoteImage
+  alt={`Fleischatlas`}
+  size="full"
+  title={`Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas3.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas3.png__l.jpg"
+  loadingUrl="data:image/jpeg;base64,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"
 />
 
-Auf Seite 24 kommen Fakten zum Thema Tierhaltung auf den Tisch. Es wird
-angesprochen, dass die Haltung von Tieren auf dem Papier seit 2001 klar geregelt
-ist, dass die Wirklichkeit aber anders aussieht.
+Auf Seite 24 kommen Fakten zum Thema Tierhaltung auf den Tisch. Es wird angesprochen, dass die Haltung von Tieren auf dem Papier seit 2001 klar geregelt ist, dass die Wirklichkeit aber anders aussieht.
 
 ## Verletzte Tiere in der Massentierhaltung
 
-Durch eine EU-Richtlinie trat 2001 die die Verordnung zum Schutz
-landwirtschaftlicher Nutztiere und anderer zur Erzeugung tierischer Produkte
-gehaltener Tiere bei ihrer Haltung in Kraft. In ihren 46 Paragraphen wurde die
-Haltung von Kälber,n Legehennen, Schweinen, Masthühnern, Kaninchen und
-Pelztieren festgelegt. Es geht daraus hervor, wie viel Platz, Licht, Wasser und
-Wärme ihnen zusteht.
+Durch eine EU-Richtlinie trat 2001 die die Verordnung zum Schutz landwirtschaftlicher Nutztiere und anderer zur Erzeugung tierischer Produkte gehaltener Tiere bei ihrer Haltung in Kraft. In ihren 46 Paragraphen wurde die Haltung von Kälber,n Legehennen, Schweinen, Masthühnern, Kaninchen und Pelztieren festgelegt. Es geht daraus hervor, wie viel Platz, Licht, Wasser und Wärme ihnen zusteht.
 
-Zugrunde liegt ihr eine Verordnung aus dem Tierschutzgesetz von 1972. Das Gebot
-der Neufassung von 2006 lautet:
+Zugrunde liegt ihr eine Verordnung aus dem Tierschutzgesetz von 1972. Das Gebot der Neufassung von 2006 lautet:
 
-> "Die Tiere müssen verhaltensgerecht untergebracht werden, sie dürfen keine
-> Schmerzen haben, leiden oder sonst wie zu Schaden kommen."
+> "Die Tiere müssen verhaltensgerecht untergebracht werden, sie dürfen keine Schmerzen haben, leiden oder sonst wie zu Schaden kommen."
 
-Das klingt richtig schön rund, doch die Realität sieht anders aus. Die Berichte
-der Tierschützer über verletzte, kranke und apathische Tiere sind kein Geheimnis
-mehr und werden auch im Fleischatlas erwähnt.
+Das klingt richtig schön rund, doch die Realität sieht anders aus. Die Berichte der Tierschützer über verletzte, kranke und apathische Tiere sind kein Geheimnis mehr und werden auch im Fleischatlas erwähnt.
 
-> "Bei Mastschweinen sind bis zu 80 Prozent der Tiere verletzt oder an den
-> Atemwegen erkrankt. Bis zu einem Drittel der Milchkühe leidet an lahmen
-> Gelenken – Störungen des Gangbildes –, 38 Prozent an Euterentzündungen. Bei
-> bis zu zwei Dritteln der Masthühner haben sich die Fußballen verändert, ebenso
-> viele leiden unter Kahlstellen wegen Federpickens. Brustbeinschäden weisen 40
-> Prozent auf, Knochenbrüche 53 Prozent."
+> "Bei Mastschweinen sind bis zu 80 Prozent der Tiere verletzt oder an den Atemwegen erkrankt. Bis zu einem Drittel der Milchkühe leidet an lahmen Gelenken – Störungen des Gangbildes –, 38 Prozent an Euterentzündungen. Bei bis zu zwei Dritteln der Masthühner haben sich die Fußballen verändert, ebenso viele leiden unter Kahlstellen wegen Federpickens. Brustbeinschäden weisen 40 Prozent auf, Knochenbrüche 53 Prozent."
 
-<RemoteImage alt={`Fleischatlas`} size="full"
-title={`Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas4.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas4.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,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"
+<RemoteImage
+  alt={`Fleischatlas`}
+  size="full"
+  title={`Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas4.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas4.png__l.jpg"
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAYAAAA6yNxSAAAACXBIWXMAABYlAAAWJQFJUiTwAAAGj0lEQVRIiV2V7U9b5xnGT6R93LS/YPsy7dv+gO3TFE3qvnVa0yVaIm3Kuq5Rta1L1qRJqqRUadQ2apsQhPIyFkhISQDbvBjbgAngFwyGGAz4BYgxxvj9HPscv2Lz9pvOQ1Jl/XDpfuxznudc93U/131LRTlJdmsdObmBkoqhpDbJp2Jk4hFqmkyjrFAvKWwXZYGykkLLJV4i+d1azSUoZA9jWUlSlBOUlBTlfJpCJi6gZrde23sIacHrpO1uC50dbXS03ePp43ZM3Z3cb72Nc3yU2FqAwLyXtcACocU5cskYVTWDTlz/iCYnBak9LQPVnICaS4p3SjoRJQXsAHX2tlVK+dTLvYeQXimgZuLE1wJEw4tsra+Q3FgTqiSiK6yvBohFwqQ2I4JASd+sZ5pPo8kpdtUUT2aW+dQ6wxWLlzPdDpR8lhd+P8ePvsOl95r48PTHGNp7YbdIIXOohE5OWg/5Gej5Ft+8l5ycIbISxD87xeryPI1ygenJERyWPib6uxnp62ZsyIThSSfWvh4Kuoxyks1ZK18Mz3Cqw8Zfu51YrAaK8TB7NZlhg5ljv/o9p46+xc1Pmtmr5VASUcIzNgqZTSS9TjsH20Q9LrymDrKxJTjYo6ZlqRQy5JNRZuMJZrN50pUyxUqeRk1BFRKmUOUUqbCX9c0N5GSUeCJOIuRFTUaoamlR9zX/LJuhOdaDASr5hLhjscCMeCbtHdQJjph5X5K4cvRnNF/4NS8WHNQrJbTsFvNeF+fO3+Cjy3doOvcV7gE7oXEXucgqu8UMNTlBvZBhX0uzp6apF1KUlAxaLoWaTVDJp2FbhZ0KB40SjXKenYrKbk0TCUpwQPvJP/BPSaL1+G+49vbPGWy5wMHBniDAjoZj2kfXsBuDdYIBjx+bL0RGK5AuqWwpMmlVYTOXJZJOk9dk9usFdmp5dqoKZTWLaznI1PiwKO2yb5rZqUk8jjFBUDpgn5HrTUKBiz/6IX+WJJytzejEwv7njI9a+eirdt4818KlW085c+Mxx//dzKfX2mjvtGIYdGLsd/C49xk9lmnsVgfLDjezY058k1OUlDTWkQmGB41MT47htFsZs/YzahsisbGKVNFy1Ksqj258TktTE4a7d9jR5XnpeeoqY2Y7/2l+SPdDIxOWMb69/4T7rZ2M250se5/jc04z75phPRBizuXFPTGNZ3yKwMwsu9UCnlE7zolh5udcuCZHGLaYiKwsinJIpXyaYj5OtV6iXC9RKClUtZyoz4vwElOTdq4+HODYTRMnb5u40jPJmTYLJ5pNnPiml66JBQY9AfqnAgzPBOlzLdHrXMI1H0aJR4ksLxMLhdjQEQwRX11lzb/I5kqYippBqhZlXJ2tDD15iG3AQDTkFz7XPX7YLOJYO7q5c/5z2q9+ja2ti0fXmrlz8QvuX/kat9GCZ3AEV58NV78Nd78Np8mK22zn+eQ0Y0YbdqNNxFfroccDzDunqWoZpIqaw+92MOebIRhcBvaFvSqFNIs+L2tLz7k95uUzV4gb7iC3PGHm4jnmU3k8G2nqtQL1skytLLOtx1JOxHpFFh/QnwlUZLZLORoVBfaKbJdzolVLZTUDNPAP9DPU1YL/WReN7So1LUdgYY5I2M/Nplu8++bf+eDkh3x5+SZnT53nL7/7B//602UGO4z0PzDQp6PdiKmtF0uXGadlAtN/Dd+hv91I950nuCzPRHJaNiHmg7TPLu57LZyWJD5797d8+bdfsDRpYrdRI7GxRllJ4Ixs4o7nSJTKhHIFthsloAK7GvsN3dN5GhVZWE9f61HPUEetmKWqZV/GDOXCYWmrapZIeFHvA/DgxFucPSJx641fcvbHR3j63jv639itZqZdz7h49jpvv3GG6xe+4fSxc7z/x/MMdBgxPTCIjI1tPTjM45gf9QslBjpM9N7rZj0QELKLvv/aANJ/6wQ21gK6Ajt4Htzlgx8c4epPfyL6gd/UTUV3hZxkv5ontJUgmpXZ0ookMknqWvr/aqpH3U1KMoacjKEkN8nFN4TM+kT8/gh+RSC2FkQq5tPs71Vxm008evSQBcczGvUiliEzQ2Yz9hELlz5p4eMr97h8uZVBox3HwAieUSdTw5PiZo/2WMjGo4KILrFuLx36Jft+9jr0DqjPmujKMpL+ghhIjTL1mkqjXhI9QL+ENTXL/rbKC5+PRadbIB4KsrrgF76OBoPC02HfAoV0XJyjH/56pq8kf52IPoT089fDS/wPUN6jsd3q3ecAAAAASUVORK5CYII="
 />
 
-Es wird gezeigt, dass deutlich weniger als die Hälfte der in Deutschland
-gehaltenen Rinder Zugang zu Weideland haben.
+Es wird gezeigt, dass deutlich weniger als die Hälfte der in Deutschland gehaltenen Rinder Zugang zu Weideland haben.
 
 ## 35.100 Tiere pro Bestand
 
-Auch die Verschiebung der Tatsachen in der landläufigen Meinung wird
-thematisiert: 90 Prozent der Befragten einer Untersuchung sagten aus, unter
-Massentierhaltung bei Geflügel eine Tierzahl von 5.000 zu verstehen. Die
-tatsächliche Deutschland-weite Zahl liegt bei 14.900, die in Niedersachsen bei
-35.100 pro Bestand.
+Auch die Verschiebung der Tatsachen in der landläufigen Meinung wird thematisiert: 90 Prozent der Befragten einer Untersuchung sagten aus, unter Massentierhaltung bei Geflügel eine Tierzahl von 5.000 zu verstehen. Die tatsächliche Deutschland-weite Zahl liegt bei 14.900, die in Niedersachsen bei 35.100 pro Bestand.
 
-Damit nochmal kurz zum Thema Trinkwasserverschmutzung. Ich lasse in diesem Fall
-das Bild für sich sprechen:
+Damit nochmal kurz zum Thema Trinkwasserverschmutzung. Ich lasse in diesem Fall das Bild für sich sprechen:
 
-<RemoteImage alt={`Fleischatlas`} size="full"
-title={`Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas5.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas5.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,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"
+<RemoteImage
+  alt={`Fleischatlas`}
+  size="full"
+  title={`Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas5.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas5.png__l.jpg"
+  loadingUrl="data:image/jpeg;base64,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"
 />
 
 ## Antibiotika und multiresistente Keime
 
-Hinzu kommt eine weitere Gefahr: Immer mehr Bakterien werden resistent gegen
-Antibiotika. Diese werden vermehrt in der Tierhaltung eingesetzt um die Tiere
-"robuster" zu machen. Jährlich spricht man hier von 131.000 Tonnen Antibiotika.
-Mediziner schätzen, dass im Jahr 2050 über zehn Millionen Menschen ihr Leben
-lassen werden, weil bei ihnen lebensrettende Antibiotika nicht mehr anschlagen.
+Hinzu kommt eine weitere Gefahr: Immer mehr Bakterien werden resistent gegen Antibiotika. Diese werden vermehrt in der Tierhaltung eingesetzt um die Tiere "robuster" zu machen. Jährlich spricht man hier von 131.000 Tonnen Antibiotika. Mediziner schätzen, dass im Jahr 2050 über zehn Millionen Menschen ihr Leben lassen werden, weil bei ihnen lebensrettende Antibiotika nicht mehr anschlagen.
 
-Der massive Einsatz in der "Tierproduktion" ist hier der stärkste Treiber, so
-die Weltgesundheitsorganisation (WHO). Bei staatlichen Untersuchungen fand man
-in Supermärkten auf 42,5 Prozent des Putenfleischs resistente Keime.
+Der massive Einsatz in der "Tierproduktion" ist hier der stärkste Treiber, so die Weltgesundheitsorganisation (WHO). Bei staatlichen Untersuchungen fand man in Supermärkten auf 42,5 Prozent des Putenfleischs resistente Keime.
 
-Weil die Milch- und Fleischkonzerne auf wachsende Exporte setzen, ist die Milch-
-und Fleischproduktion in Deutschland in den letzen Jahren weiter gewachsen. Die
-Regierung unterstützt diesen Trend aus wirtschaftlichem Interesse und verstrickt
-sich damit weiter in einem ihrer größten Konflikte: Größere Exportmengen und
-gleichzeitig ein geringerer Ausstoß von Schadstoffen? Das geht nicht.
+Weil die Milch- und Fleischkonzerne auf wachsende Exporte setzen, ist die Milch- und Fleischproduktion in Deutschland in den letzen Jahren weiter gewachsen. Die Regierung unterstützt diesen Trend aus wirtschaftlichem Interesse und verstrickt sich damit weiter in einem ihrer größten Konflikte: Größere Exportmengen und gleichzeitig ein geringerer Ausstoß von Schadstoffen? Das geht nicht.
 
-<RemoteImage alt={`Fleischatlas`} size="full"
-title={`Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas6.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas6.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,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"
+<RemoteImage
+  alt={`Fleischatlas`}
+  size="full"
+  title={`Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas6.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas6.png__l.jpg"
+  loadingUrl="data:image/jpeg;base64,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"
 />
 
 ## Gentechnik - Und was kommt als nächstes?
 
-<RemoteImage alt={`Fleischatlas`} size="full"
-title={`Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas7.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas7.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,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"
+<RemoteImage
+  alt={`Fleischatlas`}
+  size="full"
+  title={`Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas7.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas7.png__l.jpg"
+  loadingUrl="data:image/jpeg;base64,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"
 />
 
-Ein weiteres Mittel zur Ertragssteigerung ist die Gentechnik. Weltweit arbeiten
-Firmen daran, das Genmaterial von "Nutztieren" zu verändern und sie den
-Bedürfnissen der Verbraucher anzupassen. Das hat Folgen:
+Ein weiteres Mittel zur Ertragssteigerung ist die Gentechnik. Weltweit arbeiten Firmen daran, das Genmaterial von "Nutztieren" zu verändern und sie den Bedürfnissen der Verbraucher anzupassen. Das hat Folgen:
 
-Das alles zeigt auf ein Neues, wie es ist: Nur der Verzicht auf Fleisch, Milch
-und alle anderen Erzeugnisse tierischer Herkunft kann auf Dauer etwas bewirken.
-Ich kann es nur jedem nach wie vor ans Herz legen:
-[Go vegan](/category/vegan/veganes-leben/).
+Das alles zeigt auf ein Neues, wie es ist: Nur der Verzicht auf Fleisch, Milch und alle anderen Erzeugnisse tierischer Herkunft kann auf Dauer etwas bewirken. Ich kann es nur jedem nach wie vor ans Herz legen: [Go vegan](/category/vegan/veganes-leben/).
 
-Wer sich die ungeschönte Wahrheit ansehen und den Fleischatlas 2018 gerne mal
-komplett lesen möchte, kann ihn jederzeit herunterladen:
+Wer sich die ungeschönte Wahrheit ansehen und den Fleischatlas 2018 gerne mal komplett lesen möchte, kann ihn jederzeit herunterladen:
 
 [Fleischatlas jetzt runterladen](https://www.bund.net/fileadmin/user_upload_bund/publikationen/massentierhaltung/massentierhaltung_fleischatlas_2018.pdf)
 
-**Hinweis: Bei den von mir verwendeten Bildern handelt es sich um Screenshots
-aus dem
-[Fleischatlas 2018](https://www.boell.de/de/2018/01/10/fleischatlas-2018-rezepte-fuer-eine-bessere-tierhaltung)
-Bartz/Stockmar, CC BY 4.0. Das Bild im Titel stammt von OpenClipart-Vectors
-(pixabay)**
+**Hinweis: Bei den von mir verwendeten Bildern handelt es sich um Screenshots aus dem [Fleischatlas 2018](https://www.boell.de/de/2018/01/10/fleischatlas-2018-rezepte-fuer-eine-bessere-tierhaltung) Bartz/Stockmar, CC BY 4.0. Das Bild im Titel stammt von OpenClipart-Vectors (pixabay)**
 
 **Quelle: Fleischatlas 2018**
-
-  

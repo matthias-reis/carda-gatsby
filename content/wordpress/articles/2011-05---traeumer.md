@@ -7,10 +7,8 @@ typeName: Artikel
 title: Träumer
 seoTitle: Träumer - Stadtprosa
 ogTitle: Träumer - Stadtprosa
-description: Die Sonne scheint durch die zartgrünen Zweige. Im Fluss schwimmt
-  Müll. Schwerer Rauch steigt aus den Fabrikschloten auf.
-excerpt: Die Sonne scheint durch die zartgrünen  Zweige. Im Fluss schwimmt Müll.
-  Schwerer Rauch steigt aus den Fabrikschloten auf.
+description: Die Sonne scheint durch die zartgrünen Zweige. Im Fluss schwimmt Müll. Schwerer Rauch steigt aus den Fabrikschloten auf.
+excerpt: Die Sonne scheint durch die zartgrünen  Zweige. Im Fluss schwimmt Müll. Schwerer Rauch steigt aus den Fabrikschloten auf.
 fileName: 2011-05---traeumer.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_04_img_3654__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_04_img_3654__l.jpg
@@ -22,29 +20,20 @@ labels:
   - Lyrik
   - Sommer
   - Träumer
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Stadtprosa
-  
 ---
 
-Die Sonne scheint durch die zartgrünen  Zweige Im Fluss schwimmt Müll Schwerer
-Rauch steigt aus den Fabrikschloten auf Tauben picken nach ein paar Brotkrumen
-Ein Kind auf einem Dreirad Dahinter Stahl, Beton, Glas Ein Polizeiauto rast
-vorbei Du sitzt auf einer Bank und träumst vor Dich hin Die Anzeige der
-Straßenbahn ist kaputt Ein Pappbecher rollt vorbei Ich steige ein und fahre
-Richtung Innenstadt
+Die Sonne scheint durch die zartgrünen  Zweige Im Fluss schwimmt Müll Schwerer Rauch steigt aus den Fabrikschloten auf Tauben picken nach ein paar Brotkrumen Ein Kind auf einem Dreirad Dahinter Stahl, Beton, Glas Ein Polizeiauto rast vorbei Du sitzt auf einer Bank und träumst vor Dich hin Die Anzeige der Straßenbahn ist kaputt Ein Pappbecher rollt vorbei Ich steige ein und fahre Richtung Innenstadt
 
 36 Stunden später haben wir unsere Nummern ausgetauscht
 
-Du liegst neben mir Bienen summen vorbei Der Bach plätschert Ein Grashalm
-kitzelt mich im Nacken Die Sonne wärmt die Haut Es riecht nach Heu Es ist
-Sommer, sagst Du
+Du liegst neben mir Bienen summen vorbei Der Bach plätschert Ein Grashalm kitzelt mich im Nacken Die Sonne wärmt die Haut Es riecht nach Heu Es ist Sommer, sagst Du
 
- <YouTube id="skG78GmK74I" />
-
-  
+{' '}
+<YouTube id="skG78GmK74I" />

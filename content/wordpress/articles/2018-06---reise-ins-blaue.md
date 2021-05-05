@@ -7,11 +7,8 @@ typeName: Galerie mit Bild
 title: Reise ins Blaue
 seoTitle: Reise ins Blaue - Kleine Landpartie - Eine Ode an den Sommer
 ogTitle: Reise ins Blaue - Kleine Landpartie - Eine Ode an den Sommer
-description: Wir sind unterwegs. Auf einer Reise. Schimmerndes Türkis am
-  Firmament. Vom Sonnenaufgang bis zur Blauen Stunde. Gerade hast Du uns noch
-  nachgeschaut.
-excerpt: Wir sind unterwegs. Auf einer Reise. Schimmerndes Türkis am Firmament.
-  Vom Sonnenaufgang bis zur Blauen Stunde. Gerade hast Du uns noch nachgeschaut.
+description: Wir sind unterwegs. Auf einer Reise. Schimmerndes Türkis am Firmament. Vom Sonnenaufgang bis zur Blauen Stunde. Gerade hast Du uns noch nachgeschaut.
+excerpt: Wir sind unterwegs. Auf einer Reise. Schimmerndes Türkis am Firmament. Vom Sonnenaufgang bis zur Blauen Stunde. Gerade hast Du uns noch nachgeschaut.
 fileName: 2018-06---reise-ins-blaue.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_28904317688_df84da44d5_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_28904317688_df84da44d5_z__l.jpg
@@ -42,26 +39,18 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Kleine Landpartie
-  
 ---
 
-Blauer Himmel und Sonnenlicht Vor uns die Straße Wir sind unterwegs Auf einer
-Reise Schimmerndes Türkis am Firmament
+Blauer Himmel und Sonnenlicht Vor uns die Straße Wir sind unterwegs Auf einer Reise Schimmerndes Türkis am Firmament
 
-Vom Sonnenaufgang bis zur Blauen Stunde Ziehen wir Richtung Süden Zugvögeln
-gleich Immer der Sonne entgegen Entschlossen und frei
+Vom Sonnenaufgang bis zur Blauen Stunde Ziehen wir Richtung Süden Zugvögeln gleich Immer der Sonne entgegen Entschlossen und frei
 
-Rechts das Meer und links die Liebe Goldene Blumen am Wegesrand Wind im Haar und
-Staub auf der Haut Wie zwei Sternschnuppen ziehen wir vorbei fast unbemerkt
+Rechts das Meer und links die Liebe Goldene Blumen am Wegesrand Wind im Haar und Staub auf der Haut Wie zwei Sternschnuppen ziehen wir vorbei fast unbemerkt
 
 Gerade hast Du uns noch nachgesehen Da hast Du uns schon wieder vergessen
 
 ## Die Fotos
 
-Die Fotos zu diesem Artikel sind am Sonntag, 10. Juni 2018 auf der Fahrt von
-[Prerow](/2018/06/prerow-am-abend/) nach [Wismar](/2018/06/wismar-am-sonntag/)
-entstanden.
+Die Fotos zu diesem Artikel sind am Sonntag, 10. Juni 2018 auf der Fahrt von [Prerow](/2018/06/prerow-am-abend/) nach [Wismar](/2018/06/wismar-am-sonntag/) entstanden.
 
 <Gallery name="flickr/annelandpartiehui20180610" />
-
-  

@@ -7,12 +7,8 @@ typeName: Galerie
 title: Blütenmeer im Alten Land
 seoTitle: Blütenmeer im Alten Land
 ogTitle: Blütenmeer im Alten Land
-description: Vor Kurzem waren wir im Alten Land und haben dort die Obstblüten
-  bewundert. Meine Eindrücke habe ich fotografisch festgehalten.
-excerpt: Vor ein paar Tagen, pünktlich zur Kirsch- und Apfelblüte, unternahmen
-  wir einen Tagesausflug ins Alte Land. Dafür, dass das Wetter etwas kühl und
-  wenig sonnig war, wurden wir mit einem wunderschönen Blütenmeer à la Martial
-  Arts Film entschädigt.
+description: Vor Kurzem waren wir im Alten Land und haben dort die Obstblüten bewundert. Meine Eindrücke habe ich fotografisch festgehalten.
+excerpt: Vor ein paar Tagen, pünktlich zur Kirsch- und Apfelblüte, unternahmen wir einen Tagesausflug ins Alte Land. Dafür, dass das Wetter etwas kühl und wenig sonnig war, wurden wir mit einem wunderschönen Blütenmeer à la Martial Arts Film entschädigt.
 fileName: 2015-06---bluetenmeer-im-alten-land.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_06_17243939809_1505ac899d_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_06_17243939809_1505ac899d_z__l.jpg
@@ -42,30 +38,18 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Kirschblüten und Elbstrand
-  
 ---
 
-**Vor ein paar Tagen, pünktlich zur Kirsch- und Apfelblüte, unternahmen wir
-einen Tagesausflug ins Alte Land. Dafür, dass das Wetter etwas kühl und wenig
-sonnig war, wurden wir mit einem wunderschönen Blütenmeer à la Martial Arts Film
-entschädigt. Zwischenstopps wurden unter anderem im hübschen Ferienörtchen Stade
-und am Elbstrand eingelegt.**
+**Vor ein paar Tagen, pünktlich zur Kirsch- und Apfelblüte, unternahmen wir einen Tagesausflug ins Alte Land. Dafür, dass das Wetter etwas kühl und wenig sonnig war, wurden wir mit einem wunderschönen Blütenmeer à la Martial Arts Film entschädigt. Zwischenstopps wurden unter anderem im hübschen Ferienörtchen Stade und am Elbstrand eingelegt.**
 
 ## Frischer Spargel aus dem Alten Land
 
-Zum Schluss wurden dann noch Äpfel getestet und frischer Spargel geshoppt. Eins
-ist sicher: Der Ausflug hat sich gelohnt und wir werden auf jeden Fall ganz bald
-wieder ins Alte Land fahren. Spätestens, wenn die Äpfel im Herbst reif an den
-Bäumen hängen. :-)
+Zum Schluss wurden dann noch Äpfel getestet und frischer Spargel geshoppt. Eins ist sicher: Der Ausflug hat sich gelohnt und wir werden auf jeden Fall ganz bald wieder ins Alte Land fahren. Spätestens, wenn die Äpfel im Herbst reif an den Bäumen hängen. :-)
 
-Meine Eindrücke aus dem Alten Land habe ich natürlich fotografisch festgehalten.
-Im Beitragsbild ganz oben ist übrigens eine Apfelblüte zu sehen.
+Meine Eindrücke aus dem Alten Land habe ich natürlich fotografisch festgehalten. Im Beitragsbild ganz oben ist übrigens eine Apfelblüte zu sehen.
 
 <Gallery name="flickr/annealtesland052015" />
 
-Weitere Bilder findet Ihr wie immer in meinem
-[Flickr](https://www.flickr.com/photos/99929697@N07/)
+Weitere Bilder findet Ihr wie immer in meinem [Flickr](https://www.flickr.com/photos/99929697@N07/)
 
 [Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
-
-  

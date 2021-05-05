@@ -7,10 +7,8 @@ typeName: Artikel
 title: So kann es weitergehen
 seoTitle: So kann es weitergehen - neuer Tagebucheintrag
 ogTitle: So kann es weitergehen - neuer Tagebucheintrag
-description: Juhu! Probearbeiten ist gut gelaufen! Neuer Job ab 1. Mai! Jetzt
-  geht´s gleich zum Fotoshooting und danach Bandprobe. Morgen wir gefeiert!
-excerpt: Juhu! Probearbeiten ist gut gelaufen! Neuer Job ab 1. Mai! Jetzt geht´s
-  gleich zum Fotoshooting und danach Bandprobe. Morgen wir gefeiert!
+description: Juhu! Probearbeiten ist gut gelaufen! Neuer Job ab 1. Mai! Jetzt geht´s gleich zum Fotoshooting und danach Bandprobe. Morgen wir gefeiert!
+excerpt: Juhu! Probearbeiten ist gut gelaufen! Neuer Job ab 1. Mai! Jetzt geht´s gleich zum Fotoshooting und danach Bandprobe. Morgen wir gefeiert!
 fileName: 2011-03---so-kann-es-weitergehen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_06_P6280015__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_06_P6280015__l.jpg
@@ -21,22 +19,18 @@ labels:
   - Cage The Elephant
   - Geschichten & Erlebtes
   - Job
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Tagebucheintrag
-  
 ---
 
-Juhu! Probearbeiten ist gut gelaufen! Neuer Job ab 1. Mai! Jetzt geht´s gleich
-zum Fotoshooting und danach Bandprobe. Morgen nach der Arbeit wird erstmal
-gefeiert!
+Juhu! Probearbeiten ist gut gelaufen! Neuer Job ab 1. Mai! Jetzt geht´s gleich zum Fotoshooting und danach Bandprobe. Morgen nach der Arbeit wird erstmal gefeiert!
 
 ## Song des Tages: Cage The Elephant - "Aberdeen"
 
- <YouTube id="bZBmcSBoRAE" />
-
-  
+{' '}
+<YouTube id="bZBmcSBoRAE" />

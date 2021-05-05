@@ -7,12 +7,8 @@ typeName: Artikel
 title: Im Interview bei Upyama
 seoTitle: Upyama interviewt cardamonchai - Grüne Macher
 ogTitle: Upyama interviewt cardamonchai - Grüne Macher
-description: Upyama hat ein Interview mit mir gemacht! In der Rubrik "Grüne
-  Macher" findet Ihr jetzt alles über mich, mein Leben, mein Blog und mein neues
-  Projekt!
-excerpt: Upyama hat ein Interview mit mir gemacht! In der Rubrik "Grüne Macher"
-  findet Ihr jetzt alles über mich, mein Leben, mein Blog und mein neues
-  Projekt!
+description: Upyama hat ein Interview mit mir gemacht! In der Rubrik "Grüne Macher" findet Ihr jetzt alles über mich, mein Leben, mein Blog und mein neues Projekt!
+excerpt: Upyama hat ein Interview mit mir gemacht! In der Rubrik "Grüne Macher" findet Ihr jetzt alles über mich, mein Leben, mein Blog und mein neues Projekt!
 fileName: 2016-05---im-interview-bei-upyama.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_Bildschirmfoto-2016-05-24-um-15.46.54.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_Bildschirmfoto-2016-05-24-um-15.46.54.png__l.jpg
@@ -34,56 +30,42 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Grüne Macher"'
-  
 ---
 
-<RemoteImage alt={`Upyama`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Selbstgena%CC%88hter-Umschlag__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Selbstgena%CC%88hter-Umschlag__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABAABAwUGAv/EACgQAAIBAwMDBAIDAAAAAAAAAAECAwQFEQASIQYTMSJBUWEyQlOBwf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQF/8QAJhEAAQMEAQEJAAAAAAAAAAAAAgABAwQSITERcRMiMlFhodHh8f/aAAwDAQACEQMRAD8AtWdYAMjcx4Cg8k6Kp529RZAI04dwchDxwfg8jjS6wvtlsk8VChh3qpfsx0zzPM4OAA65IK8/37jUlouHesslzliuEdKme1SUcXdqiAuQruSwBIBPAPxnSBT9y4lmOY3O0Nevv+6R0Lq4bCkhchmyAAQeRn61MrKZVjCuZGBwqru4AznjwNPUW+oltq3GQXeOinQTdmu2q9KcYG9UxuQ5yVPP+F2uKWKuo5FSAwRlAWg3Kd/huD+uD4zotCBDyL5UTqpI5GE2x0fos51t01eLv1DTPRQRGlgpwA5mCDcXJJx5+PbU9ssXUFnoZ5qOVInWMO6RkSmQoSQMFcD75zjW6EoaMN5Zfjzj313319IGCxycgjgD7zjReqljHsx18ZXQCljqOSfm76QVI12rKZhdZowsgw8MI7S8/qTyx+PIz9aoqrp+30SiCapqZ6ueUyQwiQI7sTkA49TKmMBmJ2qNXj1dRWErajGEyd1bKu9FI/jX9z55/EH3PjTUVDS24ySRb5aqQYlqZm3SyfRPsPoYA+NRG886ZMTRReHL+br/2Q=="
+<RemoteImage
+  alt={`Upyama`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Selbstgena%CC%88hter-Umschlag__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Selbstgena%CC%88hter-Umschlag__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABAABAwUGAv/EACgQAAIBAwMDBAIDAAAAAAAAAAECAwQFEQASIQYTMSJBUWEyQlOBwf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQF/8QAJhEAAQMEAQEJAAAAAAAAAAAAAgABAwQSITERcRMiMlFhodHh8f/aAAwDAQACEQMRAD8AtWdYAMjcx4Cg8k6Kp529RZAI04dwchDxwfg8jjS6wvtlsk8VChh3qpfsx0zzPM4OAA65IK8/37jUlouHesslzliuEdKme1SUcXdqiAuQruSwBIBPAPxnSBT9y4lmOY3O0Nevv+6R0Lq4bCkhchmyAAQeRn61MrKZVjCuZGBwqru4AznjwNPUW+oltq3GQXeOinQTdmu2q9KcYG9UxuQ5yVPP+F2uKWKuo5FSAwRlAWg3Kd/huD+uD4zotCBDyL5UTqpI5GE2x0fos51t01eLv1DTPRQRGlgpwA5mCDcXJJx5+PbU9ssXUFnoZ5qOVInWMO6RkSmQoSQMFcD75zjW6EoaMN5Zfjzj313319IGCxycgjgD7zjReqljHsx18ZXQCljqOSfm76QVI12rKZhdZowsgw8MI7S8/qTyx+PIz9aoqrp+30SiCapqZ6ueUyQwiQI7sTkA49TKmMBmJ2qNXj1dRWErajGEyd1bKu9FI/jX9z55/EH3PjTUVDS24ySRb5aqQYlqZm3SyfRPsPoYA+NRG886ZMTRReHL+br/2Q=="
 />
 
-**Was für eine Ehre! Letzte Woche schrieb mich die liebe Anja von Upyama an, ob
-ich Lust hätte, mich für die Rubrik "Grüne Macher" interviewen zu lassen.**
+**Was für eine Ehre! Letzte Woche schrieb mich die liebe Anja von Upyama an, ob ich Lust hätte, mich für die Rubrik "Grüne Macher" interviewen zu lassen.**
 
-Natürlich habe ich sofort zugesagt, so etwas Spannendes würde ich mir doch nie
-entgehen lassen! Es hat wirklich großen Spaß gemacht, mal ein Interview von "der
-anderen Seite" zu erleben.
+Natürlich habe ich sofort zugesagt, so etwas Spannendes würde ich mir doch nie entgehen lassen! Es hat wirklich großen Spaß gemacht, mal ein Interview von "der anderen Seite" zu erleben.
 
-Anja hat mir viele wirklich tolle Fragen gestellt, die mich sehr inspiriert
-haben und sie hat auch das ein oder andere über mein neuestes Projekt aus mir
-herausgelockt.
+Anja hat mir viele wirklich tolle Fragen gestellt, die mich sehr inspiriert haben und sie hat auch das ein oder andere über mein neuestes Projekt aus mir herausgelockt.
 
-So schnell kann es manchmal gehen, da erzählt man jemandem von seinen Plänen,
-bestärkt einen noch darin, sie in die Tat umzusetzen und prompt wird man von
-Upyama angeschrieben! Ihr merkt, mir fehlen immer noch ein Bisschen die Worte,
-ich bin immer noch ganz platt!
+So schnell kann es manchmal gehen, da erzählt man jemandem von seinen Plänen, bestärkt einen noch darin, sie in die Tat umzusetzen und prompt wird man von Upyama angeschrieben! Ihr merkt, mir fehlen immer noch ein Bisschen die Worte, ich bin immer noch ganz platt!
 
 ## Upyama hat mir viele interessante Fragen gestellt
 
-Nicht nur das Thema vegan wurde angesprochen, auch Fragen wie "Welche
-Herausforderungen sind die größten denen sich die Menschheit in den kommenden
-Jahren stellen muss?" und "Was tust Du nur für Dich" zauberte Anja aus dem Hut.
-Es kam ein gutes Gespräch zu Stande, bei dem die Zeit unglaublich schnell
-vergangen ist.
+Nicht nur das Thema vegan wurde angesprochen, auch Fragen wie "Welche Herausforderungen sind die größten denen sich die Menschheit in den kommenden Jahren stellen muss?" und "Was tust Du nur für Dich" zauberte Anja aus dem Hut. Es kam ein gutes Gespräch zu Stande, bei dem die Zeit unglaublich schnell vergangen ist.
 
-Wer mehr über mein Projekt (Es hat etwas mit nähen zu tun, mehr wird an dieser
-Stelle noch nicht verraten) erfahren möchte, gerne wissen möchte, warum ich
-einen Panoramaweg einem Klettersteig immer vorziehen würde und wie ich mit
-Herausforderungen umgehe, findet
-[das komplette Interview](http://www.upyama.de/anne-reis-cardamonchai/) ab
-sofort in der Rubrik "Grüne Macher" bei Upyama.
+Wer mehr über mein Projekt (Es hat etwas mit nähen zu tun, mehr wird an dieser Stelle noch nicht verraten) erfahren möchte, gerne wissen möchte, warum ich einen Panoramaweg einem Klettersteig immer vorziehen würde und wie ich mit Herausforderungen umgehe, findet [das komplette Interview](http://www.upyama.de/anne-reis-cardamonchai/) ab sofort in der Rubrik "Grüne Macher" bei Upyama.
 
 _Herzlichen Dank an dieser Stelle an Anja und Denise! &lt;3_
 
 ## Auf das Bild klicken um zum Interview bei Upyama zu gelangen
 
-<RemoteImage alt={`Upyama`} size="large" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Bildschirmfoto-2016-05-24-um-15.45.28.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Bildschirmfoto-2016-05-24-um-15.45.28.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,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"
+<RemoteImage
+  alt={`Upyama`}
+  size="large"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Bildschirmfoto-2016-05-24-um-15.45.28.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Bildschirmfoto-2016-05-24-um-15.45.28.png__l.jpg"
+  loadingUrl="data:image/jpeg;base64,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"
 />
 
 [](http://www.upyama.de/anne-reis-cardamonchai/)
-
-  

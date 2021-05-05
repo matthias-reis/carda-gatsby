@@ -7,12 +7,8 @@ typeName: Galerie
 title: Aloha Cornwall
 seoTitle: St. Ives - Aloha Cornwall
 ogTitle: St. Ives - Aloha Cornwall
-description: Erwähnte ich schon, dass ich Cornwall liebe? St. Ives ist ein ganz
-  besonders bunter Teil davon. Hier treffen sich Surfer und Künstler - ein Hauch
-  von Hawaii
-excerpt: Erwähnte ich schon, dass ich Cornwall liebe? St. Ives ist ein ganz
-  besonders bunter Teil davon. Hier treffen sich Surfer und Künstler - ein Hauch
-  von Hawaii
+description: Erwähnte ich schon, dass ich Cornwall liebe? St. Ives ist ein ganz besonders bunter Teil davon. Hier treffen sich Surfer und Künstler - ein Hauch von Hawaii
+excerpt: Erwähnte ich schon, dass ich Cornwall liebe? St. Ives ist ein ganz besonders bunter Teil davon. Hier treffen sich Surfer und Künstler - ein Hauch von Hawaii
 fileName: 2012-07---aloha-cornwall.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9978__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9978__l.jpg
@@ -52,24 +48,134 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 6/9
-  
 ---
 
-**Erwähnte ich schon, dass ich Cornwall liebe? St. Ives ist ein ganz besonders
-bunter Teil davon. Hier treffen sich Surfer und Künstler - ein Hauch von
-Hawaii**
+**Erwähnte ich schon, dass ich Cornwall liebe? St. Ives ist ein ganz besonders bunter Teil davon. Hier treffen sich Surfer und Künstler - ein Hauch von Hawaii**
 
 ## Surfen, Kunst und Möwen
 
-_ [Teil 5/9](/2012/07/schnappschuss/) _ Impressionen aus St.
-Ives/Cornwall/England /2012
+_ [Teil 5/9](/2012/07/schnappschuss/) _ Impressionen aus St. Ives/Cornwall/England /2012
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9982__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9982__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9981__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9981__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9978__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9978__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9975__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9975__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9974__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9974__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9973__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9973__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9972__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9972__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9962__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9962__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9961__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9961__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9960__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9960__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9956__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9956__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9955__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9955__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9954__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9954__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9953__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9953__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9952__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9952__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9948__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9948__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9947__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9947__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9943__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9943__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9942__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9942__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9982__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9982__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9981__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9981__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9978__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9978__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9975__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9975__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9974__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9974__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9973__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9973__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9972__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9972__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9962__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9962__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9961__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9961__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9960__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9960__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9956__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9956__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9955__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9955__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9954__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9954__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9953__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9953__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9952__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9952__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9948__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9948__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9947__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9947__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9943__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9943__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9942__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_img_9942__l.jpg',
+    },
+  ]}
 />
 
-Hier geht's zu _ [Teil 7/9](/2012/08/eden-project-2/) _  der Galerie "England
-2012"
+Hier geht's zu _ [Teil 7/9](/2012/08/eden-project-2/) _  der Galerie "England 2012"
 
 ## England 2012 Wegweiser
 
@@ -85,23 +191,17 @@ Hier geht's zu _ [Teil 7/9](/2012/08/eden-project-2/) _  der Galerie "England
 
 ## Song zu den Bildern: The Kooks - Seaside
 
- <YouTube id="VbnvqCqz7_k" />
+{' '}
+<YouTube id="VbnvqCqz7_k" />
 
 <blockquote>
 
-Do you want to go to the seaside? I'm not trying to say that everybody wants to
-go I fell in love at the seaside I handled my charm with time and slight of hand
+Do you want to go to the seaside? I'm not trying to say that everybody wants to go I fell in love at the seaside I handled my charm with time and slight of hand
 
-Do you want to go to the seaside? I'm not trying to say that everybody wants to
-go I fell in love at the seaside She handled her charm with time and slight of
-hand, and oh
+Do you want to go to the seaside? I'm not trying to say that everybody wants to go I fell in love at the seaside She handled her charm with time and slight of hand, and oh
 
-But I'm just trying to love you In any kind of way But I find it hard to love
-you girl When you're far away Away
+But I'm just trying to love you In any kind of way But I find it hard to love you girl When you're far away Away
 
-Do you want to go to the seaside? I'm not trying to say that everybody wants to
-go But I fell in love on the seaside On the seaside In the seaside
+Do you want to go to the seaside? I'm not trying to say that everybody wants to go But I fell in love on the seaside On the seaside In the seaside
 
 </blockquote>
-
-  

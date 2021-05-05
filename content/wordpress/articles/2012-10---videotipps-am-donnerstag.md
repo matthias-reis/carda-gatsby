@@ -7,8 +7,7 @@ typeName: Artikel
 title: Videotipps am Donnerstag
 seoTitle: Videotipps am Donnerstag
 ogTitle: Videotipps am Donnerstag
-description: Heute habe ich zwei ganz besondere Videotipps für Euch, Song No. 1
-  stammt von keinem Geringeren, als Jack White...
+description: Heute habe ich zwei ganz besondere Videotipps für Euch, Song No. 1 stammt von keinem Geringeren, als Jack White...
 excerpt: Heute möchte ich hier mal wieder zwei wundervolle Videos vorstellen.
 fileName: 2012-10---videotipps-am-donnerstag.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_10_videotipps2__m.jpg
@@ -48,38 +47,24 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Die Geschichte von der tanzenden Redaktion
-  
 ---
 
 **Heute möchte ich hier mal wieder zwei wundervolle Videos vorstellen.**
 
-Das erste schickte mir [@Ulle](http://thatgirlthere.wordpress.com/) heute über
-Twitter. Sie ist ein genau so großer Muse-Fan wie ich und musste sofort an mich
-denken, als sie es sah.
+Das erste schickte mir [@Ulle](http://thatgirlthere.wordpress.com/) heute über Twitter. Sie ist ein genau so großer Muse-Fan wie ich und musste sofort an mich denken, als sie es sah.
 
-Übrigens möchte ich an dieser Stelle nochmal bemerken, wie wundervoll ich es
-finde, wie viele musikalisch interessierte Leute man über so ein Weblog und auch
-über soziale Netzwerke kennen lernen kann. Was alleine durch meine
-[T-Shirt-Verlosung](//2012/10/01/t-shirt-idee-die-schonsten-bilder/) für tolle
-Kontakte entstanden sind ist toll. Nun möchte ich Euch aber das Video nicht mehr
-länger vorenthalten.
+Übrigens möchte ich an dieser Stelle nochmal bemerken, wie wundervoll ich es finde, wie viele musikalisch interessierte Leute man über so ein Weblog und auch über soziale Netzwerke kennen lernen kann. Was alleine durch meine [T-Shirt-Verlosung](//2012/10/01/t-shirt-idee-die-schonsten-bilder/) für tolle Kontakte entstanden sind ist toll. Nun möchte ich Euch aber das Video nicht mehr länger vorenthalten.
 
 ## Hier sind für Euch MUSE mit ihrem BBC Live Lounge Special:
 
- <YouTube id="hpjciAuKBT0" />
+{' '}
+<YouTube id="hpjciAuKBT0" />
 
-Das zweite Video habe ich heute Morgen schon entdeckt. Es handelt sich um das
-offizielle Musik-Video zum Song 'I'm Shakin'' von Jack Whites aktueller Platte
-"Blunderbuss", das heute veröffentlicht wurde. **Jack White** lässt darin seine
-beiden Begleitbands (die Ihr vielleicht schon von seinem iTunes Festival
-Auftritt kennt) gegeneinander anspielen. Großes Kino, wie ich finde.
+Das zweite Video habe ich heute Morgen schon entdeckt. Es handelt sich um das offizielle Musik-Video zum Song 'I'm Shakin'' von Jack Whites aktueller Platte "Blunderbuss", das heute veröffentlicht wurde. **Jack White** lässt darin seine beiden Begleitbands (die Ihr vielleicht schon von seinem iTunes Festival Auftritt kennt) gegeneinander anspielen. Großes Kino, wie ich finde.
 
-Ich habe den Videolink auch an Ulle weitergeleitet. Ihr Kommentar: "Uah! Jetzt
-springt und shaked die ganze Redaktion. Danke!!!" Herrlich. Natürlich freue ich
-mich, wenn ich in Euch gleich eine ähnliche Reaktion auslöse.
+Ich habe den Videolink auch an Ulle weitergeleitet. Ihr Kommentar: "Uah! Jetzt springt und shaked die ganze Redaktion. Danke!!!" Herrlich. Natürlich freue ich mich, wenn ich in Euch gleich eine ähnliche Reaktion auslöse.
 
 ## Hier ist für Euch JACK WHITE mit 'I'm Shakin'':
 
- <YouTube id="XkcGuZHPbKk" />
-
-  
+{' '}
+<YouTube id="XkcGuZHPbKk" />

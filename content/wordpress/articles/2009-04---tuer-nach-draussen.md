@@ -27,8 +27,4 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Durchgang nur mit Fallschirm
-  
 ---
-
-
-  

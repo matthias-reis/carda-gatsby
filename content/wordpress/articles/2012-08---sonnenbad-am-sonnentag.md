@@ -7,12 +7,8 @@ typeName: Artikel
 title: Sonnenbad am Sonnentag
 seoTitle: Sonnenbad am Sonnentag
 ogTitle: Sonnenbad am Sonnentag - Tagebucheintrag
-description: "Feiertage sind was Schönes: Man kann den ganzen Tag sinnlos in der
-  Gegend rumliegen, ohne sich Gedanken zu machen, dass man draußen was verpassen
-  könnte."
-excerpt: "Feiertage sind was Schönes: Man kann den ganzen Tag sinnlos in der
-  Gegend rumliegen, ohne sich Gedanken zu machen, dass man draußen was verpassen
-  könnte."
+description: 'Feiertage sind was Schönes: Man kann den ganzen Tag sinnlos in der Gegend rumliegen, ohne sich Gedanken zu machen, dass man draußen was verpassen könnte.'
+excerpt: 'Feiertage sind was Schönes: Man kann den ganzen Tag sinnlos in der Gegend rumliegen, ohne sich Gedanken zu machen, dass man draußen was verpassen könnte.'
 fileName: 2012-08---sonnenbad-am-sonnentag.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Eis__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Eis__l.jpg
@@ -60,46 +56,19 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Tagebucheintrag
-  
 ---
 
-**Feiertage sind was Schönes: Man kann den ganzen Tag sinnlos in der Gegend
-rumliegen, ohne sich Gedanken zu machen, dass man draußen was verpassen könnte.
-Oder man fährt (wenn es das Wetter zulässt) mit lieben Leuten an einen schönen
-See und lässt die Seele baumeln. Heute so geschehen.**
+**Feiertage sind was Schönes: Man kann den ganzen Tag sinnlos in der Gegend rumliegen, ohne sich Gedanken zu machen, dass man draußen was verpassen könnte. Oder man fährt (wenn es das Wetter zulässt) mit lieben Leuten an einen schönen See und lässt die Seele baumeln. Heute so geschehen.**
 
-Morgens war das Wetter noch etwas durchwachsen, aber gegen Mittag hatten sich
-die letzten Wolken verzogen und es herrschte der herrlichste Sonnenschein. Wir
-packten also unsere Siebensachen und machten uns auf den Weg in Richtung
-Badestrand. Wo wir dann auch den ganzen Tag verbrachten. Zum Abschluss gab es
-noch ein paar leckere eisgekühlte Getränke, die im Halbschatten genossen wurden,
-während wir fleißig die Wakeboarder kritisierten, die laut uns einer schlechter
-als der Andere waren.
+Morgens war das Wetter noch etwas durchwachsen, aber gegen Mittag hatten sich die letzten Wolken verzogen und es herrschte der herrlichste Sonnenschein. Wir packten also unsere Siebensachen und machten uns auf den Weg in Richtung Badestrand. Wo wir dann auch den ganzen Tag verbrachten. Zum Abschluss gab es noch ein paar leckere eisgekühlte Getränke, die im Halbschatten genossen wurden, während wir fleißig die Wakeboarder kritisierten, die laut uns einer schlechter als der Andere waren.
 
 &nbsp;
 
-Morgen ist morgen schon Freitag, also sind es nur noch 2 Tage (laut Milchkaffe
-1,5), bis das Wochenende vor der Tür steht. Ein Kinobesuch steht an. Und
-sicherlich auch noch der ein oder andere Strandbesuch, sollte das Wetter nicht
- fälschlicherweise doch noch umschlagen. Aber daran sollte man nicht denken. Es
-ist schließlich Sommer. Also die 2 Wochen, während denen das Thermometer in
-unseren Breitengraden über 15 Grad anzeigt. Und wir sind mittendrin.
+Morgen ist morgen schon Freitag, also sind es nur noch 2 Tage (laut Milchkaffe 1,5), bis das Wochenende vor der Tür steht. Ein Kinobesuch steht an. Und sicherlich auch noch der ein oder andere Strandbesuch, sollte das Wetter nicht  fälschlicherweise doch noch umschlagen. Aber daran sollte man nicht denken. Es ist schließlich Sommer. Also die 2 Wochen, während denen das Thermometer in unseren Breitengraden über 15 Grad anzeigt. Und wir sind mittendrin.
 
-Sicherlich denkt sich nun der Eine oder die Andere, was das hier für ein
-Sommersonneblümchengutelaunepost ist. Völlig langweilig und eigentlich ohne
-Inhalt. Aber ich musste mir das einfach mal von der Seele schreiben. So, nun ist
-es raus. Das Sommerloch hat also auf meiner Seite Einzug gehalten. Aber ich kann
-Euch beruhigen: Wir sind am Badesee keinem entflohenen Krokodil begegnet, wir
-sind auf dem Heimweg nicht in einen Saharasandsturm geraten und während meiner
-Abwesenheit ist weder eine Vogelspinne in meine Yukkapalme eingezogen, noch hat
-eine meiner Katzen plötzlich mehr als einen Kopf. Die Nachbarn wurden allerdings
-leider auch nicht wegen Lärmbelästigung festgenommen und lebenslang auf eine
-Südseeinsel mit All-inclusive-rund-um-die Uhr-Dauerbespaßung verbannt. Aber das
-macht nichts, ich habe meine Kopfhörer. Und auf denen läuft gerade dieses Lied,
-das mir nicht aus dem Kopf geht.
+Sicherlich denkt sich nun der Eine oder die Andere, was das hier für ein Sommersonneblümchengutelaunepost ist. Völlig langweilig und eigentlich ohne Inhalt. Aber ich musste mir das einfach mal von der Seele schreiben. So, nun ist es raus. Das Sommerloch hat also auf meiner Seite Einzug gehalten. Aber ich kann Euch beruhigen: Wir sind am Badesee keinem entflohenen Krokodil begegnet, wir sind auf dem Heimweg nicht in einen Saharasandsturm geraten und während meiner Abwesenheit ist weder eine Vogelspinne in meine Yukkapalme eingezogen, noch hat eine meiner Katzen plötzlich mehr als einen Kopf. Die Nachbarn wurden allerdings leider auch nicht wegen Lärmbelästigung festgenommen und lebenslang auf eine Südseeinsel mit All-inclusive-rund-um-die Uhr-Dauerbespaßung verbannt. Aber das macht nichts, ich habe meine Kopfhörer. Und auf denen läuft gerade dieses Lied, das mir nicht aus dem Kopf geht.
 
 ## Hier sind für Euch:  [Dispatch](http://de.wikipedia.org/wiki/Dispatch)  mit "Here We Go"
 
- <YouTube id="ZRHpoKvZa20&amp;feature=player_embedded" />
-
-  
+{' '}
+<YouTube id="ZRHpoKvZa20&amp;feature=player_embedded" />

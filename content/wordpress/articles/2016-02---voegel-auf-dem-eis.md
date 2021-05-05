@@ -7,10 +7,8 @@ typeName: Galerie
 title: Vögel auf dem Eis
 seoTitle: Vögel auf dem Eis - Birdwatching in der Nachbarschaft
 ogTitle: Vögel auf dem Eis - Birdwatching in der Nachbarschaft
-description: Bei einem kleinen Abendspaziergang durch die Nachbarschaft sind mir
-  vor ein paar Tagen einige interessante Gesellen begegnet. Vögel auf dem Eis.
-excerpt: Bei einem kleinen Abendspaziergang durch die Nachbarschaft sind mir vor
-  ein paar Tagen einige interessante Gesellen begegnet. Vögel auf dem Eis.
+description: Bei einem kleinen Abendspaziergang durch die Nachbarschaft sind mir vor ein paar Tagen einige interessante Gesellen begegnet. Vögel auf dem Eis.
+excerpt: Bei einem kleinen Abendspaziergang durch die Nachbarschaft sind mir vor ein paar Tagen einige interessante Gesellen begegnet. Vögel auf dem Eis.
 fileName: 2016-02---voegel-auf-dem-eis.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_Bille-19__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_Bille-19__l.jpg
@@ -36,7 +34,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Birdwatching in der Nachbarschaft
-  
 ---
 
 <Gallery name="flickr/annevoegelaufdemeis" />
@@ -44,5 +41,3 @@ subTitle: Birdwatching in der Nachbarschaft
 Fotos von einer ganz besonderen Möwe [findet Ihr hier](/2015/11/die-moewe/).
 
 &nbsp;
-
-  

@@ -7,10 +7,8 @@ typeName: Artikel
 title: Ein Montag Anfang November
 seoTitle: Ein Montag Anfang November - kurzer Tagebucheintrag
 ogTitle: Ein Montag Anfang November - kurzer Tagebucheintrag
-description: Warum scheinen es eigentlich immer alle so eilig zu haben, ein Jahr
-  zu beenden? Sollte man das nicht vielleicht lieber noch etwas herauszögern?
-excerpt: Warum scheinen es eigentlich immer alle so eilig zu haben, ein Jahr zu
-  beenden? Sollte man das nicht vielleicht lieber noch etwas herauszögern?
+description: Warum scheinen es eigentlich immer alle so eilig zu haben, ein Jahr zu beenden? Sollte man das nicht vielleicht lieber noch etwas herauszögern?
+excerpt: Warum scheinen es eigentlich immer alle so eilig zu haben, ein Jahr zu beenden? Sollte man das nicht vielleicht lieber noch etwas herauszögern?
 fileName: 2011-11---ein-montag-anfang-november.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_11_wpid-shot_13206534128181__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_11_wpid-shot_13206534128181__l.jpg
@@ -42,42 +40,23 @@ labels:
   - Urlaub
   - Weihnachtsbaum
   - Weihnachtsmarkt
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Tagebucheintrag
-  
 ---
 
-**Durch den Nebel ins Büro. Der erste Tag nach einer Woche Urlaub auf Balkonien.
-Der Herbst ist angekommen. Die Zeitumstellung nicht mehr spürbar. Die ersten
-kalten Tage gab es schon vor Wochen, doch ist es jetzt irgendwie noch
-deutlicher. Das Jahr geht wohl bald zu Ende. Liegt in seinen letzten Zügen.**
+**Durch den Nebel ins Büro. Der erste Tag nach einer Woche Urlaub auf Balkonien. Der Herbst ist angekommen. Die Zeitumstellung nicht mehr spürbar. Die ersten kalten Tage gab es schon vor Wochen, doch ist es jetzt irgendwie noch deutlicher. Das Jahr geht wohl bald zu Ende. Liegt in seinen letzten Zügen.**
 
-Zumindest wird einem das suggeriert. Es wird von der Werbung totgesagt. In den
-Supermarktregalen liegen seit Wochen die Industrielebkuchen. Vorboten der
-stillen Zeit des Konsums. Wir ignorieren einfach alle Krisen und geben es aus.
-Das Geld, das wir nicht haben. Mästen uns mit Zucker. Um zu vergessen. Lenken
-ab.
+Zumindest wird einem das suggeriert. Es wird von der Werbung totgesagt. In den Supermarktregalen liegen seit Wochen die Industrielebkuchen. Vorboten der stillen Zeit des Konsums. Wir ignorieren einfach alle Krisen und geben es aus. Das Geld, das wir nicht haben. Mästen uns mit Zucker. Um zu vergessen. Lenken ab.
 
-Im Radio sagen sie, dass der Weihnachtsmarkt im Zentrum heute seinen Tannenbaum
-einweiht. Kalte Leuchtdioden auf gefrorenen Zweigen. Fertigpunsch aus
-Plastikbechern.
+Im Radio sagen sie, dass der Weihnachtsmarkt im Zentrum heute seinen Tannenbaum einweiht. Kalte Leuchtdioden auf gefrorenen Zweigen. Fertigpunsch aus Plastikbechern.
 
-Motorenlärm, Smog. Stau vor dem Bürofenster. 17 LKW mit laufenden Motoren, zwei
-rotierende Betonmischer. Hupende Menschen in ihren Kleinwagen. Ein leichtes
-Gefühl von Melancholie beginnt sich auszubreiten.
+Motorenlärm, Smog. Stau vor dem Bürofenster. 17 LKW mit laufenden Motoren, zwei rotierende Betonmischer. Hupende Menschen in ihren Kleinwagen. Ein leichtes Gefühl von Melancholie beginnt sich auszubreiten.
 
-Warum scheinen es eigentlich immer alle so eilig zu haben, ein Jahr zu beenden?
-Sollte man das nicht vielleicht lieber noch etwas herauszögern? Versuchen, da
-noch was positives rauszuholen? Da startet man lieber krampfhaft mit guten
-Vorsätzen, die bereits am Neujahrstag vergessen scheinen, in ein Neues. Schmeißt
-das Alte weg, wie ein Paar zertretene Schuhe. Sondermüll. Nach ein paar Monaten
-geht alles wieder von vorne los. Und die Zeit vergeht einfach so. Unbemerkt.
+Warum scheinen es eigentlich immer alle so eilig zu haben, ein Jahr zu beenden? Sollte man das nicht vielleicht lieber noch etwas herauszögern? Versuchen, da noch was positives rauszuholen? Da startet man lieber krampfhaft mit guten Vorsätzen, die bereits am Neujahrstag vergessen scheinen, in ein Neues. Schmeißt das Alte weg, wie ein Paar zertretene Schuhe. Sondermüll. Nach ein paar Monaten geht alles wieder von vorne los. Und die Zeit vergeht einfach so. Unbemerkt.
 
 Doch es gibt einen Ausweg. Der Reisepass ist beantragt.
-
-  

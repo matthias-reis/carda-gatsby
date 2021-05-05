@@ -7,11 +7,8 @@ typeName: Artikel
 title: Wo bleibt eigentlich der versprochene Artikel?
 seoTitle: Wo bleibt der versprochene Artikel? Tagebucheintrag
 ogTitle: Wo bleibt der versprochene Artikel? Tagebucheintrag
-description: Nachdem ich ihn schon vor Tagen auf meiner Facebook-Seite so
-  großspurig angekündigt habe, kommt hier endlich der Artikel, den ich Euch noch
-  schulde.
-excerpt: Nachdem ich ihn schon vor Tagen auf meiner Facebook-Seite so großspurig
-  angekündigt habe, kommt hier endlich der Artikel, den ich Euch noch schulde.
+description: Nachdem ich ihn schon vor Tagen auf meiner Facebook-Seite so großspurig angekündigt habe, kommt hier endlich der Artikel, den ich Euch noch schulde.
+excerpt: Nachdem ich ihn schon vor Tagen auf meiner Facebook-Seite so großspurig angekündigt habe, kommt hier endlich der Artikel, den ich Euch noch schulde.
 fileName: 2013-11---wo-bleibt-eigentlich-der-versprochene-artikel.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_11_urkunde__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_11_urkunde__l.jpg
@@ -33,71 +30,53 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Tagebucheintrag
-  
 ---
 
-<RemoteImage alt={`Bild: Anne Reko 2009`} size="medium"
-title={`Bild: Anne Reko 2009`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_liebe-baum__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_liebe-baum__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDCAQFB//EACkQAAIBAgMIAgMBAAAAAAAAAAECAwQRAAUGBxITISIxQVEIgUJhcbH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAHBEAAgICAwAAAAAAAAAAAAAAAAECIQQREzJR/9oADAMBAAIRAxEAPwB2+V2QwVGzlc0EYNRQ1sBDAW3UdihH2WXv6wt6Vnpqv4yq9dF1UmXVkcSmSK0hiaWzeWBvbx3A94XdpG2Cr1ToTNcmqocuUVCJ1RJIGusisLXJHjCHkGsaak2YZ9p+qy6gqJJDIsNRKDxYxLY9P6DAnEuRO0B0D4zaYqsz0xm1ZHHCYlrUiV/z3kQFlYHkUO8L+R3FiOdioYJIcoijnVpCndWJckG4IBPM2v59Yq3sQ2g12k9NZlRUEVG6y1vHYzqzEExqOVmHLpw6T7YNQ8Yvu5eUKkcMwdP9uDe/3hLIhF6Yivs15lZGdt31fGrkpRG8h3iw7EEd8GDE41RpmTl0ciKzpJugnmoHL/cStWS2PXICPTnBgw32Dw//2Q=="
+<RemoteImage
+  alt={`Bild: Anne Reko 2009`}
+  size="medium"
+  title={`Bild: Anne Reko 2009`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_liebe-baum__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_liebe-baum__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDCAQFB//EACkQAAIBAgMIAgMBAAAAAAAAAAECAwQRAAUGBxITISIxQVEIgUJhcbH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAHBEAAgICAwAAAAAAAAAAAAAAAAECIQQREzJR/9oADAMBAAIRAxEAPwB2+V2QwVGzlc0EYNRQ1sBDAW3UdihH2WXv6wt6Vnpqv4yq9dF1UmXVkcSmSK0hiaWzeWBvbx3A94XdpG2Cr1ToTNcmqocuUVCJ1RJIGusisLXJHjCHkGsaak2YZ9p+qy6gqJJDIsNRKDxYxLY9P6DAnEuRO0B0D4zaYqsz0xm1ZHHCYlrUiV/z3kQFlYHkUO8L+R3FiOdioYJIcoijnVpCndWJckG4IBPM2v59Yq3sQ2g12k9NZlRUEVG6y1vHYzqzEExqOVmHLpw6T7YNQ8Yvu5eUKkcMwdP9uDe/3hLIhF6Yivs15lZGdt31fGrkpRG8h3iw7EEd8GDE41RpmTl0ciKzpJugnmoHL/cStWS2PXICPTnBgw32Dw//2Q=="
 />
 
-**Nachdem ich ihn schon vor Tagen auf meiner Facebook-Seite so großspurig
-angekündigt habe, kommt hier endlich der Artikel, den ich Euch noch schulde.**
+**Nachdem ich ihn schon vor Tagen auf meiner Facebook-Seite so großspurig angekündigt habe, kommt hier endlich der Artikel, den ich Euch noch schulde.**
 
-Ich weiß, es sind noch eine ganze Menge weitere Beiträge, die ich posten wollte,
-aber Ihr wisst ja: Was kümmert mich mein Geschwätz von...
+Ich weiß, es sind noch eine ganze Menge weitere Beiträge, die ich posten wollte, aber Ihr wisst ja: Was kümmert mich mein Geschwätz von...
 
-Normalerweise versuche ich mich wirklich dran zu halten, wenn ich Euch was
-versprochen habe, aber dieses Mal ist es wirklich in der Hektik des Alltags
-untergegangen, wie die Jungs aus der Mahnabteilung das immer so schön
-formulieren.
+Normalerweise versuche ich mich wirklich dran zu halten, wenn ich Euch was versprochen habe, aber dieses Mal ist es wirklich in der Hektik des Alltags untergegangen, wie die Jungs aus der Mahnabteilung das immer so schön formulieren.
 
-Nun ja, [wir sind umgezogen](//2013/09/24/von-guten-freunden-und-fotos/) und
-hatten dabei eine ganze Menge Stress. Viel mehr, als wir erwartet hatten. Ich
-weiß, so ist das immer. War auch bisher so, bei jedem meiner dreizehn Umzüge.
-Aber so schlimm, wie dieses Mal noch nie.
+Nun ja, [wir sind umgezogen](//2013/09/24/von-guten-freunden-und-fotos/) und hatten dabei eine ganze Menge Stress. Viel mehr, als wir erwartet hatten. Ich weiß, so ist das immer. War auch bisher so, bei jedem meiner dreizehn Umzüge. Aber so schlimm, wie dieses Mal noch nie.
 
-<RemoteImage alt={`Wenn Du der Freundin das schickst...`} size="medium"
-title={`Umzüge und andere Katastrophen`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_7712__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_7712__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwIFCP/EACwQAAEDAwMCBAYDAAAAAAAAAAECAwQFBhEAEiETMQcjQVEVIkJhYnGBofD/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAAxESBDFRIUH/2gAMAwEAAhEDEQA/AMLjkNw2QHUKbjNny2kfMpaj6/ksn/ADUzwotypSJFYqF0wmIFLnwXIfwwDz3m185UoY6ZGEnOCTn0xpgtGqUNd6UuG481Ijzy6iE84jBKwO6dw4V2H3B003s/CpC40d6ell+S4UxlbMha0gkpV7Hg8ZB1NC6k57lNn2wo6nPtxeGUh6rSDTIkai0dAAaZdkGQ4o4AK1K7ZP7xo1b8mYkhCXVsrcWBkZxj+fb+9GmMt7BhV/RFGQ0/Jepy1RFMoi7gh5byHXOohSUhwKQSAoEA98jWgvSybhvmCzdlQrO+TJSS2y6CA03khATt4SCBk499NXi/c9HspLNHYgh2aQXkssEMiOSeFKwPqJJ45POdT7Urbdz2hb9QaLURhMd5h+GlAUlLqMgYV3T2BweMK0pyHsqUOvsNxKkufRvsqm2Zb8B1du3FIL3WG1l0qI24ONhV3Hpg6NKF01UpqENUhzqyVFT61BITs3EYAx+jo06iuyg5mbGStyvk//2Q=="
+<RemoteImage
+  alt={`Wenn Du der Freundin das schickst...`}
+  size="medium"
+  title={`Umzüge und andere Katastrophen`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_7712__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_7712__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwIFCP/EACwQAAEDAwMCBAYDAAAAAAAAAAECAwQFBhEAEiETMQcjQVEVIkJhYnGBofD/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAAxESBDFRIUH/2gAMAwEAAhEDEQA/AMLjkNw2QHUKbjNny2kfMpaj6/ksn/ADUzwotypSJFYqF0wmIFLnwXIfwwDz3m185UoY6ZGEnOCTn0xpgtGqUNd6UuG481Ijzy6iE84jBKwO6dw4V2H3B003s/CpC40d6ell+S4UxlbMha0gkpV7Hg8ZB1NC6k57lNn2wo6nPtxeGUh6rSDTIkai0dAAaZdkGQ4o4AK1K7ZP7xo1b8mYkhCXVsrcWBkZxj+fb+9GmMt7BhV/RFGQ0/Jepy1RFMoi7gh5byHXOohSUhwKQSAoEA98jWgvSybhvmCzdlQrO+TJSS2y6CA03khATt4SCBk499NXi/c9HspLNHYgh2aQXkssEMiOSeFKwPqJJ45POdT7Urbdz2hb9QaLURhMd5h+GlAUlLqMgYV3T2BweMK0pyHsqUOvsNxKkufRvsqm2Zb8B1du3FIL3WG1l0qI24ONhV3Hpg6NKF01UpqENUhzqyVFT61BITs3EYAx+jo06iuyg5mbGStyvk//2Q=="
 />
 
-Dabei war Nummer 14 der erste Umzug, bei dem ich tatsächlich ein
-Umzugsunternehmen (!) beauftragt habe. Memo an mich: Nächstes Mal wieder alles
-selbst machen.
+Dabei war Nummer 14 der erste Umzug, bei dem ich tatsächlich ein Umzugsunternehmen (!) beauftragt habe. Memo an mich: Nächstes Mal wieder alles selbst machen.
 
-Naja, dann waren wir noch die ganze Zeit mit einer Seite beschäftigt, die wir
-gerade in unserer Freizeit für einen Kollegen bauen. Das heißt, Matze baut, ich
-kümmere mich um den redaktionellen Kram. Es geht um Fischerei, ein Weblog, einen
-Shop und es macht großen Spaß. Aber, es frisst auch Zeit.
+Naja, dann waren wir noch die ganze Zeit mit einer Seite beschäftigt, die wir gerade in unserer Freizeit für einen Kollegen bauen. Das heißt, Matze baut, ich kümmere mich um den redaktionellen Kram. Es geht um Fischerei, ein Weblog, einen Shop und es macht großen Spaß. Aber, es frisst auch Zeit.
 
-In den letzten Wochen habe ich immer wieder Besserung gelobt, angekündigt, ich
-würde mich wieder mehr um mein Blog kümmern, nun werde ich versuchen, das nicht
-mehr zu tun.
+In den letzten Wochen habe ich immer wieder Besserung gelobt, angekündigt, ich würde mich wieder mehr um mein Blog kümmern, nun werde ich versuchen, das nicht mehr zu tun.
 
-Einfach machen ist sowieso immer am besten. Ach ja, da kam noch eine ganze Menge
-anderes Zeug dazwischen, aber das brauche ich Euch ja nicht zu erzählen.
+Einfach machen ist sowieso immer am besten. Ach ja, da kam noch eine ganze Menge anderes Zeug dazwischen, aber das brauche ich Euch ja nicht zu erzählen.
 
-Nun endlich zu der Sache mit den Bäumen.
-[Ich habe Euch ja neulich schon mal erzählt,](//2013/08/14/einmal-im-leben-einen-baum-pflanzen-2-0/)
-dass ich vorhätte, Matze zur Hochzeit eine Baumpatenschaft zu schenken. Denn ich
-habe mir gedacht: Sterne, Bücher, Socken: Kann ja jeder.
+Nun endlich zu der Sache mit den Bäumen. [Ich habe Euch ja neulich schon mal erzählt,](//2013/08/14/einmal-im-leben-einen-baum-pflanzen-2-0/) dass ich vorhätte, Matze zur Hochzeit eine Baumpatenschaft zu schenken. Denn ich habe mir gedacht: Sterne, Bücher, Socken: Kann ja jeder.
 
-Also habe ich mich an Greenpeace gewendet, es dauerte ein paar Wochen und nun
-sind wir tatsächlich Baumpaten! Wir haben sogar persönliche Urkunden bekommen,
-auf denen die genauen Koordinaten stehen, unter denen wir unsere Bäume finden!
+Also habe ich mich an Greenpeace gewendet, es dauerte ein paar Wochen und nun sind wir tatsächlich Baumpaten! Wir haben sogar persönliche Urkunden bekommen, auf denen die genauen Koordinaten stehen, unter denen wir unsere Bäume finden!
 
-Mein Plan: Sie irgendwann, wenn das Wetter und die Zeit es zulassen zu suchen
-und zu bereisen.
+Mein Plan: Sie irgendwann, wenn das Wetter und die Zeit es zulassen zu suchen und zu bereisen.
 
-<RemoteImage alt={`Die Urkunden`} size="full" title={`Die Urkunden`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_urkunde__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_urkunde__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAApEAACAQMDAwMEAwAAAAAAAAABAgMABBEFEiEGEzEiUWEVI0FCgaHR/8QAGAEAAwEBAAAAAAAAAAAAAAAABAUGAQP/xAAfEQACAgEEAwAAAAAAAAAAAAABAgADBBESITEjQWH/2gAMAwEAAhEDEQA/AOpaFrUE1nGxDLxt5GeQOfHzSDqTXYbqae3txGWilUM7Y2qMcnkj3/ulGqI2m3AI7UjhyqEgqVySVHLYzlscDk0m+oxw39xDqk8cLG3UxgbY1bacEMChHkj38VJteT4W7lAq1LaGX3MHWOt3ENmCHCxTSBWUKAducALjnOD+p8Zzip5LzMURedmIH7rsHH5A5z5FN9b1CxeEbbvS1hEgX7ksZw3JwD2hgn81A67rapezW8Zs5CCjCaBRtPpzkHGCfeui4+4DTuEi0KxEqeubnu9T6rZhSIbiNWkBcnghT6fGCCgOaV9RQiZFk3ytcxHtmeZzIzqQODnwBgYAwBRRWWkraNsWZDlSpHyQ/UNs5023UzEkyFjlfJwf9qeUvA42t8cfP80UU6x2LLzA2sYvqTP/2Q=="
+<RemoteImage
+  alt={`Die Urkunden`}
+  size="full"
+  title={`Die Urkunden`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_urkunde__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_urkunde__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAApEAACAQMDAwMEAwAAAAAAAAABAgMABBEFEiEGEzEiUWEVI0FCgaHR/8QAGAEAAwEBAAAAAAAAAAAAAAAABAUGAQP/xAAfEQACAgEEAwAAAAAAAAAAAAABAgADBBESITEjQWH/2gAMAwEAAhEDEQA/AOpaFrUE1nGxDLxt5GeQOfHzSDqTXYbqae3txGWilUM7Y2qMcnkj3/ulGqI2m3AI7UjhyqEgqVySVHLYzlscDk0m+oxw39xDqk8cLG3UxgbY1bacEMChHkj38VJteT4W7lAq1LaGX3MHWOt3ENmCHCxTSBWUKAducALjnOD+p8Zzip5LzMURedmIH7rsHH5A5z5FN9b1CxeEbbvS1hEgX7ksZw3JwD2hgn81A67rapezW8Zs5CCjCaBRtPpzkHGCfeui4+4DTuEi0KxEqeubnu9T6rZhSIbiNWkBcnghT6fGCCgOaV9RQiZFk3ytcxHtmeZzIzqQODnwBgYAwBRRWWkraNsWZDlSpHyQ/UNs5023UzEkyFjlfJwf9qeUvA42t8cfP80UU6x2LLzA2sYvqTP/2Q=="
 />
-
-  

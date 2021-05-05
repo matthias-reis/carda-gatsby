@@ -8,8 +8,7 @@ title: Russian Circles live @Kranhalle München
 seoTitle: Russian Circles live @ Kranhalle München
 ogTitle: Russian Circles live @ Kranhalle München
 description: Einen perfekten Auftritt legten Russian Circles in München hin
-excerpt: Es war ein perfektes Konzert - mehr braucht man über das Russian
-  Circles Konzert in der Kranhalle fast nicht sagen.
+excerpt: Es war ein perfektes Konzert - mehr braucht man über das Russian Circles Konzert in der Kranhalle fast nicht sagen.
 fileName: 2013-11---russian-circles-live-kranhalle-muenchen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_11_img_6338__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_11_img_6338__l.jpg
@@ -33,17 +32,13 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Ein perfektes Konzert
-  
 ---
 
-**Es war ein perfektes Konzert - mehr braucht man über das Russian Circles
-Konzert in der Kranhalle fast nicht sagen.**
+**Es war ein perfektes Konzert - mehr braucht man über das Russian Circles Konzert in der Kranhalle fast nicht sagen.**
 
-Die Band war in toller Stimmung, das Publikum war toll, die Stimmung war noch
-besser, als beim letzten Mal im benachbarten Feierwerk.
+Die Band war in toller Stimmung, das Publikum war toll, die Stimmung war noch besser, als beim letzten Mal im benachbarten Feierwerk.
 
-**Mir fehlen die Worte, daher lasse ich an dieser Stelle einfach Bilder
-sprechen.**
+**Mir fehlen die Worte, daher lasse ich an dieser Stelle einfach Bilder sprechen.**
 
 <Gallery name="flickr/rumuc" />
 
@@ -53,8 +48,7 @@ sprechen.**
 
 **Hier sind für Euch Russian Circles mit Carpe**
 
- <YouTube id="mzYW1pY3hFA&amp;w=420&amp;h=315" />
+{' '}
+<YouTube id="mzYW1pY3hFA&amp;w=420&amp;h=315" />
 
 _Für Vale_
-
-  

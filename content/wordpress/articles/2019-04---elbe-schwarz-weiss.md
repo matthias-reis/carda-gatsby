@@ -7,11 +7,8 @@ typeName: Artikel
 title: Elbe schwarz-weiß
 seoTitle: Elbe schwarz-weiß - ein sonniger Samstagsspaziergang in Altona
 ogTitle: Elbe schwarz-weiß - ein sonniger Samstagsspaziergang in Altona
-description: Hier bei uns in Altona sieht alles schon ganz anders aus, wenn am
-  Wochenende die Sonne scheint. Dann zieht es alle an die Ufer der Elbe.
-excerpt: Hier bei uns in Altona sieht alles schon ganz anders aus, wenn am
-  Wochenende die Sonne scheint. Dann zieht scheint es alle ans Ufer der Elbe zu
-  ziehen.
+description: Hier bei uns in Altona sieht alles schon ganz anders aus, wenn am Wochenende die Sonne scheint. Dann zieht es alle an die Ufer der Elbe.
+excerpt: Hier bei uns in Altona sieht alles schon ganz anders aus, wenn am Wochenende die Sonne scheint. Dann zieht scheint es alle ans Ufer der Elbe zu ziehen.
 fileName: 2019-04---elbe-schwarz-weiss.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-30-elbe__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-30-elbe__l.jpg
@@ -31,23 +28,14 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Ein sonniger Samstagsspaziergang
-  
 ---
 
-**Hier bei uns in Altona sieht alles schon ganz anders aus, wenn am Wochenende
-die Sonne scheint. Dann brechen nämlich zahlreiche Menschen auf und verstopfen
-die Spazierwege.**
+**Hier bei uns in Altona sieht alles schon ganz anders aus, wenn am Wochenende die Sonne scheint. Dann brechen nämlich zahlreiche Menschen auf und verstopfen die Spazierwege.**
 
-Am Samstag haben wir dabei fleißig mitgemischt und sind an die Elbe runter. Dort
-angekommen, wurde das frühlingshafte Wetter in vollen Zügen genossen. Oder
-besser gesagt auf vollem Kopfsteinpflaster.
+Am Samstag haben wir dabei fleißig mitgemischt und sind an die Elbe runter. Dort angekommen, wurde das frühlingshafte Wetter in vollen Zügen genossen. Oder besser gesagt auf vollem Kopfsteinpflaster.
 
-Auf den Fotos, die ich Euch mitgebracht habe, sind keine Menschen zu sehen.
-Dafür lassen sich einige Gegensätze darauf erkennen und auch die ganzen
-wunderbaren Farbtöne zwischen dem Schwarz und dem Weiß.
+Auf den Fotos, die ich Euch mitgebracht habe, sind keine Menschen zu sehen. Dafür lassen sich einige Gegensätze darauf erkennen und auch die ganzen wunderbaren Farbtöne zwischen dem Schwarz und dem Weiß.
 
 <Gallery name="2019-03-30-elbe-altona" />
 
 &nbsp;
-
-  

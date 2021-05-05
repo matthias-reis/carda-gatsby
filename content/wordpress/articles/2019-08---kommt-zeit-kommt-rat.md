@@ -7,10 +7,8 @@ typeName: Gedicht
 title: Kommt Zeit, kommt Rat
 seoTitle: Kommt Zeit, kommt Rat - so ist das mit der Gewissheit
 ogTitle: Kommt Zeit, kommt Rat - so ist das mit der Gewissheit
-description: Kommt Zeit, kommt Rat - Gewissheit kehrt häufig erst dann ein, wenn
-  etwas Unvorhergesehenes passiert und sich die Gesamtsituation ändert.
-excerpt: Kommt Zeit, kommt Rat - Gewissheit kehrt häufig erst dann ein, wenn
-  etwas Unvorhergesehenes passiert und sich die Gesamtsituation ändert.
+description: Kommt Zeit, kommt Rat - Gewissheit kehrt häufig erst dann ein, wenn etwas Unvorhergesehenes passiert und sich die Gesamtsituation ändert.
+excerpt: Kommt Zeit, kommt Rat - Gewissheit kehrt häufig erst dann ein, wenn etwas Unvorhergesehenes passiert und sich die Gesamtsituation ändert.
 fileName: 2019-08---kommt-zeit-kommt-rat.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_kommt-zeit-kommt-rat__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_kommt-zeit-kommt-rat__l.jpg
@@ -34,32 +32,24 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Alles Ansichtssache
-  
 ---
 
 ## Kommt Zeit, kommt Rat, sagt man,
 
 wenn man nicht mehr weiterweiß.
 
-Gewissheit kehrt häufig erst dann ein, wenn etwas Unvorhergesehenes passiert und
-sich die Gesamtsituation ändert.
+Gewissheit kehrt häufig erst dann ein, wenn etwas Unvorhergesehenes passiert und sich die Gesamtsituation ändert.
 
 Der Fokus verschiebt sich auf etwas anderes.
 
 Das Problem verliert an Bedeutung und im besten Fall hebt sich die Stimmung.
 
-Wer ab und zu ein Ohr auf die Schienen der Zeit legt und ein Gespür dafür hat,
-schaut positiv in die Zukunft,
+Wer ab und zu ein Ohr auf die Schienen der Zeit legt und ein Gespür dafür hat, schaut positiv in die Zukunft,
 
 denn es geht ja immer weiter - wo ein Ende ist, ist auch immer ein Anfang.
 
-Warten kann durchaus etwas Positives sein. Nur merkt man das leider häufig erst
-später, wenn die wertvolle Zeit des Ruhe vorbei ist und man sich wieder so
-wichtigen Dingen wie dem Alltag widmen muss.
+Warten kann durchaus etwas Positives sein. Nur merkt man das leider häufig erst später, wenn die wertvolle Zeit des Ruhe vorbei ist und man sich wieder so wichtigen Dingen wie dem Alltag widmen muss.
 
-Am Ende ist es wie immer: Es ist alles Ansichtssache. Nach dem Warten ist vor
-dem Warten.
+Am Ende ist es wie immer: Es ist alles Ansichtssache. Nach dem Warten ist vor dem Warten.
 
 ["Schreib es auf" - warum dieser Satz sehr hilfreich sein kann, erfahrt Ihr hier.](/2019/05/10-ideen-fuer-mehr-glueckliche-momente/)
-
-  

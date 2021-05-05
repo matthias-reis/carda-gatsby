@@ -7,10 +7,8 @@ typeName: Galerie
 title: Mein Istanbul
 seoTitle: Mein Istanbul
 ogTitle: Mein Istanbul
-description: Auf den Spuren von Fatih Akin habe ich eine Fotostrecke in Istanbul
-  aufgenommen - Istanbul ist einfach eine Lieblingsstadt
-excerpt: Auf den Spuren von Fatih Akin an den Drehorten von "Gegen die Wand" und
-  "Auf der anderen Seite".
+description: Auf den Spuren von Fatih Akin habe ich eine Fotostrecke in Istanbul aufgenommen - Istanbul ist einfach eine Lieblingsstadt
+excerpt: Auf den Spuren von Fatih Akin an den Drehorten von "Gegen die Wand" und "Auf der anderen Seite".
 fileName: 2010-01---mein-istanbul.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2010_01_11511594074_b3a8e337ef_z-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2010_01_11511594074_b3a8e337ef_z-2__l.jpg
@@ -30,18 +28,13 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: "Januar 2010: 4 Tage Istanbul"
-  
+subTitle: 'Januar 2010: 4 Tage Istanbul'
 ---
 
-**Auf den Spuren von Fatih Akin an den Drehorten von "Gegen die Wand" und "Auf
-der anderen Seite". Die Stadt am Bosporus hat die Bezeichnung "Lieblingsstadt"
-eindeutig verdient.**
+**Auf den Spuren von Fatih Akin an den Drehorten von "Gegen die Wand" und "Auf der anderen Seite". Die Stadt am Bosporus hat die Bezeichnung "Lieblingsstadt" eindeutig verdient.**
 
 <Gallery name="flickr/istanbul2010anne" />
 
 Fotos: Istanbul, Türkei 2010
 
 &nbsp;
-
-  

@@ -7,12 +7,8 @@ typeName: Galerie
 title: Berlin an einem Dienstag Anfang Juli
 seoTitle: Berlin an einem Dienstag Anfang Juli - Wunderbare Stadt an der Spree
 ogTitle: Berlin an einem Dienstag Anfang Juli - Wunderbare Stadt an der Spree
-description: Die Sonne scheint erbarmungslos. Der Asphalt wirft blasen. In den
-  Brunnen spielen Kinder. Es ist Sommer in Berlin. Guck mal, da vorne! Der
-  Fernsehturm!
-excerpt: Die Sonne scheint erbarmungslos. Der Asphalt wirft blasen. In den
-  Brunnen spielen Kinder. Es ist Sommer in Berlin. Guck mal, da vorne! Der
-  Fernsehturm!
+description: Die Sonne scheint erbarmungslos. Der Asphalt wirft blasen. In den Brunnen spielen Kinder. Es ist Sommer in Berlin. Guck mal, da vorne! Der Fernsehturm!
+excerpt: Die Sonne scheint erbarmungslos. Der Asphalt wirft blasen. In den Brunnen spielen Kinder. Es ist Sommer in Berlin. Guck mal, da vorne! Der Fernsehturm!
 fileName: 2018-07---berlin-an-einem-dienstag-anfang-juli.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Berlin-1-von-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Berlin-1-von-1__l.jpg
@@ -43,21 +39,12 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Wunderbare Stadt an der Spree
-  
 ---
 
-**Guck mal, da vorne! Der Fernsehturm! Die Sonne scheint erbarmungslos. Der
-Asphalt wirft Blasen. In den Brunnen spielen Kinder. Es ist Sommer in Berlin.**
+**Guck mal, da vorne! Der Fernsehturm! Die Sonne scheint erbarmungslos. Der Asphalt wirft Blasen. In den Brunnen spielen Kinder. Es ist Sommer in Berlin.**
 
-Den Blick immer nach oben gerichtet, das Smartphone vor der Nase. Fotos für
-daheim! Es ist alles so schön bunt hier! Lecker essen! Lass und doch dort drüben
-einkehren!
+Den Blick immer nach oben gerichtet, das Smartphone vor der Nase. Fotos für daheim! Es ist alles so schön bunt hier! Lecker essen! Lass und doch dort drüben einkehren!
 
-Vom Alex bis nach Friedrichshain. Dann in den Prenzelberg und wieder zurück. Die
-Schuhsohlen rauchen schon. Macht nichts. Es geht weiter! Man soll den Tag doch
-niemals vor dem Abend loben. Wir stürzen uns die die Dunkelheit der Nacht und
-lassen uns von den Bässen massieren.
+Vom Alex bis nach Friedrichshain. Dann in den Prenzelberg und wieder zurück. Die Schuhsohlen rauchen schon. Macht nichts. Es geht weiter! Man soll den Tag doch niemals vor dem Abend loben. Wir stürzen uns die die Dunkelheit der Nacht und lassen uns von den Bässen massieren.
 
 <Gallery name="flickr/anneberlinduwildeschoenheit20180703" />
-
-  

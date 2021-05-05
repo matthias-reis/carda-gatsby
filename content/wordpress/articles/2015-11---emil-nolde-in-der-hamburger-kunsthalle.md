@@ -7,11 +7,8 @@ typeName: Galerie
 title: Emil Nolde in der Hamburger Kunsthalle
 seoTitle: Emil Nolde in der Hamburger Kunsthalle
 ogTitle: Emil Nolde in der Hamburger Kunsthalle
-description: Derzeit läuft in der Hamburger Kunsthalle eine Sonderausstellung
-  mit den Werken des norddeutschen Künstlers Emil Nolde - Hier sind meine
-  Eindrücke
-excerpt: Derzeit läuft in der Hamburger Kunsthalle eine Sonderausstellung mit
-  den Werken des norddeutschen Künstlers Emil Nolde - Hier sind meine Eindrücke
+description: Derzeit läuft in der Hamburger Kunsthalle eine Sonderausstellung mit den Werken des norddeutschen Künstlers Emil Nolde - Hier sind meine Eindrücke
+excerpt: Derzeit läuft in der Hamburger Kunsthalle eine Sonderausstellung mit den Werken des norddeutschen Künstlers Emil Nolde - Hier sind meine Eindrücke
 fileName: 2015-11---emil-nolde-in-der-hamburger-kunsthalle.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22827822100_f644397cf7_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22827822100_f644397cf7_z__l.jpg
@@ -34,48 +31,24 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Instagram-Galerie
-  
 ---
 
-**Wie [angekündigt](/2015/11/ein-besuch-in-…ger-kunsthalle/), habe ich von
-unserem Besuch in der Hamburger Kunsthalle letzte Woche noch was mitgebracht.
-Heute lüfte ich das Geheimnis und präsentiere Euch eine kleine Instagram-Galerie
-mit Fotos von der Emil Nolde Sonderausstellung.**
+**Wie [angekündigt](/2015/11/ein-besuch-in-…ger-kunsthalle/), habe ich von unserem Besuch in der Hamburger Kunsthalle letzte Woche noch was mitgebracht. Heute lüfte ich das Geheimnis und präsentiere Euch eine kleine Instagram-Galerie mit Fotos von der Emil Nolde Sonderausstellung.**
 
-Im Anschluss findet Ihr dann noch ein paar Informationen über den norddeutschen
-Künstler.
+Im Anschluss findet Ihr dann noch ein paar Informationen über den norddeutschen Künstler.
 
 <Gallery name="flickr/anneemilnolde2015" />
 
-Emil Nolde wurde am 7. August 1867 als Hans Emil Hansen in Nolde bei Buhrkall in
-Schleswig Holstein geboren. Er war einer der bekanntesten Maler des
-Expressionismus und einer der größten Aquarellisten des 20. Jahrhunderts.
-Berühmt wurde er vor allem durch die starken Farben seiner Werke.
+Emil Nolde wurde am 7. August 1867 als Hans Emil Hansen in Nolde bei Buhrkall in Schleswig Holstein geboren. Er war einer der bekanntesten Maler des Expressionismus und einer der größten Aquarellisten des 20. Jahrhunderts. Berühmt wurde er vor allem durch die starken Farben seiner Werke.
 
-Auf seinen Reisen besuchte er häufig auch die Hansestadt Hamburg, die ihn zu
-zahlreichen Kunstwerken inspirierte. Besonders fasziniert war er vom Hafen, die
-Stadt verstand er als Sinnbild der Urkräfte von Natur und Leben.
+Auf seinen Reisen besuchte er häufig auch die Hansestadt Hamburg, die ihn zu zahlreichen Kunstwerken inspirierte. Besonders fasziniert war er vom Hafen, die Stadt verstand er als Sinnbild der Urkräfte von Natur und Leben.
 
-Als er im Frühjahr 1910 für mehrere Wochen in einem Hotel auf St. Pauli wohnte,
-ließ er die Einflüsse des Hafens und seiner Umgebung auf sich wirken. Damals
-entstanden kurz hintereinander über 100 Kunstwerke mit Dampfern und
-Segelschiffen, auf denen er die Stimmung perfekt einfing.
+Als er im Frühjahr 1910 für mehrere Wochen in einem Hotel auf St. Pauli wohnte, ließ er die Einflüsse des Hafens und seiner Umgebung auf sich wirken. Damals entstanden kurz hintereinander über 100 Kunstwerke mit Dampfern und Segelschiffen, auf denen er die Stimmung perfekt einfing.
 
-Als Nolde am 13. April 1956 verstarb, hinterließ er zahlreiche Gemälde,
-Lithographien und Aquarelle, die sich heute im Besitz der Emil Nolde Stiftung
-befinden.
+Als Nolde am 13. April 1956 verstarb, hinterließ er zahlreiche Gemälde, Lithographien und Aquarelle, die sich heute im Besitz der Emil Nolde Stiftung befinden.
 
-Die Sonderausstellung in der Hamburger Kunsthalle ist in Kooperation mit der
-Nolde Stiftung Seebüll unter der Schirmherrschaft von Helmut Schmidt entstanden.
+Die Sonderausstellung in der Hamburger Kunsthalle ist in Kooperation mit der Nolde Stiftung Seebüll unter der Schirmherrschaft von Helmut Schmidt entstanden.
 
-> Farben, das Material des Malers: Farben in ihrem Eigenleben, weinend und
-> lachend., Traum und Glück, heiß und heilig, wie Liebeslieder und Erotik, wie
-> Gesänge und herrliche Choräle! Farben sind Schwingungen wie
-> Silberglockenklänge und Bronzegeläute, kündend Glück, Leidenschaft und Liebe,
-> Seele, Blut und Tod. - Emil Nolde
+> Farben, das Material des Malers: Farben in ihrem Eigenleben, weinend und lachend., Traum und Glück, heiß und heilig, wie Liebeslieder und Erotik, wie Gesänge und herrliche Choräle! Farben sind Schwingungen wie Silberglockenklänge und Bronzegeläute, kündend Glück, Leidenschaft und Liebe, Seele, Blut und Tod. - Emil Nolde
 
-Meine Bilder von der Tattoo-Ausstellung im Museum für Kunst und Gewerbe in
-Hamburg
-[findet Ihr hier](/2015/08/tattoo-ausstellung-im-museum-fuer-kunst-und-gewerbe-hamburg/).
-
-  
+Meine Bilder von der Tattoo-Ausstellung im Museum für Kunst und Gewerbe in Hamburg [findet Ihr hier](/2015/08/tattoo-ausstellung-im-museum-fuer-kunst-und-gewerbe-hamburg/).

@@ -7,10 +7,8 @@ typeName: Gedicht
 title: Mut zu hinterfragen
 seoTitle: Mut zu hinterfragen - ein Gedicht über eine Löwin und ihre Jungen
 ogTitle: Mut zu hinterfragen - ein Gedicht über eine Löwin und ihre Jungen
-description: Mut zu hinterfragen - darauf kommt es an. Von der essentiellen
-  Wichtigkeit, nicht alles als gegeben hinzunehmen und weiterzumachen.
-excerpt: Mut zu hinterfragen - darauf kommt es an. Von der essentiellen
-  Wichtigkeit, nicht alles als gegeben hinzunehmen und weiterzumachen.
+description: Mut zu hinterfragen - darauf kommt es an. Von der essentiellen Wichtigkeit, nicht alles als gegeben hinzunehmen und weiterzumachen.
+excerpt: Mut zu hinterfragen - darauf kommt es an. Von der essentiellen Wichtigkeit, nicht alles als gegeben hinzunehmen und weiterzumachen.
 fileName: 2019-04---mut-zu-hinterfragen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-planten-un-blomen__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-planten-un-blomen__l.jpg
@@ -33,13 +31,11 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Gedicht über eine Löwin und ihre Jungen - oder?
-  
 ---
 
 <blockquote>
 
-Bleiben oder sterben, fragte sich die Löwin und ging. Einst Teil eines stolzen
-Rudels, heute nur noch auf der Flucht
+Bleiben oder sterben, fragte sich die Löwin und ging. Einst Teil eines stolzen Rudels, heute nur noch auf der Flucht
 
 Umdenken und weitermachen. Einen Platz an der Tränke suchen.
 
@@ -56,5 +52,3 @@ Die Nachkommen lagern im Schatten. Sand unter der Mähne.
 Sensationslust war gestern. Heute wird hinterfragt.
 
 </blockquote>
-
-  

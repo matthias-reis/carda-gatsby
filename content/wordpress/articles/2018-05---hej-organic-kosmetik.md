@@ -7,12 +7,8 @@ typeName: Produkttest
 title: Hej Organic Kosmetik
 seoTitle: Hej Organic Kosmetik im Test - Pflegeprodukte mit Kaktus und Herz
 ogTitle: Hej Organic Kosmetik im Test - Pflegeprodukte mit Kaktus und Herz
-description: Vor Kurzem erreichte mich ein tolles Testpaket des Herstellers Hej
-  Organic. "Wir glauben an Deine innere Schönheit" heißt es auf der Homepage.
-  Mein Bericht.
-excerpt: Werbung - Vor Kurzem erreichte mich ein tolles Testpaket des
-  Herstellers Hej Organic. "Wir glauben an Deine innere Schönheit" heißt es auf
-  der Homepage. Alle Inhaltsstoffe sind natürlich, vegan und bio.
+description: Vor Kurzem erreichte mich ein tolles Testpaket des Herstellers Hej Organic. "Wir glauben an Deine innere Schönheit" heißt es auf der Homepage. Mein Bericht.
+excerpt: Werbung - Vor Kurzem erreichte mich ein tolles Testpaket des Herstellers Hej Organic. "Wir glauben an Deine innere Schönheit" heißt es auf der Homepage. Alle Inhaltsstoffe sind natürlich, vegan und bio.
 fileName: 2018-05---hej-organic-kosmetik.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_28366155898_85332d094b_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_28366155898_85332d094b_z__l.jpg
@@ -49,137 +45,77 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Pflegeprodukte mit Kaktus und Herz
-  
 ---
 
 _Werbung\*_
 
-**Vor Kurzem erreichte mich ein tolles Testpaket des Herstellers Hej Organic.
-"Wir glauben an Deine innere Schönheit" heißt es auf der Homepage. Alle
-Inhaltsstoffe sind natürlich, vegan und bio. Das klingt doch schon mal gut,
-oder?**
+**Vor Kurzem erreichte mich ein tolles Testpaket des Herstellers Hej Organic. "Wir glauben an Deine innere Schönheit" heißt es auf der Homepage. Alle Inhaltsstoffe sind natürlich, vegan und bio. Das klingt doch schon mal gut, oder?**
 
-Das Besondere an der von mir getesteten Serie: Die Produkte enthalten
-Bio-Kaktusfeigenkernöl und Bio-Kaktusfeigenblütenwasser. Beide Bestandteile
-sollen eine wertvolle Kombination essentieller Fettsäuren liefern, 85 Prozent
-davon ungesättigt. Der Kaktus liefert von Natur aus Taurin, welches die
-Zellregeneration schützt und somit der Hautalterung vorbeugt.
+Das Besondere an der von mir getesteten Serie: Die Produkte enthalten Bio-Kaktusfeigenkernöl und Bio-Kaktusfeigenblütenwasser. Beide Bestandteile sollen eine wertvolle Kombination essentieller Fettsäuren liefern, 85 Prozent davon ungesättigt. Der Kaktus liefert von Natur aus Taurin, welches die Zellregeneration schützt und somit der Hautalterung vorbeugt.
 
-<RemoteImage alt={`Hej Organic`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_28366155898_85332d094b_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_28366155898_85332d094b_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgDBAUG/8QAKBAAAgEEAQQCAQUBAAAAAAAAAQIDBAUGEQAHEiFREzEiFDJCYYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgABA//EABwRAQADAQEAAwAAAAAAAAAAAAEAAhESAwQhMf/aAAwDAQACEQMRAD8AW2KHuA5OKdfHjjS2DEcQhwqOtseLW+5VVVSpU08dcvzMXkRdbd9kKu/r+j75Uv2M4vf8eFujx22Y7dXO4Z4IFaUeTGCezW9kHwSBvXE/KpW3Kfkyv25F3tOMXa8o72i1VlakbdrtBEWCnW9E/QOvPLNT0/yeFS0lkqUAG/yZAf8AndxjekOL0eHWy/ymqTIFqzTmCIR/AiuEZh3Esf3B0/weN81rNNR1tHdal7U9I1JRtUVE5jIWRwjMqfkB2/zPbr6Ke/E+jY6rmQ2bVcirWrqHlFsoKeiorvJDTQRiKNVijOlH0Nld82rX1dyeiU/JPTVjmQyfLUxEvsnetqV8b8j1w4cD50XUnSry6TssY68tRrPHeLRtZXST5KCbt0VUqAyP4Ya1od2hoehrbqurOP12H5FFSVv6OsraaqJpp4XV5HaEoumG1LFj7+gPXDhy4AwgudOs/9k="
+<RemoteImage
+  alt={`Hej Organic`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_28366155898_85332d094b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_28366155898_85332d094b_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgDBAUG/8QAKBAAAgEEAQQCAQUBAAAAAAAAAQIDBAUGEQAHEiFREzEiFDJCYYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgABA//EABwRAQADAQEAAwAAAAAAAAAAAAEAAhESAwQhMf/aAAwDAQACEQMRAD8AW2KHuA5OKdfHjjS2DEcQhwqOtseLW+5VVVSpU08dcvzMXkRdbd9kKu/r+j75Uv2M4vf8eFujx22Y7dXO4Z4IFaUeTGCezW9kHwSBvXE/KpW3Kfkyv25F3tOMXa8o72i1VlakbdrtBEWCnW9E/QOvPLNT0/yeFS0lkqUAG/yZAf8AndxjekOL0eHWy/ymqTIFqzTmCIR/AiuEZh3Esf3B0/weN81rNNR1tHdal7U9I1JRtUVE5jIWRwjMqfkB2/zPbr6Ke/E+jY6rmQ2bVcirWrqHlFsoKeiorvJDTQRiKNVijOlH0Nld82rX1dyeiU/JPTVjmQyfLUxEvsnetqV8b8j1w4cD50XUnSry6TssY68tRrPHeLRtZXST5KCbt0VUqAyP4Ya1od2hoehrbqurOP12H5FFSVv6OsraaqJpp4XV5HaEoumG1LFj7+gPXDhy4AwgudOs/9k="
 />
 
-Für alle Hej Produkte wird garantiert, dass sie zu 100 Prozent vegan und
-natürlich sind, frei von PEG, SLS, Parabenen, Paraffinen, Silikonen, Mineralöl,
-synthetischen Inhaltsstoffen sowie Farb- und Duftstoffen. Auf Tierversuche wird
-bewusst verzichtet. Von Dermatest wurde die Marke mit "Sehr gut" bewertet. Sie
-tragen die Vegan-Blume der British Society, das Bio-Siegel sowie das
-NATRUE-Siegel für
-[ökologische Kosmetik](/2018/03/vegane-kosmetik-und-naturkosmetik/).
+Für alle Hej Produkte wird garantiert, dass sie zu 100 Prozent vegan und natürlich sind, frei von PEG, SLS, Parabenen, Paraffinen, Silikonen, Mineralöl, synthetischen Inhaltsstoffen sowie Farb- und Duftstoffen. Auf Tierversuche wird bewusst verzichtet. Von Dermatest wurde die Marke mit "Sehr gut" bewertet. Sie tragen die Vegan-Blume der British Society, das Bio-Siegel sowie das NATRUE-Siegel für [ökologische Kosmetik](/2018/03/vegane-kosmetik-und-naturkosmetik/).
 
-Bei der Beschaffung der Zutaten sowie der Herstellung wird auf Fairness und
-Nachhaltigkeit gesetzt. Daher arbeitet man mit Kooperativen zusammen, wo die
-Herstellungsprozesse überwacht und die Mitarbeiter gut behandelt werden. Der
-Unternehmenssitz ist in Dortmund. Hej Organic wurde 2016 gegründet und ist eine
-Tochterfirma des Naturkosmetikherstellers BRANDPUR.
+Bei der Beschaffung der Zutaten sowie der Herstellung wird auf Fairness und Nachhaltigkeit gesetzt. Daher arbeitet man mit Kooperativen zusammen, wo die Herstellungsprozesse überwacht und die Mitarbeiter gut behandelt werden. Der Unternehmenssitz ist in Dortmund. Hej Organic wurde 2016 gegründet und ist eine Tochterfirma des Naturkosmetikherstellers BRANDPUR.
 
 ## Der Test
 
-Getestet habe ich das Reiseset, bestehend aus einem Face Tonic, einem Body
-Splash, einer Gesichtscreme und einer Gesichts- und Décolleté Maske sowie die
-Tuchmaske und die Trio-Maske.
+Getestet habe ich das Reiseset, bestehend aus einem Face Tonic, einem Body Splash, einer Gesichtscreme und einer Gesichts- und Décolleté Maske sowie die Tuchmaske und die Trio-Maske.
 
-Letztere möchte ich gerne zuerst besprechen. Ich finde sie wirklich spannend.
-Etwas Derartiges kannte ich bis jetzt noch gar nicht. Was sie von anderen
-Gesichtsmasken unterscheidet ist: Sie besteht aus drei verschiedenen
-Komponenten. Eine für die T-Zone (Nase, Stirn und Kinn), wo die Haut von Natur
-aus ja eher zum Fetten neigt, eine für die empfindliche Augenpartie sowie eine
-für die Wangen.
+Letztere möchte ich gerne zuerst besprechen. Ich finde sie wirklich spannend. Etwas Derartiges kannte ich bis jetzt noch gar nicht. Was sie von anderen Gesichtsmasken unterscheidet ist: Sie besteht aus drei verschiedenen Komponenten. Eine für die T-Zone (Nase, Stirn und Kinn), wo die Haut von Natur aus ja eher zum Fetten neigt, eine für die empfindliche Augenpartie sowie eine für die Wangen.
 
-Kurz nach dem Auftragen stellt man sofort den Unterschied fest: Die
-T-Zonen-Maske scheint eher zu trocknen, zieht die Haut ein Bisschen zusammen,
-während die Wangen-Maske (Cheek-Zone) angenehm kühlt, die Augenpartie (Eye-Zone)
-entspannt sich.
+Kurz nach dem Auftragen stellt man sofort den Unterschied fest: Die T-Zonen-Maske scheint eher zu trocknen, zieht die Haut ein Bisschen zusammen, während die Wangen-Maske (Cheek-Zone) angenehm kühlt, die Augenpartie (Eye-Zone) entspannt sich.
 
 ## Hej Organic - Die Haut entspannt sich
 
-<RemoteImage alt={`Hej Organic`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41517648754_74eb8cf8a2_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41517648754_74eb8cf8a2_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQYI/8QAKRAAAQMDBAIBAwUAAAAAAAAAAQIDBAAFEQYSITEHExQiUWEjQZGx0v/EABYBAQEBAAAAAAAAAAAAAAAAAAIEA//EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMSExEhFEGB/9oADAMBAAIRAxEAPwDm1lndimBZvFt8uttizoz9pS1JYTJQlyXtWEK6Kk7TjqqjTmmUzLY3NnSXWkrAUlDSQSlJJCSokHk46+3JNOXQ9zKH7FYo8hEL4tvdZky3ozZWsoUktgEkgDClcZ7FV2WiteRJgV7LeovF+HtQA4MuyA8HHzFf4ql1B41u9lgSpcqVa1Nx2y6tDT6lKwPsCgU92HL2/Y7I8u5Rm58p0JmNGC3+gghRJ253DGEjJ4yay3k1+U1ZNZMvvh+E2yymK76kJ37sFf1J4VgkD8YNTeSWjrdGbEAj5FJp/WLdttjLJ9vtbAG1ROw4GB1+P6qLet3kXX5jcUYSrclO/aM9nPB7NFFInLoxqoQ5CahPl6QkHNmjk4xkyVZ/nbVFqryCu9WiRBRBLCH04UfcCAdwPACRnr9zRRQ1qJpsYz//2Q=="
+<RemoteImage
+  alt={`Hej Organic`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41517648754_74eb8cf8a2_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41517648754_74eb8cf8a2_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQYI/8QAKRAAAQMDBAIBAwUAAAAAAAAAAQIDBAAFEQYSITEHExQiUWEjQZGx0v/EABYBAQEBAAAAAAAAAAAAAAAAAAIEA//EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMSExEhFEGB/9oADAMBAAIRAxEAPwDm1lndimBZvFt8uttizoz9pS1JYTJQlyXtWEK6Kk7TjqqjTmmUzLY3NnSXWkrAUlDSQSlJJCSokHk46+3JNOXQ9zKH7FYo8hEL4tvdZky3ozZWsoUktgEkgDClcZ7FV2WiteRJgV7LeovF+HtQA4MuyA8HHzFf4ql1B41u9lgSpcqVa1Nx2y6tDT6lKwPsCgU92HL2/Y7I8u5Rm58p0JmNGC3+gghRJ253DGEjJ4yay3k1+U1ZNZMvvh+E2yymK76kJ37sFf1J4VgkD8YNTeSWjrdGbEAj5FJp/WLdttjLJ9vtbAG1ROw4GB1+P6qLet3kXX5jcUYSrclO/aM9nPB7NFFInLoxqoQ5CahPl6QkHNmjk4xkyVZ/nbVFqryCu9WiRBRBLCH04UfcCAdwPACRnr9zRRQ1qJpsYz//2Q=="
 />
 
-Die Maske bleibt 10-15 Minuten auf dem Gesicht, bevor sie mit lauwarmem Wasser
-abgespült wird: Das Ergebnis: Kleine Rötungen sind zurückgegangen. Das Gesicht
-wirkt insgesamt entspannter und der Glanz auf Stirn und Kinn hat nachgelassen.
-Besonders für Personen, die wie ich eine klassische Mischhaut haben, die
-vielleicht (wie bei mir) auch noch zu Rötungen neigt, ist die Maske ein wirklich
-wertvolles Produkt. Laut Hej kann sie zwei mal in der Woche angewendet werden.
+Die Maske bleibt 10-15 Minuten auf dem Gesicht, bevor sie mit lauwarmem Wasser abgespült wird: Das Ergebnis: Kleine Rötungen sind zurückgegangen. Das Gesicht wirkt insgesamt entspannter und der Glanz auf Stirn und Kinn hat nachgelassen. Besonders für Personen, die wie ich eine klassische Mischhaut haben, die vielleicht (wie bei mir) auch noch zu Rötungen neigt, ist die Maske ein wirklich wertvolles Produkt. Laut Hej kann sie zwei mal in der Woche angewendet werden.
 
-Im Anschluss an die Behandlung mit der Maske trage ich zuerst den Toner und
-danach die Gesichtscreme aus dem Reiseset auf. Sie gibt mir einen zusätzlichen
-Frischekick und beruhigt die Haut, bevor ich mich schminke. Insgesamt eine sehr
-runde Sache. Ich vertrage die Produkte sehr gut.
+Im Anschluss an die Behandlung mit der Maske trage ich zuerst den Toner und danach die Gesichtscreme aus dem Reiseset auf. Sie gibt mir einen zusätzlichen Frischekick und beruhigt die Haut, bevor ich mich schminke. Insgesamt eine sehr runde Sache. Ich vertrage die Produkte sehr gut.
 
-Ein weiteres Highlight aus meinem Paket ist die Tuchmaske. Ich habe sie gleich
-nach dem Auspacken aufgelegt, ich hatte an dem Tag eine Art "Bad Skin Day". Nach
-dem Abziehen des Trägertuchs legt man sie auf das Gesicht und entspannt sich
-eine Viertelstunde am besten liegend auf dem Sofa. Danach hatte ich den Stress
-des Tages vergessen und die Haut war gut auf die Behandlung meiner Pustelchen,
-die ich an diesem Tag hatte, vorbereitet. Ich bilde mir auch ein, dass sie
-schneller ausgeheilt waren, als ich es gewohnt bin.
+Ein weiteres Highlight aus meinem Paket ist die Tuchmaske. Ich habe sie gleich nach dem Auspacken aufgelegt, ich hatte an dem Tag eine Art "Bad Skin Day". Nach dem Abziehen des Trägertuchs legt man sie auf das Gesicht und entspannt sich eine Viertelstunde am besten liegend auf dem Sofa. Danach hatte ich den Stress des Tages vergessen und die Haut war gut auf die Behandlung meiner Pustelchen, die ich an diesem Tag hatte, vorbereitet. Ich bilde mir auch ein, dass sie schneller ausgeheilt waren, als ich es gewohnt bin.
 
 ## Ein kühlendes Body Splash
 
-Das Body Splash ist besonders jetzt an den heißen Hochsommertagen ein Renner. Es
-erfrischt toll und klebt nicht. Besonders gerne trage ich es im Büro auf meine
-müden Beine auf. Es wird mich aber auf jeden Fall auch auf unserer nächsten
-Reise begleiten. Genau wie die anderen Produkte, die sich in dem liebevoll in
-einem Jutetäschchen verpackten Travelbag befinden.
+Das Body Splash ist besonders jetzt an den heißen Hochsommertagen ein Renner. Es erfrischt toll und klebt nicht. Besonders gerne trage ich es im Büro auf meine müden Beine auf. Es wird mich aber auf jeden Fall auch auf unserer nächsten Reise begleiten. Genau wie die anderen Produkte, die sich in dem liebevoll in einem Jutetäschchen verpackten Travelbag befinden.
 
-<RemoteImage alt={`Hej Organic`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_40431695480_0742f4f1e0_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_40431695480_0742f4f1e0_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIAwb/xAAtEAABAwIFAgQGAwAAAAAAAAABAgMEBREABgcSIRMUFTEyQQgiI0JhcVGBo//EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EAB4RAAIBAwUAAAAAAAAAAAAAAAABAhIhIgMRMUFx/9oADAMBAAIRAxEAPwCaGm784Z+nmlC845d8WTVu0QJDjHTEXqm6Ak39Yvfd/GFpF3vLDbDTjrh8ktpKif6GKu+HqqyqNow+5CjsqnOVOSlruVFCELIQkbvf1WuOP2MPUbpxdy8F2NBlvTTDj5gWqQBcpVS1Cw3BPJ6nHJGE1V4PYVGZE6iXe3fcZ6iQQFbVFNwDyL2xYulj2YpVfjU2txErTHCpEiQ8z0nXbLUAsgm5C3FKWOPs9rm0jZq+nmetNqPonSB/qrAg5N5PcjfT7NYyvNkuOMlaJCUoUpIBKQPx7j8Yfem2q+VouS0RKjWfCJSqg7KdY7dxRcBtt3FLakkHzIFjdI5wYMY4p3E5Nxp6OhpGreR26zLmCvxYTqg2lTqYr317LSePkPyhKVDkfd+8SjnObHnZvrsuA51IcifIdZXYjchTiik2PI4I88GDFGNPAT//2Q=="
+<RemoteImage
+  alt={`Hej Organic`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_40431695480_0742f4f1e0_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_40431695480_0742f4f1e0_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIAwb/xAAtEAABAwIFAgQGAwAAAAAAAAABAgMEBREABgcSIRMUFTEyQQgiI0JhcVGBo//EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EAB4RAAIBAwUAAAAAAAAAAAAAAAABAhIhIgMRMUFx/9oADAMBAAIRAxEAPwCaGm784Z+nmlC845d8WTVu0QJDjHTEXqm6Ak39Yvfd/GFpF3vLDbDTjrh8ktpKif6GKu+HqqyqNow+5CjsqnOVOSlruVFCELIQkbvf1WuOP2MPUbpxdy8F2NBlvTTDj5gWqQBcpVS1Cw3BPJ6nHJGE1V4PYVGZE6iXe3fcZ6iQQFbVFNwDyL2xYulj2YpVfjU2txErTHCpEiQ8z0nXbLUAsgm5C3FKWOPs9rm0jZq+nmetNqPonSB/qrAg5N5PcjfT7NYyvNkuOMlaJCUoUpIBKQPx7j8Yfem2q+VouS0RKjWfCJSqg7KdY7dxRcBtt3FLakkHzIFjdI5wYMY4p3E5Nxp6OhpGreR26zLmCvxYTqg2lTqYr317LSePkPyhKVDkfd+8SjnObHnZvrsuA51IcifIdZXYjchTiik2PI4I88GDFGNPAT//2Q=="
 />
 
-Neben den Produkten findet man darin übrigens auch noch einen von diesen
-durchsichtigen Beuteln, die fürs Flugzeug vorgeschrieben sind, sowie einen
-formschönen praktischen Behälter zum Abfüllen anderer Lieblingsprodukte, die
-unterwegs auf keinen Fall fehlen dürfen.
+Neben den Produkten findet man darin übrigens auch noch einen von diesen durchsichtigen Beuteln, die fürs Flugzeug vorgeschrieben sind, sowie einen formschönen praktischen Behälter zum Abfüllen anderer Lieblingsprodukte, die unterwegs auf keinen Fall fehlen dürfen.
 
-Das Einzige, was ich bis jetzt noch nicht ausprobiert habe, ist die Face &amp;
-Décolleté Maske im Reiseset. Ich möchte sie mir für den Moment auf unserer
-nächsten geplanten Tour aufheben, an dem wir von einer langen Wanderung mit viel
-Sonne zurückkommen und ich mich nach Entspannung sehne. Auf dem Campingplatz
-wird das sicher ein Highlight, wenn ich mit Badeschläppchen und Handtuchturban
-über den Platz gehe, Beauty-Maske und Grinsen im Gesicht und Kaffeebecher im
-Anschlag.
+Das Einzige, was ich bis jetzt noch nicht ausprobiert habe, ist die Face &amp; Décolleté Maske im Reiseset. Ich möchte sie mir für den Moment auf unserer nächsten geplanten Tour aufheben, an dem wir von einer langen Wanderung mit viel Sonne zurückkommen und ich mich nach Entspannung sehne. Auf dem Campingplatz wird das sicher ein Highlight, wenn ich mit Badeschläppchen und Handtuchturban über den Platz gehe, Beauty-Maske und Grinsen im Gesicht und Kaffeebecher im Anschlag.
 
 ## Kaktusfeigen für die Schönheit
 
-Neben den erwähnten Ingredienzien aus der Kaktusfeige stecken in Hej Pflege
-Bio-Grapefruitextrakt, Bio-Arganöl und Bio-Lavaerde (Granulat/Ghassoul). Die
-Marokkanische Tonerdee bindet Fett und Schmutz. Daher ist sie auch der
-Grundbestandteil in von mir erwähnter T-Zonen-Maske. Sie findet schon seit
-Generationen Verwendung in der traditionellen Schönheitspflege.
+Neben den erwähnten Ingredienzien aus der Kaktusfeige stecken in Hej Pflege Bio-Grapefruitextrakt, Bio-Arganöl und Bio-Lavaerde (Granulat/Ghassoul). Die Marokkanische Tonerdee bindet Fett und Schmutz. Daher ist sie auch der Grundbestandteil in von mir erwähnter T-Zonen-Maske. Sie findet schon seit Generationen Verwendung in der traditionellen Schönheitspflege.
 
-Auf der Homepage von Hej Organic geht es um natürliche Schönheit. Mit den
-Pflegeprodukten soll diese hervorgehoben und zur Geltung gebracht werden. Hier
-ein Zitat:
+Auf der Homepage von Hej Organic geht es um natürliche Schönheit. Mit den Pflegeprodukten soll diese hervorgehoben und zur Geltung gebracht werden. Hier ein Zitat:
 
-> "Wir glauben, dass Du Dir immer treu bleiben solltest. Daran, der Erde und
-> allen Menschen, die auf ihr leben, mit Respekt zu begegnen. Und an mehr Herz
-> in Kosmetik."
+> "Wir glauben, dass Du Dir immer treu bleiben solltest. Daran, der Erde und allen Menschen, die auf ihr leben, mit Respekt zu begegnen. Und an mehr Herz in Kosmetik."
 
-Wer jetzt neugierig ist und selbst mal testen möchte, findet die Produkte sowie
-natürlich noch einige andere [auf der Webseite](https://www.hejorganic.com/) von
-Hej Organic.
+Wer jetzt neugierig ist und selbst mal testen möchte, findet die Produkte sowie natürlich noch einige andere [auf der Webseite](https://www.hejorganic.com/) von Hej Organic.
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
-  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
-  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
-
-  
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _

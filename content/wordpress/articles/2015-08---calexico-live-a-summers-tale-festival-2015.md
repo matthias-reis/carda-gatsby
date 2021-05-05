@@ -7,12 +7,8 @@ typeName: Konzertbericht
 title: Calexico live @ A Summer's Tale Festival 2015
 seoTitle: Calexico live @ A Summer's Tale Festival 2015
 ogTitle: Calexico live @ A Summer's Tale Festival 2015
-description: Endlich war es wieder soweit! Calexico spielten live auf dem A
-  Summer's Tale Festival 2015. Dieses Mal habe ich ein paar ganz besondere
-  Bilder für Euch.
-excerpt: Und dann ist der Tag gekommen. Endlich wirst Du Calexico wieder live
-  hören und sehen. Du stehst wieder vorne links an der Bande und "Deine" Band
-  steht oben auf der Bühne.
+description: Endlich war es wieder soweit! Calexico spielten live auf dem A Summer's Tale Festival 2015. Dieses Mal habe ich ein paar ganz besondere Bilder für Euch.
+excerpt: Und dann ist der Tag gekommen. Endlich wirst Du Calexico wieder live hören und sehen. Du stehst wieder vorne links an der Bande und "Deine" Band steht oben auf der Bühne.
 fileName: 2015-08---calexico-live-a-summers-tale-festival-2015.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_19944984023_35d6de4f85_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_08_19944984023_35d6de4f85_z__l.jpg
@@ -36,47 +32,39 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Ein krönender Abschluss
-  
 ---
 
-<RemoteImage alt={`Calexico`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20377818898_67d83187d9_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20377818898_67d83187d9_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKxAAAgEDAwMCBQUAAAAAAAAAAQIDBAURABIhBhMxIkEjMlFhgRQVQrHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAwX/xAAiEQACAQMEAgMAAAAAAAAAAAABAgMAETEEEiFBcfATI4H/2gAMAwEAAhEDEQA/AMO6Jtkt5u1vpI3SOSomKI0mdqjYSTxzj0jxp9uH7RPcpYq9Vg7UkVDEkEsRfaqYkmZRnJDexPIPGcaRelqcivtcUqklZZVZRJtzkYA3DxknzqAWynfrCejEkjwo7v6Nw9SqW/lzjI8nnGuh8RKgqe6dH2ub4tTHQPSU1b26WmqzcO4ezMJE3Bfl+UD85zx+NNdzuv6ugjCrUVE9PCsjyMoVWIOMhgSuT82PodZgLlURC4COZUWZGUjGWJGSBn251d6PuSUdJKo291yQVbwB/v61ppWMcueKGuKPBi7e8ePfKTRVU1NOJYZZI5M5DI2DnTl0NchJ1I9VVvUGV4JYxJEyqWkcYG4n2OTnGjRqSN2U8UYxuYKe6g6iaWGGemqaWCjMfxDEoBfLM3JYD1Ej74wNc6W11NFa0uEzbMOPg49QQ+GP09uPvo0auhiWRWZugT+3NLq/qlMa4vav/9k="
+<RemoteImage
+  alt={`Calexico`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20377818898_67d83187d9_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20377818898_67d83187d9_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKxAAAgEDAwMCBQUAAAAAAAAAAQIDBAURABIhBhMxIkEjMlFhgRQVQrHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAwX/xAAiEQACAQMEAgMAAAAAAAAAAAABAgMAETEEEiFBcfATI4H/2gAMAwEAAhEDEQA/AMO6Jtkt5u1vpI3SOSomKI0mdqjYSTxzj0jxp9uH7RPcpYq9Vg7UkVDEkEsRfaqYkmZRnJDexPIPGcaRelqcivtcUqklZZVZRJtzkYA3DxknzqAWynfrCejEkjwo7v6Nw9SqW/lzjI8nnGuh8RKgqe6dH2ub4tTHQPSU1b26WmqzcO4ezMJE3Bfl+UD85zx+NNdzuv6ugjCrUVE9PCsjyMoVWIOMhgSuT82PodZgLlURC4COZUWZGUjGWJGSBn251d6PuSUdJKo291yQVbwB/v61ppWMcueKGuKPBi7e8ePfKTRVU1NOJYZZI5M5DI2DnTl0NchJ1I9VVvUGV4JYxJEyqWkcYG4n2OTnGjRqSN2U8UYxuYKe6g6iaWGGemqaWCjMfxDEoBfLM3JYD1Ej74wNc6W11NFa0uEzbMOPg49QQ+GP09uPvo0auhiWRWZugT+3NLq/qlMa4vav/9k="
 />
 
-**Und dann ist der Tag gekommen. Endlich wirst Du Calexico wieder live hören und
-sehen. Du stehst wieder vorne links an der Bande und "Deine" Band steht oben auf
-der Bühne.**
+**Und dann ist der Tag gekommen. Endlich wirst Du Calexico wieder live hören und sehen. Du stehst wieder vorne links an der Bande und "Deine" Band steht oben auf der Bühne.**
 
-Freundlich nicken sie ins Publikum und Du fühlst Dich wie immer persönlich davon
-angesprochen. Vor lauter Aufregung und Freude vergisst Du, den ISO-Wert und die
-Blende Deiner Kamera richtig einzustellen und kein einziges Foto wird was. Und
-es ist kein Traum.
+Freundlich nicken sie ins Publikum und Du fühlst Dich wie immer persönlich davon angesprochen. Vor lauter Aufregung und Freude vergisst Du, den ISO-Wert und die Blende Deiner Kamera richtig einzustellen und kein einziges Foto wird was. Und es ist kein Traum.
 
 ## Calexico mit Unterwasserwelt-Effekten
 
-<RemoteImage alt={`Calexico`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20539667646_20c509de4d_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20539667646_20c509de4d_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQHBgUI/8QAKhAAAQMCBQQBBAMAAAAAAAAAAQIDBAURABITITEGByJBFBVCUWFxkbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Ao0SqUJjqCh9OIgfOdqesS60tK9ANixK97gX22tbC/cjpxhtuGELdGVR0/IlIBHtJNjv75/eIR2YrctnrumvOtTtNLmi4uInWLylZgEki2y1W9hPjc8Y9FdxHpZRTtenyI7aypOZbiCRYE2IST/pwCXblxpXT8Vh9lSGoS3WlulSQ2vMsqGXe49ixHI2vjMd7JkRrp2TR23lfLcQmSxlQSh1tJ3sseN90m1/zhuKpmP2/6tbeMdxqNDekWcAUltYS5plX7CspHsHEV+s01ily4NJfZk6zIakORxkaUtCSQ7lPGfkgW3BNtsBN6bUIbE6QbER1gBIcKkkDNcjxv6JxrY3VFFRB+R8qfqtG4p7j6yhw888WuBz/AEcGDAI0TuDVI1ZmvSJa2YU5stvx2NmrXKk+PuxJ3O++OrQFU2YipxqTJpkcSkpJTMdS3mUPt1FDMEG97A7qA/kGDAf/2Q=="
+<RemoteImage
+  alt={`Calexico`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20539667646_20c509de4d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20539667646_20c509de4d_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQHBgUI/8QAKhAAAQMCBQQBBAMAAAAAAAAAAQIDBAURABITITEGByJBFBVCUWFxkbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Ao0SqUJjqCh9OIgfOdqesS60tK9ANixK97gX22tbC/cjpxhtuGELdGVR0/IlIBHtJNjv75/eIR2YrctnrumvOtTtNLmi4uInWLylZgEki2y1W9hPjc8Y9FdxHpZRTtenyI7aypOZbiCRYE2IST/pwCXblxpXT8Vh9lSGoS3WlulSQ2vMsqGXe49ixHI2vjMd7JkRrp2TR23lfLcQmSxlQSh1tJ3sseN90m1/zhuKpmP2/6tbeMdxqNDekWcAUltYS5plX7CspHsHEV+s01ily4NJfZk6zIakORxkaUtCSQ7lPGfkgW3BNtsBN6bUIbE6QbER1gBIcKkkDNcjxv6JxrY3VFFRB+R8qfqtG4p7j6yhw888WuBz/AEcGDAI0TuDVI1ZmvSJa2YU5stvx2NmrXKk+PuxJ3O++OrQFU2YipxqTJpkcSkpJTMdS3mUPt1FDMEG97A7qA/kGDAf/2Q=="
 />
 
-Das Konzert war wirklich mal wieder richtig klasse, alte Hasen kamen voll auf
-ihre Kosten und auch ein paar neue Fans dürften Calexico an diesem Abend
-gewonnen haben. Die Band sorgte für den krönenden Abschluss des A Summer's Tale
-Festivals und brachten noch mal richtig Schwung in die gemütliche Bude.
+Das Konzert war wirklich mal wieder richtig klasse, alte Hasen kamen voll auf ihre Kosten und auch ein paar neue Fans dürften Calexico an diesem Abend gewonnen haben. Die Band sorgte für den krönenden Abschluss des A Summer's Tale Festivals und brachten noch mal richtig Schwung in die gemütliche Bude.
 
-Ein paar meiner Bilder habe ich trotz seltsamer,
-unbeabsichtigter Unterwasserwelt-Effekte durch den Lightroom gejagt, damit Ihr
-auch mal sehen könnt, was dabei rauskommt, wenn man nachts mit Blende 8
-fotografiert. Vorhang auf für "Finding John".
+Ein paar meiner Bilder habe ich trotz seltsamer, unbeabsichtigter Unterwasserwelt-Effekte durch den Lightroom gejagt, damit Ihr auch mal sehen könnt, was dabei rauskommt, wenn man nachts mit Blende 8 fotografiert. Vorhang auf für "Finding John".
 
 <Gallery name="flickr/annecalexicoasummerstale2015" />
 
-Die wundervolle Anne de Wolff unterstützte Calexico beim Auftritt als Geigerin.
-Ein paar meiner Bilder sind nun auf Ihrer [Homepage](http://www.annedewolff.de)
-zu sehen. Danke an Anne für den netten Kontakt!
+Die wundervolle Anne de Wolff unterstützte Calexico beim Auftritt als Geigerin. Ein paar meiner Bilder sind nun auf Ihrer [Homepage](http://www.annedewolff.de) zu sehen. Danke an Anne für den netten Kontakt!
 
 ## A Summer's Tale 2015 Wegweiser
 
@@ -102,5 +90,3 @@ zu sehen. Danke an Anne für den netten Kontakt!
 [Homepage](http://www.casadecalexico.com) Calexico
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
-
-  

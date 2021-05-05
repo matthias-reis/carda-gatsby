@@ -7,10 +7,8 @@ typeName: Galerie mit Bild
 title: Zwischenstopp in Skåne
 seoTitle: Zwischenstop in Skåne - Glitzernde Ostsee am weißen Strand
 ogTitle: Zwischenstop in Skåne - Glitzernde Ostsee am weißen Strand
-description: Nach unserer Anreise über Dänemark hatten wir am 20. Juni einen
-  wundervollen entspannten Tag am Strand in der Schwedischen Provinz Skåne.
-excerpt: Nach unserer Anreise über Dänemark hatten wir am 20. Juni einen
-  wundervollen entspannten Tag am Strand in der Schwedischen Provinz Skåne.
+description: Nach unserer Anreise über Dänemark hatten wir am 20. Juni einen wundervollen entspannten Tag am Strand in der Schwedischen Provinz Skåne.
+excerpt: Nach unserer Anreise über Dänemark hatten wir am 20. Juni einen wundervollen entspannten Tag am Strand in der Schwedischen Provinz Skåne.
 fileName: 2018-07---zwischenstopp-in-sk-ne.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_41862621420_a45b81210d_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_41862621420_a45b81210d_z__l.jpg
@@ -34,34 +32,19 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Glitzernde Ostsee am weißen Strand
-  
 ---
 
-**Heute nehme ich Euch wieder ein Stück mit auf die Reise in den Norden. Unser
-sommerlicher Roadtrip dieses Jahr führte uns an ein paar wirklich schöne Orte.
-Einer davon ist die Schwedische Provinz Skåne.**
+**Heute nehme ich Euch wieder ein Stück mit auf die Reise in den Norden. Unser sommerlicher Roadtrip dieses Jahr führte uns an ein paar wirklich schöne Orte. Einer davon ist die Schwedische Provinz Skåne.**
 
-Nach unserer [Anreise über Dänemark](/2018/07/radtour-durch-kopenhagen/) hatten
-wir dort am 20. Juni einen wundervollen, entspannten Tag am Strand. Ein schöner
-Gedanke, noch ein paar Tage zuvor
-[die glitzernde Ostsee](/2018/06/wanderung-zum-koenigsstuhl/) von der anderen
-Seite bewundert zu haben.
+Nach unserer [Anreise über Dänemark](/2018/07/radtour-durch-kopenhagen/) hatten wir dort am 20. Juni einen wundervollen, entspannten Tag am Strand. Ein schöner Gedanke, noch ein paar Tage zuvor [die glitzernde Ostsee](/2018/06/wanderung-zum-koenigsstuhl/) von der anderen Seite bewundert zu haben.
 
-Skåne zählt zusammen mit den Dänischen Inseln Bornholm, Seeland, Lolland, Møn
-und Falster zur Öresundregion. Im Norden grenzt es an Småland, im Osten an
-Blekinge, im Westen an den Öresund und im Süden und Südosten an die Ostsee.
+Skåne zählt zusammen mit den Dänischen Inseln Bornholm, Seeland, Lolland, Møn und Falster zur Öresundregion. Im Norden grenzt es an Småland, im Osten an Blekinge, im Westen an den Öresund und im Süden und Südosten an die Ostsee.
 
 ## Margeriten und Milane
 
-Weil man sich in Schweden traditionell sehr mit der Natur verbunden fühlt, ist
-jeder Landschaft eine Blume, ein Säugetier, ein Vogel und ein Fisch zugeordnet.
-In Skåne sind das die Magerwiesen-Margerite, der Rothirsch, der Rotmilan und der
-Aal.
+Weil man sich in Schweden traditionell sehr mit der Natur verbunden fühlt, ist jeder Landschaft eine Blume, ein Säugetier, ein Vogel und ein Fisch zugeordnet. In Skåne sind das die Magerwiesen-Margerite, der Rothirsch, der Rotmilan und der Aal.
 
-Mit etwas Glück, können sie alle einem auf dem Weg durch dieses wunderschöne
-Fleckchen Erde begegnen. Aber psst! Nicht zu laut sein. Sonst verschwinden
-Hirsch und Milan schneller wieder, als sie aufgetaucht sind. Und bitte nicht auf
-die zarten Margeriten treten!
+Mit etwas Glück, können sie alle einem auf dem Weg durch dieses wunderschöne Fleckchen Erde begegnen. Aber psst! Nicht zu laut sein. Sonst verschwinden Hirsch und Milan schneller wieder, als sie aufgetaucht sind. Und bitte nicht auf die zarten Margeriten treten!
 
 ## Skåne, Du Schönheit!
 
@@ -88,5 +71,3 @@ Langsam mischt sich rot in das Grün des Sommers Die Sonne senkt sich
 Wird lautlos vom Wasser verschluckt Doch ihr Licht verschwindet nicht ganz
 
 <Gallery name="flickr/anneloederupskane2018liebesehr" />
-
-  

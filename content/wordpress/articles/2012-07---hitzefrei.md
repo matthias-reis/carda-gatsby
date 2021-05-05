@@ -7,10 +7,8 @@ typeName: Artikel
 title: Hitzefrei
 seoTitle: Hitzefrei - mal wieder eine kleine Gedankenansammlung
 ogTitle: Hitzefrei - mal wieder eine kleine Gedankenansammlung
-description: Immer ruhig bleiben. Die Katzenhaare ignorieren. Laute Musik.
-  Chronisch pleite. Strafzettelsammlung. Kaffeesucht. Liebe zu Lavendel.
-excerpt: Immer ruhig bleiben. Die Katzenhaare ignorieren. Laute Musik. Chronisch
-  pleite. Strafzettelsammlung. Kaffeesucht. Liebe zu Lavendel.
+description: Immer ruhig bleiben. Die Katzenhaare ignorieren. Laute Musik. Chronisch pleite. Strafzettelsammlung. Kaffeesucht. Liebe zu Lavendel.
+excerpt: Immer ruhig bleiben. Die Katzenhaare ignorieren. Laute Musik. Chronisch pleite. Strafzettelsammlung. Kaffeesucht. Liebe zu Lavendel.
 fileName: 2012-07---hitzefrei.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_599460_450404824981652_1788614199_n1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_599460_450404824981652_1788614199_n1__l.jpg
@@ -52,33 +50,23 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Gedankenansammlung
-  
 ---
 
-**Wenn es regnet, gehen wir in den Park. Wenn die Sonne scheint, in die
-Turnhalle.**
+**Wenn es regnet, gehen wir in den Park. Wenn die Sonne scheint, in die Turnhalle.**
 
-Immer ruhig bleiben. Die Katzenhaare ignorieren. Laute Musik. Chronisch pleite.
-Strafzettelsammlung. Kaffeesucht. Liebe zu Lavendel.
+Immer ruhig bleiben. Die Katzenhaare ignorieren. Laute Musik. Chronisch pleite. Strafzettelsammlung. Kaffeesucht. Liebe zu Lavendel.
 
-Gedanken, die in Echtzeit im Kurznachrichtenstrom zerfließen. Farbe an den
-Händen.
+Gedanken, die in Echtzeit im Kurznachrichtenstrom zerfließen. Farbe an den Händen.
 
-Die Fliege dreht noch eine halbherzige Pirouette in der Neonlampe, bevor sie das
-Licht für immer ausmacht. Gute Nacht.
+Die Fliege dreht noch eine halbherzige Pirouette in der Neonlampe, bevor sie das Licht für immer ausmacht. Gute Nacht.
 
-Guten Morgen. Der Schmetterling, der auf einer noch taunassen Blüte sitzt und
-langsam die Flügel ausbreitet für seinen ersten Tanz im Sonnenlicht.
+Guten Morgen. Der Schmetterling, der auf einer noch taunassen Blüte sitzt und langsam die Flügel ausbreitet für seinen ersten Tanz im Sonnenlicht.
 
-Er weiß nicht mehr genau, wo er hergekommen ist und wo er eigentlich hinwollte.
-An etwas Weiches, Warmes kann er sich schemenhaft erinnern. Und das seine Farbe
-früher irgendwie anders gewesen sein muss. Und an eine Neonlampe.
+Er weiß nicht mehr genau, wo er hergekommen ist und wo er eigentlich hinwollte. An etwas Weiches, Warmes kann er sich schemenhaft erinnern. Und das seine Farbe früher irgendwie anders gewesen sein muss. Und an eine Neonlampe.
 
-Und wir rennen weiter hinter der Straßenbahn her und lassen unseren Regenschirm
-im Supermarkt an der Kasse liegen.
+Und wir rennen weiter hinter der Straßenbahn her und lassen unseren Regenschirm im Supermarkt an der Kasse liegen.
 
 ## Song des Tages: Incubus - A Crow Left Of The Murder
 
- <YouTube id="t-UuZV-HKyw" />
-
-  
+{' '}
+<YouTube id="t-UuZV-HKyw" />

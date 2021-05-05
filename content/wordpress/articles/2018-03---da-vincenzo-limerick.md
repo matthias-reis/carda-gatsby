@@ -1,39 +1,37 @@
 ---
 date: 2018-03-06T07:43:53.000+00:00
 slug: da-vincenzo-limerick
-path: "/2018/03/da-vincenzo-limerick/"
+path: '/2018/03/da-vincenzo-limerick/'
 type: Artikel
 typeName: Artikel
 title: Da Vincenzo Limerick
 seoTitle: Da Vincenzo Limerick - Wir haben Irlands beste vegane Pizza probiert
 ogTitle: Da Vincenzo Limerick - Wir haben Irlands beste vegane Pizza probiert
-description: Ich wage zu behaupten, dass wir im Da Vincenzo in Limerick in den Genuss
-  von Irlands bester veganer Steinofenpizza gekommen sind.
-excerpt: Ich wage zu behaupten, dass wir im Da Vincenzo in Limerick in den Genuss
-  von Irlands bester veganer Steinofenpizza gekommen sind.
+description: Ich wage zu behaupten, dass wir im Da Vincenzo in Limerick in den Genuss von Irlands bester veganer Steinofenpizza gekommen sind.
+excerpt: Ich wage zu behaupten, dass wir im Da Vincenzo in Limerick in den Genuss von Irlands bester veganer Steinofenpizza gekommen sind.
 fileName: 2018-03---da-vincenzo-limerick.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_28444831329_8ae14fced1_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_28444831329_8ae14fced1_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAwQH/8QALRAAAgEDAgUCBAcAAAAAAAAAAQIDBAURACEGEhMxQSIyFVFh4RRCcYGRocH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwUC/8QAJBEAAgECBgEFAAAAAAAAAAAAAQIDABEEEiExQfAiUXGRocH/2gAMAwEAAhEDEQA/AOfVd7cu9LXlbm/KIjDLGUbIYAgPnYjB3Hf+tX8PQW6Digx3mCH4ZbkMgRWRllJ9SkttkHY4H21vo1sjUNJc6yKQVVNKJIKZJ+ogZiO3bmwRjJONCuILPPTzNLWwxJdquUy/hV9UscfMSS57KPlnJPjbUnOpFjeqxRmYtGLkcevsLCm/hriRzxJFDwa1RTpW1eM1BVekWcH1Lj2nfC5Pjydq47nJT3m9W3iOjoZqMzmOU9BQySZA5lJ7/lyfHNpWtdNWzCohWCmhNMFaOZnLtTudxIFTu23uOcH66J1nE6W+2z1D0aT3irczy1pZWw2AS6E+dh2x5J1kqdAov3elwMw85QATv3v5WKat6FopJ60pOgjxuuTy7Yztjvt+x0Z4TS0XKoeKm53EsLAmPcYIORjOfAwQD521Lxwhc46+Geknj6SJ0xythoxnBwp7fbWK12a12R4K2voknnd8ydeQgcwPuUqR/GMYO+hNGqJre9W4sdJK4RAMv3VPEFu+CQTpVxzTypKHedlYGOJgM7HG+cek9/G+hFsSXiy6R0YK09vcsQVUAPygE4HcEgjc/wCaeK+aivFrWHh+4Is/K0rRzEyE4BOP0+mD20p1fWkpEpI6CKOWJiVMMWBMDkMeb5DJ+XjS4cSwGUjU0nG4VCxcHQcW5+a//9k=
-ogImage: 
+ogImage:
 labels:
-- Britische Inseln
-- Da Vincenzo
-- Fernweh
-- Irland vegan
-- Irland2017
-- Italien
-- Limerick
-- Pizza
-- Shannon Street
-- Steinofenpizza
-- vegan in Irland
-- vegan travelling
-- Vegane Lokale
-- vegane Lokale
-- vegane Pizza
-- serie:Irland 2017
-- Pasta
+  - Britische Inseln
+  - Da Vincenzo
+  - Fernweh
+  - Irland vegan
+  - Irland2017
+  - Italien
+  - Limerick
+  - Pizza
+  - Shannon Street
+  - Steinofenpizza
+  - vegan in Irland
+  - vegan travelling
+  - Vegane Lokale
+  - vegane Lokale
+  - vegane Pizza
+  - serie:Irland 2017
+  - Pasta
 focusKeyword: Da Vincenzo Limerick
 status: publish
 isWerbung: false
@@ -41,40 +39,23 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Irlands vegane Pizza mit Herz
-year: "2018"
+year: '2018'
 month: '03'
-
 ---
-**Ich wage zu behaupten, dass wir im Da Vincenzo in**
-[**Limerick**](/2018/02/limerick/)** in den Genuss von Irlands bester Pizza gekommen
-sind. Eines verregneten Abends kehrten wir mit nassen Wanderklamotten dort ein
-und wurden hofiert wie König und Königin.**
 
-Das Dinner begann sehr spannend mit einer Fahrt im Aufzug, der uns direkt ins
-Restaurant führte. Was uns dort oben wohl erwarten würde? Empfangen wurden wir
-von keinem Geringeren, als Wirt Vincenzo persönlich, der uns an unseren Tisch
-führte und uns gleich mal zu einem Getränk sowie etwas frisch gebackenem Brot
-mit Olivenöl und Salz einlud.
+**Ich wage zu behaupten, dass wir im Da Vincenzo in** [**Limerick**](/2018/02/limerick/)** in den Genuss von Irlands bester Pizza gekommen sind. Eines verregneten Abends kehrten wir mit nassen Wanderklamotten dort ein und wurden hofiert wie König und Königin.**
 
-Als nächstes kam die Speisekarte auf den Tisch und wir freuten uns wie verrückt:
-Ein eigenes veganes Kapitel! Nach unserer Bestellung dauerte es nicht lange und
-zwei duftende Steinofenpizzas, groß wie Mühlräder, standen vor uns. Wir konnten
-uns nicht satt sehen an diesem schmackhaftem Anblick und wurden nicht
-enttäuscht.
+Das Dinner begann sehr spannend mit einer Fahrt im Aufzug, der uns direkt ins Restaurant führte. Was uns dort oben wohl erwarten würde? Empfangen wurden wir von keinem Geringeren, als Wirt Vincenzo persönlich, der uns an unseren Tisch führte und uns gleich mal zu einem Getränk sowie etwas frisch gebackenem Brot mit Olivenöl und Salz einlud.
+
+Als nächstes kam die Speisekarte auf den Tisch und wir freuten uns wie verrückt: Ein eigenes veganes Kapitel! Nach unserer Bestellung dauerte es nicht lange und zwei duftende Steinofenpizzas, groß wie Mühlräder, standen vor uns. Wir konnten uns nicht satt sehen an diesem schmackhaftem Anblick und wurden nicht enttäuscht.
 
 ## Da Vincenzo Limerick - Glückseeligkeit bis zum letzten Krümel
 
-Bis auf den letzten Krümel aßen wir auf und wären dem Wirt danach vor satter
-Glückseeligkeit fast in die Arme gefallen. Nach einer guten Tasse Espresso
-präsentierte uns dieser noch ungefragt und herzlich offen seine feinen, veganen
-Pastakreationen, die im Vorraum des Lokals auch zum Verkauf angeboten werden.
+Bis auf den letzten Krümel aßen wir auf und wären dem Wirt danach vor satter Glückseeligkeit fast in die Arme gefallen. Nach einer guten Tasse Espresso präsentierte uns dieser noch ungefragt und herzlich offen seine feinen, veganen Pastakreationen, die im Vorraum des Lokals auch zum Verkauf angeboten werden.
 
-Alles in allem ein perfekter Abend. Mein Tipp für Euch: Wenn Ihr in Limerick
-seid, gönnt Euch eine Pizza bei Da Vincenzo, Ihr werdet nicht enttäuscht werden!
+Alles in allem ein perfekter Abend. Mein Tipp für Euch: Wenn Ihr in Limerick seid, gönnt Euch eine Pizza bei Da Vincenzo, Ihr werdet nicht enttäuscht werden!
 
-Ihr findet das Da Vincenzo Limerick in der Shannon Street in Laufnähe zum River
-Shannon. Schräg gegenüber befindet sich ein Parkhaus, in dem auch Campervans
-abgestellt werden können. Geöffnet ist es durchgehend von 12 - 22 Uhr.
+Ihr findet das Da Vincenzo Limerick in der Shannon Street in Laufnähe zum River Shannon. Schräg gegenüber befindet sich ein Parkhaus, in dem auch Campervans abgestellt werden können. Geöffnet ist es durchgehend von 12 - 22 Uhr.
 
 <RemoteImage alt={`Da Vincenzo Limerick`} size="small" title={\`\`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_25353373347_b6ea5f0c27_z__m.jpg"

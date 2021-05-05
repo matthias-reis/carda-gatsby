@@ -7,12 +7,8 @@ typeName: Artikel
 title: Golden Silence Festival 2019
 seoTitle: Golden Silence Festival 2019 - Post-Rock im Skaters Palace Münster
 ogTitle: Golden Silence Festival 2019 - Post-Rock im Skaters Palace Münster
-description: "Für uns steht bald das letzte Festival des Jahres 2019 an: das
-  Golden Silence Festival in Münster findet am 2. November im Skater Palace in
-  Münster statt."
-excerpt: "Für uns steht bald das letzte Festival des Jahres 2019 an: das Golden
-  Silence Festival in Münster findet am 2. November im Skater Palace in Münster
-  statt."
+description: 'Für uns steht bald das letzte Festival des Jahres 2019 an: das Golden Silence Festival in Münster findet am 2. November im Skater Palace in Münster statt.'
+excerpt: 'Für uns steht bald das letzte Festival des Jahres 2019 an: das Golden Silence Festival in Münster findet am 2. November im Skater Palace in Münster statt.'
 fileName: 2019-10---golden-silence-festival-2019.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_10_golden-silence-festival-blog.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_10_golden-silence-festival-blog.png__l.jpg
@@ -42,48 +38,32 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Post-Rock im Skaters Palace Münster
-  
 ---
 
-**2019 neigt sich dem Ende zu und für uns steht das letzte Festival des Jahres
-an: das Golden Silence Festival in Münster findet am 2. November im Skaters
-Palace in Münster statt.**
+**2019 neigt sich dem Ende zu und für uns steht das letzte Festival des Jahres an: das Golden Silence Festival in Münster findet am 2. November im Skaters Palace in Münster statt.**
 
-<RemoteImage alt={`golden-silence-festival`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_golden-silence-festival.jpeg__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_golden-silence-festival.jpeg__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBAMGB//EACwQAAIBAwMCBQIHAAAAAAAAAAECAwQFEQASIQYiExQxQVEVkQcyQkNhY3L/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAQL/xAAfEQACAgIBBQAAAAAAAAAAAAABEQACAyESBBMxUXH/2gAMAwEAAhEDEQA/AO+eHOtyijea4bZXZwNhxg+oLB8Dgnj+Dgcav9ULND0zWxWtaySpKYi8u5aRWJ4bJYEgH1API0gtVbX1dfdZKby1dUUdyMaU0FcilYFQqpm/MQ28Scdp4Gc4OimucVNeKqWdqOOaGMPJE9zTsfu3q3Htx7fGiZct8ZoKDkLFbKWn634lTibouTqaPquGK5GuKPAxMFXOSoUYAONxIOQO7bj1Gc6NYqDpSiuH4vUvWM6PDXFWi2R18MiBxC8YxtXfjYD27gM8+2jS5Ju/TlA9JdLrMlHFCtQ2/wAcAhpTvcgkH/RJxj1+ylqAwXaeeuls6jfMXlkt3BJWL+z5Ofv86j6xeIZpBTUdMY1LbSRKwODwTg4PtyNLKax7rXHHTXOCCNJCQtc7GZGPdnxS25sNgrvB4XDA5Og9Tivbt8dqwfxzQj+zvSRdQwwwvaJZJEJ3UlMsTDG7H7hP6m9F9zo1StFbd6P6ZHXXG0DAIqp3uDVAnAQjco8NAjFypPIXGQAeMGmiZn//2Q=="
+<RemoteImage
+  alt={`golden-silence-festival`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_golden-silence-festival.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_golden-silence-festival.jpeg__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBAMGB//EACwQAAIBAwMCBQIHAAAAAAAAAAECAwQFEQASIQYiExQxQVEVkQcyQkNhY3L/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAQL/xAAfEQACAgIBBQAAAAAAAAAAAAABEQACAyESBBMxUXH/2gAMAwEAAhEDEQA/AO+eHOtyijea4bZXZwNhxg+oLB8Dgnj+Dgcav9ULND0zWxWtaySpKYi8u5aRWJ4bJYEgH1API0gtVbX1dfdZKby1dUUdyMaU0FcilYFQqpm/MQ28Scdp4Gc4OimucVNeKqWdqOOaGMPJE9zTsfu3q3Htx7fGiZct8ZoKDkLFbKWn634lTibouTqaPquGK5GuKPAxMFXOSoUYAONxIOQO7bj1Gc6NYqDpSiuH4vUvWM6PDXFWi2R18MiBxC8YxtXfjYD27gM8+2jS5Ju/TlA9JdLrMlHFCtQ2/wAcAhpTvcgkH/RJxj1+ylqAwXaeeuls6jfMXlkt3BJWL+z5Ofv86j6xeIZpBTUdMY1LbSRKwODwTg4PtyNLKax7rXHHTXOCCNJCQtc7GZGPdnxS25sNgrvB4XDA5Og9Tivbt8dqwfxzQj+zvSRdQwwwvaJZJEJ3UlMsTDG7H7hP6m9F9zo1StFbd6P6ZHXXG0DAIqp3uDVAnAQjco8NAjFypPIXGQAeMGmiZn//2Q=="
 />
 
-Wo sonst eher Punk läuft, werden am 2. November nachdenkliche Töne
-angeschlagen - beim Golden Silence Festival ist der Name Programm - es wird
-ausschließlich Musik ohne Lyrics zum Besten gegeben.
+Wo sonst eher Punk läuft, werden am 2. November nachdenkliche Töne angeschlagen - beim Golden Silence Festival ist der Name Programm - es wird ausschließlich Musik ohne Lyrics zum Besten gegeben.
 
-Zum Event geladen hat die Münsteraner Band
-[Long Distance Calling](/2016/05/long-distance-calling-uebel-und-gefaehrlich/).
-Als eine Art Premierenparty zum
-[neuen Konzertfilm](/2019/09/stummfilm-long-distance-calling-veroeffentlichen-konzert-aus-altona/),
-der im Sommer in der Kulturkirche Altona aufgenommen wurde, wird mit
-instrumentaler Musik gefeiert.
+Zum Event geladen hat die Münsteraner Band [Long Distance Calling](/2016/05/long-distance-calling-uebel-und-gefaehrlich/). Als eine Art Premierenparty zum [neuen Konzertfilm](/2019/09/stummfilm-long-distance-calling-veroeffentlichen-konzert-aus-altona/), der im Sommer in der Kulturkirche Altona aufgenommen wurde, wird mit instrumentaler Musik gefeiert.
 
 ## Golden Silence Festival - die Bands
 
-Ursprünglich hatten auch meine Lieblings-Post-Rock-Schweden Ef zugesagt - leider
-musste die Band jedoch kurzfristig absagen. Die Schweizer Psycheledic-Freunde
-Monkey3 werden als würdiger Ersatz einspringen.
+Ursprünglich hatten auch meine Lieblings-Post-Rock-Schweden Ef zugesagt - leider musste die Band jedoch kurzfristig absagen. Die Schweizer Psycheledic-Freunde Monkey3 werden als würdiger Ersatz einspringen.
 
-Außerdem kommen Mutiny on the Bounty aus Luxemburg, Kuf und
-[Curls &amp; Nods](/2019/11/curls-nods-im-interview/) (beide aus D) nach
-Münster. Wir sind schon sehr gespannt und halten unsere Tickets bereit. Bestimmt
-wird es an dieser Stelle auch einen kurzen Nachbericht zum Festival geben.
+Außerdem kommen Mutiny on the Bounty aus Luxemburg, Kuf und [Curls &amp; Nods](/2019/11/curls-nods-im-interview/) (beide aus D) nach Münster. Wir sind schon sehr gespannt und halten unsere Tickets bereit. Bestimmt wird es an dieser Stelle auch einen kurzen Nachbericht zum Festival geben.
 
-Das Golden Silence Festival findet zum ersten Mal statt. Long Distance Calling
-planen, damit in Serie zu gehen und in Zukunft "nur" noch als Veranstalter zu
-fungieren.
+Das Golden Silence Festival findet zum ersten Mal statt. Long Distance Calling planen, damit in Serie zu gehen und in Zukunft "nur" noch als Veranstalter zu fungieren.
 
- <YouTube id="sFAf3ugFeGI" />
+{' '}
+<YouTube id="sFAf3ugFeGI" />
 
-**Grafik &amp; Quelle:**
-[Golden Silence Festival / Long Distance Calling](https://www.skaters-palace.de/veranstaltungen/golden-silence-festival)
-
-  
+**Grafik &amp; Quelle:** [Golden Silence Festival / Long Distance Calling](https://www.skaters-palace.de/veranstaltungen/golden-silence-festival)

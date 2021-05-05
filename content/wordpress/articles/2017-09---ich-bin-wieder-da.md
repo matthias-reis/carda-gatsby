@@ -7,11 +7,8 @@ typeName: Artikel
 title: Ich bin wieder da!
 seoTitle: Ich bin wieder da! Es geht wieder los! Viele neue Bilder für Euch!
 ogTitle: Ich bin wieder da! Es geht wieder los! Viele neue Bilder für Euch!
-description: Es geht wieder los! Ich bin wieder da! Von meiner Reise habe ich
-  Euch viele Bilder und Geschichten mitgebracht, die ich hier mit Euch teilen
-  werde!
-excerpt: Es geht wieder los! Ich bin wieder da! Von meiner Reise habe ich Euch
-  viele Bilder und Geschichten mitgebracht, die ich hier mit Euch teilen werde!
+description: Es geht wieder los! Ich bin wieder da! Von meiner Reise habe ich Euch viele Bilder und Geschichten mitgebracht, die ich hier mit Euch teilen werde!
+excerpt: Es geht wieder los! Ich bin wieder da! Von meiner Reise habe ich Euch viele Bilder und Geschichten mitgebracht, die ich hier mit Euch teilen werde!
 fileName: 2017-09---ich-bin-wieder-da.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_21827531_173009326597767_697927474020876288_n__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_21827531_173009326597767_697927474020876288_n__l.jpg
@@ -36,28 +33,16 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Es geht wieder los
-  
 ---
 
-**Ich bin wieder da! Mitgebracht habe ich jede Menge Bilder und Geschichten, die
-ich nach und nach auch mit Euch teilen werde. Als kleinen Vorgeschmack bekommt
-Ihr heute schon mal die gesammelten Instagram-Bilder, die bei unserer Reise
-entstanden sind.**
+**Ich bin wieder da! Mitgebracht habe ich jede Menge Bilder und Geschichten, die ich nach und nach auch mit Euch teilen werde. Als kleinen Vorgeschmack bekommt Ihr heute schon mal die gesammelten Instagram-Bilder, die bei unserer Reise entstanden sind.**
 
-Die "richtigen" Fotos von meiner "dicken" Kamera muss ich erst nach und nach
-entwickeln und werde sie dann wieder in kleinen Portionen hier posten. Wir haben
-zwei wunderschöne Wochen auf der grünen Insel verbracht und jede Menge schöne
-Erfahrungen gemacht.
+Die "richtigen" Fotos von meiner "dicken" Kamera muss ich erst nach und nach entwickeln und werde sie dann wieder in kleinen Portionen hier posten. Wir haben zwei wunderschöne Wochen auf der grünen Insel verbracht und jede Menge schöne Erfahrungen gemacht.
 
 ## Wieder da! Mit vielen Bildern im Gepäck
 
-Unser Roadtrip führte uns von Dublin nach Cork, wo wir einen lieben Freund
-wiedertrafen und von dort aus an die Westküste, wo wir die verschiedensten Ziele
-bereisten. Details dazu in Kürze. Jetzt ordne ich hier mal meine Aufzeichnungen
-und dann geht es wieder richtig los!
+Unser Roadtrip führte uns von Dublin nach Cork, wo wir einen lieben Freund wiedertrafen und von dort aus an die Westküste, wo wir die verschiedensten Ziele bereisten. Details dazu in Kürze. Jetzt ordne ich hier mal meine Aufzeichnungen und dann geht es wieder richtig los!
 
 Schöne Grüße aus Altona! &lt;3
 
 <Gallery name="flickr/anneirlandinsta2017" />
-
-  

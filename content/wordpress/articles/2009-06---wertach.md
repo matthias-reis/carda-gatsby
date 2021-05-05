@@ -8,8 +8,7 @@ title: Wertach
 seoTitle: Die Wertach in Augsburg
 ogTitle: Die Wertach in Augsburg
 description: Ein kurzer Spaziergang an der Wertach in Augsburg
-excerpt: Ein kurzer Spaziergang an der Wertach in Augsburg und schon habe ich
-  wieder Fotos im Kasten.
+excerpt: Ein kurzer Spaziergang an der Wertach in Augsburg und schon habe ich wieder Fotos im Kasten.
 fileName: 2009-06---wertach.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_06_P6280006__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_06_P6280006__l.jpg
@@ -26,11 +25,69 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Spaziergang in Augsburg
-  
 ---
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280005__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280005__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280011__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280011__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280002__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280002__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280007__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280007__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280010__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280010__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280012__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280012__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280014__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280014__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280015__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280015__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280018__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280018__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280006__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280006__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280005__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280005__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280011__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280011__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280002__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280002__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280007__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280007__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280010__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280010__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280012__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280012__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280014__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280014__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280015__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280015__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280018__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280018__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280006__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2009_06_P6280006__l.jpg',
+    },
+  ]}
 />
-
-  

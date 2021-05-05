@@ -7,12 +7,8 @@ typeName: Artikel
 title: Wieder Donnerstag
 seoTitle: Wieder Donnerstag - Tagebucheintrag
 ogTitle: Wieder Donnerstag - Tagebucheintrag
-description: Ein anstrengender Tag geht mit guter Musik zu Ende. Wieder ein paar
-  schöne Songs entdeckt. Heute war es zwar kalt aber den ganzen Tag schön
-  sonnig.
-excerpt: Ein anstrengender Tag geht mit guter Musik zu Ende. Wieder ein paar
-  schöne Songs entdeckt. Heute war es zwar kalt aber den ganzen Tag schön
-  sonnig.
+description: Ein anstrengender Tag geht mit guter Musik zu Ende. Wieder ein paar schöne Songs entdeckt. Heute war es zwar kalt aber den ganzen Tag schön sonnig.
+excerpt: Ein anstrengender Tag geht mit guter Musik zu Ende. Wieder ein paar schöne Songs entdeckt. Heute war es zwar kalt aber den ganzen Tag schön sonnig.
 fileName: 2011-02---wieder-donnerstag.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_02_img_9852__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_02_img_9852__l.jpg
@@ -24,24 +20,18 @@ labels:
   - Incubus
   - Musik
   - Wochenende
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Tagebucheintrag
-  
 ---
 
-Ein anstrengender Tag geht mit guter Musik zu Ende. Wieder ein paar schöne Songs
-entdeckt. Heute war es zwar kalt aber den ganzen Tag schön sonnig. Es soll wohl
-am Wochenende auch so sein. Wunderbares Ausflugswetter. Schön, dass morgen
-Freitag ist. Nur noch ein Achtstundentag liegt zwischen mir und diesen zwei
-Tagen Freiheit.
+Ein anstrengender Tag geht mit guter Musik zu Ende. Wieder ein paar schöne Songs entdeckt. Heute war es zwar kalt aber den ganzen Tag schön sonnig. Es soll wohl am Wochenende auch so sein. Wunderbares Ausflugswetter. Schön, dass morgen Freitag ist. Nur noch ein Achtstundentag liegt zwischen mir und diesen zwei Tagen Freiheit.
 
 ## Song des Tages: Incubus - "Wish You Where Here"
 
- <YouTube id="8295rOMvtQI" />
-
-  
+{' '}
+<YouTube id="8295rOMvtQI" />

@@ -7,10 +7,8 @@ typeName: Galerie mit Bild
 title: Futurium Berlin
 seoTitle: Futurium Berlin - das Haus der Zukünfte
 ogTitle: Futurium Berlin - das Haus der Zukünfte
-description: Vor Kurzem haben wir in Berlin das Futurium besucht. Die
-  Ausstellungen des interaktiven Museums zeigen verschiedene Zukünfte.
-excerpt: Vor Kurzem haben wir in Berlin das Futurium besucht. Die Ausstellungen
-  des interaktiven Museums zeigen verschiedene Zukünfte.
+description: Vor Kurzem haben wir in Berlin das Futurium besucht. Die Ausstellungen des interaktiven Museums zeigen verschiedene Zukünfte.
+excerpt: Vor Kurzem haben wir in Berlin das Futurium besucht. Die Ausstellungen des interaktiven Museums zeigen verschiedene Zukünfte.
 fileName: 2020-03---futurium-berlin.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-06-08-berlin-83__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-06-08-berlin-83__l.jpg
@@ -33,42 +31,22 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Das Haus der Zukünfte
-  
 ---
 
-**Vor Kurzem haben wir in Berlin das Futurium besucht. Die Ausstellungen des
-interaktiven Museums zeigen verschiedene Zukünfte.**
+**Vor Kurzem haben wir in Berlin das Futurium besucht. Die Ausstellungen des interaktiven Museums zeigen verschiedene Zukünfte.**
 
-Alles im Futurium beschäftigt sich mit der Frage, wie wir uns unser Leben in der
-Zukunft vorstellen. Neben dem Museumsbereich gibt es auch ein Labor, indem
-eigene Ideen ausprobiert werden können, sowie ein Forum, in dem
-Diskussionsrunden stattfinden. Thematisiert werden Reisen, Wohnen, Ernährung und
-künstliche Intelligenz. Immer mit dem Hintergedanken, dass wir an unseren
-heutigen Gewohnheiten so einiges ändern sollten.
+Alles im Futurium beschäftigt sich mit der Frage, wie wir uns unser Leben in der Zukunft vorstellen. Neben dem Museumsbereich gibt es auch ein Labor, indem eigene Ideen ausprobiert werden können, sowie ein Forum, in dem Diskussionsrunden stattfinden. Thematisiert werden Reisen, Wohnen, Ernährung und künstliche Intelligenz. Immer mit dem Hintergedanken, dass wir an unseren heutigen Gewohnheiten so einiges ändern sollten.
 
 ## Verschiedene Zukünfte im Futurium
 
-Ich persönlich fand die Ausstellung insgesamt sehr interessant. Ein paar Mal
-fiel es mir schwer, mich auf Details einzulassen. Das kann aber auch daran
-liegen, dass das Futurium bei unserem Besuch ziemlich gut besucht war. Schade
-fand ich, dass das Thema Veganismus nicht aufgegriffen wurde.
+Ich persönlich fand die Ausstellung insgesamt sehr interessant. Ein paar Mal fiel es mir schwer, mich auf Details einzulassen. Das kann aber auch daran liegen, dass das Futurium bei unserem Besuch ziemlich gut besucht war. Schade fand ich, dass das Thema Veganismus nicht aufgegriffen wurde.
 
-Was mir sehr gut gefallen hat, waren die einzelnen Modelle und Installationen.
-Sie zeigen nicht nur Zukunftsstudien findiger Forscher und Architekten. Sie
-regen auch die Phantasie an und lassen verschiedene Zukünfte weniger
-unrealistisch erscheinen. Auch der interaktive Aspekt der Ausstellung ist sehr
-gut durchdacht. Natürlich hat man aber auch sicher mehr davon, wenn es weniger
-voll ist.
+Was mir sehr gut gefallen hat, waren die einzelnen Modelle und Installationen. Sie zeigen nicht nur Zukunftsstudien findiger Forscher und Architekten. Sie regen auch die Phantasie an und lassen verschiedene Zukünfte weniger unrealistisch erscheinen. Auch der interaktive Aspekt der Ausstellung ist sehr gut durchdacht. Natürlich hat man aber auch sicher mehr davon, wenn es weniger voll ist.
 
 ## Der Eintritt ist frei
 
-Der Eintritt ist frei und das Museum ist montags, mittwochs, freitags, samstags
-und sonntags von 10:00 Uhr bis 18:00 Uhr sowie donnerstags von 10:00 Uhr bis
-20:00 Uhr geöffnet.
+Der Eintritt ist frei und das Museum ist montags, mittwochs, freitags, samstags und sonntags von 10:00 Uhr bis 18:00 Uhr sowie donnerstags von 10:00 Uhr bis 20:00 Uhr geöffnet.
 
-**Hinweis:** Durch die derzeitige Corona-Krise ist das Futurium bis auf Weiteres
-geschlossen.
+**Hinweis:** Durch die derzeitige Corona-Krise ist das Futurium bis auf Weiteres geschlossen.
 
 <Gallery name="futurium" />
-
-  

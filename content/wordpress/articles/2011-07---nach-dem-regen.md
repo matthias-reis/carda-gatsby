@@ -7,10 +7,8 @@ typeName: Artikel
 title: Nach dem Regen
 seoTitle: Nach dem Regen - Prosa ohne Wolken
 ogTitle: Nach dem Regen - Prosa ohne Wolken
-description: Es hat aufgehört zu regnen. Alles ist viel klarer jetzt. Ganz
-  anders, als wenn es langsam nachlässt.
-excerpt: Es hat aufgehört zu regnen. Alles ist viel klarer jetzt. Ganz anders,
-  als wenn es langsam nachlässt.
+description: Es hat aufgehört zu regnen. Alles ist viel klarer jetzt. Ganz anders, als wenn es langsam nachlässt.
+excerpt: Es hat aufgehört zu regnen. Alles ist viel klarer jetzt. Ganz anders, als wenn es langsam nachlässt.
 fileName: 2011-07---nach-dem-regen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_07_papastrand__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_07_papastrand__l.jpg
@@ -54,40 +52,31 @@ labels:
   - Trennung
   - Wolken
   - Yellow Belly
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Lyrik ohne Wolken
-  
 ---
 
 <blockquote>
 
-Es hat aufgehört zu regnen Alles ist viel klarer jetzt Ganz anders, als wenn es
-langsam nachlässt
+Es hat aufgehört zu regnen Alles ist viel klarer jetzt Ganz anders, als wenn es langsam nachlässt
 
-Du musst Dich erst noch daran gewöhnen An das gute Gefühl, das Du jetzt hast
-Erkennen, dass Du Dich jetzt jederzeit zurücklehnen kannst
+Du musst Dich erst noch daran gewöhnen An das gute Gefühl, das Du jetzt hast Erkennen, dass Du Dich jetzt jederzeit zurücklehnen kannst
 
-Die Wolken haben sich aufgelöst Die Sonne wärmt die Haut Der Sturm hat sich
-verzogen
+Die Wolken haben sich aufgelöst Die Sonne wärmt die Haut Der Sturm hat sich verzogen
 
-Diesen harten, sauren Regen Aus grauen, stählernen Containerwolken Wird es für
-dich nun nicht mehr geben.
+Diesen harten, sauren Regen Aus grauen, stählernen Containerwolken Wird es für dich nun nicht mehr geben.
 
 </blockquote>
 
-Der Song des Tages kommt heute von der Band Thrice.  "Yellow Belly" ist die
-erste Auskopplung aus dem neuen Album "Major/Minor", das im September erscheinen
-wird.
+Der Song des Tages kommt heute von der Band Thrice.  "Yellow Belly" ist die erste Auskopplung aus dem neuen Album "Major/Minor", das im September erscheinen wird.
 
 ## Song des Tages: Thrice – "Yellow Belly"
 
 <YouTube id="Tfv4PqEOZCU" /> \_\_
 
 <pre></pre>
-
-  

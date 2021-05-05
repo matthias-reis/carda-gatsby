@@ -7,10 +7,8 @@ typeName: Artikel
 title: Heimweggedanken
 seoTitle: Heimweggedanken - "Ihr könnt mich mal", sagte der Igel
 ogTitle: Heimweggedanken - "Ihr könnt mich mal", sagte der Igel
-description: Männer, die durch ihre defensive Fahrweise positiv auffallen,
-  Wolkenbilder und Lynch im Fernsehen - ein kurzer Tagebucheintrag
-excerpt: Männer, die durch ihre defensive Fahrweise positiv auffallen,
-  Wolkenbilder und Lynch im Fernsehen - ein kurzer Tagebucheintrag
+description: Männer, die durch ihre defensive Fahrweise positiv auffallen, Wolkenbilder und Lynch im Fernsehen - ein kurzer Tagebucheintrag
+excerpt: Männer, die durch ihre defensive Fahrweise positiv auffallen, Wolkenbilder und Lynch im Fernsehen - ein kurzer Tagebucheintrag
 fileName: 2011-09---heimweggedanken.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_09_p5120072__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_09_p5120072__l.jpg
@@ -18,8 +16,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: null
 labels:
   - Bedford
-  - der kleine blaue Haarfüßler in meinem Kühlschrank hat schon wieder den
-    Pudding geklaut
+  - der kleine blaue Haarfüßler in meinem Kühlschrank hat schon wieder den Pudding geklaut
   - Du bist so wunderbar
   - Gedanken
   - Geschichten & Erlebtes
@@ -34,35 +31,27 @@ labels:
   - Stau
   - Wolkenbilder
   - Wörter
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Ihr könnt mich mal!", sagte der Igel und drehte sich um.'
-  
 ---
 
 ## Heute
 
-Ein Schlachtfeld des schlechten Geschmacks Laute Menschen, die durch
-Nichtaussagen auffallen Vorgetäuschte Reifenpannen Stop And Go in der Innenstadt
-Hide And Seek im Kühlschrank
+Ein Schlachtfeld des schlechten Geschmacks Laute Menschen, die durch Nichtaussagen auffallen Vorgetäuschte Reifenpannen Stop And Go in der Innenstadt Hide And Seek im Kühlschrank
 
 ## Aber auch
 
-Männer, die durch ihre defensive Fahrweise positiv auffallen Wolkenbilder und
-Lynch im Fernsehen "Du bist so wunderbar" Seifenschaum und Puderzucker
-Frittierte Glückseeligkeit
+Männer, die durch ihre defensive Fahrweise positiv auffallen Wolkenbilder und Lynch im Fernsehen "Du bist so wunderbar" Seifenschaum und Puderzucker Frittierte Glückseeligkeit
 
 ## Aber ob das auch glücklich macht?
 
-"Das wird vielleicht das letzte sonnige Wochenende!", sagt die ältere Frau, die
-im Drogeriemarkt an der Kasse sitzt, jede Woche zu mir.
+"Das wird vielleicht das letzte sonnige Wochenende!", sagt die ältere Frau, die im Drogeriemarkt an der Kasse sitzt, jede Woche zu mir.
 
 &nbsp;
 
 ---
-
-  

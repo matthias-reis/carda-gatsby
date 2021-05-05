@@ -8,8 +8,7 @@ title: Geocaching
 seoTitle: Geocaching
 ogTitle: Geocaching
 description: Geocaching sollte wirklich jeder mal ausprobiert haben
-excerpt: Geocaching sollte wirklich jeder mal ausprobiert haben - hier ein paar
-  Impressionen.
+excerpt: Geocaching sollte wirklich jeder mal ausprobiert haben - hier ein paar Impressionen.
 fileName: 2009-04---geocaching.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_04_11510864934_9ff821c573_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_04_11510864934_9ff821c573_z__l.jpg
@@ -26,14 +25,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Wanderimpressionen
-  
 ---
 
-**Geocaching sollte wirklich jeder mal ausprobiert haben - hier ein paar
-Impressionen.**
+**Geocaching sollte wirklich jeder mal ausprobiert haben - hier ein paar Impressionen.**
 
 <Gallery name="flickr/geocatchinganne2009" />
 
 &nbsp;
-
-  

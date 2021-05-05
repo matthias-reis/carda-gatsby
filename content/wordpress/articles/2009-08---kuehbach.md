@@ -7,10 +7,8 @@ typeName: Artikel
 title: Kühbach
 seoTitle: Die Marktgemeinde Kühbach im Wandel der Geschichte
 ogTitle: Die Marktgemeinde Kühbach im Wandel der Geschichte
-description: Kühbach liegt zwischen den Wäldern von Aichach und Schiltberg und
-  dem Paartal. Das Wahrzeichen von Kühbach das Schloss Kühbach
-excerpt: Der Markt Kühbach liegt zwischen den Wäldern von Aichach und Schiltberg
-  und dem Paartal.
+description: Kühbach liegt zwischen den Wäldern von Aichach und Schiltberg und dem Paartal. Das Wahrzeichen von Kühbach das Schloss Kühbach
+excerpt: Der Markt Kühbach liegt zwischen den Wäldern von Aichach und Schiltberg und dem Paartal.
 fileName: 2009-08---kuehbach.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_08_14363293989_5d3d44bc8a_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_08_14363293989_5d3d44bc8a_z__l.jpg
@@ -29,91 +27,42 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Bayerische Gemütlichkeit
-  
 ---
 
-**Der Markt Kühbach liegt zwischen den Wäldern von Aichach und Schiltberg und
-dem Paartal.**
+**Der Markt Kühbach liegt zwischen den Wäldern von Aichach und Schiltberg und dem Paartal.**
 
-Das Wahrzeichen des Ortes ist die barocke Magnuskirche, deren Zwiebelturm
-weithin sichtbar ist. Der malerische Ortskern zeugt von der reichen Geschichte
-der Gemeinde.
+Das Wahrzeichen des Ortes ist die barocke Magnuskirche, deren Zwiebelturm weithin sichtbar ist. Der malerische Ortskern zeugt von der reichen Geschichte der Gemeinde.
 
-Neben dem Hauptort Kühbach zählen noch die Ortsteile Großhausen, Haslangkreit,
-Mangelsdorf, Oberschönbach, Unterschönbach, Paar, Radersdorf, Rettenbach,
-Stockensau, Unterbernbach und Winden zum Gemeindegebiet von Kühbach.
+Neben dem Hauptort Kühbach zählen noch die Ortsteile Großhausen, Haslangkreit, Mangelsdorf, Oberschönbach, Unterschönbach, Paar, Radersdorf, Rettenbach, Stockensau, Unterbernbach und Winden zum Gemeindegebiet von Kühbach.
 
-Der Ortsname Kühbach entspringt einer Legende. Ein Ochsen- und ein Kuhhirte
-sollen einst einen heftigen Streit darum gehabt haben, wie der nahe Bach benannt
-werden sollte. Es wurde ein Wettstreit vereinbart, wessen Tier als erstes beim
-Bach angelangen würde. Die Kuh muss wohl als erstes am Bach eingetroffen sein.
-Sie gab dem Kühbächlein seinen Namen, der auch heute noch durch den Ort fließt.
-Das Wappen der Marktgemeinde Kühbach ziert daher auch eine stolze schreitende
-rote Kuh.
+Der Ortsname Kühbach entspringt einer Legende. Ein Ochsen- und ein Kuhhirte sollen einst einen heftigen Streit darum gehabt haben, wie der nahe Bach benannt werden sollte. Es wurde ein Wettstreit vereinbart, wessen Tier als erstes beim Bach angelangen würde. Die Kuh muss wohl als erstes am Bach eingetroffen sein. Sie gab dem Kühbächlein seinen Namen, der auch heute noch durch den Ort fließt. Das Wappen der Marktgemeinde Kühbach ziert daher auch eine stolze schreitende rote Kuh.
 
 ## Das Schloss Kühbach
 
-Mit das wichtigste Gebäude ist natürlich das Schloss Kühbach mit der
-traditionsreichen Brauerei. Zu sehen gibt es wunderschöne Bauernhäuschen und
-Bürgerhausfassaden. Der Sitz des Rathauses befindet sich heute im restaurierten
-alten Schulhaus.
+Mit das wichtigste Gebäude ist natürlich das Schloss Kühbach mit der traditionsreichen Brauerei. Zu sehen gibt es wunderschöne Bauernhäuschen und Bürgerhausfassaden. Der Sitz des Rathauses befindet sich heute im restaurierten alten Schulhaus.
 
-Seit 1996 ist Hans Lotterschmid Bürgermeister von Kühbach. Für ihn hat der
-Dienst am Bürger oberste Priorität.
+Seit 1996 ist Hans Lotterschmid Bürgermeister von Kühbach. Für ihn hat der Dienst am Bürger oberste Priorität.
 
-Die Gemeinde Kühbach zählt heute 1.848 Einwohner, Kühbach hat eine Gesamtfläche
-von 2.981 Hektar und liegt 455 m über dem Meeresspiegel.
+Die Gemeinde Kühbach zählt heute 1.848 Einwohner, Kühbach hat eine Gesamtfläche von 2.981 Hektar und liegt 455 m über dem Meeresspiegel.
 
-Um das Jahr 1000 wurde Kühbach das erste Mal erwähnt, als ein Graf und Vasall
-des Kaisers mit Namen Adalbero das Benediktinerinnenkloster St. Magnus, das über
-Jahrhunderte hinweg der Mittelpunkt des Ortes war. Nachdem es im 30-jährigen
-Krieg zerstört worden war, wurde das Kloster im barocken Stil wieder aufgebaut.
-Auch die Klosterkirche bekam im 17. Jahrhundert ein neues, barockes Gesicht.
-Heute dient die Klosterkirche als Pfarrkirche. Im Zuge der Säkularisierung wurde
-das Kloster 1803 aufgelöst. Der Besitz ging damals an Herzog Max von Bayern
-über. 1862 verkaufte dieser es an die Freiherren von Beck-Peccoz. Die Freiherren
-bauten es zu einem Gutsbetrieb aus. Das Klostergebäude wurde zum Schloss, die
-Familie bewohnt es noch heute. Deshalb ist das Schloss nicht zur Besichtigung
-freigegeben, dafür kann man aber den herrlichen Schlosspark mit Biergarten
-genießen.
+Um das Jahr 1000 wurde Kühbach das erste Mal erwähnt, als ein Graf und Vasall des Kaisers mit Namen Adalbero das Benediktinerinnenkloster St. Magnus, das über Jahrhunderte hinweg der Mittelpunkt des Ortes war. Nachdem es im 30-jährigen Krieg zerstört worden war, wurde das Kloster im barocken Stil wieder aufgebaut. Auch die Klosterkirche bekam im 17. Jahrhundert ein neues, barockes Gesicht. Heute dient die Klosterkirche als Pfarrkirche. Im Zuge der Säkularisierung wurde das Kloster 1803 aufgelöst. Der Besitz ging damals an Herzog Max von Bayern über. 1862 verkaufte dieser es an die Freiherren von Beck-Peccoz. Die Freiherren bauten es zu einem Gutsbetrieb aus. Das Klostergebäude wurde zum Schloss, die Familie bewohnt es noch heute. Deshalb ist das Schloss nicht zur Besichtigung freigegeben, dafür kann man aber den herrlichen Schlosspark mit Biergarten genießen.
 
 ## Wasserburg Haslangkreit
 
-Eine weitere Sehenswürdigkeit ist die Wasserburg Haslangkreit, die im 17.
-Jahrhundert in ein barockes Schloss umgebaut wurde. Auch hier gibt es eine sehr
-schöne Schlosswirtschaft mit Biergarten.
+Eine weitere Sehenswürdigkeit ist die Wasserburg Haslangkreit, die im 17. Jahrhundert in ein barockes Schloss umgebaut wurde. Auch hier gibt es eine sehr schöne Schlosswirtschaft mit Biergarten.
 
-Der kleine Weiler Kühbach gewann erst nach der Klostergründung an Bedeutung.
-Einen weiteren Aufschwung brachte dem Ort das Marktrecht, das Herzog Stephan
-III. 1481 offiziell bestätigte. Am 4.Juli, dem Ulrichstag und am 6. September,
-dem Magnustag wurde ein Markt abgehalten, der später noch durch einen Viehmarkt
-erweitert wurde. Der florierende Markt Kühbach erhielt eine eigene
-Ratsverfassung. 1481 schon stand auf dem Marktplatz das erste Rathaus.
+Der kleine Weiler Kühbach gewann erst nach der Klostergründung an Bedeutung. Einen weiteren Aufschwung brachte dem Ort das Marktrecht, das Herzog Stephan III. 1481 offiziell bestätigte. Am 4.Juli, dem Ulrichstag und am 6. September, dem Magnustag wurde ein Markt abgehalten, der später noch durch einen Viehmarkt erweitert wurde. Der florierende Markt Kühbach erhielt eine eigene Ratsverfassung. 1481 schon stand auf dem Marktplatz das erste Rathaus.
 
 ## Brauerei Kühbach
 
-Die Brauerei in Kühbach blickt auf eine lange Geschichte zurück. Die
-Benediktinerinnen des Klosters brauten bereits im Mittelalter ihr eigenes Bier.
-Herzog Max ließ 1841 ein neues Brauhaus erbauen, die Freiherren von Beck-Peccz
-erwarben es zusammen mit dem Kühbacher Schloss. Die Brauerei befindet sich noch
-heute im Besitz der Familie. 1908 wurde das Brauereigelände neu errichtet. Jedes
-Jahr zum Vatertag findet ein 4-tägiges Brauereifest statt. Dort kann man
-erleben, was echte Bayerische Gmiatlichkeit ist.
+Die Brauerei in Kühbach blickt auf eine lange Geschichte zurück. Die Benediktinerinnen des Klosters brauten bereits im Mittelalter ihr eigenes Bier. Herzog Max ließ 1841 ein neues Brauhaus erbauen, die Freiherren von Beck-Peccz erwarben es zusammen mit dem Kühbacher Schloss. Die Brauerei befindet sich noch heute im Besitz der Familie. 1908 wurde das Brauereigelände neu errichtet. Jedes Jahr zum Vatertag findet ein 4-tägiges Brauereifest statt. Dort kann man erleben, was echte Bayerische Gmiatlichkeit ist.
 
-Wer außerhalb der Biergarten entspannen möchte, für den empfiehlt sich der
-Radersdorfer Badesee, der von Kühbach aus bequem mit dem Fahrrad zu erreichen
-ist.
+Wer außerhalb der Biergarten entspannen möchte, für den empfiehlt sich der Radersdorfer Badesee, der von Kühbach aus bequem mit dem Fahrrad zu erreichen ist.
 
-Die Marktgemeinde Kühbach ist ein wirklich malerischer Ort, ein Ausflug dorthin
-lohnt sich auf jeden Fall!
+Die Marktgemeinde Kühbach ist ein wirklich malerischer Ort, ein Ausflug dorthin lohnt sich auf jeden Fall!
 
-_Wer gerne mehr über die Marktgemeinde Kühbach erfahren möchte, kann einfach
-[hier](http://schiltberg.vg-kuehbach.de/?id=0,2) klicken._
+_Wer gerne mehr über die Marktgemeinde Kühbach erfahren möchte, kann einfach [hier](http://schiltberg.vg-kuehbach.de/?id=0,2) klicken._
 
 <Gallery name="flickr/kuehbachanne" />
 
 &nbsp;
-
-
-
-  

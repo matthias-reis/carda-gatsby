@@ -7,10 +7,8 @@ typeName: Artikel
 title: Badetag
 seoTitle: Badetag - Tagebucheintrag
 ogTitle: Badetag - Tagebucheintrag
-description: Leckeres selbst gekochtes Essen, Heu im Haar, Konservengeigen,
-  Hundegebell und 0:0 in der 54 Minute. Wir haben Spaß am Leben.
-excerpt: Leckeres selbst gekochtes Essen, Heu im Haar, Konservengeigen,
-  Hundegebell und 0:0 in der 54 Minute. Wir haben Spaß am Leben.
+description: Leckeres selbst gekochtes Essen, Heu im Haar, Konservengeigen, Hundegebell und 0:0 in der 54 Minute. Wir haben Spaß am Leben.
+excerpt: Leckeres selbst gekochtes Essen, Heu im Haar, Konservengeigen, Hundegebell und 0:0 in der 54 Minute. Wir haben Spaß am Leben.
 fileName: 2011-06---badetag.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_06_pa290001__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_06_pa290001__l.jpg
@@ -37,35 +35,30 @@ labels:
   - Tallest Man On Earth
   - Tor
   - Video
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Tagebucheintrag
-  
 ---
 
-**Der wärmste Tag des Jahres bisher. Nach der Arbeit die Badesachen eingepackt
-und ab an den Baggersee.**
+**Der wärmste Tag des Jahres bisher. Nach der Arbeit die Badesachen eingepackt und ab an den Baggersee.**
 
-Leckeres selbst gekochtes Essen, Heu im Haar, Konservengeigen, Hundegebell und
-0:0 in der 54 Minute. Spaß am Leben. Auch wenn das ab und zu Zitrusfrüchte für
-einen bereithält und man im richtigen Moment weder Agavenschnaps noch Salz zur
-Hand hat.
+Leckeres selbst gekochtes Essen, Heu im Haar, Konservengeigen, Hundegebell und 0:0 in der 54 Minute. Spaß am Leben. Auch wenn das ab und zu Zitrusfrüchte für einen bereithält und man im richtigen Moment weder Agavenschnaps noch Salz zur Hand hat.
 
-Feuerwehreinsatz, Straßensperrung, kochende Kühler und schwitzende Passanten.
-Spätestens heute ist der Sommer in der Stadt angekommen.
+Feuerwehreinsatz, Straßensperrung, kochende Kühler und schwitzende Passanten. Spätestens heute ist der Sommer in der Stadt angekommen.
 
-<del>Die farbenfrohe Presse berichtet heute über _zu_ schwangere Ex-Spice-Girls,
-die aus dem Ehebett fliehen</del>, de Maizière verteidigt seine Munition gegen
-Libyen, Griechenland wird von einem Generalstreik lahmgelegt, aus Japan werden
-weiterhin Strahlungsrekorde gemeldet. <del>Helmut Kohl kritisiert die Bücher,
-die sein Sohn über seine Familie geschrieben hat.</del>
+<del>
+  Die farbenfrohe Presse berichtet heute über _zu_ schwangere Ex-Spice-Girls,
+  die aus dem Ehebett fliehen
+</del>
+, de Maizière verteidigt seine Munition gegen Libyen, Griechenland wird von
+einem Generalstreik lahmgelegt, aus Japan werden weiterhin Strahlungsrekorde
+gemeldet. <del>Helmut Kohl kritisiert die Bücher, die sein Sohn über seine Familie geschrieben hat.</del>
 
 ## Musik des Tages: Tallest Man On Earth  – "Tiny Desk Concert"
 
- <YouTube id="JLRTleMY_mc" />
-
-  
+{' '}
+<YouTube id="JLRTleMY_mc" />

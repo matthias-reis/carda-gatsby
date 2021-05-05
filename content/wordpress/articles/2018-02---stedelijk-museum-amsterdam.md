@@ -7,10 +7,8 @@ typeName: Galerie
 title: Stedelijk Museum Amsterdam
 seoTitle: Stedelijk Museum Amsterdam - Moderne Kunst hautnah
 ogTitle: Stedelijk Museum Amsterdam - Moderne Kunst hautnah
-description: Am 18. Januar hatten wir die Gelegenheit, das Stedelijk Museum zu
-  besuchen. Für uns ein echtes Highlight unseres Kurztripps nach Amsterdam.
-excerpt: Am 18. Januar hatten wir die Gelegenheit, das Stedelijk Museum zu
-  besuchen. Für uns ein echtes Highlight unseres Kurztripps nach Amsterdam.
+description: Am 18. Januar hatten wir die Gelegenheit, das Stedelijk Museum zu besuchen. Für uns ein echtes Highlight unseres Kurztripps nach Amsterdam.
+excerpt: Am 18. Januar hatten wir die Gelegenheit, das Stedelijk Museum zu besuchen. Für uns ein echtes Highlight unseres Kurztripps nach Amsterdam.
 fileName: 2018-02---stedelijk-museum-amsterdam.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38470388620_e6fe43e7b2_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38470388620_e6fe43e7b2_z__l.jpg
@@ -43,33 +41,17 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Moderne Kunst hautnah
-  
 ---
 
-**Am 18. Januar hatten wir die Gelegenheit, das Stedelijk Museum zu besuchen. Da
-wir beide von moderner Kunst magisch angezogen werden, war das für uns ein
-besonderes Highlight unserer Kurzreise nach Amsterdam.**
+**Am 18. Januar hatten wir die Gelegenheit, das Stedelijk Museum zu besuchen. Da wir beide von moderner Kunst magisch angezogen werden, war das für uns ein besonderes Highlight unserer Kurzreise nach Amsterdam.**
 
-Das Stedlijk Museum besteht aus einem historischen Gebäude aus dem Jahr 1895 und
-einem neuen Komplex. Dieser wurde vom Architekturbüro Benthem Crouwel entworfen.
-Im Museum befindet sich eine der bedeutendsten Sammlungen der Welt. Insgesamt
-werden dort 90.000 Objekte aus der zeitgenössischen und Modernen Kunst
-ausgestellt.
+Das Stedlijk Museum besteht aus einem historischen Gebäude aus dem Jahr 1895 und einem neuen Komplex. Dieser wurde vom Architekturbüro Benthem Crouwel entworfen. Im Museum befindet sich eine der bedeutendsten Sammlungen der Welt. Insgesamt werden dort 90.000 Objekte aus der zeitgenössischen und Modernen Kunst ausgestellt.
 
 ## Von Bauhaus bis De Stijl - Beeindruckende Kunst im Stedelijk Museum
 
-Die Kunst von Cézanne, Chagall, Picasso, Warhol und vielen anderen zog uns in
-ihren Bann. Besonders beeindruckend fand ich persönlich den von Keith Haring
-gestalteten Deckenbehang, der sich über das komplette Treppenhaus spannt.
+Die Kunst von Cézanne, Chagall, Picasso, Warhol und vielen anderen zog uns in ihren Bann. Besonders beeindruckend fand ich persönlich den von Keith Haring gestalteten Deckenbehang, der sich über das komplette Treppenhaus spannt.
 
-Vertreten sind im Stedelijk Museum Werke der wichtigsten Strömungen, darunter
-Bauhaus, De Stijl, BoBrA, Abstrakter Expressionismus, Pop-Art, Minimal Art,
-Amsterdamer Schule und Konzeptkunst. Das Museum ist etwas ganz Besonderes. Es
-ist sehr modern aufgebaut und durch die Möglichkeit eines kostenlosen
-Audioguides kann man hautnah mit der Kunst in Kontakt treten. Das Stedelijk
-Museum befindet sich übrigens direkt am Museumplein, ganz in der Nähe des
-Rijksmuseums, in dem die Klassiker ausgestellt sind. Ich werde Euch in Kürze
-davon berichten.
+Vertreten sind im Stedelijk Museum Werke der wichtigsten Strömungen, darunter Bauhaus, De Stijl, BoBrA, Abstrakter Expressionismus, Pop-Art, Minimal Art, Amsterdamer Schule und Konzeptkunst. Das Museum ist etwas ganz Besonderes. Es ist sehr modern aufgebaut und durch die Möglichkeit eines kostenlosen Audioguides kann man hautnah mit der Kunst in Kontakt treten. Das Stedelijk Museum befindet sich übrigens direkt am Museumplein, ganz in der Nähe des Rijksmuseums, in dem die Klassiker ausgestellt sind. Ich werde Euch in Kürze davon berichten.
 
 <Gallery name="flickr/annestedelijkmuseum2018 " />
 
@@ -81,5 +63,3 @@ davon berichten.
 1.  [Rijksmusem Amsterdam](/2018/03/rijksmuseum-amsterdam/)
 1.  [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/)
 1.  [Raw Food Café Amsterdam](/2018/03/raw-food-cafe-amsterdam-zest-for-life/)
-
-  

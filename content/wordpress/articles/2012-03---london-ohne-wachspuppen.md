@@ -7,10 +7,8 @@ typeName: Galerie
 title: London ohne Wachspuppen
 seoTitle: Tube Trip - London ohne Wachspuppen
 ogTitle: Tube Trip - London ohne Wachspuppen
-description: Im März habe ich meine Freizeit für einen Kurztrip nach London
-  genutzt. Hier sind einige Impressionen von meiner Reise.
-excerpt: Im März habe ich meine Freizeit für einen Kurztrip nach London genutzt.
-  Hier sind einige Impressionen von meiner Reise.
+description: Im März habe ich meine Freizeit für einen Kurztrip nach London genutzt. Hier sind einige Impressionen von meiner Reise.
+excerpt: Im März habe ich meine Freizeit für einen Kurztrip nach London genutzt. Hier sind einige Impressionen von meiner Reise.
 fileName: 2012-03---london-ohne-wachspuppen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_03_img_8872__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_03_img_8872__l.jpg
@@ -48,12 +46,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Tube Trip
-  
 ---
 
-**Im März habe ich meine Freizeit für einen Kurztrip nach London genutzt. Hier
-sind einige Impressionen von meiner Reise.**
+**Im März habe ich meine Freizeit für einen Kurztrip nach London genutzt. Hier sind einige Impressionen von meiner Reise.**
 
 <Gallery name="flickr/annelondon2012" />
-
-  

@@ -7,10 +7,8 @@ typeName: Artikel
 title: Menschliche Abgründe
 seoTitle: Menschliche Abgründe - "Die Verlorene Tochter"
 ogTitle: Menschliche Abgründe - "Die Verlorene Tochter"
-description: Der Polizeiruf von gestern Abend ("Die verlorene Tochter") stimmt
-  nachdenklich. Ein sehr brisantes, aktuelles Thema.
-excerpt: Der Polizeiruf von gestern Abend ("Die verlorene Tochter") stimmt
-  nachdenklich. Ein sehr brisantes, aktuelles Thema.
+description: Der Polizeiruf von gestern Abend ("Die verlorene Tochter") stimmt nachdenklich. Ein sehr brisantes, aktuelles Thema.
+excerpt: Der Polizeiruf von gestern Abend ("Die verlorene Tochter") stimmt nachdenklich. Ein sehr brisantes, aktuelles Thema.
 fileName: 2011-06---menschliche-abgruende.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_06_neues-bild__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_06_neues-bild__l.jpg
@@ -59,33 +57,12 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Die verlorene Tochter"'
-  
 ---
 
-Der Polizeiruf von gestern Abend ("Die verlorene Tochter") stimmt nachdenklich.
-Ein sehr brisantes, aktuelles Thema. Parallel dazu trugen im Privatfernsehen
-aufmerksamkeitsgeile C-Promis zur Klimaerwärmung bei, indem sie Fertigpudding
-und laienhaft zubereitetes Schweinefleisch zu sich nahmen und sich nebenbei zum
-Teil in Vergangenheitsbewältigung übten, zum Teil mit ihren großartigen
-Projekten pralten.
+Der Polizeiruf von gestern Abend ("Die verlorene Tochter") stimmt nachdenklich. Ein sehr brisantes, aktuelles Thema. Parallel dazu trugen im Privatfernsehen aufmerksamkeitsgeile C-Promis zur Klimaerwärmung bei, indem sie Fertigpudding und laienhaft zubereitetes Schweinefleisch zu sich nahmen und sich nebenbei zum Teil in Vergangenheitsbewältigung übten, zum Teil mit ihren großartigen Projekten pralten.
 
-Im Polizeiruf gab es ein Happy End, die verlorene Tochter wurde gefunden und kam
-nach 5 Jahren zurück zu ihren Eltern. Leider ist das in der Realität selten der
-Fall. Heute wird dem Mörder zweier Jugendlicher der Prozess gemacht. Da er zum
-Zeitpunkt der Tat als unzurechnungsfähig eingestuft wurde, beträgt die
-Höchststrafe 15 Jahre. Es wird allerdings erwogen, ihn lebenslänglich in eine
-Psychatrie einzuweisen. Die Leiche der kleinen Marie Jane wurde letzte Woche von
-Wanderern entdeckt. Die Polizei sucht nun fieberhaft nach ihrem Mörder. Es wird
-vermutet, dass er aus ihrem Umfeld stammen könnte. Ihr Schulranzen, der bis dato
-noch nicht aufgetaucht ist, soll für Aufschluss sorgen.
+Im Polizeiruf gab es ein Happy End, die verlorene Tochter wurde gefunden und kam nach 5 Jahren zurück zu ihren Eltern. Leider ist das in der Realität selten der Fall. Heute wird dem Mörder zweier Jugendlicher der Prozess gemacht. Da er zum Zeitpunkt der Tat als unzurechnungsfähig eingestuft wurde, beträgt die Höchststrafe 15 Jahre. Es wird allerdings erwogen, ihn lebenslänglich in eine Psychatrie einzuweisen. Die Leiche der kleinen Marie Jane wurde letzte Woche von Wanderern entdeckt. Die Polizei sucht nun fieberhaft nach ihrem Mörder. Es wird vermutet, dass er aus ihrem Umfeld stammen könnte. Ihr Schulranzen, der bis dato noch nicht aufgetaucht ist, soll für Aufschluss sorgen.
 
-Gibt es eigentlich mehr Gewalttäter, als noch vor einigen Jahren? Oder wird
-heutzutage nur detaillierter darüber berichtet? Hilft diese Dokumentation über
-Presse, TV, Radio und Internet die Menschen vor derartigen Verbrechen zu
-schützen? Hält es potentielle Straftäter von einem Gewaltdelikt ab? Oder bringt
-sie manche sogar erst dazu? Was verleitet einen Menschen zu solch einem
-Verbrechen?
+Gibt es eigentlich mehr Gewalttäter, als noch vor einigen Jahren? Oder wird heutzutage nur detaillierter darüber berichtet? Hilft diese Dokumentation über Presse, TV, Radio und Internet die Menschen vor derartigen Verbrechen zu schützen? Hält es potentielle Straftäter von einem Gewaltdelikt ab? Oder bringt sie manche sogar erst dazu? Was verleitet einen Menschen zu solch einem Verbrechen?
 
 Bildquelle: M.E. pixelio.de
-
-  

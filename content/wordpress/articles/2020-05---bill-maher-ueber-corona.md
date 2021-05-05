@@ -7,10 +7,8 @@ typeName: Artikel
 title: Bill Maher über Corona
 seoTitle: Bill Maher über Corona - Comedian spricht sich gegen Tierquälerei aus
 ogTitle: Bill Maher über Corona - Comedian spricht sich gegen Tierquälerei aus
-description: Talkmaster Bill Maher sprach sich in der letzten Folge seiner
-  Sendung "Real Time With Bill Maher" offen gegen Tierquälerei aus.
-excerpt: Talkmaster Bill Maher sprach sich in der letzten Folge seiner Sendung
-  "Real Time With Bill Maher" offen gegen Tierquälerei aus.
+description: Talkmaster Bill Maher sprach sich in der letzten Folge seiner Sendung "Real Time With Bill Maher" offen gegen Tierquälerei aus.
+excerpt: Talkmaster Bill Maher sprach sich in der letzten Folge seiner Sendung "Real Time With Bill Maher" offen gegen Tierquälerei aus.
 fileName: 2020-05---bill-maher-ueber-corona.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_bill-maher-creative-commons__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_bill-maher-creative-commons__l.jpg
@@ -37,91 +35,47 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Comedian spricht sich gegen Tierquälerei aus
-  
 ---
 
-**Talkmaster Bill Maher sprach sich in der letzten Folge seiner Sendung "Real
-Time With Bill Maher" offen gegen Tierquälerei aus.**
+**Talkmaster Bill Maher sprach sich in der letzten Folge seiner Sendung "Real Time With Bill Maher" offen gegen Tierquälerei aus.**
 
-Amerikanische Massentierhaltungsbetriebe bezeichnete Bill als "genauso
-verabscheuungswürdig wie Wet Markets". Diese waren durch die Debatte um den
-Ausbruch von COVID-19 in den letzten Wochen in den Medien immer wieder
-thematisiert worden.
+Amerikanische Massentierhaltungsbetriebe bezeichnete Bill als "genauso verabscheuungswürdig wie Wet Markets". Diese waren durch die Debatte um den Ausbruch von COVID-19 in den letzten Wochen in den Medien immer wieder thematisiert worden.
 
-Auch zur derzeit sehr beliebte Netflix Dokumentation "Tiger King" fand er keine
-positiven Worte.
+Auch zur derzeit sehr beliebte Netflix Dokumentation "Tiger King" fand er keine positiven Worte.
 
-> "Die Leute sollen aufhören, mir zu sagen, dass ich mir diese Sendung anschauen
-> soll. Es wird nicht passieren. Ich schaue mir 'Tiger King' nicht an, weil uns
-> unsere Tierquälerei in diesen Schlamassel geführt hat. Das ist die Lektion,
-> die wir endlich lernen müssen: Wir können die Umwelt und die Tierwelt nicht
-> einfach ausbeuten wie es uns passt. Es wird auf uns zurückfallen und sie wird
-> uns töten."
+> "Die Leute sollen aufhören, mir zu sagen, dass ich mir diese Sendung anschauen soll. Es wird nicht passieren. Ich schaue mir 'Tiger King' nicht an, weil uns unsere Tierquälerei in diesen Schlamassel geführt hat. Das ist die Lektion, die wir endlich lernen müssen: Wir können die Umwelt und die Tierwelt nicht einfach ausbeuten wie es uns passt. Es wird auf uns zurückfallen und sie wird uns töten."
 
 ## Massentierhaltung genauso schlimm, wie Wet Markets
 
-Der 64-jährige Publizist hatte zuletzt für seine Kritik an den Wet Markets
-parteiübergreifendes Lob erhalten. Experten gehen davon aus, dass die ersten
-COVID-19 Infektionen bei Menschen von einem Wet Market in Wuhan ausgingen.
+Der 64-jährige Publizist hatte zuletzt für seine Kritik an den Wet Markets parteiübergreifendes Lob erhalten. Experten gehen davon aus, dass die ersten COVID-19 Infektionen bei Menschen von einem Wet Market in Wuhan ausgingen.
 
-In seiner Sendung betonte er, dass die moderne Tierhaltung und -Verarbeitung in
-den westlichen Ländern den Wet Markets in nichts nachsteht.
+In seiner Sendung betonte er, dass die moderne Tierhaltung und -Verarbeitung in den westlichen Ländern den Wet Markets in nichts nachsteht.
 
-> "Die industriellen Farmbetriebe in den USA sind ebenso verabscheuungswürdig
-> und problematisch, wie die Wet Markets in Asien. Die Fleischlobby ist groß,
-> aber die ökologische Bombe tickt. Wir müssen kapieren, dass wir mit unseren
-> Massenbetrieben keinen Deut besser sind, als die Betreiber der Wet Markets.
-> Die meisten Infektionen sind tierischen Ursprungs und eine Krankheit kann ganz
-> einfach auf uns Menschen überspringen."
+> "Die industriellen Farmbetriebe in den USA sind ebenso verabscheuungswürdig und problematisch, wie die Wet Markets in Asien. Die Fleischlobby ist groß, aber die ökologische Bombe tickt. Wir müssen kapieren, dass wir mit unseren Massenbetrieben keinen Deut besser sind, als die Betreiber der Wet Markets. Die meisten Infektionen sind tierischen Ursprungs und eine Krankheit kann ganz einfach auf uns Menschen überspringen."
 
 ## Bill Maher warnt vor Infektionen durch Tierquälerei
 
-Offizielle Zahlen der Gesundheitsbehörden belegen, dass rund 75 Prozent aller
-auftretenden Infektionen von Tieren auf Menschen übertragen werden. Laut WHO
-weisen alle verfügbaren Beweise darauf hin, dass das Coronavirus zootischen
-Ursprungs ist. Die Experten vermuten, dass
-[die gefährdeten Schuppentiere](/2016/05/pangolin-ein-vergessenes-schuppentier/)
-oder Fledermäuse als Zwischenwirt fungiert haben können.
+Offizielle Zahlen der Gesundheitsbehörden belegen, dass rund 75 Prozent aller auftretenden Infektionen von Tieren auf Menschen übertragen werden. Laut WHO weisen alle verfügbaren Beweise darauf hin, dass das Coronavirus zootischen Ursprungs ist. Die Experten vermuten, dass [die gefährdeten Schuppentiere](/2016/05/pangolin-ein-vergessenes-schuppentier/) oder Fledermäuse als Zwischenwirt fungiert haben können.
 
-Maher berichtete auch von einem tödlich verlaufenden Stamm der Vogelgrippe. Sie
-war vor Kurzem auf einer kommerziellen Putenfarm in North Carolina ausgebrochen.
-Der Ausbruch war erst am 6. April entdeckt worden. Insgesamt hatten sich 1.583
-Tiere infiziert. Die verbleibenden 32.577 wurden eingeschläfert, um die weitere
-Ausbreitung zu verhindern. Bill Maher stellte dazu die Frage:
+Maher berichtete auch von einem tödlich verlaufenden Stamm der Vogelgrippe. Sie war vor Kurzem auf einer kommerziellen Putenfarm in North Carolina ausgebrochen. Der Ausbruch war erst am 6. April entdeckt worden. Insgesamt hatten sich 1.583 Tiere infiziert. Die verbleibenden 32.577 wurden eingeschläfert, um die weitere Ausbreitung zu verhindern. Bill Maher stellte dazu die Frage:
 
-> "Uns wurde gesagt, dass wir Abstand halten, Kontakt zu Erkrankten meiden,
-> Stress abbauen und Sport treiben sollen. Warum sind wir überrascht, dass Tiere
-> krank werden, wenn sie unter Bedingungen leben, die das genaue Gegenteil von
-> all dem darstellen? Allen, die denken, dass die Wet Markets von Wuhan eklig
-> sind, empfehle ich den Besuch einer unserer Geflügelfarmen."
+> "Uns wurde gesagt, dass wir Abstand halten, Kontakt zu Erkrankten meiden, Stress abbauen und Sport treiben sollen. Warum sind wir überrascht, dass Tiere krank werden, wenn sie unter Bedingungen leben, die das genaue Gegenteil von all dem darstellen? Allen, die denken, dass die Wet Markets von Wuhan eklig sind, empfehle ich den Besuch einer unserer Geflügelfarmen."
 
 ## "Wir schaffen Antibiotika-resistente Infektionen"
 
-Der Talkmaster zeigte sich besorgt über den unbkümmerten Einsatz von Antibiotika
-und anderen Medikamenten in der Tierzucht.
+Der Talkmaster zeigte sich besorgt über den unbkümmerten Einsatz von Antibiotika und anderen Medikamenten in der Tierzucht.
 
-> "Wir pumpen die Tiere mit Antibiotika voll und geben die dabei erschaffenen
-> Antibiotika-resistenten Infektionen direkt an den Menschen weiter. Ihr habt
-> Angst, der⋆die Briefträger⋆in könnte Corona haben? Achtzig Prozent der
-> geschlachteten Schweine litten durch die Bedingungen, unter denen sie ihr
-> Leben verbrachten, an Lungenentzündung.
+> "Wir pumpen die Tiere mit Antibiotika voll und geben die dabei erschaffenen Antibiotika-resistenten Infektionen direkt an den Menschen weiter. Ihr habt Angst, der⋆die Briefträger⋆in könnte Corona haben? Achtzig Prozent der geschlachteten Schweine litten durch die Bedingungen, unter denen sie ihr Leben verbrachten, an Lungenentzündung.
 
 ## "Tut bitte etwas!"
 
-Bill Maher ist überzeugt davon, dass wir, wenn wir uns weiterhin verhalten, wie
-bisher, irgendwann eine Krankheit erschaffen werden, die von der Medizin nicht
-geheilt werden kann.
+Bill Maher ist überzeugt davon, dass wir, wenn wir uns weiterhin verhalten, wie bisher, irgendwann eine Krankheit erschaffen werden, die von der Medizin nicht geheilt werden kann.
 
-> "Ihr müsst nicht so tun, als würden Euch die Tiere etwas bedeuten. Ich möchte
-> nicht den Ruf herzloser Menschen ruinieren. Aber bitte tut etwas! Das Leid der
-> Tiere führt uns sonst in die humanitäre Katastrophe."
+> "Ihr müsst nicht so tun, als würden Euch die Tiere etwas bedeuten. Ich möchte nicht den Ruf herzloser Menschen ruinieren. Aber bitte tut etwas! Das Leid der Tiere führt uns sonst in die humanitäre Katastrophe."
 
- <YouTube id="-OoT2OZWCOI" />
+{' '}
+<YouTube id="-OoT2OZWCOI" />
 
-Quelle/source:
-[Live Kindly](https://www.livekindly.co/bill-maher-calls-factory-farms-despicable-wet-markets/)
+Quelle/source: [Live Kindly](https://www.livekindly.co/bill-maher-calls-factory-farms-despicable-wet-markets/)
 
-Bild/picture
-[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bill_Maher_in_Fuck_film.jpg)
-
-  
+Bild/picture [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bill_Maher_in_Fuck_film.jpg)

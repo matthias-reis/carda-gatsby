@@ -7,12 +7,8 @@ typeName: Galerie
 title: Zu Gast in Estepona
 seoTitle: Zu Gast in Estepona - Tapas und Geschichte an der Costa del Sol
 ogTitle: Zu Gast in Estepona - Tapas und Geschichte an der Costa del Sol
-description: Estepona liegt an der spanischen Costa del Sol in der Provinz
-  Málaga in Andalusien. Wir haben der Stadt einen Besuch abgestattet und uns mal
-  umgeschaut.
-excerpt: Estepona liegt an der spanischen Costa del Sol in der Provinz Málaga in
-  Andalusien. Wir haben der Stadt einen Besuch abgestattet und uns mal
-  umgeschaut.
+description: Estepona liegt an der spanischen Costa del Sol in der Provinz Málaga in Andalusien. Wir haben der Stadt einen Besuch abgestattet und uns mal umgeschaut.
+excerpt: Estepona liegt an der spanischen Costa del Sol in der Provinz Málaga in Andalusien. Wir haben der Stadt einen Besuch abgestattet und uns mal umgeschaut.
 fileName: 2019-09---zu-gast-in-estepona.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-06-23-estepona-8__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-06-23-estepona-8__l.jpg
@@ -33,37 +29,22 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Tapas und Geschichte
-  
 ---
 
-**Estepona liegt an der spanischen Costa del Sol in der Provinz Málaga in
-Andalusien. Wir haben der Stadt einen Besuch abgestattet und uns mal
-umgeschaut.**
+**Estepona liegt an der spanischen Costa del Sol in der Provinz Málaga in Andalusien. Wir haben der Stadt einen Besuch abgestattet und uns mal umgeschaut.**
 
-Von unserem Spanientrip habe ich Euch ja schon mal kurz erzählt. Vom ersten
-Strand aus ging es am dritten Tag unserer Tour (23. Juni) ins 67.000 Einwohner
-Städtchen Estepona.
+Von unserem Spanientrip habe ich Euch ja schon mal kurz erzählt. Vom ersten Strand aus ging es am dritten Tag unserer Tour (23. Juni) ins 67.000 Einwohner Städtchen Estepona.
 
 ## Wunderschönes Estepona
 
-Im Ort gibt es einige Sehenswürdigkeiten. Dazu zählen vor allem die
-muslimisch-kastilianischen Türme "Torres Almenaras" und der Uhrenturm.
-Besonderen Charme haben die kleinen Gässchen mit den liebevoll gepflegten bunten
-Gardenien und Geranientöpfchen.
+Im Ort gibt es einige Sehenswürdigkeiten. Dazu zählen vor allem die muslimisch-kastilianischen Türme "Torres Almenaras" und der Uhrenturm. Besonderen Charme haben die kleinen Gässchen mit den liebevoll gepflegten bunten Gardenien und Geranientöpfchen.
 
-Der Küstenort liegt etwa 45 Kilometer von Gibraltar entfernt. Auf der Durchreise
-lohnt sich ein Besuch auf jeden Fall, auch, wenn es nur für ein paar Tapas oder
-eine Abkühlung am ausladenden Stadtstrand ist.
+Der Küstenort liegt etwa 45 Kilometer von Gibraltar entfernt. Auf der Durchreise lohnt sich ein Besuch auf jeden Fall, auch, wenn es nur für ein paar Tapas oder eine Abkühlung am ausladenden Stadtstrand ist.
 
-Unsere nächste Station auf dem Roadtrip durch Andalusien war die
-[Santaverde Finca](/2019/07/santaverde-finca-aloe-vera/). Bleibt dran, in Kürze
-werde ich hier im Blog noch weitere Bilder und Geschichten von unserer Reise
-teilen.
+Unsere nächste Station auf dem Roadtrip durch Andalusien war die [Santaverde Finca](/2019/07/santaverde-finca-aloe-vera/). Bleibt dran, in Kürze werde ich hier im Blog noch weitere Bilder und Geschichten von unserer Reise teilen.
 
 <Gallery name="anneestepona20190623" />
 
 ## Quellen
 
 [Wikipedia](https://de.wikipedia.org/wiki/Estepona)
-
-  

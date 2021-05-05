@@ -7,11 +7,8 @@ typeName: Artikel
 title: Verlosung
 seoTitle: Verlosung! Exklusives Vinyl zu gewinnen!
 ogTitle: Verlosung! Exklusives Vinyl zu gewinnen!
-description: Heute gibt es auf meiner Seite eine ganz besondere Verlosung und es
-  gibt tolle Platten zu gewinnen!
-excerpt: Mein wundervolles, neues Marc Lanegan T-Shirt hat mich auf die Idee
-  gebracht, mal wieder eine Mitmach-Aktion auf cardamonchai.com zu veranstalten.
-  Dieses Mal soll es nicht nur eine einfache Verlosung sein.
+description: Heute gibt es auf meiner Seite eine ganz besondere Verlosung und es gibt tolle Platten zu gewinnen!
+excerpt: Mein wundervolles, neues Marc Lanegan T-Shirt hat mich auf die Idee gebracht, mal wieder eine Mitmach-Aktion auf cardamonchai.com zu veranstalten. Dieses Mal soll es nicht nur eine einfache Verlosung sein.
 fileName: 2012-08---verlosung.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9924gerahmt_hf__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9924gerahmt_hf__l.jpg
@@ -88,51 +85,82 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Exklusives Vinyl, CD und T-Shirt zu gewinnen
-  
 ---
 
 <hr />
 
-**Hinweis:** Die Aktion ist beendet.
-[Bestimmt findet bald wieder eine tolle Verlosung im Blog statt](/tag/verlosung/).
+**Hinweis:** Die Aktion ist beendet. [Bestimmt findet bald wieder eine tolle Verlosung im Blog statt](/tag/verlosung/).
 
 <hr />
 
-**Mein wundervolles, neues [Marc Lanegan T-Shirt](//#jp-carousel-3918) hat mich
-auf die Idee gebracht, mal wieder eine Mitmach-Aktion auf cardamonchai.com zu
-veranstalten. Dieses Mal soll es nicht nur eine
-[einfache Verlosung](//2011/05/05/cardamonchai-auf-facebook/) sein, oder ein
-[Mixtape-Tausch](//cardamixtape-2/der-mixtape-tausch-teil-1-die-bastelei/),
-nein, es wird spannender. Und es gibt wirklich tolle Preise zu gewinnen.**
+**Mein wundervolles, neues [Marc Lanegan T-Shirt](//#jp-carousel-3918) hat mich auf die Idee gebracht, mal wieder eine Mitmach-Aktion auf cardamonchai.com zu veranstalten. Dieses Mal soll es nicht nur eine [einfache Verlosung](//2011/05/05/cardamonchai-auf-facebook/) sein, oder ein [Mixtape-Tausch](//cardamixtape-2/der-mixtape-tausch-teil-1-die-bastelei/), nein, es wird spannender. Und es gibt wirklich tolle Preise zu gewinnen.**
 
-Alle, die mitmachen wollen, senden unter dem Betreff "T-Shirt-Idee" bis zum 30.
-September ein Foto  von ihrem Lieblings-T-Shirt, im Idealfall sogar mit einer
-kleinen Geschichte dazu (2-10 Sätze reichen schon) an info@cardamonchai.com. Aus
-den Bildern entsteht dann hier im Blog eine schöne T-Shirt-Galerie. Es werden
-drei Gewinner ausgelost, die einen eigenen Blogeintrag zu Ihrem T-Shirt
-bekommen. Natürlich ist das aber noch längst nicht alles. Der erste Preis ist
-eine exklusive Vinyl, der zweite Preis eine tolle CD und der dritte Preis (na,
-drei Mal dürft Ihr raten) ein T-Shirt. Die Gewinne stellen meine Freunde von
-"[Marleen Schallplatten](https://www.facebook.com/marleen.schallplatten)" , dem
-Plattenladen meines Vertrauens in Fulda zur Verfügung. Vielen Dank an dieser
-Stelle, Ihr wart maßgeblich an meiner 'musikalischen Früherziehung' beteiligt!
+Alle, die mitmachen wollen, senden unter dem Betreff "T-Shirt-Idee" bis zum 30. September ein Foto  von ihrem Lieblings-T-Shirt, im Idealfall sogar mit einer kleinen Geschichte dazu (2-10 Sätze reichen schon) an info@cardamonchai.com. Aus den Bildern entsteht dann hier im Blog eine schöne T-Shirt-Galerie. Es werden drei Gewinner ausgelost, die einen eigenen Blogeintrag zu Ihrem T-Shirt bekommen. Natürlich ist das aber noch längst nicht alles. Der erste Preis ist eine exklusive Vinyl, der zweite Preis eine tolle CD und der dritte Preis (na, drei Mal dürft Ihr raten) ein T-Shirt. Die Gewinne stellen meine Freunde von "[Marleen Schallplatten](https://www.facebook.com/marleen.schallplatten)" , dem Plattenladen meines Vertrauens in Fulda zur Verfügung. Vielen Dank an dieser Stelle, Ihr wart maßgeblich an meiner 'musikalischen Früherziehung' beteiligt!
 
-> Ich würde mich sehr freuen, wenn möglichst viele mitmachen, damit am Ende auch
-> eine schöne T-Shirt-Galerie entsteht. Bitte sendet Eure Fotos und Texte bis
-> zum 30. September 2012 unter dem Betreff "T-Shirt-Idee" an
-> info@cardamonchai.com. Die Gewinner werden von einer neutralen Person gezogen
-> und per E-Mail über ihren Gewinn benachrichtigt. Die Gewinne werden per Post
-> versendet. Der Rechtsweg ist ausgeschlossen.
+> Ich würde mich sehr freuen, wenn möglichst viele mitmachen, damit am Ende auch eine schöne T-Shirt-Galerie entsteht. Bitte sendet Eure Fotos und Texte bis zum 30. September 2012 unter dem Betreff "T-Shirt-Idee" an info@cardamonchai.com. Die Gewinner werden von einer neutralen Person gezogen und per E-Mail über ihren Gewinn benachrichtigt. Die Gewinne werden per Post versendet. Der Rechtsweg ist ausgeschlossen.
 
-Im Anschluss seht Ihr einige meiner Lieblings-T-Shirts. Ich bin gespannt auf
-Eure Bilder. Natürlich sind auch Bilder von Sweatshirts erlaubt! :-)
+Im Anschluss seht Ihr einige meiner Lieblings-T-Shirts. Ich bin gespannt auf Eure Bilder. Natürlich sind auch Bilder von Sweatshirts erlaubt! :-)
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9936gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9936gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9935gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9935gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9933gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9933gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9930gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9930gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9928gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9928gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9925gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9925gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9924gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9924gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9923gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9923gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9920gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9920gerahmt_hf__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9936gerahmt_hf__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9936gerahmt_hf__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9935gerahmt_hf__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9935gerahmt_hf__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9933gerahmt_hf__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9933gerahmt_hf__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9930gerahmt_hf__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9930gerahmt_hf__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9928gerahmt_hf__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9928gerahmt_hf__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9925gerahmt_hf__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9925gerahmt_hf__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9924gerahmt_hf__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9924gerahmt_hf__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9923gerahmt_hf__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9923gerahmt_hf__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9920gerahmt_hf__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9920gerahmt_hf__l.jpg',
+    },
+  ]}
 />
 
 ## Songs des Tages: Weezer – "Sweater Song"
 
- <YouTube id="LHQqqM5sr7g" />
-
-  
+{' '}
+<YouTube id="LHQqqM5sr7g" />

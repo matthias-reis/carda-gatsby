@@ -7,12 +7,8 @@ typeName: Rezept
 title: Vegane Mini-Zimtschnecken
 seoTitle: Vegane Zimtschnecken - Gluten-arm und vollwertig
 ogTitle: Vegane Zimtschnecken - Gluten-arm und vollwertig
-description: Zimtschnecken gibt es in den verschiedensten Variationen. Dieses
-  Rezept aus veganem Quark-Öl-Teig mag ich besonders gerne. Die Zubereitung ist
-  ganz leicht.
-excerpt: Zimtschnecken gibt es in den verschiedensten Variationen. Dieses Rezept
-  aus veganem Quark-Öl-Teig mag ich besonders gerne. Die Zubereitung ist ganz
-  leicht.
+description: Zimtschnecken gibt es in den verschiedensten Variationen. Dieses Rezept aus veganem Quark-Öl-Teig mag ich besonders gerne. Die Zubereitung ist ganz leicht.
+excerpt: Zimtschnecken gibt es in den verschiedensten Variationen. Dieses Rezept aus veganem Quark-Öl-Teig mag ich besonders gerne. Die Zubereitung ist ganz leicht.
 fileName: 2020-06---vegane-mini-zimtschnecken.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-01-zimtschnecken-11__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-01-zimtschnecken-11__l.jpg
@@ -38,28 +34,15 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Glutenarm und vollwertig
-  
 ---
 
 _Affiliate Links\*_
 
-**Zimtschnecken gibt es in den verschiedensten Variationen. Dieses Rezept aus
-veganem Quark-Öl-Teig mag ich besonders gerne. Die Schnecken sind ganz schnell
-zubereitet und passen einfach perfekt in einen verregneten Sonntagnachmittag.**
+**Zimtschnecken gibt es in den verschiedensten Variationen. Dieses Rezept aus veganem Quark-Öl-Teig mag ich besonders gerne. Die Schnecken sind ganz schnell zubereitet und passen einfach perfekt in einen verregneten Sonntagnachmittag.**
 
-Zimt wird der Rinde des Ceylon-Baumes entnommen. Für meine Zimtschnecken habe
-ich gemahlenen Zimt verwendet. Das Gewürz wird bei uns gerne für Gebäck und
-Nachspeisen verwendet, hat aber auch eine heilkundliche Geschichte. In der
-ayurvedischen Küche kommt es sehr häufig auch in Hauptgerichten zum Einsatz.
-Traditionell wird es unter anderem zur Stärkung des Magens eingesetzt. Bei
-Zerrungen oder Regelschmerzen nutzt man gerne Zimtöl für Massagen und Umschläge.
-Seine wärmende Wirkung kann zur Linderung von Krämpfen beitragen.
+Zimt wird der Rinde des Ceylon-Baumes entnommen. Für meine Zimtschnecken habe ich gemahlenen Zimt verwendet. Das Gewürz wird bei uns gerne für Gebäck und Nachspeisen verwendet, hat aber auch eine heilkundliche Geschichte. In der ayurvedischen Küche kommt es sehr häufig auch in Hauptgerichten zum Einsatz. Traditionell wird es unter anderem zur Stärkung des Magens eingesetzt. Bei Zerrungen oder Regelschmerzen nutzt man gerne Zimtöl für Massagen und Umschläge. Seine wärmende Wirkung kann zur Linderung von Krämpfen beitragen.
 
-Für meinen Teig habe ich Emmer-Vollkornmehl verwendet. Emmer wird auch
-"Zweikorn" genannt. Neben den bekannten Getreidearten Weizen, Roggen und Dinkel
-war er lange Zeit in Vergessenheit geraten. Das Urgetreide ist besonders reich
-an Eisen, Eiweiß und Mineralstoffen. Außerdem empfinden es viele als besonders
-bekömmlich, da der Anteil an Gluten wesentlich geringer ist, als in Weizen.
+Für meinen Teig habe ich Emmer-Vollkornmehl verwendet. Emmer wird auch "Zweikorn" genannt. Neben den bekannten Getreidearten Weizen, Roggen und Dinkel war er lange Zeit in Vergessenheit geraten. Das Urgetreide ist besonders reich an Eisen, Eiweiß und Mineralstoffen. Außerdem empfinden es viele als besonders bekömmlich, da der Anteil an Gluten wesentlich geringer ist, als in Weizen.
 
 ## Zutaten für 16 Zimtschnecken
 
@@ -70,47 +53,20 @@ bekömmlich, da der Anteil an Gluten wesentlich geringer ist, als in Weizen.
 
 ## Zubereitung
 
-Heizt den Ofen auf 180 Grad vor. Vermischt sechs Esslöffel des Fruchtaufstrichs
-mit dem Mehl und dem veganen Quark. Rührt das Gemisch mit dem Rührgerät und
-knetet anschließend mit den Händen weiter, bis ein schöner fester Teig
-entstanden ist. Diesen rollt ihr auf einer bemehlten Unterlage zu einem
-möglichst ordentlichen Rechteck aus.
+Heizt den Ofen auf 180 Grad vor. Vermischt sechs Esslöffel des Fruchtaufstrichs mit dem Mehl und dem veganen Quark. Rührt das Gemisch mit dem Rührgerät und knetet anschließend mit den Händen weiter, bis ein schöner fester Teig entstanden ist. Diesen rollt ihr auf einer bemehlten Unterlage zu einem möglichst ordentlichen Rechteck aus.
 
-Bestreicht den Teig mit dem restlichen Fruchtaufstrich, streut den Zimt darüber
-und rollt ihn anschließend auf. Passt auf, dass ihr nicht zu eng wickelt. Die
-Schnecken sollen schön locker werden. Mit dem Fruchtaufstrich, der dabei auf der
-Seite austritt, bestreicht ihr die Rolle von außen. Schneidet sie dann mit einem
-scharfen Messer in etwa einen Zentimeter dicke Scheiben.
+Bestreicht den Teig mit dem restlichen Fruchtaufstrich, streut den Zimt darüber und rollt ihn anschließend auf. Passt auf, dass ihr nicht zu eng wickelt. Die Schnecken sollen schön locker werden. Mit dem Fruchtaufstrich, der dabei auf der Seite austritt, bestreicht ihr die Rolle von außen. Schneidet sie dann mit einem scharfen Messer in etwa einen Zentimeter dicke Scheiben.
 
 <Gallery name="mini-zimtschnecken1" />
 
 ## Zimtschnecken backen
 
-Stellt Eure Zimtschnecken dicht an dicht in eine Backform. Schiebt die Backform
-auf einem Blech oder Rost in den Ofen und backt die Schnecken für gut 25
-Minuten. Anschließend lasst Ihr sie etwas auskühlen. Je nach Geschmack könnt Ihr
-sie vor dem Genuss noch mit Zimtzucker bestreuen oder eine leckere Vanillesauce
-dazu essen.
+Stellt Eure Zimtschnecken dicht an dicht in eine Backform. Schiebt die Backform auf einem Blech oder Rost in den Ofen und backt die Schnecken für gut 25 Minuten. Anschließend lasst Ihr sie etwas auskühlen. Je nach Geschmack könnt Ihr sie vor dem Genuss noch mit Zimtzucker bestreuen oder eine leckere Vanillesauce dazu essen.
 
-Das Grundrezept für meine Zimtschnecken stammt von der
-[Xucker Homepage](http://tidd.ly/708241b6). Ich habe es veganisiert, das
-Dinkelmehl durch Emmermehl ersetzt und die Zutaten verdoppelt. Für meine
-Schnecken habe ich den [Fruchtaufstrich Apfel-Zimt](http://tidd.ly/dd79069f) und
-den [Fruchtaufstrich Zwetschge](http://tidd.ly/d9b927ce) von Xucker verwendet.
-Beide Sorten eignen sich, wie ich finde, perfekt als Füllung. Sie enthalten 74
-Prozent Frucht und sind nur leicht mit Birkenzucker (Xilit) gesüßt. Dadurch sind
-sie wesentlich leichter, als herkömmliche Marmeladen.
+Das Grundrezept für meine Zimtschnecken stammt von der [Xucker Homepage](http://tidd.ly/708241b6). Ich habe es veganisiert, das Dinkelmehl durch Emmermehl ersetzt und die Zutaten verdoppelt. Für meine Schnecken habe ich den [Fruchtaufstrich Apfel-Zimt](http://tidd.ly/dd79069f) und den [Fruchtaufstrich Zwetschge](http://tidd.ly/d9b927ce) von Xucker verwendet. Beide Sorten eignen sich, wie ich finde, perfekt als Füllung. Sie enthalten 74 Prozent Frucht und sind nur leicht mit Birkenzucker (Xilit) gesüßt. Dadurch sind sie wesentlich leichter, als herkömmliche Marmeladen.
 
-Veganer Quark wird inzwischen von einigen Herstellern angeboten. Ein paar Sorten
-findet Ihr zum Beispiel [bei alles-vegetarisch.de](http://tidd.ly/5e5705bd). Ich
-habe [den von Provamel](http://tidd.ly/9239ad97) für meine Zimtschnecken
-verwendet. Auch [der von Hiel](http://tidd.ly/26c8b727) ist sehr lecker. Beide
-Varianten eignen sich perfekt für Nachspeisen und für veganen Quark-Öl-Teig.
+Veganer Quark wird inzwischen von einigen Herstellern angeboten. Ein paar Sorten findet Ihr zum Beispiel [bei alles-vegetarisch.de](http://tidd.ly/5e5705bd). Ich habe [den von Provamel](http://tidd.ly/9239ad97) für meine Zimtschnecken verwendet. Auch [der von Hiel](http://tidd.ly/26c8b727) ist sehr lecker. Beide Varianten eignen sich perfekt für Nachspeisen und für veganen Quark-Öl-Teig.
 
 <Gallery name="mini-zimtschnecken2" />
 
-_\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
-
-  
+_\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _

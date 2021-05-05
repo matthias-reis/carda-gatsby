@@ -7,12 +7,8 @@ typeName: Galerie
 title: Winter im Hafen Altona
 seoTitle: Winter im Hafen Altona - Hamburger Bildergalerie mit Möwen
 ogTitle: Winter im Hafen Altona - Hamburger Bildergalerie mit Möwen
-description: Ein Spaziergang vom Altonaer Holzhafen in Richtung Altonaer Balkon
-  passt sonntags einfach immer dazwischen. Hier bietet sich ein toller Blick auf
-  die Elbe.
-excerpt: Ein Spaziergang vom Altonaer Holzhafen in Richtung Altonaer Balkon
-  passt sonntags einfach immer dazwischen. Hier bietet sich ein toller Blick auf
-  die Elbe.
+description: Ein Spaziergang vom Altonaer Holzhafen in Richtung Altonaer Balkon passt sonntags einfach immer dazwischen. Hier bietet sich ein toller Blick auf die Elbe.
+excerpt: Ein Spaziergang vom Altonaer Holzhafen in Richtung Altonaer Balkon passt sonntags einfach immer dazwischen. Hier bietet sich ein toller Blick auf die Elbe.
 fileName: 2019-12---winter-im-hafen-altona.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-15-hafen-70__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-15-hafen-70__l.jpg
@@ -34,17 +30,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: <span class="s1">Bildergalerie mit Möwen</span>
-  
 ---
 
-**Ein Spaziergang vom Altonaer Holzhafen in Richtung Altonaer Balkon passt
-sonntags einfach immer dazwischen. Dabei kann man wunderbar die Aussicht auf die
-Elbe und den dahinter liegenden Hamburger Frachthafen genießen.**
+**Ein Spaziergang vom Altonaer Holzhafen in Richtung Altonaer Balkon passt sonntags einfach immer dazwischen. Dabei kann man wunderbar die Aussicht auf die Elbe und den dahinter liegenden Hamburger Frachthafen genießen.**
 
 <Gallery name="2019-12-15-hafen" />
 
-Hat Euch meine Bildergalerie gefallen? Das freut mich sehr!
-[Abonniert gerne meinen Newsletter](#newsletter), um in Zukunft nichts mehr auf
-meiner Seite zu verpassen.
-
-  
+Hat Euch meine Bildergalerie gefallen? Das freut mich sehr! [Abonniert gerne meinen Newsletter](#newsletter), um in Zukunft nichts mehr auf meiner Seite zu verpassen.

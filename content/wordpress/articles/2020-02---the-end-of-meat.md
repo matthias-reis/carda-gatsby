@@ -7,11 +7,8 @@ typeName: Filmtipp
 title: '"The End Of Meat"'
 seoTitle: '"The End Of Meat" - eine Welt ohne Fleisch - Filmtipp'
 ogTitle: '"The End Of Meat" - eine Welt ohne Fleisch - Filmtipp'
-description: '"The End Of Meat" ist ein Film, den ich Euch wirklich sehr
-  empfehlen kann. Das Werk wurde nicht ohne Grund für zahlreiche Preise
-  nominiert.'
-excerpt: '"The End Of Meat" ist ein Film, den ich Euch wirklich sehr empfehlen
-  kann. Das Werk wurde nicht ohne Grund für zahlreiche Preise nominiert.'
+description: '"The End Of Meat" ist ein Film, den ich Euch wirklich sehr empfehlen kann. Das Werk wurde nicht ohne Grund für zahlreiche Preise nominiert.'
+excerpt: '"The End Of Meat" ist ein Film, den ich Euch wirklich sehr empfehlen kann. Das Werk wurde nicht ohne Grund für zahlreiche Preise nominiert.'
 fileName: 2020-02---the-end-of-meat.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_movie-header.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_movie-header.png__l.jpg
@@ -36,72 +33,44 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Eine Welt ohne Fleisch
-  
 ---
 
-**"The End Of Meat" ist ein Film, den ich Euch wirklich sehr empfehlen kann. Das
-Werk wurde nicht ohne Grund für zahlreiche Preise nominiert.**
+**"The End Of Meat" ist ein Film, den ich Euch wirklich sehr empfehlen kann. Das Werk wurde nicht ohne Grund für zahlreiche Preise nominiert.**
 
-Wenn Ihr schon immer wissen wolltet, wie eine Welt ohne den Genuss von
-Lebensmitteln tierischer Herkunft aussehen würde und was eigentlich mit den
-ganzen "Nutztieren" passieren würde, wenn wir alle Veganer⋆innen wären, sollte
-Ihr diesen Film auf jeden Fall sehen.
+Wenn Ihr schon immer wissen wolltet, wie eine Welt ohne den Genuss von Lebensmitteln tierischer Herkunft aussehen würde und was eigentlich mit den ganzen "Nutztieren" passieren würde, wenn wir alle Veganer⋆innen wären, sollte Ihr diesen Film auf jeden Fall sehen.
 
-<RemoteImage alt={`the-end-of-meat-esther-the-wonderpig`} size="medium"
-title={`Esther The Wonderpig und ihre Familie`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_the-end-of-meat-esther-the-wonderpig__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_the-end-of-meat-esther-the-wonderpig__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBggF/8QALhAAAgECBAQFAgcAAAAAAAAAAQIDBBEABQYhEhMxQQcUIjJhFiNCUVJxgaKx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EAB0RAAICAwEBAQAAAAAAAAAAAAECABEDEiEiMUH/2gAMAwEAAhEDEQA/AFTpHSc2o4Z6nzsTOJEMitJxOq73DL+Hta/W2GjpHRdPV5xReT+3VoVfnq1uSoI4jcG56lfm56YQmRZjWZfXpLQVMkDygRMyHZlPUHsR3xojwqzeTKNIvXVbiokqWYLMkahwBcD1dWAsTf8AnCFNGFnk1YnBQhV9S0eEemEyvTCzzSTvUVjnmRzKByykkiADv874zX4iZZ5PUb8SFRJEjrfuLFb/ANcad0/XzNk1FDTzVARIxIWd+FmBPUgi469MJ/xnyGrmVMziIdaYOJFPv5Za4I/MDfb5wE8AkypsljF/oPStHn9FNJJmklPPEWUQiFWBI3G5PQ/ti0ZzqtcozKnpI6lY6DKoYo0giTi58gXcMf0Da69zgwYEG2Q7fkZ/GIa8v7ONmec1WZ5As0AqBSs8jpCDdI1vvwqOyn0i+/fEn1TPTU/kqaRp6GVPTDISQL39t/b/AJ8YMGM+daaxL4G2WjP/2Q=="
+<RemoteImage
+  alt={`the-end-of-meat-esther-the-wonderpig`}
+  size="medium"
+  title={`Esther The Wonderpig und ihre Familie`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_the-end-of-meat-esther-the-wonderpig__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_the-end-of-meat-esther-the-wonderpig__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBggF/8QALhAAAgECBAQFAgcAAAAAAAAAAQIDBBEABQYhEhMxQQcUIjJhFiNCUVJxgaKx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EAB0RAAICAwEBAQAAAAAAAAAAAAECABEDEiEiMUH/2gAMAwEAAhEDEQA/AFTpHSc2o4Z6nzsTOJEMitJxOq73DL+Hta/W2GjpHRdPV5xReT+3VoVfnq1uSoI4jcG56lfm56YQmRZjWZfXpLQVMkDygRMyHZlPUHsR3xojwqzeTKNIvXVbiokqWYLMkahwBcD1dWAsTf8AnCFNGFnk1YnBQhV9S0eEemEyvTCzzSTvUVjnmRzKByykkiADv874zX4iZZ5PUb8SFRJEjrfuLFb/ANcad0/XzNk1FDTzVARIxIWd+FmBPUgi469MJ/xnyGrmVMziIdaYOJFPv5Za4I/MDfb5wE8AkypsljF/oPStHn9FNJJmklPPEWUQiFWBI3G5PQ/ti0ZzqtcozKnpI6lY6DKoYo0giTi58gXcMf0Da69zgwYEG2Q7fkZ/GIa8v7ONmec1WZ5As0AqBSs8jpCDdI1vvwqOyn0i+/fEn1TPTU/kqaRp6GVPTDISQL39t/b/AJ8YMGM+daaxL4G2WjP/2Q=="
 />
 
-Genau wie "[Live And Let Live](/2019/11/live-and-let-live-film/)" stammt "The
-End Of Meat" aus Marc Pierschels Filmschmiede. Der gebürtig aus Hildesheim
-stammende Filmemacher beschäftigt sich schon lange mit dem Thema Veganismus.
+Genau wie "[Live And Let Live](/2019/11/live-and-let-live-film/)" stammt "The End Of Meat" aus Marc Pierschels Filmschmiede. Der gebürtig aus Hildesheim stammende Filmemacher beschäftigt sich schon lange mit dem Thema Veganismus.
 
 ## Eine vegane Zukunftsvision
 
-Die 2017 erschienene Dokumentation ist die Vision von einer Zukunft, in der die
-Menschen kein Fleisch mehr konsumieren. Sie zeigt die versteckten Auswirkungen,
-die unser Fleischkonsum auf uns und unsere Umwelt hat und beantwortet Fragen wie
-"Wovon werden wir uns ernähren, wenn Fleisch als Nahrungsmittel wegfällt?", "Wie
-wird künstliches Fleisch in der Zukunft hergestellt?"und"Wie hängt die
-Unterdrückung von Tieren mit der Unterdrückung von Menschen zusammen?".
+Die 2017 erschienene Dokumentation ist die Vision von einer Zukunft, in der die Menschen kein Fleisch mehr konsumieren. Sie zeigt die versteckten Auswirkungen, die unser Fleischkonsum auf uns und unsere Umwelt hat und beantwortet Fragen wie "Wovon werden wir uns ernähren, wenn Fleisch als Nahrungsmittel wegfällt?", "Wie wird künstliches Fleisch in der Zukunft hergestellt?"und"Wie hängt die Unterdrückung von Tieren mit der Unterdrückung von Menschen zusammen?".
 
-Pierschel trifft unter anderem das Schwein Esther The Wonderpig, das zu einem
-Internet-Phänomen wurde und die beiden Kanadier, die ihr ein liebevolles Zuhause
-geben. Er redet mit Pionieren aus der veganen Bewegung, interviewt Menschen, die
-an der Entwicklung von Alternativen für Fleisch und Käse arbeiten und besucht
-die erste komplett vegane Stadt in Indien. Ich finde die Szenen, in denen
-ehemalige Bauernhoftiere gezeigt werden, die zum ersten Mal in ihrem Leben
-Freiheit erleben dürfen, besonders bewegend.
+Pierschel trifft unter anderem das Schwein Esther The Wonderpig, das zu einem Internet-Phänomen wurde und die beiden Kanadier, die ihr ein liebevolles Zuhause geben. Er redet mit Pionieren aus der veganen Bewegung, interviewt Menschen, die an der Entwicklung von Alternativen für Fleisch und Käse arbeiten und besucht die erste komplett vegane Stadt in Indien. Ich finde die Szenen, in denen ehemalige Bauernhoftiere gezeigt werden, die zum ersten Mal in ihrem Leben Freiheit erleben dürfen, besonders bewegend.
 
 ## "The End Of Meat" ist sehenswert
 
 Der Fernsehsender 3Sat hat zum Film eine klare Meinung:
 
-> "'The End of Meat' kommt ohne erhobenen Zeigefinger aus und stellt auf
-> beeindruckende und unterhaltsame Weise dar, wie unklug und grausam unser
-> Fleischkonsum ist."
+> "'The End of Meat' kommt ohne erhobenen Zeigefinger aus und stellt auf beeindruckende und unterhaltsame Weise dar, wie unklug und grausam unser Fleischkonsum ist."
 
-Die größte Herausforderung, der sich Pierschel und sein Team beim Dreh des Films
-stellen mussten, war das schmale Budget. Nur mit Hilfe von Crowdfunding war es
-überhaupt möglich, die insgesamt 70.000 Euro zusammenzubekommen.
+Die größte Herausforderung, der sich Pierschel und sein Team beim Dreh des Films stellen mussten, war das schmale Budget. Nur mit Hilfe von Crowdfunding war es überhaupt möglich, die insgesamt 70.000 Euro zusammenzubekommen.
 
-In "The End Of Meat" zeigt Marc Pierschel besonders einfühlsam, wie unser Leben
-ohne die Ausbeutung von Tieren aussehen kann. Er hinterfragt kritisch,
-beantwortet diverse Fragen zur Umstellung auf pflanzliche Kost und beleuchtet
-dabei ihre klaren Vorteile.
+In "The End Of Meat" zeigt Marc Pierschel besonders einfühlsam, wie unser Leben ohne die Ausbeutung von Tieren aussehen kann. Er hinterfragt kritisch, beantwortet diverse Fragen zur Umstellung auf pflanzliche Kost und beleuchtet dabei ihre klaren Vorteile.
 
- <Vimeo id="261392546" />
+{' '}
+<Vimeo id="261392546" />
 
-[Auf der Homepage des Films](http://www.theendofmeat.com/watch.html) seht Ihr
-genau, wo Ihr den Film streamen könnt.
+[Auf der Homepage des Films](http://www.theendofmeat.com/watch.html) seht Ihr genau, wo Ihr den Film streamen könnt.
 
-Hat Euch mein Filmtipp gefallen? Schön! Wenn Ihr in Zukunft auf meiner Seite
-nichts mehr verpassen möchtet,
-[abonniert am besten meinen Newsletter.](#newsletter) Ich informiere Euch dann
-einmal wöchentlich über neue Beiträge.
+Hat Euch mein Filmtipp gefallen? Schön! Wenn Ihr in Zukunft auf meiner Seite nichts mehr verpassen möchtet, [abonniert am besten meinen Newsletter.](#newsletter) Ich informiere Euch dann einmal wöchentlich über neue Beiträge.
 
 Bilder: [The End Of Meat](http://www.theendofmeat.com/presse.html)
-
-  

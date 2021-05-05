@@ -7,12 +7,8 @@ typeName: Artikel
 title: '"Wasting Light"'
 seoTitle: Foo Fighters bringen neues Album auf den Markt!
 ogTitle: Foo Fighters bringen neues Album auf den Markt!
-description: Am 8. April erscheint das neue FOO FIGHTERS Album "Wasting Light".
-  Schon den zweiten "Teaser" gibt die Band nun mit "Rope" heraus, nach dem vor
-  ein paar Wochen präsentierten "White Limo".
-excerpt: Am 8. April erscheint das neue FOO FIGHTERS Album "Wasting Light".
-  Schon den zweiten "Teaser" gibt die Band nun mit "Rope" heraus, nach dem vor
-  ein paar Wochen präsentierten "White Limo".
+description: Am 8. April erscheint das neue FOO FIGHTERS Album "Wasting Light". Schon den zweiten "Teaser" gibt die Band nun mit "Rope" heraus, nach dem vor ein paar Wochen präsentierten "White Limo".
+excerpt: Am 8. April erscheint das neue FOO FIGHTERS Album "Wasting Light". Schon den zweiten "Teaser" gibt die Band nun mit "Rope" heraus, nach dem vor ein paar Wochen präsentierten "White Limo".
 fileName: 2011-03---wasting-light.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_03_Foo__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_03_Foo__l.jpg
@@ -26,30 +22,19 @@ labels:
   - Rope
   - Wasting Light
   - White Limbo
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Neues Album von den Foo Fighters
-  
 ---
 
-**Am 8. April erscheint das neue FOO FIGHTERS Album "Wasting Light". Schon den
-zweiten "Teaser" gibt die Band nun mit "Rope" heraus, nach dem vor ein paar
-Wochen präsentierten "White Limo".**
+**Am 8. April erscheint das neue FOO FIGHTERS Album "Wasting Light". Schon den zweiten "Teaser" gibt die Band nun mit "Rope" heraus, nach dem vor ein paar Wochen präsentierten "White Limo".**
 
-Das Video wurde im guten alten analogen VHS-Format aufgenommen. Regie führte
-dabei Dave Grohl persönlich. Wir dürfen gespannt sein auf das neue Album, "White
-Limo" und "Rope" versprechen einiges. Ich persönlich freue mich natürlich auch
-auf die Festival-Saison 2011, bei der die Foo Fighters wieder auf zahlreichen
-Bühnen zu sehen sein werden.
+Das Video wurde im guten alten analogen VHS-Format aufgenommen. Regie führte dabei Dave Grohl persönlich. Wir dürfen gespannt sein auf das neue Album, "White Limo" und "Rope" versprechen einiges. Ich persönlich freue mich natürlich auch auf die Festival-Saison 2011, bei der die Foo Fighters wieder auf zahlreichen Bühnen zu sehen sein werden.
 
-[Videoclip](http://www.foofighters.com/de/videos/rope) Rope
-[Videoclip](http://www.foofighters.com/de/videos/white-limo) White Limbo
-[Homepage](http://www.foofighters.com/de/home) Foo Fighters
+[Videoclip](http://www.foofighters.com/de/videos/rope) Rope [Videoclip](http://www.foofighters.com/de/videos/white-limo) White Limbo [Homepage](http://www.foofighters.com/de/home) Foo Fighters
 
 &nbsp;
-
-  

@@ -7,12 +7,8 @@ typeName: Rezept
 title: Dahl-Linsen mit Kokos und Spinat an Tabulé
 seoTitle: Dahl-Linsen mit Kokos und Spinat an Tabulé
 ogTitle: Dahl-Linsen mit Kokos und Spinat an Tabulé
-description: Dahl-Linsen mit Kokos und Spinat an Tabulé schmecken scharf und
-  lecker fruchtig. Sie sind schnell zubereitet und stecken voller wertvoller
-  Nährstoffe.
-excerpt: Dahl-Linsen mit Kokos und Spinat an Tabulé schmecken scharf und lecker
-  fruchtig. Sie sind schnell zubereitet und stecken voller wertvoller
-  Nährstoffe.
+description: Dahl-Linsen mit Kokos und Spinat an Tabulé schmecken scharf und lecker fruchtig. Sie sind schnell zubereitet und stecken voller wertvoller Nährstoffe.
+excerpt: Dahl-Linsen mit Kokos und Spinat an Tabulé schmecken scharf und lecker fruchtig. Sie sind schnell zubereitet und stecken voller wertvoller Nährstoffe.
 fileName: 2014-08---dahl-linsen-mit-kokos-und-spinat-an-tabule.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_15056013345_5e74378d4c_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_15056013345_5e74378d4c_o__l.jpg
@@ -46,24 +42,15 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Scharf und lecker
-  
 ---
 
-**Schon vor einiger Zeit hatte ich versprochen, ab und zu mal das ein oder
-andere Rezept in meinem Blog zu veröffentlichen. Ich teile meine Rezepte schon
-seit einiger Zeit in meinem Instagram-Account und bekomme darüber immer wieder
-Anfragen, wann es denn endlich so weit sein wird.**
+**Schon vor einiger Zeit hatte ich versprochen, ab und zu mal das ein oder andere Rezept in meinem Blog zu veröffentlichen. Ich teile meine Rezepte schon seit einiger Zeit in meinem Instagram-Account und bekomme darüber immer wieder Anfragen, wann es denn endlich so weit sein wird.**
 
-Am Donnerstag Abend habe ich dann wie immer unser Abendessen in Instagram
-gepostet und die liebe Jessie bat mich darum, ihr das Rezept zukommen zu lassen,
-was ich natürlich auf der Stelle tat.
+Am Donnerstag Abend habe ich dann wie immer unser Abendessen in Instagram gepostet und die liebe Jessie bat mich darum, ihr das Rezept zukommen zu lassen, was ich natürlich auf der Stelle tat.
 
-Nachdem ich es Ihr geschickt hatte, was der Grundstein für meine vegane
-Rezeptrubrik gelegt, denn einmal aufgeschrieben, kann ich es nun natürlich auch
-veröffentlichen.
+Nachdem ich es Ihr geschickt hatte, was der Grundstein für meine vegane Rezeptrubrik gelegt, denn einmal aufgeschrieben, kann ich es nun natürlich auch veröffentlichen.
 
-Danke, liebe Jessie für die Motivation zu dem Kochbuch! Ganz liebe Grüße nach
-Belgien! Kiss!
+Danke, liebe Jessie für die Motivation zu dem Kochbuch! Ganz liebe Grüße nach Belgien! Kiss!
 
 Und nun: Vorhang auf für das erste Rezept meiner Vegan-Rubrik:
 
@@ -92,40 +79,19 @@ Und nun: Vorhang auf für das erste Rezept meiner Vegan-Rubrik:
 
 **Zubereitung**
 
-Bulgur oder Couscous in eine Schale geben. Die Teebeutel aufschneiden und den
-Inhalt zusammen mit der Gemüsebrühe hinzugeben. Die Mischung mit heißem Wasser
-übergießen (Mengenangabe kann je nach Bulgur-/Couscoussorte abweichen, bitte auf
-der Packung nachsehen), umrühren und abgedeckt ziehen lassen.
+Bulgur oder Couscous in eine Schale geben. Die Teebeutel aufschneiden und den Inhalt zusammen mit der Gemüsebrühe hinzugeben. Die Mischung mit heißem Wasser übergießen (Mengenangabe kann je nach Bulgur-/Couscoussorte abweichen, bitte auf der Packung nachsehen), umrühren und abgedeckt ziehen lassen.
 
-Die Linsen mit etwas Kokosöl ca. 2 Minuten lang anbraten, im Anschluss mit
-Wasser (hier wieder die Packungsaufschrift beachten, bei mir sind es meist ca.
-1,5 Liter) aufgießen, umrühren und den Herd etwas runterdrehen.
+Die Linsen mit etwas Kokosöl ca. 2 Minuten lang anbraten, im Anschluss mit Wasser (hier wieder die Packungsaufschrift beachten, bei mir sind es meist ca. 1,5 Liter) aufgießen, umrühren und den Herd etwas runterdrehen.
 
-Wenn die Linsen das Wasser komplett aufgenommen haben, den Spinat und noch etwas
-Wasser hinzugeben. Zwischendurch immer wieder großzügig mit Madras Curry würzen,
-ich gebe noch ein paar frische Curryblätter (gibt es auf dem Wochenmarkt und im
-Asia-Laden) hinzu, außerdem die Kokoschips, den Knoblauch, die Thai-Chilis,
-Pfeffer und Sojasauce oder Salz.
+Wenn die Linsen das Wasser komplett aufgenommen haben, den Spinat und noch etwas Wasser hinzugeben. Zwischendurch immer wieder großzügig mit Madras Curry würzen, ich gebe noch ein paar frische Curryblätter (gibt es auf dem Wochenmarkt und im Asia-Laden) hinzu, außerdem die Kokoschips, den Knoblauch, die Thai-Chilis, Pfeffer und Sojasauce oder Salz.
 
-Wenn der Spinat komplett aufgetaut ist, den Herd ausschalten noch ca. ein bis
-zwei Tassen Wasser hinzugeben, umrühren und abgedeckt rund 15 Minuten ziehen
-lassen, damit die Linsen noch mehr Wasser aufnehmen können und schön weich
-werden.
+Wenn der Spinat komplett aufgetaut ist, den Herd ausschalten noch ca. ein bis zwei Tassen Wasser hinzugeben, umrühren und abgedeckt rund 15 Minuten ziehen lassen, damit die Linsen noch mehr Wasser aufnehmen können und schön weich werden.
 
-In der Zwischenzeit kann man bequem das Tabulé fertigmachen. Einfach Rosinen
-oder Cranberries und Pistazien oder Mandeln (Erdnüsse oder Cashews gehen genau
-so) nach Geschmack hinzugeben, umrühren, mit Olivenöl, Salz, Pfeffer und
-Zitronensaft abschmecken und auf dem Teller anrichten und am besten noch mit
-frischer Minze bestreuen.
+In der Zwischenzeit kann man bequem das Tabulé fertigmachen. Einfach Rosinen oder Cranberries und Pistazien oder Mandeln (Erdnüsse oder Cashews gehen genau so) nach Geschmack hinzugeben, umrühren, mit Olivenöl, Salz, Pfeffer und Zitronensaft abschmecken und auf dem Teller anrichten und am besten noch mit frischer Minze bestreuen.
 
-Die Dahl-Linsen noch mal ordentlich umrühren und abschmecken, und neben dem
-Tabulé auf den Teller drapieren.
+Die Dahl-Linsen noch mal ordentlich umrühren und abschmecken, und neben dem Tabulé auf den Teller drapieren.
 
-Dazu passt sehr gut Seitan oder Tofu, man kann aber beispielsweise auch gut eine
-Sauce aus Sojajoghurt, Knoblauch und Kräutern dazu servieren. Erlaubt ist, was
-schmeckt. Wir haben dieses Mal
-[die gewonnenen √ürstchen](//2014/08/27/der-wichtigste-grund-fur-meine-vegane-ernahrungsweise/)
-von den VEGGY FRIENDS und Pide dazu gegessen.
+Dazu passt sehr gut Seitan oder Tofu, man kann aber beispielsweise auch gut eine Sauce aus Sojajoghurt, Knoblauch und Kräutern dazu servieren. Erlaubt ist, was schmeckt. Wir haben dieses Mal [die gewonnenen √ürstchen](//2014/08/27/der-wichtigste-grund-fur-meine-vegane-ernahrungsweise/) von den VEGGY FRIENDS und Pide dazu gegessen.
 
 Guten Appetit!
 
@@ -136,5 +102,3 @@ Kussi Anne
 &nbsp;
 
 &nbsp;
-
-  

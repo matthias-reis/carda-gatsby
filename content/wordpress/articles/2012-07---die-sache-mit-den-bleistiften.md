@@ -7,10 +7,8 @@ typeName: Artikel
 title: Die Sache mit den Bleistiften
 seoTitle: Die Sache mit den Bleistiften - Tagebucheintrag
 ogTitle: Die Sache mit den Bleistiften - Tagebucheintrag
-description: "Große Veränderungen werfen ihre Strahlen voraus. Im Urlaub eine
-  Nachricht: Sie haben den Job. Die Freude ist groß."
-excerpt: "Große Veränderungen werfen ihre Strahlen voraus. Im Urlaub eine
-  Nachricht: Sie haben den Job. Die Freude ist groß."
+description: 'Große Veränderungen werfen ihre Strahlen voraus. Im Urlaub eine Nachricht: Sie haben den Job. Die Freude ist groß.'
+excerpt: 'Große Veränderungen werfen ihre Strahlen voraus. Im Urlaub eine Nachricht: Sie haben den Job. Die Freude ist groß.'
 fileName: 2012-07---die-sache-mit-den-bleistiften.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9855__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9855__l.jpg
@@ -43,39 +41,19 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Tagebucheintrag
-  
 ---
 
-**Der Urlaub ist vorbei. Seit über einer Woche wieder daheim. Durchgefahren von
-Folkstone über die Passage Dover - Calais, durch Luxemburg, immer dem Gewitter
-hinterher.**
+**Der Urlaub ist vorbei. Seit über einer Woche wieder daheim. Durchgefahren von Folkstone über die Passage Dover - Calais, durch Luxemburg, immer dem Gewitter hinterher.**
 
-Große Veränderungen werfen ihre Strahlen voraus. Im Urlaub eine Nachricht: Sie
-haben den Job. Die Freude ist groß. Es gibt sehr viel zu lernen und zu
-verstehen.
+Große Veränderungen werfen ihre Strahlen voraus. Im Urlaub eine Nachricht: Sie haben den Job. Die Freude ist groß. Es gibt sehr viel zu lernen und zu verstehen.
 
-Zum Glück ist auch der Computer wieder funktionstüchtig, Bilder lassen also
-nicht mehr allzu lange auf sich warten. Das Wetter ist derzeit eher flügellahm,
-wovon man sich nicht beeindrucken lassen sollte. Hat man keinen Grund, sich
-draußen aufzuhalten, kann man der Kreativität am Schreibtisch freien Lauf
-lassen, die Zeit hat man dabei schnell vergessen. Möchte man alles machen, was
-man sich vorgenommen hat, müsste der Tag schon 36 Stunden haben. Und man dürfte
-natürlich auch nicht müde werden. Ziemlich ärgerlich kann das sein. Über einem
-Buch einzuschlafen und am nächsten Morgen mit Druckerschwärze an der Backe
-wieder aufzuwachen.
+Zum Glück ist auch der Computer wieder funktionstüchtig, Bilder lassen also nicht mehr allzu lange auf sich warten. Das Wetter ist derzeit eher flügellahm, wovon man sich nicht beeindrucken lassen sollte. Hat man keinen Grund, sich draußen aufzuhalten, kann man der Kreativität am Schreibtisch freien Lauf lassen, die Zeit hat man dabei schnell vergessen. Möchte man alles machen, was man sich vorgenommen hat, müsste der Tag schon 36 Stunden haben. Und man dürfte natürlich auch nicht müde werden. Ziemlich ärgerlich kann das sein. Über einem Buch einzuschlafen und am nächsten Morgen mit Druckerschwärze an der Backe wieder aufzuwachen.
 
-Und dann gibt es da natürlich noch die großen Pläne, die geschmiedet werden
-wollen. Dabei wird viel Papier verbraucht, welches manchmal nicht so geduldig
-ist, wie man denkt. Manchmal muss man sich schon beeilen, einen Gedanken
-aufzuschreiben, bevor er wieder abgereist ist.
+Und dann gibt es da natürlich noch die großen Pläne, die geschmiedet werden wollen. Dabei wird viel Papier verbraucht, welches manchmal nicht so geduldig ist, wie man denkt. Manchmal muss man sich schon beeilen, einen Gedanken aufzuschreiben, bevor er wieder abgereist ist.
 
-Bleistifte werden kürzer, verschwinden, werden durch Neue ersetzt. Das alles
-gilt es zu vergessen, aufzuheben und im geeigneten Moment wieder auszugraben.
-Denn Erinnerungen, die nur noch auf dem Papier existieren, können die Grundlage
-für die Ferien Deines Lebens sein.
+Bleistifte werden kürzer, verschwinden, werden durch Neue ersetzt. Das alles gilt es zu vergessen, aufzuheben und im geeigneten Moment wieder auszugraben. Denn Erinnerungen, die nur noch auf dem Papier existieren, können die Grundlage für die Ferien Deines Lebens sein.
 
 ## Song des Tages: The White Stripes – "Ball And Biscuit"
 
- <YouTube id="xMZh9OtAeSY" />
-
-  
+{' '}
+<YouTube id="xMZh9OtAeSY" />

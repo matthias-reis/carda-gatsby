@@ -7,10 +7,8 @@ typeName: Artikel
 title: Lieder am Ufer
 seoTitle: Lieder am Ufer - mal wieder etwas Prosa
 ogTitle: Lieder am Ufer - mal wieder etwas Prosa
-description: Lama am Sonntag. Limonade und Schokoladenkuchen. Segelboote auf
-  halb zwölf. Die Philosophie der Kiesbagger.
-excerpt: Lama am Sonntag. Limonade und Schokoladenkuchen. Segelboote auf halb
-  zwölf. Die Philosophie der Kiesbagger.
+description: Lama am Sonntag. Limonade und Schokoladenkuchen. Segelboote auf halb zwölf. Die Philosophie der Kiesbagger.
+excerpt: Lama am Sonntag. Limonade und Schokoladenkuchen. Segelboote auf halb zwölf. Die Philosophie der Kiesbagger.
 fileName: 2011-08---lieder-am-ufer.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_pc150015__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_pc150015__l.jpg
@@ -43,38 +41,61 @@ labels:
   - Songschreiber
   - Sonne
   - Wolken
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Gedanken in der Sonne
-  
 ---
 
-Lama am Sonntag Limonade und Schokoladenkuchen Segelboote auf halb zwölf Die
-Philosophie der Kiesbagger
+Lama am Sonntag Limonade und Schokoladenkuchen Segelboote auf halb zwölf Die Philosophie der Kiesbagger
 
-Du liegst auf dem Bauch und schreibst ein Lied Ein Lied über die Liebe Von Angst
-und Freiheit Sehnsucht und Verlangen Nähe und Entfernung
+Du liegst auf dem Bauch und schreibst ein Lied Ein Lied über die Liebe Von Angst und Freiheit Sehnsucht und Verlangen Nähe und Entfernung
 
-Ein Schiefer in Deiner Seele Das Bad in der Glückseeligkeit Des Moments, den Du
-genossen hast Die Freiheit, die sie meinte zu brauchen, hat sie sich genommen Er
-löst sich, der Schiefer In dem Moment, in dem er eins wird mit dem Papier
+Ein Schiefer in Deiner Seele Das Bad in der Glückseeligkeit Des Moments, den Du genossen hast Die Freiheit, die sie meinte zu brauchen, hat sie sich genommen Er löst sich, der Schiefer In dem Moment, in dem er eins wird mit dem Papier
 
-Der Text verändert sich Grübelt, ist nachdenklich Splittert, bricht auf
-Bruchstücke der Vergangenheit verbinden sich Werden eins mit der Gegenwart
-Ergeben plötzlich einen Sinn
+Der Text verändert sich Grübelt, ist nachdenklich Splittert, bricht auf Bruchstücke der Vergangenheit verbinden sich Werden eins mit der Gegenwart Ergeben plötzlich einen Sinn
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_pc1500241__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_pc1500241__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_pc150027__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_pc150027__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_pc150024__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_pc150024__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_pc150015__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_pc150015__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_268275_238761572812646_100000364159291_838681_1743551_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_268275_238761572812646_100000364159291_838681_1743551_n__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2011_08_pc1500241__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2011_08_pc1500241__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2011_08_pc150027__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2011_08_pc150027__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2011_08_pc150024__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2011_08_pc150024__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2011_08_pc150015__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2011_08_pc150015__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2011_08_268275_238761572812646_100000364159291_838681_1743551_n__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2011_08_268275_238761572812646_100000364159291_838681_1743551_n__l.jpg',
+    },
+  ]}
 />
 
 **Musik zum Text:**
 
 Beulah - If We Can Land A Man On The Moon, Then Surely I Can Win Your Heart
 
- <YouTube id="SZKFyxCB2Is" />
-
-  
+{' '}
+<YouTube id="SZKFyxCB2Is" />

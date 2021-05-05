@@ -7,10 +7,8 @@ typeName: Galerie
 title: Ein Kater zeigt sich von seiner besten Seite
 seoTitle: Kater Chili zeigt sich von seiner besten Seite - Fotogalerie
 ogTitle: Ein Kater zeigt sich von seiner besten Seite - Fotogalerie
-description: Kater Chili posiert im Rampenlicht. Wie versprochen zeige ich Euch
-  heute mal wieder ein paar richtig schöne Katzenbilder.
-excerpt: Kater Chili posiert im Rampenlicht. Wie versprochen zeige ich Euch
-  heute mal wieder ein paar richtig schöne Katzenbilder.
+description: Kater Chili posiert im Rampenlicht. Wie versprochen zeige ich Euch heute mal wieder ein paar richtig schöne Katzenbilder.
+excerpt: Kater Chili posiert im Rampenlicht. Wie versprochen zeige ich Euch heute mal wieder ein paar richtig schöne Katzenbilder.
 fileName: 2016-02---ein-kater-zeigt-sich-von-seiner-besten-seite.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_23973872064_ed7f212e62_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_23973872064_ed7f212e62_z__l.jpg
@@ -30,31 +28,26 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Chili posiert im Lampenlicht
-  
 ---
 
-<RemoteImage alt={`Kater Chili im Licht`} size="medium"
-title={`Kater Chili im Licht`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24601796815_b2a80497df_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24601796815_b2a80497df_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBwgF/8QAKxAAAQMDAwEHBQEAAAAAAAAAAQIDBAAFEQYSISIHEzFBUWGhcYGRsbLR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAgX/xAAdEQEAAgICAwAAAAAAAAAAAAABAAIREgMhEzFB/9oADAMBAAIRAxEAPwB9t+m410TLVdW+5TNSyhbaV9XUlaSlJ8zg/Fdjs80nYtNxXkWJarhIfVl15aw5tSOAkbQEj91Dotwos8OG4+w7IjxhHZW2CMbiQoj0O3Az44zTZHDOmtPNxUOlfcoAUpWB/lKVsNckatsOsXe1NiZF0dPk2pkKlspDq9qRuSgEEnHnwPxms3XjVt9dioXPcUhtxOVBsYO3HBO2rX7ZdUx0aPTDXMWLg89lLsd7AbAPJVg8+ONvoPKs66gnJacW208ZEdzqDh5JB+5GefWrcbubSWNOpemmNSTberMdQGfYZH0OM01SL4/OguNvFZS4OrqBz8UUVnNrBgY8VHtIm322wVspLrK1gK3eKeT75SaS73YrZNKS6y6NucbXAn+QKKKHXmvn2wnio/J//9k="
+<RemoteImage
+  alt={`Kater Chili im Licht`}
+  size="medium"
+  title={`Kater Chili im Licht`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24601796815_b2a80497df_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24601796815_b2a80497df_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBwgF/8QAKxAAAQMDAwEHBQEAAAAAAAAAAQIDBAAFEQYSISIHEzFBUWGhcYGRsbLR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAgX/xAAdEQEAAgICAwAAAAAAAAAAAAABAAIREgMhEzFB/9oADAMBAAIRAxEAPwB9t+m410TLVdW+5TNSyhbaV9XUlaSlJ8zg/Fdjs80nYtNxXkWJarhIfVl15aw5tSOAkbQEj91Dotwos8OG4+w7IjxhHZW2CMbiQoj0O3Az44zTZHDOmtPNxUOlfcoAUpWB/lKVsNckatsOsXe1NiZF0dPk2pkKlspDq9qRuSgEEnHnwPxms3XjVt9dioXPcUhtxOVBsYO3HBO2rX7ZdUx0aPTDXMWLg89lLsd7AbAPJVg8+ONvoPKs66gnJacW208ZEdzqDh5JB+5GefWrcbubSWNOpemmNSTberMdQGfYZH0OM01SL4/OguNvFZS4OrqBz8UUVnNrBgY8VHtIm322wVspLrK1gK3eKeT75SaS73YrZNKS6y6NucbXAn+QKKKHXmvn2wnio/J//9k="
 />
 
-**Nach meiner [letzten Bildegalerie](/2015/12/stubentiger/) von meinen beiden
-Katern Oskar und Chili vor ein paar Wochen, habe ich gleich ein paar Nachrichten
-von Euch bekommen.**
+**Nach meiner [letzten Bildegalerie](/2015/12/stubentiger/) von meinen beiden Katern Oskar und Chili vor ein paar Wochen, habe ich gleich ein paar Nachrichten von Euch bekommen.**
 
-Dem Wunsch, ich soll doch häufiger mal ein paar Bilder von den beiden zeigen,
-komme ich jetzt nach.
+Dem Wunsch, ich soll doch häufiger mal ein paar Bilder von den beiden zeigen, komme ich jetzt nach.
 
-Erst vor Kurzem ist mir Chili mal wieder vor die Linse gelaufen. Im Licht
-unserer neuen Stehlampe scheint er sich besonders wohl zu fühlen, was die Fotos
-beweisen.
+Erst vor Kurzem ist mir Chili mal wieder vor die Linse gelaufen. Im Licht unserer neuen Stehlampe scheint er sich besonders wohl zu fühlen, was die Fotos beweisen.
 
 ## Der Kater räkelt sich
 
-Wie ein professionelles Kater-Fotomodell räkelt er sich und zeigt sich von
-seiner besten Seite.
+Wie ein professionelles Kater-Fotomodell räkelt er sich und zeigt sich von seiner besten Seite.
 
 <Gallery name="flickr/annekaterchili012016" />
 
@@ -62,31 +55,25 @@ seiner besten Seite.
 
 Guck, die Katze tanzt allein, tanzt und tanzt auf einem Bein.
 
-Kam der Igel zu der Katze: "Bitte, reich mir deine Tatze!" "Mit dem Igel tanz
-ich nicht, ist mir viel zu stachelig."
+Kam der Igel zu der Katze: "Bitte, reich mir deine Tatze!" "Mit dem Igel tanz ich nicht, ist mir viel zu stachelig."
 
 Und die Katze tanzt allein, tanzt und tanzt auf einem Bein.
 
-Kam der Hase zu der Katze: "Bitte, reich mir deine Tatze!" "Mit dem Hasen tanz
-ich nicht, ist mir viel zu zappelig."
+Kam der Hase zu der Katze: "Bitte, reich mir deine Tatze!" "Mit dem Hasen tanz ich nicht, ist mir viel zu zappelig."
 
 Und die Katze tanzt allein, tanzt und tanzt auf einem Bein.
 
-Kam der Hamster zu der Katze "Bitte, reich mir deine Tatze!" Mit dem Hamster
-tanz ich nicht, ist mir viel zu pummelig."
+Kam der Hamster zu der Katze "Bitte, reich mir deine Tatze!" Mit dem Hamster tanz ich nicht, ist mir viel zu pummelig."
 
 Und die Katze tanzt allein, tanzt und tanzt auf einem Bein.
 
-Kam der Hofhund zu der Katze: "Bitte, reich mir deine Tatze!" Mit dem Hofhund
-tanz ich nicht, denn der bellt so fürchterlich."
+Kam der Hofhund zu der Katze: "Bitte, reich mir deine Tatze!" Mit dem Hofhund tanz ich nicht, denn der bellt so fürchterlich."
 
 Guck, die Katze tanzt allein, tanzt und tanzt auf einem Bein.
 
-Kam der Kater zu der Katze, leckte ihr ganz lieb die Tatze, streichelt sie und
-küsst sie sacht, und schon hat sie mitgemacht.
+Kam der Kater zu der Katze, leckte ihr ganz lieb die Tatze, streichelt sie und küsst sie sacht, und schon hat sie mitgemacht.
 
-Und dann tanzen sie zu zwein über Stock und über Stein. Jede Maus im Mauseloch
-ruft: "Ein Glück, sie tanzen noch!"
+Und dann tanzen sie zu zwein über Stock und über Stein. Jede Maus im Mauseloch ruft: "Ein Glück, sie tanzen noch!"
 
 (Frederik Vahle - "Der Katzentatzentanz")
 
@@ -95,5 +82,3 @@ ruft: "Ein Glück, sie tanzen noch!"
 Das nächste Mal zeigt sich dann auch Kater Oskar wieder...
 
 [Hier gehts zur "ODE AN DEN KATER" Ein Text, wie er ehrlicher nicht sein könnte, gewidmet Chili und Oskar, den beiden tollsten Katern auf der Welt](/2012/08/ode-an-den-kater/)
-
-  

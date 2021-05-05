@@ -7,10 +7,8 @@ typeName: Meme
 title: Schnappschuss
 seoTitle: You are here - Ein Schnappschuss zum Schmunzeln - Aus England
 ogTitle: You are here - Ein Schnappschuss zum Schmunzeln - Aus England
-description: You are here - Ein Schnappschuss zum Schmunzeln - Aus England -
-  Wunderbar. Schön. Klasse. Unübertreflich und genial. Für gute Laune.
-excerpt: You are here - Ein Schnappschuss zum Schmunzeln - Aus England -
-  Wunderbar. Schön. Klasse. Unübertreflich und genial. Für gute Laune.
+description: You are here - Ein Schnappschuss zum Schmunzeln - Aus England - Wunderbar. Schön. Klasse. Unübertreflich und genial. Für gute Laune.
+excerpt: You are here - Ein Schnappschuss zum Schmunzeln - Aus England - Wunderbar. Schön. Klasse. Unübertreflich und genial. Für gute Laune.
 fileName: 2012-07---schnappschuss.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_p1000559-e1587461163291__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_p1000559-e1587461163291__l.jpg
@@ -35,13 +33,11 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 5/9
-  
 ---
 
 ## Gut zu wissen
 
-[_Teil 4/9_](/2012/07/isle-of-wight-festival-2012/) Gesehen in
-Hayle/Cornwall/England 6/2012
+[_Teil 4/9_](/2012/07/isle-of-wight-festival-2012/) Gesehen in Hayle/Cornwall/England 6/2012
 
 Hier geht's zu [_Teil 6/9_](/2012/07/aloa-cornwall/)  der Galerie "England 2012"
 
@@ -56,5 +52,3 @@ Hier geht's zu [_Teil 6/9_](/2012/07/aloa-cornwall/)  der Galerie "England 201
 1.  [Eden Project](/2012/08/eden-project-2/)
 1.  [Fabelwesen](/2012/08/fabelwesen/)
 1.  [Schneeweißchen und Rosenrot](/2012/08/schneeweis-und-rosenrot/)
-
-  

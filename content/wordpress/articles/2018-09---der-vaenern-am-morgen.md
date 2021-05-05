@@ -7,11 +7,8 @@ typeName: Galerie
 title: Der Vänern am Morgen
 seoTitle: Der Vänern am Morgen - Der frühe Vogel badet in Ruhe
 ogTitle: Der Vänern am Morgen - Der frühe Vogel badet in Ruhe
-description: Der Vänern ist nicht nur am Abend eine echte Augenweide. Auch
-  morgens kann man hier ein Naturschauspiel erleben. Wenn man etwas früher
-  aufsteht...
-excerpt: Der Vänern ist nicht nur am Abend eine echte Augenweide. Auch morgens
-  kann man hier ein Naturschauspiel erleben. Wenn man etwas früher aufsteht...
+description: Der Vänern ist nicht nur am Abend eine echte Augenweide. Auch morgens kann man hier ein Naturschauspiel erleben. Wenn man etwas früher aufsteht...
+excerpt: Der Vänern ist nicht nur am Abend eine echte Augenweide. Auch morgens kann man hier ein Naturschauspiel erleben. Wenn man etwas früher aufsteht...
 fileName: 2018-09---der-vaenern-am-morgen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44189871294_a9fa6bf089_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44189871294_a9fa6bf089_z__l.jpg
@@ -39,29 +36,14 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Der frühe Vogel badet in Ruhe
-  
 ---
 
-**"Der Vänern am Abend", das war der Titel meiner ersten Bildergalerie vom
-Vänern, die ich Euch vor Kurzem gezeigt habe. Für heute habe ich Teil 2
-vorbereitet. Gleich am nächsten Tag bin ich etwas früher aufgestanden, als sonst
-und mit der Kamera losgezogen. Dabei sind mir einige Frühaufsteher vor die Linse
-gelaufen.**
+**"Der Vänern am Abend", das war der Titel meiner ersten Bildergalerie vom Vänern, die ich Euch vor Kurzem gezeigt habe. Für heute habe ich Teil 2 vorbereitet. Gleich am nächsten Tag bin ich etwas früher aufgestanden, als sonst und mit der Kamera losgezogen. Dabei sind mir einige Frühaufsteher vor die Linse gelaufen.**
 
-Wie schon in [Teil 1](/2018/09/der-vaenern-am-abend/) beschrieben, wimmelt es am
-**Vänern** nur so von Vögeln. Ich glaube echt, dass ich mich dort nochmal länger
-auf die Lauer legen muss. Am besten mit einem Fernglas und einem starken Tele
-ausgestattet. Falls ich das eines Tages durchziehe, seid Ihr die ersten, denen
-ich Bericht erstatte. Versprochen!
+Wie schon in [Teil 1](/2018/09/der-vaenern-am-abend/) beschrieben, wimmelt es am **Vänern** nur so von Vögeln. Ich glaube echt, dass ich mich dort nochmal länger auf die Lauer legen muss. Am besten mit einem Fernglas und einem starken Tele ausgestattet. Falls ich das eines Tages durchziehe, seid Ihr die ersten, denen ich Bericht erstatte. Versprochen!
 
 ## Der frühe Vogel am Abend
 
-Bis dahin habe ich ja schon mal einen kleinen Vorgeschmack für Euch vorbereitet.
-Viel Spaß damit! Ach ja: Es haben sich auch wieder ein paar Bilder vom
-Nachmittag und Abend dazwischen geschummelt. Es ist zu schön am Vänern! Da kann
-man nicht einfach um 7 Uhr morgens aufhören, zu fotografieren. Alle Aufnahmen in
-diesem Artikel habe ich am 27. Juni 2018 gemacht.
+Bis dahin habe ich ja schon mal einen kleinen Vorgeschmack für Euch vorbereitet. Viel Spaß damit! Ach ja: Es haben sich auch wieder ein paar Bilder vom Nachmittag und Abend dazwischen geschummelt. Es ist zu schön am Vänern! Da kann man nicht einfach um 7 Uhr morgens aufhören, zu fotografieren. Alle Aufnahmen in diesem Artikel habe ich am 27. Juni 2018 gemacht.
 
 <Gallery name="flickr/20180627annevaenernmorgen" />
-
-  

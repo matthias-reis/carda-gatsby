@@ -7,12 +7,8 @@ typeName: Rezept
 title: Heidelbeerliebe
 seoTitle: Smoothie für den Sommer - Heidelbeerliebe
 ogTitle: Smoothie für den Sommer - Heidelbeerliebe
-description: Ein Smoothie so süß wie der Sommer - Wie Ihr meine Heidelbeerliebe
-  ganz leicht selbst herstellen könnt, zeige ich Euch in meinem heutigen
-  Smoothie-Rezept.
-excerpt: Ein Smoothie so süß wie der Sommer - Wie Ihr meine Heidelbeerliebe ganz
-  leicht selbst herstellen könnt, zeige ich Euch in meinem heutigen
-  Smoothie-Rezept.
+description: Ein Smoothie so süß wie der Sommer - Wie Ihr meine Heidelbeerliebe ganz leicht selbst herstellen könnt, zeige ich Euch in meinem heutigen Smoothie-Rezept.
+excerpt: Ein Smoothie so süß wie der Sommer - Wie Ihr meine Heidelbeerliebe ganz leicht selbst herstellen könnt, zeige ich Euch in meinem heutigen Smoothie-Rezept.
 fileName: 2014-09---heidelbeerliebe.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-3-e1582806044482__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-3-e1582806044482__l.jpg
@@ -41,19 +37,13 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Sommerlicher Smoothie
-  
 ---
 
-**Gestern habe ich von meinem Vorhaben, wieder laufen zu gehen
-[berichtet](//2014/08/31/sonnenaufgang-im-paradies/). Nachdem gestern alles gut
-funktioniert hat und ich die drei Kilometer gut überstanden habe, habe ich es
-heute gleich noch mal versucht.**
+**Gestern habe ich von meinem Vorhaben, wieder laufen zu gehen [berichtet](//2014/08/31/sonnenaufgang-im-paradies/). Nachdem gestern alles gut funktioniert hat und ich die drei Kilometer gut überstanden habe, habe ich es heute gleich noch mal versucht.**
 
-Nach fast vier Kilometern durch den Park und durch die Gassen der Altstadt
-musste ich mich im Anschluss mit etwas ganz Besonderem belohnen.
+Nach fast vier Kilometern durch den Park und durch die Gassen der Altstadt musste ich mich im Anschluss mit etwas ganz Besonderem belohnen.
 
-Kaum zu Hause angekommen und der Dusche entstiegen, brach auch schon der Hunger
-aus. Höchste Zeit für einen leckeren Smoothie aus meinen Lieblingsfrüchten.
+Kaum zu Hause angekommen und der Dusche entstiegen, brach auch schon der Hunger aus. Höchste Zeit für einen leckeren Smoothie aus meinen Lieblingsfrüchten.
 
 ## Smoothie - Heidelbeerliebe
 
@@ -69,15 +59,31 @@ aus. Höchste Zeit für einen leckeren Smoothie aus meinen Lieblingsfrüchten.
 
 **Zubereitung**
 
-Pfirsich, Apfel und Banane schälen, in kleine Stückchen schneiden und zusammen
-mit den Heidelbeeren in einen Mixbecher geben. Den Reisdrink dazu geben und
-alles vorsichtig mit dem Stabmixer pürieren, bis alles schön fein und schaumig
-ist.
+Pfirsich, Apfel und Banane schälen, in kleine Stückchen schneiden und zusammen mit den Heidelbeeren in einen Mixbecher geben. Den Reisdrink dazu geben und alles vorsichtig mit dem Stabmixer pürieren, bis alles schön fein und schaumig ist.
 
 Strohhalm dazu und genießen. &lt;3
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-3-e1582806044482__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-3-e1582806044482__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-4__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-3-e1582806044482__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-3-e1582806044482__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-2__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-2__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-4__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-4__l.jpg',
+    },
+  ]}
 />
 
 ## Wegweiser Smoothies
@@ -85,5 +91,3 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_0
 1.  Heidelbeerliebe
 1.  [Sonnenaufgang im Paradies](/2014/08/sonnenaufgang-im-paradies/)
 1.  [Hanf Banane Himbeer Reigen](/2017/04/hanf-banane-himbeer-smoothie/)
-
-  

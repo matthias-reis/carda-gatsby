@@ -7,12 +7,8 @@ typeName: Galerie mit Bild
 title: Big in Berlin
 seoTitle: Big in Berlin - "Wir sind viele und wir sind zu zweit"
 ogTitle: Big in Berlin - "Wir sind viele und wir sind zu zweit"
-description: Wie ihr vielleicht schon mitbekommen habt, waren wir bevor die
-  Corona-Krise losging mal wieder in Berlin. Dort habe ich ein paar bunte Bilder
-  aufgenommen.
-excerpt: Wie ihr vielleicht schon mitbekommen habt, waren wir bevor die
-  Corona-Krise losging mal wieder in Berlin. Dort habe ich ein paar bunte Bilder
-  aufgenommen.
+description: Wie ihr vielleicht schon mitbekommen habt, waren wir bevor die Corona-Krise losging mal wieder in Berlin. Dort habe ich ein paar bunte Bilder aufgenommen.
+excerpt: Wie ihr vielleicht schon mitbekommen habt, waren wir bevor die Corona-Krise losging mal wieder in Berlin. Dort habe ich ein paar bunte Bilder aufgenommen.
 fileName: 2020-03---big-in-berlin.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-06-08-berlin-37__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-06-08-berlin-37__l.jpg
@@ -36,26 +32,15 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Wir sind viele und wir sind zu zweit"'
-  
 ---
 
-**Wie ihr vielleicht schon mitbekommen habt, waren wir bevor die Corona-Krise
-losging mal wieder in Berlin. Zwischen Hackeschen Höfen, Prenzlauer Berg,
-[Futurium](/2020/03/futurium-berlin/), Friedrichshain,
-[Escape Game](/2020/03/zu-zweit-im-escape-room/), Planetarium, Pho, Cafés und
-Craftbeer sind ein paar bunte Bilder entstanden.**
+**Wie ihr vielleicht schon mitbekommen habt, waren wir bevor die Corona-Krise losging mal wieder in Berlin. Zwischen Hackeschen Höfen, Prenzlauer Berg, [Futurium](/2020/03/futurium-berlin/), Friedrichshain, [Escape Game](/2020/03/zu-zweit-im-escape-room/), Planetarium, Pho, Cafés und Craftbeer sind ein paar bunte Bilder entstanden.**
 
-Vermutlich sitzt Ihr wie wir zu Hause und wartet auf Besserung. Ein bisschen
-Ablenkung kann da ja vielleicht nicht schaden. Leonardo Da Vinci hat schließlich
-irgendwann mal gesagt "Der Mensch, das Augenwesen, braucht ein Bild".
+Vermutlich sitzt Ihr wie wir zu Hause und wartet auf Besserung. Ein bisschen Ablenkung kann da ja vielleicht nicht schaden. Leonardo Da Vinci hat schließlich irgendwann mal gesagt "Der Mensch, das Augenwesen, braucht ein Bild".
 
 <Gallery name="biginberlinannematze032020" />
 
-Für alle, die sich bei der Überschrift gefragt haben, was das denn soll hier ein
-Video. Für alle, die sich bei der Überschrift gedacht haben "Das kenn ich doch"
-hier ein Video. Mehr über meine Liebe zu den Sternen könnt Ihr
-[hier im Blog nachlesen](/2014/09/flucht-in-die-flucht/).
+Für alle, die sich bei der Überschrift gefragt haben, was das denn soll hier ein Video. Für alle, die sich bei der Überschrift gedacht haben "Das kenn ich doch" hier ein Video. Mehr über meine Liebe zu den Sternen könnt Ihr [hier im Blog nachlesen](/2014/09/flucht-in-die-flucht/).
 
- <YouTube id="C55Yxsc8Mak" />
-
-  
+{' '}
+<YouTube id="C55Yxsc8Mak" />

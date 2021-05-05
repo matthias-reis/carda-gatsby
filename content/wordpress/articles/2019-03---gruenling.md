@@ -7,12 +7,8 @@ typeName: Rezept
 title: Grünling
 seoTitle: Grünling - frischer Smoothie mit Twist - mein Rezept für Dich
 ogTitle: Grünling - frischer Smoothie mit Twist - mein Rezept für Dich
-description: Lust auf einen Smoothie? So eine leckere Vitaminbombe passt doch
-  eigentlich immer gut, oder? Magst Du Kiwis? Super! Hier kommt mein Rezept für
-  Dich!
-excerpt: Lust auf einen Smoothie? So eine leckere Vitaminbombe passt doch
-  eigentlich immer gut, oder? Du hast auch gerade ein paar überreife Kiwis in
-  der Küche liegen? Super! Dann mal ran an den Mixer!
+description: Lust auf einen Smoothie? So eine leckere Vitaminbombe passt doch eigentlich immer gut, oder? Magst Du Kiwis? Super! Hier kommt mein Rezept für Dich!
+excerpt: Lust auf einen Smoothie? So eine leckere Vitaminbombe passt doch eigentlich immer gut, oder? Du hast auch gerade ein paar überreife Kiwis in der Küche liegen? Super! Dann mal ran an den Mixer!
 fileName: 2019-03---gruenling.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-smoothie-gruenling__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-smoothie-gruenling__l.jpg
@@ -34,16 +30,11 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Smoothie mit Twist
-  
 ---
 
-**Lust auf einen Smoothie? So eine leckere Vitaminbombe passt doch eigentlich
-immer gut, oder? Du hast auch gerade ein paar überreife Kiwis in der Küche
-liegen? Super! Dann mal ran an den Mixer!**
+**Lust auf einen Smoothie? So eine leckere Vitaminbombe passt doch eigentlich immer gut, oder? Du hast auch gerade ein paar überreife Kiwis in der Küche liegen? Super! Dann mal ran an den Mixer!**
 
-In meinem Grünling sind neben den grünen Früchtchen mit der fusseligen Schale
-noch ein paar andere gesunde Zutaten drin. Sie versorgen Dich mit Vitaminen,
-Spurenelementen und Nährstoffen.
+In meinem Grünling sind neben den grünen Früchtchen mit der fusseligen Schale noch ein paar andere gesunde Zutaten drin. Sie versorgen Dich mit Vitaminen, Spurenelementen und Nährstoffen.
 
 ## Zutaten für ein großes Glas oder zwei kleine Gläser
 
@@ -55,20 +46,18 @@ Spurenelementen und Nährstoffen.
 - 1 Tasse kaltes Wasser
 - 1 EL hochwertiges Leinöl
 
-<RemoteImage alt={`smoothie`} size="medium"
-title={`Im Grünling stecken viele gesunde Zutaten!`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-smoothie-gruenling-1__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-smoothie-gruenling-1__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQC/8QAJhAAAgEDAwQCAwEAAAAAAAAAAQIDBBEhAAUSEzFBUWFxFCIkMv/EABcBAQEBAQAAAAAAAAAAAAAAAAUBAwT/xAAeEQACAgICAwAAAAAAAAAAAAABAgARAwQSIRMxgf/aAAwDAQACEQMRAD8AYSUtWNug3GAQmCQMEVbAoLYVVwABgX1bFBUU/wDVNVyR45lesSHTyDjHwbZ1vnaKba6CGjngo0iDssNVcoWJGQw8C3Y6xrU1FCYUMu39MHjKfyVyOX6gWOQL+vOjW4crUyA3Fm5bhTALHWFa1YLPFWAEtC4Bsb92XNj4F8aNUbjuEVNRzRxoJnbnDlLKJGPDifdrSH6vo0gqBBRJlU2Oq+zbHIzUPGWPqWyCpyD9aRbtGJFMVLTvM7WPERnkD8nURlOQWMsD/piGwRpvUSRddaelnEhiUq78unbiuSCe4+POhPFa8jEX0cZfo1Fb0FQaaGTepUEgl6rQxd3yLlzfv3wPZ96NdzcZKVZHuWIBNzo10Yt3MB2bmzaWH1U//9k="
+<RemoteImage
+  alt={`smoothie`}
+  size="medium"
+  title={`Im Grünling stecken viele gesunde Zutaten!`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-smoothie-gruenling-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-smoothie-gruenling-1__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQC/8QAJhAAAgEDAwQCAwEAAAAAAAAAAQIDBBEhAAUSEzFBUWFxFCIkMv/EABcBAQEBAQAAAAAAAAAAAAAAAAUBAwT/xAAeEQACAgICAwAAAAAAAAAAAAABAgARAwQSIRMxgf/aAAwDAQACEQMRAD8AYSUtWNug3GAQmCQMEVbAoLYVVwABgX1bFBUU/wDVNVyR45lesSHTyDjHwbZ1vnaKba6CGjngo0iDssNVcoWJGQw8C3Y6xrU1FCYUMu39MHjKfyVyOX6gWOQL+vOjW4crUyA3Fm5bhTALHWFa1YLPFWAEtC4Bsb92XNj4F8aNUbjuEVNRzRxoJnbnDlLKJGPDifdrSH6vo0gqBBRJlU2Oq+zbHIzUPGWPqWyCpyD9aRbtGJFMVLTvM7WPERnkD8nURlOQWMsD/piGwRpvUSRddaelnEhiUq78unbiuSCe4+POhPFa8jEX0cZfo1Fb0FQaaGTepUEgl6rQxd3yLlzfv3wPZ96NdzcZKVZHuWIBNzo10Yt3MB2bmzaWH1U//9k="
 />
 
-Gib alles in den Mixer und warte, bis sich ein schönes Getränk ergeben hat. Das
-Leinöl gibst Du kurz vor Schluss hinzu. Es löst nicht nur die **Vitamine** - es
-enthält außerdem hohe Mengen an wertvollen Omega-3-Fettsäuren. Vorsicht: Nimm es
-nur in kleinen Mengen zu Dir. Es besitzt eine sehr hohe Nährstoffdichte.
+Gib alles in den Mixer und warte, bis sich ein schönes Getränk ergeben hat. Das Leinöl gibst Du kurz vor Schluss hinzu. Es löst nicht nur die **Vitamine** - es enthält außerdem hohe Mengen an wertvollen Omega-3-Fettsäuren. Vorsicht: Nimm es nur in kleinen Mengen zu Dir. Es besitzt eine sehr hohe Nährstoffdichte.
 
-Für alle **Smoothie-Zutaten** , bei denen es möglich ist, genaue
-Nährstoffangaben zu machen, habe ich hier eine Auflistung für Dich angelegt:
+Für alle **Smoothie-Zutaten** , bei denen es möglich ist, genaue Nährstoffangaben zu machen, habe ich hier eine Auflistung für Dich angelegt:
 
 ## Nährstoffe der Smoothie-Zutaten
 
@@ -127,5 +116,3 @@ In 100 g Ingwer stecken 80 Kalorien.
 - Magnesium 8 mg
 
 In 100 g Zitrone stecken 29 Kalorien.
-
-  

@@ -7,10 +7,8 @@ typeName: Artikel
 title: Vegablum startet Crowdfunding
 seoTitle: Vegablum startet Crowdfunding - Food Start-up Wettbewerb Next Level!
 ogTitle: Vegablum startet Crowdfunding - Food Start-up Wettbewerb Next Level!
-description: Vegablum aus Hagen ist beim Food Start-up Context Next Level! 2019
-  mit dabei. Beim Wettbewerb treten insgesamt 19 Start-ups gegeneinander an.
-excerpt: Werbung - Vegablum aus Hagen ist beim Food-Startup Context Next Level!
-  2019 mit dabei. Beim Wettbewerb treten insgesamt 19 Startups gegeneinander an.
+description: Vegablum aus Hagen ist beim Food Start-up Context Next Level! 2019 mit dabei. Beim Wettbewerb treten insgesamt 19 Start-ups gegeneinander an.
+excerpt: Werbung - Vegablum aus Hagen ist beim Food-Startup Context Next Level! 2019 mit dabei. Beim Wettbewerb treten insgesamt 19 Startups gegeneinander an.
 fileName: 2019-09---vegablum-startet-crowdfunding.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_vegalblum-anne-reis-cardamonchai.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_vegalblum-anne-reis-cardamonchai.png__l.jpg
@@ -39,58 +37,34 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Food Start-up Wettbewerb Next Level!
-  
 ---
 
 _Werbung\*_
 
-**Vegablum aus Hagen ist beim Food Start-up Contest Next Level! 2019 mit dabei.
-Beim Wettbewerb treten insgesamt 19 Start-ups gegeneinander an.**
+**Vegablum aus Hagen ist beim Food Start-up Contest Next Level! 2019 mit dabei. Beim Wettbewerb treten insgesamt 19 Start-ups gegeneinander an.**
 
-Vor einiger Zeit habe ich Euch
-[Vegablum](/2017/04/interview-mit-danny-von-vegablum/) hier im Blog ja bereits
-vorgestellt. Jetzt konnten sich Danny und Stephan bereits im Vorfeld des großen
-Next Level! Wettbewerbs gegen einige Mitbewerber durchsetzen - das bedeutet, sie
-können mit ihren veganen Honig- und Metalternativen auf einen Sieg hoffen.
+Vor einiger Zeit habe ich Euch [Vegablum](/2017/04/interview-mit-danny-von-vegablum/) hier im Blog ja bereits vorgestellt. Jetzt konnten sich Danny und Stephan bereits im Vorfeld des großen Next Level! Wettbewerbs gegen einige Mitbewerber durchsetzen - das bedeutet, sie können mit ihren veganen Honig- und Metalternativen auf einen Sieg hoffen.
 
 ## Crowdfunding bei Startnext
 
-Beim Contest, der von der Crowdfunding-Plattform Start Next veranstaltet wird,
-ist nicht die Höhe der durch die Kampagne gesammelte Summe ausschlaggebend: Die
-Anzahl der Personen, die das Start-up unterstützen, bestimmt, wer gewinnt. Die
-drei Finalist\*innen erhalten dann neben Zuschüssen für ihre Finanzierung
-weitere Unterstützungen für das Vorankommen ihrer Unternehmen in der Zukunft.
+Beim Contest, der von der Crowdfunding-Plattform Start Next veranstaltet wird, ist nicht die Höhe der durch die Kampagne gesammelte Summe ausschlaggebend: Die Anzahl der Personen, die das Start-up unterstützen, bestimmt, wer gewinnt. Die drei Finalist\*innen erhalten dann neben Zuschüssen für ihre Finanzierung weitere Unterstützungen für das Vorankommen ihrer Unternehmen in der Zukunft.
 
-Heute Mittag um 12 Uhr war der Startschuss zur Kampagne. Neugierige und
-Interessent\*innen können Vegablum also ab sofort unterstützen.
+Heute Mittag um 12 Uhr war der Startschuss zur Kampagne. Neugierige und Interessent\*innen können Vegablum also ab sofort unterstützen.
 
 ## 19 Teilnehmer\*innen
 
-Unterstützt wird das Ganze von Startin Food. Dadurch wird aus der
-Crowdfunding-Kampagne ein Wettbewerb. Mit dabei sind 19 junge Food Gründer aus
-ganz Deutschland.
+Unterstützt wird das Ganze von Startin Food. Dadurch wird aus der Crowdfunding-Kampagne ein Wettbewerb. Mit dabei sind 19 junge Food Gründer aus ganz Deutschland.
 
-Vegablum möchte mit dem Geld aus der Crowdfunding-Kampagne eine eigene
-Produktion aufbauen. Damit soll die Herstellung zukünftig ohne die Abhängigkeit
-von Dritten erfolgen. Der Gewinn würde in eine Abfüll- und Etikettiermaschine
-fließen. Außerdem wollen Danny und Stephan die Rohstoffe für zwei neue
-Wonig-Sorten in Bio-Qualität erwerben. Sie möchten außerdem mit Hochdruck daran
-arbeiten, dass weitere Sorten aus dem konventionellen Sortiment bio-zertifiziert
-werden.
+Vegablum möchte mit dem Geld aus der Crowdfunding-Kampagne eine eigene Produktion aufbauen. Damit soll die Herstellung zukünftig ohne die Abhängigkeit von Dritten erfolgen. Der Gewinn würde in eine Abfüll- und Etikettiermaschine fließen. Außerdem wollen Danny und Stephan die Rohstoffe für zwei neue Wonig-Sorten in Bio-Qualität erwerben. Sie möchten außerdem mit Hochdruck daran arbeiten, dass weitere Sorten aus dem konventionellen Sortiment bio-zertifiziert werden.
 
 ## Vegablum unterstützen
 
-Wenn Ihr Euch für einen fairen und ökologischen Lebensstil begeistert, könnt Ihr
-Vegablum unterstützen. Alle Bienenfreund _innen, Veganer_ innen und Fans von
-fairen veganen Alternativen zu Honig und Met sind herzlich willkommen.
+Wenn Ihr Euch für einen fairen und ökologischen Lebensstil begeistert, könnt Ihr Vegablum unterstützen. Alle Bienenfreund _innen, Veganer_ innen und Fans von fairen veganen Alternativen zu Honig und Met sind herzlich willkommen.
 
-Vegablum wurde von Daniela Nowak und Stephan Weidtmann im Oktober 2015
-gegründet. Im Jahr 2017 stellten sie auf der Messe Veganfach in Köln zum ersten
-Mal ihre neuen Honig-Alternativen mit fairen Zutaten in Bio-Qualität vor einem
-breiteren Publikum vor. Sie wurden bei diesem Anlass mit dem Vegan Innovation
-Award ausgezeichnet.
+Vegablum wurde von Daniela Nowak und Stephan Weidtmann im Oktober 2015 gegründet. Im Jahr 2017 stellten sie auf der Messe Veganfach in Köln zum ersten Mal ihre neuen Honig-Alternativen mit fairen Zutaten in Bio-Qualität vor einem breiteren Publikum vor. Sie wurden bei diesem Anlass mit dem Vegan Innovation Award ausgezeichnet.
 
- <YouTube id="b6PMZs_0KcE" />
+{' '}
+<YouTube id="b6PMZs_0KcE" />
 
 ## Infos:
 
@@ -100,9 +74,4 @@ Award ausgezeichnet.
 [Crowdfunding Kampagne](https://www.startnext.com/vegablum)  
 [Homepage Nextlevel! 2019](https://food-crowdfunding.de/)
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
-dadurch nicht beeinflusst. Man hat mir das Produkt nicht zur Verfügung gestellt
-oder mich bezahlt. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr
-auf meiner [Transparenz-Seite](/werbung/). _
-
-  
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Man hat mir das Produkt nicht zur Verfügung gestellt oder mich bezahlt. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _

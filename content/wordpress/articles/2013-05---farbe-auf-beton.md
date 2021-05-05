@@ -7,10 +7,8 @@ typeName: Galerie
 title: Farbe auf Beton
 seoTitle: Farbe auf Beton
 ogTitle: Farbe auf Beton
-description: In München habe ich vor Kurzem ein paar bunte Momentaufnahmen
-  gemacht, die ich gerne mit Euch teilen möchte.
-excerpt: In München habe ich vor Kurzem ein paar bunte Momentaufnahmen gemacht,
-  die ich gerne mit Euch teilen möchte.
+description: In München habe ich vor Kurzem ein paar bunte Momentaufnahmen gemacht, die ich gerne mit Euch teilen möchte.
+excerpt: In München habe ich vor Kurzem ein paar bunte Momentaufnahmen gemacht, die ich gerne mit Euch teilen möchte.
 fileName: 2013-05---farbe-auf-beton.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_4766__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_4766__l.jpg
@@ -31,18 +29,52 @@ labels:
   - Sprayer
   - Street Art
   - Streetart München
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Gesehen und fotografiert in München
-  
 ---
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4763__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4763__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4766__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4766__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4769__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4769__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4771__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4771__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4774__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4774__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4780__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4780__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_img_4763__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_img_4763__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_img_4766__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_img_4766__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_img_4769__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_img_4769__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_img_4771__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_img_4771__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_img_4774__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_img_4774__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_img_4780__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2013_05_img_4780__l.jpg',
+    },
+  ]}
 />
-
-  

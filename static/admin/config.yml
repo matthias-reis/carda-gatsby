@@ -59,8 +59,7 @@ collections:
           label: 'Meta Description',
           name: 'description',
           widget: 'text',
-          hint:
-            'Wird als Meta Description und für Social Media Posts verwendet',
+          hint: 'Wird als Meta Description und für Social Media Posts verwendet',
         }
       - {
           label: 'Teaser (Textauszug)',
@@ -106,8 +105,7 @@ collections:
           name: 'languageLink',
           widget: 'string',
           required: false,
-          hint:
-            'Link zur Version in anderer Sprache. Startet z.B. mit /2021/06...',
+          hint: 'Link zur Version in anderer Sprache. Startet z.B. mit /2021/06...',
         }
   - name: 'oldArticle'
     label: 'Alte Artikel'
@@ -151,8 +149,7 @@ collections:
           label: 'Meta Description',
           name: 'description',
           widget: 'text',
-          hint:
-            'Wird als Meta Description und für Social Media Posts verwendet',
+          hint: 'Wird als Meta Description und für Social Media Posts verwendet',
         }
       - {
           label: 'Teaser (Textauszug)',
@@ -198,8 +195,7 @@ collections:
           name: 'languageLink',
           widget: 'string',
           required: false,
-          hint:
-            'Link zur Version in anderer Sprache. Startet z.B. mit /2021/06...',
+          hint: 'Link zur Version in anderer Sprache. Startet z.B. mit /2021/06...',
         }
   - name: 'pages'
     label: 'Seiten'

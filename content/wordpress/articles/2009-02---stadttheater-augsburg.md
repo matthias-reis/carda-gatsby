@@ -8,8 +8,7 @@ title: Stadttheater Augsburg
 seoTitle: Stadttheater Augsburg
 ogTitle: Stadttheater Augsburg
 description: Kunst in Stein am Stadttheater Augsburg
-excerpt: Hinter dem Augsburger Stadttheater verbirgt sich ein wunderschönes Bild
-  aus Stein.
+excerpt: Hinter dem Augsburger Stadttheater verbirgt sich ein wunderschönes Bild aus Stein.
 fileName: 2009-02---stadttheater-augsburg.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_02_p2250029__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_02_p2250029__l.jpg
@@ -27,8 +26,4 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Kunst in Stein
-  
 ---
-
-
-  

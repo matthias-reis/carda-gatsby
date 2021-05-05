@@ -7,12 +7,8 @@ typeName: Artikel
 title: Tagesschau
 seoTitle: Tagesschau - Die Welt in Worten - Heute, morgen, übermorgen
 ogTitle: Tagesschau - Die Welt in Worten - Heute, morgen, übermorgen
-description: Tagesschau - Modernisierung bedeutet nicht gleichzeitig auch
-  Demokratie. Verbundenheit durch Wut und Bedeutungslosigkeit. Zweieinhalb
-  Millionen Zuschauer.
-excerpt: Tagesschau - Modernisierung bedeutet nicht gleichzeitig auch
-  Demokratie. Verbundenheit durch Wut und Bedeutungslosigkeit. Zweieinhalb
-  Millionen Zuschauer.
+description: Tagesschau - Modernisierung bedeutet nicht gleichzeitig auch Demokratie. Verbundenheit durch Wut und Bedeutungslosigkeit. Zweieinhalb Millionen Zuschauer.
+excerpt: Tagesschau - Modernisierung bedeutet nicht gleichzeitig auch Demokratie. Verbundenheit durch Wut und Bedeutungslosigkeit. Zweieinhalb Millionen Zuschauer.
 fileName: 2017-11---tagesschau.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_36166975164_4783069b61_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_36166975164_4783069b61_k__l.jpg
@@ -31,11 +27,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Die Welt in Worten
-  
 ---
 
-Modernisierung bedeutet nicht gleichzeitig auch Demokratie. Verbundenheit durch
-Wut und Bedeutungslosigkeit.
+Modernisierung bedeutet nicht gleichzeitig auch Demokratie. Verbundenheit durch Wut und Bedeutungslosigkeit.
 
 Zweieinhalb Millionen Zuschauer. Die Welt wird gesichert.
 
@@ -48,5 +42,3 @@ Besitz weggespült. Überflutet mit Plastik.
 Computeranimation. Eine neue Dynastie.
 
 In der Nacht klärt es im Westen und Südwesten auf Im Nordwesten bis zu 11 Grad
-
-  

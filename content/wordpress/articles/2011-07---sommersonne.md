@@ -7,12 +7,8 @@ typeName: Artikel
 title: Sommersonne
 seoTitle: Sommersonne - Tagebucheintrag an einem schönen Tag
 ogTitle: Sommersonne - Tagebucheintrag an einem schönen Tag
-description: Ein schöner Tag. Die Sommersonne beleuchtet die Stadt, die Katzen
-  spielen auf den Dächern, der Wind bleibt heute fern und singt sein Lied weiter
-  südlich.
-excerpt: Ein schöner Tag. Die Sommersonne beleuchtet die Stadt, die Katzen
-  spielen auf den Dächern, der Wind bleibt heute fern und singt sein Lied weiter
-  südlich.
+description: Ein schöner Tag. Die Sommersonne beleuchtet die Stadt, die Katzen spielen auf den Dächern, der Wind bleibt heute fern und singt sein Lied weiter südlich.
+excerpt: Ein schöner Tag. Die Sommersonne beleuchtet die Stadt, die Katzen spielen auf den Dächern, der Wind bleibt heute fern und singt sein Lied weiter südlich.
 fileName: 2011-07---sommersonne.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_07_light__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_07_light__l.jpg
@@ -54,26 +50,17 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Tagebucheintrag
-  
 ---
 
-**Ein schöner Tag. Die Sommersonne beleuchtet die Stadt, die Katzen spielen auf
-den Dächern, der Wind bleibt heute fern und singt sein Lied lieber weiter
-südlich.**
+**Ein schöner Tag. Die Sommersonne beleuchtet die Stadt, die Katzen spielen auf den Dächern, der Wind bleibt heute fern und singt sein Lied lieber weiter südlich.**
 
-Das Fernweh ist wieder angekommen. Gründe zu bleiben gibt es einige, Gründe zu
-verreisen überwiegen jedoch. In Gedanken habe ich das in den letzten Tagen oft
-getan und dabei fast unbewusst immer wieder die Flugangebote durchstöbert.
+Das Fernweh ist wieder angekommen. Gründe zu bleiben gibt es einige, Gründe zu verreisen überwiegen jedoch. In Gedanken habe ich das in den letzten Tagen oft getan und dabei fast unbewusst immer wieder die Flugangebote durchstöbert.
 
-Das Bild des Tages habe ich 2010 in Edinburgh aufgenommen. Mich hat das
-Lichtspiel in Kombination mit den Worten von Alexander McCall Smith auf der
-Hauswand beeindruckt.
+Das Bild des Tages habe ich 2010 in Edinburgh aufgenommen. Mich hat das Lichtspiel in Kombination mit den Worten von Alexander McCall Smith auf der Hauswand beeindruckt.
 
-Passend dazu der Song des Tages. Er kommt heute von einer Band namens Eagleowl,
-die ebenfalls aus Edinburg stammt.
+Passend dazu der Song des Tages. Er kommt heute von einer Band namens Eagleowl, die ebenfalls aus Edinburg stammt.
 
 ## Song des Tages: Eagleowl - "Into The Fold"
 
- <YouTube id="xYUYxnhyyHM" />
-
-  
+{' '}
+<YouTube id="xYUYxnhyyHM" />

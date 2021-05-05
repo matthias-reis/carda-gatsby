@@ -7,10 +7,8 @@ typeName: Rezept
 title: Ba­na­nen­waf­feln
 seoTitle: Ba­na­nen­waf­feln
 ogTitle: Ba­na­nen­waf­feln
-description: "Ein veganer Alltime-Favorite zum Frühstück: Bananenwaffeln"
-excerpt: Ein absoluter Frühstücks-Alltime-Favorite von mir sind Waffeln. Waffeln
-  in allen vorstellbaren Variationen, hergestellt aus den verschiedensten
-  Kreationen.
+description: 'Ein veganer Alltime-Favorite zum Frühstück: Bananenwaffeln'
+excerpt: Ein absoluter Frühstücks-Alltime-Favorite von mir sind Waffeln. Waffeln in allen vorstellbaren Variationen, hergestellt aus den verschiedensten Kreationen.
 fileName: 2015-03---ba-na-nen-waf-feln.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_16444940546_96d1f814da_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_16444940546_96d1f814da_o__l.jpg
@@ -45,19 +43,11 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Mit Zimtzucker und warmen Erdbeeren
-  
 ---
 
-**Ein absoluter Frühstücks-Alltime-Favorite von mir sind Waffeln. Waffeln in
-allen vorstellbaren Variationen, hergestellt aus den verschiedensten Kreationen.
-Vor kurzem hatte ich sonntags mal wieder Lust drauf und habe mir dieses Rezept
-hier ausgedacht. Mit Beilagen reicht die Menge gut für 2 - 3 Personen.**
+**Ein absoluter Frühstücks-Alltime-Favorite von mir sind Waffeln. Waffeln in allen vorstellbaren Variationen, hergestellt aus den verschiedensten Kreationen. Vor kurzem hatte ich sonntags mal wieder Lust drauf und habe mir dieses Rezept hier ausgedacht. Mit Beilagen reicht die Menge gut für 2 - 3 Personen.**
 
-Natürlich könnt Ihr alle Zutaten bei Bedarf auch wieder verdoppeln/halbieren
-bzw. durch andere ersetzen. Der Phantasie sind keine Grenzen gesetzt. Lediglich
-bei den Bananen sowie beim Backpulver handelt es sich um eine Grundzutaten, die
-nicht nur für den Geschmack, sondern auch für die Festigkeit der Waffeln
-verantwortlich ist, die solltet Ihr auf keinen Fall weglassen.
+Natürlich könnt Ihr alle Zutaten bei Bedarf auch wieder verdoppeln/halbieren bzw. durch andere ersetzen. Der Phantasie sind keine Grenzen gesetzt. Lediglich bei den Bananen sowie beim Backpulver handelt es sich um eine Grundzutaten, die nicht nur für den Geschmack, sondern auch für die Festigkeit der Waffeln verantwortlich ist, die solltet Ihr auf keinen Fall weglassen.
 
 ## Zutaten
 
@@ -66,9 +56,7 @@ verantwortlich ist, die solltet Ihr auf keinen Fall weglassen.
 - 1 Vanilleschote
 - 12 g Weinsteinbackpulver
 - 125 ml Wasser
-- 125 ml Kokosmilch (Bitte die trinkbare Kokosmilch aus dem Tetra-Pack
-  verwenden, gibt's inzwischen in den meisten Bioläden und Supermärkten im
-  H-Milch-Regal)
+- 125 ml Kokosmilch (Bitte die trinkbare Kokosmilch aus dem Tetra-Pack verwenden, gibt's inzwischen in den meisten Bioläden und Supermärkten im H-Milch-Regal)
 - 1 EL Kokosöl
 - 1 Prise Salz
 - ca. 4 - 5 EL Apfelsüße je nach Gusto
@@ -88,20 +76,12 @@ verantwortlich ist, die solltet Ihr auf keinen Fall weglassen.
 
 ## Zubereitung
 
-Die Bananen mit dem Stabmixer pürieren und nach und nach die Apfelsüße, das
-Backpulver, das Wasser, das Mehl, die Kokosmilch, das Kokosöl, das Salz und den
-Rum zugeben. Die Vanilleschote mit dem Messer auskratzen und in den Teig
-mischen. Das Waffeleisen auf mittlerer Stufe vorheizen.
+Die Bananen mit dem Stabmixer pürieren und nach und nach die Apfelsüße, das Backpulver, das Wasser, das Mehl, die Kokosmilch, das Kokosöl, das Salz und den Rum zugeben. Die Vanilleschote mit dem Messer auskratzen und in den Teig mischen. Das Waffeleisen auf mittlerer Stufe vorheizen.
 
-Etwas Kokosöl auf das Waffeleisen geben und erhitzen. Mit dem Löffel den Teig
-auf das Eisen träufeln und Waffeln ausbacken. Zwischendurch das gefrorene Obst
-in der Mikrowelle erwärmen.
+Etwas Kokosöl auf das Waffeleisen geben und erhitzen. Mit dem Löffel den Teig auf das Eisen träufeln und Waffeln ausbacken. Zwischendurch das gefrorene Obst in der Mikrowelle erwärmen.
 
-Die fertigen Bananenwaffeln mit Zimt und Zucker bestäuben und zusammen mit dem
-Obst servieren.
+Die fertigen Bananenwaffeln mit Zimt und Zucker bestäuben und zusammen mit dem Obst servieren.
 
 Guten Appetit! &lt;3
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
-
-  

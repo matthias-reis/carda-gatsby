@@ -7,12 +7,8 @@ typeName: Galerie
 title: Sevilla
 seoTitle: Sevilla - Stadt der Sonne - eine Bildergalerie
 ogTitle: Sevilla - Stadt der Sonne - eine Bildergalerie
-description: Während unserer Reise durch Südspanien letzen Sommer waren wir auch
-  in Sevilla. Wir haben uns sofort bis über beide Ohren in die Stadt der Sonne
-  verliebt.
-excerpt: Während unserer Reise durch Südspanien letzen Sommer waren wir auch in
-  Sevilla. Wir haben uns sofort bis über beide Ohren in die Stadt der Sonne
-  verliebt.
+description: Während unserer Reise durch Südspanien letzen Sommer waren wir auch in Sevilla. Wir haben uns sofort bis über beide Ohren in die Stadt der Sonne verliebt.
+excerpt: Während unserer Reise durch Südspanien letzen Sommer waren wir auch in Sevilla. Wir haben uns sofort bis über beide Ohren in die Stadt der Sonne verliebt.
 fileName: 2020-04---sevilla.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_2019-06-27-sevilla-39__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_2019-06-27-sevilla-39__l.jpg
@@ -36,13 +32,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Stadt der Sonne
-  
 ---
 
-**Während unserer Reise durch Südspanien letzen Sommer waren wir auch in
-Sevilla. Wir haben uns sofort bis über beide Ohren in die Stadt der Sonne
-verliebt und möchten auf jeden Fall irgendwann wieder hin.**
+**Während unserer Reise durch Südspanien letzen Sommer waren wir auch in Sevilla. Wir haben uns sofort bis über beide Ohren in die Stadt der Sonne verliebt und möchten auf jeden Fall irgendwann wieder hin.**
 
 <Gallery name="sevilla2019" />
-
-  

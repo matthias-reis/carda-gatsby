@@ -7,11 +7,8 @@ typeName: Galerie
 title: Las Vegas auf Gran Canaria
 seoTitle: Las Vegas auf Gran Canaria - Bananen, Papayas und Esel
 ogTitle: Las Vegas auf Gran Canaria - Bananen, Papayas und Esel
-description: Las Vegas auf Gran Canaria ist keine Spielerstadt, sondern eine
-  Finka, auf der man nicht nur leckere Bananen probieren kann. Wir haben sie
-  besucht.
-excerpt: Las Vegas auf Gran Canaria ist keine Spielerstadt, sondern eine Finka,
-  auf der man nicht nur leckere Bananen probieren kann. Wir haben sie besucht.
+description: Las Vegas auf Gran Canaria ist keine Spielerstadt, sondern eine Finka, auf der man nicht nur leckere Bananen probieren kann. Wir haben sie besucht.
+excerpt: Las Vegas auf Gran Canaria ist keine Spielerstadt, sondern eine Finka, auf der man nicht nur leckere Bananen probieren kann. Wir haben sie besucht.
 fileName: 2017-09---las-vegas-auf-gran-canaria.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Gran-Canaria-407__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Gran-Canaria-407__l.jpg
@@ -33,25 +30,15 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Bananen, Papayas und Esel
-  
 ---
 
-**Erst kürzlich habe ich Euch hier von unserem Besuch der
-[Finca La Laja](/2017/09/die-einzige-kaffeeplantage-europas/) erzählt. Während
-unserem Aufenthalt auf Gran Canaria haben wir noch eine weitere Finca besucht,
-die absolut sehenswert ist. Sie trägt einen weltberühmten Namen: _Las Vegas_ .**
+**Erst kürzlich habe ich Euch hier von unserem Besuch der [Finca La Laja](/2017/09/die-einzige-kaffeeplantage-europas/) erzählt. Während unserem Aufenthalt auf Gran Canaria haben wir noch eine weitere Finca besucht, die absolut sehenswert ist. Sie trägt einen weltberühmten Namen: _Las Vegas_ .**
 
-Die Finca befindet sich bei Arucas inmitten einer Bananenplantage. Darin liegt
-auch ihr Hauptgeschäft. Besucher dürfen nicht nur die Plantage besichtigen,
-sondern neben den schmackhaften Kanarischen Bananen auch noch Bananenlikör, Wein
-und Orangen probieren.
+Die Finca befindet sich bei Arucas inmitten einer Bananenplantage. Darin liegt auch ihr Hauptgeschäft. Besucher dürfen nicht nur die Plantage besichtigen, sondern neben den schmackhaften Kanarischen Bananen auch noch Bananenlikör, Wein und Orangen probieren.
 
 ## Papayas und Avocados in Las Vegas
 
-Neben Bananen, werden in _Las Vegas_ auch ein paar Papayas, Avocados und Orangen
-angepflanzt. Neben den netten Bewohnern begegneten uns dort auch noch ein Esel
-sowie die beiden vierbeinigen Begleiter des Hofherren, die uns auf Schritt und
-Tritt begleiteten.
+Neben Bananen, werden in _Las Vegas_ auch ein paar Papayas, Avocados und Orangen angepflanzt. Neben den netten Bewohnern begegneten uns dort auch noch ein Esel sowie die beiden vierbeinigen Begleiter des Hofherren, die uns auf Schritt und Tritt begleiteten.
 
 <Gallery name="flickr/annelasvegasgrancanaria" />
 
@@ -67,5 +54,3 @@ Tritt begleiteten.
 1.  [Die einzige Kaffeeplantage Europas](/2017/09/die-einzige-kaffeeplantage-europas/)
 1.  Las Vegas auf Gran Canaria
 1.  [Jardín Canario - Grüne Oase in Tafira](/2017/09/jardin-canario-gruene-oase-in-tafira/)
-
-  

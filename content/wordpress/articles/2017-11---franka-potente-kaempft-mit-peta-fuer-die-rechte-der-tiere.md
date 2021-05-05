@@ -7,12 +7,8 @@ typeName: Artikel
 title: Franka Potente kämpft mit PETA für die Rechte der Tiere
 seoTitle: Franka Potente kämpft mit PETA für die Rechte der Tiere
 ogTitle: Franka Potente kämpft mit PETA für die Rechte der Tiere
-description: Franka Potente lebt vegan. Warum sie das tut, hat sie jetzt
-  berichtet. Mit einem Film möchte sie auf das Leid der Schweine hinweisen.
-  Zusammen mit PETA.
-excerpt: Franka Potente lebt vegan. Warum sie das tut, hat sie jetzt berichtet.
-  Mit einem Film möchte sie auf das Leid der Schweine hinweisen. Zusammen mit
-  PETA.
+description: Franka Potente lebt vegan. Warum sie das tut, hat sie jetzt berichtet. Mit einem Film möchte sie auf das Leid der Schweine hinweisen. Zusammen mit PETA.
+excerpt: Franka Potente lebt vegan. Warum sie das tut, hat sie jetzt berichtet. Mit einem Film möchte sie auf das Leid der Schweine hinweisen. Zusammen mit PETA.
 fileName: 2017-11---franka-potente-kaempft-mit-peta-fuer-die-rechte-der-tiere.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_FRANKA__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_FRANKA__l.jpg
@@ -44,53 +40,32 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Arme Sau - So leiden die Schweine
-  
 ---
 
-**"Seit ich mich vegan ernähre, bin ich viel gesünder und
-[agiler](/2014/08/ich-war-so-muede/). Meine Haut ist besser und ich habe meine
-Freude am Kochen wiederentdeckt. Vegan zu leben, ist für mich eine große
-Bereicherung. Mir ist es wichtig, dass für mich kein anderes Lebewesen leiden
-muss oder getötet wird."**
+**"Seit ich mich vegan ernähre, bin ich viel gesünder und [agiler](/2014/08/ich-war-so-muede/). Meine Haut ist besser und ich habe meine Freude am Kochen wiederentdeckt. Vegan zu leben, ist für mich eine große Bereicherung. Mir ist es wichtig, dass für mich kein anderes Lebewesen leiden muss oder getötet wird."**
 
-<RemoteImage alt={`Franka Potente`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_franka-potente-peta__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_franka-potente-peta__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBQYHBP/EACgQAAICAQMDAwUBAQAAAAAAAAECAwQRAAUhBhITBzFhFCJBUYEykf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EAB0RAAMAAgIDAAAAAAAAAAAAAAABAhIhAxEiMUH/2gAMAwEAAhEDEQA/AMY6R2GPdpWSVZmaQTRoIlJIcRd6Y45yc8foHXV0HstfdeoXo7pNPUhiryzStHGS6lACQR2nGOc5HGNXj0eZZ9yrQRQ+WGtA8ryNkgSMG4/mR/c6j+rrS7T6ybvY+jhuJZrpK8EkrJG/mrxlu4oDkZJ4/J5yCAdQzfnWXoprpSmM632qj01ZpRbbYuTxTRyeR7UfYVkR+1kA7R7aNQHqL1fZ6lt0vqatavPB5WcQNJ9zSMrElXH2/wCcgZPuedGtOJraMzyaH+nO57gLO47UniiTcYu2SSVyvjQAhiMfBJz8atPV+wdLifrG5ZnuNu9aWWaOvXlyiIrhQhULyAgB78gZOB7E6h9puVNviheGpWd2JBw5DcqV4wPfn88YHzpKtuOv1Vdt0migrzp9OK88hAMQZSyliDy65X+6F03Ta0IksdmXtOTOxAK4PAJJx/3RqxX9khaq8i2KSuH7VSGbukH7AX8j5zo1XlP0DFn/2Q=="
+<RemoteImage
+  alt={`Franka Potente`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_franka-potente-peta__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_franka-potente-peta__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBQYHBP/EACgQAAICAQMDAwUBAQAAAAAAAAECAwQRAAUhBhITBzFhFCJBUYEykf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EAB0RAAMAAgIDAAAAAAAAAAAAAAABAhIhAxEiMUH/2gAMAwEAAhEDEQA/AMY6R2GPdpWSVZmaQTRoIlJIcRd6Y45yc8foHXV0HstfdeoXo7pNPUhiryzStHGS6lACQR2nGOc5HGNXj0eZZ9yrQRQ+WGtA8ryNkgSMG4/mR/c6j+rrS7T6ybvY+jhuJZrpK8EkrJG/mrxlu4oDkZJ4/J5yCAdQzfnWXoprpSmM632qj01ZpRbbYuTxTRyeR7UfYVkR+1kA7R7aNQHqL1fZ6lt0vqatavPB5WcQNJ9zSMrElXH2/wCcgZPuedGtOJraMzyaH+nO57gLO47UniiTcYu2SSVyvjQAhiMfBJz8atPV+wdLifrG5ZnuNu9aWWaOvXlyiIrhQhULyAgB78gZOB7E6h9puVNviheGpWd2JBw5DcqV4wPfn88YHzpKtuOv1Vdt0migrzp9OK88hAMQZSyliDy65X+6F03Ta0IksdmXtOTOxAK4PAJJx/3RqxX9khaq8i2KSuH7VSGbukH7AX8j5zo1XlP0DFn/2Q=="
 />
 
-Das berichtet Franka Potente in Ausgabe 3/2017 der _PETAs Animal Times_ . Die
-Heldin meiner Jugend hat also auch den Schritt gewagt und sich für ein
-[veganes Leben](/vegan2) entschieden. Die Tiere stehen auch für sie an erster
-Stelle.
+Das berichtet Franka Potente in Ausgabe 3/2017 der _PETAs Animal Times_ . Die Heldin meiner Jugend hat also auch den Schritt gewagt und sich für ein [veganes Leben](/vegan2) entschieden. Die Tiere stehen auch für sie an erster Stelle.
 
 ## Franka Potente geht es besser
 
-Bevor sie sich für die pflanzenbasierte Ernährung entschied, wurde Franka
-Potente vom Arzt ein erhöhter Cholesterinspiegel attestiert. Dieser gehört nun
-der Geschichte an. Doch der Schauspielerin geht es nicht in erster Linie um ihre
-Gesundheit.
+Bevor sie sich für die pflanzenbasierte Ernährung entschied, wurde Franka Potente vom Arzt ein erhöhter Cholesterinspiegel attestiert. Dieser gehört nun der Geschichte an. Doch der Schauspielerin geht es nicht in erster Linie um ihre Gesundheit.
 
-Mit einer gemeinsamen Kampagne mit der Tierschutzorganisation PETA möchte sie
-über das Leid der Schweine in der Fleischproduktion aufklären. Dafür wurde ein
-Film produziert, den ich unten für Euch eingebunden habe.
+Mit einer gemeinsamen Kampagne mit der Tierschutzorganisation PETA möchte sie über das Leid der Schweine in der Fleischproduktion aufklären. Dafür wurde ein Film produziert, den ich unten für Euch eingebunden habe.
 
 ## Die Schauspielerin setzt sich für die Tiere ein
 
-Als die _Animal Times_ heute aus meinem Briefkasten purzelte, war ich freudig
-überrascht, Franka auf dem Titel zu entdecken. Ich musste Euch einfach davon
-erzählen. Sie ist überzeugt davon, dass vegane Ernährung nicht nur gut für die
-Gesundheit, sondern auch für die Umwelt und vor allem für die Tiere ist. Sie
-setzt sich daher ein und geht mit gutem Beispiel voran.
+Als die _Animal Times_ heute aus meinem Briefkasten purzelte, war ich freudig überrascht, Franka auf dem Titel zu entdecken. Ich musste Euch einfach davon erzählen. Sie ist überzeugt davon, dass vegane Ernährung nicht nur gut für die Gesundheit, sondern auch für die Umwelt und vor allem für die Tiere ist. Sie setzt sich daher ein und geht mit gutem Beispiel voran.
 
-Ich finde es toll, wenn sich Menschen, die wie sie im Rampenlicht stehen, für
-die Tiere stark machen und zeigen, dass es auch anders geht. Es macht Hoffnung.
-Hoffnung, dass immer mehr Menschen umdenken und auf Dinge wie Fleisch im Essen,
-[Pelz am Kragen](/2014/11/fakepelz-echtpelz/) und andere Dinge, die dafür
-sorgen, dass Tiere unter unwürdigen Bedingungen leben müssen und schließlich von
-Menschenhand getötet werden, verzichten. Und sich für ein tierleidfreies Leben
-entscheiden. Doch nun genug geredet. Schaut Euch den Film an.
+Ich finde es toll, wenn sich Menschen, die wie sie im Rampenlicht stehen, für die Tiere stark machen und zeigen, dass es auch anders geht. Es macht Hoffnung. Hoffnung, dass immer mehr Menschen umdenken und auf Dinge wie Fleisch im Essen, [Pelz am Kragen](/2014/11/fakepelz-echtpelz/) und andere Dinge, die dafür sorgen, dass Tiere unter unwürdigen Bedingungen leben müssen und schließlich von Menschenhand getötet werden, verzichten. Und sich für ein tierleidfreies Leben entscheiden. Doch nun genug geredet. Schaut Euch den Film an.
 
- <YouTube id="YoZ8af7eFy4" />
-
-  
+{' '}
+<YouTube id="YoZ8af7eFy4" />

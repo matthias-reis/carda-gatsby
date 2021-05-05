@@ -7,12 +7,8 @@ typeName: Artikel
 title: 12 Songs für den Juni
 seoTitle: 12 Songs für den Juni - die drei von der Bande legen auf
 ogTitle: 12 Songs für den Juni - die drei von der Bande legen auf
-description:
-  Für den Juni haben wir wieder 12 ganz besondere Songs für Euch in eine
-  Playlist gepackt. Wir wünschen Euch viel Freude beim Hören.
-excerpt:
-  Für den Juni haben wir wieder 12 ganz besondere Songs für Euch in eine
-  Playlist gepackt. Wir wünschen Euch viel Freude beim Hören.
+description: Für den Juni haben wir wieder 12 ganz besondere Songs für Euch in eine Playlist gepackt. Wir wünschen Euch viel Freude beim Hören.
+excerpt: Für den Juni haben wir wieder 12 ganz besondere Songs für Euch in eine Playlist gepackt. Wir wünschen Euch viel Freude beim Hören.
 fileName: 2020-05---12-songs-fuer-den-juni.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_12-songs-fuer-den-juni-1.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_12-songs-fuer-den-juni-1.png__l.jpg
@@ -47,184 +43,133 @@ errors: {}
 subTitle: Die drei von der Bande legen auf
 ---
 
-**Es ist schon wieder ein Monat vorbei! Wo ist die Zeit nur geblieben? In Musik
-gerechnet ist ziemlich viel davon vergangen. In Tagen an der frischen Luft eher
-weniger. Doch was soll's. Hier geht's schließlich um Ersteres.**
+**Es ist schon wieder ein Monat vorbei! Wo ist die Zeit nur geblieben? In Musik gerechnet ist ziemlich viel davon vergangen. In Tagen an der frischen Luft eher weniger. Doch was soll's. Hier geht's schließlich um Ersteres.**
 
-Wir haben in den vergangenen Wochen wieder einiges an Musik gehört und lange
-überlegt und geplant, welche Künstler⋆innen es am Ende in diesen Artikel
-schaffen. Das Ergebnis stellt uns durchaus zufrieden - doch hört am besten
-einfach selbst.
+Wir haben in den vergangenen Wochen wieder einiges an Musik gehört und lange überlegt und geplant, welche Künstler⋆innen es am Ende in diesen Artikel schaffen. Das Ergebnis stellt uns durchaus zufrieden - doch hört am besten einfach selbst.
 
-Für den Juni haben wir 12 ganz besondere Lieder für Euch zusammengestellt. Ihr
-findet sie direkt hier samt Beschreibungen und Videos und ganz unten als
-Playlists für iTunes und Spotify. Bedient haben wir uns wieder in den
-verschiedensten Musikrichtungen.
+Für den Juni haben wir 12 ganz besondere Lieder für Euch zusammengestellt. Ihr findet sie direkt hier samt Beschreibungen und Videos und ganz unten als Playlists für iTunes und Spotify. Bedient haben wir uns wieder in den verschiedensten Musikrichtungen.
 
-Auch dieses Mal sind wieder ein paar alte Bekannte dabei. Sicherlich werdet Ihr
-aber auch die ein oder andere Neuentdeckung machen. Für den eigentlich als
-Festivalmonat geplanten Juni gibt es auch ein paar Stücke, die durchaus für die
-großen Bühnen dieser Welt taugen. Wir wünschen Euch ganz viel Freude beim Hören
-und gute Laune und Sonnenschein für die nächsten vier Wochen. Wenn auch leider
-ohne Zelten, Dosenbier und Open Air Konzerte.
+Auch dieses Mal sind wieder ein paar alte Bekannte dabei. Sicherlich werdet Ihr aber auch die ein oder andere Neuentdeckung machen. Für den eigentlich als Festivalmonat geplanten Juni gibt es auch ein paar Stücke, die durchaus für die großen Bühnen dieser Welt taugen. Wir wünschen Euch ganz viel Freude beim Hören und gute Laune und Sonnenschein für die nächsten vier Wochen. Wenn auch leider ohne Zelten, Dosenbier und Open Air Konzerte.
 
 ## Yair Elazar Glotman &amp; Mats Erlandsson - "From Refraction To Procession" vom Album "Emanate"
 
-Mein Album des Monats ist "Emanate" von Yair Elazar Glotman und Mats Erlandsson.
-Das Vinyl befindet sich derzeit auf dem Weg zu mir. Drei Jahre nach ihrem ersten
-gemeinsamen Album haben es Yair Elazar Glotman und Mats Erlandsson erneut gewagt
-und eine neue Platte aufgenommen. Das Ergebnis ist ein 50-minütiges Klangbad,
-das es in sich hat.
+Mein Album des Monats ist "Emanate" von Yair Elazar Glotman und Mats Erlandsson. Das Vinyl befindet sich derzeit auf dem Weg zu mir. Drei Jahre nach ihrem ersten gemeinsamen Album haben es Yair Elazar Glotman und Mats Erlandsson erneut gewagt und eine neue Platte aufgenommen. Das Ergebnis ist ein 50-minütiges Klangbad, das es in sich hat.
 
- <YouTube id="uJmx1dQQw-A" />
+{' '}
+<YouTube id="uJmx1dQQw-A" />
 
 ## Ghost Lode - "Week Six" vom Album "Lenten Distance"
 
-Mich begeistert diese Platte, seit ich sie das erste Mal gehört habe. Ich höre
-sie immer und immer wieder und entdecke jedes Mal neue Details. "Week Six" ist
-das sechste und letzte Stück auf dem Album. Was es mit dem Abstand und der
-Anzahl der Wochen auf sich hat ist für mich Auslegungssache. Ihr hört
-Instrumental Drone von keinem Geringeren als Matt Weed von Rosetta.
+Mich begeistert diese Platte, seit ich sie das erste Mal gehört habe. Ich höre sie immer und immer wieder und entdecke jedes Mal neue Details. "Week Six" ist das sechste und letzte Stück auf dem Album. Was es mit dem Abstand und der Anzahl der Wochen auf sich hat ist für mich Auslegungssache. Ihr hört Instrumental Drone von keinem Geringeren als Matt Weed von Rosetta.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3162870095/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=282277019/transparent=true/" seamless=""> [Lenten Distance by Ghost Lode](http://ghostlode.bandcamp.com/album/lenten-distance) </iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=3162870095/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=282277019/transparent=true/"
+  seamless=""
+>
+  {' '}
+  [Lenten Distance by Ghost Lode](http://ghostlode.bandcamp.com/album/lenten-distance){' '}
+</iframe>
 
 ## Violet Cold - "All Heroes Are Dead" vom Album "Noir Kid"
 
-Etwas härtere Töne schlagen Violet Cold an. Sie haben ihr Album "Noir Kid"
-bereits Anfang Mai veröffentlicht. Ihrem atmosphärischen Black Metal sind sie
-seit dem letzten Werk "Kosmik" von Januar 2019 treu geblieben.
+Etwas härtere Töne schlagen Violet Cold an. Sie haben ihr Album "Noir Kid" bereits Anfang Mai veröffentlicht. Ihrem atmosphärischen Black Metal sind sie seit dem letzten Werk "Kosmik" von Januar 2019 treu geblieben.
 
- <YouTube id="R-lBT2GJ9yE" />
+{' '}
+<YouTube id="R-lBT2GJ9yE" />
 
 ## The Used - "Paradise Lost, A Poem By John Milton" vom Album "Heartwork"
 
-Dass es was Neues von The Used gibt, ist für mich eine kleine Sensation! Die
-neue Platte klingt - wie soll ich es sagen - erholt. Ob die krassen Zeiten
-vorbei sind? Hoffen wir darauf und auf immer mehr musikalischen Nachschub. Beim
-Artwork ist man dem alten Stil treu geblieben. Ich freue mich sehr, dass die
-wilde Bande aus Orem, Utah wieder da ist.
+Dass es was Neues von The Used gibt, ist für mich eine kleine Sensation! Die neue Platte klingt - wie soll ich es sagen - erholt. Ob die krassen Zeiten vorbei sind? Hoffen wir darauf und auf immer mehr musikalischen Nachschub. Beim Artwork ist man dem alten Stil treu geblieben. Ich freue mich sehr, dass die wilde Bande aus Orem, Utah wieder da ist.
 
- <YouTube id="LoGTY0bflh4" />
+{' '}
+<YouTube id="LoGTY0bflh4" />
 
 ## This Will Destroy You - "Birth" vom Album " **Variations &amp; Rarities 2004-2019, Vol 1"**
 
-Matze liebt diesen Song und hört ihn gerade täglich. In Verbindung mit dem Rest
-des Albums.
+Matze liebt diesen Song und hört ihn gerade täglich. In Verbindung mit dem Rest des Albums.
 
-"This Will Destroy You haben ein Album mit B-Seiten, Roh- oder
-Vorgängerversionen bekannter Stücke und Special Editions herausgebracht. Das
-eigentlich Außergewöhnliche an der an sich schon tollen Post-Rock Scheibe ist,
-dass sie homogener ist, als ihr Titel erahnen lässt. Fast schon wie ein in sich
-stimmiger Filmsoundtrack. Ich hab den Eröffnungstitel für Euch ausgewählt - wie
-so oft bei Post-Rock gilt auch hier: bitte das ganze Album anhören."
+"This Will Destroy You haben ein Album mit B-Seiten, Roh- oder Vorgängerversionen bekannter Stücke und Special Editions herausgebracht. Das eigentlich Außergewöhnliche an der an sich schon tollen Post-Rock Scheibe ist, dass sie homogener ist, als ihr Titel erahnen lässt. Fast schon wie ein in sich stimmiger Filmsoundtrack. Ich hab den Eröffnungstitel für Euch ausgewählt - wie so oft bei Post-Rock gilt auch hier: bitte das ganze Album anhören."
 
- <YouTube id="iV910PooWFE" />
+{' '}
+<YouTube id="iV910PooWFE" />
 
 ## Einstürzende Neubauten - "Alles in Allem" vom Album "Alles in Allem"
 
 Über diese Scheibe hat sich Matze ganz besonders gefreut.
 
-"Die deutschen Avantgarde Pioniere haben eine neue Platte herausgebracht.
-Inzwischen gibt es die Band um Blixa Bargeld schon seit 40 Jahren. Ihrer Musik
-merkt man dieses Alter allerdings nicht an. Auch hier steht wie bei TWDY das
-Album im Vordergrund, was es schwer macht einen Titel herauszupicken. Ich habe
-den eingängigen Titeltrack gewählt, der mit weniger experimentellem Sound aber
-ebenso enigmatischen Texten ('Unter der Zelle hängt ein Lichtfraß'), als der
-Rest der Platte daher kommt."
+"Die deutschen Avantgarde Pioniere haben eine neue Platte herausgebracht. Inzwischen gibt es die Band um Blixa Bargeld schon seit 40 Jahren. Ihrer Musik merkt man dieses Alter allerdings nicht an. Auch hier steht wie bei TWDY das Album im Vordergrund, was es schwer macht einen Titel herauszupicken. Ich habe den eingängigen Titeltrack gewählt, der mit weniger experimentellem Sound aber ebenso enigmatischen Texten ('Unter der Zelle hängt ein Lichtfraß'), als der Rest der Platte daher kommt."
 
- <YouTube id="0Nz9t_4XLcc" />
+{' '}
+<YouTube id="0Nz9t_4XLcc" />
 
 ## Mogwai - "I'm Not Going Where I Don't Get Back" vom Soundtrack zu "ZEROZEROZERO"
 
-Und wieder ein Soundtrack von diesen lauten Lieblings-Schotten. Matze hatte die
-Ehre einen Song davon auf unsere Liste zu setzen.
+Und wieder ein Soundtrack von diesen lauten Lieblings-Schotten. Matze hatte die Ehre einen Song davon auf unsere Liste zu setzen.
 
-"Eine neue Mogwai Platte hat es noch immer in die obersten Ränge unserer
-Jahrescharts geschafft. Der atmosphärische Soundtrack zur Mafia-Serie
-'ZEROZEROZERO' ist dabei sicher keine Ausnahme. Er zeigt zudem einmal mehr (nach
-'Kin', 'Atomic', 'Les Revenants' und 'Zidane') dass Soundtracks ihre Filme
-künstlerisch durchaus überflügeln können. Was nicht bedeuten soll, dass die hier
-genannten Filme und Serien nicht gut sind. Ich kann jedem auch die Netflix Serie
-'ZEROZEROZERO' ans Herz legen. Ich habe bewusst nicht den Titelsong ausgewählt,
-sondern das treibende, Spannung aufbauende zweite Stück, das mich an manchen
-Stellen an einen weiteren hervorragenden Soundtrack erinnert: den zum 'Tron'
-Remake von Daft Punk. An anderen Stellen des Albums kann man durchaus Parallelen
-zum Soundtrack der Schwester-Serie 'Gomorrha' heraushören. Der stammt von der
-italienische Post Rock Band Mokadelic."
+"Eine neue Mogwai Platte hat es noch immer in die obersten Ränge unserer Jahrescharts geschafft. Der atmosphärische Soundtrack zur Mafia-Serie 'ZEROZEROZERO' ist dabei sicher keine Ausnahme. Er zeigt zudem einmal mehr (nach 'Kin', 'Atomic', 'Les Revenants' und 'Zidane') dass Soundtracks ihre Filme künstlerisch durchaus überflügeln können. Was nicht bedeuten soll, dass die hier genannten Filme und Serien nicht gut sind. Ich kann jedem auch die Netflix Serie 'ZEROZEROZERO' ans Herz legen. Ich habe bewusst nicht den Titelsong ausgewählt, sondern das treibende, Spannung aufbauende zweite Stück, das mich an manchen Stellen an einen weiteren hervorragenden Soundtrack erinnert: den zum 'Tron' Remake von Daft Punk. An anderen Stellen des Albums kann man durchaus Parallelen zum Soundtrack der Schwester-Serie 'Gomorrha' heraushören. Der stammt von der italienische Post Rock Band Mokadelic."
 
- <YouTube id="3To4iNqKkz8" />
+{' '}
+<YouTube id="3To4iNqKkz8" />
 
 ## Archive - "Nothing Else" - Vorauskopplung aus dem Album "Versions" (erscheint im August)
 
 Auch diese Band begleitet uns alle schon sehr lange. Matze erzählt:
 
-"Im Jahr 1996 haben Archive ihr erstes Album 'Londinium' herausgebracht und
-damit den Grundstein für ihre lange, vielseitige und Highlight-reiche Karriere
-zwischen elektronischer Musik, Hip Hop, Rock und Progressive Rock gelegt. Einen
-ersten Vorgeschmack auf ihr neues Album 'Versions' gibt uns der Song 'Nothing
-Else'. Es handelt sich dabei um eine Neuinterpretation der Perlen auf eben
-beschriebener erster Platte. Wer die Geschichte der Band mitverfolgt hat, sollte
-sich die Zeit nehmen, sich beide Versionen hintereinander anzuhören. Die
-Evolution des Sounds ist wunderbar klar zu erkennen. Das neue Stück ist -
-eigenständig betrachtet - ein weiteres Highlight der Band aus London."
+"Im Jahr 1996 haben Archive ihr erstes Album 'Londinium' herausgebracht und damit den Grundstein für ihre lange, vielseitige und Highlight-reiche Karriere zwischen elektronischer Musik, Hip Hop, Rock und Progressive Rock gelegt. Einen ersten Vorgeschmack auf ihr neues Album 'Versions' gibt uns der Song 'Nothing Else'. Es handelt sich dabei um eine Neuinterpretation der Perlen auf eben beschriebener erster Platte. Wer die Geschichte der Band mitverfolgt hat, sollte sich die Zeit nehmen, sich beide Versionen hintereinander anzuhören. Die Evolution des Sounds ist wunderbar klar zu erkennen. Das neue Stück ist - eigenständig betrachtet - ein weiteres Highlight der Band aus London."
 
- <YouTube id="5WR9mOh8HAA" />
+{' '}
+<YouTube id="5WR9mOh8HAA" />
 
 ## Matt Bellamy - "Tomorrow's World"
 
-Valentin findet zu Matt Bellamys Werk, das der Künstler vor einigen Tagen auf
-seinem Instagram Profil vorstellte, folgende Worte:
+Valentin findet zu Matt Bellamys Werk, das der Künstler vor einigen Tagen auf seinem Instagram Profil vorstellte, folgende Worte:
 
-"Ein wunderschöner Song ist Muse Genie Matt Bellamy mit seinem Solo-Debut
-'Tomorrow's World' gelungen. Wir alle hoffen, dass bald ein ganzes Soloalbum
-erscheint. Seine Band Muse wird er natürlich trotzdem nie im Stich lassen!"
+"Ein wunderschöner Song ist Muse Genie Matt Bellamy mit seinem Solo-Debut 'Tomorrow's World' gelungen. Wir alle hoffen, dass bald ein ganzes Soloalbum erscheint. Seine Band Muse wird er natürlich trotzdem nie im Stich lassen!"
 
 Das sagt Matt über sein Soloprojekt:
 
-"Ich habe nie ernsthaft darüber nachgedacht, etwas außerhalb von Muse zu machen,
-weil ich diese Band liebe und wir so viel Spaß zusammen haben und Musik machen
-und all das. Doch ich dachte, wenn ich einen eigenen Song mache, dann während
-des Lockdown, denn wir versuchen schließlich alle uns zu beschäftigen."
+"Ich habe nie ernsthaft darüber nachgedacht, etwas außerhalb von Muse zu machen, weil ich diese Band liebe und wir so viel Spaß zusammen haben und Musik machen und all das. Doch ich dachte, wenn ich einen eigenen Song mache, dann während des Lockdown, denn wir versuchen schließlich alle uns zu beschäftigen."
 
- <YouTube id="Zo-IlcrDrw4" />
+{' '}
+<YouTube id="Zo-IlcrDrw4" />
 
 ## Puscifer - "Apocalyptical"
 
 Valentin zum neuen Puscifer Track:
 
-<p class="p1">"Richtig spannend fand ich in diesem Monat den neuen Song von Maynard James Keenans Projekt Puscifer, dass sich mit der aktuellen Lage befasst und in den Maynard im passenden Video dazu mal wieder seinen ganz speziellen Humor beweist."
- <YouTube id="Hj_bTbfAEsc" /> </p>
+<p class="p1">
+  "Richtig spannend fand ich in diesem Monat den neuen Song von Maynard James
+  Keenans Projekt Puscifer, dass sich mit der aktuellen Lage befasst und in den
+  Maynard im passenden Video dazu mal wieder seinen ganz speziellen Humor
+  beweist."
+  <YouTube id="Hj_bTbfAEsc" />{' '}
+</p>
 
 ## Figure Four - "State Of Mind" vom Album "Suffering The Loss"
 
 Das erzählt Valentin über diesen Song:
 
-"Mein dritter Song für diesen Monat ist eine härtere Nummer. Ein kompromissloses
-Stück Hardcore Punk von der kanadischen Band Figure Four aus dem Jahr 2003. Er
-stamm vom in diesem Jahr veröffentlichten Album 'Suffering the Loss', welches
-bis dato leider auch ihr aktuellstes geblieben ist. Die Credits hierfür muss ich
-an meinen Kumpel richten, der immer gute Tipps aus den Bereichen Trash Metal,
-Punkrock und Hardcore für mich bereithält!"
+"Mein dritter Song für diesen Monat ist eine härtere Nummer. Ein kompromissloses Stück Hardcore Punk von der kanadischen Band Figure Four aus dem Jahr 2003. Er stamm vom in diesem Jahr veröffentlichten Album 'Suffering the Loss', welches bis dato leider auch ihr aktuellstes geblieben ist. Die Credits hierfür muss ich an meinen Kumpel richten, der immer gute Tipps aus den Bereichen Trash Metal, Punkrock und Hardcore für mich bereithält!"
 
- <YouTube id="wAAR0ogzGcs" />
+{' '}
+<YouTube id="wAAR0ogzGcs" />
 
 ## The Offspring "Here Kitty Kitty"
 
 Das sagt Valentin über diesen Song:
 
-"Bei der für mich langersehnten neuen Musik von The Offspring handelt es sich
-zwar um eine Cover-Version, aber diese macht trotzdem Lust auf mehr Neues von
-den Jungs aus Orange County. An einem neuen Album wird ja anscheinend schon seit
-geraumer Zeit gearbeitet."
+"Bei der für mich langersehnten neuen Musik von The Offspring handelt es sich zwar um eine Cover-Version, aber diese macht trotzdem Lust auf mehr Neues von den Jungs aus Orange County. An einem neuen Album wird ja anscheinend schon seit geraumer Zeit gearbeitet."
 
-Hinweis der Redaktion: Der Song stammt ursprünglich von der Clinton Johnson
-Band. The Offspring haben ihn aufgenommen, um ihren Fans eine Freude zu
-bereiten. Auf iTunes und Spotify ist er derzeit in ihrer Version noch nicht zu
-finden. Daher haben wir dort in unserer aktuellen Playlist einen anderen schönen
-Song von den Herrschaften für Euch bereitgestellt.
+Hinweis der Redaktion: Der Song stammt ursprünglich von der Clinton Johnson Band. The Offspring haben ihn aufgenommen, um ihren Fans eine Freude zu bereiten. Auf iTunes und Spotify ist er derzeit in ihrer Version noch nicht zu finden. Daher haben wir dort in unserer aktuellen Playlist einen anderen schönen Song von den Herrschaften für Euch bereitgestellt.
 
- <YouTube id="mYa02QAcAkA" />
+{' '}
+<YouTube id="mYa02QAcAkA" />
 
 ## Unsere Playlists
 
- <Playlist spotify="7z2UgP1btP8Sa7sboX5UX3" itunes="2020-05-25-die-drei-von-der-bande/pl.u-29NyT8b5452" />
+{' '}
+<Playlist
+  spotify="7z2UgP1btP8Sa7sboX5UX3"
+  itunes="2020-05-25-die-drei-von-der-bande/pl.u-29NyT8b5452"
+/>

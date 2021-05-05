@@ -7,10 +7,8 @@ typeName: Artikel
 title: Online-Marketing
 seoTitle: Online-Marketing - neue Serie im Blog
 ogTitle: Online-Marketing - neue Serie im Blog
-description: In einer neuen Rubrik in meinem Blog wird sich ab jetzt alles ums
-  Thema Online-Marketing drehen.
-excerpt: In einer neuen Rubrik in meinem Blog wird sich ab jetzt alles ums Thema
-  Online-Marketing drehen.
+description: In einer neuen Rubrik in meinem Blog wird sich ab jetzt alles ums Thema Online-Marketing drehen.
+excerpt: In einer neuen Rubrik in meinem Blog wird sich ab jetzt alles ums Thema Online-Marketing drehen.
 fileName: 2012-07---online-marketing.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_295405_445460712142730_327032393_n__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_295405_445460712142730_327032393_n__l.jpg
@@ -31,28 +29,14 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Neue Serie im Blog
-  
 ---
 
-**In einer neuen Serie in meinem Blog wird sich ab jetzt alles ums Thema
-Online-Marketing drehen.**
+**In einer neuen Serie in meinem Blog wird sich ab jetzt alles ums Thema Online-Marketing drehen.**
 
-Da ich in Zukunft eine ganze Menge mit dem Thema Online-Marketing zu tun haben
-werde und es mir schon immer beim Lernen geholfen hat, Dinge aufzuschreiben,
-werde ich ab jetzt immer mal wieder Grundlagen und News aus diesem Bereich
-posten.
+Da ich in Zukunft eine ganze Menge mit dem Thema Online-Marketing zu tun haben werde und es mir schon immer beim Lernen geholfen hat, Dinge aufzuschreiben, werde ich ab jetzt immer mal wieder Grundlagen und News aus diesem Bereich posten.
 
 ## Ich freue mich auf Kommentare
 
-Es freut mich natürlich, wenn das Ganze Anklang findet und der Ein oder Andere
-auch was mit meinen Artikeln anfangen kann. Besonders toll wäre es natürlich,
-wenn es sogar Kommentare zu den Beiträgen gibt.
+Es freut mich natürlich, wenn das Ganze Anklang findet und der Ein oder Andere auch was mit meinen Artikeln anfangen kann. Besonders toll wäre es natürlich, wenn es sogar Kommentare zu den Beiträgen gibt.
 
-Ich bin schon sehr gespannt, was mir zu dem neuen Thema alles einfallen wird,
-sich ist schon mal, dass es auf jeden Fall Artikel über
-[Virales Marketing](/2012/07/virales-marketing-2/),
-[Suchmaschinenoptimierung](/2012/07/suchmaschinenoptimierung-und-suchmoeglichkeiten-im-netz/)
-und [Suchmaschinenwerbung](/2012/07/sea/) geben wird. Ganz bestimmt kommen aber
-noch eine ganze Menge weitere Ideen dazu.
-
-  
+Ich bin schon sehr gespannt, was mir zu dem neuen Thema alles einfallen wird, sich ist schon mal, dass es auf jeden Fall Artikel über [Virales Marketing](/2012/07/virales-marketing-2/), [Suchmaschinenoptimierung](/2012/07/suchmaschinenoptimierung-und-suchmoeglichkeiten-im-netz/) und [Suchmaschinenwerbung](/2012/07/sea/) geben wird. Ganz bestimmt kommen aber noch eine ganze Menge weitere Ideen dazu.

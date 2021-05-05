@@ -7,10 +7,8 @@ typeName: Artikel
 title: Of Mice & Men Gitarrist startet Vegan-Aufruf
 seoTitle: Of Mice & Men Gitarrist startet Vegan-Aufruf – "Ich glaube an Euch!"
 ogTitle: Of Mice & Men Gitarrist startet Vegan-Aufruf – "Ich glaube an Euch!"
-description: Der Gitarrist der Metalcore Band Of Mice and Men Philip Manansala
-  ruft seine Fans auf Twitter dazu auf, ab sofort vegan zu leben.
-excerpt: Der Gitarrist der Metalcore Band Of Mice & Men Philip Manansala ruft
-  seine Fans auf Twitter dazu auf, ab sofort vegan zu leben.
+description: Der Gitarrist der Metalcore Band Of Mice and Men Philip Manansala ruft seine Fans auf Twitter dazu auf, ab sofort vegan zu leben.
+excerpt: Der Gitarrist der Metalcore Band Of Mice & Men Philip Manansala ruft seine Fans auf Twitter dazu auf, ab sofort vegan zu leben.
 fileName: 2021-01---of-mice-und-men-gitarrist-startet-vegan-aufruf.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_of-mice-and-men.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_of-mice-and-men.png__l.jpg
@@ -31,65 +29,42 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Ich glaube an Euch!"'
-  
 ---
 
-**Der Gitarrist der Metalcore Band Of Mice &amp; Men Philip Manansala legt
-seinen Fans ans Herz, ab sofort vegan zu leben.**
+**Der Gitarrist der Metalcore Band Of Mice &amp; Men Philip Manansala legt seinen Fans ans Herz, ab sofort vegan zu leben.**
 
-Auf Twitter ruft Philip alle dazu auf, im Jahr 2021 mindestens für einen Monat
-veganes Essen auszuprobieren. Mit seinen Tweets erreicht der Musiker über
-136.000 Menschen. Außerdem spricht sich sein Aufruf jetzt natürlich auch
-außerhalb der Social Media Welt wie ein Lauffeuer herum. In seinem Tweet
-schreibt er:
+Auf Twitter ruft Philip alle dazu auf, im Jahr 2021 mindestens für einen Monat veganes Essen auszuprobieren. Mit seinen Tweets erreicht der Musiker über 136.000 Menschen. Außerdem spricht sich sein Aufruf jetzt natürlich auch außerhalb der Social Media Welt wie ein Lauffeuer herum. In seinem Tweet schreibt er:
 
-> "Ich fordere jede⋆n dazu auf, im neuen Jahr mindestens einen Monat lang
-> pflanzlich/vegan zu leben! "Vermutlich gefällt es Euch sogar und Ihr bleibt
-> für längere Zeit dabei! Ich glaube an Euch!"
+> "Ich fordere jede⋆n dazu auf, im neuen Jahr mindestens einen Monat lang pflanzlich/vegan zu leben! "Vermutlich gefällt es Euch sogar und Ihr bleibt für längere Zeit dabei! Ich glaube an Euch!"
 
-<RemoteImage alt={`Of Mice and Men`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_Bildschirmfoto-2021-01-04-um-15.43.02.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_Bildschirmfoto-2021-01-04-um-15.43.02.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAJCAYAAABT2S4KAAAACXBIWXMAABYlAAAWJQFJUiTwAAACxUlEQVQ4jZ1T2U5aURS9UWnVOiCKIkMB4UJlEFBAZJ5BQLgyI3MRpFG0sdo09qlP/YWmSd/60H7las52aNL0oenDzh7OOWvvve663IKMR/PiFp23H8Fio8MLhcEOpdEBBW/HxpYVa2oTrPsROAMpzK9rsa61UO1fTKox/zVnGCzmjrtDfPn5A1+/f4M7nML46gMG59foja8wvnqP4cU7dM8ucffpM07PryFaUT0N9T/Gmq6+3Iba5ILC4ACn2bZBr9ciHnFBY7SC34vAuBeC3hGE2uLBls0HvSMAqdYK0YqSmrPpmZfpdiCj3Ew1ynU7T+d/GtW1FqxrzE9McAubPG01I9FgelmFmWUFphY3Mb0kx4xYgecSFUTMr77E7Joa08sKzK1pKJ9aklO+INNhXqqlnNmclJ2r6f7sqprwRWLlwzs1Xmxs4ZlEhcVNPTiTM4BCrYtaZ4RotkRxpthEvtpFrtxCLFtGqlBHMCVQrTOaIJQ+pnvFkwEa/TECSQGeaBYn/TeotIcIHxbJeyJZxI+qhFdunSJbaiJZqCEtNNA+vQBv94KT83b44nlEMyXYPFEcRO8fJY6qJDqHL4FsqUWgj2Z2hRDJlJDI18hb3GEY7F4UT14TuNHhgy9+RHjszB1KI5AsUOwMpkjQ0WyZhM7xtgN0hhP4E3mys8tb7Hgi2I9kIDT6NEC1M0K9N6Yt2TDHjT41ZmzshzNUYxixXAW17hlGkxtagLGQq7RJ1OwOYyKeq6BQ76E1OIdYaQSnNDgQSAkExKh1hdJwhw9pA1cwjV1/AimhgVy5Dbs3joNYDiZnkLbY9SWotudPYlGmg0T1igTJVC5WGMg/Kn9ZbiAhsnhJzlNdotoGZ9z10+TMJjd3xAJrLNR7NITdG4NQ799ro9SkT8VYKTUH9IZRyZhhwmPgbIjHxswzkzzkzP8+u/8tfwH3ONWxiUslgAAAAABJRU5ErkJggg=="
+<RemoteImage
+  alt={`Of Mice and Men`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_Bildschirmfoto-2021-01-04-um-15.43.02.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_Bildschirmfoto-2021-01-04-um-15.43.02.png__l.jpg"
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAJCAYAAABT2S4KAAAACXBIWXMAABYlAAAWJQFJUiTwAAACxUlEQVQ4jZ1T2U5aURS9UWnVOiCKIkMB4UJlEFBAZJ5BQLgyI3MRpFG0sdo09qlP/YWmSd/60H7las52aNL0oenDzh7OOWvvve663IKMR/PiFp23H8Fio8MLhcEOpdEBBW/HxpYVa2oTrPsROAMpzK9rsa61UO1fTKox/zVnGCzmjrtDfPn5A1+/f4M7nML46gMG59foja8wvnqP4cU7dM8ucffpM07PryFaUT0N9T/Gmq6+3Iba5ILC4ACn2bZBr9ciHnFBY7SC34vAuBeC3hGE2uLBls0HvSMAqdYK0YqSmrPpmZfpdiCj3Ew1ynU7T+d/GtW1FqxrzE9McAubPG01I9FgelmFmWUFphY3Mb0kx4xYgecSFUTMr77E7Joa08sKzK1pKJ9aklO+INNhXqqlnNmclJ2r6f7sqprwRWLlwzs1Xmxs4ZlEhcVNPTiTM4BCrYtaZ4RotkRxpthEvtpFrtxCLFtGqlBHMCVQrTOaIJQ+pnvFkwEa/TECSQGeaBYn/TeotIcIHxbJeyJZxI+qhFdunSJbaiJZqCEtNNA+vQBv94KT83b44nlEMyXYPFEcRO8fJY6qJDqHL4FsqUWgj2Z2hRDJlJDI18hb3GEY7F4UT14TuNHhgy9+RHjszB1KI5AsUOwMpkjQ0WyZhM7xtgN0hhP4E3mys8tb7Hgi2I9kIDT6NEC1M0K9N6Yt2TDHjT41ZmzshzNUYxixXAW17hlGkxtagLGQq7RJ1OwOYyKeq6BQ76E1OIdYaQSnNDgQSAkExKh1hdJwhw9pA1cwjV1/AimhgVy5Dbs3joNYDiZnkLbY9SWotudPYlGmg0T1igTJVC5WGMg/Kn9ZbiAhsnhJzlNdotoGZ9z10+TMJjd3xAJrLNR7NITdG4NQ799ro9SkT8VYKTUH9IZRyZhhwmPgbIjHxswzkzzkzP8+u/8tfwH3ONWxiUslgAAAAABJRU5ErkJggg=="
 />
 
 ## Die Fans feiern Philip Manansalas veganen Tweet
 
-Auf seinen Kurztext hin überschütteten ihn die Fans mit Replies. Einige wollen
-sich jetzt der Herausforderung stellen.
+Auf seinen Kurztext hin überschütteten ihn die Fans mit Replies. Einige wollen sich jetzt der Herausforderung stellen.
 
-> "Danke, dass Du mich daran erinnerst, ich wollte es sowieso schon längst mal
-> versuchen",
+> "Danke, dass Du mich daran erinnerst, ich wollte es sowieso schon längst mal versuchen",
 
 heißt es da und:
 
 > "Also gut, was solls: Neues Jahr, neues Glück. Ich bin dabei!"
 
-Philip sorgt immer wieder mit Tweets zum Thema Veganismus für Aufmerksamkeit. So
-rührte er zuletzt die Werbetrommel für einen bekannten Hersteller veganer
-Burger. Er selbst beschäftigt sich seit 2016 mit der veganen Lebensweise. Damals
-berichtete er nach einem Tag mit veganem Essen, dass ihn die für ihn neue
-Ernährungsweise fasziniere. Er betonte  zu dieser Zeit noch, dass er sich selbst
-nicht als Veganer oder Vegetarier bezeichnen würde, er aber für alles offen
-wäre.
+Philip sorgt immer wieder mit Tweets zum Thema Veganismus für Aufmerksamkeit. So rührte er zuletzt die Werbetrommel für einen bekannten Hersteller veganer Burger. Er selbst beschäftigt sich seit 2016 mit der veganen Lebensweise. Damals berichtete er nach einem Tag mit veganem Essen, dass ihn die für ihn neue Ernährungsweise fasziniere. Er betonte  zu dieser Zeit noch, dass er sich selbst nicht als Veganer oder Vegetarier bezeichnen würde, er aber für alles offen wäre.
 
 ## Lebt Philip Manansala vegan?
 
-Ob Manansala heute vegan lebt oder seinen Aufruf selbst für den letzten Schritt
-in diese Richtung nutzt, ist unklar. Mit Berühmtheiten wie Belinda und Justin
-von [Crippled Black Phoenix](/2020/12/crippled-black-phoenix-interview/) und
-[Joaquin Phoenix](/2020/02/joaquin-phoenix-oscar/) wäre er in bester
-Gesellschaft. Dass er seine große Reichweite dazu nutzt, die Menschen an die
-Tierleid-freie Lebensweise zu erinnern, ist auf jeden Fall löblich.
+Ob Manansala heute vegan lebt oder seinen Aufruf selbst für den letzten Schritt in diese Richtung nutzt, ist unklar. Mit Berühmtheiten wie Belinda und Justin von [Crippled Black Phoenix](/2020/12/crippled-black-phoenix-interview/) und [Joaquin Phoenix](/2020/02/joaquin-phoenix-oscar/) wäre er in bester Gesellschaft. Dass er seine große Reichweite dazu nutzt, die Menschen an die Tierleid-freie Lebensweise zu erinnern, ist auf jeden Fall löblich.
 
-In einem weiteren Tweet bat Philip seine Fans, ihm Fotos von selbst gekochten
-veganen Gerichten zu schicken. Möglicherweise ist er selbst also auch noch auf
-der Suche nach Inspiration – dass er dabei andere motiviert finde ich großartig.
+In einem weiteren Tweet bat Philip seine Fans, ihm Fotos von selbst gekochten veganen Gerichten zu schicken. Möglicherweise ist er selbst also auch noch auf der Suche nach Inspiration – dass er dabei andere motiviert finde ich großartig.
 
- <YouTube id="WnozuHlC6AY" />
+{' '}
+<YouTube id="WnozuHlC6AY" />
 
-Bild/picture: Phil Manansala from Of Mice &amp; Men at Nova Rock 2017, Alfred
-Nitsch, Lizenz/licence: 
-[Wikimedia Commons](https://de.m.wikipedia.org/wiki/Datei:20170616-177-Nova_Rock_2017-Of_Mice_%26_Men-Phil_Manansala.jpg)
-
-  
+Bild/picture: Phil Manansala from Of Mice &amp; Men at Nova Rock 2017, Alfred Nitsch, Lizenz/licence:  [Wikimedia Commons](https://de.m.wikipedia.org/wiki/Datei:20170616-177-Nova_Rock_2017-Of_Mice_%26_Men-Phil_Manansala.jpg)

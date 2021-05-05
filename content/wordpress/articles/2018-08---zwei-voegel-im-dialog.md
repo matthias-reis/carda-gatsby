@@ -7,10 +7,8 @@ typeName: Galerie mit Bild
 title: Zwei Vögel im Dialog
 seoTitle: Zwei Vögel im Dialog - Unterhaltung auf einem Straßenschild
 ogTitle: Zwei Vögel im Dialog - Unterhaltung auf einem Straßenschild
-description: Evolution, Freiheit. Der Himmel ist blau. Intelligenz, Aufklärung.
-  Zwei Vögel sitzen auf einem Schild. Wie es weitergeht, verrate ich Euch gerne.
-excerpt: Evolution, Freiheit. Der Himmel ist blau. Intelligenz, Aufklärung. Zwei
-  Vögel sitzen auf einem Schild. Wie es weitergeht, verrate ich Euch gerne.
+description: Evolution, Freiheit. Der Himmel ist blau. Intelligenz, Aufklärung. Zwei Vögel sitzen auf einem Schild. Wie es weitergeht, verrate ich Euch gerne.
+excerpt: Evolution, Freiheit. Der Himmel ist blau. Intelligenz, Aufklärung. Zwei Vögel sitzen auf einem Schild. Wie es weitergeht, verrate ich Euch gerne.
 fileName: 2018-08---zwei-voegel-im-dialog.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_44295697011_497991bb42_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_44295697011_497991bb42_z__l.jpg
@@ -35,7 +33,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Unterhaltung auf einem Straßenschild
-  
 ---
 
 <blockquote>
@@ -56,9 +53,6 @@ Nachhaltigkeit, Konsequenz Es gibt Apfelkuchen und Kaffee
 
 </blockquote>
 
-Die beiden Gesellen auf dem Schild sind mir im Schwedischen Kalmar (Stensö)
-begegnet.
+Die beiden Gesellen auf dem Schild sind mir im Schwedischen Kalmar (Stensö) begegnet.
 
 <Gallery name="flickr/annestensoekalmarliebebirdsschild" />
-
-  

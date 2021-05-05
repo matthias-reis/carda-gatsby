@@ -7,10 +7,8 @@ typeName: Artikel
 title: Matze bloggt über den G20 Gipfel
 seoTitle: Matze bloggt über den G20 Gipfel - So haben wir den G20 Gipfel erlebt
 ogTitle: Matze bloggt über den G20 Gipfel - So haben wir den G20 Gipfel erlebt
-description: Matze hat für den Volksverpetzer einen Artikel über den G20 Gipfel
-  hier in Hamburg verfasst. Darin schildert er nicht nur unsere Erlebnisse.
-excerpt: Matze hat für den Volksverpetzer einen Artikel über den G20 Gipfel hier
-  in Hamburg verfasst. Darin schildert er nicht nur unsere Erlebnisse.
+description: Matze hat für den Volksverpetzer einen Artikel über den G20 Gipfel hier in Hamburg verfasst. Darin schildert er nicht nur unsere Erlebnisse.
+excerpt: Matze hat für den Volksverpetzer einen Artikel über den G20 Gipfel hier in Hamburg verfasst. Darin schildert er nicht nur unsere Erlebnisse.
 fileName: 2017-07---matze-bloggt-ueber-den-g20-gipfel.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-08-um-21.27.40.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-08-um-21.27.40.png__l.jpg
@@ -26,31 +24,30 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: So erlebten wir Hamburger die Krawalle
-  
 ---
 
-<RemoteImage alt={`G20 Gipfel`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_19942836_1912374132335861_9174963676286235512_o__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_19942836_1912374132335861_9174963676286235512_o__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQEDBAYIAv/EADAQAAICAQIDBQUJAAAAAAAAAAECAxEEABIFITEGBxNBgURhkZPSFCIyM0NRUnGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBf/EABoRAAIDAQEAAAAAAAAAAAAAAAABAgMEEyH/2gAMAwEAAhEDEQA/AKvw/EhmhLSpuIcjlu6V05Eadfh2OWIGOGUiwwMnWr/lpeGqz4km2J5BuNbVujQ5/gb3eepTxuSS8JIWm3iE105/o3VWfXWzNemegXk8LhbcsUbQvYqw7UPU1z/zQXOxWxshom3cqILLtJB6GvLVnkiIDEwtvosD4RFqPP8AJ6C+ugfGECZLK0Ekcl3ubkHXoCF2rXT9tSaGCOPPFDjOjRlpNxKtsjIHIdSReo7Zbbr8PGvrXgrXw1ok9yHZk+18Y+en0aZye6Ds5hQlBxDjq2CVAkVlv0j0XrqDwmZ4+3OSPuYrV5GBTeo2VkNMm1kgUXdpEqn4j+9aOg7nezWdEivn8dYqLIMiqAfcTHrs9xHZY+2cZ+en0am9NbG4zP/Z"
+<RemoteImage
+  alt={`G20 Gipfel`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_19942836_1912374132335861_9174963676286235512_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_19942836_1912374132335861_9174963676286235512_o__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQEDBAYIAv/EADAQAAICAQIDBQUJAAAAAAAAAAECAxEEABIFITEGBxNBgURhkZPSFCIyM0NRUnGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBf/EABoRAAIDAQEAAAAAAAAAAAAAAAABAgMEEyH/2gAMAwEAAhEDEQA/AKvw/EhmhLSpuIcjlu6V05Eadfh2OWIGOGUiwwMnWr/lpeGqz4km2J5BuNbVujQ5/gb3eepTxuSS8JIWm3iE105/o3VWfXWzNemegXk8LhbcsUbQvYqw7UPU1z/zQXOxWxshom3cqILLtJB6GvLVnkiIDEwtvosD4RFqPP8AJ6C+ugfGECZLK0Ekcl3ubkHXoCF2rXT9tSaGCOPPFDjOjRlpNxKtsjIHIdSReo7Zbbr8PGvrXgrXw1ok9yHZk+18Y+en0aZye6Ds5hQlBxDjq2CVAkVlv0j0XrqDwmZ4+3OSPuYrV5GBTeo2VkNMm1kgUXdpEqn4j+9aOg7nezWdEivn8dYqLIMiqAfcTHrs9xHZY+2cZ+en0am9NbG4zP/Z"
 />
 
-**Wie ich Euch schon [erzählt habe](/2017/07/nog20/), bat mich der liebe Thomas
-vom _Volksverpetzer_ um einen Beitrag zum Thema G20 Gipfel. In dem ganzen Trubel
-fiel es mir zugegebenermaßen schwer, objektiv zu bleiben, was Euch sicher in
-meinen beiden Artikeln zum Thema aufgefallen ist.**
+**Wie ich Euch schon [erzählt habe](/2017/07/nog20/), bat mich der liebe Thomas vom _Volksverpetzer_ um einen Beitrag zum Thema G20 Gipfel. In dem ganzen Trubel fiel es mir zugegebenermaßen schwer, objektiv zu bleiben, was Euch sicher in meinen beiden Artikeln zum Thema aufgefallen ist.**
 
-Nun ist es natürlich etwas Anderes, wenn ich meine emotionsgeladenen Worte hier
-in meinem persönlichen Blog oder in einem Nachrichtenmagazin veröffentliche.
-Mein Mann Matze war jetzt so nett, den Text für den Volksverpetzer zu verfassen.
-Unter dem Link findet Ihr seine ganze Geschichte zum G20 Gipfel
+Nun ist es natürlich etwas Anderes, wenn ich meine emotionsgeladenen Worte hier in meinem persönlichen Blog oder in einem Nachrichtenmagazin veröffentliche. Mein Mann Matze war jetzt so nett, den Text für den Volksverpetzer zu verfassen. Unter dem Link findet Ihr seine ganze Geschichte zum G20 Gipfel
 
 ## Der G20 Gipfel - Matzes Erlebnisse zusammengefasst
 
-<RemoteImage alt={`G20 Gipfel`} size="full" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-08-um-21.18.23.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-08-um-21.18.23.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAGCAYAAACij5zfAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB8UlEQVQokb2S2XKaABSGff+X6JLM9KZpjAtqFNlESEhUVIhbFAUtmiooaq+SrxNy075A/5kz/5mzzz8n87JZMxgMmc2mtNttXHeA3bFpPVps4wNdu8NgOOJ5MqHX66c8Hk9YrlaMhkNGo3Ha7zgum02I4zh4Mw+n36PvOAyeXIIgwPd9JpMxlvXI/nDgHW9vb2Qm4xG1moiu60iKgqZqFAsFTKOJbtyjKgod26ZWq6FqDaq3FQRB4KHVxrq7wzBMRFFCkmQs6w7TNCmXBCqVMqqmURdrWNYDrdYjdVGkVK7ya7tLD3h9fSUT/gy5yeXRNYWptyAI5jiui+8vyWezzDwPuS6mC7z5IlWg0dAQJYXp84iZN0eVZOZzH1mWcd0+0+kEx32i22lz/9DCtnvMFgsURSZch/yNzDLwKQulNKkbJrdlgcvLb5iGgaIoXGevyRUENK2B3bX5cX1DsVhAliUq5Vu+fPpMIZdF1ZuoikpdrFIqCYi1KprepFIqURclisUiV9+vyOcKXHy9oFjIE+8PZFZBgCQpVCtlpjOP1TJgvXnh9/lMHO+J45jDISGKIo7HI9vtjv0+JkkSzqcTYbjmdDqSJO+WEEfRB8cfNdFux/l8JoqjNPY+ZzwepX76A8djgmne0+922e6if+T5H/gDTLeqnr6cij8AAAAASUVORK5CYII="
+<RemoteImage
+  alt={`G20 Gipfel`}
+  size="full"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-08-um-21.18.23.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-08-um-21.18.23.png__l.jpg"
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAGCAYAAACij5zfAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB8UlEQVQokb2S2XKaABSGff+X6JLM9KZpjAtqFNlESEhUVIhbFAUtmiooaq+SrxNy075A/5kz/5mzzz8n87JZMxgMmc2mtNttXHeA3bFpPVps4wNdu8NgOOJ5MqHX66c8Hk9YrlaMhkNGo3Ha7zgum02I4zh4Mw+n36PvOAyeXIIgwPd9JpMxlvXI/nDgHW9vb2Qm4xG1moiu60iKgqZqFAsFTKOJbtyjKgod26ZWq6FqDaq3FQRB4KHVxrq7wzBMRFFCkmQs6w7TNCmXBCqVMqqmURdrWNYDrdYjdVGkVK7ya7tLD3h9fSUT/gy5yeXRNYWptyAI5jiui+8vyWezzDwPuS6mC7z5IlWg0dAQJYXp84iZN0eVZOZzH1mWcd0+0+kEx32i22lz/9DCtnvMFgsURSZch/yNzDLwKQulNKkbJrdlgcvLb5iGgaIoXGevyRUENK2B3bX5cX1DsVhAliUq5Vu+fPpMIZdF1ZuoikpdrFIqCYi1KprepFIqURclisUiV9+vyOcKXHy9oFjIE+8PZFZBgCQpVCtlpjOP1TJgvXnh9/lMHO+J45jDISGKIo7HI9vtjv0+JkkSzqcTYbjmdDqSJO+WEEfRB8cfNdFux/l8JoqjNPY+ZzwepX76A8djgmne0+922e6if+T5H/gDTLeqnr6cij8AAAAASUVORK5CYII="
 />
 
 [](http://www.mimikama.at/volksverpetzer/hamburg/)
@@ -62,5 +59,3 @@ Merken
 Merken
 
 Merken
-
-  

@@ -7,10 +7,8 @@ typeName: Galerie mit Bild
 title: Rijksmuseum Amsterdam
 seoTitle: Rijksmuseum Amsterdam - Museum und Monument
 ogTitle: Rijksmuseum Amsterdam - Museum und Monument
-description: Bei unserem Kurztrip nach Amsterdam haben wir auch das Rijksmuseum
-  besucht und uns die Klassiker von Rembrandt und Vermeer angeschaut.
-excerpt: Bei unserem Kurztrip nach Amsterdam haben wir auch das Rijksmuseum
-  besucht und uns die Klassiker von Rembrandt und Vermeer angeschaut.
+description: Bei unserem Kurztrip nach Amsterdam haben wir auch das Rijksmuseum besucht und uns die Klassiker von Rembrandt und Vermeer angeschaut.
+excerpt: Bei unserem Kurztrip nach Amsterdam haben wir auch das Rijksmuseum besucht und uns die Klassiker von Rembrandt und Vermeer angeschaut.
 fileName: 2018-03---rijksmuseum-amsterdam.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40282444201_f44c296af1_z-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40282444201_f44c296af1_z-1__l.jpg
@@ -35,29 +33,17 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Museum und Monument
-  
 ---
 
-**Bei unserem Kurztrip nach Amsterdam im Januar haben wir nicht nur moderne und
-artgenössische Kunst genossen. Im Rijksmuseum durften wir die ganz großen
-Klassiker bewundern.**
+**Bei unserem Kurztrip nach Amsterdam im Januar haben wir nicht nur moderne und artgenössische Kunst genossen. Im Rijksmuseum durften wir die ganz großen Klassiker bewundern.**
 
-Kennt Ihr das? Ihr kommt in einen Raum und werdet so von Ehrfurcht erfasst, dass
-Euch der Atem für einen Moment stockt.  Uns ging das so, als wir den Ehrensaal
-mit Rembrandts Nachtwache betraten. Trotzdem die große Halle im Lärm der
-Schulklassen fast untergeht, hat der Ort etwas Magisches an sich.
+Kennt Ihr das? Ihr kommt in einen Raum und werdet so von Ehrfurcht erfasst, dass Euch der Atem für einen Moment stockt.  Uns ging das so, als wir den Ehrensaal mit Rembrandts Nachtwache betraten. Trotzdem die große Halle im Lärm der Schulklassen fast untergeht, hat der Ort etwas Magisches an sich.
 
 ## Mehr als 3.000 Kunstwerke im Rijksmuseum
 
-Das Museum wurde zum Nationalmonument erklärt. Insgesamt werden dort über 8.000
-Kunstwerke ausgestellt. 2,2 Millionen Besucher werden jedes Jahr gezählt.
+Das Museum wurde zum Nationalmonument erklärt. Insgesamt werden dort über 8.000 Kunstwerke ausgestellt. 2,2 Millionen Besucher werden jedes Jahr gezählt.
 
-Neben den berühmten Werken von Künstlern wie Rembrandt und Vermeer beeindruckt
-auch die große Forschungs-Bibiliothek im Inneren des Gebäudes. Was ich
-persönlich Euch empfehlen kann: Geht nicht nur in die Räume mit den Klassikern,
-sondern schaut Euch auf dem Gebäudeplan um. Es gibt einiges zu Entdecken. Wir
-waren zum Beispiel besonderst begeistert von der De Stijl Sonderausstellung, die
-wir im obersten Stockwerk vorfanden.
+Neben den berühmten Werken von Künstlern wie Rembrandt und Vermeer beeindruckt auch die große Forschungs-Bibiliothek im Inneren des Gebäudes. Was ich persönlich Euch empfehlen kann: Geht nicht nur in die Räume mit den Klassikern, sondern schaut Euch auf dem Gebäudeplan um. Es gibt einiges zu Entdecken. Wir waren zum Beispiel besonderst begeistert von der De Stijl Sonderausstellung, die wir im obersten Stockwerk vorfanden.
 
 <Gallery name="flickr/annerijksmuseumamsterdam201801" />
 
@@ -68,5 +54,3 @@ wir im obersten Stockwerk vorfanden.
 1.  [Vegan Junk Food Bar Amsterdam](/2018/02/vegan-junk-food-bar-amsterdam/)
 1.  Rijksmuseum Amsterdam
 1.  [Raw Food Café Amsterdam](/2018/03/raw-food-cafe-amsterdam-zest-for-life/)
-
-  

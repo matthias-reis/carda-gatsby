@@ -7,10 +7,8 @@ typeName: Konzertbericht
 title: Isle Of Wight Festival 2012
 seoTitle: Isle Of Wight Festival - Meine Eindrücke - Bildergalerie
 ogTitle: Isle Of Wight Festival 2012 - Meine Eindrücke - Bildergalerie
-description: Heute möchte ich meine Eindrücke vom Isle Of Wight Festival mit
-  Euch teilen. Ich wünsche Euch viel Spaß mit der Bildergalerie.
-excerpt: Heute möchte ich meine Eindrücke vom Isle Of Wight Festival mit Euch
-  teilen. Ich wünsche Euch viel Spaß mit der Bildergalerie.
+description: Heute möchte ich meine Eindrücke vom Isle Of Wight Festival mit Euch teilen. Ich wünsche Euch viel Spaß mit der Bildergalerie.
+excerpt: Heute möchte ich meine Eindrücke vom Isle Of Wight Festival mit Euch teilen. Ich wünsche Euch viel Spaß mit der Bildergalerie.
 fileName: 2012-07---isle-of-wight-festival-2012.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_p1270061__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_p1270061__l.jpg
@@ -44,13 +42,199 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 4/9
-  
 ---
 
 [Teil 3/9](/2012/07/glastonbury/) Impressionen vom Isle Of Wight Festival 2012
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000534__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000534__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000527__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000527__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000520__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000520__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000512__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000512__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000507__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000507__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000496__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000496__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280121__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280121__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280120__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280120__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280119__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280119__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280117__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280117__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280110__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280110__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280108__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280108__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280105__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280105__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280091__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1280091__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270080__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270080__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270079__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270079__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270072__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270072__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270062__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270062__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270061__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270061__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270060__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1270060__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260054__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260054__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260052__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260052__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260057__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260057__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260056__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260056__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260050__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260050__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260040__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260040__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260039__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260039__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260029__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260029__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260026__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260026__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000491__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1000491__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260036__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_p1260036__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1000534__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1000534__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1000527__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1000527__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1000520__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1000520__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1000512__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1000512__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1000507__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1000507__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1000496__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1000496__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1280121__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1280121__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1280120__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1280120__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1280119__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1280119__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1280117__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1280117__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1280110__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1280110__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1280108__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1280108__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1280105__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1280105__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1280091__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1280091__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1270080__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1270080__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1270079__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1270079__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1270072__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1270072__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1270062__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1270062__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1270061__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1270061__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1270060__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1270060__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260054__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260054__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260052__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260052__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260057__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260057__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260056__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260056__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260050__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260050__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260040__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260040__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260039__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260039__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260029__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260029__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260026__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260026__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1000491__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1000491__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260036__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2012_07_p1260036__l.jpg',
+    },
+  ]}
 />
 
 Hier geht's zu [_Teil 5/9_](/2012/07/schnappschuss/)  der Galerie "England 2012"
@@ -69,30 +253,21 @@ Hier geht's zu [_Teil 5/9_](/2012/07/schnappschuss/)  der Galerie "England 2012
 
 ## Song zu den Fotos: Pearl Jam - Yellow Ledbetter
 
- <YouTube id="THgFV_kdhH4" />
+{' '}
+<YouTube id="THgFV_kdhH4" />
 
-Unsealed, on a porch a letter sat Then you said, "I wanna leave it again" Once I
-saw her on a beach of weathered sand And on the sand I wanna leave her again
+Unsealed, on a porch a letter sat Then you said, "I wanna leave it again" Once I saw her on a beach of weathered sand And on the sand I wanna leave her again
 
-On a weekend I wanna wish it all away, yeah And they called and I said that I'll
-go And I said that I'll call out again And the reason I ought ta leave her calm,
-I know I said, "I don't know whether I'm the boxer or the bag"
+On a weekend I wanna wish it all away, yeah And they called and I said that I'll go And I said that I'll call out again And the reason I ought ta leave her calm, I know I said, "I don't know whether I'm the boxer or the bag"
 
-Oh yeah, can you see them, out on the porch? Yeah, but they don't wave I see
-them 'round the front way, yeah And I know, and I know I don't wanna stay
+Oh yeah, can you see them, out on the porch? Yeah, but they don't wave I see them 'round the front way, yeah And I know, and I know I don't wanna stay
 
 Make me cry
 
-I see oh, I don't know why there's something else I want to, wanna drum it all
-away I said, "I don't, I don't know whether I was the boxer or the bag"
+I see oh, I don't know why there's something else I want to, wanna drum it all away I said, "I don't, I don't know whether I was the boxer or the bag"
 
-Oh yeah, can you see them, out the on porch? Yeah, but they don't wave I see
-them 'round the front way And I know, and I know I don't want to stay at all I
-don't want to stay I don't want to stay I don't want to stay I don't, I don't
-want to stay
+Oh yeah, can you see them, out the on porch? Yeah, but they don't wave I see them 'round the front way And I know, and I know I don't want to stay at all I don't want to stay I don't want to stay I don't want to stay I don't, I don't want to stay
 
 ♥
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken](/2015/03/die-ultimative-vegane-festivalliste)
-
-  

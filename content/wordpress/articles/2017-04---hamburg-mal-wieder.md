@@ -7,12 +7,8 @@ typeName: Galerie
 title: Hamburg mal wieder
 seoTitle: Hamburg mal wieder - Bilderserie mit Elbe, Sonne und Wolken
 ogTitle: Hamburg mal wieder - Bilderserie mit Elbe, Sonne und Wolken
-description: Einen wunderschönen Rundgang haben wir vor ein paar Tagen gemacht.
-  Dabei habe ich einige Bilder gemacht und ein cooles Zeitraffervideo
-  aufgenommen.
-excerpt: Einen wunderschönen Rundgang haben wir vor ein paar Tagen gemacht.
-  Dabei habe ich einige Bilder gemacht und ein cooles Zeitraffervideo
-  aufgenommen.
+description: Einen wunderschönen Rundgang haben wir vor ein paar Tagen gemacht. Dabei habe ich einige Bilder gemacht und ein cooles Zeitraffervideo aufgenommen.
+excerpt: Einen wunderschönen Rundgang haben wir vor ein paar Tagen gemacht. Dabei habe ich einige Bilder gemacht und ein cooles Zeitraffervideo aufgenommen.
 fileName: 2017-04---hamburg-mal-wieder.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33304145263_9a620a4d5e_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33304145263_9a620a4d5e_k__l.jpg
@@ -36,17 +32,11 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Elbe, Sonne und Wolken
-  
 ---
 
-**Am Sonntag habe ich einen schönen Spaziergang unternommen. Ich bin in
-[Altona](/2017/04/bilder-aus-der-hood/) losgegangen und haben einfach mal wieder
-den Blick über die schöne
-[Elbe](/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/)
-schweifen lassen.**
+**Am Sonntag habe ich einen schönen Spaziergang unternommen. Ich bin in [Altona](/2017/04/bilder-aus-der-hood/) losgegangen und haben einfach mal wieder den Blick über die schöne [Elbe](/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/) schweifen lassen.**
 
-Meine [kleine Kamera](/2017/04/vergaenglichkeit-des-augenblicks/) war auch
-dabei. Das hier hat sie festgehalten.
+Meine [kleine Kamera](/2017/04/vergaenglichkeit-des-augenblicks/) war auch dabei. Das hier hat sie festgehalten.
 
 <Gallery name="flickr/hamburgmalwieder" />
 
@@ -57,5 +47,3 @@ dabei. Das hier hat sie festgehalten.
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken](/2015/03/die-ultimative-vegane-festivalliste)
 
 &nbsp;
-
-  

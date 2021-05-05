@@ -8,9 +8,7 @@ title: Calexico live @ Muffathalle München 16.10.2008
 seoTitle: Calexico live @ Muffathalle
 ogTitle: Calexico live @ Muffathalle
 description: Hier sind meine Eindrücke vom Calexico-Konzert in der Muffathalle
-excerpt: Anlässlich der neuen Platte und des tollen Konzerts gestern in der
-  Großen Freiheit, gibt es heute von mir gleich drei Nostalgie-Konzert-Beiträge
-  von mir.
+excerpt: Anlässlich der neuen Platte und des tollen Konzerts gestern in der Großen Freiheit, gibt es heute von mir gleich drei Nostalgie-Konzert-Beiträge von mir.
 fileName: 2015-04---calexico-live-muffathalle-muenchen-16-10-2008.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_04_9824862435_da081e1709_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_04_9824862435_da081e1709_z__l.jpg
@@ -25,18 +23,11 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Bildergalerie
-  
 ---
 
-**Anlässlich der [neuen Platte](/2015/04/calexico-edge-of-the-sun-ist-da/) und
-des tollen Konzerts gestern in der Großen Freiheit, gibt es heute von mir gleich
-drei Nostalgie-Konzert-Beiträge von mir. Hier ist Beitrag Nummer 2 für Euch, zum
-ersten geht es
-[hier entlang](/2015/04/calexico-live-open-air-dachau-25-07-2007/), zum dritten
-[hier entlang](/2015/04/calexico-live-southside-festival-2008/). **
+**Anlässlich der [neuen Platte](/2015/04/calexico-edge-of-the-sun-ist-da/) und des tollen Konzerts gestern in der Großen Freiheit, gibt es heute von mir gleich drei Nostalgie-Konzert-Beiträge von mir. Hier ist Beitrag Nummer 2 für Euch, zum ersten geht es [hier entlang](/2015/04/calexico-live-open-air-dachau-25-07-2007/), zum dritten [hier entlang](/2015/04/calexico-live-southside-festival-2008/). **
 
-Gezeigt werden die Fotos von dem wundervollen Calexico-Auftritt in der
-Muffathalle 2008.
+Gezeigt werden die Fotos von dem wundervollen Calexico-Auftritt in der Muffathalle 2008.
 
 <Gallery name="flickr/calexicomuffat2008" />
 
@@ -44,8 +35,7 @@ Muffathalle 2008.
 
 1.  [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
 1.  [live @ Southside Festival Neuhausen ob Eck Juni 2008](/2015/04/calexico-live-southside-festival-2008/)
-1.  live @ Muffathalle München 16.10.20
-    [08](/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/)
+1.  live @ Muffathalle München 16.10.20 [08](/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/)
 1.  [live @ Roxy Ulm 27.01.2009](/2009/01/calexico-live-roxy-ulm/)
 1.  [live @ Muffathalle München 8.07.2009](/2009/07/calexico-live-muffathalle-munchen/)
 1.  [stellen neue Single "Splitter" vor 31.07.2012](/2012/07/calexico-stellen-neue-singe-splitter-vor/)
@@ -58,5 +48,3 @@ Muffathalle 2008.
 [Homepage](http://www.casadecalexico.com) Calexico
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
-
-  

@@ -25,9 +25,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Gesehen in England 2009
-  
 ---
 
 &nbsp;
-
-  

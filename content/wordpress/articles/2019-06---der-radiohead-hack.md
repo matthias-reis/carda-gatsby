@@ -7,13 +7,8 @@ typeName: Artikel
 title: Der Radiohead Hack
 seoTitle: Der Radiohead Hack - unveröffentlichtes OK Computer Material gestohlen
 ogTitle: Der Radiohead Hack - unveröffentlichtes OK Computer Material gestohlen
-description: Nachdem ein Hacker der Band Radiohead unveröffentlichte Aufnahmen
-  gestohlen hatte, entschied sich die Band die 18 Stunden Material zu
-  veröffentlichen.
-excerpt: Nachdem ein Hacker der Band Radiohead unveröffentlichte Aufnahmen aus
-  der "OK Computer" Zeit gestohlen hatte, entschieden sich Thom Yorke und seine
-  Crew kurzerhand die insgesamt 18 Stunden Material öffentlich zur Verfügung zu
-  stellen.
+description: Nachdem ein Hacker der Band Radiohead unveröffentlichte Aufnahmen gestohlen hatte, entschied sich die Band die 18 Stunden Material zu veröffentlichen.
+excerpt: Nachdem ein Hacker der Band Radiohead unveröffentlichte Aufnahmen aus der "OK Computer" Zeit gestohlen hatte, entschieden sich Thom Yorke und seine Crew kurzerhand die insgesamt 18 Stunden Material öffentlich zur Verfügung zu stellen.
 fileName: 2019-06---der-radiohead-hack.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_Radiohead.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_Radiohead.png__l.jpg
@@ -34,81 +29,57 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"OK Computer" Material gestohlen'
-  
 ---
 
-**Nachdem ein Hacker der Band Radiohead unveröffentlichte Aufnahmen aus der "OK
-Computer" Zeit gestohlen hatte, entschieden sich Thom Yorke und seine Crew
-kurzerhand die insgesamt 18 Stunden Material öffentlich zur Verfügung zu
-stellen.**
+**Nachdem ein Hacker der Band Radiohead unveröffentlichte Aufnahmen aus der "OK Computer" Zeit gestohlen hatte, entschieden sich Thom Yorke und seine Crew kurzerhand die insgesamt 18 Stunden Material öffentlich zur Verfügung zu stellen.**
 
-"I'll laugh until my head comes off"  - was für jeden frei zugänglich ist, ist
-für Erpresser wertlos. Die Fans sind happy und Radiohead lachen sich ins
-Fäustchen. Miese Karmapunkte für den Musikräuber.
+"I'll laugh until my head comes off"  - was für jeden frei zugänglich ist, ist für Erpresser wertlos. Die Fans sind happy und Radiohead lachen sich ins Fäustchen. Miese Karmapunkte für den Musikräuber.
 
 ## Radiohead haben den Spieß einfach umgedreht
 
-150.000 Pfund verlangte der Dieb für die 18 Stunden, die ursprünglich auf 18
-Minidiscs aufgenommen worden waren. Das schrieb Gitarrist Jonny Greenwood auf
-Twitter.
+150.000 Pfund verlangte der Dieb für die 18 Stunden, die ursprünglich auf 18 Minidiscs aufgenommen worden waren. Das schrieb Gitarrist Jonny Greenwood auf Twitter.
 
-<RemoteImage alt={`radiohead`} size="full" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Bildschirmfoto-2019-06-17-um-10.19.50.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Bildschirmfoto-2019-06-17-um-10.19.50.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAXCAYAAABqBU3hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEq0lEQVRIibWWSY+bSBTH+2vm2+Qw98whc0oUKSPNHHJJLnNINJpJerW7G4NtsMFgg8FgvNss3u3fqMq9pJVLqzvzpAdV8Kj6v/9biiMeJTv2uy3b7fMV9jdr7tnv9xyJ4cnJCa9eveLTp090gjaaqmLoVWq1Cp7nUgn4abLZ7vnlrco0Wcr5kbi8efOGFy9e8PLlS/y2y5cvf1MsFvl2/A+F4hXX9uKAebdj90gV3j6c76TX6/WWX//QSfPVPYDz8wtev/6Nz58/35BzL6v1lv3uYPyzZbe7CcF4NCAMfXq9mLDbJQzaeG338CyOiMIOfuCzWi3x3Cae1yIIfIIgkHb9wYBmq0kcdej2YoKOh1k3GIyG+L6L5zUZDvs0mzZZnh9Csdne50AYBmjqNbpeQVEV9GoJRbnEsmpcXhU5O/tGSVVwbJNi8ZxKRZM2qlbi6rqIZdW5KJ5hmnW0colyWeH09CtK6YrzQoGz82MKl4d7FIU33u/uAbRch+uSgtN05GKOY2IYZRoNkyAMiOMuw9GQhmXSbFqE3ZAo9PGDgFbLxnEa8rsgDHGaNq7n4tgWraZD3BviBx6+36bTCSQAsbGgf3cLoNfv0WjUCaOIyWQk6RTe60aVKO7+T/H/joG4G8nNJXLHYjga0O8PaPuBBNOwqlT1KpPpjLbn0nRbzOcZURhKzz3XplavMxiNMOtVLLOGKcN3gVpW0TSFRsPCqBnM53MJQFTJHQCxgKGXsJsWqnqJpl6hV1U0MdaucJomaqmA6zXRqxrFyzMqelnqReGUs7Njjk++ypzo9/vkWUqSzOj1ejJ0UTciSRLSNJWeSwDfM+D5ISVNJwi7WLZLuWpS0gxqpoVhNmi0QsyGg9PyaQchVd2U8Y97MdPpWDaruNclDDuPol9s/ADAaLqg7owYTZZ4nRmtYEYQZfhRTifOaXdS/CglCFPaUco0PXjxXLkDkCYTwsAm6LTphi6d0MOxdeI4IGhb2FaZQd9nELsEbVvGvaxeUa5WZAWIsitrCiVRyjWdZsumUlEx6jqqpsixyIOSWsIyDQqFU/L5obseiUtVr3By8hXD0GVdq5rGaNinoNgo5RblikVBaXB53aBmByxXK9brFWmWkuc5STpjtVySz+dkWcpqtSLPMxaLubTJsozFPGeWJPL9dDaVIeCWAWmYzGRmi5imaSbRZfmafL5FtPFZtibuZyT5+qfQfxeC9WbDZJYymQpkGbMkZzJN6A/GDEdjxuMx/cGQyWTMaDxmuVwySzKms/RZKvYQFSEZqNUtrpQy5UodRdPlXS3XuFZ11EqNa6WCIWxKVcaTlCQVdGbP0JzxNLlPwuN/j3n39nc+/PmBjx//4v279xh1R56Ky+Wa1XrDcrWR4/TZmx/0DsBmsyWbL6VXSZbL7JxOk8M8FVQndx8J6sRdPBfv06dqNpdryRDcdqanJtFTVPxxPDgLhsMxjYZNu+1Rq9Xk4lXDpBOIY1pjs9lI5KK1uq4rVZxkz5E7APv9XtKeZbmsbVGzQgT1m/WaJEnlfLVay/peLJcsFguZH09lQLbi28PoQMmP6B7Ob6l7aCOayWP/EX/4Z7xh4D/W2uL7F/YrswAAAABJRU5ErkJggg=="
+<RemoteImage
+  alt={`radiohead`}
+  size="full"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Bildschirmfoto-2019-06-17-um-10.19.50.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Bildschirmfoto-2019-06-17-um-10.19.50.png__l.jpg"
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAXCAYAAABqBU3hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEq0lEQVRIibWWSY+bSBTH+2vm2+Qw98whc0oUKSPNHHJJLnNINJpJerW7G4NtsMFgg8FgvNss3u3fqMq9pJVLqzvzpAdV8Kj6v/9biiMeJTv2uy3b7fMV9jdr7tnv9xyJ4cnJCa9eveLTp090gjaaqmLoVWq1Cp7nUgn4abLZ7vnlrco0Wcr5kbi8efOGFy9e8PLlS/y2y5cvf1MsFvl2/A+F4hXX9uKAebdj90gV3j6c76TX6/WWX//QSfPVPYDz8wtev/6Nz58/35BzL6v1lv3uYPyzZbe7CcF4NCAMfXq9mLDbJQzaeG338CyOiMIOfuCzWi3x3Cae1yIIfIIgkHb9wYBmq0kcdej2YoKOh1k3GIyG+L6L5zUZDvs0mzZZnh9Csdne50AYBmjqNbpeQVEV9GoJRbnEsmpcXhU5O/tGSVVwbJNi8ZxKRZM2qlbi6rqIZdW5KJ5hmnW0colyWeH09CtK6YrzQoGz82MKl4d7FIU33u/uAbRch+uSgtN05GKOY2IYZRoNkyAMiOMuw9GQhmXSbFqE3ZAo9PGDgFbLxnEa8rsgDHGaNq7n4tgWraZD3BviBx6+36bTCSQAsbGgf3cLoNfv0WjUCaOIyWQk6RTe60aVKO7+T/H/joG4G8nNJXLHYjga0O8PaPuBBNOwqlT1KpPpjLbn0nRbzOcZURhKzz3XplavMxiNMOtVLLOGKcN3gVpW0TSFRsPCqBnM53MJQFTJHQCxgKGXsJsWqnqJpl6hV1U0MdaucJomaqmA6zXRqxrFyzMqelnqReGUs7Njjk++ypzo9/vkWUqSzOj1ejJ0UTciSRLSNJWeSwDfM+D5ISVNJwi7WLZLuWpS0gxqpoVhNmi0QsyGg9PyaQchVd2U8Y97MdPpWDaruNclDDuPol9s/ADAaLqg7owYTZZ4nRmtYEYQZfhRTifOaXdS/CglCFPaUco0PXjxXLkDkCYTwsAm6LTphi6d0MOxdeI4IGhb2FaZQd9nELsEbVvGvaxeUa5WZAWIsitrCiVRyjWdZsumUlEx6jqqpsixyIOSWsIyDQqFU/L5obseiUtVr3By8hXD0GVdq5rGaNinoNgo5RblikVBaXB53aBmByxXK9brFWmWkuc5STpjtVySz+dkWcpqtSLPMxaLubTJsozFPGeWJPL9dDaVIeCWAWmYzGRmi5imaSbRZfmafL5FtPFZtibuZyT5+qfQfxeC9WbDZJYymQpkGbMkZzJN6A/GDEdjxuMx/cGQyWTMaDxmuVwySzKms/RZKvYQFSEZqNUtrpQy5UodRdPlXS3XuFZ11EqNa6WCIWxKVcaTlCQVdGbP0JzxNLlPwuN/j3n39nc+/PmBjx//4v279xh1R56Ky+Wa1XrDcrWR4/TZmx/0DsBmsyWbL6VXSZbL7JxOk8M8FVQndx8J6sRdPBfv06dqNpdryRDcdqanJtFTVPxxPDgLhsMxjYZNu+1Rq9Xk4lXDpBOIY1pjs9lI5KK1uq4rVZxkz5E7APv9XtKeZbmsbVGzQgT1m/WaJEnlfLVay/peLJcsFguZH09lQLbi28PoQMmP6B7Ob6l7aCOayWP/EX/4Z7xh4D/W2uL7F/YrswAAAABJRU5ErkJggg=="
 />
 
 Anstatt zu zahlen, veröffentlichten Radiohead die Aufnahmen online.
 
-> "Wir wollen nicht viel erklären oder versuchen, es einfach zu ignorieren.
-> Darum haben wir das Material einfach bei Bandcamp bereitgestellt. Für 18 Pfund
-> kann jetzt auf Bandcamp jede\*r herausfinden, ob es sich gelohnt hätte, die
-> 150.000 Pfund zu berappen."
+> "Wir wollen nicht viel erklären oder versuchen, es einfach zu ignorieren. Darum haben wir das Material einfach bei Bandcamp bereitgestellt. Für 18 Pfund kann jetzt auf Bandcamp jede\*r herausfinden, ob es sich gelohnt hätte, die 150.000 Pfund zu berappen."
 
-heißt es in seinem Tweet. Online kann man die Songs auch ohne zu zahlen anhören.
-Herunterladen und sein Eigen nennen kann man sie dann für den genannten Betrag.
+heißt es in seinem Tweet. Online kann man die Songs auch ohne zu zahlen anhören. Herunterladen und sein Eigen nennen kann man sie dann für den genannten Betrag.
 
 ## Was steckt drin?
 
-<RemoteImage alt={`radiohead`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_radiohead-minidiscs__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_radiohead-minidiscs__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIAwT/xAAyEAACAQIEBAIHCQAAAAAAAAABAgMEBQAREiEGBzFBEyIIFBUyQlFhFyRDUnKBorHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQEBAQEBAAAAAAAAAAAAAAAAEQECEv/aAAwDAQACEQMRAD8ADeVHJG28ccK0V3qbtX0hndo2WKnR0Uq2R8xcHuD0wBT8B3GKqli9i3cqkjIH9UmyYBiAdl75YfnINtHK21aXYOZ6g9AQN1/ffPt8sMukqJqo6IBS6DkHAIJAHcjVn3+WD1DEaScE16MQbLdSFO/3Wbb+OOe58LS2+ilnrbZcaRAr6HqIXjVmCkgAsoBO3TFp3AJLOwILwxtpKnYg/EBqH0X6HCx9JKZW5e0UUSvGiVjAKTtl6vL0xVDXkGrfZdaD4mQMtSNJAI95R/WGZSR0sU6yamMmrSje6Av5Tv5h9T12+WJL4R5tXbhfh2ltFskoRTQkvlPRl2DN73mDDMZ4IRzyuT6Gllt3iDIkrQMN8v14neTVKVxSephaMCTNQVIbPVntkO3bCo9JEzDgej8WLSpqmIPhhfwJv9GAifnrcZVzaa3mQAaSbe2W3T48CfGXNK58W2Zbdd3ojBEzyxinpTG2soyjcsdvMcOYH//Z"
+<RemoteImage
+  alt={`radiohead`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_radiohead-minidiscs__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_radiohead-minidiscs__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIAwT/xAAyEAACAQIEBAIHCQAAAAAAAAABAgMEBQAREiEGBzFBEyIIFBUyQlFhFyRDUnKBorHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQEBAQEBAAAAAAAAAAAAAAAAEQECEv/aAAwDAQACEQMRAD8ADeVHJG28ccK0V3qbtX0hndo2WKnR0Uq2R8xcHuD0wBT8B3GKqli9i3cqkjIH9UmyYBiAdl75YfnINtHK21aXYOZ6g9AQN1/ffPt8sMukqJqo6IBS6DkHAIJAHcjVn3+WD1DEaScE16MQbLdSFO/3Wbb+OOe58LS2+ilnrbZcaRAr6HqIXjVmCkgAsoBO3TFp3AJLOwILwxtpKnYg/EBqH0X6HCx9JKZW5e0UUSvGiVjAKTtl6vL0xVDXkGrfZdaD4mQMtSNJAI95R/WGZSR0sU6yamMmrSje6Av5Tv5h9T12+WJL4R5tXbhfh2ltFskoRTQkvlPRl2DN73mDDMZ4IRzyuT6Gllt3iDIkrQMN8v14neTVKVxSephaMCTNQVIbPVntkO3bCo9JEzDgej8WLSpqmIPhhfwJv9GAifnrcZVzaa3mQAaSbe2W3T48CfGXNK58W2Zbdd3ojBEzyxinpTG2soyjcsdvMcOYH//Z"
 />
 
-Mit dabei sind unter anderem frühe Aufnahmen der Songs "Airbag", "The Tourist",
-"Paranoid Android" "Palo Alto" und "Let Down". Interessant sind die Aufnahmen
-allemal. Als eingefleischter Fan muss ich sie mir natürlich anhören. Das auch zu
-tun, oder sie sogar zu kaufen, bleibt jedem\*r selbst überlassen.
+Mit dabei sind unter anderem frühe Aufnahmen der Songs "Airbag", "The Tourist", "Paranoid Android" "Palo Alto" und "Let Down". Interessant sind die Aufnahmen allemal. Als eingefleischter Fan muss ich sie mir natürlich anhören. Das auch zu tun, oder sie sogar zu kaufen, bleibt jedem\*r selbst überlassen.
 
 ## "Creep" und James Bond
 
-Es ist auf jeden Fall mehr drauf, als nur Proberaum-Rauschen oder einzelne
-Studio-Takes. Besonders spannend ist zum Beispiel die enthaltene Version von
-"Lift", die stark an die offizielle Variante von "Creep" erinnert. Außerdem
-findet man Ausschnitte verschiedener Bond-Themes darauf.
+Es ist auf jeden Fall mehr drauf, als nur Proberaum-Rauschen oder einzelne Studio-Takes. Besonders spannend ist zum Beispiel die enthaltene Version von "Lift", die stark an die offizielle Variante von "Creep" erinnert. Außerdem findet man Ausschnitte verschiedener Bond-Themes darauf.
 
-Den Move der Band, den Hacker prompt mit seinen eigenen Waffen zu schlagen,
-finde ich genial. Dafür haben Thom Yorke, Jonny Greenwood, Ed O’Brien, Phil
-Selway und Colin Greenwood auf jeden Fall Applaus verdient. 18 Pfund (20,20
-Euro) dafür zu verlangen, geht vollkommen in Ordnung. Ich freue mich und höre
-jetzt erstmal in aller Ruhe "Karma Police".
+Den Move der Band, den Hacker prompt mit seinen eigenen Waffen zu schlagen, finde ich genial. Dafür haben Thom Yorke, Jonny Greenwood, Ed O’Brien, Phil Selway und Colin Greenwood auf jeden Fall Applaus verdient. 18 Pfund (20,20 Euro) dafür zu verlangen, geht vollkommen in Ordnung. Ich freue mich und höre jetzt erstmal in aller Ruhe "Karma Police".
 
 ## Nachtrag vom 3. Dezember 2019
 
-Am 11. Juni stellte Radiohead die Aufnahmen für 18 Tage
-[bei Bandcamp](https://web.archive.org/web/20190612183113/https://radiohead.bandcamp.com/)
-zum Streaming oder Kauf zur Verfügung, der Erlös ging an die Umweltgruppe
-Extinction Rebellion. Inzwischen gibt es sogar
-[einen Wikipedia Eintrag zu dem Vorfall](<https://en.wikipedia.org/wiki/MiniDiscs_(Hacked)>).
+Am 11. Juni stellte Radiohead die Aufnahmen für 18 Tage [bei Bandcamp](https://web.archive.org/web/20190612183113/https://radiohead.bandcamp.com/) zum Streaming oder Kauf zur Verfügung, der Erlös ging an die Umweltgruppe Extinction Rebellion. Inzwischen gibt es sogar [einen Wikipedia Eintrag zu dem Vorfall](<https://en.wikipedia.org/wiki/MiniDiscs_(Hacked)>).
 
-[Hier findet Ihr die Aufnahmen bei Discogs](https://www.discogs.com/release/13747135).
-Viel Spaß beim Anhören. Übrigens hat Thom Yorke ein neues Soloalbum angekündigt.
-Stay tuned!
+[Hier findet Ihr die Aufnahmen bei Discogs](https://www.discogs.com/release/13747135). Viel Spaß beim Anhören. Übrigens hat Thom Yorke ein neues Soloalbum angekündigt. Stay tuned!
 
 ### Quellen:
 
 [Jonny Greenwood, Twitter](https://twitter.com/JnnyG)  
 [Rolling Stone](https://www.stern.de/neon/feierabend/radiohead-werden-nach-computer-hack-erpresst----und-reagieren-genial-8749656.html)
-
-  

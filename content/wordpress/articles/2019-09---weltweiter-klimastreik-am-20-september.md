@@ -7,12 +7,8 @@ typeName: Reminder
 title: Weltweiter Klimastreik am 20. September
 seoTitle: Weltweiter Klimastreik am 20.09. - mit Fridaysforfuture auf die Straße
 ogTitle: Weltweiter Klimastreik am 20.09. - mit Fridaysforfuture auf die Straße
-description: "Morgen um 12 Uhr geht es los: Überall auf der Welt treffen ich
-  Klima-Aktivist*innen, um mit den Jugendlichen von Fridaysforfuture zu
-  streiken. Kommt mit!"
-excerpt: "Morgen um 12 Uhr geht es los: Überall auf der Welt treffen ich
-  Klima-Aktivist*innen, um mit den Jugendlichen von Fridaysforfuture zu
-  streiken. Kommt mit!"
+description: 'Morgen um 12 Uhr geht es los: Überall auf der Welt treffen ich Klima-Aktivist*innen, um mit den Jugendlichen von Fridaysforfuture zu streiken. Kommt mit!'
+excerpt: 'Morgen um 12 Uhr geht es los: Überall auf der Welt treffen ich Klima-Aktivist*innen, um mit den Jugendlichen von Fridaysforfuture zu streiken. Kommt mit!'
 fileName: 2019-09---weltweiter-klimastreik-am-20-september.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_Klimastreik_Webbanner_1024x512__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_Klimastreik_Webbanner_1024x512__l.jpg
@@ -36,46 +32,30 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Mit Fridaysforfuture auf die Straße
-  
 ---
 
-**Morgen um 12 Uhr geht es los: Überall auf der Welt treffen sich
-Klima-Aktivist\*innen, um mit den Jugendlichen von Fridaysforfuture zu
-streiken.**
+**Morgen um 12 Uhr geht es los: Überall auf der Welt treffen sich Klima-Aktivist\*innen, um mit den Jugendlichen von Fridaysforfuture zu streiken.**
 
-Beim letzten weltweiten Streik waren allein in Hamburg 25.000 Menschen auf der
-Straße. Weltweit waren es mehr als 1,6 Millionen.
+Beim letzten weltweiten Streik waren allein in Hamburg 25.000 Menschen auf der Straße. Weltweit waren es mehr als 1,6 Millionen.
 
-<RemoteImage alt={`klimastreik`} size="medium"
-title={`Klimastreik am 20. September. Grafik: Tierrechtsaktivistenbündnis Hamburg`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_trab-klimastreik__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_trab-klimastreik__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAARACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAEEBQYD/8QAKRAAAgEDBAEDAwUAAAAAAAAAAQIDAAQRBQYhMUESE0IUMnIWImGBwf/EABkBAAIDAQAAAAAAAAAAAAAAAAIFAAMEBv/EAB4RAAEDBAMAAAAAAAAAAAAAAAABAxECEkHRIZGh/9oADAMBAAIRAxEAPwC43RuKe3uGt7RnTPqVAh9JOMguW5IGQcAY6JPgUts7wkXUtPs76ATrekxe5Phwj8enHy5JwQSfBHms9urRL623DOzxtNYXTM8UrtlEB5KEngYPQP8AGKnbV0Frq5sbm5dz9HOsxKfZleSMnsk4AA6wST4o73FdjmZOWlcGu/UV+ZGA0rTQFLd28uSB155Ndo9eupp4IDp1gglYLI6wSKUBA5BzgHvvzTfYmuyufb1LTU9QMin2TkKWJAOV7/cB/VFtszXLeSC8n1LT3jiVZXQIVdlHJ+PeCR/tXJXVOfNjOppmFi7pNltD1L+NE/UX4UUVvwLCKfup/KiioCf/2Q=="
+<RemoteImage
+  alt={`klimastreik`}
+  size="medium"
+  title={`Klimastreik am 20. September. Grafik: Tierrechtsaktivistenbündnis Hamburg`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_trab-klimastreik__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_trab-klimastreik__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAARACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAEEBQYD/8QAKRAAAgEDBAEDAwUAAAAAAAAAAQIDAAQRBQYhMUESE0IUMnIWImGBwf/EABkBAAIDAQAAAAAAAAAAAAAAAAIFAAMEBv/EAB4RAAEDBAMAAAAAAAAAAAAAAAABAxECEkHRIZGh/9oADAMBAAIRAxEAPwC43RuKe3uGt7RnTPqVAh9JOMguW5IGQcAY6JPgUts7wkXUtPs76ATrekxe5Phwj8enHy5JwQSfBHms9urRL623DOzxtNYXTM8UrtlEB5KEngYPQP8AGKnbV0Frq5sbm5dz9HOsxKfZleSMnsk4AA6wST4o73FdjmZOWlcGu/UV+ZGA0rTQFLd28uSB155Ndo9eupp4IDp1gglYLI6wSKUBA5BzgHvvzTfYmuyufb1LTU9QMin2TkKWJAOV7/cB/VFtszXLeSC8n1LT3jiVZXQIVdlHJ+PeCR/tXJXVOfNjOppmFi7pNltD1L+NE/UX4UUVvwLCKfup/KiioCf/2Q=="
 />
 
-Auch wir sind mit dem veganen Block morgen mit dabei und sind laut für das
-Klima, für die Tiere, für die Umwelt und für die Zukunft. Kommt auch Ihr vorbei
-und stellt Euch der Maschinerie in den Weg, die auch im Angesicht des
-fortschreitenden Klimawandels immer noch weitermacht, wie bisher.
+Auch wir sind mit dem veganen Block morgen mit dabei und sind laut für das Klima, für die Tiere, für die Umwelt und für die Zukunft. Kommt auch Ihr vorbei und stellt Euch der Maschinerie in den Weg, die auch im Angesicht des fortschreitenden Klimawandels immer noch weitermacht, wie bisher.
 
 ## Klimastreik - wir sind laut für die Zukunft!
 
-Es wird Zeit, dem Treiben ein Ende zu setzen. Wir dürfen nicht länger dabei
-zusehen, wie [der Regenwald brennt](/2019/08/feuer-im-regenwald-amazonas/) und
-das ewige Eis taut. Nur, wenn wir den Politiker\*innen laut mitteilen, wie
-wichtig uns die Erde und die Zukunft unserer Nachfahren ist, wird sich etwas
-ändern!
+Es wird Zeit, dem Treiben ein Ende zu setzen. Wir dürfen nicht länger dabei zusehen, wie [der Regenwald brennt](/2019/08/feuer-im-regenwald-amazonas/) und das ewige Eis taut. Nur, wenn wir den Politiker\*innen laut mitteilen, wie wichtig uns die Erde und die Zukunft unserer Nachfahren ist, wird sich etwas ändern!
 
-Neben Fridaysforfuture Hamburg sind in Hamburg auch das
-[Tierrechtsaktivistenbündnis](/2019/08/animal-rights-march-2019/) und das PETA
-Street Team sowie zahlreiche NGOs dabei. Auch die Gewerkschaft Verdi hat
-inzwischen zur Teilnahme aufgerufen. Infos findet Ihr auf Facebook, unter
-[klima-streik.org](http://www.klima-streik.org/) und in den Nachrichten. Die
-Flyer und Plakate, die in den letzten Tagen verteilt wurden, dürften außerdem
-auch nicht übersehbar sein.
+Neben Fridaysforfuture Hamburg sind in Hamburg auch das [Tierrechtsaktivistenbündnis](/2019/08/animal-rights-march-2019/) und das PETA Street Team sowie zahlreiche NGOs dabei. Auch die Gewerkschaft Verdi hat inzwischen zur Teilnahme aufgerufen. Infos findet Ihr auf Facebook, unter [klima-streik.org](http://www.klima-streik.org/) und in den Nachrichten. Die Flyer und Plakate, die in den letzten Tagen verteilt wurden, dürften außerdem auch nicht übersehbar sein.
 
 In diesem Sinne: Bis morgen!
 
- <YouTube id="IB5RyvdRAcU" />
-
-  
+{' '}
+<YouTube id="IB5RyvdRAcU" />

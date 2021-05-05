@@ -7,12 +7,8 @@ typeName: Artikel
 title: Schweigeminute für die Opfer in Norwegen
 seoTitle: Schweigeminute für die Opfer in Norwegen
 ogTitle: Schweigeminute für die Opfer in Norwegen
-description: Heute werde ich bewusst keinen Text und keinen Song einstellen. Ich
-  möchte nur jeden, der vorbeikommt, darum bitten, eine kurze Schweigeminute
-  einzulegen.
-excerpt: Heute werde ich bewusst keinen Text und keinen Song einstellen. Ich
-  möchte nur jeden, der vorbeikommt, darum bitten, eine kurze Schweigeminute
-  einzulegen.
+description: Heute werde ich bewusst keinen Text und keinen Song einstellen. Ich möchte nur jeden, der vorbeikommt, darum bitten, eine kurze Schweigeminute einzulegen.
+excerpt: Heute werde ich bewusst keinen Text und keinen Song einstellen. Ich möchte nur jeden, der vorbeikommt, darum bitten, eine kurze Schweigeminute einzulegen.
 fileName: 2011-07---schweigeminute-fuer-die-opfer-in-norwegen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_07_img_0036i__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_07_img_0036i__l.jpg
@@ -79,12 +75,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: In stillem Gedenken
-  
 ---
 
-**Heute werde ich bewusst keinen Text und keinen Song einstellen. Ich möchte nur
-jeden, der auf dieser Seite vorbeikommt, darum bitten, eine kurze Schweigeminute
-für die Opfer der Attentate in Norwegen einzulegen.**
+**Heute werde ich bewusst keinen Text und keinen Song einstellen. Ich möchte nur jeden, der auf dieser Seite vorbeikommt, darum bitten, eine kurze Schweigeminute für die Opfer der Attentate in Norwegen einzulegen.**
 
 Zudem gibt es einen Link des Tages, der uns zu Denken geben sollte.
 
@@ -93,5 +86,3 @@ Zudem gibt es einen Link des Tages, der uns zu Denken geben sollte.
 ## Link des Tages:
 
 [Norwegen und das Medienmassaker](http://www.wuv.de/nachrichten/medien/norwegen_%20und_das_medien_massaker_ein_taeter_darf_nicht_abgebildet_werden)
-
-  

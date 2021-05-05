@@ -7,12 +7,8 @@ typeName: Rezept
 title: Roh-Veganer Aufstrich Butternut-Mandarine
 seoTitle: Butternut Kürbis Mandarine Aufstrich roh-vegan - Rezept
 ogTitle: Butternut Kürbis Mandarine Aufstrich roh-vegan - Rezept
-description: Mein Rezept für Butternut Kürbis Mandarine Aufstrich habt Ihr Euch
-  gewünscht, mein Rezept für Butternut Kürbis Mandarine Aufstrich sollt Ihr
-  bekommen.
-excerpt: Mein Rezept für Butternut Kürbis Mandarine Aufstrich habt Ihr Euch
-  gewünscht, mein Rezept für Butternut Kürbis Mandarine Aufstrich sollt Ihr
-  bekommen.
+description: Mein Rezept für Butternut Kürbis Mandarine Aufstrich habt Ihr Euch gewünscht, mein Rezept für Butternut Kürbis Mandarine Aufstrich sollt Ihr bekommen.
+excerpt: Mein Rezept für Butternut Kürbis Mandarine Aufstrich habt Ihr Euch gewünscht, mein Rezept für Butternut Kürbis Mandarine Aufstrich sollt Ihr bekommen.
 fileName: 2016-10---roh-veganer-aufstrich-butternut-mandarine.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_10_25408984053_8947f49fba_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_10_25408984053_8947f49fba_z__l.jpg
@@ -34,17 +30,11 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Rezept für ein Glas
-  
 ---
 
-**Ihr habt mir geschrieben und wollt mein Rezept für roh-veganen Aufstrich
-Butternut-Mandarine. Der Bitte komme ich hiermit nach.**
+**Ihr habt mir geschrieben und wollt mein Rezept für roh-veganen Aufstrich Butternut-Mandarine. Der Bitte komme ich hiermit nach.**
 
-Schon vor einer Weile habe ich Euch hier im Blog gezeigt, wie man
-[Butternut-Kürbis](/2014/09/butternusskurbis-aus-dem-ofen/) toll zubereiten
-kann. Die Kerne, die dabei ausgestochen werden und übrig bleiben, könnt Ihr für
-diesen tollen, herbstlichen
-[Aufstrich](/2015/09/diy-paranuss-tomaten-brotaufstrich/) verwenden.
+Schon vor einer Weile habe ich Euch hier im Blog gezeigt, wie man [Butternut-Kürbis](/2014/09/butternusskurbis-aus-dem-ofen/) toll zubereiten kann. Die Kerne, die dabei ausgestochen werden und übrig bleiben, könnt Ihr für diesen tollen, herbstlichen [Aufstrich](/2015/09/diy-paranuss-tomaten-brotaufstrich/) verwenden.
 
 ## Zutaten
 
@@ -57,30 +47,17 @@ diesen tollen, herbstlichen
 
 ## Zubereitung
 
-Gebt die Kerne vom Butternut so wie sie sind in den Mixer. Ihr müsst sie nicht
-kochen oder anderweitig vorbereiten. Auch das restliche Kürbisfleisch, das beim
-Ausstechen daran hängen bleibt, könnt Ihr mit verarbeiten. Schält die Mandarine
-und fügt sie zusammen mit dem Kokosöl und den Sonnenblumenkernen hinzu. Jetzt
-gießt Ihr ganz wenig Wasser darüber. Vorsicht, sonst wird es eine Sauce und kein
-Aufstrich. Püriert alles auf höchster Stufe und gebt einen Spritzer Sojasauce
-hinzu. Nochmal kurz pürieren, abschmecken, fertig.
+Gebt die Kerne vom Butternut so wie sie sind in den Mixer. Ihr müsst sie nicht kochen oder anderweitig vorbereiten. Auch das restliche Kürbisfleisch, das beim Ausstechen daran hängen bleibt, könnt Ihr mit verarbeiten. Schält die Mandarine und fügt sie zusammen mit dem Kokosöl und den Sonnenblumenkernen hinzu. Jetzt gießt Ihr ganz wenig Wasser darüber. Vorsicht, sonst wird es eine Sauce und kein Aufstrich. Püriert alles auf höchster Stufe und gebt einen Spritzer Sojasauce hinzu. Nochmal kurz pürieren, abschmecken, fertig.
 
-Im Weckglas oder in einer Frischhaltedose im Kühlschrank ist der Aufstrich
-mindestens eine Woche haltbar. Sollte der Aufstrich beim Pürieren etwas zu
-flüssig werden, könnt Ihr eine Messerspitze Guarkernmehl mit in den Mixer geben.
+Im Weckglas oder in einer Frischhaltedose im Kühlschrank ist der Aufstrich mindestens eine Woche haltbar. Sollte der Aufstrich beim Pürieren etwas zu flüssig werden, könnt Ihr eine Messerspitze Guarkernmehl mit in den Mixer geben.
 
-Viel Spaß beim Nachmachen und guten Appetit! Entschuldigt die Qualität meiner
-Bilder, die stammen aus meinem Instagram-Account. Ich hatte Hunger und keine
-Zeit, die große Kameraausrüstung aufzufahren. Bitte bedenkt, dass unser Mixer
-einen 2 PS Motor besitzt und Aufstriche daher immer schön cremig werden. Sollte
-Eurer nicht so stark sein, müsst Ihr gegebenenfalls mit dem Stabmixer
-nachhelfen. :-) Den Kürbis könnt Ihr zum Beispiel toll mit Couscous Granatapfel
-Salat essen. Das sieht dann so aus:
+Viel Spaß beim Nachmachen und guten Appetit! Entschuldigt die Qualität meiner Bilder, die stammen aus meinem Instagram-Account. Ich hatte Hunger und keine Zeit, die große Kameraausrüstung aufzufahren. Bitte bedenkt, dass unser Mixer einen 2 PS Motor besitzt und Aufstriche daher immer schön cremig werden. Sollte Eurer nicht so stark sein, müsst Ihr gegebenenfalls mit dem Stabmixer nachhelfen. :-) Den Kürbis könnt Ihr zum Beispiel toll mit Couscous Granatapfel Salat essen. Das sieht dann so aus:
 
-<RemoteImage alt={`Butternut`} size="large" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_10_IMG_0061__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_10_IMG_0061__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgQFBwD/xAAsEAACAgEDAwMCBgMAAAAAAAABAgMEEQAFIQYSMQcTFEFRFSIjJEKhYXFz/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMFAAT/xAAhEQACAgICAQUAAAAAAAAAAAABAgMRAAQSMYETIVHB0f/aAAwDAQACEQMRAD8ARNTNenWiUEsF9xuP5N41Ev2VqGSWxJ7VdBgFhxkZGsi3vqy/uG6z+0LBYW5RXNd3DPF3YRCoOGwBwcZ50n2TeLtWBprLSRfJTKxKyzSRsPyZZGU9oLeQSP71FbW9NQWOVjvAmgM7qLqCi1Gv8GcWI0b25pICMR5GMEkjknH9/wCdNqMtXcduiMDERQhQQJO7tYKD2ll4JGByOOdFOqr5kRIX2ipNE7fuZPhRvHG4/jkDIwGJwGGcAeBzC2azb2TqbZ9qgTb122xZlMs9TJNlnUhC2fCghMKPqTnJ0BjEgsGqvzmh2WDnkLuvGGKW1VU33aa9opIojazLErEEBI2cA45HIGtPpUbdWOnatWobkVoiGWBoVBHd57COeNZptXp71VS3SG5UubWLcZ7wzzMwOcghgV5BGQR9tN4Nk9SJWiWlL0rQZFDK0YZiQP8AoGwOfA07cQzsCjCsdoSLroRIpu/jvLndOm6Mt1GSd1fuLwhJCD4GcggjB8ePrjQnrzp78BqUN6qTs/wp4S0T4yuHyCCB9xg/71ezdM+qkcpkbf8AZnfuKjIQ4yOcfp8DjVHvPQvqBvgWDet8256odWKKwVM/ftRBnGfrrnh15Y5AzOKHff5hzSQSIQkZ5Hr2A+8//9k="
+<RemoteImage
+  alt={`Butternut`}
+  size="large"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_10_IMG_0061__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_10_IMG_0061__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgQFBwD/xAAsEAACAgEDAwMCBgMAAAAAAAABAgMEEQAFIQYSMQcTFEFRFSIjJEKhYXFz/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMFAAT/xAAhEQACAgICAQUAAAAAAAAAAAABAgMRAAQSMYETIVHB0f/aAAwDAQACEQMRAD8ARNTNenWiUEsF9xuP5N41Ev2VqGSWxJ7VdBgFhxkZGsi3vqy/uG6z+0LBYW5RXNd3DPF3YRCoOGwBwcZ50n2TeLtWBprLSRfJTKxKyzSRsPyZZGU9oLeQSP71FbW9NQWOVjvAmgM7qLqCi1Gv8GcWI0b25pICMR5GMEkjknH9/wCdNqMtXcduiMDERQhQQJO7tYKD2ll4JGByOOdFOqr5kRIX2ipNE7fuZPhRvHG4/jkDIwGJwGGcAeBzC2azb2TqbZ9qgTb122xZlMs9TJNlnUhC2fCghMKPqTnJ0BjEgsGqvzmh2WDnkLuvGGKW1VU33aa9opIojazLErEEBI2cA45HIGtPpUbdWOnatWobkVoiGWBoVBHd57COeNZptXp71VS3SG5UubWLcZ7wzzMwOcghgV5BGQR9tN4Nk9SJWiWlL0rQZFDK0YZiQP8AoGwOfA07cQzsCjCsdoSLroRIpu/jvLndOm6Mt1GSd1fuLwhJCD4GcggjB8ePrjQnrzp78BqUN6qTs/wp4S0T4yuHyCCB9xg/71ezdM+qkcpkbf8AZnfuKjIQ4yOcfp8DjVHvPQvqBvgWDet8256odWKKwVM/ftRBnGfrrnh15Y5AzOKHff5hzSQSIQkZ5Hr2A+8//9k="
 />
-
-  

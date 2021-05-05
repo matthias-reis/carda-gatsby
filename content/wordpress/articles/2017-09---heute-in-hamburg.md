@@ -7,12 +7,8 @@ typeName: Artikel
 title: Heute in Hamburg
 seoTitle: Heute in Hamburg - Ein sonniger Tag - Gedanken und Bilder
 ogTitle: Heute in Hamburg - Ein sonniger Tag - Gedanken und Bilder
-description: Von Altona ging es heute in Richtung Sternschanze zu Flohmarkt.
-  Ganz nebenbei schlenderten wir noch in ein Atelier, bevor es zum Reeperbahn
-  Festival ging.
-excerpt: Von Altona ging es heute in Richtung Sternschanze zu Flohmarkt. Ganz
-  nebenbei schlenderten wir noch in ein Atelier, bevor es zum Reeperbahn
-  Festival ging.
+description: Von Altona ging es heute in Richtung Sternschanze zu Flohmarkt. Ganz nebenbei schlenderten wir noch in ein Atelier, bevor es zum Reeperbahn Festival ging.
+excerpt: Von Altona ging es heute in Richtung Sternschanze zu Flohmarkt. Ganz nebenbei schlenderten wir noch in ein Atelier, bevor es zum Reeperbahn Festival ging.
 fileName: 2017-09---heute-in-hamburg.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_21909719_2029459023943917_7115437731911565312_n__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_21909719_2029459023943917_7115437731911565312_n__l.jpg
@@ -36,17 +32,11 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Ein sonniger Tag
-  
 ---
 
-**Von Altona ging es heute für uns in Richtung Sternschanze zum Flohmarkt. Die
-"Flohschanze" ist bei uns sehr beliebt. Da wir sie schon länger nicht mehr
-besucht haben, stand heute bei sonnigem Wetter ein Besuch dort an.**
+**Von Altona ging es heute für uns in Richtung Sternschanze zum Flohmarkt. Die "Flohschanze" ist bei uns sehr beliebt. Da wir sie schon länger nicht mehr besucht haben, stand heute bei sonnigem Wetter ein Besuch dort an.**
 
-Ganz nebenbei schlenderten wir noch in ein Künstleratelier hinein, bevor wir im
-Anschluss zum Reeperbahn-Festival aufbrachen. Auf Instagram habe ich gerade eine
-kleine Bilderserie dazu gepostet, die wie ich finde auch hier im Blog einen
-Platz verdient hat. Dazu ein paar Gedanken:
+Ganz nebenbei schlenderten wir noch in ein Künstleratelier hinein, bevor wir im Anschluss zum Reeperbahn-Festival aufbrachen. Auf Instagram habe ich gerade eine kleine Bilderserie dazu gepostet, die wie ich finde auch hier im Blog einen Platz verdient hat. Dazu ein paar Gedanken:
 
 ## Hamburg,
 
@@ -57,7 +47,30 @@ Ich mag Deine sonnigen Lachfältchen. Sehr sogar.
 Bleib so wie Du bist. Für mich bist Du perfekt.
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_21909719_2029459023943917_7115437731911565312_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_21909719_2029459023943917_7115437731911565312_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_21879125_1558910927485155_4946220205069041664_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_21879125_1558910927485155_4946220205069041664_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_21879098_1730322610603699_8877470175587205120_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_21879098_1730322610603699_8877470175587205120_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_21911166_160247824558241_9221901044915634176_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_21911166_160247824558241_9221901044915634176_n__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2017_09_21909719_2029459023943917_7115437731911565312_n__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2017_09_21909719_2029459023943917_7115437731911565312_n__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2017_09_21879125_1558910927485155_4946220205069041664_n__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2017_09_21879125_1558910927485155_4946220205069041664_n__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2017_09_21879098_1730322610603699_8877470175587205120_n__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2017_09_21879098_1730322610603699_8877470175587205120_n__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2017_09_21911166_160247824558241_9221901044915634176_n__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2017_09_21911166_160247824558241_9221901044915634176_n__l.jpg',
+    },
+  ]}
 />
-
-  

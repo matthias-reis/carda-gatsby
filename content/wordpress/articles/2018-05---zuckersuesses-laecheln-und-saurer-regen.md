@@ -7,10 +7,8 @@ typeName: Artikel
 title: Zuckersüßes Lächeln und saurer Regen
 seoTitle: Zuckersüßes Lächeln und saurer Regen - Wir sind nette Menschen - und Du?
 ogTitle: Zuckersüßes Lächeln und saurer Regen - Wir sind nette Menschen - und Du?
-description: Frieden und Liebe. Wir sind nette Menschen. Und wir sind viele. Ich
-  bin auch dabei. Und Du? Wie siehst Du das? Nimm diese Blume...
-excerpt: Frieden und Liebe. Wir sind nette Menschen. Und wir sind viele. Ich bin
-  auch dabei. Und Du? Wie siehst Du das? Nimm diese Blume...
+description: Frieden und Liebe. Wir sind nette Menschen. Und wir sind viele. Ich bin auch dabei. Und Du? Wie siehst Du das? Nimm diese Blume...
+excerpt: Frieden und Liebe. Wir sind nette Menschen. Und wir sind viele. Ich bin auch dabei. Und Du? Wie siehst Du das? Nimm diese Blume...
 fileName: 2018-05---zuckersuesses-laecheln-und-saurer-regen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5435-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5435-2__l.jpg
@@ -42,28 +40,35 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Wir sind nette Menschen - und Du?
-  
 ---
 
-Zuckersüßes Lächeln Irre schön Soviel Zeit und Mühe für die Dekoration Heißen
-Sie Heidi? Wasser und Zucker schaumig gerührt Sagenhafte Gerüchte aus der
-Konserve Klebrig und nett Die Haare zurückgesteckt Kein Spliss keine Falten
-Glatt und sauber
+Zuckersüßes Lächeln Irre schön Soviel Zeit und Mühe für die Dekoration Heißen Sie Heidi? Wasser und Zucker schaumig gerührt Sagenhafte Gerüchte aus der Konserve Klebrig und nett Die Haare zurückgesteckt Kein Spliss keine Falten Glatt und sauber
 
-Vom Hass zerfressen Bitterböse im Inneren Häuchlerisch und fies Den Kragen
-gestärkt Alle in Reih und Glied Wer anders ist, wird aussortiert Abscheu und
-Tradition Stolz und Hetze Der saure Regen höhlt den Stein Zuhören geht Dir gegen
-den Strich
+Vom Hass zerfressen Bitterböse im Inneren Häuchlerisch und fies Den Kragen gestärkt Alle in Reih und Glied Wer anders ist, wird aussortiert Abscheu und Tradition Stolz und Hetze Der saure Regen höhlt den Stein Zuhören geht Dir gegen den Strich
 
-Frieden und Liebe Wir sind viele Ich bin auch dabei Nimm diese Blume
-Natürlichkeit und Rücksicht Unser unverdrossener Eifer beeindruckt Dich Hält Dir
-den Spiegel vor Intelligenz bedeutet auch loslassen Würde, Respekt, Güte und
-Aufgeschlossenheit Liebe ist etwas Gutes - Das sagt nicht nur die Enzyklopädie
+Frieden und Liebe Wir sind viele Ich bin auch dabei Nimm diese Blume Natürlichkeit und Rücksicht Unser unverdrossener Eifer beeindruckt Dich Hält Dir den Spiegel vor Intelligenz bedeutet auch loslassen Würde, Respekt, Güte und Aufgeschlossenheit Liebe ist etwas Gutes - Das sagt nicht nur die Enzyklopädie
 
 <Gallery
-images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5434__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5434__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_11512636314_0401533838_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_11512636314_0401533838_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5432__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5432__l.jpg"}]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5434__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5434__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_05_11512636314_0401533838_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_05_11512636314_0401533838_z__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5432__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5432__l.jpg',
+    },
+  ]}
 />
 
 [Sonne und Frieden](/2016/03/sonne-und-frieden/)
-
-  

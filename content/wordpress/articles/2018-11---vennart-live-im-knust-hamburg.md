@@ -7,13 +7,8 @@ typeName: Konzertbericht
 title: Vennart live im Knust Hamburg
 seoTitle: Vennart live im Knust Hamburg - Ein traumhaftes Konzert
 ogTitle: Vennart live im Knust Hamburg - Ein traumhaftes Konzert
-description: "Mike Vennart gab sich am 14. Oktober mit seiner Band im Hamburger
-  Knust die Ehre. Was habe ich auf diesen Moment gewartet und dann: Was für ein
-  Abend!"
-excerpt: "Mike Vennart gab sich am 14. Oktober mit seiner Band im Hamburger
-  Knust die Ehre. Was habe ich auf diesen Moment gewartet und dann: Was für ein
-  Abend! Eines ist schon mal klar: Ich werde noch sehr lange von diesem
-  musikalischen Event zehren."
+description: 'Mike Vennart gab sich am 14. Oktober mit seiner Band im Hamburger Knust die Ehre. Was habe ich auf diesen Moment gewartet und dann: Was für ein Abend!'
+excerpt: 'Mike Vennart gab sich am 14. Oktober mit seiner Band im Hamburger Knust die Ehre. Was habe ich auf diesen Moment gewartet und dann: Was für ein Abend! Eines ist schon mal klar: Ich werde noch sehr lange von diesem musikalischen Event zehren.'
 fileName: 2018-11---vennart-live-im-knust-hamburg.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_11_Vennart-005-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_11_Vennart-005-1__l.jpg
@@ -40,83 +35,43 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"To Cure A Blizzard Upon A Plastic Sea"'
-  
 ---
 
-**Mike Vennart gab sich am 14. Oktober mit seiner Band im Hamburger Knust die
-Ehre. Was habe ich auf diesen Moment gewartet und dann: Was für ein Abend! Eines
-ist schon mal klar: Ich werde noch sehr lange von diesem musikalischen Event
-zehren.**
+**Mike Vennart gab sich am 14. Oktober mit seiner Band im Hamburger Knust die Ehre. Was habe ich auf diesen Moment gewartet und dann: Was für ein Abend! Eines ist schon mal klar: Ich werde noch sehr lange von diesem musikalischen Event zehren.**
 
-Was heute unter dem Namen "Vennart" tourt, ist im Großen und Ganzen, das, was es
-früher war: **Oceansize** . Die Band, die aufhörte auf Tour zu gehen, weil sie
-keine Lust mehr hatte, quälende Interviews zu geben. Oceansize gründeten sich im
-Jahr 1998 in Manchester.
+Was heute unter dem Namen "Vennart" tourt, ist im Großen und Ganzen, das, was es früher war: **Oceansize** . Die Band, die aufhörte auf Tour zu gehen, weil sie keine Lust mehr hatte, quälende Interviews zu geben. Oceansize gründeten sich im Jahr 1998 in Manchester.
 
-2011 wurde die Auflösung begannt gegeben. Die Jahre dazwischen bescherten uns 11
-EPs und Singles, sowie vier grandiose Studioalben und zahlreiche magische
-Konzerte, die wir nie vergessen werden. Getourt wurde unter anderem mit Biffy
-Clyro und **Aerogramme** . Was für eine legendäre Ära. Ich komme ins Schwärmen.
+2011 wurde die Auflösung begannt gegeben. Die Jahre dazwischen bescherten uns 11 EPs und Singles, sowie vier grandiose Studioalben und zahlreiche magische Konzerte, die wir nie vergessen werden. Getourt wurde unter anderem mit Biffy Clyro und **Aerogramme** . Was für eine legendäre Ära. Ich komme ins Schwärmen.
 
-Seit ihrer Festivaltour im Jahr 2010 unterstützt **Mike Vennart** übrigens auch
-**Biffy Clyro** . Er spielt die zweite Gitarre in der schottischen Gruppe. Doch
-nun zum Konzert in Hamburg.
+Seit ihrer Festivaltour im Jahr 2010 unterstützt **Mike Vennart** übrigens auch **Biffy Clyro** . Er spielt die zweite Gitarre in der schottischen Gruppe. Doch nun zum Konzert in Hamburg.
 
 ## Neues Album
 
-Es fand am Veröffentlichungstag von Mike Vennarts zweitem Soloalbum "To Cure A
-Blizzard Upon A Plastic Sea" statt. Auf der Seite des Clubs wurde es in der
-Ankündigung des Abends sehr treffend formuliert:
+Es fand am Veröffentlichungstag von Mike Vennarts zweitem Soloalbum "To Cure A Blizzard Upon A Plastic Sea" statt. Auf der Seite des Clubs wurde es in der Ankündigung des Abends sehr treffend formuliert:
 
-> "Mike Vennart ist nicht nur der ehemalige Gitarrist, Sänger und somit
-> Frontmann der nahezu unbesiegbaren Oceansize, sondern auch der Kumpel, den Du
-> viel zu lange nicht gesehen hast und der in einer Kneipenschlägerei genau zu
-> dem Zeitpunkt auftaucht, wenn Du ihn am meisten brauchst."
+> "Mike Vennart ist nicht nur der ehemalige Gitarrist, Sänger und somit Frontmann der nahezu unbesiegbaren Oceansize, sondern auch der Kumpel, den Du viel zu lange nicht gesehen hast und der in einer Kneipenschlägerei genau zu dem Zeitpunkt auftaucht, wenn Du ihn am meisten brauchst."
 
-Wie wahr dieser Satz doch ist. Wie sehr hatten wir diesen charismatischen Typen
-vermisst. Seine Grimassen, seine herzige Art, sich selbst und seine Heimat
-Großbritannien durch den Kakao zu ziehen. Dieser coole Punk in seiner Anzughose
-mit dem Polyesterhemd und dem rohen Brett von Gitarre, der er verzauberte Sounds
-entlockt. Seinen Gesang. Seinen Humor. Seine Band und ihre Präsenz!
+Wie wahr dieser Satz doch ist. Wie sehr hatten wir diesen charismatischen Typen vermisst. Seine Grimassen, seine herzige Art, sich selbst und seine Heimat Großbritannien durch den Kakao zu ziehen. Dieser coole Punk in seiner Anzughose mit dem Polyesterhemd und dem rohen Brett von Gitarre, der er verzauberte Sounds entlockt. Seinen Gesang. Seinen Humor. Seine Band und ihre Präsenz!
 
 ## Mike Vennart hat Geschichten mitgebracht
 
-Zwischen den Songs wird er nicht müde, kleine Anekdötchen zu erzählen. Vom
-Jägermeister-Absturz in Hamburg und von anderen Tour-Erlebnissen.
+Zwischen den Songs wird er nicht müde, kleine Anekdötchen zu erzählen. Vom Jägermeister-Absturz in Hamburg und von anderen Tour-Erlebnissen.
 
-> "Wir wollten nochmal zu Euch rüber kommen und ein paar Songs zum Besten geben,
-> bevor England endgültig geschlossen wird, verdammte Axt!"
+> "Wir wollten nochmal zu Euch rüber kommen und ein paar Songs zum Besten geben, bevor England endgültig geschlossen wird, verdammte Axt!"
 
-Sowas in der Art lacht er ins Mikrofon. Regt sich über rechte Spinner auf und
-freut sich, dass seine Fans zu zahlreich erschienen sind. Er bezieht alle mit
-ein. Bevor er gemeinsam mit seiner Combo das Publikum wieder hineinzieht in
-einen Sog aus Gitarren, Schlagzeug, Gesang, Bass und Liebe. Liebe zu dieser
-Musik. Was für ein Glück, dass wir dabei sein dürfen. Wir lehnen am Bühnenrand, 
-nippen an unseren Gläsern und lauschen gebannt.
+Sowas in der Art lacht er ins Mikrofon. Regt sich über rechte Spinner auf und freut sich, dass seine Fans zu zahlreich erschienen sind. Er bezieht alle mit ein. Bevor er gemeinsam mit seiner Combo das Publikum wieder hineinzieht in einen Sog aus Gitarren, Schlagzeug, Gesang, Bass und Liebe. Liebe zu dieser Musik. Was für ein Glück, dass wir dabei sein dürfen. Wir lehnen am Bühnenrand,  nippen an unseren Gläsern und lauschen gebannt.
 
 ## Sind Oceansize wieder da?
 
-Eigentlich sind das da oben Oceansize. Auch Steve Durose ist dabei. Der
-Gitarrist, der sich nach der offiziellen Oceansize Auflösung der befreundeten
-Band [Amplifier](/2012/08/burg-herzberg-festival-2012/) anschloss. Ebenfalls
-eine der von mir am meisten geschätzten Gruppen. Richard "Gambler" Ingram am
-Bass. Genau wie früher.
+Eigentlich sind das da oben Oceansize. Auch Steve Durose ist dabei. Der Gitarrist, der sich nach der offiziellen Oceansize Auflösung der befreundeten Band [Amplifier](/2012/08/burg-herzberg-festival-2012/) anschloss. Ebenfalls eine der von mir am meisten geschätzten Gruppen. Richard "Gambler" Ingram am Bass. Genau wie früher.
 
-Zum Besten gegeben werden an diesem Abend nicht "nur" Vennart Songs, sondern
-auch alte Oceansize-Nummern. Zum Schluss gehen alle glücklich nach Hause. Um ein
-paar spannende, musikalische und lustige Vennart-Erinnerungen reicher.
+Zum Besten gegeben werden an diesem Abend nicht "nur" Vennart Songs, sondern auch alte Oceansize-Nummern. Zum Schluss gehen alle glücklich nach Hause. Um ein paar spannende, musikalische und lustige Vennart-Erinnerungen reicher.
 
-Auch wenn es einigen am 14. November vielleicht schwer gefallen ist, zwischen
-den Auftritten von Tesseract, Riverside und Vennart, die gleichzeitig an einem
-Abend stattfanden, zu wählen: Ich war mir von Anfang an sicher. Und ich würde
-mich wieder so entscheiden. Danke für diesen wunderschönen Abend voller
-Erinnerungen, guter Musik und alter Freunde.
+Auch wenn es einigen am 14. November vielleicht schwer gefallen ist, zwischen den Auftritten von Tesseract, Riverside und Vennart, die gleichzeitig an einem Abend stattfanden, zu wählen: Ich war mir von Anfang an sicher. Und ich würde mich wieder so entscheiden. Danke für diesen wunderschönen Abend voller Erinnerungen, guter Musik und alter Freunde.
 
-Ein paar Bilder, die ich mit meinem Mobiltelefon aufgenommen habe, habe ich Euch
-mitgebracht. Und Vennarts neuestes Video. Viel Freude damit. Genießt es.
+Ein paar Bilder, die ich mit meinem Mobiltelefon aufgenommen habe, habe ich Euch mitgebracht. Und Vennarts neuestes Video. Viel Freude damit. Genießt es.
 
- <YouTube id="OOef0N1mbKU" />
+{' '}
+<YouTube id="OOef0N1mbKU" />
 
 <Gallery name="2018-vennart" />
-
-  

@@ -7,10 +7,8 @@ typeName: Artikel
 title: Handtasche zum Selbermachen
 seoTitle: Kleine Handtasche zum Selbermachen
 ogTitle: Kleine Handtasche zum Selbermachen
-description: Vor kurzem habe ich eine tolle Handtasche zum Selbermachen
-  entdeckt. Ihr könnt Sie ganz leicht nachnähen.
-excerpt: Vor Kurzem stieß ich auf "Handmade Kultur" auf eine tolle Nähanleitung.
-  Die Handtasche "Kira" hatte es mir sofort angetan.
+description: Vor kurzem habe ich eine tolle Handtasche zum Selbermachen entdeckt. Ihr könnt Sie ganz leicht nachnähen.
+excerpt: Vor Kurzem stieß ich auf "Handmade Kultur" auf eine tolle Nähanleitung. Die Handtasche "Kira" hatte es mir sofort angetan.
 fileName: 2015-09---handtasche-zum-selbermachen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_21646623190_c22bf62f88_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_21646623190_c22bf62f88_z__l.jpg
@@ -31,25 +29,14 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Kleiner Schulterbag im Patchwork-Style
-  
 ---
 
-**Vor Kurzem stieß ich auf "Handmade Kultur" auf eine tolle Nähanleitung. Die
-Handtasche "Kira" hatte es mir sofort angetan.**
+**Vor Kurzem stieß ich auf "Handmade Kultur" auf eine tolle Nähanleitung. Die Handtasche "Kira" hatte es mir sofort angetan.**
 
-Weil von
-[einem meiner letzten Nähprojekte](/2015/09/diy-koernerkissen-naehanleitung/)
- noch jede Menge Stoff übrig war, machte ich mich gleich ans Werk. Die Anleitung
-ist wirklich super gemacht, jeder Schritt ist ausführlich erklärt und bebildert.
-Als Material habe ich ganz normale Baumwolle genommen.
+Weil von [einem meiner letzten Nähprojekte](/2015/09/diy-koernerkissen-naehanleitung/)  noch jede Menge Stoff übrig war, machte ich mich gleich ans Werk. Die Anleitung ist wirklich super gemacht, jeder Schritt ist ausführlich erklärt und bebildert. Als Material habe ich ganz normale Baumwolle genommen.
 
 <Gallery name="flickr/annekleinetasche2015" />
 
-Ich habe mir noch eine passende Handytasche geschneidert und ein Kosmetikbeutel
-ist in Arbeit. In Kürze werde ich Euch beides zeigen.
+Ich habe mir noch eine passende Handytasche geschneidert und ein Kosmetikbeutel ist in Arbeit. In Kürze werde ich Euch beides zeigen.
 
-Die komplette Nähanleitung für die Handtasche findet Ihr
-[auf der Homepage](http://www.handmadekultur.de/projekte/handtasche-kira_57917)
-von "Handmade Kultur". Sie steht dort kostenlos zum Download bereit.
-
-  
+Die komplette Nähanleitung für die Handtasche findet Ihr [auf der Homepage](http://www.handmadekultur.de/projekte/handtasche-kira_57917) von "Handmade Kultur". Sie steht dort kostenlos zum Download bereit.

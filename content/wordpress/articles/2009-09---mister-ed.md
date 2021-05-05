@@ -8,8 +8,7 @@ title: Mister Ed
 seoTitle: Mister Ed - Anne bloggt cardamonchai
 ogTitle: Mister Ed - Anne bloggt cardamonchai
 description: Mister Ed - Gesehen in Schrobenhausen
-excerpt: In Schrobenhausen steht in Pferd auf dem Flur - manchmal schaut es aber
-  auch aus dem Fenster.
+excerpt: In Schrobenhausen steht in Pferd auf dem Flur - manchmal schaut es aber auch aus dem Fenster.
 fileName: 2009-09---mister-ed.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_09_Mr.-Ed__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_09_Mr.-Ed__l.jpg
@@ -30,8 +29,4 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Gesehen in Schrobenhausen
-  
 ---
-
-
-  

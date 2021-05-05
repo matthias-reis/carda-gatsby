@@ -27,9 +27,6 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Gesehen in Ulm
-  
 ---
 
 &nbsp;
-
-  

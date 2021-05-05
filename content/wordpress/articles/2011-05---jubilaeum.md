@@ -7,10 +7,8 @@ typeName: Artikel
 title: Jubiläum
 seoTitle: 100 Beiträge auf cardamonchai - das ist ein Jubiläum!
 ogTitle: 100 Beiträge auf cardamonchai - das ist ein Jubiläum!
-description: Dies ist der 100ste Beitrag in meinem Blog, gerade wurde er das
-  666ste Mal angeklickt. Wenn das kein Grund ist, ein Jubiläum zu feiern!
-excerpt: Dies ist der 100ste Beitrag in meinem Blog, gerade wurde er das 666ste
-  Mal angeklickt. Wenn das kein Grund ist, ein Jubiläum zu feiern!
+description: Dies ist der 100ste Beitrag in meinem Blog, gerade wurde er das 666ste Mal angeklickt. Wenn das kein Grund ist, ein Jubiläum zu feiern!
+excerpt: Dies ist der 100ste Beitrag in meinem Blog, gerade wurde er das 666ste Mal angeklickt. Wenn das kein Grund ist, ein Jubiläum zu feiern!
 fileName: 2011-05---jubilaeum.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_05_glc3a4ser__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_05_glc3a4ser__l.jpg
@@ -29,37 +27,28 @@ labels:
   - Musikvideo
   - Wir feiern eine Party auf´m Balkon
   - Wochenende
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: 666 Klicks
-  
 ---
 
-**Dies ist der 100ste Beitrag in meinem Blog, gerade wurde er das 666ste Mal
-angeklickt. Wenn das kein Grund ist, ein Jubiläum zu feiern!**
+**Dies ist der 100ste Beitrag in meinem Blog, gerade wurde er das 666ste Mal angeklickt. Wenn das kein Grund ist, ein Jubiläum zu feiern!**
 
-Ein kleines Experiment habe ich gestern mit der cardamonchai-facebook-Seite
-gestartet, insgesamt haben sich bereits 62 Fans gefunden.
+Ein kleines Experiment habe ich gestern mit der cardamonchai-facebook-Seite gestartet, insgesamt haben sich bereits 62 Fans gefunden.
 
-Busse, Hasen, Insomnie, Musik, Ideen, Luftpumpe, Bier, Bandprobe,  Katzenjammer
-– immernoch 15 Seiten...
+Busse, Hasen, Insomnie, Musik, Ideen, Luftpumpe, Bier, Bandprobe,  Katzenjammer – immernoch 15 Seiten...
 
-Der neue Job läuft gut an, es gibt einiges zu lernen. Für das komplette
-Wochenende ist Sonnenschein angesagt. Ausschlafen, bummeln gehen, Sonne
-genießen.
+Der neue Job läuft gut an, es gibt einiges zu lernen. Für das komplette Wochenende ist Sonnenschein angesagt. Ausschlafen, bummeln gehen, Sonne genießen.
 
 Stimmung: Unternehmungslustig!
 
 ## Song des Tages: Absinthe Minded – "Envoi"
 
- <YouTube id="4Wys9VzF-_E" />
+{' '}
+<YouTube id="4Wys9VzF-_E" />
 
-[Hier](www.facebook.com/cardamonchai)  geht es zur
-[Facebook-Seite](www.facebook.com/cardamonchai) von cardamonchai.com.
-[](http://www.facebook.com/media/set/?set=a.206871166001687.48560.100000364159291#!/pages/cardamonchai/163792830347189)
-
-  
+[Hier](www.facebook.com/cardamonchai)  geht es zur [Facebook-Seite](www.facebook.com/cardamonchai) von cardamonchai.com. [](http://www.facebook.com/media/set/?set=a.206871166001687.48560.100000364159291#!/pages/cardamonchai/163792830347189)

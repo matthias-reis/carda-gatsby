@@ -7,12 +7,8 @@ typeName: Produkttest
 title: tigovit
 seoTitle: tigovit - hoch dosierter Grüntee für die Gesundheit
 ogTitle: tigovit - hoch dosierter Grüntee für die Gesundheit
-description: tigovit enthält Stoffe aus Grünem Tee, die für ihre positive
-  Wirkung auf die Gesundheit bekannt sind, in besonders hoher Dosierung. Ich die
-  Kapseln getestet
-excerpt: Werbung - tigovit enthält Stoffe aus Grünem Tee, die für ihre positive
-  Wirkung auf die Gesundheit bekannt sind, in besonders hoher Dosierung. Ich die
-  Kapseln getestet.
+description: tigovit enthält Stoffe aus Grünem Tee, die für ihre positive Wirkung auf die Gesundheit bekannt sind, in besonders hoher Dosierung. Ich die Kapseln getestet
+excerpt: Werbung - tigovit enthält Stoffe aus Grünem Tee, die für ihre positive Wirkung auf die Gesundheit bekannt sind, in besonders hoher Dosierung. Ich die Kapseln getestet.
 fileName: 2017-02---tigovit.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit4.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit4.png__l.jpg
@@ -38,159 +34,100 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Hoch dosierter Grüntee
-  
 ---
 
 Werbung\*
 
-**Wenn es darum geht, etwas für meine Gesundheit zu tun, oder mein Wohlbefinden
-zu steigern, bin ich immer neugierig auf die neuesten Errungenschaften der
-Heilkunst.**
+**Wenn es darum geht, etwas für meine Gesundheit zu tun, oder mein Wohlbefinden zu steigern, bin ich immer neugierig auf die neuesten Errungenschaften der Heilkunst.**
 
-<RemoteImage alt={`tigovit`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigovit__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigovit__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgAB8DASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABAUAAgMI/8QAIhAAAgICAgIDAQEAAAAAAAAAAQIDEQAEEkEhMRNRYVLR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREBAQEBAQEAAAAAAAAAAAAAAQARAiFB/9oADAMBAAIRAxEAPwD1HszmKgqFie7oDDQ7MjSrboVJqhidleSCq/b+smbesZXif5XjWEhwieA5Hqz9X13melDw2VnMyZHuzEqSK80VK4+GT5VJ4kEeDealuyhlKn0cHPrlLkMh4qtcej5uzjc57ESzwvHICVYUaNHImkokUe2u5IziKSDiGjAJD8vo9V+5Z0lZdZOfHmfLcfV4YxOZSOEgX+qH+45BSgURQ7yHOfZf/9k="
+<RemoteImage
+  alt={`tigovit`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigovit__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigovit__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgAB8DASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABAUAAgMI/8QAIhAAAgICAgIDAQEAAAAAAAAAAQIDEQAEEkEhMRNRYVLR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREBAQEBAQEAAAAAAAAAAAAAAQARAiFB/9oADAMBAAIRAxEAPwD1HszmKgqFie7oDDQ7MjSrboVJqhidleSCq/b+smbesZXif5XjWEhwieA5Hqz9X13melDw2VnMyZHuzEqSK80VK4+GT5VJ4kEeDealuyhlKn0cHPrlLkMh4qtcej5uzjc57ESzwvHICVYUaNHImkokUe2u5IziKSDiGjAJD8vo9V+5Z0lZdZOfHmfLcfV4YxOZSOEgX+qH+45BSgURQ7yHOfZf/9k="
 />
 
-Das habe ich nicht erst bewiesen, als ich mich
-[auf dem Weg zur Tiefenentspannung](/2014/11/auf-dem-weg-zur-tiefenentspannung/)
-in die Hände einer versierten Thai-Masseurin sowie einer TCM-Ärztin begab. Ich
-bin landläufig sogar schon ein Bisschen als Kräuterhexe bekannt. Was ich schon
-alles an Tees und Smoothies ausprobiert habe, ich sage es Euch!
+Das habe ich nicht erst bewiesen, als ich mich [auf dem Weg zur Tiefenentspannung](/2014/11/auf-dem-weg-zur-tiefenentspannung/) in die Hände einer versierten Thai-Masseurin sowie einer TCM-Ärztin begab. Ich bin landläufig sogar schon ein Bisschen als Kräuterhexe bekannt. Was ich schon alles an Tees und Smoothies ausprobiert habe, ich sage es Euch!
 
-Doch Spaß beiseite. Mein Bruder war es, der mir vor ein paar Wochen eine kleine
-Schachtel in die Hand drückte. „Probier die mal. Ich glaube, die sind was für
-Dich!“, meinte er.
+Doch Spaß beiseite. Mein Bruder war es, der mir vor ein paar Wochen eine kleine Schachtel in die Hand drückte. „Probier die mal. Ich glaube, die sind was für Dich!“, meinte er.
 
-„Kapseln? Bist Du sicher, dass die auch vegan sind?“, war meine erste Frage. Die
-Grüntee-Kapseln sind nicht nur vegan, sie beinhalten außerdem wertvolles EGCG
-und Piperin.
+„Kapseln? Bist Du sicher, dass die auch vegan sind?“, war meine erste Frage. Die Grüntee-Kapseln sind nicht nur vegan, sie beinhalten außerdem wertvolles EGCG und Piperin.
 
-Nachdem das klar war und ich mich im Internet ein Bisschen schlau gemacht hatte,
-war ich bereit, es mal mit einem Test zu versuchen. „Täglich 2 – 3 Kapseln“
-stand auf der Packung und Tante Google versicherte mir, dass ich keine
-Nebenwirkungen zu befürchten hatte. Warum also nicht mal testen. Wer nicht wagt,
-der nicht gewinnt.
+Nachdem das klar war und ich mich im Internet ein Bisschen schlau gemacht hatte, war ich bereit, es mal mit einem Test zu versuchen. „Täglich 2 – 3 Kapseln“ stand auf der Packung und Tante Google versicherte mir, dass ich keine Nebenwirkungen zu befürchten hatte. Warum also nicht mal testen. Wer nicht wagt, der nicht gewinnt.
 
 ## Hochwirksame Antioxidantien
 
-EGCG ist ein hochwirksames Antioxidans. Es macht ungefähr ein Drittel der
-Trockenmasse von grünem Tee aus. In schwarzem Tee kommt es auch vor, jedoch in
-wesentlich geringerer Konzentration. In Experimenten wurde nachgewiesen, dass
-der Stoff einen starke antiangiogenetische Wirkung besitzt. Dadurch ist es
-möglich, dass EGCG dazu in der Lage ist, das Wachstum von Tumorgewebe
-abzuschwächen, oder sogar aufzuhalten.
+EGCG ist ein hochwirksames Antioxidans. Es macht ungefähr ein Drittel der Trockenmasse von grünem Tee aus. In schwarzem Tee kommt es auch vor, jedoch in wesentlich geringerer Konzentration. In Experimenten wurde nachgewiesen, dass der Stoff einen starke antiangiogenetische Wirkung besitzt. Dadurch ist es möglich, dass EGCG dazu in der Lage ist, das Wachstum von Tumorgewebe abzuschwächen, oder sogar aufzuhalten.
 
-<RemoteImage alt={`tigovit`} size="full" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit3.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit3.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAJCAYAAABT2S4KAAAACXBIWXMAAAsTAAALEwEAmpwYAAADOElEQVQ4jSWTTWgcdRjGf//ZWcGIoMWiNxXUi0IPPal4sldB0FtPRSIUi0cviopaMBpT05q42exu2pgm635ld3Z3Zmd2d2Z3Zj+STU2tpGKt0oAGk0PRnhRERt6ZgWFg5p33ff6/53npD8H1odWG3gAO70bPRDBGP3sOyjVodcAwYaPAwxtFThwcQaECFQN+/BnOz6DduAm7P6DPXYSFFKxehUuLMDMb92170kfxy37UT3m+YrgNNFrgBRCMoyI13kF3+7Go7BWoNjVMByXDMisct7vcsdqEs1/yuPzX6rDj+rxat+JBYYhcKp2NhZSqYDnwzYZ8U/x+qCnTUYThk9p4J3mKbh/sLsofkZQmImSwxVNNm/fu3oMz0/DhxzDZRdVNsNpRzTW7S7iW57X+kOtNG97/iCfqFrcdl6PlHFPFTag2UOuFWMC17yMxyWoD5hd41nT4p2mzh+MqXXCKFVLk+rzTHxK6PuEbb/LY/AJkL5OQwaaD7o9gNIlErrU6hPsHkC8x3ekR+iPCyS7HxDLXR8uXYsHSt+2SFDsLZaZcnzteQNi0+S3yZrKLkDjdH/KHNAnGhF7A0cwXvLCYhtwqungqtb0BmqCXe/s7HqkYXJDhw20yG0XuE4JegDbeiQRHdYMtkptGbE+3T1csrFscmA5PSzBOBWP+lFP7I/7rDbg33iGsGKy/+wHPSKiWsiQkD203zoYXoLwgpmKYnGk00YSMZGCwFQWYtqco13QFYfS+1uShusVNxyUUcsGY16UXa3mmBfdgKzpFOJrwl+NyK5XhvPj42Rx8lYLMZZBwighJr+3C7AXIF3mx04O9n9C7fRIyzAs0vECpupWINmUw5qVGK7a11qSSWeGkiO/6aDgufPo5z5eqFBotvXzlKp/MzXNacC1lIZ1DreVheSXCFwm5sacLCWU0Yf1bXrG7PCgBlsSbtkY6d4xbv6KJ0LqFIRYVNzksVXkLiDLX6aPd3gdOnIx3Ngw1zp57+QG4P5HOKhaWIJVByWChkFuN1ovVdYXVVhimpso1jYqReK5u6VPVRoJqQ1Obhs6lxUcjv4VMpcbbrQ5f//0vCNHUciRUb+UiW/gfdcrNMhxkOPsAAAAASUVORK5CYII="
+<RemoteImage
+  alt={`tigovit`}
+  size="full"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit3.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit3.png__l.jpg"
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAJCAYAAABT2S4KAAAACXBIWXMAAAsTAAALEwEAmpwYAAADOElEQVQ4jSWTTWgcdRjGf//ZWcGIoMWiNxXUi0IPPal4sldB0FtPRSIUi0cviopaMBpT05q42exu2pgm635ld3Z3Zmd2d2Z3Zj+STU2tpGKt0oAGk0PRnhRERt6ZgWFg5p33ff6/53npD8H1odWG3gAO70bPRDBGP3sOyjVodcAwYaPAwxtFThwcQaECFQN+/BnOz6DduAm7P6DPXYSFFKxehUuLMDMb92170kfxy37UT3m+YrgNNFrgBRCMoyI13kF3+7Go7BWoNjVMByXDMisct7vcsdqEs1/yuPzX6rDj+rxat+JBYYhcKp2NhZSqYDnwzYZ8U/x+qCnTUYThk9p4J3mKbh/sLsofkZQmImSwxVNNm/fu3oMz0/DhxzDZRdVNsNpRzTW7S7iW57X+kOtNG97/iCfqFrcdl6PlHFPFTag2UOuFWMC17yMxyWoD5hd41nT4p2mzh+MqXXCKFVLk+rzTHxK6PuEbb/LY/AJkL5OQwaaD7o9gNIlErrU6hPsHkC8x3ekR+iPCyS7HxDLXR8uXYsHSt+2SFDsLZaZcnzteQNi0+S3yZrKLkDjdH/KHNAnGhF7A0cwXvLCYhtwqungqtb0BmqCXe/s7HqkYXJDhw20yG0XuE4JegDbeiQRHdYMtkptGbE+3T1csrFscmA5PSzBOBWP+lFP7I/7rDbg33iGsGKy/+wHPSKiWsiQkD203zoYXoLwgpmKYnGk00YSMZGCwFQWYtqco13QFYfS+1uShusVNxyUUcsGY16UXa3mmBfdgKzpFOJrwl+NyK5XhvPj42Rx8lYLMZZBwighJr+3C7AXIF3mx04O9n9C7fRIyzAs0vECpupWINmUw5qVGK7a11qSSWeGkiO/6aDgufPo5z5eqFBotvXzlKp/MzXNacC1lIZ1DreVheSXCFwm5sacLCWU0Yf1bXrG7PCgBlsSbtkY6d4xbv6KJ0LqFIRYVNzksVXkLiDLX6aPd3gdOnIx3Ngw1zp57+QG4P5HOKhaWIJVByWChkFuN1ovVdYXVVhimpso1jYqReK5u6VPVRoJqQ1Obhs6lxUcjv4VMpcbbrQ5f//0vCNHUciRUb+UiW/gfdcrNMhxkOPsAAAAASUVORK5CYII="
 />
 
-Die Wirkung wird derzeit noch genauer erforscht. Eine positive Beeinflussung der
-Elastizität der Blutgefäße, welche eine zentrale Rolle bei der Entstehung von
-Arteriosklerose spielt, wurde bereits nachgewiesen. Zudem gibt es Studien, die
-darauf hinweisen, das EGCG Plaques auflösen kann. Das könnte einen Fortschritt
-in der Behandlung von neurodegenerativen Erkrankungen wie Parkinson und
-Alzheimer bedeuten.
+Die Wirkung wird derzeit noch genauer erforscht. Eine positive Beeinflussung der Elastizität der Blutgefäße, welche eine zentrale Rolle bei der Entstehung von Arteriosklerose spielt, wurde bereits nachgewiesen. Zudem gibt es Studien, die darauf hinweisen, das EGCG Plaques auflösen kann. Das könnte einen Fortschritt in der Behandlung von neurodegenerativen Erkrankungen wie Parkinson und Alzheimer bedeuten.
 
-Japanische Forscher haben in Labortests herausgefunden, dass EGCG die Invasion
-von HI-Viren in T-Lymphozyten verhindern kann. Das HI-Virus kann so nicht mehr
-an die T-Lymphozyten andocken und ist nicht mehr dazu in der Lage, sie zu
-infizieren.
+Japanische Forscher haben in Labortests herausgefunden, dass EGCG die Invasion von HI-Viren in T-Lymphozyten verhindern kann. Das HI-Virus kann so nicht mehr an die T-Lymphozyten andocken und ist nicht mehr dazu in der Lage, sie zu infizieren.
 
 ## EGCG in der Multiple Sklerose Forschung
 
-Auch im Bereich der Multiple Sklerose Forschung wurden Versuche mit EGCG
-durchgeführt. Herausgefunden wurde dabei, dass der Stoff sowohl dazu in der Lage
-ist, Nervenzellen zu schützen, als auch dafür, fehlgeleitete T-Lymphozyten, die
-in der Medizin für die Krankheit verantwortlich gemacht werden, zu regulieren.
-Unter der Gabe von EGCG kann außerdem das Influenza-A-Virus (Grippe) im Körper
-signifikant gesenkt werden. Das haben Immunologen herausgefunden.
+Auch im Bereich der Multiple Sklerose Forschung wurden Versuche mit EGCG durchgeführt. Herausgefunden wurde dabei, dass der Stoff sowohl dazu in der Lage ist, Nervenzellen zu schützen, als auch dafür, fehlgeleitete T-Lymphozyten, die in der Medizin für die Krankheit verantwortlich gemacht werden, zu regulieren. Unter der Gabe von EGCG kann außerdem das Influenza-A-Virus (Grippe) im Körper signifikant gesenkt werden. Das haben Immunologen herausgefunden.
 
-Piperin wurde zum ersten Mal im Jahre 1819 von Hans Christian Ørsted isoliert.
-Dabei handelt es sich um das Hauptalkaloid des schwarzen Pfeffers. Es ist für
-den scharfen Geschmack von Pfeffer verantwortlich. Weil es den Stoffwechsel und
-die Verdauung anregt, kann es gut bei Fastenkuren oder zum Beispiel zur
-Verbesserung des Wohlbefindens bei gesundheitsbedingter Darmträgheit eingesetzt
-werden. Die Pharmaindustrie erforscht den Stoff derzeit noch.
+Piperin wurde zum ersten Mal im Jahre 1819 von Hans Christian Ørsted isoliert. Dabei handelt es sich um das Hauptalkaloid des schwarzen Pfeffers. Es ist für den scharfen Geschmack von Pfeffer verantwortlich. Weil es den Stoffwechsel und die Verdauung anregt, kann es gut bei Fastenkuren oder zum Beispiel zur Verbesserung des Wohlbefindens bei gesundheitsbedingter Darmträgheit eingesetzt werden. Die Pharmaindustrie erforscht den Stoff derzeit noch.
 
-Soviel zur Forschung. Grüner Tee wird seit mehr als 4.000 Jahren von Menschen
-getrunken, doch während der letzten Jahre kommt er langsam auch in der Welt der
-modernen Wissenschaft an. Er enthält außer EGCG noch einige weitere sogenannte
-Catechine (Flavonoide), die für ihr hohes antioxidatives Potential bekannt sind,
-was besonders für die Behandlung von Autoimmunerkrankungen interessant ist.
+Soviel zur Forschung. Grüner Tee wird seit mehr als 4.000 Jahren von Menschen getrunken, doch während der letzten Jahre kommt er langsam auch in der Welt der modernen Wissenschaft an. Er enthält außer EGCG noch einige weitere sogenannte Catechine (Flavonoide), die für ihr hohes antioxidatives Potential bekannt sind, was besonders für die Behandlung von Autoimmunerkrankungen interessant ist.
 
-<RemoteImage alt={`tigovit`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,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"
+<RemoteImage
+  alt={`tigovit`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit.png__l.jpg"
+  loadingUrl="data:image/jpeg;base64,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"
 />
 
-Nimmt man Grünen Tee in Form von handelsüblichem Aufguss-Tee zu sich, kommen nur
-sehr wenige von ihnen auch wirklich im Körper an (Bei 300 mg sind das am Ende
-noch rund 0,15 mg EGCG) Hier möchten die Macher von tigovit ansetzen: Die
-wertvollen Inhaltsstoffe des Tees sollen geschützt werden und somit eine um
-50-fach bessere Aufnahmefähigkeit des EGCG durch den Körper garantiert werden.
+Nimmt man Grünen Tee in Form von handelsüblichem Aufguss-Tee zu sich, kommen nur sehr wenige von ihnen auch wirklich im Körper an (Bei 300 mg sind das am Ende noch rund 0,15 mg EGCG) Hier möchten die Macher von tigovit ansetzen: Die wertvollen Inhaltsstoffe des Tees sollen geschützt werden und somit eine um 50-fach bessere Aufnahmefähigkeit des EGCG durch den Körper garantiert werden.
 
 ## Ich habe es probiert
 
-Ich habe die Kapseln mal einem kleinen Praxistest unterzogen. Eingenommen habe
-ich sie für eine Woche. Sicher nur eine kurze Zeit, mein Bericht fällt daher
-wohl auch eher knapp aus. Was ich erkennen konnte, war eine Verbesserung meines
-Hautbildes. Bei mir war gerade ein Rosacea-Schub im Anmarsch und er ist
-wesentlich schwächer ausgefallen, als ich noch am ersten Tag (einen Tag später
-habe ich mit der Einnahme begonnen) befürchtet habe.
+Ich habe die Kapseln mal einem kleinen Praxistest unterzogen. Eingenommen habe ich sie für eine Woche. Sicher nur eine kurze Zeit, mein Bericht fällt daher wohl auch eher knapp aus. Was ich erkennen konnte, war eine Verbesserung meines Hautbildes. Bei mir war gerade ein Rosacea-Schub im Anmarsch und er ist wesentlich schwächer ausgefallen, als ich noch am ersten Tag (einen Tag später habe ich mit der Einnahme begonnen) befürchtet habe.
 
 ## Und es ist wirklich vegan?
 
-Ja, ihr braucht Euch keine Sorgen machen. Der Hersteller beschreibt das auf
-seiner Seite folgendermaßen:
+Ja, ihr braucht Euch keine Sorgen machen. Der Hersteller beschreibt das auf seiner Seite folgendermaßen:
 
-> tigovit ist auch für Vegetarier und Veganer geeignet, enthält keine
-> Konservierungsstoffe und ist gelatinefrei.
+> tigovit ist auch für Vegetarier und Veganer geeignet, enthält keine Konservierungsstoffe und ist gelatinefrei.
 
 ## Wie sieht es mit Koffein aus?
 
-In den Kapseln ist Koffein nur in Spuren enthalten. Drei davon enthalten
-ungefähr so viel, wie 1/10 Tasse Kaffee.
+In den Kapseln ist Koffein nur in Spuren enthalten. Drei davon enthalten ungefähr so viel, wie 1/10 Tasse Kaffee.
 
 ## Wo kommt es her?
 
-Die Firma hat ihren Sitz in München Grünwald. Weitere Infos sind außerdem auf
-der [Homepage](https://tigofit.com)  von _tigovit_ zu finden.
+Die Firma hat ihren Sitz in München Grünwald. Weitere Infos sind außerdem auf der [Homepage](https://tigofit.com)  von _tigovit_ zu finden.
 
 ## Mein Fazit
 
-Ich muss sagen, dass mir das Produkt sehr gut gefällt, auch wenn ich anfangs
-noch eher zögerlich darauf reagiert habe. Ich habe mich inzwischen ein Bisschen
-eingelesen, was die verschiedenen Inhaltsstoffe angeht und muss sagen, dass da
-schon einiges sehr interessant klingt.
+Ich muss sagen, dass mir das Produkt sehr gut gefällt, auch wenn ich anfangs noch eher zögerlich darauf reagiert habe. Ich habe mich inzwischen ein Bisschen eingelesen, was die verschiedenen Inhaltsstoffe angeht und muss sagen, dass da schon einiges sehr interessant klingt.
 
-Durch meine Hashimoto Thyreoiditis habe ich mit schubartigen Schmerzen, Fatique
-und diversen anderen Malessen zu tun und auch meine oben erwähnte Rosacea meldet
-sich immer mal wieder. Für mich sind daher neue, vor allem natürliche Mittel zur
-Stärkung des Immunsystems und zur Abwehr freier Radikale immer sehr willkommen.
-Ich kann mir durchaus vorstellen, tigovit auch mal über einen längeren Zeitraum
-zu testen. Es würde mir auch nichts ausmachen, 2 –3 Kapseln am Tag zu schlucken.
-Das ist das Einzige, was man sich meiner Meinung nach überlegen muss, wenn man
-überlegt, es mal zu probieren.
-[Hier gehts zum Interview mit Tanja Hohenester, der Gründerin von tigovit](/2017/03/tigovit-interview/).
+Durch meine Hashimoto Thyreoiditis habe ich mit schubartigen Schmerzen, Fatique und diversen anderen Malessen zu tun und auch meine oben erwähnte Rosacea meldet sich immer mal wieder. Für mich sind daher neue, vor allem natürliche Mittel zur Stärkung des Immunsystems und zur Abwehr freier Radikale immer sehr willkommen. Ich kann mir durchaus vorstellen, tigovit auch mal über einen längeren Zeitraum zu testen. Es würde mir auch nichts ausmachen, 2 –3 Kapseln am Tag zu schlucken. Das ist das Einzige, was man sich meiner Meinung nach überlegen muss, wenn man überlegt, es mal zu probieren. [Hier gehts zum Interview mit Tanja Hohenester, der Gründerin von tigovit](/2017/03/tigovit-interview/).
 
-<RemoteImage alt={`tigovit`} size="full" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit2.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit2.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAJCAYAAABT2S4KAAAACXBIWXMAAAsTAAALEwEAmpwYAAADvUlEQVQ4jT3RS4gcRRjA8W9YFjyJp6zm7NGL4EG8hj0peFBI8CpI9iABjx7U4EENilF0dRfJYxVRSQxmNSZZk112Z58zs/PomZ7ueew8dmeme6afVdU1XTXd80mvxIKi4MdX8KcKXGcEw2EXLGs4Y9sjcF3vVctybpimcd91nKvE9y52O61nGGUvWZZz0zSNvx3H/or63kK305qLIzxrW86SaZr3bGv0AyPk0qB3/LwU8jnbdhcTt6zRNUbJu0Oz/0q304b07g7oNf10g+c5YFknYBja7NBswmjUrplGC/k4RNu2UFXLqJQrt2yr87thtJHzMTqOjVW1giWlvEb8/qXBoImMBUiIhzW9isVSqeU4/Q+MQRMpo0gpQV2rYkWtYLdchIqmgapVU5qmAfi+B447AM93Zj3fBULYhu0SjBAZYYLkCwoqZe07ISZXnzgNJCkWkwD1Z0Q877g+hhOkIsJAUapYLFZ2pYzfcT2KXMZ0MsUgmVerNa+Q3wK91gBNr6c0XQOgjAELCASczfKxgICLNKUdbFQ/lIbZlkppHfOHa0tRjN9QdoL16kdiMKiJSjmN+cP7vyDiWyywsVX/TPR6e5GuFTCbuXMwiXGBcw9bjc+FYWSiqprDsvKIrK+eg6NuDPVmO6UlXxBwDqEIIQyD2XEYAh+HaT42US19Ivr9qlAraSyWDpajOPqWjy1UlSui11NEVU1jScn8mgSEgmBdWxTd9uakXsthvrBxEMW4IGSAzdqS6B1vR7qeRVXdp5Xcp+D4CGVV+y8gDEMIgiHIiZwVIgQpp+tCjhERxTicSr3WxGbrZBERv5RSnLoQKGr1Fjaa7eQL3gxDlniIiFGj2cZa/WgPEd8Wkv/vtfoRtjon3vLyEly/eQMQMWU5dhIwBs8tgj06mHWdCjA20Bitn16kjNCDXA6z+cpvPOjdfuIsoDRzmMPMYeEB5/57xFdPw6JIBoeFAu5ncxql7mVG9cTldBrzbD6PRUWZAsBTADAzsq3U+QsXkgAO5uAhHLevzfSPb8HQePz+yFxPLqJPfNzPZPDPvx59n8+uXLRHG3HihFLM5HL48J+NldU/vj43Mu6ROEYUUmIS8Hhja3vtwU+vDQd3rekUUU4iPCwUcWd3twEAZwDgadd1U/Pz8wBBYEP/+DYMBkMghIJr7wGiDlLii+bQ/OLHlesvIyKEvAxjdpA83Quu515ZvXvn1ANWBeJtQhzjWcaCj7e3N19PnAcN4CybzD/LOb+8s7P1RuLlsgLJOjM3d3r+C6R1j2QIm/gAAAAAAElFTkSuQmCC"
+<RemoteImage
+  alt={`tigovit`}
+  size="full"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit2.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit2.png__l.jpg"
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAJCAYAAABT2S4KAAAACXBIWXMAAAsTAAALEwEAmpwYAAADvUlEQVQ4jT3RS4gcRRjA8W9YFjyJp6zm7NGL4EG8hj0peFBI8CpI9iABjx7U4EENilF0dRfJYxVRSQxmNSZZk112Z58zs/PomZ7ueew8dmeme6afVdU1XTXd80mvxIKi4MdX8KcKXGcEw2EXLGs4Y9sjcF3vVctybpimcd91nKvE9y52O61nGGUvWZZz0zSNvx3H/or63kK305qLIzxrW86SaZr3bGv0AyPk0qB3/LwU8jnbdhcTt6zRNUbJu0Oz/0q304b07g7oNf10g+c5YFknYBja7NBswmjUrplGC/k4RNu2UFXLqJQrt2yr87thtJHzMTqOjVW1giWlvEb8/qXBoImMBUiIhzW9isVSqeU4/Q+MQRMpo0gpQV2rYkWtYLdchIqmgapVU5qmAfi+B447AM93Zj3fBULYhu0SjBAZYYLkCwoqZe07ISZXnzgNJCkWkwD1Z0Q877g+hhOkIsJAUapYLFZ2pYzfcT2KXMZ0MsUgmVerNa+Q3wK91gBNr6c0XQOgjAELCASczfKxgICLNKUdbFQ/lIbZlkppHfOHa0tRjN9QdoL16kdiMKiJSjmN+cP7vyDiWyywsVX/TPR6e5GuFTCbuXMwiXGBcw9bjc+FYWSiqprDsvKIrK+eg6NuDPVmO6UlXxBwDqEIIQyD2XEYAh+HaT42US19Ivr9qlAraSyWDpajOPqWjy1UlSui11NEVU1jScn8mgSEgmBdWxTd9uakXsthvrBxEMW4IGSAzdqS6B1vR7qeRVXdp5Xcp+D4CGVV+y8gDEMIgiHIiZwVIgQpp+tCjhERxTicSr3WxGbrZBERv5RSnLoQKGr1Fjaa7eQL3gxDlniIiFGj2cZa/WgPEd8Wkv/vtfoRtjon3vLyEly/eQMQMWU5dhIwBs8tgj06mHWdCjA20Bitn16kjNCDXA6z+cpvPOjdfuIsoDRzmMPMYeEB5/57xFdPw6JIBoeFAu5ncxql7mVG9cTldBrzbD6PRUWZAsBTADAzsq3U+QsXkgAO5uAhHLevzfSPb8HQePz+yFxPLqJPfNzPZPDPvx59n8+uXLRHG3HihFLM5HL48J+NldU/vj43Mu6ROEYUUmIS8Hhja3vtwU+vDQd3rekUUU4iPCwUcWd3twEAZwDgadd1U/Pz8wBBYEP/+DYMBkMghIJr7wGiDlLii+bQ/OLHlesvIyKEvAxjdpA83Quu515ZvXvn1ANWBeJtQhzjWcaCj7e3N19PnAcN4CybzD/LOb+8s7P1RuLlsgLJOjM3d3r+C6R1j2QIm/gAAAAAAElFTkSuQmCC"
 />
 
-**Bilder und Grafiken:** Mit [freundlicher Genehmigung](https://tigovit.com) von
-tigovit.
+**Bilder und Grafiken:** Mit [freundlicher Genehmigung](https://tigovit.com) von tigovit.
 
 Mehr Infos auf der tigovit [Hompage](https://tigovit.com).
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
-dadurch nicht beeinflusst. Infos zum Thema Infos zum Thema Werbung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
-
-  
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Infos zum Thema Werbung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _

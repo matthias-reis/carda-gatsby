@@ -7,12 +7,8 @@ typeName: Gedicht
 title: Neue Mitte
 seoTitle: Neue Mitte Altona - ein paar Gedanken zum neuen Bezirk
 ogTitle: Neue Mitte Altona - ein paar Gedanken zum neuen Bezirk
-description: Die neue Mitte Altona erhebt sich nach und nach zwischen den
-  Gleisen. Bis jetzt sind noch nicht alle Details erkennbar - ein paar Bewohner
-  gibt es schon.
-excerpt: Die neue Mitte Altona erhebt sich nach und nach zwischen den Gleisen.
-  Bis jetzt sind noch nicht alle Details erkennbar - ein paar Bewohner gibt es
-  schon.
+description: Die neue Mitte Altona erhebt sich nach und nach zwischen den Gleisen. Bis jetzt sind noch nicht alle Details erkennbar - ein paar Bewohner gibt es schon.
+excerpt: Die neue Mitte Altona erhebt sich nach und nach zwischen den Gleisen. Bis jetzt sind noch nicht alle Details erkennbar - ein paar Bewohner gibt es schon.
 fileName: 2019-05---neue-mitte.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-neue-mitte-altona-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-neue-mitte-altona-1__l.jpg
@@ -34,38 +30,26 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Ein Stadtteil verändert sich
-  
 ---
 
-Eine neue Häuserzeile rankt sich entlang der Gleise. Dahinter ein Meer aus
-Quadern. Ab dem 2. Stock mit Balkon.
+Eine neue Häuserzeile rankt sich entlang der Gleise. Dahinter ein Meer aus Quadern. Ab dem 2. Stock mit Balkon.
 
-Ganz unten ist schon eine WG eingezogen. man sitzt auf Kartons und grillt. Da
-möchte man nicht obendrüber wohnen.
+Ganz unten ist schon eine WG eingezogen. man sitzt auf Kartons und grillt. Da möchte man nicht obendrüber wohnen.
 
-Oder vielleicht sind die ja nett und laden einen ein? Ein Zug braust vorbei. Die
-Zweige im noch hauchzarten Grünstreifen tanzen im Fahrtwind.
+Oder vielleicht sind die ja nett und laden einen ein? Ein Zug braust vorbei. Die Zweige im noch hauchzarten Grünstreifen tanzen im Fahrtwind.
 
 Die neue Mitte - im Herzen autofrei, an den Rändern stark befahren.
 
-Die Sonne wärmt den Sand. Staub auf der Glasfront. Eine letzte alte Kneipe ist
-noch da.
+Die Sonne wärmt den Sand. Staub auf der Glasfront. Eine letzte alte Kneipe ist noch da.
 
-Die Großbrauerei gegenüber packt für den Umzug auf die grüne Wiese. Platz für
-neue Quader im Herzen der Gleise.
+Die Großbrauerei gegenüber packt für den Umzug auf die grüne Wiese. Platz für neue Quader im Herzen der Gleise.
 
-Es ist wichtig, Veränderung anzunehmen. Sind die Kräne die Vorboten einer neuen
-Zeitrechnung? Der alte Charme für immer verloren?
+Es ist wichtig, Veränderung anzunehmen. Sind die Kräne die Vorboten einer neuen Zeitrechnung? Der alte Charme für immer verloren?
 
-Oder wird er neu modelliert? Klare Linien statt Schnörkel und Tapetenschichten?
-Tut uns das gut?
+Oder wird er neu modelliert? Klare Linien statt Schnörkel und Tapetenschichten? Tut uns das gut?
 
 Zukunftsweisende zentrale Ziele. Komfortabel und glatt. Schatten im Block.
 
-Die Wahrheit liegt vielleicht irgendwo in der Mitte. Tante Emma und die alten
-Spelunken Geschichte. Über allem ein Dunst aus geröstetem Kaffee, Maische und
-Beton.
+Die Wahrheit liegt vielleicht irgendwo in der Mitte. Tante Emma und die alten Spelunken Geschichte. Über allem ein Dunst aus geröstetem Kaffee, Maische und Beton.
 
 <Gallery name="neuemittealtonaanne" />
-
-  

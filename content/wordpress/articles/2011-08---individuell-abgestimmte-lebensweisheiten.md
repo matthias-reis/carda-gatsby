@@ -7,10 +7,8 @@ typeName: Artikel
 title: Individuell abgestimmte Lebensweisheiten
 seoTitle: Individuell abgestimmte Lebensweisheiten - Gedicht
 ogTitle: Individuell abgestimmte Lebensweisheiten - Gedicht
-description: Sie wollen uns erzählen. Ein Tag ist perfekt, wenn die Fledermaus
-  draußen ist. Deshalb bringen alte Lebensweisheiten sowieso meistens nichts.
-excerpt: Sie wollen uns erzählen. Ein Tag ist perfekt, wenn die Fledermaus
-  draußen ist. Deshalb bringen alte Lebensweisheiten sowieso meistens nichts.
+description: Sie wollen uns erzählen. Ein Tag ist perfekt, wenn die Fledermaus draußen ist. Deshalb bringen alte Lebensweisheiten sowieso meistens nichts.
+excerpt: Sie wollen uns erzählen. Ein Tag ist perfekt, wenn die Fledermaus draußen ist. Deshalb bringen alte Lebensweisheiten sowieso meistens nichts.
 fileName: 2011-08---individuell-abgestimmte-lebensweisheiten.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_pc150027__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_pc150027__l.jpg
@@ -34,24 +32,20 @@ labels:
   - Vanilleeis mit heißen Erbsen
   - Wildtiere in Plattenbausiedlungen
   - Zucker in den Schuhen
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Nachgedacht
-  
 ---
 
 Sie wollen uns erzählen. Ein Tag ist perfekt, wenn die Fledermaus draußen ist.
 
-Deshalb bringen alte Lebensweisheiten sowieso meistens nichts. Man muss eigene
-finden, die zu einem passen. Individuell abgestimmt quasi. Persönlich auf einen
-zugeschnitten.
+Deshalb bringen alte Lebensweisheiten sowieso meistens nichts. Man muss eigene finden, die zu einem passen. Individuell abgestimmt quasi. Persönlich auf einen zugeschnitten.
 
 Aber früh aufstehen hilft auch nicht.
 
- <YouTube id="WF6esydiV34" />
-
-  
+{' '}
+<YouTube id="WF6esydiV34" />

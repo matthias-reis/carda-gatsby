@@ -5,15 +5,10 @@ path: /2017/02/neue-bauernregeln/
 type: Artikel
 typeName: Artikel
 title: Ab jetzt gelten neue Bauernregeln
-seoTitle: Ab jetzt gelten neue Bauernregeln - Das Deutsche Tierschutzbüro kämpft
-  für Gesetzänderungen
-ogTitle: Ab jetzt gelten neue Bauernregeln - Das Deutsche Tierschutzbüro kämpft
-  für Gesetzänderungen
-description: Mit der Aktion "Neue Bauernregeln" kämpft das Deutsche
-  Tierschutzbüro für Gesetzänderungen. Im Vordergrund der Kampagne stehen die
-  Rechte der Tiere.
-excerpt: Mit der Aktion "Neue Bauernregeln" kämpft das Deutsche Tierschutzbüro
-  für Gesetzänderungen. Im Vordergrund der Kampagne stehen die Rechte der Tiere.
+seoTitle: Ab jetzt gelten neue Bauernregeln - Das Deutsche Tierschutzbüro kämpft für Gesetzänderungen
+ogTitle: Ab jetzt gelten neue Bauernregeln - Das Deutsche Tierschutzbüro kämpft für Gesetzänderungen
+description: Mit der Aktion "Neue Bauernregeln" kämpft das Deutsche Tierschutzbüro für Gesetzänderungen. Im Vordergrund der Kampagne stehen die Rechte der Tiere.
+excerpt: Mit der Aktion "Neue Bauernregeln" kämpft das Deutsche Tierschutzbüro für Gesetzänderungen. Im Vordergrund der Kampagne stehen die Rechte der Tiere.
 fileName: 2017-02---ab-jetzt-gelten-neue-bauernregeln.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_Neue-Bauernregeln.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_Neue-Bauernregeln.png__l.jpg
@@ -33,78 +28,54 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Tierschutzbüro kämpft für Gesetzesänderungen
-  
 ---
 
-<RemoteImage alt={`Neue Bauernregeln`} size="medium" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Deutsches-Tierschutzbu%CC%88ro__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Deutsches-Tierschutzbu%CC%88ro__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABQcABgj/xAAmEAABAwIFBAMBAAAAAAAAAAABAgMRBAUAEiExUQYHMpETM0Fh/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAfEQACAQQCAwAAAAAAAAAAAAABAgAREyFRAwQFgaH/2gAMAwEAAhEDEQA/ANB1Ip2LXR5WEJIabU4pDaZCSMo/J8o210wqO8tqYf62t1I844mLWFBTCEBS1/KR4mAd9pGL6xeX3KalztNKhlEeQgQlUCDyB6wou99e7cupaB19LYUKIJhAMfYrknC3QU3gK7gfkmWwSRqB0dMNKIBXcZjWGmtDz9m2ih/CBzgPcrLXUCHHX2SlhK8oX8iSd4GgJwLyjgesQJA2A9YeVWByfkmmfjIwtPc//9k="
+<RemoteImage
+  alt={`Neue Bauernregeln`}
+  size="medium"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Deutsches-Tierschutzbu%CC%88ro__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Deutsches-Tierschutzbu%CC%88ro__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABQcABgj/xAAmEAABAwIFBAMBAAAAAAAAAAABAgMRBAUAEiExUQYHMpETM0Fh/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAfEQACAQQCAwAAAAAAAAAAAAABAgAREyFRAwQFgaH/2gAMAwEAAhEDEQA/ANB1Ip2LXR5WEJIabU4pDaZCSMo/J8o210wqO8tqYf62t1I844mLWFBTCEBS1/KR4mAd9pGL6xeX3KalztNKhlEeQgQlUCDyB6wou99e7cupaB19LYUKIJhAMfYrknC3QU3gK7gfkmWwSRqB0dMNKIBXcZjWGmtDz9m2ih/CBzgPcrLXUCHHX2SlhK8oX8iSd4GgJwLyjgesQJA2A9YeVWByfkmmfjIwtPc//9k="
 />
 
-**Das Bundesumweltministerium (BMUB) hat in den letzten Wochen eine neue
-Kampagne mit dem Namen _Neue Bauernregeln_  auf die Strecke gebracht.**
+**Das Bundesumweltministerium (BMUB) hat in den letzten Wochen eine neue Kampagne mit dem Namen _Neue Bauernregeln_  auf die Strecke gebracht.**
 
-Damit sollte auf die Missstände in der Agrarwirtschaft und die ausufernde
-Massentierhaltung aufmerksam gemacht werden.  Leider wurde die Kampagne von
-Bundesumweltministerin Hendrick kurze Zeit später wieder zurückgezogen. Grund
-dafür war starke Gegenwehr durch die Landwirtschaft.
+Damit sollte auf die Missstände in der Agrarwirtschaft und die ausufernde Massentierhaltung aufmerksam gemacht werden.  Leider wurde die Kampagne von Bundesumweltministerin Hendrick kurze Zeit später wieder zurückgezogen. Grund dafür war starke Gegenwehr durch die Landwirtschaft.
 
-Das Deutsche Tierschutzbüro führt die Aktion nun fort und setzt sich damit für
-die Änderung der Gesetze ein. Unter der URL
-[neue-bauernregeln.com](http://neue-bauernregeln.com)  fordert es das
-Landwirtschaftsministerium dazu auf, bestehende Gesetze zu hinterfragen und eine
-Verbesserung für die Tiere herbeizuführen.
+Das Deutsche Tierschutzbüro führt die Aktion nun fort und setzt sich damit für die Änderung der Gesetze ein. Unter der URL [neue-bauernregeln.com](http://neue-bauernregeln.com)  fordert es das Landwirtschaftsministerium dazu auf, bestehende Gesetze zu hinterfragen und eine Verbesserung für die Tiere herbeizuführen.
 
 ## Tiere müssen wie Mitgeschöpfe behandelt werden
 
-Angeprangert wird dabei vor allem, dass im Vordergrund der Gesetze nach wie vor
-die wirtschaftlichen Interessen der Lobby-Verbände der Lebensmittel- und
-Fleischindustrie stehen. Berufen wird sich dabei auf §1 des Tierschutzgesetzes.
+Angeprangert wird dabei vor allem, dass im Vordergrund der Gesetze nach wie vor die wirtschaftlichen Interessen der Lobby-Verbände der Lebensmittel- und Fleischindustrie stehen. Berufen wird sich dabei auf §1 des Tierschutzgesetzes.
 
-> Zweck dieses Gesetzes ist es, aus der Verantwortung des Menschen für das Tier
-> als Mitgeschöpf dessen Leben und Wohlbefinden zu schützen. Niemand darf einem
-> Tier ohne vernünftigen Grund Schmerzen, Leiden oder Schäden zufügen.
+> Zweck dieses Gesetzes ist es, aus der Verantwortung des Menschen für das Tier als Mitgeschöpf dessen Leben und Wohlbefinden zu schützen. Niemand darf einem Tier ohne vernünftigen Grund Schmerzen, Leiden oder Schäden zufügen.
 
-Wie dieses Gesetz ausgelegt wird, wird auf
-[neue-bauernregeln.com](http://neue-bauernregeln.com) klar veranschaulicht.
+Wie dieses Gesetz ausgelegt wird, wird auf [neue-bauernregeln.com](http://neue-bauernregeln.com) klar veranschaulicht.
 
-> Ein Masthuhn hat in der Massentierhaltung Platz in der Größe eines DIN
-> A4-Blattes. Nach 35 Tagen wird es geschlachtet.
+> Ein Masthuhn hat in der Massentierhaltung Platz in der Größe eines DIN A4-Blattes. Nach 35 Tagen wird es geschlachtet.
 
-> Kälber werden kurz nach der Geburt ohne Betäubung die Hörner ausgebrannt und
-> sie werden in Kälberiglus von ihren Müttern isoliert.
+> Kälber werden kurz nach der Geburt ohne Betäubung die Hörner ausgebrannt und sie werden in Kälberiglus von ihren Müttern isoliert.
 
-Auf der Seite wird immer aktuell über die Fortschritte und Erfolge der Kampagne
-berichtet. Wer helfen möchte, kann die Aktion mit einer Spende unterstützen.
-Außerdem kann das Plakat als Postkarte portofrei bestellt werden (siehe Foto
-oben im Header). Wer informiert bleiben möchte, kann sich auch direkt noch für
-einen eigens eingerichteten Newsletter anmelden.
+Auf der Seite wird immer aktuell über die Fortschritte und Erfolge der Kampagne berichtet. Wer helfen möchte, kann die Aktion mit einer Spende unterstützen. Außerdem kann das Plakat als Postkarte portofrei bestellt werden (siehe Foto oben im Header). Wer informiert bleiben möchte, kann sich auch direkt noch für einen eigens eingerichteten Newsletter anmelden.
 
 ## Neue Bauernregeln braucht das Land
 
-Das Deutsche Tierschutzbüro setzt sich für die Rechte der Tiere ein. Jüngst
-sorgt es wieder mit einer Anti-Pelz-Kampagne für Aufsehen, bei der die
-Aktivisten in Uniform als "Pelzfahnder" in den Innenstädten auftreten. Vor
-einiger Zeit habe ich hier im Blog über die
-[Tierpatenschaften des DTB](/2015/12/tierpatenschaft-verschenken-und-kochbuch-bekommen/)
-berichtet.
+Das Deutsche Tierschutzbüro setzt sich für die Rechte der Tiere ein. Jüngst sorgt es wieder mit einer Anti-Pelz-Kampagne für Aufsehen, bei der die Aktivisten in Uniform als "Pelzfahnder" in den Innenstädten auftreten. Vor einiger Zeit habe ich hier im Blog über die [Tierpatenschaften des DTB](/2015/12/tierpatenschaft-verschenken-und-kochbuch-bekommen/) berichtet.
 
-Wer mehr erfahren möchte, findet das Deutsche Tierschutzbüro
-[hier auf Facebook](https://www.facebook.com/Tierschutzbuero/?fref=ts)  und 
-[hier geht es zur Homepage](https://www.tierschutzbuero.de/).
+Wer mehr erfahren möchte, findet das Deutsche Tierschutzbüro [hier auf Facebook](https://www.facebook.com/Tierschutzbuero/?fref=ts)  und  [hier geht es zur Homepage](https://www.tierschutzbuero.de/).
 
-Wenn Ihr die Aktion  _Neue Bauernregeln_ unterstützen wollt, klickt am besten
-einfach hier auf das Banner.
+Wenn Ihr die Aktion  _Neue Bauernregeln_ unterstützen wollt, klickt am besten einfach hier auf das Banner.
 
-<RemoteImage alt={`Neue Bauernregeln`} size="full" title={``}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_steht-das-Schwein-auf-einem-Bein__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_steht-das-Schwein-auf-einem-Bein__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAIEAwUGB//EACcQAAIBBAECBgMBAAAAAAAAAAECAwAEESESMVEFExQiQWEGMnHR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAQUG/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAEDESEjgTH/2gAMAwEAAhEDEQA/APWYEaRyFDKoOPdgZP1RPaSmVJUupgijaKgIb7OtVjKK0V2stu9wpkDYVc8idg4B+NfI6VIkQCIBbMrKAoxYvgA55LjnsHJoC8NVK8l0dnMryStPNIrDAjZQoU9xrr/tPIhR0A5MpOCePQ9jWt8lVQNDalJlUe0WrEj3EE4542B067zV0UcY9GtvE0UYkZ8OuCpxvIJzvP3VMjVZH/MvDnvTbeX4j4hZYRwfSS+Xn9dnXUV2PBRripx3Aoop+daY+nOwvbJwgfnzfEjAZOBga3/Ka35F2VnLDiTgqO38oopOgqbs/9k="
+<RemoteImage
+  alt={`Neue Bauernregeln`}
+  size="full"
+  title={``}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_steht-das-Schwein-auf-einem-Bein__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_steht-das-Schwein-auf-einem-Bein__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAIEAwUGB//EACcQAAIBBAECBgMBAAAAAAAAAAECAwAEESESMVEFExQiQWEGMnHR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAQUG/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAEDESEjgTH/2gAMAwEAAhEDEQA/APWYEaRyFDKoOPdgZP1RPaSmVJUupgijaKgIb7OtVjKK0V2stu9wpkDYVc8idg4B+NfI6VIkQCIBbMrKAoxYvgA55LjnsHJoC8NVK8l0dnMryStPNIrDAjZQoU9xrr/tPIhR0A5MpOCePQ9jWt8lVQNDalJlUe0WrEj3EE4542B067zV0UcY9GtvE0UYkZ8OuCpxvIJzvP3VMjVZH/MvDnvTbeX4j4hZYRwfSS+Xn9dnXUV2PBRripx3Aoop+daY+nOwvbJwgfnzfEjAZOBga3/Ka35F2VnLDiTgqO38oopOgqbs/9k="
 />
 
 [](http://neue-bauernregeln.com/)
 
 **Bilder:** Deutsches Tierschutzbüro
-
-  

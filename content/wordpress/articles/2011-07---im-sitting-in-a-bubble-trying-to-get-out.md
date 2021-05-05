@@ -7,12 +7,8 @@ typeName: Artikel
 title: I'm sitting in a bubble, trying to get out
 seoTitle: I'm sitting in a bubble, trying to get out
 ogTitle: I'm sitting in a bubble, trying to get out
-description: Erst kündigt sich das Gewitter lautstark an, dann zieht es vorbei.
-  Der Song des Tages kommt heute von der schwedischen Band JUNIP mit ihrem
-  großartigen Sänger José Gonzalez.
-excerpt: Erst kündigt sich das Gewitter lautstark an, dann zieht es vorbei. Der
-  Song des Tages kommt heute von der schwedischen Band JUNIP mit ihrem
-  großartigen Sänger José Gonzalez.
+description: Erst kündigt sich das Gewitter lautstark an, dann zieht es vorbei. Der Song des Tages kommt heute von der schwedischen Band JUNIP mit ihrem großartigen Sänger José Gonzalez.
+excerpt: Erst kündigt sich das Gewitter lautstark an, dann zieht es vorbei. Der Song des Tages kommt heute von der schwedischen Band JUNIP mit ihrem großartigen Sänger José Gonzalez.
 fileName: 2011-07---im-sitting-in-a-bubble-trying-to-get-out.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_07_Treppe__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_07_Treppe__l.jpg
@@ -29,27 +25,20 @@ labels:
   - Junip
   - Melancholie
   - Musik
-focusKeyword: ""
+focusKeyword: ''
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Tagebucheintrag
-  
 ---
 
 **Erst kündigt sich das Gewitter lautstark an, dann zieht es vorbei.**
 
-Der Song des Tages kommt heute von der schwedischen Band JUNIP mit ihrem
-großartigen Sänger José Gonzalez.
+Der Song des Tages kommt heute von der schwedischen Band JUNIP mit ihrem großartigen Sänger José Gonzalez.
 
 ## **Song des Tages: Junip - "To The Grain"**
 
- <YouTube id="FmLFJOvWGw0" />
-
-
-
-
-
-  
+{' '}
+<YouTube id="FmLFJOvWGw0" />
