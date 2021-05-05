@@ -92,7 +92,26 @@ Mountain Mist
 </blockquote>
 
 <Gallery
-images={\[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15659809233_3fa9f37cff_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15659809233_3fa9f37cff_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15642744004_9a850bc9bf_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15642744004_9a850bc9bf_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_11627444026_23859e830a_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_11627444026_23859e830a_z__l.jpg"}\]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_03_15659809233_3fa9f37cff_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_03_15659809233_3fa9f37cff_z__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_03_15642744004_9a850bc9bf_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_03_15642744004_9a850bc9bf_z__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_03_11627444026_23859e830a_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_03_11627444026_23859e830a_z__l.jpg',
+    },
+  ]}
 />
 
 Ein weiteres Gedicht aus meiner Feder [findet Ihr hier](/2011/09/heimweggedanken/). Es ist kein Flarf-Gedicht, aber trotzdem schön. Unter anderem geht es darin um frittierte Glückseligkeit.

@@ -68,7 +68,20 @@ Sag nein zu Gewalt. Sonne, Du sinkst.
 </blockquote>
 
 <Gallery
-images={\[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-4-von-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-4-von-4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-2-von-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-2-von-4__l.jpg"}\]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-4-von-4__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-4-von-4__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-2-von-4__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-2-von-4__l.jpg',
+    },
+  ]}
 />
 
 Was genau ein Flarf-Gedicht ist und wie es entsteht, [erfahrt Ihr hier](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/).

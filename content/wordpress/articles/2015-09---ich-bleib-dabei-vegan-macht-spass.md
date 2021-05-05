@@ -128,7 +128,56 @@ Auch so ein "Gegenargument", das ich immer wieder von Zweiflern höre ist "'Vega
 So, Schluss mit der Lobhudelei, ich muss kochen, heute gibt es was wirklich Leckeres! Wir lesen uns ganz sicher! Wer im Gegensatz zu mir noch nicht weiß, was er/sie heute Abend auf den Tisch bringen könnte: [Hier geht's zu meinen Rezepten](/category/vegan/vegane-rezepte/).
 
 <Gallery
-images={\[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Das-Vegan-Sneaker-Connection-Team__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Das-Vegan-Sneaker-Connection-Team__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Sandra-Umann__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Sandra-Umann__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_1016809_626965250655757_993245008_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_1016809_626965250655757_993245008_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_IMG-20140828-WA0005__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_IMG-20140828-WA0005__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Kathrin-Eva-Schmid-vom-Tierschutztheater1-e1441814170282__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Kathrin-Eva-Schmid-vom-Tierschutztheater1-e1441814170282__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Anhang-7__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Anhang-7__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_07_website__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_07_website__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Anja-Umann__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Anja-Umann__l.jpg"}\]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_09_Das-Vegan-Sneaker-Connection-Team__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_09_Das-Vegan-Sneaker-Connection-Team__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_09_Sandra-Umann__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_09_Sandra-Umann__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_02_1016809_626965250655757_993245008_n__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_02_1016809_626965250655757_993245008_n__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_09_IMG-20140828-WA0005__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_09_IMG-20140828-WA0005__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_09_Kathrin-Eva-Schmid-vom-Tierschutztheater1-e1441814170282__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_09_Kathrin-Eva-Schmid-vom-Tierschutztheater1-e1441814170282__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_09_Anhang-7__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_09_Anhang-7__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_07_website__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_07_website__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_09_Anja-Umann__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_09_Anja-Umann__l.jpg',
+    },
+  ]}
 />
 
 ## Fußnoten

@@ -28,10 +28,12 @@ year: '2016'
 month: '05'
 ---
 
-<RemoteImage alt={`Wetter`} size="medium"
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_22555934110_718c3aecdf_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_22555934110_718c3aecdf_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBwb/xAAnEAACAgECBgEFAQAAAAAAAAABAgMEEQAFBhITITFBIhQjUXGBYv/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAjEQACAgEDAwUAAAAAAAAAAAABAgARAwQhMRJB8BNRcbHR/9oADAMBAAIRAxEAPwCZtvFFqytOqkMM1mU/anFcDEKr3aQIxGSwIznIPnPgdv1J5bNtLU1iOuX+iQSoChdUbDxEDJDYwQOwPvWW8Bl7PG+x144wlaITAKgIRSUYsAp/1k60bbd226Th2waMlmeQVwhjnLH8rzryfJDkLkjt7Ps6nwkZGDMeLmqdKBp2yY1s7Cq88EQtWYmviG1ttadNvcPDOx+UwwuEMeO+SSCM+s9tQr3F+87htdaaWok1zklnszRosbxQrIIw2OVgR8WOPWe2kOOeJLVDb7dVOmk9dFtSFpBM7ShhgFsZKhlJwT5/us+i4tvJXhe/0hFYqfSyCNOT7DMzBRjsMknJ0zLjdGBvYyQqvpk1vV18RrhmtNReO09yzNKVIA6jKACMHwc+D+dKw7rdi3mepXkjResUVmjDEKCe36wSCPY86NGgcCuI3Q5X6jv2j26i1vqSG5ZXrWp2rSOsQA5YyoXCggD9DtqLxNtcaXdt29HbprV5SxGSeQsc/wB0aNEHLCj2/TC1IACN7g/Qn//Z"
+<RemoteImage
+  alt={`Wetter`}
+  size="medium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_22555934110_718c3aecdf_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_22555934110_718c3aecdf_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBwb/xAAnEAACAgECBgEFAQAAAAAAAAABAgMEEQAFBhITITFBIhQjUXGBYv/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAjEQACAgEDAwUAAAAAAAAAAAABAgARAwQhMRJB8BNRcbHR/9oADAMBAAIRAxEAPwCZtvFFqytOqkMM1mU/anFcDEKr3aQIxGSwIznIPnPgdv1J5bNtLU1iOuX+iQSoChdUbDxEDJDYwQOwPvWW8Bl7PG+x144wlaITAKgIRSUYsAp/1k60bbd226Th2waMlmeQVwhjnLH8rzryfJDkLkjt7Ps6nwkZGDMeLmqdKBp2yY1s7Cq88EQtWYmviG1ttadNvcPDOx+UwwuEMeO+SSCM+s9tQr3F+87htdaaWok1zklnszRosbxQrIIw2OVgR8WOPWe2kOOeJLVDb7dVOmk9dFtSFpBM7ShhgFsZKhlJwT5/us+i4tvJXhe/0hFYqfSyCNOT7DMzBRjsMknJ0zLjdGBvYyQqvpk1vV18RrhmtNReO09yzNKVIA6jKACMHwc+D+dKw7rdi3mepXkjResUVmjDEKCe36wSCPY86NGgcCuI3Q5X6jv2j26i1vqSG5ZXrWp2rSOsQA5YyoXCggD9DtqLxNtcaXdt29HbprV5SxGSeQsc/wB0aNEHLCj2/TC1IACN7g/Qn//Z"
 />
 
 **Was hat das Wetter mit einem Spiegel und einem Übersetzer gemeinsam? Es wird gesucht.**
@@ -63,5 +65,18 @@ Hoffentlich werden sie das hier geschriebene auch ins Englische übersetzen.
 </blockquote>
 
 <Gallery
-images={\[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_14258074263_684bbef3fd_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_14258074263_684bbef3fd_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_14418919860_161d8d7737_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_14418919860_161d8d7737_z__l.jpg"}\]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_05_14258074263_684bbef3fd_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_05_14258074263_684bbef3fd_z__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_05_14418919860_161d8d7737_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_05_14418919860_161d8d7737_z__l.jpg',
+    },
+  ]}
 />

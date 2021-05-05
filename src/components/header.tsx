@@ -2,7 +2,7 @@ import * as React from 'react';
 import styled from '@emotion/styled';
 
 import Link from 'gatsby-link';
-import { Logo } from './logo';
+import { Logo } from './logo-alt';
 import { MainNav } from './nav-main';
 import { Search } from './search';
 import { event } from './analytics';
@@ -35,6 +35,9 @@ const Wrapper = styled.header`
 
 const HomeLink = styled(Link)`
   padding: ${space[0]};
+  display: flex;
+  align-items: center;
+  justify-content: center;
   h1 {
     display: none;
     margin: 0;

@@ -59,5 +59,36 @@ Ein einmaliges Spektrum Die Elbe im Licht der untergehenden Sonne Der historisch
 </blockquote>
 
 <Gallery
-images={\[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-2-von-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-2-von-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-5-von-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-5-von-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-6-von-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-6-von-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-3-von-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-3-von-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-1-von-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-1-von-6__l.jpg"}\]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-2-von-6__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-2-von-6__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-5-von-6__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-5-von-6__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-6-von-6__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-6-von-6__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-3-von-6__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-3-von-6__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-1-von-6__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-1-von-6__l.jpg',
+    },
+  ]}
 />

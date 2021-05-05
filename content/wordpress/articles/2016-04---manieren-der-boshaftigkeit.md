@@ -75,7 +75,20 @@ Richtig spannend finde ich, wie gut er zu dem Film passt, den ich gestern gesehe
 Daher auch der von mir gewählte Titel. Ich dachte, er passt ganz gut. Genau, wie die Bilder, die ich dazu aus meiner Sammlung ausgesucht habe. Ich bin gespannt, was Ihr dazu sagt.
 
 <Gallery
-images={\[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_04_16034123553_1fbe9e707e_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_04_16034123553_1fbe9e707e_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_04_13542419453_ea42d21831_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_04_13542419453_ea42d21831_z__l.jpg"}\]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_04_16034123553_1fbe9e707e_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_04_16034123553_1fbe9e707e_z__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_04_13542419453_ea42d21831_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_04_13542419453_ea42d21831_z__l.jpg',
+    },
+  ]}
 />
 
 Mehr über Flarf-Gedicht und wie sie entstehen, [erfahrt Ihr hier](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/).

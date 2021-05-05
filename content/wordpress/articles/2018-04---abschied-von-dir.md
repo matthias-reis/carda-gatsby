@@ -71,7 +71,44 @@ Ein Kuss auf die Wange. Tschüss. Mach es gut.
 Die Bilder entstanden letztes Wochenende an der Ostsee. Am Meer kann man am besten Abschied nehmen. Es ist unendlich. Es weiß alles und hat schon alles erlebt. Es war schon überall und wird überall sein.
 
 <Gallery
-images={\[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_26619268697_94e2968637_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_26619268697_94e2968637_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27619103848_f63422b81f_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27619103848_f63422b81f_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41490421311_e84869a438_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41490421311_e84869a438_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27619104988_ff91694074_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27619104988_ff91694074_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41490426461_e5fb4ff87f_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41490426461_e5fb4ff87f_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_40597019075_fed07928a2_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_40597019075_fed07928a2_z__l.jpg"}\]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_04_26619268697_94e2968637_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_04_26619268697_94e2968637_z__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_04_27619103848_f63422b81f_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_04_27619103848_f63422b81f_z__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_04_41490421311_e84869a438_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_04_41490421311_e84869a438_z__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_04_27619104988_ff91694074_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_04_27619104988_ff91694074_z__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_04_41490426461_e5fb4ff87f_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_04_41490426461_e5fb4ff87f_z__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_04_40597019075_fed07928a2_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_04_40597019075_fed07928a2_z__l.jpg',
+    },
+  ]}
 />
 
 <YouTube id="k_uHkAngzHw" />

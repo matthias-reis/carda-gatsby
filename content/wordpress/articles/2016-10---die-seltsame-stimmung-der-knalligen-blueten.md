@@ -65,7 +65,20 @@ Husten, niesen, Nase putzen.
 </blockquote>
 
 <Gallery
-images={\[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_10_29988577906_564ed8f9be_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_10_29988577906_564ed8f9be_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_10_29908839612_346370f2cd_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_10_29908839612_346370f2cd_z__l.jpg"}\]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_10_29988577906_564ed8f9be_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_10_29988577906_564ed8f9be_z__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_10_29908839612_346370f2cd_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2016_10_29908839612_346370f2cd_z__l.jpg',
+    },
+  ]}
 />
 
 Die Fotos für diesen Artikel habe ich in Finnland und in der Lüneburger Heide aufgenommen.
