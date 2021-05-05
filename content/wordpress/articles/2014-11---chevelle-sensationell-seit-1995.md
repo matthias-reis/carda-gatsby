@@ -45,7 +45,7 @@ subTitle: Chevelle live @ Backstage Halle München
 <RemoteImage
   alt={`Chevelle endlich live in Europa - Fantrophäe und Eintrittskarte`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Chevelle endlich live in Europa - Fantrophäe und Eintrittskarte`}
+  title={`Chevelle endlich live in Europa - Fantrophäe und Eintrittskarte`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_unbenannt-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_unbenannt-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QALBAAAgEDAwIFAgcAAAAAAAAAAQIDBAURABIhBjETFCJBUQcyFUJDYXGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAIEAP/EACIRAQACAgAFBQAAAAAAAAAAAAEAEQIDBBIxcfATIUFh0f/aAAwDAQACEQMRAD8Aj/TyOSauvVVVIk9P56OWBGqMqkXrygXPpBwvtnjjV1uyUVXTALT0pBwFD7n8IfHBGdYt0z1DfbYKyKg6fNRDNU71nlLQ4GTgbuAfuPv8a0KOu6mqqfF+Ww0NOy5Yy73I/ssgJ7fmOptOWOOoNle3hKeIvLZzazr+F9a+Yo6qt9KtnrPweGZa0Iqo4ZiQwdcsAPfAPY6ofVVfcDSW6nrJk8aMBXwdxc7HBJOflPfnJOr9c7109b6OWKqrvPSSRtEzUsRXaOzbWBGMZ77jrIuorlQT1VLSWagFDSQgKULb2J9RBJ7j7mzyc63rY7MUCNMsAFvz7jZOory90lpFuMkSBxHmJFjJU+nkqAxPPueddo287TRVcpffUyRKcuWw0k7xE85yB4asB7cjnOdGjU6FD2iVuu8g3eIrUUku9yPDmnKkn9N5ABkc87CcnPLE6TGjEksEisF2KDjbnsB+/wAD/Sf40aNO0IQtn//Z"
@@ -64,7 +64,7 @@ Bereits seit 1999 begleite mich Valentin, Matze und mich ihre Musik nun schon. A
 <RemoteImage
   alt={`Das Konzert war sensationell`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Das Konzert war sensationell`}
+  title={`Das Konzert war sensationell`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_img_2546__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_img_2546__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBggD/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURACExBgcSFCJBYROBUXGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EAB4RAAEEAgMBAAAAAAAAAAAAAAEAAgMRBCESMUFh/9oADAMBAAIRAxEAPwC19ddMxUlgtrpQ0NBW0yPLU+nCsVjfPtyw8Sw292MA8ah0r0pZOpu3tunuy22nrSZVW4qUUSEOwAlAxvgDj9c67d3eqpbR6yopYYZmd1pUEy+UYypySvDbA7HWdI6aeaGorEgeaOnU7+Ht8zwBgY2BzjRxs1pGTYr1NW09oa+9QVdY8EdLQMvnRiSM+UyfB+CPLncDAxo00uy3Xp6h7eRLXv8Akuttb0c5flsDMbn7K8/anRpjpj40JYH1U7vFTJXdL0cSxuUa5RyzvHysaqxY5+Nth940gqu73GlV6G3VT08CkySKpBH5G3PP8DA/WmV1j1kYrJVwSNE8coOQR5bDcLjOwJ5I340p75XRGeSGmhWKOJ2RVVixdtizEnfc/HwABq7KxhA2rWMks67WouiktVJ24t81loYKI1dMk04j3LzePixZiSScg/1o1Wo7sLZYbbbkCKIKeONwvAbxHl/udGp4Z2BgSpIX8zS//9k="
@@ -98,6 +98,7 @@ Bis bald Anne &lt;3
 ## Hier sind für Euch Chevelle mit "The Clincher"
 
 {' '}
+
 <YouTube id="OP3Yhs8q7oM" />
 
 <Gallery

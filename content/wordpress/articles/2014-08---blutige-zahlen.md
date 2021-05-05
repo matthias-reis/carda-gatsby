@@ -78,7 +78,7 @@ Leider nur ein kleiner Tropfen auf den heißen Stein, wenn man bedenkt, dass wel
 <RemoteImage
   alt={`Geschlachtete Tiere in Deutschland - bund.net`}
   size="large"
-  title={`[ ](http://www.bund.net/fileadmin/bundnet/publikationen/landwirtschaft/140108_bund_landwirtschaft_fleischatlas_2014.pdf) Geschlachtete Tiere in Deutschland - bund.net`}
+  title={`Geschlachtete Tiere in Deutschland - bund.net`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_infografik_-geschlachtete_tiere_in_deutschland__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_infografik_-geschlachtete_tiere_in_deutschland__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABwDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgUCAwQH/8QAMRAAAgECBAMGAwkAAAAAAAAAAQIDABEEBRIhEyIxBhQyQVFhYnGBIzRDc6LBwtHh/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUBAwb/xAAhEQABAwMEAwAAAAAAAAAAAAABAAIhAwQREhOh0TGBsf/aAAwDAQACEQMRAD8A9onzNI5ZlIw+lXYLcEbXOxrgTPpY8VIrjAyQFjYtC2pV9OtifnWnOFcTYhdB5pXIGk9Nb/5U7hOW8Nh7iw60KagEZ+Jo2zPmOe1Ww2f5q7hTnCbDYdwQarA/Ftvb6D60lybF4/G4PiTyWcHTdE0BthvYsfU+1CoIJFdH+yK3sbuOm1/3pZ2cgEGDkU8GxcEaHBHgUeXyqW1Q441T6VVW2225jntH81A71IbfiOP1GuPaq2MiczTnhO3O5HIT5n2qccNOLXgl3+A/1WYe06jCbtcMBZYeNGGptyPI0n7P/dJPzP4ijmHw0wcM0Uo9OU70lyJGXCyalYXkPUEeQouwaRVCGvCNtf/Z"
@@ -93,7 +93,7 @@ Mit 58 Millionen getöteten Schweinen im Jahr steht Deutschland bei der Schweine
 <RemoteImage
   alt={`Zutritt verboten`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Zutritt verboten`}
+  title={`Zutritt verboten`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_11337775535_483b28d0f8_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_11337775535_483b28d0f8_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcBBAYI/8QAKhAAAgIBAgUDAwUAAAAAAAAAAQIDBBEABQYHEiFBEyIxFCNRYXGRodH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAQIDBf/EAB0RAQACAgIDAAAAAAAAAAAAAAEAEQIDITFhgfD/2gAMAwEAAhEDEQA/AFTwdwtuPGm9z09vsV1srE1mWW3I2COoAkkAksSw1qL3JniGptlu613aXjrQvOyLJIGZVUscAoPAPzq1yAEycZ2pIsxK+3ypHK0ZMZcPGenJ7ZwD50793rTS7FuhsXPVf6SYGOJe3UY2AGAck5OPjQikudJ4ZyBXsz1gTWnmh6wCfTlZM/jOD+p/nRqZK01RvQtQywToFDxyoUYHAPcHuNGq3JqPDlPZs1+VN/6XLsL8isBL6YCt6Wffj2djjq8Ak+NaVV3elaozJw7t23uthIpHhtDqyzAdCgL9xT7ux7jHV40kdj4w3zhirLt22PDEgmZpFnqiRg7AI4w3wMAAgjxoj473+Fy0ViohClQRSjIUEYIUEEKP20bLUqsVq3GGIN8Pp8Pz3LvOlAvM3eQBnIhbP5+0v+aNZ7cre68RblLdspLctlER2ggwAqjC9kGB2H9aNb4iBCs//9k="
@@ -108,7 +108,7 @@ Die Billiglöhne haben dazu geführt, dass Firmen aus Nachbarländern ihre Tiere
 <RemoteImage
   alt={`Hinter der Wand leben die Artgenossen`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Hinter der Wand leben die Artgenossen`}
+  title={`Hinter der Wand leben die Artgenossen`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_11337870944_520300ede0_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_11337870944_520300ede0_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAHAAAAgAHAAAAAAAAAAAAAAAAAAcBAgMEBQYI/8QALRAAAgECBQIFAgcAAAAAAAAAAQIDBBEABQYhMQcSIjJBUbETYRQjUpGhweH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAeEQACAgICAwAAAAAAAAAAAAAAAQIDBBESEzEyQf/aAAwDAQACEQMRAD8A54niaJZe1C0Ya/HF/T4wwtE6Ay3qBlQTTGZPSZ5SxJ+OgzNbwMxJs0ToCRxuCDzjUZozJXlU7lEoKre3I4425Awxej3UGPQrVdHmVL3ZZXOkktTCg+vTnyFrW8Y2Hh9Lki/GGyu3r3T7IOtx5al4FbqjT2Z6YzuoyzOKV6aqi3sdw6Hh0PDKbGxHtiwgPcOxSFX1c4bfVbW2Ua1zXNoq7LUpno3EWT5jCniaJW8s99yjhiw/Qbbbm6jmhkhJFiCLg2Pt/mGxrJzgnYtMyaSeosz7ntggceaKfbf33/rE5/MM6SbjxKPtsT8oMGDCAkJbPSRyMAXEKNf3s3Z/I+MU66kjhrZ4V8iqki/a4Fx+zHBgxH0tH//Z"
@@ -127,7 +127,7 @@ Mehr über die Wahrheit zur Schlachtung von Biotieren ist auf der Seite [biowahr
 <RemoteImage
   alt={`Weideland`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Weideland`}
+  title={`Weideland`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_9647416442_6111074c8a_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_9647416442_6111074c8a_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKhAAAgIBAwMDAgcAAAAAAAAAAQIDEQQABSESEzEGQYEHcRQVIiMzYaH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQC/8QAIBEAAQMDBQEAAAAAAAAAAAAAAQACERQhQQQTMWGh8P/aAAwDAQACEQMRAD8AYF3nBx5FeVkSGNrdAVIJINqBfnn/ADTxsvrDZ87B7oyUh6eO3Ibah78edcxxTSTq5hUWbbpJu/t86mJuc2KnYCN3WAKKsZJo+331dUThI2hHK271J6t2jHzGdjLkRsp/jUVQHNkmhftfmq1QR/UzaZMc1iZIMbLbAqOKrx86SE3WT8nyIfwWc0chQZSoYwMhCQESmQlSrWxII5Ol+TH3aZQBt+3xwAcKbDFa4BA4/vzoVTgnP0zA0QfR917mxgZsuTL0OeGlpKoBDfnir+3jTImZkYQCxymyjk1wCV58fGjRqEgXKxKosLeszE2qT9zuDoWRevki3o2ffUSb1JkvHGT1fqNEdQr440aNMc0HCLRZf//Z"
@@ -140,7 +140,7 @@ Rund zehn Prozent der geschlachteten weiblichen Kühe in Deutschland sind träch
 <RemoteImage
   alt={`Weltweite Schlachtungen bund.net`}
   size="full"
-  title={`[ ](http://www.bund.net/fleischatlas) Weltweite Schlachtungen bund.net`}
+  title={`Weltweite Schlachtungen bund.net`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_aef9d6a669__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_aef9d6a669__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAeACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUDBgcI/8QAKRAAAgIBAwIFBAMAAAAAAAAAAQIDBBEABSESMQYTFCJBJFFxgTJSYf/EABcBAQEBAQAAAAAAAAAAAAAAAAMFBAb/xAAgEQACAQQCAwEAAAAAAAAAAAABAhEAAwQhIjEFQWGh/9oADAMBAAIRAxEAPwDoreNzeputer6vyns58pPJLD2jLEsFIUAfJI0Eu7+roWybQfyj7sgD2hh7xj41D4t2bb7u+1r1yvNJZrVpY4WjbAUMOePk4Jx+9IJdht7Z5M+32IXaVx1hwVygKsfz8ZGiyCRbMCdVosLbIJZuWoFH7D4trb1To3aQZ0rSPAygEtwBg8gdxzj9d9R7rvLX78XUjqAqqF/rnvpTu8Nnw5crbhtsdaKiYx0QRIFHUUHUSAOTnnP40o2fe57W+NDOgKyscNgAg9xjHwcaheRcjgraJBIj4Kr4GMboa8F0Jjf2tH8UpuCblFNtzw9LBUlWwpMagHJYkMCCR7RwRnvoKSG48IiaeL1HmzFREgYIAoITkjJwO5xydWLdqqWzLFMqtGwHB+47H9HnSqDY4o5IJjI72Y5DIZsKjSEjB6goA5/GuiKyI9VAVgpn3ul1irbu+mjv1UWjGoVwZl6wOgZc44XBH+6SQbFLFe9bTjVqsbyRliwZgFdlPbH2z27HVrt7M9uzObF2Zqkqj6UKoUHBB9wGSCD/ABOeedH7PQFCGtWgwUjIAJ4JH3OBydC+LbYMCNkd/lKuTcUABjEzHVf/2Q=="
@@ -149,7 +149,7 @@ Rund zehn Prozent der geschlachteten weiblichen Kühe in Deutschland sind träch
 <RemoteImage
   alt={`Bild: Occupy For Animals`}
   size="medium"
-  title={`[ ](http://www.occupyforanimals.org/animal-kill-counter.html) Bild: Occupy For Animals`}
+  title={`Bild: Occupy For Animals`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_occupy-for-animals__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_occupy-for-animals__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAHBAj/xAAoEAACAgEDBAEDBQAAAAAAAAABAgMEBQYRIQAHEjETCCJBMkJRUnH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAECBf/EABoRAAMBAAMAAAAAAAAAAAAAAAABAgMhMUH/2gAMAwEAAhEDEQA/APQWorseCgfI7RSu/wAdeKOScQo0hJ/dsdidgPz6HocgvX1laWSu0+BqmtK6kTVsrG4UMikMAQCeHB452Pr112d3I8FkcbTxmfe6gaws8LVVKsrhXUESEhVP3Ecnfngcg9Z7c7cYyTT1Mw6nkxc1h0WnVydiAEhFrD4wVHLGOon9thsNv1b0UolmoYG7LkclJDaw0lIwwpI4eR2X5HAYrygU7bkeSseR1dAdDaat3LWM1TjdRZMUr6JdeOxaEo8SIG+PwXxA8iJ1PvhU3G46uiLNeC11zyKdW4vM35hdaZbtJXV0pxCRvBQ2wKxoV83Pkd2Z/EKOF99Zt31tYXT/AGhyGOyK1m1DkhH8VWZIRYhBlVzzEOFHgW5PJJ5PrpEO9OlZa6RJTytlQAT40h+CCPbjbkcdEe4mvNG6rxGUinxGYXIWaT1IrDU0Jh3YEEL8oG/kibn2QAN9h0DK0+2OXNLwRfTPAtfs9ipFkcPYs2JWHiPQkKgA/kfaT/pPV0O0T3O07pLT9fBxUs68NUSGMTRQqQGYt47iT+WPJ5O/V04qhLsztI0dNpH/2Q=="
@@ -168,7 +168,7 @@ Weltweit muss man allerdings von steigenden Zahlen sprechen. In Asien findet zum
 <RemoteImage
   alt={`Trends der Fleischerzeugung in Millionen Tonnen bund.net`}
   size="medium"
-  title={`[ ](http://www.bund.net/fleischatlas) Trends der Fleischerzeugung in Millionen Tonnen bund.net`}
+  title={`Trends der Fleischerzeugung in Millionen Tonnen bund.net`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_fleischatlas_2014_grafik1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_fleischatlas_2014_grafik1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAdACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgQAAwUH/8QAKhAAAgECBQMDBAMAAAAAAAAAAQIDBBEABRIhMSJRYRMUwRVBcYEykbH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAwAC/8QAHBEAAgICAwAAAAAAAAAAAAAAAAEREgITIUFR/9oADAMBAAIRAxEAPwDv0sQjklQRZy41WDCsa3PKkvgXQanZ4M96zY2qSAPwA+36xbVU0Wae4pqtVeKKdJF6FNirXHNxyOcKPklHojBqHGiVZLrHFcgKw0Gyfx6ie+3NsTsyixTNCjqHpYjF7DMJbMTrqSsjHjgl+PGGzWhaf1pKZYx91aMahvbgHGRHTtR00oyotLIV6Y5YgsRa46iVUHjth2JZpogtbDCqlBqRSW673NvGwt98F/DrXxLKZAvvajXNHDdgRrQHV5F7fOCVoPvWj9BR8HGjNlcUjyMzG8i6DYkbf3sfPOBfKo2D3d+pQpsxGw7b7HzhqFuhMSwHmtc/hwPjFsBiOr0pC+293Zv9wy+WRsXu7dTBjYkbjtvt84n0yP1NYdg2vXybXtbvx44xoYSj/9k="

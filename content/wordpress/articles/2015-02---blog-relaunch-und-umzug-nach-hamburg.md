@@ -41,7 +41,7 @@ subTitle: Teil III: Die Vorfreude
 <RemoteImage
   alt={`Oskar fragt sich, was los ist`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Oskar fragt sich, was los ist`}
+  title={`Oskar fragt sich, was los ist`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_16427078811_31c1a4b20c_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_16427078811_31c1a4b20c_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcGCAEDBP/EADAQAAIBAgQEBAMJAAAAAAAAAAECAwQRAAUGEhMUITEHFUFRIjJhCDNiY3GVobHj/8QAFwEBAAMAAAAAAAAAAAAAAAAAAwABAv/EABwRAAICAwEBAAAAAAAAAAAAAAECABEDITEiMv/aAAwDAQACEQMRAD8AtClVG8kaIwYuhcEH2tf+8Aq/UGZRVjwUGRSVaCfgCXmo41J27j7ke3UYzqfLd0UdVS1stC1KrXEZAR1ewIb1t09LYWniBqLUuUTrlWmqDmq2WQ1DTVMnwhDGsffpdgxufXEXu5sJfJPTrZ1y3mpct2OOMGj5kMAY3ZCAwBuCV74C5Xq4asEjVNClByoBG6oD799/wra23+cQWhrJBpmVZTGs8i1BEcTiThtvfcLjvZjbGzw4R5vNBVzcbaIgu4KLfPfsP0wLtuoyY6Wz2NfVNRmEtMaeLlKNKmCVH5hGmdht7KFIUHr6k4q1U5rXSRRrLWVcixsskYctJsYdmFz3HuOuLH59QVGuTSNp/UdXkzUAbi7YC/F4ltt/jA6bD798Q2TwElcknVI/bv8AXFvbfMbC6YgQ53ErQ548FfVCphirY1p40VJiwCXd2JUC1iT1OGJ4V55lk/m/MU0tLt4NjTzOwPz3uCcGh9naTmJpTqz7xVWwy61tt/zfrjhzDw8bw+2g5xLmHmF+op+Fw+H7/E177/p2wbIRsxRmR/IM/9k="
@@ -62,7 +62,7 @@ Und von Woche zu Woche wird der Stapel größer, die **Trennung** wird immer lei
 <RemoteImage
   alt={`Chili schläft gerne im Auto`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Chili schläft gerne im Auto`}
+  title={`Chili schläft gerne im Auto`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_16304443177_47613ca2b5_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_16304443177_47613ca2b5_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcEBQj/xAAuEAACAQMCBAQEBwAAAAAAAAABAgMEBREABhITIUEHMVFhFBVCcSIjMpGhsdH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAgP/xAAgEQACAgIBBQEAAAAAAAAAAAABAgADERIxISIjQWFx/9oADAMBAAIRAxEAPwCHQWOpjjNdVpHFCx6ESA/t31ooah6BgGMnDj8SpGcY64OdILnX01x5TXGVIYYUAWKJcDOkPh1Y6GeuNdeHHytckRSKczenfoP59NRuNCziOWthhQevyFBUwVtI8Ujq4DDAkfAY9u/nrLNFKbfJJUSnmK3AKfhC8tQOmANV6p2Dtdor3V0AdJh+bTUrIIwqYBxnzYZBxnHToc6L1zrRbYpJ/h6aspJiwYyxhsEYx18wcf1ot1i48Y9xNStnvM4u1bFR3msWrujRiItkQp5H7dsar1Hb7Py+XSQLFIneFRnPudedNu36akZVV+EDv6fbVR29uRTIVMgA4QoGehJOqvRuDxM6rARkcx1frD8Va5lo7hPT1aJxx1EZwVHng+2g+6rfU0u1KS1vJElYxMjOxwkrHuCPXSS37pp1dkeRQSgJyfq/S3+6k/iDuhZLk0dvbhiTGEP0Hvj29tHSt3YKP2atYEGzT//Z"
@@ -79,7 +79,7 @@ Ich werde weiter berichten, bestimmt gibt es im neuen Blog auch die ein oder and
 <RemoteImage
   alt={`Das Tattoo ist endlich vollständig`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Das Tattoo ist endlich vollständig`}
+  title={`Das Tattoo ist endlich vollständig`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_10959249_906589656029831_7547401194000002658_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_10959249_906589656029831_7547401194000002658_o__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABgAEBQcI/8QAKxAAAQMDAwMDAwUAAAAAAAAAAQIDBAAFERIhMQYTIgcVQRQkcVGRofDx/8QAFQEBAQAAAAAAAAAAAAAAAAAABQP/xAAlEQACAgECBAcAAAAAAAAAAAABAgADIRESExQiUSMxMmFxkbH/2gAMAwEAAhEDEQA/AOvfTfpV2826bLQtGhK+wEEZD3BODngbUufdtlts7zs1MYuwGu4hK1AOIA4wknfOMDmuA9GL27BstyYx3VsuF5tvOCoFI2/cU16ij2rrCIn3CBHLyW16X0jDjSgkq5HIJByDsd6L4jcwUaPrtFAasZnnC7TPcbg66lJQHnVPdvVnRqUSBn55qpxc+h3JtxVOtTsRuPOKjFZSCEhYSToB4AOlWDxwKqTZWBxBFZT6jmbY1ik2C9RnrVI+0ejkOF7yJWn8cHf8YzTuwvrejRXlBtltalA6T46two4O/wDtA+m+pDd5j7SY6kx0sBRUs7hw/H6Ypd0wlbk8NMpSpwZJQsjwzjyA/vFQsVWAYjqH5LUWWLfg6oRpp79/qZbVbZkK1xo8Oc2++JCHWXFatLRSFAkhQ2ylW4HP81UidifS3GRoDraG/FOXAUrHOSOc1UgXByvlCaUt2+IcgkZHY/In/9k="

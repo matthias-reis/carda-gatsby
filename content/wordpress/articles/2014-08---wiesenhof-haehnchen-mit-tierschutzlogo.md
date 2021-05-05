@@ -128,14 +128,17 @@ Es handelt sich um eine Imagekampagne, mit der man sich von Skandalen aus der Ve
 Erst vor kurzem war Wiesenhof das letzte Mal in den Schlagzeilen. Tiere wurden lebendig auf den Müll geworfen. Von Seiten der Tierfabrik kam die Aussage, mehr in Richtung Tierschutz unternehmen zu wollen, doch die Realität sah ganz anders aus, wie dieses Video zeigt, wir erinnern uns:
 
 {' '}
+
 <YouTube id="z1HgNxk7e0w" />
 
 Auch in den Jahren 2010 - 2012 deckten Tierschützer immer wieder auf, wie die Mitarbeiter in den Wiesenhof-Massentierbetrieben über Leichen gehen:
 
 {' '}
+
 <YouTube id="Jz00U-yGYtk" />
 
 {' '}
+
 <YouTube id="HkBqOq9-HDo" />
 
 Inzwischen hat sich Wiesenhof den Tierschutz einfach kurzerhand mit Hilfe eines Labels "ins Boot"geholt. Die Aussage des Tierschutzbundes hierzu: _"Der Deutsche Tierschutzbund steht dafür, jedes einzelne Tier um seiner selbst willen zu schützen. Solange jedoch die Gesellschaft die Zucht, die Haltung und den Tod von Tieren zu Ernährungszwecken als vernünftigen Grund akzeptiert, gilt es, alle Möglichkeiten auszuschöpfen, die Situation der Tiere zu verbessern."_
@@ -261,7 +264,7 @@ Matthias S., ebenfalls in der Facebook-Gruppe aktiv, hat vor ein paar Stunden z
 <RemoteImage
   alt={`Petition für ehrlichen Tierschutz`}
   size="large"
-  title={`[ ](https://www.openpetition.de/petition/online/ehrlicher-tierschutz) Petition für ehrlichen Tierschutz`}
+  title={`Petition für ehrlichen Tierschutz`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bildschirmfoto-2014-08-06-um-16-47-26.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bildschirmfoto-2014-08-06-um-16-47-26.png__l.jpg"
   loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAANCAIAAABHKvtLAAAACXBIWXMAAAsTAAALEwEAmpwYAAADwElEQVQ4jV2UWW/bRhSF9f9/RpGXJk2aBG4W2ZIt01pISRQpruKQnOHs3EZcJMWJbaCV3L4U+HBwMA8XuGfuvQOl6uOxP50Oh+PhdOz6vu275nDou757pe/bvu+6rm+7tjv0qlGMZpIRIShnhDNS5CKXTHDCOWGccHpW8Z8fUMa14SdnNvL0e3O92pqG/jC5uxnq07vJ7fX45tvs/gYEG+CvSLhmnO77Y5lz33N8z0Eo1o0FiMMg9HEGX4v+j0FVlV/fv/n+8ffhp7dfPn0Yffm41G6Gn9+Orv4Yfn539f7N+Muf0XoazMdAvw5m34QQdZ2DOIxBxBhOU8AophjySweCE8EwoxmjWHDMKBn0rYLWjIQ2i2wBttjSsGsQ4OP1mPhLBbx96DSRVzobGbrRzsxFXldFGLhB6DGahaGHYJKACEQhiHeck1zyqi7Kgp8bomSgqiIyJsF65hgTUxvG5n3qWUnogtWEM0qsze7hNnM3aGvL0FsFKyqZKgvHsZbGQgiqLxZxvKM0QyilJMtzBqJwvpgFoSslYzQb7Js6MqfmeGhOroOFhh2DuGviGtg3MWOxv3GXd4lr0sgXHPOyrJWqq9ww5uPbUVVK297EcZRCsAt9QrMi5zCNbcsMfPeSEhl0TfUw+u6Or8H8BtkW9LbBdAi3ywymIHDjwA7tJd2uSs+KQVRUxaFri4L7rnt3OxKCGsYCwZRgRDCU4jxLUrKqlGX+GlE24Fz+9n40mWiTe22q21Zc7MxFahuAlyQNA8feBW5oLaBrOSkhSj0/PXJO0wSEgSc4iaIARCFM4ySOCIacYcYJZRk7m8snE8LfLQKTdWtc66z7EJ+MABLfJFnG4M4x57aurc1pEgcpjCVGzz8fGcVSMqVKlCWGPht++xr4rudvbctMEyAFZZQIjgWnjOIBxvivpa8lhZaqRdaMfDmfr0L9bmebnq4tteuVNlo/jM35rbuageX01LdCsAwlEKWM4DD0m31VlTKXXAoq80tKgl5W7zypg8cfp5+PT0/PL8+/np4v+qtTj/3+Z98em/rYqmOrTu3+R9scu+Z06F5envOc+65j25s03l1dfeaCIBhfypGqlObaWC71XNLzTnAyUKrq+26v6r2qVV3VdXVx+0rt632zv6Catum6tu36w6FWNUIJxhBjKDl1fc/eWqZpJjDBGFFGdlG03Fi7FBFKCUaDLEvPoATBf4EwgmkE0xidNUIQXN4BSkGGUoIhJdklBybOF4nlkuVCUIopxYwzjoAMDObOaAr+ORV/A/G/NwHZC/XyAAAAAElFTkSuQmCC"
