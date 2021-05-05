@@ -26,7 +26,7 @@ labels:
   - Strand
   - Sturm
   - Surfen
-  - Serie:Möwen
+  - serie:Möwen
 focusKeyword: St. Peter Ording
 status: publish
 isWerbung: false

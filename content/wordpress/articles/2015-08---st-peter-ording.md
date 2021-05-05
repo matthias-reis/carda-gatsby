@@ -24,7 +24,7 @@ labels:
   - St. Peter
   - St. Peter Ording
   - Strand
-  - Serie:Möwen
+  - serie:Möwen
 focusKeyword: Perle
 status: publish
 isWerbung: false

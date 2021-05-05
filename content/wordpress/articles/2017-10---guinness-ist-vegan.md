@@ -30,7 +30,7 @@ labels:
   - St. James Gate Brewery
   - Stout
   - veganes Bier
-  - Serie:Irland 2017
+  - serie:Irland 2017
 focusKeyword: Guinness
 status: publish
 isWerbung: false
