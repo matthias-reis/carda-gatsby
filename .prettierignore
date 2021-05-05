@@ -1,0 +1,7 @@
+.github/
+.forestry/
+.cache/
+.dependabot/
+artwork/
+public/
+node_modules/

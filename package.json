@@ -74,6 +74,7 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
+    "pretty": "prettier --write .",
     "clean": "gatsby clean",
     "start": "yarn tsc && gatsby develop",
     "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true yarn tsc &&  gatsby build",
