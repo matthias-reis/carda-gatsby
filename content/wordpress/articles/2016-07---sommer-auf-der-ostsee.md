@@ -1,36 +1,39 @@
 ---
 date: 2016-07-29T10:52:43.000+00:00
 slug: sommer-auf-der-ostsee-travemuende-helsinki
-path: '/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/'
+path: "/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/"
 type: Galerie
 typeName: Galerie
 title: Sommer auf der Ostsee
 seoTitle: Sommer auf der Ostsee - Von Travemünde nach Helsinki
 ogTitle: Sommer auf der Ostsee - Von Travemünde nach Helsinki
-description: Vor kurzem durften wir den Sommer auf der Ostsee genießen. Bei unserer Überfahrt von Travemünde nach Helsinki hatten wir das schönste Wetter.
-excerpt: Vor kurzem durften wir den Sommer auf der Ostsee genießen. Bei unserer Überfahrt von Travemünde nach Helsinki hatten wir das schönste Wetter.
+description: Vor kurzem durften wir den Sommer auf der Ostsee genießen. Bei unserer
+  Überfahrt von Travemünde nach Helsinki hatten wir das schönste Wetter.
+excerpt: Vor kurzem durften wir den Sommer auf der Ostsee genießen. Bei unserer Überfahrt
+  von Travemünde nach Helsinki hatten wir das schönste Wetter.
 fileName: 2016-07---sommer-auf-der-ostsee.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_07_28551390516_98f008b738_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_07_28551390516_98f008b738_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwEECP/EACkQAAEDBAEBBwUAAAAAAAAAAAECAwQABREhEgYTIjEygZGhUWGSseH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFAAEC/8QAHBEAAgEFAQAAAAAAAAAAAAAAAAECBBEUITFB/9oADAMBAAIRAxEAPwCxbXFDiQo4INO0R20p8o9q5ygTutF8CXLgpAHlblBAx9BjwqTJfvq4YdMjqdqcAo9iHELZJx3QF8wrZ8SRr70o6aXQ2NXF8Rcj0dCknXxUeu0PilRSdVVDrvWKsKbTckKG93BWvyVv0pVcbj1gwVEv3JOdkqe5Z+asdo3KT8NODcpDRHFX6p5HvMgp72/WiikkC3sYmXh/syRn3/lIJc198nkvAooqZ0ts/9k=
-ogImage:
+ogImage: 
 labels:
-  - Fähre
-  - Fernweh
-  - Finnland
-  - Finnland2016
-  - Helsinki
-  - Maritim
-  - Meer
-  - Möwen
-  - Ostsee
-  - Reisen
-  - Schiff
-  - Skandinavien
-  - Sommer
-  - Travemünde
-  - Urlaub
-  - serie:Möwen
+- Fähre
+- Fernweh
+- Finnland
+- Finnland2016
+- Helsinki
+- Maritim
+- Meer
+- Möwen
+- Ostsee
+- Reisen
+- Schiff
+- Skandinavien
+- Sommer
+- Travemünde
+- Urlaub
+- serie:Möwen
+- 'serie: Finnland 2016'
 focusKeyword: Ostsee
 status: publish
 isWerbung: false
@@ -38,10 +41,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Überfahrt von Travemünde nach Helsinki
-year: '2016'
+year: "2016"
 month: '07'
----
 
+---
 **Wir waren ein paar Tage weg. Genauer gesagt zwei Wochen. Nachdem unser Festivalbesuch fast komplett ins Wasser gefallen war, sehnten wir uns nach Erholung.**
 
 Da kam unsere Reise nach Finnland genau im richtigen Moment. Ich hatte ja vor kurzem hier schon mal kurz angedeutet, dass es mich wieder in das Land der Seen, Heidelbeeren und Mumins ziehen würde, Ende Juni wurde mein Wunsch dann wahr. Am 28. Juni fuhren wir nach Travemünde und gingen dort auf die Fähre nach Helsinki.
@@ -57,11 +60,3 @@ Besonders interessant fand ich bei unserer Ostsee-Überfahrt das Licht, es sorgt
 Wie Ihr Euch vielleicht schon denken könnt, wird das hier wieder eine kleine Serie aus Foto-Artikeln. Also bleibt dran! Und jetzt: Diashow ab!
 
 <Gallery name="flickr/annetravemuendehelsinki2016" />
-
-## Wegweiser Finnland 2016
-
-1.  Sommer auf der Ostsee - Überfahrt von Travemünde nach Helsinki
-1.  [Helsinki - Schönheit an der Ostsee - Fototour durch Finnlands Hauptstadt](/2016/08/helsinki-schoenheit-an-der-ostsee/)
-1.  [Seevögel in Helsinki - Auf jeder Statue eine Möwe](/2016/08/auf-jeder-statue-eine-moewe/)
-1.  [Gänse in Helsinki - Weißwangengänse - Gefiederte Finnland-Einwanderer](/2016/08/gaense-helsinki/)
-1.  [Kuopion Korttelimuseo](/2016/10/kuopion-korttelimuseo/)
