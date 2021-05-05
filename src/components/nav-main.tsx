@@ -157,7 +157,7 @@ const Item = styled.li`
   height: 4rem;
   display: flex;
   align-items: center;
-  padding: 0 ${space[1]};
+  padding: 0 ${space[2]} 0 ${space[1]};
 
   &:hover ${Children} {
     display: block;
@@ -165,11 +165,11 @@ const Item = styled.li`
 
   & a {
     text-decoration: none;
-    color: ${color.text30};
+    color: ${color.text20};
 
     &:hover {
       text-decoration: underline;
-      color: ${color.text20};
+      color: ${color.text10};
       z-index: 1;
     }
   }
