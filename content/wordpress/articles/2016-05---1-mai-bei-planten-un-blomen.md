@@ -1,28 +1,31 @@
 ---
-date: 2016-05-06T13:57:37.000Z
+date: 2016-05-06T13:57:37.000+00:00
 slug: 1-mai-bei-planten-un-blomen
-path: /2016/05/1-mai-bei-planten-un-blomen/
+path: "/2016/05/1-mai-bei-planten-un-blomen/"
 type: Galerie
 typeName: Galerie
 title: 1. Mai bei Planten un Blomen
 seoTitle: 1. Mai bei Planten un Blomen in Hamburg
 ogTitle: 1. Mai bei Planten un Blomen in Hamburg
-description: 1. Mai und schönes Wetter - Was könnte man da schöneres machen, als einen wundervollen Garten zu besuchen? Der Frühling zeigte sich in seiner ganzen Pracht.
-excerpt: 1. Mai und schönes Wetter - Was könnte man da schöneres machen, als einen wundervollen Garten zu besuchen? Der Frühling zeigte sich in seiner ganzen Pracht.
+description: 1. Mai und schönes Wetter - Was könnte man da schöneres machen, als einen
+  wundervollen Garten zu besuchen? Der Frühling zeigte sich in seiner ganzen Pracht.
+excerpt: 1. Mai und schönes Wetter - Was könnte man da schöneres machen, als einen
+  wundervollen Garten zu besuchen? Der Frühling zeigte sich in seiner ganzen Pracht.
 fileName: 2016-05---1-mai-bei-planten-un-blomen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26815454296_c67725f0cc_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26815454296_c67725f0cc_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAYHBf/EACgQAAEDAwMDBAMBAAAAAAAAAAECAwQABRESEyEGMWEHQVGhFCSBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAIEA//EAB0RAQEAAQQDAAAAAAAAAAAAAAEAEQIDMUESITL/2gAMAwEAAhEDEQA/AJ8ZZIzoRoHBzSIU8zr/ACLdarcmYqMkGQvcDfPulOe5APPmpaprDUBbzawnZSp1SCOwAzj6rN/T2RMldTIeZedQ4pDjzy0K0klQ5/0qqbbPSvBUPVsEiNBmRHHreZLS2h+zGktkLawdOoKxhSc8ZHiq7PYTq5Lqv57eK7VtlS7a4rbuExaCnRtSF7yMe4AVyAfgHmmL7Iiy1qdYb2c92wSUg+M848Gh5CskwDUTriUbd01Kejghbo/HGTkJ1nST9mnvT63IiWdM9Kyp11wtHjGE4B70UUwxtKR51VlkvL3UOaiCr4pmS5oxhOSrnk9qKKnPrFp1f//Z
-ogImage: null
+ogImage: 
 labels:
-  - Botanischer Garten
-  - Frühling
-  - Hamburg
-  - Hamburg
-  - Mai
-  - Mozart
-  - Planten un Blomen
-  - St. Pauli
+- Botanischer Garten
+- Frühling
+- Hamburg
+- Hamburg
+- Mai
+- Mozart
+- Planten un Blomen
+- St. Pauli
+- serie:Planten un Blomen
 focusKeyword: 1. Mai
 status: publish
 isWerbung: false
@@ -30,8 +33,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Duft und Remidemi
----
+year: "2016"
+month: '05'
 
+---
 Zwischen duftenden Blumen und singenden Vögeln wanderte der Besucherstrom durch die schöne Parkanlage im Herzen von Hamburg. Der Frühling zeigte sich in seiner ganzen Pracht. Auf der Strecke hatten schon alle Biergärten ihre Pforten geöffnet, es gab kleine Veranstaltungen am Wegesrand und natürlich jede Menge zu fotografieren.
 
 ## **1. Mai 2016**
@@ -57,12 +62,3 @@ Am meisten aber dauert mich Lottchens Herzeleid. Das arme Mädchen lauert recht 
 Ach, wenn’s doch erst gelinder und grüner draußen wär’! Komm, lieber Mai, wir Kinder, wir bitten gar zu sehr! O komm und bring’ vor allem uns viele Veilchen mit! Bring’ auch viel Nachtigallen und schöne Kuckucks mit
 
 </blockquote>
-
-## Wegweiser Planten un Blomen
-
-1.  [Planten un Blomen - Hamburgs grüner Fluss (Juni 2015)](/2015/06/planten-un-blomen/) [](/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/)
-1.  [Ein Rundgang durch die Klimazonen (Januar 2016)](/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/)
-1.  [Blütenmeer im Winter (Januar 2016)](/2016/01/bluetenpracht-im-winter/)
-1.  [Möwen auf der Brücke (Januar 2016)](/2016/01/moewen-auf-der-bruecke/)
-1.  1. Mai bei Planten un Blomen (Mai 2016)
-1.  [Weihnachten bei Planten un Blomen (Dezember 2017)](/2017/12/weihnachten-bei-planten-un-blomen/) [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
