@@ -9,7 +9,7 @@ import { H3 } from './typo';
 import { ArticleList } from './article-list';
 
 const Section = styled.nav`
-  background: ${color.background10};
+  background: ${color.background30};
 `;
 
 export const ArticleRecommendations: React.FC<{

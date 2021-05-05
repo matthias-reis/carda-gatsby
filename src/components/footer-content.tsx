@@ -101,7 +101,7 @@ export const FooterContent: React.FC = () => (
 );
 
 const Section = styled.footer`
-  background: ${color.green10};
+  background: ${color.background30};
   padding: ${space[2]};
 `;
 

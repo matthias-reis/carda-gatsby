@@ -20,9 +20,10 @@ export const fontSize = [
 
 export const color = {
   /** page background */
-  background10: '#1a1a1a',
-  background20: '#333',
-  background30: '#555',
+  background10: '#181918',
+  background20: '#232423',
+  background30: '#292a29',
+  background40: '#404241',
   border10: '#ffffff08',
   border20: '#ffffff22',
   border30: '#ffffff44',
