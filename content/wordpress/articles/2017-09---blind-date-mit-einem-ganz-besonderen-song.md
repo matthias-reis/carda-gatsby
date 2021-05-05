@@ -44,10 +44,12 @@ Eels macht für mich schon immer Musik für die Seele. Besonders "I like birds" 
 
 ## Für alle, die die Bloggeraktion "Blind Date mit einem Song" noch nicht kennen, hier noch eine kurze Erklärung:
 
-<RemoteImage alt={`I like birds`} size="medium" title={\`\`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_11354436373_f3f2ca7133_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_11354436373_f3f2ca7133_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBAID/8QALBAAAQQBAwIFAgcAAAAAAAAAAQIDBBEFAAYhBxITIjFBURSBFTNhYnGRof/EABcBAQEBAQAAAAAAAAAAAAAAAAEAAwX/xAAdEQEAAgMBAAMAAAAAAAAAAAABAAIDESESIjFR/9oADAMBAAIRAxEAPwBXznTB/IZt/JrjAuPKC1tQ3I7LRVQBIQQALq+PcnXjHxjW1s7CTmcS5NiuELVFcdbQhtoHlXc0bJJsUSf4rWhib1AZmIU2zLmMmlLS+wltJF8gGyQf70ybgg5nP7YIXBYZntedKUvqNirKASgGz+la5hbKWPaJGtFekzb66YzsXub8S24ZWSwOTYU420otFTCymuw9ygFJogg+tcG6sqJ6eZ7x233IOTK2ijsS21F7AE/t8Uc/JFaomwuokWQpnFz31tRUxy2/CyCCvwnUj8xl0eYDg2lVnnj4NCm7byzYErE+HkYah3ILTo7wPiuAft6/A1Z7ZafLGbIXp56SC7P3/mM9JisBnHx0rfSgnw1uGgPMOV+9fbVOQMg44EPyYpZKSabjFCgSBXm7z6X8c6NGnKeb6JtjV+4sSWouf6hO4STFbQ3Gxv1y3kgFTqrCQKIoet3665wGeyO2sy/hMdNljHS0suBBdNsuqodyD7JoV2/7o0ar8NH5ENvZ/9k="
+<RemoteImage
+  alt={`I like birds`}
+  size="medium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_11354436373_f3f2ca7133_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_11354436373_f3f2ca7133_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBAID/8QALBAAAQQBAwIFAgcAAAAAAAAAAQIDBBEFAAYhBxITIjFBURSBFTNhYnGRof/EABcBAQEBAQAAAAAAAAAAAAAAAAEAAwX/xAAdEQEAAgMBAAMAAAAAAAAAAAABAAIDESESIjFR/9oADAMBAAIRAxEAPwBXznTB/IZt/JrjAuPKC1tQ3I7LRVQBIQQALq+PcnXjHxjW1s7CTmcS5NiuELVFcdbQhtoHlXc0bJJsUSf4rWhib1AZmIU2zLmMmlLS+wltJF8gGyQf70ybgg5nP7YIXBYZntedKUvqNirKASgGz+la5hbKWPaJGtFekzb66YzsXub8S24ZWSwOTYU420otFTCymuw9ygFJogg+tcG6sqJ6eZ7x233IOTK2ijsS21F7AE/t8Uc/JFaomwuokWQpnFz31tRUxy2/CyCCvwnUj8xl0eYDg2lVnnj4NCm7byzYErE+HkYah3ILTo7wPiuAft6/A1Z7ZafLGbIXp56SC7P3/mM9JisBnHx0rfSgnw1uGgPMOV+9fbVOQMg44EPyYpZKSabjFCgSBXm7z6X8c6NGnKeb6JtjV+4sSWouf6hO4STFbQ3Gxv1y3kgFTqrCQKIoet3665wGeyO2sy/hMdNljHS0suBBdNsuqodyD7JoV2/7o0ar8NH5ENvZ/9k="
 />
 
 Jede/r Blogger/in, der/die teilnimmt, hat ein Blind Date. Nicht mit einem Menschen, sondern mit einem Song. Alle Teilnehmer⋆innen hören am selben Tag zur selben Uhrzeit das selbe Lied und schreiben ihre Assoziationen dazu auf. Dabei sind sie ganz frei und können ihrem Schreibstil und ihrer Fantasie freien Lauf lassen. Alle Blogger veröffentlichen Ihre Artikel am selben Tag zu selben Uhrzeit und verlinken sich untereinander.
@@ -64,10 +66,12 @@ Ob mein heutiges Blind Date mit Eels mit den Artikeln der anderen harmoniert und
 
 Er schlendert beschwingt durch die Herbstsonne. Den Kopf in den Wolken. Die Hände lässig in die Taschen seines ausgewaschenen Hoodies gesteckt. In seinen Mundwickeln wippt ein freundliches Lächeln. Er wirkt beseelt, als käme er von einer Reise. Ruhig. Fröhlich und durch nichts aus der Ruhe zu bringen. Sein rechter Schuh hat ein Loch, der Rucksack nur noch einen Träger. Die achtlos zusammengebundenen Haare wirken etwas ungewaschen. Aber das macht ihm nichts. Er freut sich über das schöne Wetter, das Vogelgezwitscher und die Tasse Kaffee, die er vorhin geschenkt bekam.
 
-<RemoteImage alt={`I like birds`} size="medium" title={\`\`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_17160873227_6048e2ba21_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_17160873227_6048e2ba21_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEBQf/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREABiESMVEHE0FhgZEUFUL/xAAXAQADAQAAAAAAAAAAAAAAAAAABAUD/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxEhBBMiQlH/2gAMAwEAAhEDEQA/AF1Stm2tQ/2dynlQACISSyPNIxPZVBJ74PbHbR25esu3aaAikp6uebHCuntjPknnTKvoLbeqaOiuiCalEqyGNh0hmUHAbHxznjHI/Ghe4fR+x3KZ5rPVPb5Tz7ZX3YQfoZ6h+zoqNQGHEGDk6Oor2TvhaqzLcLw9DQQynEWHCOx8cZY6w729RaCTa94ipHkm6oJAqywGVCcd2D/54x+c6D0uzLjtanEVUaGpPU3S9PJlyo5JKsAQAPvXNlSK92+WM1H8S2GRYqmdhh2B56AmQcN2LfAzpxr+ONpMFptI8ou2TumorY7tE8ZC0MqohMpJZSo4Ofsa2XvcNxhtNZWrOI4Il9v2YkUFu3JYg+fGrVqIpPelXqRHW0rGeMXncdfcZZnqHBVukqgHC/P7z4xrkUtVM8c0ZdhHKCHUEjqGc4/BwR4xq1atJUgGAIiXb7P/2Q=="
+<RemoteImage
+  alt={`I like birds`}
+  size="medium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_17160873227_6048e2ba21_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_17160873227_6048e2ba21_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEBQf/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREABiESMVEHE0FhgZEUFUL/xAAXAQADAQAAAAAAAAAAAAAAAAAABAUD/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxEhBBMiQlH/2gAMAwEAAhEDEQA/AF1Stm2tQ/2dynlQACISSyPNIxPZVBJ74PbHbR25esu3aaAikp6uebHCuntjPknnTKvoLbeqaOiuiCalEqyGNh0hmUHAbHxznjHI/Ghe4fR+x3KZ5rPVPb5Tz7ZX3YQfoZ6h+zoqNQGHEGDk6Oor2TvhaqzLcLw9DQQynEWHCOx8cZY6w729RaCTa94ipHkm6oJAqywGVCcd2D/54x+c6D0uzLjtanEVUaGpPU3S9PJlyo5JKsAQAPvXNlSK92+WM1H8S2GRYqmdhh2B56AmQcN2LfAzpxr+ONpMFptI8ou2TumorY7tE8ZC0MqohMpJZSo4Ofsa2XvcNxhtNZWrOI4Il9v2YkUFu3JYg+fGrVqIpPelXqRHW0rGeMXncdfcZZnqHBVukqgHC/P7z4xrkUtVM8c0ZdhHKCHUEjqGc4/BwR4xq1atJUgGAIiXb7P/2Q=="
 />
 
 Seine Habseligkeiten beschränken sich auf eine Matratze samt Bezug, Kissen und Decke, ein paar Kleidungsstücke in einem Regal aus Ziegelsteinen und Brettern, einen alten Plattenspieler und einige Platten, ganze vierzehn Bücher, sein Zahnputzzeug und ein paar Küchenartikel. Untergestellt hat er das alles in einer kleinen Dachwohnung, die er eigentlich nur zum Schlafen betritt. Den Rest der Zeit verbringt er draußen. Wenn er gerade kein Projekt hat, genießt er die Natur und lauscht dem Puls der Stadt.
@@ -86,10 +90,12 @@ Er ist frei. Und er ist hier. Mitten unter vielen. Alleine. Aber nicht einsam. G
 
 ## Eels stellt sich vor – Die Musiker hinter "I like birds"
 
-<RemoteImage alt={`I like birds`} size="medium" title={\`\`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_18121182520_4a4479afb9_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_18121182520_4a4479afb9_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAAnEAACAQMDBAICAwAAAAAAAAABAgMEBREAEiEGEzFBB4EiUVJhof/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/EABwRAQADAAIDAAAAAAAAAAAAAAEAAhEDIRIiQv/aAAwDAQACEQMRAD8AnY6Che3b3rIREmDiKE90t+lyBn3xu9aY7D8XRVNtSYVU0UUzd2PfShW8YzgFvI9Hj+tNlX0PcKizxR2i4QOysMwVcfbg7ZyHPGWBwTgj70vvR32uo2VBUkRxqu7vBEJUYXHs4/0ec6IpRNXqbau5ncyuHxrBcrfUM16qqlqICJZEpIWgQbgvbIRN6+fIBX1xpWufxtFb4Vroq1dg4aUKVCk8YP4atHSvTMkXSk9ouGUWfBZ4HKSOA27aWBzwR5AHGtZek6FIlV3rqllBwtVXTSr9gtg/YOpfxH0lpV+pKbXV9RXK01Am6ouXZYCQoQje8YyVzjXXsdhnRC9Te7rURsRJ2HlHbYn+S4weefWjRouSziReMNGOFdJE9IIqymiqO2V/I5Q58ZXbjb9aXaGrukdyqUe5zy06kqI5BnAG3jP3o0azwu7sW4dT/9k="
+<RemoteImage
+  alt={`I like birds`}
+  size="medium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_18121182520_4a4479afb9_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_18121182520_4a4479afb9_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAAnEAACAQMDBAICAwAAAAAAAAABAgMEBREAEiEGEzFBB4EiUVJhof/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/EABwRAQADAAIDAAAAAAAAAAAAAAEAAhEDIRIiQv/aAAwDAQACEQMRAD8AnY6Che3b3rIREmDiKE90t+lyBn3xu9aY7D8XRVNtSYVU0UUzd2PfShW8YzgFvI9Hj+tNlX0PcKizxR2i4QOysMwVcfbg7ZyHPGWBwTgj70vvR32uo2VBUkRxqu7vBEJUYXHs4/0ec6IpRNXqbau5ncyuHxrBcrfUM16qqlqICJZEpIWgQbgvbIRN6+fIBX1xpWufxtFb4Vroq1dg4aUKVCk8YP4atHSvTMkXSk9ouGUWfBZ4HKSOA27aWBzwR5AHGtZek6FIlV3rqllBwtVXTSr9gtg/YOpfxH0lpV+pKbXV9RXK01Am6ouXZYCQoQje8YyVzjXXsdhnRC9Te7rURsRJ2HlHbYn+S4weefWjRouSziReMNGOFdJE9IIqymiqO2V/I5Q58ZXbjb9aXaGrukdyqUe5zy06kqI5BnAG3jP3o0azwu7sW4dT/9k="
 />
 
 Wer Eels nicht kennt und gerne mehr über die Band erfahren möchte, für den habe ich hier eine Kurzbeschreibung: Mark Oliver Everett, auch E genannt, gründete das Musikprojekt Eels im Jahr 1995 gemeinsam mit seinem musikalischen Weggefährten Jonathan "Butch" Norton. Seine Mit-Musiker wechseln im Studio und auf der Bühne in unregelmäßigen Abständen. Bei seinen Shows präsentiert E seine Songs immer wieder unterschiedlich, daher birgt jedes Konzert viele Überraschungen für seine Fans.
