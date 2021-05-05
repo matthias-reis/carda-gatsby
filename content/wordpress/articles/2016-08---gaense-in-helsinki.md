@@ -1,28 +1,31 @@
 ---
-date: 2016-08-17T13:12:53.000Z
+date: 2016-08-17T13:12:53.000+00:00
 slug: gaense-helsinki
-path: /2016/08/gaense-helsinki/
+path: "/2016/08/gaense-helsinki/"
 type: Galerie
 typeName: Galerie
 title: Gänse in Helsinki
 seoTitle: Gänse in Helsinki - gefiederte Finnland-Einwanderer
 ogTitle: Gänse in Helsinki - gefiederte Finnland-Einwanderer
-description: Weißwangengänse sind in Finnland seit den 80er-Jahren heimisch. Besonders wohl scheinen sie sich in Helsinkis Parks zu fühlen. Gänse trifft man dort überall
-excerpt: Weißwangengänse sind in Finnland seit den 80er-Jahren heimisch. Besonders wohl scheinen sie sich in Helsinkis Parks zu fühlen. Gänse trifft man dort überall.
+description: Weißwangengänse sind in Finnland seit den 80er-Jahren heimisch. Besonders
+  wohl scheinen sie sich in Helsinkis Parks zu fühlen. Gänse trifft man dort überall
+excerpt: Weißwangengänse sind in Finnland seit den 80er-Jahren heimisch. Besonders
+  wohl scheinen sie sich in Helsinkis Parks zu fühlen. Gänse trifft man dort überall.
 fileName: 2016-08---gaense-in-helsinki.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_08_28836089901_635948dcce_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_08_28836089901_635948dcce_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAJxAAAgIBBAIBAwUAAAAAAAAAAQIDBBEABRIhBjETB0FhFCIyUZH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUAAv/EABoRAQADAQEBAAAAAAAAAAAAAAEAAhEDISL/2gAMAwEAAhEDEQA/AE695BW2DyIQ3duVRXBjWARKy2TxPxycyOSqQykj8H+taVsm31d+oR7/AA10kElcMkYRhlwSJAFPbYI949Y0n7T4Z4vv1yG9uYtNM2CIP1bBMZPsEE4PfQI0x371vxHco54rC2dtsTmOs6IC1QFMfJK2ctwUFVwCAv8AI9DS/LqdDSdVdNknmdmPY9jFmz8ZjEIkMJ7LyPkJFEuO2Ps56AzrMPB6u0eawbrJ5XYlN+vOnxutjgYoyDgIvr2CDkHPWu/9TY6O82oNzFsXduqSvVj29ZOM8pMIKWAT+3iGI6xnCg98tKe0+R7HVjmXcfHYqEcpkkaUQO87lmyqjpQFUEDsn1670RUPk2bY27bu9qpKiI55Sd8x0VwB6007H5PZkaZGiU8W4szMSzZ4/f7ezo0ah8rNbmMBSzstbrbgo2jer0Ki3JeRewExKcYHbe8YA6/GqF+3YsuI7Dq6yNxxwHX+5+/ejRq1V9jc/9k=
-ogImage: null
+ogImage: 
 labels:
-  - Fernweh
-  - Finnland
-  - Finnland2016
-  - Gans
-  - Gänse
-  - Helsinki
-  - Skandinavien
-  - Weißwangengänse
+- Fernweh
+- Finnland
+- Finnland2016
+- Gans
+- Gänse
+- Helsinki
+- Skandinavien
+- Weißwangengänse
+- 'serie: Finnland 2016'
 focusKeyword: Gänse
 status: publish
 isWerbung: false
@@ -30,8 +33,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Weißwangengänse - Gefiederte Finnland-Einwanderer
----
+year: "2016"
+month: '08'
 
+---
 <RemoteImage
   alt={`Gänse`}
   size="medium"
@@ -60,11 +65,3 @@ In Finnland leben außer den Weißwangengänsen auch noch Ringelgänse, Rothalsg
 Besonders schön fand ich damals in den 80er/90er-Jahren auch die Kinderserien "Die Kinder vom Mühlental" und "Klemens und Klementinchen", in denen sich alles um zwei Gänse drehte. Ach und auch die Serie "Tagebuch einer Gänsemutter", in der eine Frau ein paar junge Gänse großzieht, trieb mir regelmäßig die Rührungstränen in die Augen. Ja, da werden Erinnerungen wach. Aber genug erzählt, meine Bilder von den Weißwangengänsen aus Helsinki möchte ich Euch nicht vorenthalten.
 
 <Gallery name="flickr/annegaensehelsinki2016" />
-
-## Wegweiser Finnland 2016
-
-1.  [Sommer auf der Ostsee - Überfahrt von Travemünde nach Helsinki](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/)
-1.  [Helsinki - Schönheit an der Ostsee - Fototour durch Finnlands Hauptstadt](/2016/08/helsinki-schoenheit-an-der-ostsee/)
-1.  [Seevögel in Helsinki - Auf jeder Statue eine Möwe](/2016/08/auf-jeder-statue-eine-moewe/)
-1.  Gänse in Helsinki - Weißwangengänse - Gefiederte Finnland-Einwanderer
-1.  [Kuopion Korttelimuseo](/2016/10/kuopion-korttelimuseo/)
