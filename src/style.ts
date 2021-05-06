@@ -27,8 +27,8 @@ export const color = {
   border10: '#ffffff08',
   border20: '#ffffff22',
   border30: '#ffffff44',
-  green05: '#263c2d',
-  green10: '#44604E',
+  green05: '#37483d',
+  green10: '#496b55',
   green20: '#437D57',
   /** main signature green */
   green30: '#5C9B72',

@@ -26,7 +26,7 @@ const InteractionsContainer = styled.nav`
   left: 0;
   text-align: center;
   padding: ${space[1]};
-  background: ${color.green05};
+  background: ${color.green10};
   border-radius: 0 ${space[2]} ${space[2]} 0;
   border: 3px solid ${color.border10};
   border-left: 0;

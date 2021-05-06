@@ -164,9 +164,10 @@ const NetworkItem = styled.a`
   display: flex;
   align-items: center;
   font-size: ${fontSize[3]};
-  color: ${color.text30};
+  color: ${color.green50};
   text-decoration: none;
   margin-bottom: ${space[1]};
+  padding-left: ${space[0]};
 
   & svg {
     margin-right: ${space[0]};
@@ -174,7 +175,11 @@ const NetworkItem = styled.a`
     height: 1.1rem;
   }
 
-  &:hover {
+  &:hover,
+  &:focus {
+    text-decoration: underline;
     color: ${color.text10};
+    background: ${color.green20};
+    border-radius: ${space[1]};
   }
 `;
