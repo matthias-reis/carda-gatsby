@@ -27,7 +27,7 @@ labels:
 - Skandinavien
 - Vögel
 - serie:Möwen
-- 'serie: Finnland 2016'
+- serie:Finnland 2016
 focusKeyword: Seevögel
 status: publish
 isWerbung: false
