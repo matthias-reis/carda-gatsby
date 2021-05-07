@@ -24,7 +24,7 @@ labels:
 - Kuopio
 - Kuopion Korttelimuseo
 - Skandinavien
-- 'serie: Finnland 2016'
+- serie:Finnland 2016
 focusKeyword: Kuopio
 status: publish
 isWerbung: false
