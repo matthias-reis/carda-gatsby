@@ -96,7 +96,3 @@ There’s a time for us all and I think yours has been Can you please hurry up '
 Can’t believe you were once just like anyone else Then you grew and became like the devil himself Pray to god I can think of a nice thing to say But I don’t think I can so fuck you anyway
 
 So fuck you anyway (Repeat x 11)
-
----
-
-<div> </div>

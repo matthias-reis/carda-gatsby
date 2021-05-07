@@ -67,7 +67,7 @@ Beim Datum handelt es sich bei diesem hohen Feiertag um einen Kompromiss. Es sol
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgb/xAArEAABAwMDAQYHAAAAAAAAAAABAgMRAAQSEyExQQUicYGCkSMyQqGiseH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBQP/xAAYEQEBAQEBAAAAAAAAAAAAAAAAATECEf/aAAwDAQACEQMRAD8A6+0m3t7G2QiVYBJA+lKUbn3gedP1QVuo3ybiQYEyJAFSPN29xibhpDhROOXSef0Kj0+zmGbp1+3tktaxT3mkmYhIAkdSKkYpWrnFv4lSmUARJGtuPxj71G+G7q0IUDpvNwQRvCh/aWq6aeT8VxOmOGGwVD1EDfwG3jWVXbTpVgsKI5EER70+N0fVKUGPmNCWcEkIWoAqKiAepMmiijCpDyOZW4fOobhIgyVn1UUVryL/2Q=="
 />
 
-Nachdem der Tag einmal am 25. Mai gefeiert worden war, wollte niemand mehr ein anderes Datum (beispielsweise an seinem Geburtstag, dem 11. März, seinem Todestag, dem 11 Mai oder dem 11 Februar, dem [42.](<http://de.wikipedia.org/wiki/42_(Antwort)>) Tag des Jahres) akzeptieren.
+Nachdem der Tag einmal am 25. Mai gefeiert worden war, wollte niemand mehr ein anderes Datum (beispielsweise an seinem Geburtstag, dem 11. März, seinem Todestag, dem 11 Mai oder dem 11 Februar, dem [42.](http://de.wikipedia.org/wiki/42_(Antwort)) Tag des Jahres) akzeptieren.
 
 Zur Feier des Tages werde natürlich auch ich morgen wieder mein Handtuch hissen. Noch ist jedoch nicht ganz klar, welches. Natürlich habe ich eine einigermaßen große Sammlung, um jeden Tag perfekt ausgestattet zu bestreiten
 

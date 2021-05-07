@@ -229,12 +229,12 @@ Das Layout einer Seite sollte sich der Größe des Browserfensters des Users anp
 
 (Produkt-) Bilder sollten durch Anklicken vergrößerbar sein.
 
-<h3>Kontrolle</h3>
+## Kontrolle
 
 - Alle Links sollten auch nochmal von einer weiteren Person kontrolliert werden, oft übersieht man selbst etwas.
 - Texte, die in Fremdsprachen verfasst wurden, sollten in jedem Fall von einem Muttersprachler geprüft werden.
 - Natürlich gilt auch für alle anderen Texte, die auf der Seite eingestellt werden sollen immer das  4-Augen-Prinzip.
 
-### Viel Spaß beim Basteln!
+## Viel Spaß beim Basteln!
 
 _Vielen Dank an Fabian Ziegler, Dipl.-Designer (FH) von [Webmasterpro](http://www.webmasterpro.de/design/article/gestaltgesetze-der-wahrnehmung.html) für die Grafiken!_

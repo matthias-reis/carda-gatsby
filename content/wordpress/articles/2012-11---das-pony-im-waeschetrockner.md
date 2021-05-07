@@ -65,8 +65,6 @@ Die Texte stapeln sich.  Der letzte Tiefschlag scheint mich schwer beeindruckt 
 
 Heute ist übrigens mal wieder einer dieser Herbsttage, an denen man sich am liebsten zusammen mit der Katze in einer staubigen Ecke unter dem Bett verkriechen würde. Kommunikation sollte im Idealfall gar keine stattfinden. Oder nur sehr wenig. Was ich momentan gar nicht mehr gebrauchen kann, ist die lärmende, staubende Baustelle vor der Türe. Oder besser: Vor dem Schlafzimmerfenster. Der letzte intelligente Schachzug der Stadt war es, im Rahmen der Straßensanierung eine extrem helle Straßenlaterne genau vor jenem Fenster aufzubauen. Aber wenn es nur das wäre. Inzwischen muss man die Bauarbeiter jeden einzelnen Morgen und Abend darum bitten, doch kurz die Einfahrt freizugeben, damit man vom bzw. auf den Parkplatz fahren kann.
 
-<div>
-
 <RemoteImage
   alt={`Wäschetrockner`}
   size="medium"
@@ -79,8 +77,6 @@ Heute ist übrigens mal wieder einer dieser Herbsttage, an denen man sich am lie
 Ansonsten gibt es viel Neues und auch viel Altes. Es wird geplant, organisiert, gefaulenzt, beratschlagt, geschrieben und gemalt. Für heute Abend steht der Besuch in einem mongolischen Restaurant an. Ich bin schon sehr gespannt. Ich habe schon so einiges gehört, über die Mongolische Küche, doch probiert habe ich sie bis heute noch nicht.
 
 Der Reisebericht über meinen Kurztripp in die Türkei verzögert sich leider noch ein wenig. Es gibt verschiedenstes zu berichten, leider war nicht alles so, wie ich es mir vorgestellt hatte. Daraufhin habe im Nachhinein einen sehr langen Brief an den Reiseveranstalter verfasst, auf dessen Beantwortung ich inzwischen seit geschlagenen vier Wochen warte. Drückt mir die Daumen. Ich würde jedenfalls gerne einen schönen Reisebericht veröffentlichen und keinen Rant über einen miesen Reiseanbieter, bei dem nichts funktioniert, wie es funktionieren sollte. Ich bitte noch um etwas Geduld. Ich habe zumindest schon mal ein paar Fotos ausgesucht, eine kleine Fotoserie kann ich also auf jeden Fall bald an dieser Stelle veröffentlichen.Ich wünsche allen noch einen schönen Abend, entschuldigt mich, ich muss nun das Pony aus dem Wäschetrockner holen und im Anschluss meine Nägel richten, damit ich nicht allzu spät in dem Restaurant aufschlage. Was meine heutige Stimmung betrifft: Ich gelobe Besserung und hoffe darauf, Euch das nächste Mal wieder einen etwas fröhlicheren Text bieten zu können.
-
-</div>
 
 ## Song des Tages: "With A Twist"
 

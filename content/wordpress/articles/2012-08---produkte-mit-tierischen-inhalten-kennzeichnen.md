@@ -50,10 +50,7 @@ Ich bin eindeutig FÜR eine eindeutige Kennzeichnung und habe mich bei dieser Ak
 
 Herzlichen Dank für die Aufmerksamkeit und ein schönes Wochenende.
 
-<h3>
-  So wird das Ganze übrigens in good old England gekennzeichnet, hübsch, oder?
-  __
-</h3>
+__So wird das Ganze übrigens in good old England gekennzeichnet, hübsch, oder?__
 
 <Gallery
   images={[

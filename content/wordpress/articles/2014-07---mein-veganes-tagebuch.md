@@ -150,7 +150,7 @@ Derzeit schreibe ich an einem Artikel „10 Fakten über vegane Ernährung“, d
 
 Zur Feier des Tages hier ein leckeres Sommerrezept aus meiner Feder, dass Ihr ganz leicht nachmachen könnt:
 
-<h3>__Bunter Linsensalat__ __(2-4 Portionen, je nach Hunger und Beilagen)__</h3>
+## Bunter Linsensalat _(2-4 Portionen, je nach Hunger und Beilagen)_
 
 **Zutaten:**
 

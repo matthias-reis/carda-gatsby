@@ -42,9 +42,7 @@ errors: {}
 subTitle: Jack White setzt noch eins obendrauf!
 ---
 
-<h3>
-  Nachtrag zu meinem heutigen Artikel über Jacks neue Single "High Ball Stepper"
-</h3>
+> __Nachtrag__ zu meinem heutigen Artikel über Jacks neue Single "High Ball Stepper"
 
 <RemoteImage
   alt={`Bild: Interview Magazine That Eric Alper`}

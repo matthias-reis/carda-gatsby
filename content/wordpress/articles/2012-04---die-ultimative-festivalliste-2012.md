@@ -75,5 +75,3 @@ Und nun wünsche ich Euch viel Spaß mit
 live, unplugged und backstage vom Glastonbury Festival 2004
 
 <YouTube id="mJqqkD5DRfw" />
-
-<div> ____ </div>

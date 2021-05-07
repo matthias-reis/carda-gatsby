@@ -54,19 +54,13 @@ Ich habe festgestellt, dass sich meine Aktivität, was das Blogschreiben betriff
 
 Aber ist es nicht genau das, was wir vermeiden sollten, um unsere Sprache zu erhalten? Kurze, abgehackte, "digitale" Sätze? Ist nicht genau das, was wir früher einmal an guten Romanen geliebt haben der verspielte, ausgeschmückte Schachtelsatz? Ist er in unserer hektischen, elektronischen Welt vom Aussterben bedroht? Ich finde, wir sollten in pflegen. Ihn wieder beleben. Ja, ich bin für die Erhaltung des Schachtelsatzes. Deshalb werde ich auch versuchen, ab heute wieder mehr Texte zu schreiben. In mein Blog. Auf Blöcke. Twitter mit unbegrenzter Zeichenanzahl. Ein Traum eigentlich.
 
-Ich bin gerade von der Arbeit nach Hause gekommen, sitze auf dem Parkplatz vor dem Haus im Auto und schreibe auf einem schon ziemlich überfüllten Blatt Papier, das Lenkrad ist meine Unterlage. Dieser Text ist auf der Fahrt zwischen Büro und Zuhause entstanden. Während ich Auto fahre, habe ich keine Möglichkeit, Tweets abzusenden, ich bin also gezwungen, mir alle Gedanken, die ich zu Papier bringen möchte, zu MERKEN und sie später aufzuschreiben. So ist es dann noch mal wieder zu einem zusammenhängenden Text gekommen. Ich werde wohl jetzt bald mal hochgehen und mich an meinen Rechner setzen, der Nachbar kuckt schon ganz neugierig. Vielleicht werde ich ja als erstes einen Tweet über ihn schreiben, bevor ich diesen Text in mein Blog übertrage. Dann habe ich vielleicht auch die nötige Ruhe, den ein oder anderen Satz noch etwas auszuschmücken, zu verschachteln. \_\_
+Ich bin gerade von der Arbeit nach Hause gekommen, sitze auf dem Parkplatz vor dem Haus im Auto und schreibe auf einem schon ziemlich überfüllten Blatt Papier, das Lenkrad ist meine Unterlage. Dieser Text ist auf der Fahrt zwischen Büro und Zuhause entstanden. Während ich Auto fahre, habe ich keine Möglichkeit, Tweets abzusenden, ich bin also gezwungen, mir alle Gedanken, die ich zu Papier bringen möchte, zu MERKEN und sie später aufzuschreiben. So ist es dann noch mal wieder zu einem zusammenhängenden Text gekommen. Ich werde wohl jetzt bald mal hochgehen und mich an meinen Rechner setzen, der Nachbar kuckt schon ganz neugierig. Vielleicht werde ich ja als erstes einen Tweet über ihn schreiben, bevor ich diesen Text in mein Blog übertrage. Dann habe ich vielleicht auch die nötige Ruhe, den ein oder anderen Satz noch etwas auszuschmücken, zu verschachteln.
 
-_<del>TWEET Die Frau im Wagen vor mir bohrt in der Nase und sieht sich das Ergebnis an. #Hall_of_Fame</del>_
+~~TWEET Die Frau im Wagen vor mir bohrt in der Nase und sieht sich das Ergebnis an. #Hall_of_Fame~~
 
-<del>
-  TWEET Warum brauche ich für meinen Ausweis ein Biometrisches Bild, wenn
-  Gesichtserkennung über facebook-Schnappschüsse möglich ist?
-</del>
+~~TWEET Warum brauche ich für meinen Ausweis ein Biometrisches Bild, wenn Gesichtserkennung über facebook-Schnappschüsse möglich ist?~~
 
-<del>
-  TWEET Sitze vorm Haus im Auto und schreibe. Der Nachbar scheint fasziniert zu
-  sein. Mist, der Bleistift ist schon ganz stumpf. #Was_macht_die_da?
-</del>
+~~TWEET Sitze vorm Haus im Auto und schreibe. Der Nachbar scheint fasziniert zu sein. Mist, der Bleistift ist schon ganz stumpf. #Was_macht_die_da?~~
 
 Alles in Allem bin ich zu dem Schluss gekommen, dass beides wichtig ist. Lange, wohlüberlegte Sätze und kurze Statusnachrichten. Beides zu seiner Zeit. Beides hat sein Gutes. Ab und zu muss man eben schnell etwas loswerden. Nicht ohne Grund ist Twitter die schnellste und effizienteste Form der Nachrichtenübertragung. Es warnt vor Erdbeben, Stürmen und Prüfungen. Und ab und zu möchte man sich Zeit nehmen, gezielt recherchieren, sich Gedanken machen, Sätze ausschmücken und einen Text bis zum Ende perfekt ausformulieren.  Das Wichtigste ist, dass man niemals aufhört zu schreiben. Auch wenn man das nur für sich selbst tut. Mit Schreiben lassen sich prima die Gedanken ordnen. Man kann seinem Ärger Luft machen, dem Alltag entfliehen und große Gefühle zum Ausdruck bringen. Das schönste Gefühl ist doch immer noch, wenn man gar nicht schnell genug schreiben kann, weil man die nächsten drei Sätze schon ausformuliert vor sich sieht und sie dann am Ende doch wieder ganz anders aussehen.
 
@@ -74,7 +68,21 @@ Hier noch ein paar schöne Worte, die mich unlängst auf einer Postkarte erreich
 
 ## The Unknown
 
-_Do you exist my pretty bird_ _Flying above the snow?_ _Are you actually flying_ _Or do I imagine it so?_ _Detail of wing and breast_ _Unquestionably there -_ _Or do I merely thing you_ _Perfect in Mid Air?_
+_Do you exist my pretty bird_ 
+
+_Flying above the snow?_ 
+
+_Are you actually flying_ 
+
+_Or do I imagine it so?_ 
+
+_Detail of wing and breast_ 
+
+_Unquestionably there -_ 
+
+_Or do I merely thing you_ 
+
+_Perfect in Mid Air?_
 
 _W. C. Williams_
 

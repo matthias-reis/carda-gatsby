@@ -89,5 +89,3 @@ Natürlich gibt es noch jede Menge andere Organisationen, die helfen, die Welt e
 Um mich noch mal für unsere tierischen Miterdlinge einzusetzen, hier erneut der [Link](//2010/07/23/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/) zu den Listen der Kosmetikhersteller, die sich [GEGEN Tierversuche](//2010/07/23/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/) einsetzen.
 
 So far, lasst Euch nicht unterkriegen, macht weiter. Denn Märchen gibt es eben doch nur im Märchen.
-
-<p style="text-align: center;"></p>
