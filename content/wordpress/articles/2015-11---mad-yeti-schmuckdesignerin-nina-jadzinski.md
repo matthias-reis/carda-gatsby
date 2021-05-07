@@ -77,7 +77,7 @@ Jetzt hat sich Nina meinem Interview gestellt. Dabei hat sich ein interessantes 
 
 **Nina:** Um ehrlich zu sein, befasste ich mich immer weiter mit dem Thema Tierschutz und hatte plötzlich klare Gedanken und Auffassungen darüber, was auch im Milch- und Eierbetrieb an der Tagesordnung steht. Das konnte ich mit mir selbst nicht mehr vereinbaren.
 
-Auch prominente Beispiele haben mit Sicherheit zu meiner Entscheidung geführt. Victoria van Violence ist eins davon, sie<span class="Apple-converted-space">  konnte mich nach und nach immer mehr davon überzeugen.</span>
+Auch prominente Beispiele haben mit Sicherheit zu meiner Entscheidung geführt. Victoria van Violence ist eins davon, sie  konnte mich nach und nach immer mehr davon überzeugen.
 
 Durch die leckeren Gerichte von Attila Hildmann habe ich dann gesehen, wie schmackhaft vegane Gerichte sind und spätestens da war es um mich geschehen.
 
@@ -106,7 +106,7 @@ Durch die leckeren Gerichte von Attila Hildmann habe ich dann gesehen, wie schma
 
 **Anne:** Wo beziehst du das Material?
 
-**Nina:** Ich kaufe es beim Künstlerbedarf meines Vertrauens. Ich habe mir schon oft vorgenommen, die billigere Variante im Internet zu bestellen, da kostet ein Päckchen so um die 50<span class="Apple-converted-space">  Cent bis 1,50 Euro weniger. Aber bei mir ist es oft so, dass ich spontan und sofort eine bestimmte Farbe benötige und dann doch in den nahgelegenen Bastelladen fahre, um gleich loslegen zu können.</span>
+**Nina:** Ich kaufe es beim Künstlerbedarf meines Vertrauens. Ich habe mir schon oft vorgenommen, die billigere Variante im Internet zu bestellen, da kostet ein Päckchen so um die 50 Cent bis 1,50 Euro weniger. Aber bei mir ist es oft so, dass ich spontan und sofort eine bestimmte Farbe benötige und dann doch in den nahgelegenen Bastelladen fahre, um gleich loslegen zu können.
 
 **Anne:** Es gehört ja auch einiges an Talent dazu, etwas so genau nachzubilden. Hast Du lange geübt, bis dein erster Prototyp fertig war, oder klappte das auf Anhieb?
 

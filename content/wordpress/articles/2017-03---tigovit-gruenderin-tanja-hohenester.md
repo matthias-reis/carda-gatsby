@@ -51,7 +51,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: <b></b><span class="s1">"Wir befinden uns mitten in einem Wandel"</span>
+subTitle: "Wir befinden uns mitten in einem Wandel"
 ---
 
 **Letztens habe ich Euch hier tigovit [vorgestellt](/2017/02/tigovit-gruener-tee-in-hohen-dosen/). Das Präparat wehrt mit seiner extrem hohen Dosierung an EGCG, das aus Grünem Tee gewonnen wird, aktiv freie Radikale ab und stärkt das Immunsystem.**
@@ -181,7 +181,7 @@ Auch der Druck der Patienten wächst. Viele sagen ganz klar "Nein, ich möchte k
 
 **Anne:** Oh ja, das Max Pett kenne ich auch noch aus meiner Zeit in Süddeutschland. Ich liebe es sehr und muss da dringend mal wieder hin, wenn ich in München bin. Eine Frage noch zum Schluss: Hast Du ein besonderes Motto, beziehungsweise ein Mantra, das dich schon immer begleitet?
 
-**Tanja:** <span class="Apple-converted-space">  "Ich schaffe es!" - Das treibt mich an, wenn ich morgens zum Joggen gehe, wen ich mit dem Hund raus muss und natürlich auch bei meiner Arbeit. </span>
+**Tanja:** "Ich schaffe es!" - Das treibt mich an, wenn ich morgens zum Joggen gehe, wen ich mit dem Hund raus muss und natürlich auch bei meiner Arbeit.
 
 **Anne:** Vielen Dank für das freundliche Interview und weiterhin viel Erfolg mit tigovit! Es hat mir großen Spaß gemacht! Halt mich bitte auf dem Laufenden!
 

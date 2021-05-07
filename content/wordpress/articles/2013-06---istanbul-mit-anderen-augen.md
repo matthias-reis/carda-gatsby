@@ -160,7 +160,7 @@ Mich macht das ganz unruhig, ich verspüre den Drang, die Menschen zu unterstüt
 [CCN International](http://edition.cnn.com)  
 [Hier eine Facebook-Gruppe zum Thema](https://www.facebook.com/haltedurchturkei) [Hier Maries Favorit](https://www.facebook.com/geziparkidirenisi?fref=ts)
 
-## <span style="color: #000000;">Fotostrecken findet Ihr </span>
+## Fotostrecken findet Ihr 
 
 [hier](http://turkishpolicebrutality.tumblr.com)  
 [und hier](http://occupygezipics.tumblr.com)

@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: <span class="s1">Bildergalerie mit Möwen</span>
+subTitle: Bildergalerie mit Möwe
 ---
 
 **Ein Spaziergang vom Altonaer Holzhafen in Richtung Altonaer Balkon passt sonntags einfach immer dazwischen. Dabei kann man wunderbar die Aussicht auf die Elbe und den dahinter liegenden Hamburger Frachthafen genießen.**

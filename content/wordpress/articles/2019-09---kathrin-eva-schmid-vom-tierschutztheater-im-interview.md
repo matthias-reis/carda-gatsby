@@ -50,7 +50,7 @@ subTitle: Ein Ensemble für den Tierschutz
 
 Unterstützt wird das Theater unter anderem durch die Ärzte gegen Tierversuche e. V., ANIMAL PEACE e. V. und Animal 2000. Nicht nur im Theater, sondern auch auf der Homepage des Theaters\* klärt Kathrin Eva auf. Das Thema Tierschutz und die Rechte der Tiere liegen ihr sehr am Herzen.
 
-Das Ensemble bietet auch außerhalb des Theaters Auftritte an, gebucht werden kann zu jedem Anlass, lediglich die Fahrtkosten, sowie Kost und Logis für die Schauspieler<span class="e24Kjd">\*innen</span> müssen übernommen werden.
+Das Ensemble bietet auch außerhalb des Theaters Auftritte an, gebucht werden kann zu jedem Anlass, lediglich die Fahrtkosten, sowie Kost und Logis für die Schauspieler\*innen müssen übernommen werden.
 
 <RemoteImage
   alt={`kathrin-eva-schmid-privat`}
@@ -311,6 +311,7 @@ Kathrin Eva Schmid tritt am 15.03.2020 als Spitzenkandidatin für die Tierschutz
 Anlässlich des 10-jährigens Jubiläums des Tierschutztheaters wurde im März folgendes Video veröffentlicht:
 
 {' '}
+
 <YouTube id="y3KXgpSidME" />
 
 **Fotos:** Tierschutztheater / Kathrin Eva Schmid privat. Das Bild im Header stammt aus dem Bild "Andromeda".

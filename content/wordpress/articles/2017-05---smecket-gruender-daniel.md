@@ -222,7 +222,7 @@ Mein Faible ist eher die gesunde Ernährung. Ich lege zum Beispiel großen Wert 
 
 **Daniel:** Ich hoffe doch! Es gibt noch so viel zu probieren!
 
-**Anne:** <span class="Apple-converted-space">  Vielen Dank für das nette Interview und für Deine Zeit! Ich wünsche Dir alles Gute für die Zukunft von _Smecket_ !</span>
+**Anne:** Vielen Dank für das nette Interview und für Deine Zeit! Ich wünsche Dir alles Gute für die Zukunft von _Smecket_ !
 
 [Hier findet Ihr meinen Testbericht](/2017/04/smecket-tee/) zu den Smecket Tees.
 

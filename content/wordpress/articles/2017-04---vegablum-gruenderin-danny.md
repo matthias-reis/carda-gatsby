@@ -58,7 +58,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: <span class="s1">„Wir möchten Gutes tun und keinen Benz kaufen“
+subTitle: „Wir möchten Gutes tun und keinen Benz kaufen“
 ---
 
 <RemoteImage

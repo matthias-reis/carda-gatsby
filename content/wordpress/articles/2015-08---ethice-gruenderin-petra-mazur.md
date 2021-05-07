@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: <span class="s1">„Es ist Zeit, dem Leiden der Tiere ein Gesicht zu geben!“</span>
+subTitle: „Es ist Zeit, dem Leiden der Tiere ein Gesicht zu geben!“
 ---
 
 <RemoteImage
@@ -210,7 +210,7 @@ Ja, das Konzept ist, mit plakativen Motiven Aufmerksamkeit zu erregen, um dann -
 
 **Anne:** Wie erklärst du dir die Tatsache, dass in der heutigen Welt die einen Tiere geliebt und gestreichelt werden, ja sogar bei uns im Bett schlafen dürfen und die anderen erniedrigt, gefoltert und getötet werden? Warum unterscheiden wir da? Es gibt doch gar keinen Unterschied. Ich kann zumindest keinen erkennen.
 
-**Petra:** Anne, diese Antwort werde ich dir schuldig bleiben müssen, ich weiß es nicht. Wir haben mal in Hannover an einem Stand (angebliches) Hunde- und Katzenfleisch angeboten. Die<span class="Apple-converted-space">  Passanten sind regelrecht ausgeflippt. Wir wurden bedroht, beschimpft und es flossen einige Tränen. Um Schweine, Rinder, Hühner oder Schafe hat noch nie einer vor mir auf der Straße geweint… Trotzdem war es mit eine der besten Aktionen, die ich mitgemacht habe, weil wir gute Gespräche führen konnten. Selbstverständlich haben wir die Passanten auch immer am Ende darüber informiert, dass in den Dosen nur Sauerkraut ist und die Etiketten gefälscht sind.</span>
+**Petra:** Anne, diese Antwort werde ich dir schuldig bleiben müssen, ich weiß es nicht. Wir haben mal in Hannover an einem Stand (angebliches) Hunde- und Katzenfleisch angeboten. Die Passanten sind regelrecht ausgeflippt. Wir wurden bedroht, beschimpft und es flossen einige Tränen. Um Schweine, Rinder, Hühner oder Schafe hat noch nie einer vor mir auf der Straße geweint… Trotzdem war es mit eine der besten Aktionen, die ich mitgemacht habe, weil wir gute Gespräche führen konnten. Selbstverständlich haben wir die Passanten auch immer am Ende darüber informiert, dass in den Dosen nur Sauerkraut ist und die Etiketten gefälscht sind.
 
 ## Das Leben mit Tieren bedeutet Verantwortung
 
