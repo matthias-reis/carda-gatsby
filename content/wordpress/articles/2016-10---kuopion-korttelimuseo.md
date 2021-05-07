@@ -38,7 +38,7 @@ month: "10"
 ---
 **Am 7. Juli machten wir von unserem gemieteten finnischen Mökki aus einen Tagesausflug nach Kuopio. Um dem Regen ein Bisschen zu entkommen, statteten wir dem Kuopion Korttelimuseo einen Besuch ab.**
 
-Gezeigt werden im Museum Alltagsgegenstände aus verschiedenen Jahrzehnten. Alles ist natürlich typisch finnisch. Dabei läuft man durch ein kleines Dorf und sieht die Häuser verschiedener Personen vom Bäcker bis zum Schuster. Besonders gut haben mir persönlich natürlich die alten Schreib- und Nähmaschinen gefallen. :-)
+Gezeigt werden im Museum Alltagsgegenstände aus verschiedenen Jahrzehnten. Alles ist natürlich typisch finnisch. Dabei läuft man durch ein kleines Dorf und sieht die Häuser verschiedener Personen vom Bäcker bis zum Schuster. Besonders gut haben mir persönlich natürlich die alten Schreib- und Nähmaschinen gefallen.
 
 ## Kuopio-Besucher sollten das Museum besichtigen
 
