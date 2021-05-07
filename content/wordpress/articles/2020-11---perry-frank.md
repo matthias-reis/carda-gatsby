@@ -149,7 +149,6 @@ Inzwischen habe ich den Generator wieder verkauft und mich dazu entschieden, kom
 
 ## "Today Is Long Gone" von Perry Frank
 
-{' '}
 <YouTube id="O1ajLnGqees" />
 
 Bilder: Perry Fran
@@ -272,7 +271,6 @@ Now I've sold my generator and decided to be completely eco-friendly: all my equ
 
 ## "Today Is Long Gone" by Perry Frank
 
-{' '}
 <YouTube id="O1ajLnGqees" />
 
 Pictures: Perry Frank

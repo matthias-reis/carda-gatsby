@@ -99,7 +99,6 @@ Ox en Mayo alto planen in rund einem Monat ihre nächste EP zu veröffentlichen.
 
 ## Ox en Mayo Alto - "Los famosos días de la fiebre"
 
-{' '}
 <YouTube id="d0vvtn_1qGA" />
 
 <hr />
@@ -170,5 +169,4 @@ Ox en Mayo alto is planning to release their second EP in one month. I am very c
 
 ## Ox en Mayo Alto - "Los famosos días de la fiebre"
 
-{' '}
 <YouTube id="d0vvtn_1qGA" />

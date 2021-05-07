@@ -123,5 +123,4 @@ Was gibt es sonst noch für Aufbewahrungsmöglichkeiten? Habt ihr Tipps? Habt ih
 
 ## Song des Tages: Zaz – "Ton Rêve"
 
-{' '}
 <YouTube id="1S3TyzpzQP8&amp;feature=related" />

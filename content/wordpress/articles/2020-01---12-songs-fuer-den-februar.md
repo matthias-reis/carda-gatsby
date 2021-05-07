@@ -61,7 +61,6 @@ Wie immer hat wieder jeder von uns dreien vier Songs zusammengestellt. Erlaubt w
 
 Matze meint: "Vor zwei Monaten hatte ich schon die erste Singleauskopplung [in unserer Liste](/2019/11/13-songs-fuer-den-dezember/). Jetzt ist das wundervolle Album erschienen, das insgesamt fast an seinen genialen Vorgänger "Dust and Disquiet" heranreicht. 'Ishmael' ist der siebenminütige, gewaltige vorletzte Track. Er schaukelt sich über einige schräge Violinenklänge in altbekannte Post-Rock Höhen hoch und gewinnt mich damit bei jedem Hören mehr."
 
-{' '}
 <YouTube id="G4MR6_HvckU" />
 
 ### Alcest - "Protection" in der Ben Chisholm Version (Single)
@@ -76,7 +75,6 @@ Matze fehlen hier ein bisschen die Worte. Zu Recht. " Wow. Der Vorgänger von 'G
 
 Der Song startet mit nahezu Kasabian ähnlichen elektronischen Tunes bis Eddie Vedder und der Rest der Band  dann doch wieder ihr Ding machen. Was gut ist. Für sich genommen ist 'Dance Of The Clairvoyants' ein sehr gutes Stück Musik und für mich der perfekter Teaser für das kommende Album."
 
-{' '}
 <YouTube id="ss6mIGfyvXM" />
 
 ### Tindersticks - "See My Girls" von der EP "See my Girls"
@@ -85,7 +83,6 @@ Matze hat sich über die neue Tindersticks EP sehr gefreut.
 
 "Die Briten haben es mir mit ihrem komplett eigenen Mix aus Indie Pop und Avantgarde irgendwie angetan. Vielleicht ist es die düstere, aber dennoch nicht tiefe, melancholische Stimme von Stuart Staples oder ihre experimentellen Rhythmen, die mich sogar manchmal vage an die Neubauten erinnern - gepaart mit Leonard Cohen. Ich weiß es nicht. 'See My Girls' ist wie das Stück von Alcest ebenfalls ein alter, aber vollkommen neu gedachter Bekannter aus dem Vorgängeralbum. Und 'No Treasure But Hope' war ja an sich schon etwas ganz Besonderes. Verpackt wurde die EP mit zwei weiteren komplett neuen Songs, die es sich definitiv auch zu hören lohnt."
 
-{' '}
 <YouTube id="8CWAtHcnNB0" />
 
 ## Meine Auswahl
@@ -94,21 +91,18 @@ Matze hat sich über die neue Tindersticks EP sehr gefreut.
 
 Mein Highlight auf der aus drei Songs bestehenden neuen Platte von Holy Fawn trägt den schönen Namen "Candy". Wunderbarer Post-Rock für das Jahr 2020. Ich hoffe sehr darauf, dass bald wieder ein komplettes neues Album von den Musikern aus Arizona kommt. Bis jetzt haben sie mich noch nie enttäuscht.
 
-{' '}
 <YouTube id="GPnqVsODSt0" />
 
 ### Algiers - "Dispossession" vom Album "There is no year"
 
 Noch ein Werk, das frisch in diesem Jahr veröffentlicht wurde. Algiers machen normalerweise mit handfestem Post-Punk Furore. Das trifft auch für das neue Album "There is no year" zu. "Dispossession" sticht da hervor. Es klingt orchestraler, ja fast ein bisschen poppig. Auf eine gute Art. Der Gesang erinnert mich ein bisschen an Zeal and Ardor. Sehr schön.
 
-{' '}
 <YouTube id="bwKTIQuH5ug" />
 
 ### An Isolated Mind - "Afraid Of Dissonance" vom Album "I'm Losing Myself"
 
 Harter Post-Metal darf auch in diesem Jahr nicht fehlen. An Isolated Mind liefern mit ihrem neuen Album das ab, was unsere Seelen aufwühlt. Sie reißen uns hinab in einen Strudel aus Gebrüll und Düsternis. Musikalisch durchdachte Wellen tragen uns davon. Klarinettenklänge begleiten uns auf unserer Reise.
 
-{' '}
 <YouTube id="bQXiG6J9D3I" />
 
 ### And You Will Know Us By The Trail Of Dead - "Into The Godless Void" vom Album "Into The Godless Void And Other Stories"
@@ -117,7 +111,6 @@ Als ich vor etwa drei Jahren mit Matze mal wieder auf einem Trail Of Dead Konzer
 
 Allerdings waren die Musiker an dem Tag komplett durch den Tüddel und haben (gelinde gesagt) nicht besonders toll gespielt. Umso mehr habe ich mich gefreut, als das neue Album kam. Es erinnert mich tatsächlich auch mehr an "Madonna" und "Relative Ways", als an "Worlds Apart" und "So Devided". Es klingt ganz danach, als hätten sich Conrad Keeley und Co. dieses Mal tatsächlich wiedergefunden. Ich werde ihnen auf jeden Fall auch live eine neue Chance geben, wenn sich die Gelegenheit bietet.
 
-{' '}
 <YouTube id="qwPvnMdAXyA" />
 
 ## Valentins Auswahl
@@ -126,7 +119,6 @@ Allerdings waren die Musiker an dem Tag komplett durch den Tüddel und haben (ge
 
 "Von der sympathischen und wirklich einzigartigen Band aus Aachen Fjørt (die ich leider erst jetzt für mich entdeckt habe) habe ich den Song 'Eden' ausgewählt. Er wurde auf dem ihrem dritten Album 'Colour' aus dem Jahr 2017 verewigt.  Für mich ist er pure Emotion in Musikgestalt. Fjørt sind übrigens beim legendären Hamburger Label Grandhotel van Cleef zu Hause!"
 
-{' '}
 <YouTube id="UqsDrvNz-N4" />
 
 ### Devon Gilfillian - "Unchained" vom Album "Black Hole Rainbow"

@@ -65,7 +65,6 @@ Cowspiracy ist ein Film von by A.U.M. Films &amp; First Spark Media. Produziert 
 
 ## Cowspiracy - der offizielle Filmtrailer
 
-{' '}
 <YouTube id="nV04zyfLyN4" />
 
 [Homepage Cowspiracy](https://www.cowspiracy.com/)

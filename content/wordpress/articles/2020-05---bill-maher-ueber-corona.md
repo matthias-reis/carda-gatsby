@@ -73,7 +73,6 @@ Bill Maher ist überzeugt davon, dass wir, wenn wir uns weiterhin verhalten, wie
 
 > "Ihr müsst nicht so tun, als würden Euch die Tiere etwas bedeuten. Ich möchte nicht den Ruf herzloser Menschen ruinieren. Aber bitte tut etwas! Das Leid der Tiere führt uns sonst in die humanitäre Katastrophe."
 
-{' '}
 <YouTube id="-OoT2OZWCOI" />
 
 Quelle/source: [Live Kindly](https://www.livekindly.co/bill-maher-calls-factory-farms-despicable-wet-markets/)

@@ -63,7 +63,6 @@ Wenn Ihr Euch für einen fairen und ökologischen Lebensstil begeistert, könnt 
 
 Vegablum wurde von Daniela Nowak und Stephan Weidtmann im Oktober 2015 gegründet. Im Jahr 2017 stellten sie auf der Messe Veganfach in Köln zum ersten Mal ihre neuen Honig-Alternativen mit fairen Zutaten in Bio-Qualität vor einem breiteren Publikum vor. Sie wurden bei diesem Anlass mit dem Vegan Innovation Award ausgezeichnet.
 
-{' '}
 <YouTube id="b6PMZs_0KcE" />
 
 ## Infos:

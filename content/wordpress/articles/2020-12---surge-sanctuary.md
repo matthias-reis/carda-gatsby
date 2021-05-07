@@ -97,7 +97,6 @@ Das Unity Diner gründete Ed Winters vor zwei Jahren. Genau wie seine Aktionen, 
 
 Wer wissen möchte, welche Fragen Earthling Ed mir beantwortet hat und warum es OK ist, ein⋆e wütend⋆e Veganer⋆in zu sein,  [klickt am besten hier](/2019/11/earthling-ed-zu-gast-in-hamburg/). Ich habe ihn in Hamburg getroffen.
 
-{' '}
 <YouTube id="sGWQLsnGaik" />
 
 Bilder/pictures: Screenshots from the video, © Earthling Ed

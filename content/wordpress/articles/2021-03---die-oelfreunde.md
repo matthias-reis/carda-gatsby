@@ -168,7 +168,6 @@ Die Transparenz spricht mich sehr an und ich würde sofort wieder bei den Ölfre
 
 ## Ölfreunde-Gründer Paul an der Mühle
 
-{' '}
 <YouTube id="eZ8fvouhMvc" />
 
 [Hier könnt Ihr die Ölfreunde online besuchen](https://www.dieoelfreunde.de/)

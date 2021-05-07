@@ -85,7 +85,6 @@ Schweine lieben ihre Kinder, Meisen handeln selbstlos, Biber suchen sich einen P
 
 Schaut mal, wie viel Spaß die Krähe im Video beim Rodeln hat. Da stockt einem der Atem, oder?
 
-{' '}
 <YouTube id="1WupH8oyrAo" />
 
 Eigentlich sollte es eine Selbstverständlichkeit sein, dass Tiere Gefühle haben. Leider ist es jedoch auch in unserer heutigen Zeit noch an der Tagesordnung, dass sie von uns ignoriert, ausgebeutet und gequält werden.  Hier setzt Peter Wohllebens Buch an. Die knappen Kapitel sind kurzweilig erzählt. Anekdoten aus Wohllebens Alltag als Forstwirt und Tierfreund lockern es auf und regen zum Weiterlesen an.

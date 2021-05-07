@@ -78,7 +78,6 @@ Auch anderen Veganer⋆innen legt der Sportler ans Herz, sich zu engagieren:
 
 ## PETA Interview mit Enes Kanter
 
-{' '}
 <YouTube id="sk1aMTqH33E" />
 
 Bilder/pictures © [PETA](https://www.peta.de/)

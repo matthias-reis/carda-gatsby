@@ -73,7 +73,6 @@ Es ist nicht das erste Mal, dass Beweise für die Grausamkeit gegenüber Affen i
 
 Damals wurde publik, dass die Kokosnuss-Industrie in Thailand bereits seit 400 Jahren Affen bei der Ernte einsetzt. Der Grund dafür ist, dass sie flinker sind und effizienter vorgehen, als Menschen. Diese schaffen nur etwa 80 Kokosnüsse pro Tag zu ernten.
 
-{' '}
 <YouTube id="4BZOnTMrRms" />
 
 ## Traurige Affen auf den Kokos-Farmen in Thailand

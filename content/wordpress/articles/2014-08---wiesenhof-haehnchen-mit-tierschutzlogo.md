@@ -127,15 +127,12 @@ Es handelt sich um eine Imagekampagne, mit der man sich von Skandalen aus der Ve
 
 Erst vor kurzem war Wiesenhof das letzte Mal in den Schlagzeilen. Tiere wurden lebendig auf den Müll geworfen. Von Seiten der Tierfabrik kam die Aussage, mehr in Richtung Tierschutz unternehmen zu wollen, doch die Realität sah ganz anders aus, wie dieses Video zeigt, wir erinnern uns:
 
-{' '}
 <YouTube id="z1HgNxk7e0w" />
 
 Auch in den Jahren 2010 - 2012 deckten Tierschützer immer wieder auf, wie die Mitarbeiter in den Wiesenhof-Massentierbetrieben über Leichen gehen:
 
-{' '}
 <YouTube id="Jz00U-yGYtk" />
 
-{' '}
 <YouTube id="HkBqOq9-HDo" />
 
 Inzwischen hat sich Wiesenhof den Tierschutz einfach kurzerhand mit Hilfe eines Labels "ins Boot"geholt. Die Aussage des Tierschutzbundes hierzu: _"Der Deutsche Tierschutzbund steht dafür, jedes einzelne Tier um seiner selbst willen zu schützen. Solange jedoch die Gesellschaft die Zucht, die Haltung und den Tod von Tieren zu Ernährungszwecken als vernünftigen Grund akzeptiert, gilt es, alle Möglichkeiten auszuschöpfen, die Situation der Tiere zu verbessern."_
@@ -202,7 +199,7 @@ Die liebe Corinna, deren Bekanntschaft ich heute morgen in der Facebook Tofu-Gr
   handelt. Einen größeren, selbst zugefügten, Imageschaden kann ich mir kaum
   vorstellen. Falls Sie die oben angesprochenen Bilder noch nicht kennen, sende
   ich Ihnen gerne Anschauungsmaterial mit:
-  [https://www.youtube.com/results?search_query=soko+tierschutz+wiesenhof](https://www.youtube.com/results?search_query=soko+tierschutz+wiesenhof){' '}
+  [https://www.youtube.com/results?search_query=soko+tierschutz+wiesenhof](https://www.youtube.com/results?search_query=soko+tierschutz+wiesenhof)
 </address>
 
 <address>

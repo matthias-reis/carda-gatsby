@@ -71,7 +71,6 @@ Leder-Alternativen, die ohne Kunststoff auskommen, sind nach wie vor selten. Obw
 
 ## Paris Jackson in der veganen Pilzleder-Linie von Stella McCartney
 
-{' '}
 <YouTube id="Gh9CdbluinQ" />
 
 **Quellen/Sources:** [Plant Based News](https://plantbasednews.org/lifestyle/fashion/stella-mccartney-unveils-world-first-garments-made-from-mushrooms/), [Stella McCartney](https://www.stellamccartney.com/de)

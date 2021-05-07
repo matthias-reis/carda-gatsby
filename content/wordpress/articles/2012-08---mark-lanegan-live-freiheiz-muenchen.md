@@ -72,17 +72,14 @@ Besonders gut gefiel mir auch das Spiel des Creature With The Atom Brain Gitarri
 
 ## Hier sind für Euch Creature With the Atom Brain mit "Mind Your Own God" von ihrem 2007er Album "I Am The Golden Gate Bridge"
 
-{' '}
 <YouTube id="OaMkIEwrxUw" />
 
 ## Und selbstverständlich habe ich auch von Mark Lenegan noch einen für Euch auf Lager: "The Gravedigger´s Song"
 
-{' '}
 <YouTube id="mVCNSZPPr9M" />
 
 ## Ach und weil es so schön ist und man es einfach hier nicht weglassen kann, hier noch "Hit The City"
 
-{' '}
 <YouTube id="azH5eEXtllc" />
 
 Das war´s jetzt aber für heute (eigentlich ist ja schon morgen) Gute Nacht und ♥lichen Dank für die Aufmerksamkeit.

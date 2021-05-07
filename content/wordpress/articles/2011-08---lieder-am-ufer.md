@@ -97,5 +97,4 @@ Der Text verändert sich Grübelt, ist nachdenklich Splittert, bricht auf Bruchs
 
 Beulah - If We Can Land A Man On The Moon, Then Surely I Can Win Your Heart
 
-{' '}
 <YouTube id="SZKFyxCB2Is" />

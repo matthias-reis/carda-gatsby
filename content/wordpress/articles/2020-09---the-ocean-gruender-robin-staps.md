@@ -219,7 +219,6 @@ Als Vorgeschmack auf das neue The Ocean Album "Phanerozoic II" hier schon mal de
 
 ## The Ocean Collective - "Oligocene"
 
-{' '}
 <YouTube id="WQhJZz4Y_HI" />
 
 ### Fußnote
@@ -401,7 +400,6 @@ Here is a teaser for the upcoming The Ocean Album "Phanerozoic II" for you.
 
 ## The Ocean Collective - "Oligocene"
 
-{' '}
 <YouTube id="WQhJZz4Y_HI" />
 
 ### Footnote

@@ -52,7 +52,7 @@ Herzlichen Dank für die Aufmerksamkeit und ein schönes Wochenende.
 
 <h3>
   So wird das Ganze übrigens in good old England gekennzeichnet, hübsch, oder?
-  __{' '}
+  __
 </h3>
 
 <Gallery

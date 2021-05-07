@@ -64,7 +64,6 @@ Ob Manansala heute vegan lebt oder seinen Aufruf selbst für den letzten Schritt
 
 In einem weiteren Tweet bat Philip seine Fans, ihm Fotos von selbst gekochten veganen Gerichten zu schicken. Möglicherweise ist er selbst also auch noch auf der Suche nach Inspiration – dass er dabei andere motiviert finde ich großartig.
 
-{' '}
 <YouTube id="WnozuHlC6AY" />
 
 Bild/picture: Phil Manansala from Of Mice &amp; Men at Nova Rock 2017, Alfred Nitsch, Lizenz/licence:  [Wikimedia Commons](https://de.m.wikipedia.org/wiki/Datei:20170616-177-Nova_Rock_2017-Of_Mice_%26_Men-Phil_Manansala.jpg)

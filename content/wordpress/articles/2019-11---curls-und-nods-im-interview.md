@@ -168,7 +168,6 @@ Die letzte Veröffentlichung von Curls &amp; Nods gab es erst vor Kurzem: "SGN R
 
 **Baronski &amp; derkalavier:** Vielen Dank für das nette Interview! Hoffentlich bis bald!
 
-{' '}
 <YouTube id="RP6BlqHuVc8" />
 
 Das komplette Video-Material von der Rooftop Session in Saigon [findet Ihr hier](https://www.trustinwax.com/curls-nods-sgn-rooftop-session-tiw-6.html?fbclid=IwAR3GepkEIh7XijAYxu6zIVkyc8yg7O1PFCdqUtwcqgTHOkXkuCR52ZZbWEo).

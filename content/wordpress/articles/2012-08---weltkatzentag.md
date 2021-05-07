@@ -75,5 +75,4 @@ Recht herzlichen Dank für die Aufmerksamkeit, allen, die bis hier hin gelesen h
 
 **Hier kommt das Lied des Tages: NINE INCH NAILS live@ Woodstock 1994 -Terrible Lie**
 
-{' '}
 <YouTube id="G-8VM9WLZmk&amp;list=PL7FCFCC210D46FDFF&amp;index=2&amp;feature=plpp_video" />

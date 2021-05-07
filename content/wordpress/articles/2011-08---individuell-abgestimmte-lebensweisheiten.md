@@ -47,5 +47,4 @@ Deshalb bringen alte Lebensweisheiten sowieso meistens nichts. Man muss eigene f
 
 Aber früh aufstehen hilft auch nicht.
 
-{' '}
 <YouTube id="WF6esydiV34" />

@@ -66,7 +66,6 @@ Die größte Herausforderung, der sich Pierschel und sein Team beim Dreh des Fil
 
 In "The End Of Meat" zeigt Marc Pierschel besonders einfühlsam, wie unser Leben ohne die Ausbeutung von Tieren aussehen kann. Er hinterfragt kritisch, beantwortet diverse Fragen zur Umstellung auf pflanzliche Kost und beleuchtet dabei ihre klaren Vorteile.
 
-{' '}
 <Vimeo id="261392546" />
 
 [Auf der Homepage des Films](http://www.theendofmeat.com/watch.html) seht Ihr genau, wo Ihr den Film streamen könnt.

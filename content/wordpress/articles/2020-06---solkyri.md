@@ -147,7 +147,6 @@ Solkyri gründeten sich 2006 in Sydney. Die Band besteht aus Adam Mostek (Gitarr
 
 ## "Mount Pleasant" von Solkyri auf Spotify hören
 
-{' '}
 <YouTube id="album/34h6FFzDok76ad1O8UQxds" />
 
 ## "Mount Pleasant" von Solkyri auf iTunes hören
@@ -263,7 +262,6 @@ Solkyri was founded in Sydney in 2006. The band consists of Adam Mostek (guitar,
 
 ## Listen to "Mount Pleasant" by Solkyri on Spotify
 
-{' '}
 <YouTube id="album/34h6FFzDok76ad1O8UQxds" />
 
 ## Listen to "Mount Pleasant" by Solkyri on iTunes

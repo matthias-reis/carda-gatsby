@@ -66,7 +66,6 @@ Alice und Hendrik wollen mit ihren Filmen so viele Menschen wie möglich ansprec
 
 **Hendrik:** Das erste Projekt von Unstumm Film war das "Pelzfrei"-Video bei der Stuttgarter Pelzfrei-Demo. Das war im Herbst 2013. Seitdem haben wir verschiedene Videoideen umgesetzt.
 
-{' '}
 <YouTube id="jAgMnYr3bfc" />
 
 **Anne:** Habt Ihr früher schon zusammengearbeitet?
@@ -190,7 +189,6 @@ Hier ist der aktuelle Film der Unstumm Crew:
 
 ## "Gute Argumente, Fleisch zu essen"
 
-{' '}
 <YouTube id="vu0r6bqHOPM" />
 
 ## Weitere im Interview genannte Videos
@@ -201,12 +199,10 @@ Hier ist der aktuelle Film der Unstumm Crew:
 
 ### Interview mit Anna Ferrari, Ausgangspunkt für das "Was darf der Mensch?"-Video Zukunft ohne Massentierhaltung
 
-{' '}
 <YouTube id="yVC_4hGvYbQ" />
 
 ### "Widerstand vor den Toren Wiesenhofs"
 
-{' '}
 <YouTube id="p3FMK47tzCA" />
 
 Wer mehr über Unstumm Film erfahren möchte, kann dies [auf Hendriks und Alices Facebook-Seite tun](https://www.facebook.com/unstummfilm).

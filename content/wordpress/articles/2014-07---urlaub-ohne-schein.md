@@ -97,7 +97,6 @@ In der Zwischenzeit drückt mir bitte alle Daumen und daumenähnlichen Gegenstä
 
 Hier ist noch ein schönes Lied für Euch und im Anschluss zwei Eindrücke vom Soundgarden &amp; Black Sabbath Open Air in München.
 
-{' '}
 <YouTube id="sC2GjXMk7i4" />
 
 <RemoteImage

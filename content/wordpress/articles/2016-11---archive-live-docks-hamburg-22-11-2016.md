@@ -89,5 +89,4 @@ Da ich mir das Mitbringen von Kamera-Equipment [inzwischen spare](/2013/10/karni
   ]}
 />
 
-{' '}
 <YouTube id="A4gBzUwo6Iw" />

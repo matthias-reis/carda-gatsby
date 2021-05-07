@@ -160,5 +160,4 @@ Ich für meinen Teil habe die Entscheidung, keine [Tiere zu essen](/2019/02/tie
 
 ## "Loss" von Six Days Of Calm
 
-{' '}
 <YouTube id="DSMnZ3dtRkg" />

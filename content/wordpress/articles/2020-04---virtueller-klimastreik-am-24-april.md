@@ -43,7 +43,6 @@ Politiker⋆innen können ab sofort nicht mehr in ihren Reden erzählen, die Cor
 
 Es ist [Zeit, dass sich was ändert](/2020/04/inger-andersen-un-covid-19/) ! Seid auch Ihr dabei! Der Livestream geht am 24. April um Punkt 12:00 los. Wir sehen uns! Zum Livestream geht es hier entlang:
 
-{' '}
 <YouTube id="9EUVRPSWJsk" />
 
 <div class="footnotes">

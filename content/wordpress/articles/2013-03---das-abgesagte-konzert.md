@@ -151,5 +151,4 @@ Desweiteren bleibt mir nichts, als Antony alles Gute zu wünschen. Wir hoffen se
 
 ## Amanda Palmer – "In My Mind"
 
-{' '}
 <YouTube id="Q9WZtxRWieM" />

@@ -84,7 +84,6 @@ Von der nahegelegenen Promenade dringen Geräusche zu den Menschen am Strand. Du
 
 ## Summer Wine - Der Song
 
-{' '}
 <YouTube id="UH800q8qQsg" />
 
 ## Teilnehmer beim Blind Date mit Summerwine

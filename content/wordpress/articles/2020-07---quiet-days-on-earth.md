@@ -98,7 +98,7 @@ Wer reinhören möchte, kann das hier tun:
   seamless=""
 >
   ﻿ [Quiet Days On Earth by electric
-  mud](http://electricmud.bandcamp.com/album/quiet-days-on-earth){' '}
+  mud](http://electricmud.bandcamp.com/album/quiet-days-on-earth)
 </iframe>
 
 Die CD [bekommt Ihr hier für 10 Euro](https://electricmud.bandcamp.com/track/quiet-days-on-earth). Ab dem 24. Juli könnt Ihr das Album dann auch [bei Spotify](https://open.spotify.com/artist/6k1d2dssiYAcVCngD2sJIX) hören.

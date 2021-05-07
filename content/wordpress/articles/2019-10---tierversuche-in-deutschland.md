@@ -154,7 +154,6 @@ Die Großdemo für die Schließung des Hamburger Tierversuchslabor LPT startet u
 
 ## Hier die Bilder aus der verdeckten Ermittlung
 
-{' '}
 <YouTube id="qFjF0Dy3Uh0" />
 
 Dr. Zietek, Wissenschaftskoordinatorin bei den Ärzten gegen Tierversuche findet klare Worte:

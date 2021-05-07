@@ -50,5 +50,4 @@ Heute Abend: Erster Auftritt. Um 18 Uhr geht´s los zum Aufbau und Soundcheck. G
 
 ## Song des Tages: Sonic Youth - "Dirty Boots"
 
-{' '}
 <YouTube id="igwCSA0Es9Y" />

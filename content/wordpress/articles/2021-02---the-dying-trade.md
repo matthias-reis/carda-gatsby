@@ -88,7 +88,6 @@ Durch die tägliche Wiederholung und Routine normalisieren sich die Handlungen f
 
 Der Film zeigt, wie das Trauma die Menschen in die Depressionen und häufig auch in die Sucht treibt.
 
-{' '}
 <YouTube id="9R0IQ8xuvl8" />
 
 Um das Projekt zu finanzieren, hat Jack Hancock-Fairs für seinen Film eine Indigogo-Kampagne gestartet. Ihr könnt sie [hier unterstützen](https://www.indiegogo.com/projects/the-dying-trade-a-documentary-film#/).

@@ -56,7 +56,6 @@ Meeresschildkröten sind von der Zerstörung des Lebensraums Ozean besonders bet
 
 Greenpeace möchte mit dem Clip nicht nur darauf hinweisen. Vor allem auch die Tatsache, dass der Klimawandel im Wasser schneller voranschreitet, als zu Lande und dort immer mehr Opfer fordert, steht im Mittelpunkt. Es ist wichtig, die Lage immer wieder zu thematisieren. Nur durch schnelles Handeln, das Bekämpfen der Ursachen und den Ausbau der Meeresschutzgebiete können wir den Bewohnern der Ozeane helfen.
 
-{' '}
 <YouTube id="cQB4RAZVMf4" />
 
 Zusammen mit dem 1,5-minütigen Film hat Greenpeace eine Petition veröffentlicht. Die Aktion soll die Regierungen dazu auffordern, sich für die Einrichtung von Meeresschutzgebieten einsetzen. Sie kann [hier mitgezeichnet werden](https://act.greenpeace.de/turtle-journey).

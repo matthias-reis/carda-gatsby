@@ -60,5 +60,4 @@ Naja, nun genug vom Smalltalk, ich möchte Euch ja nicht unnötig lange auf die 
 
 ## Blood Red Shoes – "In Time To Voices"
 
-{' '}
 <YouTube id="3N69hRav3WI" />

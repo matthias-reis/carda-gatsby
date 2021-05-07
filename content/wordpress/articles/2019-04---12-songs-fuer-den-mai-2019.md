@@ -102,14 +102,12 @@ Wir wünschen Euch viel Freude beim Hören und freuen uns auf Euren Applaus und 
 
 Was habe ich getobt, als ich gehört habe, dass es was Neues von **Pelican** geben wird! Das komplette Album gibt es erst in ein paar Tagen zu hören. "Midnight and Mescaline" wurde schon mal vorausgeschickt und macht richtig viel Lust auf mehr!
 
-{' '}
 <YouTube id="sqpRKLbhlck" />
 
 ### Lost in Kiev - "Persona" Vorauskopplung vom Album "Persona" (2019)
 
 **Lost in Kiev** ist eine von Matzes und meinen gemeinsamen Lieblingsbands. Wir sind schon sehr gespannt aufs neue Album "Persona" und erfreuen uns so lange an den beiden Vorauskopplungen "Persona" und "Lifelooper". Matze hat unserer Liste "Persona" hinzugefügt.
 
-{' '}
 <YouTube id="bCrfdqC0YCE" />
 
 ### Unkle - Crucifixion / A Prophet (Feat. Tom Smith, Ian Astbury and others) vom Album "The Road Part II" (29.03.2019)
@@ -118,7 +116,6 @@ Valentin dazu: "Das Stück gefällt mir von der neuesten Platte bisher am besten
 
 Die ebenfalls grandiose Vorauskopplung "The Other Side" mit Tom Smith und Philip Sheppard hatte es letzen Monat noch nicht aus meiner Vorauswahl in die Hauptliste geschafft. Das Album haut mit seinem Gesamtkonzept mächtig aufs Ohr und gehört definitiv ins Plattenregal. Die Liebe zur Band teile ich mit Valentin. "Crucifixion / A Prophet" hat die Platzierung definitiv verdient. Ian Astburys Stimme zieht uns mit seiner magischen Stimme alle in seinen Bann.
 
-{' '}
 <YouTube id="gxKfb84DSL0" />
 
 ### Baroness - "Seasons" Vorauskopplung vom Album "Gold &amp; Grey" (2019)
@@ -131,56 +128,48 @@ Was ist denn bitte los im Moment? Noch eine Wahnsinnsband, die ein Album in den 
 
 Valentin findet zu diesem Stück die folgenden Worte "Da ich mir die aktuelle **QOTSA** erst jetzt gekauft habe, ist sie für mich praktisch auch neu. Dieses Stück gefällt mir besonders gut!"
 
-{' '}
 <YouTube id="2dcbcic06vw" />
 
 ### Jambinai - "Sawtooth" vom Album "ONDA" (2019)
 
 Matze findet den koreanischen Avant-Rock von Jambinai unfassbar gut und hat mich damit inzwischen auch angesteckt. "ONDA" ist das dritte Album der Band, die sich 2009 in Seoul gegründet hat.
 
-{' '}
 <YouTube id="IPaO8b5AVak" />
 
 ### Cave In - "All Illusion" Vorauskopplung vom Album "Final Transmission" (2019)
 
 Und noch eine **Vorauskopplung** ! Das ist so unglaublich spannend dieses Mal! Ich bin schon gespannt, wer in der nächsten Monatsliste vielleicht sogar nochmal einen Platz finden wird? Matze hat dieses Juwel ausgegraben. Die Band war Anfang der 2000er schon mal ziemlich groß dabei und hat ihn schon damals sehr begeistert. Cave in stammen aus Methuen, Massachusetts und ihre Musik kann wohl am ehesten dem **Post-Hardcore** zugeordnet werden.
 
-{' '}
 <YouTube id="G6pnX5A892k" />
 
 ### Audioslave "Gasoline" vom Album "Audioslave" (2000)
 
 **Audioslave** Gründer und Multitalent [Chris Cornell](/2017/05/chris-cornell-nachruf/) war einer der größten Musiker aller Zeiten. Er wird niemals in Vergessenheit geraten und wir werden seine Stücke immer bei uns tragen und seine Worte in unseren Herzen. Valentin hat diesen Monat "Gasoline" zu unserer Liste hinzugefügt. Bitte beim Hören ganz laut aufdrehen.
 
-{' '}
 <YouTube id="62_0ZHhOo58" />
 
 ### Long Distance Calling - "Jungfernflug" vom Album "Satellite Bay"
 
 "Jungfernflug" ist unser gemeinsamer Lieblingssong von LDC, [die wir zuletzt in der Kulturkirche Altona live erleben durften](/2019/04/long-distance-calling-kulturkirche-altona/). Die Band aus Münster begleitet uns schon lange Jahre und vereint mit ihrer Musik alle Einflüsse, die auch für uns wichtig sind.
 
-{' '}
 <YouTube id="UEftFWvGjpk" />
 
 ### Old Solar - "Spring Equinox: The Mountains Break Forth In Song" vom Album "See" (2019)
 
 Wer sich mal wieder so richtig verzaubern lassen möchte, der gibt sich den musikalischen Werken von **Old Solar** hin. Sie wird auf dunk!records gepresst und sprengt derzeit alle Bewertungen. Ich habe Euch "Spring Equinox: The Mountains Break Forth In Song" mitgebracht - nehmt Euch einfach mal acht Minuten und 19 Sekunden und lehnt Euch zurück. Vermutlich werdet Ihr danach das komplette Album hören wollen.
 
-{' '}
 <YouTube id="RC1Wmm0VU14" />
 
 ### Meshuggah - "Straws Pulled At Random" vom Album "Nothing" (2002, Reissue 2006)
 
 Diesen wandelnden Powerchord hat Valentin ausgewählt. Im Moment ist es sein liebster Meshuggah Song und seit er das erwähnt hat, läuft er auch bei Matze und mir wieder. Wir finden: Eine Band, deren Werke man definitiv nicht vernachlässigen sollte.
 
-{' '}
 <YouTube id="LmVzqjycA-o" />
 
 ### Waste Of Space Orchestra - "Seekers Reflection" vom Album "Syntheosis" (2019)
 
 Waste Of Space Orchestra gründeten sich 2018 im finnischen Tampere. Sie machen rauen **Metal** , der das Herz berührt. Ihr Album komponierten sie ursprünglich für das sie für das Roadburn Festival 2018, wo es vor 3.000 Zuschauern zum ersten Mal in voller Länge gespielt wurde, bevor es vor Kurzem unter dem Label Svart / Cargo erschien. Unter der Regie von Oranssi Pazuzu und Dark Buddha Rising sind zehn Musiker an dem aufregenden Projekt beteiligt, darunter drei Stimmen, drei Gitarristen und ein Keyboarder bzw. Organist. Das Konzeptalbum entspricht einer Suite aus neun Teilen, die ich Euch hiermit wärmstens empfehle.
 
-{' '}
 <YouTube id="V8ia-nyd_K8" />
 
 ## Ihr findet die komplette Playlist wie immer bei Spotify und iTunes

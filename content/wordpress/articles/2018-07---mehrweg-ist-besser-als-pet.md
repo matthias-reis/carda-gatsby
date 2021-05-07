@@ -76,7 +76,6 @@ Mit ihrer aktuellsten Kampagne fordert die Deutsche Umwelthilfe jetzt einen Plan
 
 ## Ein Video macht diese Forderungen deutlich
 
-{' '}
 <YouTube id="3Q9QgdQlNPk" />
 
 Bleibt zu hoffen, dass die Initiative Früchte tragen wird und bald ein Umdenken erfolgt. Eine unverändert anhaltende Ressourcenverbrennung durch die Herstellung umweltschädlicher Plastikgegenstände kann sich die Menschheit einfach nicht leisten. Und das nicht nur, weil inzwischen bereits an weit mehr als nur einem Strand im Müll gebadet wird.

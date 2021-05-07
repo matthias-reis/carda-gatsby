@@ -64,7 +64,6 @@ Natürlich haben wir uns auch in diesem Monat nicht auf Neuveröffentlichungen b
 
 Selbstverständlich darf dieses Stück diesen Monat nicht fehlen. Wir haben es gemeinsam auf die Liste gesetzt. Über die neueste Veröffentlichungspolitik der Band darf gestritten werden. Erst gar nichts digital, dann plötzlich alles und die neue Platte wird es (zumindest heißt es das bis jetzt) nur in einer Edelversion für 90 Euro geben? Eigentlich ist es doch ganz schön cool, dass man jetzt auch alle alten Schätze digital hören kann, oder nicht? Das Stück ist klasse, [eine komplette Rezension findet Ihr hier im Blog bereits](/2019/08/bald-kommt-das-neue-tool-album/). Wir freuen uns auf das komplette Album, das übermorgen das Licht der Welt erblicken soll.
 
-{' '}
 <YouTube id="q7DfQMPmJRI" />
 
 ## Tom Morello feat. Serj Tankian &amp; ATTLAS - "A Higher Frequency"
@@ -73,7 +72,6 @@ Selbstverständlich darf dieses Stück diesen Monat nicht fehlen. Wir haben es g
 
 "Eine Kooperation zweier Musikgötter. Sie darf in der Liste auf keinen Fall fehlen. Mir persönlich ist die Nummer fast ein bisschen zum mainstreamig. Hört am besten einfach selbst mal rein."
 
-{' '}
 <YouTube id="sdudfvaNb6s" />
 
 ## Refused - "Blood Red" - Auskopplung vom neuen Album "War Music"
@@ -82,7 +80,6 @@ Auch dieses Stück hat Matze auf die Liste gepackt. Seine Freude ist groß.
 
 "OMG! Es wird in Kürze ein neues Album von Refused geben! Auch, wenn ich das Gefühl habe, aus der Musik ein bisschen 'herausgewachsen' zu sein, ist 'Blood Red' definitiv schon mal ein Kracher. Ich bin gespannt auf die Platte!"
 
-{' '}
 <YouTube id="DUOvGdXEzWg" />
 
 ## Russian Circles - "Arluck" vom neuen Album "Blood Year"
@@ -91,21 +88,18 @@ Auch dieses Stück hat Matze auf die Liste gepackt. Seine Freude ist groß.
 
 "Beim neuen Russian Circles Album ist es mir schwergefallen, einen einzelnen Song herauszupicken. Ihr bisher wohl härtestes Album ist wieder mal unglaublich stark. Schlussendlich habe ich mich dann für 'Arluck' entschieden. Es hätte aber auch 'Quartered' werden können. Sucht Euch Euren Favoriten am besten einfach selbst raus. Ich bin auf jeden Fall der Meinung, man sollte die Platte am Stück hören."
 
-{' '}
 <YouTube id="79btD88nFbY" />
 
 ## We Lost The Sea - "A Beautiful Collapse"
 
 Als ich gesehen habe, dass es etwas Neues von We Lost The Sea gibt, war ich erstmal vollkommen aus dem Häuschen. Was für eine Freude! Zuerst "Towers" und jetzt "A Beautiful Collapse". Das neue Album kann schon vorbestellt werden - die beiden Songs gibt es sofort, die haptische LP dann, wenn es fertig ist. Wir haben natürlich schon bestellt und freuen uns darauf!
 
-{' '}
 <YouTube id="DonwlhImpWs" />
 
 ## 65daysofstatic - "trackerplatz" - Voraubauskopplung vom neuen Album "replicr"
 
 Die zweite Vorauskopplung vom neuen 65daysofstatic Album macht es spannend und definitiv Lust auf mehr. Wir durften die Band auf dem [diesjährigen ArcTanGent Festival](/2019/05/arctangent-festival-2019/) live erleben und waren verzaubert. Matzes Worte dazu "Für mich war das 65daysoftstatic Konzert definitiv das beste Konzert auf dem ArcTanGent. Und das, obwohl wir dort mindestens noch fünf weitere Top-Konzerte gesehen haben. Im Moment sind 65days meine absolute Lieblingsband." Das klingt schon mal gut, oder? Matze hatte übrigens die erste Auskopplung "Popular Beats" auf seiner Liste. Die lohnt es sich auf alle Fälle auch zu hören!
 
-{' '}
 <YouTube id="l73eDjbpPzA" />
 
 ## Tides From Nebula - "The New Delta" - Vorauskopplung vom bald folgenden Album "From Voodoo To Zen"
@@ -114,7 +108,6 @@ Tides From Nebula sind eine Post-Rock Band, die man nie wieder vergisst, hat ihr
 
 "Eine verdammt gute Vorauskopplung! Ein Post-Rock Stück nach klassischem Muster. Ganz anders, als bei 65daysofstatic, Russian Circles oder BATTLES. Ich höre es gerne!"
 
-{' '}
 <YouTube id="WChncS50fqM" />
 
 ## Röyksopp - "Rescue" (Lost Tapes)
@@ -125,14 +118,12 @@ Röyksopp begleiten mich schon ziemlich lange und sie sind immer wieder für ein
 
 Das klingt unglaublich spannend, oder? Meine Neugierde ist auf jeden Fall geweckt. Falls Ihr Euch übrigens schon mal gefragt habt, was Röyksopp oder Røyksopp bedeutet: Atompilz!
 
-{' '}
 <YouTube id="aeRaylOqiuk" />
 
 ## Dominik Eulberg - "Fünfflecken Widderchen"  - zweite Auskopplung vom neuen Album "Mannigfaltig"
 
 Dominik Eulberg möchte mit seinem neuen Album die atemberaubende Mannigfaltigkeit der heimischen Natur in all ihren Formen und Farben zelebrieren. Jede Woche erscheint derzeit ein neuer Song - bis die Platte im September vollständig veröffentlicht ist. Mit "Fünfflecken-Widderchen" liefert er das zweite geniale Technostück der Scheibe aus. Es folgte bereits "Goldene Acht", der Vorgänger ist "Neuntöter".
 
-{' '}
 <YouTube id="FabRWxFq5W4" />
 
 ## Metallica - "The Outlaw Torn" vom Album "Load" (1996)
@@ -141,14 +132,12 @@ Valentin hatte vor Kurzem mal wieder das große Glück Metallica live zu erleben
 
 "Nach dem unvergesslichen Konzerterlebnis in München, bei dem das lange nicht gespielte Instrumental 'The Call of Ktulu' gespielt wurde, spielte die Band zwei Tage später in Mannheim 'The Outlaw Torn' vom '96er Album Load, dass sie seit acht Jahren nicht mehr gespielt haben. Es ist einer meiner absoluten Favoriten von Metallica. Diese beiden Songs waren wahrscheinlich ein kleines Warm-up für 'S&amp;M 2' - zwei Konzerte mit dem San Francisco Symphony Orchestra, die im September zum 20-jährigen Jubiläum vom ersten 'S&amp;M' stattfinden sollen. Wir sind gespannt..."
 
-{' '}
 <YouTube id="yRdSpghO4Es" />
 
 ## Alter Bridge - "Wouldn't You Rather" erste Auskopplung vom neuen Album "Walk The Sky"
 
 Auch dieses Stück Musik hat Valentin ausgesucht. "Mittlerweile das sechste Album der ehemaligen Creed Instrumentalisten zusammen mit dem einmaligen Sänger Miles Kennedy. Ich bin schon sehr gespannt auf das Konzert im Münchner Zenith im November."
 
-{' '}
 <YouTube id="bAz1vYAwVKE" />
 
 ## The Holy Modal Rounders - "If You Want To Be A Bird" vom Album "Last Round" (1978)
@@ -157,7 +146,6 @@ Auch dieses Stück Musik hat Valentin ausgesucht. "Mittlerweile das sechste Albu
 
 "Für mich ist der Song ein kleiner Nachruf an Peter Fonda, der diesen Monat leider von uns gegangen ist. Ein wunderschönes Stück Musik aus dem Easy Rider Soundtrack."
 
-{' '}
 <YouTube id="LcBcgraw1pQ" />
 
 ## Unsere Playlists

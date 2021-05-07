@@ -118,7 +118,6 @@ Im Mai 2008 veröffentlichte die Band ihre Debut-EP "I". Inzwischen haben Toundr
 
 ## "Das Cabinet des Dr. Caligari" von Toundra auf Spotify hören
 
-{' '}
 <YouTube id="album/08y4jMFcpVaS7MlANeI4Bp" />
 
 ## "Das Cabinet des Dr. Caligari" von Toundra auf iTunes hören
@@ -215,7 +214,6 @@ In May 2008 the band released its Debut-EP (I). Meanwhile, there are six albums 
 
 ## Listen to "Das Cabinet des Dr. Caligari" by Toundra on Spotify
 
-{' '}
 <YouTube id="album/08y4jMFcpVaS7MlANeI4Bp" />
 
 ## Listen to "Das Cabinet des Dr. Caligari" on iTunes

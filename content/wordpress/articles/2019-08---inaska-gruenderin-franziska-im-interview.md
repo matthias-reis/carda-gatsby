@@ -147,5 +147,4 @@ Hier könnt Ihr Euch [die Bikinis aus dem Hause INASKA aus der Nähe ansehen](/2
 
 Hier sind für Euch Two Magics mit "Glücklich wie die Kinder"
 
-{' '}
 <YouTube id="FsRc42IwLRo" />

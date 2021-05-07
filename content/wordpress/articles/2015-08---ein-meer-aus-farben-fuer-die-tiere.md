@@ -188,7 +188,6 @@ Franz wird auch auf dem nächsten Bild von Denise zu sehen sein, das derzeit in 
 
 Mit lieben Grüßen von Denise sind hier für Euch Berge mit "Meer aus Farben":
 
-{' '}
 <YouTube id="7rHWnRHd3lg" />
 
 - [1] [WYOB - Vegane Mützen mit Statement](/2015/04/vegane-haekelmuetzen-mit-statement/)

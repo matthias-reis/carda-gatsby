@@ -65,7 +65,6 @@ Jeder Spender erhält eine individuelle Spender-Urkunde sowie je nach Höhe des 
 
 Wer mehr erfahren möchte oder sich soeben spontan entschieden hat, Landpate für den Erdlingshof zu werden: [BITTE HIER ENTLANG!](https://www.erdlingshof.de/landpate-werden/)
 
-{' '}
 <YouTube id="epZRhRNis7c" />
 
 Das Video sowie die Grafiken stammen vom Erdlingshof. Das Titelbild habe ich in der Nähe der [Boberger Düne](/2016/05/naturschutzgebiet-boberger-niederung/) aufgenommen.

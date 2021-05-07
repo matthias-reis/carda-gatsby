@@ -196,7 +196,6 @@ Das Gefühl ist das Wichtigste. Wenn sich ein Song nicht gut anfühlt, wird er a
 
 ## We Lost The Sea beim Dunk!festival 2017
 
-{' '}
 <YouTube id="QyHhEJG9oZE" />
 
 <hr />
@@ -372,5 +371,4 @@ This means that sometimes due to the sheer number of band members, we compromise
 
 ## We Lost The Sea At Dunk!festival 2017
 
-{' '}
 <YouTube id="QyHhEJG9oZE" />

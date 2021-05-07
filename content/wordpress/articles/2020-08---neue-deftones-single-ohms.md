@@ -66,7 +66,6 @@ Die Wegbereiter ihres Genres haben es noch voll drauf und lassen uns von ausgela
 
 ## "Ohms" von den Deftones hören
 
-{' '}
 <YouTube id="KUDbj0oeAj0" />
 
 Das Foto habe ich 2013 auf dem [Rocknheim Festival](/2013/08/rocknheim-2013/) aufgenommen.

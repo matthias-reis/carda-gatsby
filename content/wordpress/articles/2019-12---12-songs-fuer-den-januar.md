@@ -67,28 +67,24 @@ Jeder von uns hat wie immer vier Songs ausgesucht. Wie schon in den letzten 12 M
 
 "Bossk aus dem englischen Ashford wollte ich schon lange mal ein eine unserer Listen aufnehmen. Matze und Anne hatten ja das große Glück, sie beim [Arctangent Festival](/2019/09/arctangent-festival-2019-2/)  live erleben zu dürfen. Ihr erstes richtiges Album haben die Post-Metaller erst vor drei Jahren veröffentlicht. Zuvor hat es ausschließlich Singles und EPs gegeben. Ich höre im Moment sehr häufig die EP 'I II' aus dem Jahr 2005. Besonders gut gefällt mir darauf das Stück 'I'."
 
-{' '}
 <YouTube id="nTt6uIZ9lWI" />
 
 ### 2. Sepultura - "Ratamahatta" vom Album "Roots"
 
 "Auch die zweite Band auf meiner Liste macht guten Metal. Der Klassiker 'Ratamahatta' vom Album 'Roots' von 1996 ist ein schönes Beispiel für Sepulturas einzigartigen Sound. Mehr braucht man dazu eigentlich nicht zu sagen."
 
-{' '}
 <YouTube id="NiwqRSCWw2g" />
 
 ### 3. Red Hot Chili Peppers - "Desecration Smile" vom Album "Stadium Arcadium"
 
 "Im Dezember ist der größte Wunsch zahlreicher Red Hot Chili Fans in Erfüllung gegangen - der einzigartige Gitarrist John Frusciante ist zur Band zurückgekehrt. Im Song 'Desecration Smile' vom vorerst letzten Chili Peppers Album mit John 'Stadium Arcadium' kommt auch sein wunderbarer Background-Gesang zur Geltung."
 
-{' '}
 <YouTube id="v-nNksBWxNI" />
 
 ### 4. Green Day - "Father Of All Motherfuckers" vom Album "Father Of All Motherfuckers"
 
 "Zu guter Letzt lasse ich eine kleine Musikbombe platzen: die neue Single von Green Day! Zugegeben - an den neuen Rock 'n' Roll Style der Jungs muss man sich erst ein bisschen gewöhnen. Hat man das geschafft, rockt er richtig fett. Das gleichnamige Album zur Vorauskopplung ist für Februar 2020 angekündigt."
 
-{' '}
 <YouTube id="eXv00PJ9IQM" />
 
 ## Matzes Auswahl
@@ -97,28 +93,24 @@ Jeder von uns hat wie immer vier Songs ausgesucht. Wie schon in den letzten 12 M
 
 "'Don’t Blow it, Kage' wurde von Jack Whites Plattenlabel Third Man Records veröffentlicht. Jack Black und [Jack White](/2014/04/jack-white-stellt-neuen-song-vor/) zusammen in einem Projekt. Man hört Jack Whites Einfluss nicht nur jedem einzelnen Takt an. Es schwingt auch etwas Großes in den Lyrics mit - Jack und Jack weisen auch mit jeder einzelnen Silbe darauf hin, wie aufgeregt sie beide sind. Wir sind schon gespannt, wie es weitergeht mit Jack Grey - so wurde die neue Kooperation liebevoll von den Fans getauft. Obwohl das Stück ja eigentlich in Jacks derzeitige blaue Phase fällt."
 
-{' '}
 <YouTube id="o7_aeBQA5zc" />
 
 ### 2. Mono &amp; A.A. Williams - "Exit In Darkness" von der EP "Exit In Darkness"
 
 "Wer gerne wissen möchte, wie der elegische Post-Rock von Mono mit Stimme klingt, sollte sich unbedingt mit der EP auseinandersetzen, die sie in Zusammenarbeit mit A.A. Williams entstanden ist. Das hier ist die Vorauskopplung."
 
-{' '}
 <YouTube id="jb24oymji9Y" />
 
 ### 3. Intronaut - "Cubensis" vom Album "Fluid Existential Inversions"
 
 "Das hier ist der erste Auszug aus dem neuen Album 'Fluid Existential Inversions', das am 28. Februar erscheinen soll. Intronauts ganz eigener Prog-Metal Stil mit Post-Metal und Mathrock Einflüssen kann man aus "Cubensis" eindeutig heraushören."
 
-{' '}
 <YouTube id="pt1ssDvrvw8" />
 
 ### 4. Bohren und der Club of Gore - "Tief gesunken" vom Album "Patchouli Blue"
 
 "Dieser Monat hat wieder zahlreiche Vorauskopplungen gebracht. Auch dieses 'klassische' Bohren Stück ist eine. Jazz und Doom vermischen sich darin zu einem düsteren Klangteppich. Für mich passt er ziemlich gut zu einer einsamen, nächtlichen Autofahrt. Ich kann mir aber auch vorstellen, ihn beim Spaziergang über einen überfüllten Weihnachtsmarkt auf Noise Cancelling Kopfhörern zu hören.
 
-{' '}
 <YouTube id="CLWATH36bYA" />
 
 ## Meine Auswahl
@@ -127,14 +119,12 @@ Jeder von uns hat wie immer vier Songs ausgesucht. Wie schon in den letzten 12 M
 
 Sludge vom Feinsten bringen Black Tundra aus Warschau auf den Plattenteller. Gegründet wurde das Projekt von ehemaligen Mitgliedern von Dopelord und Hidden Haze. Ihr inzwischen zweites Album mit dem Titel "Daylight Dard" ist fast noch besser als der Erstling "Black Tundra". Es ist erst ein paar Tage her, seit es erschienen ist, läuft bei mir aber schon rund. Ich hoffe sehr, dass ich die Band bald mal live erleben kann. Bis es soweit ist, wird die Platte weiter gedreht.
 
-{' '}
 <YouTube id="HWeQDwHwQDA" />
 
 ### 2. Billy Talent "Forgiveness I &amp; II" (Single)
 
 Eine der besten Nachrichten Ende Dezember war für mich die Ankündigung eines neuen Billy Talent Werks. Die Vorauskopplung "Forgiveness I &amp; II" ist eine zweiteilige Single, die für mich alles vereint, was die Band aus dem kanadischen Mississauga ausmacht: Emotionen, Ausdruckskraft und musikalische Präzision. Ich bin schon sehr gespannt darauf, wie es weitergeht.
 
-{' '}
 <YouTube id="3p-CocVCq-s" />
 
 ### 3. Bask "Rid Of You" vom Album "III"
@@ -145,19 +135,16 @@ Die neue LP von Bask stellte uns der Schallplattendealer unseres Vertrauens mit 
 
 Seit ich diesen Tipp erhalten habe, sind jetzt einige Wochen vergangen und das Album hat sich inzwischen geradezu in meine Gehörgänge gefräst. Besonders beeindruckt hat mich "Rid Of You". Hört mal rein. Es lohnt sich.
 
-{' '}
 <YouTube id="1lONxOS6U4M" />
 
 ### 4. Powder! Go Away - "Mom, It Doesn't Work" vom Album "Lost Happiness"
 
 Post-Rock aus Russland, der es in sich hat - das seit der Gründung im Jahr 2010 vierte Werk von Powder! Go Away ist wirklich klasse. Wie bereits beim Vorgänger setzen die vier Musiker auf eine gekonnte Mischung aus verspielten und verträumten Melodien und bombastischen Klangwänden. Zum Reinkommen hört Ihr Euch am besten "Mom, It Doesn't Work" an - Vorsicht! Suchtgefahr!
 
-{' '}
 <YouTube id="N-kIcXxCmzI" />
 
 ## Unsere Playlists
 
-{' '}
 <Playlist
   spotify="2s53Sj6xPHpvOg1LBi4onA"
   itunes="2019-12-25-die-drei-von-der-bande/pl.u-W4NaCEkXBXN"

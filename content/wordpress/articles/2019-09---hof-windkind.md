@@ -122,7 +122,6 @@ Was ich tatsächlich nicht erwartet hatte, ist, _wie viel_ acht Kilo Walnüsse s
 
 ## Öko-sozialer Walnussanbau vor den Toren von Berlin
 
-{' '}
 <YouTube id="xWfedKXr7cM" />
 
 Alle Infos zur Baum-Adoption und zu den Besichtigungsterminen findet Ihr auf der [Hof Windkind Homepage](https://www.hofwindkind.com).

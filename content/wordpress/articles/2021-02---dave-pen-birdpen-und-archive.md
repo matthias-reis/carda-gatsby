@@ -187,8 +187,8 @@ PS: Während dem ersten Lockdown haben wir mit BirdPen eine vollständige halb-a
   src="https://bandcamp.com/EmbeddedPlayer/album=2332518777/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
   seamless
 >
-  {' '}
-  [The Lockdown Sessions by BirdPen](https://birdpen.bandcamp.com/album/the-lockdown-sessions){' '}
+  [The Lockdown Sessions by
+  BirdPen](https://birdpen.bandcamp.com/album/the-lockdown-sessions)
 </iframe>
 
 <hr />
@@ -336,6 +336,6 @@ PS: During the lockdown, BirdPen made a full semi Acoustic show that we made ava
   src="https://bandcamp.com/EmbeddedPlayer/album=2332518777/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
   seamless
 >
-  {' '}
-  [The Lockdown Sessions by BirdPen](https://birdpen.bandcamp.com/album/the-lockdown-sessions){' '}
+  [The Lockdown Sessions by
+  BirdPen](https://birdpen.bandcamp.com/album/the-lockdown-sessions)
 </iframe>

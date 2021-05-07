@@ -159,7 +159,6 @@ herzlichen Dank nochmal an alle! Ich werde natürlich weiter berichten. Eure Fra
 
 Frische Grüße _Eure Anne_
 
-{' '}
 <YouTube id="lBz8iXdddqY&amp;w=640&amp;h=360" />
 
 ---

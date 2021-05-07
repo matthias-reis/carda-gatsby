@@ -62,5 +62,4 @@ Passend dazu der Song des Tages. Er kommt heute von einer Band namens Eagleowl, 
 
 ## Song des Tages: Eagleowl - "Into The Fold"
 
-{' '}
 <YouTube id="xYUYxnhyyHM" />

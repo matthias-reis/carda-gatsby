@@ -103,12 +103,10 @@ Das derzeitige Setup der Band (also zum Zeitpunkt des Zitadelle-Gigs) besteht au
 
 **Hier sind für Euch NINE INCH NAILS mit "Me, I'm Not"**
 
-{' '}
 <YouTube id="WaaaFNYgbGQ" />
 
 **... und hier mit "Closer"**
 
-{' '}
 <YouTube id="Tx1MJNX-v74" />
 
 Kussi _Anne_

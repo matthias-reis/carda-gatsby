@@ -65,7 +65,6 @@ Als Schauspielerin ist Sarah Euch unter anderem schon in Serien wie Star Trek: R
   frameborder="0"
 ></iframe>
 
-{' '}
 <YouTube id="oS_hBkHOb38" />
 
 Bild/picture: Sarah Silverman, [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Sarah_Silverman_(7588066284).jpg>)

@@ -141,7 +141,6 @@ Nach meinem Umzug nach Melbourne und dann weiter nach Hamburg habe ich viel Musi
 
 ## Vandemonian – "National Insecurity"
 
-{' '}
 <YouTube id="LLd2pt8RL34" />
 
 <hr />
@@ -245,5 +244,4 @@ Unlike many other post-rock bands, Vandemonian don't renounce singing. This is m
 
 ## Vandemonian – "National Insecurity"
 
-{' '}
 <YouTube id="LLd2pt8RL34" />

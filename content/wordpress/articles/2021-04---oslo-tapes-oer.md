@@ -73,7 +73,6 @@ Von den schwindelerregenden Höhen der norwegischen Gipfelzüge bis zur einsamen
 
 ## Oslo Tapes - "Zenith"
 
-{' '}
 <YouTube id="EDkLdHMoOK8" />
 
 <hr />
@@ -119,5 +118,4 @@ From the dizzying heights of the Norwegian mountain ranges to the lonely lowland
 
 ## Oslo Tapes - "Zenith"
 
-{' '}
 <YouTube id="EDkLdHMoOK8" />

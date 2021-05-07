@@ -45,7 +45,6 @@ endlich bin ich dazu gekommen, die Bilder vom ersten Konzert des Jahres zu entwi
 
 Laut und toll hier für Euch: Das komplette Album "Rave Tapes"
 
-{' '}
 <YouTube id="cfdqzVYt8Do" />
 
 Hier könnt Ihr die Band [auf ihrer Homepage besuchen](http://www.mogwai.co.uk/)

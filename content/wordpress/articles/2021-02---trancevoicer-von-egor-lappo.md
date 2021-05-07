@@ -74,8 +74,8 @@ Lappos musikalische Saga steht ab dem 19. März bei allen Streaming-Diensten ber
   src="https://bandcamp.com/EmbeddedPlayer/album=4176225067/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
   seamless
 >
-  {' '}
-  [Trancevoicer by Egor Lappo](https://egorlappo.bandcamp.com/album/trancevoicer){' '}
+  [Trancevoicer by Egor
+  Lappo](https://egorlappo.bandcamp.com/album/trancevoicer)
 </iframe>
 
 <Gallery name="egor-lappo" />
@@ -124,8 +124,8 @@ Lappo's musical saga will be available on all streaming services from March, 19t
   src="https://bandcamp.com/EmbeddedPlayer/album=4176225067/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
   seamless
 >
-  {' '}
-  [Trancevoicer by Egor Lappo](https://egorlappo.bandcamp.com/album/trancevoicer){' '}
+  [Trancevoicer by Egor
+  Lappo](https://egorlappo.bandcamp.com/album/trancevoicer)
 </iframe>
 
 [Egor Lappo on Bandcamp](https://egorlappo.bandcamp.com/album/make-the-sun-shine-more)

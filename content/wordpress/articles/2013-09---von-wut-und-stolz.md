@@ -120,5 +120,4 @@ Der Schweinehund hat heute (siehe Bild oben) das erste Geschenk von mir bekommen
 
 _Drückt mir die Daumen. Ich werde weiter berichten._
 
-{' '}
 <YouTube id="3ME46q5Qujo&amp;w=640&amp;h=360" />

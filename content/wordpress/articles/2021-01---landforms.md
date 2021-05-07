@@ -64,7 +64,6 @@ Ich bin schon sehr gespannt, auf alles, was Francesco musikalisch für 2021 ange
 
 Bilder: Perry Frank
 
-{' '}
 <YouTube id="8WetGwZM3zU" />
 
 <hr />
@@ -95,5 +94,4 @@ I'm already very excited about everything Francesco has announced musically for 
 
 Pictures: Perry Frank
 
-{' '}
 <YouTube id="8WetGwZM3zU" />

@@ -170,7 +170,6 @@ Ich bewege mich schon immer innerhalb der Indie-Szene, also betrifft das nicht d
 
 ## Shana Falana - "Darkest Light"
 
-{' '}
 <YouTube id="ZVUpZQqN-bI" />
 
 Hat Euch das Interview gefallen? Das freut mich sehr! [Meldet Euch gerne](mailto:info@cardamonchai.com), wenn Ihr auch ein Musikprojekt habt, über das ich mit Euch reden soll! Um in Zukunft nichts mehr zu verpassen, [abonniert gerne meinen Newsletter](#newsletter). Dann halte ich Euch auf dem Laufenden.

@@ -62,5 +62,4 @@ Am 27. Februar lebt Genesis bereits acht Jahre vegan. Ihr Berufsziel steht für 
 
 ## Genesis Bulters TEDx Talk
 
-{' '}
 <YouTube id="E4ptaIDAIlY" />

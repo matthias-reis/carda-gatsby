@@ -90,5 +90,4 @@ Letztes Jahr veröffentlichte Kim Gordon ihr erstes Solo-Album "No Home Record".
 
 Die gebundene deutsche Ausgabe von "Girl In A Band ist unter der ISBN 9780062295897 am 2. April 2015 im Verlag Kiepenheuer &amp; Witsch erschienen.
 
-{' '}
 <YouTube id="8JGBNkLM9_8" />

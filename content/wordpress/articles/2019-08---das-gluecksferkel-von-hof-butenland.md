@@ -85,7 +85,6 @@ Wer auch Interesse an einer Patenschaft hat, findet auf der Seite von Hof Butenl
 
 ## Das ist Frederik
 
-{' '}
 <YouTube id="XkUW7GTBeK4" />
 
 ## Pressematerial / Quelle:

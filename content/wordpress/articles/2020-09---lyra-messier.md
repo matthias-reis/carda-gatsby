@@ -131,7 +131,6 @@ Bilder: Anne-Leen Declercq
 
 ## Listen to lyra messier on Spotify
 
-{' '}
 <YouTube id="album/2Ui4OHXt8xg1JrXcdZ9jyA" />
 
 ## Listen to lyra messier on iTunes
@@ -239,7 +238,6 @@ I think it would be very cool to play in a more traditional band setting, as lon
 
 ## Listen to lyra messier on Spotify
 
-{' '}
 <YouTube id="album/2Ui4OHXt8xg1JrXcdZ9jyA" />
 
 ## Listen to lyra messier on iTunes

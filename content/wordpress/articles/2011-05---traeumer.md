@@ -35,5 +35,4 @@ Die Sonne scheint durch die zartgrünen  Zweige Im Fluss schwimmt Müll Schwere
 
 Du liegst neben mir Bienen summen vorbei Der Bach plätschert Ein Grashalm kitzelt mich im Nacken Die Sonne wärmt die Haut Es riecht nach Heu Es ist Sommer, sagst Du
 
-{' '}
 <YouTube id="skG78GmK74I" />

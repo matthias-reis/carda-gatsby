@@ -63,7 +63,6 @@ Außerdem kommen Mutiny on the Bounty aus Luxemburg, Kuf und [Curls &amp; Nods](
 
 Das Golden Silence Festival findet zum ersten Mal statt. Long Distance Calling planen, damit in Serie zu gehen und in Zukunft "nur" noch als Veranstalter zu fungieren.
 
-{' '}
 <YouTube id="sFAf3ugFeGI" />
 
 **Grafik &amp; Quelle:** [Golden Silence Festival / Long Distance Calling](https://www.skaters-palace.de/veranstaltungen/golden-silence-festival)

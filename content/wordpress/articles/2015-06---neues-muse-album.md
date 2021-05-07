@@ -113,7 +113,6 @@ Weiterrocken! Anne &lt;3
 
 Hier sind für Euch Muse mit "Psycho"
 
-{' '}
 <YouTube id="UqLRqzTp6Rk?rel=0&amp;showinfo=0" />
 
 _If you do not do what you're told to do when you're told to do it, you will be punished. Do you understand?_ _(Aye, sir)_ _If you leave my base without proper authorisation, I will hunt you down and throw your ass in jail. Do you understand?_ _(Aye, sir)_ _I can't hear you!_ _(Aye, sir!)_ _Scream it!_ _(Aye, sir!)_ _Your ass belongs to me now!_ _(Aye, sir!)_

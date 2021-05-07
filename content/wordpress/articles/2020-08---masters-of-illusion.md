@@ -110,5 +110,4 @@ Das wunderbare Digipack mit CD, DVD und sensationellem Artwork könnt Ihr [hier 
 
 ## "Bela" von Magenta
 
-{' '}
 <YouTube id="Y6USrkjBCCM" />

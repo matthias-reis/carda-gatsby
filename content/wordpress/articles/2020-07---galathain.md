@@ -117,7 +117,6 @@ Im Moment liegt mein Fokus mehr darauf, mehr über den Schreibprozess und das So
 
 ## "And The Rain Tasted Like Blood" von Galathain bei Spotify hören
 
-{' '}
 <YouTube id="album/3OrJOmvpPdzB7YBoDFZT9V" />
 
 ## "And The Rain Tasted Like Blood" von Galathain bei iTunes hören
@@ -215,7 +214,6 @@ Besides Music: What inspires you most?
 
 ## Listen to "And The Rain Tasted Like Blood" by Galathain on Spotify
 
-{' '}
 <YouTube id="album/3OrJOmvpPdzB7YBoDFZT9V" />
 
 ## Listen to "And The Rain Tasted Like Blood" by Galathain on iTunes

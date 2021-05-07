@@ -91,5 +91,4 @@ Ein wundervolles Konzert von einer wunderbaren Band, die uns hoffentlich auch in
 
 <Gallery name="2019-10-21-archive-grosse-freiheit" />
 
-{' '}
 <YouTube id="A4gBzUwo6Iw" />

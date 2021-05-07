@@ -63,7 +63,6 @@ Man kann nur hoffen, dass nach dem inzwischen neunten Deftones Album, auch in Zu
 
 </blockquote>
 
-{' '}
 <YouTube id="videoseries?list=OLAK5uy_mZprjFJIuHokkJXb-jZYkpzJXDE5sJryk" />
 
 ## Crippled Black Phoenix "Ellengæst"
@@ -82,12 +81,10 @@ Meine engere Auswahl bestand aus drei Platten, die ich alle als absolute Meister
 
 </blockquote>
 
-{' '}
 <YouTube id="3WXaBQ8SqlI" />
 
 ## The Ocean – "Phanerozoic II: Mesozoic I Cenozoic"
 
 Eines der spannendsten Interviews, die ich dieses Jahr geführt habe, war definitiv [das mit dem Kopf von The Ocean Robin Staps](/2020/09/the-ocean-robin-staps-interview/). Darin hat er mir kurz vor der Veröffentlichung so einiges über "Phanerozoic II" verraten – den zweiten Teil eines herausragenden Post-Rock Albums. Ein paar Tage später brach beim The Ocean Label Pelagic der Wahnsinn los. Die Platte wurde so oft bestellt, dass die komplette Logistik, bei der die Band selbst noch aktiv mit beteiligt ist, vollkommen ausgelastet war – zu Recht. "Phanerozoic II: Mesozoic I Cenozoic" komplettiert eine Ära. Auf faszinierende Art und Weise haben Robin Staps, Loïc Rossetti, Paul Seidel und Co. ein Glanzstück geschaffen, das Seinesgleichen sucht. Mein Favorit von der Doppel-LP ist der Song "Pleistocene". Beim Hörgenuss kann man die Wollmammuts vor den geschlossenen Augen vorbeiziehen sehen.
 
-{' '}
 <YouTube id="E12saHWlaWI" />

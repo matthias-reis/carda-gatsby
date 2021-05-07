@@ -306,7 +306,6 @@ Weitere Bilder von der Isle Of Wight findet Ihr [hier](//2012/07/29/isle-of-wigh
 
 ## Ein schönes Stück Musik zur Einstimmung auf die Festival-Saison für Euch: Pearl Jam - Blood (Isle Of Wight 2012)
 
-{' '}
 <YouTube id="wj0jz2adx6Q" />
 
 ## Hier noch ein kleiner Hinweis in eigener Sache:

@@ -64,7 +64,6 @@ Erst gestern ging es mir wieder so. Wieso denn bloß?
 
 ## Wieso denn bloß?
 
-{' '}
 <YouTube id="fmCYjJBNNCw" />
 
 "Dass Kühe ständig **Milch** geben, ist doch absolut natürlich! Wenn die nicht gemolken werden, bekommen sie Schmerzen!" - Habt Ihr diesen Satz auch schon mal zu hören bekommen?  Von einem erwachsenen Menschen? Ich werde das leider immer wieder gefragt.
@@ -84,7 +83,6 @@ Dass Kühe, genau wie wir Menschen, zu den Säugetieren zählen und sie somit nu
 
 Egal, ob auf Biohöfen oder in Massenbetrieben: Kühe werden künstlich besamt, damit sie Milch geben. Dies geschieht natürlich gegen ihren Willen. Ist die Besamung erfolgreich, kommt rund 280 Tage später ein **Kälbchen** zur Welt, das, sobald es stehen kann, von der Mutter getrennt wird.
 
-{' '}
 <YouTube id="IzOjqeKdYn8" />
 
 ## Trennung sofort nach der Geburt

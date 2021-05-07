@@ -47,8 +47,6 @@ Virales Marketing funktioniert über die verschiedensten Medien. Dazu zählt nat
 
 Ob die **Virals** , so werden die viralen Marketingmaßnahmen im Internet genannt, erfolgreich sind, wird mit Hilfe von Linktracking und den verschiedensten Methoden der Nachverfolgung ständig überprüft. Dieses Verfahren wird als Monitoring bezeichnet.
 
-{' '}
 <YouTube id="9c9vk_B54Sk&amp;feature=youtu.be" />
 
-{' '}
 <YouTube id="uF2djJcPO2A" />

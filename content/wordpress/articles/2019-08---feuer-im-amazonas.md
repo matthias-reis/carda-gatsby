@@ -49,7 +49,6 @@ Selbst im rund 2.000 Kilometer entfernten Sao Paolo hat sich der Himmel verdunke
 
 Dass es während der Trockenperioden im Regenwald zu vereinzelten Bränden kommt, ist normal. Nicht aber, in dieser Ausprägung und Anzahl. Reuters meldete am 20. August, dass zu dem traurigen Rekord von 72.843 Bränden nochmal 9.507 dazu gekommen seien. [<sup>1</sup>](#1) Seitdem konnte das Ausmaß nicht eingedämmt werden.
 
-{' '}
 <YouTube id="NDmx92PVJpk" />
 
 ## Gründe für die Feuer im Amazonas

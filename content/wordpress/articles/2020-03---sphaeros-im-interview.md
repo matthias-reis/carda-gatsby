@@ -137,7 +137,6 @@ Bei Aqua Nebula Oscillator waren viel mehr Menschen involviert. Wir hatten fünf
 
 Sphaeros’ aktuelles Stück trägt den Namen "Possession". Es handelt sich dabei um die zweite Vorauskopplung des gleichnamigen Albums. Es wird ab morgen (6. März 2020) in den Plattenläden und auf iTunes und Spotify erhältlich sein.
 
-{' '}
 <YouTube id="3as9wee425c" />
 
 <hr />

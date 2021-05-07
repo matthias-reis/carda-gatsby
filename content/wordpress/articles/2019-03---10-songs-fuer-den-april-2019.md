@@ -81,7 +81,6 @@ Ach ja: **La Dispute** haben ein tolles Album abgeliefert, hatten wir letzten Mo
 
 ### Die komplette Liste könnt Ihr Euch auf Spotify und iTunes anhören
 
-{' '}
 <Playlist
   spotify="4JFNEgbt4YmsgzDBN0zgDE"
   itunes="2019-03-25-die-drei-von-der-bande/pl.u-2maDT8b5452?app=music"

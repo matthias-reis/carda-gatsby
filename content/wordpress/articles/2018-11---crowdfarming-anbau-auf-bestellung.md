@@ -92,7 +92,6 @@ Die Crowdfarmer möchten die Art und Weise, in der die Europäer ihre Lebensmitt
 
 Stand heute werfen wir durch die fehlende Abstimmung von Angebot und Nachfrage rund ein Drittel aller produzierten Lebensmittel weg.
 
-{' '}
 <YouTube id="-0F5hNX0HE8" />
 
 Weitere Infos findet Ihr [auf der Homepage](https://www.crowdfarming.com/de#infoHow) von CrowdFarming.

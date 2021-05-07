@@ -74,5 +74,4 @@ Hat Euch mein Filmtipp gefallen? Das freut mich sehr! Wenn Ihr in Zukunft nichts
 
 ## Filmtrailer "Live And Let Live"
 
-{' '}
 <YouTube id="We5zOxfp7S0" />

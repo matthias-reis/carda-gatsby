@@ -59,14 +59,12 @@ Das klingt doch nach mehr, oder? Hier ist schon mal ein kleiner Vorgeschmack fü
 
 Politik. Opium fürs Volk. Popmusik für hässliche Menschen. Vinny ist sauer. Das hört man nicht nur an seiner Musik. Das Video zu "Pop Music For Ugly People" setzt visuell noch eins drauf. Ein sehr gelungenes Stück Film - vertont mit einem sehr gelungenen Stück Musik.
 
-{' '}
 <YouTube id="kUhtCOVykAY" />
 
 ## "Vote For Me"
 
 "Wenn Du mir Deine Stimme gibst, werde ich mein Wort halten. Ich werde alles geben, um die Welt zu verändern", singt Vinny. Der nachdenkliche Song geht ins Ohr und regt zum Handeln an. Dazu gibt es wieder ein geniales Stück Zelluloid. Ähnlichkeiten des Protagonisten mit lebenden Politikern sind selbstverständlich rein zufällig. Oder?
 
-{' '}
 <YouTube id="srh1yOh-njU" />
 
 Ihr könnt "While You Still Can" als CD, Digitalversion oder als 12" Vinyl vorbestellen. Das geht ganz einfach über seine Bandcamp-Seite\*. Dort könnt Ihr auch bereits die Vorauskopplung "Vote For Me" hören.

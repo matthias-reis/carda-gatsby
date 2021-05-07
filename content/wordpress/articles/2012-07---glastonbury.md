@@ -238,7 +238,6 @@ Hier geht's zu [_Teil 4/9_](/2012/07/isle-of-wight-festival-2012/)  der Galerie
 
 ## Song zu den Bildern: Muse - Uprising live @Glastonbury Festival 2010
 
-{' '}
 <YouTube id="7QcxcGz1kKo" />
 
 <blockquote>

@@ -42,5 +42,4 @@ Vermutlich sitzt Ihr wie wir zu Hause und wartet auf Besserung. Ein bisschen Abl
 
 Für alle, die sich bei der Überschrift gefragt haben, was das denn soll hier ein Video. Für alle, die sich bei der Überschrift gedacht haben "Das kenn ich doch" hier ein Video. Mehr über meine Liebe zu den Sternen könnt Ihr [hier im Blog nachlesen](/2014/09/flucht-in-die-flucht/).
 
-{' '}
 <YouTube id="C55Yxsc8Mak" />

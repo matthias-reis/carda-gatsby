@@ -61,7 +61,6 @@ Wer den Spot noch nicht gesehen hat, sollte ihn sich unbedingt zu Gemüte führe
 
 Was lernen wir daraus? Es ist gut und wichtig, die Wahrheit da draußen zu verbreiten und zu zeigen, wie es in den Tierfabriken zugeht. Vermutlich wird irgendwann die Zeit kommen, in der man wieder “Hafermilch” statt “Haferdrink” auf Verpackungen schreiben darf (Scheuermilch kommt schließlich auch nicht aus Eutern, oder habe ich da was verpasst?). Die Maschinerie, die hinter der Ausbeutung von Tieren und der Zerstörung unserer Umwelt steckt, wird immer weiter enthüllt. Peinliche Reaktionen, wie die des bayerischen Bauernverbandes, sind der erste Weg zum Eingeständnis.
 
-{' '}
 <YouTube id="Zoazx5UTw6s" />
 
 ## Update 25. Oktober 2019

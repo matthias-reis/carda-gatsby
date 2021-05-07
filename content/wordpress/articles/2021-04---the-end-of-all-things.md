@@ -76,12 +76,10 @@ Ein schöner Satz, der ziemlich genau in Worte fasst, wie ich über Musik denke.
 
 ## Crown – "Violence"
 
-{' '}
 <YouTube id="uaYI7cVlpiw" />
 
 ## Crown – "Illumination"
 
-{' '}
 <YouTube id="i6rwQ0hpnzg" />
 
 <hr />
@@ -124,10 +122,8 @@ A beautiful sentence that pretty much sums up how I feel about music in general:
 
 ## Crown – "Violence"
 
-{' '}
 <YouTube id="uaYI7cVlpiw" />
 
 ## Crown – "Illumination"
 
-{' '}
 <YouTube id="i6rwQ0hpnzg" />

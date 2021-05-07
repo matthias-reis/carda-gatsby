@@ -167,7 +167,6 @@ Für alle, die gerne einen tiefen Einblick in die neue Thot Platte "Delta" bekom
 
 ## Thot – The Delta Story
 
-{' '}
 <YouTube id="SSMgoEPE940" />
 
 <hr />
@@ -293,5 +292,4 @@ Everyone who would like to get a deep insight into the new Thot record "Delta", 
 
 ## Thot – The Delta Story
 
-{' '}
 <YouTube id="SSMgoEPE940" />

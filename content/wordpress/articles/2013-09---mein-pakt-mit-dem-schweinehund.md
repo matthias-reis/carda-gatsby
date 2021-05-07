@@ -108,7 +108,6 @@ Es ist hart. Ich weiß. Eure Fanpost könnt Ihr also direkt an das Postfach zwis
  __Gezeichnet__
 
 <address style="text-align: left;">
-  {' '}
   __Anne__ (auch i. A. des fürchterlichen Schweinehunds)
 </address>
 __Zeugen__ __Evelyn__   _(Meine liebe Arbeitskollegen, die seit 4 Jahren rauchfrei
@@ -140,5 +139,4 @@ Klingt doch alles ganz durchdacht, oder? Ich bin auf jeden Fall schon ziemlich g
 
 _ **Bis bald, ich werde weiter [berichten](/2013/09/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/) !** _
 
-{' '}
 <YouTube id="hB-WHw6uMWg" />

@@ -110,5 +110,4 @@ Musiker weltweit nehmen Abschied von David Bowie, der Legende, die ihre Heimat s
 
 ## Hier ist für Euch David Bowie mit Ziggy Stardust
 
-{' '}
 <YouTube id="XXq5VvYAI1Q" />

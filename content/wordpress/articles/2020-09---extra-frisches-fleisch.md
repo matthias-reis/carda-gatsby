@@ -52,7 +52,6 @@ Ihr könnt Euch den Spot, für den es weltweit viel Lob gab, auch auf Youtube an
 
 > "Wenn Menschen die Verbindung herstellen und realisieren, dass das, was sie essen, einst ein lebendes, atmendes, unschuldiges, fühlendes Wesen war, das genau wie wir denkt, träumt, spielt, liebt, sich fürchtet und leidet, beginnen sie, Mitgefühl zu entwickeln. Ich liebe dieses Video und hoffe, dass es auf der ganzen Welt bald noch viel derartige Spots zu sehen geben wird."
 
-{' '}
 <YouTube id="g2-mPJwBsBA" />
 
 Quelle: [Plant Based News](https://www.plantbasednews.org/culture/watch-pro-vegan-tv-ad-goes-viral-in-israel)

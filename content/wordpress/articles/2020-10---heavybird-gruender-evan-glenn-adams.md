@@ -192,13 +192,12 @@ Ich muss mich auch nicht mit dem geschäftlichen Ende der Dinge beschäftigen un
 
 ## "Caged Animal Blues" von Heavybird
 
-{' '}
 <YouTube id="p_fmlvVBXXE" />
 
 ## Fußnote
 
 <div id="1">
-  [1] [Homepage Evan Glenn Adams](https://www.evanglennadams.com/){' '}
+  [1] [Homepage Evan Glenn Adams](https://www.evanglennadams.com/)
 </div>
 
 <hr />
@@ -340,11 +339,10 @@ I don’t have to deal with the business end of things either, and can really ju
 
 ## "Caged Animal Blues" von Heavybird
 
-{' '}
 <YouTube id="p_fmlvVBXXE" />
 
 ## Footnote
 
 <div id="2">
-  [2] [Homepage Evan Glenn Adams](https://www.evanglennadams.com/){' '}
+  [2] [Homepage Evan Glenn Adams](https://www.evanglennadams.com/)
 </div>

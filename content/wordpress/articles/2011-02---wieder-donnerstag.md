@@ -33,5 +33,4 @@ Ein anstrengender Tag geht mit guter Musik zu Ende. Wieder ein paar schöne Song
 
 ## Song des Tages: Incubus - "Wish You Where Here"
 
-{' '}
 <YouTube id="8295rOMvtQI" />

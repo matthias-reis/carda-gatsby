@@ -144,7 +144,6 @@ Außerdem arbeiten wir im Moment an unserem Bühnenprogramm – für den Fall, d
 
 ## Konfeddi – "Deine neuen Sneaker" (schneeweiß)
 
-{' '}
 <YouTube id="y8Gp2ajirDo" />
 
 Bilder:© Christian Wasenmüller

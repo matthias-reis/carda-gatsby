@@ -69,5 +69,4 @@ Dieser Artikel ist für Hoochi, Chris, Lui, Caro und all die anderen lieben Leut
 
 Hier sind für Euch Boysetsfire mit "Cutting Room Floor" live, in Farbe und ohne Strom
 
-{' '}
 <YouTube id="JhI2Hh6L7n8" />

@@ -71,5 +71,4 @@ Als Song des Tages habe ich heute was ganz Besonderes für Euch ausgesucht. Die 
 
 ## Hier sind für Euch Seksendört mit "Kara Gözlüm"
 
-{' '}
 <YouTube id="UGTOcif8Y7o" />

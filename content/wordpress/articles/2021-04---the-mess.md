@@ -86,7 +86,6 @@ Ihr könnt "The Mess" ab sofort [hier vorbestellen](https://crazysanerecords.com
 
 ## Yagow – "Rise And Shine"
 
-{' '}
 <YouTube id="Jy2RZ9Sqp1s" />
 
 <hr />
@@ -138,5 +137,4 @@ You can [pre-order "The Mess" here](https://crazysanerecords.com/shop/). The alb
 
 ## Yagow – "Rise And Shine"
 
-{' '}
 <YouTube id="Jy2RZ9Sqp1s" />

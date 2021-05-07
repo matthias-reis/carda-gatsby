@@ -43,7 +43,6 @@ Da ich gestern bewusst auf die Kameraschlepperei verzichtet habe, um einen mögl
 
 Hier sind für Euch Caspian mit "Gone In Bloom And Bough"
 
-{' '}
 <YouTube id="hkCoPRszZRI" />
 
 Die komplette Session könnt Ihr Euch übrigens [hier herunterladen](http://audiotree.tv/session/caspian/).

@@ -38,5 +38,4 @@ Im Büro ist es laut. Quasselstrippe am Telefon, Baustelle vor dem Fenster. Soga
 
 ## Song des Tages: PJ Harvey &amp; Josh Homme - "Crawl Home"
 
-{' '}
 <YouTube id="Glb_moRvgps" />

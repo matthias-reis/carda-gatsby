@@ -32,5 +32,4 @@ Juhu! Probearbeiten ist gut gelaufen! Neuer Job ab 1. Mai! Jetzt geht´s gleich 
 
 ## Song des Tages: Cage The Elephant - "Aberdeen"
 
-{' '}
 <YouTube id="bZBmcSBoRAE" />

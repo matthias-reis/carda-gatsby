@@ -123,7 +123,6 @@ Abgesehen davon, wie sie aussieht, kann man die harte Arbeit, die wir hineingest
 
 **Mantis:** Wir versuchen uns alle auf unsere Art zu beschäftigen. Jeder nimmt seinen Möglichkeiten entsprechend neue Ideen auf und wir versuchen es dann einzubeziehen, wenn wir unsere nächste Platte machen. Nicht alle von uns haben Zugang zu einem (Heim-)Studio oder Aufnahmeequipment. Aber wir versuchen, kreative Lösungen, wie zum Beispiel das Sampling zu nutzen. Wir haben während des ersten Lockdowns zum Beispiel auch eine Social Distancing Live Session aufgenommen. Du kannst sie Dir hier anschauen:
 
-{' '}
 <YouTube id="dbgZ0JFjXaA" />
 
 **Anne:** Vermisst Ihr die Live-Konzerte und das Touren sehr?
@@ -237,7 +236,6 @@ Mantis : It is quite inspiring, and we also like to cultivate an environment in 
 
 **Mantis:** We all keep busy in our way, everyone is recording some ideas to the best of their abilities, and we'll see what we'll keep when we start writing the next record. Not all of us have access to a (home) studio or recording equipment, but we try to develop creative solutions such as sampling. Also, we recorded a socially distanced live session during the first national lockdown, which you can find here:
 
-{' '}
 <YouTube id="dbgZ0JFjXaA" />
 
 **Anne:** Do you miss playing live on stage and going on tour a lot?

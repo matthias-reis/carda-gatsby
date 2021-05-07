@@ -110,7 +110,6 @@ Morgen geht es nach England, eine Station wird unter anderen auch Tintagel sein.
 
 Ich werde jetzt noch ein Bisschen packen und aufräumen und dabei Musik hören. Hier eine Neuveröffentlichung, mit der ich heute Morgen aufgestanden bin. CALEXICO veröffentlichen im September ihr neues Album "Algiers", die erste Auskopplung: "Para". Für alle, die es wie ich nicht mehr erwarten können: Das Album kann bereits vorbestellt werden.
 
-{' '}
 <YouTube id="qM_Euc5saPI" />
 
 Hier geht's zu den [Tourdaten](http://casadecalexico.com/calexico-algiers-sep-10-2012/).

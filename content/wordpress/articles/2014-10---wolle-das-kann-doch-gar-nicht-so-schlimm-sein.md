@@ -225,7 +225,6 @@ Häufig kommt es auch zu Tritten und Schlägen mit den Schermaschinen.
 
 Im größten Wollexportland der Welt Australien (75 Millionen Schafe) wird bei der Schafschur besonders kaltblütig vorgegangen. Videos zeigen, wie sich die Scherer auf den Hals der Tiere stellen, ihnen ins Gesicht schlagen und sie stark verletzen.
 
-{' '}
 <YouTube id="OKNGyUG6XB0?rel=0" />
 
 Merinoschafe wurden faltig gezüchtet, um noch mehr Wolle zu gewinnen. Durch die Massen an Wolle sterben diese Tiere in den Sommermonaten oft an Überhitzung.

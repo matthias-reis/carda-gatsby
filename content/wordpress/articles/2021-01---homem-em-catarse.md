@@ -61,7 +61,6 @@ Mich persönlich begeistern vor allem die verträumten Klavier-Passagen. Alfonso
 
 ## Homem em Catarse – "Hotel Saturnyo"
 
-{' '}
 <YouTube id="zNjLTsXW3L4" />
 
 <hr />
@@ -95,5 +94,4 @@ I am especially enthusiastic about the dreamy piano passages. On "Cem Palavras |
 
 ## Homem em Catarse - "Hotel Saturnyo"
 
-{' '}
 <YouTube id="zNjLTsXW3L4" />

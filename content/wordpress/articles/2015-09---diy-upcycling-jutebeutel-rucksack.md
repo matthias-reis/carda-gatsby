@@ -164,5 +164,4 @@ Voilá: Fertig ist der Jutebeutel-Rucksack. Überziehen und losrocken!
 
 Und weil ich lustige Dinge liebe, an dieser Stelle noch ein tolles Video für Euch. Kuckt Euch das unbedingt an! Selbstironie und so. :-P
 
-{' '}
 <Vimeo id="132550202" />

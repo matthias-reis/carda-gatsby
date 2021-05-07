@@ -62,7 +62,6 @@ Einordnen lässt sich Enno Bungers Stil irgendwo zwischen Kante und [den Sternen
 
 ## Hier ist für Euch Enno Bunger mit "Renn!"
 
-{' '}
 <YouTube id="SmBP2lMhEnE" />
 
 [Hier geht's zur Homepage](http://ennobunger.de/) von Enno Bunger

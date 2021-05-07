@@ -156,5 +156,4 @@ Im Anschluss gibt es für Euch wie immer ein paar Bilder zu sehen, die ich diese
 
 Hier sind für Euch Dredg mit Jamais Vu
 
-{' '}
 <YouTube id="3qzXuq886ug" />

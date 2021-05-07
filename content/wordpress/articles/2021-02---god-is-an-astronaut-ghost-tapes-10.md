@@ -59,7 +59,6 @@ Für einen gelungenen Abschluss sorgt ein Gastauftritt meiner heiß geliebten Li
 
 Benannt ist die Platte übrigens nach dem während des Vietnam-Krieges aufgenommenen "Ghost Tape 10". Ingenieure des 6th Psychological Operations Battalion (PSYOP) hatten wochenlang in einem Nachhallraum unheimliche Laute und verzerrte Stimmen aufgenommen. Sie sollten die Stimmen de Geister gefallener Vietkong-Solddaten und Soldaten aus Nordvietnam darstellen. Man hörte auf den Bändern neben Geräuschen und stark verzerrten Gesprächen unter anderem auch buddhistische Bestattungsmusik. Mit dem Band wollte man damals den Feind zum Verlassen seiner Stellungen bringen.
 
-{' '}
 <YouTube id="_Jbc-e3I5eQ" />
 
 <hr />
@@ -103,5 +102,4 @@ A guest appearance by my beloved favourite cellist Jo Quail provides a successfu
 
 GOIAA named their album after the "Ghost Tape 10" which was recorded during the Vietnam War. Engineers of the 6th Psychological Operations Battalion (PSYOP) had recorded eerie sounds and distorted voices in a reverberation room for weeks. They were supposed to be the voices of the ghosts of fallen Viet Cong soldiers and soldiers from North Vietnam. In addition to noises and highly distorted conversations, there was also Buddhist funeral music on the tapes. The USA military then played the recordings to make their enemies give up their positions.
 
-{' '}
 <YouTube id="_Jbc-e3I5eQ" />

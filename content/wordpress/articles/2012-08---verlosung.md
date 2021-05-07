@@ -162,5 +162,4 @@ Im Anschluss seht Ihr einige meiner Lieblings-T-Shirts. Ich bin gespannt auf Eur
 
 ## Songs des Tages: Weezer – "Sweater Song"
 
-{' '}
 <YouTube id="LHQqqM5sr7g" />

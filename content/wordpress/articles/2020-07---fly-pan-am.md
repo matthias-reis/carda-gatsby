@@ -230,7 +230,6 @@ Von diesen Künstler⋆innen kann ich schnell Verzweigungen bilden und finde mas
 
 ## "C'est ça" von Fly Pan Am auf Spotify hören
 
-{' '}
 <YouTube id="album/5OA5TxrmSg2EOlNFYLvpJ1" />
 
 ## "C'est ça" von Fly Pan Am auf iTunes hören
@@ -431,7 +430,6 @@ It's funny to read some of the reviews out there, some of the people complain th
 
 ## Listen to "C'est ça" on Spotify
 
-{' '}
 <YouTube id="album/5OA5TxrmSg2EOlNFYLvpJ1" />
 
 ## Listen to "C'est ça" on iTunes

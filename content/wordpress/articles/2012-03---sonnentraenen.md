@@ -58,7 +58,6 @@ _Dieser Text ist Rudi gewidmet._
 
 **Musik: Shearwater - Believing Makes It Easy**
 
-{' '}
 <YouTube id="m6BrTOy54kA" />
 
 Now that we have pulled away Is it better on the inside? And did you like the offerings On the counter, under black lights?

@@ -44,13 +44,11 @@ Greta Thunberg wurde aus insgesamt 136 Nominierten aus 46 Ländern ausgewählt. 
 
 sagte sie in einem kurzen Videoclip.
 
-> {' '}
->
 > <p dir="ltr" lang="en">
 >   I’m extremely honoured to receive the Gulbenkian Prize for Humanity. We’re
 >   in a climate emergency, and my foundation will as quickly as possible donate
 >   all the prize money of 1 million Euros to support ... -&gt; 1/3
->   [pic.twitter.com/Eti6AJXSvj](https://t.co/Eti6AJXSvj){' '}
+>   [pic.twitter.com/Eti6AJXSvj](https://t.co/Eti6AJXSvj)
 > </p> — Greta Thunberg (@GretaThunberg) [July 20, 2020](https://twitter.com/GretaThunberg/status/1285160824282263557?ref_src=twsrc%5Etfw)
 
 <script

@@ -161,7 +161,6 @@ Klickt Euch bald wieder rein! In Kürze erscheint hier im Blog die exklusiv von 
 
 ## "Left Alone" von Of the Vine bei Spotify
 
-{' '}
 <YouTube id="album/3IfT47HcP3gyNhy7JeVeFc" />
 
 ## "Left Alone" von Of the Vine bei iTunes
@@ -304,7 +303,6 @@ Tune in again, soon! I will publish Of the Vine's playlist within the next few d
 
 ## "Left Alone" on Spotify
 
-{' '}
 <YouTube id="album/3IfT47HcP3gyNhy7JeVeFc" />
 
 ## "Left Alone" on iTunes

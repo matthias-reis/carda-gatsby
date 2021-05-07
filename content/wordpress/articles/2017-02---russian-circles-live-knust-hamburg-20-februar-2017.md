@@ -74,7 +74,6 @@ Ich freue mich schon sehr drauf, Russian Circles baldmöglichst wieder zu sehen
 
 Russian Circles live @ Kranhalle München November 2013 [findet Ihr hier](/2013/11/russian-circles-live-kranhalle-munchen/).
 
-{' '}
 <YouTube id="ONzYMVrhTyk" />
 
 _Für Vale_

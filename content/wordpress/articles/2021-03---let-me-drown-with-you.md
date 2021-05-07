@@ -60,7 +60,6 @@ Die angekündigten Emotionen befinden sich genauso auf dem Album, wie die gewohn
 
 ## Rise to the Sky – "Let Me Drown With You"
 
-{' '}
 <YouTube id="quiqzPfCXXs" />
 
 <hr />
@@ -94,7 +93,6 @@ The heralded emotions are on the album as much as his typical clear shouts, hard
 
 ## Rise to the Sky - "Let Me Drown With You"
 
-{' '}
 <YouTube id="quiqzPfCXXs" />
 
 Pictures: [Rise to the Sky](https://risetothesky.bandcamp.com/album/let-me-drown-with-you)

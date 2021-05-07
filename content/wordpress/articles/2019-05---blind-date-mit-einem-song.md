@@ -127,7 +127,6 @@ Was das Ganze nun mit den Temptations zu tun hat? Keine Ahnung. Irgendwie habe i
 Die Temptations gibt es übrigens auch heute, 60 Jahre nach ihrer Gründung in Detroit, noch. Mitsamt Gründungsmitglied Otis Williams. Ich finde, das hat eine dicke Portion Respekt verdient. 1989 hat man sie in die Rock And Roll Hall Of Fame aufgenommen, 2003 wurden sie bei den Grammys für Ihr Lebenswerk ausgezeichnet. Hier sind sie für Euch mit dem großartigen Song "Papa Was A Rolling Stone".
 
 <h4>
-  {' '}
   <YouTube id="nXiQtD5gcHU" />
   Beim Blogger Blind Date mit einem Song sind dieses Mal dabei:
 </h4>

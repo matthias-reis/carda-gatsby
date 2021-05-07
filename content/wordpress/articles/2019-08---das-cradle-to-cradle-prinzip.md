@@ -110,7 +110,6 @@ Wenn wir raus wollen aus dem Sog aus immer mehr Müll, Klimawandel und Hunger au
 
 Der Cradle to Cradle e. V. hat das Prinzip Cradle-to-Cradle in diesem Video sehr schön erklärt:
 
-{' '}
 <YouTube id="g1tIGLy3PHw" />
 
 ### Literaturtipp:

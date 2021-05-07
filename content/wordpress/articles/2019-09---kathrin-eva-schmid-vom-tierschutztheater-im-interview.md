@@ -52,13 +52,13 @@ Unterstützt wird das Theater unter anderem durch die Ärzte gegen Tierversuche 
 
 Das Ensemble bietet auch außerhalb des Theaters Auftritte an, gebucht werden kann zu jedem Anlass, lediglich die Fahrtkosten, sowie Kost und Logis für die Schauspieler\*innen müssen übernommen werden.
 
-<RemoteImage
+<RemoteI
   alt={`kathrin-eva-schmid-privat`}
   size="medium"
   title={`Kathrin Eva Schmid vom Tierschutztheater. Foto: Kathrin Eva Schmid privat`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kathrin-eva-schmid-privat__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kathrin-eva-schmid-privat__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwMGCAT/xAApEAABAwMDBAEEAwAAAAAAAAABAgMEBREhAAYSEzFRYYEUIkFSIzKx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgUAAf/EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMREiExQSL/2gAMAwEAAhEDEQA/AL2skJsMk40Pb3rO4dwVB2nUFuUzSIzymHHGVcS+tKrKKjggA3AHbF9Lsl0MMOPLuUtpKyB4Auf80V7aqE16nmcuKwhmUlclJ6h5FS1KUQce7ak3WGsZEpU1hzgwzE7ce06qZDEiREWlX9eRU2seFC9jfWiKHUmK7RYdSjFJbktBeL/arsoZ8EEfGiXeMOZJhPpnsNtJJHRLKyeoo9rA51JseuzqBFfpMdxDrMV4/a4L2JAKgCPCr66lu457isp1Pz1GLcHMbfqZbv1DGcSi37FJAA+TokpcBNCoMWLUZojJKyxwkOcShRHPplSbixyoHGDY6VdzOJTT2yQu6XOYCex4pOD6zrPm5KxKqlabil7+Fldyr8JUO5+BoWZdtPBzHRhF39ku8Kr9RTURoalPtlwoL97IwchHoYzrk2TIy8ypQPI3T5xqboyN2bhDbbamIAUUtiwFkDOPZvqx1+hxqSw19O2hoNC5KLcr/tf8nvcezrB1qUIezEVaxi/gn//Z"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCggpgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwMGCAT/xAApEAABAwMDBAEEAwAAAAAAAAABAgMEBREhAAYSEzFRYYEUIkFSIzKx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgUAAf/EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMREiExQSL/2gAMAwEAAhEDEQA/AL2skJsMk40Pb3rO4dwVB2nUFuUzSIzymHHGVcS+tKrKKjggA3AHbF9Lsl0MMOPLuUtpKyB4Auf80V7aqE16nmcuKwhmUlclJ6h5FS1KUQce7ak3WGsZEpU1hzgwzE7ce06qZDEiREWlX9eRU2seFC9jfWiKHUmK7RYdSjFJbktBeL/arsoZ8EEfGiXeMOZJhPpnsNtJJHRLKyeoo9rA51JseuzqBFfpMdxDrMV4/a4L2JAKgCPCr66lu457isp1Pz1GLcHMbfqZbv1DGcSi37FJAA+TokpcBNCoMWLUZojJKyxwkOcShRHPplSbixyoHGDY6VdzOJTT2yQu6XOYCex4pOD6zrPm5KxKqlabil7+Fldyr8JUO5+BoWZdtPBzHRhF39ku8Kr9RTURoalPtlwoL97IwchHoYzrk2TIy8ypQPI3T5xqboyN2bhDbbamIAUUtiwFkDOPZvqx1+hxqSw19O2hoNC5KLcr/tf8nvcezrB1qUIezEVaxi/gn//Z"
 />
 
 **Anne:** Hallo Kathrin Eva! Vielen Dank, dass Du Dir die Zeit für das Interview nimmst! Ich freue mich wirklich sehr, Deine Bekanntschaft zu machen!
@@ -309,8 +309,6 @@ Zuletzt machte das Tierschutztheater anlässlich der Veganmania in München mit 
 Kathrin Eva Schmid tritt am 15.03.2020 als Spitzenkandidatin für die Tierschutzpartei bei der Münchener Stadtratswahl an.
 
 Anlässlich des 10-jährigens Jubiläums des Tierschutztheaters wurde im März folgendes Video veröffentlicht:
-
-{' '}
 
 <YouTube id="y3KXgpSidME" />
 

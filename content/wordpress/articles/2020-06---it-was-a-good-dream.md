@@ -133,7 +133,6 @@ Euer erstes Album (Nach Eurer geheimnisvollen Teaser Single "Forgetting How To S
 
 **Alex:** Es ist genial! Ich glaube, es ist mein Lieblingsraum, um mir Drums anzuhören. Ich wünschte, wir könnten dort permanent unsere Proben machen. Die Wände sind unglaublich hoch und es ist Ort mit großartigen Vibes. Wenn Du Dir unser Live Video zu "Falling / Running / Mute" anschaust, kannst Du es sehen. Es wurde dort aufgenommen.
 
-{' '}
 <YouTube id="paFVczP927A" />
 
 **Anne:** James Bridges (Caspian, American Echoes, Mike Gordon) hat "Help Me To Recollect" produziert. Wie war es, mit ihm zu arbeiten und wie seit Ihr mit ihm in Kontakt gekommen?
@@ -160,7 +159,6 @@ Eine andere Sache ist, dass es meiner Meinung nach wirklich wichtig ist, dem⋆r
 
 ## "Help Me To Recollect" von It Was A Good Dream bei Spotify hören
 
-{' '}
 <YouTube id="album/1sZAn155m8BYaIaKQTnpNG" />
 
 ## "Help Me To Recollect" von It Was A Good Dream bei iTunes hören
@@ -266,7 +264,6 @@ Your first album (After your mysterious teaser single "Forgetting How To Speak" 
 
 **Alex:**  It’s the best! I think it’s my favorite room to listen to drums in. I wish we could practice there 100 percent of the time. The ceilings are huge and it’s a really vibey place. If you check out our live video for “Falling/Running/Mute” on Youtube, that was filmed there.
 
-{' '}
 <YouTube id="paFVczP927A" />
 
 **Anne:**  James Bridges (Caspian, American Echoes, Mike Gordon) produced "Help Me To Recollect". How was it like working with him and how did you get in touch with him?
@@ -293,7 +290,6 @@ Another thing is, I feel like it’s really important to give the listener some 
 
 ## Listen to "Help Me To Recollect" by It Was A Good Dream on Spotify
 
-{' '}
 <YouTube id="album/1sZAn155m8BYaIaKQTnpNG" />
 
 ## Listen to "Help Me To Recollect" by It Was A Good Dream on iTunes

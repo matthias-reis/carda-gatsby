@@ -79,8 +79,8 @@ Das wundervolle Artwork stammt übrigens von Jasons Frau Michelle.
   src="https://bandcamp.com/EmbeddedPlayer/album=856451022/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/tracklist=false/tracks=3818983223/esig=fef7191b0f5e9426eacafe2868e2fc72/"
   seamless=""
 >
-  {' '}
-  [Lined in Silver by Breaths](https://breaths.bandcamp.com/album/lined-in-silver){' '}
+  [Lined in Silver by
+  Breaths](https://breaths.bandcamp.com/album/lined-in-silver)
 </iframe>
 
 <hr />
@@ -140,6 +140,6 @@ By the way, the incredible artwork is by Jason's wife Michelle.
   src="https://bandcamp.com/EmbeddedPlayer/album=856451022/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/tracklist=false/tracks=3818983223/esig=fef7191b0f5e9426eacafe2868e2fc72/"
   seamless=""
 >
-  {' '}
-  [Lined in Silver by Breaths](https://breaths.bandcamp.com/album/lined-in-silver){' '}
+  [Lined in Silver by
+  Breaths](https://breaths.bandcamp.com/album/lined-in-silver)
 </iframe>

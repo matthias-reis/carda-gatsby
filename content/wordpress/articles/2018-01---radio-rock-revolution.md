@@ -91,17 +91,17 @@ Hier ein paar Perlen, die mir vor Kurzem beim Musik genießen auf Radio Paradise
 
 <h3>
   "The Only Thing Worth Fighting For" von Lera Lynn
-  <YouTube id="Rh44ml8f17g" />{' '}
+  <YouTube id="Rh44ml8f17g" />
 </h3>
 
 <h3>
   "La Rivière" von Bears Of Legend
-  <YouTube id="Xe8XXvwdwT0" />{' '}
+  <YouTube id="Xe8XXvwdwT0" />
 </h3>
 
 <h3>
   Majesty von Madrugada
-  <YouTube id="LE9AuZ35_AY" />{' '}
+  <YouTube id="LE9AuZ35_AY" />
 </h3>
 
 ## A Child Should Be A Fish von Leo Kottke

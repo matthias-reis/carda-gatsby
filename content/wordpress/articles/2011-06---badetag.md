@@ -50,15 +50,8 @@ Leckeres selbst gekochtes Essen, Heu im Haar, Konservengeigen, Hundegebell und 0
 
 Feuerwehreinsatz, Straßensperrung, kochende Kühler und schwitzende Passanten. Spätestens heute ist der Sommer in der Stadt angekommen.
 
-<del>
-  Die farbenfrohe Presse berichtet heute über _zu_ schwangere Ex-Spice-Girls,
-  die aus dem Ehebett fliehen
-</del>
-, de Maizière verteidigt seine Munition gegen Libyen, Griechenland wird von
-einem Generalstreik lahmgelegt, aus Japan werden weiterhin Strahlungsrekorde
-gemeldet. <del>Helmut Kohl kritisiert die Bücher, die sein Sohn über seine Familie geschrieben hat.</del>
+~~Die farbenfrohe Presse berichtet heute über _zu_ schwangere Ex-Spice-Girls, die aus dem Ehebett fliehen~~, de Maizière verteidigt seine Munition gegen Libyen, Griechenland wird von einem Generalstreik lahmgelegt, aus Japan werden weiterhin Strahlungsrekorde gemeldet. ~~Helmut Kohl kritisiert die Bücher, die sein Sohn über seine Familie geschrieben hat.~~
 
 ## Musik des Tages: Tallest Man On Earth  – "Tiny Desk Concert"
 
-{' '}
 <YouTube id="JLRTleMY_mc" />

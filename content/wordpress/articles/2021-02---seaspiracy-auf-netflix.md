@@ -65,7 +65,6 @@ Der Vorgänger des Films "[Cowspiracy](/2020/04/cowspiracy-vegane-doku/)" sorgt 
 
 Wenn Ihr mehr über Seaspiracy erfahren wollt, besucht am besten [die Webseite](https://www.seaspiracy.org/).
 
-{' '}
 <YouTube id="1Q5CXN7soQg" />
 
 Bilder &amp; Quelle/pictures &amp; source: Seaspiracy

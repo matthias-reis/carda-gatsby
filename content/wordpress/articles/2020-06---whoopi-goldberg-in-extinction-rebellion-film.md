@@ -42,7 +42,6 @@ Gegenüber Variety berichtet er
 
 > "Sie hat dem Film ein perfektes Gefühl von Schwerkraft verliehen. Außerdem ist sie sehr offen, was Umweltfragen angeht. Wir haben also das an ihren Agenten geschickt. Sie kam sehr schnell auf uns zurück und meinte, dass sie dabei ist. Wir konnten unser Glück kaum fassen!"
 
-{' '}
 <YouTube id="wf6VXXNjML0" />
 
 Der dramatische Dreiminüter endet mit der Aussage

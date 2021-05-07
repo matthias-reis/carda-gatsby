@@ -74,8 +74,7 @@ Mit dem Artwork wird der Hauptcharakter (The Hero) vorgestellt, der später im M
   src="https://bandcamp.com/EmbeddedPlayer/album=584010201/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
   seamless=""
 >
-  {' '}
-  [Prelude by R A N G E S](https://theascensionist.bandcamp.com/album/prelude){' '}
+  [Prelude by R A N G E S](https://theascensionist.bandcamp.com/album/prelude)
 </iframe>
 
 <Gallery name="ascensionist-ranges-prelude-1" />
@@ -93,8 +92,7 @@ Die Trackliste spielt darauf auf niedere Materie des irdischen "AB SA RO KA" und
   src="https://bandcamp.com/EmbeddedPlayer/album=3317678619/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
   seamless=""
 >
-  {' '}
-  [I by R A N G E S](https://theascensionist.bandcamp.com/album/i){' '}
+  [I by R A N G E S](https://theascensionist.bandcamp.com/album/i)
 </iframe>
 
 <Gallery name="ascensionist-ranges-kassette-1" />
@@ -112,8 +110,7 @@ Die Tracklist deutet auf eine Schwärzung hin, die Nigredo-Phase der Alchemie; V
   src="https://bandcamp.com/EmbeddedPlayer/album=2650720580/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
   seamless=""
 >
-  {' '}
-  [II by R A N G E S](https://theascensionist.bandcamp.com/album/ii){' '}
+  [II by R A N G E S](https://theascensionist.bandcamp.com/album/ii)
 </iframe>
 
 <Gallery name="ascensionist-ranges-kassette-2" />
@@ -129,8 +126,7 @@ Im Zentrum des Artworks steht der Berg, der den thematischen Schwerpunkt von "Th
   src="https://bandcamp.com/EmbeddedPlayer/album=3923681909/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
   seamless=""
 >
-  {' '}
-  [III by R A N G E S](https://theascensionist.bandcamp.com/album/iii){' '}
+  [III by R A N G E S](https://theascensionist.bandcamp.com/album/iii)
 </iframe>
 
 <Gallery name="ascensionist-ranges-kassette-3" />
@@ -148,8 +144,7 @@ Die Tracklist besteht aus nur zwei Stücken: "Holy Grail", das den ultimativen S
   src="https://bandcamp.com/EmbeddedPlayer/album=601354174/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
   seamless=""
 >
-  {' '}
-  [IV by R A N G E S](https://theascensionist.bandcamp.com/album/iv){' '}
+  [IV by R A N G E S](https://theascensionist.bandcamp.com/album/iv)
 </iframe>
 
 <Gallery name="ascensionist-ranges-kassette-4" />
@@ -165,8 +160,8 @@ Das Augenmotiv auf dem Cover wird im inneren Klappcover des erweiterten Albums "
   src="https://bandcamp.com/EmbeddedPlayer/album=757956441/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
   seamless=""
 >
-  {' '}
-  [Prelude II by R A N G E S](https://theascensionist.bandcamp.com/album/prelude-ii-2){' '}
+  [Prelude II by R A N G E
+  S](https://theascensionist.bandcamp.com/album/prelude-ii-2)
 </iframe>
 
 <Gallery name="ascensionist-ranges-prelude-2" />
@@ -184,8 +179,7 @@ An diesem Punkt steht der Held vor seinem Übertritt in die ihm bekannte Welt.
   src="https://bandcamp.com/EmbeddedPlayer/album=1975159265/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
   seamless=""
 >
-  {' '}
-  [V by R A N G E S](https://theascensionist.bandcamp.com/album/v-2){' '}
+  [V by R A N G E S](https://theascensionist.bandcamp.com/album/v-2)
 </iframe>
 
 <Gallery name="ascensionist-ranges-kassette-5" />
@@ -201,8 +195,7 @@ Die Navigation der großen Stadt Babylon geht weiter durch die komplexen Machens
   src="https://bandcamp.com/EmbeddedPlayer/album=4029575954/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
   seamless=""
 >
-  {' '}
-  [VI by R A N G E S](https://theascensionist.bandcamp.com/album/vi){' '}
+  [VI by R A N G E S](https://theascensionist.bandcamp.com/album/vi)
 </iframe>
 
 <Gallery name="ascensionist-ranges-kassette-6" />
@@ -218,8 +211,7 @@ Das Artwork veranschaulicht den Staat, der aufgebläht und anmaßend in seinem u
   src="https://bandcamp.com/EmbeddedPlayer/album=1366773537/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
   seamless=""
 >
-  {' '}
-  [VII by R A N G E S](https://theascensionist.bandcamp.com/album/vii-2){' '}
+  [VII by R A N G E S](https://theascensionist.bandcamp.com/album/vii-2)
 </iframe>
 
 <Gallery name="ascensionist-ranges-kassette-7" />
@@ -235,8 +227,7 @@ Das Artwork steht für Religion und ihre Funktion innerhalb der Babylon-Matrix. 
   src="https://bandcamp.com/EmbeddedPlayer/album=3000911555/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
   seamless=""
 >
-  {' '}
-  [VIII by R A N G E S](https://theascensionist.bandcamp.com/album/viii){' '}
+  [VIII by R A N G E S](https://theascensionist.bandcamp.com/album/viii)
 </iframe>
 
 <Gallery name="ascensionist-ranges-kassette-8" />
@@ -254,8 +245,7 @@ In Anlehnung an das Konzept des Gleichgewichts wollen Ranges die Musik dieser Ve
   src="https://bandcamp.com/EmbeddedPlayer/album=98077545/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
   seamless=""
 >
-  {' '}
-  [IX by R A N G E S](https://theascensionist.bandcamp.com/album/ix-2){' '}
+  [IX by R A N G E S](https://theascensionist.bandcamp.com/album/ix-2)
 </iframe>
 
 <Gallery name="ascensionist-ranges-kassette-9" />
@@ -271,8 +261,7 @@ Beherrschung führt zur Freiheit von der Angst vor dem Tod, welche wiederum für
   src="https://bandcamp.com/EmbeddedPlayer/album=2149298878/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
   seamless=""
 >
-  {' '}
-  [X by R A N G E S](https://theascensionist.bandcamp.com/album/x){' '}
+  [X by R A N G E S](https://theascensionist.bandcamp.com/album/x)
 </iframe>
 
 <Gallery name="ascensionist-ranges-kassette-10" />

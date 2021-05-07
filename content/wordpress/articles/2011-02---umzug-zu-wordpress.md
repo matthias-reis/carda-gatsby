@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: <img class="alignright size-medium wp-image-271" src="http://cardamonchai.com/wp-content/uploads/2011/02/img_4857-640x427.jpg" alt="Umzug zu Wordpress" width="300" height="200" />Alte und neue Beiträge
+subTitle: Alte und neue Beiträge
 ---
 
 Ich habe dieses Weblog schon vor einiger Zeit angelegt und werde es nun endlich nutzen. Zuerst möchte ich meine Beiträge, die ich von 2008 bis heute für einen kleinen Verlag geschrieben habe, hier veröffentlichen.

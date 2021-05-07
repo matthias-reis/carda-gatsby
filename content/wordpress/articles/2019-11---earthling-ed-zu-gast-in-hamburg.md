@@ -110,5 +110,4 @@ Vielen Dank an [Earthling Ed](https://earthlinged.org/), [Anonymous For The Voic
 
 Hat Euch mein Beitrag neugierig gemacht? Das freut mich sehr! Hier ein Video zum Thema "wütende Veganer\*innen", das Ed vor einiger Zeit aufgenommen hat.
 
-{' '}
 <YouTube id="OMIsFajOCYk" />

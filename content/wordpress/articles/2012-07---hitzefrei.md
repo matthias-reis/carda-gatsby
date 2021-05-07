@@ -68,5 +68,4 @@ Und wir rennen weiter hinter der Straßenbahn her und lassen unseren Regenschirm
 
 ## Song des Tages: Incubus - A Crow Left Of The Murder
 
-{' '}
 <YouTube id="t-UuZV-HKyw" />

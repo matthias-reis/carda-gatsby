@@ -65,17 +65,14 @@ Wo sie recht haben, haben sie recht. Besonders ergreifend ist am neuen Podcast, 
 
 ## Planet Classroom stellt sich vor
 
-{' '}
 <YouTube id="6PHfvtcPFM0" />
 
 ## Eric Simon – "What to Do About Climate Disruption" (Trailer)
 
-{' '}
 <Vimeo id="328781967" />
 
 ## Eric Simon über seinen Film "What to Do About Climate Disruption"
 
-{' '}
 <Vimeo id="361444711" />
 
 [Hier könnt Ihr den Podcast anhören](https://www.voiceamerica.com/episode/129163/climate-cant-wait).

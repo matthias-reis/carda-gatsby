@@ -65,7 +65,6 @@ Mein Highlight ist das dritte Stück "Blue Giant". Ich mag die Verspieltheit und
 
 Für mich eine neue Schönheit im Plattenregal, die Fans von Mastodon und Baroness gut gefallen sollte. Volle Punktzahl auf der Genuss-Skala.
 
-{' '}
 <YouTube id="40NZHZbu0dQ" />
 
 <hr />
@@ -107,5 +106,4 @@ My highlight is the third track, "Blue Giant". I really like its playfulness and
 
 For me, this is a new beauty on my record shelf – A full score on the excitement scale. If you are a fan of Mastodon and Baroness, you will probably like it.
 
-{' '}
 <YouTube id="40NZHZbu0dQ" />

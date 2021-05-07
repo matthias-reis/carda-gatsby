@@ -175,7 +175,6 @@ Pray for Sound gründeten sich 2011 in Boston. Ihr viertes Album "Waves" haben s
 
 ## Waves bei Spotify
 
-{' '}
 <YouTube id="album/5TxKYW1MyPhstxBh8JjhnL" />
 
 ## Waves bei iTunes
@@ -319,7 +318,6 @@ Pray for Sound was founded in Boston in 2011. They released their fourth album "
 
 ## Waves on Spotify
 
-{' '}
 <YouTube id="album/5TxKYW1MyPhstxBh8JjhnL" />
 
 ## Waves on iTunes

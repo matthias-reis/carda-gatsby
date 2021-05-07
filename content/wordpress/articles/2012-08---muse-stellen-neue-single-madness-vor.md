@@ -64,13 +64,9 @@ Wir dürfen sehr gespannt sein, was uns mit "The 2nd Law" erwartet. Ich persönl
 
 ## Doch jetzt viel Spaß mit Muse - "Madness"
 
-{' '}
-
 <YouTube id="Ek0SgwWmF9w" />
 
 ## Und hier sind für Euch nochmal Muse mit "Unsustainable"
-
-{' '}
 
 <YouTube id="EF_xdvn52As" />
 

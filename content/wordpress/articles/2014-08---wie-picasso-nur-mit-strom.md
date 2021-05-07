@@ -355,9 +355,8 @@ Natürlich bin ich auch gespannt, was Ihr zu sagen habt, im Anschluss noch ein p
 Kussi Anne &lt;3
 
 <small>
-  {' '}
   _PS: Weitere Bilder findet Ihr wie immer in meinem
-  [Flickr](https://www.flickr.com/photos/99929697@N07/). _{' '}
+  [Flickr](https://www.flickr.com/photos/99929697@N07/). _
 </small>
 
 [_ **Hier gehts zum dritten Teil des Artikels** _](/2015/02/blog-relaunch-und-umzug-nach-hamburg/)

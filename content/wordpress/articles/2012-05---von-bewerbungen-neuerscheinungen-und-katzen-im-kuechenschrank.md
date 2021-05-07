@@ -107,5 +107,4 @@ Hier kommt noch ein wundertolles Lied von meiner Neuendeckung den [BOWERBIRDS](h
 
 ## Bowerbirds – "In Our Talons"
 
-{' '}
 <YouTube id="AiqhuYe_Z70" />

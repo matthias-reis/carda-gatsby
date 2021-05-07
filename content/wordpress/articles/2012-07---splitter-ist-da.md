@@ -41,8 +41,7 @@ Der Song: Traumhaft. Er läuft bei mir, seit dem ich das Video gestern Abend das
 Aber nun zum Wesentlichen. Hier sind für Euch [Calexico](http://casadecalexico.com/calexico-algiers-sep-10-2012/) mit Ihrem neuesten Schatz "Splitter":
 
 <address>
-  {' '}
-  <Vimeo id="/46625948" />{' '}
+  <Vimeo id="/46625948" />
 </address>
 
 <address> __ </address>

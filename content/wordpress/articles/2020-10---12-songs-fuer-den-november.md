@@ -59,7 +59,6 @@ Wir wünschen Euch viel Spaß beim Hören. Die Playlists für iTunes und Spotify
 
 > "'Frames' von Oceansize ist ein Album, nachdem ich eine Zeitlang regelrecht süchtig war. Ich konnte wochenlang nichts anderes mehr hören, was für mich eigentlich gar keinen Sinn ergab. Normalerweise reagiere ich schon allergisch, wenn an einem Tag das gleiche Lied ein zweites Mal läuft. Mit dem letzten Freitag erschienenen neuen [Crippled Black Phoenix](/2019/04/crippled-black-phoenix-live-im-hamburger-knust/) Album 'Ellengæst' geht es jetzt genauso los. Ab und zu höre ich mal ein paar Songs zwischendurch, um dann gleich wieder zu diesem monumentalen Album zurückzukehren. "Everything I Say" ist nur eines der vielen Highlights auf der Platte."
 
-{' '}
 <YouTube id="T92MeAg9leg" />
 
 ## The Ocean – "Pleistocene" vom Album "Phanerozoic II"
@@ -68,7 +67,6 @@ Auch über diese Platte freut sich Matze ganz besonders. Obwohl er auf sein Exem
 
 > "Inzwischen haben wir 'The Ocean' ja schon ein paarmal gefeatured – und zwar zu Recht. Es handelt sich bei der Berliner Truppe derzeit wahrscheinlich um die beste Band Deutschlands. 'Phanerozoic II' vollendet das Doppelalbum, das mit 'Phanerozoic I' das Licht der Welt erblickte. 'Pleisocene' ist, wie ich finde, der beste Song auf der Platte. Vielschichtig wie die ganze LP, mit ruhigeren, sich steigernden Passagen und immer aggressiver werdenden Sludge Parts, in denen sich Gitarren und Shouting gegenseitig anspornen."
 
-{' '}
 <YouTube id="E12saHWlaWI" />
 
 [Robin Staps von The Ocean im Interview](/2020/09/the-ocean-robin-staps-interview/)
@@ -79,7 +77,6 @@ pg.lost haben was Neues. Für mich ein Grund zum vor Freude aus der Haut fahren!
 
 > "Die schwedische Post-Rock Band hat von ihrem neuen Album, das am 20. November erscheinen wird, schon zwei Songs veröffentlicht. 'Suffering' und 'E22'. Ich habe mich für den zweiten entschieden. Ich finde, er macht so richtig Lust darauf, endlich die ganze Platte zu hören."
 
-{' '}
 <YouTube id="JD1Ne-BzvlU" />
 
 ## Puscifer – "The Underwhelming" (Vorauskopplung vom Album "Existential Reckoning")
@@ -88,14 +85,12 @@ Valentins Worte zu diesem Song:
 
 > "Tool Gründer Maynard James Keenan bringt am 30. Oktober eine neue LP mit seinem Projekt Puscifer raus. Mit dem Song 'The Underwhelming' vom Album mit dem Titel 'Existential Reckoning' kann man sich nach 'Apocalyptical' schon den zweiten Song anhören, der Lust auf restliche zehn Stücke macht."
 
-{' '}
 <YouTube id="M_gHgTkbdyg" />
 
 ## Ox en Mayo Alto – "Moi, Pierre Rivière, ayant érgorgé ma mére, ma sœr et mon frère" von der Video-EP "Los famosos días de la fiebre"
 
 Dieses Projekt ist etwas ganz Besonderes. Das erste Lebenszeichen der Musikgruppe aus dem argentinischen Córdoba zeigt uns: Es wird etwas Großes kommen. Vor Kurzem habe ich Ox en Mayo Alto hier im Blog [einen Artikel](/2020/09/ox-en-mayo-alto-los-famosos-dias-de-la-fiebre-review/) gewidmet. Ihre Video-EP "Los famosos días de la fiebre" ("Die berühmten Tage des Fiebers") baut sich zu einer Geschichte auf, die Ihr Euch unbedingt in ihrer Gänze zu Gemüte führen solltet. "Moi, Pierre Rivière, ayant érgorgé ma mére, ma sœr et mon frère" ("Ich, Pierre Rivière, habe meine Mutter, meine Schwester und meinen Bruder abgeschlachtet") ist der starke Mittelteil davon. Musikalisch beeindruckend und bildgewaltig.
 
-{' '}
 <YouTube id="d0vvtn_1qGA" />
 
 [Review "Los famosos días de la fiebre"](/2020/09/ox-en-mayo-alto-los-famosos-dias-de-la-fiebre-review/)
@@ -106,21 +101,18 @@ Wisst Ihr, was mich freut? Dass ich Matze mit Ranges so anstecken konnte. Er lie
 
 > "'Confusion of Tongues' ist für sich betrachtet eine Drei-Song-EP. Mit ihr vervollständigen Ranges außerdem ihr hervorragendes Epos "Babel" aus dem letzten Jahr. Beides zusammen gibt es jetzt unter dem Titel "Babel/Confusion of Tongues" als Boxset bei Dunk Records/A Thousand Arms. "Vainglory" bildet das Intro und liefert den gewohnten amerikanischen Post-Rock Sound ab, kommt aber sehr leicht daher und bildet damit das perfekte Gegenstück zu 'Revelation'", dem letzten Song auf "Babel". Mein Tipp: Hört Euch ruhig mal alle Songs hintereinander an – in ihrer Spielreihenfolge, wie sie gedacht sind."
 
-{' '}
 <YouTube id="xRNuWkwAIAs" />
 
 ## worriedaboutsatan – "Full Of Wires" von der EP "The Vault"
 
 Diese Elektro Band aus Bradford, West Yorkshire fasziniert mich, seit ich sie vor Jahren für mich entdeckt habe. Ich glaube, es passierte in einer last.fm Gruppe. Der Funke sprang über und bringt meine Augen beim Hören bis heute zum Leuchten. Ihre perfekte Verbindung aus Techno, Glitch, Elektro und Metal haben sie mit ihrer aktuellen EP "The Vault" ein weiteres Mal auf ein neues Level gehoben. Ich erfreue Euch heute mit dem Opener "Full Of Wires".
 
-{' '}
 <YouTube id="cTU8ESPhJGA" />
 
 ## Jónsi – "Exhale" vom Album "Shiver"
 
 Die neue Jónsi Platte ist da und wird bei mir gerade täglich konsumiert. Sigur Rós Sänger Jón Þór Birgisson hat mit seiner nach "Go" zweiten Solo-LP mal wieder Kunst in Reinform abgeliefert. Ich verordne den Hörgenuss allen, die wie ich der experimentellen Ambient und Drone Musik verfallen sind. Übrigens ist auch das Video durchaus sehenswert.
 
-{' '}
 <YouTube id="U44-xky1vjw" />
 
 ## Emma Ruth Rundle &amp; Thou – "The Valley" (Vorauskopplung vom Album "May Our Chambers Be Full")
@@ -129,7 +121,6 @@ Eine von Matzes Lieblingsmusikerinnen hat ein neues Stück auf Lager. Die Veröf
 
 > "Emma Ruth Rundle nutzt in Corona-Zeiten für die Präsentation ihrer Musik eine Art Salamitaktik. Über den Sommer war jeden Monat etwas Präsentables dabei, das es in manchen Monaten auch auf die Liste geschafft hat. Eigentlich hätte sie sich ja mal eine Auszeit verdient – vor allem vor dem bald erscheinenden Album, das sie als Projekt mit der Lousianna Doom Band Thou aufgenommen hat. Leider ist diese vermutlich letzte Vorauskopplung so gut, dass ich sie einfach mit Euch teilen muss. Das 'Album May Our Chambers Be Full' erscheint am 30. Oktober."
 
-{' '}
 <YouTube id="ImMHsDDV_YA" />
 
 ## Dead Now – "Slow Beam" (Single)
@@ -140,7 +131,6 @@ Das Trio Dead Now besteht aus (zum Teil ehemaligen) Mitgliedern der Bands Torche
 
 Die Band aus Atlanta schreibt im Moment an einem Album in voller Länge. Wir dürfen also gespannt sein, wie es weitergeht.
 
-{' '}
 <YouTube id="elcJX5uJUVk" />
 
 ## Steven Wilson – "Eminent Sleaze" (Vorauskopplung vom Album "The Future Bites")
@@ -149,7 +139,6 @@ Dieses Stück hat Valentin für Euch aufgetan.
 
 > "Auch Steven Wilson hat während des Lockdowns an etwas Neuem gearbeitet. Er hört sich wieder anders an – dieses Mal aber wieder sehr gut! Für mich ist das Stück eine Mischung aus der Musik von Muse und Funk. Ich freue mich schon darauf, wenn im Januar das komplette Album erscheint."
 
-{' '}
 <YouTube id="kUKmOkrcMig" />
 
 ## Jimi Hendrix "Castles Made Of Sand" vom Album "Axis: Bold As Love (1967)
@@ -158,12 +147,10 @@ Valentin ist hier ja immer ein bisschen für die Klassiker verantwortlich. Heute
 
 > "Da am 18. September der mittlerweile 50. Todestag von Jimi Hendrix war, gibt es diesen Monat einen für mich ganz besonderen Song vom besten Gitarristen der Welt. 'Castles Made Of Sand' vom zweiten Album 'Axis: Bold As Love' von 1967."
 
-{' '}
 <YouTube id="XJ035W-2p6M" />
 
 ## Unsere November-Musikliste bei Spotify
 
-{' '}
 <Playlist
   spotify="4DjDm9SwKVfpqcUFRT89oI"
   itunes="2020-10-25-rock-n-roll-vegan/pl.u-oo4Yt3ye8ea"

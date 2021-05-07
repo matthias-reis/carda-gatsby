@@ -83,8 +83,7 @@ Das Institut für Energie- und Umweltforschung in Heidelberg hat einen Klimarech
     </tr>
     <tr>
       <th class="tg-0lax">
-        {' '}
-        [Rind](/2017/02/klimaschutz-und-vegane-ernaehrung/){' '}
+        [Rind](/2017/02/klimaschutz-und-vegane-ernaehrung/)
       </th>
       <td class="tg-0lax">12,29</td>
     </tr>

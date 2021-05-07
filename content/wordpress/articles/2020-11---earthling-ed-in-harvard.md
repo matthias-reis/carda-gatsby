@@ -56,7 +56,6 @@ Wer wissen möchte, welche Fragen Earthling Ed mir beantwortet hat und warum es 
 
 ## Earthling Ed – "It's Time To Change Your Life"
 
-{' '}
 <YouTube id="Z3u7hXpOm58" />
 
 Quelle &amp; Bild/pictures &amp; source: [Earthling Ed](https://earthlinged.org/)

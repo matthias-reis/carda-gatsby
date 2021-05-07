@@ -97,7 +97,6 @@ Bis bald Anne &lt;3
 
 ## Hier sind für Euch Chevelle mit "The Clincher"
 
-{' '}
 <YouTube id="OP3Yhs8q7oM" />
 
 <Gallery

@@ -79,5 +79,4 @@ subTitle: '"Als Erstes ist die Melodie da"'
 
 **Lukas:** Auf jeden Fall. Ich danke Dir!
 
-{' '}
 <YouTube id="9bhzuqbPVC4" />

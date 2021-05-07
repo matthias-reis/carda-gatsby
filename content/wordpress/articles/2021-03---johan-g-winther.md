@@ -150,7 +150,6 @@ Johan G. Winther ist zu recht stolz auf "The Rupturing Sowle". Ihr könnt unter 
 
 ## Johan G. Winther – "Blacken The World"
 
-{' '}
 <YouTube id="nuvRxDhJ-0g" />
 
 <hr />
@@ -269,5 +268,4 @@ When we recorded the cello parts of "As Above, So Below", it's also a very dear 
 
 ## Johan G. Winther – "Blacken The World"
 
-{' '}
 <YouTube id="nuvRxDhJ-0g" />

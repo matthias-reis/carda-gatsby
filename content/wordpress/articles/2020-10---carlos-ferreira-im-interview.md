@@ -193,7 +193,6 @@ Neben den Kooperationen habe ich noch zwei Soloalben fertig, die veröffentlicht
 
 ## Carlos Ferreira – "Supernova"
 
-{' '}
 <YouTube id="gLAqIioxVyE" />
 
 <hr />
@@ -351,5 +350,4 @@ Besides, I already have two more solo albums ready to be released, and other inc
 
 ## Carlos Ferreira – "Supernova"
 
-{' '}
 <YouTube id="gLAqIioxVyE" />

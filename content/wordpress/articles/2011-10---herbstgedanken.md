@@ -93,5 +93,4 @@ Ich setze den Blinker. Warte auf eine Lücke im Gegenverkehr. Biege links ab in 
 
 ## Song des Tages: The Smiths – "Unlovable"
 
-{' '}
 <YouTube id="qD5ZJBfObr4" />

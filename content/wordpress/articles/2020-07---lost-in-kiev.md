@@ -172,7 +172,6 @@ Lost in Kiev gründeten sich 2007. In der aktuellen Besetzung (Gitarre: Dimitri 
 
 ## "Persona" von Lost in Kiev bei Spotify hören
 
-{' '}
 <YouTube id="album/2OWPbyhRv5zLXo2hyRsGjq" />
 
 ## "Persona" von Lost in Kiev bei iTunes hören
@@ -338,7 +337,6 @@ Lost in Kiev were founded in 2007. The post-rock band has been performing in the
 
 ## Listen to "Persona" by Lost in Kiev on Spotify
 
-{' '}
 <YouTube id="album/2OWPbyhRv5zLXo2hyRsGjq" />
 
 ## Listen to "Persona" by Lost in Kiev on iTunes

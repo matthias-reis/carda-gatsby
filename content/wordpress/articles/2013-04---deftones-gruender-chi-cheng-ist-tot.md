@@ -108,7 +108,6 @@ Korn benannten einen Song auf Ihrem zweiten Album ‚Peachy‘ nach Chi, Dredg 
 
 #### **Deftones - Minerva**
 
-{' '}
 <YouTube id="TYTt0-LpLbE" />
 
 _I get all numb_ _When she sings "It's over"_ _Such a strange numb_ _And it brings my knees to the earth_

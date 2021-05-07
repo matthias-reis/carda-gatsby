@@ -46,5 +46,4 @@ Das Wetter ist gut, die Stimmung heiter, das Wochenende war sehr entpannt dieses
 
 ## Song des Tages: Biffy Clyro - "Mountains"
 
-{' '}
 <YouTube id="NfzwM4pdyxU" />

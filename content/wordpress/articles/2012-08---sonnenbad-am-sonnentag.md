@@ -70,5 +70,4 @@ Sicherlich denkt sich nun der Eine oder die Andere, was das hier für ein Sommer
 
 ## Hier sind für Euch:  [Dispatch](http://de.wikipedia.org/wiki/Dispatch)  mit "Here We Go"
 
-{' '}
 <YouTube id="ZRHpoKvZa20&amp;feature=player_embedded" />

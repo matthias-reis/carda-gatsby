@@ -51,7 +51,6 @@ Bei den Tierschutzkontrollen und Recherchen der Deutsches Tierschutzbüro e. V. 
 
 Doch leider gibt es auch solche, die chronisch krank sind und sehr intensive Pflege brauchen oder aus anderen Gründen nicht vermittelbar sind. Sie werden dann auf Gnadenhöfen untergebracht, der Verein übernimmt dabei die anfallenden Kosten.
 
-{' '}
 <YouTube id="ZjvS5v8bi7Q" />
 
 Denise erzählte mir, dass erst vor Kurzem zwei Neuankömmlinge im Projekt aufgenommen wurden. Die beiden Kühe Dorte und Denise wurden aus einem Milchviehbetrieb im Allgäu nach über sieben Jahren im Stall befreit und auf einem Gnadenhof in Brandenburg untergebracht. Ihre ersten Schritte auf der Weide sind im herzzerreißenden Video auf der rechten Seite zu sehen.

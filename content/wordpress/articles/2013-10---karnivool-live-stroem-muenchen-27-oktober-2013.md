@@ -131,7 +131,6 @@ Natürlich werde ich Euch auch nicht verraten, was "unser Lied" ist.
 
 **Und hier sind für Euch Karnivool mit "All I Know"**
 
-{' '}
 <YouTube id="18SUFbABxNQ&amp;w=560&amp;h=315" />
 
 _This is my sense of reality_ _This is proof of my coming of age_ _This is truth in captivity_ _This is losing a theology, I_ _I'm a soul taker_ _I'm a cruel, witted mind_ _This is my sense of reality_ _This is proof of my coming of age_ _I'm a soul taker_ _I'm a cruel witted mime_

@@ -66,7 +66,6 @@ Valentin konnte die Veröffentlichung der neuen Nick Cave Platte kaum erwarten. 
 
 "Bei diesem wieder mal unglaublich gelungenen Werk von Nick Cave &amp; The Bad Seeds" ist es schwierig einen Favoriten zu finden - es handelt sich dabei um ein perfektes Gesamtkunstwerk. Ich habe trotzdem mal den für mich besonders schönen Song 'Waiting For You' rausgepickt."
 
-{' '}
 <YouTube id="GwlU_wsT20Q" />
 
 ## Caspian - "Flowers of Light" (Vorauskopplung vom für 2020 angekündigten Album "On Circles")
@@ -75,7 +74,6 @@ Wir alle haben vermutlich vor Freude einen kleinen Hüpfer hingelegt, als wir vo
 
 "Darauf habe ich mich fast noch ein bisschen mehr gefreut, als auf [das neue Tool Album](/2019/08/das-neue-tool-album-ist-da/) : Ein erstes Lebenszeichen der neuen Caspian Platte! Die erste Vorauskopplung von "On Circles", das im Januar erscheinen soll, übertrifft schon mal meine Erwartungen. Ein wirklich großartiges Stück Post-Rock!"
 
-{' '}
 <YouTube id="HN5iFskr0iM" />
 
 ## Torche - "Admission" vom Album "Admission"
@@ -84,14 +82,12 @@ Valentin schwärmt für Torche
 
 "Torche gibt es schon länger. Ich habe die Sludge Band aus Miami jetzt erst für mich entdeckt. In ihrer Musik steckt viel Stoner-Einfluss. Ich freue mich schon, sie im kommenden Jahr als Vorband von [Russian Circles](/2017/02/russian-circles-knust-hamburg-2017/) sehen zu dürfen. Hier der Titeltrack aus dem im Juli erschienen Album 'Admission', der (in diesem Fall) etwas (angenehm) poppiger geraten ist."
 
-{' '}
 <YouTube id="9dc0n5UkMOI" />
 
 ## Shana Falana - "Go Higher" vom Album "Darkest Light"
 
 Die Shoegazer Band Shana Falana, die derzeit von Kingston, New York aus agiert, wurde 2011 in Brooklyn gegründet. Die beim Label Team Love Records gesignte Band besteht aus Shana Falana und Michale Amari. Ich habe die Musiker bereits nach den ersten Takten, die mir unlängst über Band Camp angespült wurden, fest ins Herz geschlossen. Zum Reinhören möchte ich Euch hiermit "Go Higher" vom gerade erschienenen Album "Darkest Light" vorschlagen.
 
-{' '}
 <YouTube id="X7vnlEXs-Xs" />
 
 ## And you will Know us by the Trail of Dead - "Don’t Look Down" vom Album "X: The Godless Void And Other Stories"
@@ -100,14 +96,12 @@ Matze hat mich total überrascht, als er mit der Nachricht von der neuen [Trail 
 
 "Im Gegensatz zur neuen Caspian Single, habe ich mit dieser Veröffentlichung gar nicht gerechnet. Umso größer ist die Freude über den ersten neuen Song seit mehr als fünf Jahren. Der Stil der Band hat sich ein bisschen hin zu den alten Post-Punk Zeiten der 'Source, Tags &amp; Codes' Ära.' zurückentwickelt. AYWKUBTTOF beweisen für mich damit ein weiteres Mal ihre Vielfältigkeit. Reinhören lohnt sich!"
 
-{' '}
 <YouTube id="bbXNaERHIfA" />
 
 ## Amplifier - "The Eternal" (Single)
 
 "Der November ist ein Monat voller positiver Lebenszeichen", freut sich Matze. "Das nächste kam von Amplifier, deren Meisterwerk 'The Octopus' nun schon acht stolze Jahre alt ist. In der Zwischenzeit hat die Band weitere Alben veröffentlicht, die, von ein paar einzelnen Stücken abgesehen, nicht wirklich zu mir durchgedrungen sind. Für mich finden sie mit den Prog-Rock Tönen auf der neuen Platte zu ihrer alten Stärke zurück."
 
-{' '}
 <YouTube id="8zErDvoYY3A" />
 
 ## Rey Pila - "Disciples IV" (Single)
@@ -116,7 +110,6 @@ Rey Pila ist eine von Valentins Ausgrabungen des Monats.
 
 "Strokes Frontmann Julian Casablancas entdeckte die mexikanische Band Rey Pila. Mit ihrem Sound hätte die Truppe auch in den 1980er Jahren Erfolg gehabt. Die aktuelle Single erinnert finde ich sehr an Depeche Mode oder frühe Sachen von [Nine Inch Nails](/2014/05/nine-inch-nails-live-zitadelle-berlin/). "
 
-{' '}
 <YouTube id="pVqLI7IRCik" />
 
 ## Amadou &amp; Mariam - "Je pense à toi" vom Album "Je pense à toi"
@@ -127,7 +120,6 @@ Der folgende Hinweis meines Vaters brachte mich auf diese Künstler und speziell
 
 Mit ihrer Musik verzaubern mich die beiden und lassen mich in Gedanken auf die Reise gehen.
 
-{' '}
 <YouTube id="gnvJEhRNkSw" />
 
 ## Somnambulist - "nêiyawak" vom Album "nipiy"
@@ -149,14 +141,12 @@ Obgleich er aus einem komplett anderen Genre stammt, schmiegt sich dieser Song p
 
 "Aus einem Soundtrack einen Song herauszufiltern ist ziemlich schwierig", findet Valentin. "Allerdings geht dieser Tune von Trent Reznor und Atticus Ross vom Soundtrack der wunderbaren neuen Serienverfilmung der Watchmen besonders ins Ohr!"
 
-{' '}
 <YouTube id="CIGZdjTf2_4" />
 
 ## Moanaa - "Crystal" vom Album "Passage"
 
 Moanaa stammen aus Bielsko Biała in Polen. Dort hat sich die Gruppe 2008 gegründet. Das gleichnamige Debut erschien 2010 als EP. Inzwischen treten Moanaa im Vorprogramm von Größen wie Tides From Nebula, und At The Soundawn auf. Mit ihrer gekonnten Mischung aus Post-Rock und Sludge-Metal machen sie anderen Bands aus dieser Ecke ordentlich Dampf. "Passage" ist die inzwischen vierte größere Veröffentlichung. Ich bin gespannt, wie es weiter geht und lege Euch mal "Crystal" zum Ausprobieren vor.
 
-{' '}
 <YouTube id="u2xxt1icYD8" />
 
 ## Envy - "A Step in the Morning Glow" - Vorauskopplung vom Album "The Fallen Crimson"
@@ -167,7 +157,6 @@ Matze blickt zurück.
 
 Inzwischen ist übrigens das komplette Album "The Fallen Crimson" erschienen.
 
-{' '}
 <YouTube id="c0ek6gl6I9Q" />
 
 ## Desert Sessions - "Far East For The Trees" vom Album "Desert Sessions 11 &amp; 12"
@@ -178,12 +167,10 @@ Diese Platte ist für uns alle drei etwas ganz Besonderes. Sie hat es verdient, 
 
 Unterstützt haben ihn dieses Mal unter anderem Künstler wie Les Claypool von Primus, Billy Gibbons von ZZ Top und Jake Shears von Scissor Sisters. Gegründet wurde das Projekt 1997 von Josh gemeinsam mit dem Kyuss Schlagzeuger Brant Bjork. Zuletzt hatten sie unter dem Namen "Desert Sessions" 2003 gemeinsam Musik aufgenommen.
 
-{' '}
 <YouTube id="SnKUry32QcI" />
 
 ## Hier findet Ihr unsere Playlists
 
-{' '}
 <Playlist
   spotify="2Zwbw1woAyQex3oGdsnqUO"
   itunes="2019-11-25-die-drei-von-der-bande/pl.u-85b1iXeGBGJ?l=en"

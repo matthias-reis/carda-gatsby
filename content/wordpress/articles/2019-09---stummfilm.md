@@ -43,7 +43,6 @@ Das teilten LDC auf ihrer Facebook-Seite mit. Zur Feier der Veröffentlichung st
 
 <div class="text_exposed_show">
 
-{' '}
 <YouTube id="sFAf3ugFeGI" />
 
 "Stummfilm - Live from Hamburg (A Seats &amp; Sounds Show) gibt es als Limited Edition Blue-Ray plus zwei CDs, als Gatefold  LP Vinyl Set sowie in Form eines digitalen Audio-Downloads.

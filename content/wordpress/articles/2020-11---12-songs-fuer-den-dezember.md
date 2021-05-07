@@ -59,28 +59,24 @@ Da wir in großen Schritten auf das Jahresende zu tänzeln, wird die nächste Mu
 
 Die Liste wird dieses Mal von dem 1991 geborenen Ausnahmetalent Nubya Garcia eröffnet. Die Jazzmusikerin blickt auf eine solide Musikausbildung zurück. Sie schafft es, die Klänge ihres Sax auf erfrischende Art so mit ihrem Gesang zu verweben, dass man sich in diesem feinen Gespinst aus Musik am liebsten tagelang aufhalten möchte. Das Stück "Together Is A Beautifull Place To Be" stammt von ihrem aktuellen Album "Source". Für mich ist es aktuell wunderbar situationsbezogen. Außerdem bietet es den Neugierigen unter Euch einen schönen Einstieg in die Welt der Nubya Garcia. Die Künstlerin wurde mir übrigens von meinem werten Vater empfohlen. Herzlichen Dank nochmal an dieser Stelle!
 
-{' '}
 <YouTube id="cXJ9N9qLx0g" />
 
 ## Slowly Building Weapons – "Foal To Mare" vom Album "Echos"
 
 Könnt Ihr Euch noch an Slowly Building Weapons erinnern? Die Band aus Australien und Japan bezauberte Fans von Converge und Oranssi Pazuzu 2017 mit ihrem Album "Sunbirds". Jetzt sind sie mit "Echos" wieder da. Mich hat das Stück "Foal To Mare" am meisten beeindruckt. Das Leben vom Kleinkind bis zum Erwachsenen spiegelt sich in dem Stück wieder. Was werden wir tun, wenn wir zehn Jahre älter sind? Genau, wir werden immer noch Slowly Building Weapons hören. Das Debüt der Shoegaze Truppe stammt übrigens aus dem Jahr 2007. Damals ging es bei der Bande um Nicholas Bowman noch etwas härter aber keinesfalls weniger musikalisch zu.
 
-{' '}
 <YouTube id="GemKz2mcxXU" />
 
 ## Mantis – "Hessian" (Single)
 
 Dieses starke Stück der belgischen, selbst als "Post-Everything" Band bezeichneten Combo Mantis begleitet mich schon seit Oktober. Inzwischen hat die Gruppe mit "Stereo No Aware" noch ein weiteres Goldstück veröffentlicht. Im Februar erschien das Stück "Tropic Of Nothing" und im Mai "-7 (Quarantine)". Ich hoffe sehr, dass sich die aufeinanderfolgenden Singles bald zu einem Album als Gesamtkunstwerk zusammenfügen. Mir haben die Vorgänger "Mantis I", "Mantis II" und Magnolia schon sehr gut gefallen. Eine weitere LP wäre sicher kein Fehler.
 
-{' '}
 <YouTube id="HFpZ4pkI62U" />
 
 ## Mansur – "Amor Fati" vom Album "Karma"
 
 Mansur planen nach der EP "Temple" von Juli diesen Jahres bereits ihr zweites musikalisches Werk. Dieses Mal handelt es sich um ein komplettes Album mit dem klangvollen Namen "Karma", das am 11. Dezember kommen soll und ab sofort vorbestellt werden kann. "Amor Fati" ist der erste Vorgeschmack. Auf der Bandcamp Seite der Niederländer ist von universellen Lektionen des Lebens die Rede. Wir dürfen gespannt sein, ob uns das Album diese bringt. Mansur ist für sie das Transformationsgefäß, das Sie in diese nicht-physischen Welten führt. Ich rate Euch: Hört mal rein und lasst Euch ein bisschen mit davontragen.
 
-{' '}
 <YouTube id="FtV_kZmZIN0" />
 
 ## Zeal &amp; Ardor – "At the Seams" von der EP "Wake of a Nation"
@@ -89,7 +85,6 @@ Ich übergebe an dieser Stelle an Matze.
 
 > "Was passiert, wenn Gospel und Black Metal zusammengebracht werden? Zeal &amp; Ardor, unsere Entdeckung des Jahres 2019 (mit einem unglaublichen Konzert auf dem [ArcTanGent Festival](/2019/09/arctangent-festival-2019-2/) ) beweisen, dass das Mischen diametral entgegengesetzter Musikstile spannende Ergebnisse hervorbringen kann. Jetzt haben sie mit einer EP nachgelegt. 'At the Seams', der Song den ich daraus ausgewählt habe, spielt geschickt mit ruhigen vokalen und harten Gitarren-lastigen Parts und ist mein Favorit des Monats."
 
-{' '}
 <YouTube id="FisNa2oyXtI" />
 
 ## Mogwai – Dry Fantasy (Vorauskopplung vom Album: "As The Love Continues")
@@ -98,7 +93,6 @@ Dieses Stück hat Matze zwar auf die Liste gepackt, es rumort aber genauso auf m
 
 > "Die Mogwai Schlagzeilen in diesem Monat begannen mit einer schlechten Nachricht. Ihre 2021 Tour wurde, genau wie die vieler anderer Bands, kurzerhand abgesagt. Doch kurz darauf kündigten sie ihre neue Platte an – wie so oft direkt verbunden mit der Auskopplung einer ersten Single. Die Spannung ist hoch, denn obwohl Mogwai einen gewaltigen Output haben, ist es doch das erste Studioalbum nach 'Rave Tapes' von 2014 und 'Every Country's Sun' von 2017. Dazwischen folgten ausschliesslich (zugegeben nicht minder gute) Soundtrack-Produktionen. 'As The Love Continues' kann man als typisches Stück für ihre späte Schaffensphase bezeichnen, sphärisch und elektronisch. Sound wie Video machen Lust, endlich das ganze Album in Händen zu halten. Bis zum 19. Februar müssen wir noch darauf warten."
 
-{' '}
 <YouTube id="55wY7XrGFzY" />
 
 ## John Frusciante – "Blind Aim" vom Album "Maya"
@@ -107,7 +101,6 @@ Noch ein Stück aus Matzes Kiste:
 
 > "Das Salz in der Suppe der Red Hot Chili Peppers, ihr On-Off-Leadgitarrist John Frusciante (nur mit ihm sind sie Weltklasse) kann inzwischen auch auf eine ansehnliche Solokarriere zurückblicken - elf proggig-experimentelle Alben seit 1994. Auf seinem neu erschienenen Werk wendet er sich vom Prog und Rock im Allgemeinen ab, bleibt aber nicht weniger experimentell. Er beschäftigt sich jetzt mit elektronischer Musik und verzichtet dabei (weitestgehend) auf Gesang. 'Blind Aim' ist mit seinen zahlreichen Drum &amp; Bass Anleihen eines der Highlights dieser überraschenden Platte."
 
-{' '}
 <YouTube id="xYB9AcXdvZk" />
 
 ## Farees feat. Calexico – "Y'all Don't Know What's Goin On" vom Album "Border Patrol"
@@ -116,7 +109,6 @@ Und noch einer von Matze.
 
 > "Calexico haben mich zuletzt etwas enttäuscht. Erst fand ich ihr letztes Album mit Iron &amp; Wine nicht so toll und nun hab ich auch noch erfahren, dass sie ein Weihnachtsalbum veröffentlicht haben – inklusive 'War Is Over' Coverversion. Ihre Kooperation mit dem Franzosen Farees auf dessen Album ist dafür die perfekte Mischung aus ihrem tex-mexikanischen Sound und Einflüssen aus afrikanischen und südamerikanischen Klängen. Übrigens ist das ganze Album 'Border Control' des Gitarristen und Singer-Songwriters Farees absolut hörenswert."
 
-{' '}
 <YouTube id="6QYrTyCWEXI" />
 
 ## Nick Cave – "Euthanasia" vom Album "Idiot Prayer (Nick Cave Alone at Alexandra Palace)"
@@ -125,7 +117,6 @@ Valentin hat diesen Monat mal wieder einen bunten Blumenstrauß aus den verschie
 
 > "Nick Cave ganz alleine? Ja, auch das hört sich verdammt gut an. Auch, wenn mir persönlich die großartigen Bad Seeds ein bisschen fehlen. Mit 'Euthanasia' hat er jetzt einen komplett neuen Song abgeliefert. Er ist zusammen mit 21 weiteren Stücken auf seinem aktuellen Album 'Idiot Prayer (Nick Cave Alone at Alexandra Palace)' zu finden."
 
-{' '}
 <YouTube id="-F4gUQbVdlo" />
 
 ## Collapse Under The Empire – "Red Rain" vom Album "Everything We Will Leave Beyond Us"
@@ -134,14 +125,12 @@ Als Valentin und ich entdeckt haben, dass es was Neues von Collapse Under The Em
 
 > "Mitreißender Post Rock aus Deutschland? Ja, da gibt es ein paar interessante Musiker. Zum Beispiel Collapse Under The Empire aus Hamburg. Ich schätze das Duo bereits seit ihrer vierten Platte. Inzwischen sind es bereits neun –  es kommt in verlässlicher Regelmäßigkeit etwas Neues von den Hanseaten (Zu den neun LPs haben sich auch noch vier EPs gesellt). 'Red Rain' vom neuen Album 'Everything We Will Leave Beyond Us' hört sich für mich etwas anders, aber dennoch typisch CUTE an."
 
-{' '}
 <YouTube id="vtDw22sHze4" />
 
 ## IAM – "CQFD"
 
 Über einen Netflix-Film, der in der Gangster-Welt von Marseille spielt, habe ich die Hip Hop Gruppe IAM kennengelernt. Die Mitglieder stammen ebenfalls von diesem schönen und zugleich hässlichen Ort. Ihre Texte sind oft politisch und gesellschaftskritisch und der Beat von "CQFD" geht einem so schnell nicht mehr aus dem Kopf!
 
-{' '}
 <YouTube id="tfuNb30_O10" />
 
 ## Programm – "Epitaph For My Heart"
@@ -150,7 +139,6 @@ Hier kommt Valentins viertes Stück.
 
 > "Gute Musik lerne ich derzeit häufig über Serien und Filme kennen. So ist es mir auch bei diesem Song passiert. Durch die wunderbare Drama/Comedy Serie 'Search Party' bin ich auf die Band Programm aus Toronto gestoßen, die ihre Musik laut ihrem Twitter-Account als Electronic/Post-Punk und Shoegaze bezeichnet. Die Single 'Epitaph For my Heart' ist von 2018 und bisher ihre letzte Auskopplung. Der sehr hypnotische Track ist für mich der Song des Monats. Zu erwähnen ist noch, dass es sich um eine Coverversion eines Stücks der Bostoner Band Magnetic Fields handelt."
 
-{' '}
 <YouTube id="zMTtd0hmKHM" />
 
 ## Sonderpick von Matze: Vennart – "Elemental" vom Album "In The Dead, Dead Wood"
@@ -165,12 +153,11 @@ Häh? Wie jetzt? Oben steht doch 12 Songs. Wieso jetzt 13? Was soll denn das nun
   seamless=""
 >
   ﻿ [In The Dead, Dead Wood by
-  Vennart](https://vennart.bandcamp.com/album/in-the-dead-dead-wood){' '}
+  Vennart](https://vennart.bandcamp.com/album/in-the-dead-dead-wood)
 </iframe>
 
 ## Unsere Playlists
 
-{' '}
 <Playlist
   spotify="5xdx9A1mosN2onTUgX4nnh"
   itunes="2020-11-25-rock-n-roll-vegan/pl.u-ooagu3ye8ea"

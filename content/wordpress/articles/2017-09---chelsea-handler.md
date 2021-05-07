@@ -88,7 +88,6 @@ Liebe Frauen: Ihr seid genauso wunderschön, wenn Ihr nicht lächelt! Lächeln i
 
 Das wirklich unterhaltsame, lustige Video könnt Ihr Euch hier ansehen:
 
-{' '}
 <YouTube id="t6xOvQsyL7A" />
 
 Mehr von Chelsea findet Ihr auf Netflix und auf ihrer [Homepage](https://www.chelseahandler.com/).

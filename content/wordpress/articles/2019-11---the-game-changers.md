@@ -81,7 +81,6 @@ erzählt dieser ihm. Zwei Worte ruft er, als er es schafft, ganze 555 Kilogramm 
 
 > "Vegan Power!",
 
-{' '}
 <YouTube id="aL4lb6IevWw" />
 
 James Wilks stellt schlussendlich selbst seine Ernährung um und schafft es nicht nur, sich schnell wieder von seinen Verletzungen zu erholen -  er läuft zu neuen ihm bisher unbekannten Höchstleistungen auf. Fortan verbringt er einen großen Teil seiner Zeit damit, anderen Menschen zu mehr Gesundheit und besseren Leistungen zu verhelfen, indem er über rein pflanzliche Ernährung aufklärt.
@@ -98,7 +97,6 @@ Auf der [Homepage](https://gamechangersmovie.com/) findet Ihr neben Infos zur Do
 
 ## Trailer "The Game Changers"
 
-{' '}
 <YouTube id="7JPGRGp4sSI" />
 
 Hat Euch mein Filmtipp gefallen? Das freut mich! Um in Zukunft nichts mehr auf meinem Blog zu verpassen, [abonniert gerne meinen Newsletter](#newsletter). Ich freue mich auf Euch!

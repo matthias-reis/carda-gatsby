@@ -42,9 +42,8 @@ subTitle: Tagebucheintrag
 
 Die bleibt jetzt einfach dran. An der Gemüseseuche soll jetzt plötzlich bayerischer Salat schuld sein. Gespannt, was es morgen sein wird. Abreise ist für morgen 11 Uhr geplant. Freude kommt auf.
 
-Ein tolles Gefühl, wenn die Kollegen einem einen schönen Urlaub wünschen. Die Katzen gegossen, die Blumen runter gebracht und den Müll gefüttert. Beim Frühstück beschlossen, das Schlafen ab jetzt einfach komplett einzustellen. Bringt ja sowieso nichts. Man ist allemal morgens müde. Die nächsten paar Tage wird an Schlaf sowieso nicht zu denken sein, und wozu unnötiger Stress? Durchs Schlafen geht doch nur Zeit verloren, in der man sich auch mit sinn<del>vollen</del>losen Dingen beschäftigen könnte. Für heute Abend ist ein Almodovar-Film-Marathon geplant. Einfach die Füße aus dem Fenster hängen, die Abendsonne genießen, der Geruch von filterlosen französischen Zigaretten vom Balkon untendrunter mischt sich mit dem der Geranien nebenan. Ein Fußball knallt gegen das Hoftor. So sollte sich Sommer doch anfühlen, oder?
+Ein tolles Gefühl, wenn die Kollegen einem einen schönen Urlaub wünschen. Die Katzen gegossen, die Blumen runter gebracht und den Müll gefüttert. Beim Frühstück beschlossen, das Schlafen ab jetzt einfach komplett einzustellen. Bringt ja sowieso nichts. Man ist allemal morgens müde. Die nächsten paar Tage wird an Schlaf sowieso nicht zu denken sein, und wozu unnötiger Stress? Durchs Schlafen geht doch nur Zeit verloren, in der man sich auch mit sinn~~vollen~~losen Dingen beschäftigen könnte. Für heute Abend ist ein Almodovar-Film-Marathon geplant. Einfach die Füße aus dem Fenster hängen, die Abendsonne genießen, der Geruch von filterlosen französischen Zigaretten vom Balkon untendrunter mischt sich mit dem der Geranien nebenan. Ein Fußball knallt gegen das Hoftor. So sollte sich Sommer doch anfühlen, oder?
 
 ## Song des Tages: Pete And The Pirates - "Knots"
 
-{' '}
 <YouTube id="CfgmPqsJQj4" />

@@ -178,81 +178,65 @@ Gesagt getan. Jeder machte sich daran, eine Kassette zusammenzustellen, übers W
 
 ### Seite A
 
-<h5>
-  1.) Sigur Ròs - "Með Blóðnasir"
-  <YouTube id="5U2zFQxbVa0" />{' '}
-</h5>
+#### 1.) Sigur Ròs - "Með Blóðnasir"
+
+<YouTube id="5U2zFQxbVa0" />
 
 #### 2.) Bon Iver - "Blood Bank"
 
-<h5>
-  {' '}
-  <YouTube id="ltIozO0pBms" />
-  ____ 3.)  Death Cab For Cutie - "Crooked Teeth"
-</h5>
+<YouTube id="ltIozO0pBms" />
 
-<h5>
-  {' '}
-  <YouTube id="5yKeUQcNsdI" />{' '}
+#### 3.)  Death Cab For Cutie - "Crooked Teeth"
+
+<YouTube id="5yKeUQcNsdI" />
 </h5>
 
 #### 5.) Black Rebel Motorcycle Club - "As Sure As The Sun"
 
-{' '}
 <YouTube id="pbT-ooPlSqQ" />
 
 #### 6.) Die Sterne - "Themenläden"
 
-{' '}
 <YouTube id="RIAroIpnE0Q" />
 
 #### 7.) Calexico - "All The Pretty Horses"
 
-{' '}
 <YouTube id="WyX4xeEU_30" />
 
 ### Seite B
 
 #### 8.) The Tallest Man On Earth - "Where Do My Bluebird Fly"
 
-{' '}
 <YouTube id="zG2ccH8jlCA" />
 
 #### 9.) Pixies - "Hey"
 
-{' '}
 <YouTube id="tVCUAXOBF7w" />
 
 #### 10.) Pavement - "Shady Lane"
 
-{' '}
 <YouTube id="G-mQxmrZJn8" />
 
 #### 11.) Two Gallants - "Despite What You´ve Been Told"
 
-{' '}
 <YouTube id="_eVef-ub44k" />
 
 #### 12.) Junip - "To The Grain"
 
-{' '}
 <YouTube id="QnrMLKJr7eY" />
 
 ### Bonus
 
 #### 13.) The Tallest Man On Earth - "The Gardener"
 
-{' '}
 <YouTube id="Wa3lyo_Eowc" />
 
 #### 14.) Gisbert zu Knyphausen - "Kräne"
 
-{' '}
 <YouTube id="HUHCplJij4U" />
 
 #### 15.) Angus &amp; Julia Stone - "For You"
 
-{' '}
 <YouTube id="9uWh-TlEQ4k" />
 
 [Hier geht's zu Teil 2/2](/2011/08/der-mixtape-tausch-2/)

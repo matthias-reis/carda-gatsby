@@ -77,5 +77,4 @@ Vorhang auf für die dritte Stufe der Rakete! Hier ist für Euch Jack White mit 
 
 ## Jack White – "Lazaretto"
 
-{' '}
 <YouTube id="qI-95cTMeLM" />

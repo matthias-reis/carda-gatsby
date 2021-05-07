@@ -55,5 +55,4 @@ Bleistifte werden kürzer, verschwinden, werden durch Neue ersetzt. Das alles gi
 
 ## Song des Tages: The White Stripes – "Ball And Biscuit"
 
-{' '}
 <YouTube id="xMZh9OtAeSY" />

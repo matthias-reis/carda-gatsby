@@ -338,8 +338,7 @@ Ich weiß nicht, wer diese Mythologie mit in die Tierhalterwelt brachte. Auf jed
 **Johanna:** ( _lacht_ ) Das ist auch eines MEINER Lieblingszitate! ( _faltet die Hände in Brusthöhe, beugt den Kopf leicht, führt die gefalteten Hände mit den Fingerspitzen zur Stirn, um sie anschließend wieder zurückzuführen\*_ ) Namasté! Ich danke Dir, liebe Anne!
 
 <small>
-  {' '}
   _\*diese Mutra (Geste) nennt man auch Anjali oder Namaskaram. Sie bedeutet,
   dass man das Gegenüber in Ehrerbietung grüßt oder verabschiedet. Sie ist die
-  höchste Geste unter Buddhisten._{' '}
+  höchste Geste unter Buddhisten._
 </small>

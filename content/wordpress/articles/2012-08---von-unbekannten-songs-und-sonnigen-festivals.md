@@ -82,7 +82,6 @@ Heute gibt es etwas, wobei es sich todsicher um eine Weltpremiere handelt. Ich m
 
 ## Hier sind für Euch: [Listener](http://listener.bandcamp.com/track/wooden-heart-poem) mit "Wooden Heart"
 
-{' '}
 <YouTube id="K8k9rD7lx9c" />
 
 _WOODEN HEART (sea of mist called skaidan)_ _We’re all born to broken people on their most honest day of living_ _and since that first breath... We’ll need grace that we’ve never given_ _I've been haunted by standard red devils and white ghosts_ _and it's not only when these eyes are closed_ _these lies are ropes that I tie down in my stomach,_ _but they hold this ship together tossed like leaves in this weather_ _and my dreams are sails that I point towards my true north,_ _stretched thin over my rib bones, and pray that it gets better_ _but it won’t won’t, at least I don’t believe it will..._ _so I've built a wooden heart inside this iron ship,_ _to sail these blood red seas and find your coasts._ _don’t let these waves wash away your hopes_ _this war-ship is sinking, and I still believe in anchors_ _pulling fist fulls of rotten wood from my heart, I still believe in saviors_ _but I know that we are all made out of shipwrecks, every single board_ _washed and bound like crooked teeth on these rocky shores_ _so come on and let’s wash each other with tears of joy and tears of grief_ _and fold our lives like crashing waves and run up on this beach_ _come on and sew us together, tattered rags stained forever_ _we only have what we remember_

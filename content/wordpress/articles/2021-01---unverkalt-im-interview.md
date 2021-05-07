@@ -130,7 +130,6 @@ Spekulation ist nicht unser Ding aber wir versprechen, dass der nächste Abschni
 
 **Demetria:** Bleib positiv und zuversichtlich! Ich wünsche Dir ein wundervolles und produktives Jahr!
 
-{' '}
 <YouTube id="2y-Q1gwy94g" />
 
 <div id="⋆">[⋆] _English version_ </div>
@@ -233,5 +232,4 @@ Speculating is not our thing, but we promise that the next part of our musical j
 
 **Demetria:** Stay positive and confident! Have an amazing and productive year!
 
-{' '}
 <YouTube id="2y-Q1gwy94g" />

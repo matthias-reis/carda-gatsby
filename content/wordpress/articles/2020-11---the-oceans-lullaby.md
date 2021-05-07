@@ -87,5 +87,4 @@ Ihr könnt "The Ocean's Lullaby" als limitierte Doppel-Vinyl in den Varianten "b
 
 ## "Breathe" von Six Days Of Calm
 
-{' '}
 <YouTube id="QppPyejN9Xg" />

@@ -120,10 +120,8 @@ _Soundgarden_ befanden sich aktuell auf einer Tournee, während der sie unter a
 
 _Chris Cornell_ hinterlässt drei Kinder.
 
-{' '}
 <YouTube id="3mbBbFH9fAg" />
 
-{' '}
 <YouTube id="7QU1nvuxaMA" />
 
 Titelbild: Paul Lorkowski

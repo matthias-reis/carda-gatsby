@@ -117,7 +117,6 @@ Ich werde mir jetzt in aller Ruhe die sieben Bonustracks auf meiner Deluxe Editi
 
 Die aktuelle Single "Under The Wheels gibt es übrigens auch schon als Video. Ich teile sie hier mit Euch.
 
-{' '}
 <YouTube id="M21ALoLPbH4" />
 
 ## Calexico Wegweiser

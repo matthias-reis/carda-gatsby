@@ -75,5 +75,4 @@ Eine kurze Woche mit sagenhaftem Wetter. Vulkanasche, Flugplatzchaos, Steuersenk
 
 ## Song des Tages: Incubus - "The Warmth"
 
-{' '}
 <YouTube id="VeHddLI-aY8" />

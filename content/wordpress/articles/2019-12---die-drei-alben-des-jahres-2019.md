@@ -58,14 +58,12 @@ Anders, als bei unseren Monatslisten, haben wir uns dieses Mal komplett auf Neuv
 
 Das unglaubliche Konzert, das ich im Juni in Berlin erleben durfte, hat die Vorfreude für mich noch gesteigert. "[Fear Inoculum](/2019/08/das-neue-tool-album-ist-da/)" ist für mich das größte und komplexeste, das Tool bis jetzt abgeliefert hat. Um Songs wie "Invincible" oder "7empest" ( [Hier im Blog zu finden in den Playlist für den Oktober 2019](/2019/09/12-songs-fuer-den-oktober/) ) zu begreifen, werde ich wohl noch ein paar Hördurchgänge brauchen."
 
-{' '}
 <YouTube id="q7DfQMPmJRI" />
 
 ## Matze - "A Dawn To Fear" von Cult Of Luna
 
 Matze findet und ich glaube, da sind wir uns alle einig, dass 2019 ein ganz besonders starkes Musikjahr war. Seine Favoriten wechselten teilweise im Tagesrhythmus von Cult Of Lunas "A Dawn To Fear" zu "Fear Inoculum" von Tool über "In Cauda Venenum" von **Opeth** und "replicr" von **65daysofstatic** wieder zurück. Je häufiger er sich jedoch "[A Dawn To Fear](/2019/09/cult-of-luna-a-dawn-to-fear/)" von [**Cult Of Luna**](/2013/05/cult-of-luna-the-ocean-lo-live-feierwerk-munchen/) anhörte, desto klarer wurde ihm, wer die erste Geige in seinem Orchester spielen würde. Das Album vereint für ihn den vielfältigen Strauß aus Stimmungen, der die Band ausmacht. Es perfektioniert für ihn die Ideen, welche die Band in ihrer inzwischen schon ein Weilchen andauernden Karriere entwickelt hat.
 
-{' '}
 <YouTube id="2cYtqwUso-g" />
 
 ## Anne - Russian Circles von "Blood Year"
@@ -74,7 +72,6 @@ Ich habe wirklich lange hin und her überlegt, welches Album für mich die Platt
 
 Am Ende war es dann doch klar: "Blood Year" von [**Russian Circles**](/2017/02/russian-circles-knust-hamburg-2017/) hat das Rennen gemacht ( [Hier im Blog zu finden in der Playlist für den September 2019](/2019/08/12-songs-fuer-den-september/) ). Nicht nur ihr Auftritt beim diesjährigen [**Arctangent Festival**](/2019/09/arctangent-festival-2019-2/)  hat mich erneut darin bestätigt, dass es sich bei der Post-Metalband um einen meiner erklärten Favoriten handelt. Das Album hat für mich unbedingt eine Auszeichnung verdient und sollte in dieser Liste nicht fehlen.
 
-{' '}
 <YouTube id="9ANmCp69lD4" />
 
 Hat Euch unsere Auswahl gefallen? Das ist schön. Wir haben vor, Euch auch in Zukunft mit Musiktipps zu versorgen. Bleibt also am besten dran. Wer nichts verpassen möchte, kann [gerne meinen Newsletter abonnieren](#newsletter). Dann halte ich Euch auf dem Laufenden.

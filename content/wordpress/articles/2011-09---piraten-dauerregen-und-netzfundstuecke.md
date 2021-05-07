@@ -76,7 +76,6 @@ Vor einiger Zeit bin ich im Netz über ein Video gestolpert. Einen Song, den FAN
 
 **Fan Modine - Cardamon Chai**
 
-{' '}
 <YouTube id="rs-YQ-2uA9w" />
 
 Vorläufige Ergebnisse der Abgeordnetenhauswahl Berlin 2011:

@@ -284,5 +284,4 @@ _Wer sich f_ _ü_ _r das Leben und Arbeiten in der Hamburger SoLaWi interessiert
 
 - Solawi Hamburg, [Anne Reis](/ein-blick-hinter-die-kulissen-von-anne-bloggt-cardamonchai/)
 
-{' '}
 <YouTube id="FkUsmUj-4qk" />

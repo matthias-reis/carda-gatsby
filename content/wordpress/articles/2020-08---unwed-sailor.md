@@ -140,7 +140,6 @@ Ich denke, dass in gewisser Weise alle Genres, mit denen ich aufgewachsen bin, m
 
 ## "Look Alive" von Unwed Sailor bei Spotify hören
 
-{' '}
 <YouTube id="album/0hB8xeoSbCNF4mE8IVuKuX" />
 
 ## "Look Alive" von Unwed Sailor bei iTunes hören
@@ -270,7 +269,6 @@ My goal is to be consistent with Unwed Sailor whether it's quiet or not.
 
 ## Listen to "Look Alive" by Unwed Sailor on Spotify
 
-{' '}
 <YouTube id="album/0hB8xeoSbCNF4mE8IVuKuX" />
 
 ## Listen to "Look Alive" by Unwed Sailor on iTunes

@@ -140,7 +140,6 @@ Ausklang machen atmosphärischen, Ambient-lastigen Post-Rock. Die zweite Auskopp
 
 ## "Aufbruch" von Ausklang
 
-{' '}
 <YouTube id="oRcP8odgTDU" />
 
 [Interview mit From Overseas Gründer Kévin Séry](/2020/04/from-overseas-interview/)
@@ -252,7 +251,6 @@ Ausklang are in love with atmospheric, ambient-inspired post-rock. The second si
 
 ## "Aufbruch" by Ausklang
 
-{' '}
 <YouTube id="oRcP8odgTDU" />
 
 [Interview with Kévin Séry (From Overseas)](/2020/04/from-overseas-interview/)

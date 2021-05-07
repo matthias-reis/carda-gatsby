@@ -130,7 +130,6 @@ Am bekanntesten war die Stadt während der Zeit der Trip-Hop Connection mit Mass
 
 ## Lightning Sharks 2020 ArcTanGent Set
 
-{' '}
 <YouTube id="TYz5Lg-XHAc" />
 
 <hr />
@@ -219,5 +218,4 @@ Am bekanntesten war die Stadt während der Zeit der Trip-Hop Connection mit Mass
 
 ## Lightning Sharks 2020 ArcTanGent Set
 
-{' '}
 <YouTube id="TYz5Lg-XHAc" />

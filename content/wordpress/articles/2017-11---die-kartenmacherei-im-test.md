@@ -206,13 +206,13 @@ Hinweis: Ich habe die einzelnen Kalenderseiten auf unserer Staffelei fotografier
 
 <div>
   ** [Hier entlang geht es zur Kalenderseite der
-  Kartenmacherei](https://www.kartenmacherei.de/fotokalender.html){' '}
+  Kartenmacherei](https://www.kartenmacherei.de/fotokalender.html)
 </div>
 
 <div>
   *Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
   dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
-  findet Ihr auf meiner [Transparenz-Seite](/werbung/).{' '}
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/).
 </div>
 
 <div class="product-options text4"></div>

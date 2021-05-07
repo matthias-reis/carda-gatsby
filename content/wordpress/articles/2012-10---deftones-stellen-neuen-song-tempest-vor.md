@@ -62,7 +62,6 @@ Die beiden weiteren Singleauskopplungen findet Ihr  [hier](//2012/09/04/deftone
 
 **Natürlich möchte ich Euch den Song nicht vorenthalten. Hier sind für Euch die DEFTONES mit "Tempest"**
 
-{' '}
 <YouTube id="GIgNBxNvAJg" />
 
 _Take_ _Out the stories_ _They've put into your mind and brace_ _For the glory_ _As you stare into the sky... The sky beneath_ _I know you can't be tired..._ _Lay there_ _Stare at the ceiling_ _And switch back to your time just go ahead now try and taste it I know it should be ripe... thrust... ahead._ _Turning in circles_ _Been caught in a stasis_ _The ancient arrival_ _Cut to the end_ _I'd like to be taken_ _Apart from the inside_ _Then spit through the cycle right to the end_ _I wonder just how you shaped it To get back to your prize... thrust... ahead_ _Turning in circles_ _Been caught in a stasis_ _The ancient arrival_ _Cut to the end_ _I'd like to be taken_ _Apart from the inside_ _Then spit through the cycle right to the end_ _Wake for the glory_ _I know you can't be tired_

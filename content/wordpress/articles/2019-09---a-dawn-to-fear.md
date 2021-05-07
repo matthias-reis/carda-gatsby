@@ -90,7 +90,6 @@ Seine Taktik lautet: weitermachen. Wenn er beim Schreiben einmal feststeckt, bas
 
 Spätestens, wenn sich der Rest der Band dann in den kreativen Prozess einmischt, kommt alles so richtig in Gang. Die Band sieht sich als Kollektiv. Alles, was produziert wird, stammt aus ihrer Mitte. Gastmusiker sind auf "A Dawn To Fear" keine zu hören.
 
-{' '}
 <YouTube id="XoFJA24GhfA" />
 
 **Quellen:** [Bandcamp](https://cultofluna.bandcamp.com/album/a-dawn-to-fear), [Cult Of Luna](https://www.cultofluna.com/) **Fotos:** Aus meinem Archiv, Cult Of Luna Konzert 4. Mai 2014 Feierwerk, München **Artwork:** Cult Of Luna **Release-Datum:** "A Dawn To Fear" wurde offiziell am 20. September 2019 veröffentlicht.

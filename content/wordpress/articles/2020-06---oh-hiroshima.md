@@ -170,7 +170,6 @@ Seit ihrer Gründung haben Oh Hiroshima drei Alben und zwei EPs aufgenommen. Das
 
 ## "Oscillation" auf Spotify anhören
 
-{' '}
 <YouTube id="album/1IO8IdtECANuDb1AU4LIsQ" />
 
 ## "Oscillation" auf iTunes anhören
@@ -315,7 +314,6 @@ Since their foundation, Oh Hiroshima have recorded three albums and two EPs. The
 
 ## Listen to "Oscillation" on Spotify
 
-{' '}
 <YouTube id="album/1IO8IdtECANuDb1AU4LIsQ" />
 
 ## Listen to "Oscillation" on iTunes

@@ -69,8 +69,7 @@ erzählte mir Karl. Genau dorthin träume ich mich jetzt noch ein Weilchen und l
   src="https://bandcamp.com/EmbeddedPlayer/album=3494657479/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=14299967/transparent=true/"
   seamless=""
 >
-  {' '}
-  [Coastal___ by Willebrant](https://willebrant.bandcamp.com/album/coastal){' '}
+  [Coastal___ by Willebrant](https://willebrant.bandcamp.com/album/coastal)
 </iframe>
 
 <hr />
@@ -119,6 +118,5 @@ Karl told me. That's precisely where I'm dreaming myself away to now for a while
   src="https://bandcamp.com/EmbeddedPlayer/album=3494657479/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=14299967/transparent=true/"
   seamless=""
 >
-  {' '}
-  [Coastal___ by Willebrant](https://willebrant.bandcamp.com/album/coastal){' '}
+  [Coastal___ by Willebrant](https://willebrant.bandcamp.com/album/coastal)
 </iframe>

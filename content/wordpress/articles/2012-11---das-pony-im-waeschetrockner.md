@@ -84,5 +84,4 @@ Der Reisebericht über meinen Kurztripp in die Türkei verzögert sich leider no
 
 ## Song des Tages: "With A Twist"
 
-{' '}
 <YouTube id="OEj0z0maxzM" />

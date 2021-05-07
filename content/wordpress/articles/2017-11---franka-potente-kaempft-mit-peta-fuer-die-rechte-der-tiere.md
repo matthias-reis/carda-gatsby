@@ -67,5 +67,4 @@ Als die _Animal Times_ heute aus meinem Briefkasten purzelte, war ich freudig ü
 
 Ich finde es toll, wenn sich Menschen, die wie sie im Rampenlicht stehen, für die Tiere stark machen und zeigen, dass es auch anders geht. Es macht Hoffnung. Hoffnung, dass immer mehr Menschen umdenken und auf Dinge wie Fleisch im Essen, [Pelz am Kragen](/2014/11/fakepelz-echtpelz/) und andere Dinge, die dafür sorgen, dass Tiere unter unwürdigen Bedingungen leben müssen und schließlich von Menschenhand getötet werden, verzichten. Und sich für ein tierleidfreies Leben entscheiden. Doch nun genug geredet. Schaut Euch den Film an.
 
-{' '}
 <YouTube id="YoZ8af7eFy4" />

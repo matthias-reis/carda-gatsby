@@ -157,7 +157,6 @@ Es ist eine große Richtungsänderung notwendig, um das drohende Unheil aufzuhal
 
 ## "Lost" von Crippled Black Phoenix
 
-{' '}
 <YouTube id="IWv92fNR5jE" />
 
 <div id="⋆">[⋆] _English version_ </div>
@@ -244,7 +243,6 @@ Although the climate crisis will be the defining catastrophe of the next 100 yea
 
 A significant change of direction is needed to stop the impending doom. Humankind can do it. It has developed a system that has brought us so much progress and prosperity. It can also bend it in a direction that masters both - taking care of the environment, animals and the poor on the one hand while improving the quality of life, driving science to new discoveries, or letting humans colonise another planet on the other hand. But for that to happen, a lot has to change around the world in the next 30 years. We haven't even started yet.
 
-{' '}
 <YouTube id="IWv92fNR5jE" />
 
 Bilder/pictures: [Crippled Black Phoenix](https://crippledblackphoenix.net/)

@@ -57,7 +57,6 @@ Das erste schickte mir [@Ulle](http://thatgirlthere.wordpress.com/) heute über 
 
 ## Hier sind für Euch MUSE mit ihrem BBC Live Lounge Special:
 
-{' '}
 <YouTube id="hpjciAuKBT0" />
 
 Das zweite Video habe ich heute Morgen schon entdeckt. Es handelt sich um das offizielle Musik-Video zum Song 'I'm Shakin'' von Jack Whites aktueller Platte "Blunderbuss", das heute veröffentlicht wurde. **Jack White** lässt darin seine beiden Begleitbands (die Ihr vielleicht schon von seinem iTunes Festival Auftritt kennt) gegeneinander anspielen. Großes Kino, wie ich finde.
@@ -66,5 +65,4 @@ Ich habe den Videolink auch an Ulle weitergeleitet. Ihr Kommentar: "Uah! Jetzt s
 
 ## Hier ist für Euch JACK WHITE mit 'I'm Shakin'':
 
-{' '}
 <YouTube id="XkcGuZHPbKk" />

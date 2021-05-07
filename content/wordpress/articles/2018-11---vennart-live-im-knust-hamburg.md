@@ -71,7 +71,6 @@ Auch wenn es einigen am 14. November vielleicht schwer gefallen ist, zwischen de
 
 Ein paar Bilder, die ich mit meinem Mobiltelefon aufgenommen habe, habe ich Euch mitgebracht. Und Vennarts neuestes Video. Viel Freude damit. Genießt es.
 
-{' '}
 <YouTube id="OOef0N1mbKU" />
 
 <Gallery name="2018-vennart" />

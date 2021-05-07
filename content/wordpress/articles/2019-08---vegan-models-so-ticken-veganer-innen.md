@@ -153,5 +153,4 @@ Ich glaube, man bekommt die Menschen eher mit Geschichten dazu, über ihre Gewoh
 
 Hier ist für Euch Tobis Song "The Wind Cries Mary" von Jimi Hendrix. Ihr könnt den sympathischen Fotografen jederzeit [auf seiner Homepage besuchen](https://tobiashess-photography.com/).
 
-{' '}
 <YouTube id="ATDEtzAcTg0" />

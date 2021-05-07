@@ -136,7 +136,6 @@ Alles in allem kann ich nur sagen: Buy this Album! Für mich hat es  definitiv 
 
 ## Hier sind für Euch nochmal Muse mit "Madness":
 
-{' '}
 <YouTube id="82qSTzrAJoM" />
 
 _M-m-m-m-m-mad-mad-mad_ _M-m-m-m-m-mad-mad-mad_ _M-m-m-m-m-mad-mad-mad_ _M-m-m-m-m-mad-mad-mad_

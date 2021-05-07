@@ -53,7 +53,6 @@ Insgesamt soll das neue Tool Album 80 Minuten Spielzeit haben. Sieben Songs werd
 
 Wer sich die Platte kaufen will, hat die Möglichkeit, für rund 100 Euro eine von Adam Jones (Gitarre) höchstpersönlich gestaltete Special Edition inklusive wiederaufladbarem 4-Zoll-HD-Screen mit exklusiven Video-Aufnahmen, USB-Charger, zwei-Watt-Lautsprecher, dickem Booklet und Download-Card zu erstehen. Beim Plattenhändler seines Vertrauens kann man selbstverständlich auch eine Vinyl Ausgabe vorbestellen.
 
-{' '}
 <YouTube id="q7DfQMPmJRI" />
 
 **Music &amp; Artwork:** [Tool](https://toolband.com/)

@@ -78,7 +78,6 @@ Alles, was die Aufmerksamkeit der Menschen auf die Grausamkeit von Tierversuchen
 
 ## "Save Ralph" - Trailer
 
-{' '}
 <YouTube id="iS4WHDL3QFQ" />
 
 Quelle &amp; Bilder/Source &amp; pictures: [Humane Society International](https://www.hsi.org/save-ralph/)

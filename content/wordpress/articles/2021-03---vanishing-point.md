@@ -49,5 +49,4 @@ Die professionelle Produktion vereint mehr als 20 Jahre Musik. "Vanishing Point"
 
 ## Dirge – "Submarine"
 
-{' '}
 <YouTube id="4y5lR8cWjkM" />

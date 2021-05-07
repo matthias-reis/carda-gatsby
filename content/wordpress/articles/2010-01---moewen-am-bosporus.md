@@ -39,14 +39,10 @@ Diese Aufnahmen sind mir im Januar 2010 in Istanbul gelungen.
 
 <Gallery name="flickr/anneseagullsistanbul2009" />
 
-<blockquote>
-
-## Die Möwen
-
-Die Möwen sehen alle aus, als ob sie Emma hießen. Sie tragen einen weißen Flaus und sind mit Schrot zu schießen.
-
-Ich schieße keine Möwe tot, ich laß sie lieber leben - und füttre sie mit Roggenbrot und rötlichen Zibeben.
-
-Oh Mensch, du wirst nie nebenbei der Möwe Flug erreichen. Wofern du Emma heißest, sei zufrieden, ihr zu gleichen.
-
-</blockquote>
+> ## Die Möwen
+>
+> Die Möwen sehen alle aus, als ob sie Emma hießen. Sie tragen einen weißen Flaus und sind mit Schrot zu schießen.
+>
+> Ich schieße keine Möwe tot, ich laß sie lieber leben - und füttre sie mit Roggenbrot und rötlichen Zibeben.
+>
+> Oh Mensch, du wirst nie nebenbei der Möwe Flug erreichen. Wofern du Emma heißest, sei zufrieden, ihr zu gleichen.

@@ -181,7 +181,6 @@ Die Early Bird Tickets (leider schon ausverkauft) kosten 100 Euro, reguläre Tic
 
 Ich freue mich jetzt weiter und Ihr dürft so lange ein Bisschen Musik hören. Hier sind für Euch AND SO I WATCH YOU FROM AFAR mit Beautiful Universe Master Champion.
 
-{' '}
 <YouTube id="F--HJDhYDdg" />
 
 ## Wegweiser DUNK!festival

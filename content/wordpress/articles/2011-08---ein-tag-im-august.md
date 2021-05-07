@@ -74,5 +74,4 @@ Zu Hause angekommen treffe ich meine Nachbarin im Treppenhaus. „Jedn Dog der s
 
 ## Song des Tages Gispert zu Knyphausen – "Sommertag"
 
-{' '}
 <YouTube id="py7PhN9be9w" />

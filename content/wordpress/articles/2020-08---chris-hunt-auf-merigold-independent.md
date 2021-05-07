@@ -61,7 +61,6 @@ Die Auskopplung "Suffocation" startet mit meditativen Soundsphären, die sich zu
 
 Hier ein kleiner Tipp von mir: Es lohnt sich auf jeden Fall, das Stück laut zu hören! Die Regie zum Video führte die visuelle Künstlerin Samantha Garcia.
 
-{' '}
 <YouTube id="araUHZhr0WM" />
 
 Christ Hunt ist ein Filmemacher und Musiker aus aus Atlanta. Mithilfe verspielter Szenarien und texturierter Klanglandschaften erlangt er Zugriff zur Schnittstelle des Existenziellen und Ästhetischen. 2016 veröffentlichte er auf dem Label Psych Army mit "Tomb I &amp; II" zwei packende Debüt-EPs.
@@ -115,7 +114,6 @@ The pre-released song "Suffocation" starts with meditative sound spheres, which 
 
 Here's a little tip from me: It's definitely worth listening to this piece loud! The video was directed by the visual artist Samantha Garcia.
 
-{' '}
 <YouTube id="araUHZhr0WM" />
 
 Christ Hunt is a filmmaker and musician from Atlanta. With the help of subtle scenarios and textured soundscapes, he accesses the intersection of the existential and aesthetic. In 2016 he released his two gripping debut EPs "Tomb I &amp; II" on Psych Army Records.

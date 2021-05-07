@@ -119,7 +119,6 @@ Die Arbeiter greifen sich die Küken nach und nach vom Band und nehmen sie in Au
 
 </blockquote>
 
-{' '}
 <YouTube id="NZHJr6-vRKY" />
 
 **Fußnoten / Quellen:**

@@ -176,7 +176,6 @@ Durch die leckeren Gerichte von Attila Hildmann habe ich dann gesehen, wie schma
 **Anne:** Bist du auch auf Schmuck- oder Vegan-Messen unterwegs?
 
 <p class="p1">
-  {' '}
   __Nina:__ Noch nicht mit eigenem Stand. Aber das wird auch eins meiner größten
   Ziele für 2016 sein. Ich besuche solchen Messen und Conventions aber super
   gerne und habe eigentlich schon immer vor mich hingeträumt und dort einen

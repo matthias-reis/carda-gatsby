@@ -139,12 +139,10 @@ To be continued...
 
 ## Nachricht von Anonymus: Operation Facebook, Nov 5 2011
 
-{' '}
 <YouTube id="maTi2xO28xo&amp;feature=player_embedded" />
 
 ## Video des Tages: Tocotronic - Digital ist besser
 
-{' '}
 <YouTube id="8iLKjv2Sz04" />
 
 Foto: Gerd Altmann pixelio.de

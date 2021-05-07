@@ -74,7 +74,6 @@ Forscher⋆innen fanden heraus, dass der Atmosphäre pro Jahr rund 160.000 Tonne
 
 ## Hat Island seinen letzten Wal getötet?
 
-{' '}
 <YouTube id="SCgHoRxAgRw" />
 
 Quellen/sources: [Mongabay](https://news.mongabay.com/2020/04/iceland-wont-be-killing-any-whales-this-year/), [Live Kindly](https://www.livekindly.co/iceland-has-killed-its-last-whale-industry-shuts-down/), [PLoS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012444)

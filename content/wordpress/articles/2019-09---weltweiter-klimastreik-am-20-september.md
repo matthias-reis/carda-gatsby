@@ -57,5 +57,4 @@ Neben Fridaysforfuture Hamburg sind in Hamburg auch das [Tierrechtsaktivistenbü
 
 In diesem Sinne: Bis morgen!
 
-{' '}
 <YouTube id="IB5RyvdRAcU" />

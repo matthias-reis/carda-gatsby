@@ -97,7 +97,6 @@ Wer auch gerne eine tolle Handtasche nähen möchte: Die komplette Nähanleitung
 
 Seid so lieb und schickt mir ein Foto, wenn Ihr fertig seid mit dem Nähen! Die Anleitung ist wirklich klasse, zusätzlich gibt es noch ein Video, ich bette es mal hier mit ein, mir hat es beim Nähen sehr geholfen. Vielen Dank an Patty Doo an dieser Stelle!
 
-{' '}
 <YouTube id="azq48f3065s" />
 
 ## Link zum Schnittmuster

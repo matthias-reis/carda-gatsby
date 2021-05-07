@@ -72,7 +72,6 @@ Baulta sind mit ihrem neuen Album dem Wunsch, nach innen zu schauen gefolgt. Dab
 
 ## Baulta – "While The World Sleeps"
 
-{' '}
 <YouTube id="-2gF-WDtqAU" />
 
 <hr />
@@ -120,5 +119,4 @@ With their new album, Baulta have followed their desire to look inwards. The out
 
 ## Baulta – "While The World Sleeps"
 
-{' '}
 <YouTube id="-2gF-WDtqAU" />

@@ -124,9 +124,8 @@ Wahrscheinlich ist das, wie eigentlich alles, schon Jahrzehnte zuvor auf 4chan p
 Empfänger ADH &amp; BEH Commerzbank IBAN DE53 200 400 600 200 400 600 Stichwort ARD: "Erdbeben Nepal" BIC COBADEFFXXX www.spendenkonto-nothilfe.de
 
 <small>
-  {' '}
   **Interessantes:** YOLO bei [Wikipedia](http://de.wikipedia.org/wiki/YOLO)
-  Carpe Diem bei [Wikipedia](http://de.wikipedia.org/wiki/Carpe_diem){' '}
+  Carpe Diem bei [Wikipedia](http://de.wikipedia.org/wiki/Carpe_diem)
 </small>
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)

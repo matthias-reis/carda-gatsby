@@ -29,5 +29,5 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: Gesehen in <a href="http://cardamonchai.com/2009/07/mering/">Mering</a> bei Augsburg
+subTitle: Gesehen in Mering bei Augsburg
 ---

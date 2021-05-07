@@ -87,7 +87,6 @@ Nicht nur, weil das, zusammengefasst in einer aktuellen Pressemitteilung, alles 
 
 Chevelle – "Self Destructor"
 
-{' '}
 <YouTube id="QhPn5EPGN4c" />
 
 Bilder/Quelle/Pictures/Source: Epic Records, [Chevelle](https://getmorechevelle.com/)

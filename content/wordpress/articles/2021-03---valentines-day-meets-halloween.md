@@ -106,7 +106,6 @@ Ich glaube, wir haben mit unserem Album "Possession" geschafft, das auszudrücke
 
 ## The Camel City Blackouts – "Angels"
 
-{' '}
 <YouTube id="4U-a-NVDUfc" />
 
 <hr />
@@ -188,7 +187,6 @@ I now had the chance to talk to Ryan about the project and their plans for the f
 
 ## The Camel City Blackouts – "Angels"
 
-{' '}
 <YouTube id="4U-a-NVDUfc" />
 
 &nbsp;

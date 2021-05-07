@@ -99,7 +99,7 @@ Guten Appetit! Verbrennt Euch nicht die Pfoten! &lt;3
 
 <div style="clear: both; background: #fff; border-radius: 15px; padding: 20px; text-align: center;">
   Das Rezept jetzt runterladen und ausdrucken [Download
-  starten](/wp-content/uploads/2015/03/fruehstueck-a-la-wilder-westen.pdf){' '}
+  starten](/wp-content/uploads/2015/03/fruehstueck-a-la-wilder-westen.pdf)
 </div>
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)

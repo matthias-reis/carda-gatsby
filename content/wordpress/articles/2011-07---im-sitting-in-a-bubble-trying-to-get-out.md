@@ -40,5 +40,4 @@ Der Song des Tages kommt heute von der schwedischen Band JUNIP mit ihrem großar
 
 ## **Song des Tages: Junip - "To The Grain"**
 
-{' '}
 <YouTube id="FmLFJOvWGw0" />

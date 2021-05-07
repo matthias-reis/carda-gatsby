@@ -79,7 +79,6 @@ Studienleiterin Wheeler bekräftigt die Aussage ihrer Kollegin:
 
 Um die Wissenschaftler⋆innen bei dieser wichtigen Arbeit zu unterstützen, müssen wir alle gegen den Klimawandel ankämpfen. Je mehr wir tun, desto besser und am besten so schnell wie möglich. Dass bereits eine der widerstandsfähigsten Arten mit den Auswirkungen zu kämpfen hat, sollte der Menschheit wirklich zu denken geben.
 
-{' '}
 <YouTube id="mzmO3CpIzHA" />
 
 Quelle/source: [ARC Centre of Excellence Coral Reef Studies](https://www.coralcoe.org.au/media-releases/future-too-warm-for-baby-sharks), [Scientific Reports](https://www.nature.com/articles/s41598-020-79953-0)

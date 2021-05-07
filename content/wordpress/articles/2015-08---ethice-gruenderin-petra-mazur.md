@@ -45,10 +45,9 @@ subTitle: „Es ist Zeit, dem Leiden der Tiere ein Gesicht zu geben!“
 />
 
 <p class="p1">
-  {' '}
   __Über einen netten Interviewpartner wurde mir vor Kurzem Petra Mazur,
   Gründerin des Labels ethice und kreativer Kopf des ethice Online-Shops
-  vorgestellt.__{' '}
+  vorgestellt.__
 </p>
 
 "Mit der Frau müssen Sie ein Interview machen, Sie hat Interessantes zu erzählen!“ Gesagt getan, ich schrieb Petra an und hatte schon am nächsten Tag eine sehr nette Antwort mit einer Zusage im Postfach **.**

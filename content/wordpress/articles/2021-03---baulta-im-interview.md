@@ -247,7 +247,6 @@ In den Anfangsjahren von Baulta haben wir viel Oceansize gehört. In den letzten
 
 ## Baulta – "Third"
 
-{' '}
 <YouTube id="wR7NTaa1jD8" />
 
 <hr />
@@ -469,5 +468,4 @@ In the early years of Baulta, we listened to a lot of Oceansize. I love to liste
 
 ## Baulta – "Third"
 
-{' '}
 <YouTube id="wR7NTaa1jD8" />

@@ -96,5 +96,4 @@ Wie gefällt Euch das neue Pearl Jam Album? Ich finde, es ist eine Wucht, ich we
 
 Mathis, dieser Song ist für Dich. [Weißt Du noch](//2012/07/29/isle-of-wight-festival-2012/) ?
 
-{' '}
 <YouTube id="qQXP6TDtW0w&amp;w=560&amp;h=315" />

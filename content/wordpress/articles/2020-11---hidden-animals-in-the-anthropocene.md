@@ -52,7 +52,6 @@ Das Anthropozän definiert die jüngste geologische Zeitperiode der Erde. Sie wi
 
 [Bestellen könnt Ihr das Buch hier](https://amzn.to/32QSkaA).
 
-{' '}
 <YouTube id="V69c27TuHxc" />
 
 Quelle/source: [We Animals Media Hidden Campaign](https://weanimalsmedia.org/2020/05/04/announcing-hidden-animals-in-the-anthropocene/)

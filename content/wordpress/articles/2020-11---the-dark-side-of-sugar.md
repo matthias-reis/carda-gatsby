@@ -85,7 +85,6 @@ Risen from Shadows wurde von Marcel Neumann und Stephan Moritz gegründet. Der K
 
 ## The Dark Side Of Sugar – "Suga Suga"
 
-{' '}
 <YouTube id="4sKeTqDU4Zw" />
 
 Quellen/sources: [BLZ Datenzentrum](https://www.bzl-datenzentrum.de/versorgung/versorgungsbilanz-zucker-grafik/), Pressemitteilung Serviceplan, [darksideofsugar.com](https://darksideofsugar.com) Musikproduktion: Mokoh Music, Musikproduzenten: Marcel Neumann &amp; Stephan Moritz Filmproduktion: Simon &amp; Paul Regie: Carlo Oppermann Fotograf: Marco Justus Schöler Konzept und Project Lead: Serviceplan Berlin (Media: Mediaplus)

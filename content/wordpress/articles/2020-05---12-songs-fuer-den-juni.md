@@ -55,7 +55,6 @@ Auch dieses Mal sind wieder ein paar alte Bekannte dabei. Sicherlich werdet Ihr 
 
 Mein Album des Monats ist "Emanate" von Yair Elazar Glotman und Mats Erlandsson. Das Vinyl befindet sich derzeit auf dem Weg zu mir. Drei Jahre nach ihrem ersten gemeinsamen Album haben es Yair Elazar Glotman und Mats Erlandsson erneut gewagt und eine neue Platte aufgenommen. Das Ergebnis ist ein 50-minütiges Klangbad, das es in sich hat.
 
-{' '}
 <YouTube id="uJmx1dQQw-A" />
 
 ## Ghost Lode - "Week Six" vom Album "Lenten Distance"
@@ -67,22 +66,20 @@ Mich begeistert diese Platte, seit ich sie das erste Mal gehört habe. Ich höre
   src="https://bandcamp.com/EmbeddedPlayer/album=3162870095/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=282277019/transparent=true/"
   seamless=""
 >
-  {' '}
-  [Lenten Distance by Ghost Lode](http://ghostlode.bandcamp.com/album/lenten-distance){' '}
+  [Lenten Distance by Ghost
+  Lode](http://ghostlode.bandcamp.com/album/lenten-distance)
 </iframe>
 
 ## Violet Cold - "All Heroes Are Dead" vom Album "Noir Kid"
 
 Etwas härtere Töne schlagen Violet Cold an. Sie haben ihr Album "Noir Kid" bereits Anfang Mai veröffentlicht. Ihrem atmosphärischen Black Metal sind sie seit dem letzten Werk "Kosmik" von Januar 2019 treu geblieben.
 
-{' '}
 <YouTube id="R-lBT2GJ9yE" />
 
 ## The Used - "Paradise Lost, A Poem By John Milton" vom Album "Heartwork"
 
 Dass es was Neues von The Used gibt, ist für mich eine kleine Sensation! Die neue Platte klingt - wie soll ich es sagen - erholt. Ob die krassen Zeiten vorbei sind? Hoffen wir darauf und auf immer mehr musikalischen Nachschub. Beim Artwork ist man dem alten Stil treu geblieben. Ich freue mich sehr, dass die wilde Bande aus Orem, Utah wieder da ist.
 
-{' '}
 <YouTube id="LoGTY0bflh4" />
 
 ## This Will Destroy You - "Birth" vom Album " **Variations &amp; Rarities 2004-2019, Vol 1"**
@@ -91,7 +88,6 @@ Matze liebt diesen Song und hört ihn gerade täglich. In Verbindung mit dem Res
 
 "This Will Destroy You haben ein Album mit B-Seiten, Roh- oder Vorgängerversionen bekannter Stücke und Special Editions herausgebracht. Das eigentlich Außergewöhnliche an der an sich schon tollen Post-Rock Scheibe ist, dass sie homogener ist, als ihr Titel erahnen lässt. Fast schon wie ein in sich stimmiger Filmsoundtrack. Ich hab den Eröffnungstitel für Euch ausgewählt - wie so oft bei Post-Rock gilt auch hier: bitte das ganze Album anhören."
 
-{' '}
 <YouTube id="iV910PooWFE" />
 
 ## Einstürzende Neubauten - "Alles in Allem" vom Album "Alles in Allem"
@@ -100,7 +96,6 @@ Matze liebt diesen Song und hört ihn gerade täglich. In Verbindung mit dem Res
 
 "Die deutschen Avantgarde Pioniere haben eine neue Platte herausgebracht. Inzwischen gibt es die Band um Blixa Bargeld schon seit 40 Jahren. Ihrer Musik merkt man dieses Alter allerdings nicht an. Auch hier steht wie bei TWDY das Album im Vordergrund, was es schwer macht einen Titel herauszupicken. Ich habe den eingängigen Titeltrack gewählt, der mit weniger experimentellem Sound aber ebenso enigmatischen Texten ('Unter der Zelle hängt ein Lichtfraß'), als der Rest der Platte daher kommt."
 
-{' '}
 <YouTube id="0Nz9t_4XLcc" />
 
 ## Mogwai - "I'm Not Going Where I Don't Get Back" vom Soundtrack zu "ZEROZEROZERO"
@@ -109,7 +104,6 @@ Und wieder ein Soundtrack von diesen lauten Lieblings-Schotten. Matze hatte die 
 
 "Eine neue Mogwai Platte hat es noch immer in die obersten Ränge unserer Jahrescharts geschafft. Der atmosphärische Soundtrack zur Mafia-Serie 'ZEROZEROZERO' ist dabei sicher keine Ausnahme. Er zeigt zudem einmal mehr (nach 'Kin', 'Atomic', 'Les Revenants' und 'Zidane') dass Soundtracks ihre Filme künstlerisch durchaus überflügeln können. Was nicht bedeuten soll, dass die hier genannten Filme und Serien nicht gut sind. Ich kann jedem auch die Netflix Serie 'ZEROZEROZERO' ans Herz legen. Ich habe bewusst nicht den Titelsong ausgewählt, sondern das treibende, Spannung aufbauende zweite Stück, das mich an manchen Stellen an einen weiteren hervorragenden Soundtrack erinnert: den zum 'Tron' Remake von Daft Punk. An anderen Stellen des Albums kann man durchaus Parallelen zum Soundtrack der Schwester-Serie 'Gomorrha' heraushören. Der stammt von der italienische Post Rock Band Mokadelic."
 
-{' '}
 <YouTube id="3To4iNqKkz8" />
 
 ## Archive - "Nothing Else" - Vorauskopplung aus dem Album "Versions" (erscheint im August)
@@ -118,7 +112,6 @@ Auch diese Band begleitet uns alle schon sehr lange. Matze erzählt:
 
 "Im Jahr 1996 haben Archive ihr erstes Album 'Londinium' herausgebracht und damit den Grundstein für ihre lange, vielseitige und Highlight-reiche Karriere zwischen elektronischer Musik, Hip Hop, Rock und Progressive Rock gelegt. Einen ersten Vorgeschmack auf ihr neues Album 'Versions' gibt uns der Song 'Nothing Else'. Es handelt sich dabei um eine Neuinterpretation der Perlen auf eben beschriebener erster Platte. Wer die Geschichte der Band mitverfolgt hat, sollte sich die Zeit nehmen, sich beide Versionen hintereinander anzuhören. Die Evolution des Sounds ist wunderbar klar zu erkennen. Das neue Stück ist - eigenständig betrachtet - ein weiteres Highlight der Band aus London."
 
-{' '}
 <YouTube id="5WR9mOh8HAA" />
 
 ## Matt Bellamy - "Tomorrow's World"
@@ -131,7 +124,6 @@ Das sagt Matt über sein Soloprojekt:
 
 "Ich habe nie ernsthaft darüber nachgedacht, etwas außerhalb von Muse zu machen, weil ich diese Band liebe und wir so viel Spaß zusammen haben und Musik machen und all das. Doch ich dachte, wenn ich einen eigenen Song mache, dann während des Lockdown, denn wir versuchen schließlich alle uns zu beschäftigen."
 
-{' '}
 <YouTube id="Zo-IlcrDrw4" />
 
 ## Puscifer - "Apocalyptical"
@@ -143,7 +135,7 @@ Valentin zum neuen Puscifer Track:
   Keenans Projekt Puscifer, dass sich mit der aktuellen Lage befasst und in den
   Maynard im passenden Video dazu mal wieder seinen ganz speziellen Humor
   beweist."
-  <YouTube id="Hj_bTbfAEsc" />{' '}
+  <YouTube id="Hj_bTbfAEsc" />
 </p>
 
 ## Figure Four - "State Of Mind" vom Album "Suffering The Loss"
@@ -152,7 +144,6 @@ Das erzählt Valentin über diesen Song:
 
 "Mein dritter Song für diesen Monat ist eine härtere Nummer. Ein kompromissloses Stück Hardcore Punk von der kanadischen Band Figure Four aus dem Jahr 2003. Er stamm vom in diesem Jahr veröffentlichten Album 'Suffering the Loss', welches bis dato leider auch ihr aktuellstes geblieben ist. Die Credits hierfür muss ich an meinen Kumpel richten, der immer gute Tipps aus den Bereichen Trash Metal, Punkrock und Hardcore für mich bereithält!"
 
-{' '}
 <YouTube id="wAAR0ogzGcs" />
 
 ## The Offspring "Here Kitty Kitty"
@@ -163,12 +154,10 @@ Das sagt Valentin über diesen Song:
 
 Hinweis der Redaktion: Der Song stammt ursprünglich von der Clinton Johnson Band. The Offspring haben ihn aufgenommen, um ihren Fans eine Freude zu bereiten. Auf iTunes und Spotify ist er derzeit in ihrer Version noch nicht zu finden. Daher haben wir dort in unserer aktuellen Playlist einen anderen schönen Song von den Herrschaften für Euch bereitgestellt.
 
-{' '}
 <YouTube id="mYa02QAcAkA" />
 
 ## Unsere Playlists
 
-{' '}
 <Playlist
   spotify="7z2UgP1btP8Sa7sboX5UX3"
   itunes="2020-05-25-die-drei-von-der-bande/pl.u-29NyT8b5452"

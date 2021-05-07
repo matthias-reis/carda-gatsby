@@ -78,7 +78,6 @@ Neben [Taschen](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=
 
 ## Hier könnt Ihr sehen, wo und wie die tollen Tube Taschen hergestellt werden
 
-{' '}
 <YouTube id="p8aU09nPYAk" />
 
 _\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _

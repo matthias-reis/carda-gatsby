@@ -53,5 +53,4 @@ Das ist dieser Löffel, den Du immer wieder mitwäschst, er wird einfach nicht s
 
 ## Song des Tages: Bad Books – "You wouldn´t have to ask"
 
-{' '}
 <YouTube id="1-KcNBY83CI" />

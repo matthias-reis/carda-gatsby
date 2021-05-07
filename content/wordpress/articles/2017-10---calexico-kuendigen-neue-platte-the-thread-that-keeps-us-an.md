@@ -103,7 +103,6 @@ Ich bin schon sehr gespannt auf das Album im Januar und freue mich auf neue Insp
 
 ## End Of The World With You
 
-{' '}
 <YouTube id="TU1lFU__2fI" />
 
 <blockquote>

@@ -96,5 +96,4 @@ PS: Falls ich es schaffe, gibt es heute Abend noch einen weiteren Beitrag mit En
 
 ## Song des Tages: White Rabbit - "Temporary"
 
-{' '}
 <YouTube id="ZLnvXE8iM7k" />

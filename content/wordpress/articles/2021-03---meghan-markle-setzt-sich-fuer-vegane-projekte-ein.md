@@ -65,5 +65,4 @@ Bild/Picture: Screenshot from the video
 
 ## Oprah Winfrey berichtet über ihr Interview mit Meghan und Harry
 
-{' '}
 <YouTube id="auOrYTASVqQ" />

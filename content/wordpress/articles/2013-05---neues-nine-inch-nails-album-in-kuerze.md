@@ -168,12 +168,10 @@ _Ich herze Euch und wünsche Euch morgen einen tollen Tag! Und heute einen schö
 
 **Hier sind für Euch NINE INCH NAILS mit CLOSER live vom Woodstock 1994. Ein sehr prägendes Konzert für mich:**
 
-{' '}
 <YouTube id="bEdqqyxoWuA" />
 
 **Und hier noch ein sehr schöner Konzertausschnitt von Ihrem Konzert in Osaka 2007. Ich habe es erst vor Kurzem entdeckt. Kuckt es Euch unbedingt bis zum Ende an:**
 
-{' '}
 <Vimeo id="/66919663" />
 
 _Dieser Artikel ist für Valentin_

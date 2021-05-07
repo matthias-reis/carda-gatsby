@@ -104,7 +104,6 @@ _Fulda                    106.000_ _Würzburg            133.000
 
 Das war´s jetzt aber für heute, erst wochenlang nichts und dann so ein Redeschwall. Sicher ist das jetzt ein ziemliches Durcheinander, das sind die Dinge, die ich in den letzten Tagen zusammengetragen habe. Recht herzlichen Dank für die Aufmerksamkeit an alle, die bis hierhin durchgehalten haben. Ich hoffe, wir lesen uns bald wieder, vielleicht ja auch bei Twitter. Als Belohnung für´s Lesen gibt es noch die Musik, die mich in den letzen Tagen beschäftigt hat:
 
-{' '}
 <YouTube id="x-FwFSJW7_k" />
 
 STAR ANNA &amp; THE LAUGHING DOGS live on KEXP

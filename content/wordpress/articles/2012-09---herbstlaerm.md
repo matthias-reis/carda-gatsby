@@ -148,5 +148,4 @@ Um Ermüdungserscheinungen unter meinen Lesern zu vermeiden, endet dieser Text h
 
 _ \_\_\_\_ _ **Zum Aufwachen (und Aufwärmen) sind hier für Euch die DEFTONES mit 'Bored'**
 
-{' '}
 <YouTube id="-WdYo3WlETY" />

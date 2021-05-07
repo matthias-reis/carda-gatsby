@@ -177,7 +177,6 @@ Der Wissenschafter entschied sich aus ethischen Gründen dazu, Veganer zu werden
 
 ### Marc Bekoff bei den "Voiceless Awards" 2010
 
-{' '}
 <YouTube id="MEXnKdTwazM" />
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen Bestandteil meines Blogs etablieren. Meine Lesewut hat sich [seit ich gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht habe](https://amreis.de/hermetiker/), sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto mehr möchte ich darüber berichten.

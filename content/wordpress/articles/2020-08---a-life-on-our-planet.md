@@ -85,7 +85,6 @@ sagte Attenborough gegenüber dem Mirror.
 
 ## "A Life On Planet Earth" - Trailer
 
-{' '}
 <YouTube id="r-91umZ7cQE" />
 
 Quellen: [The Beet](https://thebeet.com/go-vegetarian-or-cut-back-on-meat-to-save-the-planet-says-david-attenborough/), [Mirror](https://www.mirror.co.uk/3am/celebrity-news/david-attenborough-urges-public-ditch-22577710), [David Attenborough](https://www.attenborough.film/), [IMDB](https://www.imdb.com/title/tt11989890/)

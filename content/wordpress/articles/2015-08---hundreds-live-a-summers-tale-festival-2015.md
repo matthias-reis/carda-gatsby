@@ -44,7 +44,6 @@ Highlights des Konzerts ganz klar: "Happy Virus" und das Björk-Cover "Who Is It
 
 <Gallery name="flickr/annehundredsasummerstale2015" />
 
-{' '}
 <YouTube id="U_QrYmw2wjQ" />
 
 ## A Summer's Tale 2015 Wegweiser

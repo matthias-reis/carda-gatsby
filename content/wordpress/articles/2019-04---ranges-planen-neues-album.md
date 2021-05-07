@@ -37,7 +37,6 @@ Die Band, die auch beim [Dunk Festival 2018](/2018/05/dunkfestival-2018-postrock
 
 Wir dürfen sehr gespannt sein. Bis es soweit ist, packe ich mir die [Live At Dunk! Fest 2018](https://dunkrecords.com/products/ranges-live-at-dunk-fest-2018-2xlp) Platte auf die Ohren und freue mich über die tolle Musik. Vielen Dank A Thousand Arms Records für diese erfreuliche Pressemitteilung am Morgen!
 
-{' '}
 <YouTube id="A8pYkj-Yprs" />
 
 Ranges - das sind C. J. Blessum und Joey Caldwell an den Gitarren, Jared Gabriel am Bass und Mark Levy am Schlagzeug. Gegründet hat sich die Combo 2013 in Bozeman, Montana. Auch wenn einen der Bandname an etwas Klares denken lässt - mit Eingängigkeit haben die vier Musiker wenig ab Hut. Was ihre Werke jedoch weder verstiegen, noch unzugänglich macht.
@@ -54,7 +53,6 @@ Trotz des oder gerade durch den bewussten Verzicht auf Lyrics, schaffen sie es, 
 
 ## Videoankündigung zum neuen Ranges Album "Babel"
 
-{' '}
 <YouTube id="0zC6784zzrU" />
 
 Für das Titelbild über diesem Artikel habe ich mich bewusst entschieden. Auch wenn ich es nicht in Montana, sondern in Irland aufgenommen habe, passt es, finde ich, sehr gut zu Band. Ranges sind für mich in diesem Fall keine Bereiche, sondern vielmehr unendliche Weiten.

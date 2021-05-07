@@ -62,56 +62,48 @@ Zu jedem Song haben wir einen kleinen Kommentar für Euch vorbereitet, damit Ihr
 
 Bei diesem Song handelt es sich um die erste Auskopplung vom neuen Opeth Album. Matzes Kommentar dazu: "Ein cooler Metal Song, vielleicht (und hoffentlich nicht) der beste auf der neuen Platte. Aber er rockt schon mal ganz gut, besonders im ersten Teil! Für mich ist er diesen Monat auf  jeden Fall die Nummer eins."
 
-{' '}
 <YouTube id="yAh7XQ0whvg" />
 
 ## David Bowie - "Space Oddity" vom Album "Space Oddity"
 
 Matze meint: "OK, eigentlich sollte das die Nummer eins auf _jeder_ Liste sein. Allerdings sollte man neuen Sachen zumindest manchmal einen kleinen Vorzug geben. 'Space Oddity' von [David Bowie](/2016/01/rip-david-bowie-abschied-von-einer-ikone/) ist inzwischen 50 Jahre und passt im Moment einfach sehr gut - im Kontext mit der Mondlandung hatte ich ihn bisher überhaupt noch nicht gehört."
 
-{' '}
 <YouTube id="iYYRH4apXDo" />
 
 ## We Lost the Sea - "Towers" vom Album "Towers"
 
 Noch eine Vorauskopplung. Matze sagt dazu "Das ist mal wieder ein wahnsinnig gutes Stück Post-Rock - für mich geht es schon fast in Richtung Post-Metal. Achtet unbedingt auf den harten Break nach ungefähr siebeneinhalb Minuten bei insgesamt 15 Minuten Gesamtlänge. Genial ist auch der proggige Spannungsanstieg zum Ende hin. Ich freue mich schon total darauf, dieses Stück demnächst mal irgendwo als letzte Zugabe live zu erleben."
 
-{' '}
 <YouTube id="1gd4_usFLKI" />
 
 ## Thrice - "Deeper Wells" von der EP "Palms - Deeper Wells"
 
 Matzes viertes Stück stammt von einer unserer gemeinsamen Lieblingsbands Thrice. Auch hierzu findet er lobende Worte: "Nach dem für mich persönlich okayen Album aus dem letzten Jahr haben Thrice nun nochmal eine EP nachgelegt. Der Titeltrack 'Deeper Wells' ist für mich die beste Nummer darauf. Sie erinnert mich stark an ihre härteren Tracks auf 'Vheissu'. Kurz, etwas punkig und dafür wenig proggig treibt der Song seine Hörer\*innen permanent an."
 
-{' '}
 <YouTube id="mvGavLB5bqc" />
 
 ## Slipknot "Solway Firth" vom Album "We Are Not Your Kind"
 
 Die Vorauskopplung vom neuen Slipknot Album "We Are Not Your Kind", "Solway Firth", hat Valentin auf die Liste gesetzt: "Tatsächlich Was Neues von Slipknot!", sagt er. Der neue Song haut wirklich ziemlich rein und das Video ist leider nichts für schwache Gemüter" - wir fühlen uns ein bisschen in die gute alte Zeit zurückversetzt und sind schon sehr gespannt auf den Rest des Albums. Mal sehen, was Corey Taylor und Co. da noch so alles gebastelt haben.
 
-{' '}
 <YouTube id="V3ADK6gsDGg" />
 
 ## Korn - "You'll Never Find Me" vom Album "The Nothing"
 
 Auch dieser Song ist eine Vorauskopplung und: noch eine Band, die uns an die gute alte Zeit erinnert. Valentin findet "'You'll Never Find Me' hat es mir irgendwie angetan. Das Stück ist ziemlich 'Back To The Roots'. Irgendwie hat mir Korn genau wie Slipknot gefehlt."
 
-{' '}
 <YouTube id="As8x9xqdCtc" />
 
 ## Mackeson - "Bye Bye Bay"
 
 Valentin hat dieses Stück in einer etwas "poppigeren" Version in der Serie "The Rookie" entdeckt. Im Video ist die Akustik-Variante zu hören. "Von Mackeson gibt es bisher nur eine knappe Handvoll Songs. Ich bin mehr als gespannt, was uns von ihm noch erwartet." - ich habe sicherheitshalber auch gleich mal den Youtube Channel und sein iTunes Profil abonniert.
 
-{' '}
 <YouTube id="MQK5FjJUpKE" />
 
 ## Atmosphere - "Virgo" vom Album "Mi Vida Local"
 
 Atmosphere wollte Valentin schon seit längerer Zeit auf eine unserer Listen setzen: "Ich schätze sie schon seit Jahren besonders wegen der Texte ihres Rappes Slug sehr." Die Combo aus Minneapolis gründete sich im Jahr 1994 und hat seither zahlreiche Alben und EPs aufgenommen. "Virgo ist das dritte Stück auf dem 2018 erschienenen Werk "Mi Vida Local".
 
-{' '}
 <YouTube id="w9N_qFCdH3U" />
 
 ## UNKLE "Only You" vom Album "The Road Part II / Lost Highway"
@@ -128,14 +120,12 @@ Toska (nicht zu verwechseln mit dem Richard Dorfmeister Projekt "Tosca" - auch g
 
 Das anonyme Musik-Kollektiv Sleep Token beschäftigt mich schon länger. Mich fasziniert nicht nur das Mysterium um die Musiker, sondern auch ihre außerirdische Art, mit Klängen umzugehen. Die neue Single ist ganz frisch erschienen und macht Lust auf mehr. Vielleicht folgt auf die Alben "One" und "Two" ja bald "Three" - hoffen wir es.
 
-{' '}
 <YouTube id="FrbwVzgvl3E" />
 
 ## Her Name Is Calla "The Dead Rift" vom Album "Animal Choir"
 
 Das frisch erschienene Album von Her Name is Calla haut mich komplett vom Sockel. Es ist genau das, was ich musikalisch im Moment gebraucht habe. Der Song "The Dead Rift" ist melodisch, bunt, nachdenklich und wild zugleich. Dadurch hebt es sich ein kleines bisschen vom Rest der Platte ab, die streckenweise elektronisch-eklektisch und fast schon rave-mäßig um die Ecke kommt und dennoch ihre ruhigen Momente hat. Für mich eine Scheibe, die man auf jeden Fall im Plattenregal stehen haben sollte. Die 2004 in Leeds gegründete Post-Rock Band hat definitiv noch viel mehr Aufmerksamkeit verdient.
 
-{' '}
 <YouTube id="90M585muQBM" />
 
 ## iTunes und Spotify Fans können die Liste hier hören

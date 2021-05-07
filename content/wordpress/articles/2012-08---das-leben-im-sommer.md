@@ -73,8 +73,6 @@ Liebe Grüße aus der Mittagspausensonne hinter dem Bürofenster. \_\_
 
 ## Song des Tages Weezer – "Island In The Sun"
 
-{' '}
-
 <YouTube id="w5PG3yiSx-E" />
 
 RIP Mikey Welsh

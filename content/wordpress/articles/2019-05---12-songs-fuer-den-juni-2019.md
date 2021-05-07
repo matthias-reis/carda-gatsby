@@ -61,14 +61,12 @@ Ich wünsche Euch viel Spaß beim Hören. Von Post-Rock über Jazz, Indie, Metal
 
 The Chasing Monster sind eine Band, die mich, seit ich sie vor ein paar Jahren das erste Mal gehört habe, schwer beeindruckt. Spätestens, als ich sie [2017 auf dem Dunk Festival](/2017/06/dunk-festival-2017-eindruecke-und-bilder/) zusammen mit Matze live erleben durfte, war es endgültig um mich geschehen. Genauso um Matze - er lernte The Chasing Monster bei dem Open Air in Belgien kennen und ist seither verzaubert. Aus diesem Grund hat er auch "Oceano" an die Spitze seiner Auswahlliste des Monats gesetzt. Es stammt vom aktuellen Album "Errant", das bei uns jetzt schon in die Hall of Fame gehört. Für Matze und für mich die Platte des Monats.
 
-{' '}
 <YouTube id="ADp1PeXTj5A" />
 
 ## Russian Circles - "Arluck"
 
 Dieses Stück Musikkultur haben Matze und Valentin beide auf ihre Liste gesetzt. Es handelt sich dabei um die erste Vorauskopplung des neuen Russian Cicles Albums "Blood Year", auf das wir alle drei ganz gespannt warten. Matze schreibt dazu "Für Russian Circles Verhältnisse obere Mittelklasse. Wenn das komplette Album da ist, wird bestimmt noch der ein oder andere Song noch ein Stückchen weiter oben in die Liste gespült."
 
-{' '}
 <YouTube id="79btD88nFbY" />
 
 ## Cult Of Luna - "The Silent Man"
@@ -79,14 +77,12 @@ Dieses Stück Musikkultur haben Matze und Valentin beide auf ihre Liste gesetzt.
 
 Das neue Pillars Album "Cavum" habe ich sehnsüchtig erwartet. Der Song "Dissolution" zeigt für mich guten Post-Rock in all seinen Facetten. Allerdings sollte man sich auch die Zeit nehmen, das Album in seiner Gesamtheit zu genießen. Pillars zeigen damit, was wahre Gefühle sind und wo sie einen hinführen können.
 
-{' '}
 <YouTube id="PLR5tEAtyQA" />
 
 ## Wang Wen "無穹 (《挑戰吧!太空》主曲)"
 
 Bei Wang Wen handelt es sich um die führende Post-Rock Band Chinas, die sich bereits 1999 in der Hafenstadt Dalian gründete. Die erste LP mit dem Titel "28 Days Of Insomnia" erschien dann 2003. Heute sind sie beim [Berliner Label Pelagic](/2020/09/the-ocean-robin-staps-interview/) unter Vertrag und erfreuen sich auch in Europa wachsender Beliebtheit. Mit Matze haben sie einen neuen Fan gewonnen. Er hat den aktuellen Song "無穹 (《挑戰吧!太空》主曲)" auf die Liste gesetzt. Die EP wurde gerade veröffentlicht, das letzte Album mit dem Titel "Invisible City" kam 2018 raus.
 
-{' '}
 <YouTube id="SATPDa19mb4" />
 
 ## Archive - "Again"
@@ -97,42 +93,36 @@ Wir sind nicht alt! Wir haben Patina! 25 Jahre gibt es [Archive](/2016/11/archiv
 
 Matzes Worte zu "Balance, Not Symmetry" von [Biffy Clyro](/2013/01/melancholie-meets-gerechtes-brett-biffy-clyro-bringen-neues-album-auf-den-markt/) : "Endlich gibt es ein eues Album von den Schotten. Das hier ist der erste Song. Ich habe inzwischen einige weitere gehört und bin insgesamt noch nicht ganz überzeugt. Manche Alben muss man ja ein paar Mal hören, ehe mal sie liebt. Dieser Song hier ist auf jeden Fall schon mal ein verdammt gutes Stück Alternative Rock."
 
-{' '}
 <YouTube id="X9XR15E4vZw" />
 
 ## Christian Scott - "The Eraser"
 
 Christian Scott wurde mir von meinem Vater ans Herz gelegt. Der 37-jährige US-Amerikaner zeigt allen, was Jazz ist. An der Trompete ist er ein wahrer Virtuose. Seine neueste Veröffentlichung trägt den Namen Ancestral Recall (2019). "The Eraser" findet Ihr auf dem Best-of-Album "Collection" (das ich Euch wärmstens empfehlen kann) sowie auf Scotts 2009 erschienenen Album "Yesterday You said Tomorrow". Setzt die Kopfhörer auf und lasst Euch verzaubern.
 
-{' '}
 <YouTube id="pF2s2Rh_lnE" />
 
 ## Felix Da Housecat - "What Does It Feel Like"
 
 Dieser Song macht nicht nur echt Laune, er erinnert mich auch an eine sehr schöne Zeit mit viel guter Laune und Musik. Man tanzt heutzutage auch einfach viel zu selten.
 
-{' '}
 <YouTube id="luml9kleZrU" />
 
 ## Jean Leloup - "Le Sentier"
 
 Für gute Laune sorgt auch "Le Sentier" von Jean Leloup. Es ist das erste Stück auf seinem gerade erschienenen Chanson-Album "L'étrange pays", das ihr auf jeden Fall mal hören solltet. Jean (geboren 1961) verbrachte seine Jugend in Togo und Algerien. Heute lebt er in Québec. Er hat die dortige frankophone Musikszene entscheidend geprägt.
 
-{' '}
 <YouTube id="OJocU4jcilY" />
 
 ## Metallica - "The God That Failed"
 
 Valentin hat Metallica ausgepackt und ich freue mich so! "Metallica haben 'The God That Failed" diesen Monat live gespielt. Inzwischen ist er zu einem meiner absoluten Lieblingssongs von Metallica avanciert."
 
-{' '}
 <YouTube id="fMRU-E57qSg" />
 
 ## Alter Bridge - "Blackbird"
 
 Last, but not least kommt von Valentin noch dieses Stück. "Ein unglaublich schönes Lied vom gleichnamigen zweiten Album von 2007", schwärmt er.
 
-{' '}
 <YouTube id="YSrQlvTfB_4" />
 
 ## iTunes und Spotify Fans können die Liste hier hören

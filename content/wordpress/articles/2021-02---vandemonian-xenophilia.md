@@ -96,17 +96,14 @@ Drei Stücke von "Xenophilia" stehen bei den Streaming-Diensten schon heute zum 
 
 ## "Jack Ketch"
 
-{' '}
 <YouTube id="LBf-m1j54gA" />
 
 ## "Excommunication"
 
-{' '}
 <YouTube id="FE2aW6iH4As" />
 
 ## "Razumikhin"
 
-{' '}
 <YouTube id="xUoMMdWRG0o" />
 
 <hr />

@@ -65,7 +65,6 @@ Im Anschluss an die tagelangen Debatten erklärten sich die versammelten Politik
 
 Der Film von Guðni Th. Jóhannesson (Präsidentin von Island), Sylvia Earle (Präsidentin und Vorsitzende, Mission Blue), Emily Woglom (Exekutivvizepräsidentin der Ocean Conservancy), Lisa Emelia Svensson (Direktorin für Ozean, United Nations Environment) und Ben Jordan (Senior Director , Umweltpolitik, The Coca-Cola Company) enthält eine starke Botschaft sowie den Aufruf, endlich zu handeln, bevor es zu spät ist.
 
-{' '}
 <YouTube id="CEkN1sXdnGk" />
 
 Die Dokumentation steht in verschiedenen Formaten [zum Download bereit](https://www.digitalnewsagency.com/stories/12080) und ist auch [bei YouTube verfügbar](https://www.youtube.com/watch?v=CEkN1sXdnGk).

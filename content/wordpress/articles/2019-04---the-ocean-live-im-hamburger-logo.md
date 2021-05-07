@@ -47,5 +47,5 @@ Vibrierende Bässe, nachdenkliche Texte und verzauberte Melodien trugen uns aus 
 
 <h4>
   Hier ein Stück vom 2018 erschienenen Album "Phanerozoic I: Palaezoic"
-  <YouTube id="XWwEZnRBWCM" />{' '}
+  <YouTube id="XWwEZnRBWCM" />
 </h4>
