@@ -42,11 +42,11 @@ _Werbung &amp; Affiliate Links_ \*
 
 **etepetete ist mir schon vor einiger Zeit aufgefallen. Jetzt habe ich mir eine Box mit "nicht perfektem" Bio-Gemüse und -Obst liefern lassen und den Service des nachhaltigen Start-ups getestet.**
 
-<hr />
+---
 
 **Hinweis:** Unten findet Ihr einen Rabattcode.
 
-<hr />
+---
 
 Habt Ihr Lust, ein paar tolle gesunde Lebensmittel zu retten, mal was Neues auszuprobieren und in Zukunft noch kreativer zu kochen? Dann solltet Ihr jetzt auf jeden Fall weiterlesen.
 

@@ -62,7 +62,7 @@ Die angekündigten Emotionen befinden sich genauso auf dem Album, wie die gewohn
 
 <YouTube id="quiqzPfCXXs" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

@@ -198,7 +198,7 @@ Das Gefühl ist das Wichtigste. Wenn sich ein Song nicht gut anfühlt, wird er a
 
 <YouTube id="QyHhEJG9oZE" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

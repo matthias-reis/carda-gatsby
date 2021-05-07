@@ -152,7 +152,7 @@ Johan G. Winther ist zu recht stolz auf "The Rupturing Sowle". Ihr könnt unter 
 
 <YouTube id="nuvRxDhJ-0g" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

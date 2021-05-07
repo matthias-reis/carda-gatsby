@@ -176,7 +176,7 @@ Hat Euch das Interview gefallen? Das freut mich sehr! [Meldet Euch gerne](mailto
 
 [Shana Falana Homepage](http://www.shanafalana.com/) Bilder: Monik Giesel
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

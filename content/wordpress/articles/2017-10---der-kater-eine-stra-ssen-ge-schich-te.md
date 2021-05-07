@@ -34,11 +34,11 @@ errors: {}
 subTitle: Kein verkehrter Kerl
 ---
 
-<hr />
+---
 
 **Hinweis:** Hin und wieder schreibe ich Kurzgeschichten. Ab und an landet auch eine davon hier im Blog. Diese hier ist eine davon. Jede Ähnlichkeit der in dieser Geschichte vorkommenden Figuren und Handlungen mit real existierenden Personen oder Vorkommnissen ist rein zufällig und in keiner Weise beabsichtigt. Die Geschichte ist frei erfunden.
 
-<hr />
+---
 
 **Heute sitze ich hier auf den warmen Fliesen vor dem Hotel und lasse mir die Sonne auf den Pelz scheinen. Erst vorhin hatte ich ein reichhaltiges Frühstück mit Lachs, Käse, Reis und etwas Thunfisch. Es war so viel, dass ich sogar etwas für die alte graue Katze, die hier nachmittags immer kurz durch die Hecke schaut, übrig lassen konnte.**
 

@@ -255,7 +255,7 @@ Ein gutes Stück Techno durfte in meiner Liste selbstverständlich nicht fehlen.
 
 <YouTube id="hNKM5paghWE" />
 
-<hr />
+---
 
 Meine Liste folgt nicht den Regeln einer klassischen "Hitliste". Ich möchte die Songs bewusst nicht nach dem Muster "dieser ist besser als jener" bewerten. Klar gibt es für mich einige, die mehr hervorstechen, als andere, aber insgesamt und auch einzeln betrachtet sind sie alle perfekt und haben die gleiche Position in meiner Liste verdient. Die Zahlen sind somit nicht als Wertung zu verstehen.
 

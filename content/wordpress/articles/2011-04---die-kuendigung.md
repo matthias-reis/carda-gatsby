@@ -31,11 +31,11 @@ errors: {}
 subTitle: Eine Kurzgeschichte
 ---
 
-<hr />
+---
 
 **Hinweis:** Hin und wieder schreibe ich Kurzgeschichten. Ab und an landet auch eine davon hier im Blog. Diese hier ist eine davon. Jede Ähnlichkeit der in dieser Geschichte vorkommenden Figuren und Handlungen mit real existierenden Personen oder Vorkommnissen ist rein zufällig und in keiner Weise beabsichtigt. Die Geschichte ist frei erfunden.
 
-<hr />
+---
 
 **Seelisch war er schon lange Zeit darauf vorbereitet. Es hatte alles damit angefangen, dass die kleine Firma, in der er von Anfang an dabei war, von einem dieser Konzernriesen aufgekauft worden war.**
 

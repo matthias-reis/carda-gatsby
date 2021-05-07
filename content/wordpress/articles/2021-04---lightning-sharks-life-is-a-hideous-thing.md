@@ -93,7 +93,7 @@ Mit "Life Is A Hideous Thing" haben Lightning Sharks abgeliefert. Ich freue mich
 
 [Lightning Sharks im Interview](/2020/09/lightning-sharks-interview/)
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

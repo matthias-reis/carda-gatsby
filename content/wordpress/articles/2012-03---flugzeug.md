@@ -55,11 +55,11 @@ errors: {}
 subTitle: Eine Geschichte aus dem Leben
 ---
 
-<hr />
+---
 
 **Hinweis:** Hin und wieder schreibe ich Kurzgeschichten. Ab und an landet auch eine davon hier im Blog. Diese hier ist eine davon. Jede Ähnlichkeit der in dieser Geschichte vorkommenden Figuren und Handlungen mit real existierenden Personen oder Vorkommnissen ist rein zufällig und in keiner Weise beabsichtigt. Die Geschichte ist frei erfunden.
 
-<hr />
+---
 
 <RemoteImage
   alt={`Bild: Anne 3/2012`}

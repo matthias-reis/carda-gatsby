@@ -41,11 +41,11 @@ subTitle: Interview mit Alice und Hendrik von Unstumm Film
 
 **Alice und Hendrik von Unstumm machen Aufklärungsfilme zum Thema Tierrechte  - ohne dabei ein Blatt vor den Mund zu nehmen. Die Filme werden auf YouTube veröffentlich. Im Anschluss verbreiten sie sich viral über das Netz. Die Themen sind vielfältig, die beiden Filmemacher sind immer offen für neue Ideen.**
 
-<hr />
+---
 
 **Hinweis:** Dieses Interview habe ich bereits am 1. Juni 2015 veröffentlich. Weil ich es so spannend finde, möchte ich es heute nochmal mit Euch teilen.
 
-<hr />
+---
 
 ## Unstumm Film bringt Tierrechtsaktionen in die Öffentlichkeit
 

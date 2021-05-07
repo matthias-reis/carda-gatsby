@@ -101,7 +101,7 @@ erzählte mir [Evan im Interview](/2020/10/heavybird-interview/). Und ich muss i
 
 [Homepage Heavybird](https://www.heavybirdmusic.com/)
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

@@ -68,7 +68,7 @@ month: '05'
 
 Was ein Blogger Blind Date ist? Ganz einfach: Das, was dabei herauskommt, wenn inzwischen 16 Blogger\*innen zu einem vorher festgelegten Song frei assoziieren und dadurch die unterschiedlichsten Geschichten entstehen. Der Clou: Keiner weiß, was die anderen schreiben, veröffentlicht wird zur selben Zeit.
 
-<hr />
+---
 
 In der Regel haben Menschen ja eine ziemlich seltsame Vorstellung davon, wie andere Individuen so ticken. Da landet man ganz schnell in irgendeiner staubigen Schublade und kommt da so schnell nicht wieder raus. So geschehen vor ein paar Tagen in Köln.
 

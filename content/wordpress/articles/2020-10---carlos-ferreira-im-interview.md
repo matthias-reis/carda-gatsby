@@ -195,7 +195,7 @@ Neben den Kooperationen habe ich noch zwei Soloalben fertig, die veröffentlicht
 
 <YouTube id="gLAqIioxVyE" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

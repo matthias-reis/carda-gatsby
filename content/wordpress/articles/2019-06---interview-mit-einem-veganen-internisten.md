@@ -50,11 +50,11 @@ subTitle: Im Gespräch mit Dr. Hanno Platz
 
 **"Zuerst ignorieren sie Dich, dann lachen sie über Dich, dann bekämpfen sie Dich und dann gewinnst Du!" (Mahatma Gandhi) – So steht es in dicken Lettern auf der Homepage des vegan lebenden Internisten Dr. Hanno Platz. Ich habe mich mit ihm in seiner Praxis in Fischach bei Augsburg zum Interview getroffen.**
 
-<hr />
+---
 
 **Hinweis:** Dieses Interview erschien zuerst am 3. Dezember 2014. Weil ich finde, dass es an Aktualität und Brisanz nicht verloren hat, veröffentliche ich es hiermit erneut.
 
-<hr />
+---
 
 ## Dr. Hanno Platz aus Fischach stellte sich meinen Fragen
 

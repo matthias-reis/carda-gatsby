@@ -166,7 +166,7 @@ Aber durch das, was gerade vor sich geht, habe ich alles abgesagt. Ich hoffe, da
 
 Das From Overseas Album "Home" ist am 25. März beim Ambient Label Past Inside The Present erschienen.
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

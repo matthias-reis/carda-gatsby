@@ -171,7 +171,7 @@ Eine andere Sache ist, dass es meiner Meinung nach wirklich wichtig ist, dem⋆r
   sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
 ></iframe>
 
-<hr />
+---
 
 ## "We want to write melodies"
 

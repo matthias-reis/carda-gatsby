@@ -43,11 +43,11 @@ errors: {}
 subTitle: Interview mit Marlin von Vegarn
 ---
 
-<hr />
+---
 
 Hinweis: Dieses Interview habe ich bereits am 26. April 2016 veröffentlicht. Ich finde das Projekt, um das es darin geht, nach wie vor sehr interessant. Aus diesem Grund habe ich beschlossen, es nochmal in den Fokus zu rücken und teile es heute erneut mit Euch.
 
-<hr />
+---
 
 **Vegan lebende Handarbeitsfans bekommen bei Vegarn, was sie sich wünschen: Fair gehandelte, schonend hergestellte Garne ohne tierische Bestandteile. Marlin, die Gründerin des besonderen Online-Shops liebt selbstgemachte Dinge. Auf der Suche nach tollen Alternativen zu Strickgarn aus Merinowolle und Co. beschloss sie kurzerhand selbst etwas auf die Beine zu stellen und eine echte Marktlücke zu füllen.**
 
@@ -139,7 +139,7 @@ Entstanden ist das Prinzip beim Beobachten der Natur. Ein Apfelbaum wächst, ind
 
 **Marlin:** Lieben Dank!
 
-<hr />
+---
 
 ## Nachtrag vom 8. August 2019
 
@@ -159,6 +159,6 @@ Vom 1. September bis zum 24. Dezember 2019 ist ein Räumungsverkauf im Onlinesho
 
 Wer ab dem 1. September mehr als ein Kilogramm Wolle  bestellt, bekommt ein Knäuel  [Tencelgarn](https://www.vegarn.eu/produkt/tencelgarn-100g-knaeuel/)  oder  [Pure](https://www.vegarn.eu/produkt/pure-soysilk/)  als Geschenk dazu. Bei über drei Kilogramm zwei Knäuel und so weiter. [Marlins komplettes Statement zur Auflösung des Shops könnt Ihr online hier nachlesen](https://mailchi.mp/da17dbe0bd52/ausverkauf-grund).
 
-<hr />
+---
 
 \*Hier könnt Ihr [Vegarn online besuchen](https://www.vegarn.eu/). Hier findet Ihr [weitere Informationen zum Thema Wolle](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/).

@@ -225,7 +225,7 @@ Als Vorgeschmack auf das neue The Ocean Album "Phanerozoic II" hier schon mal de
 
 [1] Das Phanerozoikum ist das jüngste Äon bzw. Äonothem der Erdgeschichte. Es umfasst den Zeitraum von vor 541 Millionen Jahren bis zur Gegenwart. Das Präkambrium umfasst den Zeitraum von der Entstehung der Erde vor etwa 4,56 Milliarden Jahren bis zur Entwicklung der Tierwelt zu Beginn des Kambriums vor rund 540 Millionen Jahren.
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

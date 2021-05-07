@@ -45,11 +45,11 @@ subTitle: Natürliche Pflegeöle für Haut und Haar
 
 - _Werbung &amp; Affiliate Links_
 
-<hr />
+---
 
 **Hinweis:** Weiter unten findet Ihr einen Rabattcode.
 
-<hr />
+---
 
 **Ich habe das Haaröl und das Hautöl von Acaraa getestet. Die Naturkosmetikprodukte aus München habe ich genau im richtigen Moment für mich entdeckt.**
 

@@ -38,11 +38,11 @@ subTitle: Lebenslanges Abo gewinnen
 
 _Werbung\*_
 
-<hr />
+---
 
 Hinweis: Die Aktion ist beendet. [Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
-<hr />
+---
 
 <RemoteImage
   alt={`piqd`}

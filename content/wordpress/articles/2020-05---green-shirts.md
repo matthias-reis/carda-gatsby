@@ -39,11 +39,11 @@ _Werbung &amp; Affiliate Links\*_
 
 **Der Frühling ist da! Zeit, ein paar alte Kamellen aus dem Kleiderschrank durch neue Schönheiten zu ersetzen. Ich habe das bei Green Shirts getan und möchte Euch meine beiden neuen Lieblinge heute gerne zeigen.**
 
-<hr />
+---
 
 **Hinweis:** Unten findet Ihr einen Rabattcode.
 
-<hr />
+---
 
 Green Shirts steht für nachhaltige und faire Bio-Mode. Niklas Astor gründete sein Unternehmen 2012. Seine erklärten Ziele: Gleichzeitig hohen Stil- und Qualitätsansprüchen zu genügen und nachhaltig und fair zu produzieren. Er wollte den harten Bedingungen in der Textilindustrie etwas entgegenstellen und zeigen, dass es auch anders geht.
 

@@ -101,7 +101,7 @@ Ox en Mayo alto planen in rund einem Monat ihre nächste EP zu veröffentlichen.
 
 <YouTube id="d0vvtn_1qGA" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

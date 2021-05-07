@@ -61,7 +61,7 @@ Benannt ist die Platte übrigens nach dem während des Vietnam-Krieges aufgenomm
 
 <YouTube id="_Jbc-e3I5eQ" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

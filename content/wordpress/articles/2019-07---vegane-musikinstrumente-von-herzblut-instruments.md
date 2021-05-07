@@ -38,11 +38,11 @@ errors: {}
 subTitle: Schlagzeug und Bass ohne Tier
 ---
 
-<hr />
+---
 
 **Hinweis:** Diesen Beitrag habe ich bereits 2016 veröffentlicht. Da er jedoch an Brisanz nicht verloren hat und ich das vorgestellte Projekt nach wie vor gut finde, erscheint er heute frisch aktualisiert auf meinem Blog.
 
-<hr />
+---
 
 **E** **ine Musikinstrumente-Manufaktur im schönen Aach in der Nähe des Bodensees. Der Name Herzblut** **Instruments ist Programm. Gründer Gernot Wegele steckt Herzblut in seine Arbeit und das sieht man auch.**
 

@@ -119,7 +119,7 @@ Hat Euch mein Interview gefallen? Wie schön!  [Meldet Euch gerne](mailto:info@
 
 Fotos: [Vinny Peculiar](https://vinnypeculiar.com)
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

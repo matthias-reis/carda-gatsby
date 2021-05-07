@@ -54,7 +54,7 @@ Sie arbeiten für die Zukunft Ohne Angst vor der Hitze
 
 Nur nachts im Schlaf die namenlose Furcht Morgens weckt sie die sengende Sonne
 
-<hr />
+---
 
 Angst vor der Zukunft Kalter Regen über der Floßsiedlung
 

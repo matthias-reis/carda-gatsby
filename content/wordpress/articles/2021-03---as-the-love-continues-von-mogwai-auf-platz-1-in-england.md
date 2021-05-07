@@ -88,7 +88,7 @@ All diese Musiker⋆innen vereint eins: Mit ihren Songs haben sie es geschafft, 
 
 Ihr wollt wissen, wie das Album ist? Für mich ist es ganz klar eines der besten, die Mogwai bisher veröffentlicht haben. Ich kann Euch nur raten, es zu hören. Ihr verpasst sonst vielleicht die Platte des Jahres.
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

@@ -153,7 +153,7 @@ Inzwischen habe ich den Generator wieder verkauft und mich dazu entschieden, kom
 
 Bilder: Perry Fran
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

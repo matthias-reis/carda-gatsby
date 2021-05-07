@@ -130,7 +130,7 @@ Im Mai 2008 veröffentlichte die Band ihre Debut-EP "I". Inzwischen haben Toundr
   sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
 ></iframe>
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

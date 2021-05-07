@@ -246,7 +246,7 @@ Der vielleicht größte Meilenstein war vermutlich, als mir klar wurde, dass ich
 - [1]  [Inbars Kochkurse für israelische Küche in der Kurkuma Kochschule](https://www.kurkuma-hamburg.de/israelisch/)
 - [2]  [Mitternachtsbus Hamburg](https://www.diakonie-hamburg.de/de/visitenkarte/diakonie-zentrum-fuer-wohnungslose/mitternachtsbus)
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

@@ -36,11 +36,11 @@ errors: {}
 subTitle: Ein Ensemble für den Tierschutz
 ---
 
-<hr />
+---
 
 **Hinweis:** Dieses Interview habe ich bereits am 7. März 2015 veröffentlicht. Da ich finde, dass das Tierschutztheater nach wie vor Aufmerksamkeit verdient hat und das Thema Tierrechte mehr denn je im Fokus stehen sollte, erscheint es heute frisch überarbeitet hier im Blog. Im März feierte das Tierschutztheater sein 10-jähriges Bestehen.
 
-<hr />
+---
 
 **Das Tierschutztheater ist ein Zusammenschluss aus Menschen, die gerne Theater spielen und sich für die Rechte der Tiere einsetzen wollen. Ich habe mich mit der Vorsitzenden Kathrin Eva Schmid unterhalten.**
 

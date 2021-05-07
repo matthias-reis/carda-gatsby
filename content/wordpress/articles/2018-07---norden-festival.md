@@ -44,11 +44,11 @@ subTitle: Neues Open Air Event steht in den Startlöchern
 
 _\*Werbung_
 
-<hr />
+---
 
 Hinweis: Die Aktion ist beendet. [Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
-<hr />
+---
 
 **Vom 30. August bis einschließlich 16. September wird auf den Königswiesen erstmalig das NORDEN Festival stattfinden. Drei Wochen lang sind dort Kunst und Kultur aus dem europäischen Ostseeraum und Schleswig-Holstein zu sehen.**
 

@@ -183,7 +183,7 @@ Seit ihrer Gründung haben Oh Hiroshima drei Alben und zwei EPs aufgenommen. Das
   src="https://embed.music.apple.com/de/album/oscillation/1462766218"
 ></iframe>
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

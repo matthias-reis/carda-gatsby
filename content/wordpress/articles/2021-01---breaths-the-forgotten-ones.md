@@ -83,7 +83,7 @@ Das wundervolle Artwork stammt übrigens von Jasons Frau Michelle.
   Breaths](https://breaths.bandcamp.com/album/lined-in-silver)
 </iframe>
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

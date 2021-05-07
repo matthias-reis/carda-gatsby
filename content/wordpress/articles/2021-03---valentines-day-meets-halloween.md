@@ -108,7 +108,7 @@ Ich glaube, wir haben mit unserem Album "Possession" geschafft, das auszudrücke
 
 <YouTube id="4U-a-NVDUfc" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

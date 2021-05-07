@@ -181,7 +181,7 @@ Pray for Sound gründeten sich 2011 in Boston. Ihr viertes Album "Waves" haben s
 
 ## <iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/album/waves/1472502783" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

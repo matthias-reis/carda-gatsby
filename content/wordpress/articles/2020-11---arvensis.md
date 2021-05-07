@@ -121,7 +121,7 @@ Dani legte den Grundstein für Arvensis im Jahr 2011. Seit 2018 nimmt er Platten
 
 **Dani:** Vielen Dank, Anne!
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

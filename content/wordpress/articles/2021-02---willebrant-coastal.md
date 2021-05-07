@@ -72,7 +72,7 @@ erzählte mir Karl. Genau dorthin träume ich mich jetzt noch ein Weilchen und l
   [Coastal___ by Willebrant](https://willebrant.bandcamp.com/album/coastal)
 </iframe>
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

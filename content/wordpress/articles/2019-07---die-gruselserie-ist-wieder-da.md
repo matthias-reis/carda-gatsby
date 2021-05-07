@@ -43,11 +43,11 @@ subTitle: Endlich wieder Spukgeschichten!
 
 **Alle, jenen die Gruselserie etwas sagt, dürfen sich jetzt freuen: Die kultige Hörspielreihe aus den 1980er Jahren ist jetzt wieder da! Ich war bei einem wunderbar gruseligen Presse-Event und habe einiges über die Neuauflage in Erfahrung gebracht.**
 
-<hr />
+---
 
 **Hinweis:** Die **Verlosung [<sup>1</sup>](#1) ** findet Ihr im Anschluss an den Artikel. Natürlich lohnt es sich dennoch, ihn zu lesen. Ihr könnte darin einige spannende Fakten über die Gruselserie erfahren.
 
-<hr />
+---
 
 Mögt Ihr es auch, wenn Ihr Euch so richtig schön gruseln könnt? Ein Knacken, ein Knistern und plötzlich: Das war doch ein Schrei da hinten in der Ecke, oder? Die heutigen Horrorfilme treiben es da ja leider schon mal auf die Spitze. Perfekt ausgefeilt war hingegen **die Gruselserie** . Viele von uns kennen sie noch aus Kindertagen.
 
@@ -100,11 +100,11 @@ Für Euch habe ich mir zusammen mit Silke etwas ganz Besonderes ausgedacht: Ich 
 
 [Hier gehts zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/)
 
-<hr />
+---
 
 **Hinweis:** Die Aktion ist beendet. [Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
-<hr />
+---
 
 <Gallery
   images={[

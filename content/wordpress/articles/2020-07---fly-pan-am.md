@@ -244,7 +244,7 @@ Von diesen Künstler⋆innen kann ich schnell Verzweigungen bilden und finde mas
 
 [Animals Of Distinction - "Frontera"](https://www.dansedanse.ca/en/animals-distinction-frontera)
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

@@ -93,7 +93,7 @@ Es kann auch bedeuten, dass man sich eingesteht, wenn man etwas verbockt hat. "E
 
 Die Umwelt, Deine Mitmenschen und Deine Mitlebewesen sind Dir nicht egal und auch Du selbst bedeutest Dir etwas. Du tust Deiner Gesundheit, Dir selbst und anderen öfter mal was Gutes und bist dazu in der Lage, Dir Fehler einzugestehen: Gratulation! Du bist ein guter Mensch!
 
-<hr />
+---
 
 Bevor man anfängt, an sich zu arbeiten, ist natürlich zunächst eine kleine Selbstanalyse von Vorteil. Es bringt nicht viel, wenn man einfach mal lossteuert und versucht, sein Verhalten zu ändern. Wenn man Pech hat, findet man sich dann am Ende doch in verkrampften Optimierungsversuchen unter einem Fitnessgerät eingeklemmt wieder. Nur, wer seine Stärken und Schwächen kennt, kann ersteres gezielt verbessern und an letzterem arbeiten.
 

@@ -42,11 +42,11 @@ subTitle: Zwei Portemonnaie-Unikate zu gewinnen
 
 _Werbung\*_
 
-<hr />
+---
 
 Hinweis: Die Aktion ist beendet. [Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
-<hr />
+---
 
 **Zum Valentinstag haben sich die Leute von Feuerwear etwas ganz Besonderes einfallen lassen: Eine Portemonnaie-Partneredition! Mit etwas Glück könnt Ihr bei meiner Feuerwear Verlosung jetzt eines der streng limitierten Sets aus zwei Geldbörsen gewinnen.**
 

@@ -45,11 +45,11 @@ subTitle: Eine Tierarztodyssee
 
 **Mit diesem Artikel möchte ich zeigen, wie wichtig es ist, eine zweite Meinung einzuholen, wenn ein Tier krank wird. Wie aus unserem stolzen Feliden innerhalb einer Woche ein Häufchen Elend wurde.**
 
-<hr />
+---
 
 **Hinweis:** Die Namen und Orte in dieser Reportage wurde aus Datenschutzgründen und zum Schutz der betroffenen Personen anonymisiert.
 
-<hr />
+---
 
 Sicher könnt Ihr Euch noch an Chili erinnern. [Chili, den Kater](//2012/08/30/ode-an-den-kater/). Mein kleiner Schatten, der mich auf dem Weg durch die Wohnung auf Schritt und Tritt verfolgte. Niemals aus den Augen lies. Jeden Morgen so lange maunzte, bis er aus dem Wasserhahn trinken durfte. Bruder von Oskar dem Kater. Die beiden: mein Ein und Alles. Die zwei haben viel mit mir durchgemacht, sind drei Mal mit mir umgezogen, haben mir immer zugehört, waren immer für mich da, ob ich krank war, gesund, traurig oder glücklich. Und ich habe versucht, ihnen eine gute Dosenöffnerin zu sein. Zusammen sind wir eine glückliche Familie geworden. Die beiden blühten in der letzten Zeit regelrecht auf und wurden immer zutraulicher. Man konnte genau sehen, dass sie das Zuhause ihrer Herzen gefunden haben.
 

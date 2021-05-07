@@ -34,11 +34,11 @@ subTitle: Nachwehen
 
 ** [Hier geht es zu Teil 3 des Artikels](/2013/09/der-fall-des-chili-r/) Heute Morgen, ich kam gerade aus dem Bad, als mein Telefon klingelt. Die Praxis der Klinik, in der Chili operiert wurde. Ich gehe ran. Ein wütender Dr. R. ist am Telefon. Von einem Freund hätte er erfahren, ich hätte da was ins Internet gestellt. Ihn und die Praxis betreffend. Ich solle das bitte sofort löschen.**
 
-<hr />
+---
 
 **Hinweis:** Die Namen und Orte in dieser Reportage wurde aus Datenschutzgründen und zum Schutz der betroffenen Personen anonymisiert.
 
-<hr />
+---
 
 Ich versuche ihm zu erklären, dass ich weder Namens- noch Ortsangaben verwendet habe. Doch er beharrt darauf. Er hätte das gerade kurz überflogen, da stünde Dr. R. aus der Klinik in X. und das würde so nicht gehen. Besonders, weil ich auf Kommentare auf dem Ärzte-Bewertungsportal verweisen würde. Ich erkläre ihm, dass es sich nicht um Links handelt, sondern lediglich um Zitate. Doch ihn interessiert das nicht.
 

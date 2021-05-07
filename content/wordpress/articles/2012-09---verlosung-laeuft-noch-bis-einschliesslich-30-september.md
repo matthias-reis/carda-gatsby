@@ -50,11 +50,11 @@ errors: {}
 subTitle: Tolle Goodies zu gewinnen!
 ---
 
-<hr />
+---
 
 **Hinweis:** Die Aktion ist beendet. [Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
-<hr />
+---
 
 **Hiermit möchte ich nochmal offiziell auf [mein Gewinnspiel](//2012/08/16/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/) hinweisen. Die Verlosung läuft noch bis einschließlich 30. September. Hier nochmal eine kurze Anleitung für alle, die noch nichts vom Gewinnspiel mitbekommen haben:**
 

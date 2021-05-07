@@ -144,7 +144,7 @@ Ausklang machen atmosphärischen, Ambient-lastigen Post-Rock. Die zweite Auskopp
 
 [Interview mit From Overseas Gründer Kévin Séry](/2020/04/from-overseas-interview/)
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

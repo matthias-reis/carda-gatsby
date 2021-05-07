@@ -45,11 +45,11 @@ subTitle: Von Genesungswünschen, guten Nachrichten und Erfahrungsberichten
 
 ** [_Hier gehts zum ersten Teil des Artikels_](/2013/09/die-traurige-geschichte-eines-tapferen-katers/) Ihr habt bestimmt die ["traurige Geschichte eines tapferen Katers"](//2013/09/25/die-traurige-geschichte-eines-tapferen-katers/) gelesen. Den Leidensweg unseres kleinen, felligen Mitbewohners Chili, der innerhalb einer Woche durch fehlerhafte Behandlung vom gesunden Stubentiger zum Pflegefall wurde. Mit diesem Beitrag möchte ich zeigen, wie wichtig es ist, eine zweite Meinung einzuholen, wenn ein Tier krank wird.**
 
-<hr />
+---
 
 **Hinweis:** Die Namen und Orte in dieser Reportage wurde aus Datenschutzgründen und zum Schutz der betroffenen Personen anonymisiert.
 
-<hr />
+---
 
 Heute Vormittag habe ich wieder mit der Klinik telefoniert, inzwischen geht es dem Kleinen etwas besser. Er hat ganz selbstständig gefressen und war auf Toilette. Er schreit nicht mehr und verliert keine Flüssigkeit mehr aus dem Mäulchen. Zum Glück hat er auch keine epileptischen Anfälle mehr gehabt. Die Behandlung scheint also anzuschlagen. Das ist sehr gut. Es liegt mit Sicherheit noch ein langer Weg vor uns, aber wir machen Fortschritte. Die Tierärztin, mit der ich heute telefoniert habe, meinte auch, er leidet nicht und beruhigt sich langsam. Wenn man ihn hinstellt, kann er sogar kurz stehen, es ist also sehr gut möglich, dass er auch bald wieder gehen kann. Heute wird mit der Physiotherapie begonnen, mal sehen, wie die bei ihm anschlägt. Wenn durch die medikamentöse Behandlung zusätzlich auch noch sein Augenlicht zurückkehren würde, währen wir überglücklich.
 

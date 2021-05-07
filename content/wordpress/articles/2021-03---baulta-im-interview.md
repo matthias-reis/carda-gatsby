@@ -249,7 +249,7 @@ In den Anfangsjahren von Baulta haben wir viel Oceansize gehört. In den letzten
 
 <YouTube id="wR7NTaa1jD8" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

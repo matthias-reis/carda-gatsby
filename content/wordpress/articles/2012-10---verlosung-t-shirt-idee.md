@@ -118,11 +118,11 @@ errors: {}
 subTitle: Die Bildergalerie
 ---
 
-<hr />
+---
 
 **Hinweis:** Die Aktion ist beendet. [Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
-<hr />
+---
 
 **Wie inzwischen alle mitbekommen haben sollten, war gestern der Einsendeschluss meines [T-Shirt-Idee-Gewinnspiels](//2012/09/06/verlosung-exklusive-cd-t-shirts-und-vinyl-zu-gewinnen/). Ich habe mich sehr über Eure zahlreiche Teilnahme und über die wunderbaren T-Shirt-Fotos, die Ihr mir zugesendet habt gefreut. Heute zeige ich Euch die versprochene Bildergalerie der eingesendeten Fotos, die verschiedener nicht sein könnten.**
 

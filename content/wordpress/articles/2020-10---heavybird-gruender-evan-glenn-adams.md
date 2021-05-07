@@ -200,7 +200,7 @@ Ich muss mich auch nicht mit dem geschäftlichen Ende der Dinge beschäftigen un
   [1] [Homepage Evan Glenn Adams](https://www.evanglennadams.com/)
 </div>
 
-<hr />
+---
 
 <div></div>
 

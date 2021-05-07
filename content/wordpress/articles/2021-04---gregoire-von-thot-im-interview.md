@@ -169,7 +169,7 @@ Für alle, die gerne einen tiefen Einblick in die neue Thot Platte "Delta" bekom
 
 <YouTube id="SSMgoEPE940" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

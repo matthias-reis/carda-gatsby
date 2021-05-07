@@ -159,7 +159,7 @@ Solkyri gründeten sich 2006 in Sydney. Die Band besteht aus Adam Mostek (Gitarr
   data-mce-fragment="1"
 ></iframe>
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

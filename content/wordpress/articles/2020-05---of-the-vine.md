@@ -173,7 +173,7 @@ Klickt Euch bald wieder rein! In Kürze erscheint hier im Blog die exklusiv von 
   sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
 ></iframe>
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

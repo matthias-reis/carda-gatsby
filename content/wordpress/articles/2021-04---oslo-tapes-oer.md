@@ -75,7 +75,7 @@ Von den schwindelerregenden Höhen der norwegischen Gipfelzüge bis zur einsamen
 
 <YouTube id="EDkLdHMoOK8" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

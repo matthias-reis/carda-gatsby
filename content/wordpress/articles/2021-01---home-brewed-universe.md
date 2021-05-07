@@ -152,7 +152,7 @@ Ich hatte die Möglichkeit, schon in ein paar der Songs vom neuen Album reinzuh�
 
 [Ihr könnte das neue Home Brewed Universe Album hier vorbestellen](https://homebreweduniverse.bandcamp.com/album/fear-of-an-obtuse-earth).
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

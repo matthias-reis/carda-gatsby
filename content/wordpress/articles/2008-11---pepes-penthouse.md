@@ -49,6 +49,6 @@ Aktuell ist dort der Song „Wie lange“ zu hören. Die Jungs freuen sich auch 
 
 Pepes Penthouse stehen noch am Anfang ihrer Karriere und wir können gespannt sein, was als nächstes kommt. Momentan wird wieder eifrig an neuen Songs gebastelt.
 
-<hr />
+---
 
 **Nachtrag:** Der Artikel ist veraltet, die Mitglieder der Band haben sich inzwischen anderen musikalischen Projekten zugewandt.

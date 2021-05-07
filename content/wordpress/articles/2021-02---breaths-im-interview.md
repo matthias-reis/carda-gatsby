@@ -192,7 +192,7 @@ Mit seiner Mischung aus Post-Metal, Post-Rock Doomgaze und Blackgaze trifft Jaso
 
 [Breaths bei Bandcamp](https://breaths.bandcamp.com/releases)
 
-<hr />
+---
 
 </div>
 

@@ -82,7 +82,7 @@ Lappos musikalische Saga steht ab dem 19. März bei allen Streaming-Diensten ber
 
 [Egor Lappo bei Bandcamp](https://egorlappo.bandcamp.com/album/make-the-sun-shine-more)
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

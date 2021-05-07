@@ -74,7 +74,7 @@ Baulta sind mit ihrem neuen Album dem Wunsch, nach innen zu schauen gefolgt. Dab
 
 <YouTube id="-2gF-WDtqAU" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

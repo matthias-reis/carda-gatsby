@@ -37,11 +37,11 @@ _Werbung\*_
 
 **Vor Kurzem ging es für uns in den sonnigen Süden: Strand, Wellen, Sonne und Sightseeing was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht fehlen.**
 
-<hr />
+---
 
 **Hinweis:** Die **Verlosung [<sup>1</sup>](#1) ** findet Ihr im Anschluss an meinen Produkttest. Es lohnt sich natürlich dennoch, ihn zu lesen. Im Artikel könnt Ihr einiges über die von mir getesteten Produkte erfahren.
 
-<hr />
+---
 
 Damit sich die Haut am Abend schön entspannen konnte, hatte ich ein paar Sachen von [Santaverde](/tag/santaverde/) im Gepäck
 
@@ -191,11 +191,11 @@ Für alle, die das Aloe Vera Gel Pur auch mal testen möchten, habe ich eine kle
 
 [Hier gehts zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/)
 
-<hr />
+---
 
 **Hinweis:** Die Aktion ist beendet. [Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
-<hr />
+---
 
 In Kürze zeige ich Euch hier im Blog, wo die Aloe Vera für die Santaverde Produkte angebaut werden. Ich war direkt vor Ort auf der **Finka Santaverde** und habe mich dort mit der lieben Carmen unterhalten und so einige Fotos gemacht. Bleibt also dran. Es bleibt auf alle Fälle spannend.
 

@@ -143,7 +143,7 @@ Nach meinem Umzug nach Melbourne und dann weiter nach Hamburg habe ich viel Musi
 
 <YouTube id="LLd2pt8RL34" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

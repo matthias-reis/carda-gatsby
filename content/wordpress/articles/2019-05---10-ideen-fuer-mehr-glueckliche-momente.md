@@ -184,7 +184,7 @@ Irgendwie neigt man ja immer dazu, alles Schöne auf später zu verschieben. "We
 
 Wenn man immer auf den großen Knall wartet, der kommen wird, wenn man ein bestimmtes Ziel erreicht hat, führt das nur zu innerer Leere. Das neue Notebook ist endlich da? Klar, es ist schön und Du darfst Dich auch darüber freuen - klar. Allerdings wäre es doch viel schöner gewesen, die Wartezeit mit Vorfreude zu füllen und nicht mit Negativität. Statt zu fluchen, dass "die alte Mühle" so langsam geworden ist und sie ins Café zu schleppen ist eine Zumutung ist, weil sie so schwer ist, kann man sich auch freuen, dass bald modernere Zeiten anbrechen werden an der Digitalfront.
 
-<hr />
+---
 
 ## Was ist das eigentlich "glücklich sein"?
 

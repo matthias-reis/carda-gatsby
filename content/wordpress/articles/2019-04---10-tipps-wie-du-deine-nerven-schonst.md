@@ -113,6 +113,6 @@ Jeder kennt das: Man hat sich etwas vorgenommen und es will nicht funktionieren.
 
 Alles ist grau, nichts will so richtig klappen und dann lacht im Bus auch noch jemand über Dein am Morgen nach der schlaflosen Nacht müde zusammengestelltes viel zu buntes Outfit? Ich gebe zu, das kann ganz schön frustrierend sein. Aber wie wäre es, wenn Du einfach mitlachst? Im ersten Moment ist das vielleicht komisch, das gebe ich zu. Im Nachhinein wirst Du aber ganz sicher feststellen, dass es Dir geholfen hat! Je häufiger Du es schaffst, über Dich selbst zu lachen, desto heiterer wird Deine Grundstimmung und Du nimmst Dir die fiesen Kleinigkeiten des Alltags weniger zu Herzen. Die gelbe Strickjacke und die roten Boots sehen sowieso klasse an Dir aus! Mach Dir keine Sorgen!
 
-<hr />
+---
 
 Wie geht es Dir? Konntest Du etwas mitnehmen? Ich freue mich, wenn Dir meine zehn Ideen gefallen haben. Klar ist es im Alltag manchmal nicht so einfach, das alles zu beherzigen. Es kann einen jedoch mitunter schön auf den Boden der Tatsachen zurückholen, wenn man einfach mal kurz tief durchatmet, reflektiert, überlegt und sich an den schönen Dingen erfreut.

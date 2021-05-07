@@ -193,10 +193,10 @@ Allein schon durch den kollektiven ökologischen Fußabdruck ist des hierzulande
 
 In Deutschland beträgt der durchschnittliche ökologische Fußabdruck 5,1 Hektar. 25 Prozent fallen dabei auf Wohnen und Energie, 18 Prozent auf Konsum, 35 Prozent auf die Ernährung und 22 Prozent auf den Verkehr.
 
-<hr />
+---
 
 **Anmerkung:** Diesen Artikel veröffentliche ich heute in etwas abgewandelter Form zum zweiten Mal. Zuletzt ist er hier im Blog am [30. Juli 2014](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) erschienen. Das Thema hat seitdem nicht an Brisanz verloren. Auch die Zahlen sind nach wie vor aktuell. Der Klimawandel macht sich auf der Erde immer mehr bemerkbar. Es ist an der Zeit, zu handeln. **Klimaschutz** geht uns alle an!
 
-<hr />
+---
 
 **Quellen:** [VEBU](https://www.vebu.de), [Der Artgenosse](https://www.facebook.com/artgenosse?fref=ts), Wikipedia, [Footprint Deutschland](http://www.footprint-deutschland.de), [Naturschutz Sylt](http://www.naturschutz-sylt.de)

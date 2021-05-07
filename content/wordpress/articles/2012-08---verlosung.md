@@ -87,11 +87,11 @@ errors: {}
 subTitle: Exklusives Vinyl, CD und T-Shirt zu gewinnen
 ---
 
-<hr />
+---
 
 **Hinweis:** Die Aktion ist beendet. [Bestimmt findet bald wieder eine tolle Verlosung im Blog statt](/tag/verlosung/).
 
-<hr />
+---
 
 **Mein wundervolles, neues [Marc Lanegan T-Shirt](//#jp-carousel-3918) hat mich auf die Idee gebracht, mal wieder eine Mitmach-Aktion auf cardamonchai.com zu veranstalten. Dieses Mal soll es nicht nur eine [einfache Verlosung](//2011/05/05/cardamonchai-auf-facebook/) sein, oder ein [Mixtape-Tausch](//cardamixtape-2/der-mixtape-tausch-teil-1-die-bastelei/), nein, es wird spannender. Und es gibt wirklich tolle Preise zu gewinnen.**
 

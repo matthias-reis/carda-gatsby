@@ -28,11 +28,11 @@ errors: {}
 subTitle: Ponys aus meiner Herde gehen auf Reisen
 ---
 
-<hr />
+---
 
 Hinweis: Die Aktion ist beendet. [Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
-<hr />
+---
 
 **Der Frühling steht in den Starlöchern. Zeit für mich, ein Bisschen Platz in meiner Vitrine zu schaffen.**
 

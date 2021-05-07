@@ -186,7 +186,7 @@ Lost in Kiev gründeten sich 2007. In der aktuellen Besetzung (Gitarre: Dimitri 
 
 Bilder: Lost in Kiev, [Helen Messenger](https://www.helenmessengerphotography.com/), Tis Mavander, Julien Dupeyron
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

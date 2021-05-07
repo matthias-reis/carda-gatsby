@@ -41,11 +41,11 @@ subTitle: Ein aufschlussreiches Gespräch mit einem Tierchirurgen
 
 ** [_Hier geht es zu Teil 2 des Artikels_](/2013/09/die-rehabilitation-eines-tapferen-katers/)  Mit diesem Artikel möchte ich zeigen, dass eine zweite Meinung Leben retten kann. Donnerstag, 26.September 2013**
 
-<hr />
+---
 
 **Hinweis:** Die Namen und Orte in dieser Reportage wurde aus Datenschutzgründen und zum Schutz der betroffenen Personen anonymisiert.
 
-<hr />
+---
 
 **20:18 Uhr** Ich habe mal wieder Neuigkeiten für Euch. Als allererstes: Wir haben wieder einen kleinen Fortschritt zu verzeichnen. Oskar hat heute endlich wieder Futter angenommen. In der letzten Zeit hatte er ja nichts mehr gefressen, weil er Chili so schlimm vermisst.
 

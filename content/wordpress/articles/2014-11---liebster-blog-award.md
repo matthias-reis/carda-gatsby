@@ -153,7 +153,7 @@ Hier möchte ich mich gerne dreier Zitate bedienen, die ich für sehr wahr hal
 
 > "Sei du selbst die Veränderung, die du dir wünschst für diese Welt" - Mahatma Gandhi
 
-<hr />
+---
 
 Ich hatte mich gerade an den Gedanken mit der Nominierung gewöhnt und im Kopf damit angefangen, das Interview zu beantworten, da flatterte eine weitere Nominierung bei mir ins Haus! Dieses Mal von dem lieben [Andi](http://andiau.wordpress.com). Ich werde ganz rot bei so viel Ehre! Womit habe ich das verdient! Danke!
 
@@ -221,7 +221,7 @@ Als erstes würde ich auf jeden Fall Kurt Cobain dieses blöde Gewehr wegnehmen!
 
 Ich schreibe schon immer alles auf, was mich bewegt. Früher in Tagebücher, auf Blöcke, an Wände, auf Klopapier, in Briefe, heute eben ins Internet.
 
-<hr />
+---
 
 Kommen wir nun zu meinen Lieblingen. The nominees are:
 

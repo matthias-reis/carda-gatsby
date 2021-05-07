@@ -139,7 +139,7 @@ Sphaeros’ aktuelles Stück trägt den Namen "Possession". Es handelt sich dabe
 
 <YouTube id="3as9wee425c" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

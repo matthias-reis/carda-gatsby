@@ -40,7 +40,7 @@ subTitle: '"Vegan auf Rezept"'
 
 **Hinweis:** Dieses Interview habe ich bereits am 23. Februar 2016 veröffentlicht. Da es seine Brisanz bis heute nicht verloren hat, möchte ich es heute nochmal frisch mit Euch teilen.
 
-<hr />
+---
 
 **Martin Kamma, niedergelassener Facharzt für Allgemeinmedizin in Lüneburg, lebt seit 2012 vegan. In seinem Blog "Vegan auf Rezept" bringt der Mediziner seitdem fast täglich neue Tipps und Infos rund ums Thema vegan. Die vegane Ernährungsweise ist für ihn die gesündeste, die es gibt, seinen Patient⋆innen rät er daher regelmäßig dazu.**
 

@@ -37,7 +37,7 @@ subTitle: Ihlanis Rastaround
 
 **Hinweis: Diesen Beitrag habe ich ursprünglich für Vegan News geschrieben. Er ist dort am 07. September 2014 erschienen. Das Lokal "Ihlanis Rastaround" gibt es leider inzwischen nicht mehr.**
 
-<hr />
+---
 
 Seit kurzem gibt es in Augsburg einen ganz besonderen Lieferdienst, der sich besonders bei Veganern und Vegetariern großer Beliebtheit erfreut. "Ihlanis Rastaround" lautet der klangvolle Name des Ladens, serviert wird Soulfood. Von der Lasagne, über den Döner und den Falafelspieß bis zum Tiramisu und den Cookies ist alles vegan. Alle Gerichte werden vollständig in der kleinen Küche des Rastaround zubereitet, selbst die "Moxarella" auf der Pizza wird selbstgemacht.
 

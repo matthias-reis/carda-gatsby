@@ -63,7 +63,7 @@ Mich persönlich begeistern vor allem die verträumten Klavier-Passagen. Alfonso
 
 <YouTube id="zNjLTsXW3L4" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

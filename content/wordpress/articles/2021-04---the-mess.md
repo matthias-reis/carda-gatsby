@@ -88,7 +88,7 @@ Ihr könnt "The Mess" ab sofort [hier vorbestellen](https://crazysanerecords.com
 
 <YouTube id="Jy2RZ9Sqp1s" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

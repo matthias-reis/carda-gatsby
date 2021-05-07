@@ -145,7 +145,7 @@ Bilder: Anne-Leen Declercq
 
 [lyra messier online](https://lyramsr.co/?fbclid=IwAR0JoPkGx6Mlx_RRgnUASfiddrhkIEW-urYNsUA_QE-OLzDL_IdD-Esf0c4)
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

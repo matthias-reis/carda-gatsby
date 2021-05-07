@@ -82,7 +82,7 @@ Ein schöner Satz, der ziemlich genau in Worte fasst, wie ich über Musik denke.
 
 <YouTube id="i6rwQ0hpnzg" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

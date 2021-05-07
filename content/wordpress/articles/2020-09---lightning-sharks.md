@@ -132,7 +132,7 @@ Am bekanntesten war die Stadt während der Zeit der Trip-Hop Connection mit Mass
 
 <YouTube id="TYz5Lg-XHAc" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

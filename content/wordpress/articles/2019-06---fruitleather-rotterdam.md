@@ -39,11 +39,11 @@ _Werbung\*_
 
 **In Rotterdam gibt es eine Firma, die aus aussortierten Früchten Leder herstellt. Anschließend können daraus Handtaschen, Schuhe und Jacken geschneidert werden.**
 
-<hr />
+---
 
 **Info:** Diesen Artikel habe ich ursprünglich für Vegan News geschrieben. Dort ist er bereits am 3. September 2015 erschienen. Da er an Brisanz seither nicht verloren hat und ich das vorgestellte Projekt nach wie vor gut finde, erscheint er heute frisch überarbeitet in meinem Blog
 
-<hr />
+---
 
 Kennt Ihr schon **Fruitleather Rotterdam** ? Noch nie was davon gehört? Dann solltet Ihr jetzt weiterlesen, denn es handelt sich dabei um ein wirklich spannendes Projekt, das immer wieder für Schlagzeilen sorgt und den Ledermarkt völlig auf den Kopf stellen könnte.
 

@@ -193,7 +193,7 @@ Unser Treffen fand im Übungsraum der Band in der der alten Reese-Kaserne in Aug
 
 **Quincy:** Unsere [Bandseite](http://www.myspace.com/pepespenthouse) besuchen, oder uns einfach persönlich nach den Konzerten ansprechen.
 
-<hr />
+---
 
 **Nachtrag:** Der Artikel ist veraltet, die Mitglieder der Band haben sich inzwischen anderen musikalischen Projekten zugewandt.
 

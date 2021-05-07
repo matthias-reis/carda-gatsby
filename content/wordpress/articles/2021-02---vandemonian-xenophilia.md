@@ -106,7 +106,7 @@ Drei Stücke von "Xenophilia" stehen bei den Streaming-Diensten schon heute zum 
 
 <YouTube id="xUoMMdWRG0o" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

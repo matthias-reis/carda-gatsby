@@ -122,7 +122,7 @@ Der Sprachlehrer vergreift sich immer wieder im Ton und beleidigt Dich? Dein Kum
 
 Jeden Abend läuft im Fernsehen die Nachrichtensendung. Jeden Abend gibt es schlechte Nachrichten. Versteh mich jetzt nicht falsch: es ist natürlich wichtig, informiert zu bleiben. Aber gönn Dir mal eine Auszeit. Mach den Fernseher aus und widme Deine Zeit einem guten Roman. Und schalte auf einen Spielfilm um. Vielleicht tut es Deiner Stimmung gut, wenn Du tagsüber mit den neuesten Nachrichten versorgst und Abends etwas tust, das vor dem Zubettgehen nicht nochmal für einen Aufreger sorgt?
 
-<hr />
+---
 
 ## Lebe im Hier und Jetzt
 

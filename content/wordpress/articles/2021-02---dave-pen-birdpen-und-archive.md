@@ -191,7 +191,7 @@ PS: Während dem ersten Lockdown haben wir mit BirdPen eine vollständige halb-a
   BirdPen](https://birdpen.bandcamp.com/album/the-lockdown-sessions)
 </iframe>
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

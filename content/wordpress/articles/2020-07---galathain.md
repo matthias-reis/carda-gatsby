@@ -130,7 +130,7 @@ Im Moment liegt mein Fokus mehr darauf, mehr über den Schreibprozess und das So
   src="https://embed.music.apple.com/de/album/and-the-rain-tasted-like-blood-single/1518440267"
 ></iframe>
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

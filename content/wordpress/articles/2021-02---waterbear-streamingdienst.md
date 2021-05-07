@@ -73,7 +73,7 @@ Die Plattform hat sich übrigens nach dem Bärtierchen (Tardigrada) – auch beg
 
 Wenn Ihr jetzt neugierig geworden seid und gerne mal reinschauen möchtet: [Hier geht es direkt zu WaterBear](https://www.waterbear.com/).
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

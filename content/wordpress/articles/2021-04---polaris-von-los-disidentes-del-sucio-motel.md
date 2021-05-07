@@ -67,7 +67,7 @@ Für mich eine neue Schönheit im Plattenregal, die Fans von Mastodon und Barone
 
 <YouTube id="40NZHZbu0dQ" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

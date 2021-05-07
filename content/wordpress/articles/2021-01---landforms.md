@@ -66,7 +66,7 @@ Bilder: Perry Frank
 
 <YouTube id="8WetGwZM3zU" />
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

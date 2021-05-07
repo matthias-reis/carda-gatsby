@@ -37,11 +37,11 @@ subTitle: Ein Haus aus Recyclingmaterial
 
 **"Es ist Zeit für echte Experiment", heißt es auf der Earthship Homepage. Ein Earthship ist ein Haus aus Recyclingmaterial, dessen Bewohner völlig autark als Selbstversorger leben - back to nature also.**
 
-<hr />
+---
 
 **Info:** Ich habe diesen Artikel ursprünglich für Vegan News geschrieben. Dort ist er bereits am 21. September 2015 erschienen. Da er an Brisanz seitdem nicht verloren hat und ich das vorgestellte Projekt nach wie vor gut finde, erscheint er heute frisch überarbeitet in meinem Blog.
 
-<hr />
+---
 
 <RemoteImage
   alt={`earthship`}

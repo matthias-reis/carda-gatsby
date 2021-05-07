@@ -210,7 +210,7 @@ Ich hoffe sehr, dass uns 2021 der Brexit nicht so bremsen wird, wie es COVID 202
 
 **Justin:** Ja, wir haben die erste Hälfte des nächsten Albums schon fertig. Also denke ich, dass wir es irgendwann Ende nächsten Jahres veröffentlichen werden. Außerdem werden wir hoffentlich bald einen neuen Song veröffentlichen.
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 

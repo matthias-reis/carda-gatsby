@@ -45,11 +45,11 @@ errors: {}
 subTitle: Offizielles Burg Herzberg Festival T-Shirt zu gewinnen!
 ---
 
-<hr />
+---
 
 **Hinweis:** Die Aktion ist beendet. [Bestimmt findet bald wieder eine tolle Verlosung im Blog statt](/tag/verlosung/).
 
-<hr />
+---
 
 Seit dem 16. August 2012 läuft jetzt hier auf meiner Seite eine [Verlosung](//?s=verlosung), bei der es tolle Sachen zu Gewinnen gibt.
 

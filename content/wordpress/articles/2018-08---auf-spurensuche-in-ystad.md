@@ -46,7 +46,7 @@ Alle Orte aus den Büchern gibt es wirklich. Als man in den 90er Jahren begann, 
 
 Doch der Besuch lohnt sich nicht nur aus diesem Grund sehr. Ystad ist wirklich sehr schön. Die gepflegte Altstadt lädt zum Spaziergang ein. Viele gemütliche Cafés locken mit Kaffee und Godis.
 
-<hr />
+---
 
 ## Der Kommissar ermittelt
 

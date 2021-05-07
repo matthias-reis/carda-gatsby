@@ -149,7 +149,7 @@ Abgesehen davon, wie sie aussieht, kann man die harte Arbeit, die wir hineingest
   data-mce-fragment="1"
 ></iframe>
 
-<hr />
+---
 
 <div id="⋆">[⋆] _English version_ </div>
 
