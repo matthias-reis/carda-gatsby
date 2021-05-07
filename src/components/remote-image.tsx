@@ -6,15 +6,16 @@ import { size } from 'lodash';
 
 export const RemoteImage: React.FC<{
   alt: string;
-  size?: 'large' | 'medium';
+  size?: 'full' | 'large' | 'medium';
   title?: string;
   loadingUrl?: string;
   mediumUrl?: string;
   largeUrl?: string;
 }> = ({ alt, title, size, loadingUrl, largeUrl, mediumUrl }) => {
+  const isLarge = size === 'large' || size === 'full';
   const Container =
-    size === 'large' ? FixedImageContainer : FloatingImageContainer;
-  const src = size === 'large' ? largeUrl : mediumUrl;
+    isLarge ? FixedImageContainer : FloatingImageContainer;
+  const src = isLarge ? largeUrl : mediumUrl;
   return (
     <Container>
       <CardaImage alt={alt} src={src || ''} loading={loadingUrl} />
