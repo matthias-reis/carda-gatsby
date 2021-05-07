@@ -25,7 +25,7 @@ labels:
 - Helsinki
 - Skandinavien
 - Weißwangengänse
-- 'serie: Finnland 2016'
+- serie:Finnland 2016
 focusKeyword: Gänse
 status: publish
 isWerbung: false
