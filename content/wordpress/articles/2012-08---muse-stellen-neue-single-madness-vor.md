@@ -49,7 +49,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: <strong>Album "The 2nd Law" am 1. Oktober </strong>
+subTitle: Album "The 2nd Law" am 1. Oktober
 ---
 
 **Glamourös klingt es, das neueste Werk von Muse. Es lässt erahnen, dass die Band mit ihrer neuen Platte "The 2nd Law", das nun am 1. Oktober erscheinen soll, die elektronische Seite des Musikuniversums erstmal noch nicht ganz hinter sich lässt.**
@@ -65,11 +65,13 @@ Wir dürfen sehr gespannt sein, was uns mit "The 2nd Law" erwartet. Ich persönl
 ## Doch jetzt viel Spaß mit Muse - "Madness"
 
 {' '}
+
 <YouTube id="Ek0SgwWmF9w" />
 
 ## Und hier sind für Euch nochmal Muse mit "Unsustainable"
 
 {' '}
+
 <YouTube id="EF_xdvn52As" />
 
 ## Muse Wegweiser

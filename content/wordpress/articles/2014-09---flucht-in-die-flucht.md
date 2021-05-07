@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: <strong>Das neue DIE STERNE Album ist endlich da</strong>
+subTitle: Das neue DIE STERNE Album ist endlich da
 ---
 
 <RemoteImage

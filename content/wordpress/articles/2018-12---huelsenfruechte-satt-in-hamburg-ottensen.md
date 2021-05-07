@@ -57,7 +57,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: <strong>"Power Of Veggie Love"</strong>
+subTitle: 'Power Of Veggie Love'
 ---
 
 _Werbung\*_

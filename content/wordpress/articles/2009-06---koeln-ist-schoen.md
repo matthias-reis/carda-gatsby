@@ -24,5 +24,5 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: <strong>Zwischenstopp am Bahnhof Köln</strong>
+subTitle: Zwischenstopp am Bahnhof Köln
 ---

@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: <strong>Sulawesi - On The Road And Inside Indonesia</strong>
+subTitle: Sulawesi - On The Road And Inside Indonesia
 ---
 
 <RemoteImage

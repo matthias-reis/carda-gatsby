@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: <strong>Rücksichtsloses</strong> Militärmanöver in der Ostsee
+subTitle: Rücksichtsloses Militärmanöver in der Ostsee
 ---
 
 **Die deutsche Marine hat vor einer Übung auf der Ostsee 39 Seeminen gesprengt. Dabei haben 18 Schweinswale ihr Leben verloren.**

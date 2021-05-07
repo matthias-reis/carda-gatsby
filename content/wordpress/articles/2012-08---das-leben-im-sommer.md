@@ -58,7 +58,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: '<strong>Oder: Strände lassen sich nicht in Schubladen einordnen.</strong>'
+subTitle: 'Oder: Strände lassen sich nicht in Schubladen einordnen.'
 ---
 
 **"Kernzeitverkürzung". Das bedeutet so viel wie "Hitzefrei" und schreit nach einem Picknick am See. Im Büro wird es im Winter sicher wieder kühl genug sein. Der Kaffee ist heute irgendwie zu warm. Wie ein etwas zu klein geratenes Kleidungsstück fühlt sich das an.**
@@ -74,6 +74,7 @@ Liebe Grüße aus der Mittagspausensonne hinter dem Bürofenster. \_\_
 ## Song des Tages Weezer – "Island In The Sun"
 
 {' '}
+
 <YouTube id="w5PG3yiSx-E" />
 
 RIP Mikey Welsh

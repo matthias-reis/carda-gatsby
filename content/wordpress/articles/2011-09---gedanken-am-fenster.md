@@ -42,7 +42,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: <strong>Erst bist du auf die Welt gekommen, dann hast du dich verliebt. </strong>
+subTitle: Erst bist du auf die Welt gekommen, dann hast du dich verliebt.
 ---
 
 <RemoteImage
