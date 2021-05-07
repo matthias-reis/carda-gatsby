@@ -80,18 +80,14 @@ Aufpassen müssen Veganer im Moment noch in einem Punkt: Die Flaschen und Dosen 
 
 ### Das meldet Guinness:
 
-<blockquote
+> "Die Abfüllung mit dem veganen Filtersystem für Guinness Draught (Dose und Fass) hat im August 2016 gestartet und wird in mehreren Prozessen an unsere Händler und Pubs distributiert.
+>
+> Da die Distribution noch läuft, könnte es sein, dass Restbestände die noch mit dem bisherigen Filtersystem abgefüllt worden sind, im Markt vorhanden sein können.
+>
+> Wenn Sie sicher gehen wollen, dass das von Ihnen gekaufte GUINNESS mit dem neuen Veganen Filtersystem abgefüllt wurde, so prüfen Sie bitte das MHD. Wenn das MHD mindestens September 2017 ist, können Sie sicher sein, dass das GUINNESS durch das neue Vegane Filtersystem gelaufen ist.
+> 
+> Liebe Grüße Ihr Guinness WebTeam"
 
-"Die Abfüllung mit dem veganen Filtersystem für Guinness Draught (Dose und Fass) hat im August 2016 gestartet und wird in mehreren Prozessen an unsere Händler und Pubs distributiert.
-
-Da die Distribution noch läuft, könnte es sein, dass Restbestände die noch mit dem bisherigen Filtersystem abgefüllt worden sind, im Markt vorhanden sein können.
-
-Wenn Sie sicher gehen wollen, dass das von Ihnen gekaufte GUINNESS mit dem neuen Veganen Filtersystem abgefüllt wurde, so prüfen Sie bitte das MHD. Wenn das MHD mindestens September 2017 ist, können Sie sicher sein, dass das GUINNESS durch das neue Vegane Filtersystem gelaufen ist.
-
-Liebe Grüße Ihr Guinness WebTeam"
-
-</blockquote>
-
-<sub>Vielen Dank an Robin Rader für den Hinweis.</sub>
+<small>Vielen Dank an Robin Rader für den Hinweis.</small>
 
 <Gallery name="flickr/anneguinness2017" />
