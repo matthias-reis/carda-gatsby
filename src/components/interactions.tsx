@@ -13,7 +13,6 @@ type InteractionsProps = {
 export const Interactions: React.FC<InteractionsProps> = ({ meta }) => (
   <InteractionsContainer>
     <InteractionNewsletter />
-    <InteractionComment />
     <InteractionApplause meta={meta} />
   </InteractionsContainer>
 );
