@@ -9,6 +9,8 @@ labels:
 - Naturkosmetik
 - trockene Haut
 - vegane Kosmetik
+- Fair Fashion & Beauty
+- Produkttest
 language: de
 year: "2021"
 month: '05'
