@@ -100,5 +100,6 @@ fields:
   label: Sprachlink
   description: Bitte vollständig angeben (/2021/04/titel)
 pages:
+- content/articles/alter-von-karin-park-und-lustmord.md
 - content/articles/diy-kosmetik-fur-trockene-haut.md
 - content/articles/faire-vegane-bettwasche.md
