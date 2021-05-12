@@ -31,6 +31,8 @@ labels:
 - Wanderung
 - wann kommst Du
 - Wasser
+- serie:Irland 2017
+- serie:Flarf-Gedichte
 focusKeyword: Grün
 status: publish
 isWerbung: false
