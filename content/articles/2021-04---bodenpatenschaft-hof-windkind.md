@@ -1,42 +1,46 @@
 ---
 templateKey: article
-date: 2021-04-26T16:18:04.381Z
+date: 2021-04-26T16:18:04.381+00:00
 slug: bodenpatenschaft-hof-windkind
 typeName: Produkttest
 title: Bodenpatenschaft für bio-vegane Nüsse
 subTitle: Hof Windkind macht Ackerflächen klimafreundlich
 seoTitle: Bodenpatenschaft bei Hof Windkind übernehmen und Nüsse bekommen
-description: Wenn Ihr eine Bodenpatenschaft bei Hof Windkind übernehmt, bekommt Ihr bio-vegan angebaute Haselnüsse, Walnüssen oder hochwertiges Walnussöl.
-excerpt: Werbung – Hof Windkind steht für bio-vegane Nüsse in hoher Qualität. Das Highlight dabei ist, dass man einen Baum adoptieren kann und dann die Nüsse erhält. Seit neuestem ist jetzt auch eine Bodenpatenschaft möglich. Ich erzähle Euch, wie das funktioniert.
-image: /img/2021-04-26-hof-windkind-33.jpg
-ogImage: /img/bodenpatenschaft-fb.jpg
+description: Wenn Ihr eine Bodenpatenschaft bei Hof Windkind übernehmt, bekommt Ihr
+  bio-vegan angebaute Haselnüsse, Walnüssen oder hochwertiges Walnussöl.
+excerpt: Werbung – Hof Windkind steht für bio-vegane Nüsse in hoher Qualität. Das
+  Highlight dabei ist, dass man einen Baum adoptieren kann und dann die Nüsse erhält.
+  Seit neuestem ist jetzt auch eine Bodenpatenschaft möglich. Ich erzähle Euch, wie
+  das funktioniert.
+image: "/img/2021-04-26-hof-windkind-33.jpg"
+ogImage: "/img/bodenpatenschaft-fb.jpg"
 labels:
-  - Berlin
-  - Bio-Haselnüsse
-  - Ernährung & Gesundheit
-  - bio-vegan
-  - Bio-Walnüsse
-  - Bodenpatenschaft
-  - Brandenburg
-  - Ernährung
-  - Haselnüsse
-  - Hof Windkind
-  - Nüsse
-  - Omega-3
-  - Omega-3 vegan
-  - Omega-3-Fettsäuren
-  - vegan
-  - Speiseöl
-  - vegane Ernährung
-  - vegane Landwirtschaft
-  - Walnüsse
-  - Walnussöl
+- Berlin
+- Bio-Haselnüsse
+- Ernährung & Gesundheit
+- bio-vegan
+- Bio-Walnüsse
+- Bodenpatenschaft
+- Brandenburg
+- Ernährung
+- Haselnüsse
+- Hof Windkind
+- Nüsse
+- Omega-3
+- Omega-3 vegan
+- Omega-3-Fettsäuren
+- vegan
+- Speiseöl
+- vegane Ernährung
+- vegane Landwirtschaft
+- Walnüsse
+- Walnussöl
 focusKeyword: Bodenpatenschaft
 advertisement: true
 affiliate: false
 language: de
----
 
+---
 **Hof Windkind steht für bio-vegane Nüsse in hoher Qualität. Das Highlight dabei ist, dass man einen Baum adoptieren kann und dann die Nüsse erhält. Seit neuestem ist jetzt auch eine Bodenpatenschaft möglich. Ich erzähle Euch, wie das funktioniert.**
 
 In der Vergangenheit habe ich Euch ja schon von der Baumpatenschaft berichtet und habe [die Walnüsse](http://cardamonchai.com/2019/09/hof-windkind-walnuss-baum-adoptieren/), [die Haselnüsse](http://cardamonchai.com/2020/03/haselnuesse-hof-windkind/) und [das Walnussöl](http://cardamonchai.com/2020/10/walnussoel-hof-windkind/) von Hof Windkind getestet. Silvia und David, die den Hof betreiben, achten bei Ihrer Arbeit auf alle Details. Alles soll lokal fair und vegan sein.
@@ -79,22 +83,22 @@ Wenn Ihr eine Patenschaft abschließen wollt, habt Ihr verschiedene Möglichkeit
 
 Bei einer Bodenpatenschaft für fünf Quadratmeter habt Ihr folgende Option:
 
-- 500 ml Bio-Walnussöl für 33,90 Euro⋆
+* 500 ml Bio-Walnussöl für 33,90 Euro⋆
 
 Bei zehn Quadratmetern könnt Ihr zwischen folgenden Möglichkeiten wählen:
 
-- 4 kg Walnüsse für 42,90 Euro⋆
-- 2,5 kg Haselnüsse für 31,15 Euro⋆
-- 2 x 500 ml Bio-Walnussöl für 60,90 Euro⋆
+* 4 kg Walnüsse für 42,90 Euro⋆
+* 2,5 kg Haselnüsse für 31,15 Euro⋆
+* 2 x 500 ml Bio-Walnussöl für 60,90 Euro⋆
 
 Wenn Ihr 16 Quadratmeter "adoptiert", erhaltet Ihr
 
-- 4 kg Haselnüsse für 48,90 Euro.⋆
+* 4 kg Haselnüsse für 48,90 Euro.⋆
 
 Wenn Ihr ganze 20 Quadratmeter nehmt, bekommt Ihr
 
-- 8 kg Walnüsse für 78,90 Euro⋆ oder
-- 4 x 500 ml Bio-Walnussöl für 114,90 Euro⋆.
+* 8 kg Walnüsse für 78,90 Euro⋆ oder
+* 4 x 500 ml Bio-Walnussöl für 114,90 Euro⋆.
 
 ⋆Alle Preise sind inklusive Mehrwertsteuer und Versand innerhalb Deutschlands.
 
@@ -120,10 +124,10 @@ Das Walnussöl pressen Silvia und David auf Bestellung, damit es so frisch wie m
 
 Alles Wissenswerte zu den Baum- und Bodenpatenschaften und zu den Besichtigungsterminen findet Ihr auf der [Hof Windkind Homepage](https://www.hofwindkind.com).
 
-Hof Windkind\
-16775 Löwenberger\
+Hof Windkind  
+16775 Löwenberger  
 Land OT Neuendorf
 
 [Hier könnt Ihr Bodenpat⋆innen werden](https://www.hofwindkind.com/info/bodenpatenschaft.html).
 
-Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Weitere Details: [www.trusted-blogs.com/werbekennzeichnung](www.trusted-blogs.com/werbekennzeichnung)
+Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Weitere Details: [www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/tipps/werbekennzeichnung/ "Werbekennzeichnung Trusted Blogs")
