@@ -1,50 +1,54 @@
 ---
 templateKey: article
-date: 2021-04-24T10:10:00.000Z
+date: 2021-04-24T10:10:00.000+00:00
 slug: playlist-mai-2021
 typeName: Beitrag
 title: Musikliste für den Mai
 subTitle: 12 Songs für mehr Hoffnung
 seoTitle: Musikliste für den Mai – 12 Songs für mehr Hoffnung
-description: Die Musikliste für den Mai hat es in sich. Um Euch ein bisschen Auftrieb zu geben, haben wir wieder 12 besondere Songs für Euch selektiert.
-excerpt: Die Musikliste für den Mai hat es in sich. Um Euch ein bisschen Auftrieb zu geben, haben wir wieder 12 besondere Songs für Euch selektiert. Dann nagt die derzeitige Situation hoffentlich nicht mehr allzu sehr an Euren Nerven.
-image: /img/12-songs-mai-blog.jpg
-ogImage: /img/musikliste-mai-fb.png
+description: Die Musikliste für den Mai hat es in sich. Um Euch ein bisschen Auftrieb
+  zu geben, haben wir wieder 12 besondere Songs für Euch selektiert.
+excerpt: Die Musikliste für den Mai hat es in sich. Um Euch ein bisschen Auftrieb
+  zu geben, haben wir wieder 12 besondere Songs für Euch selektiert. Dann nagt die
+  derzeitige Situation hoffentlich nicht mehr allzu sehr an Euren Nerven.
+image: "/img/12-songs-mai-blog.jpg"
+ogImage: "/img/musikliste-mai-fb.png"
 labels:
-  - serie:Playlists
-  - Ambient
-  - Black Mountain
-  - Devil Sold His Soul
-  - Doom
-  - Dream Pop
-  - Genghis Tron
-  - Godspeed You! Black Emperor
-  - Hoffnung
-  - Intrumental
-  - Jo Quail
-  - Last Hyena
-  - Malämmar
-  - Math-Rock
-  - Metal
-  - Moby
-  - Møaa
-  - Musik
-  - Post-Metal
-  - Bands
-  - Playlist
-  - Musikliste
-  - Post-Rock
-  - Progressive
-  - Red Fang
-  - Shoegaze
-  - Tomahawk
-  - Warpaint
+- Bands
+- serie:Playlists
+- Ambient
+- Black Mountain
+- Devil Sold His Soul
+- Doom
+- Dream Pop
+- Genghis Tron
+- Godspeed You! Black Emperor
+- Hoffnung
+- Intrumental
+- Jo Quail
+- Last Hyena
+- Malämmar
+- Math-Rock
+- Metal
+- Moby
+- Møaa
+- Musik
+- Post-Metal
+- Bands
+- Playlist
+- Musikliste
+- Post-Rock
+- Progressive
+- Red Fang
+- Shoegaze
+- Tomahawk
+- Warpaint
 focusKeyword: Musikliste
 advertisement: false
 affiliate: false
 language: de
----
 
+---
 **Der Mai steht vor der Tür! Wie geht es Euch? Hoffentlich nagt die derzeitige Situation nicht zu sehr an Euren Nerven. Um Euch ein bisschen Auftrieb zu geben und etwas Schwung reinzubringen, haben wir wieder 12 besondere Songs für Euch selektiert.**
 
 Diese wunderbare Tradition, der ich Monat für Monat gemeinsam mit Valentin und Matze nachgehe, sorgt jedes Mal dafür, dass wir drei uns an ein oder zwei Tagen noch intensiver mit Musik beschäftigen, als ohnehin schon und das ist etwas wirklich Schönes. Denn: Musik macht nachhaltig glücklich. Ich glaube, das ist sogar wissenschaftlich erwiesen.
