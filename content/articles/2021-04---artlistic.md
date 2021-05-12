@@ -1,27 +1,32 @@
 ---
 templateKey: article
-date: 2021-04-28T16:30:37.639Z
+date: 2021-04-28T16:30:37.639+00:00
 slug: artlistic
 typeName: Beitrag
 title: ARTlistic
 subTitle: Ein neues Kunstportal sorgt für Furore
 seoTitle: ARTlistic – ein brandneues Kunstportal sorgt für Furore
-description: 'ARTlistic kommt mit einem durchdachten Konzept daher: Künstler⋆innen können ihre Bilder ohne Umwege im Netz verkaufen.'
-excerpt: 'ARTlistic ist neu auf dem Kunstmarkt. Die Plattform kommt mit einem durchdachten Konzept daher: Künstler⋆innen können ihre Kunstwerke ohne Zwischenhandel direkt über das Netz verkaufen. Die Idee dafür hatte Gründer Sören Tänzer während des ersten COVID-Lockdowns 2020.'
-image: /img/artlistic.jpg
-ogImage: /img/artlistic-fb.jpg
+description: 'ARTlistic kommt mit einem durchdachten Konzept daher: Künstler⋆innen
+  können ihre Bilder ohne Umwege im Netz verkaufen.'
+excerpt: 'ARTlistic ist neu auf dem Kunstmarkt. Die Plattform kommt mit einem durchdachten
+  Konzept daher: Künstler⋆innen können ihre Kunstwerke ohne Zwischenhandel direkt
+  über das Netz verkaufen. Die Idee dafür hatte Gründer Sören Tänzer während des ersten
+  COVID-Lockdowns 2020.'
+image: "/img/artlistic.jpg"
+ogImage: "/img/artlistic-fb.jpg"
 labels:
-  - Kunst
-  - ARTlistic
-  - Moderne Kunst
-  - Zeitgenössische Kunst
-  - Kunstportal
+- Geschichten & Erlebtes
+- Kunst
+- ARTlistic
+- Moderne Kunst
+- Zeitgenössische Kunst
+- Kunstportal
 focusKeyword: ARTlistic
 advertisement: true
 affiliate: true
 language: de
----
 
+---
 **ARTlistic ist neu auf dem Kunstmarkt. Die Plattform kommt mit einem durchdachten Konzept daher: Künstler⋆innen können ihre Kunstwerke ohne Zwischenhandel direkt über das Netz verkaufen. Die Idee dafür hatte Gründer Sören Tänzer während des ersten COVID-Lockdowns 2020.**
 
 Was mit einem spontanen Einfall losging, erfreut sich inzwischen wachsender Beliebtheit – auf der Seite der Künstler⋆innen und auf der Seite der Käufer⋆innen.

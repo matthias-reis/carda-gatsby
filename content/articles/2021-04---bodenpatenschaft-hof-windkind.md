@@ -15,6 +15,7 @@ excerpt: Werbung – Hof Windkind steht für bio-vegane Nüsse in hoher Qualitä
 image: "/img/2021-04-26-hof-windkind-33.jpg"
 ogImage: "/img/bodenpatenschaft-fb.jpg"
 labels:
+- Ernährung & Gesundheit
 - Berlin
 - Bio-Haselnüsse
 - Ernährung & Gesundheit
