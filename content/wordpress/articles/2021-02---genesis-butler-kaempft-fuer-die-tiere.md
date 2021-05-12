@@ -1,28 +1,31 @@
 ---
-date: 2021-02-13T17:07:04.000Z
+date: 2021-02-13T17:07:04.000+00:00
 slug: genesis-butler-vegane-aktivistin
-path: /2021/02/genesis-butler-vegane-aktivistin/
+path: "/2021/02/genesis-butler-vegane-aktivistin/"
 type: Artikel
 typeName: Artikel
 title: Genesis Butler kämpft für die Tiere
 seoTitle: Genesis Butler kämpft für die Tiere – Junge Aktivistin zeigt es allen
 ogTitle: Genesis Butler kämpft für die Tiere – Junge Aktivistin zeigt es allen
-description: Die 14-jährige Tierrechtsaktivistin Genesis Butler hat in ihrem Leben bisher schon mehr erreicht als die meisten Erwachsenen.
-excerpt: Die 14-jährige Tierrechtsaktivistin Genesis Butler hat in ihrem Leben bisher schon mehr erreicht als die meisten Erwachsenen.
+description: Die 14-jährige Tierrechtsaktivistin Genesis Butler hat in ihrem Leben
+  bisher schon mehr erreicht als die meisten Erwachsenen.
+excerpt: Die 14-jährige Tierrechtsaktivistin Genesis Butler hat in ihrem Leben bisher
+  schon mehr erreicht als die meisten Erwachsenen. Seit sie im Alter von drei Jahren
+  beschloss, kein Fleisch mehr zu essen, setzt sie sich für Tiere ein.
 fileName: 2021-02---genesis-butler-kaempft-fuer-die-tiere.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_genesis-butler-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_genesis-butler-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAoEAABAwQBBAIBBQAAAAAAAAABAgMEAAURIQYSEzFBFCIjMlFhcZH/xAAXAQADAQAAAAAAAAAAAAAAAAACBAUD/8QAIhEAAAQGAwEBAAAAAAAAAAAAAAECEQMEEiExQRNhoRRx/9oADAMBAAIRAxEAPwCT824c/Z5cKddsth9bSVqwS2Mpz0n3kDzr+q6/OLDd2pcGU1Y+zHmNocbQygobUOhIJCTtJ9kEA+8bqhcV5W9dbdBDcCJeYqAgSBJdHyGlg7HSvXjxTBynn6/m3BiG0pthicplJcSlQ/G19s+dlRI8+BQxaKOYjbTd7AweYlfKoiPb9aP8CDGjW60wHQxZy46yFLS5KS2ruqG99O8axgbwRU0iXtN65Gl2LFetrSzqPHeyhOtgEpKsH+ScVeIkpFxtbz1xTCddISkKW0gJyoE4GB7GBUD5lHRbb5cxaYjBtipTjLLbSiekDBI0cjCgR59VNlzUp3uKkWlLNYONgns2hDDfHoL8qS99ZDj4LgcGj9iNADf+1qs6BZFTY9yaees89/vuIjtlZjqJyFIR+oYOv2Ioop6fUSo6ktlvMBaRdMFJvh/cjLyO/kGzItUa6KiRlhcpvsdJWAQQEkecDIGcea6CJNtbkJXD49MQ442XlhUUJSgqySkpAI97xk7oopdJ0JsNjKtVx//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_genesis-butler-fb.png__l.jpg
 labels:
-  - Cesar Chavez
-  - Genesis Butler
-  - SCIL
-  - Social Compassion in Legislatio
-  - Tierrechte
-  - Tierrechte
-  - vegan
-  - Vegane Aktivisten
+- Cesar Chavez
+- Genesis Butler
+- SCIL
+- Social Compassion in Legislatio
+- Tierrechte
+- Tierrechte
+- vegan
+- Vegane Aktivisten
 focusKeyword: Genesis Butler
 status: publish
 isWerbung: false
@@ -30,8 +33,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Junge Aktivistin zeigt es allen
----
+year: "2021"
+month: '02'
 
+---
 **Die 14-jährige Tierrechtsaktivistin Genesis Butler hat in ihrem Leben bisher schon mehr erreicht als die meisten Erwachsenen. Seit sie im Alter von drei Jahren beschloss, kein Fleisch mehr zu essen, setzt sie sich für Tiere ein.**
 
 Als sie mit sechs Jahren herausfand, woher die Milch stammt, wurde sie von einem Tag auf den anderen zur Veganerin. Für ihren Aktivismus hat die inzwischen 14-Jährige bereits zahlreiche Auszeichnungen bekommen. Unter anderem wurde ihr der Sir Paul McCartney Young Veg Advocate Award und der PETA's Youth Activist of the Year Award verliehen.
