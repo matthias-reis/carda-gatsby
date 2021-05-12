@@ -25,6 +25,7 @@ labels:
 - Planten un Blomen
 - weloveHH
 - Winter
+- serie:Planten un Blomen
 focusKeyword: Winter
 status: publish
 isWerbung: false
