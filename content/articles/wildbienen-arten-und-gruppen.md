@@ -13,6 +13,8 @@ labels:
 - Bienenbalkon
 - Hummeln
 - Insektenhotel
+- Klima & Umweltschutz
+- Tierrechte
 language: de
 year: "2021"
 month: '05'
