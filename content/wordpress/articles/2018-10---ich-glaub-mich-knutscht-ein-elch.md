@@ -27,7 +27,7 @@ labels:
 - Skandinavien
 - Wald
 - Walter Moers
-- serie:Finnland 2016
+- serie:Schweden 2018
 focusKeyword: Elch
 status: publish
 isWerbung: false
