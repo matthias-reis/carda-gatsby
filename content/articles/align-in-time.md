@@ -1,10 +1,11 @@
 ---
 date: 2021-05-02T17:21:42Z
 labels:
-- Align In Time
 - " Post-Rock"
 - Interview
 - English & German
+- Bands
+- Align in Time
 language: de
 year: "2021"
 month: '05'
@@ -22,7 +23,7 @@ excerpt: Align in Time ist ein One-Person Post-Rock Projekt aus Providence, Rhod
   neu. Zeit, ihm ein paar Fragen zu stellen.
 image: "/img/2021-05-align-in-time-john-boles.jpeg"
 ogImage: "/img/2021-05-align-in-time-2.jpg"
-focusKeyword: Align In Time
+focusKeyword: Align in Time
 advertisement: false
 affiliate: false
 languageLink: align-in-time-interview-en
