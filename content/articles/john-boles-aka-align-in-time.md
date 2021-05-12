@@ -5,6 +5,7 @@ labels:
 - " Interview"
 - Post-Rock
 - English & German
+- Bands
 language: en
 year: "2021"
 month: '05'
