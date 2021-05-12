@@ -1,62 +1,65 @@
 ---
-date: 2017-06-07T12:22:37.000Z
+date: 2017-06-07T12:22:37.000+00:00
 slug: el-iris-de-lucy-las-palmas
-path: /2017/06/el-iris-de-lucy-las-palmas/
+path: "/2017/06/el-iris-de-lucy-las-palmas/"
 type: Galerie
 typeName: Galerie
 title: El iris de Lucy
 seoTitle: El iris de Lucy - Eine packende Ausstellung in Las Palmas
 ogTitle: El iris de Lucy - Eine packende Ausstellung in Las Palmas
-description: 'Bei unserem Aufenthalt in Las Palmas im Mai war stand auch Kunst auf dem Programm. Genauer: Die packende Ausstellung EL IRIS DE LUCY im CAAM.'
-excerpt: 'Bei unserem Aufenthalt in Las Palmas im Mai war stand auch Kunst auf dem Programm. Genauer: Die packende Ausstellung EL IRIS DE LUCY im CAAM.'
+description: 'Bei unserem Aufenthalt in Las Palmas im Mai war stand auch Kunst auf
+  dem Programm. Genauer: Die packende Ausstellung EL IRIS DE LUCY im CAAM.'
+excerpt: 'Bei unserem Aufenthalt in Las Palmas im Mai war stand auch Kunst auf dem
+  Programm. Genauer: Die packende Ausstellung EL IRIS DE LUCY im CAAM.'
 fileName: 2017-06---el-iris-de-lucy.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35025778881_060fbca8d4_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35025778881_060fbca8d4_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEBQj/xAAqEAACAQMDAwIGAwAAAAAAAAABAgMABBEFBhIhMUEUURVDYXKBwYSxsv/EABcBAAMBAAAAAAAAAAAAAAAAAAADBQH/xAAhEQABBAEEAwEAAAAAAAAAAAABAAIDETEEBWFxEhMhwf/aAAwDAQACEQMRAD8A83bft0udb06GVQ0clzEjKR0ILgEGnNlDauCwtNLIHh7KP3+2he1WA3FpOe3rIf8AYptp0g4gANhejEdSPrS5ZTG2wLVPatDFrZ/XM/xHGT0tNxZ2npS/wvTVfBI42iE/nAwPFB922kdpuG9ihjSKNWUhEXCrlFPQeO5p9M8Txzm3iVHdBmKBAitxXHIr7nGSfJ60Q34Au6tRHsYx2x8pKIpTI2yEbpt8ehe1rH2SPouyOyKznA/UXsblrS7guUALwyLKAexKnP6rvRbqtkxz0dH/AJUg/dVVNUzlbBve1CcV0JAcY5C8lB/uuNrWpPq+pXF/JGsTTsG4KSQuFAAyep6AVVViF//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_06_34413328370_62c83da79c_o__l.jpg
 labels:
-  - Afrika
-  - Aida Muluneh
-  - Amal Kenawy
-  - Amina Zoubir
-  - Art
-  - Ätiopien
-  - Berni Searle
-  - Berry Bickle
-  - Billie Zangewa
-  - CAAM
-  - Centro Atlántico de Arte Moderno
-  - Dinkenesh
-  - Du bist wunderbar
-  - El iris de lucy
-  - Fatima Mazmouz
-  - Fernweh
-  - Fotos
-  - Ghada Amer
-  - Gran Canaria
-  - Jane Alexander
-  - Julie Mehretu
-  - Kapwani Kiwanga
-  - Kunst
-  - Künstlerinnen
-  - Las Palmas
-  - Loulou Cherinet
-  - lucy
-  - Michèle Magema
-  - Mwangi Hutter
-  - Myriam Mihindou
-  - Nicène Kossentini
-  - Orlando Britto Jinorio
-  - Otobong Nkanga
-  - Pélagie Gbaguidi
-  - Safaa Erruas
-  - Sue Williamson
-  - Teresa Correa
-  - Tracey Rose
-  - Wangechi Mutu
-  - Yapci Ramos
-  - Zeitgenössische Kunst
-  - Zoulikha Bouabdellah
+- Afrika
+- Aida Muluneh
+- Amal Kenawy
+- Amina Zoubir
+- Art
+- Ätiopien
+- Berni Searle
+- Berry Bickle
+- Billie Zangewa
+- CAAM
+- Centro Atlántico de Arte Moderno
+- Dinkenesh
+- Du bist wunderbar
+- El iris de lucy
+- Fatima Mazmouz
+- Fernweh
+- Fotos
+- Ghada Amer
+- Gran Canaria
+- Jane Alexander
+- Julie Mehretu
+- Kapwani Kiwanga
+- Kunst
+- Künstlerinnen
+- Las Palmas
+- Loulou Cherinet
+- lucy
+- Michèle Magema
+- Mwangi Hutter
+- Myriam Mihindou
+- Nicène Kossentini
+- Orlando Britto Jinorio
+- Otobong Nkanga
+- Pélagie Gbaguidi
+- Safaa Erruas
+- Sue Williamson
+- Teresa Correa
+- Tracey Rose
+- Wangechi Mutu
+- Yapci Ramos
+- Zeitgenössische Kunst
+- Zoulikha Bouabdellah
+- " serie: Gran Canaria 2017"
 focusKeyword: El iris de Lucy
 status: publish
 isWerbung: false
@@ -64,8 +67,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Zeitgenössische Künstlerinnen Afrikas im CAAM in Las Palmas
----
+year: "2017"
+month: '06'
 
+---
 <RemoteImage
   alt={`El iris de Lucy`}
   size="medium"
