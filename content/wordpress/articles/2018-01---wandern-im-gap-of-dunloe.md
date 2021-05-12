@@ -1,37 +1,40 @@
 ---
-date: 2018-01-10T18:41:04.000Z
+date: 2018-01-10T18:41:04.000+00:00
 slug: gap-of-dunloe
-path: /2018/01/gap-of-dunloe/
+path: "/2018/01/gap-of-dunloe/"
 type: Galerie mit Bild
 typeName: Galerie mit Bild
 title: Wandern im Gap Of Dunloe
 seoTitle: Wandern im Gap Of Dunloe - Schafe vor Filmkulisse
 ogTitle: Wandern im Gap Of Dunloe - Schafe vor Filmkulisse
-description: Bei mystisch verhangenem Himmel hatten wir am 11. Oktober letzten Jahres einige wunderschöne Stunden im Gap Of Dunloe. Die Schafe waren immer präsent.
-excerpt: Bei mystisch verhangenem Himmel hatten wir am 11. Oktober letzten Jahres einige wunderschöne Stunden im Gap Of Dunloe. Die Schafe waren immer präsent.
+description: Bei mystisch verhangenem Himmel hatten wir am 11. Oktober letzten Jahres
+  einige wunderschöne Stunden im Gap Of Dunloe. Die Schafe waren immer präsent.
+excerpt: Bei mystisch verhangenem Himmel hatten wir am 11. Oktober letzten Jahres
+  einige wunderschöne Stunden im Gap Of Dunloe. Die Schafe waren immer präsent.
 fileName: 2018-01---wandern-im-gap-of-dunloe.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39609319371_64e8bf7954_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39609319371_64e8bf7954_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgIDBP/EACoQAAIBAwMDAwMFAAAAAAAAAAECAwAEEQUSITFBUQYTcRQVYSIjgZGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAQBA//EAB0RAAMBAAEFAAAAAAAAAAAAAAABEQIDISIxsdH/2gAMAwEAAhEDEQA/AEfa6RFuij9mf9fO5ULKRjz2+D/dTX2aS1tRLCHjiflS2N/jAHeuz08dNtf2pZbaHCg75A79T4AwTz0x0HxVz0bSvS66vZma7+phaXEyRIYI1XbwSjk5BOM4Hmp+Pb1qfF7Zrguru3uJU3hFdduGd+wI5Jxmq5f2xjj9qCSRAqjcCcZ78fg/mnJ6sj9y9vLjR9O0t7SREiUwMQx2cF1BGMkdaXOtWclvHvniLMXAWJnG45/jGO3Wui5Fpy0QxXV30+FPbTfuIU724/yp/SWt9VVX+mW3nVhh4mwD8jvRRUW1M1DHVxmu61CaxjkntWZMFleMtlHxnJx2zUffXmZC+1tz46vkDjwaKKZXbQvJ/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39609319371_64e8bf7954_z__l.jpg
 labels:
-  - Britische Inseln
-  - Crying Game
-  - Fernweh
-  - Gap Of Dunloe
-  - Ireland
-  - Irland
-  - Irland2017
-  - Kerry
-  - Klettern
-  - Natur
-  - NICK CAVE
-  - Pferde
-  - Pferde in Irland
-  - Schafe
-  - sheep
-  - Sheep May Savely Graze
-  - Wandern
+- Britische Inseln
+- Crying Game
+- Fernweh
+- Gap Of Dunloe
+- Ireland
+- Irland
+- Irland2017
+- Kerry
+- Klettern
+- Natur
+- NICK CAVE
+- Pferde
+- Pferde in Irland
+- Schafe
+- sheep
+- Sheep May Savely Graze
+- Wandern
+- serie:Irland 2017
 focusKeyword: Gap Of Dunloe
 status: publish
 isWerbung: false
@@ -39,8 +42,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Schafe vor Filmkulisse
----
+year: "2018"
+month: '01'
 
+---
 **Bei mystisch verhangenem Himmel hatten wir am 11. Oktober letzten Jahres einige wunderschöne Stunden im Gap Of Dunloe. Während unserer Wanderung dort waren die Schafe immer präsent. Damit haben sie sich zum einem festen Bestandteil meiner Bildergalerie gemausert.**
 
 Als Gap Of Dunloe bezeichnet man den Gebirgspass zwischen dem Purple Mountain im Osten und dem Macgillycuddy's Reeks Gebirgspass im Westen. Die beeindruckende Schlucht befindet sich in der Irischen Grafschaft Kerry in der Region Dunloe.
