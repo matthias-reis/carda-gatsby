@@ -1,32 +1,39 @@
 ---
 templateKey: article
-date: 2021-04-29T11:19:25.158Z
+date: 2021-04-29T11:19:25.158+00:00
 slug: crippled-black-phoenix-painful-reminder-en
 typeName: Review
 title: Crippled Black Phoenix cover "Painful Reminder"
 subTitle: In loving memory of SNFU singer Mr. Chi Pig
-seoTitle: Crippled Black Phoenix cover „Painful Reminder“ in loving memory of SNFU singer Mr. Chi Pig
-description: Crippled Black Phoenix have just released their new single "Painful Reminder". It is a cover version of the SNFU song. It is their first recording with their new singer and lyricist Joel Segerstedt.
-excerpt: Crippled Black Phoenix have just released their new single "Painful Reminder". It is a cover version of the SNFU song and their first recording with their new singer and lyricist Joel Segerstedt, who is now a full member of the band.
-image: /img/painful-reminder-cbp.jpg
-ogImage: /img/painful-reminder-cbp-fb.jpg
+seoTitle: Crippled Black Phoenix cover „Painful Reminder“ in loving memory of SNFU
+  singer Mr. Chi Pig
+description: Crippled Black Phoenix have just released their new single "Painful Reminder".
+  It is a cover version of the SNFU song. It is their first recording with their new
+  singer and lyricist Joel Segerstedt.
+excerpt: Crippled Black Phoenix have just released their new single "Painful Reminder".
+  It is a cover version of the SNFU song and their first recording with their new
+  singer and lyricist Joel Segerstedt, who is now a full member of the band.
+image: "/img/painful-reminder-cbp.jpg"
+ogImage: "/img/painful-reminder-cbp-fb.jpg"
 labels:
-  - Painful Reminder
-  - Crippled Black Phoenix
-  - CBP
-  - Mr. Chi Pig
-  - Hardcore-Punk
-  - Punk
-  - Prog
-  - Review
-  - German & English
+- Review
+- Bands
+- Painful Reminder
+- Crippled Black Phoenix
+- CBP
+- Mr. Chi Pig
+- Hardcore-Punk
+- Punk
+- Prog
+- Review
+- German & English
 focusKeyword: Painful Reminder
 advertisement: false
 affiliate: false
 language: en
-languageLink: /2021/04/crippled-black-phoenix-painful-reminder/
----
+languageLink: "/2021/04/crippled-black-phoenix-painful-reminder/"
 
+---
 ### Crippled Black Phoenix cover "Painful Reminder" in loving memory of SNFU singer Mr. Chi Pig
 
 **Crippled Black Phoenix have just released their new single "Painful Reminder". It is a cover version of the SNFU song. It is their first recording with their new singer and lyricist Joel Segerstedt.**

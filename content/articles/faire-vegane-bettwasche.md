@@ -1,8 +1,22 @@
 ---
-date: 2021-05-02T22:00:00Z
-labels: []
+date: 2021-05-02T22:00:00.000+00:00
+labels:
+- Fair Fashion & Beauty
+- Bettwäsche
+- Bio-Baumwolle
+- Leinen
+- Hanf
+- Bielefeld
+- Baumwolle
+- Flachs
+- nachhaltige Bettwäsche
+- PETA approved
+- seit1832
+- Strunkmann & Meister
+- Textilien
+- vegane Bettwäsche
 language: de
-year: '2021'
+year: "2021"
 month: '05'
 slug: '04'
 typeName: ''
@@ -10,16 +24,19 @@ title: Faire vegane Bettwäsche
 subTitle: Gut schlafen in Leinen & Co.
 seoTitle: faire-vegane-bettwaesche-seit1832
 ogTitle: ''
-description: seit1832 stellt faire vegane Bettwäsche her. Die Stoffe stammen aus einem traditionellen Familienunternehmen. Genäht wird in Bielefeld.
-excerpt: seit1832 stellt faire vegane Bettwäsche her. Die Produktion der Stoffe erfolgt in Zusammenarbeit mit einem traditionellen Familienunternehmen in Portugal. Genäht wird vor Ort in Deutschland. Ich habe mir das Unternehmen jetzt mal angeschaut.
-image: '/img/2021-05-seit1832.jpg'
-ogImage: '/img/2021-05-seit1832-fb.jpg'
+description: seit1832 stellt faire vegane Bettwäsche her. Die Stoffe stammen aus einem
+  traditionellen Familienunternehmen. Genäht wird in Bielefeld.
+excerpt: seit1832 stellt faire vegane Bettwäsche her. Die Produktion der Stoffe erfolgt
+  in Zusammenarbeit mit einem traditionellen Familienunternehmen in Portugal. Genäht
+  wird vor Ort in Deutschland. Ich habe mir das Unternehmen jetzt mal angeschaut.
+image: "/img/2021-05-seit1832.jpg"
+ogImage: "/img/2021-05-seit1832-fb.jpg"
 focusKeyword: faire vegane Bettwäsche
 advertisement: true
 affiliate: true
 languageLink: ''
----
 
+---
 **seit1832 stellt faire vegane Bettwäsche her. Die Produktion der Stoffe erfolgt in Zusammenarbeit mit einem traditionellen Familienunternehmen in Portugal. Genäht wird vor Ort in Deutschland.**
 
 Alle Stoffe, die seit1832 verarbeitet, haben OEKO TEX 100 Standard. Für die Baumwolle-Satin-Qualität gibt es außerdem eine GOTS-Zertifizierung.
