@@ -1,40 +1,43 @@
 ---
 templateKey: article
-date: 2021-05-07T13:14:08.239Z
+date: 2021-05-07T13:14:08.239+00:00
 slug: psychonaut-saver-emerald-en
 typeName: Review
 title: '"Emerald" by Psychonaut & Sâver'
 subTitle: The new Pelagic split LP
 seoTitle: Psychonaut & Sâver – "Emerald" – The new Pelagic split LP
-description: Psychonaut and Sâver have joined forces to release an excellent
-  split LP on Pelagic Records on May 14th. The result of their collaboration is
-  called "Emerald" – I’ve already had a listen.
-excerpt: "Psychonaut and Sâver have joined forces to release an excellent split
-  LP on Pelagic Records on May 14th. The result of their collaboration is called
-  \"Emerald\" – I've already had a listen, and I have to admit: The cooperation
-  of the two bands delivers some exciting friction."
-image: /img/psychonaut-saver.jpg
-ogImage: /img/psychonaut-saver-fb.jpg
+description: Psychonaut and Sâver have joined forces to release an excellent split
+  LP on Pelagic Records on May 14th. The result of their collaboration is called "Emerald"
+  – I’ve already had a listen.
+excerpt: 'Psychonaut and Sâver have joined forces to release an excellent split LP
+  on Pelagic Records on May 14th. The result of their collaboration is called "Emerald"
+  – I''ve already had a listen, and I have to admit: The cooperation of the two bands
+  delivers some exciting friction.'
+image: "/img/psychonaut-saver.jpg"
+ogImage: "/img/psychonaut-saver-fb.jpg"
 labels:
-  - Doom
-  - English & German
-  - Hardcore
-  - Mechelen
-  - Metal
-  - Oslo
-  - Pelagic
-  - Post-Metal
-  - Post-Rock
-  - Psychedelic
-  - Review
-  - Sâver
-  - Sludge
-  - Psychonaut
+- Review
+- Bands
+- Doom
+- English & German
+- Hardcore
+- Mechelen
+- Metal
+- Oslo
+- Pelagic
+- Post-Metal
+- Post-Rock
+- Psychedelic
+- Review
+- Sâver
+- Sludge
+- Psychonaut
 focusKeyword: Psychonaut
 advertisement: false
 affiliate: false
 language: en
 languageLink: psychonaut-saver-emerald
+
 ---
 **Psychonaut and Sâver have joined forces to release an excellent split LP on Pelagic Records on May 14th. The result of their collaboration is called "Emerald" - I've already had a listen.**
 

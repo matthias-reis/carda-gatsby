@@ -1,38 +1,41 @@
 ---
 templateKey: article
-date: 2021-05-06T13:06:00.000Z
+date: 2021-05-06T13:06:00.000+00:00
 slug: psychonaut-saver-emerald
 typeName: Review
 title: Psychonaut & Sâver – "Emerald"
 subTitle: Die neue Pelagic Split-LP
 seoTitle: Psychonaut & Sâver – "Emerald" – die neue Pelagic Split-LP
-description: Psychonaut und Sâver haben sich zusammengetan. Das Ergebnis der
-  Kollaboration ist die Split-LP "Emerald", die auf Pelagic Records erscheint.
-excerpt: Psychonaut und Sâver haben sich zusammengetan. Das Ergebnis der
-  Kollaboration ist die Split-LP "Emerald", die auf Pelagic Records erscheint.
-  Ich habe schon mal reingehört und möchte Euch die Platte ans Herz legen.
-image: /img/psychonaut-saver.jpg
-ogImage: /img/psychonaut-saver-fb.jpg
+description: Psychonaut und Sâver haben sich zusammengetan. Das Ergebnis der Kollaboration
+  ist die Split-LP "Emerald", die auf Pelagic Records erscheint.
+excerpt: Psychonaut und Sâver haben sich zusammengetan. Das Ergebnis der Kollaboration
+  ist die Split-LP "Emerald", die auf Pelagic Records erscheint. Ich habe schon mal
+  reingehört und möchte Euch die Platte ans Herz legen.
+image: "/img/psychonaut-saver.jpg"
+ogImage: "/img/psychonaut-saver-fb.jpg"
 labels:
-  - Doom
-  - English & German
-  - Hardcore
-  - Mechelen
-  - Metal
-  - Oslo
-  - Pelagic
-  - Post-Metal
-  - Post-Rock
-  - Psychedelic
-  - Review
-  - Sâver
-  - Sludge
-  - Psychonaut
+- Review
+- Bands
+- Doom
+- English & German
+- Hardcore
+- Mechelen
+- Metal
+- Oslo
+- Pelagic
+- Post-Metal
+- Post-Rock
+- Psychedelic
+- Review
+- Sâver
+- Sludge
+- Psychonaut
 focusKeyword: Psychonaut
 advertisement: false
 affiliate: false
 language: de
 languageLink: psychonaut-saver-emerald-en
+
 ---
 **Am 14. Mai erscheint eine ganz besondere Split-LP bei Pelagic Records: Psychonaut und Sâver haben sich zusammengetan. Das Ergebnis der Kollaboration heißt "Emerald" – ich habe schon mal reingehört.**
 
