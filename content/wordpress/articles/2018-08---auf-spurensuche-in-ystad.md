@@ -1,32 +1,35 @@
 ---
-date: 2018-08-21T06:38:37.000Z
+date: 2018-08-21T06:38:37.000+00:00
 slug: auf-spurensuche-in-ystad
-path: /2018/08/auf-spurensuche-in-ystad/
+path: "/2018/08/auf-spurensuche-in-ystad/"
 type: Galerie mit Bild
 typeName: Galerie mit Bild
 title: Auf Spurensuche in Ystad
 seoTitle: Auf Spurensuche in Ystad - Rosen, Sommerregen und Krimifeeling
 ogTitle: Auf Spurensuche in Ystad - Rosen, Sommerregen und Krimifeeling
-description: Auf der Durchreise machten wir einen Kaffeehalt in der Krimistadt Ystad. Auf den Spuren von Kommissar Wallander schlenderten wir durch die Gassen.
-excerpt: Auf der Durchreise machten wir einen Kaffeehalt in der Krimistadt Ystad. Auf den Spuren von Kommissar Wallander schlenderten wir durch die Gassen.
+description: Auf der Durchreise machten wir einen Kaffeehalt in der Krimistadt Ystad.
+  Auf den Spuren von Kommissar Wallander schlenderten wir durch die Gassen.
+excerpt: Auf der Durchreise machten wir einen Kaffeehalt in der Krimistadt Ystad.
+  Auf den Spuren von Kommissar Wallander schlenderten wir durch die Gassen.
 fileName: 2018-08---auf-spurensuche-in-ystad.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_Ystad__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_Ystad__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAGBAX/xAApEAABAwMDBAIBBQAAAAAAAAABAgMEBREhABIxBhMiUQdBIxQVM4GR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwUAAQT/xAAiEQABBAAFBQAAAAAAAAAAAAABAAIDEQQSMUHRISJRcaH/2gAMAwEAAhEDEQA/AMVDo/emw/3AMNz2Efq4klj+Ka0FAkZyCPtJ45Fxpf8AjyppV1POiIjqbbmJDyBssG+2pODb7s6f80PLq7jUanKcYZlJjsuusuIV2yPybeOMnfxYW962fS3UrNP6mhzmZDrsWQ4htLS1gufkCEpBAGdt8EcgZtoEfa4+EWU2xpOp45T30lIZqMV0riojy2lqQ60pW8g3ICkn7SbXB/o5B0MfOfU1DfmxYTdQ3inl3uuobukPLsnF7AlKUq++Tr26vFd6lhSI8MqaSnupQ84S357rBQtyB5c+9DaJdY6NqcmA8iOHioF9JSFNuoxbyIvj6tnPu+qfO8MBcNUywGBw8wkc5wtvUC6Fbm6PqvqzNVU5TqfT2SpLt6ek7toSfJSlZ92J120kiQYLju4lhDLqAFYCjsAOb5Fr6tWi0MyXFxypugVmQwmUG8EPrAN+LrI0U/KlaDy3WHIqFOtOIUH93na26w9C9r+9WrUnNZQs+y//2Q==
-ogImage: null
+ogImage: 
 labels:
-  - Fernweh
-  - Geschichten & Erlebtes
-  - Henning Mankell
-  - Kommissar Kurt Wallander
-  - Kommissar Wallander
-  - Krimi
-  - Schweden
-  - Schweden2018
-  - Skandinavien
-  - Skåne
-  - Wallander
-  - Ystad
+- Fernweh
+- Geschichten & Erlebtes
+- Henning Mankell
+- Kommissar Kurt Wallander
+- Kommissar Wallander
+- Krimi
+- Schweden
+- Schweden2018
+- Skandinavien
+- Skåne
+- Wallander
+- Ystad
+- serie:Schweden 2018
 focusKeyword: Ystad
 status: publish
 isWerbung: false
@@ -34,8 +37,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Rosen, Sommerregen und Krimifeeling
----
 
+---
 **Auf der Durchreise machten wir einen Kaffeehalt in der Krimistadt Ystad. Im Anschluss an unsere Pause mit Heißgetränk schlenderten wir im warmen Sommerregen durch die gemütlichen Gassen.**
 
 Ystad liegt in der Schwedischen Provinz [Skåne](/2018/07/zwischenstopp-in-skane/). Die 1244 gegründete Stadt wurde bekannt durch die dort spielenden Krimis von Henning Mankell. Kommissar Kurt Wallander dürfte wohl jedem ein Begriff sein.
