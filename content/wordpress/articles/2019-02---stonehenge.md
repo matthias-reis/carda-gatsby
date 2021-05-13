@@ -1,46 +1,49 @@
 ---
-date: 2019-02-08T11:10:30.000Z
+date: 2019-02-08T11:10:30.000+00:00
 slug: stonehenge-11-05-2009
-path: /2019/02/stonehenge-11-05-2009/
+path: "/2019/02/stonehenge-11-05-2009/"
 type: Artikel
 typeName: Artikel
 title: Stonehenge
 seoTitle: Stonehenge - mystische Megalithen im Süden Englands
 ogTitle: Stonehenge - mystische Megalithen im Süden Englands
-description: Während meiner Reise durch Südengland bin ich auch an Stonehenge vorbeigekommen. Das mystische Bauwerk zieht mich jedes Mal aufs Neue in seinen Bann.
-excerpt: Während meiner Reise durch Südengland bin ich auch an Stonehenge vorbeigekommen. Das mystische Bauwerk zieht mich jedes Mal aufs Neue in seinen Bann.
+description: Während meiner Reise durch Südengland bin ich auch an Stonehenge vorbeigekommen.
+  Das mystische Bauwerk zieht mich jedes Mal aufs Neue in seinen Bann.
+excerpt: Während meiner Reise durch Südengland bin ich auch an Stonehenge vorbeigekommen.
+  Das mystische Bauwerk zieht mich jedes Mal aufs Neue in seinen Bann.
 fileName: 2019-02---stonehenge.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_05_stonehenge-2012__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_05_stonehenge-2012__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAIEBwMFCP/EACkQAAICAQMDAwMFAAAAAAAAAAECAwQRAAUSBhMxByGRQXGBFCJCgtH/xAAYAQACAwAAAAAAAAAAAAAAAAABAgAEBv/EABwRAAICAwEBAAAAAAAAAAAAAAABAhETFEExsf/aAAwDAQACEQMRAD8AviWtWszNI+4AKfKkKDj401fb6kbkraeYEZ4Fs5P2GNURH111Ym+zy9661Mu7QpLS5Rxq3IIrBUBJX9pLZ+dNsHWnU6bVvVe/a3CzYniVKkzwSBoG54Z1OAQeBJAx5A1N2HifwTF06BghVhiDuxDyeXEAY+x1jsRIrBm4u/0aTJGPxqgL3Uu82/TCxRsWN6tb1Ne76txkWVK6j2HP24nkPHn51K2f1C36GTpitL+oWjFL2NwLU5CzxBuIJLAktj3yCM6Xbj1hx0aepSDBl70wAI/kP81NO3qgOZ5m/t40aNZGUmWB1pxyAkS2VVPoJfJH40RSywxue9K4PtxkbI0aNLbsKZ//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11501346335_c76fd5f354_z__l.jpg
 labels:
-  - Altarstein
-  - Avalon
-  - Blausteine
-  - Britische Inseln
-  - Dolerit
-  - England
-  - England2009
-  - Fernweh
-  - Fotos
-  - Frühling
-  - GB
-  - Megalithen
-  - Merlin
-  - Observatorium
-  - Opferstein
-  - Preseli Berge
-  - Reise
-  - Reisen
-  - Schafe
-  - Sonnenwende
-  - Stanenges
-  - Steine
-  - Stonehenge
-  - Tagundnachtgleiche
-  - Urlaub
-  - Wiltshire
+- Altarstein
+- Avalon
+- Blausteine
+- Britische Inseln
+- Dolerit
+- England
+- England2009
+- Fernweh
+- Fotos
+- Frühling
+- GB
+- Megalithen
+- Merlin
+- Observatorium
+- Opferstein
+- Preseli Berge
+- Reise
+- Reisen
+- Schafe
+- Sonnenwende
+- Stanenges
+- Steine
+- Stonehenge
+- Tagundnachtgleiche
+- Urlaub
+- Wiltshire
+- serie:England 2009
 focusKeyword: Stonehenge
 status: publish
 isWerbung: false
@@ -48,8 +51,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Mystische Megalithen
----
 
+---
 **Während meiner Reise durch Südengland 2009 bin ich auch an Stonehenge vorbeigekommen. Jedes Mal, wenn ich das mystische Bauwerk mit seinen mächtigen Megalithen sehe, zieht es mich erneut in seinen Bann.**
 
 "How grand, how wonderful, how inconhensible!" - "Wie großartig, wie wunderbar, wie unbegreiflich!" - Mit diesen Worten beschrieb Sir Richard Colt Hoare **Stonehenge** in "Ancient History of Wilshire" und das fasst ziemlich genau in Worte, was einem durch den Kopf geht, wenn man vor dem mächtigen Steinkreis seht.

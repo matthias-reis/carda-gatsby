@@ -1,28 +1,31 @@
 ---
-date: 2019-09-02T09:35:11.000Z
+date: 2019-09-02T09:35:11.000+00:00
 slug: arctangent-festival-2019-2
-path: /2019/09/arctangent-festival-2019-2/
+path: "/2019/09/arctangent-festival-2019-2/"
 type: Artikel
 typeName: Konzertbericht
 title: ArcTanGent Festival 2019
 seoTitle: ArcTanGent Festival 2019 - die ganz große Festival-Liebe
 ogTitle: ArcTanGent Festival 2019 - die ganz große Festival-Liebe
-description: Vom ArcTanGent Festival habe ich Euch vor Kurzem schon erzählt. Hier kommt mein Nachbericht - in Form einer verliebten Lobhudelei.
-excerpt: Vom ArcTanGent Festival habe ich Euch vor Kurzem schon erzählt. Hier kommt mein Nachbericht - in Form einer verliebten Lobhudelei.
+description: Vom ArcTanGent Festival habe ich Euch vor Kurzem schon erzählt. Hier
+  kommt mein Nachbericht - in Form einer verliebten Lobhudelei.
+excerpt: Vom ArcTanGent Festival habe ich Euch vor Kurzem schon erzählt. Hier kommt
+  mein Nachbericht - in Form einer verliebten Lobhudelei.
 fileName: 2019-09---arctangent-festival-2019.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_2019-08-28-arctangent-49__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_2019-08-28-arctangent-49__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAII/8QAKRAAAQMDAgUDBQAAAAAAAAAAAQIDBAAFESExBhJRYXEiMpETFCOxwf/EABYBAQEBAAAAAAAAAAAAAAAAAAQFBv/EACIRAAEDAgYDAAAAAAAAAAAAAAEAAgMEEQUSITEyYaHR8P/aAAwDAQACEQMRAD8A8zttZrW1EKthnxT120x48cPvOFDeQNcDOen7qgsdht8a4yI/EiZ0VaEAobaaBWScEZzsOUg99Ota84U6Pn41Kjmsa7iVEmIoD0Nqz3FMrRaHJ77bTSR9QkJIJxvVle4VphlqRbEvJhk8inJQTkE7HAzpprvS3iH7i2tPlFzhkNEpCUO+/XH4wB6vOmlLGGRwxmUnshDkrXynIy19r9qYnSy6qIXVhSG1klB17/zFdi8AB1SxzOqwEqKvaPHxjpiiijVFVI1xsd/Sa2BjgAR9dL5dyW8cqVk6D4rI9KL3OpxRUo7ZNFFSJ6mR4sTolxxNbsF//9k=
-ogImage: null
+ogImage: 
 labels:
-  - ArcTanGent
-  - Bristol
-  - England
-  - Festival
-  - Festivals
-  - Post-Metal
-  - Post-Rock
-  - Sumerset
+- ArcTanGent
+- Bristol
+- England
+- Festival
+- Festivals
+- Post-Metal
+- Post-Rock
+- Sumerset
+- Serie:England 2019
 focusKeyword: ArcTanGent
 status: publish
 isWerbung: false
@@ -30,8 +33,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Die ganz große Festival-Liebe
----
 
+---
 **Vom ArcTanGent Festival habe ich Euch vor Kurzem schon erzählt. Hier kommt mein Nachbericht - in Form einer verliebten Lobhudelei.**
 
 <RemoteImage
