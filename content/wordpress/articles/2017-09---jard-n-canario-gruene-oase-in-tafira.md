@@ -29,7 +29,7 @@ labels:
 - Schweden
 - Skandinavien
 - Tafira
-- " serie: Gran Canaria 2017"
+- serie:Gran Canaria 2017
 focusKeyword: Jardín Canario
 status: publish
 isWerbung: false
@@ -37,7 +37,7 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Botanischer Garten auf Gran Canaria
-year: "2017"
+year: '2017'
 month: '09'
 
 ---
@@ -55,16 +55,3 @@ Der vollständige Name des Gartens lautet Jardín _Botánico Canario Viera y Cla
 </sub>
 
 <Gallery name="flickr/annejardincanario2017" />
-
-## Wegweiser Gran Canaria
-
-1.  [Eine vegane Oase im Herzen von Las Palmas](/2017/05/la-hierba-luisa-cocina-de-la-huerta/)
-1.  [Vegan auf Gran Canaria](/2017/05/vegan-auf-gran-canaria/)
-1.  [Zeitgenössische Künstlerinnen Afrikas in Las Palmas](/2017/06/el-iris-de-lucy-las-palmas/)
-1.  [Rund um den Leuchtturm von Maspalomas](/2017/06/rund-um-den-leuchtturm-von-maspalomas/)
-1.  [Die Dünen von Maspalomas](/2017/07/die-duenen-von-maspalomas/)
-1.  [Mit dem Boot von Bucht zu Bucht](/2017/07/gran-canaria-der-sueden/)
-1.  [Stadtrundgang in Las Palmas de Gran Canaria](/2017/08/las-palmas-de-gran-canaria/)
-1.  [Die einzige Kaffeeplantage Europas](/2017/09/die-einzige-kaffeeplantage-europas/)
-1.  [Las Vegas auf Gran Canaria](/2017/09/bananen-papayas-und-esel-las-vegas-auf-gran-canaria/)
-1.  Jardín Canario - Grüne Oase in Tafira
