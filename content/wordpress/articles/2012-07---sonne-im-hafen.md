@@ -51,13 +51,3 @@ Hier geht's zu [Teil 2/9](/2012/08/der-kater-und-der-leuchtturm/) der Galerie "E
 ## Song zu den Bildern: Gisbert zu Knyphausen - Kräne
 
 <YouTube id="HUHCplJij4U" />
-
->Diese Tage sind so fern von allem, Hitze und Beton. Die große Stadt, sie liegt da wie ein >verwundeter Vogel. So auch ich, so auch ich, ich denke und denke wie immer viel zu viel. Immer >ist da irgendetwas, das mich einlullt und mich lähmt. Und ist es nicht die Hitze, dann meine >Dickköpfigkeit oder meine dünne Haut. Und ich warte auf den Abend und seine kühlende Hand >unten am Fluss mit den Füßen im Sand und den Blick
->
->auf die gewaltigen Tiere mit metallenen Krallen mit Neonlicht-Augen und die Container, die >fallen unter grandiosem Gepolter in den hungrigen Bauch eines uralten Frachters, und mein >Herz, es poltert auch.
->
->Nimm mich mit, nimm mich mit, flatterhafte Demut, schlag deine krummen Flügel um mich. Dieser >Kopf, oh dieser Kopf macht sich viel zu wichtig, Oh, unergründliches Leben, was wissen wir >denn schon von dir? Wir wurden geboren und wir sterben und danach weht der Wind wie immer und >ein Mensch geht die Stufen Hinunter zum Fluss, legt seinen Kopf in die Nacht und die Füße in >den Sand und sieht
->
->die gewaltigen Tiere mit metallenen Krallen mit Neonlicht-Augen und die Container, die fallen >unter grandiosem Gepolter in den hungrigen Bauch eines uralten Frachters, und sein Herz, es >poltert auch.
->
->Oh, ich hoffe es verirrt sich nicht, so verwirrt wie es ist auf dieser endlosen Suche nach ein >bisschen mehr Licht, was auch immer das dann ist.
