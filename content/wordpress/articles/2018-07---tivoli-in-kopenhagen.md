@@ -59,4 +59,4 @@ Die Adresse ist Vesterbrogade 3, 1630 København V, Dänemark. Vor dem Park gibt
 
 **Quellen:** Tivoli, Wikipedia
 
-<Gallery name="flickr/annetivoli20180619buntewelt " />
+<Gallery name="flickr/annetivoli20180619buntewelt" />
