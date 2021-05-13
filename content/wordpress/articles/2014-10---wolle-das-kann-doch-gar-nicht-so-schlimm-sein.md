@@ -98,11 +98,7 @@ Mal sah ich einen romantisierten Beitrag im öffentlich rechtlichen Fernsehen ü
 
 ### Gebrochene Gliedmaßen und Qualhaltung
 
-Auf der Seite von PETA stieß ich auf einen wirklich gut recherchierten Artikel
-
-<sup> [1](#1) </sup>, der viele Fakten offen darlegte. Darin war unter anderem
-die Rede von "Kadavertonnen" für tote Lämmer, gebrochenen Gliedmaßen und
-Qualhaltung.
+Auf der Seite von PETA stieß ich auf einen wirklich gut recherchierten Artikel<sup>[1](#1)</sup>, der viele Fakten offen darlegte. Darin war unter anderem die Rede von "Kadavertonnen" für tote Lämmer, gebrochenen Gliedmaßen und Qualhaltung.
 
 Ich begann zu recherchieren und plötzlich tat sich eine ganz neue, dunkle Tür auf, hinter der sich eine schmerzvolle Welt verbarg, die mir aus diversen Anti-Pelz Kampagnen nur allzu bekannt vorkam. Videos von gequälten Angora-Kaninchen und schwer verletzten Schafen tauchten auf. Bilder des Grauens.
 

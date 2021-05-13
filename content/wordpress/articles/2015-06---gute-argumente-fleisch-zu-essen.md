@@ -44,12 +44,6 @@ subTitle: Interview mit Alice und Hendrik von Unstumm
 
 **Alice und Hendrik von Unstumm machen Aufklärungsfilme zum Thema Tierrechte  - ohne dabei ein Blatt vor den Mund zu nehmen. Die Filme werden auf YouTube veröffentlich. Im Anschluss verbreiten sie sich viral über das Netz. Die Themen sind vielfältig, die beiden Filmemacher sind immer offen für neue Ideen.**
 
----
-
-**Hinweis vom 16.07.2020:**  Dieses Interview habe ich am 1. Juni 2015 veröffentlich. Das Projekt "Unstumm Film gibt es inzwischen nicht mehr.
-
----
-
 ## Unstumm Film bringt Tierrechtsaktionen in die Öffentlichkeit
 
 Alice und Hendrik arbeiten ungeklärte Fragen auf - sie dokumentieren Tierschutzaktionen. Zu den bekannten Werken aus dem Unstumm Studio zählt unter anderem eine zehnminütige Kurzdokumentation über die Blockade eines Megabetriebes der Firma Wiesenhof. Darin werden auch die Beweggründe der Aktivist⋆innen des Aktionsbündnisses "Mastanlagen Widerstand" beleuchtet. Auch der neue Superkurzfilm mit dem Titel "Gute Argumente, Fleisch zu essen" hat sich innerhalb kürzester Zeit wie ein Lauffeuer über das Internet verbreitet.
