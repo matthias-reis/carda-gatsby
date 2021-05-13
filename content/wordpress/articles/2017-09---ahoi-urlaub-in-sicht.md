@@ -50,17 +50,17 @@ Ihr findet hier im Blog zu allen möglichen Themen interessante Artikel, die Ihr
 
 ### Rock 'n' Roll
 
-- [Konzerte](/category/rock-n-roll/konzerte/)
-- [Festivals](/category/rock-n-roll/festivals/)
-- [Bands](/category/rock-n-roll/bands/)
-- [Interviews](/category/rock-n-roll/interviews/)
+- [Konzerte](/tag/rock-n-roll/konzerte/)
+- [Festivals](/tag/rock-n-roll/festivals/)
+- [Bands](/tag/rock-n-roll/bands/)
+- [Interviews](/tag/rock-n-roll/interviews/)
 
 ### Vegan
 
-- [Go Vegan!](/category/vegan/veganes-leben/)
-- [Vegane Mode](/category/vegan/fair-fashion-beauty/)
-- [Vegane Produkte](/category/vegan/vegane-produkte/)
-- [Vegane Rezepte](/category/vegan/vegane-rezepte/)
+- [Go Vegan!](/tag/vegan/veganes-leben/)
+- [Vegane Mode](/tag/vegan/fair-fashion-beauty/)
+- [Vegane Produkte](/tag/vegan/vegane-produkte/)
+- [Vegane Rezepte](/tag/vegan/vegane-rezepte/)
 
 <RemoteImage
   alt={`Urlaub`}
@@ -73,16 +73,16 @@ Ihr findet hier im Blog zu allen möglichen Themen interessante Artikel, die Ihr
 
 ### Gesellschaft
 
-- [Klima &amp; Umweltschutz](/category/vegan/klima-umweltschutz/)
-- [Tierschutz](/category/vegan/tierrechte/)
-- [Antifaschismus &amp; Feminismus](/category/lifestyle/antifaschismus-feminismus)
+- [Klima &amp; Umweltschutz](/tag/vegan/klima-umweltschutz/)
+- [Tierschutz](/tag/vegan/tierrechte/)
+- [Antifaschismus &amp; Feminismus](/tag/lifestyle/antifaschismus-feminismus)
 
 ### Unterwegs
 
-- [Hamburg](/category/slow-travel/hamburg/)
-- [Fernweh](/category/slow-travel/fernweh/)
-- [Ausflug](/category/slow-travel/ausflug/)
-- [Großbritannien](/category/slow-travel/britische-inseln/)
+- [Hamburg](/tag/slow-travel/hamburg/)
+- [Fernweh](/tag/slow-travel/fernweh/)
+- [Ausflug](/tag/slow-travel/ausflug/)
+- [Großbritannien](/tag/slow-travel/britische-inseln/)
 
 ## Fast schon wie Urlaub
 

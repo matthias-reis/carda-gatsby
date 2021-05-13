@@ -89,7 +89,7 @@ Wir leben also auf Kredit und die Politiker der großen Industriestaaten sind sc
 - [Zu einer Ökobank wechseln](/2017/04/alternative-banken-urgewald-informiert/)
 - Energiesparlampen verwenden
 - Dinge mit anderen teilen, reparieren und wiederverwenden
-- [Upcycling](/category/basteleien/diy/)
+- [Upcycling](/tag/basteleien/diy/)
 - Regional einkaufen
 - Weniger heizen (Leben in energieeffizienten Gebäuden)
 
@@ -106,8 +106,8 @@ Ich möchte daher gar nicht lange darauf herumreiten, sondern nur nochmal eins z
   alt="Klimaschutz"
   size="large"
   title=""
-  mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/schaubild-1-800x454-800x454.jpg"
-  largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/schaubild-1-800x454-800x454.jpg"
+  mediumUrl="/wp-content/uploads/2017/02/schaubild-1-800x454-800x454.jpg"
+  largeUrl="/wp-content/uploads/2017/02/schaubild-1-800x454-800x454.jpg"
   loadingUrl="undefined"
 />
 

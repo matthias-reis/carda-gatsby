@@ -179,7 +179,7 @@ Weil die Milch- und Fleischkonzerne auf wachsende Exporte setzen, ist die Milch-
 
 Ein weiteres Mittel zur Ertragssteigerung ist die Gentechnik. Weltweit arbeiten Firmen daran, das Genmaterial von "Nutztieren" zu verändern und sie den Bedürfnissen der Verbraucher anzupassen. Das hat Folgen:
 
-Das alles zeigt auf ein Neues, wie es ist: Nur der Verzicht auf Fleisch, Milch und alle anderen Erzeugnisse tierischer Herkunft kann auf Dauer etwas bewirken. Ich kann es nur jedem nach wie vor ans Herz legen: [Go vegan](/category/vegan/veganes-leben/).
+Das alles zeigt auf ein Neues, wie es ist: Nur der Verzicht auf Fleisch, Milch und alle anderen Erzeugnisse tierischer Herkunft kann auf Dauer etwas bewirken. Ich kann es nur jedem nach wie vor ans Herz legen: [Go vegan](/tag/vegan/veganes-leben/).
 
 Wer sich die ungeschönte Wahrheit ansehen und den Fleischatlas 2018 gerne mal komplett lesen möchte, kann ihn jederzeit herunterladen:
 

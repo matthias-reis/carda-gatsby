@@ -37,7 +37,7 @@ _Werbung &amp; Affiliate Links\*_
 
 Während ich diesen Bericht schreibe, spüre ich, wie die 80 mg Koffein aus einem Cranberry Crunch Proteinriegel von Wingman durch meine Adern rauschen. Für mich ist Koffein in Riegelform etwas völlig Neues und obendrein ziemlich Praktisches.
 
-Wenn beim Sport, im Büro, auf [Festivals](/category/rock-n-roll/festivals/) oder bei Ausflügen der kleine Durchhänger kommt, sind sie für mich genau das Richtige. Zusätzlich zum Koffein nehme ich nämlich gleichzeitig noch eine leckere und nahrhafte Zwischenmahlzeit zu mir, die mir zusätzlich Energie gibt.
+Wenn beim Sport, im Büro, auf [Festivals](/tag/rock-n-roll/festivals/) oder bei Ausflügen der kleine Durchhänger kommt, sind sie für mich genau das Richtige. Zusätzlich zum Koffein nehme ich nämlich gleichzeitig noch eine leckere und nahrhafte Zwischenmahlzeit zu mir, die mir zusätzlich Energie gibt.
 
 ## Koffein-Riegel ohne Zucker
 

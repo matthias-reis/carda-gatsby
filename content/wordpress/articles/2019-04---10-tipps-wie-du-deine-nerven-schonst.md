@@ -99,7 +99,7 @@ Die Wildbienen, die über Deinen Balkon schwirren, die Nebenkostenrückerstattun
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBgcE/8QAKxAAAgEDAwEGBwEAAAAAAAAAAQIDAAQRBQYSISIxMkFRgRQVI0JhcYKR/8QAFwEBAQEBAAAAAAAAAAAAAAAABQYBBP/EACMRAAICAQALAAAAAAAAAAAAAAECAAMRBAUSISIxMjNhgbH/2gAMAwEAAhEDEQA/AMBTPFgSKbbUZxurSeBwwuBg/wAmlqqxU8gckHpiu3bhZdzaW2D0uY/L8iss6TO2juKfI+y9TwPPdPIOphKkjwjjgFRk+RwP8NFM9UsAfjIizhkCTRiWUdcciT0zkZGPeijUsVhzlBYhQzLYyoIBKgdMlj3ZNWI6Oumb60rTZJkZpLq1AkIwpEjIQ3qBg1Kx2DeO31XdTkFl5KWx68RnPtVj0jaMw1KHUNYlubq9srkTFEICcY3ygLyEYBGP13Uo2xg75LJcQRHm4RJ8zubZ3TnJamBCF7WB4jn1+0nuopLrrxz3Iu7V45ZnmdVV5cFUc9oDyxnqPeijK9BdBwmPPrSq05YZ9z//2Q=="
 />
 
-Du fährst im Juni auf ein [Festival](/category/rock-n-roll/festivals/) ? Du triffst nächste Woche Deine beste Freundin? Dein Bruder hat fürs Wochenende seinen Besuch angekündigt? Hervorragend! Vorfreude ist und bleibt die beste Freude! Nutze sie und lass Dir von ihr ein Lippen auf die Lächeln zaubern!
+Du fährst im Juni auf ein [Festival](/tag/rock-n-roll/festivals/) ? Du triffst nächste Woche Deine beste Freundin? Dein Bruder hat fürs Wochenende seinen Besuch angekündigt? Hervorragend! Vorfreude ist und bleibt die beste Freude! Nutze sie und lass Dir von ihr ein Lippen auf die Lächeln zaubern!
 
 ## 8. Reg Dich nicht über Kleinigkeiten auf
 

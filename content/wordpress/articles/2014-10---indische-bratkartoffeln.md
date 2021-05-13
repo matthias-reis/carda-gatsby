@@ -199,4 +199,4 @@ Guten Appetit!
   ]}
 />
 
-[Hülsenfrüchte satt in Hamburg Ottensen](http://cardamonchai.com/2018/12/huelsenfruechte-satt-in-hamburg-ottensen/)
+[Hülsenfrüchte satt in Hamburg Ottensen](/2018/12/huelsenfruechte-satt-in-hamburg-ottensen/)

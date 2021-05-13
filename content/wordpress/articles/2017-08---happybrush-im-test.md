@@ -41,7 +41,7 @@ subTitle: Schallzahnbürste unter der Lupe
 
 _Werbung &amp; Affiliate Link\*_
 
-**Weil ich so gerne [Produkte teste](/category/vegan-2/produkte/) und Ihr meine Testberichte auch jedes Mal fleißig lest und weitergebt, möchte ich auch diesen Test mit Euch teilen. Auf dem Prüfstand stand dieses Mal die Schallzahnbürste samt Zahncreme aus dem Hause Happybrush.**
+**Weil ich so gerne [Produkte teste](/tag/vegan-2/produkte/) und Ihr meine Testberichte auch jedes Mal fleißig lest und weitergebt, möchte ich auch diesen Test mit Euch teilen. Auf dem Prüfstand stand dieses Mal die Schallzahnbürste samt Zahncreme aus dem Hause Happybrush.**
 
 <RemoteImage
   alt="happybrush"

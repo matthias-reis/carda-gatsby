@@ -62,7 +62,7 @@ Das Besondere an den flüssigen Essenzen: Sie werden aus unbelastetem, natürlic
 
 Gründer Manfred Haider wünschte sich "echten Tee, samt Ritual". Was aber tun, wenn dazu mal die Zeit fehlt? TeaTime war geboren. Die Konzentrate gibt es inzwischen in den verschiedensten Geschmacksrichtungen. Man braucht nur eine kleine Menge davon mit heißem oder kalten Wasser aufzugießen und kann anschließend ohne Ziehzeit genießen.
 
-Der Tee stammt aus verschiedenen Anbaugebieten auf der Welt. Ceylon aus [Sri Lanka](/2015/09/unterwegs-in-sri-lanka/), Assam aus Nordost-Indien, Rooibos aus Südafrika und der Grüne Tee aus China. TeaTime bezieht ihn von spezialisierten und zertifizierten Importeuren aus [Hamburg](/category/slow-travel/hamburg/).
+Der Tee stammt aus verschiedenen Anbaugebieten auf der Welt. Ceylon aus [Sri Lanka](/2015/09/unterwegs-in-sri-lanka/), Assam aus Nordost-Indien, Rooibos aus Südafrika und der Grüne Tee aus China. TeaTime bezieht ihn von spezialisierten und zertifizierten Importeuren aus [Hamburg](/tag/slow-travel/hamburg/).
 
 Dabei achtet Manfred Haider besonders auf die Fairness.
 

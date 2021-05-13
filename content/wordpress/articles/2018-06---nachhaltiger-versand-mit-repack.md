@@ -70,7 +70,7 @@ Die Taschen gibt es in drei verschiedenen Größen. Jede von ihnen kann mindeste
 
 Das Beste am RePack-Konzept ist, dass sich damit der CO2-Ausstoß für den Versand bis zu 80 Prozent verringern lässt, da einfach kein Müll mehr anfällt. Nicht schlecht, oder?
 
-Das Start-up hat seinen Sitz in [Helsinki](/2016/08/helsinki-schoenheit-an-der-ostsee/). Gründer sind CEO Jonne Hellgrenn, COO Petri Piirainen und CTO Peter Peltonen. Zunächst hatten die drei eine Design-Firma mit dem Schwerpunkt auf [Nachhaltigkeit](/category/vegan/klima-umweltschutz/) gegründet. RePack war anfangs ein reines Nebenprodukt. Allerdings wurde ziemlich schnell klar, dass sich der Fokus auf die Ausarbeitung des wirklich genialen Konzepts richten würde.
+Das Start-up hat seinen Sitz in [Helsinki](/2016/08/helsinki-schoenheit-an-der-ostsee/). Gründer sind CEO Jonne Hellgrenn, COO Petri Piirainen und CTO Peter Peltonen. Zunächst hatten die drei eine Design-Firma mit dem Schwerpunkt auf [Nachhaltigkeit](/tag/vegan/klima-umweltschutz/) gegründet. RePack war anfangs ein reines Nebenprodukt. Allerdings wurde ziemlich schnell klar, dass sich der Fokus auf die Ausarbeitung des wirklich genialen Konzepts richten würde.
 
 RePack bietet einen Rundum-Service an. Das bedeutet, dass die Versandtaschen, wenn sie abgenutzt sind, an das Unternehmen zurückgeschickt werden können. Sie werden dann aufgefrischt und wieder auf die Reise geschickt.
 

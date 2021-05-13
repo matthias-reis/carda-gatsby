@@ -31,6 +31,11 @@
   slug: vegane-lokale
   parentId: vegan
 
+- title: 'Vegan Celebrities'
+  description: 'Menschen aus dem Musik-, Film- und Mediabiz, die sich Gedanken darüber machen, was Tiere fühlen und wie die Zukunft unseres Planeten aussehen wird.'
+  slug: vegan-celebrities
+  parentId: vegan
+
 - title: 'Rock ’n‘ Roll'
   description: 'Rock ’n‘ Roll ist ein Lebensgefühl. Unter dieser Hauptrubrik meines Blogs findet Ihr Rezensionen, Interviews und Berichte über Konzerte und Festivals.'
   slug: musik
@@ -79,8 +84,13 @@
   slug: buecher-und-filme
   parentId: lifestyle
 
+- title: 'Kunst'
+  description: 'Kunst bewegt, Kunst wühlt auf und Kunst beschäftigt uns. Kunst kann vieles sein und unsere Wahrnehmung, Vorstellungskraft und Intuition beflügeln.'
+  slug: kunst
+  parentId: lifestyle
+
 - title: 'Geschichten & Erlebtes'
-  description: 'Fiktive Geschichten und Erlebnisse haben vieles gemeinsam: Sie können unterhaltsam und den Alltag bunter machen.'
+  description: 'Fiktive Geschichten und Erlebnisse haben vieles gemeinsam: Sie können unterhaltsam sein und den Alltag bunter machen.'
   slug: geschichten-und-erlebtes
   parentId: lifestyle
 

@@ -48,7 +48,7 @@ Noch vor fünf Jahren waren lediglich vier Prozent der neuen Lebensmittel und Ge
 
 ## Immer mehr vegane Produkteinführungen
 
-Insgesamt werden inzwischen fast doppelt so viele  [vegane Produkte](/category/vegan/vegane-produkte/) vorgestellt werden, wie vegetarische. Nur noch rund acht Prozent tragen das Label "vegetarisch". Das Label "vegan" findet jedoch bereits auf stolzen 14 Prozent.
+Insgesamt werden inzwischen fast doppelt so viele  [vegane Produkte](/tag/vegan/vegane-produkte/) vorgestellt werden, wie vegetarische. Nur noch rund acht Prozent tragen das Label "vegetarisch". Das Label "vegan" findet jedoch bereits auf stolzen 14 Prozent.
 
 Betrachtet man die Zahlen der Produkteinführungen im Zeitraum zwischen 2017 und 2018 weltweit, kommt man auf weniger durchschlagende Ergebnisse: Insgesamt waren fünf Prozent vegan und 11 Prozent vegetarisch. Aber auch hier zeichnet sich ein klarer Trend ab: Während sich die Zahl der vegetarischen Markteinführungen konstant hält, hat sich die der veganen innerhalb der letzten fünf Jahre mit 175 Prozent weltweit mehr als verdoppelt.
 

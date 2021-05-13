@@ -1,39 +1,37 @@
 ---
 date: 2019-05-20T12:36:53.000+00:00
 slug: arctangent-festival-2019
-path: "/2019/05/arctangent-festival-2019/"
+path: '/2019/05/arctangent-festival-2019/'
 type: Artikel
 typeName: Artikel
 title: ArcTanGent Festival 2019
 seoTitle: ArcTanGent Festival Bristol 2019 - wir sind auch dabei!
 ogTitle: ArcTanGent Festival Bristol 2019 - wir sind auch dabei!
-description: Das ArcTanGent 2019 rückt näher und wir sind auch dabei! Das Independent
-  Festival findet seit 2013 jährlich 10 Meilen südlich von Bristol statt.
-excerpt: Das ArcTanGent 2019 rückt näher und wir sind auch dabei! Das Independent
-  Festival findet seit 2013 jährlich 10 Meilen südlich von Bristol statt.
+description: Das ArcTanGent 2019 rückt näher und wir sind auch dabei! Das Independent Festival findet seit 2013 jährlich 10 Meilen südlich von Bristol statt.
+excerpt: Das ArcTanGent 2019 rückt näher und wir sind auch dabei! Das Independent Festival findet seit 2013 jährlich 10 Meilen südlich von Bristol statt.
 fileName: 2019-05---arctangent-festival-2019.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_Arctangent-2019__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_Arctangent-2019__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAjEAABBAEEAgMBAAAAAAAAAAABAAIDEQQSEyExBVEGImFB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwX/xAAbEQACAwEBAQAAAAAAAAAAAAABAgADEQQSIf/aAAwDAQACEQMRAD8AkSJ59oOOh8lAHSzlzrcG6WgAkuN8Cvaeqvj0mVj+chnlmjHj9xg2yKcXizWqjTeQT2eB7Ku0kLqzi8ta2WeWnMw82HNEj8ZsgjbI5lPrUKNUa6KpUOXHLL8pyczYiZBPJLKJYnfWS3UKANdVyRzSuTrJK6Yumta7CqwSpYhIxzTel3YBq69oQrIBGGYBih1T9mcfHjxxphGlnQb/AAfg/E9CEZgwQLFjpn//2Q==
-ogImage: 
+ogImage:
 labels:
-- ArcTanGent
-- Bossk
-- Bristol
-- Britische Inseln
-- Brutus
-- Caspian
-- Coheed And Cambria
-- Cult Of Luna
-- Festival
-- Festivals
-- Meshuggah
-- Metal
-- Postrock
-- Russian Circles
-- Sludge
-- The Ocean
-- serie:England 2019
+  - ArcTanGent
+  - Bossk
+  - Bristol
+  - Britische Inseln
+  - Brutus
+  - Caspian
+  - Coheed And Cambria
+  - Cult Of Luna
+  - Festival
+  - Festivals
+  - Meshuggah
+  - Metal
+  - Postrock
+  - Russian Circles
+  - Sludge
+  - The Ocean
+  - serie:England 2019
 focusKeyword: ArcTanGent
 status: publish
 isWerbung: false
@@ -41,8 +39,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Wir sind auch dabei!
-
 ---
+
 **Das ArcTanGent 2019 rückt näher und wir sind auch dabei! Das Independent Festival findet seit 2013 jährlich zehn Meilen südlich von Bristol statt.**
 
 Das Event ist inzwischen fest in unseren diesjährigen Urlaubsplan integriert und wir freuen uns riesig darauf. Das Line-up ist ein ganz besonderes - weltweit gibt es keine Veranstaltung mit einer vergleichbaren Bandbreite an Bands aus der progressiven Nische rund um Post-Rock, Post-Metal, Sludge und Shoegaze.
@@ -51,7 +49,7 @@ Das Festival geht vom 15. bis zum 17. August. Los geht es mit einer gediegenen W
 
 ## Ein Preisgekröntes Festival in England
 
-2018 wurde dem ArcTanGent Festival der Preis für das beste kleine Festival innerhalb der [UK](/category/slow-travel/britische-inseln/) verliehen und auch auf der Shortlist für den Award für das beste Line-up ist es aufgeführt.
+2018 wurde dem ArcTanGent Festival der Preis für das beste kleine Festival innerhalb der [UK](/tag/slow-travel/britische-inseln/) verliehen und auch auf der Shortlist für den Award für das beste Line-up ist es aufgeführt.
 
 Auf einem überschaubaren Gelände werden insgesamt etwa 90 Bands auf vier Bühnen spielen. Für das leibliche Wohl sorgen ausgewählte Foodtrucks sowie lokale Brauereien.
 

@@ -51,7 +51,7 @@ Schon mit den ersten Schritten zeichnete sich Erfolg ab. Christian Kuper wollte 
 
 ## Die Foodtrucks
 
-Mit Hilfe von Crowdfunding gelang es den beiden, neues Kapital zu sammeln. Indes wurden die Schlangen vor dem Truck immer länger. Ein zweiter musste her. [Festivals](/category/rock-n-roll/festivals/) wurden bereist, auf keiner Veranstaltung in Hamburg durfte Vincent fehlen, die Nachfrage wurde immer größer. Nach harter Arbeit, dem Verlust eines Trucks durch einen Unfall und einem steilen Aufstieg, tourten ab 2016 insgesamt drei Trucks durch Hamburg. Die Aufträge hatten sich zu diesem Zeitpunkt bereits mehr als verdoppelt.
+Mit Hilfe von Crowdfunding gelang es den beiden, neues Kapital zu sammeln. Indes wurden die Schlangen vor dem Truck immer länger. Ein zweiter musste her. [Festivals](/tag/rock-n-roll/festivals/) wurden bereist, auf keiner Veranstaltung in Hamburg durfte Vincent fehlen, die Nachfrage wurde immer größer. Nach harter Arbeit, dem Verlust eines Trucks durch einen Unfall und einem steilen Aufstieg, tourten ab 2016 insgesamt drei Trucks durch Hamburg. Die Aufträge hatten sich zu diesem Zeitpunkt bereits mehr als verdoppelt.
 
 Ständig werden neue Mitarbeiter gesucht, Vincent Vegan wächst und wächst. Über einen Tourplan auf der Homepage\* der Foodtrucker können die Fans die Wagen verfolgen. Getourt wird inzwischen nicht mehr nur in Hamburg, auch verschiedene vegane Events und einige Musikfestivals im norddeutschen Raum werden angefahren.
 

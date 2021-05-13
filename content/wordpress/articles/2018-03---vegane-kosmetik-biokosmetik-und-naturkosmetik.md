@@ -48,7 +48,7 @@ Das wurde ich vor Kurzem gefragt. Eigentlich muss ich dem Fragesteller recht geb
 
 ## An meine Haut lasse ich nur vegane Kosmetik
 
-[Vegane Kosmetik](/category/vegan/fair-fashion-beauty/) wird immer beliebter. Längst kann man sich nicht mehr nur über das Internet (z. B. [hier](https://www.shop-apotheke.com/vegane-kosmetik/)  bei der Shop Apotheke) damit eindecken. Man findet sie im Drogeriemarkt, in der Apotheke nebenan und sogar im Supermarkt. Überall sind plötzlich Veganlogos und Veganblumen zu sehen.
+[Vegane Kosmetik](/tag/vegan/fair-fashion-beauty/) wird immer beliebter. Längst kann man sich nicht mehr nur über das Internet (z. B. [hier](https://www.shop-apotheke.com/vegane-kosmetik/)  bei der Shop Apotheke) damit eindecken. Man findet sie im Drogeriemarkt, in der Apotheke nebenan und sogar im Supermarkt. Überall sind plötzlich Veganlogos und Veganblumen zu sehen.
 
 <RemoteImage
   alt={`vegane Kosmetik`}
@@ -159,6 +159,6 @@ Gleiches gilt für die Hersteller, die ihre Produkte für den Chinesischen Markt
 
 Zum Glück gibt es aber auch einige, die es anders machen, sich bewusst für einen Verzicht entschieden haben, ihre Konsumenten aufklären, Tierschutzorganisationen im Kampf gegen Tierversuche unterstützen und auf schädliche Inhaltsstoffe bewusst verzichten. Wenn es sich dabei um vegane Natur- oder Biokosmetik handelt oder "schlicht" um [liebevolle vegan hergestellte Kosmetik](/2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/) (Was nach meiner Erfahrung manchmal sogar noch viel toller sein kann :-) ), macht man nicht viel falsch. Besonders wichtig ist für mich, dass man Produkte bewusst verwendet, Tiegel, Tuben und Fläschchen immer komplett leer macht und sich vor der Verwendung mit den Inhaltsstoffen und dem Hersteller auseinandergesetzt hat. Das ist einer der Gründe, warum ich ehrlichen, veganen Beautyprodukten in meinem Blog ein Forum biete.
 
-Wer ein paar davon kennenlernen möchte, ist herzlich dazu eingeladen, [in meiner Rubrik Vegan Beauty weiterzulesen](/category/vegan-2/vegan-beauty/).
+Wer ein paar davon kennenlernen möchte, ist herzlich dazu eingeladen, [in meiner Rubrik Vegan Beauty weiterzulesen](/tag/vegan-2/vegan-beauty/).
 
 Foto "Blumen in Reagenzgläsern": [Rawpixel](https://pixabay.com/de/users/rawpixel-4283981/), Pixabay, Foto Reagenzgläser: CC, Pixabay, alle anderen Fotos: ich!

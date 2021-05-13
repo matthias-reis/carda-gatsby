@@ -39,7 +39,7 @@ month: '12'
 
 **Da sich in Cork nicht nur Apple, sondern auch andere große New Media-Konzerne wie Facebook, Amazon und Blizzard Entertainment angesiedelt haben und es zudem eine Universität gibt, ist die Stadt sehr jugendlich. Obwohl die Geschichte der Stadt bis ins 7. Jahrhundert zurückreicht.**
 
-Überall gibt es hippe Cafés und Bars und ganze Straßenzüge wirken wie "neu angelegt". Natürlich partizipiert man davon auch als Tourist. Vom Bubble Tea Stand bis zur angesagten, gehobenen (und teuren) [veganen](/category/vegan/) Szenegastronomie ist hier alles geboten.
+Überall gibt es hippe Cafés und Bars und ganze Straßenzüge wirken wie "neu angelegt". Natürlich partizipiert man davon auch als Tourist. Vom Bubble Tea Stand bis zur angesagten, gehobenen (und teuren) [veganen](/tag/vegan/) Szenegastronomie ist hier alles geboten.
 
 Auch Hotels, Hostels und Couchsurfing-Möglichkeiten gibt es wie Sand am Meer. Wir entschieden uns für einen gemütlichen Campingplatz im Vorort Blarney, von wo aus wir die Stadt erkundigten.
 

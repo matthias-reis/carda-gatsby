@@ -52,7 +52,7 @@ year: '2018'
 month: '01'
 ---
 
-**Ich bin ja durchaus dafür bekannt, mich gerne mal über die** [**Musik im Radio aufzuregen**](http://cardamonchai.com/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/)**. Oder über Radiosender generell. Aber meckern kann ja jeder. Heute möchte ich mal einen Radiosender loben. Für sein abwechslungsreiches Programm, für seine Kreativität und für die Liebe zum Detail.**
+**Ich bin ja durchaus dafür bekannt, mich gerne mal über die** [**Musik im Radio aufzuregen**](/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/)**. Oder über Radiosender generell. Aber meckern kann ja jeder. Heute möchte ich mal einen Radiosender loben. Für sein abwechslungsreiches Programm, für seine Kreativität und für die Liebe zum Detail.**
 
 Die Rede ist von dem kleinen, unabhängigen Sender Radio Paradise aus Kalifornien. Betrieben wird Radio Paradise von zwei Musikliebhabern. Hobbymäßig, in Eigenregie. Was dabei herauskommt ist ein traumhafter Mix aus den verschiedensten Musikrichtungen. Ohne Werbung, ohne Kommerz ohne Popsternchen, nervige Wiederholungen und Jingles.
 

@@ -55,7 +55,7 @@ Werbung\*
 
 Eingeweiht habe ich meine neuen Gumbies bei einer kleinen Auszeit am Strand (siehe Bilder). Inzwischen sind sie zu winterlichen Begleitern in der Wohnung geworden. Ich finde, sie sehen auch mit Socken ziemlich cool aus, oder? OK, vielleicht ein bisschen Hipster-mäßig. Aber ich verlasse in dem Outfit, das ich für Euch im Sand so schön in Szene gesetzt habe, normalerweise auch nicht meine vier Wände.
 
-Vorgestellt habe ich Euch [das australische Schuhwerk](/2018/03/gumbies-vegane-strandsandalen/) hier im Blog ja schon vor einiger Zeit. Inzwischen begleiten sie mich überallhin. Ich liebe meine türkisen Flip-Flops. Sie nehmen immer die Farbe des Sandes an, durch den ich gerade laufe. Sie nehmen nicht viel Platz im Rucksack weg und sorgen überall für neugierige Blicke. Beim Yoga sind sie genauso dabei, wie beim Wandern, Schnorcheln und auf [Festivals](/category/rock-n-roll/festivals/).
+Vorgestellt habe ich Euch [das australische Schuhwerk](/2018/03/gumbies-vegane-strandsandalen/) hier im Blog ja schon vor einiger Zeit. Inzwischen begleiten sie mich überallhin. Ich liebe meine türkisen Flip-Flops. Sie nehmen immer die Farbe des Sandes an, durch den ich gerade laufe. Sie nehmen nicht viel Platz im Rucksack weg und sorgen überall für neugierige Blicke. Beim Yoga sind sie genauso dabei, wie beim Wandern, Schnorcheln und auf [Festivals](/tag/rock-n-roll/festivals/).
 
 ## Das neue Gumbies Modell
 

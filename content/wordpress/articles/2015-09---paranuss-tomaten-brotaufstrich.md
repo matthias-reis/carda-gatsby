@@ -62,4 +62,4 @@ Mit dem Löffel nehmt ihr im Anschluss die Masse aus dem Mixer und füllt sie fe
 
 Ihr könnt den Aufstrich auch mit andern Nüssen machen und mit Gewürzen variieren. Probiert auch mal eine süße Variante. Man kann z. B. auch aus Studentenfutter einen genialen Frühstücksaufstrich herstellen. Viel Spaß beim Ausprobieren!
 
-Weitere Rezepte aus meiner Feder [sind hier zu finden](/category/vegan/vegane-rezepte/).
+Weitere Rezepte aus meiner Feder [sind hier zu finden](/tag/vegan/vegane-rezepte/).

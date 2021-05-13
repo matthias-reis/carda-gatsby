@@ -41,7 +41,7 @@ _Werbung &amp; Affiliate Links\*_
 
 **Glitter ist toll! Glitter macht alles schöner und nicht nur Einhörner glücklich. Doch leider ist Glitter auch eine Umweltbelastung. Abgespült gelangen die kleinen Partikelchen ins Grundwasser und verbinden sich mit anderen [Mikroplastik](/2018/05/mikroplastik-in-der-kosmetik/) -Teilchen.**
 
-Nicht so der vegane Bio-Glitter von Naissance. Ich hatte jetzt die Möglichkeit, ihn zu testen. Dabei habe ich ganz nebenbei ein super lustiges Fotoshooting erlebt. Die Bilder könnt Ihr anbei sehen. Auf dem nächsten [Festival](/category/musik/festivals/) werde ich bestimmt eine Menge Spaß mit Glitter haben.
+Nicht so der vegane Bio-Glitter von Naissance. Ich hatte jetzt die Möglichkeit, ihn zu testen. Dabei habe ich ganz nebenbei ein super lustiges Fotoshooting erlebt. Die Bilder könnt Ihr anbei sehen. Auf dem nächsten [Festival](/tag/musik/festivals/) werde ich bestimmt eine Menge Spaß mit Glitter haben.
 
 ## Und hier mein Testbericht
 

@@ -186,7 +186,7 @@ Ich habe mich jetzt mit der Gründerin und Chefin der Gruppe Bettina Eichblatt-K
 1.  [Welcome to the light parade](/2017/06/weisse-parade-stamp-festival-altona/)
 1.  [Fabelwesen im Sonnenlicht](/2017/06/stamp-festival-altona-2017-parade/)
 
-Interview: Anne Reis [http://cardamonchai.com]()  
+Interview: Anne Reis [https://cardamonchai.com]()  
 [anne.reis@cardamonchai.com](mailto:anne.reis@cardamonchai.com) Facebook: [https://www.facebook.com/cardamonchai](https://www.facebook.com/cardamonchai)
 
 ### Wer die Oakleaf-Truppe buchen oder sich ihr anschließen möchte, kann sich direkt mit Bettina in Verbindung setzen:

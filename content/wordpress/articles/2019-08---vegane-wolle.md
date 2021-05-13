@@ -86,7 +86,7 @@ Großen Wert legt sie außerdem auf CO2- neutralen Versand sowie eine weitgehend
 
 **Marlin:** Seit Anfang 2013.
 
-**Anne:** Was ist für Dich das wichtigste Argument [für vegan](/category/vegan/veganes-leben/) ?
+**Anne:** Was ist für Dich das wichtigste Argument [für vegan](/tag/vegan/veganes-leben/) ?
 
 **Marlin:** Ursprünglich meine Gesundheit. Nach kurzer Zeit kamen dann auch die herzlosen Methoden in der tierischen Lebensmittelproduktion dazu. Inzwischen lebe ich insofern vegan, dass ich mir keine neuen Produkte tierischen Ursprungs mehr kaufe. Bei Second Hand Artikeln kann ich Materialien wie Leder und Wolle mit meinem Gewissen vereinbaren.
 

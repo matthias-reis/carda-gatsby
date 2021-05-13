@@ -95,9 +95,9 @@ Weißt Du, ob für das Auto, das Du Dir für den Urlaub gemietet hast, [Tiere ge
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABgcIAAEF/8QALBAAAgEDAwIEBgMBAAAAAAAAAQIDBAURABIhBkEiMVGBBxMUFWGRCCRCof/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EAB8RAAICAgEFAAAAAAAAAAAAAAECAAMREgQTIzEyQv/aAAwDAQACEQMRAD8AEelaWegqIKgwvLEG3H5LcyADJDZ4I9R7ad1gvW+3GWmpnCHD75FEeMjODn0/7pWWaoqaKlWeugp6UKzIUlpyEDZHDFZc5HJHhx38udN2z0syRvV/TxVccSkD5FTlFCj/AArKBv8AXxc+WRrTy3DEZkwSYC/Efq3pmMimuF0hnnVuVp1Mjo3lgkDwqDjzOT6aFll6cZQwvtuwRkZmwf1rOoPhL9xv1XVTV9VBHWVLzEPTAtEWJYElWK7ecdvIY76Ul3t89sutbQNVW2VqWd4C4qMBtrFc++NKi5q11Qyxprf6hr1jdlr71c6QRvJRwFP6zHCmTaNzt+lHtxoy/jt837jd5aoGlhYiKGJG2JLIRubaCeWVQCSOxGe2kr1ffUvV1eroYfpI2VA658UrLk7mxx3wPwBnnXS6E6zrenL29cGllpnieKWBGHOeeN3A5AOfxo2IWJxK47OgErrqG2XKXp67xWiVY6+SkdKOSQ42uykKcjvzwfXGoQbwMVcBWU4IYcg/nVK0Px9tbqKartlzpqZnyZFljl2+hKjBx78DWpugOlrxNJc3gSRq1jUl4mGxi53ZXxeXPGiisvmZ0fpewn//2Q=="
 />
 
-Wir, mein Mann und ich, versuchen, so bewusst zu leben, wie es uns möglich ist. Darum sind wir Veganer geworden, haben kein Auto und versuchen unseren [ökologischen Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) so klein zu halten, wie wir können. Wir versuchen, weitestgehend [auf Plastik zu verzichten](/2017/04/interview-mit-zero-waste-aktivistin-vio/). Unser Strom ist Ökostrom und wir kaufen Fairtrade-Kaffee. Wir würden niemals bei einem dieser Einweg-Klamottengeschäfte einkaufen. Ich versuche über meinen Blog so viele Menschen wie möglich über den nachhaltigen, veganen Lebensstil aufzuklären. Wir versuchen keine [Kosmetikartikel](/category/vegan/fair-fashion-beauty/) von Herstellern zu erwerben, die ihre Waren auch in China vertreiben, wo Tierversuche Vorschrift sind. Außerdem gehen wir auf Demos und engagieren uns im Tierschutz.
+Wir, mein Mann und ich, versuchen, so bewusst zu leben, wie es uns möglich ist. Darum sind wir Veganer geworden, haben kein Auto und versuchen unseren [ökologischen Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) so klein zu halten, wie wir können. Wir versuchen, weitestgehend [auf Plastik zu verzichten](/2017/04/interview-mit-zero-waste-aktivistin-vio/). Unser Strom ist Ökostrom und wir kaufen Fairtrade-Kaffee. Wir würden niemals bei einem dieser Einweg-Klamottengeschäfte einkaufen. Ich versuche über meinen Blog so viele Menschen wie möglich über den nachhaltigen, veganen Lebensstil aufzuklären. Wir versuchen keine [Kosmetikartikel](/tag/vegan/fair-fashion-beauty/) von Herstellern zu erwerben, die ihre Waren auch in China vertreiben, wo Tierversuche Vorschrift sind. Außerdem gehen wir auf Demos und engagieren uns im Tierschutz.
 
-Aber auch wir kaufen uns Bandshirts und wissen nicht, unter welchen Bedingungen sie genäht wurden, wir fahren in den Urlaub, wir trinken auch auswärts Kaffee. Wir essen ab und zu Avocados und Bananen und leben im Zentrum einer der Großstädte mit der höchsten Abgasemission überhaupt. Bedingt durch unsere Arbeit und unsere Interessen sind wir permanent im Internet, wofür Server laufen, die mit Strom betrieben werden müssen. Außerdem haben wir eine Schwäche für moderne Gadgets, wie Kameras und Computer. Ich teste für meinen Blog [vegane Produkte](/category/vegan/vegane-produkte/). Auch diese werden an mich verschickt und es fällt dabei Müll an.
+Aber auch wir kaufen uns Bandshirts und wissen nicht, unter welchen Bedingungen sie genäht wurden, wir fahren in den Urlaub, wir trinken auch auswärts Kaffee. Wir essen ab und zu Avocados und Bananen und leben im Zentrum einer der Großstädte mit der höchsten Abgasemission überhaupt. Bedingt durch unsere Arbeit und unsere Interessen sind wir permanent im Internet, wofür Server laufen, die mit Strom betrieben werden müssen. Außerdem haben wir eine Schwäche für moderne Gadgets, wie Kameras und Computer. Ich teste für meinen Blog [vegane Produkte](/tag/vegan/vegane-produkte/). Auch diese werden an mich verschickt und es fällt dabei Müll an.
 
 Wir entschuldigen uns nicht dafür. Genau wie Du Dich nicht für Deinen nicht veganen Lebensstil entschuldigen musst. Jeder entscheidet selbst, ob er Fleisch essen möchte. Ob er damit leben kann, dass [Kälbchen von ihren Müttern getrennt](/2014/09/pflanzenmilch-wieso-denn-blos/) werden. Dass  [Schweine um ihr Leben rennen müssen](/2017/11/das-gluecksschwein-aus-dem-elbtunnel/).
 
@@ -120,7 +120,7 @@ Ein Kilogramm Rindfleisch [erzeugt so viele Treibhausgase](/2014/07/soja-klimasc
 
 Vegan wird man, weil man sich Gedanken gemacht hat und die Gedanken hören nicht auf. Es bedeutet nicht nur, auf Fleisch zu verzichten. Es ist viel mehr eine Lebenseinstellung. Eine sehr empathische, wie ich finde. Man beginnt, sich in andere Lebewesen hineinzuversetzen. In Tiere und in andere Menschen. Man hinterfragt die Dinge und erforscht sie genauer, bevor man sie konsumiert.
 
-Falls Du [Rezeptideen](/category/vegan/vegane-rezepte/) oder Einkaufstipps brauchst: Melde Dich einfach.
+Falls Du [Rezeptideen](/tag/vegan/vegane-rezepte/) oder Einkaufstipps brauchst: Melde Dich einfach.
 
 <iframe
   style="width: 120px; height: 240px;"
@@ -146,8 +146,7 @@ Falls Du [Rezeptideen](/category/vegan/vegane-rezepte/) oder Einkaufstipps brauc
 1.  [Fleischatlas 2018](/2018/01/fleischatlas-2018/)
 1.  [Klimaschutz und vegane Ernährung wissenschaftlich betrachtet](/2017/02/klimaschutz-und-vegane-ernaehrung/)
 1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
-1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)
-    </li>
-</ol>
+1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass) </li>
+    </ol>
 
 - _Hinweis: Dieser Beitrag enthält eine Anzeige mit einem Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _

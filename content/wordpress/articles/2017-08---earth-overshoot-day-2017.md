@@ -89,7 +89,7 @@ Wir leben also auf Kredit und die Politiker der großen Industriestaaten sind sc
 - [Zu einer Ökobank wechseln](/2017/04/alternative-banken-urgewald-informiert/)
 - Energiesparlampen verwenden
 - Dinge mit anderen teilen, reparieren und wiederverwenden
-- [Upcycling](/category/lifestyle/diy/)
+- [Upcycling](/tag/lifestyle/diy/)
 - Regional einkaufen
 - Weniger heizen (Leben in energieeffizienten Gebäuden)
 

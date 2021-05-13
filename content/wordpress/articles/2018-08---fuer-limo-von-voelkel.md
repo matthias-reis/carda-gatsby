@@ -118,7 +118,7 @@ Mit sogar noch etwas weniger Ingredienzien kommt die Sorte "Himbeer-Cassis" aus.
 
 ## Beerensammeln in Skandinavien
 
-Der Geschmack bleibt dabei auf keinen Fall auf der Strecke. Zuerst kitzelt der Himbeersaft den Gaumen, dann rundet der Schwarze Johannisbeersaft (Cassis) die Nummer ab. Die Süße der Himbeeren wird angenehm abgefedert und tritt nicht zu stark in den Vordergrund. Erinnerungen kommen dabei eher ans Beerensammeln in [Skandinavischen Wäldern](/category/slow-travel/skandinavien/) hoch.
+Der Geschmack bleibt dabei auf keinen Fall auf der Strecke. Zuerst kitzelt der Himbeersaft den Gaumen, dann rundet der Schwarze Johannisbeersaft (Cassis) die Nummer ab. Die Süße der Himbeeren wird angenehm abgefedert und tritt nicht zu stark in den Vordergrund. Erinnerungen kommen dabei eher ans Beerensammeln in [Skandinavischen Wäldern](/tag/slow-travel/skandinavien/) hoch.
 
 <RemoteImage
   alt={`Voelkel`}

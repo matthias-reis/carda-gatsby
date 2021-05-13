@@ -69,7 +69,7 @@ Einen Tipp meinerseits möchte ich gerne an dieser Stelle loswerden: Es lohnt si
 
 Die Fahrt mit dem Bus vom Bahnhof kostet für zwei Personen 4,40 EUR und es kann, gerade am Wochenende, schon mal sein, dass man ziemlich lange warten muss. Kauft man sein Festivalticket nicht an der Abendkasse und kann es somit im Bus bereits vorlegen, ist der Fahrtpreis inbegriffen.
 
-Für ausbaufähig halten wir nach unserem Besuch das Angebot an [veganem Essen](/category/vegan/vegane-rezepte/) (einzig gefüllte Kartoffeln wurden auf Anfrage hin auch vegan zubereitet) und Skandinavischer Kultur. Aber was nicht ist, kann ja noch werden und das NORDEN Festival steckt ja auch noch in den Kinderschuhen. Wir sind auf jeden Fall gespannt auf nächstes Jahr und werden bestimmt auch wieder hinfahren.
+Für ausbaufähig halten wir nach unserem Besuch das Angebot an [veganem Essen](/tag/vegan/vegane-rezepte/) (einzig gefüllte Kartoffeln wurden auf Anfrage hin auch vegan zubereitet) und Skandinavischer Kultur. Aber was nicht ist, kann ja noch werden und das NORDEN Festival steckt ja auch noch in den Kinderschuhen. Wir sind auf jeden Fall gespannt auf nächstes Jahr und werden bestimmt auch wieder hinfahren.
 
 ## Nächstes Jahr wird gepaddelt!
 

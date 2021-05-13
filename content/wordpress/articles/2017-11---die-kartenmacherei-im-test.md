@@ -89,7 +89,7 @@ Wenn es ans Bezahlen geht, habt Ihr die Wahl zwischen Zahlung per Kreditkarte, P
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcB/8QALhAAAgEDAwIDBgcAAAAAAAAAAQIDAAQRBQYSITEHE0EWIlFxsdEkJTJhYoGC/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMEAAL/xAAdEQACAgMAAwAAAAAAAAAAAAABAgADBBFBMVHx/9oADAMBAAIRAxEAPwBVZ6fmxnkDKjLExViQAp4nBJPbrSiHT7xU/E7miiXjliboHA+Q75/arLt/Gqo1ikioZomXkV5AdPUetOF2dxUg3dsx6ZxZIMn55pqZBpBAQGIfGFxBLldepmUgeZJVtdfuFWKdrcB5+APHsQQSMEH6irtpVn5m3bCVpPOdoBykLcuRGQTn17U79jPMUfmbxH+EIH0ao2qouhW0di9y1yY48iVxxLZJPbP9UGymuAVkA12dLiiliyuTvn2ZZp25rnb6S6hBEkzxxsAjkgdcfCmMXjHqRUE6XZnPX9b/AHooqawmV1AanX8ZNUx7umWQ/wBP96iTbru9x2sN/cRJC7IV4RkkYBPxoorVw2eJ/9k="
 />
 
-Doch jetzt mal ran an den [Speck](/category/vegan/) : Ihr wollt bestimmt wissen, wie ich mit dem Ergebnis zufrieden bin? Der Kalender war schon mal sehr liebevoll verpackt. Er kam in blaues Seidenpapier eingeschlagen bei mir an.
+Doch jetzt mal ran an den [Speck](/tag/vegan/) : Ihr wollt bestimmt wissen, wie ich mit dem Ergebnis zufrieden bin? Der Kalender war schon mal sehr liebevoll verpackt. Er kam in blaues Seidenpapier eingeschlagen bei mir an.
 
 Das Papier wirkt sehr hochwertig und stabil. Die Fotos kommen im Druck sehr gut raus. Ich habe meine RAW-Dateien zuvor wie gewohnt in Photoshop und Lightroom bearbeitet und als druckbare JPGs auf die Seite der Kartenmacher hochgeladen.
 

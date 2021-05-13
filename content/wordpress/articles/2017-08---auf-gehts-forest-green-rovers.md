@@ -37,7 +37,7 @@ subTitle: Englands vegane Kicker
 
 **Normalerweise schlägt mein Herz ja für den [_FC St. Pauli_](/2016/05/millerntor-stadion-hamburg/). Trotzdem muss ich Euch heute mal eine andere Fußballmannschaft vorstellen. Was ich über sie las, hat mich einfach schwer beeindruckt.**
 
-Die _Forest Green Rovers_ spielen seit dieser Saison in der vierthöchsten Liga Englands, der _League Two_ . Im Stadion werden den Fans ausschließlich vegane Speisen angeboten. Statt Bratwurst gibt es Q-Pie mit Lauch und Soja. An allen Trainings- und Spieltagen ernähren sich die Spieler der Mannschaft [vegan](/category/vegan/).
+Die _Forest Green Rovers_ spielen seit dieser Saison in der vierthöchsten Liga Englands, der _League Two_ . Im Stadion werden den Fans ausschließlich vegane Speisen angeboten. Statt Bratwurst gibt es Q-Pie mit Lauch und Soja. An allen Trainings- und Spieltagen ernähren sich die Spieler der Mannschaft [vegan](/tag/vegan/).
 
 ## Bei den Forest Green Rovers verzichtet man auf Fleisch und Chemie
 

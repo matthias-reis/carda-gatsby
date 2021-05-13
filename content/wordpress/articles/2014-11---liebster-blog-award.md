@@ -203,7 +203,7 @@ Die Gesundheit
 
 **Was kochst Du besonders gut?**
 
-Ich habe einige [Lieblingsrezepte](/category/vegan/vegane-rezepte/), im Moment mache ich besonders gerne Kartoffelauflauf in den verschiedensten Variationen.
+Ich habe einige [Lieblingsrezepte](/tag/vegan/vegane-rezepte/), im Moment mache ich besonders gerne Kartoffelauflauf in den verschiedensten Variationen.
 
 **Fällt Dir etwas Pfiffiges ein, das Dir Deine Oma oder Dein Opa mit auf den Weg gegeben hat?**
 

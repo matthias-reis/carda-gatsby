@@ -68,7 +68,7 @@ Spanferkel werden bereits im Säuglingsalter kastriert. Obwohl sich Tierschütze
 
 Von seinem Sprung hatte Frederik eine Entzündung im Knie davongetragen. Diese konnte inzwischen erfolgreich operiert werden und ist bereits abgeheilt. Der Kleine ist wohlauf und erfreut sich seines Lebens.
 
-Weil mich das Schicksal von Frederik und seinen Artgenossen so bewegt, habe ich mich vor Jahren dazu entschieden, [vegan zu leben](/category/vegan/veganes-leben/). Für mich hat jedes Lebewesen das Recht auf ein schmerzfreies Leben ohne Angst. Es macht keinen Unterschied, ob es sich um eine Katze, einen Hund, ein Kaninchen, ein Schwein, eine Kuh oder [einen Nerz](/2014/11/fakepelz-echtpelz/) handelt.
+Weil mich das Schicksal von Frederik und seinen Artgenossen so bewegt, habe ich mich vor Jahren dazu entschieden, [vegan zu leben](/tag/vegan/veganes-leben/). Für mich hat jedes Lebewesen das Recht auf ein schmerzfreies Leben ohne Angst. Es macht keinen Unterschied, ob es sich um eine Katze, einen Hund, ein Kaninchen, ein Schwein, eine Kuh oder [einen Nerz](/2014/11/fakepelz-echtpelz/) handelt.
 
 Aus diesem Grund habe ich heute auch eine Tierpatenschaft für Frederik übernommen. Ich habe ihn in mein Herz geschlossen und freue mich, dass es ihm gut geht. Wer weiß: Vielleicht kann ich ihn ja sogar eines Tages mal besuchen. Ich würde mich sehr freuen, ihn persönlich kennenzulernen.
 

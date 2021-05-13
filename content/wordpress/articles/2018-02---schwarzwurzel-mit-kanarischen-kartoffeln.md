@@ -71,4 +71,4 @@ Während das Gemüse auf dem Herd kocht, bereitet Ihr die Sauce zu. Schält dazu
 
 Angerichtet sieht das Ganze dann so aus, wie auf dem Bild oben.
 
-Weitere vegane Rezepte [findet Ihr hier](/category/vegan-2/rezepte/).
+Weitere vegane Rezepte [findet Ihr hier](/tag/vegan-2/rezepte/).

@@ -41,7 +41,7 @@ subTitle: Teil 1/2 - Fair Trade, Fair Banking? Was macht eigentlich mein Geld?
 
 **"Was macht eigentlich mein Geld?" - Das hatten sich die Aktivisten von urgewald schon sehr lange gefragt und gründeten deshalb 1992 den Verein. Mit einer umfangreichen Broschüre klären sie jetzt Verbraucher/innen über das Geschäft mit unserem Geld auf.**
 
-Wir fragen uns immer häufiger, wo die Produkte herkommen, die wir konsumieren. Wir leben [vegan](/category/vegan/), kaufen Bio- und Fair Trade Produkte und treffen unsere Kaufentscheidungen bewusster, als noch vor einigen Jahren.
+Wir fragen uns immer häufiger, wo die Produkte herkommen, die wir konsumieren. Wir leben [vegan](/tag/vegan/), kaufen Bio- und Fair Trade Produkte und treffen unsere Kaufentscheidungen bewusster, als noch vor einigen Jahren.
 
 Doch was machen eigentlich unsere Banken? Was passiert mit unserem Geld? Wir möchten für alles genaue Inhaltsangaben haben. Kekse mit Palmöl? Kommen nicht in Frage. Mit [Gelatine geklärter Wein](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/) ? Auf gar keinen Fall. Sollten wir uns denn unsere Bank nicht mindestens genau so wohl überlegt aussuchen?
 

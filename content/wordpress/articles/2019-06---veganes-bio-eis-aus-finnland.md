@@ -69,7 +69,7 @@ Maito Oy produziert das Jymy Eis. Die Eisfabrik Suomisen Maito eröffnete 2014 u
 
 ## Gesunde Lebensmittel aus Finnland
 
-Finnland besitzt auf dem Gebiet der Lebensmittelqualität eine bedeutende Sonderstellung. Das Fundament dafür bilden schonende Anbau- und Produktionsverfahren sowie Umweltschutz und [Tierschutz](/category/vegan/tierrechte/). So sind zum Beispiel das Flügelstutzen und das Kupieren von Schweineschwänzen bereits seit dem Jahr 2003 gesetzlich verboten.
+Finnland besitzt auf dem Gebiet der Lebensmittelqualität eine bedeutende Sonderstellung. Das Fundament dafür bilden schonende Anbau- und Produktionsverfahren sowie Umweltschutz und [Tierschutz](/tag/vegan/tierrechte/). So sind zum Beispiel das Flügelstutzen und das Kupieren von Schweineschwänzen bereits seit dem Jahr 2003 gesetzlich verboten.
 
 Im Vergleich mit anderen Ländern schneidet Finnland auch, was die Hygiene angeht, sehr gut ab. Da die Salmonellensituation im Land so gut ist, gewährte die Europäische Kommission eine Ausnahmeregelung: Es dürfen ausschließlich Salmonellen-freie Lebensmittel eingeführt werden. Außer für Finnland gilt diese Regelung auch für Norwegen und Schweden. Im europäischen Vergleich liegt Finnland zudem ganz vorne, wenn es um die Niedrighaltung von Antibotikagaben in der Nutztierhaltung geht. Die Resistenzproblematik ist dort daher längst nicht so dramatisch, wie hierzulande.
 
@@ -83,7 +83,7 @@ Rohstoffe wie **Waldbeeren** gedeihen im kühlen Klima Finnlands sehr gut. Etwa 
 
 - <ul>     <li id="1">[1]  [Food from Finland](https://www.businessfinland.fi/en/do-business-with-finland/explore-finland/food-drinks/food-from-finland-in-brief/)
 - [2] [Business Finland](https://www.businessfinland.fi/en/do-business-with-finland/home/)
-  </li>
+    </li>
 </ul>
 
 ### Quellen

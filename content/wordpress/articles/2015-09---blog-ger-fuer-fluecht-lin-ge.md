@@ -69,8 +69,8 @@ Helfer werden immer gebraucht. Ob eine Stunde zwischendurch oder gleich ein paar
   alt="#BloggerfuerFluechtlinge"
   size="large"
   title="[ ](/wp-content/uploads/2015/09/11144488_10207688042865199_8063703920232044845_n-e1442239162466.jpg)  #BloggerfuerFluechtlinge"
-  mediumUrl="http://cardamonchai.com/wp-content/uploads/2015/09/11144488_10207688042865199_8063703920232044845_n-800x296.jpg"
-  largeUrl="http://cardamonchai.com/wp-content/uploads/2015/09/11144488_10207688042865199_8063703920232044845_n-800x296.jpg"
+  mediumUrl="/wp-content/uploads/2015/09/11144488_10207688042865199_8063703920232044845_n-800x296.jpg"
+  largeUrl="/wp-content/uploads/2015/09/11144488_10207688042865199_8063703920232044845_n-800x296.jpg"
   loadingUrl="undefined"
 />
 

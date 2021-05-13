@@ -161,13 +161,13 @@ Was mich natürlich besonders interessiert hat, waren die Inhaltsstoffe ihrer Pr
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgEDCP/EACQQAAIBBAIBBAMAAAAAAAAAAAECEQADBBIhMQUGEyJBFFGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEA/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECIQMxQUL/2gAMAwEAAhEDEQA/AOnxiWgpESdg2x7kdfwRS7eNts7sx5iEIHI5mT++afrG1A8cXwpWfU3kb+BkYWHhr7cpJue4iyvWo2k/QqYwbQybFjIvL8okgkMC3I2kd9mqr5+17Xm2vL+LeR22JZ4IgQVIg1afD6pihd12PzKz0DRq5NNUXgyCTfIJMT1W5gNTwKKKYxA+pLaHADFFLA9kc1I+LtouFb1RRx9Ciij9lej/2Q=="
 />
 
-**Anne:** In meinem Blog geht es unter anderem auch hier und da um [Musik](/category/rock-n-roll). Das hat damit zu tun, dass Musik ein wichtiger Bestandteil meines Lebens ist. Daher auch diese Frage: Wenn Du Ashéra mit einem Song beschreiben oder untermalen solltest. Welcher wäre das?
+**Anne:** In meinem Blog geht es unter anderem auch hier und da um [Musik](/tag/rock-n-roll). Das hat damit zu tun, dass Musik ein wichtiger Bestandteil meines Lebens ist. Daher auch diese Frage: Wenn Du Ashéra mit einem Song beschreiben oder untermalen solltest. Welcher wäre das?
 
 **Jacqueline:** Ich verbinde Ashéra mehr mit Meditationsmusik, als mit einem Song. Angenehme, beruhigende Klänge, gerne mit ein paar Zimbeln oder Klangschalen.
 
 **Anne:**  Noch ist es Winter, doch der Frühling steht vor der Tür. Was wird für Dich der Beautytrend des Sommerhalbjahres?
 
-**Jacqueline:** Auf jeden Fall [Nachhaltigkeit](/category/vegan/klima-umweltschutz/) und Natürlichkeit!
+**Jacqueline:** Auf jeden Fall [Nachhaltigkeit](/tag/vegan/klima-umweltschutz/) und Natürlichkeit!
 
 **Anne:**  Euch gibt es seit 2017. Seitdem sind bereits zwei Kosmetiklinien erschienen, man sieht Euch auf Messen und auch in den sozialen Netzwerken seid Ihr permanent präsent. Ein Blick in die Zukunft von Ashéra: Was steht als nächstes an?
 

@@ -74,7 +74,7 @@ In einigen Häusern sind auch Haustiere willkommen, wer seinen Hund oder seine K
 
 Auf die Frage, welche Länder er bereits bereist hat und wo er sich als Veganer am besten aufgehoben fühlte, antwortete Matteo:
 
-"Tunesien, England, Irland, Holland, Tschechien und Spanien. Mit Abstand am besten lässt es sich als Veganer in Barcelona leben. Also Spanien. Und jetzt natürlich auch Sardinien. Könnt Ihr das bestätigen? Was sind Eure liebsten [Reiseziele](/category/slow-travel/fernweh/) ? Soll ich über eine bestimmte Location berichten? Dann schreibt mir!
+"Tunesien, England, Irland, Holland, Tschechien und Spanien. Mit Abstand am besten lässt es sich als Veganer in Barcelona leben. Also Spanien. Und jetzt natürlich auch Sardinien. Könnt Ihr das bestätigen? Was sind Eure liebsten [Reiseziele](/tag/slow-travel/fernweh/) ? Soll ich über eine bestimmte Location berichten? Dann schreibt mir!
 
 Wer gerne mehr über Matteo und seine Ferienhäuser erfahren möchte, kann ihn jederzeit auf seiner [Facebook-Seite](https://www.facebook.com/vegansardinia) besuchen. Dort findet sich auch der Kontakt für die Buchung.
 

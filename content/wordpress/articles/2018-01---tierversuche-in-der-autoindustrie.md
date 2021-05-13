@@ -87,4 +87,4 @@ Heute gibt sich VW schuldbewusst. Die Frage ist nur: Warum musste es erst zu die
 
 Das Schlimme ist: Die Versuche in Albuquerque sind nur die Spitze des Eisbergs. Täglich finden weltweit weiterhin Tierversuche von unvorstellbarer Grausamkeit statt. Auch in Deutschland steigt die Zahl der Versuche laut aktuellen Berichten weiterhin an.
 
-Die Fotos zeigen in Freiheit lebende Affen, die ich in Sri Lanka fotografiert habe. Sie sollen ein Mahnmal sein und die Menschen wachrütteln, damit sie gemeinsam gegen [Tierversuche](/?s=tierversuche) vorgehen und für die [Rechte der Tiere](/category/vegan/tierrechte/) kämpfen.
+Die Fotos zeigen in Freiheit lebende Affen, die ich in Sri Lanka fotografiert habe. Sie sollen ein Mahnmal sein und die Menschen wachrütteln, damit sie gemeinsam gegen [Tierversuche](/?s=tierversuche) vorgehen und für die [Rechte der Tiere](/tag/vegan/tierrechte/) kämpfen.

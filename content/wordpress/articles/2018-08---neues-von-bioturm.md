@@ -159,9 +159,9 @@ Vielleicht würden manche das Duschgel eher abends nach dem Sport verwenden und 
 
 Sie sind in den für den Hersteller typischen recylingfähigen Tuben abgefüllt und kommen auch beim Versand ohne zusätzliche Umverpackung aus.
 
-Insgesamt überzeugen mich die Bioturm Newcomer wieder sehr. Sie haben bei mir definitiv einen Platz in der [Ecke mit den Beauty-Lieblingen](/category/vegan/fair-fashion-beauty/) verdient.
+Insgesamt überzeugen mich die Bioturm Newcomer wieder sehr. Sie haben bei mir definitiv einen Platz in der [Ecke mit den Beauty-Lieblingen](/tag/vegan/fair-fashion-beauty/) verdient.
 
-Da ich mich immer mehr mit Themen wie [Nachhaltigkeit](/category/vegan/klima-umweltschutz/), Müllvermeidung und Umweltschutz beschäftige, habe ich persönlich mir im Anschluss an meinen Test noch die Frage gestellt, ob es generell möglich ist, Styling-Produkte, wie Haarspray und -Festiger in Glasflaschen zu verpacken.
+Da ich mich immer mehr mit Themen wie [Nachhaltigkeit](/tag/vegan/klima-umweltschutz/), Müllvermeidung und Umweltschutz beschäftige, habe ich persönlich mir im Anschluss an meinen Test noch die Frage gestellt, ob es generell möglich ist, Styling-Produkte, wie Haarspray und -Festiger in Glasflaschen zu verpacken.
 
 ## Was bringt die Zukunft?
 

@@ -186,7 +186,7 @@ Junge Menschen erfahren Sozialkompetenz und Verantwortung und unseren Senioren w
 
 Der Tierschutz ist für den Verein von zentraler Bedeutung und beinhaltet viele Facetten. Training von Hunden zum Umgang mit Menschen ist genauso dabei, wie Übungen für Kinder im Umgang mit Haustieren. So wird ein verantwortungsvoller Umgang mit den Vierbeinern gelehrt, damit der Tierschutz schon bei der Auswahl der Hausgenossen anfangen kann.
 
-Aber auch klassischer [Tierschutz](/category/vegan/tierrechte/) im Bereich Wildtiere ist Aufgabe des Vereins.  _Graues Gold e. V._  unterstützt die Arbeit der Eichhörnchen Auffangstation  _Wilde Kreaturen\*_  in Dorsten in vielfacher Hinsicht. Wir gehen rücksichtsvoll mit Tieren um.
+Aber auch klassischer [Tierschutz](/tag/vegan/tierrechte/) im Bereich Wildtiere ist Aufgabe des Vereins.  _Graues Gold e. V._  unterstützt die Arbeit der Eichhörnchen Auffangstation  _Wilde Kreaturen\*_  in Dorsten in vielfacher Hinsicht. Wir gehen rücksichtsvoll mit Tieren um.
 
 **Anne:** Was steht in Zukunft an? Sind neue Projekte geplant? Wie geht es mit dem Cookie's Veggies weiter?
 

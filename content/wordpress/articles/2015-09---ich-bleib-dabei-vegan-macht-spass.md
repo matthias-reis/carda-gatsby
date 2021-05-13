@@ -125,7 +125,7 @@ Auch so ein "Gegenargument", das ich immer wieder von Zweiflern höre ist "'Vega
 4. ungefährlich und
 5. macht gute Laune
 
-So, Schluss mit der Lobhudelei, ich muss kochen, heute gibt es was wirklich Leckeres! Wir lesen uns ganz sicher! Wer im Gegensatz zu mir noch nicht weiß, was er/sie heute Abend auf den Tisch bringen könnte: [Hier geht's zu meinen Rezepten](/category/vegan/vegane-rezepte/).
+So, Schluss mit der Lobhudelei, ich muss kochen, heute gibt es was wirklich Leckeres! Wir lesen uns ganz sicher! Wer im Gegensatz zu mir noch nicht weiß, was er/sie heute Abend auf den Tisch bringen könnte: [Hier geht's zu meinen Rezepten](/tag/vegan/vegane-rezepte/).
 
 <Gallery
   images={[

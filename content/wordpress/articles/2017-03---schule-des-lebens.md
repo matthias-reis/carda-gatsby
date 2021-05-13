@@ -94,7 +94,7 @@ Denk mal drüber nach.
 
 ## Noch mehr "Schule des Lebens" gefällig?
 
-Interviews mit vielen tollen Persönlichkeiten [findet Ihr hier.](/category/rock-n-roll/interviews/)
+Interviews mit vielen tollen Persönlichkeiten [findet Ihr hier.](/tag/rock-n-roll/interviews/)
 
 Zum Artikel gibt es hier noch eine kleine Erinnerung. Viel Spaß damit.
 

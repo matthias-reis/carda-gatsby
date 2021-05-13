@@ -92,7 +92,7 @@ Wer gerne reist, weiß, wie wichtig gute Planung ist. Der Lonely Planet für Veg
 
 ## Inspiration
 
-Das [Vegan Travel Handbook](http://tidd.ly/b1b6af2a) bietet jede Menge Inspiration auf der Suche nach tollen Reisezielen. Dabei werden auch Länder erwähnt, die man bislang vielleicht noch gar nicht fürs Urlauben in Erwägung gezogen hat. Ob man nun wirklich die Tropen bereisen möchte oder CO2 spart und mit dem Fahrrad auf einen Roadtrip durch [Skandinavien](/category/slow-travel/skandinavien/) geht - das muss jede⋆r für sich selbst entscheiden.
+Das [Vegan Travel Handbook](http://tidd.ly/b1b6af2a) bietet jede Menge Inspiration auf der Suche nach tollen Reisezielen. Dabei werden auch Länder erwähnt, die man bislang vielleicht noch gar nicht fürs Urlauben in Erwägung gezogen hat. Ob man nun wirklich die Tropen bereisen möchte oder CO2 spart und mit dem Fahrrad auf einen Roadtrip durch [Skandinavien](/tag/slow-travel/skandinavien/) geht - das muss jede⋆r für sich selbst entscheiden.
 
 ## Abenteuer
 

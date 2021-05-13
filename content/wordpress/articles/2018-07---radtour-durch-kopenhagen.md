@@ -37,7 +37,7 @@ subTitle: Dänische Fahrradstadt im Sonnenlicht
 
 **Eine Großstadt vom Fahrrad aus erkunden? Geht nicht? Geht doch! Kopenhagen ist eine Zweiradstadt, wie sie im Buche steht. Vor Kurzem kamen wir in den Genuss, sie für uns zu entdecken.**
 
-Breite, ausgebaute, vom Autoverkehr komplett getrennte Fahrradwege soweit das Auge reicht. In Kopenhagen ist das keine Zukunftsmusik und auch kein Traum. Was in anderen Städten unmöglich erscheint, ist hier längst Wirklichkeit. Tja, [Hamburg](/category/slow-travel/hamburg/), da kannst Du Dir echt mal eine Scheibe davon abschneiden. Das würde auch Dir gut stehen.
+Breite, ausgebaute, vom Autoverkehr komplett getrennte Fahrradwege soweit das Auge reicht. In Kopenhagen ist das keine Zukunftsmusik und auch kein Traum. Was in anderen Städten unmöglich erscheint, ist hier längst Wirklichkeit. Tja, [Hamburg](/tag/slow-travel/hamburg/), da kannst Du Dir echt mal eine Scheibe davon abschneiden. Das würde auch Dir gut stehen.
 
 ## Eine Radtour durch Kopenhagen die ist schön
 

@@ -137,7 +137,7 @@ Ihr seid auf der Suche nach leckeren veganen Getränke? [In meinem Artikel zum T
 
 Ihr seid selbst Hersteller und möchte, dass ich Euer Getränk teste und ihn meinem Blog vorstelle?  [Kommt gerne jederzeit auf mich zu](mailto:info@cardamonchai.com). Ich freue mich auf Eure Zuschriften!
 
-Natürlich teste ich längst nicht nur Getränke, sondern auch zahlreiche andere [vegane und nachhaltige Produkte](/category/vegan-2/produkte/).
+Natürlich teste ich längst nicht nur Getränke, sondern auch zahlreiche andere [vegane und nachhaltige Produkte](/tag/vegan-2/produkte/).
 
 - _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
 

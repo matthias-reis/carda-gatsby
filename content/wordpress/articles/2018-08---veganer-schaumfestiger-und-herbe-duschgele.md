@@ -161,10 +161,10 @@ kommen auch beim Versand ohne zusätzliche Umverpackung aus.
 
 Insgesamt überzeugen mich die Bioturm Newcomer wieder sehr. Sie haben bei mir
 definitiv einen Platz in der
-[Ecke mit den Beauty-Lieblingen](/category/vegan-2/vegan-beauty/) verdient.
+[Ecke mit den Beauty-Lieblingen](/tag/vegan-2/vegan-beauty/) verdient.
 
 Da ich mich immer mehr mit Themen wie
-[Nachhaltigkeit](/category/gesellschaft/klima-umweltschutz/), Müllvermeidung und
+[Nachhaltigkeit](/tag/gesellschaft/klima-umweltschutz/), Müllvermeidung und
 Umweltschutz beschäftige, habe ich persönlich mir im Anschluss an meinen Test
 noch die Frage gestellt, ob es generell möglich ist, Styling-Produkte, wie
 Haarspray und -Festiger in Glasflaschen zu verpacken.

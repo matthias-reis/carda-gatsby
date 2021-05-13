@@ -188,6 +188,6 @@ Wenn man immer auf den großen Knall wartet, der kommen wird, wenn man ein besti
 
 ## Was ist das eigentlich "glücklich sein"?
 
-Wann ist man glücklich? Kann man wirklich dauerhaft glücklich sein? Oft sind es ganz kleine Dinge, die einen die Welt wieder in einem positiveren Licht sehen lassen. Ein nettes Lächeln. Der erste Krokus am Straßenrand, die Vorfreude auf das nächste [Festival](/category/rock-n-roll/festivals/). Kaffee mit Mutti.
+Wann ist man glücklich? Kann man wirklich dauerhaft glücklich sein? Oft sind es ganz kleine Dinge, die einen die Welt wieder in einem positiveren Licht sehen lassen. Ein nettes Lächeln. Der erste Krokus am Straßenrand, die Vorfreude auf das nächste [Festival](/tag/rock-n-roll/festivals/). Kaffee mit Mutti.
 
 Wichtig ist, dass man vor allem eins beherzigt: Diese kurzen Momente nicht unbemerkt vorbeiziehen zu lassen, sondern sich an ihnen zu erfreuen und in weniger fröhlichen Phasen an sie zurückzudenken. Wenn Du das schaffst, bist Du schon ein gutes Stück glücklicher. Auch, wenn [das mit dem Lächeln](/2017/09/chelsea-handler-maenner-frauen-laecheln/) vielleicht im Moment nicht so gut klappt.

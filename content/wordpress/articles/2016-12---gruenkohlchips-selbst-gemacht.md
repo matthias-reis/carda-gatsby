@@ -50,7 +50,7 @@ Besonderer Beliebtheit erfreuen sich derzeit Grünkohlchips. Fertig aus dem Lade
 
 Den Backofen auf 120 Grad vorheizen. Den Grünkohl in verzehrgerechte Stücke schneiden, waschen und sehr gut abtrocknen. Salz, Paprikapulver und Öl mit einem Schneebesen vermischen und den Grünkohl mit der Lotion einreiben. Den Grünkohl auf ein mit Backpapier ausgelegtes Backblech legen und rund 30 Minuten backen. Zwischendurch immer wieder die Ofenklappe öffnen, damit der Wasserdampf entweichen kann.
 
-Ich wünsche Euch guten Appetit! Vorsicht, die Dinger machen süchtig! Falls welche übrig bleiben, könnt Ihr die Grünkohlchips in einer Plätzchendose aufheben. Beim Snacken könnt Ihr in meinem Blog noch [weitere Rezepte](/category/vegan/vegane-rezepte/) entdecken.
+Ich wünsche Euch guten Appetit! Vorsicht, die Dinger machen süchtig! Falls welche übrig bleiben, könnt Ihr die Grünkohlchips in einer Plätzchendose aufheben. Beim Snacken könnt Ihr in meinem Blog noch [weitere Rezepte](/tag/vegan/vegane-rezepte/) entdecken.
 
 <Gallery
   images={[

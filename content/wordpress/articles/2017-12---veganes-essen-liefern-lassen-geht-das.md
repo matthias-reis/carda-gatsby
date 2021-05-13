@@ -38,7 +38,7 @@ _Affiliate Links\*_
 
 **"Kannst Du Dir als Veganerin dann auch einfach mal ne Pizza bestellen, wenn Du nach einem langen Tag abends keine Lust mehr hast, was zu kochen?". Das wurde ich unlängst gefragt. Die gute Nachricht ist: Ja, das geht. Immer besser sogar!**
 
-In der ersten Zeit als [Veganer](/category/vegan/) haben mein Mann und ich an sowas wie Essensbestellungen gar nicht gedacht. Wir waren einfach zu sehr damit beschäftigt, neue, tolle Lebensmittel auszuprobieren. Auch heute denken wir uns noch täglich neue [Rezepte](/category/vegan/vegane-rezepte/) aus, aber ab und zu, schleicht sich dann auch mal die Faulheit ein oder der Stress ist zu groß und dann greifen wir auch mal zum Laptop und suchen uns online was Leckeres aus.
+In der ersten Zeit als [Veganer](/tag/vegan/) haben mein Mann und ich an sowas wie Essensbestellungen gar nicht gedacht. Wir waren einfach zu sehr damit beschäftigt, neue, tolle Lebensmittel auszuprobieren. Auch heute denken wir uns noch täglich neue [Rezepte](/tag/vegan/vegane-rezepte/) aus, aber ab und zu, schleicht sich dann auch mal die Faulheit ein oder der Stress ist zu groß und dann greifen wir auch mal zum Laptop und suchen uns online was Leckeres aus.
 
 <RemoteImage
   alt={`Veganes Essen liefern lassen`}

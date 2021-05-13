@@ -45,7 +45,7 @@ month: '05'
 
 **Der Lighthouse Tea Room in Galway zählt zu den besonderen kulinarischen Entdeckungen, die wir während unserer Irlandreise gemacht haben.**
 
-Gemütlich und mit Liebe zum Detail eingerichtet, beeindruckte uns das [Lokal](/category/vegan/vegane-lokale/) bereits beim Betreten. Ein Blick in die Speisekarte machte es dann noch besser. Dass sie komplett aus veganen und vegetarischen Speisen besteht, wussten wir, aber mit einer so großen Vielfalt hatten wir nicht gerechnet.
+Gemütlich und mit Liebe zum Detail eingerichtet, beeindruckte uns das [Lokal](/tag/vegan/vegane-lokale/) bereits beim Betreten. Ein Blick in die Speisekarte machte es dann noch besser. Dass sie komplett aus veganen und vegetarischen Speisen besteht, wussten wir, aber mit einer so großen Vielfalt hatten wir nicht gerechnet.
 
 ## Lighthouse Tea Room Galway - Liebe zum Detail
 
