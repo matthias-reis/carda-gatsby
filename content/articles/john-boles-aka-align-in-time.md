@@ -1,5 +1,5 @@
 ---
-date: 2021-05-02T17:21:42Z
+date: 2021-05-02T17:21:42.000+00:00
 labels:
 - Align in Time
 - " Interview"
@@ -82,15 +82,15 @@ languageLink: align-in-time-interview
 
 As an introduction to his latest album, "On A Spiral", John recommends the songs "I Go Too" and "Finish It" to his listeners.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="[https://bandcamp.com/EmbeddedPlayer/album=4129307417/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=1519378806/transparent=true/](https://bandcamp.com/EmbeddedPlayer/album=4129307417/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=1519378806/transparent=true/ "https://bandcamp.com/EmbeddedPlayer/album=4129307417/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=1519378806/transparent=true/")" seamless=""><a href="[https://alignintime.bandcamp.com/album/on-a-spiral](https://alignintime.bandcamp.com/album/on-a-spiral "https://alignintime.bandcamp.com/album/on-a-spiral")">On a Spiral by Align in Time</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4129307417/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=1519378806/transparent=true/" seamless=""><a href="https://alignintime.bandcamp.com/album/on-a-spiral">On a Spiral by Align in Time</a></iframe>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="[https://bandcamp.com/EmbeddedPlayer/album=4129307417/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2497140463/transparent=true/](https://bandcamp.com/EmbeddedPlayer/album=4129307417/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2497140463/transparent=true/ "https://bandcamp.com/EmbeddedPlayer/album=4129307417/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2497140463/transparent=true/")" seamless=""><a href="[https://alignintime.bandcamp.com/album/on-a-spiral](https://alignintime.bandcamp.com/album/on-a-spiral "https://alignintime.bandcamp.com/album/on-a-spiral")">On a Spiral by Align in Time</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4129307417/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2497140463/transparent=true/" seamless=""><a href="https://alignintime.bandcamp.com/album/on-a-spiral">On a Spiral by Align in Time</a></iframe>
 
 But you should definitely also give a listen to his first work called "Me &amp; My Arrow". John recommends the songs "Run Home" and "The Many Faces" from the album.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="[https://bandcamp.com/EmbeddedPlayer/album=3557887843/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/](https://bandcamp.com/EmbeddedPlayer/album=3557887843/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/ "https://bandcamp.com/EmbeddedPlayer/album=3557887843/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/")" seamless=""><a href="[https://alignintime.bandcamp.com/album/me-my-arrow](https://alignintime.bandcamp.com/album/me-my-arrow "https://alignintime.bandcamp.com/album/me-my-arrow")">Me &amp; My Arrow by Align in Time</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3557887843/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless=""><a href="https://alignintime.bandcamp.com/album/me-my-arrow">Me &amp; My Arrow by Align in Time</a></iframe>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="[https://bandcamp.com/EmbeddedPlayer/album=3557887843/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=3863101319/transparent=true/](https://bandcamp.com/EmbeddedPlayer/album=3557887843/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=3863101319/transparent=true/ "https://bandcamp.com/EmbeddedPlayer/album=3557887843/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=3863101319/transparent=true/")" seamless=""><a href="[https://alignintime.bandcamp.com/album/me-my-arrow](https://alignintime.bandcamp.com/album/me-my-arrow "https://alignintime.bandcamp.com/album/me-my-arrow")">Me &amp; My Arrow by Align in Time</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3557887843/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=3863101319/transparent=true/" seamless=""><a href="https://alignintime.bandcamp.com/album/me-my-arrow">Me &amp; My Arrow by Align in Time</a></iframe>
 
 The acoustic versions of the Align in Time songs "A Men Without Chests" and "I Go Too" sound completely different from those on "Me &amp; My Arrow" and "On A Spiral" - in a fascinating way. I recommend you to listen to both versions of the songs. Please enjoy this delightful experience – It takes me back in time and reminds me of the Goo Goo Dolls pretty much.
 
