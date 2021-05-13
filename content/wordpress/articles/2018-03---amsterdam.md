@@ -61,13 +61,4 @@ Es hat irgendetwas mit dem Wasser zu tun. Purer Optimismus und offene Freundlich
 
 In [Venedig](/2014/03/valentinstag-in-venedig/) war es wärmer.
 
-## Wegweiser Amsterdam
-
-1. [Banksy im Moco Amsterdam](/2018/01/banksy-im-moco-amsterdam/)
-2. [Stedelijk Museum Amsterdam](/2018/02/stedelijk-museum-amsterdam/)
-3. [Vegan Junk Food Bar Amsterdam](/2018/02/vegan-junk-food-bar-amsterdam/)
-4. [Rijksmusem Amsterdam](/2018/03/rijksmuseum-amsterdam/)
-5. Amsterdam - Grachten und Gassen
-6. [Raw Food Café Amsterdam](/2018/03/raw-food-cafe-amsterdam-zest-for-life/)
-
 Bei diesem Text handelt es sich um ein Flarf-Gedicht. Wer gerne wissen möchte, was das ist, [findet hier eine genaue Erklärung](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/).
