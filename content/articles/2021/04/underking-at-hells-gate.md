@@ -10,8 +10,8 @@ description: Underking – das ist von Fantasy und Science-Fiction inspirierter 
   Sound. Das neue Album "At Hell's Gate" erscheint morgen.
 excerpt: Underking – das ist von Fantasy und Science-Fiction inspirierter Metal Sound.
   Das neue Album "At Hell's Gate" erscheint morgen.
-image: "/img/underking-2.jpeg"
-ogImage: "/img/underking-fb.png"
+image: '/img/underking-2.jpeg'
+ogImage: '/img/underking-fb.png'
 labels:
 - Bands
 - English & German

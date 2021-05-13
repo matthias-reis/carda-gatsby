@@ -7,7 +7,7 @@ description: >-
 
 
 date: 2015-11-10T14:40:29.418Z
-image: /img/orang-utan-2943873_1280.jpg
+image: '/img/orang-utan-2943873_1280.jpg'
 labels:
   - Klima- & Umweltschutz
   - Orang-Utan

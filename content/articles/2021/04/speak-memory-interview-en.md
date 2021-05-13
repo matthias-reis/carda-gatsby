@@ -8,8 +8,8 @@ subTitle: Speak, Memory guitarist Tim about their new EP
 seoTitle: Speak, Memory guitarist Tim about their new EP "Adirondack"
 description: I've talked to Speak, Memory guitarist Tim about their upcoming album "Adirondack" and the band's history. The band from Oklahoma City is planning to release it early this May.
 excerpt: Speak, Memory describe themselves as "Somewhere between the limitless world building of early Explosions in the Sky and the mathy noodling of American Football". Sounds pretty exciting, doesn't it? The band from Oklahoma City is planning to release their new EP soon. Time for an interview!
-image: /img/speak-memory-3-.jpg
-ogImage: /img/speak-memory-fb.png
+image: '/img/speak-memory-3-.jpg'
+ogImage: '/img/speak-memory-fb.png'
 labels:
   - Adirondack
   - Bands

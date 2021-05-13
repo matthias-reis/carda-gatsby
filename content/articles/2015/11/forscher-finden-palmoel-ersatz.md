@@ -7,7 +7,7 @@ description: >-
 
 
 date: 2015-12-10T14:51:50.675Z
-image: /img/forscher-finden-palmoel-ersatz.jpg
+image: '/img/forscher-finden-palmoel-ersatz.jpg'
 labels:
   - Palmöl
   - Orang-Utan

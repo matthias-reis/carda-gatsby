@@ -7,7 +7,7 @@ description: >-
 
 
 date: 2015-09-23T13:27:42.903Z
-image: /img/pammercyanimal_03032020_59969-768w.jpg
+image: '/img/pammercyanimal_03032020_59969-768w.jpg'
 labels:
   - vegan celebrities
   - Fair Fashion & Beauty

@@ -8,8 +8,8 @@ subTitle: Schick, praktisch und kompostierbar
 seoTitle: Nachhaltige Handyhüllen von Etuui – schick, praktisch und kompostierbar
 description: Eine nachhaltige Handyhülle wäre schön, oder? Heutzutage verzichtet schließlich kaum noch jemand aufs Smartphone und Schutz muss eben sein.
 excerpt: Werbung & Affiliate Links – Eine nachhaltige Handyhülle wäre schön, oder? Heutzutage verzichtet schließlich kaum noch jemand aufs Smartphone. Hübsch verpackt macht das Teil natürlich noch viel mehr Spaß.
-image: /img/2021-03-28-etuui-7.jpg
-ogImage: /img/nachhaltige-handyhuellen.jpg
+image: '/img/2021-03-28-etuui-7.jpg'
+ogImage: '/img/nachhaltige-handyhuellen.jpg'
 labels:
   - Fair Fashion & Beauty
   - Nachhaltige Handyhüllen

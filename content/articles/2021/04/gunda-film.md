@@ -8,8 +8,8 @@ subTitle: Das Leben der Schweine
 seoTitle: '"Gunda" – ein einfühlsamer Tierrechts-Film – das Leben der Schweine'
 description: '"Gunda" heißt der neue Tierrechts-Film von Victor Kossakovsky. Produzentin ist Anita Rehoff Larsen. Joaquin Phoenix ausführender Produzent.'
 excerpt: '"Gunda" heißt der neue Tierrechts-Film von Victor Kossakovsky. Produziert hat ihn Anita Rehoff Larsen. Schauspieler und Vegan-Aktivist Joaquin Phoenix ist der ausführende Produzent.'
-image: /img/gunda-4.jpg
-ogImage: /img/gunda-fb.png
+image: '/img/gunda-4.jpg'
+ogImage: '/img/gunda-fb.png'
 labels:
   - Joaquin Phoenix
   - Tierrechtsfilm

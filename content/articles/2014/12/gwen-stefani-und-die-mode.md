@@ -7,7 +7,7 @@ description: >-
 
 
 date: 2014-12-02T13:57:18.528Z
-image: /img/bild_gwenstefani_quelle_zalando.ch.jpg
+image: '/img/bild_gwenstefani_quelle_zalando.ch.jpg'
 labels:
   - vegan celebrities
   - Fair Fashion & Beauty

@@ -9,8 +9,8 @@ seoTitle: Being thankful for the rain – Mindfulness experience in spring
 ogTitle: ''
 description: Today, I have prepared another mindfulness exercise for you. Since it is about an essential topic from nature, it fits in perfectly with spring. Today you are going to enjoy the rain.
 excerpt: Today, I have prepared another mindfulness exercise for you. Since it is about an essential topic from nature, it fits in perfectly with spring. Today you are going to go for a walk and enjoy the rain.
-image: /img/basstoelpel.jpg
-ogImage: /img/basstoelpel.jpg
+image: '/img/basstoelpel.jpg'
+ogImage: '/img/basstoelpel.jpg'
 labels:
   - Mindfulness
   - mindful

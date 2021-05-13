@@ -9,7 +9,7 @@ seoTitle: Achtsamkeitsübung – Dankbar für den Regen sein
 description: 'Heute habe ich eine Achtsamkeitsübung vorbereitet, die perfekt in den Frühling passt. Es geht um ein essentielles Naturthema: Regen.'
 excerpt: 'English & German – Heute habe ich eine Achtsamkeitsübung vorbereitet, die perfekt in den Frühling passt. Es geht um ein essentielles Naturthema: Regen. Wenn Ihr Lust habt, folgt mir auf einen entspannenden Spaziergang der Sinne.'
 image: /img/2021-04-30-regen-4.jpg
-ogImage: /img/achtsamkeitsuebung-regen-fb.jpg
+ogImage: '/img/achtsamkeitsuebung-regen-fb.jpg'
 labels:
   - Achtsamkeit
   - Dankbarkeit

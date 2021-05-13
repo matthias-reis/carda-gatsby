@@ -2,24 +2,22 @@
 templateKey: article
 title: Let England shake - This is not America
 subTitle: Zwei Songs - eine Playlist
-description: '"Let England shake" von PJ Harvey und "This is not America" von David
-  Bowie sind zwei Songs, die mich schwer beeindruckt haben. Sie haben mich schon vor
-  einiger Zeit zu einer Playlist inspiriert, die ich heute gerne mit Euch teilen möchte.'
+description: '"Let England shake" von PJ Harvey und "This is not America" von David Bowie sind zwei Songs, die mich schwer beeindruckt haben. Sie haben mich schon vor einiger Zeit zu einer Playlist inspiriert, die ich heute gerne mit Euch teilen möchte.'
 date: 2020-04-12T12:40:34.609+00:00
-image: "/img/this-is-not-america-let-england-shake.jpg"
+image: '/img/this-is-not-america-let-england-shake.jpg'
 labels:
-- Bands
-- Musik
-- Playlist
-- David Bowie
-- PJ Harvey
-- Britpop
-- Musikliste
-- Spotify
-- iTunes
+  - Bands
+  - Musik
+  - Playlist
+  - David Bowie
+  - PJ Harvey
+  - Britpop
+  - Musikliste
+  - Spotify
+  - iTunes
 type: Standard
-
 ---
+
 **"Let England shake" von PJ Harvey und "This is not America" von David Bowie sind zwei Songs, die mich schwer beeindruckt haben. Sie haben mich schon vor einiger Zeit zu einer Playlist inspiriert, die ich heute gerne mit Euch teilen möchte.**
 
 Kennt Ihr das auch? Ihr hört einen Song und schon habt Ihr ganz genau im Kopf, welcher als nächstes laufen muss? Mir passiert das ständig. Leider schreibe ich mir die Musiklisten, die auf diese Art und Weise entstehen, viel zu selten auf. Bei dieser hier habe ich das zum Glück getan.

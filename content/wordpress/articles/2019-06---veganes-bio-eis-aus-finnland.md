@@ -81,10 +81,8 @@ Rohstoffe wie **Waldbeeren** gedeihen im kühlen Klima Finnlands sehr gut. Etwa 
 
 ### Fußnoten
 
-- <ul>     <li id="1">[1]  [Food from Finland](https://www.businessfinland.fi/en/do-business-with-finland/explore-finland/food-drinks/food-from-finland-in-brief/)
-- [2] [Business Finland](https://www.businessfinland.fi/en/do-business-with-finland/home/)
-    </li>
-</ul>
+- <div id="1"></div>[1] [Food from Finland](https://www.businessfinland.fi/en/do-business-with-finland/explore-finland/food-drinks/food-from-finland-in-brief/)
+- <div id="2"></div>[Business Finland](https://www.businessfinland.fi/en/do-business-with-finland/home/)
 
 ### Quellen
 

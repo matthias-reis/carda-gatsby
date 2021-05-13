@@ -5,8 +5,9 @@ subTitle: Tierschützer zeigen Tierquälerei auf Blutfarmen
 description: >-
   Erst vor Kurzem haben Tierschützer aufgedeckt wie in Uruguay und Argentinien trächtige Pferde grausam gequält werden.
 
+
 date: 2015-12-01T15:17:12.135Z
-image: /img/listeria_monocytogenes_-_columbia_horse_blood_agar_-detail.jpg
+image: '/img/listeria_monocytogenes_-_columbia_horse_blood_agar_-detail.jpg'
 labels:
   - Tierrechte
   - Blutfarmen

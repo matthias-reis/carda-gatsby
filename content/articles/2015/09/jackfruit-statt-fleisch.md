@@ -7,7 +7,7 @@ description: >-
 
 
 date: 2015-09-22T13:17:02.502Z
-image: /img/16269359582_40875764a0_z-380x250.jpg
+image: '/img/16269359582_40875764a0_z-380x250.jpg'
 labels:
   - Ernährung & Gesundheit
   - Jackfruit

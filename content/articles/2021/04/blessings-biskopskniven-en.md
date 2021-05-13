@@ -8,8 +8,8 @@ subTitle: Post-Hardcore At Its Best
 seoTitle: '"Biskopskniven" By Blessings – Post-Hardcore At Its Best'
 description: Blessings are planning to release a new highlight from the post-music corner on May 21st. The Ocean label Pelagic Records is responsible for the new album "Biskopskniven".
 excerpt: Blessings are planning to release a new highlight from the post-music corner on May 21st. The Ocean label Pelagic Records is responsible for the new album "Biskopskniven". I have already had the chance to listen to it.
-image: /img/blessings.jpg
-ogImage: /img/blessings-fb.jpg
+image: '/img/blessings.jpg'
+ogImage: '/img/blessings-fb.jpg'
 labels:
   - Blessings
   - Biskopskniven
