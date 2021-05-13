@@ -9,4 +9,3 @@ Used technology:
 - typescript
 - react
 - gatsby
-- netlify cms

@@ -168,12 +168,6 @@ export default {
         checkSupportedExtensions: false,
       },
     },
-    {
-      resolve: 'gatsby-plugin-netlify-cms',
-      options: {
-        modulePath: `${__dirname}/src/cms.ts`,
-      },
-    },
     `gatsby-plugin-emotion`,
     'gatsby-plugin-netlify', // make sure to keep it last in the array
     {

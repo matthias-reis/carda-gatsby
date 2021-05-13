@@ -14,20 +14,38 @@ export const onCreateNode = ({
     // convert image paths for gatsby images
     const parent = getNode(node.parent!);
     const type = parent.sourceInstanceName;
-    const value = createFilePath({ node, getNode }).replace(/\//g, '');
+    const name = parent.name as string;
+    const relativePath = parent.relativePath as string;
+
+    let year: string;
+    let month: string;
+    let fileSlug: string;
+    if (name.indexOf('---') > -1) {
+      // format is 2020-01---name-with-dashes
+      const [d, s] = name.split('---');
+      [year, month] = d.split('-');
+      fileSlug = s.replace('.md', '');
+    } else {
+      // format is 2020/01/name-with-dashes
+      [year, month, fileSlug] = relativePath.split('/');
+      fileSlug = fileSlug.replace('.md', '');
+    }
     const rawSlug = node?.frontmatter?.slug || node?.frontmatter?.title || '';
     const slug = slugify(rawSlug);
 
     let path = '';
     if (type === 'article' || type === 'wordpress') {
-      const date = value.split('---')[0];
-      const [year, month] = date.split('-');
       path = node?.frontmatter?.path || `/${year}/${month}/${slug}/`;
       const labels = [
         ...(node?.frontmatter?.labels || []),
         `${year}`,
         `${year}/${month}`,
       ];
+      createNodeField({
+        node,
+        name: `fileSlug`,
+        value: fileSlug,
+      });
       createNodeField({
         node,
         name: `labels`,

@@ -189,7 +189,6 @@ Gesagt getan. Jeder machte sich daran, eine Kassette zusammenzustellen, übers W
 #### 3.)  Death Cab For Cutie - "Crooked Teeth"
 
 <YouTube id="5yKeUQcNsdI" />
-</h5>
 
 #### 5.) Black Rebel Motorcycle Club - "As Sure As The Sun"
 

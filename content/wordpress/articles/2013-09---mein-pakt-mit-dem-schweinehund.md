@@ -90,29 +90,24 @@ Mein Schweinehund bekommt von mir viele tolle Sachen gekauft, die ich dann zusam
 
 Es ist hart. Ich weiß. Eure Fanpost könnt Ihr also direkt an das Postfach zwischen Al Pacino und Bruce Willis senden. :-P Hier kommt der Vertrag:
 
-##  Vertrag
+## Vertrag
 
 Ich werde ab Montag, 09. September 2013 14:00 Uhr nicht mehr rauchen. Hier sind die Hauptgründe:
--  Gesundheit
--  Kinderarbeit
--  Spart Geld
-Als Belohnung bekommt der Schweinehund folgende Zuckerbrote von mir, die ich im Anschluss genießen werde:
--  Nach einer Woche (16.09.13): Six Feed Under Season 1
--  Nach einem Monat (09.10.13): Ein Paar neue Stiefel
--  Nach drei Monaten (09.12.13): Eine Serienkomplettbox
--  Nach einem halben Jahr (09.03.14): Die Kette, die mir so gut gefällt
-Mit dem gesparten Stinkezigarettengeld sollte ich das alles locker hinkriegen.Wenn ich den Vertrag erfüllt habe, werde ich:
--  Einen weiteren Blogeintrag zum Thema schreiben
--  Lecker essen gehen
--  Die Sucht besiegt haben
 
-__Gezeichnet__
-  __Anne__ 
-  (auch i. A. des fürchterlichen Schweinehunds)
+- Gesundheit
+- Kinderarbeit
+- Spart Geld Als Belohnung bekommt der Schweinehund folgende Zuckerbrote von mir, die ich im Anschluss genießen werde:
+- Nach einer Woche (16.09.13): Six Feed Under Season 1
+- Nach einem Monat (09.10.13): Ein Paar neue Stiefel
+- Nach drei Monaten (09.12.13): Eine Serienkomplettbox
+- Nach einem halben Jahr (09.03.14): Die Kette, die mir so gut gefällt Mit dem gesparten Stinkezigarettengeld sollte ich das alles locker hinkriegen.Wenn ich den Vertrag erfüllt habe, werde ich:
+- Einen weiteren Blogeintrag zum Thema schreiben
+- Lecker essen gehen
+- Die Sucht besiegt haben
 
-__Zeugen__
-  __Evelyn__   
-  _(Meine liebe Arbeitskollegen, die seit 4 Jahren rauchfrei ist, und mich mit ihrer heiteren Art unterstützt, wo sie kann.)_
+**Gezeichnet** **Anne** (auch i. A. des fürchterlichen Schweinehunds)
+
+**Zeugen** **Evelyn**   _(Meine liebe Arbeitskollegen, die seit 4 Jahren rauchfrei ist, und mich mit ihrer heiteren Art unterstützt, wo sie kann.)_
 
 <RemoteImage
   alt={`Evelyn`}
@@ -134,10 +129,8 @@ __Zeugen__
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgCAwUG/8QAKhAAAQMCBgEDBAMAAAAAAAAAAQIDBAURAAYHEiExURNBYRQiMkJSYoH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AZpPWFi170elVrVGBWYjqm6XXFpjynkN7/pZAb2oKk3H2r2pF/wCV79i7Ng4pqLJk02UwFLSXWlIBQbKFx7fOAX2nUyuUrT2g0+JLkRJ0dC4zqYMMSXXXEuKTZO4hKRxcqNscvll+sZgq1Ug1iVUDKhMuPhU2I23cova2zq583wY6EwIkSTTS4UriPKbbX7lJAUlR+Tu5+b4z35sClRJHqJeC5bhaU+hneVK28lSukpHkm3jAFpJxMHgn2AuT4wONTNW8taftKZnvmbV9t0U6KQXOuC4rpscjvkg8A4UvUrWLNWey5HlyvoKQo8U+GShsj+57cPX5G1xwBgGSzRnOkP5zkSKJOTPipbRGluMp3Mh8AkJS50pWzvaTa2BS7HkVim1eZWZywwmQ+lhv0lrKmx+yQD84s0KfjVvTSp0MpSmVDmF7ckC4DiQULHyFNqH+jGdmSu1aj012BUoPqONrKm5TIFiLD9T+J824wH//2Q=="
 />
 
- </div>
-
 Klingt doch alles ganz durchdacht, oder? Ich bin auf jeden Fall schon ziemlich gespannt und gehe nun erstmal raus auf den Balkon. Den vollen Aschenbecher samt Inhalt wegwerfen.
 
-_ **Bis bald, ich werde weiter [berichten](/2013/09/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/) !** _
+**Bis bald, ich werde weiter [berichten](/2013/09/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/) !**
 
 <YouTube id="hB-WHw6uMWg" />
