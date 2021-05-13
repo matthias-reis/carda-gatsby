@@ -89,13 +89,13 @@ Als Einstieg in sein letztes Album "On A Spiral" empfiehlt John seinen Hörer⋆
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4129307417/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2497140463/transparent=true/" seamless=""><a href="https://alignintime.bandcamp.com/album/on-a-spiral">On a Spiral by Align in Time</a></iframe>
 
-Ihr solltet aber unbedingt auch mal in sein erstes Werk namens "Me &amp; My Arrow" reinhören. John legt Euch von dieser Platte die Songs "Run Home" und "The Many Faces" besonders ans Herz.
+Ihr solltet aber unbedingt auch mal in sein erstes Werk namens "Me & My Arrow" reinhören. John legt Euch von dieser Platte die Songs "Run Home" und "The Many Faces" besonders ans Herz.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3557887843/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless=""><a href="https://alignintime.bandcamp.com/album/me-my-arrow">Me &amp; My Arrow by Align in Time</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3557887843/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless=""><a href="https://alignintime.bandcamp.com/album/me-my-arrow">Me & My Arrow by Align in Time</a></iframe>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3557887843/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=3863101319/transparent=true/" seamless=""><a href="https://alignintime.bandcamp.com/album/me-my-arrow">Me &amp; My Arrow by Align in Time</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3557887843/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=3863101319/transparent=true/" seamless=""><a href="https://alignintime.bandcamp.com/album/me-my-arrow">Me & My Arrow by Align in Time</a></iframe>
 
-Die Akustikversionen der Align in Time Songs "A Men Without Chests" und "I Go Too" klingen ganz anders, als auf "Me &amp; My Arrow" und "On A Spiral" – auf eine ganz faszinierende Weise. Hört Euch am besten von beiden Songs mal beide Versionen an. Ich wünsche Euch viel Freude bei diesem Hochgenuss – der mich in der Zeit zurückversetzt und wirklich an den Sound der Goo Goo Dolls erinnert.
+Die Akustikversionen der Align in Time Songs "A Men Without Chests" und "I Go Too" klingen ganz anders, als auf "Me & My Arrow" und "On A Spiral" – auf eine ganz faszinierende Weise. Hört Euch am besten von beiden Songs mal beide Versionen an. Ich wünsche Euch viel Freude bei diesem Hochgenuss – der mich in der Zeit zurückversetzt und wirklich an den Sound der Goo Goo Dolls erinnert.
 
 ### Align in Time – "Men Without Chests" (Acoustic Version)
 
