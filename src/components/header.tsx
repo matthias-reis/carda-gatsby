@@ -2,7 +2,7 @@ import * as React from 'react';
 import styled from '@emotion/styled';
 
 import Link from 'gatsby-link';
-import { Logo } from './logo-alt';
+import { Logo } from './logo';
 import { MainNav } from './nav-main';
 import { Search } from './search';
 import { event } from './analytics';
