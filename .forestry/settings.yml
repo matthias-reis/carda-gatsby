@@ -6,7 +6,6 @@ webhook_url:
 sections:
 - type: directory
   path: content/articles
-  file_template: ":year:-:month:---:filename:"
   label: Neue Artikel
   create: documents
   match: "**/*"
@@ -14,7 +13,6 @@ sections:
   - post
 - type: directory
   path: content/wordpress/articles
-  file_template: ":year:-:month:---:filename:"
   label: Alte Artikel (von WP)
   create: all
   match: "**/*"
@@ -24,6 +22,7 @@ upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
 use_front_matter_path: false
+file_template: ":year:-:month:---:filename:"
 build:
   preview_output_directory: public
   install_dependencies_command: yarn
