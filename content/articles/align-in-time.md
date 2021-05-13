@@ -26,7 +26,7 @@ ogImage: "/img/2021-05-align-in-time-2.jpg"
 focusKeyword: Align in Time
 advertisement: false
 affiliate: false
-languageLink: align-in-time-interview-en
+languageLink: "/2021/05/align-in-time-interview-en"
 
 ---
 **Align in Time ist ein One-Person Post-Rock Projekt aus Providence, Rhode Island. Gründer ist der Multiinstrumentalist John Boles. Am 7. Mai veröffentlichte einige seiner Songs als Akustikversionen auf der EP "Men Without Chests & I Go Too" neu. Zeit, ihm ein paar Fragen zu stellen.**
