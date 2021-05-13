@@ -19,7 +19,7 @@ labels:
   - Earth Overshoot Day 2019
   - Global Footprint
   - Global Footprint Network
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - Mathis Wackernagel
   - MoveTheDate

@@ -20,7 +20,7 @@ labels:
   - Bolivien
   - Brasilien
   - darum vegan
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - Klimawandel
   - Nutztiere

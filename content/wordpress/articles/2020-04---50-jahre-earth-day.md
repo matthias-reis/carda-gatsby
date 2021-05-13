@@ -20,7 +20,7 @@ labels:
   - Apart but connected
   - Earth Day
   - Earth Day 2020
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - Klimawandel
   - Naturschutz

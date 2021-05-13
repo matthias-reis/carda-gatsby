@@ -20,7 +20,7 @@ labels:
   - DIY Küchenputzmittel
   - DIY Putzmittel
   - Kaiser Natron
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - lesswaste
   - Natron
   - Putzen mit Natron

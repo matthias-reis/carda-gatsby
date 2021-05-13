@@ -21,7 +21,7 @@ labels:
   - Hamburg
   - Hamburg Altona
   - Klima
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimakollaps
   - Klimaneutralität
   - Klimanotstand

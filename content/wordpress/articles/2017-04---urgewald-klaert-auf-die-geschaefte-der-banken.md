@@ -18,7 +18,7 @@ labels:
   - Antifaschismus & Feminismus
   - Ethik
   - Faire Bank
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Menschlichkeit
   - urgewald
 focusKeyword: urgewald

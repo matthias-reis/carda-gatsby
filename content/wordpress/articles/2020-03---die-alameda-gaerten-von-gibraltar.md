@@ -20,7 +20,7 @@ labels:
   - Botanischer Garten
   - Fernweh
   - Gibraltar
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Oase
   - Sukkulenten
   - torffrei

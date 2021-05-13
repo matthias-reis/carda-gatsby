@@ -19,7 +19,7 @@ labels:
   - Baum
   - CO2
   - CO2-Emission
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaerwärmung
   - Kohlenmonoxyd
   - Umweltschutz

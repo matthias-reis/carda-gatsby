@@ -54,7 +54,7 @@ labels:
   - Jod 131
   - Katastrophe
   - Kernschmelze
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Kraftwerk
   - Krise
   - Krypton

@@ -17,7 +17,7 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2019_10_Design-ohne-
 labels:
   - Climate Change
   - Globale Mitteltemperatur
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaerwärmung
   - Klimaforscher
   - Klimaforschung

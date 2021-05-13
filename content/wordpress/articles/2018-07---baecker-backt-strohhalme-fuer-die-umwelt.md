@@ -17,7 +17,7 @@ ogImage: null
 labels:
   - Bäcker
   - Bielefeld
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - less waste
   - lesswaste
   - Maccaroni

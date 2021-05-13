@@ -19,7 +19,7 @@ labels:
   - Bäume
   - Baumpaten
   - Geschichten & Erlebtes
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Liebe
   - Tagebuch
   - Wald

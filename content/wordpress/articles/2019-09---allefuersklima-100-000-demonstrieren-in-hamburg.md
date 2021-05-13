@@ -20,7 +20,7 @@ labels:
   - globaler Klimastreik
   - Hamburg
   - Hamburg vegan
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - PETA zwei
   - Tierrechte

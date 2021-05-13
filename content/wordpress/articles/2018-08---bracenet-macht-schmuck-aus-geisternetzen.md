@@ -20,7 +20,7 @@ labels:
   - Ghost Fishing
   - Hamburg
   - Healthy Seas
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - less waste
   - Meer
   - Meeresschutz

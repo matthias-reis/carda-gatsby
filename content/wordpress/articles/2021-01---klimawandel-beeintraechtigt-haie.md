@@ -19,7 +19,7 @@ labels:
   - Forschung
   - Great Barrier Reef
   - Haie
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaerwärmung
   - Klimakatastrophe
   - Klimawandel

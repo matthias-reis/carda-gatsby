@@ -19,7 +19,7 @@ labels:
   - Felsen von Gibraltar
   - Fernweh
   - Gibraltar
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Slow traveling
 focusKeyword: Corona
 status: publish

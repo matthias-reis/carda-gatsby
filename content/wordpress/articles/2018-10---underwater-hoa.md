@@ -24,7 +24,7 @@ labels:
   - Gletscher
   - Global Warming
   - Hibiscus Gallery
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaerwärmung
   - Klimawandel
   - Meeresspiegel

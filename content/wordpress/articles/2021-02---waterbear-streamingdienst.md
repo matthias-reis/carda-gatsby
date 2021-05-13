@@ -18,7 +18,7 @@ labels:
   - Aktivismus
   - Bücher & Filme
   - English & German
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Streaming
   - Streamingdienst
   - WaterBear

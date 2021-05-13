@@ -19,7 +19,7 @@ labels:
   - COVID-19
   - Inger Andersen
   - Klima
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - Klimaveränderung
   - Klimawandel

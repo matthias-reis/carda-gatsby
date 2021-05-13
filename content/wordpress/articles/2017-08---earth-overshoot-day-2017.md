@@ -17,7 +17,7 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2017_08_16268715501_
 labels:
   - Earth Overshoot Day
   - go vegan
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - Klimawandel
   - overshoot

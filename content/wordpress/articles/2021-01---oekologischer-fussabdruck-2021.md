@@ -20,7 +20,7 @@ labels:
   - CO2-Bilanz
   - CO2-Emission
   - CO2-Fussabdruck
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaerwärmung
   - Klimakatastrophe
   - Klimawandel

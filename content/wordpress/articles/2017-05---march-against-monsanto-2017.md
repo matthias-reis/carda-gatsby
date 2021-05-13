@@ -32,7 +32,7 @@ labels:
   - go vegan
   - Hamburg
   - Hamburg
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - Konsum
   - Konzerne

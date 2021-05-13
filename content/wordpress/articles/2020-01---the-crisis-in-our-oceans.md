@@ -19,7 +19,7 @@ labels:
   - Bücher & Filme
   - fridays for future
   - Greenpeace
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimawandel
   - the crisis in our oceans
   - Tierrechte

@@ -20,7 +20,7 @@ labels:
   - Ernährung
   - Ernährung & Gesundheit
   - Hafermilch
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Kuhmilch
   - Mandelmilch
   - Milch

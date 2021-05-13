@@ -33,7 +33,7 @@ labels:
   - James Bond
   - Kaolin
   - Klima
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimazonen
   - Nachzucht
   - Natur

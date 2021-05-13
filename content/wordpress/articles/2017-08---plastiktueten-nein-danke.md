@@ -16,7 +16,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_08_14603456664_a9ff002cf1_k__l.jpg
 labels:
   - Kenia
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - less waste
   - lesswaste
   - Meer

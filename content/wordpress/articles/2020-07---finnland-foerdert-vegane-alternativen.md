@@ -21,7 +21,7 @@ labels:
   - Finland
   - Finnland
   - Forschung
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Lebensmittelforschung
   - Lebensmittelindustrie
   - Pflanzenprotein

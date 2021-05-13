@@ -18,7 +18,7 @@ labels:
   - Einwegpfand
   - Glas
   - Glasflaschen
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - lesswaste
   - Mehrwegflaschen
   - Mehrwegpfand

@@ -21,7 +21,7 @@ labels:
   - Fleischatlas 2021
   - Fleischindustrie
   - Heinrich Böll Stiftung
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Le Monde Diplomatique
   - Tierrechte
 focusKeyword: Fleischatlas

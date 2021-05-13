@@ -21,7 +21,7 @@ labels:
   - Cradle-to-Cradle certified
   - Cradle-to-Cradle-Prinzip
   - EPEA
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - Klimawandel
   - Nachhaltigkeit

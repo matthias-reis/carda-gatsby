@@ -17,7 +17,7 @@ ogImage: null
 labels:
   - Basketball
   - Enes Kanter
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - NBA
   - PETA
   - Tierrechte

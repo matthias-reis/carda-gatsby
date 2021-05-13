@@ -19,7 +19,7 @@ labels:
   - Ernährung
   - Ernährung & Gesundheit
   - Essen für das Klima
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - One Bite At A Time
   - vegan für das Klima

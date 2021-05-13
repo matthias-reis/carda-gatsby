@@ -16,7 +16,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: null
 labels:
   - Greenwashing
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Tierrechte
 focusKeyword: h&m
 status: publish

@@ -18,7 +18,7 @@ labels:
   - Bands
   - Crippled Black Phoenix
   - Klima
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaerwärmung
   - Klimakatastrophe
   - Klimawandel

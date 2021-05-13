@@ -17,7 +17,7 @@ ogImage: null
 labels:
   - basteln
   - diy
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Möbel
   - Regal
   - selbstgemacht

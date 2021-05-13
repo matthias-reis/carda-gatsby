@@ -28,7 +28,7 @@ labels:
   - Hansestadt
   - HH
   - Interviews
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Margit Ricarda Rolf
   - SoLaWi
   - Solidarische Landwirtschaft

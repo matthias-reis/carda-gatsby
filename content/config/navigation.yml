@@ -12,8 +12,8 @@ mainNavigation:
       - { url: /tag/tierrechte, label: Tierrechte }
       - { url: /tag/klima-und-umweltschutz, label: Klima- & Umweltschutz }
       - { url: /tag/ernaehrung-und-gesundheit, label: Ernährung & Gesundheit }
-      - { url: /tag/vegane-lokale, label: Vegane Lokale }
       - { url: /tag/rezepte, label: Vegane Rezepte }
+      - { url: /tag/vegane-lokale, label: Vegane Lokale }
   - label: Lifestyle
     url: /tag/lifestyle
     children:

@@ -18,7 +18,7 @@ labels:
   - Delfine
   - Dr. Els Vermeulen
   - International Union for Conservation of Nature
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Mamal Research Institute
   - Meeressäuger
   - Tierrechte

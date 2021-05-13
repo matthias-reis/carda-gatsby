@@ -19,7 +19,7 @@ labels:
   - Green Alley Award
   - Helsinki
   - Joanne Hellgrenn
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - less waste
   - Nachhaltigkeit
   - Onlineshopping

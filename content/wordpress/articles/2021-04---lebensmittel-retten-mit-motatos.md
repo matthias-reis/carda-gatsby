@@ -16,7 +16,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_motatos-fb.png__l.jpg
 labels:
   - Ernährung & Gesundheit
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Lebensmittel
   - Lebensmittel retten
   - Lebensmittelverschwendung

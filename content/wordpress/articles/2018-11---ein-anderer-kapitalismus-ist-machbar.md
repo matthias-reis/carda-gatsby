@@ -23,7 +23,7 @@ labels:
   - Friedensnobelpreis
   - Grameen-Bank
   - Kapitalismus
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Krise
   - Menschheit
   - Mikrokredit

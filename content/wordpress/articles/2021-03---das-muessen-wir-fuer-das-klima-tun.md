@@ -17,7 +17,7 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_planet-class
 labels:
   - Bildung
   - Eric Simon
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - Planet Classroom
 focusKeyword: Planet Classroom

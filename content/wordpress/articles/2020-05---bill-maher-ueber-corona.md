@@ -19,7 +19,7 @@ labels:
   - Corona
   - COVID-19
   - Fleischindustrie
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Massentierhaltung
   - Real Time With Bill Maher
   - Tierrechte

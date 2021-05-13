@@ -22,7 +22,7 @@ labels:
   - growyourown
   - homemade
   - Interviews
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - lesswaste
   - noplastic

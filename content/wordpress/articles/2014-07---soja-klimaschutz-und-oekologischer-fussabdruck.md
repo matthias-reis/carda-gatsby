@@ -27,7 +27,7 @@ labels:
   - Evolution
   - Futtermittelherstellung
   - Klima
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - Klimawandel
   - Kühe

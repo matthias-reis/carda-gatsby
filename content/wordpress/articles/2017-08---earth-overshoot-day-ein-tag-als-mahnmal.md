@@ -11,7 +11,7 @@ labels:
   - Darum vegan
   - Earth Overshoot Day
   - go vegan
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - Klimawandel
   - overshoot

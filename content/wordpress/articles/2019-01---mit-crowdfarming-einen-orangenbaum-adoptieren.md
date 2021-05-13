@@ -17,7 +17,7 @@ ogImage: null
 labels:
   - CrowdFarming
   - Finca
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Navel Foyos
   - Orangen
   - Orangenbäume

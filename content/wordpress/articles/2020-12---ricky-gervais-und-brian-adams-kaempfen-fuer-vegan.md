@@ -16,7 +16,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_12_ricky-gervais-brian-adams-vegan-fb.png__l.jpg
 labels:
   - Brian Adams
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Ricky Gervais
   - Tierrechte
   - vegan

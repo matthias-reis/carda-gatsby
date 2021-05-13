@@ -23,7 +23,7 @@ labels:
   - Future Raft
   - Hannover
   - Joy Lehmann
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimawandel
   - Kunst
   - Makers For Humanity

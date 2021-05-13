@@ -23,7 +23,7 @@ labels:
   - gegen Tierversuche
   - Greenpeace
   - Kinderarbeit
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Leder
   - Legebatterie
   - Märchen

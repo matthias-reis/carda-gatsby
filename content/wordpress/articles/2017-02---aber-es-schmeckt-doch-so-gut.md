@@ -18,7 +18,7 @@ labels:
   - Ernährung
   - Ernährung & Gesundheit
   - Footprint
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - ökologischer Fussabdruck
   - Tierrechte

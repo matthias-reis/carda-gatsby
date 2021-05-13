@@ -17,7 +17,7 @@ ogImage: null
 labels:
   - Abfall
   - Eden Project
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Kunst
   - Müll
   - Müllberge

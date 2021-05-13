@@ -16,7 +16,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: null
 labels:
   - go vegan
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - vegan
   - Wasser
   - Wasser sparen

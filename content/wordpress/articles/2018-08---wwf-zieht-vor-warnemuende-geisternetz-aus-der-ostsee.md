@@ -16,7 +16,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: null
 labels:
   - Geistenetze
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Meeresschutz
   - Plastikmüll
   - Rostock

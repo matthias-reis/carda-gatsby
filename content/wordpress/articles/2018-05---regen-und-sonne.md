@@ -24,7 +24,7 @@ labels:
   - Geschichten & Erlebtes
   - Gesellschaft
   - Klima
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaerwärmung
   - Klimawandel
   - Konsum

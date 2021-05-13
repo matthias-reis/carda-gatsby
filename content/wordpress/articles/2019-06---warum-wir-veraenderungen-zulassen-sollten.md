@@ -20,7 +20,7 @@ labels:
   - Evolution
   - fcknzs
   - Fortschritt
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - Klimawandel
   - Kunst

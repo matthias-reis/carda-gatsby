@@ -20,7 +20,7 @@ labels:
   - Ethik
   - Friedrich Nietzsche
   - Gesellschaft
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaerwärmung
   - Klimawandel
   - Nachhaltigkeit

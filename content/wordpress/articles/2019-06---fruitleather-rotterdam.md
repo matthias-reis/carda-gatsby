@@ -20,7 +20,7 @@ labels:
   - Fruchtleder
   - Fruitleather
   - Fruitleather Rotterdam
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Leder
   - Leder aus aussortierten Früchten
   - Leder aus Früchten

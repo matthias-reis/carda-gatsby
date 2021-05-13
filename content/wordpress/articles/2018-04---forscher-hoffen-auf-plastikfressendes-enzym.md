@@ -24,7 +24,7 @@ labels:
   - Ideonella Sakaiensis 201-F6
   - Japan
   - Klima
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Kunststoff
   - Medizin
   - Meer

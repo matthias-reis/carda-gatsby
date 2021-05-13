@@ -24,7 +24,7 @@ labels:
   - Ecosia
   - Gründer
   - Hamburg
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - Madagaskar
   - Mata Atlântica

@@ -20,7 +20,7 @@ labels:
   - Hamburg
   - Internationaler Weltwassertag
   - Kassel
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - Umweltschutz
   - UN

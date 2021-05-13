@@ -20,7 +20,7 @@ labels:
   - erneuerbare Energien
   - Greenpeace
   - Greenpeace Energy
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaerwärmung
   - Klimakatastrophe
   - Klimaschutz

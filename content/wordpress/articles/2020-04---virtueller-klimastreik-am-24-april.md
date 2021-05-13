@@ -16,7 +16,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_04_csm_Facebook-Netzstreik1-24-04-20_766913be74__l.jpg
 labels:
   - fridays for future
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimastreik
   - Klimawandel
   - Virtueller Klimastreik

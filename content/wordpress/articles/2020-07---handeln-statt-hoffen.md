@@ -20,7 +20,7 @@ labels:
   - Carola Rackete
   - Geflüchtete
   - Handeln statt hoffen
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimawandel
   - Sea Watch
 focusKeyword: Handeln statt hoffen

@@ -18,7 +18,7 @@ labels:
   - Billie Eilish
   - Ernährung & Gesundheit
   - Joaquin Phoenix
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Maggie Baird
   - Monty's Good Burger
   - Rooney Mara

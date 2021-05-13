@@ -21,7 +21,7 @@ labels:
   - globaler Klimastreik
   - govegan
   - Hamburg
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - Klimastreik
   - weltweiter Klimastreik

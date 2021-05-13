@@ -19,7 +19,7 @@ labels:
   - Crailsheim
   - Earthship
   - Earthship Berlin Tempelhof
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Michael Reynolds
   - nachhaltig bauen
   - nachhaltige Bauweise

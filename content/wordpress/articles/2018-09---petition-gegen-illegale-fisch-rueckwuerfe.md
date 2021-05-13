@@ -18,7 +18,7 @@ labels:
   - Antifaschismus & Feminismus
   - crueltyfree
   - Deutsche Umwelthilfe e. V.
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Meeresschutz
   - petition
   - stopeatingfish

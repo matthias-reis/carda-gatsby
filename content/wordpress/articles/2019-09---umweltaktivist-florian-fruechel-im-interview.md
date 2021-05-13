@@ -21,7 +21,7 @@ labels:
   - Hessen
   - Heusenstamm
   - Interviews
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaaktivisten
   - Klimaschutz
   - Main

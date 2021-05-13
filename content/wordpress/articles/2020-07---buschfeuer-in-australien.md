@@ -17,7 +17,7 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_buschfeuer-f
 labels:
   - Australien
   - Bushfire
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimawandel
   - Tierrechte
   - Waldbrand

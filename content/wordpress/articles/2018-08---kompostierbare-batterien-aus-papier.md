@@ -18,7 +18,7 @@ labels:
   - Batterien
   - Batterien aus Papier
   - Forschung
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Kompost
   - less waste
   - Papier

@@ -19,7 +19,7 @@ labels:
   - Fair Trade
   - Kaffee
   - Kaffeekauf
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Koffein
   - Rösterei
   - support your local

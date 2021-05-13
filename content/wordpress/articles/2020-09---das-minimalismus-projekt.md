@@ -24,7 +24,7 @@ labels:
   - Das Minimalismus-Projekt
   - Digital Detox
   - Einfach Bewusst
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - less waste
   - Minimalismus
   - Minimalismus Buch

@@ -20,7 +20,7 @@ labels:
   - gemahlener Kaffee
   - Geranium
   - Kaffee
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Lavendel
   - Lufterfrischer
   - Orangenöl

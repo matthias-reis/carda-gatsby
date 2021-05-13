@@ -22,7 +22,7 @@ labels:
   - Fleisch
   - Fleisch essen
   - Heinrich Böll Stiftung
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - Klimawandel
   - Le Monde Diplomatique

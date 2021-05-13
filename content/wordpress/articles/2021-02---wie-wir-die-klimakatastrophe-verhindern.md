@@ -19,7 +19,7 @@ labels:
   - Buch
   - Bücher & Filme
   - Evolution
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimakatastrophe
   - Klimaschutz
   - Klimawandel

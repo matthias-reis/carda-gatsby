@@ -19,7 +19,7 @@ labels:
   - Ausstellng
   - Berlin
   - Futurium
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Museum
   - Nachhaltigkeit
   - Zukunft

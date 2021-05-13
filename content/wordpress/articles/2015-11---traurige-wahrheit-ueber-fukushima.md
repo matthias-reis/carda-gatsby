@@ -18,7 +18,7 @@ labels:
   - AKW
   - Atomkraft nein Danke
   - Fukushima
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
 focusKeyword: Fukushima
 status: publish
 isWerbung: false

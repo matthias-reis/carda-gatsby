@@ -21,7 +21,7 @@ labels:
   - Doku
   - Dokumentation
   - Film
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimakatastrophe
   - Klimawandel
   - Tierhaltung

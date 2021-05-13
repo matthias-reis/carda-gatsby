@@ -20,7 +20,7 @@ labels:
   - faire Mode
   - Holzfaser
   - Holzwolle
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Nachhaltigkeit
   - Portugal
   - vegane Mode

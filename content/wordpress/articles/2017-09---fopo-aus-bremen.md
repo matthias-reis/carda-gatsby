@@ -21,7 +21,7 @@ labels:
   - Erasmus
   - Essen retten
   - fopo
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - klimaneutral
   - Klimawandel
   - loveuglyfood

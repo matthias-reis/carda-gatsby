@@ -19,7 +19,7 @@ labels:
   - Fair Fashion & Beauty
   - fake leder
   - Italien
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Nachhaltigkeit
   - Tesla
   - veganes Leder

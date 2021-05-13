@@ -19,7 +19,7 @@ labels:
   - fridaysforfuture
   - Greta Thunberg
   - Howey Ou
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaaktivisten
   - Klimastreik
 focusKeyword: howey ou

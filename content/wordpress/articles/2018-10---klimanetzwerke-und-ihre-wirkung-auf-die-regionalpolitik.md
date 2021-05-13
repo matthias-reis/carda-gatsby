@@ -18,7 +18,7 @@ labels:
   - Henner Busch
   - Humangeographie
   - Klima
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaerwärmung
   - Klimaforschung
   - Klimanetzwerke

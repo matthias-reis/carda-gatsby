@@ -18,7 +18,7 @@ labels:
   - Abholzung
   - Bio-Palmöl
   - Fairtrade-Palmöl
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimawandel
   - Palmöl
   - Palmöl-Anbau

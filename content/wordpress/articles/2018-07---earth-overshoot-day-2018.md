@@ -21,7 +21,7 @@ labels:
   - Erde
   - Hitze
   - Klima
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaerwärmung
   - Klimaschutz
   - Klimawandel

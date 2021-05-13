@@ -22,7 +22,7 @@ labels:
   - Flatrate
   - Geld
   - kaufDA
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Kommerz
   - Lebensmittel
   - Papier

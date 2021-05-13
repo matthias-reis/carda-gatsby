@@ -16,7 +16,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: null
 labels:
   - Antifaschismus & Feminismus
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
 focusKeyword: crowdfarming
 status: publish
 isWerbung: false

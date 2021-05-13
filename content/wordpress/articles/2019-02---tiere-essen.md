@@ -19,7 +19,7 @@ labels:
   - Ernährung & Gesundheit
   - Ernährungspolitik
   - Jonathan Safran Foer
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - Tiere Essen
   - Tierethik

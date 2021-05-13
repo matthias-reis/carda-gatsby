@@ -22,7 +22,7 @@ labels:
   - Europa
   - Hamburg
   - Kinder
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - less waste
   - Nachhaltigkeit
   - Plastik

@@ -17,7 +17,7 @@ ogImage: null
 labels:
   - Antifaschismus & Feminismus
   - Geschichten & Erlebtes
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
 focusKeyword: Frühling
 status: publish
 isWerbung: false

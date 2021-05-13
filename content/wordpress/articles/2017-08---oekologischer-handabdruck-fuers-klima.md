@@ -17,7 +17,7 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2017_08_Handabdruck.
 labels:
   - CSCP
   - Entwicklung
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Lüneburg
   - Nachhaltigkeit
   - ökologischer Handabdruck

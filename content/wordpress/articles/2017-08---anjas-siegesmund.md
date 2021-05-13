@@ -22,7 +22,7 @@ labels:
   - Bündnis90/Die Grünen
   - grün
   - Grüne
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaretter-Sparbuch
   - Klimaschutz
   - regional einkaufen

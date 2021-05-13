@@ -20,7 +20,7 @@ labels:
   - Gulbenkian
   - Gulbenkian Award
   - Gulbenkian-Preis
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
 focusKeyword: Greta Thunberg
 status: publish
 isWerbung: false

@@ -28,7 +28,7 @@ labels:
   - geodätische Kuppeln
   - James Bond
   - Klima
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimazonen
   - Pflanzen
   - St. Austell

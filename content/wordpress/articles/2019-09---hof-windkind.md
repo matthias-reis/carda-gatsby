@@ -26,7 +26,7 @@ labels:
   - Gambia
   - Hof Windkind
   - Kinder- und Jugendhaus Bolle
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Naturfreunde e. V.
   - Nussbäume
   - Obstbäume

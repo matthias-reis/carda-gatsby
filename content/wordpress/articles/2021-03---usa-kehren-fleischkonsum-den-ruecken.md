@@ -19,7 +19,7 @@ labels:
   - COVID-19
   - Ernährung & Gesundheit
   - Ernährungsumstellung
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - USA
   - vegan
 focusKeyword: COVID

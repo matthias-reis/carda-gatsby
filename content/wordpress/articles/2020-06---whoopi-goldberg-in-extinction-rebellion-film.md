@@ -18,7 +18,7 @@ labels:
   - Bücher & Filme
   - Extinction Rebellion
   - Klima
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimawandel
   - Whoopi Goldberg
 focusKeyword: Whoopi Goldberg

@@ -18,7 +18,7 @@ labels:
   - Energie
   - erneuerbare Energien
   - Klima
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaerwärmung
   - Klimawandel
   - Klimaziele

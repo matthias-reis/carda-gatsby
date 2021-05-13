@@ -18,7 +18,7 @@ labels:
   - Eishockey
   - Finnland
   - Go Pelicans
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaaktivisten
   - Klimaerwärmung
   - Klimakatastrophe

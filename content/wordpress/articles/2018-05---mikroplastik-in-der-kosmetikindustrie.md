@@ -17,7 +17,7 @@ ogImage: null
 labels:
   - Fair Fashion & Beauty
   - Kenia
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Kosmetik
   - Kunststoff
   - less waste

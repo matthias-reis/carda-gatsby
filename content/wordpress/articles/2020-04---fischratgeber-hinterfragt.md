@@ -20,7 +20,7 @@ labels:
   - Fischratgeber
   - Greenpeace
   - Greenpeace Fischratgeber
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Meeresbewohner
   - Meeresschutz
   - Meerestiere

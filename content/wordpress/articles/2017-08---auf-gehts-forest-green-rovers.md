@@ -20,7 +20,7 @@ labels:
   - Football
   - Forest Green Rovers
   - Fußball
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Nailsworth & Forest Green FC
   - Second League
   - Sport

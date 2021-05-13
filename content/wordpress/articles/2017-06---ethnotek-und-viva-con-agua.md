@@ -23,7 +23,7 @@ labels:
   - fairtrade
   - Hamburg
   - Indien
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Rucksack
   - Sanjay
   - Sankt Pauli

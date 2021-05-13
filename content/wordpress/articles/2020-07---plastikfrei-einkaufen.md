@@ -16,7 +16,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_plastikfrei-einkaufen-fb.png__l.jpg
 labels:
   - einkaufen
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - less waste
   - ohne Plastik
   - plastikfrei

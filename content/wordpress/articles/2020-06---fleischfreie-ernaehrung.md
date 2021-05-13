@@ -17,7 +17,7 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_fleischfreie
 labels:
   - Ernährung
   - Ernährung & Gesundheit
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - Neuseeland
   - vegan

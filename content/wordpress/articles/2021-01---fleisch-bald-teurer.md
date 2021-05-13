@@ -16,7 +16,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_klimawandel-fb.png__l.jpg
 labels:
   - Fleisch
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimakatastrophe
   - Klimaschutz
   - Klimawandel

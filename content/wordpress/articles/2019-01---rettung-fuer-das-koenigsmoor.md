@@ -22,7 +22,7 @@ labels:
   - CO2-Emission
   - Hochmoor
   - Klima
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - Klimaschutz-Zertifikate
   - Klimawandel

@@ -22,7 +22,7 @@ labels:
   - faire Banken
   - Finanzen
   - GLS Bank
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Klimaschutz
   - Menschenrechte
   - Menschlichkeit

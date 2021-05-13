@@ -19,7 +19,7 @@ labels:
   - go vegan
   - Khaled bin Alwaleed
   - khaleedbinalwaleed
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Saudi Arabien
   - Tierrechte
   - vegan

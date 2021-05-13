@@ -22,7 +22,7 @@ labels:
   - Greenpeace
   - Greenpeace unterstützen
   - Hochzeit
-  - Klima & Umweltschutz
+  - Klima- & Umweltschutz
   - Patenschaft
 focusKeyword: Baum
 status: publish
@@ -44,7 +44,7 @@ Kurz und gut. Ich besuchte also die Seite von [Greenpeace](http://www.greenpeace
 Ich halte das für eine sehr sinnvolle und zugleich schöne Sache. Ihr solltet das wirklich auch tun! Denn nicht nur, wenn man gerade frisch vermählt ist, macht eine Baumpatenschaft absolut Sinn:
 
 > Deutschland hat beim Schutz von alten Wäldern ohne forstliche Nutzung großen Nachholbedarf: Nur etwa ein Prozent der deutschen Waldfläche ist den natürlichen Prozessen, den dort heimischen Tieren und Pflanzen und der Erholung von uns Menschen überlassen. Die gute Nachricht: durch einen Beschluss der Bundesregierung sollen bis zum Jahr 2020 zehn Prozent der öffentlichen Wälder aus der forstlichen Nutzung genommen werden. Dieser Plan muss jetzt umgesetzt werden!
-> 
+>
 > Jede Baumpatin und jeder Baumpate trägt dazu bei, einem Baum symbolisch Schutz zu geben – und die Forderung nach mehr Schutzgebieten zu verbreiten.
 
 Das steht auf der Greenpeace-Seite. Außerdem wird man auch noch namentlich auf der Baumkarte von Greenpeace erwähnt. Noch stehen unsere Namen nicht drauf, da ich die Patenschaft heute erst beantragt habe, aber ich werde Euch auf dem Laufenden halten. Ich bin schon sehr gespannt und freue mich!
