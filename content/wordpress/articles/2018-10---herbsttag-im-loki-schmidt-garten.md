@@ -57,23 +57,18 @@ Dort angekommen, waren wir ziemlich überrascht. Soviel, wie wir zuerst vermutet
 Die Waschmaschine in der Wohnung macht jede Menge Lärm. Draußen auf der Straße schreien sich die Leute an.
 
 In der Küche riecht es nach Pflaumenkuchen. Die Sonne scheint durchs Fenster.
-
 Die Katze freut das. Sie rollt sich unterm Vorhang.
 
 Sonnige Herbsttage sind etwas Besonderes. Wollen genutzt werden.
-
 Jacke und Schuhe übergestülpt. Die Mütze ins Gesicht gezogen.
 
 Raus aus der Stadt. Blau strahlt der Himmel.
-
 Ein Vogel raschelt im Unterholz. Bienen summen.
 
 Der ausgetretene alte Waldweg. Schon so viele wanderten ihn entlang.
-
 Goldtöne und Glanz. Flammendes Rot gegen kühles Grau.
 
 Der Winter scheint noch so weit. Unbemerkt kriecht er durch das Moos.
-
 Die Borke hinauf. Wandert in das Blattwerk.
 
 Fällt mit ihm vereint sanft wieder zu Boden. Und nährt die kommenden Generationen.
