@@ -87,12 +87,3 @@ Berichtet mal, wie es Euch dort geschmeckt hat. Wir waren schwer beeindruckt und
     },
   ]}
 />
-
-## Wegweiser Amsterdam
-
-1.  [Banksy im Moco Amsterdam](/2018/01/banksy-im-moco-amsterdam/)
-1.  [Stedelijk Museum Amsterdam](/2018/02/stedelijk-museum-amsterdam/)
-1.  Vegan Junk Food Bar Amsterdam
-1.  [Rijksmusem Amsterdam](/2018/03/rijksmuseum-amsterdam/)
-1.  [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/)
-1.  [Raw Food Café Amsterdam](/2018/03/raw-food-cafe-amsterdam-zest-for-life/)
