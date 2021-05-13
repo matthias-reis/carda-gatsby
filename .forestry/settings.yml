@@ -7,14 +7,14 @@ sections:
 - type: directory
   path: content/articles
   label: Neue Artikel
-  create: documents
+  create: all
   match: "**/*"
   templates:
   - post
 - type: directory
   path: content/wordpress/articles
   label: Alte Artikel (von WP)
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - post
