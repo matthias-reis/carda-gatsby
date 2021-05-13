@@ -48,6 +48,8 @@ Also rein in die S-Bahn und die drei Stationen bis zum _Loki Schmidt Garten_ mit
 
 Dort angekommen, waren wir ziemlich überrascht. Soviel, wie wir zuerst vermutet hatten, war gar nicht los. Wir hatten also schön Zeit, zu zweit ein Bisschen zu schlendern. Der Garten ist im Herbst wirklich immer wieder ein Genuss. Einfach wunderbar, was um diese Jahreszeit noch alles blüht.
 
+---
+
 <blockquote>
 
 ## Ein sonniger Herbsttag
