@@ -38,6 +38,7 @@ labels:
 - Surfer
 - Swimmingpool
 - Urlaub
+- serie:England 2009
 focusKeyword: Penzance
 status: publish
 isWerbung: false
