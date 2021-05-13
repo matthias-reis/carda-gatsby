@@ -30,7 +30,7 @@ labels:
 - Tierrechte
 - Tivoli
 - Vögel
-- 'Serie: Dänemark 2018'
+- serie:Dänemark 2018
 focusKeyword: Birds
 status: publish
 isWerbung: false
