@@ -27,7 +27,7 @@ labels:
 - Reisen
 - Spanien
 - travelling
-- " serie: Gran Canaria 2017"
+- serie:Gran Canaria 2017
 focusKeyword: einzige Kaffeeplantage Europas
 status: publish
 isWerbung: false
@@ -35,7 +35,7 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Zu Besuch in der Finca La Laja in Agaete
-year: "2017"
+year: '2017'
 month: '09'
 
 ---
@@ -47,21 +47,8 @@ Außerdem findet man dort einen Bananenhain, sowie eine Weinplantage samt Kelter
 
 Auf dem Gebiet der Finca  _La Laja_ werden neben Kaffee, Wein und Bananen auch noch Mangos angebaut. Alle Erzeugnisse des Hofs kann man beim Besuch auch probieren. Liebevoll serviert im Schatten der gemütlichen Terrasse der Bodega _Los Berrazales_ . Nachdem uns ein Einheimischer den Besuch wärmstens empfohlen hatte, machten wir uns auf den Weg nach Agaete. Unweit des Dorfs, eingebettet in den Weinberg, befindet sich die Finca.
 
-Wer Interesse hat, die einzige Kaffeeplantage Europas zu besichtigen, informiert sich am besten vorab auf der Homepage\* der Bodega. Eine Voranmeldung ist immer sinnvoll.
+Wer Interesse hat, die einzige Kaffeeplantage Europas zu besichtigen, informiert sich am besten vorab auf der Homepage der Bodega. Eine Voranmeldung ist immer sinnvoll.
 
 <Gallery name="flickr/annelosberrazales" />
 
-\*Zur [Homepage](http://www.bodegalosberrazales.com/) der _Bodega Los Berrazales_ geht es hier entlang.
-
-## Wegweiser Gran Canaria
-
-1.  [Eine vegane Oase im Herzen von Las Palmas](/2017/05/la-hierba-luisa-cocina-de-la-huerta/)
-1.  [Vegan auf Gran Canaria](/2017/05/vegan-auf-gran-canaria/)
-1.  [Zeitgenössische Künstlerinnen Afrikas in Las Palmas](/2017/06/el-iris-de-lucy-las-palmas/)
-1.  [Rund um den Leuchtturm von Maspalomas](/2017/06/rund-um-den-leuchtturm-von-maspalomas/)
-1.  [Die Dünen von Maspalomas](/2017/07/die-duenen-von-maspalomas/)
-1.  [Mit dem Boot von Bucht zu Bucht](/2017/07/gran-canaria-der-sueden/)
-1.  [Stadtrundgang in Las Palmas de Gran Canaria](/2017/08/las-palmas-de-gran-canaria/)
-1.  Die einzige Kaffeeplantage Europas
-1.  [Las Vegas auf Gran Canaria](/2017/09/bananen-papayas-und-esel-las-vegas-auf-gran-canaria/)
-1.  [Jardín Canario - Grüne Oase in Tafira](/2017/09/jardin-canario-gruene-oase-in-tafira/)
+Zur [Homepage](http://www.bodegalosberrazales.com/) der _Bodega Los Berrazales_ geht es hier entlang.
