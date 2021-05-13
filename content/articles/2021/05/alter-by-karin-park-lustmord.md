@@ -1,17 +1,17 @@
 ---
-date: 2021-05-09T05:00:00Z
+date: 2021-05-09T05:00:00.000+00:00
 labels:
-  - Ambient
-  - Dark Ambient
-  - Horror Sound
-  - Horror Movie
-  - Score
-  - cinematic
-  - Karin Park
-  - Pelagic
-  - Review
-  - Bands
-  - English & German
+- Ambient
+- Dark Ambient
+- Horror Sound
+- Horror Movie
+- Score
+- cinematic
+- Karin Park
+- Pelagic
+- Review
+- Bands
+- English & German
 language: en
 slug: karin-park-lustmord-alter-en
 typeName: Review
@@ -19,19 +19,24 @@ title: '"Alter" By Karin Park & Lustmord'
 subTitle: Fascinating Horror Movie Sounds
 seoTitle: '"Alter" by Karin Park and Lustmord – Fascinating horror sounds'
 ogTitle: ''
-description: All those of you who can relate to the more dark sounds should definitely pay attention to the new album by Karin Park and Lustmord. "Alter" is pretty brilliant and scares the shit out of me every time I listen to it.
-excerpt: All those of you who can relate to the more dark sounds should definitely pay attention to the new album by Karin Park (you may know her from Årabrot) and Lustmord. "Alter" is pretty brilliant and scares the shit out of me every time I listen to it.
-image: '/img/2021-05-dark-ambient-karin-park-lustmord-pelagic.jpg'
-ogImage: '/img/2021-05-dark-ambient-karin-park-lustmord-pelagic-fb.jpg'
+description: All those of you who can relate to the more dark sounds should definitely
+  pay attention to the new album by Karin Park and Lustmord. "Alter" is pretty brilliant
+  and scares the shit out of me every time I listen to it.
+excerpt: All those of you who can relate to the more dark sounds should definitely
+  pay attention to the new album by Karin Park (you may know her from Årabrot) and
+  Lustmord. "Alter" is pretty brilliant and scares the shit out of me every time I
+  listen to it.
+image: "/img/2021-05-dark-ambient-karin-park-lustmord-pelagic.jpg"
+ogImage: "/img/2021-05-dark-ambient-karin-park-lustmord-pelagic-fb.jpg"
 focusKeyword: Karin Park
 advertisement: false
 affiliate: false
-languageLink: /2021/05/karin-park-lustmord-alter
----
+languageLink: "/2021/05/karin-park-lustmord-alter"
 
+---
 **All those of you who can relate to the more dark sounds should definitely pay attention to this music tip. A new gem in this field will soon hit the record stores – "Alter" is a collaboration between Lustmord and Karin Park from Årabrot.**
 
-Good collaborations are a tradition at Pelagic Records. The Berlin-based music forge around the post-metal giants of [The Ocean](/2020/09/the-ocean-robin-staps-interview/) has a sense for high-quality music. They mainly serve the post-music genres – which, of course, also includes the dark ambient niche.
+Good collaborations are a tradition at Pelagic Records. The Berlin-based music forge around the post-metal giants of [The Ocean](/2020/09/the-ocean-robin-staps-interview/) has a sense for high-quality music. They mainly serve the post-music genres – which, of course, also includes the horror movie score niche.
 
 Friends of Portishead, Dead Can Dance, and Hans Zimmer's Soundscapes will definitely get their money's worth, and fans of Tool head and sound genius Maynard James Keenan (with whom Lustmord has already collaborated several times) and Godspeed You! Black Emporer should also carry on reading.
 
