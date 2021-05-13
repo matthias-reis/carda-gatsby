@@ -39,12 +39,10 @@ subTitle: Finale am Öresund
 ---
 **Irgendwann geht jede Reise zu Ende. Das war auch mit unserem Schwedentrip diesen Sommer so. Bei strahlendem Sonnenschein traten wir am 30. Juni unsere Überfahrt von Helsingborg nach Helsingör an.**
 
-Nachdem wir auf der Hinreise die Fahrt über die Öresund-Brücke gewählt hatten, entschieden wir uns an diesem Tag spontan für die Fähre. Dabei sind noch ein paar Erinnerungsfotos entstanden. Bevor wir in See stachen gab es noch eine Besichtigungstour in Helsingborg natürlich inklusive Fika\*.
+Nachdem wir auf der Hinreise die Fahrt über die Öresund-Brücke gewählt hatten, entschieden wir uns an diesem Tag spontan für die Fähre. Dabei sind noch ein paar Erinnerungsfotos entstanden. Bevor wir in See stachen gab es noch eine Besichtigungstour in Helsingborg natürlich inklusive Fika (Traditionelle schwedische Kaffeepause).
 
 ## Wir kommen wieder - nicht nur nach Helsingborg und Kopenhagen
 
 [Kopenhagen](/2018/07/radtour-durch-kopenhagen/) ließen wir auf dem Rückweg aus, Hamburg wollte uns wiederhaben. Aber wie wir bei unserem Besuch dort entschieden haben: Wir werden wiederkommen. Das gilt noch für einige weitere Ziele unserer wunderschönen [Schwedenreise](/tag/schweden2018/).
 
 <Gallery name="helsingborg" />
-
-<small>\*Trad. schwedische Kaffeepause</small>
