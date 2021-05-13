@@ -74,6 +74,4 @@ largeUrl:
 \]}
 />
 
- 
-
 Hier geht's zu _ [Teil 9/9](/2012/08/schneeweis-und-rosenrot/) _  der Galerie "England 2012"
