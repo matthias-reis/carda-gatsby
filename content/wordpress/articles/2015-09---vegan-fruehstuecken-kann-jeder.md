@@ -39,7 +39,7 @@ _Affiliate Link\*_
 <RemoteImage
   alt={`vegan-fruehstuecken`}
   size="medium"
-  title={`[ ](https://amzn.to/2MLMzp8) Blaubeer-Blondies`}
+  title={` Blaubeer-Blondies`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken-4__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECAwUGBP/EACsQAAEEAQMDAgUFAAAAAAAAAAECAwQRAAUSIRMxQQYiBxRRYbEVI4GR0f/EABkBAAIDAQAAAAAAAAAAAAAAAAEGAgMEBf/EABoRAAMAAwEAAAAAAAAAAAAAAAABAgMRIRL/2gAMAwEAAhEDEQA/ALrUVx9NhuLc6vVKCUCtyrrvXGQ6GlWo6eH3Jbm6yC2gpBFfUgk/jM9GkRpTrkZ6Ol2SjcUsEWnhJ4Uomwbq7/jvix4UvTGdInS5DLDfXSpSQ0opAWoDbuF7TyRz9sXeNjJ50jcOafEfbpTd0PClA/2DZzhf09iLHdXGQkJTSlAEkkeTzzx/uWEVahQIBA9pN82Ma642g0VBJ7UT3wlZgnoWkadLCfkpEh1Kj73JRSLPc0hKfzjv1ZiW2pC4JaQ2U7ejJdSQSavkkePIOGGFSn0lV1tdIPVXrWZpmpuxILLaADe9R3E3z9PvlIj4g6sg/uoYdT5Ck4YZux4ocraOfky2qemf/9k="
@@ -54,7 +54,7 @@ Seit meiner Umstellung auf vegan, macht es mir wieder richtig Spaß, morgens vor
 <RemoteImage
   alt={`vegan-fruehstuecken`}
   size="medium"
-  title={`[ ](https://amzn.to/2MLMzp8) Amaranth-Cracker`}
+  title={` Amaranth-Cracker`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAcDBAX/xAAtEAACAQIEBAUDBQAAAAAAAAABAgMEEQAFEiEGFDFBBxMiUWEyYoFScZGhwf/EABkBAAIDAQAAAAAAAAAAAAAAAAADAQIFBv/EABwRAQADAAIDAAAAAAAAAAAAAAEAAhEDMRIhQf/aAAwDAQACEQMRAD8AYXFWYT5dl0MsNVPTRU6yS+XTvoL6Ustz+kXBt3/GJPDzi2u4h4cSepmjMqzSRM+jSW0tYEgbXthW1uZ87SRtUXZamNZNPmX1M1n9f2mxB+Bjb8HqhkyOqWVQG5yft95xz9VxZv2rnpjbjnlaZ1cXjCqVl1AFib3Fu1tv5wYowzXXcj8C2DBIiChrHiyjJaCsoo0qTTskMklR6bKdQUra4Ohj1PUb4l8LM/gy7K+Tr+Y88zSO7Fb3u3W/e+MCbKZ6pEq8wqWNXTkwNSNHpkpWHuN/Tt9V+vXF2OOKKVQ6qHdbk2J29vjt874G2CHcTfls20I7KHOKKWHVDOtvkgH+8GF9llDmbw6gkiptpJgMlx/n7dcGKHk/I0bJ1P/Z"
@@ -73,7 +73,7 @@ Für Wochentage eignen sich besonders die Rezepte aus dem Kapitel "One Bowl Wond
 <RemoteImage
   alt={`vegan-fruehstuecken`}
   size="medium"
-  title={`[ ](https://amzn.to/2MLMzp8) Green Smoothie Bowl`}
+  title={` Green Smoothie Bowl`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken-3__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHAwUI/8QAKhAAAQMDAwMDBAMAAAAAAAAAAQIDBAAFEQYSIRMUMSJBcQcVFmEyUaH/xAAYAQACAwAAAAAAAAAAAAAAAAABAgMFBv/EAB8RAAICAgEFAAAAAAAAAAAAAAECABEDIRITMVFxkf/aAAwDAQACEQMRAD8Ad73NFlZZUIsqc+6rahmK3knA91HgDkeaguqrNAm3+c9ObuVruEyQpe18IcaSpSvUNwwdqc5JGeKql6buV2vyJFvmtSbey2Oi23KSgIOPWVj3OR5/rjilDV+pmJFrdtT0eNOcQrc9JSgrSNoO0JORlecDcMYAPms6juHAUa8y5zIGFXv1r7NdN/SGVKtyHp9w7WQUkdFtoObP0VZ5PxW8P6XXKHqCB3PbTbeH0qdeSdikpSd2CgnnOAngnzVX0W91bBbndoR1I6FYz4ykHFdh5GfISpOc4Iz75FSFzcPSWef5TkG3wTHhRH2nQClLvccDjH8QkAj5+aWZ7X2mzvuJUXlvq2+rgJyk8/s0UU+IAEARsnYyrfk7emrFaA7CXNW7FbOev0wn0jjG00z6U1L+QRFrTFMYNgcF3fn/AAUUUCo43De6n//Z"
@@ -88,7 +88,7 @@ Eine besondere Zugabe ist für mit das Kapitel "Basics", in dem man Grundrezepte
 <RemoteImage
   alt={`vegan-fruehstuecken`}
   size="medium"
-  title={`[ ](https://amzn.to/2MLMzp8) Rohe Käsekuchentörtchen`}
+  title={` Rohe Käsekuchentörtchen`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIEBQMG/8QAKhAAAgEDAwIFBAMAAAAAAAAAAQIDBBEhAAUSMUEGE1FxgQcUNFJhodH/xAAYAQADAQEAAAAAAAAAAAAAAAACBAYBA//EABsRAAMBAQADAAAAAAAAAAAAAAABAgMREiEx/9oADAMBAAIRAxEAPwC0RCNS8sgRRklsD+9ZG9bREGlqH3GR5RdvLldT5anHT9QSO3zpp56al20efDWVBqH/ABadG58b5BN7ACxz31PIooIldNqqamCw+2khmeTghwVkDYwex6+mp/hRvPyRs0XhzbqeJGpjUpMVBMiVDAt7i9rfxa2nnoSo5xM7sFLXAGbe1snV6uh4tBZ47niVNxx7f5rnK6xvyZ1W+c6w5pJfDHkhSsgjqaySqYSLyCRVDRgKRgG3Uj1xf01EKjb1RaWKglhCiweKpKkWyO2fm+jRo0FT9i79vsvhfbEJhSsZpXCXtEFHXIUZOTc4vryg+ptU7gTbXSOh7BmGjRprHKanrQlvrUXyWf/Z"

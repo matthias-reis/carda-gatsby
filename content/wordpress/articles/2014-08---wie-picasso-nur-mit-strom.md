@@ -43,7 +43,7 @@ subTitle: Teil II - Die Tattoo Session
 <RemoteImage
   alt={`Stencil Stuff`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Stencil Stuff`}
+  title={` Stencil Stuff`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_14793812307_71c9482f9b_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_14793812307_71c9482f9b_o__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQj/xAApEAACAQMDBAEDBQAAAAAAAAABAgMEBREABiEHEhMxQSJRcTJhYoGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIEA//EACQRAAICAgAEBwAAAAAAAAAAAAECAAMRMQQSEyIhUXGhscHR/9oADAMBAAIRAxEAPwCIbf2/Q1GyLhcpInevVlML5IEeJApGBwcgn3qpbI35ZLBbaamo6So8EERiUlY0Z5cjLkFs4znk6WNvxU46N1TI0c8iyZXD9jKRMPq7fZx6x++laxWpaw3CZqmoFNTTIoMKd3DBmOcA4GQOcHH20hRHU58/oTTiLxwyB214e5x8zofcHUyz3vYl4orjSzM0dM00biIMVdQDGcqxH6vvj3pJ6a3nbl7mu1oqrJRrNDb5aujrTGVnYRp9ayDuIDe2BHGB60PtO13Dbm8LQaFp5J62GolhSVFBDRswUcDBGADweck8caoFypq+7bwqLncBIyW3bFSk07weM+acmNVPzggOwB5A/Op2KL2rr1hTb1kDro/uJztJcRQbSkjpu0JU9ncuPuwYjn1yNH2axXiz1oElFe7VOVw08ETnyDOeHXj+wT+dJENR5KdaaQnxuAMn4x61S9s9Xd0WtIqZHpa4IAiiVHD8cYyh5/zVrB8dozGdEuHK+pRdnm41m76CsmobvKlMkjvXVFOyR8x9iIWf5JJ4HJPOhure97jJW3m0092raWGmgpy8EUiCOQuOcjt7sg4z9Ws7cl66l9QLLDRvt6vah8qyLFT0EiIzDOGaSQ84+PQ1gwdH941K1L1sdutxnZMioqlZgF/jGG+TqcVqHFlhAwNQQCscqz//2Q=="
@@ -190,7 +190,7 @@ Ich stammelte nur noch etwas von wegen, wie dankbar ich bin, wie schön er mein 
 <RemoteImage
   alt={`Picasso`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Brand Ink Tattoo`}
+  title={` Brand Ink Tattoo`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_tattoo-session-213__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_tattoo-session-213__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACoQAAIBAwQABQQDAQAAAAAAAAECAwQFEQAGEiEHExRBUSIxYZFScYGx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgUBAwT/xAAgEQACAgICAgMAAAAAAAAAAAABAgMRABIEIRMxgaHw/9oADAMBAAIRAxEAPwDCeFdDT1NYs18SWpt0QZpqcTGN+IJU9Z+RqluHb9Mm45qe1q4oyWaNQ/MoAcYY8uj/AJp3acVHT7barWOeOb0k7MCFCsoZnVWB7DHl/wAzpS93ZLFeovUUsM7urBvJZwqlnIbtgMEFf19tJOM/l5GrWFvuvfxjZ9Y49jWLUe3vVowijlSQMU4yNjsf0T0fnS3iRb7ctBbRZLc9IYoeNY7VDOZX/l+Pfoau2fcVVba1pZLXHDTyyl4Jo3V/OJPIFWP04AUk99e+qG8tvSVdIzmaigo5Y1fzZysLF+bZ+rGSCCD7j7AaKRmilonrIXSVLXI/h9tquu9nraQ3HbsVLMHWOColKEAjJxwQkniAT33o3ns+8R29K6OrsN1pSTM80Nc5eQjlnkTGoHZ7/Pxo0aBpShDAd/hlCpspBPVgfV5jWvN8t9GTQtR0Fu4+eKeKqBBbBbngqSTjH6/OoldvaaqpxTVyRyxyYEkiZMqjly6YkAn27HQAxo0a2QRrISWHYwJGKKKPvP/Z"

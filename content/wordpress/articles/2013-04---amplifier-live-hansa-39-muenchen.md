@@ -57,7 +57,7 @@ Als Support hatten Amplifier [Charlie Barnes](http://charliebarnes.bandcamp.com)
 <RemoteImage
   alt={`Charlie Barnes`}
   size="medium"
-  title={`[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4525.jpg) Charlie Barnes`}
+  title={` Charlie Barnes`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4525__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4525__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcABAgF/8QAKhAAAgEDAwIFBQEBAAAAAAAAAQIDBAURAAYSITEHExQiQVFhcYGRodH/xAAYAQACAwAAAAAAAAAAAAAAAAACBQAEB//EACMRAAEDAwQCAwAAAAAAAAAAAAECAxEABDEFEiHhUZEiMkH/2gAMAwEAAhEDEQA/AM9Wm3xSU0crRoTxyeSgg/3Tq8HpdoxCRL/t6zVjleK+opY2z9xkHrpeWe1yRbYp66SB2gMHM9SoYfn40deDpobjfmp6ikhSP0pJURuyhi59zuHDAAADvjrnGtBuG7N3T/knAHIice6VXlg+8tIQsoVkHrBq5vyx7PqGq3pKK0UIJYwU9NDxkRQcZcgYIPcY/wB0j7zQQUySiJFPTocYx1/5rVG8ti2G9W2SmsMNyo7lB5lQI+EroydiBzYjIJQntn4+us37ztpt7iBfe4iZnYzxPn9Ix49PgnOqdrcWC7NbaftGCBPvujZ0p60VuCpTx5zAnj8k8xjxTT8J32nctpUFqqYaWW8NQuZQ9ROXlcSOQnlqwXAQL3Hz+dKaqvIeSWenp4KUSSAiKDlwVTyPEciegDY751x9uXQ26eWRZSjmBo1ZSVIzjsfjpnUus9O06emlzEV7FgeODgD+Ad9K7J8NbpWSDGTjqmzq9yEkCCKMnv11N6N0kFRTrUxiZX80lSmc5B/WMd89NBl3mZpZSwGXDNgEjjnuP1q/SbheO1iikaNoYm5xqVU4JHu+PwR99D9XOJXZh0B7DOcD6ajz6QhQEYihWsq5mZr/2Q=="
@@ -72,7 +72,7 @@ Sie starteten mit dem letzten Song der neuen LP 'Echo Street' 'Mary Rose'. Sofor
 <RemoteImage
   alt={`Ampflifier`}
   size="medium"
-  title={`[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4526.jpg) Ampflifier`}
+  title={` Ampflifier`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4526__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4526__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUDBgEHCP/EACsQAAIBAwMCAwkBAAAAAAAAAAECAwQFEQASITFBIlGBBhMURHGTocHR8P/EABgBAQADAQAAAAAAAAAAAAAAAAQAAwUH/8QAIBEAAgICAgIDAAAAAAAAAAAAAQMAAgRBETESIiFRYf/aAAwDAQACEQMRAD8A5/tFBTy08LSRRsSoPK9dHijpRwKWn+2NZs6AWyKRGjJSIMQevQamJChHdu4JAIyB9PTXWMVOPVNPUdDQ+phMLDc/MHkpaJjtWjhAzydg/mld5t8UEUjLCE8G5fCBkeerVcaV6BYY6uJ0kqI1nQ+8ym1hnkDvzgjtoK7w0xtlXg/KllG7A3Z/3HfQM0IKrGtR0dCORS/PBMXWOUC3zZ5xTgfkaJpp4xWQSSRrLGHUyJIcKwzyDjoMar1HcDHTCLeoUqAdFQ18Knl19HxqvHzlFQBsOhv8kur2HE2P7a3+nvtPbEzTiWmTmYKQyptXEfGRt64/WNUq/wAq/BOitwIyAueg7Z8z56jpb4lKSaeoaMkYO2bGdK7ncIp4nVSCSMZ3Z0BjVKSV1sOADsbiyfM+R7M//9k="
@@ -85,7 +85,7 @@ Irgendwie wirkte Sel derart entspannt und freundlich-offen, dass ich geradewegs 
 <RemoteImage
   alt={`Sel Balamir`}
   size="medium"
-  title={`[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4578.jpg) Sel Balamir`}
+  title={` Sel Balamir`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4578__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4578__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAL/xAAoEAACAQIGAgIBBQAAAAAAAAABAgMEEQAFBgchMRJBFGFREzJCcfH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Acdxdn8pkDVFDCkTkfxHeAWjNkaCuilnqgokCsFuL824Nv7xedS5fV1UUU9DViOWC5MEvMM4t+17cr9MOR+D1iN6u1/Lp6jzWkg86Kv8Ai2enmWzRysw4jYEhx4nhhwfo8YBG03tFNmwzsZiYAtDVCGOSAAM91ubr6A4sfd/rClrPQUGS+akM1uiRg9tBqqug3fplq5J0gzCmnSoj7DAIWQsPVmHfq/3hw3gkizCKQU5UED33gND5pVKlOwB5xnrfuOgqMnqHqo7zgoIGUAFWJJJv6Fh674w5VGsRX1CxweRut+uMTbeoT1GTwyBXKlzc246/3AJuybmkXUlXIWJCQwLJ37diL/ngY71RnhkmkDsXU/eDm1mSyTaCqqr58FHT/MmEgkbx/UICDk34HiQBYHk4D5/pLMXkp4oliZ5kEqqJAGZCbKfE8gEkAE2ucB//2Q=="
@@ -98,7 +98,7 @@ Er flitzte rüber zum Promostand, besorgte einen Stift und fragte mich nach mein
 <RemoteImage
   alt={`Das Autogram`}
   size="medium"
-  title={`[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4580.jpg) Das Autogram`}
+  title={` Das Autogram`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4580__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4580__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcCBAYD/8QALRAAAgEDAwMBBgcAAAAAAAAAAQIDBAURAAYSITFxIgcTIzJBYSQzUYGEkvD/xAAXAQADAQAAAAAAAAAAAAAAAAADBAYC/8QAHhEAAgEFAQEBAAAAAAAAAAAAAQIAAwQFEUEhEjH/2gAMAwEAAhEDEQA/ABtZIxyQ/QaFVEsrHJfr4GtNUbRvssSNR1dsYcmjfnBUn1KcHHBTgZz31WTYe6HcK8+3w2QODyzqT9scP9nUzTsHUe6lG+QpDsyU8jY9LA+ADodUSyjPqX+unLv3aF3vdXE1phtMSKzs0lTIUkOcAIAiEcFC9M9ep7ax0Xs0vspkWae1q6tj4crkY/dRpoW/z+aMFTv0cbPkadJGsSAMaaRZ5pZEfhyAUtnHcYOi6xz8zII5Ecn6uMDp5PjSNkv9zTBW41vcn8wgDP6fQa4ybpveMLeK8fyG1kXQbkXfHOeiPStroaJkNbOKdWHRpHABx9h5Goe/gDSZquXuvnBOQvbvpAVW6744Aa83AgHI/EnodUpt438c8Xy5Hn83xz10ZWDcgxj3Xs//2Q=="
@@ -111,7 +111,7 @@ Ein wundervoller Abend, der uns lange in Erinnerung bleiben wird. Eine kleine En
 <RemoteImage
   alt={`Die Setlist`}
   size="medium"
-  title={`[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4582.jpg) Die Setlist`}
+  title={` Die Setlist`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4582__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4582__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFBgj/xAAuEAABAwIEBAUDBQAAAAAAAAABAgMEBREABhIhBxMxQSIjQmGRFRYXUWJxcqH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/AMflSEzU83UqPUozMmMqRdTbg1BWx6jCjJynRnZJap2WKKEpVpWp6nlzxdQQUrAAse+DvIZKs40ojVfn99/SrDAll5ybJaZ5IWV67uouegtb3wbRUknKeXWLiRQ6Ip4bFbUQIT7WBJt8nA5xGp0SBUIioMNiKhxC7hpASCQofp/OH+pRlcm7wAO99N7X9sCPFVDSH6fy0kDzB0/rgRp/Dop+86V40kc4nc/sVho+oxYlUeWpxQWu6N0DSDt3vf8AzHNFKrTVJqkaZICy005cpQLk7EWHzjVq4lURbbgXCma1erkov86r4JQclCu11soCQ6LkC4HXA7xKkKfRCWQuwcXYqSR2GLL8mU0xmEJp9RToSNWltABPe3ixk82ZmYrzTCWWZDRbcKvN07jT7HFIt//Z"

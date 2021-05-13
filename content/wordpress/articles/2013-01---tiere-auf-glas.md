@@ -174,7 +174,7 @@ Dieses tolle Foto schickte mir Henrik von seinem Hamster Koki. Ist schon fast ei
 <RemoteImage
   alt={`Scan`}
   size="medium"
-  title={`[ ](/wp-content/uploads/2013/01/scan.jpg) Koki`}
+  title={` Koki`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_scan__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_scan__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIDAQQG/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIAEQMhEkFRYTFxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwDy+HLkbLZxJgXGAbYK5J+BxBOzeyeh9VEyk0Nkn33DYJtri5WGpcmHdTeExmFwjAbDneyVLLvzHzurOrOrHyFYD81OdE4GuV7lHajtVaxW+vcCi0Jpu7uj6FQjA//Z"

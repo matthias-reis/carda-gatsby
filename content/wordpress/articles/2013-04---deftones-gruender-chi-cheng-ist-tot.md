@@ -44,7 +44,7 @@ Chi Cheng hatte am 4. November 2008 zusammen mit seiner Schwester einen schweren
 <RemoteImage
   alt={`Chi Cheng`}
   size="full"
-  title={`[ ](http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg) Chi Cheng`}
+  title={` Chi Cheng`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_220px-chi_cheng__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_220px-chi_cheng__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgAB0DASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCAwcE/8QAKxAAAgIBAwQBAwMFAAAAAAAAAQMCBBEABSEGEjFBURMUIgdxkRUjcqHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEA//EAB0RAAMBAAEFAAAAAAAAAAAAAAECEQADBBIhUfD/2gAMAwEAAhEDEQA/AMSQu1djav7k+wy5YcTNlgmUjiJ9nk/80GhOxSTWLhGVCwDAdsomUTkEkjOQcjwfWjfXNjctt3FdSwl1MAGUTNeCw+CRn0ORpTjZfiMTP6ioSMhAnHJHn+NT8KMFvw1XUOneR6x3ZQ6Nm4Y/jIU3AcknHb545z50e21ytvtP+tSjbM0VRgswI4RA8Y857v8AWlzYJlu5sjXW6bGUrMBFcDORJWQBgDPnH86eXdK7ilaG3F1VMYlEftnWlKavtQqJMozkDycj5/E59a3Aoh09ho0v1Z2y11BvP9R2eDdyCrRqNC15YGNxNYPs5EsfGf30r7v0TY2rdRRuW0smpRlemqMgurMxyId5GGEZGe3j1nWsdf7jFfTFOxszHVKc0wrxXWkFslY4IEvfgMBPBGOfxOl7ovZaHVFSyu+uTLClFMDNnEGjjK4jGOfZ59eNBfAmfkIZ6Mr9N7xT2O3bp7PFz7j67YSsOyCuMIGfbHBBwe0Z+ffxrh337nc3V3vYXtNdOWP5nL+zDknPs5PPOobLtzRvz5mfZGCXcGXYDL6Mwfy+CcD9tU9Q02zhtsEqbiFNWe6JzntA5A/x0RkZqN//2Q=="
@@ -60,18 +60,7 @@ Ein genialer Künstler, liebevoller Vater und Ehemann, wundervoller Freund und e
 
 Hier der offene Brief an Chis Fangemeinde, den seine Mutter am Samstag auf seiner Homepage veröffentlichte:
 
-> Our dearest Family, This is the hardest thing to write to you. Your love and
-> heart and devotion to Chi was unconditional and amazing. I know that you
-> will always remember him as a giant of a man on stage with a heart for every
-> one of you. He was taken to the emegency room and at 3 am today his heart
-> just suddenly stopped. He left this world with me singing songs he liked in
-> his ear. He fought the good fight.You stood by him sending love daily. He
-> knew that he was very loved and never alone. I will write more later. I will
-> be going through the oneloveforchi site and any other information may not be
-> reliable. If you have any stories or messages to share please send them to
-> the onelove site. Please hold Mae and Ming and the siblings and especially
-> Chi’s son, Gabriel in your prayers. It is so hard to let go. With great love
-> and “Much Respect!” Mom J (and Chi)
+> Our dearest Family, This is the hardest thing to write to you. Your love and heart and devotion to Chi was unconditional and amazing. I know that you will always remember him as a giant of a man on stage with a heart for every one of you. He was taken to the emegency room and at 3 am today his heart just suddenly stopped. He left this world with me singing songs he liked in his ear. He fought the good fight.You stood by him sending love daily. He knew that he was very loved and never alone. I will write more later. I will be going through the oneloveforchi site and any other information may not be reliable. If you have any stories or messages to share please send them to the onelove site. Please hold Mae and Ming and the siblings and especially Chi’s son, Gabriel in your prayers. It is so hard to let go. With great love and “Much Respect!” Mom J (and Chi)
 
 **RIP Chi. Wir lieben Dich und werden Dich nie vergessen. &lt;3**
 
@@ -96,7 +85,7 @@ Korn benannten einen Song auf Ihrem zweiten Album ‚Peachy‘ nach Chi, Dredg 
 <RemoteImage
   alt={`Chi Cheng`}
   size="full"
-  title={`[ ](http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg) Chi Cheng`}
+  title={` Chi Cheng`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_chi-cheng__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_chi-cheng__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMH/8QAJBAAAQMDAwQDAAAAAAAAAAAAAQIDBAARIQUGEgcTMVFBYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AzYmyST4q+033ZG9AphiPIEGJdDTyrDktQ5L/AEAVBeWF39Gh+lTJEbdOouR3ltLKC1yQbHjgWx9fNA/6pSlOa/pspMZmOgqXHS424Fd5Kh4IsLWIHuowlExm7kZGKDbskPDVo0furLLD6i2kquEXIOKaaaomC0Sc8aD/2Q=="

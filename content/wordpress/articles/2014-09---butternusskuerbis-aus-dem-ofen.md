@@ -71,7 +71,7 @@ Selbstverständlich möchte ich Euch gerne daran teilhaben lassen. Hier ist für
 <RemoteImage
   alt={`Butternusskürbis`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Herbstlich bunt und saftig`}
+  title={` Herbstlich bunt und saftig`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_ofenkc3bcrbis-14__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_ofenkc3bcrbis-14__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACkQAAEDBAIBAwMFAAAAAAAAAAECAwQFBhEhAEESEyIxB1FSYWJxgZH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAJhEAAQMCBAYDAAAAAAAAAAAAAQIDEQAhBAUSYTFBUYGRwbHh8P/aAAwDAQACEQMRAD8ATLCq9BodVUqvpbZw34xnnUlTTbn7sAkZGMKwcb5ozr29N2PNk3hAcytfqQYDK3fBPWAEgK/sjH35g2ZZsq+biejICWIkdKVyX3ASE50nQOSo4OBr438cdJ1sWDadbVS5tPnVKQy2l1155xSh7h5YQhGBkDonk0aUNhThIH7pVBwgOEIvSLVq6/c1wuz48VcWnoZ9JLbhHkdkgqI15HJ0PgcOVivWfQKjbqZVvNIigJJQWSQnP4qTkj+e+HBvNuLVqSARtWELSBBqe/Ty8H7ZtKrimhBqEyWgeS/cQgIzkD/e++adtNRL7C6hUHZ8epJKm3FpdBS8MY2kggDBwQD1xBsiVFTLVFnJYWy8pCkpkK8UKUM+3OdEg6P6Y5XQwy1DcREZRAU5j1BEWGirAxjPWtZG+KZkxinZSyDygzYbRN/H0dlbSBKvj3TE7XIVPjQ6K2GkAteDTTaT7Ugd9AaO++HJ3LqUOhuvOTXmGAtQUAt4rcOBobyT2eHHcvTiEtRibnt6tSr2gqlvhX//2Q=="

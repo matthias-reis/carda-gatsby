@@ -108,7 +108,7 @@ subTitle: Opium für's Volk
 <RemoteImage
   alt={`Foto: Gerd Altmann, pixelio.de`}
   size="medium"
-  title={`[ ](/wp-content/uploads/2011/05/505947_r_k_b_by_gerd-altmann_pixelio-de.jpg) Foto: Gerd Altmann, pixelio.de`}
+  title={` Foto: Gerd Altmann, pixelio.de`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_05_505947_r_k_b_by_gerd-altmann_pixelio-de__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_05_505947_r_k_b_by_gerd-altmann_pixelio-de__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAtEAACAgAEBQIEBwAAAAAAAAABAgMEAAUGERITITFRFCIHFXGBIzJBUmGRsf/EABgBAQADAQAAAAAAAAAAAAAAAAUAAgME/8QAIxEAAQIHAAEFAAAAAAAAAAAAAQACAwQFERIhMRMiQWFxgf/aAAwDAQACEQMRAD8AgdfK5jwtCPb4UdcUzROkJrleCWRZIoLaSPUlkYbT8ohZdgO2xPT9wBI7Y5eVQ5a1mnXsWo8vgsTBJLM54VhQDdm388IIUfqxGKDRvUHtjLKmspko5D+Lk885TkWndT7GK7kpH+TsNlZx2wJErsWXcwMabddon081YHd7fl/td0zIw2uAO0vz6C9XYeIFZG8AYRdW6N+XO6cHCw8nF009rBY8xizClTkYTIJAhj6ruOoO/jqN/vhF+JubjMbM0ksLxM25IK7bYjapMOmsTxPOpkAS2m6t35U/gu2apRUVmftsCFB+h6nDnp7XOZ0bvy1qg57oBFzrJG3cn3IO32wYMXiHF2IHsShosR42CtVLXLVJnselaeyW6iJt1H8HiK7/ANYWdY6rpZq5n5F+Fn3Co8cWx+pVj/mDBhJtOgZ+S21ianMY4kr/2Q=="

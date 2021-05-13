@@ -47,10 +47,13 @@ month: '09'
 
 Nach der relativ kurzen Zeit, in der ich bisher vegan gelebt habe, kann ich eines mit Bestimmtheit sagen: Ich bleibe dabei! Denn vegan Leben macht Spaß! Und genau das sagen all die tollen Menschen, die ich seit Mitte letzten Jahres kennenlernen durfte, die mir ihre Geschichten über das vegan werden erzählten. "Wer es einmal ausprobiert, der bleibt auch dabei!", meint auch Matze und ich finde, er hat recht. Wir haben beide unser Hobby, das Kochen ganz neu entdeckt, probieren tägliche neue Gerichte aus, experimentieren und testen.
 
-<RemoteImage alt={Ich bleibe vegan!} size="medium" title={Ich bleibe vegan!}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_14783170858_21a50b64ff_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_14783170858_21a50b64ff_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQL/xAAqEAACAQIGAQQABwAAAAAAAAABAgMEEQAFBhIhMUETI1FhByIkQnGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EABsRAQEAAgMBAAAAAAAAAAAAAAEAITEREiJx/9oADAMBAAIRAxEAPwCZ6OqITqyhnq1RQjSsiwjYA/tMOuhccj7+8UnVcW6COYxH9Zm9ROr35b8042fYuRhC02lCdZZVBLLFDTSpKyc7yfaAAt4YlOuLf5ihZtXUtdn+nckFLXSUc6StE42tI8gdi+zrixY8XJ2kWxnsvkomaOaho5Yq2acbVhSVXayFlDDkcDyTfr4wYpusdCZlIIapWWGjdxL6j+ptVQLRhgqmzW2mx5wYAU1UlDQukqSaA1tc0sscIv6X77jm3HIJ+AefOOs1rqmfU1LnAmzlq6Ahkkmy5y8YBumz3SLrZeBbz/GMqPU0+U0EUdFDDUFms4qLnaPnjo+P7xoUusa+VAZNMZa7HgSiSRBcjru3WLYNTxN+bfiLqEUr5rJmFbewDwvN6Qv0G2gcXHgjjBiXapqqnOrtPRJl6xgjZE5Kub983vxYYMZfk3//2Q=="
+<RemoteImage
+  alt={`Ich bleibe vegan!`}
+  size="medium"
+  title={`Ich bleibe vegan!`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_14783170858_21a50b64ff_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_14783170858_21a50b64ff_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQL/xAAqEAACAQIGAQQABwAAAAAAAAABAgMEEQAFBhIhMUETI1FhByIkQnGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EABsRAQEAAgMBAAAAAAAAAAAAAAEAITEREiJx/9oADAMBAAIRAxEAPwCZ6OqITqyhnq1RQjSsiwjYA/tMOuhccj7+8UnVcW6COYxH9Zm9ROr35b8042fYuRhC02lCdZZVBLLFDTSpKyc7yfaAAt4YlOuLf5ihZtXUtdn+nckFLXSUc6StE42tI8gdi+zrixY8XJ2kWxnsvkomaOaho5Yq2acbVhSVXayFlDDkcDyTfr4wYpusdCZlIIapWWGjdxL6j+ptVQLRhgqmzW2mx5wYAU1UlDQukqSaA1tc0sscIv6X77jm3HIJ+AefOOs1rqmfU1LnAmzlq6Ahkkmy5y8YBumz3SLrZeBbz/GMqPU0+U0EUdFDDUFms4qLnaPnjo+P7xoUusa+VAZNMZa7HgSiSRBcjru3WLYNTxN+bfiLqEUr5rJmFbewDwvN6Qv0G2gcXHgjjBiXapqqnOrtPRJl6xgjZE5Kub983vxYYMZfk3//2Q=="
 />
 
 Wir haben viel über das Thema Tierrechte [<sup>1</sup>](#1) gelernt, haben uns mit Umweltschutz und dem ökologischen Fussabdruck [<sup>2</sup>](#2) beschäftigt und auch in einigen anderen Bereichen des Lebens unsere Meinung geändert. Wir haben selbst und ganz ohne die Hilfe von Bienen in unserer Küche Honig [<sup>3</sup>](#3) hergestellt, der Herzmann hat inzwischen die perfekte Seitanmischung kreiert, wir kennen den Unterschied zwischen Mungdal und Sojabohnen und ich habe meine Liebe für Grünkohl wiederentdeckt.

@@ -111,7 +111,7 @@ Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen
 <RemoteImage
   alt={`tiere-essen`}
   size="large"
-  title={`[ ](https://amzn.to/2EcpLXZ) "Tiere essen" von Jonathan Safran Foer`}
+  title={` "Tiere essen" von Jonathan Safran Foer`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-3__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAoEAABBAEEAQQBBQAAAAAAAAABAgMEEQUABhIhMRMiQWGBFBUyM1H/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EACoRAAECBAQDCQAAAAAAAAAAAAECAwAEESEFElFxFDHBIkGBobHR4fDx/9oADAMBAAIRAxEAPwDAfmwoEtljHQT66rbLq1DiAbHmye/B6HnTFgMlkiyER5hYbUeaWW7AUa8dG7+NIMLP47cO6MHGXHQ2HKbecbT6SieX8bujXupX3q7YWG3DYWqPCi4zipwepZLq1JCVAhSvKT0LAvsDwq9CkAot5nAQb894mYit3iCgK7FBSn3XWOcOZaHtt96Fj6TFYUQy2P7Ug2QlKvnsn8nS7jt+T8sXYQRKhy3QFpaKRwWggK5EgeSO7+tUB3JNQ4zeQRGmPIBRRf8Ab6ZIqjy+yB46IsHsakW+sP8AuWTTktvMojZIuEONx/aCpRrl2a42T/lfArR8RlFqq80spI53NN9tf2FSU6lBDS7+HX0iW4ratuxpmIy8VZZWFlp1lTbiDfggWL+NXvBbmxCHIDjhcWJUJl5a0IDy0LSohxqrtJPuIPVENmqGjRphcUlRg2MqyBtwC/yPcxpO7hkzGnSQ1jmJNLfDy0uEqKeKqSAEi/Jsk3RvoaT94Zn9Lgp8HbuGlTp0hlTImrCFBsEUVJtQ7q6KR+dGjQ0PrdNVG2kVG5BloBZGY6np3eUf/9k="

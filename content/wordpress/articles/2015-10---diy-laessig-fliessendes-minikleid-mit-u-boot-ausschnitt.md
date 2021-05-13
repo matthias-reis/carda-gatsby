@@ -113,7 +113,7 @@ Stellt nun Eure Nähmaschine auf einen größeren Zickzackstich, Profinähmaschi
 <RemoteImage
   alt={`Hier kommen die Säume hin`}
   size="medium"
-  title={`[ ](/wp-content/uploads/2015/10/21735559864_4129d12356_z.jpg) Hier kommen die Säume hin`}
+  title={` Hier kommen die Säume hin`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21735559864_4129d12356_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21735559864_4129d12356_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwUGCAME/8QALhAAAgECBQEGBQUAAAAAAAAAAQIDBBEABQYSIQcTIjEyUYEUcZGhsSMlQWGS/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBf/EAB4RAAICAgIDAAAAAAAAAAAAAAEDAAIREiJBMVGR/9oADAMBAAIRAxEAPwAr0P06qdfZvmFV2hipKeQRAFWs9l55ANgNv38eMMWmNFaMptNGmzzJkml3742jpldlXaBbcTfk3PsMQXR2pqcv0jSFKmaL4gNM6xuVDBmYgfQ2xZ3r5Hm8oEY4AA8BjKY2wOo6mnRYI2Pc5VGkdM1n7flOUU0VDIiKVlpwt5LnvE+45wa9Quk1VoiWjzuiQGhFR2M6RyM4RSPNyLgAE+v2OGqlf9JHjdRb1Xm/1xBdRJy2nczerlkdfhJWLO7G3cPqTh0YfsLUHn1C3pVnJn01DTlu/Tu0DcX7vmXj5Ej2xe46yGORd0wBPFgwF/mMZ00dnpyPMy7lvhZl2ShfEejAeo/BONJaX1xpeXKKILUrJPDTLHIRRGVd22xJswPjzyMUcnlmTS3NcT0yZzAibVqxc+I3f3+MHnVzPli0tLTw745aqTsCu5uF4ZiL+INh/rCVmXUTR9Pl88JrKRXaJkUvl6qfJbltxJN+b/nGZNb5+ud1dMkDM1PTR7QzE95z5m5/jgD2w0p5AmDmgVIn/9k="
@@ -151,7 +151,7 @@ Ich wünsche Euch viel Spaß beim Nähen und beim Tragen Eures neuen Minikleides
 <RemoteImage
   alt={`Mein &quot;Schnittbogen&quot; - zum Vergrößern bitte anklicken!`}
   size="large"
-  title={`[ ](/wp-content/uploads/2015/10/Minikleid-Nähanleitung-17.jpg) Mein "Schnittbogen" - zum Vergrößern bitte anklicken!`}
+  title={` Mein "Schnittbogen" - zum Vergrößern bitte anklicken!`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-17__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-17__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcI/8QALRAAAgECBAIJBQEAAAAAAAAAAQIDBBEABQYSITEHEyJBYXGRocEjUWKB4bH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwYB/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAAwQREhMhIjH/2gAMAwEAAhEDEQA/ACOi8mbqoaOliG1QFZrcv7i1ab0mtFTG5YykXO03I+MG+jGljFPG116x3Kg29PjFKgrhTwSybiYmjALbtu29+/8AXtiXsc22cT+SiA6k2IbqcoZZfqJNtJ7LOSP57YK6myYRg32Mjg27NvMenziq18yTUUKgMBEwUEsrXG3wPhglqRUamF24BxzH6+cZrrbww1bsXZkt0TnSxyRgSMDdWPaPEg2PtbFTp61rErNKL8ypPHGaspzKKnZWNSFZTw44e5XrTL4UXewd7c2cEDDsjFYtySKpvXWmljNZeIiSZmF+9hzwZ1LmkaRbQSxQ7mA4nlw97+mCU3SBQiNhC8G783A2+d/8GB+c6qjqTJerjkDm5A+45YGrFsY/Qhveijyf/9k="

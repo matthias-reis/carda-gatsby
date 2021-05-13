@@ -296,7 +296,7 @@ Außerdem ist es natürlich extrem vielfältig, laut, chaotisch, aufregend, voll
 <RemoteImage
   alt={`Taksim bei Nacht - Bild: Marie`}
   size="medium"
-  title={`[ ](/wp-content/uploads/2013/06/img_4182.jpg) Taksim bei Nacht - Bild: Marie`}
+  title={` Taksim bei Nacht - Bild: Marie`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4182__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4182__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCBAYDCP/EACsQAAEDAwMCBAcBAAAAAAAAAAECAxEABDEFEiETQQZhkbEUIjJCUXGB4f/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgX/xAAgEQABBAEEAwAAAAAAAAAAAAABAAIDERIEIjFBUXGR/9oADAMBAAIRAxEAPwDzDaW6XbltpSoCjB/NPlaGuzudnVPVSYLZTznyzVvTrO4dWyuzet2yGzKYG5zuU48gBXZnXGF7EuWKBcBXzLJUlQiRBAMAzJPFQvlLzt6XSjgbGN/fCb3HirU2fDx0jepNooiW0kwSJz61gdRJIaknCjBGJV/lawX9k8hAcZ6QdlRX1t08ACZGO496W31lbag2SzqCELY42ut7QUFWdwyrk8RgViLGI8Ul1BkmFXahbuFsOKH1NgmP1Va61EfHP3luYhyW1AAKiIB9/WiikYwEklFLI5oDR7+JffXKXnWFNpSAGkIIj7gmCf7FSYuVFQS4UFKeyhzx2oop8RVKQSOyvyv/2Q=="
@@ -328,7 +328,7 @@ Hier geht es zum Filmprojekt der beiden:
 <RemoteImage
   alt={`Istanbul mit andern Augen`}
   size="full"
-  title={`[ ](http://istanbulchangingperspectives.wordpress.com) [Istanbul mit anderen Augen](http://istanbulchangingperspectives.wordpress.com)`}
+  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_cover_dvd__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_cover_dvd__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIEBQYH/8QAKhAAAgEDAgUEAQUAAAAAAAAAAQIDAAQRBRIGEyExURQiYdEjMkFCcXP/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQC/8QAHREBAAEDBQAAAAAAAAAAAAAAAAEDEWETFCGR8P/aAAwDAQACEQMRAD8As7bjeAanfadLpNty4UZWuXhBeR+awI3M2OwBz3/qqa/4g0+ZJ7e09Ulw49jDO1eoP6s9OgPatnNZajC+tGa49eJruR4IJAAYAZCBtZjjAHYDx5NRo49bPF2nNHEYtEECrNEk0ezfsbdlQckhsdcGmRUm5c0uLMQt1IMcy6uB5/M33TwXchuIdt3M3vXP5W8j5rrtxDujw0gCFs4MQYD47U9nCVkiKOvLBGVEQUMfNb1cJtrn3aTdaBdvdzOHtwDIxHuP7k/FEHD13HIjmS3wO4Bb6oopK1KbR7lxhxAV/wBG+qeLSLhGULyQoI/mfqiigP/Z"

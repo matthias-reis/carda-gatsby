@@ -95,7 +95,7 @@ Um die Veränderungen, die die drei durchleben würden, genau aufzeichnen zu kö
 <RemoteImage
   alt={`Friedenstaube über dem Bosporus`}
   size="medium"
-  title={`[ ](//2010/01/09/mowen-am-bosporus/) Friedenstaube über dem Bosporus`}
+  title={` Friedenstaube über dem Bosporus`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_0232__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_0232__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcCBgMEBf/EACsQAAEDAgQFAgcAAAAAAAAAAAECAwQABQYRITEHEhNRYUFxIiQykaHR4f/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAYEQEBAAMAAAAAAAAAAAAAAAAAEQExMv/aAAwDAQACEQMRAD8Acwd81JK86qV/kYmZCTh+JZ5YO6ZjrjSk+2Wh+4qkyZ3F15ammotpi8uR6rDCFA+ylrUPxVLCmViHFdmsFoeuNwmtdBtSmwhpYUt1xO7aQN1Z6Ht65UuMDrufELEreJsQK6Ntti/koDeYbS5uM8/qIGSir1+EaDSqbbcNqbxY3b8d87qgsv8AViOghx13Xp7ZklR1AG/in/CiMwYjUSI0hmOyOVCEbD++aXrI6YAT3qQUe9FFUK10wYhnynlRWFOvtIS6pTYPOAVZZ/vwOwroKUSdTRRQZ//Z"
@@ -160,7 +160,7 @@ Mich macht das ganz unruhig, ich verspüre den Drang, die Menschen zu unterstüt
 [CCN International](http://edition.cnn.com)  
 [Hier eine Facebook-Gruppe zum Thema](https://www.facebook.com/haltedurchturkei) [Hier Maries Favorit](https://www.facebook.com/geziparkidirenisi?fref=ts)
 
-## Fotostrecken findet Ihr 
+## Fotostrecken findet Ihr
 
 [hier](http://turkishpolicebrutality.tumblr.com)  
 [und hier](http://occupygezipics.tumblr.com)
@@ -170,7 +170,7 @@ Für den Moment werde ich es bei diesem kurzen Anhang zu meinem Artikel belassen
 <RemoteImage
   alt={`Istanbul mit andern Augen`}
   size="full"
-  title={`[ ](http://istanbulchangingperspectives.wordpress.com) [Istanbul mit andern Augen](http://istanbulchangingperspectives.wordpress.com)`}
+  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_cover_dvd__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_cover_dvd__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIEBQYH/8QAKhAAAgEDAgUEAQUAAAAAAAAAAQIDAAQRBRIGEyExURQiYdEjMkFCcXP/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQC/8QAHREBAAEDBQAAAAAAAAAAAAAAAAEDEWETFCGR8P/aAAwDAQACEQMRAD8As7bjeAanfadLpNty4UZWuXhBeR+awI3M2OwBz3/qqa/4g0+ZJ7e09Ulw49jDO1eoP6s9OgPatnNZajC+tGa49eJruR4IJAAYAZCBtZjjAHYDx5NRo49bPF2nNHEYtEECrNEk0ezfsbdlQckhsdcGmRUm5c0uLMQt1IMcy6uB5/M33TwXchuIdt3M3vXP5W8j5rrtxDujw0gCFs4MQYD47U9nCVkiKOvLBGVEQUMfNb1cJtrn3aTdaBdvdzOHtwDIxHuP7k/FEHD13HIjmS3wO4Bb6oopK1KbR7lxhxAV/wBG+qeLSLhGULyQoI/mfqiigP/Z"

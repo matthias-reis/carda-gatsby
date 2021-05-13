@@ -92,7 +92,7 @@ subTitle: Perfekt ausgerüstet durch die Festival-Saison
 <RemoteImage
   alt={`Festivalliste`}
   size="thumbnail"
-  title={`[ ](/2012/06/05/rock-im-park-2012/) Billy Talent (Rock im Park 2012)`}
+  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p1000273-e1582812006264__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p1000273-e1582812006264__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBAL/xAAvEAABAwMCAwcCBwAAAAAAAAABAgMEBQYRACESEzEiQVFhcXKBBxUzNDU2c7LB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABsRAQADAAMBAAAAAAAAAAAAAAEAAhEDEiET/9oADAMBAAIRAxEAPwB3VytfabktukFgvv1l55sHiKeUltorKsY33wPnXD9dQ1eMS3hH50qQw9MdUCMR2kBISVe5RwPTUx0j6jyYNUtisOMKk/ZUzkYff4uaJC1qSc4yCAsD0TtjWqzfq3Np1wVOr1KCmfMqakmVKUop5bKB2W0AbJSDv8Aants3+GGxwXBdyqRfcRc5ohiHKfpzsVlezrTyWlMPkE4JzkHwxtoxqVQjM3m0hc2Uw5Epz0hEdt3DDva4VFbQ7SyBuNtu7UzXNe0i76uuU7EajONqaDIbzlSAviTk95Azv5+WmAivC6L/AGJLrLENUWnSG1lT3Ep9D4AAQAASRwnx8NOnqjI5a9QQksv1eQ+6pUghYKiogDh6knu9dE9GrDrUZLohqypBZQ5y+YCPb0OMb+WgdH4ifcNNO3/0mP6D+zmhMfJVbKOzI9XWJkhQUVh9tOQkNJb4fjqdvHoDoLerEpypqnNvOtP5yhbaylSB0ABG420W1r96U/8Aha/3QLO/Mue7SH2K7tSf/9k="
@@ -113,7 +113,7 @@ Selbiges gilt auch für Bierfässer, Tische und Gartenzäune. Ihr kennt mich ja,
 <RemoteImage
   alt={`Festivalliste`}
   size="thumbnail"
-  title={`[ ](/2012/06/05/rock-im-park-2012/) Metallica (Rock im Park 2012)`}
+  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p1000313__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p1000313__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQQHCP/EACgQAAIBAwMEAQQDAAAAAAAAAAECAwQFEQASIQYTMUEiB1FhcSNCYv/EABgBAAMBAQAAAAAAAAAAAAAAAAEEBQAD/8QAHxEAAgEEAgMAAAAAAAAAAAAAAQIAAxEhMQTwEoHB/9oADAMBAAIRAxEAPwDnm00ymyTzS0as3dXsVQfBVgDujIz7BBz/AJ496drr0tBdrZdrqahoKO1wRKGJEhnqpfkw9EZyx94A1rO3yduoVjnb/bGryqNRKqYmJjlxIwyB8toHI4HgaUqBg17y9xHRqeVvrvfkefprarFeunLtabnNJC1RsaEjB7dQivyPeGDLxnGQfsCEXqya2rLNDb6Vu48+8zyMS23Ynxx4B3FyT+tMfTHT1WKGetp6wdvb/IsahnideUY+eM4z+CdVv1fs9JZOua6it9VFU06iORZImDD5IGxkexnGhSN3OcTpy0elxxcWPrUS45ShGAOPwDqRqyWRlLlTt8Dbxo0ab8RuQxUYYBk6XarjgeFJiInO5gvG7941jPO8hBdgScDx9tGjWCgaELV6j4Ykz//Z"
@@ -128,7 +128,7 @@ Die Devise lautet also: Ballast war gestern. Auch die Bierpaletten, die man zu d
 <RemoteImage
   alt={`Festivalliste`}
   size="thumbnail"
-  title={`[ ](http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg) Festivals 2012`}
+  title={` Festivals 2012`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p2250036__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p2250036__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYBBQcCBP/EACgQAAEDAwIGAwADAAAAAAAAAAECAwQABREhMQYHEhMiQRRRYQhxgf/EABgBAAMBAQAAAAAAAAAAAAAAAAAEBQID/8QAIhEAAgEEAQQDAAAAAAAAAAAAAQIDAAQRIcESQWGB0eHw/9oADAMBAAIRAxEAPwBSmfx9vTcZ6Y9d7e22kdSgGlk/WlMsDgCTaLdEE+5quIQ8lkrbaCDnBVganOg3rbuJpzSuHnA2dS43n8AWM0oXmWkcOPocV5i4tHKFZIy0v361GKjxys10kbHK/R+BVcKqW7ygYbfHb3S/bOF7VNahSH1tPSnVPD4r6+31qSojCFjY4IPv3tvUW7gKzTIch5xtx6Q08ppwLUUFJGwUkaAgb40O43r3WK8JdidkyYZSqatbbbzBUFnpQfDGxGo95Jq3F2jpMwIW4gZBAcPkMADX6/qu1woVyBqswlpIwzeKwCVzokPQ3Y3w3VIWnBJWB/tVE/mpJmRlMLir6FLS4rzB1TnHr9NFFMJaxqwcDYpV7uXpMedH9wKiPzVlxFOFiO8ApalhPf6UklOPIAeW32BXMXmHcJ8h89oJSoAlCV66fX5RRRNEgUtjdEM8hwmdV//Z"
@@ -279,7 +279,7 @@ Ich habe hier mit voller Absicht nur Zwischenmahlzeiten mit reingepackt, da man,
 <RemoteImage
   alt={`Festivalliste`}
   size="thumbnail"
-  title={`[ ](http://cardamonchai.files.wordpress.com/2013/03/p8150037.jpg) Whiley Open Air 2009`}
+  title={` Whiley Open Air 2009`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p8150037__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p8150037__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYC/8QAKRAAAQQCAgAFAwUAAAAAAAAAAQIDBBESIQAFBhMxQVEUMmEiI5HR4f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUG/8QAIBEBAAEDAwUAAAAAAAAAAAAAAQACAwUEITEREiJBUf/aAAwDAQACEQMRAD8A7LDDE2HFeJS7KzDQxOykWR+NcYr65LTSnFYhCAVLKvZIFk8xHUT5fmKkrclF+Oh0NFdLDQNZEX6jHE60d80kvxN38uG9CfPXIT9OrJ1mK2op2bCsdK0K+Ks+vKjJHMncdV9l9uEy/DakskKZcbDgV7YkXfIF9ZklSgKSBdmgCPkfjiKP4zks9WiBGb6mVEU0lhDSYgsIIrAEHK9gE+vEyfGfYxG48Zn6VpqMUoUl5BSUAD7FWdfyCR8cIyHXZguhR2YqZWuc5JZdfIU3nSqIaLibtH6PtUbNarftvknXtyWoT7MyQ6grUQlaH1L1rG0k1WqKSCPT88OHOduVNpQmhSePdIoq/J8/z3EpdcpRLKEgXqgNaA3/AGeUewTGdzU+21+4rJRcoZm7sjV/5w4cUXKqnmK9z//Z"

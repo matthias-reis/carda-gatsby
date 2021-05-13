@@ -102,7 +102,7 @@ Hier ist noch ein schönes Lied für Euch und im Anschluss zwei Eindrücke vom 
 <RemoteImage
   alt={`Soundgarden`}
   size="large"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Soundgarden`}
+  title={` Soundgarden`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_img_1577__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_img_1577__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGBP/EACkQAAIBAwQBAwMFAAAAAAAAAAECAwQRIQAFEjFBBhMyFGGhInGBwfD/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUAAf/EACMRAAIBAgYCAwAAAAAAAAAAAAECAwAEERIhcZHwEyOhseH/2gAMAwEAAhEDEQA/AEm4bxX7xQbhXVEsqrC0QSNZ2CA+Wt9/x1qXM6Ih5RE93PLVBs3tjYa2FpopS5WS8ZuLAqB+b637j6ap6fYI9wbjd1XiHT5d3x30wyQBjBNxqjZwRMhdz3g9+WxiMglz3iouOsYSExGVBfpWOD9v95039KtG1TV7ruP1NTRbcYneNJuDszSqsebXOc2wCAcjSatCoLJGvyHxSxFznr+9OvQW3S7pWttzVEFHBJV00tT9S/DlFGxYhb/JuyB5tp15FDGvr+/wVy4ijUjxnHuwpLss1ZJTVYhEDxwx8WEc17HmLiwGTjoa201egPuz1kD8UPOOSofiVW36Bx/dceP40aNT47uZFyqxArYsowUkDeta11TTwtTUhpEeV0ilQPcyuLlQVseJwTbUrvElXLPIs0sPulxe78CSoIxxUXwTnza+jRoXneRsz6mgIL6sSa//2Q=="
@@ -111,7 +111,7 @@ Hier ist noch ein schönes Lied für Euch und im Anschluss zwei Eindrücke vom 
 <RemoteImage
   alt={`Black Sabbath`}
   size="large"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Black Sabbath`}
+  title={` Black Sabbath`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_img_1605__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_img_1605__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKxAAAgECBQMDBAMBAAAAAAAAAQIDBBEABRIhMQYTURQiQQcjgZEyYaHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQQD/8QAIxEAAgICAQIHAAAAAAAAAAAAAQIDEQAhgUGxBCMxYXGhwf/aAAwDAQACEQMRAD8A52yan9XH2b21k7244thhH6YZhTVdLCk8PYrY+6rsNKqvySTvxvsMVv0bo0k6wy6aV1FFTyMz6uTZDIfx7cNHq3PajLqaeuqZXlWqp1hpYEkB+7/IkeEA2IPJHgYuhjuOQsl0ARySPy8kkl8xVutntif606RPS85gmqYJ0dmKywAkWDBdwbH5uPIxmqumkpZxSyqA6mx0nUG8EEbEHzhjdUV+c1AyTNKyP1KLRSyyMSGPaDKAzbfF0t/eMXl8NVUzRK+lCXbQ9QwRU9tyNR+fA/XODxUUKNSNvRr5AI373xzhDM7CyNb7kfVZCy+prYNcNKswMkZ9i2vbgt+tvzibNmNeVLF5SUUMfugqNgFNr/8AXwYMYLKyAheuUNErGz0yUnV+felFOlQopWZGKACzds6gCTfYHe3FwDitkOY1TI7pJIe4ZgDyW3uf9vgwYz0zliBZ9TWIUAaz/9k="

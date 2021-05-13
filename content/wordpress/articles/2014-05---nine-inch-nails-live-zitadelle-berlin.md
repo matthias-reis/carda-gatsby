@@ -44,7 +44,7 @@ Am 15. Mai, zwei Tage nach dem Geburtstag meines Bruders brachen wir dann in all
 <RemoteImage
   alt={`Die drei vom Wellenbrecher`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/) Die drei vom Wellenbrecher`}
+  title={` Die drei vom Wellenbrecher`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_nine-inch-nails-citadel-music-festival-berlin__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_nine-inch-nails-citadel-music-festival-berlin__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcB/8QAJxAAAQQBBAEEAgMAAAAAAAAAAQIDBBEFAAYSITEHEyJBFBVCUZH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQQSAyFBUXGhsf/aAAwDAQACEQMRAD8Avr23XZOcwM+PCwf4rjfCUwON0pJ5crR8vr5dHroadunZiNuTMfmNo4aO27EaV+Wppw8CiqB4E2fJs/151UJG6ss9BiowS3xChIVzISj3FnuiooVySLro2aB6uhpG6fUVvMpiQGcs9DYcjlDrheLiXnfjYQhIFUpCqs934o1qjjyNXpe66+YnlxtkDN1fd+R9Tu5t5ssQkvrdgOT08lNpxtNqBXQ7UgEdAUB571IbEI30XXHGpIybYSHmpN8gn+KgTRKa/wAPWshyOVYXmI+axiUTWULS4624wUFbiKAUQSburu/JOrXt/wBR8bEyQyuV5y5kJBW8FK9t19pwcFoRzNEiyQjwK6IvWjM5Q9AAD1FDBRwdmJP7M5lxf1TzDeYYXCfLfxbfQpkKu+76B86i5csN5JDTSkIQtaOIRQHYPYrryR3o0aXtYuV60aiE5dyOuOnmkgFJv7TQqtTeMlwstl48OQwwpBQHHnHEgqokBKQfqyRZ+h40aNA7kKSISKCwBn//2Q=="
@@ -59,7 +59,7 @@ Aber gut, wir waren ja schließlich auch wegen der Hauptband angereist. Die Stim
 <RemoteImage
   alt={`Nine Inch Nails`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/) Nine Inch Nails`}
+  title={` Nine Inch Nails`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_nine-inch-nails-citadel-music-festival-berlin-1292__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_nine-inch-nails-citadel-music-festival-berlin-1292__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUIAwQH/8QALRAAAgIBAwEFBwUAAAAAAAAAAQIDBBEABRIhBgcTMUEUIlFhcYGxFiMzcsH/xAAYAQADAQEAAAAAAAAAAAAAAAAABAUCA//EAB8RAAEEAgIDAAAAAAAAAAAAAAEAAgMEEiEFERQxcf/aAAwDAQACEQMRAD8An+j2Uv2KVu4sZMNUoHwpJPLPy9MfjR+nLJ8IiF8Tfx5U+/8ATVKU9hWfb0h24pH4rM5B6YfAz0+2iz2ZjgvVGmmqVzEyQVlDAEOE8lHxwpI++pJ5FwHaebUdngRtTlP2L3SLeDtrxgT8fE5MSq8QMlskZx9tJt12e1t9ieGzGVkhco4+BBx/mqv3yDbkvqLaxtcsh68C4y8jmMluI/r+PjrjXeZAa0nPgk9iVmLMeqk8c4A9Thc5PrrtXvOkIBCw6oR8Siv3lXK9hWWofZhn9szkOwKEH3gMjqQc/LGsu7d4st6vtyQ1WpzU5FsvKlqSRZJQnHyOOPQtkA48wPPRo1QFeIaxSwsSjYckh7aboLMlr21zKzh+RGQrAEKFP0J6fXWnvvazcd4nMlqTkxfxECgAJ0xgfLBOjRoEETT2GhHkSn24r//Z"

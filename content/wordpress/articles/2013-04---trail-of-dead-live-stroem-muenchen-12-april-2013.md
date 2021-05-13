@@ -170,7 +170,7 @@ _PS: Ich habe mir einfach mal rausgenommen, diesen Artikel mal etwas ungeordnete
 <RemoteImage
   alt={`Trail Of Dead`}
   size="large"
-  title={`[ ](http://cardamonchai.files.wordpress.com/2013/04/playlist.jpg) Die ursprünglich geplante Playlist`}
+  title={` Die ursprünglich geplante Playlist`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_playlist__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_playlist__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAACAcGAwX/xAAuEAACAQMCBAMHBQAAAAAAAAABAgMEBREAIQYHEkEiMWEIExRRgZGxFXKhssH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAABAv/EABoRAQADAQEBAAAAAAAAAAAAAAEAAgMSEQT/2gAMAwEAAhEDEQA/ADEI84yu/qwGu0aqmS4yO4HcepO/41WORdptHEdZcrFf6NKunKJXwRs7Jh0JRt1IJ8Mg2zjbVap+XnCFLMsS2G29AKhpCrMc9Xn4mJA7Y0pf6Crykdy+a1zoYa7Xw3ebnZ6u8W621M9tpQ5qKiNR7uMIAWyc9gQcD568kBCSXRCSfMDP+aal0tdBDwDf6O201PDE1BU5WCmECsxibfpAAzsBn00MaVGNLDg48AOy51nPXv1hbZcIezXcnrr+k8yLFM5xDNN8JJ+2UFP7FT9NKy5xq1XGrFlZlx1Mds9gN9j37b99CinlkgkjlhyssbB0b5MCCD9wNW6/+0BN8eslmsFEYlQEPcZG6w53bCowGM+W+dD2zb2GsvPUzqjEA1Mk9mqqVBMTLTupaVW3LIQdz5/TQWo8RU0cczFWUAYxqnrz14zdWW30lmpw/mYqE4+7ufxrApT1ki9RMKZ7Bc4/jUzo0EtB33LPpP/Z"

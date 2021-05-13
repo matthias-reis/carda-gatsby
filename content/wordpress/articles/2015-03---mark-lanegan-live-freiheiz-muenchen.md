@@ -42,7 +42,7 @@ Mark gastierte, [wie schon 2012](/2012/08/mark-lenegan-live-freiheiz-munchen/) i
 <RemoteImage
   alt={`Mark Lanegan`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/sets) Mark Lanegan`}
+  title={`Mark Lanegan`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_16454954390_fab402aea4_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_16454954390_fab402aea4_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwj/xAAlEAACAQMFAAICAwAAAAAAAAABAgMABBEFBhIhMRNBYWJxgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABoRAAMBAQEBAAAAAAAAAAAAAAABAhEhElH/2gAMAwEAAhEDEQA/AOadNs2uZVQYyxxknAFWep7WsLGxgMN+l3dhuNwImBiVuTDipxk4ABz4c0p2vBC91bi4Z0hZgHZF5MB94HWTVTeglZZQXDMFLRM4b48t4CKlstLhH6lpnwqHQdYoqkuohNDwHHLDA5EAf6aKdBr4KNq/LHqenrGkErvJGVDEPGSxGA31/INPdwXz3El5MvYNxhuABB4kgnoD7AP90m2buNdP1Kxu763iuUt5Pk4qBG2PwQMZHR7HorTYNqWp1qyfSoLqLSGiBnXVVDNkhjy7HFh2vXoqaePpcT6WIgtXaSDRoZgFVeLEt0Sck/XvgFFUO59moIyltqsRC54pxCoP198opTQVNaf/2Q=="

@@ -81,7 +81,7 @@ Bei Mensch und Tier wird Vitamin B<small>12</small> hauptsächlich in der Leber 
 <RemoteImage
   alt={`Grüner Smoothie mit Superfood`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Grüner Smoothie mit Superfood`}
+  title={` Grüner Smoothie mit Superfood`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_img_1535__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_img_1535__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUBB//EACoQAAICAQMDBAEEAwAAAAAAAAECAwQRBRIhADFBBhMicTIVQlFhBxSh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFAf/EACQRAAIBAwMDBQAAAAAAAAAAAAECAAMEIRESYQUi8CMxQZHR/9oADAMBAAIRAxEAPwB1P7ccLzyECGLtj9x7HjyfA6hatOYHkFqSxHKCpNamF3JwBh5GB+RHgdukU8a+9Uc8tHMGwf3MEYxjHn5Acf30WpTB1ey7g5w0jfkQx5JI+z/3pNU3HSP1apXAk6Ovev3VlrPYtEDLU7RQSuoySI5AANx8bgRn+O/VA3Klua9JoWmRWdO9tEV5pdqwu3KlnK7lYcluRg57hetqBxqFaWuyCaNRkDu384PRgeqauleqvU1CoZo0/wB6WdgjcMgwSSD8SPzzxnB4GehVaCr3cyl0q53sUca4x9jwRbL6s0+SWSpTrTWbFht8UqtyuwnDKOwOFyPvxjk5+p2LMcTLQlinaUK8UI3K78/ivDKcnlcHB84x0muVIoq2lFWSOZohDYMZUOXIwiYXByRJnjsB2bB6MevNRi9mFdOrtTtQb1knlXaHKycFeeQNgI7BRx543cyym1jaXPphSOQf34x5rIt/1+a8FpvStCa7qIPttLYRY0rEcH4Z3M32APvrnMkwswTT6yJ4dSkl3mWU7VZjy3yB7HaB/WerVqv+mf5O1CCCu7RxRRgFyVMilFw3HHPfz9nq/qTVLyItqnKNrBso69x5PHPQa9yVbaRiSaFEUixQ59s8T//Z"
@@ -134,7 +134,7 @@ Werden Fleisch, Milch oder Eier konsumiert, wird das B-Vitamin durch die Magens�
 <RemoteImage
   alt={`Superfood`}
   size="medium"
-  title={`[ ](https://www.flickr.com/photos/99929697@N07/) Superfood`}
+  title={` Superfood`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_img_1552__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_img_1552__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUHAwT/xAArEAACAQMDAgYCAgMAAAAAAAABAgMEBREABhIhMQcTQVFxgSIyYZEjwfH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgUD/8QAIREAAgEEAgIDAAAAAAAAAAAAAQIRAAMEEiFBMVEyYZH/2gAMAwEAAhEDEQA/APXIiPTtPUu8dOr8Bw6vKw68Vz9ZPYfz20ZvG5Ka20dStuo6J61VxHG6eexbIGWLHHbJ9PjXXxLrpqFIqCkbi6hadWzjGF5SN8lieujO3KKKpdHCnhjl+Qwe+oRYWIESe5qpfymdjqYFa14f2e17221G00Rtd5XksnlKEDYJ4sYwSuCMfrjrnGj15t9dt26SW+6KFmXBVx1R1PZl9x/zVza/Oiljkp28uVOqsvppd462qS87Ett4t8Qauppo/wBSBmOT8WXrjpy4n6PvpmQZCllWGHrwRRh5zK+lwyp99Vj/AInUklXSQ3SmHJWCztgZ9Asg+Qw/rUDbFWiz8GkUOR+uevz/AK+tNIa4UsUsNREZ6JzyZAcMrY/ZT746Edj6++pkNi20telRTXWKiPmebwkUp+Q9cEY/onSXEF7kfL8oyMV0Y6iQaV2aYySIiqTIxAAHcn2H3pB4/wB/TbfhvaLKyxzXCtmj/wALEj8IzzZuns3Afeom3dw7R2dSqbfLU3u4Jy8vqxVSevV2GAPjJ0C3TLV7u3E92vUqyVPHCxqCEhjHaNR7DOf5JJ1raIsTsZJ446H3SYuFcZt2EAe6/9k="

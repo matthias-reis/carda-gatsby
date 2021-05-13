@@ -11,3 +11,6 @@ yarn-error.log
 !/src/wordpress/*.js
 .env
 database-debug.log
+
+# Local Netlify folder
+.netlify
