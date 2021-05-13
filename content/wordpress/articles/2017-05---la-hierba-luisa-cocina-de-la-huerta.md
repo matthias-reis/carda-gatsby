@@ -39,7 +39,7 @@ labels:
 - Vegane Lokale
 - vegane Lokale
 - veganer Wein
-- 'serie: Gran Canaria 2017'
+- serie:Gran Canaria 2017
 focusKeyword: La Hierba Luisa
 status: publish
 isWerbung: false
@@ -47,7 +47,7 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Eine vegane Oase im Herzen von Las Palmas
-year: "2017"
+year: '2017'
 month: '05'
 
 ---
@@ -131,24 +131,3 @@ Ihr findet das _La Hierba Luisa_ bei [Instagram](https://www.instagram.com/lahie
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34587993052_495603d943_k__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAARACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFAwYH/8QAKRAAAgEEAAMHBQAAAAAAAAAAAQIDAAQRIQUSEyIxMkFRcrIjNXGhsf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIxESH/2gAMAwEAAhEDEQA/APabFC1uSAC5GgTgE090XaD6sUAC7DNMyhT3ZOh/ak8NuUdBHIoIYYKnYNNC6tVVhGnDwQ/KTI4/YAyDVTfRqnhT4dC3R5xHE7HIJjnLKBrA2TutZVIXLLyn0zmp1ndRsqq0NoxYAoIiw1jzJBHl60y86DsIoVRuhKZlXhzMXiHvqtYeO6/J+NFFB6UUN8L+wwe0/I1hL3GiimjCe9P/2Q=="
 />
-
-## Wegweiser Gran Canaria
-
-1.  Eine vegane Oase im Herzen von Las Palmas
-1.  [Vegan auf Gran Canaria](/2017/05/vegan-auf-gran-canaria/)
-1.  [Zeitgenössische Künstlerinnen Afrikas in Las Palmas](/2017/06/el-iris-de-lucy-las-palmas/)
-1.  [Rund um den Leuchtturm von Maspalomas](/2017/06/rund-um-den-leuchtturm-von-maspalomas/)
-1.  [Die Dünen von Maspalomas](/2017/07/die-duenen-von-maspalomas/)
-1.  [Mit dem Boot von Bucht zu Bucht](/2017/07/gran-canaria-der-sueden/)
-1.  [Stadtrundgang in Las Palmas de Gran Canaria](/2017/08/las-palmas-de-gran-canaria/)
-1.  [Die einzige Kaffeeplantage Europas](/2017/09/die-einzige-kaffeeplantage-europas/)
-
-Merken
-
-Merken
-
-Merken
-
-Merken
-
-Merken
