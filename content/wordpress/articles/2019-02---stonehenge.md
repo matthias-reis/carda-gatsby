@@ -60,12 +60,12 @@ subTitle: Mystische Megalithen
 ## Erinnerungen an den Frühling in England 2009 - Teil 4/17
 
 <RemoteImage
-  alt={`stonehenge`}
-  size="medium"
-  title={`Stonehenge - Foto: Matze 2012`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_05_stonehenge_9495102379_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_05_stonehenge_9495102379_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgIDB//EACkQAAEEAQIFBAIDAAAAAAAAAAECAwQRBQASBhMhMUEUIlFhBzNCQ3H/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AsuUz+byuIKZKHo29Q3RhKbYAoUChdWQTfT61sw7DkuEE5b1K3QKSHVhakV4BFdNJcfrwfDjzmMy/rl5B2J6loNNpG5O5V0o0L9ijt7fHfULjuIYsXiWVw/GGSlrZeZYjuIWg84uIKrG7aEAD5J8aCxZSMmJGSI0N91xS6Uvfs2Jrx1HUnyb1GriKXQMeXJpJX7UFVAdzf15Ooyb+ScXDwWPmyMTnS1PQt1tZdZ/U24ULUQldg2O3nxq2RnOHc/m3sJDz0lzJbKVF5zrYWAAqh/FVA3QPz8aDjE+W/Pkc2c8qU6P7H33Fq73Vm+n1pZlWyTz2OYiQKp1t9aVCrrr38nRo0GK4SHmm23WFqabQUJSHyKSSbA6fZ09jxIx08T4T8qLN6jnNvkLHSjR/zRo0H//Z"
+alt={`stonehenge`}
+size="medium"
+title={`Stonehenge - Foto: Matze 2012`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_05_stonehenge_9495102379_o__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_05_stonehenge_9495102379_o__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgIDB//EACkQAAEEAQIFBAIDAAAAAAAAAAECAwQRBQASBhMhMUEUIlFhBzNCQ3H/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AsuUz+byuIKZKHo29Q3RhKbYAoUChdWQTfT61sw7DkuEE5b1K3QKSHVhakV4BFdNJcfrwfDjzmMy/rl5B2J6loNNpG5O5V0o0L9ijt7fHfULjuIYsXiWVw/GGSlrZeZYjuIWg84uIKrG7aEAD5J8aCxZSMmJGSI0N91xS6Uvfs2Jrx1HUnyb1GriKXQMeXJpJX7UFVAdzf15Ooyb+ScXDwWPmyMTnS1PQt1tZdZ/U24ULUQldg2O3nxq2RnOHc/m3sJDz0lzJbKVF5zrYWAAqh/FVA3QPz8aDjE+W/Pkc2c8qU6P7H33Fq73Vm+n1pZlWyTz2OYiQKp1t9aVCrrr38nRo0GK4SHmm23WFqabQUJSHyKSSbA6fZ09jxIx08T4T8qLN6jnNvkLHSjR/zRo0H//Z"
 />
 
 Dieser Beitrag wurde ursprünglich am 11. Mai 2009 veröffentlicht. Er ist zunächst nur als Bildbeitrag erschienen. Das Titelbild habe ich 2012 fotografiert, als ich erneut in Südengland unterwegs war, dieses Mal mit Matze gemeinsam. Am 8. Februar 2019 habe ich ihn aktualisiert und mit diesem Text ausgestattet. Es ist immer wieder schön, in Erinnerungen zu schwelgen - umso schöner, wenn man dabei noch etwas über die Geschichte solch magischer Orte lernt. Für [unseren Roman](https://amreis.de/) haben Matze und ich uns in der letzten Zeit wieder mehr mit Stonehenge beschäftigt. Zeit also für eine Auffrischung des Artikels.
@@ -74,10 +74,10 @@ Unzählige Mythen umranken das in der Jungsteinzeit begründete Bauwerk in der N
 
 ## Der Steinkreis setzt sich aus verschiedenen Bestandteilen zusammen:
 
-- Der  **Opferstein** steht etwas abseits des eigentlichen Zentrums. Seinen Namen hat er von einigen verwitterten rötlichen Flecken. Diese können auf Blut oder Eisenerz hindeuten. Ob es sich dabei wirklich um eine Opferstelle gehandelt hat, ist fragwürdig. Ursprünglich soll der Stein nämlich mal aufrecht gestanden haben. Seine flache Position ist Wind, Wetter und Zeit geschuldet.
-- Der **Altarstein** ist grünlich. Der Sandsteinblock bildet zusammen mit einigen Blausteinen den inneren Kreis von Stonehenge.
-- Der **Heelstone** (dt. "Fersenstein") ist auch unter dem Namen "Friars Heel" (dt. Mönchsferse) bekannt - dazu mehr.
-- Hinzu kommen die **Positionssteine** .
+* Der  **Opferstein** steht etwas abseits des eigentlichen Zentrums. Seinen Namen hat er von einigen verwitterten rötlichen Flecken. Diese können auf Blut oder Eisenerz hindeuten. Ob es sich dabei wirklich um eine Opferstelle gehandelt hat, ist fragwürdig. Ursprünglich soll der Stein nämlich mal aufrecht gestanden haben. Seine flache Position ist Wind, Wetter und Zeit geschuldet.
+* Der **Altarstein** ist grünlich. Der Sandsteinblock bildet zusammen mit einigen Blausteinen den inneren Kreis von Stonehenge.
+* Der **Heelstone** (dt. "Fersenstein") ist auch unter dem Namen "Friars Heel" (dt. Mönchsferse) bekannt - dazu mehr.
+* Hinzu kommen die **Positionssteine** .
 
 Der Heelstone und die Positionssteine des Steinkreises sind nach den Positionen der **Tagundnachtgleiche** und **Sonnenwende** ausgerichtet - aus diesem Grund nimmt man an, dass es sich um ein **frühzeitliches Observatorium** handeln könnte. Die genaue Bedeutung ist jedoch auch heute noch unklar.
 
@@ -102,25 +102,3 @@ Neben zahlreichen religiösen und esoterischen Theorien drehen sich auch Sagen u
 <Gallery name="2012stonehenge" />
 
 _Hier geht's zu [Teil 5/17](/2009/05/mortehoe-cornwall-12-05-2009/) _
-
-## England 2009 Wegweiser
-
-1.  10. Mai 2009 [Überfahrt von Duncerque nach Dover](/2009/05/uberfahrt-von-duncerque-nach-dover-10-05-2009/)
-1.  10. Mai 2009 [Sissinghurst Castle](/2009/05/sissinghurst-castle/)
-1.  11. Mai 2009 [Glastonbury](/2009/05/glastonbury-11-05-2009/)
-1.  11. Mai 2009 [Stonehenge](/2009/05/stonehenge-11-05-2009/)
-1.  12. Mai 2009 [Mortehoe](/2009/05/mortehoe-cornwall-12-05-2009/)
-1.  13. Mai 2009 [Woolacombe](/2009/05/woolacombe-cornwall-13-05-2009/)
-1.  14. Mai 2009 [Appledore](/2009/05/appledore-cornwall-14-05-2009/)
-1.  15. Mai 2009 [Hayle](/2009/05/hayle-cornwall-14-15-05-2009/)
-1.  15. Mai 2009 [Glendurgan Garden](/2009/05/glendurgan-garden-15-05-2009-2/)
-1.  15. Mai 2009 [Penzance](/2009/05/penzance-cornwall-15-05-2009/)
-1.  16. Mai 2009 [Mousehole](/2009/05/mousehole-cornwall-16-05-2009/)
-1.  16. Mai 2009 [St. Ives](/2009/05/st-ives-cornwall-16-05-2009/)
-1.  17. Mai 2009 [Eden Project](/2009/05/eden-project/)
-1.  18. Mai 2009 [Von Mevagissey nach Port Mellon](/2009/05/von-mevagissey-nach-port-mellon-18-05-2009/)
-1.  19. Mai 2009 [Bradstock](/2009/05/bradstock-19-05-2009/)
-1.  20. Mai 2009 [Dorchester](/2009/05/dorchester/)
-1.  21. Mai 2009 [London](/2009/05/london-21-05-2009/)
-
-[Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
