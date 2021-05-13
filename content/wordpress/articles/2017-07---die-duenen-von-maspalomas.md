@@ -23,7 +23,7 @@ labels:
 - Naturschutzgebiet
 - Playa del Ingles
 - Wandern
-- " serie: Gran Canaria 2017"
+- serie:Gran Canaria 2017
 focusKeyword: Dünen von Maspalomas
 status: publish
 isWerbung: false
@@ -31,7 +31,7 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Ein Meer aus Sand und über uns die Sonne
-year: "2017"
+year: '2017'
 month: '07'
 
 ---
@@ -57,16 +57,3 @@ Der überwiegend helle Dünensand stammt von verschiedenen Orten. Ein Teil davon
 Geht man wie wir in der Vorsaison durch die Dünen, trifft man selten auf andere Wanderer. Ein kleiner Bereich wird von FKK-Anhängern genutzt. Die meisten Touristen halten sich jedoch lieber am Strand auf, um das kühle Nass immer in Reichweite zu haben.
 
 <Gallery name="flickr/anneduenen" />
-
-## Wegweiser Gran Canaria
-
-1.  [Eine vegane Oase im Herzen von Las Palmas](/2017/05/la-hierba-luisa-cocina-de-la-huerta/)
-1.  [Vegan auf Gran Canaria](/2017/05/vegan-auf-gran-canaria/)
-1.  [Zeitgenössische Künstlerinnen Afrikas in Las Palmas](/2017/06/el-iris-de-lucy-las-palmas/)
-1.  [Rund um den Leuchtturm von Maspalomas](/2017/06/rund-um-den-leuchtturm-von-maspalomas/)
-1.  Die Dünen von Maspalomas
-1.  [Mit dem Boot von Bucht zu Bucht](/2017/07/gran-canaria-der-sueden/)
-1.  [Stadtrundgang in Las Palmas de Gran Canaria](/2017/08/las-palmas-de-gran-canaria/)
-1.  [Die einzige Kaffeeplantage Europas](/2017/09/die-einzige-kaffeeplantage-europas/)
-1.  [Las Vegas auf Gran Canaria](/2017/09/bananen-papayas-und-esel-las-vegas-auf-gran-canaria/)
-1.  [Jardín Canario – Grüne Oase in Tafira](/2017/09/jardin-canario-gruene-oase-in-tafira/)
