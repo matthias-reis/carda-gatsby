@@ -83,11 +83,3 @@ fields:
   name: languageLink
   label: Sprachlink
   description: Bitte vollständig angeben (/2021/04/titel)
-pages:
-- content/articles/align-in-time.md
-- content/articles/alter-by-karin-park-lustmord.md
-- content/articles/alter-von-karin-park-und-lustmord.md
-- content/articles/diy-kosmetik-fur-trockene-haut.md
-- content/articles/faire-vegane-bettwasche.md
-- content/articles/john-boles-aka-align-in-time.md
-- content/articles/wildbienen-arten-und-gruppen.md

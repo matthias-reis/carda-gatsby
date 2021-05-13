@@ -1,33 +1,36 @@
 ---
-date: 2018-07-17T05:58:06.000Z
+date: 2018-07-17T05:58:06.000+00:00
 slug: birds-of-tivoli
-path: /2018/07/birds-of-tivoli/
+path: "/2018/07/birds-of-tivoli/"
 type: Galerie mit Bild
 typeName: Galerie mit Bild
 title: Birds Of Tivoli
 seoTitle: Birds Of Tivoli - Gefiederte Besucher im Vergnügungspark
 ogTitle: Birds Of Tivoli - Gefiederte Besucher im Vergnügungspark
-description: Im Tivoli sind uns jede Menge gefiederte Persönlichkeiten begegnet. Den Birds Of Tivoli möchte ich heute einen eigenen Beitrag widmen. Mit Füttertipps.
-excerpt: Im Tivoli sind uns jede Menge gefiederte Persönlichkeiten begegnet. Den Birds Of Tivoli möchte ich heute einen eigenen Beitrag widmen. Mit Füttertipps.
+description: Im Tivoli sind uns jede Menge gefiederte Persönlichkeiten begegnet. Den
+  Birds Of Tivoli möchte ich heute einen eigenen Beitrag widmen. Mit Füttertipps.
+excerpt: Im Tivoli sind uns jede Menge gefiederte Persönlichkeiten begegnet. Den Birds
+  Of Tivoli möchte ich heute einen eigenen Beitrag widmen. Mit Füttertipps.
 fileName: 2018-07---birds-of-tivoli.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Birds-Of-Tivoli__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Birds-Of-Tivoli__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwEDBP/EACoQAAIBAwQABQMFAAAAAAAAAAECAwQFEQAGEiEHEzFBYRQiMhYjUXGB/8QAFgEBAQEAAAAAAAAAAAAAAAAABQME/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAESExYRL/2gAMAwEAAhEDEQA/AOxLTbtvWCeevtlGahEZkV6oxyNgdDHPIycDPyNRe5LXZq/w/qdwU7NTVslO30yQ/fEJ16ZCSSQQwOc6Y3sNtvu3JYayot7LNF9/7HYx+LAnBA+RqKjpXt+yrhaqWpnrLPDG7SmmQnIJyUUsvTH2JB7Pvoh3QgedyoXGRKeeySV9AkYp56y4VGHJpkLsvfRHXfp6n0z76sibZ9VtTadQlbHJFdY1jo18+MFJh0eUBP5dE5JAxg/xp4p77+mrS0lt22LfRuMyl6jnMcdZkYDvA7PfQ1XXiNuWe9rHXz1IVo4VSFkDKqwHPQB9ckj5xjvSodTXJmdLUiY2dfaiSkWHhEGj45k4gswH96Z9x3q6WOvWlpq1vJqUXzEAwpB9sd6NGh6AYTQTi4i3e8OyXKZYlWojUxNKGPJ1GGUH4DHP+a1V0iRmoDI0pMg4mR+WOWc+3r1o0aRcABakU0T2f//Z
-ogImage: null
+ogImage: 
 labels:
-  - Amseln
-  - Birds
-  - Birdwatching
-  - Enten
-  - Fernweh
-  - Kopenhagen
-  - Möwen
-  - Skandinavien
-  - Tauben
-  - Tiere
-  - Tierrechte
-  - Tivoli
-  - Vögel
+- Amseln
+- Birds
+- Birdwatching
+- Enten
+- Fernweh
+- Kopenhagen
+- Möwen
+- Skandinavien
+- Tauben
+- Tiere
+- Tierrechte
+- Tivoli
+- Vögel
+- 'Serie: Dänemark 2018'
 focusKeyword: Birds
 status: publish
 isWerbung: false
@@ -35,8 +38,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Gefiederte Besucher im Vergnügungspark
----
 
+---
 **_"Birds, Birds, Birds"_ - Im Tivoli sind uns nicht nur jede Menge Menschen mit strahlenden Augen begegnet, die dabei waren, den Park zu genießen, sondern auch ein paar gefiederte Persönlichkeiten.**
 
 Nachdem [mein Beitrag zum Tivoli](/2018/07/tivoli-in-kopenhagen/) von gestern sehr gut ankommt und Vogelbilder schon immer mein Ding sind, wie viele von Euch wissen, habe ich mich spontan entschieden, den Birds Of Tivoli einen eigenen Beitrag zu widmen.
