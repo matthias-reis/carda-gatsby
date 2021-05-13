@@ -1,33 +1,36 @@
 ---
-date: 2020-01-15T20:41:06.000Z
+date: 2020-01-15T20:41:06.000+00:00
 slug: st-michaels-mount-marazion
-path: /2020/01/st-michaels-mount-marazion/
+path: "/2020/01/st-michaels-mount-marazion/"
 type: Galerie mit Bild
 typeName: Galerie mit Bild
 title: Marazion und St. Michael's Mount
 seoTitle: Marazion und der St. Michael's Mount - Fernweh nach Cornwall
 ogTitle: Marazion und der St. Michael's Mount - Fernweh nach Cornwall
-description: Kennt Ihr schon Marazion und St. Michael's Mount in Cornwall? Mit den Bildern von diesen Orten kann ich so richtig schön von der Ferne träumen.
-excerpt: Kennt Ihr schon Marazion und St. Michael's Mount in Cornwall? Mit den Bildern von dieser ganz besonderen Gegend kann ich so richtig schön von der Ferne träumen.
+description: Kennt Ihr schon Marazion und St. Michael's Mount in Cornwall? Mit den
+  Bildern von diesen Orten kann ich so richtig schön von der Ferne träumen.
+excerpt: Kennt Ihr schon Marazion und St. Michael's Mount in Cornwall? Mit den Bildern
+  von dieser ganz besonderen Gegend kann ich so richtig schön von der Ferne träumen.
 fileName: 2020-01---marazion-und-st-michaels-mount.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2019-08-19-marazion-st-michaels-mount-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2019-08-19-marazion-st-michaels-mount-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwIDBP/EACoQAAIBAwQBAwIHAAAAAAAAAAECAwQFEQASITEGBxNBFFEiMmGBkaHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQUAAv/EABsRAQACAwEBAAAAAAAAAAAAAAEAAgMRMZFB/9oADAMBAAIRAxEAPwC2aGgQAcacJQQFBsSXOOSSD/Ws6ZZIoy8zukcalmMnSgDJJzqJ331V8Zt1O/0NRFdaoFNiQtsRgQCT7mD0D9u9VbZWSa4iSWa2uVIRHK/5pLXW+aNSqrKiN+YKOSNVzP6yXJbuJ/paM24tzSqV3bM9b+9364/bUjtvqr4veZoqZjVW+qmYIFqkBTcTgAupwOfkgaaZl7BxHyJKbxSOWkMcdznaEhjtW4ueOzyVPeB/GuY2Ky2iIvUe6qAqrFpA/eDjhTxjHxo0aEqG9E6FXrF9RH4pUfha7AHONvCfP39rOtFXZLHLCoiqDOoGFVKgA898BQdGjWoVt2p5C4nLPs//2Q==
-ogImage: null
+ogImage: 
 labels:
-  - Britische Inseln
-  - Cornwall
-  - England
-  - Fernweh
-  - GB
-  - Marazion
-  - Reisen
-  - Slow Travel
-  - St. Michaels Mount
-  - Südengland
-  - Surfing
-  - Wandern
-  - Watt
+- Britische Inseln
+- Cornwall
+- England
+- Fernweh
+- GB
+- Marazion
+- Reisen
+- Slow Travel
+- St. Michaels Mount
+- Südengland
+- Surfing
+- Wandern
+- Watt
+- serie:England 2019
 focusKeyword: St. Michael's Mount
 status: publish
 isWerbung: false
@@ -35,8 +38,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Fernweh nach Cornwall
----
 
+---
 **Langsam aber sicher wird es wieder Zeit für einen Fernweh-Artikel. Kennt Ihr schon Marazion und St. Michael's Mount in Cornwall? Mit den Bildern von diesen ganz besonderen Orten kann ich so richtig schön von der Ferne träumen.**
 
 Nach unserem Besuch auf dem [Arctangent Festival](/2019/09/arctangent-festival-2019-2/) letztes Jahr hatten wir noch ein paar Tage Zeit, die wir dafür genutzt haben, ein paar unserer Lieblingsorte in Südengland mal wieder zu besuchen. Einer davon ist der Strand von Marazion mit der vorgelagerten Insel St. Michael's Mount.
