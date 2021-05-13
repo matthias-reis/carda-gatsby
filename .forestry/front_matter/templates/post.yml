@@ -7,22 +7,6 @@ fields:
   name: date
   label: Go Live
   default: '2021-05-02T17:21:42Z'
-- name: year
-  type: text
-  config:
-    required: false
-    min: 4
-    max: 4
-  label: Jahr
-  description: 'Beispiel: 2021'
-- name: month
-  type: text
-  config:
-    required: false
-    min: 2
-    max: 2
-  label: Monat
-  description: 'Beispiel: 06'
 - type: text
   name: slug
   label: Permalink
