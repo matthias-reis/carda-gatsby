@@ -45,4 +45,4 @@ In den Wintermonaten halten die **Braunbären** Winterruhe, da sie in der Zeit n
 
 **Braunbären** nehmen hauptsächlich pflanzliche Nahrung zu sich, sind aber **Allesfresser** . So kommen bei Familie Petz, je nach Saison und Lebensraum, Beeren, Blüten, Wurzeln, Kräuter, Gräser, Fisch, Insekten, kleine Nagetiere oder auch Vögel auf den Tisch.
 
-[Wie ich zu Zoos stehe](/2015/04/wie-ich-zu-zoos-stehe/) \_\_\_\_
+[Wie ich zu Zoos stehe](/2015/04/wie-ich-zu-zoos-stehe/)

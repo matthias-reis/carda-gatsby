@@ -49,7 +49,7 @@ month: '08'
 
 ## Veganer sind einfach gesünder
 
-** [_Hier gehts zu Teil 1 des Artikels_](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) **
+test ** [_Hier gehts zu Teil 1 des Artikels_](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) **
 
 **Immer wieder werden Gerüchte wach, Veganer\*innen würden sich ungesund ernähren. Selbst große, angesehene Zeitungen und Magazine berichten darüber. Dies zu dementieren, sind die meisten Veganer\*innen schon müde geworden, doch lässt sich für das ständig neue Aufblühen der Mythen und Weisheiten auch ein Grund vermuten.**
 

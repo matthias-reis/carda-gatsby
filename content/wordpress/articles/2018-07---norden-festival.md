@@ -1,41 +1,39 @@
 ---
 date: 2018-07-05T06:57:32.000+00:00
 slug: norden-festival
-path: "/2018/07/norden-festival/"
+path: '/2018/07/norden-festival/'
 type: Artikel
 typeName: Verlosung
 title: NORDEN Festival
 seoTitle: Norden Festival - Neues Open Air Event in den Startlöchern!
 ogTitle: Norden Festival - Neues Open Air Event in den Startlöchern!
-description: Vom 30. August bis einschließlich 16. September wird auf den Königswiesen
-  erstmalig das NORDEN Festival stattfinden. Ich verlose 4 Gästelistenplätze!
-excerpt: Werbung -  Vom 30. August bis einschließlich 16. September wird auf den Königswiesen
-  erstmalig das NORDEN Festival stattfinden. Ich verlose 4 Gästelistenplätze!
+description: Vom 30. August bis einschließlich 16. September wird auf den Königswiesen erstmalig das NORDEN Festival stattfinden. Ich verlose 4 Gästelistenplätze!
+excerpt: Werbung -  Vom 30. August bis einschließlich 16. September wird auf den Königswiesen erstmalig das NORDEN Festival stattfinden. Ich verlose 4 Gästelistenplätze!
 fileName: 2018-07---norden-festival.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Zelt-der-Wunder.jpeg__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Zelt-der-Wunder.jpeg__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMFBgIEB//EACgQAAIBAwQBBAIDAQAAAAAAAAECAwQFEQAGEiExEyIjQRQyUWGBof/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAIhEAAQQBBAIDAAAAAAAAAAAAAgABAxEhEiJB4SNRMWHw/9oADAMBAAIRAxEAPwCk7Ust8s219wV1vtlW92jeGKJHhEjIDz5MuRyBAODjogkafvCGagphtm7NLRCT0Kq30kAZ6dWcEO/J/ccFypGeio8gakYdx3u7bn9J56uG31EpqPTt5A/YK/2AOQVsd5/UnWW4r1bL9bDuKtStludOYBSGYkOJFJ9VCQCDnz/GR15xptGxaibL18e8V+9WgGCEo9sm7uu+1zhLfDbWqDcnemYtJFGJUVzjsEsAc5yPrTrHtk354ILNDNUtGjSTsR8cfnt26EY6Hk9/QJxq7UkFprbyry0Mb/mU0dSYioyIGGHw2B22GHXu6JGNJnr7jCojor89BTwTsI7VHUGH48gLLwXrOTkZHeP708ZCJ65UwRABeV3r6UHarpFHOwq52jYwtHFM/ahmXjlsd4x1qrQXOe1itVONRHOMHIPFWyfH+H/g0aNVRA11wthmtmypfZG52t1NHST1U0dH63qTdAqzAHgSfPRJwD7fces961t63OmqKg/gQxSGVQr1QA5EAJxUY8H485++R0aNE0QtLqXSN6pf/9k=
-ogImage: 
+ogImage:
 labels:
-- Dänemark
-- Estland
-- Festival
-- Festivals
-- Finnland
-- Fintango
-- Flensburg
-- Kultur
-- Lettland
-- NORDEN Festival
-- Norwegen
-- Polen
-- Schleswig
-- Schleswig-Flensburg
-- Schleswig-Holstein
-- Schweden
-- Skandinavien
-- Tangoliebe
-- Kunst
+  - Dänemark
+  - Estland
+  - Festival
+  - Festivals
+  - Finnland
+  - Fintango
+  - Flensburg
+  - Kultur
+  - Lettland
+  - NORDEN Festival
+  - Norwegen
+  - Polen
+  - Schleswig
+  - Schleswig-Flensburg
+  - Schleswig-Holstein
+  - Schweden
+  - Skandinavien
+  - Tangoliebe
+  - Kunst
 focusKeyword: NORDEN Festival
 status: publish
 isWerbung: false
@@ -43,23 +41,23 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Neues Open Air Event steht in den Startlöchern
+---
 
 ---
-***
 
 Hinweis: Die Aktion ist beendet. [Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
-***
+---
 
 **Vom 30. August bis einschließlich 16. September wird auf den Königswiesen erstmalig das NORDEN Festival stattfinden. Drei Wochen lang sind dort Kunst und Kultur aus dem europäischen Ostseeraum und Schleswig-Holstein zu sehen.**
 
 <RemoteImage
-alt={`NORDEN Festival`}
-size="medium"
-title={`Das Fintango Duo Antti Sepponen`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_Fintango-Duo-promo-by-Antti-Sepponen.jpeg__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_Fintango-Duo-promo-by-Antti-Sepponen.jpeg__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcI/8QAKBAAAQMDBAEEAgMAAAAAAAAAAQIDBAUREgAGITEUB0FRYRMWIiPR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMA/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQARAiExUf/aAAwDAQACEQMRAD8Aptr7gomzpUyTXJLsVmVFfjMFhtS3MiE9Y9W7vxbjTX6Vb32zNkKprRZgVCWhjx4iWzg5i0clZAYhfYORBOI99ZJHo79e3O5Pkrp7tMpPCobrgLi0qRfMNkHJJWQCfq2ldiKX5FOhjJovxYzJx44cd/1WpoLfkpsK9nSh3BQ2a05Xf2KTIgmUuMtMeQt+KGyiyAGUiwsu38xfk996k3BMhVKmUKoU95L0N+fHW28i4Ck3UPfnsWIOuctwVyKxDq1Io6FtU1l93xsxZX4y6HEX5Njbix9rfenvaKpFKhTtuvzESo9PqsCRHeAIFn0lZAHx0bfN9bEYs6oqZvvFKXacy4UpC0vAFWIyIIItfu3GofT6lK3FuNFKcmyIzLrDilqaN1f1IKkjnrkDRo03kmdlLUkCFJqEMFS8JC2gs/CVEda2Paviv7Wpk1iIlnzqqwl9srLgV+K7YuVc8i5P2To0aJy483aT/9k="
+  alt={`NORDEN Festival`}
+  size="medium"
+  title={`Das Fintango Duo Antti Sepponen`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_Fintango-Duo-promo-by-Antti-Sepponen.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_Fintango-Duo-promo-by-Antti-Sepponen.jpeg__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcI/8QAKBAAAQMDBAEEAgMAAAAAAAAAAQIDBAUREgAGITEUB0FRYRMWIiPR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMA/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQARAiExUf/aAAwDAQACEQMRAD8Aptr7gomzpUyTXJLsVmVFfjMFhtS3MiE9Y9W7vxbjTX6Vb32zNkKprRZgVCWhjx4iWzg5i0clZAYhfYORBOI99ZJHo79e3O5Pkrp7tMpPCobrgLi0qRfMNkHJJWQCfq2ldiKX5FOhjJovxYzJx44cd/1WpoLfkpsK9nSh3BQ2a05Xf2KTIgmUuMtMeQt+KGyiyAGUiwsu38xfk996k3BMhVKmUKoU95L0N+fHW28i4Ck3UPfnsWIOuctwVyKxDq1Io6FtU1l93xsxZX4y6HEX5Njbix9rfenvaKpFKhTtuvzESo9PqsCRHeAIFn0lZAHx0bfN9bEYs6oqZvvFKXacy4UpC0vAFWIyIIItfu3GofT6lK3FuNFKcmyIzLrDilqaN1f1IKkjnrkDRo03kmdlLUkCFJqEMFS8JC2gs/CVEda2Paviv7Wpk1iIlnzqqwl9srLgV+K7YuVc8i5P2To0aJy483aT/9k="
 />
 
 Auf fünf Bühnen werden Live Musik, DJ-Sets, Poetry Slams, Open Air Kinoveranstaltungen, Lesungen, Straßentheater, Tanz, Kurzfilme sowie Spiel und Spaß für Kids dargeboten.
@@ -71,12 +69,12 @@ In einem extra dafür aufgebauten Dorf im typisch skandinavischen Stil mit rot-w
 Für das perfekte nordische Flair wurde an alles gedacht: Es gibt sogar eine Sauna auf dem Festivalgelände! Außerdem erwarten uns Fintango, Streetart-Workshops, Standup Paddling, diverse kulinarische Highlights und natürlich Musik, Musik, Musik!
 
 <RemoteImage
-alt={`NORDEN Festival`}
-size="medium"
-title={`Urban Art Workshop Vandkant`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_Urban-Art-Workshop-Vandkant.jpeg__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_Urban-Art-Workshop-Vandkant.jpeg__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAsEAABAwMDAwMCBwAAAAAAAAABAgMEBREhAAYSExQxByJhQUIVIzJDUnHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EAB4RAQACAgMAAwAAAAAAAAAAAAEAAgMRBBIxEyFB/9oADAMBAAIRAxEAPwDFs7Sqez4ceSmPTocl8d00JaW3JCF/ttm9ykkZ+L5z4umzp6KxQGZq1Mh1A4SQi4SlwAcwAc2BOp9t87f3zOp7lVdCpK7oizG1FJjSUqUU2bPtXyT/ACH2i2mjz0jakiVTi2uP2yel+ermVoU7z5XtnkM3/wA0lrPGtpdjDbpmxmjSSpsxgCTbI0ayNJ3623GelVPqFh5y6C2QUNecXPn6aNWORVkPjD63I1sekdaFUKS2nm862HY7kRPvWtP6VJtgWBN/HnTSq7qqoT2jsqQ8mMGmFNzGkyCh4pF8rTyIIJNgQPoDjSH07irqyyqkh78Rp7Tk+Khl3gpTzdloQAb4VkH+z4vrr9XWnQ5TpjTCoh7WP1YpvzYWsXIJOfNxnNxo8uj1E9IcV08jRqryZtO5TG2Ichl0MJjtIUEFso5Aqv8AcSm+PjzbRpVGLSIdIcbs2y4LraJPuWpBJV82It8X0ay8bC1q7f1jFk9n/9k="
+  alt={`NORDEN Festival`}
+  size="medium"
+  title={`Urban Art Workshop Vandkant`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_Urban-Art-Workshop-Vandkant.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_Urban-Art-Workshop-Vandkant.jpeg__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAsEAABAwMDAwMCBwAAAAAAAAABAgMEBREhAAYSExQxByJhQUIVIzJDUnHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EAB4RAQACAgMAAwAAAAAAAAAAAAEAAgMRBBIxEyFB/9oADAMBAAIRAxEAPwDFs7Sqez4ceSmPTocl8d00JaW3JCF/ttm9ykkZ+L5z4umzp6KxQGZq1Mh1A4SQi4SlwAcwAc2BOp9t87f3zOp7lVdCpK7oizG1FJjSUqUU2bPtXyT/ACH2i2mjz0jakiVTi2uP2yel+ermVoU7z5XtnkM3/wA0lrPGtpdjDbpmxmjSSpsxgCTbI0ayNJ3623GelVPqFh5y6C2QUNecXPn6aNWORVkPjD63I1sekdaFUKS2nm862HY7kRPvWtP6VJtgWBN/HnTSq7qqoT2jsqQ8mMGmFNzGkyCh4pF8rTyIIJNgQPoDjSH07irqyyqkh78Rp7Tk+Khl3gpTzdloQAb4VkH+z4vrr9XWnQ5TpjTCoh7WP1YpvzYWsXIJOfNxnNxo8uj1E9IcV08jRqryZtO5TG2Ichl0MJjtIUEFso5Aqv8AcSm+PjzbRpVGLSIdIcbs2y4LraJPuWpBJV82It8X0ay8bC1q7f1jFk9n/9k="
 />
 
 Veranstalter Manfred Pakusius möchte die Schleswiger Königswiesen zu einem ganz besonderen Ort machen, indem er das breite Kulturangebot aller Ostsee-Anrainerländer präsentiert. Gefördert wird das Event von der Stadt Schleswig, dem EU-Landesprogramm Ländlicher Raum, dem EU-Programm LEADER, der Aktivregion Schlei-Ostsee sowie Kurs Kultur und der Kulturstiftung des Kreises Schleswig-Flensburg.
@@ -96,32 +94,32 @@ Die Gewinner wurden gezogen! Je zwei Gästelistenplätze haben gewonnen: Spontan
 Weitere Infos zum NORDEN Festival findet Ihr unter [www.norden-festival.com.](http://www.norden-festival.com)
 
 <Gallery
-images={\[
-{
-mediumUrl:
-'https://storage.googleapis.com/cardamonchai-images/2018_07_Sauna-auf-dem-Festival.png__m.jpg',
-largeUrl:
-'https://storage.googleapis.com/cardamonchai-images/2018_07_Sauna-auf-dem-Festival.png__l.jpg',
-},
-{
-mediumUrl:
-'https://storage.googleapis.com/cardamonchai-images/2018_07_North-Art-Collektive.jpeg__m.jpg',
-largeUrl:
-'https://storage.googleapis.com/cardamonchai-images/2018_07_North-Art-Collektive.jpeg__l.jpg',
-},
-{
-mediumUrl:
-'https://storage.googleapis.com/cardamonchai-images/2018_07_Andrea-Hejlkov.jpeg__m.jpg',
-largeUrl:
-'https://storage.googleapis.com/cardamonchai-images/2018_07_Andrea-Hejlkov.jpeg__l.jpg',
-},
-{
-mediumUrl:
-'https://storage.googleapis.com/cardamonchai-images/2018_07_Baumklettern.jpeg__m.jpg',
-largeUrl:
-'https://storage.googleapis.com/cardamonchai-images/2018_07_Baumklettern.jpeg__l.jpg',
-},
-\]}
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_07_Sauna-auf-dem-Festival.png__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_07_Sauna-auf-dem-Festival.png__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_07_North-Art-Collektive.jpeg__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_07_North-Art-Collektive.jpeg__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_07_Andrea-Hejlkov.jpeg__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_07_Andrea-Hejlkov.jpeg__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_07_Baumklettern.jpeg__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2018_07_Baumklettern.jpeg__l.jpg',
+    },
+  ]}
 />
 
 <small>Fotos: NORDEN Festival</small>
