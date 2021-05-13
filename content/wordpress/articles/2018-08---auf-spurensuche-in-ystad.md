@@ -55,28 +55,28 @@ Doch der Besuch lohnt sich nicht nur aus diesem Grund sehr. Ystad ist wirklich s
 
 Ein Mann liegt im Regen. Enthüllt, erloschen.
 
-Der Kommissar nippt an seinem Kaffee. Runzelt die Stirn.
-
-Eine Katze schleicht um die Ecke. Ihr Blick folgt einer tieffliegenden Schwalbe.
-
-Der Geruch von Regen hängt noch in der Luft. Schwer und süß.
-
-Leider ist mir sein Name entfallen. Ich kannte ihn. Er ist mir schon mal begegnet.
-
-Das Kopfsteinpflaster glänzt vor Nässe. Blut mischt sich mit einer Pfütze.
-
-Der Ermittler zückt seinen Block. Räuspert sich und nickt.
-
-Es muss gegen zwei Uhr nachts passiert sein. Durch den Sturm fand man ihn erst jetzt.
-
-Bitte bleiben Sie hinter der Absperrung. Es gibt hier nichts zu sehen.
-
-Schwarzer Kaffee, wenig Schlaf. Kaltes Licht fällt auf aschfahle Haut.
-
-Die Lüftung surrt. Etwas ist seltsam.
-
-Halten Sie das zunächst von der Presse fern. Es könnte uns in Gefahr bringen.
-
-Der Aktenberg. Die Angehörigen. Der Abend am Steg. Am Strand ist es still.
+> Der Kommissar nippt an seinem Kaffee. Runzelt die Stirn.
+> 
+> Eine Katze schleicht um die Ecke. Ihr Blick folgt einer tieffliegenden Schwalbe.
+> 
+> Der Geruch von Regen hängt noch in der Luft. Schwer und süß.
+> 
+> Leider ist mir sein Name entfallen. Ich kannte ihn. Er ist mir schon mal begegnet.
+> 
+> Das Kopfsteinpflaster glänzt vor Nässe. Blut mischt sich mit einer Pfütze.
+> 
+> Der Ermittler zückt seinen Block. Räuspert sich und nickt.
+> 
+> Es muss gegen zwei Uhr nachts passiert sein. Durch den Sturm fand man ihn erst jetzt.
+> 
+> Bitte bleiben Sie hinter der Absperrung. Es gibt hier nichts zu sehen.
+> 
+> Schwarzer Kaffee, wenig Schlaf. Kaltes Licht fällt auf aschfahle Haut.
+> 
+> Die Lüftung surrt. Etwas ist seltsam.
+> 
+> Halten Sie das zunächst von der Presse fern. Es könnte uns in Gefahr bringen.
+> 
+> Der Aktenberg. Die Angehörigen. Der Abend am Steg. Am Strand ist es still.
 
 <Gallery name="flickr/annewallanderystadkrimi2018rosenschoen" />
