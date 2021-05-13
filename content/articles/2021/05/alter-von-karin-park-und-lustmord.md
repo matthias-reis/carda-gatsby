@@ -1,17 +1,17 @@
 ---
-date: 2021-05-09T12:54:00Z
+date: 2021-05-09T12:54:00.000+00:00
 labels:
-  - Ambient
-  - Dark Ambient
-  - Post-Rock
-  - Horrorsound
-  - Soundtrack
-  - cinematic
-  - English & German
-  - Karin Park
-  - Pelagic
-  - Bands
-  - Review
+- Ambient
+- Dark Ambient
+- Post-Rock
+- Horrorsound
+- Soundtrack
+- cinematic
+- English & German
+- Karin Park
+- Pelagic
+- Bands
+- Review
 language: de
 slug: karin-park-lustmord-alter
 typeName: Review
@@ -19,17 +19,21 @@ title: '"Alter" von Karin Park und Lustmord'
 subTitle: Faszinierende Horrorsounds
 seoTitle: '"Alter" von Karin Park & Lustmord – Faszinierende Horrorsounds'
 ogTitle: ''
-description: Eine neue Perle aus dem Dark Ambient Sektor wird schon bald das Licht der Welt erblicken. Karin Park und Lustmord machen gemeinsame Sache.
-excerpt: 'English & German – Alle, die mit düsteren Klängen etwas anfangen können, sollten diesem Musiktipp auf jeden Fall ihre Aufmerksamkeit schenken. Denn: Schon bald erscheint eine neue Perle auf diesem Gebiet – "Alter" ist eine Kooperation von Lustmord und Karin Park von Årabrot.'
-image: '/img/2021-05-dark-ambient-karin-park-lustmord-pelagic.jpg'
-ogImage: '/img/2021-05-dark-ambient-karin-park-lustmord-pelagic-fb.jpg'
+description: Eine neue Perle aus dem Dark Ambient Sektor wird schon bald das Licht
+  der Welt erblicken. Karin Park und Lustmord machen gemeinsame Sache.
+excerpt: 'English & German – Alle, die mit düsteren Klängen etwas anfangen können,
+  sollten diesem Musiktipp auf jeden Fall ihre Aufmerksamkeit schenken. Denn: Schon
+  bald erscheint eine neue Perle auf diesem Gebiet – "Alter" ist eine Kooperation
+  von Lustmord und Karin Park von Årabrot.'
+image: "/img/2021-05-dark-ambient-karin-park-lustmord-pelagic.jpg"
+ogImage: "/img/2021-05-dark-ambient-karin-park-lustmord-pelagic-fb.jpg"
 focusKeyword: Karin Park
 advertisement: false
 affiliate: false
-languageLink: /2021/05/karin-park-lustmord-alter-en
----
+languageLink: "/2021/05/karin-park-lustmord-alter-en"
 
-**Alle, die mit dem Begriff "Dark Ambient" etwas anfangen können, sollten diesem Musiktipp auf jeden Fall ihre Aufmerksamkeit schenken. Denn: Schon bald erscheint eine neue Perle auf diesem Gebiet – "Alter" ist eine Kooperation von Lustmord und Karin Park von Årabrot.**
+---
+**Alle, die sich ab und zu von etwas düsteren Klängen angezogen fühlen, sollten diesem Musiktipp auf jeden Fall ihre Aufmerksamkeit schenken. Denn: Schon bald erscheint eine neue Perle auf diesem Gebiet – "Alter" ist eine Kooperation von Lustmord und Karin Park von Årabrot.**
 
 Gute Kollaborationen haben bei Pelagic Records Tradition. Die Berliner Musikschmiede um die Post-Metal Giganten von [The Ocean](/2020/09/the-ocean-robin-staps-interview/) haben nun mal ein Gespür für hochwertige Musik. Dabei werden vor allem die Post-Musik Genres bedient. Dazu zählt unter anderem auch die Dark Ambient Ecke.
 
