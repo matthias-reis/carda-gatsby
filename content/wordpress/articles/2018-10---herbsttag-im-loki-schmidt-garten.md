@@ -36,8 +36,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Astern, Bienen und Sonnenschein
-year: "2018"
-month: "10"
+year: '2018'
+month: '10'
 
 ---
 _Bildergalerie_
@@ -47,7 +47,7 @@ _Bildergalerie_
 Also rein in die S-Bahn und die drei Stationen bis zum _Loki Schmidt Garten_ mit dem Einstellen der Kamera und Vorfreude verbringen.
 
 Dort angekommen, waren wir ziemlich überrascht. Soviel, wie wir zuerst vermutet hatten, war gar nicht los. Wir hatten also schön Zeit, zu zweit ein Bisschen zu schlendern. Der Garten ist im Herbst wirklich immer wieder ein Genuss. Einfach wunderbar, was um diese Jahreszeit noch alles blüht.
-
+---
 <blockquote>
 
 ## Ein sonniger Herbsttag
@@ -79,11 +79,3 @@ Fällt mit ihm vereint sanft wieder zu Boden. Und nährt die kommenden Generatio
 </blockquote>
 
 <Gallery name="herbstloki18" />
-
-## Wegweiser Loki Schmidt Garten
-
-1.  [Indian Summer im Loki Schmidt Garten](/2015/09/indian-summer-im-loki-schmidt-garten/)
-1.  [Spätsommer im Loki Schmidt Garten](/2016/08/spaetsommer-loki-schmidt-garten/)
-1.  [Frühlingsboten im Loki Schmidt Garten](/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/)
-1.  [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/)
-1.  Herbsttag im Loki Schmidt Garten
