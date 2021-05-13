@@ -1,26 +1,29 @@
 ---
-date: 2020-02-18T17:36:03.000Z
+date: 2020-02-18T17:36:03.000+00:00
 slug: 2019-08-20-lands-end-england
-path: /2020/02/2019-08-20-lands-end-england/
+path: "/2020/02/2019-08-20-lands-end-england/"
 type: Galerie mit Bild
 typeName: Galerie mit Bild
 title: Land's End
 seoTitle: Land's End - am westlichsten Punkt Englands
 ogTitle: Land's End - am westlichsten Punkt Englands
-description: Land's End ist immer eine Reise wert. Der westlichste Punkt Englands lädt zum Träumen ein und ist Ausgangspunkt für tolle Wanderungen.
-excerpt: Land's End ist immer eine Reise wert. Der westlichste Punkt Englands lädt zum Träumen ein und ist Ausgangspunkt für tolle Wanderungen.
+description: Land's End ist immer eine Reise wert. Der westlichste Punkt Englands
+  lädt zum Träumen ein und ist Ausgangspunkt für tolle Wanderungen.
+excerpt: Land's End ist immer eine Reise wert. Der westlichste Punkt Englands lädt
+  zum Träumen ein und ist Ausgangspunkt für tolle Wanderungen.
 fileName: 2020-02---lands-end.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2019-08-20-lands-end-7__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2019-08-20-lands-end-7__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAoEAABAwMDBAEFAQAAAAAAAAABAgMEABEhBRIxBhMUQVEiJDJhgfH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQACBv/EACMRAAEEAQMEAwAAAAAAAAAAAAIAAQMRIQQFEhMxgfBRcbH/2gAMAwEAAhEDEQA/AEMHqN5IA8CN/XFU3R1I/wBhx0wInbaSVqVvWbAf7WfabqTciChpEmM5OS5tcUokYzwgWuSLG98fFPWoEfXpCFaq7HgadGuQ2hwsrfAAJyQQbgc834pwWtDp84xv34u/CThpSeTjIVe/VeVQSepH0oB8OCQoBQPcVkHgip/UupXFXT4cK/wHFGqHp/T4U1uSmEw6jRo7wbT30grWoj6QVZKEgXJAIvjHNOvtYTM6HBj+MXS2Ut7M2G7clQGc3Hs+qDNu8UdCw2X4rxbfIbu/LCyCNF0ee8yqWiSH3EBHcQENjg5N+eDk04jvKK2QXdjSEJCkPJB3lv8AD1cgYHwRziiisoREOGfsn10zrs0/qxemOLu13EPyFFe1YQCcg7kjBIFrH9U21PqNqUyUuy1R21ElTiUZsLEAXtcEe6KKjZy6D1Spf//Z
-ogImage: null
+ogImage: 
 labels:
-  - Atlantik
-  - Britische Inseln
-  - Cornwall
-  - England
-  - Großbritannien
-  - Land's End
+- Atlantik
+- Britische Inseln
+- Cornwall
+- England
+- Großbritannien
+- Land's End
+- serie:England 2019
 focusKeyword: Land's End
 status: publish
 isWerbung: false
@@ -28,8 +31,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Am westlichsten Punkt Englands
----
 
+---
 **Nach unserem [Festivalbesuch](/2019/09/arctangent-festival-2019-2/) in England im letzten Spätsommer hatten wir noch etwas Zeit, die wir für eine kleine Tour durch Cornwall nutzten. Sie führte uns am 20. August auch an der Landzunge von Land's End vorbei.**
 
 Die Felsen am westlichsten Punkt von Englands Hauptinsel ziehen uns bei unseren Besuchen in dieser Gegend immer wieder an. Auch, wenn das Gebiet von Touristen ziemlich eingenommen ist (es gibt dort inzwischen sogar einen Themenpark!), ist es einfach zu schön, um es zu umfahren. Außerdem kann man von dort aus ganz wunderbare Küstenwanderungen unternehmen.
