@@ -1,29 +1,32 @@
 ---
-date: 2018-10-02T04:44:53.000Z
+date: 2018-10-02T04:44:53.000+00:00
 slug: mutterglueck-und-morgensonne-vaenern
-path: /2018/10/mutterglueck-und-morgensonne-vaenern/
+path: "/2018/10/mutterglueck-und-morgensonne-vaenern/"
 type: Galerie
 typeName: Galerie
 title: Mutterglück und Morgensonne
 seoTitle: Mutterglück & Morgensonne - Der Wasservogel-Kindergarten vom Vänern
 ogTitle: Mutterglück & Morgensonne - Der Wasservogel-Kindergarten vom Vänern
-description: So sieht perfektes Mutterglück aus, oder? Ein schöner Spaziergang durch die Hood mit den Besten und den lieben Kleinen gefolgt von einem Bad im See.
-excerpt: Ihr habt gedacht, Ihr habt schon alle Fotoserien gesehen, die ich im Juni am Vänern aufgenommen habe? Eine fehlt noch.  Sie zeigt das perfekte Mutterglück.
+description: So sieht perfektes Mutterglück aus, oder? Ein schöner Spaziergang durch
+  die Hood mit den Besten und den lieben Kleinen gefolgt von einem Bad im See.
+excerpt: Ihr habt gedacht, Ihr habt schon alle Fotoserien gesehen, die ich im Juni
+  am Vänern aufgenommen habe? Eine fehlt noch.  Sie zeigt das perfekte Mutterglück.
 fileName: 2018-10---mutterglueck-und-morgensonne.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44950157941_ab64ff0946_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44950157941_ab64ff0946_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwT/xAApEAABAwMDBAEEAwAAAAAAAAABAgMEAAUREiFBBhMxURQHImGRcYGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQDBQb/xAAgEQACAgEEAwEAAAAAAAAAAAABAgARAwQSIUEFIzHx/9oADAMBAAIRAxEAPwCkbabd7uqOIj7SgolxStx7Hukl46qt9nuPxH1d6QkBS22320Yz7Kj/AJimXUsS8zmSiHc3o0dKCoiMMLWeNThVsP4H7qYvnRbdusK7lMnNRWCQkBY0Lf8AGSnTudzuTjms1h0+nanY7r6Fxyieo0gdSmfDMixsiSA/2XWnVAONrV4O2QpOOR6qY62U7Otq5j8D4brqVNbrCg6oq0oGODzn1Tz6dpiNRpUiQHXISx8YPJOUntbqUo/jUE/nenXVFvgzrJLValxiShSiMDIUOc+R+vFMALhfcg4v9gtjaria1z7ulJj9wB5tCipGg9hvG6Rnn0fPA4rb6pPLu0qLGc+9liO2ltPgEaQTj+6KKV8S/tPHQMgs19kG1c51ggyY0dS/iOL1loHYHk132N19MlL7cp1pqWsNttqVlTmWyFA8AbjjzRRV3mACkgQ0cn7P/9k=
-ogImage: null
+ogImage: 
 labels:
-  - Enten
-  - Fernweh
-  - Gänse
-  - Mutterglück
-  - Schweden
-  - Schweden2018
-  - Skandinavien
-  - Vänern
-  - Wasservögel
+- Enten
+- Fernweh
+- Gänse
+- Mutterglück
+- Schweden
+- Schweden2018
+- Skandinavien
+- Vänern
+- Wasservögel
+- serie:Schweden 2018
 focusKeyword: Mutterglück
 status: publish
 isWerbung: false
@@ -31,8 +34,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Der Wasservogel-Kindergarten vom Vänern
----
 
+---
 **Ihr habt gedacht, Ihr habt alle Fotoserien gesehen, die ich diesen Sommer am Vänern aufgenommen habe? Weit gefehlt. Eine ganz wichtige fehlt noch. Entstanden ist sie am frühen Morgen des 29. Juni 2018.**
 
 Die Sonne war gerade aufgegangen und in der ganzen Umgebung war alles ruhig. Der perfekte Moment, um den Wasservogel-Kindergarten mit der Kamera zu begleiten.
