@@ -12,9 +12,9 @@ labels:
 language: en
 slug: year-of-no-light-consolamentum-en
 typeName: Review
-title: '"Consolamentum" by Year Of No Light'
+title: Year Of No Light – "Consolamentum"
 subTitle: Stories From The Dark Side
-seoTitle: '"Consolamentum" by Year Of No Light – Stories From The Dark Side'
+seoTitle: Year Of No Light – "Consolamentum" – Stories From The Dark Side
 ogTitle: ''
 description: 'Year Of No Light have finished their new album! "Consolamentum" will
   be hitting your records store soon. I already had the chance to listen to it, and
