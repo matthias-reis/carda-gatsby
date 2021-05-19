@@ -83,3 +83,5 @@ fields:
   name: languageLink
   label: Sprachlink
   description: Bitte vollständig angeben (/2021/04/titel)
+pages:
+- content/articles/2021/05/vegane-salami-pizza.md
