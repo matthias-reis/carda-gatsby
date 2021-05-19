@@ -74,4 +74,4 @@ Die "Gemüseparty" fand ich auch super. Ich empfehle Euch, sie mit etwas Salz un
 
 So funktioniert's: Gebt einfach bei Eurem Einkauf den Rabattcode **ANNE-PIZZA** an!
 
-<Gallery name="vegane-salami-pizza-1" />
+<Gallery name="vegane-salami-pizza-2" />
