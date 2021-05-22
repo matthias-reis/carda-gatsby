@@ -11,6 +11,7 @@ description: Ich möchte Euch heute von einer ganz besonderen Begegnung erzähle
 excerpt: Ich möchte Euch heute von einer ganz besonderen Begegnung erzählen. Diesen Sommer habe ich das erste Mal Elche gesehen und fotografiert.
 fileName: 2018-10---ich-glaub-mich-knutscht-ein-elch.md
 image: /img/2018-06-24-skullaryd-aelgpark-158.jpg
+ogImage: /img/elch-opengraph.jpg
 labels:
   - der Elch
   - Elch
