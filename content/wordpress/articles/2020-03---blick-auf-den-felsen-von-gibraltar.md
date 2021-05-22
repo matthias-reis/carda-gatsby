@@ -1,26 +1,29 @@
 ---
-date: 2020-03-18T10:10:21.000Z
+date: 2020-03-18T10:10:21.000+00:00
 slug: corona-blick-auf-den-felsen-von-gibraltar
-path: /2020/03/corona-blick-auf-den-felsen-von-gibraltar/
+path: "/2020/03/corona-blick-auf-den-felsen-von-gibraltar/"
 type: Artikel
 typeName: Artikel
 title: Blick auf den Felsen von Gibraltar
 seoTitle: Wie es war und wie es mit Corona ist
 ogTitle: Wie es war und wie es mit Corona ist
-description: Letzten Sommer haben wir eine wunderbare Zeit in Südspanien verbracht. Langsames Reisen ohne Stress. Mit der Corona-Krise hat sich einiges geändert.
-excerpt: Letzten Sommer haben wir eine wunderbare Zeit in Südspanien verbracht. Langsames Reisen ohne Stress. Mit der Corona-Krise hat sich einiges geändert.
+description: Letzten Sommer haben wir eine wunderbare Zeit in Südspanien verbracht.
+  Langsames Reisen ohne Stress. Mit der Corona-Krise hat sich einiges geändert.
+excerpt: Letzten Sommer haben wir eine wunderbare Zeit in Südspanien verbracht. Langsames
+  Reisen ohne Stress. Mit der Corona-Krise hat sich einiges geändert.
 fileName: 2020-03---blick-auf-den-felsen-von-gibraltar.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-24-gibraltar-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-24-gibraltar-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQAEAv/EACYQAAIABQMEAgMAAAAAAAAAAAECAAMEBRESITEiQVGhEzJhcoH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFAgAB/8QAGhEBAQADAQEAAAAAAAAAAAAAAQACBEEUUf/aAAwDAQACEQMRAD8A12+2oQCEx7hmTaxpGFjNba6ToBEmqP4Ek59wtUVtQaQLb5ExJzMAXmqq6B5AJ57Qy7AdifOvLJOtfTukC3G2DSen1CyVF+p5jt8UurWaxZkmTFwpxyMEaRtjbzxGe43KatPrnWatVz2lskxc/sDt/REu1idKzVy+RturtSqC+Yap6kEfYYHJzFFATK3T16lels+STtBNxryUws047k7RRRi7f//Z
-ogImage: null
+ogImage: 
 labels:
-  - Corona
-  - Felsen von Gibraltar
-  - Fernweh
-  - Gibraltar
-  - Klima- & Umweltschutz
-  - Slow traveling
+- Corona
+- Felsen von Gibraltar
+- Fernweh
+- Gibraltar
+- Klima- & Umweltschutz
+- Slow traveling
+- serie:Spanien 2019
 focusKeyword: Corona
 status: publish
 isWerbung: false
@@ -28,8 +31,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Wie es war und wie es mit Corona ist
----
 
+---
 **Letzten Sommer haben wir eine wunderbare Zeit in Südspanien verbracht. Langsames Reisen ohne Stress, einfach mal treiben lassen. Mit im Gepäck war immer die Sonne - bei 35 bis 48 Grad wurde uns manchmal ganz schön warm.**
 
 Eigentlich hatte ich mir vorgenommen, einen klassischen Reisebericht zu veröffentlichen. Ganz, wie Ihr es von mir gewohnt seid. Vermutlich werden die Bildergalerien, die ich vorbereitet habe, mich zum Teil auch in diese Richtung inspirieren. Doch diese Bilder, die ich kurz vor Gibraltar aufgenommen habe, haben mich nachdenklich gestimmt. Wie weit das plötzlich alles entfernt zu sein scheint - nicht nur räumlich.
