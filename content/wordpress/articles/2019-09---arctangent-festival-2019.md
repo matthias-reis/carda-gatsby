@@ -25,7 +25,7 @@ labels:
 - Post-Metal
 - Post-Rock
 - Sumerset
-- Serie:England 2019
+- serie:England 2019
 focusKeyword: ArcTanGent
 status: publish
 isWerbung: false
