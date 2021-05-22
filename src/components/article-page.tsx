@@ -6,11 +6,9 @@ import { Link as GatsbyLink } from 'gatsby';
 import { Link } from './link';
 import { Interactions } from './interactions';
 import { Title, Subtitle } from './typo';
-import { HR } from './hr';
 import { Container } from './container';
 import { ArticleSeries } from './article-series';
 import { ArticleLabels } from './article-labels';
-import { ArticleComments } from './article-comments';
 import { ArticleRecommendations } from './article-recommendations';
 import { FooterNavigation } from './footer-navigation';
 
@@ -18,6 +16,8 @@ import { space, color, fontSize } from '../style';
 import { Article as ArticleMeta, CompactArticle } from '../types';
 import { CardaImage } from './carda-image';
 import { PageMeta } from './page-meta';
+
+import iconUrl from '../assets/signature-icon.jpg';
 
 const ArticleContainer = Container.withComponent('article');
 
@@ -61,7 +61,7 @@ export const ArticlePage: React.FC<ArticleProps> = ({
           <Subtitle>{meta.frontmatter.subTitle}</Subtitle>
         )}
         <MetaArea>
-          <Icon />
+          <Icon src={iconUrl} />
           <Meta>
             <div>
               {getType(meta)} von Anne &mdash;{' '}
@@ -120,11 +120,9 @@ type ArticleProps = {
   series: Record<string, CompactArticle[]>;
 };
 
-const Icon = styled.div`
-  background: ${color.overlay30};
-  height: 36px;
-  width: 36px;
-  border-radius: 18px;
+const Icon = styled.img`
+  height: 75px;
+  width: 75px;
   margin-right: ${space[1]};
   flex: 0 0 auto;
 `;
