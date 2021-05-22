@@ -1,11 +1,13 @@
 ---
 date: 2021-05-02T17:21:42.000+00:00
 labels:
-  - Align in Time
-  - Interview
-  - Post-Rock
-  - English & German
-  - Bands
+- Align in Time
+- Interview
+- Post-Rock
+- English & German
+- Bands
+- interview
+- interviews
 language: en
 slug: align-in-time-interview-en
 typeName: Interview
@@ -13,16 +15,21 @@ title: John Boles aka Align in Time
 subTitle: '"My Music Is Biographical"'
 seoTitle: Align in Time Interview  – "My Music Is Biographical"
 ogTitle: ''
-description: Align in Time is a one-person post-rock project from Providence, Rhode Island. The founder is multi-instrumentalist John Boles. On 7 May, he re-released some of his songs as acoustic versions on his EP "Men Without Chests & I Go Too".
-excerpt: Align in Time is a one-person post-rock project from Providence, Rhode Island. The founder is multi-instrumentalist John Boles. On 7 May, he re-released some of his songs as acoustic versions on his EP "Men Without Chests & I Go Too". Time for an interview.
-image: '/img/2021-05-align-in-time-john-boles.jpeg'
-ogImage: '/img/2021-05-align-in-time-2.jpg'
+description: Align in Time is a one-person post-rock project from Providence, Rhode
+  Island. The founder is multi-instrumentalist John Boles. On 7 May, he re-released
+  some of his songs as acoustic versions on his EP "Men Without Chests & I Go Too".
+excerpt: Align in Time is a one-person post-rock project from Providence, Rhode Island.
+  The founder is multi-instrumentalist John Boles. On 7 May, he re-released some of
+  his songs as acoustic versions on his EP "Men Without Chests & I Go Too". Time for
+  an interview.
+image: "/img/2021-05-align-in-time-john-boles.jpeg"
+ogImage: "/img/2021-05-align-in-time-2.jpg"
 focusKeyword: Align in Time
 advertisement: false
 affiliate: false
-languageLink: /2021/05/align-in-time-interview
----
+languageLink: "/2021/05/align-in-time-interview"
 
+---
 **Align in Time is a one-person post-rock project from Providence, Rhode Island. The founder is multi-instrumentalist John Boles. On 7 May, he re-released some of his songs as acoustic versions on his EP "Men Without Chests & I Go Too". Time to ask him a few questions.**
 
 **Anne:** Hi John! First of all: Thanks for getting in touch and sending me your music! Your previous record, "On A Spiral", is pretty excellent! How are you doing today?
