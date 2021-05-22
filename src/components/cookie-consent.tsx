@@ -6,8 +6,14 @@ import { Link } from './link';
 import { color, space, width, font, fontSize } from '../style';
 
 export const CookieConsent: React.FC = () => {
-  const hasCookie = document.cookie.indexOf('consent=yes') > -1;
-  const [isVisible, setIsVisible] = React.useState(!hasCookie);
+  const [isVisible, setIsVisible] = React.useState(true);
+
+  React.useEffect(() => {
+    if (document.cookie.indexOf('consent=yes') > -1) {
+      setIsVisible(false);
+    }
+  }, [setIsVisible]);
+
   const disableCookie = () => {
     document.cookie =
       'consent=yes;path=/;expires=Wed, 21 Jul 2100 07:00:00 GMT';
