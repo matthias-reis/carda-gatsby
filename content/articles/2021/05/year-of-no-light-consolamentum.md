@@ -1,14 +1,14 @@
 ---
 date: 2021-05-18T08:07:00+02:00
 labels:
-- australian post-rock
-- " post-rock"
-- Year Of No Light
-- Review
-- Bands
-- Drone
-- Pelagic
-- Post-Metal
+  - australian post-rock
+  - ' post-rock'
+  - Year Of No Light
+  - Review
+  - Bands
+  - Drone
+  - Pelagic
+  - Post-Metal
 language: de
 slug: year-of-no-light-consolamentum
 typeName: Review
@@ -16,20 +16,16 @@ title: Year Of No Light – "Consolamentum"
 subTitle: Geschichten aus der Dunkelheit
 seoTitle: Year of No Light – "Consolamentum" – Rock 'n Roll vegan Review
 ogTitle: ''
-description: Year of No Light haben ihr neues Album fertig! "Consolamentum" erscheint
-  diesen Sommer. Ich hatte schon Gelegenheit, es zu hören.
-excerpt: 'English & German – Year Of No Light haben ihr neues Album fertig! "Consolamentum"
-  wird diesen Sommer erscheinen. Ich hatte die Gelegenheit, es schon zu hören und
-  muss sagen: Die Platte ist etwas Besonderes. Die Aufnahme in Eure Sammlung solltet
-  Ihr unbedingt in Erwägung ziehen.'
-image: "/img/year-of-no-light.jpg"
-ogImage: "/img/year-of-no-light-fb.png"
+description: Year of No Light haben ihr neues Album fertig! "Consolamentum" erscheint diesen Sommer. Ich hatte schon Gelegenheit, es zu hören.
+excerpt: 'English & German – Year Of No Light haben ihr neues Album fertig! "Consolamentum" wird diesen Sommer erscheinen. Ich hatte die Gelegenheit, es schon zu hören und muss sagen: Die Platte ist etwas Besonderes. Die Aufnahme in Eure Sammlung solltet Ihr unbedingt in Erwägung ziehen.'
+image: '/img/year-of-no-light.jpg'
+ogImage: '/img/year-of-no-light-fb.png'
 focusKeyword: Year Of No Light
 advertisement: false
 affiliate: false
-languageLink: "/year-of-no-light-consolamentum-en"
-
+languageLink: '/year-of-no-light-consolamentum-en'
 ---
+
 **Year Of No Light haben ihr neues Album fertig! "Consolamentum" wird diesen Sommer erscheinen. Ich hatte die Gelegenheit, es schon zu hören und muss sagen: Die Platte ist etwas Besonderes. Die Aufnahme in Eure Sammlung solltet Ihr unbedingt in Erwägung ziehen.**
 
 Das Album startet mit dem düsteren Opener "Objuration". Er lässt mich tief hinuntersteigen in eine finstere Höhle. Nur ein kleiner Hauch Licht fällt durch einen Riss zu mir hinunter. Das Stück hält einige überraschende Wendungen für mich bereit. Insgesamt überzeugt es durch einen sagenhaften Mix aus Härte, Verspieltheit und Präzision. Mit 12:47 Minuten ein gehaltvoller Opener. Ich will sofort mehr hören.
@@ -46,7 +42,9 @@ Das Oscar-reife Video zu Réalgar müsst Ihr gesehen haben. Doch das Stück ist 
 
 ### Die komplette Year Of No Light Diskografie in einer Holzbox
 
-![](/img/year-of-no-light-3.png)In diesem Jahr feiern die Post-Rocker ihr zwanzigstes Jubiläum. Um das gehörig zu feiern, veröffentlichen Pelagic Records nicht nur ihr neues Album "Consolamentum". Es wird außerdem ein hölzernes Box-Set geben, das die komplette Diskographie der Band inklusive fünf Studioalben, verschiedenen Split EPs und der Collaboration mit dem belgischen Komponisten Dirk Serries aus der "Live At Roadburn" Recordings-Reihe erhält. Insgesamt umfasst das Set 12 Vinylplatten.
+![Year Of No Light](/img/year-of-no-light-3.png)
+
+In diesem Jahr feiern die Post-Rocker ihr zwanzigstes Jubiläum. Um das gehörig zu feiern, veröffentlichen Pelagic Records nicht nur ihr neues Album "Consolamentum". Es wird außerdem ein hölzernes Box-Set geben, das die komplette Diskographie der Band inklusive fünf Studioalben, verschiedenen Split EPs und der Collaboration mit dem belgischen Komponisten Dirk Serries aus der "Live At Roadburn" Recordings-Reihe erhält. Insgesamt umfasst das Set 12 Vinylplatten.
 
 Year Of No Light sind schon immer vom Fall der Menschheit und der Erlösung durch die Dunkelheit fasziniert. Dem neuen Album hört man das wieder wunderbar an. Und auch der Titel hat eine tiefere Bedeutung: "Consolamentum" steht für das Sakrament, das Initiationsritual der Kathartischen Kirche, die ihre Blütezeit in Europa vom 12. bis zum 14. Jahrhundert hatte. Bei dem Ritual wurden ewige Enthaltsamkeit und das Eintauchen in den Heiligen Geist geschworen.
 
@@ -62,7 +60,9 @@ Hinter der Liebe für bewegte Bilder steckt das persönliche Interesse der Bandm
 
 ### "Consolamentum" steht für musikalische Hingabe
 
-![](/img/year-of-no-light-1.jpeg)Mit "Consolamentum" gehen Year Of No Light noch einen Schritt weiter, als mit ihren Vorgängeralben. Ob die teilweise sehr düsteren, ja beklemmend wirkenden Parts von der derzeitigen Weltlage beeinflusst wurden, mag vage Vermutung sein. Mit dem Thema der Platte haben sich die sechs Musiker⋆innen definitiv eines ausgesucht, das wie für sie gemacht ist. Year Of No Light sagen dazu
+![Year Of No Light](/img/year-of-no-light-1.jpeg)
+
+Mit "Consolamentum" gehen Year Of No Light noch einen Schritt weiter, als mit ihren Vorgängeralben. Ob die teilweise sehr düsteren, ja beklemmend wirkenden Parts von der derzeitigen Weltlage beeinflusst wurden, mag vage Vermutung sein. Mit dem Thema der Platte haben sich die sechs Musiker⋆innen definitiv eines ausgesucht, das wie für sie gemacht ist. Year Of No Light sagen dazu
 
 > "Für uns ist es eine Frage der musikalischen Hingabe. Wir machen Musik gegen die moderne Zeit. Wir wünschen uns Intensität, Trance, Höhepunkte und Bedrohungen – alles eingebettet in ein bipolares und schwermütiges Ethos."
 

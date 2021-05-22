@@ -1,14 +1,14 @@
 ---
 date: 2021-05-18T19:34:42+02:00
 labels:
-- Forks Over Knives
-- " Gabel statt Skalpell"
-- Ernährung
-- Ernährung & Gesundheit
-- Bücher & Filme
-- vegane Dokumentation
-- vegane Doku
-- vegane Filme
+  - Forks Over Knives
+  - Gabel statt Skalpell
+  - Ernährung
+  - Ernährung & Gesundheit
+  - Bücher & Filme
+  - vegane Dokumentation
+  - vegane Doku
+  - vegane Filme
 language: de
 slug: forks-over-knives
 typeName: Filmtipp
@@ -16,20 +16,17 @@ title: Forks Over Knives
 subTitle: Mehr als nur ein Lieblingsfilm
 seoTitle: '"Forks Over Knives" – mehr als nur ein Lieblingsfilm – Ernährungs-Doku'
 ogTitle: ''
-description: '"Forks Over Knives" würde ich vermutlich als Erstes sagen, wenn Ihr
-  mich nach meinen Lieblings-Dokus rund ums Thema Veganismus fragen würdet.'
-excerpt: '"Forks Over Knives" würde ich vermutlich als Erstes sagen, wenn Ihr mich
-  nach meinen Lieblings-Dokus rund ums Thema Veganismus fragen würdet. Der Film gehört
-  zu den wenigen, die ich mir immer wieder ansehe und das nicht ohne Grund.'
-image: "/img/forks-over-knives.jpg"
-ogImage: "/img/forks-over-knives-fb.jpg"
+description: '"Forks Over Knives" würde ich vermutlich als Erstes sagen, wenn Ihr mich nach meinen Lieblings-Dokus rund ums Thema Veganismus fragen würdet.'
+excerpt: '"Forks Over Knives" würde ich vermutlich als Erstes sagen, wenn Ihr mich nach meinen Lieblings-Dokus rund ums Thema Veganismus fragen würdet. Der Film gehört zu den wenigen, die ich mir immer wieder ansehe und das nicht ohne Grund.'
+image: '/img/forks-over-knives.jpg'
+ogImage: '/img/forks-over-knives-fb.jpg'
 focusKeyword: Forks Over Knives
 advertisement: false
 affiliate: false
 languageLink: ''
-
 ---
-**"Forks Over Knives" würde ich vermutlich als Erstes sagen, wenn Ihr mich nach** [**meinen Lieblings-Dokus**](https://cardamonchai.com/category/lifestyle/buecher-filme/) **rund ums Thema Veganismus fragen würdet. Der Film gehört zu den wenigen, die ich mir immer wieder ansehe und das nicht ohne Grund.**
+
+**"Forks Over Knives" würde ich vermutlich als Erstes sagen, wenn Ihr mich nach [meinen Lieblings-Dokus](https://cardamonchai.com/category/lifestyle/buecher-filme/) rund ums Thema Veganismus fragen würdet. Der Film gehört zu den wenigen, die ich mir immer wieder ansehe und das nicht ohne Grund.**
 
 Ich stelle Euch heute also mal wieder einen Film vor. Obwohl "Forks Over Knives" eigentlich so viel mehr ist als das, doch dazu später mehr.
 
