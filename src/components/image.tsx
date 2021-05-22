@@ -35,7 +35,6 @@ const FloatingImageContainer = styled.span`
 
 const FixedImageContainer = styled.span`
   display: block;
-  background: #ddd;
   margin: 0 0 ${space[1]} 0;
   & span {
     display: block;

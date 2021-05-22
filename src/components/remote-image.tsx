@@ -13,8 +13,7 @@ export const RemoteImage: React.FC<{
   largeUrl?: string;
 }> = ({ alt, title, size, loadingUrl, largeUrl, mediumUrl }) => {
   const isLarge = size === 'large' || size === 'full';
-  const Container =
-    isLarge ? FixedImageContainer : FloatingImageContainer;
+  const Container = isLarge ? FixedImageContainer : FloatingImageContainer;
   const src = isLarge ? largeUrl : mediumUrl;
   return (
     <Container>
@@ -49,7 +48,6 @@ const FloatingImageContainer = styled.div`
 `;
 
 const FixedImageContainer = styled.div`
-  background: #ddd;
   margin: 0 0 ${space[1]} 0;
   & span {
     display: block;
