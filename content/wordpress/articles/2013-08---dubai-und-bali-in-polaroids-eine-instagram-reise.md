@@ -1141,13 +1141,3 @@ Vom Zauber des Augenblicks berichten diese Polaroids aus Dubai und Bali, die ich
     },
   ]}
 />
-
-## Inhaltsverzeichnis "Unsere große Reise"
-
-1.  [Dubaiimpressionen](/2013/07/dubai/)
-1.  [Traditioneller Barongtanz auf Bali](/2013/07/traditioneller-barong-tanz-auf-bali/)
-1.  [Handwerk und Kunst auf Bali](/2013/08/handwerk-und-kunst-auf-bali/)
-1.  [Bali aus dem Autofenster](/2013/08/bali-aus-dem-autofenster/)
-1.  [Flora und Fauna auf Bali](/2013/08/flora-fauna-ackerbau-und-viehzucht-auf-bali/)
-1.  [Tempel und Religion auf Bali](http://2013/08/tempel-und-religion-auf-bali/)
-1.  [Unsere große Reise in Polaroids](/2013/08/dubai-und-bali-in-polaroids/)
