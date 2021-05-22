@@ -1,38 +1,41 @@
 ---
 date: 2018-02-07T17:12:19.000+00:00
 slug: muckross-house-und-torc-waterfall-irland
-path: '/2018/02/muckross-house-und-torc-waterfall-irland/'
+path: "/2018/02/muckross-house-und-torc-waterfall-irland/"
 type: Galerie mit Bild
 typeName: Galerie mit Bild
 title: Muckross House und Torc Waterfall
 seoTitle: Muckross House und Torc Waterfall - Herrenhaus und Nationalpark
 ogTitle: Muckross House und Torc Waterfall - Herrenhaus und Nationalpark
-description: Muckross House und der Torc Waterfall am Torc Mountain laden zu ausgedehnten Wanderungen und Fototouren ein. Irland ist einfach etwas ganz Besonderes.
-excerpt: Muckross House und der Torc Waterfall am Torc Mountain laden zu ausgedehnten Wanderungen und Fototouren ein. Irland zeigt sich hier mal wieder von seiner schönsten Seite
+description: Muckross House und der Torc Waterfall am Torc Mountain laden zu ausgedehnten
+  Wanderungen und Fototouren ein. Irland ist einfach etwas ganz Besonderes.
+excerpt: Muckross House und der Torc Waterfall am Torc Mountain laden zu ausgedehnten
+  Wanderungen und Fototouren ein. Irland zeigt sich hier mal wieder von seiner schönsten
+  Seite
 fileName: 2018-02---muckross-house-und-torc-waterfall.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_26256478218_f6db488e06_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_26256478218_f6db488e06_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAJxAAAgEDBAICAQUAAAAAAAAAAQIDBAURABIhMQYTQVFhByJxofH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQAD/8QAHhEAAwABBAMAAAAAAAAAAAAAAAECIQMEIjETFFH/2gAMAwEAAhEDEQA/AOWWnpYXjKQ+wjALZCquT1n7+hpyoDbKWm9kMtPMdu7Ixnjnr71mv6eX43XxeKkCSVFbT1SGRJW3gqQcON3zn4+NW9FX2+nttCkslAjvHuZqnKnlm7JGM8fjjrR9lp5F4k0N11ulErJRwMHqWVZH62hSf5GDpJ8kinZCgiJA79f7g35406VFy8doZzsutJBTEOGaJdgCsqgksQSeSNJnmHlFDGsIs9dS1cM6M82FZNrZ2ptwBnvnPejO55cujVpJTjswS1XKpttR76SRkkBwCDj/AEfjTDH5xd5CgmeOROwjIMAj560aNComstEbJJ77cnqXlhq5YHcnd68AHPGMYxjk6qxebhGm+esqJkAAC78f3zo0a5zK+FTZ/9k=
-ogImage:
+ogImage: 
 labels:
-  - Archititektur
-  - Bourne Vincent Nationalpark
-  - Britische Inseln
-  - Fernweh
-  - Grüne Insel
-  - Herrenhaus
-  - Ireland
-  - Irland
-  - Irland2017
-  - Muckross House
-  - Nationalpark
-  - Reise
-  - Torc Mountain
-  - Torc Waterfall
-  - Wandern
-  - Wasserfall
-  - William Burn
-  - 'serie: Irland 2017'
+- Archititektur
+- Bourne Vincent Nationalpark
+- Britische Inseln
+- Fernweh
+- Grüne Insel
+- Herrenhaus
+- Ireland
+- Irland
+- Irland2017
+- Muckross House
+- Nationalpark
+- Reise
+- Torc Mountain
+- Torc Waterfall
+- Wandern
+- Wasserfall
+- William Burn
+- serie:Irland 2017
 focusKeyword: Muckross House
 status: publish
 isWerbung: false
@@ -42,8 +45,8 @@ errors: {}
 subTitle: Herrenhaus und Nationalpark in Irland
 year: '2018'
 month: '02'
----
 
+---
 **Im Anschluss an unsere schöne Wanderung durch das [Gap Of Dunloe](/2018/01/gap-of-dunloe/) wechselten wir kurz unseren Ausgangspunkt, um ganz in der Nähe eine weitere beeindruckende Ecke Irlands in Augenschein zu nehmen. Muckross House und der Torc Waterfall standen auf dem Programm.**
 
 Die beeindruckende Landschaft und der Park rund um das Muckross House sind ganz in der Nähe von Killarney gelegen und von dort aus bequem zu erreichen.
