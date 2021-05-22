@@ -39,7 +39,7 @@ const ExternalLink: React.FC<{
 );
 
 export const Link: React.FC<{ href: string }> = ({ href, children }) => {
-  if ((href || '').startsWith('http')) {
+  if ((href || '').startsWith('http') || (href || '').startsWith('mailto')) {
     return (
       <ExternalLink
         href={href}
