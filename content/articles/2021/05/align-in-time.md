@@ -1,11 +1,13 @@
 ---
 date: 2021-05-10T17:21:42.000+00:00
 labels:
-  - ' Post-Rock'
-  - Interview
-  - English & German
-  - Bands
-  - Align in Time
+- " Post-Rock"
+- Interview
+- English & German
+- Bands
+- Align in Time
+- interviews
+- interview
 language: de
 slug: align-in-time-interview
 typeName: Interview
@@ -13,16 +15,20 @@ title: Align in Time
 subTitle: '"Meine Musik ist biografisch"'
 seoTitle: Align in Time im Interview – "Meine Musik ist biografisch"
 ogTitle: ''
-description: Align in Time ist ein One-Person Post-Rock Projekt aus Providence, Rhode Island. Ich habe mich mit Gründer John Boles unterhalten.
-excerpt: Align in Time ist ein One-Person Post-Rock Projekt aus Providence, Rhode Island. Gründer ist der Multiinstrumentalist John Boles. Am 7. Mai veröffentlichte einige seiner Songs als Akustikversionen auf der EP "Men Without Chests & I Go Too" neu. Zeit, ihm ein paar Fragen zu stellen.
-image: '/img/2021-05-align-in-time-john-boles.jpeg'
-ogImage: '/img/2021-05-align-in-time-2.jpg'
+description: Align in Time ist ein One-Person Post-Rock Projekt aus Providence, Rhode
+  Island. Ich habe mich mit Gründer John Boles unterhalten.
+excerpt: Align in Time ist ein One-Person Post-Rock Projekt aus Providence, Rhode
+  Island. Gründer ist der Multiinstrumentalist John Boles. Am 7. Mai veröffentlichte
+  einige seiner Songs als Akustikversionen auf der EP "Men Without Chests & I Go Too"
+  neu. Zeit, ihm ein paar Fragen zu stellen.
+image: "/img/2021-05-align-in-time-john-boles.jpeg"
+ogImage: "/img/2021-05-align-in-time-2.jpg"
 focusKeyword: Align in Time
 advertisement: false
 affiliate: false
-languageLink: '/2021/05/align-in-time-interview-en'
----
+languageLink: "/2021/05/align-in-time-interview-en"
 
+---
 **Align in Time ist ein One-Person Post-Rock Projekt aus Providence, Rhode Island. Gründer ist der Multiinstrumentalist John Boles. Am 7. Mai veröffentlichte einige seiner Songs als Akustikversionen auf der EP "Men Without Chests & I Go Too" neu. Zeit, ihm ein paar Fragen zu stellen.**
 
 **Anne:** Hi John! Erstmal vielen Dank, dass Du Dich bei mir gemeldet hast und mir Deine Musik vorgestellt hast. Deine letzte Platte "On A Spiral" ist wirklich großartig. Wie geht es Dir zurzeit?
