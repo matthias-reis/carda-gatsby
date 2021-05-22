@@ -1,33 +1,37 @@
 ---
 templateKey: article
-date: 2021-04-20T08:12:27.696Z
+date: 2021-04-20T08:12:27.696+00:00
 slug: speak-memory-interview
 typeName: Interview
 title: Speak, Memory
 subTitle: Gitarrist Tim über die EP "Adirondack"
 seoTitle: Speak, Memory – Gitarrist Tim über die EP "Adirondack"
-description: Speak, Memory haben ihre neue EP "Adirondack" fertig. Sie erscheint am 7. Mai. Gitarrist Tim hat mir im Interview spannende Details verraten.
-excerpt: Speak, Memory haben ihre neue EP "Adirondack" fertig. Sie erscheint am 7. Mai. Gitarrist Tim hat mir im Interview einige spannende Details verraten. Außerdem habe ich eine Hörprobe für Euch!
-image: '/img/speak-memory-3-.jpg'
-ogImage: '/img/speak-memory-fb.png'
+description: Speak, Memory haben ihre neue EP "Adirondack" fertig. Sie erscheint am
+  7. Mai. Gitarrist Tim hat mir im Interview spannende Details verraten.
+excerpt: Speak, Memory haben ihre neue EP "Adirondack" fertig. Sie erscheint am 7.
+  Mai. Gitarrist Tim hat mir im Interview einige spannende Details verraten. Außerdem
+  habe ich eine Hörprobe für Euch!
+image: "/img/speak-memory-3-.jpg"
+ogImage: "/img/speak-memory-fb.png"
 labels:
-  - Adirondack
-  - Bands
-  - Bartees Strange Bartees Strange
-  - Emo
-  - Math-Rock
-  - Mathcore
-  - Post-Rock
-  - Speak Memory
-  - English & German
-  - Interview
+- Adirondack
+- Bands
+- Bartees Strange Bartees Strange
+- Emo
+- Math-Rock
+- Mathcore
+- Post-Rock
+- Speak Memory
+- English & German
+- Interview
+- interviews
 focusKeyword: Speak Memory
 advertisement: false
 affiliate: false
 language: de
-languageLink: /2021/04/speak-memory-interview-en
----
+languageLink: "/2021/04/speak-memory-interview-en"
 
+---
 **Speak, Memory beschreiben sich als "irgendwo zwischen dem grenzenlosem Word Building der frühen Explosions in the Sky und den mathematischen Spielereien von American Football" – wenn das nicht neugierig macht. In Kürze erscheint die neue EP der Band aus Oklahoma City. Zeit für ein Interview.**
 
 Mit ihren Songs möchten Speak, Memory ihre Hörer⋆innen auf eine Reise schicken, die ebenso spirituell wie fest in der Realität verankert ist. Ich habe mich mit Gitarrist Tim über die neue EP "Adirondack" und die Entwicklung der Band unterhalten. Das Interview hat sich zu einem äußerst sympathischen und spannenden Gespräch entwickelt, das wir sicher irgendwann fortsetzen werden.
