@@ -1,12 +1,13 @@
 ---
-date: 2021-05-02T17:21:42Z
+date: 2021-05-02T17:21:42.000+00:00
 labels:
-  - Smyčka
-  - ' Post-Metal'
-  - 'Interview '
-  - Bands
-  - Underground
-  - Moskow
+- Smyčka
+- " Post-Metal"
+- 'Interview '
+- Bands
+- Underground
+- Moskow
+- interviews
 language: en
 slug: smycka-interview-en
 typeName: Interview
@@ -14,16 +15,21 @@ title: Interview with Smyčka
 subTitle: '"Life seems kafkaesque sometimes"'
 seoTitle: Interview with Smyčka – "Life seems kafkaesque sometimes"
 ogTitle: ''
-description: Smyčka wanted to do an interview. Because I'm pretty fascinated by the band's history and their debut album "Fated" is pretty great, I am delighted to present it to you now.
-excerpt: I had a pretty intense and private chat with Smyčka the other day. We talked about the winding path that led to their excellent debut album "Fated". Singer Julia, drummer Anton and guitarist and band founder Vasily told me many details about their music, the post-metal scene in Russia, and their affinity for Franz Kafka's stories.
-image: '/img/smycka.jpg'
-ogImage: '/img/smycka-fb.jpg'
+description: Smyčka wanted to do an interview. Because I'm pretty fascinated by the
+  band's history and their debut album "Fated" is pretty great, I am delighted to
+  present it to you now.
+excerpt: I had a pretty intense and private chat with Smyčka the other day. We talked
+  about the winding path that led to their excellent debut album "Fated". Singer Julia,
+  drummer Anton and guitarist and band founder Vasily told me many details about their
+  music, the post-metal scene in Russia, and their affinity for Franz Kafka's stories.
+image: "/img/smycka.jpg"
+ogImage: "/img/smycka-fb.jpg"
 focusKeyword: Smyčka
 advertisement: false
 affiliate: false
-languageLink: /2021/05/smycka-interview
----
+languageLink: "/2021/05/smycka-interview"
 
+---
 **Smyčka wanted to do an interview. Because I'm pretty fascinated by the band's history and their debut album "Fated" is pretty great, I am delighted to present it to you today.**
 
 Singer Julia, drummer Anton and guitarist and founder of the band Vasily told me a lot about making their just-released record, the post-music scene in Russia, and their affinity for Franz Kafka's stories.
