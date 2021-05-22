@@ -34,7 +34,7 @@ labels:
 - Surfen
 - Tarifa
 - Wellenreiten
-- 'serie: Spanien 2019'
+- serie:Spanien 2019
 focusKeyword: Tarifa
 status: publish
 isWerbung: false
@@ -42,7 +42,7 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Erinnerung an Andalusien
-year: "2020"
+year: '2020'
 month: '04'
 
 ---
