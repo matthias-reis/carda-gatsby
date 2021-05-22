@@ -18,6 +18,21 @@ export const ArticleListGridItem: React.FC<{
   article: CompactArticle;
   content: string;
 }> = ({ article, content }) => {
+  const isAd = article.advertisement;
+  const isAffiliate = article.affiliate;
+  const isAdOrAffiliate = isAd || isAffiliate;
+
+  let adTeaser = '';
+  if (isAd) {
+    adTeaser = 'Werbung';
+  }
+  if (isAffiliate) {
+    adTeaser = 'Affiliate-Links';
+  }
+  if (isAd && isAffiliate) {
+    adTeaser = 'Werbung & Affiliate-Links';
+  }
+
   return (
     <Item key={article.path}>
       <ItemLink
@@ -49,8 +64,12 @@ export const ArticleListGridItem: React.FC<{
         <Text>
           <CompactTitle>{article.title}</CompactTitle>
           <CompactSubtitle>{article.subTitle}</CompactSubtitle>
+          {article.languageLink && (
+            <LanguageTeaser>🇬🇧 English version available</LanguageTeaser>
+          )}
           <S>{article.excerpt || article.description}</S>
         </Text>
+        {isAdOrAffiliate && <MetaTeaser>{adTeaser}</MetaTeaser>}
       </ItemLink>
     </Item>
   );
@@ -88,7 +107,8 @@ const Item = styled.li`
 `;
 
 const ItemLink = styled(Link)`
-  display: block;
+  display: flex;
+  flex-flow: column;
   width: 100%;
   border: 1px solid ${color.border30};
   background: ${color.overlay10};
@@ -103,6 +123,7 @@ const ItemLink = styled(Link)`
 
 const Text = styled.div`
   padding: ${space[1]};
+  flex: 1 1 auto;
 `;
 
 const Date = styled.div`
@@ -126,4 +147,19 @@ const Image = styled(UnstyledImage)`
 const CardaImage = styled(UnstyledCardaImage)`
   height: 100%;
   object-fit: cover;
+`;
+
+const MetaTeaser = styled.div`
+  text-align: right;
+  font-size: ${fontSize[2]};
+  color: ${color.text30};
+  padding: ${space[0]};
+  align-self: flex-end;
+`;
+
+const LanguageTeaser = styled.div`
+  font-size: ${fontSize[2]};
+  color: ${color.text30};
+  margin-top: -${space[1]};
+  margin-bottom: ${space[2]};
 `;

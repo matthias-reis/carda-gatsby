@@ -39,6 +39,7 @@ export type Frontmatter = {
   languageLink?: string;
   advertisement?: boolean;
   affiliate?: boolean;
+  productsProvided?: boolean;
 };
 
 export type Article = {
@@ -66,6 +67,8 @@ export type CompactArticle = Pick<
   | 'languageLink'
   | 'path'
   | 'date'
+  | 'advertisement'
+  | 'affiliate'
 >;
 
 export type ListQuery = {

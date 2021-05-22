@@ -1,13 +1,13 @@
 ---
 date: 2021-05-17T16:53:42+02:00
 labels:
-- vegane Rezepte
-- " Pizza Rezept"
-- " vegane Pizza"
-- " vegane Salami"
-- " vegane Mozzarella"
-- " vegane Salami-Pizza"
-- Rezepte
+  - vegane Rezepte
+  - ' Pizza Rezept'
+  - ' vegane Pizza'
+  - ' vegane Salami'
+  - ' vegane Mozzarella'
+  - ' vegane Salami-Pizza'
+  - Rezepte
 language: de
 slug: vegane-salami-pizza
 typeName: Rezept
@@ -15,36 +15,34 @@ title: Vegane Salami-Pizza
 subTitle: Einfaches Rezept für ein Blech
 seoTitle: Vegane Salami-Pizza - einfaches Rezept für ein Blech
 ogTitle: ''
-description: Vegane Salami-Pizza geht nicht? Geht doch! Hier kommt der Beweis! Ich
-  habe ein einfaches und schönes Einstiegsrezept für Euch aufgeschrieben.
-excerpt: Werbung & Affiliate Links – Vegane Salami-Pizza geht nicht? Geht doch! Hier
-  kommt der Beweis! Ich habe ein einfaches und schönes Einstiegsrezept für Euch aufgeschrieben.
-  Die Zutaten könnt Ihr je nach Geschmack variieren.
-image: "/img/2021-05-17-pizza-75.jpg"
-ogImage: "/img/vegane-salami-pizza.jpg"
+description: Vegane Salami-Pizza geht nicht? Geht doch! Hier kommt der Beweis! Ich habe ein einfaches und schönes Einstiegsrezept für Euch aufgeschrieben.
+excerpt: Vegane Salami-Pizza geht nicht? Geht doch! Hier kommt der Beweis! Ich habe ein einfaches und schönes Einstiegsrezept für Euch aufgeschrieben. Die Zutaten könnt Ihr je nach Geschmack variieren.
+image: '/img/2021-05-17-pizza-75.jpg'
+ogImage: '/img/vegane-salami-pizza.jpg'
 focusKeyword: vegane Salami-Pizza
 advertisement: true
 affiliate: true
+productsProvided: true
 languageLink: ''
-
 ---
+
 **Vegane Salami-Pizza geht nicht? Geht doch! Hier kommt der Beweis! Ich habe ein einfaches und schönes Einstiegsrezept für Euch aufgeschrieben. Die Zutaten könnt Ihr je nach Geschmack variieren.**
 
 Pizza gibt es bei uns ziemlich regelmäßig spätestens alle zwei Wochen. Meistens machen wir dafür einen Hefeteig. Wenn es mal schnell gehen muss, ist der Teig aus der hier verwendeten Backmischung eine schöne Alternative.
 
 ### Für die vegane Salami-Pizza braucht Ihr folgende Zutaten:
 
-* Pizzateig (z. B. die Backmischung "classic hell" von Bauckhof)
-* 1 kleine Zwiebel
-* Gemüsemischung im Glas (z. B. Be Happy "Gemüseparty")oder Pizzatomaten bzw. Tomatenpüree
-* vegane Mozzarella-Alternative (z. B. die Beddarella von Bedda)
-* 1 Pckg. vegane Salami-Alternative (z. B. die Sim Sala Mi von Vantastic)
-* 1 kleine Dose Mais (alternativ z. B. Zucchini-Scheiben oder Paprika)
-* Etwas Mehl
-* Backpapier
-* 175 ml lauwarmes Wasser
-* 3 EL Pflanzenöl
-* Pfeffer und Salz zum Würzen
+- Pizzateig (z. B. die Backmischung "classic hell" von Bauckhof)
+- 1 kleine Zwiebel
+- Gemüsemischung im Glas (z. B. Be Happy "Gemüseparty")oder Pizzatomaten bzw. Tomatenpüree
+- vegane Mozzarella-Alternative (z. B. die Beddarella von Bedda)
+- 1 Pckg. vegane Salami-Alternative (z. B. die Sim Sala Mi von Vantastic)
+- 1 kleine Dose Mais (alternativ z. B. Zucchini-Scheiben oder Paprika)
+- Etwas Mehl
+- Backpapier
+- 175 ml lauwarmes Wasser
+- 3 EL Pflanzenöl
+- Pfeffer und Salz zum Würzen
 
 [Ihr findet alle Grund-Zutaten hier](https://www.awin1.com/cread.php?awinmid=15953&awinaffid=632580&ued=https%3A%2F%2Fserv.linkster.co%2Fr%2F9a5wSzDd). Psst: Weiter unten wartet noch ein Rabattcode auf Euch!
 

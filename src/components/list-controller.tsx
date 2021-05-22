@@ -1,13 +1,7 @@
 import * as React from 'react';
 import { graphql } from 'gatsby';
 import { indexBy, prop, pick } from 'ramda';
-import {
-  Article,
-  Category,
-  CategoryNode,
-  CompactArticle,
-  ListQuery,
-} from '../types';
+import { Article, Category, CompactArticle, ListQuery } from '../types';
 import { Frame } from './frame';
 import { ErrorBoundary } from './error-boundary';
 import ListPage from './list-page';
@@ -99,6 +93,9 @@ export const query = graphql`
             date
             remoteLoadingImage
             remoteThumbnailImage
+            advertisement
+            affiliate
+            languageLink
             image {
               childImageSharp {
                 fluid(maxWidth: 400, quality: 70) {

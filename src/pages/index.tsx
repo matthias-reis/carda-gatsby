@@ -50,7 +50,8 @@ export const query = graphql`
             remoteLoadingImage
             remoteThumbnailImage
             languageLink
-            language
+            advertisement
+            affiliate
             image {
               childImageSharp {
                 fluid(maxWidth: 400, quality: 70) {

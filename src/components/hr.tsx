@@ -15,5 +15,5 @@ const UnstyledHR = (props: object) => {
 export const HR = styled.div`
   width: 100%;
   height: 2px;
-  background: linear-gradient(90deg, #0000 0%, #0004 50%, #0000 100%);
+  background: linear-gradient(90deg, #fff0 0%, #fff4 50%, #fff0 100%);
 `;

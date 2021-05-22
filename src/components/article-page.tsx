@@ -16,6 +16,7 @@ import { space, color, fontSize } from '../style';
 import { Article as ArticleMeta, CompactArticle } from '../types';
 import { CardaImage } from './carda-image';
 import { PageMeta } from './page-meta';
+import { HR } from './hr';
 
 import iconUrl from '../assets/signature-icon.jpg';
 
@@ -47,6 +48,22 @@ export const ArticlePage: React.FC<ArticleProps> = ({
   path,
 }) => {
   const date = new Date(meta.frontmatter.date);
+
+  const isAd = meta.frontmatter.advertisement;
+  const isAffiliate = meta.frontmatter.affiliate;
+  const isAdOrAffiliate = isAd || isAffiliate;
+
+  let adTeaser = '';
+  if (isAd) {
+    adTeaser = 'Werbung';
+  }
+  if (isAffiliate) {
+    adTeaser = 'Affiliate-Links';
+  }
+  if (isAd && isAffiliate) {
+    adTeaser = 'Werbung & Affiliate-Links';
+  }
+
   const formattedDate = `${zeroPad(date.getDate(), 2)}.${zeroPad(
     date.getMonth() + 1,
     2
@@ -59,6 +76,11 @@ export const ArticlePage: React.FC<ArticleProps> = ({
         <Title>{meta.frontmatter.title}</Title>
         {meta.frontmatter.subTitle && (
           <Subtitle>{meta.frontmatter.subTitle}</Subtitle>
+        )}
+        {isAdOrAffiliate && (
+          <AdAndAffiliateTeaser href="#werbung-affiliate">
+            {adTeaser} *
+          </AdAndAffiliateTeaser>
         )}
         <MetaArea>
           <Icon src={iconUrl} />
@@ -101,6 +123,22 @@ export const ArticlePage: React.FC<ArticleProps> = ({
           )}
         </ImageContainer>
         <div>{children}</div>
+        {isAdOrAffiliate && (
+          <>
+            <HR />
+            <AdAndAffiliateDisclaimer id="werbung-affiliate">
+              Dieser Beitrag enthält {adTeaser}.{' '}
+              {meta.frontmatter.productsProvided && (
+                <span>
+                  Die Produkte wurden mir kostenfrei zur Verfügung gestellt.
+                </span>
+              )}
+              Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst.
+              Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
+              meiner <Link href="/werbung">Transparenz-Seite</Link>.
+            </AdAndAffiliateDisclaimer>
+          </>
+        )}
       </ArticleContainer>
       <ArticleFooter>
         <ArticleSeries series={series} />
@@ -169,4 +207,19 @@ const ArticleFooter = styled.div`
 const ImageContainer = styled.div`
   margin-top: ${space[2]};
   margin-bottom: ${space[3]};
+`;
+
+const AdAndAffiliateTeaser = styled.a`
+  display: block;
+  text-align: right;
+  font-size: ${fontSize[2]};
+  text-decoration: none;
+  color: ${color.text30};
+`;
+
+const AdAndAffiliateDisclaimer = styled.p`
+  display: block;
+  font-size: ${fontSize[2]};
+  text-decoration: none;
+  color: ${color.text30};
 `;
