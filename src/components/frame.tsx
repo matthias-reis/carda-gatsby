@@ -3,6 +3,7 @@ import styled from '@emotion/styled';
 import { Global, css } from '@emotion/core';
 
 import { Header } from './header';
+import { CookieConsent } from './cookie-consent';
 import { Analytics } from './analytics';
 import { SearchProvider } from './search-provider';
 
@@ -47,6 +48,7 @@ export const Frame: React.FC = ({ children }) => {
           `}
         />
         <Header />
+        <CookieConsent />
         <Helmet>
           <link
             rel="icon"
