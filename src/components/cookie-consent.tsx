@@ -52,6 +52,7 @@ const Text = styled.p`
 
 const CTA = styled.span`
   font-family: ${font.title};
+  cursor: pointer;
   font-size: ${fontSize[2]};
   border-radius: ${space[0]};
   background: ${color.background40};
