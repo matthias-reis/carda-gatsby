@@ -1,20 +1,20 @@
 ---
-date: 2021-05-10T17:00:42Z
+date: 2021-05-10T17:00:42.000+00:00
 labels:
-  - 'serie: Wildbienen'
-  - Wildbienen
-  - Bienen
-  - Bienenschutz
-  - Artenschutz
-  - Tierschutz
-  - Naturschutz
-  - Insekten
-  - bestäubende Insekten
-  - Bienenbalkon
-  - Hummeln
-  - Insektenhotel
-  - Klima- & Umweltschutz
-  - Tierrechte
+- Wildbienen
+- Bienen
+- Bienenschutz
+- Artenschutz
+- Tierschutz
+- Naturschutz
+- Insekten
+- bestäubende Insekten
+- Bienenbalkon
+- Hummeln
+- Insektenhotel
+- Klima- & Umweltschutz
+- Tierrechte
+- serie:Wildbienen
 language: de
 slug: wildbienen-arten-und-gruppen
 typeName: ''
@@ -22,16 +22,20 @@ title: Wildbienen Arten und Gruppen
 subTitle: Neues vom Bienenbalkon
 seoTitle: Wildbienen Arten und Gruppen – Neues vom Bienenbalkon
 ogTitle: ''
-description: 'Die Wildbienen sind wieder da! Beziehungsweise: Sie sind aufgewacht. Insgesamt gibt es drei Wildbienen-Gruppen. Hier findet Ihr alle Infos dazu.'
-excerpt: 'Die Wildbienen sind wieder da! Beziehungsweise: Sie sind aufgewacht. Nach und nach krabbeln die unterschiedlichsten Arten aus unseren Insektenhotels und erkunden ihre Umgebung. Insgesamt gibt es drei Wildbienen-Gruppen. Hier findet Ihr alle Infos dazu.'
-image: '/img/2021-05-wildbienen.jpeg'
-ogImage: '/img/2021-05-wildbienen-fb.jpg'
+description: 'Die Wildbienen sind wieder da! Beziehungsweise: Sie sind aufgewacht.
+  Insgesamt gibt es drei Wildbienen-Gruppen. Hier findet Ihr alle Infos dazu.'
+excerpt: 'Die Wildbienen sind wieder da! Beziehungsweise: Sie sind aufgewacht. Nach
+  und nach krabbeln die unterschiedlichsten Arten aus unseren Insektenhotels und erkunden
+  ihre Umgebung. Insgesamt gibt es drei Wildbienen-Gruppen. Hier findet Ihr alle Infos
+  dazu.'
+image: "/img/2021-05-wildbienen.jpeg"
+ogImage: "/img/2021-05-wildbienen-fb.jpg"
 focusKeyword: Wildbienen
 advertisement: false
 affiliate: false
 languageLink: ''
----
 
+---
 ## Neues vom Bienenbalkon
 
 **Die Wildbienen sind wieder da! Beziehungsweise: Sie sind aufgewacht. Nach und nach krabbeln die unterschiedlichsten Arten aus unseren Insektenhotels und erkunden ihre Umgebung.**
