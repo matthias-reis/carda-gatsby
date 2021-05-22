@@ -1,112 +1,115 @@
 ---
-date: 2019-09-12T18:03:02.000Z
+date: 2019-09-12T18:03:02.000+00:00
 slug: 1994-musik-veroeffentlichungen
-path: /2019/09/1994-musik-veroeffentlichungen/
+path: "/2019/09/1994-musik-veroeffentlichungen/"
 type: Artikel
 typeName: Artikel
 title: 1994 - ein musikalisches Jahr
 seoTitle: 1994 war ein musikalisches Jahr - ein ganz besonderer Rückblick
 ogTitle: 1994 war ein musikalisches Jahr - ein ganz besonderer Rückblick
-description: '"1994 war ein wichtiges Jahr" - immer wieder höre ich diesen Satz und habe in selbst auch schon das ein oder andere Mal ausgesprochen.'
-excerpt: '"1994 war ein wichtiges Jahr" - immer wieder höre ich diesen Satz und habe in selbst auch schon das ein oder andere Mal ausgesprochen.'
+description: '"1994 war ein wichtiges Jahr" - immer wieder höre ich diesen Satz und
+  habe in selbst auch schon das ein oder andere Mal ausgesprochen.'
+excerpt: '"1994 war ein wichtiges Jahr" - immer wieder höre ich diesen Satz und habe
+  in selbst auch schon das ein oder andere Mal ausgesprochen.'
 fileName: 2019-09---1994-ein-musikalisches-jahr.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_Its-always-coffee-oclock..png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_Its-always-coffee-oclock..png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,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
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_09_Design-ohne-Titel.png__l.jpg
 labels:
-  - '1994'
-  - Aerosmith
-  - Aphex Twin
-  - Arrested Development
-  - Ash
-  - Bad Religion
-  - Bands
-  - Beastie Boys
-  - Blind Melon
-  - Blues Traveler
-  - Blur
-  - Bob Dylan
-  - Bush
-  - Candlebox
-  - CDs
-  - Collective Soul
-  - Counting Crows
-  - Country Joe McDonald
-  - Crosby
-  - Cypress Hill
-  - Del Amitri
-  - Die Goldenen Zitronen
-  - Dream Theater
-  - Greatful Dead
-  - Green Day
-  - Jimmi Clipff's Allstar Reggae Jam
-  - Joe Cocker
-  - Johnny Cash
-  - Killing Joke
-  - Kurt Cobain
-  - Kyuss
-  - Lagwagon
-  - Machinehead
-  - Massive Attack
-  - Meatpupptes
-  - Melissa Etheridge
-  - Melvins
-  - Messhuggah
-  - Metallica
-  - Mother Tongue
-  - Motorpsycho
-  - Mudhoney
-  - Musik
-  - Neville Brothers
-  - Nick Cave and the Bad Seeds
-  - NIN
-  - Nine Inch Nails
-  - Nirvana
-  - NOFX
-  - Oasis
-  - Orleans
-  - Pearl Jam
-  - Peter Gabriel
-  - Pink Floyd
-  - Placebo
-  - Porcupine Tree
-  - Portishead
-  - PrimusSalt 'n' Pepa
-  - Red Hot Chili Peppers
-  - REM
-  - Rollins Band
-  - Santana
-  - Sheryl Crow
-  - Sinhéad O'Connor
-  - soundgarden
-  - Spin Doctors
-  - Stereolab
-  - Stills and Nash
-  - Stone Temple Pilots
-  - Suicidal Tendencies
-  - Sweetwater
-  - The Allman Brothers Band
-  - The Band
-  - The Cranberries
-  - The Prodigy
-  - The Smashing Pumpkins
-  - The Stone Roses
-  - Therapy?
-  - Underworld
-  - Veröffentlichungen 1994
-  - Violent Femmes
-  - Weezer
-  - WIZO
-focusKeyword: '1994'
+- '1994'
+- Aerosmith
+- Aphex Twin
+- Arrested Development
+- Ash
+- Bad Religion
+- Bands
+- Beastie Boys
+- Blind Melon
+- Blues Traveler
+- Blur
+- Bob Dylan
+- Bush
+- Candlebox
+- CDs
+- Collective Soul
+- Counting Crows
+- Country Joe McDonald
+- Crosby
+- Cypress Hill
+- Del Amitri
+- Die Goldenen Zitronen
+- Dream Theater
+- Greatful Dead
+- Green Day
+- Jimmi Clipff's Allstar Reggae Jam
+- Joe Cocker
+- Johnny Cash
+- Killing Joke
+- Kurt Cobain
+- Kyuss
+- Lagwagon
+- Machinehead
+- Massive Attack
+- Meatpupptes
+- Melissa Etheridge
+- Melvins
+- Messhuggah
+- Metallica
+- Mother Tongue
+- Motorpsycho
+- Mudhoney
+- Musik
+- Neville Brothers
+- Nick Cave and the Bad Seeds
+- NIN
+- Nine Inch Nails
+- Nirvana
+- NOFX
+- Oasis
+- Orleans
+- Pearl Jam
+- Peter Gabriel
+- Pink Floyd
+- Placebo
+- Porcupine Tree
+- Portishead
+- PrimusSalt 'n' Pepa
+- Red Hot Chili Peppers
+- REM
+- Rollins Band
+- Santana
+- Sheryl Crow
+- Sinhéad O'Connor
+- soundgarden
+- Spin Doctors
+- Stereolab
+- Stills and Nash
+- Stone Temple Pilots
+- Suicidal Tendencies
+- Sweetwater
+- The Allman Brothers Band
+- The Band
+- The Cranberries
+- The Prodigy
+- The Smashing Pumpkins
+- The Stone Roses
+- Therapy?
+- Underworld
+- Veröffentlichungen 1994
+- Violent Femmes
+- Weezer
+- WIZO
+- serie:Playlists
+focusKeyword: "1994"
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
 subTitle: Nirvana, Pearl Jam und was noch?
----
 
+---
 **"1994 war ein wichtiges Jahr" - immer wieder höre ich diesen Satz und habe ihn selbst auch schon das ein oder andere Mal ausgesprochen.**
 
 Warum das so ist? Musikalisch stellt 1994 einen ganz entscheidenden Punkt in der Entwicklung dar. Diverse prägende Alben wurden veröffentlicht, ein ganz besonderes Festival fand erneut statt und auch sonst war so einiges los in der Musiklandschaft - Dub und vor allem auch Grunge befanden sich in der Hochphase, das Britpop-Süppchen kochte schon fröhlich vor sich hin und Skater-Punk stand in den Startlöchern.
