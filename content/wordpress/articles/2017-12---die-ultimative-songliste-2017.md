@@ -1,78 +1,81 @@
 ---
-date: 2017-12-16T08:39:47.000Z
+date: 2017-12-16T08:39:47.000+00:00
 slug: die-ultimative-songliste-2017-musikalischer-jahresrueckblick
-path: /2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/
+path: "/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/"
 type: Artikel
 typeName: Artikel
 title: Die ultimative Songliste 2017
 seoTitle: Die ultimative Songliste 2017 - Musikalischer Jahresrückblick
 ogTitle: Die ultimative Songliste 2017 - Musikalischer Jahresrückblick
-description: Ich möchte Euch den musikalischen Jahresrückblick der besonderen Art bieten. Musik abseits von Airplay-Listen und Charts. Die ultimative Songliste 2017.
-excerpt: Ich möchte Euch den musikalischen Jahresrückblick der besonderen Art bieten. Musik abseits von Airplay-Listen und Charts. Die ultimative Songliste 2017.
+description: Ich möchte Euch den musikalischen Jahresrückblick der besonderen Art
+  bieten. Musik abseits von Airplay-Listen und Charts. Die ultimative Songliste 2017.
+excerpt: Ich möchte Euch den musikalischen Jahresrückblick der besonderen Art bieten.
+  Musik abseits von Airplay-Listen und Charts. Die ultimative Songliste 2017.
 fileName: 2017-12---die-ultimative-songliste-2017.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Songliste-2017__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Songliste-2017__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAIEBQYDCP/EAC0QAAEEAQMDAgMJAAAAAAAAAAECAwQRBQASIQYTQSIxFFGBByMyQ2FicXKh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAQP/xAAfEQACAgIBBQAAAAAAAAAAAAABAgADETESEyEyQaH/2gAMAwEAAhEDEQA/APPszCPY3NfDy1x3e20HSWnN6TRIqx5sEfTT5RvvhpTA9C1JCL453Vzrao6VnZEycg/1h0xLSUpbLyJTiikjxXbvyfHnS5LoPISG4zR6k6dGw7w6qQ6L54/L+eu9rVlyVPbM2qu3pgN5fJafZ1mJfTb8mE/CYfDDa5BVHc+/3LtKRZNbbvgC72665jO43PqmqZjJjKOyO2F1bbwpZWkJ45o/xZ1m2pz3T+XbyWRltzpqV7WXWLUKBuze0KBFgf2vUPLdRNTpDwUmV8Ev1dsttiqO7aOfYKF378V7aC5kaximsmAiuqgWb9y5g9Ixy4XXpqm1gGtqQojjnnjjTtMNMOESY8iZtAKVNr2UPp89GjU3my6MritSNSgjRmYspDuVYT2Cn0JdY743WD+FN+NTMi508Y6ksNxFFSAqhiHEEEfu+X6/5o0aYqJZNxC8APP/2Q==
-ogImage: null
+ogImage: 
 labels:
-  - A Perfect Circle
-  - Alternative
-  - AMENRA
-  - Amplifier
-  - And So I Watch You From Afar
-  - And You Will Know Us By The Trail Of Dead
-  - anders
-  - Angelo Bardelamenti
-  - Anti Flag
-  - Arcade Fire
-  - At The Drive In
-  - Bands
-  - BARST
-  - Briqueville
-  - Calexico
-  - Converge
-  - Crippled Black Phoenix
-  - Cult Of Luna
-  - Dan Auerbach
-  - das ist Musik
-  - DJ Hell
-  - Dominik Eulberg
-  - elektronisch
-  - Eminem
-  - Industrial
-  - Kasabian
-  - Laura Palmer
-  - Liebe
-  - Mark Lanegan
-  - meine Musik
-  - Metal
-  - Mogwai
-  - Moon Duo
-  - Musik
-  - musikalisch
-  - Nine Inch Nails
-  - Opeth
-  - Post-Rock
-  - Postrock
-  - Primus
-  - Pulled Apart By Horses
-  - QOTSA
-  - Queens Of The Stone Age
-  - Rock
-  - Rock'n'Roll
-  - Soen
-  - Songliste
-  - Songliste 2017
-  - Songs 2017
-  - Techno
-  - THE CHASING MONSTER
-  - The Owls Are Not What They Seem
-  - The Year Of The Owl
-  - The Year When Marti arrived
-  - Tool
-  - Trent Reznor
-  - Twin Peaks
-  - Wahnsinnsmusik
+- A Perfect Circle
+- Alternative
+- AMENRA
+- Amplifier
+- And So I Watch You From Afar
+- And You Will Know Us By The Trail Of Dead
+- anders
+- Angelo Bardelamenti
+- Anti Flag
+- Arcade Fire
+- At The Drive In
+- Bands
+- BARST
+- Briqueville
+- Calexico
+- Converge
+- Crippled Black Phoenix
+- Cult Of Luna
+- Dan Auerbach
+- das ist Musik
+- DJ Hell
+- Dominik Eulberg
+- elektronisch
+- Eminem
+- Industrial
+- Kasabian
+- Laura Palmer
+- Liebe
+- Mark Lanegan
+- meine Musik
+- Metal
+- Mogwai
+- Moon Duo
+- Musik
+- musikalisch
+- Nine Inch Nails
+- Opeth
+- Post-Rock
+- Postrock
+- Primus
+- Pulled Apart By Horses
+- QOTSA
+- Queens Of The Stone Age
+- Rock
+- Rock'n'Roll
+- Soen
+- Songliste
+- Songliste 2017
+- Songs 2017
+- Techno
+- THE CHASING MONSTER
+- The Owls Are Not What They Seem
+- The Year Of The Owl
+- The Year When Marti arrived
+- Tool
+- Trent Reznor
+- Twin Peaks
+- Wahnsinnsmusik
+- serie:Playlists
 focusKeyword: Songliste
 status: publish
 isWerbung: false
@@ -80,8 +83,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Musikalischer Jahresrückblick
----
 
+---
 **Heute möchte ich Euch einen musikalischen Jahresrückblick der besonderen Art bieten. Besonders darum, weil er mit den Listen, die Fernseh- und Radiosender zum Jahresende so zu veröffentlichen pflegen, so gar nichts zu tun hat. Hier ist meine persönliche Songliste 2017**
 
 Musikalisch war in diesem Jahr so einiges geboten. Auch wenn man das an den Playlisten der gängigen Radiosender nicht unbedingt zu spüren bekam. Aber das ist ja nicht unbedingt etwas Schlechtes. Der Tiefpunkt der Populärmusik in diesem Jahr bedeutete, wie das gerne mal so ist, gleichzeitig auch ein neues Rekordhoch für die Alternative Ecke. Besonders im Bereich Post-Rock tat sich einiges. Außerdem überraschten ein paar längst als von der Bildfläche verschwunden geglaubte Lieblinge mit Neuveröffentlichungen.
