@@ -4,6 +4,7 @@ import styled from '@emotion/styled';
 import { Container } from './container';
 import { color, space, font } from '../style';
 import { event } from './analytics';
+import { TreeNation } from './tree-nation';
 
 export const FooterNavigation: React.FC = () => (
   <Section>
@@ -49,6 +50,7 @@ export const FooterNavigation: React.FC = () => (
           Impressum
         </Item>
       </Navigation>
+      <TreeNation />
     </Container>
   </Section>
 );
