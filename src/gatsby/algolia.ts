@@ -16,8 +16,9 @@ const pageQuery = `{
           focusKeyword
           labels
           remoteThumbnailImage
-          language
           languageLink
+          advertisement
+          affiliate
           image {
             childrenImageSharp {
               resize(width: 600) {
@@ -44,6 +45,9 @@ type IndexRecord = {
       description: string;
       focusKeyword: string;
       remoteThumbnailImage?: string;
+      advertisement?: boolean;
+      affiliate?: boolean;
+      languageLink?: string;
       image?: {
         childrenImageSharp?: { resize?: { src?: string } };
       };

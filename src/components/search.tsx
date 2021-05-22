@@ -10,7 +10,21 @@ import { event } from './analytics';
 import { color, space, width, fontSize, font } from '../style';
 
 const Hit = ({ hit }) => {
-  const hasEnglishVersion = !!(hit.links?.en ?? false);
+  const isAd = hit.advertisement;
+  const isAffiliate = hit.affiliate;
+  const isAdOrAffiliate = isAd || isAffiliate;
+
+  let adTeaser = '';
+  if (isAd) {
+    adTeaser = 'Werbung';
+  }
+  if (isAffiliate) {
+    adTeaser = 'Affiliate-Links';
+  }
+  if (isAd && isAffiliate) {
+    adTeaser = 'Werbung & Affiliate-Links';
+  }
+
   return (
     <HitBox to={hit.path}>
       <HitImageContainer>
@@ -19,9 +33,10 @@ const Hit = ({ hit }) => {
       <HitContent>
         <HitTitle>{hit.title}</HitTitle>
         <HitSubTitle>{hit.subTitle}</HitSubTitle>
-        {hasEnglishVersion && (
+        {hit.languageLink && (
           <HitLanguageHint>🇬🇧 English version available</HitLanguageHint>
         )}
+        {isAdOrAffiliate && <MetaTeaser>{adTeaser}</MetaTeaser>}
       </HitContent>
     </HitBox>
   );
@@ -177,4 +192,11 @@ const StyledSearchBox = styled(SearchBox)`
       fill: ${color.highlight50};
     }
   }
+`;
+
+const MetaTeaser = styled.div`
+  text-align: right;
+  font-size: ${fontSize[2]};
+  color: ${color.text30};
+  padding: ${space[0]};
 `;

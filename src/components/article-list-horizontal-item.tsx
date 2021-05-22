@@ -1,7 +1,6 @@
 import React from 'react';
 import styled from '@emotion/styled';
 import { Link } from 'gatsby';
-import UnstyledImage from 'gatsby-image';
 import moment from 'moment';
 import 'moment/locale/de';
 
@@ -16,7 +15,21 @@ export const ArticleListHorizontalItem: React.FC<{
   article: CompactArticle;
   content: string;
 }> = ({ article, content }) => {
-  const hasEnglishVersion = !!(article.links?.en ?? false);
+  const isAd = article.advertisement;
+  const isAffiliate = article.affiliate;
+  const isAdOrAffiliate = isAd || isAffiliate;
+
+  let adTeaser = '';
+  if (isAd) {
+    adTeaser = 'Werbung';
+  }
+  if (isAffiliate) {
+    adTeaser = 'Affiliate-Links';
+  }
+  if (isAd && isAffiliate) {
+    adTeaser = 'Werbung & Affiliate-Links';
+  }
+
   return (
     <Box
       to={article.path}
@@ -35,9 +48,10 @@ export const ArticleListHorizontalItem: React.FC<{
       <Content>
         <Title>{article.title}</Title>
         <SubTitle>{article.subTitle}</SubTitle>
-        {hasEnglishVersion && (
+        {article.languageLink && (
           <LanguageHint>🇬🇧 English version available</LanguageHint>
         )}
+        {isAdOrAffiliate && <MetaTeaser>{adTeaser}</MetaTeaser>}
       </Content>
     </Box>
   );
@@ -88,8 +102,8 @@ const Box = styled(Link)`
 `;
 
 const ImageContainer = styled.span`
-  width: 100px;
-  height: 75px;
+  width: 120px;
+  height: 80px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -98,6 +112,13 @@ const ImageContainer = styled.span`
 `;
 
 const Image = styled.img`
-  width: 150px;
+  width: 130px;
   flex: 0 0 auto;
+`;
+
+const MetaTeaser = styled.div`
+  text-align: right;
+  font-size: ${fontSize[2]};
+  color: ${color.text30};
+  padding: ${space[0]};
 `;
