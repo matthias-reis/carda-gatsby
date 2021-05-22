@@ -485,11 +485,3 @@ Wer die Insel der Götter bereist, sollte dort auf jeden Fall auch den ein oder 
     },
   ]}
 />
-
-1.  [Dubai](/2013/08/dubai-und-bali-in-polaroids)
-1.  [Traditioneller Barongtanz auf Bali](/2013/07/traditioneller-barong-tanz-auf-bali/)
-1.  [Handwerk und Kunst auf Bali](/2013/08/handwerk-und-kunst-auf-bali/)
-1.  [Bali aus dem Autofenster](/2013/08/bali-aus-dem-autofenster/)
-1.  [Flora und Fauna auf Bali](/2013/08/flora-fauna-ackerbau-und-viehzucht-auf-bali/)
-1.  [Tempel und Religion auf Bali](http://2013/08/tempel-und-religion-auf-bali/)
-1.  [Dubai und Bali in Polaroids](/2013/08/dubai-und-bali-in-polaroids/)
