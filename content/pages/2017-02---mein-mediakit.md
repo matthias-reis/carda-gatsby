@@ -32,7 +32,7 @@ Weitere Infos gebe ich gerne auf Anfrage weiter. Sendet mir am besten einfach ei
 
 ## Mediakit jetzt anschauen
 
-[Das komplette Mediakit als PDF zum Download findet Ihr hier](/wp-content/uploads/2021/02/Kopie-von-Mediakit.pdf).
+[Das komplette Mediakit als PDF zum Download findet Ihr hier](/img/mediakit.pdf).
 
 Stand 12/2019 Anne bloggt cardamonchai - Rock 'n' Roll vegan
 
