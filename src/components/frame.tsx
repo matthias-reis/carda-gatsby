@@ -50,6 +50,10 @@ export const Frame: React.FC = ({ children }) => {
         <Header />
         <CookieConsent />
         <Helmet>
+          <meta
+            name="viewport"
+            content="width=device-width, minimum-scale=1, maximum-scale=1"
+          />
           <link
             rel="icon"
             type="image/x-icon"
