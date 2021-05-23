@@ -54,7 +54,7 @@ What sounds mystical fits perfectly with the 21st-century opera composed by Year
 
 > "There is a thread that runs through all our albums. An exploration of the sensitive world that obeys a certain telos, first fantasised ("North") and reverberated ("Outworld"), then declaimed as a warning ("Tocsin"). The deeper we dig, the more the motifs to be revealed come to light. Yes, it's a bit gnostic. This album is conjured after the Tocsin; it's the epiphany of the Fall."
 
-![Year Of No Light](/img/year-of-no-light-1.jpeg)
+![Year Of No Light | small](/img/year-of-no-light-1.jpeg)
 
 Year Of No Light have always placed great emphasis on the audio-visual part. You can see this in their legendary live shows and in their videos, of which there will certainly also be some for the songs on this record.
 

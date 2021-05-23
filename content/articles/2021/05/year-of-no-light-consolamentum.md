@@ -60,7 +60,7 @@ Hinter der Liebe für bewegte Bilder steckt das persönliche Interesse der Bandm
 
 ### "Consolamentum" steht für musikalische Hingabe
 
-![Year Of No Light](/img/year-of-no-light-1.jpeg)
+![Year Of No Light | small](/img/year-of-no-light-1.jpeg)
 
 Mit "Consolamentum" gehen Year Of No Light noch einen Schritt weiter, als mit ihren Vorgängeralben. Ob die teilweise sehr düsteren, ja beklemmend wirkenden Parts von der derzeitigen Weltlage beeinflusst wurden, mag vage Vermutung sein. Mit dem Thema der Platte haben sich die sechs Musiker⋆innen definitiv eines ausgesucht, das wie für sie gemacht ist. Year Of No Light sagen dazu
 
