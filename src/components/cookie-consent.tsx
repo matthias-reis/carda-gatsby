@@ -42,18 +42,20 @@ export const CookieConsent: React.FC = () => {
 
 const Wrapper = styled.header`
   box-shadow: 0 17px 30px -25px ${color.shadow};
+  background: ${color.background40};
   border-bottom: 2px solid ${color.border10};
-  margin: 0 ${space[1]};
+  margin: 0;
   z-index: 19;
   text-align: center;
+  padding: ${space[1]};
 `;
 
 const Text = styled.p`
   color: ${color.text30};
-  max-width: ${width[5]};
-  padding: ${space[1]};
-  margin: ${space[0]} auto;
-  font-size: ${fontSize[2]};
+  max-width: ${width[4]};
+  margin: 0 auto;
+  padding: 0;
+  font-size: 0.75rem;
 `;
 
 const CTA = styled.span`
@@ -61,12 +63,13 @@ const CTA = styled.span`
   cursor: pointer;
   font-size: ${fontSize[2]};
   border-radius: ${space[0]};
-  background: ${color.background40};
+  background: ${color.background10};
   text-decoration: none;
   color: ${color.text10};
   display: inline-block;
   text-align: center;
   padding: ${space[0]} ${space[1]};
+  margin-top: ${space[1]};
   margin-bottom: ${space[1]};
 
   &:hover {
