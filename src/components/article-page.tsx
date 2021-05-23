@@ -167,6 +167,7 @@ const Icon = styled.img`
 
 const MetaArea = styled.div`
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
 `;
 
@@ -179,6 +180,7 @@ const Meta = styled.div`
 const LanguageArea = styled.div`
   display: flex;
   justify-content: center;
+  margin: 0 auto;
   align-self: flex-end;
   flex: 0 0 auto;
 `;
