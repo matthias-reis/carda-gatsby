@@ -1,31 +1,26 @@
 ---
 date: 2020-06-30T07:44:07.000+00:00
 slug: florfliegenkasten
-path: "/2020/06/florfliegenkasten/"
+path: '/2020/06/florfliegenkasten/'
 type: Artikel
 typeName: Artikel
 title: So funktioniert ein Florfliegenkasten
 seoTitle: So funktioniert ein Florfliegenkasten - ein Zuhause für die Goldaugen
 ogTitle: So funktioniert ein Florfliegenkasten - ein Zuhause für die Goldaugen
-description: Ein Florfliegenkasten auf dem Balkon kann dabei helfen, die filigranen
-  Insekten vor dem Aussterben zu schützen. Er funktioniert ganz einfach.
-excerpt: Ein Florfliegenkasten auf dem Balkon kann dabei helfen, die filigranen Insekten
-  vor dem Aussterben zu schützen. Er funktioniert ganz einfach.
+description: Ein Florfliegenkasten auf dem Balkon kann dabei helfen, die filigranen Insekten vor dem Aussterben zu schützen. Er funktioniert ganz einfach.
+excerpt: Ein Florfliegenkasten auf dem Balkon kann dabei helfen, die filigranen Insekten vor dem Aussterben zu schützen. Er funktioniert ganz einfach.
 fileName: 2020-06---so-funktioniert-ein-florfliegenkasten.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-29-florfliegenkasten-08__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-29-florfliegenkasten-08__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYC/8QAKBAAAgEDAwQCAQUAAAAAAAAAAQIDBAURABIhBjFBURNhFAciIzJx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQQFAv/EACgRAAECBAQFBQAAAAAAAAAAAAEAAgMEETEFEiFBBiIzUfCBobHR4f/aAAwDAQACEQMRAD8AbfpzND0/03VPU0TyyVIWKF4wow4Vt2STnnd49axnXF8FTcXtlhZUqWRYZqtn3fEFzxnnL8nJ5x/va5aumblPTxrQ3yOWt27Q0smAITgMqrjhs+fPsahv1rpIOqJpKJIpI6mV2JCbuwB47j7yNKTkURCHA96Krw/LNBfUHN7AfapJQPdLZIfhWO80sYMhQFVqF7blPvHce9VHpUfpanjZ443/ACqmpb5X252oBgeSf28adQQpDUJNG8azIkrKmNmcRsRnJx3Pn1pLXu9XcInrZxQbVedjEokCsQeAAcHcfvzzqca5am1k/icNkMgtPMRX9TK11Bqqr8enVCduA6OCJBnhuWAK/Xs/R1xeYq177UfxJ+PBI4j3Rg5H9RgEN60aNZPUJSmHTLoTWtAvfz0UtnvssVvudEbfSbvillFRLTKx3KvCcgDGM8AaxdZVmGNXFXTCoQKpjiiZFGOcrx775xo0aAcSXM20+FNxibiQ5x2TSnm6/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_florfliegenkasten-fb.png__l.jpg
 labels:
-- Balkon
-- Blattläuse loswerden
-- Florfliegen
-- Florfliegenkasten
-- Insektenbalkon
-- Klima- & Umweltschutz
-- Nützlinge
-- Urban Gardening
-- serie:Wildbienen
+  - Balkon
+  - Blattläuse loswerden
+  - Florfliegen
+  - Florfliegenkasten
+  - Insektenbalkon
+  - Klima- & Umweltschutz
+  - Nützlinge
+  - Urban Gardening
+  - serie:Wildbienen
 focusKeyword: Florfliegenkasten
 status: publish
 isWerbung: false
@@ -35,9 +30,9 @@ errors: {}
 subTitle: Ein Zuhause für die Goldaugen
 year: '2020'
 month: '06'
-image: "/img/2020-06-29-florfliegenkasten-08.jpg"
-
+image: '/img/2020-06-29-florfliegenkasten-08.jpg'
 ---
+
 **Unsere Insektenhotels kennt Ihr schon. Heute möchte ich Euch unseren Florfliegenkasten vorstellen. Er bietet den grünen elfenartigen Insekten einen Rückzugsort.**
 
 In einem intakten Ökosystem ist jedes Tier ein Nützling. Wildbienen bestäuben unsere Tomatenpflanzen, Marienkäfer- und Florfliegen-Larven fressen die Blattläuse von unseren Erdbeersträuchern und Regenwürmer graben den Boden um. Darum ist es besonders wichtig, dass wir Wildbienen, Käfern, Würmern und Co. auf unseren Balkonen und in unseren Gärten ein angenehmes Zuhause bieten.
