@@ -18,6 +18,13 @@ sections:
   match: "**/*"
   templates:
   - post
+- type: directory
+  path: content/pages
+  label: Statische Seiten
+  create: documents
+  match: "**/*.md"
+  templates:
+  - post
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
