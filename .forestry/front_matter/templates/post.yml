@@ -47,6 +47,12 @@ fields:
 - type: file
   name: image
   label: Hauptbild
+- name: copyright
+  type: text
+  config:
+    required: false
+  label: Copyright Hauptbild
+  description: Wird seitlich neben das Bild platziert.
 - type: file
   name: ogImage
   label: Social Media Bild
