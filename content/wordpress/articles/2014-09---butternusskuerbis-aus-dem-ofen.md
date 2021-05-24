@@ -118,7 +118,7 @@ Den Ofen auf 180 Grad vorheizen, ein Backblech mit Backpapier bestücken und die
   ]}
 />
 
-Das Backblech in den Ofen schieben und den Kürbis ca. 35 - 40 Minuten backen. Die Backzeit kann prima nutzen, um eine Beilage zuzubereiten, ich habe ein paar Dinkelnudeln mit einer einfachen Tomatensauce mit etwas Chili, Knoblauch und Sojaschnetzeln dazu gereicht, gut vorstellen könnte ich mir z. B. auch [Tabulé](//2014/08/31/dahl-linsen-mit-kokos-und-spinat-an-tabule/) oder z. B. Wildreis. Der Phantasie sind hier keine Grenzen gesetzt.
+Das Backblech in den Ofen schieben und den Kürbis ca. 35 - 40 Minuten backen. Die Backzeit kann prima nutzen, um eine Beilage zuzubereiten, ich habe ein paar Dinkelnudeln mit einer einfachen Tomatensauce mit etwas Chili, Knoblauch und Sojaschnetzeln dazu gereicht, gut vorstellen könnte ich mir z. B. auch [Tabulé](/2014/08/dahl-linsen-mit-kokos-und-spinat-an-tabule/) oder z. B. Wildreis. Der Phantasie sind hier keine Grenzen gesetzt.
 
 <Gallery
   images={[

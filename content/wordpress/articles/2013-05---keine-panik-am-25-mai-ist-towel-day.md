@@ -67,7 +67,7 @@ Beim Datum handelt es sich bei diesem hohen Feiertag um einen Kompromiss. Es sol
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgb/xAArEAABAwMDAQYHAAAAAAAAAAABAgMRAAQSEyExQQUicYGCkSMyQqGiseH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBQP/xAAYEQEBAQEBAAAAAAAAAAAAAAAAATECEf/aAAwDAQACEQMRAD8A6+0m3t7G2QiVYBJA+lKUbn3gedP1QVuo3ybiQYEyJAFSPN29xibhpDhROOXSef0Kj0+zmGbp1+3tktaxT3mkmYhIAkdSKkYpWrnFv4lSmUARJGtuPxj71G+G7q0IUDpvNwQRvCh/aWq6aeT8VxOmOGGwVD1EDfwG3jWVXbTpVgsKI5EER70+N0fVKUGPmNCWcEkIWoAqKiAepMmiijCpDyOZW4fOobhIgyVn1UUVryL/2Q=="
 />
 
-Nachdem der Tag einmal am 25. Mai gefeiert worden war, wollte niemand mehr ein anderes Datum (beispielsweise an seinem Geburtstag, dem 11. März, seinem Todestag, dem 11 Mai oder dem 11 Februar, dem [42.](http://de.wikipedia.org/wiki/42_(Antwort)) Tag des Jahres) akzeptieren.
+Nachdem der Tag einmal am 25. Mai gefeiert worden war, wollte niemand mehr ein anderes Datum (beispielsweise an seinem Geburtstag, dem 11. März, seinem Todestag, dem 11 Mai oder dem 11 Februar, dem [42.](<http://de.wikipedia.org/wiki/42_(Antwort)>) Tag des Jahres) akzeptieren.
 
 Zur Feier des Tages werde natürlich auch ich morgen wieder mein Handtuch hissen. Noch ist jedoch nicht ganz klar, welches. Natürlich habe ich eine einigermaßen große Sammlung, um jeden Tag perfekt ausgestattet zu bestreiten
 
@@ -99,7 +99,7 @@ Ein Urlaubsmitbringsel aus einem meiner Lieblingsländer.
 
 ## Handtuch No. 3
 
-Nicht besonders schön, dafür hat es eine besondere Geschichte: Wahrscheinlich werdet Ihr mich nun für verrückt erklären, weil Ihr nicht verstehen könnt, wie das passieren konnte. Es begab sich vor einigen Jahren. Ich war mit ein paar Freunden auf dem Weg zu einem wundervollen, sonnigen [Festival](/2013/03/28/die-ultimative-festivalliste-2013/). 5 km von der Heimat entfernt verspürte ich plötzlich eine extreme innere Unruhe. Ich prüfte meinen Rucksack und stellte, der Ohnmacht nahe, fest, dass ich mein Handtuch ( [Festival-Handtuch: Siehe Abbildung No. 4](Handtuch No. 4) ) zu Hause vergessen hatte! Sofort fuhren wir von der Autobahn runter und suchten so lange, bis wir ein Handtuch-Fachgeschäft gefunden hatten, in dem ich das sündhaft teure Stück dann erstanden habe. Schon beim Betreten des Festival-Geländes fielen die ersten Tropfen. Es regnete das ganze Wochenende durch. Das kann kein Zufall gewesen sein. Als ich wieder zu Hause angekommen war, hatten sich meine beiden Kater auf dem Festival-Handtuch eine Nest aus ihrer eigenen Wolle, Papierschnipseln und sonstigem Kram gebastelt. Seit diesem Zeitpunkt vergesse ich nie wieder mein Handtuch
+Nicht besonders schön, dafür hat es eine besondere Geschichte: Wahrscheinlich werdet Ihr mich nun für verrückt erklären, weil Ihr nicht verstehen könnt, wie das passieren konnte. Es begab sich vor einigen Jahren. Ich war mit ein paar Freunden auf dem Weg zu einem wundervollen, sonnigen [Festival](/2013/03/die-ultimative-festivalliste-2013/). 5 km von der Heimat entfernt verspürte ich plötzlich eine extreme innere Unruhe. Ich prüfte meinen Rucksack und stellte, der Ohnmacht nahe, fest, dass ich mein Handtuch ( [Festival-Handtuch: Siehe Abbildung No. 4](Handtuch No. 4) ) zu Hause vergessen hatte! Sofort fuhren wir von der Autobahn runter und suchten so lange, bis wir ein Handtuch-Fachgeschäft gefunden hatten, in dem ich das sündhaft teure Stück dann erstanden habe. Schon beim Betreten des Festival-Geländes fielen die ersten Tropfen. Es regnete das ganze Wochenende durch. Das kann kein Zufall gewesen sein. Als ich wieder zu Hause angekommen war, hatten sich meine beiden Kater auf dem Festival-Handtuch eine Nest aus ihrer eigenen Wolle, Papierschnipseln und sonstigem Kram gebastelt. Seit diesem Zeitpunkt vergesse ich nie wieder mein Handtuch
 
 <RemoteImage
   alt={`Sündhaft teures Handtuch`}
@@ -112,7 +112,7 @@ Nicht besonders schön, dafür hat es eine besondere Geschichte: Wahrscheinlich 
 
 ## Handtuch No. 4
 
-Das Festival-Handtuch: Meine Oma hat es mir zu Lebzeiten aus Florida mitgebracht. Ich hänge sehr daran. Was man ziemlich gut erkennen kann, denn es ist schon ziemlich ausgewaschen. Es wurde mal von einer Florida-Karte geziert, wenn man ganz genau hinsieht, kann man sie noch schemenhaft erkennen. Das Festival-Handtuch ist irre praktisch. Weil es schon so extrem oft gewaschen wurde, ist es sehr dünn, fast schon fragil. Daher kann man es fast bis auf Briefmarkengröße zusammenfalten, Ergo: Es nimmt so gut wie gar keinen Platz [im Rucksack](/2013/03/28/die-ultimative-festivalliste-2013/) weg, was auf Festivals durchaus von Vorteil ist. Trotzdem ist es groß genug, um es als Turban zu benutzen, es als Sonnenschutz um die Schultern zu schlingen oder als Sonnensegel über das Vordach des Iglu-Zelts zu legen.
+Das Festival-Handtuch: Meine Oma hat es mir zu Lebzeiten aus Florida mitgebracht. Ich hänge sehr daran. Was man ziemlich gut erkennen kann, denn es ist schon ziemlich ausgewaschen. Es wurde mal von einer Florida-Karte geziert, wenn man ganz genau hinsieht, kann man sie noch schemenhaft erkennen. Das Festival-Handtuch ist irre praktisch. Weil es schon so extrem oft gewaschen wurde, ist es sehr dünn, fast schon fragil. Daher kann man es fast bis auf Briefmarkengröße zusammenfalten, Ergo: Es nimmt so gut wie gar keinen Platz [im Rucksack](/2013/03/die-ultimative-festivalliste-2013/) weg, was auf Festivals durchaus von Vorteil ist. Trotzdem ist es groß genug, um es als Turban zu benutzen, es als Sonnenschutz um die Schultern zu schlingen oder als Sonnensegel über das Vordach des Iglu-Zelts zu legen.
 
 <RemoteImage
   alt={`Towel Day`}
@@ -125,7 +125,7 @@ Das Festival-Handtuch: Meine Oma hat es mir zu Lebzeiten aus Florida mitgebracht
 
 ## Handtuch No. 5
 
-Ich habe es vor Kurzem beim Tuchhändler meines Vertrauens erworben, es gefiel mir, weil es schön bunt, ausreichend groß und zu dem dünn ist. Sollte, was ich nicht hoffe, das Festival-Handtuch eines Tages das Zeitliche segnen, hat es evtl. Chancen, seinen Platz einzunehmen. Erzählt das ab bitte nicht dem Festival-Handtuch! Natürlich wird das noch etliche Jahre dauern und das „Kaufhandtuch“ muss natürlich auch erst noch eine Geschichte kriegen. Aber glaubt mir: Spätestens nach dem ersten [Baggersee-Besuch](/2011/08/15/lieder-am-ufer/) wird es schon was zu erzählen haben
+Ich habe es vor Kurzem beim Tuchhändler meines Vertrauens erworben, es gefiel mir, weil es schön bunt, ausreichend groß und zu dem dünn ist. Sollte, was ich nicht hoffe, das Festival-Handtuch eines Tages das Zeitliche segnen, hat es evtl. Chancen, seinen Platz einzunehmen. Erzählt das ab bitte nicht dem Festival-Handtuch! Natürlich wird das noch etliche Jahre dauern und das „Kaufhandtuch“ muss natürlich auch erst noch eine Geschichte kriegen. Aber glaubt mir: Spätestens nach dem ersten [Baggersee-Besuch](/2011/08/lieder-am-ufer/) wird es schon was zu erzählen haben
 
 <RemoteImage
   alt={`Kauf-Handtuch`}

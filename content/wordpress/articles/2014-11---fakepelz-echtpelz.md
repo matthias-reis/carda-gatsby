@@ -44,9 +44,9 @@ month: '11'
 
 ## Die finsteren Machenschaften der Modeindustrie
 
-** [_Hier gehts zu Teil 7 des Artikels_](/2014/10/16/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) ** **Vegan leben bedeutet natürlich auch, auf das Tragen von Pelz und Leder, sprich das Fell und die Haut von Tieren zu verzichten. Pelzmäntel sieht man heute kaum noch, die Grausamkeit um ihre Herstellung ist von diversen Tierrechtsaktionen in den Köpfen der Menschen eingebrannt.**
+** [_Hier gehts zu Teil 7 des Artikels_](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) ** **Vegan leben bedeutet natürlich auch, auf das Tragen von Pelz und Leder, sprich das Fell und die Haut von Tieren zu verzichten. Pelzmäntel sieht man heute kaum noch, die Grausamkeit um ihre Herstellung ist von diversen Tierrechtsaktionen in den Köpfen der Menschen eingebrannt.**
 
-Pelz gilt nach wie vor als Luxusware, ganz anders als zum Beispiel Leder und [Wolle](/2014/10/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/), Materialien, die die Menschen als alltäglich ansehen, aus dem Alltag sind sie für die meisten von uns nur schwer wegzudenken.
+Pelz gilt nach wie vor als Luxusware, ganz anders als zum Beispiel Leder und [Wolle](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/), Materialien, die die Menschen als alltäglich ansehen, aus dem Alltag sind sie für die meisten von uns nur schwer wegzudenken.
 
 Die Realität sieht inzwischen etwas anders aus. In der aktuellen Mode zeigen sich Pelzkragen, Pelzbommel an Mützen, Pelzkapuzen und **Pelzfutter** in Winterstiefeln und in Mänteln, wo man hinsieht. Nahezu in jedem Modegeschäft hängen Kleidungsstücke, die mit Pelz besetzt sind.
 
@@ -130,7 +130,7 @@ _ **Paul, FreiVon vegane Schuhe:** „In den Medien werden weniger Bilder und Fi
 
 </blockquote>
 
-Natürlich handelt es sich auch bei Schaffell um die Haut von Tieren, auch mit Schaffell versehene Kleidung wird in der kalten Jahreszeit gerne verkauft. Besonders auch auf Weihnachtsmärkten findet man immer wieder komplette Schafhäute, oft auch von Ungeborenen oder Milchlämmchen. Alles zum Thema Wolle findet Ihr in [Teil 6](/2014/10/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/) meiner Artikelserie. Auch bei der Wollgewinnung werden Tiere ernsthaft verletzt (Stichwort **Mulesing** )
+Natürlich handelt es sich auch bei Schaffell um die Haut von Tieren, auch mit Schaffell versehene Kleidung wird in der kalten Jahreszeit gerne verkauft. Besonders auch auf Weihnachtsmärkten findet man immer wieder komplette Schafhäute, oft auch von Ungeborenen oder Milchlämmchen. Alles zum Thema Wolle findet Ihr in [Teil 6](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/) meiner Artikelserie. Auch bei der Wollgewinnung werden Tiere ernsthaft verletzt (Stichwort **Mulesing** )
 
 Neben der Ausbeutung der Tiere kommt es bei der Pelzherstellung zu massiven Umweltverschmutzungen, CO<sub>2</sub> wird ausgestoßen, die Chemie, die bei der Produktion verwendet wird und die Ausscheidungen der Tiere verschmutzen Boden und Grundwasser.
 

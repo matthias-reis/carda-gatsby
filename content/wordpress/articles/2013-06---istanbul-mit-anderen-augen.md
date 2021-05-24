@@ -51,7 +51,7 @@ Wir waren traurig, sie für lange Zeit nicht mehr sehen zu können und wünschte
 
 Danach habe ich Caro für längere Zeit aus den Augen verloren, wir hatten für etwa drei Jahre gar nichts mehr miteinander zu tun. Bis ich sie eines Tages in Facebook entdeckte und ihr schrieb. Wie froh war ich damals, endlich wieder mit ihr schreiben zu können! Und sie hatte ganz besondere Nachrichten für mich!
 
-Sie war nach Istanbul, [meine persönliche Stadt der Herzen](//2010/01/08/mein-istanbul/) aufgebrochen, um dort ein Erasmus-Semester zu verbringen. Was für ein Zufall! Ich war sogar zeitgleich mit Ihr dort gewesen! Hätte ich das gewusst, hätten wir sicher den ein oder anderen schönen Abend in Istanbul verbracht. Aber aufgeschoben ist schließlich nicht aufgehoben und nun da ich weiß, wo meine liebe Caro sich aufhält, werde ich sie sicherlich ganz bald dort besuchen.
+Sie war nach Istanbul, [meine persönliche Stadt der Herzen](//2010/01/mein-istanbul/) aufgebrochen, um dort ein Erasmus-Semester zu verbringen. Was für ein Zufall! Ich war sogar zeitgleich mit Ihr dort gewesen! Hätte ich das gewusst, hätten wir sicher den ein oder anderen schönen Abend in Istanbul verbracht. Aber aufgeschoben ist schließlich nicht aufgehoben und nun da ich weiß, wo meine liebe Caro sich aufhält, werde ich sie sicherlich ganz bald dort besuchen.
 
 Caro hätte Istanbul bereits nach vier Monaten Erasmus wieder verlassen, wäre da nicht Özgür gewesen, in den sie sich Hals über Kopf verliebte und er sich in sie. Inzwischen wohnt sie bereits seit zwei Jahren dort.
 

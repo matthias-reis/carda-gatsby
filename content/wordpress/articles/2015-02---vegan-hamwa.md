@@ -74,7 +74,7 @@ Im Privatfernsehen läuft derweil die Wurstwerbung weiterhin rund und sogenannte
 
 ## Das Unwort unseres Zeitalters
 
-Wie lange noch? Wie lange, bis wir uns das kollektiv nicht mehr gefallen lassen werden? Werden eines Tages Warnhinweise auf Milchtüten zu finden sein? „Milchkonsum schadet der Gesundheit“? Zu diesem Thema habe ich mich ja vor kurzem schon mal sehr ausführlich [hier ausgelassen](/2014/09/09/pflanzenmilch-wieso-denn-blos/). Doch zum Glück begreifen wir nach und nach, was das Unwort unseres Zeitalters ist: **Nutztier** .
+Wie lange noch? Wie lange, bis wir uns das kollektiv nicht mehr gefallen lassen werden? Werden eines Tages Warnhinweise auf Milchtüten zu finden sein? „Milchkonsum schadet der Gesundheit“? Zu diesem Thema habe ich mich ja vor kurzem schon mal sehr ausführlich [hier ausgelassen](/2014/09/pflanzenmilch-wieso-denn-blos/). Doch zum Glück begreifen wir nach und nach, was das Unwort unseres Zeitalters ist: **Nutztier** .
 
 ## Vegan - Wir machen mit!
 
@@ -95,7 +95,7 @@ Und es gibt einiges zu tun! Ich spreche hier auch die Verpackungsdesigner an. Wa
 
 Not macht übrigens ganz schön erfinderisch, ein paar findige **Veganer** haben sich da schon eine ganze Menge geniale Dinge ausgedacht. Inzwischen gibt es Online-Shops für veganes Schuhwerk, vegane KITAS, vegane Imbisse an jeder Ecke und vegane Kochkurse. Im Internet formieren sich Gruppen von Veganern, um Produktanfragen auszutauschen, Kochrezepte weiterzugeben und Einkaufserfahrungen kundzutun.
 
-Allein auf Facebook dürfte die Anzahl der veganen Communities allein in Deutschland inzwischen im 5stelligen Bereich liegen. Wann hat es sowas zuletzt gegeben? Eine Interessensgruppe taucht auf, tauscht sich aus und organisiert sich. Es kommt zu Verabredungen, Stammtischen und Plangruppen für neue Cafés, Restaurants und sogar ganzen Wohngemeinschaften, [Genossenschaften](/2015/02/06/veganer-sind-unglaublich-kreativ/) und Kommunen.
+Allein auf Facebook dürfte die Anzahl der veganen Communities allein in Deutschland inzwischen im 5stelligen Bereich liegen. Wann hat es sowas zuletzt gegeben? Eine Interessensgruppe taucht auf, tauscht sich aus und organisiert sich. Es kommt zu Verabredungen, Stammtischen und Plangruppen für neue Cafés, Restaurants und sogar ganzen Wohngemeinschaften, [Genossenschaften](/2015/02/veganer-sind-unglaublich-kreativ/) und Kommunen.
 
 ## Die Ökolatsche 2.0
 

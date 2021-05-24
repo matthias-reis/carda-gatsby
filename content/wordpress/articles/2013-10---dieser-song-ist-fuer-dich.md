@@ -65,7 +65,7 @@ Der Herbst färbt draußen alles gelb und grau. Dem Kater geht es wieder besser,
 
 Wir sind wirklich froh, dass sich alles so zum Guten gewendet hat. Die Ärzte in der Rehaklinik sagen, es grenzt an ein Wunder. Chili hat viele Fans dort. Am Montag waren wir kurz zur Untersuchung dort und von der Emfangsdame bis zum Lehrmädchen haben sich alle gefreut, ihn wiederzusehen.
 
-Übrigens habe ich [meinen Pakt mit dem Schweinehund](//2013/09/09/mein-pakt-mit-dem-schweinehund/) bis jetzt nicht gebrochen. Letzten Mittwoch habe ich meine Stiefel bestellt, die ich von ihm zu Belohnung bekomme, dass ich jetzt seit einem Monat nicht mehr rauche. Leider sind sie noch nicht da, aber ich poste gerne eine Foto, sobald sie bei mir eintreffen.
+Übrigens habe ich [meinen Pakt mit dem Schweinehund](/2013/09/mein-pakt-mit-dem-schweinehund/) bis jetzt nicht gebrochen. Letzten Mittwoch habe ich meine Stiefel bestellt, die ich von ihm zu Belohnung bekomme, dass ich jetzt seit einem Monat nicht mehr rauche. Leider sind sie noch nicht da, aber ich poste gerne eine Foto, sobald sie bei mir eintreffen.
 
 Jetzt, da es wieder ein Bisschen ruhiger wird und ich hoffentlich auch häufiger wieder die Zeit dazu finden werde, gelobe ich Besserung. Ich will auf jeden Fall wieder mehr schreiben und den ein oder anderen Satz davon auch hier für Euch ins Netz stellen.
 
@@ -94,6 +94,6 @@ Ich bin schon unglaublich gespannt, Ihr auch? Einen kleinen Teaser hat mir Marti
 
 Wie gefällt Euch das neue Pearl Jam Album? Ich finde, es ist eine Wucht, ich werde mich heute Abend auch auf jeden Fall noch etwas eingehender damit beschäftigen. Vorab hier schon mal ein wundervoller Auszug daraus. Der Song heißt Sirens.
 
-Mathis, dieser Song ist für Dich. [Weißt Du noch](//2012/07/29/isle-of-wight-festival-2012/) ?
+Mathis, dieser Song ist für Dich. [Weißt Du noch](/2012/07/isle-of-wight-festival-2012/) ?
 
 <YouTube id="qQXP6TDtW0w&amp;w=560&amp;h=315" />

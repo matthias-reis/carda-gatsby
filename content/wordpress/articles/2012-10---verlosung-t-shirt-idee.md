@@ -124,11 +124,11 @@ subTitle: Die Bildergalerie
 
 ---
 
-**Wie inzwischen alle mitbekommen haben sollten, war gestern der Einsendeschluss meines [T-Shirt-Idee-Gewinnspiels](//2012/09/06/verlosung-exklusive-cd-t-shirts-und-vinyl-zu-gewinnen/). Ich habe mich sehr über Eure zahlreiche Teilnahme und über die wunderbaren T-Shirt-Fotos, die Ihr mir zugesendet habt gefreut. Heute zeige ich Euch die versprochene Bildergalerie der eingesendeten Fotos, die verschiedener nicht sein könnten.**
+**Wie inzwischen alle mitbekommen haben sollten, war gestern der Einsendeschluss meines [T-Shirt-Idee-Gewinnspiels](/2012/09/verlosung-exklusive-cd-t-shirts-und-vinyl-zu-gewinnen/). Ich habe mich sehr über Eure zahlreiche Teilnahme und über die wunderbaren T-Shirt-Fotos, die Ihr mir zugesendet habt gefreut. Heute zeige ich Euch die versprochene Bildergalerie der eingesendeten Fotos, die verschiedener nicht sein könnten.**
 
 Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen hat?". Dazu kann ich nur sagen: Ich werde Euch noch ein kleines Weilchen auf die Folter spannen. Die Gewinner werden heute Abend gezogen und morgen an dieser Stelle bekanntgegeben und per E-Mail über Ihren Gewinn in Kenntnis gesetzt. Also, schaltet auch morgen wieder ein, wenn es heißt: "AND THE WINNERS ARE..."!  Ich wünsche allen einen schönen Montag und bedanke mich für die Teilnahme am Gewinnspiel! Ich muss sagen, es hat mir wirklich großen Spaß gemacht!
 
-[Hier geht's nochmal zur Verlosung](//2012/09/06/verlosung-exklusive-cd-t-shirts-und-vinyl-zu-gewinnen/), für alle, die die Gewinne nochmal sehen wollen. Und nun viel Spaß mit der T-Shirt-Galerie!
+[Hier geht's nochmal zur Verlosung](/2012/09/verlosung-exklusive-cd-t-shirts-und-vinyl-zu-gewinnen/), für alle, die die Gewinne nochmal sehen wollen. Und nun viel Spaß mit der T-Shirt-Galerie!
 
 <RemoteImage
   alt={`Verlosung`}

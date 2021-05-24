@@ -67,9 +67,9 @@ Manchmal mangelt es an Verständnis, dann bedarf es einer Erklärung. Lebensplan
 
 Das Leben gehört nicht vakuumverpackt in eine Schublade eingeräumt. Es ist mal herzförmig und bunt, mal grau und steinartig, dann wieder sternförmig und glitzernd. Immer in Bewegung. Genau wie ein Strand. Geformt vom Ozean.
 
-Ich wünsche allen einen schönen Montag. Hiermit möchte ich nochmal freundlich auf mein [spektakuläres Gewinnspiel](//2012/08/16/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/) hinweisen, für das ich weder Kosten noch Mühen gescheut habe. Es gibt tolle Musik zu Gewinnen. Ich würde mich sehr freuen, wenn Ihr mitmacht und das womöglich auch noch weitererzählt.
+Ich wünsche allen einen schönen Montag. Hiermit möchte ich nochmal freundlich auf mein [spektakuläres Gewinnspiel](/2012/08/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/) hinweisen, für das ich weder Kosten noch Mühen gescheut habe. Es gibt tolle Musik zu Gewinnen. Ich würde mich sehr freuen, wenn Ihr mitmacht und das womöglich auch noch weitererzählt.
 
-Liebe Grüße aus der Mittagspausensonne hinter dem Bürofenster. \_\_
+Liebe Grüße aus der Mittagspausensonne hinter dem Bürofenster.
 
 ## Song des Tages Weezer – "Island In The Sun"
 

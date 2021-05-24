@@ -71,7 +71,7 @@ T-Shirt zu gewinnen!`}
 
 Nun gibt es etwas Tolles zu Berichten: Gunter vom [Herzberg-Festival-Veranstaltungsteam](http://www.burgherzberg-festival.de/) stellt zusätzlich noch ein T-Shirt zur Verfügung, das ich natürlich gerne noch in die Verlosung mit aufnehme. Das T-Shirt stammt aus der aktuellen Kollektion 'Make Love Work' exklusiv vom Herzberg-Festival 2012. Es wird dem/der glücklichen Gewinner/in in seiner persönlichen Konfektionsgröße zugestellt.
 
-[Also macht auf jeden Fall mit, es lohnt sich!](//2012/08/16/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/)
+[Also macht auf jeden Fall mit, es lohnt sich!](//2012/08/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/)
 
 Ich freue mich natürlich sehr, wenn Ihr das auch weitersagt, Ihr dürft meinen Artikel gerne rebloggen oder auf Facebook oder Twitter teilen.
 

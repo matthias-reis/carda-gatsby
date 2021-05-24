@@ -40,9 +40,9 @@ subTitle: Fotogalerie
 
 **Hier nun endlich die langersehnten Bilder vom Calexico-Konzert letzten Donnerstag in der Münchner Muffathalle direkt aus meinem Fotolabor.**
 
-Calexico überraschten nicht nur mit einer [besonderen Vorband](//2012/11/30/blind-pilot-live-muffathalle-munchen-29-11-2012/), sondern auch mit einer teilweise neuen Besetzung. Was die tollen Stimmung im Wohnzimmer der Band keinesfalls störte.
+Calexico überraschten nicht nur mit einer [besonderen Vorband](/2012/11/blind-pilot-live-muffathalle-munchen-29-11-2012/), sondern auch mit einer teilweise neuen Besetzung. Was die tollen Stimmung im Wohnzimmer der Band keinesfalls störte.
 
-Besonders toll: Die Band lies es sich auch dieses Mal nicht nehmen einige Songs zusammen mit Ihrer Vorband zu spielen. Wunderbar, dieser Glanz in den Augen der [Blind Pilot Musiker](//2012/11/30/blind-pilot-live-muffathalle-munchen-29-11-2012/), die zu Tausend Prozent zu schätzen wussten, was da oben auf dieser Bühne gerade vor sich ging.
+Besonders toll: Die Band lies es sich auch dieses Mal nicht nehmen einige Songs zusammen mit Ihrer Vorband zu spielen. Wunderbar, dieser Glanz in den Augen der [Blind Pilot Musiker](/2012/11/blind-pilot-live-muffathalle-munchen-29-11-2012/), die zu Tausend Prozent zu schätzen wussten, was da oben auf dieser Bühne gerade vor sich ging.
 
 <Gallery
   images={[

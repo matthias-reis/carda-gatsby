@@ -195,7 +195,7 @@ Das sind eigentlich drei Songs: "Touch Of Grey" von Grateful Dead, "Ob-la-di, Ob
 
 **Bei welcher Gelegenheit fiel Dir zuletzt auf, dass Du älter geworden bist?**
 
-Als ich einen [Akupunkturtermin](/2014/11/11/auf-dem-weg-zur-tiefenentspannung/) vereinbart habe, um meine Nackenschmerzen loszuwerden.
+Als ich einen [Akupunkturtermin](/2014/11/auf-dem-weg-zur-tiefenentspannung/) vereinbart habe, um meine Nackenschmerzen loszuwerden.
 
 **... wird mit dem Alter immer wichtiger.**
 

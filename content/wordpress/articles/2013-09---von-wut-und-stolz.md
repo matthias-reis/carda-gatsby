@@ -44,7 +44,7 @@ subTitle: Die erste Etappe ist geschafft
 
 **Sechs Tage ist es her, seit ich das letzte Mal berichtet habe. Das bedeutet, dass ich seit sieben Tagen nicht mehr geraucht habe. Zeit für die erste Belohnung und für einen kleinen Rückblick.**
 
-Was ich seit [letztem Montag um 13:30 Uhr](//2013/09/09/mein-pakt-mit-dem-schweinehund/) erlebt habe? So einiges. Und die halbe Schachtel, die ich um diese Uhrzeit in meine Schreibtischschublade gelegt habe, liegt dort immer noch. Ich habe sie kein einziges Mal angerührt. Ihr dürft also stolz auf mich sein.
+Was ich seit [letztem Montag um 13:30 Uhr](/2013/09/mein-pakt-mit-dem-schweinehund/) erlebt habe? So einiges. Und die halbe Schachtel, die ich um diese Uhrzeit in meine Schreibtischschublade gelegt habe, liegt dort immer noch. Ich habe sie kein einziges Mal angerührt. Ihr dürft also stolz auf mich sein.
 
 Den Rest des Montags verbrachte ich voller Euphorie, weil ich ja gerade aufgehört hatte und vor allem auch, weil ich mich mit meinem Aufhör-Artikel ja selbst ganz schön unter Druck gesetzt hatte. Mir blieb also nicht viel Zeit, die Zigaretten zu vermissen.
 
@@ -59,11 +59,11 @@ Der Dienstag war schon anstrengender, im Büro gab es die ein oder andere Situat
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHACADASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAIFB//EACUQAAEDAwMDBQAAAAAAAAAAAAECAxEABCEFEzEGElEkMjNBcf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAERIh/9oADAMBAAIRAxEAPwDdNL6de025ud7U7i7F4/uy4VyggHHvMzP1HHFWptHLZkerWEjwmc+cmlKgDyS9OsC3QDN26cd3xJmI/am2pe4FLuXHEBUFJbA54yDSlLLcv//Z"
 />
 
-Was mir bis heute geblieben ist: [Die Worte der Twitterer und RL-Freunde](//2013/09/10/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/), die mich am Dienstag erreichten ( "[Der Trick ist, dich zu freuen, dass du nicht mehr rauchen musst!](https://twitter.com/Patoempf)" , "[Zwei Tage waren hart, danach hat es seltsamerweise nie wieder gekribbelt.](https://twitter.com/twittschicat)" ) laufen seitdem Mantra-artig auf meiner Kopf-Festplatte in Dauerschleife.
+Was mir bis heute geblieben ist: [Die Worte der Twitterer und RL-Freunde](/2013/09/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/), die mich am Dienstag erreichten ( "[Der Trick ist, dich zu freuen, dass du nicht mehr rauchen musst!](https://twitter.com/Patoempf)" , "[Zwei Tage waren hart, danach hat es seltsamerweise nie wieder gekribbelt.](https://twitter.com/twittschicat)" ) laufen seitdem Mantra-artig auf meiner Kopf-Festplatte in Dauerschleife.
 
 Als es am Abend dann an die Organisation unseres anstehenden Umzuges ging, bei der einige Fragen noch nicht geklärt waren, wurde ich schon nervöser. Kurzzeitig machte ich mir Gedanken, ob es nicht besser wäre, wieder anzufangen, als Matze derart anzuzicken. Das schlechte Gewissen überwiegte dann aber, ich entschuldigte mich für mein Verhalten, er reagierte äußerst süß und schon waren die Stinkedinger wieder vergessen.
 
-Nachdem ich am Mittwoch die Arbeit ganz gut mit Früchtetee statt Kippen verbracht hatte, wurde es am Abend richtig haarig. Ich hatte mich mit einer [guten Freundin von früher](//2013/06/05/istanbul-mit-anderen-augen/) verabredet, die seit längerer Zeit in Istanbul lebt und nur noch sehr selten in Deutschland zu Besuch ist. Natürlich war ich aufgedreht, das kann man sich ja vorstellen. Als sie dann auch noch eine zweite Freundin aus dieser Zeit mitbrachte, die vor einiger Zeit nach Malaysia übergesiedelt war und von der ich schon in der Zeit davor aus den Augen verloren hatte, war es ganz um mich geschehen. Ich freute mich wie verrückt. Natürlich machten sich die beiden bei der Begrüßung gleich erst mal eine Zigarette an.
+Nachdem ich am Mittwoch die Arbeit ganz gut mit Früchtetee statt Kippen verbracht hatte, wurde es am Abend richtig haarig. Ich hatte mich mit einer [guten Freundin von früher](/2013/06/istanbul-mit-anderen-augen/) verabredet, die seit längerer Zeit in Istanbul lebt und nur noch sehr selten in Deutschland zu Besuch ist. Natürlich war ich aufgedreht, das kann man sich ja vorstellen. Als sie dann auch noch eine zweite Freundin aus dieser Zeit mitbrachte, die vor einiger Zeit nach Malaysia übergesiedelt war und von der ich schon in der Zeit davor aus den Augen verloren hatte, war es ganz um mich geschehen. Ich freute mich wie verrückt. Natürlich machten sich die beiden bei der Begrüßung gleich erst mal eine Zigarette an.
 
 <RemoteImage
   alt={`Eulen helfen immer`}
@@ -114,9 +114,9 @@ Freitag halfen wir dann einer Freundin (Nichtraucherin) beim Umzug. Ich dachte z
 
 Klar, ich denke noch dran. Sogar ständig. Sonst würde ich auch diesen Artikel hier nicht schreiben. Aber ich versuche es jeden Tag, mich weiter zu motivieren. Die Wut, die schlechte Laune, der Drang lässt langsam schon ein Bisschen nach. Und ich fühle mich gut. Muss nicht mehr so oft an Eisenlungen denken. Bemerke, wie schnell ich aus der Puste bin. Ach ja: Ich habe mich mit dem Matze und Evelyn beim Sport angemeldet. Was ganz Neues.
 
-Ob ich es für immer schaffe, kann ich nicht sagen. Im Moment fühlt es sich gut an. Manche Situationen kann ich mir auch jetzt noch nicht ohne Zigaretten vorstellen ( [Festival](//2013/07/01/southside-festival-2013/) : Campingplatz, warten auf die Bands), aber die Bilder im Kopf verlieren auch nach und nach an Glanz.
+Ob ich es für immer schaffe, kann ich nicht sagen. Im Moment fühlt es sich gut an. Manche Situationen kann ich mir auch jetzt noch nicht ohne Zigaretten vorstellen ( [Festival](/2013/07/southside-festival-2013/) : Campingplatz, warten auf die Bands), aber die Bilder im Kopf verlieren auch nach und nach an Glanz.
 
-Der Schweinehund hat heute (siehe Bild oben) das erste Geschenk von mir bekommen. [Für eine Woche Abstinenz](//2013/09/09/mein-pakt-mit-dem-schweinehund/) kann er sich jetzt "Six Feed Under" mit mir ankucken. Wehe, die Serie ist nicht so gut, wie der Schweinehund behauptet hat. Dann kann das wollige Ungetüm sich auf was gefasst machen.
+Der Schweinehund hat heute (siehe Bild oben) das erste Geschenk von mir bekommen. [Für eine Woche Abstinenz](/2013/09/mein-pakt-mit-dem-schweinehund/) kann er sich jetzt "Six Feed Under" mit mir ankucken. Wehe, die Serie ist nicht so gut, wie der Schweinehund behauptet hat. Dann kann das wollige Ungetüm sich auf was gefasst machen.
 
 _Drückt mir die Daumen. Ich werde weiter berichten._
 

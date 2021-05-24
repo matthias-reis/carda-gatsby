@@ -87,7 +87,7 @@ Dort übernachten wir einmal und am nächsten Tage gehts gemeinsam aufs Southsid
   ]}
 />
 
-Heute Abend muss ich erst mal meine Gummistiefel dekontaminieren, da klebt noch der Schlamm vom [Isle of Wight Festival](//2012/07/29/isle-of-wight-festival-2012/) und vom [Herzberg Festival](//2012/08/02/burg-herzberg-festival-2012/) dran. Das wird sicher ein Schlammbad erster Klasse.
+Heute Abend muss ich erst mal meine Gummistiefel dekontaminieren, da klebt noch der Schlamm vom [Isle of Wight Festival](//2012/07/isle-of-wight-festival-2012/) und vom [Herzberg Festival](//2012/08/burg-herzberg-festival-2012/) dran. Das wird sicher ein Schlammbad erster Klasse.
 
 <RemoteImage
   alt={`Are you ready boots?`}

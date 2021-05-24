@@ -170,7 +170,7 @@ Heute kaum noch verbreitet ist Press-, Stampf-, Tropf- oder Seimhonig, bei dem d
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgEDB//EACsQAAEDAgUCBgIDAAAAAAAAAAECAwQFEQAGEiExB0ETIlFhcZEUMqHR8P/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIDEjERYdHw/9oADAMBAAIRAxEAPwCwdLMpBMd5+WpAb20pTwlIH6knj3OMdV6g9GVSDS44Stx9ttlS4+oELWE+UXuNQuAAL23+NmUq5+THEBpvwocchkhO5fULbW9L8nv94Z9T84RMoZefZZkw0ZlebStAXpUplKlhN0pPcXP+OIrrcm64/dehx2U7rhV4FPpEbK1IjtSWZKHRIkMvpCw4hSbkjfi6ubcX7Y4VUaKYzKWkAOvkqKxp02Ha/wDH3hzBWtFWkz3W40iQ9KU4UON2u4TqJUPQK/re+GE7xXI5S84PyD5lK0i++9wPcmwHxgqY4ocoJLga5LrsikRn6gyhK3IwCWkq4BJAufXnFBl5gn5qrMeTWVNuvaC2VBFioairffm6sGDGVxWTYmGySxNCFsrQykFXFzfSkE7fPviQxUHWoC5w3fc8gUSTpJB3F+4Bt9nBgxSG2f/Z"
 />
 
-Um einen möglichst hohen Gewinn zu erzielen, kommt es, genau wie bei [Milchproduktion](//2014/09/09/pflanzenmilch-wieso-denn-blos/), auch bei der Honiggewinnung zur Manipulation und Ausbeutung der Tiere.
+Um einen möglichst hohen Gewinn zu erzielen, kommt es, genau wie bei [Milchproduktion](/2014/09/pflanzenmilch-wieso-denn-blos/), auch bei der Honiggewinnung zur Manipulation und Ausbeutung der Tiere.
 
 Die Bienen werden dabei in sogenannten Magazinen gehalten, die den natürlichen Bienenstöcken ähneln sollen. Natürlich ziehen die Bienen dort nicht freiwillig ein, weshalb einige Imker auch noch in der heutigen Zeit die Flügel der **Bienenkönigin** stutzen. Die meisten verlassen sich heutzutage auf sogenannte "schwarmträge" Zuchtbienen, um das Ausfliegen ihrer Völker zu verhindern. Die Arbeiterbienen sind ihrer Königin hörig und weil sie ohne sie niemals weiterziehen würden, sind sie fortan an das Magazin gebunden.
 
@@ -272,7 +272,7 @@ Honig lässt sich im Übrigen auch ganz leicht selbst und ohne den Umweg über d
 
 Das Wasser zusammen mit den Blumen aufkochen und im Anschluss für ca. 3-4 Stunden ziehen lassen. Den Sud durch ein Sieb drücken und mit dem Zitronensaft und dem Zucker einkochen, bis er dickflüssig wird. In ein großes oder zwei kleine Marmeladengläser abfüllen und fertig ist der Gänseblümchenhonig. <3
 
-[_ **Hier gehts zu Teil 8 des Artikels** _](/2014/11/28/fakepelz-echtpelz/)
+[_ **Hier gehts zu Teil 8 des Artikels** _](/2014/11/fakepelz-echtpelz/)
 
 <RemoteImage
   alt={`Sie fliegt von Blüte zu Blüte`}

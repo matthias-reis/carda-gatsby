@@ -39,7 +39,7 @@ errors: {}
 subTitle: Sommerlicher Smoothie
 ---
 
-**Gestern habe ich von meinem Vorhaben, wieder laufen zu gehen [berichtet](//2014/08/31/sonnenaufgang-im-paradies/). Nachdem gestern alles gut funktioniert hat und ich die drei Kilometer gut überstanden habe, habe ich es heute gleich noch mal versucht.**
+**Gestern habe ich von meinem Vorhaben, wieder laufen zu gehen [berichtet](/2014/08/sonnenaufgang-im-paradies/). Nachdem gestern alles gut funktioniert hat und ich die drei Kilometer gut überstanden habe, habe ich es heute gleich noch mal versucht.**
 
 Nach fast vier Kilometern durch den Park und durch die Gassen der Altstadt musste ich mich im Anschluss mit etwas ganz Besonderem belohnen.
 

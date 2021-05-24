@@ -82,7 +82,7 @@ Zitat Trent: _"We have a lotta shit for you!"_
 
 Als kleine Wiedergutmachung, da wir ob der etwas klein ausgefallenen Bühne, nicht die komplette Lightshow geboten bekamen, spielten NINE INCH NAILS anstatt 20 Songs, wie auf den meisten anderen Gigs der Tour 23 Stücke.
 
-Ein gelungenes Konzert, durch die kleinere Bühne und den Veranstaltungsort etwas intimer, als z. B. in Düsseldorf in der Philipshalle 2009 oder letztes Jahr bei [Rock'N'Heim](//2013/08/20/rocknheim-2013/), aber dadurch kein Bisschen ruhiger.
+Ein gelungenes Konzert, durch die kleinere Bühne und den Veranstaltungsort etwas intimer, als z. B. in Düsseldorf in der Philipshalle 2009 oder letztes Jahr bei [Rock'N'Heim](/2013/08/rocknheim-2013/), aber dadurch kein Bisschen ruhiger.
 
 Eine lohnende Reise. Nach der langen verregneten Anfahrt im Auto wurden wir, in Berlin angekommen, auch noch mit besten Wetter belohnt. Das hielt auch noch den nächsten Tag über an, was wir für eine schöne Stadterkundung nutzen, doch dazu mehr im nächsten Blogeintrag.
 

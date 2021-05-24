@@ -61,7 +61,7 @@ Wer mitmachen möchte, kann ganz einfach per  [E-Mail](mailto:info@cardamonchai
 
 Hier noch ein dickes Sorry dafür, dass ich Euch heute bei [Instagram](http://instagram.com/anne_reko/)  so mit Bildern zuspammen musste, ich bin bei diesem derart hohen Postaufkommen einfach mit dem Abfotografieren nicht mehr hinterhergekommen. Dazu kam noch erschwerend hinzu, dass meine iPhone-Kamera vor ein paar Tagen die Grätsche gemacht hat und ich ja erstmal alles in Instagram sammeln wollte, um dem gewählten Stil treu zu bleiben. Also musste ich da heute eine ganze Menge nachholen.
 
-Wo wir gerade bei Stil sind, fällt mir ein: [Der werte Herr Arschhaarzopf](http://arschhaarzopf.wordpress.com) wollte mir doch noch eine Karte schicken? Die wird doch nicht etwa [auf dem Postweg verloren gegangen](//2013/06/04/neues-aus-der-servicewuste-die-post-hat-sich-schon-langst-abgeschafft/) sein?
+Wo wir gerade bei Stil sind, fällt mir ein: [Der werte Herr Arschhaarzopf](http://arschhaarzopf.wordpress.com) wollte mir doch noch eine Karte schicken? Die wird doch nicht etwa [auf dem Postweg verloren gegangen](/2013/06/neues-aus-der-servicewuste-die-post-hat-sich-schon-langst-abgeschafft/) sein?
 
 **_Aus diesen Winkeln der Erde haben mich Eure Postkarten erreicht:_**
 

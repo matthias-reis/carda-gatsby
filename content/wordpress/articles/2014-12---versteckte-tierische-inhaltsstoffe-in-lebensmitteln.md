@@ -54,11 +54,11 @@ advertisement: true
 
 ## Von Fischblase im Bier und Schweineborsten im Brot
 
-\*\* [_Hier gehts zu Teil 8 des Artikels_](/2014/11/28/fakepelz-echtpelz/) "Die kannst Du doch essen! Sind doch nur Kartoffelchips!" Kartoffelchips mit Paprikageschmack. Das darin Wild enthalten ist, hätte ich mir vor ein paar Monaten auch noch nicht träumen lassen. Damals war ich noch Vegetarierin.\*\*
+\*\* [_Hier gehts zu Teil 8 des Artikels_](/2014/11/fakepelz-echtpelz/) "Die kannst Du doch essen! Sind doch nur Kartoffelchips!" Kartoffelchips mit Paprikageschmack. Das darin Wild enthalten ist, hätte ich mir vor ein paar Monaten auch noch nicht träumen lassen. Damals war ich noch Vegetarierin.\*\*
 
 Ob ich mich heute, hätte ich meine Ernährung zwischenzeitlich nicht umgestellt, noch als Solche bezeichnen würde, da bin ich mir inzwischen nicht mehr so sicher.
 
-Schon vor zwei Jahren habe ich mich über das Thema [ziemlich aufgeregt](/2012/08/03/produkte-mit-tierischen-inhalten-kennzeichnen/), die ganze Tragweite war mir zu dem Zeitpunkt allerdings auch noch nicht bewusst. Damals fiel mir vielmehr auf, dass es in England schon länger eine **freiwillige Kennzeichnung** vegetarischer Produkte gibt, hierzulande jedoch nur wenige Hersteller dafür sorgen.
+Schon vor zwei Jahren habe ich mich über das Thema [ziemlich aufgeregt](/2012/08/produkte-mit-tierischen-inhalten-kennzeichnen/), die ganze Tragweite war mir zu dem Zeitpunkt allerdings auch noch nicht bewusst. Damals fiel mir vielmehr auf, dass es in England schon länger eine **freiwillige Kennzeichnung** vegetarischer Produkte gibt, hierzulande jedoch nur wenige Hersteller dafür sorgen.
 
 ### Neben Wild verbergen sich in Chips auch Fisch und Rindfleisch
 

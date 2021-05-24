@@ -60,11 +60,11 @@ year: '2014'
 month: '08'
 ---
 
-** [_Hier gehts zu Teil 3 des Artikels_](/2014/08/22/blutige-zahlen/) Dass Veganer\*innen einfach gesünder leben, dies aber häufig von Nicht-Veganer\*innen angezweifelt wird, habe ich ja in [Teil 1](//2014/07/30/10-fakten-uber-vegane-ernahrung/) und [Teil 2](//2014/08/18/ich-war-so-mude/) meiner 10 Fakten bereits "kurz angerissen". In meinem heutigen Artikel dreht sich alles um ein heiß diskutiertes B-Vitamin, bei dem die Zweifel sogar häufig "aus den eigenen Reihen" kommen. Vitamin B<small>12</small> - Was ist das eigentlich und wozu brauche ich es?**
+** [_Hier gehts zu Teil 3 des Artikels_](/2014/08/blutige-zahlen/) Dass Veganer\*innen einfach gesünder leben, dies aber häufig von Nicht-Veganer\*innen angezweifelt wird, habe ich ja in [Teil 1](/2014/07/10-fakten-uber-vegane-ernahrung/) und [Teil 2](/2014/08/ich-war-so-mude/) meiner 10 Fakten bereits "kurz angerissen". In meinem heutigen Artikel dreht sich alles um ein heiß diskutiertes B-Vitamin, bei dem die Zweifel sogar häufig "aus den eigenen Reihen" kommen. Vitamin B<small>12</small> - Was ist das eigentlich und wozu brauche ich es?**
 
 ## Alles über Vitamin B<small>12</small>
 
-Als Matze und ich anfingen, uns vegan zu ernähren, wurden wir plötzlich von allen Seiten darauf angesprochen, wie wir denn an unser **Vitamin B<small>12</small>** kommen. Das sei ja schon ein bisschen kritisch, wenn man kein Fleisch zu sich nehmen würde. In Ermangelung von Vitamin B<small>12</small> (sowie  [Eisen und Kalzium](//2014/08/18/ich-war-so-mude/) ) würden allen Veganer\*innen über kurz oder lang Insektenflügel wachsen, sie würden an Skorbut erkranken, schlussendlich zu Staub zerfallen und ein Dasein als ewig verdammte Geister fristen müssen. Alle auch noch so eingefleischten Fleischesser wussten plötzlich genauestens Bescheid.
+Als Matze und ich anfingen, uns vegan zu ernähren, wurden wir plötzlich von allen Seiten darauf angesprochen, wie wir denn an unser **Vitamin B<small>12</small>** kommen. Das sei ja schon ein bisschen kritisch, wenn man kein Fleisch zu sich nehmen würde. In Ermangelung von Vitamin B<small>12</small> (sowie  [Eisen und Kalzium](/2014/08/ich-war-so-mude/) ) würden allen Veganer\*innen über kurz oder lang Insektenflügel wachsen, sie würden an Skorbut erkranken, schlussendlich zu Staub zerfallen und ein Dasein als ewig verdammte Geister fristen müssen. Alle auch noch so eingefleischten Fleischesser wussten plötzlich genauestens Bescheid.
 
 Gut, wenn man sich vorher informiert. Ich kann Euch auf jeden Fall schon mal beruhigen, Euch werden keine Insektenflügel wachsen.
 
@@ -154,13 +154,13 @@ Für mich ist eines klar: Es gibt ein Vitamin, das ich durch meine pflanzliche E
 
 Die Ernährungsumstellung auf vegan hat bei mir dazu geführt, mich das erste Mal richtig mit Nährstoffen auseinanderzusetzen. Ich ernähre mich viel bewusster, als früher. Als Vegetarierin habe ich nicht auf meinen B<small>12</small>-Haushalt geachtet und bin auch nicht auf die Idee gekommen, bestimmte Lebensmittel zusammen zu mir zu nehmen, um meinen Körper zum Beispiel dazu zu bringen, mit Hilfe von Vitamin C Eisen aufzunehmen.
 
-Wie schon berichtet, [fühle ich mich seit der Umstellung fitter und wohler](//2014/08/18/ich-war-so-mude/), alles Weitere wird das nächste Blutbild und die Untersuchung meines Cobalamin-Stoffwechsels beim nächsten Arztbesuch zeigen und ich bin mir sicher, dass ich mir in dieser Hinsicht keine Sorgen machen muss.
+Wie schon berichtet, [fühle ich mich seit der Umstellung fitter und wohler](/2014/08/ich-war-so-mude/), alles Weitere wird das nächste Blutbild und die Untersuchung meines Cobalamin-Stoffwechsels beim nächsten Arztbesuch zeigen und ich bin mir sicher, dass ich mir in dieser Hinsicht keine Sorgen machen muss.
 
 Welcher Fleischesser kann das von sich sagen? Dass er sich mit jedem lebenswichtigen Vitamin auseinandergesetzt hat und genau weiß, welche **Lebensmittel** für ihn/sie die gesündesten sind? Veganer\*innen verzichten zudem komplett auf Cholesterin, aber das ist eine andere Geschichte.
 
 Eine ganz wundervolle Glosse zum Thema Vitamin B<small>12</small>-Zufuhr habe ich übrigens vor Kurzem auf der Seite des [Graslutschers](http://graslutscher.de/unnaturliches-vitamin-b12-from-hell/) entdeckt. Absolute Leseempfehlung meinerseits!
 
-[_ **Hier gehts zu Teil 5 des Artikels** _](/2014/09/09/pflanzenmilch-wieso-denn-blos/)
+[_ **Hier gehts zu Teil 5 des Artikels** _](/2014/09/pflanzenmilch-wieso-denn-blos/)
 
 ## Quellen
 

@@ -35,11 +35,11 @@ subTitle: Das Handtuch ist gehisst!
 
 **Gestern erzählte ich Euch [meine ganz persönliche Geschichte über den Towel Day](/2013/05/towel-day/) und die damit einhergehende Qual der Wahl, für welches Handtuch ich mich wohl dieses Jahr entscheiden werde.**
 
-Nun ist es soweit! die Würfel sind gefallen! Das Handtuch ist gehisst! Für welches habt Ihr Euch entschieden? Ihr habt ja wohl auch schon Euer Handtuch aufgehängt und hoffentlich gestern nicht zu viel am [pangalaktischen Donnergurgler](/2013/05/24/die-sache-mit-den-handtuchern/) genippt. oder? Das wäre unverzeihlich!
+Nun ist es soweit! die Würfel sind gefallen! Das Handtuch ist gehisst! Für welches habt Ihr Euch entschieden? Ihr habt ja wohl auch schon Euer Handtuch aufgehängt und hoffentlich gestern nicht zu viel am [pangalaktischen Donnergurgler](/2013/05/die-sache-mit-den-handtuchern/) genippt. oder? Das wäre unverzeihlich!
 
 ## Keine Panik! Genießt das Wochenende!
 
-Ich wünsche Euch einen tollen Tag! Die Sonne ist auch schon da. Anscheinend hat sich das Wetter pünktlich zu diesem hohen Feiertag doch noch dazu entschieden, endlich die Kurve zu kriegen, [die Hyperraum-Expressroute](/2013/05/24/die-sache-mit-den-handtuchern/) zu verlassen und endlich den Frühling über das Universum zu verstreuen!
+Ich wünsche Euch einen tollen Tag! Die Sonne ist auch schon da. Anscheinend hat sich das Wetter pünktlich zu diesem hohen Feiertag doch noch dazu entschieden, endlich die Kurve zu kriegen, [die Hyperraum-Expressroute](/2013/05/die-sache-mit-den-handtuchern/) zu verlassen und endlich den Frühling über das Universum zu verstreuen!
 
 Mit intergalaktischen Grüßen
 

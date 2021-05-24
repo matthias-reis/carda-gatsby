@@ -47,7 +47,7 @@ subTitle: Teil III: Die Vorfreude
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcGCAEDBP/EADAQAAIBAgQEBAMJAAAAAAAAAAECAwQRAAUGEhMUITEHFUFRIjJhCDNiY3GVobHj/8QAFwEBAAMAAAAAAAAAAAAAAAAAAwABAv/EABwRAAICAwEBAAAAAAAAAAAAAAECABEDITEiMv/aAAwDAQACEQMRAD8AtClVG8kaIwYuhcEH2tf+8Aq/UGZRVjwUGRSVaCfgCXmo41J27j7ke3UYzqfLd0UdVS1stC1KrXEZAR1ewIb1t09LYWniBqLUuUTrlWmqDmq2WQ1DTVMnwhDGsffpdgxufXEXu5sJfJPTrZ1y3mpct2OOMGj5kMAY3ZCAwBuCV74C5Xq4asEjVNClByoBG6oD799/wra23+cQWhrJBpmVZTGs8i1BEcTiThtvfcLjvZjbGzw4R5vNBVzcbaIgu4KLfPfsP0wLtuoyY6Wz2NfVNRmEtMaeLlKNKmCVH5hGmdht7KFIUHr6k4q1U5rXSRRrLWVcixsskYctJsYdmFz3HuOuLH59QVGuTSNp/UdXkzUAbi7YC/F4ltt/jA6bD798Q2TwElcknVI/bv8AXFvbfMbC6YgQ53ErQ548FfVCphirY1p40VJiwCXd2JUC1iT1OGJ4V55lk/m/MU0tLt4NjTzOwPz3uCcGh9naTmJpTqz7xVWwy61tt/zfrjhzDw8bw+2g5xLmHmF+op+Fw+H7/E177/p2wbIRsxRmR/IM/9k="
 />
 
-**( [_Hier gehts zum zweiten Teil des Artikels_](/2014/08/21/wie-picasso-nur-mit-strom/) ) Derzeit herrscht hier Aufbruchstimmung. Wenn ich nicht am Computer sitze und schreibe, sortiere ich unser Hab und Gut aus und packe alles, was nicht abgegeben, weggeschmissen oder gespendet wird, in Kartons.**
+**( [_Hier gehts zum zweiten Teil des Artikels_](/2014/08/wie-picasso-nur-mit-strom/) ) Derzeit herrscht hier Aufbruchstimmung. Wenn ich nicht am Computer sitze und schreibe, sortiere ich unser Hab und Gut aus und packe alles, was nicht abgegeben, weggeschmissen oder gespendet wird, in Kartons.**
 
 Unser Ziel: Die schönste Stadt der Welt. Wir werden einen Neuanfang in **Hamburg** wagen und freuen uns schon sehr darauf. Am 15. März ist es soweit, drückt uns die Daumen, dass alles gut funktioniert und wir wohlbehalten ankommen, 800 Kilometer liegen zwischen uns und unserem neuen Zuhause.
 
@@ -74,7 +74,7 @@ Ich werde weiter berichten, bestimmt gibt es im neuen Blog auch die ein oder and
 
 ### Die Tätowierung ist endlich fertig
 
-[Einen kleinen Vorgeschmack](/2014/05/20/tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne/) hatte ich Euch ja letztes Jahr schon gegeben, Matze hat mit seinen Programmier- und Designkünsten wahre Wunder bewirkt und eine ganz tolle, neue Seite ist entstanden, schon bald wird sie unter [cardamonchai.com](http://www.cardamonchai.com) zu erreichen sein. Ich bin selbst schon ganz aufgeregt und kann es kaum noch erwarten.
+[Einen kleinen Vorgeschmack](/2014/05/tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne/) hatte ich Euch ja letztes Jahr schon gegeben, Matze hat mit seinen Programmier- und Designkünsten wahre Wunder bewirkt und eine ganz tolle, neue Seite ist entstanden, schon bald wird sie unter [cardamonchai.com](http://www.cardamonchai.com) zu erreichen sein. Ich bin selbst schon ganz aufgeregt und kann es kaum noch erwarten.
 
 <RemoteImage
   alt={`Das Tattoo ist endlich vollständig`}

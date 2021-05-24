@@ -56,7 +56,7 @@ subTitle: Tolle Goodies zu gewinnen!
 
 ---
 
-**Hiermit möchte ich nochmal offiziell auf [mein Gewinnspiel](//2012/08/16/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/) hinweisen. Die Verlosung läuft noch bis einschließlich 30. September. Hier nochmal eine kurze Anleitung für alle, die noch nichts vom Gewinnspiel mitbekommen haben:**
+**Hiermit möchte ich nochmal offiziell auf [mein Gewinnspiel](/2012/08/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/) hinweisen. Die Verlosung läuft noch bis einschließlich 30. September. Hier nochmal eine kurze Anleitung für alle, die noch nichts vom Gewinnspiel mitbekommen haben:**
 
 Alle, die mitmachen wollen, senden unter dem Betreff "T-Shirt-Idee" bis zum 30. September ein Foto  von ihrem Lieblings-T-Shirt, im Idealfall sogar mit einer kleinen Geschichte dazu (2-10 Sätze reichen schon) an info@cardamonchai.com. Natürlich sind auch Lieblings-Blusen und Lieblings-Pullis erlaubt. Aus den Bildern entsteht dann hier im Blog eine schöne T-Shirt-Galerie.
 

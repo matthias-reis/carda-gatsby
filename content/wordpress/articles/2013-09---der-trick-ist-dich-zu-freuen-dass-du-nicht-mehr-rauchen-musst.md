@@ -41,7 +41,7 @@ subTitle: Die Sache mit der Motivation
 
 **Was hat Euch damals motiviert, die Kippe an den Nagel zu hängen? - Fragmente aus Twitter-Mentions, Gesprächen und Nachrichten.**
 
-An dieser Stelle möchte ich mich erst mal ganz herzlich bei allen bedanken, die mich bei meinem [Selbstversuch](/2013/09/09/mein-pakt-mit-dem-schweinehund/) unterstützen und mir mit Rat und Tat zur Seite stehen! Ihr seid großartig!
+An dieser Stelle möchte ich mich erst mal ganz herzlich bei allen bedanken, die mich bei meinem [Selbstversuch](/2013/09/mein-pakt-mit-dem-schweinehund/) unterstützen und mir mit Rat und Tat zur Seite stehen! Ihr seid großartig!
 
 <RemoteImage
   alt={`rauchen`}
@@ -142,7 +142,7 @@ Das sind wirklich eine ganze Menge gute Tipps und Ratschläge. Vor allem finde i
 
 **spontanvernunft:** Viel Erfolg bei Deinem Vorhaben! Der Vertrag hat auf jeden Fall was für sich!
 
-**Evelyn:** Wenn Du so motiviert bist, dauert es bestimmt nicht lange, bis du es vergessen hast. Klasse [Vorhaben](/2013/09/09/mein-pakt-mit-dem-schweinehund/) ! Ich werde dich auf jeden Fall tatkräftig unterstützen
+**Evelyn:** Wenn Du so motiviert bist, dauert es bestimmt nicht lange, bis du es vergessen hast. Klasse [Vorhaben](/2013/09/mein-pakt-mit-dem-schweinehund/) ! Ich werde dich auf jeden Fall tatkräftig unterstützen
 
 <RemoteImage
   alt={`rauchen`}

@@ -55,7 +55,7 @@ Ich habe mich natürlich trotzdem nicht ausgeruht, ich habe viel mit Fotos rumpr
 
 ## Termin beim Tätowierer
 
-Im August habe ich den Termin beim Tätowierer, sein Werk wird ja, wie ich Euch schon mal erzählt habe, [mein neues Seitendesign](//2014/05/20/tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne/) vervollständigen. Den Entwurf haben wir bereits abgegeben, ich bin schon unglaublich gespannt, was er daraus machen wird.
+Im August habe ich den Termin beim Tätowierer, sein Werk wird ja, wie ich Euch schon mal erzählt habe, [mein neues Seitendesign](/2014/05/tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne/) vervollständigen. Den Entwurf haben wir bereits abgegeben, ich bin schon unglaublich gespannt, was er daraus machen wird.
 
 Hatte ich Euch eigentlich schon von dem tollen Geburtstagsgeschenk erzählt, das mir Matze gemacht hat? Drei Tickets für das große Soundgarden und Black Sabbath Open Air auf dem Münchner Königsplatz am Freitag, dem 13. Juni. Ich kann nur so viel sagen: Es war großartig.
 
@@ -70,9 +70,9 @@ Hatte ich Euch eigentlich schon von dem tollen Geburtstagsgeschenk erzählt, das
 
 [](https://www.flickr.com/photos/99929697@N07/sets/72157644733432642/)
 
-Leider waren Soundgarden etwas leise gedreht und sie spielten für meinen Geschmack etwas zu kurz, aber für dieses Event waren sie eben nur als Vorband gebucht. Ozzy und seine Mannen rockten die Bühne was das Zeug hielt, das Wetter machte mit und somit genossen wir [Drei von der Bande](//2014/05/21/we-have-a-lotta-shit-for-you/) (Matze, Valentin und ich) an diesem Tag das Leben mal wieder in vollen Zügen.
+Leider waren Soundgarden etwas leise gedreht und sie spielten für meinen Geschmack etwas zu kurz, aber für dieses Event waren sie eben nur als Vorband gebucht. Ozzy und seine Mannen rockten die Bühne was das Zeug hielt, das Wetter machte mit und somit genossen wir [Drei von der Bande](/2014/05/we-have-a-lotta-shit-for-you/) (Matze, Valentin und ich) an diesem Tag das Leben mal wieder in vollen Zügen.
 
-Heute Abend steht das nächste Konzert an, [Bob Dylan](//2012/08/28/bob-dylan-stellt-neuen-song-duquesne-whistle-vor/) gibt sich in München die Ehre, da dürfen wir natürlich nicht fehlen. Ich kann Euch gar nicht sagen, wie aufgeregt ich bin!
+Heute Abend steht das nächste Konzert an, [Bob Dylan](/2012/08/bob-dylan-stellt-neuen-song-duquesne-whistle-vor/) gibt sich in München die Ehre, da dürfen wir natürlich nicht fehlen. Ich kann Euch gar nicht sagen, wie aufgeregt ich bin!
 
 ## Urlaub zu Hause
 
@@ -87,7 +87,7 @@ Eigentlich hatten wir ja dieses Jahr vorgehabt, das Roskilde Festival zu besuche
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwYH/8QAKRAAAgEDAwMEAQUAAAAAAAAAAQIDBAURABIhMUFRBhMiYYEUUpGh8P/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAAUG/8QAIhEAAQMDAwUAAAAAAAAAAAAAAQACEQMEEgUhMRMiQXHx/9oADAMBAAIRAxEAPwBRQU71UC0lPb0aZtrFgCW4znnsOR9cacW60VVJK0mYopUBwHb5L98dPzqmwXGhivBpZpEZo7eKqaZYzGiNucMOWJAwuR1/salQepIqv1/V0Udxo2tMdAlQhRlKyZBDEv5B7HsNOV7qo7anEeZWds9FAh9we4cR8WntT1ufbmQbEGDkdD5z9/xo1l7r68sNPJFT0Nas9eu5Kcskhj3sOjBcFsdPIyMaNKTlur6lT6TcSZ9rk1mp7ejglKiJvZWNv0XvAswPOfI/3bTSjsMdRdKyZ5KxaWdBHtkUiQbcY+ZJBU89fOmb1c2MvKCv7doP41bBOzt0jIHONuhyKIABIrl6eNO0Ulva5PVwsrRbzG6jkZPb5ADgnRpvUXNEqHDquFOOMjRoS0O5CmRC/9k="
 />
 
-Dieses Jahr geht es für uns wie es jetzt aussieht wohl "nur" auf das [Herzberg Festival](//2012/08/02/burg-herzberg-festival-2012/), dafür haben wir uns bereits die Karten gesichert und alles fest geplant und organisiert. [](https://www.flickr.com/photos/99929697@N07/collections/72157641704076844/)
+Dieses Jahr geht es für uns wie es jetzt aussieht wohl "nur" auf das [Herzberg Festival](/2012/08/burg-herzberg-festival-2012/), dafür haben wir uns bereits die Karten gesichert und alles fest geplant und organisiert. [](https://www.flickr.com/photos/99929697@N07/collections/72157641704076844/)
 
 Sicherlich habt Ihr Verständnis, dass ich aus diesen Gründen dieses Jahr meine [Festivalliste]("/2013/03/die-ultimative-festivalliste/) nicht neu veröffentlicht habe. Es gibt sie aber natürlich nach wie vor und sie ist auch aktuell, Ihr könnt Euch jederzeit danach richten. Sollte noch was Wichtiges fehlen, gebt mir einfach Bescheid, ich trage es nach. Kann ja schließlich sein, dass ich dieses Jahr eine neue seltsame Vorschrift verpasst habe. :-P In meinem neuen Blog wird sie auf jeden Fall einen ganz besonderen Platz kriegen und in noch übersichtlicherer Form noch hübscher für jeden jederzeit erreichbar sein.
 

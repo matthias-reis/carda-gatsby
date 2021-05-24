@@ -51,7 +51,7 @@ Unlängst bekam ich von der lieben queenofnerds den Best Blog Award verliehen.
 - Den Wanderpokal an 5-76 weitere Blogs verleihen
 - Den Bloggern Bescheid geben, dass den Blog Award bekommen haben
 
-Was mich ein Bisschen wunderte: Die Fragen sind immer dieselben und drehen sich größtenteils um das Thema Beauty. Ich blogge zwar grundsätzlich eher über [Festivals](//2013/03/28/die-ultimative-festivalliste-2013/), Musik und anderen Blödsinn, stelle mich aber hiermit gerne dieser Herausforderung.
+Was mich ein Bisschen wunderte: Die Fragen sind immer dieselben und drehen sich größtenteils um das Thema Beauty. Ich blogge zwar grundsätzlich eher über [Festivals](//2013/03/die-ultimative-festivalliste-2013/), Musik und anderen Blödsinn, stelle mich aber hiermit gerne dieser Herausforderung.
 
 ## Nun also zu den 11 Fragen:
 
@@ -59,7 +59,7 @@ _ **1.) Wann und warum hast Du Dein Blog gegründet?** _
 
 Interessanter hätte ich die Frage "Wo und an welchem Computer" gefunden, aber nun gut. Die wird hier nicht gestellt. Die Gründung meines Blogs liegt schon eine ganze Weile zurück. Muss irgendwann um 2000 rum gewesen sein. Damals bloggte ich allerdings noch auf myspace.com. Ich schreibe allerdings schon Sachen auf, seit ich einen Stift halten kann. Die Aufzeichnungen gehen zurück bis ca. 1988. Das mit dem Bleistift habe ich übrigens beibehalten. Bevor etwas in meinem Blog landet, landet es erst mal grau auf weiß auf meinem Block oder in meinem Notizbuch. Daher kommt auch der Name für meine Blogrubrik Bleistift 2.0.
 
-2010 bin ich dann mit Sack und Pack auf Wordpress umgezogen. Auch weil ich damals bei einem großen Online-Portal mit lokalem Bezug arbeitete und nachdem ich diesen Job an den Nagel gehängt hatte, eine Heimat für meine mitgenommenen Artikel suchte. Und natürlich auch für den Kram, den ich bis dahin bei myspace und auf meinem Notizblock verzapft hatte. Ich habe die Artikel bei meinem Umzug zum größten Teil mit dem Originaldatum übernommen, weshalb meine Timeline hier bis 2008 zurückreicht. Dieses Jahr habe ich dann [mein 3-jähriges Wordpress-Jubiläum](//2013/04/16/hoch-die-tassen-jubilaum/) gefeiert.
+2010 bin ich dann mit Sack und Pack auf Wordpress umgezogen. Auch weil ich damals bei einem großen Online-Portal mit lokalem Bezug arbeitete und nachdem ich diesen Job an den Nagel gehängt hatte, eine Heimat für meine mitgenommenen Artikel suchte. Und natürlich auch für den Kram, den ich bis dahin bei myspace und auf meinem Notizblock verzapft hatte. Ich habe die Artikel bei meinem Umzug zum größten Teil mit dem Originaldatum übernommen, weshalb meine Timeline hier bis 2008 zurückreicht. Dieses Jahr habe ich dann [mein 3-jähriges Wordpress-Jubiläum](//2013/04/hoch-die-tassen-jubilaum/) gefeiert.
 
 Die Frage nach dem Warum lässt sich ganz leicht beantworten: Ich würde eingehen, würde ich nicht schreiben.
 
@@ -98,7 +98,7 @@ Ich küsse grundsätzlich kein Papier
 
 _ **8.) Deine Wohnung steht in Flammen und Du hast Zeit 3 Beautyprodukte aus dem Flammen zur retten. Welche sind das?** _
 
-Meine beiden Kater [Chili und Oskar](//2012/08/30/ode-an-den-kater/)
+Meine beiden Kater [Chili und Oskar](//2012/08/ode-an-den-kater/)
 
 _ **9.) Worauf kannst Du beim Shoppen eher verzichten? Schuhe, Kleidung, Make-up oder Schokolade?** _
 

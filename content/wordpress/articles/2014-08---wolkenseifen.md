@@ -59,7 +59,7 @@ subTitle: Himmlische Düfte ganz ohne Plastik
 
 _Produktplatzierung\*_
 
-**Vor Kurzem berichtete ich hier im Blog über den [biologischen Fussabdruck](//2014/07/30/10-fakten-uber-vegane-ernahrung/) und wie man ihn mit der Umstellung auf eine vegane Ernährungsweise verkleinern kann. Der Verzicht auf Tierisches trägt einen großen Teil dazu bei, ist aber bei weitem nicht das Einzige, was man tun kann, um unseren blauen Planeten so bewusst wie möglich zu begehen.**
+**Vor Kurzem berichtete ich hier im Blog über den [biologischen Fussabdruck](/2014/07/10-fakten-uber-vegane-ernahrung/) und wie man ihn mit der Umstellung auf eine vegane Ernährungsweise verkleinern kann. Der Verzicht auf Tierisches trägt einen großen Teil dazu bei, ist aber bei weitem nicht das Einzige, was man tun kann, um unseren blauen Planeten so bewusst wie möglich zu begehen.**
 
 <RemoteImage
   alt={`Wolkenseifen`}

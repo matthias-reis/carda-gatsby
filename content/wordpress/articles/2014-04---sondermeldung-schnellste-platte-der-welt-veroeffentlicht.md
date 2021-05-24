@@ -42,7 +42,7 @@ errors: {}
 subTitle: Jack White setzt noch eins obendrauf!
 ---
 
-> __Nachtrag__ zu meinem heutigen Artikel über Jacks neue Single "High Ball Stepper"
+> **Nachtrag** zu meinem heutigen Artikel über Jacks neue Single "High Ball Stepper"
 
 <RemoteImage
   alt={`Bild: Interview Magazine That Eric Alper`}
@@ -53,7 +53,7 @@ subTitle: Jack White setzt noch eins obendrauf!
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABkDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAP/xAAyEAABAwIFAgQBDQAAAAAAAAABAgMEBREABhIhMRMUByJRYdEIFSUyQUJSU1WSk6LB/8QAFwEBAQEBAAAAAAAAAAAAAAAABAUCA//EABwRAAICAwEBAAAAAAAAAAAAAAECAAMEERIhYf/aAAwDAQACEQMRAD8ARa5mGLRqEG2qf9IKcumSVAJU2pAGjRfkEE6trAkb7WEN5pzk1Rnaw6wZFCdmjqOyoSXo/caLWuoc2A4I9+cd80Ro02nx25VRRBbajrWm41dy+VeRJJ+pZKtz6J98VHKBYmfJ4fpb9WqaYqqbJkulEZgstuIWbslwpJKlrWhQ31bbEcYp5DP3qBpVOYj5Yr0evxLOQY8eZFI6yo+yXUm2myOAb3uR640dsj8hX7DgF4UqiMUqcQ2hc6deOS6N2WgQdSN9l3sLjix9cG7n8f8Ac/HDcZmZATC3AK5Ak3rC3qxZSS2oLWstNJ4QB9hPrxhwy9WUjw3XCiw0u5gZQ9FaAQojpLuvuVJHl6jYLrYURqTqBBGnCXlqPUK7mun0ejobU/PeDLKXFFKRf7yjuQAASedhi054yDk7JHhtLRWqs3U85us2DcWodMJUpQHlZBBLaRsVKBJseLi013Un30xq1sB8kloj1QyhEj1RblLkMySSIy5SHHgE7XUlCipv21c24w6fOlP/AFCnfyH44jU14KbQyz5WmweBa5JJ/wBtjHY46VZRrGgJmzGFh2TP/9k="
 />
 
-**Bereits vor ein paar Stunden [titelte ich mit Jack White](//2014/04/22/jack-white-stellt-neuen-song-vor/). Und was macht der werte Herr? Das, was er immer tut und was wir alle von ihm gewohnt sind: Er setzt noch eins obendrauf!**
+**Bereits vor ein paar Stunden [titelte ich mit Jack White](/2014/04/jack-white-stellt-neuen-song-vor/). Und was macht der werte Herr? Das, was er immer tut und was wir alle von ihm gewohnt sind: Er setzt noch eins obendrauf!**
 
 Es ist ihm gelungen, beim Record Store Day einen Rekord aufzustellen und in nur 4 Stunden eine neue Single, die schnellste Platte der Welt, nicht nur aufzunehmen, sondern auch noch pressen zu lassen und auf den Markt zu bringen.
 
@@ -67,7 +67,7 @@ Jack White wollte mit seiner Aktion beweisen, dass es möglich ist, eine Platte 
 
 Jack White hat somit den Guinness World Record der Schweizer Polka Band "Vollgas Kompanie" gebrochen und geht mit der schnellsten Platte der Welt  in die Annalen ein. "Vollgas Kompanie" hatten 2008 ihr Debut-Album "Live" nur einen Tag nach der Aufnahme zum Verkauf gestellt.
 
-Bei der mysteriösen Platte, von der ich Euch hier die ganze Zeit vorschwärme, handelt es sich um kein geringeres Stück als die Single "Lazaretto" aus dem [heute noch von mir angepriesenen](//2014/04/22/jack-white-stellt-neuen-song-vor/), am 6. Juni erscheinenden gleichnamigen Album. Selbstverständlich möchte ich Euch auch diesen Whiteschen Geniestreich nicht vorenthalten und lasse Euch hiermit an meiner Freude teilhaben.
+Bei der mysteriösen Platte, von der ich Euch hier die ganze Zeit vorschwärme, handelt es sich um kein geringeres Stück als die Single "Lazaretto" aus dem [heute noch von mir angepriesenen](/2014/04/jack-white-stellt-neuen-song-vor/), am 6. Juni erscheinenden gleichnamigen Album. Selbstverständlich möchte ich Euch auch diesen Whiteschen Geniestreich nicht vorenthalten und lasse Euch hiermit an meiner Freude teilhaben.
 
 Der Song rockt, stampft, faucht, Jacks Gitarre schnurrt wie tausend Kätzchen und dann diese Geigen! Es ist ein wahrer Genuss und ich bin immer noch ganz verloren, höre mir "Lazaretto" gerade zum fünften Mal an und suche wie verrückt nach  Buchstaben, die sich irgendwie nicht zu den passenden Worten formen lassen. Daher lasse ich an dieser Stelle einfach die Musik für sich sprechen.
 

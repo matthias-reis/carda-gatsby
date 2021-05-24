@@ -44,7 +44,7 @@ errors: {}
 subTitle: '"Alles andere wirkt unwichtig und banal"'
 ---
 
-**Vor Kurzem berichtete ich hier über [das ganz besondere Projekt](/2013/06/05/istanbul-mit-anderen-augen/) zweier junger, deutscher Filmemacherinnen in Istanbul. Durch die derzeitige Lage hat sich für Marie und Carolin einiges verändert.**
+**Vor Kurzem berichtete ich hier über [das ganz besondere Projekt](/2013/06/istanbul-mit-anderen-augen/) zweier junger, deutscher Filmemacherinnen in Istanbul. Durch die derzeitige Lage hat sich für Marie und Carolin einiges verändert.**
 
 <RemoteImage
   alt={`Die beiden Filmemacherinnen`}

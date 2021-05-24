@@ -51,6 +51,6 @@ Der New Scientist zitiert ferner die Forschungsergebnisse des Archeologen Matt P
 Bei der Paleo Diät steht Protein im Mittelpunkt. Aus 100 Gramm Hafer können beispielsweise 17 Gramm pflanzliches Protein gewonnen werden.
 
 - [1] [Artikel im New Scientist](https://www.newscientist.com/article/dn28139-stone-age-people-were-making-porridge-32000-years-ago/)
-- [2] [Matt Pope](//www.pnas.org/content/early/2015/09/02/1505213112)
+- [2] [Matt Pope](//www.pnas.org/content/early/2015/09/1505213112)
 
 **Bild:** [Hans](https://pixabay.com/de/users/hans-2/), pixabay

@@ -58,7 +58,7 @@ Insgesamt macht "Tempest" Lust auf mehr, die Zeit bis zum großen Tag der Veröf
 
 Übrigens: "Koi No Yokan" ist japanisch und bedeutet so viel wie 'Liebe auf den ersten Blick'.
 
-Die beiden weiteren Singleauskopplungen findet Ihr  [hier](//2012/09/04/deftones-stellen-zwei-neue-songs-vor-album-im-november/)
+Die beiden weiteren Singleauskopplungen findet Ihr  [hier](//2012/09/deftones-stellen-zwei-neue-songs-vor-album-im-november/)
 
 **Natürlich möchte ich Euch den Song nicht vorenthalten. Hier sind für Euch die DEFTONES mit "Tempest"**
 

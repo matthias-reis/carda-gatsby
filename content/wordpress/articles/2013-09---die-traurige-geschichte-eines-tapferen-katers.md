@@ -51,7 +51,7 @@ subTitle: Eine Tierarztodyssee
 
 ---
 
-Sicher könnt Ihr Euch noch an Chili erinnern. [Chili, den Kater](//2012/08/30/ode-an-den-kater/). Mein kleiner Schatten, der mich auf dem Weg durch die Wohnung auf Schritt und Tritt verfolgte. Niemals aus den Augen lies. Jeden Morgen so lange maunzte, bis er aus dem Wasserhahn trinken durfte. Bruder von Oskar dem Kater. Die beiden: mein Ein und Alles. Die zwei haben viel mit mir durchgemacht, sind drei Mal mit mir umgezogen, haben mir immer zugehört, waren immer für mich da, ob ich krank war, gesund, traurig oder glücklich. Und ich habe versucht, ihnen eine gute Dosenöffnerin zu sein. Zusammen sind wir eine glückliche Familie geworden. Die beiden blühten in der letzten Zeit regelrecht auf und wurden immer zutraulicher. Man konnte genau sehen, dass sie das Zuhause ihrer Herzen gefunden haben.
+Sicher könnt Ihr Euch noch an Chili erinnern. [Chili, den Kater](/2012/08/ode-an-den-kater/). Mein kleiner Schatten, der mich auf dem Weg durch die Wohnung auf Schritt und Tritt verfolgte. Niemals aus den Augen lies. Jeden Morgen so lange maunzte, bis er aus dem Wasserhahn trinken durfte. Bruder von Oskar dem Kater. Die beiden: mein Ein und Alles. Die zwei haben viel mit mir durchgemacht, sind drei Mal mit mir umgezogen, haben mir immer zugehört, waren immer für mich da, ob ich krank war, gesund, traurig oder glücklich. Und ich habe versucht, ihnen eine gute Dosenöffnerin zu sein. Zusammen sind wir eine glückliche Familie geworden. Die beiden blühten in der letzten Zeit regelrecht auf und wurden immer zutraulicher. Man konnte genau sehen, dass sie das Zuhause ihrer Herzen gefunden haben.
 
 <RemoteImage
   alt={`Chili und Oskar`}

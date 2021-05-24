@@ -43,7 +43,7 @@ errors: {}
 subTitle: Von Genesungswünschen, guten Nachrichten und Erfahrungsberichten
 ---
 
-** [_Hier gehts zum ersten Teil des Artikels_](/2013/09/die-traurige-geschichte-eines-tapferen-katers/) Ihr habt bestimmt die ["traurige Geschichte eines tapferen Katers"](//2013/09/25/die-traurige-geschichte-eines-tapferen-katers/) gelesen. Den Leidensweg unseres kleinen, felligen Mitbewohners Chili, der innerhalb einer Woche durch fehlerhafte Behandlung vom gesunden Stubentiger zum Pflegefall wurde. Mit diesem Beitrag möchte ich zeigen, wie wichtig es ist, eine zweite Meinung einzuholen, wenn ein Tier krank wird.**
+** [_Hier gehts zum ersten Teil des Artikels_](/2013/09/die-traurige-geschichte-eines-tapferen-katers/) Ihr habt bestimmt die ["traurige Geschichte eines tapferen Katers"](/2013/09/die-traurige-geschichte-eines-tapferen-katers/) gelesen. Den Leidensweg unseres kleinen, felligen Mitbewohners Chili, der innerhalb einer Woche durch fehlerhafte Behandlung vom gesunden Stubentiger zum Pflegefall wurde. Mit diesem Beitrag möchte ich zeigen, wie wichtig es ist, eine zweite Meinung einzuholen, wenn ein Tier krank wird.**
 
 ---
 

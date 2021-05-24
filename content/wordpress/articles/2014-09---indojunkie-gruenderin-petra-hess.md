@@ -67,7 +67,7 @@ Petra kenne ich schon sehr lange. Sie wuchs nur ein paar Häuser weiter auf und 
 
 ## Sulawesi erleben
 
-Für Petra war immer klar, dass sie eines Tages auf die Reise gehen würde. 2006 brach sie gemeinsam mit ein paar Freundinnen zum "Interrailing" einmal quer durch Europa und Afrika auf. Ich weiß das noch so genau, weil ich sie zusammen mit [Caro](//2013/06/11/alles-andere-wirkt-unwichtig-und-banal/) bei ihrem Zwischenstop in Paris besuchte. Von diesem sogenannten "Interrail-Event" habe ich heute noch ein T-Shirt als Andenken.
+Für Petra war immer klar, dass sie eines Tages auf die Reise gehen würde. 2006 brach sie gemeinsam mit ein paar Freundinnen zum "Interrailing" einmal quer durch Europa und Afrika auf. Ich weiß das noch so genau, weil ich sie zusammen mit [Caro](/2013/06/alles-andere-wirkt-unwichtig-und-banal/) bei ihrem Zwischenstop in Paris besuchte. Von diesem sogenannten "Interrail-Event" habe ich heute noch ein T-Shirt als Andenken.
 
 <RemoteImage
   alt={`Traditionelle Musik`}
@@ -80,7 +80,7 @@ Für Petra war immer klar, dass sie eines Tages auf die Reise gehen würde. 2006
 
 Schon kurze Zeit danach begann Petra ihr Studium in Düsseldorf und wir verloren uns, bis auf den losen Kontakt über Facebook, ein Bisschen aus den Augen. Erst als ich mich letztes Jahr für ein Wiedersehen mit Caro verabredet hatte, sahen auch wir uns wieder, denn wie es der Zufall wollte, waren meine beiden Reisenden gleichzeitig zu Besuch in der Stadt.
 
-Von [Caros Reise nach Istanbul](//2013/06/11/alles-andere-wirkt-unwichtig-und-banal/) hatte ich ja hier schon vor einiger Zeit schon berichtet. Petras Reise ging noch etwas weiter, sie verbrachte ein Auslandssemester in Malaysia, verliebte sich in Südostasien und bereiste mit dem Backpacker auch Singapur, Indonesien, Thailand, Kambodscha und China. Kurz bevor Matze und ich zu unseren Flitterwochen nach Indonesien aufbrachen, postete ich einen Link an meiner Facebook-Pinnwand, irgendwas mit "Bald geht’s los nach Bali!". Es dauerte keine zwei Sekunden und Petra schrieb mich an und schwärmte über Bali und Indonesien.
+Von [Caros Reise nach Istanbul](/2013/06/alles-andere-wirkt-unwichtig-und-banal/) hatte ich ja hier schon vor einiger Zeit schon berichtet. Petras Reise ging noch etwas weiter, sie verbrachte ein Auslandssemester in Malaysia, verliebte sich in Südostasien und bereiste mit dem Backpacker auch Singapur, Indonesien, Thailand, Kambodscha und China. Kurz bevor Matze und ich zu unseren Flitterwochen nach Indonesien aufbrachen, postete ich einen Link an meiner Facebook-Pinnwand, irgendwas mit "Bald geht’s los nach Bali!". Es dauerte keine zwei Sekunden und Petra schrieb mich an und schwärmte über Bali und Indonesien.
 
 <RemoteImage
   alt={`Petra und Melissa auf Sulawesi`}
@@ -91,7 +91,7 @@ Von [Caros Reise nach Istanbul](//2013/06/11/alles-andere-wirkt-unwichtig-und-ba
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QAKhAAAgEDAgYBAwUAAAAAAAAAAQIDBAURACEGEhMiMVGBQWFxBwgUMqH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAeEQACAgICAwAAAAAAAAAAAAAAAQIDITEEERITIv/aAAwDAQACEQMRAD8A6ftdvd1orpd6R7dUSW6aAStKw5AkiHtG/sMfHoa2C7/qXHSVt2oYbe5qqGmknBd8q5jRJHXA3HY4IP2Pyo8HRx2N3ZA8qSYypk2X386TaylMfE1RXVdWohlnY09N0x1DOy9OVXYjuTlC4xv3ehubPjQ+PH2d+RrtjvfFN4pEuMFy4d6DsQaf+LK7R4JHLziTz9c4+vjUt7pxNEG6tTw+2+QRTTAAev7nP50h8DVEHDVQaOMGGnkdlkBBwHC9o22z876aa66ROOYkA+ST4H+aVbU0C6LrkJ0M7CNe1e4bEZBGqiajWaokM7mUSkNhgDysNgw9YyR+DjRo1k0VrwydQ26NZQzHnAzhWzjI+vn76tOsWXlAA233OPj1o0aaxom87P/Z"
 />
 
-Leider war sie just zu der Zeit, zu der wir uns auf der [Insel der Götter](//2013/08/03/unsere-grose-reise-6/) befanden, nicht im Lande, sonst hätten wir mit ihr sicher den perfekten Guide gehabt. Doch nun zu meinem eigentlichen Vorhaben. Vorstellungs- und Schwärm-Modus aus und Interview-Modus ein.
+Leider war sie just zu der Zeit, zu der wir uns auf der [Insel der Götter](/2013/08/unsere-grose-reise-6/) befanden, nicht im Lande, sonst hätten wir mit ihr sicher den perfekten Guide gehabt. Doch nun zu meinem eigentlichen Vorhaben. Vorstellungs- und Schwärm-Modus aus und Interview-Modus ein.
 
 **Anne:** Hallo Petra! Vielen Dank, dass du dir die Zeit für das Interview nimmst!
 

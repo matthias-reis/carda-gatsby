@@ -117,7 +117,7 @@ Kaschmir, Angora, Mohair, Schurwolle, Alpakawolle, Merinowolle, all das waren Be
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAArEAACAQMDAwMCBwAAAAAAAAABAgMEBREABiESEzFRYXEUIiQzQUKBobH/xAAXAQEAAwAAAAAAAAAAAAAAAAADAQQF/8QAIREAAQQBAwUAAAAAAAAAAAAAAQACAxESEyExQWGh4fD/2gAMAwEAAhEDEQA/AMopKqBHZq6WeKQSdsRKvSWIPqeQM/r7e+rjbUctNeWWlZEkDjpPcI7itzkn+ePTGuhdvbfmFKbxVmsMtQtPBJbqYlgGbj75CCFwpIOP9xq/s9v2pZrULraKeorK2FEJjmLSTgFwORwPDcjHBPJ41liLMWDX3ZDg4qEuGz77XRUSphRTySuiGdZUi6z5ABJPx7edIL7si5N3ZpvpYyCuVkfyFXpUcD0GdbXWbnaalmitNoovxEYamlq1IiQup/M48qxC/wB41PU9+3pJa6mpulstgDxs6BGWUZBKhcADjH3DOTjHxp2wSkbO8e1OkB1S8Xit3g8Us9DRipjh6Y+pRkqP2+wBPHpnVDt2wrbpJa2uhemqGz2limUqucZ+0Y4POQc50aNNDCy8zyUh5tURrqanpUgi6UgUYWPOc/PqffSStusYDFcL8ADRo1daEbiv/9k="
 />
 
-"Schurwolle", das klingt zunächst nicht mal nach Tierquälerei, denn schließlich werden die **Schafe** , von denen diese Wolle stammt, ja "nur" geschoren. Oder? Viele der Menschen, mit denen ich mich bisher zu dem Thema ausgetauscht habe, waren der Meinung, die Schafe müssten sogar geschoren werden, um nicht leiden zu müssen. Ein bisschen erinnerte mich das schon wieder an [die Geschichte mit der Milchindustrie](//2014/09/09/pflanzenmilch-wieso-denn-blos/)  und die landläufige Meinung der Menschen, Kühe würden leiden, würden sie nicht gemolken. Also rein ins Internet.
+"Schurwolle", das klingt zunächst nicht mal nach Tierquälerei, denn schließlich werden die **Schafe** , von denen diese Wolle stammt, ja "nur" geschoren. Oder? Viele der Menschen, mit denen ich mich bisher zu dem Thema ausgetauscht habe, waren der Meinung, die Schafe müssten sogar geschoren werden, um nicht leiden zu müssen. Ein bisschen erinnerte mich das schon wieder an [die Geschichte mit der Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-blos/)  und die landläufige Meinung der Menschen, Kühe würden leiden, würden sie nicht gemolken. Also rein ins Internet.
 
 Fakt ist, dass Schafen, hätten sich nicht mal wieder die Menschen eingemischt, nur so viel Wolle wachsen würde, wie eben nötig ist, um sie vor extremem Wetter (Hitze, Kälte) in ihren natürlichen Lebensräumen zu schützen.
 
@@ -307,7 +307,7 @@ Immerhin haben in den letzten Jahren schon mal einige Hersteller zumindest Angor
 
 Schwer zu sagen, wenn man derzeit die Kunstfell-Kragen, -Schals und \-Mützenbommel sieht, die leider in den seltensten Fällen auch aus Kunststoff bestehen, doch dazu mehr im achten Teil meiner Serie...
 
-[_ **Hier gehts zu Teil 7 des Artikels** _](/2014/10/16/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+[_ **Hier gehts zu Teil 7 des Artikels** _](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
 
 ## Inhaltsverzeichnis "10 Fakten über Veganismus"
 

@@ -180,10 +180,10 @@ In Indien boomt der Handel mit Büffelfleisch, hier hat sich das Wachstum von 20
 
 Da Büffel kostengünstiger zu halten sind, liegt der Kilopreis in der Erzeugung hier um mehr als einen Dollar unter dem von Rindfleisch, in Indien wird also stark in Schlachthäuser investiert.
 
-Setzt man den gegenwärtigen Fleischerzeugungstrend von derzeit 300 Millionen Tonnen pro Jahr bis Mitte dieses Jahrhunderts fort, kommt man bis zu diesem Zeitpunkt auf fast eine halbe Milliarde Tonnen pro Jahr. Hinzukommt, dass sich die [Sojaproduktion](//2014/07/30/10-fakten-uber-vegane-ernahrung/) für das Futter zur Mästung der Tiere von heute 260 auf über 500 Millionen Tonnen nahezu verdoppeln wird. (\*\*)
+Setzt man den gegenwärtigen Fleischerzeugungstrend von derzeit 300 Millionen Tonnen pro Jahr bis Mitte dieses Jahrhunderts fort, kommt man bis zu diesem Zeitpunkt auf fast eine halbe Milliarde Tonnen pro Jahr. Hinzukommt, dass sich die [Sojaproduktion](/2014/07/10-fakten-uber-vegane-ernahrung/) für das Futter zur Mästung der Tiere von heute 260 auf über 500 Millionen Tonnen nahezu verdoppeln wird. (\*\*)
 
 > Nichts auf der Welt ist so mächtig wie eine Idee, deren Zeit gekommmen ist. (Victor Hugo,1802-1885)
 
-[_ **Hier gehts zu Teil 4 des Artikels** _](/2014/08/26/vitamin-b12-mythos-und-wahrheit/)
+[_ **Hier gehts zu Teil 4 des Artikels** _](/2014/08/vitamin-b12-mythos-und-wahrheit/)
 
 Quellen: \* [Fleischatlas 2014](http://www.bund.net/fileadmin/bundnet/publikationen/landwirtschaft/140108_bund_landwirtschaft_fleischatlas_2014.pdf), \*\* [bund.net](http://www.bund.net/fleischatlas), \*\*\* [Campact Blog](http://blog.campact.de/2014/01/wir-habens-satt-750-mio-tiere-werden-pro-jahr-in-deutschland-geschlachtet/),   [biowahrheit.de](http://www.biowahrheit.de), [Occupy For Animals](http://www.occupyforanimals.org/animal-kill-counter.html)

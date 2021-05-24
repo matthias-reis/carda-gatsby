@@ -96,6 +96,6 @@ Erscheinen wird die Scheibe natürlich auf Jacks Label [Third Man Records](http:
 1.  I Think I Found The Culprit
 1.  Want And Able
 
-Und als Highlight das Video zu "High Ball Stepper". Viel Spaß damit! Wir dürfen gespannt sein, wie es weitergeht und welche Stufe der Rakete Herr White als nächstes zünden wird. [_Weiterlesen! Hier geht's zur dritten Stufe der Rakete!_](//2014/04/22/sondermeldung-schnellste-platte-der-welt-veroffentlicht/)
+Und als Highlight das Video zu "High Ball Stepper". Viel Spaß damit! Wir dürfen gespannt sein, wie es weitergeht und welche Stufe der Rakete Herr White als nächstes zünden wird. [_Weiterlesen! Hier geht's zur dritten Stufe der Rakete!_](/2014/04/sondermeldung-schnellste-platte-der-welt-veroffentlicht/)
 
 <YouTube id="sRbnAxrS3EM" />

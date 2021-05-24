@@ -84,4 +84,4 @@ Mal sehen, eventuell findet die **Eule** , die sich der Herzmann stechen lassen 
 
 Was haltet Ihr von der Idee? Ich finde sie ziemlich gut und kann es gar nicht mehr erwarten, das Ergebnis zu präsentieren. Bis zur kompletten Umsetzung werden sicher noch ein paar Tage vergehen. Wer nichts verpassen möchte, bleibt einfach dran.
 
-_ ** [Hier gehts zum zweiten Teil des Artikels](/2014/08/21/wie-picasso-nur-mit-strom/) ** _
+_ ** [Hier gehts zum zweiten Teil des Artikels](/2014/08/wie-picasso-nur-mit-strom/) ** _

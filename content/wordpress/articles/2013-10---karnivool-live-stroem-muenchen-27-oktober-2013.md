@@ -41,7 +41,7 @@ subTitle: Diesmal ohne Nahaufnahmen
 
 Am Sonntag dann: Hoffentlich nicht der Beginn einer neuen Ära. Zur Hochzeit schenkte uns mein Bruderherz die Karten für das Karnivool-Konzert im Strøm am letzten Sonntag. Wir drei freuten uns schon lange auf dieses besondere Event und reisten extra früh an.
 
-Bereits beim diesjährigen  [Southside Festival](//2013/07/01/southside-festival-2013/) hatten wir die Jungs live gesehen, waren schwer beeindruckt gewesen uns sehnten das Wiedersehen herbei. Nachdem wir einige Blocks entfernt einen Parkplatz ergattert hatten, begaben wir uns zum Club. Dabei sind mir diese beiden Aufnahmen gelungen:
+Bereits beim diesjährigen  [Southside Festival](/2013/07/southside-festival-2013/) hatten wir die Jungs live gesehen, waren schwer beeindruckt gewesen uns sehnten das Wiedersehen herbei. Nachdem wir einige Blocks entfernt einen Parkplatz ergattert hatten, begaben wir uns zum Club. Dabei sind mir diese beiden Aufnahmen gelungen:
 
 <Gallery
   images={[

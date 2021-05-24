@@ -169,7 +169,7 @@ Das Kälbchen erstickt währenddessen in einem langandauernden, quälenden Proz
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABIDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBQcG/8QAKBAAAgEDBAEDBAMAAAAAAAAAAQIDBAURABIhMQYHE0EIUWFxkdHS/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECERJRYf/aAAwDAQACEQMRAD8Azbwrwq9+RzTzisheqWOTdFUzu8yKV2iVgFJKZbrO7jrB0r5R6cX3xy4x0VesLNJH7sckbjbImCd6gjdjj5Gc8a0P6c6l6z1HulvhkCwxRGVlydssYk2sDzjPI/jVb661cMXqKKOetkkFqjHtrvKrGWkLiPjngHvvkazybUbodJOVGTtb41Yhq+nBBwR7cv8AjRrq6by+1x00SVFugkmVAHdoQSzY5JOeedGg3PguYdKMXiptFVUPQTIZqkKZmAMTZGSORjnk5I7+RqFwuC+RSTVlwd4rjIqq7xx7w5UKqZX4UKveck9jTcNDbJdhk3pJGBlpZFA/RHJz9tOSR0SDEkoSXAUOAF/Q/Olb8AtlQtj8ckUPNdLoJWG5wlKhAJ7wS3WjTJqWQ7TWx5Xg5z/WjVafST//2Q=="
 />
 
-Darüber, dass die Betäubung bei rund vier bis neun Prozent der Rinder mangelhaft ist (dies bestätigte eine Umfrage der Grünen), oder sogar gänzlich fehlt, berichtete ich vor kurzem in meinem Artikel ["Blutige Zahlen"](//2014/08/22/blutige-zahlen/) hier im Blog. Welche grausamen Auswirkungen dies wiederum auf die Mutter und ihr ungeborenes Kind hat, kann sich wohl kein Mensch ausmalen.
+Darüber, dass die Betäubung bei rund vier bis neun Prozent der Rinder mangelhaft ist (dies bestätigte eine Umfrage der Grünen), oder sogar gänzlich fehlt, berichtete ich vor kurzem in meinem Artikel ["Blutige Zahlen"](/2014/08/blutige-zahlen/) hier im Blog. Welche grausamen Auswirkungen dies wiederum auf die Mutter und ihr ungeborenes Kind hat, kann sich wohl kein Mensch ausmalen.
 
 Nein, es ist nicht natürlich, dass Menschen die Muttermilch anderer Lebewesen trinken. Wir haben uns weiterentwickelt. Die **Evolution** hat nicht nur dafür gesorgt, dass wir aufrecht gehen und einige von uns Autos und Mondraketen konstruieren können, sie hat auch dafür gesorgt, dass wir Prozesse automatisiert haben, die ganz klar nicht automatisiert gehören.
 
@@ -270,7 +270,7 @@ Dann kocht man 670 ml Wasser und rührt den Brei unter, nachdem das Ganze ca. 10
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABIDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwECBf/EACkQAAICAQMCBQQDAAAAAAAAAAECAxEEAAUhEjEGEzJBYRQWJHEiM9L/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECERIxUf/aAAwDAQACEQMRAD8AVtpR3z2h+oWIO720xpgx9LdVen93rs7f4dzHyMpt4TJwZIyqRSBPx52qwPOHAtq554Os7JnJPFm5GW/VkNjlTGFBjeQ2SbPIpqqqPfTRun5XgPZ5clpY4pmdZF6wnpRyos8A2tX86Qpljjwr/Li3+HKmiMEyFHZSpkQ1R7XXOjUFfEK9I83ciJK/kOu+ffRotLwGif4Exzve542KrdOPG4bIIIBVO98/Ir9nTPuG8jetpbw6EbGgjV1ikiezEwNAgknq9R7+19tJmVlYB+py5IpYZn5J8ogHjuQjUR241qMbK2jZ8fHXOGJlyq7qsyHoHUKsgX6Qao++lJJGOd9KmeQq7LXVRrqHY/OjTH9qkcDedpocf2P/AJ0aq2hZ/9k="
 />
 
-80 Prozent der weltweiten Sojaernte werden zu Viehfutter verarbeitet, weitere Produkte, die aus Soja hergestellt werden sind zum Beispiel **Biodiesel** , Kunststoffe, Kosmetika und Farben. Zwei Prozent werden für Lebensmittel verwendet. Hierzulande verkaufte Sojaprodukte (somit auch Tofu und Milch), stammen aus Deutschland und Österreich. Mehr zum Thema findet Ihr in meinem Artikel "[Soja, Klimaschutz und ökologischer Fussabdruck](//2014/07/30/10-fakten-uber-vegane-ernahrung/)" . Für die "Produktion" eines Rindersteaks werden 4.000 Liter Wasser benötigt.
+80 Prozent der weltweiten Sojaernte werden zu Viehfutter verarbeitet, weitere Produkte, die aus Soja hergestellt werden sind zum Beispiel **Biodiesel** , Kunststoffe, Kosmetika und Farben. Zwei Prozent werden für Lebensmittel verwendet. Hierzulande verkaufte Sojaprodukte (somit auch Tofu und Milch), stammen aus Deutschland und Österreich. Mehr zum Thema findet Ihr in meinem Artikel "[Soja, Klimaschutz und ökologischer Fussabdruck](/2014/07/10-fakten-uber-vegane-ernahrung/)" . Für die "Produktion" eines Rindersteaks werden 4.000 Liter Wasser benötigt.
 
 ## Was schmeckt besser im Kaffee?
 
@@ -399,7 +399,7 @@ Die Kälber in den Iglus waren alle für die Mast/den Schlachter vorgesehen, bev
   ]}
 />
 
-[_ **Hier gehts zu Teil 6 des Artikels** _](/2014/10/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
+[_ **Hier gehts zu Teil 6 des Artikels** _](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
 
 ## Inhaltsverzeichnis "10 Fakten über Veganismus"
 
@@ -417,7 +417,7 @@ Die Kälber in den Iglus waren alle für die Mast/den Schlachter vorgesehen, bev
 ## Links und Quellen
 
 1.  ["Das Leid der Kühe und ihrer Kälbchen"](/2014/09/kaelbchen-ersticken-qualvoll-im-mutterleib/)
-1.  ["Blutige Zahlen"](//2014/08/22/blutige-zahlen/)
+1.  ["Blutige Zahlen"](/2014/08/blutige-zahlen/)
 1.  ["Weltwassertag"](http://www.peta.de/weltwassertag#.VA6nT0vY9v0) Peta
 1.  [One Green Planet](http://www.onegreenplanet.org)
 1.  [Milchkonsum und Multiple Sklerose Studie](http://www.ncbi.nlm.nih.gov/pubmed/1291895)

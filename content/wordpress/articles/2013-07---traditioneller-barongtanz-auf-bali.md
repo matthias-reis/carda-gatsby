@@ -47,7 +47,7 @@ errors: {}
 subTitle: Unsere große Reise - Teil II
 
 ---
-**Nach drei Tagen ließen wir [Dubai](/2013/07/29/unsere-grose-reise/) hinter uns und reisten über Jakarta nach Denpasar.**
+**Nach drei Tagen ließen wir [Dubai](/2013/07/unsere-grose-reise/) hinter uns und reisten über Jakarta nach Denpasar.**
 
 Nach einer Übernachtung in einem Hotel in Sanur brachen wir am Morgen zu unserer 4-tägigen Bali-Rundreise auf. Gleich zu Beginn tauchten wir in die Balinesicher Kultur ein - unsere erste Station war eine einstündige Barong-Tanzvorstellung im Tempel von Batu Bulan.
 

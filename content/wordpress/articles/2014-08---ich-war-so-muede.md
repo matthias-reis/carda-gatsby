@@ -204,7 +204,7 @@ Einige positive Effekte kann ich auch schon an mir beobachten:
 - Mein Hautausschlag hat sich verabschiedet.
 - Meine Gewichtsschwankungen gehören der Geschichte an.
 
-Lässt man die oben genannten Zahlen auf sich wirken, kommt man sehr schnell wieder auf die uns bekannte Rechnung, wie viel Soja man an ein Tier verfüttern muss, bis es zur **Schlachtbank** geführt werden kann, um im Anschluss im Suppentopf oder in der Pfanne zu landen. Hierzu habe ich mich vor ein paar Tagen [schon mal ausgiebig ausgelassen](//2014/07/30/10-fakten-uber-vegane-ernahrung/).
+Lässt man die oben genannten Zahlen auf sich wirken, kommt man sehr schnell wieder auf die uns bekannte Rechnung, wie viel Soja man an ein Tier verfüttern muss, bis es zur **Schlachtbank** geführt werden kann, um im Anschluss im Suppentopf oder in der Pfanne zu landen. Hierzu habe ich mich vor ein paar Tagen [schon mal ausgiebig ausgelassen](/2014/07/10-fakten-uber-vegane-ernahrung/).
 
 ### Veganer\*innen sind nicht ständig müde
 
@@ -229,7 +229,7 @@ Abschließend noch ein Zitat des Herrn Schopenhauer (1788-1860)
 
 > "Jedes Ding erscheint zuerst lächerlich, dann wird es bekämpft, schließlich ist es selbstverständlich."
 
-[_ **Hier gehts zu Teil 3 des Artikels** _](/2014/08/22/blutige-zahlen/)
+[_ **Hier gehts zu Teil 3 des Artikels** _](/2014/08/blutige-zahlen/)
 
 ## Inhaltsverzeichnis "10 Fakten über Veganismus"
 
