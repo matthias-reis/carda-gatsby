@@ -70,7 +70,7 @@ Ich gehe ausschließlich Kooperationen mit Firmen, Herstellern und Marken ein, d
 
 Wer sich jetzt angesprochen fühlt und gerne möchte, dass ich seine Produkte vorstelle, kann jederzeit [per Mail mit mir in Verbindung treten](mailto:info@cardamonchai.com). Dann können wir uns über die genauen Konditionen unterhalten.
 
-[Hier könnt Ihr mein Mediakit herunterladen](/mediakit/).
+[Hier könnt Ihr mein Mediakit herunterladen](/mein-mediakit/).
 
 Und nicht nur für **Anne bloggt cardamonchai** bin ich immer an neuen Kontakten interessiert.  Als Freelancerin bin ich immer auf der Suche nach spannenden Textaufträgen. Ihr braucht einen Text zu einem bestimmten Thema? Seid auf der Suche nach jemandem, der zuverlässig Eure Texte in Eure Homepage oder Euren Shop einpflegt und das fehlerfrei? Dann seid Ihr bei mir an der richtigen Adresse.
 
