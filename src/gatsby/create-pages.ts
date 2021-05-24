@@ -34,8 +34,9 @@ query MyQuery {
           typeName
           remoteLoadingImage
           remoteThumbnailImage
-          language
           languageLink
+          advertisement
+          affiliate
           image { 
             childImageSharp {
               fluid(maxWidth: 400, quality: 70) {
@@ -67,9 +68,11 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
   }
 
   const edges = data!.allMdx.edges;
+
   const labels: Labels = {};
 
   for (const edge of edges) {
+    console.log(edge.node.frontmatter.date, edge.node.frontmatter.title);
     const { fields } = edge.node;
     for (const label of fields.labels || []) {
       if (label.startsWith('serie:')) {
@@ -163,6 +166,9 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
   packs.forEach((pack, i) => {
     // RAW PAGINATION DATA
     writePackToJson(pack, i + 1, packs.length);
+    for (const n of pack) {
+      console.log(`${i + 1}/${packs.length}, ${n.date}, ${n.title}`);
+    }
 
     // PAGINATED FOLLOW UPS OF HOMEPAGE
     createPage({

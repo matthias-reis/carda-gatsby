@@ -45,7 +45,7 @@ export const HomePage: React.FC<{
         const nextContent = await fetchNextContent(nextPage);
         setMaxPages(nextContent.maxPages);
         setAvailableArticles([...availableArticles, ...nextContent.articles]);
-        setIsLoading(false);
+        setTimeout(() => setIsLoading(false), 1000);
       }
     })();
   }, [nextPage, maxPages]);
@@ -87,13 +87,15 @@ export const HomePage: React.FC<{
           articles={availableArticles.slice(3)}
           content="home/next"
         />
-        <HomePagination
-          isLoading={isLoading}
-          onShouldLoad={() => {
-            event('pagination/next-chunk', 'pagination');
-            setNextPage((nextPage) => nextPage + 1);
-          }}
-        />
+        {!isLoading && (
+          <HomePagination
+            isLoading={isLoading}
+            onShouldLoad={() => {
+              event('pagination/next-chunk', 'pagination');
+              setNextPage((nextPage) => nextPage + 1);
+            }}
+          />
+        )}
       </ContentSection>
     </div>
   );
