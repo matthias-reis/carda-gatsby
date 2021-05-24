@@ -6,29 +6,34 @@ typeName: Review
 title: '"Painful Reminder" von Crippled Black Phoenix'
 subTitle: Erinnerung an SNFU Sänger Mr. Chi Pig
 seoTitle: Crippled Black Phoenix covern "Painful Reminder"
-description: Crippled Black Phoenix haben in Gedenken an Mr. Chi Pig den SNFU Song "Painful Reminder" gecovert und stellen ihren neuen Sänger vor.
-excerpt: Crippled Black Phoenix haben gerade ihre neue Single "Painful Reminder" veröffentlicht. Dabei handelt es sich um eine Cover-Version des SNFU Songs. Für die Umsetzung haben sich CBP Unterstützung vom Sänger und Texter Joel Segerstedt geholt, der nun festes Mitglied der Band ist.
-image: '/img/painful-reminder-cbp.jpg'
-ogImage: '/img/painful-reminder-cbp-fb.jpg'
+description: Crippled Black Phoenix haben in Gedenken an Mr. Chi Pig den SNFU Song
+  "Painful Reminder" gecovert und stellen ihren neuen Sänger vor.
+excerpt: Crippled Black Phoenix haben gerade ihre neue Single "Painful Reminder" veröffentlicht.
+  Dabei handelt es sich um eine Cover-Version des SNFU Songs. Für die Umsetzung haben
+  sich CBP Unterstützung vom Sänger und Texter Joel Segerstedt geholt, der nun festes
+  Mitglied der Band ist.
+image: "/img/painful-reminder-cbp.jpg"
+ogImage: "/img/painful-reminder-cbp-fb.jpg"
 labels:
-  - Review
-  - Bands
-  - Painful Reminder
-  - Crippled Black Phoenix
-  - CBP
-  - Mr. Chi Pig
-  - Hardcore-Punk
-  - Punk
-  - Prog
-  - Review
-  - German & English
+- Review
+- Bands
+- Painful Reminder
+- Crippled Black Phoenix
+- CBP
+- Mr. Chi Pig
+- Hardcore-Punk
+- Punk
+- Prog
+- Review
+- German & English
+- English & German
 focusKeyword: Painful Reminder
 advertisement: false
 affiliate: false
 language: de
-languageLink: '/2021/04/crippled-black-phoenix-painful-reminder-en'
----
+languageLink: "/2021/04/crippled-black-phoenix-painful-reminder-en"
 
+---
 **Crippled Black Phoenix haben gerade ihre neue Single "Painful Reminder" veröffentlicht. Dabei handelt es sich um eine Cover-Version des SNFU Songs. Für die Umsetzung haben sich CBP Unterstützung vom Sänger und Texter Joel Segerstedt geholt, der nun festes Mitglied der Band ist.**
 
 Der Song ist Teil der 2-Song-EP "Painful Reminder/Dead Is Dead", die am 16. Juli bei Season of Mist erscheinen wird. Wir dürfen gespannt sein: Die Umsetzung des ersten Songs ist schon mal sehr vielversprechend. Der gefühlvolle Gesang geht unter die Haut und auch musikalisch ist das Stück mal wieder ein echtes Highlight von Crippled Black Phoenix.

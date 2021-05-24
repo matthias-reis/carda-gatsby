@@ -25,6 +25,7 @@ labels:
 - English & German
 - Interview
 - interviews
+- English & German
 focusKeyword: Speak Memory
 advertisement: false
 affiliate: false
