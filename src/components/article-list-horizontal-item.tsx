@@ -112,7 +112,7 @@ const ImageContainer = styled.span`
 `;
 
 const Image = styled.img`
-  width: 130px;
+  width: 120px;
   flex: 0 0 auto;
 `;
 
