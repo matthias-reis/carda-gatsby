@@ -34,16 +34,11 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Ein inspirierender Spaziergang
-year: "2016"
+year: '2016'
 month: '01'
+image: "/img/moewen-auf-der-bruecke.jpeg"
 
 ---
-<RemoteImage alt={`Möwen auf der Brücke`} size="medium"
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_23828888259_7b3b8ae3b4_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_23828888259_7b3b8ae3b4_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQYE/8QAKRAAAQMDAwMEAgMAAAAAAAAAAQIDBAAFEQYSIRMiMRRBYYE0kUJx8P/EABYBAQEBAAAAAAAAAAAAAAAAAAIBAP/EABwRAAMAAgMBAAAAAAAAAAAAAAABAhEhEjFBQv/aAAwDAQACEQMRAD8AVum5KLeVHYt8KIPTdUUjjIB7VDPmre/XOPcbdHjsxUMllzqFSVqJPaRySs4+hWd0y7BTcoSrikejDzZfO3PZuBPHvxninRqWLo27yEL/AAklADU2I4kBwD+S0AbCfjCTipM1S0NuZe0La2abnauuCxFXImPtILr/AFXgFEeAEqPufAB/dRiaOeliektuQXoKUdRqeQycqztABGeQDz4481oJNpvWk7m0u2zIcuBcWiBJCtiHEA5wsZylQPI5P3yK5tV6qiSbK3FfcRc7iwoKTJYbLYbQMktFZOVpJ/r4qKV9dhbfgvtL25Vynoj9ctJxnO3P65rVvyo2lS96SAxJeQUpDsnvIJIGQD25+qKK2NIXJ5wUt0vlwupU5PkrdzxsB2o4z7f7xVQ88o5SMBJSOPqiimgM/9k="
-/>
-
 **Auf dem Geländer der Brücke sitzen die Möwen eine neben der anderen. Sind sie nicht hübsch, wie sie die Köpfe zusammenstecken und eine nach der anderen aufbrechen?**
 
 Diese Aufnahmen sind genau wie die meine [Bildergalerie](/2016/01/bluetenpracht-im-winter/)  "Blütenpracht im Winter" am 24. Dezember beim Spazierengehen durch Planten und Blomen in Hamburg entstanden.
