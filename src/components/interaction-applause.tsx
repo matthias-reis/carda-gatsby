@@ -91,12 +91,6 @@ export const InteractionApplause: React.FC<InteractionsProps> = ({ meta }) => {
     })();
   }, [pageId]);
 
-  // casts a silent timeout after 30 seconds to boost the applause function
-  React.useEffect(() => {
-    const silentApplauseTimeout = setTimeout(silentApplause, 30000);
-    return clearTimeout(silentApplauseTimeout);
-  }, []);
-
   // triggers the applause (on click) and also tracks it
   const applause = () => {
     debouncedApplauseCount.current = (debouncedApplauseCount.current || 0) + 1;
@@ -110,6 +104,12 @@ export const InteractionApplause: React.FC<InteractionsProps> = ({ meta }) => {
       (debouncedSilentApplauseCount.current || 0) + 1;
     debouncedSend();
   };
+
+  // casts a silent timeout after 30 seconds to boost the applause function
+  React.useEffect(() => {
+    const silentApplauseTimeoutId = setTimeout(silentApplause, 30000);
+    return () => clearTimeout(silentApplauseTimeoutId);
+  }, []);
 
   // waits for a second to deliver applause to collect several events
   const debouncedSend = () => {

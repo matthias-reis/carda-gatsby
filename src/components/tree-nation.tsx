@@ -15,7 +15,6 @@ const TREENATION_ID = '60a4eb4357e45';
 export const TreeNation: React.FC = () => {
   React.useEffect(() => {
     const url = `https://tree-nation.com/track/web/${TREENATION_ID}`;
-    console.log('track tree nation');
     fetch(url);
   }, []);
   return (
