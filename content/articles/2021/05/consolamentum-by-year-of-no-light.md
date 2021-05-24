@@ -1,14 +1,15 @@
 ---
-date: 2021-05-02T17:21:42Z
+date: 2021-05-02T17:21:42.000+00:00
 labels:
-  - Year Of No Light
-  - post-rock
-  - post-metal
-  - bands
-  - music
-  - Review
-  - pelagic
-  - Roadburn
+- Year Of No Light
+- post-rock
+- post-metal
+- bands
+- music
+- Review
+- pelagic
+- Roadburn
+- English & German
 language: en
 slug: year-of-no-light-consolamentum-en
 typeName: Review
@@ -16,16 +17,19 @@ title: Year Of No Light – "Consolamentum"
 subTitle: Stories From The Dark Side
 seoTitle: Year Of No Light – "Consolamentum" – Stories From The Dark Side
 ogTitle: ''
-description: 'Year Of No Light have finished their new album! "Consolamentum" will be hitting your records store soon. I already had the chance to listen to it, and I concluded: It is an extraordinary record. You should definitely consider adding it to your collection.'
+description: 'Year Of No Light have finished their new album! "Consolamentum" will
+  be hitting your records store soon. I already had the chance to listen to it, and
+  I concluded: It is an extraordinary record. You should definitely consider adding
+  it to your collection.'
 excerpt: ''
-image: '/img/year-of-no-light.jpg'
-ogImage: '/img/year-of-no-light-fb.png'
+image: "/img/year-of-no-light.jpg"
+ogImage: "/img/year-of-no-light-fb.png"
 focusKeyword: Year Of No Light
 advertisement: false
 affiliate: false
-languageLink: '/year-of-no-light-consolamentum'
----
+languageLink: "/year-of-no-light-consolamentum"
 
+---
 **Year Of No Light have finished their new album! "Consolamentum" will be hitting your records store soon. I already had the chance to listen to it, and I concluded: It is an extraordinary record. You should definitely consider adding it to your collection.**
 
 The album starts with the dark opener "Objuration". It lets me descend deep into a dark cave. Only a tiny hint of light falls down to me through a crack. The piece has some surprising twists in store for us. All in all, it convinces with a fabulous mix of harshness, playfulness and precision. With its 12:47 minutes, "Objuration" is a substantial opener. I immediately want to hear more.

@@ -7,6 +7,7 @@ labels:
 - Post-Rock
 - Post-Metal
 - Post-Hardcore
+- English & German
 language: de
 slug: a-terre-notre-ciel-noir
 typeName: Review
