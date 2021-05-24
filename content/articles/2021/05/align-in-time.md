@@ -8,6 +8,7 @@ labels:
 - Align in Time
 - interviews
 - interview
+- English & German
 language: de
 slug: align-in-time-interview
 typeName: Interview

@@ -12,6 +12,7 @@ labels:
 - Pelagic
 - Bands
 - Review
+- English & German
 language: de
 slug: karin-park-lustmord-alter
 typeName: Review

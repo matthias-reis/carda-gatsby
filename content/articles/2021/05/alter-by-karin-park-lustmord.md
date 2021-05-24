@@ -12,6 +12,7 @@ labels:
 - Review
 - Bands
 - English & German
+- English & German
 language: en
 slug: karin-park-lustmord-alter-en
 typeName: Review
