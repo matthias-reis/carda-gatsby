@@ -90,5 +90,6 @@ fields:
   label: Sprachlink
   description: Bitte vollständig angeben (/2021/04/titel)
 pages:
+- content/articles/2021/05/a-terre-notre-ciel-noir.md
 - content/articles/2021/05/forks-over-knives.md
 - content/articles/2021/05/vegane-salami-pizza.md
