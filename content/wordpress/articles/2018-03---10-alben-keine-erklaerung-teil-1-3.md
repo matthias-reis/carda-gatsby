@@ -51,6 +51,7 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Meine ultimative Lieblingsplatten-Liste aller Zeiten
+image: "/img/10-alben-keine-erklaerung-1.jpeg"
 
 ---
 > **10 LPs that make the "favourites" playlist. Post a cover a day, no explanation, nominate a person a day."  - 10 Alben, die Deine All-Time-Favoritenliste ergeben. Keine Erklärung. Nominiere jeden Tag eine andere Person"**
