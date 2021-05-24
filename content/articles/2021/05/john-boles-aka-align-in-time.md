@@ -8,6 +8,7 @@ labels:
 - Bands
 - interview
 - interviews
+- English & German
 language: en
 slug: align-in-time-interview-en
 typeName: Interview

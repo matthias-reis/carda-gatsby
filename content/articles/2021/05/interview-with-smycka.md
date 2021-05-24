@@ -8,6 +8,7 @@ labels:
 - Underground
 - Moskow
 - interviews
+- English & German
 language: en
 slug: smycka-interview-en
 typeName: Interview

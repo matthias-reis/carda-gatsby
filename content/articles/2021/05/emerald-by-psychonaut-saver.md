@@ -6,34 +6,40 @@ typeName: Review
 title: '"Emerald" by Psychonaut & Sâver'
 subTitle: The new Pelagic split LP
 seoTitle: Psychonaut & Sâver – "Emerald" – The new Pelagic split LP
-description: Psychonaut and Sâver have joined forces to release an excellent split LP on Pelagic Records on May 14th. The result of their collaboration is called "Emerald" – I’ve already had a listen.
-excerpt: 'Psychonaut and Sâver have joined forces to release an excellent split LP on Pelagic Records on May 14th. The result of their collaboration is called "Emerald" – I''ve already had a listen, and I have to admit: The cooperation of the two bands delivers some exciting friction.'
-image: '/img/psychonaut-saver.jpg'
-ogImage: '/img/psychonaut-saver-fb.jpg'
+description: Psychonaut and Sâver have joined forces to release an excellent split
+  LP on Pelagic Records on May 14th. The result of their collaboration is called "Emerald"
+  – I’ve already had a listen.
+excerpt: 'Psychonaut and Sâver have joined forces to release an excellent split LP
+  on Pelagic Records on May 14th. The result of their collaboration is called "Emerald"
+  – I''ve already had a listen, and I have to admit: The cooperation of the two bands
+  delivers some exciting friction.'
+image: "/img/psychonaut-saver.jpg"
+ogImage: "/img/psychonaut-saver-fb.jpg"
 labels:
-  - Review
-  - Bands
-  - Doom
-  - English & German
-  - Hardcore
-  - Mechelen
-  - Metal
-  - Oslo
-  - Pelagic
-  - Post-Metal
-  - Post-Rock
-  - Psychedelic
-  - Review
-  - Sâver
-  - Sludge
-  - Psychonaut
+- Review
+- Bands
+- Doom
+- English & German
+- Hardcore
+- Mechelen
+- Metal
+- Oslo
+- Pelagic
+- Post-Metal
+- Post-Rock
+- Psychedelic
+- Review
+- Sâver
+- Sludge
+- Psychonaut
+- English & German
 focusKeyword: Psychonaut
 advertisement: false
 affiliate: false
 language: en
-languageLink: /2021/05/psychonaut-saver-emerald
----
+languageLink: "/2021/05/psychonaut-saver-emerald"
 
+---
 **Psychonaut and Sâver have joined forces to release an excellent split LP on Pelagic Records on May 14th. The result of their collaboration is called "Emerald" - I've already had a listen.**
 
 The collaboration of the two bands delivers some exciting friction. Both projects are combining spirituality with heaviness in their songs. Both like to let their tracks escalate into operas - 20 minutes seems to be the standard.
