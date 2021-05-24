@@ -53,6 +53,7 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Lieblingsplattenliste eines Gartenbloggers
+image: "/img/10-alben-keine-erklaerung-2.jpeg"
 
 ---
 > **10 LPs that make the "favourites" playlist. Post a cover a day, no explanation, nominate a person a day."  - 10 Alben, die Deine All-Time-Favoritenliste ergeben. Keine Erklärung. Nominiere jeden Tag eine andere Person"**
