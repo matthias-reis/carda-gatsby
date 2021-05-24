@@ -6,26 +6,29 @@ typeName: Review
 title: '"At Hell''s Gate"'
 subTitle: Das neue Underking Album
 seoTitle: Underking – Das neue Album "At Hell's Gate" auf dem Plattenteller
-description: Underking – das ist von Fantasy und Science-Fiction inspirierter Metal Sound. Das neue Album "At Hell's Gate" erscheint morgen.
-excerpt: Underking – das ist von Fantasy und Science-Fiction inspirierter Metal Sound. Das neue Album "At Hell's Gate" erscheint morgen.
-image: '/img/underking-2.jpeg'
-ogImage: '/img/underking-fb.png'
+description: Underking – das ist von Fantasy und Science-Fiction inspirierter Metal
+  Sound. Das neue Album "At Hell's Gate" erscheint morgen.
+excerpt: Underking – das ist von Fantasy und Science-Fiction inspirierter Metal Sound.
+  Das neue Album "At Hell's Gate" erscheint morgen.
+image: "/img/underking-2.jpeg"
+ogImage: "/img/underking-fb.png"
 labels:
-  - Bands
-  - English & German
-  - Underking
-  - Metal
-  - Melodic Metal
-  - NWOBHM
-  - Review
-  - Underking
+- Bands
+- English & German
+- Underking
+- Metal
+- Melodic Metal
+- NWOBHM
+- Review
+- Underking
 advertisement: false
 focusKeyword: Underking
 affiliate: false
 language: de
-languageLink: '/2021/04/underking-at-hells-gate-en'
----
+languageLink: "/2021/04/underking-at-hells-gate-en"
+copyright: frankiethephotographer
 
+---
 **Underking – das ist von Fantasy und Science-Fiction inspirierter Metal Sound aus Nottingham, England. Emotionsgeladen, hart und melodisch und dabei kein bisschen überladen.**
 
 Das neue Underking Album "At Hell's Gate" erscheint morgen. Ich habe die Ehre, es schon seit ein paar Wochen hören zu können und möchte es hiermit allen Metal-Interessierten unter Euch empfehlen.
