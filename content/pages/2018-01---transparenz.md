@@ -2,15 +2,17 @@
 title: Transparenz
 seoTitle: Transparenz - Werbung und Kennzeichnung in meinem Blog
 slug: transparenz
-path: /werbung/
+path: "/werbung/"
 fileName: 2018-01---transparenz.md
-description: Tranzparenz ist heutzutage das A und O im Internet. Vor allem beim Bloggen. Auch mir ist Offenheit wichtig. Darum kennzeichne ich Werbung auch als solche.
-excerpt: Tranzparenz ist heutzutage das A und O im Internet. Vor allem beim Bloggen. Auch mir ist Offenheit wichtig. Darum kennzeichne ich Werbung auch als solche.
+description: Tranzparenz ist heutzutage das A und O im Internet. Vor allem beim Bloggen.
+  Auch mir ist Offenheit wichtig. Darum kennzeichne ich Werbung auch als solche.
+excerpt: Tranzparenz ist heutzutage das A und O im Internet. Vor allem beim Bloggen.
+  Auch mir ist Offenheit wichtig. Darum kennzeichne ich Werbung auch als solche.
 focusKeyword: Werbung
-labels: null
-type: null
+labels: 
+type: 
 typeName: Artikel
-date: 2018-01-12T07:33:21.000Z
+date: 2018-01-12T07:33:21.000+00:00
 status: publish
 isWerbung: false
 isAffiliate: false
@@ -20,18 +22,9 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_20784156796_c187f8f7f9_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYI/8QALxAAAQMCBAUCBAcAAAAAAAAAAQIDBAURAAYSUQchIjFBE2EIUrHBFBUjM2Lh8P/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EABoRAQEAAgMAAAAAAAAAAAAAAAEAAhEhMUH/2gAMAwEAAhEDEQA/AC2Kg9KrdJuL+47/AGxrHhfK9LKMBkNFQC1G4O6jjJ0LpeuElQIIIHe1u49/rheqM6DmPgpIiUqpsCq014Tvw5keg6kNqJV0kgnpJI9wPNsR3zX0JPYlqCbLb52SNvODmZWp7HEZNPpS44blPvSZ4cRqUmOjSlJHvrvbcjnyxOZF4goy5w9gNV96RV69JcvT6e0760l9pR/T1HnpGrUBq6reMUWWKU7GhVKs1dKDXKjIcfkaTdLASkhLKD8qdRF/JucGTBos3wf3Sf4n6YsM+UynKyHS6yhhpqopkqjuOJFi8k3IuPJGnkdicR1MOpZJ2+4GLDiDdWQ6AyhJ6pTzhNuR0i1r79WNR5U/wysU5E6q1F9LSprTaUtLKRdsFR1EbE8hfbCMZKfyE2UNSkLVa/zL/rArwPU5FqdTA1AORF9udiCCL/7bCYHSmnIbcQSotoAUDucCnTF//9k=
 subTitle: Werbung und Kennzeichnung
+
 ---
-
 **Tranzparenz ist heutzutage das A und O im Internet und vor allem beim Bloggen. Auch mir ist es sehr wichtig, meinen Lesern gegenüber immer offen zu bleiben. Daher hier eine kleine Zusammenfassung zum Thema Kennzeichnung.**
-
-<RemoteImage
-  alt="Werbung"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_20784156796_c187f8f7f9_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_20784156796_c187f8f7f9_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYI/8QALxAAAQMCBAUCBAcAAAAAAAAAAQIDBAURAAYSUQchIjFBE2EIUrHBFBUjM2Lh8P/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EABoRAQEAAgMAAAAAAAAAAAAAAAEAAhEhMUH/2gAMAwEAAhEDEQA/AC2Kg9KrdJuL+47/AGxrHhfK9LKMBkNFQC1G4O6jjJ0LpeuElQIIIHe1u49/rheqM6DmPgpIiUqpsCq014Tvw5keg6kNqJV0kgnpJI9wPNsR3zX0JPYlqCbLb52SNvODmZWp7HEZNPpS44blPvSZ4cRqUmOjSlJHvrvbcjnyxOZF4goy5w9gNV96RV69JcvT6e0760l9pR/T1HnpGrUBq6reMUWWKU7GhVKs1dKDXKjIcfkaTdLASkhLKD8qdRF/JucGTBos3wf3Sf4n6YsM+UynKyHS6yhhpqopkqjuOJFi8k3IuPJGnkdicR1MOpZJ2+4GLDiDdWQ6AyhJ6pTzhNuR0i1r79WNR5U/wysU5E6q1F9LSprTaUtLKRdsFR1EbE8hfbCMZKfyE2UNSkLVa/zL/rArwPU5FqdTA1AORF9udiCCL/7bCYHSmnIbcQSotoAUDucCnTF//9k="
-/>
 
 Selbstverständlich gebe ich in all meinen Beiträgen meine persönliche Meinung wieder. Das wird sich auch in Zukunft nicht ändern. Egal, ob ein Artikel Produktplazierungen, Links oder Werbung enthält, lest Ihr darin immer und ausschließlich meine persönliche Meinung. Grundsätzlich finden auf meiner Seite nur Produkte einen Platz, die auch meinen Vorstellungen und Ansprüchen entsprechen. Diese lauten:
 
@@ -57,6 +50,6 @@ Werde ich für einen kompletten Beitrag auf cardamonchai.com bezahlt, handelt es
 
 Enthält ein Beitrag einen Affiliate Link, erhalte ich eine kleine Provision, wenn einer meiner Leser über den Link etwas einkauft, oder ich habe eine einmalige Bezahlung für das Setzen des Links bekommen. Für den Käufer fallen dadurch keine weiteren Kosten an. Für Besucher meiner Seite handelt es sich um einen ganz normalen Link, über den sie zu einer von mir erwähnten Seite oder zu einem von mir empfohlenen Produkt gelangen. Die Kennzeichnung in diesem Fall lautet **"Beitrag enthält Affiliate Links"**
 
-## Hinweis an meine Kooperationspartner\*innen
+## Hinweis an meine Kooperationspartner*innen
 
-Ich behalte mir das Recht vor, auf die Berichterstattung über mir bereits zugesendete Produkte zu verzichten. Das kann zum Beispiel der Fall sein, wenn mir Produkte doppelt zugesendet wurden oder ich andere Produkte erhalte, als vorab besprochen. Nur in diesem Fall kann ich die Produkte auf Wunsch zurücksenden. Die Rücksendung kann allerdings nur erfolgen, wenn ich ein für mich kostenloses Rücksendelabel zur Verfügung gestellt bekomme. Ich berichte nicht über Produkte, die mir ohne Vorankündigung einfach zugesendet werden. Auch über Produktproben wie zum Beispiel Gratis-Samples berichte ich nicht. Das lässt sich, denke ich, schon allein dadurch begründen, dass sich derartige unverkäufliche Muster fotografisch nicht in Szene setzen lassen. Fotos sind jedoch ein wichtiger Bestandteil meiner Blogartikel. Der Erkennungswert der Originalverpackung ist für Eure potentiellen Kund\*innen zudem deutlich höher. Vielen Dank für das Verständnis.
+Ich behalte mir das Recht vor, auf die Berichterstattung über mir bereits zugesendete Produkte zu verzichten. Das kann zum Beispiel der Fall sein, wenn mir Produkte doppelt zugesendet wurden oder ich andere Produkte erhalte, als vorab besprochen. Nur in diesem Fall kann ich die Produkte auf Wunsch zurücksenden. Die Rücksendung kann allerdings nur erfolgen, wenn ich ein für mich kostenloses Rücksendelabel zur Verfügung gestellt bekomme. Ich berichte nicht über Produkte, die mir ohne Vorankündigung einfach zugesendet werden. Auch über Produktproben wie zum Beispiel Gratis-Samples berichte ich nicht. Das lässt sich, denke ich, schon allein dadurch begründen, dass sich derartige unverkäufliche Muster fotografisch nicht in Szene setzen lassen. Fotos sind jedoch ein wichtiger Bestandteil meiner Blogartikel. Der Erkennungswert der Originalverpackung ist für Eure potentiellen Kund*innen zudem deutlich höher. Vielen Dank für das Verständnis.
