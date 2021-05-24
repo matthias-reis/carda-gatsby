@@ -9,9 +9,6 @@ import { TreeNation } from './tree-nation';
 export const FooterNavigation: React.FC = () => (
   <Section>
     <Container large>
-      <Copyright>
-        © {new Date().getFullYear()} · cardamonchai.com · Rock 'n' Roll vegan.
-      </Copyright>
       <Navigation>
         <Item
           to="/das-ist-rocknroll-vegan"
@@ -50,6 +47,9 @@ export const FooterNavigation: React.FC = () => (
           Impressum
         </Item>
       </Navigation>
+      <Copyright>
+        © {new Date().getFullYear()} · cardamonchai.com · Rock 'n' Roll vegan.
+      </Copyright>
       <TreeNation />
     </Container>
   </Section>
@@ -62,11 +62,12 @@ const Section = styled.footer`
 const Copyright = styled.p`
   color: ${color.text30};
   text-align: center;
+  margin-bottom: ${space[3]};
 `;
 
 const Navigation = styled.nav`
+  margin-top: ${space[2]};
   text-align: center;
-  margin-bottom: ${space[3]};
 `;
 
 const Item = styled(Link)`
