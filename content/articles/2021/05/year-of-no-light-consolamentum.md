@@ -1,14 +1,15 @@
 ---
-date: 2021-05-18T08:07:00+02:00
+date: 2021-05-18T08:07:00.000+02:00
 labels:
-  - australian post-rock
-  - ' post-rock'
-  - Year Of No Light
-  - Review
-  - Bands
-  - Drone
-  - Pelagic
-  - Post-Metal
+- australian post-rock
+- " post-rock"
+- Year Of No Light
+- Review
+- Bands
+- Drone
+- Pelagic
+- Post-Metal
+- English & German
 language: de
 slug: year-of-no-light-consolamentum
 typeName: Review
@@ -16,16 +17,20 @@ title: Year Of No Light – "Consolamentum"
 subTitle: Geschichten aus der Dunkelheit
 seoTitle: Year of No Light – "Consolamentum" – Rock 'n Roll vegan Review
 ogTitle: ''
-description: Year of No Light haben ihr neues Album fertig! "Consolamentum" erscheint diesen Sommer. Ich hatte schon Gelegenheit, es zu hören.
-excerpt: 'Year Of No Light haben ihr neues Album fertig! "Consolamentum" wird diesen Sommer erscheinen. Ich hatte die Gelegenheit, es schon zu hören und muss sagen: Die Platte ist etwas Besonderes. Die Aufnahme in Eure Sammlung solltet Ihr unbedingt in Erwägung ziehen.'
-image: '/img/year-of-no-light.jpg'
-ogImage: '/img/year-of-no-light-fb.png'
+description: Year of No Light haben ihr neues Album fertig! "Consolamentum" erscheint
+  diesen Sommer. Ich hatte schon Gelegenheit, es zu hören.
+excerpt: 'Year Of No Light haben ihr neues Album fertig! "Consolamentum" wird diesen
+  Sommer erscheinen. Ich hatte die Gelegenheit, es schon zu hören und muss sagen:
+  Die Platte ist etwas Besonderes. Die Aufnahme in Eure Sammlung solltet Ihr unbedingt
+  in Erwägung ziehen.'
+image: "/img/year-of-no-light.jpg"
+ogImage: "/img/year-of-no-light-fb.png"
 focusKeyword: Year Of No Light
 advertisement: false
 affiliate: false
-languageLink: '/year-of-no-light-consolamentum-en'
----
+languageLink: "/year-of-no-light-consolamentum-en"
 
+---
 **Year Of No Light haben ihr neues Album fertig! "Consolamentum" wird diesen Sommer erscheinen. Ich hatte die Gelegenheit, es schon zu hören und muss sagen: Die Platte ist etwas Besonderes. Die Aufnahme in Eure Sammlung solltet Ihr unbedingt in Erwägung ziehen.**
 
 Das Album startet mit dem düsteren Opener "Objuration". Er lässt mich tief hinuntersteigen in eine finstere Höhle. Nur ein kleiner Hauch Licht fällt durch einen Riss zu mir hinunter. Das Stück hält einige überraschende Wendungen für mich bereit. Insgesamt überzeugt es durch einen sagenhaften Mix aus Härte, Verspieltheit und Präzision. Mit 12:47 Minuten ein gehaltvoller Opener. Ich will sofort mehr hören.

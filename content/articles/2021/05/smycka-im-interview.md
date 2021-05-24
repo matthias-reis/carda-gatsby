@@ -9,6 +9,7 @@ labels:
 - Moskau
 - Interview
 - interviews
+- English & German
 language: de
 slug: smycka-interview
 typeName: Interview
