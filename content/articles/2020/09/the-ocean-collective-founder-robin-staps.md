@@ -105,7 +105,7 @@ At the same time, we finalized the second fragment. I recorded some of the bass 
 
 **![Picture: © The Ocean Collective](/img/the-ocean-collective-2-400x300.jpeg "Picture: © The Ocean Collective")Anne:** All in all you are pretty much into concept albums. Sometimes it's about scales, sometimes about depth zones of waters, and sometimes about geological ages.
 
-With your new album "Phanerozoic II" you continue the concept that started in 2018 with the first part "Phanerozoic I". How did you get the idea to dedicate an album to the Phanerozoic? Or even before that to the Precambrian [<sup>2</sup>](#2) ?
+With your new album "Phanerozoic II" you continue the concept that started in 2018 with the first part "Phanerozoic I". How did you get the idea to dedicate an album to the Phanerozoic? Or even before that to the Precambrian [<sup>1</sup>](#1) ?
 
 **Robin:** The idea is already relatively old. We published "Precambrian" in 2007. At that time I was very much involved with geological ages. The connection with the album is that I studied geography at that time. I tried to visualize the music of "Precambrian". In front of my inner eye, I saw prehistoric scenes and landscapes. Somehow it was all very fitting. The theme complements the archaic and monumental music well. After "Precambrian" we did quite different things. But somehow I had the feeling that there was still a gap somewhere that we had to fill. From a conceptual and from a musical point of view. I figured out what was missing was the Phanerozoic. The time in which we still live today, but which already began 550 million years ago.
 
@@ -183,4 +183,6 @@ Here is a teaser for the upcoming The Ocean Album "Phanerozoic II" for you.
 
 ### Footnote
 
-* \[2\] The Phanerozoic is the youngest aeon or aeonothem in the history of the earth. It covers the period from 541 million years before today until the present. The Precambrian covers the period from the formation of the earth about 4.56 billion years ago to the development of the animal world at the beginning of the Cambrian about 540 million years ago.
+<span id='1'/>
+
+* \[1\] The Phanerozoic is the youngest aeon or aeonothem in the history of the earth. It covers the period from 541 million years before today until the present. The Precambrian covers the period from the formation of the earth about 4.56 billion years ago to the development of the animal world at the beginning of the Cambrian about 540 million years ago.
