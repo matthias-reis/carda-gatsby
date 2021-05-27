@@ -183,4 +183,4 @@ Here is a teaser for the upcoming The Ocean Album "Phanerozoic II" for you.
 
 ### Footnote
 
-* \[2\] The Phanerozoic is the youngest eon or aeonothem in the history of the earth. It covers the period from 541 million years before today until the present. The Precambrian covers the period from the formation of the earth about 4.56 billion years ago to the development of the animal world at the beginning of the Cambrian about 540 million years ago.
+* \[2\] The Phanerozoic is the youngest aeon or aeonothem in the history of the earth. It covers the period from 541 million years before today until the present. The Precambrian covers the period from the formation of the earth about 4.56 billion years ago to the development of the animal world at the beginning of the Cambrian about 540 million years ago.
