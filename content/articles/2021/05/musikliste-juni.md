@@ -87,13 +87,13 @@ Matze:
 
 > SNFU sind die kanadischen Skater-Punks, die ich leider nie so richtig auf dem Radar hatte. Sie lieferten einst das Original für diese Cover-Version einer meiner Lieblingsbands, Crippled Black Phoenix. Anlass ist der tragische Tod des SNFU-Sängers Ken Chinn aka. Mr. Chi Ping nach langer Krankheit. Kurz zuvor hatte er noch eine letzte EP aufgenommen – ebenfalls mit einer Version dieses Stücks. Bitte hört Euch alle drei Versionen an (von SNFU, Mr. Chi Ping und CBP). Ich habe selten so unterschiedlich und doch gleich eindringliche Versionen eines Songs gehört.
 
-[Mehr über den Song und die Geschichte dahinter könnt Ihr hier nachlesen](http://cardamonchai.com/2021/04/crippled-black-phoenix-painful-reminder/).
+[Mehr über den Song und die Geschichte dahinter könnt Ihr hier nachlesen](/2021/04/crippled-black-phoenix-painful-reminder/).
 
 <YouTube id="K2ABZn5Wkcs" />
 
 ### Year Of No Light – "Réalgar" (Vorauskopplung vom Album "Consolamentum")
 
-> "Anne hat zwar schon so ziemlich [alles Wissenswerte zu dieser Platte in einem eigenen Artikel zusammengefasst](http://cardamonchai.com/2021/05/year-of-no-light-consolamentum/). Mir war es trotzdem wichtig, dass dieses Meisterwerk auf unserer Liste erscheint und habe dem Post-Metal-Stück mit den vielen Stimmungen einen meiner vier Plätze überlassen. Leider war ich schon zu spät für die spektakuläre rote Erstpressung der LP – das wäre ein echtes Highlight in der Vinylsammlung gewesen."
+> "Anne hat zwar schon so ziemlich [alles Wissenswerte zu dieser Platte in einem eigenen Artikel zusammengefasst](/2021/05/year-of-no-light-consolamentum/). Mir war es trotzdem wichtig, dass dieses Meisterwerk auf unserer Liste erscheint und habe dem Post-Metal-Stück mit den vielen Stimmungen einen meiner vier Plätze überlassen. Leider war ich schon zu spät für die spektakuläre rote Erstpressung der LP – das wäre ein echtes Highlight in der Vinylsammlung gewesen."
 
 <YouTube id="mjbZJLA4LaM" />
 

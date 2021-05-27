@@ -39,7 +39,7 @@ Der Waldboden federt unsere Schritte ab und duftet angenehm. Das Zwitschern der 
 
 Vielleicht habt Ihr ja sogar Lust, zwischendurch eine kleine Meditations-Pause einzulegen? Nur zehn Minuten vollständige Entspannung vor den natürlichen Hintergrundgeräuschen des Waldes können das Äquivalent für eine komplette Stunde Tiefschlaf sein. Wenn Ihr Lust auf ein kleines Abenteuer habt, lasst Euch mal darauf ein, wirklich alle Sinne der Natur zu widmen.
 
-Setzt Euch in die U-Bahn oder den Bus und fahrt bis zur Endhaltestelle. Beim letzten Schritt auf dem Asphalt schaltet Ihr Euer Mobiltelefon aus und steckt es in den Rucksack. [Verzichtet an dem Tag ruhig mal bewusst auf Make-up](http://cardamonchai.com/2018/07/make-up-fasten/) und vor allem Parfum, um die Feuchtigkeit auf Eurer Haut und die Gerüche, die Euch begegnen wirklich ganz bewusst auf Euch wirken lassen zu können – ohne Filter sozusagen.
+Setzt Euch in die U-Bahn oder den Bus und fahrt bis zur Endhaltestelle. Beim letzten Schritt auf dem Asphalt schaltet Ihr Euer Mobiltelefon aus und steckt es in den Rucksack. [Verzichtet an dem Tag ruhig mal bewusst auf Make-up](/2018/07/make-up-fasten/) und vor allem Parfum, um die Feuchtigkeit auf Eurer Haut und die Gerüche, die Euch begegnen wirklich ganz bewusst auf Euch wirken lassen zu können – ohne Filter sozusagen.
 
 Zieht Euch etwas Bequemes an, damit Ihr so viel Zeit, wie Ihr wollt, draußen verbringen könnt, ohne, dass etwas zwickt oder zwackt. Atmet ganz bewusst und genießt die Stille. Ein Tag im Wald kann Euch Kraft und neuen Mut geben aber auch zum Beispiel endlich mal die Gelegenheit bieten, Euren Tränen freien Lauf zu lassen – weinen befreit ja bekanntlich.
 

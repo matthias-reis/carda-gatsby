@@ -26,7 +26,7 @@ affiliate: false
 languageLink: ''
 ---
 
-**"Forks Over Knives" würde ich vermutlich als Erstes sagen, wenn Ihr mich nach [meinen Lieblings-Dokus](https://cardamonchai.com/category/lifestyle/buecher-filme/) rund ums Thema Veganismus fragen würdet. Der Film gehört zu den wenigen, die ich mir immer wieder ansehe und das nicht ohne Grund.**
+**"Forks Over Knives" würde ich vermutlich als Erstes sagen, wenn Ihr mich nach [meinen Lieblings-Dokus](/category/lifestyle/buecher-filme/) rund ums Thema Veganismus fragen würdet. Der Film gehört zu den wenigen, die ich mir immer wieder ansehe und das nicht ohne Grund.**
 
 Ich stelle Euch heute also mal wieder einen Film vor. Obwohl "Forks Over Knives" eigentlich so viel mehr ist als das, doch dazu später mehr.
 
@@ -38,7 +38,7 @@ Der unabhängige Filmemacher Lee Fulkerson zeigt in seinem Werk die Vorzüge pfl
 
 Lee Fulkerson hat in meinen Augen ein perfektes All-in-one-Infopaket geschaffen. Er beleuchtet darin die in unseren Gefilden am weitesten verbreiteten Ernährungsweise ziemlich genau. Was seinen Film vom allgemeinen Informationswirrwarr der üblichen Ernährungsberatungsstellen und Diäthilfen unterscheidet, ist die klare Sprache. Die Verbindung, die zwischen der Aufnahme von zu viel tierischem Protein und Fett, Zucker und industriell verarbeiteten Lebensmittel und Problemen wie Herz-Kreislauf-Erkrankungen, Krebs und Typ II Diabetes belegt er für alle durchschaubar und nimmt dabei kein Blatt vor den Mund.
 
-Dabei zitiert er nicht nur aus Studien, sondern lässt renommierte Fachleute aus dem medizinischen und wissenschaftlichen Bereich zu Wort kommen. Mit von der Partie ist neben T. Colin Campbell, dem Autor der [China Study](http://cardamonchai.com/2019/06/veganer-arzt-interview-dr-hanno-platz/), unter anderem auch der Herzspezialist Caldwell Esselstyn.
+Dabei zitiert er nicht nur aus Studien, sondern lässt renommierte Fachleute aus dem medizinischen und wissenschaftlichen Bereich zu Wort kommen. Mit von der Partie ist neben T. Colin Campbell, dem Autor der [China Study](/2019/06/veganer-arzt-interview-dr-hanno-platz/), unter anderem auch der Herzspezialist Caldwell Esselstyn.
 
 ### Ein echtes Abenteuer
 
@@ -46,7 +46,7 @@ Sie erklären der Vorteile veganer vollwertiger, naturbelassener Nahrung und zei
 
 Der Verzicht auf Fleisch, Milch und andere tierische Lebensmittel, Fertiggerichte und raffinierten Zucker steht im Mittelpunkt des Films. Was dabei besonders mitreißend ist: Am Anfang begibt sich Lee Fulkerson selbst auf ein Abenteuer.
 
-Er gibt zu, dass er sich selbst sehr ungesund ernährt. Obwohl er sich gesund fühlt, lässt er sich untersuchen und lässt sich auf eine 12-wöchige Ernährungsumstellung ein. Die anschließende weitere Untersuchung spricht Bände. Seine Entzündungswerte, sein Blutzuckerspiegel und seine [Cholesterinwerte](http://cardamonchai.com/2019/06/veganer-arzt-interview-dr-hanno-platz/) sind besser, als jemals zuvor.
+Er gibt zu, dass er sich selbst sehr ungesund ernährt. Obwohl er sich gesund fühlt, lässt er sich untersuchen und lässt sich auf eine 12-wöchige Ernährungsumstellung ein. Die anschließende weitere Untersuchung spricht Bände. Seine Entzündungswerte, sein Blutzuckerspiegel und seine [Cholesterinwerte](/2019/06/veganer-arzt-interview-dr-hanno-platz/) sind besser, als jemals zuvor.
 
 ### "Forks Over Knives" als Mitmachen-Portal
 

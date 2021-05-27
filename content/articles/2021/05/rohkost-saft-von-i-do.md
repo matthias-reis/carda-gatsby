@@ -88,4 +88,4 @@ Der Bio-Kunststoff PLA, aus dem die Flaschen zu 90 Prozent bestehen wird aus nac
 Mit ihrem veganen Rohkost-Saft, den man überall in der Flasche kaufen kann, haben Andi, Julien und Alex ihr Ziel erreicht. Die Sorten-Vielfalt ist groß und für meinen Geschmack sehr kreativ. Die Idee mit den kompostierbaren Flaschen ist toll und ich hoffe, dass dieses positive Beispiel weitere Unternehmen inspiriert, auf Dauer klimafreundlicher zu werden.  
 <Gallery name="antidote-2" />
 
-_*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Die Produkte wurden mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner_ [_Transparenz-Seite_](http://cardamonchai.com/werbung/)_._
+_*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Die Produkte wurden mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner_ [_Transparenz-Seite_](/werbung/)_._

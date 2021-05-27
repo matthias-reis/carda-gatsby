@@ -58,7 +58,7 @@ Stellt Eure vegane Salami-Pizza in den vorgeheizten Ofen und stellt einen Timer 
 
 ### Mein Fazit
 
-Der Teig von Bauckhof ist wirklich super. Er ist super knusprig geworden und war mal eine schöne Abwechslung zu unserem gewohnten [Hefeteig](http://cardamonchai.com/2021/01/hefe-ist-vegan/). Ich würde ihn auf jeden Fall wieder verwenden.
+Der Teig von Bauckhof ist wirklich super. Er ist super knusprig geworden und war mal eine schöne Abwechslung zu unserem gewohnten [Hefeteig](/2021/01/hefe-ist-vegan/). Ich würde ihn auf jeden Fall wieder verwenden.
 
 Die Beddarella von Bedda kannte ich tatsächlich noch nicht und war angenehm überrascht. Für mich war sie das Highlight der Pizza. Ich werde sie in Zukunft auf jeden Fall wieder kaufen.
 
