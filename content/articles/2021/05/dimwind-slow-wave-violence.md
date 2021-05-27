@@ -18,9 +18,9 @@ seoTitle: Dimwind – "Slow Wave Violence" – Post-Metal ohne Grenzen
 ogTitle: ''
 description: Dimwind haben vor Kurzem ihr Debüt-Album "Slow Wave Violence" veröffentlicht.
   Es lohnt sich aus vielen Gründen mal reinzuhören.
-excerpt: English & German – Dimwind haben vor Kurzem ihr Debüt-Album "Slow Wave Violence"
-  veröffentlicht. Das Werk des Göteborger Post-Metal Duos ist absolut hörenswert –
-  sieben Songs, die unter die Haut gehen, stehen Euch bevor.
+excerpt: Dimwind haben vor Kurzem ihr Debüt-Album "Slow Wave Violence" veröffentlicht.
+  Das Werk des Göteborger Post-Metal Duos ist absolut hörenswert – sieben Songs, die
+  unter die Haut gehen, stehen Euch bevor.
 image: "/img/dimwind-2.jpeg"
 copyright: Dimwind
 ogImage: "/img/dimwind-fb.jpg"
