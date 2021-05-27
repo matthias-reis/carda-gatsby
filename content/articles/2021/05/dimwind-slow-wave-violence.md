@@ -27,7 +27,7 @@ ogImage: "/img/dimwind-fb.jpg"
 focusKeyword: Dimwind
 advertisement: false
 affiliate: false
-languageLink: "/dimwind-slow-wave-violence-en"
+languageLink: "/2021/05/dimwind-slow-wave-violence-en"
 
 ---
 **Dimwind haben vor Kurzem ihr Debüt-Album "Slow Wave Violence" veröffentlicht. Das Werk des Göteborger Post-Metal Duos ist absolut hörenswert – sieben Songs, die unter die Haut gehen, stehen Euch bevor.**
