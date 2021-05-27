@@ -1,10 +1,13 @@
 ---
 title: Datenschutz
-seoTitle: Datenschutz
+seoTitle: Datenschutz – Anne bloggt cardamonchai.com – Rock 'n' Roll vegan
 slug: datenschutz
 path: "/datenschutz/"
 fileName: 2016-12---datenschutz.md
-description: Datenschutz
+description: Datenschutzerklärung – Anne bloggt  cardamonchai.com – Rock 'n' Roll
+  vegan – Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären,
+  welche Arten Ihrer personenbezogenen Daten wir zu welchen Zwecken und in welchem
+  Umfang verarbeiten.
 excerpt: ''
 focusKeyword: ''
 labels: 
