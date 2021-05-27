@@ -16,10 +16,9 @@ seoTitle: Veganer Rohkost-Saft von I·DO – Start-up mischt den Saftmarkt auf
 ogTitle: ''
 description: Lust auf veganen Rohkost-Saft? Der Name I·DO steht auch für ein ziemlich
   freshes Start-up, das eben diesen in Bio-Qualität herstellt.
-excerpt: Werbung & Affiliate Links – Lust auf veganen Rohkost-Saft? Der Name I·DO
-  steht auch für ein ziemlich freshes Start-up, das eben diesen in Bio-Qualität herstellt.
-  Wer wird ausschließlich aus frischem Gemüse, Obst und Früchten hergestellt. Ich
-  habe probiert.
+excerpt: Lust auf veganen Rohkost-Saft? Der Name I·DO steht auch für ein ziemlich
+  freshes Start-up, das eben diesen in Bio-Qualität herstellt. Wer wird ausschließlich
+  aus frischem Gemüse, Obst und Früchten hergestellt. Ich habe probiert.
 image: "/img/2021-05-07-antidote-33.jpg"
 copyright: ''
 ogImage: "/img/antidote-fb.jpg"
