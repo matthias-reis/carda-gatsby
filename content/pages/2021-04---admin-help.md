@@ -2,32 +2,30 @@
 title: Hilfe für die Erstellung von Artikeln
 subTitle: Spickzettel
 slug: admin-help
-path: /
+path: "/"
 description: Alles Wissenswerte zum Erstellen neuer Artikel
-date: 2021-04-23T07:33:21.000Z
+date: 2021-04-23T07:33:21.000+00:00
 status: publish
----
 
+---
 [➡ Hier geht's zur Admin-Seite](/admin)
 
 ## Markdown
 
 ### Einfache Markdown-Auszeichnungen
 
-- Auszeichnung Fett: `**fetter text**` **fetter text**
-- Auszeichnung kursiv wird nicht unterstützt
-- Interner Link: `[Link-Text](/linkziel)` [Link-Text](/admin-help)
-- Externer Link (genauso): `[Link-Text](https://www.google.de)` [Link-Text](https://www.google.de)
+* Auszeichnung Fett: `**fetter text**` **fetter text**
+* Auszeichnung kursiv wird nicht unterstützt
+* Interner Link: `[Link-Text](/linkziel)` [Link-Text](/admin-help)
+* Externer Link (genauso): `[Link-Text](https://www.google.de)` [Link-Text](https://www.google.de)
 
 ### Absätze
 
 Einfache Zeilenschaltung wird ignoriert. Absätze erstellt man immer mit doppelter Zeilenschaltung. D.h. ein Absatz darf gerne über mehrere Zeilen gehen.
 
-```
-Absatz 1
-
-Absatz 2
-```
+    Absatz 1
+    
+    Absatz 2
 
 ### Überschriften
 
@@ -45,15 +43,11 @@ bitte mit H2 beginnen - möglichst keine H1 verwenden:
 
 Bilder werden ähnlich ausgezeichnet, wie Links. Am einfachsten geht es aber, wenn Du den Editor im CMS verwendest.
 
-```
-![Alt-Text](/img/bild.jpg 'Caption unter dem Bild')
-```
+    ![Alt-Text](/img/bild.jpg 'Caption unter dem Bild')
 
 Bilder werden per Default rechts ausgerückt neben dem Text dargestellt. Willst Du ein Bild über die volle Textbreite behen lassen, kann man dem Alt Text die Style-Variante `large` anhängen.
 
-```
-![Alt-Text | large](/img/bild.jpg 'Caption unter dem Bild')
-```
+    ![Alt-Text | large](/img/bild.jpg 'Caption unter dem Bild')
 
 ### Zitate und Anmerkungen
 
@@ -67,7 +61,7 @@ Jede neue Zeile muss wieder mit `>` eingeleitet werden.
 
 ### Listen und Aufzählungen
 
-Listen werden mit `- ` oder `1. ` gebildet. Bitte nach möglichkeit immer nur für kurze Statements verwenden, obwohl auch listen mit mehreren Absätzen unterstützt werden.
+Listen werden mit `-` oder `1.` gebildet. Bitte nach möglichkeit immer nur für kurze Statements verwenden, obwohl auch listen mit mehreren Absätzen unterstützt werden.
 
 ```md
 - eine
@@ -102,9 +96,7 @@ Wir unterstützen derzeit **Vimeo** und **YouTube**. Beide werden in ähnlicher 
 
 Es ist auch möglich, mit `caption` eine Beschriftung unter dem Video einzublenden.
 
-```
-<Vimeo id="15886860" caption="© A.M. Reis" />
-```
+    <Vimeo id="15886860" caption="© A.M. Reis" />
 
 <Vimeo id="15886860" caption="© A.M. Reis" />
 
@@ -112,9 +104,7 @@ Es ist auch möglich, mit `caption` eine Beschriftung unter dem Video einzublend
 
 Galerien werden nach wie vor bei Google gehostet und müssend aher vorher hochgeladen werden. Der vergebene Name wird benötigt. Dann kann man sie so benutzen:
 
-```
-<Gallery name="Vergebener Name" />
-```
+    <Gallery name="Vergebener Name" />
 
 ### Playlisten
 
@@ -134,6 +124,14 @@ Aktuell werden Playlisten von Sptify und Apple unterstützt. Man kann auch beide
 ```
 
 <Playlist
-  spotify="2gG0GNALKrYwbNhkxx8Q3R"
-  itunes="let-england-shake-this-is-not-america/pl.u-krLLtv3dBdD"
+spotify="2gG0GNALKrYwbNhkxx8Q3R"
+itunes="let-england-shake-this-is-not-america/pl.u-krLLtv3dBdD"
 />
+
+### Bedingter Trennstrich
+
+### Fußnoten
+
+### Kleine Bilder 
+
+Hinter dem Bild title `| small` einfügen
