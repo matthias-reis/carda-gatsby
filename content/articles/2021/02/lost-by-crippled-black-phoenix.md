@@ -9,7 +9,7 @@ labels:
 - Lost
 - Tierrechte
 - Tierschutz
-- Klima & Umweltschutz
+- Klima- & Umweltschutz
 - vegan celebrities
 - vegan Bands
 - vegan music

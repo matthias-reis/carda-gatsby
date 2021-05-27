@@ -73,7 +73,7 @@ Ihr findet hier im Blog zu allen möglichen Themen interessante Artikel, die Ihr
 
 ### Gesellschaft
 
-- [Klima &amp; Umweltschutz](/tag/vegan/klima-umweltschutz/)
+- [Klima- &amp; Umweltschutz](/tag/vegan/klima-umweltschutz/)
 - [Tierschutz](/tag/vegan/tierrechte/)
 - [Antifaschismus &amp; Feminismus](/tag/lifestyle/antifaschismus-feminismus)
 

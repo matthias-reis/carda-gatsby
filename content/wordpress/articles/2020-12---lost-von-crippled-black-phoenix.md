@@ -29,7 +29,7 @@ labels:
 - vegan celebrities
 - vegane Dokumentation
 - Vegane Filme
-- Klima & Umweltschutz
+- Klima- & Umweltschutz
 focusKeyword: Crippled Black Phoenix
 status: publish
 isWerbung: false
