@@ -22,10 +22,10 @@ seoTitle: '"Alter" von Karin Park & Lustmord – Faszinierende Horrorsounds'
 ogTitle: ''
 description: Eine neue Perle aus dem Dark Ambient Sektor wird schon bald das Licht
   der Welt erblicken. Karin Park und Lustmord machen gemeinsame Sache.
-excerpt: 'English & German – Alle, die mit düsteren Klängen etwas anfangen können,
-  sollten diesem Musiktipp auf jeden Fall ihre Aufmerksamkeit schenken. Denn: Schon
-  bald erscheint eine neue Perle auf diesem Gebiet – "Alter" ist eine Kooperation
-  von Lustmord und Karin Park von Årabrot.'
+excerpt: 'Alle, die mit düsteren Klängen etwas anfangen können, sollten diesem Musiktipp
+  auf jeden Fall ihre Aufmerksamkeit schenken. Denn: Schon bald erscheint eine neue
+  Perle auf diesem Gebiet – "Alter" ist eine Kooperation von Lustmord und Karin Park
+  von Årabrot.'
 image: "/img/2021-05-dark-ambient-karin-park-lustmord-pelagic.jpg"
 ogImage: "/img/2021-05-dark-ambient-karin-park-lustmord-pelagic-fb.jpg"
 focusKeyword: Karin Park
