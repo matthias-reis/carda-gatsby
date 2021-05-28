@@ -1,40 +1,35 @@
 ---
 date: 2000-02-12T22:34:00+01:00
 labels:
-- Bands
-- " Review"
-- Reviews
-- English & German
-- Crippled Black Phoenix
-- Lost
-- Tierrechte
-- Tierschutz
-- Klima- & Umweltschutz
-- vegan celebrities
-- vegan Bands
-- vegan music
-- climate change
+  - Bands
+  - ' Review'
+  - Reviews
+  - English & German
+  - Crippled Black Phoenix
+  - Lost
+  - Tierrechte
+  - Tierschutz
+  - Klima- & Umweltschutz
+  - vegan celebrities
+  - vegan Bands
+  - vegan music
+  - climate change
 language: en
 slug: crippled-black-phoenix-lost-en
 typeName: Review
-title: "Lost" by Crippled Black Phoenix
+title: \"Lost\" by Crippled Black Phoenix
 subTitle: Vegan music video shows human the abyss
 seoTitle: Vegan music video by Crippled Black Phoenix shows human the abyss
 ogTitle: ''
-description: The music video for "Lost" by Crippled Black Phoenix is a definite must-see.
-  This article is an urgent plea to watch it. Let it sink in, and then share it on
-  the internet. When I first watched it, it affected me a lot.
-excerpt: The music video for "Lost" by Crippled Black Phoenix is a definite must-see.
-  This article is an urgent plea to watch it. Let it sink in, and then share it on
-  the internet. When I first watched it, it affected me a lot.
-image: "/img/lost-crippled-black-phoenix-1.jpeg"
+description: The music video for "Lost" by Crippled Black Phoenix is a definite must-see. This article is an urgent plea to watch it. Let it sink in, and then share it on the internet. When I first watched it, it affected me a lot.
+excerpt: The music video for "Lost" by Crippled Black Phoenix is a definite must-see. This article is an urgent plea to watch it. Let it sink in, and then share it on the internet. When I first watched it, it affected me a lot.
+image: '/img/lost-crippled-black-phoenix-1.jpeg'
 copyright: ''
-ogImage: "/img/crippled-black-phoenix-lost-fb.png"
+ogImage: '/img/crippled-black-phoenix-lost-fb.png'
 focusKeyword: Crippled Black Phoenix
 advertisement: false
 affiliate: false
-languageLink: "/2021/02/crippled-black-phoenix-lost"
-
+languageLink: '/2021/02/crippled-black-phoenix-lost'
 ---
 
 **The music video that comes with the Crippled Black Phoenix song "Lost" is a statement for all human-caused suffering – put together in eight minutes.**
