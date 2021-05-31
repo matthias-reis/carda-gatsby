@@ -35,7 +35,7 @@ Ich fahre durch eine sommerliche Landschaft, in der sich gleißendes Sonnenlicht
 
 ### Building Prisons stellen sich vor
 
-![](/img/bp-ep-front-cover.png)Der Dunst verzieht sich und am Horizont zieht ein Schwarm Vögel vorbei. Auf Ihrer Reise in Richtung Norden lassen sie sich auf einem Feld nieder und lauschen dem Wind, der über ihren Köpfen dahin rauscht.
+![Die Building Prisons Debüt-EP](/img/bp-ep-front-cover.png "Die Building Prisons Debüt-EP")Der Dunst verzieht sich und am Horizont zieht ein Schwarm Vögel vorbei. Auf Ihrer Reise in Richtung Norden lassen sie sich auf einem Feld nieder und lauschen dem Wind, der über ihren Köpfen dahin rauscht.
 
 Vor lauter Begeisterung habe ich kaum bemerkt, dass ich schon beim zweiten Song ("Agent Orange") angekommen bin. Das für das Genre übliche Stilmittel, Gesang mithilfe von Instrumenten zu ersetzen, ist hier ganz fabelhaft gelungen. Das Stück ist etwas treibender, wirkt fast ein bisschen funky. Auf jeden Fall steht es im klaren Gegensatz zum ersten Song auf der Platte. Mit 4:29 ist es kurz und prägnant. Zum Ende hin wird es sogar noch etwas punkig – gefällt mir gut!
 
