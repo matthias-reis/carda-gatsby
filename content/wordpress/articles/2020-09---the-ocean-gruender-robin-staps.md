@@ -53,7 +53,9 @@ languageLink: "/2020/09/the-ocean-robin-staps-interview-en"
 
 ## "Wir haben die Pause für neue Projekte genutzt"
 
-**![The Ocean. Bild/picture: © The Ocean Collective](/img/the-ocean-collective-1-400x300.jpeg "The Ocean. Bild/picture: © The Ocean Collective")Robin:** Es war insgesamt bis jetzt ein sehr produktives und erfülltes Jahr für uns. Die Corona-Krise hat dazu geführt, dass wir quasi umgeschaltet haben und uns auf Projekte konzentriert, für die wir sonst keine Zeit gehabt hätten. Nachdem unsere Süd-Amerika-Tour im Mai ausgefallen ist und Wacken und das Prognosis Festival im März, haben wir uns dafür entschieden, unseren Fokus anders zu setzen. Wir konnten die Zeit für Sachen nutzen, die wir schon immer machen wollten und so hatte der Ausfall am Ende für uns auch etwas Gutes.
+![The Ocean. Bild/picture: © The Ocean Collective](/img/the-ocean-collective-1-400x300.jpeg "The Ocean. Bild/picture: © The Ocean Collective")
+
+**Robin:** Es war insgesamt bis jetzt ein sehr produktives und erfülltes Jahr für uns. Die Corona-Krise hat dazu geführt, dass wir quasi umgeschaltet haben und uns auf Projekte konzentriert, für die wir sonst keine Zeit gehabt hätten. Nachdem unsere Süd-Amerika-Tour im Mai ausgefallen ist und Wacken und das Prognosis Festival im März, haben wir uns dafür entschieden, unseren Fokus anders zu setzen. Wir konnten die Zeit für Sachen nutzen, die wir schon immer machen wollten und so hatte der Ausfall am Ende für uns auch etwas Gutes.
 
 **Anne:** Du hast es ja gerade schon kurz angesprochen, dass Ihr im Moment viel mit dem Verpacken der Platten beschäftigt seid. Du hast ja nicht nur ein Händchen für Musik, wenn es um The Ocean geht. Mit Pelagic hast Du ein erfolgreiches Label gegründet, bei dem einige der bekanntesten Post-Rock Bands gesignt sind. Dann ist es dort immer noch so, dass der Gründer sich auch mit um alles kümmert? Wie groß ist denn Dein Team beim Label inzwischen?
 
@@ -69,7 +71,9 @@ Wir haben ja auch zum Beispiel die Vinyl-Subscribtion, bei der 250 Abonnenten je
 
 ## "Dem Artwork widmen wir genauso viel Aufmerksamkeit wie der Musik"
 
-**![The Ocean im Logo in Hamburg 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-1-400x533.jpeg "The Ocean im Logo in Hamburg 2019")Robin:** Das Artwork nimmt auf jeden Fall einen großen Teil des Gesamtkonzepts ein. Ich habe immer versucht, Musik, vor allem die, die ich mit The Ocean mache, relativ holistisch zu begreifen. Als ein Zusammenspiel aus Kunst im 2D- oder 3D-Sinne und Musik. Mir macht das viel Spaß. Das ganze Produktdesign-Thema fasziniert mich sehr. Ich liebe es, damit Grenzen auszureizen und Dinge zu probieren, die es noch nicht so oft gegeben hat. Die zehnjährige Zusammenarbeit von The Ocean mit dem Grafiker Martin Quamme macht mir unglaublich viel Spaß. Er hat genau wie wir Lust, Materialien, Techniken und Packaging-Ideen auszuprobieren. Das Zusammenspiel aus seinen und meinen Ideen ist immer ziemlich fruchtbar.
+![The Ocean im Logo in Hamburg 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-1-400x533.jpeg "The Ocean im Logo in Hamburg 2019")
+
+**Robin:** Das Artwork nimmt auf jeden Fall einen großen Teil des Gesamtkonzepts ein. Ich habe immer versucht, Musik, vor allem die, die ich mit The Ocean mache, relativ holistisch zu begreifen. Als ein Zusammenspiel aus Kunst im 2D- oder 3D-Sinne und Musik. Mir macht das viel Spaß. Das ganze Produktdesign-Thema fasziniert mich sehr. Ich liebe es, damit Grenzen auszureizen und Dinge zu probieren, die es noch nicht so oft gegeben hat. Die zehnjährige Zusammenarbeit von The Ocean mit dem Grafiker Martin Quamme macht mir unglaublich viel Spaß. Er hat genau wie wir Lust, Materialien, Techniken und Packaging-Ideen auszuprobieren. Das Zusammenspiel aus seinen und meinen Ideen ist immer ziemlich fruchtbar.
 
 Ich würde sagen, dass die Kunst in Bezug auf die Zeit gleichberechtigt mit der Produktion der Musik ist. Natürlich muss erstmal geschrieben werden und die Musik wird aufgenommen. Aber danach fängt ein anderes Kapitel an, das meistens nicht weniger zeitaufwendig ist.
 
@@ -85,7 +89,9 @@ Sie hat uns dann geholfen, diese Fossilien in den doch recht großen Mengen zu b
 
 ## "Die Dinge dem Zufall zu überlassen, hat sich überwältigend angefühlt"
 
-**![The Ocean im Logo in Hamburg 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-400x533.jpeg "The Ocean im Logo in Hamburg 2019")Robin:** Absolut! Für uns ist das Album eine besondere Platte. Die Entstehungsgeschichte dahinter ist ganz anders, als die ihrer Vorgänger. Normalerweise habe ich schon, wenn wir ins Studio gegangen sind, eine ziemlich genaue Vorstellung davon, wie das Album klingen wird, wie es aussehen wird und welche Songs in welcher Reihenfolge drauf sind. Die einzelnen Sounds waren immer schon sehr ausgearbeitet.
+![The Ocean im Logo in Hamburg 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-400x533.jpeg "The Ocean im Logo in Hamburg 2019")
+
+**Robin:** Absolut! Für uns ist das Album eine besondere Platte. Die Entstehungsgeschichte dahinter ist ganz anders, als die ihrer Vorgänger. Normalerweise habe ich schon, wenn wir ins Studio gegangen sind, eine ziemlich genaue Vorstellung davon, wie das Album klingen wird, wie es aussehen wird und welche Songs in welcher Reihenfolge drauf sind. Die einzelnen Sounds waren immer schon sehr ausgearbeitet.
 
 Dieses Mal haben wir einfach viel mehr Abstand von diesen extrem detaillierten Vorproduktionen genommen. Wir haben die Dinge einfach passieren lassen. Am Anfang war das ein bisschen schwierig für mich. Es hat sich ziemlich überwältigend angefühlt. Ich habe mir tatsächlich die Frage gestellt, ob das Ganze wirklich ein Album wird oder ein lose Kollektion aus Songs.
 
@@ -97,7 +103,9 @@ Es durchläuft verschiedene Phasen und entwickelt sich von einer Phase in die n�
 
 ## "Die Platten sehen genial aus"
 
-**![The Ocean im Logo in Hamburg 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-3-400x533.jpeg "The Ocean im Logo in Hamburg 2019")Anne:** Wie war es, Euer Werk das erste Mal in den Händen zu halten?
+![The Ocean im Logo in Hamburg 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-3-400x533.jpeg "The Ocean im Logo in Hamburg 2019")
+
+**Anne:** Wie war es, Euer Werk das erste Mal in den Händen zu halten?
 
 **Robin:** Als das Vinyl letzte Woche angeliefert wurde, hat es mir die Haare zurückgeweht. Ich muss sagen, sie sehen einfach genial aus. Wir haben ein ganz besonderes Papier benutzt, mit dem wir ganz viele Tests machen mussten. Es muss ja auch geklebt und zu Gatefolds gefaltet werden. Da darf nichts aufgehen oder reißen. Es besitzt eine ganz besondere Struktur und ist einfach wunderschön. Wir waren ein Jahr lang mit dem Presswerk und verschiedenen Herstellern beschäftigt deswegen. Wenn man es dann in der Hand hält, ist ein Kapitel mit durchweg positiven Seiten abgeschlossen. Man hat das Gefühl, dass sich der ganze Aufwand gelohnt hat.
 
@@ -111,9 +119,11 @@ Parallel dazu haben wir den zweiten Teil finalisiert. Die Bass-Aufnahmen habe ic
 
 ## "Ich habe Geographie studiert"
 
-**![Bild/picture: © The Ocean Collective](/img/the-ocean-collective-2-400x300.jpeg "Bild/picture: © The Ocean Collective")Anne:** Insgesamt steht Ihr ja ziemlich auf Konzeptalben. Mal dreht es sich um Tonleitern, mal um Tiefenzonen von Gewässern und mal um Zeitalter.
+![Bild/picture: © The Ocean Collective](/img/the-ocean-collective-2-400x300.jpeg "Bild/picture: © The Ocean Collective")
 
-Mit dem neuen Album "Phanerozoic II" verfolgt Ihr das Konzept weiter, das 2018 mit dem ersten Teil "Phanerozoic I" losging. Wie seid Ihr auf die Idee gekommen, dem Phanerozoikum ein Album zu widmen? Oder zuvor auch schon dem Präkambrium[^1]?
+**Anne:** Insgesamt steht Ihr ja ziemlich auf Konzeptalben. Mal dreht es sich um Tonleitern, mal um Tiefenzonen von Gewässern und mal um Zeitalter.
+
+Mit dem neuen Album "Phanerozoic II" verfolgt Ihr das Konzept weiter, das 2018 mit dem ersten Teil "Phanerozoic I" losging. Wie seid Ihr auf die Idee gekommen, dem Phanerozoikum ein Album zu widmen? Oder zuvor auch schon dem Präkambrium\[^1\]?
 
 **Robin:** Die Idee ist schon relativ alt. "Precambrian" haben wir 2007 veröffentlicht. Damals habe ich mich viel mit dem geologischen Zeitalter beschäftigt. Die Verbindung mit dem Album ist daraus entstanden, dass ich zu dieser Zeit Geografie studiert habe. Ich habe versucht, mir die Musik von "Precambrian" bildlich vorzustellen. Vor meinem inneren Auge habe ich prähistorische Szenen und Landschaften gesehen. Irgendwie war das alles sehr passend. Die Thematik ergänzt die archaische und monumentale Musik gut. Nach "Precambrian" haben wir dann erstmal ganz andere Sachen gemacht. Aber irgendwie hatte ich das Gefühl, dass da irgendwo noch so eine Lücke ist, die wir füllen müssen. Sowohl vom Konzept her als auch musikalisch. Was fehlte, war das Phanerozoikum. Die Zeit, in der wir heute noch leben und die vor 550 Millionen Jahren bereits begonnen hat.
 
@@ -139,7 +149,9 @@ Er hat frei improvisiert und uns hat es so gut gefallen, dass die Gesangslinien 
 
 ## "Es gibt viel mehr Bandmitglieder, als die Personen auf der Bühne"
 
-**![The Ocean im Logo in Hamburg 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-2-400x533.jpeg "The Ocean im Logo in Hamburg 2019")Anne:** Ihr habt als Bandkollektiv begonnen. Kannst Du kurz beschreiben, was es damit genau auf sich hat? Würdet Ihr Euch immer noch so bezeichnen? Immerhin seid Ihr ja jetzt schon seit einiger Zeit in mehr oder weniger unveränderter Besetzung.
+![The Ocean im Logo in Hamburg 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-2-400x533.jpeg "The Ocean im Logo in Hamburg 2019")
+
+**Anne:** Ihr habt als Bandkollektiv begonnen. Kannst Du kurz beschreiben, was es damit genau auf sich hat? Würdet Ihr Euch immer noch so bezeichnen? Immerhin seid Ihr ja jetzt schon seit einiger Zeit in mehr oder weniger unveränderter Besetzung.
 
 **Robin:** In jüngster Zeit haben wir ja auch wieder unter dem Namen "The Ocean Collective" aufgenommen und ihn zum Beispiel auch auf Plakate gedruckt. Wir waren bei unserer Gründung einfach eine lose organisierter Verbund aus Musiker⋆innen. Es gab viel mehr Bandmitglieder, als Personen, die nachher bei den Auftritten auf der Bühne standen. Zwischenzeitig gehörten bis zu 20 Personen zum The Ocean Collective. Es gab zum Beispiel drei bis vier Gitarrist⋆innen, obwohl wir meistens nur mit zweien bis dreien live gespielt haben. Das entschied sich danach, wer gerade Zeit und Lust hatte. Eine Zeitlang funktionierte das sehr gut. Irgendwann haben wir dann aber gemerkt, dass wir auf diese Art sehr viel Zeit im Proberaum verbracht haben. Irgendwann hatte sich dieses Konzept einfach ausgereizt.
 
@@ -187,4 +199,4 @@ Als Vorgeschmack auf das neue The Ocean Album "Phanerozoic II" hier schon mal de
 
 <YouTube id="WQhJZz4Y_HI" />
 
-[^1]: Das Phanerozoikum ist das jüngste Äon bzw. Äonothem der Erdgeschichte. Es umfasst den Zeitraum von vor 541 Millionen Jahren bis zur Gegenwart. Das Präkambrium umfasst den Zeitraum von der Entstehung der Erde vor etwa 4,56 Milliarden Jahren bis zur Entwicklung der Tierwelt zu Beginn des Kambriums vor rund 540 Millionen Jahren.
+\[^1\]: Das Phanerozoikum ist das jüngste Äon bzw. Äonothem der Erdgeschichte. Es umfasst den Zeitraum von vor 541 Millionen Jahren bis zur Gegenwart. Das Präkambrium umfasst den Zeitraum von der Entstehung der Erde vor etwa 4,56 Milliarden Jahren bis zur Entwicklung der Tierwelt zu Beginn des Kambriums vor rund 540 Millionen Jahren.
