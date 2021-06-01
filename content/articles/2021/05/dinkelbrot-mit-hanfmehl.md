@@ -33,7 +33,7 @@ affiliate: false
 languageLink: ''
 
 ---
-**Dinkelbrot könnt Ihr in den verschiedensten Varianten zubereiten. Ich teile heute mein Rezept mit Hanfmehl mit Euch. Die Zubereitung gelingt ganz einfach. Am besten nehmt Ihr Euch einen Nachmittag am Wochenende Zeit dafür.**
+**Dinkelbrot test könnt Ihr in den verschiedensten Varianten zubereiten. Ich teile heute mein Rezept mit Hanfmehl mit Euch. Die Zubereitung gelingt ganz einfach. Am besten nehmt Ihr Euch einen Nachmittag am Wochenende Zeit dafür.**
 
 Wie in vielen meiner Brotrezepte, kommt auch in diesem wieder Sauerteig vor. Ihr könnt selbst welchen herstellen ([das Rezept dafür findet Ihr hier](http://cardamonchai.com/2021/04/sauerteig-grundrezept/)), oder gekauften aus dem Drogeriemarkt verwenden. Das Brot gelingt damit genauso und die Vorbereitung ist weniger aufwändig.
 
