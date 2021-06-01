@@ -43,7 +43,7 @@ The song is part of the 2-song EP "Painful Reminder/Dead Is Dead", which will be
 
 ### Crippled Black Phoenix introduce a new singer
 
-![Crippled Black Phoenix – "Painful Reminder"](/img/painful-reminder-cbp.jpeg "Crippled Black Phoenix – \\"Painful Reminder\\"")
+!\[Crippled Black Phoenix – "Painful Reminder"\](/img/painful-reminder-cbp.jpeg "Crippled Black Phoenix – \\"Painful Reminder\\"")
 
 Joel's voice contrasts with Belinda's singing. The result is a pleasant dynamic. Here is a statement Crippled Black Phoenix made about it:
 
@@ -59,7 +59,7 @@ They had initially announced tour dates for 2018 but later cancelled them. In No
 
 Already ill, he recorded his 7" solo single: an orchestral version of the Nine Inch Nails song "Hurt" (also covered by Johnny Cash). After that, he recorded the single "Painful Reminder", which mentioned here. Chinn was 57 years old. A total of 31 musicians had been part of SNFU since its formation in 1981. Chinn was the only one who had been there from the beginning. Shortly after his death, the band released the acoustic track "Cement Mixer" on YouTube. It is his last known recording.
 
-[Read my interview with Crippled Black Phoenix here](/2020/12/crippled-black-phoenix-interview/).
+[Read my interview with Crippled Black Phoenix here](/2020/12/crippled-black-phoenix-interview-en).
 
 ### Crippled Black Phoenix - "Painful Reminder"
 
