@@ -1,5 +1,5 @@
 ---
-date: 2021-05-28T08:00:42+02:00
+date: 2021-05-28T08:00:42.000+02:00
 labels:
 - Bands
 - " Bilding Prisons"
@@ -38,7 +38,9 @@ I'm driving through a summer landscape where glistening sunlight is in a battle 
 
 ### Building Prisons introduce themselves
 
-![Building Prisons's self-titled debut EP. ](/img/bp-ep-front-cover.png "Building Prisons's self-titled debut EP. ")Suddenly the fog clears, a flock of birds passes by on the horizon. They are settling in a field on their journey north, listening to the wind rushing over their heads.
+![Building Prisons's self-titled debut EP. ](/img/bp-ep-front-cover.png "Building Prisons's self-titled debut EP. ")
+
+Suddenly the fog clears, a flock of birds passes by on the horizon. They are settling in a field on their journey north, listening to the wind rushing over their heads.
 
 I am so excited that I'm hardly noticing that I'm already listening to the second song ("Agent Orange"). The stylistic device of replacing vocals with instruments, which is typical for the genre, has worked out fabulously here. The song is a bit more driving, almost a bit funky. In any case, it stays in clear contrast to the first piece on the record. With its 4:29, it is short and concise. Towards the end, it even gets a bit punky – I like it!
 
