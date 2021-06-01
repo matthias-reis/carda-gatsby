@@ -127,6 +127,8 @@ export const query = graphql`
           ogTitle
           description
           date
+          type
+          typeName
           remoteThumbnailImage
           remoteLoadingImage
           language
