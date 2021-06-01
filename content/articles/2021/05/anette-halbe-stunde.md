@@ -25,11 +25,12 @@ labels:
 - Sylvester Schlegel
 - The Amazing
 - The Ark
-- The Mirrorfactory
 - Theis Mikkelsen
 - Vegan Musicians
 - Vegan Celebreties
 - " Vegan Artists"
+- The Mirror Factory
+- Dungen
 language: de
 slug: magnus-josefsson-anette-halbe-stunde
 typeName: Interview
@@ -49,7 +50,7 @@ ogImage: "/img/magnus-josefsson-anette-halbe-stunde-1.jpg"
 focusKeyword: Anette Halbe Stunde
 advertisement: false
 affiliate: false
-languageLink: "/2021/05/magnus-josefsson-anette-halbe-stunde/en"
+languageLink: "/2021/05/magnus-josefsson-anette-halbe-stunde-en"
 
 ---
 **"Anette Halbe Stunde" heißt das neue Tape von Magnus Josefsson auf Anette Records. Als ich ihn fragte, über welche Themen er sich am liebsten unterhalten würde, sprach er das Bullerbü-Syndrom an. Ich war natürlich nicht nur neugierig, zu erfahren, wie er zu Astrid Lindgren steht. Ich wollte natürlich auch mehr über den vegan lebenden (Sound)-Architekten aus Schweden erfahren, der schon mal eine Zeitlang in Weimar gelebt hat.**
