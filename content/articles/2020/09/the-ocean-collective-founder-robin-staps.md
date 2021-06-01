@@ -1,16 +1,16 @@
 ---
-date: 2021-05-02T17:21:42Z
+date: 2021-05-02T17:21:42.000+00:00
 labels:
-  - The Ocean Collective
-  - The Ocean
-  - Robin Staps
-  - Pelagic
-  - Pelagic Records
-  - Interview
-  - Phanerozoic
-  - Interviews
-  - Phanerozoic I
-  - Phanerozoic II
+- The Ocean Collective
+- The Ocean
+- Robin Staps
+- Pelagic
+- Pelagic Records
+- Interview
+- Phanerozoic
+- Interviews
+- Phanerozoic I
+- Phanerozoic II
 language: en
 slug: the-ocean-robin-staps-interview-en
 typeName: Interview
@@ -18,17 +18,23 @@ title: The Ocean Collective Founder Robin Staps
 subTitle: '"Our new album is a journey"'
 seoTitle: The Ocean Founder Robin Staps – "Our new album is a journey"
 ogTitle: ''
-description: On 25 September, the second part of The Ocean's acclaimed album "Phanerozoic" will be released. We have all been eagerly awaiting this moment. I now had the honour to talk to The Ocean founder Robin Staps about making "Phanerozoic" and the band's Berlin-based post-rock label Pelagic.
-excerpt: On 25 September, the second part of The Ocean's acclaimed album "Phanerozoic" will be released. We have all been eagerly awaiting this moment. I now had the honour to talk to The Ocean founder Robin Staps about making "Phanerozoic" and the band's Berlin-based post-rock label Pelagic.
-image: '/img/the-ocean-collective.jpeg'
+description: On 25 September, the second part of The Ocean's acclaimed album "Phanerozoic"
+  will be released. We have all been eagerly awaiting this moment. I now had the honour
+  to talk to The Ocean founder Robin Staps about making "Phanerozoic" and the band's
+  Berlin-based post-rock label Pelagic.
+excerpt: On 25 September, the second part of The Ocean's acclaimed album "Phanerozoic"
+  will be released. We have all been eagerly awaiting this moment. I now had the honour
+  to talk to The Ocean founder Robin Staps about making "Phanerozoic" and the band's
+  Berlin-based post-rock label Pelagic.
+image: "/img/the-ocean-collective.jpeg"
 copyright: The Ocean Collective
-ogImage: '/img/robin-staps-the-ocean.png'
+ogImage: "/img/robin-staps-the-ocean.png"
 focusKeyword: The Ocean
 advertisement: false
 affiliate: false
-languageLink: '/2020/09/the-ocean-robin-staps-interview'
----
+languageLink: "/2020/09/the-ocean-robin-staps-interview"
 
+---
 **On 25 September, the second part of The Ocean's acclaimed album "Phanerozoic" will be released. We have all been eagerly awaiting this moment. I now had the honour to talk to The Ocean founder Robin Staps about making "Phanerozoic" and the band's Berlin-based post-rock label Pelagic.**
 
 **Anne:** Hello Robin! Thanks for taking the time! I feel very honoured to meet you! How are you doing?
@@ -39,7 +45,9 @@ languageLink: '/2020/09/the-ocean-robin-staps-interview'
 
 ## "We used the break for new projects"
 
-**![The Ocean. Picture: © The Ocean Collective](/img/the-ocean-collective-1-400x300.jpeg 'The Ocean. Picture: © The Ocean Collective')Robin:** Overall, it has been a very productive and fulfilling year for us so far. The Corona crisis made us switch over to projects that we otherwise wouldn't have had the time for. After our South American tour in May and Wacken and the Prognosis Festival in March were cancelled, we decided to change our focus. We were able to use the time for things we always wanted to do and so in the end the cancellations had something good for us.
+![The Ocean. Picture: © The Ocean Collective](/img/the-ocean-collective-1-400x300.jpeg 'The Ocean. Picture: © The Ocean Collective')
+
+**Robin:** Overall, it has been a very productive and fulfilling year for us so far. The Corona crisis made us switch over to projects that we otherwise wouldn't have had the time for. After our South American tour in May and Wacken and the Prognosis Festival in March were cancelled, we decided to change our focus. We were able to use the time for things we always wanted to do and so in the end the cancellations had something good for us.
 
 **Anne:** You just mentioned that you are busy packing the records at the moment. You have not only a music talent when it comes to The Ocean. With Pelagic you have founded a successful label where some of the most famous post-rock bands are signed. So is it still the case there that the founder also takes care of everything? How big is your team at the label at the moment?
 
@@ -55,7 +63,9 @@ For example, we have our monthly vinyl subscriptions, where 250 subscribers get 
 
 ## "Our artworks are getting as much attention as our music"
 
-**![The Ocean at Logo, Hamburg, 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-1-400x533.jpeg 'The Ocean at Logo, Hamburg, 2019')Robin:** The artworks take up a large part of our overall concepts. I've always tried to take a relatively holistic approach to music, especially the music I'm making with The Ocean. I enjoy the interplay between art in a 2D or 3D sense and music a lot. The whole product design thing fascinates me. I love pushing the boundaries and trying things that have not been done that often before. The Ocean's ten-year collaboration with graphic designer Martin Quamme is incredibly enjoyable. Like us, he is also keen to try out materials, techniques, and packaging ideas. The interaction between his and my ideas is always quite fruitful.
+![The Ocean at Logo, Hamburg, 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-1-400x533.jpeg 'The Ocean at Logo, Hamburg, 2019')
+
+**Robin:** The artworks take up a large part of our overall concepts. I've always tried to take a relatively holistic approach to music, especially the music I'm making with The Ocean. I enjoy the interplay between art in a 2D or 3D sense and music a lot. The whole product design thing fascinates me. I love pushing the boundaries and trying things that have not been done that often before. The Ocean's ten-year collaboration with graphic designer Martin Quamme is incredibly enjoyable. Like us, he is also keen to try out materials, techniques, and packaging ideas. The interaction between his and my ideas is always quite fruitful.
 
 I would say that in terms of time, art is on an equal footing with the production of music. Of course, the music has to be written and recorded first. But then another chapter begins, which is usually no less time-consuming.
 
@@ -71,7 +81,9 @@ We started researching right away and found a very nice lady at the Geology Inst
 
 ## "Going with the flow felt overwhelming at first"
 
-**![The Ocean at Logo, Hamburg, 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-400x533.jpeg 'The Ocean at Logo, Hamburg, 2019')Robin:** Absolutely! For us, the album is some kind of a special record. The story behind it is very different from the ones before. Normally, when we go to the studio, I have a pretty good idea of how the album will sound like, what it will look like and which songs are on it in which order. The individual sounds have always been very elaborate. This time we simply took a lot more distance from these extremely detailed pre-productions.
+![The Ocean at Logo, Hamburg, 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-400x533.jpeg 'The Ocean at Logo, Hamburg, 2019')
+
+**Robin:** Absolutely! For us, the album is some kind of a special record. The story behind it is very different from the ones before. Normally, when we go to the studio, I have a pretty good idea of how the album will sound like, what it will look like and which songs are on it in which order. The individual sounds have always been very elaborate. This time we simply took a lot more distance from these extremely detailed pre-productions.
 
 We've just let things happen. In the beginning, it was a bit difficult for me. It felt pretty overwhelming. I asked myself the question of whether the whole thing would really become an album or maybe a loose collection of songs. But in the end, it worked out very well. Beautiful things came out of that spontaneity, which surely wouldn't have happened otherwise.
 
@@ -83,7 +95,9 @@ All in all, it is very diverse and broad - even more than on the first part of t
 
 ## "The records are looking awesome"
 
-**![The Ocean at Logo, Hamburg, 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-3-400x533.jpeg 'The Ocean at Logo, Hamburg, 2019')Anne:** How was it to hold your work in your hands for the first time?
+![The Ocean at Logo, Hamburg, 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-3-400x533.jpeg 'The Ocean at Logo, Hamburg, 2019')
+
+**Anne:** How was it to hold your work in your hands for the first time?
 
 **Robin:** When the vinyl was delivered last week, it blew my mind. I have to say, the records are looking just awesome. We used a very special paper that we had to do a lot of tests with. It has to be glued and folded into gatefolds without opening or breaking. It has a very special structure and is simply beautiful. We spent a year with the press shop and various manufacturers because of this. When you hold it in your hand, it closes a chapter with very positive aspects. You have the feeling that it was worth all the effort.
 
@@ -97,7 +111,9 @@ At the same time, we finalized the second fragment. I recorded some of the bass 
 
 ## "I studied geography"
 
-**![Picture: © The Ocean Collective](/img/the-ocean-collective-2-400x300.jpeg 'Picture: © The Ocean Collective')Anne:** All in all you are pretty much into concept albums. Sometimes it's about scales, sometimes about depth zones of waters, and sometimes about geological ages.
+![Picture: © The Ocean Collective](/img/the-ocean-collective-2-400x300.jpeg 'Picture: © The Ocean Collective')
+
+**Anne:** All in all you are pretty much into concept albums. Sometimes it's about scales, sometimes about depth zones of waters, and sometimes about geological ages.
 
 With your new album "Phanerozoic&nbsp;II" you continue the concept that started in 2018 with the first part "Phanerozoic&nbsp;I". How did you get the idea to dedicate an album to the Phanerozoic? Or even before that to the Precambrian[^1]?
 
@@ -113,7 +129,9 @@ Between the albums "Precambrian" and "Heliocentric", which were groundbreaking f
 
 ## "Suddenly everything went its way"
 
-![The Ocean at Logo, Hamburg, 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-4-400x533.jpeg 'The Ocean at Logo, Hamburg, 2019')We were invited to play there and started to work on our idea again. I sent Jonas the song "Devonian" from the first part of "Phanerozoic" because I could imagine him singing along with it. For him, it was love at first sight. Shortly afterwards he sent us demos which basically ended up on the album in the exact same way. Because it worked so well, we repeated it when we recorded the second part. It was very spontaneous.
+![The Ocean at Logo, Hamburg, 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-4-400x533.jpeg 'The Ocean at Logo, Hamburg, 2019')
+
+We were invited to play there and started to work on our idea again. I sent Jonas the song "Devonian" from the first part of "Phanerozoic" because I could imagine him singing along with it. For him, it was love at first sight. Shortly afterwards he sent us demos which basically ended up on the album in the exact same way. Because it worked so well, we repeated it when we recorded the second part. It was very spontaneous.
 
 Actually, there were already vocals by Loïc for the part and the guitars were already recorded. Then Peter completely rebuilt the synths in a pretty brilliant way and somehow it didn't fit with the rest. We were already on tour with Leprous and didn't have much time. Someone said "Why don't you send the new part to Jonas" and suddenly everything went its way.
 
@@ -127,7 +145,9 @@ He improvised freely and we liked it so much that the vocal lines went straight 
 
 ## "There are many more band members than people on stage"
 
-**![The Ocean at Logo, Hamburg, 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-2-400x533.jpeg 'The Ocean at Logo, Hamburg, 2019')Anne:** You started as a band collective. Can you briefly describe what it is all about? Would you still call yourselves like this? After all, you have been in a more or less unchanged line-up for some time now.
+![The Ocean at Logo, Hamburg, 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-2-400x533.jpeg 'The Ocean at Logo, Hamburg, 2019')
+
+**Anne:** You started as a band collective. Can you briefly describe what it is all about? Would you still call yourselves like this? After all, you have been in a more or less unchanged line-up for some time now.
 
 **Robin:** Recently we recorded again under the name "The Ocean Collective" and printed it on posters for example. We were simply a loosely organized group of musicians when we started. There were many more band members than people who were on stage when it came to gigs. In the meantime, up to 20 people belonged to The Ocean Collective. There were for example three to four guitarists, although we mostly played live with only two or three. That was decided according to who had the time and desire. For a while that worked very well for us. But at some point, we realized that we spent a lot of time in the rehearsal room this way. The concept had simply been exhausted in some way.
 
