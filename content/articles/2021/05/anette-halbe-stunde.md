@@ -6,29 +6,29 @@ labels:
 - Ambient
 - Punk
 - DIY-Punk
-- " Schweden"
-- " Anette Records"
+- Schweden
+- Anette Records
 - Musik
 - Bands
-- " Interview"
+- Interview
 - Interviews
 - Weimar
 - Audiolith
-- " Aventgardet"
+- Aventgardet
 - Bondage Fairies
 - Constant Follower
 - Daniel Fridlund Brandt
 - Frittenbude
 - Johan Offerlind
 - Johannes Rögner
-- " Patrik Åberg"
+- Patrik Åberg
 - Sylvester Schlegel
 - The Amazing
 - The Ark
 - Theis Mikkelsen
 - Vegan Musicians
 - Vegan Celebreties
-- " Vegan Artists"
+- Vegan Artists
 - The Mirror Factory
 - Dungen
 language: de
@@ -63,7 +63,9 @@ languageLink: "/2021/05/magnus-josefsson-anette-halbe-stunde-en"
 
 ### "Vegan zu leben, ist eine bewusste Entscheidung"
 
-**!["Anette Halbe Stunde". Bild/Picture: © Anette Records](/img/anette-halbe-stunde-2.jpeg '"Anette Halbe Stunde". Bild/Picture: © Anette Records')Magnus:** Nein, ich glaube nicht. Zumindest nicht auf einem physischen Level. Aber vielleicht auf einem metaphysischen.
+!["Anette Halbe Stunde". Bild/Picture: © Anette Records](/img/anette-halbe-stunde-2.jpeg '"Anette Halbe Stunde". Bild/Picture: © Anette Records')
+
+**Magnus:** Nein, ich glaube nicht. Zumindest nicht auf einem physischen Level. Aber vielleicht auf einem metaphysischen.
 
 **Anne:** Das Post-Rock/Ambient/Shoegaze Genre, das ich gerne als "Die Welt der Klanglandschaften" bezeichne, ist eine kleine Nische. Das trifft (im Moment) auch noch auf den Veganismus zu. Gibt es weitere erwähnenswerte Gemeinsamkeiten?
 
@@ -81,7 +83,9 @@ Das Letzte, was ich will, ist eine Identität. Sie schließt einen von vielen an
 
 ### "Weimar ist eine fantastische Stadt"
 
-**![Magnus Josefsson. Bild/Picture: © Magnus Josefsson](/img/9804-3.jpeg "Magnus Josefsson. Bild/Picture: © Magnus Josefsson")Magnus:** Nein, ich glaube nicht, dass ich das tun würde. Ich sehe es nicht als politisches Manifest. Ich denke, dass man sich selbst und seine Musik herabsetzt, wenn man solche Themen mit seiner Arbeit verfolgt. Für mich wäre das nichts – obwohl andere Bands das im Laufe der Jahre mit viel Erfolg und Glaubwürdigkeit betrieben haben – The Smiths zum Beispiel.
+![Magnus Josefsson. Bild/Picture: © Magnus Josefsson](/img/9804-3.jpeg "Magnus Josefsson. Bild/Picture: © Magnus Josefsson")
+
+**Magnus:** Nein, ich glaube nicht, dass ich das tun würde. Ich sehe es nicht als politisches Manifest. Ich denke, dass man sich selbst und seine Musik herabsetzt, wenn man solche Themen mit seiner Arbeit verfolgt. Für mich wäre das nichts – obwohl andere Bands das im Laufe der Jahre mit viel Erfolg und Glaubwürdigkeit betrieben haben – The Smiths zum Beispiel.
 
 **Anne:** Du hast mir erzählt, dass Du mal eine Zeitlang in Weimar gelebt hast. Hat es Dir dort gefallen? Möchtest Du ein paar Unterschiede zu Schweden aufzählen? Als Veganer und als Musiker?
 

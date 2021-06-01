@@ -1,14 +1,14 @@
 ---
 date: 2021-05-22T18:36:42+02:00
 labels:
-- Dimwind
-- Post-Metal
-- Post-Hardcore
-- Bands
-- Review
-- Experimental
-- Reviews
-- English & German
+  - Dimwind
+  - Post-Metal
+  - Post-Hardcore
+  - Bands
+  - Review
+  - Experimental
+  - Reviews
+  - English & German
 language: de
 slug: dimwind-slow-wave-violence
 typeName: Review
@@ -16,20 +16,17 @@ title: Dimwind – "Slow Wave Violence"
 subTitle: Post-Metal ohne Grenzen
 seoTitle: Dimwind – "Slow Wave Violence" – Post-Metal ohne Grenzen
 ogTitle: ''
-description: Dimwind haben vor Kurzem ihr Debüt-Album "Slow Wave Violence" veröffentlicht.
-  Es lohnt sich aus vielen Gründen mal reinzuhören.
-excerpt: Dimwind haben vor Kurzem ihr Debüt-Album "Slow Wave Violence" veröffentlicht.
-  Das Werk des Göteborger Post-Metal Duos ist absolut hörenswert – sieben Songs, die
-  unter die Haut gehen, stehen Euch bevor.
-image: "/img/dimwind-2.jpeg"
+description: Dimwind haben vor Kurzem ihr Debüt-Album "Slow Wave Violence" veröffentlicht. Es lohnt sich aus vielen Gründen mal reinzuhören.
+excerpt: Dimwind haben vor Kurzem ihr Debüt-Album "Slow Wave Violence" veröffentlicht. Das Werk des Göteborger Post-Metal Duos ist absolut hörenswert – sieben Songs, die unter die Haut gehen, stehen Euch bevor.
+image: '/img/dimwind-2.jpeg'
 copyright: Dimwind
-ogImage: "/img/dimwind-fb.jpg"
+ogImage: '/img/dimwind-fb.jpg'
 focusKeyword: Dimwind
 advertisement: false
 affiliate: false
-languageLink: "/2021/05/dimwind-slow-wave-violence-en"
-
+languageLink: '/2021/05/dimwind-slow-wave-violence-en'
 ---
+
 **Dimwind haben vor Kurzem ihr Debüt-Album "Slow Wave Violence" veröffentlicht. Das Werk des Göteborger Post-Metal Duos ist absolut hörenswert – sieben Songs, die unter die Haut gehen, stehen Euch bevor.**
 
 Gitarrist Andreas Hansen und Drummer Jonas Eriksson veröffentlichen ihre Musik selbst. Gegründet haben sie sich bereits vor zwei Jahren. Genauer gesagt: im Januar 2019.
@@ -38,7 +35,9 @@ Der Opener "Blinds Drawn" ist klanglich erste Klasse und wartet gleich mal mit e
 
 ### Dimwind sprengen den Rahmen
 
-![Dimwind – "Slow Wave Violence"](/img/dimwind-slow-wave-violence-record.jpg 'Dimwind – "Slow Wave Violence"')Das zweite Stück "4 AM" beginnt daraufhin mit einer locker-flockigen Überraschung. Viele würden zuerst vielleicht mit einem Pop-artigen Songverlauf rechnen, doch nach rund einer Minute klärt sich auf, dass das Gegenteil der Fall ist. Der Song ist unglaublich durchdacht und rhythmisch sehr ausgeklügelt. Ich mag die spontan wirkenden Wechsel sehr.
+![Dimwind – "Slow Wave Violence"](/img/dimwind-slow-wave-violence-record.jpg 'Dimwind – "Slow Wave Violence"')
+
+Das zweite Stück "4 AM" beginnt daraufhin mit einer locker-flockigen Überraschung. Viele würden zuerst vielleicht mit einem Pop-artigen Songverlauf rechnen, doch nach rund einer Minute klärt sich auf, dass das Gegenteil der Fall ist. Der Song ist unglaublich durchdacht und rhythmisch sehr ausgeklügelt. Ich mag die spontan wirkenden Wechsel sehr.
 
 Andreas und Jonas machen in verschiedenen Konstellationen seit den späten 1990er Jahren zusammen Musik. Man hört, dass die beiden ein eingeschworenes Team sind. Das bringt mich zum dritten Song auf der Platte. "Slow Wave Deceit" ist eine Post-Rock Hymne, falls es so etwas geben sollte. Eingeleitet von gesprochenen Lyrics, die von verzerrtem Gitarrenspiel abgewechselt werden und sich anschließend in einem Klangbad der Sinne auflösen.
 

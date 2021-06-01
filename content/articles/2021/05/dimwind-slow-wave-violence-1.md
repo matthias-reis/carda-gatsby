@@ -1,14 +1,14 @@
 ---
 date: 2021-05-22T18:36:42+02:00
 labels:
-- Dimwind
-- Post-Metal
-- Post-Rock
-- Experimental
-- Bands
-- Review
-- Reviews
-- English & German
+  - Dimwind
+  - Post-Metal
+  - Post-Rock
+  - Experimental
+  - Bands
+  - Review
+  - Reviews
+  - English & German
 language: en
 slug: dimwind-slow-wave-violence-en
 typeName: Review
@@ -16,23 +16,17 @@ title: Dimwind - "Slow Wave Violence"
 subTitle: Post-Metal without borders
 seoTitle: Dimwind - "Slow Wave Violence" – Post-Metal without borders
 ogTitle: ''
-description: Dimwind have recently released their debut album "Slow Wave Violence".
-  The music of the Gothenburg based post-metal duo is definitely worth listening to
-  – seven great songs are waiting to get under your skin. Here is my review. Please
-  enjoy.
-excerpt: Dimwind have recently released their debut album "Slow Wave Violence". The
-  music of the Gothenburg based post-metal duo is definitely worth listening to –
-  seven great songs are waiting to get under your skin. Here is my review. Please
-  enjoy.
-image: "/img/dimwind-2.jpeg"
+description: Dimwind have recently released their debut album "Slow Wave Violence". The music of the Gothenburg based post-metal duo is definitely worth listening to – seven great songs are waiting to get under your skin. Here is my review. Please enjoy.
+excerpt: Dimwind have recently released their debut album "Slow Wave Violence". The music of the Gothenburg based post-metal duo is definitely worth listening to – seven great songs are waiting to get under your skin. Here is my review. Please enjoy.
+image: '/img/dimwind-2.jpeg'
 copyright: Dimwind
-ogImage: "/img/dimwind-fb.jpg"
+ogImage: '/img/dimwind-fb.jpg'
 focusKeyword: Dimwind
 advertisement: false
 affiliate: false
-languageLink: "/2021/05/dimwind-slow-wave-violence"
-
+languageLink: '/2021/05/dimwind-slow-wave-violence'
 ---
+
 **Dimwind have recently released their debut album "Slow Wave Violence". The music of the Gothenburg based post-metal duo is definitely worth listening to – seven great songs are waiting to get under your skin.**
 
 Guitarist Andreas Hansen and drummer Jonas Eriksson self-released their record. They already formed two years ago. To be more precise: in January 2019.
@@ -41,7 +35,9 @@ The opener "Blinds Drawn" is sonically first class and comes up with a well-bala
 
 ### Dimwind are pushing boundaries
 
-![Dimwind – "Slow Wave Violence"](/img/dimwind-slow-wave-violence-record.jpg 'Dimwind – "Slow Wave Violence"')The second track, "4 AM", begins with an easy-going surprise. Some would perhaps expect a pop-like song progression at first, but after about one minute or so, it becomes clear that the opposite is the case. The song is incredibly well composed and rhythmically sophisticated. I love the spontaneous changes.
+![Dimwind – "Slow Wave Violence"](/img/dimwind-slow-wave-violence-record.jpg 'Dimwind – "Slow Wave Violence"')
+
+The second track, "4 AM", begins with an easy-going surprise. Some would perhaps expect a pop-like song progression at first, but after about one minute or so, it becomes clear that the opposite is the case. The song is incredibly well composed and rhythmically sophisticated. I love the spontaneous changes.
 
 Andreas and Jonas have been making music together in various constellations since the late 1990s. They are a good team in which one can rely on the other, and you can hear that – this brings me to the third song on the record. "Slow Wave Deceit" is a post-rock anthem if there is a thing like this. It starts off with spoken lyrics that are alternated by distorted guitar playing, which then dissolves into a sound bath of the senses.
 
