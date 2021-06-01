@@ -142,9 +142,9 @@ export const ArticlePage: React.FC<ArticleProps> = ({
       </ArticleContainer>
       <ArticleFooter>
         <ArticleSeries series={series} />
+        <ArticleRecommendations recommendations={recommendations} />
         <ArticleLabels labels={meta.fields.labels} />
         {/* <ArticleComments meta={meta} /> */}
-        <ArticleRecommendations recommendations={recommendations} />
         <FooterNavigation />
       </ArticleFooter>
     </div>

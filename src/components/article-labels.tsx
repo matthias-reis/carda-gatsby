@@ -8,7 +8,7 @@ import { H3 } from './typo';
 import { LabelList } from './label-list';
 
 const Section = styled.nav`
-  background: ${color.background20};
+  background: ${color.background30};
 `;
 
 export const ArticleLabels: React.FC<{
