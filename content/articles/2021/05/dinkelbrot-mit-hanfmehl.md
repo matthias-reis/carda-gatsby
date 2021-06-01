@@ -22,7 +22,8 @@ description: Dinkelbrot könnt Ihr in den verschiedensten Varianten zubereiten. 
   teile heute mein Rezept mit Protein-reichem Hanfmehl mit Euch.
 excerpt: Dinkelbrot könnt Ihr in den verschiedensten Varianten zubereiten. Ich teile
   heute mein Rezept mit Hanfmehl mit Euch. Die Zubereitung gelingt ganz einfach. Am
-  besten nehmt Ihr Euch einen Nachmittag am Wochenende Zeit dafür.
+  besten nehmt Ihr Euch einen Nachmittag am Wochenende Zeit dafür. Mein Rezept funktioniert
+  mit selbst gemachtem oder fertigem Sauerteig.
 image: "/img/2021-04-11-hanfbrot-4.jpg"
 copyright: ''
 ogImage: "/img/dinkelbrot-hanfmehl.jpg"
