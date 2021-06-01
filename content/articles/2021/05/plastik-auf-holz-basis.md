@@ -1,5 +1,5 @@
 ---
-date: 2021-05-28T14:00:42+02:00
+date: 2021-05-28T14:00:42.000+02:00
 labels:
 - Woodly
 - Holz
@@ -69,4 +69,6 @@ Die Haupteigentümer von Woodly sind Besodos Investors Oy sowie die Woodly Grün
 
 Ob die Idee von Woodly im großen Stil zur Erhaltung der Umwelt beitragen kann, bleibt abzuwarten. Die Entwicklung ist auf jeden Fall ein Schritt in eine neue Richtung. Wenn es dadurch nicht zu maßlosen Rodungen kommt und die nachhaltige Forstwirtschaft auch anderswo gut funktioniert oder irgendwann möglicherweise sogar Holzabfälle verarbeitet werden könnten, wäre die Menschheit sicher einen großen Schritt weiter.
 
-[Kreislaufwirtschaft bei der Woodly Ltd.](https://woodly.com/circular_economy/) [CO2-Neutralität bei der Woody Ltd.](https://woodly.com/Carbon_neutrality/)
+[Kreislaufwirtschaft bei der Woodly Ltd.](https://woodly.com/circular_economy/)
+
+[CO2-Neutralität bei der Woody Ltd.](https://woodly.com/Carbon_neutrality/)
