@@ -1,5 +1,5 @@
 ---
-date: 2021-06-01T13:45:42+02:00
+date: 2021-06-01T13:45:42.000+02:00
 labels:
 - Dinkelbrot
 - " Hanfmehl"
@@ -56,5 +56,3 @@ Gebt alle Zutaten bis auf die Sonnenblumenkerne in eine Rührschüssel und knete
 Heizt den Ofen auf 200 Grad vor. Knetet den Teig nochmal, bringt ihn in Form und wälzt ihn in den Sonnenblumenkernen. Der Laib darf rund um von ihnen bedeckt sein. Lasst ihn anschließend auf dem Backblech unter einem Handtuch erneut gehen. Ihr könnt das Blech auf die Herdplatte über dem eingeschalteten Ofen stellen, dann bekommt das Brot schon ein bisschen Wärme ab. Dort darf es für eine weitere halbe Stunde ruhen, bevor Ihr es in den vorgeheizten Ofen schiebt.
 
 Die Backzeit beträgt je nach Ofen rund 55 Minuten. Wenn Das Brot fertig ist, legt Ihr es auf einen Rost und lasst es auskühlen, bevor Ihr es anschneidet.
-
-<Gallery name="dinkelbrot-hanfmehl" />
