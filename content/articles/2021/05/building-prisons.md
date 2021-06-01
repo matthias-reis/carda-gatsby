@@ -1,58 +1,52 @@
 ---
-date: 2021-05-28T08:00:42.000+02:00
+date: 2021-05-28T08:00:42+02:00
 labels:
-- Bands
-- " Bilding Prisons"
-- Ireland
-- Post-Metal
-- Post-Rock
-- Review
-- Reviews
-language: en
-slug: building-prisons-en
+  - Post-Rock
+  - ' Bands'
+  - Post-Metal
+  - Review
+  - Reviews
+  - Irland
+  - Debüt
+language: de
+slug: building-prisons
 typeName: Review
 title: Building Prisons
-subTitle: New Irish Post-Rock Project
-seoTitle: Building Prisons – New Irish Post-Rock Project
+subTitle: Die Debüt-EP ist da
+seoTitle: Building Prisons – die Debut-EP ist da – Post-Rock aus Irland
 ogTitle: ''
-description: Building Prisons is a post-rock project from Cavan in the Republic of
-  Ireland. Rory Mc Donagh (guitar), Peter Denton (guitar), Johno Leader (bass) and
-  Paddy Fitzhenry (drums) name bands like Maybeshewill, This Will Destroy You and
-  Russian Circles as their influences. Their self-titled debut EP makes you want to
-  hear more.
-excerpt: ''
-image: "/img/building-prisons.jpg"
+description: Building Prisons ist ein Post-Rock Projekt aus Cavan in der Republik Irland. Rory, Peter, Johno und Paddy haben jetzt ihre Debüt-EP fertig.
+excerpt: Building Prisons ist ein Post-Rock Projekt aus Cavan in der Republik Irland. Rory Mc Donagh (Gitarre), Peter Denton (Gitarre), Johno Leader (Bass) und Paddy Fitzhenry (Drums) lieben Bands wie Maybeshewill, This Will Destroy You und Russian Circles. Gerade ist ihre Debüt-EP erschienen. Sie trägt den Namen der Band und macht Lust auf mehr.
+image: '/img/building-prisons.jpg'
 copyright: Building Prisons
-ogImage: "/img/building-prisons-fb.jpg"
+ogImage: '/img/building-prisons-fb.jpg'
 focusKeyword: Building Prisons
 advertisement: false
 affiliate: false
-languageLink: "/2021/05/building-prisons"
-
+languageLink: '/2021/05/building-prisons-en'
 ---
-**Building Prisons is a post-rock project from Cavan in the Republic of Ireland. Rory Mc Donagh (guitar), Peter Denton (guitar), Johno Leader (bass) and Paddy Fitzhenry (drums) name bands like Maybeshewill, This Will Destroy You and Russian Circles as their influences. Their self-titled debut EP makes you want to hear more.**
 
-What I particularly like about the EP is the almost homely atmosphere. Embedded in Paddy's precise drumming, pretty melodies are emerging that culminate in dramatic guitar sounds. The melodic parts of the first song ("The Mistakes We Make") are alternated by heavier touches, only to find themselves in calm soundscapes afterwards.
+**Building Prisons ist ein Post-Rock Projekt aus Cavan in der Republik Irland. Rory Mc Donagh (Gitarre), Peter Denton (Gitarre), Johno Leader (Bass) und Paddy Fitzhenry (Drums) lieben Bands wie Maybeshewill, This Will Destroy You und Russian Circles. Ihre Debüt-EP trägt den Namen der Band und macht Lust auf mehr.**
 
-I'm driving through a summer landscape where glistening sunlight is in a battle with frequent rain showers. The rainbows are repeatedly obscured by heavy, steely clouds – in the end, they prevail.
+Was mir an der EP besonders gut gefällt, ist die fast heimelig wirkende Stimmung. Eingebettet in Paddys präzises Schlagzeugspiel bilden sich Melodien heraus, die in dramatischen Gitarrenklängen gipfeln. Die melodischen Parts des ersten Songs ("The Mistakes We Make") werden von härteren Anflügen abgewechselt, um sich anschließend in weichen Klanglandschaften wiederzufinden.
 
-### Building Prisons introduce themselves
+Ich fahre durch eine sommerliche Landschaft, in der sich gleißendes Sonnenlicht eine Schlacht mit wiederkehrenden Regenschauern bietet. Die Regenbögen werden immer wieder von schweren, stählernen Wolken verdeckt, um sich am Ende dann doch durchzusetzen.
 
-![Building Prisons's self-titled debut EP. ](/img/bp-ep-front-cover.png "Building Prisons's self-titled debut EP. ")
+### Building Prisons stellen sich vor
 
-Suddenly the fog clears, a flock of birds passes by on the horizon. They are settling in a field on their journey north, listening to the wind rushing over their heads.
+![Die Building Prisons Debüt-EP](/img/bp-ep-front-cover.png 'Die Building Prisons Debüt-EP')Der Dunst verzieht sich und am Horizont zieht ein Schwarm Vögel vorbei. Auf Ihrer Reise in Richtung Norden lassen sie sich auf einem Feld nieder und lauschen dem Wind, der über ihren Köpfen dahin rauscht.
 
-I am so excited that I'm hardly noticing that I'm already listening to the second song ("Agent Orange"). The stylistic device of replacing vocals with instruments, which is typical for the genre, has worked out fabulously here. The song is a bit more driving, almost a bit funky. In any case, it stays in clear contrast to the first piece on the record. With its 4:29, it is short and concise. Towards the end, it even gets a bit punky – I like it!
+Vor lauter Begeisterung habe ich kaum bemerkt, dass ich schon beim zweiten Song ("Agent Orange") angekommen bin. Das für das Genre übliche Stilmittel, Gesang mithilfe von Instrumenten zu ersetzen, ist hier ganz fabelhaft gelungen. Das Stück ist etwas treibender, wirkt fast ein bisschen funky. Auf jeden Fall steht es im klaren Gegensatz zum ersten Song auf der Platte. Mit 4:29 ist es kurz und prägnant. Zum Ende hin wird es sogar noch etwas punkig – gefällt mir gut!
 
-It continues with the third track – "Requiem". Do I hear a bit of The Cure sound here? On it goes on in this low and soulful frequency. Is this the peaceful rest before the next storm?
+Weiter geht es mit dem dritten Stück – "Requiem". Höre ich hier ein bisschen The Cure heraus? Tief gestimmt geht es weiter. Ist das die Ruhe vor dem nächsten Sturm?
 
-### A great debut EP
+### "Building Prisons" macht Lust auf mehr
 
-"Trench" is a worthy finale for an excellent debut record and maybe my favourite on "Building Prisons". The band shows a whole new face in this track – hard and well-composed. There comes the wall of guitars I was hoping for! The middle part sounds almost a bit math-rocky – the song will definitely be part of one of my next playlists! There's even some stadium rock feeling at the very end, which ends in a dramaturgically clever set fade-out.
+"Trench" ist ein würdiger Ausklang für eine gelungene Debüt-Platte und vielleicht mein Favorit auf "Building Prisons". Die Band zeigt im Stück ein ganz neues Gesicht – hart und durchdacht. Das ist auch die Gitarrenwand, die ich mir gewünscht habe! Der Mittelteil klingt fast ein bisschen Math-rockig – das Stück kommt auf jeden Fall auf eine meiner nächste Playlists! Ganz zum Schluss kommt dann sogar noch ein bisschen Stadion-Rock-Gefühl auf, das in einem dramaturgisch clever gesetzten Fade-out endet.
 
-All in all, the EP is almost like a medley. It is a pleasant foretaste of what we will hopefully hear from Building Prisons – a colourful palette with an open ending. A talented instrumental band that knows what good music should sound like.
+Insgesamt ist die EP fast wie ein Medley. Sie ist ein schöner Vorgeschmack auf das, was wir von Building Prisons hoffentlich noch zu hören bekommen – eine bunte Palette mit einem offenen Ende. Eine talentierte Instrumentalband, die weiß, wie gute Musik klingen muss.
 
-You can listen to Building Prisons' debut at all known streaming services – you have my recommendation.
+Ihr könnt Euch das Debüt von Building Prisons bei allen bekannten Streaming-Diensten anhören – meine Empfehlung habt Ihr.
 
 ### Building Prisons – "The Mistakes We Make"
 
