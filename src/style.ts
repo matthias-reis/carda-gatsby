@@ -7,11 +7,11 @@ export const fontSize = [
   '0.85rem',
   '1rem', // text
   `${factor ** 1}rem`, // h4
-  `${factor ** 2}rem`, //h3
-  `${factor ** 3}rem`, //h2
-  `${factor ** 4}rem`, //h1
+  `${factor ** 2}rem`, // h3
+  `${factor ** 3}rem`, // h2
+  `${factor ** 4}rem`, // h1
   `${factor ** 5}rem`,
-  `${factor ** 6}rem`, //title
+  `${factor ** 6}rem`, // title
 ];
 
 // $color-green: #5c9b72;
