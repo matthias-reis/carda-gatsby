@@ -4,10 +4,16 @@ export const recommend = (article: Article, labels: Labels) => {
   const recommendations: {
     [path: string]: Recommendation;
   } = {};
+  const articleLang = article.frontmatter?.language || 'de';
   for (const label of article.fields.labels || []) {
-    const articlesWithSameLabel = (labels[label] || []).filter(
-      (a) => a.frontmatter.title !== article.frontmatter.title
-    );
+    const articlesWithSameLabel = (labels[label] || []).filter((a) => {
+      const otherLang = a.frontmatter?.language || 'de';
+
+      return (
+        a.frontmatter.title !== article.frontmatter.title &&
+        articleLang === otherLang
+      );
+    });
     for (const a of articlesWithSameLabel) {
       if (!recommendations[a.fields.path]) {
         recommendations[a.fields.path] = {

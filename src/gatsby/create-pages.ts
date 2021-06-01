@@ -34,6 +34,7 @@ query MyQuery {
           typeName
           remoteLoadingImage
           remoteThumbnailImage
+          language
           languageLink
           advertisement
           affiliate

@@ -33,6 +33,8 @@ export const ArticleListGridItem: React.FC<{
     adTeaser = 'Werbung & Affiliate-Links';
   }
 
+  const hasEnglishVersion = article.language !== 'en' && !!article.languageLink;
+
   return (
     <Item key={article.path}>
       <ItemLink
@@ -64,7 +66,7 @@ export const ArticleListGridItem: React.FC<{
         <Text>
           <CompactTitle>{article.title}</CompactTitle>
           <CompactSubtitle>{article.subTitle}</CompactSubtitle>
-          {article.languageLink && (
+          {article.language !== 'en' && !!article.languageLink && (
             <LanguageTeaser>🇬🇧 English version available</LanguageTeaser>
           )}
           <S>{article.excerpt || article.description}</S>

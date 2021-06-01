@@ -17,6 +17,7 @@ export const toCompactArticle: ToCompactArticleFn = ({
     remoteThumbnailImage: frontmatter.remoteThumbnailImage,
     path: fields.path,
     date: frontmatter.date,
+    language: frontmatter.language,
     languageLink: frontmatter.languageLink,
     advertisement: frontmatter.advertisement,
     affiliate: frontmatter.affiliate,

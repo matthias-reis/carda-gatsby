@@ -10,6 +10,7 @@ export default {
   },
   flags: {
     DEV_SSR: false,
+    FAST_REFRESH: true,
   },
   plugins: [
     {
