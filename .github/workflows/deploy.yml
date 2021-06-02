@@ -1,0 +1,11 @@
+name: carda-deploy
+on:
+  schedule:
+    - cron:  '0 4 * * *'
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    name: Trigger Netlify deployment daily at 4:00 AM
+    steps:
+      - run: curl -X POST -d {} https://api.netlify.com/build_hooks/60a93ed507b42b7a919dbc80
+        shell: bash
