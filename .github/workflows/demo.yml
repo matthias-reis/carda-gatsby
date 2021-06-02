@@ -1,0 +1,11 @@
+name: carda-test
+on:
+  schedule:
+    - cron:  '0-59 * * * *'
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+    name: Greet
+    steps:
+      - run: echo Greetings
+        shell: bash
