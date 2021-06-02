@@ -1,7 +1,7 @@
 name: carda-test
 on:
   schedule:
-    - cron:  '0-59 * * * *'
+    - cron:  '12 * * * *'
 jobs:
   greet:
     runs-on: ubuntu-latest
