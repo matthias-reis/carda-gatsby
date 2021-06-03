@@ -12,7 +12,7 @@ labels:
 - English & German
 - Interviews
 language: en
-slug: lost-in-kiev-interview
+slug: lost-in-kiev-interview-en
 typeName: Interview
 title: Interview With Lost In Kiev
 subTitle: '"The Post-Rock Scene Is Very Special"'
@@ -27,7 +27,7 @@ ogImage: "/img/lost-in-kiev-6.png"
 focusKeyword: Lost in Kiev
 advertisement: false
 affiliate: false
-languageLink: "/2020/07/lost-in-kiev-interview-en"
+languageLink: "/2020/07/lost-in-kiev-interview"
 
 ---
 **Something happened that I have always dreamed of: Lost in Kiev have agreed to an interview! The post-rock band from Paris was very open to my questions.**
