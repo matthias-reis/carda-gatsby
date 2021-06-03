@@ -45,7 +45,7 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 **Grégoire:** The magic of Instagram. You did an [interview with our friends in Lost in Kiev](http://cardamonchai.com/2020/07/lost-in-kiev-interview/). Besides that, yeah, veganism and post-rock are obviously topics that interest me!
 
-![](/img/thot-2.jpeg)
+![Grégoire. Picture: Thot](/img/thot-2.jpeg "Grégoire. Picture: Thot")
 
 **Anne:** Enough about me. Let's talk about Thot! You have some exciting news! You are celebrating the 10th anniversary of your earth-shaking debut album "Obscured By The Wind". There will be a vinyl re-release with strictly limited colour editions (I already ordered one, of course) and some more amazing stuff. Do you want to tell me a bit more about what you are planning? You told me that you are about to release some new interpretations of "Obscured by The Wind" songs that you filmed during the first full moon of spring on the 28th of March? Thanks for the great pictures, by the way! They turned out pretty great. I wish I could have been there.
 
@@ -57,7 +57,7 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 **Grégoire:** The lineup has constantly been changing since. In a way, if I wanted the project to last, I had no other choice than to let it evolve, according to life choices, changing musical desires, or, unfortunately, human conflicts. I am happy to have not given up and to see that the project remains very alive today, thanks to the energy that the current musicians bring me. I miss some of the former members, either humanly or musically. In 2011, a month after the album release, we played at DUNK!festival, which was helpful to step into the post-rock scene, which has been growing quite big since, as a whole community of music lovers and friends.
 
-![](/img/thot-4.jpeg)
+![Thot. Picture: Thot](/img/thot-4.jpeg "Thot. Picture: Thot")
 
 **Anne:** Which one of your records do you like best and why?
 
@@ -93,7 +93,7 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 **Grégoire:** This actually came in the years where I was writing "Obscured by the Wind" and putting some demo tracks online. As I took thistle as a blazon, I've decided I put that name on the music instead of choosing between any other genres people are used to. It's more a matter of personal feelings than a brand or label.
 
-![](/img/thot-5-lucie.jpeg)
+![Lucie. Picture: Thot](/img/thot-5-lucie.jpeg "Lucie. Picture: Thot")
 
 **Anne:** I've visited DUNK!festival several times, and I think it's the best festival in the world. Everyone is so lovely and kind, and everybody knows what good music feels like. It's like finally meeting the family that you've chosen for yourself. I'm sure you know what I mean. Your gig there in 2019 was one of the greatest. How would you describe the post-rock scene in Belgium overall? Is it like DUNK?
 
