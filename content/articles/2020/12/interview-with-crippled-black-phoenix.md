@@ -1,18 +1,18 @@
 ---
-date: 2020-12-20T16:13:42+01:00
+date: 2020-12-20T16:13:42.000+01:00
 labels:
-  - Bands
-  - Interviews
-  - Crippled Black Phoenix
-  - vegan celebrities
-  - Interview
-  - Prog
-  - 'vegan music '
-  - vegan bands
-  - Prog
-  - animal rights
-  - Progressive
-  - Bristol
+- Bands
+- Interviews
+- Crippled Black Phoenix
+- vegan celebrities
+- Interview
+- Prog
+- 'vegan music '
+- vegan bands
+- Prog
+- animal rights
+- Progressive
+- Bristol
 language: en
 slug: crippled-black-phoenix-interview-en
 typeName: Interview
@@ -20,17 +20,23 @@ title: Interview with Crippled Black Phoenix
 subTitle: '"We are sure as hell going to try"'
 seoTitle: Interview with Crippled Black Phoenix – "We are sure as hell going to try"
 ogTitle: ''
-description: Crippled Black Phoenix is one of the bands who always know how to impress me – Most recently with their current album "Ellengæst". Now I could arrange an interview with songwriter and singer Belinda Kordic and bandleader Justin Greaves via video call.
-excerpt: Crippled Black Phoenix is one of the bands who always know how to impress me – Most recently with their current album "Ellengæst". Now I could arrange an interview with songwriter and singer Belinda Kordic and bandleader Justin Greaves via video call.
-image: '/img/crippled-black-phoenix-interview-belinda-justin.jpeg'
+description: Crippled Black Phoenix is one of the bands who always know how to impress
+  me – Most recently with their current album "Ellengæst". Now I could arrange an
+  interview with songwriter and singer Belinda Kordic and bandleader Justin Greaves
+  via video call.
+excerpt: Crippled Black Phoenix is one of the bands who always know how to impress
+  me – Most recently with their current album "Ellengæst". Now I could arrange an
+  interview with songwriter and singer Belinda Kordic and bandleader Justin Greaves
+  via video call.
+image: "/img/crippled-black-phoenix-interview-belinda-justin.jpeg"
 copyright: Crippled Black Phoenix
-ogImage: '/img/crippled-black-phoenix-interview-belinda-justin-fb.png'
+ogImage: "/img/crippled-black-phoenix-interview-belinda-justin-fb.png"
 focusKeyword: Crippled Black Phoenix
 advertisement: false
 affiliate: false
-languageLink: '/2020/12/crippled-black-phoenix-interview'
----
+languageLink: "/2020/12/crippled-black-phoenix-interview"
 
+---
 **Crippled Black Phoenix is one of the bands who always know how to impress me – Most recently with their current album "Ellengæst". Now I could arrange an interview with songwriter and singer Belinda Kordic and bandleader Justin Greaves via video call.**
 
 The conversation, in which Justin's cats were also actively involved, was incredibly inspiring. I talked with the two about their plans, animal rights, veganism, music, and activism. And, of course, about their record.
@@ -47,7 +53,7 @@ The conversation, in which Justin's cats were also actively involved, was incred
 
 ## "It's about the things that we feel strongly about."
 
-**![Belinda. Picture: © Crippled Black Phoenix](/img/crippled-black-phoenix-interview-rock-n-roll-vegan-belinda.jpeg 'Belinda. Picture: © Crippled Black Phoenix')Anne:**  The song "Lost" from your new album, didn't let go of me and Matze, who I asked to write [a guest article](/2020/12/crippled-black-phoenix-lost/) on my blog about it. I had the feeling that he would be the right person to put it all into words. And it seems this intuition was right because you told me that you enjoyed reading it! The article is quite political and refers only partly to your song. I think, as well as you did, with your music, we felt the urge to look a bit deeper. What made you relate to it?
+**![Belinda. Picture: © Crippled Black Phoenix](/img/crippled-black-phoenix-interview-rock-n-roll-vegan-belinda.jpeg 'Belinda. Picture: © Crippled Black Phoenix')Anne:**  The song "Lost" from your new album, didn't let go of me and Matze, who I asked to write [a guest article](/2020/12/crippled-black-phoenix-lost-en) on my blog about it. I had the feeling that he would be the right person to put it all into words. And it seems this intuition was right because you told me that you enjoyed reading it! The article is quite political and refers only partly to your song. I think, as well as you did, with your music, we felt the urge to look a bit deeper. What made you relate to it?
 
 **Belinda:** It was great! It was all put together really well.
 

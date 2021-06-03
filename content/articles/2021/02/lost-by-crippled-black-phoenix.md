@@ -46,7 +46,9 @@ The British-Swedish rock band Crippled Black Phoenix has previously released a v
 
 ## What's behind the images of Crippled Black Phoenix's music video "Lost "?
 
-!["Lost". Picture: Crippled Black Phoenix](/img/lost-crippled-black-phoenix-3.jpeg '"Lost". Picture: Crippled Black Phoenix')The video is a definite must-see. This article is an urgent plea to watch it. Let it sink in, and then share it on the internet. When I first watched it, it affected me a lot. The images echoed in my mind for a long time.
+!["Lost". Picture: Crippled Black Phoenix](/img/lost-crippled-black-phoenix-3.jpeg '"Lost". Picture: Crippled Black Phoenix')
+
+The video is a definite must-see. This article is an urgent plea to watch it. Let it sink in, and then share it on the internet. When I first watched it, it affected me a lot. The images echoed in my mind for a long time.
 
 Martin Luther King once said, "Nothing in all the world is more dangerous than sincere ignorance and conscientious stupidity". The video starts with a very similar phrase: "The dangerous nature of an ignorant mind. The final fall of mankind".
 
@@ -64,7 +66,9 @@ We passed the billion mark of human population in 1804. The second billion has b
 
 ## Vicious circle of progress
 
-!["Lost". Picture: Crippled Black Phoenix](/img/lost-crippled-black-phoenix-4.jpeg '"Lost". Picture: Crippled Black Phoenix')The first vicious circle is technological progress, which makes the land more fertile and increases the ability to feed more people. This, in turn, produces more intelligent minds: ten times as many as in the 19th century, which make ten times more technological progress.
+!["Lost". Picture: Crippled Black Phoenix](/img/lost-crippled-black-phoenix-4.jpeg '"Lost". Picture: Crippled Black Phoenix')
+
+The first vicious circle is technological progress, which makes the land more fertile and increases the ability to feed more people. This, in turn, produces more intelligent minds: ten times as many as in the 19th century, which make ten times more technological progress.
 
 With the progress of technology, we created more wealth and with it, in addition to population growth, and increased per capita demand for resources. This demand is always met through exploitation - either the exploitation of available sources and raw materials or the exploitation of other people.
 
@@ -78,7 +82,9 @@ Capital is used to produce and improve wealth - but usually only when it pays of
 
 ## The greed for more
 
-!["Lost". Picture: Crippled Black Phoenix](/img/lost-crippled-black-phoenix-2.jpeg '"Lost". Picture: Crippled Black Phoenix')Money makes goods comparable and creates competition and markets situations, where the players heat up each other permanently. Without taking a break, This happens when markets are allowed to expand unregulated mostly.
+!["Lost". Picture: Crippled Black Phoenix](/img/lost-crippled-black-phoenix-2.jpeg '"Lost". Picture: Crippled Black Phoenix')
+
+Money makes goods comparable and creates competition and markets situations, where the players heat up each other permanently. Without taking a break, This happens when markets are allowed to expand unregulated mostly.
 
 This greed (or compulsive greed) is inherent in the system for more causes suffering: More people, more demand, more sales, more capital, better optimisation opportunities, more profit, more investment, greater resource consumption.
 
@@ -96,7 +102,9 @@ Unfortunately, however, a giant wave is still ahead of us - the climate crisis. 
 
 ## Climate and Greenhouse Effect
 
-!["Lost". Picture: Crippled Black Phoenix](/img/lost-crippled-black-phoenix-1-1.jpeg '"Lost". Picture: Crippled Black Phoenix')Human emissions are responsible for 2.2 W/m² of energy increase, whereas the second most potent effect, the influence of the sun, is only at 0.1 W/m². The result is a rise in the average temperature on earth of 0.2 degrees per decade with an upward trend. We cannot even say that we did not know about it for a long time. Christoph Fourier already described the greenhouse effect in the atmosphere in 1824. In 1896, Guy Stewart Callendar predicted global warming caused by human-emitted CO₂.
+!["Lost". Picture: Crippled Black Phoenix](/img/lost-crippled-black-phoenix-1-1.jpeg '"Lost". Picture: Crippled Black Phoenix')
+
+Human emissions are responsible for 2.2 W/m² of energy increase, whereas the second most potent effect, the influence of the sun, is only at 0.1 W/m². The result is a rise in the average temperature on earth of 0.2 degrees per decade with an upward trend. We cannot even say that we did not know about it for a long time. Christoph Fourier already described the greenhouse effect in the atmosphere in 1824. In 1896, Guy Stewart Callendar predicted global warming caused by human-emitted CO₂.
 
 But our free-market system has no means to respond to such abstract effects. So we did nothing.
 
