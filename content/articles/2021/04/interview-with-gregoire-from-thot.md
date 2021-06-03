@@ -37,7 +37,7 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 **Anne:** First of all: Thank you very much for getting in touch! I feel flattered to interview you! How are you doing these days? How is the mood in Belgium so far?
 
-### "Veganism and post-rock are my topics"
+## "Veganism and post-rock are my topics"
 
 **Grégoire:** Hi Anne, thank you to you, too. I'm personally going well, despite the fucked-up situation in Belgium, which I think is quite the same as in many countries around Europe and beyond. People become really tired, and the frustration is rising, especially in the cultural fields. Theatres just started being occupied.
 
@@ -49,7 +49,7 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 **Anne:** Enough about me. Let's talk about Thot! You have some exciting news! You are celebrating the 10th anniversary of your earth-shaking debut album "Obscured By The Wind". There will be a vinyl re-release with strictly limited colour editions (I already ordered one, of course) and some more amazing stuff. Do you want to tell me a bit more about what you are planning? You told me that you are about to release some new interpretations of "Obscured by The Wind" songs that you filmed during the first full moon of spring on the 28th of March? Thanks for the great pictures, by the way! They turned out pretty great. I wish I could have been there.
 
-### "Obscured by The Wind" was a big milestone for Thot
+## "Obscured by The Wind" was a big milestone for Thot
 
 **Grégoire:** Yes, we want to celebrate this milestone in a proper way. Back in the days, this record was only a cd (and digital) release, so its 10th anniversary is an excellent time for a vinyl release, with some of the design we didn't use yet. Besides that, there is this anniversary live performance of some of the songs in an intimate version. On this unique occasion, the lineup consists of myself on piano, guitar and lead vocal, brand new band member Lucie Lefauconnier on guitar and vocal, and longtime collaborator and friend Catherine Graindorge on violin and soundscape. We just shot the performance during spring's first full moon last Sunday. Here are some pictures. The concert will be online very soon, and people who wanna attend it can buy a ticket on our Bandcamp page.
 
@@ -63,7 +63,7 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 **Grégoire:** So far, our latest one, Fleuve from 2017, as it's the most organic we did to date.
 
-### "Thot was one of my childhood heroes"
+## "Thot was one of my childhood heroes"
 
 **Anne:** How did you come up with the idea of naming you after the god of wisdom, writing, hieroglyphs, science, magic, art, judgment, and dead from Egyptian mythology? Sorry for this question, but I needed to ask it.
 
@@ -73,7 +73,7 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 **Grégoire:** I took the opportunity to re-think what I wanted for the project in the coming years while writing a new album. Simultaneously, I seriously started learning piano again, wrote lyrics in French and bought/sold lots of effects pedals. Besides starting a new job as well.
 
-### "I pushed my boundaries of songwriting"
+## "I pushed my boundaries of songwriting"
 
 **Anne:** How did it affect your work? I mean, besides not being able to play any gigs in front of an audience?
 
@@ -85,7 +85,7 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 **Anne:** Let's keep the sad stuff behind and talk about music again. Your style seems to be very versatile. Your adding elements from post-metal to industrial to your songs – which I like a lot. What would you say: Which bands had the biggest impact on you?
 
-### Vegetal Noise
+## Vegetal Noise
 
 **Grégoire:** Is that obvious if I mention [Nine Inch Nails](https://cardamonchai.com/tag/nine-inch-nails/)? Besides that, I never meant to try to mix any genres or aim to any particular style. It's more about the sound, the esthetic itself. This is how I feel the music I want to do.
 
@@ -97,7 +97,7 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 **Anne:** I've visited DUNK!festival several times, and I think it's the best festival in the world. Everyone is so lovely and kind, and everybody knows what good music feels like. It's like finally meeting the family that you've chosen for yourself. I'm sure you know what I mean. Your gig there in 2019 was one of the greatest. How would you describe the post-rock scene in Belgium overall? Is it like DUNK?
 
-### "Belgium has a vivid post-rock scene"
+## "Belgium has a vivid post-rock scene"
 
 **Grégoire:** Thank you, glad you like the gig. As I mentioned before, the post-rock community is fantastic, and DUNK!festival is an excellent example of how vivid the scene is in Belgium.
 
@@ -111,11 +111,11 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 **Anne:** What's up next for Thot? Some more good news?
 
-### "We are working on new songs"
+## "We are working on new songs"
 
 **Grégoire:** We are working on a new album dubbed "Delta", which takes time to be achieved. However, being unable to go on tour and playing shows somehow forces us to take more time, which I appreciate for once in my life.
 
-#### Here is some more good news for you:
+## Here is some more good news for you:
 
 My blog readers get a **25 % refund** on their pre-orders for the vinyl re-release version of "Obscured By The Wind". Just use the code **thotbday** when placing your order on Bandcamp, and you are good to go!
 
@@ -125,6 +125,6 @@ My blog readers get a **25 % refund** on their pre-orders for the vinyl re-relea
 
 Everyone who would like to get a deep insight into the new Thot record "Delta", [please check out their Patreon Page](https://www.patreon.com/thotmusic).
 
-### Thot – The Delta Story
+## Thot – The Delta Story
 
 <YouTube id="SSMgoEPE940" />
