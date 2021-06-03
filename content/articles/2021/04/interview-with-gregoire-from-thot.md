@@ -1,5 +1,5 @@
 ---
-date: 2021-05-02T17:21:42Z
+date: 2021-04-08T14:15:42+02:00
 labels:
 - Obscured By The Wind
 - Bands
@@ -43,7 +43,7 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 **Anne:** I have to admit that I am far beyond curious. How did you find my page? Also: It's about post-rock and veganism (mostly) – Are you interested in both topics?
 
-**Grégoire:** The magic of Instagram. You did an [interview with our friends in Lost in Kiev](http://cardamonchai.com/2020/07/lost-in-kiev-interview/). Besides that, yeah, veganism and post-rock are obviously topics that interest me!
+**Grégoire:** The magic of Instagram. You did an [interview with our friends in Lost in Kiev](/2020/07/lost-in-kiev-interview-en). Besides that, yeah, veganism and post-rock are obviously topics that interest me!
 
 ![Grégoire. Picture: Thot](/img/thot-2.jpeg "Grégoire. Picture: Thot")
 
@@ -87,7 +87,7 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 ## Vegetal Noise
 
-**Grégoire:** Is that obvious if I mention [Nine Inch Nails](https://cardamonchai.com/tag/nine-inch-nails/)? Besides that, I never meant to try to mix any genres or aim to any particular style. It's more about the sound, the esthetic itself. This is how I feel the music I want to do.
+**Grégoire:** Is that obvious if I mention [Nine Inch Nails](/tag/nine-inch-nails/)? Besides that, I never meant to try to mix any genres or aim to any particular style. It's more about the sound, the esthetic itself. This is how I feel the music I want to do.
 
 **Anne:** Your claim on your Facebook band profile is "post-rock/industrial gang – fuzz, rivers, thistles, vegetal noise music". There is also a section on your homepage where people are telling their vegetal noise story. Do you want to tell me what you mean by vegetal noise?
 
