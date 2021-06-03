@@ -136,6 +136,7 @@ But yes in the way that post-rock dive into your soul to make you feel powerful 
 
 Lost in Kiev were founded in 2007. The post-rock band has been performing in the current line-up (Guitar: Dimitri Denat, guitar & synth: Maxime Ingrand, bass & synth: Jean Christophe Condette, drums: Yonan Vermeulen) since 2011. "Persona" is the third album after "Motions" (2012) and "Nuit Noire" (2016).
 
-## Listen to "Persona" by Lost in Kiev on Spotify
-
-<Playlist spotify="2OWPbyhRv5zLXo2hyRsGjq" />
+<Playlist
+  spotify="2OWPbyhRv5zLXo2hyRsGjq"
+  itunes="album/persona/1453894488"
+/>
