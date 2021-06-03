@@ -123,3 +123,5 @@ Es ist eine große Richtungsänderung notwendig, um das drohende Unheil aufzuhal
 ## "Lost" von Crippled Black Phoenix
 
 <YouTube id="IWv92fNR5jE" />
+
+[Lest jetzt mein Interview mit Crippled Black Phoenix](2020/12/crippled-black-phoenix-interview "Crippled Black Phoenix Interview")

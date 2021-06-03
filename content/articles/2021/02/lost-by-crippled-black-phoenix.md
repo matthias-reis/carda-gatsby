@@ -1,37 +1,41 @@
 ---
-date: 2000-02-12T22:34:00+01:00
+date: 2000-02-12T22:34:00.000+01:00
 labels:
-  - Bands
-  - ' Review'
-  - Reviews
-  - English & German
-  - Crippled Black Phoenix
-  - Lost
-  - Tierrechte
-  - Tierschutz
-  - Klima- & Umweltschutz
-  - vegan celebrities
-  - vegan Bands
-  - vegan music
-  - climate change
+- Bands
+- " Review"
+- Reviews
+- English & German
+- Crippled Black Phoenix
+- Lost
+- Tierrechte
+- Tierschutz
+- Klima- & Umweltschutz
+- vegan celebrities
+- vegan Bands
+- vegan music
+- climate change
 language: en
 slug: crippled-black-phoenix-lost-en
 typeName: Review
-title: \"Lost\" by Crippled Black Phoenix
+title: '"Lost" by Crippled Black Phoenix'
 subTitle: Vegan music video shows human the abyss
 seoTitle: Vegan music video by Crippled Black Phoenix shows human the abyss
 ogTitle: ''
-description: The music video for "Lost" by Crippled Black Phoenix is a definite must-see. This article is an urgent plea to watch it. Let it sink in, and then share it on the internet. When I first watched it, it affected me a lot.
-excerpt: The music video for "Lost" by Crippled Black Phoenix is a definite must-see. This article is an urgent plea to watch it. Let it sink in, and then share it on the internet. When I first watched it, it affected me a lot.
-image: '/img/lost-crippled-black-phoenix-1.jpeg'
+description: The music video for "Lost" by Crippled Black Phoenix is a definite must-see.
+  This article is an urgent plea to watch it. Let it sink in, and then share it on
+  the internet. When I first watched it, it affected me a lot.
+excerpt: The music video for "Lost" by Crippled Black Phoenix is a definite must-see.
+  This article is an urgent plea to watch it. Let it sink in, and then share it on
+  the internet. When I first watched it, it affected me a lot.
+image: "/img/lost-crippled-black-phoenix-1.jpeg"
 copyright: ''
-ogImage: '/img/crippled-black-phoenix-lost-fb.png'
+ogImage: "/img/crippled-black-phoenix-lost-fb.png"
 focusKeyword: Crippled Black Phoenix
 advertisement: false
 affiliate: false
-languageLink: '/2021/02/crippled-black-phoenix-lost'
----
+languageLink: "/2021/02/crippled-black-phoenix-lost"
 
+---
 **The music video that comes with the Crippled Black Phoenix song "Lost" is a statement for all human-caused suffering – put together in eight minutes.**
 
 This post about a special music video that impressed us both very much was contributed to the blog by Matze. Please allow me to give you a precise reading recommendation and don't forget to check out the video!
@@ -113,3 +117,5 @@ Although the climate crisis will be the defining catastrophe of the next 100 yea
 A significant change of direction is needed to stop the impending doom. Humankind can do it. It has developed a system that has brought us so much progress and prosperity. It can also bend it in a direction that masters both - taking care of the environment, animals and the poor on the one hand while improving the quality of life, driving science to new discoveries, or letting humans colonise another planet on the other hand. But for that to happen, a lot has to change around the world in the next 30 years. We haven't even started yet.
 
 <YouTube id="IWv92fNR5jE" />
+
+[Read my interview with Crippled Black Phoenix](2020/12/crippled-black-phoenix-interview-en "Crippled Black Phoenix Interview")
