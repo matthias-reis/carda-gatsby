@@ -170,6 +170,9 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 
 Lost in Kiev gründeten sich 2007. In der aktuellen Besetzung (Gitarre: Dimitri Denat, Gitarre & Synth: Maxime Ingrand, Bass & Synth: Jean Christophe Condette, Drums: Yonan Vermeulen) tritt die Post-Rock Band seit 2011 auf. Nach "Motions" (2012) und "Nuit Noire" (2016) ist "Persona" das dritte Lost in Kiev Album in Studiolänge.
 
-## "Persona" von Lost in Kiev bei Spotify hören
+<YouTube id="" />
 
-<YouTube id="album/2OWPbyhRv5zLXo2hyRsGjq" />
+<Playlist
+  spotify="2OWPbyhRv5zLXo2hyRsGjq"
+  itunes="album/persona/1453894488"
+/>
