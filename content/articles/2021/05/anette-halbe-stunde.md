@@ -1,5 +1,5 @@
 ---
-date: 2021-05-31T19:08:42+02:00
+date: 2021-05-31T19:08:42.000+02:00
 labels:
 - Magnus Josefsson
 - Anette Halbe Stunde
@@ -79,7 +79,7 @@ languageLink: "/2021/05/magnus-josefsson-anette-halbe-stunde-en"
 
 Das Letzte, was ich will, ist eine Identität. Sie schließt einen von vielen anderen Dingen und Menschen aus. Ich glaube wirklich, dass die Identität oft zum absolut größten Feind und Problem der Menschen wird.
 
-**Anne:** [Ich habe mich mit Belinda und Justin von Crippled Black Phoenix über die Kombination Veganismus und Musik unterhalten](http://cardamonchai.com/2020/12/crippled-black-phoenix-interview/). Sie haben mir erzählt, dass sie ihre Musik manchmal dazu nutzen, die Nachricht zu transportieren und damit der Gewalt und Ausbeutung gegenüber Tieren etwas entgegenstellen möchten. Kannst Du Dir vorstellen, das auch zu tun? Oder hast Du es schon mal gemacht?
+**Anne:** [Ich habe mich mit Belinda und Justin von Crippled Black Phoenix über die Kombination Veganismus und Musik unterhalten](/2020/12/crippled-black-phoenix-interview/). Sie haben mir erzählt, dass sie ihre Musik manchmal dazu nutzen, die Nachricht zu transportieren und damit der Gewalt und Ausbeutung gegenüber Tieren etwas entgegenstellen möchten. Kannst Du Dir vorstellen, das auch zu tun? Oder hast Du es schon mal gemacht?
 
 ### "Weimar ist eine fantastische Stadt"
 
@@ -129,7 +129,7 @@ Ich denke es war die Natur hier oben in Småland und die alte Fabrik, in der ich
 
 ### "Ich habe mit Künstler⋆innen in ganz Europa zusammengearbeitet"
 
-**!["Anette Halbe Stunde". Bild/Picture: © Anette Records](/img/anette-halbe-stunde.jpeg '"Anette Halbe Stunde". Bild/Picture: © Anette Records')Magnus:** Ich habe 90 bis 95 Prozent der Aufnahmen in der Fabrik in Fröseke aufgenommen. Der Rest ist in England, Dänemark und Göteborg entstanden. Sylvester hat noch ein paar Sachen in [Stockholm](http://cardamonchai.com/2018/09/zu-besuch-in-stockholm/) aufgenommen. Ich liebe es, auf diese Art zu arbeiten und werde dieses magische Werkzeug auch in Zukunft weiter verwenden!
+**!["Anette Halbe Stunde". Bild/Picture: © Anette Records](/img/anette-halbe-stunde.jpeg '"Anette Halbe Stunde". Bild/Picture: © Anette Records')Magnus:** Ich habe 90 bis 95 Prozent der Aufnahmen in der Fabrik in Fröseke aufgenommen. Der Rest ist in England, Dänemark und Göteborg entstanden. Sylvester hat noch ein paar Sachen in [Stockholm](/2018/09/zu-besuch-in-stockholm/) aufgenommen. Ich liebe es, auf diese Art zu arbeiten und werde dieses magische Werkzeug auch in Zukunft weiter verwenden!
 
 **Anne:** Das klingt nach einer Menge Spaß! Wer hat alles an dem Tape mitgearbeitet?
 

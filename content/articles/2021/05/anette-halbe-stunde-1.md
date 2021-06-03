@@ -1,36 +1,36 @@
 ---
-date: 2021-05-02T17:21:42Z
+date: 2021-05-02T17:21:42.000+00:00
 labels:
-  - Magnus Josefsson
-  - Anette Halbe Stunde
-  - Ambient
-  - Punk
-  - DIY-Punk
-  - Sweden
-  - Bands
-  - Interview
-  - Interviews
-  - Anette Records
-  - Music
-  - Weimar
-  - Audiolith
-  - Aventgardet
-  - Bondage Fairies
-  - Constant Follower
-  - Daniel Fridlund Brandt
-  - Dungen
-  - Frittenbude
-  - Johan Offerlind
-  - Johannes Rögner
-  - Patrik Åberg
-  - Sylvester Schlegel
-  - The Amazing
-  - The Ark
-  - Theis Mikkelsen
-  - Vegan Musicians
-  - Vegan Celebreties
-  - Vegan Artists
-  - The Mirror Factory
+- Magnus Josefsson
+- Anette Halbe Stunde
+- Ambient
+- Punk
+- DIY-Punk
+- Sweden
+- Bands
+- Interview
+- Interviews
+- Anette Records
+- Music
+- Weimar
+- Audiolith
+- Aventgardet
+- Bondage Fairies
+- Constant Follower
+- Daniel Fridlund Brandt
+- Dungen
+- Frittenbude
+- Johan Offerlind
+- Johannes Rögner
+- Patrik Åberg
+- Sylvester Schlegel
+- The Amazing
+- The Ark
+- Theis Mikkelsen
+- Vegan Musicians
+- Vegan Celebreties
+- Vegan Artists
+- The Mirror Factory
 language: en
 slug: magnus-josefsson-anette-halbe-stunde-en
 typeName: Interview
@@ -38,17 +38,24 @@ title: '"Anette Halbe Stunde"'
 subTitle: Interview With (Sound) Architect Magnus Josefsson
 seoTitle: '"Anette Halbe Stunde" – Interview With (Sound) Architect Magnus Josefsson'
 ogTitle: ''
-description: Magnus Josefsson's new tape goes by the name "Anette Halbe Stunde". When I asked him what topics he would like to discuss in our interview, he brought up the Bullerby Syndrome. Not only was I curious about his connection to Astrid Lindgren, but I also wanted to know a bit more about the vegan (sound) architect.
-excerpt: Magnus Josefsson's new tape goes by the name "Anette Halbe Stunde". He did it with Anette Records. When I asked him what topics he would like to discuss in our interview, he brought up the Bullerby Syndrome. Not only was I curious about his connection to Astrid Lindgren, but I also wanted to know a bit more about the vegan (sound) architect from Sweden who has worked with so many exceptional artists.
-image: '/img/magnus-josefsson-anette-halbe-stunde.jpg'
+description: Magnus Josefsson's new tape goes by the name "Anette Halbe Stunde". When
+  I asked him what topics he would like to discuss in our interview, he brought up
+  the Bullerby Syndrome. Not only was I curious about his connection to Astrid Lindgren,
+  but I also wanted to know a bit more about the vegan (sound) architect.
+excerpt: Magnus Josefsson's new tape goes by the name "Anette Halbe Stunde". He did
+  it with Anette Records. When I asked him what topics he would like to discuss in
+  our interview, he brought up the Bullerby Syndrome. Not only was I curious about
+  his connection to Astrid Lindgren, but I also wanted to know a bit more about the
+  vegan (sound) architect from Sweden who has worked with so many exceptional artists.
+image: "/img/magnus-josefsson-anette-halbe-stunde.jpg"
 copyright: Magnus Josefsson
-ogImage: '/img/magnus-josefsson-anette-halbe-stunde-1.jpg'
+ogImage: "/img/magnus-josefsson-anette-halbe-stunde-1.jpg"
 focusKeyword: Anette Halbe Stunde
 advertisement: false
 affiliate: false
-languageLink: '/2021/05/magnus-josefsson-anette-halbe-stunde'
----
+languageLink: "/2021/05/magnus-josefsson-anette-halbe-stunde"
 
+---
 ### "Anette Halbe Stunde" – Interview With (Sound) Architect Magnus Josefsson
 
 **When I asked Magnus Josefsson what topics he would like to discuss in our interview, he brought up the Bullerby Syndrome. Not only was I curious about his connection to Astrid Lindgren, but I also wanted to know a bit more about the vegan (sound) architect from Sweden who has worked with so many exceptional artists and lived in Weimar once.**
@@ -81,7 +88,7 @@ languageLink: '/2021/05/magnus-josefsson-anette-halbe-stunde'
 
 The last thing I want is an identity. It excludes you from lots of other things and people. I really believe that identity often becomes people's absolute greatest enemy and problem.
 
-**Anne:** [I've talked to Belinda and Justin from Crippled Black Phoenix about the combination of veganism and music](http://cardamonchai.com/2020/12/crippled-black-phoenix-interview/). They told me that they are using their music to transport the message and fight cruelty and exploitation against animals. Can you imagine doing that too? Or have you done it before?
+**Anne:** [I've talked to Belinda and Justin from Crippled Black Phoenix about the combination of veganism and music](/2020/12/crippled-black-phoenix-interview/). They told me that they are using their music to transport the message and fight cruelty and exploitation against animals. Can you imagine doing that too? Or have you done it before?
 
 **Magnus:** No, I would not do that. I'm not a political manifesto, and I think it's to diminish oneself and one's music if one pursues topics like that in work. It will be a relatively low level of art – I think. But well, on the other hand, other bands have done that over the years with success and credibility, for example, The Smiths. But I guess it's not for me.
 
@@ -131,7 +138,7 @@ I guess it was the nature up here in Småland and the old factory where I am wor
 
 ### "I worked with artists from all over Europe"
 
-**Magnus:** I did 90 to 95 per cent of the recordings in our factory in Fröseke by myself. And the other per cent is made in UK, Denmark, Gothenburg, and Sylvester recorded some stuff in [Stockholm](http://cardamonchai.com/2018/09/zu-besuch-in-stockholm/). I love to work like this and will keep that magic tool for the future!
+**Magnus:** I did 90 to 95 per cent of the recordings in our factory in Fröseke by myself. And the other per cent is made in UK, Denmark, Gothenburg, and Sylvester recorded some stuff in [Stockholm](/2018/09/zu-besuch-in-stockholm/). I love to work like this and will keep that magic tool for the future!
 
 **Anne:** This sounds like a lot of fun! Who else was involved in the production of the tape?
 
