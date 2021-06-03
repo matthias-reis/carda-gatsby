@@ -33,18 +33,18 @@ affiliate: false
 languageLink: ''
 
 ---
-**CHANGE Dinkelbrot könnt Ihr in den verschiedensten Varianten zubereiten. Ich teile heute mein Rezept mit Hanfmehl mit Euch. Die Zubereitung gelingt ganz einfach. Am besten nehmt Ihr Euch einen Nachmittag am Wochenende Zeit dafür.**
+**Dinkelbrot könnt Ihr in den verschiedensten Varianten zubereiten. Ich teile heute mein Rezept mit Hanfmehl mit Euch. Die Zubereitung gelingt ganz einfach. Am besten nehmt Ihr Euch einen Nachmittag am Wochenende Zeit dafür.**
 
-Wie in vielen meiner Brotrezepte, kommt auch in diesem wieder Sauerteig vor. Ihr könnt selbst welchen herstellen ([das Rezept dafür findet Ihr hier](http://cardamonchai.com/2021/04/sauerteig-grundrezept/)), oder gekauften aus dem Drogeriemarkt verwenden. Das Brot gelingt damit genauso und die Vorbereitung ist weniger aufwändig.
+Wie in vielen meiner Brotrezepte, kommt auch in diesem wieder Sauerteig vor. Ihr könnt selbst welchen herstellen ([das Rezept dafür findet Ihr hier](/2021/04/sauerteig-grundrezept/)), oder gekauften aus dem Drogeriemarkt verwenden. Das Brot gelingt damit genauso und die Vorbereitung ist weniger aufwändig.
 
 Hanfmehl ist sehr Protein-haltig, stellt Euch also darauf ein, dass die Konsistenz Eures Brots etwas saftiger ist, als Ihr das vielleicht von anderen Broten gewohnt seid. Außerdem ist es besonders lecker und sättigend.
 
 ### Zutaten für das Dinkelbrot mit Hanfmehl
 
-* 150 Gramm [Hanfmehl](http://cardamonchai.com/2021/03/oelfreunde/)
+* 150 Gramm [Hanfmehl](/2021/03/oelfreunde/)
 * 250 Gramm helles Dinkelmehl
 * 600 Gramm Dinkel-Vollkornmehl
-* 1 Potion [Sauerteig](http://cardamonchai.com/2021/04/sauerteig-grundrezept/) oder 1 Pckg. fertigen Sauerteig (Dinkel oder Roggen)
+* 1 Potion [Sauerteig](/2021/04/sauerteig-grundrezept/) oder 1 Pckg. fertigen Sauerteig (Dinkel oder Roggen)
 * 2 Pckg. Trockenhefe á 7 Gramm
 * 600 ml Wasser
 * Sonnenblumenkerne
