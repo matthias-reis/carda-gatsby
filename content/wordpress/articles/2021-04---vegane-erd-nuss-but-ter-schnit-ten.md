@@ -4,7 +4,7 @@ slug: erdnussbutterschnitten-vegan-glutenfrei
 path: /2021/04/erdnussbutterschnitten-vegan-glutenfrei/
 type: Artikel
 typeName: Rezept
-title: Vegane Erd­nuss­but­ter­schnit­ten
+title: Vegane Erd&shy;nuss&shy;but&shy;ter&shy;schnit&shy;ten
 seoTitle: Vegane Erdnussbutterschnitten – Glutenfreies Rezept
 ogTitle: Vegane Erdnussbutterschnitten – Glutenfreies Rezept
 description: Erdnussbutterschnitten könnt Ihr ganz leicht mit ein paar Zutaten herstellen. Sie sind vegan, glutenfrei und Ihr braucht nicht mal einen Ofen.

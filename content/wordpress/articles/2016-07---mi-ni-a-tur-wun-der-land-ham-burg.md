@@ -4,7 +4,7 @@ slug: miniaturwunderland-hamburg
 path: /2016/07/miniaturwunderland-hamburg/
 type: Galerie
 typeName: Galerie
-title: Mi­ni­a­tur­wun­der­land Ham­burg
+title: Mi&shy;ni&shy;a&shy;tur&shy;wun&shy;der&shy;land Ham&shy;burg
 seoTitle: Miniaturwunderland Hamburg - Festivalbilder mal anders
 ogTitle: Miniaturwunderland Hamburg - Festivalbilder mal anders
 description: Mit unseren Hamburg-Besuchern haben wir uns das Miniaturwunderland angeschaut. Dabei sind sogar ein paar Festivalbilder entstanden.

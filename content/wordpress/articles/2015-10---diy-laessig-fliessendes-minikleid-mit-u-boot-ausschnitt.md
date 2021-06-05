@@ -63,7 +63,11 @@ subTitle: Nähanleitung One Size (34 - 42)
 
 ## Das braucht Ihr für Euer Minikleid
 
-- Stoff - Ich habe Viskose verwendet, die fühlt sich wunderbar kühl auf der Haut an und sorgt bei fertigen Kleid für eine tolle, fließende Optik. Ihr könnt aber genauso auch Baumwollpiqué oder Euren Lieblings-T-Shirt-Stoff verwenden. Der Stoff, den ich gekauft habe, war 1,50 m breit, ich habe einen Meter bei der Buttinette[^2] bestellt.
+<<<<<<< HEAD
+
+- # Stoff - Ich habe Viskose verwendet, die fühlt sich wunderbar kühl auf der Haut an und sorgt bei fertigen Kleid für eine tolle, fließende Optik. Ihr könnt aber genauso auch Baumwollpiqué oder Euren Lieblings-T-Shirt-Stoff verwenden. Der Stoff, den ich gekauft habe, war 1,50 m breit, ich habe einen Meter bei der Buttinette[^2] bestellt.
+- Stoff - Ich habe Viskose verwendet, die fühlt sich wunderbar kühl auf der Haut an und sorgt bei fertigen Kleid für eine tolle, fließende Optik. Ihr könnt aber genauso auch Baumwollpiqué oder Euren Lieblings-T-Shirt-Stoff verwenden. Der Stoff, den ich gekauft habe, war 1,50 m breit, ich habe einen Meter bei der Buttinette [<sup>2</sup>](#2) bestellt.
+  > > > > > > > fix: soft hyphens in metadata
 - Nähgarn - Das wird Euch beim Bestellen gleich passend zum Stoff angeboten.
 - Seidenpapier - Im Bastelbedarf oder gleich mitbestellen
 - Stift

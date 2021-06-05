@@ -4,7 +4,7 @@ slug: hochzeitsfotografin-petra-fritzi-hennemann-im-interview
 path: /2016/02/hochzeitsfotografin-petra-fritzi-hennemann-im-interview/
 type: Artikel
 typeName: Interview
-title: Fo­to­gra­fin Pe­tra Fritzi Hen­ne­mann
+title: Fo&shy;to&shy;gra&shy;fin Pe&shy;tra Fritzi Hen&shy;ne&shy;mann
 seoTitle: Hochzeitsfotografin Petra Fritzi Hennemann im Interview
 ogTitle: Hochzeitsfotografin Petra Fritzi Hennemann im Interview
 description: Hochzeitsfotografin Petra Fritzi Hennmann meint, dass Aufregung etwas ganz Normales ist. Im Interview hat sie mir noch vieles mehr verraten.

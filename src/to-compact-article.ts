@@ -2,16 +2,19 @@ import { Article, CompactArticle } from './types';
 
 type ToCompactArticleFn = (article: Article) => CompactArticle;
 
+const fixSoftHyphens = (s?: string) =>
+  (s || '').replace(/&shy;/g, String.fromCharCode(173));
+
 export const toCompactArticle: ToCompactArticleFn = ({
   frontmatter,
   fields,
 }) => {
   return {
-    title: frontmatter.title,
+    title: fixSoftHyphens(frontmatter.title),
     typeName: frontmatter.typeName || frontmatter.type || 'Beitrag',
-    subTitle: frontmatter.subTitle,
+    subTitle: fixSoftHyphens(frontmatter.subTitle),
     description: frontmatter.description,
-    excerpt: frontmatter.excerpt,
+    excerpt: fixSoftHyphens(frontmatter.excerpt || ''),
     image: frontmatter.image,
     remoteLoadingImage: frontmatter.remoteLoadingImage,
     remoteThumbnailImage: frontmatter.remoteThumbnailImage,

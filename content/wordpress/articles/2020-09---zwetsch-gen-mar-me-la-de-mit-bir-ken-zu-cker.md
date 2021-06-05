@@ -8,7 +8,7 @@ title: Zwetsch­gen­mar­me­la­de mit Bir­ken­zu­cker
 seoTitle: Zwetschgenmarmelade mit Birkenzucker - lecker und gesundheitsbewusst
 ogTitle: Zwetschgenmarmelade mit Birkenzucker - lecker und gesundheitsbewusst
 description: Zwetschgen gehören zum Herbst einfach dazu. Mit einer leckeren, selbst gemachten Zwetschgenmarmelade könnt Ihr ihren Geschmack das ganze Jahr über genießen.
-excerpt: Affiliate Links - Zwetschgen gehören zum Herbst einfach dazu. Mit einer leckeren, selbst gemachten Zwetsch&shy;gen&shy;mar&shy;me&shy;la&shy;de könnt Ihr ihren Geschmack das ganze Jahr über genießen.
+excerpt: Affiliate Links - Zwetschgen gehören zum Herbst einfach dazu. Mit einer leckeren, selbst gemachten Zwetsch\u00ADgen\u00ADmar\u00ADme\u00ADla\u00ADde könnt Ihr ihren Geschmack das ganze Jahr über genießen.
 fileName: 2020-09---zwetsch-gen-mar-me-la-de-mit-bir-ken-zu-cker.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-10-zwetschgenmarmelade-12__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-10-zwetschgenmarmelade-12__l.jpg

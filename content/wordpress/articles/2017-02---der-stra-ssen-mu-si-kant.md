@@ -4,7 +4,7 @@ slug: der-strassenmusikant
 path: /2017/02/der-strassenmusikant/
 type: Artikel
 typeName: Kurzgeschichte
-title: Der Stra­ßen­mu­si­kant
+title: Der Stra&shy;ßen&shy;mu&shy;si&shy;kant
 seoTitle: Der Straßenmusikant - Eine Moritat von der Straße
 ogTitle: Der Straßenmusikant - Moritat von der Straße
 description: Er packt seine Gitarre aus. Zum Stimmen fehlt ihm heute die Zeit. 20 Euro soll er morgen früh abliefern. Das bedeutet harte Arbeit. Menschen hasten vorbei.

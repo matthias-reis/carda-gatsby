@@ -4,9 +4,9 @@ slug: bananenwaffeln
 path: /2015/03/bananenwaffeln/
 type: Artikel
 typeName: Rezept
-title: Ba­na­nen­waf­feln
-seoTitle: Ba­na­nen­waf­feln
-ogTitle: Ba­na­nen­waf­feln
+title: Ba&shy;na&shy;nen&shy;waf&shy;feln
+seoTitle: Ba&shy;na&shy;nen&shy;waf&shy;feln
+ogTitle: Ba&shy;na&shy;nen&shy;waf&shy;feln
 description: 'Ein veganer Alltime-Favorite zum Frühstück: Bananenwaffeln'
 excerpt: Ein absoluter Frühstücks-Alltime-Favorite von mir sind Waffeln. Waffeln in allen vorstellbaren Variationen, hergestellt aus den verschiedensten Kreationen.
 fileName: 2015-03---ba-na-nen-waf-feln.md

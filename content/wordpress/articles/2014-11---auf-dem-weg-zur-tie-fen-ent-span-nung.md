@@ -4,7 +4,7 @@ slug: auf-dem-weg-zur-tiefenentspannung
 path: /2014/11/auf-dem-weg-zur-tiefenentspannung/
 type: Artikel
 typeName: Artikel
-title: Auf dem Weg zur Tie­fen­ent­span­nung
+title: Auf dem Weg zur Tie&shy;fen&shy;ent&shy;span&shy;nung
 seoTitle: Tiefenentspannung mit Thai Massage und TCM
 ogTitle: Tiefenentspannung mit Thai Massage und TCM
 description: Wie man Tiefenentspannung mit Hilfe von Thai Massage und Traditioneller Chinesischer Medizin erfahren kann - Ein Selbstversuch mit überraschendem Ausgang.

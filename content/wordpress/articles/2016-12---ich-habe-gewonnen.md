@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: Meine neue vegane Handtasche von Matt&amp;Nat
+subTitle: Meine neue vegane Handtasche von Matt&Nat
 ---
 
 _Produktplatzierung\*_

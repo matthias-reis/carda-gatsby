@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: Burger, Süßigkeiten &amp; Co.
+subTitle: Burger, Süßigkeiten & Co.
 ---
 
 _Werbung &amp; Affiliate Links\*_

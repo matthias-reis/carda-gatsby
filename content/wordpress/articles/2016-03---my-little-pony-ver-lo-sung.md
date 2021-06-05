@@ -4,7 +4,7 @@ slug: little-pony-verlosung-die-gewinner-stehen-fest
 path: /2016/03/little-pony-verlosung-die-gewinner-stehen-fest/
 type: Artikel
 typeName: Artikel
-title: My Little Pony Ver­lo­sung
+title: My Little Pony Ver&shy;lo&shy;sung
 seoTitle: My Little Pony Verlosung - Die Gewinner stehen fest
 ogTitle: My Little Pony Verlosung - Die Gewinner stehen fest
 description: Die Gewinner meiner My Little Pony Verlosung stehen fest! Und weil Freitag so ein schöner Tag ist, verrate ich Euch jetzt die Namen!
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: Die Ge­win­ner stehen fest!
+subTitle: Die Ge&shy;win&shy;ner stehen fest!
 ---
 
 **Freitag ist ein schöner Tag! Und weil das so ist, habe ich heute was wirklich Schönes für Euch!**

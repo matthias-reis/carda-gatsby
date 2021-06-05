@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: Neues von Arthur Dent &amp; Co.
+subTitle: Neues von Arthur Dent & Co.
 ---
 
 Gestern erst erreichte mich ein Pressemitteilung, die mich sehr freudig gestimmt hat. Bereits ab dem 30. November 2018 wird

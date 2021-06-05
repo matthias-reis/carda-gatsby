@@ -56,7 +56,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: Konzertplanung &amp; Plattenkauf
+subTitle: Konzertplanung & Plattenkauf
 ---
 
 **Heute ist ein guter Tag. Ich freue mich auf tolle, neue Musik. Leider hat das Versandhaus bei der Bearbeitung meiner Bestellung so einiges durcheinander gebracht, weshalb ich jetzt auf einige CDs etwas länger warten muss, als geplant.**

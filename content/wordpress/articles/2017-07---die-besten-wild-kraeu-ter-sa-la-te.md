@@ -4,7 +4,7 @@ slug: wildkraeutersalate-mit-dressingrezepten
 path: /2017/07/wildkraeutersalate-mit-dressingrezepten/
 type: Artikel
 typeName: Rezept
-title: Die besten Wild­kräu­ter­sa­la­te
+title: Die besten Wild&shy;kräu&shy;ter&shy;sa&shy;la&shy;te
 seoTitle: Die besten Wildkräutersalate - Mit Dressingrezepten
 ogTitle: Die besten Wildkräutersalate - Mit Dressingrezepten
 description: Wildkräuter sind nicht nur gesund und sehen in der Vase toll aus - Sie schmecken auch noch unheimlich gut. Ich habe Rezeptideen für Euch vorbereitet.

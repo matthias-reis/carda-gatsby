@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: Mango, Chili &amp; Cashews
+subTitle: Mango, Chili & Cashews
 ---
 
 **Was haben mein leckerer [veganer Glasnudelsalat](/2017/03/glasnudelsalat-mit-mango-vegan/) mit Mango und der Otto Versand gemeinsam? Ernsthaft, das fragt Ihr Euch?**

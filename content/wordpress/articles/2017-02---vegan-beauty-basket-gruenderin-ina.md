@@ -151,7 +151,7 @@ Bei der täglichen Pflege kann ebenfalls vieles ganz leicht umgestellt werden. I
 
 ## „Wir verzichten auf doppelte Verpackungen“
 
-**Ina:** Wir versuchen, möglichst auf doppelte Verpackungen bei den Produkten zu verzichten. Darauf weisen wir unsere Partner auch ausdrücklich hin. Unsere Boxen enthalten zum Beispiel auch bewusst kein Füllmaterial wie Holzwolle. Das kommt der Größe der Box zugute. Wir kommen so mit einer minimalen Menge an Papier für die Verpackung aus, die natürlich zu 100 Prozent recyclebar ist. Außerde­m versuchen wir auch, so oft wie möglich mit regionalen Marken zusammenzuarbeiten. Die Produkte kommen dann, wie zum Beispiel bei i+m Naturkosmetik Berlin, Cremekampagne, Lovely Day Botanicals und Eskay entweder direkt aus Berlin oder aus der Umgebung.
+**Ina:** Wir versuchen, möglichst auf doppelte Verpackungen bei den Produkten zu verzichten. Darauf weisen wir unsere Partner auch ausdrücklich hin. Unsere Boxen enthalten zum Beispiel auch bewusst kein Füllmaterial wie Holzwolle. Das kommt der Größe der Box zugute. Wir kommen so mit einer minimalen Menge an Papier für die Verpackung aus, die natürlich zu 100 Prozent recyclebar ist. Außerde&shy;m versuchen wir auch, so oft wie möglich mit regionalen Marken zusammenzuarbeiten. Die Produkte kommen dann, wie zum Beispiel bei i+m Naturkosmetik Berlin, Cremekampagne, Lovely Day Botanicals und Eskay entweder direkt aus Berlin oder aus der Umgebung.
 
 <RemoteImage
   alt={`Vegan Beauty Basket`}

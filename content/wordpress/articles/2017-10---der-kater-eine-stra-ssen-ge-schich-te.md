@@ -4,7 +4,7 @@ slug: der-kater-geschichte-von-der-strasse
 path: /2017/10/der-kater-geschichte-von-der-strasse/
 type: Artikel
 typeName: Kurzgeschichte
-title: Der Kater - Eine Stra­ßen­ge­schich­te
+title: Der Kater - Eine Stra&shy;ßen&shy;ge&shy;schich&shy;te
 seoTitle: Der Kater - Kein verkehrter Kerl - Eine Geschichte von der Straße
 ogTitle: Der Kater - Kein verkehrter Kerl - Eine Geschichte von der Straße
 description: Die Haudegen auf der Strandpromenade spielen einem jungen Kater übel mit. Sein Leben ist alles andere als einfach. Doch dann begegnet er einem neuen Freund.

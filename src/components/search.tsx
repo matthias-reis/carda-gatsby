@@ -9,6 +9,9 @@ import { event } from './analytics';
 
 import { color, space, width, fontSize, font } from '../style';
 
+const fixSoftHyphens = (s?: string) =>
+  (s || '').replace(/&shy;/g, String.fromCharCode(173));
+
 const Hit = ({ hit }) => {
   const isAd = hit.advertisement;
   const isAffiliate = hit.affiliate;
@@ -31,8 +34,8 @@ const Hit = ({ hit }) => {
         <HitImage src={hit.image} />
       </HitImageContainer>
       <HitContent>
-        <HitTitle>{hit.title}</HitTitle>
-        <HitSubTitle>{hit.subTitle}</HitSubTitle>
+        <HitTitle>{fixSoftHyphens(hit.title)}</HitTitle>
+        <HitSubTitle>{fixSoftHyphens(hit.subTitle)}</HitSubTitle>
         {hit.languageLink && (
           <HitLanguageHint>🇬🇧 English version available</HitLanguageHint>
         )}

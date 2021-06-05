@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: Feat. Lyenn &amp; Duke Garwood
+subTitle: Feat. Lyenn & Duke Garwood
 ---
 
 **Am 21. Februar besuchte ich mit Matze und meinem lieben Bruder das langersehnte Mark Lanegan Konzert. Als Support brachte er den hochmusikalischen Belgier Lyenn und keinen geringeren als Duke Garwood mit.**

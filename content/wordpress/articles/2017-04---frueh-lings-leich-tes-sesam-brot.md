@@ -4,7 +4,7 @@ slug: sesambrot-kichererbsenmehl
 path: /2017/04/sesambrot-kichererbsenmehl/
 type: Artikel
 typeName: Rezept
-title: Früh­lings­leich­tes Sesam-Brot
+title: Früh&shy;lings&shy;leich&shy;tes Sesam-Brot
 seoTitle: Frühlingsleichtes Sesam-Brot - Rezept mit Kichererbsenmehl
 ogTitle: Frühlingsleichtes Sesam-Brot - Rezept mit Kichererbsenmehl
 description: 'Ich verrate Euch ein Rezept, dass ich vor Kurzem kreiert habe. Das Brot ist schön leicht. Es passt sehr gut zu Gegrilltem. Der Twist: Kichererbsenmehl.'

@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: Teil 2/2 - Puss In Boots Animal Rescue &amp; Adoption stellt sich vor
+subTitle: Teil 2/2 - Puss In Boots Animal Rescue & Adoption stellt sich vor
 ---
 
 **( [Hier gehts zu Teil 1/2 des Interviews](/2017/10/die-tiertafel-hamburg-stellt-sich-vor/) ) Im zweiten Teil meines Interview mit Kara erfahrt Ihr heute alles über die Irische Tier-Auffangstation _Puss In Boots_ , die sie gemeinsam mit ihrer Mutter ins Leben gerufen hat.**

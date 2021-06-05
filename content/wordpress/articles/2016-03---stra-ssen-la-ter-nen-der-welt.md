@@ -4,7 +4,7 @@ slug: strassenlaternen-der-welt-eine-romantische-bildergalerie
 path: '/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/'
 type: Galerie
 typeName: Gedicht
-title: Stra­ßen­la­ter­nen der Welt
+title: Stra&shy;ßen&shy;la&shy;ter&shy;nen der Welt
 seoTitle: Straßenlaternen der Welt - Eine romantische Bildergalerie
 ogTitle: Straßenlaternen der Welt - Eine romantische Bildergalerie
 description: Straßenlaternen sind faszinierend. Sie können Licht spenden, aber auch für eine besondere Stimmung sorgen - Eine Bildergalerie mit etwas Lyrik

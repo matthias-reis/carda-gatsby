@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: Das Repair &amp; Glow Face Oil von Acaraa
+subTitle: Das Repair & Glow Face Oil von Acaraa
 ---
 
 _Werbung &amp; Affiliate Links_

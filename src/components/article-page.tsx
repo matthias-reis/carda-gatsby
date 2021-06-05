@@ -40,6 +40,9 @@ const getType = (meta: ArticleMeta) => {
   return ret;
 };
 
+const fixSoftHyphens = (s?: string) =>
+  (s || '').replace(/&shy;/g, String.fromCharCode(173));
+
 export const ArticlePage: React.FC<ArticleProps> = ({
   children,
   meta,
@@ -73,9 +76,9 @@ export const ArticlePage: React.FC<ArticleProps> = ({
       <PageMeta meta={meta} path={path} />
       <Interactions meta={meta} />
       <ArticleContainer>
-        <Title>{meta.frontmatter.title}</Title>
+        <Title>{fixSoftHyphens(meta.frontmatter.title)}</Title>
         {meta.frontmatter.subTitle && (
-          <Subtitle>{meta.frontmatter.subTitle}</Subtitle>
+          <Subtitle>{fixSoftHyphens(meta.frontmatter.subTitle)}</Subtitle>
         )}
         {isAdOrAffiliate && (
           <AdAndAffiliateTeaser href="#werbung-affiliate">
@@ -118,7 +121,7 @@ export const ArticlePage: React.FC<ArticleProps> = ({
             <CardaImage
               loading={meta.frontmatter.remoteLoadingImage || ''}
               src={meta.frontmatter.remoteImage}
-              alt={meta.frontmatter.title}
+              alt={fixSoftHyphens(meta.frontmatter.title)}
             />
           )}
         </ImageContainer>

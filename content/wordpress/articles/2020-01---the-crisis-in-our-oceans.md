@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: Neuer Film von Greenpeace und Wallace &amp; Gromit Machern
+subTitle: Neuer Film von Greenpeace und Wallace & Gromit Machern
 ---
 
 **Die Ozeane beherbergen Milliarden von Lebewesen. Doch ihre natürlichen Habitate sind bedroht: Klimawandel, Plastikflut, Umweltverschmutzung, gnadenlose Überfischung und Ölbohrungen sorgen dafür, dass ihre Lebensräume immer weiter schrumpfen.**
