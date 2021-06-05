@@ -57,7 +57,7 @@ Das im Dezember erschienene Album "Persona" läuft bei mir nach wie vor auf Rota
 ## Das DUNK! 2017 war magisch
 
 <RemoteImage
-alt={\`\`}
+alt={``}
 size="medium"
 title={`Dieses Foto habe ich auf dem magischen DUNK! Festival 2017 aufgenommen.`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-9__m.jpg"
