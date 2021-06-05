@@ -1,7 +1,7 @@
 ---
-date: 2015-10-21T14:26:26.000Z
+date: 2015-10-21T14:26:26.000+00:00
 slug: diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt
-path: /2015/10/diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt/
+path: '/2015/10/diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt/'
 type: Artikel
 typeName: Artikel
 title: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt
@@ -13,7 +13,7 @@ fileName: 2015-10---diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_10_22358342235_3db7bc9f0f_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_10_22358342235_3db7bc9f0f_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAYI/8QAKhAAAQMDAgUCBwAAAAAAAAAAAQIDBAAFEQYhBxIxYXETFBUiQUNRgcH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIRAxEAPwDmWIJb6gG1ueQcCmJw8tNwTOuiY0Jq5vOxSwptchLawhWchJUdiRtnBx2rE2yQUgAKwK0Ma7e0acKIsaUXUBpbbgxtkHmB+iu/mgC1VmTpqBcJGjBCQ5p+G8zHWy07NRh7mBIT8wVgkfnlPehtq3sMoiThEZmJZCTKbdS6h9wDc4AHLnfHepOGDt1vlpuMa3psyUQ3kuFtbDa1qCk43BRzYJBOU7ZB6HrU1jFunpr+IWZqKB9yNFwlX7Kv5U9E+dSFacUnpVpuSvlIooqpTtTw31RN05qyJJiEqTIPtXm+bAWhZHXwcEeKa+qL3JmpV6uw80UUuov/2Q==
-ogImage: null
+ogImage:
 labels:
   - Bigkleid
   - Blogger
@@ -42,15 +42,6 @@ language: de
 errors: {}
 subTitle: Nähanleitung One Size (34 - 42)
 ---
-
-<RemoteImage
-  alt={`Minikleid Nähanleitung`}
-  size="medium"
-  title={`Minikleid Nähanleitung`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-19-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-19-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUHAgQI/8QAKhAAAQMCBAUDBQAAAAAAAAAAAQIDBAAFBhESIQcTMVFhMnHBFSKRo9L/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAH/xAAcEQACAgIDAAAAAAAAAAAAAAABAgARAyETQVH/2gAMAwEAAhEDEQA/AFPCqHzcdxiRsIL5/K2x81PuJkFmUmbdILDZQJ7pdebOrmalKGZ7ZEb59xVW4Xp5eLHnQN2bW4r9qP5rnW23yfbJbkiM8QXiVvNr3Q5mczmPnrRKCTYjAqBTTctFjvciLzLelzlE5kIUdiQDv5yIoq7cP3AcJwZAZZW7KSX3eVuEqJ2HuEhNFbzTCg6jfh2yzDtr1wcWVzZTUhtAByAZQpGlIHfUT93nxUAbwk/ecb3O1W1xIixZLgdkn0to1nt1V1AA6kdt6udmmtxcHRVr0ApZWvUrb1vnbPscqnmBJ5i/WZxVHUZ05bhQlROkBSgMvG5qd8jJZXyNjRXoNMro0m2TFQ4zrkdplIbCW1KAIAyB9yAKKa3BEO6viRISQ5p07HqBRUyvrcoIF6n/2Q=="
-/>
 
 **Ich hatte ein Bisschen Zeit und so kam ich dazu, mir meinen ersten Schnitt für ein Kleid auszudenken. Ich mag es sehr und möchte Euch daher gerne zeigen, wie es entstanden ist.**
 
@@ -92,20 +83,23 @@ Als Erstes zeichnet Ihr den Schnitt auf das Seidenpapier. Die Länge sollte ca.
 Schneidet Euer Schnittmuster mit der Papierschere aus und legt es auf den doppelt vor Euch ausgebreiteten Stoff. Übertragt die Umrisse mit der Schneiderkreide. Wenn alle Linien stimmen, hebt Ihr das Papier ab und schneidet das Kleid vorsichtig im Abstand von ca. 1,5 cm dazu (Nahtzugabe) durch beide Stofflagen zu. Die Vorderseite entspricht genau der Rückseite, so entsteht der elegante U-Boot-Ausschnitt.
 
 <Gallery
-  images={[
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2015_10_21735567414_4355a176ac_z__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2015_10_21735567414_4355a176ac_z__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2015_10_22170306960_c1091df515_z__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2015_10_22170306960_c1091df515_z__l.jpg',
-    },
-  ]}
+  images={
+    \[
+      ({
+        mediumUrl:
+          'https://storage.googleapis.com/cardamonchai-images/2015_10_21735567414_4355a176ac_z__m.jpg',
+        largeUrl:
+          'https://storage.googleapis.com/cardamonchai-images/2015_10_21735567414_4355a176ac_z__l.jpg',
+      },
+      {
+        mediumUrl:
+          'https://storage.googleapis.com/cardamonchai-images/2015_10_22170306960_c1091df515_z__m.jpg',
+        largeUrl:
+          'https://storage.googleapis.com/cardamonchai-images/2015_10_22170306960_c1091df515_z__l.jpg',
+      },
+      \)
+    ]
+  }
 />
 
 Stellt nun Eure Nähmaschine auf einen größeren Zickzackstich, Profinähmaschinen auf den Saumstich. Umsäumt alle Ränder feinsäuberlich und verriegelt dabei Eure Nähte (An den Anfängen und Enden jeweils ein paar Stiche vor und zurück nähen).
@@ -113,7 +107,7 @@ Stellt nun Eure Nähmaschine auf einen größeren Zickzackstich, Profinähmaschi
 <RemoteImage
   alt={`Hier kommen die Säume hin`}
   size="medium"
-  title={` Hier kommen die Säume hin`}
+  title={`Hier kommen die Säume hin`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21735559864_4129d12356_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21735559864_4129d12356_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwUGCAME/8QALhAAAgECBQEGBQUAAAAAAAAAAQIDBBEABQYSIQcTIjEyUYEUcZGhsSMlQWGS/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBf/EAB4RAAICAgIDAAAAAAAAAAAAAAEDAAIREiJBMVGR/9oADAMBAAIRAxEAPwAr0P06qdfZvmFV2hipKeQRAFWs9l55ANgNv38eMMWmNFaMptNGmzzJkml3742jpldlXaBbcTfk3PsMQXR2pqcv0jSFKmaL4gNM6xuVDBmYgfQ2xZ3r5Hm8oEY4AA8BjKY2wOo6mnRYI2Pc5VGkdM1n7flOUU0VDIiKVlpwt5LnvE+45wa9Quk1VoiWjzuiQGhFR2M6RyM4RSPNyLgAE+v2OGqlf9JHjdRb1Xm/1xBdRJy2nczerlkdfhJWLO7G3cPqTh0YfsLUHn1C3pVnJn01DTlu/Tu0DcX7vmXj5Ej2xe46yGORd0wBPFgwF/mMZ00dnpyPMy7lvhZl2ShfEejAeo/BONJaX1xpeXKKILUrJPDTLHIRRGVd22xJswPjzyMUcnlmTS3NcT0yZzAibVqxc+I3f3+MHnVzPli0tLTw745aqTsCu5uF4ZiL+INh/rCVmXUTR9Pl88JrKRXaJkUvl6qfJbltxJN+b/nGZNb5+ud1dMkDM1PTR7QzE95z5m5/jgD2w0p5AmDmgVIn/9k="
@@ -145,16 +139,8 @@ Jetzt müsst Ihr Euer Meisterwerk nur noch wenden und anprobieren. Das Minikleid
 Ich wünsche Euch viel Spaß beim Nähen und beim Tragen Eures neuen Minikleides! Schickt mal ein Bild, wenn es fertig ist, ich bin gepannt!
 
 [^1]: Der Schnittbogen
+[^2]: Die  [Buttinette](https://basteln-de.buttinette.com/shop/start) Ich wünsche Euch viel Spaß beim Nähen und beim Tragen Eures neuen Minikleides! Schickt mal ein Bild, wenn es fertig ist, ich bin gepannt! <3
 
-<RemoteImage
-  alt={`Mein &quot;Schnittbogen&quot; - zum Vergrößern bitte anklicken!`}
-  size="large"
-  title={` Mein "Schnittbogen" - zum Vergrößern bitte anklicken!`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-17__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-17__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcI/8QALRAAAgECBAIJBQEAAAAAAAAAAQIDBBEABQYSITEHEyJBYXGRocEjUWKB4bH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwYB/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAAwQREhMhIjH/2gAMAwEAAhEDEQA/ACOi8mbqoaOliG1QFZrcv7i1ab0mtFTG5YykXO03I+MG+jGljFPG116x3Kg29PjFKgrhTwSybiYmjALbtu29+/8AXtiXsc22cT+SiA6k2IbqcoZZfqJNtJ7LOSP57YK6myYRg32Mjg27NvMenziq18yTUUKgMBEwUEsrXG3wPhglqRUamF24BxzH6+cZrrbww1bsXZkt0TnSxyRgSMDdWPaPEg2PtbFTp61rErNKL8ypPHGaspzKKnZWNSFZTw44e5XrTL4UXewd7c2cEDDsjFYtySKpvXWmljNZeIiSZmF+9hzwZ1LmkaRbQSxQ7mA4nlw97+mCU3SBQiNhC8G783A2+d/8GB+c6qjqTJerjkDm5A+45YGrFsY/Qhveijyf/9k="
-/>
-
-[^2]: Die  [Buttinette](https://basteln-de.buttinette.com/shop/start)
+![Das "Schnittmuster"](/img/minikleid-nahanleitung-17jpg_22332294726_o.jpg 'Das "Schnittmuster"')
 
 Meine Schritt-für-Schritt-Anleitung für ein wärmendes Körnerkissen [findet Ihr hier](/2015/09/diy-koernerkissen-naehanleitung/).
