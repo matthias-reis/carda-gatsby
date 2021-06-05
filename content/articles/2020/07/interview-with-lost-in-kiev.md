@@ -135,8 +135,3 @@ But yes in the way that post-rock dive into your soul to make you feel powerful 
 **LIK:** Thanks a lot Anne for these very great questions. See you soon at Dunk!
 
 Lost in Kiev were founded in 2007. The post-rock band has been performing in the current line-up (Guitar: Dimitri Denat, guitar & synth: Maxime Ingrand, bass & synth: Jean Christophe Condette, drums: Yonan Vermeulen) since 2011. "Persona" is the third album after "Motions" (2012) and "Nuit Noire" (2016).
-
-<Playlist
-  spotify="2OWPbyhRv5zLXo2hyRsGjq"
-  itunes="album/persona/1453894488"
-/>
