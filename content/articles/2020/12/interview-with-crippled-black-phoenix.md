@@ -53,7 +53,9 @@ The conversation, in which Justin's cats were also actively involved, was incred
 
 ## "It's about the things that we feel strongly about."
 
-**![Belinda. Picture: © Crippled Black Phoenix](/img/crippled-black-phoenix-interview-rock-n-roll-vegan-belinda.jpeg 'Belinda. Picture: © Crippled Black Phoenix')Anne:**  The song "Lost" from your new album, didn't let go of me and Matze, who I asked to write [a guest article](/2020/12/crippled-black-phoenix-lost-en) on my blog about it. I had the feeling that he would be the right person to put it all into words. And it seems this intuition was right because you told me that you enjoyed reading it! The article is quite political and refers only partly to your song. I think, as well as you did, with your music, we felt the urge to look a bit deeper. What made you relate to it?
+**Anne:**  The song "Lost" from your new album, didn't let go of me and Matze, who I asked to write [a guest article](/2021/02/crippled-black-phoenix-lost-en) on my blog about it. I had the feeling that he would be the right person to put it all into words. And it seems this intuition was right because you told me that you enjoyed reading it! The article is quite political and refers only partly to your song. I think, as well as you did, with your music, we felt the urge to look a bit deeper. What made you relate to it?
+
+![Belinda. Picture: © Crippled Black Phoenix](/img/crippled-black-phoenix-interview-rock-n-roll-vegan-belinda.jpeg 'Belinda. Picture: © Crippled Black Phoenix')
 
 **Belinda:** It was great! It was all put together really well.
 
@@ -89,9 +91,11 @@ Messages in a visual format is a very powerful tool. This is one good thing with
 
 ## "I want to give the animals a voice"
 
-**![Justin. Picture: © Crippled Black Phoenix](/img/crippled-black-phoenix-interview-rock-n-roll-vegan-justin-1.jpeg 'Justin. Picture: © Crippled Black Phoenix')Belinda:** I try and do my part with the lyrics. Inside them lays a small part of my activism. I have to hold back a lot – or every demo song Justin hands over to me would end up being a song about animals, giving animals a voice.
+**Belinda:** I try and do my part with the lyrics. Inside them lays a small part of my activism. I have to hold back a lot – or every demo song Justin hands over to me would end up being a song about animals, giving animals a voice.
 
 I also give what I can to animal rights organizations and smaller charities. If I had more time, I would definitely go out more often being active, and doing things. But like I mentioned in another interview: I couldn't handle some parts of the crucial activism side, like investigating slaughterhouses. That would destroy me. I'd end up jumping from a bridge.
+
+![Justin. Picture: © Crippled Black Phoenix](/img/crippled-black-phoenix-interview-rock-n-roll-vegan-justin-1.jpeg 'Justin. Picture: © Crippled Black Phoenix')
 
 **Justin:** Equal measure. Mentally I have always been an activist. But we can only do as much as we can and what is possible in our situation. It hasn't always been possible. But being a musician gives you a voice. I think that is what has made the activist side of us. Finally, we can do a little bit more. Most of what we can do is to use our voices! It is tricky, though, to find the right balance because, unfortunately, people go blank. Animal rights are not political – it's a social problem. People don't like it.
 
@@ -127,7 +131,9 @@ I also want to say that we are not demonizing non-vegans. It doesn't automatical
 
 ## "We did 'Ellengæst' one and a half year ago"
 
-**![Picture:  © Crippled Black Phoenix](/img/crippled-black-phoenix-interview-rock-n-roll-vegan-justin.jpeg 'Picture: © Crippled Black Phoenix')Justin:** The truth is that we wrote the album a year and a half ago. We recorded the songs in October 2019. So it was a coincidence it connected with 2020. For example, the song "Lost" is not 2020 really specific. It is such a big topic. It is how we see the world.
+**Justin:** The truth is that we wrote the album a year and a half ago. We recorded the songs in October 2019. So it was a coincidence it connected with 2020. For example, the song "Lost" is not 2020 really specific. It is such a big topic. It is how we see the world.
+
+![Picture:  © Crippled Black Phoenix](/img/crippled-black-phoenix-interview-rock-n-roll-vegan-justin.jpeg 'Picture: © Crippled Black Phoenix')
 
 I don't think that it got necessarily worse this year. I would say 2020 exposed a lot of things. Everyone is shocked, and everyone says that 2020 is really bad, but what is going on this year has been going on for so many years. People just became aware of it. People have been trying to raise the subject of climate change for 50 years now, for example. And in 2020, it's become a thing.
 
