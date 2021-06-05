@@ -57,7 +57,7 @@ Das im Dezember erschienene Album "Persona" läuft bei mir nach wie vor auf Rota
 ## Das DUNK! 2017 war magisch
 
 <RemoteImage
-alt={``}
+alt={\`\`}
 size="medium"
 title={`Dieses Foto habe ich auf dem magischen DUNK! Festival 2017 aufgenommen.`}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-9__m.jpg"
@@ -169,10 +169,3 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 **LIK:** Danke Anne für Deine tollen Fragen! Wir sehen uns auf dem DUNK!
 
 Lost in Kiev gründeten sich 2007. In der aktuellen Besetzung (Gitarre: Dimitri Denat, Gitarre & Synth: Maxime Ingrand, Bass & Synth: Jean Christophe Condette, Drums: Yonan Vermeulen) tritt die Post-Rock Band seit 2011 auf. Nach "Motions" (2012) und "Nuit Noire" (2016) ist "Persona" das dritte Lost in Kiev Album in Studiolänge.
-
-<YouTube id="" />
-
-<Playlist
-  spotify="2OWPbyhRv5zLXo2hyRsGjq"
-  itunes="album/persona/1453894488"
-/>
