@@ -54,7 +54,7 @@ Mein Tag besteht darin, mich um zwei super aktive, süße und lustige Kinder im 
 
 Neben meinem Job als Vollzeit-Mutter widme ich meinem Aktivismus sehr viel Zeit. Jede Demo und jede Veranstaltung muss im Vorfeld umfangreich geplant werden. Zurzeit bin ich mit einem neuen Projekt beschäftigt. Wir (ich bin Teil eines wunderbaren Teams!) bauen eine neue Straßenaktivismus Organisation auf. Sie soll die Art, auf die wir das tun, was wir tun revolutionieren. Wir stecken unsere Herzen und Seelen in dieses Projekt - und viele Stunden.
 
-Meine Brötchen verdiene ich in der wunderbaren Kochschule "Kurkuma" in Hamburg Eimsbüttel. Das Kurkuma ist Deutschlands erste und bisher einzige vegane Kochschule! Ich arbeite dort jetzt bereits seit Jahren und gebe die israelischen Kochkurse\[^1\]. Sie sind sehr beliebt und ich bin sehr stolz, dort arbeiten zu dürfen.
+Meine Brötchen verdiene ich in der wunderbaren Kochschule "Kurkuma" in Hamburg Eimsbüttel. Das Kurkuma ist Deutschlands erste und bisher einzige vegane Kochschule! Ich arbeite dort jetzt bereits seit Jahren und gebe die israelischen Kochkurse[^1]. Sie sind sehr beliebt und ich bin sehr stolz, dort arbeiten zu dürfen.
 
 **Anne:** In Hamburg kennt man Dich vor allem als vegane Aktivistin. Seit wann lebst Du eigentlich schon vegan?
 
@@ -73,7 +73,7 @@ loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAgCAYAAAAIXrg4A
 
 **Anne:** Das haben wir etwas gemeinsam. Mir geht es ganz genau so. Was war zuerst da – der Aktivismus oder die Umstellung auf vegan?
 
-**Inbar:** Ich glaube, das hängt davon ab, was Du als Aktivismus bezeichnen würdest. Bevor ich Veganerin wurde, habe ich für den Hamburger Mitternachtsbus\[^2\] mit Obdachlosen gearbeitet. Es war eine dieser Erfahrungen, die unglaublich hart sind und einen zugleich komplett erfüllen.
+**Inbar:** Ich glaube, das hängt davon ab, was Du als Aktivismus bezeichnen würdest. Bevor ich Veganerin wurde, habe ich für den Hamburger Mitternachtsbus[^2] mit Obdachlosen gearbeitet. Es war eine dieser Erfahrungen, die unglaublich hart sind und einen zugleich komplett erfüllen.
 
 Ich musste mit meiner Arbeit für den Mitternachtsbus aufhören, als ich schwanger wurde. Als ich dann wieder etwas machen konnte, habe ich mich für eine andere Form des Aktivismus entschieden: Tierrechte.
 
