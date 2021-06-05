@@ -6,41 +6,38 @@ typeName: Produkttest
 title: Bodenpatenschaft für bio-vegane Nüsse
 subTitle: Hof Windkind macht Ackerflächen klimafreundlich
 seoTitle: Bodenpatenschaft bei Hof Windkind übernehmen und Nüsse bekommen
-description: Wenn Ihr eine Bodenpatenschaft bei Hof Windkind übernehmt, bekommt Ihr
-  bio-vegan angebaute Haselnüsse, Walnüssen oder hochwertiges Walnussöl.
-excerpt: Hof Windkind steht für bio-vegane Nüsse in hoher Qualität. Das Highlight
-  dabei ist, dass man einen Baum adoptieren kann und dann die Nüsse erhält. Seit neuestem
-  ist jetzt auch eine Bodenpatenschaft möglich. Ich erzähle Euch, wie das funktioniert.
-image: "/img/2021-04-26-hof-windkind-33.jpg"
-ogImage: "/img/bodenpatenschaft-fb.jpg"
+description: Wenn Ihr eine Bodenpatenschaft bei Hof Windkind übernehmt, bekommt Ihr bio-vegan angebaute Haselnüsse, Walnüssen oder hochwertiges Walnussöl.
+excerpt: Hof Windkind steht für bio-vegane Nüsse in hoher Qualität. Das Highlight dabei ist, dass man einen Baum adoptieren kann und dann die Nüsse erhält. Seit neuestem ist jetzt auch eine Bodenpatenschaft möglich. Ich erzähle Euch, wie das funktioniert.
+image: '/img/2021-04-26-hof-windkind-33.jpg'
+ogImage: '/img/bodenpatenschaft-fb.jpg'
 labels:
-- Ernährung & Gesundheit
-- Klima- & Umweltschutz
-- Berlin
-- Bio-Haselnüsse
-- bio-vegan
-- Bio-Walnüsse
-- Bodenpatenschaft
-- Brandenburg
-- Ernährung
-- Haselnüsse
-- Hof Windkind
-- Nüsse
-- Omega-3
-- Omega-3 vegan
-- Omega-3-Fettsäuren
-- vegan
-- Speiseöl
-- vegane Ernährung
-- vegane Landwirtschaft
-- Walnüsse
-- Walnussöl
+  - Ernährung & Gesundheit
+  - Klima- & Umweltschutz
+  - Berlin
+  - Bio-Haselnüsse
+  - bio-vegan
+  - Bio-Walnüsse
+  - Bodenpatenschaft
+  - Brandenburg
+  - Ernährung
+  - Haselnüsse
+  - Hof Windkind
+  - Nüsse
+  - Omega-3
+  - Omega-3 vegan
+  - Omega-3-Fettsäuren
+  - vegan
+  - Speiseöl
+  - vegane Ernährung
+  - vegane Landwirtschaft
+  - Walnüsse
+  - Walnussöl
 focusKeyword: Bodenpatenschaft
 advertisement: true
 affiliate: false
 language: de
-
 ---
+
 **Hof Windkind steht für bio-vegane Nüsse in hoher Qualität. Das Highlight dabei ist, dass man einen Baum adoptieren kann und dann die Nüsse erhält. Seit neuestem ist jetzt auch eine Bodenpatenschaft möglich. Ich erzähle Euch, wie das funktioniert.**
 
 In der Vergangenheit habe ich Euch ja schon von der Baumpatenschaft berichtet und habe [die Walnüsse](/2019/09/hof-windkind-walnuss-baum-adoptieren/), [die Haselnüsse](/2020/03/haselnuesse-hof-windkind/) und [das Walnussöl](/2020/10/walnussoel-hof-windkind/) von Hof Windkind getestet. Silvia und David, die den Hof betreiben, achten bei Ihrer Arbeit auf alle Details. Alles soll lokal fair und vegan sein.
@@ -130,4 +127,4 @@ Land OT Neuendorf
 
 [Hier könnt Ihr Bodenpat⋆innen werden](https://www.hofwindkind.com/info/bodenpatenschaft.html).
 
-Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Weitere Details: [www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/tipps/werbekennzeichnung/ 'Werbekennzeichnung Trusted Blogs')
+Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Weitere Details: [www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/tipps/werbekennzeichnung/ 'Werbekennzeichnung Trusted Blogs')

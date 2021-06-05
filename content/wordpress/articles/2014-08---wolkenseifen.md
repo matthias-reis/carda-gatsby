@@ -279,4 +279,4 @@ Wie drückte das eine Ebayerin mal so nett in ihrer Bewertung in meinem dortigen
 
 Wer jetzt Interesse bekommen hat: Hier geht es zur [Homepage](http://wolkenseifen.de) von Wolkenseifen.
 
-_\*Dieser Beitrag enthält Produktplatzierungen. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Die Produkte habe ich in diesem Fall sogar selbst erworben. Infos zum Thema Produktplatzierungen findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Produktplatzierungen. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Die Produkte habe ich in diesem Fall sogar selbst erworben. Infos zum Thema Produktplatzierungen findet Ihr auf meiner [Transparenz-Seite](/werbung/).

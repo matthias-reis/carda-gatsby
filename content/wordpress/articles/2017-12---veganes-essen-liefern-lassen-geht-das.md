@@ -72,4 +72,4 @@ Leckere Aussichten, oder? Was ich persönlich immer ganz besonders schätze, sin
 
 Das vegane Zeitalter hat also inzwischen auch Couchpotatoville und Netflixhausen erreicht. Darauf erstmal ein paar vegane Sommerrollen. Oder doch lieber Sushi heute?
 
-- _Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

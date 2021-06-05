@@ -75,4 +75,4 @@ Auf jeden Fall sind wir jetzt alle beide sehr glücklich. Oder besser gesagt, al
 
 <Gallery name="flickr/annemattandnat" />
 
-- _Hinweis_ : _Dieser Beitrag enthält Produktplatzierungen. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. In diesem Fall habe ich das Produkt sogar gewonnen.  Infos zum Thema Produktplatzierungen findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Produktplatzierungen. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. In diesem Fall habe ich das Produkt sogar gewonnen.  Infos zum Thema Produktplatzierungen findet Ihr auf meiner [Transparenz-Seite](/werbung/).

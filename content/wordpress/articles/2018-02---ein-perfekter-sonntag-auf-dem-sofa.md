@@ -99,4 +99,4 @@ Beim Kuscheln kann man sich dann in aller Ruhe aufs Wesentliche besinnen:  Mein
 
 PS: Wenn die Beatles tatsächlich plötzlich bei mir auftauchen würden, würde ich selbstverständlich das Sofa für sie freimachen. Mehr Fotos dieser Art findet ihr in meinem Beitrag über [das Londoner Wachsfigurenkabinett Madame Tussauds](/2014/04/st-patricks-day-in-london/).
 
-- _Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
