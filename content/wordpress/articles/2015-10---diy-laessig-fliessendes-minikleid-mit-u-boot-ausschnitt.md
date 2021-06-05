@@ -1,39 +1,42 @@
 ---
-date: 2015-10-21T14:26:26.000Z
+date: 2015-10-21T14:26:26.000+00:00
 slug: diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt
-path: /2015/10/diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt/
+path: "/2015/10/diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt/"
 type: Artikel
 typeName: Artikel
 title: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt
 seoTitle: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt
 ogTitle: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt
-description: Heute zeige ich Euch meine erste Nähanleitung für ein Minikleid. Ihr könnt es ganz leicht nachnähen. Ich bin gespannt, wie es Euch gefällt.
-excerpt: Ich hatte ein Bisschen Zeit und so kam ich dazu, mir meinen ersten Schnitt für ein Kleid auszudenken. Ich mag es sehr und möchte Euch daher gerne zeigen, wie es entstanden ist.
+description: Heute zeige ich Euch meine erste Nähanleitung für ein Minikleid. Ihr
+  könnt es ganz leicht nachnähen. Ich bin gespannt, wie es Euch gefällt.
+excerpt: Ich hatte ein Bisschen Zeit und so kam ich dazu, mir meinen ersten Schnitt
+  für ein Kleid auszudenken. Ich mag es sehr und möchte Euch daher gerne zeigen, wie
+  es entstanden ist.
 fileName: 2015-10---diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_10_22358342235_3db7bc9f0f_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_10_22358342235_3db7bc9f0f_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAYI/8QAKhAAAQMDAgUCBwAAAAAAAAAAAQIDBAAFEQYhBxIxYXETFBUiQUNRgcH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIRAxEAPwDmWIJb6gG1ueQcCmJw8tNwTOuiY0Jq5vOxSwptchLawhWchJUdiRtnBx2rE2yQUgAKwK0Ma7e0acKIsaUXUBpbbgxtkHmB+iu/mgC1VmTpqBcJGjBCQ5p+G8zHWy07NRh7mBIT8wVgkfnlPehtq3sMoiThEZmJZCTKbdS6h9wDc4AHLnfHepOGDt1vlpuMa3psyUQ3kuFtbDa1qCk43BRzYJBOU7ZB6HrU1jFunpr+IWZqKB9yNFwlX7Kv5U9E+dSFacUnpVpuSvlIooqpTtTw31RN05qyJJiEqTIPtXm+bAWhZHXwcEeKa+qL3JmpV6uw80UUuov/2Q==
-ogImage: null
+ogImage: 
 labels:
-  - Bigkleid
-  - Blogger
-  - diy
-  - DIY Kleid
-  - Fair Fashion & Beauty
-  - Fashion
-  - Kleid nähen
-  - Kleidung
-  - lässig
-  - Minikleid
-  - Mode
-  - modisch
-  - Nähanleitung
-  - Nähanleitung Kleid
-  - Nähblog
-  - Nähblogger
-  - Stoffe
-  - U-Boot-Ausschnitt
-  - Viskose
+- Bigkleid
+- Blogger
+- diy
+- DIY Kleid
+- Fair Fashion & Beauty
+- Fashion
+- Kleid nähen
+- Kleidung
+- lässig
+- Minikleid
+- Mode
+- modisch
+- Nähanleitung
+- Nähanleitung Kleid
+- Nähblog
+- Nähblogger
+- Stoffe
+- U-Boot-Ausschnitt
+- Viskose
 focusKeyword: Minikleid
 status: publish
 isWerbung: false
@@ -41,49 +44,40 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Nähanleitung One Size (34 - 42)
+
 ---
-
-<RemoteImage
-  alt={`Minikleid Nähanleitung`}
-  size="medium"
-  title={`Minikleid Nähanleitung`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-19-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-19-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUHAgQI/8QAKhAAAQMCBAUDBQAAAAAAAAAAAQIDBAAFBhESIQcTMVFhMnHBFSKRo9L/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAH/xAAcEQACAgIDAAAAAAAAAAAAAAABAgARAyETQVH/2gAMAwEAAhEDEQA/AFPCqHzcdxiRsIL5/K2x81PuJkFmUmbdILDZQJ7pdebOrmalKGZ7ZEb59xVW4Xp5eLHnQN2bW4r9qP5rnW23yfbJbkiM8QXiVvNr3Q5mczmPnrRKCTYjAqBTTctFjvciLzLelzlE5kIUdiQDv5yIoq7cP3AcJwZAZZW7KSX3eVuEqJ2HuEhNFbzTCg6jfh2yzDtr1wcWVzZTUhtAByAZQpGlIHfUT93nxUAbwk/ecb3O1W1xIixZLgdkn0to1nt1V1AA6kdt6udmmtxcHRVr0ApZWvUrb1vnbPscqnmBJ5i/WZxVHUZ05bhQlROkBSgMvG5qd8jJZXyNjRXoNMro0m2TFQ4zrkdplIbCW1KAIAyB9yAKKa3BEO6viRISQ5p07HqBRUyvrcoIF6n/2Q=="
-/>
-
 **Ich hatte ein Bisschen Zeit und so kam ich dazu, mir meinen ersten Schnitt für ein Kleid auszudenken. Ich mag es sehr und möchte Euch daher gerne zeigen, wie es entstanden ist.**
 
 ## Vorab ein paar kleine Anmerkungen:
 
-1.  Es handelt sich nicht um eine Profianleitung, daher wundert Euch nicht, wenn Euch das Ein oder Andere etwas "hemdsärmlig" vorkommt.
-1.  Lest Euch die Anleitung am besten vor dem Nähen einmal komplett durch, um nichts zu übersehen.
-1.  Selbstgeschneiderte Kleidungsstücke müssen nicht zu 100 % perfekt sein, ganz im Gegenteil: Kleine Planabweichungen machen sie zu echten Einzelstücken. Fühlt Euch also frei, Veränderungen vorzunehmen.
-1.  Ich habe den Schnitt frei Hand gezeichnet, es gibt keinen "richtigen" Schnittbogen. Meine Zeichnung habe ich für Euch abfotografiert, das Bild [<sup>1</sup>](#1) findet Ihr ganz unten unter dem Text. Ihr könnt es durch Anklicken vergrößern und Euch gerne mit Eurer Zeichnung danach richten.
+1. Es handelt sich nicht um eine Profianleitung, daher wundert Euch nicht, wenn Euch das Ein oder Andere etwas "hemdsärmlig" vorkommt.
+2. Lest Euch die Anleitung am besten vor dem Nähen einmal komplett durch, um nichts zu übersehen.
+3. Selbstgeschneiderte Kleidungsstücke müssen nicht zu 100 % perfekt sein, ganz im Gegenteil: Kleine Planabweichungen machen sie zu echten Einzelstücken. Fühlt Euch also frei, Veränderungen vorzunehmen.
+4. Ich habe den Schnitt frei Hand gezeichnet, es gibt keinen "richtigen" Schnittbogen. Meine Zeichnung habe ich für Euch abfotografiert, das Bild [<sup>1</sup>](#1) findet Ihr ganz unten unter dem Text. Ihr könnt es durch Anklicken vergrößern und Euch gerne mit Eurer Zeichnung danach richten.
 
 <RemoteImage
-  alt={`Stecknadeln und Schneiderkreide`}
-  size="medium"
-  title={`Stecknadeln und Schneiderkreide`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_22170621608_7ef814e580_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_22170621608_7ef814e580_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAcI/8QAJxAAAgEDAwIGAwAAAAAAAAAAAQIDAAQRBRIhBgciMVFSYaIyQpH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAAH/xAAdEQACAwACAwAAAAAAAAAAAAAAAQIDBTFRkaHh/9oADAMBAAIRAxEAPwCnpnczp/J3adqkaqMr4IvH9+KeQ91+nkEYOm6tyOdqxHb9+a51sZ4mGRgeg9KarcLsOOUPmoPFDxy6IcL2MPQunyzc7/ur05naunas65ILCKPy9fzpNqfX/TEu4G8vbdva9o+P6uax2S7hHLq6H3Bs0tvp1ZWMTI6n9TWTyaLO/Pwo6V0OhTBMykYq/FeSDPzRRSrQamQnunYEEUruDkkjg/FFFSRSZ//Z"
+alt={`Stecknadeln und Schneiderkreide`}
+size="medium"
+title={`Stecknadeln und Schneiderkreide`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_22170621608_7ef814e580_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_22170621608_7ef814e580_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAcI/8QAJxAAAgEDAwIGAwAAAAAAAAAAAQIDAAQRBRIhBgciMVFSYaIyQpH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAAH/xAAdEQACAwACAwAAAAAAAAAAAAAAAQIDBTFRkaHh/9oADAMBAAIRAxEAPwCnpnczp/J3adqkaqMr4IvH9+KeQ91+nkEYOm6tyOdqxHb9+a51sZ4mGRgeg9KarcLsOOUPmoPFDxy6IcL2MPQunyzc7/ur05naunas65ILCKPy9fzpNqfX/TEu4G8vbdva9o+P6uax2S7hHLq6H3Bs0tvp1ZWMTI6n9TWTyaLO/Pwo6V0OhTBMykYq/FeSDPzRRSrQamQnunYEEUruDkkjg/FFFSRSZ//Z"
 />
 
 ## Das braucht Ihr für Euer Minikleid
 
-- Stoff - Ich habe Viskose verwendet, die fühlt sich wunderbar kühl auf der Haut an und sorgt bei fertigen Kleid für eine tolle, fließende Optik. Ihr könnt aber genauso auch Baumwollpiqué oder Euren Lieblings-T-Shirt-Stoff verwenden. Der Stoff, den ich gekauft habe, war 1,50 m breit, ich habe einen Meter bei der Buttinette [<sup>2</sup>](#2) bestellt.
-- Nähgarn - Das wird Euch beim Bestellen gleich passend zum Stoff angeboten.
-- Seidenpapier - Im Bastelbedarf oder gleich mitbestellen
-- Stift
-- Schneiderkreide
-- Stecknadeln
-- Papierschere
-- Stoffschere
-- Maßband
-- Nähmaschine - Wenn Ihr wie ich einen fließenden Stoff habt, stellt die Fadenspannung nicht zu stark ein, testet das am besten vorher an einem Probestück, bei mir hat z. B. Stufe 5 statt wie bei festeren Stoffen 6 - 8 gereicht.
-- ca. 2 Stunden Zeit
-- Lust auf ein schickes, neues Kleid
+* Stoff - Ich habe Viskose verwendet, die fühlt sich wunderbar kühl auf der Haut an und sorgt bei fertigen Kleid für eine tolle, fließende Optik. Ihr könnt aber genauso auch Baumwollpiqué oder Euren Lieblings-T-Shirt-Stoff verwenden. Der Stoff, den ich gekauft habe, war 1,50 m breit, ich habe einen Meter bei der Buttinette [<sup>2</sup>](#2) bestellt.
+* Nähgarn - Das wird Euch beim Bestellen gleich passend zum Stoff angeboten.
+* Seidenpapier - Im Bastelbedarf oder gleich mitbestellen
+* Stift
+* Schneiderkreide
+* Stecknadeln
+* Papierschere
+* Stoffschere
+* Maßband
+* Nähmaschine - Wenn Ihr wie ich einen fließenden Stoff habt, stellt die Fadenspannung nicht zu stark ein, testet das am besten vorher an einem Probestück, bei mir hat z. B. Stufe 5 statt wie bei festeren Stoffen 6 - 8 gereicht.
+* ca. 2 Stunden Zeit
+* Lust auf ein schickes, neues Kleid
 
 ## So entsteht Euer neues Lieblingskleid
 
@@ -92,31 +86,31 @@ Als Erstes zeichnet Ihr den Schnitt auf das Seidenpapier. Die Länge sollte ca.
 Schneidet Euer Schnittmuster mit der Papierschere aus und legt es auf den doppelt vor Euch ausgebreiteten Stoff. Übertragt die Umrisse mit der Schneiderkreide. Wenn alle Linien stimmen, hebt Ihr das Papier ab und schneidet das Kleid vorsichtig im Abstand von ca. 1,5 cm dazu (Nahtzugabe) durch beide Stofflagen zu. Die Vorderseite entspricht genau der Rückseite, so entsteht der elegante U-Boot-Ausschnitt.
 
 <Gallery
-  images={[
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2015_10_21735567414_4355a176ac_z__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2015_10_21735567414_4355a176ac_z__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2015_10_22170306960_c1091df515_z__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2015_10_22170306960_c1091df515_z__l.jpg',
-    },
-  ]}
+images={\[
+{
+mediumUrl:
+'https://storage.googleapis.com/cardamonchai-images/2015_10_21735567414_4355a176ac_z__m.jpg',
+largeUrl:
+'https://storage.googleapis.com/cardamonchai-images/2015_10_21735567414_4355a176ac_z__l.jpg',
+},
+{
+mediumUrl:
+'https://storage.googleapis.com/cardamonchai-images/2015_10_22170306960_c1091df515_z__m.jpg',
+largeUrl:
+'https://storage.googleapis.com/cardamonchai-images/2015_10_22170306960_c1091df515_z__l.jpg',
+},
+\]}
 />
 
 Stellt nun Eure Nähmaschine auf einen größeren Zickzackstich, Profinähmaschinen auf den Saumstich. Umsäumt alle Ränder feinsäuberlich und verriegelt dabei Eure Nähte (An den Anfängen und Enden jeweils ein paar Stiche vor und zurück nähen).
 
 <RemoteImage
-  alt={`Hier kommen die Säume hin`}
-  size="medium"
-  title={` Hier kommen die Säume hin`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21735559864_4129d12356_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21735559864_4129d12356_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwUGCAME/8QALhAAAgECBQEGBQUAAAAAAAAAAQIDBBEABQYSIQcTIjEyUYEUcZGhsSMlQWGS/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBf/EAB4RAAICAgIDAAAAAAAAAAAAAAEDAAIREiJBMVGR/9oADAMBAAIRAxEAPwAr0P06qdfZvmFV2hipKeQRAFWs9l55ANgNv38eMMWmNFaMptNGmzzJkml3742jpldlXaBbcTfk3PsMQXR2pqcv0jSFKmaL4gNM6xuVDBmYgfQ2xZ3r5Hm8oEY4AA8BjKY2wOo6mnRYI2Pc5VGkdM1n7flOUU0VDIiKVlpwt5LnvE+45wa9Quk1VoiWjzuiQGhFR2M6RyM4RSPNyLgAE+v2OGqlf9JHjdRb1Xm/1xBdRJy2nczerlkdfhJWLO7G3cPqTh0YfsLUHn1C3pVnJn01DTlu/Tu0DcX7vmXj5Ej2xe46yGORd0wBPFgwF/mMZ00dnpyPMy7lvhZl2ShfEejAeo/BONJaX1xpeXKKILUrJPDTLHIRRGVd22xJswPjzyMUcnlmTS3NcT0yZzAibVqxc+I3f3+MHnVzPli0tLTw745aqTsCu5uF4ZiL+INh/rCVmXUTR9Pl88JrKRXaJkUvl6qfJbltxJN+b/nGZNb5+ud1dMkDM1PTR7QzE95z5m5/jgD2w0p5AmDmgVIn/9k="
+alt={`Hier kommen die Säume hin`}
+size="medium"
+title={`Hier kommen die Säume hin`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21735559864_4129d12356_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21735559864_4129d12356_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwUGCAME/8QALhAAAgECBQEGBQUAAAAAAAAAAQIDBBEABQYSIQcTIjEyUYEUcZGhsSMlQWGS/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBf/EAB4RAAICAgIDAAAAAAAAAAAAAAEDAAIREiJBMVGR/9oADAMBAAIRAxEAPwAr0P06qdfZvmFV2hipKeQRAFWs9l55ANgNv38eMMWmNFaMptNGmzzJkml3742jpldlXaBbcTfk3PsMQXR2pqcv0jSFKmaL4gNM6xuVDBmYgfQ2xZ3r5Hm8oEY4AA8BjKY2wOo6mnRYI2Pc5VGkdM1n7flOUU0VDIiKVlpwt5LnvE+45wa9Quk1VoiWjzuiQGhFR2M6RyM4RSPNyLgAE+v2OGqlf9JHjdRb1Xm/1xBdRJy2nczerlkdfhJWLO7G3cPqTh0YfsLUHn1C3pVnJn01DTlu/Tu0DcX7vmXj5Ej2xe46yGORd0wBPFgwF/mMZ00dnpyPMy7lvhZl2ShfEejAeo/BONJaX1xpeXKKILUrJPDTLHIRRGVd22xJswPjzyMUcnlmTS3NcT0yZzAibVqxc+I3f3+MHnVzPli0tLTw745aqTsCu5uF4ZiL+INh/rCVmXUTR9Pl88JrKRXaJkUvl6qfJbltxJN+b/nGZNb5+ud1dMkDM1PTR7QzE95z5m5/jgD2w0p5AmDmgVIn/9k="
 />
 
 Im nächsten Schritt werden die Säume umgenäht. Dazu faltet Ihr den Halsausschnitt und die Armlöcher sowie den unteren Saum (siehe Markierungen in der Zeichnung) je zwei mal ca. 0,75 cm nach innen um, steckt sie fest und näht sie anschließend mit je zwei Nähten in einem feinen Steppstich fest.
@@ -126,12 +120,12 @@ Theoretisch könnt Ihr das natürlich auch im Zickzack-Stich mit einem kontrastf
 Beim Feststecken des unteren Saumes fangt Ihr am besten in der Mitte an und arbeitet Euch zu den Seiten vor, dann kommt Ihr mit der Rundung besser klar und es verzieht sich nichts. Richtet Euch ungefähr nach den eingezeichneten Markierungen in meinem Foto, am besten übertragt Ihr Euch die mit der Schneiderkreide auf den Stoff.
 
 <RemoteImage
-  alt={`Das Stoffstück mit der Kreidezeichnung sollte obenauf liegen`}
-  size="medium"
-  title={`Das Stoffstück mit der Kreidezeichnung sollte obenauf liegen`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_22369023911_661039e377_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_22369023911_661039e377_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QALBAAAQMDAgMHBQEAAAAAAAAAAQIDBAAFERIxBhMhBxQiI1OBkUFDUVLBYf/EABUBAQEAAAAAAAAAAAAAAAAAAAQD/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQIAAyEEERJB/9oADAMBAAIRAxEAPwDKuIL1NtkkWS0FyCiKlLbjyca3fCMYP0TgjbqaTpYU4Q48++6/6i3FKV8k1Hn3dy6XmZOfRy3XnCdH6AeEJ9gAK6NPkq6mjVIEUZv2LtsLsdz5Htv4iv1uTy4l1khv03TzUfC84rRezXipEyVOkz4TK5sZvS4iOCnU0sjzEAkgEEYI26jbNZI5ITjJUBird2dQpUaVKvU9sRrWY6oza3laO8KWU40jcgY3/OKjyVUJ6GGV4zMWCnRE7PC8O+SlvpceiSFnKighSCcb6SP7ShFlcTe3rd3pOW/u8rf21f2iioJc4Yr3gETZQhAbrSZfbZwRAgx2ptycduChhaWujbe+yh1JHvU/iW6P3IISSGXGsKZW2B5f+YIwR0HQjBxRRREsaxvTnsiMapK18qOhP//Z"
+alt={`Das Stoffstück mit der Kreidezeichnung sollte obenauf liegen`}
+size="medium"
+title={`Das Stoffstück mit der Kreidezeichnung sollte obenauf liegen`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_22369023911_661039e377_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_22369023911_661039e377_z__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QALBAAAQMDAgMHBQEAAAAAAAAAAQIDBAAFERIxBhMhBxQiI1OBkUFDUVLBYf/EABUBAQEAAAAAAAAAAAAAAAAAAAQD/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQIAAyEEERJB/9oADAMBAAIRAxEAPwDKuIL1NtkkWS0FyCiKlLbjyca3fCMYP0TgjbqaTpYU4Q48++6/6i3FKV8k1Hn3dy6XmZOfRy3XnCdH6AeEJ9gAK6NPkq6mjVIEUZv2LtsLsdz5Htv4iv1uTy4l1khv03TzUfC84rRezXipEyVOkz4TK5sZvS4iOCnU0sjzEAkgEEYI26jbNZI5ITjJUBird2dQpUaVKvU9sRrWY6oza3laO8KWU40jcgY3/OKjyVUJ6GGV4zMWCnRE7PC8O+SlvpceiSFnKighSCcb6SP7ShFlcTe3rd3pOW/u8rf21f2iioJc4Yr3gETZQhAbrSZfbZwRAgx2ptycduChhaWujbe+yh1JHvU/iW6P3IISSGXGsKZW2B5f+YIwR0HQjBxRRREsaxvTnsiMapK18qOhP//Z"
 />
 
 Wenn Eure Säume fertig sind, legt Ihr die beiden Teile wieder rechts auf rechts übereinander und steckt sie feinsäuberlich zusammen. Achtet dabei darauf, dass jeweils Saum auf Saum liegt und nichts übersteht. Das Stoffstück mit Eurer Kreidezeichnung sollte obenauf liegen.
@@ -142,21 +136,10 @@ Nun schließt Ihr die Nähte entlang Eurer jetzt noch sichtbaren, eingezeichnet
 
 Jetzt müsst Ihr Euer Meisterwerk nur noch wenden und anprobieren. Das Minikleid passt wunderbar zu Leggings in Lederoptik, Skinny Jeans oder Strumpfhosen und lässt sich auch prima mit einem schönen Gürtel kombinieren. Im Winter könnt Ihr gut einen Langarm-Body darunter tragen, am besten Ton-in-Ton oder je nachdem, welche Farbe Euer Stoff hat, auch in Komplementär-Farben.
 
-Ich wünsche Euch viel Spaß beim Nähen und beim Tragen Eures neuen Minikleides! Schickt mal ein Bild, wenn es fertig ist, ich bin gepannt! &lt;3
+Ich wünsche Euch viel Spaß beim Nähen und beim Tragen Eures neuen Minikleides! Schickt mal ein Bild, wenn es fertig ist, ich bin gepannt! <3
 
-### Fußnoten
+![Das "Schnittmuster"](/img/minikleid-nahanleitung-17jpg_22332294726_o.jpg 'Das "Schnittmuster"')
 
-- [1] Der "Schnittbogen"
-
-<RemoteImage
-  alt={`Mein &quot;Schnittbogen&quot; - zum Vergrößern bitte anklicken!`}
-  size="large"
-  title={` Mein "Schnittbogen" - zum Vergrößern bitte anklicken!`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-17__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-17__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcI/8QALRAAAgECBAIJBQEAAAAAAAAAAQIDBBEABQYSITEHEyJBYXGRocEjUWKB4bH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwYB/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAAwQREhMhIjH/2gAMAwEAAhEDEQA/ACOi8mbqoaOliG1QFZrcv7i1ab0mtFTG5YykXO03I+MG+jGljFPG116x3Kg29PjFKgrhTwSybiYmjALbtu29+/8AXtiXsc22cT+SiA6k2IbqcoZZfqJNtJ7LOSP57YK6myYRg32Mjg27NvMenziq18yTUUKgMBEwUEsrXG3wPhglqRUamF24BxzH6+cZrrbww1bsXZkt0TnSxyRgSMDdWPaPEg2PtbFTp61rErNKL8ypPHGaspzKKnZWNSFZTw44e5XrTL4UXewd7c2cEDDsjFYtySKpvXWmljNZeIiSZmF+9hzwZ1LmkaRbQSxQ7mA4nlw97+mCU3SBQiNhC8G783A2+d/8GB+c6qjqTJerjkDm5A+45YGrFsY/Qhveijyf/9k="
-/>
-
-- [2] Die  [Buttinette](https://basteln-de.buttinette.com/shop/start)
+* \[2\] Die  [Buttinette](https://basteln-de.buttinette.com/shop/start)
 
 Meine Schritt-für-Schritt-Anleitung für ein wärmendes Körnerkissen [findet Ihr hier](/2015/09/diy-koernerkissen-naehanleitung/).
