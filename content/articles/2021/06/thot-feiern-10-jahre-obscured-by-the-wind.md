@@ -48,7 +48,7 @@ Grégoire selbst kommentiert die Aufnahme so:
 
 ## Interview mit Thot Gründer Grégoire
 
-[Mein großes Interview mit Thot Gründer Grégoire könnt Ihr hier lesen](http://cardamonchai.com/2021/04/thot-interview/). Wir haben uns unter anderem über die Post-Rock Szene in Belgien, die Meilensteine der Bandgeschichte und die Held⋆innen seiner Jugend unterhalten. Außerdem hat er mir verraten, [welches Thot Album ihm am besten gefällt](http://cardamonchai.com/2021/04/thot-interview/).
+[Mein großes Interview mit Thot Gründer Grégoire könnt Ihr hier lesen](/2021/04/thot-interview/). Wir haben uns unter anderem über die Post-Rock Szene in Belgien, die Meilensteine der Bandgeschichte und die Held⋆innen seiner Jugend unterhalten. Außerdem hat er mir verraten, [welches Thot Album ihm am besten gefällt](/2021/04/thot-interview/).
 
 Das legendäre Werk "Obscured By The Wind" gibt es zur Feier des Jubiläums in einer exklusiven Vinyl-Edition.
 
