@@ -7,7 +7,7 @@ labels:
 - Bands
 - Underground
 - Moskow
-- interviews
+- Interviews
 - English & German
 language: en
 slug: smycka-interview-en

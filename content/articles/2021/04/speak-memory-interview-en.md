@@ -6,34 +6,29 @@ typeName: Beitrag
 title: '"Adirondack"'
 subTitle: Speak, Memory guitarist Tim about their new EP
 seoTitle: Speak, Memory guitarist Tim about their new EP "Adirondack"
-description: I've talked to Speak, Memory guitarist Tim about their upcoming album
-  "Adirondack" and the band's history. The band from Oklahoma City is planning to
-  release it early this May.
-excerpt: Speak, Memory describe themselves as "Somewhere between the limitless world
-  building of early Explosions in the Sky and the mathy noodling of American Football".
-  Sounds pretty exciting, doesn't it? The band from Oklahoma City is planning to release
-  their new EP soon. Time for an interview!
-image: "/img/speak-memory-3-.jpg"
-ogImage: "/img/speak-memory-fb.png"
+description: I've talked to Speak, Memory guitarist Tim about their upcoming album "Adirondack" and the band's history. The band from Oklahoma City is planning to release it early this May.
+excerpt: Speak, Memory describe themselves as "Somewhere between the limitless world building of early Explosions in the Sky and the mathy noodling of American Football". Sounds pretty exciting, doesn't it? The band from Oklahoma City is planning to release their new EP soon. Time for an interview!
+image: '/img/speak-memory-3-.jpg'
+ogImage: '/img/speak-memory-fb.png'
 labels:
-- Adirondack
-- Bands
-- Bartees Strange Bartees Strange
-- Emo
-- Math-Rock
-- Mathcore Mathcore
-- Post-Rock
-- Speak Memory
-- English & German
-- Interview
-- interviews
+  - Adirondack
+  - Bands
+  - Bartees Strange Bartees Strange
+  - Emo
+  - Math-Rock
+  - Mathcore Mathcore
+  - Post-Rock
+  - Speak Memory
+  - English & German
+  - Interview
+  - Interviews
 focusKeyword: Speak Memory
 advertisement: false
 affiliate: false
 language: en
-languageLink: "/2021/04/speak-memory-interview"
-
+languageLink: '/2021/04/speak-memory-interview'
 ---
+
 **Speak, Memory describe themselves as "Somewhere between the limitless world building of early Explosions in the Sky and the mathy noodling of American Football". Sounds pretty exciting, doesn't it? The band from Oklahoma City is planning to release their new EP soon. Time for an interview!**
 
 With their songs, Speak, Memory want to send their listeners on a journey that is as spiritual as it is grounded in reality. I talked to guitarist Tim about the new EP "Adirondack" and the band's development. The interview turned out into a highly sympathetic and exciting conversation that we will surely continue someday.

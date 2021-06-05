@@ -24,7 +24,7 @@ labels:
 - Speak Memory
 - English & German
 - Interview
-- interviews
+- Interviews
 - English & German
 focusKeyword: Speak Memory
 advertisement: false
