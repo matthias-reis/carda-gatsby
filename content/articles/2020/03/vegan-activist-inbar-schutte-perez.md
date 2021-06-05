@@ -45,7 +45,7 @@ Besides being a full-time mom, I dedicate endless time to activism. Every demo a
 
 Nowadays I am involved in a new project: We (I am part of a wonderful team!) are building a new street activism organisation that will revolutionise the way we do what we do. We put our hearts and souls into this project - and many hours.
 
-For living, I work in Germany's first vegan cooking school, the beautiful "Kurkuma" cooking school in Eimsbüttel. I work there for years already and offer the Israeli Cooking Evening\[^1\]. They are super popular, and I am very proud and honored to be working there.
+For living, I work in Germany's first vegan cooking school, the beautiful "Kurkuma" cooking school in Eimsbüttel. I work there for years already and offer the Israeli Cooking Evening[^1]. They are super popular, and I am very proud and honored to be working there.
 
 **Anne:** In Hamburg you are known as a very active vegan activist. How long have you been living vegan now?
 
@@ -64,7 +64,7 @@ loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAgCAYAAAAIXrg4A
 
 **Anne:** This is something we have in common. I feel the same way about that. What came first - activism or the change to your vegan life?
 
-**Inbar:** I guess it depends on what you call activism. I did volunteer with homeless people before going vegan at Hamburg's Mitternachtsbus\[^2\]. It was one of those very hard and very fulfilling activities.
+**Inbar:** I guess it depends on what you call activism. I did volunteer with homeless people before going vegan at Hamburg's Mitternachtsbus[^2]. It was one of those very hard and very fulfilling activities.
 
 I had to stop with the Mitternachtsbus once I became pregnant. When the time was right I knew I wanted to do a different kind of activism, and knew it has to be with animal rights.
 
