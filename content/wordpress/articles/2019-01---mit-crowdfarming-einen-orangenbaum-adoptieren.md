@@ -57,7 +57,6 @@ Llums Orangen werden gemäß den Richtlinien der ökologischen Landwirtschaft an
 <RemoteImage
   alt={`Orangen`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_organenbaum__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_organenbaum__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAFBAj/xAAoEAACAQQCAQQABwAAAAAAAAABAgQDBREhABIxBgcTQRciQmFxoeH/xAAZAQABBQAAAAAAAAAAAAAAAAAEAAECAwX/xAAeEQABBAMAAwAAAAAAAAAAAAACAAEDEQQhMQUyQf/aAAwDAQACEQMRAD8AeFg06tNnpNTqKuclGDAftkHhzV9yLDUmVodvoTJMlOyqfhIQsPonyP58b3jhD6RsXqW1Wq+wZUmnQizBRAoqzdXZGPXLY0MHxnZO/HMeyG/VnlIjN8RdlcsBhFC6+M52c6wDvlE/lJisY3qkKOEA+202/ilaaURGr2+rTmdS1SM1ZM0x+nJGfP2AMg63xQsyRrrbIs+E6VY0imKiOpyCD/uueIZNavGo3GnNc1JlUIjFGH5T2ycH7GB/fGL259aTLTDtcON6pt8eDHoIhikI/Ynbr1wAG7EnIOt5znko8+YdyPbJFhxvzS37eqitKwo1SX65n31FFQEKMlkzrznPLlzDDrI/4y6vTVptzTqXaBEOKRO6K+d78cRICrHtgWOBSX4kOEHXZO/HLlwkup4+uv/Z"

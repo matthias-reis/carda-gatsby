@@ -92,7 +92,6 @@ Weil sie das neunfache ihres Eigengewichts an Feuchtigkeit speichern können, si
 <RemoteImage
   alt={`Kräuterkontor`}
   size="medium"
-  title={``}
   mediumUrl="https://www.adcell.de/promotion/image/promoId/209308/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/image/promoId/209308/slotId/80259"
   loadingUrl="undefined"

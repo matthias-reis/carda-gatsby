@@ -1,41 +1,36 @@
 ---
 date: 2017-10-13T06:07:27.000+00:00
 slug: streetart-und-schrebergarten
-path: "/2017/10/streetart-und-schrebergarten/"
+path: '/2017/10/streetart-und-schrebergarten/'
 type: Artikel
 typeName: Kurzgeschichte
 title: Streetart und Schrebergarten
-seoTitle: Streetart und Schrebergarten - Die Unbeschwerte auf der Laubentür - Eine
-  Kurzgeschichte
-ogTitle: Streetart und Schrebergarten - Die Unbeschwerte auf der Laubentür - Eine
-  Kurzgeschichte
-description: Mit Björn von Gartenbaukunst teile ich nicht nur die Liebe für Gärten.
-  Auch Streetart fasziniert uns beide gleichermaßen. Er hat beides geschickt verbunden.
-excerpt: Mit Björn von Gartenbaukunst teile ich nicht nur die Liebe für tolle Gärten.
-  Auch Streetart fasziniert uns beide gleichermaßen. Ihm gelang es jetzt, beides miteinander
-  zu verbinden.
+seoTitle: Streetart und Schrebergarten - Die Unbeschwerte auf der Laubentür - Eine Kurzgeschichte
+ogTitle: Streetart und Schrebergarten - Die Unbeschwerte auf der Laubentür - Eine Kurzgeschichte
+description: Mit Björn von Gartenbaukunst teile ich nicht nur die Liebe für Gärten. Auch Streetart fasziniert uns beide gleichermaßen. Er hat beides geschickt verbunden.
+excerpt: Mit Björn von Gartenbaukunst teile ich nicht nur die Liebe für tolle Gärten. Auch Streetart fasziniert uns beide gleichermaßen. Ihm gelang es jetzt, beides miteinander zu verbinden.
 fileName: 2017-10---streetart-und-schrebergarten.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_C292D52E-5864-4FAA-8128-E10189A06778__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_C292D52E-5864-4FAA-8128-E10189A06778__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBAb/xAAsEAACAQMCBQIFBQAAAAAAAAABAgMABBEFBgcSEyExFEEIFSJR8BZxgbHh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAL/xAAiEQABAwIGAwAAAAAAAAAAAAABAAIDBBESEyEzYbFBUYH/2gAMAwEAAhEDEQA/AMXAq3Rdu7nhj5QnzOAc2CQMQv7efc0ybO1W+F4wv7OSJYQzyXVsI1jj++ccvbv3IBGPNLz4d72TUNu63dzJEkj6ra5Ea8qjEBHj+Kbm7NR0/b+i3d3dzQ2ts8qGc9Lq/SzAMemAS2R2wB5P7mopZ3wue0cdI0tLTzueZQS7S1jYD3ceUreN94y7Emyzxy+ttYwWAXwXYEYOCMLkGpzYFjkHm+/1ZqhuOkgfYVjexlFefUbYAKMrydGd1xkZ8EVP0rOztmZWx4/MUeA3bfk9lKpmhsQATc4K6v8AIp32+LdbiO+n9SZicFSiMuOXBBBH4abG57Ftw6gQtw9rHa6VMlumA4jlmbpmXHYErGCqg+Cc+1FFDhmfmHVGxnMIXJ8fpV/SVnhXSNtYACo2CALeUAZwf6qeLghYJGBbABOCf8oopVLtj72UqDbC/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_10_C292D52E-5864-4FAA-8128-E10189A06778__l.jpg
 labels:
-- Achtsamkeit
-- Datsche
-- Gärtchen
-- Gärten
-- Gartenbaukunst
-- Geschichten & Erlebtes
-- Graffiti
-- Hamburg
-- Hamburg
-- Laube
-- Nächstenliebe
-- Schrebergarten
-- Seneca
-- Stencil
-- Streetart
-- Kunst
+  - Achtsamkeit
+  - Datsche
+  - Gärtchen
+  - Gärten
+  - Gartenbaukunst
+  - Geschichten & Erlebtes
+  - Graffiti
+  - Hamburg
+  - Hamburg
+  - Laube
+  - Nächstenliebe
+  - Schrebergarten
+  - Seneca
+  - Stencil
+  - Streetart
+  - Kunst
 focusKeyword: Streetart
 status: publish
 isWerbung: false
@@ -43,8 +38,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Die Unbeschwerte auf der Laubentür
-
 ---
+
 **Mit Björn vom Blog _Gartenbaukunst_ \* teile ich nicht nur die Liebe für tolle Gärten. Auch Streetart fasziniert uns beide gleichermaßen. Ihm gelang jetzt der Geniestreich, beides miteinander zu verbinden.**
 
 Die Idee dafür kam ihm, als er in einem Gartenbauverein eine Hütte entdeckte, die mit Graffitikunst verziert war. Seine Laube brauchte gerade einen frischen Anstrich und so machte er sich auf die Suche nach Künstler/innen, die sich ihrer annehmen würden.
@@ -72,7 +67,6 @@ Björn ist von Streetart begeistert, seit er das erste Mal welche gesehen hat. S
 <RemoteImage
   alt={`Streetart`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_C292D52E-5864-4FAA-8128-E10189A06778__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_C292D52E-5864-4FAA-8128-E10189A06778__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBAb/xAAsEAACAQMCBQIFBQAAAAAAAAABAgMABBEFBgcSEyExFEEIFSJR8BZxgbHh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAL/xAAiEQABAwIGAwAAAAAAAAAAAAABAAIDBBESEyEzYbFBUYH/2gAMAwEAAhEDEQA/AMXAq3Rdu7nhj5QnzOAc2CQMQv7efc0ybO1W+F4wv7OSJYQzyXVsI1jj++ccvbv3IBGPNLz4d72TUNu63dzJEkj6ra5Ea8qjEBHj+Kbm7NR0/b+i3d3dzQ2ts8qGc9Lq/SzAMemAS2R2wB5P7mopZ3wue0cdI0tLTzueZQS7S1jYD3ceUreN94y7Emyzxy+ttYwWAXwXYEYOCMLkGpzYFjkHm+/1ZqhuOkgfYVjexlFefUbYAKMrydGd1xkZ8EVP0rOztmZWx4/MUeA3bfk9lKpmhsQATc4K6v8AIp32+LdbiO+n9SZicFSiMuOXBBBH4abG57Ftw6gQtw9rHa6VMlumA4jlmbpmXHYErGCqg+Cc+1FFDhmfmHVGxnMIXJ8fpV/SVnhXSNtYACo2CALeUAZwf6qeLghYJGBbABOCf8oopVLtj72UqDbC/9k="
@@ -135,7 +129,6 @@ Im Laubengang auf dem Geländer sitzt eine Meise. Das Mädchen lächelt. Sie den
 <RemoteImage
   alt={`Streetart`}
   size="full"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_werkzeuge__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_werkzeuge__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAARACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAFBwj/xAAwEAACAQMDAgQBDQAAAAAAAAABAgMEBREABhITISIxQXQHFBU0NTY4YXWys7TBwv/EABcBAAMBAAAAAAAAAAAAAAAAAAIEBQH/xAAlEQABAwEHBQEAAAAAAAAAAAABAAIDcQQRMTIzQcESIlGx8ML/2gAMAwEAAhEDEQA/ABNsv0VFFWfPs0jLLSg0MpRJJYpmPgkSNmCsDhlJPl2Olxu1pa0w3S5wUsdXJTRpVJXxhjXcQwj4soEcch8JIUZAUZ8s6J1Fvq5K2tvdlttTSSUxjWGEUA4qCpSSTljprgjOCPUnPbTv4b/D+XdG2q6G+C5fIaZxHQRxMjP1ApLO8g7NhiBxyB4e+isk4vdd3EYeK/bJOSMyM6cN9ifvSxd0bQt9FZbzerXVFqClkhEEiypUw1ZdgMROpBTBJOGDYAwToHLOiNyOeXZTIO/bTHdWzq/bi1kdzSDjwdKTCdeVViQyZcx4CNgeufP10OaKYUsdQXTpzxiQBWzjv3B/Ef3pO0xuab24LSxzQF6Y2H9SVPvp/wBS6S2/7Pbd9037jatWplgzS0HKoHWNeVyfcv0W9/mtT/E1hVP3eNke/wD9Pq1arz6AoeEbsstR+l//2Q=="

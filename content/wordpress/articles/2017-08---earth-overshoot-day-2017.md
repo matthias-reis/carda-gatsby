@@ -40,7 +40,6 @@ Das ist, als würde man sein komplettes Gehalt, das man innerhalb eines Jahres v
 <RemoteImage
   alt={`Earth Overshoot Day`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_EOD_GRADIENT_LOGO.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_EOD_GRADIENT_LOGO.png__l.jpg"
   loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAHCAYAAABp0096AAAACXBIWXMAAC4jAAAuIwF4pT92AAAC3klEQVQokVVT30vTURS//kh6CC0sEMN+W3nPmpm5pkaW30Vze42SjB6ilyBS7pkJWibo1LnmZtqGW5sj/dqW37lNdw8EEhUk5EuR5VME0R9i3LkeevjAuVw453M+5/NhHd4Mc3gzN+0B48/V6eS2FlpY0yJztVo4zs4nx1iz7t9n1SdDjcbo4QbDvWZOD22YsgPhxtQog1wvA4mVnESKkzAD4QNOogdIuLkU3UDYCYRuTmI/SMGAcBcQFnOpIEpAYilzerJ3Hd5M1B4wpm0ziWEtqPvaI7Hs5ZdRy6VYmGnBxTKr7tu2JD1fzKmRQ+b0IDOt9N+HXN8GrPaxupyrGCQ6OIkaLkUrENYC4UGuBkrcDVJcAEIGJBgnRUKwwp8ixJhzfPVnx7P0gj1gbNlmEuO2oL7VHp5LtUUj2/VL7pKW+efMqvs+NiU9n88a7msNS2MMco/U9rMgXXdAulSzk5xEhWrMJVZzKWo44TEgrASJVUBYzmW+Pg6EVVyKo5zwNBBqzDmWy3b4loftfkPaXiQu2kILm9ps/F5bNPK7NR58v0NgkjUlPXlwEmVqC5CuWyBx8MxqvyLwnZOYAsIUEEaAMA4k3gHhHJBYBsJXQJjhUhhA+AYIl4BwFgg9zDm+8svxLD1hDxhf1QlswcX1K5FY+kok5m+eD2itr6Y/tcwHmCUxwa57DXbutZ8p6SHXGwXp6iooUFeQtAgIS4HwBBBWg8T9XApTvibcC5RX4ACXopZLrFCeUB647ZjIeO0Bw311JpHQgnpPeySmX34ZPX0xHmQt81Meqz75wWKM7GlccjNT9jGDlf5uWO1bV0RMbx8qAnZOYh+XohEI1cAj/26cv3feA4X3f35AxgopuGEPGD8KKcho4fgplQJbaKGoWfcz66LPaUlObDQY7m/m9NCmKTsQqs88ZXwnBeWcxBwn0cUJnwCJTi6FVRHgEneBxBJOolhBJWAH+bdSq+gvZV13elbbKy8AAAAASUVORK5CYII="
@@ -61,7 +60,6 @@ Das _Global Footprint Network_ hat ausgerechnet, wie viele Erden wir benötigen 
 <RemoteImage
   alt={`Earth Overshoot Day`}
   size="large"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_How_many_earths_2017_german__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_How_many_earths_2017_german__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABMDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQEDCP/EACkQAAECBQMDAwUAAAAAAAAAAAECAwAEERIhBRMxQVFhBhRxIiMkQmL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAZEQEBAQEBAQAAAAAAAAAAAAABABECEkH/2gAMAwEAAhEDEQA/AOktp5+cd+8+2kOGgSvFBTzFQ/q4Zm3WA3PqsWUXB/mhUK8fzF01cZxZJ+rcUElSOnbn5hakUA+sBgD8lw1CU14e61rD1suzHCb9Lf8Ac6dLPWLRegG1ZqofJgiVBAtSgSrgM0+EgAXKBoByKZMLmkM73qyYWlVdh1xZokdS4nJp579IYGNxM28pxhTab1WqK7qjGQAMV7GNelS+zNzjhl1NLccNHC5duJuJBt/XmL8h0eka2gjGfEESd//Z"
@@ -105,7 +103,6 @@ Ich möchte daher gar nicht lange darauf herumreiten, sondern nur nochmal eins z
 <RemoteImage
   alt={`Klimaschutz`}
   size="large"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_schaubild-1-800x454__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_schaubild-1-800x454__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBQEECP/EACsQAAEDAwEGBQUAAAAAAAAAAAECAwQABREGEiEiMUFRBxMUcdIVMjNEkv/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAAEF/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAwQRYcESUfH/2gAMAwEAAhEDEQA/AOjLpKS1LWhV2ETDYWWy2k4BONrJHfpU0eoU4MXF4pI5JijPv9tVWsb3AtILlzmoisAJSSuP53ETw8IBPQ7/AHpcHiTp8EEamAPf6Y98KzmyXSwqV2ONdkRivDybR5V1sw9gEx6CJCCNqfLVy/UHxrYhtPpIW5LeeSAU7K2UoycjfyBpMjeJmlippKtQrccOEkGE8Ao/xTFaNXWS8zhDts0vSShTgR5LieFJGTlSQOopxbVcfOjCfCyaxt62A5Bl2Pxg9e9Yye5oooxFYZO7ealnKhmiirkn/9k="
@@ -116,7 +113,6 @@ Wichtig ist vor allem, dass wir bewusst leben, nicht alles als gegeben hinnehmen
 <RemoteImage
   alt={`Earth Overshoot Day`}
   size="large"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Food-Infographic-EN-medium__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Food-Infographic-EN-medium__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYD/8QAKRAAAQMDBAECBwEAAAAAAAAAAgEDBAUGEQASITETUWEHFCMyQUORof/EABYBAQEBAAAAAAAAAAAAAAAAAAMBBP/EACIRAAECBgEFAAAAAAAAAAAAAAEAAgMEERIUIRUxcYGhsf/aAAwDAQACEQMRAD8AqxpsCErjp0i4m2CNGQVY6CS57ElIlTPXXvrZy3qQWEct29kUePox21TP91TVmJU6pSHILlBbjs+byZCobiU85XCE1ynfKa2pci44cJqNFo8R9toUEVkTwZJB/H6l3f51qYMuerB6WjkJkbDyi7guKTb9Mal16dSokb5smmyQpmSdQVJRHYOVT7u/TRdDvV+qSJSUqpUJ0mRBDGQdRAhRVLbwQ4yuC69NUV/WY/clDbiMpAJW5yyEF8iRERRNFxwu0sqvOirL+HEmkS6mpsUwfN48CCk4Q4U+CLb78JpcmGDaWOr4oiEsS28RG9t1+L//2Q=="

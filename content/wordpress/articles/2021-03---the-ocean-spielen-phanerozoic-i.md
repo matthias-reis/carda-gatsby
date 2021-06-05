@@ -67,7 +67,6 @@ Mit dem Kauf eines Tickets habt Ihr auch die Möglichkeit, das Konzert 48 Stunde
 <RemoteImage
   alt={`Pelagic`}
   size="full"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_pelagic__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_pelagic__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUHBv/EACgQAAIBAwMBCAMAAAAAAAAAAAECAwQREgAFIRMGIjEyQVFhcRWBsf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8AicQUyRh/KXAbj0vp4u19OpipqyOJes9uoFwwW5yI+lDNzby/vSEMVII9DfRv5avAYCpkswYMPcNfIH4IYg/BOtkt5vHZ7svUUqx7fVDY9zomEdVFVxS1VPUx54rMkqqSGYYuQRj3wARbU4cKHcLyoYgEi3F+NGNvG4NjlVytZVQZG/dXwH0AALewGgfH+6UD/9k="
@@ -88,7 +87,6 @@ On Thursday, 25 March at 8 pm CET, The Ocean will be streaming live from Pier2 i
 <RemoteImage
   alt={`The Ocean`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAApEAACAgEEAQQBBAMAAAAAAAABAgMEEQAFEiExBhNBUSIjMmKRgaHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAMBAv/EABoRAQEBAQEBAQAAAAAAAAAAAAECABEDEmH/2gAMAwEAAhEDEQA/AC3k64+wjHxnmwP9AaWOy5JEpYeO2GBrH1fYWt6fus83sLIhh93kQULgqCMAknJAwPsn41MxXa1elPSklPCOIuaUYMhGOj0OgBnP3qV2ygHdP09GEA73OLW5Vor9emzMZpwxXC/iAoyST4Hj/ul1bea129LUhjsrJGpflJEVVlzjkD9E+PvS2W3uF90Za+3xVlCtIkr/AKnHIwP4nx8n6On4giiZ3iGWkxyfOSwHjP8Af+9JpXIuqfzaeq3jutY26/TsxUYxHMt0NhXkycIoHbHyMDvz4xnUTdrR7bs8C1JZ296Z5Z3iJDg4YKmM5/Hjk9/OddZsRK5HuIHAOcEZ0gbY6h296tpTZ5ySStK4Cvyc9lSP29ddfA0ZV2V51S6Z26Hc2hrxXprRkUIGUt2T0Tk/I/zqjm+dCbZ6fo7TM0tY2XkK8Q08xfiPoDwNFzaRLPevd15edR36e7//2Q=="
@@ -113,7 +111,6 @@ The purchase of a ticket will also allow you to watch the concert on-demand for 
 <RemoteImage
   alt={`Pelagic`}
   size="full"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_pelagic__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_pelagic__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUHBv/EACgQAAIBAwMBCAMAAAAAAAAAAAECAwQREgAFIRMGIjEyQVFhcRWBsf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8AicQUyRh/KXAbj0vp4u19OpipqyOJes9uoFwwW5yI+lDNzby/vSEMVII9DfRv5avAYCpkswYMPcNfIH4IYg/BOtkt5vHZ7svUUqx7fVDY9zomEdVFVxS1VPUx54rMkqqSGYYuQRj3wARbU4cKHcLyoYgEi3F+NGNvG4NjlVytZVQZG/dXwH0AALewGgfH+6UD/9k="

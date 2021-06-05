@@ -52,7 +52,6 @@ Nach Europa wurde der Kakao mit der Eroberung des heutigen Mexico durch Hernando
 <RemoteImage
   alt={`Schokolade`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_cacao-beans-91083_1280__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_cacao-beans-91083_1280__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBwIEBf/EACkQAAIBAwMCBgIDAAAAAAAAAAECAwAEEQUhMRJhBhMiUXGBI0FScuH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMF/8QAHREBAAICAgMAAAAAAAAAAAAAAQACAxEhMRJBcf/aAAwDAQACEQMRAD8AQbGUzSHpjmBMYcSNL0Bh7c/G3atnSilkksdxHG81w5ee6YepiNlAH+4/Zpo1Dwqul6b5ySzPcxAFur0grk59HbFLdyVuIWZtpE4APArPLeXya5UOfcnsRFNeQhliFq8iqzuCerH77jOBVn6hbGS1jeIIT1AEYwPrYexP1VVojyR20MbkEBQozkknBB+c1b5lSHSo2uWdYYkAOWyWO3BP3vUMvcfWjcktZILxCymGVGAJRmyCBsM+/AzwOaT9S8K6XC7Sy35sbRiSqDDNuTkD4+M96KKSqjxAN8TLRY9J06F20ewk86Nerzrok4/qOcVzNTuta1i6e3trNpm2YsfxxDP8jzntRRVio5EYZKlcJc7n/9k="

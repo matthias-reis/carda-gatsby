@@ -76,7 +76,6 @@ _Sie schloss das Fenster wieder und begann ein paar Fotos und Unterlagen in den 
 <RemoteImage
   alt={`599460_450404824981652_1788614199_n1`}
   size="full"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_12_599460_450404824981652_1788614199_n1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_12_599460_450404824981652_1788614199_n1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAYC/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDAAQRBQYSEzEHISJBYRVRgSRCcZHC/8QAFwEBAQEBAAAAAAAAAAAAAAAABAEAAv/EABoRAQEAAgMAAAAAAAAAAAAAAAEAAlEREjH/2gAMAwEAAhEDEQA/AGi/CFQFaQN5ghhkj57YroXjsgjKyFQe4znFY9PEHbDkD6xEoP3ikH+ayfixvrRZNqC30nUZpr2aZVVrWWSIxqPUxJ8s5xj370HplqSoeziiaAxkytJ8Ae1RSMDIemuEHYd6XW1/FHRLvbFhcandyQah0+nPEULszr5FsgY9Xf8ANXj4nbXEgQ3865/d0GwPzU6ZasJ7zKeHaaSFv0ICcefJpWxj+6raxsRrtIYrbjbShuRHqbkCPnt96KKa5sDl3W7PZKxxLFLaxBY085C7En59u9SXm2dMtLTr3TwoqgniWwcgH+ffAooqmS3Ku7//2Q=="

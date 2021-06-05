@@ -40,7 +40,6 @@ month: '07'
 <RemoteImage
   alt={`Blind Date`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_16153910860_3c6733963e_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_16153910860_3c6733963e_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAHAAAAQMFAAAAAAAAAAAAAAAAAAQGBwECAwUI/8QAKhAAAQMDAwEHBQAAAAAAAAAAAQIDBAAFEQYSIUETFCIjMXGBMlFSYbH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQAD/8QAHxEAAgIBBAMAAAAAAAAAAAAAAAECAxEEBSFhMUGh/9oADAMBAAIRAxEAPwCMtNaWuUdDjsBL6MlbZdCW97gSvGE5PA4Jznn29X/a9IyJZQJTjgKjhbryRuxnrt4Jq5ibO0/pmNCs0Vm+zo42KWHhkDd4QUkZOfEnj8c1lsF51ler80WYjcOGw6wp+JIQlrwlPmJBJyeTkHpgZorW10xbXjsj0dlkkn8N+5oC1sxyDKaztJ2k7l8fodaYl4s/dipLCAhA6nhRqYYzva2xtd3aZgTApaVsJe3BOFEAhXHBAB+aa2pXbKyMLmRmlEZw48kE+3NCvcoT7Ok9vsj6wc9QpbsWU6+0692r/wBRUQR8DHFLGrrKS+FmWrhSiPLBGVDB649KKKLbYsYKtTZLMd1pNweUhxRXhaArBP2pDdm1XNxpUqUCprIG1gD+UUVk2iPk/9k="
@@ -53,7 +52,6 @@ Damit Ihr Euch etwas darunter vorstellen könnt, stelle ich Euch die Aktion kurz
 <RemoteImage
   alt={`Blind Date`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_16339546391_634f708ef3_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_16339546391_634f708ef3_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACwQAAIBAwIDBQkAAAAAAAAAAAECAwAEEQUhEhQxBkFhcbETFSIyQnKBkaL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwD/xAAfEQACAgIBBQAAAAAAAAAAAAAAAQIDBBEhEhMxYYH/2gAMAwEAAhEDEQA/AMNnsjzGmrw/PcY/k1G6zpkyai8iIzBnAiLDIYgZIHh0p1e60rXGnGJuFopS5OOgxjPrUpHq1h79012jKWyDLZQ9Mr3H7f3VLLm14BRjJSXPoZX3Zu7tpFjW0F2THxO5OG6dB+QaqaoW41VCAH7/AKfDzrXte7R6TzrcnNJJb+zUBhGylzuT5DO3jiqVqmqWkkki20aokrRucLjJAYH1FSja7FvWi08fstx6k/pUVdllDA5bfc04S5kWVH+HKrwjaiikFCnvJixPEBnbbpXCWeR3DM2SKKKyZnyf/9k="

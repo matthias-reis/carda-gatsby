@@ -42,7 +42,6 @@ Weil wir bereits relativ früh vor Ort waren, gelang es uns, im ausverkauften Ve
 <RemoteImage
   alt={`2019-11-05-refused-thrice-petrol-girls`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-05-refused-thrice-petrol-girls__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-05-refused-thrice-petrol-girls__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAIEBQYDBwj/xAAqEAACAQMDAQYHAAAAAAAAAAABAgMEESEABTESBhRBUXHBBxMiMmGBkf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAeEQEAAgIBBQAAAAAAAAAAAAABAAIDERIEEyFBUf/aAAwDAQACEQMRAD8A5mo6gQTWEKSFHBDHqBsDxg8HUrtQENV3ippneEk2XqZbW8fTGmdFQPJJEiyRRvKVVS7Wtc29cY1ed57D1NDuS7eta0sksMJVllBUO7WdccgAE3H71Lv1x2Nzdh6dyCnqVft5uUFdv9ZLSxfLieQsqK9wAeM86NYN92d6SsqInku0R6Tfk2JHsP7o0aprxM16oxlRVKRVkM1QrME+u3mRkL76vVHtke4fD+s3eo7S08O4U00yRUck0ayTAj7ssGHJAHT441riSUhRYjGc6VAJZ5VjRGLSEKoHifLT1KjtIlmyaq6k3F0blWVtRuNeKWSxZFcX6msLL+Bjn0wdGo7uUkddHDVrLD1gkm2cA8Xwci2jVDgAMPJ+T//Z"

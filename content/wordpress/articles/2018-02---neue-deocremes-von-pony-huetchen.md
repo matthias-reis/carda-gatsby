@@ -50,7 +50,6 @@ Enttäuscht wurde ich nicht, soviel ist auf jeden Fall klar. Das Besondere: Ein 
 <RemoteImage
   alt={`Pony Hütchen`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26290453788_faf376db9f_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26290453788_faf376db9f_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAApEAACAQMDAwIHAQAAAAAAAAABAgMABAUREiEGQWFRcQcTFBUjMaEy/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDBAX/xAAgEQACAgEDBQAAAAAAAAAAAAABAgARAwRxkRITFDFB/9oADAMBAAIRAxEAPwCOWEakDe2vgU34PCX2Tcx4zHXd6yabhBEX2+5/QpPxMc8V5bW9xYXExklEDtGdCrtwADqAD35q0/CnM3+Eusnift8P1YkE5hY67kKgKVYMA3njv6VF8qoT1fI2DTtmcKCOYvydD5zZKb6wOMiRVYyX/wCJTqdABoCSSfFJXU2PvcHOsV9CYzIC0cgYPHIvqjjhh/R3ro+46gtMhLPiuqrdcaL1UW3k12qXHbcTw2vI9eam/XvTy47GX9vczRT2DayCQyhGgcA6OVJ099OTS91iQyi1PImzwkCFWanG1EbyKW1xJuG9mciT5oLEk7uOf4K3LXIszGR40dz+yeTRRViBdznrC+mSddZYUJ8CsbK5Ge5ijt5pJZIY/wDCySM4X21PFFFEQn3P/9k="
@@ -67,7 +66,6 @@ Alle Deocremes von Ponyhütchen haben eine natürliche Wirkung und sind frei von
 <RemoteImage
   alt={`Pony Hütchen`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40130850192_3ea14a607a_z-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40130850192_3ea14a607a_z-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAvEAABAwMCAgYLAAAAAAAAAAABAgMEAAUREiEGMRQiMmFxgQcTFkFDUZGhorHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABwRAQEAAgIDAAAAAAAAAAAAAAEAAgMSQSExcf/aAAwDAQACEQMRAD8AjFuja0AkeVUP0ZWyBLkXNEuNHkaG2ikOthenJVyz4UkcLSYs25Roa1FId1bJ7StKSrSO84wPGqXwIiCxdLqYLDkUFpnW246XN9S98kDGflSZZA8e6hqydbsPRbvszaWyB0KMsDA6zCPrsBUR4jaS1PlpaSkJD7gAAwAAo4q/OvDUNxzFc8X25MKuNwSTuJDg/M0+JSJZjOBt4KIJ04UNJ0kH3HPlW9ZrtPh+uVAluxnZJSpxxKusVDcnvBKjseX3ooo7lHynybpHHd6I63RDjHwf7U2uKi9KfdV23HFLOOWSST+6KK2C/9k="

@@ -41,7 +41,6 @@ Vinny Peculiar (aka Alan Wilkes) wuchs im britischen Worcestershire auf. Bevor d
 <RemoteImage
   alt={`vinny-peculiar-while-you-still-can`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar-while-you-still-can.jpeg__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar-while-you-still-can.jpeg__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcCBgEDBP/EACsQAAIBAwIEBQQDAAAAAAAAAAECAwQFEQASBiExYRQiMkGBExVRYnHh8P/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBjfbYB6kOewGseBgHRWxz9h8aDcQcapa62KPwUk0Ej7UZB6vknAxqFXxvDFViD7TXK7uIoi5TYzk4ClgSBoDTUFOcgKxHtkDv/AFqBt9Pg7VOc8sqMf7poTcuL5LZ4dau0H6lQ22NUqd/PvhDjroXe+OrlaKJ6qo4eg+kjBWbxwJ59Bjb1+dAJ4mWpvVfR1FBJBDSRId0SxAlySCc8xn0jXFW0N9rHtpFaVpaOVZ2pmi2q7g5OMD31XLVfo0jQF5lb9du3r3+dH4eI02+ZpSuPbb86Ddeq66wTSzRzRwRmIqFQAAH2PmQk9NKS+8Z3eZEpDcZQqMxdU2+ZjjmcjryOP50xbpf6eWLEgkBxzwFwdUG9TUU6szRAzfkquO/f86D/2Q=="

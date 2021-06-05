@@ -39,7 +39,6 @@ Werbung\*
 <RemoteImage
   alt={`All Glamour No Guts`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_All-Glamour-No-Guts-1-von-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_All-Glamour-No-Guts-1-von-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABAcCBQb/xAAuEAACAQMDAQUHBQAAAAAAAAABAgMEBREAEiEGBxNBgZEUIjEyUWFxJmJyoeH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AYtppt+PpoPryOlMFvo68K1vln31K4JyqKzgceBYD01dWgqEXUOprfRVlKZqynSpEalTE4yGU8Nx+OfLQLvrTp/omqtUO2GGOSpXdBJTZDn9w/wB/GiOxxP0jPb5pWma31s0CMwxlMhlx6njUOoZrOITHUUVDNS0cSpTQ/H4MTnbgbRz4/TRfZLvW03WoqI1jlqap5mQfBeOD5jHpoKWbtJWgtNGlNCJ7k9PG8rSq0cKMyjgfUnOQuQMY51jrp2jdQ3SCeD2xURpO7FNHCIncDBYFh4cHjS7rbmKaBaWHejF1aRxKWViMYz/XpomeqeGKmirVDgB5TLH84yDznz0Dv6ttLV9va5y1E5t4h70RjAwpXd8w59dY3pTtJe1Ujw18BqgAsZlSYB9v8ce+R5caL6w6tSHs1tVmgnmesqIY6apPdkHYqBmGfv7oyPDOlYtRt9gYwiGNgVMmOTn76D//2Q=="
@@ -56,7 +55,6 @@ Genau das, was ich mir von einem Schmuckstück oder Accessoire wünsche. Schon l
 <RemoteImage
   alt={`All Glamour No Guts`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_All-Glamour-No-Guts-1-von-1-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_All-Glamour-No-Guts-1-von-1-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwQGCAIF/8QAKxAAAgECBgAEBgMAAAAAAAAAAQIDBBEABQYSITETFCJxB0FRYYGRCEKx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ACCl005jh8Mq6sQhvx6mIHH7xpj+NcUsWnM0oJwGioa5lhJ5ZI3FypP0DC49zgAyd66kjRm8UU1I4ZiwuDIBwo9r4YPhNq46e0nndXU+TjklrInaapl8ONVa6k27axFrA/2GAcc9SnipHaWwRBuYfX7Yxr8R5WzrVb1crHbNKQljcBNrbR+AP2Th41drLNK/TNf5eXLYnFSlMFp2WWQq6Fgzes7CBa4t2cZ01bTTQioYQlGSYdMDtI4twerYDvLc/Lw0lDTRuFVvUd197k9n/cJEVPB5FKZo45YgtiJVDA37465wI6ZqFgrRIzE7Orn54vi6ljWO2/n3wHtahq6fKMhnjokjiVF9KxqFANwflik6ozKSonqkn2MZl722IJ5B4/OI2rM6FRRGFGuZDa2JGfl80q44ohG8scSAKWAZzu28X77uftgP/9k="

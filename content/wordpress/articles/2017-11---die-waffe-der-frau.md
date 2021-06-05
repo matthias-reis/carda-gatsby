@@ -33,7 +33,6 @@ subTitle: Ein mysteriÃ¶ser Umschlag
 <RemoteImage
   alt={`Die Waffe der Frau`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_DSC01929__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_DSC01929__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAQIEB//EACkQAAEDAwMDAwUBAAAAAAAAAAECAxEABAUGEiEiMUETUYEUYZGhsfD/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAEC/8QAJBEAAQQAAwkAAAAAAAAAAAAAAQACAxEEEuETISIjMkFxkqH/2gAMAwEAAhEDEQA/AIzTGkXWWU3SV21whSSQneUqVtPUE+CZB/FXGIx9nctI226gryDPxJqW0zoFh3FNXL2YvkEdXpMrTxz2kp789wKwzj5WWk5bIDasphXpGIMc9FTt2Tr4z66pZQ9lENoedFZXWFtgkoDIMid20Sf8K8u1Rhg1fXbiEbU7oEiPHtT65wxUkheUveeZSGxA+E1x6ruUoSgMlvbtMp4n7EH3qfGU2Llm/ncLcPvkGZKGszeM2KmkPLCVgjhUQAO1Ll6juvqZKQS42lw8+ex/k0UV3EBaSY21bXOpbtSAAIge9IL/ACj76+s/uiile0ZSgj6gv//Z"
@@ -50,7 +49,6 @@ Im Grunde genommen ja doch keine so schlechte Idee und auch weniger furchteinflÃ
 <RemoteImage
   alt={`Die Waffe der Frau`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_DSC01928__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_DSC01928__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAqEAACAQQABAUEAwAAAAAAAAABAgMABAURBhITITFBQlGhFCIjYXHB4f/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAIxEBAAIBAgUFAAAAAAAAAAAAAQACEQMyEhMhkcFBYaGx8P/aAAwDAQACEQMRAD8AnWDgt3WRpHuRchxyBFUx8o5fEEd/V8VRBmGRHWzyV+Dolepbwgb35gL7VO8M6zJIkTGORjoOoBK9/Lfb9U+8PO8CLaS5xbaUn7VuLOJhIxPkwAI/g+dZgKUyYO/gYzffD++Z2BkC/Mz5PJfTlSVYW8W977en2qX8aYmGK+BsJbqWKRTI73AActs7/qnfi23u7C/To5VGZl+4izRRv21v5pKydxJ0j9TcLPICQPxhNL7dv3S9XF9LiEe/kjaWaW5aY9/X7i1i74W7bSNt72dv/lO93xDbvhooRjEEoTTTGXbMT3J8KKKG9lMMKlQckwcT8V3OQxWPLxKtwicry82+oR6iNePb5NJ9zkpZ5gGAA70UVKbUlanWws//2Q=="

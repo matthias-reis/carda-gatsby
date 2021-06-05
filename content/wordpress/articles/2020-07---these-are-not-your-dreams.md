@@ -80,7 +80,6 @@ Der Satz "These Are Not Your Dreams" ("Das sind nicht Deine Träume") fasst für
 <RemoteImage
   alt={`These Are Not Your Dreams`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_not-an-exit__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_not-an-exit__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFBgj/xAApEAACAQIFAwQCAwAAAAAAAAABAgMEEQAFBhIhEzFBImFxkRTwMoGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBP/EAB0RAAMAAwADAQAAAAAAAAAAAAECAwAEERIhMUH/2gAMAwEAAhEDEQA/AOZVS5xeUWR74o3qX6YkICqBcn9+MRaGDdUxKRcFgD94S9P0mX1Wo6iLM41ki6BWBCCfWNrC232DH7xLZqZIWGYdij+azX13DytyErFJJSsZOn/NCOVxSiP2wtZ9Q01PqeOKigjhi6HrRFKXJLm5vySQVP1g5rIAlfLGBYb2t94evU0QMcpr0ZmZG/Ml0E0P5saieOwfi8beLe2E3JIw+sJpEcM8MUbKNhIPUVI+ex433/rA3lU9IK2FqqYxRhxuaxbaL8mw74QqjONOMCYc+jp3ZQrSx0E6uwFu53c9h4xDak9EKp9OOyk1VgPQ7mg1ZGz6rop2ZupLApdNu3YFDILc3PCf7g+zMQz5yGZ1WKASEsqWLAAtwB3Pi5xf0+daeQu8uo0qJCu0NPQTMV+Df9vjDZhmcC5lUtBI88JMio4uu4EEA2PPntghN5zCN9GPWXlmcjgPM//Z"

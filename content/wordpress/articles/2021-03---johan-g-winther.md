@@ -118,7 +118,6 @@ Auf "The Rupturing Sowle" habe ich versucht, diese Technik auf subtile Art einzu
 <RemoteImage
   alt={`Johan G. Winter`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_johan-g-winter-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_johan-g-winter-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEDBgcECAn/xAAlEAACAgECBgIDAAAAAAAAAAABAgMRAAQFBgcSEyExIqFBUVL/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAQAC/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECERIx/9oADAMBAAIRAxEAPwC59pgfSIskTrICKvzf37xI+YmyPx2nCmqMqbr0oKCDtK7oXWMm76iov1QsC7ygtDzs2zRaBpUlmlnhiZ49O6Mod68LderrzlOtx9u7cwhxcxgG4DVrru30nt9SigtXdV8ffrCzDYiuUdDEkhUh4yLGRbjKeK1I8u6kV+8h+28xtDr9l27XvqtNCdVDHIYu6LjZlBK+/wAE1kM4z5ibapIj1scjr/Lg/eZ+YjqI16zU4MQKs1i3dXhhiguj8jmSNV7i0goCq8Zjkk+zeGGRIun/2Q=="
@@ -161,7 +160,6 @@ Johan G. Winther ist zu recht stolz auf "The Rupturing Sowle". Ihr könnt unter 
 <RemoteImage
   alt={`Johan G. Winter`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_johan-g-winter__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_johan-g-winter__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYD/8QAKhAAAQMCBgEDBAMAAAAAAAAAAQIDBAURAAYHEiExEyJBURYyYYFCcaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQEAAwEBAAAAAAAAAAAAAAAAAREhAjH/2gAMAwEAAhEDEQA/AKVOr0ulUbxpAkCPATDSiU9ytyxBXu5JIFiOL8W/ONNo1mujfTlFfnTkNuQmCiQkhXkSbWSfe4N1fvCy1syZNokaDVGUxRSVu7A5HcKgta0rULAC4AQ2e8M7TvT+kUTJ1GqOaJUOK9LiBxbTzQS8lSr22ubt19u30ge+MTVEWo6nqU8ajWJ1ZgrMUyPJFbhupKkI3hACgeFHkKvxYkjEeoZ1azBJQpMaapyA35QzJYYKFBIv96Vg3sT2D+jiXmXLmUC9NYprVacjKKXHXhJSErUTuABWgm5I6/zGYVEotNTIVTqDWi+4hTJcenocRtVwQQhAI677FsXC5RM8ZqnuZKTSXo7bsV59MmOpPJSfG62Rz2PX+ORhgaj6erzYxDruXak5KqAYZShmVIPidCUBJKfg8X+MGDE6zYOd9LiRUazRogiTGp9OW27ZSXtyCggfxB4X/Yv7m5x1pddmuSW25UkIddVs86Eha1It6SbHkDs9lIGDBjSP/9k="
@@ -236,7 +234,6 @@ On The Rupturing Sowle, I tried to subtly use this technique by, for example dub
 <RemoteImage
   alt={`Johan G. Winter`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_johan-g-winter-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_johan-g-winter-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEDBgcECAn/xAAlEAACAgECBgIDAAAAAAAAAAABAgMRAAQFBgcSEyExIqFBUVL/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAQAC/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECERIx/9oADAMBAAIRAxEAPwC59pgfSIskTrICKvzf37xI+YmyPx2nCmqMqbr0oKCDtK7oXWMm76iov1QsC7ygtDzs2zRaBpUlmlnhiZ49O6Mod68LderrzlOtx9u7cwhxcxgG4DVrru30nt9SigtXdV8ffrCzDYiuUdDEkhUh4yLGRbjKeK1I8u6kV+8h+28xtDr9l27XvqtNCdVDHIYu6LjZlBK+/wAE1kM4z5ibapIj1scjr/Lg/eZ+YjqI16zU4MQKs1i3dXhhiguj8jmSNV7i0goCq8Zjkk+zeGGRIun/2Q=="

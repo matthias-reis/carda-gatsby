@@ -45,7 +45,6 @@ Das Album hat es wirklich in sich: Präzise Drums und verspielte Basslinien komb
 <RemoteImage
   alt={`Oslo Tapes – &quot;Ør&quot; Pelagic Records`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_04_or-oslo-tapes-pelagic__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_04_or-oslo-tapes-pelagic__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABQACBAcBAwb/xAAsEAACAQMBBgQHAQAAAAAAAAABAgMABBEFBhIhMUFhFlGBkRMUIiMyQqGx/8QAGAEBAAMBAAAAAAAAAAAAAAAAAgEDBAX/xAAgEQACAwACAQUAAAAAAAAAAAABAgADBBESFCFBUWFx/9oADAMBAAIRAxEAPwCrfDrg4KHj2peHWAJK984rsJNotKiZt6WMHBO6GBJ9OdE9o9KZ9NjZJiIpMFwExwI4eldSnbVceFWHZR4oBZwSfiV4NnWx+Ge+Ka2zTHICH2o3Z3U+lXQt4nW5h+G8zwvhdxFHFlPQ5IGOR9KIxbT6c8UcrruI6qwDMM9OYqLdtNbdSvr9R58pvTuHA/YFh1JYVuHezl+qFhGYCA4f9SR5c6NaRttLeacLbWbVfmAu40iHdVh0ODyIquo9Uby4VltQDsGbOQMZB6VmpzrSeVh0uNKhX9o28kuNS1KW8ZjErEhCc8E5Ae3+1GkEav8AfEjdw2altextz/taJruMjG6DVjISeSYQQo4E/9k="
@@ -90,7 +89,6 @@ Precise drums and playful basslines combined with New Wave synths and psychedeli
 <RemoteImage
   alt={`Oslo Tapes – &quot;Ør&quot; Pelagic Records`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_04_or-oslo-tapes-pelagic__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_04_or-oslo-tapes-pelagic__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABQACBAcBAwb/xAAsEAACAQMBBgQHAQAAAAAAAAABAgMABBEFBhIhMUFhFlGBkRMUIiMyQqGx/8QAGAEBAAMBAAAAAAAAAAAAAAAAAgEDBAX/xAAgEQACAwACAQUAAAAAAAAAAAABAgADBBESFCFBUWFx/9oADAMBAAIRAxEAPwCrfDrg4KHj2peHWAJK984rsJNotKiZt6WMHBO6GBJ9OdE9o9KZ9NjZJiIpMFwExwI4eldSnbVceFWHZR4oBZwSfiV4NnWx+Ge+Ka2zTHICH2o3Z3U+lXQt4nW5h+G8zwvhdxFHFlPQ5IGOR9KIxbT6c8UcrruI6qwDMM9OYqLdtNbdSvr9R58pvTuHA/YFh1JYVuHezl+qFhGYCA4f9SR5c6NaRttLeacLbWbVfmAu40iHdVh0ODyIquo9Uby4VltQDsGbOQMZB6VmpzrSeVh0uNKhX9o28kuNS1KW8ZjErEhCc8E5Ae3+1GkEav8AfEjdw2altextz/taJruMjG6DVjISeSYQQo4E/9k="

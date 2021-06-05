@@ -47,7 +47,6 @@ Mit der Streaming-Plattform werden vor allen jüngere Generationen angesprochen.
 <RemoteImage
   alt={`Waterbear`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-logo__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-logo__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgH/xAAlEAACAgEEAQQDAQAAAAAAAAABAgMRBAAFBiESBxMxQSNCUZL/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQME/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwCHa4TQs/GjVk9A14IkeRJyaHDy99afwhj3CvYiiJRVKhrUsXfs0SB/KN9FuMpNRsGxY13VJ9dDxmXfttyuLYMOA+RA75MOOoWMgOFjfxAAVjUgIr9Qe7vU21ZdKZbPLtEcWSN4xsyaTowHHcKL7sNZHXQ/0f4NOZsvhjlVG2ZjRLGV+GVnclbYn3D9eQUV192D1lNGpg28O6cDl27EXO2POTMiw5IWOHcSGTyYozfkJc0RTdVVN5iqV8syuLTQwpxXAzYJC4aaXLLWAI1XxQe4wot5Mb7+ADXWs5o0w1//2Q=="
@@ -92,7 +91,6 @@ The streaming platform primarily targeting the younger generations. So sometimes
 <RemoteImage
   alt={`Waterbear`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-logo__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-logo__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgH/xAAlEAACAgEEAQQDAQAAAAAAAAABAgMRBAAFBiESBxMxQSNCUZL/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQME/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwCHa4TQs/GjVk9A14IkeRJyaHDy99afwhj3CvYiiJRVKhrUsXfs0SB/KN9FuMpNRsGxY13VJ9dDxmXfttyuLYMOA+RA75MOOoWMgOFjfxAAVjUgIr9Qe7vU21ZdKZbPLtEcWSN4xsyaTowHHcKL7sNZHXQ/0f4NOZsvhjlVG2ZjRLGV+GVnclbYn3D9eQUV192D1lNGpg28O6cDl27EXO2POTMiw5IWOHcSGTyYozfkJc0RTdVVN5iqV8syuLTQwpxXAzYJC4aaXLLWAI1XxQe4wot5Mb7+ADXWs5o0w1//2Q=="

@@ -143,7 +143,6 @@ Jedem/r, dem/der das "Eisstielgefühl" beim Zähneputzen mit der Bambusbürste u
 <RemoteImage
   alt={`biobrush`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-4__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgEDB//EACkQAAIBAwMCBAcAAAAAAAAAAAECAwAEEQUSISKhBkKR0RMjMkFRcbL/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQACAwb/xAAjEQACAQQCAgIDAAAAAAAAAAABAgMABBExBSESQSKBQmGR/9oADAMBAAIRAxEAPwDMECQWkszKCI42fH5wCcdqUab4xsZAiX1rJbuQOqM/EXP6+od6scLfKIXGSCBVA1TTGtnD3EI3RncsgTIODnnHIPas7KyF35AMAw0D7rr+X5xOJ8GmiZkbbD8dY/vfsaroc9uDkbaR6naAK3Fa4dX1tIdzxW9ypAbeo3MM/ZlyCD61Bu/FGEK3UMKyc9I3p/QoQxsrFTsU4hIuIhNEcqdYpxZ3oKDqFTJJLeeMpOiSIeMMMiiiq61UIBGDSzUoEPXaOEYeVhlfcVUtUvFVWS9hZSfMx3r6+9FFHQ3UnSt8h++6RXnA2jhpogY33lCVP3jo/YzX/9k="

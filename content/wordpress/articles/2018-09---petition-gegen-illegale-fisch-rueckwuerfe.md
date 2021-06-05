@@ -48,7 +48,6 @@ Den Fischern sind ihre Fangquoten wichtig. Weil der Beifang nicht angerechnet wi
 <RemoteImage
   alt={`Deutsche Umwelthilfe`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_29821426297_2c8cb31349_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_29821426297_2c8cb31349_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQIDB//EACsQAAIBAwIFAwMFAAAAAAAAAAECAwQFEQAhBhITMWEHQYEWI5EyUaHBwv/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAf/EACARAAICAQMFAAAAAAAAAAAAAAECAAMEITJRERMiMaH/2gAMAwEAAhEDEQA/AKV4WgeljdXAaTuynuR77eNMH0+bVwmL9UJFWupSR4eYHlg5sMwB7kZB8DP7a5dXXO72qRWt1dMIG7xOwkUHwG/rTXa/U+51nDz2e7Gjp1EXTWoSlPORkbbHAyNs421rWhdDESh28l6GMjVc1NWVNTYI6eCVKJplkpQJwSrnKMAMbhMg4G4xvnVRbvUDiqTrtVVqsnPzxxvAkbBB4I37fGpcnqlZ4rW8DcN061jRmITUzoQMjBb9I77/AJ0oS33hupC9W3yCZQQhaINy522w2iFoI1MR8ewHbNVwSF4mhnoZiD7pMAT8EYPwRqiFli6rBEreljIbnX8EDP8AB0aNKyg+5PXa6bTJMVokG4atx33bH+dYCgCTKAKtFzk/bTff2yRnRo0faXiUDKt5+Cf/2Q=="
@@ -69,7 +68,6 @@ Rund 3.000 Unterschriften sind noch nötig, damit das Ziel erreicht wird. Jede S
 <RemoteImage
   alt={`Deutsche Umwelthilfe`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_29821427417_6cc79d3df4_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_29821427417_6cc79d3df4_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAKBAAAQMDAwIHAQEAAAAAAAAAAQIDBAAFERIhMQYiE0FRYXGBkRSh/8QAFwEBAAMAAAAAAAAAAAAAAAAAAgABA//EABwRAAMAAgMBAAAAAAAAAAAAAAABAiExAxETEv/aAAwDAQACEQMRAD8AxstqeElI8NbZGRrjpUkeW2Rsfg1VNWhT7xUiMxpVto/nwAfYnOP2utLudqfjNBUMMyUOAlaDhLiCDkH0IOMVDmzS1ymXWJKBo1pkId1BAGB3IxuMkbg0XyS9gm6WmYSwMXKwzlSbV4MaSUaCpLCV7ZBxgpxyB+VcvdY9atrIM6N2nYGKjOffj/Kat8mKzKaS+nLWsasq4HxwfumOoraLdMHhocVFJSEuKTsCQDpJ4zg0PSFjoXrdL6eTKGcfWnYV4TGhT0nJekNhhO2wSVBSj89oH3RRWbQSqflqUcjz5pp/qGRKhxYkgBQZV2uFR1cjHttv+0UVOky1jR//2Q=="

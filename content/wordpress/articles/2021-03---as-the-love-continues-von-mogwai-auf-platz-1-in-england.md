@@ -48,7 +48,6 @@ Unter den Gratulant⋆innen waren neben den Abbey Road Studios sämtliche Post-R
 <RemoteImage
   alt={`As The Love Continues`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_as-the-love-continues-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_as-the-love-continues-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAJhAAAQMCBQQDAQAAAAAAAAAAAQIDBAARBQYSITETIkFRFGFxI//EABgBAAIDAAAAAAAAAAAAAAAAAAMGAQQF/8QAIxEAAgEEAQMFAAAAAAAAAAAAAQIDAAQRMSEScYEFE0Fhkf/aAAwDAQACEQMRAD8AqtqLLexA/Ta59XppyJPwZxvEWcxRowfYSFITdfVWN9QA1WNtuN971wFxA+ye3Wm24qjKw9pthLjbyuslRs2obJT4sob3/aRvTJLUEmUDq+9YpkREeJkJwT++DrvWsO5Sw2Q+7GivSIr5TraDikq7fBtsoj9Fx7NZxibLjEiRHkAJeYWptY+wbGl9yaMNT8tUpbKm/wCnUWvuSQQLg8nkcVznc0ScTcfRhDLkyQ4SpyXJBQ0gk7k+Sb+KNe20c+Ht0C42dLjvqhzokJA9zrJHOB8+N1quRC0zL+VMSottJv6qHMkxvE8QceDbSUHYWSL2+6KKxp3KwIg0cnzqgJyxNJeOZRRjklK2JIjSEMONoITcr1A9hubAHi/I8VKvL6sI0xdTrjaEjTr+gBe3A4ooq0s8jWYBPANQeH1X/9k="
@@ -109,7 +108,6 @@ Besides Abbey Road Studios and post-rock projects from all over the world, count
 <RemoteImage
   alt={`As The Love Continues`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-02-santaverde__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-02-santaverde__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAmEAABAwMEAgMAAwAAAAAAAAABAgMEAAURBhIhMQdBE0JRImHB/8QAGAEBAAMBAAAAAAAAAAAAAAAAAgADBAX/xAAiEQEAAQMEAQUAAAAAAAAAAAABAgADIQQREhNhMlFxgdH/2gAMAwEAAhEDEQA/AGC+xjbNMyJTDq47zf8ABLratqkZI6Prqli83S7w1Q1wrjdnJjrRKEh4q2gDKlddYwaYPK82OdBXRuNKYLjshhLXxupWVArG7gE49jmo+/q2dZtUMTEvEyWIoZQpYGWtyNu5OPsOwaOnQjxlHPmtLaetuDjB95/Kd7beNYSnVl+4XwupbC21BB4Srg/X3imS1wZk+yNLuzkl6SLg6AZAwraG0kehx3XR498rQp9ufbvs1Kbk4tCUbEFJdJVt6HAxkHP5WzA1Pbb+2VNyUMqjTHWXG5LqW1Ahv8J5H90b0j07Z8UYQkwZbY3qceQvIs/VWin7SbdEbS+6ysrjPfIsbFbhwFqI6/Knlutsa5vtC+JDaGkY+VtKyvH5jHPP+0UVTyWujpbnXBiAj7m9a9uVbo4SpVqYT8GwNh4uJSQDkkjbknPPeabbZ5MNpgzGXbPAlOyJCpTjrJ2IKlgHABTwR1767ooqRUAKOsn2KoHxX//Z"

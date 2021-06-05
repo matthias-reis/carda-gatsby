@@ -98,7 +98,6 @@ Ihr könnt Chris Hunts Album "Torrent" [auf seiner Bandcamp Seite](https://chris
 <RemoteImage
   alt={`&quot;Torrent&quot; by Chris Hunt on cassette`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_chris-hunt-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_chris-hunt-4__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcA/8QAKxAAAQMDAwMDAwUAAAAAAAAAAQIDBAAFEQYhMRITUQcicRRh8BUjQWKB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQBAwX/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADBBEhIkFR/9oADAMBAAIRAxEAPwBNJuUe3NhTweUcZShppS1H4AHJobr3WkuI43arDLTDu7TiXZS3ANtgQykkFJ592fGKS6mv0axWh+c8+hopHQ11AkKdOyRgb4HJ+KmumdEz9TwnLqmZa50buF6Sfrj3AgAqXkBJ6Cfjas7EqB7mN32a6iM9Peo8iEWk6ot4QsnBfhgjB8qaV58pP+VTbQ/GuLybxEl9+I8jDeEkDb2nnBG4O1Qyyt3W7j6mBMQ8l93tKjTWwpkqAGyFD+QnBJwnnnerLDYkR3YsOCqO3a4jSW+30nI6R5/NzR3qiAa4Jk0FmJ+CBdbaZt+oLbHjy1vtuMqK23Gl4KSRgkjhWfv96lEvSOptKyU3GyvPPBOSJEIlLoH9kckfGRWrUpjZDq4TyWXUqyl/Y99G0/qEV65TLYy0+w6pDEhtSgHSQOv9snAIISMjGfcKr0MdtgJzkqOSfP4a1aiyGLWnfkKgAVjU/9k="

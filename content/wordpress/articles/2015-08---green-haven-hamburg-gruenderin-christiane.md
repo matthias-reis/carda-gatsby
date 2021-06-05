@@ -44,7 +44,6 @@ Und nicht nur Upcycling ist ein großes Thema im Green Haven. Alles, was neu ang
 <RemoteImage
   alt={`green-haven-gruenderin-christiane-kajuete`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Kaju%CC%88te__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Kaju%CC%88te__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBQMEB//EAC4QAAIBAwMCBAMJAAAAAAAAAAECAwQFEQAGIRIxBwgUQRMiIzIzUWJxkaGiwf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBf/EABsRAQADAAMBAAAAAAAAAAAAAAEAAhEDEiFB/9oADAMBAAIRAxEAPwDpG1bWj1gqlLdRUBh7HHv+2lry1gRJuuslAjpje3Ktj8r8f3GnHad4t9FSyCpmCOy4TgnnVdsq32rZ21EtJu61QmmlnkkSnb6hYjkpzjgAZJ9tZRuWqHrktYNF+Sv8xV3Wn8LL3SCJsTVEWJCwweqXPbv2Glczxx+G8TyOVHpoV+1gfdA/5qPGY1+79vC126qboNSkreqV0Uque2AeeffSbNdZqfZkVvrhLFOr9ASUAHCpgAcc6paicYMNU7qSuskN5vM4hpr7U0EFtiJqZUXreoLSHDdJOAe45PAA/HjR3xLuG2SIy7iqK2BIA/VNEI2GXK4AU4/nRo1StkYU2sWor3uOSkmqFup+HEVVgc557Y1mtU1zuAkkuNc1RDnoVDkfN3z+mNGjT5LPVhqGz//Z"
@@ -67,7 +66,6 @@ Natürlich sind nicht nur Veganer⋆innen unter den Gästen, Neugierige sind jed
 <RemoteImage
   alt={`green-haven-gruenderin-christiane-kajuete`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Blumenpalette__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Blumenpalette__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABYDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgQF/8QAJxAAAgEDAwQBBQEAAAAAAAAAAQIDAAQRBRIhBjFBUQcTFSJhwbH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQF/8QAIBEBAAIBAgcAAAAAAAAAAAAAAQARAhMhAxIiQVGRof/aAAwDAQACEQMRAD8AqOlJCsIaVARlRkd+SB/aa7eC0gZBJEST6Gak2sdVW2m6TBNA7zs80caLbMhP5cxswfA25Ucg8VtXfylBa9Riee3n+w2saM7QlHdiwzkjPG0kDA78+qyW6uW5oRu6c1FY4bzeL7VhLcNMrR6fJGse7uoL4yPWP3RU760+TLXVrCK16dlaW4Sb6zrexfSCoy5ADbiDyf8AaKIZO7FvE36cLJJl1q6W1jFpLI8FmWiX8yWdCWwuF7YBHmuvN1raXmnWEccEMF1FHumeIMjuw4KlixzxzkAUqLDHoyzyO0ZGVGFJG8Z75/XqsLrU7KSF3mUMrEIQec58+DiqeWJcqaGNum9SWtlZ51iGS/eVyYpGJiwo8HaCD45opVs723IKafcthOCiydhn038oo6d9/rHay+PRP//Z"
@@ -106,7 +104,6 @@ Natürlich sind nicht nur Veganer⋆innen unter den Gästen, Neugierige sind jed
 <RemoteImage
   alt={`Kojegreen-haven-gruenderin-christiane-kajuete-koje`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Koje__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Koje__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBgcF/8QAJhAAAQMEAgIBBQEAAAAAAAAAAQIDBAAFBhESITFBEwcUMlFxYv/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQH/xAAeEQEBAQABBAMAAAAAAAAAAAABAgAhAxESQTEy8P/aAAwDAQACEQMRAD8AgwLFr9j9/CZKp6bStte2VyUvNJVx6O9kk7rSozadDoUPPckH4krcV/kbrhSL85bSozIL7TKey44gpAH734qazVPBjFAc67Yq+1Ey91TmwldvQCQN+Fk1Y7LcokRE75lrSXJTjgAaWdg676FZnjeWJevbdxtbkZ9pcQNoUhfJJHI73r2P1TNxzB2Pf4sl1E1stFxHFtlamHVuFOuSknrRA9exuh/V2sr8ZDPMpTheMOXRMBM1aSEhtbnAbPs9GsmsWQX/AOqlzmwbvdnYFmQx8zsCAgNodRv8CfP9J5fyiiqsyT0Ww5yqrZPrWHGJ0W3fT6Zc7Xa4sZcZb5bQNn8HeI5K6JOvfmnb7kb86TbG2osaO39wPm4pJU4QNjR30N+eiTrzRRUyl8nPzJ49/wB63//Z"

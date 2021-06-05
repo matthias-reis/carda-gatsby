@@ -50,7 +50,6 @@ Nicht so der vegane Bio-Glitter von Naissance. Ich hatte jetzt die Möglichkeit,
 <RemoteImage
   alt={`Glitter`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-12-Naissance-Glitter-60__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-12-Naissance-Glitter-60__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcDBQQGCP/EACoQAAEDAwMDBAEFAAAAAAAAAAECAwQABREGEiEHEzEyQVFhFCIlQoGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EAB0RAAIBBQEBAAAAAAAAAAAAAAABEQISITFhE1H/2gAMAwEAAhEDEQA/AOdQgdvIrCWMr58DzTU09oK3XK8Smzc3lW5LgaaMdoubnFElKO5jBG0ZKgOTwPmm7ZumOiLO1Itt3tyZESRCdfmXaWkgxkfxUlxRwjb9DyRmnbJpFDo3S7Fs6WMwblbJTUu4NLkSippHqUr9CCScg7Akge3P3SI1da4sK/vMWpDn4PqaU4PKPn7Gc8079PImXPpvbXb3cUMQUwu3CdSFhbhClpy4Twc7UgDz5zSp10X5t0adkx+z2WkNNoBONngY/wAJ/sUHbCjYKfS9txbiPvZGhadWG2zf2WK1LQ0lBU7NTjYceoqGAMZ9IGBUk6M7rRl276imOJhtR0NupRIU2XkFe5LKW0q2jIAVkjncD7UUU8Ikm4fEbF030vAgwFSXVvyI70dztRXZCnWWEZ3YSknAOU+cZqy1po3Tt0s0tMhxMWU6hK/zHHAVMFIz78Y+R70UVN7NFOaUf//Z"
@@ -74,7 +73,6 @@ Für den "Hausgebrauch", sprich für ein glänzendes Party Make-up kann ich ganz
 <RemoteImage
   alt={`Glitter`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-12-Naissance-Glitter-7__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-12-Naissance-Glitter-7__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAKxAAAgECBAUDBAMAAAAAAAAAAQIDBBEABQYhEhMiUWExQaEHFHGRFYHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABwRAAIDAAMBAAAAAAAAAAAAAAABAhEhAxIxcf/aAAwDAQACEQMRAD8A5/zKiNHQWI4Hkk5Y/Huf93w16Ry9IpYI2iQs/UQzBAva5O2MbVXJlzegp3ZF5rXW5sAWYAXPsPTDXpqCj/n48uzmFHhnJjYMLgsvoAfzb+ji4R7XpnyTcKy7dfCp6Gp6Cqo5IAEFTASJUNunyCNiMQH6oZfFR61zaOmCiDmB4+D0KsoO37xcMp+1m19meUwTGHnUZik5bBSCLN0j4J8kYif1IlV9WZqqStLFDO0MbsbkqnSN+wtYeBhR9HJ4azL84lqI3BUupZRIjEDiO1tz8drYbjUwClpaerd6iVbuHuEJYk7+DYDfBgxJTV4xsm1Gcp0TU5lMqCepIpIHVlMljfi3HUDYE3tiNZxUQVFjTKVYjZXclv37/GDBhoGkf//Z"

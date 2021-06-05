@@ -42,7 +42,6 @@ Schon an der S-Bahn-Station begegneten uns die ersten Fans, von denen offensicht
 <RemoteImage
   alt={`Archive @ Große Freiheit 36`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-3__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAECBQcEBgj/xAAmEAACAQMEAAYDAAAAAAAAAAABAgMABBEFEiExBhMiUWFxQcHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAD/8QAHBEBAQACAgMAAAAAAAAAAAAAAQACEQNBYYHw/9oADAMBAAIRAxEAPwDl2OKRyADjPeazEsXkCbGAPyxP6qW0/S2tr+1ivoJGjuofNiMZGWDISrDPfP4+DW42Oh2siLYkxxarH6CN+Ulb1NnPyCgHvWmOSCHfg+PUzDdXiaZdGNXVskkAqOx90t1p8tt24JcbWBX+9u6t/VbXw5o14sMyvBOs+6VTcK6LEI9+BxzzhM7uzUD4sNk2n66LCyDT20qO7hsraoWI2ZOMtkqOM9Gik3j0VTFieyTgYGTTkkZGDI7KwwQQcEYooo2MPIznLMzfZzS+dLtdRI+1+WG44b796KKqv//Z"
@@ -65,7 +64,6 @@ Natürlich wurden gestern Abend nicht alle 43 Songs von der Best-of-Sammlung ges
 <RemoteImage
   alt={`Archive @ Große Freiheit 36`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-6__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-6__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMGBwQFCP/EACsQAAEDAgUCBAcAAAAAAAAAAAECAwQAEQUSITFBUXETIpGhBgcUMkJhgf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABwRAAMAAgMBAAAAAAAAAAAAAAABESExAgMSQf/aAAwDAQACEQMRAD8A5YbPmGntetmYi0QGpCXmHCrdlOYrT30tx1peEvoakAuIQpBP5DbtVxYQv4bew9a4kR95LHhurWEHKklFzcH93HvSuxcLi0Ur9hTi23XUtJ+nUCv7SE786VjuxnG1lLjakKHBFXNg8DCvDkuTJkeFKYAWA+ghFl5rZSBvcW/oqF/MRECJiC04e8HgryFQ4sOux51FR6rgtYqILmO1zT2JkqOCGJLzYO4Q4Rf0ooqiQdmyngkPSXnAkWGdZNhr17n1pFz1oorG1o//2Q=="

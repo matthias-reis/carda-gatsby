@@ -45,7 +45,6 @@ Hier noch eine Regel, sie gilt ab sofort für die Treffen der Hamburger Blogger
 <RemoteImage
   alt={`Hamburger Bloggertreffen`}
   size="large"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_24196669955_612eada51f_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_24196669955_612eada51f_k__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAYHA//EACYQAAIBAwQBAwUAAAAAAAAAAAECAwQFEQAGEiExB0FRExQiMrH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Am+xrdW7mvUdvirlp+SPIZJi7AcRyPQPnHx3jvB03w7WktN2pqrdomexJlPvaOfmiuQeKlsZTLY7I0qemzVV5pJ7TPX1UFup2FSsNOVTMoyQ5bHLl7ZBHXXjRtx3BWWyvSgtwip+SKHqcGSZ8gE5ZycefbGgdWtVgpLPTyQ3SrU1Ess6V7MI4z2uI5Y2wMHGOSEk9kfGsK3e0aBmttqoY5XQhzFDxQNyJP5MMsPI/UZB8jGp408ss/wBWokeeYqCZJmLt5+ToqaRuPIns5/pGg//Z"

@@ -1,65 +1,63 @@
 ---
 date: 2017-06-07T12:22:37.000+00:00
 slug: el-iris-de-lucy-las-palmas
-path: "/2017/06/el-iris-de-lucy-las-palmas/"
+path: '/2017/06/el-iris-de-lucy-las-palmas/'
 type: Galerie
 typeName: Galerie
 title: El iris de Lucy
 seoTitle: El iris de Lucy - Eine packende Ausstellung in Las Palmas
 ogTitle: El iris de Lucy - Eine packende Ausstellung in Las Palmas
-description: 'Bei unserem Aufenthalt in Las Palmas im Mai war stand auch Kunst auf
-  dem Programm. Genauer: Die packende Ausstellung EL IRIS DE LUCY im CAAM.'
-excerpt: 'Bei unserem Aufenthalt in Las Palmas im Mai war stand auch Kunst auf dem
-  Programm. Genauer: Die packende Ausstellung EL IRIS DE LUCY im CAAM.'
+description: 'Bei unserem Aufenthalt in Las Palmas im Mai war stand auch Kunst auf dem Programm. Genauer: Die packende Ausstellung EL IRIS DE LUCY im CAAM.'
+excerpt: 'Bei unserem Aufenthalt in Las Palmas im Mai war stand auch Kunst auf dem Programm. Genauer: Die packende Ausstellung EL IRIS DE LUCY im CAAM.'
 fileName: 2017-06---el-iris-de-lucy.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35025778881_060fbca8d4_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35025778881_060fbca8d4_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEBQj/xAAqEAACAQMDAwIGAwAAAAAAAAABAgMABBEFBhIhMUEUURVDYXKBwYSxsv/EABcBAAMBAAAAAAAAAAAAAAAAAAADBQH/xAAhEQABBAEEAwEAAAAAAAAAAAABAAIDETEEBWFxEhMhwf/aAAwDAQACEQMRAD8A83bft0udb06GVQ0clzEjKR0ILgEGnNlDauCwtNLIHh7KP3+2he1WA3FpOe3rIf8AYptp0g4gANhejEdSPrS5ZTG2wLVPatDFrZ/XM/xHGT0tNxZ2npS/wvTVfBI42iE/nAwPFB922kdpuG9ihjSKNWUhEXCrlFPQeO5p9M8Txzm3iVHdBmKBAitxXHIr7nGSfJ60Q34Au6tRHsYx2x8pKIpTI2yEbpt8ehe1rH2SPouyOyKznA/UXsblrS7guUALwyLKAexKnP6rvRbqtkxz0dH/AJUg/dVVNUzlbBve1CcV0JAcY5C8lB/uuNrWpPq+pXF/JGsTTsG4KSQuFAAyep6AVVViF//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_06_34413328370_62c83da79c_o__l.jpg
 labels:
-- Afrika
-- Aida Muluneh
-- Amal Kenawy
-- Amina Zoubir
-- Art
-- Ätiopien
-- Berni Searle
-- Berry Bickle
-- Billie Zangewa
-- CAAM
-- Centro Atlántico de Arte Moderno
-- Dinkenesh
-- Du bist wunderbar
-- El iris de lucy
-- Fatima Mazmouz
-- Fernweh
-- Fotos
-- Ghada Amer
-- Gran Canaria
-- Jane Alexander
-- Julie Mehretu
-- Kapwani Kiwanga
-- Kunst
-- Künstlerinnen
-- Las Palmas
-- Loulou Cherinet
-- lucy
-- Michèle Magema
-- Mwangi Hutter
-- Myriam Mihindou
-- Nicène Kossentini
-- Orlando Britto Jinorio
-- Otobong Nkanga
-- Pélagie Gbaguidi
-- Safaa Erruas
-- Sue Williamson
-- Teresa Correa
-- Tracey Rose
-- Wangechi Mutu
-- Yapci Ramos
-- Zeitgenössische Kunst
-- Zoulikha Bouabdellah
-- serie:Gran Canaria 2017
+  - Afrika
+  - Aida Muluneh
+  - Amal Kenawy
+  - Amina Zoubir
+  - Art
+  - Ätiopien
+  - Berni Searle
+  - Berry Bickle
+  - Billie Zangewa
+  - CAAM
+  - Centro Atlántico de Arte Moderno
+  - Dinkenesh
+  - Du bist wunderbar
+  - El iris de lucy
+  - Fatima Mazmouz
+  - Fernweh
+  - Fotos
+  - Ghada Amer
+  - Gran Canaria
+  - Jane Alexander
+  - Julie Mehretu
+  - Kapwani Kiwanga
+  - Kunst
+  - Künstlerinnen
+  - Las Palmas
+  - Loulou Cherinet
+  - lucy
+  - Michèle Magema
+  - Mwangi Hutter
+  - Myriam Mihindou
+  - Nicène Kossentini
+  - Orlando Britto Jinorio
+  - Otobong Nkanga
+  - Pélagie Gbaguidi
+  - Safaa Erruas
+  - Sue Williamson
+  - Teresa Correa
+  - Tracey Rose
+  - Wangechi Mutu
+  - Yapci Ramos
+  - Zeitgenössische Kunst
+  - Zoulikha Bouabdellah
+  - serie:Gran Canaria 2017
 focusKeyword: El iris de Lucy
 status: publish
 isWerbung: false
@@ -69,12 +67,11 @@ errors: {}
 subTitle: Zeitgenössische Künstlerinnen Afrikas im CAAM in Las Palmas
 year: '2017'
 month: '06'
-
 ---
+
 <RemoteImage
   alt={`El iris de Lucy`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34413328370_62c83da79c_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34413328370_62c83da79c_o__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKRAAAQMEAQMDBAMAAAAAAAAAAQIDBAAFBhESITFRIjJBBxMUFXGRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAQFA//EACYRAAIBAgQFBQAAAAAAAAAAAAECAAQhAxExcRITIjJRYcHh8PH/2gAMAwEAAhEDEQA/AOK4XibmQMvONzI8YNLS3p1JJUSkq2NeAK1snwh7HokaQ5NjSkPuFsBpCklPp5bO6nwNq2xsaM24x3pEj8kPRuK+IaWjaAdb9W+o661TNmFyt9ys0SNFU6ZLMhS3kqaKEpPHRA8nex0/mi80lyoFhKT0a4dOuK7dTaDW3n0+2lbBPpTKynHzeG7vaoEYPrY4yyoKKk63rXfvVLLcHbxtyKn9pBuIkBZC4gVxSU8djah19w7U54PnVqx/CHLPNUUPGQ86SiKXF6UEgBKyCEbA92iR8CkvOszTfEWxtv7KGYKHGWWmkuANtnhxBK+pPQ9RWpIIyAguEi5I2+f2K2JqDVhSQNl15RVs+NAD/f7q1GeU2t5vuELUBs/G6KKwXuaVqsZU2Dt7CZ1xeUSTWK86rzRRSFkdp//Z"
@@ -95,7 +92,6 @@ Dabei bezog man sich auf den _Australopithecus afarensis_ , besser bekannt als _
 <RemoteImage
   alt={`El iris de Lucy`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34991752072_71f7ed661b_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34991752072_71f7ed661b_k__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCBAMGCP/EACgQAAICAQMCBgIDAAAAAAAAAAEDAgQRAAUhEjEGEyIyQVFhkXGh8P/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EAB0RAAIBBAMAAAAAAAAAAAAAAAABEQMSIUECIjH/2gAMAwEAAhEDEQA/AOckMUJAS68nsBHOmVefWJFVO23pGSYwPA/OBxqhtNuzS3BNqmRFy+YH6P8AhrZavibe0suiHSDZEg6Pq7HGR/QOhjY5eislG42KzHU9ltMWoCU2xXIiPOBk4+wRqO0Nsw3DcV2lFblqEPLnnK5BkDyD8jGmNLxdvdHbG0khZrt9+TL1AEkDOe3J/elW2Wm2d33Kxax51iJZLHzIzjnVVss6mU3zvz4Iq7ZpdCa5ETj6gfo6bK3e0tlhkjBk3xkJmcc+7uf50aNGRwZqm+sq1XJNdTAwcGXeJGeR+9UWXJMuOYAY5l1CIPA+caNGpuVDMShyf//Z"
@@ -110,7 +106,6 @@ Kurze Zeit nach ihrer Taufe wurde sie durch die Ätiopier der Region Afar in _Di
 <RemoteImage
   alt={`El iris de Lucy`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35156852665_23f5200400_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35156852665_23f5200400_k__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUH/8QALBAAAgECBQMDAgcAAAAAAAAAAQIDBBEABQYSIRMxQRRRYSIyBxVxkaGiwf/EABcBAQEBAQAAAAAAAAAAAAAAAAIAAQP/xAAeEQACAQQDAQAAAAAAAAAAAAAAAQMCERIxITJCcf/aAAwDAQACEQMRAD8AYNPZB1qWn6jXjC7t3dTxwL9/jDXQZdTU608EkaQqgBf6Lg39r9r378jjxfGDprOqf0FOULvGxClIxcgHzh0jzJKijlAjYkoxVXUcEXFiPfscdbhs3sqU2V0y9WSJUlidy0e0g3uLHx8fOEL8Q9M00lFLU9GmmdONsYAsQRfnGvHVVVFqaIU9fWvS+qq0mjcK0UUYRDEVXwb3587mv4xLW+bt+WzrOEgncFVYkAH2a3PGBRXnccseDTOYaYzKamssQAVJLgfz/uHqfVdTRZYJ0iBZZVX7rfcwX2+cGDGrqB81FbMdQvT5vF0qWIGd0EpufqLKTf8AqP2HtjD1PmM1UzGY7l3bNv6g4MGKLbKfz8P/2Q=="

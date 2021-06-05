@@ -83,7 +83,6 @@ Die [von mir verwendeten Edel-Bitterschokoladen-Drops stammen ebenfalls von Xuck
 <RemoteImage
   alt={`null`}
   size="medium"
-  title={``}
   mediumUrl="https://www.awin1.com/cshow.php?s=2269518&amp;v=11793&amp;q=348986&amp;r=632580"
   largeUrl="https://www.awin1.com/cshow.php?s=2269518&amp;v=11793&amp;q=348986&amp;r=632580"
   loadingUrl="undefined"

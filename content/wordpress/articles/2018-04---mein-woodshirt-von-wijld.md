@@ -46,7 +46,6 @@ Ich hatte vor Kurzem die tolle Gelegenheit, mich näher mit den "WoodShirts" von
 <RemoteImage
   alt={`wijld`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_26217717497_5bd22f0d72_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_26217717497_5bd22f0d72_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAX/xAArEAACAQMDBAEBCQAAAAAAAAABAgMEBREAEiEGBxMxURQVFiIjMkFxkrL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQC/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxEhE7ESIoH/2gAMAwEAAhEDEQA/AEjtvbekKmCqHUH0rzeVQgqXIBQjOQB6wQcn4I1ZYe3fSkNMrfdVTG6hlkWgklBBGcgjOszdDQia9iN5FVWhdCznCjeVTJPx+LW0rpX0kUYtVHcHenVUCyU1SsRjReQgYHHCpjn3nU1lJew+xH2MVwqDUnNw6V6Fi2o9otEDuSqiop/DuPvA3gc/xzqVd07D07boqaktVFRQVkxMh8R/TGCMHOT7IIA+MnVf7/Olw6Xtk0RqpJorkVVJZUeM/lPuGRxkYxjOfes3dw3Q3S3z0o2xT2+HAHyhZD/nWK6WS1csSI1mDV5AnJsV2WzVhqpKb6pChQx+Voj7BBDKcggqDxp6p+8ldCwIiu5XOSPtqZs/2B0aNX8Sts9mSeZGhOfe+48N3jjjqrVVtFHK86g3NwfI+NzEhRknA96VL1dkuskLw0v00UKFFQytKeW3E7m59/to0aOJV2OzDkYjBn//2Q=="
@@ -63,7 +62,6 @@ Im November 2017 wurde wijld für den Nachhaltigkeitspreis nominiert und das nic
 <RemoteImage
   alt={`wijld`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_27014976208_5d261ba1a2_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_27014976208_5d261ba1a2_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYABP/EACsQAAIBAwIFAgYDAAAAAAAAAAECAwQFEQASBhMhMVEiMgdBYYGhsULB0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EAB8RAAICAQQDAAAAAAAAAAAAAAECAAMRBCEiMRJBwf/aAAwDAQACEQMRAD8ACqWjBtBdv5xoB9ep6fjSr8NOGkS03jmQwSusIYbx7QSo3qfkRnOPGoa1U6TWijzIF2IHKke71Y/vSDc6iWhe0UtphqIeUWNTg7BMGwRuIPqUBe3bv50GssIsHj6+by6pANzCjj+2snF1zhRT6Jj+h/mtqzvFEK7jniAsPa0Zx4J3HW1pOBYxdejAsXLGTdnnDWFMYJjiZmHkI2T+NIlmvKvSWqpIjcxzvzWYdSEjLnr42/vRFYrg9FGu9XUpJvjJHRge469CPpq3sRpb5UGCxNBDPNBPI1E77ERzEVPLJ7L89p7ZwM6z7hyzEV+hOqtuQPGV/q3jMK1jQ1CIRtwrJkYHjrrajONbhIt1jljdSHi2ja2RtV3AH2HT7a2qq7eIzCY8jP/Z"
@@ -82,7 +80,6 @@ Sie wollten unbedingt beweisen, dass das möglich ist - wijld war geboren. Der G
 <RemoteImage
   alt={`wijld`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_40177293734_88b6fe7ca8_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_40177293734_88b6fe7ca8_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EAC8QAAIBBAAEAwUJAAAAAAAAAAECAwAEBREGEiFhEyJRFDFBccEHIzJCQ1KRsfH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEBgH/xAAdEQACAwACAwAAAAAAAAAAAAABAgADEQRhEyFR/9oADAMBAAIRAxEAPwCK4DFyZLI28NuVEzI+y/4VBkI2aduKODI8f9n7XaTlr6G5CXdu6Krx62ObQ666EdfSlDGrd21xb3FgGEpTlPTQZSfMvr3BHuNVa2yMGV4dzmO5oJMhLAIhzSEyPGrcxBbXmYEb9e9Z57BaCD6+dRChcwxXxeO5rS3cFfPbwv1Xf5APpRW/w5GknD2KkYrv2VUO1+Kswoq1WsFRGqoIBkzt8otvHbPp2YR6UqPgf8pt4Tw0ntIyYudGF9eGi9dEAg9xog/KprHdbtrZP2xb/uqVwrko2w8SuVKXECghhsc8ZI93dSP4qLK42Qatom1YTCG2mth921vdTIyDegSQenbrsfOilS7yscWeyiyG4ZTIjL4cvJ+mo+lFVnF5KilR1EJeAMM//9k="
@@ -105,7 +102,6 @@ schreiben Aline und Timo auf der "Über uns" Seite ihres Webshops<sup>1</sup>. U
 <RemoteImage
   alt={`wijld`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_26217728047_1a1a5586ce_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_26217728047_1a1a5586ce_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcI/8QAKhAAAQMDAgUDBQEAAAAAAAAAAQIDBAAFERIhBhMxQVEiYXEVIzNigaH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAAID/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECESESMUH/2gAMAwEAAhEDEQA/AEizW+Lc7ciJGQ6ZzgOgqWlCCojG5NNEfgW5QbWh2JDbL2ohyLnDgAGPRn0r7nYjNJNsnshlOWlYOw6YP+00QuMbjarelFxh/UrYCMiQChxI/Vfke5/tUuvhPpahdudqZluSYslksLWFApW2UKTnoCD3BrNJMBTCnG3B9xpRQr5FdOS75wvcLLrlodeUxhPJkAmS2T0AV10+Dkj5rBuOUtM3px5hOlmQnUBq1bjY74Ge1MJX6jMm5K6LBu4Lt0VTzSEkpwalbOJH3GlLWyklZ5bo1bLCj47YoopOl6Dd2UmY2zyyUBtXKIWQpsZ6A+PalvieSuQyvWfwuDSe+/XNFFAvUf/Z"

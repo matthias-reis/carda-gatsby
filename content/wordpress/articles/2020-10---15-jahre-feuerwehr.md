@@ -55,7 +55,6 @@ Martin Klüsener gründete vor 15 Jahren Feuerwear. Er begeisterte sich schon im
 <RemoteImage
   alt={`Feuerwear`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-22-feuerwear-01__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-22-feuerwear-01__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcC/8QALRAAAgEDBAAEAwkAAAAAAAAAAQIDBAURAAYSIRMiMWEUcYEHFiRBYpGhscH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQF/8QAIREAAgIABQUAAAAAAAAAAAAAAQIAAxESIXHBIjEyQZH/2gAMAwEAAhEDEQA/AO6a11MNyliaWlWlK8oo44SpU9dM5Y5Pr6KNSNuUnwfjw0Zp6hxXyipL5V4yRyUdDGMY/fUmrvMVs2/V3KviZ3oVYTiMhS7g4XiPy5ZQ+3L21Rdl/arbXW6Q7njS2z1M/wARFUU1OZVKhQoRvUllx02O86hynBj3E0VsGZfUaX60vV2u5mYRRg1bYWIHihdVLqCf1cj9dZjQ7UnlmlipOEhlqCpDEkCPPm/3TxN31+4N7QxWlOFrlnkEVO+M+EVPJ2zkc8Dl7HrVo2SiU9xSnIziBpHYDrscsg/2PlpdYapcpOsLkWsWw0jXcY+8W3rjQW3wTU1SpDx54XkrgqeWPYj5HWHR2x7Nuanju0kDrDwqGQMcHi2THnHr139caNGq0HSRvxJT5g7cy6WW52m6bvFbQxmN4KcyTVCoka+ZQrcuPlySSFxk+mSc9OqIyxWmScOsaP8AhkJGeaYyf4AB0aNJsUBo9WJH2f/Z"

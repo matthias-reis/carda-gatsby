@@ -1,34 +1,32 @@
 ---
 date: 2017-07-27T11:27:40.000+00:00
 slug: gran-canaria-der-sueden
-path: "/2017/07/gran-canaria-der-sueden/"
+path: '/2017/07/gran-canaria-der-sueden/'
 type: Galerie
 typeName: Galerie
 title: Gran Canaria - der Süden
 seoTitle: Gran Canaria - der Süden - Mit dem Boot von Bucht zu Bucht
 ogTitle: Gran Canaria - der Süden - Mit dem Boot von Bucht zu Bucht
-description: Gran Canaria ist spannend und vielfältig. Wir haben mit dem Boot den
-  Süden erkundet und dabei von Arguineguín bis Puerto de Mogan so einiges entdeckt.
-excerpt: Gran Canaria ist spannend und vielfältig. Wir haben mit dem Boot den Süden
-  erkundet und dabei von Arguineguín bis Puerto de Mogan so einiges entdeckt.
+description: Gran Canaria ist spannend und vielfältig. Wir haben mit dem Boot den Süden erkundet und dabei von Arguineguín bis Puerto de Mogan so einiges entdeckt.
+excerpt: Gran Canaria ist spannend und vielfältig. Wir haben mit dem Boot den Süden erkundet und dabei von Arguineguín bis Puerto de Mogan so einiges entdeckt.
 fileName: 2017-07---gran-canaria-der-sueden.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35393139313_ae535773b8_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35393139313_ae535773b8_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwcG/8QAKhAAAQMDAwIGAgMAAAAAAAAAAQIDBAAFIQYREhMxIjJBUWGhB0KBkdH/xAAYAQACAwAAAAAAAAAAAAAAAAAFBgECA//EAB0RAAEEAwEBAAAAAAAAAAAAAAEAAgMRBBIhMUH/2gAMAwEAAhEDEQA/AM+RZFnPD6q0WNe/k+qYRdUvqQCmBFIPwv8A2rXtUPBHER4LSifMCSf6JNMu4HxLnSfVEPR8yUypxlhStiBx4nP80+smlJ8BaHFzI8QKO6kEFavjAx90tb1ZLcjFKVpQvsVN7gnFJVzJUhtxt+7z1cjuSXNiPgUOlmkdYpEoY4xRtRZtDaivCWCsIgxCArrTnCCsnuUoyoj0GAMV0SNB2qA2Bdbup1bfFKksp6Y6hV4UgHcq5Hvj2Aoooa7Mlc4sugFeOBm3QrtQfjB6O26bFcRJ3X4W5KumpIz+wwfb09Kza5G6WRx2NdY8iO834wHUghScA7HbYjtkGiipxcl8hLX9WZaB0L//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35393139313_ae535773b8_z__l.jpg
 labels:
-- Arguineguín
-- Fernweh
-- Glasbodenboot
-- Gran Canaria
-- Lineas Salmon
-- Playa del Ingles
-- Puerto de Mogan
-- Puerto Rico
-- Reisen
-- Spanien
-- travelling
-- serie:Gran Canaria 2017
+  - Arguineguín
+  - Fernweh
+  - Glasbodenboot
+  - Gran Canaria
+  - Lineas Salmon
+  - Playa del Ingles
+  - Puerto de Mogan
+  - Puerto Rico
+  - Reisen
+  - Spanien
+  - travelling
+  - serie:Gran Canaria 2017
 focusKeyword: Gran Canaria
 status: publish
 isWerbung: false
@@ -38,12 +36,11 @@ errors: {}
 subTitle: Mit dem Boot von Bucht zu Bucht
 year: '2017'
 month: '07'
-
 ---
+
 <RemoteImage
   alt={`Gran Canaria`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35805721200_5abc119465_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35805721200_5abc119465_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQQI/8QALBAAAgIBAwIFAgcBAAAAAAAAAQIDBBEABSESMQYTIkFhB1EVIyRxcoGi4f/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EACQRAAIBAgUEAwAAAAAAAAAAAAECAwBxBAUREvAhIkHBMYGR/9oADAMBAAIRAxEAPwDmsddhXG3yfr6/rNSQYMi+4KnvkdiPtpItXEenCEb8sF0KE8qrYJH+e/zqteJPDDXqRZqDmWFcw2oHHmRH+OMkfAz+2odvU4htnzSvWZD1sp9JPv8A3/3SsxkkV+h5bgNBwQVk+OXrWqkT1WLRsxY5kVVyW44UfAHJPbnRrL2qtf3irMEZoKEKsbE+DgLnPSPufjRqUmbYO1TfT3zWqaNdx7j9a+qslL6nWrCYqo1gDAJjpcd8e51O/qjuv4hBPuFjaxUvJPGrOkKo7Ahj6wCQW9JI9/vpqobs9eMLGY0B7eWAuNL3jelNvlXJsWbDdXV0KIk5AwCXOOACdHfGtINrAaUqPL0jO4Ek3p42l512itDWfb6u3NChWMVw7FWUHDAe5B5zo159k3DcqhnxdlYN0wv0SnkIMKMj2A440a0OJmPkfgqUwsKeCbk1/9k="
@@ -62,7 +59,6 @@ Besonders gut gefiel uns als [Finnland-Fans](/tag/finnland) natürlich die _Ravi
 <RemoteImage
   alt={`Gran Canaria`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35361600654_6f80d66d2b_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35361600654_6f80d66d2b_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBgcF/8QALBAAAgEDAgQCCwAAAAAAAAAAAQIDAAQFESEGEjFBQlEHFDJEYXFzkZKhsf/EABcBAQEBAQAAAAAAAAAAAAAAAAUDAAL/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADETH/2gAMAwEAAhEDEQA/AMxhwztvyGpzhWA9ip7viDJYp1iu7bH8535VIJHzAY6UQcW3s80UMNnZvJIwVFCHVifLVhTy2pm5A2rcHNicmGJ8H6pObDuvgNWS9yebgRS+PjXm19ykIGnxDEHrXEvuJMhCCJ0sI28nhkQj8tNK5NqHkwrcdizQveX9xf5aZo0cmRwCGcjzLdACew6/y2eirD43IcT299f3ttY2trq9vb3Emkt2+4VlVtgi9tySQNqKKLQlgTvIlZisqgdm13eEtGGq+qSfUgUH7gVXsjgoow8gtmjVVJZ4J2AAG52B6de1FFT0iXAGz//Z"

@@ -46,7 +46,6 @@ Beim Lunch berichteten uns die beiden von ihren Plänen und erzählten uns alles
 <RemoteImage
   alt={`feuerwear`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-feuerwear__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-feuerwear__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAnEAACAgEEAQMEAwAAAAAAAAABAgMEEQAFEiEGMUFhBxNRgRQicf/EABYBAQEBAAAAAAAAAAAAAAAAAAMFBP/EAB4RAAICAgMBAQAAAAAAAAAAAAEDAAIEERQhQRIx/9oADAMBAAIRAxEAPwCi2R6kdWaSxPGrcWbP2+KoMHvI9ANQniNKKRtrveOSQ3JlkWW/aaQq0iOcSIwJGfXoEZ989aSebM8XiwNSxO8EsixTiT37yF9B7j96VfSGwJdwvUmsPXE8f3VkUA/2U8e89Donv/NMwllqnf5BX8rpYaHc7BvMtUWiIqbOoJHJ5okzg+oBY9aNSk6U3tTfyrjgq2FCFG6/J/edGm5DB7M3HUfIk87rS1/D1SxfEpmnQIgjWPLKrFRn4ydTn032d2377l2xBTpoFiZZZVWSQyHAEY75HOD8a1edb+Idr23ikUxMkmY5FDDHEd9g6g7O/l1jNepFDYSVJY3QDkGVsjHvqZj2uxO7Hs7lRtaVZoDqdx3Tx+nHZJWWVi2SxbjknPyPnRrHum8q1jkTgnsj8Z0am1zHgTWcVRM//9k="
@@ -75,7 +74,6 @@ Er wird ab dem 16. Oktober im Onlineshop erhältlich sein. Der Preis wird dann b
 <RemoteImage
   alt={`feuerwear`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-feuerwear-23__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-feuerwear-23__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMABBEFBiESEzEHQVGBYZEUIpL/xAAYAQACAwAAAAAAAAAAAAAAAAACBAABA//EAB0RAQACAgIDAAAAAAAAAAAAAAEAAhETAzESIkL/2gAMAwEAAhEDEQA/AJ5pe99x7es1ay1q4jgkZYljuSs0SE45xIDgDnwarVh6tzoxj1jRra8gY/0uLCTtMV+ehsqfoiucd4dYj01YzghXfH5yop12pcC827ZGRw0qdcbY9se30MVp4mYDZxK7qG/9lXTJJJLdwOfMUto3Uv2Mg/RoqMX0DS3LdqNnx56QTiigSsIbRU3M38jT7Vkj65VcICBk484/eKZvTKO71OzkWSULZwMQjY5XPLL+znn5NY2jK0gR2XqCjIXPBOK2tjO+kxT2nZliSSCG4YScASYKOM/ng1fIXD1JKNPpjpcCC0IigARffnkn5NFKuoao3e4I/wBUUnpu9jGt1Dpn/9k="
@@ -94,7 +92,6 @@ Auch die große Öffnung gefällt mir gut. Wenn man die Tasche aufmacht, hat man
 <RemoteImage
   alt={`feuerwear`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-feuerwear-6__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-feuerwear-6__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBwb/xAApEAABAwMDBAIBBQAAAAAAAAABAgMEAAURBhIhE0FRYQcUIjFCcYGx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAjEQACAQEHBQAAAAAAAAAAAAABAgADBBESEyExUQUVQcHw/9oADAMBAAIRAxEAPwBfTek23EtqUypY75OBUV+JcFauTbokMvxustD6OnkRkgkAqUBwMcjP8c5qHO+Qrozb1R7ePqSnm2wh5DudhURykEcHGec96RvupJ9kg2qfap0xF0bMhMiU8Sr7WVJJ3JUORuSf18eqovbqjMpBI1k1LHQQMrKCSNLxOuvGlwiTgJGOe1FOXPWM1am1KtbTgUkLS5kjcCAfPuimnqA4gO3HwZnmqIMcQI7DbyOvuS4s9PpANgH9xJGfVJfIl1k3x9Djex2PMUhLBQclYQCkcduVn+zU3Us9yMphcFTiX5SVpc/IkKPAGB2PNTriJER6zMKbfZLIG3qICTu3gnGCe4FR7goOLeWMIqMrrt97mmTLU5EDLCbm5htARyjwAPPqikLrdAqUs7u5/wBoo+a3MXlJxP/Z"

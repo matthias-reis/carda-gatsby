@@ -53,7 +53,6 @@ Tees in allen vorstellbaren Geschmacksrichtungen: Genau das Richtige, wenn man v
 <RemoteImage
   alt={`Samova`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_25408627967_19f227b681_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_25408627967_19f227b681_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAaACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYB/8QAKBAAAgIBAwMDBAMAAAAAAAAAAQIDBBEABSESEzEGIkEHFGGBUWKh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EAB8RAAICAQQDAAAAAAAAAAAAAAECABEDEiEiMRNh8P/aAAwDAQACEQMRAD8AMNtp9ZJC9WBngfAHOlD6b7dBc2DfIYrNinNJNXWK3XQMY+kMXGC6nkFfnR7sM4O67fCCVDzoCR+W50gx0PsI4oavpqSeCVnlCdcr949tOQSvs8+Px+yUK6uXUkQ1WlX7+Mz6p7fDJ6ohjrozB6cCR9WAZCAQxwCcEtnP50a3a327EgDBJyPPjSnBR74SxLs08MkViSBJQzotde4FGU6fccEnqzgEfrRpO4kjUNjpC6LEXx6gAarbuTHp+/IfUO0gk824h4/uNK893c5uyk0myTwQqytE9qLpJwoXu4cc8HHI5GhygxSwjoSrq6lWHBBBGCNWUNyyyp1WJjn+XOpHGjsNQuP5Hx7oaMtNviumSOWSrthRbLsk6So0qxiQ4EeHOUxn4JxnnQzBusnaHvPjVg1+4olC2rAA8ASHj/dRVpVUkKAAB8DTUBsJjlyZd8huf//Z"
@@ -80,7 +79,6 @@ Die Sorte [Istanbul](/2015/09/junge-auswanderer-in-istanbul/) Nights war mir ber
 <RemoteImage
   alt={`Samova`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_25408639947_b6b35ecec5_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_25408639947_b6b35ecec5_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAgME/8QAKRAAAgEEAQIFBAMAAAAAAAAAAQIDAAQFESESMQYTMkGBFSJRkWFxsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAP/EABwRAAICAgMAAAAAAAAAAAAAAAABAgMRMRIhQf/aAAwDAQACEQMRAD8AisVcxyXtpFIhdJJVRlV+kkEgHn2/umU3iHD3cUsFphVtphDO8ci5IyuDGSv3Lrjnn4qWwBaXO49LhJXt/NBYRN0sdAnQI7Hgaq4RMDNIqS4nPW5mPlmaW5KovVxtjocc/mq10TsTcVolK+utqM32yeOSAUa5NYPld9xpddzTW08LWC2UX1O8y1rkCupY0sxNGrADYBHf9/5SLxVhHwclvGbpbh5AxIEfQV0R7bPff8djUsD4tGmy4bQABB3v3pnOGubcxXLtNG4IZXJIPxRRSMcaJLbR9FveXsMevRHcuoHwDS+WMK3qdmI9buWb9miiitm8P//Z"
@@ -138,7 +136,6 @@ Die Sorte Space Cookie wartet wieder mit Kardamom auf. Hinzu gesellen sich Ingwe
 <RemoteImage
   alt={`Samova`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38469622070_02bf0099c7_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38469622070_02bf0099c7_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABQACAwQH/8QAJRAAAQQCAgEEAwEAAAAAAAAAAQIDBBEABRIhMRMUIlEGMkGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECEhEhMf/aAAwDAQACEQMRAD8A8717iSn5Gq+8b1/tXA6uTMRFYaSFKcU0tzomhQSCbuv9wzR6AyNaJEzaQtaT4bmJcStQ6pQAHYN+cag6FuHDlN73YobiyUN8TGZW5zAUog98SP1BBGMmdLcuGieYbKk+2mJkoVy+foraIKTxIIUL84TKksgdL7P8vE9pqobxgt6jYOOMcnvWefjKSlu/naiComyDh+5/FZ0SM66iVDfZSlSitClJPQuqKfNYsshKytHgVrtjsWWeDOymtt0BxDpIAH8F3nZr5r8eUqQ09I9w4OKnVPKUsi/F34yyzJWYbSW+/JElciSJCU+mHEvKB434+iM4Jex2CmihWwlFFUQCE2ProDLLCIj/2Q=="
@@ -159,7 +156,6 @@ Seit 2002 verkauft sie nun Bio-Tee, allerdings mussten die Beutel, wie bei ander
 <RemoteImage
   alt={`Samova`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40279453951_106e2aef34_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40279453951_106e2aef34_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAgMH/8QAKRAAAgEDAwIEBwAAAAAAAAAAAQIDAAQRBRIhMVEGImFxBxMjQVKBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIRBEH/2gAMAwEAAhEDEQA/AISyuyVDcEVe+EZ4SbN9oM/z3QAfi8Min9cjmuJ2OshY9jHBq/8AhtqgfUrl3lCxx2rglugLeWmiVrG15pFw2qrqEiRrCNjExnC8LtwMeqjPvWF4QUbAGPWt2v3qW2ifRkLCWUHcMgHr39qk5tQcrzIQOo9akt+m+iYm8h6iDjso52xkq3cUx04PYsVSaXDEbtjbcgf2iiqzih5eXs1xYRJJLKQg+75BOTzilcgJB8xx2oooGf/Z"
@@ -184,7 +180,6 @@ Entdeckt habe ich Samova Tee bereits in vielen meiner Lieblings-Locations. So zu
 <RemoteImage
   alt={`Samova`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40235043172_2ff74e5848_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40235043172_2ff74e5848_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAmEAACAgIBBQAABwAAAAAAAAABAgMEABEFBhIhMUETIkJRYXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAIDETEE/9oADAMBAAIRAxEAPwCD4BIbd+lXlaVUmmSMlF7mGzrwPp85SE9PmG2kMXNxzRQzvFLKIjHI0TBW2Ae4Ak5E9HTNY6p4euWeJXsJ+dACRrzsbGvn7Z1humOFeK48FmwlqeGUMy04kLdwJYFuweyPOR1+vHFK6WBfIs82x0JBvZiAIJzDZvxoPXn+sf8AD9EyX6EU1zljSvOgaSrNV12E/Ce/1/OvoyX6u4ybgJ4oZZkkaZGbaKw7dNrXkZYv3yTaodZk4ZzXsRyx7WVGDIysQVI+jLGXnuSs1JYbF2zJDIpR0aVtMCNEEb9YYZOx1jIjWzNVT8KpZu149aCRWpFUAfAN6GIL6BpC7s7sf1SOXP8ApJwwxEM//9k="

@@ -45,7 +45,6 @@ Curridabat wird auch "Sweet City" genannt. Warum das so ist, wird schnell klar, 
 <RemoteImage
   alt={`bienen-als-buerger-2`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_bienen-als-buerger-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_bienen-als-buerger-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcB/8QAJhAAAgEDAwQCAwEAAAAAAAAAAQIDBAURACExBhJBYRMyFBVRof/EABcBAQADAAAAAAAAAAAAAAAAAAQCAwb/xAAgEQABBAIBBQAAAAAAAAAAAAACAAEDERIhBDFRcfDx/9oADAMBAAIRAxEAPwDP7VDSXiH546doFQdzfKuEQg4+3jOmSnK26218tuiE7MQiMG7iO4Zbnnf/AAa7PQVd0o6aG3WecxoxLFQEWViAFbc4G2djvvqRB0zcrLGZ6+gjS4gj8cALULBs2XZCQC31AGcDJPgazRRyyWUemf6mtIAPUj9EgyXCihqJZroj1E6ghUf6q58n36Gl65SRM6dpJdVAZlTg8nGtDq+n7he2eWvrJ+07MwpEQsceSvvO++/nS9fejJGp4zR1sJCbKkpYMf6eNKgoay174R5ZwJtErG3PUfvDDZJ3gqgpldoGOduXY596vpeq7vbqqjt9dcKipWpIz8sayOqnbO4zkkcZ0aNXE2NOOr7I8dyGzEoi9ZXalvlRUU86VyRh0ekki+JF3GRzyPG+qm69dSVsTlrUkbkkAiQkn170aNRInvF0kOOB3a//2Q=="
@@ -66,7 +65,6 @@ heißt es in einer Pressemitteilung des Bürgermeisterbüros. Dem ehemaligen Bü
 <RemoteImage
   alt={`bienen-als-buerger-4`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_bienen-als-buerger-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_bienen-als-buerger-4__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYHCAIEBf/EACwQAAEDAgYABQMFAAAAAAAAAAECAwQFEQAGEiExQQcTIiMyFBVRYXGBkeH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAgT/xAAnEQABAwMCBAcAAAAAAAAAAAABAgMRAAQFITESQXGxExQiUYGR8f/aAAwDAQACEQMRAD8ArLAhmTJaR5Tiy4oISlJ3Uo7Af3h7ofhtUai2p2oNmGlryylDg+aCd+L7gXO+MvC6m02s1J1NRkeVKbLa4w1hJ1Ak3AOyhsBbkc4mpmhSXcyx1sw2vtymHGnnCr3ErJuEJ3+Kj1bvAGVzKbVZZSYIEyfsAddqcx+MS6jx3dUzyPwZ6e1RjnDKcqLLgqp9HZLbRdWlCTq1FPRFhuQLpHfHO2EqvJkVRttqnwgpZXezCdS1X4uBx+2LK1eKWYzq5biA2n1lS17JCbHo8ggD+MK9Qdahv09ymxtM2Y6C5KjkIDCVetQT0D0VHfGfF53zDRLw9Q2jn+VGWs27RQLZkKHakbNcXKsJulTYEF2NPU4y6+lskoCVI1H0quCTYgWtYg46+WM0OszpDInSHGA059MCu4UU/AEH9OsGDEuNBy2h0lUTvr3opD7jKuJtUGmKmyHM0ZdqrDus1BVScjtDSE+ygJNhf8gKJ/3Gkxlx2A1aorcaYYLgLQJCngqxRvxbkHsHBgwTerNvcFlrQaHpMirUS6StZk1//9k="
@@ -89,7 +87,6 @@ Besonders [Wildbienen](/2019/07/wie-wildbienen-von-honigbienen-verdraengt-werden
 <RemoteImage
   alt={`bienen-als-buerger-3`}
   size="large"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_bienen-als-buerger-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_bienen-als-buerger-3__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAmEAACAgEEAgIBBQAAAAAAAAABAgMEEQAFEiExUQZBEyIjMmGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMAAQT/xAAfEQABBAICAwAAAAAAAAAAAAABAAIDEQQhEjEFIrH/2gAMAwEAAhEDEQA/AFY9pU1Il4twYDOOtVa7EKOzG/I0dbZ4oSzNOcfk94HknxjWPFdCQQVCkv5LKgRuEPFyc5UHwDjv61ORybre3nc6d+qJZZRHFVr4Zug6F0JJHFcAgnGR79tmxpZYmGIWjjLeR5rR3zZRd2yG1QjgMNhcwSxZyQPPIHGD341Gb18AltRNMv8ANR0T0ddqgqzzxXEkNpKNCcw02YFg6jCqB0PJBP1/mp7fqVsVSwmWOUryAH2ufWn4uMYXVNsFKfV+vSi/nU++0n2oVJ7klQwx2Y4a3PEqBuXM46yuVU578H3pPbvlV2rfvpcSJYbIkmMa845FQBsIGdsqG7UhjkHH9aNGtOLKYqjb1Z+qjvavNq+cSyypBuaYgjmFeU0yFEhzxVGjPaEYBALfq4kgn7Y+U/vfgY2JFmyEZZ3JYjv0MdAec/ejRo/LScWtAA3agX//2Q=="

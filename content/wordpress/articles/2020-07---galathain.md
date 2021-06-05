@@ -50,7 +50,6 @@ Galathain hat vor Kurzem den ersten Teaser seiner bald erscheinenden EP "And The
 <RemoteImage
   alt={`Galathain`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_galathain-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_galathain-3__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgDBAcF/8QAKhAAAgEEAQMDAgcAAAAAAAAAAQIDAAQFESEGEjEHE1FhkRQVI3GBobH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AKttB9K6UcOl4Hjzqo53jx+Pur2bu9q2hed9DZ0qkn/Kx3pD1BTH57MZTMJNN+YMXeOFRsaH6YHIXQ8ft/NO3Ak1t0Uej4oqzamO5toLiBu+GaNZUb5VgCP6NFSVurcbLN0dnIoSqO1lKO5t6A7efH0BpTIo2ldI05ZyFA3rk8U9+bxkYwWU9+P3IRZzl02R3ARsSNikabG3QwwyrKDZtP8AhgxPJcIHI+xH3o0obL0/x80fRGAjuY+yZbOMMO4N865HHjVFaFjsPBbWNrBbQ+1bxQokcY2exQo0vPwOKK1mP//Z"
@@ -81,7 +80,6 @@ Krass, ja Swans habe ich auf dem [DUNK! Festival](/tag/dunkfestival/) mal live e
 <RemoteImage
   alt={`Galathain`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_galathain-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_galathain-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAArEAABAwMCAgsBAQAAAAAAAAABAgMEAAURBhIHMRMUIUFCUWGBkaHBM7H/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAIR/9oADAMBAAIRAxEAPwBy4bwtmjtOg8zDbPzk/tVK/sboERI8LYAHsKQNCjZpnTyT4YEf7bB/addfzVWzTkuYhRSY0JxwKHcQg4PziqpsOHCjvdKkKYcdbXtWkFKlI9CO6lu4W7c88QR2qP8AtS3gBJ6HiRMjocQvrMFwElWC4UqSrI8zz+6r0or3LPnmkY0ceWHa7gu32O1YH8oTI7PRpNTTj5ryXddVSrOHj1K3bGAhJwCsJBWT5nJx7UUVknLR5E+VEltS4L7seWyre082opUhQ5EEV1RZ705dNOWy4qO5UqI08tWAMqUkbuXrmiikhv/Z"
@@ -147,7 +145,6 @@ In our interview, I asked Klaus about his project his musical roots, and his pla
 <RemoteImage
   alt={`Galathain`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_galathain-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_galathain-4__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAtEAACAQMDAwAJBQAAAAAAAAABAgMABAUGETEHEiEIExQVIjJBcYFCYYKRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABgRAQEBAQEAAAAAAAAAAAAAAAABEQIx/9oADAMBAAIRAxEAPwBg0naxy5+3DKFPegJPkk7+AK1datbwYPXNrZXNqhsn9XHPclyDHv8AUDbyBuN/zWTB39ni82L3JTx2tlAyPLNIdlVd+TU19IzU+Kz+qLh8ROtxb9igSqNgx7djzTRzN9Uy5tgJNhsdhyD4NFLXS7Wdlq1cdZXJVMvbqizwFSBKiAAyL9NiORyPtRWtZwmdacvHDi4LCCRle6uBK6cDsjB8n+TD+qkEk7P8xJql9QD7XrXAhe140t5JgQyup7e5jwSP01Klb4V+wophz6RZI43qRhZAxVZ5TaN+4lUp/pB/FFc7Rkbx6k0zdtssfveJA3YT5DxseB55HjmiqKv/2Q=="
@@ -180,7 +177,6 @@ Besides Music: What inspires you most?
 <RemoteImage
   alt={`Galathain`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_galathain-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_galathain-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAECAwcEBQb/xAAnEAACAQMDAwMFAAAAAAAAAAABAgMABBEGMUESIVETYXEVIjJCgf/EABcBAAMBAAAAAAAAAAAAAAAAAAADBAH/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQMRAhMx/9oADAMBAAIRAxEAPwCqYNR2v01fSJF5bu07OI0xICB9rHkZ4PFTJrG3a0uESCIXd9hgRCmE8BAACg9hVYwXLxvkHAx37b1K12WXpZmKAgnHzSdZSpmy1G1ekKw3TssTiP0WjQRyRsgO23Jxkec+a10mtZUs47Z+ieeOcymSVQCV36c/3bauBnmVldYvwVFzkAnc+PkVhm4YsSGOds+1CjsMpWuEP69hSE5yOKKKcTD4ZWiYsjYJGNuKYd8gUUUG2f/Z"

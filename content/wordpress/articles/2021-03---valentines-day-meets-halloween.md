@@ -44,7 +44,6 @@ Ich hatte jetzt die Gelegenheit, mit Ryan über das Projekt und die Zukunftsplä
 <RemoteImage
   alt={`The Camel City Blackouts`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_the-camel-city-blackouts-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_the-camel-city-blackouts-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEFBgcIBP/EACkQAAICAgEDBAIBBQAAAAAAAAEDAgQFBhEAEiETIjFBB2EkQlFScaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQEBAAMAAAAAAAAAAAAAAAAAAQIRMf/aAAwDAQACEQMRAD8Ay9i6FnK5GrQoKk63ZZFKlx+ZSkeAOtEalrOG0PAhl7Coz1+9IrZauKgK4AHJgqM+ZGIPzMxiT+h1Sf40yDcXv+v20I9di7i+F/5cng/8J6ubfvybX1+licZTxtLLVmLZZgbfq+1JJikiQMSZeJkn7HH++jOW+REtx/HuNu1bmQ1lTqFlbARRewTRYB+RXaePIIPEJeT5API4PLvuta7rmp4qbqrxkbdYrS2vPkGyr0w4sJkQYd0pAdo58f2A6f8Aat3fhtZxN7Ayqrt3IobcrTRB6IxkoyEBFndzEz7/AJPIMfnnqpNo2bL7RcXYzVyViSoeklYiILTAfEYQiBGI/QHUTHd6ecdideS3GWkbmlFkLFhodjnfx3CIkIDtEu/3+3u8D7/XUpdj9UyzYm3sOIKYtJSsteqaomZBWCVkemT74j+kEgn54OjqtWEz89Qq6aUU7jmzjCNXitcWycye9kZTXNY5jGZl5iQQJ9vP30x57ZtcyWDnSXjpKf2iUHrx9ZU/UA8Azh57SSefvwOjo6Ej/9k="
@@ -127,7 +126,6 @@ I now had the chance to talk to Ryan about the project and their plans for the f
 <RemoteImage
   alt={`The Camel City Blackouts`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_the-camel-city-blackouts__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_the-camel-city-blackouts__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcI/8QAKBAAAQMDAwQCAgMAAAAAAAAAAQIDBAAFEQYSIRMiMWEUUUGRMlKB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgQD/8QAGhEBAQEAAwEAAAAAAAAAAAAAAQARAhIhA//aAAwDAQACEQMRAD8AeaL1xcbB07fqdb9xtaQEtzykqkR8JTkOgcuoBVjeO4Y53Vd73cVSJAetlxWqIpkFKoz3Yo85Ix+awOZq2DCigtz/AJCHHEtlptKsoSUpBUNyccAE8f2qrXrWc6TPQ/bpT0d9tsJcUSjBIOO07QR24H7o9Vl2C6xump49pjSTISS5HgtyEFSgOs4ofwHvwf39VgN66jr7j858iXJWXHHieEnclRHoY448590o0zqvU1ylF+7XvrMdJUfc+2l3p9iingY87dv+0sXeeg0It5kuqeaWVKyO5TZHakH8YwBz9UOQjhUfIM1l2r7s3c2rc8GFNlpZC9z2/g7fQAzj3S7S5UjVEeWyhJSw4qQkLSCFJSSMYPB80UVRlFvtadTzFIn3BaIoZcmyRKW8t4FfCCnpBI7doJJyPQqFYb67GurF1u8qS/8AFZMFtLbKFb2/KQslQzjP1ngc0UUQ8tuS5f/Z"

@@ -188,7 +188,6 @@ Womöglich werde ich eines Tages durch meine vegane Ernährung Vitamin B12 suppl
 <RemoteImage
   alt={`Nahrungsergänzungsmittel ja oder nein?`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Vitamine__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Vitamine__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgQI/8QAKRAAAgIBAgUDBAMAAAAAAAAAAQIDBBEABQYSEyExIkFhByNRsVJxkf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQH/xAAcEQEAAgIDAQAAAAAAAAAAAAABAAMCIRESMUH/2gAMAwEAAhEDEQA/AJ7sux1d5lWjfttSrzDvOqFiuO/sR+POdPw+nXD+2bS89ffrVwO8Q5uiz9sgYUljg4b9aT9naxWetYSJcrKg+6uVIY4OR/R1Wt4WfYdijnjVjHHZiUo8QJ5ebHbyfAGNScrE18lLRtmvxRT4Si25Y5KttHWPpqq21RsAfxK+e3nGdQvc4a7u8lMSisSemJSC2PkjAOqrxpvm2zRDlk6lm5zdOAE9QEHBUjsQR+D7eNTKx64yqKOcZyngr8Y05x6sWWGZOiqfB+03qUdeeEj1BldDyspGmscM1eiq25p7EYZXC5C+oHIOR3yDo0aDCvFNkO1eZlu3Dr3EYtcXB92gUt/uR+tS3d+BtmoyTyxRO9liS88rczE/A7AD4A0aNZcAckZS9vZ//9k="

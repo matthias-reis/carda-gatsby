@@ -39,7 +39,6 @@ Unser Treffen fand im Übungsraum der Band in der der alten Reese-Kaserne in Aug
 <RemoteImage
   alt={`Interview mit der Augsburger Band Pepes Penthouse`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22971__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22971__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwj/xAApEAACAQMDAwQBBQAAAAAAAAABAgMEBREAEiEGE3EiMUFR0WFigZGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOeZbbVXOCyxwFXlkhALSyheXmZVySfHjTbdLU3cv0NLdYqua2iMxGJDsqcnD7T+0nj71AB70xLKox9DgeNXenLktqScTRs4ZhNFtYel1DAN+h5P40Gdt6Vr7nbRWUHZlDVsdAsJfbI0jjKnB4wfOdSLrbKq2V81FcIWgqoTtkib3U4z+P71Rhr7jZ+7T0dbPBDLsdgpGHBXIJ9+QCcfWqfWl6PUdyeqp4BSRSN3FSZg8jkIFZ3mIyzEjJGcDIAA0CXSkFFV01TDUUu+dMuk3dYYXafTtHHvznSdRGlPcKiNFBTeuAfgEA4/3Ro0DUlBA1G0uCsna7mQePn4/jVCkuEl8t9v6celt9LSoTUNUU9PieVlQjLsSckg88aNGg//2Q=="
@@ -66,7 +65,6 @@ Unser Treffen fand im Übungsraum der Band in der der alten Reese-Kaserne in Aug
 <RemoteImage
   alt={`Pepes Penthouse`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22871__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22871__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwMECP/EACkQAAICAQMCBQQDAAAAAAAAAAECAwQRAAUhEjEGE0FRcRQVImEWgfD/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQQD/8QAHREBAAMAAgMBAAAAAAAAAAAAAQACESExAxJBUf/aAAwDAQACEQMRAD8A518ObRLvFt4IZEj8uGSw7yZ6VRF6ieP9zqeh8N2RtFm+GQx1vK8xcnqxIzAMP1wP7OozaatiaN5YK9hkIMeYkYg8YIyO/qCNN6WBV2SsprpNbhYGeGfqdg0eQQyEDCMpUAZ7hjwdY3bCY8Mo8VK3pY9dQ3v5Ig7FZn2VNwQR/TtYNXhvzDhQ3I9AQeD7jS9a2y6J3jxKnREZmMhZAqAZ6ufTt8kgaeTtkX8s+21WvfSlWsRxJMzFZjVMg9MHDYXtkjjS74id6iUo7sz3ZJa8TzSOwZgcECIZzgJyPnPsNIvZtn7zBpQpucjk3PCG42dulpV60riI7nFkE98JnHxltYqN+SVwz5LSyEO3Uctk4zz64Y86NGqc3JKKbj3LB3jdpdqS6ldAywV2gUufyKAYAJH6wMj21Wu+W5J52eUklrJAK4BHYY7duO2jRoQ7jFeGf//Z"
@@ -101,7 +99,6 @@ Unser Treffen fand im Übungsraum der Band in der der alten Reese-Kaserne in Aug
 <RemoteImage
   alt={`Interview mit der Augsburger Band Pepes Penthouse`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22961__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22961__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQIEB//EACwQAAEEAQQBAgMJAAAAAAAAAAECAwQFEQAGEiExE0EUUXEVIiQyQmFigYL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4Hd3VwI1fMjy5MWPJY69BwtpK0qIVgA59x3qTc8O5q7SXX2lo/LXGCeakyVrQQpAV1k/y8a16eGbOksH5T/BqojIMZsNBQccceACFePOVHPf5QNN91Vv7gsG3Kx9Mh2XhHpPKKFJSlpasjP6EobIyexgZ6I0CjebesaJ+NHtYimHZMZuW0OQXyaWMpV0T/Y8jVHJhOttB1Ta/S5cOfE8eXyz4zjTpYfau5qxdu8qM41RwocQgDi4WisttYT2Vqyez7dfTUbEu7m7OZpGoj79XLn/ABLYaSola0pwpCCAQfYnzjr56CKklt19ZK+GY4LW+2nkFnrirIP7+Tq42/Nkzd0OBLqm3XIcg+qTyUn8M4g8fYZCzo0aDKsSul2/ZKYcJcfdYHMDBSllK3QB9VhB/wA6Xdw7rs5dbCgNOiJAUwFFiP8AdSskYVy+eceOh460aNB//9k="
@@ -130,7 +127,6 @@ Unser Treffen fand im Übungsraum der Band in der der alten Reese-Kaserne in Aug
 <RemoteImage
   alt={`Pepes Penthouse im Proberaum in Augsburg`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22901__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22901__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgj/xAAnEAACAgEDAwMFAQAAAAAAAAABAgMEEQAFEhMhUQYxQRQVIiMyYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDnDadmtX6F27CE+npGITEtgjqMVUgfPcd9PX9OXKux191dQ1SaZq/JGyUkVQxDeMg5HnvpNtlyzFt9ytVsSRw2inVgR8LKUbknIf4e41RLD0bcOy7ZSsT2i88QsNgKrtL0ySq5I5JyeMMR7Lj2zoM0+w3Z/TbbtHGhorZ+jL9QchLw5gFffBHz7Z1ldxpywcmIbphuPLHbPjPnHfGqVa2aWt63j9IRb7Z+z2b8U6zJGpBLxZSTj84VgCcgYycaz89y/X9MR2b1gvtl2201ak3dZJkHHquMfyM4Hf8AI/GAdA09P7pBFtlFDtW2yyLtdqYvJXRuTocKSMY7ce4+cnOk+ybnZoM1moVinZJWjZVH6iVI/HwByOPGe2jRoK9tm3Uql/b5UrI24xwLELrAdTKMqBvb34Hj5x86kO/TQ2PuKzV1UJH1kSA9NFlY458QMY7fyMDRo0H/2Q=="
@@ -169,7 +165,6 @@ Unser Treffen fand im Übungsraum der Band in der der alten Reese-Kaserne in Aug
 <RemoteImage
   alt={`Pepes Penthouse`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_2301__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_2301__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBAECCP/EACcQAAEEAQMEAgIDAAAAAAAAAAECAwQRBQASIQYUMVETQRUiMnFy/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/8QAHxEAAgIBBAMAAAAAAAAAAAAAAAECEQMSISIxQWGx/9oADAMBAAIRAxEAPwDn3BdG5vMswXoMFamJsjtmHVKSEqWPJq920faqrzplN6JkRIOcnomRn8finu2Mls/o+7uSNiPf8ibHrS91hkvEMIKG9yi2kqKi2mzQs86ZIkRVdGmO840mS0FhtBQasrSoH/XBAI90dFqV9mqUKqha43ncNFgSEOT4TE1ovxih4gOourAB9iqI9agc6ly3yhM18yEX+yXUJJI++avV09SZFuLjGx25/HbREWpu1tU58gpRPvj+uNY6klRsw/kMnkR8GTeWhxtuOKaUngK3Dkg8Xf3zes38oT01xZUjyFLCVkCyBrVwraBU0tSF2AFDgizo0aqQJctjO0YdWHyvbY5T55rUkOAzkcfkpKyttyDFS+jaRSjdEKseNGjQybdFsC1Sp+/h/9k="

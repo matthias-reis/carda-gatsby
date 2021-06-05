@@ -1,69 +1,67 @@
 ---
 date: 2018-01-31T18:34:46.000+00:00
 slug: wichtiger-nachtrag-zur-musikliste
-path: "/2018/01/wichtiger-nachtrag-zur-musikliste/"
+path: '/2018/01/wichtiger-nachtrag-zur-musikliste/'
 type: Artikel
 typeName: Artikel
 title: Wichtiger Nachtrag zur Musikliste
 seoTitle: Wichtiger Nachtrag zur Musikliste - Danke für Euer Feedback!
 ogTitle: Wichtiger Nachtrag zur Musikliste - Danke für Euer Feedback!
-description: Vielen Dank für das umfangreiche Feedback, die vielen Mails und Chatnachrichten
-  sowie die Kommentare, die bei mir eingegangen sind! Hier sind Eure Songs!
-excerpt: Vielen Dank für das umfangreiche Feedback, die vielen Mails und Chatnachrichten
-  sowie die Kommentare, die bei mir eingegangen sind! Hier sind Eure Songs!
+description: Vielen Dank für das umfangreiche Feedback, die vielen Mails und Chatnachrichten sowie die Kommentare, die bei mir eingegangen sind! Hier sind Eure Songs!
+excerpt: Vielen Dank für das umfangreiche Feedback, die vielen Mails und Chatnachrichten sowie die Kommentare, die bei mir eingegangen sind! Hier sind Eure Songs!
 fileName: 2018-01---wichtiger-nachtrag-zur-musikliste.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_Nachtrag-Songliste-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_Nachtrag-Songliste-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAUDAQQGBwj/xAArEAACAgEEAAQFBQEAAAAAAAABAgMEEQAFEiEHMUFRBhMUImEVMnGBkeH/xAAXAQEAAwAAAAAAAAAAAAAAAAADAAEC/8QAHBEAAgICAwAAAAAAAAAAAAAAAAIREwESITFR/9oADAMBAAIRAxEAPwDm3YabXbkUfIImSzMfIAf91JvtFqG5PFyDxkq6OucEE/n86abFXa1tW6XaFNxW26JZrBN1VIVm4jAKd9+g1R47F3YzvD7Xal2qKyKzWPqlwshAbjjjnyx3jHY1XJBlEaX1NySzzeNZZC4U565H0986U/D+4VH3pxbKVqssPFfX7gf3N7E4Op/0uHct3eBazxF534ySWuKj7iSc8OsDv+tWt/a4YcF6ssihiDItkHBHnkhO+sH+DpK28CvTqTZnhFsdC34IeJW5bhQimeGJFiZh2GRWbkPYjkDrA9r3etT+GbO0T1Ft17EwnAa1LGsUvELy4ocMB0RnHajJI60aNYFE++3VSeSGFisnz3ZyvWOyMH3Pn/uo9svQiC7Balc/MKPGSSVLKewQPcHGfTRo0uWztIFa6Qf/2Q==
-ogImage: 
+ogImage:
 labels:
-- A Perfect Circle
-- American Dream
-- Autolaser
-- Bands
-- Behind The Shadow Drops
-- Black Map
-- Bob Dylan
-- Bush
-- Chevelle
-- Coolverine
-- Dredg
-- Far
-- Foo Fighters
-- Godspeed You! Black Emperor
-- Grammy
-- Heavy Metal
-- Home
-- Japandroids
-- Junius
-- Kanada
-- LCD Soundsystem
-- Less Than
-- Mastodon
-- Mogwai
-- MONO
-- MONO (Japan)
-- Musik
-- Musikliste
-- Neon Oblivion
-- Nine Inch Nails
-- Pommesgabel
-- Post-Rock
-- Postrock
-- Rock
-- Rock 'n' Roll
-- Shoegaze
-- Sleep Well Beast
-- Survive
-- THE CHASING MONSTER
-- The Doomed
-- The National
-- Triplicate
-- Trophy Fire
-- Witching Hour
-- Zero 7
-- Zynic
-- serie:Playlists
+  - A Perfect Circle
+  - American Dream
+  - Autolaser
+  - Bands
+  - Behind The Shadow Drops
+  - Black Map
+  - Bob Dylan
+  - Bush
+  - Chevelle
+  - Coolverine
+  - Dredg
+  - Far
+  - Foo Fighters
+  - Godspeed You! Black Emperor
+  - Grammy
+  - Heavy Metal
+  - Home
+  - Japandroids
+  - Junius
+  - Kanada
+  - LCD Soundsystem
+  - Less Than
+  - Mastodon
+  - Mogwai
+  - MONO
+  - MONO (Japan)
+  - Musik
+  - Musikliste
+  - Neon Oblivion
+  - Nine Inch Nails
+  - Pommesgabel
+  - Post-Rock
+  - Postrock
+  - Rock
+  - Rock 'n' Roll
+  - Shoegaze
+  - Sleep Well Beast
+  - Survive
+  - THE CHASING MONSTER
+  - The Doomed
+  - The National
+  - Triplicate
+  - Trophy Fire
+  - Witching Hour
+  - Zero 7
+  - Zynic
+  - serie:Playlists
 focusKeyword: Musikliste
 status: publish
 isWerbung: false
@@ -71,8 +69,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Danke für Euer Feedback!
-
 ---
+
 **Meine [Songliste 2017](/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/) hat Euch ja sehr gut gefallen. Vielen Dank für das umfangreiche Feedback, die vielen Mails und Chatnachrichten sowie die Kommentare, die bei mir eingegangen sind! Ihr seid klasse!**
 
 Heute möchte ich gerne einen wichtigen Nachtrag veröffentlichen. Dieser setzt sich zum großen Teil aus den Songs und Interpreten zusammen, die Euch laut Euren Nachrichten in meiner Liste gefehlt haben. Auch ich habe noch den ein oder anderen Favoriten hinzugefügt.
@@ -96,7 +94,6 @@ Wie konnte ich [Bob Dylan](/2012/08/bob-dylan-stellt-neuen-song-duquesne-whistle
 <RemoteImage
   alt={`Musikliste`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_mqdefault__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_mqdefault__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAQUI/8QAKRAAAQQBAwIEBwAAAAAAAAAAAQACAwQRNHOxBSEGEiJRMkFxcoGRof/EABYBAQEBAAAAAAAAAAAAAAAAAAACBP/EABsRAAICAwEAAAAAAAAAAAAAAAABAgQREjEy/9oADAMBAAIRAxEAPwDlyjrq+43lOxhkEbZHtMcbvhc8Fod9CRg/hJNHXVtxvKpVHxJ1KjFWihfCY68b4ow+IOw1zi4g9+/qOf17K4mytnV4NQ9vlOC5pOcYB7pMva6zuO5VHu+IOo3a0sFmSIxynL/LEGkn0/MfaP77qcXtdZ3HcpIWfKClra+43lOBPdCEiKvGYylC9rrG47lCEkLPEf/Z"

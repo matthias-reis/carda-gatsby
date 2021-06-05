@@ -48,7 +48,6 @@ Vor Kurzem las ich mit großem Interesse über zwei für mich komplett neue Kosm
 <RemoteImage
   alt={`Ashéra`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_7__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_7__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAoEAACAQQABQQCAwAAAAAAAAABAgMABAUREhMhMTIGQVFhBxVxkdH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUABP/EAB8RAQACAQQDAQAAAAAAAAAAAAEAAhESEyExBBRxkf/aAAwDAQACEQMRAD8A5ni8Y8jRpFbySsx0qIpJY/A13qlt/T99zxb/AKbIC5KlxE0EgYga2QCNnX1U5Y5O4u4FhtFkkluIxoqxMgBG979te/8AFOj+SMtjYGimOPuISY+QJINiGRT0aEA+XyRXFuZeZfPMTqp+xpd4K4g5a3WJnti0YdA6spZd+X3v5pJf4WVwxS3k18BSdVRwXWI9R2k9+kMEXqbiXmxTruGUa0qqGJKDSjWug4j096i8tNjsixJx6WssZYTRSdFQjy2BrXai3Am94TDXn7IC/wAi9pBbRQovG8Wy7dRo/X+0tgyE8V6l3IedIvbjooptaVx1I+p5m23ztyl/BcRAIVAQqD5DfT+t9KrMkj5u0uJGlkt7lQUkkjY6lUDsy+/aiil3CqBC1KZZ/9k="
@@ -71,7 +70,6 @@ Mehr zu den Inhaltsstoffen und unserem Qualitätsanspruch erfährst du auch in u
 <RemoteImage
   alt={`Ashéra`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwcF/8QAKhAAAgEDAQYFBQAAAAAAAAAAAQIDAAQRBQYSEyExQRQiUWGBYnGRodH/xAAZAQACAwEAAAAAAAAAAAAAAAADBQECBAb/xAAgEQABBAEEAwAAAAAAAAAAAAABAAIEEQMTITFBYXGB/9oADAMBAAIRAxEAPwDHdOliKrw4SwPQk4pjsPESsqxBELEAYHT5NKmiSBHaBuqc1z3U9Px0p+2autNGo20OtXiWliyPl3kESsQOS7/bJOc+gNL3AdBdZHjx24dYjr2oNaXaEPI5bBxuswIPwKpvtPju4GaJSHA8yMeY+3qKZdfutlrOeaDZ/W01W7EUbxxMQiMScFeLjB9sA+9LUsO0EGoCbW7RbO0CMYoYkzvtnGWY8yBz6YGaih9QJj4uTHbefApZfc3EsMKzxNuSr5QQOxrlT3U91KviJXlP1sTRRWpgFJOcjtMC9lCGeYShlkKvne3h6/z2rTIIbuxtV4l880bKMRLGsaDIHYc/3RRVX8hCs0v/2Q=="
@@ -84,7 +82,6 @@ Zuerst habe ich den Reinigungsschaum genau unter die Lupe genommen. Für mich si
 <RemoteImage
   alt={`Ashéra`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcC/8QAJxAAAgEEAQQBBAMAAAAAAAAAAQIDAAQFESEGEjFhIgcTMkGBweH/xAAYAQEAAwEAAAAAAAAAAAAAAAADAAIEBf/EAB8RAAICAgMAAwAAAAAAAAAAAAECAAMEERIhMRNBUf/aAAwDAQACEQMRAD8AxLdni8hCGtkvFmiDcOFI5A5JBpnFlrGeaGSK0jtlVg7LGAxI1rROxse9CkGSnDZElF2I0RPiASN8twfPmrr1Lk+np8RZW/T8EivHcaU3ECxuYvtjfcQSdmQn9kdvusdmQ7ADXRnaxcGkcSQSf2R9UG06fyxivsdM8pjilCxuoCDXHIHy3wfW6nycNhNCssVyiCRQ4WUFPI35I0atP1waLMYPCZaJHVFZ7RnZezY7A6615APeNfrms+xOSE2CiXv5jBjO/X+VLbnU79gDGqakOOj9yiZC4kivC6HRdQx4B9f1XMOSuHcKX/Lg7A8UUUqqCggfPYh0rRtPns3lmNteZa7liQKQkkhZRrgaBOhoUyhC4u0O1E7sSzMw1v8AjxRRRWe6lubFezP/2Q=="
@@ -101,7 +98,6 @@ Durch die kalte Winterluft waren meine Augenlider sowie meine Wangen stark ausge
 <RemoteImage
   alt={`Ashéra`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_6__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_6__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcA/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURABIhBjFBBxNhUXGBFCIyocH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQABBP/EAB4RAAICAwADAQAAAAAAAAAAAAECAAQDESESIjFR/9oADAMBAAIRAxEAPwCX25dtJTs3faAfxx/mqP6eUEF3uSwtCJIVQ+8SoOzIO08/I0E6bnoLvEtGsrQSMskwmZcqqrywI8eedVf0vpn6cuNyp5BLUmpip5I3VdqkEOec9uCD+RpHWTysBXHOxtZKribR9oJvyz0/UVTQRUpDLlhGq9lwSPj+Izol1pGauKhSM4VQzsfngY+/B1dbjJTydSXORigkaKJdpIDKMNgn6jzz2GftqIepE/6e/wAsK+/ErBJHV1wHOM7wMnx/emCUQMhbfNmEqqlhQr85C9luk1sXbSCNjIhjIYYYDzz85xqhdM+oJhV47y5hysZp5I0LYKEYBC4IG1SMjJz+dbW1QUK3mPs1NXTMvsIeuvVlVH1DPVWyumMbRQwv7q594IoGXHOSef25+vOjF8vMtfLvkWEEcDYmML48nsDjvra2ih2/ZGVcK6Qan//Z"
@@ -118,7 +114,6 @@ Der Name der Serie Yin Yang bezieht sich auf die Balance von Yin und Yang. Das B
 <RemoteImage
   alt={`Ashéra`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_4__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwb/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAITEHEhMGQVEUImEjMkKhsf/EABgBAAMBAQAAAAAAAAAAAAAAAAAEBQID/8QAHREAAgIDAQEBAAAAAAAAAAAAAQIAAwQSIREiMf/aAAwDAQACEQMRAD8AEaGIAjSf0too667Rwy09PMjsykTRBxtGxHP5wdHVHCwztp66AqYfT1znSJTK9YE79+4KIxtkcDfUfG8e8AytkrpSWkd1No4KG8SwQQQQpHKFURRhNvEpPH5JOoadSQcaauvsYls1lqTEgn+qkjZxyV8eRn540OtEyxMzjAAzrOX8XECGOu9IaSYvNxjUkSuAN8BRkj5G2mLorVzV1nkWvlkNFNXtFGhC+NpvDkBzyDjJH8crvuBkWp67yRmM4jiDBiVbLYH9gb6Q/QF8orZaHoZqyCkqUuCVkH1gYwSDwtGysyDY4YkEe407XWqt6B5Gcpd6vnstuuVzCel7JPTVkcyz1z4aOXuXIiA549xoXqfUVU8UiSTu4C/t7uRxqo6g3K1t6esdiorhJczQO9RNPTn9HuYAFVOMjAGTyff30f1EzdvakZGBg7/fj4/3RbStj7EdnPHUrV+87P/Z"

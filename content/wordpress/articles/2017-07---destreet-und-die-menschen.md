@@ -1,41 +1,39 @@
 ---
 date: 2017-07-04T09:13:18.000+00:00
 slug: destreet
-path: "/2017/07/destreet/"
+path: '/2017/07/destreet/'
 type: Artikel
 typeName: Artikel
 title: Destreet und die Menschen
 seoTitle: Destreet und die Menschen - Ein Ugandischer Künstler in Hamburg
 ogTitle: Destreet und die Menschen - Ein Ugandischer Künstler in Hamburg
-description: Heute möchte ich Euch Destreet vorstellen. Seine ganz besondere Kunst
-  trage ich jetzt direkt auf der Haut. Bei der Millerntor Gallery habe ich ihn getroffen
-excerpt: Heute möchte ich Euch Destreet vorstellen. Seine ganz besondere Kunst trage
-  ich jetzt direkt auf der Haut. Bei der Millerntor Gallery habe ich ihn getroffen.
+description: Heute möchte ich Euch Destreet vorstellen. Seine ganz besondere Kunst trage ich jetzt direkt auf der Haut. Bei der Millerntor Gallery habe ich ihn getroffen
+excerpt: Heute möchte ich Euch Destreet vorstellen. Seine ganz besondere Kunst trage ich jetzt direkt auf der Haut. Bei der Millerntor Gallery habe ich ihn getroffen.
 fileName: 2017-07---destreet-und-die-menschen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35671637186_668d97c7ec_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35671637186_668d97c7ec_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgAB0DASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQQCBv/EAC4QAAIBAwMCAwYHAAAAAAAAAAECAwQREgAFIRNBBgciMTJRYXGRF1JikqGx0f/EABgBAAIDAAAAAAAAAAAAAAAAAAQFAQMH/8QAJhEAAQMCBQMFAAAAAAAAAAAAAQIDEQAhBBIxQXFRYaGBscHw8f/aAAwDAQACEQMRAD8AJioisRDqBien8LHm/wDQ0aNqgpts3OpSL1VTw06iMgMfUDfk2vxpbx2slP4imoI81jE8ysFb2kubX+w0VCaiLwbGkxZIoM5JckyyCsptz3Cg201kHbas3Sw6gTm1UBHBPyPNQ1D0Me7tXi6B8lZpOOnKpZsGHbJO/wAQNJR7bBW1pZ0yQU0LKWFjZi5/zQ9FHCatq4yOYgpEBk46ktiFIAHIUEXPz0luNS0e69GMYFKODJfgTnx9raGeBU2YpzhMrGMbkmADJPGnpI/ZrpPMiGT8Ta6OBlSKaSN8nTIRykD1Dng2sfqp0ZuNPK1EqsaFXZLcQM9rh+eTa5xuTbuNU+aDFvMioUOUWQxqGzK2bphlPH6lYc/m0bUy1ssYapmfrIwUJa4Hpbvjz7x7W0Q3GWgcWpSHlQQLn3PY2+71BQ7WiSwTVNVO8iUXtVQATZiQODb3ew1raZFr9w3SslBkzmWNGbklUULf9wbWqhjTbBUy1E02UUOQaRntx2Hsv3A+uofBDvDDLHIpZ1hhLfJmDSH+X1AgEJqp5anW1uEyRbpaQbeK/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35671637186_668d97c7ec_z__l.jpg
 labels:
-- Antifaschismus & Feminismus
-- Art
-- Destreet
-- Destreet Art
-- Hamburg
-- Hamburg
-- Kunst
-- Menschen
-- Millerntor
-- Millerntor Gallery
-- Millerntor-Stadion
-- Millerntorgallery
-- real Ugandan Style
-- St. Pauli
-- Streetart
-- Uganda
-- Viva Con Agua
-- Viva con Agua de Sankt Pauli e. V.
-- Kunst
+  - Antifaschismus & Feminismus
+  - Art
+  - Destreet
+  - Destreet Art
+  - Hamburg
+  - Hamburg
+  - Kunst
+  - Menschen
+  - Millerntor
+  - Millerntor Gallery
+  - Millerntor-Stadion
+  - Millerntorgallery
+  - real Ugandan Style
+  - St. Pauli
+  - Streetart
+  - Uganda
+  - Viva Con Agua
+  - Viva con Agua de Sankt Pauli e. V.
+  - Kunst
 focusKeyword: Destreet
 status: publish
 isWerbung: false
@@ -43,12 +41,11 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Kunst auf der Haut
-
 ---
+
 <RemoteImage
   alt={`Destreet`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35580511281_d4d3a253ec_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35580511281_d4d3a253ec_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBQYH/8QALRAAAgIBAwIEAwkAAAAAAAAAAQIDBBEABRIhMRMiQXEGB6EUI1FhgZGSscH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBwQG/8QAJREAAQMBCAIDAAAAAAAAAAAAAQACAwQFERIhMUGx8BMjUaGi/9oADAMBAAIRAxEAPwCthqQpXMtniEVQSGIAz+elVoYvtUKvGWDqJQ4A4jpyx9RqdbsVZpItsYlpZmERBXIDEZIJ9tQ91tVBaeJ4kaNbAMXBs5VQqAAdslRkenTrppwAzUqgbJK7CQc+NjyqH4pB29ai+bk/MniPb/SdGul7Hs9bfLEr24RlIImCt3BZpM/0NGjamoEchaF11kWQ6qo2TE5m/khYXZgtu01topi6zF8qpZeYBUjpk+oIOPrpcD2DubNDXkcLOfC+54rH5AS3XBY5Jx26nOk7FYsrWm4FDG7srFhyKEdse68dPktS1NruXJPDUwIzoOJGTgDGc+uNbtQChfJgcW3A7DvftdE+XF2MXd6cktEhgqxk9z4ankf5Mw/TRrM/Lay1bbJo3PnDYY/i3JuR/fOjQVY73OPdFQbAjDaCNvxeP0V//9k="
@@ -65,7 +62,6 @@ Eines Tages war es dann so weit: Er gründete die Destreet Art Foundation. Dort 
 <RemoteImage
   alt={`Destreet`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35542479832_a51712f3ac_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35542479832_a51712f3ac_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHAwb/xAAqEAABAwMDAwIHAQAAAAAAAAABAgMRAAQFEiExBiJBUZEHExQjMjNigf/EABgBAAIDAAAAAAAAAAAAAAAAAAACAQMG/8QAHhEAAgMAAQUAAAAAAAAAAAAAAAECAxEEEhMhI4H/2gAMAwEAAhEDEQA/AJHjMM7eoKkvNnTOyjChtO3mniOkMglWj6clY3IK0/zHn+h70rx6xpHrVL6Qv+nbW2xt1evPN5CzWt1Qe7m1K1dobgGOBJVEf7IvzEZRT7k+mTz7hwq+m3Q98p1oB08JUdMdoVvPGxHvFKMrik2bhSoNkwD2K1Dias/xYybTr9hcWxlwJ1h9DupKpQ2pAKZICpM88D0qO5Z4lTinP2FR1SIMzvRm+RrPVY64vRXYvqSIFPG8o+pP3Ahwx+S0gq9+aKKIkXRWmL964UBOwjz5pJdPqWSTRRRJjceKP//Z"

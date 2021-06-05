@@ -53,7 +53,6 @@ Das Dunkelbierbrot-Rezept wurde mir von meiner Mutter übermittelt. Sie gab mir 
 <RemoteImage
   alt={`Roggenbrot mit Dunkelbier`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_04_roggenbrot-mit-dunkelbier-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_04_roggenbrot-mit-dunkelbier-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwT/xAAlEAACAQMDBAMBAQAAAAAAAAABAgMEBREAEiEGMUFhE1FxMlL/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUB/8QAHBEAAQQDAQAAAAAAAAAAAAAAAgABAwQRIjEh/9oADAMBAAIRAxEAPwCZ2K0zXCdKejpmnlI4WMZI/foe+2mqTpatSkPyw0Cn+V31GMnnjIBGcg+dNvSVKLdZrZFT05aOdt1QwOGY7Ry3rLa65ERrbM0BZDKoMkKggKf9E+T68etRbN8hLAKjBVEmyShHVtpqqL4xWUcsK/yspYSIxHgMOM+uD60afLpTwzSVdDKzGGSKTc0uWAZRxz98aNFhvMQ79Wy03Z9Uy9K3QtY6NoC5wNrhSM7vODzjv9c626k6kr7bE8NPIJJpkOx4YgjkMAWyQM5425+v3OopS9S1tvqBJbKj4HX+o25BOffcawuPUdfWVAkZYEkOCRGrKv5jOPOl5qJGeW4iwWYwHbqarnf5XgdZoI4MRiJUUk4989yeNGkypucs2JKmUO4G1doAAH54/e+jTMVRhb1kOW47lrxf/9k="

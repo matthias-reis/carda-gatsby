@@ -42,7 +42,6 @@ Fotos belegen die grausame Tat. Die Jagd auf Blauwale ist bereits seit den 1960e
 <RemoteImage
   alt={`Blauwal`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_ocean-2051760_640__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_ocean-2051760_640__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYBAv/EACsQAAEDAwIEBAcAAAAAAAAAAAECAwQABREGEhQhMZEVQVGxQmKhosHC0f/EABkBAAIDAQAAAAAAAAAAAAAAAAABAgMEBf/EABkRAAMBAQEAAAAAAAAAAAAAAAABEQISIf/aAAwDAQACEQMRAD8Ay1vtWrYrCZL9vEdjyW6oJ7U94pOabHG3dcbPIJbJWewGPrWbRf5oI2reVjzW6f5TTd+u6lBTUmOCOgWhS/euomZzzMcdcfPDvyJR671N7PeusrjodCrg5I3D4RKQAamF+uykqW81AdHTeqDkA9sZ5iqqRcLq6tYTICcnmG4iBj7aTYIRi6rmpAIgWYn5oef2p8a2uSUjbDtCR6JhgfmiiqVpjhArXl3HDpCIiRFkcUzsbKAh3G3fgEAnHqDiqW+6pu10mGTMlLU7jGQSOVFFD3qSkVjN6np//9k="

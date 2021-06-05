@@ -53,7 +53,6 @@ Das Reinigungsgel (auch "Cleanser" genannt) ist ölfrei und soll die Haut besond
 <RemoteImage
   alt={`santaverde`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAgF/8QAJxAAAgECBAYDAQEAAAAAAAAAAQIDBBEABRIhBhMUMUFhBzJRIpH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwQF/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQIAAxEEITEi/9oADAMBAAIRAxEAPwCjlmb01HljI601RUmGOUosjTkqLsxZi1t++lfy2GPk+VUtNSdZzpKrqIiiTuipqWUq4NvPYb+zfGfGqVqs1/o3Z31Wp7qiixY22uB474d3A9e1ZwJFTSzLLNRv07zx7rYNdTvY/UjHI4Vag/XuRLXnZnO49iah4Vr6iFtMqLpWxFn1ELpP+7e8I7NZIZqwvEJIBrKSQlNxGQCGUD8Ivt5OHd8oLoyekomdpudViRgReyRo0jbfg0XxnpaiOrEMkUnKnKteM9pFAN7Me2/j2Ma2r07A/Zlnh3P56ZJjSoeQVCysbSPo9A7g38jwbYanxBnnOpuJKWbmink5U8MsylRI2kqwF9j2XBgw66lDsRKlzmSTj6SszKemXLo0WLo6uK4ZUHOmjES+/qXwrKjgqqgolTN82yyjhRmkRNZkYEgA2sBf6jbBgxav3JJjnc//2Q=="
@@ -72,7 +71,6 @@ Das kann ich so unterschreiben, denn ich selbst spreche aus Erfahrung: Bei Rosac
 <RemoteImage
   alt={`santaverde`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-7__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-7__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwP/xAApEAACAQQBAwMDBQAAAAAAAAABAgMABAUREiExQQYUIkLB0VFxkZLh/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMC/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACAxIhMRP/2gAMAwEAAhEDEQA/AOWGs1j4cePIaOjWjR3uJxl/Y3s2HWe7e2gnjkaQgBgrKDxAI2ASN/pqonHGFjG2gzL2IPaqlG3Z41S5cx2qxknzpm/NDtdCM+Ysp7j1lFcGJTZe35uEMnInW/3A6Un9c4pb/wBL5e15iRzC0i68FfkNf1pFmWXVuDo/In7fenGByfu7Z7aX5PEhQk/Unj8VfHRvVGS0z4IkzDG3sBQcpW7eAKe2Fyry7huWVYjxI0N9euqKKLfoigH2GXyoF5FGpQkJvtsjZ/ylsube0uorlZNsjdt9CPI1/NFFUx6mdfJ//9k="

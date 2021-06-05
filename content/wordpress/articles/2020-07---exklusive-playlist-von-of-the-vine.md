@@ -171,7 +171,6 @@ Hier sind für Euch Of the Vine mit "An Event Of Moon Disaster"
 <RemoteImage
   alt={`Of The Vine Pin`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-pin__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-pin__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcDBQIEBv/EACoQAAIBAwMCBAcBAAAAAAAAAAECAwAEEQUSITFBBhNR4RQiQmFxgYLR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAHBEAAgEFAQAAAAAAAAAAAAAAAAFRAgMEERMS/9oADAMBAAIRAxEAPwBxReKLaQhXjkQnuMGpLrU7YgZlAz6gilS+vYRWSEDtlm5z/gqrvvE162PLlCc52KwrNZKgPJyMvUb21WUb54l/LUUiNU1O6uLov8VKpPJw5xRWiyHBOCkql8YWzHZumzvBAMfvU1zrMdxp1zeIZSsDor8D6unHWuUae2MChZZG4j2weWAIzn5iG/XXvuPpWUpurqCF71imnxMqSNFztJPUju3NBWaULZtHWbYk5Mh/j3oqmu5EaVltty2ysfLB649T9zRS8ouz/9k="

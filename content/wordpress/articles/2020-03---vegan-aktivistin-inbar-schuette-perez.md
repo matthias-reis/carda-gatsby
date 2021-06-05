@@ -1,39 +1,36 @@
 ---
 date: 2020-03-16T16:26:10.000+00:00
 slug: inbar-schuette-perez-interview
-path: "/2020/03/inbar-schuette-perez-interview/"
+path: '/2020/03/inbar-schuette-perez-interview/'
 type: Artikel
 typeName: Interview
 title: Vegan-Aktivistin Inbar Schütte-Perez
 seoTitle: Vegan-Aktivistin Inbar Schütte-Perez im Interview
 ogTitle: Vegan-Aktivistin Inbar Schütte-Perez im Interview
-description: Inbar Schütte-Perez ist in der veganen Hamburger Szene bekannt, wie keine
-  andere. Ich habe mit der Aktivistin über ihr Leben und ihre Demos gesprochen.
-excerpt: English & German - Inbar Schütte-Perez ist in der veganen Hamburger Szene
-  bekannt, wie keine andere. Ich habe mit der Aktivistin über ihr Leben und ihre Demos
-  gesprochen.
+description: Inbar Schütte-Perez ist in der veganen Hamburger Szene bekannt, wie keine andere. Ich habe mit der Aktivistin über ihr Leben und ihre Demos gesprochen.
+excerpt: English & German - Inbar Schütte-Perez ist in der veganen Hamburger Szene bekannt, wie keine andere. Ich habe mit der Aktivistin über ihr Leben und ihre Demos gesprochen.
 fileName: 2020-03---vegan-aktivistin-inbar-schuette-perez.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_inbar-schuette-perez.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_inbar-schuette-perez.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,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
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_03_inbar-schuette-perez-fb.png__l.jpg
 labels:
-- Anonymous For The Voiceless
-- Cube of Truth
-- Cubes of Truth
-- English & German
-- Hamburg
-- Hamburg
-- Hamburg vegan
-- Inbar Schütte-Perez
-- Interviews
-- Israel
-- SOKO Tierschutz
-- Tal Gilboa
-- Tierrechte
-- vegan
-- Vegan Cube
-- Veganismus
+  - Anonymous For The Voiceless
+  - Cube of Truth
+  - Cubes of Truth
+  - English & German
+  - Hamburg
+  - Hamburg
+  - Hamburg vegan
+  - Inbar Schütte-Perez
+  - Interviews
+  - Israel
+  - SOKO Tierschutz
+  - Tal Gilboa
+  - Tierrechte
+  - vegan
+  - Vegan Cube
+  - Veganismus
 focusKeyword: Inbar Schütte-Perez
 status: publish
 isWerbung: false
@@ -41,9 +38,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Wir müssen groß sein, wenn wir Großes erreichen wollen"'
-languageLink: "/2020/03/inbar-schuette-perez-interview-en"
-
+languageLink: '/2020/03/inbar-schuette-perez-interview-en'
 ---
+
 **Inbar Schütte-Perez ist in der veganen Hamburger Szene bekannt, wie keine andere. Die vegane Aktivistin organisiert neben vielen anderen Events die sogenannten "Cubes of Truth". Seit Kurzem hat sie ein neues Projekt. In meinem Interview habe ich mich unter anderem darüber mit ihr unterhalten.**
 
 **Anne:** Hallo Inbar! Danke, dass Du Dir die Zeit für das Gespräch nimmst! Wie geht es Dir? Du hast ja ganz schön viel zu tun: Job, Familie und dein Aktivismus. Wie sieht Dein heutiger Tag aus?
@@ -61,7 +58,7 @@ Meine Brötchen verdiene ich in der wunderbaren Kochschule "Kurkuma" in Hamburg 
 ## "Ich bereue, dass ich nicht schon früher Veganerin wurde"
 
 <RemoteImage
-alt={`inbar-schuette-perez`}
+alschuette-perez`}
 size="medium"
 title={``}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_inbar-schuette-perez-1.png__m.jpg"
@@ -128,7 +125,7 @@ Active Vegans Hamburg setzt den Straßenaktivismus von Anonymous For The Voicele
 ## "Du musst nur die Teilnahme bestätigen!"
 
 <RemoteImage
-alt={`inbar-schuette-perez`}
+alschuette-perez`}
 size="medium"
 title={``}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-14-inbar-1__m.jpg"
@@ -205,7 +202,7 @@ Wenn jemand die Zubereitung von Veganer Essen als Herausforderung sieht, lade ic
 ## Jeden Samstag ist Demotag
 
 <RemoteImage
-alt={`inbar-schuette-perez`}
+alschuette-perez`}
 size="medium"
 title={``}
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-14-inbar__m.jpg"

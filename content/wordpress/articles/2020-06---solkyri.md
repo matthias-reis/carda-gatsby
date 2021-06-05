@@ -52,7 +52,6 @@ subTitle: '"Post-Rock bietet der Phantasie Spielraum"'
 <RemoteImage
   alt={`Solkyri`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_06_solkyri__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_06_solkyri__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYBCP/EACkQAAEDAwIEBgMAAAAAAAAAAAECAwQAERIhMQUTFFEVMkFSYZEGQuH/xAAZAQACAwEAAAAAAAAAAAAAAAACBAABAwX/xAAeEQABBAIDAQAAAAAAAAAAAAABAAIDEQQxBRIh0f/aAAwDAQACEQMRAD8A85QYrslmU62WwmM3zV5rCbi9rDufj4qdtp0xlSA0ssIUELcAulJOwJ7mtB+MzIkWI01MgIlNgIebKV4HMhV8tDkPTXa1Zt1coS3OHIxCX3EKS2na58v0DQtks0ujk8eceFkxN9viu9C94OeKXQIhf6bzDLPG+3a1RToaozERanmHRJZDwDSwooBNsVD0NMGpCRwoMclkuEFvHC90+63ut670g61x6JGYW5k20k4psBjfU/dhUY7taWmhEQHt2FTMp9sNBDqhyTmi26Tf+U6mcXQGo6oPLD6YAjPOllKVlRFlWO50JGW9FFaNNWK2l3EuqzpLvGJZkhw8k2bLYQWhjbDC9u9tb99a4y4non7485bif12SNdO2ttqKKEeKy4nZX//Z"
@@ -113,7 +112,6 @@ Wir haben uns so sehr darauf gefreut, dieses Jahr wiederzukommen und die DUNK! C
 <RemoteImage
   alt={`Solkyri`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_06_solkyri-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_06_solkyri-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgf/xAAqEAACAgEEAQMBCQAAAAAAAAABAgMEEQAFEiExBhNBUSJCUmFicZHB4f/EABgBAAMBAQAAAAAAAAAAAAAAAAADBAEC/8QAHREBAAEFAAMAAAAAAAAAAAAAAQACAxESITFhcf/aAAwDAQACEQMRAD8A47vsSH1nu0llQ4jrxuSR+jP9ax1iM2LUqIre8+Mdg/GeIA8D89dHkpR3/We7wSFis1aJSR0cFMHGoFula2mvfozoZREq1onEYHJWKv577OAM/ABx50rpSMo03uNJ7mSiZEtqpBIUcXPwfr1rWUdhkkJSDiDNYjrDl+Iqzfx1pXZp69+O+lv32mkgrwV44mUB2XA7yM/dU9apbvGWTjCxDPIG4g+fsn/ddHlJtdlt26LiiVZ+8cdlaC7Uh9TWtxN+uIpEjULxck4HecL9c6S9Q7Rull6V+GMyo8zzZh5Zc88hm+BhSFH0A/fRo0zGpgk67OzIG70rm1tWM9f2zDK0iPGcjs+MjS0e5yPcgMicE9wFifAXBGjRoIT/2Q=="
@@ -176,7 +174,6 @@ Solkyri gründeten sich 2006 in Sydney. Die Band besteht aus Adam Mostek (Gitarr
 <RemoteImage
   alt={`Solkyri`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_06_solkyri-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_06_solkyri-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcDBAIFBv/EACkQAAIBAgYBAwQDAAAAAAAAAAECAwQRAAUSEyExIgYyQRVRYYFCcZH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQA/8QAJBEAAQMCBQUBAAAAAAAAAAAAAQACEQMFBBIhMVEUIkFxgaH/2gAMAwEAAhEDEQA/AFrl8MUlLPKJ7SxGMCMRk6tRP8uhwCbW5sftfF2ERvA8gqYd1GVdkA6ipv536tcW+/5wtUzKdJn22ZYWkDlQ1rkXAY/nk/7hlZf6qii9D1Rky+H6s0Co87MRrj1i3j1wDa37wus404jWU222rrg/ujIJ5513G330phRzPRTVm1qponWJ3BHDMCR+uO7Y1cxsSLra3AJuRirl+dK1PVyy0qsQNl0LnRYHxcDsHk84zpsv9WzaKJcjneCsC1kDrYq6aT5Bvb7Tzcjq3fGMx2YlTYi3vohpmZHjn8S/kQb7D4N+LfN8V1Z9TxBzpIIwYMUFLY4gGF0Az+lXP5Kg5e7UUujch3NLWAXVYgWHkCevnEFPSwpBQTSVVW0zwvKqMtkUgkWU36/oYMGDTY0AmEcRWe8NBK//2Q=="

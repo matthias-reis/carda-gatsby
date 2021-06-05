@@ -51,7 +51,6 @@ Eine kleine Guinness-Brauerei in New York war es, die den Ruf nach mehr Traditio
 <RemoteImage
   alt={`Guinness`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_guinness-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_guinness-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcI/8QAKBAAAQMDAwMEAwEAAAAAAAAAAQIDBAAFEQYSMQcTISIyQXEUUZEk/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMA/8QAGxEBAAIDAQEAAAAAAAAAAAAAAQAhAhESAzH/2gAMAwEAAhEDEQA/AHyFJskRvuzLzAYVkZbceTu/gyaXX9cSVOJVHsjH4qF5U4t1SlKRnlOAACRxnNZpbJsByBK/0uNqZbJ2LWlk7sePSADVhOkWoQ1IEhhftG5LqlqwMbiDkj+cVu1ajPMC5vsyVZoMVt83WClt5sOJ7rqUKCSMjIJyDg1z91jkW66zn37ZKalhqF2XlNDKRlZxg/NWGjLjoWJCca1BB7shv1okJaddDg8DykEAffHxS31E1bZbpcY8HTtqjQLenLanUtBtb+SDlQHAGPA55+qaVJDcyyIHHHXg0sI7ZHuG7JJ+/FOdvauCIDKRNjlttSkpSuKFY3n1ck87RRRU+klDAfsktNlMp5iPInSS2tSPZtTgFWMcH90x9Qun9o09bUzYD09UpqSlIU86lQIwo8BI/Qoop4uy4MjTU//Z"
@@ -66,7 +65,6 @@ Entgegen der Behauptungen einiger Sensationsreporter, die laut verkünden, Guinn
 <RemoteImage
   alt={`Guinness`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_guinness-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_guinness-3__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwX/xAArEAACAQMDAwIFBQAAAAAAAAABAgMEBREAITEGEhMiQRQVIzJRQlJhgeH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAGxEBAAIDAQEAAAAAAAAAAAAAAQACAxEhIhL/2gAMAwEAAhEDEQA/AMoejvyQxVMd4gd2UHxiMEgDfcYxpBze7cvzR2pyiAxK3wqgHu32Hbj2512+nrffRJRhLdUMXiZkV4WAZO3duOAN9dbqCsooukJ7ZIsc7u6eSocKGRlIyq552J+3HODwdJWm3oMW2agld9Zmklxqap1qqhYwWRgfGgQHYj20afoKIXGOKmSPtywigkCYznhWPv8AnONGt+6Y/LyVqWubCa30zYuqZTT3Sz3yaSpGXjSqR2CekenByrKQMbHj21A9Y3l+p6uWsmVIKg/UlWJfpluDsOP931d2291lx6HrrXbn+EqWPZH429cqbEqW/cV2/nBGoa02J/NXw3OQ29oaZ5oZ5PSgkXBCspxkMMrjnP5wdTx3DqwyYarw1J5ZJgC8JYGPt+0YVQNs6NJ3aoqGkejhgaMEDvVFO/8AZ/T+NGqIPWB55P/Z"
@@ -85,7 +83,7 @@ Aufpassen müssen Veganer im Moment noch in einem Punkt: Die Flaschen und Dosen 
 > Da die Distribution noch läuft, könnte es sein, dass Restbestände die noch mit dem bisherigen Filtersystem abgefüllt worden sind, im Markt vorhanden sein können.
 >
 > Wenn Sie sicher gehen wollen, dass das von Ihnen gekaufte GUINNESS mit dem neuen Veganen Filtersystem abgefüllt wurde, so prüfen Sie bitte das MHD. Wenn das MHD mindestens September 2017 ist, können Sie sicher sein, dass das GUINNESS durch das neue Vegane Filtersystem gelaufen ist.
-> 
+>
 > Liebe Grüße Ihr Guinness WebTeam"
 
 <small>Vielen Dank an Robin Rader für den Hinweis.</small>

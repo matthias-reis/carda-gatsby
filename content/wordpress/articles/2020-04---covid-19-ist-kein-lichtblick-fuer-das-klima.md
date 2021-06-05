@@ -55,7 +55,6 @@ berichtet sie. Die Eingriffe des Menschen in die Natur wie etwa die immer weiter
 <RemoteImage
   alt={`COVID-19 ist kein Lichtblick für das Klima`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_2019-07-00-instagram-55__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_2019-07-00-instagram-55__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHAv/EACkQAAICAQQABQMFAAAAAAAAAAECAwQRABIhMQUGEyJBUXHhI2GRocH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAeEQEAAgICAwEAAAAAAAAAAAABAAIhMQMSERRBgf/aAAwDAQACEQMRAD8AlaPm20gR1FQKT1IuAoxnk5GOjqq+ZXi8ZIklNarKrhvUj9w2sSeN3G3PPHzrmvarGEJaO4HO8ovwOue86ZzX4IrQsWIGt0kkUkWlKsqno+3kkEfcg6D2Lcihj8Myr8FaguZU/MC1/D4jBXlklWQfqucKWGOPg8Z5/fOqYbUIkJUbirZGOM/nWheO1Y799mWB64BJfLhlyfocZ/n51nUlTF2ZR0JCoPxnOq4vDj7BtQrk1NVjuelYeCJ4kk7SRgAnQ9xJ7767J61H+IWLVp4mjMjjA3bRtBIIPZ/OjRrChV7G4zdTqxFo3bSgOwDMoDNuLHjP2+v9aaDybCJGaW3OqtyVQhf80aNNWoakudz/2Q=="
@@ -82,7 +81,6 @@ In ihren Augen muss jede positive Auswirkung auf die Umwelt im Anschluss an die 
 <RemoteImage
   alt={`Inger Andersen`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_2016-06-finnland-610jpg_29988577906_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_2016-06-finnland-610jpg_29988577906_o__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QAKxAAAgEDAwMDAgcAAAAAAAAAAQIDAAQRBRIhBhMxFTJBFFEiJGFxgaHR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAHhEAAgIBBQEAAAAAAAAAAAAAAQIAAxEEISIxwRL/2gAMAwEAAhEDEQA/AMZNqYL/AFMLAkqQPkbR+JVzjd9hjjz4q50fY6x6odM02I3MspWRVEhVeR7jj9P3qs0F5bdq1lmk+oYNFNbnja272k+D/OaaukrKO21uFIr8W35cTKBDvKsrkEY+Ths8VraXTku2PYaoJZxO+fI8HS7SOCC2NvFHdbiJst3GDfJ3DjA+MUo9bdNXHqtlawxSzWEidxVKKvccZyFPLE8D7DkU+23WENq5L9QaGUQ4ZW0M7/6Aqj1f1THNf2ev6Nrtm2oQBLVII7MwY3N78knCj5JoVuqdhjMdXQgMwj1pzcSXBU43lgufAPkeagmrypeCeM7XGckNyckf4KKK2Ls/Zh1RV6EJ9WmacOjLwc5PkVzrnU5pUaNnyuOMcZooqAgl/Rn/2Q=="

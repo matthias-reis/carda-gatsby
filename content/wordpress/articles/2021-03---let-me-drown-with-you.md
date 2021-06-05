@@ -79,7 +79,6 @@ His EP "In the Grave of a Forgotten Soul", with which he finally cemented his pl
 <RemoteImage
   alt={`Rise to the Sky`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_Photo2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_Photo2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABkDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgQHBQj/xAA0EAABAwMDAQQFDQAAAAAAAAABAgMEBQYRABIhEwcUMUFRU1Rh0RUWGCIjMjNScYGRk5T/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8ACVCGVOIU2OCtCeP1xqGPcUKCxIkmn1CVTWpKYz09tH2CVkHgHzOAePdrrX1UJduWjTKu3HjLkTKnJbZJcQ42GGdgQSEq++VE55wMYwNU0u4mragVK06lBcmLnxzJgQA630UuvpQoIdQUnappwqOVKTtSk+ORoE1tW06/E6jGHGlSNyVp5CwQkgg+jB0t+aD/AKlequzPtAplQuONby40Fa3JDp+UkyNrMohA/BTjkqcCgEZyEpz541ufSb9Wj+BoPB7Z7zANNpDkGKITr0hya8nEaISHFoBVyAonKU4H5dBYLT1IdRWp7gXMUQ/FK/r71kBfUVnxxuHB8VHShlUGTTK/Clzy2e+RX26eh0pExXTWkICQMbt23JOAE+/TatdptiXTb66VdVqPQ4XfdzUyjLbQ4XEICOpjakY2bRgg+XoGgwZVSll1hxD621sbS0ptW0oKeUkEeBHHOt0+kJevt0b+pr4aS9mFQ7M7RVOes+vVKZOmxyhUaottkKAyRwG8g/vzqXu7HskX/Oj4aD//2Q=="

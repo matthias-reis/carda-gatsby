@@ -52,7 +52,6 @@ Ausklang - was nach dem perfekten Ende eines erfüllten Tages klingt, ist ein au
 <RemoteImage
   alt={`Ausklang Interview`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_ausklang-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_ausklang-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAcI/8QALBAAAQMCBAQEBwAAAAAAAAAAAQIDEQQFAAYSIQcTMYEVIlFhFCMlMjNBcf/EABcBAQEBAQAAAAAAAAAAAAAAAAEEAAL/xAAaEQEAAgMBAAAAAAAAAAAAAAABABECEiED/9oADAMBAAIRAxEAPwDo20t/TGdKBpgkGPc4jv7r1LZK+opmQ4+2ypSEhM7+sR+pntjDMzZrey/xOtDdzXVU9CWKaobUh1MLaVKVACRsVap1ek4tcV+MrNoraqx5bZYqHEJQHa7nBbcKGopbCdj5VRqnbfbbFT5q8kpmB2azke4uXWxpdeAcU04WQ4YlYSBuYAE7xsMQ3y8252petCXJrUo5hGnbykSJ9fN0xzzw742eA1LlJcaEvWdbmtLba/mU5J3KSfuHsY6dRhtZ+IFozNn+4VAZfpKxxgi3tBYLa1bczUeuooTIHSZ9sOiNs25kUTFuI9+fuufbzVumNDvwzY1EhLbQCEgdkz/ScIn1t+HN1HPmqW+tCmtoDYQgpV3JUO2DBhvk5ouL+aT0O5xesFeaPMFsqifw1TS+wUJwYMDECf/Z"
@@ -87,7 +86,6 @@ Ausklang - was nach dem perfekten Ende eines erfüllten Tages klingt, ist ein au
 <RemoteImage
   alt={`Ausklang Interview`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_ausklang-6__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_ausklang-6__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKxAAAgECBQIDCQAAAAAAAAAAAQIDABEEBRIhMQZBEzJRFCJCYXGBkaHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIB/8QAGhEBAAMBAQEAAAAAAAAAAAAAAQACAxEhMf/aAAwDAQACEQMRAD8ASWy7DtJEk7xx+K2hS3LH0HzrZTAxR2jjTQq7e72rmnVfUWYHOIIYJFjXBkMuwAZjYkt2I2At9a1M96ymbCZYVw8Ms7lMWWclAjD4duRzuaC9VjZ2Kxmx+LkwkSQyzIiFyzSaSbhVJFxccmwvfvSxnkwbDK8skhlK62RjZQT2AH9qn11nLzzZZ7M7wkwLOQjeUtYj8b0tRY6RopIpZHdfMpc33vv+zW0oh2VpqdSS9VL4maq62PjIo+/FSZuFxOIgw68KNIPJsBxRRSPyEHVJl4qV3EGoEskVt/TiiEqYm1MNQB2tuRRRVQV9n//Z"
@@ -116,7 +114,6 @@ Wir selbst haben zum Beispiel einen guten Draht zum Duo Ceeys (Contemporary) aus
 <RemoteImage
   alt={`Ausklang Interview`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_ausklang-5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_ausklang-5__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBgcCBP/EACcQAAIBBAECBQUAAAAAAAAAAAECAwAEERIhBUEGEzFxgSJCUWGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIB/8QAGhEAAwADAQAAAAAAAAAAAAAAAAECAxEhEv/aAAwDAQACEQMRAD8Ar8kdta3FotztvcSeXEoAJJ/Pt6f2vdJMtvJKEkCzQqGdB2U5wSPisd8Z3Mzdft9ZWAREMOpxoc+o+cU0s+vXcfiaU3lzI0Ew8sqWygH2jHYDBoKhsWK1wuXUerbSyWTzxGRYwddxttgEjGewPxxWcdeLPcnQEk8cUvjdh1ud1cGdZ2cOBnJDHvTAXSv1OEyH6WkAPtmkmPJLyJ8IPEEyPNbTNgmJxkdyM1HHcksZ4dRP5iyJIzcLrngDHJ5HJooqktkt6Yvt90uXJOWyGY+uc811OcH90UVoZ//Z"
@@ -163,7 +160,6 @@ Ausklang - what sounds like the perfect end to a fulfilling day in German is an 
 <RemoteImage
   alt={`Ausklang Interview`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_ausklang-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_ausklang-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBQMGCP/EACkQAAEDAwIEBwEBAAAAAAAAAAECAwQABREGIRIiMVEHExRBYXGBkTL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAT/xAAbEQEAAwADAQAAAAAAAAAAAAABAAIRAxIhMf/aAAwDAQACEQMRAD8Ae2kYiBA5wDsOprPqtaoVldfiIwsLSFLT1QkndW+R2HT3pSNa7VZtexI8+Q9FgnyjkqTwLaUMEkduLiyTvttUDxL8YH13OdaLSYnoI7qmi6nn9SAOuc44c9uuBvWx421tPkx1vWp7HtaUIlWyI+60gOOtBSgM4yarbk5AmokMxVoU4wcOBII6jb76GknoHxwegttQ7w0mRFSCEKTstG3KB7cOf5mto0NrO132ZfPKX5FzUUOCPnKVMgnJQfchSt/gio40dZN6p5OWtVX164aknSivIKw2jcnkSAkY/mf2oUicwYcbyVO+ry4Xyr/JBKeAD6AVn7oop1zIdSR25K1KwjiPCCo4BOB3PYfNX+h7+5Zta2uUXMoTIDLhSdlIXyK/N8/lFFGsepP/2Q=="
@@ -198,7 +194,6 @@ Ausklang - what sounds like the perfect end to a fulfilling day in German is an 
 <RemoteImage
   alt={`Ausklang Interview`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_ausklang-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_ausklang-3__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBgIDBQj/xAAtEAACAQIEBAUDBQAAAAAAAAABAgMEEQAFEiEGBxQxMkFhgZETIlEVI1Jxof/EABgBAAIDAAAAAAAAAAAAAAAAAAEEAgMF/8QAGxEAAwADAQEAAAAAAAAAAAAAAAECERIhQQP/2gAMAwEAAhEDEQA/AO3VJUZDmtRmtIHqI6pz+r0kY+2pcbNPCvk6WIP8wbeK2GXwL9NMjo+lkDRSqrhwCNUYAO39i3zhC87uII8q4e6Gnnmgr55EjRIftISMDZiOwClCbd2f0ONtZzQp8pyXI1hzOobN1ak6iKnXXG9OE/cFyABqJ2HfbyxnzmaVpDjlUsZGZzdkp6rI68WVmMUhUW7NYm/+Y8yZnEmoyKBZwGHv+PnF65pcewpmdFLlFd1tJUUrGSmNwlm8LXte/f4wujPG+XU5aRd4l7sL7C3bEE6p7P0uhTM6+k3m+7S5xSVEUokpYlakicDxaSHD+4kX2UYp01U0sFKxjRQmqPUt7ncHe59dreuDBhr5dhZFr42YVkrGmiAZiGUmxPqcSoHjaIK5KqotqVdV/PYXH5wYMGlwCfT/2Q=="
@@ -227,7 +222,6 @@ We have a good connection to the Duo Ceeys (Contemporary) from Potsdam and will 
 <RemoteImage
   alt={`Ausklang Interview`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_ausklang-7__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_ausklang-7__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwT/xAApEAACAQMEAQMDBQAAAAAAAAABAgMABBEFEiExBhNRkTJBYRQVIoGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIA/8QAGxEBAAMBAAMAAAAAAAAAAAAAAQACEQMhQYH/2gAMAwEAAhEDEQA/AIi50aKZP5JGvOMkgd/bNMNP0CLTl2x4MzfWx/we1Rnm3kl4iW9hB6a5InaTaMkjIA9sc5+KY3/nrftFhK1sf1kxWRhbvsAVThlOc5Bx9qC5Z8RudgZTXOppZ26q8bRz5YtliBtVSSAcEE9AVLa/cysqLK3powBG5zIeRnnoA0t8+1t5NRshYuY1MKylWUHluRnP4qbj1KWeMLcuZfTIILj6h+fetzohsrp0que50eZn1rq2kU7iUKf3msdUjWY29qvUabQe+h180UUmwg1fkXX08kzxNJkusKrk94xxRGFMIYsu5R1znv4xRRVkFdZ//9k="

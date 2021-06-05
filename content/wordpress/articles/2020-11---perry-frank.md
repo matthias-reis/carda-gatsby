@@ -46,7 +46,6 @@ Von der Ein-Mann-Band Perry Frank gibt es bisher die drei Alben "Music To Disapp
 <RemoteImage
   alt={`Perry Frank`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_perry-frank-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_perry-frank-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBAMFB//EACoQAAIBAwMEAQIHAAAAAAAAAAECAwQFEQASIQYTMUFhIlEHFBUjYnGB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBf/EAB4RAQACAgIDAQAAAAAAAAAAAAEAAgMRElEhIkFx/9oADAMBAAIRAxEAPwBNsYof1ZRcKMxLORJ2o8ggZzj4H9+jroNirqyOkqLlQpLDT2icStC0/wBMiuAjRj3ny3+eNUbBb2ght93ulSkVYIO2G2jJXzzn399Zur7hUUapebak8tuWaQyiCNWUSSQqmW3KwAPIzt9nnnWW1rkRXYx6atLV9qaK83KkttC1xfbJseeoKRBySfpkZVCsMEAZ88/OtNZukoqe63RGiZOzJCJYkYMcZcblJ8HBAxj3xqx+F1hnTpaqqEniqqCtrDDJb5SFkggGdz88BjwRt8YGNF8uCQ3xLRDerhK+zZWVEVMUE0+1O2VHO1duCWP8jqRgtSzwtse4Wm/MZ+jnmr6jtyQR1Vni/Y/MVO2N5nA2k7fnAyfeNR13W2SC23Gkp4cVMRBnNBE8mWIPaVmGBhiRx5wDjRo09KjU/YR1Qe4ndKU8a2R7gkc9ZWwOmwVASniWbON2/wBKCfAbJ5+2mzr2S32OgtrSy7pJJ9rKpEndducFhwASfeSBo0aGI5qPxk6ewz//2Q=="
@@ -109,7 +108,6 @@ Ich habe es aber auch genossen, in Museen zu spielen. All diese alten Reliquien 
 <RemoteImage
   alt={`Perry Frank`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_perry-frank-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_perry-frank-3__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwUE/8QAKhAAAgEDAwEGBwAAAAAAAAAAAQIDAAQREiExBQYTIkFhcRQyUVKBkaH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQMG/8QAIREAAgICAQQDAAAAAAAAAAAAAQIAAwQRBRMhMdESQXH/2gAMAwEAAhEDEQA/AEe97qCxeVbp5bhwuICunC53O3mD/Kw7maWTu3LZdhjGfL1q/wCHwWlu2DyDhQcgDyrj67dJBFHoWLMw0hiMhQRvx7ik9Ir3JkarNR36aDZltqouoJJLIo6p4W0EH8Yq+xsH+e4AAOyh12/VZPY+YWtw1szRILhgCzPjBGwGTznNPModVjxoVx92+oDk4pNADKGMl8nk202moeD4P3qI/VbpLFGecNqlBMIHDj6+lL9z1ie4iWOSOHSkYiTwnwqCDtvztRRQchyHKidBxlFb0raw7+jqT6b1dbOYSyWkc7K6OuTjBVgc+5xjNbk3bdrm5WWewRWVWAaOTJBJB2zsOMUUVmtzqNAxF3G41zfN12f0+5//2Q=="
@@ -170,7 +168,6 @@ The one-man-band Perry Frank released the three albums, "Music To Disappear"(201
 <RemoteImage
   alt={`Perry Frank`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_perry-frank-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_perry-frank-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYIBwX/xAApEAABBAEFAAAEBwAAAAAAAAABAgMEEQUABhIhMQciMmETFEFRcZLh/8QAFwEBAQEBAAAAAAAAAAAAAAAABQMCBP/EACQRAAECBAYDAQAAAAAAAAAAAAECEQADBSEEEiIxQVGRwfCB/9oADAMBAAIRAxEAPwDlxMu4aJeUPLtWsqyu6dzr3I/Mjzp7DrDig0y24oJQkHoFPhFVZI7vThFcJbS4Cfq4gG7Hnff86V8nhd0y5sovxZTEGYslDjw4ILYPVfagOtIVGoaQMwF+2+aCqXSwhZ0k26f542HCbzxOcx9x5qJGX4JUMe2kg2aB+Y+9mur04Nyp2Pd/KSVGI+gjk0paVlFi6/bUwbGzjmx/iDjcmsJcTBkAPJSeQW0r5XB/Ukj7gasbLxcFmZsWVCyiIst63EKbWkqfr6TRsHq/00NUauUEJxCc6F/jM2zezHTJpKU3kqyqHO/njwInvIbo2mvba2cdMfi5FlJcQ4qMVKeWfbNADoAAdVpTz28zuDEvY6W1HQ0pttKXy2VKbKB1xNWLN3/mjRqSMIhBCiSSNn4eEzOUUlIsD6hWgQ4MhTaQ4WzxIWFUm13QNnoJ7F+eHT67k58NEXHJyG3n0sI/DDwyI5KquKuQNdAD3Ro1PFnUAbxqQAY//9k="
@@ -233,7 +230,6 @@ But I love playing in museums too, seeing all those old relics while I'm perform
 <RemoteImage
   alt={`Perry Frank`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_perry-frank-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_perry-frank-4__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMEBQIG/8QAKhAAAQIEBAUEAwAAAAAAAAAAAQIDAAQRIQUSMUETIlFhcQYVgZEyQqH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAQX/xAAfEQACAgEFAQEAAAAAAAAAAAABAgARAwQSE1FhkYH/2gAMAwEAAhEDEQA/APWepX5+bn3WECySlyta0GtfG58RmpS9MKcWpxhKUIyZkgAGxrXaut4ZwGfcHhMTLnHUVJJbsm3ca+dIqlzhnB4qFhKiKXUrMnlGqSb3r/OsaChAtdeGFZn3X36JOhlCWskzMLcCW81PyIFL0N9u8aHpeYVJvNKQ6XGyblJrlPcbfMLmG8NWwC2ysJKTV2igAbgVH0YRITMtJkplypS1lKdgDfpX5iMC2OgSb8qRSBk3Gh+3OMcw9mQxJeZslpyptqk106QhcxJtNuITLkn9AVb06eTt0gghenx8qqWJ+weqycJbao+Shp5DsqEttBQbuMqChW1iac3XtFuDyhmsTQRJjlvmNTqa/cEEAzOysygmpo4kRlR6Fmf/2Q=="

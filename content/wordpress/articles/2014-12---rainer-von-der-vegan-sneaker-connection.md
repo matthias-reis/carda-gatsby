@@ -131,7 +131,6 @@ Es ist teils sehr schwierig, überhaupt Infos zu bekommen, denn die Leute in den
 <RemoteImage
   alt={`vegan-sneaker-connection-rainer`}
   size="full"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Das-Logo-der-Vegan-Sneaker-Connection__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Das-Logo-der-Vegan-Sneaker-Connection__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGAv/EACAQAAICAwACAwEAAAAAAAAAAAECAwQAESEiMQUGFHH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBgf/xAAaEQACAwEBAAAAAAAAAAAAAAABAwACEQRB/9oADAMBAAIRAxEAPwCgD+W94g+4y2nb42tFY/NSsSSJYmDMpHh4AFe7332BzvMbByGVhrY7hqWBL4SwV3RvatGCD/Rmf8jKqdVlhueSk6FlizQHNk/9KsTP8daSae1YghnaKvPaULJIoA3zZ4G2Ad46eXQ5m5LJjIRIYFReACMaAwKVz31h6rhrbMAzfIkUNKCpO5P/2Q=="

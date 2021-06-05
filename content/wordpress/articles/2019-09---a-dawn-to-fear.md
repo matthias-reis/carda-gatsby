@@ -70,7 +70,6 @@ Am besten sollte man das neue Album, genau wie alle Werke von COL, _am Stück_ k
 <RemoteImage
   alt={`cult-of-luna-a-dawn-to-fear`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_cult-of-luna-a-dawn-to-fear__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_cult-of-luna-a-dawn-to-fear__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgFBv/EACsQAAIBAwMDAgUFAAAAAAAAAAECAwQFEQAGIRIxQQdREzJhcYEVInKRwf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAA//EABgRAQEBAQEAAAAAAAAAAAAAAAEAAhED/9oADAMBAAIRAxEAPwDv/UjfNPs2kgjjhFVc6nmKLOFjTODI/wBPAHk+wB0Sbl3Gaq5Q1ldeJKtMsFjLEKBgHAUcDByOPprR9VZaK411wrHqKSWaNuhMSLlAvAA578HOgeunT4nV1nAPC+321hjByVmmq3VHZ4/1G0101KUiEjCmkz1FuwK9m8dxxnSZ6Wb8qt1wGK9UCUVWy9dO6txUIO56fDDvxwRkjGNS3ti3Vt/uaCgpBWSxAExsyRoi9snqYapDa1DNQXCiqrjX2qlaN1zEauJ5MAYxnqAGfsdW8nJFi31J2atBu27KkcIjmmeZeB1gOS+R798aJqqneCrkTpLMvOF5A/HnVr722hTbnihlLCKthUorn5XQnJVv8PjUxb227drVepKWvtNXSRyzsIGMZ6H/AIMP2n8HT576QnI7MJlndPnYHzyT/eur2NYprxua1WmKBQ09UkbMo56AwLMePCgn8a0rTsyru91aKy2+qqpGJwUThRyOpm7Dt76on0p9OY9oRvcLi6T3ydOglTladDjKqfJPlvbgfV3sCg7f/9k="

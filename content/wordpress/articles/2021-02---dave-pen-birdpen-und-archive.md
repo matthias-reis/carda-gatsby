@@ -113,7 +113,6 @@ BirdPen kommt etwas direkter und aus zwei Köpfen. Vielleicht ist unsere Musik a
 <RemoteImage
   alt={`BirdPen All Function One`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_birdpen-allfunction-one__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_birdpen-allfunction-one__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYE/8QAKhAAAQIFAAkFAQAAAAAAAAAAAQIDAAQFBhEHCBIhMTdBdbMTF1FSgTL/xAAXAQADAQAAAAAAAAAAAAAAAAABBAUA/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAwQRBSESMVGx0f/aAAwDAQACEQMRAD8A1+nq9qHbt2SsjV5h9p5yRbeAQwVgpLjg4g/KTC390bQ2QETc4AogqxKr34/YrNdTmnS+yted+JdW20pK46XU1zbMqssrawXmA5x2+p4cIhZXB4lthutYjZ2fj6jleXaq+KgHUsFaULQDpWZqdCTvOZVfHOftDF0DXpQrivGckqPMPuOoknHylxgoATttgnJPyoboWGtXb9JoNMtxqlSEtKvFx4vFpCUqWnCNknHT+sfscmpXzTqnZnfOxAw+Exa3W+st162R+Q25djAowHcNdTmnS+yted+MVou0sVLR9JzcvTZOSfE0UFZmW1Lxs7WMYWn7GCCLjoHGmiisVOxKa+r2mbtPqTqB65cKyvKuvQAqOBx3D5hnalfNOqdmd87EEEZVCjQgZix2Z//Z"
@@ -264,7 +263,6 @@ BirdPen is simpler and more guitar and lyrically driven, whereas Archive is a lo
 <RemoteImage
   alt={`BirdPen All Function One`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_birdpen-allfunction-one__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_birdpen-allfunction-one__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYE/8QAKhAAAQIFAAkFAQAAAAAAAAAAAQIDAAQFBhEHCBIhMTdBdbMTF1FSgTL/xAAXAQADAQAAAAAAAAAAAAAAAAABBAUA/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAwQRBSESMVGx0f/aAAwDAQACEQMRAD8A1+nq9qHbt2SsjV5h9p5yRbeAQwVgpLjg4g/KTC390bQ2QETc4AogqxKr34/YrNdTmnS+yted+JdW20pK46XU1zbMqssrawXmA5x2+p4cIhZXB4lthutYjZ2fj6jleXaq+KgHUsFaULQDpWZqdCTvOZVfHOftDF0DXpQrivGckqPMPuOoknHylxgoATttgnJPyoboWGtXb9JoNMtxqlSEtKvFx4vFpCUqWnCNknHT+sfscmpXzTqnZnfOxAw+Exa3W+st162R+Q25djAowHcNdTmnS+yted+MVou0sVLR9JzcvTZOSfE0UFZmW1Lxs7WMYWn7GCCLjoHGmiisVOxKa+r2mbtPqTqB65cKyvKuvQAqOBx3D5hnalfNOqdmd87EEEZVCjQgZix2Z//Z"

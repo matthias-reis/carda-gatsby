@@ -33,7 +33,6 @@ Die Gäste reisten zahlreich aus dem gesamten oberbayerischen und schwäbischen 
 <RemoteImage
   alt={`Tom_und_Flo`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_12_9915324134_eeaa627d60_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_12_9915324134_eeaa627d60_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAII/8QAJhAAAgEDAgUFAQAAAAAAAAAAAQIDAAQRBSEGEhMxYRQiQXGRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIABP/EAB0RAAIBBQEBAAAAAAAAAAAAAAECAAMREiIxIcH/2gAMAwEAAhEDEQA/APK1MtJ0S+1W2vZ7OLnitEDyk+ewHk4P4aWVecBrZxRanp2oXd5DFqlr0ke2mMQWUEMgcdnVvcuD8kUlUsbCOnjltyQ8au3MyoWCDmbbIA8+K4JySf5TW8sW0q+vLeUl5bSboyqpK5KsQw+tqzxWsVw7sGeGIklVILkD7AGfyi2vYGYKLmYab2E7M9tjIYPGoOexDDBoopofZSr43WKx43uZ+hDO1xeyzTJIvsfmZhy4GNu/znzUdrxtJL9pdPtPR28gDLB1DIE23wx3xnJ3ooqqE5ETZXUANYcPwT//2Q=="

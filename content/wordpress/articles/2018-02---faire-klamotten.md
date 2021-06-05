@@ -69,7 +69,6 @@ Nachdem ich inzwischen tatsächlich eine kleine Sammlung in meinen Browserfavori
 <RemoteImage
   alt={`Faire Klamotten`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_11354894815_7b7d26bb30_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_11354894815_7b7d26bb30_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAcGAgMEBQj/xAArEAABAwMCBAQHAAAAAAAAAAABAgMEAAUREiEGBwgxEyIkYUFRUoGCkeH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAYEQEBAQEBAAAAAAAAAAAAAAAAEQEhEv/aAAwDAQACEQMRAD8Af4XtkkAAZJJxgVTFlMSmg7FfaeaPZbSwoH7ikhzL474jj2OZaL3wmbVFura4Tcx58qQkqTv5kEjOM/2tt0+x5caJfETHC36hJbihSSkI0gBwY3IJBGe21PXY2ZDiSrairSVUVUYU3UAyuTwVAS2EaRdGdRUBkZQ4BjPvUS5Zw7lPuEqdZ5aY1+tjWltD2fAlNlYKmHRjIBykhQ7HB3qec5IUO6csuIG57gaQxHMttz6XWzqR+z5fypcdLkEurv17eW8VILcNtJdVpyU6l5TnBIAQB8qjc7R0Ow6tbLanW/CcUkFTesL0HG6c/HHbNFY4e96Ksf/Z"
@@ -110,7 +109,6 @@ Wir Hamburger⋆innen haben es mit den Hanseatischen Kultklamotten von Bidges &a
 <RemoteImage
   alt={`Faire Klamotten`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_21771326770_2a5cf983af_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_21771326770_2a5cf983af_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKRAAAgIBAgQEBwAAAAAAAAAAAQIDEQQAEgUxQVEGEyEiFBUjMmGB0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMFAf/EAB8RAAICAgEFAAAAAAAAAAAAAAABAhIDETJBUWFx4f/aAAwDAQACEQMRAD8A5TJjPD9LHMrqzBRHtsk16V10lzVyUyCszTKYlNxtakH8A9ddN8CZKYniOGWUuLieMOrUwYqQCD0PblpP41eLivHlz1V1keJEcymyWotZFnoR11q47JsOF2/Bm0V5lJVqokHc4X96NSAIs8mzH3p03C69SP5o1lUw7tGlyOMzS4sSQy+RhYmaVRd/UIgYFeRDe6776XcXdvmskqSpLG0a2VohStgV2Nems3hSJ8CQ5QyT5TzC2O4gHaa78tTHKLZLKXsS7aI5fcdWskoySSXRoGGJrHL2vpamKXu9os1XLto1Rnk8yT2ozEc676NR96Fr3P/Z"
@@ -214,7 +212,6 @@ Fantasievolles Schuhwerk in verschiedenen bunten Designs www.dogo-shoes.com
 <RemoteImage
   alt={`Grundstoff`}
   size="medium"
-  title={``}
   mediumUrl="https://www.adcell.de/promotion/image/promoId/36924/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/image/promoId/36924/slotId/80259"
   loadingUrl="undefined"

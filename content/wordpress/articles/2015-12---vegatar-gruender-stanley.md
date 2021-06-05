@@ -47,7 +47,6 @@ subTitle: '"Vegan bedeutet Respekt vor dem Leben"'
 <RemoteImage
   alt={`Vegatar Gründer Stanley`}
   size="full"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_DSC_9544_Fotor_small-373x250__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_DSC_9544_Fotor_small-373x250__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBQIH/8QAKxAAAgICAQIFAQkAAAAAAAAAAQIDBAURABIxBhMhQVHBFDJCUmFxkaGx/8QAFwEBAQEBAAAAAAAAAAAAAAAABQQAAf/EABwRAAIDAQEBAQAAAAAAAAAAAAECAAMRIfAUwf/aAAwDAQACEQMRAD8Ab8d26Aylxa8M8gHQ7LX0rq2vf5HsD37/ABycrUauUhsLepsIzMOqK28hkJ1sMNnRH15u2MlirmaRKdWoqSgoQrKeoa7ld6PLJsPi4qUdu9TMkc1YwSys5PkuQV0PyCTpQhx+Jdem+FGr5gCfcixtS7QBp9+SfhGIUusdOk3UOllYb6gPbTe3px3GRY2jZNqjiKVecgr5teBEbR7jYXtyTu46F2cVWyFXf3S1hZgPnalfrxJa2brMWpXak/6Opib+Rsf5yqu5LBqyCyh6zhmQPBWKnQiM2YCwI6onAP8AYPPQIcpcgwlDFrMfstOBK66HSXCjQLEdz6ftw4cKsdn4x2JqgUcETLljs84YDWx34cOZDh5ON2f/2Q=="
@@ -92,7 +91,6 @@ Einige dieser Produkte habe ich auch schon ausprobiert. Ein paar Mal musste ich 
 <RemoteImage
   alt={`Vegatar Gründer Stanley`}
   size="full"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_IMG_4870_Fotor_small-333x250__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_IMG_4870_Fotor_small-333x250__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQgE/8QALBAAAQQBAwMDAQkAAAAAAAAAAQIDBBEFABIhBhMxB1FhcRQVIjJBQpGSof/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAcEQEAAgMAAwAAAAAAAAAAAAABABECAyEEMVH/2gAMAwEAAhEDEQA/AEN1siMOts992iognvhoXfG8+Pi7r40QoT08xWI7LrzslYZZDKdyio8ba9zzrkdQ6525cor7swuPAqQRuG4jeD4Nq3/11fYcOvOQHMW6uJIBQGnG1bO0+BSTfyRV/I1uqxr5Gbqa39PswnLdGYqW7IQuWhkRpYSoGnmwEKv+L+ihqzelxQrc5ISgfvJWOfb9frpB+heRWxkJWCkpUW5QVKDZApt1KacF+xA/waaT7DbcntlhJBtQUlNi/NeNStnhhk0wpvQ9RT+sLMPIYPJzkLDuRguQmnQ03+BoIDiXLPgWXhx8aVWCyT0YKYYjIkOuLSUJKSVbvAAA881x7gaNGqYcgNbZNJdJ9OsdP4kKiRWImWlRkLlPSF95fcIBWirFJBJ/LxxzepiT3V9mY0PtKQKKApAVXgIUb4Jq9GjSw31g8ns//9k="
@@ -167,7 +165,6 @@ Schuhe haben wir unter anderem schon im Sortiment. Jedoch ist hier der Aufwand n
 <RemoteImage
   alt={`Vegatar Gründer Stanley`}
   size="full"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_DSC_9432_Fotor_small-373x250__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_DSC_9432_Fotor_small-373x250__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgME/8QAKRAAAgEDAwIGAgMAAAAAAAAAAQIDBAURAAYhEhMHFCIxQWEyUXGB4f/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAgQF/8QAHBEAAgIDAQEAAAAAAAAAAAAAAAECEQMhMRIy/9oADAMBAAIRAxEAPwBUs24bnalFBLNdKmCJigjmyUjZXKq0eAfRjgjn+xpq2/u+9VVVVWu5Vc0NLFGvbl8ukgVQrMVCgBs/akYHOqvUbS2bFbJJZ7ZRIjA57MroWJOeMN++dSLxHqrPZlNZaKaVZO95YwvIW7YwPV1N6vVyAOBn61mup5KbLOOEvtcRhtW6RwruFq+bE1HEyR+ZCLJIhyyjg8nAx8+3POlrZ246WvkpjLAFqniMk6UYdpFBTpyq8nOOeOMnWixUNn3DuilinqZoaKpdYp3jPS6L/JBwckj299XeDw4t9oVxb7lc6aUklpUMQkY8DJPR8AAYAxgDTJY/NUCbt60d0e3bdWwR5WeAq3UphmK4OP8AdLHiB4Yx1VqhNPclhiiMjFGpQ5ct0nJYMCSCowTo0aXF+eBcnfSVbcsTSbhmp4qkQJCFd+3H+eD9k4+T8++rRXbwq1p5HMEJ6VLY55wNGjT/AKqyM9M//9k="

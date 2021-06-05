@@ -41,7 +41,6 @@ _Werbung &amp; Affiliate Link\*_
 <RemoteImage
   alt={`Vegane Zahnpasta von Happybrush`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39525964385_622dc2e8dc_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39525964385_622dc2e8dc_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAYF/8QAKBAAAgEEAAUDBQEAAAAAAAAAAQIDAAQFEQYSFCExEyJBByNRYXGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACEQNR/9oADAMBAAIRAxEAPwBCWcaErzUwWxmJ6PDF4GjNxjop2eFdl2+4rb7+SQDvXxqlVFdMAKY9rO9zheE2BY7szAOU6OxcSqBv/abliR0No5BsNiZuDI8xFkwLkRxbtn5dyOzMHH5XXt18EAnzWPvIkGypqPPrkMUkWGyMBgnsJnV1LBtOdt5Hbw3xuub1LCP3GmlsSbUsaWlNDqtfw5xPc40YuJ7WzubazmDoJIh6gBcsQsnle5JooqbAyjyV/qNmF4g4xvsn03TtJyBk9QybIXW9kfzt+qzDndFFKmAET//Z"
@@ -58,7 +57,6 @@ Bei Happybrush verzichtet man auf all dieses Gedöns. In die Zahnpasta kommen nu
 <RemoteImage
   alt={`Vegane Zahnpasta von Happybrush`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26550793028_7d557222a9_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26550793028_7d557222a9_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgEBgcF/8QAJhAAAgEEAQQCAgMAAAAAAAAAAQIDAAQFESEGEjFBBxMIcRQiwf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABsRAAMBAQADAAAAAAAAAAAAAAABEQIhEjGR/9oADAMBAAIRAxEAPwBbLZUMsYflSyg/rYpg8x0H0xbWilsVDDbvNCrzxTyCWNGljQ9uyRv+x5IPmlvExUbHkc0zvyBedvx/kJ0I3HDHIOOeJYz/AJS9I1V8KX8y9BYDorE4o45si2RupmWUXEwdFVQdgAKOd9vvx+6yKVQN6revyNtbrN9R9MYjGaeeUXU4Vm7Rsled+uFNL9I7IWRwQykqQfRBo9JuImM6WV5EcDfB8Vb77q/PZDEzY+7v++0lQI6CJBsAg62Bv0KKKjSfs3To3/yNmJ+oLLL5NLW6mtbZraNFj+te1vJ491Rbyf8AlXc9x2LH9rtJ2L4XZ3oUUUnaZh//2Q=="
@@ -75,7 +73,6 @@ Bei Happybrush verzichtet man auf all dieses Gedöns. In die Zahnpasta kommen nu
 <RemoteImage
   alt={`Vegane Zahnpasta von Happybrush`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_25550459097_2fdd182be1_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_25550459097_2fdd182be1_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAFBgT/xAAkEAACAgICAQQDAQAAAAAAAAABAgMEABEFBiEHEiIxEyNRQf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAgEQACAgICAgMAAAAAAAAAAAABAgADETESIQQTIqHh/9oADAMBAAIRAxEAPwACrRjWzjT0Gtwbej/Yr9/jKU16kZ1ileujPtowU+RG9KScCYr2lAxe6hxXLSel/NVxDGJeTWOamDOo96kD786X6/3DRlB+Rknm8vWOIz2Pvr9h0FidQFIJHjPFahAHgZ0U3SuycZRtXLdKBIII2lkYWo2KqPs6BzlJ7wYHEqwbRlkx0/mIPF98v1ONqVFqVHStEkKlw2yFGhv5ZZY1WKHK7iL6K704WjI3NFe8TX+v9irXKMf7qX4laGQp7Nk7JBB351/PrC0jQA3llgElmLHZm01JSgSsYAn/2Q=="
@@ -92,7 +89,6 @@ Ich persönlich verwende schon seit langer Zeit vegane Biozahnpasta unterschiedl
 <RemoteImage
   alt={`Vegane Zahnpasta von Happybrush`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40377874972_635dfe9bc6_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40377874972_635dfe9bc6_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcI/8QALBAAAQMEAQMCBAcAAAAAAAAAAQIDBAAFBhEhEhMxQVEHCBQiI0JxcpGSsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMREjFBBCFR/9oADAMBAAIRAxEAPwDzZBgyZz3ZhMOyHtdQbaQVKI9dAc02xaHZpFwfaySdLgsJZUW/p4wdcW51AdGlEBPBJ2fat+AZEcburjyg79NJb7D6mT+IlG97T76POvX3FPvitj62pDOT2oiTbpIQ4t9tP2KOtBY/wjzsc1VaiylvkyXeWtVi1EEbcHrPQkZjdlfvt/j2hlwJedUtJWkdYAQkqUQB54TW/wCIWPx8avqYkCaqZGWyl1C1t9txPJGlJ3wePPG6vPlsx1UzLLvcpHMS3RFIU6UnpC3Do8/sSs1z7N70ckym53bkNSHj2Un8rKftbH9QP5qR5moZids1XY1nE2wWadaTGjzrfL5SxJHUhpz1UB7EeR6+aKKasV9iC2lLl0sGRFdnvdzsseYzaZ8uEiW32pCY7ykB1PI0oDg+T+m6Sr8ADgeKKKMpP//Z"
@@ -107,7 +103,6 @@ Alle Zahnpasten werden in Deutschland hergestellt, sind vegan und, was Allergike
 <RemoteImage
   alt={`Vegane Zahnpasta von Happybrush`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39711209944_bf42962db3_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39711209944_bf42962db3_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAQFBgcIA//EACkQAAIBAwMDBAEFAAAAAAAAAAECAwQFEQAGIQcSEyIxQVEII3GBkaH/xAAZAQACAwEAAAAAAAAAAAAAAAAAAwECBAX/xAAfEQACAgEEAwAAAAAAAAAAAAAAAQIREgMEEyExQdH/2gAMAwEAAhEDEQA/AMvrGMEn21ZEm2qTb3TOavvVCj3O5FVphKvMQPIK/IIALH+AdIukVot133XGbvHLUU1KomFJEvc9Q+cKMfKg4JA5I4+dTrqjVU9/3ZDTUr1lTS26njeMUsIlzNM2PX8DtQex5zkcafp4pNvyc/eckpwhG1G7b77r19G3oLsW17lg3VLeretWtLBHFD5SylHZXJI7SPV6V1Tgj/TU/YzrXX432w27atZJcngD3G6yFT5ArSKhEQKqTkjuD6yxdaJ7dX1lFMpWWmnkgZT7gq5XH+aS1RujLIRwuUJIxn7xyP2+jp92zuK6WCWols9bPSSOAzeMqQxU8FgwIOMn+zo0aCx1tG4bra7XXUtBV+KCYlpFMSNksO0nJUkcfRGo9K7MxLEkk5JJyTo0ahAf/9k="

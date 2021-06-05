@@ -39,7 +39,6 @@ Der Filmemacher möchte mit "Seaspiracy" laut eigener Aussage den "Krieg, den di
 <RemoteImage
   alt={`Seaspiracy`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_seaspiracy-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_seaspiracy-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcBAwYF/8QAKhAAAQMDAwMEAQUAAAAAAAAAAQIDEQAEBRIhMQYTQQciI1EyM2FxobH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIEBf/EABoRAAMAAwEAAAAAAAAAAAAAAAABAgMRITH/2gAMAwEAAhEDEQA/AFdmWUJULdhbay3KFuIjSPI3HPJH+Vli0SSAJIpxvenWVeuXEM4u0cYC7cqLF6iFx+t+ySVRE8ARVA9Ks/BUnENHUbgFBv0AgEfESZ8EnjmPqtlOX6cjFFx4hUNW3dUkJOyvP1/NWuY15hHcKfbEyOIpho9Pc/i7LvXXTt06lRY3Yum3VIAJDnsSSZMAgiQBUIwWURilvs9O5o45XfV3BbrPxfi1xzCtztuP6aUsKrKnpHJR13cm6+XuFkuaip55dw8gmNRQVEATHBEVpEdevJbfLV5cMrLQcsVcqnZIDpmNITq2AmVTM0UUEtNdTMjl+tc9nLxYGVu0tuBTQb1RKDuQSOeBQc31JhbE2jGVuLdorJ0NOlJC4BkKG8RHmiinPUTkWq0f/9k="

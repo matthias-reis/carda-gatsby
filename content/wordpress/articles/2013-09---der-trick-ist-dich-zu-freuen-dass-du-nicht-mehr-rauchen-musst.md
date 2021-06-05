@@ -128,7 +128,6 @@ Das sind wirklich eine ganze Menge gute Tipps und Ratschläge. Vor allem finde i
 <RemoteImage
   alt={`rauchen`}
   size="full"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_gefc3a4llt-das__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_gefc3a4llt-das__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgAB4DASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBAIFB//EACsQAAEDAgQEBQUAAAAAAAAAAAECAwQAEQUGEiETMVFhFBUyQZEigqGxwv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARFB/9oADAMBAAIRAxEAPwDt+UsWlY1Kxtqfgs+GYcpbLdy82HUBaglaS5pSQQm/0k7Edaao0RpTmtTMhpSDdPEfKgb9goj5pIyJ4bzvMyk5kn4k6ZiipotaExbuOANoG+w5fbf3p3iFDsjU3JkqtuULBCfykUhVvgo6n5rByK05bUVbdFEfqrG9G9NCXlbEkzMxZmZj4nhi3I0lKFR2TrVHTY7LACbKJCjzPv0ptj8Y3LrrTiT6eGgp/o1Rg5ewqDMmSosNCX5igt9RJVrUL2NiSB6jy61s2mkNI0tIShPOyRYUm9LnE27UW7VNFB//2Q=="

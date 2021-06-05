@@ -64,7 +64,6 @@ Klingt plausibel, was mir da vor Kurzem geraten wurde, oder? Stellt sich nur die
 <RemoteImage
   alt={`Santaverde`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-10__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-10__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBAEG/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDAAQRBRIhBhMiMTJBUQcUYSRSgZHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAMEBv/EACARAAICAQQDAQAAAAAAAAAAAAECABEDBAUSIRQxUcH/2gAMAwEAAhEDEQA/ALR051Jp3U1s97ot00tokrQNvhKMHGM8N7cj2pvA7zRdzvyBhIwGAuFwSPLFSv6UJNYXeo2MDlLF3injZ1CgschkAAwpHh49xzXvNNlZrO8cNMplutvDZCZ/aPnNAaxcp1On8fKU+Tdc3kb301gbgS3iIk/aJ2lYvTu4wBlif6NdW1RSrlAnjD8St6s/Hl50nazEXVV5qNv3Jrw2ENrL3DhXVX3KR8Nyc0w1tEuNPiWYSoouIpMDgkowcfxlRQACe4hgBVSVaXKdO1xILAvD40LPvJZiGIJJ/Oc02u+qNZtfqxe6ML+RdNaKKSOGGONNhbg5O0kn3zmiipgSFNTWbhjVsychdg/kx33VetQdR6KfvO5BqE7CaN4k9Pf7KgMBngDOfn8cVWWsnZf1Vw0u0kABdo/2iin4e1szP7kioV4ivc//2Q=="
@@ -87,7 +86,6 @@ Die Creme, das Gel und die Reinigungsemulsion sind auch für emfindliche Rosacea
 <RemoteImage
   alt={`Santaverde`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-3__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYIBwX/xAAoEAACAQMDBAEEAwAAAAAAAAABAgMEBREAEiEGBxMxMhRBUXEIImH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIRMSEi/9oADAMBAAIRAxEAPwCj71eqCz0y1F0rqejhZxGrTPt3uckKo9k8Hgc8azXq3urRo0dD0vcKSSvdgWlqB41VTwAokADsTnjj1pv7iWo3bpWrhVnV4WSoDJ8sKf7gftC41M1RaoL13TS3ijzRQzrKiO+1BDGqlAowPltVRnOd2plmkSd+Tcem+7NimttOvUFyWjuS5SctC3jMgJyqsoIOOAfwfen+w323XyhFZZ6+nrqTcU8sD7lDDGVP4PI4/wB1GN2qay6XqpnvM30MZZkSAQ7mjQE4WNAOPvycZOTzqk/4/wBNDD22pnpvN45qypfMwAY4fb6Hr461LhUcNQmhSVHSQbkdSrD8gjB0s0XRVmolg+oha4VUMfiFTWYZ3X7BtoAOMAjI9gH3o0aNJ6acu89rOkLxPJUTWxqaqclmnpJ3iYk+ycHBP7Gmfpbp+m6asVNaKKWeWnpy+x52DOdzFjk4GfeNGjSkD//Z"
@@ -110,7 +108,6 @@ Zwei weitere Siegel sind das Leaping Bunny Siegel[^3] sowie das Label der Vegan 
 <RemoteImage
   alt={`Santaverde`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-19__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-19__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwQI/8QAJhAAAQQBBAICAgMAAAAAAAAAAQIDBAURAAYSITFBB1ETcSJhgf/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgME/8QAHxEAAQQCAgMAAAAAAAAAAAAAAQACAxEEIRJBEyJR/9oADAMBAAIRAxEAPwD0q5Jx71N72tJjG1bY1QdXYqjqRHSyrivmespPpQGSP7GuPfl3Koqlp2C02uU+8GUKe7bR1kkjPZwDgaR7G3PKu50mFbx0l+Okuh+MgpS4gniMpByCCD+x3jUS7dLS3FkMXm6VZtm1kyNv1bk9K0TTFbElC1clJdCRyCj7OfP707bl596w/fXyLP2vvSVUwY9W5EbZakEyUuc1LcySnkFYHj61p21LVN9t6vtWmFx0ymuZaWclByQRn2Mjo+xjTBvSUmNJHGJSPUqgvaSBdV7kKyZ/KwtSV/xUUKSpJyFJUOwR96Xbf2hV0TakU4kR1qJJcW6XFHPnPLz/ALo0aKCrEjw3hevnSU2nxhXWe4ZNwuW8l6WyGJKChKw4BnBAPQ6P0dVNVUxKyCxDhoKWWG0tJ5HkohIwMn30NGjQGgGwh8r3gBx0F//Z"
@@ -131,7 +128,6 @@ Die Basis aller Pflegeprodukte ist der enthaltene naturreine Aloe Vera Saft. Die
 <RemoteImage
   alt={`Santaverde`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-15__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-15__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBwECAwX/xAArEAABAwIFAgQHAAAAAAAAAAABAgMEABEFBhIhMRNhByJBURQzQmJxgZH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUCBv/EACERAQABBAEEAwAAAAAAAAAAAAEAAgMEESESEzFBYZHw/9oADAMBAAIRAxEAPwCzsXztKw+R0X5bS48pwIZC0WWAT5RfgqNimxA96n5czJCxkrER4kNbJVrFnEj6h7b3H6pHztFcWuY7JL7rrS2HGkxI/R1rTqUhQClEahvdWw4B2rGQ8PcjuyW4yXUMuOOLacueVHUqwt6KJHpxSwuydBm41rsdYaT98Sz8WnfC4DijupXkjOK3P2mtfCWRNeyhGcnBQSs6mArnp2G/4JuRXGUy67hhaktfM0IUVgALudxp32temHBkuaU3NwBbtRw53I1N7Vlta8o/UThkqO647ERLcYbV53C2gal9rqv7AevAr0V4RBbjtxURwGUAJFiQT3J5J70UVgopPUay8i5cQqeJPwjB4jB1tt2UeSpRUf6SaZ46AkACiiiABxJ6z//Z"
@@ -146,7 +142,6 @@ Gründerin Sabine Beer, die das kleine Unternehmen nach 30 Jahren Firmengeschich
 <RemoteImage
   alt={`Santaverde`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-12__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-12__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBwMGCP/EACQQAAICAQQBBQEBAAAAAAAAAAECAwQRAAUSIUEGEyIxcVGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAAP/xAAeEQACAwABBQAAAAAAAAAAAAABAgADEQQSITFC8P/aAAwDAQACEQMRAD8A6Mks4OCezqDU3ercnsRVbdaw9duEwilVjE38YA9Ho6LLLGwaTAVAWLHwPJ1VnpGTbPT+87zXglvIsleGUosXuMyozSAqFGWYjkPJJ6znICM+HJZx+I19buvr8ZadrdYq8ghLcp2j9wJnGF5hMk+Oz/h1Mit8kVgeiM61bZd02vcd6M9GytqzJTjIV4XRxGCWAOR18pM4++9N6tR0jVZGAx4X61lbZPYnQcIwx1JAjDiwyD1pPQ9MUNusCdOckoGFZyPiOzgY/To0aJAPeMl1iKUU4D5jP2lLs+AGb7YDs/p1kSFdGjRnGf/Z"
@@ -163,7 +158,6 @@ Auf der Seite von Santaverde findet Ihr unter anderem ein umfangreiches Inhaltss
 <RemoteImage
   alt={`Santaverde`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-13__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-13__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKBAAAQMDAwQCAgMAAAAAAAAAAQIDBAAFEQYhMRITQYEiURUjMmHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQF/8QAIBEAAgIBAwUAAAAAAAAAAAAAAQIAEQMEEyESIjFRYf/aAAwDAQACEQMRAD8A3mRfHFwy6W1pIH8c7n7pcg3db/cUlfSe4firnxXKu4Q1xXEtz0uqYf8A2KaJWlGCer5AY2pVi362/mhARMLcySpTjQdaKDhQ+Oc7Dq5AOM0RYE1Ktl6PaY36s1JJs+mZc1l4IfbKO2sjOCVAcezTRpfULlytUGU+32XX2kuKb+if8PPukm6xUXCKzGkoadT3ErWgkKBKdxkAnz4NX1rjyFqSVD3xSDyYZZdoLXN3fz1ILroKJb7dd1QpjzTUwOOBvGzRVurpwRsT4/ulGDomDfLtNukt13JUwgI5KUpSVYCuR4Hqiij6AHErTU5ThZi3ImmQLSw0gdsJSFb4SgCryFBaRg80UUszp//Z"

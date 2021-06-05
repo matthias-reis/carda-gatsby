@@ -36,7 +36,6 @@ _Werbung\*_
 <RemoteImage
   alt={`Hanfsamen`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-03-aho-bio-06__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-03-aho-bio-06__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAJhAAAgICAgIBAwUAAAAAAAAAAQIDEQQFABIGIZEUMUFCUWGxwf/EABcBAQADAAAAAAAAAAAAAAAAAAMBBAX/xAAkEQABBAAEBwEAAAAAAAAAAAABAAIDEQQSIVEyQXGRscHh8f/aAAwDAQACEQMRAD8A3vK2MhxpWhV3ZCDS/euVPP3mwDBVXORSaDK1D5vjWJm/T7FTkgiEkdr/AIPO3l0qRYebKZROrLaqSGEfqx1UD0DXzzNxETpHuLX1StwziMBpbf6kNV5Ls5I2QvPMFmaNZDArMwBoWf8AeXDXbR3gjaRuzN7ugP65n3jG4xZfGIViEhzDh9Aqk1IZDZIo1dtZNXyV02WxgiAUhQor45OAkLzefMK7HZJjGBo4Muqmc/UvFNHMcc5CRsGMY/UP25W/K4JczHy49RopznSxmJJpmAVO3omyfwOHDiztBkHxDAaaTsmcbG2ECRmHR65clIeiypIRR61dfPJrT6SSGKNWo9VAofj1w4cWCIRk1z6ekcsheBp5X//Z"
@@ -55,7 +54,6 @@ Ganz neu auf dem Markt ist jetzt ein ganz besonderes Aho Produkt: Heimische Hanf
 <RemoteImage
   alt={`Hanfsamen`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-03-aho-bio-07__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-03-aho-bio-07__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBgMECP/EACoQAAIBAwIFAwQDAAAAAAAAAAECAwQFEQASEyExQVFhcaEGFSKRUnKx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAHREAAgMAAgMAAAAAAAAAAAAAAQIAAxEEIRLh8f/aAAwDAQACEQMRAD8A6Dv17FtgThRNU1cz8OCBTje3cnwAOZ0nWjraoSSXm5TS8ZNnAhPCij59Vxz3eufbUMqy3qmmkcF1ikVUzzH5Lkge2Bpfe7zWQVLUtGAr7ebgZOcZA9u2PQ9zosvWhNPuQrNjYJuPQz0oMlquVZTyKMhXlM0R/sjZ8eh9dNfp++fc0qIp0EFfSuEnhByBnmrKf4sP0QR21TbHea162CnqDJNHMQC0hOVJ5bgT26ZGemnlrjY/UdWVyEFKu7nyyXOPgHVTyF5Ck/ZNWazkb1dA0coYqfxbcrDt2P70putspLhJulmSOfAUqz7dwHz/AL00aNDotg8WHU0CQdEw2WzxUk6EVMM9YowFhYlfcjz08dNWmgty06sEGXc7nbycY+NGjSla1jFGQLFuzP/Z"

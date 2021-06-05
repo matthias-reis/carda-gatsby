@@ -41,7 +41,6 @@ Ich bin ja der festen Meinung, David hätte es genau so gemacht. Ich freue mich 
 <RemoteImage
   alt={`David`}
   size="full"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_25817765024_43bf4e933e_b-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_25817765024_43bf4e933e_b-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAKRAAAQMDBAIBAwUAAAAAAAAAAQIDEQQFIQASMUEGEwcyYXEUIiVRwf/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAAC/8QAHhEAAgICAgMAAAAAAAAAAAAAAAECERIhAzEygaH/2gAMAwEAAhEDEQA/AN5ffLBufrGblUUFqYBktYW4E/UqQJgcY1Ut/KFO2xuZfuSkKAIcdcVtBMwVmccEkcwDpBVXS1turaS5b20bHGCXAUkjtQ+3GdJ2i1WlumadFvZC9qky4ncVAz/ZOCCcnMHrjUEIxS2VTzvVeyxqvlZHrD7dC48zkFbjxKkkbZ663pJ/Otg4v9ZaKascS2x7mUuktuTBOYBIiI71Q0zdIlnchhACSFH1pGBGFiOcCCPt+NCbmmmtSUNLCWvZtSmYS2ScweCkzIA4JgYOOpU+kHjU15O/hx6t8loS6TUvwSrc00679KZMcnGP81LX/INmpGKVD/8AIJdUC6GXR+xKVAwRGc9GAe9GjT1BC82TeNfKdCpBTVxQKbdWpt1JKvYCoq2qHXXRHOmazzmmr6dVLZ6By4VNUv1Jap1bUqUrjHIzmIjBONGjWwS2FzbVH//Z"

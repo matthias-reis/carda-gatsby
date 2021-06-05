@@ -45,7 +45,6 @@ Das Werk geht unter die Haut. Die studierte Nautikerin und Naturschutz-Managerin
 <RemoteImage
   alt={`Handeln statt hoffen`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-30-carola-rackete-01__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-30-carola-rackete-01__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUH/8QALhAAAQMDAwMCAwkAAAAAAAAAAQIDBAUGEQAhMQcSQRQiE1GhJDJCYXGBkaLB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQAAwX/xAAlEQACAgECBAcAAAAAAAAAAAABAgADEQRBIYGhwQUSE1GRsdH/2gAMAwEAAhEDEQA/AKrVvUpnq3XoDVOiqYcoJltMuN96A4GlYUAds/Tc/PU7HagT7Afnpq7VO7mklTKWIbJUc4BKUtYwVbAYPGtV1SR11o+QftltvoG/J+AVf5pHsK8KfGsRhtbtJjGCFJksPAKclJ/AEp5Jz8vpzoLVyOGeUs0aqzsX68otwq7Pqlz28uXOeDElcZTvcsAe2W4jJCQBwkePA5059QHhIpdVmolNSsUtCg62rP3nXlAcAg+0cjOuXJW67NoTikFLi4/crx2kzH/GnSQYsezb+W4jCjIistlKccIGT/Y/zpDWaZfVW7ccO3fpNHwywqzewB+j+RxoD8i5OqlsVanxn2YlPpvppD0hvAC1R1oKQM74JBP6a2aNZzbcOKPUPsMpbADaGGoxG2cHYqAznz50aNNvUtyjzxN8Uu6qIvXP0+fnXfFmRpiGoTMNKD6lxTylOfGWvAO2BuD+551RqdnzFWnV6e9MirenT0PqcSVABASgEcZz7T+W+jRo2QFQp2xJTcyFiu4I+Z//2Q=="
@@ -80,7 +79,6 @@ Auf Seite 143 geht sie auf jede⋆n von uns persönlich ein
 <RemoteImage
   alt={`Handeln statt hoffen`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-30-carola-rackete-03__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-30-carola-rackete-03__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcFBggE/8QAKRAAAgEDBAEDAwUAAAAAAAAAAQIDBAURAAYSIRMxQVEiMpFTYXGy4v/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgX/xAAiEQACAgECBwEAAAAAAAAAAAABAgADETHwBBMiQWGBodH/2gAMAwEAAhEDEQA/AEHH56SlibzVCFJ2Sbi+AGBPWR/B1oGjsD2Cvnliu1c1pWF5UhDhZABCrhi59SST8DGkndacIu4KYjJp6ouM5zjK/wCtaEjdavYK1M5PI7fzJ+7BBG39dZesPWVPiHwth5jA9s/sqd6sVyoFt12vFbcHt0khWRhIVFQXbCZKyjAxxH0/HWoK2XOhutxu9pWmraaqpIJpOa3CWVD41bP3g+4HWffVt33eaGq21bIEmkaEzwClQ13MhvIpflH7ccdaX+zKGtod47waegqYoXork3keFuOQHxhsYGe9TqjKuTv6Z0L8FvW9MSGmoK2/3S+VlDSypS1kh4eUiMt92CQfQdj8aeezBHDtW22m5VId4qKaCWXlhX5PyCnIPXt6fjRo0xPSZCqCu0uNZ3XC0WR3LPclZiwOeK9fUG/S7wQD3pM38yGGWITVEIjM0aiOcqHjaR2PMDGc8ie/nRo0FNaoMLHsctP/2Q=="

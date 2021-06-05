@@ -50,7 +50,6 @@ Dani legte den Grundstein für Arvensis im Jahr 2011. Seit 2018 nimmt er Platten
 <RemoteImage
   alt={`Arvensis`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis-1-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis-1-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAIBP/EACoQAAIBAwMBBgcAAAAAAAAAAAECAwAEEQUSIVEGEyIxMkEHFCNhcXOx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAMAwEAAhEDEQA/AM9ucIx6A0xuNOu7CKJJ7hJrG/UBbqOMvG0hgz3O9seNe98WCQCv2obIMxuOqn+Vqa8vrsfDqyuu11zpb9mhoscdrayLtE7NFtOefUoC4wQckYIJIE3YRn2VlbTotPlgCypFI6yyuFCMTl+G/UFA88nPvR0cgU71IQz3V5bW+mLaGW2NzbQiQfTjVC7IpBIZOQ+xmyNoPOaBr5CqJjhSR0pa13Jo0ccFl3ome0RY5JWyFjZg7I8ZJXk54IAAIPQ1VUV3DUY9P0QxalNcTzahHO3zYCyGNsoAoYjLE7MEAgBce/FBF9I/FVVEj//Z"
@@ -89,7 +88,6 @@ Dani legte den Grundstein für Arvensis im Jahr 2011. Seit 2018 nimmt er Platten
 <RemoteImage
   alt={`Arvensis`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis-1-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis-1-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwj/xAAjEAABBAIBBQADAAAAAAAAAAABAAIDBAURBhIhMUFRE2Gx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQIAA//EABgRAQEBAQEAAAAAAAAAAAAAAAEAEQIx/9oADAMBAAIRAxEAPwDmNLODm7I3opk+FYwV6pBcaJsfTnewHpdOSG7188E/FzXCvJHP4i/x7KnG5MfjtNiikkjB2WCRjZA0/sBw2PqVV7muTm5FynJZfISsNm3KZC3pOwAAGg+h2AUFHCvJvspjC3hgYBG+RvU0vBI+gHwhCqKhk42XLd27VrTR1pJXyR7HZrPQ/ikBCFpb/9k="
@@ -138,7 +136,6 @@ Dani laid the groundwork for Arvensis in 2011 and has been recording records sin
 <RemoteImage
   alt={`Arvensis`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgUI/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIAAxExEiFBBBMiMlFhccH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMF/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACEQMEEmH/2gAMAwEAAhEDEQA/AOYTiOVFAoPZVJNmDDa3jj7iZxNMID05b16aZ8Rta1j+yNnMml1+P36+SVdloVVDuVsSpcqvcXGwyTe99+JljEeqsmhVpM2kOSBi4sdyODxERiFSJy2XNg2DHXrqtSoXVFYaaejgjSNzbOIQjJsnS7R0lBXbt1F0MUbAsLKff4iohCBGuriz/9k="
@@ -177,7 +174,6 @@ Dani laid the groundwork for Arvensis in 2011 and has been recording records sin
 <RemoteImage
   alt={`Arvensis`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis-1-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis-1-3__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBAH/xAAlEAABAwQCAQQDAAAAAAAAAAACAQMEAAUREgYxEwcVISIjMlH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAbEQACAgMBAAAAAAAAAAAAAAAAAgMxAREhQf/aAAwDAQACEQMRAD8AlSnbwIIMi1TL3erNaXYEJtmBDieFBGTKVtXNnSyqqACCmWEyWwp/aSVPfhzIl6YcikW6cy1HjkX5HFQnAVQjIZCOUX9Nh6XGVrRPSWNHMYFtjcZj3yzWO0MwZ0d6JKYQFNI8pG/Js0W2dCEthyn11VOsUgKprmTQRvSOwLdZsd2ObOrTrQampK3I1UkTOPpqnSZxUzUyVgiPuzlMLisya3YXbO229FdMykg8mzfnA20AmkPpM6iQ5XCqmPhcUUUR2W1Gvk9ymlxj2d1qRMlLIGa/IXY/AAMq2DSn0qohERKi4RVx8rmllRRTICUf/9k="

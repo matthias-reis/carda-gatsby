@@ -66,7 +66,6 @@ Die Firmenphilosophie ist klar definiert. Die Arbeiter werden gut behandelt und 
 <RemoteImage
   alt={`Ragbag`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_26217748167_0021fbbd83_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_26217748167_0021fbbd83_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQf/xAAqEAACAgIBAwIEBwAAAAAAAAABAgMEBREAEiExBkETIlFhFTJCgpGhwf/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAbEQEAAgMBAQAAAAAAAAAAAAABAAIDESESMf/aAAwDAQACEQMRAD8Al9J4uzkPTtGYzmrI7s7mPv1/pP8AYJ5TcVMcWe1cyQhifcjGt8h0QNdW/B+314emspbqSPRq1IZa6urr1OysqurEk+2gykfu5XmGrRQ3Ll+uEiJ+JMqyyOD48LsfXwORE32P5dckFV696GRalzJShWPV0V+8fYnTHfvv6+3FZDGSLHHMDkHdXRSh+U6J0dgefvxGJ9R1L2Rhx9Cn0SRklB0uAO+yTp/t78tzWTiw9GZpb1SvAoLlFUB3OvyjqY9z45q90EPLrs5/mPSRgklyFfL3xN1GPcj9R6db1sa5lJJcSKk8tyWZBZaARyElABGH8E+/jXDhyuOy8ZLJUOzWGA/F5o79idIV0dQ1ovhgbPfXf/OWYrD4uis9mtT3YQHUkzfEYdvbY0P44cOF7O2salRCz9n/2Q=="
@@ -85,7 +84,6 @@ Ich persönlich bin ganz verliebt in meine Tamil Nadu Taschen und trage sie jede
 <RemoteImage
   alt={`Ragbag`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41045842032_43cbb93a24_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41045842032_43cbb93a24_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACwQAAIBAwIFAgUFAAAAAAAAAAECAwQFEQAhBhITMUFhoQcUFSKBFjJRcZH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAcEQACAwADAQAAAAAAAAAAAAAAAgERIQMTIkH/2gAMAwEAAhEDEQA/AJrw9wPa5oqQ1bBnmjLp1G5eYAZJJOwGCNz6aa/0Jalp2FNLZ4JgGKiUq4JwcAnxv7Z1rcDUlHcrFaI61DKVp1G7FR+0bnB7jAxpwFkoulE/06lHRcBR128BQuc+ir/mjn0Ddl+aol9r4VhyyXFbLCzEdKKNuoWLHbBXO3gDufxpb424foIrY81MsTMsErqAfuQrynsQCPyNW97TCHWpW2Us24bJnfKsNx7gHU4+J/ydHapxHB0JBHIkh+4g86EAAnucj31uXhIvIuNMUI/Ad2q6mKApNLCaULDhHIDAHY+hxt57aoVSZaqkWO4VNRU9Mjpsz4KnfJ/gkg47aNGnAzJrbubXTBoTVmOE8yIKnAGDnwvbUt4n4mqLsiUxV0iXBPPKZC2M43P9nRo1pH//2Q=="

@@ -64,7 +64,6 @@ Hiermit übergebe ich das Wort direkt an Matze, der diesen Beitrag zur Veröffen
 <RemoteImage
   alt={`die-hermetiker`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwf/xAAnEAACAgEEAQMFAQEAAAAAAAABAgMEEQAFEiExExRhBhUiUXEyQv/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EACERAAEEAgEFAQAAAAAAAAAAAAEAAgMRBHEhEhMxMmHw/9oADAMBAAIRAxEAPwDnlXYY6OzbbuD37dVpeYYFSCxVh0uBkLjOTn9dac2q1jY7KWKRREs+jPI0yB3TAYEnx5JUnPx0dLUpWrUL3JXtyVc+hCs78ZMnxxUY6JGD8kdHTOL73NZisijHJZjbEaGupXlxC44Ho9KD/RnUuPjTZF9ocCuUbp4oLDzV+FLxstKyr32hsQr+XqRrlWYDIyBgY5YyNGru8tmf6eppYnr0ZRDLDchlg4ZLMyhFA6Bz5HyDo0QjfASyrOk8cVtDhVFKNrtyXIop913NXkSdWhgHFf8ADYy6p2x6OBkH51QLEs22XmtVtpq15lWx7iSCdAGyfxC888cEfOoGbeIftiR0LEivI68olj4CDjgqpJGGw3f9zp/Fbe5t9WGaC4nuRw9wJlZPUHbKyD/nHjJGdUQziMEFxB/bWW9I9mh21tYpYqXfbzQWLXp8zyiMykZwBECSQD1jOc9/zRpjQ22I/SdWObdaELxT5gnKnP5AsEBAzg58nwRj9DRoH3I4uF0dJyCKDTXwL//Z"
@@ -85,7 +84,6 @@ Mir war erst viel später wirklich klar, wie ich die von meiner Fantasie kreiert
 <RemoteImage
   alt={`die-hermetiker`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-7__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-7__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBAwUH/8QAJhAAAgECBQQDAQEAAAAAAAAAAQIDBBEABRIhMQYTIkEUUWEVcf/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAIxEAAgIBAwMFAAAAAAAAAAAAAQIAAxEEEiETIkFhgeHw8f/aAAwDAQACEQMRAD8A5v0slPU0de7iOVoiUWNDZSwUmzcb+P3i+lq6iWL5Sl6WjQFWUARhgdl93Y3+sbeVUEFPR07VWh4lclVsqkDgjx43IP7vi/L8piMSin/pZh2iOyZVukfvbYnn3jj1m28FaVPtF2MgHdFeqkDyuhczeK2ZPIEHgcmxFuMGGHNspkhp2+ZRzUkk41K8ramfTbfe23r6wYw++pilmQR98RyXKVBWX9MqlTnUctRPTyRxR9498kA2tZSQDe9x6wy1GYQiMq88AW4OkJLNx+MwX8G2ETpxKCeBv6ObGgjQqtooC5kvvyP9NsbMs/SqQFY4MwqXcNpJlMZuN1YXG6m34cXaS5KKsF8Z8fkCbByygn15k5/V09UtI8CTyKqyREtGqLqOkg6VFlA9X5I3wYVc9zamqSkOWZfVUUMSszF5e4ZCdIva+wIFsGJNSepaWWFmYn4n/9k="
@@ -106,7 +104,6 @@ Das eigentliche Ausarbeiten der Kapitel gestaltete sich dann so, dass ich eine g
 <RemoteImage
   alt={`die-hermetiker`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-15__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-15__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBQb/xAAqEAACAQIFAwQBBQAAAAAAAAABAgMEEQAFEiExEyJBBhRRYTIjQmJxof/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAhEQACAgICAQUAAAAAAAAAAAABAgADESEScRNCYZHw8f/aAAwDAQACEQMRAD8AjqxxpRQ9JXNVcr03F0kF/wAtVrjjgc7fGEFo2aFfbyTGWKMyuqqRqXa1t9xe2972v9Y2ZYZ6elMs8al9F4z1Aos3Ox/cN/rbxikZT6Zo5MqgdIyqmESgyyqvcyLpPg2+vvGZTXZbnx7xLbWrpGSc7Ix179yX0FJr93TxU8kBi1dQvYhtWxVR88+eLYMP+qYjQZlPQTvE9RTyGFu9Y79gKt/L8jsPjxfBhZSxGIJx97k7BSeSEYO4jlsjBqieEiQzK0EJVf1Wc21AXPABPN9r4r1DmMcWW0adZ7rAiMTFFqJCgE3Iv4/3HB5fUwqihUC6B2ggC39Y0BVrHD042nDO1iqyHv8Aq2H1MKySY5n5ABR87/JgercvWv8AVedzSioEEyRsr6tKqQiXuVBBOx7R88cYMOZjSlSauYLEoIBu/cbcLzf43PNuMGBy1hLKYDBfUNz/2Q=="
@@ -123,7 +120,6 @@ Unser erstes Korrekturmanuskript beeindruckte uns mit seinem Umfang schon ziemli
 <RemoteImage
   alt={`die-hermetiker`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-13__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-13__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABgACBAX/xAApEAACAQMDAwMEAwAAAAAAAAABAgMEBREAEiEGEzEiMmFRcYGxQVLh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEBf/EACQRAAICAAUDBQAAAAAAAAAAAAECAAMFESEiMQQSQVFhkaHw/9oADAMBAAIRAxEAPwAxbKASokkAZjEQ8isoClgfb8j76zqEpKGoZGmpnkmYIIWfwGI/rnb+vGjnTctZe7XFVV1aY4O40ZB9u8HwEHk4550uWx0UKxtNRzPAQB3a2QUkZ+oUHBP4zpqcIJUPa4AMSzEhmUrQsfac+4UMXcNNLIIYIwzD0jd85xnH51a3q6mjqZ+7TQs9IitIGVm2sBx6WYDIyMZ+urWSdhKk8S3I+RlC3QUyWm5dQWuWqq6Zdy1EBgVQWRuDyeQPb4I0kqLtb4JHkipklmZ+4ZKmQyHdjHx+zovPZ5bl1Vb61axKWmmhEFXMwLdkAH1bR7s4HjT23QdHWaBmjp66+1QYAvPiFAfHAHOM/fWil9LKDZqfn64gD2JtTT96wzD1JPVXBYpn7yY2rEqBVQjlTtH8Z/3Vppf+qZaW1SJaKS32+ObMMohhBLAqQRu8njjVqXqStz94gUt5n//Z"
@@ -152,7 +148,6 @@ Am Ende hatten wir 336 Buchseiten, die in den Schriftarten FF Meta Serif und FF 
 <RemoteImage
   alt={`die-hermetiker`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-29-die-hermetiker-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-29-die-hermetiker-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBwIFCP/EACwQAAEDAwMCBQMFAAAAAAAAAAECAwQABRESIUEGEwcUIjFRI2GBJDNicZH/xAAZAQACAwEAAAAAAAAAAAAAAAABAwACBAX/xAAkEQACAQIEBwEAAAAAAAAAAAABAgADEQUSIXEEIjEykcHR8P/aAAwDAQACEQMRAD8AisVtiNR2m1lxx4KOrQkaU5A5+aZeoXbdYYjcqamU2wopKloaLgz8EgYH5pHT1Ffo1ylxYNvgBhhZ7ZVHGrTge5Urf3ph6muF7u3hY9LujLbUlqV9dDTegKYB2VgE5GSDn7Umjw1RQHcaH3BSKk2BF5nc41vulramxP1MF9PdQpJwccjPBzRSr4d38u3a4WmQUKiyW1yI7atghwD1JGPYFPH8f7ooVUZWsDGkAHWaG6dQQl3WQrusOgkfULDTwPp4URn4/wAqzPDu5Q5vTqk+daa1uuMhtaEICgcD9v2074xzvXOkKYlv1pOlWMHHNSl5tQ3wQBtt9+KhfkCjqN/s7a4aGWwYW21lzXno7yfU1suvS6zqZeUZDAShOkDI1ICdsYOCPz80VR8l7t7tKKc8pJFFVOZ+4zLVw/K1s/7zP//Z"
@@ -169,7 +164,6 @@ In meiner Zeichnung griff ich dann schließlich noch die für die Region typisch
 <RemoteImage
   alt={`die-hermetiker`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-29-die-hermetiker-5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-29-die-hermetiker-5__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwcF/8QALRAAAgEDAwMBBgcAAAAAAAAAAQIDBAURAAYSITFBgQcTFVGRoSIjUmFx0eH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQC/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAEQMEEzEikeH/2gAMAwEAAhEDEQA/ALN8Cl2fYKCrtEVdcBUvFTym52+ejVCiZVkOFyx44IyRgHGNKS74ke3iD4LZ0RWLqphlkUN0+cvbp9tOe+LZdztRDuPcFJXIlXEywS3T3pViGXkfAA5dTpLgcQ0vEVe3YuzluZLhe36D0/zTlxYFUW1QDkfpL9Rr2JXyb5e5puCw2q5UlDDFxSKYW5Iss+CzZ/EM5/j10aq2LRWW6G9C9VkP5ccIElDAJQ5JfOQVAB7fXRpTHGppTYgKuT5CjONUXR/gc7R0/AIqvydcgYI8aXaq/pCvFY6Y9ADiLI6HIHftnxrfdvbSgraZEa2Tz0c0WOTplT9ehH9ayDdtvrdu7iehqqKOGrLGZooIo2CQnIDA9gegGPn959phiqxfyXajs9hWqR2Lc6m6R3UwGHjGsfSMBQMlvHpo02+yStUUF7aelhFKhjaItGCQxDErkgE+D6/vo1rCnKgfq4jYcpkKk3P/2Q=="
@@ -186,7 +180,6 @@ Wir mussten also dem Hersteller erneut 20 Euro zahlen und mit einer zweiten Cove
 <RemoteImage
   alt={`Die Hermetiker`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-11__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-11__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYEBQf/xAAoEAACAgEEAQQCAgMAAAAAAAABAgMEEQAFBiESEzFBURQiB4EyobH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQABAv/EACYRAAIBAwIEBwAAAAAAAAAAAAECAAMRIQQSBRMicTEyQlGBkcH/2gAMAwEAAhEDEQA/AM1q091glS5B4GMs6FpY3RcAZ8i2Me3ePfr20xbZxe7vt1dmNtGdirPEsjek7DsNK4OCSCcKPvOlvbNw3bkO03KVW+8UBkR3gdsxkMpXzJAwDnPR7+taf/HMFXYghv1IZbJsV4oLNa0naBj6mA5Hj5DH9j40tHDtXWAdRgzVTU0KZIZsxC5HxteN7m5s7Ym3oYgySzuPDsEZXBJLdHsD/ujTLzue3u/Jb9uz6x/EDQoVCkxRg5APeHP+QPwf6yTQJVQdpBNveRrnIEh8Yg2paYqQxtRjRCJGamJT5k5Ace+QAf2P+tXlQTUbsgr3YVfBkhaKjF4SqB7ZA6b570kcUd9xuxGXcoaEBjZJ5m8njEvuchR5F2PzjB+9Ow2/isEYexyO/YdW82/FoOqyffiGYHOM9/Om1B+gLUNvk/hhCsy+kfQkHkG6fk2yjVJ7Unp/q8gXyLMP26B6BxnyHQ0aqeZ7hxmpTROPjfbFiQsGs2VSNIYyM5AXtjnHRPwetGh6ijeSvge8vm285z2n/9k="

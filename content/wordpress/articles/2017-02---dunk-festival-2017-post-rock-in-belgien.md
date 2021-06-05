@@ -108,7 +108,6 @@ month: '02'
 <RemoteImage
   alt={`Dunk!festival`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-1-von-5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-1-von-5__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwADBAUG/8QAKBAAAgEDAgUDBQAAAAAAAAAAAQIDAAQRBSEGEjFBgRQiURMyYaGx/8QAGAEBAAMBAAAAAAAAAAAAAAAABQABAwT/xAAcEQEAAgMAAwAAAAAAAAAAAAABAAIDBBEhIpH/2gAMAwEAAhEDEQA/AAjT7j162FndxWi28BCgw20ccj9su4HM23yf3SFp+ncN3qyfTsY4NmK80jnqAAPB3os06QxyoR1DA0ncAS2lyJ4JrPSZZlw6TX2oi0wMY5VLMFbc5x12ozdx3u+tki2nalTydnZHDvD4lR/S2pQFSVYuQQAQR5OD5ox4utbeGZfRwRQqF5CFH3Hfc5779vilXXngt40jRtEjjlLENZXaXXIp2ALqxxjtnc9fmifieVTKAowP7+a5dEy1y8tZfs32yji6E84rEHYkVsRzyEj3dKqqbQhAsjcyrkBzsTWB5Gc+4k+aqqgEtWf/2Q=="
@@ -125,7 +124,6 @@ Ins Leben gerufen haben die Dunk!-Gründer nicht nur das Festival, sondern auch 
 <RemoteImage
   alt={`Dunk!festival`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-2-von-5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-2-von-5__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAKRAAAQMDAwIFBQAAAAAAAAAAAQIDBAAFERIhQQYxBxMiYYEjQ1GR0f/EABgBAQADAQAAAAAAAAAAAAAAAAIBAwQF/8QAHREAAgMAAgMAAAAAAAAAAAAAAQIAAxESIQQiMf/aAAwDAQACEQMRAD8AyZlkYyQAO2TU7aLFLuKkhhkpbP3VjCR/firl4WQ23LZeVuRy8tJbKEjGrUArGCcb71JSLyuI61bJVilyJTzr4YeZfSkFtRTpUVHlGn41ghJ7V0LfKKsUUfIQnIbKN1FBhx54NtQtMRxtK0lSwsE9laSOMg996iyx7Vrlzi9N2KxMJYtIccaW4EpclEqQHFaiG8k9t+Nsk84qnXl+xvxS3arM7De1pUHlyVL9IGCnBJGD+8753xSpt5KJRZ6sYta50y3WZCrfLejedIWHPLIGrSlGPfk02rqGe6WzLLUpxkfTdebBWnPf1UUVDqpGkQF2DYDFZDzkhzzHllaz+ePYDiuJFFFLM6Ez6Se5/9k="
@@ -142,7 +140,6 @@ Die Hauptbühne des Festivals wird in einem großen Zelt aufgebaut, das mit eine
 <RemoteImage
   alt={`Dunk!festival`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-4-von-5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-4-von-5__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKhAAAQMDAwIFBQEAAAAAAAAAAQIDEQAEBRIhMQZBExQVIlEHMkJSYbH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQF/8QAHBEBAAIDAAMAAAAAAAAAAAAAAQACAxESEzEy/9oADAMBAAIRAxEAPwDH6jyeKfw1sX4uS6pRZZIOpRgDtyASNqt4vHN+kmzct2mnFIANq45JamQYSTtImlTAeVtsonC5NLi3mnS4wtxft8T8SE9iRuDO8RT3jcZj9b68rbO31244HfMOENLTCNP3JIJ5JjcTGxiojIhyS++I30xGKbzpBu5Td2ZXj3C4WiXPdrCNOpJiOCJH8NSudbMZFF0y9YXQtVMONBTagVolKQg7d5Bk/wBp/wCqLvGenvvKYbsi64t90rOpK1KJgBBPG5gCN4G8Vz/EZOyxmYfat7ceKvZ1YQtuRyBzAO/xzTeQPZAYW3yzH+ojyhfY8jSCWCSY3PupfZzmRt0r8vdONhUFQCjBIn5457UUUaA1It7JZ0zcxzDeRt1XdyFF0j9if9k1IqGG0paAQCmTHJO9FFR2Xc2KAV2T/9k="
@@ -159,7 +156,6 @@ Wir werden mit dem Zug anreisen. Was besonders super ist: Ab Zottegam wird es Sh
 <RemoteImage
   alt={`Dunk!festival`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-3-von-5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-3-von-5__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAcIBgIF/8QALBAAAQMDAwIDCQEAAAAAAAAAAQIDBAAFEQYHIRIxMkFhExQiJFFygYKhov/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAQEBAQEBAAAAAAAAAAAAAAEAEQMSIf/aAAwDAQACEQMRAD8AqmiuH3mo7S3X3ENNIGVLWoJSkepNZC4bk6cirW3FkP3J1BwpMBhTwH7+D/VKgtsqKXsndS1RoKpEiJKYeJwiK70pdP3clKfyqvV0jr6z6nkmLDWtqYEFz2LmDkDvgpJBxkUr4U2Tm8UXc+VqmUqPp83Oxoc+S92WHUhGOCWsg9f1JB9OKXs66bjQWTETaL7GGOUi2OHv5Ahs1aVGKWjp8xKEoA3UW6+1bYWsAiTw6ERHUIX5fEVDH8qjNmdMSdMWJl17T70W9yE5lOvqS4vv4QrgJTwD0jz7k04cUUj0Uwv/2Q=="

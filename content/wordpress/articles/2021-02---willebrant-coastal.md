@@ -83,7 +83,6 @@ erzählte mir Karl. Genau dorthin träume ich mich jetzt noch ein Weilchen und l
 <RemoteImage
   alt={`Willebrant`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant-costal__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant-costal__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIFAwEH/8QAKBAAAgIBAgQFBQAAAAAAAAAAAQIDEQASIQVBUZEEBhMxgSIyYXHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEF/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAxEf/aAAwDAQACEQMRAD8A8c3Un3rNF3X7jmkcRnlWIUGdwi2aFkgbn5yqnljibsxhiWSMGtRb0+YX2YAjc8x/M3VLD4uUQ2dgx64Cw6gmwT1yp4zgHEfCQieWIMjPoUREuWNWaAF0OuTXRkmVHRkYEWGUgj4OURycTYGxI5G9sVgNd8+uBtidj2wIYi9LbfjLJkdovrhZo2qrRip/W2dkkeWRHd2diQLZiT3OKFaiCG7Yo1eqoCkLfTIS/9k="

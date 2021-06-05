@@ -44,7 +44,6 @@ Bis zum Jahr 2100 kann sich die Durchschnittstemperatur um vier Grad erhöhen. D
 <RemoteImage
   alt={`Graphical © by Carolyn Wheeler`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_Graphical-%C2%A9-by-Carolyn-Wheeler__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_Graphical-%C2%A9-by-Carolyn-Wheeler__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMEBQIGB//EACcQAAIBAwQCAgEFAAAAAAAAAAECEQMEIQAFEjEiQRNRBiMyYXGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgYAAQT/xAAlEQABAwIGAQUAAAAAAAAAAAABAgMRAAQFEiExYbHwQUJSweH/2gAMAwEAAhEDEQA/AOkXVqldlDuFJHfHMd96oTd2iiq1Wnerbj4zTrqodageSGw3iIEy0Yj71sd7cm2t+a2zVlWkzulMcmeAfECez1qh2m/3Cz28G22W2trOEKUrek1N6YYEvyU5aDiQM99a1PYipKsoOgn0nz7pXZwxK05iJmI1jfU0/jaMls4q1uNUkQ4CkAHLEEzHQxMyPvUjb6YSv1VUgsv6tOC0YOfY0gXS1LxLipt6i6YwX+KWj15f1HZx/mp1rXZ7yqhQBYJ5BIEiOz96JvECtQTO/FRzDUIQVRqATv5+1ju1K/KK+32zV6gpkoPIKzegSP51U29t+Smk73CDlKH42pEN+3zAZZAz1IOBo0aXLp5QeWOT3TRaNpNu2T8U9CmpS3FAEbkuJjgSZLe+uhgdZOfrTNtS5Tcl+YVeEN36xOdGjVWzyi82OR3RXTaRbuGParo1/9k="

@@ -42,7 +42,6 @@ Die The Dark Side Of Sugar Kampagne soll zugleich Weckruf und Mahnung sein. Viel
 <RemoteImage
   alt={`The Dark Side Of Sugar`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_dark-side-of-sugar__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_dark-side-of-sugar__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKBAAAgIBAwIGAgMAAAAAAAAAAQIDEQAEBRITIQYxQVFhcRQVIoGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOCz7YY2I4nNJ4M8OM0Wt3mWUwfro+tAQLLTDutfR7/YGWt5aKFdLJFGJROJCKaq4MLJ+K/3E/i/e5tM0W3bVrmXSrGrzdFioaRu/E9rte3b3wMzq4ZuZl1KTLJIWYmUEMx5EMTfrd/3i/ULx44zGrn3Bn6xDMkcknIAAk2Xa/cmzi3UHkPo4Gkn3PrbbHpbo9ZmLtIa4kL/ABryAsAk/AxRvLN+bIzAIZKelNg2PMfB88MMCkCoQMC3Usgj0qvf3yInDDA//9k="
@@ -63,7 +62,6 @@ In Großbritannien konnte Action on Sugar durch Aufklärungsarbeit bereits weitr
 <RemoteImage
   alt={`The Dark Side Of Sugar`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_dark-side-of-sugar-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_dark-side-of-sugar-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYD/8QAKRAAAQMCBQMDBQAAAAAAAAAAAQIDBAARBQYHEiETMVFBYYEyQnGR8P/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBi6MZXi4YvcWm3EqRxuANj/CpWf8ssyWHNjbaQCVAIBFz729PWkNl/XTG8BcDcdER1jpbQlbPO7ze9MROs8DMGVZ2Jzoxw8w30tJT1d5WstlSSngckgi3IoMycpuyJa0oaY2q45vx+K0mI6VxX9PcSkOtxGZ0dfWbdBVdSQi2wjtyeR71h4GqMlWVZOKtxAnFYbSUF5xF2VqU6gWAB5uCb+LDzVdimveYJcLEojTEVmPKcJQkNJKmkfakqP1Wt3sPigS6VqURcm/btVhGmzWIjsVh5aY7ygpxuw2qIBAJ+CaKKDiHpLUd5hLriWXbdRAvtVY3F/moy0H3/AFRRQf/Z"

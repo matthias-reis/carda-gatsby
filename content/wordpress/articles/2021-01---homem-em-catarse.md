@@ -45,7 +45,6 @@ Homem em Catarse bedeutet so viel wie "Ein Mann in Katarsis". Hinter dem Namen s
 <RemoteImage
   alt={`Homem em Catarse - Cem Palavras _ Sem Palavras (1)`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_Homem-em-Catarse-Cem-Palavras-_-Sem-Palavras-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_Homem-em-Catarse-Cem-Palavras-_-Sem-Palavras-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBggD/8QAJhAAAgEDAwMFAQEAAAAAAAAAAQIDBAURAAYSISIxEzJBUWFxFP/EABgBAAIDAAAAAAAAAAAAAAAAAAMFAAEC/8QAJhEAAgAFAwIHAAAAAAAAAAAAAQIAAwQRIQUSMUFhE1FxscHw8f/aAAwDAQACEQMRAD8AYdn22kljZigwo6/zSKvtVUbcaZ/UOKaRo+GHw3cTgsFIxj4+8eNaDvW4o7JtGRKdov8AY6gqJM8R9ZxrPN0jbctzqKu53xgzR83SClRYVKnuRQxOfK9xPySfGlsueq1UxuQAL+v4YaSpT+Avcm0SZ9+Ul92/NR19shlgbisdZTKvrpIM4H2PcT1PgY641z2nQSQ08kdanfJyJmEoIdvor8Eg50tLTHLT3ThKTEJ3xGrKSHcN2nCHyMn8z009HuFA1sgjFNIbhEeEzehwA4HHu+SPGjaiwNPvQZB6eWc/eY3TC7bW4PvFa3FuWorIJUp5CZAO7Izkfml/JWVFFXLJFNVU8yRvw9EdebjGP0EHr/dGjVUEpQhW3PzEqHOO0SordWJHJXXD1FqI4lSKKJ+5AeoYsP3VwtUk9JDGBUsyzQh3DHOfsnPznRo0PUzZQgGIJT4BbrH/2Q=="

@@ -170,7 +170,6 @@ Für den Moment werde ich es bei diesem kurzen Anhang zu meinem Artikel belassen
 <RemoteImage
   alt={`Istanbul mit andern Augen`}
   size="full"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_cover_dvd__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_cover_dvd__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIEBQYH/8QAKhAAAgEDAgUEAQUAAAAAAAAAAQIDAAQRBRIGEyExURQiYdEjMkFCcXP/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQC/8QAHREBAAEDBQAAAAAAAAAAAAAAAAEDEWETFCGR8P/aAAwDAQACEQMRAD8As7bjeAanfadLpNty4UZWuXhBeR+awI3M2OwBz3/qqa/4g0+ZJ7e09Ulw49jDO1eoP6s9OgPatnNZajC+tGa49eJruR4IJAAYAZCBtZjjAHYDx5NRo49bPF2nNHEYtEECrNEk0ezfsbdlQckhsdcGmRUm5c0uLMQt1IMcy6uB5/M33TwXchuIdt3M3vXP5W8j5rrtxDujw0gCFs4MQYD47U9nCVkiKOvLBGVEQUMfNb1cJtrn3aTdaBdvdzOHtwDIxHuP7k/FEHD13HIjmS3wO4Bb6oopK1KbR7lxhxAV/wBG+qeLSLhGULyQoI/mfqiigP/Z"

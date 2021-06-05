@@ -39,7 +39,6 @@ subTitle: Das neue Album von Magenta
 <RemoteImage
   alt={`Magenta - &quot;Masters Of Illusion&quot;`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-21-magenta-02__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-21-magenta-02__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGA//EACYQAAIBAwMEAgMBAAAAAAAAAAECAwQRIQAFEgYTIkEUMTJxoVH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHREBAAICAgMAAAAAAAAAAAAAAQACEUESIXGRwf/aAAwDAQACEQMRAD8Aktr2Orqt7eo+BMkLU8vLkhK8WjZG8sD7IPrA1aU+5bbJBs9JXGda9Yis0ZhPki0z9wqfdgLj6vbTfoqg2obestXCzvI4Iks5DBcKwti1idSUdNLUdewNKvkVro2OBZhSyi1gBxwRjUWteLXRKVtbJZ3E20QU9RQSUyiUntlCSoA8UYXyR6ZT+zqc3bpyroxWF6UFahyUEciOfJMmyk2tx/uq+ppoF6ZfiI37cqtIQRkc3BB9/Sg2/WpejhMc85p/GRIHZ1B4ntixa2M/X90xuPa2QHz76+TGLqdSVEdXOqKAqqFvbAxplsW9Md+NpZCkkFZKSQPz+JKOR930aNUsGGZqWckwqOpZqcstKQsTmOQxtGrWdRa4Jz/uk9X1XuLTVEjzNM0sLQuZxz8GBBtyODk5GjRoAR1Z/9k="
@@ -60,7 +59,6 @@ Auf "Masters Of Illusion" wirkten John Mitchell: (Vocals auf "A Gift From God"),
 <RemoteImage
   alt={`Magenta - &quot;Masters Of Illusion&quot;`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-21-magenta-05__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-21-magenta-05__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAFB//EACsQAAIBAwMCBQMFAAAAAAAAAAECAwQFEQAhMQYSExUiMkEHUbEUcYGRov/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAAP/xAAbEQEAAgMBAQAAAAAAAAAAAAABAAIDESExEv/aAAwDAQACEQMRAD8AEU1dfKS8QUnUFsip5pGQSxOrRsgbg8kcEHSO3dRVdvkaDyejkEh+ZpNsfbRyvjtkFRaPKpq2pp6mjWo/VVmA7gyMoTAJ9pVh+2NILYRLKkZUKyn3n51yMYvSNfnyY/U/WtRX22cxWqkhmhr0pAGkZ19cTP3Y247SP51z+/VNTPEktRWQU9Iy94WBQZHG+NhxnHBwMffW/wBa07W2C9xz9uTdKSde0/DU8uMf0dBL28TTlyQBIvcqkb4+ONtWuOp4TNtnY/vfWNX1BPaHroY6N6aDwyiw4DnIJYAYxuONbNruniSrOpT0kA74/OrVpjA9h36gXJr0bpHAqtKai3oiLyQkU65/0NALlQXJWTx6KdSi9vtz+NWrRbI6l1wn/9k="
@@ -79,7 +77,6 @@ Robert Reed fügte hinzu:
 <RemoteImage
   alt={`Magenta - &quot;Masters Of Illusion&quot;`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-21-magenta-03__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-21-magenta-03__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBQcC/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURABIhBhORIjFRFCNhQWKBk8L/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAeEQACAQMFAAAAAAAAAAAAAAAAARECAyESE3Gh0f/aAAwDAQACEQMRAD8AVunrHtvVeuw5W8hRx7B1kT/Wr7ou1QwXhYpk3qcx4K+3dpjyP6R51nvS0VLJPW1EsVTVVyKswjEoVH3AEkjBOcknxpyFFUR2q6pXQpFVU8MgUxgLz2ycek4PGTnQiWNYRF2s9PD1JOA0Y+ogBYBwfUUHx+5D50g2e2mlioIaqN4nWtaMCVCpwSy/r+GB00USGgs1ulo5pYe+XMjRPtywPAOPgFuPzq7uNKZOmqaskYO9NLDOHY5LJ3OTn5yD40EtODS49ymOe0vDNrFDfFrGnp7XeYmdVj+3TO24AAEHgcHGnahW9mOvNTbL0IpKebERo3wzmJlX+ecaNGmqjFlHRzdQ2qmSBLfc4o03EEUbgruxuGduecDxrm7dR18linoJ4qlAyoiBqdk4DluTjn3OjRqROSyz/9k="
@@ -96,7 +93,6 @@ Das überaus kreative Artwork lässt einen mit seinen Horrorfilm-Andeutungen zun
 <RemoteImage
   alt={`Magenta - &quot;Masters Of Illusion&quot;`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-21-magenta-04__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-21-magenta-04__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAMH/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURACExBhIiE0GBB1FxFSNCYdL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAGREBAQEBAQEAAAAAAAAAAAAAAQIAESFB/9oADAMBAAIRAxEAPwCOscFJLaomWePxtslNKMg+nISHjVucEhHI/B0ytNTT264idmWQrBKrxRk9xy6SKckY5DA77Z1i6AhU2vqAmGOQrJRjcH9siKcFxj3Xn7c6b10j1FDPTwyQU9JGArBFCmQDJXLfy3/vnUYmV91Kqg8ym5UH6wlDX0tKUhYSQyozbqIWVlPcOM+rj41OdWWWekSeW6vFJcpZe0UygEKu5ZmIG2NgBnPJ9teodJ1FJT9OxR1/aj1FVN2h9gR2REjP5xqB6rSJIZZ6gvEjShEJBJYsAfEe+CSPjTTweGGlPdy+l99oobJ1JPcVkKGSEKqnHk0c6KCftuc6yrdkeOPuZlbgqTkaNGiTi5aehm1zr0bpK3TU5JkS4yo3zAn+RqEutwM5maUgSKVffnx0aNE/djv/2Q=="

@@ -39,7 +39,6 @@ Der Hund der Bidens ist ein Schäferhund, der zwischen 12 und 13 Jahren alt ist.
 <RemoteImage
   alt={`&quot;Let's put a dog back in the White House&quot;. Foto/picture: Joe Biden, Instagram`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_Lets-put-a-dog-back-in-the-White-House_.-Foto_picture_-Joe-Biden-Instagram__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_Lets-put-a-dog-back-in-the-White-House_.-Foto_picture_-Joe-Biden-Instagram__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABwAFBAYI/8QALRAAAgEDAgMHAwUAAAAAAAAAAQIDBAURACEGEzEIEhQiMkFxI1FhB1JigcH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUBAv/EACIRAAICAQEJAAAAAAAAAAAAAAECAAMRBBIhQWFxodHh8P/aAAwDAQACEQMRAD8AMeHZ0orbT1T2mC4QQRTzTrJChGO8UBJIycErsDtjprtll4clulrsslNTW6KqnEc08lRyuS8Tkd3H0zh1HqH8tcThCNqzhOxUcT0SGWqrIpTV4CNGxQlCx+4ViB7kddaVrt0puMSS3OhakCqQ8LJDTyFGWKPyAkIArMhOdmwQSOrms1FSOwydrrz8QdFDMuSu7193ib2Zg0f6e3J441KreKhADM0eD9LbA29v86aZKSacyFeQihjuTMxz8baGuzBcFp+DrjTP4YBrnVTZkqFVxgxL6TuRv6umdvfTRSXOllbl+MpWnZiBGs6sfjbXGqBNzYmVkBRPFVpjqqGghp0peLIFUK7xxU04TmH1sB02+N/uNaEFbcYynm44BjXuqyx1K7bjAA6DHt/X51atViATkiBC44xm7PdKKbg64wS0zQ0TXOeSKK4UzrK3lhw3m9tm/Ocb6Z44zEnekWMsP2JvnVq1GvYmwxlFAAn/2Q=="

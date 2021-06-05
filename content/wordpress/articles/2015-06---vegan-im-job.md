@@ -39,7 +39,6 @@ _Affiliate Link\*_
 <RemoteImage
   alt={`vegan-im-job`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgADBP/EACkQAAIBAwMDBAEFAAAAAAAAAAECAwQFEQASIQYTMTJBUYEHIkJhYuH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBBf/EAB0RAAICAgMBAAAAAAAAAAAAAAECABEDEgQhQXH/2gAMAwEAAhEDEQA/AFvS9roUoYexBFCIxjEUSKT94+9Y/kS7TWRbXTU0MEkFf3YpJaoLsQ7AEBJGAMtk59lOqwVymiAjOSR8512dW9qu6drEqYYpkjgaUI/jcgLDxyPHsR5Oudg0DgsLl3KRyjaGj5Clsu9JVdLV9dcLWkgiqmp4ljCqvbC5X9XC8LxwOdo+dAOpko2qDLZpjsZFZlRyNhP7TnkEfGndouC03QUaVNLElGsENS8ruTu3gsx2ryeTwP40I61q6eaZYqKSmm7aKmaZvSp8Zyff2/3S9g2UlRQlAVkwKHazQubWC7VLRK24BgSAV4A4HtpFXXire1VYaViOxIMZ/odWrRlRYMBSdTBNru8z9PxUshcxSRwKpVsMhRcBgcHRGaiNLcX7UzAICGIHMi59J+uPGrVpxUBjU1+0X5P/2Q=="
@@ -56,7 +55,6 @@ Seid Ihr schon mal auf die Idee gekommen, Tomatenmuffins zu backen? Oder habt Ih
 <RemoteImage
   alt={`vegan-im-job`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job-4__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYD/8QAKxAAAgIBAwIFAgcAAAAAAAAAAQIDBBEABSEGMRITQVFhIpEHFBUjcXKh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAAL/xAAgEQABBAEFAQEAAAAAAAAAAAABAAIDETEEEhMhUSJB/9oADAMBAAIRAxEAPwBB3kjaV7ccVOORiGPhkfxE/AbA+2t/sHTDb1CZvHHJDKxSQ8BUwAQpAxzgg5Pvq3ofh/te4W9rsLM1fyZMSRhMrN3JIyeMdvn11udo6Tl6ar3S1uC3QsOj1xjEikAgqw7dscg841G10p4/g0VYiHFG8nvHXubwssOjdr2kx2i9RZ4mDxu8akgj2Hr/ALqPD0EaPX+33qEQjo2RJMYwOEDxtlfb6XHHw2rm5XrfqSrFWQM7AFyORz6aZtMxu9NTw+SuD/U4x9tK6IyNsOfutdPYyQF0QFCsXnv2vPP1Jfa6tmPqCjuMF6RFWQOYCPErDsRyexz7aajyzTuY5Py5qqPqiEI/c47Mc8j+Me+jRpyVjXEWjaInfS5261alNXevAqiaLzBk+Jk+Ax1OrkJa2t8E+Y3AJ7ZU/fRo0CECytO40Av/2Q=="
@@ -69,7 +67,6 @@ In einem umfassenden Vorwort zeigt der Autor auf, wie man gesund durch den Allta
 <RemoteImage
   alt={`vegan-im-job`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job-3__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAwQI/8QAKRAAAgEDBAIBAgcAAAAAAAAAAQIDBAURAAYhMRJBEyOBIjJRYXGhwf/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQb/xAAhEQACAgEEAgMAAAAAAAAAAAABAgMRAAQhMWESwQVB0f/aAAwDAQACEQMRAD8AW7xamFefib4lWEyPKHICKM5JPrVT2xaI9wW6GohpsfHGCpkk7IwMkDrke9KNzihrluUEyCRpKEH4hnydFYlgM/bTdse7VtlNVFV5dXYmNWQR+KnnxVVzxnGMf7rNaiYkqjcDrnNNBpyqtNGdz3VYm7htEdBf6ehUzGWomIcMxK+BVgB3zkn+tQy6Wq5w7ap3ko44YoGaGSSFfxjOOJT67HHfIzjjXRO479DWbjoLcIAaqCoCFqgFGDSHke2C8r6B/cahO4a6opamutk1Pb1gZ/klpqR3ZHfwDB/I5II7IAXkHOqUMjEKarIUviryAtdHavqwPzGi+XC4pd1MtWfpoWYwL8TMACSvkDkA4x3/ACDrHS7wvqfUpK40kZAVUp4kQgdfmxkn9SedGjTUESNuyg1XvFfkJ5Y2pGIsng9DNay3aon3TRSyMzytWRO7uxZnPmOSTzpNkrobZJcrctFFMTUYSWTtMd9ff2O/ejRoku711gNIAsPkOSfWf//Z"
@@ -90,7 +87,6 @@ Buch mit modernen Gerichten, die sich ganz leicht und in kurzer Zeit zubereiten 
 <RemoteImage
   alt={`vegan-im-job`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgEBgcF/8QALRAAAQMDAgMFCQAAAAAAAAAAAQIDBAAFESExBgdBEhMiYZEUIzIzUXKBocH/xAAXAQADAQAAAAAAAAAAAAAAAAADBQYE/8QAJhEBAAIBAgILAAAAAAAAAAAAAQIRAAMhBBIFEyIxQVFhgZHh8P/aAAwDAQACEQMRAD8A1GwxQptJO1TbhdYtudkMrjvuussd+Utgapzj6+p2rmcLe2FLJdeT2BuO0Dn9VbJDgRDeWVKSlLalEpGSAAToOp8qnIR22yjJhLtFnxmVc+Q4ngRq6QmUlxp5pwIfToUL8KgofkaeVLZdbxOuTcaLe5aHGIzmQCyEFOU41IA3AHpTTc01N3vlFdXmC6Uqid4C82W1+BQJJBGmx6UsVp4kVar05OucQXASG+6UCMFIwNgRjYY16UfhRGQFt369x94p44ka3KtHj+9sZ/haW7hGToelTLnxsbckYglwkE/Ox1+2iisrJjFTGWq0XlC4w5lPT7BPhrtbCWZLDjJ96SQCk6jT+VifEECDb4Cwhp9chhxhC3FPkh0LQlRynGnxaY286KKP0fJm2+eK5vWXzb1n/9k="

@@ -78,7 +78,6 @@ The newest piece by the Irish post-rock band tends to be raw and wild. Whether i
 <RemoteImage
   alt={`God Is An Astronaut – Ghost Tapes #10`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_god-is-an-astronaut-ghost-tapes-10__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_god-is-an-astronaut-ghost-tapes-10__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAArEAABAwMCBAUFAQAAAAAAAAABAgMEAAYRBSEIEjFBMlFhhMMHExQjM1T/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQEBAQEAAAAAAAAAAAAAAAABACEx/9oADAMBAAIRAxEAPwBj4YA4W7sDKyhwiJhQAOP7ee1Um5rk1bQIDklelz5SWzkqbUyQRueg33GO3ap3wseO6dv8nzVRrks6HKfanae5+KG3fvPtoUotuhOTsnOAc5Hluaw9qXPsy8NUuqE1Kj6bqcVlxBWlx8xwhQHcbc2OnakXifDgatEPKKnMS+YnHX9PkMUz/SSwGY+gQ9Q1yQrUlPoRJjMuKWW2EqAUE8pOCRt6elLnFP1tX3fw1TsY4WPFdXtPmq3yg85zsFlC2XElKlBXLsQcjrmiiouws9PZXHix4iI6Y8ZlAaQOfPKlIASOvpiopxUHKrV938NFFB2N/9k="

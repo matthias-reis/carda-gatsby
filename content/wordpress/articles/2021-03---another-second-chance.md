@@ -50,7 +50,6 @@ In der Musik von Baulta habe ich mich schon früher verloren. "Another Second Ch
 <RemoteImage
   alt={`Baulta – &quot;Another Second Chance&quot;`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_unnamed__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_unnamed__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAgP/xAAqEAACAQIFBAEDBQAAAAAAAAABAgMEEQAFEiFBBhMiMWEyM4FDUWJxwf/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//EABgRAQEAAwAAAAAAAAAAAAAAAAABESFB/9oADAMBAAIRAxEAPwCayd+esMcYmllZ9CpHdix9AADc4a4OgOo5Y5Gj7bTQpqlgiqNckf8AFreIa3F/7theytnOZsI6h6d2LjWu1gb3N7j1iiZX1PDDkVVkYrK6R6jxmroEvfxF5OGCbG5vv8YwrWEgZFmNPQS1lfl+YhZAVppC4QahyQbk8bC3O+AimZJlVjKrEjZiQfeHijSt6gzHTXTVdTQ00ZjftQuupVSyamYH69tvq5G+AXV0NHRZ7JSUb1cklLMYpDO2oNaxFr+QIJKkEcA84AOHaGsdrKzBmHl+R+DgvSZgiUMkApyiSEIZIxcsFs3b039E2Pza21zgbPS1JncmnmuXb9M/vjCRzI4+7CfYOhv8GAt8PUFNkkFdVRVdVU1ESAUkhe0VYSosxU7gKStwL2+MRbNFnlzV56nzlqZDIX1Bu4xbyb4JPHF8aWpn0tBUCSqia2zBgQd/RIuPZ+N+bDHNzLNXrL2pzd1sJLsbC217YnV1h//Z"
@@ -97,7 +96,6 @@ I have lost myself in Baulta's music before. "Another Second Chance" offers me a
 <RemoteImage
   alt={`Baulta – &quot;Another Second Chance&quot;`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_unnamed__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_unnamed__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAgP/xAAqEAACAQIFBAEDBQAAAAAAAAABAgMEEQAFEiFBBhMiMWEyM4FDUWJxwf/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//EABgRAQEAAwAAAAAAAAAAAAAAAAABESFB/9oADAMBAAIRAxEAPwCayd+esMcYmllZ9CpHdix9AADc4a4OgOo5Y5Gj7bTQpqlgiqNckf8AFreIa3F/7theytnOZsI6h6d2LjWu1gb3N7j1iiZX1PDDkVVkYrK6R6jxmroEvfxF5OGCbG5vv8YwrWEgZFmNPQS1lfl+YhZAVppC4QahyQbk8bC3O+AimZJlVjKrEjZiQfeHijSt6gzHTXTVdTQ00ZjftQuupVSyamYH69tvq5G+AXV0NHRZ7JSUb1cklLMYpDO2oNaxFr+QIJKkEcA84AOHaGsdrKzBmHl+R+DgvSZgiUMkApyiSEIZIxcsFs3b039E2Pza21zgbPS1JncmnmuXb9M/vjCRzI4+7CfYOhv8GAt8PUFNkkFdVRVdVU1ESAUkhe0VYSosxU7gKStwL2+MRbNFnlzV56nzlqZDIX1Bu4xbyb4JPHF8aWpn0tBUCSqia2zBgQd/RIuPZ+N+bDHNzLNXrL2pzd1sJLsbC217YnV1h//Z"

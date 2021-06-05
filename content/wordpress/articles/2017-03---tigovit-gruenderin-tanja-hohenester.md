@@ -51,7 +51,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: "Wir befinden uns mitten in einem Wandel"
+subTitle: 'Wir befinden uns mitten in einem Wandel'
 ---
 
 **Letztens habe ich Euch hier tigovit [vorgestellt](/2017/02/tigovit-gruener-tee-in-hohen-dosen/). Das Präparat wehrt mit seiner extrem hohen Dosierung an EGCG, das aus Grünem Tee gewonnen wird, aktiv freie Radikale ab und stärkt das Immunsystem.**
@@ -196,7 +196,6 @@ Zu Tanjas Instagram-Album geht es [hier entlang](https://www.instagram.com/tigov
 <RemoteImage
   alt={`tigovit`}
   size="full"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit2.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit2.png__l.jpg"
   loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAJCAYAAABT2S4KAAAACXBIWXMAAAsTAAALEwEAmpwYAAADvUlEQVQ4jT3RS4gcRRjA8W9YFjyJp6zm7NGL4EG8hj0peFBI8CpI9iABjx7U4EENilF0dRfJYxVRSQxmNSZZk112Z58zs/PomZ7ueew8dmeme6afVdU1XTXd80mvxIKi4MdX8KcKXGcEw2EXLGs4Y9sjcF3vVctybpimcd91nKvE9y52O61nGGUvWZZz0zSNvx3H/or63kK305qLIzxrW86SaZr3bGv0AyPk0qB3/LwU8jnbdhcTt6zRNUbJu0Oz/0q304b07g7oNf10g+c5YFknYBja7NBswmjUrplGC/k4RNu2UFXLqJQrt2yr87thtJHzMTqOjVW1giWlvEb8/qXBoImMBUiIhzW9isVSqeU4/Q+MQRMpo0gpQV2rYkWtYLdchIqmgapVU5qmAfi+B447AM93Zj3fBULYhu0SjBAZYYLkCwoqZe07ISZXnzgNJCkWkwD1Z0Q877g+hhOkIsJAUapYLFZ2pYzfcT2KXMZ0MsUgmVerNa+Q3wK91gBNr6c0XQOgjAELCASczfKxgICLNKUdbFQ/lIbZlkppHfOHa0tRjN9QdoL16kdiMKiJSjmN+cP7vyDiWyywsVX/TPR6e5GuFTCbuXMwiXGBcw9bjc+FYWSiqprDsvKIrK+eg6NuDPVmO6UlXxBwDqEIIQyD2XEYAh+HaT42US19Ivr9qlAraSyWDpajOPqWjy1UlSui11NEVU1jScn8mgSEgmBdWxTd9uakXsthvrBxEMW4IGSAzdqS6B1vR7qeRVXdp5Xcp+D4CGVV+y8gDEMIgiHIiZwVIgQpp+tCjhERxTicSr3WxGbrZBERv5RSnLoQKGr1Fjaa7eQL3gxDlniIiFGj2cZa/WgPEd8Wkv/vtfoRtjon3vLyEly/eQMQMWU5dhIwBs8tgj06mHWdCjA20Bitn16kjNCDXA6z+cpvPOjdfuIsoDRzmMPMYeEB5/57xFdPw6JIBoeFAu5ncxql7mVG9cTldBrzbD6PRUWZAsBTADAzsq3U+QsXkgAO5uAhHLevzfSPb8HQePz+yFxPLqJPfNzPZPDPvx59n8+uXLRHG3HihFLM5HL48J+NldU/vj43Mu6ROEYUUmIS8Hhja3vtwU+vDQd3rekUUU4iPCwUcWd3twEAZwDgadd1U/Pz8wBBYEP/+DYMBkMghIJr7wGiDlLii+bQ/OLHlesvIyKEvAxjdpA83Quu515ZvXvn1ANWBeJtQhzjWcaCj7e3N19PnAcN4CybzD/LOb+8s7P1RuLlsgLJOjM3d3r+C6R1j2QIm/gAAAAAAElFTkSuQmCC"

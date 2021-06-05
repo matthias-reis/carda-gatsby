@@ -43,7 +43,6 @@ _Cancún, Mexiko -_ Die Weltmeere leiden. Es muss dringend eine Lösung her, um 
 <RemoteImage
   alt={`World Ocean Summit`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_plastic-1433138_960_720__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_plastic-1433138_960_720__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYDBAX/xAAvEAABBAEDAgQCCwAAAAAAAAABAgMEEQUAEiEiMQZBUWEjMhMUFSQzQlJxkbHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//EABkRAAIDAQAAAAAAAAAAAAAAAAABESExEv/aAAwDAQACEQMRAD8AYtyHJLbj8NhqQr4jr4bASvbYHHlZKTQ5v+NTzJgjvRhDaDk9SkmOhG6ySTZO3yodz+rUGMzGOy0F9iLLUzKWEtpeUn5ARV8nvz/WkdclrF+KH0faUkSoMlP0U9lSkEJX5nmiKsEeo1wVaa0dpefZwmAQ1nMcqNk3Hywy0wPxGwDZUn5U16Xz7aX5uVcyLjJaitSoiiXlFtYfu0gKqgRabBKeQCnj11n5PLTc9GxbD+Ucfjxy++wXmgm29pSskg3zyAnuO41Rb8QPPSWozBQl5FpSY55CbJAqu3cUKBrtzqq8EFidgZUT7wwtYsApWg0oX+Uj/NK2TgTHM4hyWy+3Hd6HltNnhI5NC+kGj7AnitGjU6cCBzawdht2TKYexsgtj4dgMJrp2+wBHPHvrKmeEvq7DrrU1IdjuBtanQDs5tPWmyki73ef7aNGiplbnT//2Q=="

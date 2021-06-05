@@ -50,7 +50,6 @@ Am Gremminer See auf dem Ferropolis Festivalgelände soll jetzt über Pfingsten 
 <RemoteImage
   alt={`Open Island`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Open-Island-2016__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Open-Island-2016__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABAABAgMF/8QAKBAAAgIBAwQCAQUBAAAAAAAAAQIDBBEABRITITFBBmFRFBUiMnGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQF/8QAIhEAAgEEAQQDAAAAAAAAAAAAAQIhAAMEETEFEkFRcbHw/9oADAMBAAIRAxEAPwDiXLHC9z9aXsE1ZN0jlu0zegRWJg5AKxKkLyJ8DJzn60XbY7wWe5RoRX0hVlZZV5R5I9jkuTjJwD61hZ9t2+/Yju3I6ywiTAsI8rOqxgiR+wAUE/gn68aZrxBIA8UFux3gMT59UB3QyMUHFcnCh+WBnxn3/ut42UjvpO50bQmWXbtl/da6DHS2qVYEcZJJViDjAOf6n1o9+BqQhsSVLdSnZ49A2WDkkjOOSgBvB7getImQr6Xc0b4txdsBA/T6q3H5XWrV3F3bl6bEdBYMsQcg/wAizD/mB50ra/mAgkimg2mw+1LKjurSo88p+w5K8ck+GHbHbtq1axcnQVo4Hx9VqYzt3BdwTNeL8wapv9+V9roXaFKbqNYp2LHTgeRmz1AkTtlvPnA/GgwwXKtz9Z0NusWJVMPJ+opTt2wcn1+ANWrVHTb7pZVl5mdAnn2ZqfOtK91lPFf/2Q=="
@@ -88,7 +87,6 @@ Seit 2016 nutzt auch das Festival Ferropolis die Inseln. Derzeit wird es zu eine
 <RemoteImage
   alt={`Open Island`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Future-Island-Aussicht__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Future-Island-Aussicht__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYC/8QAKhAAAgEDAwIGAQUAAAAAAAAAAQIDAAQREiExBiIFExQjQXFhFVGBkfD/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAgP/2gAMAwEAAhEDEQA/AM5bIWdURSWPAA/2KYjZGVSjowY4BVgd/wBvuq94zIgaJtEyjtY7j6I+RsKZkRZYxphjUgDtJOM7Z3GKlGGV92Ro42QyLuy6gCP4paTfNcyQRXCiR4WRyVcrq4cDnk/WfkVEJms2t39M00aP7kTESArg7bsu3HBzRSrAaCTpa9sY4Tfy2sRnl8iPy5PN78nOrSDgbEZGd6sZOkJooQ36lavLpDtDFFMXjGkOS3ZgYBGf65ooqhccmsVJr3oe+i8SSzS9tpZHQyGURTCJBuctIU0jjj8iqG76duF9OZvEofDw8q6Z2kRQyadWtQwJZcEZGn5/FFFHPHNFaSP/2Q=="

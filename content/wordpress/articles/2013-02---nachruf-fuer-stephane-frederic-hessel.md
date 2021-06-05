@@ -84,7 +84,6 @@ Im Alter von sieben Jahren zogen seine Eltern mit ihm und seinem Bruder Ulrich n
 <RemoteImage
   alt={`Bild: Anne Reko 6/2012`}
   size="full"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_02_mg_01931__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_02_mg_01931__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBP/EACsQAAIBAwIFAwMFAAAAAAAAAAEDAgQFEQAhBhIiMUEHE1EVcZEWMmFigf/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EAB0RAAICAwEBAQAAAAAAAAAAAAECAAMREiFBUYH/2gAMAwEAAhEDEQA/AFXhFip3ChAZTtomMbGskQZkKESSQQe2xzjfTLfrLw2eA6uuUhkZe+uMayVR143I6pYHLjONs/fSz6b0JM11FQwLqGxmliQocuBkSkDsRtvgDI02cfUJt/p5StslMh9K6qS5qnwMzHETGPKM+JYznfcD50VE1Qn3sWKlNDOw7JKODq+/Qg1t4pCgASUK5pM4g9xsP6jfz+dGt1IL8WNigsC4YHMAOo7528Y7fnvo1AvI5yGR6woypP7Gei9mkqk21tvK5TjN6GQaIlhEerJl5OO3fTx+o6N1KZLS6op6OaYwUxZI5zHpz84IP+jPjU64iutrp40eEtL1SE5MSBGEHDAI8ec9ta7zfaW2Xg/SGRuVmeuMHU0p8hjPBlLqxnJJyCfgjxqq3IwPIqi0IgVugSvjhayXSRuT7PTtfWCLZlhYCdsA4jIAZA++jUrR6iXFiVotLBR0yoAn22Fk5zl+4zOAPG2P50a33r+TOy+rY4E//9k="

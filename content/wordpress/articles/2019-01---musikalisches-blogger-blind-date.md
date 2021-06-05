@@ -39,7 +39,6 @@ Zehn Blogger\*innen haben ihre Wahl getroffen. Irgendwie wurde mir im Nachgang m
 <RemoteImage
   alt={`blogger-blind-date`}
   size="full"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_blogger-blinddate.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_blogger-blinddate.png__l.jpg"
   loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAECAYAAADvRz3UAAAACXBIWXMAABJ0AAASdAHeZh94AAAA8klEQVQokXWQi46EIAxF/f+/nIci+NgRUaA87qZlnUw2mZsYant6W+g2a9GrEfOyglLCaCaoUaOUgtdmcXoPdxy4PXphWJwftUGMhNe2ST2EgOegsKw/wkzzgkc/IOcMa3cobWCmWfz4HNSIfXfoQog4zhPOHai1QpsJt/sTpVZZhg1TytidE47Fy3kfJOal+BLXIF6GxYM4z55ESfyvGhHJP/t0kvkTw7UWOVkxRvjQBl3ipk8e0tP4r8y/GZ/qgIrJEWLipoqQK7RL7al9ho3NTNn4Zk4qMI4kv54Jm288+4Q3k6H3KDF/HHvKErNPqwG/gnnzAb6MPScAAAAASUVORK5CYII="

@@ -37,7 +37,6 @@ _Werbung\*_
 <RemoteImage
   alt={`Plastikfrei einkaufen`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-04__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-04__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKhAAAgIBAwIEBwEBAAAAAAAAAQIDBBEABSEGMRITQVEUIlJhcYHBJDL/xAAYAQACAwAAAAAAAAAAAAAAAAADBAECBf/EACERAAICAgIBBQAAAAAAAAAAAAECAAMEIRExQQUSIlFh/9oADAMBAAIRAxEAPwCZs+3qi+IRoIxgEtzk+3tpyXq7fGti/wCTTg4CSy/KHP0qO7H7AHSPdN8bbOm5bUFmOJ4o8CR4VOH9Ai/0jjWTTX7Njrjbtx3CS3bkiYgvYVpcrggsB7Ag9uMaQ9/eozRWr3JWx4DHia9PD0dv9h43T/UDhpIYmhf88cH9jWbdb7DS2Vq3wt2SzHZRnVZovLdQDgHvyDzg8djqyWZJFsxudyhbxH4mRBMMeFRiPDDkk8/L6djqrdR2H3K7LOInAVREiE5KIvYfnkn96vh3PafyF9Yw8bHRXpJ+X3o67PjR8RrD1ZXnpqlfZqyWQfGstqXzSG+o4xk+vfUKtZu1hBer3J03NZWICkeWoI/6BLceoCgcZ0aNMNUsxTYzEczqJ2mY2b9hbFthjxynJA9gT20o3KymG8LLj7H+6NGiqJDsT3P/2Q=="
@@ -56,7 +55,6 @@ Mit ein paar Tricks und Kniffen kann man aber dafür sorgen, dass auch an stress
 <RemoteImage
   alt={`Plastikfrei einkaufen`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-03__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-03__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAQQF/8QAJhAAAQQABQQDAQEAAAAAAAAAAQIDBBEABQYSEyExQWEiMlFxof/EABgBAAMBAQAAAAAAAAAAAAAAAAECBAMF/8QAHhEAAgICAgMAAAAAAAAAAAAAAQMAAgQREiEiQYH/2gAMAwEAAhEDEQA/AE7S+k25TEeXmj22I4m0xW0nkcJJAB9EC+ncYq8bLWQyl4tpQlQsGx/uFPSudQJSYbKXJSpzraG+EN7QVpbI6KH89Hrjv5TnBTMYbOXiRAYIKXmAWySAbGyiFEEnyO3nHMyskrYAw6E1xkVtTdZjM9GZY6+JT8Yskg222rYl5R7Aj9vyKwh670k5la3XobK1w0pHIB8iyqgT7KT1o+jeKXqaQ/Fzg5m08H4oiqkKZLloMcUErRY+CiVEV66nGtPzFmfGblNuciC1tdQpG1dH6k/hHg4KszbDTfY9QNxq8d6+ySZZnPFEhpgIjNymlb1SVgrWVAmtoPxSAK8E2LvDZD1LJclGSqQmC+SFEx08iFqqrrcNprx2/mDBi16KOHG43IVuuo+JhO1M6ZS1xoextuGmFH5nwoqAWVlbiRaeqj9evQYS5svMmpi5kjNHXJiyVclkG/yu1eqrBgwtELqeQr3GL2X6Jn//2Q=="
@@ -73,7 +71,6 @@ Es kommt natürlich auch mal vor, dass man etwas einkauft, das man gerne ein bis
 <RemoteImage
   alt={`Plastikfrei einkaufen`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-06__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-06__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgP/xAArEAACAQMEAQIEBwAAAAAAAAABAgMEBREAEiExBhMiFTJBUSRCUnGBgpH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFAwQG/8QAIREAAgEDBAMBAAAAAAAAAAAAAQIDAAQRBRIhMRNBgfD/2gAMAwEAAhEDEQA/AF3jniFPa4mlnrGAqGRUjlQABhnG5hwM5I508vNrntEEW1JqSSp3+9Yy4G1RhVK8DP6j1pdUzVxuYpqUVMtDSoEdUn2bZGAbk/mwDxp741cKqC51gnuXwylfYlPDOFnSbC+4nP0z9O+/poGfUFDlGPPylLKJIWWVl3AevwNRtOZ7NVCupy01O5AqoGBcSoTz/b7HVB5JZIKeGVJWG3Zvjidcv3lTj/B/B08M9u9Oeue2QGttiLNsgYinlVpcB9vO1wTnBzwOMDrhe6mG7Ur1sSUtUHBwVBSRT9jzzqQv44goZu+jiktVmjvWDxJjHfXyoKyeRu2Gp6tYJ5VT1oZdwV2RAu9WUEchQSDjHPY1V2i4JeGjiqJjGlNIr/hxjezA497rjGAScA9jrOjRpCexhD+bHNc7BdSEbPVav/lBpLbJT2swR10sy7vTmWoWONDnaxCquWPBAycZ5HGofyC/QvAwoaSOinPzSxzMR3n5cAH9zk6NGtC28ZUBhmoPcSbjg4r/2Q=="
@@ -90,7 +87,6 @@ Habt Ihr auch so viele Jutebeutel? Einen von PETA, einen von den Toten Hosen, ei
 <RemoteImage
   alt={`Plastikfrei einkaufen`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-05__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-05__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcD/8QALBAAAgEDAgQFAwUAAAAAAAAAAQIDAAQRBQYSEyExIkFRYXEUIzJCoaKx4f/EABcBAQEBAQAAAAAAAAAAAAAAAAIDBAX/xAAfEQABBAIDAQEAAAAAAAAAAAABAAIDBBESEyExBeH/2gAMAwEAAhEDEQA/AEzaGjrd6xphms5JbSSRkYtEWjbwtgE/OK0iDZOixIXmsAEAJZmlkCr/ACqo25uCaDbV7e28cQ+mnW1tbcISQhXwqcdTjv74NW+j7gmkuobOWK3DSIZ3uJDJaopBACnyYnvj2865tq62J+rjhKvV3ZsO1C62Xos6DkWkkLEfnDK2B8Bif6pJ3DsW6thIbGaK6jAOA/23+PQ/tWlrr3DY3cmpCKZoHVg8DAhkLFMAjsc4PXORmq7Wr5G09ZRBdDnDoSV4QD+ri/ypx/SjBAL/AHzP6qPpZHizjautiyt2jMyxPzFmjd14k4uFkIbGSMhuhwcEU12erx6jMLR5bVHOJuZAOaQEPlkBQTkDr69jRRWizSilfzOHYUK1p7BxjxdtybjEFm1jZm0mJuAJVZlmDRqD4XZQFUsT2UZGM+1J2ubiKRxLpJezSMYIecyhunYAgYoopirE8DduUX2ZA4gHC//Z"
@@ -109,7 +105,6 @@ Die Supermärkte haben am Ausgang alle Recycling-Tonnen stehen. Packt die Flakes
 <RemoteImage
   alt={`Plastikfrei einkaufen`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-01__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-01__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAUD/8QAKhAAAQQBAwQBAgcAAAAAAAAAAQIDBBEFABIhBiIxQRMVURQkYXGBkbH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHhEAAQQDAQEBAAAAAAAAAAAAAQACAxEEEiEUBVH/2gAMAwEAAhEDEQA/AOHT/SuQensMvY9CmAsB0fOlFpuiQRZH9etaj3S81hycGIz8iLFVRkBugU+jX+1YGmKI26cNPOMcckTtnxpSyslZcP2PJHB4rxWpj4HL/SnH2slPgyh+XbQ/klK7zwAbRR5+38ayPznMdWtphhMc3h6lYwGlt9qUJTQJIPnWBl4cZtJ8gjivWmvFRk/Qnsn1G5MElrcXo7C2UKbVdVymlE8UAB596uY+FiQw8n8JKXPUFWcmlJ7BypKAOywPPs886qPoQE6338URgTVsRQShiczKjtSDFyGxb9KB2gFBBtKwEgUR+/6aco/WCk4hr5iuRPIpy+EOLAHeQfF2OAfPjRo1R8TSKpKyd4N2leKGnH54yCWizKSVpUQpZaf3bgsp3DcPRF2LsaoTc08YC2g64HO/lxRUEb00ran0SCRZJ86NGh54iQ4t6j6Za124v//Z"

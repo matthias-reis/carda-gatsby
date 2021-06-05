@@ -1,34 +1,32 @@
 ---
 date: 2017-08-30T16:42:25.000+00:00
 slug: las-palmas-de-gran-canaria
-path: "/2017/08/las-palmas-de-gran-canaria/"
+path: '/2017/08/las-palmas-de-gran-canaria/'
 type: Galerie
 typeName: Galerie
 title: Stadtrundgang in Las Palmas de Gran Canaria
 seoTitle: Stadtrundgang in Las Palmas - Jugendstilhäuser und verwinkelte Gassen
 ogTitle: Stadtrundgang in Las Palmas - Jugendstilhäuser und verwinkelte Gassen
-description: In Las Palmas de Gran Canaria gibt es viel zu entdecken. Ihr solltet
-  auf jeden Fall ein Bisschen Zeit mitbringen. Ich berichte Euch von meinen Eindrücken.
-excerpt: In Las Palmas de Gran Canaria gibt es viel zu entdecken. Ihr solltet auf
-  jeden Fall ein Bisschen Zeit mitbringen. Ich berichte Euch von meinen Eindrücken.
+description: In Las Palmas de Gran Canaria gibt es viel zu entdecken. Ihr solltet auf jeden Fall ein Bisschen Zeit mitbringen. Ich berichte Euch von meinen Eindrücken.
+excerpt: In Las Palmas de Gran Canaria gibt es viel zu entdecken. Ihr solltet auf jeden Fall ein Bisschen Zeit mitbringen. Ich berichte Euch von meinen Eindrücken.
 fileName: 2017-08---stadtrundgang-in-las-palmas-de-gran-canaria.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36104911333_cc8ea5637d_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36104911333_cc8ea5637d_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAUG/8QAKhAAAgEDAwIFBAMAAAAAAAAAAQIDBAURABIhBjEHEyJBYRQjUXEWkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIhETESE0H/2gAMAwEAAhEDEQA/ANXrew27oq4dO3KijmaolqI4WKxhlFPEqiVSOxL/AG8cZyGx30y56iwXrpme5wSMtJGJGCyqIpCyg+gBuck8DXCeN1yp4Kyzp5iqy0M03HK8yKAe3wef1pfx3GCYrGszNI1PvVNq4LcnPOPjRzcW8EKObG5b7bT19sp7hTqqwSxq5V3UshIyUOD3Gkr4rUdZdukrTW7ft0pletdEIRWGwA88ch1AGScsfwdX4bpTFaYmoZfMD8bF5Izjsfb06vU94tj+H9/hrJoZKNDBKsMr+UsjliAB+eVBx7407HKmOKViubqa7XW3vV3eraqEcH08cQVY1jTcfSoUYA4PGPfU38hkgqlZYQWSkHd+MD27f7o0amWyo6Mq03daWpp2ihmLSSBvXUFgCQc8Y/X9d9VbhcmrLOYgjRoN/d92drAj2+To0azFm+H/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36104911333_cc8ea5637d_k__l.jpg
 labels:
-- entdecken
-- Fernweh
-- Gran Canaria
-- Jugendstil
-- Las Palmas
-- Plaza Santa Ana
-- Reisefieber
-- Reisen
-- Spanien
-- travelling
-- vegan travelling
-- serie:Gran Canaria 2017
+  - entdecken
+  - Fernweh
+  - Gran Canaria
+  - Jugendstil
+  - Las Palmas
+  - Plaza Santa Ana
+  - Reisefieber
+  - Reisen
+  - Spanien
+  - travelling
+  - vegan travelling
+  - serie:Gran Canaria 2017
 focusKeyword: Las Palmas
 status: publish
 isWerbung: false
@@ -38,12 +36,11 @@ errors: {}
 subTitle: Jugendstilhäuser und verwinkelte Gassen
 month: '08'
 year: '2017'
-
 ---
+
 <RemoteImage
   alt={`Las Palmas`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36912834425_94a67096c3_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36912834425_94a67096c3_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCAwQFB//EACsQAAEDAwMDAgYDAAAAAAAAAAECAxEABAUGEiETIjEHFBZBUWFxgTNSsf/EABcBAQADAAAAAAAAAAAAAAAAAAEAAgP/xAAbEQEBAAIDAQAAAAAAAAAAAAABAAIREiExUf/aAAwDAQACEQMRAD8Ap9O9Yt4XVWWy13cru3b21d7XwsKdcDidg3bTHaImIgCmr4us1+oyM8rPqGny/tVb7ngtMNbZ6O3aW9wiZ3TzFc0trtdtZpddaaaYWj+d27S2E9wESUiOeAKzTn4yCLMtNDIFO5Nt70SUzPjb9OfxzTubba510jJa8xGYsXk2Ps7ZlCi13qRLi+olSinntMcDwqilTJEZq2VsZaeZQCA8m7Sru3RAVHPJj9UUOSVXFfK+70dmszihauoskI4Mrd3EGSfpz5qbOl8g7qBFyn2qbhBU301JWEktpCSoEiPHg/OnfH5FKUju4/NRWrHnON5BPV96lpTZKZ2FJgSflP8AsfatHE+Riu+2R7bRmZxOLVbMrsoA/sUyZBngfainfIX6VIALxEgx2k/qipxI23//2Q=="

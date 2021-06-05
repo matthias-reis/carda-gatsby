@@ -51,7 +51,6 @@ subTitle: '"Bolsonaro ins Gesicht schreien"'
 <RemoteImage
   alt={`Lightning Sharks`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QALhAAAQQBAwMCAgsAAAAAAAAAAQIDBBEFAAYxEhMhIlFBYQcUIyUycYGhscHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMf27lc2X/rECTkFQWnacabldRCeQKJ/fTSxuLeUVqTNyED7sZNrDrALoSeAKIJ+auNJm3MomBi5DMVIU+4oLcWQPsk0ASkX6vf+tMY3dDw7LkVxl7IokxlB5XdADyzws3x+nwrxoLS/pGiye2qRjJcaWy30sqjOJUQo2FEpIHiieTeoZXLRNwyMYIUNcda5KUuMdvpCh7XZu/N6SozT785l94oeVJQp5RYWFFs0T6uenwk2K8aa35DOGxj2UVcLJymEpjMGrYQrx1pQD+MgG74BGgzkIcNEpqiQOoULHIs/L+dOStpvyQrtP1MMRh94uU0y2FA+nq4PgAe93o0aChtltGKky8vKfQW4Sy20hpwHvLIIr8vj/muNlMjNmS3pM8IU8/ypSBYF+ADzQ0aNB//Z"
@@ -86,7 +85,6 @@ I've pretty much always had an obsession with extreme music. One of the first re
 <RemoteImage
   alt={`Lightning Sharks`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_lighning-sharks__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_lighning-sharks__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAwQF/8QALRAAAQMDAwIEBQUAAAAAAAAAAQIDBAURIQAGExJBFSIxMgcUI1GBJGFikaH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAL/xAAdEQACAgIDAQAAAAAAAAAAAAABAgARAzESIUEi/9oADAMBAAIRAxEAPwC1zZAV8u01xpWt5IupAPfOkrcO3ajNEcI3RLU624EOJbbY8o9be0kHIOs9RjxWKnTXUpjsx0q+ohthIWoghV+v1AwRYffSc1ud3cMvcVNiU6nQ0QmXH40lpscjxQsBOTYAqBGR31ODeo7Ctx7pa34j5kTN312RwOKZ4nGWVpTlSeopCDcWTg/vo0jyKOZLkqR4TWIyp76HFIcp7PQlZdU5bq5O5WRkaNVh8XpkpTL4Ir7x3NMjw6dJhWV+psoqXj2nBz3z/mkSPVYNGeojzrcxhUmMtTqWOI8qetXuuf4gXIvYY1obqiiqFrwylSUWdRygcrhJufNcpAAsbfjXLeo7rtTfdmRqii7xKSGeq4JJvn8f3ocfHGOxqOzlzQ6uWGq/EVEzbTcmiTZJcfqOWHW2+thoNhSEoBN7ApN1EEZxo1EoaJkbhK4ryVJKy6pTViMWGftbRo8n0xIE0j0KJn//2Q=="
@@ -151,7 +149,6 @@ Am bekanntesten war die Stadt während der Zeit der Trip-Hop Connection mit Mass
 <RemoteImage
   alt={`Lightning Sharks`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAECBQcEBgj/xAAoEAABAwMDAwQDAQAAAAAAAAABAgMEBRESAAYhEzFBIjJhcQcUFVH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A513TjDrL0aCtlyEhWUZ7ppJcbPZWVgTf50lO3DVYNjGdYTYH3RWlDn4KbeNPqaV1sQZMRkl8sllbLfPrQRykeBitJt45/wA1kTWaK41TINNcSuQtRckS0JWCMm0ANWWQLhYXcjj1Dk+Acd21iQVF12ESB7v0GAbd+4RqRgydyzazDgU9MVVQlBIjtqispC7pySQSLcjkHUhI2hDolFBrMSQJpDTyXW5TfqCwLJGOQIsQbcKBvfjW6bzpu1KPC2tU2I648hmNJbxcfUvNDYcLah3OQcGIPYZpve2gpigrDT7zwU826kgIQ0bWBUMvn2gj7I1MMUB3+4ZTEcu04ScyiO+jqhnO5ABIsrHj70aNBYf5ncoUh2kUrYLYitWVLeXfohtCbBINwCLEngk2IHPJ1Wm5qtV65DgM1F1+U5TWVRM75AJ6hUBxx57+eDo0aD//2Q=="
@@ -180,7 +177,6 @@ Am bekanntesten war die Stadt während der Zeit der Trip-Hop Connection mit Mass
 <RemoteImage
   alt={`Lightning Sharks`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_lighning-sharks-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_lighning-sharks-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAcB/8QALhAAAgECBAQEBQUAAAAAAAAAAQIDBBEABRIhBhMxQQciYXEVIyRCUVJigZGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AM8rPEqso6hEpGgr4QvneVbXJ6AFbdsO6DxGoEemfPKQUrsbssLc8oLbFltt7Xv6Yq5DXxyTmqosshMVA5MkpiUTysSdlJ2AAtv1IPbC/wAU8toqedMzjSJZK2IckodJMoN2Nh+0jc9xgHi8U5EurMIM0WmlqXCS0tRE0ZaMEm4vst7kX6f1gxleU0gqZXbltIAQGa19HU3JY7dMGAuVWcz/AABY3QoG+XG4CqGHlYtbr9q+m3qcLI6u+Y0tRmuvMYY7ao3nY6l/Tq7fxh7kmTUx4YNbWwyVkjVsUEPIYvy17+XYG5sN9sc4w4aTKopaiSupEnlcfSIdRQknUNu/Q7DucBHwvQJm9XWiimWGblBkhckqDrsH1flQbg9b++DE8U0PDfDyClkikzWvjsZUa4RPf8D/AE+2DAf/2Q=="

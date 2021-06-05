@@ -64,7 +64,6 @@ Ich habe Jasons Debüt-LP "Lined in Silver" bereits gehört – für mich ist si
 <RemoteImage
   alt={`Musik und Veganismus – Breaths im Interview`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBQcIBv/EACsQAAIBAgUDAwMFAAAAAAAAAAECAwAEBQYREiEHIkExUWETFDJCcYGiwf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIRAxIiQWH/2gAMAwEAAhEDEQA/AM/ZfyfieO2SXNjJa7XdowrswbUfAB96m7zpTmSy2fdmxiD6aEytz/Wu76A25kwqKZlJiSaQEgeh4qysyW80mBvvWR5llDAFdO3wf8/iqI44uvRkuLZj2ZWhmkiYqWRip0PHB0pG4/FWXk+OVmdxjOE2lkt3Ibi2mvIbeeTu/S0iNpqOAeRx6VGdQknW3Qy4zhd9A0+sMNrdRTyRL3fm0aLrxoCffxUzFGsp9QsZyvhJw/DYbBoTKZt00TM+46eQw44qck615qk274cJIHj6DaH9+6iijfZosk1HVN0VnMWmmeRgoZ2LED05OtI2H4oooCH/2Q=="
@@ -137,7 +136,6 @@ Ein paar Wochen später habe ich mir dann auf ihre Empfehlung hin "[Earthlings](
 <RemoteImage
   alt={`Musik und Veganismus – Breaths im Interview`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview-5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview-5__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBggE/8QALRAAAgEDAwIDBwUAAAAAAAAAAQIDBAURAAYxEiEHE2EUIkFCUXGBMlKRktH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AsxuMkVkKxTuYujKsWyR2+vI+2lbtuCgrPEPy7qtPJNLMrKZwwMSBQQ4YH931+ONWXxblO19mUyUFaY7lVVSRqizLIyRdDMx/SCM4UA+p0ko7rXU9LURw1LjzeXbvJyDgPyBkA6Da27bvJtuyW+oBSPrkEcpYcABiR+T2/OuVJlvdOZlhDRtEXWVTlcZ4+/8AmqFsyruu69lW2x3KoqJqyiuTRSTTRNM0tMAR1lvmwc988Yye+mdabRBSSVVVRVCT24wrFTPHJ1q4+Y5HunBHIHxxoMzeOIcLb6tixSsjjkwD2EsYMbfzG6f10sBcUhgT2OiQVCjJlkJclvQHsNGjQas2DV7Zbbr2vbm5oqqlq0PtNNL5csp61w+R7rjnHoNQ2W9Tbcq7rYIq/blFZ6Fo5IykcplkaZC3zykDHTg9z6Y0aNB//9k="
@@ -223,7 +221,6 @@ I have already listened to Jason's debut LP "Lined in Silver" - for me it is alr
 <RemoteImage
   alt={`Interview with Breaths`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview-3__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBggH/8QALxAAAQMDAgQEBAcAAAAAAAAAAQIDBQAEEQYSBxMhMQgUUWEVIjJxQUJSgYKRwf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAHxEAAgIBBAMAAAAAAAAAAAAAAREAAhIDEyFxQVFh/9oADAMBAAIRAxEAPwDOcHpyTm7db0e00tCV8s7nAk7sA9j96mLrhzqe0x5qxbayMje8kZH91evD1bF1l9wpKmm7olRAzj5U11TWNs+uAWpxDi3W1lXVOMJx0P8An7U6unUgOEAcTaZT09AzGo7pdvBRl1fvNo5jibdor5af1KPZI9zSZeMkIe5FvKWb1q8RuSl1BTuHqPUe4rQ3ACYuYzhZJpgkWQuFuOi6ce6nmFIDYUB1I29v5Y60nxExT0bw9hPjKrRN0p5HlG2equqCXSD3Kfpye2dv413YAplY+GPXXcl3za+NOUUfk4rpnWU3pmzetYi4ZaZec5qwthDhKsYzlQOKmXuK+r3myh2QYUkpKSPKNdQRg/loopDMrzsBi+JUYaWkoV9T0Vev2jihtUWlkbh6EdiPvTJ+bltQ3ibuckbq/uEpDaV3DhWUJHZKc9h7CiisylAQbn//2Q=="
@@ -294,7 +291,6 @@ That documentary just flipped a switch inside for me. I cried, got super angry, 
 <RemoteImage
   alt={`Interview with Breaths`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview-4__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAKRAAAQMDAwMEAgMAAAAAAAAAAQIDBAUGEQASIQcTQSIxUXEVgRcyYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCZ9B7Mj3n1Cgwag0XqY02uTJSDwpKRgJJHgqKdbDpja9OkX281Vm4zsaFGkyUMyVlLbrjaTtSr/M8n61Zej1Oqv8hzrgzEgQpoejfjo8ZDKXAyhraRxlIyvnBGSOeNRSXclOoV7tSHacqe3HkLMiOXO3vSdyVI3DzhX1oF/qFS4cS5J5pyGW4vcwGmkqSEn5woAgEcjSm4yQfT9ae6zDj3FdBatQvy40tpLqg+lW6MfLeT4SAPn399ZvTa1F1LqNTqXNQMR5HdkJHI2Njef0eB+9Bcarf9JtiuWsHZcUdtuclaEnflRSkIPpz/AGWAPGc65putlQuJ51ba8vOnegIOUqPuMe/B4xo0aB9sSl16LERBpzDCHajIaaLym1qW0kqGSSBgJAyTn402xXo1Q6zVeXbyJDJbjEtyGCkd1KFoSpQKhg5SQNuOdGjQf//Z"

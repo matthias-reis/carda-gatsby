@@ -48,7 +48,6 @@ Der Hamburger Gabenzaun hat übrigens auch eine eigene [Facebook-Seite](http://A
 <RemoteImage
   alt={`Hamburger Gabenzaun`}
   size="large"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Gabenzaun-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Gabenzaun-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMGBQH/xAAnEAABAwMEAQQDAQAAAAAAAAABAgMEAAURBhIhMSIHE0FhFDJxUf/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAAP/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIRQSEx/9oADAMBAAIRAxEAPwDB1HcUexMj26C6pcUh4vJKQTjsAYI5we+ejjkVe+o98s1wsMJy0PQZsj3HF7GFJW4yCjy3J7OD4ng4NSGkLcJsHUER52FGhPstqQ8rBdSoJACsq+PHBI5wr4pXp85bX9WxrfJnue6lp5uN+GCve55HgkH7OfnA6zRT5S02nXdJ3NGsrdYpTcN1UqMtcbMj2sEAnarP6kr8QMH6qf1TZbpp6NGdmOKjyJO5tTAcKVtKT2CRwewc/Yruuruh/UU5E51h+REV+Ml6K/htWw53oIPZOSf8OanLrfxMiRmZrzrzUdJS0k5Kh/Vnk/05PFRyXaEoszpjzoKVBxe4nbncc4PBFZ90UpDAUhRSpJOCDgiiiuawQlCQmMkpAB+qQrlfPNFFJelw/9k="

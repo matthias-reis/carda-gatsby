@@ -39,7 +39,6 @@ Alle erwarteten gespannt die neuen Songs von PEPES PENTHOUSE. Die Jungs ließen 
 <RemoteImage
   alt={`Pepes Penthouse`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_10_MG_9256__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_10_MG_9256__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgACBAUI/8QAKhAAAQQBAwIGAQUAAAAAAAAAAQIDBBEABQYhEjEHEyJBUWEUUnGBkfD/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUBAv/EACMRAAIBAwIHAQAAAAAAAAAAAAECAAMRIQSxFCIxQVGRocH/2gAMAwEAAhEDEQA/APK15mhtZSVgGgav7+MmkKcV0oFn/DF/iFpCtDj6DEWlxqSmJ1vNLYDZbcJs0oWFg8G7P8ZwzgMF8wq07oXv0hNmU6yjoSQU3dEXRyzpadoc3VY/5DEKYW7KfMaYK0KI70eBYsWPsZZpqDuYDignKTaKtmaSqT4dbkkRX40Z5x9mPJkSFEJajj1kAJBUSpYbHA9v3xlunVdkx4el6lKEjcSulwJj2UhXWkN2u+GUp8v0IFrJ5JTxYnb+4ITO2pUCW6tRddKSyFKT1oUQonjgk9uSOnuLw7qsomPIitBtqK26lSG2k9IKv1K91GiRZJ7n5xPT0ar1HZiQL+8fdt5Q1T01poi5x+ze3RuyfrEpCooVpentWI8KKShDSePirNAc/Qyw756j3Cf6yx20nZGBP//Z"
@@ -68,7 +67,6 @@ Mal wieder ein gelungener Abend mit PEPES PENTHOUSE! Wir wollen MEHR und freuen 
 <RemoteImage
   alt={`Pepes Penthouse`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_10_MG_9178__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_10_MG_9178__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQFAwYI/8QAKBAAAgIBAgQFBQAAAAAAAAAAAQIDEQQABRIhMUEGExRRYSIjQlKB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAhEQEBAAEDAwUAAAAAAAAAAAABAgADERIhIjFBUWFxwf/aAAwDAQACEQMRAD8A5V03t+35e4ySJhQtM6IZGC9lHXWKbHliFyRsoNdvfnq/4Uz8Db8fOyM2af1ESBsXFiT6ZZhZR3b9UamrvQHS9PSJuwfGDVNSZeB1+c1xlKsVYFWBog9Rpxo8KVPsTGEpjh2GRZ45AeapwjvdjirpV9Ld3aDEy90mm2/ILwSxCe5AQfMKBnj6cyGLC+9alGHhpWNSn8T2Hz86ne3JkcpsyFV65cXdfU5GXJl4sWSZrkJnZ3YWvM8RNk8upP8ANQiR5j8IIWzQJvRo1LTkldspbv3Pu/mUfDuSYMo0XDKGkUqwFFUb3B99TpX82QuQeJiWJJuydGjSJOa4aVgPvP/Z"

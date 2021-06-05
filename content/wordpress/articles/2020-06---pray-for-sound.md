@@ -192,7 +192,6 @@ Pray for Sound gründeten sich 2011 in Boston. Ihr viertes Album "Waves" haben s
 <RemoteImage
   alt={`Pray for Sound`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_pray-for-sound-waves__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_pray-for-sound-waves__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAApEAACAQMEAQQBBQEAAAAAAAABAgMEBREAEiExQQYHEyJRFBZSYqGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABwRAAICAwEBAAAAAAAAAAAAAAABAhEDEkETMv/aAAwDAQACEQMRAD8ArrXQIZBEADIMArg8ZGf4/jnTKzz0tdK0cCuuFDqzphXTO3cpCnyOjg9cc6xeP3OgjuRq47U6D5vkVWqFCt9du5iFzu8bRx50yb3JqYLXMtNRClq5VcyTrMHCSscq0aFeh/bPf4A0NJWVhj3i3E120ypcoDIlK8Az9RIUJZSTg/UHGcdHkZGRpPb73Zr3U1lNa6tJqikJWaMxMjLg7Tw0YyM8ax72+9e3GlguazyQSM8J2IoCF5mDYbOfB8DAx411+lLvSWGogvdwgnq7vPT/AKe6VIdFhiVmQoFVfszKqrnjo9+dHzkiScZXXCI9ATRCpvEkzLuhslYU3AEbiqr0e+z/AN089u54v3HTpPKYkakq4w4xkE00g7PXfejRppdNOD4ICyJI9PJMrKscHxRuQ3lshSMc9g9aaXWrkl+SZZSzmZyu6UPt2+Rn/dGjTp2ZWqR//9k="

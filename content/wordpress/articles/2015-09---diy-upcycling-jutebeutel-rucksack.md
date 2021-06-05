@@ -156,7 +156,6 @@ Voilá: Fertig ist der Jutebeutel-Rucksack. Überziehen und losrocken!
 <RemoteImage
   alt={`Fertig ist der Turnbeutel!`}
   size="large"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-21__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-21__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBQIDBv/EACgQAAIBBAEEAAYDAAAAAAAAAAECAwAEBREhBhITMQcUIkFRcTJCYf/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgUG/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAEQMSISL/2gAMAwEAAhEDEQA/AO66VxSMkZYfiq7LZ2TFWuGsMNZx3GQMTXTF0BVAASQzbHZ9JY7/AMq36ZyUSwRszqqrrZY6A/dJpuqbSPqW8vspbte4uGWUx+P+bIGKr27OvR5APonjms9jUtcvsjVVx14i8myePuhexFXiv4lV/ljErFZUVipJPeN/243U7M23h26capUdKfEy2XP26xRuMTNLGQkjdxjR+CSNnWmAbnn2aaOfyURt2ZXDKQdEfeh1K8MEOxsRUYbJTKgUHg/attzg8beyeY2kUc55LINb/YHuiih/JsSa+h2SMbgrGzk85iEjqdgHhQfzqss5lJ3Uj0B6ANFFJDs3YyKHJ//Z"

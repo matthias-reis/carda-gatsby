@@ -76,7 +76,6 @@ Macht Euch eine Tabelle mit neun Spalten und fünf Zeilen. Jeweils die erste, zw
 <RemoteImage
   alt={`Limerick`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40224475451_68f0dffe8d_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40224475451_68f0dffe8d_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBBQYH/8QAJxAAAgIBAwIGAwEAAAAAAAAAAQIDBBEABSESMQYTIkFRYUJygbH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQA/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECEQMhMRL/2gAMAwEAAhEDEQA/AGNprXdtviRywrMSAWGOfsaf3WWKWPOOMkN0NkE/OoTxTswou7+Kdjn8qFpRCLEbzMFBPSASvqx+Pf203DsMm7UYb1aztgitRLKMWkQgMARleo4PPb21dLPF8ZJDG11GSafblhdXikZ2HT8knSlXYHuqHhcFB6nAXBUf3Wgm8PJTeVrF2hXmHPW16HC/eC2kL1qtXq+fLvO2tCAYjMbkSgtnsSGOTkHSfdj0kjmmz269faGkRjK7hgS7BsAMccHjsNRY3CocdUFU8DkxLnRo0F6NWytku0T1KatZh+g50lMdsmXmpCDnuFx/mjRoQkf/2Q=="

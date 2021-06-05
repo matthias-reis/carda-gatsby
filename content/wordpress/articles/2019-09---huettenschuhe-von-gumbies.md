@@ -52,7 +52,6 @@ Genau wie alle Schuhe von Gumbies, sind auch die Hüttenschuhe vegan und werden 
 <RemoteImage
   alt={`gumbies-anne-reis-cardamonchai.rock-n-roll-vegan`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-gumbies-5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-gumbies-5__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBQcE/8QAKRAAAQMDBAEDBAMAAAAAAAAAAQIDBAAFEQYSITETBxQiI0FhcRYkUf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAAxESISIxUf/aAAwDAQACEQMRAD8AYdI6dQpllCWdi+M7k81dXqXp7TM1uNcVOh1wJ3qSgFLIUeCs5GAf9qx1PfpOldAzbs3HaemNpQ3GStO9C3FqCRnbzgDJ+3VYSjXsm+6m97f7Iq7iS4jx262ktlakpCUpA+RVkjBHPBNJmfHWKtEJ7zY7/Zm5NuEiM35ELQFo4wSCOKK5/T3+RXO3XyRqFMW2xhIHsLWh1Lj0NHyKkrIOQOgArng8Cirt9gK4PEzTXmrF3r0ytz09wR50e6BqOuOtSQ/9ElwqT0MAp6PZ65pLtdzDyt8NLse/pP8AXfjEJ8y+gFDjCueFA/vNSYVuudoQjyyPoq8jbIkbU7jgE8g4OPx9hS/Lg2+37xDuMuO6y4PjKaKktnsYWgZ/RxQawVnBjqXcZEYvS3UCrLreAkPqbjzSYr4JwCFA7c/kL20UnTorK3WZMW9xXZTjm93JKdiic5Seyc5PQOaKIsB8MrVkHmf/2Q=="
@@ -73,7 +72,6 @@ Insgesamt fällt mein Feedback nach zwei Wochen Test sehr positiv aus. Ich hatte
 <RemoteImage
   alt={`gumbies-anne-reis-cardamonchai.rock-n-roll-vegan`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-gumbies-9__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-gumbies-9__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEEBQYCAwf/xAApEAACAQMDAwQBBQAAAAAAAAABAgMEBREAEiExQVEGEyJhFEJicYHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgUGAwT/xAAkEQABBAEDAwUAAAAAAAAAAAABAAIDEQQSMWEFIZFBcaGx8f/aAAwDAQACEQMRAD8A5f6cthQGQWxZ1ZdpeAiVcedp3YPH1qy01Jb4hKWWopmdFUfAoYyFxkbW6nqeNR9ma1NTJLFV0rTh9hikzSTZ8j9JGpi5XerokSCmmrIZ3GVE06yLt8jzpZPiSh9OaQTz+qtx8vEMRka4EDz43+ElSKAphqmcn9kkq/7qk3u1pM0jIbhOpJIBXCqM9MknV3tt3mqKNfzrnVGZiQFpovcbGe+0cf2RqJ9QR0tVTpIsVyM24h1rWXG3sRyefojjWkHTZmW4Chyfq6XNkdVwAA3V3PpvXvQ34WNgu8LRKJgrdvlzrTWWeoud5lneaGOnC7ad1YZjXHRV7ckn+To0ad1qFFRgeYjbU1sU9dYL9LQn3JqSpOSTllXA4ZT0Hg/WNO/UN3jKsAVH11zo0aFo0ggI5HGRwc7el//Z"
@@ -92,7 +90,6 @@ Wie immer bei Gumbies, habe ich auch die Puschen eine Nummer größer bestellt, 
 <RemoteImage
   alt={`gumbies-anne-reis-cardamonchai-rock-n-roll-vegan`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-gumbies-6__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-gumbies-6__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYIB//EACkQAAICAQQBAwMFAQAAAAAAAAECAwQFAAYREiExUYFBcZEHFCIyQmH/xAAYAQACAwAAAAAAAAAAAAAAAAACBgEDBf/EAB8RAQADAAEEAwAAAAAAAAAAAAEAAgMREhMhMUFRYf/aAAwDAQACEQMRAD8A4l+n+4IMDmo7VmlFaquOliBlUh19x2HAYHyD8fXWkNsZHZG5lSOhHizZYcirZgSGT4BHDfBOsyZWiBuOxHQxv7SAkFIFdmVV6g89mJPn14J8c8anMRtu/boTXpVSOnAGY8ty79evZVA54IDc8txz545PjRlwOZN8F9zTN7ZODZWMmCqr7lUI8/BGqDurZODiRposaUUerI7Dqfz6aqWN3NfxyAUL1iDgj+sh4/H109x+/M7lc1BjyVyKTOFmQxA9I/8ATFgB14HPk+2g3o65tB4fsleZ2r9Xs/ZHRI2SikgsrLJDKP5Iyk8f9B9QfsdOV2JVmqlIbuQohmDdZLCmJj79SOxP50aNY+298+On5Y07FO03aihLXS2js6rQrpcptetRoFlmlsSASMPU9QwA+2k3srj8XSkqYmrXoweSUrxhQ33P1+SdGjTCVK+Ilt27yz//2Q=="

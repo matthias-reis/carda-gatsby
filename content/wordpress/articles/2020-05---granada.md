@@ -1,30 +1,28 @@
 ---
 date: 2020-05-26T12:32:46.000+00:00
 slug: granada
-path: "/2020/05/granada/"
+path: '/2020/05/granada/'
 type: Artikel
 typeName: Artikel
 title: Granada
 seoTitle: Granada - Besuch der Alhambra und Altstadt
 ogTitle: Granada - Besuch der Alhambra und Altstadt
-description: Während unserer Tour durch den Süden Spaniens letzten Sommer, haben wir
-  auch die wunderschöne Stadt Granada am Rande der Sierra Leone besucht.
-excerpt: Während unserer Tour durch den Süden Spaniens letzten Sommer, haben wir auch
-  die wunderschöne Stadt Granada am Rande der Sierra Leone besucht.
+description: Während unserer Tour durch den Süden Spaniens letzten Sommer, haben wir auch die wunderschöne Stadt Granada am Rande der Sierra Leone besucht.
+excerpt: Während unserer Tour durch den Süden Spaniens letzten Sommer, haben wir auch die wunderschöne Stadt Granada am Rande der Sierra Leone besucht.
 fileName: 2020-05---granada.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_2019-06-28-granada-5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_2019-06-28-granada-5__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAgD/8QAKxAAAQMDAwMCBgMAAAAAAAAAAQIDBAAFEQYSIQcTMSIyFBVBUWFxIyRC/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQQFAv/EACERAAEDAwQDAAAAAAAAAAAAAAEAAxIEIVEFEUFhAjGR/9oADAMBAAIRAxEAPwDQxSpKAcHBHB+9VpjzMWM5IlvtR2GxuW66sISkfkms/wDTjVVwtepoTUy6XN21Du92OpZ2na2Tt9SiByR9RVvUXUG6X+Dc4bpjIt8wFttpsnAGFencRz7eTx5/VYGptwltfCJ09yUd7ZTNrTqVaW4L0PT05924LUlCZLLI7aMrCT6ljnzjIBx5pJXrDVdwiswhNXHR2pCA40kB9S2yQlK3CM5PHIA+9LL04sRFLZYjthKFqIwpROFNKGCB+T9atvzlInALdcDfzJz+RDJG1taQStJP+R4zU9+tqXL+AI95x12nW6Vluxv8ULf0x1I1IbkPXi0MAJUVJK1vjkDOAEgY/ZphhdMLvGkCQi+2NxQV8R/atYUlojwEJJ27eTxjHJ85ooqlEDhJSJ5UpfTa7rt0iHL1qyuLLbWgs/KxhRWB7AFgjB8AcV1HTOVa5MyXddUNNPycKUw3bQpz2bc7VrO3PnnHOeDRRRQX/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_granada-fb.png__l.jpg
 labels:
-- Alhambra
-- Andalusien
-- Fernweh
-- Granada
-- Sierra Nevada
-- Slow Travel
-- Spanien
-- serie:Spanien 2019
+  - Alhambra
+  - Andalusien
+  - Fernweh
+  - Granada
+  - Sierra Nevada
+  - Slow Travel
+  - Spanien
+  - serie:Spanien 2019
 focusKeyword: Granada
 status: publish
 isWerbung: false
@@ -32,10 +30,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Alhambra und Altstadt
-year: "2020"
+year: '2020'
 month: '05'
-
 ---
+
 **Während unserer Tour durch den Süden Spaniens letzten Sommer haben wir auch die wunderschöne Stadt Granada am Rande der Sierra Leone besucht.**
 
 Bei unserem Gang rund um die Alhambra war es mit Temperaturen um die 45 Grad kuschelig warm. Zum Glück gibt es im Garten überall Wasserläufe und kleine Brunnen, an denen wir unsere Trinkflaschen auffüllen konnten. Im Anschluss kam uns die durchaus aufgeheizte Altstadt schon fast angenehm kühl vor. Sonnenverwöhnt wie wir waren, gönnten wir uns dort im Anschluss an unsere Erkundungen leckere Tapas.
@@ -45,7 +43,6 @@ Bei unserem Gang rund um die Alhambra war es mit Temperaturen um die 45 Grad kus
 <RemoteImage
   alt={`granada-alhambra`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_2019-06-28-granada-19__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_2019-06-28-granada-19__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBgcIBf/EACkQAAIBBAEDAgYDAAAAAAAAAAECAwAEBRESBiExE0EHIkJRgZFiodH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAbEQACAwEBAQAAAAAAAAAAAAABEQACAyESQf/aAAwDAQACEQMRAD8AznFBxAHu3vrxUjt+kcvPiWyEOPuGsx3MwiPEfmksVYNf3traxBeU7CNS3bRJC/rvWz2jtcXFDbmW3gtrdFhVGcKvEALrR9v9rPhUas2M1b3OS8huYSuYCAysPmU/uipv8R8RFjOqMvDb+mYFlMkRjO14MeS6/DCiiFlyL5fZz8KUtshYuXHH1ByZ/pAZdntVxW2Rw9xI2SigxogO1RnkcOyqdM4GjseO2t7+9UJjBdNLGxKRqDs8j3128edeKsBJ8DcR6uRlIjskCCSJgATsjXAVNKmr+ydibEKIfEzUvUuULOp4RRDaknlpYx5IB/qimHUD4iW6mMF/cLF6SRIs9vtvlVQNlW/j9qKMA9cbiHZ//9k="

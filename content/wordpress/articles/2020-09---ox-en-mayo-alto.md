@@ -48,7 +48,6 @@ Die Band ist bisher noch nicht bei einem Plattenlabel untergekommen, sollte aber
 <RemoteImage
   alt={`Ox en Mayo alto`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_ox-en-mayo-alto-5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_ox-en-mayo-alto-5__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAEAwb/xAAsEAABBAEDAgUCBwAAAAAAAAABAgMEEQUAEiETMQYHFEFRFSIkMnGBkaHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMCBAX/xAAfEQEAAgICAgMAAAAAAAAAAAABAAIDERITITEUgcH/2gAMAwEAAhEDEQA/AAcXuc+ktfiHpPQDqhtShBUWVXuPcCu1+59rOrzRzDWRfhhKIUZ5iQVuuMOOKPUKiKcXZtJTddqrnvoVWcyjczFuYpl3JKcYLa4wPCE7UkDcBe2ySR/nGsHmHK6eJgsFUlnIJ6SpbarAUopNGvkbAOw/vWH0V7Ktnb5gMbavg0MzjJRHJkwRZaPUPvptCTaEgGk7lEWSVV7D9TWrSGdhvSpmJcmtDGvpcS46+/tAA5CQNo7k/cRzXH7WmZNGgYPiWt6GLeG3IuLYck4vEy3llRj71PBCkVVgJqiOe5PtoPzAkTBkIyp8RO15ATfqSslAJvsRzZ/mtOYTKK+k412U5vXI6ixYCVqTvIKqH5jaeT399F+In2HfEEJa5AdbRHW0pCHkpSVdS63HjkfPFDnTq1Oe2TyL1pX3OniiQ/IxUbY/FkYwxwsMsja4klSrWGyeKJKbHxq15d2IOtFR615TaG1kKcG1DZJUAlJuju4o3RvVpnAWVcXLjtD7B/J//9k="
@@ -73,7 +72,6 @@ Los geht es mit "Las Armas del Planeta Venus" (Spanisch: "Die Waffen des Planete
 <RemoteImage
   alt={`Ox en Mayo alto`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_ox-en-mayo-alto-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_ox-en-mayo-alto-3__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcBBQgG/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBAURAAYhBxIxEyJxI0FRYRWB8P/EABYBAQEBAAAAAAAAAAAAAAAAAAUEAf/EAB4RAAICAQUBAAAAAAAAAAAAAAECAAMRBBITITFB/9oADAMBAAIRAxEAPwDpaXpXtq5WSiEctTRzmJWZ6WoAJP7Vsj+saoV6QQirvCLVNXLRyx9kc0XpySRlAzYZCB3eccfbnTetaQy2ekWal7lEKD3xBs8D51XVhFJXyzUySD6RIjViqvgeCP8AedCc9nYzLFG0DEyLQ090F1rUohNDLB9OR4W5UHuz454I5x4xo1Z3bfJ2j1Gu9w2xTxzxzL6LR3FWf024MgUKVx7gR9+PnRpJqrzgovRAmrei5DdzVW3r9T1VqpXiikx6a+WU44/R1EzLLKXRj7iTg8cY8az30z30lJRxQTRMAqDt7VOMnjTZte4aaZ+0OoYA5PgfA1FZpmrYyZdQCAD7EX162p/H3h7xSjMNSQZFH5/OjTS349Jc7NUwP2MzISmdGmdNcGrG70Q5reFivo+T/9k="
@@ -118,7 +116,6 @@ The band hasn't signed with a record label, yet. But I think if they're continui
 <RemoteImage
   alt={`Ox en Mayo alto`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_ox-en-mayo-alto__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_ox-en-mayo-alto__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgf/xAAoEAACAQIGAgIBBQAAAAAAAAABAgMEEQAFBhIhMRNRFEEiJDJhgaH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwUA/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQIAAxESEyEx/9oADAMBAAIRAxEAPwBRljPu/WywrRhGFMZnJIDdWIuxvybH+OusOM6pKvTk8Zqpongnh3tJFwITcguALk8c9AXxrLan5lGIsvDSoGcGOfbeZF2/lyvQN7/0BxjiNFqTUGXa0eR8xeR0kNIVrLzxmIHaqMjH9vC+sTKquegyRVR2aAfZd6lDT00kZqg0QCsArkMbWYEi20G7d++r4MSeZahfM9WxVCQ1T105QeDyMyQy2s0Kq3QB44sB6wYPAoMi3pNZyXIq/l5w0bPJRU8kJkGxN0njZl2kD7BJ6Fj7PGOV62VqfV02xpLMqPGXIJ4AA/1esNTreaaq3VlGQXKpt2DiNSCBdrdfXQwmz7MqLPK+jqIYpYZYwUcFC3kANx10eT77w2tSp9EbQHR9YeRlkgOYVVbnfnnN61XETMG2uxDM7buDe/v65+sGMUtfl8ETrSGVkWJWkSZhbyAAn1xex5ub4MZgWPyGwNYxJBn/2Q=="
@@ -143,7 +140,6 @@ It all starts with "Las Armas del Planeta Venus" (Spanish: "The weapons of plane
 <RemoteImage
   alt={`Ox en Mayo alto`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_ox-en-mayo-alto-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_ox-en-mayo-alto-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGCAf/xAAlEAABBAEEAQQDAAAAAAAAAAABAgMEEQAFBiExEhRBYXEVUYH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAGxEAAwADAQEAAAAAAAAAAAAAAAECAxEiEiH/2gAMAwEAAhEDEQA/AM46bGL7nxeVrOnx4zTapCgkqNBNWT/Mn9vr8XUnjvHj8lcmcS+62g8tBxtPB8fj37GWYLmJ3r6Z4dscr223L0sy41KRdGux9jIHWIRiPEVWaN0WFocLYydQZSr1EywpDjhPj48dddgkH9KGcN3u425LWUChfth5+5baFzzWtk3DfLLgNkc3jGRqJUGQigW1LULHuSDf3xhhkc00OQ8ibqe/HiM4ukoJKEjoXzkxq0sypBVd4YYzJlqpUsBSk2z/2Q=="

@@ -52,7 +52,6 @@ Christof selbst lebt schon lange nach dem Motto "Weniger ist mehr". Sein Blog is
 <RemoteImage
   alt={`Das Minimalismus-Projekt`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-15-das-minimalismus-projekt-02__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-15-das-minimalismus-projekt-02__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QALBAAAgEEAAUDAQkAAAAAAAAAAQIDAAQFEQYSExQhIjFBgRUyUWFxkaHB4f/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAIBEAAwABAgcAAAAAAAAAAAAAAAECQQMREiEiIzFh8P/aAAwDAQACEQMRAD8AW8JiS+PxqRKnPLielth7c7SDf81T4Ixfbi8KuSe+t1GmOgpkZdDz80zWXdpaWMeL6XeRWNqUEuuUn7xB+hrrXtnFbxI9paQwq09pPI0YC7bqKWJPz7n60PS1Otw8juDtzSwXbjHWqqebbMAdhfOtUlcbYqJuHcs8IJK2cr65Tsekn+q12d4jGFkjDa2PUAfn/KV+K2X7IvxGmuW1lKgfkhOh8VRhbg69iFY5yO3zxjWVSiQwIpBBB1Ep8fvUOE4nvBi2ivYpruOaeJFkbQ6YJHkj30CAP1NFFSo5W2UfMJfYNPlzAC/jrfuKV85mQyOjeFYFTvwPI1RRVCW0Bo//2Q=="
@@ -79,7 +78,6 @@ Der zweite Tipp, den ich mir persönlich sehr zu Herzen genommen habe ist "Singl
 <RemoteImage
   alt={`Das Minimalismus-Projekt`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-15-das-minimalismus-projekt-03__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-15-das-minimalismus-projekt-03__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAEBf/EAC0QAAIBBAECAwYHAAAAAAAAAAECAwAEBRESIVEGE0EVMUJxgcEHIlJikbHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgQF/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQMAAhEhIjHB/9oADAMBAAIRAxEAPwA1wsMtzdxXNpGkLQqUG08zYLs36gPiIrvxYK+mvZLo3etyGbiLVBokBT8Z7Vn/AA2cXEEiyDkI5XXR/axP3pVsbSD2fGF4+eJnUke9kMakb+Tb/mshlsMrD3KvtLZh2G9ngbrEXcV6jPNLBEsaeaiBVAO/Qe/rWWOG4znimF8hHEotLKQLw6AKoOvQdSXpSzVqr2UwHQ8Cd/TY+1Zc9Fg/auLGJFhC0mMmFwLcgnkFifb9jvkPoaSmHyTVX2A3jfsHfB6z4idgrzT+c5cMiEjfbpv/AGlzBG/lRWFncep/MnEdfnqqqg0aZQBpnUv7XISwlSsEYK6POdR/W6O8taXeMyIu2vLTiqOjLFISxDKR212qqpqoAYb1Hs//2Q=="

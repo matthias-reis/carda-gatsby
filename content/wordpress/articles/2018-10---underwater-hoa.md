@@ -94,7 +94,6 @@ Mehr über das Projekt "Underwater HOA" erfahrt Ihr unter [www.underwaterhoa.com
 <RemoteImage
   alt={`Underwater HOA`}
   size="full"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_ShowImage.jpeg__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_ShowImage.jpeg__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAGQAAAQUAAAAAAAAAAAAAAAAABgECAwQF/8QAJhAAAgIBAwMDBQAAAAAAAAAAAQIDBBEABSESMUETFHFhgZHR8f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAfEQABAwQDAQAAAAAAAAAAAAABAAIDERIhYQQiUfD/2gAMAwEAAhEDEQA/AA3cdlvRyO0Flvb89DsDn69v7pae47rXqQwNQrWukHMjxoS/nkkZ1rPuc0TzrGkIjUkFSgbq+SefwdPs2vR9IwQwoZF6icFsfAYkarvmxkLDMnH7EAin3qEt03qaWJ61ijFWeQqetVCtwfBx57aqJFZZleIylcjnv+tGkkkdum8turXmaI8B1OD9s41DVWvYspFYpVHVsYIiCFfgrjRtlkAOkp1jnNoTnQX/2Q=="

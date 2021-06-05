@@ -49,7 +49,6 @@ Seine aktuellsten Werke sind die EPs "...And Then We Became Ashes" und "Quiet Re
 <RemoteImage
   alt={`Carlos Ferreira Interview`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-10__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-10__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAGBP/EACoQAAEDAwMDAwQDAAAAAAAAAAECAxEABAUGEiEiMWFBUZETFDJxgaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQMA/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECESEDMf/aAAwDAQACEQMRAD8AGGiTECT2AHrSfhNKs2jQVdsNvvxKy5+KT7AeKOtLOWh1Jj28mndZrc2q6ynaqJSZHpuA+afWWGXmQq2CClXUFJ5/us8Ho2sMxkNN2L9g47aISxejlCUcIX4I7D91nzauWlyth4AOIMGDI7TSIbfaYUIisxqpgM5Jl0dnm+T5SY/wilErBB0qCCpE7k9SY9xyKetM4M2OItshi8lavm7YQ6pjYrq3AHjqMGPFVVEi8/DsytxeNoZuVufaW5MEqa+oj+SOR8Gs7qnKJetbVC1sl1MKISRuCohaYBMCfU944qqrRJ0f/9k="
@@ -80,7 +79,6 @@ Ich habe versucht, "Musikpostkarten" zu machen. Etwas, das eine Nachricht enthä
 <RemoteImage
   alt={`Carlos Ferreira Interview`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAAmEAACAQMDBAIDAQAAAAAAAAABAgMABBEFITEGEhNRInEygbHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgEA/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAwDAQACEQMRAD8A5vUoPOE42zS9vphZwjDtJP5Z4quygWkkvjklcOqJHGpZmJ9Af2plrqiT3bWdxDc2s5GwlXG/rI+qcJ/Vrvt+PcGOcHaktNDeWYsMZAxt90veQOshLHNbaXI0kszMc/FQB65rVpnV08tvLZvDO8JAc5QkHkeqVj6w1JIja6gq39qwGzNv+mxzRRQXGQcsx1FamSaRI5IS/aRHISwPGcn/AHFXdCvbS88zWuQ6470PA5xg0UVRol//2Q=="
@@ -109,7 +107,6 @@ Ich bin aber definitiv kein Purist. Alle kreativen Möglichkeiten sind valide un
 <RemoteImage
   alt={`Carlos Ferreira Interview`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-3__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAYHBf/EACoQAAEDAwMCBAcAAAAAAAAAAAECAwQAERIFITEGUQcTQYEVIzJTkaHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AMciaZNlIC4sV51BJAWlGxI539x+atOn+HPU0ljz3YLcWP8AclPJb/XNQOk9dmaZjEW84IKllXydlIKrXPcjYXHParJqnUeoy4yYxms4BWSlsoUcu2696bUtKjeGrCHEfE9bjJTeyhHQTb3P8rO3YoSpQCgoAkBQ4VvzVtk6mcFYuvOPKbLeanTiLixOPqedzXGLKbbUlJUZpeKQUWFOF5XqaKKiUptzI3NSh9NFFEf/2Q=="
@@ -142,7 +139,6 @@ Tatsächlich glaube ich, dass große Verluste Dinge sind, die wir nie verwunden 
 <RemoteImage
   alt={`Carlos Ferreira Interview`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAL/xAAqEAABAwMEAQMDBQAAAAAAAAABAgMEBQYRAAcSEzEhQWEIFCJRYnGBkf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBL+nq13rlZuFIlyosRkxu9SHylpaSoqKFpBycpSoZORxUoecZ0Q9qZi6pVKA7Lp8OTAddfckPlzC2QtAb9EjIyHUkfzrF9MdwGmX85SVvuss1dgpSW1KB7m/zR4znKeacEEHI01d0u39wNzI65v3P2VJkSmy55ALkRxHzxAVgH3GP00HA2DrsZxwCtUUZXyI4vYzn11MNy9vZliuQ3JtQp8sT1uhKYYXhso4kg8h+4at9c3GuJuK/OaYprzLbHaHWXgtDyio5AAJwcDx8jUt3brUi4bKtGqTervkTKipQaBCRhaAAAfgDQKFjwJDlSbq0OeiHJpchl5orQVArzkePbKcf3qjXrelGhXdXrhKW6q1Xoy6XJovauM/GR1xsqU5xUCCWiBj2Oc+QDRoEpq6rJayWLEktkj1xcbo/38NY7uu2n1+jUel0eiLpMOmLfcSlcwySsulJPqUg+U6NGg//Z"
@@ -175,7 +171,6 @@ Zunächst einmal glaube ich, dass Tierrechtsaktivismus eine Schlüsselrolle in d
 <RemoteImage
   alt={`Carlos Ferreira Interview`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-4__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAgP/xAAmEAACAQIFBAIDAAAAAAAAAAABAgMABAUGBxEhEhMxQSJRcYHC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAERAiH/2gAMAwEAAhEDEQA/AEPS7ImGZswa/vb+e9R7e5WBVtivyBUHwQeae7bR3K7xsWfF+pfIkmCfxUz08zFh2XrCdru5lSZpiwjjVj8dl54/Bp9XWawii7YTErlfADwrx+2PFTb1uSKwt6sZEwfLOCWd1hMdwHe57UjTTF91KEjb0ORUqeEeqp+ftQLfNeCGxWyuISsqSoX6dgRwfB+ianLIBVzc9aOSHit9W3uiikuiNWm5FFFIf//Z"
@@ -212,7 +207,6 @@ His most recent works are the EPs "...And Then We Became Ashes" and "Quiet Remin
 <RemoteImage
   alt={`Carlos Ferreira Interview`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-9__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-9__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHAwb/xAAnEAABAwQCAQMFAQAAAAAAAAABAgMEAAURIRIxcQZRYRMUIzJBsf/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAAIE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAECIf/aAAwDAQACEQMRAD8A66yOmTaWjJKS+kcHcDjhQ0Rg7B+K0caTn5HVc+5fLDcrfIlwbih9SlZdjKcDbvE9kAn9hnv++KY2uSIgjsynXHmC8ptLimyFJbSBhSj1vPXt4qkCxp6k9KsXC1y5QShucw2XELTor4jPFXvkA+DUzZbzgjo7qnes703b4TjKHR90+goQ2DvB1yPsP9qdx0DAA8UzULzeJ2EpVjkAfIpjFlPtthpMh8M7/H9VXHejrOOqKKjRTeE7lXIklR7JOSadxljA3RRRKr//2Q=="
@@ -243,7 +237,6 @@ As I tried to work with the idea of making "sound postcards", something that con
 <RemoteImage
   alt={`Carlos Ferreira Interview`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-5__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAQFBgcBAgP/xAApEAACAQMDAwIHAQAAAAAAAAABAgMABBEFITEGB0ESExQjMlFxcpHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgEA/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/AKb0zS7vU7tLbTraSedzgKo/2rX6c7Y2ljbPPrkiX16oz8NE3yov2Pmoz216gWK+h03VrueO0VW9j2kyW3yYzjcjkgffI806ap1akCPLZWytcyAoLm6YswU+Io/pReNzk1p7OhrsvDF3PCnVrK3EccawW2FEeAvpLEjH8NQaWAeBT7eyPeTNNO5eU8sTuaRvGBzUiyuUD+h1ZTgqQykcgjgilc1088jSzOXlY7seTRRUyWmglB/NZJyNqKKVF//Z"
@@ -270,7 +263,6 @@ But I'm definitely not a purist. All creative possibilities are valid and should
 <RemoteImage
   alt={`Carlos Ferreira Interview`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-6__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-6__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAECAwUEBgf/xAAtEAABBAECAwQLAAAAAAAAAAABAgMEEQAFIQYSMQcTkaEUIiNBQlFhcnOx0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIABP/EABoRAQEAAgMAAAAAAAAAAAAAAAABAhESITH/2gAMAwEAAhEDEQA/AH8PQkvSG1mgB1zb5SW2titIByhguejD1SLTYO3TM2dMQ/EHtU38KQkA/wBwCkiOByLrTKTdxO+R9zawoeRVicMMI5WhKAS2kAWobdMbwvTmtMNqspf5o6h+RJR+yMew8iM2huQ+22lAo94sJOPH0L25zqfaJpYnzFabDlSGlPrU0tdNApKiRYNnp9MpX+OdQfJ7hiLGSfkkuHxO3lhhlqRo4xG3rmoSFW9NfO90lXIPAVlpBkJuzRPUn34YZBY//9k="
@@ -301,7 +293,6 @@ Well, I'm really a collab guy! One of the best things in the ambient music commu
 <RemoteImage
   alt={`Carlos Ferreira Interview`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-8__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-8__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgX/xAApEAABAwQBAgQHAAAAAAAAAAABAgMEAAURIRJRUgYxQWEHFSJCcZGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EABkRAQEBAQEBAAAAAAAAAAAAAAEAEQIhUf/aAAwDAQACEQMRAD8AlsBS5cuPGCykvOJRnpk1vrdOuNjnN2m1xjKjSMrYbe5LKT9ySRvGd9Bk1OYza2nEOsr4OtqC0K7VA5B/dUGf4ujS4cSYysWy9wlh9vmMtlxPartUMjBwd496UPLdap8qFbUlS0fM7bJgvEHIW2eJI6K9a7MqzRrvGMeQypsp228MZQT6/jqDqsNbfiMH40aRLDCw43y4krWV588JHlvO80zO8d3S5JCIbMeC2Dp3gFOgexOQP7RzabpRNhynG1JKd7oopwrdTERaUOfQAB7VooEgDGTRRRpN/9k="
@@ -332,7 +323,6 @@ If you need to keep the profit, you need a mass of people desperate for consumpt
 <RemoteImage
   alt={`Carlos Ferreira Interview`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-10__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-10__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAGBP/EACoQAAEDAwMDAwQDAAAAAAAAAAECAxEABAUGEiEiMWFBUZETFDJxgaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQMA/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECESEDMf/aAAwDAQACEQMRAD8AGGiTECT2AHrSfhNKs2jQVdsNvvxKy5+KT7AeKOtLOWh1Jj28mndZrc2q6ynaqJSZHpuA+afWWGXmQq2CClXUFJ5/us8Ho2sMxkNN2L9g47aISxejlCUcIX4I7D91nzauWlyth4AOIMGDI7TSIbfaYUIisxqpgM5Jl0dnm+T5SY/wilErBB0qCCpE7k9SY9xyKetM4M2OItshi8lavm7YQ6pjYrq3AHjqMGPFVVEi8/DsytxeNoZuVufaW5MEqa+oj+SOR8Gs7qnKJetbVC1sl1MKISRuCohaYBMCfU944qqrRJ0f/9k="

@@ -43,7 +43,6 @@ Cradle-to-Cradle (Abk.: C2C) wurde zum Ende der 1990er-Jahre von Michael Braunga
 <RemoteImage
   alt={`cradle-to-cradle`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle-3__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMEBQgGBwn/xAAqEAABAwMCBAUFAAAAAAAAAAABAgMEAAURBiEHEiJBExQjcYExUmJykf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAD/xAAbEQACAwEBAQAAAAAAAAAAAAAAAQIDETETM//aAAwDAQACEQMRAD8A3jq7ifo/SKm2rteGQ+oj0IyS+tIPdSUZ5R7/AF7U3tXGDQVzfbZjaliIdcOEpkpXH393EgVQqfIkR/BS5HbQggqCEK+N9qGpT5irf8u4WEnkUoKGMntisnHNbDcMeYdFdV3ddrsjk2LH80AkLBB6OXI3yPfasS1XqFmFDjOiOt2RIylDWeUJUAc8yiOkZAAPcnaqTQNXXSDGci2+fdY0ZSSFssyFpRjv0g4x8VIyuI+pJ7KWpF8nSG0JwEPYWAPkU6FvnwU60yAviuZyMTnds9/yNLRFZ0/KTj7zn+UUVJHiL7PpISsah5l7Iz6ff9hUbGCPEwtJPScb432ooo0Ty4j/2Q=="
@@ -73,7 +72,6 @@ Damit sollen die enormen ökologischen und ökonomischen Herausforderungen von h
 <RemoteImage
   alt={`cradle-to-cradle`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQMI/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURACFBBhIxExRRFSJxBxdhgZH/xAAYAQACAwAAAAAAAAAAAAAAAAABAwACBP/EABwRAAIDAAMBAAAAAAAAAAAAAAECAAMSESExQf/aAAwDAQACEQMRAD8Am9H0VSVF0likkSlooI0eaZhnHdsqjJALM2wyQPJOwOmX9urXJbqaVKe6W+WZ5VD1WGRQgU9z4UdoOTv/ABzrvbrirBZ1ooqhJbnQxtBMjOGASbI+0gn5/r86s3SNsprisMdVaqZYW93J3rJMd2KcM5z3ZOfjAxjTUOVGvYb+7DnyecYelBHU1FPUBkkhIBAbI/IPIIwQfg6NUDqeopY72skcKwRTUUDKi5wMBhzvwNGg3PPUdWqlQTFy4VlPCqlamOnVbhSShtwO1I5M4I53Ax53+M6e/wBF7hP9NppZ6qTuP1Aem0jPzCwPPj87Z1HL281zoAklM71XuoJRJ4VY0DBsAnySV4402dH3uKwU6RU9qqqkhKhXYh1z3+CADgcAn4A51FUgAGIucM5YfZrXGX16i3yPN7kta6Y+qcnv+6TfffRrLrp3SGymlpwim0047AxIXDSckkn/AHRqrg6mqlgEE//Z"
@@ -98,7 +96,6 @@ steht in der Einleitung des EPEA Portfolios. Gegründet wurde die EPEA GmbH – 
 <RemoteImage
   alt={`cradle-to-cradle`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle-4__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKBAAAgEDAwIGAwEAAAAAAAAAAQIDAAQRBRIhIkETMVFhcYEUI5Hw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMDpuqC6jXc7tIAMDduGPUf7imZmJBV8sR5Edq5rBcBZS0DTRgLkASck/OQeaePdWzxWDQX2p2jyD9/LSAt22dQ4+aDUSyeKFjYKrlhyz7VHI5ye1VLvULNY7h0mjl69pjwSxz3I8tvv7eVZPU9QaPxUGpahPEMAGTAGfcbjSf8AMbcWMu/fjJJ9KC/Z3dslqA2nwSFRyzkkn7qaw1+K3hdBpdqZc9Mo4ZRRRQNrjUpJIgQiKD14A7jn7pLO8Us0kktrA8znlyvH8oooP//Z"

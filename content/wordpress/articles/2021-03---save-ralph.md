@@ -48,7 +48,6 @@ subTitle: Ricky Gervais und Zac Efron in Film über Tierversuche
 <RemoteImage
   alt={`Save Ralph`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_save-ralph.jpeg__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_save-ralph.jpeg__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACYQAAICAQQBBAIDAAAAAAAAAAECAwQRAAUSITEGEyJRFEFhgaH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBAP/xAAcEQADAQEAAwEAAAAAAAAAAAAAAQIRAyFhcaH/2gAMAwEAAhEDEQA/AMeoU2uSpSr1zLY5nASPLHH2c+AO8n61Ibjt8SbVHIyvHNHkMOGPjzK9955cgdO/SdSST1XWihUNmV/cVmADRgEupJ6wVBH96t3rCh+TsVjht1atdQCxYWvY9z2SAGaJsnzhiesjK6inlnN0/gIndXozymlOwGMtZH4hVGAV8Ds9HsnRppH7kakRnALZ/wAGjWGNALX6M2S/vVlb9KzDWijmIkleTiygcS2OsHIbx/BzqRT03vlmCxMJaKQ2pJFdxJgqQ5T5Djnj8Dk/WD+9UGjLBTiuy3JVgxXZUb2xIQzEDIHfjSqm71n3CFpN1SVZXVuH4QOVDZIzjrxrVK6nU/wp5Oc8of7rSk2vcJKc8kDyIFYtDJzQhgCMH99HRrhtlF7stkV3hKxsO2dUyDnBwcfWjQVMn0//2Q=="

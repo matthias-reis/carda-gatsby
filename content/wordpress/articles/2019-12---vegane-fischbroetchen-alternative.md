@@ -52,7 +52,6 @@ Im Rahmen der Veranstaltung hielten die Fischereibiologin Dr. Rini Kulke und die
 <RemoteImage
   alt={`vegane-fischbroetchen-for-future`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-03-so-fine-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-03-so-fine-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBAURAAYhBxIxE0FRFSJCgSOx4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAJBEAAgIBAgUFAAAAAAAAAAAAAQIDEQAFUQQSMUHhExQhIoH/2gAMAwEAAhEDEQA/AET0qsVJfd40dFdFL0ZWSaSNX7S4RC3bn2BONdER9KNmusVQ9iQUjSrEzCtk7gPyIAfBxxxpS9HaGWxbmivQt1Ywpaef7ZWVO9mTAGPI858Hj206qoXrcf028U8c1KabvVaN5FRhnH8iFwPIyMMAcc++l+IZ/bmSFbo9dvy7OFjjBmCO1Dbzig39ta37d6kW21WRpPpU8K1yxSYb03w4IDkdxH28An31i+oFOIVp0QAsfYeeT/mm9u6G1QbzpXrUiuN2SmjIiWX1ZRnvyMg+Bn4/eq6/RN6LOYoaTC4CqBpZdSKxhXSmPXt5w76fcvOrfWspdvVEFXG8NVMTC6lXwwUHjgZ+NWM+47Rc0pqIWZ4fSiEMccKtH6r8AdzY8Y5J0aNJemCSds0IZjH2BvfJdPU0toVjTNElS6hZZIl+PxUnOB/esle7osgZjKXfnJPJ/ZOjRqI0BazlJZCfnP/Z"

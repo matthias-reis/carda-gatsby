@@ -49,7 +49,6 @@ Das vegane Start-up ist noch ganz jung – es wurde dieses Jahr gegründet. Ich 
 <RemoteImage
   alt={`Bijou en Bois`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_bijou-en-bois-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_bijou-en-bois-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMGBQcI/8QAKRAAAgEDAwMEAQUAAAAAAAAAAQIDBAURAAYhEjFBBxMiUTIUQnGB4f/EABcBAQEBAQAAAAAAAAAAAAAAAAIDAQT/xAAeEQACAgICAwAAAAAAAAAAAAAAAQIRA2ESMSEiQf/aAAwDAQACEQMRAD8AqdheohO7663XeJaGmZnMRd8l2QckHABHThjjxk84On+qt8kpbtYJqWjidK2R4ZIJMlquHpHJUZI/LC/u7njOonce7pN6VFDS0dXLT21Yj1iTERllyUJ6c56RxwD2bydP2qKmvrqvbS3Oqjo+gVtuqXUvLQvHImCmTkBlYrjPnGO+uXr0Y5uU1S7f00pjd4655FsjugdviXDBv85zpVOlx/UKJ7O4Rwy4Lk4PScHjng41d3S/2SjuHspcqOHqkeSpjhAKLET0liVBCkHHHc88fWnR1llv9KEt1VBVwx8M0Jyy47Z7EefHnVq2bejyWz1+37lc6abMRp5nKozN8Dngo35c8f0Bq49JatZb5FXR3NYKs49yh9hnLRljljIfpgO2MA4xo0aORLjZLArzKOzte99uLe7XDBZ/ZtdXC75KJ0pIG++n6/g9zrH9OtgT7ZuElfX1iVNS0ZiVYgQoBxknI57DRo0kvNj5OqP/2Q=="
@@ -82,7 +81,6 @@ Das vegane Start-up ist noch ganz jung – es wurde dieses Jahr gegründet. Ich 
 <RemoteImage
   alt={`Bijou en Bois`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_bijou-en-bois-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_bijou-en-bois-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQID/8QAKhAAAgIBAgYBAgcAAAAAAAAAAQIDEQQABQYHEhMhQTFRcRUiQlJhgcH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAGhEAAwADAQAAAAAAAAAAAAAAAAECESExEv/aAAwDAQACEQMRAD8Ata4vYiyopWMjY1dLtZLIwtS1D5HkE16vUf455kpt3EMEW3qnbjdFVit03WLPzRBqgQAaOmX8e3yHjbI2ljJkxy5RWUywhWKVSuCoFALRHr186Usnltl71xMs2RGRhzzGTuN5CqGtfnybOiLlvaNuaSO8na8vHzshbyElicsVYgqUL01fN/5WsjtZm4NlxQoGijmWN2jToMjLRqx7NnyfQ9arfMTLkm4U32PGIfNmx3WGQgWpsE+fRKhgD9TqX8idoyc7E3jMzFyJIUSkEkgdpZSVVehT+1FIJ/kDUfJR3neB34h5gT7Zvs2E+RiZWIqlHdI2Ro2q/DWUarAIsf2dNnBGTJk8MbW+TFLHK0QbpkYM1EkhvH1BuvV6NGiW2yZi7xi5M+8Ivbhfa3jfvlpCG67/AC0vv769Nnw4cGPogRUP6SB5X7aNGmXRnw//2Q=="
@@ -113,7 +111,6 @@ Das vegane Start-up ist noch ganz jung – es wurde dieses Jahr gegründet. Ich 
 <RemoteImage
   alt={`Bijou en Bois`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_bijou-en-bois-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_09_bijou-en-bois-3__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwECA//EACkQAAICAgEDAwQCAwAAAAAAAAECAwQFEQAGEiETMUEHIlFhFIEykdH/xAAXAQEAAwAAAAAAAAAAAAAAAAADAAEC/8QAHBEBAAICAwEAAAAAAAAAAAAAAQACAyEREmGh/9oADAMBAAIRAxEAPwDphcHnsj9MbuDXGgXxYrzCGaRVYwoWfuUb8kggDR88VdA5U0uoaVutThqXKU6Q+kYG2zv3IVO/KsQfOx/rmOmOuswlukk9T+O9eH0RKxGgADrZ/AJ3yZYtKueztiWXGUJ7taRZJrQmdFmXu0JdDYZQSACR3a1wDLkOR+eyZcFbBYd++RR1Ks9anlLFjEZCeQS7S9jrLSRE6BAZW2R8eCB+uadO56K3goFzDViYZ5JPSyayNt+zQJ9lQbbxsa8DjW9eyWTy15cdj7WPhYdkqSSFUmChiNRnXZ9oJLf2dcb9N3l6hrS0gymlFuF1nRJfU9we4EFSD+vjh6Xcfq12Sh/ptSMhu+lC8hgZLL+mFJ7F99d3j3145L619ouvpYKlSbEPDN2vE4YKkZO3jdj4PgbPx+OHDiB2s8w73aYxJZ/W/TL5Sws0VpazxBx3SOfTdTsfd+CPg/1yCNmJcDjrVDo51vZSVtWMkE1DF5OxHv8Ayb39z/zhw5VKi7m7KE//2Q=="

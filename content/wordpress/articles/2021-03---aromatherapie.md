@@ -63,7 +63,6 @@ Gattefossés besonderes Augenmerk lag auf der antiseptischen Wirkung der Bergamo
 <RemoteImage
   alt={`Aromatherapie`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-edel-naturwaren-5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-edel-naturwaren-5__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBgcE/8QAJxAAAgEDBAIBBAMAAAAAAAAAAQIDBAURAAYhMRITYQcIQVEUcZH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAGhEBAQADAQEAAAAAAAAAAAAAAQAREiECMf/aAAwDAQACEQMRAD8A0SmJCdnrWV/cRfbzaoNuC0Xa426GT+R7TSyyRh2Hr8QSvZx5YB+danSoxT8dar++tsW/cVuo5LnHLItMGdAtQ8arkDJwOz1z+tZGZS+jV7rq36dWae5z1FXVlZ0NRUMzPIvubxOW5IxgA/GrFcpGZSWYnI0s21Z6ayWukoKFXjgVDIqtK0uPI54LHOPjrvTC4KfQ5znC/rQvYxQpJ/FQCQPwOP8Af71Xt87lprNaaVapZ/GfKFkheRQMcqfAEg88aNGobOa2piabWvUN3tkNSkckSKroBJEYsKpHPieRx0ONd9e4aFkHbKeD2Bjs6NGk+l7PU+X/2Q=="
@@ -92,7 +91,6 @@ Ich habe eigentlich immer verschiedene ätherische Öle im Einsatz. [Lavendel-](
 <RemoteImage
   alt={`Aromatherapie`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-edel-naturwaren-6__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-edel-naturwaren-6__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgL/xAAnEAABAwMEAQMFAAAAAAAAAAABAgMEAAURBhIhMVETIkEHMmGRwf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwT/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIRIRL/2gAMAwEAAhEDEQA/ANpbyoNpO49eaoC6xrYlTsyVGjgkJSuQ6lAJ8DcRk1NgAlsYx0Kg/UHTkfUdpTGnFYRHc9cbXQ2PtKeSQanuDS3hvVXpibC3xXY8hlxJAdYcC05zg8jIpG4SVuoJyUgDoGs3o+yx7BphESE44phJU4Qt4u7VHGQD0BkdCrj6T6ZG4fqj1o3OMTt7hS0jA+AKR1ffV2a3uSk22TcOAhbUce5KTnnH875oorPVNF5lM70vel3exKcdtci3enltDMg+4ICQdyvA567qtIcCgNvahkDHx5P4oooVN9CpSZ//2Q=="
@@ -121,7 +119,6 @@ Lavendel soll gegen depressive Verstimmungen, Schlafstörungen und nervliche Üb
 <RemoteImage
   alt={`Aromatherapie`}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-edel-naturwaren-7__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-edel-naturwaren-7__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKRAAAgEDAgUEAgMAAAAAAAAAAQIDBAURAAYHEiEiMRMUMkFCUXGxwf/EABcBAQEBAQAAAAAAAAAAAAAAAAAEAQL/xAAaEQEBAAMBAQAAAAAAAAAAAAABAAIRIRIx/9oADAMBAAIRAxEAPwDoFsdxBGeY/EfesDxy3lftqUtlk29XmjknlmWWQxLJkBVIHcpA8nW6tfM1NHjHVRpBxEstputtpzuDBghlzGGmdF52GM4UjJ/zOuT7CbcKt11194e2u4XqX3FxlEqyzKioGKysFOAAPiF8DTSoqnNIioSoVQNK9sW+it+3KOns5X2CoWiAkdwASSQCxJAznp/OrbAmlXqOqg6LNUdocrSRBR15RpJxD3BNaLfTGG3VlZ6zsD7aATFQMYyhYZBz5H60aNT+k7UGIupjtK8vddtwVVTSVFJJl4/SmTkbt8duT5H0CfHnVySUCnXPbyoCc/j0/vRo09L2xxDl/9k="

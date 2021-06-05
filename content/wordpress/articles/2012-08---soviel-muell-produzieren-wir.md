@@ -42,7 +42,6 @@ subTitle: Da sollte man mal drüber nachdenken
 <RemoteImage
   alt={`Die Installation &quot;Waste&quot; `}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0212__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0212__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAACAAHBAX/xAApEAACAgEDBAAGAwEAAAAAAAABAgMEEQAFEgYTIUEHFSIyUWEUMVJx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgEA/8QAGhEBAAIDAQAAAAAAAAAAAAAAAAECERIhMf/aAAwDAQACEQMRAD8AQXJVXk5CoBkk+h71kfTnxebdOpo69mpWi2qeYQRsjFpUJYqhIBOSTxGAPf61rCvkqBgkkY0denxtlD4tz7lHUMlP5kUWz22XtOWYKMH6fLKxLAZOBjGTm2nGEginOGIPrVrmZ/OPxq0heP1Hu/yrZ7FsOisqkIWJ+4g4xgeTn+tF/brt+xXillvwNSabnxncNIso4n/WfqPnHsn0NIu9bqTwTR7hEk9ZE7xRlyfpBJI/Yx4/7o029v2sVWu2hHyvhpWrxJg0HLntgMTjkF+5fQP5A0be9KCe2bqKvuOxbfuU0kVX+XEJOErhcEeGAyfRGrRa6isQ9QtUrtZU1tvi7VcInbARjy95BOc5xgatTdtX/9k="

@@ -65,7 +65,6 @@ Pressemitteilung: Henner Busch, [Universität Lund](https://www.lunduniversity.l
 <RemoteImage
   alt={`Klimanetzwerke`}
   size="full"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_Lund.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_Lund.png__l.jpg"
   loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAHCAYAAABp0096AAAACXBIWXMAAAsTAAALEwEAmpwYAAAB0ElEQVQokX2TT2uTQRCHn8S0KhXB2SqUIrGlqSiWigoiRqktKSXFUIjFQIvdVfSgSPEmqG120j/qRfHo7voRvPvplDd5XwgleHhgZuc3s7O7swQrRGeq0cpacqYVnawkZyaTM5ToMV75WIZjoAv4nMLWgtKAIj4KHW3/em5mkjMb0cqjYOV+dKaZnGlEK1Ofn1wBflAp7wH7/2tgqOhwo8ObnWwg96OVZrQyF6zMBitbwcpysNJITur12lPgoAbfKHEAHOUFetlGY3nBCfDT4C/S12Sx/Qoc5vpPDGzNY53MznLPwBeITpaClYXk5GW08ipYuflzR6rJyb2/fxiDoxeV8l4V/AZoC/xb6K6Cfwf6ALoXQF+DroFmmk3wbdBt0Db4LfC7oBb0GWgz13b6+uhMI1h5HK20kjO7yZn15MxKsGZ54vQH4PhOueTnQe+CXgWdAT8H/hbo1ODUug56DXQSdAG6l0Cr+c3Mg1/Mc6+DTkPXQPcc+MskZ25EJ51gZTVaeRis1KOTdnSm9nWzCnwf8c6j3vekZpS2YGhOwo7JmljMhjA6uR2tWUpOZqMTfr8Z5/zZ92U4LIMO4XOKyddT0Mv9frz4FRmFtqBY7/MPgKqmOk4oJ+8AAAAASUVORK5CYII="
