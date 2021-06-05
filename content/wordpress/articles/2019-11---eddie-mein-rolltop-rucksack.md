@@ -64,4 +64,4 @@ Das Material ist extrem hitzebeständig und reißfest. Schließlich muss es Feue
 
 Wer neugierig geworden ist und selbst einen "Eddie" adoptieren möchte, kann das [auf der Homepage](https://www.feuerwear.de/rucksaecke-aus-feuerwehrschlauch/rolltop-rucksack-eddie) von Feuerwear tun. Für 189 Euro gehört eines der in liebevoller Handarbeit hergestellten Einzelstücke Euch.
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

@@ -87,7 +87,7 @@ Rohstoffe wie **Waldbeeren** gedeihen im kühlen Klima Finnlands sehr gut. Etwa 
 
 © Suomisen Maito Oy 2019
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Man hat mir das Produkt nicht zur Verfügung gestellt oder mich bezahlt. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Man hat mir das Produkt nicht zur Verfügung gestellt oder mich bezahlt. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
 
 [^1]: [Food from Finland](https://www.businessfinland.fi/en/do-business-with-finland/explore-finland/food-drinks/food-from-finland-in-brief/)
 [^2]: [Business Finland](https://www.businessfinland.fi/en/do-business-with-finland/home/)

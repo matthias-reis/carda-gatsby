@@ -78,4 +78,4 @@ Ihr habt genug gelesen und möchtet das tolle Portemonnaie-Pärchen gerne gewinn
 
 [^1]: [Homepage Feuerwear](https://www.feuerwear.de/unsere-aktionen/valentins-edition)
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

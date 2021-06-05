@@ -83,4 +83,4 @@ Demnächst verrate ich Euch, warum Veganer⋆innen immer etwas zu Essen dabei ha
 
 <Gallery name="samebutgreenrad2" />
 
-_\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

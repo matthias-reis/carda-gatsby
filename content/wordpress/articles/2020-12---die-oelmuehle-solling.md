@@ -93,4 +93,4 @@ Um die Bioöle in Feinkost-Qualität herzustellen, arbeitet das Team mit kleinen
 
 Wenn Ihr neugierig geworden seid und gerne auch mal probieren wollt, könnt Ihr die Produkte der Ölmühle Solling einfach im [Online Shop](https://t.adcell.com/p/click?promoId=243565&slotId=80259&param0=https%3A%2F%2Fwww.oelmuehle-solling.de%2F) bestellen.
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

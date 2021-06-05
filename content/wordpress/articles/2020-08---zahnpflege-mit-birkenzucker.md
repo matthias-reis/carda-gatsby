@@ -76,4 +76,4 @@ Das Lebensmittelrecht sagt übrigens, dass Xylit ein Zusatzstoff ist. Das Süßu
 
 <Gallery name="birkengold-zahn-2" />
 
-_\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

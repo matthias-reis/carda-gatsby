@@ -73,6 +73,6 @@ Wer wissen möchte, warum es Tieren, Umwelt und Gesundheit gut tun, wenn man sic
 
 [newsletter]
 
-- _Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
-
 <small>Foto: [Deliveroo](https://go.urtrackinglink.com/SH1TT) </small>
+
+\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

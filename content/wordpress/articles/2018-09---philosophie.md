@@ -158,4 +158,4 @@ Um ihm zu entkommen, brauchen wir Denker und Aktivisten, Menschen mit Zivilcoura
 
 Laut Duden bedeutet Philosphie "Streben nach Erkenntnis über den Sinn des Lebens, das Wesen der Welt und die Stellung des Menschen in der Welt; Lehre, Wissenschaft von der Erkenntnis des Sinns des Lebens, der Welt und der Stellung des Menschen in der Welt". Aber auch "Persönliche Art und Weise, das Leben und die Dinge zu betrachten". Genau das ist es, was zählt. Sollte man mal drüber nachdenken.
 
-- _Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

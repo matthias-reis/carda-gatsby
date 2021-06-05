@@ -83,4 +83,4 @@ Wer jetzt neugierig geworden ist: Alles über Santaverde könnt Ihr [hier im Blo
 
 Hat Euch mein Geschenktipp gefallen? Das freut mich! Lest gerne auch meine weiteren Artikel zum Thema Santaverde. Wenn Ihr ihn Zukunft nichts mehr auf meiner Seite verpassen möchtet, [abonniert am besten meinen Newsletter](#newsletter). Ich freue mich auf Euch!
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

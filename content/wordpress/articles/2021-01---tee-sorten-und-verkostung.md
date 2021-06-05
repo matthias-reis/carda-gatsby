@@ -161,4 +161,4 @@ Die schlichten Großverpackungen, die effiziente Arbeitsweise und der Verzicht a
 
 Wenn Ihr die Teesorten auch mal probieren wollt, schaut Euch mal das [Probierpaket](https://t.adcell.com/p/click?promoId=161287&slotId=80259&param0=https%3A%2F%2Fwww.roberts-teehaus.de%2F%3Fstore-page%3DProbepaket-Von-jeder-der-15-angebotenen-Teesorten-20-Gramm-Insgesamt-300-Gramm-Tee-p231961591) von Roberts Teehaus an. Natürlich könnt Ihr [auf der Seite](https://t.adcell.com/p/click?promoId=161287&slotId=80259&param0=https%3A%2F%2Fwww.roberts-teehaus.de%2F%3Fstore) auch alle Sorten einzeln kaufen.
 
-_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

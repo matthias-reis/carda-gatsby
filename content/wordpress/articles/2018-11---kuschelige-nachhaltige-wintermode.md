@@ -115,4 +115,4 @@ Selber häkeln und stricken ist in der kalten Jahreszeit natürlich auch immer e
 
 Wie geht es Euch? Habt Ihr bestimmte Lieblings-Brands? Gibt es Klamotten, die Ihr auf keinen Fall anziehen würdet? Wie steht Ihr zum Lagenlook? Ich bin gespannt auf Ihre Nachrichten!
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

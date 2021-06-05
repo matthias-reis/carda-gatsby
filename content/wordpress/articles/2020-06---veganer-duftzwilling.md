@@ -69,4 +69,4 @@ Auch dafür hat man bei XAXX eine, wie ich finde, gute Lösung gefunden: Man kan
 
 <Gallery name="xaxx2" />
 
-_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

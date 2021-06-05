@@ -72,4 +72,4 @@ Wer sich jetzt fragt, wo man die tollen Hausschuhe bestellen kann, klickt am bes
 
 Zum Gumbies Onlineshop [geht es hier](https://www.gumbies.de/). Das Verzeichnis der Einzelhändler, die Gumbies im Sortiment haben, [findet Ihr hier](https://www.gumbies.de/StoreConsent).
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

@@ -77,4 +77,4 @@ Alle drei von mir getesteten Produkte sind selbstverständlich vegan.
 
 <Gallery name="klar-seifen-2" />
 
-_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Die Produkte wurden mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Die Produkte wurden mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

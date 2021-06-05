@@ -103,4 +103,4 @@ Ich wünsche auch Euch viel Spaß beim Testen! Und psst! Auf meiner Instagram-Se
 
 <Gallery name="flickr/annefopo" />
 
-_\*Hinweis: Dieser Artikel enthält Werbung und entstand im Zusammenhang mit Trusted Blogs. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. [Für Infos dazu bitte hier klicken](https://www.trusted-blogs.com/tipps/werbekennzeichnung). _
+\*Hinweis: Dieser Beitrag enthält Werbung und entstand im Zusammenhang mit Trusted Blogs. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. [Für Infos dazu bitte hier klicken](https://www.trusted-blogs.com/tipps/werbekennzeichnung).

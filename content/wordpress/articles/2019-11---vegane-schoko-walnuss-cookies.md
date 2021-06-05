@@ -78,8 +78,6 @@ Anstelle von herkömmlichem braunem Zucker habe ich für meine Cookies  [Xucker
 
 Die [von mir verwendeten Edel-Bitterschokoladen-Drops stammen ebenfalls von Xucker](http://tidd.ly/b9dd4b7e). Sie enthalten mindestens 75 Prozent Kakao, sind vegan und ohne Zuckerzusatz. Neben der Kakaomasse enthalten sie 23 Prozent zahnpflegendes Xylit als Süßungsmittel sowie Kakaobutter und Sonnenblumen-Lecithine als Emulgator. Als Aroma wird natürliche Bourbon Vanille zugesetzt.
 
-_\*Hinweis: Dieser Beitrag enthält eine Anzeige und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
-
 <!-- START ADVERTISER: Xucker DE from awin.com -->
 
 <RemoteImage
@@ -94,3 +92,5 @@ _\*Hinweis: Dieser Beitrag enthält eine Anzeige und Affiliate Links. Der Inhalt
 [](https://www.awin1.com/cread.php?s=2269518&v=11793&q=348986&r=632580)
 
 <!-- END ADVERTISER: Xucker DE from awin.com -->
+
+\*Hinweis: Dieser Beitrag enthält eine Anzeige und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

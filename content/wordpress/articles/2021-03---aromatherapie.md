@@ -135,6 +135,6 @@ Ein Großteil der Aroma-Öle wird heute nicht mehr natürlich gewonnen und statt
 
 Wenn Ihr bei der Anwendung der Öle ein paar Regeln beachtet, kann Aromatherapie eine echte Bereicherung sein. Denkt daran: Bei starken Schmerzen, Ausschlägen oder sonstigen Irritationen sucht bitte unbedingt eine⋆n Fachärz⋆tinnen auf. Achtet außerdem unbedingt auf die richtige Dosierung. Zu viel des Guten kann zu Nebenwirkungen, allergischen Reaktionen und sogar Vergiftungserscheinungen führen. Vor allem, wenn Ihr schwanger seid, solltet Ihr aufpassen. Außerdem solltet Ihr bei kleinen Kindern besser auf die Anwendung von ätherischen Ölen verzichten.
 
-_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Das Produkt wurde mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
-
 Quellen/Sources: [Wikipedia](https://de.wikipedia.org/wiki/Aromatherapie), [Edel Naturwaren](https://t.adcell.com/p/click?promoId=252519&slotId=80259&param0=https%3A%2F%2Fwww.edel-naturwaren.de%2F)
+
+\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Das Produkt wurde mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

@@ -76,4 +76,4 @@ Der neue Feuerwear Hip Bag ist seit dem 17. März im [Feuerwear Onlineshop](http
 - [atmosfair](https://www.atmosfair.de/de/)
 - [Delcotex](https://delcotex.de/de/)
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

@@ -129,4 +129,4 @@ Wer jetzt neugierig geworden ist und die Tees von Roberts Teehaus gerne auch mal
 
 Hat Euch mein Testbericht gefallen? Wenn Ihr in Zukunft nichts auf meinem Blog verpassen möchtet, [abonniert gerne meinen Newsletter](#newsletter), dann halte ich Euch auf dem Laufenden.
 
-_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

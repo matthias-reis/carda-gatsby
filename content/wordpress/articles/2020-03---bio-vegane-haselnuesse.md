@@ -138,4 +138,4 @@ Wenn Ihr gerne mehr über Hof Windkind erfahren möchtet, [lest gerne auch meine
 
 Zur Homepage von Hof Windkind geht es [hier entlang](https://www.hofwindkind.com/info/baumpatenschafthaselnuesse.html).
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Weitere Infos:  [www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/werbekennzeichnung) _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Weitere Infos: [www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/werbekennzeichnung)

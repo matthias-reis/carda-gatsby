@@ -85,6 +85,6 @@ Lasst nun auch die Schokolade in einem Wasserbad zergehen und vermischt sie ansc
 
 [5 € Rabatt ab einem Bestellwert von 25 € (Code: spicegold)](https://t.adcell.com/p/click?promoId=241393&slotId=80259)
 
-_\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
-
 Bild: [Direkt vom Feld](https://t.adcell.com/p/click?promoId=237421&slotId=80259&param0=https%3A%2F%2Fdirektvomfeld.eu%2F)
+
+\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

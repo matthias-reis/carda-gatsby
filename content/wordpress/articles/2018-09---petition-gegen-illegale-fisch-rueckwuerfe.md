@@ -79,4 +79,4 @@ Was Ihr noch zum Schutz der Meere tun könnt? Sammelt jedes Mal, wenn Ihr am Str
 
 Wie wir mithilfe einer simplen Handy-App alle gemeinsam etwas gegen die drohende Plastikflut im Meer tun können, könnt Ihr [hier nachlesen](/2018/08/replace-plastic-app-kueste-gegen-plastik/).
 
-_\*Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Weitere Infos:  [www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/werbekennzeichnung) _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Weitere Infos:  [www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/werbekennzeichnung)

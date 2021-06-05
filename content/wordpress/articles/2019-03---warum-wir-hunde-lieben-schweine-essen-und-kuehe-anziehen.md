@@ -190,4 +190,4 @@ von Arthur Schopenhauer ist zum Glück wahr. Ich hoffe sehr darauf, dass die veg
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zum festen Bestandteil meines Blogs etablieren. Je mehr ich selbst lese, desto mehr möchte ich darüber berichten. Verstärkt hat sich das Ganze noch, [seit ich selbst mit meinem Mann Matze einen Roman geschrieben und veröffentlicht habe](https://amreis.de/hermetiker/).
 
-_\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

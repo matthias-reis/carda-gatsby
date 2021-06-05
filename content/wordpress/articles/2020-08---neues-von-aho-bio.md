@@ -69,4 +69,4 @@ Und noch eine weitere Neuigkeit gibt es aus den Reihen von Aho Bio: Die Verpacku
 
 Vor Kurzem habe ich Jannis von Aho Bio kennengelernt. Er hat mir alles über seine Idee, rohe vegane Cracker anzubieten und das Bio-Startup erzählt. [Den Artikel findet Ihr hier](/2020/04/rohe-vegane-cracker-von-aho/). Psst: Darin steckt auch ein 5 Prozent Gutschein, den Ihr im [Aho Bio Onlineshop](https://aho.bio/) einlösen könnt!
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

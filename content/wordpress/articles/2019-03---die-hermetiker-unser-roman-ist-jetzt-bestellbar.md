@@ -68,4 +68,4 @@ Schon seit Matze und ich uns vor acht Jahren kennengelernt haben, stürzen wir u
   scrolling="no"
 ></iframe>
 
-- _Hinweis: Dieser Beitrag enthält Werbung in eigener Sache. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung in eigener Sache. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

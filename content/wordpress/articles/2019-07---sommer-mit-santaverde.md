@@ -238,4 +238,4 @@ Auf der Seite von Santaverde findet Ihr unter anderem ein umfangreiches Inhaltss
 
 Wer gerne auch mal ein paar Produkte aus dem Hause Santaverde ausprobieren möchte, [findet hier eine Liste der Bezugsquellen](http://www.santaverde.de/bezugsquellen).
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

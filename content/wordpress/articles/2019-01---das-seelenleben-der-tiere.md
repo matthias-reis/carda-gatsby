@@ -109,4 +109,4 @@ Insgesamt habe ich aus "Das Seelenleben der Tiere" einiges über das Verhalten v
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen Bestandteil meines Blogs etablieren. Meine Lesewut hat sich [seit ich gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht habe](https://amreis.de/hermetiker/), sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto mehr möchte ich darüber berichten.
 
-_\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

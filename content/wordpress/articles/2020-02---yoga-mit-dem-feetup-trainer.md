@@ -107,4 +107,4 @@ Wenn Ihr neugierig geworden seid und gerne mehr erfahren möchtet, schaut Ihr am
 
 Hat Euch mein Testbericht gefallen? Das freut mich sehr! Wenn Ihr gerne weiter mitfiebern wollt, [abonniert am besten meinen Newsletter](#newsletter). Ich halte Euch über neue Beiträge auf dem Laufenden!
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenfrei zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenfrei zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

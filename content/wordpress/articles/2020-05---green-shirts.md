@@ -133,4 +133,4 @@ Mit dem Gutscheincode GS-4932 erhaltet Ihr bis einschließlich 20.12.2021 5 Euro
 
 [Gutschein jetzt einlösen](https://www.adcell.de/promotion/click/promoId/168828/slotId/80259)
 
-_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

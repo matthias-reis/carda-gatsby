@@ -140,4 +140,4 @@ Die Konsistenz gefällt mir bei allen drei Sorten gut. Die Milch ist nicht zu di
 
 Übrigens habe ich im Sortiment von Dr. Martins auch Kokosmilch zum Kochen entdeckt.
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

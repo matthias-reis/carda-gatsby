@@ -91,4 +91,4 @@ Alle Leser⋆innen meines Blog erhalten mit dem Rabattcode cardamonchaiAHO **5 
 
 Bestellen könnt Ihr die leckeren Aho Cracker direkt auf der [Homepage des Herstellers](https://aho.bio/). Der Versand ist ab 29 Euro kostenlos. Im Aho Blog (unter dem selben Link) erhaltet Ihr regelmäßig Infos aus dem Leben der Aho Menschen.
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

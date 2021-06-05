@@ -111,4 +111,4 @@ Kopfschmerzen, trockene Haut, Müdigkeit, Abgeschlagenheit, Verstopfung... Die L
 
 Wenn Ihr zum Beispiel regelmäßig bei Marathons mitlauft oder Surfer⋆innen, Taucher⋆innen oder Crossfitter⋆innen seid, achtet Ihr darum wahrscheinlich schon aus Gewohnheit darauf, möglichst viele kleine Portionen und besonders mineralhaltiges Wasser und/oder isotonische Getränke zu Euch zu nehmen. Die sind im Alltagsleben in der Regel nicht notwendig.
 
-_\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

@@ -124,4 +124,4 @@ Ihr könnt die Bücher ganz einfach online bestellen ["Vegan, aber günstig - sp
 
 Übrigens hat Patrick genau wie ich eine Webseite. [Dort freut er sich immer über Euren Besuch](http://patrickbolk.de/).
 
-_\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

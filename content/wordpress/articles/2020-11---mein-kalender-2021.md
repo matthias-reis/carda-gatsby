@@ -86,4 +86,4 @@ Ich wünsche Euch viel Freude beim Basteln Eures Kalenders und alles Gute für d
 
 Bei Vistaprint findet Ihr zahlreiche Produkte zum selbst gestalten, bedrucken, verschenken und selbst behalten. [Hier gehts zum Onlineshop](https://www.vistaprint.de/).
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

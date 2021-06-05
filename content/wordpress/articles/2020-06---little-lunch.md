@@ -76,4 +76,4 @@ Die beiden neuen veganen Sommersorten "[Gemüsegarten](http://tidd.ly/d3f8a6de)"
 
 [](https://www.awin1.com/cread.php?s=2340087&v=14792&q=357190&r=632580) [](https://www.awin1.com/cread.php?s=2340087&v=14792&q=357190&r=632580)
 
-_\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

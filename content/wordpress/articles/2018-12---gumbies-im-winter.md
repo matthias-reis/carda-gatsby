@@ -75,6 +75,6 @@ Bestellt werden können die Schuhe ganz bequem über den [Webshop](https://shop.
 
 Ich mache es mir jetzt mit meinen Hausschuhen in meiner Leseecke gemütlich bei einer leckeren Tasse Tee, ein paar Keksen und einem guten Buch. Wir lesen uns!
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
 
 <Gallery name="2018-gumbies-slides" />

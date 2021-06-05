@@ -73,4 +73,4 @@ Vegablum wurde von Daniela Nowak und Stephan Weidtmann im Oktober 2015 gegründe
 [Crowdfunding Kampagne](https://www.startnext.com/vegablum)  
 [Homepage Nextlevel! 2019](https://food-crowdfunding.de/)
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Man hat mir das Produkt nicht zur Verfügung gestellt oder mich bezahlt. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Man hat mir das Produkt nicht zur Verfügung gestellt oder mich bezahlt. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

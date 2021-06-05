@@ -138,4 +138,4 @@ Aschera (auch Ascherah, Ašerā) ist eine syrisch-kanaanäische Meeresgöttin. A
 
 Im Jahr 2017 stellte Ashéra Cosmetics mit der Yin Yang Balance 24-Stunden-Pflege die ersten Produkte vor.  Von der Verpackung über den Messestand bis hin zu ihrer Hauptaufgabe, der Vermarktungsstrategie, begleitet und erarbeitet [Jacqueline](/2018/02/ashera-interview/) alles selbst.
 
-_Dieser Artikel enthält Werbung und entstand im Zusammenhang mit Trusted Blogs. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. [Für Infos dazu bitte hier klicken](https://www.trusted-blogs.com/tipps/werbekennzeichnung). _
+\*Hinweis: Dieser Beitrag enthält Werbung und entstand im Zusammenhang mit Trusted Blogs. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. [Für Infos dazu bitte hier klicken](https://www.trusted-blogs.com/tipps/werbekennzeichnung).

@@ -126,4 +126,6 @@ Was ich tatsächlich nicht erwartet hatte, ist, _wie viel_ acht Kilo Walnüsse s
 
 Alle Infos zur Baum-Adoption und zu den Besichtigungsterminen findet Ihr auf der [Hof Windkind Homepage](https://www.hofwindkind.com).
 
-**Hof Windkind** 16775 Löwenberger Land OT Neuendorf _Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Weitere Infos: [www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/werbekennzeichnung) _
+**Hof Windkind** 16775 Löwenberger Land OT Neuendorf
+
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Weitere Infos: [www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/werbekennzeichnung)

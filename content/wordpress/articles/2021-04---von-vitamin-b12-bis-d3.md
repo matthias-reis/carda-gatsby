@@ -106,4 +106,4 @@ Ob und welche Vitamine und Mineralstoffe Ihr über Nahrungsergänzungsmittel zuf
 
 [Ich habe mich mit einem veganen Internisten unter anderem über Vitamin B12 unterhalten. Das Interview findet Ihr hier](/2019/06/veganer-arzt-interview-dr-hanno-platz/).
 
-_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Die Produkte wurden mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Die Produkte wurden mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

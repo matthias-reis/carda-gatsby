@@ -124,4 +124,4 @@ Insgesamt überzeugt mich das Angebot von Greenpeace Energy wesentlich mehr, als
 
 [Tarifrechner Wärmestrom Greenpeace Energy](https://tidd.ly/330436Y)
 
-- _Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

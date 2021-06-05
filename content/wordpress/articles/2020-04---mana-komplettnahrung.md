@@ -92,4 +92,4 @@ Neben dem von mir getesteten [Pulver zum Anrühren](https://www.awin1.com/cread.
 
 [Homepage Mana](https://www.awin1.com/cread.php?awinmid=18231&awinaffid=632580&clickref=&ued=https%3A%2F%2Fdrink-mana.de%2F)
 
-_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

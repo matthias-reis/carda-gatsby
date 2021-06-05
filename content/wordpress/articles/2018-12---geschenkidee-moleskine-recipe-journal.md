@@ -63,6 +63,6 @@ Das Rezept, das ihr auf den Fotos sehen könnt, findet Ihr übrigens komplett hi
 
 Das ist schon mal ein guter Anfang, aber Ihr braucht für Weihnachten noch ein paar weitere Geschenke? Dann bleibt am besten einfach dran. In Kürze findet Ihr hier im Blog noch ein paar weitere Tipps.
 
-- _Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
 
 <Gallery name="2018-12-moleskine" />

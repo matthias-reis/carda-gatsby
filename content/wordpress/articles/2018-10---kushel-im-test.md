@@ -163,8 +163,8 @@ Ihr wollt mehr über spannende und nachhaltige Start-ups erfahren? Dann könnt I
   ]}
 />
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
-
 \*\* [Die Homepage von "Kushel" findet ihr hier.](https://www.kushel.de/)
 
 \*\*\* Nachtrag 28.10.2018 18:00 Uhr  [Auch das Kickstarter-Projekt ist inzwischen gestartet!](https://www.kickstarter.com/projects/kushel/kushel-the-towel-made-with-wood)
+
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

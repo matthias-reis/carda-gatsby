@@ -63,4 +63,4 @@ Ich habe auch das Körperöl, das Haaröl und die Duftkerzen von Acaraa in Verwe
 
 Zum Acaraa Onlineshop [geht es hier hier](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de).
 
-_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

@@ -172,4 +172,4 @@ Die Transparenz spricht mich sehr an und ich würde sofort wieder bei den Ölfre
 
 [Hier könnt Ihr die Ölfreunde online besuchen](https://www.dieoelfreunde.de/)
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Die Produkte wurden mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Die Produkte wurden mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

@@ -120,4 +120,4 @@ Namasté
 
 [Yoga mit dem Feetup Trainer](/2020/02/yoga-mit-dem-feetup-trainer/)
 
-_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Das Produkt wurde mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Das Produkt wurde mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

@@ -123,8 +123,6 @@ Das [Vegan Travel Handbook](http://tidd.ly/b1b6af2a) von Lonely Planet hat insge
 
 Hat Euch meine Rezension gefallen? Das freut mich sehr! Wenn Ihr in Zukunft nichts mehr auf meiner Seite verpassen wollt, [abonniert gerne meinen Newsletter](#newsletter). Ich freue mich auf Euch!
 
-_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
-
 **Bilder / pictures:** [Lonely Planet](http://tidd.ly/23a505b6)
 
 <!-- START ADVERTISER: Lonely Planet Publications from awin.com -->
@@ -137,3 +135,5 @@ _\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und 
 />
 
 [](https://www.awin1.com/cread.php?s=2459095&v=1238&q=369704&r=632580)
+
+\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

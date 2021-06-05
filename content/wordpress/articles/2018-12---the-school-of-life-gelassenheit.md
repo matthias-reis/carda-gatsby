@@ -118,4 +118,4 @@ Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen
 
 [](https://amzn.to/2VbMYR4)
 
-_\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

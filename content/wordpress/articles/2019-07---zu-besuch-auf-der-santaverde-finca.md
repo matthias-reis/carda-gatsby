@@ -1,37 +1,35 @@
 ---
 date: 2019-07-26T11:45:29.000+00:00
 slug: santaverde-finca-aloe-vera
-path: "/2019/07/santaverde-finca-aloe-vera/"
+path: '/2019/07/santaverde-finca-aloe-vera/'
 type: Artikel
 typeName: Artikel
 title: Zu Besuch auf der Santaverde Finca
 seoTitle: Zu Besuch auf der Santaverde Finca in Andalusien
 ogTitle: Zu Besuch auf der Santaverde Finca in Andalusien
-description: Vor Kurzem haben wir die Aloe Vera Finca von Santaverde in Andalusien
-  besucht. Dabei haben wir einiges über den Anbau der beliebten Pflanze erfahren.
-excerpt: Vor Kurzem haben wir die Aloe Vera Finca von Santaverde in Andalusien besucht.
-  Dabei haben wir einiges über den Anbau der beliebten Pflanze erfahren.
+description: Vor Kurzem haben wir die Aloe Vera Finca von Santaverde in Andalusien besucht. Dabei haben wir einiges über den Anbau der beliebten Pflanze erfahren.
+excerpt: Vor Kurzem haben wir die Aloe Vera Finca von Santaverde in Andalusien besucht. Dabei haben wir einiges über den Anbau der beliebten Pflanze erfahren.
 fileName: 2019-07---zu-besuch-auf-der-santaverde-finca.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-4__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-4__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBhMxIjJhgRRxUZGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAAH/xAAfEQABAwQDAQAAAAAAAAAAAAAAAQIREhQhoQQFMYH/2gAMAwEAAhEDEQA/AGNqtLsqERttxwxHB+9aOC0SbRtjBUfxydc6tlkucVBttF+rWuEQhl2d14oWQoDsBGdpXjB/zTe133qSi3U13uH4EzIojNSVnVsDb6SQpzjnPOTzp1Oyl1NORCyWJk3D0JKFAs5UgFlLAAkeOBrG3noigq3eWsaukJ8I9S5Uc54GeB+tSpe+pqPe8lzoq9JJe4A1N7VwBtXbjA4+fJ1DW9YXR/QLXbd5J9zSqAP3g6O7Y7Dk0CnGemUKFtu1dTQxxQxRJCo9KCLAH9adx9QTSQmKqpKeWM+VdCQfo6NGpRUE90orXXIvbpmt0inPcoZGiz8EeCPrSGsstKuCl1uUaqpyDOSD8nJ0aNb7tTnh/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_07_Zu-Besuch-auf-der-Santaverde-Finka.png__l.jpg
 labels:
-- Aloe Vera
-- Aloe Vera Anbau
-- Andalusien
-- Estepona
-- Fair Fashion & Beauty
-- Fernweh
-- Finca
-- Finca Santa Verde
-- Naturkosmetik
-- Santaverde
-- Santaverde Finca
-- Spanien
-- vegan beauty
-- vegane Naturkosmetik
-- serie:Spanien 2019
+  - Aloe Vera
+  - Aloe Vera Anbau
+  - Andalusien
+  - Estepona
+  - Fair Fashion & Beauty
+  - Fernweh
+  - Finca
+  - Finca Santa Verde
+  - Naturkosmetik
+  - Santaverde
+  - Santaverde Finca
+  - Spanien
+  - vegan beauty
+  - vegane Naturkosmetik
+  - serie:Spanien 2019
 focusKeyword: Santaverde Finca
 status: publish
 isWerbung: false
@@ -39,10 +37,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Aloe Vera Pflanzen im Herzen von Andalusien
-year: "2019"
+year: '2019'
 month: '07'
-
 ---
+
 **Vor Kurzem haben wir die Aloe Vera Finca von Santaverde im spanischen Estepona besucht. Dabei haben wir einiges über den biologischen Anbau der beliebten Pflanze erfahren.**
 
 Im Vorfeld unserer Spanienreise im Juni hatte ich bei Santaverde angefragt, ob ich mit meiner Kamera mal vorbeikommen könnte. Ich nutze die Pflege von Santaverde ja schon ziemlich lange und wenn man schon mal in der Nähe ist...
@@ -127,4 +125,4 @@ Auf der Seite von Santaverde findet Ihr unter anderem ein umfangreiches Inhaltss
 
 Wer gerne auch mal ein paar Produkte aus dem Hause Santaverde ausprobieren möchte, [findet hier eine Liste der Bezugsquellen](http://www.santaverde.de/bezugsquellen).
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

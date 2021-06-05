@@ -73,4 +73,4 @@ Und wenn man gerade mal wieder auf der Suche nach einem Rock oder einem schicken
 
 [Hier gehts zum Second Life Fashion Onlineshop](https://www.awin1.com/cread.php?awinmid=19076&awinaffid=632580&clickref=&ued=https%3A%2F%2Fsecondlifefashion.de%2F).
 
-_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

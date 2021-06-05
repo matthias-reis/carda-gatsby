@@ -65,4 +65,4 @@ Das junge Designer-Duo von der Willem Koonig Uni Rotterdam möchte mit dem Proje
 
 Wer gerne mehr über Fruitleather Rotterdam erfahren möchte, kann sich [auf der Homepage des Kollektivs](https://fruitleather.nl/) informieren.
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Man hat mir das Produkt nicht zur Verfügung gestellt oder mich bezahlt. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Man hat mir das Produkt nicht zur Verfügung gestellt oder mich bezahlt. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

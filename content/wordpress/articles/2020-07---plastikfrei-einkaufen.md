@@ -121,4 +121,4 @@ Ich gebe es offen zu: Komplett Zero Waste zu leben, ist ganz schön schwierig. D
 
 [Warum Mehrweg besser ist, als PET](/2018/07/glas-statt-plastik/)
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mit kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mit kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

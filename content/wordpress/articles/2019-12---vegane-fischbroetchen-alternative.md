@@ -122,8 +122,6 @@ Eigentlich bin ich kein großer Fan von Convenience-Produkten. Die von SoFine w
 
 Hiermit möchte ich Euch gerne noch die Kurkuma Kochschule ans Herz legen. Hier finden regelmäßig tolle vegane Kochkurse zu den verschiedensten Themen statt. Mir hat es dort sehr gut gefallen und wir wurden sehr herzlich empfangen[^7].
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner Transparenz-Seite._
-
 [^1]: [FischEthnoBase](http://fishethobase.net/)
 [^2]: [Homepage SoFine](https://www.sofine.eu/de/)
 [^3]: [Europäische Behörde für Lebensmittelsicherheit](https://www.efsa.europa.eu/de)
@@ -131,3 +129,5 @@ _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 [^5]: [Dr. Jenny Volstorf](http://fishethobase.net/team/2/)
 [^6]: [SoFish Verkaufstellen](https://www.sofine.eu/de/wo-sind-sofine-produkte-erhaltlich/)
 [^7]: [Kurkuma Kochschule](https://www.kurkuma-hamburg.de/)
+
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner Transparenz-Seite.

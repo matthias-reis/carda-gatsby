@@ -110,6 +110,4 @@ Aqua, Glyceryl Stearate Citrate, Olus Oil, Cetearyl Alcohol, Mangifera Indica Se
 
 Hat Euch mein Produkttest gefallen? Wenn Ihr in Zukunft weiter mitlesen wollt, [abonniert am besten meinen Newsletter](#newsletter). Ich freue mich auf Euch!
 
-_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
-
-&nbsp;
+\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
