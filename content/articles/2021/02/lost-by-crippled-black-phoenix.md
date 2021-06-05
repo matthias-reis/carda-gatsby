@@ -126,4 +126,4 @@ A significant change of direction is needed to stop the impending doom. Humankin
 
 <YouTube id="IWv92fNR5jE" />
 
-[Read my interview with Crippled Black Phoenix](/2020/12/crippled-black-phoenix-interview-en) Read my interview with Crippled Black Phoenix.
+[Read my interview with Crippled Black Phoenix](/2020/12/crippled-black-phoenix-interview-en).
