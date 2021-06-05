@@ -1,15 +1,15 @@
 ---
-date: 2021-05-04T13:00:42+02:00
+date: 2021-06-04T13:00:42+02:00
 labels:
-  - Obscured by the Wind
-  - Thot
-  - Review
-  - Reviews
-  - Bands
-  - Vegetal Noise
-  - Post-Rock
-  - Industrial
-  - Full Moon
+- Obscured by the Wind
+- Thot
+- Review
+- Reviews
+- Bands
+- Vegetal Noise
+- Post-Rock
+- Industrial
+- Full Moon
 language: en
 slug: thot-feiern-10-jahre-obscured-by-the-wind-en
 typeName: Review
@@ -17,17 +17,19 @@ title: Thot celebrate 10 years "Obscured by the Wind"
 subTitle: '"Blue & Green (are melting down in a new seed)"'
 seoTitle: Thot celebrate 10 years "Obscured by the Wind"
 ogTitle: ''
-description: Thot are celebrating the 10th anniversary of their milestone album "Obscured by the Wind" with a breathtaking live recording of their song "Blue & Green (are melting down in a new seed)". The video is available online now.
+description: Thot are celebrating the 10th anniversary of their milestone album "Obscured
+  by the Wind" with a breathtaking live recording of their song "Blue & Green (are
+  melting down in a new seed)". The video is available online now.
 excerpt: ''
-image: '/img/thot-cat.jpeg'
+image: "/img/thot-cat.jpeg"
 copyright: Thot
-ogImage: '/img/thot-cat-fb-1.jpeg'
+ogImage: "/img/thot-cat-fb-1.jpeg"
 focusKeyword: Obscured by the Wind
 advertisement: false
 affiliate: false
-languageLink: '/2021/06/thot-feiern-10-jahre-obscured-by-the-wind'
----
+languageLink: "/2021/06/thot-feiern-10-jahre-obscured-by-the-wind"
 
+---
 **Thot are celebrating the 10th anniversary of their milestone album "Obscured by the Wind" with a breathtaking live recording of their song "Blue & Green (are melting down in a new seed)". The video is available online now.**
 
 Thot are announcing today's release with some bitterness: Due to some technical issues during the post-production of the recording, a large part of the material got destroyed. Originally the Brussels based band had planned open-air live versions of all ten songs on the record.
