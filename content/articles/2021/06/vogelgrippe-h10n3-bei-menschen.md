@@ -30,13 +30,13 @@ languageLink: ''
 
 Weltweit hatten Virologi⋆innen davor gewarnt, nun gibt es tatsächlich einen Fall. Einige Wissenschaftler⋆innen halten weitere Pandemien für "unvermeidlich". Das geht aus einer Pressemitteilung hervor.
 
-### Virolog*innen halten eine Grippe-Pandemie für unvermeidlich
+## Virolog*innen halten eine Grippe-Pandemie für unvermeidlich
 
 Der Erkrankte soll inzwischen stabil sein und kurz vor seiner Entlassung stehen. Er war vor ein paar Tagen mit Symptomen wie hohem Fieber in eine Klinik gekommen.
 
 Pekings nationale Gesundheitskommission (NHC) stuft den H10N3-Stamm der Vogelgrippe als "gering pathogen" ein. Das bedeutet, dass es "unwahrscheinlich ist, dass er einen großflächigen Ausbruch verursacht". Dennoch halten zahlreiche Virolog⋆innen eine Grippepandemie für "unvermeidlich". Es wäre möglich, dass Stämme der Vogelgrippe mutieren und dadurch leichter übertragbar werden.
 
-### Mensch-zu-Mensch-Übertragung
+## Mensch-zu-Mensch-Übertragung
 
 Die Weltgesundheitsorganisation WHO teilte der Nachrichtenagentur Reuters mit:
 
@@ -46,7 +46,7 @@ In Schweden waren vor Kurzem 1,3 Millionen Hühner gekeult worden, nachdem beim 
 
 Ein Bericht aus Russland warnt davor, dass die Vogelgrippe 90 Mal tödlicher sein könnte, als COVID-19. Anfang 2021 war dort der erste Fall einer Übertragung zwischen Tieren und Menschen bestätigt worden. Den Behörden zufolge infizierten sich sieben Arbeiter einer Geflügelfabrik mit der H5N8-Variante des Virus.
 
-### Zoonosen durch vegane Lebensmittel stoppen
+## Zoonosen durch vegane Lebensmittel stoppen
 
 Die Leiterin der russischen Gesundheitsbehörde, Anna Popova meldete, es ginge allen Arbeiter⋆innen inzwischen wieder gut. Man hätte die "angemessenen Maßnahmen sofort ergriffen" und dadurch sei eine weitere Ausbreitung der Krankheit verhindert worden. Auch sie warnt vor einer Weiterentwicklung des Virus:
 
