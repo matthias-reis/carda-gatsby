@@ -32,7 +32,7 @@ Was mir an der EP besonders gut gefällt, ist die fast heimelig wirkende Stimmun
 
 Ich fahre durch eine sommerliche Landschaft, in der sich gleißendes Sonnenlicht eine Schlacht mit wiederkehrenden Regenschauern bietet. Die Regenbögen werden immer wieder von schweren, stählernen Wolken verdeckt, um sich am Ende dann doch durchzusetzen.
 
-### Building Prisons stellen sich vor
+## Building Prisons stellen sich vor
 
 ![Die Building Prisons Debüt-EP](/img/bp-ep-front-cover.png 'Die Building Prisons Debüt-EP')Der Dunst verzieht sich und am Horizont zieht ein Schwarm Vögel vorbei. Auf Ihrer Reise in Richtung Norden lassen sie sich auf einem Feld nieder und lauschen dem Wind, der über ihren Köpfen dahin rauscht.
 
@@ -40,7 +40,7 @@ Vor lauter Begeisterung habe ich kaum bemerkt, dass ich schon beim zweiten Song 
 
 Weiter geht es mit dem dritten Stück – "Requiem". Höre ich hier ein bisschen The Cure heraus? Tief gestimmt geht es weiter. Ist das die Ruhe vor dem nächsten Sturm?
 
-### "Building Prisons" macht Lust auf mehr
+## "Building Prisons" macht Lust auf mehr
 
 "Trench" ist ein würdiger Ausklang für eine gelungene Debüt-Platte und vielleicht mein Favorit auf "Building Prisons". Die Band zeigt im Stück ein ganz neues Gesicht – hart und durchdacht. Das ist auch die Gitarrenwand, die ich mir gewünscht habe! Der Mittelteil klingt fast ein bisschen Math-rockig – das Stück kommt auf jeden Fall auf eine meiner nächste Playlists! Ganz zum Schluss kommt dann sogar noch ein bisschen Stadion-Rock-Gefühl auf, das in einem dramaturgisch clever gesetzten Fade-out endet.
 
@@ -48,6 +48,6 @@ Insgesamt ist die EP fast wie ein Medley. Sie ist ein schöner Vorgeschmack auf 
 
 Ihr könnt Euch das Debüt von Building Prisons bei allen bekannten Streaming-Diensten anhören – meine Empfehlung habt Ihr.
 
-### Building Prisons – "The Mistakes We Make"
+## Building Prisons – "The Mistakes We Make"
 
 <YouTube id="UweHX6kAXrM" />

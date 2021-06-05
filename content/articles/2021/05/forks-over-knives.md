@@ -32,7 +32,7 @@ Ich stelle Euch heute also mal wieder einen Film vor. Obwohl "Forks Over Knives"
 
 "Forks Over Knives" oder auf Deutsch "Gabel statt Skalpell" ist eine der Dokumentationen, die prägend für die vegane Szene in ihrer heutigen Form waren und sie noch heute prägen. Als der Film im Jahr 2011 zum ersten Mal lief, ahnten viele noch nicht, für wie viel Wirbel er sorgen würde – und das ohne brutale Bilder aus der Fleischindustrie, wie man vielleicht vermuten könnte.
 
-### "Forks Over Knives" zeigt die Vorzüge pflanzlicher Ernährung
+## "Forks Over Knives" zeigt die Vorzüge pflanzlicher Ernährung
 
 Der unabhängige Filmemacher Lee Fulkerson zeigt in seinem Werk die Vorzüge pflanzlicher Kost. Im Laufe des Films wird den Zuschauenden nach und nach immer bewusster, welche Ernährungsform die ideale ist. Bei all der Aufklärung wirkt "Forks Over Knives" keinesfalls dogmatisch und auch Langeweile kommt an keinem Punkt auf. Ganz im Gegenteil – es ist wohl eine der spannendsten Dokus, die es im Moment bei den Streaming-Diensten zu sehen gibt.
 
@@ -40,7 +40,7 @@ Lee Fulkerson hat in meinen Augen ein perfektes All-in-one-Infopaket geschaffen.
 
 Dabei zitiert er nicht nur aus Studien, sondern lässt renommierte Fachleute aus dem medizinischen und wissenschaftlichen Bereich zu Wort kommen. Mit von der Partie ist neben T. Colin Campbell, dem Autor der [China Study](/2019/06/veganer-arzt-interview-dr-hanno-platz/), unter anderem auch der Herzspezialist Caldwell Esselstyn.
 
-### Ein echtes Abenteuer
+## Ein echtes Abenteuer
 
 Sie erklären der Vorteile veganer vollwertiger, naturbelassener Nahrung und zeigen genau, wie einfach es sein kann, mithilfe von Gemüse, Obst, Getreide, Nüssen und Hülsenfrüchten Krankheitssymptome zu mildern und schweren ernährungsbedingten Erkrankungen entgegenzuwirken. Beim Zuschauen fallen einem die sprichwörtlichen Schuppen von den Augen.
 
@@ -48,7 +48,7 @@ Der Verzicht auf Fleisch, Milch und andere tierische Lebensmittel, Fertiggericht
 
 Er gibt zu, dass er sich selbst sehr ungesund ernährt. Obwohl er sich gesund fühlt, lässt er sich untersuchen und lässt sich auf eine 12-wöchige Ernährungsumstellung ein. Die anschließende weitere Untersuchung spricht Bände. Seine Entzündungswerte, sein Blutzuckerspiegel und seine [Cholesterinwerte](/2019/06/veganer-arzt-interview-dr-hanno-platz/) sind besser, als jemals zuvor.
 
-### "Forks Over Knives" als Mitmachen-Portal
+## "Forks Over Knives" als Mitmachen-Portal
 
 Weil das alles ziemlich inspirierend ist, gibt es, wie schon kurz erwähnt, neben dem Film noch einiges mehr zu entdecken. Auf dem gleichnamigen Online-Portal (das habe ich selbstverständlich unten für Euch verlinkt) findet Ihr täglich neue Rezepte, Profi-Ratgeber und jede Menge weitere Inspiration. Wer Lust hat, kann sich sogar einen kompletten Ernährungsplan erstellen lassen.
 
@@ -59,6 +59,6 @@ Was jetzt auf den ersten Blick vielleicht nach "Weight Watchers" und Co. klingt,
 [forksoverknives.com](https://www.forksoverknives.com/)  
 ["Forks Over Knives" Rezept-App](https://www.forksoverknives.com/app/)
 
-### "Gabel statt Skalpell" (Deutsche Version von "Forks Over Knives)
+## "Gabel statt Skalpell" (Deutsche Version von "Forks Over Knives)
 
 <YouTube id="XpZR0K2D9aA" />

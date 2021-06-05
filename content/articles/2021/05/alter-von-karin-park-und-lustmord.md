@@ -1,18 +1,18 @@
 ---
 date: 2021-05-09T12:54:00.000+00:00
 labels:
-- Ambient
-- Dark Ambient
-- Post-Rock
-- Horrorsound
-- Soundtrack
-- cinematic
-- English & German
-- Karin Park
-- Pelagic
-- Bands
-- Review
-- English & German
+  - Ambient
+  - Dark Ambient
+  - Post-Rock
+  - Horrorsound
+  - Soundtrack
+  - cinematic
+  - English & German
+  - Karin Park
+  - Pelagic
+  - Bands
+  - Review
+  - English & German
 language: de
 slug: karin-park-lustmord-alter
 typeName: Review
@@ -20,33 +20,29 @@ title: '"Alter" von Karin Park und Lustmord'
 subTitle: Faszinierende Horrorsounds
 seoTitle: '"Alter" von Karin Park & Lustmord – Faszinierende Horrorsounds'
 ogTitle: ''
-description: Eine neue Perle aus dem Dark Ambient Sektor wird schon bald das Licht
-  der Welt erblicken. Karin Park und Lustmord machen gemeinsame Sache.
-excerpt: 'Alle, die mit düsteren Klängen etwas anfangen können, sollten diesem Musiktipp
-  auf jeden Fall ihre Aufmerksamkeit schenken. Denn: Schon bald erscheint eine neue
-  Perle auf diesem Gebiet – "Alter" ist eine Kooperation von Lustmord und Karin Park
-  von Årabrot.'
-image: "/img/2021-05-dark-ambient-karin-park-lustmord-pelagic.jpg"
-ogImage: "/img/2021-05-dark-ambient-karin-park-lustmord-pelagic-fb.jpg"
+description: Eine neue Perle aus dem Dark Ambient Sektor wird schon bald das Licht der Welt erblicken. Karin Park und Lustmord machen gemeinsame Sache.
+excerpt: 'Alle, die mit düsteren Klängen etwas anfangen können, sollten diesem Musiktipp auf jeden Fall ihre Aufmerksamkeit schenken. Denn: Schon bald erscheint eine neue Perle auf diesem Gebiet – "Alter" ist eine Kooperation von Lustmord und Karin Park von Årabrot.'
+image: '/img/2021-05-dark-ambient-karin-park-lustmord-pelagic.jpg'
+ogImage: '/img/2021-05-dark-ambient-karin-park-lustmord-pelagic-fb.jpg'
 focusKeyword: Karin Park
 advertisement: false
 affiliate: false
-languageLink: "/2021/05/karin-park-lustmord-alter-en"
-
+languageLink: '/2021/05/karin-park-lustmord-alter-en'
 ---
+
 **Alle, die sich ab und zu von etwas düsteren Klängen angezogen fühlen, sollten diesem Musiktipp auf jeden Fall ihre Aufmerksamkeit schenken. Denn: Schon bald erscheint eine neue Perle auf diesem Gebiet – "Alter" ist eine Kooperation von Lustmord und Karin Park von Årabrot.**
 
 Gute Kollaborationen haben bei Pelagic Records Tradition. Die Berliner Musikschmiede um die Post-Metal Giganten von [The Ocean](/2020/09/the-ocean-robin-staps-interview/) haben nun mal ein Gespür für hochwertige Musik. Dabei werden vor allem die Post-Musik Genres bedient. Dazu zählt unter anderem auch die Horror Score Ecke.
 
 Freund⋆innen von Portishead, Dead Can Dance und Hans Zimmers Werken werden auf jeden Fall voll auf Ihre Kosten kommen und auch Fans von Tool Kopf und Soundgenie Maynard James Keenan (mit dem Lustmord schon mehrfach zusammengearbeitet hat) und Godspeed You! Black Emporer sollten auf jeden Fall weiterlesen.
 
-### Fantasievoll und furchteinflößend
+## Fantasievoll und furchteinflößend
 
 ![Karin Park & Lustmord – "Alter"](/img/2021-05-alter-karin-park-lustmord-pelagic.jpg 'Karin Park & Lustmord – "Alter"')"Alter" ist unglaublich furchteinflößend und bringt zugleich jede Menge Seelenheil – ein entspannter Kinoabend ganz ohne Kino erwartet Euch. Die acht Stücke sind der perfekte Soundtrack für einen kreativen Horrorfilm der Fantasie.
 
 Die bedrohliche Finsternis schwingt in jeder Note mit. Unbekannte Geister schleichen durch die Lüfte und ergreifen Besitz von der Atmosphäre. Mit dem ersten Stück "Hiraeth" öffnet sich eine staubige Truhe mit lange gehegten Geheimnissen, die dringend ans Licht wollen. Über der bleiernen Schwere und entzückenden Leichtigkeit schwingt Karin Parks Gesang wie ein wohl balanciertes Pendel.
 
-### Durchdachte Dramaturgie
+## Durchdachte Dramaturgie
 
 Lustmord sorgt mit seiner Musik für spannende Dramatik und zeichnet den Bogen geschickt zum nächsten Stück "The Void Between". Der Track reißt mich beim Zuhören (der Name deutet es schon an) tief in den Abgrund. Raben kreisen in einem dunklen Himmel.
 
@@ -58,7 +54,7 @@ Karin Parks Gesang ist ergreifend. Von den Klängen der kinematischen Gruselmusi
 
 Schmeichelnde Worte, die besser formulieren, was Euch da erwartet, als ich es jemals könnte.
 
-### Karin Parks Stimme hat mir den Kopf verdreht
+## Karin Parks Stimme hat mir den Kopf verdreht
 
 Auch der vierte Track "Twin Flames" hat mir von Anfang an den Kopf verdreht. Ich vermute, das Stück ist sogar mein Lieblingssong auf der Platte. In der Musik schlagen zwei Herzen, die unterschiedlicher nicht sein könnten und dennoch dieselbe Sprache sprechen.
 
@@ -66,7 +62,7 @@ Der Waliser und die Schwedin liefern ab und wirbeln die musikalische Vorstellung
 
 Die ganze Platte ist sensationell aufwändig und gleichzeitig stilvoll. Wie die Szenen aus einem David Lynch Film ziehen die Stücke nach einander auf der Bühne auf und senden ihre Message. Der sechste Song "Kindred" ist der dramaturgische Höhepunkt des Albums.
 
-### Gruseleffekte bis zur letzten Note
+## Gruseleffekte bis zur letzten Note
 
 "Song Of Sol" ist im Anschluss fast schon fröhlich beschwingt. Die orchestrale Note steht dem Song gut zu Gesicht. Er macht die Bühne frei für den letzten Song "Sele". Dieser zieht mich nochmal hinein in die Kühle gotischer Gemäuer und lässt mich durch finstere Säle der Vergangenheit wandern. Insgesamt hebt der letzte Song sich vor allem durch seine Härte von denen anderen auf der Platte ab. Der Gruseleffekt wird dabei nochmal auf die Spitze getrieben und findet nach 9:11 ein jähes Ende. Und jetzt erstmal raus ans Tageslicht!
 
@@ -74,6 +70,6 @@ Lustmord aka Brian Williams hat in der Vergangenheit mit Größen wie Wes Borlan
 
 "Alter" von Karin Park und Lustmord erscheint am 25. Juni. [Ihr könnt die Platte hier vorbestellen](https://pelagic-records.com/product/lustmord-karin-park-alter-2lp/).
 
-### Karin Park & Lustmord – "Twin Flames"
+## Karin Park & Lustmord – "Twin Flames"
 
 <YouTube id="hzDb-7IKLy4" />

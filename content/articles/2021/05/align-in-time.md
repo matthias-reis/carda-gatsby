@@ -37,13 +37,13 @@ languageLink: '/2021/05/align-in-time-interview-en'
 
 **Anne:** Es ist Deine erste Platte seit Deinem Debüt-Album "Me & My Arrow" im Jahr 2011. Was hat sich seither verändert?
 
-### "Ich verliere meinen Optimismus"
+## "Ich verliere meinen Optimismus"
 
 **![Align in Time – "Men Without Chests & I Go Too" (Acoustic)](/img/2021-05-align-in-time-1.jpg 'Align in Time – "Men Without Chests & I Go Too" (Acoustic)')John:** Ganz schön viel! Ich habe geheiratet, bin einmal quer durchs Land und wieder zurück gezogen und mein erstes Kind ist zur Welt gekommen. Die Welt befindet sich in einer prekäreren Lage als jemals zuvor und je älter ich werde, desto mehr verliere ich meinen Optimismus, wo uns das noch alles hinführen wird. Auch aus musikalischer Sicht hat sich so viel verändert. Als ich "Me & My Arrow" veröffentlicht habe, steckte das Streaming ja quasi noch in den Kinderschuhen!
 
 **Anne:** Ist Align in Time ein One-Person-Projekt? Oder arbeitest Du mit anderen Musiker⋆innen zusammen? Gibt es welche, die Du gerne erwähnen würdest?
 
-### "Ich habe mit Bryan Russel und Mike Kalajian zusammengearbeitet"
+## "Ich habe mit Bryan Russel und Mike Kalajian zusammengearbeitet"
 
 **John:** Ich schreibe die Musik komplett alleine. Aber ohne die Menschen, die mir dabei helfen, sie aufzunehmen, würde ich nicht weit kommen. Bryan Russel (Volbeat, Twin Forks, Envy on the Coast) hat meine Alben produziert und Mike Kalajian (Circa Survive, A Day to Remember, Saves the Day) hat sie gemastert. Tyler Mahurin hat die Drum Parts für "On a Spiral" eingespielt und Jesse Hangen für "Me & My Arrow". An meiner neuen Akustik-EP waren auch einige Leute beteiligt. Mein Cousin Russel Gutterson hat die Mandoline aufgenommen, Danyal Ince hat die Drums gespielt und Michael Grant Klarinette.
 
@@ -53,7 +53,7 @@ languageLink: '/2021/05/align-in-time-interview-en'
 
 **Anne:** Hast Du irgendwelche Vorbilder oder Idole im Musikbereich? Ich habe gelesen, Du stehst wie ich ziemlich auf Caspian?
 
-### "Caspian und die Goo Goo Dolls haben mich geprägt"
+## "Caspian und die Goo Goo Dolls haben mich geprägt"
 
 **John:** Ja, das tue ich! Sie waren eine der ersten Post-Rock Bands, die ich für mich entdeckt habe. Johnny Rzeznik von den Goo Goo Dolls war einer meiner ersten und wichtigsten Einflüsse. Besonders sein Stil der Akkord-Stimmung und diese epische Art, etwas sehr Intimes auszudrücken haben mich immer sehr beeindruckt. Ich denke, man kann diesen Einfluss immer noch aus meiner Musik heraushören, vor allem in den neuen Akustik-Versionen. Ich höre mir unglaublich viel Filmmusik an. Das hat meine Herangehensweise an das musikalische Storytelling nachhaltig geprägt, denke ich.
 
@@ -65,7 +65,7 @@ Vor Kurzem habe ich mich in The 1975, These New Puritans und MUNA verguckt. Ich 
 
 **Anne:** Du kombinierst mit Deiner Musik Post-Rock und Storytelling. Denkst Du Dir gerne Geschichten aus?
 
-### "Die Geschichte der Welt sollten wir alle gemeinsam schreiben"
+## "Die Geschichte der Welt sollten wir alle gemeinsam schreiben"
 
 **John:** Absolut. Es ist das, war mir am besten an dem gefällt, was ich tue. Ich fing nicht damit an, auf diese Weise Musik zu schreiben, weil ich ein bestimmtes Genre im Sinn hatte. Ich fand es einfach befreiend, auf Gesang zu verzichten und in der Lage zu sein, alle Sounds und Stile mit einzubringen, die ich brauche, um die Geschichte zu erzählen, die ich erzählen will.
 
@@ -73,7 +73,7 @@ Vor Kurzem habe ich mich in The 1975, These New Puritans und MUNA verguckt. Ich 
 
 **John:** Wow, das ist eine schwierige Frage. Ich habe weder die Fähigkeit noch die Hybris, anzunehmen, dass ich diese Geschichte schreiben könnte. Wünschen würde ich mir, dass es eine Geschichte ist, die in Zusammenarbeit mit anderen entsteht – mit allen Lebewesen, die in ihr vorkommen. Ich würde mit der kollabierenden Welt, die wir heute beleben, anfangen und uns zu einem Ende hinführen, das für alle gerecht, komfortabel und erfüllend ist, solange wir hier sind.
 
-### "Ich arbeite daran, bald wieder was Neues zu veröffentlichen"
+## "Ich arbeite daran, bald wieder was Neues zu veröffentlichen"
 
 **Anne:** Was steht als Nächstes an für Align in Time? Arbeitest Du an neuen Songs?
 
@@ -125,6 +125,6 @@ Ihr solltet aber unbedingt auch mal in sein erstes Werk namens "Me & My Arrow" r
 
 Die Akustikversionen der Align in Time Songs "A Men Without Chests" und "I Go Too" klingen ganz anders, als auf "Me & My Arrow" und "On A Spiral" – auf eine ganz faszinierende Weise. Hört Euch am besten von beiden Songs mal beide Versionen an. Ich wünsche Euch viel Freude bei diesem Hochgenuss – der mich in der Zeit zurückversetzt und wirklich an den Sound der Goo Goo Dolls erinnert.
 
-### Align in Time – "Men Without Chests" (Acoustic Version)
+## Align in Time – "Men Without Chests" (Acoustic Version)
 
 <YouTube id="ubL5w8QCgw4" />

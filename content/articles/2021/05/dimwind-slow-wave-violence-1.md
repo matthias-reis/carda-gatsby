@@ -33,7 +33,7 @@ Guitarist Andreas Hansen and drummer Jonas Eriksson self-released their record. 
 
 The opener "Blinds Drawn" is sonically first class and comes up with a well-balanced mix of lightness and gloom.
 
-### Dimwind are pushing boundaries
+## Dimwind are pushing boundaries
 
 ![Dimwind – "Slow Wave Violence"](/img/dimwind-slow-wave-violence-record.jpg 'Dimwind – "Slow Wave Violence"')
 
@@ -43,7 +43,7 @@ Andreas and Jonas have been making music together in various constellations sinc
 
 What a drive! At times, the piece is quite hard and driven by its heavy baseline, then again winged and playful. There may be influences from the Deftones corner as well as from the Cult of Luna niche. Do I hear hidden keyboard sounds? How wonderful! After a short relaxation break at minute 4:50, there's more power. The final chord comes after 7:57, and I just keep on flying.
 
-### Dimwind speak a melancholic language
+## Dimwind speak a melancholic language
 
 With their duo project, the Swedes pursue a cross-genre approach, and they do it quite brilliantly. They are blurring the boundaries between post-rock and all adjacent music genres, doing what they love – with a lot of heart, soul, and positive energy.
 
@@ -51,7 +51,7 @@ With their duo project, the Swedes pursue a cross-genre approach, and they do it
 
 The fifth song is called "Håglös". If you know that it means "hopeless", you can imagine what the song could be about. Dimwind have packed so much pain into it – so much despair and loneliness. Its atmospheric opening gives you a hint of it, but the second the cover of clouds lifts, the weather breaks down over my head. – I am taking a walk on a deserted beach. The ice-cold wind is my only companion.
 
-### "Slow Wave Violence" is unique
+## "Slow Wave Violence" is unique
 
 Dimwind go beyond the scope once again. The catchy harmonies provide beautiful film music quotes. The song is followed by "Pelagic Vim", which provides the rough post-metal contrast to its predecessor. Andreas and Jonas are also speaking a thoroughly melancholic language here – but this time in a completely different way – exciting!
 
@@ -59,6 +59,6 @@ Summary: "Slow Wave Violence" is definitely unique. Dimwind show that they can k
 
 Finally, it comes to some thick metal again. The duo plays with disharmony and sets the night to light with bursting sparkles. The last song, "Broken Silver Chord", is a worthy conclusion to a valuable musical treasure that will hopefully grow bigger soon. I am already very excited about what's up next for Dimwind.
 
-### Dimwind – "False Awakening"
+## Dimwind – "False Awakening"
 
 <YouTube id="_xqEDC_rfjQ" />

@@ -32,7 +32,7 @@ Die Rettung spielte sich im Februar 2020 ab. Jetzt kehrte der Schauspieler an de
 
 Dokumentiert hat die Rettungsaktion der Macher des Films [Earthlings](/2020/07/earthlings/) Shaun Monson. Er war, neben Joaquins Verlobter [Rooney Mara](/2020/08/the-end-of-medicine/), der Gründerin von Los Angeles Animal Save, Amy Jean Davis, dem Präsidenten und Mitbegründer von Farm Sanctuary, Gene Baur, sowie einigen anderen Aktivist⋆innen auch an den Verhandlungen um die Freilassung der Tiere beteiligt.
 
-### Joaquin Phoenix' erster Besuch auf einem Schlachthof
+## Joaquin Phoenix' erster Besuch auf einem Schlachthof
 
 Nachdem der Betreiber des Schlachthofs zugestimmt hatte, konnte Joaquin Phoenix die Übergabe in die Wege leiten. Das Mutter-Kind-Paar benannte er nach seiner Schwester Liberty und ihrem verstorbenen Sohn Indigo. Im Video berichtet er, wie er sich beim Besuch des Schlachthofs gefühlt hat:
 
@@ -40,7 +40,7 @@ Nachdem der Betreiber des Schlachthofs zugestimmt hatte, konnte Joaquin Phoenix 
 
 Monsons Kurzfilm entstand in Kooperation mit der Organisation LA Save. Joaquin berichtet darin von der Rettung der Tiere und ihrer quälenden Details. Für ihn war der Besuch im Schlachthof eine einschneidende Erfahrung. Er erzählt unter anderem, was er empfand, als er die unzähligen Stapel von Tierhäuten, die auf dem Zaun des Schlachthofs aufgereiht waren, bemerkte.
 
-### Man kann die Angst riechen
+## Man kann die Angst riechen
 
 > "Dort hängen hunderte und tausende von Tierhäuten. Unvorstellbar, dass das alles mal Individuen waren."
 
@@ -52,7 +52,7 @@ berichtet er.
 
 > "Der Transport von den Feedlots oder dem Ort, an dem sie aufgezogen wurden, die Fahrt zum Schlachthof, und natürlich die Geräusche der Schlachtungen, die da drinnen stattfindet, haben ein Trauma in ihnen ausgelöst. Zu sehen, wie die anderen Kühe, die sie kannten, dort hineingeführt wurden. Und natürlich die Gerüche."
 
-### "Es war befreiend, sie aus dieser Todesfabrik rauszuholen"
+## "Es war befreiend, sie aus dieser Todesfabrik rauszuholen"
 
 Das völlig verstörte Kälbchen Indigo trägt er schließlich höchstpersönlich in den Transportwagen. Dass er zumindest zwei der Tiere befreien konnte, erleichtert ihn:
 
@@ -68,7 +68,7 @@ erzählt er im Video.
 
 ![Joaquin Phoenix Indigo](/img/bildschirmfoto-2021-04-29-um-17.39.04.png 'Indigo am Tag ihrer Rettung und heute.')
 
-### "Sie hat mich wiedererkannt"
+## "Sie hat mich wiedererkannt"
 
 Zusätzlich bestätigt wird ihm das von Kälbchen Indigo, das er in seinen Armen vor der Schlachtbank gerettet hatte. Ein Jahr später scheint sich das Tier an ihn zu erinnern und kuschelt sich bei seinem Besuch an ihn.
 
@@ -78,7 +78,7 @@ Der Tierrechtsaktivist erzählt auch, was ihm durch den Kopf ging, als er sah, w
 
 > "Es ist ihr natürliches Verhalten und wir unterbinden es so oft. Sie sind einzigartige Lebewesen und sie verdienen ihre Unabhängigkeit und die Freiheit, ihr Leben so zu leben, wie sie möchten. Der Gedanke an die Milliarden von Tieren, die wir für unseren Konsum töten, für unsere Mützen, Armbänder, Schuhe und Gürtel, ist beklemmend."
 
-### "Wir müssen anfangen, den Schaden, den wir angerichtet haben, rückgängig zu machen"
+## "Wir müssen anfangen, den Schaden, den wir angerichtet haben, rückgängig zu machen"
 
 Seiner emotionalen Erzählung über die Befreiung von Indigo und Liberty fügt Joaquin dem Film einen Aufruf hinzu.
 
@@ -86,6 +86,6 @@ Seiner emotionalen Erzählung über die Befreiung von Indigo und Liberty fügt J
 
 Indigo und Liberty wurden kurz nach [Joaquins bewegender Oscar Rede](/2020/02/joaquin-phoenix-oscar/) gerettet. Das Video wurde unter dem Titel "Indigo" unter anderem von der Earth Day Crew, von Farm Sanctuary und von Joaquin Phoenix persönlich auf Youtube geteilt. Für Euch habe ich es natürlich eingebunden, Ihr braucht es also nicht zu suchen.
 
-### Die Rettung von Indigo und Liberty
+## Die Rettung von Indigo und Liberty
 
 <YouTube id="Tc2fcTB_PZI" />

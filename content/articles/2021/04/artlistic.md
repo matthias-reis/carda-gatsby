@@ -28,7 +28,7 @@ Was mit einem spontanen Einfall losging, erfreut sich inzwischen wachsender Beli
 
 ARTlistic sorgt für Furore, ohne dabei ein großes Tamtam zu machen. Weil die Nachfrage für einen derartigen Service so groß war, läuft die Plattform wie von alleine.
 
-### Kunst ohne Kommission
+## Kunst ohne Kommission
 
 ![ARTlistic Gründer Sören Tänzer](/img/soeren-taenzer-artlistic.jpg 'ARTlistic Gründer Sören Tänzer')
 
@@ -38,7 +38,7 @@ Der Thüringer ist überrascht, als er über Nacht die ersten Anfragen von Inter
 
 Die großen Online-Portale und traditionellen Galerien verlangen für das Ausstellen von Kunst in der Regel Geld. Bei ARTlistic läuft das anders: Sören kauft die Bilder und kümmert sich anschließend um den Verkauf – ohne Umwege. Die Künstler⋆innen kommen auf diesem Weg direkt an ihren Verdienst.
 
-### ARTlistic soll jungen Künstler⋆innen als Sprungbrett dienen
+## ARTlistic soll jungen Künstler⋆innen als Sprungbrett dienen
 
 Sören möchte damit regionales Kulturgut unterstützen. Außerdem lautet seine persönliche Mission: Die Allerseits-Drucke in den Wohnzimmern durch Bilder talentierter Freizeitkünstler⋆innen zu ersetzen – weg vom Möbelhaus-Einheitsbrei hin zu mehr Individualität also. Viele der Maler⋆innen, mit denen er zusammenarbeitet, haben bisher noch keines ihrer Werke kommerziell vertrieben. Diesen Neulingen möchte er den Start in die Kunstwelt erleichtern. Er selbst kommentiert das so:
 
@@ -50,7 +50,7 @@ Derzeit ist ARtlistic noch ein kleines Start-up und daher natürlicherweise in s
 
 > "Die Künstler⋆innen haben natürlich die Wahl, mein Angebot anzunehmen oder abzulehnen. Wenn sie ihm zustimmen, schicken sie uns ihr Kunstwerk. Wir prüfen, ob die vor übersendeten Informationen und Bilder mit dem Original übereinstimmen. Im Anschluss überweisen wir sofort das Geld.
 
-### Unkomplizierter Versand
+## Unkomplizierter Versand
 
 Im Moment beträgt die Zeitspanne zwischen dem ersten Kontakt und dem Moment, in dem das Geld bei einem⋆Maler⋆in angekommen ist rund zehn Tage. Denn natürlich spielt es unter anderem auch eine Rolle, wie schnell sich der Paketdienst um den Transport kümmert.
 

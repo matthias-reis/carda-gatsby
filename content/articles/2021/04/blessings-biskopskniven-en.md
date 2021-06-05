@@ -39,7 +39,7 @@ languageLink: /2021/04/blessings-biskopskniven
 
 The first track is called "The Hound". It really gets under your skin – this is post-hardcore the way we love it. The vocals are building up to be cut by howling sounds shortly afterwards. A wild and exciting game begins – short and concise. The statement is crystal clear. The bright and hard guitar sounds mix with the ear-catching singing – from both directions and wonderfully accentuated in an exciting way. At some point, the tempo slows down to the minimum and finally suffocates in the decent chaos of the breakdown of the second song on the record "Strings Of Read".
 
-### "A Belly Full Of Stone"
+## "A Belly Full Of Stone"
 
 ![Blessings – "Biskopskniven"](/img/blessings-biskopskniven-cover.jpeg 'Blessings – "Biskopskniven"' "Blessings – \"Biskopskniven\"")
 

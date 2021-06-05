@@ -33,7 +33,7 @@ Gitarrist Andreas Hansen und Drummer Jonas Eriksson veröffentlichen ihre Musik 
 
 Der Opener "Blinds Drawn" ist klanglich erste Klasse und wartet gleich mal mit einem Mix aus gut gelaunter Leichtigkeit und getragener Düsternis auf.
 
-### Dimwind sprengen den Rahmen
+## Dimwind sprengen den Rahmen
 
 ![Dimwind – "Slow Wave Violence"](/img/dimwind-slow-wave-violence-record.jpg 'Dimwind – "Slow Wave Violence"')
 
@@ -43,7 +43,7 @@ Andreas und Jonas machen in verschiedenen Konstellationen seit den späten 1990e
 
 Was für ein Drive! Teilweise ist das Stück Bass-lastig und hart, dann wieder beflügelt und spielerisch. Die Einflüsse können genauso aus der Deftones Ecke wie auch aus der Cult of Luna Nische kommen. Höre ich da versteckte Keyboard Klänge? Wie wundervoll! Nach einer kurzen Entspannungspause bei Minute 4:50 gibt es nochmal voll drauf. Nach 7:57 kommt dann der Schlussakkord und ich fliege einfach weiter.
 
-### Dimwind sprechen eine melancholische Sprache
+## Dimwind sprechen eine melancholische Sprache
 
 Mit ihrem Duo-Projekt verfolgen die Göteborger einen Genre-übergreifenden Ansatz, was ihnen ganz hervorragend gelingt. Sie lassen die Grenzen zwischen Post-Rock und allen angrenzten Musikrichtungen verschwimmen und machen genau das, was ihnen selbst gut gefällt – mit sehr viel Herzblut und positiver Energie.
 
@@ -51,7 +51,7 @@ Mit ihrem Duo-Projekt verfolgen die Göteborger einen Genre-übergreifenden Ansa
 
 Der fünfte Song heißt "Håglös". Wer weiß, dass das soviel wie "hoffnungslos" bedeutet, kann sich ausmalen, um was es in dem Stück gehen könnte. Dimwind haben so viel Schmerz in den Song gepackt, so viel Verzweiflung und Schwere. Der atmosphärische Einstieg lässt es schon ein bisschen erahnen, doch in dem Moment, in dem sich die Wolkendecke hebt, bricht das Wetter über mich herein. Ein Spaziergang an einem menschenleeren Strand. Eiskalter Wind ist der einzige Begleiter.
 
-### "Slow Wave Violence" ist einzigartig
+## "Slow Wave Violence" ist einzigartig
 
 Auch hier sprengen Dimwind den Rahmen. Die eingängigen Harmonien liefern schöne Filmmusikzitate. Gefolgt wird der Song von "Pelagic Vim", das den sperrigen Post-Metal Kontrast zu seinem Vorgänger liefert. Auch hier sprechen Andreas und Jonas eine durchaus melancholische Sprache – allerdings auf eine ganz andere Art – spannend!
 
@@ -59,6 +59,6 @@ Auch hier sprengen Dimwind den Rahmen. Die eingängigen Harmonien liefern schön
 
 Zum Schluss wird es nochmal schwermetallisch. Das Duo spielt mit Disharmonie und bringt die Nacht Funken sprühend zum Glänzen. Der letzte Song "Broken Silver Chord" ist ein würdiger Ausklang eines wertvollen Musikschatzes, der hoffentlich bald weiter wächst. Ich bin auf jeden Fall schon sehr gespannt, wie es mit Dimwind weitergeht.
 
-### Dimwind – "False Awakening"
+## Dimwind – "False Awakening"
 
 <YouTube id="_xqEDC_rfjQ" />

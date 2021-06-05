@@ -6,43 +6,40 @@ typeName: Review
 title: Psychonaut & Sâver – "Emerald"
 subTitle: Die neue Pelagic Split-LP
 seoTitle: Psychonaut & Sâver – "Emerald" – die neue Pelagic Split-LP
-description: Psychonaut und Sâver haben sich zusammengetan. Das Ergebnis der Kollaboration
-  ist die Split-LP "Emerald", die auf Pelagic Records erscheint.
-excerpt: Psychonaut und Sâver haben sich zusammengetan. Das Ergebnis der Kollaboration
-  ist die Split-LP "Emerald", die auf Pelagic Records erscheint. Ich habe schon mal
-  reingehört und möchte Euch die Platte ans Herz legen.
-image: "/img/psychonaut-saver.jpg"
-ogImage: "/img/psychonaut-saver-fb.jpg"
+description: Psychonaut und Sâver haben sich zusammengetan. Das Ergebnis der Kollaboration ist die Split-LP "Emerald", die auf Pelagic Records erscheint.
+excerpt: Psychonaut und Sâver haben sich zusammengetan. Das Ergebnis der Kollaboration ist die Split-LP "Emerald", die auf Pelagic Records erscheint. Ich habe schon mal reingehört und möchte Euch die Platte ans Herz legen.
+image: '/img/psychonaut-saver.jpg'
+ogImage: '/img/psychonaut-saver-fb.jpg'
 labels:
-- Review
-- Bands
-- Doom
-- English & German
-- Hardcore
-- Mechelen
-- Metal
-- Oslo
-- Pelagic
-- Post-Metal
-- Post-Rock
-- Psychedelic
-- Review
-- Sâver
-- Sludge
-- Psychonaut
-- English & German
+  - Review
+  - Bands
+  - Doom
+  - English & German
+  - Hardcore
+  - Mechelen
+  - Metal
+  - Oslo
+  - Pelagic
+  - Post-Metal
+  - Post-Rock
+  - Psychedelic
+  - Review
+  - Sâver
+  - Sludge
+  - Psychonaut
+  - English & German
 focusKeyword: Psychonaut
 advertisement: false
 affiliate: false
 language: de
-languageLink: "/2021/05/psychonaut-saver-emerald-en"
-
+languageLink: '/2021/05/psychonaut-saver-emerald-en'
 ---
+
 **Am 14. Mai erscheint eine ganz besondere Split-LP bei Pelagic Records: Psychonaut und Sâver haben sich zusammengetan. Das Ergebnis der Kollaboration heißt "Emerald" – ich habe schon mal reingehört.**
 
 Die Zusammenarbeit der beiden Bands sorgt für spannende Reibung. Beide Projekte verbinden in ihren Songs Spiritualität mit Härte. Beide lassen ihre Tracks gerne zu Opern ausufern – 20 Minuten sind der Standard.
 
-### Psychonaut – "The Great Realisation"
+## Psychonaut – "The Great Realisation"
 
 ![Psychonaut](/img/1616079996.1290540695.jpg 'Psychonaut')
 
@@ -54,7 +51,7 @@ Psychonaut sind ein musikalisches Phänomen, das plötzlich auftauchte. Die Band
 
 Was spannend klingt, ist es auch. Der Song "The Great Realisation" kokettiert mit Geistern aus einer anderen Ära und tut dies auf angenehm lockere, keineswegs Patschuli-durchtränkte Art, wie man das bei dieser Art Musik vielleicht im ersten Moment vermuten könnte. Die insgesamt 16:31 sind ein sagenhafter Trip. Eine Reise ins Land der Eulen und Sagen – die dunkle Seite eines Smaragds, der von Sâver aus Oslo vervollständigt wird.
 
-### Sâver – "Dimensions Lost, Obscured By Aeons"
+## Sâver – "Dimensions Lost, Obscured By Aeons"
 
 ![Sâver](/img/1616079996.3731191158.jpg 'Sâver')
 

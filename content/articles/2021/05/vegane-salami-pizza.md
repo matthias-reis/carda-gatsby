@@ -30,7 +30,7 @@ languageLink: ''
 
 Pizza gibt es bei uns ziemlich regelmäßig spätestens alle zwei Wochen. Meistens machen wir dafür einen Hefeteig. Wenn es mal schnell gehen muss, ist der Teig aus der hier verwendeten Backmischung eine schöne Alternative.
 
-### Für die vegane Salami-Pizza braucht Ihr folgende Zutaten:
+## Für die vegane Salami-Pizza braucht Ihr folgende Zutaten:
 
 - Pizzateig (z. B. die Backmischung "classic hell" von Bauckhof)
 - 1 kleine Zwiebel
@@ -48,7 +48,7 @@ Pizza gibt es bei uns ziemlich regelmäßig spätestens alle zwei Wochen. Meiste
 
 <Gallery name="vegane-salami-pizza-1" />
 
-### So bereitet Ihr die vegane Salami-Pizza zu
+## So bereitet Ihr die vegane Salami-Pizza zu
 
 Gebt die Backmischung in eine Rührschüssel und rührt mit einem Löffel das Wasser und das Pflanzenöl unter. Mischt alles gut mit dem Löffel und knetet den Teig anschließend auf der bemehlten Arbeitsfläche gut durch. Ihr könnt natürlich auch ein Handrührgerät mit Knethaken verwenden.
 
@@ -56,7 +56,7 @@ Heizt den Backofen auf 250 Grad vor und belegt ein Backblech mit Backpapier. Dar
 
 Stellt Eure vegane Salami-Pizza in den vorgeheizten Ofen und stellt einen Timer auf zehn Minuten. Danach sollte sie fertig sein. Ihr könnt sie auch bei 200 Grad 15 Minuten lang backen, falls Euer Herd keine 250 Grad schafft. Bei Pizza gilt jedoch: Je heißer, desto knuspriger. Guten Appetit!
 
-### Mein Fazit
+## Mein Fazit
 
 Der Teig von Bauckhof ist wirklich super. Er ist super knusprig geworden und war mal eine schöne Abwechslung zu unserem gewohnten [Hefeteig](/2021/01/hefe-ist-vegan/). Ich würde ihn auf jeden Fall wieder verwenden.
 
@@ -64,7 +64,7 @@ Die Beddarella von Bedda kannte ich tatsächlich noch nicht und war angenehm üb
 
 Auch die tolle Salami-Alternative Sim Sala Mi von Vantastic war für mich neu und hat mir besonders gut geschmeckt. Sie ist super gewürzt und nicht zu salzig - genau das Richtige für eine Pizza.
 
-### Ein gelungener Pizza-Abend
+## Ein gelungener Pizza-Abend
 
 Die "Gemüseparty" fand ich auch super. Ich empfehle Euch, sie mit etwas Salz und Chiliflocken abzuschmecken, wenn Ihr es etwas Herzhafter mögt. Insgesamt hatten wir ein schönes Pizzaerlebnis (das wir übrigens zwei Tage später gleich nochmal wiederholt haben. Es war einfach zuuu lecker).
 

@@ -1,11 +1,11 @@
 ---
 date: 2021-05-23T15:48:42+02:00
 labels:
-- Wald
-- " Achtsamkeit"
-- Achtsamkeits-Wandern
-- Achtsamkeits-Spaziergang
-- Meditation
+  - Wald
+  - ' Achtsamkeit'
+  - Achtsamkeits-Wandern
+  - Achtsamkeits-Spaziergang
+  - Meditation
 language: de
 slug: den-wald-erleben
 typeName: ''
@@ -13,20 +13,17 @@ title: Den Wald erleben
 subTitle: Das passiert an einem Tag in der Natur
 seoTitle: Den Wald erleben – das passiert an einem Tag in der Natur
 ogTitle: ''
-description: Den Wald erleben – mit allen Sinnen vom Morgen bis in die Dämmerung.
-  All seine Bewohner, die Pflanzen, die frische Luft genießen.
-excerpt: Den Wald erleben – mit allen Sinnen vom Morgen bis in die Dämmerung. All
-  seine Bewohner, die Pflanzen, die frische Luft, den Tau auf den Blättern, das plätschernde
-  Wasser in seinen Bachläufen genießen und das alles für möglichst lange Zeit abspeichern.
-image: "/img/2021-05-14-wohldorfer-wald-39.jpg"
+description: Den Wald erleben – mit allen Sinnen vom Morgen bis in die Dämmerung. All seine Bewohner, die Pflanzen, die frische Luft genießen.
+excerpt: Den Wald erleben – mit allen Sinnen vom Morgen bis in die Dämmerung. All seine Bewohner, die Pflanzen, die frische Luft, den Tau auf den Blättern, das plätschernde Wasser in seinen Bachläufen genießen und das alles für möglichst lange Zeit abspeichern.
+image: '/img/2021-05-14-wohldorfer-wald-39.jpg'
 copyright: ''
-ogImage: "/img/wald-erleben.jpg"
+ogImage: '/img/wald-erleben.jpg'
 focusKeyword: Den Wald erleben
 advertisement: false
 affiliate: false
 languageLink: ''
-
 ---
+
 ## Das passiert an einem Tag in der Natur
 
 **Den Wald erleben – mit allen Sinnen vom Morgen bis in die Dämmerung. All seine Bewohner, die Pflanzen, die frische Luft, den Tau auf den Blättern, das plätschernde Wasser in seinen Bachläufen genießen und das alles für möglichst lange Zeit abspeichern. Ein Tag in der Natur ist etwas Wertvolles und seine Wirkung sollte man niemals unterschätzen.**
@@ -35,7 +32,7 @@ Wandern und Spazieren macht glücklich. Den Wald erleben wir auf ganz andere Art
 
 Der Waldboden federt unsere Schritte ab und duftet angenehm. Das Zwitschern der Vögel in den Bäumen begleitet uns auf unserem Weg. Pilze und Beeren sorgen für kleine Farbkleckse im satten Grün der Bäume und Büsche. Alles lebt und folgt dem Puls des Waldes. Eichhörnchen toben in schwindelerregender Höhe durch die Äste und scheue Mäuse und Igel rascheln im Gebüsch. Die Vielfalt scheint endlos und regt die Fantasie nachweisbar an. Wer sich weiterbilden möchte, nimmt ein Naturbuch mit und bestimmt die Arten, die den Weg durch den Wald säumen.
 
-### Den Wald erleben und genießen
+## Den Wald erleben und genießen
 
 Vielleicht habt Ihr ja sogar Lust, zwischendurch eine kleine Meditations-Pause einzulegen? Nur zehn Minuten vollständige Entspannung vor den natürlichen Hintergrundgeräuschen des Waldes können das Äquivalent für eine komplette Stunde Tiefschlaf sein. Wenn Ihr Lust auf ein kleines Abenteuer habt, lasst Euch mal darauf ein, wirklich alle Sinne der Natur zu widmen.
 
@@ -43,7 +40,7 @@ Setzt Euch in die U-Bahn oder den Bus und fahrt bis zur Endhaltestelle. Beim let
 
 Zieht Euch etwas Bequemes an, damit Ihr so viel Zeit, wie Ihr wollt, draußen verbringen könnt, ohne, dass etwas zwickt oder zwackt. Atmet ganz bewusst und genießt die Stille. Ein Tag im Wald kann Euch Kraft und neuen Mut geben aber auch zum Beispiel endlich mal die Gelegenheit bieten, Euren Tränen freien Lauf zu lassen – weinen befreit ja bekanntlich.
 
-### Einfach mal im grünen Meer treiben lassen
+## Einfach mal im grünen Meer treiben lassen
 
 Markiert Euren Ausgangsort und das Ziel, das Ihr erreichen wollt auf einer Karte. Vielleicht benutzt Ihr ein Wanderbuch. Meins ist zum Beispiel schön handlich, es passt sogar in die Hosentasche und ist trotzdem mit übersichtlichen Karten ausgestattet. Und dann lasst Euch einfach treiben. Taucht in das grüne frische Meer ein und ladet Eure Akkus wieder ein bisschen auf.
 
@@ -51,7 +48,7 @@ Klar können auch Fitness-Übungen vor dem Fernseher oder noch besser im Park un
 
 Was wunderbar ist: Schon nach fünf Minuten im Wald steigert sich die Laune merklich und man fühlt sich einfach schon viel frischer. Was uns da draußen so glücklich macht, ist wohl eine Mischung aus frischer Luft und Beschwingtheit. Dazu kommt dann natürlich auch noch der Stolz, dass man sich die Zeit genommen hat und sich mit seinem Hintern in die Natur begeben hat. Raus aus dem Großstadt/Vorort/Dorf-Mief – den Wald erleben.
 
-### Verspannungen lösen und den Kopf freikriegen
+## Verspannungen lösen und den Kopf freikriegen
 
 Und der Körper freut sich auch: Wenn Ihr manchmal Nackenschmerzen habt oder Euch schon die Hände vom vielen Tippen wehtun, kann ein Tag im nächsten Wald genau das Richtige für Euch sein. Wenn wir gehen, entspannen wir ganz automatisch unsere Nerven, Muskeln und Sehnen. Das kann Verspannungen auflösen und Schmerzen vorbeugen. Außerdem senken wir mit Spazierengehen den Blutdruck und auch der Stress nimmt messbar ab.
 
@@ -59,7 +56,7 @@ Das kann man sogar sehen, wenn man eine Pulsuhr trägt. Der positive Effekt kann
 
 Wer den Kreislauf und die Fantasie mit Ausflügen in den Wald regelmäßig anregt, kann im besten Fall ernsthafte Erkrankungen vermeiden. Dazu wurden schon die verschiedensten Studien veröffentlicht. Immer mehr Psychiater⋆innen schwören inzwischen auf die Wirkung der Natur auf die Psyche. Sie bauen in die Therapie ihrer Patient⋆innen, die z. B. unter Depressionen und oder Angststörungen leiden, regelmäßige Berührungspunkte mit der Natur ein. Auch in der Trauerbegleitung und Burnout-Behandlung findet die Naturtherapie Einsatz.
 
-### Einfach mal raus in die Natur
+## Einfach mal raus in die Natur
 
 "Waldbaden" soll zum Beispiel nicht nur gut für das Immunsystem sein, sondern auch beim Abbau von Reizüberflutung und Nervosität helfen. Kein Wunder – wo fühlt Ihr Euch freier und unbeschwerter, als im Wald (ok, vielleicht noch am Strand).
 

@@ -34,7 +34,7 @@ languageLink: '/2021/05/align-in-time-interview'
 
 **Anne:** What inspired you when you recorded "On A Spiral"?
 
-### "So many things have changed"
+## "So many things have changed"
 
 **![Align in Time – "Men Without Chests & I Go Too" (Acoustic)](/img/2021-05-align-in-time-1.jpg 'Align in Time – "Men Without Chests & I Go Too" (Acoustic)')John:** Both of my albums are biographical, though not literally. When they look at their lives, I think many people have certain moments that stand out, and interpreting those moments as part of a story with themes helps you process and make sense of what led you to become who you are today. That's the basis for my music and why musical motifs reappear across both albums. It's that process of remembering and reinterpreting and reimagining what could come next.
 
@@ -44,7 +44,7 @@ languageLink: '/2021/05/align-in-time-interview'
 
 **Anne:** Is Align In Time a one-person project? Or are there musicians you are teaming up with? Are there any that you would like to mention in particular?
 
-### "I worked with Bryan Russel and Mike Kalajian"
+## "I worked with Bryan Russel and Mike Kalajian"
 
 **John:** I write all the music alone, but I wouldn't get very far without all the people who help record it. Bryan Russell (Volbeat, Twin Forks, Envy on the Coast) produced and Mike Kalajian (Circa Survive, A Day to Remember, Saves the Day) mastered both albums. Tyler Mahurin recorded the drum parts for "On a Spiral" and Jesse Hangen for "Me & My Arrow". For my new acoustic EP, a couple of additional people were involved. My cousin Russell Gutterson recorded mandolin, Danyal Ince recorded drums, and Michael Grant recorded clarinet.
 
@@ -58,7 +58,7 @@ languageLink: '/2021/05/align-in-time-interview'
 
 **Anne:** What is so special about post-rock. Why are we so fascinated about it?
 
-### "The periphery of the post-rock scene is exciting"
+## "The periphery of the post-rock scene is exciting"
 
 **John:** I think the most exciting post-rock is on the periphery of the scene, sort of deconstructing other genres into a form of instrumental storytelling rather than fitting the traditional definition or sound of post-rock. Artists like These New Puritans or Plini don't get labelled "post-rock," but I think they're playing in the same space, reassembling the components of rock into something new —which I guess is where the genre came from in the first place. It also excites me to hear bands take what's best about post-rock and re-contextualize it, like Caracara's "Better" or The Wildlife's "I Lost You."
 
@@ -68,7 +68,7 @@ languageLink: '/2021/05/align-in-time-interview'
 
 **Anne:** If you would be writing the story of the world and everyone who lives on our planet. How would it start, and where would it end?
 
-### "The story of the world should be written by all of us together"
+## "The story of the world should be written by all of us together"
 
 **John:** Wow, that's a tough one. I have neither the skill nor hubris to assume I could write that story. So I guess I'd want it to be a story written collaboratively, with every person contributing. It'd start with the collapsing world we have today and point us to an end that's equitable, comfortable, and fulfilling for all, while we're here.
 
@@ -122,6 +122,6 @@ But you should definitely also give a listen to his first work called "Me &amp; 
 
 The acoustic versions of the Align in Time songs "A Men Without Chests" and "I Go Too" sound completely different from those on "Me &amp; My Arrow" and "On A Spiral" - in a fascinating way. I recommend you to listen to both versions of the songs. Please enjoy this delightful experience – It takes me back in time and reminds me of the Goo Goo Dolls pretty much.
 
-### Align in Time – "Men Without Chests" (Acoustic Version)
+## Align in Time – "Men Without Chests" (Acoustic Version)
 
 <YouTube id="ubL5w8QCgw4" />

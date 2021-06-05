@@ -60,7 +60,7 @@ Zurück zur Bodenpatenschaft. In der ersten Saison bekommt Ihr Euren Ernteanteil
 
 Silvia und David wollen mit dem Bodenpaten-Projekt einen neuen Weg einschlagen. Sie wünschen sich, als Produzent⋆innen in direkter Verbindung zu ihren Endverbraucher⋆innen zu stehen. Zwischenhandel gibt es keinen.
 
-### Die Bodenpatenschaft läuft ein Jahr
+## Die Bodenpatenschaft läuft ein Jahr
 
 Wenn Ihr eine Patenschaft abschließt, verpflichtet Ihr Euch immer lediglich für ein Jahr. Ob Ihr danach wieder eine eingehen möchtet, entscheidet alleine Ihr. Genauso funktioniert das bei den Baumpatenschaften auch.
 

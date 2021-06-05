@@ -1,32 +1,32 @@
 ---
 date: 2021-05-25T17:43:42+02:00
 labels:
-- Bands
-- " Musikliste"
-- " Playlist"
-- Kauan
-- Wander
-- Post-Metal
-- Post-Rock
-- Doom
-- Metal
-- Industrial
-- Experimental
-- Ambient
-- Scale & Feather
-- Nine Inch Nails
-- Health
-- Health & Nine Inch Nails
-- Crippled Black Phoenix
-- Year Of No Light
-- Amenra
-- Bossk
-- Gojira
-- Avy Kaplan
-- Twenty One Pilots
-- Motorpsycho
-- Drone
-- Instrumental
+  - Bands
+  - ' Musikliste'
+  - ' Playlist'
+  - Kauan
+  - Wander
+  - Post-Metal
+  - Post-Rock
+  - Doom
+  - Metal
+  - Industrial
+  - Experimental
+  - Ambient
+  - Scale & Feather
+  - Nine Inch Nails
+  - Health
+  - Health & Nine Inch Nails
+  - Crippled Black Phoenix
+  - Year Of No Light
+  - Amenra
+  - Bossk
+  - Gojira
+  - Avy Kaplan
+  - Twenty One Pilots
+  - Motorpsycho
+  - Drone
+  - Instrumental
 language: de
 slug: musikliste-juni-2021
 typeName: ''
@@ -34,46 +34,57 @@ title: Musikliste Juni
 subTitle: Von eisig bis dornig
 seoTitle: Musikliste für den Juni – von eisig bis dorning – Post-Rock bis Prog
 ogTitle: ''
-description: Die Musikliste, die wir diesen Monat für Euch selektiert haben, hat es
-  in sich. von Post-Rock bis Prog wird es dieses Mal eisig bis dornig.
-excerpt: Die Musikliste, die wir diesen Monat für Euch vorbereitet haben, hat es in
-  sich. von Post-Rock bis Prog wird es dieses Mal eisig bis dornig. Natürlich gibt
-  es auch wieder Videos und Playlists für Spotify und iTunes für Euch. Viel Spaß mit
-  der Musik!
-image: "/img/12-songs-juni-blog.jpg"
+description: Die Musikliste, die wir diesen Monat für Euch selektiert haben, hat es in sich. von Post-Rock bis Prog wird es dieses Mal eisig bis dornig.
+excerpt: Die Musikliste, die wir diesen Monat für Euch vorbereitet haben, hat es in sich. von Post-Rock bis Prog wird es dieses Mal eisig bis dornig. Natürlich gibt es auch wieder Videos und Playlists für Spotify und iTunes für Euch. Viel Spaß mit der Musik!
+image: '/img/12-songs-juni-blog.jpg'
 copyright: ''
-ogImage: "/img/12-songs-juni-fb.jpg"
+ogImage: '/img/12-songs-juni-fb.jpg'
 focusKeyword: Musikliste
 advertisement: false
 affiliate: false
 languageLink: ''
-
 ---
+
 **Die Musikliste, die wir diesen Monat für Euch vorbereitet haben, hat es in sich. Mit dabei sind einige besonders hochwertige Post-Rock Stücke und mal wieder mehr "hartes Zeug".**
 
 Draußen fangen die Rosen an, die ersten Dornen des Jahres auszubilden, während es weiter fröhlich stürmt und hagelt. Da passen die Stücke von Kauan ("Taistelu" vom Album "Ice Fleet"), Amenra ("De Evenmens", Vorauskopplung vom Album "De Doorn") und Twenty One Pilots ("Choker", Vorauskopplung vom Album "Scaled And Icy") thematisch besonders gut. Aber wir haben noch mehr Highlights für Euch.
 
 Wie immer haben wir uns beim Platten Selektieren in allen Genres bedient. Alle Empfehlungen sind wie immer mit Hörproben ausgestattet und ganz unten findet Ihr wie immer die gesamte Playlist zum komplett Hören bei Spotify und iTunes. Und jetzt viel Spaß mit der Musik.
 
-### Kauan – "Taistelu" vom Album "Ice Fleet"
+## Kauan – "Taistelu" vom Album "Ice Fleet"
 
 Kauan haben sich bereits 2005 gegründet. Seitdem ist die Band aus dem estnischen Tallinn ihrem fabelhaften Stil, der Ambient mit Doom und progressivem Post-Rock verbindet, treu geblieben. Gleichzeitig haben sie sich hörbar weiterentwickelt. Das neue Album "Ice Fleet" ist ein großer Hörgenuss, den ich in seiner Gesamtheit empfehlen kann. "Taistelu" ist, denke ich, ein ziemlich guter Einstieg.
 
 <YouTube id="b7lg_WleTBo" />
 
-### Wander – "Unwind" (Vorauskopplung vom Album "Home")
+## Wander – "Unwind" (Vorauskopplung vom Album "Home")
 
 Das wunderbare neue Album "Beyond" von Wander erscheint schon bald auf Vinyl. Vorbestellungen werden ab sofort angenommen. Ich habe für Euch die traumhafte Vorauskopplung "Unwind" selektiert, die ganz bestimmt Lust auf mehr macht. Wenn Ihr noch mehr Beispiele hören wollt, bevor Ihr Euch die Platte komplett holt, empfehle ich Euch auch die Split LP mit Young Lovers von 2018 und das offizielle Debüt-Album "March" von 2019 mal in Augenschein zu nehmen. Die digitalen Versionen findet Ihr unter anderem bei Spotify.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1899734672/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless=""><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><a href="https://wanderband.bandcamp.com/album/home-pre-order">Home \[PRE-ORDER\] by Wander</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=1899734672/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless=""
+>
+  <span
+    data-mce-type="bookmark"
+    style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;"
+    class="mce_SELRES_start"
+  >
+    ﻿
+  </span>
+  <a href="https://wanderband.bandcamp.com/album/home-pre-order">
+    Home \[PRE-ORDER\] by Wander
+  </a>
+</iframe>
 
-### Scale & Feather "Day Unto Night" (Single)
+## Scale & Feather "Day Unto Night" (Single)
 
 Wer es progressiv und experimentell mag, könnte in Scale & Feather ein neues Lieblingsprojekt entdecken. Natürlich nur, falls die Band aus Tucson, Arizona zu Euren Neuentdeckungen zählt, die gibt es nämlich schon länger. Die Single "Day Unto Night" ist allerdings brandneu – hören lohnt sich!
 
 <YouTube id="xceCMLKKOXg" />
 
-### Health + Nine Inch Nails – "Isn't Everyone" (Single)
+## Health + Nine Inch Nails – "Isn't Everyone" (Single)
 
 Valentin:
 
@@ -81,7 +92,7 @@ Valentin:
 
 <YouTube id="6W2E6jNXzBE" />
 
-### Crippled Black Phoenix – "Painful Reminder" (Single)
+## Crippled Black Phoenix – "Painful Reminder" (Single)
 
 Matze:
 
@@ -91,19 +102,19 @@ Matze:
 
 <YouTube id="K2ABZn5Wkcs" />
 
-### Year Of No Light – "Réalgar" (Vorauskopplung vom Album "Consolamentum")
+## Year Of No Light – "Réalgar" (Vorauskopplung vom Album "Consolamentum")
 
 > "Anne hat zwar schon so ziemlich [alles Wissenswerte zu dieser Platte in einem eigenen Artikel zusammengefasst](/2021/05/year-of-no-light-consolamentum/). Mir war es trotzdem wichtig, dass dieses Meisterwerk auf unserer Liste erscheint und habe dem Post-Metal-Stück mit den vielen Stimmungen einen meiner vier Plätze überlassen. Leider war ich schon zu spät für die spektakuläre rote Erstpressung der LP – das wäre ein echtes Highlight in der Vinylsammlung gewesen."
 
 <YouTube id="mjbZJLA4LaM" />
 
-### Amenra – "De Evenmens" (Vorauskopplung vom Album "De Doorn")
+## Amenra – "De Evenmens" (Vorauskopplung vom Album "De Doorn")
 
 Das neue Album von Amenra wird dornig. Soviel lässt sich aus dem bereits veröffentlichten Titel und dem ziemlich gelungenen Cover-Bild ableiten. Die erste Auskopplung "De Evenmens" ist schon mal ziemlich klasse. Ich liebe die Mischung aus Gesang (auf belgisch) und Gebrüll und die Stimmung ist wieder schön magisch und düster. Da fällt es einem richtig schwer, noch bis zum 25. Juni zu warten – so lange dauert es noch, bis "De Dorn" komplett enthüllt wird.
 
 <YouTube id="dEI5tJDD2fc" />
 
-### Bossk – "Menhir" (Single)
+## Bossk – "Menhir" (Single)
 
 Valentin:
 
@@ -111,7 +122,7 @@ Valentin:
 
 <YouTube id="AbtM-UzeYPI" />
 
-### Gojira – "Grind" vom Album "Fortitude"
+## Gojira – "Grind" vom Album "Fortitude"
 
 Matze:
 
@@ -119,7 +130,7 @@ Matze:
 
 <YouTube id="A77sFIxiRQ0" />
 
-### Avi Kaplan – "Change On The Rise" vom "Resident Alien" Soundtrack
+## Avi Kaplan – "Change On The Rise" vom "Resident Alien" Soundtrack
 
 Valentin:
 
@@ -127,7 +138,7 @@ Valentin:
 
 <YouTube id="382BTxLNrow" />
 
-### Twenty One Pilots – "Choker" (Vorauskopplung vom Album "Scaled And Icy")
+## Twenty One Pilots – "Choker" (Vorauskopplung vom Album "Scaled And Icy")
 
 Valentin
 
@@ -135,7 +146,7 @@ Valentin
 
 <YouTube id="2sBRnnnZyFw" />
 
-### Motorpsycho – At Empire's End vom Album "Kingdom Of Oblivion"
+## Motorpsycho – At Empire's End vom Album "Kingdom Of Oblivion"
 
 Matze:
 

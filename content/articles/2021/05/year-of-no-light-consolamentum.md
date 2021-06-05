@@ -1,15 +1,15 @@
 ---
 date: 2021-05-18T08:07:00.000+02:00
 labels:
-- australian post-rock
-- " post-rock"
-- Year Of No Light
-- Review
-- Bands
-- Drone
-- Pelagic
-- Post-Metal
-- English & German
+  - australian post-rock
+  - ' post-rock'
+  - Year Of No Light
+  - Review
+  - Bands
+  - Drone
+  - Pelagic
+  - Post-Metal
+  - English & German
 language: de
 slug: year-of-no-light-consolamentum
 typeName: Review
@@ -17,27 +17,23 @@ title: Year Of No Light – "Consolamentum"
 subTitle: Geschichten aus der Dunkelheit
 seoTitle: Year of No Light – "Consolamentum" – Rock 'n Roll vegan Review
 ogTitle: ''
-description: Year of No Light haben ihr neues Album fertig! "Consolamentum" erscheint
-  diesen Sommer. Ich hatte schon Gelegenheit, es zu hören.
-excerpt: 'Year Of No Light haben ihr neues Album fertig! "Consolamentum" wird diesen
-  Sommer erscheinen. Ich hatte die Gelegenheit, es schon zu hören und muss sagen:
-  Die Platte ist etwas Besonderes. Die Aufnahme in Eure Sammlung solltet Ihr unbedingt
-  in Erwägung ziehen.'
-image: "/img/year-of-no-light.jpg"
-ogImage: "/img/year-of-no-light-fb.png"
+description: Year of No Light haben ihr neues Album fertig! "Consolamentum" erscheint diesen Sommer. Ich hatte schon Gelegenheit, es zu hören.
+excerpt: 'Year Of No Light haben ihr neues Album fertig! "Consolamentum" wird diesen Sommer erscheinen. Ich hatte die Gelegenheit, es schon zu hören und muss sagen: Die Platte ist etwas Besonderes. Die Aufnahme in Eure Sammlung solltet Ihr unbedingt in Erwägung ziehen.'
+image: '/img/year-of-no-light.jpg'
+ogImage: '/img/year-of-no-light-fb.png'
 focusKeyword: Year Of No Light
 advertisement: false
 affiliate: false
-languageLink: "/year-of-no-light-consolamentum-en"
-
+languageLink: '/year-of-no-light-consolamentum-en'
 ---
+
 **Year Of No Light haben ihr neues Album fertig! "Consolamentum" wird diesen Sommer erscheinen. Ich hatte die Gelegenheit, es schon zu hören und muss sagen: Die Platte ist etwas Besonderes. Die Aufnahme in Eure Sammlung solltet Ihr unbedingt in Erwägung ziehen.**
 
 Das Album startet mit dem düsteren Opener "Objuration". Er lässt mich tief hinuntersteigen in eine finstere Höhle. Nur ein kleiner Hauch Licht fällt durch einen Riss zu mir hinunter. Das Stück hält einige überraschende Wendungen für mich bereit. Insgesamt überzeugt es durch einen sagenhaften Mix aus Härte, Verspieltheit und Präzision. Mit 12:47 Minuten ein gehaltvoller Opener. Ich will sofort mehr hören.
 
 Der zweite Song auf der Platte trägt den Namen "Alétheia". Nach einem zarten Intro schraubt er sich genau wie "Objuration" immer weiter hoch und zieht mich immer weiter hinein in die dunkle Fantasiewelt von Year Of No Light. Das Stück bildet die perfekte Bridge zum nächsten großen Highlight der Platte. Die Spannung steigert sich ins schier Unermessliche. Gitarre über Gitarre schichtet sich auf zu einem knallharten Gesamtkunstwerk.
 
-### Year Of No Light zeigen, was Düsternis ist
+## Year Of No Light zeigen, was Düsternis ist
 
 "Interdit aux Vivants, aux Morts et aux Chiens" ("Verboten für die Lebenden, die Toten und die Hunde") – was mit diesem Namen gemeint ist, kann ich nur vage vermuten. Das Stück geht nachdenklich und getragen los und entwickelt sich zu einem 11:11-minütigen Wirbel der Gezeiten.
 
@@ -45,7 +41,7 @@ Das Oscar-reife Video zu Réalgar müsst Ihr gesehen haben. Doch das Stück ist 
 
 "Came" ist das letzte der insgesamt fünf Stücke und ein absolut würdiger Abschluss für ein derart geniales Album. Elektrisch, wie statisch aufgeladen wirkt das Stück. Der schleppende Rhythmus hat etwas Hypnotisches. Bester Drone Sound, schwer über allem schwebend. Spätestens jetzt kocht das Blut.
 
-### Die komplette Year Of No Light Diskografie in einer Holzbox
+## Die komplette Year Of No Light Diskografie in einer Holzbox
 
 ![Year Of No Light](/img/year-of-no-light-3.png)
 
@@ -55,7 +51,7 @@ Year Of No Light sind schon immer vom Fall der Menschheit und der Erlösung durc
 
 Was mystisch klingt, passt perfekt zu der von Year Of No Light komponierten Oper des 21. Jahrhunderts. Die Band selbst beschreibt das so:
 
-### Die Band erzählt eine Geschichte
+## Die Band erzählt eine Geschichte
 
 > "Es gibt einen roten Faden, der sich durch all unsere Alben zieht. Eine Erkundung der sensiblen Welt, die einem bestimmten Telos gehorcht, erst phantasiert ("Nord") und nachhallend ("Außerwelt"), dann als Warnung deklamiert ("Tocsin"). Je tiefer wir graben, desto mehr kommen die Motive zum Vorschein, die es zu enthüllen gilt. Ja, es ist ein bisschen gnostisch. Dieses Album wird nach dem Tocsin beschworen, es ist die Epiphanie des Falls"
 
@@ -63,7 +59,7 @@ Bei der Umsetzung Ihrer Kunst haben Year Of No Light schon immer großen Wert au
 
 Hinter der Liebe für bewegte Bilder steckt das persönliche Interesse der Bandmitglieder am historischen Kino. Das führte unter anderem 2013 zur Produktion eines beeindruckenden Soundtracks für C. T. Dreyer's Film "Vampir" aus dem Jahr 1932. Einen weiteren Soundtrack nahmen die Franzosen für Jeans Rouchs Film "Les Maîtres Fous" auf, den sie im Pariser Musée du Quai Branly live performenten.
 
-### "Consolamentum" steht für musikalische Hingabe
+## "Consolamentum" steht für musikalische Hingabe
 
 ![Year Of No Light | small](/img/year-of-no-light-1.jpeg)
 
@@ -75,7 +71,7 @@ Genau danach klingt für mich "Consolamentum". Das Album wird bei mir in Zukunft
 
 "Consolamentum"von Year Of No Light erscheint am 2. Juni 2021.
 
-### Year Of No Light - Réalgar (Roadburn Redux)
+## Year Of No Light - Réalgar (Roadburn Redux)
 
 <Vimeo id="535768352" />
 

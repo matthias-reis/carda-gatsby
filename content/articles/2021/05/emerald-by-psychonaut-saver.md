@@ -6,45 +6,40 @@ typeName: Review
 title: '"Emerald" by Psychonaut & Sâver'
 subTitle: The new Pelagic split LP
 seoTitle: Psychonaut & Sâver – "Emerald" – The new Pelagic split LP
-description: Psychonaut and Sâver have joined forces to release an excellent split
-  LP on Pelagic Records on May 14th. The result of their collaboration is called "Emerald"
-  – I’ve already had a listen.
-excerpt: 'Psychonaut and Sâver have joined forces to release an excellent split LP
-  on Pelagic Records on May 14th. The result of their collaboration is called "Emerald"
-  – I''ve already had a listen, and I have to admit: The cooperation of the two bands
-  delivers some exciting friction.'
-image: "/img/psychonaut-saver.jpg"
-ogImage: "/img/psychonaut-saver-fb.jpg"
+description: Psychonaut and Sâver have joined forces to release an excellent split LP on Pelagic Records on May 14th. The result of their collaboration is called "Emerald" – I’ve already had a listen.
+excerpt: 'Psychonaut and Sâver have joined forces to release an excellent split LP on Pelagic Records on May 14th. The result of their collaboration is called "Emerald" – I''ve already had a listen, and I have to admit: The cooperation of the two bands delivers some exciting friction.'
+image: '/img/psychonaut-saver.jpg'
+ogImage: '/img/psychonaut-saver-fb.jpg'
 labels:
-- Review
-- Bands
-- Doom
-- English & German
-- Hardcore
-- Mechelen
-- Metal
-- Oslo
-- Pelagic
-- Post-Metal
-- Post-Rock
-- Psychedelic
-- Review
-- Sâver
-- Sludge
-- Psychonaut
-- English & German
+  - Review
+  - Bands
+  - Doom
+  - English & German
+  - Hardcore
+  - Mechelen
+  - Metal
+  - Oslo
+  - Pelagic
+  - Post-Metal
+  - Post-Rock
+  - Psychedelic
+  - Review
+  - Sâver
+  - Sludge
+  - Psychonaut
+  - English & German
 focusKeyword: Psychonaut
 advertisement: false
 affiliate: false
 language: en
-languageLink: "/2021/05/psychonaut-saver-emerald"
-
+languageLink: '/2021/05/psychonaut-saver-emerald'
 ---
+
 **Psychonaut and Sâver have joined forces to release an excellent split LP on Pelagic Records on May 14th. The result of their collaboration is called "Emerald" - I've already had a listen.**
 
 The collaboration of the two bands delivers some exciting friction. Both projects are combining spirituality with heaviness in their songs. Both like to let their tracks escalate into operas - 20 minutes seems to be the standard.
 
-### Psychonaut - "The Great Realisation
+## Psychonaut - "The Great Realisation
 
 ![Psychonaut](/img/1616079996.1290540695.jpg 'Psychonaut')
 
@@ -56,7 +51,7 @@ Psychonaut are a musical phenomenon that suddenly appeared. The band from Mechel
 
 What sounds exciting is exciting. The song "The Great Realisation" flirts with ghosts from another era and does so in a pleasantly relaxed, not at all patchouli-soaked way, as one might assume at first glance with this kind of music. With its total of 16:31, it is a fabulous trip. The track is a journey into the land of owls and fairytales – the dark side of an emerald, completed by Sâver from Oslo.
 
-### Sâver - "Dimensions Lost, Obscured By Aeons"
+## Sâver - "Dimensions Lost, Obscured By Aeons"
 
 ![Sâver](/img/1616079996.3731191158.jpg 'Sâver')
 
