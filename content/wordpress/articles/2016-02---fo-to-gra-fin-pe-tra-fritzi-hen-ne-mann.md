@@ -207,7 +207,7 @@ Kommen wir lieber wieder zu etwas Schönem. Welcher Song sollte unbedingt auf je
 
 **Anne:** Dann haben Matze und ich ja alles richtig gemacht! Das freut mich!
 
-Fotos, Musik, Blumen, Hochzeitsblog [<sup>1</sup>](#1), Torte, Kleid, Schuhe, Haare, Make-up, Getränke, die Liste der Dinge, die auf einer Hochzeit organisiert werden müssen, ist schier endlos. Was ist für Dich das Wichtigste?
+Fotos, Musik, Blumen, Hochzeitsblog[^1], Torte, Kleid, Schuhe, Haare, Make-up, Getränke, die Liste der Dinge, die auf einer Hochzeit organisiert werden müssen, ist schier endlos. Was ist für Dich das Wichtigste?
 
 <RemoteImage
   alt={`Hochzeitsfotografin`}
@@ -289,7 +289,7 @@ Von der Torte, Papeterie, Blumen, über die Suche nach einem geeigneten Prinzen,
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QAKBAAAQIFAwMEAwAAAAAAAAAAAQIDAAQFERIGITFBUYEHIjJhEyPR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMBBQb/xAAdEQACAwACAwAAAAAAAAAAAAABAgADEQQSEzFR/9oADAMBAAIRAxEAPwDc9Pa8oVWobM5IOOXKLqlyn3tnsrp5F4kp1BMfmT7GlBTZcKVHHAdz2HHO8Y7RdJVeRxu1MSgUPglISL25sTv4hoVSarK0p11ynvvuITlglSUJcPbI8E/fXaHp4yNMSxfcEdXtZy7TaiuVWVDgpeTirvYnfpttFDrD1Kp0lTnBISy5maCMsXSEpb3sMrG5PWwt4ipm6LOJzQZd1CknlZT42vtCDqXS86WnLISpOWZK3m/cT1Iy2EERUIIayTabr9bs1IMGnIK3yUlxb6lWsNtj/YetM6qqVRkVtVFaX/2BIIGNhcn77QQRl6eTaTpb1LtqU+Tnq2fdkqe/NMhNkNKOFuTa4N4WXKyqdoTcy4yApxPxCthxBBE23P3J2ElSdAMn/9k="
 />
 
-Von emotionaler Seite war mein größtes Projekt die Reise mit dem Brautkleid durch Neuseeland [<sup>1</sup>](#1). Ich hatte mir ein knitterfreies "one size fits all"-Brautkleid von meiner Freundin ausgeliehen und nahm es mit auf meinen Trip durch dieses wunderschöne Land.
+Von emotionaler Seite war mein größtes Projekt die Reise mit dem Brautkleid durch Neuseeland[^2]. Ich hatte mir ein knitterfreies "one size fits all"-Brautkleid von meiner Freundin ausgeliehen und nahm es mit auf meinen Trip durch dieses wunderschöne Land.
 
 Jedes Mal, wenn ich an einer besonders imposanten Kulisse angekommen war, fragte ich eine der Touristinnen, die gerade dort waren, ob sie in das Kleid hineinschlüpfen möchte. So entstand über den Zeitraum meiner Reise eine Serie mit dem Brautkleid mit wechselnden "Bräuten" in immer verschiedenen Szenerien.
 
@@ -301,7 +301,7 @@ Es war ein gigantisches Erlebnis und ich träume immer noch von dem wunderschön
 
 Bei LindyHop, Charleston und Shag fühle ich mich so lebendig und es macht Spaß, sich ein bißchen wie auf einer Zeitreise in die 1920er, 30er und 40er zu fühlen.
 
-**Anne:** Deine kleine Firma geht ja ganz schön durch die Decke. Du hast große Erfolge zu verbuchen und wirst immer wieder in der Fachpresse erwähnt. Vor Kurzem ist Deine neue Homepage [<sup>2</sup>](#2) gestartet, die wirklich sehr gelungen ist. Wie geht es weiter? Wie sehen die Zukunftspläne von Petra Fritzi Hennemann aus?
+**Anne:** Deine kleine Firma geht ja ganz schön durch die Decke. Du hast große Erfolge zu verbuchen und wirst immer wieder in der Fachpresse erwähnt. Vor Kurzem ist Deine neue Homepage[^2] gestartet, die wirklich sehr gelungen ist. Wie geht es weiter? Wie sehen die Zukunftspläne von Petra Fritzi Hennemann aus?
 
 > ## Mit meinen Bildern möchte ich in Richtung analoge Zeit gehen
 
@@ -341,7 +341,7 @@ Meine alte Homepage im Schokolinsen-Stil existiert noch, ich habe sie nur verste
 
 **Petra:** Aufregung ist etwas ganz Normales. Sicherheitshalber sollte die Braut an ihrem großen Tag noch einmal durchgehen, ob alles soweit vorbereitet und organisiert ist. Allerdings dann sollte auch Schluss sein und sie sollte sich nicht verrückt machen lassen. Die Brautmutter und die Freunde sind ja schließlich auch noch da!
 
-Wenn ich sehe, wie wenig Zeit Braut und Bräutigam am eigentlichen Hochzeitstag füreinander haben, denke ich mir immer, irgendwie wäre es doch am allerschönsten, den restlichen Tag in Ruhe mit dem Bald-Ehemann zu verbringen. Ich glaube, ich würde vor der Hochzeit eine Bergtour<sup> [4](#4)  </sup>machen.
+Wenn ich sehe, wie wenig Zeit Braut und Bräutigam am eigentlichen Hochzeitstag füreinander haben, denke ich mir immer, irgendwie wäre es doch am allerschönsten, den restlichen Tag in Ruhe mit dem Bald-Ehemann zu verbringen. Ich glaube, ich würde vor der Hochzeit eine Bergtour[^4]machen.
 
 **Anne:** Das klingt spannend! Liebe Petra, vielen vielen Dank, dass Du Dir die Zeit für das Interview genommen hast! Es hat wirklich großen Spaß gemacht! Ich wünsche Dir weiterhin viel Erfolg und alles Gute! In Hamburg bist Du jederzeit willkommen, ich freue mich schon auf Deinen nächsten Besuch!
 
@@ -490,9 +490,7 @@ Wenn ich sehe, wie wenig Zeit Braut und Bräutigam am eigentlichen Hochzeitstag 
   ]}
 />
 
-- [1] [Hier geht’s direkt zum Artikel „Ein Brautkleid reist durch Neuseeland“ in Petras Blog.](http://schokolinse.pixieset.com/mitdembrautkleidimrucksackdurchneuseeland)
-- [2] [Petras Homepage findet Ihr hier](http://www.petrafritzihennemann.de/)
-- [3] [Wir haben im Rahmen unserer Hochzeit ein Hochzeitsblog angelegt. Neugierige bitte hier entlang.](http://hochzeit.smartr.de/)
-- [4] Wir haben zwar keine Bergtour gemacht, aber eine Hochzeitsreise nach Bali.
-
-&nbsp;
+[^1]: [Hier geht’s direkt zum Artikel „Ein Brautkleid reist durch Neuseeland“ in Petras Blog.](http://schokolinse.pixieset.com/mitdembrautkleidimrucksackdurchneuseeland)
+[^2]: [Petras Homepage findet Ihr hier](http://www.petrafritzihennemann.de/)
+[^3]: [Wir haben im Rahmen unserer Hochzeit ein Hochzeitsblog angelegt. Neugierige bitte hier entlang.](http://hochzeit.smartr.de/)
+[^4]: [Wir haben zwar keine Bergtour gemacht, aber eine Hochzeitsreise nach Bali](/2013/08/bali-aus-dem-autofenster/).

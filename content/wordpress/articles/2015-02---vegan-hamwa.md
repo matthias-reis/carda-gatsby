@@ -45,7 +45,7 @@ subTitle: Ökolatsche 2.0
 
 **Ich wollte mal wieder einen Kommentar abgeben und das sei hiermit geschehen: Es ist schön, dass sich was tut. Das Umdenken erfolgt Schritt für Schritt.**
 
-Im Fernsehen laufen Berichte [<sup>1</sup>](#1) über die vegane Lebensweise (zwar nicht im Vorabendprogramm, da lösen nach wie vor die Zoosendungen die Fleisch- und Sahneköche ab und umgekehrt), aber man muss froh sein, dass sich der Gedanke langsam rumspricht.
+Im Fernsehen laufen Berichte[^1] über die vegane Lebensweise (zwar nicht im Vorabendprogramm, da lösen nach wie vor die Zoosendungen die Fleisch- und Sahneköche ab und umgekehrt), aber man muss froh sein, dass sich der Gedanke langsam rumspricht.
 
 Immer mehr Menschen probieren auch mal **pflanzliche Milch** (zu erkennen am wachsenden Angebot in den Supermärkten) und auch Frau Müller von gegenüber spricht inzwischen die Spaziergänger im Hundepark darauf an, wenn sie ihre Fiffis zu streng an die Leine nehmen.
 
@@ -55,7 +55,7 @@ Immer mehr Menschen probieren auch mal **pflanzliche Milch** (zu erkennen am wac
 
 Wann, wenn nicht jetzt? Die Zeit für ein kollektives Umdenken ist gekommen. Nur eine **tierleidfreie Zukunft** hat Zukunft.
 
-Wie schrieb die Zitty Berlin [<sup>2</sup>](#2) das gestern so schön „Die Zeit ist reif, faule Kompromisse über Bord zu werfen. Nie war es einfacher und notwendiger, ohne tierische Produkte zu leben, als heute.“
+Wie schrieb die Zitty Berlin[^2] das gestern so schön „Die Zeit ist reif, faule Kompromisse über Bord zu werfen. Nie war es einfacher und notwendiger, ohne tierische Produkte zu leben, als heute.“
 
 ## Das Leid der Milchrinder
 
@@ -122,5 +122,5 @@ Es ist schön, dass was passiert, tierleidfreie Produkte werden hergestellt und 
 
 In diesem Sinne: Go vegan!
 
-- [1] [Sendung auf 3Sat zum Thema Veganismus](http://www.3sat.de/mediathek/?mode=play&obj=49416)
-- [2] [Artikel zum Thema Veganismus in der Zitty Berlin](http://www.zitty.de/veganismus-ist-mehr-als-nur-ein-lifestyle-trend.html)
+[^1]: [Sendung auf 3Sat zum Thema Veganismus](http://www.3sat.de/mediathek/?mode=play&obj=49416)
+[^2]: [Artikel zum Thema Veganismus in der Zitty Berlin](http://www.zitty.de/veganismus-ist-mehr-als-nur-ein-lifestyle-trend.html)

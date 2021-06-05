@@ -41,7 +41,7 @@ subTitle: Bilder von Denise Slapansky
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcE/8QAKhAAAgIBAwMCBQUAAAAAAAAAAQIDBBEABRIGITETUQcVQWFxIkJSocH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAcEQACAQUBAAAAAAAAAAAAAAAAAQIDESExQRL/2gAMAwEAAhEDEQA/AOvY+kKtmxE1ndFCWhGYGRwcq/fBJX9OAMEjwSM9tMfWmz7fJX23bakm7V2MZjkjFozV6sBY5lk5DKk+QBjl4GNY9tG4x3djeK04hkiZVj5BeRB78Wyc8fx4zp33jqmj1X8QqrbELEVcVxFakmATksRPuQCGBwM/nUYxck4rY3Shvhn1qnInWCbRarBtvpbhxjsSMQksKL3OT+3JB7fyxo1Y9ew7bc6w26lElNUNeRplqWRKS5YKA7Dty7Z4gke50aeOhdNPRnq7iBiKCvIue45FSCffzq53K5N07uFevalE9qcRGRa6p6YXOeJYEgnH0XAGftqjhgT1lxhfckf7qUlNTbEoACjLINWtZ4MTGvqKf5leW/CVjFaJa6xJ4VSS3IH7knRpf2+27W1ifIWZSnLP18j+xo1Nqw/R/9k="
 />
 
-**Vor Kurzem berichtete ich hier im Blog über eine sehr liebe Dame, die vegane Häkelmützen mit Statement [<sup>1</sup>](#1) herstellt und sich für die Rechte der Tiere einsetzt. Denise Slapansky stellte mir jetzt ihr neuestes Projekt vor.**
+**Vor Kurzem berichtete ich hier im Blog über eine sehr liebe Dame, die vegane Häkelmützen mit Statement[^1] herstellt und sich für die Rechte der Tiere einsetzt. Denise Slapansky stellte mir jetzt ihr neuestes Projekt vor.**
 
 Die kreative Friedbergerin häkelt nicht nur, sie hat noch viele weitere Talente. Seit frühester Kindheit malt und zeichnet sie, meistens schwarz-weiß mit Kohle, Bleistift oder Kreide. Später kam dann noch die Bildhauerei dazu.
 
@@ -51,7 +51,7 @@ Während ihrer Ausbildung zur Kunsttherapeutin entdeckte Denise die Farben für 
 
 <blockquote>
 
-Mit meinen Bildern setze ich sogenannte "Nutztiere" in ein "Meer aus Farben". So heißt auch ein Song des Berliner Singer/Songwriter-Duos Berge. Er hat mich sehr inspiriert und könnte auch von einigen der Tiere gesungen werden. [<sup>2</sup>](#2) So muss das für sie sein, wenn sie befreit werden.
+Mit meinen Bildern setze ich sogenannte "Nutztiere" in ein "Meer aus Farben". So heißt auch ein Song des Berliner Singer/Songwriter-Duos Berge. Er hat mich sehr inspiriert und könnte auch von einigen der Tiere gesungen werden[^2]. So muss das für sie sein, wenn sie befreit werden.
 
 <RemoteImage
   alt={`Denise beim Zaunbau auf dem Überlebenshof`}
@@ -96,7 +96,7 @@ Die Künstlerin möchte mit ihren Werken nicht nur eine positive und entlastende
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYECAIDB//EACoQAAIBAwQABAYDAAAAAAAAAAECAwQFEQAGEiEiMTJBExRCUWFxYoGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAAP/xAAdEQACAQUBAQAAAAAAAAAAAAAAAQIREyExMkFC/9oADAMBAAIRAxEAPwCx27q+hobFVG5swgljaPCHDNlT6T7HHefxrg+6t33ldoSbTatrK6urYvlhUOq82VmGQcdnwnBPZx56e9+br2tfqKioprpL8KKqE8wiZkYqscmBkAn1cevz9s6rZRXowX2C71d1ro1njlWMLGryekcDITkHkW7A9h596FyKQE1uo0bgqYKu+1VPb6pbjKkSBTACxaONRGGAH04QH9HStWzyQ+BkdZFwODKQwII9j/WsLHXzxXRHhCvNUq0ayMcfDOSAoI/i2evudENwkujiStdhKy4Mgbkz94wc58sf7rmpYqU3F48E8eOmuTv4nBIDHsgcB1nSfUogpKchVBKLk4/Y0aNItEPybLYSt1tvElcVpxjr6dR7ESlVShDxB5kgdZ6GjRpZ8mlwj//Z"
 />
 
-Während mir Denise von ihren Kunstwerken erzählte, berichtete sie mir auch von Sissi und Franz. Sissi wurde von einer Tierärztin entdeckt, die ihn auf einen Überlebenshof [<sup>3</sup>](#3) brachte. Dort kümmert man sich seither um ihre Versorgung.
+Während mir Denise von ihren Kunstwerken erzählte, berichtete sie mir auch von Sissi und Franz. Sissi wurde von einer Tierärztin entdeckt, die ihn auf einen Überlebenshof[^3] brachte. Dort kümmert man sich seither um ihre Versorgung.
 
 Sissis Retterin ist so verliebt in das Schweinekind, dass sie fand, Sissi müsse Gesellschaft bekommen. Die Betreiberin des Hofes bekam dann Franz geschenkt, der aufgrund eines Hodendurchbruchs für den Bauern "wertlos" geworden war.
 
@@ -111,7 +111,7 @@ Sissis Retterin ist so verliebt in das Schweinekind, dass sie fand, Sissi müsse
 
 Die beiden waren von Anfang an ein Herz und eine Seele, Sissi kümmert sich ganz rührend um den kleinen Mann. Wenn es die Zeit zulässt, besucht Denise die beiden und hilft bei den Renovierungsarbeiten auf dem Hof mit.
 
-Franz wird auch auf dem nächsten Bild von Denise zu sehen sein, das derzeit in Arbeit ist, außerdem wird er das Motiv für den nächsten Stoff ihrer Mützenmarke WYOB [<sup>1</sup>](#1) sein.
+Franz wird auch auf dem nächsten Bild von Denise zu sehen sein, das derzeit in Arbeit ist, außerdem wird er das Motiv für den nächsten Stoff ihrer Mützenmarke WYOB[^1] sein.
 
 ## Bildergalerie: Tiere von Denise Slapansky
 
@@ -190,6 +190,6 @@ Mit lieben Grüßen von Denise sind hier für Euch Berge mit "Meer aus Farben":
 
 <YouTube id="7rHWnRHd3lg" />
 
-- [1] [WYOB - Vegane Mützen mit Statement](/2015/04/vegane-haekelmuetzen-mit-statement/)
-- [2] [Berge - "Meer aus Farben"](https://www.youtube.com/watch?v=7rHWnRHd3lg)
-- [3] [Überlebenshof Scottmaring](http://www.tiere-leben.de/Scottmaring.html)
+[^1]: [WYOB - Vegane Mützen mit Statement](/2015/04/vegane-haekelmuetzen-mit-statement/)
+[^2]: [Berge - "Meer aus Farben"](https://www.youtube.com/watch?v=7rHWnRHd3lg)
+[^3]: [Überlebenshof Scottmaring](http://www.tiere-leben.de/Scottmaring.html)

@@ -152,7 +152,7 @@ Durch die leckeren Gerichte von Attila Hildmann habe ich dann gesehen, wie schma
 
 **Anne:** Wie bist du auf den wunderschönen Namen Mad Yeti Creations gekommen?
 
-**Nina:** Es ist vielleicht etwas stumpf, aber ich stehe total auf verrückte Dinge und finde Yetis sehr niedlich. Ich zeichnete an einem Tag einen Yeti (den, der auch mein Profilbild und mein Banner auf Facebook [<sup>1</sup>](#1) schmückt) und kam dann spontan auf diesen Namen, den ich echt cool finde!
+**Nina:** Es ist vielleicht etwas stumpf, aber ich stehe total auf verrückte Dinge und finde Yetis sehr niedlich. Ich zeichnete an einem Tag einen Yeti (den, der auch mein Profilbild und mein Banner auf Facebook schmückt) und kam dann spontan auf diesen Namen, den ich echt cool finde!
 
 ## Der Schmuck ist online bestellbar
 
@@ -167,7 +167,7 @@ Durch die leckeren Gerichte von Attila Hildmann habe ich dann gesehen, wie schma
 
 **Anne:** Das kann ist nur bestätigen, das ist er definitiv! Wo kann man deine Sachen käuflich erwerben? Ich kann mir gut vorstellen, dass das den/die ein oder andere/n Leser/in interessieren könnte.
 
-**Nina:** Im Moment noch über Facebook [<sup>1</sup>](#1) und Instagram [<sup>2</sup>](#2)  .
+**Nina:** Im Moment noch über Facebook und Instagram.
 
 **Anne:** Das ist doch schon eine ganze Menge! Du sagst noch, dann ist also in Zukunft ein Online-Shop oder ein fester Laden geplant?
 
@@ -214,7 +214,7 @@ Außerdem koche ich total gerne und mache etwas mit meinen kleinen Hunden, Bimbi
 
 **Anne:** Was steht bei dir heute noch an? Wie wird der Rest des Tages aussehen?
 
-**Nina:** Ein paar Freunde und ich gehen heute noch eine vegane Currywurst in der Pommeserei [<sup>3</sup>](#3) essen. Das ist ein kleiner Laden in Duisburg, der richtig leckeres veganes Essen anbietet! Ich kann ihn nur empfehlen, falls du mal in der Nähe bist.
+**Nina:** Ein paar Freunde und ich gehen heute noch eine vegane Currywurst in der Pommeserei essen. Das ist ein kleiner Laden in Duisburg, der richtig leckeres veganes Essen anbietet! Ich kann ihn nur empfehlen, falls du mal in der Nähe bist.
 
 **Anne:** Das werde ich mir auf jeden Fall merken, die Adresse ist notiert! Nina, meine Liebe! Vielen Dank für deine Antworten! Das war wirklich ein tolles Gespräch, ich hoffe, dass wir das irgendwann wiederholen werden! Ich wünsche dir noch einen schönen Tag!
 
@@ -243,14 +243,6 @@ Außerdem koche ich total gerne und mache etwas mit meinen kleinen Hunden, Bimbi
   ]}
 />
 
-### Fußnoten:
-
-- [1] [Mad Yeti Creations auf Facebook](http://www.facebook.com/madyeticreations)
-- [2] [Nina als @nine_onoke bei Instagram](https://www.instagram.com/nine_onoke/)
-- [2] [Die Pommeserei](http://www.pommeserei.de/)
-
 Bis auf das Foto von meinem kleinen Kohlköpfchen stammen alle Bilder aus Ninas Privatarchiv. Im Titelbild ist sie mit ihrem Hund Vangos zu sehen.
 
 Zu meinem Interview mit der veganen Buddhistin Johanna geht es [hier entlang](/2014/08/der-schutz-und-die-rechte-der-tiere-stehen-an-erster-stelle/).
-
-Merken

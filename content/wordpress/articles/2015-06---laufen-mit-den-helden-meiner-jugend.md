@@ -41,7 +41,7 @@ subTitle: Feuert mich an!
 
 **Nachdem sich langsam aber sicher nach und nach das Gefühl eingestellt hat, endlich wieder etwas tun zu müssen und ich mich körperlich nach diversen nervigen [Zipperlein](/2014/11/auf-dem-weg-zur-tiefenentspannung/) nun wieder dazu in der Lage fühle, bin ich am Montag endlich wieder angelaufen. Und was soll ich sagen? Ich fühle mich gut.**
 
-Nach dem gemütlichen Warmlaufen am Montag und einem kleinen unglaublich aufbauenden, genialen Motivationslauf (Storyrun [<sup>1</sup>](#1) von Runtastic) am Dienstag tat ich heute etwas, was ich schon viel früher hätte tun sollen: Ich habe die Helden meiner Jugend wieder ausgepackt.
+Nach dem gemütlichen Warmlaufen am Montag und einem kleinen unglaublich aufbauenden, genialen Motivationslauf[^1] am Dienstag tat ich heute etwas, was ich schon viel früher hätte tun sollen: Ich habe die Helden meiner Jugend wieder ausgepackt.
 
 Ich bin mit DJ Hell um die Häuser gezogen. Einem plötzlichen inneren Impuls folgend packte ich sein mit schweißtreibenden Beats bepacktes Album "Munich Machine" auf mein iPhone und joggte los. Das Ergebnis: Ich werde morgen definitiv einen sensationellen Muskelkater haben und ich bin stolz darauf.
 
@@ -72,6 +72,6 @@ Und jetzt sitze ich mit einem Glas Gurkenwasser vor dem Bildschirm grinse weiter
 
 Sonnige Grüße aus Hamburg
 
-[1] [Storyrun von Runtastic](http://blog.runtastic.com/de/runtastic-all-about/story-run-reise-zum-wunschgewicht/)
+[^1]: [Storyrun von Runtastic](http://blog.runtastic.com/de/runtastic-all-about/story-run-reise-zum-wunschgewicht/)
 
 [Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)

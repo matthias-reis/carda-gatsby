@@ -33,17 +33,17 @@ subTitle: Wie vegane Lebensmittel den Markt dominieren werden
 
 **Vegan wird immer beliebter. Die Vegan Society und Business Expert kündigen jetzt sogar die vegane Revolution an: Pflanzliche Produkte sollen schon bald die Wirtschaft dominieren.**
 
-Im Jahr 2020 lebten laut Statista [<sup>1</sup>](#1) in Deutschland ziemlich genau 1,13 Millionen Menschen vegan. Das sind 180.000 mehr, als noch im Jahr 2019. 2018 waren es noch 0,8 Millionen gewesen. Weltweit wird die Zahl der Veganer⋆innen und Vegetarier⋆innen derzeit auf eine Milliarde geschätzt.
+Im Jahr 2020 lebten laut Statista[^1] in Deutschland ziemlich genau 1,13 Millionen Menschen vegan. Das sind 180.000 mehr, als noch im Jahr 2019. 2018 waren es noch 0,8 Millionen gewesen. Weltweit wird die Zahl der Veganer⋆innen und Vegetarier⋆innen derzeit auf eine Milliarde geschätzt.
 
 > "Das Image des Veganismus erfährt den radikalsten Wandel in seiner Geschichte",
 
-sagt die Sprecherin der Vegan Society [<sup>2</sup>](#2) Dominika Piasecka.
+sagt die Sprecherin der Vegan Society[^2] Dominika Piasecka.
 
 ## Veganer\*innen sind längst keine Randgruppe mehr
 
 Einst als Randgruppe betrachtet, sind Veganer\*innen heute zu einer globalen Bewegung zusammengewachsen, die sich mit rasender Geschwindigkeit vergrößert. Die Zahl der Menschen, die sich rein pflanzlich ernähren, hat sich innerhalb der letzten zehn Jahre weltweit mehr als versiebenfacht. Vor allem die Gruppe der unter 35-Jährigen fühlt sich davon angesprochen.
 
-In einem aktuellen Papier beschäftigt sich das Vegan Trade Journal [<sup>3</sup>](#3) jetzt mit den Gründen für die starke Verbreitung des veganen Gedankens. In der Veröffentlichung beleuchtet das Magazin vor allem, wie sich das Phänomen weltweit auf die Wirtschaft auswirkt.
+In einem aktuellen Papier beschäftigt sich das Vegan Trade Journal[^3] jetzt mit den Gründen für die starke Verbreitung des veganen Gedankens. In der Veröffentlichung beleuchtet das Magazin vor allem, wie sich das Phänomen weltweit auf die Wirtschaft auswirkt.
 
 Die Arbeit schaut auf das Wachstum der veganen Wirtschaft, analysiert die Vorgänge darin und wirft einen Blick auf die kommenden Jahrzehnte. Schätzungen zufolge wird der globale Markt für vegane Lebensmittel bis ins Jahr 2026 ein Volumen von 31,4 Milliarden US-Dollar erreichen. Beim [Veganuary](/2020/12/ricky-gervais-brian-adams-veganuary/) meldeten sich in diesem Jahr ganze 500.000 Menschen an. Die Aktion inspiriert mit Rezepten und Aktionen dazu einen Monat vegan zu leben. Viele bleiben später dabei.
 
@@ -58,7 +58,7 @@ Die Arbeit schaut auf das Wachstum der veganen Wirtschaft, analysiert die Vorgä
 
 ## Die vegane Revolution schreitet voran
 
-Angesichts des dreiprozentigen Rückgangs des Fleischmarktes (diese Industrie ist 1,8 Billionen Dollar schwer) [<sup>4</sup>](#4) kristallisiert sich langsam heraus, dass die vegane Wirtschaft dabei ist, eine wachsende Lücke zu füllen.
+Angesichts des dreiprozentigen Rückgangs des Fleischmarktes (diese Industrie ist 1,8 Billionen Dollar schwer)[^4] kristallisiert sich langsam heraus, dass die vegane Wirtschaft dabei ist, eine wachsende Lücke zu füllen.
 
 Alles deutet darauf hin, dass vor allem die jüngeren Generationen diesen Wandel vorantreiben. Ihr liegen Themen wie Tierrechte, der Kampf gegen die Klimakatastrophe und die persönliche Gesundheit besonders am Herzen. Diese Aspekte stehen für Menschen unter 35 klar vor den Konsumentscheidungen. Innerhalb der Generationen Z und Millennials befinden sich die meisten Veganer⋆innen und Vegetarier⋆innen.
 
@@ -68,9 +68,9 @@ Laut dem Vegan Trade Journal machen sich 87,5 Prozent der Angehörigen der Gener
 
 Die sozialen Medien haben entscheidend zur Förderung des Veganismus innerhalb der Gesellschaft und vor allem unter den jüngeren Menschen beigetragen. Als sogenannte Digital Natives hat die Generation zum Beispiel nie eine Welt ohne Facebook, Instagram, Snapchat und Co. kennengelernt.
 
-Brandwatch [<sup>5</sup>](#5) bewies mit einer Analyse, dass Veganismus innerhalb der sozialen Netzwerke tatsächlich das beliebteste Ernährungsthema ist – 54 Prozent der Food-Influencer beschäftigen sich damit.
+Brandwatch[^5] bewies mit einer Analyse, dass Veganismus innerhalb der sozialen Netzwerke tatsächlich das beliebteste Ernährungsthema ist – 54 Prozent der Food-Influencer beschäftigen sich damit.
 
-Der Gründer von The Vegan Kind [<sup>6</sup>](#6) (britisches Pendant zu  [alles-vegetarisch.de](/2020/04/soulfood-von-alles-vegetarisch-de/) ) Scott McCulloch berichtet:
+Der Gründer von The Vegan Kind[^6] (britisches Pendant zu  [alles-vegetarisch.de](/2020/04/soulfood-von-alles-vegetarisch-de/) ) Scott McCulloch berichtet:
 
 > "Vegane Stars wie Ariana Grande, Lewis Hamilton, Kim Kardashian, Serena Williams und Moby haben eine riesige und treue Fangemeinde. Die Generation Z wächst in einem Umfeld auf, in dem man sich Sorgen um die Zukunft des Planeten Erde macht. Sie nutzt die sozialen Medien dazu, über diese Themen zu diskutieren und sich damit auseinanderzusetzen."
 
@@ -80,7 +80,7 @@ Vom Burger mit veganem Patty bei McDonald’s bis zur veganen Suite im Hilton Lo
 
 Vegane Lebensmittel findet man heute bei weitem nicht mehr ausschließlich in Reformhäusern und im Gemüseladen. Selbst große Marktführer (von denen man halten kann, was man möchte) wie Nestlé, Kraft und Danone zählen pflanzliche Alternativen inzwischen fest zu ihrem Sortiment.
 
-Justin Sheppard, Strategist bei der Rabobank [<sup>7</sup>](#7) bezeichnet das aktuelle Geschehen treffend als "Kampf um die Mitte des Tellers". Für ihn ist der Markt für pflanzliche Produkte von weit größerem Interesse. Der wachsende Trend weist für ihn auf einen breiten kulturellen Wandel hin, der nicht mehr aufzuhalten ist und auf lange Sicht zu einer Verringerung der Dominanz der Fleischindustrie führen wird.
+Justin Sheppard, Strategist bei der Rabobank[^7] bezeichnet das aktuelle Geschehen treffend als "Kampf um die Mitte des Tellers". Für ihn ist der Markt für pflanzliche Produkte von weit größerem Interesse. Der wachsende Trend weist für ihn auf einen breiten kulturellen Wandel hin, der nicht mehr aufzuhalten ist und auf lange Sicht zu einer Verringerung der Dominanz der Fleischindustrie führen wird.
 
 <RemoteImage
   alt={`Die vegane Revolution`}
@@ -110,7 +110,7 @@ Am Beispiel der Industrie für [Pflanzendrinks](/2020/08/haferdrink-stiftung-war
 
 ## Der Countdown für die vegane Revolution
 
-Aus einem Bericht der globalen Unternehmensberatung AT Kearney [<sup>8</sup>](#8) geht sogar hervor, dass im Jahr 2040 60 Prozent des Fleisches nicht mehr direkt von Tieren stammen wird, sondern entweder aus [kultiviertem Fleisch](/2021/02/bill-gates-wie-wir-die-klimakatastrophe-verhindern/) oder aus pflanzlichen Alternativen.
+Aus einem Bericht der globalen Unternehmensberatung AT Kearney[^8] geht sogar hervor, dass im Jahr 2040 60 Prozent des Fleisches nicht mehr direkt von Tieren stammen wird, sondern entweder aus [kultiviertem Fleisch](/2021/02/bill-gates-wie-wir-die-klimakatastrophe-verhindern/) oder aus pflanzlichen Alternativen.
 
 Den unterschiedlichen Aufzeichnungen zufolge befindet sich die konventionelle Fleischindustrie in einem Countdown zu ihrer Ablösung – laut Kearny wird dieser nur noch 19 Jahre andauern.
 
@@ -127,13 +127,11 @@ Lebensmittel prägen die unterschiedlichsten Bereiche unseres Lebens – vom Arb
 
 Quelle/source: [Business Expert](https://www.businessexpert.co.uk/the-vegan-economy/) Thanks for the infographics!
 
-## Fußnoten
-
-- [1] [Statista](https://de.statista.com/statistik/daten/studie/445155/umfrage/umfrage-in-deutschland-zur-anzahl-der-veganer/)
-- [2] [Vegan Society](https://www.vegansociety.com/)
-- [3] [Vegan Trade Journal](https://www.vegantradejournal.com/)
-- [4] [Research &amp; Markets](https://www.researchandmarkets.com/reports/4989525/vegan-food-market-by-product-type-and?utm_source=dynamic&utm_medium=CI&utm_code=6c5vrs&utm_campaign=1355521+-+The+Future+of+the+Vegan+Food+Market+to+2026%3a+Global+Industry+Overview%2c+Value+Chain+Analysis%2c+Lucrative+Segments%2c+Key+Player+Profiles%2c+Winning+Strategies&utm_exec=joca220cid)
-- [5] [Brandwatch](https://www.brandwatch.com/blog/react-food-trends-2018/)
-- [6] [The Vegan Kind](https://www.thevegankind.com/https://www.thevegankind.com/)
-- [7] [Rabobank](https://research.rabobank.com/far/en/sectors/animal-protein/why-alternative-proteins-are-competing-for-the-centre-of-the-plate.html)
-- [8] [AT Kearny](https://www.kearney.com/)
+[^1]: [Statista](https://de.statista.com/statistik/daten/studie/445155/umfrage/umfrage-in-deutschland-zur-anzahl-der-veganer/)
+[^2]: [Vegan Society](https://www.vegansociety.com/)
+[^3]: [Vegan Trade Journal](https://www.vegantradejournal.com/)
+[^4]: [Research &amp; Markets](https://www.researchandmarkets.com/reports/4989525/vegan-food-market-by-product-type-and?utm_source=dynamic&utm_medium=CI&utm_code=6c5vrs&utm_campaign=1355521+-+The+Future+of+the+Vegan+Food+Market+to+2026%3a+Global+Industry+Overview%2c+Value+Chain+Analysis%2c+Lucrative+Segments%2c+Key+Player+Profiles%2c+Winning+Strategies&utm_exec=joca220cid)
+[^5]: [Brandwatch](https://www.brandwatch.com/blog/react-food-trends-2018/)
+[^6]: [The Vegan Kind](https://www.thevegankind.com/https://www.thevegankind.com/)
+[^7]: [Rabobank](https://research.rabobank.com/far/en/sectors/animal-protein/why-alternative-proteins-are-competing-for-the-centre-of-the-plate.html)
+[^8]: [AT Kearny](https://www.kearney.com/)

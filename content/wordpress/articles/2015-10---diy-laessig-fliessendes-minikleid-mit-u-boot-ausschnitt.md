@@ -59,7 +59,7 @@ subTitle: Nähanleitung One Size (34 - 42)
 1.  Es handelt sich nicht um eine Profianleitung, daher wundert Euch nicht, wenn Euch das Ein oder Andere etwas "hemdsärmlig" vorkommt.
 1.  Lest Euch die Anleitung am besten vor dem Nähen einmal komplett durch, um nichts zu übersehen.
 1.  Selbstgeschneiderte Kleidungsstücke müssen nicht zu 100 % perfekt sein, ganz im Gegenteil: Kleine Planabweichungen machen sie zu echten Einzelstücken. Fühlt Euch also frei, Veränderungen vorzunehmen.
-1.  Ich habe den Schnitt frei Hand gezeichnet, es gibt keinen "richtigen" Schnittbogen. Meine Zeichnung habe ich für Euch abfotografiert, das Bild [<sup>1</sup>](#1) findet Ihr ganz unten unter dem Text. Ihr könnt es durch Anklicken vergrößern und Euch gerne mit Eurer Zeichnung danach richten.
+1.  Ich habe den Schnitt frei Hand gezeichnet, es gibt keinen "richtigen" Schnittbogen. Meine Zeichnung habe ich für Euch abfotografiert, das Bild[^1] findet Ihr ganz unten unter dem Text. Ihr könnt es durch Anklicken vergrößern und Euch gerne mit Eurer Zeichnung danach richten.
 
 <RemoteImage
   alt={`Stecknadeln und Schneiderkreide`}
@@ -72,7 +72,7 @@ subTitle: Nähanleitung One Size (34 - 42)
 
 ## Das braucht Ihr für Euer Minikleid
 
-- Stoff - Ich habe Viskose verwendet, die fühlt sich wunderbar kühl auf der Haut an und sorgt bei fertigen Kleid für eine tolle, fließende Optik. Ihr könnt aber genauso auch Baumwollpiqué oder Euren Lieblings-T-Shirt-Stoff verwenden. Der Stoff, den ich gekauft habe, war 1,50 m breit, ich habe einen Meter bei der Buttinette [<sup>2</sup>](#2) bestellt.
+- Stoff - Ich habe Viskose verwendet, die fühlt sich wunderbar kühl auf der Haut an und sorgt bei fertigen Kleid für eine tolle, fließende Optik. Ihr könnt aber genauso auch Baumwollpiqué oder Euren Lieblings-T-Shirt-Stoff verwenden. Der Stoff, den ich gekauft habe, war 1,50 m breit, ich habe einen Meter bei der Buttinette[^2] bestellt.
 - Nähgarn - Das wird Euch beim Bestellen gleich passend zum Stoff angeboten.
 - Seidenpapier - Im Bastelbedarf oder gleich mitbestellen
 - Stift
@@ -142,11 +142,9 @@ Nun schließt Ihr die Nähte entlang Eurer jetzt noch sichtbaren, eingezeichnet
 
 Jetzt müsst Ihr Euer Meisterwerk nur noch wenden und anprobieren. Das Minikleid passt wunderbar zu Leggings in Lederoptik, Skinny Jeans oder Strumpfhosen und lässt sich auch prima mit einem schönen Gürtel kombinieren. Im Winter könnt Ihr gut einen Langarm-Body darunter tragen, am besten Ton-in-Ton oder je nachdem, welche Farbe Euer Stoff hat, auch in Komplementär-Farben.
 
-Ich wünsche Euch viel Spaß beim Nähen und beim Tragen Eures neuen Minikleides! Schickt mal ein Bild, wenn es fertig ist, ich bin gepannt! &lt;3
+Ich wünsche Euch viel Spaß beim Nähen und beim Tragen Eures neuen Minikleides! Schickt mal ein Bild, wenn es fertig ist, ich bin gepannt!
 
-### Fußnoten
-
-- [1] Der "Schnittbogen"
+[^1]: Der Schnittbogen
 
 <RemoteImage
   alt={`Mein &quot;Schnittbogen&quot; - zum Vergrößern bitte anklicken!`}
@@ -157,6 +155,6 @@ Ich wünsche Euch viel Spaß beim Nähen und beim Tragen Eures neuen Minikleides
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcI/8QALRAAAgECBAIJBQEAAAAAAAAAAQIDBBEABQYSITEHEyJBYXGRocEjUWKB4bH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwYB/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAAwQREhMhIjH/2gAMAwEAAhEDEQA/ACOi8mbqoaOliG1QFZrcv7i1ab0mtFTG5YykXO03I+MG+jGljFPG116x3Kg29PjFKgrhTwSybiYmjALbtu29+/8AXtiXsc22cT+SiA6k2IbqcoZZfqJNtJ7LOSP57YK6myYRg32Mjg27NvMenziq18yTUUKgMBEwUEsrXG3wPhglqRUamF24BxzH6+cZrrbww1bsXZkt0TnSxyRgSMDdWPaPEg2PtbFTp61rErNKL8ypPHGaspzKKnZWNSFZTw44e5XrTL4UXewd7c2cEDDsjFYtySKpvXWmljNZeIiSZmF+9hzwZ1LmkaRbQSxQ7mA4nlw97+mCU3SBQiNhC8G783A2+d/8GB+c6qjqTJerjkDm5A+45YGrFsY/Qhveijyf/9k="
 />
 
-- [2] Die  [Buttinette](https://basteln-de.buttinette.com/shop/start)
+[^2]: Die  [Buttinette](https://basteln-de.buttinette.com/shop/start)
 
 Meine Schritt-für-Schritt-Anleitung für ein wärmendes Körnerkissen [findet Ihr hier](/2015/09/diy-koernerkissen-naehanleitung/).

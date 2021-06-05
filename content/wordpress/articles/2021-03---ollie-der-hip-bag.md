@@ -73,8 +73,6 @@ Der neue Feuerwear Hip Bag ist seit dem 17. März im [Feuerwear Onlineshop](http
 
 <Gallery name="feuerwear-ollie-2" />
 
-## Fußnoten
-
 - [atmosfair](https://www.atmosfair.de/de/)
 - [Delcotex](https://delcotex.de/de/)
 

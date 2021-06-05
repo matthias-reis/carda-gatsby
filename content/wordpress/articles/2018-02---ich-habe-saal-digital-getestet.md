@@ -113,4 +113,4 @@ Die Software war zunächst etwas gewöhnungsbedürftig und läuft ein Bisschen r
 
 Zur Homepage von Saal Digital geht es übrigens [hier entlang](https://www.saal-digital.de).
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

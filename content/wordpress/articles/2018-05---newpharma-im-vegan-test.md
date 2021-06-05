@@ -172,4 +172,4 @@ Als Bezahlungsmöglichkeiten sind Paypal sowie alle Kreditkartentypen, Sofortüb
 
 Ob ich wieder bestellen würde? Klar, auf jeden Fall! Wer jetzt auch neugierig geworden ist, [findet den Onlineshop von Newpharma hier](https://www.newpharma.de/) ! Viel Spaß beim Stöbern!
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

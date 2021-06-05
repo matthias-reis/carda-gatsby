@@ -2,29 +2,29 @@
 title: Hilfe für die Erstellung von Artikeln
 subTitle: Spickzettel
 slug: admin-help
-path: "/"
+path: '/'
 description: Alles Wissenswerte zum Erstellen neuer Artikel
 date: 2021-04-23T07:33:21.000+00:00
 status: publish
-
 ---
+
 [➡ Hier geht's zur Admin-Seite](/admin)
 
 ## Markdown
 
 ### Einfache Markdown-Auszeichnungen
 
-* Auszeichnung Fett: `**fetter text**` **fetter text**
-* Auszeichnung kursiv wird nicht unterstützt
-* Interner Link: `[Link-Text](/linkziel)` [Link-Text](/admin-help)
-* Externer Link (genauso): `[Link-Text](https://www.google.de)` [Link-Text](https://www.google.de)
+- Auszeichnung Fett: `**fetter text**` **fetter text**
+- Auszeichnung kursiv wird nicht unterstützt
+- Interner Link: `[Link-Text](/linkziel)` [Link-Text](/admin-help)
+- Externer Link (genauso): `[Link-Text](https://www.google.de)` [Link-Text](https://www.google.de)
 
 ### Absätze
 
 Einfache Zeilenschaltung wird ignoriert. Absätze erstellt man immer mit doppelter Zeilenschaltung. D.h. ein Absatz darf gerne über mehrere Zeilen gehen.
 
     Absatz 1
-    
+
     Absatz 2
 
 ### Überschriften
@@ -124,14 +124,20 @@ Aktuell werden Playlisten von Sptify und Apple unterstützt. Man kann auch beide
 ```
 
 <Playlist
-spotify="2gG0GNALKrYwbNhkxx8Q3R"
-itunes="let-england-shake-this-is-not-america/pl.u-krLLtv3dBdD"
+  spotify="2gG0GNALKrYwbNhkxx8Q3R"
+  itunes="let-england-shake-this-is-not-america/pl.u-krLLtv3dBdD"
 />
 
 ### Bedingter Trennstrich
 
+`&shy;` &shy;
+
 ### Fußnoten
 
-### Kleine Bilder 
+Im Text `[^4]`
+
+Unten `- [^4]: Hier kommt der Text hin`
+
+### Kleine Bilder
 
 Hinter dem Bild title `| small` einfügen

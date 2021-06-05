@@ -56,7 +56,7 @@ Nach der relativ kurzen Zeit, in der ich bisher vegan gelebt habe, kann ich eine
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQL/xAAqEAACAQIGAQQABwAAAAAAAAABAgMEEQAFBhIhMUETI1FhByIkQnGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EABsRAQEAAgMBAAAAAAAAAAAAAAEAITEREiJx/9oADAMBAAIRAxEAPwCZ6OqITqyhnq1RQjSsiwjYA/tMOuhccj7+8UnVcW6COYxH9Zm9ROr35b8042fYuRhC02lCdZZVBLLFDTSpKyc7yfaAAt4YlOuLf5ihZtXUtdn+nckFLXSUc6StE42tI8gdi+zrixY8XJ2kWxnsvkomaOaho5Yq2acbVhSVXayFlDDkcDyTfr4wYpusdCZlIIapWWGjdxL6j+ptVQLRhgqmzW2mx5wYAU1UlDQukqSaA1tc0sscIv6X77jm3HIJ+AefOOs1rqmfU1LnAmzlq6Ahkkmy5y8YBumz3SLrZeBbz/GMqPU0+U0EUdFDDUFms4qLnaPnjo+P7xoUusa+VAZNMZa7HgSiSRBcjru3WLYNTxN+bfiLqEUr5rJmFbewDwvN6Qv0G2gcXHgjjBiXapqqnOrtPRJl6xgjZE5Kub983vxYYMZfk3//2Q=="
 />
 
-Wir haben viel über das Thema Tierrechte [<sup>1</sup>](#1) gelernt, haben uns mit Umweltschutz und dem ökologischen Fussabdruck [<sup>2</sup>](#2) beschäftigt und auch in einigen anderen Bereichen des Lebens unsere Meinung geändert. Wir haben selbst und ganz ohne die Hilfe von Bienen in unserer Küche Honig [<sup>3</sup>](#3) hergestellt, der Herzmann hat inzwischen die perfekte Seitanmischung kreiert, wir kennen den Unterschied zwischen Mungdal und Sojabohnen und ich habe meine Liebe für Grünkohl wiederentdeckt.
+Wir haben viel über das Thema Tierrechte[^1] gelernt, haben uns mit Umweltschutz und dem ökologischen Fussabdruck[^2] beschäftigt und auch in einigen anderen Bereichen des Lebens unsere Meinung geändert. Wir haben selbst und ganz ohne die Hilfe von Bienen in unserer Küche Honig[^3] hergestellt, der Herzmann hat inzwischen die perfekte Seitanmischung kreiert, wir kennen den Unterschied zwischen Mungdal und Sojabohnen und ich habe meine Liebe für Grünkohl wiederentdeckt.
 
 Er hat knapp 20 Kilogramm verloren und hält sein Gewicht seither perfekt. Wir fühlen uns beide körperlich viel besser, sind fitter und gesünder. Ich gehe wieder joggen, meine Haut ist viel klarer geworden und meine Blutwerte sind besser als je zuvor.
 
@@ -71,13 +71,13 @@ Er hat knapp 20 Kilogramm verloren und hält sein Gewicht seither perfekt. Wir f
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQHAQMF/8QAKhAAAgEDAgQEBwAAAAAAAAAAAQIDAAQRBSEGEjFxFBZhkSMyQVFywdH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EABsRAAICAwEAAAAAAAAAAAAAAAABAjEDEyFR/9oADAMBAAIRAxEAPwCnDi2f6tAT2P8Aa0ycVXLHaWEdlqbBuRmImZgdsY6VydT1OayvbC2QyzG7mMXMBsu2f37A1fpirIdkmVaXiS8YHFwg7KKX8x3Y+aWN/wAlqXDW5BqD2jxHlTOZ2kULkDJ26054ySUcwQgDOMPnPtRLFHwFzYytwXG3K2PTpSl1bC6uLaaQgNbuXTYY3GKKKeuiKMPp9pIzPLZ2sjnq5QEmldViiMKQmXw8THHwSE6A7Z+3pRRWlxHVZ//Z"
 />
 
-Ein Zurück kommt für uns beide heute nicht mehr in Frage und das nicht nur, weil wir inzwischen die Wahrheit über Milch [<sup>4</sup>](#4) kennen und gegen die Ausbeutung unserer Mitwelt sind. In den zahlreichen Interviews, die ich in den letzten Monaten geführt habe, traf ich auf jede Menge kreative, interessante, lebensfrohe, nette Menschen aller Generationen.
+Ein Zurück kommt für uns beide heute nicht mehr in Frage und das nicht nur, weil wir inzwischen die Wahrheit über Milch[^4] kennen und gegen die Ausbeutung unserer Mitwelt sind. In den zahlreichen Interviews, die ich in den letzten Monaten geführt habe, traf ich auf jede Menge kreative, interessante, lebensfrohe, nette Menschen aller Generationen.
 
 Ich bin froh, sie alle kennengelernt zu haben und hoffe in Zukunft noch vielen weiteren so starken, tollen Leuten zu begegnen, die alle etwas gemeinsam haben: Die Liebe zu den Tieren, der Umwelt und der eigenen Gesundheit. Während ich Erfahrungen, Rezepte, Adressen und Ideen mit anderen getauscht, gekocht, fotografiert und ausprobiert habe, ist mir gar nicht aufgefallen, wie schnell die Zeit vergangen ist.
 
 ## Vielen Dank!
 
-All diesen lieben, tollen Menschen möchte ich danken. Bleibt Euch treu, Ihr seid wundervoll, so wie Ihr seid! Könnt Ihr Euch z. B. noch an Johanna [<sup>5</sup>](#5) erinnern? Die freundliche Buddhistin mit dem Überlebenshof, für die die Rechte der Tiere immer an erster Stelle stehen? Oder an Sebastian [<sup>6</sup>](#6), den Sibirienreisenden, der die Grenzen des veganen Lebens ausgetestet hat? Denise [<sup>7</sup>](#7), die vegane Häkelmützen herstellt und die Einnahmen spendet? Margit [<sup>8</sup>](#8) von der veganen, solidarischen Landwirtschaft Hamburg? Petra [<sup>9</sup>](#9), die mit ihrer Taschenkollektion Aufsehen erregt?
+All diesen lieben, tollen Menschen möchte ich danken. Bleibt Euch treu, Ihr seid wundervoll, so wie Ihr seid! Könnt Ihr Euch z. B. noch an Johanna[^5] erinnern? Die freundliche Buddhistin mit dem Überlebenshof, für die die Rechte der Tiere immer an erster Stelle stehen? Oder an Sebastian[^6], den Sibirienreisenden, der die Grenzen des veganen Lebens ausgetestet hat? Denise[^7], die vegane Häkelmützen herstellt und die Einnahmen spendet? Margit[^8] von der veganen, solidarischen Landwirtschaft Hamburg? Petra[^9], die mit ihrer Taschenkollektion Aufsehen erregt?
 
 <RemoteImage
   alt={`Denise in Aktion - Foto: Norbert Zawe`}
@@ -88,11 +88,11 @@ All diesen lieben, tollen Menschen möchte ich danken. Bleibt Euch treu, Ihr sei
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcC/8QAKhAAAgEDAwIFBAMAAAAAAAAAAQIDBAURAAYhEkETFDFRcQcVImEygcH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgQB/8QAIREAAgIBBAIDAAAAAAAAAAAAAQIDEQASEzFxBCFBkdH/2gAMAwEAAhEDEQA/AMXueyL1LuSaJqORBPMViOMiQs2FAx3ORp9fPpPerNSpFcZ6BkjmCVC0s3iPDxnkY9tXTZFzlmvsMtUrzi2xS1HhAFmBX8Fbj15cH5xplv27UwvtPEK2oqH6o0AZEAKSZzwuMgKVHyufXUUXk6SuoXVE9ZVsbiEg1+5lG/rVJU11untdKBSGhiRUBwVxn1+eNGrUNpbnuMdP56yVAEECRK4kChzyScZ/Y0apeVQxCChZrrNRIyoMl6vn2OfrJtp2WusrWbcC1rwivgcmMRArLGzEdHX2/ip4B5xo3NaqJYrheKaOqFyjQPTxx4fxCoxg8ZJA5/rSHem7oaW0bYooF85Db6OOIjrKAyYLtj2AJA9zjTW9114+wUdXT+TWaWOF5qZ43JDOgkXpYHI49+/fSIiSISVo8YjMY2Cg2Mk2/um+2jbluXcNyMkU6Gaj6S0rrG3PSzfrIwMnA47aNd2++qsBG4IEpZ+o9CrCrEjvnsP90aaOJnUM5o94SSojFUFjP//Z"
 />
 
-Und nicht nur hier in meinem persönlichen Blog sind Interviews mit tollen Veganer\*innen erschienen. Auch im Welt Vegan Magazin [<sup>10</sup>](#10) und bei Vegan News [<sup>11</sup>](#11) gibt/gab es einiges zu lesen. Christiane [<sup>12</sup>](#12), die Gründerin der ersten komplett veganen Unterkunft in Hamburg, Thomas [<sup>13</sup>](#13), der Tierrechtsaktivist, Enrico [<sup>14</sup>](#14), der Limonadenerfinder und Matteo [<sup>15</sup>](#15), der auf Sardinien vegane Strandhäuser vermietet: Sie alle zähle ich inzwischen zu meinen Freunden, wir tauschen uns ständig über Neuigkeiten aus, schreiben und unterhalten uns. Ich habe Gründer kennengelernt, eine Theaterleiterin [<sup>16</sup>](#16), traf Hoteliers, Turnschuhfans [<sup>17</sup>](#17), Modeschöpfer [<sup>18</sup>](#18), Reisende, Entwickler und Mediziner.
+Und nicht nur hier in meinem persönlichen Blog sind Interviews mit tollen Veganer\*innen erschienen. Auch im Welt Vegan Magazin[^10] und bei Vegan News[^11] gibt/gab es einiges zu lesen. Christiane[^12], die Gründerin der ersten komplett veganen Unterkunft in Hamburg, Thomas[^13], der Tierrechtsaktivist, Enrico[^14], der Limonadenerfinder und Matteo[^15], der auf Sardinien vegane Strandhäuser vermietet: Sie alle zähle ich inzwischen zu meinen Freunden, wir tauschen uns ständig über Neuigkeiten aus, schreiben und unterhalten uns. Ich habe Gründer kennengelernt, eine Theaterleiterin[^16], traf Hoteliers, Turnschuhfans[^17], Modeschöpfer[^18], Reisende, Entwickler und Mediziner.
 
 ## Ich traf vegane Mediziner
 
-Besonders großen Spaß gemacht haben mir das Interview mit dem veganen Arzt Dr. Hanno Platz [<sup>19</sup>](#19) für Vegan News und das mit der veganen Ärztin Barbara Gorißen [<sup>20</sup>](#20) in meinem Blog. Diese beiden Artikel fanden übrigens auch auch den größten Anklang in der Online-Gemeinde, sie wurden heiß diskutiert, geteilt, getwittert und gepinnt, was das Zeug hält.
+Besonders großen Spaß gemacht haben mir das Interview mit dem veganen Arzt Dr. Hanno Platz[^19] für Vegan News und das mit der veganen Ärztin Barbara Gorißen[^20] in meinem Blog. Diese beiden Artikel fanden übrigens auch auch den größten Anklang in der Online-Gemeinde, sie wurden heiß diskutiert, geteilt, getwittert und gepinnt, was das Zeug hält.
 
 <RemoteImage
   alt={`Im Interview mit dem Tierrechtsaktivisten Thomas Laschyk`}
@@ -103,7 +103,7 @@ Besonders großen Spaß gemacht haben mir das Interview mit dem veganen Arzt D
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgEDB//EACoQAAICAgEDAwEJAAAAAAAAAAECAwQFEQASEyEGMUEiFTJCUXGBkdHh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOWV8f0SxM1G2FtnsoZ1V9OJk9tHf3SRs8YZmMo8UdKqCiEKqmRWfTON/sC4Gv8AeGQyFDE269eCsXs9xZrDoAjEA9RQMCfcDZ/jkrJ+t4KeWy1CrUkmrvY6VkKxq4cEFgAARrfgAHyQCeAkotbpX762K7a7nQGB7YJUkNrfvo8OXCH0HHlu5LWy6NXDkgr9X1EDfUCPD+AT8HfDgUzO4nKDMG6KZav1pHGqICQAuj4B3o6+d7B88kzWbouyZlKVZMpEwhUCHtvC8hAjkUHeyPIGz+IH444qW7TtGIKbE7OushSf0355i9hcrdzAtRwlq8ohMhSTQDI2wWHv40NH8/jgW7H+uLC4up9l0alaEr9cIgeQrIPDA6I0dg/3w5vq4qjWsWrMDz0xafraHvMgDedkKT43vhwP/9k="
 />
 
-Auf der Suche nach veganen und tierversuchsfreien Pflegeprodukten habe ich die Naturkosmetik entdeckt, tolle neue Sachen [<sup>21</sup>](#21) gefunden und zum Teil sogar selbst hergestellt. Alternativen zum bisher Alltäglichen bedeuten für mich keine Abstriche, ganz im Gegenteil: Leder aus aussortierten Früchten [<sup>22</sup>](#22) und Turnschuhe aus Abfall sind für mich zwei der genialsten Erfindungen der letzen Jahre! Ich liebe es, meinen Matcha-Tee mit Agavendicksaft zu süßen und stehe voll auf meine selbstgemachte Lippenpflege aus braunem Zucker und Kokosöl.
+Auf der Suche nach veganen und tierversuchsfreien Pflegeprodukten habe ich die Naturkosmetik entdeckt, tolle neue Sachen[^21] gefunden und zum Teil sogar selbst hergestellt. Alternativen zum bisher Alltäglichen bedeuten für mich keine Abstriche, ganz im Gegenteil: Leder aus aussortierten Früchten[^22] und Turnschuhe aus Abfall sind für mich zwei der genialsten Erfindungen der letzen Jahre! Ich liebe es, meinen Matcha-Tee mit Agavendicksaft zu süßen und stehe voll auf meine selbstgemachte Lippenpflege aus braunem Zucker und Kokosöl.
 
 "Glaubt mir, es gibt nichts besseres!", könnte ich jetzt schreiben, doch das tue ich nicht. Für mich persönlich ist vegan der einzige Weg, ich bin froh, dass ich ihn gefunden habe und ich werde ihn weitergehen. Für mich gibt es ganz sicher keine Rückkehr mehr zu alten Gewohnheiten. Ganz im Gegenteil: Wenn ich mich umdrehe und die Vergangenheit Revue passieren lasse, frage ich mich, warum ich mich nicht schon früher dafür entschieden habe. Ich bin der Meinung, jeder sollte das für sich selbst wissen. Es einfach mal auszuprobieren ist für jeden eine gute Sache und wenn Ihr dazu Fragen habt, kann ich Euch sicher zum ein oder anderen Thema einen Experten nennen, oder habe sogar selbst schon eine Antwort gefunden. Bei meiner Serie "10 Fakten über Veganismus" gibt es übrigens keinen Anspruch auf Vollständigkeit der Fakten. Solltet Ihr mal auf ein Thema stoßen, das ich mal näher beleuchten soll: Gebt mir gerne Bescheid, ich schreibe gerne was darüber. :-)
 
@@ -183,29 +183,26 @@ So, Schluss mit der Lobhudelei, ich muss kochen, heute gibt es was wirklich Leck
   ]}
 />
 
-## Fußnoten
-
-- \[1\] [Tierrechte](/2014/08/blutige-zahlen/)
-- \[2\] [Ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
-- \[3\] [Honig](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
-- \[4\] [Die Wahrheit über Milch](/2014/09/pflanzenmilch-wieso-denn-blos/)
-- \[5\] [Johanna im Interview](/2014/08/der-schutz-und-die-rechte-der-tiere-stehen-an-erster-stelle/)
-- \[6\] [Sebastian im Interview](/2015/01/ich-hatte-noch-nie-heimweh/)
-- \[7\] [Denise im Interview](/2015/04/vegane-haekelmuetzen-mit-statement/)
-- \[8\] [Margit im Interview](/2015/02/veganer-sind-unglaublich-kreativ/)
-- \[9\] [Petra im Interview](/2015/08/interview-mit-petra-mazur-von-ethice/)
-- \[10\] [Mein erster Artikel im Welt Vegan Magazin](/2015/04/mein-erster-artikel-im-welt-vegan-magazin/)
-- \[11\] Archiv meiner Artikel bei Vegan News (stillgelegt, [Artikel sind in meinem Blog umgezogen]() )
-- \[12\] Christiane im Interview
-- \[13\] [Thomas vom Volksverpetzer im Interview](/2014/10/thomas-laschyk-volksverpetzer/)
-- \[14\] Enrico im Interview
-- \[15\] [Interview mit Matteo von Vegan Travel Sardinia](/2015/04/vegane-strandhaeuser-auf-sardinien/)
-- \[16\] [Interview mit der Leiterin des Tierschutztheaters](/2019/09/kathrin-eva-schmid-vom-tierschutztheater-im-interview/)
-- \[17\] [Rainer von der Vegan Sneaker Connection im Interview](/2014/12/rainer-von-der-vegan-sneaker-connection-im-interview/)
-- \[18\] Interview mit den Modeschöpfern von Umasan
-- \[19\] [Dr. Hanno Platz im Interview](/2019/06/veganer-arzt-interview-dr-hanno-platz/)
-- \[20\] [Interview mit Dr. Barbara Gorißen](/2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/)
-- \[21\] [Tolle neue Sachen: Wolkenseifen](/2014/08/himmlische-dufte-ganz-ohne-plastik/)
-- \[22\] [Artikel über Leder aus aussortierten Früchten](/2019/06/fruitleather-rotterdam/)
-
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+[^1]: [Tierrechte](/2014/08/blutige-zahlen/)
+[^2]: [Ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+[^3]: [Honig](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+[^4]: [Die Wahrheit über Milch](/2014/09/pflanzenmilch-wieso-denn-blos/)
+[^5]: [Johanna im Interview](/2014/08/der-schutz-und-die-rechte-der-tiere-stehen-an-erster-stelle/)
+[^6]: [Sebastian im Interview](/2015/01/ich-hatte-noch-nie-heimweh/)
+[^7]: [Denise im Interview](/2015/04/vegane-haekelmuetzen-mit-statement/)
+[^8]: [Margit im Interview](/2015/02/veganer-sind-unglaublich-kreativ/)
+[^9]: [Petra im Interview](/2015/08/interview-mit-petra-mazur-von-ethice/)
+[^10]: [Mein erster Artikel im Welt Vegan Magazin](/2015/04/mein-erster-artikel-im-welt-vegan-magazin/)
+[^11]: Archiv meiner Artikel bei Vegan News (stillgelegt, [Artikel sind in meinem Blog umgezogen]() )
+[^12]: Christiane im Interview
+[^13]: [Thomas vom Volksverpetzer im Interview](/2014/10/thomas-laschyk-volksverpetzer/)
+[^14]: Enrico im Interview -[^15]: [Interview mit Matteo von Vegan Travel Sardinia](/2015/04/vegane-strandhaeuser-auf-sardinien/)
+[^16]: [Interview mit der Leiterin des Tierschutztheaters](/2019/09/kathrin-eva-schmid-vom-tierschutztheater-im-interview/)
+[^17]: [Rainer von der Vegan Sneaker Connection im Interview](/2014/12/rainer-von-der-vegan-sneaker-connection-im-interview/)
+[^18]: Interview mit den Modeschöpfern von Umasan
+[^19]: [Dr. Hanno Platz im Interview](/2019/06/veganer-arzt-interview-dr-hanno-platz/)
+[^20]: [Interview mit Dr. Barbara Gorißen](/2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/)
+[^21]: [Tolle neue Sachen: Wolkenseifen](/2014/08/himmlische-dufte-ganz-ohne-plastik/)
+[^22]: [Artikel über Leder aus aussortierten Früchten](/2019/06/fruitleather-rotterdam/)

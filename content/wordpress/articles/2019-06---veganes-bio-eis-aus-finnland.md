@@ -63,7 +63,7 @@ berichtet der Direktor des Food from Finland Programms bei Business Finland Esa 
 
 ## Veganes Bio-Eis Blaubeere und Kiefer
 
-Das Programm "Food from Finland "[<sup>1</sup>](#1) unterstützt finnische Lebensmittelunternehmen sich am internationalen Lebensmittelmarkt zu integrieren. Innovative, gesunde und natürliche Lebensmittel stehen dabei im Vordergrund. Bei "Business Finland "[<sup>2</sup>](#2) handelt es sich um eine öffentliche Einrichtung, die Firmen Innovationsfinanzierung und Unterstützung anbietet.
+Das Programm "Food from Finland"[^1] unterstützt finnische Lebensmittelunternehmen sich am internationalen Lebensmittelmarkt zu integrieren. Innovative, gesunde und natürliche Lebensmittel stehen dabei im Vordergrund. Bei "Business Finland"[^2] handelt es sich um eine öffentliche Einrichtung, die Firmen Innovationsfinanzierung und Unterstützung anbietet.
 
 Maito Oy produziert das Jymy Eis. Die Eisfabrik Suomisen Maito eröffnete 2014 und wurde seitdem bereits mehrfach mit Preisen ausgezeichnet. Alle Zutaten kauft Maito Oy bei regionalen Bauern ein. Die Eiscreme wird anschließend von Hand hergestellt. "Pistazie", "Schokolade Orange" und "Zwei Beeren" sind vegan. Außerdem gibt es neben finnischen Milcheisklassikern wie "Blaubeer", das zu über 30 Prozent aus Blaubeeren besteht, auch "verrückte" Sorten wie Kiefer - der laut Hersteller "finnischste Eisgeschmack aller Zeiten".
 
@@ -79,11 +79,6 @@ Rohstoffe wie **Waldbeeren** gedeihen im kühlen Klima Finnlands sehr gut. Etwa 
 
 [Auf der Jymy Homepage](http://www.jymy.fi) findet Ihr weitere Infos über das neue vegane Eis.
 
-### Fußnoten
-
-- <div id="1"></div>[1] [Food from Finland](https://www.businessfinland.fi/en/do-business-with-finland/explore-finland/food-drinks/food-from-finland-in-brief/)
-- <div id="2"></div>[Business Finland](https://www.businessfinland.fi/en/do-business-with-finland/home/)
-
 ### Quellen
 
 [Business Finland](https://www.businessfinland.fi/en/do-business-with-finland/home/), [Finnisches Institut für natürliche Ressourcen (Luke)](https://www.luke.fi/ruokafakta/de/titelseite/)
@@ -93,3 +88,6 @@ Rohstoffe wie **Waldbeeren** gedeihen im kühlen Klima Finnlands sehr gut. Etwa 
 © Suomisen Maito Oy 2019
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Man hat mir das Produkt nicht zur Verfügung gestellt oder mich bezahlt. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+[^1]: [Food from Finland](https://www.businessfinland.fi/en/do-business-with-finland/explore-finland/food-drinks/food-from-finland-in-brief/)
+[^2]: [Business Finland](https://www.businessfinland.fi/en/do-business-with-finland/home/)

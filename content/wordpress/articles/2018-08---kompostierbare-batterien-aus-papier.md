@@ -72,6 +72,6 @@ Nach wie vor offen ist, ob die nachhaltigen Batterien auf den Markt gebracht wer
 
 [Tolle Accessoires aus recyceltem Papier](https://www.adcell.de/promotion/click/promoId/169185/slotId/80259?param0=https%3A%2F%2Fmargreblue.de%2Fprodukt-kategorie%2Faccessoires-aus-recycelten-papier%2F) ](https://www.adcell.de/promotion/click/promoId/169217/slotId/80259/subId/httpsmargreblue.deprodukt-kategorieaccessoires-aus-recycelten-papier)
 
-- _Hinweis: Dieser Beitrag enthält eine Anzeige und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
-
 **Quelle:** Pressetext.com **Titelbild** : [andreas160578](https://pixabay.com/de/users/andreas160578-2383079/), pixabay
+
+\*Hinweis: Dieser Beitrag enthält eine Anzeige und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

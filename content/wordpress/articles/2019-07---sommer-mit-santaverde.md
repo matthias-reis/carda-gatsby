@@ -39,7 +39,7 @@ _Werbung\*_
 
 ---
 
-**Hinweis:** Die **Verlosung [<sup>1</sup>](#1) ** findet Ihr im Anschluss an meinen Produkttest. Es lohnt sich natürlich dennoch, ihn zu lesen. Im Artikel könnt Ihr einiges über die von mir getesteten Produkte erfahren.
+**Hinweis:** Die **Verlosung** findet Ihr im Anschluss an meinen Produkttest. Es lohnt sich natürlich dennoch, ihn zu lesen. Im Artikel könnt Ihr einiges über die von mir getesteten Produkte erfahren.
 
 ---
 
@@ -176,7 +176,7 @@ Insgesamt waren alle Produkte wirklich toll und haben sich im Test bewährt. Nic
 
 Falls Ihr Euch das fragt: Ja, es gab tatsächlich einige Leute, die es sehr interessant fanden, mir dabei zuzuschauen, wie ich am ersten Abend über den Campingplatz gelaufen bin und die Santaverde Schönheiten in all die wunderbaren Agaven und Aloes gelegt und vor Kakteen und Blumen drapiert habe. Das Licht war einfach zu schön, ich musste das ausnutzen und vielleicht habe ich bei meiner Aktion sogar eine neue Käuferin gewonnen. Bei einer Dame hat dann nämlich doch die Neugierde die Schüchternheit besiegt und sie hat mich gefragt, was ich da eigentlich in der Spülwanne mit mir herumtrage. ;-)
 
-## [1] Verlosung
+## Verlosung
 
 <RemoteImage
   alt={`pflege-santaverde`}

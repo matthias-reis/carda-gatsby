@@ -241,8 +241,6 @@ Außerdem möchten wir natürlich wachsen und noch weiter raus gehen in die Läd
 
 **Danny:** Ja das mache ich gerne, lieben Dank für das tolle Gespräch, ich wünsche dir auch weiterhin noch viel Erfolg mit deinem Blog!
 
-## Fußnoten
-
 - Das Rezept für vegane BBQ Sauce mit Vonig [findet Ihr hier](https://vegablum.de/rezepte/bbq-sosse).
 - [Hier hat mich Danny auf ihrer Homepage vorgestellt](https://vegablum.de/partner/anne-bloggt-cardamonchai).
 - Den Lebenshof El Kotti [findet Ihr hier](https://vegablum.de/partner/lebenshof-el-kotti).

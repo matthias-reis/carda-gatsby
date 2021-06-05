@@ -156,4 +156,4 @@ Das Unternehmen gibt es inzwischen seit fast 50 Jahren. Im Fokus stehen gut vert
 
 Zur Alkmene Homepage geht es [hier entlang](http://alkmene.de). Übrigens findet Ihr die Intensiv Cremeöl Lotion mit Bio-Olive sowie die Bio-Malve Körperbalsam seit einiger Zeit auch bei DM im Regal.
 
-_Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

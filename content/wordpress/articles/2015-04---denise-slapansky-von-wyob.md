@@ -122,7 +122,7 @@ Mit WYOB ist für Denise ein Traum in Erfüllung gegangen. Ich habe mich mit ihr
 
 ## "Der Shop geht in Kürze online"
 
-**Denise:** Der Shop geht in Kürze online. Derzeit kann per PN über unsere Facebook-Seite [<sup>1</sup>](#1)  bestellt werden. Auf diesem Weg ist alles noch sehr persönlich, was ich sehr schön finde, mal sehen, ob das auf Dauer so machbar ist.
+**Denise:** Der Shop geht in Kürze online. Derzeit kann per PN über unsere Facebook-Seite[^1]  bestellt werden. Auf diesem Weg ist alles noch sehr persönlich, was ich sehr schön finde, mal sehen, ob das auf Dauer so machbar ist.
 
 **Anne:** Welche Materialien werden für die Herstellung der Mützen verwendet?
 
@@ -162,7 +162,7 @@ Ich klebte den Flyer an meinen Kühlschrank, den ich komplett von tierischen Inh
 
 **Denise:** Ja, da kommt wieder mal der Satz zum Tragen: Die werden ja sowieso geschlachtet. Nach dem Motto: Wenn sie schon ihr Leben geben, ist das in Ordnung, wenn sie ganz verwertet werden. Dem ist aber leider nicht so.
 
-**Anne:** Wie konnte es überhaupt zu dieser, diesen Winter ganz stark wieder aufkeimenden, Pelzmode kommen? Beim Schlendern durch deutsche Innenstädte war es ja eine Zeitlang schier unmöglich, noch eine Jacke oder Mütze ohne Pelzbesatz zu finden. Wir haben vor ein paar Wochen ja sogar gemeinsam dagegen demonstriert [<sup>2</sup>](#2).
+**Anne:** Wie konnte es überhaupt zu dieser, diesen Winter ganz stark wieder aufkeimenden, Pelzmode kommen? Beim Schlendern durch deutsche Innenstädte war es ja eine Zeitlang schier unmöglich, noch eine Jacke oder Mütze ohne Pelzbesatz zu finden. Wir haben vor ein paar Wochen ja sogar gemeinsam dagegen demonstriert[^2].
 
 **Denise:** Zum Einen ist die Aufklärung über **Pelze** seit den 80er-Jahren, damals wurden Pelze ganz stark an den Pranger gestellt, stark zurück gegangen. Hinzu kommt, dass kaum noch komplette Mäntel und Jacken aus Pelz getragen werden, sondern eben nur Teile davon mit Pelz besetzt sind.
 
@@ -202,7 +202,7 @@ Das Labeling der Pelzbesätze ist mangelhaft, obwohl jeder, der es wissen will, 
 
 **Anne:** Bist du zufrieden mit dem Feedback zu "Augsburg is(s)t vegan"?
 
-**Denise:** Es gibt in Augsburg eine sehr rührige vegane Szene, die auch der jahrelangen Infoarbeit der TIA (Tierrechtsinitiative Augsburg) [<sup>3</sup>](#3) zu verdanken ist. Mit Infoständen und Kostproben klären engagierte, junge Leute seit Jahren mit sehr gutem Infomaterial Verbraucher auf. Es gibt viele verschiedene Events (z. B. "Peace Food Rocks "[<sup>4</sup>](#4) ), bei denen sich die Veganerinnen und Veganer regelmässig treffen und engagieren können. Das ist absolut wunderbar und ich bin froh, dass Augsburgs vegane Szene so gut vernetzt ist. Jede Bewegung trägt dazu bei.
+**Denise:** Es gibt in Augsburg eine sehr rührige vegane Szene, die auch der jahrelangen Infoarbeit der TIA (Tierrechtsinitiative Augsburg)[^3] zu verdanken ist. Mit Infoständen und Kostproben klären engagierte, junge Leute seit Jahren mit sehr gutem Infomaterial Verbraucher auf. Es gibt viele verschiedene Events (z. B. "Peace Food Rocks "[^4], bei denen sich die Veganerinnen und Veganer regelmässig treffen und engagieren können. Das ist absolut wunderbar und ich bin froh, dass Augsburgs vegane Szene so gut vernetzt ist. Jede Bewegung trägt dazu bei.
 
 **Anne:** Findest du das vegane Angebot in Augsburg gut? Was könnte noch besser werden?
 
@@ -225,7 +225,7 @@ Das Labeling der Pelzbesätze ist mangelhaft, obwohl jeder, der es wissen will, 
 
 Ich habe schreckliche Angst vor diesem Ort. Ich hatte zuvor schon mehrfach davor gestanden, in München und in Augsburg. Da ich einen Hänger und ein Fahrzeug habe, sagte ich zu. Es handelte sich um ein 8 Wochen altes Stierkalb, Typ Allgäuer Braunvieh. Ausschuss der Milchindustrie. Ich besorgte alles, Rohmilch, Kälbcheneimer, Freundin zur Unterstützung, Anhänger.
 
-Als wir dort ankamen, zitterten mir die Knie. Ich mussste "da" reingehen, drumherum Metzger mit bluttriefenden weissen Plastikschürzen. Nicole, die Ärztin, hatte dem Kalb einen Strick umgebunden. Zu dem kleinen Kerl, der voller Panik war sagte sie: "Vertrau mir". Das werde ich NIE vergessen. Sie übergab ihn mir und Paul und ich liefen zusammen im Höchsttempo vor diesem Ort davon, rauf auf den Hänger, Klappe zu – Sicherheit. Ich umarmte ihn und ich versprach ihm, mich um ihn zu kümmern. Das tat ich dann auch, bis er nach Hof Butenland durfte, dort ist Paul heute ein Star. Der Überlebenshof Hof Butenland [<sup>5</sup>](#5) ist für jedes gerettete Tier ein absoluter Hauptgewinn.
+Als wir dort ankamen, zitterten mir die Knie. Ich mussste "da" reingehen, drumherum Metzger mit bluttriefenden weissen Plastikschürzen. Nicole, die Ärztin, hatte dem Kalb einen Strick umgebunden. Zu dem kleinen Kerl, der voller Panik war sagte sie: "Vertrau mir". Das werde ich NIE vergessen. Sie übergab ihn mir und Paul und ich liefen zusammen im Höchsttempo vor diesem Ort davon, rauf auf den Hänger, Klappe zu – Sicherheit. Ich umarmte ihn und ich versprach ihm, mich um ihn zu kümmern. Das tat ich dann auch, bis er nach Hof Butenland durfte, dort ist Paul heute ein Star. Der Überlebenshof Hof Butenland[^5] ist für jedes gerettete Tier ein absoluter Hauptgewinn.
 
 > ## "Wir sollten alle mehr nachdenken!"
 
@@ -252,11 +252,11 @@ Als wir dort ankamen, zitterten mir die Knie. Ich mussste "da" reingehen, drumhe
 
 ### Fussnoten
 
-- [1] [Facebook-Seite von WYOB](https://www.facebook.com/pages/WYOB-save-lives-statement-kleidung/944915775541408?fref=nf)
-- [2] [Tierrechtsdemo Augsburg bei Vegan News](http://www.vegan-news.de/thomas-laschyk/)
-- [3] [Tierrechtsinitiative Augsburg](http://www.tierrechte-augsburg.de)
-- [4] [Peace Food Rocks](https://www.facebook.com/events/351493638369110/)
-- [5] [Hof Butenland](http://www.stiftung-fuer-tierschutz.de)
+[^1]: [Facebook-Seite von WYOB](https://www.facebook.com/pages/WYOB-save-lives-statement-kleidung/944915775541408?fref=nf)
+[^2]: [Tierrechtsdemo Augsburg bei Vegan News](http://www.vegan-news.de/thomas-laschyk/)
+[^3]: [Tierrechtsinitiative Augsburg](http://www.tierrechte-augsburg.de)
+[^4]: [Peace Food Rocks](https://www.facebook.com/events/351493638369110/)
+[^5]: [Hof Butenland](http://www.stiftung-fuer-tierschutz.de)
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

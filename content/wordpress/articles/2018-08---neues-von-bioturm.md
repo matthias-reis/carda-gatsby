@@ -200,6 +200,6 @@ Das klingt doch schon mal sehr gut, oder? Ich bleibe auf jeden Fall auch dran un
 
 [Mehr über Naturkosmetik gibt es hier](/2018/03/vegane-kosmetik-und-naturkosmetik/)
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
-
 Vielen Dank an Bioturm für die freundliche Zurverfügungstellung der Produkte! [Hier gehts zur Homepage](https://www.bioturm.de/).
+
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

@@ -74,8 +74,6 @@ Auch beim Cui Lu handelt es sich um einen grünen Tee. Er sollte Euch besonders 
 
 ## [3] China Yellow Sun
 
-<div id="ed-49303811" class="ed-element ed-headline custom-theme">
-
 Könnt Ihr Euch nicht richtig entscheiden, ob Ihr lieber Oolong-Tee trinken sollt oder Grüntee? Dann solltet Ihr China Yellow Sun mal eine Chance geben. Er wirkt in der Tasse schön sonnengelb. Der Oxydationsgrad liegt zwischen Ooolong und grünem Tee. Die Stufen sind hier: Grüntee, Yellow Sun, Oolong, Schwarztee. Sein Aroma würde ich mit dem von grünem Tee vergleichen, allerdings schmeckt er wesentlich milder. Ich kann mir vorstellen, dass er besonders gut, ist, wenn man einen empfindlichen Magen hat, aber auf eine Tasse Grüntee hier und da einfach nicht verzichten möchte.
 
 Auf der Seite vom Teehaus steht, dass er nach reifen Aprikosen duftet. Als ich das gelesen habe, war ich erstmal verwundert aber ich muss überrascht zugeben: Es stimmt! [China Yellow Sun](https://t.adcell.com/p/click?promoId=161287&slotId=80259&param0=https%3A%2F%2Fwww.roberts-teehaus.de%2F%3Fstore-page%3DChina-Yellow-Sun-Gelber-Tee-20-Gramm-p232128913) ist übrigens eine ziemlich alte Sorte. In China ist er bereits seit der Tang-Dynastie (617/18 bis 907) bekannt. Bei uns kann man ihn erst seit Kurzem kaufen. Er wird in gemäßigtem bis subtropischen Klima auf ungefähr 1.000 Metern Höhe angebaut.
@@ -164,5 +162,3 @@ Die schlichten Großverpackungen, die effiziente Arbeitsweise und der Verzicht a
 Wenn Ihr die Teesorten auch mal probieren wollt, schaut Euch mal das [Probierpaket](https://t.adcell.com/p/click?promoId=161287&slotId=80259&param0=https%3A%2F%2Fwww.roberts-teehaus.de%2F%3Fstore-page%3DProbepaket-Von-jeder-der-15-angebotenen-Teesorten-20-Gramm-Insgesamt-300-Gramm-Tee-p231961591) von Roberts Teehaus an. Natürlich könnt Ihr [auf der Seite](https://t.adcell.com/p/click?promoId=161287&slotId=80259&param0=https%3A%2F%2Fwww.roberts-teehaus.de%2F%3Fstore) auch alle Sorten einzeln kaufen.
 
 _\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
-
-</div>

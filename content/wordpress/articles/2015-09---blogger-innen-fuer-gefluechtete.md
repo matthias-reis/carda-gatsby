@@ -45,17 +45,17 @@ subTitle: Werdet aktiv!
 
 **Sicher ist Euch in den letzten Tagen genau wie mir beim Stöbern durch die Blogs immer wieder der Hashtag #BloggerfuerFluechtlinge aufgefallen. Ein Projekt, das wirklich jede/r Blogger/in unterstützen sollte, wie ich finde.**
 
-Dabei handelt es sich um eine Initiative von Paul [<sup>1</sup>](#1), Karla [<sup>2</sup>](#2), Stevan [<sup>3</sup>](#3) und Nico [<sup>4</sup>](#4). Die vier Blogger haben das Eine gemeinsam, wie sie selbst von sich sagen: Sie sind Menschen, die Menschen helfen möchten. Die Ziele von **#BloggerfuerFluechtlinge** [<sup>5</sup>](#5) sind:
+Dabei handelt es sich um eine Initiative von Paul[^1], Karla[^2]), Stevan[^3] und Nico[^4]. Die vier Blogger haben das Eine gemeinsam, wie sie selbst von sich sagen: Sie sind Menschen, die Menschen helfen möchten. Die Ziele von **#BloggerfuerFluechtlinge**[^5] sind:
 
 - Augen öffnen - Niemand soll wegschauen
 - Gemeinsam die Flüchtlingshilfe unterstützen
 
-Auf der Homepage von  **#BloggerfuerFluechtlinge** <sup> [5](#5)  </sup>wird aufgezeigt, wie man
+Auf der Homepage von  **#BloggerfuerFluechtlinge**[^5] wird aufgezeigt, wie man
 
 - Geld spenden kann,
 - Sachspenden leisten kann,
 - vor Ort Hilfe helfen kann,
-- die Botschaft von  **#BloggerfuerFluechtlinge** <sup> [5](#5)  </sup>weitergeben kann.
+- die Botschaft von  **#BloggerfuerFluechtlinge**[^5] weitergeben kann.
 
 Es werden Hilfsprojekte vorgestellt und Fragen beantwortet, es wird auf andere Blogs verlinkt, aufgeklärt, informiert und zum Spenden animiert.
 
@@ -70,9 +70,9 @@ Es werden Hilfsprojekte vorgestellt und Fragen beantwortet, es wird auf andere B
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABkDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQGBQf/xAA0EAACAQIEAgcECwAAAAAAAAABAgMEEQAFEiEGQRMUFSIxUZEHksHRF1VhYmRxgZWhsdL/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQAC/8QAGREBAQADAQAAAAAAAAAAAAAAAQACESEx/9oADAMBAAIRAxEAPwAtJ7PKQyzS5soih1hImarSIFgDcG4JuCPTFFScPcG5FNNDmUdNT6EEoM9U7gi3jsBt8sSjcFVUyl8wqKiZSxcqSuksTc7Ha259ftwDPoK6bNYRmCT1OXzIsVWiunSSKikIqWsV8iRy9MCd5K8FrftvgnLct6+ctpWpQwRqiCkSaNWO4XWxN2094qBcDGf9JPBHkv7enyxy6p4dlCCmJjRdSssDz69IB2BA5cr40exKn6l4d9D/AKxcQfW5y2eG66qczbo7yG7MLDfvH8vIYTiXfp5tJckgC/8AGJiir2aczVbu7karFfD9Phh2TM45ZbgugTa5N7E/1zwO5tRc0lKwyyMRfVfYb8sZHav4ke7hPM8wEkMyxsfEnc/DE31tPve9iha//9k="
 />
 
-Auch Ihr könnt  **#BloggerfuerFluechtlinge** <sup> [5](#5)  </sup>ganz einfach unterstützen. Dazu müsst Ihr Euch nur als Blogger auf der Seite von  **#BloggerfuerFluechtlinge** <sup> [5](#5) </sup> registrieren und das Logo inklusive Spendenbutton auf Eurer Seite einbinden. Im Anschluss könnt Ihr dann bloggen, twittern und auf Instagram und Facebook posten, was das Zeug hält und damit helfen, Menschen zu helfen.
+Auch Ihr könnt  **#BloggerfuerFluechtlinge**[^5] ganz einfach unterstützen. Dazu müsst Ihr Euch nur als Blogger auf der Seite von  **#BloggerfuerFluechtlinge**[^5] registrieren und das Logo inklusive Spendenbutton auf Eurer Seite einbinden. Im Anschluss könnt Ihr dann bloggen, twittern und auf Instagram und Facebook posten, was das Zeug hält und damit helfen, Menschen zu helfen.
 
-Über die Aktion  wurden bis zum heutigen Tage bereits 106.647 Euro von insgesamt 1.310 Spendern gesammelt. Durch zahlreiche Erwähnungen in der Presse, wie z. B. in der Süddeutschen Zeitung [<sup>6</sup>](#6), in der Frankfurter Rundschau [<sup>7</sup>](#7) und in der Huffington Post<sup> [8](#8)  </sup> sowie die virale Verbreitung durch die Blogger nimmt  **#BloggerfuerFluechtlinge** <sup> [5](#5)  </sup>von Tag zu Tag an Bekanntheit zu. Und das ist auch gut so.
+Über die Aktion  wurden bis zum heutigen Tage bereits 106.647 Euro von insgesamt 1.310 Spendern gesammelt. Durch zahlreiche Erwähnungen in der Presse, wie z. B. in der Süddeutschen Zeitung[^6] , in der Frankfurter Rundschau[^7] und in der Huffington Post[^8] sowie die virale Verbreitung durch die Blogger nimmt  **#BloggerfuerFluechtlinge**[^5] von Tag zu Tag an Bekanntheit zu. Und das ist auch gut so.
 
 Die beiden Fotos habe ich beim Sortieren von Kleiderspenden in der innerhalb der Hamburger Messehalle B7 eingerichteten Kleiderkammer aufgenommen. Wer Zeit hat und gerne mithelfen möchte: Am besten einfach hinfahren und Hilfe anbieten, Ihr könnt sofort dableiben und mit anpacken. Da täglich neue Flüchtlinge ankommen, die die Kleidung und Gegenstände des Alltags dringend benötigen, ist es besonders wichtig, dass die zahlreichen Sachspenden schnellstmöglich an sie weitergegeben werden können.
 
@@ -96,33 +96,11 @@ Helfer werden immer gebraucht. Ob eine Stunde zwischendurch oder gleich ein paar
   loadingUrl="data:image/jpeg;base64,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"
 />
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-- [1] [Paul](http://www.einfach-lecker-essen.com/blogger-fuer-fluechtlinge/)
-- [2] [Karla](http://www.buchkolumne.de/)
-- [3] [Stevan](http://nutriculinary.com/)
-- [4] [Nico](http://lumma.de/)
-- [5] [#Bloggerfuerfluechtlinge](http://www.blogger-fuer-fluechtlinge.de/)
-- [6] [Erwähnung in der Süddeutschen Zeitung](http://www.sueddeutsche.de/news/politik/fluechtlinge-bloggerfuerfluechtlinge-blogger-sammeln-spenden-dpa.urn-newsml-dpa-com-20090101-150828-99-12086 &lt;ul&gt;)
-- [7] [Erwähnung in der Frankfurter Rundschau](http://www.fr-online.de/digital/blogger-fuer-fluechtlinge-blogger-sammeln-spenden-fuer-fluechtlinge,1472406,31586248.html)
-- [8] [Erwähnung in der Huffington Post](http://www.huffingtonpost.de/paul-fritze/der-aufstand-der-anstandigen-im-netz-bloggerfuerfluechtlinge_b_8041836.html)
-
-Merken
-
-Merken
+[^1]: [Paul](http://www.einfach-lecker-essen.com/blogger-fuer-fluechtlinge/)
+[^2]: [Karla](http://www.buchkolumne.de/)
+[^3]: [Stevan](http://nutriculinary.com/)
+[^4]: [Nico](http://lumma.de/)
+[^5]: [#Bloggerfuerfluechtlinge](http://www.blogger-fuer-fluechtlinge.de/)
+[^6]: [Erwähnung in der Süddeutschen Zeitung](http://www.sueddeutsche.de/news/politik/fluechtlinge-bloggerfuerfluechtlinge-blogger-sammeln-spenden-dpa.urn-newsml-dpa-com-20090101-150828-99-12086)
+[^7]: [Erwähnung in der Frankfurter Rundschau](http://www.fr-online.de/digital/blogger-fuer-fluechtlinge-blogger-sammeln-spenden-fuer-fluechtlinge,1472406,31586248.html)
+[^8]: [Erwähnung in der Huffington Post](http://www.huffingtonpost.de/paul-fritze/der-aufstand-der-anstandigen-im-netz-bloggerfuerfluechtlinge_b_8041836.html)

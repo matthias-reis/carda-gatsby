@@ -124,7 +124,7 @@ Natürlich sind nicht nur Veganer⋆innen unter den Gästen, Neugierige sind jed
 
 **Anne:** Du bietest auch Kurse für Deine Gäste an? Was für welche genau?
 
-**Christiane:** Als nächstes findet Ende August ein Workshop zum Thema "Rohkost-Pizza" statt. Im Herbst geht es dann weiter mit einem veganen Menu-Kochkurs von Regina von Luxuskost [<sup>1</sup>](#1) . Ansonsten berate ich sowohl meine Gäste als auch Locals persönlich zum Umstieg auf eine vegane Ernährungs- und Lebensweise. Das kann in Form eines Coachings sein oder ganz praktisch anhand eines individuellen Kochkurses.
+**Christiane:** Als nächstes findet Ende August ein Workshop zum Thema "Rohkost-Pizza" statt. Im Herbst geht es dann weiter mit einem veganen Menu-Kochkurs von Regina von Luxuskost[^1] . Ansonsten berate ich sowohl meine Gäste als auch Locals persönlich zum Umstieg auf eine vegane Ernährungs- und Lebensweise. Das kann in Form eines Coachings sein oder ganz praktisch anhand eines individuellen Kochkurses.
 
 ## Zwei Monate im Voraus reservieren
 
@@ -148,7 +148,7 @@ Natürlich sind nicht nur Veganer⋆innen unter den Gästen, Neugierige sind jed
 
 ## "Vegan ist für mich die einzige ethisch korrekte Lebensweise"
 
-**Christiane:** Einen konkreten Auslöser gab es nicht. Ich war schon seit 2002 Vegetarierin und habe mich dann 2011 wieder intensiver mit dem Thema beschäftigt. Dabei bin ich zu dem Schluss gekommen, dass die vegane Lebensweise die einzig ethisch korrekte Lebensweise für mich ist. Eine Ausnahme mache ich allerdings, wenn auch sehr selten, bei gerettetem Essen. Ich hole über Foodsharing [<sup>2</sup>](#2) Lebensmittel bei Läden ab, die diese sonst entsorgen werden würden, weil sie zum Beispiel abgelaufen sind. Wenn ich diese Lebensmittel nicht weiter verteile, kommt es auch mal vor, dass ich ein Stück Butter oder was Ähnliches im Kühlschrank liegen habe. Fleisch oder Fisch werde ich aber sicherlich nie wieder essen können.
+**Christiane:** Einen konkreten Auslöser gab es nicht. Ich war schon seit 2002 Vegetarierin und habe mich dann 2011 wieder intensiver mit dem Thema beschäftigt. Dabei bin ich zu dem Schluss gekommen, dass die vegane Lebensweise die einzig ethisch korrekte Lebensweise für mich ist. Eine Ausnahme mache ich allerdings, wenn auch sehr selten, bei gerettetem Essen. Ich hole über Foodsharing[^2] Lebensmittel bei Läden ab, die diese sonst entsorgen werden würden, weil sie zum Beispiel abgelaufen sind. Wenn ich diese Lebensmittel nicht weiter verteile, kommt es auch mal vor, dass ich ein Stück Butter oder was Ähnliches im Kühlschrank liegen habe. Fleisch oder Fisch werde ich aber sicherlich nie wieder essen können.
 
 **Anne:** Hamburg ist vegan. Und das ist in aller Munde. Die veganen Cafés schießen wie Pilze aus dem Boden, im Supermarkt ist das Angebot breit gefächert, die Verkaufszahlen veganer Foodtrucks lassen die Pulled Pork Verkäufer vor Neid erblassen. Einige tun das ja als momentanen Trend ab. Wie siehst Du das? Ist es nur noch eine Frage der Zeit, bis Tierisches komplett aus den Ladenregalen verschwindet?
 
@@ -164,7 +164,7 @@ Dennoch ist es schön, dass sich immer mehr Menschen für diese Lebensweise eins
 
 **Anne:** Wie sieht es denn bei Euch aus, das Green Haven ist ja die erste komplett vegane Unterkunft in Hamburg. Habt Ihr schon Nachahmer gefunden?
 
-**Christiane:** Auf der Seite veggiehotels.com [<sup>3</sup>](#3) findet man alle vegetarisch-vegan ausgerichteten Unterkünfte in Deutschland und auch weltweit. Es gibt mittlerweile schon ein paar rein vegane. In Hamburg gibt es zwar zwei, drei Hotels, die auch ein veganes Frühstück anbieten, aber keins mit einem ganzheitlich vegan-nachhaltigem Konzept wie bei uns.
+**Christiane:** Auf der Seite veggiehotels.com[^3] findet man alle vegetarisch-vegan ausgerichteten Unterkünfte in Deutschland und auch weltweit. Es gibt mittlerweile schon ein paar rein vegane. In Hamburg gibt es zwar zwei, drei Hotels, die auch ein veganes Frühstück anbieten, aber keins mit einem ganzheitlich vegan-nachhaltigem Konzept wie bei uns.
 
 ## Verpackungsfrei einkaufen
 
@@ -188,10 +188,6 @@ Dennoch ist es schön, dass sich immer mehr Menschen für diese Lebensweise eins
 
 Wer gerne mehr über das Green Haven erfahren möchte, kann sich jederzeit auf der [Homepage](https://www.vegan-in-hamburg.de/) des Bed &amp; Breakfast informieren.
 
-## Fußnoten
-
-[1] [Luxuskost](https://www.luxus-kost.de/)
-
-[2] [Foodsharing](https://foodsharing.de/)
-
-[3] [20veggiehotels.com](https://www.veggie-hotels.com)
+[^1]: [Luxuskost](https://www.luxus-kost.de/)
+[^2]: [Foodsharing](https://foodsharing.de/)
+[^3]: [20veggiehotels.com](https://www.veggie-hotels.com)

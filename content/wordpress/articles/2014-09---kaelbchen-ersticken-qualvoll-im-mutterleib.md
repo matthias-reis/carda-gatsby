@@ -29,18 +29,13 @@ errors: {}
 subTitle: Das unfassbare Leid der Kühe
 ---
 
-<div class="page" title="Page 1">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-
 **Rund 10 Prozent der in Deutschland geschlachteten weiblichen Kühe sind trächtig, der überwiegende Teil von ihnen befindet sich in einem fortgeschrittenen Trächtigkeitsstadium. Pro Jahr sind davon rund 180.000 Tiere betroffen.**
 
 Dies geht aus der Studie von Rhien et. al. (2011) hervor, in der Daten aus 53 deutschen Schlachtbetrieben ausgewertet werden.
 
 ## Verstoß gegen geltendes Gesetz und keine Lösungsansätze in Sicht
 
-Die Bundestagsabgeordneten der von Bündnis 90/DIE GRÜNEN Bärbel Höhn, Friedrich Ostendorff, Nicole Maisch, Harald Ebner und Steffi Lemke stellten dazu am 8. Juli dieses Jahres eine Anfrage. Hier die Drucksache dazu [<sup>1</sup>](#1). Lösungsansätze gab es daher bis dato noch keine.
+Die Bundestagsabgeordneten der von Bündnis 90/DIE GRÜNEN Bärbel Höhn, Friedrich Ostendorff, Nicole Maisch, Harald Ebner und Steffi Lemke stellten dazu am 8. Juli dieses Jahres eine Anfrage. Hier die Drucksache dazu [^1]. Lösungsansätze gab es daher bis dato noch keine.
 
 Die Tierschutzbedingungen für den Transport sind auf nicht tragende Tiere ausgelegt, daher wird hier von vornherein schon mal gegen geltende Gesetze verstoßen.
 
@@ -50,7 +45,7 @@ Setzt die Versorgung über den Mutterleib durch die Tötung der Mutterkuh aus, s
 
 ## Trügerische Idylle
 
-Die Kälbchen sterben unter Zuckungen, ersticken unter heftigsten Abwehrreaktionen in ihrer Fruchtblase. Tierarzt Rupert Hildner spricht in der Panorama 3 Sendung des NDR vom 25. März [<sup>2</sup>](#2) von einem untragbaren Zustand: „Jeder von uns Fachleuten weiß, dass die Kuh mit einem Bolzenschussgerät betäubt wird, auf das Kälbchen hat dies jedoch keine Wirkung. Der Fötus stirbt, erstickt, verreckt elendiglich in einem lange andauernden Prozess.“
+Die Kälbchen sterben unter Zuckungen, ersticken unter heftigsten Abwehrreaktionen in ihrer Fruchtblase. Tierarzt Rupert Hildner spricht in der Panorama 3 Sendung des NDR vom 25. März [^2] von einem untragbaren Zustand: „Jeder von uns Fachleuten weiß, dass die Kuh mit einem Bolzenschussgerät betäubt wird, auf das Kälbchen hat dies jedoch keine Wirkung. Der Fötus stirbt, erstickt, verreckt elendiglich in einem lange andauernden Prozess.“
 
 Bedenkt man dabei, dass die Betäubung laut einer Umfrage von Bündnis 90/DIE GRÜNEN bei rund 4-9 Prozent der Rinder mangelhaft ist, oder sogar gänzlich fehlt, bekommt man nicht mal eine ungefähre Vorstellung, welches Grauen Mutterkühe und ihre ungeborenen Kinder in den Schlachthöfen erwartet.
 
@@ -71,7 +66,7 @@ Es geschieht jeden Tag. Hinter hohen Betonmauern erleiden Tiere Qualen, die sich
 
 ## Tierschutzrechtliche Vorschriften bieten keinen Schutz der Föten
 
-In der Stellungnahme des Amtstierarztes heißt es weiter: „Die tierschutzrechtlichen Vorschriften schützen die Föten praktisch nicht. Nach dem Tod des Muttertieres sterben sie durch Hypoxie [<sup>3</sup>](#3). Im normalen Schlachtprozess sind sie bei der Eviszeration bereits verendet. Das dürfte einer der Gründe sein, warum diese Problematik erst jetzt thematisiert wird. Ein tierschutzgerechtes Töten der Föten ist im herkömmlichen Schlachtprozess also nicht möglich, da sie einer Betäubung nicht zugänglich sind oder sich diese z. B. bei Narkotika aus lebensmittelrechtlichen Gründen verbietet.“
+In der Stellungnahme des Amtstierarztes heißt es weiter: „Die tierschutzrechtlichen Vorschriften schützen die Föten praktisch nicht. Nach dem Tod des Muttertieres sterben sie durch Hypoxie [^3]. Im normalen Schlachtprozess sind sie bei der Eviszeration bereits verendet. Das dürfte einer der Gründe sein, warum diese Problematik erst jetzt thematisiert wird. Ein tierschutzgerechtes Töten der Föten ist im herkömmlichen Schlachtprozess also nicht möglich, da sie einer Betäubung nicht zugänglich sind oder sich diese z. B. bei Narkotika aus lebensmittelrechtlichen Gründen verbietet.“
 
 Beim Lesen dieser Zeilen läuft es einem eiskalt den Rücken runter. Und da gibt es Menschen, die mit ruhigem Gewissen ihren Burger essen. Und es kommt noch schlimmer: „Im letzten Drittel der Trächtigkeit kann es zur Verunreinigung des Fleisches und des Arbeitsplatzes durch Fruchtwasser kommen, wenn der Uterus bei der Schlachtung angeschnitten oder unsachgemäß entfernt wird.“ Dies hat zur Folge, dass die Kühe im Anschluss an die Schlachtung tatsächlich auf dem Müll landen.
 
@@ -83,7 +78,7 @@ Deutsche Tierärzte fordern seit einiger Zeit ein generelles Schlachtverbot für
 
 Ein Schlachtverbot ist derzeit nur auf Europa-Ebene möglich, das Landwirtschaftsministerium stellte auf das Drängen der Tierschützer hin die Forderung an die EU-Kommission, Tiere wenigstens während des letzten Trächtigkeitsdrittels nicht mehr zu transportieren.
 
-Zunächst wurde das Thema vertagt, im Juli wurde die deutsche Delegation dann im zuständigen Ausschuss angehört, die EU-Kommission wurde dazu aufgefordert, die Schlachtungen der tragenden Kühe zu untersuchen und eine Lösung zu finden.
+Zunächst wurde das Thema vertagt, im Juli wurde die deutsche Delegation dann im zuständigen Ausschuss angehört, die EU-Kommission wurde dazu aufgefordert, die Schlachtungen der tragenden Kühe zu untersuchen[^4] und eine Lösung zu finden.
 
 ## Welttierschutzgesellschaft weist auf die Problematik hin
 
@@ -91,13 +86,7 @@ Nachdem von der Welttierschutzgesellschaft im März auf die Problematik hingewie
 
 Die Rinderhalter wurden im ersten Schritt dazu aufgefordert, möglichst keine trächtigen Tiere zu schlachten. Das Bundesministerium für Landwirtschaft prüft momentan, ob ein nationales Schlachtungsverbot für trächtige Rinder ausgesprochen werden darf. Eine Änderung der EU-Verordnung steht wohl auch weiterhin in den Sternen.
 
-### Quellen:
-
-</div>
--  [1]  [Drucksache von Bündnis 90/DIE GRÜNEN vom 08.05.2014](http://dip21.bundestag.de/dip21/btd/18/013/1801391.pdf)
--  [2]  [Panorama 3,](https://nebenan.de/)  [NDR Sendung vom 25.03.2014](https://www.ardmediathek.de/ard/player/Y3JpZDovL25kci5kZS9mMzRlZDNlNS1iMWYxLTQ0OGItYTAwMC1mNzQzMjlmNWNkOGE/)
--  [3]  [Begriffserklärung "Hipoxie"](https://de.wikipedia.org/wiki/Hypoxie_(Medizin))
--  [4]  [Erkenntnis zur Schlachtung gravider Tiere,](https://www.youtube.com/watch?time_continue=1225&amp;v=tNZXy6hfvhM)  [Stellungnahme des Amtstierarztes Dr. Wolfgang Kulow](https://www.amtstierarzt.de/)
-</div>
-</div>
-</div>
+[^1]: [Drucksache von Bündnis 90/DIE GRÜNEN vom 08.05.2014](http://dip21.bundestag.de/dip21/btd/18/013/1801391.pdf)
+[^2]: [Panorama 3,](https://nebenan.de/) [NDR Sendung vom 25.03.2014](https://www.ardmediathek.de/ard/player/Y3JpZDovL25kci5kZS9mMzRlZDNlNS1iMWYxLTQ0OGItYTAwMC1mNzQzMjlmNWNkOGE/)
+[^3]: [Begriffserklärung "Hipoxie"](<https://de.wikipedia.org/wiki/Hypoxie_(Medizin)>)
+[^4]: [Erkenntnis zur Schlachtung gravider Tiere,](https://www.youtube.com/watch?time_continue=1225&v=tNZXy6hfvhM) [Stellungnahme des Amtstierarztes Dr. Wolfgang Kulow](https://www.amtstierarzt.de/)

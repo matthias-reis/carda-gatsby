@@ -49,10 +49,10 @@ Insgesamt ist das ein überraschend positives Ergebnis. Im Hinblick auf die Gefa
 
 ## Gesunde Ernährung wird zum Mainstream-Thema
 
-In der Pressemitteilung [<sup>1</sup>](#1) ] zur Studie fasst Graeme McCracken zusammen:
+In der Pressemitteilung[^1] zur Studie fasst Graeme McCracken zusammen:
 
 "Klar war Corona die treibende Kraft, die viele dazu gebracht hat, ihre Ernährung umzustellen. Aber es gibt auch eine ganze Menge andere Gründe, warum sich Menschen entscheiden, weniger Fleisch zu sich zu nehmen. Zwar gibt es in den Zielgruppen einige Überschneidungen, die kombinierte Faktoren deuten allerdings darauf hin, dass die veränderten Essgewohnheiten im Laufe des Jahres 2021 zu einem Mainstream-Thema werden. Die Konsument⋆innen machen sich mehr Gedanken zu Themen wie die Herkunft der Lebensmittel. Dadurch werden die Einzelhändler⋆innen und die Gastronomie zu mehr Transparenz gedrängt – von der Aussaht bis zum Verzehr."
 
 [UN Umweltchefin Inger Andersen: "COVID-19 ist kein Lichtblick für das Klima"](/2020/04/inger-andersen-un-covid-19/)
 
-**Quelle/Source:** [1] [PR Newswire](https://www.prnewswire.com/news-releases/pandemic-fuels-shift-away-from-meat-says-new-proagrica-study-301234585.html)
+[^1]: [PR Newswire](https://www.prnewswire.com/news-releases/pandemic-fuels-shift-away-from-meat-says-new-proagrica-study-301234585.html)

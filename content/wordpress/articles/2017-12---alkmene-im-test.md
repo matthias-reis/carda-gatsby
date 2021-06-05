@@ -143,4 +143,4 @@ Der Duft der Produkte ist sehr angenehm und sie sind auch für empfindliche Haut
 
 Alle Produkte findet Ihr natürlich auf der [Homepage](http://alkmene.de/produkte/) von Alkmene.
 
-_\*Hinweis: Dieser Beitrag enthält Produktplatzierungen. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Produktplatzierungen. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

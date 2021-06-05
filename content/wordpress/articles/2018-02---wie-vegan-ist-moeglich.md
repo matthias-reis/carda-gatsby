@@ -149,4 +149,4 @@ Falls Du [Rezeptideen](/tag/vegan/vegane-rezepte/) oder Einkaufstipps brauchst: 
 1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass) </li>
     </ol>
 
-- _Hinweis: Dieser Beitrag enthält eine Anzeige mit einem Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält eine Anzeige mit einem Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

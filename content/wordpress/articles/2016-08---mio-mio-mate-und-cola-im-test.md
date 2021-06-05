@@ -113,4 +113,4 @@ Falls Ihr Euch selbst mal informieren möchtet: Die Facebook-Seite von MIO MIO [
   ]}
 />
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. In diesem Fall habe ich die Produkte sogar gewonnen. Infos zum Thema Werbung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. In diesem Fall habe ich die Produkte sogar gewonnen. Infos zum Thema Werbung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

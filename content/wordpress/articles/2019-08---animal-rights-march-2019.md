@@ -45,7 +45,7 @@ errors: {}
 subTitle: Erfolg für das Tier&shy;rechts&shy;ak&shy;ti&shy;vis&shy;ten&shy;bünd&shy;nis
 ---
 
-**Am 25. August fand in der Berlin wieder der offizielle Animal Rights March statt. Das Event wurde 2016 von Surge [<sup>1</sup>](#1) in London gegründet und findet seither jährlich weltweit in verschiedenen Städten statt.**
+**Am 25. August fand in der Berlin wieder der offizielle Animal Rights March statt. Das Event wurde 2016 von Surge[^1] in London gegründet und findet seither jährlich weltweit in verschiedenen Städten statt.**
 
 Der Marsch soll die **vegane Gemeinschaft** weltweit vereinen und Menschen dazu inspirieren, sich im Alltag für Tiere stark zu machen und auch andere zu animieren, aktiv zu werden.
 
@@ -64,7 +64,7 @@ In diesem Jahr wurden dann endgültig sämtliche Rekorde gebrochen: allein in Be
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAHBAb/xAApEAACAQMDBAEDBQAAAAAAAAABAgMEBREAEiEGEzFBIgcUFUJRUpHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQQFAAP/xAAjEQEAAQQABQUAAAAAAAAAAAABAgADESEEEhNBcRQiMWGh/9oADAMBAAIRAxEAPwC/LJV3yuoJaWWS30rwBNhbfMZUzgjHAGG5HnAGuWhv0LdWLFaUaW209VCzr8m7ZBUBeRnggr49axCx3KWjuQleaWKoilCuC3LqG5VgfPvz71qPSlyYWXqya1d2saLvY4EWAnyQkA5GD+o8nbpG/bbQ9xMU9YkcQRj8Iq0jdqPp6OyXK5xy1NLcot80bwTKiu3qPYTnOSMjg/E8Y40R1l0hDbeklvFDcGnMbJ9yZAVDB8YYZA/0cHnI14W2dTVdTZa+nuFyj7lZJuaeq3yMpYq2RjP8WBOCRkY86ct3WbwfTe4RVs8FbPLI1JDHLAuSOCr5IydvkZ8HGuHpJQA+wovRu8zjHtz4TNZ/HLtLuS3eILF85z7Oc6Ua4i3Xe8bIO7HVloTG0jKDuKsd2OSPP96tWrFwHBU+xqMpd9fo0ZKlF+MqiFnWsSoIUDHbCZxj986TtqXS1dIxX2hrI4o2qjTYCguDsJ9gjGF1atCesJWhtkea/9k="
 />
 
-Der March wurde in Berlin [<sup>2</sup>](#2) vom Hamburger Tierrechtsaktivistenbündnis [<sup>3</sup>](#3) veranstaltet. Im Nachklang bedankten sich viele Stimmen für die großartige Organisation. Das Tierrechtsaktivistenbündnis gibt es seit Anfang 2018. Es besteht aus Andreas, Markus, Caro seit 2014 und Inga. Für Tiere setzen sich die vier schon seit ein paar Jahren ein (Andreas seit 2012, Markus und Caro seit 2014, Inga seit 2016). Auf die Frage "Was ist Eure Mission?" antworten sie:
+Der March wurde in Berlin[^2] vom Hamburger Tierrechtsaktivistenbündnis[^3] veranstaltet. Im Nachklang bedankten sich viele Stimmen für die großartige Organisation. Das Tierrechtsaktivistenbündnis gibt es seit Anfang 2018. Es besteht aus Andreas, Markus, Caro seit 2014 und Inga. Für Tiere setzen sich die vier schon seit ein paar Jahren ein (Andreas seit 2012, Markus und Caro seit 2014, Inga seit 2016). Auf die Frage "Was ist Eure Mission?" antworten sie:
 
 > "Unsere Mission ist es, die Tierrechtsszene organisationsübergreifend zu vereinen und mithilfe von Großdemonstrationen das Thema Tierrechte in die Mitte der Gesellschaft und in die Politik zu tragen. Wir sind viele und wir sind vielfältig, aber uns eint das Ziel: Tiere haben Rechte."
 
@@ -74,10 +74,8 @@ Sie möchten es mittel- bis langfristig schaffen, eine Tierrechtsdemo in Deutsch
 
 Der Animal Rights March 2019 zählt mit der Organisation und Durchführung der Großveranstaltung "Hand in Hand für Tierrechte" in Hamburg zum Weltvegantag 2018 mit über zwanzig teilnehmenden Tierrechtsorganisationen und mehr als 3.000 Teilnehmer\*innen zu ihren bisher größten Erfolgen. Beide Veranstaltungen sind für 2020 wieder geplant. Für "Hand in Hand für Tiere" habe ich uns schon angemeldet. Leider konnten wir dieses Jahr nicht beim Animal Rights March dabei sein, hoffen aber, dass wir es nächstes Jahr schaffen. [Der liebe Tobias](/2019/08/vegan-models-so-ticken-veganerinnen/) war vor Ort und so nett, ein paar eindrucksvolle Bilder zu meinem Artikel beizusteuern.
 
-### Fußnoten
-
-- [1] [Surge](https://surgeactivism.org/theofficialanimalrightsmarch)
-- [2] [Tierrechtsaktivistenbündnis Hamburg](https://animalrightsmarchgermany.de/)
-- [3] [Official Animal Rights March](https://www.theofficialanimalrightsmarch.org/ target=)
-
 **Fotos:** [Tobias Hess Photography](https://tobiashess-photography.com)
+
+[^1]: [Surge](https://surgeactivism.org/theofficialanimalrightsmarch)
+[^2]: [Tierrechtsaktivistenbündnis Hamburg](https://animalrightsmarchgermany.de/)
+[^3]: [Official Animal Rights March](https://www.theofficialanimalrightsmarch.org/)

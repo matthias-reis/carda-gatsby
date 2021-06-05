@@ -84,7 +84,7 @@ Nachdem die Gruppe 2004 ihr drittes Album herausgebracht hatte, legte sie 2004 e
 
 **Anne:** Ihr solltet im Moment eigentlich auf Tour sein. Wie verbringt Ihr Eure Zeit stattdessen? Arbeitet Ihr an neuen Stücken?
 
-**Roger:** Wir arbeiten an einer Aufnahme für den Soundtrack des Stücks "Frontera" der Tanzgruppe Animals Of Distinction [<sup>1</sup>](#1). Wir hatten das schon geplant, als wir von unserer Europatour zurückgekommen sind. Für uns bedeutet das im Moment nur, dass wir mehr Zeit haben, um daran zu arbeiten. Ich persönlich habe außerdem mit Hochdruck an einem Soloprojekt gearbeitet, bei dem die Gitarren im Fokus stehen. Man könnte sagen, es ist eine Art Fortsetzung des Materials, das ich mit unserer letzten LP "C'est ça" zu entdecken begonnen habe. Es besteht im Grunde aus gesampelten und hoch-prozessierten Gitarren. Es klingt ein bisschen, als hätte Christian Zanési gemeinsam mit Robin Gutrie eine Platte aufgenommen.
+**Roger:** Wir arbeiten an einer Aufnahme für den Soundtrack des Stücks "Frontera" der Tanzgruppe Animals Of Distinction[^1]. Wir hatten das schon geplant, als wir von unserer Europatour zurückgekommen sind. Für uns bedeutet das im Moment nur, dass wir mehr Zeit haben, um daran zu arbeiten. Ich persönlich habe außerdem mit Hochdruck an einem Soloprojekt gearbeitet, bei dem die Gitarren im Fokus stehen. Man könnte sagen, es ist eine Art Fortsetzung des Materials, das ich mit unserer letzten LP "C'est ça" zu entdecken begonnen habe. Es besteht im Grunde aus gesampelten und hoch-prozessierten Gitarren. Es klingt ein bisschen, als hätte Christian Zanési gemeinsam mit Robin Gutrie eine Platte aufgenommen.
 
 **JS:** Neben der Arbeit für die FPA Platte, habe ich auch versucht, an neuen Aufnahmen für Avec le soleil sortant de sa bouche und meine nächste Soloplatte zu arbeiten. Weil aber mein sechsjähriger Sohn bei mir ist (und meine Partnerin, die im Moment von zu Hause aus arbeitet), ist es nicht leicht, an Musik zu arbeiten. Es ist natürlich toll, all diese Zeit mit meinem Sohn zu haben, allerdings passiert im Moment auch einfach nicht sehr viel.
 
@@ -290,7 +290,7 @@ The current album "C'est ça" which has been released in 2019, has been well rec
 
 **Anne:** Under other circumstances, you'd be on tour right now. How are you spending your time instead of that? Are you working on new pieces?
 
-**Roger:** We are working on a record of our score for Animals of Distinction's dance piece, Frontera [<sup>1</sup>](#1). We were already planning on doing this once we came back from our European tour, so this just means we have more time to work on it. I've personally been busy working on a solo project focused on guitar, or more like post-guitar. You could say this is kind of a continuation of the stuff I started exploring with our last LP, "C'est ça". It's basically sampled and hyper-processed guitar, kind of like if Christian Zanési had made a record with Robin Guthrie.
+**Roger:** We are working on a record of our score for Animals of Distinction's dance piece, Frontera[^1]. We were already planning on doing this once we came back from our European tour, so this just means we have more time to work on it. I've personally been busy working on a solo project focused on guitar, or more like post-guitar. You could say this is kind of a continuation of the stuff I started exploring with our last LP, "C'est ça". It's basically sampled and hyper-processed guitar, kind of like if Christian Zanési had made a record with Robin Guthrie.
 
 **JS:** Apart from working on the FPA record, I've also been trying to work on a new record for Avec le soleil sortant de sa bouche and my next solo record. But because my six-year-old son is with me (and my partner who is now working from home), working on music has been difficult. That said, it's been great to have all this time with my son, a thing that doesn't happen that much usually.
 
@@ -442,6 +442,4 @@ It's funny to read some of the reviews out there, some of the people complain th
   sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
 ></iframe>
 
-### Fußnote/footnote:
-
-- [1] [Animals Of Distinction - "Frontera"](https://www.dansedanse.ca/en/animals-distinction-frontera)
+[^1]: [Animals Of Distinction - "Frontera"](https://www.dansedanse.ca/en/animals-distinction-frontera)

@@ -150,4 +150,4 @@ Für viele Produkte wird auf CO2-Extraktion zurückgegriffen. Bei diesem moderne
 
 Wer jetzt neugierig geworden ist und gerne wissen möchte, ob die Bioturm-Produkte auch was für sie/ihn sind: Ihr findet Sie in vielen Drogeriemärkten wie zum Beispiel Budni sowie in den Denns Biosupermärkten und natürlich auf der Bioturm [Homepage](http://www.bioturm.de). Dort gibt es übrigens auch eine praktische [Händlersuche](http://www.bioturm.de/.cms/Haendlersuche/544-1). Einfach Euren Wohnort in die Suchmaske eingeben und es kann losgehen.
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

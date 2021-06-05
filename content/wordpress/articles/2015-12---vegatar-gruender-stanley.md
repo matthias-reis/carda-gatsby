@@ -219,7 +219,7 @@ Da es auch in der Politik zum Geschäft geworden ist, Gewinne zu erzielen, liegt
 
 **Anne:** Wo kann man Eure Taschen kaufen?
 
-**Stanley:** Erste Anlaufstelle für die DiOsA Handtaschen ist unser Onlineshop [<sup>1</sup>](#1).
+**Stanley:** Erste Anlaufstelle für die DiOsA Handtaschen ist unser Onlineshop[^1].
 
 **Anne:** Ein Blick in die Zukunft von Vegatar. Wie geht es weiter? Was sind die nächsten Schritte? Was plant Ihr?
 
@@ -231,8 +231,6 @@ Darüber hinaus gibt es neben dem Bereich "Vegan Fashion" bei Vegatar den Bereic
 
 **Stanley:** Herzlichen Dank, liebe Anne! Es war mir eine große Freude.
 
-## Fußnote
-
-[1] [Homepage und Onlineshop Vegatar](https://www.vegatar.com/)
+[^1]: [Homepage und Onlineshop Vegatar](https://www.vegatar.com/)
 
 Bilder: Vegatar

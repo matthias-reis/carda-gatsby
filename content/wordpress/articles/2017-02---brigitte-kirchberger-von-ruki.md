@@ -117,4 +117,4 @@ RuKi findet Ihr außerdem auch auf [Facebook](https://www.facebook.com/RukiGlute
 
 Hier geht es zum RuKi [Online-Shop](http://ruki-glutenfrei-shop.de/epages/4d431292-e973-499c-a3e6-8674aef836ee.sf/de_DE/?ObjectPath=/Shops/4d431292-e973-499c-a3e6-8674aef836ee/Categories/%22%C3%9Cber%20uns%20und%20Kontakt%22).
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

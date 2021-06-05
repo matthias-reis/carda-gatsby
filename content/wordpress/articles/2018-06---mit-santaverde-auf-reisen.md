@@ -114,4 +114,4 @@ Die beiden Tübchen wandern jetzt in mein Reisegepäck. Ihr habt hiermit meine E
 
 Wer gerne auch mal im Santaverde Shop stöbern möchte, [kann das hier tun](https://santaverde.shop/).
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

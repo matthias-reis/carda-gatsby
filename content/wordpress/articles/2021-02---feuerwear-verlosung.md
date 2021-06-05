@@ -54,7 +54,7 @@ Das Tolle an den Partner-Portemonnaies: Es handelt sich wie bei allem von Feuerw
 
 [Jetzt gleich an der Verlosung teilnehmen](#⋆)
 
-Die Valentins-Edition des Kölner Kult-Labels gibt es exklusiv im Feuerwear Online-Shop [<sup>1</sup>](#1) (ausschließlich vom 27. Januar bis zum 14. Februar) und in der Verlosung. Die Stückzahl ist streng limitiert. Wenn Ihr also gerne das Herz Eures Lieblingsmenschen höher schlagen lassen wollt, solltet Ihr am besten nicht lange zögern.
+Die Valentins-Edition des Kölner Kult-Labels gibt es exklusiv im Feuerwear Online-Shop[^1] (ausschließlich vom 27. Januar bis zum 14. Februar) und in der Verlosung. Die Stückzahl ist streng limitiert. Wenn Ihr also gerne das Herz Eures Lieblingsmenschen höher schlagen lassen wollt, solltet Ihr am besten nicht lange zögern.
 
 Die individuellen Spuren, die das Material in Einsätzen bei Wind und Wetter geprägt haben, bringen schön zur Geltung, dass Ihr zusammen durch dick und dünn geht. Besonders schön ist, dass sie besonders robust sind. Sie werden Euch für viele Jahre treu begleiten.
 
@@ -76,8 +76,6 @@ Ihr habt genug gelesen und möchtet das tolle Portemonnaie-Pärchen gerne gewinn
 
 [Hier geht es zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/)
 
-<div id="1"></div>
-
-[1] [Homepage Feuerwear](https://www.feuerwear.de/unsere-aktionen/valentins-edition)
+[^1]: [Homepage Feuerwear](https://www.feuerwear.de/unsere-aktionen/valentins-edition)
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _

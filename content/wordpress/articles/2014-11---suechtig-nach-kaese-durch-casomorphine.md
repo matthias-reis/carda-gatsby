@@ -60,7 +60,7 @@ So viel zu meiner persönlichen "Käsegeschichte", wie ich schließlich den "Abs
 
 ## Meine Recherche öffnete mir die Augen
 
-Bei den Casomorphinen handelt es sich um Opiat-ähnliche Stoffe, sogenannte Peptide [<sup>1</sup>](#1), die bei der Verdauung aus dem in Milchprodukten häufigsten Protein, dem Kasein entstehen. Es passiert die Blut-Hirn-Schranke und reizt die Rezeptoren im Gehirn, die auch für den Rausch nach der Einnahme von Morphinen verantwortlich sind.
+Bei den Casomorphinen handelt es sich um Opiat-ähnliche Stoffe, sogenannte Peptide [^1], die bei der Verdauung aus dem in Milchprodukten häufigsten Protein, dem Kasein entstehen. Es passiert die Blut-Hirn-Schranke und reizt die Rezeptoren im Gehirn, die auch für den Rausch nach der Einnahme von Morphinen verantwortlich sind.
 
 Casomorphine dämpfen das Bewusstsein, sie lindern Schmerzen und beeinflussen den Blutdruck und die Bewegung des Darms. Die Morphine in der Milch sollen dazu dienen, die Beziehung des Kälbchens zu seiner Mutter zu stärken, beim Säugen wirken sie beruhigend auf das Junge. Dabei darf nicht vergessen werden, dass Kälber nicht nur über einen völlig anderen Verdauungsapparat verfügen, als wir Menschen, sondern dass es sich dabei um deren Muttermilch handelt, die wir Menschen ihnen wegnehmen.
 
@@ -101,6 +101,4 @@ Ihr möchtet gerne wissen, warum Pflanzenmilch für mich die bessere Wahl ist? [
 
 **Literaturtipps:** "Raus aus der Käsefalle" von Dr. Neal D. Barnard, "Milch besser nicht" von Maria Rollinger **Quellen:** [Vegane Beratung](https://www.vegane-inspiration.com/casomorphine.html), [Dr. Hanno Platz](https://www.dr-platz.de/), [Dr. Neal D. Barnard](https://www.pcrm.org/news/blog)
 
-## Fußnote
-
-- [1] [Peptide Wikipedia](https://de.wikipedia.org/wiki/Peptid)
+[^1]: [Peptide Wikipedia](https://de.wikipedia.org/wiki/Peptid)

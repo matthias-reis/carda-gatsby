@@ -143,4 +143,4 @@ Besonders klasse finde ich am Basket nach wie vor, dass sich Ina wirklich Mühe 
 
 Zum Vegan Beauty Basket geht es [hier entlang.](https://www.veganbeautybasket.com/)
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

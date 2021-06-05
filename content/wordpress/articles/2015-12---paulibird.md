@@ -80,4 +80,4 @@ Käuflich erwerben kann man die Paulibird Schmuckstücke im Paulibird Shop oder 
 
 Diesen Beitrag habe ich bereits am 10. Januar 2016 veröffentlicht. Da er jedoch nach wie vor aktuell ist, teile ich ihn heute erneut mit Euch.
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

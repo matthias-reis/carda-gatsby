@@ -45,7 +45,7 @@ subTitle: Endlich wieder Spukgeschichten!
 
 ---
 
-**Hinweis:** Die **Verlosung [<sup>1</sup>](#1) ** findet Ihr im Anschluss an den Artikel. Natürlich lohnt es sich dennoch, ihn zu lesen. Ihr könnte darin einige spannende Fakten über die Gruselserie erfahren.
+**Hinweis:** Die **Verlosung** findet Ihr im Anschluss an den Artikel. Natürlich lohnt es sich dennoch, ihn zu lesen. Ihr könnte darin einige spannende Fakten über die Gruselserie erfahren.
 
 ---
 
@@ -89,7 +89,7 @@ Die Besetzungsliste der neuen Folgen ist übrigens nicht von schlechten Eltern. 
 
 Kennengelernt habe ich die neuen Folgen im Rahmen einer Grusel Pressekonferenz in einem Escape Room bei uns in Hamburg. Nach einem tollen Catering und einer (wirklich unheimlichen!) Stunde in der "Cabin in the Woods" (der Escape Room entstand _nicht_ in Anlehnung an den gleichnamigen Film) gab es bei bunten 80er Süßigkeiten noch einige spannende Unterhaltungen mit Heikedine Körting. Ein rundum gelungener Abend. Vielen Dank an Silke von Kühl PR für die Einladung!
 
-## [1] Verlosung
+## Verlosung
 
 Für Euch habe ich mir zusammen mit Silke etwas ganz Besonderes ausgedacht: Ich verlose die neuen Gruselserie Folgen! Unter allen Einsendungen verlose ich zwei tolle Pakete:
 

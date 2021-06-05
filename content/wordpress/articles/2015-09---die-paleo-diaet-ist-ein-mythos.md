@@ -30,7 +30,7 @@ errors: {}
 subTitle: Forscher decken auf
 ---
 
-**"Unsere Vorfahren haben Getreide statt Fleisch gegessen!" Das haben jetzt Forscher in Italien herausgefunden. Laut eines aktuellen Berichts im New Scientist [<sup>1</sup>](#1) sind die bisherigen Annahmen, unsere Vorfahren hätten sich hauptsächlich von Fleisch ernährt, falsch.**
+**"Unsere Vorfahren haben Getreide statt Fleisch gegessen!" Das haben jetzt Forscher in Italien herausgefunden. Laut eines aktuellen Berichts im New Scientist[^1] sind die bisherigen Annahmen, unsere Vorfahren hätten sich hauptsächlich von Fleisch ernährt, falsch.**
 
 Die Forscherin Marta Mariotti Lippi fand mit ihrem Team von der Universität Florenz im Süden von Italien Spuren von Hafer und historische Mahlwerkzeuge. Sie lassen sich 32.000 Jahre zurückdatieren. Die Menschen haben somit bereits 20.000 Jahre früher Mehl hergestellt, als die Wissenschaft bisher vermutet hatte.
 
@@ -46,11 +46,11 @@ so Lippi. In Mittelitalien wurden Speisen aus wildem Weizen zubereite. Auch in R
 
 Der New Scientist zitiert ferner die Forschungsergebnisse des Archeologen Matt Pope von der Universität in London.
 
-> "Die Paleo Diät ist ein Mythos. Es besteht ein Zusammenhang zwischen der Ernährung, Versuchen mit der Entwicklung pflanzlicher Nahrung und der kulturellen Entwicklung. Diese gilt es zu erforschen. "[<sup>2</sup>](#2)
+> "Die Paleo Diät ist ein Mythos. Es besteht ein Zusammenhang zwischen der Ernährung, Versuchen mit der Entwicklung pflanzlicher Nahrung und der kulturellen Entwicklung. Diese gilt es zu erforschen[^2].
 
 Bei der Paleo Diät steht Protein im Mittelpunkt. Aus 100 Gramm Hafer können beispielsweise 17 Gramm pflanzliches Protein gewonnen werden.
 
-- [1] [Artikel im New Scientist](https://www.newscientist.com/article/dn28139-stone-age-people-were-making-porridge-32000-years-ago/)
-- [2] [Matt Pope](//www.pnas.org/content/early/2015/09/1505213112)
+[^1]: [Artikel im New Scientist](https://www.newscientist.com/article/dn28139-stone-age-people-were-making-porridge-32000-years-ago/)
+[^2]: [Matt Pope](//www.pnas.org/content/early/2015/09/1505213112)
 
 **Bild:** [Hans](https://pixabay.com/de/users/hans-2/), pixabay

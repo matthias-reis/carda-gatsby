@@ -52,7 +52,7 @@ Mein Tag besteht darin, mich um zwei super aktive, süße und lustige Kinder im 
 
 Neben meinem Job als Vollzeit-Mutter widme ich meinem Aktivismus sehr viel Zeit. Jede Demo und jede Veranstaltung muss im Vorfeld umfangreich geplant werden. Zurzeit bin ich mit einem neuen Projekt beschäftigt. Wir (ich bin Teil eines wunderbaren Teams!) bauen eine neue Straßenaktivismus Organisation auf. Sie soll die Art, auf die wir das tun, was wir tun revolutionieren. Wir stecken unsere Herzen und Seelen in dieses Projekt - und viele Stunden.
 
-Meine Brötchen verdiene ich in der wunderbaren Kochschule "Kurkuma" in Hamburg Eimsbüttel. Das Kurkuma ist Deutschlands erste und bisher einzige vegane Kochschule! Ich arbeite dort jetzt bereits seit Jahren und gebe die israelischen Kochkurse  [<sup>1</sup>](#1). Sie sind sehr beliebt und ich bin sehr stolz, dort arbeiten zu dürfen.
+Meine Brötchen verdiene ich in der wunderbaren Kochschule "Kurkuma" in Hamburg Eimsbüttel. Das Kurkuma ist Deutschlands erste und bisher einzige vegane Kochschule! Ich arbeite dort jetzt bereits seit Jahren und gebe die israelischen Kochkurse[^1]. Sie sind sehr beliebt und ich bin sehr stolz, dort arbeiten zu dürfen.
 
 **Anne:** In Hamburg kennt man Dich vor allem als vegane Aktivistin. Seit wann lebst Du eigentlich schon vegan?
 
@@ -71,7 +71,7 @@ Meine Brötchen verdiene ich in der wunderbaren Kochschule "Kurkuma" in Hamburg 
 
 **Anne:** Das haben wir etwas gemeinsam. Mir geht es ganz genau so. Was war zuerst da – der Aktivismus oder die Umstellung auf vegan?
 
-**Inbar:** Ich glaube, das hängt davon ab, was Du als Aktivismus bezeichnen würdest. Bevor ich Veganerin wurde, habe ich für den Hamburger Mitternachtsbus  [<sup>2</sup>](#2) mit Obdachlosen gearbeitet. Es war eine dieser Erfahrungen, die unglaublich hart sind und einen zugleich komplett erfüllen.
+**Inbar:** Ich glaube, das hängt davon ab, was Du als Aktivismus bezeichnen würdest. Bevor ich Veganerin wurde, habe ich für den Hamburger Mitternachtsbus[^2] mit Obdachlosen gearbeitet. Es war eine dieser Erfahrungen, die unglaublich hart sind und einen zugleich komplett erfüllen.
 
 Ich musste mit meiner Arbeit für den Mitternachtsbus aufhören, als ich schwanger wurde. Als ich dann wieder etwas machen konnte, habe ich mich für eine andere Form des Aktivismus entschieden: Tierrechte.
 
@@ -241,10 +241,8 @@ Der vielleicht größte Meilenstein war vermutlich, als mir klar wurde, dass ich
 
 ⋆ **Hinweis:** Durch die momentane Lage mit Corona wurde der Termin am 21. März aus Präventionsgründen abgesagt.
 
-### Fußnoten
-
-- [1]  [Inbars Kochkurse für israelische Küche in der Kurkuma Kochschule](https://www.kurkuma-hamburg.de/israelisch/)
-- [2]  [Mitternachtsbus Hamburg](https://www.diakonie-hamburg.de/de/visitenkarte/diakonie-zentrum-fuer-wohnungslose/mitternachtsbus)
+[^1]: [Inbars Kochkurse für israelische Küche in der Kurkuma Kochschule](https://www.kurkuma-hamburg.de/israelisch/)
+[^2]: [Mitternachtsbus Hamburg](https://www.diakonie-hamburg.de/de/visitenkarte/diakonie-zentrum-fuer-wohnungslose/mitternachtsbus)
 
 ---
 
@@ -266,7 +264,7 @@ Besides being a full-time mom, I dedicate endless time to activism. Every demo a
 
 Nowadays I am involved in a new project: We (I am part of a wonderful team!) are building a new street activism organisation that will revolutionise the way we do what we do. We put our hearts and souls into this project - and many hours.
 
-For living, I work in Germany's first vegan cooking school, the beautiful "Kurkuma" cooking school in Eimsbüttel. I work there for years already and offer the Israeli Cooking Evening  [<sup>1</sup>](#1). They are super popular, and I am very proud and honored to be working there.
+For living, I work in Germany's first vegan cooking school, the beautiful "Kurkuma" cooking school in Eimsbüttel. I work there for years already and offer the Israeli Cooking Evening[^3]. They are super popular, and I am very proud and honored to be working there.
 
 **Anne:** In Hamburg you are known as a very active vegan activist. How long have you been living vegan now?
 
@@ -276,7 +274,7 @@ For living, I work in Germany's first vegan cooking school, the beautiful "Kurku
 
 **Anne:** This is something we have in common. I feel the same way about that. What came first - activism or the change to your vegan life?
 
-**Inbar:** I guess it depends on what you call activism. I did volunteer with homeless people before going vegan at Hamburg's Mitternachtsbus  [<sup>2</sup>](#2). It was one of those very hard and very fulfilling activities.
+**Inbar:** I guess it depends on what you call activism. I did volunteer with homeless people before going vegan at Hamburg's Mitternachtsbus[^4]. It was one of those very hard and very fulfilling activities.
 
 I had to stop with the Mitternachtsbus once I became pregnant. When the time was right I knew I wanted to do a different kind of activism, and knew it has to be with animal rights.
 
@@ -422,7 +420,5 @@ But maybe the biggest milestone was to realise, that I have a big part in buildi
 
 **⋆Note:** Due to the ongoing Corona Crisis the workshop on March, 21st is cancelled for prevention reasons.
 
-### Fußnoten
-
-- [1]  [Inbars cooking classes at Kurkuma Hamburg](https://www.kurkuma-hamburg.de/israelisch/)
-- [2]  [Mitternachtsbus Hamburg](https://www.diakonie-hamburg.de/de/visitenkarte/diakonie-zentrum-fuer-wohnungslose/mitternachtsbus)
+[^3]: [Inbars cooking classes at Kurkuma Hamburg](https://www.kurkuma-hamburg.de/israelisch/)
+[^4]: [Mitternachtsbus Hamburg](https://www.diakonie-hamburg.de/de/visitenkarte/diakonie-zentrum-fuer-wohnungslose/mitternachtsbus)

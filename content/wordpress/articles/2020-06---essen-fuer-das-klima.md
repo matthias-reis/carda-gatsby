@@ -35,7 +35,7 @@ subTitle: Europa will sich nachhaltiger ernähren
 
 **Essen für das Klima - geht da noch was? Oder war das schon alles? Fast 70 Prozent der Europäer** ⋆ **innen würden zum Wohle des Planeten ihre Ernährung umstellen. Sprich: Mehr pflanzenbasierte Nahrung zu sich nehmen, saisonale Produkte kaufen und weniger Lebensmittel verschwenden.**
 
-Rund zwei Drittel der europäischen Bevölkerung (67 Prozent, um genau zu sein) stehen der Veränderung ihrer Essgewohnheiten aus Umweltschutzgründen offen gegenüber. Das geht aus dem Report One Bite At A Time [<sup>1</sup>](#1) hervor. Dieser wurde von der europäischen Consumer Organisation BEUC zusammengestellt und herausgegeben.
+Rund zwei Drittel der europäischen Bevölkerung (67 Prozent, um genau zu sein) stehen der Veränderung ihrer Essgewohnheiten aus Umweltschutzgründen offen gegenüber. Das geht aus dem Report One Bite At A Time[^1]) hervor. Dieser wurde von der europäischen Consumer Organisation BEUC zusammengestellt und herausgegeben.
 
 ## Ernährungsumfrage unter europäischen Konsument⋆innen
 
@@ -45,7 +45,7 @@ Die meisten in Europa sind demnach also offen dafür, ihre Essgewohnheiten aus N
 
 ## Essen für das Klima? In Wirklichkeit wird Discounter-Bratwurst gegrillt
 
-Doch wie weit liegen Aussagen und Wirklichkeit auseinander? Erst gestern wies die Politikerin Katrin Göring-Eckardt in der Talkshow "Hart aber Fair "[<sup>2</sup>](#2) wieder auf die bestehenden Diskrepanzen hin.
+Doch wie weit liegen Aussagen und Wirklichkeit auseinander? Erst gestern wies die Politikerin Katrin Göring-Eckardt in der Talkshow "Hart aber Fair"[^1] wieder auf die bestehenden Diskrepanzen hin.
 
 > "Wir sagen, dass wir nur noch Fleisch vom Metzger nebenan kaufen, in Wirklichkeit grillen wir die Wurst vom Discounter",
 
@@ -71,7 +71,7 @@ Aus einer Randnotiz geht hervor, dass die Befragung vor der aktuellen Pandemie s
 
 Expert⋆innen sagen, dass die Tendenz heute mehr als je zuvor in Richtung nachhaltige und gesunde Ernährung geht. Der weltweite COVID-19 Ausbruch hat die Menschen nachdenklicher gemacht.
 
-Das Institut für Energie- und Umweltforschung in Heidelberg hat einen Klimarechner [<sup>3</sup>](#3) entwickelt. Mit seiner Hilfe kann man den CO<sub>2</sub>-Verbrauch für die unterschiedlichsten Lebensmittel ausrechnen kann. Dazu braucht man die verschiedenen Produkte nur auf einen Teller zu packen und schon kann man sie mit anderen vergleichen. Ich habe das mal mit ein paar Lebensmitteln ausprobiert Der "KlimatarierCO<sub>2</sub>-Rechner" kommt zu den folgenden Ergebnissen:
+Das Institut für Energie- und Umweltforschung in Heidelberg hat einen Klimarechner[^3] entwickelt. Mit seiner Hilfe kann man den CO<sub>2</sub>-Verbrauch für die unterschiedlichsten Lebensmittel ausrechnen kann. Dazu braucht man die verschiedenen Produkte nur auf einen Teller zu packen und schon kann man sie mit anderen vergleichen. Ich habe das mal mit ein paar Lebensmitteln ausprobiert Der "KlimatarierCO<sub>2</sub>-Rechner" kommt zu den folgenden Ergebnissen:
 
 ## Lebensmittel CO<sub>2</sub>-Emission (kg)
 
@@ -134,11 +134,9 @@ Das Institut für Energie- und Umweltforschung in Heidelberg hat einen Klimarech
   </tbody>
 </table>
 
-### Fußnoten/Quellen:
-
-- [1] [One Bite At A Time](http://www.beuc.eu/publications/beuc-x-2020-042_consumers_and_the_transition_to_sustainable_food.pdf)
-- [2] [Hart aber fair](https://www.spiegel.de/kultur/tv/hart-aber-fair-tv-kritik-zu-corona-in-der-fleischfabrik-a-a7b6125a-99c0-45a0-a02e-a4847cfd9376)
-- [3] [Klimatarier-Rechner Institut für Energie- und Umweltforschung Heidelberg](https://www.klimatarier.com/de/CO2_Rechner)
-- [4] [Plantbased News](https://www.plantbasednews.org/news/europeans-open-changing-eating-habits-for-planet)
-
 Bild: [Alexas Fotos](https://pixabay.com/de/users/alexas_fotos-686414/), pixabay
+
+[^1]: [One Bite At A Time](http://www.beuc.eu/publications/beuc-x-2020-042_consumers_and_the_transition_to_sustainable_food.pdf)
+[^2]: [Hart aber fair](https://www.spiegel.de/kultur/tv/hart-aber-fair-tv-kritik-zu-corona-in-der-fleischfabrik-a-a7b6125a-99c0-45a0-a02e-a4847cfd9376)
+[^3]: [Klimatarier-Rechner Institut für Energie- und Umweltforschung Heidelberg](https://www.klimatarier.com/de/CO2_Rechner)
+[^4]: [Plantbased News](https://www.plantbasednews.org/news/europeans-open-changing-eating-habits-for-planet)

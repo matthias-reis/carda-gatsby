@@ -200,4 +200,4 @@ Wenn Ihr jetzt gerne mal im Pony Hütchen Shop stöbern möchtet: [Hier entlang]
 
 Auch den Produkten von Wolkenseifen haben ich schon auf den Zahl gefühlt. Meine Unboxing-Story [findet Ihr hier](/2014/08/wolkenseifen-himmlische-duefte-ganz-ohne-plastik/).
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

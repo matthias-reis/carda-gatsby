@@ -163,7 +163,7 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
 
 **Sebastian:** Eisnebel kommt in Europa kaum bis gar nicht vor. Er entsteht erst ab etwa -30 Grad Celsius. In der Luft sind dann nur noch Eiskristalle enthalten und keine Wassertröpfchen mehr, wie das sonst bei Nebel oder auch gefrierendem Nebel der Fall ist.
 
-**Anne:** Du lebst vegan. „Vegan auf Reisen“ ist für viele ein großes Thema, auch wir haben uns über eine vegane Reisegruppe auf Facebook [<sup>1</sup>](#1) kennengelernt.  Es ist sehr spannend, die unterschiedlichen Ernährungsweisen kennenzulernen. In vielen Ländern fällt es einem sehr leicht, sich vegan zu ernähren (ich habe z. B. in Indonesien und auf Sri Lanka nur gute Erfahrungen gemacht), in anderen Ländern gestaltet sich das etwas schwieriger, das hängt natürlich auch immer von den Traditionen und den Gewohnheiten der Bewohner ab. Ich kann mir vorstellen, dass es besonders in Yakutien und Sibirien nicht sehr leicht ist, der Hauptbestandteil der Nahrung besteht dort nach wie vor aus Fleisch und Fisch, wenn ich richtig informiert bin. Was ist Deine Erfahrung? Was wird dort gegessen? Wie hast Du Dich ernährt?
+**Anne:** Du lebst vegan. „Vegan auf Reisen“ ist für viele ein großes Thema, auch wir haben uns über eine vegane Reisegruppe auf Facebook[^1] kennengelernt.  Es ist sehr spannend, die unterschiedlichen Ernährungsweisen kennenzulernen. In vielen Ländern fällt es einem sehr leicht, sich vegan zu ernähren (ich habe z. B. in Indonesien und auf Sri Lanka nur gute Erfahrungen gemacht), in anderen Ländern gestaltet sich das etwas schwieriger, das hängt natürlich auch immer von den Traditionen und den Gewohnheiten der Bewohner ab. Ich kann mir vorstellen, dass es besonders in Yakutien und Sibirien nicht sehr leicht ist, der Hauptbestandteil der Nahrung besteht dort nach wie vor aus Fleisch und Fisch, wenn ich richtig informiert bin. Was ist Deine Erfahrung? Was wird dort gegessen? Wie hast Du Dich ernährt?
 
 **Sebastian:** Fleisch und Fisch wird dort morgens, mittags und abends verzehrt. Und das in allen Variationen. Gemüse ist rar und teuer, da alles importiert werden muss. Komplett vegan zu leben, war in den abgeschiedenen Dörfern, würde ich behaupten, unmöglich. Es sei denn man würde sich 2 Wochen durchgehend nur von Haferbrei und Äpfeln ernähren. Ich bin daher für die Dauer meines Aufenthalts auf vegetarisch umgestiegen. Einige vegane Produkte habe ich zudem aus Deutschland mitgebracht.
 
@@ -195,11 +195,11 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
 
 **Anne:** Wo kann man Deine Bilder bewundern?
 
-**Sebastian:** Ich habe eine Webseite [<sup>2</sup>](#2), welche jedoch etwas veraltet ist, da ich wenig Zeit habe, alle Fotos und Impressionen dort hochzuladen. Es wird mal wieder Zeit. _lacht_
+**Sebastian:** Ich habe eine Webseite[^2], welche jedoch etwas veraltet ist, da ich wenig Zeit habe, alle Fotos und Impressionen dort hochzuladen. Es wird mal wieder Zeit. _lacht_
 
 **Anne:** Gibt es noch mehr von Dir im Internet? Bist Du in Communities unterwegs?
 
-**Sebastian:** Ich habe einen Flickr-Account [<sup>3</sup>](#3) und bin Mitglied der Fotocommunity. Beide Seiten sind aus Zeitmangel leider auch nicht aktuell und müssten aufgefrischt werden.
+**Sebastian:** Ich habe einen Flickr-Account[^3] und bin Mitglied der Fotocommunity. Beide Seiten sind aus Zeitmangel leider auch nicht aktuell und müssten aufgefrischt werden.
 
 **Anne:** Wo geht die Reise für Dich als nächstes hin?
 
@@ -270,9 +270,9 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
   </address>
 </div>
 
-- [1] [Homepage Sebastian Frost](http://www.sebi-balders.repage.de)
-- [2] [Die vegane Reisegruppe auf Facebook](https://www.facebook.com/groups/veganreisen.vegantraveling/)
-- [3] [Sebastian Frost bei Flickr](https://www.flickr.com/photos/wetter-natur-fotografie/)
+[^1]: [Homepage Sebastian Frost](http://www.sebi-balders.repage.de)
+[^2]: [Die vegane Reisegruppe auf Facebook](https://www.facebook.com/groups/veganreisen.vegantraveling/)
+[^3]: [Sebastian Frost bei Flickr](https://www.flickr.com/photos/wetter-natur-fotografie/)
 
 <Gallery
   images={[

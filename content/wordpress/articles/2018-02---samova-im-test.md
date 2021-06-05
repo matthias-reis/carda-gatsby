@@ -229,4 +229,4 @@ Zur Homepage von Samova geht es [hier entlang](https://www.samova.net/).
 1.  [Ashéra Gründerin Jacqueline Heimgärtner im Interview 02.02.2018](/2018/02/ashera-interview/)
 1.  Samova - Nachhaltiger Tee aus Hamburg 19.02.2017
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

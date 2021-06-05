@@ -145,4 +145,4 @@ Insgesamt bin ich rundum zufrieden mit meinem Boldking. Mir gefällt die Optik, 
 
 Online findet Ihr Boldking [hier](https://www.boldking.com/de?gclid=CjwKCAjwtvnbBRA5EiwAcRvnpnM0kMcWhsOzkva7IMEGUq7_mFi7JN46rYs9KL9Sy4NYs8tj7JEMjBoC3hoQAvD_BwE).  Hier könnt Ihr Euer  [Starterkit erwerben](https://www.amazon.de/gp/product/B076PQLT7X/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B076PQLT7X&linkCode=as2&tag=cardamonchai-21&linkId=07c9932854231dbbe6a74e3114cbc066)
 
-- _Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

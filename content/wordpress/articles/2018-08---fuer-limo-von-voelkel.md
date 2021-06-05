@@ -154,8 +154,8 @@ Das Einzige, was mir aufgefallen ist, was ich an dieser Stelle loswerden möchte
 
 Dann würde das FÜR auch noch für nachhaltige Verpackung stehen. Für mich wäre das ein klares Statement für mehr Nachhaltigkeit und würde der Marke gut zu Gesicht stehen. Auch wenn die Limo in Supermärkten und Drogeriemärkten verkauft wird: Ich denke, dass die breite Masse in Zukunft immer sensibler auf das Thema [Plastikverpackungen](/2017/08/kenia-sagt-plastiktueten-nein-danke/) reagieren wird und es dem Absatz mit Sicherheit nicht schaden würde.
 
-Und es ist doch sowieso viel schöner, wenn man gleich einen ganzen Kasten Limo mit an den [Baggersee](/2011/06/badetag/) nehmen kann, oder? Der passt perfekt auf einen Fahrrad-Gepäckträger und so hat die ganze Clique was davon. Außerdem klingt es gleich viel schöner, wenn man mit Glasflaschen anstößt. ;-) In diesem Sinne: Prost!
-
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+Und es ist doch sowieso viel schöner, wenn man gleich einen ganzen Kasten Limo mit an den [Baggersee](/2011/06/badetag/) nehmen kann, oder? Der passt perfekt auf einen Fahrrad-Gepäckträger und so hat die ganze Clique was davon. Außerdem klingt es gleich viel schöner, wenn man mit Glasflaschen anstößt. In diesem Sinne: Prost!
 
 Vielen Dank an Voelkel für die freundliche Zurverfügungstellung der Produkte! [Hier gehts zur Homepage](https://voelkeljuice.de/startseite.html) der Naturkostsafterei.
+
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

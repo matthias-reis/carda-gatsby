@@ -71,9 +71,9 @@ Hm, stimmt eigentlich, oder? Wir lehnen also vielleicht gar nicht alles kategori
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABQADBgcI/8QAJxAAAgICAQEHBQAAAAAAAAAAAQIDBAARBTESEyEiQYGRBgcUFcH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwAEBf/EAB8RAAICAwACAwAAAAAAAAAAAAECAAMEERIFQSExgf/aAAwDAQACEQMRAD8A8sKNnFqfEW7CBq9aeQH1SJm38DC4uujnW/tpzV2+OWpW7ludV4if8ZGnfUbIF0VAOgQCfjK2Vc1CdgfU0vH49dzcuZzafjLSGZZKs4aHXeAxMCm+m/Dw98MkQo2iD75s9LlSlqd7NmU993YkPbYl/Ou9n18oPXCvqLkv2vK2LXZCiRywGOrZm3161FZdVdfPB3vf58kQxDphivC8haoXGatNJGzRtGSrEbVhog69CMsslihlIMDFYq6kH3D3J7TbP8zD1yywhE2Gf//Z"
 />
 
-Es gibt durchaus ein paar Dinge, bei denen wir uns dringend beeilen sollten, von unserem hohen Ross runterzukommen. Klimaschutz zum Beispiel. Youtuber Rezo [<sup>1</sup>](#1) hat recht. Es stimmt, dass eine **Erderwärmung** von einem Grad verdammt viel ist. Wenn wir so weitermachen, war es das bald mit uns. Mit samt unseren Legebatterien, Plastik-Wegwerfwindeln, Spraydosen, SUVs, Atomkraftwerken, Kohlemeilern und Tagebauen. Dann hilft es auch nicht mehr, wenn wir auf der Bewertungsseite des Nagelstudios schreiben, dass die Frau die früher unsere Gelnägel aufgeklebt hat, sorgfältiger vorgegangen ist.
+Es gibt durchaus ein paar Dinge, bei denen wir uns dringend beeilen sollten, von unserem hohen Ross runterzukommen. Klimaschutz zum Beispiel. Youtuber Rezo[^1] hat recht. Es stimmt, dass eine **Erderwärmung** von einem Grad verdammt viel ist. Wenn wir so weitermachen, war es das bald mit uns. Mit samt unseren Legebatterien, Plastik-Wegwerfwindeln, Spraydosen, SUVs, Atomkraftwerken, Kohlemeilern und Tagebauen. Dann hilft es auch nicht mehr, wenn wir auf der Bewertungsseite des Nagelstudios schreiben, dass die Frau die früher unsere Gelnägel aufgeklebt hat, sorgfältiger vorgegangen ist.
 
-Dabei wird klar, dass es durchaus positive und negative Veränderungen gibt. Der Klimawandel ist definitiv eine der ganz negativen. Und sie wird durch die durch unseren Starrsinn verursachten Veränderungen ausgelöst - immer mehr Klimagase durch immer mehr [Massentierhaltung](/2014/09/pflanzenmilch-wieso-denn-blos/), Flugverkehr, große Dieselautos, Kohlekraftwerke und so weiter und so weiter. Mai von MaiLab [<sup>2</sup>](#2) formuliert das in ihrer wissenschaftlichen Betrachtung des Reza Videos so:
+Dabei wird klar, dass es durchaus positive und negative Veränderungen gibt. Der Klimawandel ist definitiv eine der ganz negativen. Und sie wird durch die durch unseren Starrsinn verursachten Veränderungen ausgelöst - immer mehr Klimagase durch immer mehr [Massentierhaltung](/2014/09/pflanzenmilch-wieso-denn-blos/), Flugverkehr, große Dieselautos, Kohlekraftwerke und so weiter und so weiter. Mai von MaiLab[^2] formuliert das in ihrer wissenschaftlichen Betrachtung des Reza Videos so:
 
 > "Die Evolution kommt nicht mehr mit bei den vielen drastischen Veränderungen auf dem Planeten. Wir befinden uns jetzt schon im kritischen Bereich und nur mit einer krassen Umstellung ist die Schadensbegrenzung noch machbar."
 
@@ -139,17 +139,17 @@ Mit neuen Generationen kommen neue Ideen, neue Innovationen, neue Kreativität, 
 
 Was ist dagegen einzuwenden, dass Menschen von zu Hause aus 30 Stunden pro Woche arbeiten und sich Paare abwechselnd um Ihre gemeinsamen Babys kümmern? Inzwischen setzen sich New Work und Elternzeit immer mehr durch, noch vor ein paar Jahren hat es eine Menge Geschrei deswegen gegeben. Innovation - man muss sich nur damit beschäftigen. Plötzlich ist es das Normalste auf der Welt.
 
-Neue Formen der Gemeinschaft und des Zusammenlebens wie integrative Wohngruppen, Mehrgenerationenhaushalte und moderne Apps wie nebenan.de [<sup>3</sup>](#3)  bringen Menschen aller Generationen, Formen und Farben zusammen und das macht mich sehr glücklich. Vernetzung bringt uns weiter und bewahrt uns vor Stillstand und Vereinsamung.
+Neue Formen der Gemeinschaft und des Zusammenlebens wie integrative Wohngruppen, Mehrgenerationenhaushalte und moderne Apps wie nebenan.de[^3]  bringen Menschen aller Generationen, Formen und Farben zusammen und das macht mich sehr glücklich. Vernetzung bringt uns weiter und bewahrt uns vor Stillstand und Vereinsamung.
 
 "Veränderung ist geil",
 
-so steht es auch im Editorial der neuesten Missy Magazine [<sup>4</sup>](#4) Ausgabe. Da geht es zwar um den Trend zum Make-over mit Serien wie "Queer Eye" der Japanischen Aufräumkünstlerin Marie Kondo - das gilt aber auch für alle anderen Lebensbereiche, finde ich.
+so steht es auch im Editorial der neuesten Missy Magazine[^4] Ausgabe. Da geht es zwar um den Trend zum Make-over mit Serien wie "Queer Eye" der Japanischen Aufräumkünstlerin Marie Kondo - das gilt aber auch für alle anderen Lebensbereiche, finde ich.
 
 Mit neuen Einwanderern kommen neue Kulturen, die wiederum ihre Erfahrungen, Traditionen, Küche, Musik und Ideen mitbringen. Für uns alle ist das ein wahnsinnig großer Gewinn, der uns auf dem Weg zu neuen Innovationen, die unser Leben bereichern, ein großes Stück weiterbringen kann.
 
 Veränderungen sind etwas Gutes und wir sollten sie zulassen und achtsam und rücksichtsvoll miteinander umgehen. Nur das lässt uns stärker, schlauer, intelligenter, kreativer, sicherer, gesünder, sozialer und nicht zuletzt glücklicher werden.
 
-- [1] [Rezo - "Die Zerstörung der CDU"](https://www.youtube.com/watch?time_continue=1225&v=tNZXy6hfvhM)
-- [2] [Mai von MaiLab - "Rezo wissenschaftlich geprüft"](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=1089s)
-- [3] [Die Nachbarschaftsapp "nebenan.de"](https://nebenan.de/)
-- [4] [Missy Magazine](https://missy-magazine.de/)
+[^1]: [Rezo - "Die Zerstörung der CDU"](https://www.youtube.com/watch?time_continue=1225&v=tNZXy6hfvhM)
+[^2]: [Mai von MaiLab - "Rezo wissenschaftlich geprüft"](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&t=1089s)
+[^3]: [Die Nachbarschaftsapp "nebenan.de"](https://nebenan.de/)
+[^4]: [Missy Magazine](https://missy-magazine.de/)

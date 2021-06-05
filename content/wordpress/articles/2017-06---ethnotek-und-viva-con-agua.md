@@ -112,4 +112,4 @@ _Ethnotek_ könnt Ihr [online hier finden](https://www.ethnotek.de/).
 
 <Gallery name="flickr/annevivaconaguaethnotek" />
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Das Produkt habe ich in diesem Fall selbst erworben. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Das Produkt habe ich in diesem Fall selbst erworben. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

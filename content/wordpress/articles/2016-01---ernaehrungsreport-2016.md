@@ -35,7 +35,7 @@ subTitle: Umfrageergebnisse falsch dargestellt
 
 **Der Ernährungsreport 2016 wurde gerade veröffentlicht. Die Organisations Foodwatch decke bei der Durchsicht einen Skandal auf.**
 
-In seinem Report stellt Bundesernährungsminister Christian Schmidt (CSU) Umfrageergebnisse falsch dar. Das brachten die Nachforschungen von Foodwatch [<sup>1</sup>](#1) ans Licht.
+In seinem Report stellt Bundesernährungsminister Christian Schmidt (CSU) Umfrageergebnisse falsch dar. Das brachten die Nachforschungen von Foodwatch[^1] ans Licht.
 
 > "Der Minister zeichnet so ein manipulatives Bild der öffentlichen Meinung",
 
@@ -51,12 +51,7 @@ Mit dem Ernährungsreport sollen unter anderem Fragen geklärt werden wie "Was w
 
 ## Weit mehr Veganer⋆innen als angegeben
 
-Aus dem Report geht beispielsweise ein nach wie vor sehr geringer Anteil von Vegetarier⋆innen hervor. Die Rede ist von knapp einem Prozent, Veganer⋆innen eingeschlossen. Andere Umfragen und Statistiken belegen jedoch bereits knapp zwei Prozent Veganer⋆innen, bei Statista [<sup>2</sup>](#2) liegt die Zahl der Veganer⋆innen Stand heute bei 1,2 Prozent der deutschsprachigen Bevölkerung ab 14 Jahren. Das Institut für Demoskopie Allensbach (IfD) und das Markt- und Meinungsforschungsinstitut YouGov bestätigen derzeit rund 7,8 Millionen Vegetarier⋆innen (das sind 10 Prozent der Bevölkerung) und 900.000 Veganer⋆innen (1, 1 Prozent der Bevölkerung).
+Aus dem Report geht beispielsweise ein nach wie vor sehr geringer Anteil von Vegetarier⋆innen hervor. Die Rede ist von knapp einem Prozent, Veganer⋆innen eingeschlossen. Andere Umfragen und Statistiken belegen jedoch bereits knapp zwei Prozent Veganer⋆innen, bei Statista [^2] liegt die Zahl der Veganer⋆innen Stand heute bei 1,2 Prozent der deutschsprachigen Bevölkerung ab 14 Jahren. Das Institut für Demoskopie Allensbach (IfD) und das Markt- und Meinungsforschungsinstitut YouGov bestätigen derzeit rund 7,8 Millionen Vegetarier⋆innen (das sind 10 Prozent der Bevölkerung) und 900.000 Veganer⋆innen (1, 1 Prozent der Bevölkerung).
 
-<div class="footnotes">
-  ## Fußnoten 1. [Beitrag zum Thema bei
-  Foodwatch](https://www.foodwatch.org/de/informieren/lebensmittelpolitik/aktuelle-nachrichten/wie-minister-schmidt-seinen-ernaehrungsreport-manipulierte/)
-  1. [Statista: Statistik - Personen in Deutschland, die sich selbst als
-  Veganer⋆innen
-  einordnen](https://de.statista.com/statistik/daten/studie/445155/umfrage/umfrage-in-deutschland-zur-anzahl-der-veganer/)
-</div>
+[^1]: [Beitrag zum Thema bei Foodwatch](https://www.foodwatch.org/de/informieren/lebensmittelpolitik/aktuelle-nachrichten/wie-minister-schmidt-seinen-ernaehrungsreport-manipulierte/)
+[^1]: [Statista: Statistik - Personen in Deutschland, die sich selbst als Veganer⋆innen einordnen](https://de.statista.com/statistik/daten/studie/445155/umfrage/umfrage-in-deutschland-zur-anzahl-der-veganer/)

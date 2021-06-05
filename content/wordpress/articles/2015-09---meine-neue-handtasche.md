@@ -91,7 +91,7 @@ Jetzt, ein paar Tage später habe ich was zum Angeben für Euch: Sie ist fertig!
 
 ## Die neue Handtasche
 
-Wer auch gerne eine tolle Handtasche nähen möchte: Die komplette Nähanleitung inkl. Schnittmuster zum Ausdrucken findet Ihr gratis (!) auf der Homepage von Patty Do [<sup>1</sup>](#1). Dort gibt es auch noch jede Menge Designvorschläge, Ihr könnt natürlich auch Eure ganz eigene Farbkombination kreieren. Ich bin supergespannt auf Eure neue Handtasche!
+Wer auch gerne eine tolle Handtasche nähen möchte: Die komplette Nähanleitung inkl. Schnittmuster zum Ausdrucken findet Ihr gratis auf der Homepage von Patty Do[^1]. Dort gibt es auch noch jede Menge Designvorschläge, Ihr könnt natürlich auch Eure ganz eigene Farbkombination kreieren. Ich bin super gespannt auf Eure neue Handtasche!
 
 ## Viel Spaß beim Nähen!
 
@@ -99,6 +99,4 @@ Seid so lieb und schickt mir ein Foto, wenn Ihr fertig seid mit dem Nähen! Die 
 
 <YouTube id="azq48f3065s" />
 
-## Link zum Schnittmuster
-
-- [1] [Schnittmuster Tasche "Carrie" bei Patty Doo](https://www.pattydoo.de/schnittmuster/tasche-carrie)
+[^1]: [Schnittmuster Tasche "Carrie" bei Patty Doo](https://www.pattydoo.de/schnittmuster/tasche-carrie)

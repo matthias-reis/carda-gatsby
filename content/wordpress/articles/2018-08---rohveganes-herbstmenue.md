@@ -160,9 +160,6 @@ Als Rohkost bezeichnet man Gerichte und Lebensmittel, die bei Temperaturen unter
 
 Lust auf was Warmes? Hier findet Ihr ein [tolles Rezept für eine herbstliche Zucchinisuppe](/2015/09/zucchinisuppe-herbstlich-vegan/).
 
-- _Hinweis: Dieser Beitrag enthält Werbung, eine Anzeige und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+Bild im Titel: [Sofia HM](https://pixabay.com/de/users/SofiaHM-8352739/), Pixabay, andere Bilder: von mir
 
-<small>
-  Bild im Titel: [Sofia HM](https://pixabay.com/de/users/SofiaHM-8352739/),
-  Pixabay, andere Bilder: von mir
-</small>
+\*Hinweis: Dieser Beitrag enthält Werbung, eine Anzeige und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

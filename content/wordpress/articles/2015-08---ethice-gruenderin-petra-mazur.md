@@ -176,7 +176,7 @@ Im Anschluss, werden die Artikel dann nur noch bedruckt und direkt von der Druck
   loadingUrl="data:image/jpeg;base64,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"
 />
 
-**Petra:** An den Ständen und im Onlineshop [<sup>1</sup>](#1). Da wir immer wieder zu Straßenfesten in ganz Deutschland eingeladen werden, was wir leider nicht schaffen, bieten wir gemeinnützigen Vereinen die Möglichkeit, bei uns im Shop zum Selbstkostenpreis einzukaufen. So können unsere Artikel überall zu Gunsten der Tiere verkauft werden. Leider wird das noch wenig genutzt, was sicher darin begründet ist, dass ethice immer noch nicht bekannt genug ist.
+**Petra:** An den Ständen und im Onlineshop[^1]. Da wir immer wieder zu Straßenfesten in ganz Deutschland eingeladen werden, was wir leider nicht schaffen, bieten wir gemeinnützigen Vereinen die Möglichkeit, bei uns im Shop zum Selbstkostenpreis einzukaufen. So können unsere Artikel überall zu Gunsten der Tiere verkauft werden. Leider wird das noch wenig genutzt, was sicher darin begründet ist, dass ethice immer noch nicht bekannt genug ist.
 
 **Anne:** Gibt es neben den Themen Massentierhaltung und Tiertransporte noch weitere Bereiche, für die sich ethice stark macht?
 
@@ -201,7 +201,7 @@ Ja, das Konzept ist, mit plakativen Motiven Aufmerksamkeit zu erregen, um dann -
 
 **Anne:** Welche Aktion, den Tierschutz betreffend, hat dich bisher am meisten beeindruckt?
 
-**Petra:** Du wirst lachen, mich beeindrucken alle. Ich bin immer gerührt, wenn ich Menschen sehe, die sich für Tierrechte einsetzen. Mit am beeindruckendsten finde ich immer die Aktionen von animal equality [<sup>2</sup>](#2), bei denen die Aktivisten so liebevoll die toten Tiere in den Händen halten, da muss ich immer schlucken. Ganz großartige Aktionen!
+**Petra:** Du wirst lachen, mich beeindrucken alle. Ich bin immer gerührt, wenn ich Menschen sehe, die sich für Tierrechte einsetzen. Mit am beeindruckendsten finde ich immer die Aktionen von animal equality[^2], bei denen die Aktivisten so liebevoll die toten Tiere in den Händen halten, da muss ich immer schlucken. Ganz großartige Aktionen!
 
 **Anne:** Setzt du dich auch noch in weiteren Bereiche für den Tierschutz ein? Bist du Mitglied in einer Organisation? Unterstützt du Demonstrationen?
 
@@ -215,7 +215,7 @@ Ja, das Konzept ist, mit plakativen Motiven Aufmerksamkeit zu erregen, um dann -
 
 **Anne:** Deine Meinung zum Thema Haustierhaltung:
 
-**Petra:** Jeglicher Erwerb von Tieren muss verboten werden. Wer sich hingegen einen Hund oder Katze wünscht: Die Tierheime und die Straßen sind voll von Tieren, die dringend Hilfe brauchen! Ich arbeite beruflich mit Hunden und habe auf meiner Seite [<sup>3</sup>](#3) dazu deutlich Stellung genommen. Mir ist wichtig, dass wir aufhören uns Tiere zu holen, einzig damit es uns gut geht. Das Leben mit einem Tier zu teilen, bedeutet Kompromissbereitschaft und vor allem Verantwortung.
+**Petra:** Jeglicher Erwerb von Tieren muss verboten werden. Wer sich hingegen einen Hund oder Katze wünscht: Die Tierheime und die Straßen sind voll von Tieren, die dringend Hilfe brauchen! Ich arbeite beruflich mit Hunden und habe auf meiner Seite[^3] dazu deutlich Stellung genommen. Mir ist wichtig, dass wir aufhören uns Tiere zu holen, einzig damit es uns gut geht. Das Leben mit einem Tier zu teilen, bedeutet Kompromissbereitschaft und vor allem Verantwortung.
 
 **Anne:** Hast/hattest du selbst Haustiere?
 
@@ -239,11 +239,9 @@ Des Weiteren hoffe ich, dass künftig mehr Organisationen auf uns zukommen, um u
 
 **Petra:** Liebe Anne, ich danke Dir!!!
 
-### Fußnoten
-
-- [1] [ethice Online-Shop](http://ethice.de/de/)
-- [2] [animal equality](http://www.animalequality.de/)
-- [3] [Petras Seite Hund gerecht](http://hund-gerecht.com/)
+[^1]: [ethice Online-Shop](http://ethice.de/de/)
+[^2]: [animal equality](http://www.animalequality.de/)
+[^3]: [Petras Seite Hund gerecht](http://hund-gerecht.com/)
 
 **Fotos:** Petra privat, ethice
 

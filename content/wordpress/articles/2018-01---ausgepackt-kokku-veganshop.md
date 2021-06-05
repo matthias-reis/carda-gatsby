@@ -187,4 +187,4 @@ Volle Punktzahl also. Ich wünsche Euch viel Spaß beim Shoppen! Berichtet mal, 
 
 Zum Onlineshop von Kokku [geht es hier entlang](https://kokku-online.de).
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

@@ -66,7 +66,7 @@ Michael Braungart und William McDonough kamen beim Beobachten der Natur auf das 
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAARACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAIDBQEECP/EACoQAAEDAwMCBAcAAAAAAAAAAAECAwQAESEFEjETUSIyNHEGFUFhgZGx/8QAGAEBAAMBAAAAAAAAAAAAAAAAAgABAwT/xAAiEQACAQMCBwAAAAAAAAAAAAAAARECITES8CJBQ1FxgbH/2gAMAwEAAhEDEQA/AOk5UZgh9mFCjOvhOQ54UAkYBIBP6HFSty3ojbTcyP4rABUYFSSQMi3IrXbS3pjD6dRmO7Asuh9Z2XFhglPJFJqATqcJqPpklw9RSXeu2vcEJGfMb88W5teuZ1uJm/bf0EkM6Tq2pLZV8PvRWmW3LPGQLlQ4NgO2e2RVxFdcSsR5Ju8E7gsDCxxf7HjFV8DpwGmIMx51bzY29dStgXe5BNj71h1T8vU4zcRLny9KTulNuC+6/lzkjAFx3oqrTxS23Ft48kmLljqfoXPx/RTwfTIoorfqehcx3fr7VJRRSWSz/9k="
 />
 
-In Deutschland gibt es seit 2012 den gemeinnützigen Verein Cradle to Cradle e. V. [<sup>1</sup>](#1) Sein Ziel ist es, Cradle-to-Cradle in die Mitte der Gesellschaft zu bringen.
+In Deutschland gibt es seit 2012 den gemeinnützigen Verein Cradle to Cradle e. V.[^1]. Sein Ziel ist es, Cradle-to-Cradle in die Mitte der Gesellschaft zu bringen.
 
 Damit sollen die enormen ökologischen und ökonomischen Herausforderungen von heute und morgen gelöst werden – gesellschaftlicher und kultureller Wandel für eine nachhaltige Zukunft also.
 
@@ -87,7 +87,7 @@ Der Cradle to Cradle e. V. wünscht sich, dass das Prinzip für die Menschen sel
 
 heißt es auf der Webseite des Vereins.
 
-In Hamburg beschäftigt sich das Forschungsinstitut EPEA [<sup>2</sup>](#2) seit nunmehr 30 Jahren mit dem Cradle-to-Cradle-Prinzip. Der Hauptfokus der Einrichtung liegt auf dem Cradle to Cradle Design Konzept. Gearbeitet wird in den Bereichen "Textilien", "Gebäude" "Papier und Druck", "Verpackung" und "Handelswaren und Kosmetik". Aus diesen Branchen stammen auch die Firmen, mit denen EPEA zusammenarbeitet.
+In Hamburg beschäftigt sich das Forschungsinstitut EPEA[^2] seit nunmehr 30 Jahren mit dem Cradle-to-Cradle-Prinzip. Der Hauptfokus der Einrichtung liegt auf dem Cradle to Cradle Design Konzept. Gearbeitet wird in den Bereichen "Textilien", "Gebäude" "Papier und Druck", "Verpackung" und "Handelswaren und Kosmetik". Aus diesen Branchen stammen auch die Firmen, mit denen EPEA zusammenarbeitet.
 
 ## Zirkuläres Denken
 
@@ -116,13 +116,6 @@ Der Cradle to Cradle e. V. hat das Prinzip Cradle-to-Cradle in diesem Video sehr
 
 ["Die nächste industrielle Revolution - die Cradle-to-Cradle-Community" von Michael Braungart und William McDonough](https://amzn.to/2M4HdEm)
 
-### Fußnoten
-
-- [1] [Cradle to Cradle e. V](https://c2c-ev.de/)
-- [2] [EPEA](https://epea-hamburg.com)
-
-<h4></h4>
-
 ### Quellen:
 
 - [Cradle to Cradle e. V](https://c2c-ev.de/).
@@ -130,3 +123,6 @@ Der Cradle to Cradle e. V. hat das Prinzip Cradle-to-Cradle in diesem Video sehr
 - [Wikipedia](https://de.wikipedia.org/wiki/Cradle_to_Cradle)
 - Cradle-to-Cradle
 - Grafik:  [Wikipedia Commons, Rex banditor „Biologischer und technischer Zyklus“ 15.11.2017](https://commons.wikimedia.org/wiki/File:Cradle_to_cradle.jpg)
+
+[^1]: [Cradle to Cradle e. V](https://c2c-ev.de/)
+[^2]: [EPEA](https://epea-hamburg.com)

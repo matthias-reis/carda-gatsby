@@ -48,7 +48,7 @@ subTitle: Nähanleitung
 
 **Heute möchte ich Euch gerne zeigen, wie meine Kosmetiktasche entstanden ist. Die Anleitung ist wirklich einfach und das Ergebnis gefällt mir.**
 
-Im Rahmen meiner kleinen Nähserie sind bereits ein [Körnerkissen](/2015/09/diy-koernerkissen-naehanleitung/), eine [Handtasche](/2015/09/kleine-handtasche-zum-selbermachen/) und eine [Handytasche](/2015/10/diy-handytasche-mit-zugmechanismus/) entstanden. Für meine Kosmetiktasche habe ich mich der Anleitung von Dot's Designs [<sup>1</sup>](#1) bedient, sie ist klasse bebildert und verständlich beschrieben, daher kam sie mir gerade recht.
+Im Rahmen meiner kleinen Nähserie sind bereits ein [Körnerkissen](/2015/09/diy-koernerkissen-naehanleitung/), eine [Handtasche](/2015/09/kleine-handtasche-zum-selbermachen/) und eine [Handytasche](/2015/10/diy-handytasche-mit-zugmechanismus/) entstanden. Für meine Kosmetiktasche habe ich mich der Anleitung von Dot's Designs[^1] bedient, sie ist klasse bebildert und verständlich beschrieben, daher kam sie mir gerade recht.
 
 ## Das braucht Ihr für Eure Kosmetiktasche
 
@@ -65,7 +65,7 @@ Im Rahmen meiner kleinen Nähserie sind bereits ein [Körnerkissen](/2015/09/diy
 - Bleistift
 - Schneiderkreide
 - Linial oder großes Geodreieck
-- Die Nähanleitung von Dot's Designs [<sup>1</sup>](#1)
+- Die Nähanleitung von Dot's Designs[^1]
 
 ## So entsteht Eure Kosmetiktasche
 
@@ -89,10 +89,6 @@ Die Wendeöffnung habe ich mit der Hand zugenäht, irgendwie erschien mir das le
 Natürlich könnt Ihr die Tasche auch in jeder beliebigen anderen Größe nähen, wenn Ihr das Schnittmuster verkleinert/vergrößert, dann könnt Ihr für alles ein kleines Täschchen schneidern, Kameraequipment, Kabel, Stifte, externe Festplatten, Schmuck, Nähsachen und Murmelsammlungen haben es nämlich auch gerne weich und gepolstert. :-)
 
 Viel Spaß beim Nähen!
-
-[1] [Hier findet Ihr die Nähanleitung von Dot's Designs](http://www.dots-designs.de/kosmetiktasche-naehen/)
-
-Wie Ihr aus einem alten T-Shirt eine geniale Umhängetasche nähen könnt, [erfahrt Ihr hier](/2015/09/diy-upcycling-nerdbag/).
 
 <Gallery
   images={[
@@ -122,3 +118,7 @@ Wie Ihr aus einem alten T-Shirt eine geniale Umhängetasche nähen könnt, [erfa
     },
   ]}
 />
+
+Wie Ihr aus einem alten T-Shirt eine geniale Umhängetasche nähen könnt, [erfahrt Ihr hier](/2015/09/diy-upcycling-nerdbag/).
+
+[^1]: [Hier findet Ihr die Nähanleitung von Dot's Designs](http://www.dots-designs.de/kosmetiktasche-naehen/)

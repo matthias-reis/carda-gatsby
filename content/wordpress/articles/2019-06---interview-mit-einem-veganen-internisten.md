@@ -222,7 +222,7 @@ Vegan lebende Menschen sind viel gesundheitsbewusster und denken über die Zusam
 
 **Dr. Hanno Platz:** Hier kommen Sie zu einem sehr schwierigen, aber dennoch sehr wichtigen Thema in der Medizin. Grundsätzlich bedeutet Impfen ja, schwere oder sogar tödlich verlaufende Krankheiten zu verhindern, bevor diese überhaupt entstehen. Also eigentlich die schönste Form der Medizin, nämlich **Prophylaxe** oder Vorsorge betreiben, damit es gar nicht erst zu Krankheiten kommt. Wunderbar, wenn für die Herstellung dieser Vorsorgebehandlungen, sprich Impfungen, nicht das Leben anderer Lebewesen zerstört oder schwer beeinträchtigt würde, also andere Lebewesen Ihr Leben verlieren oder selber krank würden. Das ist in keiner Weise zu tolerieren und kann und darf nicht die Ausgangsbasis für die Herstellung von Impfstoffen für den Menschen sein!
 
-Ich kann nicht die eigene Gesundheit auf dem Leid oder Tod eines anderen, gleichberechtigten Lebewesens aufbauen. Aus diesem Grund bin ich auch Mitglied in der Vereinigung "Ärzte gegen Tierversuche "[<sup>1</sup>](#1), die es sich unter anderem zum Ziel gesetzt hat, Medikamente, und auch Impfstoffe sind Medikamente, ohne jegliche Versuche an anderen Lebewesen zu entwickeln. Hier ist es, denke ich, wieder die Profitgier der Pharmaindustrie, die solchen Entwicklungen zunächst aus rein finanziellen "Überlegungen" entgegensteht. Auf diesen Industriebereich muss weiterhin sowohl von Ärzt\*innen, als auch vom Rest der Bevölkerung konsequent eingewirkt werden. Bei unaufhörlicher Nachfrage, wird auch die Pharmaindustrie irgendwann neue Wege gehen müssen.
+Ich kann nicht die eigene Gesundheit auf dem Leid oder Tod eines anderen, gleichberechtigten Lebewesens aufbauen. Aus diesem Grund bin ich auch Mitglied in der Vereinigung "Ärzte gegen Tierversuche"[^1], die es sich unter anderem zum Ziel gesetzt hat, Medikamente, und auch Impfstoffe sind Medikamente, ohne jegliche Versuche an anderen Lebewesen zu entwickeln. Hier ist es, denke ich, wieder die Profitgier der Pharmaindustrie, die solchen Entwicklungen zunächst aus rein finanziellen "Überlegungen" entgegensteht. Auf diesen Industriebereich muss weiterhin sowohl von Ärzt\*innen, als auch vom Rest der Bevölkerung konsequent eingewirkt werden. Bei unaufhörlicher Nachfrage, wird auch die Pharmaindustrie irgendwann neue Wege gehen müssen.
 
 > ## "Wie sieht es mit Medikamenten aus?"
 
@@ -234,7 +234,7 @@ Ich kann nicht die eigene Gesundheit auf dem Leid oder Tod eines anderen, gleich
 
 > ## "Ich unterstütze die Albert-Schweitzer-Stiftung"
 
-**Dr. Hanno Platz:** Ja, zum Beispiel die "Albert-Schweitzer-Stiftung "[<sup>2</sup>](#2) und die wunderbare Plattform des Kollegen Dr. med. Ernst Walter Henrich (ProVegan [<sup>3</sup>](#3), Anm. d. Aut.), die ich jedem wärmstens empfehlen kann. Gerade die unermüdliche Arbeit von Dr. Henrich hat bereits unendlich viel bewegt. Er hat ein Bewusstsein für die vegane Lebensweise geschaffen. Dafür bin ich ihm mehr als dankbar. Hinzu kommt die Schweizerische Vereinigung für Vegetarismus, PETA, der Vegetarierbund, der sich allerdings besser bald umbenennen sollte in Veganerbund, die Organisation Foodwatch, leider keine vegane Organisation, aber was nicht ist, kann ja noch werden.
+**Dr. Hanno Platz:** Ja, zum Beispiel die "Albert-Schweitzer-Stiftung"[^2] und die wunderbare Plattform des Kollegen Dr. med. Ernst Walter Henrich (ProVegan[^3]), die ich jedem wärmstens empfehlen kann. Gerade die unermüdliche Arbeit von Dr. Henrich hat bereits unendlich viel bewegt. Er hat ein Bewusstsein für die vegane Lebensweise geschaffen. Dafür bin ich ihm mehr als dankbar. Hinzu kommt die Schweizerische Vereinigung für Vegetarismus, PETA, der Vegetarierbund, der sich allerdings besser bald umbenennen sollte in Veganerbund, die Organisation Foodwatch, leider keine vegane Organisation, aber was nicht ist, kann ja noch werden.
 
 **Anne:** Ist Soja wirklich ungesund? Irgendwie hört man das in letzter Zeit immer häufiger. Ich kann das gar nicht glauben, bisher konnte ich auch noch keine negativen Effekte beobachten. Ist das nur wieder ein Versuch, uns Pflanzenesser\*innen das Essen madig zu machen, oder ist da wirklich was dran?
 
@@ -262,7 +262,7 @@ Leider gesellen sich in der nun erfreulicherweise deutlichen Zunahme der veganen
 
 ## Es gibt nicht viele vegane Ärzt\*innen
 
-**Dr. Hanno Platz:** Der VEBU bietet eine Suchfunktion [<sup>4</sup>](#4) an, in die man nur die Postleitzahl eingeben muss. Sehr viele wirklich [vegane Ärzt\*innen](/2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/) gibt es jedoch leider nicht.
+**Dr. Hanno Platz:** Der VEBU bietet eine Suchfunktion[^4] an, in die man nur die Postleitzahl eingeben muss. Sehr viele wirklich [vegane Ärzt\*innen](/2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/) gibt es jedoch leider nicht.
 
 **Anne:** Sie haben in Erlangen/Nürnberg an der **Friedrich-Alexander-Universität** studiert. Wie hat es sie nach Fischach verschlagen und woher stammen sie gebürtig?
 
@@ -286,7 +286,7 @@ Ich erinnere mich, dass ich an einem Tag mit schönem Wetter auf der gegenüberl
 
 **Dr. Hanno Platz:** Mittlerweile gibt es zum Glück so viel, meist auch gute Literatur zu dem Thema, dass ich eigentlich gar keinen speziellen Tipp geben möchte, zumal ich selbst meist in der wenigen Zeit, die neben der Praxis bleibt, Fachliteratur lese und weniger Belletristik. Aber ansonsten natürlich die "Klassiker", wie die "China Study", aber natürlich auch "Tiere essen" von J. S. Foer und "Peace Food" von Rüdiger Dahlke.
 
-**Anne:** Man hat sie in Augsburg schon auf der ein oder anderen [Tierrechtsdemo](/2014/10/thomas-laschyk-volksverpetzer/) gesehen, sie betreiben aktiv Aufklärung und schreiben selbst auf Ihrer Homepage [<sup>5</sup>](#5) über das vegane Leben. Sie sind also mit vollem Einsatz dabei. Bleibt ihnen da überhaupt noch Freizeit? Wenn ja, wie verbringen sie diese?
+**Anne:** Man hat sie in Augsburg schon auf der ein oder anderen [Tierrechtsdemo](/2014/10/thomas-laschyk-volksverpetzer/) gesehen, sie betreiben aktiv Aufklärung und schreiben selbst auf Ihrer Homepage[^5] über das vegane Leben. Sie sind also mit vollem Einsatz dabei. Bleibt ihnen da überhaupt noch Freizeit? Wenn ja, wie verbringen sie diese?
 
 **Dr. Hanno Platz:** Freie Zeit ist wirklich ein kostbares, weil sehr rares Gut für mich. Die "Lieblingsbeschäftigung", das gemeinsame Kochen mit meiner Frau, erwähnte ich ja bereits, dazu gehört auch der gemeinsame Einkauf davor. Außerdem höre ich gerne Musik und fotografiere und filme gelegentlich. Der Sport kommt momentan leider viel zu kurz, ich gelobe Besserung für das neue Jahr! _(lacht)_
 
@@ -296,12 +296,10 @@ Ich erinnere mich, dass ich an einem Tag mit schönem Wetter auf der gegenüberl
 
 **Anne:** Vielen Dank für das tolle Interview und die überaus aufschlussreichen Informationen!
 
-Dr. Hanno Platz schreibt auf seiner Homepage [<sup>5</sup>](#5) immer wieder zu veganen Themen, er engagiert sich u. a. Für "Ärzte gegen Tierversuche "[<sup>1</sup>](#1) und die "Albert Schweitzer Stiftung "[<sup>2</sup>](#2). Eine Liste mit veganen Ärzte [<sup>4</sup>](#4) ist auf der Seite des VEBU zu finden.
+Dr. Hanno Platz schreibt auf seiner Homepage[^5] immer wieder zu veganen Themen, er engagiert sich u. a. Für "Ärzte gegen Tierversuche"[^1] und die "Albert Schweitzer Stiftung"[^2]". Eine Liste mit veganen Ärzte[^4] ist auf der Seite des VEBU zu finden.
 
-## Fußnoten
-
-- [1] [Ärzte gegen Tierversuche](https://de.wikipedia.org/wiki/Peptid)
-- [2] [Albert Schweitzer Stiftung](https://de.wikipedia.org/wiki/Peptid)
-- [3] [ProVegan](https://de.wikipedia.org/wiki/Peptid)
-- [4] [VEBU Suche vegane Ärzte](https://de.wikipedia.org/wiki/Peptid)
-- [4] [Homepage Dr. Hanno Platz](https://www.dr-platz.de/)
+[^1]: [Ärzte gegen Tierversuche](https://de.wikipedia.org/wiki/Peptid)
+[^2]: [[Albert Schweitzer Stiftung](https://de.wikipedia.org/wiki/Peptid)
+[^3]: [[ProVegan](https://de.wikipedia.org/wiki/Peptid)
+[^4]: [[VEBU Suche vegane Ärzte](https://de.wikipedia.org/wiki/Peptid)
+[^5]: [Homepage Dr. Hanno Platz](https://www.dr-platz.de/)

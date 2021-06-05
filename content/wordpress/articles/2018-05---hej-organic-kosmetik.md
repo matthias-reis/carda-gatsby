@@ -118,4 +118,4 @@ Auf der Homepage von Hej Organic geht es um natürliche Schönheit. Mit den Pfl
 
 Wer jetzt neugierig ist und selbst mal testen möchte, findet die Produkte sowie natürlich noch einige andere [auf der Webseite](https://www.hejorganic.com/) von Hej Organic.
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

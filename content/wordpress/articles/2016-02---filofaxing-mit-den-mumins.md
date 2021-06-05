@@ -45,9 +45,9 @@ Schon als Kind habe ich es geliebt, vor einer Ferienreise Pläne zu schmieden un
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwUH/8QAKBAAAgEDBAEDBAMAAAAAAAAAAQIDBAURAAYSITEHE2EiI0FRMnGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgQD/8QAJBEAAgEDAwMFAAAAAAAAAAAAAQIAAxESEyExIzLRQWFx8PH/2gAMAwEAAhEDEQA/ANPcVXfbHcaGlsKRuXp5Z5UaFX6Qjvv41ZZ99boqUb2LbTVaYX7qUZ4hiBlchgCRnx8jUvVb3WuthkpmdHlhkh+huLE8lJHeB4OoenVymjoZVt9PXvQyV5MhjgLkJwQD+KnLYB6yMZ1Lk+qcu359pcporSVSAXN7C29gd5dUbt3hVVcNMKChR5IzMqTUBiXAOCORc8uyvj9jTJZUnu23KG6VkcUc9VCJHSMEKMk+ASfwBrF3XcKa4XewwSCaljjE7GSuD06spA7B5Fj2COjp02GBP6fWohAFjSSFSDkMqSMoYf2ANJG6hANx+eYa6jSDY2+nxOf7yszbmpITJVtBLTMWQ8eYIIwQRkfof5pfXalwoqemanvhVKhclBC4AbOM9SDvBxo0aopgK+Y5mDuzU9MnaMW29lVKRlpb7UEMeuFPGSmPAUycyB8DT5QRNZ7PBQQTSSQwKVUyYLHJJJOPySSdGjTYXYseTMwxxC+gn//Z"
 />
 
-Das macht man beim Filofaxing genau so, außerdem kann man das Tagebuch auch schon vorab schön schmücken. Vor Kurzem habe ich über die sozialen Netzwerke eine nette Frau [<sup>1</sup>](#1) kennengelernt, die sich ganz toll damit auskennt und immer wieder jede Menge wirklich gute Tipps für mich hat. Sie riet mir zu kleinen Online-Shops, wenn ich Interesse an ganz besonderem Zubehör für mein Hobby hätte.
+Das macht man beim Filofaxing genau so, außerdem kann man das Tagebuch auch schon vorab schön schmücken. Vor Kurzem habe ich über die sozialen Netzwerke eine nette Frau[^1] kennengelernt, die sich ganz toll damit auskennt und immer wieder jede Menge wirklich gute Tipps für mich hat. Sie riet mir zu kleinen Online-Shops, wenn ich Interesse an ganz besonderem Zubehör für mein Hobby hätte.
 
-Gesagt, getan. Kurz danach bin ich in den Tiefen des Netzes bin ich auf eine Dame [<sup>2</sup>](#2) aus Nippon gestoßen, die bei Etsy einen kleinen Papeterie-Shop mit Stickern, Haftnotizen, Stiften und allerlei buntem Kram fürs Filofaxing anbietet.
+Gesagt, getan. Kurz danach bin ich in den Tiefen des Netzes bin ich auf eine Dame[^2] aus Nippon gestoßen, die bei Etsy einen kleinen Papeterie-Shop mit Stickern, Haftnotizen, Stiften und allerlei buntem Kram fürs Filofaxing anbietet.
 
 Seit ich denken kann, verehre ich die Mumins. Diese lauten, frechen, kleinen Zeichentrickfiguren, die sich die finnlandschwedische Kinderbuchautorin Tove Jansson ausgedacht hat. Die Comichelden kamen damals über eine Zeichentrickserie zu uns. Neben dem Ferienprogramm und der Puppenkiste zählten die Mumins zu den ersten Fernsehsendungen, die ich als Kind zu sehen bekam.
 
@@ -71,9 +71,9 @@ Natürlich musste ich die Sachen auch gleich ausprobieren, ich hatte nämlich wa
 
 <Gallery name="flickr/annemuminsfinnlandplanung" />
 
-Auf den Fotos habe ich ein paar Details weggestempelt (Ihr müsst ja auch nicht alles wissen :-P ), ich denke, Ihr könnt aber trotzdem alles noch ganz gut erkennen. Sind die Sachen nicht süß? Kuckt Euch doch mal bitte diese unglaublichen Büroklammern an. Das ist doch kaum auszuhalten, oder? :-P
+Auf den Fotos habe ich ein paar Details weggestempelt, ich denke, Ihr könnt aber trotzdem alles noch ganz gut erkennen. Sind die Sachen nicht süß? Kuckt Euch doch mal bitte diese unglaublichen Büroklammern an. Das ist doch kaum auszuhalten, oder?
 
 <Gallery name="flickr/annemuminsbueroklammern" />
 
-- [1]Die liebe [Nine Onoke](https://www.instagram.com/nine_onoke/) hat immer wieder tolle Tipps fürs Scrapbooking parat. Ihr kennt Sie auch aus meinem [Interview mit Ihr](/2015/11/schmuck-fuer-veganer-von-mad-yeti-creations/), nebenbei baut sie sich nämlich gerade ihren Shop mit selbst gemachtem, veganem Schmuck auf.
-- [2] Bei  [Etsy](https://www.etsy.com/de/search?q=moomins) könnt Ihr viele tolle Kleinigkeiten für Euer Tagebuch finden.
+[^1]: Die liebe [Nine Onoke](https://www.instagram.com/nine_onoke/) hat immer wieder tolle Tipps fürs Scrapbooking parat. Ihr kennt Sie auch aus meinem [Interview mit Ihr](/2015/11/schmuck-fuer-veganer-von-mad-yeti-creations/), nebenbei baut sie sich nämlich gerade ihren Shop mit selbst gemachtem, veganem Schmuck auf.
+[^2]: Bei [Etsy](https://www.etsy.com/de/search?q=moomins) könnt Ihr viele tolle Kleinigkeiten für Euer Tagebuch finden.

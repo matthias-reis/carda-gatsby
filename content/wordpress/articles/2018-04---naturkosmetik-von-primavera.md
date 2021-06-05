@@ -157,4 +157,4 @@ Alles in allem bin ich sehr zufrieden mit meinem Pflegeset von Primavera. Ich we
 
 Wer jetzt neugierig geworden ist, kann sich auf der [Homepage](https://www.primaveralife.com/shop/gesichtspflege-sensitivpflege) von Primavera weiter informieren.
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

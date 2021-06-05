@@ -148,4 +148,4 @@ Wollt Ihr den Vegan Beauty Basket auch mal ausprobieren? Wer möchte, kann sich 
 1.  [Interview mit Gründerin Ina 2/2017](/2017/02/vegan-beauty-basket-interview/)
 1.  [Unboxing März-Ausgabe 3/2018](/2018/03/unboxing-vegan-beauty-basket-maerz/)
 
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

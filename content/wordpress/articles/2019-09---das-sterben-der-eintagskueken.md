@@ -74,11 +74,11 @@ Die Bundesrichter erlauben den Züchtern, nur noch so lange männliche Küken zu
 
 Das Bundeslandwirtschaftsministerium befindet sich jetzt unter dem Druck, auf Dauer eine Lösung finden zu müssen. Bis diese da ist, agieren die Züchter jedoch wie gewohnt.
 
-Die Grünen forderten im Anschluss an das Urteil eine Verschärfung der Gesetze. Grünen-Fraktionschefin Kathrin Göring-Eckhardt sagte gegenüber den Zeitungen des Redaktionsnetzwerks Deutschland, das Gerichtsurteil müsse von der Bundesregierung als Anlass dazu gesehen werden, sich aus der Umklammerung der Agrarlobby zu befreien. Bundeslandwirtschaftministerin Klöckler müsse umgehend ein Gesetz gegen das Töten von Küken vorlegen. [<sup>1</sup>](#1)
+Die Grünen forderten im Anschluss an das Urteil eine Verschärfung der Gesetze. Grünen-Fraktionschefin Kathrin Göring-Eckhardt sagte gegenüber den Zeitungen des Redaktionsnetzwerks Deutschland, das Gerichtsurteil müsse von der Bundesregierung als Anlass dazu gesehen werden, sich aus der Umklammerung der Agrarlobby zu befreien. Bundeslandwirtschaftministerin Klöckler müsse umgehend ein Gesetz gegen das Töten von Küken vorlegen[^1].
 
 ### Am 12. Juni erging beim Bundesverwaltungsgericht in Leipzig folgendes Urteil:
 
-> "Das massenhafte Töten männlicher Küken in der Legehennen-Zucht gilt vorerst noch als rechtmäßig. Bis zur Einführung von alternativen Verfahren zur Geschlechtsbestimmung im Hühnerei dürfen Brutbetriebe männliche Küken weiter töten." (BVerwG 3 C 28.16 und 3 C 29.6) [<sup>2</sup>](#2)
+> "Das massenhafte Töten männlicher Küken in der Legehennen-Zucht gilt vorerst noch als rechtmäßig. Bis zur Einführung von alternativen Verfahren zur Geschlechtsbestimmung im Hühnerei dürfen Brutbetriebe männliche Küken weiter töten." (BVerwG 3 C 28.16 und 3 C 29.6)[^2]
 
 Das Gericht sah keine Möglichkeit, die Tötungen sofort zu untersagen. Die übliche Praxis sei von einer damaligen Vorstellungen entsprechenden geringeren Gewichtung des Tierschutzes viele Jahre einfach hingenommen worden, hieß es.
 
@@ -95,15 +95,15 @@ Zwar freuen sich einige Gegner der Tötungspraxis in der Hühnerzucht über das 
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYEBQf/xAApEAABBAAFBAEEAwAAAAAAAAABAgMEEQAFEyExBhIiQQcUI1GBMnGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQF/8QAIhEAAgIABAcAAAAAAAAAAAAAAQIAAwQRITEFEhMiMqHw/9oADAMBAAIRAxEAPwBZy7KYrKErQhpBTvTILdkfkJIB/o3hZ+Qmc8iyIs/Lvro0BxGnrtk6WoCbSa2uq5rGrxchiw25ZzEz1rjEBbLbYb7h+Uk2Smt7A39XibA01IkQn4DEOwVrZL6ne9ArtLyCKBqzzY/eAbGUoxRm1ldeAvZQ4XSYV0rm2evZrDZlz2JLK3SlbKmxqdgSSVfx2T6u7w5zVpKCDHa/acOE2C8iZHlwYilQSyEPuRSh0uKB21BXcEgEVXAoXiHnEeHorU52MrSkkpJFih7HrCVWk7wb6QD2/GNvT7KuuOnnI895xmTHV9OmS2TarBVahtewoi97sUd8UkHMVT3sqixw7FVO7mitLyl6fiR4g7VSeDfN84MGIsfUrWVkjc5GbHCbG6Noz8RmPcoPkzqGT06/mTWVIbbfdSI7sgj7i78idqAHNJHF+8JedMrHTapwdUHHkJCh68yAf9wYMXooUBV2mLc7O3Mx1n//2Q=="
 />
 
-Neben den Forschungen zur Geschlechtsbestimmung vor dem Schlüpfen beschäftigen sich Wissenschaftler unter anderem auch mit dem sogenannten "Zweitnutzungs-Huhn". Das Versuchsgut Frankenforst der Uni Bonn verspricht sich davon eine "Tierwohl-freundlichere" und "zukunftsfähigere" Tierhaltung (WDR berichtete [<sup>4</sup>](#4) ). Die Legehennen sollen bei dieser neuen Form der Zucht "genügend" Eier legen, während die männlichen Küken für die Fleischgewinnung genutzt werden. Nordrhein-Westfalen soll für das Projekt als Modellregion fungieren.
+Neben den Forschungen zur Geschlechtsbestimmung vor dem Schlüpfen beschäftigen sich Wissenschaftler unter anderem auch mit dem sogenannten "Zweitnutzungs-Huhn". Das Versuchsgut Frankenforst der Uni Bonn verspricht sich davon eine "Tierwohl-freundlichere" und "zukunftsfähigere" Tierhaltung (WDR berichtete[^4]). Die Legehennen sollen bei dieser neuen Form der Zucht "genügend" Eier legen, während die männlichen Küken für die Fleischgewinnung genutzt werden. Nordrhein-Westfalen soll für das Projekt als Modellregion fungieren.
 
-Die Supermarktkette Norma [<sup>4</sup>](#4) startete erst kürzlich die Kampagne "Wer Huhn sagt, muss auch Hahn sagen". Im Rahmen der Aktion werden in Baden-Württemberg Eier mit einer roten Banderole auf dem Karten zu einem höheren Preis verkauft. Das eingenommene Geld soll jungen Hähnen zugutekommen, die ihr Leben dann in Ställen sowie in Freiland-Haltung verbringen sollen.
+Die Supermarktkette Norma[^4] startete erst kürzlich die Kampagne "Wer Huhn sagt, muss auch Hahn sagen". Im Rahmen der Aktion werden in Baden-Württemberg Eier mit einer roten Banderole auf dem Karten zu einem höheren Preis verkauft. Das eingenommene Geld soll jungen Hähnen zugutekommen, die ihr Leben dann in Ställen sowie in Freiland-Haltung verbringen sollen.
 
 ## Wir müssen uns für die Tiere stark machen
 
 Einige dieser Aktionen sind zweifelhaft, andere der sprichwörtliche Tropfen auf den heißen Stein. Es ist sicher, dass ein hieb- und stichfestes Gesetz hermuss. Und zwar so schnell wie möglich. Solange Menschen weiter Eier und Hühnerfleisch zu sich nehmen und nicht flächendeckend aus ethischen Gründen darauf verzichten, sind diese kleinen Schritte mehr als wichtig. Alles, was dabei hilft, das Leid der "Nutztiere" so gering wie möglich zu halten sollte getan werden.
 
-Tierschutzorganisationen wie die Albert Schweitzer Stiftung für unsere Mitwelt [<sup>5</sup>](#5) und PETA [<sup>6</sup>](#6) machen sich für die Tiere stark und machen auf Missstände, wie die in der Hühnerzucht, aufmerksam. Wer etwas bewirken möchte, unterstützt ihre Petitionen, geht für die Rechte der Tiere auf die Straße und spendet für den Tierschutz.
+Tierschutzorganisationen wie die Albert Schweitzer Stiftung für unsere Mitwelt[^5] und PETA[^6] machen sich für die Tiere stark und machen auf Missstände, wie die in der Hühnerzucht, aufmerksam. Wer etwas bewirken möchte, unterstützt ihre Petitionen, geht für die Rechte der Tiere auf die Straße und spendet für den Tierschutz.
 
 <blockquote>
 
@@ -121,14 +121,12 @@ Die Arbeiter greifen sich die Küken nach und nach vom Band und nehmen sie in Au
 
 <YouTube id="NZHJr6-vRKY" />
 
-**Fußnoten / Quellen:**
-
-- [1] [Pressemitteilung der Albert Schweitzer Stiftung vom 13.06.2019](https://albert-schweitzer-stiftung.de/aktuell/urteil-zum-kuekentoeten-erfolg-fuer-den-tierschutz)
-- [2] [Pressemitteilung vom Bundesverwaltungsgericht zum Urteil BVerwG 3 C 28.16 und 3 C 29.6 am 13.06.2019](https://www.bverwg.de/pm/2019/47)
-- [3] [WDR](https://www1.wdr.de/nachrichten/rheinland/nutztierhaltung-nrw-100.html)
-- [4] [Norma](https://www.presseportal.de/pm/62097/4363476 target=)
-- [5] [Albert Schweitzer Stifung](https://albert-schweitzer-stiftung.de/aktuell/urteil-zum-kuekentoeten-erfolg-fuer-den-tierschutz)
-- [6] [PETA](https://www.peta.de/eier)
-- [7] [Foodwatch](https://www.foodwatch.org/de/newsletter/2019/das-ist-der-blanke-hohn/?L=0)
-
 **Fotos:** [Timo Stammberger](https://www.timostammberger.com/) / [Albert Schweitzer Stiftung für unsere Mitwelt](https://albert-schweitzer-stiftung.de/)
+
+[^1]: [Pressemitteilung der Albert Schweitzer Stiftung vom 13.06.2019](https://albert-schweitzer-stiftung.de/aktuell/urteil-zum-kuekentoeten-erfolg-fuer-den-tierschutz)
+[^2]: [Pressemitteilung vom Bundesverwaltungsgericht zum Urteil BVerwG 3 C 28.16 und 3 C 29.6 am 13.06.2019](https://www.bverwg.de/pm/2019/47)
+[^3]: [WDR](https://www1.wdr.de/nachrichten/rheinland/nutztierhaltung-nrw-100.html)
+[^4]: [Norma](https://www.presseportal.de/pm/62097/4363476 target=)
+[^5]: [Albert Schweitzer Stifung](https://albert-schweitzer-stiftung.de/aktuell/urteil-zum-kuekentoeten-erfolg-fuer-den-tierschutz)
+[^6]: [PETA](https://www.peta.de/eier)
+[^7]: [Foodwatch](https://www.foodwatch.org/de/newsletter/2019/das-ist-der-blanke-hohn/?L=0)

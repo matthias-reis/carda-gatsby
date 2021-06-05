@@ -98,7 +98,7 @@ Mal sah ich einen romantisierten Beitrag im öffentlich rechtlichen Fernsehen ü
 
 ### Gebrochene Gliedmaßen und Qualhaltung
 
-Auf der Seite von PETA stieß ich auf einen wirklich gut recherchierten Artikel<sup>[1](#1)</sup>, der viele Fakten offen darlegte. Darin war unter anderem die Rede von "Kadavertonnen" für tote Lämmer, gebrochenen Gliedmaßen und Qualhaltung.
+Auf der Seite von PETA stieß ich auf einen wirklich gut recherchierten Artikel[^1], der viele Fakten offen darlegte. Darin war unter anderem die Rede von "Kadavertonnen" für tote Lämmer, gebrochenen Gliedmaßen und Qualhaltung.
 
 Ich begann zu recherchieren und plötzlich tat sich eine ganz neue, dunkle Tür auf, hinter der sich eine schmerzvolle Welt verbarg, die mir aus diversen Anti-Pelz Kampagnen nur allzu bekannt vorkam. Videos von gequälten Angora-Kaninchen und schwer verletzten Schafen tauchten auf. Bilder des Grauens.
 
@@ -192,7 +192,7 @@ Auf den Schiffen werden bis zu 100.000 Tiere transportiert, oft kommt es dabei z
 
 Zudem herrschen auf den Schiffen häufig hohe Temperaturen über 40 Grad Celsius, die unter den grausamen Umständen nicht selten zum Hitzeschlag führen.
 
-Beim Verladen herrscht ein brutales Klima, in den Schlachthöfen im nahen Osten wird den Tieren ohne Betäubung die Kehle durchtrennt (PETA deckte auf <sup> [1](#1) </sup>). In Australien und Deutschland würde diese Vorgehensweise gegen die OIE (Weltorganisation für Tiergesundheit) verstoßen.
+Beim Verladen herrscht ein brutales Klima, in den Schlachthöfen im nahen Osten wird den Tieren ohne Betäubung die Kehle durchtrennt (PETA deckte auf[^1]. In Australien und Deutschland würde diese Vorgehensweise gegen die OIE (Weltorganisation für Tiergesundheit) verstoßen.
 
 In Deutschland leben die meisten Schafe in Bayern, Baden-Württhemberg und Schleswig-Holstein. 884.000 Lämmchen wurden 2013 bei uns ihres Fleisches wegen geschlachtet, die Zuchtschafe erwartet das gleiche Schicksal, sobald die Zuchtleistung nachgelassen hat.
 
@@ -207,7 +207,7 @@ In Deutschland leben die meisten Schafe in Bayern, Baden-Württhemberg und Schle
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcBBgMEBQj/xAAmEAABBAEDBAIDAQAAAAAAAAABAgMEEQAFEiEGEzFBByJSYXGB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAMBBAb/xAAeEQACAgICAwAAAAAAAAAAAAABAgADBBEhkQUiMf/aAAwDAQACEQMRAD8AeZ16KtS09z6gcbhxkwepNOD3benw0uE7QhbyUm6uqxS/IGuQ3epOn5WjSO7FjylvyhxsApIAKfCvZA5HGcHWH+n9X6k1TU9SiuBl9DYZYguKZ2mvstRA5UaSKquSfOIsyUX1BHclRsbM9AavMiT4xQ0lqZtIK9iwpLZri68ZWI+nMA8sLNfmrE8xNgaYqU/oTWqNrWgpjuKfPcYdCr3LNAOIN1RGXaH8hwmoQ3xJUl5DYShLywlpShVFW036PH7x2P5OpFKu2u4i6ksQVEWDkp4ObUKAJuyRfjNhpTxiBxxwEnghIKf94OGGZR+AJaH2YkTHEBtQHKvYJvJEjuG9tf03hhhrmAn/2Q=="
 />
 
-Deutsche Schäfer haben sehr hohe Verlustraten bei Lämmern (sechs bis 13 Prozent) zu verzeichnen, diese sterben bei Geburtskomplikationen oder kurz nach der Geburt an Unterernährung (PETA deckte auf <sup> [2](#2) </sup>). Für Großbetriebe lohnt sich die Behandlung nicht, die Tierarztkosten sprengen das Budget, die Tierkinder verenden und landen auf dem Müll.
+Deutsche Schäfer haben sehr hohe Verlustraten bei Lämmern (sechs bis 13 Prozent) zu verzeichnen, diese sterben bei Geburtskomplikationen oder kurz nach der Geburt an Unterernährung (PETA deckte auf[^2]. Für Großbetriebe lohnt sich die Behandlung nicht, die Tierarztkosten sprengen das Budget, die Tierkinder verenden und landen auf dem Müll.
 
 Bei der Schur muss es schnell gehen, um möglichst viele Tiere in möglichst kurzer Zeit "abzufertigen".
 
@@ -238,7 +238,7 @@ Merinoschafe wurden faltig gezüchtet, um noch mehr Wolle zu gewinnen. Durch die
 
 In den Körperfalten sammelt sich jede Feuchtigkeit, mit der sie in Berührung kommen, Regen und Urin. Fliegen legen darin ihre Larven ab, die Larven ernähren sich von den Schafen, sie werden regelrecht aufgefressen.
 
-Die Fliegenmadenkrankheit wird als Myasis <sup> [3](#3) </sup> bezeichnet. Die australischen Wollfarmer (Merinoschafe sind dort die am häufigsten vorkommende Schafrasse) wenden aus diesem Grund das sogenannte Mulesing <sup> [4](#4) </sup> an.
+Die Fliegenmadenkrankheit wird als Myasis[^3] bezeichnet. Die australischen Wollfarmer (Merinoschafe sind dort die am häufigsten vorkommende Schafrasse) wenden aus diesem Grund das sogenannte Mulesing[^4] an.
 
 Bei diesem extrem schmerzhaften Prozess wird den Lämmern ohne Betäubung die Haut rund um den Schwanz entfernt. Das Schaf wird fixiert und die After-Schwanz-Falte durch das Entfernen eines V-förmigen Hautlappens gestrafft, der Schwanz ab dem dritten Schwanzwirbel kupiert.
 
@@ -246,7 +246,7 @@ Bei diesem extrem schmerzhaften Prozess wird den Lämmern ohne Betäubung die Ha
 
 In **Neuseeland** haben die Farmer sich ab Ende 2010 freiwillig ein Verbot auferlegt, an das sich leider nicht alle halten.
 
-Doch Wolle stammt nicht nur von Schafen. Als Wolle bezeichnet man nach dem Textilkennzeichnungsgesetz grundsätzlich die weichen Haare des Fells von Säugetieren. <sup> [5](#5) </sup>
+Doch Wolle stammt nicht nur von Schafen. Als Wolle bezeichnet man nach dem Textilkennzeichnungsgesetz grundsätzlich die weichen Haare des Fells von Säugetieren[^5].
 
 ### Angorakaninchen
 
@@ -322,14 +322,6 @@ Schwer zu sagen, wenn man derzeit die Kunstfell-Kragen, -Schals und \-Mützenbom
 9.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
 10. [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)
 
-## Fußnoten
-
-- \[1\]    [PETA Wolle aus Deutschland](http://www.peta.de/wolle-deutschland#.VDgudL6USmC)
-- \[2\]    [PETA Fakten über die Wollindustrie](http://www.peta.de/fakten)
-- \[3\]    [Myasis Wikipedia](http://de.wikipedia.org/wiki/Myiasis)
-- \[4\]    [Mulesing Wikipedia](http://de.wikipedia.org/wiki/Mulesing)
-- \[5\]    [Wikipedia Wolle](http://de.wikipedia.org/wiki/Wolle)
-
 ## Quellen
 
 - [Statistisches Bundesamt](https://www.destatis.de/DE/Startseite.html)
@@ -337,3 +329,9 @@ Schwer zu sagen, wenn man derzeit die Kunstfell-Kragen, -Schals und \-Mützenbom
 - [aid.de](http://www.aid.de/landwirtschaft/schafe_rassen.php)
 - [focus.de](http://www.focus.de/panorama/videos/australische-scherer-blutige-wolle-schock-ueber-brutalen-umgang-mit-schafen_id_3988941.html)
 - [VEBU](https://www.vebu.de/themen/tiere-a-ethik/tiere-und-tierhaltung/schafe)
+
+[^1]: [PETA Wolle aus Deutschland](http://www.peta.de/wolle-deutschland#.VDgudL6USmC)
+[^2]: [PETA Fakten über die Wollindustrie](http://www.peta.de/fakten)
+[^3]: [Myasis Wikipedia](http://de.wikipedia.org/wiki/Myiasis)
+[^4]: [Mulesing Wikipedia](http://de.wikipedia.org/wiki/Mulesing)
+[^5]: [Wikipedia Wolle](http://de.wikipedia.org/wiki/Wolle)

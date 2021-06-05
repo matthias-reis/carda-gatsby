@@ -184,7 +184,7 @@ Ich muss mich auch nicht mit dem geschäftlichen Ende der Dinge beschäftigen un
 
 **Anne:** Gibt es noch weitere Projekte, an denen Du arbeitest, die Du gerne im Besonderen erwähnen möchtest?
 
-**Evan:** Neben Heavybird und der Zusammenarbeit mit Luis Mojica gibt es noch Soft Static, mein Ambient Projekt und Sheepish Wonder. Das ist mein Freund Matt Brady, der ziemlich großartigen Indie Folk Rock macht. Er bringt einige tolle Einflüsse aus beiden Welten mit. Seine Stücke sind Pop-orientiert und haben eine tolle Substanz. Ich habe noch eine Menge Projekte in der Hinterhand. Auf meiner Website [<sup>1</sup>](#1) poste ich alles aus dem Musiksektor.
+**Evan:** Neben Heavybird und der Zusammenarbeit mit Luis Mojica gibt es noch Soft Static, mein Ambient Projekt und Sheepish Wonder. Das ist mein Freund Matt Brady, der ziemlich großartigen Indie Folk Rock macht. Er bringt einige tolle Einflüsse aus beiden Welten mit. Seine Stücke sind Pop-orientiert und haben eine tolle Substanz. Ich habe noch eine Menge Projekte in der Hinterhand. Auf meiner Website[^1] poste ich alles aus dem Musiksektor.
 
 **Anne:** Vielen Dank für Deine Zeit und für dieses Interview! Ich wünsche Dir alles Gute für das neue Album!
 
@@ -192,19 +192,11 @@ Ich muss mich auch nicht mit dem geschäftlichen Ende der Dinge beschäftigen un
 
 ## "Caged Animal Blues" von Heavybird
 
-<YouTube id="p_fmlvVBXXE" />
-
-## Fußnote
-
-<div id="1">
-  [1] [Homepage Evan Glenn Adams](https://www.evanglennadams.com/)
-</div>
-
----
+## <YouTube id="p_fmlvVBXXE" />
 
 <div></div>
 
-<div id="⋆">[⋆] _English version_ </div>
+<div id="⋆">[⋆] English version </div>
 
 ## "Instruments are like family members"
 
@@ -331,7 +323,7 @@ I don’t have to deal with the business end of things either, and can really ju
 
 **Anne:** Are there any other projects you are working on that you would like to mention in particular?
 
-**Evan:** Besides Heavybird and Luis Mojica, there’s soft static, my ambient stuff, and Sheepish Wonder, which is my friend Matt Brady who does some really great jangly indie folk rock. He brings in a lot of influences to make something that is both pop-oriented and still has great substance. I have even more projects on the backburner, but if you follow my website [<sup>2</sup>](#2) I’m sure to post anything new in the music section.
+**Evan:** Besides Heavybird and Luis Mojica, there’s soft static, my ambient stuff, and Sheepish Wonder, which is my friend Matt Brady who does some really great jangly indie folk rock. He brings in a lot of influences to make something that is both pop-oriented and still has great substance. I have even more projects on the backburner, but if you follow my website[^1] I’m sure to post anything new in the music section.
 
 **Anne:** Thank you very much for your time and for this interview! I wish you all the best for the release of your album!
 
@@ -341,8 +333,4 @@ I don’t have to deal with the business end of things either, and can really ju
 
 <YouTube id="p_fmlvVBXXE" />
 
-## Footnote
-
-<div id="2">
-  [2] [Homepage Evan Glenn Adams](https://www.evanglennadams.com/)
-</div>
+[^1]: [Homepage Evan Glenn Adams](https://www.evanglennadams.com/)

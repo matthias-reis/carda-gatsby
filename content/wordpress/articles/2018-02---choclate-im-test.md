@@ -115,4 +115,4 @@ Zum Einsatz kommt ausschließlich Bio-Fairtrade-Schokolade von den Big Tree Farm
 
 Kaufen kann man sie auf dem Foodmarket "Marktzeit" in der Fabrik in Hamburg Altona. Weitere Infos findet Ihr auf [Christinas Homepage](http://www.choclate.online).
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

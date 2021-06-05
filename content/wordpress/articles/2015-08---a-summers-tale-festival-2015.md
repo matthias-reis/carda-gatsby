@@ -49,13 +49,13 @@ Auch wenn an einigen Dingen noch ein Bisschen gearbeitet werden darf und es uns 
 
 ## Die Künstler
 
-Auf meinen Bildern unten seht Ihr Alex Clare, Heinz Strunk, Young Rebel Set, Belle And Sebastian, Ride, Manuel Möglich, Nils Frevert, Get Well Soon, Hundreds und Calexico, die wir in dieser Reihenfolge über vier Tage verteilt live auf dem A Summer's Tale [<sup>1</sup>](#1) erleben durften.
+Auf meinen Bildern unten seht Ihr Alex Clare, Heinz Strunk, Young Rebel Set, Belle And Sebastian, Ride, Manuel Möglich, Nils Frevert, Get Well Soon, Hundreds und Calexico, die wir in dieser Reihenfolge über vier Tage verteilt live auf dem A Summer's Tale[^1] erleben durften.
 
 Außerdem traten natürlich noch viele weitere Künstler auf, es gab Workshops und allerlei interessante Darbietungen und sogar eine Fotoausstellung und einige Kunstistallationen, die über das Gelände verteilt waren. Bis auf die Pulled Pork Stände, die es an jeder Ecke gab und ein unglaublich großes Angebot an Käse, Joghurt und weiteren Milchprodukten war es allerdings, was die Essensversorgung angeht, etwas schwierig.
 
 ## Hunger
 
-Anfangs dachten wir uns noch, wie schön, dass es mal andere Einkehrmöglichkeiten gibt, als die üblichen Verdächtigen, aber am Ende des Tages habe ich mir einfach meinen Asia-Nudelstand gewünscht, an dem ich mir schon um 10 Uhr morgens eine dicke Portion dampfende Nudeln mit Gemüse und Sambal Oelek holen kann, wenn mich der Hunger packt. Vielen herzlichen Dank an dieser Stelle an unsere mobile Lieblings-Burgerbude Vincent Vegan<sup> [2](#2)   </sup>aus Hamburg,  dass Ihr uns vor dem Verhungern gerettet habt!
+Anfangs dachten wir uns noch, wie schön, dass es mal andere Einkehrmöglichkeiten gibt, als die üblichen Verdächtigen, aber am Ende des Tages habe ich mir einfach meinen Asia-Nudelstand gewünscht, an dem ich mir schon um 10 Uhr morgens eine dicke Portion dampfende Nudeln mit Gemüse und Sambal Oelek holen kann, wenn mich der Hunger packt. Vielen herzlichen Dank an dieser Stelle an unsere mobile Lieblings-Burgerbude Vincent Vegan[^2] aus Hamburg,  dass Ihr uns vor dem Verhungern gerettet habt!
 
 <RemoteImage
   alt={`Vincent Vegan rettete uns`}
@@ -102,9 +102,7 @@ Grundsätzlich würde ich das Festival bei einem umfangreicheren Lineup mit wen
 1.  [Calexico live @ A Summer's Tale Festival 2015](/2015/08/calexico-live-a-summers-tale-festival-2015/)
 1.  [Bildergalerie und Fazit A Summer's Tale Festival 2015](/2015/08/a-summers-tale-festival-2015/)
 
-## Fußnoten
-
-- [1] [Homepage A Summer's Tale](https://www.asummerstale.de/de)
-- [2] [Homepage Vincent Vegan](http://vincent-vegan.com/)
+[^1]: [Homepage A Summer's Tale](https://www.asummerstale.de/de)
+[^2]: [Homepage Vincent Vegan](http://vincent-vegan.com/)
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)

@@ -115,4 +115,4 @@ Die Nudeln wandern jetzt in mein Reisegepäck. Ihr habt hiermit meine Empfehlung
 
 Wer die Nudeln von Vitanu auch mal testen möchte, kann sie [hier bestellen](https://www.vitanu.de/webshop?product=bio-konjak-nudeln).
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

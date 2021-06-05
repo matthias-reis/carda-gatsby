@@ -194,4 +194,4 @@ Insgesamt muss ich sagen, dass mich das Sortiment von Sauberkunst umgehauen hat.
 
 Zum Sauberkunst Online Shop geht es [hier entlang](http://www.sauberkunst.de/epages/es948784.sf/de_DE/?ObjectPath=/Shops/es948784/Categories).
 
-- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

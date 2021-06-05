@@ -48,7 +48,7 @@ errors: {}
 subTitle: Ist der Schachtelsatz vom Aussterben bedroht?
 ---
 
-**Eigentlich hatte ich vor, heute ein Rant über moderne Technik zu schreiben, da ich in den letzten Stunden mit Google-Konten, Synchronisierungen, Mobiltelefonen und diversen Netzwerkeinstellungen zu kämpfen hatte. Und natürlich auch mal wieder mit der Frage nach dem richtigen Betriebssystem. Doch ich denke, das überlasse ich lieber anderen.** _\*(Dies ist eine Fußnote, bitte folgen!)_
+**Eigentlich hatte ich vor, heute ein Rant über moderne Technik zu schreiben, da ich in den letzten Stunden mit Google-Konten, Synchronisierungen, Mobiltelefonen und diversen Netzwerkeinstellungen zu kämpfen hatte. Und natürlich auch mal wieder mit der Frage nach dem richtigen Betriebssystem. Doch ich denke, das überlasse ich lieber anderen.**
 
 Ich habe festgestellt, dass sich meine Aktivität, was das Blogschreiben betrifft, in der letzten Zeit ziemlich reduziert hat. Das mag am erhöhten Termindruck in den letzen Wochen liegen (Was mir, etwas reflektierend betrachtet,  jedoch eher wie eine passende Ausrede vorkommt), vor allem aber an der steigenden Zahl meiner [Tweets](http://twitter.com/#!/Carda_Mon). Twitter läuft nebenbei, sobald mir etwas in den Sinn kommt, habe ich es auch schon geschrieben. Verschenke ich meine Ideen an Twitter? Oder handelt es sich dabei um das ideale Medium, meiner Schreibweise gerecht zu werden, meine Gedanken zum Ausdruck zu bringen? Auch einige meiner Blogeinträge bestehen aus einer Aneinanderreihung kurzer, scheinbar nicht zusammenhängender Sätze. Einige betrachten das Twittern ja auch als Kunst. In 140 Zeichen alles zu sagen, was man der Welt mitteilen möchte. Daraus entstehen sogar lesenswerte [Bücher.](http://haekelschwein.de/buch.htm)
 
@@ -68,19 +68,19 @@ Hier noch ein paar schöne Worte, die mich unlängst auf einer Postkarte erreich
 
 ## The Unknown
 
-_Do you exist my pretty bird_ 
+_Do you exist my pretty bird_
 
-_Flying above the snow?_ 
+_Flying above the snow?_
 
-_Are you actually flying_ 
+_Are you actually flying_
 
-_Or do I imagine it so?_ 
+_Or do I imagine it so?_
 
-_Detail of wing and breast_ 
+_Detail of wing and breast_
 
-_Unquestionably there -_ 
+_Unquestionably there -_
 
-_Or do I merely thing you_ 
+_Or do I merely thing you_
 
 _Perfect in Mid Air?_
 
@@ -115,5 +115,3 @@ Das war´s jetzt aber für heute, erst wochenlang nichts und dann so ein Redesch
 <YouTube id="x-FwFSJW7_k" />
 
 STAR ANNA &amp; THE LAUGHING DOGS live on KEXP
-
-_\*Vielleicht wird zum Thema Technik sogar demnächst ein Gastbeitrag von einem versierten Softwareprogrammierer, passionierten Apple-User und Musikliebhaber hier in meinem Blog erscheinen, man darf gespannt sein._

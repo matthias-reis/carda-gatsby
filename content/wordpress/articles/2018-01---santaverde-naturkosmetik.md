@@ -97,11 +97,11 @@ Das Santaverde-Konzept beinhaltet immer ein Reinigungsprodukt, ein tonisierendes
 
 ## Echte Naturkosmetik
 
-Bei allen Produkten von Santaverde handelt es sich um echte Naturkosmetik. Das bedeutet, dass alle Rezepturen aus reinen Pflanzensäften, -ölen, zarten Hydrolaten sowie gehaltvollen Pflanzenextrakten zusammengesetzt sind. Chemisch-synthetische Duft-, Farb- und Konservierungsstoffe, Mineralöle und Parabene kommen in den Produkten nicht vor. Sie sind mit dem international anerkannten NATRUE-Gütesiegel [<sup>1</sup>](#1) für zertifizierte Naturkosmetik ausgezeichnet.
+Bei allen Produkten von Santaverde handelt es sich um echte Naturkosmetik. Das bedeutet, dass alle Rezepturen aus reinen Pflanzensäften, -ölen, zarten Hydrolaten sowie gehaltvollen Pflanzenextrakten zusammengesetzt sind. Chemisch-synthetische Duft-, Farb- und Konservierungsstoffe, Mineralöle und Parabene kommen in den Produkten nicht vor. Sie sind mit dem international anerkannten NATRUE-Gütesiegel[^1] für zertifizierte Naturkosmetik ausgezeichnet.
 
 ## Tierleidfrei
 
-Zwei weitere Siegel sind das Leaping Bunny Siegel [<sup>2</sup>](#2) sowie das Label der Vegan Society [<sup>3</sup>](#3). Das Leaping Bunny Siegel ist weltweit anerkannt. Es steht für garantiert Tierleid-freie Kosmetik. Mit dem Logo sind auch Tierversuche mit einzelnen Rohstoffen und Fertigprodukten weltweit wirksam ausgeschlossen.
+Zwei weitere Siegel sind das Leaping Bunny Siegel[^3] sowie das Label der Vegan Society[^3]. Das Leaping Bunny Siegel ist weltweit anerkannt. Es steht für garantiert Tierleid-freie Kosmetik. Mit dem Logo sind auch Tierversuche mit einzelnen Rohstoffen und Fertigprodukten weltweit wirksam ausgeschlossen.
 
 > _Kleine Erklärung am Rande:_ Produkte und Rohstoffe sowie deren Vertrieb, die an Tieren getestet wurden, sind seit Kurzem innerhalb der EU verboten. Das Gesetz greift allerdings nicht außerhalb der EU. Weshalb viele Produkte zwar sogar als "vegan" gekennzeichnet sind, jedoch zum Beispiel in China verkauft werden. Dort sind Tierversuche noch heute vorgeschrieben, bevor ein Produkt verkauft werden darf. Dieses Dilemma ist daher auch unter dem Namen "China-Problematik" bekannt.
 
@@ -122,7 +122,7 @@ Das Label der Vegan Society garantiert, dass alle Produkte von Beginn an vegan s
 
 Der für die Produkte verwendete, zu 100 Prozent reine Aloe Vera Saft "aloepur" sowie ein großer Teil der verwendeten Inhaltsstoffe tragen das EU-Biosiegel. Dabei handelt es sich um das europaweit einheitliche Dachzeichen für Erzeugnisse aus dem ökologischen Landbau. Es verbietet den Einsatz von Gentechnik und mineralischem Kunststoffdünger, fordert artgerechte Tierhaltung, eine Verminderung des Energieverbrauchs sowie einen schonenden Umgang mit Ressourcen.
 
-Die Anwendung der Santaverde Produkte erfolgt je nach Hautbild. Die von mir gewählte Sensitivpflegereihe bietet neben "meinen Produkten" unter anderem auch noch eine "rich cream", die ich vielleicht mal für meine ewig trockene Augenpartie testen werde, sowie ein Reinigungsgel. Vielleicht kommt ja für Euch auch eher die Age Perfect Serie oder die Pur Serie in Frage. Am besten informiert Ihr Euch selbst, was am besten zu Euch passt [<sup>4</sup>](#4).
+Die Anwendung der Santaverde Produkte erfolgt je nach Hautbild. Die von mir gewählte Sensitivpflegereihe bietet neben "meinen Produkten" unter anderem auch noch eine "rich cream", die ich vielleicht mal für meine ewig trockene Augenpartie testen werde, sowie ein Reinigungsgel. Vielleicht kommt ja für Euch auch eher die Age Perfect Serie oder die Pur Serie in Frage. Am besten informiert Ihr Euch selbst, was am besten zu Euch passt[^4].
 
 ## Wertvoller Aloe Vera Saft
 
@@ -171,11 +171,9 @@ Auf der Seite von Santaverde findet Ihr unter anderem ein umfangreiches Inhaltss
 
 Wer gerne auch mal ein paar Produkte aus dem Hause Santaverde ausprobieren möchte, [findet hier eine Liste der Bezugsquellen](http://www.santaverde.de/bezugsquellen).
 
-### Fußnoten:
+[^1]: [Infos über NATRUE-Gütesiegel](http://www.natrue.org)
+[^2]: [Alles über das Leaping Bunny Siegel](http://www.leapingbunny.org)
+[^3]: [Infos über das Label der Vegan Society](http://www.vegansociety.com)
+[^4]: [Homepage Santaverde](http://www.santaverde.de)
 
-- [1] [Infos über NATRUE-Gütesiegel](http://www.natrue.org)
-- [2] [Alles über das Leaping Bunny Siegel](http://www.leapingbunny.org)
-- [3] [Infos über das Label der Vegan Society](http://www.vegansociety.com)
-- [4] [Homepage Santaverde](http://www.santaverde.de)
-
-_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

@@ -32,7 +32,7 @@ errors: {}
 subTitle: Die neue Ausstellung von Denise Slapansky
 ---
 
-**Ganz sicher können sich einige hier noch an die vegane Künstlerin Denise Slapansky Hof erinnern. Zuletzt hatte ich hier ihre Bilder [<sup>1</sup>](#1) vorgestellt und auch der Artikel über ihre Mützenkollektion mit dem Label WYOB [<sup>2</sup>](#2)  erfreut sich großer Beliebtheit.**
+**Ganz sicher können sich einige hier noch an die vegane Künstlerin Denise Slapansky Hof erinnern. Zuletzt hatte ich hier ihre Bilder[^1] vorgestellt und auch der Artikel über ihre Mützenkollektion mit dem Label WYOB[^2]  erfreut sich großer Beliebtheit.**
 
 Vom 8. bis zum 14. November stellte Denise in den Räumlichkeiten der Augsburger IT-Firma Harle ihre aktuellsten Werke aus. Unter dem Motto "Tierisch hintergründig" zeigte sie insgesamt 26 Exponate, die sich teilweise bereits in Privatbesitz befanden und von ihren Besitzern als Leihgabe für die Ausstellung zur Verfügung gestellt wurden.
 
@@ -96,7 +96,7 @@ Das größte Bild der Ausstellung trägt den Titel "Milchwaisen im Schüttelglas
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABYDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYDCP/EACkQAAEEAQMCBQUBAAAAAAAAAAECAwQRAAUSIQYxEzJRYaEVIkGBscH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgEF/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAAxESITFR/9oADAMBAAIRAxEAPwD0O9NajOgOOpFK2FJPOdosyNKYbeaebU2qyFbuDzX+Yr+sZbi+oZCmZ7C2S5GV4W8bm64ND3r5ymha1LizHkMymnY6WVLS2pugTtNjee6gT2HbJFf2UVJ8jig6gxLnTGmlbjHUEKNcci+D2OGKzoGRqCtc1xmNKaQtPhKd3WoFW3bx6eX93hg2W11tqx7MxjhMzGvSWlyH5H09T+9aCtQKgsgKFFNEAUb4/uUUlDGmanEXClyXRJQ4+4w/TgasD7htF2bPH5ydNkqYhNNuuJSyjYd6j5ySaHoa+LzK6gZwlGYH9qAS00tSeFWsXQ7nErJ2znkYHVsR19DNtR9X1Tc8lRmIbkpUkEBI5BSbrmzde+GQunEwdFgPy5IWqa++ULcBK+AAaAvgc4ZzriHcsFzBZtjsnhn/2Q=="
 />
 
-Im Werk "Milka" geht es um die Problematik des Leistungszwangs. Der Blick der Kuh ist leer. Sie hat viele Kinder geboren, jedes Jahre eines, alle wurden sie von ihr getrennt. Wenn ihre Leistung nachlässt, wird sie zur Schlachtbank geführt. Die sehr kleinen Kälber links im Bild sind ein Hinweis auf die nach wie vor praktizierte Trächtigkeitsschlachtung [<sup>3</sup>](#3).
+Im Werk "Milka" geht es um die Problematik des Leistungszwangs. Der Blick der Kuh ist leer. Sie hat viele Kinder geboren, jedes Jahre eines, alle wurden sie von ihr getrennt. Wenn ihre Leistung nachlässt, wird sie zur Schlachtbank geführt. Die sehr kleinen Kälber links im Bild sind ein Hinweis auf die nach wie vor praktizierte Trächtigkeitsschlachtung[^3].
 
 "60 Million Dreams" greift das Thema Massentierhaltung auf. Ca. 60 Millionen Schweine werden in Deutschland jedes Jahr geschlachtet. 99% von ihnen leben in Massentierhaltung. Sie sehen das erste Mal Licht, wenn sie auf den Schlachttransporter verladen werden. Daran möchte Denise damit erinnern.
 
@@ -121,7 +121,7 @@ Dazwischen ist ein Metzgerschema, nach dem die Teile des Kalbes nummeriert und b
 
 Sie trägt eine Augenbinde. Sehen möchte sie nicht. Sie denkt nur an ihr eigenes Kind, das sie füttern wird mit dem Pulver aus der Muttermilch des Kalbes. Und mit seinem Fleisch. Ihre Welt ist bunt. Genau wie ein Teil des Fleischschemas, das an die Werbung erinnern soll. Der schwarze gestufte Streifen soll die Stufen des Bewusstseins zeigen. Rauf und runter. Sehen oder nicht sehen."
 
-Das als kleiner Einblick, weitere Bilder seht ihr unten in der Galerie. Sofern es sich um "Nutztiere" handelt, nimmt Denise auch immer wieder gerne Aufträge an. Erreichbar ist sie stets über ihre Facebook-Seite. [<sup>4</sup>](#4)
+Das als kleiner Einblick, weitere Bilder seht ihr unten in der Galerie. Sofern es sich um "Nutztiere" handelt, nimmt Denise auch immer wieder gerne Aufträge an. Erreichbar ist sie stets über ihre Facebook-Seite[^4].
 
 <Gallery
   images={[
@@ -326,11 +326,9 @@ Das als kleiner Einblick, weitere Bilder seht ihr unten in der Galerie. Sofern 
   ]}
 />
 
-### Fußnoten
-
-- [1] [Vegane Mützen mit Statement - Vegane Häkelmützen von Denise Slapansky](/2015/04/vegane-haekelmuetzen-mit-statement/)
-- [2] [Ein Meer aus Farben für die Tiere - Bilder von Denise Slapansky](/2015/08/ein-meer-aus-farben-fuer-die-tiere/)
-- [3]  [Qualvoll erstickt im Mutterleib - Thema Trächtigkeitsschlachtung](/2014/09/kaelbchen-ersticken-qualvoll-im-mutterleib/)
-- [4] [Facebook-Seite von Denise](https://www.facebook.com/WYOB-save-lives-statement-kleidung-944915775541408/)
+[^1]: [Vegane Mützen mit Statement - Vegane Häkelmützen von Denise Slapansky](/2015/04/vegane-haekelmuetzen-mit-statement/)
+[^2]: [Ein Meer aus Farben für die Tiere - Bilder von Denise Slapansky](/2015/08/ein-meer-aus-farben-fuer-die-tiere/)
+[^3]: [Qualvoll erstickt im Mutterleib - Thema Trächtigkeitsschlachtung](/2014/09/kaelbchen-ersticken-qualvoll-im-mutterleib/)
+[^4]: ] [Facebook-Seite von Denise](https://www.facebook.com/WYOB-save-lives-statement-kleidung-944915775541408/)
 
 Alles über Wolle und warum sie nicht vegan ist, [erfahrt Ihr hier](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/).

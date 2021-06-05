@@ -132,6 +132,6 @@ Zum Befestigen könnt Ihr wie ich einfach Gesichtscreme nehmen, oder Ihr macht e
   ]}
 />
 
-- _Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
 
 [Hier könnt Ihr den Bio-Glitter online erwerben](https://www.enaissance.de/index.php?route=product/search&search=Glitzer&sub_category=true&description=true).

@@ -38,7 +38,7 @@ subTitle: Neue wissenschaftliche Studien decken auf
 
 **Der regelmäßige Konsum von Kuhmilch und Molkereiprodukten ist mit einem signifikant höheren Brustkrebsrisiko bei Frauen verbunden. Das geht aus einer kürzlich im International Journal of Epidemiology veröffentlichten Studie hervor.**
 
-Der leitende Forscher Gary E. Fraser, PhD, von der Loma-Linda-Universität äußere sich zu der Studie [<sup>1</sup>](#1) :
+Der leitende Forscher Gary E. Fraser, PhD, von der Loma-Linda-Universität äußere sich zu der Studie[^1]:
 
 "Der Konsum von nur einer viertel bis einer drittel Tasse Milch pro Tag führt zu einem um 30 Prozent erhöhten Brustkrebsrisiko. Bei den Probantinnen, die bis zu einer Tasse Milch tranken, stieg das Risiko auf 50 Prozent. Bei jenen, die zwei bis drei Tassen pro Tag konsumierten, sogar auf 70 bis 80 Prozent."
 
@@ -56,9 +56,9 @@ sagte Fraser weiter.
 
 "Dies deutet darauf hin, dass pflanzliche Alternativen auf Dauer die bessere Wahl sind."
 
-Die Studie ist Teil der Adventist Health Study-2 [<sup>2</sup>](#2), einer Langzeit-Gesundheitsstudie, die die Zusammenhänge zwischen Lebensstil, Ernährung und Krankheit innerhalb der Gemeinschaft der Seventh Day Adventist Community untersucht.
+Die Studie ist Teil der Adventist Health Study-2[^2], einer Langzeit-Gesundheitsstudie, die die Zusammenhänge zwischen Lebensstil, Ernährung und Krankheit innerhalb der Gemeinschaft der Seventh Day Adventist Community untersucht.
 
-Zum ersten Mal überhaupt stellt eine weitere neue Studie [<sup>3</sup>](#3)  jetzt auch einen direkten Zusammenhang zwischen dem Bovinen Leukämievirus (BLV) und menschlichem Brustkrebs her. Die Studie der University of California, Berkeley, ergab, dass 59 Prozent der Frauen mit Brustkrebs auch positiv auf eine Infektion mit dem BLV getestet wurden. Das sind 30 Prozent mehr, als bei Frauen ohne Krebs.
+Zum ersten Mal überhaupt stellt eine weitere neue Studie[^3])  jetzt auch einen direkten Zusammenhang zwischen dem Bovinen Leukämievirus (BLV) und menschlichem Brustkrebs her. Die Studie der University of California, Berkeley, ergab, dass 59 Prozent der Frauen mit Brustkrebs auch positiv auf eine Infektion mit dem BLV getestet wurden. Das sind 30 Prozent mehr, als bei Frauen ohne Krebs.
 
 ## Rindervirus als möglicher Auslöser für Brustkrebs
 
@@ -68,11 +68,11 @@ Die Forscher⋆innen kamen zu dem Schluss, dass das Vorhandensein von BLV "signi
 
 Gertrude Bühring, die leitende Forscherin der Studie, erklärte, dieses Chancenverhältnis sei höher, als jeder der häufig beschriebenen Risikofaktoren für Brustkrebs. Dazu zählen Adipositas, Alkoholkonsum und die Einnahme von Hormonen nach der Menopause.
 
-Laut einer Umfrage [<sup>4</sup>](#4)  des US Landwirtschaftsministeriums aus dem Jahr 2007 findet sich BLV in 100 Prozent der Kuhmilch aus Fabrikbetrieben.
+Laut einer Umfrage[^4] des US Landwirtschaftsministeriums aus dem Jahr 2007 findet sich BLV in 100 Prozent der Kuhmilch aus Fabrikbetrieben.
 
 ## Petition des Physicians Committee for Responsible Medicine
 
-In Verbindung mit dem Breast Cancer Awareness Month reichte die amerikanische Ärztegruppe Physicians Committee for Responsible Medicine (PCRM) [<sup>5</sup>](#5)  bei der Food and Drug Administration (FDA) eine Bürgerpetition [<sup>6</sup>](#6) ein, um die Etikettierung auf Käse durch eine Krebswarnung zu ergänzen.
+In Verbindung mit dem Breast Cancer Awareness Month reichte die amerikanische Ärztegruppe Physicians Committee for Responsible Medicine (PCRM)[^5] bei der Food and Drug Administration (FDA) eine Bürgerpetition[^6] ein, um die Etikettierung auf Käse durch eine Krebswarnung zu ergänzen.
 
 In ihrer Petition forderte die PCRM, die sich aus einer Gruppe von 12.000 Ärzten zusammensetzt, den FDA-Kommissar dazu auf, Milchkäse mit einem Etikett mit dem folgenden Hinweis zu versehen:
 
@@ -88,7 +88,7 @@ so PCRM-Präsident Neal Barnard, MD.
 
 ## Brustkrebs besiegen
 
-Anfang dieses Monats startete die PCRM die öffentlichkeitswirksame Kampagne "Let's Beat Breast Cancer "[<sup>7</sup>](#7). Die Initiative wird von zahlreichen Prominenten unterstützt, darunter Jon und Tracey Stewart, Alec und Hilaria Baldwin sowie James und Suzy Amis Cameron. Ziel der Aktion ist es, Frauen auf die vier entcheidenden Hauptpunkte hinzuweisen, die dabei helfen können, das Risiko, an Brustkrebs zu erkranken, zu minimieren:
+Anfang dieses Monats startete die PCRM die öffentlichkeitswirksame Kampagne "Let's Beat Breast Cancer"[^7]. Die Initiative wird von zahlreichen Prominenten unterstützt, darunter Jon und Tracey Stewart, Alec und Hilaria Baldwin sowie James und Suzy Amis Cameron. Ziel der Aktion ist es, Frauen auf die vier entcheidenden Hauptpunkte hinzuweisen, die dabei helfen können, das Risiko, an Brustkrebs zu erkranken, zu minimieren:
 
 - Pflanzliche Ernährung
 - Einschränkung des Alkoholkonsums
@@ -105,18 +105,15 @@ Insgesamt kann man klar sagen, dass der regelmäßige Genuss von Kuhmilch-Produk
 - [Stiftung Warentest: Haferdrink ist besser als Kuhmilch](/2020/08/haferdrink-stiftung-warentest/)
 - [Säuglinge](/2018/04/saeuglinge/)
 
-## Fußnoten
-
-- [1] [Studie zu Milch und Brustkrebs](https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyaa007/5743492?redirectedFrom=fulltext)
-- [2] [Adventist Health Study](https://adventisthealthstudy.org/studies/AHS-2)
-- [3] [BLV-Studie](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134304)
-- [4] [Umfrage des US Landwirtschaftsministeriums](https://www.aphis.usda.gov/animal_health/nahms/dairy/downloads/dairy07/Dairy07_is_BLV.pdf)
-- [5] [Committee for Responsible Medicine (PCRM)](https://www.pcrm.org/)
-- [6] [Bürgerpetition zur Kennzeichnung von Käse](https://p.widencdn.net/9unq1q/2019-10-03-Physicians-Committee-for-Responsible-Medicine-FDA-Petition-Breast-Cancer-and-Cheese-FINAL)
-- [7] [Kampagne "Let's Beat Breast Cancer"](https://www.pcrm.org/letsbeatbreastcancer?utm_source=web&utm_medium=van_dom&utm_campaign=LBBC)
-
 ## Quellen
 
 - ["Milk consumption linked to breast cancer" (Veg News Artike)l](https://vegnews.com/2015/9/milk-consumption-linked-to-breast-cancer)
 - ["Doctors group potion FDA to put cancer warning on cheese" (Veg News Artikel)](https://vegnews.com/2019/10/12000-doctors-petition-fda-to-put-cancer-warning-on-cheese)
 - ["Dairy milk consumption linked to 80 percent spike in breast cancer risk" (Veg News Artikel)](https://vegnews.com/2020/3/dairy-milk-consumption-linked-to-80-percent-spike-in-breast-cancer-risk)
+
+[^1]: [Studie zu Milch und Brustkrebs](https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyaa007/5743492?redirectedFrom=fulltext)
+[^2]: [Adventist Health Study](https://adventisthealthstudy.org/studies/AHS-2)
+[^3]: [BLV-Studie](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134304)
+[^4]: [Umfrage des US Landwirtschaftsministeriums](https://www.aphis.usda.gov/animal_health/nahms/dairy/downloads/dairy07/Dairy07_is_BLV.pdf) [^5] [Committee for Responsible Medicine (PCRM)](https://www.pcrm.org/)
+[^6]: [Bürgerpetition zur Kennzeichnung von Käse](https://p.widencdn.net/9unq1q/2019-10-03-Physicians-Committee-for-Responsible-Medicine-FDA-Petition-Breast-Cancer-and-Cheese-FINAL)
+[^7]: [Kampagne "Let's Beat Breast Cancer"](https://www.pcrm.org/letsbeatbreastcancer?utm_source=web&utm_medium=van_dom&utm_campaign=LBBC)

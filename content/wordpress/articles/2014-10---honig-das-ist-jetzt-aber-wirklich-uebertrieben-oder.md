@@ -87,7 +87,7 @@ Als Honig bezeichnet man eine von Honigbienen sowie einigen Ameisenarten _zur ei
 
 ### Die Nahrung der Bienen
 
-Die im Honig enthaltenen Nährstoffe sind für die Bienen lebensnotwendig, sie schützen sie vor Krankheiten und Parasitenbefall, sowie den **Milben** , die maßgeblich am Bienensterben beteiligt sind. [<sup>1</sup>](#1) In der Imkerei erhalten die Bienen als Ersatz meist Zuckerwasser, wodurch sie krankheitsanfällig werden.
+Die im Honig enthaltenen Nährstoffe sind für die Bienen lebensnotwendig, sie schützen sie vor Krankheiten und Parasitenbefall, sowie den **Milben** , die maßgeblich am Bienensterben beteiligt sind[^1]. In der Imkerei erhalten die Bienen als Ersatz meist Zuckerwasser, wodurch sie krankheitsanfällig werden.
 
 <RemoteImage
   alt={`Emsige Biene`}
@@ -104,7 +104,7 @@ Als Quelle verwenden sie dabei hauptsächlich Blütennektar, seltener Honigtau v
 
 ### Die Bestäubung
 
-Arbeiterbienen fliegen am Tag rund 40.000 Blüten an, um Nahrung zu sammeln. Ganz nebenbei kommt es dabei zur Bestäubung der Blüten und die Spermazelle der Pollen wird von der Biene auf die empfänglichen, weiblichen Blütenteile getragen. [<sup>6</sup>](#6)
+Arbeiterbienen fliegen am Tag rund 40.000 Blüten an, um Nahrung zu sammeln. Ganz nebenbei kommt es dabei zur Bestäubung der Blüten und die Spermazelle der Pollen wird von der Biene auf die empfänglichen, weiblichen Blütenteile getragen[^6].
 
 <RemoteImage
   alt={`Bienen saugen den Nektar über den Rüssel auf`}
@@ -119,7 +119,7 @@ Die Bienen saugen den Nektar über den Rüssel auf und transportieren ihn in ihr
 
 So gelangen zum Beispiel Enzyme und verschiedene Säuren aus dem Körper der Bienen in den Honig. Der Nektar wird eingedickt, indem ein Tropfen Nektar über den **Saugrüssel** immer wieder aufgesaugt und wieder herausgelassen wird. Beträgt der Wassergehalt nur noch rund 30 - 40 Prozent, wird er über die Wabenzellen ausgebreitet.
 
-Honig darf laut Honigverordnung vor allem Fructose, Glucose und Enzyme, organische Säuren und sonstige, feste Partikel, die die Bienen beim Sammeln aufnehmen, enthalten. [<sup>4</sup>](#4)
+Honig darf laut Honigverordnung vor allem Fructose, Glucose und Enzyme, organische Säuren und sonstige, feste Partikel, die die Bienen beim Sammeln aufnehmen, enthalten[^4].
 
 ### Die Geschichte der Imkerei
 
@@ -138,7 +138,7 @@ Bevor man Zucker aus Zuckerrüben gewinnen konnte, war Honig nahezu das einzige 
 
 ### Honig weltweit - Aktuelle Zahlen
 
-Der Ertrag der deutschen Honigproduktion rund 16.000 Tonnen. Weltweit werden pro Jahr rund 1.650.000 Tonnen produziert (Food Agriculture Organization of the United Nations). Die Deutschen nehmen rund 85.000 Tonnen Honig pro Jahr zu sich (Bundeswirtschaftsministerium), das ist mehr als 1 Kilo pro Einwohner. Davon wird nur ca. 1/5 durch deutschen Honig gedeckt. [<sup>4</sup>](#4)
+Der Ertrag der deutschen Honigproduktion rund 16.000 Tonnen. Weltweit werden pro Jahr rund 1.650.000 Tonnen produziert (Food Agriculture Organization of the United Nations). Die Deutschen nehmen rund 85.000 Tonnen Honig pro Jahr zu sich (Bundeswirtschaftsministerium), das ist mehr als 1 Kilo pro Einwohner. Davon wird nur ca. 1/5 durch deutschen Honig gedeckt[^4].
 
 <RemoteImage
   alt={`Honig weltweit - Schaubild: Projektarchiv Ökotrophologie Honigmarkt siehe Quellen`}
@@ -149,7 +149,7 @@ Der Ertrag der deutschen Honigproduktion rund 16.000 Tonnen. Weltweit werden pro
   loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAVCAIAAACor3u9AAAACXBIWXMAAAsTAAALEwEAmpwYAAAEYElEQVQ4jZWV61MbVRiHGf8HxxkdnerICLVMqVYDVRsoyW5CGUyn6IeUQisozFQgF9JEaSlTEErHUiqGlnRC0ZKwgTRcBKbiQNlYhBBu2cCES1qDIE1YEhIyFLLZzWqyGCgYaH+fzp5z3n3OeznnDSNDy+fz7bJKkiROEHhAu+wJ2znlxQkP7vMRGE4Q6xju9fo/dic9LwDHCcy7cRyjcQK1O6mxz0cG57fKNIsakXEjgmBe796AYEA8BNlgdva3VinvqqWd01OWxeAGgnjGFfNf9plp85TJhHmxPQDU3wmCKO5DwvMuvySW37ySnnlW8PIp5YHU6s8KmxHzBuZF5QcQgRCvutYK0n6MLqiNLquOLFdXyi5/e76UJmxnC+vfy6iN4NZotJOBs2waz+t1ExMmBDGaTJOhCiIs6PTFrJozRy5I0qTgnc6DP/dKpOViYcn7eW0sgYItguJy69/m3nponKNSRZm4LI/m5xcePbZY/rSE9IAqsi71cHxEGifhSzGnPDtbGlXX9YVMJhaWfMBrYQkUDH4DSwTRsuoSRSrKbFsy9ggRSZIXzl3PZFzLSa7OPVktSb7KuaTgKO5+LaqIzdMAfoCSKYBYItX+07I+ZD7oxOyTsf7+AS2sRZfsoah+gGt1oaj2aOnN1MJCoSizVMCpzAFqUq6qPr8oP5qrAgRKBl8J5DfGpha/Ss8pVw5Qd4UkSYdrwWZb/HtuzuVaoe7dVm0CLE/GRNLDpUqgogX4vgksq0spqsiSFBYlfgPReY1+gCDgQT508Iws58ZvW9PwXCGatSLp5yPPFdCv1HNKmj8ta02skoKd3EN5aUU0cRvAUzAEDQy+MlGkis6o5f2wCUAGTVpYiyCIYcwwqNN1dXXrBv4Y0g+OjoxotfDaOrYBWF13Xqqnl7YnlzedqP4uSXkSaIxldtBiq05wYyQdAF/BDABYIigq/XalWh8ELDvcS0uoMyCHw2G3O+woumx3OJ1Om83mDZTPRpKlqvTrwo8bk8FmWpz6k3gITFAz6feYcSBfQRc2UQwwH3rn1K2xGduLhYgIPCOW+7/WvvLGvWNMCExQgccagQSIybhPP/xVZlmM+BeAp2DnQ9EZ8tTiVsqMyiE8bYFhuPfBg0HdINzbM2YwUEvbk0ypRySQRbylOc7SsAE1mACBjPb4D6+lnKVJOpLyIVp23aEMucXqoqqFMnGtYy7n8rJj2e12u5xO18pKiHvwn0EPP0+67/WcN/fd+OhIy3G2BoxvYgN0XkP4aXlMdt3otNX/UhB7NIn/A1AvckAzba0NSezb70bcidovPxDZFP4al1so/Em/4l7d2YLck9rxcX8NDY2Mjo8bDYbRtXXPthu3GSICx4MYp9n8uKN9qllj6/8de/qUmtyZWMxt7+7u0ev0fQ/7YBgeHhrG8e3+PdNwCJ8P93h2hgDDiVBlg6LoEoqiizar1Wq3O0KHaIt8BIFjGI55cI/HP9il5e7VtP8F/APWQYqRJFGklQAAAABJRU5ErkJggg=="
 />
 
-Hauptimportländer sind hierzulande Mexico und Argentinien. 2012 wurden u. a. 15\.000 Tonnen aus Mexico und 13.000 Tonnen aus Argentinien nach Deutschland importiert. [<sup>2</sup>](#2) Fast 50 Prozent des Honigs auf der Welt stammen aus Asien, 23 Prozent aus Europa, 12 Prozent aus Afrika, 10  Prozent aus Nord- und Mittelamerika, 8 Prozent aus Südamerika und 2 Prozent aus Australien und Neuseeland. [<sup>4</sup>](#4)
+Hauptimportländer sind hierzulande Mexico und Argentinien. 2012 wurden u. a. 15\.000 Tonnen aus Mexico und 13.000 Tonnen aus Argentinien nach Deutschland importiert[^2]. Fast 50 Prozent des Honigs auf der Welt stammen aus Asien, 23 Prozent aus Europa, 12 Prozent aus Afrika, 10  Prozent aus Nord- und Mittelamerika, 8 Prozent aus Südamerika und 2 Prozent aus Australien und Neuseeland[^4].
 
 ### Honigarten und Honigproduktion heute
 
@@ -187,7 +187,7 @@ Der Imker kann über eine schubladenartige Öffnung auf der Seite des Magazins 
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHAf/EACsQAAIBBAIBAgMJAAAAAAAAAAECAwAEBRESIUETMQZRYQcIFCIycZGSof/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABkRAQEBAQEBAAAAAAAAAAAAAAECABEhMf/aAAwDAQACEQMRAD8ApFhBbS48QNaMbz1eZuDIdenx/Rx/fvdLtbpBOulVguiN+aQxcskt1DDbjTvocmDcV+rEA6H11UfmMflBlFEmWnClWVEsIZHXlvrk7IAB2N9HWjUSKr3NZPNK3cMk9wwlVWRgA2uirHetE+NeBUNeWqoweMb0QSo6+dcxmHzCSuLnJ/iGY8eTpOyoOvAiOz37/wCU+ykU1jwS4/MrHisqxsiudeAwB/kClUUHdJo7w24fd4wdrd/AVxd3MaSyXt46uHX2WNQijYIPlj7+aueS+y7EX0btaSS2Vw3vIjvIP6u5FFFOVDhnQOzOP4StvXuxc3V05hZ1BjKqDxYjemDUxzmGxEdoLWePITmbfF2uUAjbXRAEfj5boorcSM+7LX3f/9k="
 />
 
-Dabei benutzt der Imker einen Smoker (oder auch eine Pfeife), mit dessen Hilfe Rauch in den Bienenstock geblasen wird. [<sup>5</sup>](#5) Dadurch werden die Bienen nicht, wie fälschlicherweise häufig angenommen, beruhigt, sondern ihnen wird ein Waldbrand vorgetäuscht. [<sup>1</sup>](#1)
+Dabei benutzt der Imker einen Smoker (oder auch eine Pfeife), mit dessen Hilfe Rauch in den Bienenstock geblasen wird[^5]. Dadurch werden die Bienen nicht, wie fälschlicherweise häufig angenommen, beruhigt, sondern ihnen wird ein Waldbrand vorgetäuscht[^1].
 
 Sie brechen in Panik aus, der Instinkt bringt sie dazu, möglichst viel Nahrung als Wegzehrung aufzunehmen, um sich ein neues Heim zu suchen. Während sie damit beschäftigt sind, können sie sich nicht durch Stechen  verteidigen, der Imker hat somit freie Bahn.
 
@@ -227,7 +227,7 @@ Seit Jahrzehnten warnen Wissenschaftler vor dem Bienensterben. Sterben die Biene
 
 Schuld am Tod der Bienen sind sicherlich in Teilen auch die von der Honigindustrie angegebenen Gründe, der Einsatz von Pestiziden, Milben, sowie die **Klimaerwärmung** . Der Kern des Problems sitzt jedoch wesentlich tiefer.
 
-Die Bienen leiden durch den Honigraub des Menschen vom Larvenstadium an an Eiweißmangel [<sup>1</sup>](#1) und sind somit nicht mehr gegen Angreifer wie beispielsweise die Varroamilbe, die derzeit ganze Bienenvölker ausrottet. [<sup>7</sup>](#7)  Die Natur ist in ein Ungleichgewicht geraten, Schuld ist wie so oft der Mensch.
+Die Bienen leiden durch den Honigraub des Menschen vom Larvenstadium an an Eiweißmangel[^1] und sind somit nicht mehr gegen Angreifer wie beispielsweise die Varroamilbe, die derzeit ganze Bienenvölker ausrottet[^7].  Die Natur ist in ein Ungleichgewicht geraten, Schuld ist wie so oft der Mensch.
 
 ### Frieden für die Honigbienen
 
@@ -283,17 +283,15 @@ Das Wasser zusammen mit den Blumen aufkochen und im Anschluss für ca. 3-4 Stund
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAFAwf/xAAoEAACAQMDAwMFAQAAAAAAAAABAgMEBREAEiEGIjETFEEHFVFhcSP/xAAYAQACAwAAAAAAAAAAAAAAAAACBAEDBf/EACMRAAEEAQQBBQAAAAAAAAAAAAEAAgMRBBMhMXESUWGBofD/2gAMAwEAAhEDEQA/AO72OCOxwWqtnpoLj6jSQPGxb05UbOTuxlCMEY5x+xnTCvrayhutsgi9nFTVHY55AyOXZeMccYHkkn8aG9TVt1qKqlrhSLSUlA5zVtIrs6MRjK57vA8cf3SCu6yrLT7imqrS3s3hT2dflfTkBAP8DZJwPj51gRzF7RqkX2mo8nUoOO1/KJ9cXa6dOXaqNesrWtIP8UZ1KVTPtbJB5UqM54xx86GW3q2AF/t9rpqirLd8TlEzH87XXu/fOdM+pYku3Rks1VQpdLkrLsqmLqQGwG7hgMw7cAjGCDzrNXpGpholppbnLRB2iMUbMJkkhYHcBtTcMMVAJ486nIhxYy0tbVj3Hd16cdJXMjbG4Bg2P764R36dXepFNHTdR3ErYaJwWpG7p5kKsFjXHcRuxkfweNemdNdOW2Y11RRVMs1BTE+pbiRMpYZKSIxPDFSqkfkMP3q1aonbbieEqDusa4JRW5KCS6W26QxrE8cJdwgklbaU3ANgBQmASDjj40fvP1AudwuEE9FTxURgL7BTQ7gUJy2c554Hjjzq1aOONsjfJ4tFI8vJJX//2Q=="
 />
 
-## Fußnoten
-
-- \[1\] [PETA - 8 Gründe, warum Honig nicht vegan ist](http://www.peta.de/honig#.VDzaLr6USmA)
-- \[2\] [proplanta.de](http://www.proplanta.de/Agrar-News/Honigproduktion-2013)
-- \[3\] [bee-info.de](http://www.bee-info.de/imker-wissen/massnahmen-gegen-schwaermen.html)
-- \[4\] [Projektarchiv Ökotrophologie Honigmarkt](http://www-proj.loel.hs-anhalt.de/projektarchiv/oekotrophologie/honigmarkt/Interdisziplinaeres_Projekt_Honig.pdf)
-- \[5\] [bienentakt.de](http://www.bienentakt.de/smoker-und-pfeife)
-- \[6\] [Wikipedia Bestäubung](http://de.wikipedia.org/wiki/Bestäubung)
-- \[7\] [Wikipedia Varroamilbe](http://de.wikipedia.org/wiki/Varroamilbe)
-
-## Weitere Quellen
+Quellen
 
 - [Wikipedia Bienen](http://de.wikipedia.org/wiki/Bienen)
 - [Wikipedia Honig](http://de.wikipedia.org/wiki/Honig)
+
+[^1]: [PETA - 8 Gründe, warum Honig nicht vegan ist](http://www.peta.de/honig#.VDzaLr6USmA)
+[^2]: [proplanta.de](http://www.proplanta.de/Agrar-News/Honigproduktion-2013)
+[^3]: [bee-info.de](http://www.bee-info.de/imker-wissen/massnahmen-gegen-schwaermen.html)
+[^4]: [Projektarchiv Ökotrophologie Honigmarkt](http://www-proj.loel.hs-anhalt.de/projektarchiv/oekotrophologie/honigmarkt/Interdisziplinaeres_Projekt_Honig.pdf)
+[^5]: [bienentakt.de](http://www.bienentakt.de/smoker-und-pfeife)
+[^6]: [Wikipedia Bestäubung](http://de.wikipedia.org/wiki/Bestäubung)
+[^7]: [Wikipedia Varroamilbe](http://de.wikipedia.org/wiki/Varroamilbe)

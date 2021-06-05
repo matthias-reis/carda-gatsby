@@ -68,7 +68,7 @@ Doch nun zu meiner genialen Handytasche mit Zugmechanismus. Gefunden habe ich si
 - Bleistift oder Schneiderkreide
 - Euer aktuelles Mobiltelefon
 - Lust auf ein tolles Nähprojekt
-- Die Nähanleitung von Mary's Kitchen [<sup>1</sup>](#1)
+- Die Nähanleitung von Mary's Kitchen[^1]
 
 ## So entsteht Eure neue Handytasche
 
@@ -78,4 +78,4 @@ Viel Spaß beim Nähen! Wie Ihr aus einem langweiligen Jutebeutel einen praktisc
 
 <Gallery name="flickr/annehandytasche2015" />
 
-[1] [Die Nähanleitung von Mary's Kitchen findet Ihr hier](http://marys.kitchen/anleitung-handyschlafsack/)
+[^1]: [Die Nähanleitung von Mary's Kitchen findet Ihr hier](http://marys.kitchen/anleitung-handyschlafsack/)

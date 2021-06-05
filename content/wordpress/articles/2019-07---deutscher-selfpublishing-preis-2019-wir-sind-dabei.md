@@ -45,7 +45,7 @@ Der Aufruf erfolgte im Mai. Die Finalist\*innen für Juni stehen inzwischen fest
 
 ## Deutscher Selfpublishing Preis - Unser kleiner Zwischenerfolg
 
-Das ist ein kleiner Zwischenerfolg, der uns sehr glücklich macht. In der VLB-TIX sieht unsere Roman-Seite jetzt so aus [<sup>1</sup>](#1) :
+Das ist ein kleiner Zwischenerfolg, der uns sehr glücklich macht. In der VLB-TIX sieht unsere Roman-Seite jetzt so aus[^1]:
 
 <RemoteImage
   alt={`deutscher-selfpublishing-preis`}
@@ -56,7 +56,7 @@ Das ist ein kleiner Zwischenerfolg, der uns sehr glücklich macht. In der VLB-TI
   loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAMCAYAAAADFL+5AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADpElEQVQ4jZWR20/bZRjHf5oYL2ihZXEZFAoUSjmU9QiFciota8tplIMTcaN0hQEFZNPE6E5OMxNF58xmls0Lb70w3nthTEwWD/FvWIwSJ8yWHuiR9tePKVzsoInwJJ+8T/K+z/f7zfMKRcfqkOyhRnKsHklZPdIyDcXlBRooVjRSUtG0h6yymTp9FxWNFkw9gxy3nqBK24Ha2Iu0UsvRWt3evNrUx+j0PM/La5AptUgrmpAqGpEUKG9AUq5BUqahqKweYd9YjbRcg1TRQHFFIyXKZkqqtMiqWpDX6JCr9MhrDZTWGlGZbOhsHgz2MYz9Exjs49Sa7JTWtVJlsKHrcNDddwKT3YOsWs9RtZkjKsOeTkGvRKmluLKZ4oomJIomhDJtLwqdA4WuH4XeSaVxgKrWEaoto9R2TlLfM4Wmd4oG26u0uHzoBubo917G6X+PvjMX6Z+9gnniDazTFzn1WgCP703cL/swjK7imLmE03eZAf8VBv1XGJh9B8f0BbonlrAMeTE5pxDci+uMrN1ieO1z3Ms3ca98xuD5Owxd+IKRt77Ec+krJt79htPr3zJy/hbto/O0n/QzvHoDi2cB87AP66k1xq99zYrbxdUJD/63P+XkB98x/cn3nLn5A77b9/Hfvs+5Oz8TuPcrgXu/sHT3JwJ3f0Tonr2KY/59XAvXGVz+iMHldYYCH+JaWqdv4WOs3uuYpq9R3uNDkKsRSlUIMiWCrBrhxSMUKfVIVWaee0mDILxAjaKSOmMP8hYnCpObMoMTZfsoqq5JGh2nMY8s0D4WwOJZpH1sGaG/tZMCzrZOXJZuHK2d2MxWukwdWPQWjFoTx+u1THnGWV1cxjfjZ2l+ibmZs/i8frzeOeb8i5ydncc/t8LC4uv4fedoazJgbTHTpWuj22Chz2TF1d7NUKcNT4+dyR47r9idCPlYhGw0QiYSJrUdIhEKkiic29skw2FSkQipSJRMOsNhKhuLIcYT5BNJxESSXDzB7k6CTDy5R7rQ7yQQDiq4Ew0T/nuLbE4kncmQzeXI5fMEg0Hi20HEXI5sHrJiHvEQQYXCYO5Zstmn+nw+T/jRJontRySTKUTxsUXozw3SoU1IxcknovuIhVnx37r/gVAQ/z8KtRUMsvFwi9hOnGg0RjKV2l91codcPArpBPlkbB8xR2HqINrCQQOEQiEePPiN3//Y4OFfm4iFuydWuWf4JAfQPVSA3d1dUqn0U//3+I14YMNnA/wDNO5Ka+IC5msAAAAASUVORK5CYII="
 />
 
-Auf der BOD (Books on demand) Contest-Seite sind wir als drittes Buch zu sehen, schaut mal [<sup>2</sup>](#2) :
+Auf der BOD (Books on demand) Contest-Seite sind wir als drittes Buch zu sehen, schaut mal[^2]:
 
 <RemoteImage
   alt={`deutscher-selfpublishing-preis`}
@@ -85,7 +85,5 @@ Regelmäßig gepostet wird unter anderem in den Kanälen des Deutschen Selfpubli
 - **Instagram:** [www.instagram.com/selfpublishingpreis](http://www.instagram.com/selfpublishingpreis)
 - **Facebook:** [www.facebook.com/selfpublishingpreis](http://www.facebook.com/selfpublishingpreis)
 
-### Fußnoten
-
-- [1] [VLB-TIX](https://www.vlbtix.de/user/search/Title.aspx?pr=9783748126522)
-- [2] [Finalist\*innen Titelgrafik](https://www.bod.de/fingerprint/aktuelles/besondere-neuerscheinungen-im-juli-auf-vlb-tix/)
+[^1]: [VLB-TIX](https://www.vlbtix.de/user/search/Title.aspx?pr=9783748126522)
+[^2]: [Finalist\*innen Titelgrafik](https://www.bod.de/fingerprint/aktuelles/besondere-neuerscheinungen-im-juli-auf-vlb-tix/)

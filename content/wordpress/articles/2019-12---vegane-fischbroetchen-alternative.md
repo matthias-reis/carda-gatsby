@@ -45,7 +45,7 @@ _Werbung\*_
 
 **Am 18. November war ich in der veganen Kurkuma Kochschule in Hamburg Eimsbüttel zu einem ganz besonderen Event eingeladen: SoFine brachte unter dem Motto "Fischbrötchen For Future" die pflanzliche Alternative für Fischbrötchen nach Hamburg.**
 
-Im Rahmen der Veranstaltung hielten die Fischereibiologin Dr. Rini Kulke und die wissenschaftliche Koordinatorin der FishEthnoBase [<sup>1</sup>](#1) Dr. Jenny Volstorf Vorträge. In Dr. Kulkes Beitrag ging es um Fisch in der Ernährung. Dr. Jenny Volstorf beschäftigte sich mit dem Verhalten von Fischen. Besonders interessant waren ihre Ausführungen zum Sozialverhalten, der Persönlichkeit, der Intelligenz und dem Lernvermögen von Fischen.
+Im Rahmen der Veranstaltung hielten die Fischereibiologin Dr. Rini Kulke und die wissenschaftliche Koordinatorin der FishEthnoBase[^1] Dr. Jenny Volstorf Vorträge. In Dr. Kulkes Beitrag ging es um Fisch in der Ernährung. Dr. Jenny Volstorf beschäftigte sich mit dem Verhalten von Fischen. Besonders interessant waren ihre Ausführungen zum Sozialverhalten, der Persönlichkeit, der Intelligenz und dem Lernvermögen von Fischen.
 
 ## Tofu-Pioniere aus den Niederlanden
 
@@ -58,7 +58,7 @@ Im Rahmen der Veranstaltung hielten die Fischereibiologin Dr. Rini Kulke und die
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBAURAAYhBxIxE0FRFSJCgSOx4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAJBEAAgIBAgUFAAAAAAAAAAAAAQIDEQAFUQQSMUHhExQhIoH/2gAMAwEAAhEDEQA/AET0qsVJfd40dFdFL0ZWSaSNX7S4RC3bn2BONdER9KNmusVQ9iQUjSrEzCtk7gPyIAfBxxxpS9HaGWxbmivQt1Ywpaef7ZWVO9mTAGPI858Hj206qoXrcf028U8c1KabvVaN5FRhnH8iFwPIyMMAcc++l+IZ/bmSFbo9dvy7OFjjBmCO1Dbzig39ta37d6kW21WRpPpU8K1yxSYb03w4IDkdxH28An31i+oFOIVp0QAsfYeeT/mm9u6G1QbzpXrUiuN2SmjIiWX1ZRnvyMg+Bn4/eq6/RN6LOYoaTC4CqBpZdSKxhXSmPXt5w76fcvOrfWspdvVEFXG8NVMTC6lXwwUHjgZ+NWM+47Rc0pqIWZ4fSiEMccKtH6r8AdzY8Y5J0aNJemCSds0IZjH2BvfJdPU0toVjTNElS6hZZIl+PxUnOB/esle7osgZjKXfnJPJ/ZOjRqI0BazlJZCfnP/Z"
 />
 
-SoFine [<sup>2</sup>](#2) gehört zu den Pionieren im Tofugeschäft. Das Unternehmen wurde 1963 in den Niederlanden gegründet. Die Mission lautete:
+SoFine[^2] gehört zu den Pionieren im Tofugeschäft. Das Unternehmen wurde 1963 in den Niederlanden gegründet. Die Mission lautete:
 
 > "Die Welt ein bisschen besser essen - mit innovativen Lebensmitteln, die umweltfreundlich, erschwinglich und vor allem schmackhaft sind."
 
@@ -84,9 +84,9 @@ Heute sollte man sich laut Dr. Rini Kulke jedoch lieber auf Fischalternativen ve
 
 Sie berichtete weiter, dass viele der Schadstoffe fettlöslich sind. Sie werden im Darm fast vollständig resorbiert und verteilen sich später im ganzen Körper auf alle Gewebe. Ihre fettlösliche Eigenschaft erleichtert es ihnen außerdem, die Blut-Hirn-Schranke sowie die Plazentaschranke zu überwinden.
 
-Die europäische Behörde für Lebensmittelsicherheit (EFSA) [<sup>3</sup>](#3) empfiehlt daher, besonders Schwangeren, Kindern und Stillenden, ihren Fischkonsum einzuschränken. Stoffe wie Methylquecksilber reichern sich in der Hirnregion ab und schädigen dort die Nervenzellen. Dr. Kulke weiß: "Besonders in der Zeit, in der sich das Gehirn noch entwickelt, ist diese neurotoxische Wirkung gefährlich."
+Die europäische Behörde für Lebensmittelsicherheit (EFSA)[^3] empfiehlt daher, besonders Schwangeren, Kindern und Stillenden, ihren Fischkonsum einzuschränken. Stoffe wie Methylquecksilber reichern sich in der Hirnregion ab und schädigen dort die Nervenzellen. Dr. Kulke weiß: "Besonders in der Zeit, in der sich das Gehirn noch entwickelt, ist diese neurotoxische Wirkung gefährlich."
 
-Der Konsum dieser Stoffe kann unter anderem zu neurologischen Erkrankungen und Entwicklungsverzögerungen führen. Das geht aus Studien hervor. Eine weitere Gefahr ist die Belastung durch Mikroplastik. "Sie sind dazu in der Lage, die Zellen im menschlichen Körper sowohl physisch als auch chemisch zu verändern", so Dr. Kulke [<sup>4</sup>](#4).
+Der Konsum dieser Stoffe kann unter anderem zu neurologischen Erkrankungen und Entwicklungsverzögerungen führen. Das geht aus Studien hervor. Eine weitere Gefahr ist die Belastung durch Mikroplastik. "Sie sind dazu in der Lage, die Zellen im menschlichen Körper sowohl physisch als auch chemisch zu verändern", so Dr. Kulke[^4].
 
 ## Pflanzliche Alternativen liefern die richtigen Nährstoffe
 
@@ -94,7 +94,7 @@ Ihrer Meinung nach überwiegen die negativen gesundheitlichen, ökologischen und
 
 "Die Fische nehmen die wertvollen Fettsäuren durch den Konsum dieser Algen auf. Die Gewinnung von Algenöl ist schadstofffrei, da die Algen oftmals in geschlossenen Systemen gezüchtet werden. Insgesamt lässt sich sagen, dass ein Umdenken in Bezug auf unseren Fischkonsum erfolgen muss. Jede⋆r Verbraucher⋆in sollte bewusst sein, dass unbelasteter Fisch in unserer heutigen Zeit eine Seltenheit sind."
 
-Dr. Jenny Volstorf [<sup>5</sup>](#5) berichtete im Anschluss an Dr. Kulkes Vortrag aus der Verhaltensforschung. "Fische besitzen unterschiedliche Persönlichkeiten. Sie lernen, planen, kooperieren und empfinden Freude und Schmerz", erzählte sie uns.
+Dr. Jenny Volstorf[^5] berichtete im Anschluss an Dr. Kulkes Vortrag aus der Verhaltensforschung. "Fische besitzen unterschiedliche Persönlichkeiten. Sie lernen, planen, kooperieren und empfinden Freude und Schmerz", erzählte sie uns.
 
 ## Fische empfinden Schmerzen
 
@@ -118,18 +118,16 @@ Probiert haben wir zuerst die klassischen SoFish Burger (2,99 / 160 Gramm) und w
 
 Wie echter Fisch schmeckt, kann ich selbst nicht mehr sagen. Es ist einfach zu lange her, seit ich welchen gegessen habe. Ich bin aber glücklich und satt nach Hause gegangen. Übrigens habe ich inzwischen auch die Sorten "Spinat Schnitzel (2,99 / 200 Gramm), Brokkoli Burger (2,99 / 170 Gramm) und Spargel Burger (2,99 / 200 Gramm) probiert.
 
-Eigentlich bin ich kein großer Fan von Convenience-Produkten. Die von SoFine werde ich aber auf jeden Fall wieder kaufen. Wenn es mal schnell gehen muss, sind sie wirklich eine schmackhafte Lösung. Von mir bekommt Ihr also auf jeden Fall eine klare Probier-Empfehlung. Zu Kaufen gibt es die Sofine Produkte unter anderem bei Tegut und Edeka [<sup>6</sup>](#6).
+Eigentlich bin ich kein großer Fan von Convenience-Produkten. Die von SoFine werde ich aber auf jeden Fall wieder kaufen. Wenn es mal schnell gehen muss, sind sie wirklich eine schmackhafte Lösung. Von mir bekommt Ihr also auf jeden Fall eine klare Probier-Empfehlung. Zu Kaufen gibt es die Sofine Produkte unter anderem bei Tegut und Edeka[^6].
 
-Hiermit möchte ich Euch gerne noch die Kurkuma Kochschule ans Herz legen. Hier finden regelmäßig tolle vegane Kochkurse zu den verschiedensten Themen statt. Mir hat es dort sehr gut gefallen und wir wurden sehr herzlich empfangen. [<sup>7</sup>](#7).
-
-## Fußnoten
-
-- [1] [FischEthnoBase](http://fishethobase.net/)
-- [2] [Homepage SoFine](https://www.sofine.eu/de/)
-- [3] [Europäische Behörde für Lebensmittelsicherheit](https://www.efsa.europa.eu/de)
-- [4] [Dr. Rini Kulke](https://ediss.sub.uni-hamburg.de/volltexte/2018/9024/)
-- [5] [Dr. Jenny Volstorf](http://fishethobase.net/team/2/)
-- [6] [SoFish Verkaufstellen](https://www.sofine.eu/de/wo-sind-sofine-produkte-erhaltlich/)
-- [7] [Kurkuma Kochschule](https://www.kurkuma-hamburg.de/)
+Hiermit möchte ich Euch gerne noch die Kurkuma Kochschule ans Herz legen. Hier finden regelmäßig tolle vegane Kochkurse zu den verschiedensten Themen statt. Mir hat es dort sehr gut gefallen und wir wurden sehr herzlich empfangen[^7].
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner Transparenz-Seite._
+
+[^1]: [FischEthnoBase](http://fishethobase.net/)
+[^2]: [Homepage SoFine](https://www.sofine.eu/de/)
+[^3]: [Europäische Behörde für Lebensmittelsicherheit](https://www.efsa.europa.eu/de)
+[^4]: [Dr. Rini Kulke](https://ediss.sub.uni-hamburg.de/volltexte/2018/9024/)
+[^5]: [Dr. Jenny Volstorf](http://fishethobase.net/team/2/)
+[^6]: [SoFish Verkaufstellen](https://www.sofine.eu/de/wo-sind-sofine-produkte-erhaltlich/)
+[^7]: [Kurkuma Kochschule](https://www.kurkuma-hamburg.de/)
