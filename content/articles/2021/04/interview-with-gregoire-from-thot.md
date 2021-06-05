@@ -28,7 +28,7 @@ ogImage: "/img/thot-fb.png"
 focusKeyword: Thot
 advertisement: false
 affiliate: false
-languageLink: 2021/04/thot-interview
+languageLink: "/2021/04/thot-interview"
 
 ---
 **If you're into post-rock, I'm pretty sure you are listening to Thot. For the 10th anniversary of their debut album "Obscured By The Wind", the band from Belgium has planned some huge highlights for us. Time for an interview.**
