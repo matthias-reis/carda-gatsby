@@ -109,7 +109,7 @@ Was bleibt, ist die Frage nach dem Warum. Warum setzen wir uns nicht gegen Welth
 
 Um eine Fleischkalorie zu produzieren, werden zwischen sechs und 26 Futterkalorien benötigt. Autor Jonathan Safran Foer sieht das in seinem Werk "[Tiere essen](/2019/02/tiere-essen-von-jonathan-safran-foer/)" ziemlich klar:
 
-> „Es gibt aus moralischer Sicht keinen Unterschied zwischen dem Verzehr von Fleisch und der Vernichtung riesiger Lebensmittelmengen, denn die Tiere, die wir essen, können nur einen winzigen Bruchteil ihrer Nahrung in Fleischbrennwert umwandeln.“
+> "Es gibt aus moralischer Sicht keinen Unterschied zwischen dem Verzehr von Fleisch und der Vernichtung riesiger Lebensmittelmengen, denn die Tiere, die wir essen, können nur einen winzigen Bruchteil ihrer Nahrung in Fleischbrennwert umwandeln."
 
 Wie viele hungrige Menschen mit nur einem Bruchteil der Lebensmittel, die derzeit weltweit angebaut werden, satt würden, ist schlicht unfassbar.
 

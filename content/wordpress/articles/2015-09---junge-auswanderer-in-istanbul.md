@@ -41,9 +41,9 @@ subTitle: Marie von Maviblau berichtet
 
 **Sicher können sich einige von Euch noch an Marie erinnern. Vor Kurzem habe ich mich wieder mit Marie unterhalten und sie hatte Interessantes zu berichten.**
 
-Gemeinsam mit Caro drehte sie den Film „Istanbul mit anderen Augen“[^1]. Im Interview[^2] berichteten die beiden jungen Filmemacherinnen von ihrem Leben als Auswanderinnen in ihrer Traumstadt Istanbul, den Protesten rund um den Gezi Park, ihre Erfahrungen und Erlebnisse.
+Gemeinsam mit Caro drehte sie den Film "Istanbul mit anderen Augen"[^1]. Im Interview[^2] berichteten die beiden jungen Filmemacherinnen von ihrem Leben als Auswanderinnen in ihrer Traumstadt Istanbul, den Protesten rund um den Gezi Park, ihre Erfahrungen und Erlebnisse.
 
-Gezeigt wurde „Istanbul mit anderen Augen“ bisher 2013 beim Europe Day der Kadir Has Universität, als Eröffnungsfilm des International Changing Perspectives Short Film Festival und 2015 im Rahmen der Türkei Begegnungen an der Jade Hochschule in Oldenburg.
+Gezeigt wurde "Istanbul mit anderen Augen" bisher 2013 beim Europe Day der Kadir Has Universität, als Eröffnungsfilm des International Changing Perspectives Short Film Festival und 2015 im Rahmen der Türkei Begegnungen an der Jade Hochschule in Oldenburg.
 
 ## Marie hat ein neues Projekt
 
@@ -66,7 +66,7 @@ Das Team bei Maviblau besteht aus Studenten, Journalisten und Fotografen, die au
 
 Zu sehen gibt es vor allem Interviews, Videos und Fotostrecken. Es wird über die unterschiedlichsten Menschen berichtet, über Lebensperspektiven gesprochen und die Vielfalt des deutschsprachigen und türkischen Lebens gezeigt.
 
-Da ist zum Beispiel der deutsch-türkische Schauspieler Haydar Zorlu, der Goethes Faust ins Türkische übersetzt hat und damit durch die Türkei und Deutschland tourt, das Brot Cafe, dass allen, die deutsches Brot vermissen, ordentliche Portionen davon anbietet. Es gibt lustige und nachdenkliche Berichte, wie beispielsweise der über das Überleben im Straßenverkehr der Megametropole Istanbul, oder die Frage, wie es sich anfühlt, „auf türkisch“ älter zu werden.
+Da ist zum Beispiel der deutsch-türkische Schauspieler Haydar Zorlu, der Goethes Faust ins Türkische übersetzt hat und damit durch die Türkei und Deutschland tourt, das Brot Cafe, dass allen, die deutsches Brot vermissen, ordentliche Portionen davon anbietet. Es gibt lustige und nachdenkliche Berichte, wie beispielsweise der über das Überleben im Straßenverkehr der Megametropole Istanbul, oder die Frage, wie es sich anfühlt, "auf türkisch" älter zu werden.
 
 <RemoteImage
   alt={`Hadi Tschüss - Dokumentarfilm über Istanbul bei Maviblau`}

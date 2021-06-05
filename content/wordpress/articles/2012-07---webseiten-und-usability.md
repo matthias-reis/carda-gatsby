@@ -50,13 +50,13 @@ subTitle: Nach allen Regeln der Kunst
 
 **Usability steht für die Ergonomie bzw. Alltagstauglichkeit / Bedienerfreundlichkeit einer Homepage, Anwendung oder Software.**
 
-Die sogenannten „Gestaltgesetze der Wahrnehmung", die sich wie viele weitere Gestaltpsychologierichtungen aus der Arbeit des Philosophen Christian von Ehrenfels von 1890 ableiten, spielen dabei eine große Rolle. Diese Gesetze dürften vielen noch aus dem Kunstunterricht ein Begriff sein. Dieser Artikel beinhaltet diese und noch ein paar hinzugefügte unverzichtbare Regeln für den Bau einer Homepage.
+Die sogenannten "Gestaltgesetze der Wahrnehmung", die sich wie viele weitere Gestaltpsychologierichtungen aus der Arbeit des Philosophen Christian von Ehrenfels von 1890 ableiten, spielen dabei eine große Rolle. Diese Gesetze dürften vielen noch aus dem Kunstunterricht ein Begriff sein. Dieser Artikel beinhaltet diese und noch ein paar hinzugefügte unverzichtbare Regeln für den Bau einer Homepage.
 
 ## Das Wahrnehmungsgesetz der Nähe
 
 Dinge, die räumlich nahe beieinander liegen, werden von unserer Wahrnehmung gruppiert, also als zusammengehörig erkannt. Dinge, die weit entfernt von einander liegen, werden als getrennt und unabhängig voneinander wahrgenommen.
 
-Beim **Layout** ist es sehr wichtig, dieses Gesetz zu beachten, „Verstöße“ dagegen können eine verheerende Wirkung haben. Dies betrifft Texte und Grafiken gleichermaßen wie Buttons und Links.
+Beim **Layout** ist es sehr wichtig, dieses Gesetz zu beachten, "Verstöße" dagegen können eine verheerende Wirkung haben. Dies betrifft Texte und Grafiken gleichermaßen wie Buttons und Links.
 
 <RemoteImage
   alt={`Usability`}
@@ -110,7 +110,7 @@ Unter gleichen Objekten einer Gruppe erfasst das menschliche Gehirn jenes Objekt
 
 ## Das Gesetz der guten Fortsetzung
 
-Wir setzen Dinge nach räumlicher und zeitlicher Einfachheit, Gesetzmäßigkeit und Harmonie fort. Dabei stellen wir uns sogar Fortsetzungen vor, wo in Wirklichkeit gar keine sind. Kreuzen sich zwei Linien, sehen wir eine Linie immer als eine durchgehende, die nach der bisherigen Linienrichtung in eine Richtung verläuft. Wir setzen sie fort. Deshalb wird auch sehr oft vom „Gesetz der fortgesetzt durchgehenden Linie“ gesprochen. Befinden sich mehrere **Elemente** auf einer Linie, nehmen wir sie als zusammengehörig wahr.
+Wir setzen Dinge nach räumlicher und zeitlicher Einfachheit, Gesetzmäßigkeit und Harmonie fort. Dabei stellen wir uns sogar Fortsetzungen vor, wo in Wirklichkeit gar keine sind. Kreuzen sich zwei Linien, sehen wir eine Linie immer als eine durchgehende, die nach der bisherigen Linienrichtung in eine Richtung verläuft. Wir setzen sie fort. Deshalb wird auch sehr oft vom "Gesetz der fortgesetzt durchgehenden Linie" gesprochen. Befinden sich mehrere **Elemente** auf einer Linie, nehmen wir sie als zusammengehörig wahr.
 
 <RemoteImage
   alt={`Usability`}
@@ -185,7 +185,7 @@ Jede **Homepage** sollte eine vernünftige, gut funktionierende, auf einen Blick
 
 ## Feedback
 
-Der User sollte über alles, das während der Zeit, die er auf einer Seite verbringt informiert werden („Sie werden weitergeleitet.“, „Sollten Sie nicht weitergeleitet werden, …“, „Sie erhalten von uns umgehende eine **E-Mail** als Bestätigung.“).
+Der User sollte über alles, das während der Zeit, die er auf einer Seite verbringt informiert werden ("Sie werden weitergeleitet.", "Sollten Sie nicht weitergeleitet werden, …", "Sie erhalten von uns umgehende eine **E-Mail** als Bestätigung.").
 
 ## Sound
 
@@ -203,10 +203,10 @@ Bei durch den User auszufüllenden Formularen sollte man sich auf jeden Fall auf
 - Die Seite sollte auch alle wichtigen Datenschutzhinweise erhalten. Diese sollten natürlich klar erkennbar sein.
 - Alle Unterseiten sollten mit Hilfe eines deutlich sichtbaren Links auf die Startseite verlinken.
 - Natürlich sollten alle persönlichen Links einen Link zur Startseite enthalten.
-- Standartfunktionen sollten idealerweise auch mit Standartbegriffen benannt sein (Also „Suche“ und nicht „cardasearch“ als „Suche“ ;-)).
+- Standartfunktionen sollten idealerweise auch mit Standartbegriffen benannt sein (Also "Suche" und nicht "cardasearch" als "Suche" ;-)).
 - Gleiche Symbole und Links sollten auf jeden Fall auf der gesamten Seite immer die gleichen Funktionen auslösen, um den Besucher nicht zu verwirren.
 - Links, die nicht auf Webseiten, sondern auf PDF-Dokumente führen, sollten gekennzeichnet und mit Größenangaben versehen werden. Achtung! Nicht aus Bequemlichkeit immer gleich auf ein PDF verweisen. Immer abwägen, ob es sinnvoll ist, oder ob es doch userfreundlicher wäre, den Inhalt in ein paar Sätzen direkt auf der Homepage darzustellen.
-- Basislinks, wie „Kontakt“, „Impressum“, „Startseite“, etc. sollten auch auf jeder Unterseite gut sichtbar sein.
+- Basislinks, wie "Kontakt", "Impressum", "Startseite", etc. sollten auch auf jeder Unterseite gut sichtbar sein.
 
 <div>
 

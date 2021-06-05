@@ -101,9 +101,9 @@ Die Pelztiere werden unter unvorstellbaren Bedingungen auf engstem Raum in Käfi
 
 Doch wie kann ich erkennen, dass es sich bei dem Besatz an der Jacke, die ich mir so gerne kaufen würde, um echten Pelz handelt, oder um Kunstpelz?
 
-Dazu lässt sich zunächst einmal sagen: Wer etwas gegen die derzeitigen Zustände tun möchte, kauft sich am besten gar keine Kleidungsstücke mit Pelzbesatz. Zum einen kann man sich nie zu 100 Prozent sicher sein, da selbst in sogenanntem „Webpelz“ in den Kunstpelz Teile von Echtpelz mit eingearbeitet sein können. Zum anderen setzt man natürlich auch mit einem Kunstpelzkragen ein Statement für diese Mode.
+Dazu lässt sich zunächst einmal sagen: Wer etwas gegen die derzeitigen Zustände tun möchte, kauft sich am besten gar keine Kleidungsstücke mit Pelzbesatz. Zum einen kann man sich nie zu 100 Prozent sicher sein, da selbst in sogenanntem "Webpelz" in den Kunstpelz Teile von Echtpelz mit eingearbeitet sein können. Zum anderen setzt man natürlich auch mit einem Kunstpelzkragen ein Statement für diese Mode.
 
-Wer gar nicht drauf verzichten möchte, oder gerne herausfinden möchte, ob bereits gekaufte Kleidungsstücke mit Echtpelz „verziert“ wurden, der kann Folgendes machen: Die sicherste Methode, um herauszufinden, ob es sich um Echtpelz handelt, ist mit der Schere vorsichtig einige Fasern aus dem Pelz zu entfernen und mit dem Feuerzeug anzuzünden. Riecht es nach verbranntem Fell und nicht nach Kunststoff, kann man sich sicher sein.
+Wer gar nicht drauf verzichten möchte, oder gerne herausfinden möchte, ob bereits gekaufte Kleidungsstücke mit Echtpelz "verziert" wurden, der kann Folgendes machen: Die sicherste Methode, um herauszufinden, ob es sich um Echtpelz handelt, ist mit der Schere vorsichtig einige Fasern aus dem Pelz zu entfernen und mit dem Feuerzeug anzuzünden. Riecht es nach verbranntem Fell und nicht nach Kunststoff, kann man sich sicher sein.
 
 ### **Beim Einkaufen ist Vorsicht geboten**
 
@@ -116,7 +116,7 @@ Wer gar nicht drauf verzichten möchte, oder gerne herausfinden möchte, ob bere
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcE/8QAKRAAAgEDBAAGAQUAAAAAAAAAAQIDBBEhAAUSMQYUIkFRYZETMmJxof/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EABsRAQADAAMBAAAAAAAAAAAAAAEAAhEDMUES/9oADAMBAAIRAxEAPwC7ljagYFGcT+m45ECS2e/nVIfHk1Bt9TNUSPW1cCvKCifprIORVVBPZItkY0x7rShaQmKUFS3E/wAfi9vv51mNVsW511TMiTwUsChhJFyBkLDAPG1rEdAYFtDjwHZKgdM1vwj4orN02AV1Xtr0c7PZKeGXm9jkGxsbkZt8aaaHxDLG5ieV2KAhkkUAkjH4+/rWRncYttm2U0wmlozHJTPLOhQrL6SHNsAEKV+iwtqyqK1q8UxgkmF+T2aUMVX3vjv3Gc6f1hpK2qBpGgx+ReJV4OjXwVz+62TfOpVkfNSx44XkPT1gH2/v/NGjUfJmeRV3LaoqmCONnY04BZY3AcoTyOGOQO/zrq2hfJbdT0lMStMkNwpyc93Pv3o0aCsFe8n/2Q=="
 />
 
-Eine weitere Methode ist es, den Fall der Haare zu beobachten. Bewegen sie sich beim Dagegenpusten oder im Wind leicht, haben einen „Strich“, wie wenn ein Pelztier gestreichelt wird, wird es sich in den meisten Fällen um Echtpelz handeln. Nachzusehen, ob sich unter dem Pelz Leder befindet, kann ein Hinweis auf **Echtpelz** sein, allerdings gibt es auch Pelze, die beispielsweise aus Restfasern gewoben werden, unter denen sich gar keine Tierhaut mehr befindet. Vorsicht ist also geboten.
+Eine weitere Methode ist es, den Fall der Haare zu beobachten. Bewegen sie sich beim Dagegenpusten oder im Wind leicht, haben einen "Strich", wie wenn ein Pelztier gestreichelt wird, wird es sich in den meisten Fällen um Echtpelz handeln. Nachzusehen, ob sich unter dem Pelz Leder befindet, kann ein Hinweis auf **Echtpelz** sein, allerdings gibt es auch Pelze, die beispielsweise aus Restfasern gewoben werden, unter denen sich gar keine Tierhaut mehr befindet. Vorsicht ist also geboten.
 
 Wenn Pelze aus Tierhaut bestehen, was ist dann der Unterschied zu Leder? Woran liegt es, dass ein Großteil der Menschen gegen das Tragen von Pelzen ist, Leder aber für selbstverständlich hält? An dieser Stelle möchte ich gerne zwei O-Töne aus Interviews wiedergeben, die ich mit Tierrechtlern geführt habe:
 
@@ -124,9 +124,9 @@ Wenn Pelze aus Tierhaut bestehen, was ist dann der Unterschied zu Leder? Woran l
 
 #### **Thomas Laschyk, Tierrechtsinitiative Augsburg, Volksverpetzer:**
 
-_„Ich denke, dass die Menschen, wie so oft, wenn es um tierische Produkte geht, einfach nicht darüber nachdenken. Zum einen liegt es hier daran, dass Pelz inzwischen ziemlich in Verruf geraten ist, da bereits seit zig Jahren in Kampagnen dagegen vorgegangen wird. Pelz ist ja das Vorzeigethema, wenn man von Tierschutz spricht. Zum andern ist Leder in unserer Gesellschaft noch viel verwurzelter. Viele wichtige Alltagsgegenstände sind aus Leder – Gürtel, Geldbeutel, Möbel. Den Menschen fällt es schwerer, diese wegzudenken. Es gilt als viel normaler, natürlicher als Pelz, der eher als Luxusgut wahrgenommen wird. Letztlich ist es so, dass Kühe für die Menschen „Nutztiere“ sind, die „dazu da sind“, dass man irgendwelche Produkte aus ihnen herstellt. Im Gegensatz zu Pelztieren, die ja Hunde, Katzen oder Wildtiere sind, die oft mit einem romantisch verklären Blick und als in Freiheit lebend betrachtet werden. In dieses Bild passt die Ausbeutung weniger hinein. Ein klassisches Beispiel von kognitiver Dissonanz eben“_
+_"Ich denke, dass die Menschen, wie so oft, wenn es um tierische Produkte geht, einfach nicht darüber nachdenken. Zum einen liegt es hier daran, dass Pelz inzwischen ziemlich in Verruf geraten ist, da bereits seit zig Jahren in Kampagnen dagegen vorgegangen wird. Pelz ist ja das Vorzeigethema, wenn man von Tierschutz spricht. Zum andern ist Leder in unserer Gesellschaft noch viel verwurzelter. Viele wichtige Alltagsgegenstände sind aus Leder – Gürtel, Geldbeutel, Möbel. Den Menschen fällt es schwerer, diese wegzudenken. Es gilt als viel normaler, natürlicher als Pelz, der eher als Luxusgut wahrgenommen wird. Letztlich ist es so, dass Kühe für die Menschen "Nutztiere" sind, die "dazu da sind", dass man irgendwelche Produkte aus ihnen herstellt. Im Gegensatz zu Pelztieren, die ja Hunde, Katzen oder Wildtiere sind, die oft mit einem romantisch verklären Blick und als in Freiheit lebend betrachtet werden. In dieses Bild passt die Ausbeutung weniger hinein. Ein klassisches Beispiel von kognitiver Dissonanz eben"_
 
-_ **Paul, FreiVon vegane Schuhe:** „In den Medien werden weniger Bilder und Filme gezeigt, die zeigen, wie mies die Lederproduktion abläuft und was dahinter steckt. Lebendig gehäutete Pelztiere sieht man dagegen häufiger.“ ( [Das komplette Interview mit Thomas Laschyk findet Ihr hier](/2014/10/thomas-laschyk-volksverpetzer/) )_
+_ **Paul, FreiVon vegane Schuhe:** "In den Medien werden weniger Bilder und Filme gezeigt, die zeigen, wie mies die Lederproduktion abläuft und was dahinter steckt. Lebendig gehäutete Pelztiere sieht man dagegen häufiger." ( [Das komplette Interview mit Thomas Laschyk findet Ihr hier](/2014/10/thomas-laschyk-volksverpetzer/) )_
 
 </blockquote>
 
@@ -145,7 +145,7 @@ Neben der Ausbeutung der Tiere kommt es bei der Pelzherstellung zu massiven Umwe
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCAwUG/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDAAQRBRIhBhMxIkFxFGHBI0JRgZH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxEhBDESobH/2gAMAwEAAhEDEQA/AEZGyQxgkXCs3hUkBLA/xxXVdNdNrrGj3Esk9za3QLuv1EZZO0q5JJC5JYnauBjP+00tLt4d6IEfcfTje4H9+K2ZdLjvYWt45VjeQhEd8sVOfYbsVIeQT0ICvsZGoptG0hbaN7K3n7jOO4VLZ2kHBIGPgcfmomwnVJRdTQpIrYBiBUePBGfOc0z36XiisntdMRY5mQQM0Y/bzuPqJP3xn4qjUOn4LdmUfrsiKhkAwj4GN+PvQNdYk21gACnuX2MTiHfJLvHsMEfmtCJlGx4+6snjPcPHwPaiip7mKthfgi7T4tgSkFLdIpoYkDoQ6klmIPyTzWRqDiFkXDktySXPOefFFFNp33G1DPc//9k="
 />
 
-In Deutschland gibt es auch heute noch 10 Pelztierfarmen, auf denen die Tiere bis zur grausamen „Pelzernte“ auf engstem Raum in Drahtkäfigen gehalten werden, hinzu kommen Chinchilla- und Kaninchenfarmen.
+In Deutschland gibt es auch heute noch 10 Pelztierfarmen, auf denen die Tiere bis zur grausamen "Pelzernte" auf engstem Raum in Drahtkäfigen gehalten werden, hinzu kommen Chinchilla- und Kaninchenfarmen.
 
 Für einen Pelzmantel sterben bis zu 200 Chinchillas, 50 Waschbären, 60 Nerze oder 20 Füchse. In England und in Österreich ist das Betreiben von Pelzfarmen gesetzlich verboten.
 
@@ -168,7 +168,7 @@ Auch bei Produkten, die als "Fakepelz", "Fakefur" oder "Kunstpelz" ausgezeichnet
 
 Bitte gebt die Infos weiter, es ist wichtig, dass so viele Menschen wie möglich aufgeklärt werden, dass der Gedanke weitergegeben wird und die Händler auf ihrer Ware sitzen bleiben. Nur so kann es nach und nach zu einem Umdenken kommen.
 
-In meinem Interview im Rahmen der Demo „Augsburg Pelzfrei“ erzählte mir Thomas von der Tierrechtsinitiative Augsburg einiges zum Thema Pelze. [Ihr findet es unter diesem Link](/2014/10/thomas-laschyk-volksverpetzer/).
+In meinem Interview im Rahmen der Demo "Augsburg Pelzfrei" erzählte mir Thomas von der Tierrechtsinitiative Augsburg einiges zum Thema Pelze. [Ihr findet es unter diesem Link](/2014/10/thomas-laschyk-volksverpetzer/).
 
 [_ **Hier gehts zu Teil 9 des Artikels** _](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
 

@@ -7,8 +7,8 @@ typeName: Artikel
 title: Vegan Fashion Week in L.A.
 seoTitle: Vegan Fashion Week in Los Angeles - schöne vegane Modewelt
 ogTitle: Vegan Fashion Week in Los Angeles - schöne vegane Modewelt
-description: Bei der viertägigen „Vegan Fashion Week“ in Los Angeles traf Aktivismus auf Mode – das Event fand zu Ehren von Menschen, Tieren und Erde statt.
-excerpt: Bei der viertägigen „Vegan Fashion Week“ in Los Angeles traf Aktivismus auf Mode – das Event fand zu Ehren von Menschen, Tieren und Erde statt.
+description: Bei der viertägigen "Vegan Fashion Week" in Los Angeles traf Aktivismus auf Mode – das Event fand zu Ehren von Menschen, Tieren und Erde statt.
+excerpt: Bei der viertägigen "Vegan Fashion Week" in Los Angeles traf Aktivismus auf Mode – das Event fand zu Ehren von Menschen, Tieren und Erde statt.
 fileName: 2019-02---vegan-fashion-week-in-l-a.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-05__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-05__l.jpg
@@ -38,9 +38,9 @@ errors: {}
 subTitle: Vegane Modewelt
 ---
 
-**Bei der viertägigen „Vegan Fashion Week“ in Los Angeles traf Aktivismus auf Mode – das Event fand zu Ehren von Menschen, Tieren und Erde statt.**
+**Bei der viertägigen "Vegan Fashion Week" in Los Angeles traf Aktivismus auf Mode – das Event fand zu Ehren von Menschen, Tieren und Erde statt.**
 
-Die „ **Vegan Fashion Week** “ ging vom 1. bis zum 4. Februar. Ziel der in Zukunft regelmäßig geplanten Veranstaltung ist es, vegane Mode weltweit zu etablieren. Raus aus der „veganen Welt“, rauf auf die Laufstege und damit auf den breiten Markt.
+Die " **Vegan Fashion Week** " ging vom 1. bis zum 4. Februar. Ziel der in Zukunft regelmäßig geplanten Veranstaltung ist es, vegane Mode weltweit zu etablieren. Raus aus der "veganen Welt", rauf auf die Laufstege und damit auf den breiten Markt.
 
 <RemoteImage
   alt={`vegan-fashion-week`}
@@ -51,13 +51,13 @@ Die „ **Vegan Fashion Week** “ ging vom 1. bis zum 4. Februar. Ziel der in Z
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAQFAQIDB//EACcQAAIBBAEDAgcAAAAAAAAAAAEDAgAEBREhEjFRBpEiI1JhYnHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAREh/9oADAMBAAIRAxEAPwD2Gd/jsOlM8ndqtYMJjCTN6JGh3AP1Dv5qytM7g3OglWWsZNmdQAaPiOyNA9j2PtXB4E8bMxtVXTIgGK2LEwdkb4P9xSwt7tL1sXgcdA7G5xVCB137jtRIS69Sen1oi2eXs4wl1aJkQeI9R41sajz+qhSvMdlVOOOu03QVIwYVS30S8HweDxUvJYhK3zXaYDEztyAAZWw52Dveh+UvetV2abO0+XaotmsALYqjoEgaG/OhxVZzSYp8iuJPirlbTqlKJQw1sunQPFUWVfIQl9qUo0x//9k="
 />
 
-Das Debüt der Modemesse war laut den Veranstaltern ein voller Erfolg. Die „Vegan Fashion Week“ setzte ein großes Statement innerhalb der Modewelt. Eingeladen waren zahlreiche zukunftsorientierte Aussteller\*innen, die ihre innovativen, tierleidfreien Kollektionen vorstellten. Emmanuelle Rienda, Gründerin der „Vegan Fashion Week“, präsentierte die Highlights aus der veganen Fashionwelt.
+Das Debüt der Modemesse war laut den Veranstaltern ein voller Erfolg. Die "Vegan Fashion Week" setzte ein großes Statement innerhalb der Modewelt. Eingeladen waren zahlreiche zukunftsorientierte Aussteller\*innen, die ihre innovativen, tierleidfreien Kollektionen vorstellten. Emmanuelle Rienda, Gründerin der "Vegan Fashion Week", präsentierte die Highlights aus der veganen Fashionwelt.
 
 ## Mode ohne Grausamkeit gegenüber Tieren
 
-„Ich möchte zeigen, dass eine Welt ohne Grausamkeit möglich und auch bereits zugänglich ist. Gemeinsam mit den Aussteller\*innen ist es mir gelungen, eine ganz eigene, ethisch korrekte und nachhaltige Umgebung zu erschaffen“, sagt sie.
+"Ich möchte zeigen, dass eine Welt ohne Grausamkeit möglich und auch bereits zugänglich ist. Gemeinsam mit den Aussteller\*innen ist es mir gelungen, eine ganz eigene, ethisch korrekte und nachhaltige Umgebung zu erschaffen", sagt sie.
 
-„Wie können unseren Planeten schützen und wir können das mit Stil tun. Es ist möglich, seinen Lebensstil an seinen Werten auszurichten. Wir alle sollten nur noch nachhaltige Produkte, die ohne Tierquälerei auskommen, konsumieren. Es fängt damit an, dass wir uns entscheiden, keine tierischen Produkte mehr zu essen. Sie auch nicht mehr auf der Haut zu tragen, ist für mich eine logische Schlussfolgerung.“
+"Wie können unseren Planeten schützen und wir können das mit Stil tun. Es ist möglich, seinen Lebensstil an seinen Werten auszurichten. Wir alle sollten nur noch nachhaltige Produkte, die ohne Tierquälerei auskommen, konsumieren. Es fängt damit an, dass wir uns entscheiden, keine tierischen Produkte mehr zu essen. Sie auch nicht mehr auf der Haut zu tragen, ist für mich eine logische Schlussfolgerung."
 
 Im Anschluss an die erste Show, die im Natural History Museum stattfand, hatten die Gäste die Möglichkeit, das Modeviertel von L.A. zu entdecken. Im **California Market Center** gab es eine große Auswahl an tierleidfreien Designerstücken zu entdecken.
 
@@ -82,9 +82,9 @@ Neben dem Modezirkus fand ein reger Austausch zwischen den Teilnehmer _innen sow
 
 Im Rahmen dieses Programmpunktes zeigten die Sprecher\*innen außerdem faire und tierleidfreie Alternativen auf.
 
-Zur „Vegan Fashion“ Week kamen Gäste wie **Moby** , Mena Suvari, Harley Quinn Smith, Toby Morse und Maria Gabriela De Faria.
+Zur "Vegan Fashion" Week kamen Gäste wie **Moby** , Mena Suvari, Harley Quinn Smith, Toby Morse und Maria Gabriela De Faria.
 
-Emmanuelle Rienda hat Feuer gefangen. Und sie macht weiter. Sie ist überzeugt davon, dass sie es schaffen kann, den veganen Gedanken innerhalb der Modebranche fest zu integrieren. „Nach einer erfolgreichen ersten Runde bin ich derzeit bereits mit der Planung der zweiten 'Vegan Fashion Week' beschäftigt." Diese soll in einer anderen **Modemetropole** stattfinden. Welche es ist, verrät Emmanuelle noch nicht. "Ich bin auf einer Mission. Ich möchte die Modebranche in ihren Festen zu erschüttern und sie herauszufordern, bis es keine Tierqual mehr in unserer Branche gibt“, sagt sie.
+Emmanuelle Rienda hat Feuer gefangen. Und sie macht weiter. Sie ist überzeugt davon, dass sie es schaffen kann, den veganen Gedanken innerhalb der Modebranche fest zu integrieren. "Nach einer erfolgreichen ersten Runde bin ich derzeit bereits mit der Planung der zweiten 'Vegan Fashion Week' beschäftigt." Diese soll in einer anderen **Modemetropole** stattfinden. Welche es ist, verrät Emmanuelle noch nicht. "Ich bin auf einer Mission. Ich möchte die Modebranche in ihren Festen zu erschüttern und sie herauszufordern, bis es keine Tierqual mehr in unserer Branche gibt", sagt sie.
 
 ## Ausstellerliste
 
@@ -158,7 +158,7 @@ Rock</small></li> <li><small>Mink Shoes</small></li>
 - <small>Rockdoodles</small>
 - <small>Rythm Superfoods</small>
 
-_press release &amp; copyright for pictures: „ [Vegan Fashion Week](https://www.veganfashionweek.org/) “_
+_press release &amp; copyright for pictures: " [Vegan Fashion Week](https://www.veganfashionweek.org/) "_
 
 <Gallery
   images={[

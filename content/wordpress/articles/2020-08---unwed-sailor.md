@@ -43,7 +43,7 @@ Sam von [Of The Vine](/2020/05/of-the-vine/) erzählte mir vor Kurzem von seiner
 
 **Anne:** Du hast Unwed Sailor 1998 gegründet. 2020 habt Ihr mit "Look Alive nach "Heavy Age" von 2019 Euer sechstes Album veröffentlicht. Was würdest Du sagen hat sich seit den Anfangstagen für Euch als Band geändert?
 
-**Jonathon:** Über die Jahre hat sich für Unwed Sailor schon einiges geändert. Trotzdem sind Unwed Sailor irgendwie immer noch Unwed Sailor. Ich habe auf den unterschiedlichen Alben verschiedene musikalische Pfade verfolgt. Platten wie "The Marionette And The Music Box" und das neue „Look Alive" sind zwar sehr unterschiedlich. Dennoch kann man in der Musik nach wie vor Unwed Sailor erkennen.
+**Jonathon:** Über die Jahre hat sich für Unwed Sailor schon einiges geändert. Trotzdem sind Unwed Sailor irgendwie immer noch Unwed Sailor. Ich habe auf den unterschiedlichen Alben verschiedene musikalische Pfade verfolgt. Platten wie "The Marionette And The Music Box" und das neue "Look Alive" sind zwar sehr unterschiedlich. Dennoch kann man in der Musik nach wie vor Unwed Sailor erkennen.
 
 ## "Ein roter Faden zieht sich durch unsere Bandgeschichte"
 

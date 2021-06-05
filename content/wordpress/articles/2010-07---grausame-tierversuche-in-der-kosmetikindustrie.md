@@ -54,11 +54,11 @@ sowie unter:
 
 Unter den angegebenen Links sind auch einige weitere wichtige Informationen für Tierschützer zu finden.
 
-Viele Firmen befinden sich auch in einer Art „Grauzone“. Häufig treffen z. B. Aussagen zu einzelnen Produkten nicht auf die komplette Produktpalette eines Konzerns zu.
+Viele Firmen befinden sich auch in einer Art "Grauzone". Häufig treffen z. B. Aussagen zu einzelnen Produkten nicht auf die komplette Produktpalette eines Konzerns zu.
 
 Leider halten viele Kosmetikfirmen Tierversuche bis heute für unverzichtbar. Viele verzichten bei den fertigen Produkten auf Tierversuche. Sie setzen sich auch seit Jahrzehnten für alternative Testmethoden ein, oder sind selbst an der Entwicklung beteiligt. Die Rohstoffe, aus denen die Produkte hergestellt werden, lassen sie aber nach wie vor an Tieren testen.
 
-Nur wenige geben zu, Tierversuche zu machen. Die meisten verschleiern das Ganze und machen gar keine Aussage. Man sollte auch Aussagen wie „Dieses Produkt wurde nicht an Tieren getestet“ misstrauen, denn dies verschleiert, daß die Inhaltsstoffe sehr wohl an Tieren getestet sein können. „Dieses Unternehmen testet nicht an Tieren“ kann bedeuten, daß die Firma die Versuche durch ein anderes Unternehmen durchführen lässt.
+Nur wenige geben zu, Tierversuche zu machen. Die meisten verschleiern das Ganze und machen gar keine Aussage. Man sollte auch Aussagen wie "Dieses Produkt wurde nicht an Tieren getestet" misstrauen, denn dies verschleiert, daß die Inhaltsstoffe sehr wohl an Tieren getestet sein können. "Dieses Unternehmen testet nicht an Tieren" kann bedeuten, daß die Firma die Versuche durch ein anderes Unternehmen durchführen lässt.
 
 Vorsicht ist auf jeden Fall geboten!
 

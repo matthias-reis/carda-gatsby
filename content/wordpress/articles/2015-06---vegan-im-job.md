@@ -34,7 +34,7 @@ subTitle: Das neue Buch von Patrick Bolk
 
 _Affiliate Link\*_
 
-**Schlägt man das neue Buch von Patrick Bolk "Vegan im Job“ auf, fallen einem gleich als Erstes die frischen, originellen Bilder auf, mit denen es illustriert ist. Schon bei seinem letzten Werk "[So geht vegan](/2014/11/so-geht-vegan-von-patrick-bolk/) “ konnte er mich damit für sich gewinnen** .
+**Schlägt man das neue Buch von Patrick Bolk "Vegan im Job" auf, fallen einem gleich als Erstes die frischen, originellen Bilder auf, mit denen es illustriert ist. Schon bei seinem letzten Werk "[So geht vegan](/2014/11/so-geht-vegan-von-patrick-bolk/) " konnte er mich damit für sich gewinnen** .
 
 <RemoteImage
   alt={`vegan-im-job`}
@@ -45,7 +45,7 @@ _Affiliate Link\*_
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgADBP/EACkQAAIBAwMDBAEFAAAAAAAAAAECAwQFEQASIQYTMTJBUYEHIkJhYuH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBBf/EAB0RAAICAgMBAAAAAAAAAAAAAAECABEDEgQhQXH/2gAMAwEAAhEDEQA/AFvS9roUoYexBFCIxjEUSKT94+9Y/kS7TWRbXTU0MEkFf3YpJaoLsQ7AEBJGAMtk59lOqwVymiAjOSR8512dW9qu6drEqYYpkjgaUI/jcgLDxyPHsR5Oudg0DgsLl3KRyjaGj5Clsu9JVdLV9dcLWkgiqmp4ljCqvbC5X9XC8LxwOdo+dAOpko2qDLZpjsZFZlRyNhP7TnkEfGndouC03QUaVNLElGsENS8ruTu3gsx2ryeTwP40I61q6eaZYqKSmm7aKmaZvSp8Zyff2/3S9g2UlRQlAVkwKHazQubWC7VLRK24BgSAV4A4HtpFXXire1VYaViOxIMZ/odWrRlRYMBSdTBNru8z9PxUshcxSRwKpVsMhRcBgcHRGaiNLcX7UzAICGIHMi59J+uPGrVpxUBjU1+0X5P/2Q=="
 />
 
-[](https://amzn.to/2RcsTJC)" Vegan im Job“ macht Lust, neue Wege zu gehen. Etwas Neues auszuprobieren. Wir kennen das doch alle: Die Kollegen machen sich Ihre Currywurst warm und holen sich gegenüber einen Döner. Und was machen wir: Kauen auf einer Banane rum, oder stochern im Reis vom Vortag. Doch das hat jetzt ein Ende!
+[](https://amzn.to/2RcsTJC)" Vegan im Job" macht Lust, neue Wege zu gehen. Etwas Neues auszuprobieren. Wir kennen das doch alle: Die Kollegen machen sich Ihre Currywurst warm und holen sich gegenüber einen Döner. Und was machen wir: Kauen auf einer Banane rum, oder stochern im Reis vom Vortag. Doch das hat jetzt ein Ende!
 
 Patrick Bolk zeigt, wie man mit wenigen Handgriffen tolle Mittagspausengerichte zaubern kann und damit gleich noch ein paar Kollegen für den Veganismus begeistert.
 
@@ -62,7 +62,7 @@ Seid Ihr schon mal auf die Idee gekommen, Tomatenmuffins zu backen? Oder habt Ih
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYD/8QAKxAAAgIBAwIFAgcAAAAAAAAAAQIDBBEABSEGMRITQVFhIpEHFBUjcXKh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAAL/xAAgEQABBAEFAQEAAAAAAAAAAAABAAIDETEEEhMhUSJB/9oADAMBAAIRAxEAPwBB3kjaV7ccVOORiGPhkfxE/AbA+2t/sHTDb1CZvHHJDKxSQ8BUwAQpAxzgg5Pvq3ofh/te4W9rsLM1fyZMSRhMrN3JIyeMdvn11udo6Tl6ar3S1uC3QsOj1xjEikAgqw7dscg841G10p4/g0VYiHFG8nvHXubwssOjdr2kx2i9RZ4mDxu8akgj2Hr/ALqPD0EaPX+33qEQjo2RJMYwOEDxtlfb6XHHw2rm5XrfqSrFWQM7AFyORz6aZtMxu9NTw+SuD/U4x9tK6IyNsOfutdPYyQF0QFCsXnv2vPP1Jfa6tmPqCjuMF6RFWQOYCPErDsRyexz7aajyzTuY5Py5qqPqiEI/c47Mc8j+Me+jRpyVjXEWjaInfS5261alNXevAqiaLzBk+Jk+Ax1OrkJa2t8E+Y3AJ7ZU/fRo0CECytO40Av/2Q=="
 />
 
-[](https://amzn.to/2RcsTJC) Neben den Mengenangaben und den Zubereitungsschritten enthält jedes Rezept zusätzlich kleine Icons mit Minutenangaben und der Anzahl der Portionen. Alle Rezepte sind natürlich "To-go“. Hier hat Patrick Bolk gleich noch ein paar tolle Tipps für geeignete Transportgefäße parat. Es macht tatsächlich auch noch ganz schön was her, wenn ich meinen hübsch geschichteten Chiasamenpudding im Einmachglas mit Schleife auspacke. Dagegen sieht der Kollege mit seiner Fertig-Currywurst mit Folie zum Einstechen schon ziemlich alt aus.
+[](https://amzn.to/2RcsTJC) Neben den Mengenangaben und den Zubereitungsschritten enthält jedes Rezept zusätzlich kleine Icons mit Minutenangaben und der Anzahl der Portionen. Alle Rezepte sind natürlich "To-go". Hier hat Patrick Bolk gleich noch ein paar tolle Tipps für geeignete Transportgefäße parat. Es macht tatsächlich auch noch ganz schön was her, wenn ich meinen hübsch geschichteten Chiasamenpudding im Einmachglas mit Schleife auspacke. Dagegen sieht der Kollege mit seiner Fertig-Currywurst mit Folie zum Einstechen schon ziemlich alt aus.
 
 In einem umfassenden Vorwort zeigt der Autor auf, wie man gesund durch den Alltag kommt, statt sich aus Zeitmangel von Fastfood und Fertigshakes zu ernähren. Dabei kommen auch Punkte wie die Lagerung frischer Lebensmittel und das Einfrieren von Gerichten nicht zu kurz. Er zeigt zeitsparende Küchenhelfer und zeigt, wie man am besten vorkocht.
 
@@ -79,11 +79,11 @@ In einem umfassenden Vorwort zeigt der Autor auf, wie man gesund durch den Allta
 
 > "Den Kollegen veganen Kuchen mit ins Büro zu bringen, ist die bessere Strategie!"
 
-Im Buch sind nicht nur Gerichte für die Mittagspause enthalten, sondern auch tolle Snacks, Süßigkeiten zum Selbermachen und Frühstücksideen. Im Anhang gibt es noch einen schicken Wochenplaner "Einmal einkaufen und fünf Tage kochen für zwei Personen“ mit Einkaufsliste, sowie Tipps für Vorräte und einen Saisonkalender.
+Im Buch sind nicht nur Gerichte für die Mittagspause enthalten, sondern auch tolle Snacks, Süßigkeiten zum Selbermachen und Frühstücksideen. Im Anhang gibt es noch einen schicken Wochenplaner "Einmal einkaufen und fünf Tage kochen für zwei Personen" mit Einkaufsliste, sowie Tipps für Vorräte und einen Saisonkalender.
 
 ## Vegan schlemmen im Büro
 
-Alles in allem ist "[Vegan im Job](https://amzn.to/2RcsTJC) “ eine runde Sache. Von mir gibt es eine klare Kaufempfehlung. Ein farbenfrohes
+Alles in allem ist "[Vegan im Job](https://amzn.to/2RcsTJC) " eine runde Sache. Von mir gibt es eine klare Kaufempfehlung. Ein farbenfrohes
 
 Buch mit modernen Gerichten, die sich ganz leicht und in kurzer Zeit zubereiten lassen. Auch Leute, die bereits Selbstgemachtes mit ins Büro nehmen, dürften darin noch den ein oder andern tollen Tipp finden.
 
@@ -96,9 +96,9 @@ Buch mit modernen Gerichten, die sich ganz leicht und in kurzer Zeit zubereiten 
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgEBgcF/8QALRAAAQMDAgMFCQAAAAAAAAAAAQIDBAAFESExBgdBEhMiYZEUIzIzUXKBocH/xAAXAQADAQAAAAAAAAAAAAAAAAADBQYE/8QAJhEBAAIBAgILAAAAAAAAAAAAAQIRAAMhBBIFEyIxQVFhgZHh8P/aAAwDAQACEQMRAD8A1GwxQptJO1TbhdYtudkMrjvuussd+Utgapzj6+p2rmcLe2FLJdeT2BuO0Dn9VbJDgRDeWVKSlLalEpGSAAToOp8qnIR22yjJhLtFnxmVc+Q4ngRq6QmUlxp5pwIfToUL8KgofkaeVLZdbxOuTcaLe5aHGIzmQCyEFOU41IA3AHpTTc01N3vlFdXmC6Uqid4C82W1+BQJJBGmx6UsVp4kVar05OucQXASG+6UCMFIwNgRjYY16UfhRGQFt369x94p44ka3KtHj+9sZ/haW7hGToelTLnxsbckYglwkE/Ox1+2iisrJjFTGWq0XlC4w5lPT7BPhrtbCWZLDjJ96SQCk6jT+VifEECDb4Cwhp9chhxhC3FPkh0LQlRynGnxaY286KKP0fJm2+eK5vWXzb1n/9k="
 />
 
-[](https://amzn.to/2RcsTJC) Meine Lieblingsrezepte sind neben dem Saltimbocca und dem scharfen Reisnudelsalat ganz klar das Tomate- Tofurella-Baguette und die Nussecken. Insgesamt sind in "Vegan im Job“ über 60 Rezepte enthalten, es gibt Ideen für "To-go“-Snacks und zahlreiche tolle, umsetzbare Alltagstipps für Einsteiger und Fortgeschrittene. Ich werde mich nun erst mal in die Küche begeben und mir ein leckeres Sandwich mit Veggie-Eiersalat machen. Der klingt nämlich auch ziemlich lecker.
+[](https://amzn.to/2RcsTJC) Meine Lieblingsrezepte sind neben dem Saltimbocca und dem scharfen Reisnudelsalat ganz klar das Tomate- Tofurella-Baguette und die Nussecken. Insgesamt sind in "Vegan im Job" über 60 Rezepte enthalten, es gibt Ideen für "To-go"-Snacks und zahlreiche tolle, umsetzbare Alltagstipps für Einsteiger und Fortgeschrittene. Ich werde mich nun erst mal in die Küche begeben und mir ein leckeres Sandwich mit Veggie-Eiersalat machen. Der klingt nämlich auch ziemlich lecker.
 
-"[Vegan im Job](https://amzn.to/2RcsTJC) “ ist beim Südwest Verlag erschienen und kostet 14,99 €. Mehr über Patrick Bolk kann man [auf seiner Homepage](http://patrickbolk.de/) erfahren.
+"[Vegan im Job](https://amzn.to/2RcsTJC) " ist beim Südwest Verlag erschienen und kostet 14,99 €. Mehr über Patrick Bolk kann man [auf seiner Homepage](http://patrickbolk.de/) erfahren.
 
 <iframe
   style="width: 120px; height: 240px;"

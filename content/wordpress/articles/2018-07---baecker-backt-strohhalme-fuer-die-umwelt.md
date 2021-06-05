@@ -60,6 +60,6 @@ All diese Impulse sind auf jeden Fall Schritte in die richtige Richtung. So klei
 
 ## Hoffnung auf eine plastikfreie Zukunft
 
-Natürlich ist es nicht viel, wenn eine Systemgastronomiekette „nur“ die Strohhalme weglässt und weiter fleißig To-go-Becher ausgegeben werden. Oder wenn eine Bäckereimitarbeiterin auf die Idee kommt, die Kunden zukünftig durch Nudeln trinken zu lassen. Aber vielleicht, darauf sollte man hoffen, rüttelt es noch mehr Menschen wach und man bekommt seinen Iced Latte in Zukunft auch aus einem Glas genießen oder bekommt die Brötchen beim Discounter schon morgen in einer Tüte ohne Sichtfenster.
+Natürlich ist es nicht viel, wenn eine Systemgastronomiekette "nur" die Strohhalme weglässt und weiter fleißig To-go-Becher ausgegeben werden. Oder wenn eine Bäckereimitarbeiterin auf die Idee kommt, die Kunden zukünftig durch Nudeln trinken zu lassen. Aber vielleicht, darauf sollte man hoffen, rüttelt es noch mehr Menschen wach und man bekommt seinen Iced Latte in Zukunft auch aus einem Glas genießen oder bekommt die Brötchen beim Discounter schon morgen in einer Tüte ohne Sichtfenster.
 
 **Foto:** [Colour](https://pixabay.com/en/users/Couleur-1195798/), pixabay

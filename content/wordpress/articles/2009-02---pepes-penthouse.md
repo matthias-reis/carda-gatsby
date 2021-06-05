@@ -125,7 +125,7 @@ Unser Treffen fand im Übungsraum der Band in der der alten Reese-Kaserne in Aug
 
 **Quincy:** Ich schreibe die Texte. Es kommt immer wieder mal vor, dass mich eine Erzählung der Jungs oder ein Gespräch mit den anderen auf eine Idee für einen Song bringt. Ich schreibe nicht nur über meine Erlebnisse und Gedanken, sondern über die der Band.
 
-**Anne: Wovon handelt der Song „Wie lange“, der momentan auf Eurer myspace-Seite zu hören ist?**
+**Anne: Wovon handelt der Song "Wie lange", der momentan auf Eurer myspace-Seite zu hören ist?**
 
 <RemoteImage
   alt={`Pepes Penthouse im Proberaum in Augsburg`}

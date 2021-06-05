@@ -157,7 +157,7 @@ Allerdings gelingt das nie in allen medizinischen Sparten. Jeder Arzt bildet sic
 
 **Anne:** Würden sie sagen, dass eine rein pflanzliche Ernährung die gesündeste für den Menschen ist?
 
-**Dr. Gorißen:** Sie ist meiner Meinung nach nicht nur gesund und empfehlenswert für den Menschen, sondern vor allem auch für die Menschheit als Ganzes. Mehr noch: Möglicherweise wird sie in Zukunft sogar dringend erforderlich sein, um das Überleben der Menschheit zu sichern. So fahrlässig, wie wir momentan mit dem Planeten umgehen, gibt es keine Zukunft für uns. Wie schon Mahatma Ghandi sagte: „Die Welt hat genug für jedermanns Bedürfnisse, aber nicht für jedermanns Gier“.
+**Dr. Gorißen:** Sie ist meiner Meinung nach nicht nur gesund und empfehlenswert für den Menschen, sondern vor allem auch für die Menschheit als Ganzes. Mehr noch: Möglicherweise wird sie in Zukunft sogar dringend erforderlich sein, um das Überleben der Menschheit zu sichern. So fahrlässig, wie wir momentan mit dem Planeten umgehen, gibt es keine Zukunft für uns. Wie schon Mahatma Ghandi sagte: "Die Welt hat genug für jedermanns Bedürfnisse, aber nicht für jedermanns Gier".
 
 **Anne:** Gibt es viele Menschen, die ihre Ernährung umgestellt haben, nachdem sie von Ihnen beraten wurden?
 

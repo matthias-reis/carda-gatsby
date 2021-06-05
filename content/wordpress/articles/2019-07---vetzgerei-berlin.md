@@ -51,7 +51,7 @@ Die Grillsaison ist in vollem Gange. Habt Ihr Lust auf veganes Steak? Bereits se
 
 Paul und Sarah Pollinger, Gründer der Vetzgerei möchten in ihrer veganen Metzgerei Vurst und Vleisch verkaufen, das sich von anderen Produkten, die wir aus dem Supermarkt und aus dem Bioladen kennen, abhebt. Ihr kennt die beiden vermutlich schon von [FreiVon-Schuhe](/2014/11/frei-von-schuhe/), denn auch ihre veganen Schuhe kommen gut an.
 
-2016 sorgten Sarah und Paul mit dem Slogan „Die Vetzgerei – Für glückliche Würstchen“ für ordentlich Furore. Im Angebot haben sie vor allem handfeste Produkte wie Aufschnitte und verschiedenste Vurstspezialitäten. Zwischen 12 und 17 Uhr gibt es, so lange der Vorrat reicht, warme Gerichte direkt aus der Theke. Dazu gibt es immer eine leckere Scheibe Brot.
+2016 sorgten Sarah und Paul mit dem Slogan "Die Vetzgerei – Für glückliche Würstchen" für ordentlich Furore. Im Angebot haben sie vor allem handfeste Produkte wie Aufschnitte und verschiedenste Vurstspezialitäten. Zwischen 12 und 17 Uhr gibt es, so lange der Vorrat reicht, warme Gerichte direkt aus der Theke. Dazu gibt es immer eine leckere Scheibe Brot.
 
 ## Mittagsimbiss und Catering
 

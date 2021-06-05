@@ -138,7 +138,7 @@ Natürlich musste ich die gute Nachricht heute gleich mal über alle Kanäle tei
 
 ### Hier nochmal die komplette, offizielle Meldung, die Trend Reznor heute veröffentlichte:
 
-> “I’ve been less than honest about what I’ve really been up to lately. For the last year I’ve been secretly working non-stop with Atticus Ross and Alan Moulder on a new, full-length Nine Inch Nails record, which I am happy to say is finished and frankly fucking great. This is the real impetus and motivation behind the decision to assemble a new band and  [tour](http://tour.nin.com/)  again. My forays into  [film](http://nullco.net/),   [HTDA](http://howtodestroyangels.com/)  and other projects really stimulated me creatively and I decided to focus that energy on taking Nine Inch Nails to a new place. Here we go!”
+> "I’ve been less than honest about what I’ve really been up to lately. For the last year I’ve been secretly working non-stop with Atticus Ross and Alan Moulder on a new, full-length Nine Inch Nails record, which I am happy to say is finished and frankly fucking great. This is the real impetus and motivation behind the decision to assemble a new band and  [tour](http://tour.nin.com/)  again. My forays into  [film](http://nullco.net/),   [HTDA](http://howtodestroyangels.com/)  and other projects really stimulated me creatively and I decided to focus that energy on taking Nine Inch Nails to a new place. Here we go!”
 
 <RemoteImage
   alt={`Jetzt schlägt es 2013 auf NIN.com`}

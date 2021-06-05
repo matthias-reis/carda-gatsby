@@ -61,7 +61,7 @@ Lübeck liegt im Südosten von Schleswig-Holstein, direkt in der Lübecker Bucht
 
 Zu den Wahrzeichen von Lübeck zählen neben dem weltberühmten Holstentor und der Marienkirche, der Dom, die Petrikirche sowie ein vollständig erhaltenes Viertel aus dem 13. Jahrhundert. Es trägt den Namen Koberg und schließt die Jakobikirche, das Heiligen-Geist-Spital sowie die Baublöcke der Glockengießer mit ein.
 
-Das Tor zum Norden wurde rund 700 n. Chr. unter dem Namen Liubice (das bedeutet so viel wie „die Liebliche“) von den Slawen gegründet. Im Jahr 1143 wurde ihr von Graf Adolf Schauenburg der Name Lübeck gegeben. Er erkannte ihre fast vollständig von Wasser umgebene, günstige Lage zwischen Trave, Wakenitz und Ostsee. Mit dem damals erlangten Stadtrecht wurde der Grundstein für die spätere „Königin der Hanse“ gelegt. Eine Zeitlang war Lübeck als die bedeutendste Handelsstadt im Ostseeraum bekannt.
+Das Tor zum Norden wurde rund 700 n. Chr. unter dem Namen Liubice (das bedeutet so viel wie "die Liebliche") von den Slawen gegründet. Im Jahr 1143 wurde ihr von Graf Adolf Schauenburg der Name Lübeck gegeben. Er erkannte ihre fast vollständig von Wasser umgebene, günstige Lage zwischen Trave, Wakenitz und Ostsee. Mit dem damals erlangten Stadtrecht wurde der Grundstein für die spätere "Königin der Hanse" gelegt. Eine Zeitlang war Lübeck als die bedeutendste Handelsstadt im Ostseeraum bekannt.
 
 ## Zerstörung und Wiederaufbau
 

@@ -60,9 +60,9 @@ subTitle: Esst Blumen und keine Hühnerbabies
 
 **Vegetarierin war ich schon sehr früh. Ich war elf, als ich mich entschied, das Tiereessen an den Nagel zu hängen.**
 
-Eine Zeitlang (zwischen 24 und 27) habe ich dann tatsächlich wieder Fleisch zu mir genommen. Ich frage mich heute noch warum. Diese Eskapade der Finsternis gipfelte in einem angeblich „deliziösen“ Rindersteak, zubereitet von einem damaligen Bekannten auf dem heimischen Grill. Ich biss hinein, schmeckte Blut, Muskeln, Fleisch, etwas, das vor kurzem noch gelebt hatte. Auf der anderen Seite des Erdballs. Ein gequältes Wesen, das seine Mutter nie kennenlernen durfte und kurz, nachdem es das Licht der Welt erblickt hatte auch schon zur Schlachtbank geführt wurde. Ich spuckte aus und habe seit diesem Tag kein Fleisch mehr angerührt.
+Eine Zeitlang (zwischen 24 und 27) habe ich dann tatsächlich wieder Fleisch zu mir genommen. Ich frage mich heute noch warum. Diese Eskapade der Finsternis gipfelte in einem angeblich "deliziösen" Rindersteak, zubereitet von einem damaligen Bekannten auf dem heimischen Grill. Ich biss hinein, schmeckte Blut, Muskeln, Fleisch, etwas, das vor kurzem noch gelebt hatte. Auf der anderen Seite des Erdballs. Ein gequältes Wesen, das seine Mutter nie kennenlernen durfte und kurz, nachdem es das Licht der Welt erblickt hatte auch schon zur Schlachtbank geführt wurde. Ich spuckte aus und habe seit diesem Tag kein Fleisch mehr angerührt.
 
-Auf Milchprodukte verzichtete ich vorerst nicht, ich beschäftigte mich aber mehr und mehr mit den Alternativen und auch damit unter welchen Umständen Käse, Milch und Joghurt „produziert“ werden und das auch in Biohöfen.
+Auf Milchprodukte verzichtete ich vorerst nicht, ich beschäftigte mich aber mehr und mehr mit den Alternativen und auch damit unter welchen Umständen Käse, Milch und Joghurt "produziert" werden und das auch in Biohöfen.
 
 ## My Vegan Diary - Ich trinke jetzt Pflanzenmilch
 
@@ -79,7 +79,7 @@ Nach und nach näherte ich mich der veganen Lebensweise an, trank Hafermilch, te
 
 Ich begann zu Hause vegan zu kochen und nur außer Haus vegetarische Gerichte zu mir zu nehmen. Mein Mann Matze, schon immer Fleischesser, machte mit.
 
-Als Matze dann vor ein paar Wochen entschied: „Ich probiere das jetzt aus. Ich möchte mich cholesterinfrei ernähren!“ war es entschieden: Wir werden ab jetzt vegan leben. Unser Stichtag war Samstag, der 14. Juni 2014. Matze hatte sich eine Regel überlegt, nach der er ein Mal in der Woche Fleisch essen darf, falls es keine andere Möglichkeit gibt.
+Als Matze dann vor ein paar Wochen entschied: "Ich probiere das jetzt aus. Ich möchte mich cholesterinfrei ernähren!" war es entschieden: Wir werden ab jetzt vegan leben. Unser Stichtag war Samstag, der 14. Juni 2014. Matze hatte sich eine Regel überlegt, nach der er ein Mal in der Woche Fleisch essen darf, falls es keine andere Möglichkeit gibt.
 
 <RemoteImage
   alt={`My Vegan Diary`}
@@ -118,7 +118,7 @@ Ob ich Käse vermisse? Heißhunger habe auf Kuhmilchjoghurt? Fehlanzeige. Und ic
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAX/xAArEAACAQMCBAYBBQAAAAAAAAABAgMABBEGEgUTIVEHCBQxMsFBIlJhkuH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFAgEE/8QAIREAAQQBBAMBAAAAAAAAAAAAAQACAwQRITGh4RITQbH/2gAMAwEAAhEDEQA/AIBp7T19x+7lt+GRxySRx8xw7hRtyB7n+TTIPDLUbBQtlbEexPrEH3Tz5WsDUuoJGVmYcPjVTjvMM9OnatJLyWwGjiD/AJ3Rf7RFi26N/iCOUlkgnA47WGtR6S4zpqyS54tbxwwzSctGSZHy2M4wD2FFXTzYTJHpzTcSBRvvZ3G0EDAjUfdFddaQyRh7uFGSfqW/LLzRd6mntgNyQ2qYx1wXc9P61eoZLhg6xIxZsHcy4x3FY+8P9dXOjfXi1SZhemPeY5AhGzdgHIOfkaoVp47vGoE8fFM5/DxuMduuKKu0JZpi9u3Sz3gaEFdbzTIYOH6WhkKkPJdvgH2wIh90VOvFXXq64XhHKEw9Hzt3NiVD+vZ+0kH40UlSidFC1jt9f1UXh2uF/9k="
 />
 
-Als frisch gebackener Veganerin fiel mir als erstes auf, dass offenbar von Seiten vieler Omnivoren und auch Vegetarier ein unglaublicher Diskussionsbedarf besteht. Fragen wie „Wie bekommst Du denn Deine Proteine“ mit „Wie bekommst Du denn Deine Ballaststoffe“ zu beantworten, reicht irgendwann nicht mehr aus, man muss sich Wissen aneignen, um nicht nur neugierigen Fragen sondern häufig sogar offenen Angriffen selbstsicher entgegentreten zu können.
+Als frisch gebackener Veganerin fiel mir als erstes auf, dass offenbar von Seiten vieler Omnivoren und auch Vegetarier ein unglaublicher Diskussionsbedarf besteht. Fragen wie "Wie bekommst Du denn Deine Proteine" mit "Wie bekommst Du denn Deine Ballaststoffe" zu beantworten, reicht irgendwann nicht mehr aus, man muss sich Wissen aneignen, um nicht nur neugierigen Fragen sondern häufig sogar offenen Angriffen selbstsicher entgegentreten zu können.
 
 ## Menschenkinder brauchen keine Kuhmilch
 
@@ -135,7 +135,7 @@ Dass Fleischesser Cholesterin zu sich nehmen, Kinder keine Milchprodukte brauche
 
 Inzwischen habe ich schon einiges rausgefunden und einige haben sich auch schon mit meinem Dasein als ewig hungriger, blutleerer Veganer-Vampirella abgefunden. Jeden Tag kommen neue Fakten, Details und Tatsachen dazu, ich sammle, teile, unterhalte mich im Chat mit anderen Veganern, schreibe auf und speichere ab. Die Sammlung wächst stündlich und wer weiß, vielleicht werde ich das Ganze (man riet mir dazu) ja eines Tages noch zu Papier bringen, einen Umschlag drumwickeln und an einen Verlag schicken. Doch bevor das passiert, wird sicher noch einige Zeit ins Land gehen.
 
-In der Zwischenzeit werde ich weiter Rezepte erfinden, Essen fotografieren und in meinem Blog eine Rubrik zum Thema „Essen“ auf die Beine stellen. Darin werde ich Euch mit Fakten quälen, Rezepte präsentieren und sicher auch den ein oder anderen Gedanken zum Thema Tierschutz loswerden.
+In der Zwischenzeit werde ich weiter Rezepte erfinden, Essen fotografieren und in meinem Blog eine Rubrik zum Thema "Essen" auf die Beine stellen. Darin werde ich Euch mit Fakten quälen, Rezepte präsentieren und sicher auch den ein oder anderen Gedanken zum Thema Tierschutz loswerden.
 
 <RemoteImage
   alt={`My Vegan Diary`}
@@ -146,7 +146,7 @@ In der Zwischenzeit werde ich weiter Rezepte erfinden, Essen fotografieren und i
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKhAAAQMDAwMEAQUAAAAAAAAAAQIDBAUREgAGIRMiQRQxUWGBFVJxkfH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwAEBv/EACARAAEEAQQDAAAAAAAAAAAAAAEAAgMRIQQxUWFBsfD/2gAMAwEAAhEDEQA/AJae1Ejo6L5Wcm8SlCskWN/a/n+Pa+s+t7TRUZ7yabALJeKB1AvHlItZKfz+dYW26xFW31HpTkbpJyySkr7ieARbtHi+ukbSrbv6sp2K8ytCUKSApBKsvnO/Fh4sODrOSW23XtwlMJJyset7mfVTpcXclImR6itsCGHwoNJB7chkkZAWsSfa4Olbd9TRVNxxKlWi6ltLRYCUNJSohtV7EA2scvcfem7eG7pFfkMxHXx6SG8XJCHOUOgePtPyPOlLdsRdWgMCNS4sSdGKklthJbQ62eUlOSvH7fvQ6d4dckYoHxj7sKSnNJNo9VMSW2rBS3w5g24VjsSri1rWPNzz86YoFdUlbNmTgS42lHU7RY3ueOffRo1ae0EZ4QjZW6mjJ+nVRpSmQZzTBjt8IIxUoEjybgf1q0xVpzUec76t92EeleK8oLGRJVlkRfj/AG+jRpEJpgrv2mHcL//Z"
 />
 
-Derzeit schreibe ich an einem Artikel „10 Fakten über vegane Ernährung“, der in Kürze hier in meinem Weblog erscheinen wird. Meine Rezepte poste ich im Moment noch auf Instagram. Daher stammen übrigens auch die seltsame Überschrift und Zwischenüberschrift #myvegandiary und #eatflowersnotchickenbabies. Das sind die Hashtags, unter denen ich auf Instagram meine Frühstücks- und Abendessen-Rezepte veröffentliche. Neugierige klicken einfach auf den [Link](http://instagram.com/anne_reko). Natürlich freue ich mich auch über jeden neuen Follower.
+Derzeit schreibe ich an einem Artikel "10 Fakten über vegane Ernährung", der in Kürze hier in meinem Weblog erscheinen wird. Meine Rezepte poste ich im Moment noch auf Instagram. Daher stammen übrigens auch die seltsame Überschrift und Zwischenüberschrift #myvegandiary und #eatflowersnotchickenbabies. Das sind die Hashtags, unter denen ich auf Instagram meine Frühstücks- und Abendessen-Rezepte veröffentliche. Neugierige klicken einfach auf den [Link](http://instagram.com/anne_reko). Natürlich freue ich mich auch über jeden neuen Follower.
 
 Zur Feier des Tages hier ein leckeres Sommerrezept aus meiner Feder, dass Ihr ganz leicht nachmachen könnt:
 

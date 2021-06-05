@@ -151,7 +151,7 @@ Aber wir wären nicht das _Graue Gold_ , wenn wir nicht den Integrationsgedanken
 
 **Janina:** Na klar, weil es in Dorsten noch keins gab. Außerdem besuchen uns viele Gäste aus dem nahen Münsterland.
 
-**Anne:** Beendet diesen Satz: „Das Cookie's Veggies ist etwas ganz Besonderes, weil...“
+**Anne:** Beendet diesen Satz: "Das Cookie's Veggies ist etwas ganz Besonderes, weil..."
 
 **Iris:** …man mit gutem Essen Gutes tut!
 

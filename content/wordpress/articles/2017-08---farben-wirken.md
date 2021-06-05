@@ -63,7 +63,7 @@ Was noch passiert, wenn wir unterschiedliche Farben auf uns wirken lassen, habe 
 
 ## Goethe und die Farben
 
-Johann Wolfgang von Goethe stellte in seiner 1810 erschienenen dreiteiligen Schrift „zur Farbenlehre“ seine Überlegungen, Literaturstudien und Versuche zum Thema Farben dar. Sein Ziel war es, die Farben in ihrer Gesamtheit zu erfassen und zu beschreiben. Nicht nur vom physikalischen oder ästhetischen Standpunkt aus.
+Johann Wolfgang von Goethe stellte in seiner 1810 erschienenen dreiteiligen Schrift "zur Farbenlehre" seine Überlegungen, Literaturstudien und Versuche zum Thema Farben dar. Sein Ziel war es, die Farben in ihrer Gesamtheit zu erfassen und zu beschreiben. Nicht nur vom physikalischen oder ästhetischen Standpunkt aus.
 
 Er selbst schätzte seine Farbforschungen höher ein, als seine komplette schriftstellerische Arbeit. Seine Farblehre besteht aus einem didaktischen, einem polemischen und einem historischen Teil. Hinzu kommt ein weiterer Band mit Tafeln.
 
@@ -78,7 +78,7 @@ Er selbst schätzte seine Farbforschungen höher ein, als seine komplette schrif
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgMFBwT/xAApEAABAwIFAwUAAwAAAAAAAAABAgMEBREABhIhMRNRYQcUIkFxIzKB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQBBf/EACkRAAIBAgIIBwAAAAAAAAAAAAECAwARBCEFMVFhgaHR8BIiMnGRweH/2gAMAwEAAhEDEQA/AOHLGeaTOu3nCHUYblrpdihYbKfKdlbnsSO+L8Z/yfAdCaRlf3ywnV1ZNkcbm4Vc4AsCVmCStpuBpQVFSWmwp1SeBbUo3J2HPc8XxLT3qszJNQUXocjSWtEsBDxSBptp5t9YGOCyFgufvly/aSTFs8gC+nn3xHRs96qRahBkQJuWIcaDKaLa/aEJUL/Y2sTxa/74w0o2aKFO9P3IrzKnGWkiMROF1OrAGknpfI2ATuBcAA4wlRMxhqRGStKVnSUOIKVXvY7HDrJ1YpUSKaZW2jJhuAht1BPUjKt/ZNtuQN+Rv9YHE4V2sU4/FOuKhVbSa9ovkd9/rLfrqzXkuOmpqZgT3EojMI1MNLQ2444SblTirAC1jbn6GK55umMzXoIoNYlT46yFJhK6aVIvZKirQtVjze4HjHB6L5pjImVCnZnmkOyUJMOXIeJAWm/8alHuCLXPcX4xqvWlMOlmSVqQsFCDbUkg8WtiolWUeE2NcWVxo/IIWXb1rIKhGbHtnVtqYedAS4047rUD2vtvzwBxiestvzXUymloW/FQhI6baQnSkfG9hv8Ap7eMP82UfJ8V9tb1TiQ5jY+bTaw88tXcoSSb/QBsPOCUnNKafT3YGVmH4jKjdybI3ku/6Nk8nz+YySWMEEC5HZqlcNJIPObd6rV//9k="
 />
 
-Wir verknüpfen Farben gerne mit Bedeutungen. Nicht umsonst heißt es „gelb vor Neid“, oder „grün ist die Hoffnung“.
+Wir verknüpfen Farben gerne mit Bedeutungen. Nicht umsonst heißt es "gelb vor Neid", oder "grün ist die Hoffnung".
 
 Weiß steht in vielen Kulturen für Reinheit, Unschuld und Klarheit, Rot hingegen für Wut oder Gefahr, aber auch für Fruchtbarkeit, Reichtum und Leidenschaft.
 
@@ -94,7 +94,7 @@ Blau wirkt im Gegensatz dazu entspannend. Die kühle Farbe steht für Kraft, Kla
 
 Schwarze Kleidung trägt man heutzutage nicht mehr nur zu traurigen Anlässen. Sie ermöglicht uns, in der Menge nicht aufzufallen, lässt uns schlicht und elegant wirken und gibt uns dadurch Ruhe und Sicherheit. Die Farbe, die eigentlich gar keine Farbe ist, steht gleichzeitig für Dunkelheit, Trauer und Geheimnisse und für Eleganz, Respekt und Würde. Eines ist sowieso klar: Ich werde Schwarz tragen, bis ich etwas Dunkleres gefunden habe.
 
-Meine „Lieblingsfarbe“ Türkis hat eine kühle Wirkung. Sie steht für Freiheit, Distanz und Extravaganz. Für Ferne und Weite. Türkisfarbene Wände wirken klar und persönlich auf uns.
+Meine "Lieblingsfarbe" Türkis hat eine kühle Wirkung. Sie steht für Freiheit, Distanz und Extravaganz. Für Ferne und Weite. Türkisfarbene Wände wirken klar und persönlich auf uns.
 
 ## Rosa war früher die Farbe für die Jungen
 
@@ -107,13 +107,13 @@ Meine „Lieblingsfarbe“ Türkis hat eine kühle Wirkung. Sie steht für Freih
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBQYE/8QAKBAAAgIBAgYBBAMAAAAAAAAAAQIDBBEABQYSEyExQQcUImFxFYGx/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMBAv/EACERAAICAQMFAQAAAAAAAAAAAAECAAMRBBJRISJBYXHw/9oADAMBAAIRAxEAPwDV/I/FVfZ912+jdMEtSSPqyRyRKxyGxkEkYOCR5964Ns+TNsqV2hrJHHEzlgCpyM+TzGQ6d8kpXPEfDrS7ZHfjkhtxOjg4ziNwSQO2OU/vWRtce0K5q1ouF6heX7FXoh+X13IHYAY86nQqsgUrmZcWB3ZwPmZr6/yRXsy/SyRgrZlES2DKmUBwASpAB/WdUHybNCmwbJUYSzRCR06K125ndc5yq+hk/jVZw1w7Ne3qtu8dShWqJNloOmFb7OmUI5cAljH5yAO/nOmblsvEF96lefaNsg2+FZQscdkl16jEsAxbJJBOSf60qvSFgGQYH4RCUXbBYQTx0P3xJT7d9UB9QJJTnILO5/w/nSv4toInFOuI+Y5IRGUMfzgd9GjXAeGIlU0vEQkjp2ZNyq7dF1JFk20ssjOSuAx7HAAbHrJ76IuKOIFqQrf2qWayqBZJjYjHUb22PRPk6NGkJY3MvVrb6j2t6n//2Q=="
 />
 
-Magenta gibt uns Sicherheit und innere Ruhe. Es steht gleichzeitig für Dominanz und Besonderheit und für Mitgefühl und Ordnung. Das abgeschwächte Rosa hingegen mildert Aggressivität ab und wirkt unschuldig und sanft. Rosa wird erst seit den 1920ern mit Weiblichkeit verbunden. Zuvor war es der männliche Farbton. Weil Rot für Leidenschaft, Kampf und Blut steht, wurde es als männlich angesehen. Rosa war das „kleine Rot“ und stand für kleine Jungen.
+Magenta gibt uns Sicherheit und innere Ruhe. Es steht gleichzeitig für Dominanz und Besonderheit und für Mitgefühl und Ordnung. Das abgeschwächte Rosa hingegen mildert Aggressivität ab und wirkt unschuldig und sanft. Rosa wird erst seit den 1920ern mit Weiblichkeit verbunden. Zuvor war es der männliche Farbton. Weil Rot für Leidenschaft, Kampf und Blut steht, wurde es als männlich angesehen. Rosa war das "kleine Rot" und stand für kleine Jungen.
 
-Gelb ist bekannt dafür, die Kreativität zu fördern. Streicht man Räume mit gelb, wirken sie automatisch größer. Negative Assoziationen, die wir damit verbinden, sind Neid, Geiz und Egoismus. Gleichzeitig geht von Gelb Lebensfreude, Selbstbewusstsein und Optimismus aus. Therapeuten nutzen es gerne als „natürlichen Stimmungsaufheller“.
+Gelb ist bekannt dafür, die Kreativität zu fördern. Streicht man Räume mit gelb, wirken sie automatisch größer. Negative Assoziationen, die wir damit verbinden, sind Neid, Geiz und Egoismus. Gleichzeitig geht von Gelb Lebensfreude, Selbstbewusstsein und Optimismus aus. Therapeuten nutzen es gerne als "natürlichen Stimmungsaufheller".
 
 ## Grün gegen Liebeskummer
 
-Grün ist für uns die Farbe der Natur. Sie steht für Gesundheit, Vitalität, [veganen Lebensstil](/tag/vegan/), Sicherheit, Nachhaltigkeit, Hoffnung und Kreativität. Bei der Farbtherapie wird Grün zum Beispiel gegen Liebeskummer oder Trauer eingesetzt. Nicht umsonst sagt man ja „Du bist bedrückt? Gönn Dir einen Tag im Grünen!“. Grün gekleidete Menschen wirken auf uns vertrauenerweckend und großzügig.
+Grün ist für uns die Farbe der Natur. Sie steht für Gesundheit, Vitalität, [veganen Lebensstil](/tag/vegan/), Sicherheit, Nachhaltigkeit, Hoffnung und Kreativität. Bei der Farbtherapie wird Grün zum Beispiel gegen Liebeskummer oder Trauer eingesetzt. Nicht umsonst sagt man ja "Du bist bedrückt? Gönn Dir einen Tag im Grünen!". Grün gekleidete Menschen wirken auf uns vertrauenerweckend und großzügig.
 
 Negative Dinge, die wir mit grüner Farbe in Verbindung bringen, sind zum Beispiel Müdigkeit und Neid. Genutzt wird sie gerne in den Bereichen Ökologie, Wissenschaft, Medizin und Regierung/Verwaltung.
 

@@ -67,7 +67,7 @@ Ich denke, man könnte die Musik, die ich höre, als meine Hauptinspiration betr
 
 **Anne:** Wie lange hast Du für die Aufnahmen gebraucht?
 
-**Lyra:** Ich habe mich zwei Jahre lang damit beschäftigt. Es hat vor allem so lange gedauert, weil ich so gerne prokrastiniere. Einige der Songs kommen mir schon richtig alt vor. “Collision” und “Apollo” gab es zum Beispiel in ähnlicher Form schon 2015. Zu 80 Prozent war das Album schon über ein Jahr vor der Veröffentlichung fertig. Ich konnte mich einfach nicht dazu aufraffen, die Projekt-Dateien zu öffnen und ihnen das letzte Finish zu verpassen. Der Lockdown war für mich die perfekte Möglichkeit, mich endlich darum zu kümmern.
+**Lyra:** Ich habe mich zwei Jahre lang damit beschäftigt. Es hat vor allem so lange gedauert, weil ich so gerne prokrastiniere. Einige der Songs kommen mir schon richtig alt vor. "Collision” und "Apollo” gab es zum Beispiel in ähnlicher Form schon 2015. Zu 80 Prozent war das Album schon über ein Jahr vor der Veröffentlichung fertig. Ich konnte mich einfach nicht dazu aufraffen, die Projekt-Dateien zu öffnen und ihnen das letzte Finish zu verpassen. Der Lockdown war für mich die perfekte Möglichkeit, mich endlich darum zu kümmern.
 
 **Anne:** Deine Musik klingt sehr durchdacht und klangvoll. Energiegeladene Parts lösen sich mit nachdenklichen Klangbädern ab. Mir gefällt das sehr gut! Wie läuft das bei Dir ab: Hast Du vorher immer einen Plan und baust Deine Songs wie ein⋆e Programmierer⋆in auf oder ist es mehr eine Art Jammen? Was passiert, wenn Du mit dem Schreiben eines Songs anfängst?
 
@@ -87,7 +87,7 @@ Ich liebe den Flow beim Songwriting. Bei mir führt er dazu, dass die Stücke ma
 
 **Lyra:** Ich besitze lediglich ein Piano und ein paar MIDI Controller. Ich war noch nie eine große Instrumenten-Sammlerin. Ich liebe zum Beispiel den Hangdrum Sound. Das Portico Quartett setzt ihn oft in Songs ein.
 
-Der Song “Allosome” auf meinem Album beinhaltet eine synthetisierte Version dieses Sounds. Ich würde sehr gerne auch eine echte Hang besitzen. Abgesehen davon weiß ich auch immer einen einfachen, großen Gitarrenriff zu schätzen. Dieser Sound, der durch die Boxen scheppert, wird niemals alt.
+Der Song "Allosome” auf meinem Album beinhaltet eine synthetisierte Version dieses Sounds. Ich würde sehr gerne auch eine echte Hang besitzen. Abgesehen davon weiß ich auch immer einen einfachen, großen Gitarrenriff zu schätzen. Dieser Sound, der durch die Boxen scheppert, wird niemals alt.
 
 Ich kann tatsächlich nicht Gitarre spielen aber ich hatte glücklicherweise die Möglichkeit vom Talent eines befreundeten Gitarristen zu profitieren. Achilles De Raedt von der Rockband HYPER hat mich bei den rockigeren Stücken unterstützt.
 
@@ -174,11 +174,11 @@ Bilder: Anne-Leen Declercq
 
 **Anne:** You've just released your album "lyra messier". How did you come to the decision to self-title it?
 
-**Lyra:** I’ve self-titled it “lyra messier” everywhere because obviously, streaming services don’t just accept an album without a title, but really it’s supposed to be untitled.
+**Lyra:** I’ve self-titled it "lyra messier” everywhere because obviously, streaming services don’t just accept an album without a title, but really it’s supposed to be untitled.
 
 **Anne:** How long did it take you to record it?
 
-**Lyra:** I spent about four years on it in some capacity, although it mostly took that long because I’m a habitual procrastinator. Some of the songs are fairly old; “Collision” and “Apollo” already existed in some form in 2015. The album was already 80 percent done well over a year before its release, but I just couldn’t be bothered to open the project files and do the last bits of work on them. The lockdown proved to be the perfect opportunity to stop putting that off.
+**Lyra:** I spent about four years on it in some capacity, although it mostly took that long because I’m a habitual procrastinator. Some of the songs are fairly old; "Collision” and "Apollo” already existed in some form in 2015. The album was already 80 percent done well over a year before its release, but I just couldn’t be bothered to open the project files and do the last bits of work on them. The lockdown proved to be the perfect opportunity to stop putting that off.
 
 ## "I love to go with the flow"
 
@@ -196,7 +196,7 @@ I tend to just go with the flow when it comes to songwriting. This sometimes res
 
 **Anne:** Do you have any favorite instruments or synths?
 
-**Lyra:** I only own a piano and a few MIDI controllers; I’ve never been a big instrument hoarder. I love the sound of the hang, though. Portico Quartet uses it in lots of their songs. “Allosome” on the album contains a synthesized version of that sound, but I would love to own a real one. Beyond that, I can always appreciate a simple, big guitar riff. The sound of that blasting through your speakers at a high volume never gets old.
+**Lyra:** I only own a piano and a few MIDI controllers; I’ve never been a big instrument hoarder. I love the sound of the hang, though. Portico Quartet uses it in lots of their songs. "Allosome” on the album contains a synthesized version of that sound, but I would love to own a real one. Beyond that, I can always appreciate a simple, big guitar riff. The sound of that blasting through your speakers at a high volume never gets old.
 
 I can’t actually play the guitar, but luckily I was able to steal the talent of my guitarist friend Achilles De Raedt (who is also in the rock band HYPER!) for the more rock-oriented songs.
 

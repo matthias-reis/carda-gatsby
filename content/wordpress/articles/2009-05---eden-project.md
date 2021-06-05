@@ -66,7 +66,7 @@ Im Herzen des Gartens befinden sich zwei riesige kuppelförmige Gewächshäuser,
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMHBgUI/8QAJxAAAgEDBAEEAgMAAAAAAAAAAQIDBAURABIhMUEGByJRE2EUFZH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oADAMBAAIRAxEAPwCUXT3CrqK5vFBChosbVjbkMmeG3L3nHjjx+9UKW+T1Fptdf/DahkqCWje4EsCuQC2MnKgnjjoHjUKo5oprjSs4/HFAzviNFZ89jPW7oA+eDr1VYZrBFb7dVRVEUkhgjQ1ciyDeDht4yBtUHpT9f7htPLLenK6a6y1dGKeIsXMklXAcQquMBiuAQDjHXkaR6x9I014hikmnqKCz00Tl3BAml+IKsMj5/XJxj61vL1e7TZ6qFapoGhlG/wCIbcZDyskgCt8SFb448akXv3WXAU0f9e9QtoLmGWZWjVZJNo3R4Rs7OsK6ryDxpsSh8TEDKNhsjkdjXXgvtekX42q5CmwRqG52gNnjPXnnRo1LElSXisYxqamaRIiWTexIBPZx9+c/rTL56juF2o4KasrKmWGPBCSSkru63Y+9GjQgX//Z"
 />
 
-Der Betreiber legt auch großen Wert darauf, dass hier bedrohte, und zum Teil auch bereits ausgestorbene Arten nachgezüchtet und erhalten werden. Einigen Besuchern werden die Kuppeln bekannt vorkommen, eine Szene des Film „James Bond – Stirb an einem anderen Tag“ wurde hier gedreht.
+Der Betreiber legt auch großen Wert darauf, dass hier bedrohte, und zum Teil auch bereits ausgestorbene Arten nachgezüchtet und erhalten werden. Einigen Besuchern werden die Kuppeln bekannt vorkommen, eine Szene des Film "James Bond – Stirb an einem anderen Tag" wurde hier gedreht.
 
 ## Reise durch die Klimazonen
 

@@ -57,7 +57,7 @@ Seit ich denken kann, schreibe ich, halte alles fest und vervollständige meine 
 
 Seit 2014 darf ich nun hobbymäßig auch für Vegan News und das Welt Vegan Magazin texten. Meine Texte, die online erscheinen, optimiere ich vorher auf Keywords. Nicht nur im SEO-Bereich, auch was HTML, Bildbearbeitung und diverse Content Management Systeme angeht, habe ich mir selbst schon eine ganze Menge beigebracht.
 
-Seit dem Relaunch meines Blogs Anfang dieses Jahres baue ich dort auch die Rubriken „Interviews“ und „Vegan“ immer weiter aus. Natürlich werden auch die Bereiche „Musik“, „Tagebuch“ und „Fotos“ nach wie vor meine Beachtung finden.
+Seit dem Relaunch meines Blogs Anfang dieses Jahres baue ich dort auch die Rubriken "Interviews" und "Vegan" immer weiter aus. Natürlich werden auch die Bereiche "Musik", "Tagebuch" und "Fotos" nach wie vor meine Beachtung finden.
 
 Ich schreibe Euch, weil ich mir das mal von der Seele reden muss. Ja, ich habe zwei Jahre lang in einer Fabrik gearbeitet. Es hat mir großen Spaß gemacht, Autoteile zusammenzufügen. Und ich schäme mich auch nicht dafür. Ich habe eben gearbeitet, während andere zur Uni gegangen sind. Ich stand schon sehr früh auf eigenen Beinen, hatte meinen eigenen Haushalt und habe mich selbstständig um alles gekümmert. Im Laufe meiner Entwicklung hat sich neben dem Arbeiten und dem Verdienen meines Lebensunterhalts nach und nach herausgestellt, was für mich beruflich der Lebensmittelpunkt sein muss. Das Schreiben.
 
@@ -78,7 +78,7 @@ Ich bin gerne auch dazu bereit, erst mal in Teilzeit anzufangen, auch, wenn mir 
 
 Ich bin gerne bereit dazu, mich weiterzubilden und neue Aufgaben kennenzulernen. Meine Zeit zuhause habe ich nicht nur zum Schreiben genutzt, sondern auch dazu, mich stets mit Infos über technische Neuerungen zu versorgen, Dinge auszuprobieren und zu üben, das Wissen, das ich mir während meiner Zeit im Verlag angeeignet habe, zu vertiefen und auszubauen.
 
-Es wäre einfach wundervoll, falls einer von Euch jemanden kennt, der jemanden kennt, den er mal fragen könnte, ich bin für jeden Hinweis, Tipp und Ratschlag offen. Bis auf „Schau Dich doch mal in einem anderen Bereich um.“. Mir ist es wichtig, auch im Job glücklich zu werden und es ist nun definitiv an der Zeit aufzubrechen und das auch in die Tat umzusetzen.
+Es wäre einfach wundervoll, falls einer von Euch jemanden kennt, der jemanden kennt, den er mal fragen könnte, ich bin für jeden Hinweis, Tipp und Ratschlag offen. Bis auf "Schau Dich doch mal in einem anderen Bereich um.". Mir ist es wichtig, auch im Job glücklich zu werden und es ist nun definitiv an der Zeit aufzubrechen und das auch in die Tat umzusetzen.
 
 ## 100 Bewerbungen
 

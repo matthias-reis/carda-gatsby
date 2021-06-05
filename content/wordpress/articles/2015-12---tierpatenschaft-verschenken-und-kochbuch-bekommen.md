@@ -41,7 +41,7 @@ errors: {}
 subTitle: Ein perfektes Weihnachtsgeschenk
 ---
 
-**Über XING lernte ich die Patentierbetreuerin des Deutschen Tierschutzbüros Denise Weber kennen. Sie stellte mir direkt ihr Projekt „Tierpatenschaft mit Herz" vor, von dem ich Euch heute gerne berichten möchte.**
+**Über XING lernte ich die Patentierbetreuerin des Deutschen Tierschutzbüros Denise Weber kennen. Sie stellte mir direkt ihr Projekt "Tierpatenschaft mit Herz" vor, von dem ich Euch heute gerne berichten möchte.**
 
 Das Deutsche Tierschutzbüro setzt sich für Tiere in Not ein. Dabei werden Demos und Aktionen veranstaltet und auch schon mal politische Entscheidungsträger unter Druck gesetzt. Die Aktivisten helfen misshandelten Tieren, befreien Kettenhunde, retten verletzte Wildtiere und kümmern sich um ausgesetzte Haustiere.
 
@@ -61,7 +61,7 @@ Ganz aktuell findet derzeit wie in jedem Jahr eine Weihnachtsaktion des Deutsche
 
 Aus diesem Grund bietet der Verein Tierpatenschaften zum Verschenken an. Damit hat man auf jeden Fall ein sehr persönliches Geschenk. Natürlich kann das Patentier auch jederzeit in seiner Unterkunft besucht werden und es können dabei ganz nebenbei wertvolle Stunden in der Natur verbracht werden.
 
-Dieses Jahr gibt es dazu noch eine ganz besondere Überraschung: Das Deutsche Tierschutzbüro möchte sich bei allen neuen Tierpaten und denen, die eine Patenschaft verschenken, bedanken, indem sie das neue vegane Kochbuch von Stina Spiegelberg „Vegan Passion“ schenken. Stina verrät in dem Buch 120 ihrer Lieblingsrezepte, saisonal und zu jedem Anlass passend. Kleiner Geheimtipp: Es werden darin auch tolle Ideen für ein leckeres und pflanzliches Weihnachtsmenü verraten.
+Dieses Jahr gibt es dazu noch eine ganz besondere Überraschung: Das Deutsche Tierschutzbüro möchte sich bei allen neuen Tierpaten und denen, die eine Patenschaft verschenken, bedanken, indem sie das neue vegane Kochbuch von Stina Spiegelberg "Vegan Passion" schenken. Stina verrät in dem Buch 120 ihrer Lieblingsrezepte, saisonal und zu jedem Anlass passend. Kleiner Geheimtipp: Es werden darin auch tolle Ideen für ein leckeres und pflanzliches Weihnachtsmenü verraten.
 
 ## Alle Infos zur Weihnachtsaktion
 
@@ -74,7 +74,7 @@ Dieses Jahr gibt es dazu noch eine ganz besondere Überraschung: Das Deutsche Ti
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgQFCP/EAC0QAAIBAwMCAwcFAAAAAAAAAAECAwQFEQASIQYxEyJBByRRYXKBsRQyYnGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAHxEAAQQDAAMBAAAAAAAAAAAAAgABAxEEEhMUIUHh/9oADAMBAAIRAxEAPwDpdEjjRUVI1UAAAKB9ho/1he5bJY2qoFiM8tRDTRB0BAaRwuccZwCTjPONUXGvomqfCerEM8DbgjKuex58w4wMn+s6Ae0O6Wu5UFTaamoqKmjrhujkhRi8D/wwP3DAP30cp6A7pIx2Jkl9nXUdbeqi/wBuuhgkqbVVLGJ4olTxYpF3LuUEgOMMCB8BpLUKBUSgKMbj6fPQ7pCG30EizWuJUavfdUSFNjynYRlvmNvb0yfjppUD3iX6j+dHjS9o2JVMGh0yFdSVsCXaaWvt7LAxZPPyrkMRvU7T5jtVRnjjHY6yqaso7HMytBDLNGBTh4iAVCxIM5PfKlTx3J9NNeprLLeFmg/SwKjHas6hWYDdnsy4751jxdEVEI8ORqesiRVWMsDFIuDkZOHU49DgauUeguHx2pbY80BHXX0p7ZU2+oudPLAzLLlxtHC5CHuO2QNNage8S/UfzovTWd7ZUvMLRUSzY2iQFX9Md1C/6NLpqeVpXZUyCxI5GgwsXxY3jZ7a7/Fiml6Fa//Z"
 />
 
-- Wer in der Zeit vom 25. November bis einschließlich 23. Dezember eine Tierpatenschaft übernimmt oder eine verschenkt, erhält das vegane Kochbuch „Vegan Passion“.
+- Wer in der Zeit vom 25. November bis einschließlich 23. Dezember eine Tierpatenschaft übernimmt oder eine verschenkt, erhält das vegane Kochbuch "Vegan Passion".
 - Wer bis zum 20. Dezember 2015 um 18:00 eine Patenschaft abschließt oder verschenkt, bekommt die Unterlagen dazu pünktlich bis zum 24. Dezember zugesendet. Natürlich können die Unterlagen auch direkt an den/die Beschenkte/n adressiert werden.
 - Wer seine Patenschaft erst nach dem 20. Dezember beantragt, erhält die Urkunde in digitaler Form per Mail, diese kann dann selbst gestaltet und ausgedruckt werden.
 - Das Kochbuch wird direkt an den Tierpaten bzw. an den/die Beschenkende/n geschickt. Es kommt in einem Paket zusammen mit den Unterlagen für die Patenschaft, der Urkunde sowie einem Tierretterarmband.

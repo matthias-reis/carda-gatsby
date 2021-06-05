@@ -48,7 +48,7 @@ subTitle: 10 Fragen an Hamburgs neue Szene-Barkeeper
 
 **Ganz Hamburg fragt sich gerade: Who the f\*\*\* is Mister Mandrill? Auf jeder Litfasssäule,** **jeder Fußgängerampel und auf jeder Kneipenklotür prangt einer dieser bunten Sticker mit** **dem Mandrill-Äffchen.**
 
-Sie scheinen sich genau wie die Nachricht „Es ist eine neue Cocktail-Clique in der Stadt, die sie alle in den Schatten stellt“ einem Lauffeuer gleich über die Hansestadt verteilt zu haben.
+Sie scheinen sich genau wie die Nachricht "Es ist eine neue Cocktail-Clique in der Stadt, die sie alle in den Schatten stellt" einem Lauffeuer gleich über die Hansestadt verteilt zu haben.
 
 Ich habe mich jetzt mit Kevin Hartjen von  _Mister Mandrill_ getroffen und mal nachgefragt, was hinter diesem Namen steckt und was zur Hölle er und seine Jungs und Mädels vorhaben.
 

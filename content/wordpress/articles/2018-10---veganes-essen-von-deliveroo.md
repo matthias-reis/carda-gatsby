@@ -59,7 +59,7 @@ Das muss man sich mal auf der Zunge zergehen lassen. Genau diese Art Pressemitte
 
 Zum Ausklang wird dann noch die für den deutschen Markt zuständige Deliveroo Marketing-Chefin Valentina Slaverio zitiert.
 
-> „Es ist wichtig, dass wir uns mit dem, was wir essen, auch auseinandersetzen. Vegane Food-Trends und andere, innovative Food-Entwicklungen tragen dazu bei, sich wieder mehr mit dem Essen zu beschäftigen und bewusster damit umzugehen. Ein tragender Leitgedanke bei [Deliveroo](https://go.urtrackinglink.com/SH1TT) ist es, neue Wege zu gehen, inspirierende Food-Konzepte zu unterstützen und sie vor allem auch für Zuhause zu liefern. Heutzutage muss es möglich sein, auch Zuhause jede Form von frischem, qualitativ hochwertigem Essen genießen zu können. Dieser Gedanke treibt uns und unser Team täglich an.“
+> "Es ist wichtig, dass wir uns mit dem, was wir essen, auch auseinandersetzen. Vegane Food-Trends und andere, innovative Food-Entwicklungen tragen dazu bei, sich wieder mehr mit dem Essen zu beschäftigen und bewusster damit umzugehen. Ein tragender Leitgedanke bei [Deliveroo](https://go.urtrackinglink.com/SH1TT) ist es, neue Wege zu gehen, inspirierende Food-Konzepte zu unterstützen und sie vor allem auch für Zuhause zu liefern. Heutzutage muss es möglich sein, auch Zuhause jede Form von frischem, qualitativ hochwertigem Essen genießen zu können. Dieser Gedanke treibt uns und unser Team täglich an."
 
 In diesem Sinne: Haut rein, Leute! Auf das die Nachfrage das Angebot immer weiter verbessert und der Weg in eine vegane Zukunft nicht mehr ganz so weit ist.
 

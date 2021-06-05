@@ -69,7 +69,7 @@ Marc Pierschel hat sich viel Zeit genommen - über zwei Jahre hat er Karin, Jan 
 
 Jede⋆r der⋆die den Film bisher gesehen hat, lobt ihn in den höchsten Tönen. Das sagen zum Beispiel die Tierrechtsaktivist⋆innen von PETA:
 
-> "'Butenland der Film' ist eine einfühlsame Dokumentation, die nicht den Zeigefinger erhebt, sondern an unsere Menschlichkeit appelliert. Wer einmal gesehen hat, wie frei Paul, Uschi, Lillja und die anderen Tiere nach ihrer Zeit als „Nutztiere“ leben, kann nicht anders, als sich diese wahr gewordene Utopie für alle Lebewesen zu wünschen."
+> "'Butenland der Film' ist eine einfühlsame Dokumentation, die nicht den Zeigefinger erhebt, sondern an unsere Menschlichkeit appelliert. Wer einmal gesehen hat, wie frei Paul, Uschi, Lillja und die anderen Tiere nach ihrer Zeit als "Nutztiere" leben, kann nicht anders, als sich diese wahr gewordene Utopie für alle Lebewesen zu wünschen."
 
 Also: Geht ins Kino und schaut Euch "Butenland der Film" an. Es lohnt sich! Die bisherigen Kinotermine [findet Ihr hier](https://mindjazz-pictures.de/filme/butenland/). Es wäre natürlich klasse, wenn Ihr zusätzlich in Eurem Lieblingskino weitere Termine vorschlagt. Auch die grandiosen Dokumentarfilme "[The End Of Meat](/2020/02/the-end-of-meat/)" und "[Live And Let Live](/2019/11/live-and-let-live-film/)" stammen von Marc Pierschel. Klickt einfach auf die Links, um meine Beiträge dazu zu lesen.
 

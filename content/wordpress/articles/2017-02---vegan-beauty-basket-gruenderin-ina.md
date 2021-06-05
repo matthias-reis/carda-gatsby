@@ -57,7 +57,7 @@ Nachdem auch mein zweiter Vegan Beauty Basket [Produkttest](/2016/12/unboxing-ve
 
 **Anne:** Wann wurde Vegan Beauty Basket gegründet? War das Projekt von Anfang an erfolgreich?
 
-## „Wir sind bei null gestartet“
+## "Wir sind bei null gestartet"
 
 **Ina:** Vegan Beauty Basket wurde im Sommer 2015 gegründet. Damals sind wir bei null gestartet. Wir freuen uns sehr, dass unser Projekt immer beliebter wird. Inzwischen sind wir seit fast 1,5 Jahren am Start und ich kann kaum fassen, was für großen Spaß es macht. Wir sind immer noch mit genauso viel Energie und Herzblut dabei, wie am Anfang.
 
@@ -78,7 +78,7 @@ Nachdem auch mein zweiter Vegan Beauty Basket [Produkttest](/2016/12/unboxing-ve
 
 **Ina:** Vor 13 Jahren habe ich mich aus ethischen Gründen entschlossen, vegan/vegetarisch zu leben und es dauerte nicht lange bis die Umstellung auf eine komplett vegane Ernährung folgte. Kleidung und Kosmetik gehörten natürlich von Beginn an dazu.
 
-## „Ich wünsche mir, dass sich möglichst viele Menschen für vegan interessieren“
+## "Ich wünsche mir, dass sich möglichst viele Menschen für vegan interessieren"
 
 Ich wünsche mir einfach sehr, dass sich möglichst viele Menschen für das Thema interessieren, sodass eines Tages die gegenwärtige Tierausbeutung endgültig ein Ende hat. Durch den Vegan Beauty Basket versuchen wir auf dieses wichtige Thema aufmerksam zu machen, indem wir gelegentlich Informationsmaterial zum Thema Tierschutz und vegane Ernährung beilegen.
 
@@ -105,7 +105,7 @@ Ich wünsche mir einfach sehr, dass sich möglichst viele Menschen für das Them
 
 Besonders liebe ich zum Beispiel die Hurraw Lipbalms. Sie wurden in der Box sogar schon zweimal vorgestellt, weil sie so gut ankommen. Das Haarserum von [Lovely Day Botanicals](/2016/09/interview-lovely-day-botanicals/) ist außerdem unglaublich toll. Ich kann es jedem nur empfehlen. Die Produkte von Cremekampagne und i+m Naturkosmetik Berlin gehören ebenfalls zu meinen Lieblingen.
 
-## „Bevor ein Produkt in den Vegan Beauty Basket kommt, führen wir umfangreiche Recherchen durch“
+## "Bevor ein Produkt in den Vegan Beauty Basket kommt, führen wir umfangreiche Recherchen durch"
 
 **Anne:** Wie stellst Du die Kontakte mit den Herstellern her? Der Vegan Beauty Basket ist ja immer sehr bunt gemischt. Es ist sicher nicht immer leicht, jedes Mal neue Lieferanten zu finden? Wie gehst Du vor, wenn Du einen Hersteller entdeckt hast, dessen Linie zum Vegan Beauty Basket passen könnte? Wie stellst Du sicher, dass alles zu 100 Prozent vegan, frei von Tierversuchen und fair hergestellt ist?
 
@@ -124,7 +124,7 @@ Wir sind ständig auf der Suche nach neuen, interessanten Marken, die unseren Vo
 
 **Anne:** Die Inhaltsstoffe sind den Konsumenten ja heutzutage häufig unbekannt, es wird mit Wundermitteln geworben und die großen Konzerne, die sie verkaufen, gehen nicht selten skrupellos vor. Aus welchem Grund erfreuen sich Deiner Meinung nach herkömmliche Kosmetikprodukte nach wie vor so großer Beliebtheit?
 
-## „Viele Konsumenten interessieren sich leider auch heute noch zu wenig für Inhaltsstoffe“
+## "Viele Konsumenten interessieren sich leider auch heute noch zu wenig für Inhaltsstoffe"
 
 **Ina:** Ich finde, dass viele Konsumenten sich leider immer noch viel zu wenig für Inhaltsstoffe, sowie deren Wirkung und Herstellung beziehungsweise Herkunft interessieren.
 
@@ -149,7 +149,7 @@ Bei der täglichen Pflege kann ebenfalls vieles ganz leicht umgestellt werden. I
 
 **Anne:** Welchen Beitrag leistet der Vegan Beauty Basket neben dem Verzicht auf tierliche Produkte für den Umweltschutz?
 
-## „Wir verzichten auf doppelte Verpackungen“
+## "Wir verzichten auf doppelte Verpackungen"
 
 **Ina:** Wir versuchen, möglichst auf doppelte Verpackungen bei den Produkten zu verzichten. Darauf weisen wir unsere Partner auch ausdrücklich hin. Unsere Boxen enthalten zum Beispiel auch bewusst kein Füllmaterial wie Holzwolle. Das kommt der Größe der Box zugute. Wir kommen so mit einer minimalen Menge an Papier für die Verpackung aus, die natürlich zu 100 Prozent recyclebar ist. Außerde&shy;m versuchen wir auch, so oft wie möglich mit regionalen Marken zusammenzuarbeiten. Die Produkte kommen dann, wie zum Beispiel bei i+m Naturkosmetik Berlin, Cremekampagne, Lovely Day Botanicals und Eskay entweder direkt aus Berlin oder aus der Umgebung.
 
@@ -170,11 +170,11 @@ Bei der täglichen Pflege kann ebenfalls vieles ganz leicht umgestellt werden. I
 
 **Ina:** Der Vegan Beauty Basket eignet sich perfekt als Geschenk. Ab 23,30 Euro kann die Box auch abonniert werden. Unsere Abonnenten haben die Möglichkeit, ein bis zwei Produkte pro Box nach Farbe und/oder Duftrichtung selbst zu bestimmen. Der Überraschungseffekt ist trotzdem vorhanden. Jede Ausgabe beinhaltet fünf bis sechs Produkte.
 
-In der Box legen wir ebenfalls Informationsmaterial/Zeitschriften zum Thema Veganismus sowie Tierschutz sowie ab und an Geschenke für unsere Abonnenten an. Letztes Jahr gab es anlässlich unseres Jubiläums zum Beispiel den Rucksackbeutel „cruelty free is the way to be“.
+In der Box legen wir ebenfalls Informationsmaterial/Zeitschriften zum Thema Veganismus sowie Tierschutz sowie ab und an Geschenke für unsere Abonnenten an. Letztes Jahr gab es anlässlich unseres Jubiläums zum Beispiel den Rucksackbeutel "cruelty free is the way to be".
 
 **Anne:** Verrätst Du mir Dein Beauty-Geheimnis?
 
-## „Ich habe kein Beauty-Geheimnis“
+## "Ich habe kein Beauty-Geheimnis"
 
 **Ina:** Ich habe leider kein Beauty-Geheimnis, aber ich kann Dir verraten, dass das Hyaluronfluid sowie das Aloe Vera Gel von Cremekampagne meine unzertrennlicher Begleiter sind (lacht).
 

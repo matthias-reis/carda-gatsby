@@ -122,7 +122,7 @@ Der Cradle to Cradle e. V. hat das Prinzip Cradle-to-Cradle in diesem Video sehr
 - [EPEA](https://epea-hamburg.com)
 - [Wikipedia](https://de.wikipedia.org/wiki/Cradle_to_Cradle)
 - Cradle-to-Cradle
-- Grafik:  [Wikipedia Commons, Rex banditor „Biologischer und technischer Zyklus“ 15.11.2017](https://commons.wikimedia.org/wiki/File:Cradle_to_cradle.jpg)
+- Grafik:  [Wikipedia Commons, Rex banditor "Biologischer und technischer Zyklus" 15.11.2017](https://commons.wikimedia.org/wiki/File:Cradle_to_cradle.jpg)
 
 [^1]: [Cradle to Cradle e. V](https://c2c-ev.de/)
 [^2]: [EPEA](https://epea-hamburg.com)

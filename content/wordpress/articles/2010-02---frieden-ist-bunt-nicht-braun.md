@@ -31,7 +31,7 @@ subTitle: Großdemonstration gegen Neonazis in Augsburg
 
 Deshalb startete um 12:00 am Stadttheater eine große Gegendemo an der sich alle Vereine, Institutionen, Gewerkschaften und politischen Parteien beteiligten.
 
-Der Zug führte am Hofgarten vorbei Richtung Dom, von dort aus zum Brechthaus und zum Stadtbad. An jeder Station gab es eine kurze **Ansprache** . Zum Abschluss traf man sich am Rathausplatz, wo Bürgermeister Kurt Griebl eine Rede hielt und den Nazis die „rote Karte“ zeigte.
+Der Zug führte am Hofgarten vorbei Richtung Dom, von dort aus zum Brechthaus und zum Stadtbad. An jeder Station gab es eine kurze **Ansprache** . Zum Abschluss traf man sich am Rathausplatz, wo Bürgermeister Kurt Griebl eine Rede hielt und den Nazis die "rote Karte" zeigte.
 
 ## Breitgefächertes Live-Programm
 

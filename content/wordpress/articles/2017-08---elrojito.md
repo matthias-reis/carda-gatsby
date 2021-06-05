@@ -115,7 +115,7 @@ Wer es lieber kräftiger mag, greift zum Beispiel zum _Flor de Café Oscuro_ . D
 
 ## Filterkaffee gefällig?
 
-Filterkaffeetrinker greifen zum _Mexico_ -Filterkaffee oder zum _Café Marcala_ . Dabei handelt es sich um eine sehr helle Röstung mit Zitrus- und Pfirsichnoten. Er kann auch prima „ohne alles“ getrunken werden. Großer Beliebtheit erfreut sich außerdem die _Hausmischung_ .
+Filterkaffeetrinker greifen zum _Mexico_ -Filterkaffee oder zum _Café Marcala_ . Dabei handelt es sich um eine sehr helle Röstung mit Zitrus- und Pfirsichnoten. Er kann auch prima "ohne alles" getrunken werden. Großer Beliebtheit erfreut sich außerdem die _Hausmischung_ .
 
 Alle Kaffeesorten können im  [Onlineshop](http://elrojito.de)  von elrojito auch bestellt werden. Das elrojito ist Montags bis Freitags von 08:00 Uhr bis 18:30 Uhr, Samstags von 10:00 - 18:30 und Sonntags von 11:00 bis 18:30 geöffnet. Infos für "Refill it" [findet Ihr hier](https://www.refillit-elrojito.de/).
 

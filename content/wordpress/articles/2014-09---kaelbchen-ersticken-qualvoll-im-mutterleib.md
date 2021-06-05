@@ -45,7 +45,7 @@ Setzt die Versorgung über den Mutterleib durch die Tötung der Mutterkuh aus, s
 
 ## Trügerische Idylle
 
-Die Kälbchen sterben unter Zuckungen, ersticken unter heftigsten Abwehrreaktionen in ihrer Fruchtblase. Tierarzt Rupert Hildner spricht in der Panorama 3 Sendung des NDR vom 25. März [^2] von einem untragbaren Zustand: „Jeder von uns Fachleuten weiß, dass die Kuh mit einem Bolzenschussgerät betäubt wird, auf das Kälbchen hat dies jedoch keine Wirkung. Der Fötus stirbt, erstickt, verreckt elendiglich in einem lange andauernden Prozess.“
+Die Kälbchen sterben unter Zuckungen, ersticken unter heftigsten Abwehrreaktionen in ihrer Fruchtblase. Tierarzt Rupert Hildner spricht in der Panorama 3 Sendung des NDR vom 25. März [^2] von einem untragbaren Zustand: "Jeder von uns Fachleuten weiß, dass die Kuh mit einem Bolzenschussgerät betäubt wird, auf das Kälbchen hat dies jedoch keine Wirkung. Der Fötus stirbt, erstickt, verreckt elendiglich in einem lange andauernden Prozess."
 
 Bedenkt man dabei, dass die Betäubung laut einer Umfrage von Bündnis 90/DIE GRÜNEN bei rund 4-9 Prozent der Rinder mangelhaft ist, oder sogar gänzlich fehlt, bekommt man nicht mal eine ungefähre Vorstellung, welches Grauen Mutterkühe und ihre ungeborenen Kinder in den Schlachthöfen erwartet.
 
@@ -53,8 +53,8 @@ Bedenkt man dabei, dass die Betäubung laut einer Umfrage von Bündnis 90/DIE GR
 
 In einer Stellungnahme des Amtstierarztes D. Wolfgang Kulow zum Thema werden folgende Hauptgründe für die Schlachtung tragender Kühe genannt:
 
-- „Fehlgeleitete Kühe“ (die Trächtigkeit war dem Landwirt nicht bekannt) Verletzungen, die eine „weitere Nutzung“ des Tieres ausschließen
-- Tiere, deren „Nutzung aus anderen Gründen unwirtschaftlich erscheint“, weil z. B. teure tierärztliche Behandlungen anstehen Lebewesen werden demnach auf den Müll geworfen, entsorgt, weil sich der Halter die Haltung des Nachwuchses und die ärztliche Versorgung nicht leisten kann oder sich schlicht nicht für seine Tiere interessiert.
+- "Fehlgeleitete Kühe" (die Trächtigkeit war dem Landwirt nicht bekannt) Verletzungen, die eine "weitere Nutzung" des Tieres ausschließen
+- Tiere, deren "Nutzung aus anderen Gründen unwirtschaftlich erscheint", weil z. B. teure tierärztliche Behandlungen anstehen Lebewesen werden demnach auf den Müll geworfen, entsorgt, weil sich der Halter die Haltung des Nachwuchses und die ärztliche Versorgung nicht leisten kann oder sich schlicht nicht für seine Tiere interessiert.
 
 Zwar wurde 1990 der § 90a im BGB eingefügt, nachdem Tiere keine Sachen sind, sie werden damit jedoch nur gedanklich von Sachen unterschieden und sind nach geltendem Gesetz rechtlich nach wie vor wie Sachen zu behandeln. Man kann also eine Kuh genauso wie ein Fahrrad einfach kaufen und wenn sie irgendwann nicht mehr gewünscht ist, bringt man sie zum Schrottplatz (Schlachthof).
 
@@ -66,9 +66,9 @@ Es geschieht jeden Tag. Hinter hohen Betonmauern erleiden Tiere Qualen, die sich
 
 ## Tierschutzrechtliche Vorschriften bieten keinen Schutz der Föten
 
-In der Stellungnahme des Amtstierarztes heißt es weiter: „Die tierschutzrechtlichen Vorschriften schützen die Föten praktisch nicht. Nach dem Tod des Muttertieres sterben sie durch Hypoxie [^3]. Im normalen Schlachtprozess sind sie bei der Eviszeration bereits verendet. Das dürfte einer der Gründe sein, warum diese Problematik erst jetzt thematisiert wird. Ein tierschutzgerechtes Töten der Föten ist im herkömmlichen Schlachtprozess also nicht möglich, da sie einer Betäubung nicht zugänglich sind oder sich diese z. B. bei Narkotika aus lebensmittelrechtlichen Gründen verbietet.“
+In der Stellungnahme des Amtstierarztes heißt es weiter: "Die tierschutzrechtlichen Vorschriften schützen die Föten praktisch nicht. Nach dem Tod des Muttertieres sterben sie durch Hypoxie [^3]. Im normalen Schlachtprozess sind sie bei der Eviszeration bereits verendet. Das dürfte einer der Gründe sein, warum diese Problematik erst jetzt thematisiert wird. Ein tierschutzgerechtes Töten der Föten ist im herkömmlichen Schlachtprozess also nicht möglich, da sie einer Betäubung nicht zugänglich sind oder sich diese z. B. bei Narkotika aus lebensmittelrechtlichen Gründen verbietet."
 
-Beim Lesen dieser Zeilen läuft es einem eiskalt den Rücken runter. Und da gibt es Menschen, die mit ruhigem Gewissen ihren Burger essen. Und es kommt noch schlimmer: „Im letzten Drittel der Trächtigkeit kann es zur Verunreinigung des Fleisches und des Arbeitsplatzes durch Fruchtwasser kommen, wenn der Uterus bei der Schlachtung angeschnitten oder unsachgemäß entfernt wird.“ Dies hat zur Folge, dass die Kühe im Anschluss an die Schlachtung tatsächlich auf dem Müll landen.
+Beim Lesen dieser Zeilen läuft es einem eiskalt den Rücken runter. Und da gibt es Menschen, die mit ruhigem Gewissen ihren Burger essen. Und es kommt noch schlimmer: "Im letzten Drittel der Trächtigkeit kann es zur Verunreinigung des Fleisches und des Arbeitsplatzes durch Fruchtwasser kommen, wenn der Uterus bei der Schlachtung angeschnitten oder unsachgemäß entfernt wird." Dies hat zur Folge, dass die Kühe im Anschluss an die Schlachtung tatsächlich auf dem Müll landen.
 
 ## Es kommt ausschließlich auf die Leistung an
 

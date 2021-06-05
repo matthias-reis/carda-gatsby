@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: „Für eine nachhaltige Zukunft müssen wir tun, was uns möglich ist!“
+subTitle: 'Für eine nachhaltige Zukunft müssen wir tun, was uns möglich ist!'
 ---
 
 <RemoteImage
@@ -51,7 +51,7 @@ Jetzt hatte ich die großartige Gelegenheit, mich mit Hendrike, der Gründerin v
 
 **Hendrike:** Hallo Anne – zuerst einmal ganz herzlichen Dank für die Einladung zum Interview. Ich habe mich darüber sehr gefreut und finde es schön, dass ich mal nach Herzenslust aus dem Nähkästchen plaudern darf. Heute war ich schon in der Werkstatt und habe dort ordentlich aufgeräumt und geputzt. Auch das gehört natürlich dazu.
 
-## Pony Hütchen – Der Name stammt aus „Emil und die Detektive“
+## Pony Hütchen – Der Name stammt aus "Emil und die Detektive"
 
 <RemoteImage
   alt={`Pony Hütchen`}
@@ -64,15 +64,15 @@ Jetzt hatte ich die großartige Gelegenheit, mich mit Hendrike, der Gründerin v
 
 **Anne:** Pony Hütchen. Was für ein toller Name. Wie bist Du darauf gekommen?
 
-**Hendrike:** Als ich damals begonnen habe, meine eigene Kosmetiklinie zu entwickeln, habe ich nach einem Namen gesucht, der süß ist, den man sich gut merken kann und der etwas mit meiner Heimatstadt Berlin zu tun hat. Irgendwann ist mir Pony Hütchen, die Cousine von Emil aus dem Kinderbuchklassiker „Emil und die Detektive“ eingefallen und da war mir klar: der Name muss es sein.
+**Hendrike:** Als ich damals begonnen habe, meine eigene Kosmetiklinie zu entwickeln, habe ich nach einem Namen gesucht, der süß ist, den man sich gut merken kann und der etwas mit meiner Heimatstadt Berlin zu tun hat. Irgendwann ist mir Pony Hütchen, die Cousine von Emil aus dem Kinderbuchklassiker "Emil und die Detektive" eingefallen und da war mir klar: der Name muss es sein.
 
-**Anne:** Ich liebe „Emil und die Detektive“! Das Buch habe ich auch immer noch im Regal stehen. Ich sollte es mal wieder lesen! Das ist so eine schöne Geschichte! Wie bist Du auf die Idee gekommen, vegane Kosmetikprodukte selbst herzustellen?
+**Anne:** Ich liebe "Emil und die Detektive"! Das Buch habe ich auch immer noch im Regal stehen. Ich sollte es mal wieder lesen! Das ist so eine schöne Geschichte! Wie bist Du auf die Idee gekommen, vegane Kosmetikprodukte selbst herzustellen?
 
 **Hendrike:** Zum Einen habe ich mich selbst mehr und mehr mit veganer Ernährung auseinandergesetzt. Ich habe mich ziemlich schnell dazu entschieden, tierische Inhaltsstoffe durch pflanzliche zu ersetzen. Das Beste ist: Das ist ohne Qualitätsverlust möglich. Statt Bienenwachs findet man in meinen Produkten Sojawachs, welches biologisch hergestellt wird oder statt Milchpulver oder Sahnepulver wird duftendes Kokosmilchpulver verwendet.
 
-**Anne:** Als Veganer muss man häufig eine längere Suche in Kauf nehmen, wenn man ein bestimmtes Kosmetikprodukt sucht. Was meinst Du, wird sich das in Zukunft ändern? Kommen nach und nach auch die „großen“ Hersteller auf die Idee, etwas an ihren Produktionsgewohnheiten zu ändern?
+**Anne:** Als Veganer muss man häufig eine längere Suche in Kauf nehmen, wenn man ein bestimmtes Kosmetikprodukt sucht. Was meinst Du, wird sich das in Zukunft ändern? Kommen nach und nach auch die "großen" Hersteller auf die Idee, etwas an ihren Produktionsgewohnheiten zu ändern?
 
-## „Auch große Hersteller werden mittelfristig ihre Rezepturen ändern“
+## "Auch große Hersteller werden mittelfristig ihre Rezepturen ändern"
 
 <RemoteImage
   alt={`Pony Hütchen`}
@@ -83,7 +83,7 @@ Jetzt hatte ich die großartige Gelegenheit, mich mit Hendrike, der Gründerin v
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYEBQcI/8QALRAAAgEDAwIDBwUAAAAAAAAAAQIDBAURABIhEzEGIkEHFBUyUWGBIyQzQnH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQIE/8QAGhEBAQEBAAMAAAAAAAAAAAAAAREAAhIhMf/aAAwDAQACEQMRAD8A3iG2W9bpTvLQ07SjOGMYJHGmHaqSxKoCjDcAY+mueLl7R6rwcLNUVXWucU1Z0pfd0RY9pHKqcAtIOO+ByOeeNpudxWooG2SCESUxljkdgmAdh5J7EZ51kiFcuuEmsZLlDKkghfLK+3ynOR6Hj01R+IIJ28PyU1IssLTNtDJkEliSef8AdL1ypWntqR2+6zdZpEad4a4YHHPnBA5/HbQ5rNLT0FW8dVUt1NqOwrHlwM9z5jjU+XqZnEfuVb3SmitFvqXss1de6OWG5rbWgHlhRiJCrsD587Tn7ADvqXYL+8xEFbRVLxR07ncjDJUsTtIYfNlj6/17adLfSwQbJ7T13eP+OOWTcgyMg5bnuSQR66JVwVtc/wC6hkVp3MccohVwCF4ZsN2+/OrVGJrUTLl1qaSKCQ10i09NI8aU8UtN1HjbB+faCDjI47DHrnQb7UUlXQNSo9vRWkRm/UPOM8sABxjnH41O8T2C8fCYnhpYq6rilSRjD3IB8xCHu2O2eNZ94hp701RS3f4bNSz4ZJFSMoIxuOA4XOzgA/Tk6JCuOZ0w3//Z"
 />
 
-**Hendrike:** Ich gehe davon aus, dass mittelfristig auch große Hersteller ihre Rezepturen ändern werden. „Vegan“ ist als Thema mitten in der Gesellschaft angekommen und keine Randerscheinung mehr.
+**Hendrike:** Ich gehe davon aus, dass mittelfristig auch große Hersteller ihre Rezepturen ändern werden. "Vegan" ist als Thema mitten in der Gesellschaft angekommen und keine Randerscheinung mehr.
 
 **Anne:** Wird das den kleineren Manufakturen wie Pony Hütchen eher schaden, oder sorgt das für mehr gesunden Wettbewerb?
 
@@ -95,11 +95,11 @@ Emotional wird ein handgemachtes Produkt den Menschen immer näher stehen, als e
 
 **Anne:** Wie lange lebst Du selbst schon vegan? Was war Dein Auslöser? Hattest Du ein Vorbild?
 
-**Hendrike:** Ich lebe nicht komplett vegan, vermeide aber tierische Produkte, so gut es geht. Der Kontakt mit Kathrin von „ein bisschen vegan“ hat mich dazu motiviert, komplett auf pflanzliche Milch umzusteigen. Die Gespräche mit einer Freundin, die seit etlichen Jahren vegan lebt, haben für mich auch einen entscheidenden Einfluss gehabt.
+**Hendrike:** Ich lebe nicht komplett vegan, vermeide aber tierische Produkte, so gut es geht. Der Kontakt mit Kathrin von "ein bisschen vegan" hat mich dazu motiviert, komplett auf pflanzliche Milch umzusteigen. Die Gespräche mit einer Freundin, die seit etlichen Jahren vegan lebt, haben für mich auch einen entscheidenden Einfluss gehabt.
 
 **Anne:** Dein wichtigstes Argument für vegan?
 
-## „Nachhaltigkeit und Ressourcenschonung steht im Vordergrund“
+## "Nachhaltigkeit und Ressourcenschonung steht im Vordergrund"
 
 <RemoteImage
   alt={`Pony Hütchen`}
@@ -114,7 +114,7 @@ Emotional wird ein handgemachtes Produkt den Menschen immer näher stehen, als e
 
 **Anne:** Wie erklärst Du es Dir, dass auch heute weltweit noch [Tierversuche](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/) (z. B. für Firmen, die ihre Produkte auch in China vertreiben, dort sind sie nach wie vor vorgeschrieben) gemacht werden, obwohl man doch längt herausgefunden hat, dass die Ergebnisse nicht vom Tier auf den Menschen übertragbar sind?
 
-**Hendrike:** Ich denke, dass das viel mit der Einstellung „Das haben wir schon immer so gemacht“ zusammenhängt. Es fällt vielen Menschen schwer, sich aus überkommenen Denkstrukturen zu lösen und alternative Ansätze zu akzeptieren.
+**Hendrike:** Ich denke, dass das viel mit der Einstellung "Das haben wir schon immer so gemacht" zusammenhängt. Es fällt vielen Menschen schwer, sich aus überkommenen Denkstrukturen zu lösen und alternative Ansätze zu akzeptieren.
 
 Mir ist auch nach wie vor nicht klar, wofür man eigentlich diese Versuche macht. Zum jetzigen Zeitpunkt kann man auf so viele erprobte, bewährte Zutaten und Rezepte zurückgreifen, dass man diese Neuentwicklungen mit den exotischen Namen doch wirklich nicht braucht.
 
@@ -124,7 +124,7 @@ Mir ist auch nach wie vor nicht klar, wofür man eigentlich diese Versuche macht
 
 **Anne:** Was ist Dein Lieblingsduft? Ändert er sich ab und zu oder bleibt er immer gleich? Manche Menschen (so wie ich) haben ja im Sommer ein Lieblingsparfum und eins im Winter. Ist das bei Dir auch so?
 
-**Hendrike:** Ich liebe den Duft „a perfect match(a)“, in den könnte ich mich reinlegen. Ganz neu ist die Duftrichtung „dandyrella“, das ist eine ätherische Ölmischung aus Kardamom, Zeder und Wacholder, die sehr ledrig, erdig und warm daherkommt. Außergewöhnlich, aber richtig richtig toll, wie ich finde.
+**Hendrike:** Ich liebe den Duft "a perfect match(a)", in den könnte ich mich reinlegen. Ganz neu ist die Duftrichtung "dandyrella", das ist eine ätherische Ölmischung aus Kardamom, Zeder und Wacholder, die sehr ledrig, erdig und warm daherkommt. Außergewöhnlich, aber richtig richtig toll, wie ich finde.
 
 **Anne:** Das klingt definitiv so, als könnte der was für mich sein, ich werde ihn wohl demnächst mal testen müssen. Was war das erste Produkt, das Du verkauft hast?
 
@@ -161,9 +161,9 @@ Mir ist auch nach wie vor nicht klar, wofür man eigentlich diese Versuche macht
 
 **Hendrike:** Oh nein, dafür bin ich viel zu neugierig. Ich liebe es, Produkte anderer Firmen auszuprobieren und mit meinen eigenen zu kombinieren. Vermutlich würde ich es auch gar nicht ertragen, nur meine eigenen Produkte zu riechen (lacht).
 
-Derzeit verwende ich die Soleseife „keep calm“, ein Peeling von Lady Green und dann je nach Lust und Laune eine Tagescreme von human + kind oder Hydrolatgel und Gesichtsöl von PonyHütchen.
+Derzeit verwende ich die Soleseife "keep calm", ein Peeling von Lady Green und dann je nach Lust und Laune eine Tagescreme von human + kind oder Hydrolatgel und Gesichtsöl von PonyHütchen.
 
-**Anne:** Vervollständige diesen Satz: „Damit wir in Zukunft nachhaltiger leben können, ist es besonders wichtig...“
+**Anne:** Vervollständige diesen Satz: "Damit wir in Zukunft nachhaltiger leben können, ist es besonders wichtig..."
 
 **Hendrike:** ...dass jede/r das macht, was ihm oder ihr möglich ist.
 
@@ -203,7 +203,7 @@ In Bad Zurzach werden wir ab April einen monatlichen Lagerverkauf anbieten, wo m
 
 **Hendrike:** Oh, 2016 wird definitiv ein spannendes und aufregendes Jahr für mein kleines Unternehmen. Wir sind jetzt gerade in unser Loft umgezogen, wo wir fürs Erste genug Platz für die Produktion haben.
 
-Ab dem 1. Mai werden wir dann einige neue Produkte und Duftlinien vorstellen und auch unsere Baby- und Kinderlinie „Pünktchen &amp; Anton“ ist mit den ersten Produkten soweit. Es wird außerdem auch wieder dekorative Kosmetik von PonyHütchen geben. Parallel dazu arbeite ich derzeit an einer Männerlinie, auf die man auch schon sehr gespannt sein darf.
+Ab dem 1. Mai werden wir dann einige neue Produkte und Duftlinien vorstellen und auch unsere Baby- und Kinderlinie "Pünktchen &amp; Anton" ist mit den ersten Produkten soweit. Es wird außerdem auch wieder dekorative Kosmetik von PonyHütchen geben. Parallel dazu arbeite ich derzeit an einer Männerlinie, auf die man auch schon sehr gespannt sein darf.
 
 **Anne:** Das klingt wirklich sehr spannend! Ich freue mich immer sehr, Neues aus dem Hause Pony Hütchen auszuprobieren! Ich wünsche dir weiterhin viel Erfolg und alles Glück der Welt! Vielen Dank für das spannende Interview!
 

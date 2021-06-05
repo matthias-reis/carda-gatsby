@@ -215,6 +215,6 @@ In our interview, I talked to Sam about the current Of the Vine Album "East The 
 
 <Playlist spotify="3zLKlVQnK9cOdWl8eTmKIf" />
 
-Here are Of The Vine with „An Event Of Moon Disaster“
+Here are Of The Vine with "An Event Of Moon Disaster"
 
 <YouTube id="WzsS0pBXJl8" />

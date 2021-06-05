@@ -40,7 +40,7 @@ subTitle: Brasiliens grünste Stadt
 
 **Im Brasilianischen Curitiba hat man Kindern erklärt, was Recycling ist und welche Vorteile es hat. Das hat dazu geführt, dass die Stadt inzwischen (fast) eine Zero Waste City ist.**
 
-Die Brasilianer haben Curitiba den Namen „Brazils Greenest City“ – „Brasiliens grünste Stadt“ gegeben - und das zu Recht. Schon im Jahr 1989 stellten die Bewohner fest, dass etwas getan werden musste: Die Straßen der Stadt versanken im Müll.
+Die Brasilianer haben Curitiba den Namen "Brazils Greenest City" – "Brasiliens grünste Stadt" gegeben - und das zu Recht. Schon im Jahr 1989 stellten die Bewohner fest, dass etwas getan werden musste: Die Straßen der Stadt versanken im Müll.
 
 Man entschied sich, bei den Jüngsten anzufangen: Spielerisch erklärte man den Kindern, wie Müll sinnvoll getrennt werden kann und welche Vorteile sich daraus ergeben. Die Kinder wuchsen mit diesem nachhaltigen Gedanken auf und unterrichteten wiederum ihre Kinder.
 

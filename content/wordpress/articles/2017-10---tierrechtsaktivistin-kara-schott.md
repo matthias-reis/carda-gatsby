@@ -71,7 +71,7 @@ Als das Teammitglied, das am längsten bei der Tiertafel Hamburg dabei ist, fung
 
 Wir haben das Glück, dass sich viele für uns interessiert haben. So sind zum Beispiel auch die Tierfriseurin und die Physiotherapeutin auf uns zugekommen. Genau wie die Tierärzte, der Tierheilpraktiker und natürlich auch wir, arbeiten sie ehrenamtlich im Projekt mit. Nur so ist es möglich, dass wir das in der Form auch anbieten können.
 
-## „Nach der Futterausgabe ist vor der Futterausgabe“
+## "Nach der Futterausgabe ist vor der Futterausgabe"
 
 <RemoteImage
   alt={`Tiertafel Hamburg`}
@@ -94,7 +94,7 @@ Die Basis bleibt natürlich die Ernährung, im Speziellen die artgerechte Ernäh
 
 **Anne:** Wie läuft denn eine Futterausgabe bei Euch ab?
 
-## „Wir schauen, wie es den Tieren geht“
+## "Wir schauen, wie es den Tieren geht"
 
 <RemoteImage
   alt={`Tiertafel Hamburg`}
@@ -119,7 +119,7 @@ Im Anschluss können die Tierhalter mit ihren Vierbeinern dann je nach Bedarf no
 
 **Anne:** Arbeitet Ihr mit anderen Organisationen hier in Hamburg zusammen?
 
-## „Uns ist es wichtig, Organisationen mit aufzufangen, die keine Unterstützung bekommen“
+## "Uns ist es wichtig, Organisationen mit aufzufangen, die keine Unterstützung bekommen"
 
 <RemoteImage
   alt={`Tiertafel Hamburg`}
@@ -140,7 +140,7 @@ Im Anschluss können die Tierhalter mit ihren Vierbeinern dann je nach Bedarf no
 
 **Kara:** Das ist wirklich ein Problem. Ich finde, das kann man stellvertretend für den gesellschaftlichen Bruch sehen, der im Moment passiert. Früher haben die Geschäfte das Futter, das kurz vor dem Mindesthaltbarkeitsdatum stand, uns gegeben. Heute wird so lange immer wieder reduziert, bis alles verkauft ist. Es kommt mir so vor, als würden die Menschen inzwischen versuchen, alles zu Geld zu machen und aus jedem Rest noch etwas rauszuholen.
 
-## „Es scheint rentabler zu sein, Futter wegzuwerfen, als es zu spenden“
+## "Es scheint rentabler zu sein, Futter wegzuwerfen, als es zu spenden"
 
 Ein weiteres Beispiel dafür ist, dass wir früher ab und zu Ware bekommen haben, bei der die Verpackung auf dem Transportweg beschädigt worden war. Diese Bruchware ist für Händler uninteressant, da sie nicht mehr präsentiert werden kann. Heute wird sie einfach entsorgt. Es ist sehr schwierig geworden, an diese, teilweise kompletten Paletten Ware heranzukommen. Die Händler lehnen sie ab, weil sie nicht mehr schön ist und sie gehen zurück an die Hersteller und werden dort weggeschmissen. Es scheint inzwischen rentabler zu sein, Futter wegzuwerfen, als es zu spenden.
 
@@ -150,7 +150,7 @@ Ein weiteres Beispiel dafür ist, dass wir früher ab und zu Ware bekommen haben
 
 **Anne:** Habt Ihr bei den Spenden mit saisonalen Schwankungen zu tun? Wird zum Beispiel um die Weihnachtszeit viel gespendet und während der Sommerferien wenig?
 
-## „Man darf sich auf nichts verlassen“
+## "Man darf sich auf nichts verlassen"
 
 <RemoteImage
   alt={`Tiertafel Hamburg`}
@@ -163,7 +163,7 @@ Ein weiteres Beispiel dafür ist, dass wir früher ab und zu Ware bekommen haben
 
 **Kara:** Man muss ganz klar sagen: Man darf sich auf nichts verlassen. Man muss immer bei der Sache bleiben und die Menschen daran erinnern, dass man noch da ist. Am besten hält man permanent Kontakt. Anfragen per Mail oder E-Mail beantworten wir zum Beispiel immer extrem schnell, damit wir uns auf keinen Fall eine Spende entgehen lassen.
 
-Viele spenden gerne in der Weihnachtszeit, das gehört auch zur Tradition. Aber es ist und bleibt eben ein Trugschluss, dass die Empfänger der Spenden davon ein ganzes Jahr lang leben können. Viele denken sich auch kurz vor den Feiertagen „Oh je, ich habe das ganze Jahr noch nichts gespendet, jetzt muss ich aber mal was machen.“ Man sollte auf jeden Fall versuchen, das ganze Jahr über zumindest ab und zu an Bedürftige zu denken.
+Viele spenden gerne in der Weihnachtszeit, das gehört auch zur Tradition. Aber es ist und bleibt eben ein Trugschluss, dass die Empfänger der Spenden davon ein ganzes Jahr lang leben können. Viele denken sich auch kurz vor den Feiertagen "Oh je, ich habe das ganze Jahr noch nichts gespendet, jetzt muss ich aber mal was machen." Man sollte auf jeden Fall versuchen, das ganze Jahr über zumindest ab und zu an Bedürftige zu denken.
 
 **Anne:** Seit wann gibt es die Tiertafel Hamburg?
 
@@ -177,7 +177,7 @@ Natürlich muss aber in der Zeit zwischen den Ausgaben auch viel gearbeitet werd
 
 **Anne:** Wie kann man die Tiertafel Hamburg unterstützen?
 
-## „Wir freuen uns über jede Form der Unterstützung“
+## "Wir freuen uns über jede Form der Unterstützung"
 
 <RemoteImage
   alt={`Tiertafel Hamburg`}
@@ -188,7 +188,7 @@ Natürlich muss aber in der Zeit zwischen den Ausgaben auch viel gearbeitet werd
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAL/xAApEAACAQMDAwIHAQAAAAAAAAABAgMEBREAEiEGEzEHFBUiMkFhcYGS/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAHBEAAgIDAQEAAAAAAAAAAAAAAAECEQMSIVFB/9oADAMBAAIRAxEAPwBRe65K+qp73W11JEslwjhaWCUuAIomZsDIKjdIRzwfyBrF6oX+trLXYKX3MzW14pqpZJGC95mkKANtGCRt4zjhv7qeR3CRYpKlZVWZ6qKY7VHDAPk4xjnI0z6YqZ6rqm1R1MiNHU1kSyitJSnYFuN5IIx984OoWLWV+DtaotNBT09JcD1rau9SU8FOsMsCDArWUbXIVSQcA7VyQC4B/OjWWo6jtt79PuoaK22uoioaGhqEYpGqwl1UsNpU5GCQfpGc86NEMfKYOTbshVPDTJZ5pJI3kqlqVVl7hUCPYcEDHncT9/GNcXDKU1qXuOze1Epyfp3SOQP8gH+6qM3Rls9jsDdmJTvO3IJI8Hnz+tLV9L6mpkjkmuwBZVDgwHcABgAc44HGhZo/Tas09NdaUMXR9xt3wOqf3NN2Z2gC9tnKBSznII3Y5wM86NN7D6dUtpnkmeoatUqNscw27SDnPy+f0dGoeaKfClH0/9k="
 />
 
-**Kara:** Vorrangig natürlich durch Futterspenden\*. Dazu kann man sich zum Beispiel im Vorfeld über den Wunschzettel auf unserer Homepage schlau machen, wie eben erwähnt. Außerdem kann man zur Ausgabe kommen und helfen oder Geld spenden: Zum Beispiel für Tierarztkosten, indem man einfach bei seiner Überweisung in den Betreff „Tierarztkosten“ schreibt. Das gilt auch für Spezialfutter. Wenn man unter dem Betreff „Diabetesfutter“ spendet, werden wir das Geld auch für Dieabetesfutter ausgeben. Außerdem suchen wir auch Mietpaten, natürlich bleibt uns das Zahlen der Miete auch nicht erspart (lacht). Wir freuen uns auf jeden Fall über jede Form der Unterstützung.
+**Kara:** Vorrangig natürlich durch Futterspenden\*. Dazu kann man sich zum Beispiel im Vorfeld über den Wunschzettel auf unserer Homepage schlau machen, wie eben erwähnt. Außerdem kann man zur Ausgabe kommen und helfen oder Geld spenden: Zum Beispiel für Tierarztkosten, indem man einfach bei seiner Überweisung in den Betreff "Tierarztkosten" schreibt. Das gilt auch für Spezialfutter. Wenn man unter dem Betreff "Diabetesfutter" spendet, werden wir das Geld auch für Dieabetesfutter ausgeben. Außerdem suchen wir auch Mietpaten, natürlich bleibt uns das Zahlen der Miete auch nicht erspart (lacht). Wir freuen uns auf jeden Fall über jede Form der Unterstützung.
 
 **Anne:** Gibt es auch in anderen Städten Tiertafeln?
 
@@ -196,9 +196,9 @@ Natürlich muss aber in der Zeit zwischen den Ausgaben auch viel gearbeitet werd
 
 **Anne:** Wie kommt das, dass es eher weniger Tiertafeln werden, als mehr? Liegt das nur daran, dass weniger gespendet wird?
 
-**Kara:** Zum einen das, zum anderen ist es auch sehr schwierig, Menschen zu finden, die wirklich unermüdlich bei der Sache bleiben, Futter beschaffen und auf die Futtertafel aufmerksam machen. Ich persönlich habe auch lange gezögert, bis ich mich dafür entschieden habe, mal einen Merchandise-Stand zu machen. Aber man trifft nach inzwischen mehr als 12 Jahren immer noch Leute die sagen „Ihr macht einen tollen Job! Ich wusste gar nicht, dass es Euch gibt!“ Das sagt mir in erster Linie eins: Es ist sehr wichtig, immer am Ball bleiben und sich auf allen Kanälen zu präsentieren. Wir haben zum Beispiel eine App, nutzen Facebook und Instagram. Man muss mit der Presse zusammenarbeiten mit dem Fernsehen und die sozialen Medien nutzen.
+**Kara:** Zum einen das, zum anderen ist es auch sehr schwierig, Menschen zu finden, die wirklich unermüdlich bei der Sache bleiben, Futter beschaffen und auf die Futtertafel aufmerksam machen. Ich persönlich habe auch lange gezögert, bis ich mich dafür entschieden habe, mal einen Merchandise-Stand zu machen. Aber man trifft nach inzwischen mehr als 12 Jahren immer noch Leute die sagen "Ihr macht einen tollen Job! Ich wusste gar nicht, dass es Euch gibt!" Das sagt mir in erster Linie eins: Es ist sehr wichtig, immer am Ball bleiben und sich auf allen Kanälen zu präsentieren. Wir haben zum Beispiel eine App, nutzen Facebook und Instagram. Man muss mit der Presse zusammenarbeiten mit dem Fernsehen und die sozialen Medien nutzen.
 
-## „Stillstand ist Rückstand“
+## "Stillstand ist Rückstand"
 
 <RemoteImage
   alt={`Tiertafel Hamburg`}
@@ -213,9 +213,9 @@ Viele Tiertafler möchten im Grunde ihres Herzens einfach nur für die bedürfti
 
 **Anne:** Was steht denn als nächstes auf dem Programm in Sachen Tiertafel?
 
-**Kara:** Am 13. Dezember findet unsere Weihnachtsausgabe statt. Wir machen einmal im Jahr eine Weihnachtsausgabe in der Kirche zum „Zum guten Hirten“ im Försterweg in Hamburg Langenfelde. Für viele unserer Kunden gibt es keinen Grund, Weihnachten als Fest der Liebe zu feiern.
+**Kara:** Am 13. Dezember findet unsere Weihnachtsausgabe statt. Wir machen einmal im Jahr eine Weihnachtsausgabe in der Kirche zum "Zum guten Hirten" im Försterweg in Hamburg Langenfelde. Für viele unserer Kunden gibt es keinen Grund, Weihnachten als Fest der Liebe zu feiern.
 
-## „Die Futterausgabe vor Weihnachten ist extrem wichtig“
+## "Die Futterausgabe vor Weihnachten ist extrem wichtig"
 
 Die Futterausgabe vor Weihnachten ist für unsere Kunden und uns extrem wichtig. Wir möchten ihnen gerne etwas zurückgeben. Es ist zum Beispiel auch ein Pastor vor Ort, der die Tiere segnet und es gibt eine Andacht. Das Ganze ist eine sehr emotionale Angelegenheit. Dieses Fest zeigt einfach vielen, dass sie es im Leben nicht leicht haben. Häufig wendet sich ja auch der Freundeskreis und die Familie ab. Kinder lassen ihre Eltern im Stich, Eltern ihre Kinder. Das wird bei unserer Weihnachtsausgabe sehr deutlich.
 

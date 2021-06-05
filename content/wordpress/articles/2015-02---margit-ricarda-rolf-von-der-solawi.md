@@ -214,7 +214,7 @@ Ich habe mich mit Margit Ricarda Rolf, einer der Gründerinnen unterhalten. Sie 
 
 **Anne:** Vor kurzem las ich einen faszinierenden Artikel über die Rettung alter Sorten. Steht das auch auf eurer Agenda?
 
-**Ricarda:** Das ergibt sich ja schon aus meiner „Kampfansage“ an **Monsanto** . Wir wollen mit samenfesten Sorten arbeiten und uns vernetzen.
+**Ricarda:** Das ergibt sich ja schon aus meiner "Kampfansage" an **Monsanto** . Wir wollen mit samenfesten Sorten arbeiten und uns vernetzen.
 
 **Anne:** Wir haben verlernt, was guter Geschmack ist. Erst vor Kurzem unterhielt ich mich mit einer Köchin über das Thema. Das Gemüse, das wir im Laden bekommen, ist nur noch darauf gezüchtet, möglichst gut auszusehen. Wie konnte es dazu kommen?
 

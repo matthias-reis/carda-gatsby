@@ -69,7 +69,7 @@ Laut Aussage der Forscher ist das Enzym unter anderem dazu in der Lage, PET sowi
 
 Ziel der Forschungen war es ursprünglich, die Struktur des Enzyms zu studieren. Aus Versehen kam es dabei dazu, dass ein neues Enzym entwickelt wurde, welches noch besser, als sein auf der Müllkippe entdeckter Verwandter dazu in der Lage ist, die Bestandteile von PET aufzubrechen.
 
-„Wir haben im Rahmen des Protein-Engineerings völlig aus Versehen ein Enzym mit verbesserter Leistung entwickelt und sind damit bereits einen großen Schritt weiter, als es zum jetzigen Zeitpunkt im Plan stand.“, erzählte Gregg Beckham, Forscher bei NREL gegenüber CNN.
+"Wir haben im Rahmen des Protein-Engineerings völlig aus Versehen ein Enzym mit verbesserter Leistung entwickelt und sind damit bereits einen großen Schritt weiter, als es zum jetzigen Zeitpunkt im Plan stand.", erzählte Gregg Beckham, Forscher bei NREL gegenüber CNN.
 
 ## Bahnbrechende Entwicklung in Sachen Umweltschutz
 

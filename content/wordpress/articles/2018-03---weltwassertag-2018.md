@@ -7,8 +7,8 @@ typeName: Artikel
 title: Weltwassertag 2018
 seoTitle: Weltwassertag 2018 - Naturbasierte Lösungen für das Wasser
 ogTitle: Weltwassertag 2018 - Naturbasierte Lösungen für das Wasser
-description: In diesem Jahr dreht sich beim Weltwassertag alles um das Thema „Naturbasierte Lösungen für das Wasser“. Zeit, über unsere Wasserverschwendung nachzudenken.
-excerpt: In diesem Jahr dreht sich beim Weltwassertag alles um das Thema „Naturbasierte Lösungen für das Wasser“. Zeit, über unsere Wasserverschwendung nachzudenken.
+description: In diesem Jahr dreht sich beim Weltwassertag alles um das Thema "Naturbasierte Lösungen für das Wasser". Zeit, über unsere Wasserverschwendung nachzudenken.
+excerpt: In diesem Jahr dreht sich beim Weltwassertag alles um das Thema "Naturbasierte Lösungen für das Wasser". Zeit, über unsere Wasserverschwendung nachzudenken.
 fileName: 2018-03---weltwassertag-2018.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_03_11153925974_fe91f672d3_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_03_11153925974_fe91f672d3_z__l.jpg
@@ -34,7 +34,7 @@ subTitle: Naturbasierte Lösungen für das Wasser
 
 Vorgeschlagen wurde der Tag im Rahmen der Agenda 21 der UN-Konferenz für Umwelt und Entwicklung (UNCED). Die UN-Generalversammlung beschloss am 22. Dezember 1992 im Rahmen einer Resolution die feste Einführung des Tages.
 
-Der Weltwassertag steht jedes Jahr unter einem bestimmten Motto. [2017 war das Thema „Abwasser“](/2017/03/der-internationale-weltwassertag-2017/), 2016 „Wasser und Arbeitsplätze“. In diesem Jahr dreht sich alles um das Thema „Naturbasierte Lösungen für das Wasser“.
+Der Weltwassertag steht jedes Jahr unter einem bestimmten Motto. [2017 war das Thema "Abwasser"](/2017/03/der-internationale-weltwassertag-2017/), 2016 "Wasser und Arbeitsplätze". In diesem Jahr dreht sich alles um das Thema "Naturbasierte Lösungen für das Wasser".
 
 ## Natürliche Wasserspeicher nutzen
 
@@ -74,7 +74,7 @@ Auch, wenn sie für viele von uns vielleicht schon fester Bestandteil des Tagesa
 
 ## Weltwassertag – Wie wirkt sich Massentierhaltung auf den Wasserverbrauch aus?
 
-Was mir persönlich auffällt ist, dass schon seit Jahren das Thema Massentierhaltung fehlt. Ganz ehrlich? Ich wünsche mir einen Weltwassertag unter dem Motto „Wie wir durch den Verzicht auf Lebensmittel tierischen Ursprungs den globalen Wasserverbrauch drastisch senken können“.
+Was mir persönlich auffällt ist, dass schon seit Jahren das Thema Massentierhaltung fehlt. Ganz ehrlich? Ich wünsche mir einen Weltwassertag unter dem Motto "Wie wir durch den Verzicht auf Lebensmittel tierischen Ursprungs den globalen Wasserverbrauch drastisch senken können".
 
 Der Wasserverbrauch in der Fleischproduktion ist unfassbar groß. Um nur ein Kilo Rindfleisch zu produzieren, werden zum Beispiel mehr als 15.000 Liter Wasser verbraucht. Zum Vergleich: Ein durchschnittlicher Westeuropäer verbraucht am Tag rund 130 Liter Wasser. Wäschewaschen und Duschen eingeschlossen. Von der Unesco gibt es dazu eine grafische Darstellung:
 

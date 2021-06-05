@@ -125,7 +125,7 @@ Das Festival-Handtuch: Meine Oma hat es mir zu Lebzeiten aus Florida mitgebracht
 
 ## Handtuch No. 5
 
-Ich habe es vor Kurzem beim Tuchhändler meines Vertrauens erworben, es gefiel mir, weil es schön bunt, ausreichend groß und zu dem dünn ist. Sollte, was ich nicht hoffe, das Festival-Handtuch eines Tages das Zeitliche segnen, hat es evtl. Chancen, seinen Platz einzunehmen. Erzählt das ab bitte nicht dem Festival-Handtuch! Natürlich wird das noch etliche Jahre dauern und das „Kaufhandtuch“ muss natürlich auch erst noch eine Geschichte kriegen. Aber glaubt mir: Spätestens nach dem ersten [Baggersee-Besuch](/2011/08/lieder-am-ufer/) wird es schon was zu erzählen haben
+Ich habe es vor Kurzem beim Tuchhändler meines Vertrauens erworben, es gefiel mir, weil es schön bunt, ausreichend groß und zu dem dünn ist. Sollte, was ich nicht hoffe, das Festival-Handtuch eines Tages das Zeitliche segnen, hat es evtl. Chancen, seinen Platz einzunehmen. Erzählt das ab bitte nicht dem Festival-Handtuch! Natürlich wird das noch etliche Jahre dauern und das "Kaufhandtuch" muss natürlich auch erst noch eine Geschichte kriegen. Aber glaubt mir: Spätestens nach dem ersten [Baggersee-Besuch](/2011/08/lieder-am-ufer/) wird es schon was zu erzählen haben
 
 <RemoteImage
   alt={`Kauf-Handtuch`}

@@ -91,7 +91,7 @@ Jetzt hat sich Tobi auch meinem Interview gestellt und mir einiges über sein Le
 
 **Anne:** Du kommst ursprünglich aus der IT. Wann hast Du die Fotografie für Dich entdeckt, beziehungsweise wann hast Du dann entschieden, dass Du das jetzt auch beruflich machen möchtest?
 
-**Tobi:** Ich fotografiere seit circa vier Jahren, aber in den letzten beiden Jahren mit sehr hoher Intensität. Wenn Du irgendwann merkst, dass Dein täglicher IT-Bürojob Dich nur noch nervt, fängst Du an über Dein Leben und den Sinn deines Schaffens nachzudenken. Die berühmte „Warum“-Frage tauchte immer mehr auf und ich fing an mich mit Persönlichkeitsentwicklung zu beschäftigen. Dabei wurde mir immer klarer, dass ich meinen Leidenschaften folgen sollte und eine  besonders große ist bei mir die Fotografie.
+**Tobi:** Ich fotografiere seit circa vier Jahren, aber in den letzten beiden Jahren mit sehr hoher Intensität. Wenn Du irgendwann merkst, dass Dein täglicher IT-Bürojob Dich nur noch nervt, fängst Du an über Dein Leben und den Sinn deines Schaffens nachzudenken. Die berühmte "Warum"-Frage tauchte immer mehr auf und ich fing an mich mit Persönlichkeitsentwicklung zu beschäftigen. Dabei wurde mir immer klarer, dass ich meinen Leidenschaften folgen sollte und eine  besonders große ist bei mir die Fotografie.
 
 **Anne:** Gibt es eine besondere Begebenheit aus Deinem Leben als Fotograf, an die Du Dich immer wieder erinnerst?
 
@@ -108,11 +108,11 @@ Jetzt hat sich Tobi auch meinem Interview gestellt und mir einiges über sein Le
 
 **Tobi:** Es gibt sehr viele schöne Momente, vor allem aus der Landschaftsfotografie. Dabei ist man oft ganz allein und mit der Natur verbunden. Als ich auf der wunderschönen Nordsee Hallig Hooge zum Sonnenuntergang ganz allein, beziehungsweise in Begleitung zahlreicher Vögel, den Sonnenuntergang fotografieren durfte, war das so ein magischer Moment, an den ich mich gerne erinnere.
 
-**Anne:** Du hast mir erzählt, dass Dir mein Motto „Rock 'n' Roll vegan“ gut gefällt. Was verbindet Dich mit dem Rock 'n' Roll? Welche Bands bedeuten Dir besonders viel? Gibt es einen besonderen Song, der bei Dir im Moment hoch und runter läuft?
+**Anne:** Du hast mir erzählt, dass Dir mein Motto "Rock 'n' Roll vegan" gut gefällt. Was verbindet Dich mit dem Rock 'n' Roll? Welche Bands bedeuten Dir besonders viel? Gibt es einen besonderen Song, der bei Dir im Moment hoch und runter läuft?
 
 **Tobi:** Haha ich finde die Idee super, vor allem weil es nicht so ein typischer Standard-Veganer-Blog ist. Ich höre sehr gerne Musik aus den 50ern oder 60ern. Die Musiker von damals haben einen Sound kreiert, der immer noch in vielen modernen Rocksongs steckt. Ich mochte schon immer Chuck Berry, Little Richard und Jimi Hendrix. In ihrer Musik steckt eine rebellische Message und noch dazu klingt sie verdammt gut. Ich spiele selbst auch Gitarre - vielleicht kommt daher meine Begeisterung für Musikgeschichte und die unterschiedlichen Genres des Rocks.
 
-Ich habe immer mal wieder Phasen, in denen ich die alten Songs höre, spontan fällt mir im Moment „The Wind Cries Mary“ von Jimi Hendrix ein.
+Ich habe immer mal wieder Phasen, in denen ich die alten Songs höre, spontan fällt mir im Moment "The Wind Cries Mary" von Jimi Hendrix ein.
 
 **Anne:** Egal, ob die Umstellung auf vegan oder Dein Beruf als Fotograf: Gibt es Menschen, die Dich besonders beeinflusst haben auf Deinem bisherigen Weg? Hast Du ein spezielles Vorbild?
 

@@ -43,7 +43,7 @@ Eine tolle Sache, die Nachahmer sucht. In einigen Städten gibt es schon ähnlic
 
 Gemeinhin steht ein Zaun ja nicht unbedingt für Menschlichkeit, Nächstenliebe und Verständnis. Eher für Trennung, Abschirmung und Distanzierung. Es ist an der Zeit, das zu ändern. Danke für das tolle Projekt, durch das aus Abgrenzung Mitgefühl wurde, aus Spaltung Solidarität.
 
-Der Hamburger Gabenzaun hat übrigens auch eine eigene [Facebook-Seite](http://Aus einem Zaun, der von der Stadt dazu gedacht ist Obdachlose vom Hauptbahnhof zu vertreiben, wurde über Nacht ein Gabenzaun, der Spenden für Bedürftige sammelt. Am Hamburger Hauptbahnhof gibt es seit kurzem einen Gabenzaun, an dem öffentlich Spenden für Bedürftige gesammelt werden. Verwendbare Sach- oder Lebensmittelspenden können in transparente Tüten verpackt an den Zaun gehängt werden. Obdachlose und Bedürftige können die „Gaben“ anschließend anonym mitnehmen.). Dort könnt Ihr alles über das Projekt erfahren.
+Der Hamburger Gabenzaun hat übrigens auch eine eigene [Facebook-Seite](http://Aus einem Zaun, der von der Stadt dazu gedacht ist Obdachlose vom Hauptbahnhof zu vertreiben, wurde über Nacht ein Gabenzaun, der Spenden für Bedürftige sammelt. Am Hamburger Hauptbahnhof gibt es seit kurzem einen Gabenzaun, an dem öffentlich Spenden für Bedürftige gesammelt werden. Verwendbare Sach- oder Lebensmittelspenden können in transparente Tüten verpackt an den Zaun gehängt werden. Obdachlose und Bedürftige können die "Gaben" anschließend anonym mitnehmen.). Dort könnt Ihr alles über das Projekt erfahren.
 
 <RemoteImage
   alt={`Hamburger Gabenzaun`}

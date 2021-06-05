@@ -42,7 +42,7 @@ Gleich als Nächstes stechen mir die Autos ins Auge. Überall stehen geparkte Au
 
 Wer jetzt glaubt, endlich die Erklärung für die weltberühmte Redewendung "alter Schwede" gefunden zu haben: Weit gefehlt. Die Online-Enzyklopädie deckt sich da mit dem Herkunftswörterbuch. Hier ein Auszug aus Wikipedia:
 
-> "Nach Ende des Dreißigjährigen Krieges ließ Kurfürst Friedrich Wilhelm von Brandenburg bewährte und erfahrene Schwedische Soldaten für sein Heer als Ausbilder anwerben. Weil sie sich besonders gut auf den Drill verstanden, wurden sie meist als Unteroffiziere eingesetzt. In der Soldatensprache wurden diese Korporale dann kurzweg „die alten Schweden“ genannt."
+> "Nach Ende des Dreißigjährigen Krieges ließ Kurfürst Friedrich Wilhelm von Brandenburg bewährte und erfahrene Schwedische Soldaten für sein Heer als Ausbilder anwerben. Weil sie sich besonders gut auf den Drill verstanden, wurden sie meist als Unteroffiziere eingesetzt. In der Soldatensprache wurden diese Korporale dann kurzweg "die alten Schweden" genannt."
 
 ## Damit wäre das auch geklärt.
 

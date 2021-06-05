@@ -51,11 +51,11 @@ Immer mehr Menschen probieren auch mal **pflanzliche Milch** (zu erkennen am wac
 
 ## Pythagoras hatte recht!
 
-„Alles, was der Mensch den Tieren antut, kommt auf den Menschen wieder zurück.“ Ich denke, dass man diesen weltberühmten Satz ausweiten darf auf „Alles, was der Mensch der Natur antut, kommt auf den Menschen zurück“. Das ist sicherlich auch das, was **Pythagoras** damit gemeint hat.
+"Alles, was der Mensch den Tieren antut, kommt auf den Menschen wieder zurück." Ich denke, dass man diesen weltberühmten Satz ausweiten darf auf "Alles, was der Mensch der Natur antut, kommt auf den Menschen zurück". Das ist sicherlich auch das, was **Pythagoras** damit gemeint hat.
 
 Wann, wenn nicht jetzt? Die Zeit für ein kollektives Umdenken ist gekommen. Nur eine **tierleidfreie Zukunft** hat Zukunft.
 
-Wie schrieb die Zitty Berlin[^2] das gestern so schön „Die Zeit ist reif, faule Kompromisse über Bord zu werfen. Nie war es einfacher und notwendiger, ohne tierische Produkte zu leben, als heute.“
+Wie schrieb die Zitty Berlin[^2] das gestern so schön "Die Zeit ist reif, faule Kompromisse über Bord zu werfen. Nie war es einfacher und notwendiger, ohne tierische Produkte zu leben, als heute."
 
 ## Das Leid der Milchrinder
 
@@ -74,7 +74,7 @@ Im Privatfernsehen läuft derweil die Wurstwerbung weiterhin rund und sogenannte
 
 ## Das Unwort unseres Zeitalters
 
-Wie lange noch? Wie lange, bis wir uns das kollektiv nicht mehr gefallen lassen werden? Werden eines Tages Warnhinweise auf Milchtüten zu finden sein? „Milchkonsum schadet der Gesundheit“? Zu diesem Thema habe ich mich ja vor kurzem schon mal sehr ausführlich [hier ausgelassen](/2014/09/pflanzenmilch-wieso-denn-blos/). Doch zum Glück begreifen wir nach und nach, was das Unwort unseres Zeitalters ist: **Nutztier** .
+Wie lange noch? Wie lange, bis wir uns das kollektiv nicht mehr gefallen lassen werden? Werden eines Tages Warnhinweise auf Milchtüten zu finden sein? "Milchkonsum schadet der Gesundheit"? Zu diesem Thema habe ich mich ja vor kurzem schon mal sehr ausführlich [hier ausgelassen](/2014/09/pflanzenmilch-wieso-denn-blos/). Doch zum Glück begreifen wir nach und nach, was das Unwort unseres Zeitalters ist: **Nutztier** .
 
 ## Vegan - Wir machen mit!
 

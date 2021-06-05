@@ -178,7 +178,7 @@ In jeder Stadt gibt es diverse Obdachlosenhilfen, wie etwa die Stadtmissionen od
 
 **Anne:** Eine Sache, die einfach Jede/r tun sollte, damit wir fairer im Umgang miteinander werden?
 
-**Matthias:** Uns an  Immanuel Kant erinnern: „Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde.“ Und zwar global!
+**Matthias:** Uns an  Immanuel Kant erinnern: "Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde." Und zwar global!
 
 **Anne:** dein nächstes Projekt?
 

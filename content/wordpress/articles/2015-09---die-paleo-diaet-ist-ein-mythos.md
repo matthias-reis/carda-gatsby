@@ -38,7 +38,7 @@ Die Forscherin Marta Mariotti Lippi fand mit ihrem Team von der Universität Flo
 
 Auf der Grundlage dieser Entdeckung brachten weitere Forschungen ans Licht, dass die Menschen bereits in der Frühsteinzeit Mehl zu flachen Broten weiterverarbeitet haben.
 
-> „Das ist nicht der einzige Beweis dafür, dass die Menschen in dieser Zeit bereits Getreide gegessen haben.“,
+> "Das ist nicht der einzige Beweis dafür, dass die Menschen in dieser Zeit bereits Getreide gegessen haben.",
 
 so Lippi. In Mittelitalien wurden Speisen aus wildem Weizen zubereite. Auch in Russland wurde bereits Mehl gemahlen. Welches Getreide dort verwendet wurde, hat man noch nicht herausgefunden.
 

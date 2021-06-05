@@ -63,7 +63,7 @@ Ich habe mich daher jetzt mit Daniel zum Interview verabredet und ihm dabei mal 
 
 **Daniel:** Bis 17:00 Uhr trinke ich gerne noch Grünen oder Weißen Tee. Da ich spät schlafen gehe, ist das kein Problem.
 
-**Anne:** Neulich habe ich hier im Blog eine Dame interviewt, die ein [wertvolles Nahrungsergänzungsmittel](/2017/03/tigovit-interview/) aus grünem Tee herstellt. Ich habe ihr die schöne Frage gestellt, ob sie morgens nach dem Aufstehen lieber Tee oder Kaffee trinkt. Interessanterweise hat sie mit „Kaffee“ geantwortet. Wie ist es bei Dir? Überraschst Du mich auch?
+**Anne:** Neulich habe ich hier im Blog eine Dame interviewt, die ein [wertvolles Nahrungsergänzungsmittel](/2017/03/tigovit-interview/) aus grünem Tee herstellt. Ich habe ihr die schöne Frage gestellt, ob sie morgens nach dem Aufstehen lieber Tee oder Kaffee trinkt. Interessanterweise hat sie mit "Kaffee" geantwortet. Wie ist es bei Dir? Überraschst Du mich auch?
 
 ## "Morgens trinke ich Schwarzen Tee"
 
@@ -88,7 +88,7 @@ Kaffee ist ein tolles Getränk auf das ich nicht verzichten mag. Allerdings beko
 
 **Daniel:** Das hat sich im Alter eingeschlichen (grinst). Früher habe ich eher selten Tee getrunken.
 
-**Anne:** _Smecket_ ist besonders. Bei der Sorte „Kokos &amp; Ananas“ esse ich sogar regelmäßig den „Trester“ mit (wie nennt man das bei Tee?), so gut schmecken die Früchte darin. Wo beziehst Du die leckeren Zutaten für Deine Teesorten?
+**Anne:** _Smecket_ ist besonders. Bei der Sorte "Kokos &amp; Ananas" esse ich sogar regelmäßig den "Trester" mit (wie nennt man das bei Tee?), so gut schmecken die Früchte darin. Wo beziehst Du die leckeren Zutaten für Deine Teesorten?
 
 ## Alle Zutaten stammen von bio-zertifizierten Händlern
 
@@ -111,7 +111,7 @@ Kaffee ist ein tolles Getränk auf das ich nicht verzichten mag. Allerdings beko
 
 **Daniel:** Ja, das ist traurig und fördert nicht unbedingt das Vertrauen in ein so tolles Lebensmittel. Daher verkaufen wir ausschließlich Bio-Tees, denn die Bio-Zertifizierung stellt sicher, dass die Tees frei von Giften sind.
 
-**Anne:** Alle Tees von Smecket sind als „vegan“ und „biologisch“ gekennzeichnet. War es schwierig, an diese Siegel ranzukommen?
+**Anne:** Alle Tees von Smecket sind als "vegan" und "biologisch" gekennzeichnet. War es schwierig, an diese Siegel ranzukommen?
 
 ## Vegan und bio
 
@@ -172,7 +172,7 @@ Kaffee ist ein tolles Getränk auf das ich nicht verzichten mag. Allerdings beko
 
 **Daniel:** Die Grünen und Weißen Tees enthalten Koffein und machen dementsprechend munter. Allerdings sind sie in ihrer Wirkung etwas milder als Kaffee oder Schwarzer Tee, was ich sehr angenehm finde. Empfehlen kann ich zum Beispiel die Sorten  _Südfrucht_ oder _Minze &amp; Lemongras_ . Sie sind fruchtig frisch und wirken daher sehr belebend.
 
-**Anne:** Besonders toll finde ich ja, wie es zum Namen _Smecket_ kam. Du beschreibst das auf Deiner Homepage und es steht auch auf den Teedosen drauf. Deine Tochter sagte im Alter von zwei Jahren immer „Smecket“, wenn etwas besonders gut schmeckte. Gibt es eine weitere Anekdote, die Du im Zusammenhang mit _Smecket_ unbedingt loswerden möchtest?
+**Anne:** Besonders toll finde ich ja, wie es zum Namen _Smecket_ kam. Du beschreibst das auf Deiner Homepage und es steht auch auf den Teedosen drauf. Deine Tochter sagte im Alter von zwei Jahren immer "Smecket", wenn etwas besonders gut schmeckte. Gibt es eine weitere Anekdote, die Du im Zusammenhang mit _Smecket_ unbedingt loswerden möchtest?
 
 **Daniel:** Meine Kinder habe ich bei der Suche nach den perfekten Tees mit einbezogen. Natürlich dürfen sie nur koffeinfreie Tees trinken. Die Früchtetees _Rote Beere_ , _Ananas &amp; Kokos_ sowie _Sanddorn &amp; Hibiskus_ haben es auf das Siegertreppchen geschafft und werden nach wie vor auch von meinen Kindern sehr gerne getrunken. Wenn man Kindern einen roten, fruchtigen Tee als "Gummibärchentee" vorstellt, wird er übrigens noch lieber getrunken (schmunzelt).
 
@@ -214,7 +214,7 @@ Mein Faible ist eher die gesunde Ernährung. Ich lege zum Beispiel großen Wert 
 
 **Daniel:** In der Anfangsphase von _Smecket_ haben meine Frau und ich viele Tees getestet. Die Verpackung vieler Tees ist sehr gelungen, der Geschmack bleibt aber nicht selten auf der Strecke. Bei _Smecket_ stand von Anfang an der Geschmack im Fokus.
 
-**Anne:** Vervollständige diesen Satz „Es beflügelt mich, wenn ich...“
+**Anne:** Vervollständige diesen Satz "Es beflügelt mich, wenn ich..."
 
 **Daniel:** …meine Familie um mich habe.
 

@@ -83,7 +83,7 @@ Besonders in kleinen Betrieben wird der Ruf nach Mitbestimmung immer lauter. Gre
 
 ## Zwei Drittel der Armen in Deutschland sind Frauen,
 
-ein Drittel Männer. Aus Angst, in die Arbeitslosigkeit zu fallen, geben sich viele mit viel weniger als ihnen zustehen würde zufrieden. „Niedriglohn ist kein Weg zum Abbau von Arbeitslosigkeit!“ Die Zahl der prekär Beschäftigten steigt weiter an. 1,4 Millionen Deutsche arbeiten für einen Stundenlohn von weniger als 5 Euro. Jeder Zweite im Niedriglohnsektor Beschäftigte arbeitet in Vollzeit.
+ein Drittel Männer. Aus Angst, in die Arbeitslosigkeit zu fallen, geben sich viele mit viel weniger als ihnen zustehen würde zufrieden. "Niedriglohn ist kein Weg zum Abbau von Arbeitslosigkeit!" Die Zahl der prekär Beschäftigten steigt weiter an. 1,4 Millionen Deutsche arbeiten für einen Stundenlohn von weniger als 5 Euro. Jeder Zweite im Niedriglohnsektor Beschäftigte arbeitet in Vollzeit.
 
 ## Liest man sich den Koalitionsvertrag durch,
 
@@ -97,7 +97,7 @@ Auch am längst überholten deutsche Bildungssystem mit seiner sozialen Ausgrenz
 
 ## Ein sehr interessanter Abend
 
-Man darf auf jeden Fall auf den Verlauf der nächsten vier Jahre gespannt sein, oder um es mit Gysis Worten zu sagen: „Es gibt viele Wege und Möglichkeiten. Und wir sind bereit. Auch jetzt schon.“ Dr. Gysi scheint auf jeden Fall klare Vorstellungen zu haben, sein Vortrag bat einen strukturieren, verständlichen Einblick in den verstrickten Politikzirkus von heute und das völlig frei von Paragraphenreiterei und Schachtelsatzungetümen.
+Man darf auf jeden Fall auf den Verlauf der nächsten vier Jahre gespannt sein, oder um es mit Gysis Worten zu sagen: "Es gibt viele Wege und Möglichkeiten. Und wir sind bereit. Auch jetzt schon." Dr. Gysi scheint auf jeden Fall klare Vorstellungen zu haben, sein Vortrag bat einen strukturieren, verständlichen Einblick in den verstrickten Politikzirkus von heute und das völlig frei von Paragraphenreiterei und Schachtelsatzungetümen.
 
 Im  Anschluss  an den Vortrag gab es dann noch Autogramme, Fotos mit dem Politiker und die Möglichkeit persönliche Fragen zu stellen. Auch ich konnte ein Foto mit ihm machen, das bleibt allerdings in meinem privaten Archiv. :-)
 

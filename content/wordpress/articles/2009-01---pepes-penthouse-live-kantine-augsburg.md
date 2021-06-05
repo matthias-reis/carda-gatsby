@@ -48,10 +48,10 @@ Als erstes spielten Griswold, die mit einer Mischung aus ehrlichem Pop und Folk 
 
 ## Das Publikum erwartete gespannt die ersten Töne
 
-Das Publikum erwartete gespannt die ersten Töne, als  **Pepes Penthouse**  die Bühne betraten. Die Band legte gleich beim ersten Song „Du bist alles“ so richtig los und brachte die Menge in Schwung, die sich nun auch etwas näher an die Bühne herantraute.
+Das Publikum erwartete gespannt die ersten Töne, als  **Pepes Penthouse**  die Bühne betraten. Die Band legte gleich beim ersten Song "Du bist alles" so richtig los und brachte die Menge in Schwung, die sich nun auch etwas näher an die Bühne herantraute.
 
-Seinen Höhepunkt hatte der Auftritt mit dem Song „Mittendrin“, bei dem das ganze Publikum mitging. Beim Song „Ein schöner Tag“, der zum Schluß gespielt wurde, stellten sich die Bandmitglieder dann noch einmal einzeln vor und zeigten, was sie an ihren Instrumenten zu bieten haben.
+Seinen Höhepunkt hatte der Auftritt mit dem Song "Mittendrin", bei dem das ganze Publikum mitging. Beim Song "Ein schöner Tag", der zum Schluß gespielt wurde, stellten sich die Bandmitglieder dann noch einmal einzeln vor und zeigten, was sie an ihren Instrumenten zu bieten haben.
 
-Es war wirklich ein toller Auftritt.  **Pepes Penthouse**  zeigten sich von ihrer besten Seite. Durch die intensive Arbeit im Übungsraum in den letzten Wochen konnten sie ihre Songs perfektionieren. Und sogar ein ganz neuer Song ist dabei entstanden: „Was Du siehst“, den sie gleich als zweites Stück an diesem Abend performten, und der auch bei den Fans sofort gut ankam.
+Es war wirklich ein toller Auftritt.  **Pepes Penthouse**  zeigten sich von ihrer besten Seite. Durch die intensive Arbeit im Übungsraum in den letzten Wochen konnten sie ihre Songs perfektionieren. Und sogar ein ganz neuer Song ist dabei entstanden: "Was Du siehst", den sie gleich als zweites Stück an diesem Abend performten, und der auch bei den Fans sofort gut ankam.
 
 <Gallery name="banddesjahreskantine" />

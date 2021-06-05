@@ -208,6 +208,6 @@ Wichtig ist, dass uns klar wird, welche Macht Geld besitzt.  Gemeinsam besitzen
 
 ## Hinweis
 
-Die von mir erwähnte Broschüre „Was macht eigentlich mein Geld“ kann [auf der Homepage](http://www.urgewald.de/) von _urgewald_  bestellt werden.
+Die von mir erwähnte Broschüre "Was macht eigentlich mein Geld" kann [auf der Homepage](http://www.urgewald.de/) von _urgewald_  bestellt werden.
 
 _Die Logos und EC-Karten-Fotos habe ich von den jeweiligen Banken. Das Foto von den Windrädern habe ich am [Eidersperrwerk](/2015/08/schutz-vor-sturmfluten-das-eidersperrwerk-bei-toenning/) aufgenommen, das von der Kasse in der [Pinakothek der Moderne](/2012/02/perspektiven-pinakothek-der-moderne/).  Der Roboterhund begegnete mir Deutschen Museum._

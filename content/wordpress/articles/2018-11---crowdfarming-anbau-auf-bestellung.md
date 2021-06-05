@@ -71,7 +71,7 @@ Die Gebrüder Urculo haben beschlossen, dass sich das ändern muss. Sie haben er
 
 Bäume werden nur nachgepflanzt, wenn es nötig ist, die Nachfrage bestimmt das Angebot und beides ist perfekt aufeinander abgestimmt. Die Uculos gründeten CrowdFarming im Dezember 2015. Die ersten stolzen Orangenbaum-Adoptiveltern erhielten ihre Ernte. Und das Feedback ist großartig. Immer mehr Bauern möchten sich anschließen. Gonzalo ist begeistert:
 
-> “Immer mehr interessierte Landwirte kontaktieren uns, um das CrowdFarming auch auf ihren Plantagen anzuwenden. Wir hatten so die Gelegenheit, unglaubliche Produkte zu entdecken und zu probieren, die für viele Verbraucher normalerweise verborgen bleiben, da kleine Erzeuger oft nicht die Möglichkeit haben, diese zu erreichen.”
+> "Immer mehr interessierte Landwirte kontaktieren uns, um das CrowdFarming auch auf ihren Plantagen anzuwenden. Wir hatten so die Gelegenheit, unglaubliche Produkte zu entdecken und zu probieren, die für viele Verbraucher normalerweise verborgen bleiben, da kleine Erzeuger oft nicht die Möglichkeit haben, diese zu erreichen.”
 
 ## Das Fenster zur Welt
 

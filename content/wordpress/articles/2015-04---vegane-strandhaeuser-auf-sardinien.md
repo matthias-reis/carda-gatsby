@@ -28,7 +28,7 @@ subTitle: Vegan Holiday Sardinia
 
 **Ich habe mich mit Matteo Mureddu, dem Gründer von "Vegan Travel Sardinia" unterhalten. Er hat mir viele Details über Sardinien und seine Motiviation verraten.**
 
-Matteo lebt seit zwei Jahren vegan. Der Italiener ist Mitglied der Aktivistengruppe „Antipecism Sardinian“, die auf Sardinien viele Events für die Rechte der Tiere veranstaltet. Er hat Agrarwirtschaft studiert und ist ganzheitlicher Massagetherapeut.
+Matteo lebt seit zwei Jahren vegan. Der Italiener ist Mitglied der Aktivistengruppe "Antipecism Sardinian", die auf Sardinien viele Events für die Rechte der Tiere veranstaltet. Er hat Agrarwirtschaft studiert und ist ganzheitlicher Massagetherapeut.
 
 ## Matteo und der Strand
 
@@ -45,7 +45,7 @@ In seiner Freizeit ist er gerne mit seinem Kanu oder dem Fahrrad unterwegs, klet
 
 Auf Sardinien gab es zum Zeitpunkt seiner Ernährungsumstellung weder Bioläden, noch vegane Restaurants, geschweige denn Unterkünfte, die vegane Küche anboten. Das brachte Matteo dazu, darüber nachzudenken, wie er das Leben für Veganer auf Sardinien einfacher gestalten könnte.
 
-Im Mai 2014 gründete Matteo „Vegan Holiday Sardinia“, inzwischen managt der 24-jährige 8 vegane Strandhäuser in Alghero, Castalsardo und Platamona. Alle Häuser sind in Strandnähe. Unterstützt wird er dabei von seiner Freundin, die sich unter anderem um die Reinigung kümmert und von einem Freund, der für den Flughafen-Transfer verantwortlich ist.
+Im Mai 2014 gründete Matteo "Vegan Holiday Sardinia", inzwischen managt der 24-jährige 8 vegane Strandhäuser in Alghero, Castalsardo und Platamona. Alle Häuser sind in Strandnähe. Unterstützt wird er dabei von seiner Freundin, die sich unter anderem um die Reinigung kümmert und von einem Freund, der für den Flughafen-Transfer verantwortlich ist.
 
 ## Sonnenliegen stehen bereit
 

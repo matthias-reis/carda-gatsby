@@ -50,7 +50,7 @@ Den September-Basket werde ich höchstpersönlich testen und meinen Bericht ansc
 
 Übrigens hat sich die bezaubernde Ina, Gründerin von **Vegan Beauty Basket** , zum Geburtstag des jungen Beauty-Vertriebes etwas ganz Besonderes für Ihre Kunden/innen einfallen lassen.
 
-Beim Abschluss eines 3er-Abos bekommen alle Neu-Abonnenten/innen mit dem Code “GRATISBOX” eine vierte Box gratis dazu. Wer also Lust hat, sich mal was Schönes zu gönnen, sollte spätestens jetzt testen.
+Beim Abschluss eines 3er-Abos bekommen alle Neu-Abonnenten/innen mit dem Code "GRATISBOX” eine vierte Box gratis dazu. Wer also Lust hat, sich mal was Schönes zu gönnen, sollte spätestens jetzt testen.
 
 ## Düfte selbst bestimmen
 

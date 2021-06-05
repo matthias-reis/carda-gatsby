@@ -75,7 +75,7 @@ Die Besucher der Repair-Cafés freuen sich besonders über den Gemeinschafts-Ged
 
 ## Die neue Kooperation ist ein nachhaltiges Konzept
 
-„Wir freuen uns über unseren neuen Partner. Durch Unternehmen wie SOS Zubehör hat jeder die Möglichkeit, seine Elektro-Geräte zu warten und zu reparieren – auch wenn er kein Heimwerker-Profi ist.“, so Martine Postma.
+"Wir freuen uns über unseren neuen Partner. Durch Unternehmen wie SOS Zubehör hat jeder die Möglichkeit, seine Elektro-Geräte zu warten und zu reparieren – auch wenn er kein Heimwerker-Profi ist.", so Martine Postma.
 
 <RemoteImage
   alt={`} size="medium" title={`}

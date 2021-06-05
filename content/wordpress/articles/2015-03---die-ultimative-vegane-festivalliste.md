@@ -91,7 +91,7 @@ Auch, was das vegane Angebot an den diversen Futterständen angeht, haben die me
 1.  Flugzeugdecke (Ihr kennt diese kleinen Fleecedecken, die lassen sich auf Geldbeutelgröße zusammenfalten und sind oft nicht nur nachts im Schlafsack, wenn man die kalten Füße darin einwickelt superpraktisch)
 1.  Gehörschutz (Für Mimosen, die sonst nicht mit auf's Boysetsfire-Konzert kommen und für gesegneten Nachtschlaf auch neben dem Partyzelt oder dem abgefüllten Festivalneuling von nebenan, der erst wenn die Konzerte mittags wieder losgehen in den Schlafsack kriecht)
 1.  So viele grüne Bananen, wie in den Rucksack gehen (reifen nach und werden nicht so schnell matschig, wie gelbe Bananen), die sind nicht nur als Zwischendurchsnack geniale Energielieferanten, kleingeschnitten im Müsli geben sie auch eine hervorragende Frühstückszutat ab, die Omnis werden vor Neid erblassen
-1.  Müsli (Ich empfehle das Hari Crunch „Let's Rock“ Bio-Knuspermüsli, das ist soo lecker und macht ordentlich satt, zu Hause mache ich mein Müsli selbst)
+1.  Müsli (Ich empfehle das Hari Crunch "Let's Rock" Bio-Knuspermüsli, das ist soo lecker und macht ordentlich satt, zu Hause mache ich mein Müsli selbst)
 1.  Pflanzenmilch je nach Geschmack (Zur Not wird die halt ein Bisschen warm, hält sich im Zelt aber wirklich lange)
 1.  Studentenfutter (Habe ich grundsätzlich für jeden Tag einen Beutel dabei, das macht schön satt)
 1.  Energieriegel (Meine Lieblingsriegel sind die Raw Bites, ähnliche gibt es auch von anderen Herstellern)

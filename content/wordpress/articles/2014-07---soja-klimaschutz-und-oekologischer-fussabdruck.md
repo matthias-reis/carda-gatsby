@@ -127,7 +127,7 @@ Dicht gefolgt werden die brasilianischen "Fleischrinder" von den irischen. An dr
 
 ### Pflanzliche Lebensmittel haben die besten Klimawerte
 
-Die Studie ergab auch, dass eiweißreiche pflanzliche Lebensmittel _mit Abstand_ die besten Klimawerte aufweisen. So erzeugt die Herstellung von einem Kilo **Tofu** oder Tempeh aus Soja 3,8 bzw. 2,4 Kilo CO<sub>2</sub>, umgerechnet sind das 19 bzw. 12 gefahrene Autokilometer. Fazit Schmidinger: „Pflanzliche Lebensmittel schneiden unter Einbeziehung aller ethischen Aspekte der Welternährung und aus Klimaschutzgründen tatsächlich wesentlich besser ab als Tierprodukte.“(Quelle: [VEBU](https://www.vebu.de/umwelt/klimawandel/1316-1-kg-rindfleisch-so-klimaschaedlich-wie-eine-1600-km-lange-autofahrt) )
+Die Studie ergab auch, dass eiweißreiche pflanzliche Lebensmittel _mit Abstand_ die besten Klimawerte aufweisen. So erzeugt die Herstellung von einem Kilo **Tofu** oder Tempeh aus Soja 3,8 bzw. 2,4 Kilo CO<sub>2</sub>, umgerechnet sind das 19 bzw. 12 gefahrene Autokilometer. Fazit Schmidinger: "Pflanzliche Lebensmittel schneiden unter Einbeziehung aller ethischen Aspekte der Welternährung und aus Klimaschutzgründen tatsächlich wesentlich besser ab als Tierprodukte."(Quelle: [VEBU](https://www.vebu.de/umwelt/klimawandel/1316-1-kg-rindfleisch-so-klimaschaedlich-wie-eine-1600-km-lange-autofahrt) )
 
 Betrachtet man die Klimaschädlichkeit der verschiedenen Ernährungsweisen pro Kopf und Jahr, kommt man zu folgendem Ergebnis:
 

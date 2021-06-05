@@ -49,7 +49,7 @@ Kara selbst ist in Hamburg dafür zuständig, ein liebevolles Zuhause für die T
 
 **Anne:** Wolltest Du schon immer im Tierschutz arbeiten?
 
-## „Tiere sind so pur! Sie gehen mit Dir durch dick und dünn!“
+## "Tiere sind so pur! Sie gehen mit Dir durch dick und dünn!"
 
 <RemoteImage
   alt={`Puss In Boots`}
@@ -62,11 +62,11 @@ Kara selbst ist in Hamburg dafür zuständig, ein liebevolles Zuhause für die T
 
 **Kara:** Ich kenne es nicht anders. Als ich auf die Welt gekommen bin, hatten wir schon Katzen und Hunde aus dem Tierschutz. Ich habe sehr viel von meiner Mutter übernommen. Für mich war Tierschutz immer selbstverständlich. Ich habe als Kind gelernt, wie wichtig Tiere sein können. Ich meine, was gibt es denn schöneres, als einen Freund zu haben, der einem nicht von der Seite weicht? Dem es egal ist, wie man gerade aussieht und ob man in einem Wahnsinns-Tempel wohnt oder in einem Wohnwagen? Tiere sind so pur! Sie gehen mit Dir durch dick und dünn, egal was ist. Das hat mich schon immer extrem bewegt und fasziniert.
 
-Ich hatte die große Ehre, sehr ländlich aufzuwachsen. Wie Ronja Räuberstocher mitten im Wald. Damals haben wir lange Streifzüge mit unserem Hund unternommen und gedacht, dass wir die Welt retten können. Für mich war das die erste tiefe Freundschaft. Als Teenie fühlt man sich ja doch von Zeit zu Zeit mal missverstanden und da ist es einfach toll, wenn „Waldi“ immer für einen da ist.
+Ich hatte die große Ehre, sehr ländlich aufzuwachsen. Wie Ronja Räuberstocher mitten im Wald. Damals haben wir lange Streifzüge mit unserem Hund unternommen und gedacht, dass wir die Welt retten können. Für mich war das die erste tiefe Freundschaft. Als Teenie fühlt man sich ja doch von Zeit zu Zeit mal missverstanden und da ist es einfach toll, wenn "Waldi" immer für einen da ist.
 
 **Anne:** Du bist sehr aktiv. Neben Deiner Arbeit für die Tiertafel hast Du unter anderem auch mit Deiner Mutter die Auffangstation _Puss In Boots_ \* in Irland gegründet. Wie kam es dazu?
 
-## „In Irland gibt es eine sehr aktive Hunderenn-Szene“
+## "In Irland gibt es eine sehr aktive Hunderenn-Szene"
 
 <RemoteImage
   alt={`Puss In Boots`}
@@ -77,13 +77,13 @@ Ich hatte die große Ehre, sehr ländlich aufzuwachsen. Wie Ronja Räuberstocher
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAYF/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURAAYSEyExFCJBUSShYYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgADBP/EAB0RAAIDAAMBAQAAAAAAAAAAAAECAAMEERIxIeH/2gAMAwEAAhEDEQA/AF5Zd5ybevoqaUK0QASSAAL1RnJAH1n5znvnT/pRa98UIuFm9PPWwwo340mB7xkKVY8gwwcj7B0qanbm3Ip7ncLbEahFglieKWQSKOKE+0tkggjz9eNWdl3CKK0WmW4+op+ESkyxkMZ245HJOKlgc4zk41Zd7ZwOv0Tn0ZRZ77NFVblipLjdrTXGSnkWnWKJaeMgrPnLZAwBhfnsQcedYi37qu+3ZYpKaSqaobkzpLiWIoOSop8+AxIHwdar09srqsH0wc1cgDzP7jy5L/GRgjz5xqC7YhipPWPPB1OPLpOrZLEdu4OOwJP9awv2tbYbCPyOnMEXrzF1VXB7bSrPX2SsETgos0sIw+R3UuOwJHbHnVI7gt7JEILdBTKg7KHY/wC6NGnVUpXmMsRLVBuuniV0emUh0MZZWIPE/H7866lJu2igt9PS00cqRwR8F6r9Rl9uPPbt+9GjSNKyDmf/2Q=="
 />
 
-**Kara:** Wir sind beide große Windhundfreunde. Wegen ihnen ist meine Mutter nach Irland gegangen. Ich bin mit den verschiedensten Windhunden groß geworden. Vom Afghanen über den Barsoi bis zum Greyhound. Meine Mutter hat die Renn-Industrie immer sehr beschäftigt. Wenn man bei uns das Wort „Renn-Industrie“ hört, denkt man immer als erstes an Pferde. Es gibt aber auch eine ganze Menge Länder, in denen die Hunderenn-Szene noch sehr aktiv ist. Eine Zeitlang haben wir hier in Deutschland in diesem Tierschutzbereich geholfen. Für meine Mutter war aber irgendwie schon immer klar, dass es sie irgendwann nach Irland ziehen würde. Sie wollte einfach in ein Land gehen, in dem das Thema auch vor Ort präsent ist. Leider ist Irland da immer noch Vorreiter.
+**Kara:** Wir sind beide große Windhundfreunde. Wegen ihnen ist meine Mutter nach Irland gegangen. Ich bin mit den verschiedensten Windhunden groß geworden. Vom Afghanen über den Barsoi bis zum Greyhound. Meine Mutter hat die Renn-Industrie immer sehr beschäftigt. Wenn man bei uns das Wort "Renn-Industrie" hört, denkt man immer als erstes an Pferde. Es gibt aber auch eine ganze Menge Länder, in denen die Hunderenn-Szene noch sehr aktiv ist. Eine Zeitlang haben wir hier in Deutschland in diesem Tierschutzbereich geholfen. Für meine Mutter war aber irgendwie schon immer klar, dass es sie irgendwann nach Irland ziehen würde. Sie wollte einfach in ein Land gehen, in dem das Thema auch vor Ort präsent ist. Leider ist Irland da immer noch Vorreiter.
 
-Vor 13 Jahren ist sie dann schlussendlich ausgewandert. Seitdem machen wir Tierschutz in Irland und es kamen seitdem immer neue Themen dazu. So kümmern wir uns inzwischen auch um Katzen und Pferde. Sobald man anfängt, sich mit dem Tierschutz zu beschäftigen, weitet sich das Thema nach und nach automatisch aus. Man sagt natürlich nicht „Nein, lass uns bei unseren Windhunden bleiben“, man schaut auch, ob man noch anderweitig helfen kann.
+Vor 13 Jahren ist sie dann schlussendlich ausgewandert. Seitdem machen wir Tierschutz in Irland und es kamen seitdem immer neue Themen dazu. So kümmern wir uns inzwischen auch um Katzen und Pferde. Sobald man anfängt, sich mit dem Tierschutz zu beschäftigen, weitet sich das Thema nach und nach automatisch aus. Man sagt natürlich nicht "Nein, lass uns bei unseren Windhunden bleiben", man schaut auch, ob man noch anderweitig helfen kann.
 
 **Anne:** Lebt Deine Mutter dann ganz alleine mit den Tieren auf der Auffangstation von _Puss In Boots_ in Irland?
 
-## „Meine Mutter kümmert sich bei Puss In Boots in Irland alleine um 50 Tiere“
+## "Meine Mutter kümmert sich bei Puss In Boots in Irland alleine um 50 Tiere"
 
 <RemoteImage
   alt={`Puss In Boots`}
@@ -106,7 +106,7 @@ Vor 13 Jahren ist sie dann schlussendlich ausgewandert. Seitdem machen wir Tiers
 
 **Anne:** Ist auf dieser Seite eine Zusammenarbeit möglich?
 
-## „Es gibt jede Menge Handlungs- und Aufklärungsbedarf“
+## "Es gibt jede Menge Handlungs- und Aufklärungsbedarf"
 
 <RemoteImage
   alt={`Puss In Boots`}
@@ -127,7 +127,7 @@ Die Tötungsstationen für Pferde inzwischen zwischen 150 und 200 Euro pro Pferd
 
 Gerade das teilweise sehr feuchte Klima setzt einigen Tieren sehr zu. Häufig sind sie bereits krank und schwach, wenn sie freigelassen werden. Viele von ihnen sterben im Winter. Sie verhungern, weil die Menschen nicht auf die Idee kommen, dass sich ein Vollblüter nicht einfach von Moos ernähren kann. Kleine stämmige, typisch Irische Ponys schaffen das vielleicht, aber es gibt eben viele andere, denen es nicht so geht. Man muss auch bedenken, dass es in Irland fast fünf Monate am Stück regnet. Die Böden weichen mehr und mehr auf und die Tiere finden nicht mal mehr Gras. Dann wird es kritisch.
 
-## „Sogar mit den ärmsten Lebewesen versuchen Menschen noch Kohle zu machen“
+## "Sogar mit den ärmsten Lebewesen versuchen Menschen noch Kohle zu machen"
 
 <RemoteImage
   alt={`Puss In Boots`}
@@ -159,7 +159,7 @@ Weil Pferde Herdentiere sind, ist es für neue Tiere oft sehr schwer, sich anzus
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcE/8QAKBAAAgEDAwQBBAMAAAAAAAAAAQIDAAQRBQYSEyExQWEUIlFxUoGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQACITH/2gAMAwEAAhEDEQA/ALXaWru17bBQS5lUY/Iz3qG6dy3st+6WUfKCNHLygZ6ZUE+PBAAOT6qu0ae00p3urm9i60OcKqs3FwDj1jOR+qSbrcty8k+maaIhBdQJbPc9Iu4jkfDIoIP3EHBPwceanS8Jxk62nbL3Kup2xE/S+pjbi3Tbkrj+Q/dObTIVLIwPvOfVZ/tjbVlbhG0+V0ljUK6NGw+MHIpsnsxHayN1W5qAeOPNOfaWyC40ySO/mR4pSSQwZo3HMk9gDxyc/wCV022iM1ys81rcS3IlDyF45OQwQQc8P6+KKK1QsxZ+0vWrO0mjabSp52TILvBIskYPvPgjHur8appmo8orOO+WUHvG1swI7gdvz59UUUHsrf/Z"
 />
 
-**Kara:** Das ist tatsächlich leider speziell bei den Greyhounds so, dass die Besitzer beim Abgeben in der Station ein Schreiben unterzeichnen können, das eine Vermittlung des jeweiligen Tieres ausschließt. Das bedeutet für einen Hund das Todesurteil. Wir kommen dann dort hin, weil wir gehört haben, dass gerade wieder Hunde abgegeben wurden. Wir sagen, wir würden sie direkt mitnehmen, das aber nicht geht, weil der Besitzer entschieden hat „Der ist so schlecht gelaufen, ich möchte nicht, dass der vermittelt wird.“.
+**Kara:** Das ist tatsächlich leider speziell bei den Greyhounds so, dass die Besitzer beim Abgeben in der Station ein Schreiben unterzeichnen können, das eine Vermittlung des jeweiligen Tieres ausschließt. Das bedeutet für einen Hund das Todesurteil. Wir kommen dann dort hin, weil wir gehört haben, dass gerade wieder Hunde abgegeben wurden. Wir sagen, wir würden sie direkt mitnehmen, das aber nicht geht, weil der Besitzer entschieden hat "Der ist so schlecht gelaufen, ich möchte nicht, dass der vermittelt wird.".
 
 **Anne:** Warum sind gerade Windhunde so schwer zu vermitteln?
 
@@ -171,9 +171,9 @@ Weil Pferde Herdentiere sind, ist es für neue Tiere oft sehr schwer, sich anzus
 
 In China gibt es bis heute keine Tierschutzgesetze, weshalb die Hunde dort unter dem schlimmsten Bedingungen gehalten werden. In Pakistan ergeht es ihnen ähnlich. Die Rennhunde kommen mit den 40 Grad Celsius dort nicht zurecht. Trotzdem werden sie dort über die Rennbahnen gejagt. Greyhounds haben sowieso schon vergrößertet Herzen, damit sie das hohe Laufpensum aushalten können. Auf die Hitze sind sie nicht eingestellt. Sehr viele Tiere sterben an einem Herzinfarkt.
 
-**Anne:** Wie erklärst Du Dir, dass die Hunde so als „Ware“ behandelt werden können?
+**Anne:** Wie erklärst Du Dir, dass die Hunde so als "Ware" behandelt werden können?
 
-## „Vermutlich hat Puss In Boots bis jetzt nur an der Oberfläche gekratzt“
+## "Vermutlich hat Puss In Boots bis jetzt nur an der Oberfläche gekratzt"
 
 <RemoteImage
   alt={`Puss In Boots`}
@@ -192,7 +192,7 @@ In China gibt es bis heute keine Tierschutzgesetze, weshalb die Hunde dort unter
 
 **Anne:** Dann ist das auch mit ein Grund, dass man in Irland nirgendwo Greyhound-Welpen sieht?
 
-## „Die Trainer sorgen für das schlechte Image der Greyhounds in der Bevölkerung“
+## "Die Trainer sorgen für das schlechte Image der Greyhounds in der Bevölkerung"
 
 <RemoteImage
   alt={`Puss In Boots`}
@@ -203,7 +203,7 @@ In China gibt es bis heute keine Tierschutzgesetze, weshalb die Hunde dort unter
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAwQH/8QAJxAAAgEDAwMEAwEAAAAAAAAAAQIDAAQRBRIhBhMxIkFRYXGBobH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQEBAQEBAAAAAAAAAAAAAAABAAIRUf/aAAwDAQACEQMRAD8AR6PqzdOdArdQxAXMgwihjzI5zuP6wT+AKUWXWWuxKFkvnfjKljkff2DW71Dpjr0bZugylu43H5G3bn+f2pS1EEjYuwVDDbuX2+/uqqtnOTk+XWb3WdRsHvbx5BDOsiLwFUhh7D/TVzqE8/akxKTxkkDjzUNo9hA9zBFDGu9ptvknKjHqz4xXRb+xJ7hVfQ4Pvz4qC2nJ5Z7CyRrSOC4G6LaxZWG4Y4zxUte9DEXPc0x1e1J9SzNgpzgc458/miikKl0Lpez0wd2ZlluRjz4Hzj5preukcUrKY8KpXg+4Hiiilb//2Q=="
 />
 
-**Kara:** Ganz genau. Das und die Tatsache, dass der Renn-Industrie nach wir vor etwas daran gelegen ist, die Angst vor diesen Hunden in der Bevölkerung zu schüren. Auf den Werbeplakaten für die Greyhound-Rennen sieht man immer nur Hunde mit Maulkorb und aufgerissener Schnauze. Man sieht das komplette Gebiss. Diese Bilder werden während der Rennen aufgenommen. Während die Hunde sich bewegen. Für einen Außenstehenden sieht das natürlich furchteinflößend aus. Dieses Image herrscht in der Bevölkerung vor. Für die Züchter und Trainer ist dieses Image von Interesse, da es die Neugier auf den „gefährlichen“ Greyhound weckt. Wenn wir mit unseren Hunden durch die Stadt gehen, heben die Leute ihre Kinder hoch und wechseln mit ihren kleinen Hunden die Straßenseite. Die Hunde müssten nicht mal Maulkörbe tragen. Sie werden ihnen nur angezogen, um den Menschen damit zu suggerieren, dass man die ach so unberechenbaren Hunde unter Kontrolle hat.
+**Kara:** Ganz genau. Das und die Tatsache, dass der Renn-Industrie nach wir vor etwas daran gelegen ist, die Angst vor diesen Hunden in der Bevölkerung zu schüren. Auf den Werbeplakaten für die Greyhound-Rennen sieht man immer nur Hunde mit Maulkorb und aufgerissener Schnauze. Man sieht das komplette Gebiss. Diese Bilder werden während der Rennen aufgenommen. Während die Hunde sich bewegen. Für einen Außenstehenden sieht das natürlich furchteinflößend aus. Dieses Image herrscht in der Bevölkerung vor. Für die Züchter und Trainer ist dieses Image von Interesse, da es die Neugier auf den "gefährlichen" Greyhound weckt. Wenn wir mit unseren Hunden durch die Stadt gehen, heben die Leute ihre Kinder hoch und wechseln mit ihren kleinen Hunden die Straßenseite. Die Hunde müssten nicht mal Maulkörbe tragen. Sie werden ihnen nur angezogen, um den Menschen damit zu suggerieren, dass man die ach so unberechenbaren Hunde unter Kontrolle hat.
 
 **Anne:** Du sagst, Du kümmerst Dich um die Vor- und Nachkontrollen der Tiere. Was genau steht einem Hund oder einer Katze bevor, die von Irland nach Deutschland kommt?
 
@@ -224,7 +224,7 @@ Wenn der Amtstierarzt sein Go gegeben hat, werden die Tiere mit einem Transporte
 
 **Anne:** Du lebst wie ich vegan. Gab es für Dich ein Schlüsselerlebnis, oder hat das Dein Leben mit dem Tierschutz mit sich gebracht?
 
-## „Mit 11 habe ich beschlossen, kein Fleisch mehr zu essen“
+## "Mit 11 habe ich beschlossen, kein Fleisch mehr zu essen"
 
 <RemoteImage
   alt={`Puss In Boots`}

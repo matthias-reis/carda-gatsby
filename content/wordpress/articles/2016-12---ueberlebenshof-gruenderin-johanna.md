@@ -96,7 +96,7 @@ Wir mussten viele unserer Tiere an andere Gnadenhöfe vermitteln und haben dadur
 
 **Anne:** Wie gefällt es Euch hier? Wie unterscheidet sich der Ort von Eurer alten Heimat?
 
-**Johanna:** Es gibt gravierende Unterschiede zwischen dem Odenwald und der Gegend, in der wir jetzt leben. Gastfreundschaft wird hier sehr groß geschrieben. Leute, die wir vorher nicht kannten, haben uns ihre Hilfe angeboten. Während es in Hessen immer schwierig war, ehrenamtliche Helfer zu finden, ist das hier sehr einfach. Die Leute hier sind sehr achtsam. Man braucht nicht viele Worte, um seine Situation zu schildern. Sie fragen einfach: „Brauchst du Hilfe?“ und ein „Ja“ reicht vollkommen aus, schon wird einem unter die Arme gegriffen. Ich war oft den Tränen nahe, weil ich so gerührt bin von der Hilfsbereitschaft der Menschen, die hier leben.
+**Johanna:** Es gibt gravierende Unterschiede zwischen dem Odenwald und der Gegend, in der wir jetzt leben. Gastfreundschaft wird hier sehr groß geschrieben. Leute, die wir vorher nicht kannten, haben uns ihre Hilfe angeboten. Während es in Hessen immer schwierig war, ehrenamtliche Helfer zu finden, ist das hier sehr einfach. Die Leute hier sind sehr achtsam. Man braucht nicht viele Worte, um seine Situation zu schildern. Sie fragen einfach: "Brauchst du Hilfe?" und ein "Ja" reicht vollkommen aus, schon wird einem unter die Arme gegriffen. Ich war oft den Tränen nahe, weil ich so gerührt bin von der Hilfsbereitschaft der Menschen, die hier leben.
 
 ## [Futterspenden](https://www.facebook.com/Katzenhofamoa/?hc_ref=PAGES_TIMELINE) sind wichtig und immer willkommen
 
@@ -154,7 +154,7 @@ Wir mussten viele unserer Tiere an andere Gnadenhöfe vermitteln und haben dadur
 
 **Johanna:** Derzeit fehlt mir dazu einfach die Zeit. Im Frühjahr werde ich anfangen, mein Atelier einzurichten. Dann hab ich hoffentlich auch wieder mehr Zeit für meine Kunst.
 
-**Anne:** Was hat es denn mit Eurer Facebook-Kampagne [„Futter statt Böller“](https://www.facebook.com/events/187037541754421/) auf sich? Erzählst Du meinen Lesern davon? Ach ja, vom Flashmob [„Wir verzichten auf ein Feuerwerk“](https://www.facebook.com/events/1493371477638392/) musst Du auch berichten.
+**Anne:** Was hat es denn mit Eurer Facebook-Kampagne ["Futter statt Böller"](https://www.facebook.com/events/187037541754421/) auf sich? Erzählst Du meinen Lesern davon? Ach ja, vom Flashmob ["Wir verzichten auf ein Feuerwerk"](https://www.facebook.com/events/1493371477638392/) musst Du auch berichten.
 
 **Johanna:** Im Grunde genommen hat mich vor drei Jahren meine Hündin auf die Idee gebracht. Bella ist ein extremer Angsthund. Beim kleinsten fremden Geräusch gerät sie in Panik. Besonders schlimm sind Gewitter und Silvesterknaller. Davon dreht sie fast durch vor Angst. Du kannst Dir vorstellen, wie für uns dann Silvester aussieht. Früher war Britta bei den Schafen, um sie zu beruhigen, meine Tochter bei den Katzen und ich bei unserer Bella.
 
@@ -166,7 +166,7 @@ Durch meine Erfahrung mit Tieren weiß ich, wie gefährlich die Raketen und die 
 
 **Johanna:** Sehr ruhig. Wir werden am 24.12 alleine sein. Den ersten Weihnachtsfeiertag werden wir mit Freunden verbringen und am zweiten fährt Shaya zu ihrem Papa nach Frankfurt. Silvester ist ja für uns generell kein Grund zum Feiern.
 
-**Anne:** Beende diesen Satz: „Das Schönste am Norden ist...“
+**Anne:** Beende diesen Satz: "Das Schönste am Norden ist..."
 
 **Johanna:**  ...das Meer, die Menschen und das Leben hier.
 

@@ -121,7 +121,7 @@ Was mich natürlich besonders interessiert hat, waren die Inhaltsstoffe ihrer Pr
 
 ## Die Verbindung aus Ost und West
 
-**Jacqueline:** Ja genau. Mir persönlich ist die Bedeutung "Gattin des Schöpfergottes" wichtig, da sie deshalb auch ”Mutter aller Göttinnen“ genannt wird und darüber hinaus für die Schönheit der Frau und die Fruchtbarkeit steht. Das fand ich für eine Kosmetik-Marke eine wunderbare Klammer. Wir verwenden als Markenklammer "Das beste aus zwei Kulturen".  Die Göttin Ashéra stammt in etwa aus der Mitte der beiden Orte und steht damit auch für die Verbindung von Ost und West.
+**Jacqueline:** Ja genau. Mir persönlich ist die Bedeutung "Gattin des Schöpfergottes" wichtig, da sie deshalb auch ”Mutter aller Göttinnen" genannt wird und darüber hinaus für die Schönheit der Frau und die Fruchtbarkeit steht. Das fand ich für eine Kosmetik-Marke eine wunderbare Klammer. Wir verwenden als Markenklammer "Das beste aus zwei Kulturen".  Die Göttin Ashéra stammt in etwa aus der Mitte der beiden Orte und steht damit auch für die Verbindung von Ost und West.
 
 **Anne:**  Was unterscheidet Ashéra von anderen Beauty-Marken?
 

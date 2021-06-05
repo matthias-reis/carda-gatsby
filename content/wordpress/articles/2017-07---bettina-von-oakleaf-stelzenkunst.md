@@ -115,7 +115,7 @@ Ich habe mich jetzt mit der Gründerin und Chefin der Gruppe Bettina Eichblatt-K
 
 **Anne:** Wer denkt sich die Kostüme aus und wer stellt sie her?
 
-## „Straßenkunst ist eine gute Art, sich den öffentlichen Raum als Lebensraum zugänglich zu machen“
+## "Straßenkunst ist eine gute Art, sich den öffentlichen Raum als Lebensraum zugänglich zu machen"
 
 **Bettina:** Ich denke mir alles aus und nähe, klebe und baue auch alles selbst. Die ganze Technik, seien es LEDs oder sich drehende Riesenräder, macht mein Mann Piet Koenekoop.
 
@@ -146,7 +146,7 @@ Ich habe mich jetzt mit der Gründerin und Chefin der Gruppe Bettina Eichblatt-K
 
 **Bettina:** Ich muss leider zugeben, dass ich so etwas nicht habe. Aber ich bin stundenlang auf Youtube unterwegs, weil ich immer ziemlich genaue Vorstellungen von der Stimmung der Musik habe die ich für unsere Shows und Walkacts suche.
 
-**Anne:** Beende diesen Satz: „Die Welt wäre ein ganzes Stück friedlicher, wenn...“
+**Anne:** Beende diesen Satz: "Die Welt wäre ein ganzes Stück friedlicher, wenn..."
 
 **Bettina:** So eine Frage kurz nach [G20](/2017/07/nog20/). Ich glaube es ist wichtig viel Raum für persönliche Begegnung zu öffnen und gemeinsam schöne Dinge zu tun: Feiern, Essen, Kunst und so weiter.
 

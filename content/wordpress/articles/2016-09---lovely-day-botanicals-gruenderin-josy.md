@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: „Don't be Eye Candy, be Soul Food“
+subTitle: "Don't be Eye Candy, be Soul Food"
 ---
 
 **Josy von Lovely Day Botanicals aus Berlin ist eine ganz besondere Frau. Sie stellt ihre eigene Kosmetik her und lässt sich dabei nicht reinreden. Sie setzt sich gegen Tierquälerei ein und hat obendrein einen wundervollen Musikgeschmack. Jetzt habe ich mich mit ihr zum Interview verabredet.**
@@ -61,7 +61,7 @@ Im Gespräch bin ich all meine Fragen zu Inhaltsstoffen, Herstellung und Firmen
 
 **Josy:** Lovely Day hieß ein kleiner Laden in Melbourne, wo ich einige Zeit gelebt habe. Ich erinnere mich, dass es mir jedes Mal irgendwie ein Lächeln auf die Lippen gezaubert hat, wenn ich daran vorbei gegangen bin und ich jedes Mal dachte: Was für ein toller, simpler und positiver Name! Als ich dann auf Namensuche war, war mir von Anfang an klar, es muss etwas mit "Lovely Day" sein.
 
-Zuerst wollte ich ein "Organics" oder "Beauty" dahinter klemmen, aber "Botanicals" schien mir am modernsten. Leider verstehen das aber hierzulande viele Menschen nicht richtig, weshalb ich das „Botanicals“ vermutlich über kurz oder lang wieder weglassen werde.
+Zuerst wollte ich ein "Organics" oder "Beauty" dahinter klemmen, aber "Botanicals" schien mir am modernsten. Leider verstehen das aber hierzulande viele Menschen nicht richtig, weshalb ich das "Botanicals" vermutlich über kurz oder lang wieder weglassen werde.
 
 **Anne:** Wie bist Du auf die Idee gekommen, vegane Naturkosmetik herzustellen? Kommst Du aus der Branche?
 

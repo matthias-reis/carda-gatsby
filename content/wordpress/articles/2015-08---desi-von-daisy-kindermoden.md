@@ -68,7 +68,7 @@ Desi war für mich schon immer eine fröhliche Persönlichkeit, bunt, verspielt,
 
 **Desi:** Bisher war mein Tag leider etwas anstrengend, da beide Kinder fiebern. Und das bei dem traumhaften Wetter.
 
-**Anne:** Oh, dann wünsche ich gute Besserung für die Kleinen! Der Name „Daisy“ ist ja nicht nur eine andere Schreibweise deines Namens sondern ist auch noch die englische Bezeichnung für meine Lieblingsblume: Das Gänseblümchen. Ich liebe diese Idee! Der stand sicher sofort fest, oder?
+**Anne:** Oh, dann wünsche ich gute Besserung für die Kleinen! Der Name "Daisy" ist ja nicht nur eine andere Schreibweise deines Namens sondern ist auch noch die englische Bezeichnung für meine Lieblingsblume: Das Gänseblümchen. Ich liebe diese Idee! Der stand sicher sofort fest, oder?
 
 ## Gänseblümchen sind das Motto
 

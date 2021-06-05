@@ -256,7 +256,7 @@ I listen to a lot of music that primarily has vocals, and one thing that really 
 
 ## "'Monophonic' was my fist post-rock record"
 
-**Nick** : I think everyone has their own inspirations that they bring to the table. We put together a Spotify playlist that features a lot of the artists that inspired this particular release. Everything from Pink Floyd, to At The Drive-In, to Tycho, ended up all over this record. What’s funny about this band for me personally is that the first-ever ‘post-rock’ record I listened to was the first Pray for Sound EP “Monophonic” back when the project was just entirely
+**Nick** : I think everyone has their own inspirations that they bring to the table. We put together a Spotify playlist that features a lot of the artists that inspired this particular release. Everything from Pink Floyd, to At The Drive-In, to Tycho, ended up all over this record. What’s funny about this band for me personally is that the first-ever ‘post-rock’ record I listened to was the first Pray for Sound EP "Monophonic” back when the project was just entirely
 
 **Bruce:** It really introduced me to what the genre had to offer and helped serve as a launching off point for where everyone's role could be in the band.
 

@@ -227,7 +227,7 @@ One of the main reasons I do everything myself is because it gives me ultimate f
 
 **Anne:** Do you already have a name for the new record?
 
-**Evan:** I do: “Pine Trees &amp; The Faint Sound Of Buzzing.”
+**Evan:** I do: "Pine Trees &amp; The Faint Sound Of Buzzing.”
 
 ## "Pine Tree &amp; The Faint Sound Of Buzzing" will be released in spring 2021"
 
@@ -278,7 +278,7 @@ I actually ended up selling my drum set in 2012 and barely touched an instrument
 
 ## "For Heavybird I've focused on recording"
 
-**Evan:** 2015 was a real turning point for me, so much has happened since then. I’ve recommitted myself to music, I met my soulmate and we got married, and I’ve worked a variety of musically-unrelated full time jobs through it all. For Heavybird I’ve mostly focused on recording, and the few shows I have played have all varied pretty wildly in how they sounded. Just in this past year or so I’ve done three releases of ambient music under the name “soft static,” recorded drums for and toured with my magical friend Luis Mojica, contributed drums to an upcoming album by Sheepish Wonder, and got through the second draft of a novel. I tend to keep myself pretty busy.
+**Evan:** 2015 was a real turning point for me, so much has happened since then. I’ve recommitted myself to music, I met my soulmate and we got married, and I’ve worked a variety of musically-unrelated full time jobs through it all. For Heavybird I’ve mostly focused on recording, and the few shows I have played have all varied pretty wildly in how they sounded. Just in this past year or so I’ve done three releases of ambient music under the name "soft static,” recorded drums for and toured with my magical friend Luis Mojica, contributed drums to an upcoming album by Sheepish Wonder, and got through the second draft of a novel. I tend to keep myself pretty busy.
 
 **Anne:** Are you collaborating with other musicians for Heavybird?
 

@@ -81,7 +81,7 @@ Veranstalter Manfred Pakusius möchte die Schleswiger Königswiesen zu einem gan
 
 ## Ein ganz besonders Festival
 
-Das Festivalgelände soll im Vergleich zu anderen Festivals besonders abwechslungsreich sein. „Die Kasse und der Haupteingang werden sich bei der Brücke entlang des Strandweges befinden. Kulturspielorte sind die große Musikbühne vor der Naturtribüne, das bestuhlte Kulturzelt, ein Filmpavillon im Wäldchen sowie ein Straßentheaterdeck und eine Wasserbühne nahe dem Domschul-Ruderclub. Das Luisenbad wird in den Abendstunden zum Tanzdeck, die Heckenanlage zum Kunstfeld und das Wäldchen beherbergt jede Menge Aktivitäten für Kinder.“, so Manfred Pakusius.
+Das Festivalgelände soll im Vergleich zu anderen Festivals besonders abwechslungsreich sein. "Die Kasse und der Haupteingang werden sich bei der Brücke entlang des Strandweges befinden. Kulturspielorte sind die große Musikbühne vor der Naturtribüne, das bestuhlte Kulturzelt, ein Filmpavillon im Wäldchen sowie ein Straßentheaterdeck und eine Wasserbühne nahe dem Domschul-Ruderclub. Das Luisenbad wird in den Abendstunden zum Tanzdeck, die Heckenanlage zum Kunstfeld und das Wäldchen beherbergt jede Menge Aktivitäten für Kinder.", so Manfred Pakusius.
 
 Und jetzt kommt der Clou: Ich verlose unter meinen Lesern 2x2 Tickets in Form von Gästelistenplätzen! Dabei heißt es schnell sein: Verlost werden die Gästelistenplätze unter allen Likes und Kommentaren, die bis einschließlich 10. Juni unter diesem Beitrag sowie unter dem Link zum Beitrag auf meiner Facebookseite erscheinen.
 

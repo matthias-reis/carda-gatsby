@@ -45,13 +45,13 @@ Ein Problem bei der Bergung von Geisternetzen ist nach wie vor die fachgerechte 
 
 Eigentlich sind Berufsfischer dazu verpflichtet, ihre Netze mit Fahnen oder Bojen zu markieren. An dem aus der Ostsee geborgenen Netz waren keine derartigen Markierungen mehr zu erkennen. So kam es dazu, dass sich über einen langen Zeitraum hinweg unentdeckt Tiere darin verfangen konnten.
 
-Andrea Stolte erzählt weiter, dass es sich dabei keineswegs um einen Einzelfall handelt. Es passiert einfach immer wieder. „Ein Netz ohne Markierung zu stellen, ist illegal. Gerade solche Funde zeigen, wie wichtig es ist, die Kennzeichnungspflicht für Stellnetze durchzusetzen“, sagt sie. Sie fordert, dass Markierungsbojen entwickelt werden, die das Auffinden und die Zuordnung von Netzen erleichtern. Viel zu oft reißen die Markierungsbojen ab und Netze driften aufs Meer hinaus.
+Andrea Stolte erzählt weiter, dass es sich dabei keineswegs um einen Einzelfall handelt. Es passiert einfach immer wieder. "Ein Netz ohne Markierung zu stellen, ist illegal. Gerade solche Funde zeigen, wie wichtig es ist, die Kennzeichnungspflicht für Stellnetze durchzusetzen", sagt sie. Sie fordert, dass Markierungsbojen entwickelt werden, die das Auffinden und die Zuordnung von Netzen erleichtern. Viel zu oft reißen die Markierungsbojen ab und Netze driften aufs Meer hinaus.
 
 ## Die Meeresschützer sind auf Hinweise angewiesen
 
 Das Netz von Warnemünde konnte aufgrund eines Tipps von einem Mitarbeiter der Uni Rostock geortet und entfernt werden. Er hatte es beim Schnorcheln im Meer entdeckt und die Stelle sofort gemeldet. Die Meeresschützer von WWF, Sea Shepherd und Co. sind auf derartige Hinweise angewiesen. Je genauer, desto besser.
 
-„Es ist schwierig, ein verlorenes Netz aufzuspüren“, meint auch Andrea Stolte. „Wir sind dankbar für jeden Hinweis dieser Art.“
+"Es ist schwierig, ein verlorenes Netz aufzuspüren", meint auch Andrea Stolte. "Wir sind dankbar für jeden Hinweis dieser Art."
 
 Für das Jahr 2019 plant der WWF eine App, mit deren Hilfe Wassersportler Fundstellen melden können. Bis dahin freuen sich die Naturschützer über Hinweise unter geisternetze@wwf.de.
 

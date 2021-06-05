@@ -43,9 +43,9 @@ subTitle: Likör selbst gemacht
 
 **Heute präsentiere ich Euch eine ganz besonders schöne Geschenk-Idee für Freunde guter Liköre. Weil die Idee, die Planung, das Rezept und die Bilder von Matze stammen, möchte ich hiermit das Wort an ihn übergeben. Vorhang auf für seinen "Plum Gin"!**
 
-Vor einigen Jahren sind wir zufällig über "Sloe Gin" gestolpert. Das ist ein Likör auf Gin-Basis, der mit Schlehen-Früchten angesetzt wird. Er schmeckt hervorragend, insbesondere, wenn man ihn, wie beim klassischen “Gin Tonic” mit (in diesem Fall am besten einem kräftigeren) Tonic Water mischt.
+Vor einigen Jahren sind wir zufällig über "Sloe Gin" gestolpert. Das ist ein Likör auf Gin-Basis, der mit Schlehen-Früchten angesetzt wird. Er schmeckt hervorragend, insbesondere, wenn man ihn, wie beim klassischen "Gin Tonic” mit (in diesem Fall am besten einem kräftigeren) Tonic Water mischt.
 
-Ich dachte mir, dass man das doch auch selbst hinbekommen müsste und begab mich auf die Suche nach Schlehen. Das stellte sich als gar nicht so einfach heraus. Schlehen muss man nämlich selbst in “freier Wildbahn” ernten. Die Früchte sind gegen Ende November reif und da man den Liköransatz mindestens sechs Wochen ziehen lassen muss, würde sich der ganze Prozess bis nach Weihnachten hinziehen.
+Ich dachte mir, dass man das doch auch selbst hinbekommen müsste und begab mich auf die Suche nach Schlehen. Das stellte sich als gar nicht so einfach heraus. Schlehen muss man nämlich selbst in "freier Wildbahn” ernten. Die Früchte sind gegen Ende November reif und da man den Liköransatz mindestens sechs Wochen ziehen lassen muss, würde sich der ganze Prozess bis nach Weihnachten hinziehen.
 
 <RemoteImage
   alt={`Likoer`}
@@ -89,7 +89,7 @@ Danach wird es spannend. In den ersten Tagen verändert sich die Farbe sehr schn
 
 Besonders in der drei- bis vierwöchigen Anfangsphase sollten die Gläser jeden zweiten Tag einmal durchgeschüttelt werden. Später genügen Intervalle von etwa einer Woche.
 
-Nach sechs bis acht Wochen ist der Vorgang, den man auch “Mazeration” nennt, abgeschlossen. Der Gin hat jetzt den Geschmack der Pflaumen angenommen.
+Nach sechs bis acht Wochen ist der Vorgang, den man auch "Mazeration” nennt, abgeschlossen. Der Gin hat jetzt den Geschmack der Pflaumen angenommen.
 
 ## Filtrieren und Abfüllen
 
@@ -112,7 +112,7 @@ Das Ganze haben wir schließlich in zwei schöne Halbliterflaschen abgefüllt un
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcE/8QAKxAAAQMDAgMHBQAAAAAAAAAAAQIDBAAFERIhBhMxBxQVQVFhkUJxgaGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQQFA//EAB4RAAICAgIDAAAAAAAAAAAAAAECABEDITFBBGGR/9oADAMBAAIRAxEAPwC0WqKnnhShtqFc/BbMnuUnv0dLCitPLwnGpGCc/fJPzSDcTFsAeVqLqY4cyTgq2yeo9KInEDbkhqOyghOVAho6tS0p2Bx0yf5U2hd3xHNnqQlrVL8SuffIehnmksK0HK0la98/HzRSJ3EM5mQFw7bKbaW2n6j1Gc+XvRRU65H2CvUqbPaJcVRYzLUVAcRstRJIXtjoafeeMLi7EZXBZRA0pSh7kjWCd8EkjbJ6D2NRsTgie9KcFvbnckqyhKoqycehPStG4a7On27Q4m7vIYdWoHlhoL1AdNQzsfSkmwux0JYXPiQA9zIZ94vD8tx/xRSluHKiDpz+KK1eV2aWpbxU7KUCfJtgAftRorUYGrYEXbyVJ1P/2Q=="
 />
 
-Dann ging es endlich ans Probieren. Ein paar Minuten Arbeit und zwei Monate Wartezeit später stand ein “Plum-Gin and Tonic” vor uns. Wir haben in ein halbes Glas Eis circa vier cl des Likörs gegeben und die kleinen Cocktail-Gläser mit Tonic Water aufgegossen. Ich möchte nur so viel sagen: Es schmeckte hervorragend, Pflaumen und Wacholder waren gut herauszuschmecken. Sogar den Hauch von Vanille konnte man wahrnehmen.
+Dann ging es endlich ans Probieren. Ein paar Minuten Arbeit und zwei Monate Wartezeit später stand ein "Plum-Gin and Tonic” vor uns. Wir haben in ein halbes Glas Eis circa vier cl des Likörs gegeben und die kleinen Cocktail-Gläser mit Tonic Water aufgegossen. Ich möchte nur so viel sagen: Es schmeckte hervorragend, Pflaumen und Wacholder waren gut herauszuschmecken. Sogar den Hauch von Vanille konnte man wahrnehmen.
 
 Unser zweites Experiment, der Quince-Gin, der Gin-Likör mit Quitten-Ansatz wird ebenfalls in den nächsten Tagen fertig. Wir freuen uns schon auf einen fruchtig-herben Weihnachts- [Cocktail](/2018/06/tom-yum-mule/).
 

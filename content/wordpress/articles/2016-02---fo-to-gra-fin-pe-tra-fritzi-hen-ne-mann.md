@@ -161,7 +161,7 @@ Es gibt Termine, die könnte ich zehnfach vergeben. Dann aber bleiben bestimmte 
 
 **Petra:** Oh, das ist schwer… Manchmal ist es die Gesamtstimmung, die Herzlichkeit des Brautpaares und der Gäste, die mir in Erinnerung bleibt, manchmal eine besondere Situation, nette Begebenheiten. Natürlich zählen auch die Hochzeiten zu meinen Lieblings-Hochzeiten, bei denen ich am Ende an Wahnsinns-Bild habe.
 
-Und dann erinnere ich mich natürlich besonders gerne an die Hochzeiten, bei denen ich mit den Brautpaaren immer noch in Kontakt stehe. Wie bei Dir und Matze! Eine Hochzeit ist eine Herzensangelegenheit und oft treffe ich dabei auf ganz wunderbare Menschen, bei denen es einfach schön ist, auch nach dem eigentlichen Auftrag noch Zeit miteinander zu verbringen. Sogar eine meiner besten Freundinnen war eine „meiner“ Bräute.
+Und dann erinnere ich mich natürlich besonders gerne an die Hochzeiten, bei denen ich mit den Brautpaaren immer noch in Kontakt stehe. Wie bei Dir und Matze! Eine Hochzeit ist eine Herzensangelegenheit und oft treffe ich dabei auf ganz wunderbare Menschen, bei denen es einfach schön ist, auch nach dem eigentlichen Auftrag noch Zeit miteinander zu verbringen. Sogar eine meiner besten Freundinnen war eine "meiner" Bräute.
 
 **Anne:** Matzes und meine Hochzeit, bei der Du ja auch die Fotos gemacht hast, war so wie wir sind: Bunt, ein bisschen chaotisch und mit Musik von Prog-Rock über Britpop bis zu Indie und Post-Rock. Dir hat das gut gefallen und darüber haben wir uns auch lieben gelernt. Was liebst Du an Musik besonders? Welche Bands sind Dir die liebsten?
 
@@ -203,7 +203,7 @@ Welchen typischen Hochzeitssong würdest Du am liebsten nie wieder hören?
 
 Kommen wir lieber wieder zu etwas Schönem. Welcher Song sollte unbedingt auf jeder Hochzeit gespielt werden?
 
-**Petra:** Ein Song sollte immer zum Brautpaar passen. Doch ich würde auf jeden Fall die Tanzfläche eröffnen mit „Song 2“ von Blur!
+**Petra:** Ein Song sollte immer zum Brautpaar passen. Doch ich würde auf jeden Fall die Tanzfläche eröffnen mit "Song 2" von Blur!
 
 **Anne:** Dann haben Matze und ich ja alles richtig gemacht! Das freut mich!
 
@@ -320,7 +320,7 @@ Daher werde ich von der Anmutung und Farbstimmung der Bilder noch ein bißchen m
 
 Ob sie geahnt hat, dass ich noch so viele Agfa SCALAsw-Diafilme im Keller habe, die nur darauf warten, endlich einmal wieder verwendet zu werden? Ich nehme mir das jetzt zu Herzen. Es wird definitiv wieder mehr schwarzweiß-Bilder geben. Und ich freue mich darauf!
 
-**Anne:** Als Matze und ich geheiratet haben, warst Du noch unter dem Namen „Frau Schokolinse“ unterwegs. Gibt es die Schokolinse noch?
+**Anne:** Als Matze und ich geheiratet haben, warst Du noch unter dem Namen "Frau Schokolinse" unterwegs. Gibt es die Schokolinse noch?
 
 **Petra:** (Überlegt) Die Frau Schokolinse habe ich ein wenig "eingeschmolzen" da ich mich ja hauptsächlich auf Hochzeiten konzentrieren wollte. Der Name war mir viel zu lieblich und blumig dafür und besser geeignet für die Familienbilder und Kinderfotos, die ich damals noch unter diesem Namen fotografiert habe.
 
@@ -490,7 +490,7 @@ Wenn ich sehe, wie wenig Zeit Braut und Bräutigam am eigentlichen Hochzeitstag 
   ]}
 />
 
-[^1]: [Hier geht’s direkt zum Artikel „Ein Brautkleid reist durch Neuseeland“ in Petras Blog.](http://schokolinse.pixieset.com/mitdembrautkleidimrucksackdurchneuseeland)
+[^1]: [Hier geht’s direkt zum Artikel "Ein Brautkleid reist durch Neuseeland" in Petras Blog.](http://schokolinse.pixieset.com/mitdembrautkleidimrucksackdurchneuseeland)
 [^2]: [Petras Homepage findet Ihr hier](http://www.petrafritzihennemann.de/)
 [^3]: [Wir haben im Rahmen unserer Hochzeit ein Hochzeitsblog angelegt. Neugierige bitte hier entlang.](http://hochzeit.smartr.de/)
 [^4]: [Wir haben zwar keine Bergtour gemacht, aber eine Hochzeitsreise nach Bali](/2013/08/bali-aus-dem-autofenster/).

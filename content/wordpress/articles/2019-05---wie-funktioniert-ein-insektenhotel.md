@@ -247,7 +247,7 @@ Ihr seht eine hilflos strampelnde Biene auf dem Boden liegen? Jetzt ist es Zeit 
 
 Das Wort " **Saatbombe** " habe ich weiter oben bereits erwähnt. Nutzt sie auch in freier Natur und auf Grünflächen, um die für Bienen so wichtigen **Wildblumen** auszusähen. In unseren zunehmend urbaner werdenden Lebensräumen bietet sich oft kaum noch eine Anflugmöglichkeit für die wichtigen Insekten. Ob der Zeitraum, von dem Wilhelm Busch gesprochen hat, genau stimmt, weiß ich nicht, ohne bestäubende Insekten ist jedenfalls auch die Menschheit hoffnungslos verloren.
 
-> “Wenn die Biene einmal von der Erde verschwindet, hat der Mensch nur noch vier Jahre zu leben.” Wilhelm Busch
+> "Wenn die Biene einmal von der Erde verschwindet, hat der Mensch nur noch vier Jahre zu leben.” Wilhelm Busch
 
 ## Kleine Bienenkunde
 

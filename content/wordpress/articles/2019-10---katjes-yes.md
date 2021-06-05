@@ -51,7 +51,7 @@ Der unbeholfene Aufschrei löste eine regelrechte Welle der Aufmerksamkeit aus u
 
 ## Katjes zeigt Alternativen ohne Tierleid
 
-Der Katjes Chocjes TV-Spot trägt den Titel “Jedes Leben ist wertvoll” und ist Teil der Kampagne “Cool ohne Kuh”. Unter dem Hashtag #achtemaldrauf weist Katjes seit Neuestem auf faire und gesunde Alternativen, die ohne Tierleid auskommen, hin. Entwickelt wurde das Ganze von der Berliner Werbeagentur antoni. Das Artwork stammt von keinem Geringeren als dem britischen Illustratoren und Karikaturisten Gerald Scarfe, der unter anderem mit dem Cover für das **Pink Floyd** Album “The Wall” Berühmtheit erlangte. Scarfe zeigt, was Sache ist: Massentierhaltung ist grausam und Kuhmilch kann man ganz leicht mit Haferdrink ersetzen.
+Der Katjes Chocjes TV-Spot trägt den Titel "Jedes Leben ist wertvoll” und ist Teil der Kampagne "Cool ohne Kuh”. Unter dem Hashtag #achtemaldrauf weist Katjes seit Neuestem auf faire und gesunde Alternativen, die ohne Tierleid auskommen, hin. Entwickelt wurde das Ganze von der Berliner Werbeagentur antoni. Das Artwork stammt von keinem Geringeren als dem britischen Illustratoren und Karikaturisten Gerald Scarfe, der unter anderem mit dem Cover für das **Pink Floyd** Album "The Wall” Berühmtheit erlangte. Scarfe zeigt, was Sache ist: Massentierhaltung ist grausam und Kuhmilch kann man ganz leicht mit Haferdrink ersetzen.
 
 ## Schaut Euch diesen Spot an!
 
@@ -59,7 +59,7 @@ Wer den Spot noch nicht gesehen hat, sollte ihn sich unbedingt zu Gemüte führe
 
 Übrigens verwendet Katjes bei der Herstellung der veganen Chocjes Schokolade UTZ-zertifizierte Haselnüsse und UTZ-Kakao. Neben Haferdrink werden auch Soja- und Mandeldrink verarbeitet. Eingepackt ist die Schoki mit FSC-zertifiziertem Papier. Chapeau, Katjes!
 
-Was lernen wir daraus? Es ist gut und wichtig, die Wahrheit da draußen zu verbreiten und zu zeigen, wie es in den Tierfabriken zugeht. Vermutlich wird irgendwann die Zeit kommen, in der man wieder “Hafermilch” statt “Haferdrink” auf Verpackungen schreiben darf (Scheuermilch kommt schließlich auch nicht aus Eutern, oder habe ich da was verpasst?). Die Maschinerie, die hinter der Ausbeutung von Tieren und der Zerstörung unserer Umwelt steckt, wird immer weiter enthüllt. Peinliche Reaktionen, wie die des bayerischen Bauernverbandes, sind der erste Weg zum Eingeständnis.
+Was lernen wir daraus? Es ist gut und wichtig, die Wahrheit da draußen zu verbreiten und zu zeigen, wie es in den Tierfabriken zugeht. Vermutlich wird irgendwann die Zeit kommen, in der man wieder "Hafermilch” statt "Haferdrink” auf Verpackungen schreiben darf (Scheuermilch kommt schließlich auch nicht aus Eutern, oder habe ich da was verpasst?). Die Maschinerie, die hinter der Ausbeutung von Tieren und der Zerstörung unserer Umwelt steckt, wird immer weiter enthüllt. Peinliche Reaktionen, wie die des bayerischen Bauernverbandes, sind der erste Weg zum Eingeständnis.
 
 <YouTube id="Zoazx5UTw6s" />
 

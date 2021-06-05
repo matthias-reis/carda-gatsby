@@ -158,7 +158,7 @@ Die Großdemo für die Schließung des Hamburger Tierversuchslabor LPT startet u
 
 Dr. Zietek, Wissenschaftskoordinatorin bei den Ärzten gegen Tierversuche findet klare Worte:
 
-> „Die verdeckten Ermittlungen müssen unbedingt rechtliche Konsequenzen haben“,
+> "Die verdeckten Ermittlungen müssen unbedingt rechtliche Konsequenzen haben",
 
 sagt sie. Die Ärzte gegen Tierversuche hatten erst Anfang des Jahres schwere Missstände am Deutschen Krebsforschungszentrum (DKFZ) in Heidelberg aufgedeckt. Die Strafanzeige hatte bei den betroffenen Forschern jedoch nicht zur Einsicht geführt. Sie hatten ihre Vergehen verteidigt. Die Ermittlungen der Staatsanwaltschaft wurden anschließend einfach eingestellt.
 

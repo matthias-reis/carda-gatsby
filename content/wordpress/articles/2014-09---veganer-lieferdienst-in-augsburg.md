@@ -158,7 +158,7 @@ Seit kurzem gibt es in Augsburg einen ganz besonderen Lieferdienst, der sich bes
 
 **Ihlani:** Für mich schon. Es erklärt sich einfach von selbst. "Was du nicht willst, das man dir tu, das füg’ auch keinem andren zu".
 
-**Anne:** Ihr habt so tolle Gerichte auf der Karte wie Giggeling Veggies (Gemüse im Kichererbsenteig) und erst letzte Woche entdeckte ich an Eurer Facebook-Pinnwand die neueste Kreation: Den „Fürst Pückler Muffin“ mit roter Beete, Kürbis und Schokolade. Wie kommst Du auf diese wundervollen Ideen?
+**Anne:** Ihr habt so tolle Gerichte auf der Karte wie Giggeling Veggies (Gemüse im Kichererbsenteig) und erst letzte Woche entdeckte ich an Eurer Facebook-Pinnwand die neueste Kreation: Den "Fürst Pückler Muffin" mit roter Beete, Kürbis und Schokolade. Wie kommst Du auf diese wundervollen Ideen?
 
 **Ihlani:** Ich schmecke die Gerichte manchmal schon, bevor ich sie gekocht habe. Wenn ich über den Stadtmarkt gehe, das Gemüse und die Früchte sehen und rieche, stelle ich gedanklich schon oft die Gerichte zusammen. Bei Gewürzen ist es das Gleiche, vielleicht könnte man das mit dem Komponieren von Musikstücken vergleichen. Und ganz selten träume ich von einem Gericht, so war es mit dem "Fürst Pückler Muffin". (lacht)
 

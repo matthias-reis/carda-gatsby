@@ -74,9 +74,9 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwYH/8QAKRAAAQMDAgUDBQAAAAAAAAAAAQIDBAAFERIhBjFBUWEHE5EiI4Gh0f/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAAH/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAMRAiEx/9oADAMBAAIRAxEAPwDacSNC3RPde+0grCSskJ09eoxvjH5pGZAOT9OPFZi+ca2ZSWTbmpsY6ynS44XG1EEkbKJ3wAe1Xuep9hbhpcuRfac5K0I1Dlz5jt+6p4tc1JP1Ubmxt+FgnakXInipR+OeHbgwHY8pYB5BTZzy+PFLXbiKLHudujMKZfRKJ1rDgw0BvkkZ6Z2py8PsBoZzm7SSxJUyxAbcU3ss51jPjFX3GLDkWaQsMxglxoo1IzqCiMbZA3/lFFFnkXXY9wzb4qWI7MqMg+1GbWB1O6k4V8Dl3pO+ydE5xq3RoUYMuONglvoClIyc9iDRRXXkwZhdSf/Z"
 />
 
-**Anne:** „Sebastian Frost“ - Ist das ein Pseudonym oder Künstlername? Wie kam es dazu? Was bedeutet er? Möchtest Du uns Deinen echten Namen verraten?
+**Anne:** "Sebastian Frost" - Ist das ein Pseudonym oder Künstlername? Wie kam es dazu? Was bedeutet er? Möchtest Du uns Deinen echten Namen verraten?
 
-**Sebastian:** Sebastian ist natürlich mein realer Vorname, bei „Frost“ handelt es sich um einen Fakenamen, da ich nicht so sehr viel von meiner Privatsphäre preisgeben möchte. Da ich jedoch häufiger in Kontakt mit Medien, wie z.B. Wetter- und Fotoseiten stehe, sickert mein realer Nachname doch ab und an mal durch. Mein Nachname ist „Balders", er stammt aus dem norddeutschen Raum. Ich habe „Frost“ vor einigen Jahren gewählt, da ich ein Winterkind bin. Nicht umsonst hat es mich vor wenigen Wochen in die Kälte nach Sibirien gezogen.
+**Sebastian:** Sebastian ist natürlich mein realer Vorname, bei "Frost" handelt es sich um einen Fakenamen, da ich nicht so sehr viel von meiner Privatsphäre preisgeben möchte. Da ich jedoch häufiger in Kontakt mit Medien, wie z.B. Wetter- und Fotoseiten stehe, sickert mein realer Nachname doch ab und an mal durch. Mein Nachname ist "Balders", er stammt aus dem norddeutschen Raum. Ich habe "Frost" vor einigen Jahren gewählt, da ich ein Winterkind bin. Nicht umsonst hat es mich vor wenigen Wochen in die Kälte nach Sibirien gezogen.
 
 **Anne:** Du kommst gerade von Deinem Sibirien-/Yakutien-Tripp zurück. Wie lange warst Du unterwegs?
 
@@ -163,7 +163,7 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
 
 **Sebastian:** Eisnebel kommt in Europa kaum bis gar nicht vor. Er entsteht erst ab etwa -30 Grad Celsius. In der Luft sind dann nur noch Eiskristalle enthalten und keine Wassertröpfchen mehr, wie das sonst bei Nebel oder auch gefrierendem Nebel der Fall ist.
 
-**Anne:** Du lebst vegan. „Vegan auf Reisen“ ist für viele ein großes Thema, auch wir haben uns über eine vegane Reisegruppe auf Facebook[^1] kennengelernt.  Es ist sehr spannend, die unterschiedlichen Ernährungsweisen kennenzulernen. In vielen Ländern fällt es einem sehr leicht, sich vegan zu ernähren (ich habe z. B. in Indonesien und auf Sri Lanka nur gute Erfahrungen gemacht), in anderen Ländern gestaltet sich das etwas schwieriger, das hängt natürlich auch immer von den Traditionen und den Gewohnheiten der Bewohner ab. Ich kann mir vorstellen, dass es besonders in Yakutien und Sibirien nicht sehr leicht ist, der Hauptbestandteil der Nahrung besteht dort nach wie vor aus Fleisch und Fisch, wenn ich richtig informiert bin. Was ist Deine Erfahrung? Was wird dort gegessen? Wie hast Du Dich ernährt?
+**Anne:** Du lebst vegan. "Vegan auf Reisen" ist für viele ein großes Thema, auch wir haben uns über eine vegane Reisegruppe auf Facebook[^1] kennengelernt.  Es ist sehr spannend, die unterschiedlichen Ernährungsweisen kennenzulernen. In vielen Ländern fällt es einem sehr leicht, sich vegan zu ernähren (ich habe z. B. in Indonesien und auf Sri Lanka nur gute Erfahrungen gemacht), in anderen Ländern gestaltet sich das etwas schwieriger, das hängt natürlich auch immer von den Traditionen und den Gewohnheiten der Bewohner ab. Ich kann mir vorstellen, dass es besonders in Yakutien und Sibirien nicht sehr leicht ist, der Hauptbestandteil der Nahrung besteht dort nach wie vor aus Fleisch und Fisch, wenn ich richtig informiert bin. Was ist Deine Erfahrung? Was wird dort gegessen? Wie hast Du Dich ernährt?
 
 **Sebastian:** Fleisch und Fisch wird dort morgens, mittags und abends verzehrt. Und das in allen Variationen. Gemüse ist rar und teuer, da alles importiert werden muss. Komplett vegan zu leben, war in den abgeschiedenen Dörfern, würde ich behaupten, unmöglich. Es sei denn man würde sich 2 Wochen durchgehend nur von Haferbrei und Äpfeln ernähren. Ich bin daher für die Dauer meines Aufenthalts auf vegetarisch umgestiegen. Einige vegane Produkte habe ich zudem aus Deutschland mitgebracht.
 
@@ -178,7 +178,7 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
 
 **Anne:** Wie wurde Dein Veganismus angenommen? Wie reagierten die Menschen?
 
-**Sebastian:** Das Wort „vegan“ ist in Yakutien unbekannt. Man kennt es schlichtweg nicht und konnte mich nicht verstehen. Die Menschen wussten nicht mal, dass es auch ein russisches Wort für „vegan“ gibt. Totaler Wahnsinn. _lacht_
+**Sebastian:** Das Wort "vegan" ist in Yakutien unbekannt. Man kennt es schlichtweg nicht und konnte mich nicht verstehen. Die Menschen wussten nicht mal, dass es auch ein russisches Wort für "vegan" gibt. Totaler Wahnsinn. _lacht_
 
 **Anne:** Durch Deine Arbeit beim Deutschen Wetterdienst und Dein Reisehobby bist Du sehr oft unterwegs, nicht selten sehr weit weg von zu Hause. Dein Tipp gegen Heimweh?
 

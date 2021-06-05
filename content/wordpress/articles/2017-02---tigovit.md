@@ -51,11 +51,11 @@ Werbung\*
 
 Das habe ich nicht erst bewiesen, als ich mich [auf dem Weg zur Tiefenentspannung](/2014/11/auf-dem-weg-zur-tiefenentspannung/) in die Hände einer versierten Thai-Masseurin sowie einer TCM-Ärztin begab. Ich bin landläufig sogar schon ein Bisschen als Kräuterhexe bekannt. Was ich schon alles an Tees und Smoothies ausprobiert habe, ich sage es Euch!
 
-Doch Spaß beiseite. Mein Bruder war es, der mir vor ein paar Wochen eine kleine Schachtel in die Hand drückte. „Probier die mal. Ich glaube, die sind was für Dich!“, meinte er.
+Doch Spaß beiseite. Mein Bruder war es, der mir vor ein paar Wochen eine kleine Schachtel in die Hand drückte. "Probier die mal. Ich glaube, die sind was für Dich!", meinte er.
 
-„Kapseln? Bist Du sicher, dass die auch vegan sind?“, war meine erste Frage. Die Grüntee-Kapseln sind nicht nur vegan, sie beinhalten außerdem wertvolles EGCG und Piperin.
+"Kapseln? Bist Du sicher, dass die auch vegan sind?", war meine erste Frage. Die Grüntee-Kapseln sind nicht nur vegan, sie beinhalten außerdem wertvolles EGCG und Piperin.
 
-Nachdem das klar war und ich mich im Internet ein Bisschen schlau gemacht hatte, war ich bereit, es mal mit einem Test zu versuchen. „Täglich 2 – 3 Kapseln“ stand auf der Packung und Tante Google versicherte mir, dass ich keine Nebenwirkungen zu befürchten hatte. Warum also nicht mal testen. Wer nicht wagt, der nicht gewinnt.
+Nachdem das klar war und ich mich im Internet ein Bisschen schlau gemacht hatte, war ich bereit, es mal mit einem Test zu versuchen. "Täglich 2 – 3 Kapseln" stand auf der Packung und Tante Google versicherte mir, dass ich keine Nebenwirkungen zu befürchten hatte. Warum also nicht mal testen. Wer nicht wagt, der nicht gewinnt.
 
 ## Hochwirksame Antioxidantien
 

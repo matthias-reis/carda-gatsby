@@ -58,7 +58,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: „Wir möchten Gutes tun und keinen Benz kaufen“
+subTitle: 'Wir möchten Gutes tun und keinen Benz kaufen'
 ---
 
 <RemoteImage
@@ -80,7 +80,7 @@ Weil mein Artikel über Dannys Produkte so gut angekommen ist und auch ich gerne
 
 **Anne:** Du stellst ja unter anderem auch zahlreiche saisonale Produkte her. Woran arbeitest Du gerade?
 
-## „Derzeit wird der Rhabarber-Likör angesetzt“
+## "Derzeit wird der Rhabarber-Likör angesetzt"
 
 <RemoteImage
   alt={`Vegablum`}
@@ -150,7 +150,7 @@ Hinzukommt ein kleines Netzwerk aus anderen Manufakturen und Veganer/innen. In d
 
 **Anne:** Wie kommt es, dass eine derart dunkle Zeit wie das Mittelalter heute so eine große Faszination auf viele Menschen ausübt?
 
-## „Am Lagerfeuer herrscht entspannte Stimmung“
+## "Am Lagerfeuer herrscht entspannte Stimmung"
 
 <RemoteImage
   alt={`Vegablum`}
@@ -194,9 +194,9 @@ Hinzukommt ein kleines Netzwerk aus anderen Manufakturen und Veganer/innen. In d
 
 **Danny:** Dass [für Palmöl Regenwälder abgeholzt](/andere-blogs/auf-palmoel-besser-verzichten/) und Tiere und Menschen vertrieben werden, ist ja schon seit einiger Zeit bekannt und das wollen wir einfach nicht unterstützen.
 
-**Anne:** Sehr gut. Vervollständige diesen Satz: „Die Zukunft ist vegan, weil…“
+**Anne:** Sehr gut. Vervollständige diesen Satz: "Die Zukunft ist vegan, weil…"
 
-**Danny:** „…es sonst keine Zukunft gibt.“
+**Danny:** "…es sonst keine Zukunft gibt."
 
 **Anne:** Wie lautet Dein Motto?
 

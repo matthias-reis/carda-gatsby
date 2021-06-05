@@ -51,7 +51,7 @@ Einem Team der Universität im Amerikanischen Binghamton gelang es jetzt, umwelt
 
 ## Batterien aus Papier können zur Verkleinerung des Müllbergs beitragen
 
-„Die Mengen an elektronischem Abfall haben sich dramatisch vergrößert", sagt Seokheun Choi, Professor für Elektrotechnik und Informatik. Er entwickelte die nachhaltigen Batterien zusammen mit dem Chemieprofessor Omowunmi Sadik. „Unsere Batterien können dazu beitragen, diesen in Zukunft zu verkleinern.“
+"Die Mengen an elektronischem Abfall haben sich dramatisch vergrößert", sagt Seokheun Choi, Professor für Elektrotechnik und Informatik. Er entwickelte die nachhaltigen Batterien zusammen mit dem Chemieprofessor Omowunmi Sadik. "Unsere Batterien können dazu beitragen, diesen in Zukunft zu verkleinern."
 
 Schon seit Jahrzehnten wird immer wieder in diese Richtung geforscht. Die Technologie ist also nicht ganz neu. Bis jetzt war die Herstellung jedoch nicht, oder nur eingeschränkt, möglich. Mehr als einen Entwurf hatte es bis heute nicht gegeben.
 

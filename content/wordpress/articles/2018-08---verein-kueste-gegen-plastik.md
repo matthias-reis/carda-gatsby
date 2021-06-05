@@ -52,13 +52,13 @@ Tagtäglich rücken die Vereinsmitglieder aus und sammeln am Strand von [St. Pet
 
 Stündlich kann man Nachrichten über [erstickte Meeresbewohner](/2018/08/wwf-geisternetz-warnemuende/) lesen und bekommt über die sozialen Medien neue Videos von Müllwellen zu sehen, die aufs Land zurollen. In den Supermärkten stapeln sich derweil nach wie vor die Plastikverpackungen. Damit muss endlich Schluss sein, findet der Umweltschutzverein und entwickelte die App _Replace Plastic_ .
 
-> „Wir sind Küstenmenschen, die nicht mehr hinnehmen, dass ihnen der Plastikmüll am Meer buchstäblich vor die Füße gespült wird“
+> "Wir sind Küstenmenschen, die nicht mehr hinnehmen, dass ihnen der Plastikmüll am Meer buchstäblich vor die Füße gespült wird"
 
 Unter diesem Motto läuft das schlaue Handyprogramm. Es soll als direkter Draht zwischen Verbrauchern und Herstellern dienen. Kunden können Produkte, die sie in Verwendung haben, ganz einfach mithilfe des Barcodes einscannen. Wurde ein Produkt auf diese Art und Weise zwanzigmal gemeldet, bekommt der Hersteller eine E-Mail mit einer Erklärung, was er mit der Umstellung auf eine umweltfreundlichere Verpackung alles bewirken könnte.
 
 ## Die Firmen müssen merken, dass Plastik nicht erwünscht ist
 
-Jennifer Rot, die Gründerin von _Küste gegen Plastik_ sagte gegenüber Njoy ganz klar: „Wir werden das Problem nicht lösen, indem wir den Plastikmüll am Deich sammeln und in Säcke verpacken“. Und damit hat sie recht. Aufklärung ist gefragt. Außerdem ist es wichtig, dass die Firmen, welche die Waren des täglichen Bedarfs in Plastik einpacken, immer wieder darauf hingewiesen werden, dass sich die Menschen nachhaltiger Lösungen wünschen.
+Jennifer Rot, die Gründerin von _Küste gegen Plastik_ sagte gegenüber Njoy ganz klar: "Wir werden das Problem nicht lösen, indem wir den Plastikmüll am Deich sammeln und in Säcke verpacken". Und damit hat sie recht. Aufklärung ist gefragt. Außerdem ist es wichtig, dass die Firmen, welche die Waren des täglichen Bedarfs in Plastik einpacken, immer wieder darauf hingewiesen werden, dass sich die Menschen nachhaltiger Lösungen wünschen.
 
 Seit dem Launch der App im Jahr 2017 gingen schon 5.000 derartige Mails an Firmen raus. Insgesamt wurden bereits 52.000 Produkte von Kunden gescannt. Den ersten Erfolg konnte Jennifer mit ihrem Team bereits verbuchen. Ein in Eckernförde ansässiger Hersteller von Getränken hatte im Februar eine Nachricht von _Replace Plastik_ bekommen und möchte ab sofort auf Kunststoff in seinen Verpackungen verzichten.
 

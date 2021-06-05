@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: “Für jede Frau die passende Fritzi”
+subTitle: "Für jede Frau die passende Fritzi”
 ---
 
 ## **Berlin 2017 - Daniela Engelke, Senior Manager bei Fritzi aus Preußen im Interview**
@@ -60,7 +60,7 @@ subTitle: “Für jede Frau die passende Fritzi”
 
 **Anne:** Das klingt spannend! Dazu habe ich nachher auf jeden Fall noch ein paar Fragen. Doch zunächst mal: Wer ist _Fritzi aus Preußen_ ? Woher stammt der Name? Was hat es damit auf sich?
 
-**Daniela:** _Fritzi aus Preußen_ wurde im Jahr 2008 von Liebeskind Berlin gegründet. Franziska Adler genannt „Fritzi“ war damals Chefdesignerin. Sie ist die Namensgeberin der Marke. Im angesagten Stadtteil Berlin-Mitte kreierte sie damals mit Ihrem Designteam handgefertigte Unikate. Im Jahr 2011 übernahmen die jetzigen Geschäftsführer Esther de Wit und Roman Kraus das Fashionlabel. Wir bauen das Angebot seitdem kontinuierlich aus.
+**Daniela:** _Fritzi aus Preußen_ wurde im Jahr 2008 von Liebeskind Berlin gegründet. Franziska Adler genannt "Fritzi" war damals Chefdesignerin. Sie ist die Namensgeberin der Marke. Im angesagten Stadtteil Berlin-Mitte kreierte sie damals mit Ihrem Designteam handgefertigte Unikate. Im Jahr 2011 übernahmen die jetzigen Geschäftsführer Esther de Wit und Roman Kraus das Fashionlabel. Wir bauen das Angebot seitdem kontinuierlich aus.
 
 **Anne:** Was unterscheidet _Fritzi aus Preußen_ von anderen Designern?
 
@@ -74,7 +74,7 @@ subTitle: “Für jede Frau die passende Fritzi”
 
 **Anne:** Woran erkennt man typisches _Fritzi aus Preußen_ -Design?
 
-## “Der Look aus einem Guss”
+## "Der Look aus einem Guss”
 
 <RemoteImage
   alt={`Fritzi aus Preußen`}
@@ -85,7 +85,7 @@ subTitle: “Für jede Frau die passende Fritzi”
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBAYI/8QALBAAAgEEAQIFAQkAAAAAAAAAAQIDAAQFESEGEgcTFDFBoQgWIiQyUWFxwf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAbEQACAwEBAQAAAAAAAAAAAAABAgADERIiMf/aAAwDAQACEQMRAD8A9HR2JI2xpX1dkPu5hJMgln6xldUERmEI5+S7Agftz7kgVlj8QcJJdKiTflz+qZjrXHGl9zzxU0+0J1Xi8lh8JjbC8SYzXLTyqGIAVV0Ay+x2W+houWAlKKw7hT8lkmtXRyAtFJcN1bhbPp/FRz5AySC0hBYIW7j2DZop1ZiNyI1fJwyeWGRvJEUvfQqT7iOzj/0VxvjVbyPj8RlFuZLq2tJvLni9OgWJXI3KSoHwO3R2Oaxw5khAFYf3vmkfW2cuJ8FcWNvCsvqV8ti0gUKuwT/JJA0Kga8PmaE5UbLlkOpwsji1YRQK2lGgePj6UVAsLmLiPDQQ3tx3yptV0xJCb/CpJA2QON/OqKZdAyFihOgT/9k="
 />
 
-**Daniela:** Die Taschen und auch die Mode sind alltagstauglich, aber immer mit dem gewissen Etwas. In Hinblick auf die Optik gibt es eine große Auswahl. Besonders bei den Handtaschen ist die Materialpallette wirklich groß. Vom Vintagelook über die gewachste Optik bis hin zu Python-Lookalikes ist alles dabei. Hinzu kommt, dass alle Kollektionen, sprich Handtaschen, Schuhe, Hosen und Jacken, perfekt aufeinander abgestimmt sind. Wir bieten sozusagen den „Look aus einem Guss“.
+**Daniela:** Die Taschen und auch die Mode sind alltagstauglich, aber immer mit dem gewissen Etwas. In Hinblick auf die Optik gibt es eine große Auswahl. Besonders bei den Handtaschen ist die Materialpallette wirklich groß. Vom Vintagelook über die gewachste Optik bis hin zu Python-Lookalikes ist alles dabei. Hinzu kommt, dass alle Kollektionen, sprich Handtaschen, Schuhe, Hosen und Jacken, perfekt aufeinander abgestimmt sind. Wir bieten sozusagen den "Look aus einem Guss".
 
 **Anne:** _Fritzi aus Preußen_ gibt es jetzt seit 2008. Was hat sich seither bis auf den Wechsel in der Geschäftsleitung verändert?
 
@@ -147,13 +147,13 @@ Für jede verkaufte Tasche aus der Kollektion spendet _Fritzi aus Preußen_ dahe
 
 **Anne:** Wer ist für Dich die größte Modeikone aller Zeiten und warum?
 
-## “Coco Chanel ist eine Revolutionärin!”
+## "Coco Chanel ist eine Revolutionärin!”
 
 **Daniela:** Da gibt es nur eine Antwort für mich: Coco Chanel! Sie ist für mich Ikone, Stilistin und Revolutionärin zugleich. Sie war bahnbrechend und ihrer Zeit weit voraus. Für mich eine herausragende Persönlichkeit.
 
-**Anne:** Zuerst waren es „nur“ Schuhe, Taschen und Geldbörsen. Inzwischen gibt es auch Jeans und Gürtel sind in Planung. Was kommt als Nächstes?
+**Anne:** Zuerst waren es "nur" Schuhe, Taschen und Geldbörsen. Inzwischen gibt es auch Jeans und Gürtel sind in Planung. Was kommt als Nächstes?
 
-**Daniela:** Wir haben eine äußerst aussagekräftige Jackenkollektion. Diese wird von den Kunden sehr gut angenommen. Spannend wird in dieser Hinsicht die neue Saison Frühjahr/Sommer 2018. Flachgewebe-Hosen versprühen den Hauch von „Haute Casuality“. Sie sind komfortabel und abwechslungsreich zu kombinieren.
+**Daniela:** Wir haben eine äußerst aussagekräftige Jackenkollektion. Diese wird von den Kunden sehr gut angenommen. Spannend wird in dieser Hinsicht die neue Saison Frühjahr/Sommer 2018. Flachgewebe-Hosen versprühen den Hauch von "Haute Casuality". Sie sind komfortabel und abwechslungsreich zu kombinieren.
 
 **Anne:** Welches ist Dein absolutes Lieblingsstück aus der aktuellen _Fritzi aus Preußen_ -Kollektion?
 

@@ -76,7 +76,7 @@ Die Gruppe hat inzwischen sensationelle 3.540 Mitglieder. Vorgestellt werden die
 
 **Anne:** Welche sind deine Lieblingsschuhe?
 
-**Rainer:** Das ist eine schwierige Frage! Da gibt es einige. Eine meiner Lieblingsmarken ist Saucony. Da gibt es Modelle, die ich lange gesucht habe: den Saucony Shadow 6000 x Alife Rivington Club und Saucony Shadow 6000 x Acht Amsterdam „Invictus“. Ich bin sehr glücklich je ein Paar davon in meinem Schuhschrank zu haben. Auch Nike ist dort gut vertreten. Meine Lieblinge hier sind der AirMax1 „History of Air“ von 2005, Huarache Lights, der AirFlow und den AirMax1 „Desert Camo“. Es gibt einfach so viele tolle Schuhe!
+**Rainer:** Das ist eine schwierige Frage! Da gibt es einige. Eine meiner Lieblingsmarken ist Saucony. Da gibt es Modelle, die ich lange gesucht habe: den Saucony Shadow 6000 x Alife Rivington Club und Saucony Shadow 6000 x Acht Amsterdam "Invictus". Ich bin sehr glücklich je ein Paar davon in meinem Schuhschrank zu haben. Auch Nike ist dort gut vertreten. Meine Lieblinge hier sind der AirMax1 "History of Air" von 2005, Huarache Lights, der AirFlow und den AirMax1 "Desert Camo". Es gibt einfach so viele tolle Schuhe!
 
 **Anne:** Ich laufe sehr gerne, derzeit mit einem Paar Brooks Pure Cadence. Die sind supergenial, bequem, vegan, fair und sogar kompostierbar. Ich denke darüber nach, mir ein zweites Paar Laufschuhe für den Winter zuzulegen. Welche würdest du mir empfehlen, die diese Bedingungen auch erfüllen?
 
@@ -114,9 +114,9 @@ Die Gruppe hat inzwischen sensationelle 3.540 Mitglieder. Vorgestellt werden die
 
 **Anne:** Wie kommt es, dass sehr viele Menschen das Tragen von Pelzen ablehnen, aber Leder für selbstverständlich halten? Hast du eine Erklärung dafür?
 
-**Rainer:** Es ist beides ein schreckliches Leid. Die einzige Erklärung, die mir da einfällt, sind die Medien. Es wird häufiger über die „Pelz ist Mord Kampagnen“ gesprochen als über Leder. Was gut ist, denn Pelz wird augenscheinlich immer weniger als Luxus angesehen und akzeptiert. Auf der anderen Seite rücken andere wichtigen Themen in den Hintergrund, wie zum Beispiel Leder. Außerdem denke ich, dass Leder als Abfallprodukt bei der Schlachtung gesehen wird, was die Meinung darüber ein wenig mindert. Betrachtet man Schlagen- und Krokodilsleder, so werden die Stimmen ja häufig lauter.
+**Rainer:** Es ist beides ein schreckliches Leid. Die einzige Erklärung, die mir da einfällt, sind die Medien. Es wird häufiger über die "Pelz ist Mord Kampagnen" gesprochen als über Leder. Was gut ist, denn Pelz wird augenscheinlich immer weniger als Luxus angesehen und akzeptiert. Auf der anderen Seite rücken andere wichtigen Themen in den Hintergrund, wie zum Beispiel Leder. Außerdem denke ich, dass Leder als Abfallprodukt bei der Schlachtung gesehen wird, was die Meinung darüber ein wenig mindert. Betrachtet man Schlagen- und Krokodilsleder, so werden die Stimmen ja häufig lauter.
 
-_(Anmerkung: Spätestens seit der 37 Grad-Sendung „ Gift auf unserer Haut“ im ZDF, wissen wir, dass Leder kein Abfallprodukt der Fleischindustrie ist.)_
+_(Anmerkung: Spätestens seit der 37 Grad-Sendung " Gift auf unserer Haut" im ZDF, wissen wir, dass Leder kein Abfallprodukt der Fleischindustrie ist.)_
 
 **Anne:** Die Vegan Sneaker Connection gibt es jetzt seit rund 2 Jahren. Wie geht es weiter? Wird es bald ein Blog/eine Homepage geben? Oder sogar einen Shop? Sämtliche Hersteller veganer Schuhe wären ja die idealen Partner für euch. Was plant ihr für die nähere Zukunft?
 

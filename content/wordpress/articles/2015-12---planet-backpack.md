@@ -92,7 +92,7 @@ Aber meistens bedeutet für mich die Herausforderung nicht veganes Essen zu find
 
 **Anne:** Kannst Du mir einen Tipp geben, wie man solche Situationen umgehen bzw. überstehen kann?
 
-**Conni:** Wie gesagt, es ist nichts Verwerfliches – es geht nicht um Hundertprozentigkeit, sondern um den generellen Lifestyle. Ausnahmen gehören besonders in "Extremsituationen“ unterwegs auf Reisen dazu. Seitdem ich aber dieses Jahr eine Woche Wasserfasten gemacht habe, weiß ich, dass ich mit dem Gefühl Hunger gut einige Stunden oder einen Tag umgehen kann, wenn ich unterwegs bin.
+**Conni:** Wie gesagt, es ist nichts Verwerfliches – es geht nicht um Hundertprozentigkeit, sondern um den generellen Lifestyle. Ausnahmen gehören besonders in "Extremsituationen" unterwegs auf Reisen dazu. Seitdem ich aber dieses Jahr eine Woche Wasserfasten gemacht habe, weiß ich, dass ich mit dem Gefühl Hunger gut einige Stunden oder einen Tag umgehen kann, wenn ich unterwegs bin.
 
 **Anne:** Was sollte man auf Reisen immer dabei haben?
 
