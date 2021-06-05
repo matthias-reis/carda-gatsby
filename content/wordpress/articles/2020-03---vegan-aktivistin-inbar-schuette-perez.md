@@ -243,5 +243,5 @@ Der vielleicht größte Meilenstein war vermutlich, als mir klar wurde, dass ich
 
 ⋆ **Hinweis:** Durch die momentane Lage mit Corona wurde der Termin am 21. März aus Präventionsgründen abgesagt.
 
-\[^1\]: [Inbars Kochkurse für israelische Küche in der Kurkuma Kochschule](https://www.kurkuma-hamburg.de/israelisch/)
-\[^2\]: [Mitternachtsbus Hamburg](https://www.diakonie-hamburg.de/de/visitenkarte/diakonie-zentrum-fuer-wohnungslose/mitternachtsbus)
+[^1]: [Inbars Kochkurse für israelische Küche in der Kurkuma Kochschule](https://www.kurkuma-hamburg.de/israelisch/)
+[^2]: [Mitternachtsbus Hamburg](https://www.diakonie-hamburg.de/de/visitenkarte/diakonie-zentrum-fuer-wohnungslose/mitternachtsbus)
