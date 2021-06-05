@@ -34,7 +34,7 @@ languageLink: "/2021/06/thot-feiern-10-jahre-obscured-by-the-wind"
 
 Thot are announcing today's release with some bitterness: Due to some technical issues during the post-production of the recording, a large part of the material got destroyed. Originally the Brussels based band had planned open-air live versions of all ten songs on the record.
 
-### Dreamlike atmosphere
+## Dreamlike atmosphere
 
 What remains is a dreamlike version of the sixth song on the record "Blue & Green (are melting down in a new seed)". The massive amount of expression, pureness and feeling Grégoire and his group put into the atmospheric set leave you speechless.
 
@@ -44,12 +44,12 @@ Here is Grégoire's quote on the song:
 
 > "'Blue & Green' is the most electronic track on the album 'Obscured by the Wind'. Taking possession of it in this uncluttered form was an intense exercise, which took on its full meaning thanks to the subtle playing of Lucie and the shivering violin of Catherine, on which I was able to lean. The full moon of spring was an ideal companion to celebrate the ten years of this album with this video."
 
-### Interview with Thot founder Grégoire
+## Interview with Thot founder Grégoire
 
 [You can read my extensive interview with Thot founder Grégoire here](http://cardamonchai.com/2021/04/thot-interview/). We talked about the post-rock scene in Belgium, the milestones in the band's history and his childhood heroes. He also told me which Thot album he likes best. [Don't miss it](http://cardamonchai.com/2021/04/thot-interview/)!
 
 To celebrate the 10th anniversary of "Obscured By The Wind", Thot also released an exclusive vinyl edition of the record.
 
-### Thot - "Blue & Green (are melting down in a new seed)"
+## Thot - "Blue & Green (are melting down in a new seed)"
 
 <YouTube id="sPTa0VCO_qY" />
