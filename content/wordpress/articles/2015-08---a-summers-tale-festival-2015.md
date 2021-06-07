@@ -98,13 +98,6 @@ Grundsätzlich würde ich das Festival bei einem umfangreicheren Lineup mit wen
 
 <Gallery name="flickr/galerieasummerstale15" />
 
-## A Summer's Tale 2015 Wegweiser
-
-1.  [Get Well soon live @ A Summer's Tale Festival 2015](/2015/08/get-well-soon-live-a-summers-tale-festival-2015/)
-1.  [Hundreds live @ A Summer's Tale Festival 2015](/2015/08/hundreds-live-a-summers-tale-festival-2015/)
-1.  [Calexico live @ A Summer's Tale Festival 2015](/2015/08/calexico-live-a-summers-tale-festival-2015/)
-1.  [Bildergalerie und Fazit A Summer's Tale Festival 2015](/2015/08/a-summers-tale-festival-2015/)
-
 [^1]: [Homepage A Summer's Tale](https://www.asummerstale.de/de)
 [^2]: [Homepage Vincent Vegan](http://vincent-vegan.com/)
 
