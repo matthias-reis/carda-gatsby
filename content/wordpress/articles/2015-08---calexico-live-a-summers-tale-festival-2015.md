@@ -68,13 +68,6 @@ Ein paar meiner Bilder habe ich trotz seltsamer, unbeabsichtigter Unterwasserwe
 
 Die wundervolle Anne de Wolff unterstützte Calexico beim Auftritt als Geigerin. Ein paar meiner Bilder sind nun auf Ihrer [Homepage](http://www.annedewolff.de) zu sehen. Danke an Anne für den netten Kontakt!
 
-## A Summer's Tale 2015 Wegweiser
-
-1.  [Get Well soon live @ A Summer's Tale Festival 2015](/2015/08/get-well-soon-live-a-summers-tale-festival-2015/)
-1.  [Hundreds live @ A Summer's Tale Festival 2015](/2015/08/hundreds-live-a-summers-tale-festival-2015/)
-1.  [Calexico live @ A Summer's Tale Festival 2015](/2015/08/calexico-live-a-summers-tale-festival-2015/)
-1.  [Bildergalerie und Fazit A Summer's Tale Festival 2015](/2015/08/a-summers-tale-festival-2015/)
-
 ## Calexico Wegweiser
 
 1.  [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
@@ -88,7 +81,5 @@ Die wundervolle Anne de Wolff unterstützte Calexico beim Auftritt als Geigerin.
 1.  [live @ Große Freiheit 36 Hamburg 15.04.2015](/2015/04/calexico-live-grosse-freiheit-36-15-04-2015/)
 1.  live @ A Summer's Tale Festival 08.08.2015
 1.  [stellen neue Single "End Of The World With You" vor](/2017/10/calexico-the-thread-that-keeps-us/)
-
-[Homepage](http://www.casadecalexico.com) Calexico
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
