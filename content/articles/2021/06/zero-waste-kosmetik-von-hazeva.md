@@ -1,5 +1,5 @@
 ---
-date: 2021-05-02T17:21:42Z
+date: 2021-06-05T15:03:42+02:00
 labels:
 - Fair Fashion & Beauty
 - fester Conditioner
