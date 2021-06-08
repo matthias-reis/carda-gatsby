@@ -39,7 +39,7 @@ Ausgerechnet 2020, das Jahr, das wir alle niemals vergessen werden, haben sich A
 
 Das Feedback, das die Niederländer zu ihrer aktuellsten Aufnahme erhalten haben, ist durchwegs positiv. Trotzdem hatten sie in den letzten Monaten wenig Gelegenheit, die Platte zu präsentieren – Konzerte waren ja leider nicht möglich.
 
-### An Evening With Knives lassen sich nicht in eine Schublade stecken
+## An Evening With Knives lassen sich nicht in eine Schublade stecken
 
 ![An Evening With Knives – "Sense Of Gravity"](/img/an-evening-with-knives.jpeg 'An Evening With Knives – "Sense Of Gravity"')
 
@@ -59,7 +59,7 @@ Die Band gibt es seit 2015. "Sense of Gravity" hat bereits einige Vorgänger –
 
 Die beschriebene Vielfältigkeit wird Euch gleich im ersten Stück auf der Platte (Sacrifice") auffallen. Auf ein atmosphärisches Solo folgen hier Riffs, die man sonst vermutlich bei Ozzy und Co. suchen würde. Während einer Atempause bleibt die Basslinie zurück, die eine perfekte Überleitung zum großen Finale des Songs leitet.
 
-### Sieben Klangschätze
+## Sieben Klangschätze
 
 Insgesamt hält die Platte jede Menge Klangschätze bereit und auch melodisch ist einiges geboten – obwohl "Sense of Gravity" mit insgesamt gerade mal 41:05 Spielzeit und acht Songs eher eine der Kürzeren dieses Genres ist. Aber manchmal muss es eben einfach kurz und prägnant sein. Vielleicht macht auch genau das den Zauber des Albums aus, das bis zur letzten Note auf hohem Niveau bleibt.
 
@@ -67,6 +67,6 @@ Zu als "Sacrifice" hat die Band vor Kurzem ein Musikvideo veröffentlicht. Es ha
 
 Das Bild wechselt immer wieder zwischen den Szenen der Kurzgeschichte und einem AEVK Live Gig – da bekommt man so richtig Lust drauf, das Stück möglichst bald live in einem Club zu sehen. Das Video darf dann gerne über die Leinwand flackern.
 
-### An Evening With Knives – "Sacrifice"
+## An Evening With Knives – "Sacrifice"
 
 <YouTube id="JkUV2Vuxh6M" />
