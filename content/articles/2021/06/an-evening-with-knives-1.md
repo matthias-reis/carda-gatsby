@@ -41,7 +41,7 @@ An Evening With Knives have chosen the year that we will all never forget to rel
 
 The feedback the Dutch have received on this latest recording so far has been positive throughout. Nevertheless, they had little opportunity to present the record in the last few months due to the painful worldwide lack of concerts.
 
-### An Evening With Knives don't fit into a box
+## An Evening With Knives don't fit into a box
 
 ![An Evening With Knives – "Sense of Gravity"](/img/an-evening-with-knives.jpeg 'An Evening With Knives – "Sense of Gravity"')
 
@@ -51,7 +51,7 @@ It seems that 2021 is a bit more promising; although most festivals have already
 
 You could describe the music on "Sense of Gravity" as a mixture of doom and stoner sound – but An Evening With Knives definitely don't fit into any box, and that's good. I am sure: Everyone who enjoys looking for the stars on the floor in front of a stage will love their songs.
 
-### Complex song structures
+## Complex song structures
 
 The song structures are wonderfully complex, and the sounds are pleasantly heavy and hard – unfolding their full impact when played loud.
 
@@ -61,7 +61,7 @@ The band has been around since 2015. "Sense of Gravity" already has some predece
 
 You will notice the described diversity right away in the first track on the record ("Sacrifice"). An atmospheric solo is followed by riffs that you would probably otherwise look for with Ozzy and Co. The bass line lingers during a post-rock-like hiatus, leading a perfect transition to the song's grand finale.
 
-### Seven sound treasures
+## Seven sound treasures
 
 All in all, the record has many sound treasures in-store, and melodically there is a lot to offer – although "Sense of Gravity" with a total playing time of just 41:05 and eight songs is rather one of the shorter ones of this genre. But sometimes, it just has to be short and concise. Perhaps this is exactly what makes the album so magical, as it remains on a high level until the very last note.
 
@@ -69,6 +69,6 @@ The band recently released a music video for "Sacrifice". It's a dark short stor
 
 The image keeps changing between the scenes of the short story and an AEVK live gig – it really makes you want to see the piece live in a club as soon as possible. The video may then flicker across the screen.
 
-### An Evening With Knives – "Sacrifice"
+## An Evening With Knives – "Sacrifice"
 
 <YouTube id="JkUV2Vuxh6M" />
