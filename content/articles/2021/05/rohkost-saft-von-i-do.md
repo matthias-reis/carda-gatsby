@@ -1,12 +1,12 @@
 ---
-date: 2021-05-21T10:00:42+02:00
+date: 2021-05-21T10:00:42.000+02:00
 labels:
-  - Ernährung & Gesundheit
-  - Rohkost
-  - Saft
-  - kaltgepresster Saft
-  - Saft
-  - Rohkost-Saft
+- Ernährung & Gesundheit
+- Rohkost
+- Saft
+- kaltgepresster Saft
+- Saft
+- Rohkost-Saft
 language: de
 slug: rohkost-saft-i-do
 typeName: Produkttest
@@ -14,17 +14,20 @@ title: Rohkost-Saft von I·DO
 subTitle: Münchner Start-up mischt den Saftmarkt auf
 seoTitle: Veganer Rohkost-Saft von I·DO – Start-up mischt den Saftmarkt auf
 ogTitle: ''
-description: Lust auf veganen Rohkost-Saft? Der Name I·DO steht auch für ein ziemlich freshes Start-up, das eben diesen in Bio-Qualität herstellt.
-excerpt: Lust auf veganen Rohkost-Saft? Der Name I·DO steht auch für ein ziemlich freshes Start-up, das eben diesen in Bio-Qualität herstellt. Wer wird ausschließlich aus frischem Gemüse, Obst und Früchten hergestellt. Ich habe probiert.
-image: '/img/2021-05-07-antidote-33.jpg'
+description: Lust auf veganen Rohkost-Saft? Der Name I·DO steht auch für ein ziemlich
+  freshes Start-up, das eben diesen in Bio-Qualität herstellt.
+excerpt: Lust auf veganen Rohkost-Saft? Der Name I·DO steht auch für ein ziemlich
+  freshes Start-up, das eben diesen in Bio-Qualität herstellt. Wer wird ausschließlich
+  aus frischem Gemüse, Obst und Früchten hergestellt. Ich habe probiert.
+image: "/img/2021-05-07-antidote-33.jpg"
 copyright: ''
-ogImage: '/img/antidote-fb.jpg'
+ogImage: "/img/antidote-fb.jpg"
 focusKeyword: Rohkost-Saft
 advertisement: true
 affiliate: true
 languageLink: ''
----
 
+---
 **Der Name I·DO steht für ein ziemlich freshes Start-up aus München. Im Mittelpunkt des Geschehens steht veganer Rohkost-Saft in Bio-Qualität. Er wird ausschließlich aus frischem Gemüse, Obst und Früchten hergestellt. Ich habe probiert.**
 
 Das Gründungsteam bestehend aus Andi, Alex und Julien begann 2012 mit frischen, kaltgepressten Säften zu experimentieren. Ihr Ziel war es dabei eine Qualität zu produzieren, die es vorher so nicht gegeben hatte – zumindest nicht in der Flasche. Der passende Name war ziemlich schnell gefunden.
@@ -43,16 +46,16 @@ Die offizielle Gründung feierten die drei dann im Jahr 2014. In München ging d
 
 Insgesamt habe ich zehn I·DO Säfte getestet. Ich ordne sie hier mal nach meinem Geschmack an:
 
-- "Fireball" (5 Shots)
-- "Pine Apple Express"
-- Granatapfelsaft
-- Karotte, Apfel, Zitrone, Ingwer
-- "Karotte Kid"
-- "Just Beet It!"
-- "Love Me"
-- "Green Come True"
-- Frischer Sellerie Saft
-- "Liquid Salad"
+* "Fireball" (5 Shots)
+* "Pine Apple Express"
+* Granatapfelsaft
+* Karotte, Apfel, Zitrone, Ingwer
+* "Karotte Kid"
+* "Just Beet It!"
+* "Love Me"
+* "Green Come True"
+* Frischer Sellerie Saft
+* "Liquid Salad"
 
 Alle zehn Säfte haben mir sehr gut geschmeckt und ich würde sie auf jeden Fall wieder kaufen. Meine klaren Favoriten sind "Fireball", "Pine Apple Express" und der Granatapfelsaft.
 
@@ -85,5 +88,3 @@ Der Bio-Kunststoff PLA, aus dem die Flaschen zu 90 Prozent bestehen wird aus nac
 Mit ihrem veganen Rohkost-Saft, den man überall in der Flasche kaufen kann, haben Andi, Julien und Alex ihr Ziel erreicht. Die Sorten-Vielfalt ist groß und für meinen Geschmack sehr kreativ. Die Idee mit den kompostierbaren Flaschen ist toll und ich hoffe, dass dieses positive Beispiel weitere Unternehmen inspiriert, auf Dauer klimafreundlicher zu werden.
 
 <Gallery name="antidote-2" />
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Die Produkte wurden mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner* [\_Transparenz-Seite*](/werbung/).
