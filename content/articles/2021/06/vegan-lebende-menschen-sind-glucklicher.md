@@ -34,7 +34,7 @@ languageLink: ''
 
 Veganer⋆innen sind offenbar nicht nur glücklicher, als Fleischesser⋆innen, sie sind auch insgesamt beliebter, als viele bisher vermutet haben. Das geht aus der kürzlich von Tracking Happiness veröffentlichten Studie hervor.
 
-### Veganer⋆innen sind glücklicher
+## Veganer⋆innen sind glücklicher
 
 Im Rahmen der Erhebung füllten 11.537 Amerikaner⋆innen einen Fragebogen aus. Insgesamt gab es vier Gruppen: 1.179 Veganer⋆innen, 948 Vegetarier⋆innen, 422 Pescetarier⋆innen und 8.988 Fleischesser⋆innen.
 
@@ -44,7 +44,7 @@ Die Teilnehmer⋆innen beantworteten unter anderem folgende Frage:
 
 Die Fröhlichkeit wurde im Durchschnitt mit 6,9 bewertet. Die Fleischesser⋆innen hatten mit einem Durchschnitt von 6,8 den niedrigsten Wert, bei den Veganer⋆innen lag der Schnitt bei 7.
 
-### Glückliche Menschen werden eher Veganer⋆innen
+## Glückliche Menschen werden eher Veganer⋆innen
 
 ![Vegan lebende Menschen sind glücklicher](/img/veganer-anne-reis-rock-n-roll-vegan-2.jpg "Vegan lebende Menschen sind glücklicher")
 
@@ -54,7 +54,7 @@ Eine weiterer spannende Tatsache, die die Studie zum Thema Glück im Zusammenhan
 
 Die Teilnehmer⋆innen waren im Rahmen der Umfrage nach ihrer Meinung bezüglich Veganer⋆innen und Veganismus befragt worden. Es zeigte sich, dass weniger als 15 Prozent eine negative Meinung gegenüber Veganer⋆innen vertreten. Der größte Teil der Fleischesser⋆innen hingegeben zeigte sich positiv eingestellt. Auf einer Skala von 1 bis 5 lag der Durchschnitt bei 3,44.
 
-### Vegan lebende Menschen sind offenbar beliebter als vermutet
+## Vegan lebende Menschen sind offenbar beliebter als vermutet
 
 ![Offenbar beliebter, als vermutet: Veganer⋆innen](/img/veganer-anne-reis-rock-n-roll-vegan.jpg "Offenbar beliebter, als vermutet: Veganer⋆innen")
 
@@ -64,7 +64,7 @@ Was jedoch auch auffällt ist, dass Menschen, die ihren Konsum von tierischen Pr
 
 Bei den Veganer⋆innen zeigte sich, dass die Umwelt die größte Rolle bei der Ernährungsumstellung spielt – gefolgt von persönlichen Präferenzen, Grausamkeit in der Tierhaltung und Unverträglichkeiten bei Lebensmitteln wie Fleisch oder Milchprodukten.
 
-### Der positive Einfluss auf die Umwelt sorgt für Glücksgefühle
+## Der positive Einfluss auf die Umwelt sorgt für Glücksgefühle
 
 Die Forscher⋆innen deckten auf, dass die Veganer⋆innen, die als Grund ihren Einfluss auf die Umwelt angegeben hatten, ein besonders glücklich sind. Auf einer Skala von 1 bis 10 lagen sie im Durchschnitt bei 7,72. Die Veganer⋆innen, die als Grund die Grausamkeit gegenüber Tieren angegeben hatten lagen lediglich bei 6,77 von 10.
 
