@@ -42,11 +42,11 @@ Die Teilnehmer⋆innen beantworteten unter anderem folgende Frage:
 
 > "Wenn Du auf das letzte Jahr zurückblickst: Wie würdest Du Dein Fröhlichkeit auf einer Skala von 1 bis 10 bewerten?"
 
+![Vegan lebende Menschen sind glücklicher](/img/veganer-anne-reis-rock-n-roll-vegan-2.jpg "Vegan lebende Menschen sind glücklicher")
+
 Die Fröhlichkeit wurde im Durchschnitt mit 6,9 bewertet. Die Fleischesser⋆innen hatten mit einem Durchschnitt von 6,8 den niedrigsten Wert, bei den Veganer⋆innen lag der Schnitt bei 7.
 
 ## Glückliche Menschen werden eher Veganer⋆innen
-
-![Vegan lebende Menschen sind glücklicher](/img/veganer-anne-reis-rock-n-roll-vegan-2.jpg "Vegan lebende Menschen sind glücklicher")
 
 Aus der Studie ging außerdem hervor, dass die Wahrscheinlichkeit, sich für die vegane Lebensweise zu entscheiden, bei glücklichen Individuen größer ist, als bei weniger glücklichen. Dieses Fazit schlossen die Veranstalter der Umfrage aus den Antworten der fast 9.000 Fleischesser⋆innen, die an der Umfrage teilgenommen hatten.
 
