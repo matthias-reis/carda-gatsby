@@ -11,6 +11,7 @@ labels:
 - Stoner
 - Stoner-Rock
 - An Evening With Knives
+- English & German
 language: de
 slug: an-evening-with-knives-sense-of-gravity
 typeName: Review
