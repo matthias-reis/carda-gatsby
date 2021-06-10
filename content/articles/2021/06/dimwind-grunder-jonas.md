@@ -40,7 +40,7 @@ languageLink: "/2021/06/dimwind-interview-en"
 
 **Jonas:** Hi Anne, die Freude ist ganz meinerseits. Danke, dass Du das für uns machst. Ja, wir sind zufrieden mit dem Ergebnis unserer Arbeit. Es ist das erste Mal, das wir ein komplettes Studio-Album aufgenommen haben. Früher mit unseren anderen Bands haben wir nur Singles und Demos gemacht. Es war eine erfüllende Erfahrung, dieses Gesamtwerk zu erschaffen.
 
-### "Das Album aufzunehmen war eine erfüllende Erfahrung für uns"
+## "Das Album aufzunehmen war eine erfüllende Erfahrung für uns"
 
 ![Jonas und Andreas aka Dimwind. Bild/picture: Dimwind](/img/dimwind-2.jpg "Jonas und Andreas aka Dimwind. Bild/picture: Dimwind")
 
@@ -50,7 +50,7 @@ languageLink: "/2021/06/dimwind-interview-en"
 
 Unsere Arbeitsweise ist schon ziemlich Pandemie-sicher. Wenn die Drums und die Grundlage eines Songs aufgenommen ist, schreibt Andreas die Melodien und spielt in seinem Homestudio die Gitarre, den Bass und die Keyboards ein. Wir chatten dann so lange hin und her, bis die Details stimmen. Das führt natürlich auch mal dazu, dass etwas rausfliegt, das einem gut gefallen hat. Wir fluchen auch hin und wieder mal, aber am Ende haben wir einen Song, der unsere Vision, die wir davon im Proberaum hatten, widerspiegelt.
 
-### "Wir wollten mit instrumentaler Musik ein Narrativ erschaffen"
+## "Wir wollten mit instrumentaler Musik ein Narrativ erschaffen"
 
 **Anne:** Was ist die Geschichte des Albums? Erzählt es eine? Der Titel klingt danach, als könnte es eine geben.
 
@@ -60,7 +60,7 @@ Aber ja – es gibt eine Geschichte. Wir werden sie nicht verraten oder darüber
 
 **Anne:** Die Platte lebt von ihren spontan wirkenden Wechseln. Das führt zu einem perfekt ausbalancierten Mix aus Licht und Finsternis. Ist das Leben so?
 
-### "Unsere Musik reflektiert das Leben"
+## "Unsere Musik reflektiert das Leben"
 
 **Jonas:** Ich denke schon. Ich bin mir nicht sicher, ob wir das Leben reflektieren oder ihm entfliehen, wenn wir Musik machen. Wir versuchen, so dynamisch wie möglich zu sein, um diese Balance zu finden, die Du beschreibst. Wir mögen es ganz einfach so. Außerdem finden wir, dass das die Musik interessanter macht. Aber unsere Songs können nicht düster genug sein!
 
@@ -70,7 +70,7 @@ Aber ja – es gibt eine Geschichte. Wir werden sie nicht verraten oder darüber
 
 Wir könnten es auch einfach "Heavy Music" nennen. Anstatt den richtigen Begriff zu finden, der zu unserem Ausdruck passt, passen wir uns nicht an, um in irgendeine Form zu passen. Aber es stimmt: Es scheint von essenzieller Wichtigkeit zu sein, Deinem Sound einer Marke zuzuordnen, um ein bestimmtes Publikum zu erreichen.
 
-### "Melancholie kann inspirierend sein"
+## "Melancholie kann inspirierend sein"
 
 Und zur Hölle, ja! Wir hören uns Musik aus den unterschiedlichsten Genres an. Obwohl wir beide mit allen Spielarten von Metal aufgewachsen sind, hat sich unser Input über die Jahre stark verbreitert.
 
@@ -80,7 +80,7 @@ Und zur Hölle, ja! Wir hören uns Musik aus den unterschiedlichsten Genres an. 
 
 **Anne:** Würdest Du sagen, dass negative Gefühle Euch mehr antreiben, wenn Ihr einen Song schreibt? Oder sind es doch eher die positiven?
 
-### "Unser Schreibprozess beginnt immer mit Jammen"
+## "Unser Schreibprozess beginnt immer mit Jammen"
 
 ![Jonas und Andreas aka Dimwind. Bild/picture: Dimwind](/img/dimwind-2.jpeg "Jonas und Andreas aka Dimwind. Bild/picture: Dimwind")
 
@@ -92,7 +92,7 @@ Und zur Hölle, ja! Wir hören uns Musik aus den unterschiedlichsten Genres an. 
 
 **Anne:** Es hat ja auch eine Zeit vor Dimwind gegeben. Du hast vorhin schon kurz darüber gesprochen. Möchtest Du mir etwas über Eure früheren Projekte verraten?
 
-### Wir kennen uns seit 1998
+## Wir kennen uns seit 1998
 
 **Jonas:** Andreas und ich sind uns 1998 das erste Mal über den Weg gelaufen und haben zu dieser Zeit in verschiedenen Death angehauchten Metal Bands gespielt. Die sind ja ziemlich typisch für diese Ära.
 
@@ -102,7 +102,7 @@ Um das Jahr 2005 haben wir angefangen einen etwas progressiveren, Post-Metal-art
 
 Lass uns mal zu einem komplett anderen Thema kommen. Du hast mir erzählt, dass Du schon länger kein Fleisch mehr isst. Gratulation zu dieser Entscheidung. Was hat Dich überzeugt, keine Tiere mehr zu essen?
 
-### "Die meisten Menschen können etwas tun, um ihren Klima-Fußabdruck zu verkleinern"
+## "Die meisten Menschen können etwas tun, um ihren Klima-Fußabdruck zu verkleinern"
 
 **Jonas:** Also, mir ist das gleich als erstes eingefallen, als wir uns über die Themen unterhalten haben, die wir gemeinsam haben könnten. Deine Seite läuft ja schließlich unter dem Motto Rock 'n' Roll vegan!
 
@@ -112,7 +112,7 @@ Wir müssen uns gemeinsam um diesen Planeten kümmern. Wenn jeder etwas dafür "
 
 Ja, ich weiß, dass der große Unterschied auf höherer politischer Ebene gemacht wird. Ich hoffe wirklich, dass bald signifikante Änderungen zum Besseren eintreten werden. Ich fürchte zwar, das wir sowieso am Arsch sind, aber einfach aufzugeben, würde sich noch schlimmer anfühlen.
 
-### "Die Menschen leben bewusster"
+## "Die Menschen leben bewusster"
 
 **Anne:** Warum gibt es nach wie vor nur so wenig Vegetarier⋆innen und Veganer⋆innen? Glaubst Du, dass sich das in den nächsten paar Jahren verändern wird?
 
@@ -120,7 +120,7 @@ Ja, ich weiß, dass der große Unterschied auf höherer politischer Ebene gemach
 
 **Anne:** Im Musik-Business gibt es immer mehr Leute, die sich irgendwann dazu entschieden haben, kein Fleisch mehr zu essen. Würdest Du sagen, dass es eine Verbindung zwischen Musik und Veganismus gibt?
 
-### Musiker⋆innen sind dem Veganismus gegenüber aufgeschlossen
+## Musiker⋆innen sind dem Veganismus gegenüber aufgeschlossen
 
 **Jonas:** In den 1990er Jahren hat es bei uns in Schweden mit der Straight Edge Bewegung einen großen Trend gegeben, dem all die Hardcore und Punk Bands gefolgt sind. Zu der Zeit habe ich selbst nur die Musik absorbiert. Kein Fleisch zu essen, ist eine Art Rebellion. Also ja, ich denke, Musiker⋆innen stehen derartigen Entscheidungen sicher aufgeschlossen gegenüber.
 
@@ -134,6 +134,6 @@ Ja, ich weiß, dass der große Unterschied auf höherer politischer Ebene gemach
 
 [Hier findet Ihr meine Review zum Dimwind Debüt-Album "Slow Wave Violence"](http://cardamonchai.com/2021/05/dimwind-slow-wave-violence/).
 
-### Dimwind – "Slow Wave Deceit"
+## Dimwind – "Slow Wave Deceit"
 
 <YouTube id="6oCnDhDHUoY" />
