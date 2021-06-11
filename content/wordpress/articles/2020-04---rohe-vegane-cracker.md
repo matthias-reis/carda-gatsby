@@ -45,7 +45,7 @@ Vor Kurzem lernte ich Aho Gründer Jannis kennen. Er berichtete mir von seinem S
 
 Ich hatte von einem derartigen Produkt bis jetzt noch nie gehört und fand die Idee sehr spannend. Also erklärte mich bereit, die Aho Kekse mal zu probieren.
 
-### Rohe vegane Cracker aus Ur-Dinkel
+## Rohe vegane Cracker aus Ur-Dinkel
 
 <RemoteImage
 alt={`Jannis von Aho`}
@@ -61,7 +61,7 @@ Die Aho Cracker eignen sich wunderbar als kleiner Snack zwischendurch. Sie lasse
 
 Ich habe alle drei Sorten ("[Natu](https://t.adcell.com/p/click?promoId=248939&slotId=80259&param0=https%3A%2F%2Faho.bio%2Fcollections%2Fgekeimte-rohkost-cracker%2Fproducts%2Faho-natur-cracker)r", "[Curry](https://t.adcell.com/p/click?promoId=248939&slotId=80259&param0=https%3A%2F%2Faho.bio%2Fcollections%2Fgekeimte-rohkost-cracker%2Fproducts%2Faho-curry-cracker)" und "[Raw Pizza](https://t.adcell.com/p/click?promoId=248939&slotId=80259&param0=https%3A%2F%2Faho.bio%2Fcollections%2Fgekeimte-rohkost-cracker%2Fproducts%2Faho-pizza-cracker)") getestet. [Mein Favorit: natürlich Pizz](https://t.adcell.com/p/click?promoId=248939&slotId=80259&param0=https%3A%2F%2Faho.bio%2Fcollections%2Fgekeimte-rohkost-cracker%2Fproducts%2Faho-pizza-cracker)a! Die dreieckigen Kekse schmecken tatsächlich, als würde man in ein Stück Pizza beißen und das ganz ohne Tricks und künstliche Geschmacksverstärker. Ganz ehrlich? als die Packung leer war, hätte ich am liebsten gleich die nächste aufgemacht.
 
-### Gesunder Snack
+## Gesunder Snack
 
 [Die Curry Cracker besitzen eine angenehme Schärfe](https://t.adcell.com/p/click?promoId=248939&slotId=80259&param0=https%3A%2F%2Faho.bio%2Fcollections%2Fgekeimte-rohkost-cracker%2Fproducts%2Faho-curry-cracker) und passen zum Beispiel ziemlich gut zu Reisgerichten. Auch die neutrale Variante hat mir persönlich sehr gut geschmeckt. Ich habe sie beim Lesen ganz nebenbei weggeknabbert.
 
@@ -80,7 +80,7 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 
 Aho Gründer Jannis findet, dass nachhaltiges Wirtschaften in Zeiten der Klimakrise wichtig ist, damit wir es schaffen, unsere natürliche Lebensgrundlage zu erhalten. Mit seiner dezentralisierten Nahrungsmittelproduktion mit möglichst regionalen Zutaten möchte er ein Beispiel für einen zukunftsfähigen Ansatz bieten.
 
-### Eine Idee wird zum Produkt
+## Eine Idee wird zum Produkt
 
 Nach seinem Abschluss zog Jannis für drei Jahre nach Lateinamerika. Dort absolvierte er ein Fernstudium und beschäftigte sich intensiv mit altgriechischen und vorchristlichen Kulturen. Dabei stieß er auf Berichte über einen Sprossenbrei, der auf warmen Steinen in der Sonne gedörrt wurde. Er griff das Rezept auf und begann zu experimentieren. 2015 war es dann soweit: Aus seiner Idee war ein Konzept geworden - die Geburtsstunde von Aho.
 
