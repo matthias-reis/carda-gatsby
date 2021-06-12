@@ -34,7 +34,7 @@ affiliate: false
 languageLink: "/2021/06/dimwind-interview-en"
 
 ---
-**Dimwind haben vor Kurzem ihr grandioses Debüt-Album "Slow Wave Violence" veröffentlicht. Weil ich so von der Platte begeistert bin, habe ich mich kurzerhand mit Gründer Jonas zum Interview verabredet. Wir haben uns über das Album, das Klima und die Verbindung zwischen harter Musik und Veganismus unterhalten.**
+**XXX Dimwind haben vor Kurzem ihr grandioses Debüt-Album "Slow Wave Violence" veröffentlicht. Weil ich so von der Platte begeistert bin, habe ich mich kurzerhand mit Gründer Jonas zum Interview verabredet. Wir haben uns über das Album, das Klima und die Verbindung zwischen harter Musik und Veganismus unterhalten.**
 
 **Anne:** Hi Jonas, danke dass Du Dir die Zeit für das Interview nimmst! Gratulation zu Eurem fantastischen Debüt-Album "Slow Wave Violence"! Gefällt es Dir?
 
