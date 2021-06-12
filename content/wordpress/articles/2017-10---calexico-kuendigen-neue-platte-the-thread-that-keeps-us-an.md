@@ -1,38 +1,40 @@
 ---
-date: 2017-10-18T07:03:05.000Z
+date: 2017-10-18T07:03:05.000+00:00
 slug: calexico-the-thread-that-keeps-us
-path: /2017/10/calexico-the-thread-that-keeps-us/
+path: "/2017/10/calexico-the-thread-that-keeps-us/"
 type: Artikel
 typeName: Review
 title: Calexico kündigen neue Platte "The Thread That Keeps Us" an
 seoTitle: Calexico kündigen neue Platte an - "The Tread That Keeps Us"
 ogTitle: Calexico kündigen neue Platte an - "The Tread That Keeps Us"
-description: Die erste Auskopplung der neuen Calexico Platte "The Thread That Keeps Us" ist da. Und was soll man sagen? "End Of The World With You" macht Fans glücklich.
-excerpt: Die erste Auskopplung der neuen Calexico Platte "The Thread That Keeps Us" ist da. Und was soll man sagen? "End Of The World With You" macht Fans glücklich.
+description: Die erste Auskopplung der neuen Calexico Platte "The Thread That Keeps
+  Us" ist da. Und was soll man sagen? "End Of The World With You" macht Fans glücklich.
+excerpt: Die erste Auskopplung der neuen Calexico Platte "The Thread That Keeps Us"
+  ist da. Und was soll man sagen? "End Of The World With You" macht Fans glücklich.
 fileName: 2017-10---calexico-kuendigen-neue-platte-the-thread-that-keeps-us-an.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_The-Thread-That-Keeps-Us3__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_The-Thread-That-Keeps-Us3__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQBBgIFB//EACsQAAIBAwIFAwMFAAAAAAAAAAECAwAEEQUSBhMhMUEUImEHIzJDUXGhwv/EABcBAQEBAQAAAAAAAAAAAAAAAAIEAQP/xAAcEQEAAgMAAwAAAAAAAAAAAAABAAIREiEDQsH/2gAMAwEAAhEDEQA/AOnLqujaTYWRu4Gm9ROluqSTRxxq5ydxZyABgHv56DqRWKcfcJIzPp8EMz86KFSZoYdxeWSMt7mGFUx5J/Z1x3p8WkN9bp6+yDhG34V0lBPg4zk/3TVpp+kgbVSAuP03jVQT8+2pbhmHw2CoJ8lbT6icMXQR5NLlUSuCWNxD45gOcN+X222p3fIx3q28E6zZa9oz3+lwPBHzWiZGlSRcgA5VkJVhhh1B6HIPUVNwpsl3vo1tLEACWidVz/GfNP6bqMEiqsFvbwRnqUDKCCfhRXG7yU1abcOzRo7SSY5xKjwyq3+Qai4mkhtyCysG+KKKHtiLQ1WKeqeSPY9vbkDru5YzTtlqM8chRlh2+NkYBoorWpiCnEn/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_10_9917203896_a04e9ce147_k__l.jpg
 labels:
-  - Bands
-  - Calxico
-  - Dessert
-  - End Of The World With You
-  - Indie Indierock
-  - Indie Rock
-  - Joey Burns
-  - Kalifornien
-  - Mexico
-  - Musik
-  - Pavement
-  - Rock
-  - Rock'n'Roll
-  - Sebadoh
-  - The Replacements
-  - The Thread That Keeps Us
-  - Tuscon Dessert Rock
-  - WaveLab Studio
+- Bands
+- Calxico
+- Dessert
+- End Of The World With You
+- Indie Indierock
+- Indie Rock
+- Joey Burns
+- Kalifornien
+- Mexico
+- Musik
+- Pavement
+- Rock
+- Rock'n'Roll
+- Sebadoh
+- The Replacements
+- The Thread That Keeps Us
+- Tuscon Dessert Rock
+- WaveLab Studio
 focusKeyword: The Thread That Keeps Us
 status: publish
 isWerbung: false
@@ -40,8 +42,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Auskopplung "End Of The World With You"
----
 
+---
 **_Calexico_ habe ich als produktive Band kennengelernt. Kaum hatte man sich an den Gedanken gewöhnt, dass es wieder ein neues, geniales Album gibt, wurde auch schon wieder ein neues vorgestellt. Das ist auch jetzt wieder der Fall. In Kürze soll "The Thread That Keeps Us" in die Plattenregale einziehen. Die Vorab-Auskopplung "End Of The World With You" verspricht einiges.**
 
 <RemoteImage
@@ -120,25 +122,3 @@ If you travel out to space at the speed of light Would you send me a letter from
 Time in the age of the extremes There's nothing better that I'd rather feel Then to scatter all the myths Bring back a little piece of mind for you You gotta vantage point so we'll sit and watch the view At the edge of the end of the world
 
 </blockquote>
-
-_Die Fotos habe ich aufgenommen, das Album-Cover stammt aus iTunes._
-
-## Calexico Wegweiser
-
-1.  [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
-1.  [live @ Southside Festival Neuhausen ob Eck Juni 2008](/2015/04/calexico-live-southside-festival-2008/)
-1.  [live @ Muffathalle München 16.10.2008](/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/)
-1.  [live @ Roxy Ulm 27.01.2009](/2009/01/calexico-live-roxy-ulm/)
-1.  [live @ Muffathalle München 8.07.2009](/2009/07/calexico-live-muffathalle-munchen/)
-1.  [stellen neue Single "Splitter" vor 31.07.2012](/2012/07/calexico-stellen-neue-singe-splitter-vor/)
-1.  [live @ Muffathalle München 29.11.2012](/2012/12/calexico-live-muffathalle-munchen-29-11-2012/)
-1.  [bringen neues Album "Edge Of The Sun" raus 14.04.2015](/2015/04/calexico-edge-of-the-sun-ist-da/)
-1.  [live @ Große Freiheit 36 Hamburg 15.04.2015](/2015/04/calexico-live-grosse-freiheit-36-15-04-2015/)
-1.  [live @ A Summer's Tale Festival 08.08.2015](/2015/08/calexico-live-a-summers-tale-festival-2015/)
-1.  stellen neue Single "End Of The World With You vor
-
-- [Hier könnt Ihr "The Thread That Keeps Us" vorbestellen](https://calexico.lnk.to/TheThreadThatKeepsUs).
-
-\*\* [WaveLab Recording Studio](https://www.facebook.com/WaveLab-Recording-Studio-157816907583478/)
-
-Hier findet Ihr die [Homepage](http://www.casadecalexico.com) von Calexico.
