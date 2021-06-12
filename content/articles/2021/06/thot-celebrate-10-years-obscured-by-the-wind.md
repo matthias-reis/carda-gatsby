@@ -1,5 +1,5 @@
 ---
-date: 2021-06-04T13:00:42+02:00
+date: 2021-06-04T13:00:42.000+02:00
 labels:
 - Obscured by the Wind
 - Thot
@@ -10,6 +10,7 @@ labels:
 - Post-Rock
 - Industrial
 - Full Moon
+- English & German
 language: en
 slug: thot-feiern-10-jahre-obscured-by-the-wind-en
 typeName: Review
