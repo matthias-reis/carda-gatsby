@@ -1,34 +1,38 @@
 ---
-date: 2012-12-03T18:35:20.000Z
+date: 2012-12-03T18:35:20.000+00:00
 slug: calexico-live-muffathalle-munchen-29-11-2012
-path: /2012/12/calexico-live-muffathalle-munchen-29-11-2012/
+path: "/2012/12/calexico-live-muffathalle-munchen-29-11-2012/"
 type: Galerie
 typeName: Konzertbericht
 title: Calexico live @Muffathalle München 29.11.2012
 seoTitle: Calexico live in der Münchener Muffathalle - mein Konzertbericht
 ogTitle: Calexico live in der Münchener Muffathalle - mein Konzertbericht
-description: Hier nun endlich die langersehnten Bilder vom Calexico-Konzert letzten Donnerstag in der Münchner Muffathalle direkt aus meinem Fotolabor.
-excerpt: Hier nun endlich die langersehnten Bilder vom Calexico-Konzert letzten Donnerstag in der Münchner Muffathalle direkt aus meinem Fotolabor.
+description: Hier nun endlich die langersehnten Bilder vom Calexico-Konzert letzten
+  Donnerstag in der Münchner Muffathalle direkt aus meinem Fotolabor.
+excerpt: Hier nun endlich die langersehnten Bilder vom Calexico-Konzert letzten Donnerstag
+  in der Münchner Muffathalle direkt aus meinem Fotolabor.
 fileName: 2012-12---calexico-live-muffathalle-muenchen-29-11-2012.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_12_dsc3704__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_12_dsc3704__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBgcCBP/EACgQAAEDAwMDAwUAAAAAAAAAAAECAwQABRESEyEGMVEVIkFhcYHR8P/EABcBAQEBAQAAAAAAAAAAAAAAAAQDBQb/xAAfEQACAQQCAwAAAAAAAAAAAAABAgADESExIrEyQWH/2gAMAwEAAhEDEQA/AMUjksp5ruFH9SucaLrQgOuBGtZwlI+SaWOPq1KQFaikkYA7/qrB0nNdt01mQkN6+UrVpySk5yB/c4q5BRGZd2xE0grVFV9XzIb1Bbs1zehqG8G1adwApyO+efpXtZjo2ULzlJGQakuinrw9srQtOp3dUQkleMYJPnAp5cLI43b3pNsaflWiOvaTMQ0dvAA7+PBJ4yDzUlqOyAPv3E1qAUlqY4zL4xyeasdtISRx2oopDnEEkeXVTkFbMiE4ppx6KsLz7gdIOOPuc/gU26eusiD1RCiJWsxHHkwHGQrCVtqGn3D5880UVkjlYn73On8LhcDHU//Z
-ogImage: null
+ogImage: 
 labels:
-  - 12 Songs
-  - Blog
-  - Calexico
-  - Calexico Muffathalle
-  - Calexico Muffathalle 2012
-  - Concert
-  - ich
-  - Konzert
-  - Konzerte
-  - live
-  - Love
-  - Me
-  - Muffathalle
-  - Musik
+- 12 Songs
+- Blog
+- Calexico
+- Calexico Muffathalle
+- Calexico Muffathalle 2012
+- Concert
+- ich
+- Konzert
+- Konzerte
+- live
+- Love
+- Me
+- Muffathalle
+- Musik
+- serie:Calexico
+- Bands
 focusKeyword: Calexico
 status: publish
 isWerbung: false
@@ -36,8 +40,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Fotogalerie
----
 
+---
 **Hier nun endlich die langersehnten Bilder vom Calexico-Konzert letzten Donnerstag in der Münchner Muffathalle direkt aus meinem Fotolabor.**
 
 Calexico überraschten nicht nur mit einer [besonderen Vorband](/2012/11/blind-pilot-live-muffathalle-munchen-29-11-2012/), sondern auch mit einer teilweise neuen Besetzung. Was die tollen Stimmung im Wohnzimmer der Band keinesfalls störte.
@@ -354,21 +358,3 @@ Besonders toll: Die Band lies es sich auch dieses Mal nicht nehmen einige Songs 
     },
   ]}
 />
-
-## Calexico Wegweiser
-
-1.  [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
-1.  [live @ Southside Festival Neuhausen ob Eck Juni 2008](/2015/04/calexico-live-southside-festival-2008/)
-1.  [live @ Muffathalle München 16.10.2008](/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/)
-1.  [live @ Roxy Ulm 27.01.2009](/2009/01/calexico-live-roxy-ulm/)
-1.  [live @ Muffathalle München 8.07.2009](/2009/07/calexico-live-muffathalle-munchen/)
-1.  [stellen neue Single "Splitter" vor 31.07.2012](/2012/07/calexico-stellen-neue-singe-splitter-vor/)
-1.  live @ Muffathalle München 29.11.2012
-1.  [bringen neues Album "Edge Of The Sun" raus 14.04.2015](/2015/04/calexico-edge-of-the-sun-ist-da/)
-1.  [live @ Große Freiheit 36 Hamburg 15.04.2015](/2015/04/calexico-live-grosse-freiheit-36-15-04-2015/)
-1.  [live @ A Summer's Tale Festival 08.08.2015](/2015/08/calexico-live-a-summers-tale-festival-2015/)
-1.  [stellen neue Single "End Of The World With You" vor](/2017/10/calexico-the-thread-that-keeps-us/)
-
-[Homepage](http://www.casadecalexico.com) Calexico
-
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
