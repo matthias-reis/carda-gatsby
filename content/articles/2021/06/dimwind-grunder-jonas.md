@@ -1,5 +1,5 @@
 ---
-date: 2021-06-09T17:26:42+02:00
+date: 2021-06-09T17:26:42.000+02:00
 labels:
 - Bands
 - Dimwind
@@ -21,7 +21,7 @@ seoTitle: Dimwind Gründer Jonas im Interview – Schwedischer Post-Metal
 ogTitle: ''
 description: Dimwind Gründer Jonas hat mir im Interview einiges über den Entstehungsprozess
   des Debüt-Albums "Slow Wave Violence" verraten.
-excerpt: Dimwind haben vor Kurzem ihr grandioses Debüt-Album "Slow Wave Violence"
+excerpt: XXX Dimwind haben vor Kurzem ihr grandioses Debüt-Album "Slow Wave Violence"
   veröffentlicht. Weil mich die Platte so begeistert hat, habe ich mich kurzerhand
   mit Gründer Jonas zum Interview verabredet. Wir haben uns über das Album, das Klima
   und die Verbindung zwischen harter Musik und Veganismus unterhalten.
