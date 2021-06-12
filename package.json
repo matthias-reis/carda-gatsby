@@ -78,6 +78,7 @@
     "start": "yarn tsc && gatsby develop",
     "prebuild": "yarn clean",
     "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true yarn tsc && gatsby build",
+    "postinstall": "yarn tsc",
     "quickbuild": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true yarn tsc && gatsby build",
     "localdeploy": "gatsby clean && yarn build && netlify deploy",
     "deploy": "curl -X POST -d {} https://api.netlify.com/build_hooks/60a93ed507b42b7a919dbc80",
