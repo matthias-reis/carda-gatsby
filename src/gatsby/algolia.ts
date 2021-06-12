@@ -2,7 +2,10 @@ const indexName = `Pages`;
 const pageQuery = `{
   pages: allMdx(
     filter: {
-        frontmatter: { language: { ne: "en" } }
+        frontmatter: { 
+          language: { ne: "en" }
+          date: {lte: "${new Date().toISOString()}"}
+        }
         fields: { type: { in: ["article", "wordpress"] } }
       }
     ) {

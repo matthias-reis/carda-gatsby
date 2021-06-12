@@ -10,9 +10,15 @@ import { toCompactArticle } from '../to-compact-article';
 
 const paginationBasePath = join(__dirname, '../../public/homepage-data');
 
+const isProduction = process.env.NODE_ENV === 'production';
+const filter = isProduction
+  ? `filter: {frontmatter: {date: {lte: "${new Date().toISOString()}"}}},`
+  : '';
+
 const ALL_PAGE_QUERY = `
 query MyQuery {
   allMdx(
+    ${filter}
     sort: { fields: frontmatter___date, order: DESC }
   ) {
     edges {
@@ -59,7 +65,6 @@ query MyQuery {
 `;
 
 export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
-  console.log(process.env);
   const { createPage } = actions;
 
   const { errors, data } = await graphql<AllPageQuery>(ALL_PAGE_QUERY);

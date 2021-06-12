@@ -11,15 +11,19 @@ import { slugify } from '../gatsby/slugify';
 
 const getExtract = pick(['title', 'slug']);
 
+const isProduction = process.env.NODE_ENV === 'production';
+
 const ListController: React.FC<{
   data: ListQuery;
   pageContext: { label: string };
 }> = ({ data, pageContext }) => {
   const rawArticles: { node: Article }[] = data.allMdx.edges;
 
-  const articles: CompactArticle[] = rawArticles.map(({ node }) =>
-    toCompactArticle(node)
-  );
+  const articles: CompactArticle[] = rawArticles
+    .filter(({ node }) =>
+      isProduction ? new Date(node.frontmatter.date) < new Date() : true
+    )
+    .map(({ node }) => toCompactArticle(node));
 
   const rawCategories: Category[] = data.allCategoriesYaml.edges.map(
     (e) => e.node

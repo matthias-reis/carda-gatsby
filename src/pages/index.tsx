@@ -6,10 +6,15 @@ import { HomePage } from '../components/home-page';
 import { ListQuery, Article, CompactArticle } from '../types';
 import { toCompactArticle } from '../to-compact-article';
 
+const isProduction = process.env.NODE_ENV === 'production';
+
 const HomePageController: React.FC<{ data: ListQuery }> = ({ data }) => {
   const rawArticles: { node: Article }[] = data?.allMdx.edges ?? [];
 
   const articles: CompactArticle[] = rawArticles
+    .filter(({ node }) =>
+      isProduction ? new Date(node.frontmatter.date) < new Date() : true
+    )
     .map(({ node }) => node)
     .map(toCompactArticle);
 
