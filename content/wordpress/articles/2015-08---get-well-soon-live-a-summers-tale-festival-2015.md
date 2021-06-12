@@ -26,7 +26,7 @@ labels:
 - Konzerte
 - Lüneburger Heide
 - Rock
-- " serie:A Summer's Tale 2015"
+- serie:A Summer's Tale 2015
 focusKeyword: Get Well Soon
 status: publish
 isWerbung: false

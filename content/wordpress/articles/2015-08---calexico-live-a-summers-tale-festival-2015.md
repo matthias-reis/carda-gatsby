@@ -28,7 +28,7 @@ labels:
 - Konzert
 - Konzerte
 - live
-- " serie:A Summer's Tale 2015"
+- serie:A Summer's Tale 2015
 focusKeyword: Calexico
 status: publish
 isWerbung: false
