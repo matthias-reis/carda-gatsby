@@ -7,8 +7,8 @@ typeName: Artikel
 title: Bloggen und ich
 seoTitle: Bloggen und ich - Warum es manchmal gar nicht so leicht ist
 ogTitle: Bloggen und ich - Warum es manchmal gar nicht so leicht ist
-description: "Blogger sollte man sein. Da hat man lauter Vorteile". Solche Sätze höre ich immer wieder. Doch ist es echt so einfach? Mein Blog-Fazit nach 10 Jahren.
-excerpt: "Blogger sollte man sein. Da bekommt man ständig tolle Sachen geschenkt!" - Sätze wie diesen höre ich in letzter Zeit häufig. Doch ist es mit dem Bloggen wirklich so einfach? Mein Fazit nach 10 Jahren.
+description: \"Blogger sollte man sein. Da hat man lauter Vorteile\". Solche Sätze höre ich immer wieder. Doch ist es echt so einfach? Mein Blog-Fazit nach 10 Jahren.
+excerpt: \"Blogger sollte man sein. Da bekommt man ständig tolle Sachen geschenkt!\" - Sätze wie diesen höre ich in letzter Zeit häufig. Doch ist es mit dem Bloggen wirklich so einfach? Mein Fazit nach 10 Jahren.
 fileName: 2018-05---bloggen-und-ich.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_Anne-1-von-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_Anne-1-von-1__l.jpg

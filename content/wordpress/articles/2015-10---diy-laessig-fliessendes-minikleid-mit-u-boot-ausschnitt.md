@@ -87,23 +87,20 @@ Als Erstes zeichnet Ihr den Schnitt auf das Seidenpapier. Die Länge sollte ca.
 Schneidet Euer Schnittmuster mit der Papierschere aus und legt es auf den doppelt vor Euch ausgebreiteten Stoff. Übertragt die Umrisse mit der Schneiderkreide. Wenn alle Linien stimmen, hebt Ihr das Papier ab und schneidet das Kleid vorsichtig im Abstand von ca. 1,5 cm dazu (Nahtzugabe) durch beide Stofflagen zu. Die Vorderseite entspricht genau der Rückseite, so entsteht der elegante U-Boot-Ausschnitt.
 
 <Gallery
-  images={
-    \[
-      ({
-        mediumUrl:
-          'https://storage.googleapis.com/cardamonchai-images/2015_10_21735567414_4355a176ac_z__m.jpg',
-        largeUrl:
-          'https://storage.googleapis.com/cardamonchai-images/2015_10_21735567414_4355a176ac_z__l.jpg',
-      },
-      {
-        mediumUrl:
-          'https://storage.googleapis.com/cardamonchai-images/2015_10_22170306960_c1091df515_z__m.jpg',
-        largeUrl:
-          'https://storage.googleapis.com/cardamonchai-images/2015_10_22170306960_c1091df515_z__l.jpg',
-      },
-      \)
-    ]
-  }
+  images={[
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_10_21735567414_4355a176ac_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_10_21735567414_4355a176ac_z__l.jpg',
+    },
+    {
+      mediumUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_10_22170306960_c1091df515_z__m.jpg',
+      largeUrl:
+        'https://storage.googleapis.com/cardamonchai-images/2015_10_22170306960_c1091df515_z__l.jpg',
+    },
+  ]}
 />
 
 Stellt nun Eure Nähmaschine auf einen größeren Zickzackstich, Profinähmaschinen auf den Saumstich. Umsäumt alle Ränder feinsäuberlich und verriegelt dabei Eure Nähte (An den Anfängen und Enden jeweils ein paar Stiche vor und zurück nähen).

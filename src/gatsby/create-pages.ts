@@ -59,6 +59,7 @@ query MyQuery {
 `;
 
 export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
+  console.log(process.env);
   const { createPage } = actions;
 
   const { errors, data } = await graphql<AllPageQuery>(ALL_PAGE_QUERY);

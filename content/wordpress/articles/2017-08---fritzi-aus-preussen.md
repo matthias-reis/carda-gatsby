@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: "Für jede Frau die passende Fritzi”
+subTitle: '"Für jede Frau die passende Fritzi"'
 ---
 
 ## **Berlin 2017 - Daniela Engelke, Senior Manager bei Fritzi aus Preußen im Interview**
