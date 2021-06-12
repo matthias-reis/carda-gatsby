@@ -1,26 +1,29 @@
 ---
-date: 2009-01-29T16:26:14.000Z
+date: 2009-01-29T16:26:14.000+00:00
 slug: calexico-live-roxy-ulm
-path: /2009/01/calexico-live-roxy-ulm/
+path: "/2009/01/calexico-live-roxy-ulm/"
 type: Galerie
 typeName: Konzertbericht
 title: Calexico live @ Roxy Ulm
 seoTitle: Calexico live @ Roxy Ulm Anne bloggt cardamonchai
 ogTitle: Calexico live @ Roxy Ulm Anne bloggt cardamonchai
 description: Am Dienstag, 27.01.2009 spielten Calexico live im Roxy in Ulm.
-excerpt: Am Dienstag, 27.01.2009 spielten Calexico live im Roxy in Ulm. Als Support trat der spanische Gitarrist Jairo Zavala auf.
+excerpt: Am Dienstag, 27.01.2009 spielten Calexico live im Roxy in Ulm. Als Support
+  trat der spanische Gitarrist Jairo Zavala auf.
 fileName: 2009-01---calexico-live-roxy-ulm.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_01_IMG_1669__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_01_IMG_1669__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBgcF/8QAKBAAAQQBBAEDBAMAAAAAAAAAAQIDBBEFAAYSITEHIlETFEFhUnGR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAJREAAgEDAwIHAAAAAAAAAAAAAQIDABEhBBJBYYEiMTJRkcHw/9oADAMBAAIRAxEAPwDE9zbdwsPE7ffhSpEmbJKjkGmSgtsCxxQ38qq7vq60jujbDeDkPIKJgbW6TFEmOUOOMlPJLho1+QKFiwe+td3KSFwsW4cFAW7JWtIMpDXItX/H4Uf0Ov8ANU+XKyU15tzJPS330p+iFSFrWpKRfQKvwDfX9611LR+SnxXzbjp99Kv67TQwzlY1JFu3zbJ/Zq57b9K5Wd2MjPx/vQkPONulLHNCONEHr3VRNkA1qm5DBIx8mQzJk+5KbaU2kLQ4rkOib9ook332AK7sav6V+sUrZ2Fe25L+0DUp0FE4tl0REkUolpJSHD4och+/FazHe+QTN3HJloErk4rktcsguuH5WlICUnx7QKHjSGngaOypkWznvepT6ZV3MGNhb2vSEV91+RSXFNqKTSkkgiheoqcemSmVPSHlLpKOSlWQPgaNGpcvqJ6UlXZwATzUIeReY5luu6Ivvj8aUlvrkPLddJUtXZJPnRo0ncdgXigvIzKATX//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2009_01_IMG_1492__l.jpg
 labels:
-  - Calexico
-  - Jairo Zavala
-  - Konzert
-  - Konzerte
-  - Roxy
-  - Ulm
+- Calexico
+- Jairo Zavala
+- Konzert
+- Konzerte
+- Roxy
+- Ulm
+- Bands
+- serie:Calexico
 focusKeyword: Calexico
 status: publish
 isWerbung: false
@@ -28,8 +31,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Großartige Stimmung
----
 
+---
 **Am Dienstag, 27.01.2009 spielten Calexico live im Roxy in Ulm. Als Support trat der spanische Gitarrist Jairo Zavala auf, der 2008 zur Band gestoßen ist.**
 
 Nach und nach kamen dann die  **Calexico** -Musiker auf die Bühne, um mit ihm einige Songs zu performen.
@@ -555,21 +558,3 @@ Mitglieder von sind Joey Burns (Gitarre &amp; Gesang), John Convertino (Schlagze
     },
   ]}
 />
-
-## Calexico Wegweiser
-
-1.  [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
-1.  [live @ Southside Festival Neuhausen ob Eck Juni 2008](/2015/04/calexico-live-southside-festival-2008/)
-1.  [live @ Muffathalle München 16.10.2008](/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/)
-1.  live @ Roxy Ulm 27.01.2009
-1.  [live @ Muffathalle München 8.07.2009](/2009/07/calexico-live-muffathalle-munchen/)
-1.  [stellen neue Single "Splitter" vor 31.07.2012](/2012/07/calexico-stellen-neue-singe-splitter-vor/)
-1.  [live @ Muffathalle München 29.11.2012](/2012/12/calexico-live-muffathalle-munchen-29-11-2012/)
-1.  [bringen neues Album "Edge Of The Sun" raus 14.04.2015](/2015/04/calexico-edge-of-the-sun-ist-da/)
-1.  [live @ Große Freiheit 36 Hamburg 15.04.2015](/2015/04/calexico-live-grosse-freiheit-36-15-04-2015/)
-1.  [live @ A Summer's Tale Festival 08.08.2015](/2015/08/calexico-live-a-summers-tale-festival-2015/)
-1.  [stellen neue Single "End Of The World With You" vor](/2017/10/calexico-the-thread-that-keeps-us/)
-
-[Homepage](http://www.casadecalexico.com) Calexico
-
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)

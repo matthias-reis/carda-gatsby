@@ -1,38 +1,42 @@
 ---
-date: 2018-01-26T16:16:49.000Z
+date: 2018-01-26T16:16:49.000+00:00
 slug: the-thread-that-keeps-us-calexico
-path: /2018/01/the-thread-that-keeps-us-calexico/
+path: "/2018/01/the-thread-that-keeps-us-calexico/"
 type: Artikel
 typeName: Review
 title: The Thread That Keeps Us ist da!
 seoTitle: '"The Thread That Keeps Us" ist da - Die neue Calexico Platte rockt!'
 ogTitle: '"The Thread That Keeps Us" ist da - Die neue Calexico Platte rockt!'
-description: Ein Bild der heutigen Gesellschaft und Ihrer Abgründe wollten Calexico schaffen und das ist der Band mit "The Thread That Keeps Us" eindeutig gelungen!
-excerpt: Ein Bild der heutigen Gesellschaft und Ihrer Abgründe wollten Calexico schaffen und das ist der Band mit "The Thread That Keeps Us" eindeutig gelungen!
+description: Ein Bild der heutigen Gesellschaft und Ihrer Abgründe wollten Calexico
+  schaffen und das ist der Band mit "The Thread That Keeps Us" eindeutig gelungen!
+excerpt: Ein Bild der heutigen Gesellschaft und Ihrer Abgründe wollten Calexico schaffen
+  und das ist der Band mit "The Thread That Keeps Us" eindeutig gelungen!
 fileName: 2018-01---the-thread-that-keeps-us-ist-da.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_9917639354_af1d05b7b6_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_9917639354_af1d05b7b6_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHA//EACgQAAIBAwMEAgEFAAAAAAAAAAECAwAEEQUSIQYiMUEUUXETQ2GBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQGAwX/xAAfEQACAgICAwEAAAAAAAAAAAABAgADESEEMUNRkeH/2gAMAwEAAhEDEQA/AE6f6YtprNJWiBkA7y0rMW95VVwAP9p507o0Gs2c8kSTW7Quyk7jxgnHY3njHgiqTo/UmpaOUS2l3wj9uVNwH49j+qcaX1RfwWKx2CRhI4VztEj7VHGSNx4/moazj88MxBB9fssRbQRrX2T0twdN1N7C5ID4BjkUZRifGR5wfv0amLS7WSHLZHHcSKzK96j+UZJZZ995vUq/K4xnkcYA4HFPYur2mgEEkMMbSEAzRMVGc+15GPxiujTS/k7h7ypXKGZ8Zp7WCw+LKYy1qGYnu3Z3Eg59VZ+krq5lMvxbiaxm/RBSe2cpIFbI2kg8jgfWaKKdbpCw7hawC6qepWL6aZ5FkuJWmkdAzO5yT9ZPvzXC3uHEgT0TiiilqBiYMcan/9k=
-ogImage: null
+ogImage: 
 labels:
-  - Bands
-  - Bonustracks
-  - Calexico
-  - Deluxe Edition
-  - Depedro
-  - Jacob Valenzuela
-  - Jairo Zavala
-  - Joey Burns
-  - John Convertino
-  - Martin Wenk
-  - neues Album
-  - Platte
-  - Rezension
-  - Rockpalast
-  - Scott Colberg
-  - Sergio Mendoza
-  - The Thread That Keeps Us
-  - Vinyl
+- Bands
+- Bonustracks
+- Calexico
+- Deluxe Edition
+- Depedro
+- Jacob Valenzuela
+- Jairo Zavala
+- Joey Burns
+- John Convertino
+- Martin Wenk
+- neues Album
+- Platte
+- Rezension
+- Rockpalast
+- Scott Colberg
+- Sergio Mendoza
+- The Thread That Keeps Us
+- Vinyl
+- serie:Calexico
+- Bands
 focusKeyword: The Thread That Keeps Us
 status: publish
 isWerbung: false
@@ -40,8 +44,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Die neue Platte von Calexico rockt!
----
 
+---
 **Ein Bild der heutigen Gesellschaft und Ihrer Abgründe wollten Calexico schaffen und das ist der Band mit "The Thread That Keeps Us" definitiv gelungen! Schon die Vorauskopplungen "[End Of The World With You](/2017/10/calexico-the-thread-that-keeps-us/)" und "[Voices In The Field](/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/)" ließen die Herzen der Fans höher schlagen und machten Hoffnung auf ein weiteres sensationelles Album der [Tucson Dessert Rocker](/2009/07/calexico-live-muffathalle-munchen/). **
 
 <RemoteImage
@@ -115,20 +119,3 @@ Ich werde mir jetzt in aller Ruhe die sieben Bonustracks auf meiner Deluxe Editi
 Die aktuelle Single "Under The Wheels gibt es übrigens auch schon als Video. Ich teile sie hier mit Euch.
 
 <YouTube id="M21ALoLPbH4" />
-
-## Calexico Wegweiser
-
-1.  [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
-1.  [live @ Southside Festival Neuhausen ob Eck Juni 2008](/2015/04/calexico-live-southside-festival-2008/)
-1.  [live @ Muffathalle München 16.10.2008](/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/)
-1.  [live @ Roxy Ulm 27.01.2009](/2009/01/calexico-live-roxy-ulm/)
-1.  [live @ Muffathalle München 8.07.2009](/2009/07/calexico-live-muffathalle-munchen/)
-1.  [stellen neue Single "Splitter" vor 31.07.2012](/2012/07/calexico-stellen-neue-singe-splitter-vor/)
-1.  [live @ Muffathalle München 29.11.2012](/2012/12/calexico-live-muffathalle-munchen-29-11-2012/)
-1.  [bringen neues Album "Edge Of The Sun" raus 14.04.2015](/2015/04/calexico-edge-of-the-sun-ist-da/)
-1.  [live @ Große Freiheit 36 Hamburg 15.04.2015](/2015/04/calexico-live-grosse-freiheit-36-15-04-2015/)
-1.  [live @ A Summer's Tale Festival 08.08.2015](/2015/08/calexico-live-a-summers-tale-festival-2015/)
-1.  [Calexico stellen neue Single "End Of The World With You vor](/2017/10/calexico-the-thread-that-keeps-us/)
-1.  "The Thread That Keeps Us" ist da - Das neue Calexico Album rockt!
-
-Zur Homepage von Calexico geht es [hier entlang](http://www.casadecalexico.com/).
