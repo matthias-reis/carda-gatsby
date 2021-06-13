@@ -1,26 +1,29 @@
 ---
-date: 2015-10-01T15:49:50.000Z
+date: 2015-10-01T15:49:50.000+00:00
 slug: die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da
-path: /2015/10/die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da/
+path: "/2015/10/die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da/"
 type: Artikel
 typeName: Artikel
 title: Die fünfte Ausgabe vom Welt Vegan Magazin ist da!
 seoTitle: Das neue Welt Vegan Magazin - Wieder zwei Artikel von mir
 ogTitle: Das neue Welt Vegan Magazin - Wieder zwei Artikel von mir
-description: Das neue Welt Vegan Magazin liegt ab sofort druckfrisch beim Eurem Zeitschriftenhändler. Auch von mir sind wieder zwei Artikel dabei.
-excerpt: Das neue Welt Vegan Magazin liegt ab sofort druckfrisch beim Eurem Zeitschriftenhändler. Auch von mir sind wieder zwei Artikel dabei.
+description: Das neue Welt Vegan Magazin liegt ab sofort druckfrisch beim Eurem Zeitschriftenhändler.
+  Auch von mir sind wieder zwei Artikel dabei.
+excerpt: Das neue Welt Vegan Magazin liegt ab sofort druckfrisch beim Eurem Zeitschriftenhändler.
+  Auch von mir sind wieder zwei Artikel dabei.
 fileName: 2015-10---die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23561677036_12d9f94bf1_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23561677036_12d9f94bf1_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAgX/xAAoEAACAQMEAgEDBQAAAAAAAAABAgMABBEFBhIhEyIxFEGhUVJhgbH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgUA/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAEQMSISIxE0FR/9oADAMBAAIRAxEAPwCV7X28l5c2sDgJ5ZEQtjOMsBn81V7DZW37Nitw+qXUoyeNvbIQoXGWZuXqvY7NJOz7iB5Y37DRsH+cfFP21bzWL3dWowPBerbSR3MMUcMfFeY5BWJYsSPuB0M9VEtnY36l9wEVSD38i/unbmmBmFoUDk+WPJOZoS3EOAf2t6EjrJFTrWNE8UTEDBXPYqjbS274NbttPtNVtLwzIwnikdYxGhBZzH849iG4jAzg/rjn6/CsX1cEo4yo5DA/2DWY+NwAYUrKhvuImgX0kS5TAyoz/lVrbe54yk09npcNvdM6GacTyM8jhOJYe2FByegMd0UUM5K3phwKHHKY3HrswKhIoUaJCqMkaqVH8ELn81Pb6/mubqR5SWLKScnOaKKXHuLMbLx2G0//2Q==
-ogImage: null
+ogImage: 
 labels:
-  - Artikel
-  - BUND
-  - Freelancerin
-  - Geschichten & Erlebtes
-  - TTIP
-  - Welt Vegan Magazin
+- Artikel
+- BUND
+- Freelancerin
+- Geschichten & Erlebtes
+- TTIP
+- Welt Vegan Magazin
+- serie:Welt Vegan Magazin
 focusKeyword: Magazin
 status: publish
 isWerbung: false
@@ -28,8 +31,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Zwei Artikel sind von mir
----
 
+---
 <RemoteImage
   alt={`Mein Interview mit Frau Mehrer vom BUND Hamburg`}
   size="medium"
@@ -104,17 +107,3 @@ Dir haben meine Texte im Welt Vegan Magazin gefallen und Du bist auf der Suche n
     },
   ]}
 />
-
-## Wegweiser Welt Vegan Magazin
-
-1.  [1/2015 "Superfood Lexikon"](/2015/04/mein-erster-artikel-im-welt-vegan-magazin/)
-1.  [3/2015 "Internationaler Tag zur Abschaffung von Tierversuchen"](/2015/05/das-neue-welt-vegan-magazin-ist-da/)
-1.  5/2015 "Interview BUND" und "TTIP"
-1.  [6/2015 "Wohlfühl-Guide für die kalte Jahreszeit" und "Klimakonferenz in Paris"](/2015/12/die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da/)
-1.  [1/2016 "Alge Vegan" und "Barnard Medical Centre"](/2016/03/welt-vegan-magazin-die-ausgabe-12016-ist-da/)
-1.  [2/2016 "Animal Rights Watch"](http://welt-vegan-magazin-22016)
-1.  [3/2016 "Schmuggel bedrohter Arten"](/2016/09/thomas-d-im-welt-vegan-magazin/)
-1.  [1/2017 "Los Veganeros 2"](/2017/03/los-veganeros-welt-vegan-magazin-1-2017/)
-1.  [2/2017 "Anne Menden und Sea Shepherd"](/2017/06/welt-vegan-magazin-2-2017-anne-menden/)
-
-Merken

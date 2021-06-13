@@ -1,26 +1,29 @@
 ---
-date: 2015-12-05T18:43:57.000Z
+date: 2015-12-05T18:43:57.000+00:00
 slug: die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da
-path: /2015/12/die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da/
+path: "/2015/12/die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da/"
 type: Artikel
 typeName: Artikel
 title: Die sechste Ausgabe vom Welt Vegan Magazin ist da!
 seoTitle: Die 6. Ausgabe vom Welt Vegan Magazin ist da - Meine Artikel
 ogTitle: Die 6. Ausgabe vom Welt Vegan Magazin ist da - Meine Artikel
-description: Das neue Welt Vegan Magazin ist da - Auch aus meiner Feder sind wieder zwei Artikel mit dabei. Das Cover ziert dieses Mal ein Aktfoto von Nova Meierhenrich
-excerpt: Das neue Welt Vegan Magazin ist da - Auch aus meiner Feder sind wieder zwei Artikel mit dabei. Das Cover ziert dieses Mal ein Aktfoto von Nova Meierhenrich
+description: Das neue Welt Vegan Magazin ist da - Auch aus meiner Feder sind wieder
+  zwei Artikel mit dabei. Das Cover ziert dieses Mal ein Aktfoto von Nova Meierhenrich
+excerpt: Das neue Welt Vegan Magazin ist da - Auch aus meiner Feder sind wieder zwei
+  Artikel mit dabei. Das Cover ziert dieses Mal ein Aktfoto von Nova Meierhenrich
 fileName: 2015-12---die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23541563825_1145b80465_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23541563825_1145b80465_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACYQAAIBAwQCAQUBAAAAAAAAAAECAwQFEQAGEiETMVEHIjJCYUH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIFBv/EAB8RAAICAgIDAQAAAAAAAAAAAAECABESIQNRMUGRwf/aAAwDAQACEQMRAD8AlW3KCmlqWe6T+GiSNnZgjNjrC9AZ/IjTtt+y7XvEdQlve6V01PgTtTQDjHnOM8gCPXydJ1UFXbcohDszyRRt41DHGS3o+/w1QfpdaKXb+27lfKu5PBUV0Aljo2ZYgEVjwZwe8swPHBHWf81icYDcZYjdzocsXCBb+/hESLbT0lRc5+MEcyU1wCxdHjNCC5Xkpb2fH2OveNM31ek2dVWkNZqZoLlHJwjh8PjCIW5M2FPHHsd571k17Ub7o3Q9DE4iZY5CYowYshl+7mP2JZuv4dKl4IHkJLFnOWJbJJ/uk9BwAOjIUNjZPYmptuOluEE0FwjmkjSWOQCORV/Vxg8lb51QLFcIo9rLZqyB6s+QE1DyDlxGAqjKnAAAAGesaNGi61Aebi3WpLa6G7xxzs8NRyZl4hT6woJHRx79fOp/XyM2STo0aoHJrMTOzLR9an//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23541563825_1145b80465_z__l.jpg
 labels:
-  - Freelancerin
-  - Geschichten & Erlebtes
-  - Redakteurin
-  - Texterin
-  - vegan
-  - Welt Vegan Magazin
+- Freelancerin
+- Geschichten & Erlebtes
+- Redakteurin
+- Texterin
+- vegan
+- Welt Vegan Magazin
+- serie:Welt Vegan Magazin
 focusKeyword: Welt Vegan Magazin
 status: publish
 isWerbung: false
@@ -28,8 +31,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Zwei Artikel aus meiner Feder
----
 
+---
 <RemoteImage
   alt={`Der Wohlfühl-Guide aus meiner Feder`}
   size="medium"
@@ -102,17 +105,3 @@ Und jetzt viel Spaß mit der neuen Ausgabe vom Welt Vegan Magazin! Habt eine gem
     },
   ]}
 />
-
-## Wegweiser Welt Vegan Magazin
-
-1.  [1/2015 "Superfood Lexikon"](/2015/04/mein-erster-artikel-im-welt-vegan-magazin/)
-1.  [3/2015 "Internationaler Tag zur Abschaffung von Tierversuchen"](/2015/05/das-neue-welt-vegan-magazin-ist-da/)
-1.  [5/2015 "Interview BUND" und "TTIP"](/2015/10/die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da/)
-1.  6/2015 "Wohlfühl-Guide für die kalte Jahreszeit" und "Klimakonferenz in Paris"
-1.  [1/2016 "Alge Vegan" und "Barnard Medical Centre"](/2016/03/welt-vegan-magazin-die-ausgabe-12016-ist-da/)
-1.  [2/2016 "Animal Rights Watch"](http://welt-vegan-magazin-22016)
-1.  [3/2016 "Schmuggel bedrohter Arten"](/2016/09/thomas-d-im-welt-vegan-magazin/)
-1.  [1/2017 "Los Veganeros 2"](/2017/03/los-veganeros-welt-vegan-magazin-1-2017/)
-1.  [2/2017 "Anne Menden und Sea Shepherd"](/2017/06/welt-vegan-magazin-2-2017-anne-menden/)
-
-Merken
