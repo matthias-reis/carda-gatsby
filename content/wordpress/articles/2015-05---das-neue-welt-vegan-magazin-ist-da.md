@@ -24,6 +24,7 @@ labels:
 - Vegane Zeitschriften
 - Welt Vegan Magazin
 - Zeitschriften Vegan
+- serie:Welt Vegan Magazin
 focusKeyword: Welt Vegan Magazin
 status: publish
 isWerbung: false
