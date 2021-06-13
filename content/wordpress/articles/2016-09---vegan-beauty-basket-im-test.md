@@ -38,8 +38,6 @@ subTitle: Unboxing Wellness
 advertisement: true
 
 ---
-Werbung\*
-
 <RemoteImage
   alt={`Vegan Beauty Basket`}
   size="medium"
