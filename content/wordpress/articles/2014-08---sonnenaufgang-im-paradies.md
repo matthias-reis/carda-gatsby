@@ -1,34 +1,36 @@
 ---
-date: 2014-08-31T15:25:02.000Z
+date: 2014-08-31T15:25:02.000+00:00
 slug: sonnenaufgang-im-paradies
-path: /2014/08/sonnenaufgang-im-paradies/
+path: "/2014/08/sonnenaufgang-im-paradies/"
 type: Artikel
 typeName: Rezept
 title: Sonnenaufgang im Paradies
 seoTitle: Smoothie-Rezept - Sonnenaufgang im Paradies
 ogTitle: Smoothie-Rezept - Sonnenaufgang im Paradies
-description: Smoothie-Rezept gefällig? Das sollt Ihr bekommen, denn ich habe wieder ein sportliches Erfolgserlebnis zu verbuchen! Hier ist mein Sonnenaufgang im Paradies
-excerpt: Smoothie-Rezept gefällig? Das sollt Ihr bekommen, denn ich habe wieder ein sportliches Erfolgserlebnis zu verbuchen! Hier ist mein Sonnenaufgang im Paradies.
+description: Smoothie-Rezept gefällig? Das sollt Ihr bekommen, denn ich habe wieder
+  ein sportliches Erfolgserlebnis zu verbuchen! Hier ist mein Sonnenaufgang im Paradies
+excerpt: Smoothie-Rezept gefällig? Das sollt Ihr bekommen, denn ich habe wieder ein
+  sportliches Erfolgserlebnis zu verbuchen! Hier ist mein Sonnenaufgang im Paradies.
 fileName: 2014-08---sonnenaufgang-im-paradies.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_14905440660_a151d0bfe7_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_14905440660_a151d0bfe7_o__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcF/8QALhAAAgEDAgQEBAcAAAAAAAAAAQIDBAURAAYSITFBBxNRcSIyYbEUFVKBofDx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFAv/EACcRAAEDAwEHBQAAAAAAAAAAAAEAAgMEESFBEhMUIjFxoVFhsdHw/9oADAMBAAIRAxEAPwDE2xtxTGrMgx1JOndHt2NlREVHkb5UTBZvYf0aC76o7mLJbprKlY0mXjkWl4uLBUEE8PsdBdjbz3NtDeENbVfmFRgNE0FY0jL8QIyQT27an7YLiCqfDuEQkbqrrddkVccBklNNGT8sXzAj6sB19uQ+upfuSxZjdvJaNh1BH2PcasVz3RPf7ZYpXSSAVE8aGHIySzYwxHXGM/uNHt3UqiOTkO+smVpPKgtjda7lm2TdVirZKO3GujaqlkCpGCQSSCCP91O7tQSS3mSKkWYsBG/mCNpByYcQLe2e+gOzr3RWG4x1rW/8ZVoMw8TALE36sdz9SeXpqk27xhgSsjqLjb64uEVeGOaORMDOPgIGOvqNIVUdQ2YOYy49cfCfp5o90WONr9/pObhWVyX+yw2ahjrBRRpVPGZhGgZiwUM56dBj1OjW4fEemqhPBNRNS1sLGOWCSdchh14TjmNbSeJ2zb5RmGqWGJm5tHUQ+Tnnkeq8vfUp8TorHWSz3C3TKtUx4iRKG8z+ftpajqJpJzFLGWDTHnOh7YRJjCIbsy4dTf8Ae3lf/9k=
-ogImage: null
+ogImage: 
 labels:
-  - foodblog
-  - foodblogger
-  - gesund
-  - Powerfood
-  - Rezept Smoothie
-  - Smoothie
-  - Smoothie mit zwei Schichten
-  - Smoothiemaker
-  - Smoothies
-  - vegan
-  - vegane Rezepte
-  - Vegane Rezepte
-  - Veganer
-  - whatvegansdrink
+- foodblog
+- foodblogger
+- gesund
+- Powerfood
+- Rezept Smoothie
+- Smoothie
+- Smoothie mit zwei Schichten
+- Smoothiemaker
+- Smoothies
+- vegan
+- vegane Rezepte
+- Vegane Rezepte
+- Veganer
+- whatvegansdrink
 focusKeyword: Smoothie-Rezept
 status: publish
 isWerbung: false
@@ -36,8 +38,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: After Workout Smoothie
----
 
+---
 **Smoothie-Rezept gefällig? Das sollt Ihr bekommen, denn ich habe wieder ein sportliches Erfolgserlebnis zu verbuchen!**
 
 Ich bin heute nach langer Zeit endlich wieder angelaufen und es ging mir wirklich spitze dabei! Kein Seitenstechen, kein Zwicken und kein Zwacken. So kann es weitergehen. Rund drei Kilometer waren es heute morgen, das nächste Mal werde ich mir eine größere Runde aussuchen.
@@ -71,11 +73,3 @@ Im Anschluss am besten mit einem Esslöffel die obere Schicht ganz vorsichtig au
 Mit Strohhalm oder Minisombrero verzieren und fertig ist der Smoothie!
 
 Lasst es Euch schmecken!
-
-Kussi Anne &lt;3
-
-## Wegweiser Smoothies
-
-1.  [Heidelbeerliebe](/2014/09/smoothie-fuer-den-sommer-heidelbeerliebe/)
-1.  Sonnenaufgang im Paradies
-1.  [Hanf Banane Himbeer Reigen](/2017/04/hanf-banane-himbeer-smoothie/)
