@@ -146,7 +146,7 @@ Auch, was das vegane Angebot an den diversen Essenständen angeht, haben die mei
 59. Warme Socken,
 60. Gummistiefel sind das wichtigste Kleidungsstück auf dem Festival! Damit lässt es sich nicht nur durch hohen Schlamm waten, man kann so auch bedenkenlos gerade noch okaye Dixies betreten und verliert keine Zehennägel, wenn einem beim Pogo jemand auf den Fuß springt. Natürlich gehen auch diese tollen, veganen Dock Martens, sie sind super wasserdicht, allerdings muss man sich darüber im Klaren sein, dass es mitunter sehr spaßig sein kann, nachts vor dem Zelt die vom Schlamm verklebten Schnürsenkel zu lösen. In beiden Fällen empfiehlt sich auf jeden Fall ein kleiner
 61. Stiefelknecht oder Schuhlöffel.
-62. Flyer und Kreide (Die URL www.earthlings.de ist bekannt, ich wünsche Euch viel Spaß, wo trifft man mehr Leute auf einem Haufen, als auf Festivals).
+62. Flyer und Kreide (Die URL [www.earthlings.de ist Euch bekannt](http://localhost:8000/2020/07/earthlings/ "Earthlings"), ich wünsche Euch viel Spaß, wo trifft man mehr Leute auf einem Haufen, als auf Festivals).
 63. Kondome,
 64. Klappgaskocher (Wenn Ihr in größeren Gruppen unterwegs seid, sprecht Euch vorher ab, wir hatten mal sage und schreibe 12 Gaskocher dabei, als wir zu achtzehnt auf dem Festival waren).
 65. Denkt auch an die Ersatzkartusche für den Gaskocher.
