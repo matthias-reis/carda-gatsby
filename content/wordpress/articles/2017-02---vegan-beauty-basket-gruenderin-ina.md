@@ -31,6 +31,7 @@ labels:
 - Vegan Beauty Basket
 - Vegane Beauty Box
 - Wellness
+- serie:Vegan Beauty Basket
 focusKeyword: Vegan Beauty Basket
 status: publish
 isWerbung: false
