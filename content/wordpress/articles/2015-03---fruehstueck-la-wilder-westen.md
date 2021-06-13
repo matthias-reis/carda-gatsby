@@ -1,46 +1,42 @@
 ---
 date: 2015-03-07T09:30:10.000+00:00
 slug: veganes-festival-fruehstueck
-path: "/2015/03/fruehstueck-a-la-wilder-westen/"
+path: '/2015/03/veganes-festival-fruehstueck/'
 type: Artikel
 typeName: Rezept
 title: Warmes veganes Festival-Frühstück
 seoTitle: Warmes veganes Festival-Frühstück – schnell und lecker
 ogTitle: Warmes veganes Festival-Frühstück – schnell und lecker
-description: Dieses Rezept für ein veganes Festival-Frühstück wird Euch den Start
-  in den Tag auf dem nächsten Open Air Event erleichtern. Es gelingt ganz leicht mit
-  wenigen Zutaten.
-excerpt: Dieses Rezept für ein veganes Festival-Frühstück wird Euch den Start in den
-  Tag auf dem nächsten Open Air Event erleichtern. Es gelingt ganz leicht mit wenigen
-  Zutaten. Ihr braucht im Grund nur zwei Konservendosen und ein paar Gewürze.
+description: Dieses Rezept für ein veganes Festival-Frühstück wird Euch den Start in den Tag auf dem nächsten Open Air Event erleichtern. Es gelingt ganz leicht mit wenigen Zutaten.
+excerpt: Dieses Rezept für ein veganes Festival-Frühstück wird Euch den Start in den Tag auf dem nächsten Open Air Event erleichtern. Es gelingt ganz leicht mit wenigen Zutaten. Ihr braucht im Grund nur zwei Konservendosen und ein paar Gewürze.
 fileName: 2015-03---fruehstueck-la-wilder-westen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_IMG_4095__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_IMG_4095__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUABgcI/8QAKhAAAgEDAwQBAwUBAAAAAAAAAQIDBAURABIhBjFBYRMHFFEVIiNxgTL/xAAXAQEBAQEAAAAAAAAAAAAAAAAGBQQH/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIAAwQRElFhITLwQf/aAAwDAQACEQMRAD8Al065kNQgoalrXSLtaH4+ZHLcDc3YggZxxjP+6Ng6yukkEtMt2qnn+QTNHGxd15xjIGV8cdtUX4pp5oCyosUYKyBG7Rr/ANHcc+MeMcaZGsjmpy0c8sMNSnyRRU6j+Y52qm0dmznufB9aLMWJzk5+4nUBb0FUDQYHUY3H66X20TPQw09LKacmBpqiFnaQ5JBYZGDjgj/eNNrF9XbLcxBT9Rw/p1Q4VfuhzE7k45UDKDnzkDHfWJdY1dM3UNWoSZEiZYyHUBgwHLHgHv8AnnVVnkaYnglVOQwPAHv3qxSTdATxBN1qlVgvJmh0lRFLWxmnlp4vkYRviJmGw8kFR7yMDR8dPLBAtdDNTw1Jnj+2iDBI2b9zbpe5GF7AefGrTD0J1JRNUOlvhngiztkpZl3VPYBQhYYQqMNkceATojoz6YVXUkzz9TE0tuhIVYYQAkzKfA4IAHGfOPWsGrFtcYEUPfUlp+3nr4zEr5bLg6vdftKh7fUzbIqoqxjdtudoJ9A4H4GkU4KMwYgMDgnbwMf1rvioslmksAss9DTz23GDBKu5T7/v2NJ4Omum6C5GvpbJboawKVEyQgHaRtI/GMcYxqglbVQGEJ3Ch3LD9M//2Q==
-ogImage: 
+ogImage:
 labels:
-- Baked Beans
-- Bohnen
-- Chili
-- Essen
-- Festival
-- Festival vegan kochen
-- Festival veganes Essen
-- Festivals
-- foodblogger
-- Frühstück
-- gesund
-- HCLF
-- Highcarblowfat
-- Kochen
-- lecker
-- Rezept
-- vegan
-- vegane Rezepte
-- Vegane Rezepte
-- veganes Essen auf dem Festival
-- veganes Festival-Frühstück
-- veganes Frühstück Festival
+  - Baked Beans
+  - Bohnen
+  - Chili
+  - Essen
+  - Festival
+  - Festival vegan kochen
+  - Festival veganes Essen
+  - Festivals
+  - foodblogger
+  - Frühstück
+  - gesund
+  - HCLF
+  - Highcarblowfat
+  - Kochen
+  - lecker
+  - Rezept
+  - vegan
+  - vegane Rezepte
+  - Vegane Rezepte
+  - veganes Essen auf dem Festival
+  - veganes Festival-Frühstück
+  - veganes Frühstück Festival
 focusKeyword: Veganes Festival-Frühstück
 status: publish
 isWerbung: false
@@ -48,8 +44,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Schnell und lecker
-
 ---
+
 <RemoteImage
   alt={` Veganes Festival-Frühstück`}
   size="medium"
