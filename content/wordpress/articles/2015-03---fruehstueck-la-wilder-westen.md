@@ -89,6 +89,6 @@ Ihr könnt Euer Frühstück anschließend mit dem Löffel direkt aus dem Topf ge
 
 Guten Appetit!
 
-[Rezept jetzt herunterladen](https://cardamonchai.com/img//img/veganes-festival-fruehstueck-pdf.pdf)
+[Rezept jetzt herunterladen](https://cardamonchai.com/img/veganes-festival-fruehstueck.pdf)
 
 <FestivalList />
