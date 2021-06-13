@@ -32,7 +32,7 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Klimaerwärmung
-year: "2017"
+year: '2017'
 month: '03'
 
 ---
@@ -58,18 +58,3 @@ Seepferdchen stehen für Freiheit, Gelassenheit und Unabhängigkeit. Die Klimakr
 
 **Hinweis:** Bei diesem Text handelt es sich um ein Flarf-Gedicht. Flarf-Gedichte enstehen, indem man die Ergebnisse der Suchmaschine zu bestimmten Begriffen geschickt miteinander kombiniert. Für mich ist diese Beschäftigung zum Hobby geworden. In meinem Blog habe ich daher schon einige solche Gedichte veröffentlicht.
 
-## Flarf-Gedichte Wegweiser
-
-1.  [Die Poesie der Vernetzung](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/)
-1.  [Straßenlaternen der Welt](/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/)
-1.  [Sonne und Frieden](/2016/03/sonne-und-frieden/)
-1.  [Manieren der Boshaftigkeit](/2016/04/manieren-der-boshaftigkeit/)
-1.  [Das übersetzte Wetter im Spiegel](/2016/05/das-uebersetzte-wetter-im-spiegel/)
-1.  [Die seltsame Stimmung der knalligen Blüten](/2016/10/die-seltsame-stimmung-der-knalligen-blueten/)
-1.  [Elbe schwarz-weiß bunt](/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/)
-1.  [Pizza und Backgammon](/2017/01/drei-koenige/)
-1.  [Liebe Sternschanze](/2017/01/liebe-sternschanze/)
-1.  [Haters rest in poetry](/2017/02/haters-rest-in-poetry/)
-1.  [Die Sehnsucht der Postmoderne](/2017/02/die-sehnsucht-der-postmoderne/)
-1.  [In den Straßen von St. Pauli](/2017/02/dauerregen-stpauli/)
-1.  Wie die Seepferdchen das Schwimmen verlernten
