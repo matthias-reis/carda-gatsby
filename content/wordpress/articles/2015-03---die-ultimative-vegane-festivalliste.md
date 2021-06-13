@@ -5,8 +5,8 @@ path: "/2015/03/die-ultimative-vegane-festivalliste/"
 type: Artikel
 typeName: Artikel
 title: Die ultimative vegane Festivalliste
-seoTitle: Die ultimative vegane Festivalliste - mit Gratis-Download
-ogTitle: Die ultimative vegane Festivalliste - mit Gratis-Download
+seoTitle: Die ultimative vegane Festivalliste – mit Gratis-Download
+ogTitle: Die ultimative vegane Festivalliste – mit Gratis-Download
 description: Einige vegan lebende Musikfans haben mich darauf aufmerksam gemacht,
   es ist Zeit für die ultimative vegane Festivalliste! Viel Spaß beim Planen und Lesen!
 excerpt: Einige vegan lebende Musikfans haben mich darauf aufmerksam gemacht, es ist
@@ -32,6 +32,8 @@ labels:
 - tolle Festivalliste
 - vegane Festivalliste
 - Zelten auf dem Festival
+- vegane Packliste Festival
+- vegane Festival-Packliste
 focusKeyword: vegane Festivalliste
 status: publish
 isWerbung: false
