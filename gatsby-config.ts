@@ -59,7 +59,7 @@ ${edge.node.frontmatter?.excerpt || edge.node.frontmatter?.description}`,
                 guid: site.siteMetadata.siteUrl + edge.node.fields.path,
                 custom_elements: [
                   {
-                    'content:encoded': `
+                    'content:encoded': `<![CDATA[ 
 <p style="font-size: 1.2em; color: #fffa">${
                       edge.node?.frontmatter?.subTitle
                     }</p>
@@ -69,7 +69,7 @@ ${edge.node.frontmatter?.excerpt || edge.node.frontmatter?.description}`,
 <p>${edge.node.frontmatter?.excerpt || edge.node.frontmatter?.description}</p>
 ${
   edge.node.frontmatter?.languageLink && '<p>🇬🇧 English version available</p>'
-}`,
+} ]]>`,
                   },
                 ],
               }));
