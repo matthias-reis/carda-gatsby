@@ -51,9 +51,9 @@ subTitle: Schnell und lecker
 
 ---
 <RemoteImage
-  alt={`Frühstück à la Wilder Westen`}
+  alt={` Veganes Festival-Frühstück`}
   size="medium"
-  title={` Frühstück à la Wilder Westen`}
+  title={` Veganes Festival-Frühstück`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_IMG_4095__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_IMG_4095__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUABgcI/8QAKhAAAgEDAwQBAwUBAAAAAAAAAQIDBAURABIhBjFBYRMHFFEVIiNxgTL/xAAXAQEBAQEAAAAAAAAAAAAAAAAGBQQH/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIAAwQRElFhITLwQf/aAAwDAQACEQMRAD8Al065kNQgoalrXSLtaH4+ZHLcDc3YggZxxjP+6Ng6yukkEtMt2qnn+QTNHGxd15xjIGV8cdtUX4pp5oCyosUYKyBG7Rr/ANHcc+MeMcaZGsjmpy0c8sMNSnyRRU6j+Y52qm0dmznufB9aLMWJzk5+4nUBb0FUDQYHUY3H66X20TPQw09LKacmBpqiFnaQ5JBYZGDjgj/eNNrF9XbLcxBT9Rw/p1Q4VfuhzE7k45UDKDnzkDHfWJdY1dM3UNWoSZEiZYyHUBgwHLHgHv8AnnVVnkaYnglVOQwPAHv3qxSTdATxBN1qlVgvJmh0lRFLWxmnlp4vkYRviJmGw8kFR7yMDR8dPLBAtdDNTw1Jnj+2iDBI2b9zbpe5GF7AefGrTD0J1JRNUOlvhngiztkpZl3VPYBQhYYQqMNkceATojoz6YVXUkzz9TE0tuhIVYYQAkzKfA4IAHGfOPWsGrFtcYEUPfUlp+3nr4zEr5bLg6vdftKh7fUzbIqoqxjdtudoJ9A4H4GkU4KMwYgMDgnbwMf1rvioslmksAss9DTz23GDBKu5T7/v2NJ4Omum6C5GvpbJboawKVEyQgHaRtI/GMcYxqglbVQGEJ3Ch3LD9M//2Q=="
