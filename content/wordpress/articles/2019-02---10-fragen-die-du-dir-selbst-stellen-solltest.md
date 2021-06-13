@@ -119,7 +119,7 @@ Für alle Fragen, die Du Dir selbst stellst, gilt immer die Devise
 
 Wenn Du glücklich bist und Dich wohl fühlst, tu alles dafür, dass es so bleibt. Wenn etwas Dir nicht gut tut, ändere es Stück für Stück. Du hast es in der Hand. Wenn Du auf das Bild klickst, kann Du Dir ein PDF der Liste runterladen und ausdrucken!
 
-<a href="/img/10-fragen-an-dich-selbst1.pdf" target="_blank><RemoteImage
+<a href="/img/10-fragen-an-dich-selbst1.pdf" target="_blank"><RemoteImage
   alt={`10-fragen`}
   size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_10-Fragen-an-Dich-selbst1.png__m.jpg"
