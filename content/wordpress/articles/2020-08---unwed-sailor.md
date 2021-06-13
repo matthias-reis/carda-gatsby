@@ -110,7 +110,9 @@ Ich denke, dass in gewisser Weise alle Genres, mit denen ich aufgewachsen bin, m
 ## "Ich möchte am Ball bleiben"
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_unwed-sailor-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_unwed-sailor-4__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAoEAACAQMDAgYDAQAAAAAAAAABAgMEBREAEiEGMQcTUWFxoRRBgZH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUBAv/EACoRAAECBAMGBwAAAAAAAAAAAAEAAgMEESEFEsETQWGBodEUMTJxkbHw/9oADAMBAAIRAxEAPwBdLVw0700U8hD1D7EG0kZ9z+u+qS+zy2mySTUEMbvGVUCTO0AnBY45PwOTrA77e7sL7Mxq1lEczGIgAiEHttB7cevfVP11dZbg1ge45QR0jNIsbHBlJAJ4+NEmi6Y9JsFFwzDYWGuGa7naEmg5dR7LYqOFbj03T1c0YV6iASEKchGx2B9jqOirYKmuqqSJwaimx5q+mdJfB651NHaes3h3NRxLE8QbJUMd+QoPGSCuf5rpjqESr/JSKNJpyvnMO7fJ/ft6a7l3mCKbkOfkvERM4sQLfIP1XmVmvUFJNJ11JRqu6QVkNN5mzAJIG36B/wA1Y9ZWowvbkY+c5Uwqo4y2c5/ufrRo00wAhw/eaqxmglp416Hum3h9Qs3Rd3igYZr5XIRzhQUACn651FWO6XO8S0VG8NIBVbir7CMhM7iedGjWbFrgyu+mndLtec7+B0X/2Q=="

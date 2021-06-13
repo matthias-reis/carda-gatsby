@@ -63,7 +63,9 @@ In der Zwischenzeit schneidet Ihr die tollen Herz-Kartoffeln und den Kohlrabi in
 Gebt Eure Bohnenmasse mit einem Löffel vorsichtig über das Gemüse. Anschließend bestreut Ihr Euren Auflauf großzügig mit dem veganen Pizzaschmelz. Nach rund 30 Minuten im Ofen ist das Gericht gar. Lasst es am besten noch ein bisschen abkühlen, eh Ihr es serviert. Guten Appetit!
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="https://www.adcell.de/promotion/view/promoId/175806/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/view/promoId/175806/slotId/80259"
   loadingUrl="undefined"

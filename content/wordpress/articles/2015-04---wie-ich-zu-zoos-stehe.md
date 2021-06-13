@@ -38,7 +38,9 @@ subTitle: Tierquälerei oder Artenerhalt?
 ---
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_3966__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_3966__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAMHBQYI/8QALRAAAQMCBQIEBgMAAAAAAAAAAQIDBAARBQYSITETIgdBYXEVMkNRUpGBoeH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQACBP/EABwRAAEEAwEAAAAAAAAAAAAAAAEAAhESAyExUf/aAAwDAQACEQMRAD8ApDWTIUvU78Dgg7APNamC6n0Fz/YqeZpiTMIxmTCbwWJ0WWy4hx6RoWrsukCwsQTcXHFXRMTEVuFRnpSnyQ2yBffzJvUi8Z4bsfMUBRlOulbQsXALqKSdhYcW9qQ2ruE3xi5rKU5kyPI6a406D1FoClIRIKbG243FjY1hMUyviENY0OoQnkaiHAU/wa2Xwqks4hjT0GXHS40ptbhS4PkWLG4/Z/dUCdldttJfw5xUaSo9hTskeh+1WIE6UsRoozdmCThLDbUNKUuO79XkpGknYcX9aieZMexTG5BbclqS5h7LiW3FjXr5HeDzxf3oooDTLoKKxoDZHU7wtek4JMenx3GlONspTpU32lJF1Dm4JI5rpNgamw4fqJC7fjcA2/2iijnqz5fV/9k="

@@ -71,7 +71,9 @@ Neben der robusten Bauart sind beim Boldking auch die Klingen anders, als bei Ra
 Ich habe keine Angst, auszurutschen und die Rasur ist viel sauberer, als ich das von meinem Ladyshaver aus dem Drogeriemarkt gewohnt bin. Die Klingen sind, auch bei Dauerbenutzung und Ganzkörperrasur, langlebig und können ganz leicht gewechselt werden. Im Lieferumfang war auch eine praktische Wandhalterung inbegriffen.
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076PQLT7X"
   largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076PQLT7X"
   loadingUrl="undefined"
@@ -82,7 +84,9 @@ Auf unnötige Verpackung aus Plastik wurde bewusst verzichtet, der Boldking komm
 ## Maskuline Optik
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="https://www.adcell.de/promotion/view/promoId/173067/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/view/promoId/173067/slotId/80259"
   loadingUrl="undefined"
@@ -91,7 +95,9 @@ Auf unnötige Verpackung aus Plastik wurde bewusst verzichtet, der Boldking komm
 Insgesamt ist das Outfit der Marke und damit auch die Homepage sehr maskulin. Für meinen Geschmack könnte sie etwas geschlechtsneutraler sein. Also bitte nicht auf die Idee kommen, pinke Rasierer ins Sortiment aufzunehmen und lieber in diese Richtung gehen. Die Rasierer dürfen gerne ihr charakteristisches Schwarz behalten. Aber vielleicht gibt es ja in Zukunft auch Unterwäscheteilchen für Damen und Aftershave-Produkte für größere Flächen, wie zum Beispiel Beine. Letztere sind ja nicht nur für Ladys interessant. Inzwischen gibt es ja sogar schon [Rückenrasierer](https://www.adcell.de/promotion/click/promoId/173067/slotId/80259) !
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076Q7C4LD"
   largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076Q7C4LD"
   loadingUrl="undefined"
@@ -135,7 +141,9 @@ Insgesamt bin ich rundum zufrieden mit meinem Boldking. Mir gefällt die Optik, 
 />
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076PQLT7X"
   largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076PQLT7X"
   loadingUrl="undefined"

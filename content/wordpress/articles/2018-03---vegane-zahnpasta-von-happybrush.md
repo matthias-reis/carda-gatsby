@@ -115,7 +115,9 @@ Auf den Bildern seht Ihr übrigens einen kleinen **Less Waste Life Hack** von mi
 [Hier findet Ihr meinen Testbericht zur Schallzahnbürste von Happybrush](/2017/08/happybrush-der-ultimative-produkttest/).
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="https://www.adcell.de/promotion/view/promoId/169537/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/view/promoId/169537/slotId/80259"
   loadingUrl="undefined"

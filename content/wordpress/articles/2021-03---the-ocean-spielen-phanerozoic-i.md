@@ -42,7 +42,9 @@ Am Donnerstag, 25. März um 20 Uhr ist es so weit: The Ocean streamen live vom P
 ## The Ocean live – Das erste Konzert des Jahres 2021
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAApEAACAgEEAQQBBAMAAAAAAAABAgMEEQAFEiExBhNBUSIjMmKRgaHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAMBAv/EABoRAQEBAQEBAQAAAAAAAAAAAAECABEDEmH/2gAMAwEAAhEDEQA/AC3k64+wjHxnmwP9AaWOy5JEpYeO2GBrH1fYWt6fus83sLIhh93kQULgqCMAknJAwPsn41MxXa1elPSklPCOIuaUYMhGOj0OgBnP3qV2ygHdP09GEA73OLW5Vor9emzMZpwxXC/iAoyST4Hj/ul1bea129LUhjsrJGpflJEVVlzjkD9E+PvS2W3uF90Za+3xVlCtIkr/AKnHIwP4nx8n6On4giiZ3iGWkxyfOSwHjP8Af+9JpXIuqfzaeq3jutY26/TsxUYxHMt0NhXkycIoHbHyMDvz4xnUTdrR7bs8C1JZ296Z5Z3iJDg4YKmM5/Hjk9/OddZsRK5HuIHAOcEZ0gbY6h296tpTZ5ySStK4Cvyc9lSP29ddfA0ZV2V51S6Z26Hc2hrxXprRkUIGUt2T0Tk/I/zqjm+dCbZ6fo7TM0tY2XkK8Q08xfiPoDwNFzaRLPevd15edR36e7//2Q=="

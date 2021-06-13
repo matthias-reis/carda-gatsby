@@ -41,7 +41,9 @@ _Anzeige &amp; Affiliate Links\*_
 **Fernbedienungen, Taschenlampen, Hörgeräte, Handys, Uhren, Radios: Für alles braucht man Batterien. Diese belasten irgendwann die Umwelt. Egal, ob Einwegzelle oder Akku. Das Material ist hochgiftig und wird meist unter schlimmen Arbeitsbedingungen in großen Minen abgebaut. Die Vereinten Nationen warnten bereits vor immer bedenklicher werdenden Umständen.**
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="https://www.adcell.de/promotion/view/promoId/169185/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/view/promoId/169185/slotId/80259"
   loadingUrl="undefined"
@@ -64,7 +66,9 @@ Die Batterie aus Binghamton ist ein Hybrid aus Filterpapier und einem stromleite
 Nach wie vor offen ist, ob die nachhaltigen Batterien auf den Markt gebracht werden. Bisher ist ihre Leistung noch sehr schwach. Lediglich Kleinstgeräte wie beispielsweise kleine Biosensoren (z. B. Blutzuckermessgeräte) können damit betrieben werden. Die Forscher bleiben jedoch dran. Es wäre auf jeden Fall ein großer Schritt in Richtung mehr Nachhaltigkeit, wenn es sich dabei bald nicht mehr um Zukunftsmusik sondern um Massenware in unseren Supermärkten handeln würde.
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="https://www.adcell.de/promotion/view/promoId/169185/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/view/promoId/169185/slotId/80259"
   loadingUrl="undefined"

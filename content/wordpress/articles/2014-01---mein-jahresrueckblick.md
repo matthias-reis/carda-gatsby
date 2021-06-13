@@ -34,7 +34,9 @@ subTitle: Das war 2013
 Schon seit gefühlten Ewigkeiten habe ich mir vorgenommen, endlich meinen Jahresrückblick zu veröffentlichen und heute ist es soweit! Die Statistik-Elfen haben ihn für mich erstellt und ich finde ihn sehr interessant, daher möchte ich ihn Euch natürlich ungern vorenthalten.
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="http://www.wordpress.com/wp-content/mu-plugins/annual-reports/img/2012-emailteaser.png"
   largeUrl="http://www.wordpress.com/wp-content/mu-plugins/annual-reports/img/2012-emailteaser.png"
   loadingUrl="undefined"

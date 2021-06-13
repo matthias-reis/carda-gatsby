@@ -60,7 +60,9 @@ Die Teilnehmer der Treffen reparieren in Gruppen oder in Eigenregie defekte Ding
 ## Ehrenamtliche Helfer stellen ihre Fachkenntnisse zur Verfügung
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
   largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
   loadingUrl="undefined"
@@ -77,7 +79,9 @@ Die Besucher der Repair-Cafés freuen sich besonders über den Gemeinschafts-Ged
 "Wir freuen uns über unseren neuen Partner. Durch Unternehmen wie SOS Zubehör hat jeder die Möglichkeit, seine Elektro-Geräte zu warten und zu reparieren – auch wenn er kein Heimwerker-Profi ist.", so Martine Postma.
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
   largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
   loadingUrl="undefined"

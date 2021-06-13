@@ -42,7 +42,9 @@ _Werbung\*_
 **Die Kokosprodukte von Dr. Antonio Martins kennt Ihr vielleicht schon. Der Hersteller war bislang besonders für seine Getränke mit Kokoswasser bekannt. Jetzt wurde das Sortiment erweitert. Ich habe die neuen Kokosmilch-Sorten  "Klassisch", "Calzium" und "Matcha" getestet.**
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="https://www.adcell.de/promotion/view/promoId/118963/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/view/promoId/118963/slotId/80259"
   loadingUrl="undefined"
@@ -128,7 +130,9 @@ Nach dem Sport trinke ich die "Coco Milk For Drinking" in der Sorte "Calzium" ge
 Die Konsistenz gefällt mir bei allen drei Sorten gut. Die Milch ist nicht zu dickflüssig, aber auch nicht zu dünn. Auch was mir mit Kokosmilch-Produkten bisher nicht gelungen ist, ist machbar: Sie vermischt sich gut mit Kaffee. In einem kleinen Experiment ist es mir sogar gelungen, sie aufzuschäumen und ich muss zugeben: So ein Kokos-Cappuccino ist schon etwas wirklich Feines. Vielleicht probiert Ihr den ja auch mal.
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="https://www.adcell.de/promotion/view/promoId/118963/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/view/promoId/118963/slotId/80259"
   loadingUrl="undefined"

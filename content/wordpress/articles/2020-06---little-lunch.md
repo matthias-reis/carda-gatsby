@@ -68,7 +68,9 @@ Die beiden neuen veganen Sommersorten "[Gemüsegarten](http://tidd.ly/d3f8a6de)"
 <!-- START ADVERTISER: Little Lunch DE from awin.com -->
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="https://www.awin1.com/cshow.php?s=2340087&amp;v=14792&amp;q=357190&amp;r=632580"
   largeUrl="https://www.awin1.com/cshow.php?s=2340087&amp;v=14792&amp;q=357190&amp;r=632580"
   loadingUrl="undefined"

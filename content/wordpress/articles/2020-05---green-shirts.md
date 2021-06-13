@@ -54,7 +54,9 @@ Faire Arbeitsstandards, Bio-Produkte möglichst aus der Region, die Förderung v
 ## Basics und coole Designer-Shirts
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
   loadingUrl="undefined"
@@ -71,7 +73,9 @@ Im Vergleich zu einem herkömmlichen T-Shirt werden bei einem Earth Positive T-S
 ## Green Shirts im Test
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
   loadingUrl="undefined"
@@ -82,7 +86,9 @@ Spätestens nachdem ich das gelesen hatte, war mein Interesse geweckt. Das musst
 Was soll ich sagen: Etwas, das gleichzeitig so bequem und schick ist, habe ich schon lange nicht mehr besessen. Die Farben gefallen mir sensationell gut und die kleinen Details sind wirklich klasse. Ich mag zum Beispiel die kleine Kork-Applikation am Saum der Jacke und den geometrischen Aufdruck und die gekrempelten Ärmel beim Shirt richtig gerne.
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
   loadingUrl="undefined"
@@ -93,7 +99,9 @@ Was soll ich sagen: Etwas, das gleichzeitig so bequem und schick ist, habe ich s
 ## Angenehme Qualität
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
   loadingUrl="undefined"
@@ -112,7 +120,9 @@ Die Green Shirts Textilien werden mit dem sogenannten DTG-Printverfahren bedruck
 Im Team von Niklas arbeiten heute sechs Menschen. Die öko-fairen Standards sollen kontinuierlich weiter ausgebaut werden. Die (wie ich finde) moderaten Preise sollen dabei möglichst beibehalten werden.
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
   loadingUrl="undefined"
@@ -125,7 +135,9 @@ Wenn Ihr jetzt neugierig geworden seid, schaut gerne mal auf der [Niklas Homepag
 Mit dem Gutscheincode GS-4932 erhaltet Ihr bis einschließlich 20.12.2021 5 Euro Rabatt auf Eure erste Bestellung bei Green Shirts. Der Mindestbestellwert liegt bei 29,90 Euro.
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="https://www.adcell.de/promotion/view/promoId/168828/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/view/promoId/168828/slotId/80259"
   loadingUrl="undefined"

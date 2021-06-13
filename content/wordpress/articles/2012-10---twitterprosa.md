@@ -83,7 +83,9 @@ Wer wissen möchte, wie es weitergeht, kann dies gerne auf Twitter nachlesen.
 _May the force be with you!_
 
 <RemoteImage
-  alt={`} size="small" title={`}
+  alt={``}
+  size="small"
+  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_519079845__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_519079845__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QAJxAAAQMDBAEEAwEAAAAAAAAAAQIDBAAFEQYSITEiBxNRkQgyQYH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAHREBAAICAgMAAAAAAAAAAAAAAQACESEDEhMxQf/aAAwDAQACEQMRAD8AQs2OFSpCwOCtah9k0w1aWgG6Rk3OW0I4gMpKPdKVoWUDGP4KqLxpl20SGVT5DC9z7rRbaV2WikLwT/MnAOOag1HITOktuRA6fAN7HDhS89J8T9UvLtOrKF/HVz71L2y6WUu/zYkZpbsRyK6plzbuAAxtSpWMBWc9/wCUv5TWwqYcStKv0UCOQro10tovQ+rI1qkx7U/Yng+02l9qWFL9pQTkbQD2N3Cqzr/oDqz207X7WtQ48nlKz9ozW0L5WzrUo8g1KpuKO863N7hQba6yQI0pySt0q2rc34Ckg48c8888kfFQWnVVth6iF1iWVtiGwSoQXZC3QDzghZ5z1RRQyDZXM3V59dJl5dtb8OK3ZBbXCvZEdKUulRT2kADgJPef2NadP5KzAwtE9tLMxBPEWMlaD8cqXxnj5oopvkbuz//Z"

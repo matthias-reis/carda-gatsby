@@ -46,7 +46,9 @@ month: '02'
 Das sagt die Online-Enzyklopädie. Schaut mal, was ich daraus gemacht habe. Die Bilder habe ich bei unserem Besuch dort am 12.11.2017 aufgenommen.
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39326731695_cbf529dc1e_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39326731695_cbf529dc1e_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcD/8QALBAAAQMDAwMDAgcAAAAAAAAAAQIDEQAEBQYSIQcTUSIxQTJCFGFxkaGxwf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwL/xAAcEQEAAgMAAwAAAAAAAAAAAAABAAIDETEhIkH/2gAMAwEAAhEDEQA/AMob6xauRbC3tXMXbAHkNY5gJI8bdlX8P1N1pkn3RdamsLNtlsuJ7uPYAWR9ghEyfAM+KzRv65ERH+U+4XUWIx2IYtkW956Wy+vcEnc7AmDP5ceBQ+vCHes4ZnqbrDMoXbXmSdRYupCHbFuQ24JkhQMn+fimbok+Mjrhd3ddtp22sXQ0lCiNxUUpIjkkwo8Uh6kv7S9yhvccl9pS0hTqlGJcPynnjiB+oNNvRjI4zH6ptr7J3KUutOKTKnFghC29qlbQhW7355BATxM0ywJZJLNjb47Vr9JmzLyEWFyhbCFuOLb2PGZbAncB8cyP2q9b5W9DSGkJYVtAEfh0rMRxPB80UUyUZC6usg8l1Kmilp3Z3ALePpnbBjj3Mx7/ADVvRr9qxnmH8gh1y0G5LiGne2pXpJAmD923+uJmiisp4j22NM//2Q=="

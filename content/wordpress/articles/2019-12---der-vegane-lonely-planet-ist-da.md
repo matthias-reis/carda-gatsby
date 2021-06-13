@@ -128,7 +128,9 @@ Hat Euch meine Rezension gefallen? Das freut mich sehr! Wenn Ihr in Zukunft nich
 <!-- START ADVERTISER: Lonely Planet Publications from awin.com -->
 
 <RemoteImage
-  alt={`} size="medium" title={`}
+  alt={``}
+  size="medium"
+  title={``}
   mediumUrl="https://www.awin1.com/cshow.php?s=2459095&amp;v=1238&amp;q=369704&amp;r=632580"
   largeUrl="https://www.awin1.com/cshow.php?s=2459095&amp;v=1238&amp;q=369704&amp;r=632580"
   loadingUrl="undefined"
