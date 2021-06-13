@@ -6,7 +6,7 @@ import { color, font, fontSize } from '../style';
 export const FestivalList: React.FC<{ link?: string }> = ({ link }) => {
   const withOriginalLink = !!link;
   const linkProps = withOriginalLink
-    ? { as: 'a', href: link }
+    ? { as: 'a', href: link, target: '_blank' }
     : { to: '/2015/03/die-ultimative-vegane-festivalliste' };
   return (
     <div>
