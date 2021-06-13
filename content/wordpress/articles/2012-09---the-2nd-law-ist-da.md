@@ -1,93 +1,95 @@
 ---
-date: 2012-09-28T13:32:40.000Z
+date: 2012-09-28T13:32:40.000+00:00
 slug: muse-the-second-law-ist-da
-path: /2012/09/muse-the-second-law-ist-da/
+path: "/2012/09/muse-the-second-law-ist-da/"
 type: Artikel
 typeName: Review
 title: '"The 2nd Law" ist da!'
 seoTitle: Muse - The 2nd Law ist da - hier kommt meine Rezension
 ogTitle: Muse - The 2nd Law ist da - hier kommt meine Rezension
-description: Wie der Fürst der Finsternis auf Reifen bin ich zur Packing-Station gefahren und habe mein Fach gelehrt. Die neue Muse-Platte "The 2nd Law" ist da!
-excerpt: Wie der Fürst der Finsternis auf Reifen bin ich zur Packing-Station gefahren und habe mein Fach gelehrt. Die neue Muse-Platte "The 2nd Law" ist da!
+description: Wie der Fürst der Finsternis auf Reifen bin ich zur Packing-Station gefahren
+  und habe mein Fach gelehrt. Die neue Muse-Platte "The 2nd Law" ist da!
+excerpt: Wie der Fürst der Finsternis auf Reifen bin ich zur Packing-Station gefahren
+  und habe mein Fach gelehrt. Die neue Muse-Platte "The 2nd Law" ist da!
 fileName: 2012-09---the-2nd-law-ist-da.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_09_427d6774096811e283fe22000a1d0cf6_7__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_09_427d6774096811e283fe22000a1d0cf6_7__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFAgP/xAApEAABAwMCBgICAwAAAAAAAAABAgMEBQYRACEHEhMiMUFRYRQkMnGB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgQFA//EACURAAEDBAAFBQAAAAAAAAAAAAECAxEABBIhEzFBcZFRYYGx8P/aAAwDAQACEQMRAD8AJcTr8umJxGuWLFuGqx4jNQdjtsty1ISlA3ASPQyDv6G2s6fX7kuVhqm02VWUSG1H8uUqqSHULSQQSpJ7UJ+h/W+lFespmv8AEO53KtUH6fFelyXG2k8q3pDXUJJTntQkkbFW59DG+ltLKrNmPOWzbTldhze6TIdkKSvbwkHkSn2VeCPvUtN4yHglw6602LdeGeJjtrzRyyrchN0+Uqr3FX5ctsdMtszHYrYVsUhJSQCClWO4jBHoHXjWZdWtm+LQj0u766USJzCnqVJmOOhpBdSCFE+juMKznOnN01W28Q5SS6zNUctI6nKFLA5lNqwCnAHlR+sajUdqW9xOYlzVILzNSYkOlxYGE9QEbH4G2NULwIWG7i1UcASCI1J2AZ3yonLhh2UNN4n334Pp8VUOIUS3HL0nu1OQ8HEvOlxiMoqW4rPhSj/H1sMaK3nUWqRT2XKazFjh8gMKXMRJeKCnJWW/LRB7e7340i40WrXqXcc2fS4sx9iY8uQHIsYu8vMckEgEggnUbm25cbrC5rlJqSwXOmSqMsLJxnJTjOPvxqMWJWSRuf3SK2CglAHMd6c0ONKuuA9TBO51rZC2nngVJawcK29ZSpQ/3W7b3COXFuCBJeryFftNqcSmMVdRIWk8uVHzt511watWoUeO/Uqyy8w7ISENNOAgpRnJJHydtVOA8ldVgIzguSEBO+6u4Hb520KVYnEHQph9zjniKEGPqv/Z
-ogImage: null
+ogImage: 
 labels:
-  - 80er jahren
-  - Art-Rock
-  - Bands
-  - bestellen
-  - Bewertung neue Muse Platte
-  - Blog
-  - bunt
-  - Chorgesänge
-  - Devon
-  - Freunde der progressiven Musik
-  - Geschichten
-  - gewaltig
-  - Gitarre
-  - ich liebe Muse
-  - Isolated System
-  - ist toll
-  - Konzert
-  - Leben
-  - Liebe
-  - Life
-  - live
-  - Love
-  - lyrics Muse Madness
-  - Madness
-  - Madness Muse
-  - Math-Rock
-  - Matthew Bellamy
-  - Me
-  - monumental
-  - Muse
-  - Muse live
-  - Muse Madness
-  - Muse Madness lyrics
-  - Muse neues Album
-  - Muse Panic Station
-  - Muse Prelude
-  - Muse Rezension neue Platte
-  - Muse Rezension The 2nd Law
-  - Muse Rezension The second Law
-  - Muse Unsustainable
-  - Muse-Fan
-  - Muse-Fans
-  - Muse-Konzert
-  - Musik
-  - neue CD Muse Bewertung
-  - neue musik
-  - neue Platte
-  - neue progressive Musik
-  - neues Album Muse
-  - Panic Station
-  - Panic Station Muse
-  - Platten Rezension
-  - Pop
-  - Prelude
-  - Prelude Muse
-  - Prog-Rock
-  - progressiv
-  - progressive Musik
-  - Rock
-  - Songtext Madness
-  - Songtext Madness Muse
-  - Songtext Muse
-  - Songtext Muse Madness
-  - stimmgewaltig
-  - Surpremacy
-  - Surpremacy Muse
-  - The 2nd Law
-  - The 2nd Law Muse
-  - The Second Law
-  - The Second Law Muse
-  - Unsustainable
-  - Unsustainable Muse
-  - wunderbar
+- 80er jahren
+- Art-Rock
+- Bands
+- bestellen
+- Bewertung neue Muse Platte
+- Blog
+- bunt
+- Chorgesänge
+- Devon
+- Freunde der progressiven Musik
+- Geschichten
+- gewaltig
+- Gitarre
+- ich liebe Muse
+- Isolated System
+- ist toll
+- Konzert
+- Leben
+- Liebe
+- Life
+- live
+- Love
+- lyrics Muse Madness
+- Madness
+- Madness Muse
+- Math-Rock
+- Matthew Bellamy
+- Me
+- monumental
+- Muse
+- Muse live
+- Muse Madness
+- Muse Madness lyrics
+- Muse neues Album
+- Muse Panic Station
+- Muse Prelude
+- Muse Rezension neue Platte
+- Muse Rezension The 2nd Law
+- Muse Rezension The second Law
+- Muse Unsustainable
+- Muse-Fan
+- Muse-Fans
+- Muse-Konzert
+- Musik
+- neue CD Muse Bewertung
+- neue musik
+- neue Platte
+- neue progressive Musik
+- neues Album Muse
+- Panic Station
+- Panic Station Muse
+- Platten Rezension
+- Pop
+- Prelude
+- Prelude Muse
+- Prog-Rock
+- progressiv
+- progressive Musik
+- Rock
+- Songtext Madness
+- Songtext Madness Muse
+- Songtext Muse
+- Songtext Muse Madness
+- stimmgewaltig
+- Surpremacy
+- Surpremacy Muse
+- The 2nd Law
+- The 2nd Law Muse
+- The Second Law
+- The Second Law Muse
+- Unsustainable
+- Unsustainable Muse
+- wunderbar
 focusKeyword: Muse
 status: publish
 isWerbung: false
@@ -95,8 +97,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Neues Album von Muse
----
 
+---
 **Der große Tag ist da! Zur Feier des Tages habe ich Überstunden eingelöst und das Büro früher verlassen. Wie der Fürst der Finsternis auf Reifen bin ich zur Packing-Station gefahren und habe mein Fach gelehrt. Die neue Muse-Platte "The 2nd Law" ist da!**
 
 <RemoteImage
@@ -159,8 +161,3 @@ _And know I have finally seen the end_ _(Finally seen the end)_ _And I not expec
 _Come to me, just in a dream_ _Come on and rescue me_ _Yes I know, I can't be wrong_ _And maybe all too have strong_ _Our love is…_
 
 _M-m-m-m-m-mad-mad-mad_ _M-m-m-m-m-mad-mad-mad_ _Madness_
-
-## Muse Wegweiser
-
-1.  [Muse stellen neue Single "Madness" vor](/2012/08/muse-stellen-neue-single-madness-vor/)
-1.  [Muse - "Drones" ist endlich da!](/2015/06/muse-drones-ist-endlich-da/)
