@@ -52,9 +52,11 @@ export default {
               return allMdx.edges.map((edge: any) => ({
                 ...edge.node.fields,
                 ...edge.node.frontmatter,
-                description:
-                  edge.node.frontmatter.excerpt ||
-                  edge.node.frontmatter.description,
+                description: `<img src="${
+                  edge.node?.frontmatter?.image?.childImageSharp?.fluid?.src
+                }" alt="${edge.node?.frontmatter?.title}"/>
+
+${edge.node.frontmatter?.excerpt || edge.node.frontmatter?.description}`,
                 url: site.siteMetadata.siteUrl + edge.node.fields.path,
                 guid: site.siteMetadata.siteUrl + edge.node.fields.path,
               }));
@@ -95,7 +97,7 @@ export default {
   }
 }`,
             output: '/rss.xml',
-            title: "Your Site's RSS Feed",
+            title: "Cardamonchai.com - Rock'n'Roll vegan",
           },
         ],
       },
