@@ -1,40 +1,44 @@
 ---
-date: 2017-03-03T18:37:41.000Z
+date: 2017-03-03T18:37:41.000+00:00
 slug: los-veganeros-welt-vegan-magazin-1-2017
-path: /2017/03/los-veganeros-welt-vegan-magazin-1-2017/
+path: "/2017/03/los-veganeros-welt-vegan-magazin-1-2017/"
 type: Artikel
 typeName: Artikel
 title: Los Veganeros und Leonardo DiCaprio
-seoTitle: Los Veganeros 2 und Leonardo DiCaprio - Das neue Welt Vegan Magazin ist da!
+seoTitle: Los Veganeros 2 und Leonardo DiCaprio - Das neue Welt Vegan Magazin ist
+  da!
 ogTitle: Los Veganeros 2 und Leonardo DiCaprio - Das neue Welt Vegan Magazin ist da!
-description: Der Frühling ist endlich da! Und mit ihm Los Veganeros 2! Im neuen Welt Vegan Magazin wartet daher ein exklusives Interview mit dem Macher des Films!
-excerpt: Der Frühling ist endlich da! Und mit ihm Los Veganeros 2! Im neuen Welt Vegan Magazin wartet daher ein exklusives Interview mit dem Macher des Films!
+description: Der Frühling ist endlich da! Und mit ihm Los Veganeros 2! Im neuen Welt
+  Vegan Magazin wartet daher ein exklusives Interview mit dem Macher des Films!
+excerpt: Der Frühling ist endlich da! Und mit ihm Los Veganeros 2! Im neuen Welt Vegan
+  Magazin wartet daher ein exklusives Interview mit dem Macher des Films!
 fileName: 2017-03---los-veganeros-und-leonardo-dicaprio.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_03_33228877995_c1f0eac3cf_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_03_33228877995_c1f0eac3cf_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGAgUH/8QAJxAAAgIBBAICAgIDAAAAAAAAAQIDBBEABRIhBjFBURNhIjJxkcH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHhEAAwEAAgIDAAAAAAAAAAAAAQIRAAMSIjGR8PH/2gAMAwEAAhEDEQA/AF9m8ZgWqz0zYa0Y2WIyqnGMsDx7b0M9dfeTrO+x79tlXbIa8dR5bEbSRV9sp17HJVYAuea4VcnHR9560hs3l9q5vm01okWKFrMSSmQjkVV+TsT6QYHyf+6q/LN+qWrFG/tqvI1KMwS2KrGdYg7BlyY/vDD0cdfrUArcaFiKdoAD8ioxgzfhrR7n4RvJ3V413aqXVI2qpDPBiLkq8UXiMkEqe+veMEai983zaa+3lNqF2xYdRiPqLi598mPo/wCM++tXPg9g1rm/NXpWlsWGro1JAjWFh/GWV5RLIpUMZCq+z0cgZGvI9y2+bM7zMTEIuDsvRWQddn9EH7+dMB3VSRDj4ozLaB9/fnSvi+4hL8ks8bSw83MqBwrycgy/3wcYznofGrnxrf4NqKLDVtSVq1hbaxSWgSyqpVYi3DJUZz/r60aNVViTLgeNYDNmxvAi8otb4i2WsyB1MUkqNGisQcIPx/xxhfR+O9cq7ZkvbhY/JJIFm5zgBv65JPH94zo0aa33poo7Tf/Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_03_33228877995_c1f0eac3cf_z__l.jpg
 labels:
-  - Before The Flood
-  - Delikat Rayne
-  - Geschichten & Erlebtes
-  - go vegan
-  - Hamburg
-  - Harald Ullmann
-  - Israel
-  - Klimaschutz
-  - Lars Oppermann
-  - Leonardo DiCaprio
-  - Los Veganeros
-  - Los Vegareros 2
-  - PETA
-  - Petra Winzenmöller
-  - Tennis
-  - Tierrechte
-  - Tierschutz
-  - vegan
-  - Welt Vegan Magazin
-  - Yoga
+- Before The Flood
+- Delikat Rayne
+- Geschichten & Erlebtes
+- go vegan
+- Hamburg
+- Harald Ullmann
+- Israel
+- Klimaschutz
+- Lars Oppermann
+- Leonardo DiCaprio
+- Los Veganeros
+- Los Vegareros 2
+- PETA
+- Petra Winzenmöller
+- Tennis
+- Tierrechte
+- Tierschutz
+- vegan
+- Welt Vegan Magazin
+- Yoga
+- serie:Welt Vegan Magazin
 focusKeyword: Los Veganeros
 status: publish
 isWerbung: false
@@ -42,8 +46,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Das neue Welt Vegan Magazin ist da!
----
 
+---
 <RemoteImage
   alt={`Los Veganeros`}
   size="medium"
@@ -82,8 +86,6 @@ Ab Seite 12 verrät die Tennismeisterin und Physiotherapeutin Petra Winzmöller 
 
 So, mehr wird nicht verraten! Jetzt auf zum Kiosk, sichert Euch Eure Ausgabe! Und wenn Ihr damit fertig seid, schaut Ihr Euch am besten gleich  _Los Veganeros 2_ an. Der Film startet am 16. März in den Kinos.
 
-Eure stolze Textchefin Anne &lt;3
-
 <RemoteImage
   alt={`Los Veganeros`}
   size="full"
@@ -91,21 +93,3 @@ Eure stolze Textchefin Anne &lt;3
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33228877995_c1f0eac3cf_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGAgUH/8QAJxAAAgIBBAICAgIDAAAAAAAAAQIDBBEABRIhBjFBURNhIjJxkcH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHhEAAwEAAgIDAAAAAAAAAAAAAQIRAAMSIjGR8PH/2gAMAwEAAhEDEQA/AF9m8ZgWqz0zYa0Y2WIyqnGMsDx7b0M9dfeTrO+x79tlXbIa8dR5bEbSRV9sp17HJVYAuea4VcnHR9560hs3l9q5vm01okWKFrMSSmQjkVV+TsT6QYHyf+6q/LN+qWrFG/tqvI1KMwS2KrGdYg7BlyY/vDD0cdfrUArcaFiKdoAD8ioxgzfhrR7n4RvJ3V413aqXVI2qpDPBiLkq8UXiMkEqe+veMEai983zaa+3lNqF2xYdRiPqLi598mPo/wCM++tXPg9g1rm/NXpWlsWGro1JAjWFh/GWV5RLIpUMZCq+z0cgZGvI9y2+bM7zMTEIuDsvRWQddn9EH7+dMB3VSRDj4ozLaB9/fnSvi+4hL8ks8bSw83MqBwrycgy/3wcYznofGrnxrf4NqKLDVtSVq1hbaxSWgSyqpVYi3DJUZz/r60aNVViTLgeNYDNmxvAi8otb4i2WsyB1MUkqNGisQcIPx/xxhfR+O9cq7ZkvbhY/JJIFm5zgBv65JPH94zo0aa33poo7Tf/Z"
 />
-
-## Wegweiser Welt Vegan Magazin
-
-1.  [1/2015 "Superfood Lexikon"](/2015/04/mein-erster-artikel-im-welt-vegan-magazin/)
-1.  [3/2015 "Internationaler Tag zur Abschaffung von Tierversuchen"](/2015/05/das-neue-welt-vegan-magazin-ist-da/)
-1.  [5/2015 "Interview BUND" und "TTIP"](/2015/10/die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da/)
-1.  [6/2015 "Wohlfühl-Guide für die kalte Jahreszeit" und "Klimakonferenz in Paris"](/2015/12/die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da/)
-1.  [1/2016 "Alge Vegan" und "Barnard Medical Centre"](/2016/03/welt-vegan-magazin-die-ausgabe-12016-ist-da/)
-1.  [2/2016 "Animal Rights Watch"](/2016/08/welt-vegan-magazin-22016/)
-1.  [3/2016 "Schmuggel bedrohter Arten"](/2016/09/thomas-d-im-welt-vegan-magazin/)
-1.  1/2017 "Los Veganeros 2"
-1.  [2/2017 "Anne Menden und Sea Shepherd"](/2017/06/welt-vegan-magazin-2-2017-anne-menden/)
-
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
-
-Merken
-
-Merken
