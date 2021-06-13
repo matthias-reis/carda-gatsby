@@ -1,31 +1,33 @@
 ---
 date: 2020-07-17T08:21:01.000+00:00
 slug: lost-in-kiev-interview
-path: '/2020/07/lost-in-kiev-interview/'
+path: "/2020/07/lost-in-kiev-interview/"
 type: Artikel
 typeName: Interview
 title: Lost in Kiev
 seoTitle: Lost in Kiev im Interview - "Die Post-Rock Szene ist etwas Besonderes"
 ogTitle: Lost in Kiev im Interview - "Die Post-Rock Szene ist etwas Besonderes"
-description: Lost in Kiev haben sich zu einem Interview bereiterklärt. Die Post-Rock Band aus Paris zeigte sich meinen Fragen gegenüber sehr offen.
-excerpt: English & German - Lost in Kiev haben sich zu einem Interview bereiterklärt. Die Post-Rock Band aus Paris zeigte sich meinen Fragen gegenüber sehr offen.
+description: Lost in Kiev haben sich zu einem Interview bereiterklärt. Die Post-Rock
+  Band aus Paris zeigte sich meinen Fragen gegenüber sehr offen.
+excerpt: English & German - Lost in Kiev haben sich zu einem Interview bereiterklärt.
+  Die Post-Rock Band aus Paris zeigte sich meinen Fragen gegenüber sehr offen.
 fileName: 2020-07---lost-in-kiev.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYEBQf/xAAtEAACAQMDAwIDCQAAAAAAAAABAgMEBREABiEHEjETMhQWUSIjQVJhcYKS0f/EABgBAQADAQAAAAAAAAAAAAAAAAUBAgME/8QAIxEAAgIBAgYDAAAAAAAAAAAAAQIDEQATIQQSMUFRkXHB8P/aAAwDAQACEQMRAD8AzDZfRS83tWqqyopqKiSMSrK7Bgwxk5/bT1sjamwrveLpa6C1rcnttLG8lyjlLUkrNghRz7vP9W+nMXeu5KvbHSSK20UE5qq9fhJ5ZMkQrIpJ/k6hgB9Mn6aW+kVVeNnWyS4QWI3GkviCFZYKpfUjK9xGEPH6c/lPOnZGWCbRiFD2fvC4+aaLVc7+h++ca92Xi17Uq6WyXi2rDb6qmY/FQ5MSSZOE7cE8YHP4ZHBGsh35ZqeApW2/Dwv9osvIZTyDq+3lJfLvtCe47iWjWCEpHS9k3pkyd+CSmCzuVDeWAUBjjkaiUFtra3p/TzFHKozLh+D2AjGM+Rzwf81sZhxReBu4sec5dI8MUmU1vRHasYrH1GpazqNbY71PT/Kdsnnro0KY9SZIH7GLEdzEtgAHjkDGrGr3fbtg2XYiUsNNeZqWijqXiWZfTWST12kXuUkhgJ0XwfaR50aNDNKz2564usarSDpiVX7voNwQPLdKXLU1BURw0ryfdLM0caJKMYy2TI2COML5wdKkm6Ls8UMJq3FPDEkKwj2dqrgZGjRqus6UUNE+MnSR9mF5/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-6.png__l.jpg
 labels:
-  - Bands
-  - Dunk Festival
-  - Dunk Records
-  - DUNK!festival
-  - DUNK!records
-  - English & German
-  - Interview
-  - Interviews
-  - LOST IN KIEV
-  - Lost in Kiev Interview
-  - Post-Rock
+- Bands
+- Dunk Festival
+- Dunk Records
+- DUNK!festival
+- DUNK!records
+- English & German
+- Interview
+- Interviews
+- LOST IN KIEV
+- Lost in Kiev Interview
+- Post-Rock
 focusKeyword: Lost in Kiev
 status: publish
 isWerbung: false
@@ -33,9 +35,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Die Post-Rock Szene ist etwas Besonderes"'
-languageLink: '/2020/07/lost-in-kiev-interview-en'
----
+languageLink: "/2020/07/lost-in-kiev-interview-en"
 
+---
 **Es ist etwas passiert, das ich kaum zu Träumen gewagt hatte: Lost in Kiev haben sich zu einem Interview bereiterklärt. Die Post-Rock Band aus Paris zeigte sich meinen Fragen gegenüber sehr offen.**
 
 Das im Dezember erschienene Album "Persona" läuft bei mir nach wie vor auf Rotation. Zeit für ein paar Insider-Infos!
@@ -55,12 +57,12 @@ Das im Dezember erschienene Album "Persona" läuft bei mir nach wie vor auf Rota
 ## Das DUNK! 2017 war magisch
 
 <RemoteImage
-  alt={``}
-  size="medium"
-  title={`Dieses Foto habe ich auf dem magischen DUNK! Festival 2017 aufgenommen.`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-9__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-9__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHCP/EACUQAAEDAgUFAQEAAAAAAAAAAAECAxEABAUGEiExEyJBUXFhgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAgEQEAAgIBBAMAAAAAAAAAAAABAAIDESEEEjFBUaHB/9oADAMBAAIRAxEAPwDzO02VKgnj3V9i06kkEyE92nwON6ltMNcdSFwoACZ4291psJysq6tUvKuEISTG4k7/ANFU3xWob15mWTqMeI3d+n8mRctUp2gzJ5qq83oUCIPzeupIyMHEd15ICQRDYTtPnUoQfyslmfC2bBpRad6ulQSFAggj6KlFVPiLXrMN0DfPjhiC3xW4YWhTJ0lIgykGabP5qvbp5svdJLTY0pQhsCE/eaKKbvspZeSVek9MjxLMD106B1CWkkFOxnxJpRd3anVEBS9HqTFFFFyWa9rFKVHif//Z"
+alt={``}
+size="medium"
+title={`Dieses Foto habe ich auf dem magischen DUNK! Festival 2017 aufgenommen.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-9__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-9__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHCP/EACUQAAEDAgUFAQEAAAAAAAAAAAECAxEABAUGEiExEyJBUXFhgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAgEQEAAgIBBAMAAAAAAAAAAAABAAIDESEEEjFBUaHB/9oADAMBAAIRAxEAPwDzO02VKgnj3V9i06kkEyE92nwON6ltMNcdSFwoACZ4291psJysq6tUvKuEISTG4k7/ANFU3xWob15mWTqMeI3d+n8mRctUp2gzJ5qq83oUCIPzeupIyMHEd15ICQRDYTtPnUoQfyslmfC2bBpRad6ulQSFAggj6KlFVPiLXrMN0DfPjhiC3xW4YWhTJ0lIgykGabP5qvbp5svdJLTY0pQhsCE/eaKKbvspZeSVek9MjxLMD106B1CWkkFOxnxJpRd3anVEBS9HqTFFFFyWa9rFKVHif//Z"
 />
 
 **LIK:** Danke für Deine netten Worte zu unserer Show 2017. Es war eine großartige Erfahrung für uns an diesem Tag auf der Bühne. Wir können es nicht erwarten, wieder Teil dieser wunderbaren Bühne und dieses magischen Fests zu sein. Bis jetzt ist leider noch nichts wirklich sicher. Auch in Bezug auf das DUNK! Festival. Wir hoffen natürlich, dass wir dort mit allen unseren Freunden wieder spielen werden und dort jede Menge tolle Leute treffen werden.
@@ -82,12 +84,12 @@ Alle Songs haben ihren eigenen Hintergrund und das Ergebnis zahlreicher Gespräc
 **LIK:** In "Pygmalion" geht es um das extrem sensible Thema, wie sich uns die künstliche Intelligenz immer mehr nähert und sie immer mehr Teil der menschlichen Gesellschaft wird. Wir haben uns dieser Sprachnachricht einer Frau an ihren Mann bedient, um das zu illustrieren.
 
 <RemoteImage
-  alt={`Yonan Vermeulen. Bild/picture: Lost in Kiev`}
-  size="medium"
-  title={`Yonan Vermeulen. Bild/picture: Lost in Kiev`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAcI/8QAJxAAAgEDAwQCAgMAAAAAAAAAAQIDBAURABIhBhMxUSJBB2EUQoH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AMNgRpGwgztUucehydWXiTClDkbQWPo/eoaWRY6uNg3aQnY8hG4Kp4Y4++CTpjc540klKYljGIoZRGypIFAG7Dc4IGcfvU0tSNpWxGu5mOFA5JJ8DWmUtir7et2jpqKGWKnpf4jVU3xSnJxvKknBcnK/6eNUvx7S0V866tpt1MlOIdkrpghdyJnf98bhn94+s60j8uXDt2+koEZGg7onnaOMcHICKfRwST7YnRtKRz7a6Sora2OKjgaolAMnaH9gvJ1btT2uWdX6hmrTTKRmOgRO9Jk5PyfCjz5OT60aNITq29XLZLzc67pu2R2yKqRYYYe6ZjDGvJ+TAks2ATjA8440tvHVFxu0pkrZWkJOcFuPfgcaNGrE/9k="
+alt={`Yonan Vermeulen. Bild/picture: Lost in Kiev`}
+size="medium"
+title={`Yonan Vermeulen. Bild/picture: Lost in Kiev`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-1__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAcI/8QAJxAAAgEDAwQCAgMAAAAAAAAAAQIDBAURABIhBhMxUSJBB2EUQoH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AMNgRpGwgztUucehydWXiTClDkbQWPo/eoaWRY6uNg3aQnY8hG4Kp4Y4++CTpjc540klKYljGIoZRGypIFAG7Dc4IGcfvU0tSNpWxGu5mOFA5JJ8DWmUtir7et2jpqKGWKnpf4jVU3xSnJxvKknBcnK/6eNUvx7S0V866tpt1MlOIdkrpghdyJnf98bhn94+s60j8uXDt2+koEZGg7onnaOMcHICKfRwST7YnRtKRz7a6Sora2OKjgaolAMnaH9gvJ1btT2uWdX6hmrTTKRmOgRO9Jk5PyfCjz5OT60aNITq29XLZLzc67pu2R2yKqRYYYe6ZjDGvJ+TAks2ATjA8440tvHVFxu0pkrZWkJOcFuPfgcaNGrE/9k="
 />
 
 **Anne:** Ich mag Euren Bandnamen sehr. Für mich klingt er ziemlich mysteriös. Wollt Ihr mir seine Bedeutung verraten und mir erzählen, warum Ihr Euch "Lost in Kiev" genannt habt?
@@ -113,12 +115,12 @@ Alle Songs haben ihren eigenen Hintergrund und das Ergebnis zahlreicher Gespräc
 ## "Wir lieben elektronische Musik"
 
 <RemoteImage
-  alt={`Bild/picture: Helen Messenger`}
-  size="medium"
-  title={`Lost in Kiev. Bild/picture: Helen Messenger`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-5__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-5__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgIDBAj/xAApEAABAwIFAwMFAAAAAAAAAAABAgMEBREABhIhMQcUYRMiUSRBUnFy/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgUBAwT/xAAhEQABBAEDBQAAAAAAAAAAAAABAAIDERIEQZEhMWGx8P/aAAwDAQACEQMRAD8Axj5SoGdWY8ykSGU1BKNLkZZDZVtsD584hJ/SOqM1EplRiy2PcdVtJT/XFsTmTaNSFVKPChVmG/MUFKbQlelarWKrC+9vjF46nN1R/ppUqL3S33Z/pxYqEuaVF0qBCSq9tNkm9zawN8WtnEZvupoyEJK1Xp0+WKkkUl6P2hSlh1bqVpkpUkKC024FiD9+R5xx5f6STauy248UxGTypSfdsbHF+6V5ZECSqBOrDD1UfgJUYwlC7bN7thCQSbpJKSo6QATtwcMipT5+WYvqIprNUQhOjRFdLzrakjYKSQObAc/N8M9HqGSx5FoJ6+OPuUTog1x9Lx42mJHjNTJMmR36B9O0w6Gwyb7LUq1xvvthqVrNAquRaKwrvU1uTJLNQkB0BDRZTdyyQLAqQpJBBINz+sGDC4tAZSHe91tzBX6Gy5Gr1DjNR6zTZTTzrzaQhchpKgFhz8yQSSrc+cNJnP1AdizWH3mnH5GpKWUe4qB448b4MGNMBs2jxzoFf//Z"
+alt={`Bild/picture: Helen Messenger`}
+size="medium"
+title={`Lost in Kiev. Bild/picture: Helen Messenger`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-5__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-5__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgIDBAj/xAApEAABAwIFAwMFAAAAAAAAAAABAgMEBREABhIhMQcUYRMiUSRBUnFy/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgUBAwT/xAAhEQABBAEDBQAAAAAAAAAAAAABAAIDERIEQZEhMWGx8P/aAAwDAQACEQMRAD8Axj5SoGdWY8ykSGU1BKNLkZZDZVtsD584hJ/SOqM1EplRiy2PcdVtJT/XFsTmTaNSFVKPChVmG/MUFKbQlelarWKrC+9vjF46nN1R/ppUqL3S33Z/pxYqEuaVF0qBCSq9tNkm9zawN8WtnEZvupoyEJK1Xp0+WKkkUl6P2hSlh1bqVpkpUkKC024FiD9+R5xx5f6STauy248UxGTypSfdsbHF+6V5ZECSqBOrDD1UfgJUYwlC7bN7thCQSbpJKSo6QATtwcMipT5+WYvqIprNUQhOjRFdLzrakjYKSQObAc/N8M9HqGSx5FoJ6+OPuUTog1x9Lx42mJHjNTJMmR36B9O0w6Gwyb7LUq1xvvthqVrNAquRaKwrvU1uTJLNQkB0BDRZTdyyQLAqQpJBBINz+sGDC4tAZSHe91tzBX6Gy5Gr1DjNR6zTZTTzrzaQhchpKgFhz8yQSSrc+cNJnP1AdizWH3mnH5GpKWUe4qB448b4MGNMBs2jxzoFf//Z"
 />
 
 **LIK:** Wir lieben elektronische Musik wie die von Jon Hopkins, Rone, Apparat, Rival Consoles und Neo-Klassik wie Nils Frahm und Ben Lukas Boysen.
@@ -136,12 +138,12 @@ Alle Songs haben ihren eigenen Hintergrund und das Ergebnis zahlreicher Gespräc
 **Anne:** Die Vocal-Parts in Euren Songs sind etwas ganz Besonderes. In "Narcosis" und in "Pygmalion" zum Beispiel kann man zwei Menschen im Dialog miteinander hören. In anderen Songs ist es mehr, als würde jemand im Hintergrund flüstern. Das ist sehr charakteristisch für Eure Musik. Ihr integriert das auch sehr kunstvoll in Eure Live-Shows. Wann hattet Ihr diese Idee und wann habt Ihr entschieden, dass es Teil Eurer Kunst ist und sie komplettieren wird?
 
 <RemoteImage
-  alt={`Yonan Vermeulen. Bild/picture: Lost in Kiev`}
-  size="medium"
-  title={`Lost in Kiev. Bild/picture: Julien Dupeyron`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-7__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-7__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAHAAAAQMFAAAAAAAAAAAAAAAAAAMGBwECBAUI/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDBAURAAYSITETFEFRYTJxgQcicpHh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AI02RsgU9RS10ryTF6WsfBgbCyJHIAF9GyGjPwTjVd57F8rvHb9hZDDDFS00FQ2OqsQWlJx8s2um7purZu1Nq+cpRHNT4HhxQIXkw7IpznsMYzn0GoK3dXh90JO83iV9TXRq7A5MZLEgH4z1I9hoIxoNkVFZadwzx8/MW3w5EB7Mhl4MfxlT9s61u6NsVlgnrknR3SkqGpJKjgQjvycDj91Rjj4067XfIbPuG7Q11Uxt9U8lJOIz9Ubqykj3wWB+40t+oN0tl0stHX+fkdayd66W3BsSGVlCLk4IVVVMk9z4mAO5AMifd19neFpLjKTFnh0X1GOvT935zpG4bkuteQ1ZWzSPnlz6Bs/yAz7/AN6NGgwqi4TzSO8rh2f6iR3/AN1clFVS0izLGrRYJzyGenTtnOjRoP/Z"
+alt={`Yonan Vermeulen. Bild/picture: Lost in Kiev`}
+size="medium"
+title={`Lost in Kiev. Bild/picture: Julien Dupeyron`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-7__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-7__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAHAAAAQMFAAAAAAAAAAAAAAAAAAMGBwECBAUI/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDBAURAAYSITETFEFRYTJxgQcicpHh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AI02RsgU9RS10ryTF6WsfBgbCyJHIAF9GyGjPwTjVd57F8rvHb9hZDDDFS00FQ2OqsQWlJx8s2um7purZu1Nq+cpRHNT4HhxQIXkw7IpznsMYzn0GoK3dXh90JO83iV9TXRq7A5MZLEgH4z1I9hoIxoNkVFZadwzx8/MW3w5EB7Mhl4MfxlT9s61u6NsVlgnrknR3SkqGpJKjgQjvycDj91Rjj4067XfIbPuG7Q11Uxt9U8lJOIz9Ubqykj3wWB+40t+oN0tl0stHX+fkdayd66W3BsSGVlCLk4IVVVMk9z4mAO5AMifd19neFpLjKTFnh0X1GOvT935zpG4bkuteQ1ZWzSPnlz6Bs/yAz7/AN6NGgwqi4TzSO8rh2f6iR3/AN1clFVS0izLGrRYJzyGenTtnOjRoP/Z"
 />
 
 **LIK:** Das Konzept mit unseren Dialogen haben wir seit "Motions". Also von Anfang an. Einige Post-Rock Bands nutzen Samples aus Filmen, Video-Spielen oder Fernsehshows. Wir wollten unsere eigenen haben, weil sie für uns die einzige Möglichkeit sind unsere eigenen Geschichten zu erzählen. Unser Drummer Yonan hat es geschafft, sie visuell perfekt in unsere Shows einzubinden.

@@ -241,17 +241,6 @@ Hier kommen die versprochenen Playlisten:
 
 Viel Spaß beim Hören. Bleibt Eurem Festival treu. Wer noch nicht genug hat und gerne weitere Bands aus diesem Genre kennenlernen möchte, [hört am besten mal beim Festival-eigenen Radiosender rein](https://www.dunk-music.com/radio?fbclid=IwAR17mD3xFDZhB46hEfcOJQxEMjNafJYcl2HenUhEI5Wwav-IWxKrLo8DxNc). Er wurde vor ein paar Tagen gegründet und sendet rund um die Uhr.
 
-## Wegweiser DUNK!festival
-
-1.  [DUNK!festival 2017 - Post-Rock in Begien](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/)
-1.  [DUNK!festival 2017 - Wir kommen!](/2017/05/dunkfestival-2017-es-geht-los/)
-1.  [DUNK!festival 2017 - Liebe auf den ersten Blick](/2017/06/dunk-festival-2017-eindruecke-und-bilder/)
-1.  [DUNK!festival 2018 - Das Line-up](/2018/04/dunkfest-2018-wir-kommen/)
-1.  [Wir läuten die Festivalsaison ein - Kurze Auszeit](/2018/05/wir-laeuten-die-festivalsaison-ein/)
-1.  [DUNK!festival 2018 - Liebe für immer](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/)
-1.  [DUNK!festival 2019 - das Line-up](/2019/05/dunkfestival-2019/)
-1.  [DUNK!festival 2020 - Playlist - 28 ganz besondere Songs](/2020/05/dunk-festival-2020/)
-
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
 Artwork: [Error! Design](https://error-design.com/)

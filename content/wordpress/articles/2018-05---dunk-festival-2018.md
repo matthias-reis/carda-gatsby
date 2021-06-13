@@ -1,61 +1,63 @@
 ---
 date: 2018-05-16T15:40:07.000+00:00
 slug: dunkfestival-2018-postrock-liebe-fuer-immer
-path: '/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/'
+path: "/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/"
 type: Artikel
 typeName: Artikel
 title: Dunk!festival 2018
 seoTitle: Dunk!festival 2018 - 36 Post-Rock Bands in 3 Tagen
 ogTitle: Dunk!festival 2018 - Liebe für immer - 36 Post-Rock Bands in 3 Tagen
-description: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag, 10. Mai bis Samstag, 12. Mai 36 Post-Rock Bands auf.
-excerpt: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag, 10. Mai bis Samstag, 12. Mai 36 Post-Rock Bands auf.
+description: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag,
+  10. Mai bis Samstag, 12. Mai 36 Post-Rock Bands auf.
+excerpt: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag,
+  10. Mai bis Samstag, 12. Mai 36 Post-Rock Bands auf.
 fileName: 2018-05---dunk-festival-2018.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKRAAAgEDAgUEAgMAAAAAAAAAAQIDBAURABITITFBUQYiYXEUMlKB4f/EABkBAAIDAQAAAAAAAAAAAAAAAAEEAAIDBf/EAB0RAQACAgMBAQAAAAAAAAAAAAEAAgMRIUGREvD/2gAMAwEAAhEDEQA/AMJtVkNTTxyNLCplJ2IXBbA6nb1Gmeg9IolOJ2j9rZCvJyDY641zKD1fbkuMLy0MkdLFnYwILAkBdzD6HbT5cLhT0UEFXWIyQTkiPhe5nwAc5PLuD/ejirsV/EtnsDUp2HvfkWpPTUQUsY9w84wv+6oVVhG3CKGP8UGtBtVPHcbZFVtUKlE2QskjdcE5AHkHr86juN1tdqjdqZnmcrtbifry7gedbmI1t4irld/NeWYJC6JKiOqeyQHL5II7gjxpqNZBc7HR2+Ztn4m8Qz8RjuJbkCpOAoUYH3nno0aSyKV4Z0sBW1wsSnDdIqOkEKTVTKCSsXFIEZ79OoJ58tVGrI5ZS1W0pQMu5VODt+Cc47aNGoVgtbrU/9k=
-ogImage:
+ogImage: 
 labels:
-  - aswekeepsearching
-  - Belgien
-  - Besides
-  - Caspian
-  - Catberry Pastries
-  - Chile
-  - Dunk Festival
-  - Dunk Records
-  - DUNK!festival
-  - DUNK!records
-  - EF
-  - electronic
-  - Elektronik
-  - England
-  - Festival
-  - Festivals
-  - Grails
-  - Indien
-  - Jo Quail
-  - Kelly Watch The Shoes
-  - La Bestia De Gevaudan
-  - Norwegen
-  - Post-Rock
-  - Postrock
-  - Russian Circles
-  - Schweden
-  - Schweiz
-  - Shoegaze
-  - Shoegazer
-  - Shoegazing
-  - Slowakei
-  - Soup
-  - The Ills
-  - The Ocean
-  - Tides Of Man
-  - Tomas Torsson
-  - Tortuganonima
-  - vegan Festival
-  - worriedaboutsatan
-  - Zottegem
-  - serie:DUNK!festival
+- aswekeepsearching
+- Belgien
+- Besides
+- Caspian
+- Catberry Pastries
+- Chile
+- Dunk Festival
+- Dunk Records
+- DUNK!festival
+- DUNK!records
+- EF
+- electronic
+- Elektronik
+- England
+- Festival
+- Festivals
+- Grails
+- Indien
+- Jo Quail
+- Kelly Watch The Shoes
+- La Bestia De Gevaudan
+- Norwegen
+- Post-Rock
+- Postrock
+- Russian Circles
+- Schweden
+- Schweiz
+- Shoegaze
+- Shoegazer
+- Shoegazing
+- Slowakei
+- Soup
+- The Ills
+- The Ocean
+- Tides Of Man
+- Tomas Torsson
+- Tortuganonima
+- vegan Festival
+- worriedaboutsatan
+- Zottegem
+- serie:DUNK!festival
 focusKeyword: Postrock
 status: publish
 isWerbung: false
@@ -65,8 +67,8 @@ errors: {}
 subTitle: 36 Post-Rock Bands in drei Tagen
 year: '2018'
 month: '05'
----
 
+---
 **Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag, den 10. Mai bis Samstag, den 12. Mai 36 Post-Rock Bands auf. 26 davon haben wir live gesehen. Zwar konnte ich die Musik nicht mit nach Hause nehmen, es sind mir jedoch mit meiner kleinen Konzertklickse ein paar Schnappschüsse gelungen, die ich Euch gerne zeigen möchte.**
 
 Im Titel seht Ihr schon mal mein Lieblingsbild. Es ist am Donnerstag beim Auftritt von Ef entstanden. Das Festival war, genau wie schon [im letzten Jahr](/2017/06/dunk-festival-2017-eindruecke-und-bilder/), ein echter Traum. Gute Musik rund um die Uhr, lauter nette Menschen, keine Partytouristen und ein Gefühl von Familie und guter Laune.
@@ -346,16 +348,5 @@ Ich freue mich schon sehr auf nächstes Jahr und hoffe sehr, dass wir wieder dab
     },
   ]}
 />
-
-## Wegweiser DUNK!festival
-
-1.  [DUNK!festival 2017 - Post-Rock in Begien](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/)
-1.  [DUNK!festival 2017 - Wir kommen!](/2017/05/dunkfestival-2017-es-geht-los/)
-1.  [DUNK!festival 2017 - Liebe auf den ersten Blick](/2017/06/dunk-festival-2017-eindruecke-und-bilder/)
-1.  [DUNK!festival 2018 - Das Line-up](/2018/04/dunkfest-2018-wir-kommen/)
-1.  [Wir läuten die Festivalsaison ein - Kurze Auszeit](/2018/05/wir-laeuten-die-festivalsaison-ein/)
-1.  [DUNK!festival 2018 - Liebe für immer](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/)
-1.  [DUNK!festival 2019 - das Line-up](/2019/05/dunkfestival-2019/)
-1.  [DUNK!festival 2020 - Playlist - 28 ganz besondere Songs](/2020/05/dunk-festival-2020/)
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)

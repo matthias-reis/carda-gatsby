@@ -1,61 +1,63 @@
 ---
 date: 2017-06-05T14:23:24.000+00:00
 slug: dunk-festival-2017-eindruecke-und-bilder
-path: '/2017/06/dunk-festival-2017-eindruecke-und-bilder/'
+path: "/2017/06/dunk-festival-2017-eindruecke-und-bilder/"
 type: Galerie
 typeName: Galerie
 title: Dunk!festival 2017
 seoTitle: Dunk!festival 2017 - Liebe auf den ersten Blick - Unser Dunk!festival
 ogTitle: Dunk!festival 2017 - Liebe auf den ersten Blick - Unser Dunk!festival
-description: Schon ewig liege ich Euch mit den Dunk!festival in den Ohren. Heute sind endlich meine Fotos fertig geworden und ich möchte ein paar Eindrücke teilen.
-excerpt: Schon ewig liege ich Euch mit dem Dunk!festival in den Ohren. Heute sind endlich meine Fotos fertig geworden und ich möchte ein paar Eindrücke teilen.
+description: Schon ewig liege ich Euch mit den Dunk!festival in den Ohren. Heute sind
+  endlich meine Fotos fertig geworden und ich möchte ein paar Eindrücke teilen.
+excerpt: Schon ewig liege ich Euch mit dem Dunk!festival in den Ohren. Heute sind
+  endlich meine Fotos fertig geworden und ich möchte ein paar Eindrücke teilen.
 fileName: 2017-06---dunk-festival-2017.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35114934275_5fcb6939a7_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35114934275_5fcb6939a7_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHCP/EACUQAAIBAwMEAgMAAAAAAAAAAAECAwAEEQUSIQYTMXEiUUFhgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAgEQABBAIBBQAAAAAAAAAAAAABAAIDESExBBJBUYHB/9oADAMBAAIRAxEAPwDzPHGWIBPir8FoJASCchedv145qW006SVQwDAAZz44rS6T0s11bLM1wiITjkZPP9FUvicwXW1lJyI4hbzXo/FkpLVV4wc5NVZotjAjB9V1JOhhIvyu8gKCMRheM+TuYYP6rJdT6XDYRMYpe7tYKGBBBHsVKCSSPCVvMheQBedYKQW+rTwOjQsFKjByoOaaz9VXl1NGZuysUY2qiRhcL780UUxe4kOvIVVYI7KPUuoJbqUDuExKQV45/GTSi7u2lYgM2z63HFFFEyOLekpBG0aX/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35114934275_5fcb6939a7_k__l.jpg
 labels:
-  - ALL WE EXPECTED
-  - AMENRA
-  - And So I Watch You From Afar
-  - ARMS AND SLEEPERS
-  - Australian Post-Rock
-  - Australien
-  - Baltic Post-Rock
-  - Baltic Postrock
-  - BalticPostrock
-  - Belgien
-  - Briqueville
-  - dnk17
-  - DUMBSAINT
-  - Dunk Festival
-  - Dunk Records
-  - DUNK!festival
-  - DUNK!records
-  - Festivals
-  - LA CIENCIA SIMPLE
-  - LOST IN KIEV
-  - MALÄMMER
-  - MENISCUS
-  - MOONCAKE
-  - Munity On The Bounty
-  - PG.LOST
-  - Post-Rock
-  - Postrock
-  - Pray for Sound
-  - SET AND SETTING
-  - Shoegaze
-  - Stargazer
-  - SYNDROME
-  - TERRAFORMER
-  - THE BEST PESSIMIST
-  - THE BLACK HEART REBELLION
-  - THE CHASING MONSTER
-  - THE MOTH GATHERER
-  - WE LOST THE SEA
-  - XENON FIELD
-  - Zottegem
-  - serie:DUNK!festival
+- ALL WE EXPECTED
+- AMENRA
+- And So I Watch You From Afar
+- ARMS AND SLEEPERS
+- Australian Post-Rock
+- Australien
+- Baltic Post-Rock
+- Baltic Postrock
+- BalticPostrock
+- Belgien
+- Briqueville
+- dnk17
+- DUMBSAINT
+- Dunk Festival
+- Dunk Records
+- DUNK!festival
+- DUNK!records
+- Festivals
+- LA CIENCIA SIMPLE
+- LOST IN KIEV
+- MALÄMMER
+- MENISCUS
+- MOONCAKE
+- Munity On The Bounty
+- PG.LOST
+- Post-Rock
+- Postrock
+- Pray for Sound
+- SET AND SETTING
+- Shoegaze
+- Stargazer
+- SYNDROME
+- TERRAFORMER
+- THE BEST PESSIMIST
+- THE BLACK HEART REBELLION
+- THE CHASING MONSTER
+- THE MOTH GATHERER
+- WE LOST THE SEA
+- XENON FIELD
+- Zottegem
+- serie:DUNK!festival
 focusKeyword: Dunk!festival
 status: publish
 isWerbung: false
@@ -65,8 +67,8 @@ errors: {}
 subTitle: Liebe auf den ersten Blick
 year: '2017'
 month: '06'
----
 
+---
 <RemoteImage
   alt={`Dunk!festival`}
   size="medium"
@@ -112,16 +114,5 @@ Mein Herz gewonnen haben auf dem Festival nun auch mit ihren Liveshows  MENISCU
 Kennt Ihr das? Ihr trefft jemanden das erste Mal und seid sofort bis über beide Ohren verschossen? Uns ging es mit dem Dunk!festival so. Und genau aus diesem Grund denken wir auch jetzt schon darüber nach, nächstes Jahr wieder hinzufahren.
 
 <Gallery name="flickr/annednk17" />
-
-## Wegweiser DUNK!festival
-
-1.  [DUNK!festival 2017 - Post-Rock in Begien](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/)
-1.  [DUNK!festival 2017 - Wir kommen!](/2017/05/dunkfestival-2017-es-geht-los/)
-1.  [DUNK!festival 2017 - Liebe auf den ersten Blick](/2017/06/dunk-festival-2017-eindruecke-und-bilder/)
-1.  [DUNK!festival 2018 - Das Line-up](/2018/04/dunkfest-2018-wir-kommen/)
-1.  [Wir läuten die Festivalsaison ein - Kurze Auszeit](/2018/05/wir-laeuten-die-festivalsaison-ein/)
-1.  [DUNK!festival 2018 - Liebe für immer](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/)
-1.  [DUNK!festival 2019 - das Line-up](/2019/05/dunkfestival-2019/)
-1.  [DUNK!festival 2020 - Playlist - 28 ganz besondere Songs](/2020/05/dunk-festival-2020/)
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)

@@ -1,99 +1,101 @@
 ---
 date: 2017-02-28T18:26:43.000+00:00
 slug: dunkfestival-2016-wir-sind-auch-dabei
-path: '/2017/02/dunkfestival-2016-wir-sind-auch-dabei/'
+path: "/2017/02/dunkfestival-2016-wir-sind-auch-dabei/"
 type: Artikel
 typeName: Artikel
 title: Dunk!festival 2017 - Post-Rock in Belgien
 seoTitle: Dunk!festival 2017 - Post-Rock in Belgien - Wir sind auch dabei!
 ogTitle: Dunk!festival 2017 - Post-Rock in Belgien - Wir sind auch dabei!
-description: 'Vom 25. bis zum 27.5. findet Velzeke-Ruddershove in Belgien das Dunk!festival statt. Das Geniale: Es ist ein Post-Rock Festival und wir sind dabei!'
-excerpt: 'Vom 25. bis zum 27.5. findet Velzeke-Ruddershove in Belgien das Dunk!festival statt. Das Besondere: Es ist ein Post-Rock Festival. Das Beste: Wir sind dabei!'
+description: 'Vom 25. bis zum 27.5. findet Velzeke-Ruddershove in Belgien das Dunk!festival
+  statt. Das Geniale: Es ist ein Post-Rock Festival und wir sind dabei!'
+excerpt: 'Vom 25. bis zum 27.5. findet Velzeke-Ruddershove in Belgien das Dunk!festival
+  statt. Das Besondere: Es ist ein Post-Rock Festival. Das Beste: Wir sind dabei!'
 fileName: 2017-02---dunk-festival-2017-post-rock-in-belgien.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-5-von-5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-5-von-5__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAX/xAAjEAACAgEEAwEAAwAAAAAAAAABAgMEBQAGESEHEjETCCJB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMqaNPfjrYdrdWOyd+aWhj8PWkgryZG/LJGkckkqgKnqre7kHjgjgBgSR1pk3v4Uy+L3LdrYV47WPVbFiu00yJI0MMkcTluOgfeUAfOeCeB80Eg0avuB/j1l5sqa2VaKL0qWPRqNtJ/a5GqlI3JUCPn254P+D6NSvyFt2PauckxEtytZylclbq1Q5hifnpVZgCx4+9cA/CdB0PE+6J9uZi0hzow1C3EP3kegt1GZGDRn8m69lbsN9Gq5kvLFajhsnJjN7QW80j2FqW2wx/WVG4d4ySAEjkc+wAAKsgHY5JzVo0FLm8z7t/bKNWtwQC/NZmkeOAK3tNGsbEd/1ICKRx2DyeTpW3huy7u6eK7mUryZRVVJriRBZLPACqZCOuQoA6HfHffel3RoP//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-1-von-5__l.jpg
 labels:
-  - AIDAN BAKER & KAREN WILLEMS
-  - Alcest
-  - ALL WE EXPECTED
-  - ALMA
-  - Ambient
-  - And So I Watch You From Afar
-  - ARMS AND SLEEPERS
-  - ASHTORETH
-  - BARONESS
-  - BARST
-  - Belgien
-  - Blackgaze
-  - Blackmetal
-  - CHVE
-  - Cult Of Luna
-  - DUMBSAINT
-  - Dunk Festival
-  - Dunk Records
-  - DUNK!festival
-  - DUNK!records
-  - EARTH
-  - Emma Ruth Rundle
-  - Festival
-  - Festivals
-  - FLASH THE READIES
-  - HALMA
-  - Hamburg
-  - ILYDAEN
-  - JAMBINAI
-  - KOKOMO
-  - KOZMOTRON
-  - LA CIENCIA SIMPLE
-  - LOST IN KIEV
-  - LYMBYC SYSTYM
-  - M[[O]]ON
-  - Malämmar
-  - Math-Rock
-  - MENISCUS
-  - MONO
-  - MOONCAKE
-  - MUTINY ON THE BOUNTY
-  - NICK CAVE
-  - Oost Vlaanderen
-  - PELICAN
-  - Post-Rock
-  - Post-Rock Festival
-  - Postrock
-  - Postrock-Festival
-  - Pray for Sound
-  - Progressive
-  - Progressive Music
-  - Progressive Rock
-  - RUN GOLDEN BOYS
-  - Russian Circles
-  - SET AND SETTING
-  - Shoegaze
-  - Shoegazer
-  - Shoegazing
-  - Sigur Ros
-  - SKY ARCHITECTS
-  - Space Rock
-  - SPURV
-  - STEARICA
-  - STORIES FROM THE LOST
-  - SYNDROME
-  - TERRAFORMER
-  - THE BEST PESSIMIST
-  - THE BLACK HEART REBELLION
-  - THE CHAPEL OF EXQUISES ARDENTS PEARS
-  - THE CHASING MONSTER
-  - THE MOTH GATHERER
-  - THE VOID OF EXPANSION
-  - TIME TO BURN
-  - TRUE CHAMPIONS RIDE ON SPEED
-  - Velzeke-Ruddershove
-  - WE LOST THE SEA
-  - XENON FIELD
-  - Post-Rock in Begien
-  - serie:DUNK!festival
+- AIDAN BAKER & KAREN WILLEMS
+- Alcest
+- ALL WE EXPECTED
+- ALMA
+- Ambient
+- And So I Watch You From Afar
+- ARMS AND SLEEPERS
+- ASHTORETH
+- BARONESS
+- BARST
+- Belgien
+- Blackgaze
+- Blackmetal
+- CHVE
+- Cult Of Luna
+- DUMBSAINT
+- Dunk Festival
+- Dunk Records
+- DUNK!festival
+- DUNK!records
+- EARTH
+- Emma Ruth Rundle
+- Festival
+- Festivals
+- FLASH THE READIES
+- HALMA
+- Hamburg
+- ILYDAEN
+- JAMBINAI
+- KOKOMO
+- KOZMOTRON
+- LA CIENCIA SIMPLE
+- LOST IN KIEV
+- LYMBYC SYSTYM
+- M[[O]]ON
+- Malämmar
+- Math-Rock
+- MENISCUS
+- MONO
+- MOONCAKE
+- MUTINY ON THE BOUNTY
+- NICK CAVE
+- Oost Vlaanderen
+- PELICAN
+- Post-Rock
+- Post-Rock Festival
+- Postrock
+- Postrock-Festival
+- Pray for Sound
+- Progressive
+- Progressive Music
+- Progressive Rock
+- RUN GOLDEN BOYS
+- Russian Circles
+- SET AND SETTING
+- Shoegaze
+- Shoegazer
+- Shoegazing
+- Sigur Ros
+- SKY ARCHITECTS
+- Space Rock
+- SPURV
+- STEARICA
+- STORIES FROM THE LOST
+- SYNDROME
+- TERRAFORMER
+- THE BEST PESSIMIST
+- THE BLACK HEART REBELLION
+- THE CHAPEL OF EXQUISES ARDENTS PEARS
+- THE CHASING MONSTER
+- THE MOTH GATHERER
+- THE VOID OF EXPANSION
+- TIME TO BURN
+- TRUE CHAMPIONS RIDE ON SPEED
+- Velzeke-Ruddershove
+- WE LOST THE SEA
+- XENON FIELD
+- Post-Rock in Begien
+- serie:DUNK!festival
 focusKeyword: Dunk!festival
 status: publish
 isWerbung: false
@@ -103,8 +105,8 @@ errors: {}
 subTitle: Wir sind auch dabei!
 year: '2017'
 month: '02'
----
 
+---
 <RemoteImage
   alt={`Dunk!festival`}
   size="medium"
@@ -178,17 +180,6 @@ Die Early Bird Tickets (leider schon ausverkauft) kosten 100 Euro, reguläre Tic
 Ich freue mich jetzt weiter und Ihr dürft so lange ein Bisschen Musik hören. Hier sind für Euch AND SO I WATCH YOU FROM AFAR mit Beautiful Universe Master Champion.
 
 <YouTube id="F--HJDhYDdg" />
-
-## Wegweiser DUNK!festival
-
-1.  [DUNK!festival 2017 - Post-Rock in Begien](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/)
-1.  [DUNK!festival 2017 - Wir kommen!](/2017/05/dunkfestival-2017-es-geht-los/)
-1.  [DUNK!festival 2017 - Liebe auf den ersten Blick](/2017/06/dunk-festival-2017-eindruecke-und-bilder/)
-1.  [DUNK!festival 2018 - Das Line-up](/2018/04/dunkfest-2018-wir-kommen/)
-1.  [Wir läuten die Festivalsaison ein - Kurze Auszeit](/2018/05/wir-laeuten-die-festivalsaison-ein/)
-1.  [DUNK!festival 2018 - Liebe für immer](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/)
-1.  [DUNK!festival 2019 - das Line-up](/2019/05/dunkfestival-2019/)
-1.  [DUNK!festival 2020 - Playlist - 28 ganz besondere Songs](/2020/05/dunk-festival-2020/)
 
 ### Mehr Infos
 
