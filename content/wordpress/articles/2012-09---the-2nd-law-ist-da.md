@@ -136,28 +136,6 @@ Abgerundet wird dieses perfekt ausgefeilte Konzeptalbum von "Isolated Systems", 
 
 Alles in allem kann ich nur sagen: Buy this Album! Für mich hat es  definitiv eine gute Chance, das "Album des Jahres" in meinem Plattenschrank zu werden. Ich bin nun gespannt auf die mitgelieferte DVD und wünsche Euch allen viel Spaß beim Hören.
 
-## Hier sind für Euch nochmal Muse mit "Madness":
+## Muse – "Madness":
 
 <YouTube id="82qSTzrAJoM" />
-
-_M-m-m-m-m-mad-mad-mad_ _M-m-m-m-m-mad-mad-mad_ _M-m-m-m-m-mad-mad-mad_ _M-m-m-m-m-mad-mad-mad_
-
-_I, I can't get this memories out of my mind,_ _It's some kind of madness, is started to evolve_ _I, I tried so hard to let you go_ _But some kind of Madness is swallowing me whole_
-
-_I, I tried so hard to let you go_ _But some kind of Madness is swallowing me whole_
-
-_I have finally seen the light_ _And I have finally realized_ _What you mean_
-
-_And know_ _I need to know, is this real love?_ _Or is it just Madness keeping us a float_ _But when I look back at all the crazy fights we had_ _It's like some kind of Madness, was taking control_
-
-_And know I have finally seen the light_ _And I have finally realized_ _What you need_
-
-_M-m-m-m-m-m-mh_
-
-_M-m-m-m-m-mad-mad-mad_ _M-m-m-m-m-mad-mad-mad_
-
-_And know I have finally seen the end_ _(Finally seen the end)_ _And I not expecting you to care_ _(Expecting you to care)_ _And I have finally seen the light_ _(Finally seen the light)_ _And I have finally realized_ _I need your Love_ _I need your Love_
-
-_Come to me, just in a dream_ _Come on and rescue me_ _Yes I know, I can't be wrong_ _And maybe all too have strong_ _Our love is…_
-
-_M-m-m-m-m-mad-mad-mad_ _M-m-m-m-m-mad-mad-mad_ _Madness_

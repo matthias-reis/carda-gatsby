@@ -1,31 +1,33 @@
 ---
-date: 2015-06-16T15:33:44.000Z
+date: 2015-06-16T15:33:44.000+00:00
 slug: muse-drones-ist-endlich-da
-path: /2015/06/muse-drones-ist-endlich-da/
+path: "/2015/06/muse-drones-ist-endlich-da/"
 type: Artikel
 typeName: Review
 title: Neues Muse Album
 seoTitle: Muse - Drones ist endlich da - Rezension
 ogTitle: Muse - "Drones" ist endlich da!
-description: Ich weiß, ich habe Euch lange auf meine Rezension zum neuen Muse-Album "Drones" warten lassen. Sorry dafür - Hier ist sie nun endlich.
-excerpt: Gelegentlich mag ich ja poppige Klänge. Aber die sind nicht das Einzige, was das neue Musealbum zu bieten hat.
+description: Ich weiß, ich habe Euch lange auf meine Rezension zum neuen Muse-Album
+  "Drones" warten lassen. Sorry dafür - Hier ist sie nun endlich.
+excerpt: Gelegentlich mag ich ja poppige Klänge. Aber die sind nicht das Einzige,
+  was das neue Musealbum zu bieten hat.
 fileName: 2015-06---neues-muse-album.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-5__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcBBQgE/8QALRAAAgECBAUDAwUBAAAAAAAAAQIDBBEABQYhBxIxQVETIkIUI5FhcYGhsdP/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACESET/9oADAMBAAIRAxEAPwBB0jS5tF9O8QMqsPujr1Jtbt2/GCePQrzuy0UFRMFRSBIQrudgQqi5O5Ow7C+LbhHp/wCugqKncXmKK67EWA3B83w+tO6dhpuaseMVWYMxk9WVgHJ/Rvj+3Tzje18cJVKCazPjcLszU8tRQSUhMbSq8xPLYdza5G9h07jA22nGSONnUxgtyMbX5Te1j/O18bHqmjFOqOBFJJ7UVyASfAPT8YRvEzTk1Xk7UlDl7pVidHjgiIKulyGKtsCBcXBsRtt3xHovJTQO5LzgxlVVT6Qy1lakjEymb3Ru7HmYkfIDpbDFlFS6TRwO9S6gD06crTSW7lHJIuPB2PS+Fdp3UtRl+VUlDLQ5lTRwQRxXioZZGNlANyFP9YJqTWOVQFCy5spHc5XVf88Ky7CiB1htRVE1PTwpmMs6wyXRXq4442QgXCPysVubGzCwPSwNsDusmaahknyuFqt6I+p9pls7n2CNWO3zJY9AB5xEfEnJY4Qkz1ZHcPltSv8Ase+OLPtY6ez/ACWtyqjzDlqqyB4IklpZlAYjbqgFrjyMLNibdn//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-5__l.jpg
 labels:
-  - Bands
-  - Drones
-  - Muse
-  - Muse Album
-  - Muse Drones
-  - Muse Drones Review
-  - Muse Platte
-  - neues Muse Album
-  - Plattenrezension
-  - Review
-  - Rezension
+- Bands
+- Drones
+- Muse
+- Muse Album
+- Muse Drones
+- Muse Drones Review
+- Muse Platte
+- neues Muse Album
+- Plattenrezension
+- Review
+- Rezension
 focusKeyword: MUSE
 status: publish
 isWerbung: false
@@ -33,8 +35,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Drones" ist endlich da'
----
 
+---
 <RemoteImage
   alt={`&quot;Drones&quot; - Das neue Album von Muse ist da!`}
   size="medium"
@@ -109,35 +111,8 @@ Alles in allem lässt mich "Drones" ein wenig nachdenklich zurück. Ein tolles S
 
 Eins noch zum Schluss, als Musiknerd, der ich bin muss ich das einfach loswerden: Das Artwork ist sensationell und wirklich gelungen! Ach ja, noch was: Kauft Euch das Album! Ihr werdet es rauf und runterhören! Und nun:
 
-Weiterrocken! Anne &lt;3
+Weiterrocken!
 
-Hier sind für Euch Muse mit "Psycho"
+## Muse – "Psycho"
 
 <YouTube id="UqLRqzTp6Rk?rel=0&amp;showinfo=0" />
-
-_If you do not do what you're told to do when you're told to do it, you will be punished. Do you understand?_ _(Aye, sir)_ _If you leave my base without proper authorisation, I will hunt you down and throw your ass in jail. Do you understand?_ _(Aye, sir)_ _I can't hear you!_ _(Aye, sir!)_ _Scream it!_ _(Aye, sir!)_ _Your ass belongs to me now!_ _(Aye, sir!)_
-
-_Love, it will get you nowhere_ _You're on your own_ _Lost in the wild_ _So come to me now_ _I could use someone like you_ _Someone who'll kill on my command_ _And asks no questions_
-
-_I'm gonna make you_ _I'm gonna break you_ _I'm gonna make you_ _A fucking psycho_ _A fucking psycho_ _A fucking psycho_ _Your ass belongs to me now_
-
-_Are you a human drone?_ _(Aye, sir!)_ _Are you a killing machine?_ _(Aye, sir!)_ _I'm in control, motherfucker, do you understand?_ _(Aye, sir!)_
-
-_Your mind is just a program_ _And I'm the virus_ _I'm changing the station_ _I'll improve your thresholds_ _I'll turn you into a super drone (super drone)_ _And you will kill on my command_ _And I won't be responsible_
-
-_I'm gonna make you_ _I'm gonna break you_ _I'm gonna make you_ _A fucking psycho_ _A fucking psycho_ _A fucking psycho_ _Your ass belongs to me now_
-
-_Are you a psycho killer? Say "I'm a psycho killer!"_ _(I am a psycho killer!)_ _Scream it!_ _(I am a psycho killer!)_ _Show me your war face!_ _(AHHHH!)_ _You are a pussy! I said show me your war face!_ _(AHHHH!)_
-
-_I'm gonna make you_ _I'm gonna break you_ _I'm gonna make you_ _A fucking psycho_ _A fucking psycho_ _A fucking psycho_ _Your ass belongs to me now_
-
-_I will break you, do you understand?_ _I will break you, do you understand?_ _I will break you, do you understand?_ _I will break you, do you understand?_ _(Aye, sir!)_
-
-_You fucking psycho_ _Your ass belongs to me now_ _Your ass belongs to me now_
-
-## Muse Wegweiser
-
-1.  [Muse stellen neue Single "Madness" vor](/2012/08/muse-stellen-neue-single-madness-vor/)
-1.  [Muse - "The 2nd Law" ist da](/2012/09/muse-the-second-law-ist-da/)
-
-[Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
