@@ -49,6 +49,14 @@ Bilder werden per Default rechts ausgerückt neben dem Text dargestellt. Willst 
 
     ![Alt-Text | large](/img/bild.jpg 'Caption unter dem Bild')
 
+### Kleine Bilder
+
+Hinter dem Bild title `| small` einfügen
+
+### Große Bilder
+
+Hinter dem Bild title `| large` einfügen
+
 ### Zitate und Anmerkungen
 
 > Dies ist ein Zitatbeispiel. Es wird als Einschub wahrgenommen und enthält als einziges noch kursiven Text.
@@ -137,16 +145,6 @@ itunes="let-england-shake-this-is-not-america/pl.u-krLLtv3dBdD"
 Im Text `[^4]`
 
 Unten `- [^4]: Hier kommt der Text hin`
-
-## Bilder
-
-### Kleine Bilder
-
-Hinter dem Bild title `| small` einfügen
-
-### Große Bilder
-
-Hinter dem Bild title `| large` einfügen
 
 ### Festivalliste Banner
 
