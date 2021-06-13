@@ -28,7 +28,7 @@ const pageQuery = `{
           advertisement
           affiliate
           image {
-            childrenImageSharp {
+            childImageSharp {
               resize(width: 600) {
                 src
               }
@@ -57,7 +57,7 @@ type IndexRecord = {
       affiliate?: boolean;
       languageLink?: string;
       image?: {
-        childrenImageSharp?: { resize?: { src?: string } };
+        childImageSharp?: { resize?: { src?: string } };
       };
       labels: string[];
     };
@@ -74,7 +74,7 @@ function pageToAlgoliaRecord(
 ) {
   const image =
     frontmatter.remoteThumbnailImage ||
-    baseImageUrl + '/' + frontmatter.image?.childrenImageSharp?.resize?.src;
+    baseImageUrl + '/' + frontmatter.image?.childImageSharp?.resize?.src;
   delete frontmatter.remoteThumbnailImage;
   delete frontmatter.image;
   return {
@@ -85,6 +85,7 @@ function pageToAlgoliaRecord(
     image,
   };
 }
+
 const queries = [
   {
     query: pageQuery,
@@ -92,13 +93,14 @@ const queries = [
       data,
     }: {
       data: {
-        site: { siteMetadata: { url: string } };
+        site: { siteMetadata: { siteUrl: string } };
         pages: { edges: IndexRecord[] };
       };
-    }) =>
-      data.pages.edges.map((page) =>
-        pageToAlgoliaRecord(page, data.site.siteMetadata.url)
-      ),
+    }) => {
+      return data.pages.edges.map((page) =>
+        pageToAlgoliaRecord(page, data.site.siteMetadata.siteUrl)
+      );
+    },
     indexName,
     settings: { attributesToSnippet: [`excerpt:25`] },
   },
