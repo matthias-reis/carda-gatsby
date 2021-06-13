@@ -56,7 +56,7 @@ Ihr könnt das Gericht in einem Topf zubereiten. Diesen findet Ihr, genau wie al
 
 Für Euer Frühstück braucht Ihr genau die Hälfte der Zutaten, die ich auf die Festivalliste geschrieben habe. Den Rest könnt Ihr in einer Tüte aufbewahren. Am Kopfende Eures Zeltbetts sollte den Lebensmitteln über Nacht nichts passieren und Ihr könnt Euch am nächsten Morgen noch mal ein leckeres warmes Frühstück daraus zubereiten.
 
-Hinweis: Ihr könnt das Rezept weiter unten herunterladen.[^1]
+**Hinweis:** Ihr könnt das Rezept weiter unten herunterladen.[^1]
 
 ## Zutaten für ein großes Festival-Frühstück
 
@@ -89,6 +89,6 @@ Ihr könnt Euer Frühstück anschließend mit dem Löffel direkt aus dem Topf ge
 
 Guten Appetit!
 
-[^1]: [Rezept jetzt herunterladen](/linkziel)
+[^1]: [Rezept jetzt herunterladen](/img/veganes-festival-fruehstueck-pdf.pdf)
 
 <FestivalList />
