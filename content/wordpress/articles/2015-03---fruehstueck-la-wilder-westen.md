@@ -50,15 +50,6 @@ errors: {}
 subTitle: Schnell und lecker
 
 ---
-<RemoteImage
-  alt={` Veganes Festival-Frühstück`}
-  size="medium"
-  title={` Veganes Festival-Frühstück`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_IMG_4095__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_IMG_4095__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUABgcI/8QAKhAAAgEDAwQBAwUBAAAAAAAAAQIDBAURABIhBjFBYRMHFFEVIiNxgTL/xAAXAQEBAQEAAAAAAAAAAAAAAAAGBQQH/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIAAwQRElFhITLwQf/aAAwDAQACEQMRAD8Al065kNQgoalrXSLtaH4+ZHLcDc3YggZxxjP+6Ng6yukkEtMt2qnn+QTNHGxd15xjIGV8cdtUX4pp5oCyosUYKyBG7Rr/ANHcc+MeMcaZGsjmpy0c8sMNSnyRRU6j+Y52qm0dmznufB9aLMWJzk5+4nUBb0FUDQYHUY3H66X20TPQw09LKacmBpqiFnaQ5JBYZGDjgj/eNNrF9XbLcxBT9Rw/p1Q4VfuhzE7k45UDKDnzkDHfWJdY1dM3UNWoSZEiZYyHUBgwHLHgHv8AnnVVnkaYnglVOQwPAHv3qxSTdATxBN1qlVgvJmh0lRFLWxmnlp4vkYRviJmGw8kFR7yMDR8dPLBAtdDNTw1Jnj+2iDBI2b9zbpe5GF7AefGrTD0J1JRNUOlvhngiztkpZl3VPYBQhYYQqMNkceATojoz6YVXUkzz9TE0tuhIVYYQAkzKfA4IAHGfOPWsGrFtcYEUPfUlp+3nr4zEr5bLg6vdftKh7fUzbIqoqxjdtudoJ9A4H4GkU4KMwYgMDgnbwMf1rvioslmksAss9DTz23GDBKu5T7/v2NJ4Omum6C5GvpbJboawKVEyQgHaRtI/GMcYxqglbVQGEJ3Ch3LD9M//2Q=="
-/>
-
 **Wie in der [ultimativen veganen Festival-Packliste](/2015/03/die-ultimative-vegane-festivalliste/) versprochen, könnt Ihr mein Festival-Rezept mit nur zwei Konserven-Dosen als Basis zubereiten. Ihr braucht insgesamt nicht viele Zutaten und könnt am Morgen nach den Konzerten des Jahres vor Eurem Zelt so richtig schön schlemmen.**
 
 Ihr könnt das Gericht in einem Topf zubereiten. Diesen findet Ihr, genau wie alle Zutaten, natürlich auf der ultimativen veganen Festivalliste. Die Zutaten für das warme vegane Festival-Frühstück sind günstig, lassen sich gut transportieren und verderben nicht unter der heißen Zelt-Plane. 
