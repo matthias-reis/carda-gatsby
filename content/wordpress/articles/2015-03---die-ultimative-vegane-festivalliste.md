@@ -1,35 +1,37 @@
 ---
-date: 2015-03-06T13:00:59.000Z
+date: 2015-03-06T13:00:59.000+00:00
 slug: die-ultimative-vegane-festivalliste
-path: /2015/03/die-ultimative-vegane-festivalliste/
+path: "/2015/03/die-ultimative-vegane-festivalliste/"
 type: Artikel
 typeName: Artikel
 title: Die ultimative vegane Festivalliste
 seoTitle: Die ultimative vegane Festivalliste - mit Gratis-Download
 ogTitle: Die ultimative vegane Festivalliste - mit Gratis-Download
-description: Einige vegan lebende Musikfans haben mich darauf aufmerksam gemacht, es ist Zeit für die ultimative vegane Festivalliste! Viel Spaß beim Planen und Lesen!
-excerpt: Einige vegan lebende Musikfans haben mich darauf aufmerksam gemacht, es ist Zeit für die ultimative vegane Festivalliste! Viel Spaß beim Planen und Lesen!
+description: Einige vegan lebende Musikfans haben mich darauf aufmerksam gemacht,
+  es ist Zeit für die ultimative vegane Festivalliste! Viel Spaß beim Planen und Lesen!
+excerpt: Einige vegan lebende Musikfans haben mich darauf aufmerksam gemacht, es ist
+  Zeit für die ultimative vegane Festivalliste! Viel Spaß beim Planen und Lesen!
 fileName: 2015-03---die-ultimative-vegane-festivalliste.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_9918184096_a390857d9c_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_9918184096_a390857d9c_o__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQQHCP/EACgQAAIBAwMEAQQDAAAAAAAAAAECAwQFEQASIQYTMUEiB1FhcSNCYv/EABgBAAMBAQAAAAAAAAAAAAAAAAEEBQAD/8QAHxEAAgEEAgMAAAAAAAAAAAAAAQIAAxEhMQTwEoHB/9oADAMBAAIRAxEAPwDnm00ymyTzS0as3dXsVQfBVgDujIz7BBz/AJ496drr0tBdrZdrqahoKO1wRKGJEhnqpfkw9EZyx94A1rO3yduoVjnb/bGryqNRKqYmJjlxIwyB8toHI4HgaUqBg17y9xHRqeVvrvfkefprarFeunLtabnNJC1RsaEjB7dQivyPeGDLxnGQfsCEXqya2rLNDb6Vu48+8zyMS23Ynxx4B3FyT+tMfTHT1WKGetp6wdvb/IsahnideUY+eM4z+CdVv1fs9JZOua6it9VFU06iORZImDD5IGxkexnGhSN3OcTpy0elxxcWPrUS45ShGAOPwDqRqyWRlLlTt8Dbxo0ab8RuQxUYYBk6XarjgeFJiInO5gvG7941jPO8hBdgScDx9tGjWCgaELV6j4Ykz//Z
-ogImage: null
+ogImage: 
 labels:
-  - Ausstattung Festival
-  - die ultimative Festivalliste
-  - Festival
-  - Festival was mitnehmen
-  - Festivalliste
-  - Festivalliste Anne
-  - Festivalliste komplett
-  - Festivalliste vegan
-  - Festivals
-  - Festivalsommer
-  - Packliste Festival
-  - Sommer
-  - tolle Festivalliste
-  - vegane Festivalliste
-  - Zelten auf dem Festival
+- Ausstattung Festival
+- die ultimative Festivalliste
+- Festival
+- Festival was mitnehmen
+- Festivalliste
+- Festivalliste Anne
+- Festivalliste komplett
+- Festivalliste vegan
+- Festivals
+- Festivalsommer
+- Packliste Festival
+- Sommer
+- tolle Festivalliste
+- vegane Festivalliste
+- Zelten auf dem Festival
 focusKeyword: vegane Festivalliste
 status: publish
 isWerbung: false
@@ -37,8 +39,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Mit Gratis-Download zum Ausdrucken
----
 
+---
 **Seit Jahren schon findet meine Festivalliste regen Anklang. Jahr für Jahr optimiere ich sie, schraube daran herum, fahre wieder auf Festivals, bemerke, was man weglassen, was hinzufügen kann und im nächsten Jahr gibt es wieder eine neue Liste.**
 
 Nachdem Matze und ich seit einiger Zeit vegan leben und ich auch schon von anderen vegan lebenden Musikliebhabern darauf aufmerksam gemacht wurde, ist es nun an der Zeit für die ultimative vegane Festivalliste! Alles, was man als **Veganer** auf dem Openair-Wochenende dabei haben sollte. Natürlich sind auf der Liste nicht nur Fressalien, sondern auch viele weitere lebenswichtige Dinge zu finden. Es lohnt sich also, sie bei der Planung zur Rate zu ziehen.
@@ -183,4 +185,4 @@ Wie immer enthält meine Liste hauptsächlich Frühstückszutaten und Snacks. Am
 
 Gegessen wird natürlich stilecht aus dem Kochtopf, den Ihr weiter oben in der Liste ja schon gefunden habt. Viel Spaß beim Packen! Gebt Bescheid, sollte auf der Liste noch was Wichtiges fehlen, ich füge es gerne hinzu. Weiterrocken! &lt;3
 
-<FestivalList link="/img/festivalliste.pdf" />
+<FestivalList link="/img/vegane-festivalliste.pdf" />
