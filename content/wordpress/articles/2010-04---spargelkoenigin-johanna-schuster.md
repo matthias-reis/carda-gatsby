@@ -1,27 +1,29 @@
 ---
-date: 2010-04-27T15:31:36.000Z
+date: 2010-04-27T15:31:36.000+00:00
 slug: interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster
-path: /2010/04/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/
+path: "/2010/04/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/"
 type: Artikel
 typeName: Interview
 title: Spargelkönigin Johanna Schuster
 seoTitle: Interview mit der Schrobenhausener Spargelkönigin
 ogTitle: Interview mit der Schrobenhausener Spargelkönigin
-description: Interview mit der Spargelkönigin Johanna Schuster - Ihren Spargel mag Johanna am liebsten ganz klassisch mit Kartoffeln und Butter.
-excerpt: Interview mit der Spargelkönigin Johanna Schuster - Ihren Spargel mag Johanna am liebsten ganz klassisch mit Kartoffeln und Butter.
+description: Interview mit der Spargelkönigin Johanna Schuster - Ihren Spargel mag
+  Johanna am liebsten ganz klassisch mit Kartoffeln und Butter.
+excerpt: Interview mit der Spargelkönigin Johanna Schuster - Ihren Spargel mag Johanna
+  am liebsten ganz klassisch mit Kartoffeln und Butter.
 fileName: 2010-04---spargelkoenigin-johanna-schuster.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2542__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2542__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBQb/xAAmEAACAgEEAgICAwEAAAAAAAABAgMEBQAGESESUTFBE3EUI2Ei/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAHhEBAAICAQUAAAAAAAAAAAAAAQACAxEhEiIxQbH/2gAMAwEAAhEDEQA/AOKzu7Y917QXGzX4LDVZI7LzwxNXWTpgInQ+jwQy9H0OO+Xt7jy9/Yt/CyXp58YJIGjrWZgRXZGY/wBY49HsAgcd8E/GdthIY8ZlIjaYzS+LCMghejyCB9npu/170lizOb1ho6tadGDIySkAeJB57P3wPr1pLPBMVJbJ8TFmqLZOnbjWOzI00XnAwZlfsc8jketMbmy2UvYSOPM1Kld0suUFVyyNGAoQnyPJPbg/XIGkNt7lv3ohXGMsyIhWXzrgyKF8egoC/QHvWrurdlrNYeHFR4oJXL/yopBH+P8ArPAiABJLfDAt8cjQ5u+rUYmEd714kRqZMTbqkihqxVkku/mUxdMnAZPEH0S3l+xraxGChuZG+XYFKzfiCuvl5Ag889/5+/8AdGjVmM3VGTZFHZKJey0kW3KVGnGKoxNOWJXiYgS/B5YDrvgcjU+wW7cvaxK1DNGC1s2oZGQN+EliJFUdf8MSG8fojkfJ0aNB0lVD3v5GxrY5n//Z
-ogImage: null
+ogImage: 
 labels:
-  - Bayern
-  - Galileo
-  - Interviews
-  - Johanna Schuster
-  - Schrobenhausen
-  - Spargel
-  - Spargelkönigin
+- Bayern
+- Galileo
+- Interviews
+- Johanna Schuster
+- Schrobenhausen
+- Spargel
+- Spargelkönigin
 focusKeyword: Spargel
 status: publish
 isWerbung: false
@@ -29,9 +31,15 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Der Spargel ist für Schrobenhausen von großer Bedeutung"'
----
 
+---
 **Die Schrobenhausener Spargelkönigin wird seit 1975 jedes Jahr im Bierzelt des Schrobenhausener Volksfestes gekrönt. Johanna Schuster trat am 11.08.2009 Ihre Regentschaft als Schrobenhausener Spargelkönigin an. Sie ist die 35. Schrobenhausener Spargelkönigin.**
+
+Die Qualifikationen, die Johanna benötigt, um dieses Amt antreten zu können hat sie auf dem Hof Ihres Großvaters erworben. Sie hilft dort mit ihren Geschwistern während der Spargelzeit immer gerne aus. Johanna studiert derzeit, arbeitet gerne mit Kindern und Jugendlichen zusammen, ist Gauleiterin im Sportschützengau Schrobenhausen und musiziert in der Band Let´s Fetz.
+
+**Anne:** Sie haben ja schon immer auf dem Spargelbetrieb des Großvaters gearbeitet. War es dann schon immer ihr Traum, Spargelkönigin zu werden?
+
+**Johanna:** Als kleines Mädchen war das sicher immer mein Traum. Zwischenzeitlich in der Pubertät hat sich das sicherlich mal ein Bisschen verloren, das ist klar. (lacht) aber ich habe mich unheimlich gefreut, als ich letztes Jahr gefragt wurde, ob ich Spargelkönigin werden möchte.
 
 <RemoteImage
   alt={`Johanna - Spargelkönigin von Schrobenhausen`}
@@ -40,12 +48,6 @@ subTitle: '"Der Spargel ist für Schrobenhausen von großer Bedeutung"'
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2010_04_09-K5110-029__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUHAgQG/8QAKBAAAQQBAwQCAQUAAAAAAAAAAQIDBBEFAAYhEhMiMQdBFCNCYYGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgQFAP/EACMRAAICAQMDBQAAAAAAAAAAAAECAAMRBBIhFDFBYXGR0fD/2gAMAwEAAhEDEQA/AJPOaexeZUzImoLDdEuPoWkA8H2OSBYFgVzxqg/HuabgtPNwkx8j3UqU6pttb7tAcBKbsgX7IA9Wdc5uvAxZs9nIKQh5x5pIAKikprgmvv0P9rVL2svFYlM7GxITrEJ7BtSQGSlTrkloEvkeiCUOhVHikWONSumW8FT3H77g1qAwPiK4M/CIdckzUORoaFjsqfe6y4SmqKQPsAK9gAj0b0aU7u3O0zu5vGxJ6IfSsyPx20KUuOS34gCgm+kkkD0FaNKamhVfAYge5mewocYithrKP4buPfjONxVNhbbKSS93FEBAFlX7fIAC039ayRC3DGLu550WVFgsNKeclln9Mo6SAlKa6ekkhFeuaqr1u7c3LiVduDm46PEEpmudbbjaQqykBKepSjyBZ4BOk/zt8iP57FxMHEUpuI2rulCXT5IFpQkpHjV2aNngasUah0JRVx6w7dOrYbPAk2yZf3LuPKZVDtW8B1NgjgggUPoUnRpptbJnb8eL20dbzbhfdQaBPWgpAv8AgUf7OjSt99287EyPiDyOMT//2Q=="
 />
-
-\_\_\_\_ Die Qualifikationen, die sie benötigt, um dieses Amt antreten zu können hat sie auf dem Hof Ihres Großvaters erworben. Sie hilft dort mit ihren Geschwistern während der Spargelzeit immer gerne aus. Johanna studiert derzeit, arbeitet gerne mit Kindern und Jugendlichen zusammen, ist Gauleiterin im Sportschützengau Schrobenhausen und musiziert in der Band Let´s Fetz.
-
-**Anne:** Sie haben ja schon immer auf dem Spargelbetrieb des Großvaters gearbeitet. War es dann schon immer ihr Traum, Spargelkönigin zu werden?
-
-**Johanna:** Als kleines Mädchen war das sicher immer mein Traum. Zwischenzeitlich in der Pubertät hat sich das sicherlich mal ein Bisschen verloren, das ist klar. (lacht) aber ich habe mich unheimlich gefreut, als ich letztes Jahr gefragt wurde, ob ich Spargelkönigin werden möchte.
 
 **Anne** : Welche Verpflichtungen hat eine Spargelkönigin?
 
@@ -99,7 +101,7 @@ subTitle: '"Der Spargel ist für Schrobenhausen von großer Bedeutung"'
 
 ## Der ultimative Spargelschäler-Test
 
-Am 26.04.2010 testete Johanna Schuster für das Pro7 Galileo Team Spargelschäler auf dem Leinfelder Hof in Schrobenhausen.
+Am 26.04.2010 [testete Johanna Schuster für das Pro7 Galileo Team Spargelschäler auf dem Leinfelder Hof in Schrobenhausen](/img/johanna_spargelschaeler.pdf).
 
 Johanna war kurz zuvor bereits in einer Live-Sendung des BR zu sehen. Ihr Fazit: Einen Beitrag zu drehen ist anstrengender als eine Live-Sendung, da jede Einstellung einzeln gefilmt werden muss, bis alles perfekt sitzt. Großen Spaß hat ihr beides gemacht.
 
@@ -168,4 +170,4 @@ Zum Abschluss gab es natürlich frischen Spargel zubereitet nach Johannas Liebli
   ]}
 />
 
-_Bild oben im Text: Johanna privat; Bildergalerie und Beitragsbild: Anne_
+Bild oben im Text: Johanna privat; Bildergalerie und Beitragsbild: Anne
