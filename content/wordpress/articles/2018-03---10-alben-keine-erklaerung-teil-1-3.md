@@ -1,43 +1,47 @@
 ---
 date: 2018-03-02T08:08:35.000+00:00
 slug: meine-ultimative-lieblingsplatten-liste
-path: '/2018/03/meine-ultimative-lieblingsplatten-liste/'
+path: "/2018/03/meine-ultimative-lieblingsplatten-liste/"
 type: Artikel
 typeName: Artikel
 title: 10 Alben - Keine Erklärung - Teil 1/3
-seoTitle: 10 Alben - Keine Erklärung - Die ultimative Lieblingsplattenliste aller Zeiten
+seoTitle: 10 Alben - Keine Erklärung - Die ultimative Lieblingsplattenliste aller
+  Zeiten
 ogTitle: 10 Alben - Keine Erklärung - Die ultimative Lieblingsplattenliste aller Zeiten
-description: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten. Diese Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie vergessen werde.
-excerpt: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten. Diese Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie vergessen werde.
+description: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten. Diese
+  Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie vergessen werde.
+excerpt: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten. Diese Alben
+  haben mich so beeindruckt und beeinflusst, dass ich sie nie vergessen werde.
 fileName: 2018-03---10-alben-keine-erklaerung-teil-1-3.md
-ogImage:
+ogImage: 
 labels:
-  - A Perfect Circle
-  - After The Eulogy
-  - Alben
-  - Bands
-  - Blur
-  - boysetsfire
-  - Calexico
-  - Ceremonies
-  - Downward Spiral
-  - EF
-  - Experimental Jet Set Trash And No Star
-  - Feast Of Wire
-  - In Utero
-  - Lieblingsplatten
-  - Mellon Collie And The Infinite Sadness
-  - Mer Des Noms
-  - Musik
-  - Nine Inch Nails
-  - Nirvana
-  - Pearl Jam
-  - Sonic Youth
-  - Ten
-  - The Great Escape
-  - The Smashing Pumpkins
-  - Vinyl
-  - serie:Playlists
+- A Perfect Circle
+- After The Eulogy
+- Alben
+- Bands
+- Blur
+- boysetsfire
+- Calexico
+- Ceremonies
+- Downward Spiral
+- EF
+- Experimental Jet Set Trash And No Star
+- Feast Of Wire
+- In Utero
+- Lieblingsplatten
+- Mellon Collie And The Infinite Sadness
+- Mer Des Noms
+- Musik
+- Nine Inch Nails
+- Nirvana
+- Pearl Jam
+- Sonic Youth
+- Ten
+- The Great Escape
+- The Smashing Pumpkins
+- Vinyl
+- serie:Playlists
+- serie:Alben ohne Erklärung
 focusKeyword: Lieblingsplatten
 status: publish
 isWerbung: false
@@ -45,9 +49,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Meine ultimative Lieblingsplatten-Liste aller Zeiten
-image: '/img/10-alben-keine-erklaerung-1.jpeg'
----
+image: "/img/10-alben-keine-erklaerung-1.jpeg"
 
+---
 > **10 LPs that make the "favourites" playlist. Post a cover a day, no explanation, nominate a person a day."  - 10 Alben, die Deine All-Time-Favoritenliste ergeben. Keine Erklärung. Nominiere jeden Tag eine andere Person"**
 
 So stand es an der Facebook-Pinnwand des Herrn Björn von Gartenbaukunst\*. Darunter war mein Name markiert. Klar, man könnte jetzt sagen: Wieder so ein "Kettenbrief".  Ich mach da nicht mit. Aber man könnte auch was Schönes damit anfangen und sich mal Gedanken darüber machen: Was sind eigentlich meine persönlichen All-time-favorites? Welche Alben sind die, mit denen ich tatsächlich am meisten Zeit verbracht habe und die mich am meisten beeinflusst/beeindruckt haben?
@@ -148,8 +152,3 @@ Ausgesucht habe ich übrigens keine Alben, die mich nach jetzigen Gesichtspunkte
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYBAwUH/8QAKRAAAgEDAwMEAQUAAAAAAAAAAQIDBAURABIhBhMxFEFRcTIiIzNCYf/EABkBAAIDAQAAAAAAAAAAAAAAAAUGAQIEB//EACYRAAEDAwIFBQAAAAAAAAAAAAECAxEABCEiQQUSMVGxE3GBodH/2gAMAwEAAhEDEQA/AM+sv1NNSpGLVEJUUhZGYMASEG4rtwSFTAz85OTrP9dScE25CwGCS/B4+ANCdvUGM6d2bVphPK2IHuT5P10rnjl246ZWZ+B+UaK+jG3FtTH9v3M54/0caiSsomjZUtypIQQD3ScH2OqKSjkqqmKCIL3JGCLuYKMk45J4GibtY7laHRLlRTUxb8S68H6I4Ory2FBBOTtNSPVUgrCdI3jHimFrLvYBBlj4UDJ0fD0dXSbd0CU6sfyqXWEY+f1EHH0NLV06o6h9ZHFbrglLbsjK047chHvlhgk6Vajqq8w1Hd78a9ttiE7srxkktncTnjz76CucQWnERTI1wxs56106o6RnigZx6adgf44ZUYlceeSPrGs602VhWVdrnrK6NzF3oIZJ2kXtggPGUJIyh2lcYwGwNKt16su9ROsUlZcZGIUsYK94yM/J8ePvQg6oWjmoq2XvwVVDVB0w5nZ0YFZA7HHsQR58aw3Vwp1sydScg9jRK0t0MuCE6VCFDuDvX//Z"
 />
 
-## Wegweiser "Alben - Keine Erklärung"
-
-1.  Meine ultimative Lieblingsplattenliste
-1.  [Björns ultimative Lieblingsplattenliste](/2018/03/10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste/)
-1.  [Matzes ultimative Lieblingsplattenliste](/2018/03/10-alben-keine-erklaerung-teil-3/)
