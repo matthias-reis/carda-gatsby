@@ -66,7 +66,7 @@ Ganz Hungrige können auch noch eine Handvoll Reis- oder Quinoa-Flocken hinzugeb
 
 ## Zubereitung
 
-Gebt ganz einfach alle Zutaten zusammen in den Mixer und lasst sie rund 30 Minuten bei voller Stärke tanzen. Ihr werdet sehen, was Ihr davon habt, der Smoothie macht nämlich süchtig. :-P
+Gebt ganz einfach alle Zutaten zusammen in den Mixer und lasst sie rund 30 Minuten bei voller Stärke tanzen. Ihr werdet sehen, was Ihr davon habt, der Smoothie macht nämlich süchtig.
 
 Viel Spaß beim Ausprobieren! Ich wünsche Euch eine stressfreie Woche!
 
