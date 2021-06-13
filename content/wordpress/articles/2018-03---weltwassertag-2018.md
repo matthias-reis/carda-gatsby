@@ -78,7 +78,6 @@ Was mir persönlich auffällt ist, dass schon seit Jahren das Thema Massentierha
 Der Wasserverbrauch in der Fleischproduktion ist unfassbar groß. Um nur ein Kilo Rindfleisch zu produzieren, werden zum Beispiel mehr als 15.000 Liter Wasser verbraucht. Zum Vergleich: Ein durchschnittlicher Westeuropäer verbraucht am Tag rund 130 Liter Wasser. Wäschewaschen und Duschen eingeschlossen. Von der Unesco gibt es dazu eine grafische Darstellung:
 
 <RemoteImage
-  alt={``}
   size="full"
   title={`Quelle:
 http://www.vegetarismus.ch/wasser/index.php`}

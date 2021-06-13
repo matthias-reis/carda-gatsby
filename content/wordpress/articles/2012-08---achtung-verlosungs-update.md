@@ -60,7 +60,6 @@ Seit dem 16. August 2012 läuft jetzt hier auf meiner Seite eine [Verlosung](//?
 Alle Gewinne werden von [Marleen](https://www.facebook.com/marleen.schallplatten), dem Plattenladen meines Vertrauens zur Verfügung gestellt. Es handelt sich dabei um wirklich heiße, ausgewählte Teile. Das komplette [Gewinnspiel](//?s=verlosung) findet Ihr [&gt;HIER UNTER DIESEM LINK&lt;](//?s=verlosung).
 
 <RemoteImage
-  alt={``}
   size="full"
   title={`Offizelles Burg Herzberg Festival
 T-Shirt zu gewinnen!`}

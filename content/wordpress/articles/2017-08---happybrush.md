@@ -89,9 +89,7 @@ Beim Unboxing fiel mir sofort auf, dass bei der Verpackung komplett auf unnötig
 Übrigens lag dem Päckchen auch ein Gutschein im Wert von 15 Euro für Freunde bei. Der Mindestbestellwert ist 40 Euro. Der Gutschein ist gültig bis zum 30.09.2017. Wer mir als erstes einen Kommentar hier im Blog hinterlässt, dass er ihn gerne haben möchte, staubt ihn ab.
 
 <RemoteImage
-  alt={``}
   size="medium"
-  title={``}
   mediumUrl="https://www.adcell.de/promotion/view/promoId/169537/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/view/promoId/169537/slotId/80259"
   loadingUrl="undefined"

@@ -40,7 +40,6 @@ In insgesamt neunundsiebzig Minuten, die auf acht Songs aufgeteilt sind, gibt es
 ## Ein völlig spontaner kreativer Prozess
 
 <RemoteImage
-  alt={``}
   size="medium"
   title={`Cult Of Luna im Münchener Feierwerk
 am 4. Mai 2014 - so sieht Begeisterung aus.`}

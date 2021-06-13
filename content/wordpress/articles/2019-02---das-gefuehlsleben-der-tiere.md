@@ -151,7 +151,6 @@ Pablo wurde im Labor der New Yorker Uni gefangen gehalten. Damals war sein Name 
 Während seiner Zeit im Labor wurde Pablo 220 mal mit Pfeilen beschossen. Einmal versehentlich in die Lippe. Außerdem wurden 28 Leber-, zwei Knochenmark- und zwei Lymphdrüsen-Biopsien an ihm durchgeführt. Ihm wurden vier zu testende Impfstoffe injiziert. Einer davon infizierte ihn mit Hepatitis. 1993 spritzte man ihm die 10.000-fach tödliche Dosis des HI-Virus. Er erholte sich wie durch ein Wunder von Hepatitis und HIP und starb an einer Infektion, die sich durch die jahrelange Folter mit Pfeilen, Spritzen und Nadeln gebildet hatte.
 
 <RemoteImage
-  alt={``}
   size="medium"
   title={``}
   mediumUrl="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=3936188424&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=\_SL250_&amp;tag=cardamonchai-21"

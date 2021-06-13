@@ -122,7 +122,6 @@ Sicherlich ein Vorfall, der uns normalerweise gerade mal ein Schmunzeln gekostet
 Auf der Rückfahrt studierten wir die Texte der aktuellen [Billy Talent](http://www.billytalent.com) LP ein. Bei, wie man sich das vorstellen kann, voller Lautstärke. Zu Hause angekommen, schafften wir es, als kleine Wiedergutmachung wenigstens noch, uns die Wiederholung des neuen Hamburger Tatorts anzusehen.
 
 <RemoteImage
-  alt={``}
   size="medium"
   title={`Billy Talent Texte üben`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_billy.png__m.jpg"

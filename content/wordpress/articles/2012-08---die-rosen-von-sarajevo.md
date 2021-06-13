@@ -63,7 +63,6 @@ Man sollte _ [das Schlimme](http://de.wikipedia.org/wiki/Bosnienkrieg), _ das si
 _ **Spenden helfen und auch Paten werden gesucht. Wer etwas tun möchte, kann sich an die [SOS-Kinderdorf e.V.](http://www.sos-kinderdorf.de/bosnien_herzegowina.html) oder an die [Bosnienhilfe](http://www.muenchen-international.de/akteure/a-z/bosnienhilfe-solln/) wenden, die es in vielen deutschen Städten gibt.** _
 
 <RemoteImage
-  alt={``}
   size="medium"
   title={`Foto auf Ziegel Anne 6/2012`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_mg_01961__m.jpg"

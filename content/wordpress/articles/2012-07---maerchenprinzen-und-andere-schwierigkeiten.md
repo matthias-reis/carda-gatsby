@@ -60,9 +60,7 @@ Ein wundervolles, wahres Gedicht. Ist es wirklich so, dass immer weniger Mensche
 Oder ist es eher so, dass wir gerade das immernoch nicht begriffen haben? Das wir das tun sollten? Aufwachen? Das Märchenland verlassen? Eingreifen? Fairtrade-Kaffee trinken und Ökostrom beziehen? Für die Menschenrechte auf die Straße gehen und [Labortiere](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/) freilassen? Aufhören, vor uns hinzuleben und einfach alles als gegeben hinzunehmen?
 
 <RemoteImage
-  alt={``}
   size="medium"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_img_20120718_1802551__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_img_20120718_1802551__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgQFBwj/xAAtEAABAwIFAQcEAwAAAAAAAAABAgMEBREABgcSIVEIExQiQWGBFiORoRcycf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAhEQACAgIBBAMAAAAAAAAAAAABAgMRAAQhBRITQVFhgf/aAAwDAQACEQMRAD8AA6z5/wA6UjVLMUKn5lq8WI1I+ywzIUhCEbRYBI4AxfURrUGVCbeqWfq4ytxIWG2n1EpuL8kkYm6lZRVX9Q8++FSDPNOjqjpv/ZSlG4+e7t84FuZ3YreVJNDqMlyjVsIDKnXUkNqUk8gkcpvaxuOMDrSxyEp7Wr/ReQdSOyoXwcAnk1dZOzbL1Ko0VyZDzrXJ0RAuvbLWlaR1tfkf5hJ2esz5qrtSfkVTMNVmtMzYrWyRJU4kpWV7hYm3ItiFpfRpVMoL4nT481t9zc0ll7vUJTaxF/fphXoDSGabOzSywmzTVZjpQOg2lQH7wW0oWOxi+nbbSyvA57ivv5yi1Jze3lPXTxMrcafKgpYk7RcpAecAX72I/F8EO0DT6U+KRmOkOsOLqG9t1bKgUu7QClfHrY2PxhLqzlCt1fUKTIdyjWarDS5tS5FZUUlvvnF2CgbeYKSL+nPrgodPqg1FYa/j/NLhST3i3IrvN9vICV2B4P59sQLrp502FNECj9jNcngjM+yfmGTlyssS2Vr7jcA+0D5XEeoI69MdG9m2orn0isTpFg7LriFkdPInj94zFen/ANxw/Recm0krO00582SpSSkJIB8yQFDnglXtjSdF6LWKQTETQKtCiLrYfT4qM43tZCW/MSsD0BxVsydyUMVHCokMlckVn//Z"

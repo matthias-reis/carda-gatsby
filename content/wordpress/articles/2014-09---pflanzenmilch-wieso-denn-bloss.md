@@ -141,7 +141,6 @@ Handelt es sich um ein männliches Tier, wird es in den meisten Fällen sein ers
 Eine Milchkuh produziert pro Laktationsperiode, also in der Zeit zwischen der Geburt des Kälbchens und dem sogenannten Trockenstellen (ca. 305 Tage) in EU-Ländern im Durchschnitt rund 6.700 kg, in den USA bis zu 9.750 kg pro Jahr (Wisconsin, Idaho).
 
 <RemoteImage
-  alt={``}
   size="medium"
   title={`Natürliches Euter einer 5-Jährigen
 Kuh (Auf einem Gnadenhof)`}

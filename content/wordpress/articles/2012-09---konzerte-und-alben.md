@@ -73,7 +73,6 @@ subTitle: Konzertplanung & Plattenkauf
 Aber ich freue mich trotzdem. Dann muss ich eben kurzzeitig mit diesem neumodischen grüngefärbten Player, den sich inzwischen jeder runtergeladen haben sollte, Vorlieb nehmen. Schließlich kann man damit so gut wie jedes Album finden und abspielen. Meines Erachtens ja eigentlich ein weiterer Schritt in Richtung Untergang der MS Musikindustrie, aber in so einem Fall durchaus praktisch. Und: Je länger es dauert, desto länger kann ich mich freuen, die Platten endlich "in meine Arme zu schließen". Und das sind wirklich ein paar Schätzchen:
 
 <RemoteImage
-  alt={``}
   size="thumbnail"
   title={`Calexico live @ Muffathalle
 München 7/2009`}

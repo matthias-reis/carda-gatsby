@@ -60,9 +60,7 @@ auf meine grundierte Haut aufgepinselt, um ihm so mehr Halt zu geben.
 Und siehe da: Plötzlich klappte es perfekt. Ein bisschen ist trotzdem daneben gegangen. Ich kann dazu raten, das Auftragen über einem Waschbecken zu machen. Ihr müsst Euch dabei auch keine Sorgen machen: Die Partikel sind wasserlöslich.
 
 <RemoteImage
-  alt={``}
   size="medium"
-  title={``}
   mediumUrl="https://www.adcell.de/promotion/view/promoId/170417/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/view/promoId/170417/slotId/80259"
   loadingUrl="undefined"
@@ -89,9 +87,7 @@ Ob man den Glitter wirklich braucht, ist eine Frage, die man sicherlich diskutie
 Der Biospaß aus dem Röhrchen wird nicht wie herrkömmlicher Karnevalsglitter aus Plastik, sondern aus Pflanzenmaterial hergestellt. Es gibt ihn insgesamt in sechs verschiedenen Farben: Dunkelrosa, Fuchsia, Himmelblau, Silber, Türkis, Violett und in drei verschiedene Varianten: fein, mittel und grob. Für meine Bilderserie habe ich mich für den feinen Glitter in himmelblau entschieden.
 
 <RemoteImage
-  alt={``}
   size="medium"
-  title={``}
   mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B00E4OLCEG"
   largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B00E4OLCEG"
   loadingUrl="undefined"

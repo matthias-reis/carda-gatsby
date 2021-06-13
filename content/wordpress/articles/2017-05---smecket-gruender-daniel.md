@@ -49,9 +49,7 @@ subTitle: '"Der Geschmack steht im Vordergrund"'
 ---
 
 <RemoteImage
-  alt={``}
   size="full"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_daniel-weiss_800x800-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_daniel-weiss_800x800-1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYEBQcC/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURABIhIjFBBhNhFBWxJFGRoeH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQAC/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAMQMSESFhgcH/2gAMAwEAAhEDEQA/ANs9SXM2e3XS5iEzmippaj2gcF9iltufnGs+tN79d0VTarpcrxaqy1VlTEtRbo4trQrIwBCHvldy9z41pNyijmmqYZlDxSKyMpGQQRgjS3Yo43vFLS3CnxsJZs7SqmMZU574JA/rRnDbdCJx6FDtGW91NRSVIjgUSd851AjqKw1tKs0W0OwJHOQM+dMP6Y3fNUUMZhyCTxnjQ7qaVqikNGy5MnXt864cHm/UynqoMFUlIfGJXbafnJOP4/Gu0gjV3YIoYnO7HOq2SaluFKqGq9maKQklG5V1JUgj9s50X6sJCEkhnbC9ckfKn5z/AJqvdSfVyfRFRUNIjIq4ZSxwAB5/Gj3kZNA5Knqzlex7aW6qota2qoigZWWdTGcSbt2e/VnGedUvrdrjDb/QMFljq46b7rRCcxP0/ThSGDHOSvbjzoGdgXK+PsViUhQ0/9k="

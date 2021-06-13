@@ -51,9 +51,7 @@ _Werbung &amp; Affiliate Links_ \*
 Habt Ihr Lust, ein paar tolle gesunde Lebensmittel zu retten, mal was Neues auszuprobieren und in Zukunft noch kreativer zu kochen? Dann solltet Ihr jetzt auf jeden Fall weiterlesen.
 
 <RemoteImage
-  alt={``}
   size="medium"
-  title={``}
   mediumUrl="https://www.adcell.de/promotion/view/promoId/175806/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/view/promoId/175806/slotId/80259"
   loadingUrl="undefined"
@@ -64,9 +62,7 @@ etepetete rettet Lebensmittel. Das Unternehmen bezieht seine Ware weitestgehend 
 ## etepetete bietet verschiedene Boxen an
 
 <RemoteImage
-  alt={``}
   size="medium"
-  title={``}
   mediumUrl="https://www.adcell.de/promotion/view/promoId/175806/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/view/promoId/175806/slotId/80259"
   loadingUrl="undefined"
@@ -77,9 +73,7 @@ Es gibt [zahlreiche Boxen](https://www.adcell.de/promotion/click/promoId/175806/
 Alles in den Gemüse- und Obst-Boxen kommt direkt vom Feld. Nicht perfekt und glatt, wie man es aus dem Supermarkt kennt, sondern so, wie es die Natur geformt hat. Wir hatten zum Beispiel eine wunderbare Aubergine mit Nase und eine dicke Herzkartoffel in unserer Box.
 
 <RemoteImage
-  alt={``}
   size="medium"
-  title={``}
   mediumUrl="https://www.adcell.de/promotion/view/promoId/175806/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/view/promoId/175806/slotId/80259"
   loadingUrl="undefined"
@@ -112,9 +106,7 @@ Mir hat die etepetete Box sehr viel Freude bereitet. Sie hat mich zu einigen [ne
 ### Gutscheincode für Euch
 
 <RemoteImage
-  alt={``}
   size="medium"
-  title={``}
   mediumUrl="https://www.adcell.de/promotion/view/promoId/175806/slotId/80259"
   largeUrl="https://www.adcell.de/promotion/view/promoId/175806/slotId/80259"
   loadingUrl="undefined"

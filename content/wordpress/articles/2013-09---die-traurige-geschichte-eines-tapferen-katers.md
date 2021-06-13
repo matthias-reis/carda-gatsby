@@ -140,9 +140,7 @@ Chili wird am Abend vom Chirurgen untersucht, er stellt das Gleiche fest, wie sc
 **12:00** Rückruf mit der Hiobsbotschaft: Chili ist durch die Narkose blind geworden. Das sei eine normale Reaktion, er müsse auf jeden Fall noch am Tropf bleiben, bis er stabiler sei, ich soll doch in einer Stunde noch mal anrufen.
 
 <RemoteImage
-  alt={``}
   size="small"
-  title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_76351__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_76351__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAYHAgMEBf/EACkQAAEDAwIFAwUAAAAAAAAAAAECAwQABREGIQcSE0FRMTJhFCJiceH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAEEBf/EABkRAQEBAQEBAAAAAAAAAAAAAAABEQISMf/aAAwDAQACEQMRAD8AosqDIdJTCiSo7h9VyOUJT8jBJJrUYcm2Q0MJQ4lCQfvO5USckk+SaeWGw/hKSMAbmpJxU1RqPRN8a+nAkwpJy2hbJU2fxJ7H+Vzm6RnJCio480V4ui9aL15qEQU2iLb2mWFuyXA6pSjjATyDYbqO+c7CipZgVVLdf48J4iQ8hLSjgrJ2H7pa4yant0zQd3jwL7DZeHTR0ltdRTpyCQnwcdx3HakLV7jsqFKSzupZJAPffOKjk243B2Q6lcp8KyMp7JxsE48Upzpej7wRnt2/WaGXCjmkMLZDixjnV7gkfJxRXXwYiJTIlXGfkjZLAWge7OSsfPoM0VXX0df/2Q=="

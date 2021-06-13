@@ -31,9 +31,7 @@ _Werbung in eigener Sache\*_
 **Es ist soweit! Unser Roman wurde veröffentlicht und kann ab sofort bestellt werden! Wir sind sehr stolz und freuen uns! Alle Fans von Thriller und Urban Fantasy sollten jetzt in den Buchladen gehen!**
 
 <RemoteImage
-  alt={``}
   size="medium"
-  title={``}
   mediumUrl="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=3748126522&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=\_SL250_&amp;tag=cardamonchai-21"
   largeUrl="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=3748126522&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=\_SL250_&amp;tag=cardamonchai-21"
   loadingUrl="undefined"

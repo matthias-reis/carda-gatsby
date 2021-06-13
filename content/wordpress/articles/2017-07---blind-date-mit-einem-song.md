@@ -68,7 +68,6 @@ Es ist also soweit. Das Blind Date geht los. Ihr dürft gespannt sein, denn Ihr 
 Ein breiter Strand mit hellem Sand. Vielleicht in Kalifornien. Oder anderswo auf der Welt. Fröhliche Menschen tanzen glücklich im Abendlicht. Für sich. Vertieft in die Musik. Zu zweit. Eng aneinander geschmiegt oder in Gruppen von dreien oder vieren. Männer. Frauen. Kinder. Hunde. Sie murmeln. Lachen. Teilen mitgebrachtes Essen. Laden Passanten ein, sich ihnen anzuschließen. Jemand sitzt auf einer Schaukel, an deren langen Bändern Blumengirlanden befestigt sind. Das wirre Haar und die luftige Kleidung der Person flattert im Wind. Fast feenhaft. Leicht. Beschwingt.
 
 <RemoteImage
-  alt={``}
   size="medium"
   title={``}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_16339551251_a0008bf3fa_z__m.jpg"

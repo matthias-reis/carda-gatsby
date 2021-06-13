@@ -54,7 +54,6 @@ Ihre EP wollten sie auf der Basis der Einschränkungen machen, der sie sich stel
 ## Perfekter Spannungsbogen
 
 <RemoteImage
-  alt={``}
   size="medium"
   title={`"Out Of Hours" - Teil 2 der
 sleepmakeswaves Trilogie "These Are Not Your Dreams".`}

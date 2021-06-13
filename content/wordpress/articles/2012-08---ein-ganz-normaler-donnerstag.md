@@ -53,7 +53,6 @@ subTitle: Von Sommersonne und Gipfelkreuzen
 Außerdem freue ich mich sehr, endlich mal wieder in die Türkei zu kommen. Wie sehr ich dieses Land liebe. Dabei fällt mir ein, ich hätte da sicher noch den ein oder anderen Fotobeitrag in petto, denn wenn man auf meiner Seite 'Türkei' in die Suche eingibt, findet man bis jetzt nur das hier. Das sollte ich auf jeden Fall ändern.
 
 <RemoteImage
-  alt={``}
   size="medium"
   title={`Bild von einer tollen Party 2009`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_248853_214502818571855_3833814_n__m.jpg"

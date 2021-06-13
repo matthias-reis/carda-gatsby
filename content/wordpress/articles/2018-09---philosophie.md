@@ -62,9 +62,7 @@ Warum das so ist? Das Denken und uns selbst Ergründen, lässt uns Zusammenhäng
 Sollen jetzt ein paar Bücherwürmer die Welt retten? Auch hierzu ein klares Nein. Aber sie können sie uns erklären und uns zeigen, wie wir selbst es zumindest versuchen können, sie zu begreifen. Und wer hat uns überhaupt beigebracht, dass Philosophen Bücherwürmer sind?
 
 <RemoteImage
-  alt={``}
   size="medium"
-  title={``}
   mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B00NTQ6K7E"
   largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B00NTQ6K7E"
   loadingUrl="undefined"

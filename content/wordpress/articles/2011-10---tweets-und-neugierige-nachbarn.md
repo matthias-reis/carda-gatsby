@@ -87,7 +87,6 @@ _Perfect in Mid Air?_
 _W. C. Williams_
 
 <RemoteImage
-  alt={``}
   size="full"
   title={`Die Postkarte`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_10_shot_1318522744788__m.jpg"

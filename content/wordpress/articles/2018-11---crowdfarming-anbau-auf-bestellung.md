@@ -43,7 +43,6 @@ Adoptieren kann man zum Beispiel Clementinen, Reis, Oliven, Kaffee und Mandeln. 
 ## CrowdFarming - Alles begann mit einer kleinen Orangenplantage
 
 <RemoteImage
-  alt={``}
   size="medium"
   title={`Gabriel und Gonzalo Urculo`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_Gabriel-and-Gonzalo-Urculo__m.jpg"

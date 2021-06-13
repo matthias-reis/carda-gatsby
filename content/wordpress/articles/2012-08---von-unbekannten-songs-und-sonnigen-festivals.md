@@ -43,7 +43,6 @@ subTitle: Ein ganz normaler Donnerstag
 Heute Abend dürfte die Zeit auch wieder knapp werden, aber vielleicht wird dafür der Beitrag zum Herzberg Festival fertig, der wesentlich kürzer ist. Versprechen werde ich das aber auch nicht.
 
 <RemoteImage
-  alt={``}
   size="medium"
   title={`Aufregender
 Mittagspausenschnappschuss`}
@@ -78,7 +77,7 @@ Und das Wochenende. Großstadt. Läden abklappern. Flohmarkt. Sonne. Eis im Park
 
 In diesem Sinne: Prost.
 
-Heute gibt es etwas, wobei es sich todsicher um eine Weltpremiere handelt. Ich möchte einen Song vorstellen, den ich selbst noch nicht gehört habe. (Ich lese schon die Schlagzeile: "Bloggerin stellt Song vor, den sie selbst noch nicht gehört hat" :-) Ein Social Network Freund hat ihn empfohlen. Die Band ist derzeit [on Tour](http://www.songkick.com/artists/543774-listener). Laut seiner Beschreibung dürfte es sich um ein kleines Juwel handeln und auch der [Wikipedia-Artikel](http://en.wikipedia.org/wiki/Listener_(band)) klingt durchaus interessant. Ich freue mich darauf, ihn sobald ich nach Haus komme anzuhören.
+Heute gibt es etwas, wobei es sich todsicher um eine Weltpremiere handelt. Ich möchte einen Song vorstellen, den ich selbst noch nicht gehört habe. (Ich lese schon die Schlagzeile: "Bloggerin stellt Song vor, den sie selbst noch nicht gehört hat" :-) Ein Social Network Freund hat ihn empfohlen. Die Band ist derzeit [on Tour](http://www.songkick.com/artists/543774-listener). Laut seiner Beschreibung dürfte es sich um ein kleines Juwel handeln und auch der [Wikipedia-Artikel](<http://en.wikipedia.org/wiki/Listener_(band)>) klingt durchaus interessant. Ich freue mich darauf, ihn sobald ich nach Haus komme anzuhören.
 
 ## Hier sind für Euch: [Listener](http://listener.bandcamp.com/track/wooden-heart-poem) mit "Wooden Heart"
 
