@@ -12,18 +12,20 @@ export const CardaImage: React.FC<CardaImageProps> = ({
   src,
   ...props
 }) => {
+  const source = src.replace(/%/g, '%25');
   loading = (loading || '').replace(/'/g, '');
-  const [source, setSrc] = React.useState(loading || src);
+  const [s, setSrc] = React.useState(loading || source);
   loading &&
     React.useEffect(() => {
       const i = new Image();
-      i.src = src;
+      i.src = source;
       i.onload = () => {
-        setSrc(src);
+        // double escaping hhtml encoded characters
+        setSrc(source);
       };
     }, [loading, setSrc]);
 
-  return <Img src={source} {...props} />;
+  return <Img src={s} {...props} />;
 };
 
 const Img = styled.img`

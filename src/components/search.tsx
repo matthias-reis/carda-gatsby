@@ -31,7 +31,7 @@ const Hit = ({ hit }) => {
   return (
     <HitBox to={hit.path}>
       <HitImageContainer>
-        <HitImage src={hit.image} />
+        <HitImage src={hit.image?.replace(/%/g, '%25')} />
       </HitImageContainer>
       <HitContent>
         <HitTitle>{fixSoftHyphens(hit.title)}</HitTitle>

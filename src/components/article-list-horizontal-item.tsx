@@ -40,7 +40,7 @@ export const ArticleListHorizontalItem: React.FC<{
       <ImageContainer>
         <Image
           src={
-            article.remoteThumbnailImage ||
+            article.remoteThumbnailImage?.replace(/%/g, '%25') ||
             article.image?.childImageSharp?.fluid?.src
           }
         />

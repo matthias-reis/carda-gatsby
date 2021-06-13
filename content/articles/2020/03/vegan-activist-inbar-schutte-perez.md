@@ -13,7 +13,7 @@ labels:
   - vegan
   - Vegan Cube
   - Veganism
-language: de
+language: en
 slug: inbar-schuette-perez-interview-en
 typeName: Interview
 title: Vegan Activist Inbar Schütte-Perez
