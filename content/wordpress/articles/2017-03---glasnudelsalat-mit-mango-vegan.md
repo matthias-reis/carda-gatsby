@@ -73,4 +73,4 @@ Guten Appetit!
 
 Das Rezept für die wunderbarste vegane Torte der Welt [findet Ihr hier](/2014/09/die-wunderbarste-vegane-torte-der-welt/).
 
-<FestivalListe />
+<FestivalList />

@@ -84,4 +84,4 @@ Die fertigen Bananenwaffeln mit Zimt und Zucker bestäuben und zusammen mit dem
 
 Guten Appetit! &lt;3
 
-<FestivalListe />
+<FestivalList />

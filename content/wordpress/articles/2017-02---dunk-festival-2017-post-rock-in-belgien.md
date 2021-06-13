@@ -187,4 +187,4 @@ Ich freue mich jetzt weiter und Ihr dürft so lange ein Bisschen Musik hören. H
 
 Bilder: Screenshots dunkfestival.be
 
-<FestivalListe />
+<FestivalList />

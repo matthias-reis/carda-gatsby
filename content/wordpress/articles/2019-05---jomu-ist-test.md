@@ -669,6 +669,6 @@ Die Menge an Nährstoffen in Gerstengras ist ganz nebenbei bemerkt wirklich beac
   </table>
 </div>
 
-<FestivalListe />
+<FestivalList />
 
 \*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

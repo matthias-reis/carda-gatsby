@@ -55,4 +55,4 @@ Weitere Berichte zum Festival von mir folgen...
 
 <Gallery name="flickr/annegetwellsoonasummerstale2015" />
 
-<FestivalListe />
+<FestivalList />

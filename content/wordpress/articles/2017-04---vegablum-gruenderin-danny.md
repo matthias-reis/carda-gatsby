@@ -243,4 +243,4 @@ Außerdem möchten wir natürlich wachsen und noch weiter raus gehen in die Läd
 - Das Tier Refugium Wegberg [findet Ihr hier](https://www.tier-refugium.de/).
 - [Hier geht es](https://vegablum.de) zur Vegablum Homepage.
 
-<FestivalListe />
+<FestivalList />

@@ -425,4 +425,4 @@ Der [Dezember](/2015/12/) brachte wieder zwei abgedruckte Artikel im Welt Vegan 
 
 PS: Ich habe nicht alle Artikel, die ich dieses Jahr in meinem Blog gepostet habe, hier im Jahresrückblick noch einmal verewigt, das hätte einfach den Rahmen gesprengt. Daher lohnt es sich immer zu stöbern. Denn, wie Ihr das ja von mir kennt, ist wie bei einer tollen Pralinenschachtel oder einem guten Frauenmagazin einfach für jede/n was dabei. ;-) Ich wünsche Euch viel Spaß beim Lesen. Bis bald!
 
-<FestivalListe />
+<FestivalList />

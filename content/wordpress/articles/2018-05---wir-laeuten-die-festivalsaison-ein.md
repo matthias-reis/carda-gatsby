@@ -55,4 +55,4 @@ Wie sieht es bei Euch aus? Welche Festivals habt Ihr in Planung?  Wir haben da 
 
 Vielleicht versuche ich mich zwischendurch mal über Instagram bei Euch zu melden. Blogartikel gibt es dann ab nächster Woche wieder für Euch. Seid gespannt, ich habe da ein paar tolle Sachen vorbereitet.
 
-<FestivalListe />
+<FestivalList />

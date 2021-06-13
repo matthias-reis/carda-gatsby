@@ -88,4 +88,4 @@ Die Supergroup kommt mit dem neuen Album in einer neuen Ära an. Sie klingt nach
 
 So long and thanks for all the fish...
 
-<FestivalListe />
+<FestivalList />

@@ -76,4 +76,4 @@ Guten Appetit!
 
 <Gallery name="flickr/annesesambrot" />
 
-<FestivalListe />
+<FestivalList />

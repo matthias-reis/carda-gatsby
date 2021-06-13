@@ -252,6 +252,6 @@ Ich plane im Moment ein großes Interview mit Danny. Sobald es fertig ist, wird 
   ]}
 />
 
-<FestivalListe />
+<FestivalList />
 
 \*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

@@ -44,6 +44,6 @@ Meine [kleine Kamera](/2017/04/vergaenglichkeit-des-augenblicks/) war auch dabei
 
 [embed]https://www.instagram.com/p/BS_Lehjl9cK/?taken-by=anne_reko[/embed]
 
-<FestivalListe />
+<FestivalList />
 
 &nbsp;

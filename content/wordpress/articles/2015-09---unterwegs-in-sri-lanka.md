@@ -48,4 +48,4 @@ Sri Lanka: Ein Land voll Artenreichtum und Vielfalt, aber auch Armut, voll leben
 
 <Gallery name="flickr/srilanka2015anne" />
 
-<FestivalListe />
+<FestivalList />

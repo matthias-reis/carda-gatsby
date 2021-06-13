@@ -347,4 +347,4 @@ Ich freue mich schon sehr auf nächstes Jahr und hoffe sehr, dass wir wieder dab
   ]}
 />
 
-<FestivalListe />
+<FestivalList />

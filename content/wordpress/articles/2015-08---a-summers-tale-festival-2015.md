@@ -99,4 +99,4 @@ Grundsätzlich würde ich das Festival bei einem umfangreicheren Lineup mit wen
 [^1]: [Homepage A Summer's Tale](https://www.asummerstale.de/de)
 [^2]: [Homepage Vincent Vegan](http://vincent-vegan.com/)
 
-<FestivalListe />
+<FestivalList />

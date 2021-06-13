@@ -113,4 +113,4 @@ Kennt Ihr das? Ihr trefft jemanden das erste Mal und seid sofort bis über beide
 
 <Gallery name="flickr/annednk17" />
 
-<FestivalListe />
+<FestivalList />

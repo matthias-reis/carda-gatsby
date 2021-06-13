@@ -59,4 +59,4 @@ Das Viertel zeigte sich bunt und vielfältig, laut und kreativ. Genau so, wie es
 
 [Meine Bilder vom Samstag findet Ihr hier](/2017/06/weisse-parade-stamp-festival-altona/).
 
-<FestivalListe />
+<FestivalList />

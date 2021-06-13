@@ -258,4 +258,4 @@ Als wir dort ankamen, zitterten mir die Knie. Ich mussste "da" reingehen, drumhe
 [^4]: [Peace Food Rocks](https://www.facebook.com/events/351493638369110/)
 [^5]: [Hof Butenland](http://www.stiftung-fuer-tierschutz.de)
 
-<FestivalListe />
+<FestivalList />

@@ -94,6 +94,6 @@ Mein besonderes Highlight in diesem Jahr, auf das ich mich besonders freue, ist 
 
 Nichts für Ballermannfans und Mainstreamfreunde - Post-Rock rund um die Uhr - Helga und Polonaise haben keinen Zutritt.
 
-<FestivalListe />
+<FestivalList />
 
 ## Quelle Titelbild, Artwork und Timetable: [Dunk!festival](https://www.dunkfestival.be/)

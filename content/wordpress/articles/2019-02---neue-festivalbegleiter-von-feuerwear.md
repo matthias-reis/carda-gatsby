@@ -127,6 +127,6 @@ Im [Feuerwear Onlineshop](http://www.feuerwear.de/?utm_source=presseportal&utm_m
 
 <Gallery name="feuerwear201902" />
 
-<FestivalListe />
+<FestivalList />
 
 \*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

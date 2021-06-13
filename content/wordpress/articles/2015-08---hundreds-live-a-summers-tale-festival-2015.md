@@ -47,4 +47,4 @@ Highlights des Konzerts ganz klar: "Happy Virus" und das Björk-Cover "Who Is It
 
 <YouTube id="U_QrYmw2wjQ" />
 
-<FestivalListe />
+<FestivalList />

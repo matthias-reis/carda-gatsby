@@ -50,4 +50,4 @@ Los geht's an den Landungsbrücken über den alten und den neuen Elbtunnel hinwe
 
 <Gallery name="flickr/annehafenrundfahrt072015" />
 
-<FestivalListe />
+<FestivalList />

@@ -116,7 +116,7 @@ Viel Spaß, rock on und bis bald! &lt;3
 
 Das DUNK!festival findet Ihr [hier](https://www.dunkfestival.be/).
 
-<FestivalListe />
+<FestivalList />
 
 Artwork: [Error! Design](https://error-design.com/)
 

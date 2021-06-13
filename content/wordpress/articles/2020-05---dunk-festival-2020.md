@@ -239,6 +239,6 @@ Hier kommen die versprochenen Playlisten:
 
 Viel Spaß beim Hören. Bleibt Eurem Festival treu. Wer noch nicht genug hat und gerne weitere Bands aus diesem Genre kennenlernen möchte, [hört am besten mal beim Festival-eigenen Radiosender rein](https://www.dunk-music.com/radio?fbclid=IwAR17mD3xFDZhB46hEfcOJQxEMjNafJYcl2HenUhEI5Wwav-IWxKrLo8DxNc). Er wurde vor ein paar Tagen gegründet und sendet rund um die Uhr.
 
-<FestivalListe />
+<FestivalList />
 
 Artwork: [Error! Design](https://error-design.com/)

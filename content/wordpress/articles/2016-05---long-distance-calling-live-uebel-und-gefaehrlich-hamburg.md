@@ -73,4 +73,4 @@ Und im Anschluss ging der Spaß noch weiter: Kein Geringerer, als [Johannes Heil
   ]}
 />
 
-<FestivalListe />
+<FestivalList />

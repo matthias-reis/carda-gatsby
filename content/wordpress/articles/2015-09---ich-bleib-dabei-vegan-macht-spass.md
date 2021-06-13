@@ -183,7 +183,7 @@ So, Schluss mit der Lobhudelei, ich muss kochen, heute gibt es was wirklich Leck
   ]}
 />
 
-<FestivalListe />
+<FestivalList />
 
 [^1]: [Tierrechte](/2014/08/blutige-zahlen/)
 [^2]: [Ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)

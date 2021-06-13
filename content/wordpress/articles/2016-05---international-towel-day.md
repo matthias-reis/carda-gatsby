@@ -80,4 +80,4 @@ PS: Auch über das Festival Handtuch, bei dem es sich um ein ganz besonderes Han
 
 Falls Ihr auch vorhabt, ein Festival zu besuchen ist vielleicht auch die hier für Euch interessant:
 
-<FestivalListe />
+<FestivalList />

@@ -124,4 +124,4 @@ Empfänger ADH &amp; BEH Commerzbank IBAN DE53 200 400 600 200 400 600 Stichwort
   Carpe Diem bei [Wikipedia](http://de.wikipedia.org/wiki/Carpe_diem)
 </small>
 
-<FestivalListe />
+<FestivalList />

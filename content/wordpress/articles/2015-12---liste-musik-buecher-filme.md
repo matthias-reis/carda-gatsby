@@ -121,4 +121,4 @@ Gerne möchte ich diese Liste in Zukunft als Diskussionsplattform nutzen. Schrei
 
 <Gallery name="flickr/annelieblingsliste" />
 
-<FestivalListe />
+<FestivalList />

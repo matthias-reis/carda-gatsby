@@ -245,5 +245,4 @@ Des Weiteren hoffe ich, dass künftig mehr Organisationen auf uns zukommen, um u
 
 **Fotos:** Petra privat, ethice
 
-<FestivalListe />
-
+<FestivalList />

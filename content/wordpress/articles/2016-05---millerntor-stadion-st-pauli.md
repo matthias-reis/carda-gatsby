@@ -61,4 +61,4 @@ Ich wünsche Euch viel Spaß mit der Galerie! Und drückt uns die Daumen für da
 
 <Gallery name="flickr/annemillerntorstadion052016" />
 
-<FestivalListe />
+<FestivalList />

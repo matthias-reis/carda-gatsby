@@ -54,4 +54,4 @@ Das volle Kontrastprogramm zum romantisch verspielten, blumigen, gekonnten, reif
 
 <Gallery name="flickr/annefaithnomore062015" />
 
-<FestivalListe />
+<FestivalList />

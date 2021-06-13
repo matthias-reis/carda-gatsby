@@ -132,4 +132,4 @@ Last, but not least kommt von Valentin noch dieses StÃ¼ck. "Ein unglaublich schÃ
   spotify="0Gbz7Q5bIBsrw3ZzZqZsDv"
 />
 
-<FestivalListe />
+<FestivalList />

@@ -310,4 +310,4 @@ Weitere Bilder von der Isle Of Wight findet Ihr [hier](/2012/07/isle-of-wight-fe
 
 Wer auf seiner Homepage gerne auf meine Festivalliste hinweisen möchte, kann dies gerne tun. Wenn Euch der nackte Link zu langweilig ist,  sendet einfach eine kurze E-Mail an [info@cardamonchai.com](mailto:info@cardamonchai.com), dann sende ich Euch ein Banner zum Einbinden zu.
 
-<FestivalListe />
+<FestivalList />

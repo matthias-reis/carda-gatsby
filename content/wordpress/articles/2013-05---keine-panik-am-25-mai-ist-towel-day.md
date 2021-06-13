@@ -182,4 +182,4 @@ Für alle, die meinen Text nicht verstanden haben (gibt es solche Leute überhau
 
 Ich werde Euch dann morgen darüber berichten, für welches Handtuch ich mich entschieden habe!
 
-<FestivalListe />
+<FestivalList />

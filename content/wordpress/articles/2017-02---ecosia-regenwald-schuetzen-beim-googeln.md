@@ -105,4 +105,4 @@ Es geht ganz einfach: www.ecosia.org ins Browserfenster eingeben und lossuchen. 
 
 Ecosia [Homepage](https://www.ecosia.org)
 
-<FestivalListe />
+<FestivalList />

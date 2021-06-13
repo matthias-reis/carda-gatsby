@@ -73,4 +73,4 @@ Gestern erreichte mich die Nachricht, dass inzwischen für alle 39 angekündigte
 
 Der Timetable macht wieder ganz schön was her, oder? Ich bin jedenfalls schon etwas traurig, dass es dieses Mal nichts wird. Aber man kann eben nicht auf allen Hochzeiten tanzen. [Über die Rahmenbedingungen des Festivals und seine Besonderheiten könnt Ihr zum Beispiel hier noch mehr erfahren](/2018/04/dunkfest-2018-wir-kommen/). Wenn Ihr ein bisschen stöbert, findet Ihr im Blog noch eine ganze Menge [weitere spannende Artikel zum Thema](/?s=dunk%21).
 
-<FestivalListe />
+<FestivalList />

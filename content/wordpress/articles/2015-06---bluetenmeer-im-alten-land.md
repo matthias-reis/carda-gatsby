@@ -50,4 +50,4 @@ Meine Eindrücke aus dem Alten Land habe ich natürlich fotografisch festgehalte
 
 <Gallery name="flickr/annealtesland052015" />
 
-<FestivalListe />
+<FestivalList />

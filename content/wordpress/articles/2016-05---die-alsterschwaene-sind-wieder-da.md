@@ -52,4 +52,4 @@ Die Alsterschwäne gehören zu Hamburg einfach dazu. Genau wie die Reeperbahn un
   ]}
 />
 
-<FestivalListe />
+<FestivalList />

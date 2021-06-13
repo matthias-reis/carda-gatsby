@@ -32,4 +32,4 @@ subTitle: Schnappschüsse aus dem Hamburger Stadtpark
 
 [Bei Planten un Blomen](/2016/05/1-mai-bei-planten-un-blomen/) am ersten Mai habe ich auch ein paar tolle Aufnahmen gemacht.
 
-<FestivalListe />
+<FestivalList />
