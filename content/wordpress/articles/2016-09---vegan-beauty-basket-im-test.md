@@ -35,6 +35,7 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Unboxing Wellness
+advertisement: true
 
 ---
 Werbung\*
@@ -251,5 +252,3 @@ Auch das Preis-Leistungs-Verhältnis stimmt beim Vegan Beauty Basket absolut. We
 />
 
 Zum Vegan Beauty Basket geht es [hier entlang](https://www.veganbeautybasket.com/).
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
