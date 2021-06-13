@@ -1,5 +1,10 @@
 const indexName = `Pages`;
 const pageQuery = `{
+  site {
+    siteMetadata {
+      siteUrl
+    }
+  }
   pages: allMdx(
     filter: {
         frontmatter: { 
@@ -63,12 +68,13 @@ type IndexRecord = {
   };
 };
 
-function pageToAlgoliaRecord({
-  node: { id, frontmatter, fields, ...rest },
-}: IndexRecord) {
+function pageToAlgoliaRecord(
+  { node: { id, frontmatter, fields, ...rest } }: IndexRecord,
+  baseImageUrl: string
+) {
   const image =
     frontmatter.remoteThumbnailImage ||
-    frontmatter.image?.childrenImageSharp?.resize?.src;
+    baseImageUrl + '/' + frontmatter.image?.childrenImageSharp?.resize?.src;
   delete frontmatter.remoteThumbnailImage;
   delete frontmatter.image;
   return {
@@ -82,8 +88,17 @@ function pageToAlgoliaRecord({
 const queries = [
   {
     query: pageQuery,
-    transformer: ({ data }: { data: { pages: { edges: IndexRecord[] } } }) =>
-      data.pages.edges.map(pageToAlgoliaRecord),
+    transformer: ({
+      data,
+    }: {
+      data: {
+        site: { siteMetadata: { url: string } };
+        pages: { edges: IndexRecord[] };
+      };
+    }) =>
+      data.pages.edges.map((page) =>
+        pageToAlgoliaRecord(page, data.site.siteMetadata.url)
+      ),
     indexName,
     settings: { attributesToSnippet: [`excerpt:25`] },
   },
