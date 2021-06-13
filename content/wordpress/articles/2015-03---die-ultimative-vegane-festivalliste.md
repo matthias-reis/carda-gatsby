@@ -173,7 +173,7 @@ Auch, was das vegane Angebot an den diversen Essenständen angeht, haben die mei
 84. Dosenöffner,
 85. Chilischote,
 86. 2 Beutelchen Salz aus dem nächsten Schnellimbiss,
-87. [Das Rezept](https://cardamonchai.com/2015/03/veganes-festival-fruehstueck/).
+87. [Das Rezept](/2015/03/veganes-festival-fruehstueck/).
 
 Gegessen wird natürlich stilecht aus dem Kochtopf, den Ihr weiter oben in der Liste ja schon gefunden habt. Viel Spaß beim Packen! Gebt Bescheid, sollte auf der Liste noch was Wichtiges fehlen, ich füge es gerne hinzu. In diesem Sinne: Weiterrocken!
 
