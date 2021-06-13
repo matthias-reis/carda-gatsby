@@ -52,13 +52,26 @@ export default {
               return allMdx.edges.map((edge: any) => ({
                 ...edge.node.fields,
                 ...edge.node.frontmatter,
-                description: `<img src="${
-                  edge.node?.frontmatter?.image?.childImageSharp?.fluid?.src
-                }" alt="${edge.node?.frontmatter?.title}"/>
+                description: `
 
 ${edge.node.frontmatter?.excerpt || edge.node.frontmatter?.description}`,
                 url: site.siteMetadata.siteUrl + edge.node.fields.path,
                 guid: site.siteMetadata.siteUrl + edge.node.fields.path,
+                custom_elements: [
+                  {
+                    'content:encoded': `
+<p style="font-size: 1.2em; color: #fffa">${
+                      edge.node?.frontmatter?.subTitle
+                    }</p>
+<img src="${edge.node?.frontmatter?.image?.childImageSharp?.fluid?.src}" alt="${
+                      edge.node?.frontmatter?.title
+                    }"/>
+<p>${edge.node.frontmatter?.excerpt || edge.node.frontmatter?.description}</p>
+${
+  edge.node.frontmatter?.languageLink && '<p>🇬🇧 English version available</p>'
+}`,
+                  },
+                ],
               }));
             },
             query: `
@@ -67,7 +80,10 @@ ${edge.node.frontmatter?.excerpt || edge.node.frontmatter?.description}`,
     limit: 30
     sort: { fields: frontmatter___date, order: DESC }
     filter: {
-      frontmatter: { language: { ne: "en" } }
+      frontmatter: { 
+        language: { ne: "en" }
+        date: {lte: "${new Date().toISOString()}"}
+      }
       fields: { type: { in: ["article", "wordpress"] } }
     }
   ) {
@@ -83,6 +99,7 @@ ${edge.node.frontmatter?.excerpt || edge.node.frontmatter?.description}`,
           excerpt
           typeName
           date
+          languageLink
           remoteThumbnailImage
           image {
             childImageSharp {
