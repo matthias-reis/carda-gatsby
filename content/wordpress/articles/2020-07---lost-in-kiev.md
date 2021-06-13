@@ -55,8 +55,12 @@ Das im Dezember erschienene Album "Persona" läuft bei mir nach wie vor auf Rota
 ## Das DUNK! 2017 war magisch
 
 <RemoteImage
-
-size="medium" title={`Dieses Foto habe ich auf dem magischen DUNK! Festival 2017 aufgenommen.`} mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-9__m.jpg" largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-9__l.jpg" loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHCP/EACUQAAEDAgUFAQEAAAAAAAAAAAECAxEABAUGEiExEyJBUXFhgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAgEQEAAgIBBAMAAAAAAAAAAAABAAIDESEEEjFBUaHB/9oADAMBAAIRAxEAPwDzO02VKgnj3V9i06kkEyE92nwON6ltMNcdSFwoACZ4291psJysq6tUvKuEISTG4k7/ANFU3xWob15mWTqMeI3d+n8mRctUp2gzJ5qq83oUCIPzeupIyMHEd15ICQRDYTtPnUoQfyslmfC2bBpRad6ulQSFAggj6KlFVPiLXrMN0DfPjhiC3xW4YWhTJ0lIgykGabP5qvbp5svdJLTY0pQhsCE/eaKKbvspZeSVek9MjxLMD106B1CWkkFOxnxJpRd3anVEBS9HqTFFFFyWa9rFKVHif//Z" />
+  size="medium"
+  title={`Dieses Foto habe ich auf dem magischen DUNK! Festival 2017 aufgenommen.`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-9__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev-9__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHCP/EACUQAAEDAgUFAQEAAAAAAAAAAAECAxEABAUGEiExEyJBUXFhgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAgEQEAAgIBBAMAAAAAAAAAAAABAAIDESEEEjFBUaHB/9oADAMBAAIRAxEAPwDzO02VKgnj3V9i06kkEyE92nwON6ltMNcdSFwoACZ4291psJysq6tUvKuEISTG4k7/ANFU3xWob15mWTqMeI3d+n8mRctUp2gzJ5qq83oUCIPzeupIyMHEd15ICQRDYTtPnUoQfyslmfC2bBpRad6ulQSFAggj6KlFVPiLXrMN0DfPjhiC3xW4YWhTJ0lIgykGabP5qvbp5svdJLTY0pQhsCE/eaKKbvspZeSVek9MjxLMD106B1CWkkFOxnxJpRd3anVEBS9HqTFFFFyWa9rFKVHif//Z"
+/>
 
 **LIK:** Danke für Deine netten Worte zu unserer Show 2017. Es war eine großartige Erfahrung für uns an diesem Tag auf der Bühne. Wir können es nicht erwarten, wieder Teil dieser wunderbaren Bühne und dieses magischen Fests zu sein. Bis jetzt ist leider noch nichts wirklich sicher. Auch in Bezug auf das DUNK! Festival. Wir hoffen natürlich, dass wir dort mit allen unseren Freunden wieder spielen werden und dort jede Menge tolle Leute treffen werden.
 
