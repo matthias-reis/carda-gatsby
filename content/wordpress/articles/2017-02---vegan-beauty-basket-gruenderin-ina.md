@@ -1,32 +1,36 @@
 ---
-date: 2017-02-07T13:16:11.000Z
+date: 2017-02-07T13:16:11.000+00:00
 slug: vegan-beauty-basket-interview
-path: /2017/02/vegan-beauty-basket-interview/
+path: "/2017/02/vegan-beauty-basket-interview/"
 type: Artikel
 typeName: Interview
 title: Vegan Beauty Basket Gründerin Ina
-seoTitle: '"Die kleinen Manufakturen sind besonders spannend" - Interview mit Vegan Beauty Basket Gründerin Ina'
-ogTitle: '"Die kleinen Manufakturen sind besonders spannend" - Interview mit Vegan Beauty Basket Gründerin Ina'
-description: Nach meinem Produkttest war ich sehr angetan vom Vegan Beauty Basket und wollte Gründerin Ina unbedingt kennenlernen. Wir haben uns unterhalten.
-excerpt: Nach meinem Produkttest war ich sehr angetan vom Vegan Beauty Basket und wollte Gründerin Ina unbedingt kennenlernen. Wir haben uns unterhalten.
+seoTitle: '"Die kleinen Manufakturen sind besonders spannend" - Interview mit Vegan
+  Beauty Basket Gründerin Ina'
+ogTitle: '"Die kleinen Manufakturen sind besonders spannend" - Interview mit Vegan
+  Beauty Basket Gründerin Ina'
+description: Nach meinem Produkttest war ich sehr angetan vom Vegan Beauty Basket
+  und wollte Gründerin Ina unbedingt kennenlernen. Wir haben uns unterhalten.
+excerpt: Nach meinem Produkttest war ich sehr angetan vom Vegan Beauty Basket und
+  wollte Gründerin Ina unbedingt kennenlernen. Wir haben uns unterhalten.
 fileName: 2017-02---vegan-beauty-basket-gruenderin-ina.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_ina_doncheva_vbb_portrait-e1582793320912__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_ina_doncheva_vbb_portrait-e1582793320912__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABggBAgcD/8QALhAAAQMCBAIIBwAAAAAAAAAAAQIDBAURAAYSIQcxCBMiNUFRdLIUNHFzgZGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwACBP/EAB8RAAICAgEFAAAAAAAAAAAAAAECABEDMQQSIWGhwf/aAAwDAQACEQMRAD8AZtuKhCr3UVAbm/PEzS81CkLhth2SltSmkKNgpYB0j8m2OxPaGLX0pJ8t8WpRTYFE4g5M4iU7Mj0kzDIW2aq2JWtS0uEqUy4nlqAJAtcAgEWGGglMpa6x9S1LUtV7kAbAbWtjJOHMLNUvOuacv56MyVAab6yFIU2rqikrsC25yN0kEjmDceGDKbOg0KlSm4Lr7zFNeSiQVqK9AKAdh4Jtv+8ErML6tR2RWoJuHBO4wvfSRz9XabW4OVacBRoc1CQ5WXnToUhw6VgBIOlKeZUQVeQHMsH4j6YV7pa950/7avcjCE6BmcSFgzA1Qv2IRcA+KlQkxKjRs1yfjI1MUW2a9qu04AbJQskAqJHaSq1yD2rczFdzjSm49dpMZEiUa7JQzEcUhWkjSErUVbWsCTYX2t54wjIPdVY9VG/isbzxs+Z4eeoHtGByk9/E7eBjQ5EDC7+T/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_02_ina-1-von-1__l.jpg
 labels:
-  - beauty
-  - Beauty Box
-  - Berlin
-  - Fair Fashion & Beauty
-  - Hamburg
-  - Ina
-  - Interviews
-  - Lifestyle
-  - vegan
-  - Vegan Beauty Basket
-  - Vegane Beauty Box
-  - Wellness
+- beauty
+- Beauty Box
+- Berlin
+- Fair Fashion & Beauty
+- Hamburg
+- Ina
+- Interviews
+- Lifestyle
+- vegan
+- Vegan Beauty Basket
+- Vegane Beauty Box
+- Wellness
 focusKeyword: Vegan Beauty Basket
 status: publish
 isWerbung: false
@@ -34,8 +38,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Die kleinen Manufakturen sind besonders spannend"'
----
 
+---
 **Vegan Beauty Basket – Dieser Namen steht für liebevoll ausgesuchte, vegane Kosmetikprodukte. Gründerin Ina legt besonderen Wert auf die Qualität aller Artikel und Ihrer Inhaltsstoffe.**
 
 Alles ist tierversuchsfrei und fair produziert. [Der Vegan Beauty Basket](/2016/09/vegan-beauty-basket-im-test/) erscheint alle zwei Monate. Von anderen Beauty Boxen unterscheidet er sich nicht nur dadurch, dass man sich als KundIn bei jeder Ausgabe mindestens ein Produkt selbst aussuchen kann.
@@ -179,13 +183,5 @@ In der Box legen wir ebenfalls Informationsmaterial/Zeitschriften zum Thema Vega
 **Ina:** Ich habe leider kein Beauty-Geheimnis, aber ich kann Dir verraten, dass das Hyaluronfluid sowie das Aloe Vera Gel von Cremekampagne meine unzertrennlicher Begleiter sind (lacht).
 
 **Anne:** Liebe Ina! Vielen Dank für das überaus interessante, schöne Interview! Es hat mir großen Spaß gemacht! Ich hoffe, wir sprechen uns bald wieder! Alles Gute für Vegan Beauty Basket und für Deine weiteren Pläne!
-
-## Wegweiser Vegan Beauty Basket
-
-1.  [Der Basket im 3er-Abo 8/2016](/2016/08/vegan-beauty-basket-gratis-aktion/)
-1.  [Im Test 9/2016](/2016/09/vegan-beauty-basket-im-test/)
-1.  [Unboxing Weihnachtsedition 12/2016](/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/)
-1.  Interview mit Gründerin Ina 2/2017
-1.  [Unboxing März-Ausgabe 3/2018](/2018/03/unboxing-vegan-beauty-basket-maerz/)
 
 Zum Vegan Beauty Basket geht es [hier entlang.](https://www.veganbeautybasket.com/)

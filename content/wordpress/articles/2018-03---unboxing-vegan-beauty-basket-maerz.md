@@ -1,46 +1,49 @@
 ---
-date: 2018-03-20T20:07:51.000Z
+date: 2018-03-20T20:07:51.000+00:00
 slug: unboxing-vegan-beauty-basket-maerz
-path: /2018/03/unboxing-vegan-beauty-basket-maerz/
+path: "/2018/03/unboxing-vegan-beauty-basket-maerz/"
 type: Artikel
 typeName: Produkttest
 title: Unboxing Vegan Beauty Basket März
 seoTitle: Unboxing Vegan Beauty Basket März - Frühling aus dem Karton
 ogTitle: Unboxing Vegan Beauty Basket März - Frühling aus dem Karton
-description: Ich durfte mal wieder den Vegan Beauty Basket auspacken. Heraus purzelte unter anderem ein Eyeliner, der komplett ohne Plastik auskommt.
-excerpt: Werbung - Ich durfte mal wieder den Vegan Beauty Basket auspacken. Heraus purzelte unter anderem ein Eyeliner, der komplett ohne Plastik auskommt.
+description: Ich durfte mal wieder den Vegan Beauty Basket auspacken. Heraus purzelte
+  unter anderem ein Eyeliner, der komplett ohne Plastik auskommt.
+excerpt: Werbung - Ich durfte mal wieder den Vegan Beauty Basket auspacken. Heraus
+  purzelte unter anderem ein Eyeliner, der komplett ohne Plastik auskommt.
 fileName: 2018-03---unboxing-vegan-beauty-basket-maerz.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_27013348798_3dfdff82b3_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_27013348798_3dfdff82b3_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKhAAAgEDBAAFAwUAAAAAAAAAAQIDBAURAAYSIQcxQVFxEyIycpGisbL/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAIREAAgIABQUAAAAAAAAAAAAAAQIAEQMSMVGBEyFBkfD/2gAMAwEAAhEDEQA/AIPiHtgzbAuUpXL0irVof0H7v4ltLnw82zPdqaa5Lt2ou9vBaIOkqRqjrgnPJhnojT53tGtXsK5U2RiaH6ZyceZGtBa4IquyW2eGRKX6kCMBDCmCQO1GegevPHWhO0UFDgqTX3E5yl8LL3UPMZIqa1pIpelSWdZS5LYCDgSRgH8j7aZVTcbVtXbFrSqaSngSOKljhwGmLYwwKA+YIJPz66YlztRrbNWxJItTUcOVNyZQSR9wJZehnJHxpaQ7WivO7YL85mhmpZWWopqmIc1lQAKCRkEDOQfUccaS3UzitJS4w1w9z6188STvmvli2dVFfZf9rrX7acz7ftnMLwkhMjIR0SPTRo04i5MjsndZapUSRlIFKqAQTIgKuQMnGc+vQ+NZmoqni3tcqdBiOejhqWHs4Z0/pV/bRo1oEAuzm2n/2Q==
-ogImage: null
+ogImage: 
 labels:
-  - beauty
-  - Beauty ohne Plastik
-  - Berlin
-  - Boho
-  - Boho Green Liner
-  - Daily Defence Mist
-  - Duft
-  - Evolve Organic Beauty
-  - Eyeliner
-  - Eyeliner ohne Plastik
-  - Fair Fashion & Beauty
-  - Frühling
-  - Glossworks 9free
-  - Hamburg
-  - I+M
-  - Kosmetik
-  - lesswaste
-  - Nagellack
-  - Shampoo
-  - Studio Botanic
-  - Toner
-  - unboxing
-  - vegan
-  - vegan beauty
-  - Vegan Beauty Basket
-  - Wellness
+- beauty
+- Beauty ohne Plastik
+- Berlin
+- Boho
+- Boho Green Liner
+- Daily Defence Mist
+- Duft
+- Evolve Organic Beauty
+- Eyeliner
+- Eyeliner ohne Plastik
+- Fair Fashion & Beauty
+- Frühling
+- Glossworks 9free
+- Hamburg
+- I+M
+- Kosmetik
+- lesswaste
+- Nagellack
+- Shampoo
+- Studio Botanic
+- Toner
+- unboxing
+- vegan
+- vegan beauty
+- Vegan Beauty Basket
+- Wellness
+- serie:Vegan Beauty Basket
 focusKeyword: Vegan Beauty Basket
 status: publish
 isWerbung: false
@@ -48,10 +51,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Frühling aus dem Karton
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Mit Ina vom [Vegan Beauty Basket](/2017/02/vegan-beauty-basket-interview/) hatte ich vereinbart, den März-Korb mal wieder hier im Blog vorzustellen. Die letzten Wochen war ich daher mehr als gespannt, was er wohl enthalten würde. Als dann das Paket bei mir eintraf, musste es selbstverständlich umgehend ausgepackt werden.**
 
 Heraus purzelten eine Handcreme, ein Toner, ein Nagellack, ein Shampoo sowie ein Eyeliner. Soviel in Kürze.
@@ -128,14 +130,3 @@ Besonders klasse finde ich am Basket nach wie vor, dass sich Ina wirklich Mühe 
 
 <Gallery name="flickr/annevbb32018" />
 
-## Wegweiser Vegan Beauty Basket
-
-1.  [Der Basket im 3er-Abo 8/2016](/2016/08/vegan-beauty-basket-gratis-aktion/)
-1.  [Im Test 9/2016](/2016/09/vegan-beauty-basket-im-test/)
-1.  [Unboxing Weihnachtsedition 12/2016](/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/)
-1.  [Interview mit Gründerin Ina 2/2017](/2017/02/vegan-beauty-basket-interview/)
-1.  Unboxing März-Ausgabe 3/2018
-
-Zum Vegan Beauty Basket geht es [hier entlang.](https://www.veganbeautybasket.com/)
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
