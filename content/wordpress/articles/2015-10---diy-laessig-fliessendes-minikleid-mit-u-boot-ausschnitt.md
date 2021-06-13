@@ -63,11 +63,7 @@ subTitle: Nähanleitung One Size (34 - 42)
 
 ## Das braucht Ihr für Euer Minikleid
 
-<<<<<<< HEAD
-
-- # Stoff - Ich habe Viskose verwendet, die fühlt sich wunderbar kühl auf der Haut an und sorgt bei fertigen Kleid für eine tolle, fließende Optik. Ihr könnt aber genauso auch Baumwollpiqué oder Euren Lieblings-T-Shirt-Stoff verwenden. Der Stoff, den ich gekauft habe, war 1,50 m breit, ich habe einen Meter bei der Buttinette[^2] bestellt.
-- Stoff - Ich habe Viskose verwendet, die fühlt sich wunderbar kühl auf der Haut an und sorgt bei fertigen Kleid für eine tolle, fließende Optik. Ihr könnt aber genauso auch Baumwollpiqué oder Euren Lieblings-T-Shirt-Stoff verwenden. Der Stoff, den ich gekauft habe, war 1,50 m breit, ich habe einen Meter bei der Buttinette [<sup>2</sup>](#2) bestellt.
-  > > > > > > > fix: soft hyphens in metadata
+- Stoff - Ich habe Viskose verwendet, die fühlt sich wunderbar kühl auf der Haut an und sorgt bei fertigen Kleid für eine tolle, fließende Optik. Ihr könnt aber genauso auch Baumwollpiqué oder Euren Lieblings-T-Shirt-Stoff verwenden. Der Stoff, den ich gekauft habe, war 1,50 m breit, ich habe einen Meter bei der Buttinette[^2] bestellt.
 - Nähgarn - Das wird Euch beim Bestellen gleich passend zum Stoff angeboten.
 - Seidenpapier - Im Bastelbedarf oder gleich mitbestellen
 - Stift
@@ -135,13 +131,13 @@ Nun schließt Ihr die Nähte entlang Eurer jetzt noch sichtbaren, eingezeichnet
 
 ## Wenden und anprobieren
 
+![Das "Schnittmuster"](/img/minikleid-nahanleitung-17jpg_22332294726_o.jpg 'Das "Schnittmuster"')
+
 Jetzt müsst Ihr Euer Meisterwerk nur noch wenden und anprobieren. Das Minikleid passt wunderbar zu Leggings in Lederoptik, Skinny Jeans oder Strumpfhosen und lässt sich auch prima mit einem schönen Gürtel kombinieren. Im Winter könnt Ihr gut einen Langarm-Body darunter tragen, am besten Ton-in-Ton oder je nachdem, welche Farbe Euer Stoff hat, auch in Komplementär-Farben.
 
 Ich wünsche Euch viel Spaß beim Nähen und beim Tragen Eures neuen Minikleides! Schickt mal ein Bild, wenn es fertig ist, ich bin gepannt!
 
 [^1]: Der Schnittbogen
 [^2]: Die  [Buttinette](https://basteln-de.buttinette.com/shop/start) Ich wünsche Euch viel Spaß beim Nähen und beim Tragen Eures neuen Minikleides! Schickt mal ein Bild, wenn es fertig ist, ich bin gepannt! <3
-
-![Das "Schnittmuster"](/img/minikleid-nahanleitung-17jpg_22332294726_o.jpg 'Das "Schnittmuster"')
 
 Meine Schritt-für-Schritt-Anleitung für ein wärmendes Körnerkissen [findet Ihr hier](/2015/09/diy-koernerkissen-naehanleitung/).
