@@ -49,4 +49,4 @@ In der Zeit vom 26. Mai bis einschließlich 1. Juni werden wir erst mal damit b
 
 > Hamburg ist ein schönes Städtchen, siehste wohl, weil es an der Elbe liegt, siehste wohl! (Alte Weise)
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

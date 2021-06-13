@@ -50,4 +50,4 @@ Wir haben uns im Rahmen unseres [Ausflugs nach Tönning](/2015/07/toenning-an-de
 
 Weitere Bilder findet Ihr wie immer in meinem [Flickr](https://www.flickr.com/photos/99929697@N07/).
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

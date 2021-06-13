@@ -76,4 +76,4 @@ Guten Appetit!
 
 <Gallery name="flickr/annesesambrot" />
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

@@ -50,4 +50,4 @@ Los geht's an den Landungsbrücken über den alten und den neuen Elbtunnel hinwe
 
 <Gallery name="flickr/annehafenrundfahrt072015" />
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

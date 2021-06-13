@@ -54,4 +54,4 @@ Das volle Kontrastprogramm zum romantisch verspielten, blumigen, gekonnten, reif
 
 <Gallery name="flickr/annefaithnomore062015" />
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

@@ -59,4 +59,4 @@ Das Viertel zeigte sich bunt und vielfältig, laut und kreativ. Genau so, wie es
 
 [Meine Bilder vom Samstag findet Ihr hier](/2017/06/weisse-parade-stamp-festival-altona/).
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

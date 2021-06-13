@@ -84,4 +84,4 @@ Die fertigen Bananenwaffeln mit Zimt und Zucker bestäuben und zusammen mit dem
 
 Guten Appetit! &lt;3
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

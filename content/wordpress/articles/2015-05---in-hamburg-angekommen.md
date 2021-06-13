@@ -101,6 +101,4 @@ Die Bilder von unseren Entdeckungstouren haben ich schon bearbeitet und sortiert
 
 In unserer neuen Küche probieren wir übrigens auch nahezu jeden Abend neue Rezeptideen aus, es wird also in Zukunft sicher auch wieder das ein oder andere vegane Rezept geben. Seid gespannt und bleibt dran!
 
-Ich drücke (und vermisse!!) Euch Anne &lt;3
-
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

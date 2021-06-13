@@ -132,4 +132,4 @@ Weitere Fakten sind auf der [ArcTanGent Homepage](https://arctangent.co.uk) zu f
 
 Pictures in this article: [ArcTanGent](https://arctangent.co.uk/)
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

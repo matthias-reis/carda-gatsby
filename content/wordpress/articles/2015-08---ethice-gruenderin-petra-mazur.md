@@ -245,6 +245,5 @@ Des Weiteren hoffe ich, dass künftig mehr Organisationen auf uns zukommen, um u
 
 **Fotos:** Petra privat, ethice
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />
 
-Merken

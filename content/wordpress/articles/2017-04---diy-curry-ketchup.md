@@ -51,6 +51,4 @@ Aus diesem Grund und weil selbst gemacht einfach besser ist, verrate ich Euch he
 
 Alles in den Mixer geben und so lange pürieren, bis eine glatte, feine Masse entstanden ist. Den Ketchup vor dem Verzehr für mindestens eine halbe Stunde im Kühlschrank kalt stellen. Danach: Guten Appetit! Mindestens eine Woche ist der Curry-Ketchup abgedeckt im Kühlschrank haltbar. Aber so lange wird er sowieso nicht halten. Das verspreche ich Euch. Ihr esst Ihn ganz sicher schon vorher auf.
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken](/2015/03/die-ultimative-vegane-festivalliste)
-
-&nbsp;
+<FestivalListe />

@@ -163,4 +163,4 @@ _Bitte setzt Eure Wärmelampe verantwortungsbewusst ein. Verlasst nicht das Zimm
 
 Vielen Dank an RS Components für die Infrarot-Birne! Die Lieferung ging sehr schnell und ich finde es klasse, dass man im Shop auch so etwas Spezielles finden kann! Wenn Ihr auch mal stöbern möchtet: [Hier entlang](http://de.rs-online.com/web/).
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

@@ -65,4 +65,4 @@ Die [Loki-Schmidt-Stiftung](/2015/09/indian-summer-im-loki-schmidt-garten/) hat 
 
 Auch im Wittmoor sind wir schon [gewandert](/2016/01/wandern-im-hamburger-wittmoor/).
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

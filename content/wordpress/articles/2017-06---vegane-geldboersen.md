@@ -79,6 +79,6 @@ Zu kaufen gibt es die schicken Geldbeutel für schlanke 23 Euro im Borderdog Onl
 
 Kennt Ihr schon meine neue [vegane Handtasche](/2016/12/meine-neue-vegane-handtasche-von-mattnat/) ?
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />
 
 \*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

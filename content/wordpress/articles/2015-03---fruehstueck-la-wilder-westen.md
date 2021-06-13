@@ -102,4 +102,4 @@ Guten Appetit! Verbrennt Euch nicht die Pfoten! &lt;3
   starten](/wp-content/uploads/2015/03/fruehstueck-a-la-wilder-westen.pdf)
 </div>
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

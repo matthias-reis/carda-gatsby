@@ -1,39 +1,37 @@
 ---
 date: 2019-05-21T05:55:35.000+00:00
 slug: dunkfestival-2019
-path: "/2019/05/dunkfestival-2019/"
+path: '/2019/05/dunkfestival-2019/'
 type: Artikel
 typeName: Artikel
 title: Dunk!festival 2019
 seoTitle: Dunk!festival 2019 - das Line-up steht fest - diese Band sind dabei
 ogTitle: Dunk!festival 2019- das Line-up steht fest
-description: 'Das Line-up für das diesjährige Dunk!festival steht fest und eins verspreche
-  ich Euch: Das wird wieder ganz schön spannend!'
-excerpt: 'Das Line-up für das diesjährige Dunk!festival steht fest und eins verspreche
-  ich Euch: Das wird wieder ganz schön spannend!'
+description: 'Das Line-up für das diesjährige Dunk!festival steht fest und eins verspreche ich Euch: Das wird wieder ganz schön spannend!'
+excerpt: 'Das Line-up für das diesjährige Dunk!festival steht fest und eins verspreche ich Euch: Das wird wieder ganz schön spannend!'
 fileName: 2019-05---dunk-festival-2019.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-44__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-44__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwEDBP/EACkQAAIBAwMCBQUBAAAAAAAAAAECAwQFEQASIRMxQVFhYnEGFSSRwYH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAZEQADAQEBAAAAAAAAAAAAAAAAARECAzH/2gAMAwEAAhEDEQA/AKeem+39WuEYeIrkpnAb00zWW3Q09oa5tDsgqVURRtyd7DPHwOdLdwaar+kaKuA6kUdQ8Ux7BW425H71N2G5NcLFaLXTUrtNTdcF5NpiG45Vl9wGRg+QPbjVtqB5quMjK23xCNoJ+T3if+aS6+AxOwIxqwa2kL18aN1TG+ERnYEF8geH+fvSre4WjlninlXfHwPHdz4EempQ0aSXhwrdqh7M1EJPxo36xTI7jPr7jrNHdKiCnkSNmUFhghsAEjPb40aNN7ZnWUjdLfqpoI1aSMxqdyhGxg+fbvxqKr7i9S7PhVJ8m/mjRoUdP//Z
-ogImage: 
+ogImage:
 labels:
-- Alcest
-- Coastlands
-- Dunk Festival
-- Dunk Records
-- DUNK!festival
-- DUNK!records
-- Festival
-- Festivals
-- Gifts From Enola
-- Malämmar
-- Pillars
-- Post-Rock
-- Postrock
-- Tangled Thoughts Of Leaving
-- This Patch Of The Sky
-- Zottegem
-- serie:DUNK!festival
+  - Alcest
+  - Coastlands
+  - Dunk Festival
+  - Dunk Records
+  - DUNK!festival
+  - DUNK!records
+  - Festival
+  - Festivals
+  - Gifts From Enola
+  - Malämmar
+  - Pillars
+  - Post-Rock
+  - Postrock
+  - Tangled Thoughts Of Leaving
+  - This Patch Of The Sky
+  - Zottegem
+  - serie:DUNK!festival
 focusKeyword: Dunk
 status: publish
 isWerbung: false
@@ -43,8 +41,8 @@ errors: {}
 subTitle: Das Line-up steht fest
 year: '2019'
 month: '05'
-
 ---
+
 **Das Line-up für das diesjährige Dunk!festival steht fest und eins verspreche ich Euch: Das wird wieder ganz schön spannend!**
 
 <RemoteImage
@@ -75,4 +73,4 @@ Gestern erreichte mich die Nachricht, dass inzwischen für alle 39 angekündigte
 
 Der Timetable macht wieder ganz schön was her, oder? Ich bin jedenfalls schon etwas traurig, dass es dieses Mal nichts wird. Aber man kann eben nicht auf allen Hochzeiten tanzen. [Über die Rahmenbedingungen des Festivals und seine Besonderheiten könnt Ihr zum Beispiel hier noch mehr erfahren](/2018/04/dunkfest-2018-wir-kommen/). Wenn Ihr ein bisschen stöbert, findet Ihr im Blog noch eine ganze Menge [weitere spannende Artikel zum Thema](/?s=dunk%21).
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

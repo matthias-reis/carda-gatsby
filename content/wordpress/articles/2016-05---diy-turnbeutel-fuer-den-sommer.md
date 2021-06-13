@@ -81,4 +81,4 @@ Wie gefällt Euch mein neuer Turnbeutel? Schön sommerlich, oder? Habt Ihr auch 
 
 <YouTube id="fvIMFC3esDM" />
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

@@ -83,4 +83,4 @@ Stellt die Nähmaschine nun in einer feinen Steppstichgröße ein und näht die 
 
 Et voilà: Fertig ist Euer erster selbstgemachter Upcycling Rock.
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

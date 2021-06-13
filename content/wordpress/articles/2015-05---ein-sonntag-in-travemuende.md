@@ -58,4 +58,4 @@ _Schiff Ahoi und Man Tau!_
 
 _Weitere Bilder wie immer in meinem [Flickr](https://www.flickr.com/photos/99929697@N07/). _
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

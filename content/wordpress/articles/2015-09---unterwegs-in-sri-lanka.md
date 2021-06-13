@@ -48,4 +48,4 @@ Sri Lanka: Ein Land voll Artenreichtum und Vielfalt, aber auch Armut, voll leben
 
 <Gallery name="flickr/srilanka2015anne" />
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

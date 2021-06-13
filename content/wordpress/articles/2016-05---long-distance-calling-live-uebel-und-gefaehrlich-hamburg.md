@@ -73,4 +73,4 @@ Und im Anschluss ging der Spaß noch weiter: Kein Geringerer, als [Johannes Heil
   ]}
 />
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

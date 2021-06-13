@@ -52,4 +52,4 @@ Die Alsterschwäne gehören zu Hamburg einfach dazu. Genau wie die Reeperbahn un
   ]}
 />
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

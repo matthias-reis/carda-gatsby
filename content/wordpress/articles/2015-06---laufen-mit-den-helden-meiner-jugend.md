@@ -74,4 +74,4 @@ Sonnige Grüße aus Hamburg
 
 [^1]: [Storyrun von Runtastic](http://blog.runtastic.com/de/runtastic-all-about/story-run-reise-zum-wunschgewicht/)
 
-[Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

@@ -182,4 +182,4 @@ Für alle, die meinen Text nicht verstanden haben (gibt es solche Leute überhau
 
 Ich werde Euch dann morgen darüber berichten, für welches Handtuch ich mich entschieden habe!
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

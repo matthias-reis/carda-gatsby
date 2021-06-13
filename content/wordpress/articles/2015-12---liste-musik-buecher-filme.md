@@ -121,4 +121,4 @@ Gerne möchte ich diese Liste in Zukunft als Diskussionsplattform nutzen. Schrei
 
 <Gallery name="flickr/annelieblingsliste" />
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

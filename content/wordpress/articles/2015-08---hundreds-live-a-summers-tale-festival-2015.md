@@ -47,4 +47,4 @@ Highlights des Konzerts ganz klar: "Happy Virus" und das Björk-Cover "Who Is It
 
 <YouTube id="U_QrYmw2wjQ" />
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

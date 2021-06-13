@@ -50,6 +50,4 @@ Meine Eindrücke aus dem Alten Land habe ich natürlich fotografisch festgehalte
 
 <Gallery name="flickr/annealtesland052015" />
 
-Weitere Bilder findet Ihr wie immer in meinem [Flickr](https://www.flickr.com/photos/99929697@N07/)
-
-[Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />

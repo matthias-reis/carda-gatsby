@@ -183,7 +183,7 @@ So, Schluss mit der Lobhudelei, ich muss kochen, heute gibt es was wirklich Leck
   ]}
 />
 
-[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+<FestivalListe />
 
 [^1]: [Tierrechte](/2014/08/blutige-zahlen/)
 [^2]: [Ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
