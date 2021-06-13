@@ -177,4 +177,4 @@ Auch, was das vegane Angebot an den diversen Essenständen angeht, haben die mei
 
 Gegessen wird natürlich stilecht aus dem Kochtopf, den Ihr weiter oben in der Liste ja schon gefunden habt. Viel Spaß beim Packen! Gebt Bescheid, sollte auf der Liste noch was Wichtiges fehlen, ich füge es gerne hinzu. In diesem Sinne: Weiterrocken!
 
-<FestivalList link="https://cardamonchai.com/img/vegane-festivalliste.pdf" />
+<FestivalList link="/img/vegane-festivalliste.pdf" />
