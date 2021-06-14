@@ -93,8 +93,8 @@ const HitBox = styled(Link)`
 `;
 
 const HitImageContainer = styled.span`
-  width: 100px;
-  height: 75px;
+  width: 120px;
+  height: 80px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -103,7 +103,7 @@ const HitImageContainer = styled.span`
 `;
 
 const HitImage = styled.img`
-  width: 150px;
+  width: 120px;
   flex: 0 0 auto;
 `;
 
