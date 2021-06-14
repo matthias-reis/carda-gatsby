@@ -28,7 +28,12 @@ const mapUrls = (name: string) => (item: { m: string; l: string }) => {
 };
 
 export const Gallery: React.FC<GalleryProps> = ({ images = [], name }) => {
-  const [usedImages, setUsedImages] = React.useState(images);
+  const refinedImages: GalleryImage[] = images.map((i) => ({
+    mediumUrl: i.mediumUrl.replace(/%/g, '%25'),
+    largeUrl: i.largeUrl.replace(/%/g, '%25'),
+  }));
+
+  const [usedImages, setUsedImages] = React.useState(refinedImages);
 
   React.useEffect(() => {
     if (name) {
