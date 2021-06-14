@@ -63,9 +63,10 @@ ${edge.node.frontmatter?.excerpt || edge.node.frontmatter?.description}`,
 <p style="font-size: 1.2em; color: #fffa">${
                       edge.node?.frontmatter?.subTitle
                     }</p>
-<img src="${edge.node?.frontmatter?.image?.childImageSharp?.fluid?.src}" alt="${
-                      edge.node?.frontmatter?.title
-                    }"/>
+<p><img src="${
+                      site.siteMetadata.siteUrl +
+                      edge.node?.frontmatter?.image?.childImageSharp?.fluid?.src
+                    }" alt="${edge.node?.frontmatter?.title}"/><p>
 <p>${edge.node.frontmatter?.excerpt || edge.node.frontmatter?.description}</p>
 ${
   edge.node.frontmatter?.languageLink && '<p>🇬🇧 English version available</p>'
