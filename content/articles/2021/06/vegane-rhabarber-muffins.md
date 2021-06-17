@@ -1,5 +1,5 @@
 ---
-date: 2021-06-10T15:56:42+02:00
+date: 2021-06-10T15:56:42.000+02:00
 labels:
 - vegane Muffins
 - vegan backen
@@ -34,7 +34,7 @@ Wenn Ihr Eure Rhabarber Muffins auch lieber ohne Kokosflocken, Apfelmus, Chiasam
 
 Bei einem kleinen Foodsharing-Tauschhandel habe ich vor ein paar Tagen wunderbaren, selbst angebauten Rhabarber geschenkt bekommen. Er bot mir die Grundlage für meine Muffins. Im Gegensatz zu vielen anderen Rezepten kommt er bei mir nicht obendrauf, sondern in den kompletten Teig. Ihr braucht Euch also nicht wundern, dass hier ziemlich viel Rhabarber angegeben ist – die Mengenangaben stimmen. Die Muffins schmecken sehr gut und sind im Handumdrehen fertig.
 
-### Zutaten für 10 vegane Rhabarber-Muffins
+## Zutaten für 10 vegane Rhabarber-Muffins
 
 * 3 große Stangen Rhabarber
 * 125 Gramm Margarine oder Pflanzenbutter
@@ -45,7 +45,7 @@ Bei einem kleinen Foodsharing-Tauschhandel habe ich vor ein paar Tagen wunderbar
 * 1/2 TL Salz
 * 5 EL Hafermilch
 
-### So bereitet Ihr die veganen Rhabarber-Muffins zu
+## So bereitet Ihr die veganen Rhabarber-Muffins zu
 
 Wascht den Rhabarber, entfernt die Blätter und lasst ihn ansonsten komplett natürlich. Nicht schälen! Schneidet ihn zuerst in sehr schmale Streifen und würfelt ihn dann. Stellt die Förmchen für Eure Muffins auf ein Backblech und heizt den Ofen auf 180 Grad vor.
 
