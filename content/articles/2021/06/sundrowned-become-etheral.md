@@ -32,7 +32,7 @@ ogImage: "/img/sundrowned-fb.jpg"
 focusKeyword: ''
 advertisement: false
 affiliate: false
-languageLink: 2021/06/sundrowned-become-etheral
+languageLink: "/2021/06/sundrowned-become-etheral"
 
 ---
 ### Sundrowned debut "Become Etheral" – Post-Black Metal From Norway
