@@ -41,7 +41,7 @@ Drowning in the sun and dissolving into an ethereal figure of light – whether 
 
 The post-black metal band from Haugesund, Norway, released their debut on Fisisk Format. Ørjan Kristoffersen Lund (NAG, Avast, Agenda) from Bridge Burner Recording Studio in Stavanger produced the record. Brad Boatright (From Ashes Rise, Sleep, Nails) from Audioseige took care of the mastering. It was an essential part of his work to preserve a certain clarity for the individual notes despite the reverberant and heavy sound.
 
-## Sundrowned combines lightness and hard riffs
+## Sundrowned combines lightness and heavy riffs
 
 ![Sundrowned – "Become Etheral"](/img/708576.jpg 'Sundrowned – "Become Etheral"')
 
