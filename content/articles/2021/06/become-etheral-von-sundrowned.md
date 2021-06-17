@@ -1,6 +1,20 @@
 ---
 date: 2021-06-16T16:09:42+02:00
-labels: []
+labels:
+- Jone Amundsen Piscopo
+- Post-Metal
+- Post-Rock
+- Blackgaze
+- Haugesund
+- Norwegen
+- English & German
+- Bands
+- Review
+- Reviews
+- Atmospheric Post-Metal
+- Post-Black-Metal
+- Metal
+- Sundrowned
 language: de
 slug: sundrowned-become-etheral
 typeName: Review
