@@ -42,7 +42,7 @@ In der Sonne ertrinken und sich dabei in eine ätherische Lichtgestalt auflösen
 
 Die Post-Black-Metal Band stammt aus dem norwegischen Haugesund. Ihr Debüt erscheint auf Fisisk Format. Produziert wurde es von Ørjan Kristoffersen Lund (NAG, Avast, Agenda) vom Bridge Burner Recording Studio in Stavanger. Gemastert hat die Platte Brad Boatright (From Ashes Rise, Sleep, Nails) von Audioseige. Bei seiner Arbeit war es ihm besonders wichtig, den einzelnen Noten trotz des halligen und schweren Klangs eine gewisse Klarheit zu bewahren.
 
-### Sundrowned verbinden Leichtigkeit und harte Riffs
+## Sundrowned verbinden Leichtigkeit und harte Riffs
 
 ![Sundrowned – "Become Etheral"](/img/708576.jpg 'Sundrowned – "Become Etheral"')
 
@@ -52,7 +52,7 @@ Hinter dem Namen Sundrowned steckt vor allem das Solo-Projekt von Jone Amundsen 
 
 Weiche und leichte Momente werden auf "Become Etheral" von starken Metal-Anspielungen abgelöst. Das sorgt für eine wohl ausgeglichene Balance – die verträumten Parts wirken keineswegs zu ausgedehnt und überladen das Album nicht.
 
-### Alchemie und die Suche nach Perfektion
+## Alchemie und die Suche nach Perfektion
 
 "Become Ethereal" ist der Auftakt einer dreiteiligen Album-Serie, die die bunten Facetten der Menschheit durch die Linse klassischer Alchemie sieht – auf der Suche nach Perfektion.
 
@@ -62,6 +62,6 @@ Das Albumcover hat der norwegische Künstler Bernhard Østebø während einer Ku
 
 Durch diese fragile Technik ist es Bernhard gelungen, einen klaren und nahezu formlosen visuellen Stil zu erschaffen, der die Ästhetik der Musik perfekt ergänzt.
 
-### Sundrowned – "Etheral"
+## Sundrowned – "Etheral"
 
 <YouTube id="KzhPvnkk938" />
