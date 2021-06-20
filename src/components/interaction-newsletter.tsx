@@ -19,7 +19,7 @@ const Label = styled.div`
 `;
 
 export const InteractionNewsletter: React.FC = () => (
-  <Box href="https://mailchi.mp/94bdbb6fded3/cardamonchai">
+  <Box target="_blank" href="https://mailchi.mp/94bdbb6fded3/cardamonchai">
     <IconNewsletter />
     <Label>Newsletter</Label>
   </Box>
