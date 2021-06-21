@@ -12,7 +12,7 @@ labels:
 - English & German
 - Music
 language: en
-date: 2020-06-19T18:49:00+02:00
+date: 2020-06-19T18:49:00.000+02:00
 slug: it-was-a-good-dream-interview-en
 typeName: Interview
 title: It Was A Good Dream
@@ -24,7 +24,7 @@ description: One of my favorite post-rock records is "Help Me to Recollect" from
   Now I had the great chance to talk to Chris Anthony and Alex Glover from It Was
   A Good Dream about their music and creative process.
 excerpt: ''
-image: "/img/it-was-a-good-dream-fb.png"
+image: "/img/it-was-a-good-dream-1.jpeg"
 copyright: It Was A Good Dream
 ogImage: "/img/it-was-a-good-dream-fb-2.png"
 focusKeyword: It Was A Good Dream
