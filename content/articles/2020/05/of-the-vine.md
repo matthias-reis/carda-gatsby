@@ -22,9 +22,9 @@ description: Of the Vine is a post-rock band that I hold in high regard. Now I h
   the opportunity to interview guitarist Samuel Laubscher. He said that they are living
   their childhood dreams.
 excerpt: ''
-image: ''
+image: "/img/of-the-vine.jpeg"
 copyright: Of The Vine
-ogImage: ''
+ogImage: "/img/of-the-vine-fb.png"
 focusKeyword: Of The Vine
 advertisement: false
 affiliate: false
