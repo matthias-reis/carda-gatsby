@@ -1,29 +1,32 @@
 ---
-date: 2019-07-18T13:49:49.000Z
+date: 2019-07-18T13:49:49.000+00:00
 slug: sommer-mit-santaverde
-path: /2019/07/sommer-mit-santaverde/
+path: "/2019/07/sommer-mit-santaverde/"
 type: Artikel
 typeName: Produkttest & Verlosung
 title: Sommer mit Santaverde
 seoTitle: Sommer mit Santaverde - sanfte Pflege nach Wassersport und Sonnenbad
 ogTitle: Sommer mit Santaverde - sanfte Pflege nach Wassersport und Sonnenbad
-description: 'Vor Kurzem ging es für uns in den Süden: Strand, Wellen, Sonne und Sightseeing was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht fehlen.'
-excerpt: 'Werbung - Vor Kurzem ging es für uns in den Süden: Strand, Wellen, Sonne und Sightseeing was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht fehlen.'
+description: 'Vor Kurzem ging es für uns in den Süden: Strand, Wellen, Sonne und Sightseeing
+  was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht fehlen.'
+excerpt: 'Werbung - Vor Kurzem ging es für uns in den Süden: Strand, Wellen, Sonne
+  und Sightseeing was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht
+  fehlen.'
 fileName: 2019-07---sommer-mit-santaverde.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-5__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUD/8QAKxAAAgECBQMDAwUAAAAAAAAAAQIDBBEABQYSITFBgQciYRQVUUJxkaGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgQDBf/EACURAAIBAgQGAwAAAAAAAAAAAAECAAMEERIhQQUjMVFhkbHB0f/aAAwDAQACEQMRAD8AWIo1jyitqERdkMO4Ky7gQpHFu/H+4vUGkarPIqSlymGkhSnYyStuIA38q1jdmLDnxbEaUn7ZMlOAZpbKARcW6sfABON3QFbmEVdqBMsimSqFDDIFeEyF9jlRtU9/exPXqPxjh8LVKlPI/c/EnRuWU3JiRqbIarIM3qMqnK1E6FX3xj2uGFwTfp5/GK9RlxWKBKplo6YKLvLCzPJfqyqOoJvY3A+cPnq7R7vUajqSlonoEklVxxcXsD83I/jCXXTGWblzIx55JJJ89/6xjfhaFwUXXf3J10JJElHI2Yz0tNBwLOSx4G4IWA8hTjY0XqagyHUVRVZ21QaL6Z4SsYZyH3oQLA/BwYMOzc0lGXYxsoAV/J+v2cfUHV0Wps5SsoBOtI8KLCJQFbbz2BNrm55N+RjMpZRBEREgeqI9zn9PnoP3wYMS3JxdnPXWIDF5/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_07_VERLOSUNG2.png__l.jpg
 labels:
-  - After Sun
-  - after sun vegan
-  - Aloe Vera
-  - crueltyfree
-  - Fair Fashion & Beauty
-  - Gesichtspflege
-  - Santaverde
-  - Sommer
-  - vegan beauty
+- After Sun
+- after sun vegan
+- Aloe Vera
+- crueltyfree
+- Fair Fashion & Beauty
+- Gesichtspflege
+- Santaverde
+- Sommer
+- vegan beauty
 focusKeyword: Pflege
 status: publish
 isWerbung: false
@@ -31,10 +34,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Sanfte Pflege nach Sonnenbad und Wassersport
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Vor Kurzem ging es für uns in den sonnigen Süden: Strand, Wellen, Sonne und Sightseeing was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht fehlen.**
 
 ---
@@ -237,5 +239,3 @@ In Kürze zeige ich Euch hier im Blog, wo die Aloe Vera für die Santaverde Prod
 Auf der Seite von Santaverde findet Ihr unter anderem ein umfangreiches Inhaltsstofflexikon, das besonderes für Allergiker und empfindliche Hauttypen interessant ist. [Ihr findet es hier](http://www.santaverde.de/inhaltsstoffe).
 
 Wer gerne auch mal ein paar Produkte aus dem Hause Santaverde ausprobieren möchte, [findet hier eine Liste der Bezugsquellen](http://www.santaverde.de/bezugsquellen).
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
