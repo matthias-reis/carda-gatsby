@@ -28,7 +28,7 @@ labels:
 - Sonic Youth
 - Williamsburg
 language: en
-date: 2019-12-03T07:55:00+01:00
+date: 2019-12-03T07:55:00.000+01:00
 slug: shana-falana-interview-en
 typeName: Interview
 title: Interview With Shana Falana
@@ -48,7 +48,7 @@ affiliate: false
 languageLink: "/2019/12/shana-falana-interview"
 
 ---
-![](/img/shana-falana.jpeg)**Recently I discovered a musician that fascinates me a lot: Shana Falana. In the music list for December I presented her Shoegazer project to you. Now I have arranged an interview.**
+**Recently I discovered a musician that fascinates me a lot: Shana Falana. In the music list for December I presented her Shoegazer project to you. Now I have arranged an interview.**
 
 Shana is originally from San Francisco (not Brooklyn!). Meanwhile, she has settled in the New York district of Kingston. On October 25th she released her third studio album "Darkest Light" on Arrowhawk Records.
 
