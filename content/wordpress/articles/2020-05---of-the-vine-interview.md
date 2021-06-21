@@ -1,7 +1,7 @@
 ---
 date: 2020-05-28T13:17:45.000+02:00
 slug: of-the-vine-interview
-path: "/2020/05/of-the-vine/"
+path: "/2020/05/of-the-vine-interview/"
 type: Artikel
 typeName: Interview
 title: Of the Vine
