@@ -32,7 +32,7 @@ labels:
 - The Twilight Sad
 - Unwed Sailor
 language: en
-date: 2020-07-10T03:17:00+02:00
+date: 2020-07-10T03:17:00.000+02:00
 slug: of-the-vine-playlist-en
 typeName: ''
 title: A Special Playlist By Of the Vine
@@ -51,25 +51,17 @@ affiliate: false
 languageLink: "/2020/07/of-the-vine-playlist"
 
 ---
-![](/img/of-the-vine-facebook.png)![](/img/of-the-vine-1.jpeg)**Non-other than Of the Vine guitarist Samuel Laubscher has compiled a playlist for my blog. It is a great honor for me to present it to you today.**
+**Non-other than Of the Vine guitarist Samuel Laubscher has compiled a playlist for my blog. It is a great honour for me to present it to you today.**
 
-A few weeks ago I did  [an interview](/2020/05/of-the-vine/) with Sam. Our conversation and my questions about his musical roots and his favorite bands inspired him to create a list of songs that mean a lot to him.
+A few weeks ago I did [an interview](/2020/05/of-the-vine/) with Sam. Our conversation and my questions about his musical roots and his favourite bands inspired him to create a list of songs that mean a lot to him.
 
 These artists are highly appreciated by him and Of the Vine. Their art accompanies them every day. Even when he is writing new songs.
-
-<RemoteImage
-  alt={`Of The Vine Pin`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-pin__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-pin__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcDBQIEBv/EACoQAAIBAwMCBAcBAAAAAAAAAAECAwAEEQUSITFBBhNR4RQiQmFxgYLR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAHBEAAgEFAQAAAAAAAAAAAAAAAAFRAgMEERMS/9oADAMBAAIRAxEAPwBxReKLaQhXjkQnuMGpLrU7YgZlAz6gilS+vYRWSEDtlm5z/gqrvvE162PLlCc52KwrNZKgPJyMvUb21WUb54l/LUUiNU1O6uLov8VKpPJw5xRWiyHBOCkql8YWzHZumzvBAMfvU1zrMdxp1zeIZSsDor8D6unHWuUae2MChZZG4j2weWAIzn5iG/XXvuPpWUpurqCF71imnxMqSNFztJPUju3NBWaULZtHWbYk5Mh/j3oqmu5EaVltty2ysfLB649T9zRS8ouz/9k="
-/>
 
 From now on the stage is Sam's. Here are 13 songs from his record shelf. Exclusively for you guys.
 
 ## The Twilight Sad - "Reflection Of The Television" from the album "Forget The Night Ahead"
 
-The Twilight Sad has been probably one of my longest-running favorite artists. I saw them open for MONO back in 2010 and they absolutely blew me away. Terrifyingly loud guitars with Cosmic Music style drumming. I also love James' vocals - usually, artists try to hide their accent but he leans into the thick Scottish burr. <YouTube id="u5H07c8DlgI" />
+The Twilight Sad has been probably one of my longest-running favourite artists. I saw them open for MONO back in 2010 and they absolutely blew me away. Terrifyingly loud guitars with Cosmic Music style drumming. I also love James' vocals - usually, artists try to hide their accent but he leans into the thick Scottish burr. <YouTube id="u5H07c8DlgI" />
 
 ## Explosions In The Sky - "The Moon Is Down" from the album "Those Who Tell The Truth Shall Die, Those Who Tell The Truth Shall Live Forever"
 
@@ -93,7 +85,7 @@ For the more logic-driven among us, I highly recommend reading up on this moveme
 
 <YouTube id="mto84jhDyGk" />
 
-In our interview, I talked to Sam about the current Of the Vine Album "East The Water" and the band's development. You can  [read it here](/2020/05/of-the-vine/).
+In our interview, I talked to Sam about the current Of the Vine Album "East The Water" and the band's development. You can [read it here](/2020/05/of-the-vine/).
 
 ## Sam's playlist on Spotify
 
