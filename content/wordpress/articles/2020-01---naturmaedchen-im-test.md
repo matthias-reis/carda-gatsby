@@ -1,36 +1,38 @@
 ---
-date: 2020-01-08T19:08:10.000Z
+date: 2020-01-08T19:08:10.000+00:00
 slug: naturmaedchen-kosmetik
-path: /2020/01/naturmaedchen-kosmetik/
+path: "/2020/01/naturmaedchen-kosmetik/"
 type: Artikel
 typeName: Produkttest
 title: naturmädchen im Test
 seoTitle: Naturmädchen Kosmetik im Test - Mizellenwasser, Creme & Serum
 ogTitle: Naturmädchen Kosmetik im Test - Mizellenwasser, Creme & Serum
-description: Naturmädchen stellt Naturkosmetik für gestresste Haut her. Genau das Richtige für mich, dachte ich mir - die musste ich einfach testen.
-excerpt: Werbung & Affiliate Links - Naturmädchen stellt Naturkosmetik für gestresste Haut her. Genau das Richtige für mich, dachte ich mir - die musste ich einfach testen.
+description: Naturmädchen stellt Naturkosmetik für gestresste Haut her. Genau das
+  Richtige für mich, dachte ich mir - die musste ich einfach testen.
+excerpt: Werbung & Affiliate Links - Naturmädchen stellt Naturkosmetik für gestresste
+  Haut her. Genau das Richtige für mich, dachte ich mir - die musste ich einfach testen.
 fileName: 2020-01---naturmaedchen-im-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_naturkind-12__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_naturkind-12__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAgX/xAApEAABAwMDBAEEAwAAAAAAAAABAgMEAAURBhIhEzFBYSIHMkKRFMHR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQMAAv/EABsRAQADAAMBAAAAAAAAAAAAAAEAAhEDEiEx/9oADAMBAAIRAxEAPwCSs6bltq67TLMmKhClFDjgG3t8sEc4AP7rFs1L/PhM2OyMuRLk6+BHfWU9NKSckEckDv4NdHTuqJk6I/HXb2Qy6ypHUQ4QUEggE5489qadE/T2ypskO8KamIubCkHcXwtpajwcox29ZBrksPkqoe1ijq666n0S9Dg3c2qa+80XusElW9JUQB+ODwfFPN2siS1kIGSkKIA7ZAP91RJtpgrvMNmRDjyAI6UqzHQsBOScEKCuDntkVHp01QbD4KkuKbUQ8fgUub9o84Odu3n8Rnii9uuQry4PaKVitlxajKPUZylBICV5KyOwHv8A2rHpIuStIMW94x47ylpK8hQIAAJyR790UVgCUeMzZUI1uYt8TfcW4zynACnIKtqduNuTyPP7qH6ssMGNOW01JSqL92T955PGO3A24PrNFFDUfsKgmM//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel.png__l.jpg
 labels:
-  - Anti-Aging
-  - echte Naturkosmetik
-  - Fair Fashion & Beauty
-  - Hautpflege
-  - Hyaluron
-  - Naturkosmetik
-  - naturmädchen
-  - Orangenöl
-  - Pflege
-  - Pflegeroutine
-  - Rosacea
-  - vegan beauty
-  - vegane Kosmetik
-  - vegane Kosmetikprodukte
-  - veganes Hyaluron
-  - Wiesenschaumkraut
+- Anti-Aging
+- echte Naturkosmetik
+- Fair Fashion & Beauty
+- Hautpflege
+- Hyaluron
+- Naturkosmetik
+- naturmädchen
+- Orangenöl
+- Pflege
+- Pflegeroutine
+- Rosacea
+- vegan beauty
+- vegane Kosmetik
+- vegane Kosmetikprodukte
+- veganes Hyaluron
+- Wiesenschaumkraut
 focusKeyword: naturmädchen
 status: publish
 isWerbung: false
@@ -38,10 +40,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Mizellenwasser, Gesichtscreme und Serum
+advertisement: true
+affiliate: true
+
 ---
-
-_Werbung &amp; Affiliate Links\*_
-
 **Naturmädchen stellt Naturkosmetik für gestresste Haut her. Genau das Richtige für mich dachte ich mir - die musste ich einfach testen.**
 
 Im Winter ist meine Haut hungrig. Sie sehnt sich nach Feuchtigkeit und liebevoller Pflege. Die [Gesichtscreme](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-gesichtscreme-50ml-vegane-naturkosmetik%2F), das [Mizellenwasser](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-mizellenwasser-100ml-vegane-naturkosmetik%2F)  und das [Intensivserum](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-intensivserum-30ml-vegane-naturkosmetik%2F) für empfindliche Haut von naturmädchen versprechen, genau das zu geben.
@@ -109,5 +111,3 @@ Aqua, Glyceryl Stearate Citrate, Olus Oil, Cetearyl Alcohol, Mangifera Indica Se
 \*Natürlicher Bestandteil des ätherischen Orangenöls \*\*Aus kontrolliert biologischem Anbau [/grey]
 
 Hat Euch mein Produkttest gefallen? Wenn Ihr in Zukunft weiter mitlesen wollt, [abonniert am besten meinen Newsletter](#newsletter). Ich freue mich auf Euch!
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
