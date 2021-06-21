@@ -48,6 +48,7 @@ labels:
 - Sumac
 - The Twilight Sad
 - Unwed Sailor
+- Playlist
 focusKeyword: Of The Vine
 status: publish
 isWerbung: false
