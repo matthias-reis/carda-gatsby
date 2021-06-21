@@ -9,8 +9,8 @@ seoTitle: Mit Santaverde auf Reisen - Urlaubsbegleiter aus der Beauty-Ecke
 ogTitle: Mit Santaverde auf Reisen - Urlaubsbegleiter aus der Beauty-Ecke
 description: Wir gehen in Kürze wieder auf Reisen. Heute stelle ich Euch zwei meiner
   Urlaubsbegleiter vor. sie sind von Santaverde und besonders reizarm.
-excerpt: Werbung - Wir gehen in Kürze wieder auf Reisen. Heute stelle ich Euch zwei
-  meiner Urlaubsbegleiter vor. sie sind von Santaverde und besonders reizarm.
+excerpt: Wir gehen in Kürze wieder auf Reisen. Heute stelle ich Euch zwei meiner Urlaubsbegleiter
+  vor. sie sind von Santaverde und besonders reizarm.
 fileName: 2018-06---mit-santaverde-auf-reisen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_28936663148_eddc48a424_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_28936663148_eddc48a424_z__l.jpg

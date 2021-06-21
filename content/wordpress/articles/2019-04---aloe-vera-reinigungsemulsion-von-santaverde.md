@@ -9,8 +9,8 @@ seoTitle: Aloe Vera Reinigungsemulsion von Santaverde - Beauty-Liebling
 ogTitle: Aloe Vera Reinigungsemulsion von Santaverde - Beauty-Liebling
 description: Heute stelle ich Euch die Aloe Vera Reinigungsemulsion von Santaverde
   vor - sie hat die Bezeichnung "Beauty-Liebling" wirklich verdient.
-excerpt: Werbung - Heute stelle ich Euch die Aloe Vera Reinigungsemulsion von Santaverde
-  vor - sie hat die Bezeichnung "Beauty-Liebling" wirklich verdient.
+excerpt: Heute stelle ich Euch die Aloe Vera Reinigungsemulsion von Santaverde vor
+  - sie hat die Bezeichnung "Beauty-Liebling" wirklich verdient.
 fileName: 2019-04---aloe-vera-reinigungsemulsion-von-santaverde.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde__l.jpg
@@ -107,4 +107,3 @@ Wer gerne auch mal ein paar Produkte aus dem Hause Santaverde ausprobieren möch
     },
   ]}
 />
-

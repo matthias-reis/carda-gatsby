@@ -11,8 +11,8 @@ ogTitle: Santaverde Naturkosmetik - Zertifizierte vegane Schönheitspflege auf A
   Vera Basis
 description: Santaverde bietet Naturkosmetik auf Basis wertvoller Aloe Vera. Ich habe
   die Produkte jetzt genau untersucht und ausprobiert. Hier ist mein Testbericht.
-excerpt: Werbung - Santaverde bietet Naturkosmetik auf Basis wertvoller Aloe Vera.
-  Ich habe die Produkte jetzt genau untersucht und ausprobiert. Hier ist mein Testbericht.
+excerpt: Santaverde bietet Naturkosmetik auf Basis wertvoller Aloe Vera. Ich habe
+  die Produkte jetzt genau untersucht und ausprobiert. Hier ist mein Testbericht.
 fileName: 2018-01---santaverde-naturkosmetik.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-8__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-8__l.jpg

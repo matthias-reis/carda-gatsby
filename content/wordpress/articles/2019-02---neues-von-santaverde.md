@@ -10,8 +10,8 @@ ogTitle: Neues von Santaverde - pure Naturkosmetik gegen unreine Haut
 description: Der Frühling ist da. Frische Blüten knospen auf, es duftet, die Sonne
   scheint und es gibt was Neues von Santaverde - pure Naturkosmetik gegen unreine
   Haut
-excerpt: Werbung - Der Frühling ist da. Frische Blüten knospen auf, es duftet, die
-  Sonne scheint und es gibt was Neues von Santaverde!
+excerpt: Der Frühling ist da. Frische Blüten knospen auf, es duftet, die Sonne scheint
+  und es gibt was Neues von Santaverde!
 fileName: 2019-02---neues-von-santaverde.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure__l.jpg
