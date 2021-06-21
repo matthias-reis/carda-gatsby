@@ -1,40 +1,42 @@
 ---
-date: 2018-02-19T17:24:15.000Z
+date: 2018-02-19T17:24:15.000+00:00
 slug: samova
-path: /2018/02/samova/
+path: "/2018/02/samova/"
 type: Artikel
 typeName: Produkttest
 title: Samova im Test
 seoTitle: Samova - Nachhaltiger Tee aus Hamburg - Teetesterin für eine Woche
 ogTitle: Samova - Nachhaltiger Tee aus Hamburg - Teetesterin für eine Woche
-description: Vor Kurzem erreichte mich ein tolles Testpaket mit unzähligen Teesorten von Samova aus Hamburg. Gerade im richtigen Moment!
-excerpt: Werbung - Vor Kurzem erreichte mich ein tolles Testpaket mit unzähligen Teesorten von Samova aus Hamburg. Gerade im richtigen Moment!
+description: Vor Kurzem erreichte mich ein tolles Testpaket mit unzähligen Teesorten
+  von Samova aus Hamburg. Gerade im richtigen Moment!
+excerpt: Werbung - Vor Kurzem erreichte mich ein tolles Testpaket mit unzähligen Teesorten
+  von Samova aus Hamburg. Gerade im richtigen Moment!
 fileName: 2018-02---samova-im-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25408637847_9cf3279cee_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25408637847_9cf3279cee_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBwID/8QAJRAAAgEDBAICAwEAAAAAAAAAAQIDAAQRBRIhMQZRIkETFBZx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIAAwT/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIRBDEDEyH/2gAMAwEAAhEDEQA/AJmG5RVDbhWl2Lxtoam7fSLi6ZSDC7IrEjgcn32eOfqsGa/cssajJb4jJ98Vdap4ZrN3rcl9FplskbTwTFS0BcGIAYDbsgHHqhSk/SQO77U45ruWUpFES2CkWNoxxxjj6pV7+E5UMM491KavcSafql3Z3IWKSGVlZQ4O05JxkcHulf3t6DaRx3g0bEZ6QwKzBjgMhDAgeuarriKwupJLiSO+DSsZCFu8AFjnA+HXNFFJJJ7NOPmc2K30yq9in97e6LcTKtpaPDLIWUrGqSqOgGfB3ddkUhrHlr+QWwtpbCBWB3fncK0v+Bgq0UUUiiU29n//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2018_02_26407461098_b661824ced_z__l.jpg
 labels:
-  - bio degredable
-  - Çay
-  - Chai
-  - Cocktail
-  - Ernährung
-  - Ernährung & Gesundheit
-  - Esin Rager
-  - Gin Sul
-  - Hamburg
-  - Hamburg
-  - kompostierbar
-  - Nachhaltigkeit
-  - Samova
-  - Tea
-  - Tee
-  - Tee kochen
-  - Tee testen
-  - Teebeutel
-  - vegan
-  - vegane Ernährung
+- bio degredable
+- Çay
+- Chai
+- Cocktail
+- Ernährung
+- Ernährung & Gesundheit
+- Esin Rager
+- Gin Sul
+- Hamburg
+- Hamburg
+- kompostierbar
+- Nachhaltigkeit
+- Samova
+- Tea
+- Tee
+- Tee kochen
+- Tee testen
+- Teebeutel
+- vegan
+- vegane Ernährung
 focusKeyword: Samova
 status: publish
 isWerbung: false
@@ -42,10 +44,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Nachhaltiger Tee aus Hamburg
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Vor Kurzem erreichte mich ein tolles Testpaket mit unzähligen Teesorten von Samova aus Hamburg. Gerade im richtigen Moment, denn: Die Erkältung hatte gerade voll zugeschlagen.**
 
 Tees in allen vorstellbaren Geschmacksrichtungen: Genau das Richtige, wenn man vom Doc Bettruhe verordnet bekommen hat und höchstens alle paar Stunden mit schwerem Kopf in die Küche stapft. So wird man also zur Teetesterin für eine Woche.
@@ -214,14 +215,3 @@ Zur Homepage von Samova geht es [hier entlang](https://www.samova.net/).
   ]}
 />
 
-## Wegweiser Tee
-
-1.  [Grüner Tee in hohen Dosen - Tigovit Produkttest 03.02.2017](/2017/02/tigovit-gruener-tee-in-hohen-dosen/)
-1.  [Wie sich zwei Tee-Tanten fanden 06.02.2017](/2017/02/latte-macchiato-muttis/)
-1.  [Tigovit Gründerin Tanja Hohenester im Interview 06.03.2017](/2017/03/tigovit-interview/)
-1.  [Smecket Tee Produkttest 14.04.2017](/2017/04/smecket-tee/)
-1.  [Daniel Weiss von Smecket im Interview 10.05.2017](/2017/05/interview-mit-daniel-weiss-von-smecket/)
-1.  [Ashéra Gründerin Jacqueline Heimgärtner im Interview 02.02.2018](/2018/02/ashera-interview/)
-1.  Samova - Nachhaltiger Tee aus Hamburg 19.02.2017
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
