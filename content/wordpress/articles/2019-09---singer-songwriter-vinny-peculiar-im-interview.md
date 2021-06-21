@@ -39,6 +39,7 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Die Menschen sind frustriert und wütend"'
+languageLink: "/2019/09/vinny-peculiar-interview-en"
 
 ---
 **Ich habe mich mit Singer-Songwriter Vinny Peculiar über sein neues Album "While You Still Can" unterhalten, das bald erscheinen wird.**
