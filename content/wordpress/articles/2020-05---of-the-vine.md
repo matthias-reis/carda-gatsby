@@ -1,5 +1,5 @@
 ---
-date: 2020-05-28T13:17:45+02:00
+date: 2020-05-28T13:17:45.000+02:00
 slug: of-the-vine
 path: "/2020/05/of-the-vine/"
 type: Artikel
@@ -155,18 +155,4 @@ Die DIY-Musikszene ist es, die uns und all unsere Freunde in dieser Art Bands ge
 **Sam:** Danke schön!
 
 Klickt Euch bald wieder rein! In Kürze erscheint hier im Blog die exklusiv von Of the Vine zusammengestellte Playlist!
-
-## "Left Alone" von Of the Vine bei Spotify
-
-<YouTube id="album/3IfT47HcP3gyNhy7JeVeFc" />
-
-## "Left Alone" von Of the Vine bei iTunes
-
-<iframe
-  style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;"
-  src="https://embed.music.apple.com/de/album/left-alone/1512582243"
-  height="450"
-  frameborder="0"
-  sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-></iframe>
 

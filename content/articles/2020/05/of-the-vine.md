@@ -11,7 +11,7 @@ labels:
 - DUNK!records
 - English & German
 language: en
-date: 2020-05-28T01:17:00+02:00
+date: 2020-05-28T01:17:00.000+02:00
 slug: of-the-vine-en
 typeName: Interview
 title: Of The Vine
@@ -148,18 +148,4 @@ The DIY music scene is really what helped shape us, though, and all the friends 
 **Sam:** Thank you!
 
 Tune in again, soon! I will publish Of the Vine's playlist within the next few days!
-
-## "Left Alone" on Spotify
-
-<YouTube id="album/3IfT47HcP3gyNhy7JeVeFc" />
-
-## "Left Alone" on iTunes
-
-<iframe
-  style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;"
-  src="https://embed.music.apple.com/de/album/left-alone/1512582243"
-  height="450"
-  frameborder="0"
-  sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-></iframe>
 
