@@ -6,12 +6,10 @@ import { Header } from './header';
 import { CookieConsent } from './cookie-consent';
 import { Analytics } from './analytics';
 import { SearchProvider } from './search-provider';
+import { AdminBar } from './admin-bar';
 
-import { space, font, line, color } from '../style';
+import { space, font, line, color, fontSize } from '../style';
 import { Helmet } from 'react-helmet';
-
-// const FONT_IMPORT =
-//   'https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Raleway:ital,wght@0,300;0,700;1,300;1,700&display=swap';
 
 const FONT_IMPORT =
   'https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Source+Sans+Pro:ital,wght@0,300;0,700;1,300;1,700&display=swap';
@@ -44,6 +42,25 @@ export const Frame: React.FC = ({ children }) => {
             em {
               font-style: normal;
               color: ${color.text10};
+            }
+            .footnotes ol:before {
+              display: block;
+              content: 'Fußnoten:';
+            }
+
+            .footnotes ol a:last-child {
+              text-decoration: none;
+              display: inline-block;
+              color: ${color.green10};
+              font-size: ${fontSize[2]};
+              margin-left: ${space[2]};
+              &:before {
+                content: 'zurück';
+                margin-right: ${space[0]};
+              }
+              &:hover {
+                color: ${color.green30};
+              }
             }
           `}
         />
@@ -117,6 +134,7 @@ export const Frame: React.FC = ({ children }) => {
           />
         </Helmet>
         <ContentContainer>{children}</ContentContainer>
+        <AdminBar />
       </PageContainer>
     </SearchProvider>
   );
