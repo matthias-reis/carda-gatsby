@@ -213,7 +213,7 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 
 **Anne:** Vervollständige diesen Satz "Es beflügelt mich, wenn ich..."
 
-**Daniel:** …meine Familie um mich habe.
+**Daniel:** ...meine Familie um mich habe.
 
 **Anne:** Woran arbeitest Du gerade? Wird es bald eine neue Sorte geben?
 
