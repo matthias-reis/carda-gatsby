@@ -1,6 +1,6 @@
 ---
 date: 2020-06-05T08:41:25+02:00
-slug: pray-for-sound
+slug: pray-for-sound-interview
 path: "/2020/06/pray-for-sound/"
 type: Artikel
 typeName: Interview
@@ -44,7 +44,7 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Diese Songs sind wie Therapie"'
-languageLink: "/2020/06/pray-for-sound-en"
+languageLink: "/2020/06/pray-for-sound-interview-en"
 
 ---
 **Heute habe ich ein ganz besonders Interview für Euch vorbereitet. Niemand Geringeres, als die wunderbare Post-Rock Band Pray For Sound hat sich meinen Fragen gestellt.**

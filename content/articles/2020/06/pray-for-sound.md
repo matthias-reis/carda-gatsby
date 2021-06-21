@@ -20,7 +20,7 @@ labels:
 - Voyager
 language: en
 date: 2020-06-05T20:41:00+02:00
-slug: pray-for-sound-en
+slug: pray-for-sound-interview-en
 typeName: Interview
 title: Pray For Sound
 subTitle: '"These Songs are like a Therapy"'
@@ -35,7 +35,7 @@ ogImage: "/img/pray-for-sound-fb-1.png"
 focusKeyword: Pray For Sound
 advertisement: false
 affiliate: false
-languageLink: "/2020/06/pray-for-sound"
+languageLink: "/2020/06/pray-for-sound-interview"
 
 ---
 **Today I have prepared a very special interview for you. None other than the wonderful post-rock band Pray for Sound answered my questions.**
