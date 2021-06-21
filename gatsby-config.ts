@@ -188,7 +188,6 @@ ${
       },
     },
     `gatsby-plugin-emotion`,
-    'gatsby-plugin-netlify', // make sure to keep it last in the array
     {
       resolve: `gatsby-plugin-algolia`,
       options: {
@@ -197,5 +196,6 @@ ${
         queries: require('./src/gatsby/algolia'),
       },
     },
+    { resolve: 'gatsby-plugin-netlify-cms' },
   ],
 };

@@ -1,12 +1,11 @@
 import * as React from 'react';
 import { graphql } from 'gatsby';
 import { Frame } from '../components/frame';
+import { isProduction } from '../is-production';
 import { ErrorBoundary } from '../components/error-boundary';
 import { HomePage } from '../components/home-page';
 import { ListQuery, Article, CompactArticle } from '../types';
 import { toCompactArticle } from '../to-compact-article';
-
-const isProduction = process.env.NODE_ENV === 'production';
 
 const HomePageController: React.FC<{ data: ListQuery }> = ({ data }) => {
   const rawArticles: { node: Article }[] = data?.allMdx.edges ?? [];

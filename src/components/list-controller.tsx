@@ -5,13 +5,12 @@ import { Article, Category, CompactArticle, ListQuery } from '../types';
 import { Frame } from './frame';
 import { ErrorBoundary } from './error-boundary';
 import ListPage from './list-page';
+import { isProduction } from '../is-production';
 import { FooterNavigation } from './footer-navigation';
 import { toCompactArticle } from '../to-compact-article';
 import { slugify } from '../gatsby/slugify';
 
 const getExtract = pick(['title', 'slug']);
-
-const isProduction = process.env.NODE_ENV === 'production';
 
 const ListController: React.FC<{
   data: ListQuery;
