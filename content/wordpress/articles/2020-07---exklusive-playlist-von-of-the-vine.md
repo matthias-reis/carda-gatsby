@@ -36,7 +36,6 @@ labels:
 - Merigold Independent
 - Merigold Records
 - Mogwai
-- Musik Playlist
 - Nick Yacyshyn
 - Of the Vine
 - Phoebe Bridgers
