@@ -1,26 +1,28 @@
 ---
-date: 2019-12-01T17:01:13.000Z
+date: 2019-12-01T17:01:13.000+00:00
 slug: pflege-set-zum-kennenlernen-santaverde-geschenktipp
-path: /2019/12/pflege-set-zum-kennenlernen-santaverde-geschenktipp/
+path: "/2019/12/pflege-set-zum-kennenlernen-santaverde-geschenktipp/"
 type: Artikel
 typeName: Produkttest
 title: Pflege-Set zum Kennenlernen von Santaverde
 seoTitle: Pflege-Set zum Kennenlernen von Santaverde - veganer Geschenktipp
 ogTitle: Pflege-Set zum Kennenlernen von Santaverde - veganer Geschenktipp
-description: Weihnachten steht vor der Tür - das Santaverde Pflegeset zum Kennenlernen ist eine schöne Geschenk-Idee für alle Vegan Beauties.
-excerpt: Werbung - Weihnachten steht vor der Tür - das Santaverde Pflegeset zum Kennenlernen ist eine schöne Geschenk-Idee für alle Vegan Beauties.
+description: Weihnachten steht vor der Tür - das Santaverde Pflegeset zum Kennenlernen
+  ist eine schöne Geschenk-Idee für alle Vegan Beauties.
+excerpt: Werbung - Weihnachten steht vor der Tür - das Santaverde Pflegeset zum Kennenlernen
+  ist eine schöne Geschenk-Idee für alle Vegan Beauties.
 fileName: 2019-12---pflege-set-zum-kennenlernen-von-santaverde.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-santaverde-5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-santaverde-5__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBwgD/8QAKxAAAgIBAwMCBAcAAAAAAAAAAQIDBBEABTEGEiEHQRMiUWEVFjJCgZGx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAgEQACAgEEAwEAAAAAAAAAAAABAgADEQQTISISMUFh/9oADAMBAAIRAxEAPwCnti6cSfqSjt4hFazanSJSzM4UN+4gcgfbTifT036Kzpv6qmJGCGsXc4OGC4fnI/zUb0y3kzdcdNwMUhgNpCY4yMN2oft9voB76tijS2mnXpMN/qRrUaVrAMMuU73ycHg4yDxrO0ybna0cyxaUaw+B4/ZVkPp5UqWvwmPfrJuPMka2FreImLDAHz8DJB/nSDuNx4jYQKFeMyR5mlLHuJIbGT4zjjWg9vo9Nw3I7cG+R3bcNqKZEVZQHUP5z3DnPb7486z5vdWrX6l3cyxSTtFenBj7u3iRvIz49hp11K4DfYFnfHbAnTYdxl2Xc6W6sFmkrMXSD4hLtlCOQPl/Vn3401y+oNuzBLC2xvHFOy94l3FzlhnAOFGAc540aNJ3mrHENSApGJHh67kp1pm/L9fAYLkXZe4EMG+nGQP60n7luz3r9q28UVeSzNJO+T4BZiTjPkjzo0aeLC6gmR9AT//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-10.png__l.jpg
 labels:
-  - Aloe Vera
-  - Fair Fashion & Beauty
-  - Santaverde
-  - vegan beauty
-  - vegane Pflege
-  - Wellness
+- Aloe Vera
+- Fair Fashion & Beauty
+- Santaverde
+- vegan beauty
+- vegane Pflege
+- Wellness
 focusKeyword: Santaverde
 status: publish
 isWerbung: false
@@ -28,10 +30,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Vegane Geschenkidee
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Weihnachten steht vor der Tür. So langsam wird es Zeit, sich Gedanken über die passenden Geschenke zu machen. Das Santaverde Pflegeset zum Kennenlernen ist eine schöne Idee für alle Vegan Beauties.**
 
 Oder vielleicht habt Ihr ja auch Lust, jemand ganz besonderes von toller veganer Naturkosmetik zu überzeugen? Auch dann bietet sich das Kennenlern-Set an.
@@ -81,5 +82,3 @@ Neben feuchtigkeitsspendendem Aloe Vera Saft und Hyaluron stecken im Hydro Repai
 Wer jetzt neugierig geworden ist: Alles über Santaverde könnt Ihr [hier im Blog erfahren](/tag/santaverde/). Die Santaverde Produkte findet Ihr in autorisierten Reformhäusern, Biomärkten sowie verschiedenen Apotheken, Parfümerien und direkt auf [santaverde.de](https://www.santaverde.de/).
 
 Hat Euch mein Geschenktipp gefallen? Das freut mich! Lest gerne auch meine weiteren Artikel zum Thema Santaverde. Wenn Ihr ihn Zukunft nichts mehr auf meiner Seite verpassen möchtet, [abonniert am besten meinen Newsletter](#newsletter). Ich freue mich auf Euch!
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

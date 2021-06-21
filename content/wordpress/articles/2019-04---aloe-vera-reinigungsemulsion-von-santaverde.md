@@ -1,33 +1,35 @@
 ---
-date: 2019-04-05T09:41:40.000Z
+date: 2019-04-05T09:41:40.000+00:00
 slug: santaverde-aloe-vera-reinigungsemulsion
-path: /2019/04/santaverde-aloe-vera-reinigungsemulsion/
+path: "/2019/04/santaverde-aloe-vera-reinigungsemulsion/"
 type: Artikel
 typeName: Produkttest
 title: Aloe Vera Reinigungsemulsion von Santaverde
 seoTitle: Aloe Vera Reinigungsemulsion von Santaverde - Beauty-Liebling
 ogTitle: Aloe Vera Reinigungsemulsion von Santaverde - Beauty-Liebling
-description: Heute stelle ich Euch die Aloe Vera Reinigungsemulsion von Santaverde vor - sie hat die Bezeichnung "Beauty-Liebling" wirklich verdient.
-excerpt: Werbung - Heute stelle ich Euch die Aloe Vera Reinigungsemulsion von Santaverde vor - sie hat die Bezeichnung "Beauty-Liebling" wirklich verdient.
+description: Heute stelle ich Euch die Aloe Vera Reinigungsemulsion von Santaverde
+  vor - sie hat die Bezeichnung "Beauty-Liebling" wirklich verdient.
+excerpt: Werbung - Heute stelle ich Euch die Aloe Vera Reinigungsemulsion von Santaverde
+  vor - sie hat die Bezeichnung "Beauty-Liebling" wirklich verdient.
 fileName: 2019-04---aloe-vera-reinigungsemulsion-von-santaverde.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgIDB//EACoQAAEEAQMDAwMFAAAAAAAAAAECAwQRBQASIQYxQQciYRMUUXGBobHR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwUCBAb/xAAhEQACAQMDBQAAAAAAAAAAAAABAgADERIEITEFEyJx0f/aAAwDAQACEQMRAD8AUbhJDUZRHLUjYT8KBT/mrt0Nh8fPhOPORIqpTD6mXHFMhaqICk9+BwSP21WEWYKy4UIUQ25RUBSklJP9HU76d5NDPUWVhIebLbzIe9yTVoV2HztX/GhJbLeExJUkTnWds9d5iMNrj7s3c23RBIUUpoVwKA80NRWRkMGI5SGYbjyCpxSiUchexICiSFqoWarv+mnupWkSPUufvlFpO9DyUKRbavYTauQfGqhkZciNj24zUh4Bnem7FEK7gJN121RYnuHePKXS9ZUpLWRPC3Nx99zd1Lm4uUzbEXFyNgS+pLqr2AeTRvgElXOscz1dIhmDIZkLbl19wQ06UlR7c1f4J+QfHbRo0fG7xG+z4xTI9UuZTqpM92K3FLkdCfpIWVV7SRZPmlajspJBbUb8aNGoMoyBm00dd10bIOAZ/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde-4__l.jpg
 labels:
-  - Aloe Vera
-  - Aloe Vera Reinigungsemulsion
-  - Andalusien
-  - Cruelty Free
-  - Fair Fashion & Beauty
-  - Finka Verde
-  - Hamburg
-  - Leaping Bunny
-  - Reinigungsemulsion
-  - Santaverde
-  - vegan
-  - vegan beauty
-  - vegana Kosmetik
+- Aloe Vera
+- Aloe Vera Reinigungsemulsion
+- Andalusien
+- Cruelty Free
+- Fair Fashion & Beauty
+- Finka Verde
+- Hamburg
+- Leaping Bunny
+- Reinigungsemulsion
+- Santaverde
+- vegan
+- vegan beauty
+- vegana Kosmetik
 focusKeyword: Aloe Vera Reinigungsemulsion
 status: publish
 isWerbung: false
@@ -35,10 +37,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Beauty-Liebling für frische Gesichtshaut
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Meine treuen Leser\*innen wissen, dass ich die Produkte von Santaverde seit langer Zeit nutze und schätze. Heute stelle ich Euch einen meiner absoluten All Time Favourites vor: Die Aloe Vera Reinigungsemulsion hat die Bezeichnung "Beauty-Liebing" definitiv verdient.**
 
 Was ich daran so besonders toll finde? Ich brauche keine zusätzlichen Reinigungsprodukte wie Abschminktücher oder Augen-Make-up-Entferner mehr. Das spart Zeit und Geld und sorgt dafür, dass im Bad weniger Müll anfällt. Ich trage die Emulsion einfach mit den Händen auf das Gesicht auf und nehme sie mit einem Waschlappen und etwas lauwarmem Wasser wieder ab - fertig. Mein Make-up ist danach komplett verschwunden, die Haut fühlt sich frisch an und ist gut auf die anschließende Pflege vorbereitet.
@@ -107,4 +108,3 @@ Wer gerne auch mal ein paar Produkte aus dem Hause Santaverde ausprobieren möch
   ]}
 />
 
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

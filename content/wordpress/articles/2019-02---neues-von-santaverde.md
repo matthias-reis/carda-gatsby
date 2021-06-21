@@ -1,36 +1,39 @@
 ---
-date: 2019-02-27T16:32:04.000Z
+date: 2019-02-27T16:32:04.000+00:00
 slug: santaverde-pure
-path: /2019/02/santaverde-pure/
+path: "/2019/02/santaverde-pure/"
 type: Artikel
 typeName: Produkttest
 title: Neues von Santaverde
 seoTitle: Neues von Santaverde - pure Naturkosmetik gegen unreine Haut
 ogTitle: Neues von Santaverde - pure Naturkosmetik gegen unreine Haut
-description: Der Frühling ist da. Frische Blüten knospen auf, es duftet, die Sonne scheint und es gibt was Neues von Santaverde - pure Naturkosmetik gegen unreine Haut
-excerpt: Werbung - Der Frühling ist da. Frische Blüten knospen auf, es duftet, die Sonne scheint und es gibt was Neues von Santaverde!
+description: Der Frühling ist da. Frische Blüten knospen auf, es duftet, die Sonne
+  scheint und es gibt was Neues von Santaverde - pure Naturkosmetik gegen unreine
+  Haut
+excerpt: Werbung - Der Frühling ist da. Frische Blüten knospen auf, es duftet, die
+  Sonne scheint und es gibt was Neues von Santaverde!
 fileName: 2019-02---neues-von-santaverde.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAFB//EACcQAAIBAwMDBAMBAAAAAAAAAAECAwQFEQAGEgchMRMiQVEjQvBx/8QAFgEBAQEAAAAAAAAAAAAAAAAABQIG/8QAJhEAAQQBAgQHAAAAAAAAAAAAAQACAxExBCEGwdHxEiJBYYGRof/aAAwDAQACEQMRAD8A19+2UXXbEk7kQ3Ohj/CsKB2liB9wkI/VRk/YwdKrIouljoa71wGliHICMZJAwTk+DyB1nU1ypoaCKSCKZZ443Esz44AcTnsPvv3PwNY/Ru+RSbZrKCqk4y0FSy5lbHtcBh5wfJbWA4cfJboyLA59v1J6mNkb7wT8Y7pPtmkjXcF7hkmmmaeYriSfiiAAAAKAAcnzk5+tcW6rx33bW4J5au2erS1DvO0hiBQ+4d0K9lx8EHPfuPOUt43JU0O6r9SLFyiNerllPuA4qQcfOOR0I6hbhe+UwoaC5PPC59Qq5BDOHIBX6UgD6PnOdI6WGVurcJRbT7mgPrKV0xYWuMLvMRWN9vS+iLXDdNTcbdHSXyd2WLIWohyrkMACr4xyH93096E3CSh3VuC1NI8iRx/jck+EcgD/ADDDVq0/DBHGKYKG/LqgZCfFZR7qjfq+g31XRW+ZYXnMbFgoJwyrjyOxyPI+NYcMa0yvJMiNKfBxn+76tWqfG1tUMqHyOxa//9k=
-ogImage: null
+ogImage: 
 labels:
-  - Aloe Vera
-  - der Duft der Orangen
-  - Fair Fashion & Beauty
-  - Finca Verde
-  - Naturkosmetik
-  - Pure Anti-Spot Gel
-  - Pure Purifying Cleanser
-  - Rosacea
-  - Rosacea loswerden
-  - Rosazea
-  - Rosazea loswerden
-  - Santaverde
-  - unreine Haut
-  - vegan beauty
-  - vegane Naturkosmetik
-  - vegane Pflege bei Rosacea
+- Aloe Vera
+- der Duft der Orangen
+- Fair Fashion & Beauty
+- Finca Verde
+- Naturkosmetik
+- Pure Anti-Spot Gel
+- Pure Purifying Cleanser
+- Rosacea
+- Rosacea loswerden
+- Rosazea
+- Rosazea loswerden
+- Santaverde
+- unreine Haut
+- vegan beauty
+- vegane Naturkosmetik
+- vegane Pflege bei Rosacea
 focusKeyword: Santaverde
 status: publish
 isWerbung: false
@@ -38,10 +41,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Pure Naturkosmetik für klare Haut
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Der Frühling ist da. Frische Blüten knospen auf, es duftet, die Sonne scheint und es gibt was Neues von Santaverde!**
 
 Die Pure-Serie hatte ich hier im Blog schon mal kurz vorgestellt. Neben den schon bekannten Produkten (Toner, Fluid und Serum) gibt es jetzt auch ein Anti-Pickel-Gel und ein Reinigungsgel. Beides habe ich selbstverständlich gleich mal getestet.
@@ -115,5 +117,3 @@ Wer die Unterschiede zwischen Naturkosmetik, Biokosmetik und veganer Kosmetik ge
 Herzlichen Dank an Caro von Santaverde, die mir die Produkte zur Verfügung gestellt hat und immer ein offenes Ohr für mich hat, wenn ich Fragen zum Thema Hautpflege habe. [Hier geht es zur Homepage von Santaverde](https://www.santaverde.de/).
 
 <Gallery name="20190227santaverde" />
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
