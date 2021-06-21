@@ -44,12 +44,18 @@ const Item = styled.a`
   }
 `;
 
-const Info = styled.div`
+const Info = styled.a`
+  display: block;
   position: absolute;
   right: ${space[3]};
   bottom: ${space[0]};
   font-size: ${fontSize[2]};
   color: #fff4;
+  text-decoration: none;
+
+  &:hover {
+    color: #fff;
+  }
 `;
 
 export const AdminBar: React.FC = () => {
@@ -80,7 +86,9 @@ export const AdminBar: React.FC = () => {
           Beitrag bearbeiten
         </Item>
         <Item onClick={handleDeploymentClick}>☠️ Deployment</Item>
-        <Info>Version von {moment(data.site.buildTime).fromNow()}</Info>
+        <Info href="https://www.gatsbyjs.com/dashboard/19505d43-7169-4abd-b5f2-068de380c0df/sites/6c68703c-0aec-403b-acf5-e2b810e68344/deploys">
+          Version von {moment(data.site.buildTime).fromNow()}
+        </Info>
       </Container>
     )
   );
