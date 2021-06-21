@@ -10,6 +10,8 @@ labels:
 - DUNK!festival
 - DUNK!records
 - English & German
+- Dunk Festival
+- Dunk Records
 language: en
 date: 2020-05-28T01:17:00.000+02:00
 slug: of-the-vine-en
@@ -28,7 +30,7 @@ ogImage: "/img/of-the-vine-fb.png"
 focusKeyword: Of The Vine
 advertisement: false
 affiliate: false
-languageLink: "/2020/05/of-the-vine"
+languageLink: "/2020/05/of-the-vine-interview"
 
 ---
 **Of the Vine are a post-rock band I hold in high regard. Now I had the opportunity to interview guitarist Samuel Laubscher.**

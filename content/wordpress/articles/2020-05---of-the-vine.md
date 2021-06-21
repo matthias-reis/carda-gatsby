@@ -1,6 +1,6 @@
 ---
 date: 2020-05-28T13:17:45.000+02:00
-slug: of-the-vine
+slug: of-the-vine-interview
 path: "/2020/05/of-the-vine/"
 type: Artikel
 typeName: Interview
@@ -35,7 +35,7 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Auf der Bühne leben wir unsere Kindheitsträume"'
-languageLink: "/2020/05/of-the-vine-en"
+languageLink: "/2020/05/of-the-vine-interview-en"
 
 ---
 **Of the Vine sind eine von mir hoch geschätzte Post-Rock Band. Ich hatte jetzt die Gelegenheit, Gitarrist Samuel Laubscher zu interviewen.**
