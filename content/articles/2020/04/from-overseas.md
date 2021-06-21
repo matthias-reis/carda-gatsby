@@ -1,45 +1,43 @@
 ---
 labels:
-- From Overseas
-- Interview
-- Interviews
-- Bands
-- Kévin Séry
-- La Réunion
-- Post-Rock
-- Ambient
-- Bandcamp
-- Bantustans
-- Death Valley Ralley
-- English & German
-- Juno Records
-- Long Division
-- Maloya
-- Past Inside The Present
-- Shoegaze
-- Studio Schwebung
-- You're Jovian
+  - From Overseas
+  - Interview
+  - Interviews
+  - Bands
+  - Kévin Séry
+  - La Réunion
+  - Post-Rock
+  - Ambient
+  - Bandcamp
+  - Bantustans
+  - Death Valley Ralley
+  - English & German
+  - Juno Records
+  - Long Division
+  - Maloya
+  - Past Inside The Present
+  - Shoegaze
+  - Studio Schwebung
+  - You're Jovian
 language: en
-date: 
+date: 2020-04-05T14:07:09+02:00
 slug: from-overseas-interview-en
 typeName: Interview
 title: From Overseas
 subTitle: Post-Rock From La Réunion
 seoTitle: From Overseas – Post-Rock From La Réunion
 ogTitle: ''
-description: From Overseas - what a beautiful name for a music project. Musician Kévin
-  Séry is originally from the French overseas territory La Réunion. With his guitar
-  and his sophisticated loop techniques, he creates a magical sound.
+description: From Overseas - what a beautiful name for a music project. Musician Kévin Séry is originally from the French overseas territory La Réunion. With his guitar and his sophisticated loop techniques, he creates a magical sound.
 excerpt: ''
-image: "/img/from-overseas-5.jpeg"
+image: '/img/from-overseas-5.jpeg'
 copyright: From Overseas
-ogImage: "/img/from-overseas-fb-1.png"
+ogImage: '/img/from-overseas-fb-1.png'
 focusKeyword: From Overseas
 advertisement: false
 affiliate: false
-languageLink: "/2020/04/from-overseas-interview"
-
+languageLink: '/2020/04/from-overseas-interview'
 ---
+
 **From Overseas - what a beautiful name for a music project. Musician Kévin Séry is originally from the French overseas territory La Réunion. With his guitar and his sophisticated loop techniques, he creates a magical sound.**
 
 At the moment Kévin commutes back and forth between his home country and Europe. His travels constantly inspire him to new ideas. In 2018, Veer magazine awarded him with the "Best Experimental Act" prize for his debut EP "Volcan".
@@ -55,11 +53,11 @@ You have already heard one of Kévin's songs in my music list for April. Now his
 ### "Ambient music is the best soundtrack for isolation"
 
 <RemoteImage
-alt={`from-overseas`}
-size="medium"
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-6__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-6__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgEDB//EACoQAAEDAwIFAgcAAAAAAAAAAAECAxEABCEFEgYTMUFhFJEiMjNRcdHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMFBP/EACIRAAIBAwQCAwAAAAAAAAAAAAECEQADIQQxQWFRoZHw8f/aAAwDAQACEQMRAD8A4/wzpWl3PBqnNRtLRD7ry22LkhW/xOY6gxjtVdsrCx5bir1B+kFAoSQlBJgKJBiP7NS7e4Zb4GcYe1C1eXcPDlWpnfakKJKj4I/IzSy3dQXwotpu1Al1YElCk7ekRiCZzjFa7TW1dQy7bz3z9+Km6dLpa4xcwWMYOI8T+TkYqC5p6mNqnJ2pI3K7Vl1LSj8GE+DNWDV7tFzZoUG0cl5YKJTJGRMecUr4gdtVONel+ZIKVnzNJGpQI1k2xJMg8r1PqqpSBIO3ukyMz9wK2SVFMmelFFKoKaoQHNKt0GY5q1de4x+vaobzDYcShW4gpnBjPtRRSgc0Vf/Z"
+  alt={`from-overseas`}
+  size="medium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-6__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgEDB//EACoQAAEDAwIFAgcAAAAAAAAAAAECAxEABCEFEgYTMUFhFJEiMjNRcdHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMFBP/EACIRAAIBAwQCAwAAAAAAAAAAAAECEQADIQQxQWFRoZHw8f/aAAwDAQACEQMRAD8A4/wzpWl3PBqnNRtLRD7ry22LkhW/xOY6gxjtVdsrCx5bir1B+kFAoSQlBJgKJBiP7NS7e4Zb4GcYe1C1eXcPDlWpnfakKJKj4I/IzSy3dQXwotpu1Al1YElCk7ekRiCZzjFa7TW1dQy7bz3z9+Km6dLpa4xcwWMYOI8T+TkYqC5p6mNqnJ2pI3K7Vl1LSj8GE+DNWDV7tFzZoUG0cl5YKJTJGRMecUr4gdtVONel+ZIKVnzNJGpQI1k2xJMg8r1PqqpSBIO3ukyMz9wK2SVFMmelFFKoKaoQHNKt0GY5q1de4x+vaobzDYcShW4gpnBjPtRRSgc0Vf/Z"
 />
 
 **Kévin:** I am working from home so this situation doesn't really change my routine. I work on music, I listen to music, I cook and I take care of my dog. But it is true that I make more music at the moment, it feels like ambient music is healing right now and is the perfect soundtrack for isolation.
@@ -77,11 +75,11 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 **Anne:** What inspired you most when you were working on "Home"? I read that the fourth piece "Maloya Tales" is a homage to La Réunion. You even get a little impression of the typical Maloya music of La Réunion. Are there any other tributes of this kind on the record?
 
 <RemoteImage
-alt={`from-overseas`}
-size="medium"
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-7__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-7__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcI/8QAKBAAAQMDAwMDBQAAAAAAAAAAAQIDEQAEBQYSIQcTMSJBYQgUcXLR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AN5babqcNIjzWJWtxbrgI17qZ1REgJ2f2rCMjZtqheuNSJj2WtqaB76i5x7A43HIxqmk5HJX7NiwtxrupbCj61lEiYHz71T6c5HOZVrLHUgtwbZ8W7Pbt+1u2lYUowog7gEGB4mufdfasvntQGyOQfyeNsLpDjBu1SpaoHqMGB5jimyy6hXuttXJtre4yWFtnEKUBbXm4gNoJJgjbztmePPvQMGJ6V71NoYy6Gdh4i0JBB8gjueKZWOkxSIbytqhMwduNTJ4/f5oooME61YlOn9XXFglxLygtQU6Gw2VQls+B+TTB9PuGYz2cy7L0MvM49f2z6EyphSlpSVAHgmCRzxFFFB//9k="
+  alt={`from-overseas`}
+  size="medium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-7__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcI/8QAKBAAAQMDAwMDBQAAAAAAAAAAAQIDEQAEBQYSIQcTMSJBYQgUcXLR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AN5babqcNIjzWJWtxbrgI17qZ1REgJ2f2rCMjZtqheuNSJj2WtqaB76i5x7A43HIxqmk5HJX7NiwtxrupbCj61lEiYHz71T6c5HOZVrLHUgtwbZ8W7Pbt+1u2lYUowog7gEGB4mufdfasvntQGyOQfyeNsLpDjBu1SpaoHqMGB5jimyy6hXuttXJtre4yWFtnEKUBbXm4gNoJJgjbztmePPvQMGJ6V71NoYy6Gdh4i0JBB8gjueKZWOkxSIbytqhMwduNTJ4/f5oooME61YlOn9XXFglxLygtQU6Gw2VQls+B+TTB9PuGYz2cy7L0MvM49f2z6EyphSlpSVAHgmCRzxFFFB//9k="
 />
 
 ### "'Home' reflects my travelling experiences"
@@ -107,14 +105,14 @@ There is of course other tribute or references to places and people in this reco
 ### "I am an aerospace engineer"
 
 <RemoteImage
-alt={`from-overseas`}
-size="medium"
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-8__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-8__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwj/xAApEAABAwMDAwQCAwAAAAAAAAABAgMEBQYRABIhBzFREyJBYRSBkaLR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AH217Wl1S3IFTuO7qyRIjokuMwVtwGGwpIVjchO/Az3Khpc6m0mmU6n0qHYVIj1C4qlNDKZj7pmuMoR7lLJdUobSRtKjgYKtUy3IjMqxqVClNJdYXT47bjaxkKHppyD9caiPVWlosO55FZpk5TL7ziHIbLMcYZ9Qrykk+0JSEkgYIOcaC2UK4mmaSmJPix4NejQ0PSqewgBCVlJOEbe4yPjJ51tbFyPVwjZDAbAT6i923YSMjKT5A+P51DemdUYl3XRFzZzRnTGZciVIfWo4bzjlR4BODyrAGOPGrXbleoTM5ihUlbsl5QKy8zHIbIAyFFQAGMYAI47edBpbDxFCpoA7Rmh/QaUb7pkO6rsj0qqtKVCimO6ttKsCRjcva5xkpyscAjt96NGgl1gyYkvqNQYSqez+TLlrclPqwpCkoUvDbbeMISSnOPd4GPnptbhK0rPdIKf1x/mjRoP/2Q=="
+  alt={`from-overseas`}
+  size="medium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-8__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-8__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwj/xAApEAABAwMDAwQCAwAAAAAAAAABAgMEBQYRABIhBzFREyJBYRSBkaLR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AH217Wl1S3IFTuO7qyRIjokuMwVtwGGwpIVjchO/Az3Khpc6m0mmU6n0qHYVIj1C4qlNDKZj7pmuMoR7lLJdUobSRtKjgYKtUy3IjMqxqVClNJdYXT47bjaxkKHppyD9caiPVWlosO55FZpk5TL7ziHIbLMcYZ9Qrykk+0JSEkgYIOcaC2UK4mmaSmJPix4NejQ0PSqewgBCVlJOEbe4yPjJ51tbFyPVwjZDAbAT6i923YSMjKT5A+P51DemdUYl3XRFzZzRnTGZciVIfWo4bzjlR4BODyrAGOPGrXbleoTM5ihUlbsl5QKy8zHIbIAyFFQAGMYAI47edBpbDxFCpoA7Rmh/QaUb7pkO6rsj0qqtKVCimO6ttKsCRjcva5xkpyscAjt96NGgl1gyYkvqNQYSqez+TLlrclPqwpCkoUvDbbeMISSnOPd4GPnptbhK0rPdIKf1x/mjRoP/2Q=="
 />
 
-***
+---
 
 Before that I worked for Airbus in Toulouse, I am/was an aerospace engineer. Now I only work on music. I am also involved in the music scene here in Norfolk, Virginia where I live, and I sometimes play and collaborate for shows with friends in their post-rock bands such as Long Division or Bantustans. I also played in a band called Death Valley Rally and now I am a member of another shoegaze band called You're Jovian. Check them out, they are all good!
 
@@ -129,11 +127,11 @@ So if I have to choose one band/artist that I am still enthusiastic about, I gue
 ### No live gigs these times
 
 <RemoteImage
-alt={`from-overseas`}
-size="medium"
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-9__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-9__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBAgQFB//EACgQAAEDBAEDAwUBAAAAAAAAAAECAxEABAUSIQYxQRNRYQcjMkORsf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDhXUq28Nll2i7P04t0HhOq07AGDJPEfPmthm/p1fWNq0Wri0euU267l1LbuwKQlCoHESNtYHcpVSrlrpq7zZdbK2bfZtKfUIUUJEewj38U59VZHFMPY6xs8uL9mzU6lssNqUGm1OlzTYwlZHHIkGSD2oFE9OZHRpQaErRuoE6Fs7EQraOYAPEiCOZkVKsM7aXdsxdhgLd3/ZsBABEx2pye6utEpCW7/NOpV+cBtsckdgPgf5SRk7xD18txtby/urVs9BWQZjaPMRNAWNu242C5sSSeQYqcOv0c20tI5QpUfw0UUFMq8V5B5YGpgEx7jzWI8sPIL0KCyuFEmdjHftRRQf/Z"
+  alt={`from-overseas`}
+  size="medium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-9__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-9__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBAgQFB//EACgQAAEDBAEDAwUBAAAAAAAAAAECAxEABAUSIQYxQRNRYQcjMkORsf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDhXUq28Nll2i7P04t0HhOq07AGDJPEfPmthm/p1fWNq0Wri0euU267l1LbuwKQlCoHESNtYHcpVSrlrpq7zZdbK2bfZtKfUIUUJEewj38U59VZHFMPY6xs8uL9mzU6lssNqUGm1OlzTYwlZHHIkGSD2oFE9OZHRpQaErRuoE6Fs7EQraOYAPEiCOZkVKsM7aXdsxdhgLd3/ZsBABEx2pye6utEpCW7/NOpV+cBtsckdgPgf5SRk7xD18txtby/urVs9BWQZjaPMRNAWNu242C5sSSeQYqcOv0c20tI5QpUfw0UUFMq8V5B5YGpgEx7jzWI8sPIL0KCyuFEmdjHftRRQf/Z"
 />
 
 **Anne:** Oh, I love Sigur Rós and Sonic Youth and... I know what you're talking about. There is so much great music out there. I'm also fascinated about Bandcamp. So much to experience. It's a bit like in the old days with MySpace.
@@ -157,4 +155,3 @@ At the moment all concerts worldwide are unfortunately cancelled because of Coro
 [You can listen to the new From Overseas album "Home" here](pitp.bandcamp.com/album/home).
 
 [You can find the From Overseas homepage here](https://www.fromoverseasmusic.com/).
-
