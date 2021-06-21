@@ -1,43 +1,45 @@
 ---
-date: 2019-09-21T11:28:24.000Z
+date: 2019-09-21T11:28:24.000+00:00
 slug: hof-windkind-walnuss-baum-adoptieren
-path: /2019/09/hof-windkind-walnuss-baum-adoptieren/
+path: "/2019/09/hof-windkind-walnuss-baum-adoptieren/"
 type: Artikel
 typeName: Produkttest
 title: Hof Windkind
 seoTitle: Hof Windkind - Baum adoptieren und bio-vegane Walnüsse genießen
 ogTitle: Hof Windkind - Baum adoptieren und bio-vegane Walnüsse genießen
-description: 'Silvia und David vom Hof Windkind haben ein gemeinsames Ziel: Sie wollen mit ihren bio-veganen Walnüssen die Welt ein bisschen besser machen.'
-excerpt: 'Werbung - Silvia und David vom Hof Windkind haben ein gemeinsames Ziel: Sie wollen mit ihren bio-veganen Walnüssen die Welt ein bisschen besser machen.'
+description: 'Silvia und David vom Hof Windkind haben ein gemeinsames Ziel: Sie wollen
+  mit ihren bio-veganen Walnüssen die Welt ein bisschen besser machen.'
+excerpt: 'Silvia und David vom Hof Windkind haben ein gemeinsames Ziel: Sie wollen
+  mit ihren bio-veganen Walnüssen die Welt ein bisschen besser machen.'
 fileName: 2019-09---hof-windkind.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-19-hof-windkind-walnuesse__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-19-hof-windkind-walnuesse__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAGBAX/xAAqEAACAgEDAwMCBwAAAAAAAAABAgMEEQAFEiExQQYTIhRRFSMyYXGBsf/EABcBAAMBAAAAAAAAAAAAAAAAAAACBQH/xAAhEQACAgIBBAMAAAAAAAAAAAABAgMRAARBEiFR0WHw8f/aAAwDAQACEQMRAD8AH9p2xIttneZoqznEkcgLZIUfJVYZHIgZ4nJydLWyeiIbFGhus18mxZhD8LMicUVuoCgAde3U5PXWO2GCWB6kZ3eqK1KMW4z7QyW5EcWH9t26jz20q+mqEW7+k677tHiGvXryxcHYAflK4yo/V1Y9/GNQoZELM8otff5l6dHCqkRo/feeMfQG3UKAZZ5H9iKxZUpIHjeRVL8mVgcnI7/udHq7Pas1sV3rwQSD2fqI/l9RITyweZzhcMM5yeuNNNncW3D3IYqJhWOOxC7ZQRt8HChT3K58+cddGAPu7JV3CpRs3WmIglSTAqo7KFdh0wpUrjkMg5Pk63dAHS8a1eGozUyObIzHbXZim2TcLv4VUWVoUqxl5lB5E/Jsfc5HXv0OlCaztwg4Pu1aCnHXhryww3vbjd0jVeLjp5BH31atPrsA7LVi+e/jEnUsqtZB+M74d22tJKsO3bhtyVYiyBEtqwxghhjuen+6womq2dhrVfq5qcNSEieKwxVXm7kIox0Vh4OP51atG8xkIvjDVQRg1zn/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_09_hof-windkind-walnuesse.png__l.jpg
 labels:
-  - Bäume für die Zukunft
-  - Baumpate
-  - Baumpaten
-  - Berlin
-  - Bio-Walnüsse
-  - direkt vom Erzeuger
-  - Ernährung
-  - Ernährung & Gesundheit
-  - Gambia
-  - Hof Windkind
-  - Kinder- und Jugendhaus Bolle
-  - Klima- & Umweltschutz
-  - Naturfreunde e. V.
-  - Nussbäume
-  - Obstbäume
-  - Senegal
-  - Straßenkinder Berlin e. V.
-  - vegane Ernährung
-  - Walnuss
-  - Walnussbaum
-  - Walnussbäume
-  - Walnüsse
-  - Walnüsse direkt vom Erzeuger
+- Bäume für die Zukunft
+- Baumpate
+- Baumpaten
+- Berlin
+- Bio-Walnüsse
+- direkt vom Erzeuger
+- Ernährung
+- Ernährung & Gesundheit
+- Gambia
+- Hof Windkind
+- Kinder- und Jugendhaus Bolle
+- Klima- & Umweltschutz
+- Naturfreunde e. V.
+- Nussbäume
+- Obstbäume
+- Senegal
+- Straßenkinder Berlin e. V.
+- vegane Ernährung
+- Walnuss
+- Walnussbaum
+- Walnussbäume
+- Walnüsse
+- Walnüsse direkt vom Erzeuger
 focusKeyword: Hof Windkind
 status: publish
 isWerbung: false
@@ -45,10 +47,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Baum adoptieren und bio-vegane Walnüsse genießen
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Silvia und David vom Hof Windkind haben ein gemeinsames Ziel: Sie wollen die Welt ein bisschen besser machen. Aus diesem Wunsch entstand die Idee, mit dem Verkauf von bio-veganen Walnüssen etwas Gutes zu tun - auf ökologischer und sozialer Ebene.**
 
 Die beiden fühlen sich sehr eng mit der Natur verbunden. Aus diesem Grund ist ihr Betrieb auch öko-zertifiziert und trägt darüber hinaus auch das Siegel des Ökoverbands "Naturland e. V.". Auf Hof Windkind wird auf tierischen Mist, Mineraldünger, Biodünger und Gifte aus Prinzip komplett verzichtet. Silvia und David düngen ihr kleines grünes Paradies ausschließlich mit Pflanzenmaterial. Laub, Gras, Kräuter und Stroh reichen völlig aus, um diesen Job zu erledigen. Und wo keine "Nutztiere" sind, müssen auch keine Exkremente entsorgt werden. Das ist nicht nur gut für das Grundwasser.
@@ -125,4 +126,4 @@ Alle Infos zur Baum-Adoption und zu den Besichtigungsterminen findet Ihr auf der
 
 **Hof Windkind** 16775 Löwenberger Land OT Neuendorf
 
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Weitere Infos: [www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/werbekennzeichnung)
+Weitere Infos zur Werbekennzeichnung in diesem Beitrag: [www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/werbekennzeichnung)
