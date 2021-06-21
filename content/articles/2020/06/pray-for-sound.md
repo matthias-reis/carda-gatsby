@@ -18,6 +18,8 @@ labels:
 - Synthesizer
 - Recording
 - Voyager
+- Dunk Festival
+- Dunk Records
 language: en
 date: 2020-06-05T20:41:00+02:00
 slug: pray-for-sound-interview-en

@@ -14,7 +14,7 @@ labels:
 - Dunk Records
 language: en
 date: 2020-05-28T01:17:00.000+02:00
-slug: of-the-vine-en
+slug: of-the-vine-interview-en
 typeName: Interview
 title: Of The Vine
 subTitle: '"We Are Living Our Childhood Dream When We Perform"'
