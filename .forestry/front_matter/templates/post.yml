@@ -89,6 +89,7 @@ fields:
   label: Sprachlink
   description: Bitte vollständig angeben (/2021/04/titel)
 pages:
+- content/articles/2019/interview-with-shana-falana.md
 - content/articles/2020/03/vegan-activist-inbar-schutte-perez.md
 - content/articles/2020/07/interview-with-lost-in-kiev.md
 - content/articles/2020/09/the-ocean-collective-founder-robin-staps.md
