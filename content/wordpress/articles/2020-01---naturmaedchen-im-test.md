@@ -9,8 +9,8 @@ seoTitle: Naturmädchen Kosmetik im Test - Mizellenwasser, Creme & Serum
 ogTitle: Naturmädchen Kosmetik im Test - Mizellenwasser, Creme & Serum
 description: Naturmädchen stellt Naturkosmetik für gestresste Haut her. Genau das
   Richtige für mich, dachte ich mir - die musste ich einfach testen.
-excerpt: Werbung & Affiliate Links - Naturmädchen stellt Naturkosmetik für gestresste
-  Haut her. Genau das Richtige für mich, dachte ich mir - die musste ich einfach testen.
+excerpt: Naturmädchen stellt Naturkosmetik für gestresste Haut her. Genau das Richtige
+  für mich, dachte ich mir - die musste ich einfach testen.
 fileName: 2020-01---naturmaedchen-im-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_naturkind-12__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_naturkind-12__l.jpg

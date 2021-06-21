@@ -9,8 +9,8 @@ seoTitle: Homeoffice Beauty-Lieblinge von Santaverde
 ogTitle: Homeoffice Beauty-Lieblinge von Santaverde
 description: Während der Zeit im Homeoffice verzichte ich komplett auf Make-up. Dabei
   habe ich zwei neue Beauty Lieblinge für mich entdeckt.
-excerpt: Werbung - Während der Zeit im Homeoffice verzichte ich komplett auf Make-up.
-  Dabei habe ich zwei neue Beauty Lieblinge für mich entdeckt.
+excerpt: Während der Zeit im Homeoffice verzichte ich komplett auf Make-up. Dabei
+  habe ich zwei neue Beauty Lieblinge für mich entdeckt.
 fileName: 2020-04---homeoffice-beauty-lieblinge.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_2020-04-02-santaverde-8__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_2020-04-02-santaverde-8__l.jpg
