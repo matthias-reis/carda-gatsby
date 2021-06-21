@@ -9,8 +9,8 @@ seoTitle: Wellness-Auszeit mit Alkmene - Vegane Badezusätze & Lotions im Test
 ogTitle: Wellness-Auszeit mit alkmene - Vegane Badezusätze & Lotions im Test
 description: Ich bin ein großer Badefan. Gerade wenn es draußen so richtig grau ist.
   Darum hatte ich sehr viel Spaß beim Testen der Alkmene Badezusätze und Lotions.
-excerpt: Werbung - Ich bin ein großer Badefan. Gerade wenn es draußen so richtig grau
-  ist. Darum hatte ich sehr viel Spaß beim Testen der Alkmene Badezusätze und Lotions.
+excerpt: Ich bin ein großer Badefan. Gerade wenn es draußen so richtig grau ist. Darum
+  hatte ich sehr viel Spaß beim Testen der Alkmene Badezusätze und Lotions.
 fileName: 2018-01---wellness-auszeit-mit-alkmene.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38980942055_2f1099af36_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38980942055_2f1099af36_z__l.jpg

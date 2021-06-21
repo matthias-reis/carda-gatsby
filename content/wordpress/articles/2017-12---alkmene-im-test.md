@@ -9,8 +9,8 @@ seoTitle: Alkmene - Natürliche Pflegeprodukte auf dem Prüfstand
 ogTitle: alkmene - Natürliche Pflegeprodukte auf dem Prüfstand
 description: Ich habe die natürlichen Pflegeprodukte aus dem Hause Alkmene jetzt einem
   Test unterzogen. Meinen Bericht möchte ich mit Euch teilen.
-excerpt: Werbung - Ich habe die natürlichen Pflegeprodukte aus dem Hause Alkmene jetzt
-  einem Test unterzogen. Meinen Bericht möchte ich mit Euch teilen.
+excerpt: Ich habe die natürlichen Pflegeprodukte aus dem Hause Alkmene jetzt einem
+  Test unterzogen. Meinen Bericht möchte ich mit Euch teilen.
 fileName: 2017-12---alkmene-im-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_12_DSC01973_0__A5.6_T1-80s-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_12_DSC01973_0__A5.6_T1-80s-1__l.jpg
