@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: matthias-reis/carda-gatsby
+  site_id: cardamonchai.amreis.de
   branch: master
   commit_messages:
     create: 'cms(content): Create “{{slug}}”'
@@ -9,6 +10,7 @@ backend:
     uploadMedia: 'cms(media): [skip ci] Upload “{{path}}”'
     deleteMedia: 'cms(media): [skip ci] Delete “{{path}}”'
 
+site_id: cardamonchai.amreis.de
 media_folder: static/img
 public_folder: /img
 locale: de
