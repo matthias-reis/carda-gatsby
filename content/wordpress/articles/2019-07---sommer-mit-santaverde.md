@@ -9,9 +9,8 @@ seoTitle: Sommer mit Santaverde - sanfte Pflege nach Wassersport und Sonnenbad
 ogTitle: Sommer mit Santaverde - sanfte Pflege nach Wassersport und Sonnenbad
 description: 'Vor Kurzem ging es für uns in den Süden: Strand, Wellen, Sonne und Sightseeing
   was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht fehlen.'
-excerpt: 'Werbung - Vor Kurzem ging es für uns in den Süden: Strand, Wellen, Sonne
-  und Sightseeing was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht
-  fehlen.'
+excerpt: 'Vor Kurzem ging es für uns in den Süden: Strand, Wellen, Sonne und Sightseeing
+  was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht fehlen.'
 fileName: 2019-07---sommer-mit-santaverde.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-5__l.jpg

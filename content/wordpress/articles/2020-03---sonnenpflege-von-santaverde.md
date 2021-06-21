@@ -9,8 +9,8 @@ seoTitle: Sonnenpflege von Santaverde - Sehnsucht nach dem Sommer
 ogTitle: Sonnenpflege von Santaverde - Sehnsucht nach dem Sommer
 description: Von Santaverde gibt es jetzt auch Sonnenpflege. Ich habe sie schon mal
   getestet. Unter etwas anderen Umständen, als zuerst geplant.
-excerpt: Werbung - Von Santaverde gibt es jetzt auch Sonnenpflege. Ich habe sie schon
-  mal getestet. Unter etwas anderen Umständen, als zuerst geplant.
+excerpt: Von Santaverde gibt es jetzt auch Sonnenpflege. Ich habe sie schon mal getestet.
+  Unter etwas anderen Umständen, als zuerst geplant.
 fileName: 2020-03---sonnenpflege-von-santaverde.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-20-santaverde-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-20-santaverde-2__l.jpg

@@ -9,8 +9,8 @@ seoTitle: Hyaluron-Ampullen und Enzym Peeling von Santaverde
 ogTitle: Hyaluron-Ampullen und Enzym Peeling von Santaverde
 description: Hyaluron-Ampullen sorgen für Frische und können den Feuchtigkeitsgehalt
   der Haut verbessern. Ein leichtes Peeling bereitet die Haut vor.
-excerpt: Werbung – Hyaluron-Ampullen sorgen für Frische und können den Feuchtigkeitsgehalt
-  der Haut verbessern. Ein leichtes Peeling mit Enzymen ist die perfekte Vorbereitung.
+excerpt: Hyaluron-Ampullen sorgen für Frische und können den Feuchtigkeitsgehalt der
+  Haut verbessern. Ein leichtes Peeling mit Enzymen ist die perfekte Vorbereitung.
 fileName: 2021-03---fruehlingserwachen-fuer-die-haut.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-02-santaverde-11__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-02-santaverde-11__l.jpg
@@ -80,4 +80,3 @@ Ich bin mit beiden Produkten rundum zufrieden und werde mir auf jeden Fall Nachs
 Ab Mitte März findet Ihr beide Produkte im Handel – online auf [santaverde.de](https://www.santaverde.de) und in autorisierten Reformhäusern, Biomärkten sowie ausgewählten Parfümerien und Apotheken.
 
 <Gallery name="hyaluron-ampullen-2" />
-

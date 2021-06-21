@@ -9,9 +9,8 @@ seoTitle: Make-up-Fasten - Einfach mal auf Schminke verzichten
 ogTitle: Make-up-Fasten - Einfach mal auf Schminke verzichten
 description: Ich liebe Make-up und trage es schon seit meiner frühesten Jugend täglich.
   Doch ab und zu genieße ich es auch, mal ein paar Tage darauf zu verzichten.
-excerpt: Produktplatzierung - Ich liebe Make-up und trage es schon seit meiner frühesten
-  Jugend täglich. Doch ab und zu genieße ich es auch, mal ein paar Tage darauf zu
-  verzichten.
+excerpt: Ich liebe Make-up und trage es schon seit meiner frühesten Jugend täglich.
+  Doch ab und zu genieße ich es auch, mal ein paar Tage darauf zu verzichten.
 fileName: 2018-07---make-up-fasten.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Ungeschminkt.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Ungeschminkt.png__l.jpg

@@ -9,8 +9,8 @@ seoTitle: Handcreme von Santaverde - Wellness für die Hände
 ogTitle: Handcreme von Santaverde - Wellness für die Hände
 description: Häufiges Händewaschen schützt nicht nur vor Corona. Leider leidet die
   Haut unter dieser Praktik. Ich habe jetzt die Handcreme von Santaverde ausprobiert.
-excerpt: Werbung - Häufiges Händewaschen schützt nicht nur vor Corona. Leider leidet
-  die Haut unter dieser Praktik. Was hilft, ist eine gute Handcreme.
+excerpt: Häufiges Händewaschen schützt nicht nur vor Corona. Leider leidet die Haut
+  unter dieser Praktik. Was hilft, ist eine gute Handcreme.
 fileName: 2020-04---wellness-fuer-die-haende.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_santaverde-handcreme221__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_santaverde-handcreme221__l.jpg
