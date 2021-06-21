@@ -85,6 +85,6 @@ Alles über Silvia, David und ihr Projekt erfahrt Ihr in meinem [Hof Windkind Po
 
 Alle Infos zur Baum-Adoption und zu den Besichtigungsterminen findet Ihr auf der [Hof Windkind Homepage](https://www.hofwindkind.com).
 
-**Hof Windkind** 16775 Löwenberger Land OT Neuendorf 
+**Hof Windkind** 16775 Löwenberger Land OT Neuendorf
 
-Weitere Infos zur Werbekennzeichnung in diesem Beitrag: [www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/werbekennzeichnung) _
+Weitere Infos zur Werbekennzeichnung in diesem Beitrag: [www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/werbekennzeichnung)
