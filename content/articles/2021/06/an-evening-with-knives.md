@@ -1,5 +1,5 @@
 ---
-date: 2021-06-07T18:48:42+02:00
+date: 2021-06-07T18:48:42.000+02:00
 labels:
 - Bands
 - Doom
@@ -50,7 +50,7 @@ Ihre Tour sollte sie neben Holland auch durch Belgien und Deutschland führen. G
 
 Man könnte die Musik auf "Sense of Gravity" als eine Mischung aus Doom und Stoner-Sound bezeichnen – in eine Schublade lassen sich An Evening With Knives aber definitiv nicht einordnen und das ist gut so. Für mich sind die Songs genau das Richtige für alle, die die Sterne am liebsten auf dem Boden vor der Bühne suchen. In mein Herz haben sich die Band aus Eindhoven auf jeden Fall schon mal gespielt.
 
-### Komplexe Songstrukturen
+## Komplexe Songstrukturen
 
 Die Songstrukturen sind wunderbar komplex. Die Sounds sind angenehm schwer und hart – laut gehört entfalten sie ihre volle Tragweite.
 
