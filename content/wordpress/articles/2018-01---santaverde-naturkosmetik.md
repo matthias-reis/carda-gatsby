@@ -1,51 +1,55 @@
 ---
-date: 2018-01-22T06:47:08.000Z
+date: 2018-01-22T06:47:08.000+00:00
 slug: santaverde
-path: /2018/01/santaverde/
+path: "/2018/01/santaverde/"
 type: Artikel
 typeName: Produkttest
 title: Santaverde Naturkosmetik
-seoTitle: Santaverde Naturkosmetik - Zertifizierte vegane Schönheitspflege auf Aloe Vera Basis
-ogTitle: Santaverde Naturkosmetik - Zertifizierte vegane Schönheitspflege auf Aloe Vera Basis
-description: Santaverde bietet Naturkosmetik auf Basis wertvoller Aloe Vera. Ich habe die Produkte jetzt genau untersucht und ausprobiert. Hier ist mein Testbericht.
-excerpt: Werbung - Santaverde bietet Naturkosmetik auf Basis wertvoller Aloe Vera. Ich habe die Produkte jetzt genau untersucht und ausprobiert. Hier ist mein Testbericht.
+seoTitle: Santaverde Naturkosmetik - Zertifizierte vegane Schönheitspflege auf Aloe
+  Vera Basis
+ogTitle: Santaverde Naturkosmetik - Zertifizierte vegane Schönheitspflege auf Aloe
+  Vera Basis
+description: Santaverde bietet Naturkosmetik auf Basis wertvoller Aloe Vera. Ich habe
+  die Produkte jetzt genau untersucht und ausprobiert. Hier ist mein Testbericht.
+excerpt: Werbung - Santaverde bietet Naturkosmetik auf Basis wertvoller Aloe Vera.
+  Ich habe die Produkte jetzt genau untersucht und ausprobiert. Hier ist mein Testbericht.
 fileName: 2018-01---santaverde-naturkosmetik.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-8__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-8__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBggH/8QAKBAAAQQBBAEDBAMAAAAAAAAAAQIDBAURAAYSITEHQVETFSIyYaGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECBP/EABwRAQACAgMBAAAAAAAAAAAAAAEAAgMRBBIhIv/aAAwDAQACEQMRAD8A0hLllOe9UDcfqVWUd9JqpkaYp5hpp1TjakcSHCQMAqz5GPGmG8b+TXykwq6K09KUElTjyjwbBz2QOyQB/Y1yfdt1t6Xeyn7iuD8iRFaBUh7gGi3lZHf7AHx/ujubCab8TLTEZrHyy5QfWanlbhg0rVbbImzHW2Eqc+lwbWvxywrPXvjXTa2a649xddCsJPQQEj21l+iu9pztwQrGr2rKrVNWkVa7GW+C2xlffI598jWka1C0LCnCgKII/E9e3zp79mfSG2NrKmr5qwuXEZdWBjkod4+MjUH7TDZADMdlsJ8BKB1o0aZKclkKq6kWZtmmsnQuxrIUtYIPJ5hKj14z84/nT6NDZRjihIAGAAnGNGjQyVXxn//Z
-ogImage: null
+ogImage: 
 labels:
-  - Aloe Vera
-  - aloepur
-  - Aloverose
-  - Andalusien
-  - Bio
-  - Cruelty Free
-  - echte Naturkosmetik
-  - Fair Fashion & Beauty
-  - Finca
-  - Finca Verde
-  - Gesichtspflege
-  - Gesichtsrötungen
-  - Hamburg
-  - Haut
-  - kontrolliert Biologischer Anbau
-  - Leaping Bunny
-  - Leaping Bunny Label
-  - Mittel gegen Gesichtsrötungen
-  - Natrue
-  - Natrue-Siegel
-  - Naturkosmetik
-  - Rosacea
-  - Rosazea
-  - Röte
-  - Sabine Beer
-  - Santaverde
-  - Spanien
-  - Toner
-  - vegan beauty
-  - Vegan Society
-  - vegane Pflege
+- Aloe Vera
+- aloepur
+- Aloverose
+- Andalusien
+- Bio
+- Cruelty Free
+- echte Naturkosmetik
+- Fair Fashion & Beauty
+- Finca
+- Finca Verde
+- Gesichtspflege
+- Gesichtsrötungen
+- Hamburg
+- Haut
+- kontrolliert Biologischer Anbau
+- Leaping Bunny
+- Leaping Bunny Label
+- Mittel gegen Gesichtsrötungen
+- Natrue
+- Natrue-Siegel
+- Naturkosmetik
+- Rosacea
+- Rosazea
+- Röte
+- Sabine Beer
+- Santaverde
+- Spanien
+- Toner
+- vegan beauty
+- Vegan Society
+- vegane Pflege
 focusKeyword: Santaverde
 status: publish
 isWerbung: false
@@ -53,10 +57,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Zertifizierte vegane Schönheitspflege auf Aloe Vera Basis
+advertisement: true
+
 ---
-
-Werbung\*
-
 **"Deine Haut braucht Feuchtigkeit! Versuch doch mal, was zu finden, mit dem sie die nach dem Eincremen auch hält! Dann strahlt sie bestimmt bald wieder!"**
 
 Klingt plausibel, was mir da vor Kurzem geraten wurde, oder? Stellt sich nur die Frage: Wie stellt man das an, ohne die Haut dabei zu reizen, zu übersättigen und damit fettig zu machen oder so zu stressen, dass es noch schlimmer wird, als vorher?
@@ -169,5 +172,3 @@ Wer gerne auch mal ein paar Produkte aus dem Hause Santaverde ausprobieren möch
 [^2]: [Alles über das Leaping Bunny Siegel](http://www.leapingbunny.org)
 [^3]: [Infos über das Label der Vegan Society](http://www.vegansociety.com)
 [^4]: [Homepage Santaverde](http://www.santaverde.de)
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

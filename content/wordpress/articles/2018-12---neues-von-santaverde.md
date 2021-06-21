@@ -1,32 +1,34 @@
 ---
-date: 2018-12-18T09:47:09.000Z
+date: 2018-12-18T09:47:09.000+00:00
 slug: neues-von-santaverde
-path: /2018/12/neues-von-santaverde/
+path: "/2018/12/neues-von-santaverde/"
 type: Artikel
 typeName: Produkttest
 title: Neues von Santaverde
 seoTitle: Neues von Santaverde - XINGU Age Perfect Toner
 ogTitle: Neues von Santaverde - XINGU Age Perfect Toner
-description: Die neue XINGU Age Perfect Reihe von Santaverde ist mit Extrakten aus dem brasilianischen Regenwald angereichert. Den Toner habe ich getestet.
-excerpt: Die neue XINGU Age Perfect Reihe von Santaverde ist mit Extrakten aus dem brasilianischen Regenwald angereichert. Den Toner habe ich getestet.
+description: Die neue XINGU Age Perfect Reihe von Santaverde ist mit Extrakten aus
+  dem brasilianischen Regenwald angereichert. Den Toner habe ich getestet.
+excerpt: Die neue XINGU Age Perfect Reihe von Santaverde ist mit Extrakten aus dem
+  brasilianischen Regenwald angereichert. Den Toner habe ich getestet.
 fileName: 2018-12---neues-von-santaverde.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-05__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-05__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAP/xAAsEAACAgEDAgQEBwAAAAAAAAABAgMEEQAFIRIxBhQiQTJRUnFDYYGCkaGi/8QAGAEAAgMAAAAAAAAAAAAAAAAABAYBAgP/xAAoEQABAgIJBAMAAAAAAAAAAAABAgMAQQQFERITISIxgRVRcdGx4fD/2gAMAwEAAhEDEQA/ANPh6oH9DqAw5HGndKLrN9HUdVV5CQB3QKrj/BJ/adIPCG4x2Nv83Zv1K8kTdUkMilcxs2FMf1fbvxpj4d3h9w3S1ajjkqJLjAYYfhWQtk/NSRjH66BVSmxdz39H1DfSa5aXdFGXqMuJwymrQmRIuOpxlcDuNRu9wLudxqlTijESbMo/FIPwKfpzwT78j2Oqe5tm4bki1tvt10SupDliwkbj0oMZwCB37/bXeTY2p7Msiz0xC0QlMmWA6enI4xwAPbV0OYuadoJ6kwo3XFgCY7/Xz43iZfCW/TmGSOiJCgAGJ4WCgcjALY7knI7nT+7tniyzcq2Gq9bAL5gtguwAIChlbHAOOQf70aNZmr2xM/uIS0tpSbRKMdw7/FuKX12jca88KgAxRO4cA9jx6h+X8Y0lv7/vKpXjtLd8tBlhXNdolJ6upcgjGAccH5DRo0OtrCGkmIctGq2P/9k=
-ogImage: null
+ogImage: 
 labels:
-  - Age Perfect
-  - Aloe Vera
-  - Cashew
-  - Fair Fashion & Beauty
-  - Naturkosmetik
-  - Regenwald
-  - Santaverde
-  - Toner
-  - tonisieren
-  - vegan beauty
-  - vegane Kosmetik
-  - XINGU
+- Age Perfect
+- Aloe Vera
+- Cashew
+- Fair Fashion & Beauty
+- Naturkosmetik
+- Regenwald
+- Santaverde
+- Toner
+- tonisieren
+- vegan beauty
+- vegane Kosmetik
+- XINGU
 focusKeyword: XINGU Age Perfect
 status: publish
 isWerbung: false
@@ -34,10 +36,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: XINGU Age Perfect Toner
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Santaverde kennt Ihr ja von mir schon. Ich mag die milden Pflegeprodukte auf der Basis natürlicher Aloe Vera sehr gerne und habe schon diverse Male darüber berichtet. Jetzt gibt es eine neue Age Perfect Reihe mit Extrakten aus dem brasilianischen Regenwald. Den Toner habe ich getestet.**
 
 <RemoteImage
@@ -93,5 +94,3 @@ Wie in allen Santaverde-Produkten stecken auch im "XINGU Age Perfect Toner" auss
 Alle Produkte von Santaverde sind mit dem Leaping Bunny und dem Vegan Society Logo ausgezeichnet. Tierversuche und Inhaltsstoffe tierischen Ursprungs sind somit ausgeschlossen. Ein Großteil der verwendeten Zutaten trägt außerdem das EU-Biosiegel. Wer mehr über Santaverde erfahren möchte, liest am besten mal [diesen Artikel](/2018/01/santaverde/).
 
 <Gallery name="2018-12-santaverde-xingu-toner" />
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
