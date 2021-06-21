@@ -1,5 +1,5 @@
 ---
-date: 2019-12-03T07:55:46+01:00
+date: 2019-12-03T07:55:46.000+01:00
 slug: shana-falana-interview
 path: "/2019/12/shana-falana-interview/"
 type: Artikel
@@ -51,6 +51,7 @@ language: de
 errors: {}
 subTitle: '"Druggy music by sober people"'
 languageLink: "/2019/12/shana-falana-interview-en"
+copyright: Monik Giesel
 
 ---
 **Shana Falana habe ich erst vor Kurzem für mich entdeckt. In der [Musikliste für den Dezember](/2019/11/13-songs-fuer-den-dezember/) habe ich Euch ihr Shoegazer Projekt vorgestellt. Jetzt haben wir uns zum Interview verabredet.**
@@ -176,4 +177,3 @@ Ich bewege mich schon immer innerhalb der Indie-Szene, also betrifft das nicht d
 Hat Euch das Interview gefallen? Das freut mich sehr! [Meldet Euch gerne](mailto:info@cardamonchai.com), wenn Ihr auch ein Musikprojekt habt, über das ich mit Euch reden soll! Um in Zukunft nichts mehr zu verpassen, [abonniert gerne meinen Newsletter](#newsletter). Dann halte ich Euch auf dem Laufenden.
 
 [Shana Falana Homepage](http://www.shanafalana.com/) Bilder: Monik Giesel
-
