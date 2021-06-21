@@ -26,7 +26,6 @@ labels:
 - Interview
 - Interviews
 - It Was A Good Dream
-- Music
 - Musik
 - Post-Rock
 focusKeyword: It Was A Good Dream
