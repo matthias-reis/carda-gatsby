@@ -3,7 +3,7 @@ date: 2020-08-06T11:16:32+02:00
 slug: chris-hunt-torrent-merigold-independent
 path: "/2020/08/chris-hunt-torrent-merigold-independent/"
 type: Artikel
-typeName: Artikel
+typeName: Review
 title: Chris Hunt auf Merigold Independent
 seoTitle: Chris Hunt auf Merigold Independent - Samuel Laubscher startet Label
 ogTitle: Chris Hunt auf Merigold Independent - Samuel Laubscher startet Label
