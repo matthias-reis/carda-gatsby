@@ -43,11 +43,9 @@ subTitle: Zwei Portemonnaie-Unikate zu gewinnen
 advertisement: true
 
 ---
----
+**Hinweis:** Die Aktion ist beendet. [Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
-Hinweis: Die Aktion ist beendet. [Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
-
----
+***
 
 **Zum Valentinstag haben sich die Leute von Feuerwear etwas ganz Besonderes einfallen lassen: Eine Portemonnaie-Partneredition! Mit etwas Glück könnt Ihr bei meiner Feuerwear Verlosung jetzt eines der streng limitierten Sets aus zwei Geldbörsen gewinnen.**
 
@@ -55,7 +53,7 @@ Das Tolle an den Partner-Portemonnaies: Es handelt sich wie bei allem von Feuerw
 
 [Jetzt gleich an der Verlosung teilnehmen](#⋆)
 
-Die Valentins-Edition des Kölner Kult-Labels gibt es exklusiv im Feuerwear Online-Shop[^1] (ausschließlich vom 27. Januar bis zum 14. Februar) und in der Verlosung. Die Stückzahl ist streng limitiert. Wenn Ihr also gerne das Herz Eures Lieblingsmenschen höher schlagen lassen wollt, solltet Ihr am besten nicht lange zögern.
+Die Valentins-Edition des Kölner Kult-Labels gibt es exklusiv im Feuerwear Online-Shop\[^1\] (ausschließlich vom 27. Januar bis zum 14. Februar) und in der Verlosung. Die Stückzahl ist streng limitiert. Wenn Ihr also gerne das Herz Eures Lieblingsmenschen höher schlagen lassen wollt, solltet Ihr am besten nicht lange zögern.
 
 Die individuellen Spuren, die das Material in Einsätzen bei Wind und Wetter geprägt haben, bringen schön zur Geltung, dass Ihr zusammen durch dick und dünn geht. Besonders schön ist, dass sie besonders robust sind. Sie werden Euch für viele Jahre treu begleiten.
 
@@ -69,7 +67,7 @@ Die Feuerwear Accessoires begleiten Euch überall hin. Egal, ob Ihr auf matschig
 
 Alle Teile von Feuerwear sind Einzelstücke. Mit den unterschiedlichen Aufdrucken und Spuren aus ihrem ersten Leben erzählen sie alle ihre ganz eigene Geschichte. Falls Ihr noch mehr über die tollen Upcycling-Taschen wissen wollt, [findet Ihr hier im Blog so einiges](/tag/feuerwear/). Das Unternehmen gibt es inzwischen übrigens schon [seit 15 Jahren](/2020/10/15-jahre-feuerwehr/).
 
-## [⋆] An der Feuerwear-Verlosung teilnehmen
+## \[⋆\] An der Feuerwear-Verlosung teilnehmen
 
 Ihr habt genug gelesen und möchtet das tolle Portemonnaie-Pärchen gerne gewinnen? Nichts leichter als das! Sendet einfach **bis einschließlich 13. Februar 2020** eine E-Mail mit dem Betreff "Valentins-Paar" an [anne.reis@cardamonchai.com](mailto:anne.reis@cardamonchai.com). Ihr könnt nur einmal teilnehmen. Alle E-Mails mit dem richtigen Betreff landen automatisch im Lostopf. Der⋆die Gewinner⋆in wird am Morgen des 14. Februar gezogen. Das Los entscheidet. Am Tag der Liebe erwartet Euch also vielleicht eine schöne Überraschung. Behaltet also am besten Euren E-Mail-Posteingang im Blick.
 
@@ -77,4 +75,4 @@ Ihr habt genug gelesen und möchtet das tolle Portemonnaie-Pärchen gerne gewinn
 
 [Hier geht es zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/)
 
-[^1]: [Homepage Feuerwear](https://www.feuerwear.de/unsere-aktionen/valentins-edition)
+\[^1\]: [Homepage Feuerwear](https://www.feuerwear.de/unsere-aktionen/valentins-edition)
