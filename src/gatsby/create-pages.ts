@@ -2,6 +2,7 @@ import { resolve, join } from 'path';
 import { getPath } from './slugify';
 import { CreatePagesArgs } from 'gatsby';
 
+import { isProduction } from '../is-production';
 import { recommend } from './recommend';
 import { getSeries } from './get-series';
 import { existsSync, mkdirSync, writeFileSync } from 'fs';
@@ -10,7 +11,6 @@ import { toCompactArticle } from '../to-compact-article';
 
 const paginationBasePath = join(__dirname, '../../public/homepage-data');
 
-const isProduction = process.env.NODE_ENV === 'production';
 const filter = isProduction
   ? `filter: {frontmatter: {date: {lte: "${new Date().toISOString()}"}}},`
   : '';

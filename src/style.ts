@@ -34,6 +34,7 @@ export const color = {
   green30: '#5C9B72',
   green40: '#96C6A7',
   green50: '#BAD6C4',
+  highlight05: '#3c0629',
   highlight10: '#55093B',
   highlight20: '#7C1257',
   /** complementary signature pink */

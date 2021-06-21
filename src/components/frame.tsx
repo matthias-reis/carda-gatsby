@@ -43,16 +43,20 @@ export const Frame: React.FC = ({ children }) => {
               font-style: normal;
               color: ${color.text10};
             }
+
+            .footnotes {
+              font-size: ${fontSize[2]};
+            }
             .footnotes ol:before {
               display: block;
               content: 'Fußnoten:';
+              font-size: ${fontSize[3]};
             }
-
             .footnotes ol a:last-child {
               text-decoration: none;
               display: inline-block;
               color: ${color.green10};
-              font-size: ${fontSize[2]};
+              font-size: ${fontSize[1]};
               margin-left: ${space[2]};
               &:before {
                 content: 'zurück';

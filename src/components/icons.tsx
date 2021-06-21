@@ -222,3 +222,32 @@ export function IconClose(props: React.SVGProps<SVGSVGElement>) {
     </svg>
   );
 }
+
+export function IconEdit(props: React.SVGProps<SVGSVGElement>) {
+  return (
+    <svg width={32} height={32} viewBox="0 0 32 32" {...props}>
+      <title>{'icon'}</title>
+      <path
+        d="M13.874 18.125l2.625-1.313 9.188-9.187-1.313-1.313-9.187 9.188-1.313 2.625zm-1.941 4.657c-.65-1.368-1.347-2.066-2.715-2.714l2.032-5.595 2.625-1.598L21.75 5h-3.938l-7.875 7.875L6 26l13.125-3.938L27 14.188V10.25l-7.875 7.875-1.598 2.625-5.595 2.032z"
+        fill="currentColor"
+        fillRule="nonzero"
+      />
+    </svg>
+  );
+}
+
+export function IconNew(props: React.SVGProps<SVGSVGElement>) {
+  return (
+    <svg width={32} height={32} viewBox="0 0 32 32" {...props}>
+      <g
+        stroke="currentColor"
+        strokeWidth={3}
+        fill="none"
+        fillRule="evenodd"
+        strokeLinecap="square"
+      >
+        <path d="M16.5 7.5v17M25.5 15.5h-18" />
+      </g>
+    </svg>
+  );
+}
