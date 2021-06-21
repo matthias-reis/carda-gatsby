@@ -1,52 +1,54 @@
 ---
-date: 2020-07-10T13:17:53.000Z
+date: 2020-07-10T15:17:53+02:00
 slug: of-the-vine-playlist
-path: /2020/07/of-the-vine-playlist/
+path: "/2020/07/of-the-vine-playlist/"
 type: Artikel
 typeName: Artikel
 title: Exklusive Playlist von Of the Vine
 seoTitle: Exklusive Playlist von Of the Vine - "Diese Musik hat uns geprägt"
 ogTitle: Exklusive Playlist von Of the Vine - "Diese Musik hat uns geprägt"
-description: Kein Geringerer als Samuel Laubscher von Of the Vine hat exklusiv eine Playlist für meinen Blog zusammengestellt. Von Ben Frost bis Mogwai.
-excerpt: English & German - Kein Geringerer als Samuel Laubscher von Of the Vine hat exklusiv eine Playlist für meinen Blog zusammengestellt. Von Ben Frost bis Mogwai.
+description: Kein Geringerer als Samuel Laubscher von Of the Vine hat exklusiv eine
+  Playlist für meinen Blog zusammengestellt. Von Ben Frost bis Mogwai.
+excerpt: Kein Geringerer als Samuel Laubscher von Of the Vine hat exklusiv eine Playlist
+  für meinen Blog zusammengestellt. Von Ben Frost bis Mogwai.
 fileName: 2020-07---exklusive-playlist-von-of-the-vine.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIDBAUH/8QAKBAAAgEDAwQBBAMAAAAAAAAAAQIDAAQREiFBBRMikTEUUWFxBqLx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwDwodQjSQpKbhycqe2PW5/FbLe/S2EyzWq3Ck6UkIwRoO3GORkc4FVMFjBMwuZWYkHZn06CT4tuN8cjFaT1ntfxybpKLE8L3XfE+Nw2gDb9gc+quYy5F11C4vYljlICIchVUAZPyQOKe8a3eIfT5LBgcdrToXSNied/v9vzTW5WVZ7uCCOOOKTyMjFlGRsv9T7q0/WcQJF09PpdceJWUAMTz5DcjPHFBKG5ks5pDbRpJcshVXUl8Z+diMHb1WO6upIJ4naIqAmCmMbYwP8AaKKUNLem+RnfSrq2yjbxIyP3g591S8W3iIitZBOCqs8pXHlj4GfgCiikI//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-facebook.png__l.jpg
 labels:
-  - Aaron Turner
-  - Ambient
-  - Arvo Pärt
-  - Bands
-  - Baptists
-  - Ben Frost
-  - Brian Cook
-  - Dunk Festival
-  - Dunk Records
-  - DUNK!festival
-  - DUNK!records
-  - Early Day Minors
-  - Emma Ruth Rundle
-  - English & German
-  - Explosions In The Sky
-  - Isis
-  - Merigold Independent
-  - Merigold Records
-  - Mogwai
-  - Musik Playlist
-  - Nick Yacyshyn
-  - Of the Vine
-  - Phoebe Bridgers
-  - Post-Rock
-  - Rafael Anton Irisarri
-  - Russian Circles
-  - Samuel Laubscher
-  - Sea Oleena
-  - Stars Of The Lid
-  - Sumac
-  - The Twilight Sad
-  - Unwed Sailor
+- Aaron Turner
+- Ambient
+- Arvo Pärt
+- Bands
+- Baptists
+- Ben Frost
+- Brian Cook
+- Dunk Festival
+- Dunk Records
+- DUNK!festival
+- DUNK!records
+- Early Day Minors
+- Emma Ruth Rundle
+- English & German
+- Explosions In The Sky
+- Isis
+- Merigold Independent
+- Merigold Records
+- Mogwai
+- Musik Playlist
+- Nick Yacyshyn
+- Of the Vine
+- Phoebe Bridgers
+- Post-Rock
+- Rafael Anton Irisarri
+- Russian Circles
+- Samuel Laubscher
+- Sea Oleena
+- Stars Of The Lid
+- Sumac
+- The Twilight Sad
+- Unwed Sailor
 focusKeyword: Of The Vine
 status: publish
 isWerbung: false
@@ -54,10 +56,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Diese Musik hat uns geprägt"'
+languageLink: "/2020/07/of-the-vine-playlist-en"
+
 ---
-
-[🇬🇧 Click here for English version](#⋆)
-
 **Kein Geringerer als Of the Vine Gitarrist Samuel Laubscher hat eine Playlist für meinen Blog zusammengestellt. Es ist mir eine große Ehre, sie Euch heute präsentieren zu dürfen.**
 
 Vor ein paar Wochen lernte ich Sam bei [unserem Interview](/2020/05/of-the-vine/) kennen. Unser Gespräch und meine Fragen nach seinen musikalischen Wurzeln und seinen Lieblingsbands inspirierten ihn dazu, eine Playlist mit Songs zusammenzustellen, die ihm und seiner Band viel bedeuten.
@@ -162,58 +163,3 @@ Hier sind für Euch Of the Vine mit "An Event Of Moon Disaster"
 
 <YouTube id="WzsS0pBXJl8" />
 
-<div id="⋆">[⋆] _English version_ </div>
-
-## "What made us" - a special playlist by Of the Vine
-
-**Non-other than Of the Vine guitarist Samuel Laubscher has compiled a playlist for my blog. It is a great honor for me to present it to you today.**
-
-<RemoteImage
-  alt={`Of The Vine Pin`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-pin__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-pin__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcDBQIEBv/EACoQAAIBAwMCBAcBAAAAAAAAAAECAwAEEQUSITFBBhNR4RQiQmFxgYLR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAHBEAAgEFAQAAAAAAAAAAAAAAAAFRAgMEERMS/9oADAMBAAIRAxEAPwBxReKLaQhXjkQnuMGpLrU7YgZlAz6gilS+vYRWSEDtlm5z/gqrvvE162PLlCc52KwrNZKgPJyMvUb21WUb54l/LUUiNU1O6uLov8VKpPJw5xRWiyHBOCkql8YWzHZumzvBAMfvU1zrMdxp1zeIZSsDor8D6unHWuUae2MChZZG4j2weWAIzn5iG/XXvuPpWUpurqCF71imnxMqSNFztJPUju3NBWaULZtHWbYk5Mh/j3oqmu5EaVltty2ysfLB649T9zRS8ouz/9k="
-/>
-
-A few weeks ago I did  [an interview](/2020/05/of-the-vine/) with Sam. Our conversation and my questions about his musical roots and his favorite bands inspired him to create a list of songs that mean a lot to him.
-
-These artists are highly appreciated by him and Of the Vine. Their art accompanies them every day. Even when he is writing new songs.
-
-From now on the stage is Sam's. Here are 13 songs from his record shelf. Exclusively for you guys.
-
-## The Twilight Sad - "Reflection Of The Television" from the album "Forget The Night Ahead"
-
-The Twilight Sad has been probably one of my longest-running favorite artists. I saw them open for MONO back in 2010 and they absolutely blew me away. Terrifyingly loud guitars with Cosmic Music style drumming. I also love James' vocals - usually, artists try to hide their accent but he leans into the thick Scottish burr. <YouTube id="u5H07c8DlgI" />
-
-## Explosions In The Sky - "The Moon Is Down" from the album "Those Who Tell The Truth Shall Die, Those Who Tell The Truth Shall Live Forever"
-
-This album is what first introduced me to lyric-less rock. This was way back in 2004 and I couldn't believe how moved I was by music without words. I was shocked by how I could feel more deeply my emotions than with music containing vocals. I always wonder if this is because it allows us to be using our own stories as opposed to being told what to feel. Very introspective. This album (also "The Earth Is Not A Cold Dead Place") changed how I heard music.
-
-I knew I wanted to make "that". This song was probably my most listened to at the time; the narrative progression is incredible. They make it sound so simple but it is structured quite complexly, leaving parts behind with no perceivable transitions, calling back with motifs, it blew my mind and still does. If it weren't for this album I may not have gotten into the type of music we play, or maybe even still play music in general. <YouTube id="-W48Q5y5oRY" />
-
-## Stars Of The Lid - "Don't Bother They're Here" from the album "And Their Refinement Of The Decline"
-
-I fell on board the Stars Of The Lid train a bit late but am I ever so glad I found them. They were another band that changed my entire outlook on music. It's a weird surreal story but I was recommended them by Carlos Torrez (Ex-Explosions In The Sky, he was so supportive of my music back when I handed him our first demos in 2006) when I was still in my late teens and I didn't quite understand the ambient genre of music at the time, but when I revisited in my twenties it snowballed another music taste shift in me.
-
-I started seeking any artists who were doing the same with similar approaches and just absorbing all the ambient music I could find. This even led me to start the blog-turned-label Merigold Independent. So, I can definitely say that music can change a person. And so can people being kind to you.
-
-<YouTube id="zMdI-ooLwCI" />
-
-## Arvo Pärt - "Cantus in Memoriam Benjamin Britten" from the album "Part, A: Berliner Messe / Fratres / Collage Uber B-A-C-H / Summa / Cantus In Memoriam Benjamin Britten"
-
-I honestly don't think there is anything more emotive and heart-rending as this piece.
-
-For the more logic-driven among us, I highly recommend reading up on this movement and his tintinnabuli style check out the [Wiki about "Cantus In Memoriam Benjamin Britten"](https://en.wikipedia.org/wiki/Cantus_in_Memoriam_Benjamin_Britten).
-
-<YouTube id="mto84jhDyGk" />
-
-In our interview, I talked to Sam about the current Of the Vine Album "East The Water" and the band's development. You can  [read it here](/2020/05/of-the-vine/).
-
-## Sam's playlist on Spotify
-
-<Playlist spotify="3zLKlVQnK9cOdWl8eTmKIf" />
-
-Here are Of The Vine with "An Event Of Moon Disaster"
-
-<YouTube id="WzsS0pBXJl8" />
