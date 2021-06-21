@@ -43,7 +43,11 @@ subTitle: '"Die Menschen sind frustriert und wütend"'
 ---
 **Ich habe mich mit Singer-Songwriter Vinny Peculiar über sein neues Album "While You Still Can" unterhalten, das bald erscheinen wird.**
 
-Vor Kurzem habe ich Euch hier im Blog [die beiden neuen Videos von Singer-Songwriter Vinny Peculiar](/2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/) vorgestellt. Jetzt habe ich mich mit ihm zum Interview verabredet. Wir haben über sein neues Album, die politische Lage in England und seine Pläne geredet. **Anne:** Hallo Vinny! Danke, dass Du Dir die Zeit für das Interview nimmst. Herzlichen Glückwunsch zum neuen Album. Bist Du zufrieden damit? **Vinny:** Hallo Anne! Schön, Dich zu treffen! Insgesamt bin ich sehr glücklich mit meinem zwölften Album, ja! Es gibt vielleicht die ein oder andere Stelle, an der der Gitarrensound nicht so klingt, wie es geplant war. Ich bin mir aber sicher, das das Ergebnis genau so ist, wie es sein sollte. Wenn man viel Zeit mit dem Feintuning verbringt und die eigene Musik wieder und wieder anhört, neigt man gerne dazu, sie zu sehr zu analysieren. Ich bin mir sicher, dass die Platte in sich selbst hineinwachsen wird.
+Vor Kurzem habe ich Euch hier im Blog [die beiden neuen Videos von Singer-Songwriter Vinny Peculiar](/2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/) vorgestellt. Jetzt habe ich mich mit ihm zum Interview verabredet. Wir haben über sein neues Album, die politische Lage in England und seine Pläne geredet. 
+
+**Anne:** Hallo Vinny! Danke, dass Du Dir die Zeit für das Interview nimmst. Herzlichen Glückwunsch zum neuen Album. Bist Du zufrieden damit? 
+
+**Vinny:** Hallo Anne! Schön, Dich zu treffen! Insgesamt bin ich sehr glücklich mit meinem zwölften Album, ja! Es gibt vielleicht die ein oder andere Stelle, an der der Gitarrensound nicht so klingt, wie es geplant war. Ich bin mir aber sicher, das das Ergebnis genau so ist, wie es sein sollte. Wenn man viel Zeit mit dem Feintuning verbringt und die eigene Musik wieder und wieder anhört, neigt man gerne dazu, sie zu sehr zu analysieren. Ich bin mir sicher, dass die Platte in sich selbst hineinwachsen wird.
 
 ## "Ich mag meine Gitarrensoli in "'Pop Music For Ugly People'"
 
