@@ -174,7 +174,7 @@ Und auch damit hat er voll meinen Geschmack getroffen.
 [Hier findet Ihr mein Interview mit Daniel von Smecket](/2017/05/interview-mit-daniel-weiss-von-smecket/ "Smecket Interview").
 
 <Gallery
-images={\[
+images={ [
 {
 mediumUrl:
 'https://storage.googleapis.com/cardamonchai-images/2017_04_33183701403_c39117bf37_z__m.jpg',
@@ -235,6 +235,5 @@ mediumUrl:
 largeUrl:
 'https://storage.googleapis.com/cardamonchai-images/2017_04_33153030114_ff1c005401_z__l.jpg',
 },
-\]}
+ ]}
 />
-
