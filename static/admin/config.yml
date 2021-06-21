@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: matthias-reis/carda-gatsby
   branch: master
   commit_messages:
     create: 'cms(content): Create “{{slug}}”'
@@ -10,7 +11,6 @@ backend:
 
 media_folder: static/img
 public_folder: /img
-publish_mode: editorial_workflow
 locale: de
 editor:
   preview: false
@@ -24,13 +24,10 @@ collections:
     create: true
     slug: '{{year}}/{{month}}/{{slug}}'
     preview_path: '{{year}}/{{month}}/{{slug}}'
+    summary: '{{title}} ({{language}})'
+    nested:
+      depth: 3 # max depth to show in the collection tree
     fields:
-      - {
-          label: 'Template Key',
-          name: 'templateKey',
-          widget: 'hidden',
-          default: 'article',
-        }
       - { label: 'GoLive', name: 'date', widget: 'datetime', required: false }
       - { label: 'Permalink', name: 'slug', widget: 'string' }
       - {
