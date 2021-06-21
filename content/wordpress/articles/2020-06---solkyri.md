@@ -1,5 +1,5 @@
 ---
-date: 2020-06-12T09:00:34+02:00
+date: 2020-06-12T09:00:34.000+02:00
 slug: solkyri-interview
 path: "/2020/06/solkyri/"
 type: Artikel
@@ -39,7 +39,7 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Post-Rock bietet der Phantasie Spielraum"'
-languageLink: "/2020/06/solkyri-en"
+languageLink: "/2020/06/solkyri-interview-en"
 
 ---
 **Vor Kurzem veröffentlichte die australische Post-Rock Band Solkyri Ihr sensationelles neues Album "Mount Pleasant". Ich habe mich jetzt mit dem Mann an Bass, Percussion und Synthesizer Andrew Pearsall darüber unterhalten.**
@@ -143,4 +143,3 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 **Andrew:** Danke Dir! Bleib gesund!
 
 Solkyri gründeten sich 2006 in Sydney. Die Band besteht aus Adam Mostek (Gitarre, Keyboards), Andrew Pearsall (Bass, Synthesizer, Percussion) und Nick Hall (Drums, Percussion, Keyboards und Gitarre). "Mount Pleasant" ist das vierte Album nach "No House" (2011), "Are You My Brother?" (2013) und "Sad Boys Club" (2015).
-
