@@ -1,38 +1,40 @@
 ---
-date: 2020-04-04T14:11:42.000Z
+date: 2020-04-04T14:11:42.000+00:00
 slug: homeoffice-beauty-lieblinge
-path: /2020/04/homeoffice-beauty-lieblinge/
+path: "/2020/04/homeoffice-beauty-lieblinge/"
 type: Artikel
 typeName: Artikel
 title: Homeoffice Beauty-Lieblinge
 seoTitle: Homeoffice Beauty-Lieblinge von Santaverde
 ogTitle: Homeoffice Beauty-Lieblinge von Santaverde
-description: Während der Zeit im Homeoffice verzichte ich komplett auf Make-up. Dabei habe ich zwei neue Beauty Lieblinge für mich entdeckt.
-excerpt: Werbung - Während der Zeit im Homeoffice verzichte ich komplett auf Make-up. Dabei habe ich zwei neue Beauty Lieblinge für mich entdeckt.
+description: Während der Zeit im Homeoffice verzichte ich komplett auf Make-up. Dabei
+  habe ich zwei neue Beauty Lieblinge für mich entdeckt.
+excerpt: Werbung - Während der Zeit im Homeoffice verzichte ich komplett auf Make-up.
+  Dabei habe ich zwei neue Beauty Lieblinge für mich entdeckt.
 fileName: 2020-04---homeoffice-beauty-lieblinge.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_2020-04-02-santaverde-8__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_2020-04-02-santaverde-8__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAoEAACAgAFBAIBBQAAAAAAAAABAgMRAAQFEiEGIjFBE1FhI2JxcsH/xAAYAQACAwAAAAAAAAAAAAAAAAACBAEDBf/EACIRAAEDAwMFAAAAAAAAAAAAAAEAAgMTITEEERIiMkHh8P/aAAwDAQACEQMRAD8AQuntGjgBnICuDvMYJCcVW+7N+STXNDjFUyHTel5npzLRzZKJWl+MyZgFjKxZgC1uSBf1Vc+MIWjKIoJHTtZgTINxQnuHPZ3WLA5o8+DVGmZDMSR5bKw/Nt2iMvCU9lga3Hk8/nCtZsfctjUxExjgUsdYdLQaOMpJoM2bjEm4NBmJVluuFKFh5F0Fvm+CDhL1HTZVy6BAk8BBEbo/xM5o2GDAtYN+wwvgYr3WMshGmiOM0S6cSsLvjadnkGyfPr0awjarl0TLO0Q/WlXbIyAspNclQL/ryR2r5vBSE8lVpoBTD98+/GPrLFoEUUSKoQrKZFCuG3EEHyD9i6qv9OO/PqhyuWyxRM2QkiFlG3YE3BroftPi/Y+8GDAuYDkJs9bACtWd1vLZuFAC+6IGpBGVoE0w5JP82PxeFjW9skO1SIolukBAWtoDEJ9EECvZPj3gwYIXuVG1KMNav//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Design-ohne-Titel.png__l.jpg
 labels:
-  - Aloe Vera
-  - Anti-Aging
-  - Cruelty Free
-  - crueltyfree
-  - empfindliche Haut
-  - Fair Fashion & Beauty
-  - Homeoffice
-  - Make-up Homeoffice
-  - Natrue
-  - Rosacea
-  - Rosazea
-  - Santaverde
-  - Tages-Make-up
-  - Tagespflege
-  - vegan beauty
-  - vegane Kosmetik
-  - vegane Kosmetikprodukte
-  - vegane Pflege
+- Aloe Vera
+- Anti-Aging
+- Cruelty Free
+- crueltyfree
+- empfindliche Haut
+- Fair Fashion & Beauty
+- Homeoffice
+- Make-up Homeoffice
+- Natrue
+- Rosacea
+- Rosazea
+- Santaverde
+- Tages-Make-up
+- Tagespflege
+- vegan beauty
+- vegane Kosmetik
+- vegane Kosmetikprodukte
+- vegane Pflege
 focusKeyword: Homeoffice
 status: publish
 isWerbung: false
@@ -40,10 +42,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Age Protect Fluid und XINGU Age Perfect
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Wisst Ihr, was ich im Moment sehr genieße? Freiheit für die Haut! Während der Zeit im Homeoffice verzichte ich komplett auf Make-up. Dabei habe ich zwei neue Beauty Lieblinge für mich entdeckt, die ich Euch gerne vorstellen möchte.**
 
 Meine neuen täglichen Begleiter in unseren zwei Zimmern mit Balkon sind die XINGU Age Perfect Creme und das Age Protect Fluid (leicht getönte Tagescreme mit LSF 6) von Santaverde. Ich habe etwas gesucht, das meinen Fältchen entgegenwirkt und meine vom Winter noch recht schroffe Haut aufpeppt.
@@ -99,5 +100,3 @@ Vorletztes Jahr habe ich mit Santaverde Make-up Fasten gemacht. [Meinen Erfahrun
   Lavendelöl*, Alumina, Natriumhydroxid, natürliche Pigmente, ätherische Öle.
   *Aus kontrolliert biologischem Anbau
 </small>
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
