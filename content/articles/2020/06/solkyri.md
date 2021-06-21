@@ -128,4 +128,3 @@ We were so excited to return this year and catch up with Dunk! crew. Especially 
 **Andrew:** Thank you! Stay safe and well.
 
 Solkyri was founded in Sydney in 2006. The band consists of Adam Mostek (guitar, keyboards), Andrew Pearsall (bass, synthesizer, percussion) and Nick Hall (drums, percussion, keyboards and guitar). "Mount Pleasant" is the fourth album after "No House" (2011), "Are You My Brother? (2013) and "Sad Boys Club" (2015).
-
