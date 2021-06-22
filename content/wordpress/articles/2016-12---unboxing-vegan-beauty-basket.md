@@ -9,7 +9,7 @@ seoTitle: Unboxing Vegan Beauty Basket - Die Weihnachtsedition
 ogTitle: Unboxing Vegan Beauty Basket - Die Weihnachtsedition
 description: Ein himmlischer Duft liegt in der Luft beim Unboxing der Weihnachtsedition
   des Vegan Beauty Basket. Jede Menge Überraschungen für jeden Geschmack.
-excerpt: Werbung - Ein himmlischer Duft liegt in der Luft beim Unboxing der Weihnachtsedition
+excerpt: Ein himmlischer Duft liegt in der Luft beim Unboxing der Weihnachtsedition
   des Vegan Beauty Basket. Jede Menge Überraschungen für jeden Geschmack.
 fileName: 2016-12---unboxing-vegan-beauty-basket.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_12_31634726512_d35014953f_z__m.jpg
@@ -39,6 +39,10 @@ subTitle: Die Weihnachtsedition
 advertisement: true
 
 ---
+**Als mir die liebe Ina von** [**Vegan Beauty Basket**](/2016/09/vegan-beauty-basket-im-test/) **von ihrer Weihnachtsbox erzählt, ist mich sofort klar: Die muss ich testen! Schon ein paar Tage später ist es dann soweit und ein kleines, hübsches Päckchen kommt aus Berlin bei mir an.**
+
+Schon beim Öffnen des Versandkartons steigt mir ein angenehmer Duft von Lavendel in die Nase. Ich liebe Lavendel. Alles duftet bei mir danach. Für mich schafft Ina mit der Weihnachtsausgabe des Vegan Beauty Basket also schon eine Punktlandung, bevor ich überhaupt etwas ausgepackt habe.
+
 <RemoteImage
 alt={`Vegan Beauty Basket`}
 size="medium"
@@ -46,10 +50,6 @@ mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_3140945777
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31409457770_7b64f61164_z__l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAYHAgMEBf/EACkQAAICAgIABQMFAQAAAAAAAAECAwQFEQAhBhITMUEUUXEHIiNCYYH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwT/xAAcEQADAAMAAwAAAAAAAAAAAAAAAQIDERIhMVH/2gAMAwEAAhEDEQA/AMP0kw2XxitJdwRnrZFYdWFmjQRbJ0zKdn+3wAfzysZDI1sIsSzYq4zPI8S+kqHZXX7gSR0d9f8AeKeLqU4/BOPuVMZSN2Ja03qFfKw8sqlnJ9ydA9fPJLlctbsXfJctWlWGa0Fc3JiH/mIUnbHXWh1rknfClSWnG8jbZb73i+ibGMDYXJRR3wTHKrIfNokElVJJ7Gvxxe8W36ts3cV6FqvISGikm6WYxsGZU69/b8g/5xC8LS2b/jLGw1pJawk9RK4eeWRVDQvvuTf2Px88p1zFJXwVkZix9TMtcp2VYoF2wIA63vR6+3vx77nyNRON72LWIrXzTGGGUljqx1UJ9KNULqWJK79x2PcEHnk0vDeLyiXJSLyGsvqOrXJGEhbbnrYC9j464cOYap/Sso66mGpHIpfofVVrFJV8rSWnlJPkI2NkAdHmjK5i1brWLUksnpFGQwlgdjy97bW+HDjLe9DSXs//2Q=="
 />
-
-**Als mir die liebe Ina von** [**Vegan Beauty Basket**](/2016/09/vegan-beauty-basket-im-test/) **von ihrer Weihnachtsbox erzählt, ist mich sofort klar: Die muss ich testen! Schon ein paar Tage später ist es dann soweit und ein kleines, hübsches Päckchen kommt aus Berlin bei mir an.**
-
-Schon beim Öffnen des Versandkartons steigt mir ein angenehmer Duft von Lavendel in die Nase. Ich liebe Lavendel. Alles duftet bei mir danach. Für mich schafft Ina mit der Weihnachtsausgabe des Vegan Beauty Basket also schon eine Punktlandung, bevor ich überhaupt etwas ausgepackt habe.
 
 Als Erstes entnehme ich dem Päckchen die Produktkarte. Ich bin schon sehr gespannt, was mich dieses Mal erwartet. Wie bei jedem [Basket](/2016/09/vegan-beauty-basket-im-test/) durfte ich mir auch dieses Mal bei einem Artikel die Sorte aussuchen. Dieses Mal ist das der Lippbalm von HURRAW!. Meine Wahl fiel auf die Sorte "Tinted Black Cherry". Der Pflegestift kommt sehr gelegen, da meine Lippen jetzt zur kalten Jahreszeit wieder richtig schön spröde sind. Er kommt also gleich zum Einsatz.  Das Aroma erinnert mich an die kleinen Lutscher, die es als Kind immer gab. Was habe ich die geliebt! Außer der von mir gewählten Variante standen auch noch "chocolate", "vanilla bean", "tinted cinnamon", "grapefruit", "coconut" und "green tea" zur Auswahl. Klingt spannend, oder?
 
@@ -134,4 +134,3 @@ Wollt Ihr den Vegan Beauty Basket auch mal ausprobieren? Wer möchte, kann sich 
 Übrigens: Bleibt unbedingt dran! Nächstes Jahr wird es hier im Blog ein großes Interview mit Ina geben!
 
 <Gallery name="flickr/anneveganbeautybasketweihnachten2016" />
-

@@ -9,8 +9,8 @@ seoTitle: Unboxing Vegan Beauty Basket März - Frühling aus dem Karton
 ogTitle: Unboxing Vegan Beauty Basket März - Frühling aus dem Karton
 description: Ich durfte mal wieder den Vegan Beauty Basket auspacken. Heraus purzelte
   unter anderem ein Eyeliner, der komplett ohne Plastik auskommt.
-excerpt: Werbung - Ich durfte mal wieder den Vegan Beauty Basket auspacken. Heraus
-  purzelte unter anderem ein Eyeliner, der komplett ohne Plastik auskommt.
+excerpt: Ich durfte mal wieder den Vegan Beauty Basket auspacken. Heraus purzelte
+  unter anderem ein Eyeliner, der komplett ohne Plastik auskommt.
 fileName: 2018-03---unboxing-vegan-beauty-basket-maerz.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_27013348798_3dfdff82b3_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_27013348798_3dfdff82b3_z__l.jpg
@@ -129,4 +129,3 @@ Insgesamt ein tolles Paket, mit dem ich beschwingt und toll gestylt und gepflegt
 Besonders klasse finde ich am Basket nach wie vor, dass sich Ina wirklich Mühe bei der Zusammenstellung der Produkte gibt und auch und vor allem darauf achtet, dass so wenig wie möglich Plastik im Karton landet. Ich freue mich schon auf die nächste Runde und wünsche Euch ganz viel Spaß mit Eurem Vegan Beauty Basket. Berichtet doch mal, wie  Euch die Produkte gefallen.
 
 <Gallery name="flickr/annevbb32018" />
-

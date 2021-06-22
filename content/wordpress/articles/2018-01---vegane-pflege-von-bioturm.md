@@ -1,34 +1,36 @@
 ---
-date: 2018-01-28T18:09:52.000Z
+date: 2018-01-28T18:09:52.000+00:00
 slug: bioturm
-path: /2018/01/bioturm/
+path: "/2018/01/bioturm/"
 type: Artikel
 typeName: Produkttest
 title: Vegane Pflege von Bioturm
 seoTitle: Vegane Pflege von Bioturm - All Time Favorites unter der Lupe
 ogTitle: Vegane Pflege von Bioturm - All Time Favorites unter der Lupe
-description: Heute möchte ich Euch mit Bioturm einen All Time Favourite vorstellen. Das habe ich mit einem interessanten Testbericht verbunden. Viele Spaß beim Duschen!
-excerpt: Werbung - Heute möchte ich Euch mit Bioturm einen All Time Favourite vorstellen. Das habe ich mit einem interessanten Testbericht verbunden. Viele Spaß beim Duschen!
+description: Heute möchte ich Euch mit Bioturm einen All Time Favourite vorstellen.
+  Das habe ich mit einem interessanten Testbericht verbunden. Viele Spaß beim Duschen!
+excerpt: Heute möchte ich Euch mit Bioturm einen All Time Favourite vorstellen. Das
+  habe ich mit einem interessanten Testbericht verbunden. Viele Spaß beim Duschen!
 fileName: 2018-01---vegane-pflege-von-bioturm.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39880748521_fb07c3e1e3_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39880748521_fb07c3e1e3_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHAwb/xAAmEAACAQQABgEFAAAAAAAAAAABAgMABAURBhIhMUFhExQVIlGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAQL/xAAgEQABBAEEAwAAAAAAAAAAAAABAAIDETEEE1FxIUHw/9oADAMBAAIRAxEAPwCU8NxR2+ZsZ5iGjjmUsNA7UnR7+jVO4/xkcHCaj4bdJZJ0jLqgB6EnsB6qKRzuYjyEqxGgN+at/wByw/FkAt83eW1pJFFHcFjOPyZQA0fQbB2xOvVIa2J5ljlaCQM0ePOPaY08lMdHYF8j6lMVsYQSJOXf7phbYRGj5vkjA7966vibAcPYTAQ55Q01pPcLaKkU5kB2GJb0V5f72qay5VhNKIC6wliUD+F8U7DMJWh1EdikCSPbNEg9JFbsVO/NM8Zkpcffh0AYzbQHsVJO9iiitnCGMrfI5m5v4vp3Zlt43LLFzEqGOttrts6HWlL+9miirUK//9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39880748521_fb07c3e1e3_z__l.jpg
 labels:
-  - Bioturm
-  - Bodylotion
-  - crueltyfree
-  - Duschgel
-  - Fair Fashion & Beauty
-  - gegen Tierversuche
-  - go vegan PeTA
-  - Mango
-  - Naturkosmetik
-  - Produkttest Bioturm
-  - stoppt Tierversuche
-  - vegan
-  - vegan beauty
-  - vegane Kosmetik
+- Bioturm
+- Bodylotion
+- crueltyfree
+- Duschgel
+- Fair Fashion & Beauty
+- gegen Tierversuche
+- go vegan PeTA
+- Mango
+- Naturkosmetik
+- Produkttest Bioturm
+- stoppt Tierversuche
+- vegan
+- vegan beauty
+- vegane Kosmetik
 focusKeyword: Bioturm
 status: publish
 isWerbung: false
@@ -36,10 +38,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: All Time Beauty-Favourites unter der Lupe
+advertisement: true
+
 ---
-
-Werbung\*
-
 **In der letzten Zeit habe ich viele für mich neue Produkte getestet und hier im Blog darüber berichtet. Heute möchte ich Euch mal ein paar meiner All Time Favourites  vorstellen. Wobei ich auch das mit einem kleinen Test verbinde. Ein Bisschen Spannung darf ja schließlich nicht fehlen.**
 
 Was ich seit Jahren schätze und verwende, sind die Naturkosmetik-Produkte von Bioturm. Auch in einem meiner [Vegan Beauty Basket Unboxing-Moments](/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/) habe ich bereits darüber berichtet. Nachdem ich jetzt schon lange mit der Granatapfel Bodycream und dem passenden Duschgel zufrieden bin, hatte ich Lust, mal etwas Neues auszuprobieren.
@@ -143,5 +144,3 @@ Umweltfreundliche, moderne Produktionsverfahren
 Für viele Produkte wird auf CO2-Extraktion zurückgegriffen. Bei diesem modernen Verfahren können besonders hochkonzentrierte, unverdünnte Pflanzenextrakte gewonnen werden. Es ist zudem besonders umweltfreundlich. Das Pflanzenmaterial wird dabei unter hohem Druck mit CO2 behandelt. Durch den Druck wird das CO2 flüssig und das Pflanzenextrakt kondensiert. Das CO2 wird recycelt, das Extrakt aufgefangen. Das Produkt, das am Ende dabei herauskommt,  ist genauso wirkungsvoll, wie unter höherer Einsatzration hergestellte wässrige oder alkoholische Auszüge.
 
 Wer jetzt neugierig geworden ist und gerne wissen möchte, ob die Bioturm-Produkte auch was für sie/ihn sind: Ihr findet Sie in vielen Drogeriemärkten wie zum Beispiel Budni sowie in den Denns Biosupermärkten und natürlich auf der Bioturm [Homepage](http://www.bioturm.de). Dort gibt es übrigens auch eine praktische [Händlersuche](http://www.bioturm.de/.cms/Haendlersuche/544-1). Einfach Euren Wohnort in die Suchmaske eingeben und es kann losgehen.
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
