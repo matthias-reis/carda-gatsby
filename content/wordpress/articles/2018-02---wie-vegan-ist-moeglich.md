@@ -122,29 +122,19 @@ Vegan wird man, weil man sich Gedanken gemacht hat und die Gedanken hören nicht
 
 Falls Du [Rezeptideen](/tag/vegan/vegane-rezepte/) oder Einkaufstipps brauchst: Melde Dich einfach.
 
-<iframe
-  style="width: 120px; height: 240px;"
-  src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3596188792&amp;asins=3596188792&amp;linkId=e5833bb8d2ad80723621d2fae762ac85&amp;show_border=false&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff"
-  frameborder="0"
-  marginwidth="0"
-  marginheight="0"
-  scrolling="no"
-></iframe>
-
 ## Infos zu folgenden Themen findest Du hier im Blog
 
-1.  <ol>     <li> [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
-1.  [Gesundheitliche Auswirkungen veganer Ernährung](/2014/08/ich-war-so-muede/)
-1.  [Fleischproduktion - Zahlen und Fakten](/2014/08/blutige-zahlen/)
-1.  [Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-blos/)
-1.  [Wolle](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
-1.  [Honig und Bienen](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
-1.  [Interview mit der veganen Ärztin Dr. Barbara Gorissen](/2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/)
-1.  [Weltwassertag](/2017/03/der-internationale-weltwassertag-2017/)
-1.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
-1.  [Vitamin B12](/2014/08/vitamin-b12-mythos-und-wahrheit/)
-1.  [Fleischatlas 2018](/2018/01/fleischatlas-2018/)
-1.  [Klimaschutz und vegane Ernährung wissenschaftlich betrachtet](/2017/02/klimaschutz-und-vegane-ernaehrung/)
-1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
-1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass) </li>
-    </ol>
+1.  [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+2.  [Gesundheitliche Auswirkungen veganer Ernährung](/2014/08/ich-war-so-muede/)
+3.  [Fleischproduktion - Zahlen und Fakten](/2014/08/blutige-zahlen/)
+4.  [Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-blos/)
+5.  [Wolle](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
+6.  [Honig und Bienen](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+7.  [Interview mit der veganen Ärztin Dr. Barbara Gorissen](/2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/)
+8.  [Weltwassertag](/2017/03/der-internationale-weltwassertag-2017/)
+9.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
+10.  [Vitamin B12](/2014/08/vitamin-b12-mythos-und-wahrheit/)
+11.  [Fleischatlas 2018](/2018/01/fleischatlas-2018/)
+12.  [Klimaschutz und vegane Ernährung wissenschaftlich betrachtet](/2017/02/klimaschutz-und-vegane-ernaehrung/)
+13.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
+14.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)
