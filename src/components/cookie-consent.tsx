@@ -6,11 +6,11 @@ import { Link } from './link';
 import { color, space, width, font, fontSize } from '../style';
 
 export const CookieConsent: React.FC = () => {
-  const [isVisible, setIsVisible] = React.useState(true);
+  const [isVisible, setIsVisible] = React.useState(false);
 
   React.useEffect(() => {
-    if (document.cookie.indexOf('consent=yes') > -1) {
-      setIsVisible(false);
+    if (document.cookie.indexOf('consent=yes') === -1) {
+      setIsVisible(true);
     }
   }, [setIsVisible]);
 
