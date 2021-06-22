@@ -1,29 +1,31 @@
 ---
-date: 2020-07-27T13:09:13.000Z
+date: 2020-07-27T13:09:13.000+00:00
 slug: wasser-trinken
-path: /2020/07/wasser-trinken/
+path: "/2020/07/wasser-trinken/"
 type: Artikel
 typeName: Artikel
 title: Wasser trinken
 seoTitle: Wasser trinken - Trinkroutine und Flaschen für unterwegs und daheim
 ogTitle: Wasser trinken - Trinkroutine und Flaschen für unterwegs und daheim
-description: Auf Tagestouren ist es immer gut, etwas zu Trinken dabei zu haben. Ich nehme mir am liebsten Wasser mit. Das ist natürlich und stillt den Durst perfekt.
-excerpt: Auf Tagestouren ist es immer gut, etwas zu Trinken dabei zu haben. Ich nehme mir am liebsten Wasser mit. Das ist ganz natürlich und stillt den Durst perfekt.
+description: Auf Tagestouren ist es immer gut, etwas zu Trinken dabei zu haben. Ich
+  nehme mir am liebsten Wasser mit. Das ist natürlich und stillt den Durst perfekt.
+excerpt: Auf Tagestouren ist es immer gut, etwas zu Trinken dabei zu haben. Ich nehme
+  mir am liebsten Wasser mit. Das ist ganz natürlich und stillt den Durst perfekt.
 fileName: 2020-07---wasser-trinken.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-19__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-19__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYC/8QAKRAAAgIBBAECBQUAAAAAAAAAAQIDBBEABRIhMQZBExVRYaEiMnGR0f/EABgBAAMBAQAAAAAAAAAAAAAAAAABBAID/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECESEDQf/aAAwDAQACEQMRAD8AZ20RwJHxQhcdYBxj/Nd7k8sk7xbBHBa3Gu8S2IpFLiOOU9E+2TjOsvU3gxjBXiP3EkfcDVHBbt/MN4ty/GryWb1XoMR0qlQAR5GB+dc3NN0bUGtNXvPrf07tl96FtrC2oX+DMz1GwjA9gnzj38HrvUzd6lWarHNVqbfKrRthpVP6lIyvEr7fyNKn1htdu96o3aaCjYnklnbDnGG6Azybwf60zNukmh2mlRushtQ1445CpBXkqjIyPxj6aF02hOHouYfUMNWvyBXoYA9z9hqLPvl/cLEccMcIgV0kw2crx+/ecg6NGpm60pirw1dTeykjNMiszN2oVRyJ8jJ+mc+dW015GilUOFUE8eAA4j20aNEBdD//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_wasser-fb.png__l.jpg
 labels:
-  - Edelstahltrinkflasche
-  - Ernährung & Gesundheit
-  - Flüssigkeitshaushalt
-  - less waste
-  - Trinken
-  - Wasser
-  - Wasser trinken
-  - Wasserflasche
-  - Zero Waste
+- Edelstahltrinkflasche
+- Ernährung & Gesundheit
+- Flüssigkeitshaushalt
+- less waste
+- Trinken
+- Wasser
+- Wasser trinken
+- Wasserflasche
+- Zero Waste
 focusKeyword: Wasser
 status: publish
 isWerbung: false
@@ -31,10 +33,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Trinkroutine und Flaschen für unterwegs und daheim
+affiliate: true
+
 ---
-
-_Affiliate Links\*_
-
 **Auf Tagesausflügen ist es immer gut, etwas zu Trinken dabei zu haben. Ich nehme mir am liebsten Wasser mit. Das ist am natürlichsten und stillt den Durst am besten.**
 
 Je nach Gusto kann es auch gerne mal mit einem [leckeren selbst gemachten Sirup](/2020/06/rosmarin-ingwer-sirup/) angereichert sein. Zum Wohle der Umwelt ist es mir auf jeden Fall besonders wichtig, meine eigene Flasche dabei zu haben. Die kann ich, falls sie leer wird, unterwegs am Wasserhahn auffüllen und komme nicht in die Verlegenheit, mir eine [PET-Flasche](/2018/07/glas-statt-plastik/) kaufen zu müssen - Der ein oder andere Kiosk führt zwar auch Glas-Pfandflaschen, aber Ihr wisst, was ich meine. Sparsamer ist Leitungswasser natürlich obendrein.
@@ -110,5 +111,3 @@ Kopfschmerzen, trockene Haut, Müdigkeit, Abgeschlagenheit, Verstopfung... Die L
 Übrigens sollte man auch nicht zu viel trinken. Wer zum Beispiel in Phasen starker körperlicher Anstrengung oder an heißen Tagen "über den Durst hinaus" trinkt und seinem Körper zu viel Wasser zuführt, leitet damit wichtige Elektrolyte aus. Das kann im schlimmsten Fall sogar zum Kollaps führen.
 
 Wenn Ihr zum Beispiel regelmäßig bei Marathons mitlauft oder Surfer⋆innen, Taucher⋆innen oder Crossfitter⋆innen seid, achtet Ihr darum wahrscheinlich schon aus Gewohnheit darauf, möglichst viele kleine Portionen und besonders mineralhaltiges Wasser und/oder isotonische Getränke zu Euch zu nehmen. Die sind im Alltagsleben in der Regel nicht notwendig.
-
-\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

@@ -1,26 +1,28 @@
 ---
-date: 2020-07-13T11:31:33.000Z
+date: 2020-07-13T11:31:33.000+00:00
 slug: plastikfrei-einkaufen
-path: /2020/07/plastikfrei-einkaufen/
+path: "/2020/07/plastikfrei-einkaufen/"
 type: Artikel
 typeName: Artikel
 title: Plastikfrei einkaufen
 seoTitle: Plastikfrei einkaufen - 5 praktische Tipps für den Alltag
 ogTitle: Plastikfrei einkaufen - 5 praktische Tipps für den Alltag
-description: Plastikfrei einkaufen klingt schwierig? Ist es nicht! Mit diesen fünf Alltagstipps gelingt es ganz einfach - Less Waste für Einsteiger⋆innen
-excerpt: Plastikfrei einkaufen klingt schwierig? Ist es nicht! Mit diesen fünf Alltagstipps gelingt es ganz einfach - Less Waste für Einsteiger⋆innen
+description: Plastikfrei einkaufen klingt schwierig? Ist es nicht! Mit diesen fünf
+  Alltagstipps gelingt es ganz einfach - Less Waste für Einsteiger⋆innen
+excerpt: Plastikfrei einkaufen klingt schwierig? Ist es nicht! Mit diesen fünf Alltagstipps
+  gelingt es ganz einfach - Less Waste für Einsteiger⋆innen
 fileName: 2020-07---plastikfrei-einkaufen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-02__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-02__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgABAwUE/8QAKBAAAgEDBAIBAwUAAAAAAAAAAQIDBAURAAYSITFBMgcU4RNRYYGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACARAAICAgEFAQAAAAAAAAAAAAECAAMEETESEyJxwdH/2gAMAwEAAhEDEQA/ANFNsq3TVCpDUyoXAJCHljrzhh/h13Lttuzw2qC0R3imFZSy8zNWTJmJWIJUKCDjHYXx3nXZ2vV2+Zp0icSzUy/qMrDHIkH8DWLNs24zXGSLcFPbBLLymd3okmcAt2rOGGcHoHB8jONQ25Nq66RuUJRUdhzrfv5Bm4dqRW4iot9bDcqLiGMsOC0frLKCes+x16ONDblQxcGPfI/1pb9SNsx2meO7WxIp6Bpvtmhow0QXAYFyQR7AyP3x50TuEiGd3pKeZqZ1By7Ywcd4z5Gq8bIa0eQ/Jn5NXasKjie603uoiqDUffPMXjMRSomYhlIwQVH4I062nu6cUM4vFxEtRByMdSSWIj6wpByej4Pk51atGxFIjK7WB5h7d+6mucYhgjJiHzJPzYDHLr+MedCq2rZYCC7KCPiTnGrVplSBF0Iq5y7bM//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_plastikfrei-einkaufen-fb.png__l.jpg
 labels:
-  - einkaufen
-  - Klima- & Umweltschutz
-  - less waste
-  - ohne Plastik
-  - plastikfrei
-  - Zero Waste
+- einkaufen
+- Klima- & Umweltschutz
+- less waste
+- ohne Plastik
+- plastikfrei
+- Zero Waste
 focusKeyword: Plastikfrei
 status: publish
 isWerbung: false
@@ -28,11 +30,13 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: 5 Tipps für den Alltag
+advertisement: true
+affiliate: true
+
 ---
-
-_Werbung\*_
-
 **Das Brot kommt in eine Tüte mit Sichtfenster aus Plastik, die Tomaten in einen Plastikbeutel und der Sojajoghurt ist in einem Plastikbecher - einkaufen kann eine ganz schöne Umweltsünde sein. So geht Plastik-frei einkaufen.**
+
+Wenn ich überlege, wie viel Plastik ich früher nach Hause geschleppt und beim Auspacken sofort in die Tonne befördert habe, wird mir angst und bange. Heute achte ich beim Einkaufen sehr darauf, möglichst wenig unnötige Verpackung mitzunehmen.
 
 <RemoteImage
   alt={`Plastikfrei einkaufen`}
@@ -41,8 +45,6 @@ _Werbung\*_
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-04__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKhAAAgIBAwIEBwEBAAAAAAAAAQIDBBEABSEGMRITQVEUIlJhcYHBJDL/xAAYAQACAwAAAAAAAAAAAAAAAAADBAECBf/EACERAAICAgIBBQAAAAAAAAAAAAECAAMEIRExQQUSIlFh/9oADAMBAAIRAxEAPwCZs+3qi+IRoIxgEtzk+3tpyXq7fGti/wCTTg4CSy/KHP0qO7H7AHSPdN8bbOm5bUFmOJ4o8CR4VOH9Ai/0jjWTTX7Njrjbtx3CS3bkiYgvYVpcrggsB7Ag9uMaQ9/eozRWr3JWx4DHia9PD0dv9h43T/UDhpIYmhf88cH9jWbdb7DS2Vq3wt2SzHZRnVZovLdQDgHvyDzg8djqyWZJFsxudyhbxH4mRBMMeFRiPDDkk8/L6djqrdR2H3K7LOInAVREiE5KIvYfnkn96vh3PafyF9Yw8bHRXpJ+X3o67PjR8RrD1ZXnpqlfZqyWQfGstqXzSG+o4xk+vfUKtZu1hBer3J03NZWICkeWoI/6BLceoCgcZ0aNMNUsxTYzEczqJ2mY2b9hbFthjxynJA9gT20o3KymG8LLj7H+6NGiqJDsT3P/2Q=="
 />
-
-Wenn ich überlege, wie viel Plastik ich früher nach Hause geschleppt und beim Auspacken sofort in die Tonne befördert habe, wird mir angst und bange. Heute achte ich beim Einkaufen sehr darauf, möglichst wenig unnötige Verpackung mitzunehmen.
 
 ## Weniger Plastik mit nach Hause nehmen
 
@@ -115,5 +117,3 @@ Geschältes Obst in der Tüte, Salat to go und vorgekochtes Couscous? Wenn man d
 Ich gebe es offen zu: Komplett Zero Waste zu leben, ist ganz schön schwierig. Die wenigsten schaffen das wirklich. Gerade in der Alltagshektik fallen wir alle schnell wieder in alte Muster zurück und es ist ja auch so wunderbar praktisch, nach der Arbeit noch schnell in den Supermarkt zu hüpfen. Mit ein paar Live Hacks kann man es aber auf jeden Fall schaffen, weniger Plastikmüll zu verursachen. Die Umwelt freut sich und Ihr müsst nicht mehr so oft den Müll runterbringen. Hat doch auch was, oder?
 
 [Warum Mehrweg besser ist, als PET](/2018/07/glas-statt-plastik/)
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mit kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
