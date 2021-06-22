@@ -1,34 +1,36 @@
 ---
-date: 2019-04-14T13:52:57.000Z
+date: 2019-04-14T13:52:57.000+00:00
 slug: biobrush-berlin-zahnbuersten-aus-holzresten
-path: /2019/04/biobrush-berlin-zahnbuersten-aus-holzresten/
+path: "/2019/04/biobrush-berlin-zahnbuersten-aus-holzresten/"
 type: Artikel
 typeName: Produkttest
 title: Biobrush Berlin - Zahnbürsten aus Holzresten
 seoTitle: Biobrush Berlin - Zahnbürsten aus Holzresten im Test
 ogTitle: Biobrush Berlin - Zahnbürsten aus Holzresten im Test
-description: Vor Kurzem bin ich durch einen lustigen Zufall auf die Zahnbürsten von Biobrush Berlin gestoßen - jetzt habe ich sie getestet.
-excerpt: Werbung - Vor Kurzem bin ich durch einen lustigen Zufall auf die Zahnbürsten von Biobrush Berlin gestoßen - jetzt habe ich sie getestet.
+description: Vor Kurzem bin ich durch einen lustigen Zufall auf die Zahnbürsten von
+  Biobrush Berlin gestoßen - jetzt habe ich sie getestet.
+excerpt: Vor Kurzem bin ich durch einen lustigen Zufall auf die Zahnbürsten von Biobrush
+  Berlin gestoßen - jetzt habe ich sie getestet.
 fileName: 2019-04---biobrush-berlin-zahnbuersten-aus-holzresten.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-4__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-4__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgEDB//EACkQAAIBAwMCBAcAAAAAAAAAAAECAwAEEQUSISKhBkKR0RMjMkFRcbL/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQACAwb/xAAjEQACAQQCAgIDAAAAAAAAAAABAgMABBExBSESQSKBQmGR/9oADAMBAAIRAxEAPwDMECQWkszKCI42fH5wCcdqUab4xsZAiX1rJbuQOqM/EXP6+od6scLfKIXGSCBVA1TTGtnD3EI3RncsgTIODnnHIPas7KyF35AMAw0D7rr+X5xOJ8GmiZkbbD8dY/vfsaroc9uDkbaR6naAK3Fa4dX1tIdzxW9ypAbeo3MM/ZlyCD61Bu/FGEK3UMKyc9I3p/QoQxsrFTsU4hIuIhNEcqdYpxZ3oKDqFTJJLeeMpOiSIeMMMiiiq61UIBGDSzUoEPXaOEYeVhlfcVUtUvFVWS9hZSfMx3r6+9FFHQ3UnSt8h++6RXnA2jhpogY33lCVP3jo/YzX/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_04_Organic.png__l.jpg
 labels:
-  - Berlin
-  - Biobrush
-  - Biobrush Berlin
-  - Biokunststoff
-  - Fair Fashion & Beauty
-  - Kinderzahnbürste
-  - Kunststoff
-  - nachhaltige Kinderzahnbürste
-  - nachhaltige Zahnbürste
-  - Plastik
-  - Startup
-  - umweltfreunliche Zahnbürsten
-  - Zahnbürste
-  - Zahnbürsten
+- Berlin
+- Biobrush
+- Biobrush Berlin
+- Biokunststoff
+- Fair Fashion & Beauty
+- Kinderzahnbürste
+- Kunststoff
+- nachhaltige Kinderzahnbürste
+- nachhaltige Zahnbürste
+- Plastik
+- Startup
+- umweltfreunliche Zahnbürsten
+- Zahnbürste
+- Zahnbürsten
 focusKeyword: Biobrush
 status: publish
 isWerbung: false
@@ -36,10 +38,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Bunte  Biobürsten für Groß und Klein im Test
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Vor Kurzem bin ich durch einen lustigen Zufall auf die Zahnbürsten von Biobrush Berlin gestoßen - weil mir das Konzept gleich gut gefiel, habe ich mir Zeit genommen, sie zu testen.**
 
 Auf dem Hamburger Heldenmarkt hatte ich mich eingehend mit einer sehr netten Dame über die Biobrush Bürsten unterhalten und auch gleich noch einen Flyer mitgenommen. Nachdem ich Gründerin Nannett anschließend per Mail kontaktierte, stellte sich heraus, dass sie mit Biobrush gar nicht auf dem **Heldenmarkt** zugegen gewesen war. Super Mund-Zu-Mund-Propaganda, oder? Ihr Interesse an meinem Blog war auf jeden Fall geweckt und meine Neugierde im Anschluss an ihre nette Antwort noch etwas größer.
@@ -161,5 +162,3 @@ Gründerin Nannett wurde übrigens bei den diesjährigen EMOTION-Awards in der K
 [Biobrush Berlin Hompage](https://biobrush-berlin.com)
 
 [Onlineshop Bio Brush Berlin](https://biobrush-berlin.com/shop/)
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
