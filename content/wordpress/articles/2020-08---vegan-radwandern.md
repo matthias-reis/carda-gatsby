@@ -31,7 +31,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Essen und trinken unterwegs
-affiliate: true
+affiliate: false
+advertisement: true
 
 ---
 **Ich weiß nicht, wie es Euch geht: Wir lieben unsere veganen Ausritte - gemütliche Tagestouren mit dem Fahrrad mit Badezeug und Snacks im Gepäck. Uns einfach mal treiben lassen und den Alltag für ein paar Stunden hinter uns lassen.**
@@ -42,17 +43,17 @@ Wenn man plant, am Abend wieder daheim zu sein, braucht man nicht viel mitzunehm
 
 Zu zweit reicht uns für einen Tag eine Packtasche. Darin transportieren wir
 
-- Flickzeug
-- Regenzeug
-- Kleine Verbandtasche
-- Luftpumpe
-- Picknickdecke
-- Proviant
-- Trinkwasser
-- Badesachen
-- Handtücher
-- Sonnencreme
-- Mückenschutz
+* Flickzeug
+* Regenzeug
+* Kleine Verbandtasche
+* Luftpumpe
+* Picknickdecke
+* Proviant
+* Trinkwasser
+* Badesachen
+* Handtücher
+* Sonnencreme
+* Mückenschutz
 
 Besonders auf den Punkt Proviant möchte ich hier ein bisschen eingehen. Sehr gut eignen sich nach unserer Erfahrung belegte Brote, [Power-Riegel](/2020/07/koffein-riegel-wingman/), Obst, Gemüse, Nüsse und Cracker.
 
@@ -68,13 +69,13 @@ Ansonsten darf mit, was schmeckt und nicht zu viel Platz wegnimmt. Unnötiger Ba
 
 ## Kaffee und Bananen
 
-Kaffee mit Hafermilch aus der [Thermoskanne](https://t.adcell.com/p/click?promoId=224459&slotId=80259&param0=https%3A%2F%2Fsamebutgreen.com%2Fcollections%2Fdrink-samebutgreen%2Fproducts%2Fisolierter-thermo-behaelter) und vorbereitetes Müsli in der Snackbox sind dann für uns sehr praktisch. Über das Müsli wird dann noch eine frische Banane geschnippelt, Hafermilch aus der Trinkflasche drüber - fertig ist das perfekte on the road Frühstück. Anschließend sind wir bereit für die nächsten 20 Kilometer.
+Kaffee mit Hafermilch aus der Termoskanne und vorbereitetes Müsli in der Snackbox sind dann für uns sehr praktisch. Über das Müsli wird dann noch eine frische Banane geschnippelt, Hafermilch aus der Trinkflasche drüber - fertig ist das perfekte on the road Frühstück. Anschließend sind wir bereit für die nächsten 20 Kilometer.
 
 Mittags gibt es zum Beispiel vegane Würstchen oder Falafel mit Brot und Gemüseschnitzen und zum Nachtisch leckere [Cookies](/2019/11/vegane-schoko-walnuss-cookies/) - so ein paar Kohlenhydrate zwischendurch können wahre Wunder bewirken, wenn man den ganzen Tag fleißig in die Pedale tritt.
 
 ## Plastik nein Danke!
 
-Plastiktüten kommen für uns natürlich nicht in Frage. Aber auch auf schwere Dosen oder Glasflaschen würde ich auf dem Bike auf jeden Fall verzichten. Wir schätzen die [leichten Edelstahl-Dosen von samebutgreen](https://t.adcell.com/p/click?promoId=224459&slotId=80259&param0=https%3A%2F%2Fsamebutgreen.com%2Fcollections%2Feat-samebutgreen-1%2Fproducts%2Fgrosse-lunchbox-1-400ml) (ihr seht sie auf den Bildern) sehr. Auch die [Trinkflaschen](https://t.adcell.com/p/click?promoId=224459&slotId=80259&param0=https%3A%2F%2Fsamebutgreen.com%2Fcollections%2Fdrink-samebutgreen%2Fproducts%2F1-liter-edelstahl-trinkflasche) sind mehr als praktisch. Das Wasser bleibt darin lange kühl und durch den Haltegriff kann man sie mittels eines Karabiners prima am Rucksack oder innen in der Fahrradpacktasche befestigen.
+Plastiktüten kommen für uns natürlich nicht in Frage. Aber auch auf schwere Dosen oder Glasflaschen würde ich auf dem Bike auf jeden Fall verzichten. Wir schätzen die leichten Edelstahl-Dosen von Samebutgreen (ihr seht sie auf den Bildern) sehr. Auch die Trinkflaschen sind mehr als praktisch. Das Wasser bleibt darin lange kühl und durch den Haltegriff kann man sie mittels eines Karabiners prima am Rucksack oder innen in der Fahrradpacktasche befestigen.
 
 Wir haben beide am Rahmen unserer Fahrräder einen Flaschenhalter befestigt. Sie ermöglichen uns, dass wir sogar während der Fahrt mal einen Schluck trinken können. Die letzte Etappe vor der Badestelle halten wir dann auch mal ohne noch eine weitere Pause durch. Zur Belohnung gibt es dann nach diesem Sprint eine schöne Erfrischung. Im Anschluss füllen wir die Fahrradflaschen aus den Flaschen in der Packtasche auf und es geht weiter. Unterwegs gibt es dann im Auflugslokal nochmal einen Refill.
 
