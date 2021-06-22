@@ -1,40 +1,42 @@
 ---
-date: 2019-03-04T15:48:11.000Z
+date: 2019-03-04T15:48:11.000+00:00
 slug: warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen
-path: /2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/
+path: "/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/"
 type: Artikel
 typeName: Rezension
 title: '"Warum wir Hunde lieben, Schweine essen und Kühe anziehen"'
 seoTitle: Buchtipp - "Warum wir Hunde lieben, Schweine essen und Kühe anziehen"
 ogTitle: Buchtipp - "Warum wir Hunde lieben, Schweine essen und Kühe anziehen"
-description: Melanie Joy hat mit "Warum wir Hunde lieben, Schweine essen und Kühe anziehen" das Fachbuch überhaupt zum Thema Karnismus erschaffen.
-excerpt: Affiliate Link - Melanie Joy hat mit "Warum wir Hunde lieben, Schweine essen und Kühe anziehen" das Fachbuch überhaupt zum Thema Karnismus erschaffen.
+description: Melanie Joy hat mit "Warum wir Hunde lieben, Schweine essen und Kühe
+  anziehen" das Fachbuch überhaupt zum Thema Karnismus erschaffen.
+excerpt: Melanie Joy hat mit "Warum wir Hunde lieben, Schweine essen und Kühe anziehen"
+  das Fachbuch überhaupt zum Thema Karnismus erschaffen.
 fileName: 2019-03---warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-03-warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-03-warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcFBggD/8QAKRAAAgIBAwMEAQUBAAAAAAAAAQIDBBEABSEGEjETFEFRIgcXMnGBgv/EABcBAQEBAQAAAAAAAAAAAAAAAAIEAwX/xAAkEQACAgAFAwUAAAAAAAAAAAABAgARAwQSIUExUZFhcaHR8P/aAAwDAQACEQMRAD8Aitj2aciokNeIRSThZhGFyQWGAf8Aktpw2OltqrwMu07RWa3G/wDFoS3qL4K9xPHkc5+DpW9G2KlVdvRJXl9xOo4UKF5VM+f606N2drFWP3NmKjGkuUk912AtzgEFcH54zriaSVJrfx8mVYLU9Btv3ErHVnTyNRrpQr0qEsqok8voMwjkBB47vI+Ac8edZ86vtHcZ3jq1Iy8RdjJB3sw7WII+iAefvnWqtyVp+mJqxlWaH2rtHYWclyQhZXBAA84/zSI3CpXXYfbV7kUlmCPvSXJGOSSVJGPnGmqhSCx61tDmX10vI5kP05u4gqR3paiEQSGUqqFSpUq3ODxn8ufHGrWv6g7RunY15Em9IlkjsWoiq5PJwVwf9zj40aNaqg3lOUVGDMy35+50/cfbdtoNUp4Ff03Cxe8jKjuB8fjn5+/jVO3e3Tq15iBK0aoEI7wMr44OPtRzzxo0aQQAE9oM7hoGShV+/p3n/9k=
-ogImage: null
+ogImage: 
 labels:
-  - Apathie
-  - Bücher & Filme
-  - Empathie
-  - Ernährung & Gesundheit
-  - essbare Tiere
-  - Ethik
-  - Fleischkonsum
-  - Haustiere
-  - Karnismus
-  - Melanie Joy
-  - Schweine essen und Kühe anziehen
-  - Tierethik
-  - Tierhaltung
-  - Tierrechte
-  - Tierrechte
-  - Tierschutz
-  - vegan
-  - vegan werden
-  - Veganismus
-  - Warum wir Hunde lieben
+- Apathie
+- Bücher & Filme
+- Empathie
+- Ernährung & Gesundheit
+- essbare Tiere
+- Ethik
+- Fleischkonsum
+- Haustiere
+- Karnismus
+- Melanie Joy
+- Schweine essen und Kühe anziehen
+- Tierethik
+- Tierhaltung
+- Tierrechte
+- Tierrechte
+- Tierschutz
+- vegan
+- vegan werden
+- Veganismus
+- Warum wir Hunde lieben
 focusKeyword: Warum wir Hunde lieben, Schweine essen und Kühe anziehen
 status: publish
 isWerbung: false
@@ -42,10 +44,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Buch von Melanie Joy
+affiliate: true
+
 ---
-
-_Affiliate Link\*_
-
 **Melanie Joy hat mit "Warum wir Hunde lieben, Schweine essen und Kühe anziehen" das Fachbuch überhaupt zum Thema Karnismus erschaffen. Ich habe es gelesen und möchte es auch meinen Leser\*innen ans Herz legen. Warum das so ist, werdet Ihr jetzt erfahren.**
 
 Bei ihren Formulierungen scheut sich **Melanie Joy** nicht davor, auch mal zu provozieren. Sie kitzelt den/die Leser\*in mit Hinweisen auf das eigene Verhalten und Fragen wie "Was würdest Du machen, wenn Dir ein Koch plötzlich gesteht, dass das Fleischgericht, dass Du gerade so genüsslich isst, mit Hundefleisch zubereitet wurde?".
@@ -189,5 +190,3 @@ von Arthur Schopenhauer ist zum Glück wahr. Ich hoffe sehr darauf, dass die veg
 "[**Warum wir Hunde lieben, Schweine essen und Kühe anziehen**](https://amzn.to/2C1THWu)" von Melanie Joy ist bei Compession Media erschienen. Es trägt den Untertitel " **Karnismus - eine Anleitung** ". Achim Stammberger hat es aus dem Amerikanischen übersetzt. Simon Kneip hat es in genderneutraler Schreibweise überarbeitet. Es trägt die **ISBN 978-3-9814621-7-3** . Die Originalausgabe "Why We Love Dogs, Eat Pigs And Wear Cows" wurde 2010 vom Verlag Conari Press, San Francisco veröffentlicht. Das Vorwort in der deutschen Ausgabe stammt von Hilal Sezgin.
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zum festen Bestandteil meines Blogs etablieren. Je mehr ich selbst lese, desto mehr möchte ich darüber berichten. Verstärkt hat sich das Ganze noch, [seit ich selbst mit meinem Mann Matze einen Roman geschrieben und veröffentlicht habe](https://amreis.de/hermetiker/).
-
-\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
