@@ -1,26 +1,30 @@
 ---
-date: 2021-04-09T17:07:43.000Z
+date: 2021-04-09T17:07:43.000+00:00
 slug: motatos
-path: /2021/04/motatos/
+path: "/2021/04/motatos/"
 type: Artikel
 typeName: Produkttest
 title: Lebensmittel retten mit Motatos
 seoTitle: Lebensmittel retten mit Motatos – Onlineshop gegen Verschwendung
 ogTitle: Lebensmittel retten mit Motatos – Onlineshop gegen Verschwendung
-description: Motatos rettet Lebensmittel und Waren des täglichen Bedarfs vor der Tonne. Ich habe den Onlineshop getestet.
-excerpt: Werbung & Affiliate Links – Die Motatos Gründer⋆innen hatten keinen Bock mehr darauf, dass ein Drittel aller Lebensmittel ohne Umweg in den Müll wandert. Sie schrieben sich darum auf die Fahnen, Lebensmittel zu retten. Das schaffen sie mit ihrem Onlinehandel ziemlich gut.
+description: Motatos rettet Lebensmittel und Waren des täglichen Bedarfs vor der Tonne.
+  Ich habe den Onlineshop getestet.
+excerpt: Die Motatos Gründer⋆innen hatten keinen Bock mehr darauf, dass ein Drittel
+  aller Lebensmittel ohne Umweg in den Müll wandert. Sie schrieben sich darum auf
+  die Fahnen, Lebensmittel zu retten. Das schaffen sie mit ihrem Onlinehandel ziemlich
+  gut.
 fileName: 2021-04---lebensmittel-retten-mit-motatos.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_2021-04-10-motatos-7__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_2021-04-10-motatos-7__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBQP/xAAoEAACAgEDAwMFAQEAAAAAAAABAgMEEQAFIQYSMRMUQQciMlFhgaH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQF/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAwQRQWEhIzH/2gAMAwEAAhEDEQA/AMT6Z763s7ME1VZXnPuIXuI7maLHayxDOGIYA4/utn6hb8k/TU6zCSIU5IZ/b+iEeME9n4gYye8cZ049yncp0lorEtKsi9oC+mFYKAZMfl2chCD8a50L4WON02pzSlkVp2BLZABOFRRg44OM+NYtja9fEuoYOTYR5EnR3uCbMdWpdnMa5do4+5VJGQCQTzpMPJuHt7EoFakXPYsr9skzL5wnnAPk8DPGrDCsm17vFUnhNAy1o7RENVBG5PjDEjgckg8+f1qN7ulno3qGBrVSvuU9actaLuJIbSOMjtxygKkn4IP70K8QsSQuh3KnvC87j3SV6fZfaug9epC6SS15GBRkByVOfIxn7T8Y1cdz6zp7ZQhjFiLuY93t4B90it5YKuezj/mjRp1NrBWMntqUsO5jdX9WT7jLXTZUJEUhL2LEOY5BjwIyMnzwxx/uTqH7lQ6hvtP7qnYzabvsznCkkcMFycfdjj4AP80aNIOdapPyMGMmgJ//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_motatos-fb.png__l.jpg
 labels:
-  - Ernährung & Gesundheit
-  - Klima- & Umweltschutz
-  - Lebensmittel
-  - Lebensmittel retten
-  - Lebensmittelverschwendung
-  - Motatos
+- Ernährung & Gesundheit
+- Klima- & Umweltschutz
+- Lebensmittel
+- Lebensmittel retten
+- Lebensmittelverschwendung
+- Motatos
 focusKeyword: Motatos
 status: publish
 isWerbung: false
@@ -28,10 +32,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Where The Revolution Happens"'
+advertisement: true
+affiliate: true
+
 ---
-
-_Werbung &amp; Affiliate Links\*_
-
 **Die Motatos Gründer⋆innen hatten keinen Bock mehr darauf, dass ein Drittel aller Lebensmittel ohne Umweg in den Müll wandert. Sie schrieben sich darum auf die Fahnen, Lebensmittel zu retten. Das schaffen sie mit ihrem Onlinehandel ziemlich gut.**
 
 Ich nutze den Shop schon länger und möchte ihn Euch heute gerne vorstellen. Besonders während der Lockdowns und bei besonders hohen Inzidenzzahlen zieht es mich offen gestanden nicht unbedingt in den Supermarkt. Da kommt mir das Angebot von Motatos sehr gelegen.
@@ -77,5 +81,3 @@ Matsmart wuchs immer weiter, bis die Räume in Stockholm 2015 endgültig zu eng 
 [Jetzt Motatos ausprobieren](https://dot.motatos.de/t/t?a=1500534338&as=1489826485&t=2&tk=1).
 
 <Gallery name="motatos-2" />
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Die Produkte wurden mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
