@@ -1,26 +1,28 @@
 ---
-date: 2020-05-18T19:30:34.000Z
+date: 2020-05-18T19:30:34.000+00:00
 slug: feine-vegane-schokolade
-path: /2020/05/feine-vegane-schokolade/
+path: "/2020/05/feine-vegane-schokolade/"
 type: Artikel
 typeName: Artikel
 title: Feine vegane Schokolade
 seoTitle: Feine vegane Schokolade - Chocqlate im Test
 ogTitle: Feine vegane Schokolade - Chocqlate im Test
-description: Wenn Ihr auf der Suche nach feiner veganer Schokolade seid, habe ich einen Tipp für Euch. Beim Genuss von Chocqlate habe ich eine alte Liebe wiederentdeckt.
-excerpt: Werbung & Affiliate Links - Wenn Ihr auf der Suche nach feiner veganer Schokolade seid, habe ich einen Tipp für Euch. Beim Genuss von Chocqlate habe ich eine alte Liebe wiederentdeckt.
+description: Wenn Ihr auf der Suche nach feiner veganer Schokolade seid, habe ich
+  einen Tipp für Euch. Beim Genuss von Chocqlate habe ich eine alte Liebe wiederentdeckt.
+excerpt: Wenn Ihr auf der Suche nach feiner veganer Schokolade seid, habe ich einen
+  Tipp für Euch. Beim Genuss von Chocqlate habe ich eine alte Liebe wiederentdeckt.
 fileName: 2020-05---feine-vegane-schokolade.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BC2020-04-27-chocqlate-01__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BC2020-04-27-chocqlate-01__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQIDB//EACoQAAEEAAUCBQUBAAAAAAAAAAECAwQRAAUSITFBUQYTIpGxFCNCYYHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgUDBAb/xAAgEQACAQUAAgMAAAAAAAAAAAABAhEAAwQhMWGhEkFx/9oADAMBAAIRAxEAPwDn0Vlb7OlwaFadDhbbGlSQRQUeqifjfF21CkNILzMqQyy2oAutgoQHL2JsUN6F107Y2ogNs5vL0PvhKnfMLIX9s36hQN1/K4xYFpS3UNiapKwdSWwpAIFHfT13PKgeKvFJlKa5T3Bt4TlXROiebnxS9Oy4JLrDqlOuqa176ndZIv1LoCrBvqD3xTZvlkdMZuVGbipacSUKjoeOoab34rc8Xh2lOIjuKlTInmtqpAQ0g6m1fipRG6q7874WsyTHfbeXFW0poIIDrzIaWqhuP32BI9sAPlO6eHIsLbLIB4qTP8QRmFRn5bpTbQQNCSoqKCb460fbGTPij67S3l+SS5pUKBcbAB+TzgwYNjusHbyXTHkdE+pqVJPi12GXzCiZeANw6rUpO9cX234wt5rFzAtuIn5yFJX6illsCyL61e3+4MGBPJqYXHOWcdmJUj8IkfUR7kV//9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_chocqlate-fb.png__l.jpg
 labels:
-  - Chocqlate
-  - Ernährung & Gesundheit
-  - Schokolade
-  - Schokolade zum selber machen
-  - vegane Schokolade
-  - Virgin Schokolade
+- Chocqlate
+- Ernährung & Gesundheit
+- Schokolade
+- Schokolade zum selber machen
+- vegane Schokolade
+- Virgin Schokolade
 focusKeyword: Feine vegane Schokolade
 status: publish
 isWerbung: false
@@ -28,10 +30,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Chocqlate im Test
+affiliate: true
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Wenn Ihr auf der Suche nach feiner veganer Schokolade seid, habe ich jetzt einen Tipp für Euch. Ich habe einige Sorten von Chocqlate getestet und dabei eine alte Liebe neu entdeckt.**
 
 Ich esse schon eine Zeitlang kaum noch Süßigkeiten. Erst habe ich darauf geachtet, keinen raffinierten Zucker mehr zu mir zu nehmen und irgendwann hatte ich dann einfach keine Lust mehr drauf. Das Einzige, was ich mir hin und wieder gönne, ist ein schönes Stück feine vegane Schokolade. Allerdings habe ich auch darauf in den letzten Wochen verzichtet.
@@ -73,5 +75,3 @@ Chocqlate startete 2013 mit den Schokoladensets zum selber machen. Dafür gab es
 Mit einigen Produkten unterstützt Chocqlate den Aufbau von Solarflächen in sozialen Einrichtungen in Deutschland. Derzeit ermöglicht jeder Verkauf eines Ohya Riegels oder Chocqbar den Aufbau eines Quadratzentimeters. Sukzessive soll das für alle Produkte ermöglicht werden.
 
 Wenn Ihr jetzt gespannt seid und gerne mehr erfahren möchtet, schaut mal im  [Onlineshop von Chocqlate](https://chocqlate.com/)  vorbei. Es lohnt sich.
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
