@@ -1,32 +1,35 @@
 ---
-date: 2019-01-31T11:55:46.000Z
+date: 2019-01-31T11:55:46.000+00:00
 slug: freshflaesch-cold-brew-coffee-juice-von-mounthagen
-path: /2019/01/freshflaesch-cold-brew-coffee-juice-von-mounthagen/
+path: "/2019/01/freshflaesch-cold-brew-coffee-juice-von-mounthagen/"
 type: Artikel
 typeName: Produkttest
 title: Freshfläsch - Cold Brew Coffee & Juice von Mounthagen
 seoTitle: Freshfläsch - Cold Brew Coffee & Juice von Mounthagen im Test
 ogTitle: Freshfläsch - Cold Brew Coffee & Juice von Mounthagen im Test
-description: 'Mounthagen stellt seit 1986 biologisch-dynamischen Kaffee her. Jetzt gibt es etwas ganz Neues vom Hamburger Röster: "Coffee & Juice" in der "Freshfläsch".'
-excerpt: 'Werbung - Mounthagen stellt seit 1986 biologisch-dynamischen Kaffee in Demeter-Qualität her. Jetzt gibt es etwas ganz Neues vom Hamburger Röster: "Coffee & Juice" in der "Freshfläsch".'
+description: 'Mounthagen stellt seit 1986 biologisch-dynamischen Kaffee her. Jetzt
+  gibt es etwas ganz Neues vom Hamburger Röster: "Coffee & Juice" in der "Freshfläsch".'
+excerpt: 'Mounthagen stellt seit 1986 biologisch-dynamischen Kaffee in Demeter-Qualität
+  her. Jetzt gibt es etwas ganz Neues vom Hamburger Röster: "Coffee & Juice" in der
+  "Freshfläsch".'
 fileName: 2019-01---freshflaesch-cold-brew-coffee-und-juice-von-mounthagen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_5__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUC/8QAKxAAAgEDAwMDAgcAAAAAAAAAAQIDBAURABIhBjFRE0GBFDIiQmFicZHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUE/8QAJBEAAgIBAwIHAAAAAAAAAAAAAQIAAwQFESFBgRIxUXGRofD/2gAMAwEAAhEDEQA/AIIqunsVVY3WlaRJ9tPNMDt9F2YgM3le3bWb1BW2q7XimsIj+pjihnqlqo42i2uzD7M8ttJz44OM54oRVFXWNQrW1bSw/WU+5HOVAMgGcDHbPnWhcqOkpOsbbHOkbrOJkLzF2bkE7fxtkr9vYAe/vp21lnoJqHA45HoPruYyeOp1psPxLl1WjWkQySv6+51csm0YXbhu/wCbJPxpCvs9GNwjcyH9qHTl1TRrLX1z09PFAqjfHjGXBwM8Hj+DpCucax5Dcv4BzqMmq2MSCBHs02tNipMa6dIqujeCoKiKRcEZwe/cH25GuoLKKe/UdfS7qyVW9V6maUTMnlVhGOT2LYP6aNGpeFc1doXzB6c7fveaslAyE9RJOprpE4mt1sSKK4VEqNzGVSGNdxcvnn2Hx8aULmI1LYBYeTwP6/zRo1Sz61qZVUAdpmxHZ1LMZ//Z
-ogImage: null
+ogImage: 
 labels:
-  - Arabica
-  - Arabica Kaffee
-  - Cold Brew
-  - Cold Brew Coffee
-  - Cold Brew Kaffee
-  - Energy Drink
-  - Ernährung & Gesundheit
-  - Freshfläsch
-  - Hamburg
-  - Koffein
-  - Mounthagen
-  - Papua Neuguinea
+- Arabica
+- Arabica Kaffee
+- Cold Brew
+- Cold Brew Coffee
+- Cold Brew Kaffee
+- Energy Drink
+- Ernährung & Gesundheit
+- Freshfläsch
+- Hamburg
+- Koffein
+- Mounthagen
+- Papua Neuguinea
 focusKeyword: Cold Brew Kaffee
 status: publish
 isWerbung: false
@@ -34,10 +37,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Neue Wachmacher aus Hamburg
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Mounthagen stellt seit 1986 biologisch-dynamischen Kaffee in Demeter-Qualität her. Jetzt gibt es etwas ganz Neues vom Hamburger Röster: "Coffee &amp; Juice" in der "Freshfläsch".**
 
 Auf dem diesjährigen **Hamburger Heldenmarkt** habe ich das Gebräu getestet und für gut befunden. Insgesamt gibt es drei Sorten - sie alle bewohnen jetzt meinen heimatlichen Kühlschrank.
@@ -94,5 +96,3 @@ Noch ein paar Fakten zum Mounthagen Cold Brew Kaffee: Der ist selbstverständlic
 Willst Du die einzige Kaffeeplantage kennenlernen? [Dann geht es hier entlang](/2017/09/die-einzige-kaffeeplantage-europas/).
 
 <Gallery name="20190131mounthagencoldbrewkaffee" />
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner Transparenz-Seite.
