@@ -63,6 +63,9 @@ export const AdminBar: React.FC = () => {
     query HeaderQuery {
       site {
         buildTime
+        siteMetadata {
+          siteUrl
+        }
       }
     }
   `);
@@ -78,7 +81,10 @@ export const AdminBar: React.FC = () => {
   return (
     isPreview && (
       <Container>
-        <Item href="/admin/#/collections/oldArticle/new" target="_blank">
+        <Item
+          href={`${data.site.siteMetadata.siteUrl}/admin/#/collections/oldArticle/new`}
+          target="_blank"
+        >
           <IconNew /> Neuer Beitrag
         </Item>
         <Item href="" target="_blank">
