@@ -43,27 +43,31 @@ export const Playlist: React.FC<{ spotify: string; itunes: string }> = ({
 }) => {
   return (
     <PlaylistContainer>
-      <TypeContainer>
-        <IconContainer>
-          <img src={spotifyImage} alt="spotify" />
-        </IconContainer>
-        <iframe
-          title="Spotify Playlist"
-          src={`https://open.spotify.com/embed/playlist/${spotify}`}
-          frameBorder="0"
-        />
-      </TypeContainer>
-      <TypeContainer>
-        <IconContainer>
-          <img src={itunesImage} alt="itunes" />
-        </IconContainer>
-        <iframe
-          title="iTunes Playlist"
-          src={`https://embed.music.apple.com/de/playlist/${itunes}`}
-          frameBorder="0"
-          sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-        />
-      </TypeContainer>
+      {spotify && (
+        <TypeContainer>
+          <IconContainer>
+            <img src={spotifyImage} alt="spotify" />
+          </IconContainer>
+          <iframe
+            title="Spotify Playlist"
+            src={`https://open.spotify.com/embed/playlist/${spotify}`}
+            frameBorder="0"
+          />
+        </TypeContainer>
+      )}
+      {itunes && (
+        <TypeContainer>
+          <IconContainer>
+            <img src={itunesImage} alt="itunes" />
+          </IconContainer>
+          <iframe
+            title="iTunes Playlist"
+            src={`https://embed.music.apple.com/de/playlist/${itunes}`}
+            frameBorder="0"
+            sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+          />
+        </TypeContainer>
+      )}
     </PlaylistContainer>
   );
 };
