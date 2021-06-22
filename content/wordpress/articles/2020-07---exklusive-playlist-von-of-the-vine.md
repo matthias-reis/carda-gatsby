@@ -1,5 +1,5 @@
 ---
-date: 2020-07-10T15:17:53+02:00
+date: 2020-07-10T15:17:53.000+02:00
 slug: of-the-vine-playlist
 path: "/2020/07/of-the-vine-playlist/"
 type: Artikel
@@ -159,7 +159,6 @@ In unserem Interview habe ich mit Sam über das aktuelle Of the Vine Album "East
 
 <Playlist spotify="3zLKlVQnK9cOdWl8eTmKIf" />
 
-Hier sind für Euch Of the Vine mit "An Event Of Moon Disaster"
+## Of the Vine – "An Event Of Moon Disaster"
 
 <YouTube id="WzsS0pBXJl8" />
-
