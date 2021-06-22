@@ -1,23 +1,25 @@
 ---
-date: 2016-03-02T18:05:53.000Z
+date: 2016-03-02T18:05:53.000+00:00
 slug: vegan-leben
-path: /2016/03/vegan-leben/
+path: "/2016/03/vegan-leben/"
 type: Artikel
 typeName: Artikel
 title: '"vegan leben"'
 seoTitle: '"vegan leben" - die neue vegane Marke im Supermarkt'
 ogTitle: '"vegan leben" - die neue vegane Marke im Supermarkt'
-description: Die Macher von "vegan leben" haben sich dazu entschlossen, ihre eigene vegane Lebensmittelmarke zu gründen. Ich habe schon mal probiert.
-excerpt: Werbung - Die Macher von "vegan leben" haben sich dazu entschlossen, ihre eigene vegane Lebensmittelmarke zu gründen. Ich habe schon mal probiert.
+description: Die Macher von "vegan leben" haben sich dazu entschlossen, ihre eigene
+  vegane Lebensmittelmarke zu gründen. Ich habe schon mal probiert.
+excerpt: Die Macher von "vegan leben" haben sich dazu entschlossen, ihre eigene vegane
+  Lebensmittelmarke zu gründen. Ich habe schon mal probiert.
 fileName: 2016-03---vegan-leben.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_vegan-leben__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_vegan-leben__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDBAURABIhBkETFDFCwSJhgTJRcXKR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMABf/EACMRAAICAQMDBQAAAAAAAAAAAAECAAMRBBIhInHRBRQxgZH/2gAMAwEAAhEDEQA/ANyqsVyqbjU7Eq3gEhVBuIQAcYGTjGpE6TqiPqhjT+8qj5On25rieOQe9B27jj41WqJUp6aWaQHZGNx4J4/GuK3otTMXsdj+eDD+3U8kxHn6OlZCWkplH2LNj/F0tXfpUxhmaqVlUZPhRfJbVjqWjp6qsmku/VoRjEzeXI2gc4ATtgkHsTpWsFxstHdo4bfUXSo8QFZN8eV2lT7QM53YPPprU6OhT0qT9+JJNm7G3jvO7XS6RRRIJpUi2n9TMFGP5OsuXq+yQoyz19O2eCqEvkfjOjRpGs1T0L0gRDuVHERL3dumHqjPB52ST0AMcZxzngvkjvrFivHlI5VsVhkVpeHnmZmZx+2cAAfYcaNGh6WxrTn47Yk6xk5E/9k=
-ogImage: null
+ogImage: 
 labels:
-  - Ernährung & Gesundheit
-  - Vegan Leben
-  - vegane Basis-Produkte
+- Ernährung & Gesundheit
+- Vegan Leben
+- vegane Basis-Produkte
 focusKeyword: vegan leben
 status: publish
 isWerbung: false
@@ -25,10 +27,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Die neue vegane Marke im Supermarkt
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Weil sich immer mehr Menschen für eine vegane Ernährungs- und Lebensweise entscheiden und weil das auch ihrer Einstellung entspricht, haben sich die Macher von "vegan leben" entschieden, ihre eigene vegane Lebensmittelmarke zu gründen.**
 
 Verkauft werden derzeit insgesamt über 150 Produkte. Den Verbrauchern soll eine breite Palette an pflanzenbasierten Artikeln angeboten werden. Das Sortiment reicht von ungekühltem Fleischersatz sowie gekühlten Produkten über Snacks, Superfood und Suppen bis hin zu Drogerie-Artikeln.
@@ -70,5 +71,3 @@ Das ist ein toller Schritt in Richtung pflanzenbasierte Zukunft und ein gutes Be
 <Gallery name="vegan-leben-2" />
 
 Infos:  [vegan-leben.de](https://www.veganleben.de/)
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
