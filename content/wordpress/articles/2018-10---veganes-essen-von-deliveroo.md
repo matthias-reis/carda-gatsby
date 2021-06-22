@@ -1,33 +1,35 @@
 ---
-date: 2018-10-31T13:48:53.000Z
+date: 2018-10-31T13:48:53.000+00:00
 slug: deliveroo
-path: /2018/10/deliveroo/
+path: "/2018/10/deliveroo/"
 type: Artikel
 typeName: Artikel
 title: Veganes Essen von Deliveroo
 seoTitle: Veganes Essen von Deliveroo - Leckeres nach Hause bestellen
 ogTitle: Veganes Essen von Deliveroo - Leckeres nach Hause bestellen
-description: Veganes Essen von Deliveroo bestellen? Das klappt super! Und das Angebot wird in Zukunft immer größer! Heute erreichte mich eine Pressemitteilung.
-excerpt: Werbung & Affiliate Links - Veganes Essen von Deliveroo bestellen? Das klappt super! Und das Angebot wird in Zukunft immer größer! Heute erreichte mich eine Pressemitteilung.
+description: Veganes Essen von Deliveroo bestellen? Das klappt super! Und das Angebot
+  wird in Zukunft immer größer! Heute erreichte mich eine Pressemitteilung.
+excerpt: Veganes Essen von Deliveroo bestellen? Das klappt super! Und das Angebot
+  wird in Zukunft immer größer! Heute erreichte mich eine Pressemitteilung.
 fileName: 2018-10---veganes-essen-von-deliveroo.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_deliveroo__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_deliveroo__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAAxEAABAwIFAgMFCQAAAAAAAAABAgMEBREABhITISIxBzJhFEFRccEzNDZCc3SBsbL/xAAZAQACAwEAAAAAAAAAAAAAAAABAwACBAX/xAAiEQABAwMDBQAAAAAAAAAAAAABAAIDBBEhEjFBBRMikfD/2gAMAwEAAhEDEQA/AIV4dURisZtYNQQV0uAhU+ckfmaa50fNatKB6qx0RRKtmqZPQIr7aZrju6qPLjp9kUg9auqxUkJSSARzx25xO51Fl5ByFSYLMluDUKw/u1WoE2LB0FTMcLHlAGom3dV8GWKs5lisUxsMyJDqKKy1NhIlaQlxxJ12HdDgb2ySOASLjqxhqXnUA0rs9NEfbeHsuTtzwfWed1XqbVKNDzO5LdpDMapSmg07NjRXCsoJ1WcTpuLEJuTcji/GHVh9qSwH4zzbzBNgtCri593ocSPJubKI1mKotPhcV6RIbeXGnKS2p06SHADqIBK7L0qUL+7B+ewzMrjUmlaoiHZzKloaVpCwhsqsQOCepKvS4+GBFUuIzlIkpwH6W4H11lrLjgmzYEiBSaxTXNl6NDeVtuNLPPB0lOnpKgb3B7d8JcPKs6ZWJTselJp0WY+iW4VyN0W6Ty5pCwCpIUB1Akc8DDpUPNB/bR/6wt+Jn3ekfoNf4xD54KqJTFdzUu5X8PqzLzbGazFDeh01TG7OQ0kKZe2yDcuC6VFRNgfNyfhfFvbSEuNqKUpKQTYDjWrlR+mMGQ/wB/Df0wQc+1T8sNhgawXRMheblf/Z
-ogImage: null
+ogImage: 
 labels:
-  - Berlin
-  - Deliveroo
-  - Ernährung & Gesundheit
-  - Essen
-  - Essen bestellen
-  - Hamburg
-  - pflanzlich
-  - vegan
-  - veganer Lieferdienst
-  - veganer Lieferservice
-  - Veganes Essen
-  - veganes Essen bestellen
-  - veganes Essen liefern lassen
+- Berlin
+- Deliveroo
+- Ernährung & Gesundheit
+- Essen
+- Essen bestellen
+- Hamburg
+- pflanzlich
+- vegan
+- veganer Lieferdienst
+- veganer Lieferservice
+- Veganes Essen
+- veganes Essen bestellen
+- veganes Essen liefern lassen
 focusKeyword: Veganes Essen von Deliveroo
 status: publish
 isWerbung: false
@@ -35,10 +37,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Leckeres liefern lassen
+affiliate: true
+
 ---
-
-_Werbung &amp; Affiliate Links\*_
-
 **Dass es inzwischen auch über verschiedene Lieferdienste gut funktioniert mit dem veganen Essen, [habe ich hier schon kurz angerissen.](/2017/12/veganes-essen-liefern-lassen/)  Jetzt erreichte mich eine Pressemitteilung von [Deliveroo](https://go.urtrackinglink.com/SH1TT) aus Berlin, deren Grundton mir besonders gut gefällt.**
 
 "Deliveroo's World Vegan Day: Das sind die veganen Food-Trends für zu Hause", heißt es da unter anderem. Das Aufmacherbild ist gleich mal eine Kiste mit wirklich schmackhaft aussehenden Donuts. Doch ist das schon alles? Nein!
@@ -74,5 +75,3 @@ Wer wissen möchte, warum es Tieren, Umwelt und Gesundheit gut tun, wenn man sic
 [newsletter]
 
 <small>Foto: [Deliveroo](https://go.urtrackinglink.com/SH1TT) </small>
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
