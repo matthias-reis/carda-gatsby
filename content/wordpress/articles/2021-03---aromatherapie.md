@@ -9,10 +9,9 @@ seoTitle: Aromatherapie - Mit ätherischen Ölen das Wohlbefinden steigern
 ogTitle: Aromatherapie - Wohlfühlen mit ätherischen Ölen
 description: Mit Aromatherapie könnt Ihr Euer Wohlbefinden steigern und unter Umständen
   sogar bestimmte Symptome wie beispielsweise Kopfschmerzen lindern
-excerpt: 'Werbung & Affiliate Links – Aromatherapie – was nach Wellness im Kurort
-  klingt, könnt Ihr mit ein paar Tricks und Kniffen daheim ausprobieren. Macht Euch
-  bereit: Euch erwartet die pure Entspannung – und zwar ganz ohne Ortswechsel und
-  Reisekosten.'
+excerpt: 'Aromatherapie – was nach Wellness im Kurort klingt, könnt Ihr mit ein paar
+  Tricks und Kniffen daheim ausprobieren. Macht Euch bereit: Euch erwartet die pure
+  Entspannung – und zwar ganz ohne Ortswechsel und Reisekosten.'
 fileName: 2021-03---aromatherapie.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-edel-naturwaren-3__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-edel-naturwaren-3__l.jpg
