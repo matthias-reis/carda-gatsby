@@ -1,33 +1,36 @@
 ---
-date: 2018-08-03T14:18:15.000Z
+date: 2018-08-03T14:18:15.000+00:00
 slug: veganer-schaumfestiger-herbe-duschgele-bioturm
-path: /2018/08/veganer-schaumfestiger-herbe-duschgele-bioturm/
+path: "/2018/08/veganer-schaumfestiger-herbe-duschgele-bioturm/"
 type: Artikel
 typeName: Produkttest
 title: Neues von Bioturm
 seoTitle: Veganer Schaumfestiger und herbe Duschgele von Bioturm - Neue Beauty-Lieblinge
 ogTitle: Veganer Schaumfestiger und herbe Duschgele von Bioturm - Neue Beauty-Lieblinge
-description: Wie schön! Ein veganer Schaumfestiger! Und dazu tolle herbe Duschgele! Da muss ich doch gleich mal testen. Bioturm spricht sich klar gegen Tierversuche aus.
-excerpt: Werbung - Wie schön! Ein veganer Schaumfestiger! Und dazu tolle herbe Duschgele! Da muss ich doch gleich mal testen. Bioturm spricht sich klar gegen Tierversuche aus.
+description: Wie schön! Ein veganer Schaumfestiger! Und dazu tolle herbe Duschgele!
+  Da muss ich doch gleich mal testen. Bioturm spricht sich klar gegen Tierversuche
+  aus.
+excerpt: Wie schön! Ein veganer Schaumfestiger! Und dazu tolle herbe Duschgele! Da
+  muss ich doch gleich mal testen. Bioturm spricht sich klar gegen Tierversuche aus.
 fileName: 2018-08---neues-von-bioturm.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_43772535472_041cfe37d4_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_43772535472_041cfe37d4_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAKRAAAQMCBQIGAwAAAAAAAAAAAQIDBAURAAYSITETIgcjQVFxgTJSYf/EABcBAAMBAAAAAAAAAAAAAAAAAAEEBQL/xAAkEQACAQQBAgcAAAAAAAAAAAABAgMABBEhMRIiBTJRYXGBwf/aAAwDAQACEQMRAD8AyKnQNbrAsbLUE2HrcjF78Rcnpy5VoMSI295kTrrLywLkW1gfBUBb15xE06jVN+lNzIzbKSEJfaSXfMcHIKQAbcbXtviR8QczvVqTElyzJmttsqZ6slIHTuU3I08XukX5uDhqe4KECPf581XB6m7Doc1Yso5FpNeyzHfqDdTZnqUtDqWZKU6SFdvYUG10lJ59+MUjN2WaXS4cx5hqqo6QslMuQ3rKiRpOlKPxN9jfexxp3hXWGYuRKtJJRHUytxNtzq8oKGm5ub77fOMxzXVVvZXhsSVl6TJQy8ovW1p7QoAewF8RPBry5ubm5WdsqpGPbOTr6x60nds6yIFbk07Rc7ORafFjtx43UaSkF1Y/XiwFrcDjbHOWuNVg4qWlCHHllx5bJKS4pRuSdyBv6AWwYMX0gjGe3mnYkVdgc0wzIXTacmJDeT0S4XSh3u7inSSPrb+fZwhmevu1Kgwqa5HhpRFtZ5tnS4uwIGpV9+cGDGhEieUYoPEvV1Y3X//Z
-ogImage: null
+ogImage: 
 labels:
-  - Biokosmetik
-  - Bioturm
-  - Duschgel
-  - Fair Fashion & Beauty
-  - Haarfestiger
-  - Natrue
-  - Naturkosmetik
-  - PETA approved
-  - Styling
-  - vegan
-  - vegan beauty
-  - vegane Kosmetik
-  - veganer Haarfestiger
+- Biokosmetik
+- Bioturm
+- Duschgel
+- Fair Fashion & Beauty
+- Haarfestiger
+- Natrue
+- Naturkosmetik
+- PETA approved
+- Styling
+- vegan
+- vegan beauty
+- vegane Kosmetik
+- veganer Haarfestiger
 focusKeyword: veganer Schaumfestiger
 status: publish
 isWerbung: false
@@ -35,10 +38,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Schaumfestiger und Duschgele
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Wisst Ihr, was ich gerne mag, wenn es so richtig heiß ist, wie im Moment? Herbe und zugleich frische Duftnoten. Die neuen Duschgele von Bioturm sind da eine gute Wahl für mich.**
 
 Sie erreichten mich vor Kurzem in einem Päckchen zusammen mit dem neuen veganen Haarfestiger. Schon seit ich vegan lebe, habe ich keinen mehr verwendet und ich war sehr gespannt darauf, ihn auszuprobieren.
@@ -196,5 +198,3 @@ Das klingt doch schon mal sehr gut, oder? Ich bleibe auf jeden Fall auch dran un
 [Mehr über Naturkosmetik gibt es hier](/2018/03/vegane-kosmetik-und-naturkosmetik/)
 
 Vielen Dank an Bioturm für die freundliche Zurverfügungstellung der Produkte! [Hier gehts zur Homepage](https://www.bioturm.de/).
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
