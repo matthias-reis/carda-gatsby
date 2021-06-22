@@ -1,48 +1,50 @@
 ---
-date: 2020-06-29T15:32:03.000Z
+date: 2020-06-29T15:32:03.000+00:00
 slug: vitamine-fettsaeuren-und-spurenelemente
-path: /2020/06/vitamine-fettsaeuren-und-spurenelemente/
+path: "/2020/06/vitamine-fettsaeuren-und-spurenelemente/"
 type: Artikel
 typeName: Artikel
 title: Vitamine, Fettsäuren und Spurenelemente
 seoTitle: Vitamine, Fettsäuren und Spurenelemente - vegane Hausapotheke
 ogTitle: Vitamine, Fettsäuren und Spurenelemente - vegane Hausapotheke
-description: Vitamine, Mineralstoffe, ungesättigte Fettsäuren und Spurenelemente sind wichtig für unsere Gesundheit. Daher sollten wir verstärkt auf sie achten.
-excerpt: Werbung & Affiliate Links - Vitamine, Mineralstoffe, ungesättigte Fettsäuren und Spurenelemente sind wichtig für unsere Gesundheit. Daher sollten wir verstärkt auf sie achten.
+description: Vitamine, Mineralstoffe, ungesättigte Fettsäuren und Spurenelemente sind
+  wichtig für unsere Gesundheit. Daher sollten wir verstärkt auf sie achten.
+excerpt: Vitamine, Mineralstoffe, ungesättigte Fettsäuren und Spurenelemente sind
+  wichtig für unsere Gesundheit. Daher sollten wir verstärkt auf sie achten.
 fileName: 2020-06---vitamine-fettsaeuren-und-spurenelemente.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-27-steiger-naturals-01__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-27-steiger-naturals-01__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgEBQcG/8QAJxAAAQMDAwMEAwAAAAAAAAAAAQIDBAAFEQYSIQciMRNBQpFRgfD/xAAYAQACAwAAAAAAAAAAAAAAAAADBAABAv/EACQRAAICAQIFBQAAAAAAAAAAAAECAxEABCEFEjFRkRMiQaHB/9oADAMBAAIRAxEAPwBnoxGU0oUqY2jSdtYhRdRm/NyCJspZkbFt7lDI5wfCBjAIwc5zTXJlJQyoggkJJArPOoeub7pz1XrdHhyZDcQOtJdS6Eqy6lJSQF48c581SqJZRCD7jZ8dcV1aryBmNC68kZidp0/crlZmX5t0vsNS0OeoVFYCVbin5KHPA+6ZG8pHdjwBiqXpFrOfrfTMu6XmFBYmolOsgR2lFGxCUYyVE9xKj7+McVc3IZQe4fdQRSRSMHN/mbgjEY2ye7bXVdqc7F9pUnnbnjOKy7qHpt6HNWwt6ZM3w0lLjTS07SHD2jGQTgH+xRRT3D41OqD/ACAfsYtxaZl0hUdLU13o51vSC1vwdEzWXBLDSpS1MKkp2KUktNgnGB8gv959qsZ9teWk4UoD8k0UUOcn1Wvvh9PvChqthn//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_vitamine.png__l.jpg
 labels:
-  - Algenöl
-  - D3
-  - DHA
-  - EPA
-  - Ernährung
-  - Ernährung & Gesundheit
-  - Fair Fashion & Beauty
-  - Hausapotheke
-  - Hyaluron
-  - Hyaluron vegan
-  - Hyaluronsäure
-  - K2
-  - Nahrungsergänzungsmittel
-  - Omega-3
-  - Omega-3 vegan
-  - Omega-3-Fettsäuren
-  - Steiger Naturals
-  - Vegan Leben
-  - vegane Ernährung
-  - vegane Hausapotheke
-  - veganes Hyaluron
-  - veganes Vitamin D
-  - Vitamin B12
-  - Vitamin C
-  - Vitamin D3 vegan
-  - Vitamin K2
-  - Vitaminpräparate
-  - Zink
+- Algenöl
+- D3
+- DHA
+- EPA
+- Ernährung
+- Ernährung & Gesundheit
+- Fair Fashion & Beauty
+- Hausapotheke
+- Hyaluron
+- Hyaluron vegan
+- Hyaluronsäure
+- K2
+- Nahrungsergänzungsmittel
+- Omega-3
+- Omega-3 vegan
+- Omega-3-Fettsäuren
+- Steiger Naturals
+- Vegan Leben
+- vegane Ernährung
+- vegane Hausapotheke
+- veganes Hyaluron
+- veganes Vitamin D
+- Vitamin B12
+- Vitamin C
+- Vitamin D3 vegan
+- Vitamin K2
+- Vitaminpräparate
+- Zink
 focusKeyword: Fettsäuren
 status: publish
 isWerbung: false
@@ -50,10 +52,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Auszug aus meiner veganen Hausapotheke
+affiliate: true
+advertisement: true
+
 ---
-
-_Werbung &amp; Affiliate Links\*_
-
 **Vitamine, Mineralstoffe, essentielle Fettsäuren und Spurenelemente sind wichtig für unsere Gesundheit. Daher ist es wichtig, dass wir sie unserem Körper in ausreichender Menge zuführen.**
 
 Es gibt etwas, bei dem sich die Geister scheiden: Nahrungsergänzungsmittel. Ich muss sagen, dass ich ganz klar pro bin. Dafür gibt es ein paar Gründe. Als Veganerin achte ich penibel darauf, dass meine [B12 Versorgung](/2014/08/vitamin-b12-mythos-und-wahrheit/) stimmt. Außerdem ergänze ich permanent D3 und K2. Es gibt auch noch ein paar andere Stoffe, auf die ich achte. Auf die Gründe gehe ich unten genauer ein.
@@ -111,5 +113,3 @@ Alle von mir erwähnten Produkte könnt Ihr über die Apotheke Eures Vertrauens 
 Alles über Vitamin B12 und warum es nicht nur für Veganer⋆innen wichtig ist, [erfahrt Ihr hier](/2014/08/vitamin-b12-mythos-und-wahrheit/).
 
 <Gallery name="steiger-naturals-2" />
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

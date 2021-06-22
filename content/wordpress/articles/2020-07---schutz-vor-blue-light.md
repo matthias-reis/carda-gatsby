@@ -1,31 +1,33 @@
 ---
-date: 2020-07-06T11:40:47.000Z
+date: 2020-07-06T11:40:47.000+00:00
 slug: schutz-vor-blue-light
-path: /2020/07/schutz-vor-blue-light/
+path: "/2020/07/schutz-vor-blue-light/"
 type: Artikel
 typeName: Produkttest
 title: Schutz vor Blue Light
 seoTitle: Schutz vor Blue Light - Das Repair & Glow Face Oil von Acaraa im Test
 ogTitle: Schutz vor Blue Light - Das Repair & Glow Face Oil von Acaraa im Test
-description: Kennt Ihr schon das Repair & Glow Face Oil von Acaraa? Ich wollte meiner Haut etwas Gutes tun und habe es ausprobiert. Das hier ist mein Testbericht.
-excerpt: Werbung & Affiliate Links - Kennt Ihr schon das Repair & Glow Face Oil von Acaraa? Ich wollte meiner Haut etwas Gutes tun und habe es ausprobiert. Das hier ist mein Testbericht.
+description: Kennt Ihr schon das Repair & Glow Face Oil von Acaraa? Ich wollte meiner
+  Haut etwas Gutes tun und habe es ausprobiert. Das hier ist mein Testbericht.
+excerpt: Kennt Ihr schon das Repair & Glow Face Oil von Acaraa? Ich wollte meiner
+  Haut etwas Gutes tun und habe es ausprobiert. Das hier ist mein Testbericht.
 fileName: 2020-07---schutz-vor-blue-light.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-27-acaraa-04__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-27-acaraa-04__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUACP/EACcQAAEDBAECBgMAAAAAAAAAAAECAwQABhESBQdBEyEiMWFxFBax/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACERAAICAQQCAwAAAAAAAAAAAAECAAMREhNBUQQhMfDx/9oADAMBAAIRAxEAPwDqmoV981+u2ZzfL5IVChuvIITt6gk6+XfzxVeTIaiRXH5KwhpsbKUewoF1a5BmX0+mfjPFTTzrCCU5AWkupCk/XYiksfbQvjOJSus2MF7OJc6a885cnT63uYkq3lS4LTj6tAnLuuFkAew2CsfFWpTqgD50J6OAt2U0x4ilJblyENjOwSkOH0j4FMpTZ1oqfcQOBjMS1dtynUhX1ab1wJbcgTBElBKm1qOcLQQfScffzRuZ0lD/AAKeHNw8i7CcTrJD+FbkEFKkgYCSCM/3NatVtbadPE0L5lqoEB9D7+dRZYlpM2lx7kZqSuQVlOSU6pAAwMJ7E9z3pG4gKHtWrUueZCx2tYs/yZ//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_blue-light-acaraa.png__l.jpg
 labels:
-  - Acaraa
-  - Beauty ohne Plastik
-  - Blue Light
-  - Blue Light Filter
-  - Fair Fashion & Beauty
-  - Gesichtsöl
-  - Gesichtsöl Naturkosmetik
-  - Gesichtsöl nicht komedogen
-  - Gesichtsöl Test
-  - Gesichtsöl unreine Haut
-  - vegan beauty
+- Acaraa
+- Beauty ohne Plastik
+- Blue Light
+- Blue Light Filter
+- Fair Fashion & Beauty
+- Gesichtsöl
+- Gesichtsöl Naturkosmetik
+- Gesichtsöl nicht komedogen
+- Gesichtsöl Test
+- Gesichtsöl unreine Haut
+- vegan beauty
 focusKeyword: Blue Light
 status: publish
 isWerbung: false
@@ -33,10 +35,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Das Repair & Glow Face Oil von Acaraa
+advertisement: true
+affiliate: true
+
 ---
-
-_Werbung &amp; Affiliate Links_
-
 **Kennt Ihr schon das Repair &amp; Glow Face Oil von Acaraa? Ich wollte meiner Haut etwas Gutes tun und habe es ausprobiert. Für Euch habe ich meine Erfahrung damit aufgeschrieben.**
 
 Vor Kurzem habe ich mich nach einer neuen Brille umgesehen. Was mir dabei aufgefallen ist: Die Optikgeschäfte bieten inzwischen einen Blue Light Filter an. Dieser verhindert, dass das schädliche blaue Licht, das zum Beispiel von Computerbildschirmen ausgeht, die Augen schädigt **.**
@@ -62,5 +64,3 @@ Ich habe auch das Körperöl, das Haaröl und die Duftkerzen von Acaraa in Verwe
 <Gallery name="acaraa-blue-light-2" />
 
 Zum Acaraa Onlineshop [geht es hier hier](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de).
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
