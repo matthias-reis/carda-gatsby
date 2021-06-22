@@ -3,7 +3,7 @@ date: 2019-03-19T14:31:20.000+00:00
 slug: die-geschichte-von-herrn-sommer-von-patrick-sueskind
 path: "/2019/03/die-geschichte-von-herrn-sommer-von-patrick-sueskind/"
 type: Artikel
-typeName: Rezension
+typeName: Buchtipp
 title: '"Die Geschichte von Herrn Sommer" von Patrick Süskind'
 seoTitle: '"Die Geschichte von Herrn Sommer" von Patrick Süskind'
 ogTitle: '"Die Geschichte von Herrn Sommer" von Patrick Süskind'

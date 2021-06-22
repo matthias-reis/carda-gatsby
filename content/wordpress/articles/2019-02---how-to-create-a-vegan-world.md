@@ -3,7 +3,7 @@ date: 2019-02-13T12:57:03.000+00:00
 slug: how-to-create-a-vegan-world-von-tobias-leenaert
 path: "/2019/02/how-to-create-a-vegan-world-von-tobias-leenaert/"
 type: Artikel
-typeName: Rezension
+typeName: Buchtipp
 title: '"How To Create A Vegan World"'
 seoTitle: '"How To Create A Vegan World" von Tobias Leenaert'
 ogTitle: '"How To Create A Vegan World" von Tobias Leenaert'
