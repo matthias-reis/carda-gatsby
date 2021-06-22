@@ -2,7 +2,7 @@
 date: 2021-05-19T06:00:42+02:00
 labels:
   - À Terre
-  - ' Bands'
+  - Bands
   - Review
   - Post-Rock
   - Post-Metal
