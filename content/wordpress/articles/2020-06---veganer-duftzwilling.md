@@ -1,27 +1,29 @@
 ---
-date: 2020-06-22T09:19:03.000Z
+date: 2020-06-22T09:19:03.000+00:00
 slug: veganer-duftzwilling
-path: /2020/06/veganer-duftzwilling/
+path: "/2020/06/veganer-duftzwilling/"
 type: Artikel
 typeName: Artikel
 title: Veganer Duftzwilling
 seoTitle: Veganer Duftzwilling - der Parfumgenerator von XAXX
 ogTitle: Veganer Duftzwilling - der Parfumgenerator von XAXX
-description: 'Viele Veganer⋆innen kennen das: Kurz nach der Umstellung merkt man, dass das Lieblingsparfum nicht vegan ist. Der vegane Duftzwilling ist die Lösung.'
-excerpt: 'Werbung & Affiliate Links - Viele Veganer⋆innen kennen das: Kurz nach der Umstellung merkt man, dass das Lieblingsparfum nicht vegan ist. Der vegane Duftzwilling ist die Lösung.'
+description: 'Viele Veganer⋆innen kennen das: Kurz nach der Umstellung merkt man,
+  dass das Lieblingsparfum nicht vegan ist. Der vegane Duftzwilling ist die Lösung.'
+excerpt: 'Viele Veganer⋆innen kennen das: Kurz nach der Umstellung merkt man, dass
+  das Lieblingsparfum nicht vegan ist. Der vegane Duftzwilling ist die Lösung.'
 fileName: 2020-06---veganer-duftzwilling.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-30-xaxx-titel-18__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-30-xaxx-titel-18__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAYI/8QAJxAAAQQBAwMDBQAAAAAAAAAAAQACAwQRBRIxEyEyIkFRcYGhscH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAEQL/2gAMAwEAAhEDEQA/AOqSQB3OFR1LUY6dSWYYcWNJxnk+35wptuIJys7qsDLDts0TZoy3xdxyjpwonmjaq3UKMVhwDN4zjcD+iUya9rvEgrDUacNazCKVdldjd25rAAD6Tjj6rS0Q/c3BRz1s5MJ4uoO3KWW6E+Qa/TJPPUzgD7IQlNimDS3MIe/aXfDc/wBTKvCIm98bkIUAVf/Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_veganer-duftzwilling-fb.png__l.jpg
 labels:
-  - Duftgenerator
-  - Duftzwillinge
-  - Fair Fashion & Beauty
-  - Reiszerstäuber
-  - vegane Duftzwillinge
-  - veganes Parfum
-  - XAXX
+- Duftgenerator
+- Duftzwillinge
+- Fair Fashion & Beauty
+- Reiszerstäuber
+- vegane Duftzwillinge
+- veganes Parfum
+- XAXX
 focusKeyword: Duftzwilling
 status: publish
 isWerbung: false
@@ -29,10 +31,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: XAXX Parfum
+advertisement: true
+
 ---
-
-_Werbung &amp; Affiliate Links\*_
-
 **Kennt Ihr das auch? Kurz nach der Umstellung auf vegan habe ich gemerkt, dass mein Lieblingsparfum nicht vegan ist. Dafür habe ich jetzt eine Lösung gefunden: vegane Duftzwillinge.**
 
 Hergestellt werden die Düfte vom veganen Parfumhersteller XAXX. Sie duften exakt wie ihre Zwillinge von großen Marken, sind aber komplett vegan. Das klingt klasse, oder? Ich wollte natürlich wissen, ob das auch wirklich so toll funktioniert, wie es sich anhört und habe es ausprobiert.
@@ -68,5 +69,3 @@ Noch ein praktischer Hinweis zu den Düften: Dass Parfum in Internet zu bestelle
 Auch dafür hat man bei XAXX eine, wie ich finde, gute Lösung gefunden: Man kann sich einfach ein passendes [Test-Set](https://www.xaxx.eu/test-sets/t?number=1028?c=40?partner=10081) aus ein bis vier Düften aussuchen und zu Hause in aller Ruhe entscheiden, welches Parfum einem am besten gefällt. Dafür gibt es von mir einen weiteren Punkt auf der Genuss-Skala. Insgesamt gibt es vom Hersteller aus Wietmarschen Lohne inzwischen 48 verschiedene Duftnoten. Sie alle werden von Hand gefertigt.
 
 <Gallery name="xaxx2" />
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
