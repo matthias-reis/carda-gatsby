@@ -1,35 +1,37 @@
 ---
-date: 2018-04-21T11:55:15.000Z
+date: 2018-04-21T11:55:15.000+00:00
 slug: tee-von-ashera-gut-fuer-die-augen
-path: /2018/04/tee-von-ashera-gut-fuer-die-augen/
+path: "/2018/04/tee-von-ashera-gut-fuer-die-augen/"
 type: Artikel
 typeName: Produkttest
 title: Tee von Ashéra im Test
 seoTitle: Tee von Ashéra - "Juwel der klaren Augenkraft" ist gut für die Augen
 ogTitle: Tee von Ashéra - "Juwel der klaren Augenkraft" ist gut für die Augen
-description: Tee von Ashéra wollte ich schon immer mal testen. Jetzt hatte ich die Gelegenheit und Ihr könnt sie auch bekommen! Wie, könnt Ihr hier erfahren.
-excerpt: Werbung - Tee von Ashéra wollte ich schon immer mal testen. Jetzt hatte ich die Gelegenheit und Ihr könnt sie auch bekommen! Wie, könnt Ihr hier erfahren.
+description: Tee von Ashéra wollte ich schon immer mal testen. Jetzt hatte ich die
+  Gelegenheit und Ihr könnt sie auch bekommen! Wie, könnt Ihr hier erfahren.
+excerpt: Tee von Ashéra wollte ich schon immer mal testen. Jetzt hatte ich die Gelegenheit
+  und Ihr könnt sie auch bekommen! Wie, könnt Ihr hier erfahren.
 fileName: 2018-04---tee-von-ashera-im-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41045840562_186eb626e7_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41045840562_186eb626e7_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAApEAABBAIBAQYHAAAAAAAAAAABAgMEEQAFIRIHExQiMWEGMkFCUZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAC/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAIQMxBBESE//aAAwDAQACEQMRAD8Am2p06tpNjwmXENuSFhAUokAH3I5F5pN72dbTWQHXm1x0oQgqsSVrJoX6VmQ0G68PsIT4TXdPtr/SheV3e7hqWxPfi7MOMNKQ24FR1IKj1BIIJURVC7A59sxlT0exFwcj5gpVyUbnVSdUiKqWtt0SEBYCDZTd/NwKPH9xM7HDralpTVfnLp23TEn4Zd8OtC1PvISnp6PMOq7BHJyEvSCzH7uufqcSxuEyhanHCdUhfFY3alvDzBV8fdzhhkCQahMitTCDq+7AqzQNWfTFElwukgiqOGGW5oAChP/Z
-ogImage: null
+ogImage: 
 labels:
-  - Ashera
-  - Bambus
-  - Bambusbecher
-  - Chi
-  - Ernährung
-  - Ernährung & Gesundheit
-  - Fair Fashion & Beauty
-  - ganzheitlich
-  - Juwel der klaren Augenkraft
-  - Naturkosmetik
-  - TCM
-  - Tee
-  - Traditionelle Chinesische Medizin
-  - vegane Ernährung
-  - Yin Yang
+- Ashera
+- Bambus
+- Bambusbecher
+- Chi
+- Ernährung
+- Ernährung & Gesundheit
+- Fair Fashion & Beauty
+- ganzheitlich
+- Juwel der klaren Augenkraft
+- Naturkosmetik
+- TCM
+- Tee
+- Traditionelle Chinesische Medizin
+- vegane Ernährung
+- Yin Yang
 focusKeyword: Tee von Ashéra
 status: publish
 isWerbung: false
@@ -37,10 +39,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Juwel der klaren Augenkraft
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Tee von Ashéra wollte ich schon immer mal testen. Jetzt hatte ich die Gelegenheit. Gerne möchte ich Euch an meinem Fazit teilhaben lassen, daher habe ich es hier mal zusammengefasst.**
 
 <RemoteImage
@@ -111,5 +112,3 @@ Gegen weniger trockene Augen habe ich als Kontaktlinsenträgerin in der feinstau
     },
   ]}
 />
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
