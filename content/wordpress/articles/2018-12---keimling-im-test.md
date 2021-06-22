@@ -1,41 +1,45 @@
 ---
-date: 2018-12-09T14:03:01.000Z
+date: 2018-12-09T14:03:01.000+00:00
 slug: geschenkidee-leckeres-von-keimling
-path: /2018/12/geschenkidee-leckeres-von-keimling/
+path: "/2018/12/geschenkidee-leckeres-von-keimling/"
 type: Artikel
 typeName: Produkttest
 title: Keimling im Test
 seoTitle: 'Keimling Geschenkidee: Schokocreme, Goldene Milch und Konfekt'
 ogTitle: 'Keimling Geschenkidee: Schokocreme, Goldene Milch und Konfekt'
-description: 'Bald ist Weihnachten. Darum habe ich ein paar spannende Geschenktipps für Euch: Goldene Milch, Konfekt und Schokocreme von Keimling.'
-excerpt: 'Werbung & Affiliate Links - Langsam aber sicher geht es ja ziemlich strack auf Weihnachten zu. Darum findet Ihr auch bei mir im Blog etwas derzeit sehr Beliebtes: Geschenktipps. Heute möchte ich Euch ein paar Köstlichkeiten aus dem Hause Keimling vorstellen, die ich gerade selbst getestet habe.'
+description: 'Bald ist Weihnachten. Darum habe ich ein paar spannende Geschenktipps
+  für Euch: Goldene Milch, Konfekt und Schokocreme von Keimling.'
+excerpt: 'Langsam aber sicher geht es ja ziemlich strack auf Weihnachten zu. Darum
+  findet Ihr auch bei mir im Blog etwas derzeit sehr Beliebtes: Geschenktipps. Heute
+  möchte ich Euch ein paar Köstlichkeiten aus dem Hause Keimling vorstellen, die ich
+  gerade selbst getestet habe.'
 fileName: 2018-12---keimling-im-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-11-18-keimling0012__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-11-18-keimling0012__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUGAv/EACcQAAICAgIBAwQDAQAAAAAAAAECAwQFEQAhBhITMSJBUXEUYWLw/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMF/8QAJBEAAgICAQEJAAAAAAAAAAAAAQIAEQMEEnETITEyQVFhkcH/2gAMAwEAAhEDEQA/ALmxcxeLrxtkslRrF1JWJ5NyfHW111vrR5n6+NrZTzBstVAmpBXllaI+tUlUCNgG6BOyp1/rlrawOM8g8Zlyc6NK6yvAnqneJTr2++v69XFxEdTBeF5lakSKkstcyJ/JLDenOl9X3Ohv9frmdt1lNuaUd/WUw6i8VYeaxHc/49bs4gxURCWndGRJlJBAcFlIG99Ag8k1/G7MeLZJb1eaWpGfdKo4HQPS7A60NcdyWfanQxE0NSZnjWRTCHWNvqT8nr4b55Ai8yWWtYD1LDPJE8TEWUl9skdFhv8A4cnpZcWMMwNeP5L7GocjWRZoeo9zfWYzIecTYTDDGLSM6Gw8/rKerYYL0D9j1zvxLzqxawPklW1TUV7ixIuwVZSvqOxod/PDhwru3YD6jUVeVV8xrJZmCzja9VxYKIGViq66P45R1zUgsCcWLE03tiIGb6dD4/ABPDhwWE8V4iIcWbn/2Q==
-ogImage: null
+ogImage: 
 labels:
-  - Chufas
-  - Erdmandel
-  - Ernährung & Gesundheit
-  - frei von Palmöl
-  - Geschenke
-  - Goldene Milch
-  - Keimling
-  - Kurkuma Kurkuma Latte
-  - Palmöl-frei
-  - Pralinen
-  - roh
-  - roh-vegan
-  - Rohvegan
-  - Schokoaufstrich ohne Palmöl
-  - Schokocreme
-  - Süßigkeiten
-  - vegan
-  - vegane Pralinen
-  - vegane Schokocreme
-  - veganer Schokoaufstrich
-  - Zimt
+- Chufas
+- Erdmandel
+- Ernährung & Gesundheit
+- frei von Palmöl
+- Geschenke
+- Goldene Milch
+- Keimling
+- Kurkuma Kurkuma Latte
+- Palmöl-frei
+- Pralinen
+- roh
+- roh-vegan
+- Rohvegan
+- Schokoaufstrich ohne Palmöl
+- Schokocreme
+- Süßigkeiten
+- vegan
+- vegane Pralinen
+- vegane Schokocreme
+- veganer Schokoaufstrich
+- Zimt
 focusKeyword: Keimling
 status: publish
 isWerbung: false
@@ -43,10 +47,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Vegane Geschenkidee
+advertisement: true
+
 ---
-
-_Werbung &amp; Affiliate Links_
-
 **Langsam aber sicher geht es ja ziemlich strack auf Weihnachten zu. Darum findet Ihr auch bei mir im Blog etwas derzeit sehr Beliebtes: Geschenktipps. Heute möchte ich Euch ein paar Köstlichkeiten aus dem Hause Keimling vorstellen, die ich gerade selbst getestet habe.**
 
 Wer Keimling Naturkost kennt, weiß dass dort gesunde Ernährung im Fokus steht. Der Geschmack soll dabei jedoch auch nicht zu kurz kommen. Keimling wurde vor 34 Jahren als kleiner Naturkostladen gegründet und zählt heute zu den größten Vegan- und Rohkosthändlern in ganz Europa. Neben veganen Bio-Lebensmitteln findet man dort auch jede Menge tolle Rezepte, Küchengeräte und andere nützliche Accessoires für die Küche.
@@ -133,5 +136,3 @@ Das ist schon mal ein guter Anfang, aber Ihr braucht für Weihnachten noch ein p
     },
   ]}
 />
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
