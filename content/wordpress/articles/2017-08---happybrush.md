@@ -96,6 +96,6 @@ Beim Unboxing fiel mir sofort auf, dass bei der Verpackung komplett auf unnötig
   loadingUrl="undefined"
 />
 
-Zur Homepage von Happybrush geht es [hier entlang](https://www.adcell.de/promotion/click/promoId/169537/slotId/80259?param0=https%3A%2F%2Fwww.happybrush.de%2F) .
+Zur Homepage von Happybrush geht es [hier entlang](https://www.adcell.de/promotion/click/promoId/169537/slotId/80259?param0=https%3A%2F%2Fwww.happybrush.de%2F).
 
 <Gallery name="flickr/annehappybrush" />
