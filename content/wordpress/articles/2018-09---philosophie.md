@@ -70,7 +70,7 @@ Sollen jetzt ein paar Bücherwürmer die Welt retten? Auch hierzu ein klares Nei
   loadingUrl="undefined"
 />
 
-Nehmen wir Friedrich Nietzsche. "[Wo selbst die Wege nachdenklich werden - Friedrich Nietzsche und der Berg"](https://www.audible.de/pd/Wo-selbst-die-Wege-nachdenklich-werden-Hoerbuch/8711952555?) ist ein Werk, welches ich jedem\*r empfehlen kann. Als [Hörbuch](https://www.amazon.de/gp/product/B00NTQ6K7E/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B00NTQ6K7E&linkCode=as2&tag=cardamonchai-21&linkId=a30516ccfe001399fd0d08d742fe1a3a) lässt es sich auch in hektischen Lebensphasen häppchenweise genießen. Wann immer sich Zeit findet. Morgens in der Bahn, oder abends beim Kochen.
+Nehmen wir Friedrich Nietzsche. "Wo selbst die Wege nachdenklich werden – Friedrich Nietzsche und der Berg" ist ein Werk, welches ich jedem\*r empfehlen kann. Als [Hörbuch](https://www.amazon.de/gp/product/B00NTQ6K7E/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B00NTQ6K7E&linkCode=as2&tag=cardamonchai-21&linkId=a30516ccfe001399fd0d08d742fe1a3a) lässt es sich auch in hektischen Lebensphasen häppchenweise genießen. Wann immer sich Zeit findet. Morgens in der Bahn, oder abends beim Kochen.
 
 ## Nietzsche war kein Schreibtischtäter
 
