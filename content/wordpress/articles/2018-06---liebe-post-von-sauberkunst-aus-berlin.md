@@ -93,7 +93,7 @@ Jetzt hoffe ich mal schwer, dass ich beim nächsten Sauberkunst Event dabei sein
 Kennt Ihr schon meinen letzten Sauberkunst Unboxing Artikel? Noch nicht? Dann lest mal [hier rein](/2018/02/unboxing-sauberkunst/). Wer auch mal schnuppern möchte, kann direkt bei Sauberkunst auf [Homepage](http://www.sauberkunst.de) stöbern gehen. Viel Spaß!
 
 <Gallery
-images={\[
+images={[
 {
 mediumUrl:
 'https://storage.googleapis.com/cardamonchai-images/2018_06_27368621857_37f64e764b_k__m.jpg',
@@ -118,7 +118,7 @@ mediumUrl:
 largeUrl:
 'https://storage.googleapis.com/cardamonchai-images/2018_06_41338235775_b67523d4b4_k__l.jpg',
 },
-\]}
+]}
 />
 
 <RemoteImage
