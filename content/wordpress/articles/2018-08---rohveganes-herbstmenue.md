@@ -1,28 +1,30 @@
 ---
-date: 2018-08-31T09:11:40.000Z
+date: 2018-08-31T09:11:40.000+00:00
 slug: rohveganes-herbstmenue
-path: /2018/08/rohveganes-herbstmenue/
+path: "/2018/08/rohveganes-herbstmenue/"
 type: Artikel
 typeName: Rezept
 title: Rohveganes Herbstmenü
 seoTitle: Rohveganes Herbstmenü - Buntes für die kühle Jahreszeit
 ogTitle: Rohveganes Herbstmenü - Buntes für die kühle Jahreszeit
-description: Lust auf etwas Buntes auf dem Teller? Ich auch! Darum habe ich mir ein rohveganes Herbstmenü ausgedacht, bei dem es so richtig farbenfroh wird!
-excerpt: Werbung, Anzeige & Affiliate Links - Lust auf etwas Buntes auf dem Teller? Ich auch! Darum habe ich mir ein rohveganes Herbstmenü ausgedacht, bei dem es so richtig farbenfroh wird!
+description: Lust auf etwas Buntes auf dem Teller? Ich auch! Darum habe ich mir ein
+  rohveganes Herbstmenü ausgedacht, bei dem es so richtig farbenfroh wird!
+excerpt: Lust auf etwas Buntes auf dem Teller? Ich auch! Darum habe ich mir ein rohveganes
+  Herbstmenü ausgedacht, bei dem es so richtig farbenfroh wird!
 fileName: 2018-08---rohveganes-herbstmenue.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_harvest-3611940_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_harvest-3611940_640__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYIB//EACwQAAICAQMDAQYHAAAAAAAAAAECAwQRAAUhBhIxQRMUIiNCUQcVMmGBocH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwUE/8QAIBEAAQQCAgMBAAAAAAAAAAAAAQACAxEEIRKBBUFRcf/aAAwDAQACEQMRAD8Are39HR07AsQb2Qsakey92GCD5zzzp7QoNsBfbzK25WkhMshuDsjiUZ7I2X6iME58qqnAJ40tcL1nhmkUtEkiPIvcV7lHJBI/bOkpa8v5juT13t2JobzKjRnLSiON5IQmD8wkEfSwOM5BJOo/kHmJgLdWq3i2YvIuyjTR6+3+bTdYogoq2lTa1tSiAT15jLDDOTwskb57SwGQVOP059dSs34eMYpIReqH2oZZC1L4iPIGc8fFznH28evPd6F/cN/bbt0aQ25LgbNSF2mDshEyYf4ec5zlgpHHGtC+7iQez+aq4Kh1IY/bk/7p+PHyYOZu+lkzJYpXkwtod11e1nEda9R2dsS3Jdq4MgXs9zTwQfX+NNl6quWK0U24QVbKmMKoUNC8anOQrowODzwcjnjRo02Y6pTpHFo0prYOr9xSVH22ChUVe1ULxvPIqduAod3JxjjA1b7nWfUVKMM1unL2nHNRVznx4Ppn+tGjQQfExji4WV//2Q==
-ogImage: null
+ogImage: 
 labels:
-  - Herbst
-  - kochen Rezepte
-  - Rohkost
-  - Rohvegan
-  - Salat
-  - vegan
-  - vegane Rezepte
-  - Vegane Rezepte
+- Herbst
+- kochen Rezepte
+- Rohkost
+- Rohvegan
+- Salat
+- vegan
+- vegane Rezepte
+- Vegane Rezepte
 focusKeyword: rohveganes
 status: publish
 isWerbung: false
@@ -30,10 +32,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Buntes für die kühle Jahreszeit
+affiliate: true
+
 ---
-
-_Werbung, Anzeige &amp; Affiliate Links\*_
-
 **Hand aufs Herz: Wer hat schon mal etwas gegessen, weil es so schön bunt war? Das geht wohl so ziemlich jedem so, oder? Ich bekenne mich jedenfalls offen dazu: Ich stehe auf farbenfrohes Essen. Farben machen eben glücklich. Das wusste schließlich auch schon Frederik die Maus.**
 
 Jetzt, wo die Tage langsam aber sicher nach und nach wieder kürzer und grauer werden, sehnen wir uns nach Farbe. Da ist es auch ganz natürlich, zu bunten Zutaten zu greifen und diese auf dem Teller und im Glas zu vereinen. Noch gibt es überall Beeren, Trauben, Pflaumen und Melonen zu kaufen. Die Zeit von Nüssen, Kohl, Kürbissen und [Trockenfrüchten](https://www.keimling.de/trockenfruechte-nuesse.html?acc=598b3e71ec378bd83e0a727608b5db01&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm) steht kurz bevor.
@@ -149,7 +150,7 @@ Als Nachtisch gibt es dann einen schmackhaften Obstsalat
 
 Den Apfel in feine Stückchen scheiden und sofort mit dem Saft der halben Zitrone übergießen. Die Brombeeren, die Heidelbeeren und die Kürbiskerne hinzugeben und alles schön vermengen. Den Zimt unterheben und den Obstsalat im Kühlschrank ziehen lassen.
 
-_Fertig ist Euer rohveganes Herbstmenü! Guten Appetit!_
+Fertig ist Euer rohveganes Herbstmenü! Guten Appetit!
 
 Als Rohkost bezeichnet man Gerichte und Lebensmittel, die bei Temperaturen unter 45 Grad zubereitet, beziehungsweise hergestellt werden. Nährstoffe und Vitamine können so besser erhalten und dem Körper in größerer Menge zugeführt werden.
 
@@ -158,5 +159,3 @@ Als Rohkost bezeichnet man Gerichte und Lebensmittel, die bei Temperaturen unter
 Lust auf was Warmes? Hier findet Ihr ein [tolles Rezept für eine herbstliche Zucchinisuppe](/2015/09/zucchinisuppe-herbstlich-vegan/).
 
 Bild im Titel: [Sofia HM](https://pixabay.com/de/users/SofiaHM-8352739/), Pixabay, andere Bilder: von mir
-
-\*Hinweis: Dieser Beitrag enthält Werbung, eine Anzeige und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
