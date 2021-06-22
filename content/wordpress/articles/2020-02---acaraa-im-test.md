@@ -1,39 +1,41 @@
 ---
-date: 2020-02-08T20:35:55.000Z
+date: 2020-02-08T20:35:55.000+00:00
 slug: acaraa-im-test
-path: /2020/02/acaraa-im-test/
+path: "/2020/02/acaraa-im-test/"
 type: Artikel
 typeName: Artikel
 title: Acaraa im Test
 seoTitle: Acaraa im Test - natürliche Pflegeöle für Haut und Haar
 ogTitle: Acaraa im Test - natürliche Pflegeöle für Haut und Haar
-description: Ich habe das Haaröl und der Hautöl von Acaraa getestet. Die Naturkosmetikprodukte aus München habe ich genau im richtigen Moment für mich entdeckt.
-excerpt: Werbung & Affiliate Links - Ich habe das Haaröl und der Hautöl von Acaraa getestet. Die Naturkosmetikprodukte aus München habe ich genau im richtigen Moment für mich entdeckt.
+description: Ich habe das Haaröl und der Hautöl von Acaraa getestet. Die Naturkosmetikprodukte
+  aus München habe ich genau im richtigen Moment für mich entdeckt.
+excerpt: Ich habe das Haaröl und der Hautöl von Acaraa getestet. Die Naturkosmetikprodukte
+  aus München habe ich genau im richtigen Moment für mich entdeckt.
 fileName: 2020-02---acaraa-im-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_P1250596__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_P1250596__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAKhAAAQMDAwMCBwEAAAAAAAAAAQIDBAAFEQYSIRMxQVFhBxQiI3GB0bH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwIF/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAwRBESEFEyIx8P/aAAwDAQACEQMRAD8Am1u0bbXYjjY65eUnCXirlB9QBxV40N8NbDdNIyzBca678dUZSAwjMZZAwok5JOQDnyDS1YLLCQlsyFPSVcZSk7E4/X9p0dvUbSEVh+MlqK3LUI524GVEgjnycbq5/kcPmk2MD8dAxOLlu7imo9tuc/2K3S7ZPvEWe0qLdocNz7Cm9yi4kKwUg+v0n9g+aTm5nTgNJlpCs7jnjdx5I/vpVw1lp2HcpV1mshTV9cJcam9ZeQsdj3wAQAO1STV9vnMxmJFxEN8ry31mtyVAgZwrsD58eDUcWtlPsJ4PU3lqWArXv99yqwL9Dhstrmy48dGAQXFZJ/CRya1muNbQb1a40KB8wosPdYvuJCQo7SBhPfuc84oop2fc3Br0ZHxlKhhdsTOjXV+8WtuTGUkJSlIcWpYSEnHvStqqG9IgvwFJQvqJC0uIUCAvuOfb/DRRSaqVKBjuGuvZbWUan//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Design-ohne-Titel-5.png__l.jpg
 labels:
-  - Acaraa
-  - Acaraa Testbericht
-  - Arganöl
-  - Cacayöl
-  - Duftkerze vegan
-  - Fair Fashion & Beauty
-  - Haarkur
-  - Haaröl
-  - Haaröl gegen Spliss
-  - Haarpflege
-  - Hautpflege
-  - Jojobaöl
-  - Körperöl
-  - Körperöl trockene Haut
-  - Mandelöl
-  - Naturkosmetik
-  - Rapswachskerze
-  - vegan beauty
-  - vegane Naturkosmetik
+- Acaraa
+- Acaraa Testbericht
+- Arganöl
+- Cacayöl
+- Duftkerze vegan
+- Fair Fashion & Beauty
+- Haarkur
+- Haaröl
+- Haaröl gegen Spliss
+- Haarpflege
+- Hautpflege
+- Jojobaöl
+- Körperöl
+- Körperöl trockene Haut
+- Mandelöl
+- Naturkosmetik
+- Rapswachskerze
+- vegan beauty
+- vegane Naturkosmetik
 focusKeyword: Acaraa
 status: publish
 isWerbung: false
@@ -41,12 +43,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Natürliche Pflegeöle für Haut und Haar
+advertisement: true
+affiliate: true
+
 ---
-
-- _Werbung &amp; Affiliate Links_
-
----
-
 **Hinweis:** Weiter unten findet Ihr einen Rabattcode.
 
 ---
@@ -122,5 +122,3 @@ Die Entwicklung und Herstellung der Acaraa Produkte erfolgt direkt vor Ort in M�
 Neben Ölen und Kerzen gibt es von Acaraa unter anderem ein Mizellen-Reinigungsgel, ein After Shave Balsam und ein Gesichtsserum. Wer neugierig geworden ist, [schaut am besten direkt auf der Homepage vorbei](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2F). Dort könnt Ihr die Acaraa Produkte auch käuflich erwerben. Mit dem Rabattcode " **cardamonchai10** " erhaltet Ihr sogar 10 Prozent Rabatt auf alles!
 
 <Gallery name="acaraa2" />
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
