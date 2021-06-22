@@ -1,32 +1,34 @@
 ---
-date: 2020-04-29T09:47:17.000Z
+date: 2020-04-29T09:47:17.000+00:00
 slug: soulfood-von-alles-vegetarisch-de
-path: /2020/04/soulfood-von-alles-vegetarisch-de/
+path: "/2020/04/soulfood-von-alles-vegetarisch-de/"
 type: Artikel
 typeName: Produkttest
 title: Soulfood von alles-vegetarisch.de
 seoTitle: Soulfood von alles-vegetarisch.de - Burger, Süßigkeiten & Co.
 ogTitle: Soulfood von alles-vegetarisch.de - Burger, Süßigkeiten & Co.
-description: Wisst Ihr, was ich im Moment ziemlich gut gebrauchen kann? Soulfood. Bei Alles Vegetarisch findet man davon eine ganze Menge.
-excerpt: Werbung & Affiliate Links - Wisst Ihr, was ich im Moment ziemlich gut gebrauchen kann? Soulfood. Bei Alles Vegetarisch findet man davon eine ganze Menge.
+description: Wisst Ihr, was ich im Moment ziemlich gut gebrauchen kann? Soulfood.
+  Bei Alles Vegetarisch findet man davon eine ganze Menge.
+excerpt: Wisst Ihr, was ich im Moment ziemlich gut gebrauchen kann? Soulfood. Bei
+  Alles Vegetarisch findet man davon eine ganze Menge.
 fileName: 2020-04---soulfood-von-alles-vegetarisch-de.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BC2020-04-19-souldfood-von-alles-vegetarisch-05__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BC2020-04-19-souldfood-von-alles-vegetarisch-05__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACcQAAICAQMCBgMBAAAAAAAAAAECAwQRAAUSEyEGIjFBUWEUFYEy/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAKREAAQMCBAMJAAAAAAAAAAAAAQACEQMhBBITMQUi8DJBUXGBkcHR8f/aAAwDAQACEQMRAD8A0WnizukMlZwpEUkXdM9NVkYczn1/1xUfR+NU3crEWz7/AH7F+xIa0jijciuTniwfHTMSntxVs9lx5T751aNvls1NvntV4oWmdIGZZC2FQqWIGPU5Zse2RjVemsfsK6brZowzy8DmaVeLEBcKoi7keYMPnHrpNPYk/ilpVNNgFISTHuRK6eDN6Sjtu6w7pVg6HWRlqImVYyIoAAJ7HkCc5HzqCs3Vr7zTZLHOIApBGxIlQqzMQQfUAce/1/dNLB3Kht9CzMr3mvRmF+mVCK0YwnNMecYZQQO/lH3h/BsX4HhylLMCb1jdEjMjElvPE4fv/c6mNTO8aJsJnw66uqK2HL6JdW7QHrP0tDrRZlQyJ1QrmFocHlIoUvlR7lMt29wfkDTDxRSvNbS7RnrylSI6Vdo2AIYAOrMp83LGe4HHH1nRo0rrsErXDuZhnu+FFbl4L3WaolbZXgrtHJ1VImaJc/eBgKB2xpBSa7Jt0ayJLBQjmlMsb81kssVjypHqF7gH3JOjRpQwMbkHmixb3OOcney//9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_04_alles-vegetarisch.png__l.jpg
 labels:
-  - Absolute Vegan Empire
-  - alles-vegetarisch.de
-  - AVE
-  - Ernährung & Gesundheit
-  - Soulfood
-  - vegane Burger
-  - vegane Fischalternative
-  - vegane Lebensmittel
-  - vegane Lebensmittel bestellen
-  - vegane Produkte
-  - vegane Riegel
-  - vegane Schokolade
+- Absolute Vegan Empire
+- alles-vegetarisch.de
+- AVE
+- Ernährung & Gesundheit
+- Soulfood
+- vegane Burger
+- vegane Fischalternative
+- vegane Lebensmittel
+- vegane Lebensmittel bestellen
+- vegane Produkte
+- vegane Riegel
+- vegane Schokolade
 focusKeyword: Soulfood
 status: publish
 isWerbung: false
@@ -34,10 +36,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Burger, Süßigkeiten & Co.
+advertisement: true
+affiliate: true
+
 ---
-
-_Werbung &amp; Affiliate Links\*_
-
 **Wisst Ihr, was ich im Moment ziemlich gut gebrauchen kann? Soulfood. Bei alles-vegetarisch.de findet man davon eine ganze Menge. Für jeden Geschmack ist etwas dabei. Von süß bis herzhaft.**
 
 alles.vegetarisch.de aus Bad Nabburg ist Europas größtes veganes Versandhaus. Man kann dort über 2.000 vegane Produkte nach Hause bestellen. Gerade in der momentanen Zeit mit Homeoffice und Social Distancing ist das ziemlich praktisch.
@@ -65,5 +67,3 @@ Wir bestellen jetzt schon seit der Gründung 2001 immer wieder bei [alles-vegeta
 Das vegane Online-Kaufhaus ist Teil des Absolute Vegan Empire (AVE). Alle angebotenen Produkte sind zu 100 Prozent vegan und garantiert ohne Gentechnik hergestellt. Das Unternehmen setzt sich außerdem für den nachhaltigen Umgang mit Ressourcen ein. Wo immer es möglich ist, wird auf Lebensmittel aus biologischem Anbau gesetzt.
 
 <Gallery name="soulfood-alles-vegetarisch" />
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
