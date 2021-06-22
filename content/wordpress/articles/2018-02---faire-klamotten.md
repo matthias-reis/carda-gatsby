@@ -205,17 +205,3 @@ Veganes, faires und nachhaltiges Schuhwerk vom Gummistiefel bis zur Sandale www.
 ### Shoezuu
 
 Faire vegane Schuhe und Accessoires www.shoezuu.de
-
-### Dogo
-
-Fantasievolles Schuhwerk in verschiedenen bunten Designs www.dogo-shoes.com
-
-<RemoteImage
-  alt={`Grundstoff`}
-  size="medium"
-  mediumUrl="https://www.adcell.de/promotion/image/promoId/36924/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/image/promoId/36924/slotId/80259"
-  loadingUrl="undefined"
-/>
-
-[](https://www.adcell.de/promotion/click/promoId/36924/slotId/80259)
