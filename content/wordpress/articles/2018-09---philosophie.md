@@ -1,38 +1,41 @@
 ---
-date: 2018-09-17T13:54:51.000Z
+date: 2018-09-17T13:54:51.000+00:00
 slug: philosophie
-path: /2018/09/philosophie/
+path: "/2018/09/philosophie/"
 type: Artikel
 typeName: Artikel
 title: Philosophie
 seoTitle: Philosophie - Die Kunst des Nachdenkens - Von Nietzsche bis Precht
 ogTitle: Philosophie - Die Kunst des Nachdenkens - Von Nietzsche bis Precht
-description: Philosophie - Was ist das eigentlich genau? Der Versuch, die menschliche Existenz zu begründen - warum ist er im digitalen Zeitalter so unglaublich wichtig?
-excerpt: Philosophie - Was ist das eigentlich genau? Nichts wirklich Greifbares, oder? Der Versuch, die menschliche Existenz zu begründen - warum ist er im digitalen Zeitalter so unglaublich wichtig?
+description: Philosophie - Was ist das eigentlich genau? Der Versuch, die menschliche
+  Existenz zu begründen - warum ist er im digitalen Zeitalter so unglaublich wichtig?
+excerpt: Philosophie - Was ist das eigentlich genau? Nichts wirklich Greifbares, oder?
+  Der Versuch, die menschliche Existenz zu begründen - warum ist er im digitalen Zeitalter
+  so unglaublich wichtig?
 fileName: 2018-09---philosophie.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_12834745223_1a642a3bbc_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_12834745223_1a642a3bbc_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcCBgMECP/EACkQAAICAQMDAgYDAAAAAAAAAAECAwQRABIhBQYxB1ETFGFxkaEiMrH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAREC/9oADAMBAAIRAxEAPwBJQvKeoQzx8guDk8+V55/I0/PR7uSereSDqFidK7BslSSxPgA/TGMe2q3W9K7VTqnbsdiUV69uy9UmxtjOUjZxj7hDj7gadHaPph0roskL2rE1mysY3oGwgPgngZ5OdOd1VsK7vrvK5cs3lAcxyIYh8SQkjHAJxgZx/ulx1LqM8vTvl3QsGTd8Vic/ywP1tPOuhe7vTGhdpy2+lzTtKWkBRW3DduC4454II9/xqo2fS0fIWVezbjtIsWyFVVt4DqpbOPGGJ49tLrJYesnT6Uohe1Ur2WrZeJpolcoceVJB2njyNbdQk1Ukbb8SRFdioxkkDRo1SUKI2SW4VChVmLjAx/cBz+2PP11kkOCff30aNB//2Q==
-ogImage: null
+ogImage: 
 labels:
-  - Die Ethik des Nichtwissens
-  - die Rechte der Tiere
-  - Ethik
-  - Friedrich Nietzsche
-  - Gesellschaft
-  - Klima- & Umweltschutz
-  - Klimaerwärmung
-  - Klimawandel
-  - Nachhaltigkeit
-  - Naturschutz
-  - Nietzsche
-  - Philosophie
-  - Publizismus
-  - Richard David Precht
-  - Tierethik
-  - Tierrechte
-  - Wer bin ich und wenn ja wie viele?
-  - Wissenschaft
+- Die Ethik des Nichtwissens
+- die Rechte der Tiere
+- Ethik
+- Friedrich Nietzsche
+- Gesellschaft
+- Klima- & Umweltschutz
+- Klimaerwärmung
+- Klimawandel
+- Nachhaltigkeit
+- Naturschutz
+- Nietzsche
+- Philosophie
+- Publizismus
+- Richard David Precht
+- Tierethik
+- Tierrechte
+- Wer bin ich und wenn ja wie viele?
+- Wissenschaft
 focusKeyword: Philosophie
 status: publish
 isWerbung: false
@@ -41,10 +44,9 @@ language: de
 errors:
   outsideImage: article has at least one image that could not be found
 subTitle: Die Kunst des Nachdenkens
+affiliate: true
+
 ---
-
-_Affiliate Links\*_
-
 **Philosophie - Was ist das eigentlich genau? Der Versuch, die menschliche Existenz zu begründen - nichts wirklich Greifbares, oder? Die "Liebe zur Weisheit", sollte sie nicht von bedeutender Wichtigkeit sein? Gerade in unserer heutigen Zeit?**
 
 Die Philosophie ist nicht spezialisiert. Sie ergibt sich aus ihren Fragestellungen. Sie kann in verschiedene Epochen unterteilt werden. Im digitalen Zeitalter ist sie ebenso wichtig, wie in der Antike, oder zu Beginn des 19. Jahrhunderts.
@@ -151,5 +153,3 @@ Nur ein paar Tage zuvor konnten offenbar nicht genügend Beamte losgeschickt wer
 Um ihm zu entkommen, brauchen wir Denker und Aktivisten, Menschen mit Zivilcourage, Macher und Schreiber. Entschlossene, die sich dem Mainstream entgegenstemmen und nicht als gegeben nehmen, was uns vorgelegt wird. Die Macht nicht den Mächtigen überlassen, sondern erkennen, dass wir gemeinsam auch so etwas wie Macht besitzen. In diesem Sinne: Wir sind mehr. Und wir brauchen den Wald.
 
 Laut Duden bedeutet Philosphie "Streben nach Erkenntnis über den Sinn des Lebens, das Wesen der Welt und die Stellung des Menschen in der Welt; Lehre, Wissenschaft von der Erkenntnis des Sinns des Lebens, der Welt und der Stellung des Menschen in der Welt". Aber auch "Persönliche Art und Weise, das Leben und die Dinge zu betrachten". Genau das ist es, was zählt. Sollte man mal drüber nachdenken.
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
