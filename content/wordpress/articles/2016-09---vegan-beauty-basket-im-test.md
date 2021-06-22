@@ -9,9 +9,8 @@ seoTitle: Vegan Beauty Basket im Test - Unboxing Wellness
 ogTitle: Vegan Beauty Basket im Test - Unboxing Wellness
 description: Heute habe ich ein ganz besonderes Paket bekommen. Der aktuelle Vegan
   Beauty Basket kam bei mir an und ich bin begeistert - Ich zeige Euch, was drin ist.
-excerpt: Werbung - Heute habe ich ein ganz besonderes Paket bekommen. Der aktuelle
-  Vegan Beauty Basket kam bei mir an und ich bin begeistert - Ich zeige Euch, was
-  drin ist.
+excerpt: Heute habe ich ein ganz besonderes Paket bekommen. Der aktuelle Vegan Beauty
+  Basket kam bei mir an und ich bin begeistert - Ich zeige Euch, was drin ist.
 fileName: 2016-09---vegan-beauty-basket-im-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_09_29837257706_c0621cf02a_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_09_29837257706_c0621cf02a_z__l.jpg
@@ -38,6 +37,12 @@ subTitle: Unboxing Wellness
 advertisement: true
 
 ---
+**Diese Woche habe ich ein ganz besonders tolles Paket bekommen. Es stammt von der lieben Ina, der Gründerin von Vegan Beauty Basket.**
+
+Ich hatte Euch die vegan lebende Beauty Queen bereits in meinem kleinen [Bericht](/2016/08/vegan-beauty-basket-gratis-aktion/) vor ein paar Tagen vorgestellt. Nun hat Sie mir die aktuelle Box zum Testen zur Verfügung gestellt und was soll ich sagen: Ich bin begeistert!
+
+Sofort nach dem Öffnen fiel mir als Erstes ihre wunderschöne, selbstgezeichnete Dankes-Karte auf, die sie dem Päckchen beigelegt hat. Was für eine wundervolle Katze! Sie ziert nun meine Küchenwand und lächelt mich jeden Morgen an, wenn ich mir mein [Frühstück](/2015/10/veganer-kaiserschmarrn/) zubereite.
+
 <RemoteImage
   alt={`Vegan Beauty Basket`}
   size="medium"
@@ -46,11 +51,6 @@ advertisement: true
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEFBgcIAv/EACYQAAEDAwMFAAMBAAAAAAAAAAECAwQABREGEiEHEyIxcUGBoRX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAdEQABBQEBAQEAAAAAAAAAAAABAAIDESEEExIx/9oADAMBAAIRAxEAPwCmbokRoLj6seKePv4pdO9PdQ6mDD1ogvJaIAVLeV2Wfu4+/wBA1xfpsmDcoLAaLcqO6JHbdR7KT4gg+wT+q1lpi4xZFpRepksNW2WgPsvyfFlppSUnZnISNpCh5c88UedliynO7cKzLrzRN70XChSVXaPdGHXFR31MoJTHfA3Bsk8nKeQeM4NT7o3Y1P2OPdHmkJff3ncBzt3EADPoeNOnVrqhpadZbtZ4DLl7EmOGkvISWGWVpJUlwKPKyk4xtSBjjPNSbR0ZFk0FHbcwFRreCr6G9x/pNDpDW18qwEn9VZzbjAkWJE67WODNCl9kowUHAP4Vzj5inpWhrJfbNE7BuUFloEMsCYp1prJydqFggckngCiihMPPWYjzuMhp+qB6t0GLG80r/SMhpS0gpUxtUQSMjIVj+U733qpJfZl2yLa2mW3u5GK1vFZAUCMjAA9UUVIiZAC/VrIPM01f/9k="
 />
 
-**Diese Woche habe ich ein ganz besonders tolles Paket bekommen. Es stammt von der lieben Ina, der Gründerin von Vegan Beauty Basket.**
-
-Ich hatte Euch die vegan lebende Beauty Queen bereits in meinem kleinen [Bericht](/2016/08/vegan-beauty-basket-gratis-aktion/) vor ein paar Tagen vorgestellt. Nun hat Sie mir die aktuelle Box zum Testen zur Verfügung gestellt und was soll ich sagen: Ich bin begeistert!
-
-Sofort nach dem Öffnen fiel mir als Erstes ihre wunderschöne, selbstgezeichnete Dankes-Karte auf, die sie dem Päckchen beigelegt hat. Was für eine wundervolle Katze! Sie ziert nun meine Küchenwand und lächelt mich jeden Morgen an, wenn ich mir mein [Frühstück](/2015/10/veganer-kaiserschmarrn/) zubereite.
 
 Zusätzlich zum eigentlichen Inhalt liegt jedem Basket ein Produktblatt bei, auf dem alle Artikel genau beschrieben und die Inhaltsstoffe aufgelistet sind. Außerdem hat mir Ina noch die aktuelle Vegan World dazugelegt.
 

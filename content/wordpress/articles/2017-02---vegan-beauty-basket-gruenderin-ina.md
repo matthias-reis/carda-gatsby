@@ -39,6 +39,7 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Die kleinen Manufakturen sind besonders spannend"'
+advertisement: true
 
 ---
 **Vegan Beauty Basket – Dieser Namen steht für liebevoll ausgesuchte, vegane Kosmetikprodukte. Gründerin Ina legt besonderen Wert auf die Qualität aller Artikel und Ihrer Inhaltsstoffe.**
