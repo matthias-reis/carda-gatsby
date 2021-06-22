@@ -1,27 +1,29 @@
 ---
-date: 2020-08-04T11:01:38.000Z
+date: 2020-08-04T11:01:38.000+00:00
 slug: vegan-radwandern
-path: /2020/08/vegan-radwandern/
+path: "/2020/08/vegan-radwandern/"
 type: Artikel
 typeName: Artikel
 title: Vegan radwandern
 seoTitle: Vegan radwandern - Essen und trinken unterwegs
 ogTitle: Vegan radwandern - Essen und trinken unterwegs
-description: Vegan radwandern - damit würde ich am liebsten den halben Sommer verbringen. Heute zeige ich Euch, was wir auf unseren Fahrradtouren im Gepäck haben.
-excerpt: Affiliate Links - Vegan radwandern - damit würde ich am liebsten den halben Sommer verbringen. Heute zeige ich Euch, was wir auf unseren Fahrradtouren im Gepäck haben.
+description: Vegan radwandern - damit würde ich am liebsten den halben Sommer verbringen.
+  Heute zeige ich Euch, was wir auf unseren Fahrradtouren im Gepäck haben.
+excerpt: Vegan radwandern - damit würde ich am liebsten den halben Sommer verbringen.
+  Heute zeige ich Euch, was wir auf unseren Fahrradtouren im Gepäck haben.
 fileName: 2020-08---vegan-radwandern.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-06-28-same-but-green-21__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-06-28-same-but-green-21__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAsEAACAQMDAgQFBQAAAAAAAAABAgMEESEABRIGMQdBUWETFiNxgSIyUqHx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAwX/xAAcEQEAAwADAQEAAAAAAAAAAAABAAIRAxIhQQT/2gAMAwEAAhEDEQA/AIWjTgqAMyXIBVv5eQPp9+x7i+msTIrs6zRsQtkYvYC3+ab+HNV01BuMqdTRmVPg/QWQF0FssCB3uCD5jB1qlPvvhtRR/S2ihewP7Nvv/bDXIPzV5DuWwfkDRX2ZT0/tlRuG901NRQrWys4cRMocMtrkkHBHrpb1xt81FvtXSNRLQzgKGjij4KoIP6lW5yw7D1ucAE6roaraarrKv+WYqilpYuCWJClSzC4XicLZTj2OpTqSd6vea6okZ6gq4QMZCxWwsbZxm/vpmtOCg29dh6eYSdo6ymWKENE7g5LqMixsfsfL8++m3KiSUiHmxJDAySE2Bz+RbRo1PYzSWdvk6aDdGo5lqKVY4+S8SoawJANrYz3PfSKqqomdZSCzg8wWsSTm+PP10aNKGmMzQyf/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_08_vegane-radtour.png__l.jpg
 labels:
-  - Achtsamkeit
-  - Ausflug
-  - Fahrrad
-  - Radtour
-  - Radwandern
-  - vegan
-  - veganes Proviant
+- Achtsamkeit
+- Ausflug
+- Fahrrad
+- Radtour
+- Radwandern
+- vegan
+- veganes Proviant
 focusKeyword: vegan radwandern
 status: publish
 isWerbung: false
@@ -29,10 +31,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Essen und trinken unterwegs
+affiliate: true
+
 ---
-
-_Affiliate Links\*_
-
 **Ich weiß nicht, wie es Euch geht: Wir lieben unsere veganen Ausritte - gemütliche Tagestouren mit dem Fahrrad mit Badezeug und Snacks im Gepäck. Uns einfach mal treiben lassen und den Alltag für ein paar Stunden hinter uns lassen.**
 
 Wenn man plant, am Abend wieder daheim zu sein, braucht man nicht viel mitzunehmen. Das kommt unserem Reisemotto "mit leichtem Gepäck" sehr zu Gute.
@@ -82,5 +83,3 @@ Demnächst verrate ich Euch, warum Veganer⋆innen immer etwas zu Essen dabei ha
 [Radwandern an der Elbe](/2018/05/radwandern-an-der-elbe/)
 
 <Gallery name="samebutgreenrad2" />
-
-\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
