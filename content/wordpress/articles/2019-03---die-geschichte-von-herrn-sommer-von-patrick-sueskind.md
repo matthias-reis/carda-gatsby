@@ -9,9 +9,8 @@ seoTitle: '"Die Geschichte von Herrn Sommer" von Patrick Süskind'
 ogTitle: '"Die Geschichte von Herrn Sommer" von Patrick Süskind'
 description: Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein besonderes
   Werk geschaffen. Eine liebevoll erzählte Geschichte mit einer wertvollen Botschaft.
-excerpt: Affiliate Link - Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind
-  ein besonderes Werk geschaffen. Eine liebevoll erzählte Geschichte mit einer wertvollen
-  Botschaft.
+excerpt: Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein besonderes
+  Werk geschaffen. Eine liebevoll erzählte Geschichte mit einer wertvollen Botschaft.
 fileName: 2019-03---die-geschichte-von-herrn-sommer-von-patrick-sueskind.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer-2__l.jpg
