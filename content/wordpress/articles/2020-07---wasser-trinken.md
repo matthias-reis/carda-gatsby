@@ -33,7 +33,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Trinkroutine und Flaschen für unterwegs und daheim
-affiliate: true
+affiliate: false
+advertisement: true
 
 ---
 **Auf Tagesausflügen ist es immer gut, etwas zu Trinken dabei zu haben. Ich nehme mir am liebsten Wasser mit. Das ist am natürlichsten und stillt den Durst am besten.**
@@ -45,15 +46,15 @@ Hier bei uns in Hamburg kann man inzwischen auch problemlos in vielen Cafés um 
 ## Flaschen aus Edelstahl und Glas
 
 <RemoteImage
-  alt={`Wasser`}
-  size="medium"
-  title={`Meine treue Begleiterin.`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-17__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-17__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQP/xAAjEAABBAICAgIDAAAAAAAAAAABAgMEEQAFITEGEgdRE0Fh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDAv/EABwRAQACAgMBAAAAAAAAAAAAAAEAAgMREhMxIf/aAAwDAQACEQMRAD8AtociSkctoqhVHGJO8Rr2g7OCm0EkAoaU4eBZNJ5qs5R3BQ4OKeTwl7LTOBltLhaN8+vHd1eRMtn5N9dT2M63yiNtXvx65a3VBBWSuK40mv4Vd4y7MlKbI9W0n7NnJT491z8VmXKkNkOOIQn3WoEnnkAX11lO+7QN4OS1Y+FXyYTD5CAEqKgfrMXyPdTISpLbLhSktJNV0cMMhRRlU2TD1m9mLkQkrkLCVuUquLvL+ROTauDVn91hhjvZdbgAT//Z"
+alt={`Wasser`}
+size="medium"
+title={`Meine treue Begleiterin.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-17__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-17__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQP/xAAjEAABBAICAgIDAAAAAAAAAAABAgMEEQAFITEGEgdRE0Fh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDAv/EABwRAQACAgMBAAAAAAAAAAAAAAEAAgMREhMxIf/aAAwDAQACEQMRAD8AtociSkctoqhVHGJO8Rr2g7OCm0EkAoaU4eBZNJ5qs5R3BQ4OKeTwl7LTOBltLhaN8+vHd1eRMtn5N9dT2M63yiNtXvx65a3VBBWSuK40mv4Vd4y7MlKbI9W0n7NnJT491z8VmXKkNkOOIQn3WoEnnkAX11lO+7QN4OS1Y+FXyYTD5CAEqKgfrMXyPdTISpLbLhSktJNV0cMMhRRlU2TD1m9mLkQkrkLCVuUquLvL+ROTauDVn91hhjvZdbgAT//Z"
 />
 
-Meine treue Begleiterin auf Fahrradtouren und Wanderungen ist das [1 Liter Edelstahl-Modell](https://t.adcell.com/p/click?promoId=224459&slotId=80259&param0=https%3A%2F%2Fsamebutgreen.com%2Fcollections%2Fdrink-samebutgreen%2Fproducts%2F1-liter-edelstahl-trinkflasche%3Fvariant%3D20873260302395) von samebutgreen. Die Flasche ist schön leicht und robust und hat einen praktischen Tragebügel. Ich kann sie mit einem Karabinerhaken am Rucksack befestigen oder in meiner Fahrradpacktasche verstauen. Das Design ist schlicht und schön. Ein tolles Detail ist für mich der Holzdeckel mit dem eingeprägten Emblem. Für den kleinen Durst oder für Schulranzen, Turnbeutel und Co. gibt es die samebutgreen Flasche [auch mit 500 Milliliter Fassungsvermögen](https://t.adcell.com/p/click?promoId=224459&slotId=80259&param0=https%3A%2F%2Fsamebutgreen.com%2Fcollections%2Fdrink-samebutgreen%2Fproducts%2F1-liter-edelstahl-trinkflasche%3Fvariant%3D30189340000315).
+Meine treue Begleiterin auf Fahrradtouren und Wanderungen ist das 1-Liter-Edelstahl-Modell von samebutgreen. Die Flasche ist schön leicht und robust und hat einen praktischen Tragebügel. Ich kann sie mit einem Karabinerhaken am Rucksack befestigen oder in meiner Fahrradpacktasche verstauen. Das Design ist schlicht und schön. Ein tolles Detail ist für mich der Holzdeckel mit dem eingeprägten Emblem. Für den kleinen Durst oder für Schulranzen, Turnbeutel und Co. gibt es die samebutgreen Flasche auch mit 500 ml Fassungsvermögen.
 
 Praktisch an Edelstahlflaschen ist für mich, dass sie sich mittels Auskochen (kochend heißes Wasser rein gießen - Vorsicht! Benutzt auf alle Fälle einen Topflappen!) ganz leicht reinigen lassen. Außerdem sind sie, wie bereits erwähnt, sehr leicht.
 
@@ -62,12 +63,12 @@ Auf dem Schreibtisch habe ich eine [farbenfrohe Glasflasche](/2020/05/soulbottle
 ## Wasser ist wichtig für die Gesundheit
 
 <RemoteImage
-  alt={`Wasser`}
-  size="medium"
-  title={`Wasser schenkt Leben.`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-02__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-02__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBwMEBv/EACwQAAEDAgQDBwUAAAAAAAAAAAECAwQAEQUSITETQVEGFBVhgZGhIkNScaP/xAAYAQADAQEAAAAAAAAAAAAAAAABAgUDBP/EABwRAAIDAAMBAAAAAAAAAAAAAAABAgNRERITQf/aAAwDAQACEQMRAD8AsaNxSEqUJaU8gi+p6dKcRoKsQYUhyPLyOKuWnict/wAk22PrVa4bhvZ0PBwiSH3BlzHEZIUodNHPIe1PFYL2alFapTL7qyLKKsSla8h92tncsOVUtfTrV4S7Dk2hsvKQ2iyuK/ZPmNtaxzYjYQSUFKiLgFWpHXelLOH4EhopR30JTy8Skm39b1oSoOFMpV3UTEm+bTEZO+3NyldnI3m0JMMgyMputoWOliPq+NKdsxXglOdaM5NrAA6fu1FFQvSelfrHCHY0nhXIZ2sU3SD8i3pSrEIz5QSHI/SxSnb2396KKKsnoHCOH//Z"
+alt={`Wasser`}
+size="medium"
+title={`Wasser schenkt Leben.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-02__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-02__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBwMEBv/EACwQAAEDAgQDBwUAAAAAAAAAAAECAwQAEQUSITETQVEGFBVhgZGhIkNScaP/xAAYAQADAQEAAAAAAAAAAAAAAAABAgUDBP/EABwRAAIDAAMBAAAAAAAAAAAAAAABAgNRERITQf/aAAwDAQACEQMRAD8AsaNxSEqUJaU8gi+p6dKcRoKsQYUhyPLyOKuWnict/wAk22PrVa4bhvZ0PBwiSH3BlzHEZIUodNHPIe1PFYL2alFapTL7qyLKKsSla8h92tncsOVUtfTrV4S7Dk2hsvKQ2iyuK/ZPmNtaxzYjYQSUFKiLgFWpHXelLOH4EhopR30JTy8Skm39b1oSoOFMpV3UTEm+bTEZO+3NyldnI3m0JMMgyMputoWOliPq+NKdsxXglOdaM5NrAA6fu1FFQvSelfrHCHY0nhXIZ2sU3SD8i3pSrEIz5QSHI/SxSnb2396KKKsnoHCOH//Z"
 />
 
 Um gesund zu bleiben, sollten wir je nach Körperbau, Größe und Aktivität rund zwei Liter Flüssigkeit am Tag zu uns nehmen. Nur etwa 500 bis 700 Milliliter davon führen wir unserem Organismus über Speisen zu. Den Rest müssen wir trinken.
@@ -81,12 +82,12 @@ Der Hauptbestandteil aller Zellen im menschlichen Körper ist H<sub>2</sub>O - W
 Ihr solltet Euch auf keinen Fall zum Trinken zwingen. Lasst Euch da nichts einreden. Jeder Mensch hat unterschiedliche Bedürfnisse. Wichtig ist es, den Durst zu stillen. Die Natur hat uns dieses Gefühl nicht ohne Grund gegeben. Es hilft uns, ganz intuitiv genügend Flüssigkeit zu uns zu nehmen.
 
 <RemoteImage
-  alt={`Wasser`}
-  size="medium"
-  title={`Meine Trinkflasche hat einen schönen Holzdeckel.`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-06__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-06__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcBBQYD/8QAJhAAAQQBAwMEAwAAAAAAAAAAAQIDBBEABSExEkFhBhMUUSJxkf/EABgBAAIDAAAAAAAAAAAAAAAAAAAEAQIF/8QAHxEAAQMEAwEAAAAAAAAAAAAAAQACAxEhIjESI2ET/9oADAMBAAIRAxEAPwBuyZSirlVjztldL1VLRpZPmhxkylLTf2My73vQhqTNSZBai/KbcUsOHmjYUNu+4J/QzLk+hHXSvqcZwBz0tTG1Jp4joVzxYrLWNKFjtvil9KPahrGrxpDr77bcZJeIKkdBB/HpCAO9ncmxjIjKJIq/HjxhGXgdm/ESBtcNLvOb9ppxxSeooSVdP3QvK7RvTyhoOr6nNmOl+RFW2V9QoFQ4AOwAHFYYY3A0GqXkJssWuDI0RrTZcGU4ulJQ62oAh5PcGv6POM2LFo1vd98MMrM0B9lMZJbdf//Z"
+alt={`Wasser`}
+size="medium"
+title={`Meine Trinkflasche hat einen schönen Holzdeckel.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-06__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-06__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcBBQYD/8QAJhAAAQQBAwMEAwAAAAAAAAAAAQIDBBEABSExEkFhBhMUUSJxkf/EABgBAAIDAAAAAAAAAAAAAAAAAAAEAQIF/8QAHxEAAQMEAwEAAAAAAAAAAAAAAQACAxEhIjESI2ET/9oADAMBAAIRAxEAPwBuyZSirlVjztldL1VLRpZPmhxkylLTf2My73vQhqTNSZBai/KbcUsOHmjYUNu+4J/QzLk+hHXSvqcZwBz0tTG1Jp4joVzxYrLWNKFjtvil9KPahrGrxpDr77bcZJeIKkdBB/HpCAO9ncmxjIjKJIq/HjxhGXgdm/ESBtcNLvOb9ppxxSeooSVdP3QvK7RvTyhoOr6nNmOl+RFW2V9QoFQ4AOwAHFYYY3A0GqXkJssWuDI0RrTZcGU4ulJQ62oAh5PcGv6POM2LFo1vd98MMrM0B9lMZJbdf//Z"
 />
 
 Natürlich gibt es hier auch einige Ausnahmen. Manche Menschen kennen kein Durstgefühl. Das kann ganz unterschiedliche Ursachen haben. Ich dachte zum Beispiel lange Zeit, dass ich überhaupt nicht merke, wenn ich Durst habe und musste mir das erst regelrecht "antrainieren". Wer aber von sich weiß, über ein Durstempfinden zu verfügen, wendet diesen "Trick" an und wird feststellen: Abends landet man ziemlich genau bei der empfohlenen Menge an Flüssigkeit.
@@ -98,12 +99,12 @@ Wichtig ist vor allem, wirklich aktiv darauf zu achten und immer ein paar Schluc
 Mir persönlich geht es so: Wenn ich in jeder Ecke eine Flasche platziert habe, komme ich dem Idealzustand, genügend Flüssigkeit zu mir zu nehmen, auf jeden Fall näher. Ich muss mich weiterhin gut beobachten und auf mein Durstgefühl hören beziehungsweise versuchen, es zu erspüren. Das ist nach wie vor nicht immer leicht. Aber mit dem Wasser im Blick geht es mir schon wesentlich besser.
 
 <RemoteImage
-  alt={`Wasser`}
-  size="medium"
-  title={`Wasser für unterwegs.`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-20__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-20__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBwEEBf/EACoQAAEDAgQEBgMAAAAAAAAAAAECAwQAEQUSITEGEyJBBzJRYZGhFIGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEA//EABoRAAMBAQEBAAAAAAAAAAAAAAABEQISAzH/2gAMAwEAAhEDEQA/ALkgQ8Qbeb5f4ZZ0zBMTJ238+1+2tSRZkiRPmRXGWWTFUMzq0WSoEbDq/etInijxHOj8Mst4FNXGlLfBW4yrKoNpSSRfsCbCtnj7FJWI8I47FfcbUgCKU5kJFjds7/PzSdjcDbNamR2w6/JwxTK7pSVMrFlHaxBNx7fYoqufBqapnD8Zw/mr5DLjbiVFXSgqCgpPoPKDRRz6VUDxGYmLw9xgiUC8bXCTfe1rJPb+VLDxaPiBmtuRHSy9yul1At0hN/W9iNNKVITgWQt54EbC2ultq7KMThMvCMh1tt5abhB0Kh3Pvt9VH01YWxP6OsB6KmJyI7eRKSFcsXCACbX2te24opHk4j05mXSM3dKt6KbOnDPWVT//2Q=="
+alt={`Wasser`}
+size="medium"
+title={`Wasser für unterwegs.`}
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-20__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-20__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBwEEBf/EACoQAAEDAgQEBgMAAAAAAAAAAAECAwQAEQUSITEGEyJBBzJRYZGhFIGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEA//EABoRAAMBAQEBAAAAAAAAAAAAAAABEQISAzH/2gAMAwEAAhEDEQA/ALkgQ8Qbeb5f4ZZ0zBMTJ238+1+2tSRZkiRPmRXGWWTFUMzq0WSoEbDq/etInijxHOj8Mst4FNXGlLfBW4yrKoNpSSRfsCbCtnj7FJWI8I47FfcbUgCKU5kJFjds7/PzSdjcDbNamR2w6/JwxTK7pSVMrFlHaxBNx7fYoqufBqapnD8Zw/mr5DLjbiVFXSgqCgpPoPKDRRz6VUDxGYmLw9xgiUC8bXCTfe1rJPb+VLDxaPiBmtuRHSy9yul1At0hN/W9iNNKVITgWQt54EbC2ultq7KMThMvCMh1tt5abhB0Kh3Pvt9VH01YWxP6OsB6KmJyI7eRKSFcsXCACbX2te24opHk4j05mXSM3dKt6KbOnDPWVT//2Q=="
 />
 
 Kopfschmerzen, trockene Haut, Müdigkeit, Abgeschlagenheit, Verstopfung... Die Liste unangenehmer Beschwerden, die man sich zuziehen kann, wenn der Flüssigkeitshaushalt nicht ausgeglichen ist, ist ziemlich lang. Wer achtsam ist und genug trinkt, kann sein Wohlbefinden aktiv verbessern.

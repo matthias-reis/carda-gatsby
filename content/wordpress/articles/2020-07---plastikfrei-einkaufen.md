@@ -31,7 +31,7 @@ language: de
 errors: {}
 subTitle: 5 Tipps für den Alltag
 advertisement: true
-affiliate: true
+affiliate: false
 
 ---
 **Das Brot kommt in eine Tüte mit Sichtfenster aus Plastik, die Tomaten in einen Plastikbeutel und der Sojajoghurt ist in einem Plastikbecher - einkaufen kann eine ganz schöne Umweltsünde sein. So geht Plastik-frei einkaufen.**
