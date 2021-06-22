@@ -1,29 +1,31 @@
 ---
-date: 2018-03-25T08:06:56.000Z
+date: 2018-03-25T08:06:56.000+00:00
 slug: zahnpasta-von-happybrush
-path: /2018/03/zahnpasta-von-happybrush/
+path: "/2018/03/zahnpasta-von-happybrush/"
 type: Artikel
 typeName: Produkttest
 title: Vegane Zahnpasta von Happybrush
 seoTitle: Vegane Zahnpasta von Happybrush - Mein Produkttest mit Life Hack
 ogTitle: Vegane Zahnpasta von Happybrush - Mein Produkttest mit Life Hack
-description: Ich habe die vegane Zahnpasta von Happybrush getestet. Auf bedenkliche Inhaltsstoffe und Mikroplastik wird bei ihrer Herstellung aus Prinzip verzichtet.
-excerpt: Werbung & Affiliate Link - Ich habe die vegane Zahnpasta von Happybrush getestet. Auf bedenkliche Inhaltsstoffe und Mikroplastik wird bei ihrer Herstellung aus Prinzip verzichtet.
+description: Ich habe die vegane Zahnpasta von Happybrush getestet. Auf bedenkliche
+  Inhaltsstoffe und Mikroplastik wird bei ihrer Herstellung aus Prinzip verzichtet.
+excerpt: Ich habe die vegane Zahnpasta von Happybrush getestet. Auf bedenkliche Inhaltsstoffe
+  und Mikroplastik wird bei ihrer Herstellung aus Prinzip verzichtet.
 fileName: 2018-03---vegane-zahnpasta-von-happybrush.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38611072830_77fc45cac7_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38611072830_77fc45cac7_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHCP/EAC4QAAEDAwMBBgUFAAAAAAAAAAECAwQABREGEiEHCBMiMUFRFBVhccEzQoGR8P/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQD/xAAlEQABAwMBCQEAAAAAAAAAAAABAAIRAyExUQQFIkFScaGx8MH/2gAMAwEAAhEDEQA/AIRZUMOXSC3JG5lyQ0hxOcZSVgEZ+xNXW86A0vHgzixCdbkspeCU944RlDbigdxV7pScfes4Myi08y7n9NxCv6UD+K1lfC4tq+FODtakOcKGAktuDJH801pAZUJ6T95UfeL6rK+zCnMF8GJxbMdjmyQOj2jdP6ou9wansLmIRE71tpxTjYaUVgDxJIz6g+nrSt1usVs05rNEC0Qm4Mf4Nt0tIfW8MqUvncok5wBx5VQOzKvbertvKtwiNjGcp5c9P97Uh9paRv6pvgEeCDGTwMftJ/NCTd1uf4FQptMN4pzpqfvalCQFZB8jVw6b62nzYeqvnW6cpcAAFJQ1hOFAg4Tzn6/X3oopb2gi6KtZqR7BrrUFnRvtEiHBWtsJWqPBZQVAcjJCeeaXdVXi4X+8O3G8SDJmOJShTm0JyEjA4HHlRRWDGgyAnFxOV//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38611072830_77fc45cac7_z__l.jpg
 labels:
-  - Fair Fashion & Beauty
-  - happybrush
-  - less waste
-  - Life Hack
-  - Recycling
-  - vegane Zahnpasta
-  - vegane Zahnpflege
-  - Zahnpasta
-  - Zahnpflege
+- Fair Fashion & Beauty
+- happybrush
+- less waste
+- Life Hack
+- Recycling
+- vegane Zahnpasta
+- vegane Zahnpflege
+- Zahnpasta
+- Zahnpflege
 focusKeyword: vegane Zahnpasta
 status: publish
 isWerbung: false
@@ -32,10 +34,9 @@ language: de
 errors:
   outsideImage: article has at least one image that could not be found
 subTitle: Produkttest und Lifehack
+advertisement: true
+
 ---
-
-_Werbung &amp; Affiliate Link\*_
-
 **Vor einiger Zeit habe ich hier im Blog die [Schallzahnbürste von Happybrush vorgestellt](/2017/08/happybrush-der-ultimative-produkttest/). Seitdem hat sich einiges getan. Inzwischen gibt es nicht nur verschiedene Modelle der Happybrush. Das Startup hat auch verschiedene vegane Zahnpasten im Angebot.**
 
 <RemoteImage
@@ -122,5 +123,3 @@ Auf den Bildern seht Ihr übrigens einen kleinen **Less Waste Life Hack** von mi
 />
 
 Zur Homepage von Happybrush geht es [hier entlang](https://www.adcell.de/promotion/click/promoId/169537/slotId/80259?param0=https%3A%2F%2Fwww.happybrush.de%2F)
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
