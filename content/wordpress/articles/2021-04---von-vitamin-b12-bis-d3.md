@@ -1,26 +1,29 @@
 ---
-date: 2021-04-14T06:58:11.000Z
+date: 2021-04-14T06:58:11.000+00:00
 slug: von-vitamin-b12-bis-d3
-path: /2021/04/von-vitamin-b12-bis-d3/
+path: "/2021/04/von-vitamin-b12-bis-d3/"
 type: Artikel
 typeName: Artikel
 title: Von Vitamin B12 bis D3
 seoTitle: Nahrungsergänzungsmittel für Veganer⋆innen – Was empfiehlt sich?
 ogTitle: Nahrungsergänzungsmittel für Veganer⋆innen – Was empfiehlt sich?
-description: Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in irgendeiner Form zu sich. Doch welche empfiehlt es sich zu nehmen?
-excerpt: Werbung & Affiliate Links – Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in irgendeiner Form zu sich. Doch welche empfiehlt es sich zu nehmen? Besonders für Veganer⋆innen? Vitamin B12 ist klar, aber was sollte man noch im Auge behalten?
+description: Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in irgendeiner
+  Form zu sich. Doch welche empfiehlt es sich zu nehmen?
+excerpt: Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in irgendeiner
+  Form zu sich. Doch welche empfiehlt es sich zu nehmen? Besonders für Veganer⋆innen?
+  Vitamin B12 ist klar, aber was sollte man noch im Auge behalten?
 fileName: 2021-04---von-vitamin-b12-bis-d3.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_2021-03-28-nahrungsergaenzung-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_2021-03-28-nahrungsergaenzung-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQGAgUH/8QALBAAAQQBAwMCBAcAAAAAAAAAAQIDBAURABIhBhMxIkEHUWGxFiNDUnGBwf/EABYBAQEBAAAAAAAAAAAAAAAAAAQCBf/EACYRAAEDBAAEBwAAAAAAAAAAAAECAxEABDFBEiFhoQUUFYHB4fD/2gAMAwEAAhEDEQA/AK1ItbuJPmxLKzSmErthlSWnC4s4JKVAEAgcf2dc3/GMuY8+8yu4SMqTs2x1Fv1ck+49hz7D66tKvqWXWUsaCzCCYrJabW2HW0uLU4tRWrKMDdk5xt5+04ZzFDf9YqdYElUjYt0Ok+ppCWxgY8kqJJz8hrL9OSptKpiRmPem2l4q5eWy0mSkxExifuiJYXrrCZQZ6gVEwF90x2NmweVbv28+fpqlr+p5abF51x60Shxf5YXIjpBSPkTz5ydLVlfMr4lK3Diqkwk9sd1IyptO/ncPPg/5rP4nzN7/AE4qOlMkBb7Z7bzSB+med+QeND8oQlaiIKe/XXzTQ6k8Izxduh/CmIj0apr1wJ1nFbtWSlTaodMV9pKnFqaV6zgkjcefGf41Nosa6PMs491Ku7CQ65lCtjLSUY2p3BIScHIA8/bRo0tfiD/JqRAA0JwNxRre1bYKn25CiTs7Jqlo+saOvpokSU9ZOSgFpPebLjilZUoZWAAeAOeNar4mSol5Jo4Nf2ayYzYOMLE+EXkr76Up2JCEqAzgjnA+ujRqBcOOLSgnkZqiylAUsZr/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_nahrungsergaenzungsmittel-fb.png__l.jpg
 labels:
-  - B12
-  - D3
-  - Ernährung & Gesundheit
-  - K2 Magnesium
-  - Kalzium
-  - Nahrungsergänzungsmittel
+- B12
+- D3
+- Ernährung & Gesundheit
+- K2 Magnesium
+- Kalzium
+- Nahrungsergänzungsmittel
 focusKeyword: Nahrungsergänzungsmittel
 status: publish
 isWerbung: false
@@ -28,10 +31,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Nahrungsergänzungsmittel für Veganer*innen
+advertisement: true
+affiliate: true
+
 ---
-
-_Werbung &amp; Affiliate Links\*_
-
 **Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in irgendeiner Form zu sich. Doch welche empfiehlt es sich zu nehmen? Besonders für Veganer⋆innen?**
 
 Eines ist schon mal klar: Als Veganer⋆in solltet ihr auf jeden Fall dauerhaft Vitamin B12 einnehmen. Da es dem Futter der Tiere, die wir nicht essen, zugesetzt wird und wir es anders nicht aufnehmen können, ist das der einzige derzeit bekannte sichere Weg, den Vitamin-B12-Speicher stets gut gefüllt zu halten. Das bedeutet natürlich nicht, dass Nicht-Veganer⋆innen keinen B12-Mangel erleiden können. Weil damit nicht zu spaßen ist, lässt man am besten bei jedem Blutbild auch den Holotranscobalamin-Wert (Holo-TC) messen. **Achtung:** Das müsst Ihr auf alle Fälle vorher anmelden und meistens auch selbst bezahlen. Informiert Euch also am besten in der Praxis Eures Vertrauens.
@@ -105,5 +108,3 @@ Im Feelgood Shop erhaltet Ihr neben dem von mir vorgeschlagenen Dreifach-Präpar
 Ob und welche Vitamine und Mineralstoffe Ihr über Nahrungsergänzungsmittel zuführt, erfahrt Ihr am besten mit einem genauen Blutbild. Bevor Ihr supplementiert, unterhaltet Euch auf jeden Fall mit einem⋆r Fachmann⋆frau. Das kann Euch auch Aufschluss darüber geben, wie gut es im Allgemeinen um Eure Gesundheit steht. Den Vitamin B12 Spiegel sollte man auf jeden Fall immer im Auge behalten – egal ob Veganer⋆in oder nicht.
 
 [Ich habe mich mit einem veganen Internisten unter anderem über Vitamin B12 unterhalten. Das Interview findet Ihr hier](/2019/06/veganer-arzt-interview-dr-hanno-platz/).
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Die Produkte wurden mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
