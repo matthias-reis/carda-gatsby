@@ -70,6 +70,7 @@ collections:
         }
       - { label: 'Text', name: 'body', widget: 'markdown' }
       - { label: 'Hauptbild', name: 'image', widget: image }
+      - { label: 'Copyright Hauptbild', name: 'copyrigt', widget: text }
       - { label: 'Social Media Bild', name: 'ogImage', widget: image }
       - { label: 'Labels', name: 'labels', widget: 'list' }
       - {
