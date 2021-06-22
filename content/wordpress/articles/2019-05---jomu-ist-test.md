@@ -1,36 +1,38 @@
 ---
-date: 2019-05-24T11:24:37.000Z
+date: 2019-05-24T11:24:37.000+00:00
 slug: gerstengras-jomu
-path: /2019/05/gerstengras-jomu/
+path: "/2019/05/gerstengras-jomu/"
 type: Artikel
 typeName: Produkttest
 title: Jomu ist Test
 seoTitle: Gerstengras von Jomu im Test - Detox für das Wohlbefunden
 ogTitle: Gerstengras von Jomu im Test - Detox für das Wohlbefunden
-description: Ich habe die Gerstengras-Produkte von Jomu getestet und damit einen leckeren Smoothie zubereitet. Ich verrate Euch heute einiges über das Produkt.
-excerpt: Werbung - Ich habe die Gerstengras-Produkte von Jomu getestet und damit einen leckeren Smoothie zubereitet. Heute verrate ich Euch das Rezept und einiges über den Hersteller.
+description: Ich habe die Gerstengras-Produkte von Jomu getestet und damit einen leckeren
+  Smoothie zubereitet. Ich verrate Euch heute einiges über das Produkt.
+excerpt: Ich habe die Gerstengras-Produkte von Jomu getestet und damit einen leckeren
+  Smoothie zubereitet. Heute verrate ich Euch das Rezept und einiges über den Hersteller.
 fileName: 2019-05---jomu-ist-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBQECAwf/xAAqEAACAQIFAwQBBQAAAAAAAAABAgMEEQAFEiExBkFhEyJRgRQjMlJxkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAQX/xAAkEQACAQQBAgcAAAAAAAAAAAABAgADERIxBCFxBRNRYYHR8P/aAAwDAQACEQMRAD8AqMwOXzZVlS1NcVgp5pFlW2khCtwx2/lt94xTQZJIJBTSJMoAOt5CCLjyoHOK3I6+lqqighSkpRC51MnvfUVOk6tR3/rjDVR5hLHnRhqKGiWCFWeJooAvqqysLFeLgjt845VNslbPd/qKoEIgBBv36eveQ8krIMjFU8VMZzK8ZusyexAQWAFuTbn6x369WPNMwq62kkDFyarV2YEkM3Y7XFvIxv1IaaDK4KempYkeQ3ZlF2UBQSL/ADzthbrs4V4rPUCR44io0j9kZOxYjvx9jEqqurBfmE5ZBCuBbK/vrpE7p6plpZ6eadG9KKVtLBrjcXtsbX4Gw7ecehUHVcsbRzRxQSfpOiMSCRcEefnBgxlR2DXEXxbVbqw1IlZmcclHJeIJO7NNNKCAHYjc27cD/MKH5CGlMsrRwGVLGKJ9K8dyeBxxfBgxWgPMbJtwviahAqj9qf/Z
-ogImage: null
+ogImage: 
 labels:
-  - basische Ernährung
-  - detox
-  - Entgiftung
-  - Entsäuerung
-  - Ernährung
-  - Ernährung & Gesundheit
-  - Gerstengras
-  - Gerstengras gegen Übersäuerung
-  - Grüner Smoothie
-  - Jomu
-  - Nahrungsergänzungsmittel
-  - Smoothie
-  - Übersäuerung
-  - vegan
-  - vegane Ernährung
-  - Vitamine
+- basische Ernährung
+- detox
+- Entgiftung
+- Entsäuerung
+- Ernährung
+- Ernährung & Gesundheit
+- Gerstengras
+- Gerstengras gegen Übersäuerung
+- Grüner Smoothie
+- Jomu
+- Nahrungsergänzungsmittel
+- Smoothie
+- Übersäuerung
+- vegan
+- vegane Ernährung
+- Vitamine
 focusKeyword: Gerstengras
 status: publish
 isWerbung: false
@@ -38,10 +40,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Gerstengras für das Wohlbefinden
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Ich habe die Gerstengras-Produkte von Jomu getestet und damit einen leckeren Smoothie zubereitet. Heute verrate ich Euch das Rezept und erzähle ein paar Sachen, die ich über den Hersteller erfahren habe.**
 
 Jomu Gründer Johannes Roll wohnt in Steinhagen. Anfang 20 attestierte ihm sein Arzt 30 Kilo zu viel und es ging ihm gar nicht gut. Das Übergewicht und der Stress im Alltag lasteten so stark auf seiner Seele, dass er irgendwann sogar an Selbstmord dachte. Eine dramatische Geschichte.
@@ -132,18 +133,17 @@ Die Menge an Nährstoffen in Gerstengras ist ganz nebenbei bemerkt wirklich beac
     <tbody>
       <tr>
         <td valign="top" width="290">
-          ### Nährstoffe Gerstengras (Pulver)
+          **Nährstoffe Gerstengras (Pulver)**
         </td>
         <td valign="top" width="15"></td>
         <td valign="top" width="279">
           <h4>
-            MENGE AUF 3,5 GRAMM Gerstengras (entspricht einen gehäuften
-            Teelöffel)
+           **MENGE AUF 3,5 GRAMM Gerstengras (entspricht einen gehäuften
+            Teelöffel)**
           </h4>
         </td>
         <td valign="top" width="279">
-          ### Recommended Daily Allowance (Von der DGE emfohlene Tagesmenge,
-          Quelle: [Deutsche Gesellschaft für Ernährung](http://www.dge.de) )
+        **Von der [DGE](http://www.dge.de) empfohlene Tagesmenge**
         </td>
       </tr>
       <tr>
@@ -668,7 +668,3 @@ Die Menge an Nährstoffen in Gerstengras ist ganz nebenbei bemerkt wirklich beac
     </tbody>
   </table>
 </div>
-
-<FestivalList />
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
