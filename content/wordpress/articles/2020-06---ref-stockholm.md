@@ -1,28 +1,30 @@
 ---
-date: 2020-06-15T11:58:39.000Z
+date: 2020-06-15T11:58:39.000+00:00
 slug: ref-stockholm
-path: /2020/06/ref-stockholm/
+path: "/2020/06/ref-stockholm/"
 type: Artikel
 typeName: Produkttest
 title: REF Stockholm
 seoTitle: REF Stockholm - die Haare einfach mal wachsen lassen
 ogTitle: REF Stockholm - die Haare einfach mal wachsen lassen
-description: Ich habe mich entschieden, meine Haare einfach mal wachsen zu lassen. Die veganen Haarpflegeprodukte von REF Stockholm unterstützen mich dabei.
-excerpt: Werbung & Affiliate Links - Ich habe mich entschieden, meine Haare einfach mal wachsen zu lassen. Die veganen Haarpflegeprodukte von REF Stockholm unterstützen mich dabei.
+description: Ich habe mich entschieden, meine Haare einfach mal wachsen zu lassen.
+  Die veganen Haarpflegeprodukte von REF Stockholm unterstützen mich dabei.
+excerpt: Ich habe mich entschieden, meine Haare einfach mal wachsen zu lassen. Die
+  veganen Haarpflegeprodukte von REF Stockholm unterstützen mich dabei.
 fileName: 2020-06---ref-stockholm.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-05-17-ref-stockholm-33__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-05-17-ref-stockholm-33__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgIDB//EACoQAAIBAwMDAwMFAAAAAAAAAAECAwQFEQASIQYTMSJRYRVBcTJCgaKy/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAjEQABAwMCBwAAAAAAAAAAAAABAAIDBCExBRETUnGBscHw/9oADAMBAAIRAxEAPwCC6FstTLJLOLbUyU0kLRpVdgmKNsg5LHj7Y499XC7WqA0tFIzxkUr7XljBLORgkgHySTjTnR1bUx9KQ0FVFNC1C5SNDUBywPqJZQMAZY4HtpqCpp62Ckp9pKQymNn/AEkgMAR8+ONDrpTJKXDCZpsHAp2xnOT3uqxPSRtT18VKEW7yptZgG4V3G7jjB28e/OmqW2W6i6joR3ZXjusr0ixpCCpp3iKH25wc/GMnTlscyXVpZtrHuYeVl5ckDBz+RrC71DRXfpeqllHdoap2lm8ho1BLf1B/GPnRWOIuE5zA6xwuWWnqy52tIqajMIFSQmHjGyNVH7VXaCx+7Nk6utjvL1liNUIzHMgYlgw9TbsE+BjRo1Sr42teSB9sFI0mZ8kYDzvb2QtcFa8VvqK2MEPE+4IWyp4PkfxqB6wvE30iljRQncjVmKnyH9RH+Rn2Hzo0aNSNBlb1VOa8Mm/K7wV//9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_ref-stockholm-fb.png__l.jpg
 labels:
-  - Beauty Hair Store
-  - Fair Fashion & Beauty
-  - Haarpflege
-  - REF Stockholm
-  - Shampoo
-  - vegan beauty
-  - vegane Haarpflege
-  - veganes Shampoo
+- Beauty Hair Store
+- Fair Fashion & Beauty
+- Haarpflege
+- REF Stockholm
+- Shampoo
+- vegan beauty
+- vegane Haarpflege
+- veganes Shampoo
 focusKeyword: REF Stockholm
 status: publish
 isWerbung: false
@@ -30,10 +32,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Die Haare einfach mal wachsen lassen
+advertisement: true
+affiliate: true
+
 ---
-
-_Werbung &amp; Affiliate Links\*_
-
 **Ich habe mich entschieden, meine Haare einfach mal wachsen zu lassen. Die veganen Haarpflegeprodukte von REF Stockholm unterstützen mich dabei.**
 
 In den letzten Monaten konnte man nicht zu Friseur gehen. Ich habe das zum Anlass genommen, auch meinen Sidecut, den ich sonst immer selbst nachgeschnitten habe, komplett rauswachsen zu lassen. Meine Stränchen gehen durch das Längerwerden meiner Haare auch langsam in so eine Art rausgewachsenen Balayage Look über, den ich (ganz im Ernst) gar nicht so schlecht finde.
@@ -81,5 +83,3 @@ Die Marke REF Stockholm wird in Deutschland derzeit exklusiv online über den [B
 Und jetzt entschuldigt mich bitte. Ich möchte meine Haarpackung auftragen. Die [Ultimate Repair Masque von REF](https://t.adcell.com/p/click?promoId=205816&slotId=80259&param0=https%3A%2F%2Fref-stockholm.de%2Fcare%2F46%2Fref-ultimate-repair-masque-200-ml%3Fc%3D13) Stockholm natürlich.
 
 <Gallery name="refstockholm2" />
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
