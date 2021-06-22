@@ -1,34 +1,36 @@
 ---
 date: 2020-09-10T14:12:35.000+00:00
 slug: zwetschgenmarmelade-mit-birkenzucker
-path: '/2020/09/zwetschgenmarmelade-mit-birkenzucker/'
+path: "/2020/09/zwetschgenmarmelade-mit-birkenzucker/"
 type: Artikel
 typeName: Rezept
 title: Zwetsch­gen­mar­me­la­de mit Bir­ken­zu­cker
 seoTitle: Zwetschgenmarmelade mit Birkenzucker - lecker und gesundheitsbewusst
 ogTitle: Zwetschgenmarmelade mit Birkenzucker - lecker und gesundheitsbewusst
-description: Zwetschgen gehören zum Herbst einfach dazu. Mit einer leckeren, selbst gemachten Zwetschgenmarmelade könnt Ihr ihren Geschmack das ganze Jahr über genießen.
-excerpt: Affiliate Links - Zwetschgen gehören zum Herbst einfach dazu. Mit einer leckeren, selbst gemachten Zwetsch\u00ADgen\u00ADmar\u00ADme\u00ADla\u00ADde könnt Ihr ihren Geschmack das ganze Jahr über genießen.
+description: Zwetschgen gehören zum Herbst einfach dazu. Mit einer leckeren, selbst
+  gemachten Zwetschgenmarmelade könnt Ihr ihren Geschmack das ganze Jahr über genießen.
+excerpt: Zwetschgen gehören zum Herbst einfach dazu. Mit einer leckeren, selbst gemachten
+  Zwetschgenmarmelade könnt Ihr ihren Geschmack das ganze Jahr über genießen.
 fileName: 2020-09---zwetsch-gen-mar-me-la-de-mit-bir-ken-zu-cker.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-10-zwetschgenmarmelade-12__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-10-zwetschgenmarmelade-12__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAJxAAAQMEAgIBBAMAAAAAAAAAAQIDEQAEBSESMRNBBhQiJFEycaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAgP/xAAkEQABBAECBgMAAAAAAAAAAAABAAIDEQQxYRIhIlFxsYGh8f/aAAwDAQACEQMRAD8AQ+PMkqSogoQns9CtpbWy1sLLb7aF8SpttZCS5AniknUmCN/31XPbi3auLa1usmyt3GMSVNgkJJ2JJnQg9+iKZaydkxbLaurB93CeYptxzhxsFMlE9KjuQB3qj5PGGAsNc+fjbfT4TcTFEw6XdR0G/wCWn77OOM8S6pbjjqpZaUx4gWydSqexudbg1UjIsZQXAYMPNqKFoUZiNU7k8k3h3rj6KyQH3W/GhSjAt9ySn3+9Gs18Yx5aZeyN8442u6JdTPagZM1MBcS6ySO5r0FefG1jGGg1xuwLr7JPvyrwh17HWi7T8lTXKWSU9GP4gggkQdGAZqPI2+R+RZK1SnFJtUCPI4tIaAAj7pG970P8oopBNiijRZMkTeFhpaW8wNm6UuX7ir1QTxWCQlKiB7jfrqapc/cMqaAUlJPGOKCDH61RRUtAGiyllfIbebX/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_zwetschgenmarmelade-fb.png__l.jpg
 labels:
-  - Birken-Gelierzucker
-  - Birkenzucker
-  - Gelier-Xylit
-  - Gelierzucker
-  - Marmelade
-  - Marmelade einkochen
-  - Marmelade ist vegan
-  - Rezept
-  - vegane Marmelade
-  - vegane Rezepte
-  - Vegane Rezepte
-  - Xylit
-  - Zwetschgen
-  - Zwetschgenmarmelade
+- Birken-Gelierzucker
+- Birkenzucker
+- Gelier-Xylit
+- Gelierzucker
+- Marmelade
+- Marmelade einkochen
+- Marmelade ist vegan
+- Rezept
+- vegane Marmelade
+- vegane Rezepte
+- Vegane Rezepte
+- Xylit
+- Zwetschgen
+- Zwetschgenmarmelade
 focusKeyword: Zwetschgenmarmelade
 status: publish
 isWerbung: false
@@ -38,10 +40,10 @@ errors: {}
 subTitle: Lecker und gesundheitsbewusst
 year: '2020'
 month: '09'
-advertisement: true
+advertisement: false
 affiliate: true
----
 
+---
 **Zwetschgen gehören zum Herbst einfach dazu. Mit einer leckeren, selbst gemachten Zwetsch­gen­mar­me­la­de könnt Ihr ihren wunderbaren Geschmack das ganze Jahr über genießen.**
 
 Zwetsch­gen­mar­me­la­de ist wahnsinnig schmackhaft und der perfekte Begleiter für [Brot](/tag/brot/), Scones und [Muffins](/2020/06/vegane-muffins/). Die gute Nachricht ist: Sie muss nicht zur zuckrigen Kalorienbombe werden. Ich habe vor ein paar Tagen welche mit Birkenzucker (Xylit) eingekocht. Das Rezept verrate ich Euch heute.
