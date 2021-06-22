@@ -1,7 +1,6 @@
 backend:
   name: github
   repo: matthias-reis/carda-gatsby
-  site_id: cardamonchai.amreis.de
   branch: master
   commit_messages:
     create: 'cms(content): Create “{{slug}}”'
@@ -10,7 +9,6 @@ backend:
     uploadMedia: 'cms(media): [skip ci] Upload “{{path}}”'
     deleteMedia: 'cms(media): [skip ci] Delete “{{path}}”'
 
-site_id: cardamonchai.amreis.de
 media_folder: static/img
 public_folder: /img
 locale: de
@@ -28,7 +26,8 @@ collections:
     preview_path: '{{year}}/{{month}}/{{slug}}'
     summary: '{{title}} ({{language}})'
     nested:
-      depth: 10 # max depth to show in the collection tree
+      depth: 10
+      summary: ''
     fields:
       - { label: 'GoLive', name: 'date', widget: 'datetime', required: false }
       - { label: 'Permalink', name: 'slug', widget: 'string' }

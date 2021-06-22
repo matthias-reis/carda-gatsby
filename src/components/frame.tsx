@@ -6,7 +6,6 @@ import { Header } from './header';
 import { CookieConsent } from './cookie-consent';
 import { Analytics } from './analytics';
 import { SearchProvider } from './search-provider';
-import { AdminBar } from './admin-bar';
 
 import { space, font, line, color, fontSize } from '../style';
 import { Helmet } from 'react-helmet';
@@ -138,7 +137,6 @@ export const Frame: React.FC = ({ children }) => {
           />
         </Helmet>
         <ContentContainer>{children}</ContentContainer>
-        <AdminBar />
       </PageContainer>
     </SearchProvider>
   );

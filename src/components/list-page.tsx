@@ -1,5 +1,6 @@
 import * as React from 'react';
 import styled from '@emotion/styled';
+import { Link } from 'gatsby';
 
 import { Category, CompactArticle } from '../types';
 import { color, fontSize, space } from '../style';
@@ -9,8 +10,8 @@ import { ArticleList } from './article-list';
 import { PageMeta } from './page-meta';
 import { Container } from './container';
 import { P } from './typo';
+import { AdminBar } from './admin-bar';
 import { IconChevronRight as UnstyledIconChevronRight } from './icons';
-import { Link } from 'gatsby';
 
 const ListPage: React.FC<{
   articles: CompactArticle[];
@@ -84,6 +85,7 @@ const ListPage: React.FC<{
         )}
         <ArticleList articles={articles} content={`list/${topic}`} />
       </ContentSection>
+      <AdminBar />
     </div>
   );
 };

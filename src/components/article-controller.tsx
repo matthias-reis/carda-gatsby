@@ -78,6 +78,7 @@ export const query = graphql`
   query ArticleQuery($id: String!, $recommendations: [String]) {
     mdx(id: { eq: $id }) {
       body
+      fileAbsolutePath
       fields {
         labels
         path

@@ -10,6 +10,7 @@ import { HomePagination } from './home-pagination';
 import { FooterNavigation } from './footer-navigation';
 import { FooterContent } from './footer-content';
 import { PageMeta } from './page-meta';
+import { AdminBar } from './admin-bar';
 import { event } from './analytics';
 
 type NextContent = {
@@ -29,9 +30,8 @@ const fetchNextContent = async (nextPageId: number) => {
 export const HomePage: React.FC<{
   articles: CompactArticle[];
 }> = ({ articles }) => {
-  const [availableArticles, setAvailableArticles] = React.useState<
-    CompactArticle[]
-  >(articles);
+  const [availableArticles, setAvailableArticles] =
+    React.useState<CompactArticle[]>(articles);
 
   const [nextPage, setNextPage] = React.useState<number>(0);
   const [maxPages, setMaxPages] = React.useState<number>(100);
@@ -97,6 +97,7 @@ export const HomePage: React.FC<{
           />
         )}
       </ContentSection>
+      <AdminBar />
     </div>
   );
 };

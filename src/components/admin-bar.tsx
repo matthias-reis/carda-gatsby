@@ -58,7 +58,11 @@ const Info = styled.a`
   }
 `;
 
-export const AdminBar: React.FC = () => {
+export const AdminBar: React.FC<{
+  link?: string;
+  isInFuture?: boolean;
+  isOldArticle?: boolean;
+}> = ({ link, isInFuture, isOldArticle }) => {
   const data = useStaticQuery(graphql`
     query HeaderQuery {
       site {
@@ -71,7 +75,6 @@ export const AdminBar: React.FC = () => {
   `);
 
   const handleDeploymentClick = () => {
-    // curl -X POST -d {} https://api.netlify.com/build_hooks/60a93ed507b42b7a919dbc80
     const webhookUrl =
       'https://api.netlify.com/build_hooks/60a93ed507b42b7a919dbc80';
 
@@ -87,10 +90,17 @@ export const AdminBar: React.FC = () => {
         >
           <IconNew /> Neuer Beitrag
         </Item>
-        <Item href="" target="_blank">
-          <IconEdit />
-          Beitrag bearbeiten
-        </Item>
+        {link && (
+          <Item
+            href={`${data.site.siteMetadata.siteUrl}/admin/#/collections/${
+              isOldArticle ? 'oldArticle' : 'article'
+            }/entries/${link}`}
+            target="_blank"
+          >
+            <IconEdit />
+            Bearbeiten ({isOldArticle ? 'wordpress' : 'gatsby'})
+          </Item>
+        )}
         <Item onClick={handleDeploymentClick}>☠️ Deployment</Item>
         <Info href="https://www.gatsbyjs.com/dashboard/19505d43-7169-4abd-b5f2-068de380c0df/sites/6c68703c-0aec-403b-acf5-e2b810e68344/deploys">
           Version von {moment(data.site.buildTime).fromNow()}

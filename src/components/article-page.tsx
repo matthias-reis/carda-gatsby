@@ -11,6 +11,7 @@ import { ArticleSeries } from './article-series';
 import { ArticleLabels } from './article-labels';
 import { ArticleRecommendations } from './article-recommendations';
 import { FooterNavigation } from './footer-navigation';
+import { AdminBar } from './admin-bar';
 
 import { space, color, fontSize } from '../style';
 import { Article as ArticleMeta, CompactArticle } from '../types';
@@ -50,7 +51,13 @@ export const ArticlePage: React.FC<ArticleProps> = ({
   series,
   path,
 }) => {
+  const file = meta.fileAbsolutePath || '';
   const date = new Date(meta.frontmatter.date);
+  const isInFuture = date.getTime() - new Date().getTime() > 0;
+  const isOldArticle = file.indexOf('content/wordpress/articles/') > -1;
+  const adminPath = isOldArticle
+    ? file.split('content/wordpress/articles/')[1].replace('.md', '')
+    : file.split('content/articles/')[1].replace('.md', '');
 
   const isAd = meta.frontmatter.advertisement;
   const isAffiliate = meta.frontmatter.affiliate;
@@ -145,6 +152,11 @@ export const ArticlePage: React.FC<ArticleProps> = ({
         {/* <ArticleComments meta={meta} /> */}
         <FooterNavigation />
       </ArticleFooter>
+      <AdminBar
+        link={adminPath}
+        isInFuture={isInFuture}
+        isOldArticle={isOldArticle}
+      />
     </div>
   );
 };
