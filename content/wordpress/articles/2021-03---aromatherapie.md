@@ -1,34 +1,38 @@
 ---
-date: 2021-03-22T09:55:11.000Z
+date: 2021-03-22T09:55:11.000+00:00
 slug: aromatherapie
-path: /2021/03/aromatherapie/
+path: "/2021/03/aromatherapie/"
 type: Artikel
 typeName: Artikel
 title: Aromatherapie
 seoTitle: Aromatherapie - Mit ätherischen Ölen das Wohlbefinden steigern
 ogTitle: Aromatherapie - Wohlfühlen mit ätherischen Ölen
-description: Mit Aromatherapie könnt Ihr Euer Wohlbefinden steigern und unter Umständen sogar bestimmte Symptome wie beispielsweise Kopfschmerzen lindern
-excerpt: 'Werbung & Affiliate Links – Aromatherapie – was nach Wellness im Kurort klingt, könnt Ihr mit ein paar Tricks und Kniffen daheim ausprobieren. Macht Euch bereit: Euch erwartet die pure Entspannung – und zwar ganz ohne Ortswechsel und Reisekosten.'
+description: Mit Aromatherapie könnt Ihr Euer Wohlbefinden steigern und unter Umständen
+  sogar bestimmte Symptome wie beispielsweise Kopfschmerzen lindern
+excerpt: 'Werbung & Affiliate Links – Aromatherapie – was nach Wellness im Kurort
+  klingt, könnt Ihr mit ein paar Tricks und Kniffen daheim ausprobieren. Macht Euch
+  bereit: Euch erwartet die pure Entspannung – und zwar ganz ohne Ortswechsel und
+  Reisekosten.'
 fileName: 2021-03---aromatherapie.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-edel-naturwaren-3__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-edel-naturwaren-3__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBP/EACgQAAEDAwMDBAMBAAAAAAAAAAECAxEABAUGEiEHIjETQVFhFSPwMv/EABYBAQEBAAAAAAAAAAAAAAAAAAECBP/EABoRAAMBAQEBAAAAAAAAAAAAAAABAjEDERL/2gAMAwEAAhEDEQA/ALKyoqUlPyYpJ6cdVsdrbUFziWcZf2DjDCn/AFHilQWErCSAB79wpxachEgpkc+KjFp0qcxORyTmM1Dd2dxdS2XmLdDa2wVhztIVKZ2x2kccVH0hUsfOpfVDF6ByNlZXdjkL9d0wbgG3CE7E7ynkE/VOj6+4xULyfTy1yj2Oa1PqnIXzzMJZeeLZWQtW4oKiFFQBHEkgSauJTt3gmYMeB7Ch0tKcP3wyI3hMlIiPI/v77pEubrV/5C4dtsbiv1rKketdKhYmEbgEApBG7iSZ9qKKyV0qcNMwq0zA68XdsvItsJYgJQFsJddUGgP8wQO4mTIMR81Sw4VJVuKeV7ZHMqPmiiielVpVQlh//9k=
-ogImage: null
+ogImage: 
 labels:
-  - Achtsamkeit
-  - Aroma-Öle
-  - Aromatherapie
-  - ätherische Öle
-  - Cajeput
-  - Ernährung & Gesundheit
-  - Fichtennadel-Öl
-  - Lavendel
-  - Lavendel-Öl
-  - Melaleuca Leucadendra
-  - Pfefferminz
-  - Pfefferminz-Öl
-  - Ylang Ylang
-  - Ylang Ylang-Öl
+- Achtsamkeit
+- Aroma-Öle
+- Aromatherapie
+- ätherische Öle
+- Cajeput
+- Ernährung & Gesundheit
+- Fichtennadel-Öl
+- Lavendel
+- Lavendel-Öl
+- Melaleuca Leucadendra
+- Pfefferminz
+- Pfefferminz-Öl
+- Ylang Ylang
+- Ylang Ylang-Öl
 focusKeyword: Aromatherapie
 status: publish
 isWerbung: false
@@ -36,10 +40,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Wohlfühlen mit ätherischen Ölen
+advertisement: true
+affiliate: true
+
 ---
-
-_Werbung &amp; Affiliate Links_ \*
-
 **Aromatherapie – was nach Wellness im Kurort klingt, könnt Ihr mit ein paar Tricks und Kniffen daheim ausprobieren. Macht Euch bereit: Euch erwartet die pure Entspannung – und zwar ganz ohne Ortswechsel und Reisekosten.**
 
 Mit Aromatherapie könnt Ihr Euer Wohlbefinden steigern und unter Umständen sogar bestimmte Symptome wie beispielsweise Krämpfe oder Kopfschmerzen lindern. Vor allem aber können duftende Aroma-Öle für eine angenehme Atmosphäre sorgen und Euch den Alltag ein Stück weit versüßen.
@@ -133,5 +137,3 @@ Ein Großteil der Aroma-Öle wird heute nicht mehr natürlich gewonnen und statt
 Wenn Ihr bei der Anwendung der Öle ein paar Regeln beachtet, kann Aromatherapie eine echte Bereicherung sein. Denkt daran: Bei starken Schmerzen, Ausschlägen oder sonstigen Irritationen sucht bitte unbedingt eine⋆n Fachärz⋆tinnen auf. Achtet außerdem unbedingt auf die richtige Dosierung. Zu viel des Guten kann zu Nebenwirkungen, allergischen Reaktionen und sogar Vergiftungserscheinungen führen. Vor allem, wenn Ihr schwanger seid, solltet Ihr aufpassen. Außerdem solltet Ihr bei kleinen Kindern besser auf die Anwendung von ätherischen Ölen verzichten.
 
 Quellen/Sources: [Wikipedia](https://de.wikipedia.org/wiki/Aromatherapie), [Edel Naturwaren](https://t.adcell.com/p/click?promoId=252519&slotId=80259&param0=https%3A%2F%2Fwww.edel-naturwaren.de%2F)
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Das Produkt wurde mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
