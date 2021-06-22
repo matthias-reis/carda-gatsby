@@ -1,32 +1,34 @@
 ---
-date: 2019-07-19T10:32:29.000Z
+date: 2019-07-19T10:32:29.000+00:00
 slug: vegan-aber-guenstig-patrick-bolk
-path: /2019/07/vegan-aber-guenstig-patrick-bolk/
+path: "/2019/07/vegan-aber-guenstig-patrick-bolk/"
 type: Artikel
 typeName: Rezension
 title: '"Vegan, aber günstig"'
 seoTitle: Buchtipp - "Vegan, aber günstig"
 ogTitle: Buchtipp - "Vegan, aber günstig"
-description: 'Ich möchte Euch zwei ganz besondere Bücher von Patrick Bolk zeigen: "Vegan, aber günstig - spar Dir das Tier" und "Vegan, aber günstig - das Kochbuch".'
-excerpt: 'Ich möchte Euch zwei ganz besondere Bücher von Patrick Bolk zeigen: "Vegan, aber günstig - spar Dir das Tier" und "Vegan, aber günstig - das Kochbuch".'
+description: 'Ich möchte Euch zwei ganz besondere Bücher von Patrick Bolk zeigen:
+  "Vegan, aber günstig - spar Dir das Tier" und "Vegan, aber günstig - das Kochbuch".'
+excerpt: 'Ich möchte Euch zwei ganz besondere Bücher von Patrick Bolk zeigen: "Vegan,
+  aber günstig - spar Dir das Tier" und "Vegan, aber günstig - das Kochbuch".'
 fileName: 2019-07---vegan-aber-guenstig.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIAwT/xAAxEAABAwMCAwUGBwAAAAAAAAABAgMEAAURBiESEzEiMkFhcQcUFRckQlNkcoGRocH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAdEQEAAgIDAQEAAAAAAAAAAAABAAIDERIhIlFx/9oADAMBAAIRAxEAPwCb9NWpy8XqDb44bLsh0ISHFcKT44J9AadPy1tTizyrbbEpODh24KCgDnqM+lKb2bv8rXen1fnWx/Jx/tVdFsVmDf1UWG4skleJB7W5Pdz5/wBCq223TqHkbB5IoJWgLPGfYbm2uI2l9Ki0piWtWcEDfP6h0pMXuO1HvVyZjp4GWpLiEJznCQogVVGoFw7bc7PADTS+e057upB4g1wrbOPHG23lipSuL3NnynPxHVqz6qJosdluixAOM6dKykQtT2eS8sNtMzGXFrPRKQsEk/tTsjX3TyNSO3T49FVxqUQ2t0fcMbkjdOCdsUUVq5M2x0unI3p2fsz1Nrqyx7pa5CZaJSW2X0BTKg+tBUpB7RBG5x3j1waQe569aKKqUD19iWsvU//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_07_Vegan-aber-gu%CC%88nstig.png__l.jpg
 labels:
-  - Bücher & Filme
-  - Ernährung & Gesundheit
-  - günstig vegan kochen
-  - Kochen ohne Knochen
-  - Patrick Bolk
-  - Spar Dir das Tier
-  - vegan
-  - vegan aber günstig
-  - vegan muss nicht teuer sein
-  - vegane Bücher
-  - vegane Kochbücher
-  - Ventil Verlag
+- Bücher & Filme
+- Ernährung & Gesundheit
+- günstig vegan kochen
+- Kochen ohne Knochen
+- Patrick Bolk
+- Spar Dir das Tier
+- vegan
+- vegan aber günstig
+- vegan muss nicht teuer sein
+- vegane Bücher
+- vegane Kochbücher
+- Ventil Verlag
 focusKeyword: Vegan, aber günstig
 status: publish
 isWerbung: false
@@ -34,10 +36,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Spartipps und Kochbuch von Patrick Bolk
+advertisement: true
+affiliate: true
+
 ---
-
-_Affiliate Links\*_
-
 **Heute möchte ich Euch zwei ganz besondere Bücher des veganen Autoren Patrick Bolk zeigen: "Vegan, aber günstig - spar Dir das Tier" und "Vegan, aber günstig - das Kochbuch". Er stellt mit ihnen endgültig den Beweis auf, dass vegan nicht teuer sein muss.**
 
 Es ist schon eine kleine Weile her, seit ich das letzte Mal ein Buch von Patrick Bolk vorgestellt habe. Schon "[So geht vegan](/2014/11/so-geht-vegan-von-patrick-bolk/)" und "[Vegan im Job"](/2015/06/vegan-im-job-das-neue-buch-von-patrick-bolk-ist-da/) haben mir sehr gut gefallen. 2014 veröffentlichte er das Werk "Vegan, aber günstig - spar Dir das Tier", welches 2017 mit "Vegan, aber günstig - das Kochbuch" ergänzt wurde.
@@ -123,5 +125,3 @@ Lieber Patrick, danke für die Bereicherung unserer Küche und unseres Bücherre
 Ihr könnt die Bücher ganz einfach online bestellen ["Vegan, aber günstig - spar Dir das Tier" gibt es hier](https://amzn.to/2YgeOkd) und ["Vegan, aber günstig - das Kochbuch"](https://amzn.to/2O0v44W) findet Ihr hier.
 
 Übrigens hat Patrick genau wie ich eine Webseite. [Dort freut er sich immer über Euren Besuch](http://patrickbolk.de/).
-
-\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
