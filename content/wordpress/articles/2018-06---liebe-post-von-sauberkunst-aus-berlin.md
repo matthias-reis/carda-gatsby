@@ -1,49 +1,51 @@
 ---
-date: 2018-06-01T06:23:21.000Z
+date: 2018-06-01T06:23:21.000+00:00
 slug: liebe-post-von-sauberkunst
-path: /2018/06/liebe-post-von-sauberkunst/
+path: "/2018/06/liebe-post-von-sauberkunst/"
 type: Artikel
 typeName: Produkttest
 title: Liebe Post von Sauberkunst aus Berlin
 seoTitle: Liebe Post von Sauberkunst aus Berlin - Poseidon und Rosenstolz
 ogTitle: Liebe Post von Sauberkunst aus Berlin - Rosenstolz und Poseidon
-description: 'Vor Kurzem war ich zu einem Bloggerevent von Sauberkunst nach Berlin eingeladen. Dabei habe ich ein paar dufte Typen kennengelernt: Poseidon & Rosenstolz'
-excerpt: 'Werbung - Vor Kurzem war ich zu einem Bloggerevent von Sauberkunst nach Berlin eingeladen. Dabei habe ich ein paar dufte Typen kennengelernt: Poseidon & Rosenstolz!'
+description: 'Vor Kurzem war ich zu einem Bloggerevent von Sauberkunst nach Berlin
+  eingeladen. Dabei habe ich ein paar dufte Typen kennengelernt: Poseidon & Rosenstolz'
+excerpt: 'Vor Kurzem war ich zu einem Bloggerevent von Sauberkunst nach Berlin eingeladen.
+  Dabei habe ich ein paar dufte Typen kennengelernt: Poseidon & Rosenstolz!'
 fileName: 2018-06---liebe-post-von-sauberkunst-aus-berlin.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_40431714030_49aab07994_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_40431714030_49aab07994_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUD/8QAJxAAAgEEAgEDBAMAAAAAAAAAAQIDAAQRIQUxEhMUYSIyQVGRobH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBAEC/8QAIxEAAgEEAQMFAAAAAAAAAAAAAQIDAAQRIRIUMaFBYYGxwf/aAAwDAQACEQMRAD8AXrG284wT13Wktoo8VVSWPQA2da/yrPHcNd+2RmWNAUDKGbZOtYAJ67PzTbdTW0fo+2iEfpr6JfxJZFHQPwf3VlzfpChZd4+PzzQ0djLJt9CsfleIiThB9KQ3BVFyqDIP53/NLNtx7PaySzDI8QfGT7lyOjinnkeTs7OySK6iVruZD4xCMuQwGQSM6GcGsuIWA4xJIQ+ZNspz93Rz3jf4qCKd3YMx9Ow9/IpQwoEwo+qXLDnpZVcXyK4JypVzsd4/Y3UhyfIy38t2ZoII30I8FiABgb/uiikBax8uWNmi5L2Xjxz2rnb3l1BczS3UsExZQA6MVOAc4qlHyklq07zPG5kYsUA0p+D3RRXPSRK5cDZrFupGGCa//9k=
-ogImage: null
+ogImage: 
 labels:
-  - Badebombe
-  - Badekugel
-  - Badezusatz
-  - Beauty Blogger
-  - Berlin Blogger Event
-  - Bloggerevent
-  - Cruelty Free
-  - crueltyfree
-  - Deocreme
-  - Duft
-  - Fair Fashion & Beauty
-  - Hamburg
-  - less waste
-  - plastikfrei
-  - plastikfrei einkaufen
-  - plastikfreies bad
-  - Poseidon
-  - Poseidon Sauberkunst
-  - Rosenstolz
-  - Rosenstolz Sauberkunst
-  - Sauberkunst
-  - Sauberkunst Erfahrungen
-  - Sauberkunst Test
-  - Sea Shepherd
-  - vegan
-  - vegan beauty
-  - vegane Deocreme
-  - vegane Kosmetik
-  - Zero Waste
+- Badebombe
+- Badekugel
+- Badezusatz
+- Beauty Blogger
+- Berlin Blogger Event
+- Bloggerevent
+- Cruelty Free
+- crueltyfree
+- Deocreme
+- Duft
+- Fair Fashion & Beauty
+- Hamburg
+- less waste
+- plastikfrei
+- plastikfrei einkaufen
+- plastikfreies bad
+- Poseidon
+- Poseidon Sauberkunst
+- Rosenstolz
+- Rosenstolz Sauberkunst
+- Sauberkunst
+- Sauberkunst Erfahrungen
+- Sauberkunst Test
+- Sea Shepherd
+- vegan
+- vegan beauty
+- vegane Deocreme
+- vegane Kosmetik
+- Zero Waste
 focusKeyword: Sauberkunst
 status: publish
 isWerbung: false
@@ -51,10 +53,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Poseidon und Rosenstolz
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Vor Kurzem war ich zum Bloggerevent von [Sauberkunst](/2018/02/unboxing-sauberkunst/) nach Berlin eingeladen. Leider war ich an diesem Wochenende schon komplett ausgebucht und konnte nicht kommen. Als Trostpflaster haben mich die Lieben mit einem tollen Paket überrascht. Den Inhalt möchte ich Euch heute zeigen.**
 
 Besonders toll finde ich wie immer die himmlisch duftenden Körperseifen. Ich liebe es, damit zu duschen. Ganz ohne Plastik und ganz ohne schlechtes Gewissen. Dem Paket lagen die Sorten "Lindenblüte", "Poseidon" und "Hautnah" bei.
@@ -127,5 +128,3 @@ Kennt Ihr schon meinen letzten Sauberkunst Unboxing Artikel? Noch nicht? Dann le
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28366179488_bd2a44ad8a_k__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYE/8QAKRAAAgECBQIFBQAAAAAAAAAAAQIDBBEABQYSIRNRFTEyQWEiI0KR0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EACMRAAECBQMFAAAAAAAAAAAAAAIAAQQREiFBAxPxIlFhceH/2gAMAwEAAhEDEQA/AILLcsRiHceZHHfFFDl8ccQ3xfT7EjzwTlWbUZp9ta0qp0w32hYiSwFvkerD9DqGNoYhNQiZVQIoqJASbAAEhRa+LhiNS0gvnlYBwwz6jtjhaMr09HXu5mhljgEZdXCeo/iB3vzifzDTreGGrAAbcV6QU3JBt/f1h+q1TNAsUdBtiiiQRxs0jb0T328EDsL4DzDUkk1DHDMXbpFumwcmw5sDccn5wO7EETvTJsffPpOOlDiNNU37r//Z"
 />
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
