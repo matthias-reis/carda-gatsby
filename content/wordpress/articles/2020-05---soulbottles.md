@@ -1,27 +1,29 @@
 ---
-date: 2020-05-27T11:30:40.000Z
+date: 2020-05-27T11:30:40.000+00:00
 slug: soulbottles
-path: /2020/05/soulbottles/
+path: "/2020/05/soulbottles/"
 type: Artikel
 typeName: Produkttest
 title: soulbottles
 seoTitle: soulbottles - Wasser trinken und Gutes tun
 ogTitle: soulbottles - Wasser trinken und Gutes tun
-description: Soulbottles steht für plastikfreie Trinkflaschen aus Berlin. Ich bin jetzt auch stolze Besitzerin einer Soulbottle und möchte sie Euch heute gerne zeigen.
-excerpt: Werbung & Affiliate Links - Soulbottles steht für plastikfreie Trinkflaschen aus Berlin. Ich bin jetzt auch stolze Besitzerin einer Soulbottle und möchte sie Euch heute gerne zeigen.
+description: Soulbottles steht für plastikfreie Trinkflaschen aus Berlin. Ich bin
+  jetzt auch stolze Besitzerin einer Soulbottle und möchte sie Euch heute gerne zeigen.
+excerpt: Soulbottles steht für plastikfreie Trinkflaschen aus Berlin. Ich bin jetzt
+  auch stolze Besitzerin einer Soulbottle und möchte sie Euch heute gerne zeigen.
 fileName: 2020-05---soulbottles.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-17-soulbottles-17__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-17-soulbottles-17__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAcIAwUG/8QAKxAAAQQBBAECBAcAAAAAAAAAAQIDBBEFAAYSIUETMQcVUbEiI2FxcoHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQIAA//EAB8RAAICAQQDAAAAAAAAAAAAAAABAgMRBCExQRITYf/aAAwDAQACEQMRAD8AcmRnuCBJU1RcS2opCjQJrq9L4IyjT2NlMrgzZnohS1o/JQCb5JUoE8iboGh+2tzvKQqPtDNvhSkluE6q0miPwn2/XSh2tug5F52Uth1eIhtPyOTyg4sJaQmiTVeaB9+hffZJp+SZqpL1tdnTbH+IWRyOezGGyyk1HlLMVdBJLYe4Ua6sdD6nToM9XI9+dQvCy3zHe7U1DAZMvJpe48ySjk6k147H+6tNy/Wc/kfvq4bnK5YaMG64DUjbOUjuXwcjOIUU9GiPB1P/AMUtmsw9tuZyBkJbam2Ex3mHCFJdTYIrjxA83YVd3796NGpm9xq4z9QqtoMiXunDoTTaXZ7QSKviPUB/vV3LjpLqz9VH76NGmvsdRyj/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_soulbottles-fb.png__l.jpg
 labels:
-  - Ernährung & Gesundheit
-  - Nachhaltigkeit
-  - soulbottle
-  - Soulbottles
-  - Trinkflasche
-  - Viva Con Agua
-  - Viva con Agua de Sankt Pauli e. V.
+- Ernährung & Gesundheit
+- Nachhaltigkeit
+- soulbottle
+- Soulbottles
+- Trinkflasche
+- Viva Con Agua
+- Viva con Agua de Sankt Pauli e. V.
 focusKeyword: Soulbottles
 status: publish
 isWerbung: false
@@ -29,10 +31,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Wasser trinken und Gutes tun
+advertisement: true
+affiliate: true
+
 ---
-
-_Werbung &amp; Affiliate Links\*_
-
 **soulbottles steht für plastikfreie Trinkflaschen aus Berlin. Ich bin jetzt auch stolze Besitzerin einer soulbottle und möchte sie Euch heute gerne zeigen.**
 
 Hergestellt werden die pfiffigen Wasserversorger aus Glas und Edelstahl. Bisher konnten dadurch über 6.000 Tonnen Plastik vermieden und 74.185 Menschen der Zugang zu sauberem Wasser ermöglicht werden. Wie das funktioniert?
@@ -70,5 +72,3 @@ Ich bin mit meiner soulbottle sehr zufrieden. Sie begleitet mich inzwischen jede
 Wenn Ihr noch mehr Fakten zum Thema Plastik vs. Glas braucht, findet Ihr einige davon in meinem Artikel ["Mehrweg ist besser als PET!".](/2018/07/glas-statt-plastik/)
 
 <Gallery name="soulbottles-2" />
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
