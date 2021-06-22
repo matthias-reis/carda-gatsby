@@ -28,7 +28,7 @@ collections:
     preview_path: '{{year}}/{{month}}/{{slug}}'
     summary: '{{title}} ({{language}})'
     nested:
-      depth: 3 # max depth to show in the collection tree
+      depth: 10 # max depth to show in the collection tree
     fields:
       - { label: 'GoLive', name: 'date', widget: 'datetime', required: false }
       - { label: 'Permalink', name: 'slug', widget: 'string' }
@@ -161,6 +161,7 @@ collections:
         }
       - { label: 'Text', name: 'body', widget: 'markdown' }
       - { label: 'Hauptbild', name: 'image', widget: image }
+      - { label: 'Copyright Hauptbild', name: 'copyrigt', widget: text }
       - { label: 'Social Media Bild', name: 'ogImage', widget: image }
       - { label: 'Labels', name: 'labels', widget: 'list' }
       - {
