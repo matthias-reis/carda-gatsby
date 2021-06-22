@@ -1,30 +1,32 @@
 ---
-date: 2015-12-16T16:26:57.000Z
+date: 2015-12-16T16:26:57.000+00:00
 slug: paulibird
-path: /2015/12/paulibird/
+path: "/2015/12/paulibird/"
 type: Artikel
 typeName: Artikel
 title: Paulibird
 seoTitle: Paulibird - handgemachter Upcycling-Schmuck aus St. Pauli
 ogTitle: Paulibird - handgemachter Upcycling-Schmuck aus St. Pauli
-description: 'Bei Paulibird in Hamburg wird ganz individueller Schmuck hergestellt. Das Material: Alte Skateboarddecks in Kombination mit Cellulose-Acetat.'
-excerpt: 'Werbung - Bei Paulibird in Hamburg wird ganz individueller Schmuck hergestellt. Das Material: Alte Skateboarddecks in Kombination mit Cellulose-Acetat.'
+description: 'Bei Paulibird in Hamburg wird ganz individueller Schmuck hergestellt.
+  Das Material: Alte Skateboarddecks in Kombination mit Cellulose-Acetat.'
+excerpt: 'Bei Paulibird in Hamburg wird ganz individueller Schmuck hergestellt. Das
+  Material: Alte Skateboarddecks in Kombination mit Cellulose-Acetat.'
 fileName: 2015-12---paulibird.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_paulibird__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_paulibird__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQIDB//EACgQAAICAQIGAQQDAAAAAAAAAAECAwQRAAUGEhMhMUFRIjJhgUKRof/EABUBAQEAAAAAAAAAAAAAAAAAAAQC/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAESExAxKx8f/aAAwDAQACEQMRAD8A4uteBrFcR5bqyBemp7hcgZzpgu7HtkV9q8MtmQnPJyFSAR8k4wNVO11bMktkRVBYaMDEajJx+P70LcaVQ7dRZYXCsr+vXv2CO+ihiWxqKKgLnckXdsq1wxWViVVQyFgWDnOfHbAAz86ncOtd225WkkqpJUvZRVmx05MEgjJ7AjHg6XpzZYxFkcdQ8ykj7/Xb/NPnAHG1rZKk1Kxt9fcKE9hS8NmMOqZOGZTj6W8EfJHjVPcgETZwVNHs+7VHiCObTlJEkXLNGAGP474Gk/b9su7+L9+GdElJex0Sr5cE5OMAgedGjQkYr2cbx6YzkQMwU6+TOtXjg6bW7DuYVMaKtOZuT9lQM/v41d7rxDw9aqrDDW3evN1VedayRxxSkfy5WJKtn2Ox+NGjSwLNkwpahU//2Q==
-ogImage: null
+ogImage: 
 labels:
-  - Hamburg
-  - Hamburg
-  - Paulibird
-  - Schmuck
-  - Skateboard
-  - Skater
-  - St. Pauli
-  - Upcycling
-  - Upcycling-Schmuck
-  - veganer Schmuck
+- Hamburg
+- Hamburg
+- Paulibird
+- Schmuck
+- Skateboard
+- Skater
+- St. Pauli
+- Upcycling
+- Upcycling-Schmuck
+- veganer Schmuck
 focusKeyword: Paulibird
 status: publish
 isWerbung: false
@@ -32,10 +34,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Handgemachter Upcycling-Schmuck aus St. Pauli
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Upcycling ist derzeit überall schwer im Kommen. Bei Paulibird in Hamburg wird ganz individueller Schmuck hergestellt. Das Material: Alte Skateboarddecks in Kombination mit Cellulose-Acetat.**
 
 Der Schmuckdesigner und Künstler Maurice Schadowske hat schon als Kind Brillen aus Acetat getragen. Während seiner Ausbildung zum Optiker lernte er das Material schätzen. 2015 eröffnete er auf St. Pauli eine Schmuckwerkstatt. Er fing damit an, Schmuck aus Cellulose-Acetat herzustellen.
@@ -77,5 +78,3 @@ Das Cellulose-Acetat ist ein biologischer Kunststoff, der aus Baumwollfasern her
 Käuflich erwerben kann man die Paulibird Schmuckstücke im Paulibird Shop oder online. Für persönliche Anfragen geht man am besten über das Online-Formular auf paulibird.com. Der Versand ist in Deutschland ab 80 Euro kostenfrei. Täglich aktuelle Fotos und Geschichten aus der Schmuckmanufaktur bietet die Paulibird [Webseite](https://www.paulibird.com/).
 
 Diesen Beitrag habe ich bereits am 10. Januar 2016 veröffentlicht. Da er jedoch nach wie vor aktuell ist, teile ich ihn heute erneut mit Euch.
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
