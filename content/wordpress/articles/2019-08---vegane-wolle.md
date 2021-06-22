@@ -1,39 +1,41 @@
 ---
-date: 2019-08-06T11:40:02.000Z
+date: 2019-08-06T11:40:02.000+00:00
 slug: vegane-wolle-vegarn-interview
-path: /2019/08/vegane-wolle-vegarn-interview/
+path: "/2019/08/vegane-wolle-vegarn-interview/"
 type: Artikel
 typeName: Interview
 title: Vegane Wolle
 seoTitle: Vegane Wolle - Interview mit Vegarn - "Keine Angst vor dem Auftrennen"
 ogTitle: Vegane Wolle - Interview mit Vegarn - "Keine Angst vor dem Auftrennen"
-description: 'Vegan lebende Handarbeitsfans bekommen bei Vegarn, was sie sich wünschen: Fair gehandelte, schonend hergestellte vegane Wolle.'
-excerpt: 'Vegan lebende Handarbeitsfans bekommen bei Vegarn, was sie sich wünschen: Fair gehandelte, schonend hergestellte vegane Wolle.'
+description: 'Vegan lebende Handarbeitsfans bekommen bei Vegarn, was sie sich wünschen:
+  Fair gehandelte, schonend hergestellte vegane Wolle.'
+excerpt: 'Vegan lebende Handarbeitsfans bekommen bei Vegarn, was sie sich wünschen:
+  Fair gehandelte, schonend hergestellte vegane Wolle.'
 fileName: 2019-08---vegane-wolle.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_vegarn__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_vegarn__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgECB//EACcQAAEDAwMCBwEAAAAAAAAAAAECAxEABAUGEiEHMRMUQVFhcaEi/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECEhETMUH/2gAMAwEAAhEDEQA/AOi9XNZZjTwxWK0rZNXWcypcLS3xLbLaI3KjsVc9jxTDpbqTMZtGRxmrbJmy1BjyhxaWRDbzK52OJ5Pqkgxx9dq11/py0yzlnkdtw7kbJCmrcIXtQ0HFAFZ+ZCfyrNpTE2Ns+/fsAeacR5Z1QMg7VlcA/BWagnLZXw0OENNvclwoqG+7csOqIbDrRgJgwQSYis77pTzW5gJbn+iHJjj696uZxT4Kbm2WEpEwop59eYqVirfwbNlJAGxASBHb3/aKKeF0Nnwb0UUUBH//2Q==
-ogImage: null
+ogImage: 
 labels:
-  - Baumwolle
-  - Fair Fashion & Beauty
-  - GOTS
-  - Hamburg vegan
-  - Hanf
-  - Interviews
-  - Merinowolle Alternative
-  - Nessel
-  - Oeko-Tex
-  - Ramie
-  - Sojaseide
-  - Stricken
-  - Tencel
-  - Tencelgarn
-  - vegan stricken
-  - vegane Handarbeit
-  - vegane Wolle
-  - Vegarn
-  - Wolle aus Sojaprotein
+- Baumwolle
+- Fair Fashion & Beauty
+- GOTS
+- Hamburg vegan
+- Hanf
+- Interviews
+- Merinowolle Alternative
+- Nessel
+- Oeko-Tex
+- Ramie
+- Sojaseide
+- Stricken
+- Tencel
+- Tencelgarn
+- vegan stricken
+- vegane Handarbeit
+- vegane Wolle
+- Vegarn
+- Wolle aus Sojaprotein
 focusKeyword: vegane Wolle
 status: publish
 isWerbung: false
@@ -41,11 +43,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Interview mit Marlin von Vegarn
----
+advertisement: true
 
 ---
-
-Hinweis: Dieses Interview habe ich bereits am 26. April 2016 veröffentlicht. Ich finde das Projekt, um das es darin geht, nach wie vor sehr interessant. Aus diesem Grund habe ich beschlossen, es nochmal in den Fokus zu rücken und teile es heute erneut mit Euch.
+**Hinweis:** Dieses Interview habe ich bereits am 26. April 2016 veröffentlicht. Ich finde das Projekt, um das es darin geht, nach wie vor sehr interessant. Aus diesem Grund habe ich beschlossen, es nochmal in den Fokus zu rücken und teile es heute erneut mit Euch.
 
 ---
 
