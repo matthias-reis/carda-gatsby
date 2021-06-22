@@ -1,34 +1,36 @@
 ---
-date: 2019-01-18T17:09:43.000Z
+date: 2019-01-18T17:09:43.000+00:00
 slug: natronfreie-cremedeos-von-sauberkunst
-path: /2019/01/natronfreie-cremedeos-von-sauberkunst/
+path: "/2019/01/natronfreie-cremedeos-von-sauberkunst/"
 type: Artikel
 typeName: Produkttest
 title: Natronfreie Cremedeos von Sauberkunst
 seoTitle: Natronfreie Cremedeos von Sauberkunst - zarter Duft für sensible Haut
 ogTitle: Natronfreie Cremedeos von Sauberkunst - zarter Duft für sensible Haut
-description: 'Aus dem Hause Sauberkunst gibt es jetzt etwas ganz Neues: Deocremes ohne Natron! Ich habe sie getestet und möchte Euch heute darüber berichten.'
-excerpt: 'Aus dem Hause Sauberkunst gibt es jetzt etwas ganz Neues: Deocremes ohne Natron! Ich habe sie getestet und möchte Euch heute darüber berichten.'
+description: 'Aus dem Hause Sauberkunst gibt es jetzt etwas ganz Neues: Deocremes
+  ohne Natron! Ich habe sie getestet und möchte Euch heute darüber berichten.'
+excerpt: 'Aus dem Hause Sauberkunst gibt es jetzt etwas ganz Neues: Deocremes ohne
+  Natron! Ich habe sie getestet und möchte Euch heute darüber berichten.'
 fileName: 2019-01---natronfreie-cremedeos-von-sauberkunst.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAYHAwQFCP/EACYQAAEDAwMEAwEBAAAAAAAAAAECAwQFESEABhIHIjFBExRRYcH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwEC/8QAJBEAAQIGAgEFAAAAAAAAAAAAAQIRAAMEITFBEsHwIlFxodH/2gAMAwEAAhEDEQA/AE2RsNTciE5CcQqK+3zUJCwCg3xgZVe+MetO9E6Y0n4g5WnJLriXxxajrsjiSLG5TcEEH1bWp0wnGpUr7AadlznAtt15ABdaUVWGTnHbj8tqnqgVBiI443IdElqMW44FgpbhSe5SjgZt/L20A0pPqGw75D+3HP3AUSZRXyCXvg/GtRMtu7EEPdUtuow2qhS27oElbpS2VkApIHlRCTlIGLjxpU6mbSbokpMmFD4QH08A40SpsrHgEk3CikA2IHu19egKPS5i9tRWZa1KmmMhqS6h0K4Oi4WpOMcj3f2/jSt1Tjx4WxaoJ60IcmNMsx0rWSt1xLiSFWIv2gLufw296ipDDiAwy/XhjpdHJl06tEXfrHcTnppV4VLoyV0rkHyAmfKDPP4+V1AKV2ApBBJzdIPnXZ2f1HZ+9uKJXqwiM489eFJQ0SjhxNrG9rAJP5k+STo0apsg4P40aZykcQny8Yt9b1S5RIidrV6R87kklTrK/icRwFjyHniq9wQc2zqZv1WZU3lfflS58s2IW6orUSR2pyff+6NGjECyRgNAlTFVE1lm2Y//2Q==
-ogImage: null
+ogImage: 
 labels:
-  - Cremedeos ohne Natron
-  - Cruelty Free
-  - crueltyfree
-  - Deo ohne Aluminium
-  - Deocreme
-  - Deocremes
-  - Fair Fashion & Beauty
-  - gegen Tierversuche
-  - Natronfreie Cremedeos
-  - Sauberkunst
-  - vegan beauty
-  - vegane Deocreme
-  - vegane Deocremes
-  - veganes Deo
+- Cremedeos ohne Natron
+- Cruelty Free
+- crueltyfree
+- Deo ohne Aluminium
+- Deocreme
+- Deocremes
+- Fair Fashion & Beauty
+- gegen Tierversuche
+- Natronfreie Cremedeos
+- Sauberkunst
+- vegan beauty
+- vegane Deocreme
+- vegane Deocremes
+- veganes Deo
 focusKeyword: Natronfreie Cremedeos
 status: publish
 isWerbung: false
@@ -36,10 +38,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Zarter Duft für sensible Haut
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Aus dem Hause Sauberkunst gibt es jetzt etwas ganz Neues: Deocremes ohne Natron! Ich habe sie getestet und möchte Euch heute darüber berichten.**
 
 Insgesamt gibt es vier spannende Duftrichtungen: "Zeus &amp; Aphrodite", "Grapefruit rosé", "Blaue Lagune" und "Fräulein Grün". "Fräulein Grün" soll an Spa, Entspannung und Erholung erinnern und Name "Grapefruit rosé" spricht für sich, denke ich.
@@ -118,5 +119,3 @@ Wer mehr über die tollen Seifen und festen Shampoos von Sauberkunst erfahren m�
     },
   ]}
 />
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
