@@ -67,7 +67,7 @@ Der Biospaß aus dem Röhrchen wird nicht wie herrkömmlicher Karnevalsglitter a
 Zum Befestigen könnt Ihr wie ich einfach Gesichtscreme nehmen, oder Ihr macht es so, wie der Hersteller es empfiehlt und nehmt das [Aloe Vera Gel](https://www.amazon.de/gp/product/B00E4OLCEG/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B00E4OLCEG&linkCode=as2&tag=cardamonchai-21&linkId=6e86a39707db85a1e890e313c35cccee) von Naissance als "Kleber". Übrigens könnt ihr den Glitzer auch gut als lustigen Zusatz für selbstgemachte Badebomben oder Seifen benutzen.
 
 <Gallery
-images={\[
+images={[
 {
 mediumUrl:
 'https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-12-Naissance-Glitter-61-1__m.jpg',
@@ -98,7 +98,7 @@ mediumUrl:
 largeUrl:
 'https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-12-Naissance-Glitter-12__l.jpg',
 },
-\]}
+]}
 />
 
 [Hier könnt Ihr den Bio-Glitter online erwerben](https://www.enaissance.de/index.php?route=product/search&search=Glitzer&sub_category=true&description=true).
