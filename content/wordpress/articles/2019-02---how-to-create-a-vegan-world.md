@@ -1,40 +1,42 @@
 ---
-date: 2019-02-13T12:57:03.000Z
+date: 2019-02-13T12:57:03.000+00:00
 slug: how-to-create-a-vegan-world-von-tobias-leenaert
-path: /2019/02/how-to-create-a-vegan-world-von-tobias-leenaert/
+path: "/2019/02/how-to-create-a-vegan-world-von-tobias-leenaert/"
 type: Artikel
 typeName: Rezension
 title: '"How To Create A Vegan World"'
 seoTitle: '"How To Create A Vegan World" von Tobias Leenaert'
 ogTitle: '"How To Create A Vegan World" von Tobias Leenaert'
-description: Heute möchte ich Euch das Buch "How To Create A Vegan World - A Pragmatic Approach" von Tobias Leenaert vorstellen. Es geht um Tierethik und Veganismus.
-excerpt: Affiliate Link - Heute möchte ich Euch das Buch "How To Create A Vegan World - A Pragmatic Approach" von Tobias Leenaert vorstellen. Es geht um Tierethik und Veganismus.
+description: Heute möchte ich Euch das Buch "How To Create A Vegan World - A Pragmatic
+  Approach" von Tobias Leenaert vorstellen. Es geht um Tierethik und Veganismus.
+excerpt: Heute möchte ich Euch das Buch "How To Create A Vegan World - A Pragmatic
+  Approach" von Tobias Leenaert vorstellen. Es geht um Tierethik und Veganismus.
 fileName: 2019-02---how-to-create-a-vegan-world.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-12-how-to-create-a-vegan-world-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-12-how-to-create-a-vegan-world-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBQMGCP/EACkQAAIBAwIFAwUBAAAAAAAAAAECAwQFEQASExQhMUEGMoEiUWGRoXH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUABP/EACARAAICAgICAwAAAAAAAAAAAAECAAMFEQQhE1EUMcH/2gAMAwEAAhEDEQA/ALOktCGSFdvucD+6WVXHDBe7xFLx9/OzLuWZ1yoc4GAevY/vTcW+Wu1SU011qVp4+rjIyTtxk4+dLq3cldLzdrpFM5puZkqkAXDNEzFgcdx4yNLes3OqLJeX5HxqPKZRyGnbgxo1WsxkQfVUSHu48E/bTDvtrxcamLb7HZcfONa76pYVLUFcCrUxkRYzghgQ4JBB+f1pkXepo6m8181OzbM734i7cd/500Yq8NhTe4rC8o8uk2EaPr19zn6uu9Vcwj108jyOoT8AE9gB0A1It1ZyTbEnmikiBiVowOoAwc58aNGuRiQQRKGSRXRQw6mS5Xbmo4uNU1EhjAVEZVCKPOAO2ptV6graUOkNVJsUEBJAHA/zOjRrBiTsnuDiq0rVlUaHX7P/2Q==
-ogImage: null
+ogImage: 
 labels:
-  - Animal Liberation
-  - Bücher & Filme
-  - Centre Of Effective Vegan Advocacy
-  - CEVA
-  - Ernährung & Gesundheit
-  - Ethical Vegetarian Alternative
-  - EVA
-  - go vegan
-  - How To Create A Vegan World
-  - Melanie Joy
-  - Peter Singer
-  - ProVeg
-  - ProVeg International
-  - Tierethik
-  - Tierhaltung
-  - Tierrechte
-  - Tierrechte
-  - Tierschutz
-  - Tobias Leenaert
-  - vegan
+- Animal Liberation
+- Bücher & Filme
+- Centre Of Effective Vegan Advocacy
+- CEVA
+- Ernährung & Gesundheit
+- Ethical Vegetarian Alternative
+- EVA
+- go vegan
+- How To Create A Vegan World
+- Melanie Joy
+- Peter Singer
+- ProVeg
+- ProVeg International
+- Tierethik
+- Tierhaltung
+- Tierrechte
+- Tierrechte
+- Tierschutz
+- Tobias Leenaert
+- vegan
 focusKeyword: How To Create A Vegan World
 status: publish
 isWerbung: false
@@ -42,10 +44,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Buch von Tobias Leenaert
+affiliate: true
+
 ---
-
-_Affiliate Links\*_
-
 **Heute möchte ich Euch das Buch "How To Create A Vegan World - A Pragmatic Approach" von Tobias Leenaert vorstellen. Es ist 2017 erschienen und der Titel sagt eigentlich schon ziemlich genau, um was es geht: Tierschutz, Tierethik und Veganismus.**
 
 Tobias Leenaert hat sein Buch für Menschen geschrieben, die dabei helfen möchten, eine bessere Welt für Tiere zu schaffen. Es soll allen Veganer\*innen und sonstigen Tierfreund\*innen neue Fakten und Argumente bieten. " **How To Create A Vegan World** " soll eine nüchterne Strategie vermitteln, mit der die Leser\*innen es schaffen können, innerhalb der Gesellschaft sichtbar auf das menschliche Verhalten gegenüber Tieren, insbesondere denen in Massentierhaltung, hinzuweisen. Dabei stützt sich Leenaert auf Fakten.
@@ -119,5 +120,3 @@ Gemeinsam mit **Melanie Joy** ( "[Warum wir Hunde lieben, Schweine essen und Kü
 "[How To Create A Vegan World](https://www.amazon.de/gp/product/1590565703/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1590565703&linkCode=as2&tag=cardamonchai-21&linkId=5eb11934c2deaf10ce12f7d140248b78)" ist im Verlag Lantern Books erschienen. Das Buch trägt die ISBN-Nummer **978-1-59056-570-4** . Tobias Leenaert lebt in Ghent und bloggt auf [www.veganstrategist.org](http://www.veganstrategist.org).
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen Bestandteil meines Blogs etablieren. Meine Lesewut hat sich [seit ich gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht habe](https://amreis.de/hermetiker/), sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto mehr möchte ich darüber berichten.
-
-\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
