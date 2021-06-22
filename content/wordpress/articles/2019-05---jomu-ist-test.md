@@ -1,38 +1,36 @@
 ---
 date: 2019-05-24T11:24:37.000+00:00
 slug: gerstengras-jomu
-path: "/2019/05/gerstengras-jomu/"
+path: '/2019/05/gerstengras-jomu/'
 type: Artikel
 typeName: Produkttest
 title: Jomu ist Test
 seoTitle: Gerstengras von Jomu im Test - Detox für das Wohlbefunden
 ogTitle: Gerstengras von Jomu im Test - Detox für das Wohlbefunden
-description: Ich habe die Gerstengras-Produkte von Jomu getestet und damit einen leckeren
-  Smoothie zubereitet. Ich verrate Euch heute einiges über das Produkt.
-excerpt: Ich habe die Gerstengras-Produkte von Jomu getestet und damit einen leckeren
-  Smoothie zubereitet. Heute verrate ich Euch das Rezept und einiges über den Hersteller.
+description: Ich habe die Gerstengras-Produkte von Jomu getestet und damit einen leckeren Smoothie zubereitet. Ich verrate Euch heute einiges über das Produkt.
+excerpt: Ich habe die Gerstengras-Produkte von Jomu getestet und damit einen leckeren Smoothie zubereitet. Heute verrate ich Euch das Rezept und einiges über den Hersteller.
 fileName: 2019-05---jomu-ist-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBQECAwf/xAAqEAACAQIFAwQBBQAAAAAAAAABAgMEEQAFEiExBkFhEyJRgRQjMlJxkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAQX/xAAkEQACAQQBAgcAAAAAAAAAAAABAgADERIxBCFxBRNRYYHR8P/aAAwDAQACEQMRAD8AqMwOXzZVlS1NcVgp5pFlW2khCtwx2/lt94xTQZJIJBTSJMoAOt5CCLjyoHOK3I6+lqqighSkpRC51MnvfUVOk6tR3/rjDVR5hLHnRhqKGiWCFWeJooAvqqysLFeLgjt845VNslbPd/qKoEIgBBv36eveQ8krIMjFU8VMZzK8ZusyexAQWAFuTbn6x369WPNMwq62kkDFyarV2YEkM3Y7XFvIxv1IaaDK4KempYkeQ3ZlF2UBQSL/ADzthbrs4V4rPUCR44io0j9kZOxYjvx9jEqqurBfmE5ZBCuBbK/vrpE7p6plpZ6eadG9KKVtLBrjcXtsbX4Gw7ecehUHVcsbRzRxQSfpOiMSCRcEefnBgxlR2DXEXxbVbqw1IlZmcclHJeIJO7NNNKCAHYjc27cD/MKH5CGlMsrRwGVLGKJ9K8dyeBxxfBgxWgPMbJtwviahAqj9qf/Z
-ogImage: 
+ogImage:
 labels:
-- basische Ernährung
-- detox
-- Entgiftung
-- Entsäuerung
-- Ernährung
-- Ernährung & Gesundheit
-- Gerstengras
-- Gerstengras gegen Übersäuerung
-- Grüner Smoothie
-- Jomu
-- Nahrungsergänzungsmittel
-- Smoothie
-- Übersäuerung
-- vegan
-- vegane Ernährung
-- Vitamine
+  - basische Ernährung
+  - detox
+  - Entgiftung
+  - Entsäuerung
+  - Ernährung
+  - Ernährung & Gesundheit
+  - Gerstengras
+  - Gerstengras gegen Übersäuerung
+  - Grüner Smoothie
+  - Jomu
+  - Nahrungsergänzungsmittel
+  - Smoothie
+  - Übersäuerung
+  - vegan
+  - vegane Ernährung
+  - Vitamine
 focusKeyword: Gerstengras
 status: publish
 isWerbung: false
@@ -41,8 +39,8 @@ language: de
 errors: {}
 subTitle: Gerstengras für das Wohlbefinden
 advertisement: true
-
 ---
+
 **Ich habe die Gerstengras-Produkte von Jomu getestet und damit einen leckeren Smoothie zubereitet. Heute verrate ich Euch das Rezept und erzähle ein paar Sachen, die ich über den Hersteller erfahren habe.**
 
 Jomu Gründer Johannes Roll wohnt in Steinhagen. Anfang 20 attestierte ihm sein Arzt 30 Kilo zu viel und es ging ihm gar nicht gut. Das Übergewicht und der Stress im Alltag lasteten so stark auf seiner Seele, dass er irgendwann sogar an Selbstmord dachte. Eine dramatische Geschichte.
@@ -128,543 +126,542 @@ Persönlich kann ich bis jetzt nicht von einem Effekt berichten, da ich es noch 
 
 Die Menge an Nährstoffen in Gerstengras ist ganz nebenbei bemerkt wirklich beachtlich. Für alle, die es gerne genau wissen möchte, habe ich hier eine Liste.
 
-<div class="CategoryText">
-  <table border="0">
-    <tbody>
-      <tr>
-        <td valign="top" width="290">
-          **Nährstoffe Gerstengras (Pulver)**
-        </td>
-        <td valign="top" width="15"></td>
-        <td valign="top" width="279">
-          <h4>
-           **MENGE AUF 3,5 GRAMM Gerstengras (entspricht einen gehäuften
-            Teelöffel)**
-          </h4>
-        </td>
-        <td valign="top" width="279">
-        **Von der [DGE](http://www.dge.de) empfohlene Tagesmenge**
-        </td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Kalorien
-        </td>
-        <td valign="top"></td>
-        <td valign="top">13</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Kalorien aus Fett
-        </td>
-        <td valign="top"></td>
-        <td valign="top">0</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Cholesterin
-        </td>
-        <td valign="top"></td>
-        <td valign="top">0</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Kohlenhydrate
-        </td>
-        <td valign="top"></td>
-        <td valign="top">1.6 g</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Protein
-        </td>
-        <td valign="top"></td>
-        <td valign="top"></td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Faseranteil
-        </td>
-        <td valign="top"></td>
-        <td valign="top">1 g</td>
-        <td valign="top">*</td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Chlorophyll
-        </td>
-        <td valign="top"></td>
-        <td valign="top">18.5 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          ORAC **
-        </td>
-        <td valign="top"></td>
-        <td valign="top">1326,5 µmol TE/g</td>
-        <td valign="top">5000 µmol</td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Ballaststoffe
-        </td>
-        <td valign="top"></td>
-        <td valign="top">1,93 g</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          PH-Wert
-        </td>
-        <td valign="top"></td>
-        <td valign="top">7,9</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          ### __Vitamine__
-        </td>
-        <td valign="top"></td>
-        <td valign="top"></td>
-        <td valign="top"></td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Vitamin H (Biotin)
-        </td>
-        <td valign="top"></td>
-        <td valign="top">4 mcg</td>
-        <td valign="top">50 mcg</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Cholin&gt;
-        </td>
-        <td valign="top"></td>
-        <td valign="top">5 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Lutein&gt;
-        </td>
-        <td valign="top"></td>
-        <td valign="top">1 mg&gt;</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Lycopene
-        </td>
-        <td valign="top"></td>
-        <td valign="top">29 mcg&gt;</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Pro-Vitamin A (Beta Carotin)
-        </td>
-        <td valign="top"></td>
-        <td valign="top">1668 IE (entspricht 0,501 mg)</td>
-        <td valign="top">0,800 mg</td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Vitamin B1 (Thiamin)
-        </td>
-        <td valign="top"></td>
-        <td valign="top">11 mcg</td>
-        <td valign="top">1,1 mg</td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Vitamin B2 (Riboflavin)
-        </td>
-        <td valign="top"></td>
-        <td valign="top">260 mcg</td>
-        <td valign="top">1,4 mg</td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Vitamin B3 (Niacin)
-        </td>
-        <td valign="top"></td>
-        <td valign="top">252 mcg</td>
-        <td valign="top">16 mg</td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Vitamin B5 (Pantothen Säure)
-        </td>
-        <td valign="top"></td>
-        <td valign="top">36 mcg</td>
-        <td valign="top">6 mg</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Vitamin B6 (Pyridoxin)
-        </td>
-        <td valign="top"></td>
-        <td valign="top">39 mcg</td>
-        <td valign="top">1,4 mg</td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Vitamin B8 (Folsäure)
-        </td>
-        <td valign="top"></td>
-        <td valign="top">39,6 mcg</td>
-        <td valign="top">200 mcg</td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Vitamin B12 (Cobalamin)&gt;
-        </td>
-        <td valign="top"></td>
-        <td valign="top">0,5 mcg</td>
-        <td valign="top">2,5 mcg</td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Vitamin C (Ascorbinsäure)
-        </td>
-        <td valign="top"></td>
-        <td valign="top">7.5 mg</td>
-        <td valign="top">80 mg</td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Vitamin E (Tocopherol)
-        </td>
-        <td valign="top"></td>
-        <td valign="top">320 mcg</td>
-        <td valign="top">12 mg</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Vitamin K (Phyllochinon)
-        </td>
-        <td valign="top"></td>
-        <td valign="top">35 mcg</td>
-        <td valign="top">75 mcg</td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Zeaxanthin
-        </td>
-        <td valign="top"></td>
-        <td valign="top">279 mcg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          ### __Mineralien__
-        </td>
-        <td valign="top"></td>
-        <td valign="top"></td>
-        <td valign="top"></td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Calcium
-        </td>
-        <td valign="top"></td>
-        <td valign="top">15 mg</td>
-        <td valign="top">800 mg</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Kobalt
-        </td>
-        <td valign="top"></td>
-        <td valign="top">1.7 mcg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Kupfer
-        </td>
-        <td valign="top"></td>
-        <td valign="top">17 mcg</td>
-        <td valign="top">1 mg</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Jod
-        </td>
-        <td valign="top"></td>
-        <td valign="top">8 mcg</td>
-        <td valign="top">150 mg</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Eisen
-        </td>
-        <td valign="top"></td>
-        <td valign="top">870 mcg</td>
-        <td valign="top">14 mg</td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Magnesium
-        </td>
-        <td valign="top"></td>
-        <td valign="top">3.9 mg</td>
-        <td valign="top">300 mg</td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Mangan
-        </td>
-        <td valign="top"></td>
-        <td valign="top">240 mcg</td>
-        <td valign="top">2 mg</td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Phosphor
-        </td>
-        <td valign="top"></td>
-        <td valign="top">14 mg</td>
-        <td valign="top">700 mg</td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Kalium
-        </td>
-        <td valign="top"></td>
-        <td valign="top">137 mg</td>
-        <td valign="top">2000 mg</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Selen
-        </td>
-        <td valign="top"></td>
-        <td valign="top">3.5 mcg</td>
-        <td valign="top">55 mg</td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Natrium
-        </td>
-        <td valign="top"></td>
-        <td valign="top">1 mg</td>
-        <td valign="top">550 mg</td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Schwefel
-        </td>
-        <td valign="top"></td>
-        <td valign="top">10.5 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Zink
-        </td>
-        <td valign="top"></td>
-        <td valign="top">62 mcg</td>
-        <td valign="top">10 mg</td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          ### __Aminosäuren__
-        </td>
-        <td valign="top"></td>
-        <td valign="top"></td>
-        <td valign="top"></td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Alanin
-        </td>
-        <td valign="top"></td>
-        <td valign="top">69 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Arginin
-        </td>
-        <td valign="top"></td>
-        <td valign="top">66 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Asparagin Säure
-        </td>
-        <td valign="top"></td>
-        <td valign="top">50 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Cystin
-        </td>
-        <td valign="top"></td>
-        <td valign="top">11 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Glutamin Säure
-        </td>
-        <td valign="top"></td>
-        <td valign="top">76 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Glycin
-        </td>
-        <td valign="top"></td>
-        <td valign="top">49 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Histidin
-        </td>
-        <td valign="top"></td>
-        <td valign="top">18 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Isoleucin
-        </td>
-        <td valign="top"></td>
-        <td valign="top">35 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Leucin
-        </td>
-        <td valign="top"></td>
-        <td valign="top">72 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Lysin
-        </td>
-        <td valign="top"></td>
-        <td valign="top">38 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Methionin
-        </td>
-        <td valign="top"></td>
-        <td valign="top">18 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Phenylalanin
-        </td>
-        <td valign="top"></td>
-        <td valign="top">36 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Prolin
-        </td>
-        <td valign="top"></td>
-        <td valign="top">46 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Serin
-        </td>
-        <td valign="top"></td>
-        <td valign="top">31 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Threonin
-        </td>
-        <td valign="top"></td>
-        <td valign="top">42 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Tryptophan
-        </td>
-        <td valign="top"></td>
-        <td valign="top">6 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Tyrosin
-        </td>
-        <td valign="top"></td>
-        <td valign="top">33 mg</td>
-        <td valign="top">*</td>
-        <td valign="top"></td>
-      </tr>
-      <tr>
-        <td valign="top" width="290">
-          Valin
-        </td>
-        <td valign="top"></td>
-        <td valign="top">48 mg</td>
-        <td valign="top">*</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<table>
+  <tbody>
+    <tr>
+      <td>
+          <h4>Nährstoffe Gerstengras (Pulver)</h4>
+      </td>
+      <td></td>
+      <td>
+        <h4>
+          MENGE AUF 3,5 GRAMM Gerstengras (entspricht einen gehäuften
+          Teelöffel)
+        </h4>
+      </td>
+      <td>
+        <h4>Von der DGE empfohlene Tagesmenge</h4>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Kalorien
+      </td>
+      <td></td>
+      <td>13</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Kalorien aus Fett
+      </td>
+      <td></td>
+      <td>0</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Cholesterin
+      </td>
+      <td></td>
+      <td>0</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Kohlenhydrate
+      </td>
+      <td></td>
+      <td>1.6 g</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Protein
+      </td>
+      <td></td>
+      <td></td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Faseranteil
+      </td>
+      <td></td>
+      <td>1 g</td>
+      <td>*</td>
+    </tr>
+    <tr>
+      <td>
+        Chlorophyll
+      </td>
+      <td></td>
+      <td>18.5 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        ORAC **
+      </td>
+      <td></td>
+      <td>1326,5 µmol TE/g</td>
+      <td>5000 µmol</td>
+    </tr>
+    <tr>
+      <td>
+        Ballaststoffe
+      </td>
+      <td></td>
+      <td>1,93 g</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        PH-Wert
+      </td>
+      <td></td>
+      <td>7,9</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <h3>Vitamine</h3>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Vitamin H (Biotin)
+      </td>
+      <td></td>
+      <td>4 mcg</td>
+      <td>50 mcg</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Cholin&gt;
+      </td>
+      <td></td>
+      <td>5 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Lutein&gt;
+      </td>
+      <td></td>
+      <td>1 mg&gt;</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Lycopene
+      </td>
+      <td></td>
+      <td>29 mcg&gt;</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Pro-Vitamin A (Beta Carotin)
+      </td>
+      <td></td>
+      <td>1668 IE (entspricht 0,501 mg)</td>
+      <td>0,800 mg</td>
+    </tr>
+    <tr>
+      <td>
+        Vitamin B1 (Thiamin)
+      </td>
+      <td></td>
+      <td>11 mcg</td>
+      <td>1,1 mg</td>
+    </tr>
+    <tr>
+      <td>
+        Vitamin B2 (Riboflavin)
+      </td>
+      <td></td>
+      <td>260 mcg</td>
+      <td>1,4 mg</td>
+    </tr>
+    <tr>
+      <td>
+        Vitamin B3 (Niacin)
+      </td>
+      <td></td>
+      <td>252 mcg</td>
+      <td>16 mg</td>
+    </tr>
+    <tr>
+      <td>
+        Vitamin B5 (Pantothen Säure)
+      </td>
+      <td></td>
+      <td>36 mcg</td>
+      <td>6 mg</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Vitamin B6 (Pyridoxin)
+      </td>
+      <td></td>
+      <td>39 mcg</td>
+      <td>1,4 mg</td>
+    </tr>
+    <tr>
+      <td>
+        Vitamin B8 (Folsäure)
+      </td>
+      <td></td>
+      <td>39,6 mcg</td>
+      <td>200 mcg</td>
+    </tr>
+    <tr>
+      <td>
+        Vitamin B12 (Cobalamin)&gt;
+      </td>
+      <td></td>
+      <td>0,5 mcg</td>
+      <td>2,5 mcg</td>
+    </tr>
+    <tr>
+      <td>
+        Vitamin C (Ascorbinsäure)
+      </td>
+      <td></td>
+      <td>7.5 mg</td>
+      <td>80 mg</td>
+    </tr>
+    <tr>
+      <td>
+        Vitamin E (Tocopherol)
+      </td>
+      <td></td>
+      <td>320 mcg</td>
+      <td>12 mg</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Vitamin K (Phyllochinon)
+      </td>
+      <td></td>
+      <td>35 mcg</td>
+      <td>75 mcg</td>
+    </tr>
+    <tr>
+      <td>
+        Zeaxanthin
+      </td>
+      <td></td>
+      <td>279 mcg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <h3>Mineralien</h3>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Calcium
+      </td>
+      <td></td>
+      <td>15 mg</td>
+      <td>800 mg</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Kobalt
+      </td>
+      <td></td>
+      <td>1.7 mcg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Kupfer
+      </td>
+      <td></td>
+      <td>17 mcg</td>
+      <td>1 mg</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Jod
+      </td>
+      <td></td>
+      <td>8 mcg</td>
+      <td>150 mg</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Eisen
+      </td>
+      <td></td>
+      <td>870 mcg</td>
+      <td>14 mg</td>
+    </tr>
+    <tr>
+      <td>
+        Magnesium
+      </td>
+      <td></td>
+      <td>3.9 mg</td>
+      <td>300 mg</td>
+    </tr>
+    <tr>
+      <td>
+        Mangan
+      </td>
+      <td></td>
+      <td>240 mcg</td>
+      <td>2 mg</td>
+    </tr>
+    <tr>
+      <td>
+        Phosphor
+      </td>
+      <td></td>
+      <td>14 mg</td>
+      <td>700 mg</td>
+    </tr>
+    <tr>
+      <td>
+        Kalium
+      </td>
+      <td></td>
+      <td>137 mg</td>
+      <td>2000 mg</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Selen
+      </td>
+      <td></td>
+      <td>3.5 mcg</td>
+      <td>55 mg</td>
+    </tr>
+    <tr>
+      <td>
+        Natrium
+      </td>
+      <td></td>
+      <td>1 mg</td>
+      <td>550 mg</td>
+    </tr>
+    <tr>
+      <td>
+        Schwefel
+      </td>
+      <td></td>
+      <td>10.5 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Zink
+      </td>
+      <td></td>
+      <td>62 mcg</td>
+      <td>10 mg</td>
+    </tr>
+    <tr>
+      <td>
+        <h3>Aminosäuren</h3>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Alanin
+      </td>
+      <td></td>
+      <td>69 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Arginin
+      </td>
+      <td></td>
+      <td>66 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Asparagin Säure
+      </td>
+      <td></td>
+      <td>50 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Cystin
+      </td>
+      <td></td>
+      <td>11 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Glutamin Säure
+      </td>
+      <td></td>
+      <td>76 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Glycin
+      </td>
+      <td></td>
+      <td>49 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Histidin
+      </td>
+      <td></td>
+      <td>18 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Isoleucin
+      </td>
+      <td></td>
+      <td>35 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Leucin
+      </td>
+      <td></td>
+      <td>72 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Lysin
+      </td>
+      <td></td>
+      <td>38 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Methionin
+      </td>
+      <td></td>
+      <td>18 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Phenylalanin
+      </td>
+      <td></td>
+      <td>36 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Prolin
+      </td>
+      <td></td>
+      <td>46 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Serin
+      </td>
+      <td></td>
+      <td>31 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Threonin
+      </td>
+      <td></td>
+      <td>42 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Tryptophan
+      </td>
+      <td></td>
+      <td>6 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Tyrosin
+      </td>
+      <td></td>
+      <td>33 mg</td>
+      <td>*</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        Valin
+      </td>
+      <td></td>
+      <td>48 mg</td>
+      <td>*</td>
+    </tr>
+
+  </tbody>
+</table>

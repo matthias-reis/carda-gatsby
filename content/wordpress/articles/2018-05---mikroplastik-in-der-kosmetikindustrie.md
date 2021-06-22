@@ -88,29 +88,24 @@ Laut Umweltbundesamt kann die Zersetzung von Kunststoff bis zu 450 Jahre dauern.
 
 Die Initiative Mikroplastik des Fraunhofer Instituts hat dazu die folgende Liste herausgegeben, die verschiedene Stoffe miteinander vergleicht:
 
-<table border="1" rules="groups">
-  <tbody>
-    <tr>
-      <td>
-        Angelschnur Wegwerfwindel Plastikflasche Aludose Getränkedose
-        Styroporbecher Schaumstoffboje Plastiktüte
-      </td>
-      <td>
-        600 Jahre 450 Jahre 450 Jahre 200 Jahre 200 Jahre 50 Jahre 50 Jahre
-        10-20 Jahre
-      </td>
-      <td></td>
-      <td>
-        Zigarettenkippen Wollsocken Sperrholz Baumwollshirt Milchkarton
-        Pappkarton Apfelgehäuse Zeitung
-      </td>
-      <td>
-        1-5 Jahre 1-5 Jahre 1-3 Jahre 2-5 Monate 3 Monate 2 Monate 2 Monate 6
-        Wochen
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Material         | Zeit        |
+| ---------------- | ----------- |
+| Angelschnur      | 600 Jahre   |
+| Wegwerfwindel    | 450 Jahre   |
+| Plastikflasche   | 450 Jahre   |
+| Aludose          | 200 Jahre   |
+| Getränkedose     | 200 Jahre   |
+| Styroporbecher   | 50 Jahre    |
+| Schaumstoffboje  | 50 Jahre    |
+| Plastiktüte      | 10-20 Jahre |
+| Zigarettenkippen | 1-5 Jahre   |
+| Wollsocken       | 1-5 Jahre   |
+| Sperrholz        | 1-3 Jahre   |
+| Baumwollshirt    | 2-5 Monate  |
+| Milchkarton      | 3 Monate    |
+| Pappkarton       | 2 Monate    |
+| Apfelgehäuse     | 2 Monate    |
+| Zeitung          | 6 Wochen    |
 
 Sollte sich nicht schnell etwas grundlegend ändern, werden unsere [Meere](/2018/03/world-ocean-summit-2018/) bald über und über bedeckt sein von unserem Plastik. Was noch erschwerend hinzukommt: Die Partikel ziehen durch ihre chemische Beschaffenheit andere Schadstoffe an und auch diese landen früher oder später in den Mägen von Meeresbewohnern.
 

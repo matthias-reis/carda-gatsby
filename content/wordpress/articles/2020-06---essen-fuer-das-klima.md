@@ -75,64 +75,21 @@ Das Institut für Energie- und Umweltforschung in Heidelberg hat einen Klimarech
 
 ## Lebensmittel CO<sub>2</sub>-Emission (kg)
 
-<table class="tg">
-  <tbody>
-    <tr>
-      <th class="tg-0lax">Schwein</th>
-      <td class="tg-0lax">4,15</td>
-    </tr>
-    <tr>
-      <th class="tg-0lax">
-        [Rind](/2017/02/klimaschutz-und-vegane-ernaehrung/)
-      </th>
-      <td class="tg-0lax">12,29</td>
-    </tr>
-    <tr>
-      <th class="tg-0lax">Lamm</th>
-      <td class="tg-0lax">7,70</td>
-    </tr>
-    <tr>
-      <th class="tg-0lax"> [Huhn](/2019/09/das-sterben-der-eintagskueken/) </th>
-      <td class="tg-0lax">3,70</td>
-    </tr>
-    <tr>
-      <th class="tg-0lax">Wild</th>
-      <td class="tg-0lax">10,48</td>
-    </tr>
-    <tr>
-      <th class="tg-0lax">Pute</th>
-      <td class="tg-0lax">4,12</td>
-    </tr>
-    <tr>
-      <th class="tg-0lax"> [Kartoffeln](/tag/kartoffeln/) </th>
-      <td class="tg-0lax">0,40</td>
-    </tr>
-    <tr>
-      <th class="tg-0lax">Rosenkohl</th>
-      <td class="tg-0lax">0,28</td>
-    </tr>
-    <tr>
-      <th class="tg-0lax">Rote Bete</th>
-      <td class="tg-0lax">0,32</td>
-    </tr>
-    <tr>
-      <th class="tg-0lax">Wirsing</th>
-      <td class="tg-0lax">0,30</td>
-    </tr>
-    <tr>
-      <th class="tg-0lax">Vollkornbrot</th>
-      <td class="tg-0lax">0,59</td>
-    </tr>
-    <tr>
-      <th class="tg-0lax">Tofu</th>
-      <td class="tg-0lax">1,06</td>
-    </tr>
-    <tr>
-      <th class="tg-0lax">Linsen (getrocknet)</th>
-      <td class="tg-0lax">0,61</td>
-    </tr>
-  </tbody>
-</table>
+|                                                     |       |
+| --------------------------------------------------- | ----- |
+| Schwein                                             | 4,15  |
+| [Rind](/2017/02/klimaschutz-und-vegane-ernaehrung/) | 12,29 |
+| Lamm                                                | 7,70  |
+| [Huhn](/2019/09/das-sterben-der-eintagskueken/)     | 3,70  |
+| Wild                                                | 10,48 |
+| Pute                                                | 4,12  |
+| [Kartoffeln](/tag/kartoffeln/)                      | 0,40  |
+| Rosenkohl                                           | 0,28  |
+| Rote Bete                                           | 0,32  |
+| Wirsing                                             | 0,30  |
+| Vollkornbrot                                        | 0,59  |
+| Tofu                                                | 1,06  |
+| Linsen (getrocknet)                                 | 0,61  |
 
 Bild: [Alexas Fotos](https://pixabay.com/de/users/alexas_fotos-686414/), pixabay
 

@@ -43,77 +43,105 @@ Diese Zahl gab vor Kurzem PETA heraus. 2017 ist das letzte Jahr, aus dem der Tie
 <table>
   <tbody>
     <tr>
-      <th>Mäuse</th>
+      <td>
+        <strong>Mäuse</strong>
+      </td>
       <td>1.963.337</td>
       <td>69.9%</td>
     </tr>
     <tr>
-      <th>Ratten</th>
+      <td>
+        <strong>Ratten</strong>
+      </td>
       <td>316.397</td>
       <td>11.3%</td>
     </tr>
     <tr>
-      <th>Fische</th>
+      <td>
+        <strong>Fische</strong>
+      </td>
       <td>300.033</td>
       <td>10.7%</td>
     </tr>
     <tr>
-      <th>Kaninchen</th>
+      <td>
+        <strong>Kaninchen</strong>
+      </td>
       <td>94.816</td>
       <td>3.4%</td>
     </tr>
     <tr>
-      <th>Vögel</th>
+      <td>
+        <strong>Vögel</strong>
+      </td>
       <td>49.974</td>
       <td>1.8%</td>
     </tr>
     <tr>
-      <th>Andere Nagetiere</th>
+      <td>
+        <strong>Andere Nagetiere</strong>
+      </td>
       <td>32.720</td>
       <td>1.2%</td>
     </tr>
     <tr>
-      <th>Schweine</th>
+      <td>
+        <strong>Schweine</strong>
+      </td>
       <td>18.221</td>
       <td>0.6%</td>
     </tr>
     <tr>
-      <th>Amphibien &amp; Reptilien</th>
+      <td>
+        <strong>Amphibien &amp; Reptilien</strong>
+      </td>
       <td>10.893</td>
       <td>0.4%</td>
     </tr>
     <tr>
-      <th>Rinder</th>
+      <td>
+        <strong>Rinder</strong>
+      </td>
       <td>6.357</td>
       <td>0.2%</td>
     </tr>
     <tr>
-      <th>Primaten</th>
+      <td>
+        <strong>Primaten</strong>
+      </td>
       <td>3.525</td>
       <td>0.1%</td>
     </tr>
     <tr>
-      <th>Hunde</th>
+      <td>
+        <strong>Hunde</strong>
+      </td>
       <td>3.334</td>
       <td>0.1%</td>
     </tr>
     <tr>
-      <th>Schafe</th>
+      <td>
+        <strong>Schafe</strong>
+      </td>
       <td>3.084</td>
       <td>0.1%</td>
     </tr>
     <tr>
-      <th>Andere Spezies</th>
+      <td>
+        <strong>Andere Spezies</strong>
+      </td>
       <td>4.606</td>
       <td>0.2%</td>
     </tr>
     <tr>
-      <th></th>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>Summe</th>
+      <td>
+        <strong>Summe</strong>
+      </td>
       <td>2.807.297</td>
       <td></td>
     </tr>
