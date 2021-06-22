@@ -88,12 +88,7 @@ export const ArticlePage: React.FC<ArticleProps> = ({
         <MetaArea>
           <Icon src={iconUrl} />
           <Meta>
-            <div>
-              {getType(meta)} von Anne &mdash;{' '}
-              <Link href={`https://cardamonchai.com${meta.fields.path}`}>
-                im alten Blog
-              </Link>
-            </div>
+            <div>{getType(meta)} von Anne</div>
             <div>
               {formattedDate} &mdash; Lesezeit: {meta.timeToRead} min
             </div>
