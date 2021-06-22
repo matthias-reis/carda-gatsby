@@ -1,33 +1,35 @@
 ---
-date: 2019-10-11T15:46:48.000Z
+date: 2019-10-11T15:46:48.000+00:00
 slug: living-crafts
-path: /2019/10/living-crafts/
+path: "/2019/10/living-crafts/"
 type: Artikel
 typeName: Produkttest
 title: Herbstliches Lieblingsoutfit
 seoTitle: Herbstliches Lieblingsoutfit - die Herbst-Winter-Kollektion von Living Crafts
 ogTitle: Herbstliches Lieblingsoutfit - die Herbst-Winter-Kollektion von Living Crafts
-description: Der Herbst ist da - Zeit für ein gemütliches Outfit aus kuscheliger Bio-Baumwolle. Ich habe mir die Herbst-Winter-Kollektion von Living Crafts angeschaut.
-excerpt: Werbung & Affiliate Links - Der Herbst ist da - Zeit für ein gemütliches Outfit aus kuscheliger Bio-Baumwolle. Ich habe mir die Herbst-Winter-Kollektion von Living Crafts angeschaut.
+description: Der Herbst ist da - Zeit für ein gemütliches Outfit aus kuscheliger Bio-Baumwolle.
+  Ich habe mir die Herbst-Winter-Kollektion von Living Crafts angeschaut.
+excerpt: Der Herbst ist da - Zeit für ein gemütliches Outfit aus kuscheliger Bio-Baumwolle.
+  Ich habe mir die Herbst-Winter-Kollektion von Living Crafts angeschaut.
 fileName: 2019-10---herbstliches-lieblingsoutfit.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-101__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-101__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAArEAABBAIBAwIEBwAAAAAAAAABAgMEEQUhAAYSQSIxEzJRcRQzYYGRweH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQEDBv/EACQRAAIBAwIGAwAAAAAAAAAAAAECAAMEEQUxEyEiUYGxYfDx/9oADAMBAAIRAxEAPwDCYkZmKs/jFGxtKG1WpX0+w5bdCMYzMS2MLk2Y8J6S6DEyHYT2rOvhOi/UlXg6KT+ljnE/gWs223LiS2YsrtDag9+UaF+4sp1e9+1cXsQp8dEqMpUZ9LbhSy4y6L7gfmT3VaT/ALwjT6FtdIyEEtjn8ff2Lbus9Fg5xjtNghYCXhW5McqciSGXexbSFdtitXW6Ozd1xTn46pXT0pqQ7JkFxxD7tK9RUQqtmyQNefrypw/UEvJ4BCZSWWJZT8Mg2ntcAApQI8ner+YcjOqsi7Ajpg00XAoFYCrBNavQtNDx5J4hVKlCoaediYbRZWAI2MzbAZuREaWptIILS0nu2a7T/dH9uJDOdW4iydC/fzw4c0Gn9KtjvKLpQWGZX4zKzV40huU+0pHqQUr0CKHt9iP4HEmVzmUXt2YtxDg0k+NXs+Tw4cHvwDdHx6kWgHBHn3P/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_10_Winter-Clearance-Sale.png__l.jpg
 labels:
-  - Basicklamotten
-  - Baumwolle
-  - Bio-Baumwolle
-  - Fair Fashion
-  - Fair Fashion & Beauty
-  - GOTS
-  - Herbst
-  - Hoodie
-  - Living Crafts
-  - Nicki
-  - organic textiles
-  - vegane Kleidung
-  - Velour
+- Basicklamotten
+- Baumwolle
+- Bio-Baumwolle
+- Fair Fashion
+- Fair Fashion & Beauty
+- GOTS
+- Herbst
+- Hoodie
+- Living Crafts
+- Nicki
+- organic textiles
+- vegane Kleidung
+- Velour
 focusKeyword: Living Crafts
 status: publish
 isWerbung: false
@@ -35,10 +37,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Die Herbst-Winter-Kollektion von Living Crafts
+advertisement: true
+affiliate: true
+
 ---
-
-_Werbung &amp; Affiliate Links\*_
-
 **Der Herbst ist da und mit ihm diese wunderbaren Spaziergänge mit Herbstlaub, Beeren, gebrochenem Licht und anschließendem Teetrinken - Zeit für ein gemütliches Outfit.**
 
 Genau bei diesen Gelegenheiten (und auch bei vielen anderen) darf ein bequemer Hoodie für mich auf gar keinen Fall fehlen. Am besten kombiniert mit einem kuscheligen Langarm-Shirt. Beides sollte auf jeden Fall vegan, fair und möglichst nachhaltig sein.
@@ -88,5 +90,3 @@ Schön finde ich, dass der Onlineshop genau wie die [Living Crafts Kleidungsstü
 Meine beiden Teile aus der aktuellen Herbst-Winterkollektion machen mir großen Spaß - sie sind zu meinem herbstlichen Lieblingsoutfit geworden. Ich denke, dass sich in Zukunft sicher noch das ein oder andere Living Crafts Stück dazugesellen wird.
 
 <Gallery name="living-crafts-2019-10-06" />
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
