@@ -2,31 +2,33 @@
 title: Happybrush im Test
 seoTitle: happybrush - Der ultimative Produkttest - Meine neue Schallzahnbürste
 slug: happybrush-der-ultimative-produkttest
-path: /2017/08/happybrush-der-ultimative-produkttest/
+path: "/2017/08/happybrush-der-ultimative-produkttest/"
 fileName: 2017-08---happybrush-im-test.md
-description: Heute möchte ich mit Euch meine Erfahrungen mit der happybrush teilen. Bilder vom Unboxing sowie einen umfassenden Testbericht gibt es natürlich auch.
-excerpt: Werbung  & Affiliate Link - Heute möchte ich mit Euch meine Erfahrungen mit der happybrush teilen. Bilder vom Unboxing sowie einen umfassenden Testbericht gibt es natürlich auch.
+description: Heute möchte ich mit Euch meine Erfahrungen mit der happybrush teilen.
+  Bilder vom Unboxing sowie einen umfassenden Testbericht gibt es natürlich auch.
+excerpt: Heute möchte ich mit Euch meine Erfahrungen mit der happybrush teilen. Bilder
+  vom Unboxing sowie einen umfassenden Testbericht gibt es natürlich auch.
 focusKeyword: happybrush
 labels:
-  - crueltyfree
-  - happy brush
-  - happybrush
-  - Karius und Baktus
-  - Mode & Beauty
-  - Schall
-  - U-Schall
-  - Ultraschall
-  - unboxing
-  - unboxing moment
-  - vegan
-  - vegan beauty
-  - vegan lifestyle
-  - Vegane Produkte
-  - vegane Zahnpasta
-  - Zahnpasta
+- crueltyfree
+- happy brush
+- happybrush
+- Karius und Baktus
+- Mode & Beauty
+- Schall
+- U-Schall
+- Ultraschall
+- unboxing
+- unboxing moment
+- vegan
+- vegan beauty
+- vegan lifestyle
+- Vegane Produkte
+- vegane Zahnpasta
+- Zahnpasta
 type: Artikel
 typeName: Produkttest
-date: 2017-08-07T16:00:23.000Z
+date: 2017-08-07T16:00:23.000+00:00
 status: publish
 isWerbung: false
 isAffiliate: false
@@ -37,11 +39,12 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36290591961_98e0cdac7c_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAYF/8QAKBAAAQMDAwQCAgMAAAAAAAAAAQIDBAURIQASMQYHE0FRcRQiI4Gx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwECBP/EACMRAAICAQMDBQAAAAAAAAAAAAECAAMREjFBBCFhIkKB0fD/2gAMAwEAAhEDEQA/AMN23rUyMjx0xhMtwSGWUrkqUlCkDddtCR8AH5zxpm9F0qn90IcqqdQRjMMJ9yGWY6/CLK/ZJAtgm5BvnAOldEjMyOlqfHmqWtKZPlU8lwI2ltsq3kkX24UCBnItrtdoq5Mi9UVBcGG9IVJe/JTHYbX4y9nlKcjahShxj/SazQoJGYdrlEZxwfoRa1ijNRq1UozLjzCGJLzSUlZUUhK1AJPs8Wv/AHqKhxkxuoKaXn1ONOveFQVuxuBSDkW5OmFVqDCl90a3Gq1VkUptUiS+tKWw6WirapIsM8r9jgHN9ZyTQDHq8ZqZXFyI6JVygtlCigG6TgnafZzgHTLYmQZTW7DHH7xKTdQLcBqM8y0+ylwObVj7v9HOD6tq707XX+nZyZ8QvH+IsqR5iCpJ4G61/Q+b20aNaoHpDcicnWHLmn2nf538y5K65kul9UeI0068QVuOHyKwCBYkXtk44N+NZqdX3pEp14MstuOElRSn2RY4P0NGjUZQx1HeLUTWorXsB2n/2Q==
 subTitle: Schallzahnbürste unter der Lupe
+advertisement: true
+
 ---
-
-_Werbung &amp; Affiliate Link\*_
-
 **Weil ich so gerne [Produkte teste](/tag/vegan-2/produkte/) und Ihr meine Testberichte auch jedes Mal fleißig lest und weitergebt, möchte ich auch diesen Test mit Euch teilen. Auf dem Prüfstand stand dieses Mal die Schallzahnbürste samt Zahncreme aus dem Hause Happybrush.**
+
+Die Leute von Happybrush versprechen auf ihrer Homepage effektive Reinigung durch moderne Schall-Technologie und effektive Vibrationen. Einen fairen Preis und Verzicht auf teuren Schnickschnack. Ehrliche, vegane Inhaltsstoffe mit Verzicht auf Natriumlaurylsulfat und Triclosan und einen starken Akku, der auf Reisen bis zu drei Wochen durchhält. Die Zähne werden mit über 30.000 Vibrationen pro Minute sauber geschubbert. Mit einer Handzahnbürste schafft man gerade mal 300. Beläge sollen durch diesen Vorteil wesentlich effektiver entfernt werden. Hinzu kommt ein eingebauter Timer, der einem genau sagt, wenn man beim Putzen mit einer Zahnreihe fertig ist. Ein Wechsel-Indikator am Bürstenkopf zeigt einem genau an, wenn ein Wechsel ansteht. Das klingt schon mal gut, oder?
 
 <RemoteImage
   alt="happybrush"
@@ -51,8 +54,6 @@ _Werbung &amp; Affiliate Link\*_
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36258950832_fce116d5ce_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwMFCP/EACYQAAICAQQABwEBAQAAAAAAAAECAwQFABESIQYHEzFBUWGhMoH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAAH/xAAhEQACAAQHAQAAAAAAAAAAAAAAAQISEzEDIjJBUZHwYf/aAAwDAQACEQMRAD8Ap7O4wz4+nHWBZpriRRmUCPfdT2dz1qNiMXFYy+OqWZ46fNWRpZVYqjew34gnbfYb/urTyXl3m72IpW8SlVmjtJbENpjExABDAhh87/Y0nYbB3LVhMlfo2hTuVZHSdUIjJZ9uiNwPc9H60FYmW46KBz2FS1SkqWJIJ42jljYo6MNirA7EH/ujTpkPDEdTJWcddldbNRuDPLuplU9q/wBHcfI+QdGtqIqbOh4KxrisI783psSFSywkVR8gE9/3Sn5d5GOr5f0/TdRBA80JsEbFOMr9FQSdu/3rWwsZRJRVhADqjkyHnx4gqex9n81F8JW6ISGGhEvDkzspO+3WxJ/mh7C3qIGehGQmrzR0cdkNohH66Tcgdievnb3PR+9Gs/iLw1hbl31pIXikb/RhfgGP6NGtTXPuyl+e6P/Z"
 />
-
-Die Leute von Happybrush versprechen auf ihrer Homepage effektive Reinigung durch moderne Schall-Technologie und effektive Vibrationen. Einen fairen Preis und Verzicht auf teuren Schnickschnack. Ehrliche, vegane Inhaltsstoffe mit Verzicht auf Natriumlaurylsulfat und Triclosan und einen starken Akku, der auf Reisen bis zu drei Wochen durchhält. Die Zähne werden mit über 30.000 Vibrationen pro Minute sauber geschubbert. Mit einer Handzahnbürste schafft man gerade mal 300. Beläge sollen durch diesen Vorteil wesentlich effektiver entfernt werden. Hinzu kommt ein eingebauter Timer, der einem genau sagt, wenn man beim Putzen mit einer Zahnreihe fertig ist. Ein Wechsel-Indikator am Bürstenkopf zeigt einem genau an, wenn ein Wechsel ansteht. Das klingt schon mal gut, oder?
 
 ## Günstig und frei von Palmöl
 
@@ -101,5 +102,3 @@ Beim Unboxing fiel mir sofort auf, dass bei der Verpackung komplett auf unnötig
 Zur Homepage von Happybrush geht es [hier entlang](https://www.adcell.de/promotion/click/promoId/169537/slotId/80259?param0=https%3A%2F%2Fwww.happybrush.de%2F) .
 
 <Gallery name="flickr/annehappybrush" />
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
