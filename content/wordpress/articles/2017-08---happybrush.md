@@ -1,37 +1,35 @@
 ---
 date: 2017-08-07T16:00:23.000+00:00
 slug: happybrush-der-ultimative-produkttest
-path: "/2017/08/happybrush-der-ultimative-produkttest/"
+path: '/2017/08/happybrush-der-ultimative-produkttest/'
 type: Artikel
 typeName: Produkttest
 title: Happybrush
 seoTitle: happybrush - Der ultimative Produkttest - Meine neue Schallzahnbürste
 ogTitle: happybrush - Der ultimative Produkttest - Meine neue Schallzahnbürste
-description: Heute möchte ich mit Euch meine Erfahrungen mit der happybrush teilen.
-  Bilder vom Unboxing sowie einen umfassenden Testbericht gibt es natürlich auch.
-excerpt: Heute möchte ich mit Euch meine Erfahrungen mit der happybrush teilen. Bilder
-  vom Unboxing sowie einen umfassenden Testbericht gibt es natürlich auch.
+description: Heute möchte ich mit Euch meine Erfahrungen mit der happybrush teilen. Bilder vom Unboxing sowie einen umfassenden Testbericht gibt es natürlich auch.
+excerpt: Heute möchte ich mit Euch meine Erfahrungen mit der happybrush teilen. Bilder vom Unboxing sowie einen umfassenden Testbericht gibt es natürlich auch.
 fileName: 2017-08---happybrush.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36290591961_98e0cdac7c_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36290591961_98e0cdac7c_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAYF/8QAKBAAAQMDAwQCAgMAAAAAAAAAAQIDBAURIQASMQYHE0FRcRQiI4Gx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwECBP/EACMRAAICAQMDBQAAAAAAAAAAAAECAAMREjFBBCFhIkKB0fD/2gAMAwEAAhEDEQA/AMN23rUyMjx0xhMtwSGWUrkqUlCkDddtCR8AH5zxpm9F0qn90IcqqdQRjMMJ9yGWY6/CLK/ZJAtgm5BvnAOldEjMyOlqfHmqWtKZPlU8lwI2ltsq3kkX24UCBnItrtdoq5Mi9UVBcGG9IVJe/JTHYbX4y9nlKcjahShxj/SazQoJGYdrlEZxwfoRa1ijNRq1UozLjzCGJLzSUlZUUhK1AJPs8Wv/AHqKhxkxuoKaXn1ONOveFQVuxuBSDkW5OmFVqDCl90a3Gq1VkUptUiS+tKWw6WirapIsM8r9jgHN9ZyTQDHq8ZqZXFyI6JVygtlCigG6TgnafZzgHTLYmQZTW7DHH7xKTdQLcBqM8y0+ylwObVj7v9HOD6tq707XX+nZyZ8QvH+IsqR5iCpJ4G61/Q+b20aNaoHpDcicnWHLmn2nf538y5K65kul9UeI0068QVuOHyKwCBYkXtk44N+NZqdX3pEp14MstuOElRSn2RY4P0NGjUZQx1HeLUTWorXsB2n/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36427238485_c75c58dd72_z__l.jpg
 labels:
-- crueltyfree
-- Fair Fashion & Beauty
-- happy brush
-- happybrush
-- Karius und Baktus
-- Schall
-- U-Schall
-- Ultraschall
-- unboxing
-- unboxing moment
-- vegan
-- vegan beauty
-- vegan lifestyle
-- vegane Zahnpasta
-- Zahnpasta
+  - crueltyfree
+  - Fair Fashion & Beauty
+  - happy brush
+  - happybrush
+  - Karius und Baktus
+  - Schall
+  - U-Schall
+  - Ultraschall
+  - unboxing
+  - unboxing moment
+  - vegan
+  - vegan beauty
+  - vegan lifestyle
+  - vegane Zahnpasta
+  - Zahnpasta
 focusKeyword: happybrush
 status: publish
 isWerbung: false
@@ -41,8 +39,8 @@ errors:
   outsideImage: article has at least one image that could not be found
 subTitle: Schallzahnbürste unter der Lupe
 advertisement: true
-
 ---
+
 **Weil ich so gerne [Produkte teste](/tag/vegan/vegane-produkte/) und Ihr meine Testberichte auch jedes Mal fleißig lest und weitergebt, möchte ich auch diesen Test mit Euch teilen. Auf dem Prüfstand stand dieses Mal die Schallzahnbürste samt Zahncreme aus dem Hause Happybrush.**
 
 Die Leute von Happybrush versprechen auf ihrer Homepage effektive Reinigung durch moderne Schall-Technologie und effektive Vibrationen. Einen fairen Preis und Verzicht auf teuren Schnickschnack. Ehrliche, vegane Inhaltsstoffe mit Verzicht auf Natriumlaurylsulfat und Triclosan und einen starken Akku, der auf Reisen bis zu drei Wochen durchhält. Die Zähne werden mit über 30.000 Vibrationen pro Minute sauber geschubbert. Mit einer Handzahnbürste schafft man gerade mal 300. Beläge sollen durch diesen Vorteil wesentlich effektiver entfernt werden. Hinzu kommt ein eingebauter Timer, der einem genau sagt, wenn man beim Putzen mit einer Zahnreihe fertig ist. Ein Wechsel-Indikator am Bürstenkopf zeigt einem genau an, wenn ein Wechsel ansteht. Das klingt schon mal gut, oder?
@@ -88,13 +86,6 @@ Beim Unboxing fiel mir sofort auf, dass bei der Verpackung komplett auf unnötig
 > Für alle Frühaufsteher, Weltenbummler und Nachteulen. Ich bin Deine neue Zahnpflege und für Dich da! Ab heute stehen wir morgens miteinander auf und gehen abends zusammen ins Bett (Naja, fast). Ich wurde mit Liebe entwickelt und auf Deine Bedürfnisse abgestimmt.
 
 Übrigens lag dem Päckchen auch ein Gutschein im Wert von 15 Euro für Freunde bei. Der Mindestbestellwert ist 40 Euro. Der Gutschein ist gültig bis zum 30.09.2017. Wer mir als erstes einen Kommentar hier im Blog hinterlässt, dass er ihn gerne haben möchte, staubt ihn ab.
-
-<RemoteImage
-  size="medium"
-  mediumUrl="https://www.adcell.de/promotion/view/promoId/169537/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/view/promoId/169537/slotId/80259"
-  loadingUrl="undefined"
-/>
 
 Zur Homepage von Happybrush geht es [hier entlang](https://t.adcell.com/p/click?promoId=169537&slotId=80259&param0=https%3A%2F%2Fwww.happybrush.de%2F).
 

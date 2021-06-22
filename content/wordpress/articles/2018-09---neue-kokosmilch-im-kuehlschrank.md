@@ -41,13 +41,6 @@ _Werbung\*_
 
 **Die Kokosprodukte von Dr. Antonio Martins kennt Ihr vielleicht schon. Der Hersteller war bislang besonders für seine Getränke mit Kokoswasser bekannt. Jetzt wurde das Sortiment erweitert. Ich habe die neuen Kokosmilch-Sorten  "Klassisch", "Calzium" und "Matcha" getestet.**
 
-<RemoteImage
-  size="medium"
-  mediumUrl="https://www.adcell.de/promotion/view/promoId/118963/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/view/promoId/118963/slotId/80259"
-  loadingUrl="undefined"
-/>
-
 Alle, die keine Kuhmilch trinken, finden ab Oktober eine neue Alternative im Bio-Regal. Die neuen Kokosmilchvarianten von Dr. Antonio Martins. Die bisherige "Coco Milk For Drinking" , die es bereits in den Bioläden gibt, wird von der neuen klassischen Sorte abgelöst. Diese hat mit 63 Prozent einen deutlich höheren Kokosanteil, als die Vorgängervariante. Diese hatte lediglich 33 Prozent.
 
 ## Vegan, bio und ohne Gentechnik
@@ -126,13 +119,6 @@ Nach dem Sport trinke ich die "Coco Milk For Drinking" in der Sorte "Calzium" ge
 />
 
 Die Konsistenz gefällt mir bei allen drei Sorten gut. Die Milch ist nicht zu dickflüssig, aber auch nicht zu dünn. Auch was mir mit Kokosmilch-Produkten bisher nicht gelungen ist, ist machbar: Sie vermischt sich gut mit Kaffee. In einem kleinen Experiment ist es mir sogar gelungen, sie aufzuschäumen und ich muss zugeben: So ein Kokos-Cappuccino ist schon etwas wirklich Feines. Vielleicht probiert Ihr den ja auch mal.
-
-<RemoteImage
-  size="medium"
-  mediumUrl="https://www.adcell.de/promotion/view/promoId/118963/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/view/promoId/118963/slotId/80259"
-  loadingUrl="undefined"
-/>
 
 Übrigens habe ich im Sortiment von Dr. Martins auch Kokosmilch zum Kochen entdeckt.
 

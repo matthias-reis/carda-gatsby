@@ -40,13 +40,6 @@ _Anzeige &amp; Affiliate Links\*_
 
 **Fernbedienungen, Taschenlampen, Hörgeräte, Handys, Uhren, Radios: Für alles braucht man Batterien. Diese belasten irgendwann die Umwelt. Egal, ob Einwegzelle oder Akku. Das Material ist hochgiftig und wird meist unter schlimmen Arbeitsbedingungen in großen Minen abgebaut. Die Vereinten Nationen warnten bereits vor immer bedenklicher werdenden Umständen.**
 
-<RemoteImage
-  size="medium"
-  mediumUrl="https://www.adcell.de/promotion/view/promoId/169185/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/view/promoId/169185/slotId/80259"
-  loadingUrl="undefined"
-/>
-
 Einem Team der Universität im Amerikanischen Binghamton gelang es jetzt, umweltfreundliche Batterien zu entwickeln. Das Material: [Papier](https://www.adcell.de/promotion/click/promoId/169185/slotId/80259?param0=https%3A%2F%2Fmargreblue.de%2Fprodukt-kategorie%2Faccessoires-aus-recycelten-papier%2F) ! Es wird mit künstlich hergestellten Polymeren gemischt. Wenn die Batterien keine Leistung mehr bringen, können sie theoretisch im Wasser entsorgt werden. Sie sind vollständig biologisch abbaubar und das ohne den Zusatz von Molekülen oder anderen Hilfsmitteln.
 
 ## Batterien aus Papier können zur Verkleinerung des Müllbergs beitragen
@@ -62,13 +55,6 @@ Dem Team um Choi und Sadik zufolge, löst ihre Entwicklung die Probleme der bish
 Die Batterie aus Binghamton ist ein Hybrid aus Filterpapier und einem stromleitenden Kunststoffverbund, der aus Polyamidsäure und einem weiteren Polymer hergestellt wird. Der Kunststoff bildet neben seiner Aufgabe als Leiter auch noch eine der beiden Elektroden. Das Papier ist auf der einen Seite mit einem leitfähigen Material und auf der anderen mit Elektrolyten beschichtet. Möchte man ihre Leistung steigern, kann man die Batterien einfach stapeln oder falten. Die Lösung ist also nicht nur umweltfreundlich, sondern obendrein auch noch flexibel.
 
 Nach wie vor offen ist, ob die nachhaltigen Batterien auf den Markt gebracht werden. Bisher ist ihre Leistung noch sehr schwach. Lediglich Kleinstgeräte wie beispielsweise kleine Biosensoren (z. B. Blutzuckermessgeräte) können damit betrieben werden. Die Forscher bleiben jedoch dran. Es wäre auf jeden Fall ein großer Schritt in Richtung mehr Nachhaltigkeit, wenn es sich dabei bald nicht mehr um Zukunftsmusik sondern um Massenware in unseren Supermärkten handeln würde.
-
-<RemoteImage
-  size="medium"
-  mediumUrl="https://www.adcell.de/promotion/view/promoId/169185/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/view/promoId/169185/slotId/80259"
-  loadingUrl="undefined"
-/>
 
 [Tolle Accessoires aus recyceltem Papier](https://www.adcell.de/promotion/click/promoId/169185/slotId/80259?param0=https%3A%2F%2Fmargreblue.de%2Fprodukt-kategorie%2Faccessoires-aus-recycelten-papier%2F) ](https://www.adcell.de/promotion/click/promoId/169217/slotId/80259/subId/httpsmargreblue.deprodukt-kategorieaccessoires-aus-recycelten-papier)
 

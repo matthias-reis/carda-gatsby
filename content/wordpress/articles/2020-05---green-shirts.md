@@ -53,13 +53,6 @@ Faire Arbeitsstandards, Bio-Produkte möglichst aus der Region, die Förderung v
 
 ## Basics und coole Designer-Shirts
 
-<RemoteImage
-  size="medium"
-  mediumUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
-  loadingUrl="undefined"
-/>
-
 Die [Green Shirts Kollektion](https://www.adcell.de/promotion/click/promoId/168927/slotId/80259?param0=https%3A%2F%2Fwww.green-shirts.com) . Verarbeitet werden ausschließlich natürliche Materialien wie Tencel (Holzfasern), Leinen, Baumwolle sowie verschiedene recycelte Stoffe.
 
 <Gallery name="greenshirts1" />
@@ -70,34 +63,13 @@ Im Vergleich zu einem herkömmlichen T-Shirt werden bei einem Earth Positive T-S
 
 ## Green Shirts im Test
 
-<RemoteImage
-  size="medium"
-  mediumUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
-  loadingUrl="undefined"
-/>
-
 Spätestens nachdem ich das gelesen hatte, war mein Interesse geweckt. Das musste ich mir mal genauer anschauen. Ich bestellte kurzerhand [T-Shirt](https://www.adcell.de/promotion/click/promoId/168927/slotId/80259?param0=https%3A%2F%2Fwww.green-shirts.com%2Fvintage-cubus-t-shirt-bio-mode-damen) bei Niklas. Beides war schon zwei Tage später da. Bei einem Spaziergang am ersten Mai habe ich die beiden Teile eingeweiht.
 
 Was soll ich sagen: Etwas, das gleichzeitig so bequem und schick ist, habe ich schon lange nicht mehr besessen. Die Farben gefallen mir sensationell gut und die kleinen Details sind wirklich klasse. Ich mag zum Beispiel die kleine Kork-Applikation am Saum der Jacke und den geometrischen Aufdruck und die gekrempelten Ärmel beim Shirt richtig gerne.
 
-<RemoteImage
-  size="medium"
-  mediumUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
-  loadingUrl="undefined"
-/>
-
 [Mein Hoodie](https://www.adcell.de/promotion/click/promoId/168927/slotId/80259?param0=https%3A%2F%2Fwww.green-shirts.com%2Fstandard-zipper-hoodie-bio-mode-frauen) ist wunderbar blau/schwarz meliert. Innen ist er kuschelig weich. Hergestellt wurde er aus 85 Prozent Bio-Baumwolle und 15 Prozent recyceltem Polyester. Die Waschmaschine bei 30 Grad und den Trockner hat er gut überstanden. Die Stoffdicht beträgt 350 g pro Quadratmeter, damit ist die Jacke mitteldick - perfekt geeignet für etwas kühlere Abende auf dem Balkon oder Spaziergänge bei bewölktem Himmel.
 
 ## Angenehme Qualität
-
-<RemoteImage
-  size="medium"
-  mediumUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
-  loadingUrl="undefined"
-/>
 
 Auch [mein T-Shirt](https://www.adcell.de/promotion/click/promoId/168927/slotId/80259?param0=https%3A%2F%2Fwww.green-shirts.com%2Fvintage-cubus-t-shirt-bio-mode-damen) trägt sich super angenehm. Der Stoff fließt schön und die grüne Farbe wirkt, wie ich finde, sehr natürlich. Der Print auf der Vorderseite ist natürlich das Highlight. Das Shirt besteht zu 100 Prozent aus fair gehandelter Baumwolle und ist, genau wie der Hoodie, bei 30 Grad waschbar. Getrocknet habe ich es wie alle meine T-Shirts auf dem Wäscheständer.
 
@@ -111,24 +83,10 @@ Die Green Shirts Textilien werden mit dem sogenannten DTG-Printverfahren bedruck
 
 Im Team von Niklas arbeiten heute sechs Menschen. Die öko-fairen Standards sollen kontinuierlich weiter ausgebaut werden. Die (wie ich finde) moderaten Preise sollen dabei möglichst beibehalten werden.
 
-<RemoteImage
-  size="medium"
-  mediumUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/view/promoId/168927/slotId/80259"
-  loadingUrl="undefined"
-/>
-
 Wenn Ihr jetzt neugierig geworden seid, schaut gerne mal auf der [Niklas Homepage](https://www.adcell.de/promotion/click/promoId/168927/slotId/80259?param0=https%3A%2F%2Fwww.green-shirts.com) vorbei. Dort findet Ihr nicht nur den Onlineshop sondern auch einen Blog und jede Menge Infos über das grüne Start-up in Berg.
 
 ## Gutschein für Euch
 
 Mit dem Gutscheincode GS-4932 erhaltet Ihr bis einschließlich 20.12.2021 5 Euro Rabatt auf Eure erste Bestellung bei Green Shirts. Der Mindestbestellwert liegt bei 29,90 Euro.
-
-<RemoteImage
-  size="medium"
-  mediumUrl="https://www.adcell.de/promotion/view/promoId/168828/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/view/promoId/168828/slotId/80259"
-  loadingUrl="undefined"
-/>
 
 [Gutschein jetzt einlösen](https://www.adcell.de/promotion/click/promoId/168828/slotId/80259)
