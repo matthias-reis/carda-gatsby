@@ -45,7 +45,7 @@ excerpt: ''
 image: "/img/of-the-vine-1-1.jpeg"
 copyright: ''
 ogImage: "/img/of-the-vine-facebook-1.png"
-focusKeyword: Of The Vine
+focusKeyword: Of the Vine
 advertisement: false
 affiliate: false
 languageLink: "/2020/07/of-the-vine-playlist"
@@ -91,6 +91,6 @@ In our interview, I talked to Sam about the current Of the Vine Album "East The 
 
 <Playlist spotify="3zLKlVQnK9cOdWl8eTmKIf" />
 
-Here are Of The Vine with "An Event Of Moon Disaster"
+## Of The Vine – "An Event Of Moon Disaster"
 
 <YouTube id="WzsS0pBXJl8" />
