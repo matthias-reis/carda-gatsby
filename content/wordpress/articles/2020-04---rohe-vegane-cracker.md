@@ -91,5 +91,3 @@ Das Aho Team lebt heute gemeinsam im Dorf im Wandel. Die Mitglieder haben gemein
 [Alle Leser⋆innen meines Blog erhalten mit dem Rabattcode cardamonchaiAHO **5 Prozent Rabatt** auf Aho Bio Cracker](https://t.adcell.com/p/click?promoId=248939&slotId=80259&param0=https%3A%2F%2Faho.bio%2Fcollections%2Fgekeimte-rohkost-cracker).
 
 Bestellen könnt Ihr die leckeren Aho Cracker direkt auf der [Homepage des Herstellers](https://t.adcell.com/p/click?promoId=248939&slotId=80259&param0=https%3A%2F%2Faho.bio%2F). Der Versand ist ab 29 Euro kostenlos. Im Aho Blog (unter dem selben Link) erhaltet Ihr regelmäßig Infos aus dem Leben der Aho Menschen.
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
