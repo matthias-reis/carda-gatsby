@@ -82,7 +82,7 @@ export const AdminBar: React.FC = () => {
     isPreview && (
       <Container>
         <Item
-          href={`${data.site.siteMetadata.siteUrl}/admin/#/collections/oldArticle/new`}
+          href={`${data.site.siteMetadata.siteUrl}/admin/#/collections/article/new`}
           target="_blank"
         >
           <IconNew /> Neuer Beitrag
