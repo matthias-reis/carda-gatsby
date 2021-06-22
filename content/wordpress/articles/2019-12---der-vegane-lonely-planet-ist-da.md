@@ -1,31 +1,33 @@
 ---
-date: 2019-12-29T19:47:48.000Z
+date: 2019-12-29T19:47:48.000+00:00
 slug: vegan-travel-handbook-der-vegane-lonely-planet
-path: /2019/12/vegan-travel-handbook-der-vegane-lonely-planet/
+path: "/2019/12/vegan-travel-handbook-der-vegane-lonely-planet/"
 type: Artikel
-typeName: Rezension
+typeName: Buchtipp
 title: Der vegane Lonely Planet ist da!
 seoTitle: '"The Vegan Travel Handbook" - Vegan Lonely Planet'
 ogTitle: '"The Vegan Travel Handbook" - Vegan Lonely Planet'
-description: 'Der Lonely Planet ist die wohl bekannteste und beliebteste Reiseführerreihe der Welt - jetzt gibt es eine vegane Ausgabe: das "Vegan Travel Handbook".'
-excerpt: 'Der Lonely Planet ist die wohl bekannteste und beliebteste Reiseführerreihe der Welt - jetzt gibt es eine vegane Ausgabe: das "Vegan Travel Handbook".'
+description: 'Der Lonely Planet ist die wohl bekannteste und beliebteste Reiseführerreihe
+  der Welt - jetzt gibt es eine vegane Ausgabe: das "Vegan Travel Handbook".'
+excerpt: 'Der Lonely Planet ist die wohl bekannteste und beliebteste Reiseführerreihe
+  der Welt - jetzt gibt es eine vegane Ausgabe: das "Vegan Travel Handbook".'
 fileName: 2019-12---der-vegane-lonely-planet-ist-da.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-13__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-13__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgUI/8QAJxAAAgEEAQIGAwEAAAAAAAAAAQIDAAQFESESEwYUIjFBUUJhcYH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHREBAAMAAQUAAAAAAAAAAAAAAQACEQMSITFBof/aAAwDAQACEQMRAD8A6Z8Q3kmOwt5eRJI7wRNIFjj7jNob0F2Nn/aSpPGV2uEkyMTvcQAAIIrVhKx+VKf3jY2OCad85H3MPeL0M5MTaVGKsTrgAjkH91MYEv1x0SyR3sLMzda3EhaRiDoMT87XVSivZmfLbprufZurXNZ05iLznl0x0kh7LBm7jArtVZd637kn+ADdUFD1Ip+xUpOSGPubCK/efvXUhRR2+vr9ShSzEenRY6G96Y8GqlaN1W0Z/VM9kOJ02Y5CNprG4jTfU8bKNfZBqJ+E7XxzZYuWK/wN08zXAl1LcIxCNJ6kB6vhPbnXGqKKGo+Y7V1GN+ZwWYuvKnH2lvI0UsbMLwADgkM29n8dcAe9P9pGYrdUb3FFFAY7KqFTCf/Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-18.png__l.jpg
 labels:
-  - Bücher & Filme
-  - Fernweh
-  - Loneley Planet
-  - LP
-  - Reiseführer
-  - Reisen
-  - vegan Reisen
-  - Vegan Travel Handbook
-  - vegan travelling
-  - vegane Reisetipps
-  - veganer Reiseführer
+- Bücher & Filme
+- Fernweh
+- Loneley Planet
+- LP
+- Reiseführer
+- Reisen
+- vegan Reisen
+- Vegan Travel Handbook
+- vegan travelling
+- vegane Reisetipps
+- veganer Reiseführer
 focusKeyword: Vegan Travel Handbook
 status: publish
 isWerbung: false
@@ -34,10 +36,9 @@ language: de
 errors:
   outsideImage: article has at least one image that could not be found
 subTitle: '"The Vegan Travel Handbook"'
+affiliate: true
+
 ---
-
-_Werbung &amp; Affiliate Links\*_
-
 **Der Lonely Planet ist die wohl bekannteste und beliebteste Reiseführerreihe der Welt - wer kennt ihn nicht? Jetzt gibt es endlich eine vegane Ausgabe: das ["Vegan Travel Handbook"](http://tidd.ly/b1b6af2a). **
 
 "Wir möchten vegan lebenden Reisenden einen inspirierenden und praktischen Guide an die Hand geben", berichtete mir Vega vom Lonely Planet, als sie mir das neue Werk vorstellte. Auf die Frage, ob ich mir das Buch mal anschauen wollte, gab es für mich natürlich nur eine Antwort. Wie könnte ich mir das entgehen lassen?
@@ -135,5 +136,3 @@ Hat Euch meine Rezension gefallen? Das freut mich sehr! Wenn Ihr in Zukunft nich
 />
 
 [](https://www.awin1.com/cread.php?s=2459095&v=1238&q=369704&r=632580)
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
