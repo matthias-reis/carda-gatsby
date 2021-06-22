@@ -1,37 +1,39 @@
 ---
-date: 2019-12-06T13:02:39.000Z
+date: 2019-12-06T13:02:39.000+00:00
 slug: vegane-fischbroetchen-for-future
-path: /2019/12/vegane-fischbroetchen-for-future/
+path: "/2019/12/vegane-fischbroetchen-for-future/"
 type: Artikel
 typeName: Produkttest
 title: Vegane Fischbrötchen-Alternative
 seoTitle: Fischbrötchen For Future in der Kurkuma Kochschule - SoFine im Test
 ogTitle: Fischbrötchen For Future in der Kurkuma Kochschule - SoFine im Test
-description: 'Am 18. November war ich in die vegane Kochschule Kurkuma in Eimsbüttel eingeladen: SoFine brachte seine vegane Alternative für Fischbrötchen nach Hamburg.'
-excerpt: 'Werbung - Am 18. November war ich in die vegane Kochschule Kurkuma in Eimsbüttel eingeladen: SoFine brachte seine vegane Alternative für Fischbrötchen nach Hamburg.'
+description: 'Am 18. November war ich in die vegane Kochschule Kurkuma in Eimsbüttel
+  eingeladen: SoFine brachte seine vegane Alternative für Fischbrötchen nach Hamburg.'
+excerpt: 'Am 18. November war ich in die vegane Kochschule Kurkuma in Eimsbüttel eingeladen:
+  SoFine brachte seine vegane Alternative für Fischbrötchen nach Hamburg.'
 fileName: 2019-12---vegane-fischbroetchen-alternative.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-03-so-fine-27__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-03-so-fine-27__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QALxAAAQMDAgUCAwkAAAAAAAAAAQIDBAAFEQYhEhMiMUEHYRRygSNRUmJxgpGhwf/EABcBAQEBAQAAAAAAAAAAAAAAAAUEAAH/xAAjEQACAgECBgMAAAAAAAAAAAABAgADEQQSBSEiUYHwMmGx/9oADAMBAAIRAxEAPwBDGhpPNiKtEKRcUtqDiXW1ctI/KePhJ7d8eaabPphqzXWTcb/bRG6BhLjwUyVfiUnJHjAzjzWlaUjtPx2n5jpS2dkgecfefFRfUnR8O93CG43JjxfsS2S82VtqUN0g4IJOCrFC8RrDVHacY7dpZprAr9Qz74iVfrgi5w3iH4bMNnZTpfbIB8JCQSSfas/kxra8y8iOlAeeCk8a08LjgG5OfbI2Oaarjo4wVLR8XZlhPSpxiJsB86s4+lWmmbBp64WFxu6wG1hBKWh1BWDuVgk577bZ2FH8O2LbtRvfuV6yxdoGCfHL9kG2eoE6xKStphM2CoDjZ4uFaTjulX+EY/Sm1j1L0RfIxauRMJaxhaJkYjB+dGR9dqKKcZFclWGYeOQBE48/QHMS8LzbZASCUokS+ckfsWrH9VQXXV2kLPHcTEuEd1W/TGSVZ9gEjA/miiuVaapDlRiZ7Hf5Gf/Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-11.png__l.jpg
 labels:
-  - Alternative Fisch
-  - Eimsbüttel
-  - Ernährung
-  - Ernährung & Gesundheit
-  - Fisch ist kein Gemüse
-  - Fischalternative
-  - fischbroetchenforfuture
-  - Fischbrötchen
-  - Fischbrötchen For Future
-  - Hamburg
-  - Kurkuma Kochschule
-  - Save The Ocean
-  - sofine
-  - thefriendlyfood
-  - vegan
-  - vegane Ernährung
-  - vegane Fischalternative
+- Alternative Fisch
+- Eimsbüttel
+- Ernährung
+- Ernährung & Gesundheit
+- Fisch ist kein Gemüse
+- Fischalternative
+- fischbroetchenforfuture
+- Fischbrötchen
+- Fischbrötchen For Future
+- Hamburg
+- Kurkuma Kochschule
+- Save The Ocean
+- sofine
+- thefriendlyfood
+- vegan
+- vegane Ernährung
+- vegane Fischalternative
 focusKeyword: Fischbrötchen
 status: publish
 isWerbung: false
@@ -39,10 +41,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: SoFine in der Kurkuma Kochschule
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Am 18. November war ich in der veganen Kurkuma Kochschule in Hamburg Eimsbüttel zu einem ganz besonderen Event eingeladen: SoFine brachte unter dem Motto "Fischbrötchen For Future" die pflanzliche Alternative für Fischbrötchen nach Hamburg.**
 
 Im Rahmen der Veranstaltung hielten die Fischereibiologin Dr. Rini Kulke und die wissenschaftliche Koordinatorin der FishEthnoBase[^1] Dr. Jenny Volstorf Vorträge. In Dr. Kulkes Beitrag ging es um Fisch in der Ernährung. Dr. Jenny Volstorf beschäftigte sich mit dem Verhalten von Fischen. Besonders interessant waren ihre Ausführungen zum Sozialverhalten, der Persönlichkeit, der Intelligenz und dem Lernvermögen von Fischen.
@@ -128,5 +129,3 @@ Hiermit möchte ich Euch gerne noch die Kurkuma Kochschule ans Herz legen. Hier 
 [^5]: [Dr. Jenny Volstorf](http://fishethobase.net/team/2/)
 [^6]: [SoFish Verkaufstellen](https://www.sofine.eu/de/wo-sind-sofine-produkte-erhaltlich/)
 [^7]: [Kurkuma Kochschule](https://www.kurkuma-hamburg.de/)
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner Transparenz-Seite.

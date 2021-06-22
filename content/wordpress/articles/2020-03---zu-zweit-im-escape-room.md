@@ -1,26 +1,28 @@
 ---
-date: 2020-03-12T16:46:29.000Z
+date: 2020-03-12T16:46:29.000+00:00
 slug: zu-zweit-im-escape-room
-path: /2020/03/zu-zweit-im-escape-room/
+path: "/2020/03/zu-zweit-im-escape-room/"
 type: Artikel
 typeName: Artikel
 title: Zu zweit im Escape Room
 seoTitle: Zu zweit im Escape Room - unsere Challenge
 ogTitle: Zu zweit im Escape Room - unsere Challenge
-description: 'Eine Nachricht von Escape Berlin brachte mich auf eine Idee: Wie ist es eigentlich zu zweit in einem Escape Room? Schafft man es da wieder raus?'
-excerpt: 'Eine Nachricht von Escape Berlin brachte mich auf eine Idee: Wie ist es eigentlich zu zweit in einem Escape Room? Schafft man es da wieder raus?'
+description: 'Eine Nachricht von Escape Berlin brachte mich auf eine Idee: Wie ist
+  es eigentlich zu zweit in einem Escape Room? Schafft man es da wieder raus?'
+excerpt: 'Eine Nachricht von Escape Berlin brachte mich auf eine Idee: Wie ist es
+  eigentlich zu zweit in einem Escape Room? Schafft man es da wieder raus?'
 fileName: 2020-03---zu-zweit-im-escape-room.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_Design-ohne-Titel-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_Design-ohne-Titel-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAoEAACAQMDBAEEAwAAAAAAAAABAgMEBREABiESEzFBByJRYXEyQoH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAAP/xAAiEQACAgIBAwUAAAAAAAAAAAABEQACAwQSIkFRMXHB8PH/2gAMAwEAAhEDEQA/AOj5D3VNVQwUNkpu9D3XuBlmgZ2QMMKOnOMcvz+NS69rUVrU1wnhVjNJFh44iq5D849cZ5/eqXvag3LUtHuO42Z7LFUdulFLSzfW/nBYN/EefI/zydYe+0U9JBR08T1D2yOqVojLICWU9JDhRyoOSOR6++tdfjVAJyyg8UGpOoLatbdpIA2ZpZ3CIoZmY9Z8BQSdP9z7HbbVVDSXlpaOrmQSJFLHICQTjOcYxn86a7IobeNw9y6XeqpQZ5DE0CMGUFjnlVY6ru77JZ5aSnpn3XernLJ0mFanuFRnBReI8DBx55++iNretjyIAoeq/O3eI4tenECyZ++Zn9878nqai329qgPb1RHmjpWP1SDBLliP10j1jnU9v18luF3pZDJMYCsEI7zKxYKw5OAAPPoaNGnBjrSzEIrYnGAYmtt5uVDcZzRXB6YiZzlVB/udVDaHyBfUrYJa/c0rxq4JV4YjkZGRz40aNB72vjuGah+UPkRrUsbdNix7mf/Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_03_zu-zweit-im-escape-room.png__l.jpg
 labels:
-  - Ausflug
-  - Berlin
-  - Escape Berlin
-  - Escape Room
-  - Geschichten & Erlebtes
-  - Nerdstuff
+- Ausflug
+- Berlin
+- Escape Berlin
+- Escape Room
+- Geschichten & Erlebtes
+- Nerdstuff
 focusKeyword: Escape Room
 status: publish
 isWerbung: false
@@ -28,10 +30,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Unsere Challenge
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Es war eine Nachricht von Escape Berlin vor ein paar Monaten, die mich auf eine Idee brachte: Wie ist es eigentlich zu zweit in einem Escape Room? Schafft man es da wieder raus?**
 
 Der Einladung, mir das größte Live Escape Theater Europas mal genauer anzuschauen, wollte ich gerne folgen. Das Abenteuer ließ sich nur allzu gut mit einem schönen Kurztrip nach Berlin verbinden.
@@ -97,5 +98,3 @@ Jetzt wollt Ihr bestimmt wissen, ob wir es geschafft haben, Sherlock zu finden u
 Wer neugierig geworden ist und gerne wissen möchte, was man bei Escape Berlin noch so alles erleben kann, schaut am besten [auf der Webseite](https://www.escape-berlin.de) vorbei. Wer Lust auf ein Escape Game bei sich in der Nähe hat, [findet hier eine Übersicht](http://escape-game.org/).
 
 <Gallery name="sherlock" />
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
