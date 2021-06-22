@@ -1,33 +1,36 @@
 ---
-date: 2018-12-28T10:33:18.000Z
+date: 2018-12-28T10:33:18.000+00:00
 slug: the-school-of-life-gelassenheit
-path: /2018/12/the-school-of-life-gelassenheit/
+path: "/2018/12/the-school-of-life-gelassenheit/"
 type: Artikel
-typeName: Rezension
+typeName: Buchtipp
 title: '"The School of Life: Gelassenheit"'
 seoTitle: 'The School of Life: Gelassenheit - Zeit für ein gutes Leben'
 ogTitle: 'The School of Life: Gelassenheit - Zeit für ein gutes Leben'
-description: Der Ratgeber "Gelassenheit - Zeit für ein gutes Leben" ist 2018 in der Reihe "School Of Life" im Süddeutsche Zeitung Verlag erschienen. Meine Rezension.
-excerpt: Affiliate Link - Der Ratgeber "Gelassenheit - Zeit für ein gutes Leben" ist 2018 in der Reihe "School Of Life" im Süddeutsche Zeitung Verlag erschienen. Ich habe ihn zu Weihnachten bekommen und bin die letzten paar Tage in die Seiten eingetaucht.
+description: Der Ratgeber "Gelassenheit - Zeit für ein gutes Leben" ist 2018 in der
+  Reihe "School Of Life" im Süddeutsche Zeitung Verlag erschienen. Meine Rezension.
+excerpt: Der Ratgeber "Gelassenheit - Zeit für ein gutes Leben" ist 2018 in der Reihe
+  "School Of Life" im Süddeutsche Zeitung Verlag erschienen. Ich habe ihn zu Weihnachten
+  bekommen und bin die letzten paar Tage in die Seiten eingetaucht.
 fileName: 2018-12---the-school-of-life-gelassenheit.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_gelassenheit__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_gelassenheit__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwADBQYI/8QAKRAAAgEEAQIEBwEAAAAAAAAAAQIDAAQFESEGEhMUMXEHMkFRYoGx0f/EABcBAQEBAQAAAAAAAAAAAAAAAAEDAgX/xAAeEQACAgICAwAAAAAAAAAAAAACAwABBCEREiIxQf/aAAwDAQACEQMRAD8A8+4/Gm4Xje9ce9NmKw+HgtIo7y0QyRoqbVEG9Afged75op6bkD3MMYPLMqj3JAH9p6a0x4ZlFspAJA27f7XOdkCoq7cywpJleM5PqmwxQwGQ8jahZfAfTntIHH27FoaymN8AnXoKfuo7exXp7KFIArLayMCHb6D3oUzsqENo1RT6bsYWq16Kazpe+it8vaTXJKwQSrNIwBPaqnZ4H6pTsviFhHiPmcjD4vcfljlUEb49V9aqqWYwOK7L5EG2FamLOda4W5w2Rht7+FpJLaRFALbYleByKJL28MpPNVVaSkVaGDGWfuf/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2018_12_vincent-van-gogh-89422_1280__l.jpg
 labels:
-  - Angst
-  - Bücher & Filme
-  - Depression
-  - emotionale Intelligenz
-  - Gelassenheit
-  - Gesellschaft
-  - Höflichkeit
-  - Kommunikation
-  - Psychologie
-  - Ratgeber
-  - Selbstliebe
-  - The School Of Life
-  - Verhalten
+- Angst
+- Bücher & Filme
+- Depression
+- emotionale Intelligenz
+- Gelassenheit
+- Gesellschaft
+- Höflichkeit
+- Kommunikation
+- Psychologie
+- Ratgeber
+- Selbstliebe
+- The School Of Life
+- Verhalten
 focusKeyword: gelassenheit
 status: publish
 isWerbung: false
@@ -35,10 +38,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Mit mehr Ruhe ins neue Jahr
+affiliate: true
+
 ---
-
-_Affiliate Link\*_
-
 **Der Ratgeber "Gelassenheit - Zeit für ein gutes Leben" ist 2018 in der Reihe "School Of Life" im Süddeutsche Zeitung Verlag erschienen. Ich habe ihn zu Weihnachten bekommen und bin die letzten paar Tage in die Seiten eingetaucht.**
 
 Das klingt doch gut, oder? Mit mehr Gelassenheit ins neue Jahr starten, das wär doch was. Und wenn es dafür ein paar wirksame Tipps gibt: Her damit! Ich muss mich nicht ständig aufregen. Davon bekommt man nur graue Haare und rote Flecken.
@@ -114,5 +116,3 @@ Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen
 />
 
 [](https://amzn.to/2VbMYR4)
-
-\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
