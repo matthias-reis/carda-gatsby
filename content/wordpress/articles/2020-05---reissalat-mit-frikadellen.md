@@ -1,26 +1,28 @@
 ---
-date: 2020-05-24T16:07:08.000Z
+date: 2020-05-24T16:07:08.000+00:00
 slug: reissalat-mit-frikadellen
-path: /2020/05/reissalat-mit-frikadellen/
+path: "/2020/05/reissalat-mit-frikadellen/"
 type: Artikel
 typeName: Rezept
 title: Reissalat mit Frikadellen
 seoTitle: Reissalat mit Frikadellen - veganes Rezept
 ogTitle: Reissalat mit Frikadellen - veganes Rezept
-description: Reissalat mit Minze und Erbsen gehört zu meinen Lieblingsgerichten. Heute möchte ich Euch mein Rezept verraten. Es lässt sich ganz leicht zubereiten.
-excerpt: Reissalat mit Minze und Erbsen gehört zu meinen Lieblingsgerichten. Heute möchte ich Euch mein Rezept verraten. Es lässt sich ganz leicht zubereiten.
+description: Reissalat mit Minze und Erbsen gehört zu meinen Lieblingsgerichten. Heute
+  möchte ich Euch mein Rezept verraten. Es lässt sich ganz leicht zubereiten.
+excerpt: Reissalat mit Minze und Erbsen gehört zu meinen Lieblingsgerichten. Heute
+  möchte ich Euch mein Rezept verraten. Es lässt sich ganz leicht zubereiten.
 fileName: 2020-05---reissalat-mit-frikadellen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-04-28-burger-reissalat-03__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-04-28-burger-reissalat-03__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQQI/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURAAYTEiExB0FRIlKhIzJhgbH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEBQP/xAAkEQACAgEDAgcAAAAAAAAAAAABAgMRAAQSUQUhExQxMkFxwf/aAAwDAQACEQMRAD8A9IVskCqVFPG5H3KGP51Ptx7rrqM1SUslDDxLnpeNlKdxgkAd18kldcfqPdK5q9KSCWWGn4+orGSCxyck4748amFRFUNO4WXmU5fjKjK585bPf+xqNrtXvPhISKyxpuluYxKe98V+kY+Xjdl2matgqFipVgiUzxSo7KAH/crAfGCMeRpzsO4OSMs0ddUSSFVRo4mSPBA+olj3Puc/J1K7LarxWWWppra0cLPLlqmSRmlDZywAOR4IGfb21RbO1W08kkliqxWMqRuepeNse4JbDL/GM6MizbgaNfB7nn1zDUoiXG3uHGZW4N7WSp/Q3Nty5QMpyHjTlUH5Vlww1gLdPT2Y/XW3QJjHHM0oXHwe2fzo0avLBHJTsovB+YlitEYgfeM9s3Xs6mgSGkuFPDCvZVCMBpltm8NuO3RFcRI32pC7H/NGjSBEMK0hz//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_reissalat.png__l.jpg
 labels:
-  - Bürger
-  - Reis
-  - Reissalat
-  - Salat
-  - vegane Rezepte
-  - Vegane Rezepte
+- Bürger
+- Reis
+- Reissalat
+- Salat
+- vegane Rezepte
+- Vegane Rezepte
 focusKeyword: Reissalat
 status: publish
 isWerbung: false
@@ -28,10 +30,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Veganes Lieblingsrezept
+affiliate: true
+
 ---
-
-_Affilate Link_
-
 **Heute möchte ich Euch mal wieder eines meiner Lieblingsrezepte zeigen. Reissalat geht einfach immer. Als Eiweißbeilage reiche ich zum Beispiel gerne vegane Burgerpatties.**
 
 Mal ganz ehrlich? Reis ist einfach großartig. Ob warm oder kalt, klebrig oder locker: ich mag ihn einfach immer und in jeder möglichen Variation. Als Salat kann man ihn mit den verschiedensten Zutaten kombinieren. Ein Klassiker in unserer Küche ist diese Version mit Erbsen und Minze.
@@ -68,5 +69,3 @@ Schneidet die Gurke in Würfel und hebt sie unter. Lasst den Salat noch ein paar
 Die Burgerpatties, die ich hier dazu gebraten habe, sind für mich die derzeit besten veganen Patties auf dem Markt. Die [Vantastic Burger von alles-vegetarisch.de](http://tidd.ly/9ff923b7) werden auf Basis von Sojaprotein hergestellt. In ihnen stecken ausschließlich natürliche Zutaten und sie sind wirklich äußerst schmackhaft.
 
 <Gallery name="reissalat-burger" />
-
-\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/)
