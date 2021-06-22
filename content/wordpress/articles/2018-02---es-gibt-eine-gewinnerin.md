@@ -62,14 +62,3 @@ Ein wertvolles Duo aus 24-Stunden Gesichtscreme und Reinigungsschaum von Ashéra
 />
 
 Zum Onlineshop von Ashera geht es [hier entlang](https://www.adcell.de/promotion/click/promoId/172497/slotId/80259?param0=https%3A%2F%2Fwww.ashera-cosmetics.de%2Fshop%2F) .
-
-<RemoteImage
-  alt="Ashéra Naturkosmetik"
-  size="medium"
-  title=""
-  mediumUrl="https://www.adcell.de/promotion/image/promoId/172494/slotId/80259"
-  largeUrl="https://www.adcell.de/promotion/image/promoId/172494/slotId/80259"
-  loadingUrl="undefined"
-/>
-
-[](https://www.adcell.de/promotion/click/promoId/172494/slotId/80259)
