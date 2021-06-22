@@ -1,33 +1,35 @@
 ---
-date: 2018-01-04T19:45:44.000Z
+date: 2018-01-04T19:45:44.000+00:00
 slug: ashera-yin-yang-balance
-path: /2018/01/ashera-yin-yang-balance/
+path: "/2018/01/ashera-yin-yang-balance/"
 type: Artikel
 typeName: Produkttest & Verlosung
 title: Ashéra Cosmetics
 seoTitle: Ashéra Cosmetics - Mein Produkttest - Luxus ohne Tierversuche
 ogTitle: Ashéra Cosmetics - Mein Produkttest - Luxus ohne Tierversuche
-description: 'Ich habe jetzt die Ashéra Yin Yang Balance Produkte getestet. Der Clou: Ihr könnt ein luxuriöses Pflegeset gewinnen. Kommentiert am besten einfach!'
-excerpt: 'Werbung - Ich habe jetzt die Ashéra Yin Yang Balance Produkte getestet. Der Clou: Ihr könnt ein luxuriöses Pflegeset gewinnen. Kommentiert am besten einfach!'
+description: 'Ich habe jetzt die Ashéra Yin Yang Balance Produkte getestet. Der Clou:
+  Ihr könnt ein luxuriöses Pflegeset gewinnen. Kommentiert am besten einfach!'
+excerpt: 'Ich habe jetzt die Ashéra Yin Yang Balance Produkte getestet. Der Clou:
+  Ihr könnt ein luxuriöses Pflegeset gewinnen. Kommentiert am besten einfach!'
 fileName: 2018-01---ashera-cosmetics.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_6__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_6__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcA/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURABIhBjFBBxNhUXGBFCIyocH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQABBP/EAB4RAAICAwADAQAAAAAAAAAAAAECAAQDESESIjFR/9oADAMBAAIRAxEAPwCX25dtJTs3faAfxx/mqP6eUEF3uSwtCJIVQ+8SoOzIO08/I0E6bnoLvEtGsrQSMskwmZcqqrywI8eedVf0vpn6cuNyp5BLUmpip5I3VdqkEOec9uCD+RpHWTysBXHOxtZKribR9oJvyz0/UVTQRUpDLlhGq9lwSPj+Izol1pGauKhSM4VQzsfngY+/B1dbjJTydSXORigkaKJdpIDKMNgn6jzz2GftqIepE/6e/wAsK+/ErBJHV1wHOM7wMnx/emCUQMhbfNmEqqlhQr85C9luk1sXbSCNjIhjIYYYDzz85xqhdM+oJhV47y5hysZp5I0LYKEYBC4IG1SMjJz+dbW1QUK3mPs1NXTMvsIeuvVlVH1DPVWyumMbRQwv7q594IoGXHOSef25+vOjF8vMtfLvkWEEcDYmML48nsDjvra2ih2/ZGVcK6Qan//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2018_01_6__l.jpg
 labels:
-  - Ashera
-  - Ashera Cosmetics
-  - Cruelty Free
-  - Fair Fashion & Beauty
-  - gegen Tierversuche
-  - Kosmetik
-  - Pflege
-  - Tierversuchsfrei
-  - vegan
-  - vegan beauty
-  - vegane Kosmetik
-  - Wellness
-  - Yin Yang Balance
+- Ashera
+- Ashera Cosmetics
+- Cruelty Free
+- Fair Fashion & Beauty
+- gegen Tierversuche
+- Kosmetik
+- Pflege
+- Tierversuchsfrei
+- vegan
+- vegan beauty
+- vegane Kosmetik
+- Wellness
+- Yin Yang Balance
 focusKeyword: Ashéra
 status: publish
 isWerbung: false
@@ -35,10 +37,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Luxus ohne Tierversuche
+advertisement: true
+
 ---
-
-Werbung\*
-
 **Ich habe jetzt zwei Produkte von Ashéra Cosmetics getestet. Wie sie bei mir angekommen sind, möchte ich Euch heute gerne verraten. Außerdem verlose ich ein luxuriöses Pflegepaket! Wie Ihr gewinnen könnt, erfahrt Ihr weiter unten\*.**
 
 Vor Kurzem las ich mit großem Interesse über zwei für mich komplett neue Kosmetikprodukte: Die Yin Yang Balance 24-Stunden-Pflege sowie den passenden Reinigungsschaum aus dem Hause Ashéra Cosmetics. Gesichtspflege, Seife und Tee. Wenn das nicht interessant klingt, oder?
@@ -133,4 +134,4 @@ Aschera (auch Ascherah, Ašerā) ist eine syrisch-kanaanäische Meeresgöttin. A
 
 Im Jahr 2017 stellte Ashéra Cosmetics mit der Yin Yang Balance 24-Stunden-Pflege die ersten Produkte vor.  Von der Verpackung über den Messestand bis hin zu ihrer Hauptaufgabe, der Vermarktungsstrategie, begleitet und erarbeitet [Jacqueline](/2018/02/ashera-interview/) alles selbst.
 
-\*Hinweis: Dieser Beitrag enthält Werbung und entstand im Zusammenhang mit Trusted Blogs. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. [Für Infos dazu bitte hier klicken](https://www.trusted-blogs.com/tipps/werbekennzeichnung).
+\*Hinweis: Dieser Beitrag entstand im Zusammenhang mit Trusted Blogs. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. [Mehr Infos zur Werbekennzeichnung in diesem Beitrag findet Ihr hier](https://www.trusted-blogs.com/tipps/werbekennzeichnung).
