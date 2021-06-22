@@ -1,7 +1,6 @@
 ---
 labels:
 - Samuel Laubscher
-- Of The Vine
 - Post-Rock
 - Band
 - Bands
@@ -16,18 +15,18 @@ language: en
 date: 2020-05-28T01:17:00.000+02:00
 slug: of-the-vine-interview-en
 typeName: Interview
-title: Of The Vine
+title: Of the Vine
 subTitle: '"We Are Living Our Childhood Dream When We Perform"'
-seoTitle: Interview With Of The Vine – "We Are Living Our Dreams"
+seoTitle: Interview With Of the Vine – "We Are Living Our Dreams"
 ogTitle: ''
 description: Of the Vine is a post-rock band that I hold in high regard. Now I had
   the opportunity to interview guitarist Samuel Laubscher. He said that they are living
   their childhood dreams.
 excerpt: ''
 image: "/img/of-the-vine.jpeg"
-copyright: Of The Vine
+copyright: Of the Vine
 ogImage: "/img/of-the-vine-fb.png"
-focusKeyword: Of The Vine
+focusKeyword: Of the Vine
 advertisement: false
 affiliate: false
 languageLink: "/2020/05/of-the-vine-interview"
@@ -42,11 +41,11 @@ Meanwhile the new album "Left Alone" has been released. The six tracks on it are
 **A small sensation on the side:** One of my questions inspired the band from Atlanta, GA to create a playlist after the interview, which I will share with you in a few days here on my blog. So you should definitely stay tuned!
 
 <RemoteImage
-  alt={`of-the-vine`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECAwQGB//EACUQAAIBAwQCAgMBAAAAAAAAAAECAwAEEQUSITETQQZRMmFxof/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOQafpl1d2lxPAjtDAcFnYpk8naM4ycDPFP0jRZ9UmkBeOBI8Zeb8RnrjOSf0ATyOKuaLrscUMFkyhbe2kklG9fJ5pW4XI4OAoHRHRqprN7YSWMZ0xhBJASpUnO9S2cj2pzk+++60y0HxG+l0qz2JJbSpHd+Yq4YMAVaMlAPeMtg89cUnyTVbjWNMvUvGslKSB4lSUvIQCVwc9Z799eqx91qkt14POVUxJsV4gFPZ7+++/8Aao3Lgz7w7Nu53N2CTzQEu4XLqXG5GxuXvI+jUbklssc80UVFMxljip4xGYwsiPuY8N1j+fdFFB//2Q=="
+alt={`of-the-vine`}
+size="medium"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECAwQGB//EACUQAAIBAwQCAgMBAAAAAAAAAAECAwAEEQUSITETQQZRMmFxof/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOQafpl1d2lxPAjtDAcFnYpk8naM4ycDPFP0jRZ9UmkBeOBI8Zeb8RnrjOSf0ATyOKuaLrscUMFkyhbe2kklG9fJ5pW4XI4OAoHRHRqprN7YSWMZ0xhBJASpUnO9S2cj2pzk+++60y0HxG+l0qz2JJbSpHd+Yq4YMAVaMlAPeMtg89cUnyTVbjWNMvUvGslKSB4lSUvIQCVwc9Z799eqx91qkt14POVUxJsV4gFPZ7+++/8Aao3Lgz7w7Nu53N2CTzQEu4XLqXG5GxuXvI+jUbklssc80UVFMxljip4xGYwsiPuY8N1j+fdFFB//2Q=="
 />
 
 **Anne:** Hi! Thank you very much for this interview! I'm so excited about getting to know you! How are you today?
@@ -70,11 +69,11 @@ Meanwhile the new album "Left Alone" has been released. The six tracks on it are
 **Sam:** Other than line-up I would say us as people. We left some naivety behind, maybe, spent some time discovering ourselves. I myself am a completely different person it seems from East-the-Water. I was actually in quite a dark and heavy place during that time, which is funny because Left Alone seems more dark, but I think I know myself better this time around if that makes any sense?
 
 <RemoteImage
-  alt={`of-the-vine`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine-3.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine-3.png__l.jpg"
-  loadingUrl="data:image/jpeg;base64,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"
+alt={`of-the-vine`}
+size="medium"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine-3.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine-3.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,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"
 />
 
 **Anne:** What's the story behind "Left Alone"? I'm sure, it does tell one? I've found a few hints on England?
@@ -90,11 +89,11 @@ Meanwhile the new album "Left Alone" has been released. The six tracks on it are
 **Anne:** I love the song "Ilfracombe". I've been there a few times now and I like this spot in the world a lot. What is your connection with this place?
 
 <RemoteImage
-  alt={`of-the-vine`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine-1.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine-1.png__l.jpg"
-  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAIAklEQVRIiV2W2Vdb1xnF9eDGA2i8g65moXmekEBISAIhJJCRANlCgA0EY4aC7TisOGnrJk2HPKZvbVff2r/013WOgKZ9OOvede7V+fa397e3rmn8/gOre3tUu+scfPyG5cEWr24/0RiNGJxf0d7bo7U9pH+4z+bhIZ3RLrV2kxdvTulOxvQP9vnqz39h/PYN++dn/Olv/+D60y1ffvzAwc0Nb24/8u4PP3L+6ZbiQoF8JU+mkKJSKzM52ceUWZin0u3QmewzeHvJYq/H1R9/4u3n73l5857q5gabr49YHg7YPj6i1e9SadZoPd+gsbHO+PwtR1/fMjiYcHh1yV//9W++/uEz+1dXvP32O86/ueX1hw/0Xw5ZXCrRG26w9XJIq73M/HwWk6La0J0KjcEW7fFLCs1lXlzfsPpil8b2gGq3Q/PFmObuiMnlBYtrK5QbNVm8s7/Pi4sLDr/6yPH1JWe3X/P5558lkOevjzi7veX6t99x/u0nBuMdFusVtsbbrPfaNOoVSpU8ppV+F7tixaFYCGcSVHpd1vYn8lpdb9Pa6rN9dsb26Zf09sYsra0wPDpibbTL+OaG1mjE1ukb1vfGnHzziR/+/k/2zk6ZXF5y9P4d49Njrj//jp3DPXLFNBvbm3Sfd9neG7FzdIApVUjjcCq45/yohoY3HJB07777ilS1QmN7yPJgQHOwyXyjSmWtTXNnh2KrwYvLK/rHxwxOT6kPt2kPB7QGQ4rLVbZOTjn8eMvGeJeL339Po7tCrpwlN59jYzSkOx6x1G5i8ga9ODQbht8ti9sUC7PmJ9hUG/5IUMoSyWdIzOfJVgrk60skFqtEi1k6+xM2T77k4N01qxsdeutN6qvLFJvLdI9O2Dg+YetgzOqwT2mxwOj1mMnFKdtHBxg+F7qhYHKHAtOC9lkcqlUCESD8IR/xXJJMuYA/EiAUD/Pm+pznu1ssrCzLQ8XqjUc839tl7fk6ra0N1vo9Isko5fUOvYMJte4qS6s1CotF3D4n2XKepbUmqVKW3EIRk6DeYnsmi9pVG6qhYrXP4gv7KTdrJAsZgvEQw/0xnX6PeC5DOBnF43PidKs4dBser5NSIcNCpUizlCXicxJORkjN50iVMvReDqh1GpLBWD5FplJkLhnB8DoxaU7HAwCxFN2BTbGiuzViuSRz8RDBSIDMfA7D70I1dBRDwz3nwx8Ps7RaZ/R6j1avTTYdJeHT0BQzmVKGWDpKNBWhWCuzuLLEfL0iG/OG/QRjc2SFC3SvC5tqxeYwy86FGxy6Hbtqwe130d7sMHo1odKqk6+WiWYTxLMJ5lcaFFdbcph2jg9pbXS4+njDzuEY3efC8OiIAU8XBWNhCvUK6UoezaUSzSYpNRZp9DuYXD4XmluX9Asg4mp3mFG06Rz85qcfeXV5xsJai1yjTr5ZZ2m9zWK7SXWtRW2tJWWqrbepdVrk6lVS9SWsoiHbDIbP4MmTRwRiIeL5NIF4iEwlT7FeYWGljklzaZJ2h2pDcenofg+K24nZ8gQBbudgjCfoRfUYODQ7nsD0uZgdV9CDRbFits+y0Krx63cXBINeAtE5yYDZ+kwya7bO4NAdkr2VrR5zqRi+cIByrYxJd+vShjaHRRbQPQaKe/rjWctTFqtlgqE54qk4ui5YspGoLhKrlAnlMnjjUVSfm2fmp9SWF0ikIqhOh5TTYpt5ABBIRFhoN1gZ9llaX5UzUl9fwST0VpwOVJeGXbVK6oQE4oDHTx/JuGy0lklmExQqeWlZ8a4r5McbC0smHIZGJDaH26PzbOYLuQR4RbPJc0QzilMhUUhT67Vpb/epNKskC2lMwv9CAlfAK1+yaXbpgikIM06PLm2mOx2kipkptZanzJofy6tVsTJjeUo8GSEY8qG7VFLZBIZbJZlNyvct1hkU3Ua6lKG4VCaejZNIRwlF/Jg0tyYL2zW77F50Y1PtErldscir6Ea4QxwuwkpQK/blss3I5+Je0J0o5hkcjAmEfMyFfISjQcms02tI69XWltk5nrB3MkHVrJjEQzEgQv+HQx0WWUQAEDkh8sEsi4q9qTzCMYIhqfWd3lJzxYri82C2zcrAmouHpcSiMbF+9cjEXDRAf7LD3ukrTBbrswfN/qezu3UP4H6o9IAX3WvIbu/XL38n9DabH6P5PYQWFgjkctJd4j1/KonFYSFTTHP8/kIOoimay+IJB3EGfahu/eGw+6tyF82iexHTImTuu/1/sJY7ScS9J5mUywiHJFtiXoxQAFckTCQd4/DqlEpjEdNAfHJtdCmsrOIK+rFYp3reFxfB9ADApcrhFKzdg7y32j0AkR8iJzyplCwuYluCEpI6zLgjITzxGI31JqfvzjAZLg0j4JMvzs5+MT3U+gyHocrvhF8Ccvrc8uPF7lQkIIttuv8gx93g+rNZfJkMRig4dZbYFylrn8UbDRGuLBAp5tl99fLuk8xQmZl9/F/6hW8FcofQfron5kBIpfu9U1lk5xbpDhE8Qh6HImzrJFQqEcznMYI+NLcTVbPJWZJOMhSi5TLZVotALIzpQc+7YXpYAvVdkIhiwn6hTGqalHd/XuJAce+NRTD8HlwenWg+R6RUxJ+M4/S5EN8bLrcmc8HpUtF1O9FinsJqm9h86c6GInzudLyndNq1sKhdaqfqdsL5LJqhTAtrNhTVgivow5dKISLd4zOIlYoypr3hIL5oGMNrSGCGW5MA3G6NUCJKdH6eYCbNfwCdY3mxALi8AAAAAABJRU5ErkJggg=="
+alt={`of-the-vine`}
+size="medium"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine-1.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine-1.png__l.jpg"
+loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAIAklEQVRIiV2W2Vdb1xnF9eDGA2i8g65moXmekEBISAIhJJCRANlCgA0EY4aC7TisOGnrJk2HPKZvbVff2r/013WOgKZ9OOvede7V+fa397e3rmn8/gOre3tUu+scfPyG5cEWr24/0RiNGJxf0d7bo7U9pH+4z+bhIZ3RLrV2kxdvTulOxvQP9vnqz39h/PYN++dn/Olv/+D60y1ffvzAwc0Nb24/8u4PP3L+6ZbiQoF8JU+mkKJSKzM52ceUWZin0u3QmewzeHvJYq/H1R9/4u3n73l5857q5gabr49YHg7YPj6i1e9SadZoPd+gsbHO+PwtR1/fMjiYcHh1yV//9W++/uEz+1dXvP32O86/ueX1hw/0Xw5ZXCrRG26w9XJIq73M/HwWk6La0J0KjcEW7fFLCs1lXlzfsPpil8b2gGq3Q/PFmObuiMnlBYtrK5QbNVm8s7/Pi4sLDr/6yPH1JWe3X/P5558lkOevjzi7veX6t99x/u0nBuMdFusVtsbbrPfaNOoVSpU8ppV+F7tixaFYCGcSVHpd1vYn8lpdb9Pa6rN9dsb26Zf09sYsra0wPDpibbTL+OaG1mjE1ukb1vfGnHzziR/+/k/2zk6ZXF5y9P4d49Njrj//jp3DPXLFNBvbm3Sfd9neG7FzdIApVUjjcCq45/yohoY3HJB07777ilS1QmN7yPJgQHOwyXyjSmWtTXNnh2KrwYvLK/rHxwxOT6kPt2kPB7QGQ4rLVbZOTjn8eMvGeJeL339Po7tCrpwlN59jYzSkOx6x1G5i8ga9ODQbht8ti9sUC7PmJ9hUG/5IUMoSyWdIzOfJVgrk60skFqtEi1k6+xM2T77k4N01qxsdeutN6qvLFJvLdI9O2Dg+YetgzOqwT2mxwOj1mMnFKdtHBxg+F7qhYHKHAtOC9lkcqlUCESD8IR/xXJJMuYA/EiAUD/Pm+pznu1ssrCzLQ8XqjUc839tl7fk6ra0N1vo9Isko5fUOvYMJte4qS6s1CotF3D4n2XKepbUmqVKW3EIRk6DeYnsmi9pVG6qhYrXP4gv7KTdrJAsZgvEQw/0xnX6PeC5DOBnF43PidKs4dBser5NSIcNCpUizlCXicxJORkjN50iVMvReDqh1GpLBWD5FplJkLhnB8DoxaU7HAwCxFN2BTbGiuzViuSRz8RDBSIDMfA7D70I1dBRDwz3nwx8Ps7RaZ/R6j1avTTYdJeHT0BQzmVKGWDpKNBWhWCuzuLLEfL0iG/OG/QRjc2SFC3SvC5tqxeYwy86FGxy6Hbtqwe130d7sMHo1odKqk6+WiWYTxLMJ5lcaFFdbcph2jg9pbXS4+njDzuEY3efC8OiIAU8XBWNhCvUK6UoezaUSzSYpNRZp9DuYXD4XmluX9Asg4mp3mFG06Rz85qcfeXV5xsJai1yjTr5ZZ2m9zWK7SXWtRW2tJWWqrbepdVrk6lVS9SWsoiHbDIbP4MmTRwRiIeL5NIF4iEwlT7FeYWGljklzaZJ2h2pDcenofg+K24nZ8gQBbudgjCfoRfUYODQ7nsD0uZgdV9CDRbFits+y0Krx63cXBINeAtE5yYDZ+kwya7bO4NAdkr2VrR5zqRi+cIByrYxJd+vShjaHRRbQPQaKe/rjWctTFqtlgqE54qk4ui5YspGoLhKrlAnlMnjjUVSfm2fmp9SWF0ikIqhOh5TTYpt5ABBIRFhoN1gZ9llaX5UzUl9fwST0VpwOVJeGXbVK6oQE4oDHTx/JuGy0lklmExQqeWlZ8a4r5McbC0smHIZGJDaH26PzbOYLuQR4RbPJc0QzilMhUUhT67Vpb/epNKskC2lMwv9CAlfAK1+yaXbpgikIM06PLm2mOx2kipkptZanzJofy6tVsTJjeUo8GSEY8qG7VFLZBIZbJZlNyvct1hkU3Ua6lKG4VCaejZNIRwlF/Jg0tyYL2zW77F50Y1PtErldscir6Ea4QxwuwkpQK/blss3I5+Je0J0o5hkcjAmEfMyFfISjQcms02tI69XWltk5nrB3MkHVrJjEQzEgQv+HQx0WWUQAEDkh8sEsi4q9qTzCMYIhqfWd3lJzxYri82C2zcrAmouHpcSiMbF+9cjEXDRAf7LD3ukrTBbrswfN/qezu3UP4H6o9IAX3WvIbu/XL38n9DabH6P5PYQWFgjkctJd4j1/KonFYSFTTHP8/kIOoimay+IJB3EGfahu/eGw+6tyF82iexHTImTuu/1/sJY7ScS9J5mUywiHJFtiXoxQAFckTCQd4/DqlEpjEdNAfHJtdCmsrOIK+rFYp3reFxfB9ADApcrhFKzdg7y32j0AkR8iJzyplCwuYluCEpI6zLgjITzxGI31JqfvzjAZLg0j4JMvzs5+MT3U+gyHocrvhF8Ccvrc8uPF7lQkIIttuv8gx93g+rNZfJkMRig4dZbYFylrn8UbDRGuLBAp5tl99fLuk8xQmZl9/F/6hW8FcofQfron5kBIpfu9U1lk5xbpDhE8Qh6HImzrJFQqEcznMYI+NLcTVbPJWZJOMhSi5TLZVotALIzpQc+7YXpYAvVdkIhiwn6hTGqalHd/XuJAce+NRTD8HlwenWg+R6RUxJ+M4/S5EN8bLrcmc8HpUtF1O9FinsJqm9h86c6GInzudLyndNq1sKhdaqfqdsL5LJqhTAtrNhTVgivow5dKISLd4zOIlYoypr3hIL5oGMNrSGCGW5MA3G6NUCJKdH6eYCbNfwCdY3mxALi8AAAAAABJRU5ErkJggg=="
 />
 
 **Sam:** Ah! You have? It's so lovely there. As you mentioned, a lot of the titles are from seaside towns in South West England. That's where some of my family lives and it's where I feel most at peace as well as introspective. So a lot of the titles have come from interpretations of what I might have discovered in myself while I was there. I always bike quite a bit when I'm over there. So lot's of time to get in my head and think.
@@ -116,11 +115,11 @@ The DIY music scene is really what helped shape us, though, and all the friends 
 **Anne:** What are your favorite bands? What music do you enjoy the most? Where are your roots?
 
 <RemoteImage
-  alt={`of-the-vine`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwUH/8QAJxAAAgIBAwQBBAMAAAAAAAAAAQIDEQQAEiEFEzFhQSIzUXGBkbH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAQADAQAAAAAAAAAAAAAAAAABESFB/9oADAMBAAIRAxEAPwDisKYbwHYZI549rBDFZazTUBdcfnUTDjAOztC0D7vs2JIyLIOxq/3xqiWTaSjxbUpgojZhXixphMM40vaKxwypHuYAlmYqwoc/PoeRqUK5MXFij2dxX3IHSRFLE35Dc8n0NM4uDeCcnH3OrEqQUBC0PZtRqyTp8U0sazZCOzKLMvlTdC6PFbqv9azlK4XUZ4QJQ8bNELFgn388/B0iyvUshY+02OiKAfrHDKxIr+OLFaSys2TIn7itIlmyC5IB9etGjQqITx83I7yOJKk3g7yPkeLrzrS6i/c6rLMymSUsA25a5rzdfr+9GjTwVr//2Q=="
+alt={`of-the-vine`}
+size="medium"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine-2__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwUH/8QAJxAAAgIBAwQBBAMAAAAAAAAAAQIDEQQAEiEFEzFhQSIzUXGBkbH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAQADAQAAAAAAAAAAAAAAAAABESFB/9oADAMBAAIRAxEAPwDisKYbwHYZI549rBDFZazTUBdcfnUTDjAOztC0D7vs2JIyLIOxq/3xqiWTaSjxbUpgojZhXixphMM40vaKxwypHuYAlmYqwoc/PoeRqUK5MXFij2dxX3IHSRFLE35Dc8n0NM4uDeCcnH3OrEqQUBC0PZtRqyTp8U0sazZCOzKLMvlTdC6PFbqv9azlK4XUZ4QJQ8bNELFgn388/B0iyvUshY+02OiKAfrHDKxIr+OLFaSys2TIn7itIlmyC5IB9etGjQqITx83I7yOJKk3g7yPkeLrzrS6i/c6rLMymSUsA25a5rzdfr+9GjTwVr//2Q=="
 />
 
 **Sam:** Tough question, hmm...well, our roots came from listening to mostly American post-rock, especially Explosions In The Sky's "Those Who Tell The Truth Shall Die..." That's where I found out about the emotive power of lyric-less rock music. We listen to so much music though it's so hard to name just one influence.
@@ -149,5 +148,4 @@ The DIY music scene is really what helped shape us, though, and all the friends 
 
 **Sam:** Thank you!
 
-Tune in again, soon! I will publish Of the Vine's playlist within the next few days!
-
+Tune in again, soon! [I will publish Of the Vine's playlist within the next few days](/2020/07/of-the-vine-playlist-en/ "Of the Vine Playlist")!
