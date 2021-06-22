@@ -1,30 +1,32 @@
 ---
-date: 2020-05-08T14:58:29.000Z
+date: 2020-05-08T14:58:29.000+00:00
 slug: green-shirts
-path: /2020/05/green-shirts/
+path: "/2020/05/green-shirts/"
 type: Artikel
 typeName: Artikel
 title: Green Shirts
 seoTitle: Green Shirts - nachhaltige und faire Bio-Mode
 ogTitle: Green Shirts - nachhaltige und faire Bio-Mode
-description: 'Green Shirts steht für nachhaltige und faire Bio-Mode. Ziel: höchsten Stil- und Qualitätsansprüchen zu genügen und nachhaltig und fair zu produzieren.'
-excerpt: 'Werbung & Affiliate Links - Green Shirts steht für nachhaltige und faire Bio-Mode. Ziel: höchsten Stil- und Qualitätsansprüchen zu genügen und nachhaltig und fair zu produzieren.'
+description: 'Green Shirts steht für nachhaltige und faire Bio-Mode. Ziel: höchsten
+  Stil- und Qualitätsansprüchen zu genügen und nachhaltig und fair zu produzieren.'
+excerpt: 'Green Shirts steht für nachhaltige und faire Bio-Mode. Ziel: höchsten Stil-
+  und Qualitätsansprüchen zu genügen und nachhaltig und fair zu produzieren.'
 fileName: 2020-05---green-shirts.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-01-jenischpark-23__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-01-jenischpark-23__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAHA//EACYQAAIBBAEDBAMBAAAAAAAAAAECAwAEBREhBhJhExQxUSRBcTL/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAdEQACAwACAwAAAAAAAAAAAAABAgADEQQhEhNh/9oADAMBAAIRAxEAPwDPJILd8hjFlf3PqRdpHBEZMgGtjW9ffmlk3S+DkkEUcagswVAsrHZ58/Ybf8o5Bd3suXsbqS0hs4oykTMroqsC4OtE73TdSY7lppzAbdHM3cihO0DZ7fGudnyTS2LjETJS/tBLDdMur+scn05g7XH4rIxiYoIIkW1iPt0jJDEEqTskld75580cs8nF1UbS+Fpatc49H93Az/ojh1B/R+fB4otlso+YyTXuSmAjaRVYINERb+F3/ngkjezzzShMZj+m7W5t8a00jzDUs0hBdwPgDWgB4FRbWtVYV+2M1BzY2joCGYnWVsd3qTq62CW5U86INc8vmruO1uZFlkPrXHtyrN3BUVe/QB+yRv8AlVVUp0rvyHniCBClhK17PDHKT+RcBXO+eWFaBm8nNI7b1ySB4FVVHyySVi8cDuf/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_green-shirts.png__l.jpg
 labels:
-  - Fair Fashion
-  - Fair Fashion & Beauty
-  - fairtrade
-  - Green Shirts
-  - Hoodie
-  - Kleidung
-  - Mode
-  - shopping
-  - T-Shirt
-  - vegane Mode
+- Fair Fashion
+- Fair Fashion & Beauty
+- fairtrade
+- Green Shirts
+- Hoodie
+- Kleidung
+- Mode
+- shopping
+- T-Shirt
+- vegane Mode
 focusKeyword: Green Shirts
 status: publish
 isWerbung: false
@@ -33,17 +35,15 @@ language: de
 errors:
   outsideImage: article has at least one image that could not be found
 subTitle: Nachhaltige und faire Bio-Mode
----
-
-_Werbung &amp; Affiliate Links\*_
-
-**Der Frühling ist da! Zeit, ein paar alte Kamellen aus dem Kleiderschrank durch neue Schönheiten zu ersetzen. Ich habe das bei Green Shirts getan und möchte Euch meine beiden neuen Lieblinge heute gerne zeigen.**
+advertisement: true
+affiliate: true
 
 ---
-
 **Hinweis:** Unten findet Ihr einen Rabattcode.
 
 ---
+
+**Der Frühling ist da! Zeit, ein paar alte Kamellen aus dem Kleiderschrank durch neue Schönheiten zu ersetzen. Ich habe das bei Green Shirts getan und möchte Euch meine beiden neuen Lieblinge heute gerne zeigen.**
 
 Green Shirts steht für nachhaltige und faire Bio-Mode. Niklas Astor gründete sein Unternehmen 2012. Seine erklärten Ziele: Gleichzeitig hohen Stil- und Qualitätsansprüchen zu genügen und nachhaltig und fair zu produzieren. Er wollte den harten Bedingungen in der Textilindustrie etwas entgegenstellen und zeigen, dass es auch anders geht.
 
@@ -132,5 +132,3 @@ Mit dem Gutscheincode GS-4932 erhaltet Ihr bis einschließlich 20.12.2021 5 Euro
 />
 
 [Gutschein jetzt einlösen](https://www.adcell.de/promotion/click/promoId/168828/slotId/80259)
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
