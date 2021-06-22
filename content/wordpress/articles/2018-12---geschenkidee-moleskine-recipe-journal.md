@@ -1,33 +1,35 @@
 ---
-date: 2018-12-11T07:14:41.000Z
+date: 2018-12-11T07:14:41.000+00:00
 slug: geschenkidee-moleskine-recipe-journal
-path: /2018/12/geschenkidee-moleskine-recipe-journal/
+path: "/2018/12/geschenkidee-moleskine-recipe-journal/"
 type: Galerie Rechts
 typeName: Produkttest
 title: 'Geschenkidee: Moleskine Recipe Journal'
 seoTitle: 'Geschenkidee: Moleskine Recipe Journal für persönliche Rezeptsammlung'
 ogTitle: 'Geschenkidee: Moleskine Recipe Journal für persönliche Rezeptsammlung'
-description: Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet. Das Recipe Journal von Moleskine ist perfekt für alle, die sich gerne Rezepte ausdenken.
-excerpt: Werbung & Affiliate Links - Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet. Das Recipe Journal von Moleskine ist perfekt für alle, die sich gerne Rezepte ausdenken.
+description: Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet. Das
+  Recipe Journal von Moleskine ist perfekt für alle, die sich gerne Rezepte ausdenken.
+excerpt: Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet. Das Recipe
+  Journal von Moleskine ist perfekt für alle, die sich gerne Rezepte ausdenken.
 fileName: 2018-12---geschenkidee-moleskine-recipe-journal.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-moleskine-koch-journal16__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-moleskine-koch-journal16__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFBgED/8QAKBAAAgECBQIGAwAAAAAAAAAAAQIDBBEABRIhMRNBBhQiUXGBMmGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgUDBv/EACURAAIABQIGAwAAAAAAAAAAAAECAAMEETEhYQUGEhNxgUFRof/aAAwDAQACEQMRAD8AzHhExxymU5XM7WEYjhmAcltvRte/b+4ueI6nzUAp8vSenQapKi2kkn0iysLkjc345G4xJyyWbXJOr3aUs2piWI1G/wAX+tsOSUaVbqKkdQsy3JNibHjbt+uMRaquLsQDHX8L5YSRJW6gHOeq9/OnjPuPOCaPL5koqiXpxTRFxzIy6m4Y72IAG4wvnIy8uhNdTFCpCuHOwBOxGnb79++HpKVZZZ2SODW5JclTqb5PfEDxHpiy2olg6XVgkTWVG1ibEHAlTO5ZTn7gV/LrS0eahHSBe3ga7b2GgwIoRUFdlcPUqlgWnZgFKSg3c3NgOdwCeOxw/S1SNNFcjm+DBjOrlqHi9wCpeopbv8G3rSOZjUgsPLkLKQQZNQFh7fJ7YzeZVMMNGkSreM/ksgBJ97jBgw6YWYbRXqEDymU4II/I/9k=
-ogImage: null
+ogImage: 
 labels:
-  - Bücher & Filme
-  - Journal
-  - Kochbuch
-  - Moleskine
-  - Moleskine Recipe Journal
-  - Passion Journals
-  - Recipe Journal
-  - Rezeptbuch
-  - Rezepte
-  - Rezepte merken
-  - Rezeptsammlung
-  - Scrapbook
-  - Scrapbooking
+- Bücher & Filme
+- Journal
+- Kochbuch
+- Moleskine
+- Moleskine Recipe Journal
+- Passion Journals
+- Recipe Journal
+- Rezeptbuch
+- Rezepte
+- Rezepte merken
+- Rezeptsammlung
+- Scrapbook
+- Scrapbooking
 focusKeyword: Moleskine
 status: publish
 isWerbung: false
@@ -35,10 +37,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Rezepte sammeln wie die Profis
+advertisement: true
+affiliate: true
+
 ---
-
-_Werbung &amp; Affiliate Link\*_
-
 **Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet. Das Recipe Journal von Moleskine ist genau das Richtige für alle, die sich gerne Rezepte ausdenken und sie nicht mehr vergessen möchten.**
 
 Das Buch zum selber schreiben ist ein Teil der neuen Moleskine Notizbuch-Kollektion "Passion Journals". Zu haben sind sie in den Varianten "Recipe Journal", "Wine Journal", "Wedding Journal", "Baby Journal", "Wellness Journal", Traveler's Journal" und "Book Journal". Es kommen also nicht nur Hobby-Köch\*innen, sondern unter anderem auch Weinkenner, Wellness-Junkies und Buchwürmer auf ihre Kosten.
@@ -62,7 +64,5 @@ Erworben werden kann das Recipe Journal [hier](https://amzn.to/2SzMKSr) und nat�
 Das Rezept, das ihr auf den Fotos sehen könnt, findet Ihr übrigens komplett hier im Blog. Wer meinen Kartoffelsalat mit Superfood und Zuckerschoten gerne mal genießen möchte, [liest am besten hier weiter](/2018/06/kartoffelsalat-mit-superfruits-und-zuckerschoten/).
 
 Das ist schon mal ein guter Anfang, aber Ihr braucht für Weihnachten noch ein paar weitere Geschenke? Dann bleibt am besten einfach dran. In Kürze findet Ihr hier im Blog noch ein paar weitere Tipps.
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
 
 <Gallery name="2018-12-moleskine" />
