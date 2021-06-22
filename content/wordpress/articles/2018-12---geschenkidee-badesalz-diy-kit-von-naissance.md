@@ -1,35 +1,37 @@
 ---
-date: 2018-12-12T13:30:41.000Z
+date: 2018-12-12T13:30:41.000+00:00
 slug: geschenkidee-badesalz-diy-kit-von-naissance
-path: /2018/12/geschenkidee-badesalz-diy-kit-von-naissance/
+path: "/2018/12/geschenkidee-badesalz-diy-kit-von-naissance/"
 type: Artikel
 typeName: Produkttest
 title: 'Geschenkidee: Badesalz DIY Kit von Naissance'
 seoTitle: 'Geschenkidee: DIY Badesalz von Naissance - "Soak The Day Away"'
 ogTitle: 'Geschenkidee: DIY Badesalz von Naissance - "Soak The Day Away"'
-description: Heute möchte ich Euch das Badesalz DIY Kit von Naissance vorstellen. Eine wunderbare Geschenkidee, die ich sehr empfehlen kann!
-excerpt: Werbung & Affiliate Link - Tipps für Weihnachtsgeschenke hatte ich versprochen, Tipps für Weihnachtsgeschenke sollt Ihr bekommen. Heute möchte ich Euch das Badesalz DIY Kit von Naissance vorstellen.
+description: Heute möchte ich Euch das Badesalz DIY Kit von Naissance vorstellen.
+  Eine wunderbare Geschenkidee, die ich sehr empfehlen kann!
+excerpt: Tipps für Weihnachtsgeschenke hatte ich versprochen, Tipps für Weihnachtsgeschenke
+  sollt Ihr bekommen. Heute möchte ich Euch das Badesalz DIY Kit von Naissance vorstellen.
 fileName: 2018-12---geschenkidee-badesalz-diy-kit-von-naissance.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-naissance-badesalz-023__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-naissance-badesalz-023__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQG/8QAKhAAAQQABQMEAQUAAAAAAAAAAQIDBBEABRIhQQYTMSIyUXHBFEJhcqH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUG/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAAxEhBBMxQf/aAAwDAQACEQMRAD8AVdHdLByTDfKu0sJLi21GiBRoffyMdx0S00+qPKR2mm1harI06RX7ieePvCrJczy8Qgp1zWwkhnT2zqB43oGv92wwmT8pEX9GvMURghVvJdSQVEEG/jevI+MQyWtsLP8AJf5CvZsiYGW2HJsmDJStt5pJIdHJKiBvzfFcDCDOMhjHu6fXXkX7j/Ufx5rDjM85YecbEBSTFSUBLtEa1CxdHcitt+BijNZ4by4OuNstuNpoB1KlICiavbivxhSxWWzCQXQ2NiU5KlE6emTKmokREj0Ri2mgar3g2a3xGaonMTHFJTNcYJ1J7bXeBPgUQDX0ecGDGisrV/RNAyAjMwQ47slwtTniyu/SmQ8lD1nxSRRG3yOcYeq3Y2XJbW7HfnLUT63HjoQfobWfxgwYLXxqw669itjFaXZfRP/Z
-ogImage: null
+ogImage: 
 labels:
-  - ätherisches Öl
-  - Baden
-  - Badesalz
-  - Badesalz selbst herstellen
-  - Badezusatz
-  - Bergamotte
-  - diy
-  - Fair Fashion & Beauty
-  - Himalayasalz
-  - Lavendel
-  - Naissance
-  - Salz
-  - vegan
-  - vegan beauty
-  - vegane Kosmetik
+- ätherisches Öl
+- Baden
+- Badesalz
+- Badesalz selbst herstellen
+- Badezusatz
+- Bergamotte
+- diy
+- Fair Fashion & Beauty
+- Himalayasalz
+- Lavendel
+- Naissance
+- Salz
+- vegan
+- vegan beauty
+- vegane Kosmetik
 focusKeyword: Badesalz
 status: publish
 isWerbung: false
@@ -37,10 +39,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Soak The Day Away"'
+advertisement: true
+
 ---
-
-_Werbung &amp; Affiliate Link_
-
 **Tipps für Weihnachtsgeschenke hatte ich versprochen, Tipps für Weihnachtsgeschenke sollt Ihr bekommen. Heute möchte ich Euch das Badesalz DIY Kit von Naissance vorstellen.**
 
 Die Produkte von Naissance schätze ich sehr und benutze sie schon lange. Immer wieder gibt es vom Naturkosmetik-Hersteller auch richtig schön ausgefallene Produkte. Zuletzt hatte ich hier im Blog den [bio-veganen Glitter](/2018/08/veganer-bio-glitter-naissance/) vorgestellt. Der Artikel freut sich auch heute noch täglich großer Beliebtheit. Ja, Glitter braucht die Welt! So sieht es aus.
@@ -81,4 +82,3 @@ Wenn Ihr Euch für tolle vegane Produkte interessiert und Ihr mehr über Nachhal
 
 <Gallery name="2018-12-naissance-diy-badesalz" />
 
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
