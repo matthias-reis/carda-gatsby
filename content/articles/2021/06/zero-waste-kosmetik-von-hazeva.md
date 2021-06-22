@@ -1,16 +1,16 @@
 ---
 date: 2021-06-05T15:03:42+02:00
 labels:
-- Fair Fashion & Beauty
-- fester Conditioner
-- Körperöl
-- less waste
-- Zero Waste
-- Slow Cosmetique
-- Trockenshampoo
-- vegan beauty
-- vegane Kosmetik
-- Zero Waste Kosmetik
+  - Fair Fashion & Beauty
+  - fester Conditioner
+  - Körperöl
+  - less waste
+  - Zero Waste
+  - Slow Cosmetique
+  - Trockenshampoo
+  - vegan beauty
+  - vegane Kosmetik
+  - Zero Waste Kosmetik
 language: de
 slug: zero-waste-kosmetik-von-hazeva
 typeName: Produkttest
@@ -18,21 +18,17 @@ title: Zero Waste Kosmetik von Hazeva
 subTitle: Natürlich und ohne Plastik
 seoTitle: Zero Waste Kosmetik von Hazeva – Natürlich pflegen ohne Plastik
 ogTitle: ''
-description: Hazeva ist noch relativ neu auf dem Markt. Das Start-up bietet Zero Waste
-  Kosmetik an. Ich habe einige der Produkte getestet.
-excerpt: Hazeva ist noch relativ neu auf dem Markt. Das Start-up bietet Zero Waste
-  Kosmetik an. Ich habe einige der Produkte getestet und möchte sie Euch heute gerne
-  vorstellen. Neben einem Körperöl und einem festen Conditioner habe ich auch die
-  Zahnpflegeprodukte ausprobiert.
-image: "/img/2021-06-04-hazeva-4final.jpg"
+description: Hazeva ist noch relativ neu auf dem Markt. Das Start-up bietet Zero Waste Kosmetik an. Ich habe einige der Produkte getestet.
+excerpt: Hazeva ist noch relativ neu auf dem Markt. Das Start-up bietet Zero Waste Kosmetik an. Ich habe einige der Produkte getestet und möchte sie Euch heute gerne vorstellen. Neben einem Körperöl und einem festen Conditioner habe ich auch die Zahnpflegeprodukte ausprobiert.
+image: '/img/2021-06-04-hazeva-4final.jpg'
 copyright: ''
-ogImage: "/img/zero-waste-kosmetik-hazeva-fb.jpg"
+ogImage: '/img/zero-waste-kosmetik-hazeva-fb.jpg'
 focusKeyword: Zero Waste Kosmetik
 advertisement: true
 affiliate: false
 languageLink: ''
-
 ---
+
 **Hazeva ist noch relativ neu auf dem Markt. Das Start-up bietet Zero Waste Kosmetik an. Ich habe einige der Produkte getestet und möchte sie Euch heute gerne vorstellen. Neben einem Körperöl und einem festen Conditioner habe ich auch die Zahnpflegeprodukte ausprobiert.**
 
 Einmal duften wie ein Zitronenkuchen – wäre das nicht ein Traum? Bisher war mir mein Bedürfnis danach nicht bewusst, aber seit ich das wunderbare Zitrus-Hautöl von Hazeva benutze, möchte ich das Gefühl nicht mehr missen.
