@@ -36,7 +36,7 @@ languageLink: /2021/06/kollapse-sult-en
 
 Weil ich die Ehre hatte, mir das Album schon mal anzuhören, fasse ich hier mal ein bisschen zusammen, was sie auf mich für einen Eindruck gemacht hat. Ich verrate schon mal soviel: Es könnte sein, dass sich dieser Artikel zu einem Musiktipp entwickelt.
 
-### Kollapse haben es spannend gemacht
+## Kollapse haben es spannend gemacht
 
 ![Kollapse – "Sult"](/img/kollapse.jpeg "Kollapse – \"Sult\"")
 
@@ -46,7 +46,7 @@ Dass die letzten paar Jahre (so heißt es) eine harte Zeit für die Band waren, 
 
 Nachdem nacheinander zwei Mitglieder Kollapse verlassen hatten, begaben sich die verbleibenden drei auf eine Sinnsuche. Vor Kurzem formierten sie sich dann als starkes Trio neu. Den letzten Sommer nutzten sie dann dazu, ihre zweite Platte aufzunehmen. Bei den Aufnahme-Sessions holten sie sich Lucas Illanes zur Unterstützung – er hat das Album produziert und abgemischt. Das Mastering hat James Plotkin übernommen.
 
-### Der geniale Krach des letzten Jahrhunderts
+## Der geniale Krach des letzten Jahrhunderts
 
 Für "Sult" haben sich die drei klar vom Noise Rock der 1990er beeinflussen lassen. Es scheppert und kracht gehörig – und das ist verdammt gut so! Post-Hardcore Anleihen und der gewohnte von Sludge angehauchte Post-Metal Style tun ihr Übriges und sorgen für angenehm krasse Dissonanzen. Genau so muss Musik klingen.
 
@@ -54,7 +54,7 @@ Kollapse bringen den genialen Krach des letzten Jahrhunderts in unsere Zeit und 
 
 Mit ihrem Sound sprengen die Dänen alle Schubladen, in die man versuchen könnte, sie einzuordnen. Sie hinterlassen eine klare Signatur, die man nur ihnen zuordnen kann. Der Stil ist eigen, sperrig und beeindruckend.
 
-### Kollapse passen nicht in eine Schublade
+## Kollapse passen nicht in eine Schublade
 
 Das erste Stück "Drift" lässt gleich zu Beginn alle überflüssigen Sicherungen rausknallen und zeigt den Weg in eine finstere, grüblerische Welt. Das immer wieder klar erkennbare Konzept der Platte beschwört auch einige zauberhaften Schatten aus der Prog-Welt hervor, die immer wieder zwischen den einzelnen Akkorden auftauchen, um anschließend wieder zu verschwinden.
 
@@ -62,7 +62,7 @@ Der zweite Song "Knæler" wirkt fast noch kraftvoller als sein Vorgänger und au
 
 "Byrd" beginnt treibend und panisch. Finden wir einen Weg das Schicksal aufzuhalten oder geht es immer weiter durch die Finsternis? Die geschrienen Lyrics hängen wie eine bleischwere Wolke über dem Song und entladen sich in Wellen. Ich bin mir noch nicht sicher, aber ich glaube, das könnte man Lieblingsstück auf "Sult" sein.
 
-### Ein aggressiver Tanz
+## Ein aggressiver Tanz
 
 ![Kollapse](/img/kollapse-2-.jpg "Kollapse")
 
@@ -74,6 +74,6 @@ Mit ihren insgesamt 41 Minuten Spieldauer ist die Platte sicher nicht die längs
 
 Das unfassbar gruselige und zugleich großartige Cover-Bild hat übrigens Gina Skwoz gemalt.
 
-### Kollapse – "Knæler"
+## Kollapse – "Knæler"
 
 <YouTube id="Zw-ljb1SuoY" />
