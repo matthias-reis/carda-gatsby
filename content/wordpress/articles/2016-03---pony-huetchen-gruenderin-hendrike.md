@@ -37,15 +37,6 @@ subTitle: Für eine nachhaltige Zukunft müssen wir tun, was uns möglich ist!
 advertisement: true
 
 ---
-<RemoteImage
-  alt={`Pony Hütchen`}
-  size="medium"
-  title={`Hendrike von Pony Hütchen`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_11781613_662141737220093_5706785569758475977_n__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_11781613_662141737220093_5706785569758475977_n__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcBBgMECP/EACsQAAEDAgUEAQMFAAAAAAAAAAECAwQFEQAGEiExEyJBUSMHYXEUMkKBof/EABgBAQADAQAAAAAAAAAAAAAAAAMABAUG/8QAHhEBAAEEAgMAAAAAAAAAAAAAAQIAERIhAzEEE1H/2gAMAwEAAhEDEQA/AGZLkaFBRGwP+YrVKezBR6o5HgwYc+GXSpb7jnTKUEdtudwkAWIt684LQWpGYHUNwNHcjWpSjZKBwbn87WxkrtNk5XaamuSEyy/8TraUFKdIHIPPn14xzqNsrVr8aZYfa0cxUioVapLlyqwBAjXvEaaSQUab76gdz7HjziKPS20UygBt91lmnuqfDKFdq9SFABXu2q+A1UrTyKW8VdOz6QhJMrrvPHgJSBYAW52GLazQaiqiw5MBTUhDrKHOmDpUm44F9jbEhk0nNHCINLLLmbJtErjP6aSltoFa3EOK7HUW3SoH7gWPIJw3a5UTXskoqUOOpT0ZTUl2Ok6ldMjv07XPaSobX7eMcxtr6tXjmS4AHFWSm9t7XG5Iw+/pFWI6JD8FuYhYDS0oClpB+JexG9yCld74s8ha0XpoDcWZ2VXunDcVHeolNbkVOoXTHSk73NgSq37QPJ+2G1WarDyzRGgbq6aEsMJH81AWH9efxgTmPOmX8tNOrdkRA/Y/FGCVOrPrSn7+7DCszDmk5hVHq0hJjxENkttuLHaCd9Xi+w4wQes1tpo38uYS1E3X/9k="
-/>
-
 **Pony Hütchen steht für vegane, handgemachte Kosmetikprodukte ohne schädliche Inhaltsstoffe. Unter Veganern hat sich die Marke längst einen Namen gemacht. Auch ich bin begeistert von der Produktpalette.**
 
 Jetzt hatte ich die großartige Gelegenheit, mich mit Hendrike, der Gründerin von Ponyhütchen über ihre Arbeit, ihr Leben und ihre Pflegelinie zu unterhalten. Gleichzeitig habe ich noch ein paar neue Sachen aus ihrer Manufaktur getestet, himmlischer Duft umgibt mich, mehr wird erst in der auf das Interview folgenden Unboxing-Story verraten.
