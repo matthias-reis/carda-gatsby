@@ -160,7 +160,7 @@ wieder glatt wie ein Babypopo. Die seitankochende Baumwollseegurke quasi.
 Das war außerdem noch in meinem Paket: diese wundervollen Deos, eines davon duftet nach frischer Wäsche, eines nach Babypuder und schön frisch.
 
 <Gallery
-images={\[
+images={[
 {
 mediumUrl:
 'https://storage.googleapis.com/cardamonchai-images/2014_08_img_1697__m.jpg',
@@ -179,7 +179,7 @@ mediumUrl:
 largeUrl:
 'https://storage.googleapis.com/cardamonchai-images/2014_08_img_1706__l.jpg',
 },
-\]}
+]}
 />
 
 Außerdem habe ich noch für einen Konjakschwamm entschieden, es gibt sie in den verschiedensten Varianten, meiner enthält Bambuskohle und ist für zu Unreinheiten neigende Haut geeignet.
@@ -199,7 +199,7 @@ besser als üblich auf der Haut verteilt."
 </small>
 
 <Gallery
-images={\[
+images={[
 {
 mediumUrl:
 'https://storage.googleapis.com/cardamonchai-images/2014_08_img_1687__m.jpg',
@@ -212,7 +212,7 @@ mediumUrl:
 largeUrl:
 'https://storage.googleapis.com/cardamonchai-images/2014_08_img_1703__l.jpg',
 },
-\]}
+]}
 />
 
 Toll finde ich auch die Seifenschale aus Luffa:
@@ -228,7 +228,7 @@ kommen: nämlich beim Reinigen des Waschbeckens."
 Mal was wirklich Innovatives, finde ich, und sie ist hübsch anzuschauen. Für meine Haarseife habe ich mir eine Schale aus unbehandeltem Naturstein aus der Region Troja in der Türkei gegönnt.
 
 <Gallery
-images={\[
+images={[
 {
 mediumUrl:
 'https://storage.googleapis.com/cardamonchai-images/2014_08_img_1694__m.jpg',
@@ -247,7 +247,7 @@ mediumUrl:
 largeUrl:
 'https://storage.googleapis.com/cardamonchai-images/2014_08_img_1688__l.jpg',
 },
-\]}
+]}
 />
 
 Ein kleines Bisschen Lavendelluxus durfte für mich natürlich auch nicht fehlen: Ein pulverförmiges Schaumbad in der hübschesten Schaumbaddose, die ich jemals gesehen habe:
