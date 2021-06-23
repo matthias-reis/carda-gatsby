@@ -93,13 +93,3 @@ Wer gerne mehr über Marion Kracht und ihr Buch erfahren möchte, kann sie auf i
 **Bild Buch:** [Cadmos Verlag](https://www.cadmos.de/cadmos-der-verlag.html)
 
 **Bild im Header:** [silviarita](https://pixabay.com/de/users/silviarita-3142410/), pixabay
-
-<iframe
-style="width: 120px; height: 240px;"
-src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=cardamonchai-21&marketplace=amazon&region=DE&placement=3840470331&asins=3840470331&linkId=dc331a21b0374b444234a982f4dde30e&show_border=true&link_opens_in_new_window=true&price_color=c4c4c4&title_color=5c9b72&bg_color=ffffff"
-frameborder="0"
-marginwidth="0"
-marginheight="0"
-scrolling="no"
-
-> </iframe>

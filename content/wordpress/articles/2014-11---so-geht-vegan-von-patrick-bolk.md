@@ -120,12 +120,3 @@ Den Abschluss macht Bolk mit einem Kapitel über veganes Leben, sprich Tierische
 Ein tolles Buch mit schönem Layout, das mit seinen 200 Seiten nicht zu umfangreich ist. Es bietet Neuveganern eine tolle Einstiegshilfe und ist sicherlich auch als Weihnachtsgeschenk für neugierige Verwandte und Bekannte durchaus interessant. Auch "Alte Hasen" finden noch das ein oder andere Rezept, wenn mal wieder ein Bisschen Inspiration her muss.
 
 "So geht vegan" von Patrick Bolk ist im Südwest Verlag erschienen und für 16,99 Euro im deutschen Buchhandel zu haben.
-
-<iframe
-  style="width: 120px; height: 240px;"
-  src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3517092789&amp;asins=3517092789&amp;linkId=852e229a1ce9e8f1deddd8920286ae5e&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff"
-  frameborder="0"
-  marginwidth="0"
-  marginheight="0"
-  scrolling="no"
-></iframe>
