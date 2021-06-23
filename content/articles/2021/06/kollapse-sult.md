@@ -38,7 +38,7 @@ Weil ich die Ehre hatte, mir das Album schon mal anzuhören, fasse ich hier mal 
 
 ### Kollapse haben es spannend gemacht
 
-![](/img/kollapse.jpeg)
+![Kollapse – "Sult"](/img/kollapse.jpeg "Kollapse – \"Sult\"")
 
 Erscheinen wird "Sult" in Zusammenarbeit mit Maniyax Records, Dingleberry Records und Virkelighedsfjern auf Fysisk Format.
 
@@ -64,7 +64,7 @@ Der zweite Song "Knæler" wirkt fast noch kraftvoller als sein Vorgänger und au
 
 ### Ein aggressiver Tanz
 
-![](/img/kollapse-2-.jpg)
+![Kollapse](/img/kollapse-2-.jpg "Kollapse")
 
 "Libido" zieht die Hörer⋆innen in einen wirbelnden Sog – das Schlagzeug ist wunderbar präzise, schöne Tempowechseln machen den Song zu einem aggressiven Tanz.
 
