@@ -1,41 +1,42 @@
 ---
-date: 2020-07-27T13:09:13.000+00:00
-slug: wasser-trinken
-path: "/2020/07/wasser-trinken/"
-type: Artikel
-typeName: Artikel
-title: Wasser trinken
-seoTitle: Wasser trinken - Trinkroutine und Flaschen für unterwegs und daheim
 ogTitle: Wasser trinken - Trinkroutine und Flaschen für unterwegs und daheim
-description: Auf Tagestouren ist es immer gut, etwas zu Trinken dabei zu haben. Ich
-  nehme mir am liebsten Wasser mit. Das ist natürlich und stillt den Durst perfekt.
-excerpt: Auf Tagestouren ist es immer gut, etwas zu Trinken dabei zu haben. Ich nehme
-  mir am liebsten Wasser mit. Das ist ganz natürlich und stillt den Durst perfekt.
-fileName: 2020-07---wasser-trinken.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-19__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-19__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYC/8QAKRAAAgIBBAECBQUAAAAAAAAAAQIDBBEABRIhMQZBExVRYaEiMnGR0f/EABgBAAMBAQAAAAAAAAAAAAAAAAABBAID/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECESEDQf/aAAwDAQACEQMRAD8AZ20RwJHxQhcdYBxj/Nd7k8sk7xbBHBa3Gu8S2IpFLiOOU9E+2TjOsvU3gxjBXiP3EkfcDVHBbt/MN4ty/GryWb1XoMR0qlQAR5GB+dc3NN0bUGtNXvPrf07tl96FtrC2oX+DMz1GwjA9gnzj38HrvUzd6lWarHNVqbfKrRthpVP6lIyvEr7fyNKn1htdu96o3aaCjYnklnbDnGG6Azybwf60zNukmh2mlRushtQ1445CpBXkqjIyPxj6aF02hOHouYfUMNWvyBXoYA9z9hqLPvl/cLEccMcIgV0kw2crx+/ecg6NGpm60pirw1dTeykjNMiszN2oVRyJ8jJ+mc+dW015GilUOFUE8eAA4j20aNEBdD//2Q==
+excerpt: Auf Tagestouren ist es immer gut, etwas zu Trinken dabei zu haben. Ich
+  nehme mir am liebsten Wasser mit. Das ist ganz natürlich und stillt den Durst
+  perfekt.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_wasser-fb.png__l.jpg
-labels:
-- Edelstahltrinkflasche
-- Ernährung & Gesundheit
-- Flüssigkeitshaushalt
-- less waste
-- Trinken
-- Wasser
-- Wasser trinken
-- Wasserflasche
-- Zero Waste
-focusKeyword: Wasser
-status: publish
-isWerbung: false
 isAffiliate: false
-language: de
-errors: {}
-subTitle: Trinkroutine und Flaschen für unterwegs und daheim
-affiliate: false
+path: /2020/07/wasser-trinken/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYC/8QAKRAAAgIBBAECBQUAAAAAAAAAAQIDBBEABRIhMQZBExVRYaEiMnGR0f/EABgBAAMBAQAAAAAAAAAAAAAAAAABBAID/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECESEDQf/aAAwDAQACEQMRAD8AZ20RwJHxQhcdYBxj/Nd7k8sk7xbBHBa3Gu8S2IpFLiOOU9E+2TjOsvU3gxjBXiP3EkfcDVHBbt/MN4ty/GryWb1XoMR0qlQAR5GB+dc3NN0bUGtNXvPrf07tl96FtrC2oX+DMz1GwjA9gnzj38HrvUzd6lWarHNVqbfKrRthpVP6lIyvEr7fyNKn1htdu96o3aaCjYnklnbDnGG6Azybwf60zNukmh2mlRushtQ1445CpBXkqjIyPxj6aF02hOHouYfUMNWvyBXoYA9z9hqLPvl/cLEccMcIgV0kw2crx+/ecg6NGpm60pirw1dTeykjNMiszN2oVRyJ8jJ+mc+dW015GilUOFUE8eAA4j20aNEBdD//2Q==
+date: 2020-07-27T13:09:13.000+00:00
+typeName: Artikel
 advertisement: true
-
+isWerbung: false
+fileName: 2020-07---wasser-trinken.md
+slug: wasser-trinken
+errors: {}
+title: Wasser trinken
+subTitle: Trinkroutine und Flaschen für unterwegs und daheim
+focusKeyword: Wasser
+affiliate: true
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-19__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-19__m.jpg
+seoTitle: Wasser trinken - Trinkroutine und Flaschen für unterwegs und daheim
+labels:
+  - Edelstahltrinkflasche
+  - Ernährung & Gesundheit
+  - Flüssigkeitshaushalt
+  - less waste
+  - Trinken
+  - Wasser
+  - Wasser trinken
+  - Wasserflasche
+  - Zero Waste
+language: de
+type: Artikel
+description: Auf Tagestouren ist es immer gut, etwas zu Trinken dabei zu haben.
+  Ich nehme mir am liebsten Wasser mit. Das ist natürlich und stillt den Durst
+  perfekt.
 ---
 **Auf Tagesausflügen ist es immer gut, etwas zu Trinken dabei zu haben. Ich nehme mir am liebsten Wasser mit. Das ist am natürlichsten und stillt den Durst am besten.**
 
@@ -49,12 +50,12 @@ Hier bei uns in Hamburg kann man inzwischen auch problemlos in vielen Cafés um 
 alt={`Wasser`}
 size="medium"
 title={`Meine treue Begleiterin.`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-17__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-17__l.jpg"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020*07*%EF%BF%BC2020-06-28-same-but-green-17**m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020*07*%EF%BF%BC2020-06-28-same-but-green-17**l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQP/xAAjEAABBAICAgIDAAAAAAAAAAABAgMEEQAFITEGEgdRE0Fh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDAv/EABwRAQACAgMBAAAAAAAAAAAAAAEAAgMREhMxIf/aAAwDAQACEQMRAD8AtociSkctoqhVHGJO8Rr2g7OCm0EkAoaU4eBZNJ5qs5R3BQ4OKeTwl7LTOBltLhaN8+vHd1eRMtn5N9dT2M63yiNtXvx65a3VBBWSuK40mv4Vd4y7MlKbI9W0n7NnJT491z8VmXKkNkOOIQn3WoEnnkAX11lO+7QN4OS1Y+FXyYTD5CAEqKgfrMXyPdTISpLbLhSktJNV0cMMhRRlU2TD1m9mLkQkrkLCVuUquLvL+ROTauDVn91hhjvZdbgAT//Z"
 />
 
-Meine treue Begleiterin auf Fahrradtouren und Wanderungen ist das 1-Liter-Edelstahl-Modell von samebutgreen. Die Flasche ist schön leicht und robust und hat einen praktischen Tragebügel. Ich kann sie mit einem Karabinerhaken am Rucksack befestigen oder in meiner Fahrradpacktasche verstauen. Das Design ist schlicht und schön. Ein tolles Detail ist für mich der Holzdeckel mit dem eingeprägten Emblem. Für den kleinen Durst oder für Schulranzen, Turnbeutel und Co. gibt es die samebutgreen Flasche auch mit 500 ml Fassungsvermögen.
+[Meine treue Begleiterin auf Fahrradtouren und Wanderungen ist das 1-Liter-Edelstahl-Modell von samebutgreen](https://t.adcell.com/p/click?promoId=224459&slotId=80259&param0=https%3A%2F%2Fsamebutgreen.com%2Fcollections%2Fdrink-samebutgreen%2Fproducts%2F1-liter-edelstahl-trinkflasche). Die Flasche ist schön leicht und robust und hat einen praktischen Tragebügel. Ich kann sie mit einem Karabinerhaken am Rucksack befestigen oder in meiner Fahrradpacktasche verstauen. Das Design ist schlicht und schön. Ein tolles Detail ist für mich der Holzdeckel mit dem eingeprägten Emblem. Für den kleinen Durst oder für Schulranzen, Turnbeutel und Co. gibt es die samebutgreen Flasche auch mit 500 ml Fassungsvermögen.
 
 Praktisch an Edelstahlflaschen ist für mich, dass sie sich mittels Auskochen (kochend heißes Wasser rein gießen - Vorsicht! Benutzt auf alle Fälle einen Topflappen!) ganz leicht reinigen lassen. Außerdem sind sie, wie bereits erwähnt, sehr leicht.
 
@@ -66,8 +67,8 @@ Auf dem Schreibtisch habe ich eine [farbenfrohe Glasflasche](/2020/05/soulbottle
 alt={`Wasser`}
 size="medium"
 title={`Wasser schenkt Leben.`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-02__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-02__l.jpg"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020*07*%EF%BF%BC2020-06-28-same-but-green-02**m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020*07*%EF%BF%BC2020-06-28-same-but-green-02**l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBwMEBv/EACwQAAEDAgQDBwUAAAAAAAAAAAECAwQAEQUSITETQVEGFBVhgZGhIkNScaP/xAAYAQADAQEAAAAAAAAAAAAAAAABAgUDBP/EABwRAAIDAAMBAAAAAAAAAAAAAAABAgNRERITQf/aAAwDAQACEQMRAD8AsaNxSEqUJaU8gi+p6dKcRoKsQYUhyPLyOKuWnict/wAk22PrVa4bhvZ0PBwiSH3BlzHEZIUodNHPIe1PFYL2alFapTL7qyLKKsSla8h92tncsOVUtfTrV4S7Dk2hsvKQ2iyuK/ZPmNtaxzYjYQSUFKiLgFWpHXelLOH4EhopR30JTy8Skm39b1oSoOFMpV3UTEm+bTEZO+3NyldnI3m0JMMgyMputoWOliPq+NKdsxXglOdaM5NrAA6fu1FFQvSelfrHCHY0nhXIZ2sU3SD8i3pSrEIz5QSHI/SxSnb2396KKKsnoHCOH//Z"
 />
 
@@ -85,8 +86,8 @@ Ihr solltet Euch auf keinen Fall zum Trinken zwingen. Lasst Euch da nichts einre
 alt={`Wasser`}
 size="medium"
 title={`Meine Trinkflasche hat einen schönen Holzdeckel.`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-06__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-06__l.jpg"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020*07*%EF%BF%BC2020-06-28-same-but-green-06**m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020*07*%EF%BF%BC2020-06-28-same-but-green-06**l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcBBQYD/8QAJhAAAQQBAwMEAwAAAAAAAAAAAQIDBBEABSExEkFhBhMUUSJxkf/EABgBAAIDAAAAAAAAAAAAAAAAAAAEAQIF/8QAHxEAAQMEAwEAAAAAAAAAAAAAAQACAxEhIjESI2ET/9oADAMBAAIRAxEAPwBuyZSirlVjztldL1VLRpZPmhxkylLTf2My73vQhqTNSZBai/KbcUsOHmjYUNu+4J/QzLk+hHXSvqcZwBz0tTG1Jp4joVzxYrLWNKFjtvil9KPahrGrxpDr77bcZJeIKkdBB/HpCAO9ncmxjIjKJIq/HjxhGXgdm/ESBtcNLvOb9ppxxSeooSVdP3QvK7RvTyhoOr6nNmOl+RFW2V9QoFQ4AOwAHFYYY3A0GqXkJssWuDI0RrTZcGU4ulJQ62oAh5PcGv6POM2LFo1vd98MMrM0B9lMZJbdf//Z"
 />
 
@@ -102,8 +103,8 @@ Mir persönlich geht es so: Wenn ich in jeder Ecke eine Flasche platziert habe, 
 alt={`Wasser`}
 size="medium"
 title={`Wasser für unterwegs.`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-20__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-20__l.jpg"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020*07*%EF%BF%BC2020-06-28-same-but-green-20**m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020*07*%EF%BF%BC2020-06-28-same-but-green-20**l.jpg"
 loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBwEEBf/EACoQAAEDAgQEBgMAAAAAAAAAAAECAwQAEQUSITEGEyJBBzJRYZGhFIGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEA//EABoRAAMBAQEBAAAAAAAAAAAAAAABEQISAzH/2gAMAwEAAhEDEQA/ALkgQ8Qbeb5f4ZZ0zBMTJ238+1+2tSRZkiRPmRXGWWTFUMzq0WSoEbDq/etInijxHOj8Mst4FNXGlLfBW4yrKoNpSSRfsCbCtnj7FJWI8I47FfcbUgCKU5kJFjds7/PzSdjcDbNamR2w6/JwxTK7pSVMrFlHaxBNx7fYoqufBqapnD8Zw/mr5DLjbiVFXSgqCgpPoPKDRRz6VUDxGYmLw9xgiUC8bXCTfe1rJPb+VLDxaPiBmtuRHSy9yul1At0hN/W9iNNKVITgWQt54EbC2ultq7KMThMvCMh1tt5abhB0Kh3Pvt9VH01YWxP6OsB6KmJyI7eRKSFcsXCACbX2te24opHk4j05mXSM3dKt6KbOnDPWVT//2Q=="
 />
 
