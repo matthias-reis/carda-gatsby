@@ -1,74 +1,71 @@
 ---
-date: 2017-04-19T09:40:43.000Z
+date: 2017-04-19T09:40:43.000+00:00
 slug: interview-mit-danny-von-vegablum
-path: /2017/04/interview-mit-danny-von-vegablum/
+path: "/2017/04/interview-mit-danny-von-vegablum/"
 type: Artikel
 typeName: Interview
 title: Vegablum Gründerin Danny
-seoTitle: Vegablum Gründerin Danny im Interview - "Wir möchten etwas Gutes tun, keinen Benz kaufen"
-ogTitle: Vegablum Gründerin Danny im Interview - "Wir möchten etwas Gutes tun, keinen Benz kaufen"
-description: Wie verrückt habt Ihr meinen Blog gestürmt, als der Produkttest zu Vegablum (veganer Honig) erschien. Daher gibt es heute ein Interview mit Gründerin Danny.
-excerpt: Wie verrückt habt Ihr meinen Blog gestürmt, als der Produkttest zu Vegablum (veganer Honig) erschien. Daher gibt es heute ein Interview mit Gründerin Danny.
+seoTitle: Vegablum Gründerin Danny im Interview - "Wir möchten etwas Gutes tun, keinen
+  Benz kaufen"
+ogTitle: Vegablum Gründerin Danny im Interview - "Wir möchten etwas Gutes tun, keinen
+  Benz kaufen"
+description: Wie verrückt habt Ihr meinen Blog gestürmt, als der Produkttest zu Vegablum
+  (veganer Honig) erschien. Daher gibt es heute ein Interview mit Gründerin Danny.
+excerpt: Wie verrückt habt Ihr meinen Blog gestürmt, als der Produkttest zu Vegablum
+  (veganer Honig) erschien. Daher gibt es heute ein Interview mit Gründerin Danny.
 fileName: 2017-04---vegablum-gruenderin-danny.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_34095028326_e784ddd282_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_34095028326_e784ddd282_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEAgX/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiEGIjEHE1EVQWEjMpGh8f/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAgEQABAwQCAwAAAAAAAAAAAAABAAIDERIh0TGxQYGh/9oADAMBAAIRAxEAPwAZF0kl6MiWa22iV4EVpKWCICRhuUHJJDDkEeDzr1OqenuiOnqmqpp6OKRkpX9oSIY2Zy+EbdgFiD5xxjHwTrZLYL3NcnrZ6uB5nYuQ1ZVSNuJOcd4OT4xofX3aK53VPrFSyPT9lUlQqvBNjJVWcg7SM/c4PzxqGaOQEEuPo6VkD43EkN+bW2l9Pun7vNItNXJb4+JYleF5d6iMGTJyD2kNnHBxxrNcPTygold1rEkgK5VolmifdjJ4YlQB8ZzpNa556qkp6qO900COMJHJC0uNoxx+pwDjyFAP51xdbhPKns1XUMRZmGAlMFLHzjlif80xkUxzf1pKc+OtLe9o7brlS01VBUx2yEyQlir1Fc7/ALvOQFAP3xkcZ40Dr71cayurKzAAkBRkK+F7nA/J88+eNWrW2moygcYCS0XqHdjTIDXSGaIHB2byq7RjuPKoMYx/GlNqudZdJI54aierVFZmQbIpGUZyUOzIxyc/1zq1aXO8sFQhxbTyV//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_04_34095028326_e784ddd282_z__l.jpg
 labels:
-  - Apfel
-  - Apfelsaft
-  - Bienen
-  - Bienensterben
-  - Blutengel
-  - Die Kichererbse
-  - El Kotti
-  - Ernährung
-  - Ernährung & Gesundheit
-  - Gothik
-  - Hamburg
-  - Honig
-  - Interview
-  - Interviews
-  - Likör
-  - Manufaktur
-  - Meerbusch
-  - Met
-  - Mittelalter
-  - Mittelalterfest
-  - Mittelaltermarkt
-  - Palmöl-frei
-  - Rhabarber
-  - Rhabarber-Likör
-  - Rock
-  - Stuttgart
-  - Tier Refugium Wegberg
-  - Vegablum
-  - vegan
-  - vegane Ernährung
-  - Veganer
-  - veganer Honig
-  - veganer Met
-  - Veganica
-  - Veganica Bio-Manufaktur
-  - Vet
-  - Vonig
+- Apfel
+- Apfelsaft
+- Bienen
+- Bienensterben
+- Blutengel
+- Die Kichererbse
+- El Kotti
+- Ernährung
+- Ernährung & Gesundheit
+- Gothik
+- Hamburg
+- Honig
+- Interview
+- Interviews
+- Likör
+- Manufaktur
+- Meerbusch
+- Met
+- Mittelalter
+- Mittelalterfest
+- Mittelaltermarkt
+- Palmöl-frei
+- Rhabarber
+- Rhabarber-Likör
+- Rock
+- Stuttgart
+- Tier Refugium Wegberg
+- Vegablum
+- vegan
+- vegane Ernährung
+- Veganer
+- veganer Honig
+- veganer Met
+- Veganica
+- Veganica Bio-Manufaktur
+- Vet
+- Vonig
 focusKeyword: Vegablum
 status: publish
 isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: 'Wir möchten Gutes tun und keinen Benz kaufen'
+subTitle: Wir möchten Gutes tun und keinen Benz kaufen
+advertisement: true
+
 ---
-
-<RemoteImage
-  alt={`Vegablum`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34095028076_7be27a02bd_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34095028076_7be27a02bd_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAJxAAAgEDBAIBBAMAAAAAAAAAAQIDBAURAAYhMRITQQcUIlEjYaH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAIhEAAgEDAgcAAAAAAAAAAAAAAQIAAxEhBBITIjEyQXGR/9oADAMBAAIRAxEAPwCFRb2oYvohedu11fUyX6oqC8JZXYsnsjYZkPA4VhjOsLMktVMyRRySsvPHPiM4zx8atV02/uinrJaaayTxyo7KyAGQDB55XIxx30dIorbUUlNNNJ9zC8tP+DoCq59nIz0QMZ770b3GIqoD1nCK0VshIWkyf20gX/M6lUlnlqauOkYQxO04hkUP+SjxDE4+eP7708q4rhb0M8UXrESozfcwMp5Rcurdckk47xzp3abPcbXvL3323RylY5GloSHHs/jKjH75HkOSDg6zLfY/C5rTQtwbxsF1nkqrxaJaeWskVXq6WbzkjCqAqKhCr4YU8HPeedPbPu/acNLQUguXqo7armhgqqJ1VGfIPkR5Bh4s/fyQdGjRKeRiQUtZUNt2fcd1V22/e7UttqrtZai3fcwTnxrV8iEVEA8GIOMKOD3z8aqf1Aq7jdt0S1FiutukpYp1CpcFjhWP8iQI2PaAR5J4wZMfOjRpAgbulNTUsrLtxP/Z"
-/>
-
 **Was genau [Vonig](/2017/04/veganer-honig-vegablum/) ist und wie der [vegane Honig](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) hergestellt wird, habe ich Euch vor Kurzem schon verraten. Jetzt habe ich mich mit der Gründerin der veganen Manufaktur Vegablum zum Interview verabredet.**
 
 Weil mein Artikel über Dannys Produkte so gut angekommen ist und auch ich gerne noch mehr über Vonig und VET (Veganer ElfenTrunk) erfahren möchte, habe ich mich entschieden, sie um ein Interview zu bitten. Sie hat zugesagt und wie Ihr Euch vielleicht schon vorstellen könnt, habe ich sie nicht nur über ihre Arbeit befragt.
@@ -242,5 +239,3 @@ Außerdem möchten wir natürlich wachsen und noch weiter raus gehen in die Läd
 - Den Lebenshof El Kotti [findet Ihr hier](https://vegablum.de/partner/lebenshof-el-kotti).
 - Das Tier Refugium Wegberg [findet Ihr hier](https://www.tier-refugium.de/).
 - [Hier geht es](https://vegablum.de) zur Vegablum Homepage.
-
-<FestivalList />
