@@ -199,7 +199,7 @@ besser als üblich auf der Haut verteilt."
 </small>
 
 <Gallery
-images={\[
+images={[
 {
 mediumUrl:
 'https://storage.googleapis.com/cardamonchai-images/2014_08_img_1687__m.jpg',
@@ -212,7 +212,7 @@ mediumUrl:
 largeUrl:
 'https://storage.googleapis.com/cardamonchai-images/2014_08_img_1703__l.jpg',
 },
-\]}
+]}
 />
 
 Toll finde ich auch die Seifenschale aus Luffa:
