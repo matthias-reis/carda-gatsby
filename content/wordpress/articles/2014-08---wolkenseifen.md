@@ -228,7 +228,7 @@ kommen: nämlich beim Reinigen des Waschbeckens."
 Mal was wirklich Innovatives, finde ich, und sie ist hübsch anzuschauen. Für meine Haarseife habe ich mir eine Schale aus unbehandeltem Naturstein aus der Region Troja in der Türkei gegönnt.
 
 <Gallery
-images={\[
+images={[
 {
 mediumUrl:
 'https://storage.googleapis.com/cardamonchai-images/2014_08_img_1694__m.jpg',
@@ -247,7 +247,7 @@ mediumUrl:
 largeUrl:
 'https://storage.googleapis.com/cardamonchai-images/2014_08_img_1688__l.jpg',
 },
-\]}
+]}
 />
 
 Ein kleines Bisschen Lavendelluxus durfte für mich natürlich auch nicht fehlen: Ein pulverförmiges Schaumbad in der hübschesten Schaumbaddose, die ich jemals gesehen habe:
