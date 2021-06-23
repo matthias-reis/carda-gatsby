@@ -1,33 +1,36 @@
 ---
-date: 2019-02-08T14:03:11.000Z
+date: 2019-02-08T14:03:11.000+00:00
 slug: happy-cashew
-path: /2019/02/happy-cashew/
+path: "/2019/02/happy-cashew/"
 type: Artikel
 typeName: Produkttest
 title: Happy Cashew
 seoTitle: Happy Cashew - "Wir legen Wert auf traditionelles Handwerk"
 ogTitle: Happy Cashew - "Wir legen Wert auf traditionelles Handwerk"
-description: Heute möchte ich Euch die veganen Käse-, Joghurt- und Buttermilch-Alternativen von "Happy Cashew" vorstellen. Hier kommt mein Produkttest.
-excerpt: Werbung - Heute möchte ich Euch die Käse-, Joghurt- und Buttermilch-Alternativen von "Happy Cashew" vorstellen. Ich habe sie selbst geteset und einiges über den Hersteller in Erfahrung gebracht.
+description: Heute möchte ich Euch die veganen Käse-, Joghurt- und Buttermilch-Alternativen
+  von "Happy Cashew" vorstellen. Hier kommt mein Produkttest.
+excerpt: Heute möchte ich Euch die Käse-, Joghurt- und Buttermilch-Alternativen von
+  "Happy Cashew" vorstellen. Ich habe sie selbst geteset und einiges über den Hersteller
+  in Erfahrung gebracht.
 fileName: 2019-02---happy-cashew.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBggH/8QAKhAAAgEDBAIABAcAAAAAAAAAAQIDBAURABIhMQYTByJRcRQyM2FygbH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EACARAAICAQQDAQAAAAAAAAAAAAECABEDBBIhMSIykdH/2gAMAwEAAhEDEQA/AKGvwSvlMriW52Qzqm8QJLKXf6BcxgZODgZ1W7d4rd66phghoZEeRZCPdE4X5Ad3IGexjPWdaEr/ACqAUdJc6Gro6r1pDK1KzL7dmwligPI5w3XP9akeB+TWryJqhqSWSiSGihpYlnbbvVnZpmxk8Fxjk57/AG0uzkbass0+pTEpFAsZxy7/AAbvFJaKq4LcbRUxU0DTyJT+9mwFLEDMYGeMffvXJa2imiyZKaeP+cLL/o1tDx281lG8kNzpxHLLUxwxmObKtH7P1Dj8uB0MknPONM8ouEVOaprpLJ+EdWdt08hUjHSjd3x19+tdfIcQBycX1fH39krqym2ExnSVrIEaN3jdRwykgjUyCvlU59zqduwbPlwPpxo0abQmR2Q7lNGOW6ujKfZKSvI+c8aVWeR13rKxV1Yi4I2+5iOe+CdGjQuiv7C4LeXc/9k=
-ogImage: null
+ogImage: 
 labels:
-  - Buttermilch-Alternativen
-  - Camembert vegan
-  - Ernährung
-  - Ernährung & Gesundheit
-  - Happy Cashew
-  - Happy Cheeze
-  - Joghurt-Alternativen
-  - Käse-Alternativen
-  - vegan schlemmen
-  - vegane Ernährung
-  - vegane Lebensmittel
-  - veganer Käse
-  - veganforfat
+- Buttermilch-Alternativen
+- Camembert vegan
+- Ernährung
+- Ernährung & Gesundheit
+- Happy Cashew
+- Happy Cheeze
+- Joghurt-Alternativen
+- Käse-Alternativen
+- vegan schlemmen
+- vegane Ernährung
+- vegane Lebensmittel
+- veganer Käse
+- veganforfat
 focusKeyword: Happy Cashew
 status: publish
 isWerbung: false
@@ -35,10 +38,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Wir legen Wert auf traditionelles Handwerk"'
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Heute möchte ich Euch veganen die Käse-, Joghurt- und Buttermilch-Alternativen von "Happy Cashew" vorstellen. Ich habe sie selbst getestet und einiges über den Hersteller in Erfahrung gebracht.**
 
 Etwas, das aussieht, wie Camembert, so schmeckt, auf die selbe Weise hergestellt wird, aber ohne Kuhmilch auskommt - Ihr glaubt, das gibt es nicht? Bis vor Kurzem ging es mir auch noch so. Dann habe ich die "Happy Cashew" Produkte ausprobiert.
@@ -153,5 +155,3 @@ Die gereifte Version von " **Kräuter der Provence** " ist im Gegensatz zum Fris
 Wisst Ihr, was mich happy macht? Ein guter Teller leckere Pasta. Gerne mit ein paar geriebenen Cashew-Kernen und einer Prise [Hefeflocken](/2021/01/hefe-ist-vegan/) obendrauf. "Cashewsan" kommt ohne die Hefe aus und rockt meine Pasta - so gut ist das Zeug, ich sage es Euch. Und es passt perfekt zu meinen [Lieblingsnudeln](/2017/01/vollkornspaghetti-mit-radicchio-und-cashew-kernen/). Ich bin der Meinung "Cashewsan" sollte auf jeden Fall in jedem Kühlschrank stehen - von mir bekommt Ihr also auch dafür eine glatte Empfehlung.
 
 Für uns sind die "Happy Cashew" Produkte eine tolle Bereicherung für den Speiseplan. Ich würde mich freuen, wenn sie schon sehr bald flächendeckend überall zu bekommen wären. Bis dahin decke ich mich direkt über die [Webseite](https://www.happy-cheeze.com/unser-gesamtsortiment) ein.
-
-_\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
