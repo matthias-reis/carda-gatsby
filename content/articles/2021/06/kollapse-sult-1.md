@@ -3,7 +3,7 @@ date: 2021-06-23T16:52:46.378Z
 slug: kollapse-sult-en
 typeName: Review
 title: Kollapse – "Sult"
-subTitle: Sludge/Post-Metal sound from Denmark
+subTitle: Sludge/Post-Metal Sound From Denmark
 seoTitle: Kollapse – "Sult" – Sludge/Post-Metal sound from Denmark
 description: Kollapse are back. Four years after their debut album "Angst", the
   sludge/post-metal group from Aalborg, Danmark will release their second
