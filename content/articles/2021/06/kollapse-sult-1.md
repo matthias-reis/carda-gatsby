@@ -1,6 +1,6 @@
 ---
 date: 2021-06-23T16:52:46.378Z
-slug: kollapse-sult
+slug: kollapse-sult-en
 typeName: Review
 title: Kollapse – "Sult"
 subTitle: Sludge/Post-Metal sound from Denmark
