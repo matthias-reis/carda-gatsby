@@ -33,7 +33,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Ein Buch für Vegan-Einsteiger
-advertisement: true
+advertisement: false
+affiliate: true
 
 ---
 **"So geht vegan" von Patrick Bolk hebt sich in einem Punkt von sehr vielen anderen Büchern und Veröffentlichungen des Genres ab: Es ist sehr positiv geschrieben. Bolk ist schon sehr viel weiter, als einige andere Vertreter der Szene. Bei ihm ist der Veganismus bereits in der Mitte der Gesellschaft angekommen.**

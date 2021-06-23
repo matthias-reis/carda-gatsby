@@ -32,7 +32,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Internationale Küche statt "Traumschiff"
-advertisement: true
+advertisement: false
+affiliate: true
 
 ---
 **Marion Kracht ist eine deutsche Schauspielerin. Bekannt wurde sie u. a. mit "Wer zuletzt lacht, lacht am besten", "Aktenzeichen XY ungelöst" und "Traumschiff".**
