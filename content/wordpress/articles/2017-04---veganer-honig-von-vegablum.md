@@ -1,35 +1,37 @@
 ---
-date: 2017-04-05T14:20:14.000Z
+date: 2017-04-05T14:20:14.000+00:00
 slug: veganer-honig-vegablum
-path: /2017/04/veganer-honig-vegablum/
+path: "/2017/04/veganer-honig-vegablum/"
 type: Artikel
 typeName: Artikel
 title: Veganer "Honig" von Vegablum
 seoTitle: Veganer Honig und Met von Vegablum - Der ultimative Test
 ogTitle: Veganer Honig und Met - Vegablum - Das fleißige Blümchen aus Meerbusch
-description: Veganer Honig und Met geht nicht? Geht eben doch! Danny von Vegablum aus Meerbusch beweist das mit ihren Produkten Vonig und Vet eindrucksvoll - Produkttest
-excerpt: Werbung - Veganer Honig und Met geht nicht? Geht eben doch! Danny von Vegablum aus Meerbusch beweist das mit ihren Produkten Vonig und Vet eindrucksvoll  - Mein Produkttest
+description: Veganer Honig und Met geht nicht? Geht eben doch! Danny von Vegablum
+  aus Meerbusch beweist das mit ihren Produkten Vonig und Vet eindrucksvoll - Produkttest
+excerpt: Veganer Honig und Met geht nicht? Geht eben doch! Danny von Vegablum aus
+  Meerbusch beweist das mit ihren Produkten Vonig und Vet eindrucksvoll  - Mein Produkttest
 fileName: 2017-04---veganer-honig-von-vegablum.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33012977454_189f4d92a2_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33012977454_189f4d92a2_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACoQAAEDBAICAAQHAAAAAAAAAAECAwQABRESBiETMQdBUWEUFSIlMkJx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMFBv/EACMRAAICAgECBwAAAAAAAAAAAAECAxEAEiExwTJBUXGBkaH/2gAMAwEAAhEDEQA/AH+N8UeIzJ6XY17ZLymSygfh3nSFqIwcaeqWL/aOQIfcYkc3u61pK06sRVNIGSexjGDVgiSrS3LMKPHT520hburIHjB9bY9E/IHs/TFQ/kHJP3IoJjvNocXsuO82olP9U6lQIPvOceqjO9UAcUcmvQYuv8evi1Hflt0UlavGdnXVbnJyNSoA5+lSfmHErrCuUhLEKc/GQoavLaOXOu1dDHf2qtPcmjNvts6fqJPt1tOoIIxjYnNV6wc94hPs9vtv5jFMtuM02WFgNlR1AIBWACQaUUhsgtidKXfWh65iWiKbJFJhT7khSMrUQ8kBSj2TjTHeP9+9J1q49aeUceizbzDS/cbi87Icl9JcypxXWQBkACiiufSRhGTfmO+YokZVJU0bHfM7kvw3gWdy6sQZj7a4yVFJCUhCwEhWFJxk59e6TIMONc7EidHZRAWw94yhj+JUADsM9g9/MmiiquxAlo+FgB+/fzlTK77bMTR4598//9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33012977454_189f4d92a2_z__l.jpg
 labels:
-  - crueltyfree
-  - Daniela Nowak
-  - Ernährung
-  - Ernährung & Gesundheit
-  - govegan
-  - Hamburg
-  - Honig vegan
-  - Meerbusch
-  - Vegablum
-  - vegan
-  - vegane Ernährung
-  - veganer Honig
-  - veganer Met
-  - Vet
-  - Vonig
+- crueltyfree
+- Daniela Nowak
+- Ernährung
+- Ernährung & Gesundheit
+- govegan
+- Hamburg
+- Honig vegan
+- Meerbusch
+- Vegablum
+- vegan
+- vegane Ernährung
+- veganer Honig
+- veganer Met
+- Vet
+- Vonig
 focusKeyword: Veganer Honig
 status: publish
 isWerbung: false
@@ -37,18 +39,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Das fleißige Blümchen aus Meerbusch
+advertisement: true
+
 ---
-
-Werbung\*
-
-<RemoteImage
-  alt={`Veganer Honig`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33815275706_00eb7e2b15_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33815275706_00eb7e2b15_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABYDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAj/xAAqEAACAQMDBAAGAwEAAAAAAAABAgQDBREABiESEzFBBxUiMkJxI1Fhsf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAIhEAAgEDAwUBAAAAAAAAAAAAAQIDAAQRITFBBRIiYXHw/9oADAMBAAIRAxEAPwDbv+uIOyrhKFNWKUyq5bp6T9QyM+cYPHvUu2FNnWa93GtOsV3rRZUQ0HorEY9TVPHlOByT/uRqnUrP8P7fWovcp1OZLGCr3K6tJfnIzhX6R7zxpJJu4rVGpx1ppTkP2wSGY9tRwATzj+jwRol5dxQMHZfI80yy6dJdAhcaVGrzXi/Nq7wlodo4H3k8j9jzo10O3wx2g8WPIkWmmj1aauzGq6AsRk/lo0hWDAGjGIg4rLfrnsmhcJ8ObYpFS8OT3K9FlCI7DyoAzwfRHOnQnbQ2xFeSNxyVudGmetYydtqoKo5ILLkDHSc5940nvm25Mm+/OrPKitXJV2jzVbtsygcgr+hwQRqXXmy3WDKq1b3aJqI2euTHoirTPB8MDgDx5xgetBdn7yzxghdQRvzVe3SAxhVkILbg7fPlPd4bv23f5iXKzteKN0ZVSpIucgENTA+36gRnOCCPWeBo1FmD0T/JTGPA/H/mjTMZoRkA0UjH71X/2Q=="
-/>
-
 **Ein paar von Euch können sich vielleicht noch an meinen [Honigartikel](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) erinnern. Darin erklärte ich unter anderem, wie der Honig ins Glas kommt und warum er normalerweise nicht vegan ist.**
 
 Auch ein kleines Rezept, mit dem man zu Hause ganz hemdsärmelig selbst so etwas wie Honigersatz herstellen kann, kam darin vor. Das hat Euch noch nicht gereicht? Dann habe ich jetzt was ganz Besonderes für Euch.
@@ -251,7 +244,3 @@ Ich plane im Moment ein großes Interview mit Danny. Sobald es fertig ist, wird 
     },
   ]}
 />
-
-<FestivalList />
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

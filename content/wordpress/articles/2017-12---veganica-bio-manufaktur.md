@@ -1,21 +1,23 @@
 ---
-date: 2017-12-02T18:55:38.000Z
+date: 2017-12-02T18:55:38.000+00:00
 slug: veganica-biomanufaktur-crowdfunding
-path: /2017/12/veganica-biomanufaktur-crowdfunding/
+path: "/2017/12/veganica-biomanufaktur-crowdfunding/"
 type: Artikel
 typeName: Artikel
 title: Veganica Bio Manufaktur
 seoTitle: Unterstützt die Veganica Biomanufaktur bis zum 15.12. - Neues veganes Crowdfunding!
 ogTitle: Unterstützt die Veganica Biomanufaktur bis zum 15.12. - Neues veganes Crowdfunding!
-description: Wenn Ihr bis zum 15.12. die Veganica Biomanufaktur unterstützt, könnt ihr geniale Aufstriche und andere schöne Dinge abstauben! Worauf wartet Ihr?
-excerpt: Wenn Ihr bis zum 15.12. die Veganica Biomanufaktur unterstützt, könnt ihr geniale Aufstriche und andere schöne Dinge abstauben! Worauf wartet Ihr?
+description: Wenn Ihr bis zum 15.12. die Veganica Biomanufaktur unterstützt, könnt
+  ihr geniale Aufstriche und andere schöne Dinge abstauben! Worauf wartet Ihr?
+excerpt: Wenn Ihr bis zum 15.12. die Veganica Biomanufaktur unterstützt, könnt ihr
+  geniale Aufstriche und andere schöne Dinge abstauben! Worauf wartet Ihr?
 fileName: 2017-12---veganica-bio-manufaktur.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Andre-und-Nicole__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Andre-und-Nicole__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAmEAACAgIBBAIDAAMAAAAAAAABAgMEBREABhIhMRMiBxRBFVGC/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMAAv/EACIRAAICAQMEAwAAAAAAAAAAAAECAAMRBAUhEiMxcUOR8P/aAAwDAQACEQMRAD8A3+tqj52ri3u5alVvVf2O/cYVT3gKngsNaCgn3vfFTp44zou7TfMWWt2KLM1m1BM7LcIJCoIS+iEJVvCjTIp3544/k69lMVja0+AxE+UsPOY5I442kVB2HXcFBPkkH/nW/PInmMf1DHKL/U9SzFZkBYGQALGN+tKT2Df8OjzjUpxgR+20Law6yOf33LnN+Sjnem8nF0k4q9QRCMRJfVfqjMFaZVBPd2jfjzo62OM3RORnhxVqLM52XI2o5/jM1sJGdhVDBQFX678j379nnLeFnhr9VY+5PZSIVz3q7RllkYeRGdeQGI0SN6/0fXKngspFdtYlP8zHYlkytozRwKTBJHJXEqqux9VRh2j+7B374FtPmssIvUqlNprA9TKw9U5Cst/LXLSWDLNHY/Tcp+xokqSd6GgwHr+cyeskEdJZo7E6uqCA9oCfKng/fXgnYB9exw4cwJRyq+MydJL2o7HJ4k/vN8MItSL8xiKSFXPhtEHXHboPJfBexYx1CrViS1aidSxkMimP+k62QfXrxw4cT8Tyu4jvp6n/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Veganica__l.jpg
 labels:
-  - Ernährung & Gesundheit
+- Ernährung & Gesundheit
 focusKeyword: Veganica Biomanufaktur
 status: publish
 isWerbung: false
@@ -23,8 +25,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Neues Crowdfunding
----
+advertisement: true
 
+---
 **Könnt Ihr Euch noch an [Vegablum](/2017/04/veganer-honig-vegablum/) erinnern? Vor einiger Zeit hatte ich die Hersteller veganen Honigs hier im Blog vorgestellt. Auf ihrem Profil weisen sie jetzt auf ihre Freunde von der Veganica Bio Manufaktur hin. Auch sie haben was Leckeres für Euch und gerade ein Crowdfundig\* am laufen!**
 
 <RemoteImage
