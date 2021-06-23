@@ -5,8 +5,8 @@ export default {
     title: 'Cardamonchai.com',
     description: "Rock'n'Roll vegan.",
     // will be changed when we go live
-    siteUrl: `https://cardamonchai.amreis.de`,
-    // siteUrl: `https://cardamonchai.com`,
+    // siteUrl: `https://cardamonchai.amreis.de`,
+    siteUrl: `https://cardamonchai.com`,
   },
   flags: {
     DEV_SSR: false,
