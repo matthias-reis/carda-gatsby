@@ -1,30 +1,32 @@
 ---
-date: 2016-12-05T15:34:53.000Z
+date: 2016-12-05T15:34:53.000+00:00
 slug: all-glamour-no-guts-schmuck-fuer-veganer
-path: /2016/12/all-glamour-no-guts-schmuck-fuer-veganer/
+path: "/2016/12/all-glamour-no-guts-schmuck-fuer-veganer/"
 type: Artikel
 typeName: Artikel
 title: All Glamour No Guts
 seoTitle: All Glamour No Guts - Schmuck & Accessoires von Veganern für Veganer
 ogTitle: All Glamour No Guts - Schmuck & Accessoires von Veganern für Veganer
-description: All Glamour No Guts - Das ist Schmuck von Veganern für Veganer, made in Norwich, England. Für die Auswahl der Materialien lässt sich Gründerin Lou Zeit.
-excerpt: Werbung - All Glamour No Guts - Das ist Schmuck von Veganern für Veganer, made in Norwich, England. Für die Auswahl der Materialien lässt sich Gründerin Lou Zeit.
+description: All Glamour No Guts - Das ist Schmuck von Veganern für Veganer, made
+  in Norwich, England. Für die Auswahl der Materialien lässt sich Gründerin Lou Zeit.
+excerpt: All Glamour No Guts - Das ist Schmuck von Veganern für Veganer, made in Norwich,
+  England. Für die Auswahl der Materialien lässt sich Gründerin Lou Zeit.
 fileName: 2016-12---all-glamour-no-guts.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_12_31419044895_0e7f7c8618_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_12_31419044895_0e7f7c8618_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcDBQYI/8QAKxAAAgEDBAECBQUBAAAAAAAAAQIDBAURAAYSITETQSJRYXGBBxQVIzKC/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAIhEAAgICAQMFAAAAAAAAAAAAAQIAEQMEIRIiUTFBYYHR/9oADAMBAAIRAxEAPwDabf2Rtz0TUwR10oljETGWqftVJPHAxjsnxrQUO2bNQ03pW+2UsTJG3pl0LnIBIyWJJ7+usPvatmpLzNHRVTRU7MJEWCRl4n3B7wTyB9vvoKzQbhqkKW+erV5on4yT1JAYe7BWPxAZx8I/Opyb6sxTpNg1xzMU3irlVu/iDbha026Kum3XRXKaGeujaCGmpPUVoHGQ6/LD5Ud+VIGhdu3rZ13ujUNNSM0g5NCK0PHyXx4VcFh176K39uG4z2iK2C2U9TcbXH6s0UcxJf05A2U6HIL0QMgkMflpSrc5YLzDVXe3XaF4qZhTwSYRivDigweOFzyJIHlvtpvtcqZNnPl7SfUAfU6B3lxrYblJbrXB/JwygzMh/sRMfBKowSVP0xhl0qair/bR1bvKQ7Bi0UTEO488CclyucdEkacVOILtRW+uk5xztAk0c0EhSSMsoJCsO8d+PB1HNtWz11yhuF1E1wqolKg1LKQy4IwwAHIDORnxjRm1mZj3UvgfslZMDMeGoeJQbatlRParPWXEEyXNno+TkkxxSQER4z7c4wf+tUf6k7YuW4as3SjeNrhR0xFXSyY9TCjOUAGWHkqe8jAyMEaZj01NTWylo6CIRQ0skUkEUZ/zwkDBRnPXkfnRt1pKOtYLV00M4QniZEBK/Y+2l0IsOwqf/9k=
-ogImage: null
+ogImage: 
 labels:
-  - All Glamour No Guts
-  - England
-  - Fair Fashion & Beauty
-  - govegan
-  - Hamburg
-  - Hillside Animal Sanctuary
-  - Kette Vegan
-  - Norwich
-  - vegan
-  - veganer Schmuck
+- All Glamour No Guts
+- England
+- Fair Fashion & Beauty
+- govegan
+- Hamburg
+- Hillside Animal Sanctuary
+- Kette Vegan
+- Norwich
+- vegan
+- veganer Schmuck
 focusKeyword: All Glamour No Guts
 status: publish
 isWerbung: false
@@ -32,18 +34,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Schmuck und Accessoires von Veganern für Veganer
+advertisement: true
+
 ---
-
-Werbung\*
-
-<RemoteImage
-  alt={`All Glamour No Guts`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_All-Glamour-No-Guts-1-von-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_All-Glamour-No-Guts-1-von-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABAcCBQb/xAAuEAACAQMDAQUHBQAAAAAAAAABAgMEBREAEiEGBxNBgZEUIjEyUWFxJmJyoeH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AYtppt+PpoPryOlMFvo68K1vln31K4JyqKzgceBYD01dWgqEXUOprfRVlKZqynSpEalTE4yGU8Nx+OfLQLvrTp/omqtUO2GGOSpXdBJTZDn9w/wB/GiOxxP0jPb5pWma31s0CMwxlMhlx6njUOoZrOITHUUVDNS0cSpTQ/H4MTnbgbRz4/TRfZLvW03WoqI1jlqap5mQfBeOD5jHpoKWbtJWgtNGlNCJ7k9PG8rSq0cKMyjgfUnOQuQMY51jrp2jdQ3SCeD2xURpO7FNHCIncDBYFh4cHjS7rbmKaBaWHejF1aRxKWViMYz/XpomeqeGKmirVDgB5TLH84yDznz0Dv6ttLV9va5y1E5t4h70RjAwpXd8w59dY3pTtJe1Ujw18BqgAsZlSYB9v8ce+R5caL6w6tSHs1tVmgnmesqIY6apPdkHYqBmGfv7oyPDOlYtRt9gYwiGNgVMmOTn76D//2Q=="
-/>
-
 **Schon eine gefühlte Ewigkeit folge ich All Glamour No Guts auf Instagram. Der vegane Bekleidungs- und Accessoire-Hersteller mit Sitz in Norwich, England ist ein echter Kult-Stern am veganen Modehimmel. Gründerin Lou setzt sich für Rechte der Tiere ein. Vom Schmuck bis zur Homepage hat sie alles selbst entworfen.**
 
 Von Anfang an war es ihr wichtig, dass alles von **All Glamour** **No Guts** ethisch unbedenklich ist. Dafür steckt sie auch gerne mal mehrere Stunden Forschungsarbeit in ein neues Produkt, um wirklich zu 100 Prozent sicher gehen zu können. Sweatshops kommen für sie nicht in Frage, alles ist komplett vegan und fair. Von den Ketten, über die verwendete Tinte und die Sticker bis hin zu den Stoffen.
@@ -116,5 +109,3 @@ Von mir bekommt Ihr ganz klar eine Kaufempfehlung. Ich meine, schaut Euch doch m
     },
   ]}
 />
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst.  In diesem Fall habe ich die Produkte sogar selbst erworben. Infos zum Thema Werbung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
