@@ -1,49 +1,51 @@
 ---
-date: 2018-01-16T11:14:34.000Z
+date: 2018-01-16T11:14:34.000+00:00
 slug: kokku-veganshop
-path: /2018/01/kokku-veganshop/
+path: "/2018/01/kokku-veganshop/"
 type: Artikel
 typeName: Artikel
 title: 'Ausgepackt: Kokku Veganshop'
 seoTitle: 'Ausgepackt: Kokku Veganshop - Vegane Leckerein frei Haus'
 ogTitle: 'Ausgepackt: Kokku Veganshop - Vegane Leckerein frei Haus'
-description: Was gibt es Tolleres, als leckere Sachen zu probieren, die man noch nicht kennt? Ich habe mich über mein Testpaket von Kokku wie verrückt gefreut.
-excerpt: Werbung - Was gibt es Tolleres, als leckere Sachen zu probieren, die man noch nicht kennt? Ich habe das getan und mich über mein Testpaket von Kokku wie verrückt gefreut.
+description: Was gibt es Tolleres, als leckere Sachen zu probieren, die man noch nicht
+  kennt? Ich habe mich über mein Testpaket von Kokku wie verrückt gefreut.
+excerpt: Was gibt es Tolleres, als leckere Sachen zu probieren, die man noch nicht
+  kennt? Ich habe das getan und mich über mein Testpaket von Kokku wie verrückt gefreut.
 fileName: 2018-01---ausgepackt-kokku-veganshop.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38965281314_6008228888_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38965281314_6008228888_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgMECP/EAC0QAAIBAwIFAgQHAAAAAAAAAAECAwQFEQASBgcTITEiQRQVI6EyM0JRUpGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAdEQACAgMAAwAAAAAAAAAAAAABAgARAxIhIjFx/9oADAMBAAIRAxEAPwDnagpOvPDCrKGldUBY4AJIAz/em/wjy3sho7q3FaVsstNMYdlJWCLogKuWPoO7JcAf5pVcLQdW6RI9BNXIfxJDGzyIP5KB7g489tOy1/Ooy8L2S5NBXVMMkxuFZHG7ncq/lAFyMBc4x20mY5K8I6LjC7sw+dlOufLKitF34fhu9yo6Wkqah456tpiq9NSWAywHqKkKGxtyc51Oc8ODYbfaoLrbbdRw00SIk7iZVeMA7E2r23hu37nsT76meObNLXQ0NrrLNRyWySY1U09DUje3ThykSFlGw7XAAPgDSj5lXG5NxFcLRJc7hUW2kkijjhqZsgdOIIhKD0hgvbI7+c99ZiO3uGemaxXOcmDgOvNBe+r9Yp0JN6xSBCwC5xkgj7ascPNWejr1q7RaIaMQkqzGrmedl27Sol3Ap2H6QMfbRo1bUMaM5dF32rs1uMuY9x4qpaKCM1VHRU0nxEcJquoVlII3Bwqn3PnJ7nJOqLUSM7vI5LSOxZmY5LE+SSfJ0aNCqFFCUuf/2Q==
-ogImage: null
+ogImage: 
 labels:
-  - auspacken
-  - Berberitze
-  - bestellen
-  - Dresden
-  - Ernährung & Gesundheit
-  - From Bean To Bar
-  - Hamburg
-  - Heißer Hirsch
-  - Jackfruit
-  - Kokku
-  - Low Carb
-  - Mandel
-  - n+cao
-  - Nougat
-  - Onlineshop
-  - Österreich
-  - Packet
-  - plastikfrei
-  - Protein
-  - Pumpin Panda
-  - Schokolade
-  - Süßigkeiten
-  - Umwelt
-  - Umweltschutz
-  - unboxing
-  - vegan
-  - vegane Lebensmittel
-  - vegane Lebensmittel bestellen
-  - Veganshop
+- auspacken
+- Berberitze
+- bestellen
+- Dresden
+- Ernährung & Gesundheit
+- From Bean To Bar
+- Hamburg
+- Heißer Hirsch
+- Jackfruit
+- Kokku
+- Low Carb
+- Mandel
+- n+cao
+- Nougat
+- Onlineshop
+- Österreich
+- Packet
+- plastikfrei
+- Protein
+- Pumpin Panda
+- Schokolade
+- Süßigkeiten
+- Umwelt
+- Umweltschutz
+- unboxing
+- vegan
+- vegane Lebensmittel
+- vegane Lebensmittel bestellen
+- Veganshop
 focusKeyword: Kokku
 status: publish
 isWerbung: false
@@ -51,10 +53,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Vegane Leckereien frei Haus
+advertisement: true
+
 ---
-
-Werbung\*
-
 **Was gibt es Tolleres, als leckere Sachen zu probieren, die man noch nicht kennt? Ich habe das getan und mich auf mein Testpaket von Kokku wie verrückt gefreut. Als es dann eintraf war ich überwältigt, von so vielen veganen Leckereien.**
 
 Schon kurze Zeit nach meiner Bestellung traf das Paket bei mir ein. Der Versand war wirklich blitzschnell. Alles war gut verpackt, auf unnötiges Plastik war jedoch komplett verzichtet worden. Dafür gibt es von mir schon mal einen Bonuspunkt.
@@ -178,5 +179,3 @@ Kokku ist in Dresden ansässig. Das Lager sowie die Station für Selbstabholer b
 Volle Punktzahl also. Ich wünsche Euch viel Spaß beim Shoppen! Berichtet mal, was Ihr Euch gegönnt habt!
 
 Zum Onlineshop von Kokku [geht es hier entlang](https://kokku-online.de).
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
