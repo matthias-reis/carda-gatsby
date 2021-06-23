@@ -1,31 +1,34 @@
 ---
-date: 2018-08-14T15:47:23.000Z
+date: 2018-08-14T15:47:23.000+00:00
 slug: batterien-aus-papier
-path: /2018/08/batterien-aus-papier/
+path: "/2018/08/batterien-aus-papier/"
 type: Artikel
 typeName: Artikel
 title: Kompostierbare Batterien aus Papier
 seoTitle: Kompostierbare Batterien aus Papier - Nachhaltige Entwicklung
 ogTitle: Kompostierbare Batterien aus Papier - Nachhaltige Entwicklung
-description: 'Forscher aus den USA haben Batterien aus Papier entwickelt. Der Clou: Sie können sich im Wasser vollständig auflösen und sind vollkommen ungiftig.'
-excerpt: 'Anzeige & Affiliate Link - Forscher aus den USA haben Batterien aus Papier entwickelt. Der Clou: Sie können sich im Wasser vollständig auflösen und sind vollkommen ungiftig.'
+description: 'Forscher aus den USA haben Batterien aus Papier entwickelt. Der Clou:
+  Sie können sich im Wasser vollständig auflösen und sind vollkommen ungiftig.'
+excerpt: 'Anzeige & Affiliate Link - Forscher aus den USA haben Batterien aus Papier
+  entwickelt. Der Clou: Sie können sich im Wasser vollständig auflösen und sind vollkommen
+  ungiftig.'
 fileName: 2018-08---kompostierbare-batterien-aus-papier.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_canvas-1340211_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_canvas-1340211_640__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIFBgcIA//EACgQAAIBAwQBBAEFAAAAAAAAAAECAwQFEQAGITESBxMiQWEIMlFxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAaEQADAQADAAAAAAAAAAAAAAAAAQIRITFB/9oADAMBAAIRAxEAPwDQNFtSjSBA0ShgM5A01X2s25tumWmr4ad1HHgy4UHvGAOT0dT3641lr9Q1l3BNffdoKeeqiQuzwwgs/gzlkkCjllwSpx0V5+tPW3hpL3svWwX2w7iAFNHACx8Q0fHy7weAQf4z3pN9sULQsVQcEDJGPxqivQW0XymuOa+nqKV6qSIQwTAq/gjh3lKnlVAGATjJbjWmq1fdUqOvyONOaynI6SzRopb7J4nMQP3+7UF9W90LSW+lmkt0E5jmCjzbnDA9HHHQ0aNVXC0j067FvixW5ZqegpoJJ8M7RjBb+z2f9OpHcdwTCBgIgMjn5aNGiUDbP//Z
-ogImage: null
+ogImage: 
 labels:
-  - Batterien
-  - Batterien aus Papier
-  - Forschung
-  - Klima- & Umweltschutz
-  - Kompost
-  - less waste
-  - Papier
-  - Recycling
-  - Umweltschutz
-  - Zero Waste
-  - zerowaste
+- Batterien
+- Batterien aus Papier
+- Forschung
+- Klima- & Umweltschutz
+- Kompost
+- less waste
+- Papier
+- Recycling
+- Umweltschutz
+- Zero Waste
+- zerowaste
 focusKeyword: Batterien aus Papier
 status: publish
 isWerbung: false
@@ -34,10 +37,10 @@ language: de
 errors:
   outsideImage: article has at least one image that could not be found
 subTitle: Nachhaltige Entwicklung endlich da
+advertisement: true
+affiliate: true
+
 ---
-
-_Anzeige &amp; Affiliate Links\*_
-
 **Fernbedienungen, Taschenlampen, Hörgeräte, Handys, Uhren, Radios: Für alles braucht man Batterien. Diese belasten irgendwann die Umwelt. Egal, ob Einwegzelle oder Akku. Das Material ist hochgiftig und wird meist unter schlimmen Arbeitsbedingungen in großen Minen abgebaut. Die Vereinten Nationen warnten bereits vor immer bedenklicher werdenden Umständen.**
 
 Einem Team der Universität im Amerikanischen Binghamton gelang es jetzt, umweltfreundliche Batterien zu entwickeln. Das Material: [Papier](https://www.adcell.de/promotion/click/promoId/169185/slotId/80259?param0=https%3A%2F%2Fmargreblue.de%2Fprodukt-kategorie%2Faccessoires-aus-recycelten-papier%2F) ! Es wird mit künstlich hergestellten Polymeren gemischt. Wenn die Batterien keine Leistung mehr bringen, können sie theoretisch im Wasser entsorgt werden. Sie sind vollständig biologisch abbaubar und das ohne den Zusatz von Molekülen oder anderen Hilfsmitteln.
@@ -59,5 +62,3 @@ Nach wie vor offen ist, ob die nachhaltigen Batterien auf den Markt gebracht wer
 [Tolle Accessoires aus recyceltem Papier](https://www.adcell.de/promotion/click/promoId/169185/slotId/80259?param0=https%3A%2F%2Fmargreblue.de%2Fprodukt-kategorie%2Faccessoires-aus-recycelten-papier%2F) ](https://www.adcell.de/promotion/click/promoId/169217/slotId/80259/subId/httpsmargreblue.deprodukt-kategorieaccessoires-aus-recycelten-papier)
 
 **Quelle:** Pressetext.com **Titelbild** : [andreas160578](https://pixabay.com/de/users/andreas160578-2383079/), pixabay
-
-\*Hinweis: Dieser Beitrag enthält eine Anzeige und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
