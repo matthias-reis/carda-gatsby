@@ -69,7 +69,12 @@ collections:
         }
       - { label: 'Text', name: 'body', widget: 'markdown' }
       - { label: 'Hauptbild', name: 'image', widget: image }
-      - { label: 'Copyright Hauptbild', name: 'copyrigt', widget: text }
+      - {
+          label: 'Copyright Hauptbild',
+          name: 'copyrigt',
+          widget: text,
+          required: false,
+        }
       - { label: 'Social Media Bild', name: 'ogImage', widget: image }
       - { label: 'Labels', name: 'labels', widget: 'list' }
       - {
@@ -160,7 +165,12 @@ collections:
         }
       - { label: 'Text', name: 'body', widget: 'markdown' }
       - { label: 'Hauptbild', name: 'image', widget: image, required: false }
-      - { label: 'Copyright Hauptbild', name: 'copyrigt', widget: text }
+      - {
+          label: 'Copyright Hauptbild',
+          name: 'copyrigt',
+          widget: text,
+          required: false,
+        }
       - {
           label: 'Social Media Bild',
           name: 'ogImage',
