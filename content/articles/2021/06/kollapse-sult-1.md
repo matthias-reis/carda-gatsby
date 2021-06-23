@@ -38,7 +38,7 @@ languageLink: /2021/06/kollapse-sult
 
 Because I had the honour to listen to the album already, I'll try to summarise my impressions a bit here for you. Maybe this article will develop into a music tip at one point. But let's see.
 
-### Kollapse is now a trio
+## Kollapse is now a trio
 
 ![Kollapse – "Sult"](/img/kollapse-1-.jpg "Kollapse – \\"Sult\\"")
 
@@ -48,7 +48,7 @@ The fact that the last few years (so they say) have been a hard time for the ban
 
 After two members left Kollapse one after the other, the remaining three searched for meaning. Recently, they reformed as a strong trio. They used last summer to record their second record. Lucas Illanes joined them for their recording sessions and produced and mixed the album. James Plotkin did the mastering.
 
-### The ingenious noise of the last century
+## The ingenious noise of the last century
 
 For "Sult", the three have clearly found some inspiration in the noise rock of the 1990s. It rattles and crashes – and that's a damn good thing! Post-hardcore borrowings and the usual sludge-inspired post-metal style do the rest and provide pleasantly crass dissonances. It is precisely how music has to sound.
 
@@ -56,7 +56,7 @@ Kollapse bring the ingenious noise of the last century into our times. At the sa
 
 With their sound, the Danes blow up all the tiny little boxes into which one could try to put them. They are leaving behind a clear signature which you can only assign to them. The style is unique, unwieldy and impressive.
 
-### Kollapse don't fit into a box
+## Kollapse don't fit into a box
 
 The first track, "Drift", blows all petty fuses right at the beginning and shows us the way into a dark, brooding world. The always recognisable concept of the record also conjures up some beautiful shadows from the prog world. It appears again and again between the individual chords only to disappear again afterwards.
 
@@ -64,7 +64,7 @@ The second song, "Knæler", seems almost more powerful than its predecessor and 
 
 "Byrd" begins driving and panicked. Will we find a way to stop fate, or will it go on and on through the darkness? The screamed lyrics hang over the song like a dark heavy cloud, unloading in waves. I'm not sure yet, but I think this might be my favourite track on "Sult".
 
-### An aggressive dance
+## An aggressive dance
 
 ![Kollapse](/img/kollapse-2-.jpg "Kollapse")
 
@@ -76,6 +76,6 @@ With a total playing time of 41 minutes, the record is certainly not the longest
 
 By the way, the incredibly creepy and, at the same time, genius cover picture was painted by Gina Skwoz.
 
-### Kollapse - "Knæler"
+## Kollapse - "Knæler"
 
 <YouTube id="Zw-ljb1SuoY" />
