@@ -1,37 +1,40 @@
 ---
-date: 2020-02-01T12:49:53.000Z
+date: 2020-02-01T12:49:53.000+00:00
 slug: yoga-mit-dem-feetup-trainer
-path: /2020/02/yoga-mit-dem-feetup-trainer/
+path: "/2020/02/yoga-mit-dem-feetup-trainer/"
 type: Artikel
 typeName: Produkttest
 title: Yoga mit dem Feetup Trainer
 seoTitle: Yoga mit dem Feetup Trainer - mein Perspektivwechsel
 ogTitle: Yoga mit dem Feetup Trainer - mein Perspektivwechsel
-description: Mit dem Feetup Trainer praktiziere ich seit Kurzem beim Yoga einige für mich völlig neue Asanas. Vertraute Übungen wie der Sonnengruß wurden spannender.
-excerpt: Werbung - Mit dem Feetup Trainer praktiziere ich seit Kurzem beim Yoga einige für mich völlig neue Asanas. Vertraute Übungen wie der Sonnengruß sind damit anspruchsvoller und interessanter geworden
+description: Mit dem Feetup Trainer praktiziere ich seit Kurzem beim Yoga einige für
+  mich völlig neue Asanas. Vertraute Übungen wie der Sonnengruß wurden spannender.
+excerpt: Mit dem Feetup Trainer praktiziere ich seit Kurzem beim Yoga einige für mich
+  völlig neue Asanas. Vertraute Übungen wie der Sonnengruß sind damit anspruchsvoller
+  und interessanter geworden
 fileName: 2020-02---yoga-mit-dem-feetup-trainer.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel-1-1.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel-1-1.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,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
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Design-ohne-Titel-2.png__l.jpg
 labels:
-  - Achtsamkeit
-  - Asana
-  - Ernährung & Gesundheit
-  - Feetup
-  - Feetup Yoga
-  - Kopfstand
-  - Kopfstand Hocker
-  - Kopfstand Yoga
-  - Shirshasana
-  - Sirsasana
-  - Sirshasana
-  - veganpower
-  - Yoga
-  - Yoga Flow
-  - Yoga Kopfstand
-  - Yogini
-  - शीर्षासन śīrṣāsana
+- Achtsamkeit
+- Asana
+- Ernährung & Gesundheit
+- Feetup
+- Feetup Yoga
+- Kopfstand
+- Kopfstand Hocker
+- Kopfstand Yoga
+- Shirshasana
+- Sirsasana
+- Sirshasana
+- veganpower
+- Yoga
+- Yoga Flow
+- Yoga Kopfstand
+- Yogini
+- शीर्षासन śīrṣāsana
 focusKeyword: Feetup
 status: publish
 isWerbung: false
@@ -39,10 +42,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Mein Perspektivwechsel
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Mit dem Feetup Trainer praktiziere ich seit Kurzem beim Yoga einige für mich völlig neue Asanas. Vertraute Übungen wie der Sonnengruß sind damit anspruchsvoller und interessanter geworden.**
 
 Yoga ist für mich etwas ganz Besonderes. Es bereichert mein Leben und ich möchte nicht mehr darauf verzichten. Ich kann mich dabei entspannen und gleichzeitig Kraft aufbauen. Was mir dabei bis jetzt gefehlt hat, war die König⋆innendisziplin: Der Kopfstand. Doch seit Kurzem ist alles anders. Ich kann die Welt aus einer für mich völlig neuen Perspektive betrachten. Das mache ich nach Möglichkeit in schöner Regelmäßigkeit - einmal morgens und einmal abends. Neben dem Schulterstand, der bisher die einzige Umkehrhaltung war, die ich beim Yoga praktiziert habe, schaffe ich es jetzt, dank eines kleinen Helfers, auch in den Kopfstand.
@@ -106,5 +108,3 @@ Wenn Ihr neugierig geworden seid und gerne mehr erfahren möchtet, schaut Ihr am
 **Leser⋆innen meines Blogs erhalten bis Ende März 2020 beim Kauf eines Feetup Trainers 10 Euro Rabatt. Gebt dazu einfach den folgenden Rabattcode an: feetup8393.**
 
 Hat Euch mein Testbericht gefallen? Das freut mich sehr! Wenn Ihr gerne weiter mitfiebern wollt, [abonniert am besten meinen Newsletter](#newsletter). Ich halte Euch über neue Beiträge auf dem Laufenden!
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenfrei zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

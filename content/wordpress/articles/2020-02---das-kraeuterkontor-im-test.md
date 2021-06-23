@@ -1,38 +1,40 @@
 ---
-date: 2020-02-16T15:21:48.000Z
+date: 2020-02-16T15:21:48.000+00:00
 slug: das-kraeuterkontor-im-test
-path: /2020/02/das-kraeuterkontor-im-test/
+path: "/2020/02/das-kraeuterkontor-im-test/"
 type: Artikel
 typeName: Produkttest
 title: Das Kräuterkontor im Test
 seoTitle: Das Kräuterkontor im Test - Tee und Kräuter in Bio-Qualität
 ogTitle: Das Kräuterkontor im Test - Tee und Kräuter in Bio-Qualität
-description: Das Kräuterkontor hat Bio-Heilkräuter, Tees, Nahrungsergänzungsmittel und verschiedene Pflegeprodukte im Angebot. Ich habe das Versandhaus jetzt getestet.
-excerpt: Werbung & Affiliate Links - Das Kräuterkontor hat Bio-Heilkräuter, Tees, Nahrungsergänzungsmittel und verschiedene Pflegeprodukte im Angebot. Ich habe das Versandhaus jetzt getestet.
+description: Das Kräuterkontor hat Bio-Heilkräuter, Tees, Nahrungsergänzungsmittel
+  und verschiedene Pflegeprodukte im Angebot. Ich habe das Versandhaus jetzt getestet.
+excerpt: Das Kräuterkontor hat Bio-Heilkräuter, Tees, Nahrungsergänzungsmittel und
+  verschiedene Pflegeprodukte im Angebot. Ich habe das Versandhaus jetzt getestet.
 fileName: 2020-02---das-kraeuterkontor-im-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_2020-02-09-kraeuterkontor-4__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_2020-02-09-kraeuterkontor-4__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgj/xAAtEAABAgQFAwIGAwAAAAAAAAABAgMEBQYRABIhMUEHE2EjURQiMjNCkVJx0f/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQEC/8QAIBEAAgEDBAMAAAAAAAAAAAAAAQIAAxIhBBETMTJBYf/aAAwDAQACEQMRAD8Am0BKDnSl1GTOjOkrFsyf5DxvivdNachIiXqd+QOFQQ9dWpF/blOgtbS+H6Sg4CawDcFGQ3eQpKEtIcSMySBYZbbf1+8Pzil5rSkTDxktU496gzOApLakG10nnbg7ca64jCmyG85EqrUSqlpwfsaqinWp12IKFhe8E5syQcpsRa+bg6C2Obq2pt6STB5Lt1NqUe2vLa/gjhQ5GOsKWqaWTeDiWGCpmYMrIdYWmyioe4Oug29xqOcZTqjJoadQ7zoLfxCkXdBISHQBcHwoDUHkb4f4w63oYnyGk1jiTOhq4VT8a0uLhlRcG3dILZ9RkHS4H5AfsecX+U1xKJtJ2zBRDUVDuCxuMwJJ+kjg73HAGDBgWkqHKHqZqkAF47kQ6z1fKpDUMJDU6lSpgiy4hwK+yL3CARrqdbcW03xla66kxEZLW2k3VEPJzOJItcnlf+DQ7+MGDHXi+y+4QAMgJyRP/9k=
-ogImage: null
+ogImage: 
 labels:
-  - Albert Schweitzer Stiftung
-  - Berberitzen
-  - Biotee
-  - Chia Samen
-  - Chiasamen
-  - Ernährung & Gesundheit
-  - Griechischer Bergtee
-  - Handcreme
-  - Klettensamen
-  - Kräuter
-  - Kräuterkontor
-  - Lenz Naturkosmetik
-  - Minze
-  - Paprika edelsüß
-  - Pfefferminze
-  - Pfefferminztee
-  - Ringelblume
-  - Tee
+- Albert Schweitzer Stiftung
+- Berberitzen
+- Biotee
+- Chia Samen
+- Chiasamen
+- Ernährung & Gesundheit
+- Griechischer Bergtee
+- Handcreme
+- Klettensamen
+- Kräuter
+- Kräuterkontor
+- Lenz Naturkosmetik
+- Minze
+- Paprika edelsüß
+- Pfefferminze
+- Pfefferminztee
+- Ringelblume
+- Tee
 focusKeyword: Kräuterkontor
 status: publish
 isWerbung: false
@@ -41,10 +43,10 @@ language: de
 errors:
   outsideImage: article has at least one image that could not be found
 subTitle: Tee und Kräuter in Bio-Qualität
+advertisement: true
+affiliate: true
+
 ---
-
-_Werbung &amp; Affiliate Links\*_
-
 **Das Kräuterkontor hat Bio-Heilkräuter, Tees, Nahrungsergänzungsmittel und verschiedene Pflegeprodukte im Angebot. Ich habe das Berliner Versandhaus jetzt getestet.**
 
 Chiasamen, Paprika Edelsüß, Bio-Pfefferminztee, Griechischer Bergtee, ein Päckchen getrocknete Berberitzenbeeren sowie eine natürliche Handcreme mit Klettensamen und Ringelblume - das alles landete in meinem Warenkorb. Unmittelbar im Anschluss an meine Bestellung war auch schon die Versandbestätigung da und zwei Tage später öffnete ich das sorgsam verpackte Päckchen.
@@ -120,5 +122,3 @@ Das junge Berliner Unternehmen [Kräuterkontor](https://www.adcell.de/promotion/
 Und auch sonst wird der Natur Respekt entgegen gebracht. Alle Verpackungen bestehen aus nachwachsenden Rohstoffen. Der Strom kommt von Greenpeace Energy und als Geschäftsbank hat man sich für die faire Ökobank GLS entschiden. Der Versand erfolgt über "Go-Green". Das DHL-Projekt arbeitet mittels Ausgleichszahlungen am Ausgleich von Klimaschäden.
 
 Hat Euch mein Testbericht gefallen? Falls Ihr neugierig geworden seid, könnt Ihr gerne auch mal auf der [Homepage des Kräuterkontors](https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2F) vorbeischauen. Wenn Ihr in Zukunft nichts mehr auf meiner Seite verpassen möchtet, [abonniert am besten meinen Newsletter](#newsletter). Ich informiere Euch dann einmal pro Woche über meine aktuellsten Beiträge.
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
