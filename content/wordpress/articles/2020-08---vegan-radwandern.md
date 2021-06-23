@@ -17,7 +17,7 @@ errors: {}
 title: Vegan radwandern
 subTitle: Essen und trinken unterwegs
 focusKeyword: vegan radwandern
-affiliate: false
+affiliate: true
 status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-06-28-same-but-green-21__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-06-28-same-but-green-21__m.jpg
