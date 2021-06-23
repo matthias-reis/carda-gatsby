@@ -1,28 +1,30 @@
 ---
-date: 2015-04-17T09:05:33.000Z
+date: 2015-04-17T09:05:33.000+00:00
 slug: kracht-kocht-vegetarisch-vegan
-path: /2015/04/kracht-kocht-vegetarisch-vegan/
+path: "/2015/04/kracht-kocht-vegetarisch-vegan/"
 type: Artikel
-typeName: Rezension
+typeName: Buchtipp
 title: '"Kracht kocht vegetarisch vegan"'
 seoTitle: '"Kracht kocht" - vegane und vegetarische Küche statt "Traumschiff"'
 ogTitle: '"Kracht kocht" - vegane und vegetarische Küche statt "Traumschiff"'
-description: Marion Kracht wurde bekannt mit "Aktenzeichen XY ungelöst" und "Traumschiff". Jetzt hat sie ein vegan-vegetarisches Kochbuch veröffentlicht.
-excerpt: Affiliate Link - Marion Kracht wurde bekannt mit "Aktenzeichen XY ungelöst" und "Traumschiff". Jetzt hat sie ein vegan-vegetarisches Kochbuch veröffentlicht.
+description: Marion Kracht wurde bekannt mit "Aktenzeichen XY ungelöst" und "Traumschiff".
+  Jetzt hat sie ein vegan-vegetarisches Kochbuch veröffentlicht.
+excerpt: Affiliate Link - Marion Kracht wurde bekannt mit "Aktenzeichen XY ungelöst"
+  und "Traumschiff". Jetzt hat sie ein vegan-vegetarisches Kochbuch veröffentlicht.
 fileName: 2015-04---kracht-kocht-vegetarisch-vegan.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_soup-2897649_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_soup-2897649_640__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgECA//EACYQAAICAgICAgICAwAAAAAAAAECAwQFEQASBiExQRMiUYFSYcH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAIFBv/EACQRAAICAQIFBQAAAAAAAAAAAAECAAMRBBITITFB4WGBodHw/9oADAMBAAIRAxEAPwB+ku4W7EBANE84+YY/IXMN43UqOyzVactmRAnc9JJO6g/YHRd/XyORbWbw2LASGxBn8kXCQ1ajMapkJ9GWYgBlHyVT517YDlYxdvzFvPLVmeeCzesokhaW3GkMiuevQjemQ60QAdAa16HMxp6XCtvOP2fqAUcE5cdY1wseTnSaKvXjsvDGzFUlKdvY6gMQR2O9dSdn+uZjzMMV1qlmrZrXA4jNaePqwf8AxI/7yR5eMrg8LPPisrXW1YeQ38VSY94h2/Qwx6DEBTog+wdkHR9aeTYrJ1YMd5FYs0MhFajhgaeu25U0ml79gd+gRsaOwB/vi1qKEDZ5npCWauxDmoch7xX4fi4IJTkrlcS1KAEjRE+ppGVlji/sks38KjH+OQrGGuW8ktuGZEURhBHohQoJICb2fs/O/ne+HDk+O9e3afX58S5trWzO4Zls8MzdelPdTLKe7Rj8M8EZdmKr+ySkfHoAjfogjetcZzPFZxeNendWXH5ANLdo/gTuku/QZhplCE/B398OHFHqVLA47+YkaEDg4n//2Q==
-ogImage: null
+ogImage: 
 labels:
-  - Bücher & Filme
-  - Ernährung & Gesundheit
-  - Kracht kocht
-  - Kracht kocht vegetarisch vegan
-  - Marion Kracht
-  - Traumschiff
-  - vegan celebrities
-  - vegane Stars
+- Bücher & Filme
+- Ernährung & Gesundheit
+- Kracht kocht
+- Kracht kocht vegetarisch vegan
+- Marion Kracht
+- Traumschiff
+- vegan celebrities
+- vegane Stars
 focusKeyword: Kracht kocht
 status: publish
 isWerbung: false
@@ -30,10 +32,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Internationale Küche statt "Traumschiff"
+advertisement: true
+
 ---
-
-_Affiliate Link\*_
-
 **Marion Kracht ist eine deutsche Schauspielerin. Bekannt wurde sie u. a. mit "Wer zuletzt lacht, lacht am besten", "Aktenzeichen XY ungelöst" und "Traumschiff".**
 
 ## Friends? Not food, OK?
@@ -41,14 +42,14 @@ _Affiliate Link\*_
 Jetzt hat die Münchnerin [ein Kochbuch veröffentlicht](https://amzn.to/2MLIK3k). "Kracht kocht vegetarisch vegan". Nimmt man das Buch zur Hand, sticht einem sofort das ausgefallene Titelbild ins Auge: Marion Kracht hält ein großes Fleischermesser in der Hand. Darauf aufgespießt: Eine rote Paprikaschote. Die andere Hand hat die Mimin in die Hüfte gestemmt. Sie wirkt wild entschlossen. Ihr T-Shirt ziert ein Schaf, versehen mit den Worten "Friends? Not food, OK?"
 
 <RemoteImage
-  alt={`kracht-kocht`}
-  size="full"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_kracht-kocht1-219x250__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_kracht-kocht1-219x250__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcIBf/EAC4QAAEEAQMDAwEIAwAAAAAAAAECAwQRBQASIQYTMQciQVEIFBUWJFJhcYGR8f/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAAL/xAAjEQABAwMDBQEAAAAAAAAAAAABAAIDERIxBFFhITJxsfDh/9oADAMBAAIRAxEAPwCuQPUI5XpFvOs49yIyttxZ7jqV7dqin4/kD/ep9guop0htXUS8lMXO76Uo3PqSgoDiQpBbPtKSDwP6rRb1Ty0roTB4jovGOfetwWqRkHWChtQKypLYFmlfJ58VxzoFMy2SaxDUCNBQJpk98vMyFOB80UJQE+Ks+TZuqrQNVFJJJWLtGEvTyRRtIkyVtP8AM2HHUYwQntjLFIWI1KuikqHNVdC6u612grj66A+nmNj5DFYvqDJQA3nO1sU48inWSPYW7PNDbX/dOgrSmknKO+zpaDzXdZe9RmVT8L1G7PO79S200gr7ZS4XK3A/uATSfr4+dBusGMVMGHkdHBuLJcDCVJpQKFUEpVzQBDgN8fAsm+Vn2g5uPZS5EcsPzG0PtNJUpPuCtpJ2kcHbdmwFAcc6hUGVIW/tXIIkOtkd1ThUo0eBfnyL1CCGQNoN/vajMHl1135x95W4+i5WVxOKxeOy8XZOluKVsUDaLUBatthN+41fyNKsXOkSoTb77TDZc9yUoWpVJ+LJA0KwL34jgcDlMa+0hD8Jly3WC4oLAO5QUTYJP+PbpVgwY+ObZUvvbLSDsCAAPACR4GumMLDbXC1znuuccr//2Q=="
+alt={`kracht-kocht`}
+size="full"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_kracht-kocht1-219x250__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_kracht-kocht1-219x250__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcIBf/EAC4QAAEEAQMDAwEIAwAAAAAAAAECAwQRBQASIQYTMQciQVEIFBUWJFJhcYGR8f/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAAL/xAAjEQABAwMDBQEAAAAAAAAAAAABAAIDERIxBFFhITJxsfDh/9oADAMBAAIRAxEAPwCuQPUI5XpFvOs49yIyttxZ7jqV7dqin4/kD/ep9guop0htXUS8lMXO76Uo3PqSgoDiQpBbPtKSDwP6rRb1Ty0roTB4jovGOfetwWqRkHWChtQKypLYFmlfJ58VxzoFMy2SaxDUCNBQJpk98vMyFOB80UJQE+Ks+TZuqrQNVFJJJWLtGEvTyRRtIkyVtP8AM2HHUYwQntjLFIWI1KuikqHNVdC6u612grj66A+nmNj5DFYvqDJQA3nO1sU48inWSPYW7PNDbX/dOgrSmknKO+zpaDzXdZe9RmVT8L1G7PO79S200gr7ZS4XK3A/uATSfr4+dBusGMVMGHkdHBuLJcDCVJpQKFUEpVzQBDgN8fAsm+Vn2g5uPZS5EcsPzG0PtNJUpPuCtpJ2kcHbdmwFAcc6hUGVIW/tXIIkOtkd1ThUo0eBfnyL1CCGQNoN/vajMHl1135x95W4+i5WVxOKxeOy8XZOluKVsUDaLUBatthN+41fyNKsXOkSoTb77TDZc9yUoWpVJ+LJA0KwL34jgcDlMa+0hD8Jly3WC4oLAO5QUTYJP+PbpVgwY+ObZUvvbLSDsCAAPACR4GumMLDbXC1znuuccr//2Q=="
 />
 
-[](https://amzn.to/2MLIK3k) Mir stellte sich gleich als Erstes die Frage: Was bedeutet vegetarisch vegan? Kocht sie nun vegetarisch? Oder vegan? Oder beides? Das Kochbuch noch nicht wirklich aufgeblättert, gleich die nächste: Was macht Johann Lafer in einem veganen Kochbuch?
+ Mir stellte sich gleich als Erstes die Frage: Was bedeutet vegetarisch vegan? Kocht sie nun vegetarisch? Oder vegan? Oder beides? Das Kochbuch noch nicht wirklich aufgeblättert, gleich die nächste: Was macht Johann Lafer in einem veganen Kochbuch?
 
 ## Johann Lafer in einem veganen Kochbuch
 
@@ -64,7 +65,7 @@ Auf vier Seiten verteilt bietet Frau Kracht eine sogenannte "Warenkunde" an, fü
 
 Über das Kochbuch verteilt: Bilder, auf denen Frau Kracht mit Küchengeräten posiert. Leider wirken diese, wie noch schnell an einem Nachmittag aufgenommen. Es kommt wenig Küchenstimmung auf. Professioneller wirken da schon die Food-Bilder. Jedes Gericht wurde sehr schön in Szene gesetzt, man bekommt auf jeden Fall eine Vorstellung, was man da nachkocht.
 
-Die Rezepte sind gut strukturiert, von mediterran bis asiatisch angehaucht ist alles dabei. Es kommen viele frische Zutaten zum Einsatz. Für Vegetarisch-Einsteiger sicher ein interessantes Buch, manche Veganer könnte es jedoch stören, Dinge wie Sahne oder Käse in den Zutatenlisten und auf den Bildern zu sehen.
+Die Rezepte sind gut strukturiert und von den verschiedensten Kochstilen beeinflusst. Es kommen viele frische Zutaten zum Einsatz. Für Vegetarisch-Einsteiger sicher ein interessantes Buch, manche Veganer könnte es jedoch stören, Dinge wie Sahne oder Käse in den Zutatenlisten und auf den Bildern zu sehen.
 
 ## Die persönliche Note
 
@@ -93,12 +94,11 @@ Wer gerne mehr über Marion Kracht und ihr Buch erfahren möchte, kann sie auf i
 **Bild im Header:** [silviarita](https://pixabay.com/de/users/silviarita-3142410/), pixabay
 
 <iframe
-  style="width: 120px; height: 240px;"
-  src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3840470331&amp;asins=3840470331&amp;linkId=dc331a21b0374b444234a982f4dde30e&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff"
-  frameborder="0"
-  marginwidth="0"
-  marginheight="0"
-  scrolling="no"
-></iframe>
+style="width: 120px; height: 240px;"
+src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=cardamonchai-21&marketplace=amazon&region=DE&placement=3840470331&asins=3840470331&linkId=dc331a21b0374b444234a982f4dde30e&show_border=true&link_opens_in_new_window=true&price_color=c4c4c4&title_color=5c9b72&bg_color=ffffff"
+frameborder="0"
+marginwidth="0"
+marginheight="0"
+scrolling="no"
 
-\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
+> </iframe>
