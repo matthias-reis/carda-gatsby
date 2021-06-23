@@ -1,36 +1,38 @@
 ---
-date: 2016-02-03T12:29:39.000Z
+date: 2016-02-03T12:29:39.000+00:00
 slug: unboxing-fooodz-de
-path: /2016/02/unboxing-fooodz-de/
+path: "/2016/02/unboxing-fooodz-de/"
 type: Artikel
-typeName: Artikel
+typeName: Produkttest
 title: Unboxing Fooodz
 seoTitle: Unboxing Fooodz.de - Vegane Lebensmittel an die Haustür
 ogTitle: Unboxing Fooodz.de - Vegane Lebensmittel an die Haustür
-description: Unboxing ist toll - Vor Kurzem bekam ich wieder mal eine Anfrage und damit die Möglichkeit, den veganen Online-Shop Fooodz.de zu testen. Hier der Bericht.
-excerpt: Werbung - Unboxing ist toll - Vor Kurzem bekam ich wieder mal eine Anfrage und damit die Möglichkeit, den veganen Online-Shop Fooodz.de zu testen. Hier mein Bericht.
+description: Unboxing ist toll - Vor Kurzem bekam ich wieder mal eine Anfrage und
+  damit die Möglichkeit, den veganen Online-Shop Fooodz.de zu testen. Hier der Bericht.
+excerpt: Unboxing ist toll - Vor Kurzem bekam ich wieder mal eine Anfrage und damit
+  die Möglichkeit, den veganen Online-Shop Fooodz.de zu testen. Hier mein Bericht.
 fileName: 2016-02---unboxing-fooodz.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_Fooodz-Unboxing-5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_Fooodz-Unboxing-5__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwABAwYF/8QAJhAAAgEDBAEDBQAAAAAAAAAAAQIDAAQRBQYhMRMSIkEyUVJxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIRAxEAPwDOxNDEkaSOileO6T7XTI0QAQpR/s6eK6tbdQqMUyeSRjIxnj5Fdxa2kyxqfN6m4B9UjcD+Uhotq1bSIp4WVrdSSDQtv3QRbiQrCQvPRFM+rWiujO3iDc8+44Jxzz+sH70Yb3u1htJY2l8nZBYkmishbldoa3cW6xsg7+M0padue5aBS0YJx+VVVQpeXuLdN0I3CxqPj6qH93a1cTK7Pg9juqqizzf/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2016_02_Fooodz-Unboxing-7__l.jpg
 labels:
-  - Ernährung & Gesundheit
-  - Fooodz
-  - fooodz.de
-  - Hamburg
-  - Münster
-  - Online-Shop
-  - Produkttest
-  - unboxing
-  - unboxing story
-  - vegan
-  - vegane Lebensmittel
-  - vegane Lebensmittel bestellen
-  - vegane Produkte
-  - veganer Online-Shop
-  - veganer Shop
-  - Veganes Essen
+- Ernährung & Gesundheit
+- Fooodz
+- fooodz.de
+- Hamburg
+- Münster
+- Online-Shop
+- Produkttest
+- unboxing
+- unboxing story
+- vegan
+- vegane Lebensmittel
+- vegane Lebensmittel bestellen
+- vegane Produkte
+- veganer Online-Shop
+- veganer Shop
+- Veganes Essen
 focusKeyword: Unboxing
 status: publish
 isWerbung: false
@@ -38,10 +40,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Vegane Lebensmittel bestellen
+advertisement: true
+
 ---
-
-Werbung\*
-
 <RemoteImage
   alt={`Unboxing Fooodz`}
   size="medium"
@@ -287,7 +288,3 @@ Die Lebensmittel waren alle hervorragend. Bis auf ein paar kleine Geschmackskoll
 Wer jetzt neugierig geworden ist, kann seinen Einkaufskorb auf [Fooodz.de](http://www.fooodz.de/) vollmachen.
 
 Mein Unboxing der Wolkenseifen [findet Ihr hier](/2014/08/himmlische-dufte-ganz-ohne-plastik/).
-
-<FestivalList />
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
