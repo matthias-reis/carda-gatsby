@@ -44,18 +44,18 @@ Dabei handelt es sich um einen jungen Handtuch-Hersteller aus Hamburg. Das Beson
 Er war sofort Feuer und Flamme von meinem Angebot, "Kushel" auf meiner Seite vorzustellen und erzählte mir von seinem erklärten Ziel:
 
 <RemoteImage
-  alt={`Kushel`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-027__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-027__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABMDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBwgE/8QAJhAAAgEDBAEEAwEAAAAAAAAAAQIDBAURAAYSIRMHMUFxFFGBYf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEgMRUQT/2gAMAwEAAhEDEQA/ALwtCGKljhVQq5zkHjnvPf70j7taOK7RPHUBLiGWoc5PLgX4/WPj60y3K6x0DWaKTyK1TLEiuCQpLniFzjs5GcfA70s3/bFbW7pSVZpFpEf8tmJyOWQOAH8z9HSvppylkbwTNN6fQzO6RsVlETv75Ix9aNVnu7etrp9x1sFR5VniZY5AhbjyCgHGP9GjWjc+g5rwl6mVlzvKbNoNsU0tfXW+5R1dRAAUAHHEeJGwnYLD36JH71Y98vMtFEaqS0XA8eXFAgPPIyFBB9yQBjWfPSz1B2fTWmCbeU7DcNPVu8VY0UrMEHHxnkmQeJzjIOOtOFRufZe4qOmhv29EuLxSkpKX/CIQhQUYBQCDxySe8+2NJ5FokNSzOm4b1dHv1xav89PVmokM0MgKMj8jkEfBB0a4tw1iV9/ulYrKVqKqWUfPTOSO/wC6NEiu0f/Z"
+alt={`Kushel`}
+size="medium"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-027__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-027__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABMDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBwgE/8QAJhAAAgEDBAEEAwEAAAAAAAAAAQIDBAURAAYSIRMHMUFxFFGBYf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEgMRUQT/2gAMAwEAAhEDEQA/ALwtCGKljhVQq5zkHjnvPf70j7taOK7RPHUBLiGWoc5PLgX4/WPj60y3K6x0DWaKTyK1TLEiuCQpLniFzjs5GcfA70s3/bFbW7pSVZpFpEf8tmJyOWQOAH8z9HSvppylkbwTNN6fQzO6RsVlETv75Ix9aNVnu7etrp9x1sFR5VniZY5AhbjyCgHGP9GjWjc+g5rwl6mVlzvKbNoNsU0tfXW+5R1dRAAUAHHEeJGwnYLD36JH71Y98vMtFEaqS0XA8eXFAgPPIyFBB9yQBjWfPSz1B2fTWmCbeU7DcNPVu8VY0UrMEHHxnkmQeJzjIOOtOFRufZe4qOmhv29EuLxSkpKX/CIQhQUYBQCDxySe8+2NJ5FokNSzOm4b1dHv1xav89PVmokM0MgKMj8jkEfBB0a4tw1iV9/ulYrKVqKqWUfPTOSO/wC6NEiu0f/Z"
 />
 
 > Wir möchten das erste Carbon-negative Unternehmen der Welt werden!
 
 Klappen soll das, indem für jedes verkaufte [Handtuch](/2013/05/towel-day/) neue Bäume gepflanzt werden. Der [ökologische Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) der gesamten "Kushel" Produktion soll dadurch mehr CO<sub>2</sub> binden, als sie ausstößt.
 
-Um die neuen Handtücher bekannt zu machen, hat Mattias sich die **#treefluencer** ausgedacht. Das sind fleißige Blogger, Vlogger und Bilder-Teiler\*innen, die die "Kushel" Produkte testen um im Anschluss darüber berichten. Und was soll ich sagen? Ich bin stolz dazu zu gehören.
+Um die neuen Handtücher bekannt zu machen, hat Mattias sich die **#treefluencer** ausgedacht. Das sind fleißige Blogger, Vlogger und Bilder-Teiler*innen, die die "Kushel" Produkte testen um im Anschluss darüber berichten. Und was soll ich sagen? Ich bin stolz dazu zu gehören.
 
 ## Das hat mein Test ergeben
 
@@ -68,11 +68,11 @@ Schon ohne sie vorher zu waschen und zu trocknen, sind sie außerdem sehr saugf�
 Ich gehöre zu den Menschen, die generell ohne Weichspüler waschen. Klassische Baumwoll-Frotteetücher können da schon mal etwas fester werden. Bei den "Kuschel" Tüchern ist das nicht der Fall. Sie sind auch nach dem Waschen wieder angenehm kuschelig. Der Name ist also schon mal Programm.
 
 <RemoteImage
-  alt={`Kushel`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-029__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-029__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAHBf/EACwQAAIBAwQBAwALAAAAAAAAAAECAwQFEQAGEiETB0FhFBYxMlFicYGRotH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQA/8QAHxEBAAIBBAMBAAAAAAAAAAAAAQACEgMEESETMVFB/9oADAMBAAIRAxEAPwDWdt03go08a4ZlCcgeJGMjH6f5ozvdUju5ZJZUrEbzCYA9Yb7obOM47x+HeNKKqqFDtuabi2BLw5g8QhJGCT7DJA+SRrjbs2u9z3HGVLRxO3nlkGSQylRhfzHr+x9tQ7qyUrj+yrbVq3coiWWmgVfp0cMjyAOpLccLjGP5B1aFbq3PRx3QU1QAammjWOXipxnthjHww/fI1aea1OPcHx3+Tmboq63dHp5cbRt2CequrTU0hh4FA6xOpk4u2FPaj37701rt1RpI01VZ75StHHLMyT0LAsoXJC8eWT1jWE7B9QtrWbb9JBeEq7buKKGSBrpDTeRmDOSG5AkMePEHK+2kVdvLZlwpXuf1nNXeKajl4s8jU3ncI/DMfEDPYAAxnAznStSjYD5NRB5mGX7cdZeb3XXCZ6lXqZmkKqxXjk/Zj41aOQ100EYWKVlB7OGIyffVp+KdBByHtZ//2Q=="
+alt={`Kushel`}
+size="medium"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-029__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-029__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAHBf/EACwQAAIBAwQBAwALAAAAAAAAAAECAwQFEQAGEiETB0FhFBYxMlFicYGRotH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQA/8QAHxEBAAIBBAMBAAAAAAAAAAAAAQACEgMEESETMVFB/9oADAMBAAIRAxEAPwDWdt03go08a4ZlCcgeJGMjH6f5ozvdUju5ZJZUrEbzCYA9Yb7obOM47x+HeNKKqqFDtuabi2BLw5g8QhJGCT7DJA+SRrjbs2u9z3HGVLRxO3nlkGSQylRhfzHr+x9tQ7qyUrj+yrbVq3coiWWmgVfp0cMjyAOpLccLjGP5B1aFbq3PRx3QU1QAammjWOXipxnthjHww/fI1aea1OPcHx3+Tmboq63dHp5cbRt2CequrTU0hh4FA6xOpk4u2FPaj37701rt1RpI01VZ75StHHLMyT0LAsoXJC8eWT1jWE7B9QtrWbb9JBeEq7buKKGSBrpDTeRmDOSG5AkMePEHK+2kVdvLZlwpXuf1nNXeKajl4s8jU3ncI/DMfEDPYAAxnAznStSjYD5NRB5mGX7cdZeb3XXCZ6lXqZmkKqxXjk/Zj41aOQ100EYWKVlB7OGIyffVp+KdBByHtZ//2Q=="
 />
 
 Besonders gut gefallen mir außerdem die Größen. Das Duschtuch ist etwas größer, als man das gewöhnt ist, es geht durchaus als Strandlaken durch und auch das Gäste- sowie das Gesichtshandtuch überschreiten die Standardmaße.
@@ -81,7 +81,7 @@ Die "Kushels" sind selbstverständlich zu 100 Prozent vegan. Außerdem sind sie 
 
 ## Das Kickstarter-Projekt geht heute um 18:00 los!
 
-Wer möchte, kann sich auf der Homepage von "Kushel"** schon mal für den Newsletter anmelden. Man wird dann regelmäßig über den Stand der Dinge informiert. Auf Kickstarter\*** geht es heute los, die Preisliste ist schon online. Das haben Mattias und seine Mitgründer John und Jim am Freitag geschrieben:
+Wer möchte, kann sich auf der Homepage von "Kushel" schon mal für den Newsletter anmelden. Man wird dann regelmäßig über den Stand der Dinge informiert. Auf Kickstarter geht es heute los, die Preisliste ist schon online. Das haben Mattias und seine Mitgründer John und Jim am Freitag geschrieben:
 
 <blockquote>
 
@@ -98,70 +98,70 @@ Der Erfolg des Projekts geht also schon vor dem offiziellen Start los. Nicht sch
 Ihr wollt mehr über spannende und nachhaltige Start-ups erfahren? Dann könnt Ihr gerne [meinen Newsletter abonnieren](#newsletter). Immer, wenn es mein Alltag zulässt, blogge ich. Übrigens auch über Musik, veganes Leben, Hamburg, Kunst und meine Ausflüge. Ich freue mich auf Euch. Auch [T-Shirts aus Holz](/2018/04/wijld-woodshirt-mode-aus-holz/) habe ich schon getestet.
 
 <Gallery
-  images={[
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-030__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-030__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-029__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-029__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-025__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-025__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-022__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-022__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-020__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-020__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-015__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-015__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-011__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-011__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-009__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-009__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-005__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-005__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-001__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-001__l.jpg',
-    },
-  ]}
+images={[
+{
+mediumUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-030__m.jpg',
+largeUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-030__l.jpg',
+},
+{
+mediumUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-029__m.jpg',
+largeUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-029__l.jpg',
+},
+{
+mediumUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-025__m.jpg',
+largeUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-025__l.jpg',
+},
+{
+mediumUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-022__m.jpg',
+largeUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-022__l.jpg',
+},
+{
+mediumUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-020__m.jpg',
+largeUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-020__l.jpg',
+},
+{
+mediumUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-015__m.jpg',
+largeUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-015__l.jpg',
+},
+{
+mediumUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-011__m.jpg',
+largeUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-011__l.jpg',
+},
+{
+mediumUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-009__m.jpg',
+largeUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-009__l.jpg',
+},
+{
+mediumUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-005__m.jpg',
+largeUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-005__l.jpg',
+},
+{
+mediumUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-001__m.jpg',
+largeUrl:
+'https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-001__l.jpg',
+},
+]}
 />
 
-\*\* [Die Homepage von "Kushel" findet ihr hier.](https://www.kushel.de/)
+[Die Homepage von "Kushel" findet ihr hier.](https://www.kushel.de/)
 
-\*\*\* Nachtrag 28.10.2018 18:00 Uhr  [Auch das Kickstarter-Projekt ist inzwischen gestartet!](https://www.kickstarter.com/projects/kushel/kushel-the-towel-made-with-wood)
+**Nachtrag 28.10.2018:**  [Auch das Kickstarter-Projekt ist inzwischen gestartet!](https://www.kickstarter.com/projects/kushel/kushel-the-towel-made-with-wood)
