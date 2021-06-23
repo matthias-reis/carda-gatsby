@@ -1,28 +1,30 @@
 ---
-date: 2018-10-28T16:03:30.000Z
+date: 2018-10-28T16:03:30.000+00:00
 slug: kushel-im-test
-path: /2018/10/kushel-im-test/
+path: "/2018/10/kushel-im-test/"
 type: Artikel
 typeName: Produkttest
 title: Kushel im Test
 seoTitle: Kushel im Test - Nachhaltige Handtücher aus Holz
 ogTitle: Kushel im Test - Nachhaltige Handtücher aus Holz
-description: Dass ich immer neugierig auf interessante nachhaltige Start-ups bin, ist kein Geheimnis. Vor Kurzem habe ich "Kushel" für mich entdeckt.
-excerpt: Werbung - Dass ich immer neugierig auf interessante nachhaltige Start-ups bin, ist kein Geheimnis. Vor Kurzem habe ich "Kushel" für mich entdeckt.
+description: Dass ich immer neugierig auf interessante nachhaltige Start-ups bin,
+  ist kein Geheimnis. Vor Kurzem habe ich "Kushel" für mich entdeckt.
+excerpt: Dass ich immer neugierig auf interessante nachhaltige Start-ups bin, ist
+  kein Geheimnis. Vor Kurzem habe ich "Kushel" für mich entdeckt.
 fileName: 2018-10---kushel-im-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-003__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-003__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHCAb/xAArEAACAQMEAQIEBwAAAAAAAAABAgMEBREABhIxIQdBExVRsSIyYYGhssH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQA/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMSUSH/2gAMAwEAAhEDEQA/AIPtvbl1vkpjtFuqatgASY0/CAfqxwP5128/pZfrdanuF1Wmo6dCA2Gad1z7kRq2B47Pga1BtC3Natv2u2sYJzR0sdOZQOPMooXlx9s4zp5UrUmmlWn+AjsjKpPWSMefGg34YwrFTI0chMiBgATCQeTD9PbP+aW1jU0kZVIxHgZVyxIf6YHt++etVS9+m70FwudVfbu0NNTMUkeIZkqXC5bGcAIMjvJPnU13fbIrXPHHbq5au3StyB4cWRwPysOuuiPHep4m3XahVx2ntGlrV6l7JSMH5vcE6OGjlz/XTZvVrZsKDjdLg/thaeQ/ddGjVWBI/wCpO8LZU7qkrNv1rSCpgUzNWRtw55OQMjx0D1jzqUbpudRdapWmmEpXyzqCFzjAAyB4A++jRoLwffmn/9k=
-ogImage: null
+ogImage: 
 labels:
-  - Baumwolle
-  - Fair Fashion & Beauty
-  - Handtuch
-  - Handtücher
-  - Holz
-  - Kushel
-  - Tencel
-  - Towel
+- Baumwolle
+- Fair Fashion & Beauty
+- Handtuch
+- Handtücher
+- Holz
+- Kushel
+- Tencel
+- Towel
 focusKeyword: Kushel
 status: publish
 isWerbung: false
@@ -30,10 +32,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Nachhaltige Handtücher als Holz
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Dass ich immer neugierig auf interessante neue Start-ups bin, ist kein Geheimnis. Spätestens, wenn sich ihre Ideen als nachhaltig erweisen, ist mein Interesse geweckt. So geschehen bei "Kushel".**
 
 Dabei handelt es sich um einen jungen Handtuch-Hersteller aus Hamburg. Das Besondere an den Towels? Sie sind nicht nur besonders weich, sie bestehen zu 30 Prozent aus FSC-zertifiziertem Holz. Klingt spannend, oder? Das dachte ich mir auch und schickte eine Anfrage an Gründer Mattias.
@@ -164,5 +165,3 @@ Ihr wollt mehr über spannende und nachhaltige Start-ups erfahren? Dann könnt I
 \*\* [Die Homepage von "Kushel" findet ihr hier.](https://www.kushel.de/)
 
 \*\*\* Nachtrag 28.10.2018 18:00 Uhr  [Auch das Kickstarter-Projekt ist inzwischen gestartet!](https://www.kickstarter.com/projects/kushel/kushel-the-towel-made-with-wood)
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

@@ -1,33 +1,36 @@
 ---
-date: 2018-10-09T05:04:51.000Z
+date: 2018-10-09T05:04:51.000+00:00
 slug: kurzgeschichte-die-vierte-welle
-path: /2018/10/kurzgeschichte-die-vierte-welle/
+path: "/2018/10/kurzgeschichte-die-vierte-welle/"
 type: Artikel
 typeName: Artikel
 title: Die vierte Welle
 seoTitle: Die vierte Welle - Unsere Science-Fiction Kurzgeschichte ist veröffentlicht!
 ogTitle: Die vierte Welle - Unsere Science-Fiction Kurzgeschichte ist veröffentlicht!
-description: 'Heute lüfte ich endlich das Geheimnis: Matze und ich haben eine Science-Fiction Kurzgeschichte veröffentlicht. Doch: "Die vierte Welle" ist erst der Anfang!'
-excerpt: 'Werbung in eigener Sache / Affiliate Links - Heute ist es endlich soweit und ich lüfte das Geheimnis: Matze und ich haben eine Science-Fiction Kurzgeschichte veröffentlicht. Der Clou: "Die vierte Welle" ist erst der Anfang!'
+description: 'Heute lüfte ich endlich das Geheimnis: Matze und ich haben eine Science-Fiction
+  Kurzgeschichte veröffentlicht. Doch: "Die vierte Welle" ist erst der Anfang!'
+excerpt: 'Heute ist es endlich soweit und ich lüfte das Geheimnis: Matze und ich haben
+  eine Science-Fiction Kurzgeschichte veröffentlicht. Der Clou: "Die vierte Welle"
+  ist erst der Anfang!'
 fileName: 2018-10---die-vierte-welle.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_cover-image-only__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_cover-image-only__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAAqEAACAQMDAwQABwAAAAAAAAABAgMEBREAEiEHMVEGEyJBFCNhYnGRof/EABYBAQEBAAAAAAAAAAAAAAAAAAEEAP/EABwRAAMAAgMBAAAAAAAAAAAAAAABAjFBAxETUf/aAAwDAQACEQMRAD8AXsPTFJmRri8kUf2Ef5D/ADVmo6W2/wBnNLUS7weznIYeP0OrXu3alp5Zz6jgaB2Gyompw8UYOcKVA+J+9xJGAOfKS/jaiouTNIKqKmbdUGC4PGzoUAJQ7uQTkgD+O3Gq27eyVKPhJTpjET8m/pjrtL0tjUExzbuM4yRqxBcppJkWavutFRoEXLU53sMDJBCnsQR3Pn70nTXKGmSeomvdwrYVnKx1O90iz5YZBY/tAwMcA5J0L0eRb41gzNne5LX0UENqr6WZ/wAiNBCQrMQQAWIAGeeTxrb2+mtsLlYo2uVZT07s1PRyt7UTMNmxY9gOMMxBDDnJAxjRo03TYRKQxZ6i9UEFO88lyhSOIRR0TRxSRqxbLOx3ByMdgTx9Z1k7z6Tlq5Y5RTTNtqGljaleKH2A7HfmNyd4xtIAYY86NGtK2FZ6P//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2018_10_cover-image-only__l.jpg
 labels:
-  - A. M. Reis
-  - Autoren
-  - Autorenehepaar
-  - Bücher & Filme
-  - Die vierte Welle
-  - dievierteWelle
-  - E-Book
-  - Kindle
-  - Kurzgeschichte
-  - Schriftsteller
-  - Science-Fiction
-  - Science-Fiction Kurzgeschichte
-  - Short Story
+- A. M. Reis
+- Autoren
+- Autorenehepaar
+- Bücher & Filme
+- Die vierte Welle
+- dievierteWelle
+- E-Book
+- Kindle
+- Kurzgeschichte
+- Schriftsteller
+- Science-Fiction
+- Science-Fiction Kurzgeschichte
+- Short Story
 focusKeyword: Science-Fiction Kurzgeschichte
 status: publish
 isWerbung: false
@@ -35,10 +38,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Science-Fiction aus dem Hause Reis
+advertisement: true
+affiliate: true
+
 ---
-
-_Werbung in eigener Sache / Affiliate Links\*_
-
 **Heute ist es endlich soweit und ich lüfte das Geheimnis, das ich so lange gehütet habe: Matze und ich haben zusammen eine Kurzgeschichte geschrieben. Doch "Die vierte Welle", so haben wir unser Werk getauft, ist erst der Anfang!**
 
 Das klingt spannend, oder? Ihr könnt Euch gar nicht vorstellen, wie sehr ich mich freue! **"Die vierte Welle"** wurde bereits veröffentlicht und das Tolle ist: Ihr könnt sie sofort lesen, wenn Ihr wollt!
@@ -82,5 +85,3 @@ Sorry, das war heute ganz schön viel Werbung in eigener Sache, ich weiß. Aber 
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_amreis.png__l.jpg"
   loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAARCAYAAAC8XK78AAAACXBIWXMAABJ0AAASdAHeZh94AAAEu0lEQVRIiX2V+0+TVxjH+Xfm/A/mjPvBmOyWLTFbFpdo3Ja4ZUu2xF+WuThv6JRh0GRi1AkbMIdCBcqtIlAohRawLbhS6L20b+n79l564fpZzoEyqWiTJz3nvOec53uey/dbVVheQlgxH9v5LxVUSnmVQj4m55Umz+yxVnzd/he+v+ivqnKhvEmAKBZU8rko+dzWBcLEfLUUl3uWs4qcl9fL40qr9LELQKECmbgcikCBtdUkm+spuSacSYdZBa/bQSj4L5lkiFQiSCYVIpNaJJcOk8sIi+yAEyYjKh60R3SqyoPyy9jI0Nero/ryeX45d4aurofb3zTpLJUIMOecJuB3osV8RMJulMUF1CUfcS1AQvOTToYkCDXmIRJ2oYRdZNNhCaLywVXlyUpRA0p06x+xb/9+qi+fQ6f7m8NHDnPq668oFlViSx5iihtNC2DzjqDGQozPG1gMuVkI2nD6J1kKe9BiXglCCc8TDrvkPK76pI/KVFeJifiQ0AI8n7Vw/PjnHDz0NpBH/GbsZg4cPMDoaD/JZJBIaIFg2IV5vo+YGsQ0182M34zNN8qcd5qQjMwWAJ/HgdM5RULz4fU4yGWVXVHYVYRLipsx0xPe++Bdrl27JA9EFl0SRGNDPdevX2VtNc5SxI8zMInR2clznxW7Z4wxZy/TnhHm/XaZjrjmY+BJJ08MHeh0LRiN/cw4JkgmQqyV4jKlL6Vgcy2Frr2FW/U3ZC4djnGs1mE01U9bWzMXLp5lpRRHUdz4lhxEk27mY1a8mo1MOkos7cUbnUEJe1BjXiyWYYaNBkJBJ9lMhIX5Z7gX7MCKjHh+OwpVW5WvyYJqaLjN0aMfcfXXC/T2tjMxMSiL6cqV85z84gSF5Siq6mdw2IDVYqajpx2d/hETFhO6zkdMTo8Ri3pJxgOUihpzc88YNz/FahmiuekO33z3LdfrfgNWWV9J/N+GpXxMhlvf1cpbh97hxMkTTFmHiGkhTCYDb7y5j5qaalkXi4vztDxo4va925y9eJ5OfQd1v9/kwpVLuFwOEvEg6ytxnM8tNNy/xfSUEdOogWPHPmVodJRTP5yhtbWRzfX07jZcziqwnqKhrYPq+gZqb9Qy9LSLrj49P/78E2bzgExBJOLGMNDDsHGAxuZGBgb70Pd2YJ0002fQyzYeMfZx5P0Pqa2rZWHBhsNuxjTaj+P5DB9/8hknvzwui1S0/Q4AEQlYZmZ2ivo//0LXo+dSzTWaWh9w8+4dntnGSSXDKIqHcMSD3+fEZrdgd1iZczkYMw/j9szKSl8MORl42oPFamRkpJ/uHh39/Z18f/o0uvZmCXJjLbWbCfOyHVVWiyoPH7dxv7mJkXEjNTfquNfSIvObToVQVR+JeEBW8koxznIuSi4rTJGvEmS1IRh0LYnVMojDNsbs7CS6x//g88zIrlpbie+0YlWlaIiDokotkyY8bjt1d/+gtbtHhr64HJWpErQrTDgsk4woPMF2gqpF4YoHsZmFjbQsckHtkNuh6F1EVKgQDNGrbGZkSsSlwpkAthefl4VoL0HKZbb1Q0ZJ2TpTScWFPQCUtWErLZq0SnV7nexWKt+uM3up4ausvLlSQF4lua+zl/Zuj/8DQ+GXdvGqqsYAAAAASUVORK5CYII="
 />
-
-\*Hinweis: Dieser Beitrag enthält Werbung (in diesem Fall in eigener Sache) und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
