@@ -76,6 +76,6 @@ With a total playing time of 41 minutes, the record is certainly not the longest
 
 By the way, the incredibly creepy and, at the same time, genius cover picture was painted by Gina Skwoz.
 
-### Kollapse - "Knæler
+### Kollapse - "Knæler"
 
 <YouTube id="Zw-ljb1SuoY" />
