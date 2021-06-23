@@ -1,30 +1,32 @@
 ---
-date: 2016-07-26T11:41:49.000Z
+date: 2016-07-26T11:41:49.000+00:00
 slug: lovely-day-botanicals-kosmetiktest
-path: /2016/07/lovely-day-botanicals-kosmetiktest/
+path: "/2016/07/lovely-day-botanicals-kosmetiktest/"
 type: Artikel
 typeName: Artikel
 title: Lovely Day Botanicals im Test
 seoTitle: Lovely Day Botanicals - Kosmetiktest
 ogTitle: Lovely Day Botanicals - Kosmetiktest
-description: Lovely Day Botanicals ist ein junges Beauty Start-up aus Berlin, das ausschließlich vegane Naturkosmetik herstellt. Ich habe die Produkte für Euch getestet.
-excerpt: Werbung - Lovely Day Botanicals ist ein junges Beauty Start-up aus Berlin, das ausschließlich vegane Naturkosmetik herstellt. Ich habe die Produkte für Euch getestet.
+description: Lovely Day Botanicals ist ein junges Beauty Start-up aus Berlin, das
+  ausschließlich vegane Naturkosmetik herstellt. Ich habe die Produkte für Euch getestet.
+excerpt: Lovely Day Botanicals ist ein junges Beauty Start-up aus Berlin, das ausschließlich
+  vegane Naturkosmetik herstellt. Ich habe die Produkte für Euch getestet.
 fileName: 2016-07---lovely-day-botanicals-im-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_07_27942594343_72af97f2c6_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_07_27942594343_72af97f2c6_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwf/xAAoEAACAQQABQMFAQAAAAAAAAABAgMABAURBhIhMUEHEyJRcZGhsfD/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAgED/8QAGhEAAwADAQAAAAAAAAAAAAAAAAECAxExEv/aAAwDAQACEQMRAD8A6ThsQvIGKj8U1y1xjeH8JNkMpIkNtENbPUu2uiKPLH6VtiZFaFCD4qN9RsIt/eR5DM281xY2EcjxCC4ZQo1sn2wpJcfv7ClvSJt15bjo/wAPfYnibEm8xciSoPjJH054X1vkceD/AHxUtxNhwquUHTRNT/pW8d1k7u94esri3W4PNNPK49v2tkKGTuSQOgJ357VccTzoIXG+pB1W43sjFdXCddMsTkZQi60Phunr3hubGSKZNo66Yb1RRS+HUV2MNvgsTHYYyARW8YJ6ttmY92Y+SajOIchK+9/7tRRTGNJLSP/Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2016_07_28480259571_251ae912a9_z__l.jpg
 labels:
-  - Berlin
-  - Fair Fashion & Beauty
-  - Hamburg
-  - Hyaluron
-  - Kosmetik
-  - Lovely Day Botanicals
-  - Start-up
-  - vegan
-  - vegane Kosmetik
-  - veganes Hyaluron
+- Berlin
+- Fair Fashion & Beauty
+- Hamburg
+- Hyaluron
+- Kosmetik
+- Lovely Day Botanicals
+- Start-up
+- vegan
+- vegane Kosmetik
+- veganes Hyaluron
 focusKeyword: Lovely Day
 status: publish
 isWerbung: false
@@ -32,19 +34,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Naturkosmetik aus Berlin
+advertisement: true
+
 ---
-
-Werbung\*
-
-<RemoteImage
-  alt={`Lovely Day Botanicals`}
-  size="medium"
-  title={`Lovely Day Botanicals im Test`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_28558089645_51e988deef_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_28558089645_51e988deef_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBQb/xAAqEAACAQMEAAUEAwEAAAAAAAABAgMEESEABQYSEyIxQVEHYXGRM0Jysf/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAf/EABwRAAICAwEBAAAAAAAAAAAAAAECABEDISIxBP/aAAwDAQACEQMRAD8AnLa41jeORlDdD2s2R6elrjN/vqj/AKXfT6np6KHcOQ0ZfxowIKOoaNURbZZw1vMbk2HzkemkVwusgot+pKyakjq46eXuYWbrcW9R7XBFxfGM6sjjW70e57LDXUVWxidugN2Vu/ujAAsCM/r1tokVWfcbIzKuosuU/TIUUQ3PZFd6CNGaOnQ+K1MSwBby/wAiBe2MsMYOlLWbbS1c7NRO0DOxdFBI6qbAdVPsADcn5+19VZy7lVDx7ZIqqV5ZJ5j4dNCQxklkv8GzdR6km2PyNTNyqSSaumrdwUDxHdkpiwjaOViQ0hUXH9jjriy39zoPoVUfk7MbAzOvQ1FRRzFUBtlVLf8AbjTX4Ty7ceJbnHLRu0sbvIaiNnI8ZfKFU/5BxjGfm2jRrcxogiWIWCDNDk3L67e6mv3CqVfGWmQoly0axMofoFNwDkeYZNvvrkd03R3pGURqojl64JzclgfyD+9GjRAWbPsQmhQ8n//Z"
-/>
-
 **Kennt Ihr schon Lovely Day Botanicals? Die Gründerin Josy und ich folgen uns schon länger auf Instagram. Sie macht Furore mit ihren selbst hergestellten Kosmetikprodukten.**
 
 Die besondere Attraktion: Veganes Hyaluron! Das musst ich mir natürlich mal genauer ansehen. Vor kurzem habe ich Josy einfach mal angeschrieben. Wir fanden heraus, dass unser Musikgeschmack sehr ähnlich ist und waren uns direkt sympathisch. Als ich einen Produkttest in meinem Blog vorschlug, war Josy direkt Feuer und Flamme.
@@ -211,5 +203,3 @@ Wer jetzt neugierig geworden ist und sich Lovely Day Botanicals mal ansehen möc
     },
   ]}
 />
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
