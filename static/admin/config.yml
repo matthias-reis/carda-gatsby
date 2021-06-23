@@ -159,9 +159,14 @@ collections:
           hint: 'Für Übersichtsseiten - Fallback: Description',
         }
       - { label: 'Text', name: 'body', widget: 'markdown' }
-      - { label: 'Hauptbild', name: 'image', widget: image }
+      - { label: 'Hauptbild', name: 'image', widget: image, required: false }
       - { label: 'Copyright Hauptbild', name: 'copyrigt', widget: text }
-      - { label: 'Social Media Bild', name: 'ogImage', widget: image }
+      - {
+          label: 'Social Media Bild',
+          name: 'ogImage',
+          widget: image,
+          required: false,
+        }
       - { label: 'Labels', name: 'labels', widget: 'list' }
       - {
           label: 'Focuskeyword',
