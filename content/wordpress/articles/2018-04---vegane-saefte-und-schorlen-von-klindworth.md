@@ -1,51 +1,53 @@
 ---
-date: 2018-04-01T15:17:15.000Z
+date: 2018-04-01T15:17:15.000+00:00
 slug: vegane-saefte-und-schorlen-im-test
-path: /2018/04/vegane-saefte-und-schorlen-im-test/
+path: "/2018/04/vegane-saefte-und-schorlen-im-test/"
 type: Artikel
 typeName: Produkttest
 title: Vegane Säfte und Schorlen von Klindworth
 seoTitle: 'Getestet: Klindworth vegane Säfte - Niehoffs Vaihinger jetzt vegan'
 ogTitle: 'Getestet: Klindworth vegane Säfte - Niehoffs Vaihinger jetzt vegan'
-description: Ob ich Lust hätte, vegane Säfte und Schorlen von Klindworth zu testen wurde ich gefragt. Hersteller Niehoffs Vaihinger setzt jetzt komplett auf vegan.
-excerpt: Werbung - Ob ich Lust hätte, vegane Säfte und Schorlen von Klindworth zu testen wurde ich gefragt. Hersteller Niehoffs Vaihinger setzt jetzt komplett auf vegan.
+description: Ob ich Lust hätte, vegane Säfte und Schorlen von Klindworth zu testen
+  wurde ich gefragt. Hersteller Niehoffs Vaihinger setzt jetzt komplett auf vegan.
+excerpt: Ob ich Lust hätte, vegane Säfte und Schorlen von Klindworth zu testen wurde
+  ich gefragt. Hersteller Niehoffs Vaihinger setzt jetzt komplett auf vegan.
 fileName: 2018-04---vegane-saefte-und-schorlen-von-klindworth.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_41034073871_275df277a4_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_41034073871_275df277a4_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgADBwT/xAAoEAABAwMDAwQDAQAAAAAAAAABAgMEAAURBhIhIjFRExRBYQckgaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQC/8QAHhEAAgICAgMAAAAAAAAAAAAAAQMAAhESBCEFMeH/2gAMAwEAAhEDEQA/AOI+3C+Pk8UzYtFsnaovKG5X66LepxtaXx1ObUgJye/OeKIW2Sl65RmgCfUcCeFbTz9/FOtG2mVHuj8ZB9whbLanXNyGi2CsjIHOfOM1F5F9krJqcH7KOOrehsRnsQXdoEVGmLI+28lUlwves3vB2DI28DkZHmvBqHS71nslsuMmQ0TcEhxthKTuSnbnKiePHbzSqRpoN2+PLwHXJTpbUlzYEKJUQMBPIx/tYfmeWk3+LAaWlTMGOGkbD0jsOP4kU7jOq6ptU57Mn01zBTC3GH232VbXW1BaSRkZH1XRLS5eIMlx5q5M7loCCDETjAOR8+TVVTWoW4asGRGLZeoIqeppAauMabb3JlxTLixXvWDHt0o3HnHUDnuc0G1845J1XOdcWcrKTjx0jiqqha6LGKDAmLep/9k=
-ogImage: null
+ogImage: 
 labels:
-  - Afri Cola vegan
-  - Afri-Cola
-  - Apfelsaftschorle
-  - Apfelschorle
-  - Cranberry
-  - Cranberrysaft
-  - Ernährung
-  - Ernährung & Gesundheit
-  - Glasflaschen
-  - Grapefruit
-  - Grapefruitsaft
-  - Holunder
-  - Holundersaft
-  - Klindworth
-  - Klindworth vegan
-  - Lindavia
-  - Lindavia vegan
-  - Maracuja
-  - Merziger
-  - Merziger vegan
-  - Niehoffs Vaihinger vegan
-  - Pampelmuse
-  - Pampelmusensaft
-  - Rhabarber
-  - Rhabarberschorle
-  - Saft
-  - Säfte
-  - Schorle
-  - vegane Ernährung
-  - vegane Getränke
-  - vegane Säfte
+- Afri Cola vegan
+- Afri-Cola
+- Apfelsaftschorle
+- Apfelschorle
+- Cranberry
+- Cranberrysaft
+- Ernährung
+- Ernährung & Gesundheit
+- Glasflaschen
+- Grapefruit
+- Grapefruitsaft
+- Holunder
+- Holundersaft
+- Klindworth
+- Klindworth vegan
+- Lindavia
+- Lindavia vegan
+- Maracuja
+- Merziger
+- Merziger vegan
+- Niehoffs Vaihinger vegan
+- Pampelmuse
+- Pampelmusensaft
+- Rhabarber
+- Rhabarberschorle
+- Saft
+- Säfte
+- Schorle
+- vegane Ernährung
+- vegane Getränke
+- vegane Säfte
 focusKeyword: vegane Säfte
 status: publish
 isWerbung: false
@@ -53,10 +55,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Niehoffs Vaihinger ist jetzt vegan
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Vor Kurzem bekam ich eine nette Mail von Niehoffs Vaihinger. Dazu gehören Marken wie afri cola, Klindworth Fruchtsäfte und Schorlen, Niehoffs Vaihinger Säfte, Lindavia und Merziger. Man war beim Stöbern hier im Blog auf [meinen Artikel](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/) zum Thema versteckte tierische Inhaltsstoffe gestoßen und hatte eine gute Nachricht für mich:**
 
 "Du kannst unsere Produkte jetzt auch in Deine Liste der veganen Getränke aufnehmen! Wir können heute mit gutem Gewissen sagen, dass all unsere Getränke vegan sind. Wir verwenden weder Gelatine zum Klären noch Kleber aus tierischen Produkten für unsere Etiketten!"
@@ -167,5 +168,3 @@ Von mir bekommt Ihr also eine klare Empfehlung. Und in [meine Liste](/2014/12/ve
     },
   ]}
 />
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).

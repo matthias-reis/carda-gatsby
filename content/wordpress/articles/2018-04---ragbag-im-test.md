@@ -1,38 +1,40 @@
 ---
-date: 2018-04-17T08:11:16.000Z
+date: 2018-04-17T08:11:16.000+00:00
 slug: faire-taschen-aus-teesaecken-ragbag-im-test
-path: /2018/04/faire-taschen-aus-teesaecken-ragbag-im-test/
+path: "/2018/04/faire-taschen-aus-teesaecken-ragbag-im-test/"
 type: Artikel
 typeName: Produkttest
 title: Ragbag im Test
 seoTitle: Faire Taschen aus Teebeuteln - Upcycling Fashion von Ragbag
 ogTitle: Faire Taschen aus Teebeuteln - Upcycling Fashion von Ragbag
-description: 'Ragbag lernte ich vor ungefähr 10 Jahren kennen. Die fairen Upcycling Taschen begeisterten mich sofort. Jetzt gibt es was Neues: Taschen aus Teesäcken.'
-excerpt: 'Werbung - Ragbag lernte ich vor ungefähr 10 Jahren kennen. Die fairen Upcycling Taschen begeisterten mich sofort. Jetzt gibt es was Neues: Taschen und Accessoires aus Teesäcken.'
+description: 'Ragbag lernte ich vor ungefähr 10 Jahren kennen. Die fairen Upcycling
+  Taschen begeisterten mich sofort. Jetzt gibt es was Neues: Taschen aus Teesäcken.'
+excerpt: 'Ragbag lernte ich vor ungefähr 10 Jahren kennen. Die fairen Upcycling Taschen
+  begeisterten mich sofort. Jetzt gibt es was Neues: Taschen und Accessoires aus Teesäcken.'
 fileName: 2018-04---ragbag-im-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41472283612_5a6c8b5255_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41472283612_5a6c8b5255_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBgMI/8QALBAAAgEDAwIEBQUAAAAAAAAAAQIDBAURABIhBjETIjJBBxQVYYEWQlFxgv/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EACQRAAEDAwIHAQAAAAAAAAAAAAEAAgQDERIhQRMiUYGRwfDh/9oADAMBAAIRAxEAPwC49Q9O/qczUU8jQR08SGOSNQ+JWbcSVPsFRB/o686dY2Cht99ktF6q6bbC3h/MquxkI43Ad8HPbJGf61Vuqb8KPqi4RVVY0Mfitty5RMAKBkj37aQ3S708sBEFbQvMf2Sqx3cnPm757c/bUb51iQG/eFsta0Xy7fFZb4a2+G31Vxlttf45jjQo/h+VZkmWSJsj1L5CDwOG1Yrz1dUy1maQ0RtklODHCzFZ0LMUDMNvbcCOCc4HbU++tUU1NGJnppWJ2s0UbKA3PGfxpz8Rr2On6qSGoprclJbpYlgen3jw43DHY659RyTk57ZwM50seU6sTkLWWK/DDAWnUpT1XUvV3ua5UtFNXUVVyJY0V1jfaAwPPHIzpFUdR0tHOI6hDFtCiQTTQxOueeVPPI5++jRqeRGZmT19qijUdZdbneWtlpF1lpKuKlLK0c0iBo2z6cFfc/zrG9R9aNU26Cnpn+UBLPIzKXdjgMODk7icksTg5/GjRpI1MU2cu6CWczrt+L//2Q==
-ogImage: null
+ogImage: 
 labels:
-  - Calcutta
-  - Conserve
-  - fair
-  - Fair Fashion
-  - Fair Fashion & Beauty
-  - fairtrade
-  - Indien
-  - Neu Delhi
-  - Ragbag
-  - Ragpicker
-  - Südindien
-  - Tamil Nadu
-  - Taschen
-  - Teesäcke
-  - Upcycling
-  - vegan
-  - vegane Taschen
-  - veganes Leder
+- Calcutta
+- Conserve
+- fair
+- Fair Fashion
+- Fair Fashion & Beauty
+- fairtrade
+- Indien
+- Neu Delhi
+- Ragbag
+- Ragpicker
+- Südindien
+- Tamil Nadu
+- Taschen
+- Teesäcke
+- Upcycling
+- vegan
+- vegane Taschen
+- veganes Leder
 focusKeyword: Ragbag
 status: publish
 isWerbung: false
@@ -40,10 +42,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Faire Taschen aus Teesäcken
+advertisement: true
+
 ---
-
-_Werbung\*_
-
 **Ragbag habe ich vor etwa 10 Jahren kennengelernt. Damals sah ich im Dritten einen Bericht über die Taschen und Geldbörsen, die das Label in Indien aus gesammelten Plastiktüten herstellen lässt.**
 
 <RemoteImage
@@ -165,5 +166,3 @@ Ich persönlich bin ein großer Fan von Ragbag und dem Gedanken dahinter. Daher 
     },
   ]}
 />
-
-\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
