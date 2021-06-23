@@ -1,32 +1,35 @@
 ---
-date: 2017-06-21T12:58:43.000Z
+date: 2017-06-21T12:58:43.000+00:00
 slug: piqd-abo-verlosung
-path: /2017/06/piqd-abo-verlosung/
+path: "/2017/06/piqd-abo-verlosung/"
 type: Artikel
 typeName: Verlosung
 title: piqd Verlosung
 seoTitle: Piqd Abo zu gewinnen! Erlebe guten Journalismus so lang Du lebst!
 ogTitle: Verlosung! Gewinne ein lebenslanges piqd-Abo! - Erlebe guten Journalismus
-description: Heute habe ich etwas ganz Besonderes für meine Leser vorbereitet. Ich verlose ein lebenslanges piqd-Abo im Wert von 299,00 €. Wie das geht, erfahrt Ihr hier
-excerpt: Heute habe ich etwas ganz Besonderes für meine Leser vorbereitet. Ich verlose ein lebenslanges piqd-Abo im Wert von 299,00 €. Wie das geht, erfahrt Ihr hier
+description: Heute habe ich etwas ganz Besonderes für meine Leser vorbereitet. Ich
+  verlose ein lebenslanges piqd-Abo im Wert von 299,00 €. Wie das geht, erfahrt Ihr
+  hier
+excerpt: Heute habe ich etwas ganz Besonderes für meine Leser vorbereitet. Ich verlose
+  ein lebenslanges piqd-Abo im Wert von 299,00 €. Wie das geht, erfahrt Ihr hier
 fileName: 2017-06---piqd-verlosung.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwUH/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBjFBExQVUSJCcoHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQFBgf/xAAkEQABBAEDAwUAAAAAAAAAAAABAAIDEQQFElEhMcFhobHR8P/aAAwDAQACEQMRAD8AVi4Bx51J0bdtQiQ7d34ZPj/NUSPjO3GfJ1sdPr7562NKINHHAWDe7EKxcAbyW4OD4P2dWWeYxiwLWeYmM2d4a40tTry1260fHPbt8aTxsZN8u5SVIGVP96WQfvTRfrj01eoKCC5XQfItFLJG0Su60y78D1MAjBOOMZxyM9irVFPJQVc1HOMSQOYm78EHHnnS+BkmSMbrv1T2tYQgnLo62niq9uascqyWnpKfp+S41j1LSSmVKWOALj1IwhJkLfqd6jjnvqXS3Sd0Noh6gulEldDOElWCOdVkjiI3CQBhtP8AEt28E6NGkMyV4cBff7KmtIx43MJ29QB8A+V0egs9u9nS3W626oQxyQvlJlcCGQBw44U8sVypGR3551zS4RVDXe5LM0ksyTSPK8rhmJ3HJJ8nnRo0HBeWFxH7qjaxC2RsbD2vwV//2Q==
-ogImage: null
+ogImage: 
 labels:
-  - Antifaschismus & Feminismus
-  - Grimme Award
-  - Grimme Online Award
-  - Grimmepreis
-  - Journalismus
-  - neues Portal
-  - piqd
-  - piqd Account
-  - Social Media
-  - Soziale Netzwerk
-  - testen
-  - Verlosung
+- Antifaschismus & Feminismus
+- Grimme Award
+- Grimme Online Award
+- Grimmepreis
+- Journalismus
+- neues Portal
+- piqd
+- piqd Account
+- Social Media
+- Soziale Netzwerk
+- testen
+- Verlosung
 focusKeyword: piqd
 status: publish
 isWerbung: false
@@ -34,27 +37,14 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Lebenslanges Abo gewinnen
----
-
-_Werbung\*_
+advertisement: true
 
 ---
-
-Hinweis: Die Aktion ist beendet. [Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
+**Hinweis:** Die Aktion ist beendet. [Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
 ---
 
-<RemoteImage
-  alt={`piqd`}
-  size="full"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_5938fe1ecba8e.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_5938fe1ecba8e.png__l.jpg"
-  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAATCAYAAADxlA/3AAAACXBIWXMAAAsTAAALEwEAmpwYAAADrklEQVRIiY1WS6iVVRQ+93jP1XKtEgKhsEFhjesSFFmOLOgBYRpKg2jYIOgBRnCDIA2hwf4GPojEIKhh66NGlQMHPYQmIThwpJfuIDELCiO9kTfW3mvvf5/jHTTY5+x//2ut/a1vvf6RgqP/tRLfFpCSrJ6N/V98+Vm6WafIluV7SZzP8uAzAn6r4I8hkC8YSQgPRmxD/N+tsDVJtqaJb7oRBRfKJU12FvDUeQFgCwWsfZ5tgVdcwA1tLAZtouB8nPnlc9WIwL5Q8FcF7+gYGIfevIKu29niXAaRmiP+fnMw8JGCDuDCOnQHXWU/lgDRUR/vOJ6lPc5n17iyVBjO+w+cUQWXXekVAV9T8CUFjwqMAh5UcGtnxD06oMneU/CeelF487qCnyl4UpPtV/BVgb3lHvvFcfk2SXZIQdPEJU38RjIAWxkFkrY8Nv6yLD4RAO6qZwq+GGfbFPw3YjmzPFfsTi2s7atn2UaK90X2Fxe4rOA/kvi3gNcUdl3BqwOg7MVEU9772ZMRjrPdpWcUPNeec7LaXCReSV7YqiQ7reDP0wCS/RlKNxp6vxhcDY8XwxOvAD/fEbRWxl4Yyo7HOlB+9lgBkPW2t5IFzwSjK/7wRxgqAIqX/uxM+H5P1HI1vJizeaB+0uXK410YXef56mkA9GrxvFmK8+UGQMFpBhoA2x21XJl5UGC3drItWQX2rAxyfuFzZW+/RSijr/BwOLrcAbAbTbm8zAAEtjf6QMSXi5JMOkCbuvLb2YdAwN1xUWZAwVuCzaXIi2WPSQmBMxD0x0XX43lnAZDB+Hok4ug6a0F76aSJ79YkDFAPdw45a7W/fB0hXOlzYFVzFWTP/+oucOPejCo7uyK7r4Tha5LsEwW/HFjJVTDvyVtzRWCXBPxQwe9bpSBCkL0bBEvNlnp9OZLH41z7QM36h3rGMthWcnm/JTrq3lZBMz3DddzQ75EDXylyGX2nsOMK3t9Nudul1PpFBR/tuuBtCh7yzqbgxwqeaKASNcrX132S7KjCTin4qYLvSLIjCh70PnA50LyxzjjNfXy2x5c+YON15B/oQpABSMoDbnqWdLNhpOClUHo/BDcLbCI+4Zpg/t+gpYzacJIyMSc1wRR8uvWSDKBMQvFp6EBc378JEhdydwUnrnQ1ks3pd6Mbi/FpxIWJ7sNjGDR5WJWQ2J6WTw5gAD58I8xMUP85r+BPCnsqGs7kpo+Lqek3fOV0I7x2uHsV9oOm/N2wpTE3M64b8MTRf7ZbEFzaH4CiAAAAAElFTkSuQmCC"
-/>
-
----
-
-**Liebe Leser,**
+**Liebe Leser⋆innen,**
 
 **heute habe ich etwas ganz Besonderes für Euch vorbereitet. Ich verlose ein lebenslanges _piqd_ -Abo im Wert von 299,00 Euro! Wie das geht und was _piqd_ genau ist, erfahrt Ihr in diesem Artikel.**
 
@@ -116,5 +106,3 @@ Ich wünsche Euch viel Glück!
 />
 
 [](https://www.piqd.de/?utm_source=blog&utm_medium=beitrag&utm_campaign=trusted-blogshttp://)
-
-\*Hinweis: Dieser Beitrag enthält Werbung und entstand im Zusammenhang mit Trusted Blogs. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. [Für Infos dazu bitte hier klicken](https://www.trusted-blogs.com/tipps/werbekennzeichnung).
