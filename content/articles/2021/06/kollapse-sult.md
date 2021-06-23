@@ -68,7 +68,7 @@ Der zweite Song "Knæler" wirkt fast noch kraftvoller als sein Vorgänger und au
 
 "Libido" zieht die Hörer⋆innen in einen wirbelnden Sog – das Schlagzeug ist wunderbar präzise, schöne Tempowechseln machen den Song zu einem aggressiven Tanz.
 
-"Der, hvor jeg tænker, er der altid mørkt" enthält überraschender Weise Trompeten-Sound. Dieser wurde von Dan Hejslet eingespielt. Der sechste und letzte Song auf der Platte besitzt ein nachdenkliches und leicht wirkendes Intro, das von einem durchdachten Zusammenspiel von Drums und Gitarren abgelöst wird, um sich anschließend in einem Meer aus Melodien zu ergießen.
+"Der, hvor jeg tænker, er der altid mørkt" enthält überraschenderweise Trompeten-Sound. Dieser wurde von Dan Hejslet eingespielt. Der sechste und letzte Song auf der Platte besitzt ein nachdenkliches und leicht wirkendes Intro, das von einem durchdachten Zusammenspiel von Drums und Gitarren abgelöst wird, um sich anschließend in einem Meer aus Melodien zu ergießen.
 
 Mit ihren insgesamt 41 Minuten Spieldauer ist die Platte sicher nicht die längste in diesem Genre. Allerdings haben es Kollapse auch geschafft innerhalb dieser relativ kurzen Zeit alles perfekt auf den Punkt zu bringen. Das Gesamtwerk ist ein schönes Stück Musik, das lange Warten hat sich auf jeden Fall gelohnt!
 
