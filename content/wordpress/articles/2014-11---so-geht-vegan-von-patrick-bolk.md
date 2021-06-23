@@ -9,8 +9,8 @@ seoTitle: '"So geht vegan" von Patrick Bolk - ein Buch für Vegan-Einsteiger'
 ogTitle: '"So geht vegan" von Patrick Bolk - ein Buch für Vegan-Einsteiger'
 description: Patrick Bolk berichtet in seinem Buch "So geht vegan" von seinen persönlichen
   Erfahrungen und erzählt u. a., wie es ihm gelang 25 Kilo abzunehmen.
-excerpt: Affiliate Link - Patrick Bolk berichtet in seinem Buch "So geht vegan" von
-  seinen persönlichen Erfahrungen und erzählt u. a., wie es ihm gelang 25 Kilo abzunehmen.
+excerpt: Patrick Bolk berichtet in seinem Buch "So geht vegan" von seinen persönlichen
+  Erfahrungen und erzählt u. a., wie es ihm gelang 25 Kilo abzunehmen.
 fileName: 2014-11---so-geht-vegan-von-patrick-bolk.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk__l.jpg
