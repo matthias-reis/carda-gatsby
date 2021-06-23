@@ -61,13 +61,6 @@ Die Teilnehmer der Treffen reparieren in Gruppen oder in Eigenregie defekte Ding
 
 ## Ehrenamtliche Helfer stellen ihre Fachkenntnisse zur Verfügung
 
-<RemoteImage
-  size="medium"
-  mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
-  largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
-  loadingUrl="undefined"
-/>
-
 Ehrenamtliche Helfer mit speziellen Fachkenntnissen unterstützen die Besucher bei ihren Projekten. Auch hier möchte SOS Zubehör in Zukunft Rückhalt bieten: Eine Service-Hotline für mehr als 250.000 verschiedene Haushaltsgerät-Modelle bietet ihren technischen Support an. Video-Tutorials und ein technischer Blog mit Anleitungen soll zusätzlich bei Problemen helfen.
 
 In der Zwischenzeit wächst das Netzwerk der Repair Cafés immer weiter. Im Moment gibt es weltweit 1.600 Repair Cafés, in denen bereits mehr als 300.000 Gegenstände repariert wurden. 300.000 Gegenstände, die nicht auf dem Müll gelandet sind. 300.000 Gegenstände, die nicht neu gekauft werden mussten. Monatlich gehen rund 50.000 Menschen im Monat in ein Repair Café. Etwa 21.000 ehrenamtliche Mitarbeiter unterstützen die Projekte. Auch ihre Zahl wächst stetig.
@@ -77,13 +70,6 @@ Die Besucher der Repair-Cafés freuen sich besonders über den Gemeinschafts-Ged
 ## Die neue Kooperation ist ein nachhaltiges Konzept
 
 "Wir freuen uns über unseren neuen Partner. Durch Unternehmen wie SOS Zubehör hat jeder die Möglichkeit, seine Elektro-Geräte zu warten und zu reparieren – auch wenn er kein Heimwerker-Profi ist.", so Martine Postma.
-
-<RemoteImage
-  size="medium"
-  mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
-  largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
-  loadingUrl="undefined"
-/>
 
 SOS Zubehör wurde 2008 unter dem Namen SOS Accessoire SAS von Olivier de Montlivault in La Verrière, Yvelines in Frankreich gegründet. Das Unternehmen ist spezialisiert auf Fehlersuche, Kundensupport und Reparaturen. Das Konzept scheint aufzugehen. Inzwischen gibt es Dependancen in Deutschland und Italien. Weitere Standorte sind geplant. Die Ersatzteile werden auf der eigenen Homepage, auf Ebay und auf Amazon angeboten.
 
