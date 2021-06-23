@@ -59,6 +59,5 @@ Die Batterie aus Binghamton ist ein Hybrid aus Filterpapier und einem stromleite
 
 Nach wie vor offen ist, ob die nachhaltigen Batterien auf den Markt gebracht werden. Bisher ist ihre Leistung noch sehr schwach. Lediglich Kleinstgeräte wie beispielsweise kleine Biosensoren (z. B. Blutzuckermessgeräte) können damit betrieben werden. Die Forscher bleiben jedoch dran. Es wäre auf jeden Fall ein großer Schritt in Richtung mehr Nachhaltigkeit, wenn es sich dabei bald nicht mehr um Zukunftsmusik sondern um Massenware in unseren Supermärkten handeln würde.
 
-[Tolle Accessoires aus recyceltem Papier](https://www.adcell.de/promotion/click/promoId/169185/slotId/80259?param0=https%3A%2F%2Fmargreblue.de%2Fprodukt-kategorie%2Faccessoires-aus-recycelten-papier%2F) ](https://www.adcell.de/promotion/click/promoId/169217/slotId/80259/subId/httpsmargreblue.deprodukt-kategorieaccessoires-aus-recycelten-papier)
 
 **Quelle:** Pressetext.com **Titelbild** : [andreas160578](https://pixabay.com/de/users/andreas160578-2383079/), pixabay
