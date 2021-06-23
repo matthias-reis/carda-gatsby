@@ -97,14 +97,3 @@ Buch mit modernen Gerichten, die sich ganz leicht und in kurzer Zeit zubereiten 
 [](https://amzn.to/2RcsTJC) Meine Lieblingsrezepte sind neben dem Saltimbocca und dem scharfen Reisnudelsalat ganz klar das Tomate- Tofurella-Baguette und die Nussecken. Insgesamt sind in "Vegan im Job" über 60 Rezepte enthalten, es gibt Ideen für "To-go"-Snacks und zahlreiche tolle, umsetzbare Alltagstipps für Einsteiger und Fortgeschrittene. Ich werde mich nun erst mal in die Küche begeben und mir ein leckeres Sandwich mit Veggie-Eiersalat machen. Der klingt nämlich auch ziemlich lecker.
 
 "[Vegan im Job](https://amzn.to/2RcsTJC) " ist beim Südwest Verlag erschienen und kostet 14,99 €. Mehr über Patrick Bolk kann man [auf seiner Homepage](http://patrickbolk.de/) erfahren.
-
-<iframe
-  style="width: 120px; height: 240px;"
-  src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3517093742&amp;asins=3517093742&amp;linkId=f521c31782ac0e0d3655f9c024242f34&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff"
-  frameborder="0"
-  marginwidth="0"
-  marginheight="0"
-  scrolling="no"
->
-  ﻿﻿
-</iframe>
