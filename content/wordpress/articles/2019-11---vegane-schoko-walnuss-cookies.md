@@ -1,31 +1,33 @@
 ---
-date: 2019-11-28T06:55:37.000Z
+date: 2019-11-28T06:55:37.000+00:00
 slug: vegane-schoko-walnuss-cookies
-path: /2019/11/vegane-schoko-walnuss-cookies/
+path: "/2019/11/vegane-schoko-walnuss-cookies/"
 type: Artikel
 typeName: Rezept
 title: Vegane Schoko-Walnuss-Cookies
 seoTitle: Vegane Schoko-Walnuss-Cookies - Rezept für zwei Bleche
 ogTitle: Vegane Schoko-Walnuss-Cookies - Rezept für zwei Bleche
-description: Draußen wird es langsam kühler - Zeit ein paar leckere vegane Schoko-Walnuss-Cookies zu backen. Mit diesem Rezept gelingen sie auf jeden Fall.
-excerpt: Anzeige & Affiliate Links - Draußen wird es langsam kühler - Zeit ein paar leckere vegane Schoko-Walnuss-Cookies zu backen. Mit diesem Rezept gelingen sie auf jeden Fall.
+description: Draußen wird es langsam kühler - Zeit ein paar leckere vegane Schoko-Walnuss-Cookies
+  zu backen. Mit diesem Rezept gelingen sie auf jeden Fall.
+excerpt: Draußen wird es langsam kühler - Zeit ein paar leckere vegane Schoko-Walnuss-Cookies
+  zu backen. Mit diesem Rezept gelingen sie auf jeden Fall.
 fileName: 2019-11---vegane-schoko-walnuss-cookies.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-10-walnuss-schoko-cookies-post-baking-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-10-walnuss-schoko-cookies-post-baking-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAwQH/8QAKxAAAQQBAgUEAAcAAAAAAAAAAQIDBBEFACEGEjFBYRMUIlEjJDJxcoGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAQP/xAAlEQABAwMCBgMAAAAAAAAAAAABAgMRAGHwBBITISIxQeEyscH/2gAMAwEAAhEDEQA/AI3E8Nt4h9a+IVNBsBCQ3zbAKuiop+iP09/8LVEmVj3m3sfI9rVKbcjMIaSjmJCudxSjymhRNi/26458Yx50R+c4uQw6Qsl8qUa2oK3G52rwdtb0peIfS77SJFTMSkJQhSQpJIJIFE15333231GcUrTOmUH8tna1WGdr7Q6hme6pns3LnYQN5J2PPbfQgFEiN8FquuYKq+Umt+wIPnUTneBZ8+K9kMIzIaYaNvQHHucoPWkrJ+R70T076okZJ98H2/qSVFwggBSUc6rKUqI6WKG21jbVRw9hpOIaCspMVFTkWfyq45Q4wlw2PTcVVBe4oGgfu9tctG88tfDXzTfJztW6tpltO9EBVsip3h/LPOxUodSlTkYfFfe2nOUHwSldf0NO2VxJGUlx5mNhSvetvIU66yn1EKbIAUFADchVH+IP3Zo00+IAPmTSTBmRYU8wrDTEhhgpK4U1txt2IT+FaD1Ce3S6FVt9a5rxhxTOwcXPRY61uwi9yei6oKsGwQTXi9q0aNCkdahnyj6oXSdgV59V/9k=
-ogImage: null
+ogImage: 
 labels:
-  - Birkenzucker
-  - Cookies
-  - Schoko-Walnuss-Cookies
-  - vegan
-  - vegane Cookies
-  - vegane Kekse
-  - vegane Plätzchen
-  - vegane Rezepte
-  - Vegane Rezepte
-  - Walnuss
-  - Xucker
+- Birkenzucker
+- Cookies
+- Schoko-Walnuss-Cookies
+- vegan
+- vegane Cookies
+- vegane Kekse
+- vegane Plätzchen
+- vegane Rezepte
+- Vegane Rezepte
+- Walnuss
+- Xucker
 focusKeyword: Cookies
 status: publish
 isWerbung: false
@@ -34,10 +36,10 @@ language: de
 errors:
   outsideImage: article has at least one image that could not be found
 subTitle: Rezept mit wenig Süße
+advertisement: true
+affiliate: true
+
 ---
-
-_Anzeige &amp; Affiliate Links\*_
-
 **Draußen wird es langsam kühler - Zeit ein paar Cookies zu backen. Die süße Küche ist nicht unbedingt Eure Stärke? Meine Schoko-Walnuss-Cookies gelingen ganz bestimmt!**
 
 Die Zutaten werdet Ihr zum größten Teil zu Hause haben. Für die Herstellung der leckeren Kekse braucht Ihr nicht mal eine Küchenwaage. Nur etwas Geduld und einen Backofen - schon kann es losgehen.
@@ -77,19 +79,3 @@ Anstelle von herkömmlichem braunem Zucker habe ich für meine Cookies  [Xucker
 ## Feine Schoko-Drops
 
 Die [von mir verwendeten Edel-Bitterschokoladen-Drops stammen ebenfalls von Xucker](http://tidd.ly/b9dd4b7e). Sie enthalten mindestens 75 Prozent Kakao, sind vegan und ohne Zuckerzusatz. Neben der Kakaomasse enthalten sie 23 Prozent zahnpflegendes Xylit als Süßungsmittel sowie Kakaobutter und Sonnenblumen-Lecithine als Emulgator. Als Aroma wird natürliche Bourbon Vanille zugesetzt.
-
-<!-- START ADVERTISER: Xucker DE from awin.com -->
-
-<RemoteImage
-  alt={`null`}
-  size="medium"
-  mediumUrl="https://www.awin1.com/cshow.php?s=2269518&amp;v=11793&amp;q=348986&amp;r=632580"
-  largeUrl="https://www.awin1.com/cshow.php?s=2269518&amp;v=11793&amp;q=348986&amp;r=632580"
-  loadingUrl="undefined"
-/>
-
-[](https://www.awin1.com/cread.php?s=2269518&v=11793&q=348986&r=632580)
-
-<!-- END ADVERTISER: Xucker DE from awin.com -->
-
-\*Hinweis: Dieser Beitrag enthält eine Anzeige und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

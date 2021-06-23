@@ -1,33 +1,35 @@
 ---
-date: 2020-01-20T17:41:24.000Z
+date: 2020-01-20T17:41:24.000+00:00
 slug: isle-of-mind
-path: /2020/01/isle-of-mind/
+path: "/2020/01/isle-of-mind/"
 type: Artikel
 typeName: Produkttest
 title: Isle Of Mind
 seoTitle: Isle Of Mind - Mein neues Yoga-Handtuch im Belastungstest
 ogTitle: Isle Of Mind - Mein neues Yoga-Handtuch im Belastungstest
-description: Die Yoga-Tücher von Isle Of Mind bestehen zu 45 Prozent aus PET-Flaschen. Ich habe jetzt eins ausprobiert und möchte es nie wieder hergeben.
-excerpt: Werbung & Affiliate Links - Die Yoga-Tücher von Isle Of Mind bestehen zu 45 Prozent aus PET-Flaschen. Ich habe jetzt eins ausprobiert und möchte es nie wieder hergeben.
+description: Die Yoga-Tücher von Isle Of Mind bestehen zu 45 Prozent aus PET-Flaschen.
+  Ich habe jetzt eins ausprobiert und möchte es nie wieder hergeben.
+excerpt: Die Yoga-Tücher von Isle Of Mind bestehen zu 45 Prozent aus PET-Flaschen.
+  Ich habe jetzt eins ausprobiert und möchte es nie wieder hergeben.
 fileName: 2020-01---isle-of-mind.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2020-01-12-yoga-56-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2020-01-12-yoga-56-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAJxAAAQMDBAEEAwEAAAAAAAAAAQIEEQADBQYSITFBEyJRYQcjgZH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAGxEAAQUBAQAAAAAAAAAAAAAAAQACERIhMQP/2gAMAwEAAhEDEQA/AMswqWDdt6iwtdlqV3SrmQO5mB99d9VP5bWNzUeGBeXLbDFpQUNrSdxJKYSbnBAK/ABMDwO6sP450+3VYF/KIB3D2WCAQmeisHs/X+0i60iNQOr2PvvmePcIurspsLgC7tUSICRtSYH9jqo2cG7kqwaJzYSDPVmRxOlLrf0E32G8NVLUFQPUBCVj4JIAPjyBWWaiw75OWWtbUotFSeiCAIArftIMruPvhthsjjHLpQhF5aibSQiZAQRyZPChxxPVVfVouJuXVuWmQsPVLlaFs/0rBPhSBH98z4pA70LbN2E5DA6rsld9N5a4LCSE8HiN3PP3VnxjVi1eJdWWiRe5T7jKeZMxET1z9CiitJAPVmsRxMFLRDxbwNEFyTu3KM8zMj4PAj4qD1BnXItK2yAfAUaKKIEcQJJ6v//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel-3.png__l.jpg
 labels:
-  - Achtsamkeit
-  - Fair Fashion & Beauty
-  - Guppyfriend
-  - Guppyfriend Washbag
-  - Handtuch
-  - Isle Of Mind
-  - Surfer
-  - vegan
-  - Washbag
-  - Yoga
-  - Yoga-Handtuch
-  - Yogalaken
-  - Yogatuch
+- Achtsamkeit
+- Fair Fashion & Beauty
+- Guppyfriend
+- Guppyfriend Washbag
+- Handtuch
+- Isle Of Mind
+- Surfer
+- vegan
+- Washbag
+- Yoga
+- Yoga-Handtuch
+- Yogalaken
+- Yogatuch
 focusKeyword: Isle Of Mind
 status: publish
 isWerbung: false
@@ -35,10 +37,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Mein neues Yoga-Handtuch im Belastungstest
+affiliate: true
+advertisement: true
+
 ---
-
-_Werbung &amp; Affiliate Links\*_
-
 **Bei Isle Of Mind glaubt man daran, dass jeder Mensch die Kraft besitzt, eine bessere Zukunft zu gestalten. Gründer Simon und sein Team setzen sich für soziale Projekte und mehr Nachhaltigkeit ein.**
 
 Die [Yoga-Tücher von Isle Of Mind](https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Fall-products) bestehen zu 45 Prozent aus recycelten PET-Flaschen und entsprechen dem GRS (Global Recycled Standard). Insgesamt werden für ein Handtuch acht Plastikflaschen wiederverwendet. Auf der Ilse Of Mind Homepage heißt es
@@ -68,5 +70,3 @@ Simon von Isle Of Mind hat mir empfohlen, dass Handtuch bei 30 Grad im Waschbeut
 Isle Of Mind wurde 2018 von Simon Vogt gegründet. Der Firmensitz befindet sich in München. Das Team besteht inzwischen aus acht Personen - Tendenz steigend. Das Konzept scheint also auf jeden Fall aufzugehen. Ich freue mich mit und werde auf jeden Fall weiter mit Simon in Kontakt bleiben und Euch auf dem Laufenden halten. Yoga-Fans und Menschen, die beim Packen gerne Platz sparen, kann ich die tollen Tücher auf jeden Fall empfehlen. Wer neugierig geworden ist, kann jederzeit [im Isle Of Mind Onlineshop vorbeischauen](https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Fall-products).
 
 <Gallery name="isleofmindcardamonchaibunt" />
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).

@@ -1,30 +1,32 @@
 ---
-date: 2019-11-21T17:35:24.000Z
+date: 2019-11-21T17:35:24.000+00:00
 slug: veganer-adventskalender-von-xucker
-path: /2019/11/veganer-adventskalender-von-xucker/
+path: "/2019/11/veganer-adventskalender-von-xucker/"
 type: Artikel
 typeName: Produkttest
 title: Veganer Adventskalender von Xucker
 seoTitle: Veganer Adventskalender von Xucker - Geschenktipp
 ogTitle: Veganer Adventskalender von Xucker - Geschenktipp
-description: Schön sieht er ja schon mal aus der vegane Adventskalender von Xucker. Hinter jedem Türchen steckt vegane Gentechnik-freie Edelbitterschokolade.
-excerpt: Werbung und Affiliate Links - Schön sieht er ja schon mal aus der vegane Adventskalender von Xucker. Hinter jedem Türchen steckt vegane Gentechnik-freie Edelbitterschokolade.
+description: Schön sieht er ja schon mal aus der vegane Adventskalender von Xucker.
+  Hinter jedem Türchen steckt vegane Gentechnik-freie Edelbitterschokolade.
+excerpt: Schön sieht er ja schon mal aus der vegane Adventskalender von Xucker. Hinter
+  jedem Türchen steckt vegane Gentechnik-freie Edelbitterschokolade.
 fileName: 2019-11---veganer-adventskalender-von-xucker.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-04-xucker-6__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-04-xucker-6__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwYH/8QAKRAAAgEDAwIGAgMAAAAAAAAAAQIDBAURABIhBjETIjJBUWEUM0Jxof/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAb/xAAhEQABBAICAgMAAAAAAAAAAAABAgMRIQAEMUEScRORwf/aAAwDAQACEQMRAD8AVdMWRJNrugKqN2fjjnTalsD1Jju9RcKSCSFi3g+YGNFBKKBuGSffj+XvqNLDLXWpKGiqKanlqXWIPLJ+9ApLhAAc9ufr4zpzZulrs17aS63bxLYsZCwU4wXO1QAd3pHmPz6fvOkPB023HB5xrbiEUqbix+2MdTW5IdrmEruG4KeMcA8/HfWcuVBBK43RorjIXkc57gad9eV5t9kp7VQl/wAqrBj8VjudIUXMjdj5mACg47t9alWTCpMc+KdYZkV4lUHIJ5yScYIB7Y7++iSolUTxGASB1nBumaqe2uklBVTQyKCAwVGK5GDjK8ca18N+vkaGSnvNa8yLmON2QIzYxg+Tto0a0jeqyoWkfWZfZ23wsq8zPvE0F86rm6hqJ69namlGJHeQBI9wySgB75X04x/WrLt1Bdipja6TvEMjYYk24K7e2Pj/AHnRo1O1psoKx4zffrKXd99/4yoxXVZ//9k=
-ogImage: null
+ogImage: 
 labels:
-  - Birkenzucker
-  - Ernährung
-  - Ernährung & Gesundheit
-  - vegane Ernährung
-  - vegane Schokolade
-  - veganer Adventskalender
-  - veganer Schokoladenadventskalender
-  - Xucker
-  - Xucker Adventskalender
-  - Xylit
+- Birkenzucker
+- Ernährung
+- Ernährung & Gesundheit
+- vegane Ernährung
+- vegane Schokolade
+- veganer Adventskalender
+- veganer Schokoladenadventskalender
+- Xucker
+- Xucker Adventskalender
+- Xylit
 focusKeyword: vegane-adventskalender
 status: publish
 isWerbung: false
@@ -32,10 +34,10 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Vegane Geschenkidee
+advertisement: true
+affiliate: true
+
 ---
-
-_Werbung &amp; Affiliate Links_
-
 **Ich wollte es ja zuerst nicht wahrhaben, aber: die stille Zeit steht wieder vor der Tür. Obwohl es draußen noch nicht wirklich kalt ist, darf man sich so langsam Gedanken darüber machen, was man den Lieben für hübsche Kleinigkeiten zukommen lassen könnte. Ich habe heute schon mal einen Tipp für Euch.**
 
 Schön sieht er ja schon mal aus [der vegane Adventskalender von Xucker.](http://tidd.ly/19db42da) Hinter jedem Türchen steckt vegane Gentechnik-freie Edelbitterschokolade mit mindestens 75 Prozent Kakao.
@@ -65,5 +67,3 @@ Mit dem Kauf von UTZ-zertifiziertem Kakao unterstützt Xucker nachhaltigen Kakao
 Bei Xucker wird mit Xylit gesüßt. Das ist eine Zuckeralternative aus natürlichen Rohstoffen. Der Genuss soll die Zähne nicht nur schonen, sondern sogar pflegen. Außerdem ist Xylit kalorienarm - es süßt ebenso stark, wie herkömmlicher Zucker, enthält allerdings lediglich 40 Prozent der Kalorien. Wenn Ihr mehr über Xucker und die Gewinnung des veganen Süßstoffs erfahren möchte, [findet hier weitere Infos](https://wp.me/p533wO-6WI).
 
 <Gallery name="adventskalender" />
-
-\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/).
