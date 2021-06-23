@@ -1,38 +1,37 @@
 ---
-date: 2020-07-13T11:31:33.000+00:00
-slug: plastikfrei-einkaufen
-path: "/2020/07/plastikfrei-einkaufen/"
-type: Artikel
-typeName: Artikel
-title: Plastikfrei einkaufen
-seoTitle: Plastikfrei einkaufen - 5 praktische Tipps für den Alltag
 ogTitle: Plastikfrei einkaufen - 5 praktische Tipps für den Alltag
-description: Plastikfrei einkaufen klingt schwierig? Ist es nicht! Mit diesen fünf
+excerpt: Plastikfrei einkaufen klingt schwierig? Ist es nicht! Mit diesen fünf
   Alltagstipps gelingt es ganz einfach - Less Waste für Einsteiger⋆innen
-excerpt: Plastikfrei einkaufen klingt schwierig? Ist es nicht! Mit diesen fünf Alltagstipps
-  gelingt es ganz einfach - Less Waste für Einsteiger⋆innen
-fileName: 2020-07---plastikfrei-einkaufen.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-02__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-02__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgABAwUE/8QAKBAAAgEDBAIBAwUAAAAAAAAAAQIDBAURAAYSITFBMgcU4RNRYYGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACARAAICAgEFAQAAAAAAAAAAAAECAAMEETESEyJxwdH/2gAMAwEAAhEDEQA/ANFNsq3TVCpDUyoXAJCHljrzhh/h13Lttuzw2qC0R3imFZSy8zNWTJmJWIJUKCDjHYXx3nXZ2vV2+Zp0icSzUy/qMrDHIkH8DWLNs24zXGSLcFPbBLLymd3okmcAt2rOGGcHoHB8jONQ25Nq66RuUJRUdhzrfv5Bm4dqRW4iot9bDcqLiGMsOC0frLKCes+x16ONDblQxcGPfI/1pb9SNsx2meO7WxIp6Bpvtmhow0QXAYFyQR7AyP3x50TuEiGd3pKeZqZ1By7Ywcd4z5Gq8bIa0eQ/Jn5NXasKjie603uoiqDUffPMXjMRSomYhlIwQVH4I062nu6cUM4vFxEtRByMdSSWIj6wpByej4Pk51atGxFIjK7WB5h7d+6mucYhgjJiHzJPzYDHLr+MedCq2rZYCC7KCPiTnGrVplSBF0Iq5y7bM//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_plastikfrei-einkaufen-fb.png__l.jpg
-labels:
-- einkaufen
-- Klima- & Umweltschutz
-- less waste
-- ohne Plastik
-- plastikfrei
-- Zero Waste
-focusKeyword: Plastikfrei
-status: publish
-isWerbung: false
 isAffiliate: false
-language: de
-errors: {}
-subTitle: 5 Tipps für den Alltag
+path: /2020/07/plastikfrei-einkaufen/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgABAwUE/8QAKBAAAgEDBAIBAwUAAAAAAAAAAQIDBAURAAYSITFBMgcU4RNRYYGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACARAAICAgEFAQAAAAAAAAAAAAECAAMEETESEyJxwdH/2gAMAwEAAhEDEQA/ANFNsq3TVCpDUyoXAJCHljrzhh/h13Lttuzw2qC0R3imFZSy8zNWTJmJWIJUKCDjHYXx3nXZ2vV2+Zp0icSzUy/qMrDHIkH8DWLNs24zXGSLcFPbBLLymd3okmcAt2rOGGcHoHB8jONQ25Nq66RuUJRUdhzrfv5Bm4dqRW4iot9bDcqLiGMsOC0frLKCes+x16ONDblQxcGPfI/1pb9SNsx2meO7WxIp6Bpvtmhow0QXAYFyQR7AyP3x50TuEiGd3pKeZqZ1By7Ywcd4z5Gq8bIa0eQ/Jn5NXasKjie603uoiqDUffPMXjMRSomYhlIwQVH4I062nu6cUM4vFxEtRByMdSSWIj6wpByej4Pk51atGxFIjK7WB5h7d+6mucYhgjJiHzJPzYDHLr+MedCq2rZYCC7KCPiTnGrVplSBF0Iq5y7bM//Z
+date: 2020-07-13T11:31:33.000+00:00
+typeName: Artikel
 advertisement: true
-affiliate: false
-
+isWerbung: false
+fileName: 2020-07---plastikfrei-einkaufen.md
+slug: plastikfrei-einkaufen
+errors: {}
+title: Plastikfrei einkaufen
+subTitle: 5 Tipps für den Alltag
+focusKeyword: Plastikfrei
+affiliate: true
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-02__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-02__m.jpg
+seoTitle: Plastikfrei einkaufen - 5 praktische Tipps für den Alltag
+labels:
+  - einkaufen
+  - Klima- & Umweltschutz
+  - less waste
+  - ohne Plastik
+  - plastikfrei
+  - Zero Waste
+language: de
+type: Artikel
+description: Plastikfrei einkaufen klingt schwierig? Ist es nicht! Mit diesen
+  fünf Alltagstipps gelingt es ganz einfach - Less Waste für Einsteiger⋆innen
 ---
 **Das Brot kommt in eine Tüte mit Sichtfenster aus Plastik, die Tomaten in einen Plastikbeutel und der Sojajoghurt ist in einem Plastikbecher - einkaufen kann eine ganz schöne Umweltsünde sein. So geht Plastik-frei einkaufen.**
 
@@ -41,8 +40,8 @@ Wenn ich überlege, wie viel Plastik ich früher nach Hause geschleppt und beim 
 <RemoteImage
   alt={`Plastikfrei einkaufen`}
   size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-04__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-04__l.jpg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020*07*%EF%BF%BC2020-07-12-same-but-green-04**m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020*07*%EF%BF%BC2020-07-12-same-but-green-04**l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKhAAAgIBAwIEBwEBAAAAAAAAAQIDBBEABSEGMRITQVEUIlJhcYHBJDL/xAAYAQACAwAAAAAAAAAAAAAAAAADBAECBf/EACERAAICAgIBBQAAAAAAAAAAAAECAAMEIRExQQUSIlFh/9oADAMBAAIRAxEAPwCZs+3qi+IRoIxgEtzk+3tpyXq7fGti/wCTTg4CSy/KHP0qO7H7AHSPdN8bbOm5bUFmOJ4o8CR4VOH9Ai/0jjWTTX7Njrjbtx3CS3bkiYgvYVpcrggsB7Ag9uMaQ9/eozRWr3JWx4DHia9PD0dv9h43T/UDhpIYmhf88cH9jWbdb7DS2Vq3wt2SzHZRnVZovLdQDgHvyDzg8djqyWZJFsxudyhbxH4mRBMMeFRiPDDkk8/L6djqrdR2H3K7LOInAVREiE5KIvYfnkn96vh3PafyF9Yw8bHRXpJ+X3o67PjR8RrD1ZXnpqlfZqyWQfGstqXzSG+o4xk+vfUKtZu1hBer3J03NZWICkeWoI/6BLceoCgcZ0aNMNUsxTYzEczqJ2mY2b9hbFthjxynJA9gT20o3KymG8LLj7H+6NGiqJDsT3P/2Q=="
 />
 
@@ -57,8 +56,8 @@ Mit ein paar Tricks und Kniffen kann man aber dafür sorgen, dass auch an stress
 <RemoteImage
   alt={`Plastikfrei einkaufen`}
   size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-03__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-03__l.jpg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020*07*%EF%BF%BC2020-07-12-same-but-green-03**m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020*07*%EF%BF%BC2020-07-12-same-but-green-03**l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAQQF/8QAJhAAAQQABQQDAQEAAAAAAAAAAQIDBBEABQYSEyExQWEiMlFxof/EABgBAAMBAQAAAAAAAAAAAAAAAAECBAMF/8QAHhEAAgICAgMAAAAAAAAAAAAAAQMAAgQREiEiQYH/2gAMAwEAAhEDEQA/AE7S+k25TEeXmj22I4m0xW0nkcJJAB9EC+ncYq8bLWQyl4tpQlQsGx/uFPSudQJSYbKXJSpzraG+EN7QVpbI6KH89Hrjv5TnBTMYbOXiRAYIKXmAWySAbGyiFEEnyO3nHMyskrYAw6E1xkVtTdZjM9GZY6+JT8Yskg222rYl5R7Aj9vyKwh670k5la3XobK1w0pHIB8iyqgT7KT1o+jeKXqaQ/Fzg5m08H4oiqkKZLloMcUErRY+CiVEV66nGtPzFmfGblNuciC1tdQpG1dH6k/hHg4KszbDTfY9QNxq8d6+ySZZnPFEhpgIjNymlb1SVgrWVAmtoPxSAK8E2LvDZD1LJclGSqQmC+SFEx08iFqqrrcNprx2/mDBi16KOHG43IVuuo+JhO1M6ZS1xoextuGmFH5nwoqAWVlbiRaeqj9evQYS5svMmpi5kjNHXJiyVclkG/yu1eqrBgwtELqeQr3GL2X6Jn//2Q=="
 />
 
@@ -73,14 +72,14 @@ Es kommt natürlich auch mal vor, dass man etwas einkauft, das man gerne ein bis
 <RemoteImage
   alt={`Plastikfrei einkaufen`}
   size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-06__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-06__l.jpg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020*07*%EF%BF%BC2020-07-12-same-but-green-06**m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020*07*%EF%BF%BC2020-07-12-same-but-green-06**l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgP/xAArEAACAQMEAQIEBwAAAAAAAAABAgMEBREAEiExBhMiFTJBUSRCUnGBgpH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFAwQG/8QAIREAAgEDBAMBAAAAAAAAAAAAAQIDAAQRBRIhMRNBgfD/2gAMAwEAAhEDEQA/AF3jniFPa4mlnrGAqGRUjlQABhnG5hwM5I508vNrntEEW1JqSSp3+9Yy4G1RhVK8DP6j1pdUzVxuYpqUVMtDSoEdUn2bZGAbk/mwDxp741cKqC51gnuXwylfYlPDOFnSbC+4nP0z9O+/poGfUFDlGPPylLKJIWWVl3AevwNRtOZ7NVCupy01O5AqoGBcSoTz/b7HVB5JZIKeGVJWG3Zvjidcv3lTj/B/B08M9u9Oeue2QGttiLNsgYinlVpcB9vO1wTnBzwOMDrhe6mG7Ur1sSUtUHBwVBSRT9jzzqQv44goZu+jiktVmjvWDxJjHfXyoKyeRu2Gp6tYJ5VT1oZdwV2RAu9WUEchQSDjHPY1V2i4JeGjiqJjGlNIr/hxjezA497rjGAScA9jrOjRpCexhD+bHNc7BdSEbPVav/lBpLbJT2swR10sy7vTmWoWONDnaxCquWPBAycZ5HGofyC/QvAwoaSOinPzSxzMR3n5cAH9zk6NGtC28ZUBhmoPcSbjg4r/2Q=="
 />
 
-Für solche Fälle nutze ich die unglaublich praktischen Obst- und Gemüsenetze von samebutgreen. Sie gehören zur Grundausstattung unserer Einkaufsrucksäcke. Es gibt sie im praktischen Set aus fünf verschiedenen Größen.
+[Für solche Fälle nutze ich die unglaublich praktischen Obst- und Gemüsenetze von samebutgreen](https://t.adcell.com/p/click?promoId=224459&slotId=80259&param0=https%3A%2F%2Fsamebutgreen.com%2Fcollections%2Fshop-samebutgreen%2Fproducts%2Funverpackt-taschen-set). Sie gehören zur Grundausstattung unserer Einkaufsrucksäcke. Es gibt sie im praktischen Set aus fünf verschiedenen Größen.
 
-Was klasse ist: Die Dinger sind so leicht, dass sie beim Obst Wiegen an der Kasse nicht ins Gewicht fallen. In der Tasche nehmen sie auch keinen Platz weg. Ein zusätzlicher Pluspunkt der Netze: Beim Einkaufen kann man auch gleich noch das schlechte Gewissen der anderen Kund⋆innen ein bisschen befeuern. Ich wurde tatsächlich schon gefragt, wo ich die praktischen Beutel gekauft habe. Ihr könnt sie übrigens auf den Fotos sehen, mit denen ich diesen Artikel hier illustriert habe.
+Was klasse ist: Die Dinger sind so leicht, dass sie beim Obst Wiegen an der Kasse nicht ins Gewicht fallen. In der Tasche nehmen sie auch keinen Platz weg. Ein zusätzlicher Pluspunkt der Netze: Beim Einkaufen kann man auch gleich noch das schlechte Gewissen der anderen Kund⋆innen ein bisschen befeuern. [Ich wurde tatsächlich schon gefragt, wo ich die praktischen Beutel gekauft habe](https://t.adcell.com/p/click?promoId=224459&slotId=80259&param0=https%3A%2F%2Fsamebutgreen.com%2Fcollections%2Fshop-samebutgreen%2Fproducts%2Funverpackt-taschen-set). Ihr könnt sie übrigens auf den Fotos sehen, mit denen ich diesen Artikel hier illustriert habe.
 
 ## Tipp 3 - Jutebeutel dabeihaben
 
@@ -89,8 +88,8 @@ Habt Ihr auch so viele Jutebeutel? Einen von PETA, einen von den Toten Hosen, ei
 <RemoteImage
   alt={`Plastikfrei einkaufen`}
   size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-05__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-05__l.jpg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020*07*%EF%BF%BC2020-07-12-same-but-green-05**m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020*07*%EF%BF%BC2020-07-12-same-but-green-05**l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcD/8QALBAAAgEDAgQFAwUAAAAAAAAAAQIDAAQRBQYSEyExIkFRYXEUIzJCoaKx4f/EABcBAQEBAQAAAAAAAAAAAAAAAAIDBAX/xAAfEQABBAIDAQEAAAAAAAAAAAABAAIDBBESEyExBeH/2gAMAwEAAhEDEQA/AEzaGjrd6xphms5JbSSRkYtEWjbwtgE/OK0iDZOixIXmsAEAJZmlkCr/ACqo25uCaDbV7e28cQ+mnW1tbcISQhXwqcdTjv74NW+j7gmkuobOWK3DSIZ3uJDJaopBACnyYnvj2865tq62J+rjhKvV3ZsO1C62Xos6DkWkkLEfnDK2B8Bif6pJ3DsW6thIbGaK6jAOA/23+PQ/tWlrr3DY3cmpCKZoHVg8DAhkLFMAjsc4PXORmq7Wr5G09ZRBdDnDoSV4QD+ri/ypx/SjBAL/AHzP6qPpZHizjautiyt2jMyxPzFmjd14k4uFkIbGSMhuhwcEU12erx6jMLR5bVHOJuZAOaQEPlkBQTkDr69jRRWizSilfzOHYUK1p7BxjxdtybjEFm1jZm0mJuAJVZlmDRqD4XZQFUsT2UZGM+1J2ubiKRxLpJezSMYIecyhunYAgYoopirE8DduUX2ZA4gHC//Z"
 />
 
@@ -107,8 +106,8 @@ Die Supermärkte haben am Ausgang alle Recycling-Tonnen stehen. Packt die Flakes
 <RemoteImage
   alt={`Plastikfrei einkaufen`}
   size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-01__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-12-same-but-green-01__l.jpg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020*07*%EF%BF%BC2020-07-12-same-but-green-01**m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020*07*%EF%BF%BC2020-07-12-same-but-green-01**l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAUD/8QAKhAAAQQBAwQBAgcAAAAAAAAAAQIDBBEFABIhBiIxQRMVURQkYXGBkbH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHhEAAQQDAQEBAAAAAAAAAAAAAQACAxEEEiEUBVH/2gAMAwEAAhEDEQA/AOHT/SuQensMvY9CmAsB0fOlFpuiQRZH9etaj3S81hycGIz8iLFVRkBugU+jX+1YGmKI26cNPOMcckTtnxpSyslZcP2PJHB4rxWpj4HL/SnH2slPgyh+XbQ/klK7zwAbRR5+38ayPznMdWtphhMc3h6lYwGlt9qUJTQJIPnWBl4cZtJ8gjivWmvFRk/Qnsn1G5MElrcXo7C2UKbVdVymlE8UAB596uY+FiQw8n8JKXPUFWcmlJ7BypKAOywPPs886qPoQE6338URgTVsRQShiczKjtSDFyGxb9KB2gFBBtKwEgUR+/6aco/WCk4hr5iuRPIpy+EOLAHeQfF2OAfPjRo1R8TSKpKyd4N2leKGnH54yCWizKSVpUQpZaf3bgsp3DcPRF2LsaoTc08YC2g64HO/lxRUEb00ran0SCRZJ86NGh54iQ4t6j6Za124v//Z"
 />
 
