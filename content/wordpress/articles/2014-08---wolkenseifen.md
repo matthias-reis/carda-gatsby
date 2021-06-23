@@ -160,7 +160,7 @@ wieder glatt wie ein Babypopo. Die seitankochende Baumwollseegurke quasi.
 Das war außerdem noch in meinem Paket: diese wundervollen Deos, eines davon duftet nach frischer Wäsche, eines nach Babypuder und schön frisch.
 
 <Gallery
-images={\[
+images={[
 {
 mediumUrl:
 'https://storage.googleapis.com/cardamonchai-images/2014_08_img_1697__m.jpg',
@@ -179,7 +179,7 @@ mediumUrl:
 largeUrl:
 'https://storage.googleapis.com/cardamonchai-images/2014_08_img_1706__l.jpg',
 },
-\]}
+]}
 />
 
 Außerdem habe ich noch für einen Konjakschwamm entschieden, es gibt sie in den verschiedensten Varianten, meiner enthält Bambuskohle und ist für zu Unreinheiten neigende Haut geeignet.
