@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet';
 import { pageView } from './analytics';
 import type { Article } from '../types';
 
-const SERVER = `https://cardamonchai.amreis.de`;
+const SERVER = `https://cardamonchai.com`;
 
 export const PageMeta: React.FC<{
   meta: Article;
@@ -56,19 +56,31 @@ export const PageMeta: React.FC<{
       />
       <meta
         property="og:image"
-        content={`${SERVER}${meta.frontmatter.ogImage?.childImageSharp.original.src}`}
+        content={`${SERVER}${
+          meta.frontmatter.ogImage?.childImageSharp.original.src ||
+          '/img/opengraph.png'
+        }`}
       />
       <meta
         property="twitter:image"
-        content={`${SERVER}${meta.frontmatter.ogImage?.childImageSharp.original.src}`}
+        content={`${SERVER}${
+          meta.frontmatter.ogImage?.childImageSharp.original.src ||
+          '/img/opengraph.png'
+        }`}
       />
       <meta
         property="og:image:width"
-        content={meta.frontmatter.ogImage?.childImageSharp.original.width.toString()}
+        content={
+          meta.frontmatter.ogImage?.childImageSharp.original.width.toString() ??
+          '1200'
+        }
       />
       <meta
         property="og:image:height"
-        content={meta.frontmatter.ogImage?.childImageSharp.original.height.toString()}
+        content={
+          meta.frontmatter.ogImage?.childImageSharp.original.height.toString() ??
+          '630'
+        }
       />
     </Helmet>
   );

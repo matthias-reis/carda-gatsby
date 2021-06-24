@@ -61,6 +61,7 @@ export const Search: React.FC = () => {
         <StyledSearchBox
           translations={{ placeholder: 'Nach Artikeln suchen ...' }}
           autoFocus
+          required
         />
         <StyledHits hitComponent={Hit} />
       </HeaderSheet>
@@ -145,9 +146,7 @@ const StyledSearchBox = styled(SearchBox)`
   }
 
   & input[type='search'] {
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
+    appearance: none !important;
     background: ${color.overlay10};
     background: none;
     color: ${color.text10};
@@ -168,11 +167,15 @@ const StyledSearchBox = styled(SearchBox)`
     &::-ms-reveal,
     &::-webkit-search-decoration,
     &::-webkit-search-cancel-button,
+    &:focus::-webkit-search-cancel-button,
+    &::-webkit-clear-button,
     &::-webkit-search-results-button,
     &::-webkit-search-results-decoration {
+      appearance: none;
       display: none;
       width: 0;
       height: 0;
+      margin: 0;
     }
   }
 
