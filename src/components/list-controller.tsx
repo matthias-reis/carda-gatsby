@@ -45,10 +45,10 @@ const ListController: React.FC<{
 
   const currentCategory = categories[slugify(pageContext.label)];
 
-  let topic = 'Stichwort';
+  let topic = 'Stichwort ';
 
   if (currentCategory) {
-    topic = 'Thema';
+    topic = 'Thema ';
   }
   return (
     <Frame>

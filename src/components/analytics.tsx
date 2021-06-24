@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet';
 
 type Global = { dataLayer?: any[]; gtag?: (...props: any) => void };
 
-const g = (globalThis as unknown) as Global;
+const g = globalThis as unknown as Global;
 const GTAG_ID = 'GTM-TXBL5X4';
 
 export const pageView = (title: string, url: string) => {
