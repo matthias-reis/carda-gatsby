@@ -16,7 +16,7 @@ const filter = isProduction
   : '';
 
 const ALL_PAGE_QUERY = `
-query MyQuery {
+query AllPageQuery {
   allMdx(
     ${filter}
     sort: { fields: frontmatter___date, order: DESC }

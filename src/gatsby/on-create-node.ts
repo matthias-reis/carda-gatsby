@@ -1,16 +1,39 @@
+import { readFileSync } from 'fs';
+import { resolve } from 'path';
 import { fmImagesToRelative } from 'gatsby-remark-relative-images';
 import { createFilePath } from 'gatsby-source-filesystem';
 import { slugify } from './slugify';
 import { CreateNodeArgs } from 'gatsby';
+import YAML from 'yaml';
 
-export const onCreateNode = ({
+const rawCategories = readFileSync(
+  resolve(__dirname, '../../content/config/categories.yml'),
+  'utf-8'
+);
+const categories = YAML.parse(rawCategories);
+
+export const onCreateNode = async ({
   node,
   actions,
   getNode,
 }: CreateNodeArgs<Node>) => {
   const { createNodeField } = actions;
   fmImagesToRelative(node);
+
   if (node.internal.type === `Mdx`) {
+    const indexedCategories: Record<string, Category> = Object.fromEntries(
+      categories.map(({ slug, parentId, title }: Category) => {
+        return [slug, { slug, title, parentId }];
+      })
+    );
+
+    const parentCategories = Object.fromEntries(
+      Object.values(indexedCategories).map(({ parentId, title }) => {
+        const parentTitle = indexedCategories[parentId || '']?.title;
+        return [title, parentTitle];
+      })
+    );
+
     // convert image paths for gatsby images
     const parent = getNode(node.parent!);
     const type = parent.sourceInstanceName;
@@ -36,11 +59,16 @@ export const onCreateNode = ({
     let path = '';
     if (type === 'article' || type === 'wordpress') {
       path = node?.frontmatter?.path || `/${year}/${month}/${slug}/`;
-      const labels = [
+      const labels = new Set([
         ...(node?.frontmatter?.labels || []),
         `${year}`,
         `${year}/${month}`,
-      ];
+      ]);
+      (node?.frontmatter?.labels || []).forEach((l) => {
+        if (parentCategories[l]) {
+          labels.add(parentCategories[l]);
+        }
+      });
       createNodeField({
         node,
         name: `fileSlug`,
@@ -49,7 +77,7 @@ export const onCreateNode = ({
       createNodeField({
         node,
         name: `labels`,
-        value: labels,
+        value: Array.from(labels),
       });
       createNodeField({
         node,
@@ -90,4 +118,11 @@ type Node = {
     slug?: string;
     labels: string[];
   };
+};
+
+type Category = {
+  title: string;
+  description: string;
+  slug: string;
+  parentId?: string;
 };
