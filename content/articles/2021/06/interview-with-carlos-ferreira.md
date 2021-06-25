@@ -27,7 +27,7 @@ labels:
 focusKeyword: Carlos Ferreira
 advertisement: false
 affiliate: false
-language: de
+language: en
 languageLink: /2020/10/carlos-ferreira-interview
 ---
 **Carlos Ferreira is going to release his new album on Past Inside the Present in November. It's a cassette tape called "Six Postcards &amp; Other Stories". I talked to him about his music and his decision to go vegan.**
