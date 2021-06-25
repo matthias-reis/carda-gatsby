@@ -41,7 +41,7 @@ labels:
 focusKeyword: Fly Pan Am
 advertisement: false
 affiliate: false
-language: de
+language: en
 languageLink: /2020/07/fly-pan-am-interview
 ---
 **Today I have something to share with you that I'm very proud of. Fly Pan Am have agreed to an interview. They have revealed some things about their music and their relationship with the post-rock community.**
