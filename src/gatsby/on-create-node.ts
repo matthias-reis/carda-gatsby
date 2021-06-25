@@ -77,7 +77,7 @@ export const onCreateNode = async ({
       createNodeField({
         node,
         name: `labels`,
-        value: Array.from(labels),
+        value: Array.from(labels).map((l) => l.trim()),
       });
       createNodeField({
         node,

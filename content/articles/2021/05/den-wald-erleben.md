@@ -2,7 +2,7 @@
 date: 2021-05-23T15:48:42+02:00
 labels:
   - Wald
-  - ' Achtsamkeit'
+  - Achtsamkeit
   - Achtsamkeits-Wandern
   - Achtsamkeits-Spaziergang
   - Meditation
