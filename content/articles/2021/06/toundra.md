@@ -3,8 +3,8 @@ date: 2020-07-23T09:19:37.594Z
 slug: /2020/07/toundra-interview-en
 typeName: Interview
 title: Toundra
-subTitle: Music is about freedom
-seoTitle: Interview with Toundra – Music Is About Freedom
+subTitle: '"Music Is About Freedom"'
+seoTitle: Interview with Toundra – "Music Is About Freedom"
 description: The Spanish post-rock band Toundra has set a German silent movie
   classic to music with their new album "Das Cabinet des Dr. Caligari". This
   made me curious, so I asked guitarist Esteban for an Interview.
@@ -109,15 +109,3 @@ In May 2008 the band released its Debut-EP (I). Meanwhile, there are six albums 
 **Esteban:** Thanks a lot and see you in Hamburg!
 
 ## Listen to "Das Cabinet des Dr. Caligari" by Toundra on Spotify
-
-<YouTube id="album/08y4jMFcpVaS7MlANeI4Bp" />
-
-## Listen to "Das Cabinet des Dr. Caligari" on iTunes
-
-<iframe
-  style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;"
-  src="https://embed.music.apple.com/de/album/das-cabinet-des-dr-caligari-original-re-score/1499151367"
-  height="450"
-  frameborder="0"
-  sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-></iframe>
