@@ -4,7 +4,7 @@ slug: fly-pan-am-interview-en
 typeName: Interview
 title: Fly Pan Am
 subTitle: "\"We Want To Create Things That We Don't Understand\""
-seoTitle: Interview with Fly Pan Am – "We want to create things that we don't understand"
+seoTitle: Interview With Fly Pan Am – "We Want To Create Things That We Don't Understand"
 description: Today I have something to share with you that I'm very proud of.
   Fly Pan Am have agreed to an interview. They have revealed some things about
   their music and their relationship with the post-rock community.
@@ -221,4 +221,3 @@ It's funny to read some of the reviews out there, some of the people complain th
 **Anne:** It's too bad, that DUNK! Festival 2020 couldn't take place due to Corona Crisis. Will I meet you there next year?
 
 **Roger:** Hopefully yes! We would definitely want to take part in this next year if it's possible.
-
