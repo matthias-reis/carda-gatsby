@@ -3,8 +3,8 @@ date: 2020-08-28T09:39:31.675Z
 slug: unwed-sailor-interview-en
 typeName: Interview
 title: Unwed Sailor
-subTitle: '"For the quiet times and the loud times"'
-seoTitle: Unwed Sailor – For the quiet times and the loud times"
+subTitle: '"For The Quiet Times And The Loud Times"'
+seoTitle: Interview With Unwed Sailor – "For The Quiet Times And The Loud Times"
 description: It's interview time again! Recently I met Unwed Sailor founder
   Jonathon Ford online. Today I would like to share our exciting conversation
   with you guys.
@@ -134,16 +134,3 @@ My goal is to be consistent with Unwed Sailor, whether it's quiet or not.
 
 **Jonathon:** We are continuing to let everyone know about our latest record, Look Alive, and we have another record wrapped up for a 2021 release. We are also currently in the studio working on even more music to be released sometime next year. Our main focus is writing and recording until we can get back out on the road. We are hoping for a Europe tour in the fall of 2021. So fingers crossed for that!
 
-## Listen to "Look Alive" by Unwed Sailor on Spotify
-
-<YouTube id="album/0hB8xeoSbCNF4mE8IVuKuX" />
-
-## Listen to "Look Alive" by Unwed Sailor on iTunes
-
-<iframe
-  style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;"
-  src="https://embed.music.apple.com/de/album/look-alive/1517192717"
-  height="450"
-  frameborder="0"
-  sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-></iframe>
