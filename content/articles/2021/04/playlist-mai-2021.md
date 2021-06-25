@@ -31,7 +31,6 @@ labels:
   - Møaa
   - Musik
   - Post-Metal
-  - Bands
   - Playlist
   - Musikliste
   - Post-Rock

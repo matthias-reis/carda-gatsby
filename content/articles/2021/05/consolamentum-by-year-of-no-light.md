@@ -4,7 +4,7 @@ labels:
   - Year Of No Light
   - post-rock
   - post-metal
-  - bands
+  - Bands
   - music
   - Review
   - pelagic

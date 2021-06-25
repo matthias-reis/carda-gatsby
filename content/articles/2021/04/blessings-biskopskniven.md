@@ -26,7 +26,6 @@ labels:
   - New Release
   - Recording
   - Review
-  - Bands
   - Johan G. Winther
 focusKeyword: Biskopskniven
 advertisement: false

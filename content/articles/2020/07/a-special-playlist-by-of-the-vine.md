@@ -12,7 +12,6 @@ labels:
 - Early Day Minors
 - Emma Ruth Rundle
 - English & German
-- Bands
 - Playlist
 - Explosions In The Sky
 - Isis

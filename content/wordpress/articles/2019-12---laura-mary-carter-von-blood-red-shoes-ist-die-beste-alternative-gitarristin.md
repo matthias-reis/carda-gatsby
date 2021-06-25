@@ -17,7 +17,6 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-
 labels:
   - Alternative
   - Bands
-  - Bands
   - Blood Red Shoes
   - Laura-Mary Carter
 focusKeyword: Laura-Mary Carter
