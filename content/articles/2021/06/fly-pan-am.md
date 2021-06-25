@@ -3,7 +3,7 @@ date: 2020-07-03T08:53:15.098Z
 slug: fly-pan-am-interview-en
 typeName: Interview
 title: Fly Pan Am
-subTitle: "\"We want to create things that we don't understand\""
+subTitle: "\"We Want To Create Things That We Don't Understand\""
 seoTitle: Interview with Fly Pan Am – "We want to create things that we don't understand"
 description: Today I have something to share with you that I'm very proud of.
   Fly Pan Am have agreed to an interview. They have revealed some things about
@@ -115,7 +115,7 @@ The current album "C'est ça" which has been released in 2019, has been well rec
 
 ## "We continued making music during our break"
 
-**Jonathan:** I was involved with another rock band called Feu Thérèse shortly after our indefinite hiatus. We put out two records on Constellation Records. After that I co-formed K.A.N.T.N.A.G.A.N.O. a sound and mixed media-oriented project. But I mainly become involved in sound conceptions for theatre and dance over the last 15 years for many different directors and choreographers and I am still working on such a project because as always, I am interested in live performance.
+**Jonathan:** I was involved with another rock band called Feu Thérèse shortly after our indefinite hiatus. We put out two records on Constellation Records. After that, I co-formed K.A.N.T.N.A.G.A.N.O. a sound and mixed media-oriented project. But I mainly become involved in sound conceptions for theatre and dance over the last 15 years for many different directors and choreographers and I am still working on such a project because as always, I am interested in live performance.
 
 **JS:** I took the time to raise my first two sons who are now adults, I studied in Literature Studies and Buddhism, co-founded the now-defunct Los Discos Enfantasmes label, worked on solo music (which has been released on Root Strata, Digitalis, Tranquility Tapes, Sic Sic tapes, La Cohu and others), founded Avec le soleil sortant de sa bouche and was also an active member of various other bands and projects.
 
@@ -191,7 +191,7 @@ It's funny to read some of the reviews out there, some of the people complain th
 
 **Roger:** I guess for me I draw inspiration from other music, from movies, from ideas that haunt me incessantly which I then use to write lyrics and find titles. Being creative for me is something I need in order to "make sense" out of this insane world we live in. It is almost a religious act, as it keeps me sane and focused and has no grounding in "reality." I have a strong work ethic, in the sense that even on days where I don't feel like working I will force myself to do it. I am motivated by the idea that every moment I spend working on music helps me understand more about the process of creation, but also life in general, as I find there are many parallels between the two.
 
-**JS:** I draw inspiration from music, movies, literature studies/philosophy, and art in general. For the past few years I have been inspired by questions regarding the place of one's self in the world and nature, in one's own mind, the relationship that this self may have with us, others, with living and none living beings/things, questioning/observing the perception, interpretation, and expectation that we have every second of every day in relation with everything we may or may not perceive. I try to think about music and composition in the same way. Questioning the reasons behind our choices, our familiarity with tropes, and the reason we may or may not abide by them and the reception of information through our senses that are influenced by our culture and self-experience.
+**JS:** I draw inspiration from music, movies, literature studies/philosophy, and art in general. For the past few years, I have been inspired by questions regarding the place of one's self in the world and nature, in one's own mind, the relationship that this self may have with us, others, with living and none living beings/things, questioning/observing the perception, interpretation, and expectation that we have every second of every day in relation with everything we may or may not perceive. I try to think about music and composition in the same way. Questioning the reasons behind our choices, our familiarity with tropes, and the reason we may or may not abide by them and the reception of information through our senses that are influenced by our culture and self-experience.
 
 **Jonathan:** I do not have much to add besides that I often feel inspiration in the exceptional dedication of what we call reality.
 
