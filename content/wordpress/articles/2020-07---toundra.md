@@ -117,18 +117,3 @@ Im Mai 2008 veröffentlichte die Band ihre Debut-EP "I". Inzwischen haben Toundr
 **Anne:** Vielen Dank für dieses unglaublich spannende Interview! Ich freue mich schon sehr auf Eure Herbst-Tour! Wir sehen uns auf jeden Fall am 14. September im Hamburger Knust!
 
 **Esteban:** Vielen Dank! Wir sehen uns in Hamburg!
-
-## "Das Cabinet des Dr. Caligari" von Toundra auf Spotify hören
-
-<YouTube id="album/08y4jMFcpVaS7MlANeI4Bp" />
-
-## "Das Cabinet des Dr. Caligari" von Toundra auf iTunes hören
-
-<iframe
-  style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;"
-  src="https://embed.music.apple.com/de/album/das-cabinet-des-dr-caligari-original-re-score/1499151367"
-  height="450"
-  frameborder="0"
-  sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-></iframe>
-
