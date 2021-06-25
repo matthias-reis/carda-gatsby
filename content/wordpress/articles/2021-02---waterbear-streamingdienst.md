@@ -13,6 +13,7 @@ slug: waterbear-streamingdienst
 errors: {}
 date: 2021-02-19T10:59:23.000Z
 focusKeyword: WaterBear
+languageLink: /2021/02/waterbear-streaming-platform
 status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-1__m.jpg
@@ -21,6 +22,8 @@ subTitle: Das Videoportal für modernen Aktivismus
 seoTitle: WaterBear Streamingdienst – Das Videoportal für modernen Aktivismus
 description: WaterBear ist ein kostenloser Streamingdienst für Themen wie
   Nachhaltigkeit, Tierrechte, Artenschutz und Klimaaktivismus.
+language: de
+type: Artikel
 labels:
   - Aktivismus
   - Bücher & Filme
@@ -30,8 +33,6 @@ labels:
   - Streamingdienst
   - WaterBear
   - WaterBear Network
-language: de
-type: Artikel
 ---
 **"We don't want you to Netflix &amp; chill. We want you to WaterBear and act!" – das sagte Lisa Rose, Head of Impact beim Nachhaltigkeits-Streamingdienst WaterBear gestern Abend in einer digitalen Konferenz.**
 
