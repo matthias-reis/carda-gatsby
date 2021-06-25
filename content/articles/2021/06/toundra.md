@@ -1,5 +1,5 @@
 ---
-date: 2021-06-25T09:19:37.594Z
+date: 2020-07-23T09:19:37.594Z
 slug: /2020/07/toundra-interview-en
 typeName: Interview
 title: Toundra
