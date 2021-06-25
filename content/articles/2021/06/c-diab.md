@@ -1,5 +1,5 @@
 ---
-date: 2021-06-25T09:28:50.126Z
+date: 2020-08-21T09:35:08.241Z
 slug: c-diab-interview-en
 typeName: Interview
 title: C. Diab
