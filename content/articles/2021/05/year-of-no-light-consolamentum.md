@@ -2,7 +2,7 @@
 date: 2021-05-18T08:07:00.000+02:00
 labels:
   - australian post-rock
-  - ' post-rock'
+  - Post-Rock
   - Year Of No Light
   - Review
   - Bands

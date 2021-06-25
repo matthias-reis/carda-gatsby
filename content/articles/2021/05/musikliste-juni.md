@@ -2,8 +2,8 @@
 date: 2021-05-25T17:43:42+02:00
 labels:
   - Bands
-  - ' Musikliste'
-  - ' Playlist'
+  - Musikliste
+  - Playlist
   - Kauan
   - Wander
   - Post-Metal

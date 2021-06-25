@@ -2,7 +2,7 @@
 date: 2021-05-19T08:00:42+02:00
 labels:
   - Bands
-  - ' Review'
+  - Review
   - Post-Rock
   - Post-Metal
   - Post-Hardcore

@@ -2,7 +2,7 @@
 date: 2021-05-28T08:00:42+02:00
 labels:
   - Bands
-  - ' Bilding Prisons'
+  - Building Prisons
   - Ireland
   - Post-Metal
   - Post-Rock

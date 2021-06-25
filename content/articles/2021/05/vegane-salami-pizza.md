@@ -2,11 +2,11 @@
 date: 2021-05-17T16:53:42+02:00
 labels:
   - vegane Rezepte
-  - ' Pizza Rezept'
-  - ' vegane Pizza'
-  - ' vegane Salami'
-  - ' vegane Mozzarella'
-  - ' vegane Salami-Pizza'
+  - Pizza Rezept
+  - vegane Pizza
+  - vegane Salami
+  - vegane Mozzarella
+  - vegane Salami-Pizza
   - Rezepte
 language: de
 slug: vegane-salami-pizza

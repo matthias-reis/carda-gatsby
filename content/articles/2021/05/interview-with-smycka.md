@@ -2,8 +2,8 @@
 date: 2021-05-02T17:21:42.000+00:00
 labels:
   - Smyčka
-  - ' Post-Metal'
-  - 'Interview '
+  - Post-Metal
+  - Interview
   - Bands
   - Underground
   - Moskow
