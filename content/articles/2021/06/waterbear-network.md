@@ -1,6 +1,6 @@
 ---
 date: 2021-02-19T10:59:00.000Z
-slug: waterbear-streamingdienst-en
+slug: waterbear-streaming-platform
 typeName: Beitrag
 title: WaterBear Network
 subTitle: A Streaming Platform For Modern Activism
