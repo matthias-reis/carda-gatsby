@@ -3,8 +3,8 @@ date: 2020-08-21T09:35:08.241Z
 slug: c-diab-interview-en
 typeName: Interview
 title: C. Diab
-subTitle: '"Music is a deeper form of communication"'
-seoTitle: Interview With C. Diab – "Music is a deeper form of communication"
+subTitle: '"Music Is A Deeper Form Of Communication"'
+seoTitle: Interview With C. Diab – "Music Is A Deeper Form Of Communication"
 ogTitle: ""
 description: In my music list for July, I introduced to you, C. Diab. With his
   songs, the musician from Canada wants to inspire people to dream. His album
@@ -112,18 +112,3 @@ His album "White Whale", which was released recently, is the fifth since his deb
 
 C. Diab released his album "White Whale" on June, 5th 2020. You can buy the vinyl or listen to it online.
 
-## "White Whale" by C. Diab on iTunes
-
-<iframe
-  style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;"
-  src="https://embed.music.apple.com/de/album/white-whale/1508199368"
-  height="450"
-  frameborder="0"
-  sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
->
-  ﻿
-</iframe>
-
-## "White Whale by C. Diab on Spotify hören
-
-<YouTube id="album/2B7VYEVtU1Cd2ZlPZn8JQ3" />
