@@ -5,29 +5,22 @@ typeName: Interview
 title: Interview With Baulta
 subTitle: '"Post-Rock Transmits Emotions"'
 seoTitle: Interview With Baulta – "Post-Rock Transmits Emotions"
-description: Baulta have agreed to an interview! We talked about the creative
-  process that led to their fantastic latest album "Another Second Chance" and
-  their development as a band. I learned a lot about them and their relationship
-  with post-rock.
+description: Baulta have agreed to an interview! We talked about the creative process that led to their fantastic latest album "Another Second Chance" and their development as a band. I learned a lot about them and their relationship with post-rock.
 image: /img/2021_03_2-1__l.jpeg
 copyrigt: Baulta
 ogImage: /img/2021_03_baulta-fb-baulta.-picture_-antti-varhe-_-avagraphy.png__l.jpg
 labels:
-  - Baulta have agreed to an interview! We talked about the creative process
-    that led to their fantastic latest album "Another Second Chance" and their
-    development as a band. I learned a lot about them and their relationship
-    with post-rock.
+  - Baulta have agreed to an interview! We talked about the creative process that led to their fantastic latest album "Another Second Chance" and their development as a band. I learned a lot about them and their relationship with post-rock.
 focusKeyword: Baulta
 advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/03/baulta-interview
 ---
+
 **Baulta have agreed to an interview! We talked about the creative process that led to their fantastic latest album, "Another Second Chance", and their development as a band. I learned a lot about them and their relationship with post-rock.**
 
 Of course, we also talked about the current worldwide situation. Esa (drums), Janne (bass), Iiro (guitar), and Matti (guitar) don't let that get them down. In the meantime, they have developed a pretty good strategy to deal with the crisis.
-
-</div>
 
 ## Interview with Baulta
 

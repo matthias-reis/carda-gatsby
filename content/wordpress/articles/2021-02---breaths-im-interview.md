@@ -1,7 +1,6 @@
 ---
 ogTitle: Interview mit Breaths – Harte Musik und Veganismus
-excerpt: Darüber, dass harte Musik und Veganismus viel gemeinsam haben, waren
-  Jason von Breaths und ich uns einig. Mein Interview zum Debüt-Album.
+excerpt: Darüber, dass harte Musik und Veganismus viel gemeinsam haben, waren Jason von Breaths und ich uns einig. Mein Interview zum Debüt-Album.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-lined-in-silver.png__l.jpg
 isAffiliate: false
 path: /2021/02/breaths-interview/
@@ -20,8 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02
 title: Breaths im Interview
 subTitle: '"Harte Musik und Veganismus haben viel gemeinsam"'
 seoTitle: Harte Musik und Veganismus – Interview mit Breaths
-description: Darüber, dass harte Musik und Veganismus viel gemeinsam haben,
-  waren Jason von Breaths und ich uns einig. Mein Interview zum Debüt-Album.
+description: Darüber, dass harte Musik und Veganismus viel gemeinsam haben, waren Jason von Breaths und ich uns einig. Mein Interview zum Debüt-Album.
 language: de
 type: Artikel
 labels:
@@ -41,6 +39,7 @@ labels:
   - Tierrechte
   - vegan celebrities
 ---
+
 **Im März erscheint das Debüt-Album von Breaths. Gründer Jason hat sich jetzt meinem Interview gestellt. Wir haben uns über Musik und Veganismus unterhalten. Und seine ganz persönliche Art, mit der Pandemie umzugehen.**
 
 Ich habe Jasons Debüt-LP "Lined in Silver" bereits gehört – für mich ist sie bei den Entdeckungen des Jahres jetzt schon ganz vorne mit dabei. Einen kleinen Vorgeschmack zur Platte erhaltet Ihr weiter unten. Fans von Post-Metal, Blackgaze und Post-Rock kommen bei Breaths auf jeden Fall auf ihre Kosten.
@@ -186,7 +185,4 @@ Mit seiner Mischung aus Post-Metal, Post-Rock Doomgaze und Blackgaze trifft Jaso
   seamless=""
 ></iframe>
 
-<div>
-
 [Breaths bei Bandcamp](https://breaths.bandcamp.com/releases)
-
