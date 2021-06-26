@@ -2,8 +2,6 @@
 date: 2014-03-13T17:00:08.000Z
 slug: valentinstag-in-venedig
 path: /2014/03/valentinstag-in-venedig/
-type: Artikel
-typeName: Artikel
 title: Valentinstag in Venedig
 seoTitle: Valentinstag in Venedig - Sonne, Kunst und bunte Masken
 ogTitle: Valentinstag in Venedig - Sonne, Kunst und bunte Masken

@@ -2,8 +2,6 @@
 date: 2019-03-26T17:51:50.000+00:00
 slug: 10-songs-fuer-den-april
 path: '/2019/03/10-songs-fuer-den-april/'
-type: Artikel
-typeName: Artikel
 title: 10 Songs für den April 2019
 seoTitle: 10 Songs für den April - Ausgewählt von den drei von der Bande
 ogTitle: 10 Songs für den April - Ausgewählt von den drei von der Bande

@@ -22,8 +22,6 @@ labels:
   - Vegane Rezepte
   - Veganer
   - veganwerdenwaslosdigga
-type: Artikel
-typeName: Artikel
 date: 2017-04-19T12:18:11.000Z
 status: publish
 isWerbung: false

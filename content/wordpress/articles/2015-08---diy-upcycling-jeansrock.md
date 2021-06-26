@@ -2,8 +2,6 @@
 date: 2015-08-21T12:33:10.000Z
 slug: diy-upcycling-jeansrock
 path: /2015/08/diy-upcycling-jeansrock/
-type: Artikel
-typeName: Artikel
 title: DIY Upcycling Jeansrock
 seoTitle: DIY Upcycling Jeansrock - Anleitung
 ogTitle: DIY Upcycling Jeansrock - Anleitung

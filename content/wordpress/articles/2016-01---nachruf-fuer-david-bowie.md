@@ -2,8 +2,6 @@
 date: 2016-01-11T10:35:06.000Z
 slug: rip-david-bowie-abschied-von-einer-ikone
 path: /2016/01/rip-david-bowie-abschied-von-einer-ikone/
-type: Artikel
-typeName: Artikel
 title: Nachruf für David Bowie
 seoTitle: RIP David Bowie - Abschied von einer Ikone
 ogTitle: RIP David Bowie - Abschied von einer Ikone

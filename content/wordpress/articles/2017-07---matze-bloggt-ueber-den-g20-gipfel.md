@@ -2,8 +2,6 @@
 date: 2017-07-08T20:18:48.000Z
 slug: g20-gipfel
 path: /2017/07/g20-gipfel/
-type: Artikel
-typeName: Artikel
 title: Matze bloggt über den G20 Gipfel
 seoTitle: Matze bloggt über den G20 Gipfel - So haben wir den G20 Gipfel erlebt
 ogTitle: Matze bloggt über den G20 Gipfel - So haben wir den G20 Gipfel erlebt

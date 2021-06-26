@@ -2,8 +2,6 @@
 date: 2012-08-09T12:40:59.000Z
 slug: meilenstein-3
 path: /2012/08/meilenstein-3/
-type: Artikel
-typeName: Artikel
 title: Meilenstein
 seoTitle: 10.000 Blog-Besucher - Meilenstein
 ogTitle: 10.000 Blog-Besucher - Meilenstein

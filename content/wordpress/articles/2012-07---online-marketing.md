@@ -2,8 +2,6 @@
 date: 2012-07-09T11:29:43.000Z
 slug: online-marketing
 path: /2012/07/online-marketing/
-type: Artikel
-typeName: Artikel
 title: Online-Marketing
 seoTitle: Online-Marketing - neue Serie im Blog
 ogTitle: Online-Marketing - neue Serie im Blog

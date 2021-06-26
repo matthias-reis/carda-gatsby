@@ -2,8 +2,6 @@
 date: 2017-08-14T13:52:47.000Z
 slug: altona-setzt-sich-fuer-den-kiebitz-ein
 path: /2017/08/altona-setzt-sich-fuer-den-kiebitz-ein/
-type: Artikel
-typeName: Artikel
 title: Altona setzt sich für den Kiebitz ein
 seoTitle: Altona setzt sich für den Kiebitz ein - Gerettete Vögel bald in Freiheit
 ogTitle: Altona setzt sich für den Kiebitz ein - Gerettete Vögel bald in Freiheit

@@ -2,8 +2,6 @@
 date: 2013-09-27T12:07:32.000Z
 slug: morgendlicher-anruf-eines-chirurgen
 path: /2013/09/morgendlicher-anruf-eines-chirurgen/
-type: Artikel
-typeName: Artikel
 title: Morgendlicher Anruf eines Chirurgen
 seoTitle: Die traurige Geschichte eines tapferen Katers - Teil I / IV
 ogTitle: Die traurige Geschichte eines tapferen Katers - Teil I / IV

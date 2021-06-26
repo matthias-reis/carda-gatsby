@@ -2,8 +2,6 @@
 date: 2013-09-26T11:29:48.000Z
 slug: die-rehabilitation-eines-tapferen-katers
 path: /2013/09/die-rehabilitation-eines-tapferen-katers/
-type: Artikel
-typeName: Artikel
 title: Die Rehabilitation eines tapferen Katers
 seoTitle: Die traurige Geschichte eines tapferen Katers - Teil II / IV
 ogTitle: Die traurige Geschichte eines tapferen Katers - Teil II / IV

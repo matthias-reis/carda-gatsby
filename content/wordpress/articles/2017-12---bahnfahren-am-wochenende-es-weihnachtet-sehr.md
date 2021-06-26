@@ -2,8 +2,6 @@
 date: 2017-12-21T17:43:53.000Z
 slug: bahnfahren-am-wochenende-es-weihnachtet-sehr
 path: /2017/12/bahnfahren-am-wochenende-es-weihnachtet-sehr/
-type: Artikel
-typeName: Artikel
 title: Bahnfahren am Wochenende - Es weihnachtet sehr
 seoTitle: Bahnfahren am Wochenende - Es weihnachtet sehr - Achtsamkeit in Zügen
 ogTitle: Bahnfahren am Wochenende - Es weihnachtet sehr - Achtsamkeit in Zügen

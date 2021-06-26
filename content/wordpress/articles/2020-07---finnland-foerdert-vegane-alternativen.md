@@ -2,8 +2,6 @@
 date: 2020-07-01T08:54:55.000Z
 slug: vegane-alternativen-finnland
 path: /2020/07/vegane-alternativen-finnland/
-type: Artikel
-typeName: Artikel
 title: Finnland fördert vegane Alternativen
 seoTitle: Finnland fördert vegane Alternativen - 2,1 Mio für pflanzliche Proteinquellen
 ogTitle: Finnland fördert vegane Alternativen - 2,1 Mio für pflanzliche Proteinquellen

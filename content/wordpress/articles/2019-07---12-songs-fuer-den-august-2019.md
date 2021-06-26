@@ -2,8 +2,6 @@
 date: 2019-07-25T14:04:43.000Z
 slug: 12-songs-fuer-den-august-2019
 path: /2019/07/12-songs-fuer-den-august-2019/
-type: Artikel
-typeName: Artikel
 title: 12 Songs für den August 2019
 seoTitle: 12 Songs für den August - präsentiert von den drei von der Bande
 ogTitle: 12 Songs für den August - präsentiert von den drei von der Bande

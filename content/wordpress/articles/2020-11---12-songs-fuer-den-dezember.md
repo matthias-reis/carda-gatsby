@@ -2,8 +2,6 @@
 date: 2020-11-25T12:06:55.000Z
 slug: musikliste-fuer-den-dezember-2020
 path: /2020/11/musikliste-fuer-den-dezember-2020/
-type: Artikel
-typeName: Artikel
 title: 12 Songs für den Dezember
 seoTitle: 12 Songs für den Dezember - Die neuen Lieblingsplatten
 ogTitle: 12 Songs für den Dezember - Die neuen Lieblingsplatten

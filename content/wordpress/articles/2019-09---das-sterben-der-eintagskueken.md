@@ -2,8 +2,6 @@
 date: 2019-09-16T10:42:29.000Z
 slug: das-sterben-der-eintagskueken
 path: /2019/09/das-sterben-der-eintagskueken/
-type: Artikel
-typeName: Artikel
 title: Das Sterben der Eintagsküken
 seoTitle: 100.000 Küken werden pro Tag getötet - Grausame Hühnerzucht
 ogTitle: 100.000 Küken werden pro Tag getötet - Grausame Hühnerzucht

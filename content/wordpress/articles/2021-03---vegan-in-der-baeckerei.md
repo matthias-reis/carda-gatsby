@@ -2,8 +2,6 @@
 date: 2021-03-15T09:48:13.000Z
 slug: vegan-in-der-baeckerei
 path: /2021/03/vegan-in-der-baeckerei/
-type: Artikel
-typeName: Artikel
 title: Vegan in der Bäckerei
 seoTitle: Vegan in der Bäckerei – der neue Leitfaden der Albert Schweitzer Stiftung
 ogTitle: Vegan in der Bäckerei – der neue Leitfaden der Albert Schweitzer Stiftung

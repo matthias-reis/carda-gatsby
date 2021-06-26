@@ -2,8 +2,6 @@
 date: 2019-06-17T09:20:00.000Z
 slug: der-radiohead-hack
 path: /2019/06/der-radiohead-hack/
-type: Artikel
-typeName: Artikel
 title: Der Radiohead Hack
 seoTitle: Der Radiohead Hack - unveröffentlichtes OK Computer Material gestohlen
 ogTitle: Der Radiohead Hack - unveröffentlichtes OK Computer Material gestohlen

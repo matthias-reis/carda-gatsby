@@ -2,8 +2,6 @@
 date: 2014-11-21T16:40:31.000Z
 slug: suechtig-nach-kaese-casomorphine
 path: /2014/11/suechtig-nach-kaese-casomorphine/
-type: Artikel
-typeName: Artikel
 title: Süchtig nach Käse durch Casomorphine
 seoTitle: Süchtig nach Käse durch Casomorphine - wie ich meine Sucht erkannte
 ogTitle: Süchtig nach Käse durch Casomorphine - wie ich meine Sucht erkannte

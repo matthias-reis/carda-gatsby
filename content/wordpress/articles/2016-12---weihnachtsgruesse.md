@@ -2,8 +2,6 @@
 date: 2016-12-24T18:11:16.000Z
 slug: weihnachtsgruesse
 path: /2016/12/weihnachtsgruesse/
-type: Artikel
-typeName: Artikel
 title: Weihnachtsgrüße
 seoTitle: Weihnachtsgrüße - Frohe Festtage wünsche ich Euch allen
 ogTitle: Weihnachtsgrüße - Frohe Festtage wünsche ich Euch allen

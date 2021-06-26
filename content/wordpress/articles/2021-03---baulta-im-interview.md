@@ -1,9 +1,6 @@
 ---
 ogTitle: Baulta im Interview – "Post-Rock transportiert Emotionen"
-excerpt: Baulta haben sich zu einem Interview bereiterklärt! Wir haben uns lange
-  über den Entstehungsprozess ihres aktuellen Albums "Another Second Chance" und
-  ihre Entwicklung als Band unterhalten. Dabei habe ich einiges über die vier
-  Finnen und ihre Beziehung zum Post-Rock erfahren.
+excerpt: Baulta haben sich zu einem Interview bereiterklärt! Wir haben uns lange über den Entstehungsprozess ihres aktuellen Albums "Another Second Chance" und ihre Entwicklung als Band unterhalten. Dabei habe ich einiges über die vier Finnen und ihre Beziehung zum Post-Rock erfahren.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_baulta-fb-Baulta.-Picture_-Antti-Varhe-_-AVAGraphy.png__l.jpg
 isAffiliate: false
 path: /2021/03/baulta-interview/
@@ -22,8 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03
 title: Baulta im Interview
 subTitle: '"Post-Rock transportiert Emotionen"'
 seoTitle: Baulta im Interview – "Post-Rock transportiert Emotionen"
-description: Baulta haben sich zu einem Interview bereiterklärt! Wir haben uns
-  über ihr aktuelles Albums "Another Second Chance" unterhalten.
+description: Baulta haben sich zu einem Interview bereiterklärt! Wir haben uns über ihr aktuelles Albums "Another Second Chance" unterhalten.
 language: de
 type: Artikel
 labels:
@@ -42,6 +38,7 @@ labels:
   - Jyväskylä
   - Post-Rock
 ---
+
 **Baulta haben sich zu einem Interview bereiterklärt! Wir haben uns lange über den Entstehungsprozess ihres aktuellen Albums "Another Second Chance" und ihre Entwicklung als Band unterhalten. Dabei habe ich einiges über die vier Finnen und ihre Beziehung zum Post-Rock erfahren.**
 
 Über die aktuelle Weltlage haben wir natürlich auch gesprochen. Davon lassen sich Esa (Schlagzeug), Janne (Bass), Iiro (Gitarre) und Matti (Gitarre) nicht unterkriegen. Inzwischen haben sie eine ziemlich gute Strategie entwickelt, mit der Krise umzugehen.

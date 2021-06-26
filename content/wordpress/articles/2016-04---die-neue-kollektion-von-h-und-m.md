@@ -2,8 +2,6 @@
 date: 2016-04-12T15:37:48.000Z
 slug: die-neue-kollektion-von-hm
 path: /2016/04/die-neue-kollektion-von-hm/
-type: Artikel
-typeName: Artikel
 title: Die neue Kollektion von H&M
 seoTitle: Leder und Seide unter dem Label "Conscious" bei H&M
 ogTitle: Leder und Seide unter dem Label "Conscious" bei H&M

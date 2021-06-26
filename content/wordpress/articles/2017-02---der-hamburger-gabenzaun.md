@@ -2,8 +2,6 @@
 date: 2017-02-02T15:51:33.000Z
 slug: der-hamburger-gabenzaun
 path: /2017/02/der-hamburger-gabenzaun/
-type: Artikel
-typeName: Artikel
 title: Der Hamburger Gabenzaun
 seoTitle: Der Hamburger Gabenzaun - Ein Zaun für die Menschen
 ogTitle: Der Hamburger Gabenzaun - Ein Zaun für die Menschen

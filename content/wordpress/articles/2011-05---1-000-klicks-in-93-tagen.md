@@ -2,8 +2,6 @@
 date: 2011-05-23T11:15:31.000Z
 slug: 1000-klicks
 path: /2011/05/1000-klicks/
-type: Artikel
-typeName: Artikel
 title: 1.000 Klicks in 93 Tagen
 seoTitle: 1.000 Klicks in 93 Tagen - cardamonchai kommt an
 ogTitle: 1.000 Klicks in 93 Tagen - cardamonchai kommt an

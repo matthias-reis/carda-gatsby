@@ -2,8 +2,6 @@
 date: 2019-07-16T12:45:29.000Z
 slug: deutscher-selfpublishing-preis-2019-wir-sind-dabei
 path: /2019/07/deutscher-selfpublishing-preis-2019-wir-sind-dabei/
-type: Artikel
-typeName: Artikel
 title: Deutscher Selfpublishing Preis 2019 - wir sind dabei!
 seoTitle: Deutscher Selfpublishing Preis 2019 - "Die Hermetiker" ist dabei!
 ogTitle: Deutscher Selfpublishing Preis 2019 - "Die Hermetiker" ist dabei!

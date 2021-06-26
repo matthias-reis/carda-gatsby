@@ -2,8 +2,6 @@
 date: 2019-01-25T14:27:45.000Z
 slug: 10-songs-fuer-den-februar
 path: /2019/01/10-songs-fuer-den-februar/
-type: Artikel
-typeName: Artikel
 title: 10 Songs für den Februar 2019
 seoTitle: 10 Songs für den Februar - präsentiert von den drei von der Bande
 ogTitle: 10 Songs für den Februar - präsentiert von den drei von der Bande

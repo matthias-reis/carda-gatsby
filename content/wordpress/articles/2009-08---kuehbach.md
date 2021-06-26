@@ -2,8 +2,6 @@
 date: 2009-08-30T07:14:41.000Z
 slug: bayerische-gmiatlichkeit-die-marktgemeinde-kuhbach-im-wandel-der-geschichte
 path: /2009/08/bayerische-gmiatlichkeit-die-marktgemeinde-kuhbach-im-wandel-der-geschichte/
-type: Artikel
-typeName: Artikel
 title: Kühbach
 seoTitle: Die Marktgemeinde Kühbach im Wandel der Geschichte
 ogTitle: Die Marktgemeinde Kühbach im Wandel der Geschichte

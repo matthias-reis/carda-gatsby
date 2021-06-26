@@ -2,8 +2,6 @@
 date: 2011-09-19T14:22:11.000Z
 slug: kalte-piraten-und-ein-netzfundstuck
 path: /2011/09/kalte-piraten-und-ein-netzfundstuck/
-type: Artikel
-typeName: Artikel
 title: Piraten, Dauerregen und Netzfundstücke
 seoTitle: Piraten, Dauerregen und Netzfundstücke - Tagebucheintrag
 ogTitle: Piraten, Dauerregen und Netzfundstücke - Tagebucheintrag

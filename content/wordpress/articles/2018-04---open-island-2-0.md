@@ -2,8 +2,6 @@
 date: 2018-04-24T06:40:31.000Z
 slug: open-island
 path: /2018/04/open-island/
-type: Artikel
-typeName: Artikel
 title: Open Island 2.0
 seoTitle: Open Island 2.0 - Neuer Lebensraum auf Recyclingplattformen
 ogTitle: Open Island 2.0 - Neuer Lebensraum auf Recyclingplattformen

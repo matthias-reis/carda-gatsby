@@ -2,8 +2,6 @@
 date: 2019-01-01T11:00:35.000+00:00
 slug: musikalisches-blogger-blind-date-zum-neuen-jahr
 path: '/2019/01/musikalisches-blogger-blind-date-zum-neuen-jahr/'
-type: Artikel
-typeName: Artikel
 title: Musikalisches Blogger Blind Date
 seoTitle: Musikalisches Blogger Blind Date zum neuen Jahr - My Dear Acqaintance
 ogTitle: Musikalisches Blogger Blind Date zum neuen Jahr - My Dear Acqaintance

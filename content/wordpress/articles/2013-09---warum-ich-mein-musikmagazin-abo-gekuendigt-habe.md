@@ -2,8 +2,6 @@
 date: 2013-09-06T11:03:09.000Z
 slug: musikmagazin-abo-kuendigung
 path: /2013/09/musikmagazin-abo-kuendigung/
-type: Artikel
-typeName: Artikel
 title: Warum ich mein Musikmagazin-Abo gekündigt habe
 seoTitle: Warum ich mein Musikmagazin-Abo gekündigt habe
 ogTitle: Warum ich mein Musikmagazin-Abo gekündigt habe

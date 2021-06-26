@@ -2,8 +2,6 @@
 date: 2020-10-06T11:12:12.000Z
 slug: herbstliches-potpourri
 path: /2020/10/herbstliches-potpourri/
-type: Artikel
-typeName: Artikel
 title: Herbstliches Potpourri
 seoTitle: Herbstliches Potpourri – bunte Farben fürs Wohnzimmer
 ogTitle: Herbstliches Potpourri – bunte Farben fürs Wohnzimmer

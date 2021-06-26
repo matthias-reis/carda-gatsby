@@ -2,8 +2,6 @@
 date: 2019-04-25T14:28:55.000Z
 slug: 12-songs-fuer-den-mai-2019
 path: /2019/04/12-songs-fuer-den-mai-2019/
-type: Artikel
-typeName: Artikel
 title: 12 Songs für den Mai 2019
 seoTitle: 12 Songs für den Mai - präsentiert von den drei von der Bande
 ogTitle: 12 Songs für den Mai - präsentiert von den drei von der Bande

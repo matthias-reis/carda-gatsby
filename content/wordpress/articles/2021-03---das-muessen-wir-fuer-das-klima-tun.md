@@ -2,8 +2,6 @@
 date: 2021-03-19T06:30:37.000Z
 slug: planet-classroom
 path: /2021/03/planet-classroom/
-type: Artikel
-typeName: Artikel
 title: Das müssen wir für das Klima tun
 seoTitle: Planet Classroom – Bildung für alle – Das müssen wir für das Klima tun
 ogTitle: Planet Classroom – Bildung für alle – Das müssen wir für das Klima tun

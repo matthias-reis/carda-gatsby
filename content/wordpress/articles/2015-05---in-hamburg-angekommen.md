@@ -2,8 +2,6 @@
 date: 2015-05-20T15:04:42.000Z
 slug: hamburg-ist-schoen-und-ich-bin-wieder-da
 path: /2015/05/hamburg-ist-schoen-und-ich-bin-wieder-da/
-type: Artikel
-typeName: Artikel
 title: In Hamburg angekommen
 seoTitle: Hamburg ist schön und ich bin endlich wieder da!
 ogTitle: Hamburg ist schön und ich bin endlich wieder da!

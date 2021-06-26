@@ -2,8 +2,6 @@
 date: 2014-12-05T13:14:24Z
 slug: versteckte-tierische-inhaltsstoffe-in-lebensmitteln
 path: '/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/'
-type: Artikel
-typeName: Artikel
 title: Versteckte tierische Inhaltsstoffe in Lebensmitteln
 seoTitle: Versteckte tierische Inhaltsstoffe in Lebensmitteln
 ogTitle: Versteckte tierische Inhaltsstoffe in Lebensmitteln

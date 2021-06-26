@@ -2,8 +2,6 @@
 date: 2009-07-05T20:19:56.000Z
 slug: backstage-open-festival-in-munchen
 path: /2009/07/backstage-open-festival-in-munchen/
-type: Artikel
-typeName: Artikel
 title: Backstage Open Festival in München
 seoTitle: Backstage Open Festival 2009 in München mit Anajo
 ogTitle: Backstage Open Festival 2009 in München mit Anajo

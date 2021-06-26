@@ -2,8 +2,6 @@
 date: 2016-05-12T09:17:49.000Z
 slug: turnbeutel-diy
 path: /2016/05/turnbeutel-diy/
-type: Artikel
-typeName: Artikel
 title: DIY Turnbeutel für den Sommer
 seoTitle: Turnbeutel - Neu in meiner Sammlung
 ogTitle: Turnbeutel - Neu in meiner Sammlung

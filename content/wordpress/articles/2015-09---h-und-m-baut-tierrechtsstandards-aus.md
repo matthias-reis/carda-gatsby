@@ -2,8 +2,6 @@
 date: 2015-09-12T15:48:30.000Z
 slug: hm-baut-tierrechtsstandards-aus
 path: /2015/09/hm-baut-tierrechtsstandards-aus/
-type: Artikel
-typeName: Artikel
 title: H&M baut Tierrechtsstandards aus
 seoTitle: H&M startet Kampagne gegen Tierversuche und Mulesing
 ogTitle: H&M startet Kampagne gegen Tierversuche und Mulesing

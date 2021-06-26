@@ -2,8 +2,6 @@
 date: 2019-05-05T13:08:32.000+00:00
 slug: insektenhotel-bienen-auf-dem-balkon
 path: '/2019/05/insektenhotel-bienen-auf-dem-balkon/'
-type: Artikel
-typeName: Artikel
 title: Wie funktioniert ein Insektenhotel?
 seoTitle: So funktioniert ein Insektenhotel - Bienen auf dem Balkon
 ogTitle: So funktioniert ein Insektenhotel - Bienen auf dem Balkon

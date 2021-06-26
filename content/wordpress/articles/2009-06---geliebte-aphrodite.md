@@ -2,8 +2,6 @@
 date: 2009-06-08T15:15:57.000Z
 slug: geliebte-aphrodite
 path: /2009/06/geliebte-aphrodite/
-type: Artikel
-typeName: Artikel
 title: Geliebte Aphrodite?
 seoTitle: Geliebte Aphrodite?
 ogTitle: Geliebte Aphrodite?

@@ -2,8 +2,6 @@
 date: 2012-07-10T15:27:46.000Z
 slug: virales-marketing-2
 path: /2012/07/virales-marketing-2/
-type: Artikel
-typeName: Artikel
 title: Virales Marketing
 seoTitle: Virales Marketing - Mundpropaganda 2.0
 ogTitle: Virales Marketing - Mundpropaganda 2.0

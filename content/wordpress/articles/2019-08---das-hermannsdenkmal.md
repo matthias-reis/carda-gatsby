@@ -2,8 +2,6 @@
 date: 2019-08-13T12:30:15.000Z
 slug: wandern-rund-um-das-hermannsdenkmal
 path: /2019/08/wandern-rund-um-das-hermannsdenkmal/
-type: Artikel
-typeName: Artikel
 title: Das Hermannsdenkmal
 seoTitle: Wandern rund um das Hermannsdenkmal - ein wirklich großer Kerl
 ogTitle: Wandern rund um das Hermannsdenkmal - ein wirklich großer Kerl

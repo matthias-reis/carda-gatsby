@@ -2,8 +2,6 @@
 date: 2015-02-07T12:28:23.000Z
 slug: petit-mort-kein-echter-pelz-ohne-mord
 path: /2015/02/petit-mort-kein-echter-pelz-ohne-mord/
-type: Artikel
-typeName: Artikel
 title: Echter Pelz ohne Mord?
 seoTitle: Echter Pelz ohne Mord? "Petite Mort" stellt Pelze aus Roadkill her
 ogTitle: Echter Pelz ohne Mord? "Petite Mort" stellt Pelze aus Roadkill her

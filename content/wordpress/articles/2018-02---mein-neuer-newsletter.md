@@ -2,8 +2,6 @@
 date: 2018-02-21T09:00:15.000Z
 slug: mein-neuer-newsletter
 path: /2018/02/mein-neuer-newsletter/
-type: Artikel
-typeName: Artikel
 title: Mein neuer Newsletter
 seoTitle: Mein neuer Newsletter - jetzt anmelden
 ogTitle: Mein neuer Newsletter - jetzt anmelden

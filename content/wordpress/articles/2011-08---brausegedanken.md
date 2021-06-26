@@ -2,8 +2,6 @@
 date: 2011-08-04T08:14:23.000Z
 slug: brausegedanken
 path: /2011/08/brausegedanken/
-type: Artikel
-typeName: Artikel
 title: Brausegedanken
 seoTitle: Brausegedanken - was der Alltag so mitbringt
 ogTitle: Brausegedanken - was der Alltag so mitbringt

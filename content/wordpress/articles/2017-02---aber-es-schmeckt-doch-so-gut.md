@@ -2,8 +2,6 @@
 date: 2017-02-16T18:22:17.000Z
 slug: klimaschutz-und-vegane-ernaehrung
 path: /2017/02/klimaschutz-und-vegane-ernaehrung/
-type: Artikel
-typeName: Artikel
 title: Aber es schmeckt doch so gut!
 seoTitle: Klimaschutz und vegane Ernährung mal wissenschaftlich betrachtet
 ogTitle: Klimaschutz und vegane Ernährung mal wissenschaftlich betrachtet

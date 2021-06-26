@@ -2,8 +2,6 @@
 date: 2015-11-06T14:06:03.000Z
 slug: traurige-wahrheit-ueber-fukushima
 path: /2015/11/traurige-wahrheit-ueber-fukushima/
-type: Artikel
-typeName: Artikel
 title: Traurige Wahrheit über Fukushima
 seoTitle: Traurige Wahrheit über Fukushima - Kontamination nach wie vor stark
 ogTitle: Traurige Wahrheit über Fukushima - Kontamination nach wie vor stark

@@ -2,8 +2,6 @@
 date: 2011-08-10T17:03:11.000Z
 slug: klarnamen-internet
 path: /2011/08/klarnamen-internet/
-type: Artikel
-typeName: Artikel
 title: Schon bald nur noch mit Klarnamen online unterwegs
 seoTitle: Klarnamen im Internet - werden wir permanent überwacht?
 ogTitle: Klarnamen im Internet - werden wir permanent überwacht?

@@ -2,8 +2,6 @@
 date: 2017-05-23T14:15:52.000+00:00
 slug: dunkfestival-2017-es-geht-los
 path: '/2017/05/dunkfestival-2017-es-geht-los/'
-type: Artikel
-typeName: Artikel
 title: Dunk!festival 2017
 seoTitle: Dunk!festival 2017 wir kommen! Der Rucksack ist gepackt!
 ogTitle: Dunk!festival 2017 wir kommen! Der Rucksack ist gepackt!

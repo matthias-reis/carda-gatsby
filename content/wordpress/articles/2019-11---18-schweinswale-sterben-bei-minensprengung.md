@@ -2,8 +2,6 @@
 date: 2019-11-24T15:57:03.000Z
 slug: 18-schweinswale-bei-minensprengung-in-der-ostsee-getoetet
 path: /2019/11/18-schweinswale-bei-minensprengung-in-der-ostsee-getoetet/
-type: Artikel
-typeName: Artikel
 title: 18 Schweinswale sterben bei Minensprengung
 seoTitle: 18 Schweinswale bei Minensprengung in der Ostsee getötet
 ogTitle: 18 Schweinswale bei Minensprengung in der Ostsee getötet

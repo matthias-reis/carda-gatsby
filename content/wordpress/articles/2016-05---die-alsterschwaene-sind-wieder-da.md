@@ -2,8 +2,6 @@
 date: 2016-05-10T06:45:48.000Z
 slug: alsterschwaene
 path: /2016/05/alsterschwaene/
-type: Artikel
-typeName: Artikel
 title: Die Alsterschwäne sind wieder da
 seoTitle: Die Alsterschwäne sind wieder da - Frühling in Hamburg
 ogTitle: Die Alsterschwäne sind wieder da - Pas de trois am Schwanensee

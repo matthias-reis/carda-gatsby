@@ -2,8 +2,6 @@
 date: 2020-04-16T07:02:47.000Z
 slug: fischratgeber-hinterfragt
 path: /2020/04/fischratgeber-hinterfragt/
-type: Artikel
-typeName: Artikel
 title: Fischratgeber hinterfragt
 seoTitle: Fischratgeber hinterfragt - Überfischung und Kochrezepte
 ogTitle: Fischratgeber hinterfragt - Überfischung und Kochrezepte

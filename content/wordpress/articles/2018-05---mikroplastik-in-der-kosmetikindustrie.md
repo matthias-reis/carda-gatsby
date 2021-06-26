@@ -2,8 +2,6 @@
 date: 2018-05-15T06:10:27.000Z
 slug: mikroplastik-in-der-kosmetik
 path: /2018/05/mikroplastik-in-der-kosmetik/
-type: Artikel
-typeName: Artikel
 title: Mikroplastik in der Kosmetikindustrie
 seoTitle: Mikroplastik in der Kosmetikindustrie - Umweltsünden aus der Tube
 ogTitle: Mikroplastik in der Kosmetikindustrie - Umweltsünden aus der Tube

@@ -2,8 +2,6 @@
 date: 2020-04-17T17:07:42.000Z
 slug: fridays-for-future-virtueller-klimastreik
 path: /2020/04/fridays-for-future-virtueller-klimastreik/
-type: Artikel
-typeName: Artikel
 title: Virtueller Klimastreik am 24. April
 seoTitle: Virtueller Klimastreik am 24. April - Fridays For Future
 ogTitle: Virtueller Klimastreik am 24. April - Fridays For Future

@@ -2,8 +2,6 @@
 date: 2018-10-16T15:50:06.000Z
 slug: klimanetzwerke-universitaet-lund
 path: /2018/10/klimanetzwerke-universitaet-lund/
-type: Artikel
-typeName: Artikel
 title: Klimanetzwerke und ihre Wirkung auf die Regionalpolitik
 seoTitle: Klimanetzwerke und ihre Wirkung auf die Regionalpolitik
 ogTitle: Klimanetzwerke und ihre Wirkung auf die Regionalpolitik

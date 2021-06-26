@@ -2,8 +2,6 @@
 date: 2015-02-12T13:10:21.000Z
 slug: generation-vegan-renoviert-die-oekomode-branche
 path: /2015/02/generation-vegan-renoviert-die-oekomode-branche/
-type: Artikel
-typeName: Artikel
 title: Generation Vegan renoviert die Ökomode-Branche
 seoTitle: Generation Vegan renoviert die Modebranche - vegane Mode gesucht!
 ogTitle: Generation Vegan renoviert die Modebranche - vegane Mode gesucht!

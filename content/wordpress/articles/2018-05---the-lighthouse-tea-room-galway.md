@@ -2,8 +2,6 @@
 date: 2018-05-03T06:07:37.000+00:00
 slug: the-lighthouse-tea-room-galway
 path: '/2018/05/the-lighthouse-tea-room-galway/'
-type: Artikel
-typeName: Artikel
 title: The Lighthouse Tea Room Galway
 seoTitle: The Lighthouse Tea Room Galway - Vegane Küche vom Feinsten
 ogTitle: The Lighthouse Galway - Vegane Küche vom Feinsten

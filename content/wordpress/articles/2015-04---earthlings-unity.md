@@ -2,8 +2,6 @@
 date: 2015-04-22T09:00:21.000Z
 slug: earthlings-unity
 path: /2015/04/earthlings-unity/
-type: Artikel
-typeName: Artikel
 title: Earthlings Unity
 seoTitle: Earthlings Unity - der neue Film von Shaun Monson
 ogTitle: Earthlings Unity - der neue Film von Shaun Monson

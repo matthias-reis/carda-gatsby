@@ -2,8 +2,6 @@
 date: 2013-09-16T15:45:29.000Z
 slug: von-wut-und-stolz
 path: /2013/09/von-wut-und-stolz/
-type: Artikel
-typeName: Artikel
 title: Von Wut und Stolz
 seoTitle: Von Wut und Stolz
 ogTitle: Von Wut und Stolz

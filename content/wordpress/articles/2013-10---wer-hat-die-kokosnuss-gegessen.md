@@ -19,8 +19,6 @@ labels:
   - Tiere
   - Waldkauz
   - Zoo
-type: Artikel
-typeName: Artikel
 date: 2013-10-23T18:22:15.000Z
 status: publish
 isWerbung: false

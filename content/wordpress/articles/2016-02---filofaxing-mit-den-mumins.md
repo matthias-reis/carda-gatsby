@@ -2,8 +2,6 @@
 date: 2016-02-02T11:23:29.000Z
 slug: filofaxing-mit-den-mumins
 path: /2016/02/filofaxing-mit-den-mumins/
-type: Artikel
-typeName: Artikel
 title: Filofaxing mit den Mumins
 seoTitle: Filofaxing mit den Mumins - Fotolovestory
 ogTitle: Filofaxing mit den Mumins - Fotolovestory

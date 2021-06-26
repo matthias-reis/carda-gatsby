@@ -2,8 +2,6 @@
 date: 2019-11-26T16:06:08.000Z
 slug: 13-songs-fuer-den-dezember-2019
 path: /2019/11/13-songs-fuer-den-dezember-2019/
-type: Artikel
-typeName: Artikel
 title: 13 Songs für den Dezember 2019
 seoTitle: 13 Songs für den Dezember - präsentiert von den drei von der Bande
 ogTitle: 13 Songs für den Dezember - präsentiert von den drei von der Bande

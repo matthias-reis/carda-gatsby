@@ -2,8 +2,6 @@
 date: 2020-04-15T14:14:54.000Z
 slug: inger-andersen-un-covid-19
 path: /2020/04/inger-andersen-un-covid-19/
-type: Artikel
-typeName: Artikel
 title: '"COVID-19 ist kein Lichtblick für das Klima"'
 seoTitle: Inger Andersen zu Corona - kein Lichtblick
 ogTitle: Inger Andersen zu Corona - kein Lichtblick

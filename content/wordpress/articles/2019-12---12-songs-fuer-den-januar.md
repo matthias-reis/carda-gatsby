@@ -2,8 +2,6 @@
 date: 2019-12-31T17:40:32.000+00:00
 slug: 12-songs-fuer-den-januar-2020
 path: '/2019/12/12-songs-fuer-den-januar-2020/'
-type: Artikel
-typeName: Artikel
 title: 12 Songs für den Januar
 seoTitle: 12 Songs für den Januar - präsentiert von den drei von der Bande
 ogTitle: 12 Songs für den Januar - präsentiert von den drei von der Bande

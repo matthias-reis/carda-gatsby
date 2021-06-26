@@ -2,8 +2,6 @@
 date: 2012-08-11T15:58:42.000Z
 slug: mull
 path: /2012/08/mull/
-type: Artikel
-typeName: Artikel
 title: Soviel Müll produzieren wir
 seoTitle: Müll - So viel produzieren wir - da sollte man man drüber nachdenken
 ogTitle: Müll - So viel produzieren wir - da sollte man man drüber nachdenken

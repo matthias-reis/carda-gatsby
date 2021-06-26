@@ -2,8 +2,6 @@
 date: 2016-01-26T09:19:47.000Z
 slug: initiative-tierwohl
 path: /2016/01/initiative-tierwohl/
-type: Artikel
-typeName: Artikel
 title: Initiative Tierwohl
 seoTitle: Initiative Tierwohl - Tiere schützen und essen - geht das?
 ogTitle: Initiative Tierwohl - Tiere schützen und essen - geht das?

@@ -2,8 +2,6 @@
 date: 2019-11-25T07:08:39.000Z
 slug: earthling-ed-zu-gast-in-hamburg
 path: /2019/11/earthling-ed-zu-gast-in-hamburg/
-type: Artikel
-typeName: Artikel
 title: Earthling Ed zu Gast in Hamburg
 seoTitle: Earthling Ed in Hamburg - "Es ist OK, ein*e wütende*r Veganer*in zu sein"
 ogTitle: Earthling Ed in Hamburg - "Es ist OK, ein*e wütende*r Veganer*in zu sein"

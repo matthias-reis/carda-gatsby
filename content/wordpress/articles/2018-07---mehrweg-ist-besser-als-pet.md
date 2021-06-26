@@ -2,8 +2,6 @@
 date: 2018-07-23T15:03:21.000Z
 slug: glas-statt-plastik
 path: /2018/07/glas-statt-plastik/
-type: Artikel
-typeName: Artikel
 title: Mehrweg ist besser als PET!
 seoTitle: Mehrweg ist besser als PET! Glas- statt Plastikflaschen!
 ogTitle: Mehrweg ist besser als PET! Glas statt Plastik!

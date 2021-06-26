@@ -2,8 +2,6 @@
 date: 2017-04-04T06:33:17.000Z
 slug: herr-bauer-ist-mein-neuer-held
 path: /2017/04/herr-bauer-ist-mein-neuer-held/
-type: Artikel
-typeName: Artikel
 title: Keine Mauer für Trump
 seoTitle: '"Herr Bauer ist mein neuer Held" - Keine Mauer für Trump - Bauunternehmer regt sich auf'
 ogTitle: '"Herr Bauer ist mein neuer Held" - Keine Mauer für Trump - Bauunternehmer regt sich auf'

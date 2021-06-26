@@ -1,39 +1,34 @@
 ---
 date: 2013-08-03T16:57:51.000+00:00
 slug: tempel-und-religion-auf-bali
-path: "/2013/08/tempel-und-religion-auf-bali/"
-type: Artikel
-typeName: Artikel
+path: '/2013/08/tempel-und-religion-auf-bali/'
 title: Tempel und Religion auf Bali
 seoTitle: Tempel und Religion auf Bali - Eine Bildergalerie
 ogTitle: Tempel und Religion auf Bali - Eine Bildergalerie
-description: Wer Bali besucht, sollte auf jeden Fall in den Tempel gehen - Auf unserer
-  Reise durch das Land habe ich einige Eindrücke fotografisch festgehalten
-excerpt: Wer die Insel der Götter bereist, sollte dort auf jeden Fall auch den ein
-  oder anderen Tempel besuchen. Auf unserer Reise durch das Land haben wir einige
-  gesehen.
+description: Wer Bali besucht, sollte auf jeden Fall in den Tempel gehen - Auf unserer Reise durch das Land habe ich einige Eindrücke fotografisch festgehalten
+excerpt: Wer die Insel der Götter bereist, sollte dort auf jeden Fall auch den ein oder anderen Tempel besuchen. Auf unserer Reise durch das Land haben wir einige gesehen.
 fileName: 2013-08---tempel-und-religion-auf-bali.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_5077__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_5077__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDBAURAAYhEjEHExQiURVBYSRCcYGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/8QAGhEAAwADAQAAAAAAAAAAAAAAAAECESExQf/aAAwDAQACEQMRAD8A63jJWUVDuO2QWWRAqW9XMiyBvNZmwvUeS+AnAPAznVDZO46+23R2qJ54knqhKSoBj6jwV4PAwQen8aX73bq6wVSWq9QRgxRL5TsqwqygEqVUDnGfnPzqSmxDBH6ckQ1SQgiMqP2s3J+ze46L9ow3w7tttfO8bXb01akijyIycorcK4Xu2efx3+NIe5bFd4N4/VtvQV4gkqkEkkCxuV61Cl88MCMtkDIA+dJdbV3K50NNaqmzSXOugLvbmqEBkiSNcsFwfcx7Ac5x840y2BdwUe75bfclekuMLQSSOJ4iUpwfe5dgy46P75IGCeDKrLfhTKaSSL3jPM92pdm11V0mlqVkIpCoKxyqAfMBP3wSuCO2s4t1IhTMOIVmVpMIOAQqsf5z20aNKd9JV0ZfDu21NVdLlTNWI1L6UVRilhLBcShCEwwKnB7/AOHW67M2laNu2j9FSq09WoeoqJffLNk5AZjyQM4x+NGjSehyf//Z
-ogImage: 
+ogImage:
 labels:
-- Bali
-- Bali Religion
-- Bali Tempel Tempel
-- Bali-Trip
-- Besakih
-- Fernweh
-- Goa Lawah
-- Hinduismus
-- Hinduistische Tempel
-- Kintamani
-- Religion
-- Taman Ayun
-- Tanah Lot
-- tempel
-- Tempel Bali
-- serie:Bali 2013
+  - Bali
+  - Bali Religion
+  - Bali Tempel Tempel
+  - Bali-Trip
+  - Besakih
+  - Fernweh
+  - Goa Lawah
+  - Hinduismus
+  - Hinduistische Tempel
+  - Kintamani
+  - Religion
+  - Taman Ayun
+  - Tanah Lot
+  - tempel
+  - Tempel Bali
+  - serie:Bali 2013
 focusKeyword: Tempel
 status: publish
 isWerbung: false
@@ -41,8 +36,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Unsere große Reise - Teil VI
-
 ---
+
 ## Von Besakih und Goah Lawah über Kintamani nach Taman Ayun und Tanah Lot
 
 Wer die Insel der Götter bereist, sollte dort auf jeden Fall auch den ein oder anderen Tempel besuchen. Auf unserer Reise durch das Land haben wir einige gesehen. Natürlich habe ich für Euch ein paar Bilder gemacht.

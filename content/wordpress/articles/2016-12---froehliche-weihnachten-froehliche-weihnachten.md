@@ -2,8 +2,6 @@
 date: 2016-12-22T16:36:04.000Z
 slug: froehliche-weihnachten-froehliche-weihnachten
 path: /2016/12/froehliche-weihnachten-froehliche-weihnachten/
-type: Artikel
-typeName: Artikel
 title: Fröhliche Weihnachten! Fröhliche Weihnachten?
 seoTitle: Fröhliche Weihnachten! Fröhliche Weihnachten? - Gedanken zum Fest
 ogTitle: Fröhliche Weihnachten! Fröhliche Weihnachten? - Gedanken zum Fest

@@ -2,8 +2,6 @@
 date: 2017-06-22T08:17:58.000Z
 slug: diy-putzmittel-fuer-die-kueche
 path: /2017/06/diy-putzmittel-fuer-die-kueche/
-type: Artikel
-typeName: Artikel
 title: DIY Putzmittel für die Küche
 seoTitle: DIY Putzmittel für die Küche - So werden Herd und Spüle im Handumdrehen blitzeblank
 ogTitle: DIY Putzmittel für die Küche - So werden Herd und Spüle im Handumdrehen blitzeblank

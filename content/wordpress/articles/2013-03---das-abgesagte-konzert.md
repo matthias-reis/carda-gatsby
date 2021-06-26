@@ -2,8 +2,6 @@
 date: 2013-03-11T13:11:14.000Z
 slug: konzert-abgesagt-ticketshop-uberfordert-neues-aus-der-servicewuste
 path: /2013/03/konzert-abgesagt-ticketshop-uberfordert-neues-aus-der-servicewuste/
-type: Artikel
-typeName: Artikel
 title: Das abgesagte Konzert
 seoTitle: Konzert abgesagt - Ticketshop überfordert - Neues aus der Servicewüste
 ogTitle: Konzert abgesagt - Ticketshop überfordert - Neues aus der Servicewüste

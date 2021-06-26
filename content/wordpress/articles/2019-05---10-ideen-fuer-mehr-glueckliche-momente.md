@@ -2,8 +2,6 @@
 date: 2019-05-07T19:03:13.000Z
 slug: 10-ideen-fuer-mehr-glueckliche-momente
 path: /2019/05/10-ideen-fuer-mehr-glueckliche-momente/
-type: Artikel
-typeName: Artikel
 title: 10 Ideen für mehr glückliche Momente
 seoTitle: 10 Ideen für mehr glückliche Momente - den Alltag genießen
 ogTitle: 10 Ideen für mehr glückliche Momente - den Alltag genießen

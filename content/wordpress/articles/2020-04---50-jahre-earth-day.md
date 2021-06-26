@@ -2,8 +2,6 @@
 date: 2020-04-20T08:54:17.000Z
 slug: 50-jahre-earth-day
 path: /2020/04/50-jahre-earth-day/
-type: Artikel
-typeName: Artikel
 title: 50 Jahre Earth Day
 seoTitle: 50 Jahre Earth Day am 22. April 2020 - Stadtnatur
 ogTitle: 50 Jahre Earth Day am 22. April 2020 - Stadtnatur

@@ -2,8 +2,6 @@
 date: 2018-01-13T09:38:35.000Z
 slug: fleischatlas-2018
 path: /2018/01/fleischatlas-2018/
-type: Artikel
-typeName: Artikel
 title: Fleischatlas 2018
 seoTitle: Fleischatlas 2018 - Broschüre zeigt die ungeschönte Wahrheit
 ogTitle: Fleischatlas - Broschüre zeigt die ungeschönte Wahrheit

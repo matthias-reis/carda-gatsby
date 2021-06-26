@@ -2,8 +2,6 @@
 date: 2011-07-07T18:17:41.000Z
 slug: im-sitting-in-a-bubble-trying-to-get-out
 path: /2011/07/im-sitting-in-a-bubble-trying-to-get-out/
-type: Artikel
-typeName: Artikel
 title: I'm sitting in a bubble, trying to get out
 seoTitle: I'm sitting in a bubble, trying to get out
 ogTitle: I'm sitting in a bubble, trying to get out

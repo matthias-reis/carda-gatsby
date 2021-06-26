@@ -2,8 +2,6 @@
 date: 2016-05-10T17:59:08.000Z
 slug: adam-greens-aladdin
 path: /2016/05/adam-greens-aladdin/
-type: Artikel
-typeName: Artikel
 title: Adam Green präsentiert Aladdin
 seoTitle: Adam Green präsentiert seinen Aladdin im Hamburger Abaton
 ogTitle: Adam Green präsentiert seinen Aladdin im Hamburger Abaton

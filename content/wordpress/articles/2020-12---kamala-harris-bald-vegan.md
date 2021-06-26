@@ -2,8 +2,6 @@
 date: 2020-12-17T11:12:22.000Z
 slug: kamala-harris-bald-vegan
 path: /2020/12/kamala-harris-bald-vegan/
-type: Artikel
-typeName: Artikel
 title: Kamala Harris bald vegan?
 seoTitle: Kamala Harris bald vegan? Petition fordert Vize-Präsidentin heraus
 ogTitle: Kamala Harris bald vegan? Petition fordert Vize-Präsidentin heraus

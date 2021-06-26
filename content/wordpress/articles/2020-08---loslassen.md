@@ -2,8 +2,6 @@
 date: 2020-08-20T09:01:10.000Z
 slug: loslassen
 path: /2020/08/loslassen/
-type: Artikel
-typeName: Artikel
 title: Loslassen
 seoTitle: Loslassen - In drei Schritten zu mehr Freiheit
 ogTitle: Loslassen - In drei Schritten zu mehr Freiheit

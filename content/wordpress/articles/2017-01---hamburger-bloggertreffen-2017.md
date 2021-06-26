@@ -2,8 +2,6 @@
 date: 2017-01-16T10:58:50.000Z
 slug: hamburger-bloggertreffen-2017-klappe-die-erste
 path: /2017/01/hamburger-bloggertreffen-2017-klappe-die-erste/
-type: Artikel
-typeName: Artikel
 title: Hamburger Bloggertreffen 2017
 seoTitle: Hamburger Bloggertreffen - Klappe die erste - Mein erstes Bloggertreffen
 ogTitle: Hamburger Bloggertreffen - Klappe die erste - Mein erstes Bloggertreffen

@@ -2,8 +2,6 @@
 date: 2017-07-05T08:00:25.000Z
 slug: diy-brautstrauss-fuer-immer-und-ewig
 path: /2017/07/diy-brautstrauss-fuer-immer-und-ewig/
-type: Artikel
-typeName: Artikel
 title: Brautstrauß für immer und ewig
 seoTitle: Brautstrauß für immer und ewig - Schöne Erinnerungen in Asche konservieren DIY
 ogTitle: Brautstrauß für immer und ewig - Schöne Erinnerungen in Asche konservieren DIY

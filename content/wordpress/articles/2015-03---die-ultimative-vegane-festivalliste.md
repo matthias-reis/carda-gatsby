@@ -1,39 +1,35 @@
 ---
 date: 2015-03-06T13:00:59.000+00:00
 slug: die-ultimative-vegane-festivalliste
-path: "/2015/03/die-ultimative-vegane-festivalliste/"
-type: Artikel
-typeName: Artikel
+path: '/2015/03/die-ultimative-vegane-festivalliste/'
 title: Die ultimative vegane Festivalliste
 seoTitle: Die ultimative vegane Festivalliste – mit Gratis-Download
 ogTitle: Die ultimative vegane Festivalliste – mit Gratis-Download
-description: Einige vegan lebende Musikfans haben mich darauf aufmerksam gemacht,
-  es ist Zeit für die ultimative vegane Festivalliste! Viel Spaß beim Planen und Lesen!
-excerpt: Einige vegan lebende Musikfans haben mich darauf aufmerksam gemacht, es ist
-  Zeit für die ultimative vegane Festivalliste! Viel Spaß beim Planen und Lesen!
+description: Einige vegan lebende Musikfans haben mich darauf aufmerksam gemacht, es ist Zeit für die ultimative vegane Festivalliste! Viel Spaß beim Planen und Lesen!
+excerpt: Einige vegan lebende Musikfans haben mich darauf aufmerksam gemacht, es ist Zeit für die ultimative vegane Festivalliste! Viel Spaß beim Planen und Lesen!
 fileName: 2015-03---die-ultimative-vegane-festivalliste.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_9918184096_a390857d9c_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_9918184096_a390857d9c_o__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQQHCP/EACgQAAIBAwMEAQQDAAAAAAAAAAECAwQFEQASIQYTMUEiB1FhcSNCYv/EABgBAAMBAQAAAAAAAAAAAAAAAAEEBQAD/8QAHxEAAgEEAgMAAAAAAAAAAAAAAQIAAxEhMQTwEoHB/9oADAMBAAIRAxEAPwDnm00ymyTzS0as3dXsVQfBVgDujIz7BBz/AJ496drr0tBdrZdrqahoKO1wRKGJEhnqpfkw9EZyx94A1rO3yduoVjnb/bGryqNRKqYmJjlxIwyB8toHI4HgaUqBg17y9xHRqeVvrvfkefprarFeunLtabnNJC1RsaEjB7dQivyPeGDLxnGQfsCEXqya2rLNDb6Vu48+8zyMS23Ynxx4B3FyT+tMfTHT1WKGetp6wdvb/IsahnideUY+eM4z+CdVv1fs9JZOua6it9VFU06iORZImDD5IGxkexnGhSN3OcTpy0elxxcWPrUS45ShGAOPwDqRqyWRlLlTt8Dbxo0ab8RuQxUYYBk6XarjgeFJiInO5gvG7941jPO8hBdgScDx9tGjWCgaELV6j4Ykz//Z
-ogImage: 
+ogImage:
 labels:
-- Ausstattung Festival
-- die ultimative Festivalliste
-- Festival
-- Festival was mitnehmen
-- Festivalliste
-- Festivalliste Anne
-- Festivalliste komplett
-- Festivalliste vegan
-- Festivals
-- Festivalsommer
-- Packliste Festival
-- Sommer
-- tolle Festivalliste
-- vegane Festivalliste
-- Zelten auf dem Festival
-- vegane Packliste Festival
-- vegane Festival-Packliste
+  - Ausstattung Festival
+  - die ultimative Festivalliste
+  - Festival
+  - Festival was mitnehmen
+  - Festivalliste
+  - Festivalliste Anne
+  - Festivalliste komplett
+  - Festivalliste vegan
+  - Festivals
+  - Festivalsommer
+  - Packliste Festival
+  - Sommer
+  - tolle Festivalliste
+  - vegane Festivalliste
+  - Zelten auf dem Festival
+  - vegane Packliste Festival
+  - vegane Festival-Packliste
 focusKeyword: vegane Festivalliste
 status: publish
 isWerbung: false
@@ -41,19 +37,19 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Mit Gratis-Download zum Ausdrucken
-
 ---
+
 **Seit Jahren schon findet meine Festivalliste regen Anklang. Jahr für Jahr optimiere ich sie, schraube daran herum, fahre wieder auf Festivals, bemerke, was ich weglassen, was hinzufügen kann und im nächsten Jahr gibt es wieder eine neue Liste.**
 
 Weil ich schon seit einiger Zeit vegan lebe, ist natürlich auch die Festivalliste inzwischen vegan. Ihr findet darin alles, Ihr als Veganer⋆in auf einem Openair-Wochenende dabei haben solltet. Natürlich findet Ihr auf meiner Liste längst nicht nur Lebensmittel, sondern auch viele weitere Kleinigkeiten, die Euch das Festival-Leben erleichtern werden. Es lohnt sich also, sie bei der Planung zur Rate zu ziehen.
 
 <RemoteImage
-alt={`Veganes Frühstück auf dem Festival`}
-size="medium"
-title={`Veganes Frühstück auf dem Festival`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14809262091_be6e2024da_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14809262091_be6e2024da_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwYHBQH/xAAqEAABAwMEAQIGAwAAAAAAAAABAgMEBQYRABIhMQcTQRUWIjJRYRRC4f/EABgBAAIDAAAAAAAAAAAAAAAAAAEEAAID/8QAIREAAgEDAwUAAAAAAAAAAAAAAQIAAxESBBMxImGBsdH/2gAMAwEAAhEDEQA/AD/ONwyvKNYpEx6sR2DUX2Yq2nylkNpUoI+nIwCE4yM86enXqmwy5Icqs5qO0grcW48opQkdk/oamt0z6i9dNedgvvKmwpkkMOtN4MfDxKMqx+cjJ49utacjyDV6/actquCoU2RGireK4zKUR5YbwFoVk5KiColIwkbcA6XNQqL4xjYDsBe0aDEckxHJtTvGsRipId9FNSXFaZT7JJH3HBSTz3kaz49fNMvuBAhXHMkx35kdpKnZ/wDIS4FFKVJ2qUe+eR1nURrd5yUvtNUh2NJKkAbpENRc9QkjakFSsj7ee+etBsuqVKX5QtVDil7Pi0QLSWEoIIdTuGEjoc6G07dR4jDaSgtyXYkdvplzk0+lU64bgWyuWudOkPl5Tj6fSb3LWRhCRkc+5zozlux6zMdfLaG6OxHdSWY6wEPF0JCt+CcYwcYwTuIOkC5RfFL8g1wxbXrUiCqe+6hyFGcUh9ta9ySFpBHW3r9jjnQ5794PvtuxbOrkZxtQWXfhy/Uc98KISAQPwc86wOfBHmVFNScg0JXPEEyq1VblvSKbTaclpvb6pV6inRncoBIyOhzx+tNFDsOlW7cVtzn3EIq6ZjOXk71l90n6lcn3yrnHGRpIq0ryK8oK+W6tIUB/ajLGT2ckAZ/zXbFh3xKv2gGoWpWGI6ZzTjj70d5ttpAUCpRKhtAAB1CdU5AZhiPUBULc5T//2Q=="
+  alt={`Veganes Frühstück auf dem Festival`}
+  size="medium"
+  title={`Veganes Frühstück auf dem Festival`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14809262091_be6e2024da_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14809262091_be6e2024da_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwYHBQH/xAAqEAABAwMEAQIGAwAAAAAAAAABAgMEBQYRABIhMQcTQRUWIjJRYRRC4f/EABgBAAIDAAAAAAAAAAAAAAAAAAEEAAID/8QAIREAAgEDAwUAAAAAAAAAAAAAAQIAAxESBBMxImGBsdH/2gAMAwEAAhEDEQA/AD/ONwyvKNYpEx6sR2DUX2Yq2nylkNpUoI+nIwCE4yM86enXqmwy5Icqs5qO0grcW48opQkdk/oamt0z6i9dNedgvvKmwpkkMOtN4MfDxKMqx+cjJ49utacjyDV6/actquCoU2RGireK4zKUR5YbwFoVk5KiColIwkbcA6XNQqL4xjYDsBe0aDEckxHJtTvGsRipId9FNSXFaZT7JJH3HBSTz3kaz49fNMvuBAhXHMkx35kdpKnZ/wDIS4FFKVJ2qUe+eR1nURrd5yUvtNUh2NJKkAbpENRc9QkjakFSsj7ee+etBsuqVKX5QtVDil7Pi0QLSWEoIIdTuGEjoc6G07dR4jDaSgtyXYkdvplzk0+lU64bgWyuWudOkPl5Tj6fSb3LWRhCRkc+5zozlux6zMdfLaG6OxHdSWY6wEPF0JCt+CcYwcYwTuIOkC5RfFL8g1wxbXrUiCqe+6hyFGcUh9ta9ySFpBHW3r9jjnQ5794PvtuxbOrkZxtQWXfhy/Uc98KISAQPwc86wOfBHmVFNScg0JXPEEyq1VblvSKbTaclpvb6pV6inRncoBIyOhzx+tNFDsOlW7cVtzn3EIq6ZjOXk71l90n6lcn3yrnHGRpIq0ryK8oK+W6tIUB/ajLGT2ckAZ/zXbFh3xKv2gGoWpWGI6ZzTjj70d5ttpAUCpRKhtAAB1CdU5AZhiPUBULc5T//2Q=="
 />
 
 ## Die vegane Festival-Packliste zum Ausdrucken
@@ -65,12 +61,12 @@ Inzwischen hat fast jedes Festival eine eigene App mit dem Spielplan und anderem
 ## Vom Timetable zur Festivalapp
 
 <RemoteImage
-alt={`Nicht vergessen: Die Tickets`}
-size="medium"
-title={`Nicht vergessen: Die Tickets`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14725191205_35f327d6cb_z__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14725191205_35f327d6cb_z__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABgcCBAX/xAApEAACAQIFAwQCAwAAAAAAAAABAgMEEQAFBhIhIjFRE0FhcRUyobHh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgUAAQT/xAAlEQABAgUDBAMAAAAAAAAAAAABAhEAAwQhMRJRgSJBodFh8PH/2gAMAwEAAhEDEQA/ABWkMoSVh0M5H7bULW+eBimUMOWvMTHKG3MAAI2+PjAnSefT5WJkQLILttLhukBvog4T5bqGrgqxWFkO1rtEEdQQLEDtcffzhMQkku9vPqHCZtKArU9vzaM82yujFQ6yHa+4kh0IPPbi3jADV2UwpHvClQ69JKEBvrjFAzbUlZmNVvDRxFT0hY25IIFr2F+/YecE9Y6hqK+nSIoiIoUFgjEkXte57X+cFLAGnN/HuBXPpSEs9/u0GspmrjOsNPTtM8repGqDezBiSBYH+MKWizilWSaronglUqWinXYdriysFPt0HnE8yfUlYkVGphp3anI2BlUjxzzz/mE0OtM2SaoZI6GKKaFYmSKNFDKL/sOfJxoUJCQXzxEQikLkpWXzjcG3HxHceg1BNDTyy5fLBSy2WGeQbY2ZrMvUD7gYI5r+YroZngo2eIW9RlC2XsfPHGNio1bm8cNNHActiNMySK4gi9Sy9uoJe/m55wUzrVGYSSVBMlOzynrLxI7E2tflP698GkU6lAIduIqZKpAnpSpxh237x//Z"
+  alt={`Nicht vergessen: Die Tickets`}
+  size="medium"
+  title={`Nicht vergessen: Die Tickets`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14725191205_35f327d6cb_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14725191205_35f327d6cb_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABgcCBAX/xAApEAACAQIFAwQCAwAAAAAAAAABAgMEEQAFBhIhIjFRE0FhcRUyobHh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgUAAQT/xAAlEQABAgUDBAMAAAAAAAAAAAABAhEAAwQhMRJRgSJBodFh8PH/2gAMAwEAAhEDEQA/ABWkMoSVh0M5H7bULW+eBimUMOWvMTHKG3MAAI2+PjAnSefT5WJkQLILttLhukBvog4T5bqGrgqxWFkO1rtEEdQQLEDtcffzhMQkku9vPqHCZtKArU9vzaM82yujFQ6yHa+4kh0IPPbi3jADV2UwpHvClQ69JKEBvrjFAzbUlZmNVvDRxFT0hY25IIFr2F+/YecE9Y6hqK+nSIoiIoUFgjEkXte57X+cFLAGnN/HuBXPpSEs9/u0GspmrjOsNPTtM8repGqDezBiSBYH+MKWizilWSaronglUqWinXYdriysFPt0HnE8yfUlYkVGphp3anI2BlUjxzzz/mE0OtM2SaoZI6GKKaFYmSKNFDKL/sOfJxoUJCQXzxEQikLkpWXzjcG3HxHceg1BNDTyy5fLBSy2WGeQbY2ZrMvUD7gYI5r+YroZngo2eIW9RlC2XsfPHGNio1bm8cNNHActiNMySK4gi9Sy9uoJe/m55wUzrVGYSSVBMlOzynrLxI7E2tflP698GkU6lAIduIqZKpAnpSpxh237x//Z"
 />
 
 Darum neige ich auch nach wir vor dazu (auch, wenn ich im Alltag nicht unbedingt eine "Ausdruckerin" bin), mir alle wichtigen Infos auszudrucken und mitzunehmen. Der Vorläufer der Festivalapp war der druckfähige Timetable, leider haben einige den inzwischen komplett von ihren Seiten verbannt. Ich wünsche ihn mir zurück. Also, liebe Festivalseitenbetreiber⋆innen: Falls Ihr das hier lesen solltet, ich glaube nicht, dass ich damit alleine bin. Am tollsten sind natürlich die Festivals, die vor Ort tolle Programm-Heftchen verteilen, leider sind die immer sehr schnell vergriffen.
@@ -87,15 +83,15 @@ Auch Massen an Konserven werdet Ihr auf der Liste wie immer vergeblich suchen, m
 
 Auch, was das vegane Angebot an den diversen Essenständen angeht, haben die meisten in den letzten Jahren toll nachgerüstet. In Ermangelung pflanzlicher Kost muss längst nicht mehr zwangsläufig jeden Abend zu den Glutamatnudeln beim Asia Wok gegriffen werden. Auch wenn die zwischendurch zum Bier aufsaugen gar nicht so schlecht sind, wenn man sie mit genügend Sambal Oelek einweicht. Nun aber genug der Ausschweifungen. Lasst uns zur Liste kommen. Ich wünsche Euch Spaß beim Lesen und Planen
 
- 1. Tramper-Rucksack mit 65-70 Litern Volumen,
- 2. Zelt (sollte möglichst wasserdicht sein, aber nicht unbedingt das teuerste, man ärgert sich sonst nur, wenn nachher Schlamm dran klebt oder Brandlöcher drin sind),
- 3. Isomatte oder Luftmatratze,
- 4. Taschenmesser,
- 5. Wärmflasche (Falls es nachts sehr kalt wird),
- 6. Gehörschutz (für Hardcore Konzerte ohne Tinnitus, für gesegneten Nachtschlaf auch neben dem Partyzelt oder dem abgefüllten Festivalneuling von nebenan, der erst, wenn die Konzerte mittags wieder losgehen in den Schlafsack kriecht).
- 7. So viele grüne Bananen, wie in den Rucksack gehen (reifen nach und werden nicht so schnell matschig, wie gelbe Bananen). Die sind nicht nur als Zwischendurch-Snack geniale Energielieferanten, kleingeschnitten im Müsli geben sie auch eine hervorragende Frühstückszutat ab.
- 8. Müsli,
- 9. Pflanzenmilch je nach Geschmack (Sie hält sich auch im relativ warmen Zelt erstaunlich lange),
+1.  Tramper-Rucksack mit 65-70 Litern Volumen,
+2.  Zelt (sollte möglichst wasserdicht sein, aber nicht unbedingt das teuerste, man ärgert sich sonst nur, wenn nachher Schlamm dran klebt oder Brandlöcher drin sind),
+3.  Isomatte oder Luftmatratze,
+4.  Taschenmesser,
+5.  Wärmflasche (Falls es nachts sehr kalt wird),
+6.  Gehörschutz (für Hardcore Konzerte ohne Tinnitus, für gesegneten Nachtschlaf auch neben dem Partyzelt oder dem abgefüllten Festivalneuling von nebenan, der erst, wenn die Konzerte mittags wieder losgehen in den Schlafsack kriecht).
+7.  So viele grüne Bananen, wie in den Rucksack gehen (reifen nach und werden nicht so schnell matschig, wie gelbe Bananen). Die sind nicht nur als Zwischendurch-Snack geniale Energielieferanten, kleingeschnitten im Müsli geben sie auch eine hervorragende Frühstückszutat ab.
+8.  Müsli,
+9.  Pflanzenmilch je nach Geschmack (Sie hält sich auch im relativ warmen Zelt erstaunlich lange),
 10. Studentenfutter (Habe ich grundsätzlich für jeden Tag einen Beutel dabei, das macht schön satt),
 11. Energieriegel,
 12. Paprika (Kann man super roh essen),
@@ -148,7 +144,7 @@ Auch, was das vegane Angebot an den diversen Essenständen angeht, haben die mei
 59. Warme Socken,
 60. Gummistiefel sind das wichtigste Kleidungsstück auf dem Festival! Damit lässt es sich nicht nur durch hohen Schlamm waten, man kann so auch bedenkenlos gerade noch okaye Dixies betreten und verliert keine Zehennägel, wenn einem beim Pogo jemand auf den Fuß springt. Natürlich gehen auch diese tollen, veganen Dock Martens, sie sind super wasserdicht, allerdings muss man sich darüber im Klaren sein, dass es mitunter sehr spaßig sein kann, nachts vor dem Zelt die vom Schlamm verklebten Schnürsenkel zu lösen. In beiden Fällen empfiehlt sich auf jeden Fall ein kleiner
 61. Stiefelknecht oder Schuhlöffel.
-62. Flyer und Kreide (Die URL [www.earthlings.de ist Euch bekannt](http://localhost:8000/2020/07/earthlings/ "Earthlings"), ich wünsche Euch viel Spaß, wo trifft man mehr Leute auf einem Haufen, als auf Festivals).
+62. Flyer und Kreide (Die URL [www.earthlings.de ist Euch bekannt](http://localhost:8000/2020/07/earthlings/ 'Earthlings'), ich wünsche Euch viel Spaß, wo trifft man mehr Leute auf einem Haufen, als auf Festivals).
 63. Kondome,
 64. Klappgaskocher (Wenn Ihr in größeren Gruppen unterwegs seid, sprecht Euch vorher ab, wir hatten mal sage und schreibe 12 Gaskocher dabei, als wir zu achtzehnt auf dem Festival waren).
 65. Denkt auch an die Ersatzkartusche für den Gaskocher.

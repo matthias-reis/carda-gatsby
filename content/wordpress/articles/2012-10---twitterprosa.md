@@ -2,8 +2,6 @@
 date: 2012-10-05T11:25:57.000Z
 slug: twitterprosa
 path: /2012/10/twitterprosa/
-type: Artikel
-typeName: Artikel
 title: Twitterprosa
 seoTitle: Twitterprosa - Goldener Herbstschein folgt auf gewaltige Regengüsse
 ogTitle: Twitterprosa - Goldener Herbstschein folgt auf gewaltige Regengüsse

@@ -2,8 +2,6 @@
 date: 2017-03-09T13:30:08.000Z
 slug: schule-des-lebens
 path: /2017/03/schule-des-lebens/
-type: Artikel
-typeName: Artikel
 title: Schule des Lebens
 seoTitle: Schule des Lebens - Eines Tages sehen wir uns wieder und dann ist alles anders
 ogTitle: Schule des Lebens - Eines Tages sehen wir uns wieder und dann ist alles anders

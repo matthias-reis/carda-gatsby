@@ -2,8 +2,6 @@
 date: 2014-08-18T09:24:30.000+00:00
 slug: ich-war-so-muede
 path: '/2014/08/ich-war-so-muede/'
-type: Artikel
-typeName: Artikel
 title: Ich war so müde!
 seoTitle: Ich war so müde - sind Veganer wirklich gesünder?
 ogTitle: Ich war so müde - sind Veganer wirklich gesünder?

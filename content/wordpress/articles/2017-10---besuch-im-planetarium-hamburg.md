@@ -2,8 +2,6 @@
 date: 2017-10-21T17:10:07.000Z
 slug: planetarium-hamburg
 path: /2017/10/planetarium-hamburg/
-type: Artikel
-typeName: Artikel
 title: Besuch im Planetarium Hamburg
 seoTitle: Besuch im Planetarium Hamburg - Reich mir die Sterne!
 ogTitle: Besuch im Planetarium Hamburg - Reich mir die Sterne!

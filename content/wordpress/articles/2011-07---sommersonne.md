@@ -2,8 +2,6 @@
 date: 2011-07-04T15:08:18.000Z
 slug: sommersonne
 path: /2011/07/sommersonne/
-type: Artikel
-typeName: Artikel
 title: Sommersonne
 seoTitle: Sommersonne - Tagebucheintrag an einem schönen Tag
 ogTitle: Sommersonne - Tagebucheintrag an einem schönen Tag

@@ -2,8 +2,6 @@
 date: 2021-01-28T16:40:28.000Z
 slug: hefe-ist-vegan
 path: /2021/01/hefe-ist-vegan/
-type: Artikel
-typeName: Artikel
 title: Hefe ist vegan
 seoTitle: Hefe ist vegan – alle Fakten und Infos zum Lebensmittel
 ogTitle: Hefe ist vegan – alle Fakten und Infos zum Lebensmittel

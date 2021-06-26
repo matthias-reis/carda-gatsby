@@ -2,8 +2,6 @@
 date: 2012-07-11T18:11:21.000Z
 slug: die-sache-mit-den-bleistiften
 path: /2012/07/die-sache-mit-den-bleistiften/
-type: Artikel
-typeName: Artikel
 title: Die Sache mit den Bleistiften
 seoTitle: Die Sache mit den Bleistiften - Tagebucheintrag
 ogTitle: Die Sache mit den Bleistiften - Tagebucheintrag

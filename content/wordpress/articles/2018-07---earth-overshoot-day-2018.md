@@ -2,8 +2,6 @@
 date: 2018-07-31T16:30:45.000Z
 slug: earth-overshoot-day-2018
 path: /2018/07/earth-overshoot-day-2018/
-type: Artikel
-typeName: Artikel
 title: Earth Overshoot Day 2018
 seoTitle: Earth Overshoot Day 2018 - Der Menschheit ist die Sicherung durchgebrannt
 ogTitle: Earth Overshoot Day 2018 - Der Menschheit ist die Sicherung durchgebrannt

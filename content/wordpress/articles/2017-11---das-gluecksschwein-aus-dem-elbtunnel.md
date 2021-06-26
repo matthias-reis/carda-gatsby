@@ -2,8 +2,6 @@
 date: 2017-11-22T13:19:17.000Z
 slug: das-gluecksschwein-aus-dem-elbtunnel
 path: /2017/11/das-gluecksschwein-aus-dem-elbtunnel/
-type: Artikel
-typeName: Artikel
 title: Das Glücksschwein aus dem Elbtunnel
 seoTitle: Das Glücksschwein aus dem Elbtunnel - Viktorias Weg auf den Erdlingshof
 ogTitle: Das Glücksschwein aus dem Elbtunnel - Viktorias Weg auf den Erdlingshof

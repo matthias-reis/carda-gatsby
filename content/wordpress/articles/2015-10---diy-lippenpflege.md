@@ -2,8 +2,6 @@
 date: 2015-10-14T10:39:23.000Z
 slug: diy-lippenpflege
 path: /2015/10/diy-lippenpflege/
-type: Artikel
-typeName: Artikel
 title: DIY Lippenpflege
 seoTitle: DIY Lippenpflege - Peeling aus Kokosöl und Rohrzucker
 ogTitle: DIY Lippenpflege - Peeling aus Kokosöl und Rohrzucker

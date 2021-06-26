@@ -2,8 +2,6 @@
 date: 2018-02-22T17:07:53.000+00:00
 slug: limerick
 path: '/2018/02/limerick/'
-type: Artikel
-typeName: Artikel
 title: Limerick
 seoTitle: Limerick - fünf Zeilen Spaß und eine Stadt in Irland
 ogTitle: Limerick - fünf Zeilen Spaß und eine Stadt in Irland

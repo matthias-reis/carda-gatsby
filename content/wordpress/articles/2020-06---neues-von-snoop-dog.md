@@ -2,8 +2,6 @@
 date: 2020-06-10T07:10:57.000Z
 slug: snoop-dog-outstanding-foods
 path: /2020/06/snoop-dog-outstanding-foods/
-type: Artikel
-typeName: Artikel
 title: Neues von Snoop Dog
 seoTitle: 'Neues von Snoop Dog - seine vegane Marke spendet für #Blacklivesmatter'
 ogTitle: 'Neues von Snoop Dog - seine vegane Marke spendet für #Blacklivesmatter'

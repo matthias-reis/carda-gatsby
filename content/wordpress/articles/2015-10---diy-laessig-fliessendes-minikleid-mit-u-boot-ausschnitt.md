@@ -2,8 +2,6 @@
 date: 2015-10-21T14:26:26.000+00:00
 slug: diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt
 path: '/2015/10/diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt/'
-type: Artikel
-typeName: Artikel
 title: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt
 seoTitle: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt
 ogTitle: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt

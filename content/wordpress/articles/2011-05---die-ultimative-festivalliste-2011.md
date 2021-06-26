@@ -2,8 +2,6 @@
 date: 2011-05-31T06:24:32.000Z
 slug: die-ultimative-festivalliste-2011
 path: /2011/05/die-ultimative-festivalliste-2011/
-type: Artikel
-typeName: Artikel
 title: Die ultimative Festivalliste 2011
 seoTitle: Festivalliste 2011 - das solltet Ihr auf jeden Fall einpacken
 ogTitle: Festivalliste 2011 - das solltet Ihr auf jeden Fall einpacken

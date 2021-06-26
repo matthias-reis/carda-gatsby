@@ -2,8 +2,6 @@
 date: 2018-02-27T18:03:05.000+00:00
 slug: das-ende-des-regenbogens
 path: '/2018/02/das-ende-des-regenbogens/'
-type: Artikel
-typeName: Artikel
 title: Das Ende des Regenbogens
 seoTitle: Das Ende des Regenbogens - Die Irische Sage um die Leprechauns
 ogTitle: Das Ende des Regenbogens - Die Irische Sage um die Leprechauns

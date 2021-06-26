@@ -2,8 +2,6 @@
 date: 2020-09-17T09:13:37.000Z
 slug: veganer-tv-spot-israel
 path: /2020/09/veganer-tv-spot-israel/
-type: Artikel
-typeName: Artikel
 title: Extra frisches Fleisch
 seoTitle: Extra frisches Fleisch - Veganer TV Spot aus Israel geht viral
 ogTitle: Extra frisches Fleisch - Veganer TV Spot aus Israel geht viral

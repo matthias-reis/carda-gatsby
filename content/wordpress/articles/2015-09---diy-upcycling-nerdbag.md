@@ -2,8 +2,6 @@
 date: 2015-09-24T12:55:36.000Z
 slug: diy-upcycling-nerdbag
 path: /2015/09/diy-upcycling-nerdbag/
-type: Artikel
-typeName: Artikel
 title: DIY Upcycling Nerdbag
 seoTitle: DIY Upcycling Nerdbag
 ogTitle: DIY Upcycling Nerdbag

@@ -2,8 +2,6 @@
 date: 2013-05-25T05:52:36.000Z
 slug: keine-panik-today-is-international-towel-day
 path: /2013/05/keine-panik-today-is-international-towel-day/
-type: Artikel
-typeName: Artikel
 title: Keine Panik! Today is International Towel Day
 seoTitle: Keine Panik! Today is International Towel Day!
 ogTitle: Keine Panik! Today is International Towel Day!

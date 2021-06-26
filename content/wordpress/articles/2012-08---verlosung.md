@@ -2,8 +2,6 @@
 date: 2012-08-16T16:35:12.000Z
 slug: verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen
 path: /2012/08/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/
-type: Artikel
-typeName: Artikel
 title: Verlosung
 seoTitle: Verlosung! Exklusives Vinyl zu gewinnen!
 ogTitle: Verlosung! Exklusives Vinyl zu gewinnen!

@@ -2,8 +2,6 @@
 date: 2014-08-27T10:31:50.000Z
 slug: der-wichtigste-grund-fur-meine-vegane-ernahrungsweise
 path: /2014/08/der-wichtigste-grund-fur-meine-vegane-ernahrungsweise/
-type: Artikel
-typeName: Artikel
 title: Der wichtigste Grund für meine vegane Ernährungsweise
 seoTitle: Vegane Ernährungsweise - Mein wichtigster Grund dafür
 ogTitle: Der wichtigste Grund für meine vegane Ernährungsweise

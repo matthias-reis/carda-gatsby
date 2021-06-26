@@ -1,32 +1,28 @@
 ---
 date: 2021-01-01T17:17:04.000+00:00
 slug: oekologischer-fussabdruck-co2-2021
-path: "/2021/01/oekologischer-fussabdruck-co2-2021/"
-type: Artikel
-typeName: Artikel
+path: '/2021/01/oekologischer-fussabdruck-co2-2021/'
 title: Ökologischer Fußabdruck 2021
 seoTitle: Ökologischer Fußabdruck 2021 – So errechnet Ihr Euren CO2-Verbrauch
 ogTitle: Ökologischer Fußabdruck 2021 – So errechnet Ihr Euren CO2-Verbrauch
-description: Hier könnt Ihr Euren CO2 Fußabdruck für 2020 ausrechnen. Und? Da geht
-  noch was in 2021, oder? Darauf gilt es beim Klimaschutz zu achten.
-excerpt: Hier könnt Ihr Euren CO2 Fußabdruck für 2020 ausrechnen. Und? Da geht noch
-  was in 2021, oder? Darauf gilt es beim Klimaschutz zu achten.
+description: Hier könnt Ihr Euren CO2 Fußabdruck für 2020 ausrechnen. Und? Da geht noch was in 2021, oder? Darauf gilt es beim Klimaschutz zu achten.
+excerpt: Hier könnt Ihr Euren CO2 Fußabdruck für 2020 ausrechnen. Und? Da geht noch was in 2021, oder? Darauf gilt es beim Klimaschutz zu achten.
 fileName: 2021-01---oekologischer-fussabdruck-2021.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_co2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_co2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAtEAABAwIFAgUDBQAAAAAAAAABAgMEBREABhIhQSIxBxMUUWEVQnEWMjOBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQCBQb/xAAcEQACAwEAAwAAAAAAAAAAAAABAgADESExcaH/2gAMAwEAAhEDEQA/AJ/4aZ4k5XkyfpE1yMiX/Iwogt3tsUpIIBHB/wBvjSVbP+ZJqPW1GozDaxbbjyi0Ci+x0Isn+zfHW3+gKf4mQ4sGIzIiegOtCUreC5Cj02AtsUKuewFsK8h0SkSa/mUVbzW6ehxK2EobWD5Oo2SDf8e57HBTQ4JAPPZk6IlzrUDNpqagt15wMSEoS4vdwXFrE/cNzcW474xMh2Y+2whsMBtLZse6QNJuSD8fF9hjVeIUSmVCuR41HUqPBUyFPa17pWCoBdiB9o3A9x+MIU1OHTsvT4U9hxmrtBEcsKSkpWmxstJtq9r72seeD10FFKjp35K3Y5yBTW6vURJqsY/SGm9LaVL/AHDhAI6t9ySeNucWhudTEpT5MdloBsNWQLDSNgCB3HxgwY6GmtVUHPMFYxLGRPOMuNDrL7q4MazqlJb0FICQDbVpBJA53OJ1VXEOvJUgdVuojsd8GDGcUCucjE6s/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_co2-fb.png__l.jpg
 labels:
-- CO2
-- CO2-Ausgleich
-- CO2-Bilanz
-- CO2-Emission
-- CO2-Fussabdruck
-- Klima- & Umweltschutz
-- Klimaerwärmung
-- Klimakatastrophe
-- Klimawandel
-- ökologischer Fussabdruck
+  - CO2
+  - CO2-Ausgleich
+  - CO2-Bilanz
+  - CO2-Emission
+  - CO2-Fussabdruck
+  - Klima- & Umweltschutz
+  - Klimaerwärmung
+  - Klimakatastrophe
+  - Klimawandel
+  - ökologischer Fussabdruck
 focusKeyword: CO2
 status: publish
 isWerbung: false
@@ -34,8 +30,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: So errechnet Ihr Euren CO2-Verbrauch
-
 ---
+
 **Im Vergleich zu 2019 ist der CO<sub>2</sub>-Ausstoß um sieben Prozent zurückgegangen. Das lässt sich vor allem auf den reduzierten Flugverkehr durch die COVID-19-Pandemie zurückführen.**
 
 Für 2021 lautet die Herausforderung, einen Wiederaufschwung der Emissionen zu vermeiden. Um die Pariser Klimaziele zu erreichen, müssen wir die Reduktion noch deutlich erhöhen.

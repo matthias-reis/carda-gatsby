@@ -2,8 +2,6 @@
 date: 2014-08-22T12:54:02.000+00:00
 slug: blutige-zahlen
 path: '/2014/08/blutige-zahlen/'
-type: Artikel
-typeName: Artikel
 title: Blutige Zahlen
 seoTitle: Blutige Zahlen - Veganer retten Leben
 ogTitle: Blutige Zahlen - Veganer retten Leben

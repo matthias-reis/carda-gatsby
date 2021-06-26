@@ -2,8 +2,6 @@
 date: 2012-03-07T17:18:48.000Z
 slug: sonnentraenen
 path: /2012/03/sonnentraenen/
-type: Artikel
-typeName: Artikel
 title: Sonnentränen
 seoTitle: Sonnentraenen - mal wieder etwas Prosa
 ogTitle: Sonnentraenen - mal wieder etwas Prosa

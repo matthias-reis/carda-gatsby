@@ -2,8 +2,6 @@
 date: 2019-05-21T05:45:08.000Z
 slug: orte-der-kindheit
 path: /2019/05/orte-der-kindheit/
-type: Artikel
-typeName: Artikel
 title: Orte der Kindheit
 seoTitle: Orte der Kindheit - zu Besuch in Bielefeld
 ogTitle: Orte der Kindheit - zu Besuch in Bielefeld

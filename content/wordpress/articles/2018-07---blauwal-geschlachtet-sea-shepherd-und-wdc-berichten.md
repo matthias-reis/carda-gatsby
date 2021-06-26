@@ -2,8 +2,6 @@
 date: 2018-07-13T07:00:13.000Z
 slug: sea-shepherd-und-wdc-berichten-von-walschlachtung
 path: /2018/07/sea-shepherd-und-wdc-berichten-von-walschlachtung/
-type: Artikel
-typeName: Artikel
 title: Blauwal geschlachtet - Sea Shepherd und WDC berichten
 seoTitle: Blauwal geschlachtet - Sea Shepherd und WDC berichten
 ogTitle: Blauwal geschlachtet - Sea Shepherd und WDC berichten

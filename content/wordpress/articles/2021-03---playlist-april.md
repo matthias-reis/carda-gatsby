@@ -2,8 +2,6 @@
 date: 2021-03-23T16:32:59.000Z
 slug: playlist-april-2021
 path: /2021/03/playlist-april-2021/
-type: Artikel
-typeName: Artikel
 title: Playlist April
 seoTitle: Playlist April – 12 Songs zum Davonträumen (Post-Rock bis Jazz Core)
 ogTitle: Musikliste April – 12 Songs zum Davonträumen (Post-Rock bis Jazz Core)

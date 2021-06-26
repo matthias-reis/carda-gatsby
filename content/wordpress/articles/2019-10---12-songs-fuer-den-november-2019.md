@@ -2,8 +2,6 @@
 date: 2019-10-27T17:53:41.000Z
 slug: 12-songs-fuer-den-november-2019
 path: /2019/10/12-songs-fuer-den-november-2019/
-type: Artikel
-typeName: Artikel
 title: 12 Songs für den November 2019
 seoTitle: 12 Songs für den November - präsentiert von den drei von der Bande
 ogTitle: 12 Songs für den November - präsentiert von den drei von der Bande

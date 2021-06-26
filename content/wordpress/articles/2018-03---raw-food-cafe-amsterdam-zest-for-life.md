@@ -2,8 +2,6 @@
 date: 2018-03-29T06:27:24.000+00:00
 slug: raw-food-cafe-amsterdam-zest-for-life
 path: '/2018/03/raw-food-cafe-amsterdam-zest-for-life/'
-type: Artikel
-typeName: Artikel
 title: Raw Food Café Amsterdam - Zest For Life
 seoTitle: Raw Food Café Amsterdam - roh-vegane Köstlichkeiten für Körper & Seele
 ogTitle: Raw Food Café Amsterdam - roh-vegane Köstlichkeiten für Körper & Seele

@@ -2,8 +2,6 @@
 date: 2015-09-17T17:01:14.000Z
 slug: die-paleo-diaet-ist-ein-mythos
 path: /2015/09/die-paleo-diaet-ist-ein-mythos/
-type: Artikel
-typeName: Artikel
 title: '"Die Paleo Diät ist ein Mythos"'
 seoTitle: '"Die Paleo Diät ist ein Mythos" - Forscher decken auf'
 ogTitle: '"Die Paleo Diät ist ein Mythos" - Forscher decken auf'

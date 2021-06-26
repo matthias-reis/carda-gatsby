@@ -2,8 +2,6 @@
 date: 2020-10-19T08:57:35.000Z
 slug: kat-dennings
 path: /2020/10/kat-dennings/
-type: Artikel
-typeName: Artikel
 title: Kat Dennings wird vegan
 seoTitle: Kat Dennings wird vegan - "David Attenborougs Film überzeugte mich"
 ogTitle: Kat Dennings wird vegan - "David Attenborougs Film überzeugte mich"

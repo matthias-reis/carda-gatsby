@@ -2,8 +2,6 @@
 date: 2014-11-19T11:58:34.000Z
 slug: liebster-blog-award
 path: /2014/11/liebster-blog-award/
-type: Artikel
-typeName: Artikel
 title: Liebster Blog Award
 seoTitle: Liebster Blog Award - die Nominierungen stehen fest
 ogTitle: Liebster Blog Award - die Nominierungen stehen fest

@@ -2,8 +2,6 @@
 date: 2013-06-03T15:50:56.000Z
 slug: die-post-ist-da-neue-schallplatten-in-meiner-sammlung
 path: /2013/06/die-post-ist-da-neue-schallplatten-in-meiner-sammlung/
-type: Artikel
-typeName: Artikel
 title: Die Post ist da!
 seoTitle: Die Post ist da!
 ogTitle: Die Post ist da!

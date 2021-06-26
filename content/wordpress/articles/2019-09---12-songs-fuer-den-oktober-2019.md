@@ -2,8 +2,6 @@
 date: 2019-09-25T13:09:31.000Z
 slug: 12-songs-fuer-den-oktober-2019
 path: /2019/09/12-songs-fuer-den-oktober-2019/
-type: Artikel
-typeName: Artikel
 title: 12 Songs für den Oktober 2019
 seoTitle: 12 Songs für den Oktober - Präsentiert von den drei von der Bande
 ogTitle: 12 Songs für den Oktober - Präsentiert von den drei von der Bande

@@ -2,8 +2,6 @@
 date: 2020-09-24T06:00:29.000Z
 slug: meeressaeuger-offener-brief
 path: /2020/09/meeressaeuger-offener-brief/
-type: Artikel
-typeName: Artikel
 title: Meeressäuger in Gefahr
 seoTitle: Meeressäuger in Gefahr - offener Brief ruft zur Rettung der Wale auf
 ogTitle: Meeressäuger in Gefahr - offener Brief ruft zur Rettung der Wale auf

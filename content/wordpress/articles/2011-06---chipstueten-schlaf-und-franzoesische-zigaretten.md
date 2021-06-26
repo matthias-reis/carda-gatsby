@@ -2,8 +2,6 @@
 date: 2011-06-15T15:42:45.000Z
 slug: chipstuten-schlaf-und-franzosische-zigaretten
 path: /2011/06/chipstuten-schlaf-und-franzosische-zigaretten/
-type: Artikel
-typeName: Artikel
 title: Chipstüten, Schlaf und französische Zigaretten
 seoTitle: Chipstüten, Schlaf und französische Zigaretten - Tagebucheintrag
 ogTitle: Chipstüten, Schlaf und französische Zigaretten - Tagebucheintrag

@@ -2,8 +2,6 @@
 date: 2019-08-13T08:52:08.000Z
 slug: das-gluecksferkel-von-hof-butenland
 path: /2019/08/das-gluecksferkel-von-hof-butenland/
-type: Artikel
-typeName: Artikel
 title: Das Glücksferkel von Hof Butenland
 seoTitle: Sprung vom Tiertransporter - das Glücksferkel von Hof Butenland
 ogTitle: Sprung vom Tiertransporter - das Glücksferkel von Hof Butenland

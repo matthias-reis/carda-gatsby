@@ -2,8 +2,6 @@
 date: 2020-06-09T06:39:05.000Z
 slug: george-floyd
 path: /2020/06/george-floyd/
-type: Artikel
-typeName: Artikel
 title: '"Ich kann nicht atmen"'
 seoTitle: '"Ich kann nicht atmen" - George Floyds letzte Worte'
 ogTitle: '"Ich kann nicht atmen" - George Floyds letzte Worte'

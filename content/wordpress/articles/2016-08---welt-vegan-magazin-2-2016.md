@@ -1,29 +1,25 @@
 ---
 date: 2016-08-01T14:31:06.000+00:00
 slug: welt-vegan-magazin-22016
-path: "/2016/08/welt-vegan-magazin-22016/"
-type: Artikel
-typeName: Artikel
+path: '/2016/08/welt-vegan-magazin-22016/'
 title: Welt Vegan Magazin 2/2016
 seoTitle: Welt Vegan Magazin 2/2016
 ogTitle: Welt Vegan Magazin
-description: Für das Welt Vegan Magazin 2/2016 habe ich wieder einen Artikel geschrieben!
-  Darin dreht sich alles um Animal Rights Watch, auch als ARIWA bekannt.
-excerpt: Für das Welt Vegan Magazin 2/2016 habe ich wieder einen Artikel geschrieben!
-  Darin dreht sich alles um Animal Rights Watch, auch als ARIWA bekannt.
+description: Für das Welt Vegan Magazin 2/2016 habe ich wieder einen Artikel geschrieben! Darin dreht sich alles um Animal Rights Watch, auch als ARIWA bekannt.
+excerpt: Für das Welt Vegan Magazin 2/2016 habe ich wieder einen Artikel geschrieben! Darin dreht sich alles um Animal Rights Watch, auch als ARIWA bekannt.
 fileName: 2016-08---welt-vegan-magazin-2-2016.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_08_28620046881_d9ed2609e2_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_08_28620046881_d9ed2609e2_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwEDBP/EACsQAAEEAAUEAQIHAAAAAAAAAAECAwQRAAUGEiETMUFRYRRSIjJCcYGhwf/EABcBAAMBAAAAAAAAAAAAAAAAAAABBAL/xAAjEQACAQIEBwAAAAAAAAAAAAABAgADMQQRErEFEyEiQXHh/9oADAMBAAIRAxEAPwBrpbQMGLMhPsQOgUKKEudJW1IXV8FPn9uw8YbJjy4Li2X2YbyyAQp2U+2kJATwNlA0dwoD1hzkC2Vpjlv6cKSoVyjcDx2IAo+zx8n9OIxqh3PW8wh5u1lkiYzlsk9ZDrre4pUCg1wB2Pz4xnDsSxluNoKVyO3qccLMEZrIQliU0026FxlstFxI6qSbADitwNAXZHvCfVeVR0sOKSlk2DQQsKP9WP49eh30NN5kxriccwkNsKfkjMGFhkrRJZKUt0DdAgAA2CbN4xrfUcRqAt1yUpbZofcm/ANqPf5B7eD2VQENI+Hdq1UJsd5HoGq8zahL2yXypKOpy6a4P5a9c4tjOsy6EKe082pxE89UlCggtqoUQaNm+ecGDAh05kSmoxOkHz8ldZ7nARl8FK23lORL3OB0JLt8/b+Hue3+DFf6vlqegLjK3qR0rBWu9tciqoeMGDCNRnuYcpU6qLz/2Q==
-ogImage: 
+ogImage:
 labels:
-- Geschichten & Erlebtes
-- Hamburg
-- Print
-- vegan
-- Welt Vegan Magazin
-- Welt Vegan Magazin 2/2016
-- serie:Welt Vegan Magazin
+  - Geschichten & Erlebtes
+  - Hamburg
+  - Print
+  - vegan
+  - Welt Vegan Magazin
+  - Welt Vegan Magazin 2/2016
+  - serie:Welt Vegan Magazin
 focusKeyword: Welt Vegan Magazin
 status: publish
 isWerbung: false
@@ -31,8 +27,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Artikel "Animal Rights Watch" aus meiner Feder
-
 ---
+
 <RemoteImage
   alt={`Welt Vegan Magazin 2/2016`}
   size="medium"

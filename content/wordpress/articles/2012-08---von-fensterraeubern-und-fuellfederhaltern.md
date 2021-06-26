@@ -2,8 +2,6 @@
 date: 2012-08-01T10:23:03.000Z
 slug: von-fenstern-kaffee-und-won-kar-wai
 path: /2012/08/von-fenstern-kaffee-und-won-kar-wai/
-type: Artikel
-typeName: Artikel
 title: Von Fensterräubern und Füllfederhaltern
 seoTitle: Von Fenster, Kaffee und Won Kar Wai - Tagebucheintrag
 ogTitle: Von Fenster, Kaffee und Won Kar Wai - Tagebucheintrag

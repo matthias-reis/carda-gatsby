@@ -2,8 +2,6 @@
 date: 2011-06-29T17:58:40.000Z
 slug: abschalten
 path: /2011/06/abschalten/
-type: Artikel
-typeName: Artikel
 title: Abschalten
 seoTitle: Abschalten - Tagebucheintrag
 ogTitle: Abschalten - Tagebucheintrag

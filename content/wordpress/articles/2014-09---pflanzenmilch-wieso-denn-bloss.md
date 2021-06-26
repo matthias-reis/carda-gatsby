@@ -2,8 +2,6 @@
 date: 2014-09-09T10:42:30.000+00:00
 slug: pflanzenmilch-wieso-denn-bloss
 path: '/2014/09/pflanzenmilch-wieso-denn-bloss/'
-type: Artikel
-typeName: Artikel
 title: Pflanzenmilch? Wieso denn bloß?
 seoTitle: Pflanzenmilch? Wieso denn bloß? - warum Veganer auf Milch verzichten
 ogTitle: Pflanzenmilch? Wieso denn bloß? - warum Veganer auf Milch verzichten

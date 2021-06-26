@@ -2,8 +2,6 @@
 date: 2012-08-15T18:15:14.000Z
 slug: sonnenbad-am-sonnentag
 path: /2012/08/sonnenbad-am-sonnentag/
-type: Artikel
-typeName: Artikel
 title: Sonnenbad am Sonnentag
 seoTitle: Sonnenbad am Sonnentag
 ogTitle: Sonnenbad am Sonnentag - Tagebucheintrag

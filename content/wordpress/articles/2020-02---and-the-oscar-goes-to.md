@@ -2,8 +2,6 @@
 date: 2020-02-10T09:36:52.000Z
 slug: joaquin-phoenix-oscar
 path: /2020/02/joaquin-phoenix-oscar/
-type: Artikel
-typeName: Artikel
 title: And the Oscar goes to...
 seoTitle: Joaquin Phoenix und seine Oscar-Rede
 ogTitle: Joaquin Phoenix und seine Oscar-Rede

@@ -2,8 +2,6 @@
 date: 2020-04-24T08:16:25.000+00:00
 slug: 12-songs-fuer-den-mai-2020
 path: '/2020/04/12-songs-fuer-den-mai-2020/'
-type: Artikel
-typeName: Artikel
 title: 12 Songs für den Mai
 seoTitle: 12 Songs für den Mai - aufgelegt von den drei von der Bande
 ogTitle: 12 Songs für den Mai - aufgelegt von den drei von der Bande

@@ -2,8 +2,6 @@
 date: 2017-04-03T16:43:20.000Z
 slug: bundestagpetition-der-aerzte-gegen-tierversuche
 path: /2017/04/bundestagpetition-der-aerzte-gegen-tierversuche/
-type: Artikel
-typeName: Artikel
 title: Ärzte gegen Tierversuche
 seoTitle: Bundestagspetition der Ärzte gegen Tierversuche - Bitte bis zum 11. April mitzeichnen!
 ogTitle: Bundestagspetition der Ärzte gegen Tierversuche - Bitte bis zum 11. April mitzeichnen!

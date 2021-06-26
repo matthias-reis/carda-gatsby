@@ -2,8 +2,6 @@
 date: 2020-06-23T15:41:00.000Z
 slug: essen-fuer-das-klima
 path: /2020/06/essen-fuer-das-klima/
-type: Artikel
-typeName: Artikel
 title: Essen für das Klima
 seoTitle: Essen für das Klima - Europa will sich nachhaltiger ernähren
 ogTitle: Essen für das Klima - Europa will sich nachhaltiger ernähren

@@ -13,8 +13,6 @@ labels:
   - Bären
   - Braunbären
   - Zoo
-type: Artikel
-typeName: Artikel
 date: 2009-04-19T19:42:49.000Z
 status: publish
 isWerbung: false

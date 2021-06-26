@@ -2,8 +2,6 @@
 date: 2021-02-26T13:51:47.000Z
 slug: seaspiracy
 path: /2021/02/seaspiracy/
-type: Artikel
-typeName: Artikel
 title: '"Seaspiracy" auf Netflix'
 seoTitle: Seaspiracy auf Netflix – der neue Film von Kip Andersen (Cowspiracy)
 ogTitle: Seaspiracy auf Netflix – der neue Film von Kip Andersen (Cowspiracy)

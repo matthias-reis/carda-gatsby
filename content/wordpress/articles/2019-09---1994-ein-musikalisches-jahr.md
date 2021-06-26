@@ -2,8 +2,6 @@
 date: 2019-09-12T18:03:02.000+00:00
 slug: 1994-musik-veroeffentlichungen
 path: '/2019/09/1994-musik-veroeffentlichungen/'
-type: Artikel
-typeName: Artikel
 title: 1994 - ein musikalisches Jahr
 seoTitle: 1994 war ein musikalisches Jahr - ein ganz besonderer Rückblick
 ogTitle: 1994 war ein musikalisches Jahr - ein ganz besonderer Rückblick

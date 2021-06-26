@@ -2,8 +2,6 @@
 date: 2011-09-07T07:34:56.000Z
 slug: gedanken-am-fenster
 path: /2011/09/gedanken-am-fenster/
-type: Artikel
-typeName: Artikel
 title: Gedanken am Fenster
 seoTitle: Gedanken am Fenster - hin und wieder etwas Prosa
 ogTitle: Gedanken am Fenster - hin und wieder etwas Prosa

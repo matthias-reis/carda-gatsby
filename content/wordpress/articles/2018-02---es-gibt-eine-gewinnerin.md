@@ -16,8 +16,6 @@ labels:
   - vegan beauty
   - Verlosung
   - Wellness
-type: Artikel
-typeName: Artikel
 date: 2018-02-11T16:10:57.000+00:00
 status: publish
 isWerbung: false

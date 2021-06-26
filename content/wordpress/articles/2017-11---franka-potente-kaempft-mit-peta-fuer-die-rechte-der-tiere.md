@@ -2,8 +2,6 @@
 date: 2017-11-21T17:22:58.000Z
 slug: franka-potente-peta
 path: /2017/11/franka-potente-peta/
-type: Artikel
-typeName: Artikel
 title: Franka Potente kämpft mit PETA für die Rechte der Tiere
 seoTitle: Franka Potente kämpft mit PETA für die Rechte der Tiere
 ogTitle: Franka Potente kämpft mit PETA für die Rechte der Tiere

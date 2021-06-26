@@ -2,8 +2,6 @@
 date: 2011-07-25T14:20:49.000Z
 slug: schweigeminute-fur-die-opfer-in-norwegen
 path: /2011/07/schweigeminute-fur-die-opfer-in-norwegen/
-type: Artikel
-typeName: Artikel
 title: Schweigeminute für die Opfer in Norwegen
 seoTitle: Schweigeminute für die Opfer in Norwegen
 ogTitle: Schweigeminute für die Opfer in Norwegen

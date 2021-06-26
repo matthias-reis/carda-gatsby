@@ -2,8 +2,6 @@
 date: 2019-10-28T17:52:13.000Z
 slug: hamburg-altona-klimanotstand
 path: /2019/10/hamburg-altona-klimanotstand/
-type: Artikel
-typeName: Artikel
 title: Klimanotstand in Hamburg Altona?
 seoTitle: Klimanotstand in Hamburg Altona - Politiker*innen rufen zum Handeln auf
 ogTitle: Klimanotstand in Hamburg Altona - Politiker*innen rufen zum Handeln auf

@@ -2,8 +2,6 @@
 date: 2015-01-24T11:55:03.000Z
 slug: vegan-in-der-kaelte
 path: /2015/01/vegan-in-der-kaelte/
-type: Artikel
-typeName: Artikel
 title: Vegan in der Yakutien
 seoTitle: Vegan in Yakutien - zu Besuch am kältesten Ort der Erde
 ogTitle: Vegan in Yakutien - zu Besuch am kältesten Ort der Erde

@@ -2,8 +2,6 @@
 date: 2021-01-07T15:11:20.000Z
 slug: sarah-silverman-wird-vegan
 path: /2021/01/sarah-silverman-wird-vegan/
-type: Artikel
-typeName: Artikel
 title: Sarah Silverman wird vegan
 seoTitle: Sarah Silverman wird vegan – Das Ziel einer Reise
 ogTitle: Sarah Silverman wird vegan – Das Ziel einer Reise

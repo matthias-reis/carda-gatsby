@@ -2,8 +2,6 @@
 date: 2013-10-17T10:49:01.000Z
 slug: dieser-song-ist-fur-dich-herbstliche-schreibblockade
 path: /2013/10/dieser-song-ist-fur-dich-herbstliche-schreibblockade/
-type: Artikel
-typeName: Artikel
 title: Dieser Song ist für Dich
 seoTitle: Herbstliche Schreibblockade - Dieser Song ist für Dich
 ogTitle: Herbstliche Schreibblockade - Dieser Song ist für Dich

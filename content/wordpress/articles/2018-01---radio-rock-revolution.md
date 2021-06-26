@@ -2,8 +2,6 @@
 date: 2018-01-14T14:57:08.000+00:00
 slug: radio-paradise
 path: '/2018/01/radio-paradise/'
-type: Artikel
-typeName: Artikel
 title: Radio Paradise
 seoTitle: Radio Rock Revolution - Radio Paradise aus Kalifornien sorgt für Furore
 ogTitle: Radio Rock Revolution - Radio Paradise aus Kalifornien sorgt für Furore

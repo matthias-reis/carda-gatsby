@@ -2,8 +2,6 @@
 date: 2009-08-16T18:24:05.000Z
 slug: wiley-open-air-2009-ulm
 path: /2009/08/wiley-open-air-2009-ulm/
-type: Artikel
-typeName: Artikel
 title: Wiley Open Air 2009 Ulm
 seoTitle: Wiley Open Air 2009 Ulm
 ogTitle: Wiley Open Air 2009 Ulm

@@ -2,8 +2,6 @@
 date: 2020-08-05T09:30:30.000Z
 slug: the-end-of-medicine
 path: /2020/08/the-end-of-medicine/
-type: Artikel
-typeName: Artikel
 title: '"The End Of Medicine"'
 seoTitle: '"The End Of Medicine" - Neuer Film von Rooney Mara & Joaquin Phoenix'
 ogTitle: '"The End Of Medicine" - Neuer Film von Rooney Mara & Joaquin Phoenix'

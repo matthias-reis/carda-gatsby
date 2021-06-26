@@ -2,8 +2,6 @@
 date: 2015-03-05T21:24:35.000Z
 slug: herzlich-willkommen-in-meinem-neuen-weblog
 path: /2015/03/herzlich-willkommen-in-meinem-neuen-weblog/
-type: Artikel
-typeName: Artikel
 title: Herzlich Willkommen in meinem neuen Weblog!
 seoTitle: Herzlich Willkommen bei Anne bloggt cardamonchai
 ogTitle: Herzlich Willkommen bei Anne bloggt cardamonchai

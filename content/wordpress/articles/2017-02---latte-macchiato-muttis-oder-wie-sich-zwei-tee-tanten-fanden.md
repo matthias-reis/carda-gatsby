@@ -1,32 +1,28 @@
 ---
 date: 2017-02-06T13:52:38.000+00:00
 slug: latte-macchiato-muttis
-path: "/2017/02/latte-macchiato-muttis/"
-type: Artikel
-typeName: Artikel
+path: '/2017/02/latte-macchiato-muttis/'
 title: 'Latte Macchiato Muttis oder: Wie sich zwei Tee-Tanten fanden'
 seoTitle: 'Latte Macchiato Muttis oder: Wie sich zwei Tee-Tanten fanden'
 ogTitle: 'Latte Macchiato Muttis oder: Wie sich zwei Tee-Tanten fanden'
-description: Latte Macchiato Muttis lassen überall ihre Sachen liegen. Außerdem denken
-  sie nur an sich. Ob das wirklich stimmt, erfahrt Ihr in meiner Kurzgeschichte.
-excerpt: Latte Macchiato Muttis lassen überall ihre Sachen liegen. Außerdem denken
-  sie nur an sich. Ob das wirklich stimmt, erfahrt Ihr in meiner neuen Kurzgeschichte.
+description: Latte Macchiato Muttis lassen überall ihre Sachen liegen. Außerdem denken sie nur an sich. Ob das wirklich stimmt, erfahrt Ihr in meiner Kurzgeschichte.
+excerpt: Latte Macchiato Muttis lassen überall ihre Sachen liegen. Außerdem denken sie nur an sich. Ob das wirklich stimmt, erfahrt Ihr in meiner neuen Kurzgeschichte.
 fileName: 2017-02---latte-macchiato-muttis-oder-wie-sich-zwei-tee-tanten-fanden.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_18117699165_4d0699ae85_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_18117699165_4d0699ae85_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABgUHAQMECP/EAC4QAAIBAwMCAgkFAAAAAAAAAAECAwAEEQUSIQYxBxQiIyVBUWFxkZIyQkOBof/EABYBAQEBAAAAAAAAAAAAAAAAAAQDBv/EACARAAEEAgEFAAAAAAAAAAAAAAEAAgMRBBJBBRMiMYH/2gAMAwEAAhEDEQA/AOjrjXpxctY28hRFAMrKcFiecfQUThvSpJYyFvdgjHzzTLxA6M1W2v7m/soHv9Pc7jLbrvaPjs6DkfXkVX+1kYK6srEBgGGCQexwfdR2xgjyWrxGRmIafUw0LXWgmXbI8Zz3zxV0dG6+dSi8vcNmZRlW+IrzhC2CD2q1fCVprnUkMYLRQqWdxyAMdie1Fc0wytLOTRReo4zO2ZOQm+obh6yJ3jmX9LI21vuKMavdyXb+07LTtQYDAa8tEkbHw3cH/aR3oJfv9qjLi2MrEnJ+eKFFlmMVaJFQ9o9FFaR+nFoHT8RH7vIhsfkxFbLvUb+5hWFrg+VH8MQEUf4KAKkX0gSMDK8jgdlY8D+qw9mqrs2jFTnz3EUCr7NJX//Z
-ogImage: 
+ogImage:
 labels:
-- Empathie
-- Franzbrötchen
-- Geschichten & Erlebtes
-- Großstadt
-- Kinder
-- Nachbarn
-- Nächstenliebe
-- Sarkasmus
-- Tee
-- Vorurteile
+  - Empathie
+  - Franzbrötchen
+  - Geschichten & Erlebtes
+  - Großstadt
+  - Kinder
+  - Nachbarn
+  - Nächstenliebe
+  - Sarkasmus
+  - Tee
+  - Vorurteile
 focusKeyword: Latte Macchiato Muttis
 status: publish
 isWerbung: false
@@ -34,8 +30,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Frau von nebenan
-
 ---
+
 Das tut es nämlich immer. Es kreischt, wenn es gute Laune hat, es kreischt, wenn es schlechte Laune hat, es kreischt, wenn es Deine Aufmerksamkeit will, es kreischt, wenn es ihr überdrüssig ist.
 
 <RemoteImage
@@ -111,4 +107,3 @@ _Alle in der Geschichte vorkommenden Personen, Orte und Vorkommnisse sind frei e
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_13900786643_f69f14bdfc_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUHBP/EACwQAAIBAwMDAgUFAQAAAAAAAAECAwQFEQAGIRIxQRNRBxQjYYEVImJxobH/xAAYAQEAAwEAAAAAAAAAAAAAAAAFAAECBP/EAB0RAQACAwEAAwAAAAAAAAAAAAEAAgMREkIhYeH/2gAMAwEAAhEDEQA/ACVv+JF8o50WKpEKIcCJYV6QPbkf8xrUY9zxbh2XV3Ro446i3H1p4EyEkfOY5RzwQw5HbzrApGaStmhjpa1ahSfoPCzOv2IA1pG06W57c268lfaamSO6yiCRZI8JBGqk5lBwR1E48EAE+w0dnxVDZ8R7qnP2SFLvC9Bi8U7LJ1ZzkknzwPbxnT233xN6bSrKesSOSppY2kikYfuQ9mAI5BIyMj7aFR7fE1PJdrLW0UlvpXQOtZIQYixIVWIGHBIwCvfyAdXbPSdFnr6aljFUJsG4SJA0cfpEE+lD2OScZY65stKmuTTJcB2P5M0u27L5vC6s9fcqqClVcQ01PKypEg4A4ILt7s2STqltbdNzsU/6fNda6azVrLBNFJJ1+nlh9RerOCPIHBGR9wFoZjAZUZjG5IUg8YweRrqoQau4oZZG+ViPrTP3CoCCfyew9yRptoa58wgTnfqNdx7xq7NFcLLb4IITUtG1UkiBlgaMnpWMDHJBBbOfA99TLH8RLnQ0JttZFT1NpkAWSKOIRSBf4suM/wBHvzo7uOV6m81lTICGqn+aXPkOM/5yPxqYVYYJBA98azXBj4BJV8t267n/2Q=="
 />
-

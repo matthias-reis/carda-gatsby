@@ -2,8 +2,6 @@
 date: 2014-01-09T09:29:13.000Z
 slug: mein-jahresruckblick-2013
 path: /2014/01/mein-jahresruckblick-2013/
-type: Artikel
-typeName: Artikel
 title: Mein Jahresrückblick
 seoTitle: Mein Jahresrückblick 2013 - Anne bloggt cardamonchai
 ogTitle: Mein Jahresrückblick 2013 - Anne bloggt cardamonchai

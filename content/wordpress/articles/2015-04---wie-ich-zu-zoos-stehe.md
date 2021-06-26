@@ -2,8 +2,6 @@
 date: 2015-04-18T18:19:28.000Z
 slug: wie-ich-zu-zoos-stehe
 path: /2015/04/wie-ich-zu-zoos-stehe/
-type: Artikel
-typeName: Artikel
 title: Wie ich zu Zoos stehe
 seoTitle: Wie ich als Veganerin zu Zoos stehe - Tierquälerei oder Artenerhalt?
 ogTitle: Wie ich als Veganerin zu Zoos stehe - Tierquälerei oder Artenerhalt?

@@ -2,8 +2,6 @@
 date: 2020-12-10T15:10:43.000Z
 slug: vegane-yoga-mode-aus-hamburg
 path: /2020/12/vegane-yoga-mode-aus-hamburg/
-type: Artikel
-typeName: Artikel
 title: Vegane Yoga-Mode aus Hamburg
 seoTitle: Vegane Yoga-Mode aus Hamburg – Chakrana Crowdfunding gestartet
 ogTitle: Vegane Yoga-Mode aus Hamburg – Chakrana Crowdfunding gestartet

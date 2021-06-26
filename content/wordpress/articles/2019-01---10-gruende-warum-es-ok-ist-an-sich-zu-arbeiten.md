@@ -2,8 +2,6 @@
 date: 2019-01-20T12:10:19.000Z
 slug: 10-gruende-warum-es-ok-ist-an-sich-zu-arbeiten
 path: /2019/01/10-gruende-warum-es-ok-ist-an-sich-zu-arbeiten/
-type: Artikel
-typeName: Artikel
 title: 10 Gründe, warum es OK ist, an sich zu arbeiten
 seoTitle: 10 Gründe, warum es OK ist, an sich zu arbeiten - Besser werden ist gut
 ogTitle: 10 Gründe, warum es OK ist, an sich zu arbeiten - Besser werden ist gut

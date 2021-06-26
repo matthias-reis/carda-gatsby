@@ -2,8 +2,6 @@
 date: 2019-07-30T10:32:44.000Z
 slug: vegane-metzgerei-vetzgerei-berlin
 path: /2019/07/vegane-metzgerei-vetzgerei-berlin/
-type: Artikel
-typeName: Artikel
 title: Vetzgerei Berlin
 seoTitle: Vetzgerei Berlin - die vegane Metzgerei der Hauptstadt
 ogTitle: Vetzgerei Berlin - die vegane Metzgerei der Hauptstadt

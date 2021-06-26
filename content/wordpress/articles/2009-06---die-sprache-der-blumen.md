@@ -2,8 +2,6 @@
 date: 2009-06-10T17:52:00.000Z
 slug: die-sprache-der-blumen
 path: /2009/06/die-sprache-der-blumen/
-type: Artikel
-typeName: Artikel
 title: Die Sprache der Blumen
 seoTitle: Die Sprache der Blumen
 ogTitle: Die Sprache der Blumen

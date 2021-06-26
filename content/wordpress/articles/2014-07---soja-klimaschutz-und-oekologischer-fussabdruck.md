@@ -2,8 +2,6 @@
 date: 2014-07-30T07:11:57.000+00:00
 slug: soja-klimaschutz-oekologischer-fussabdruck
 path: '/2014/07/soja-klimaschutz-oekologischer-fussabdruck/'
-type: Artikel
-typeName: Artikel
 title: Soja, Klimaschutz und ökologischer Fussabdruck
 seoTitle: Soja, Klimaschutz und ökologischer Fussabdruck
 ogTitle: Soja, Klimaschutz und ökologischer Fussabdruck

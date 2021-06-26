@@ -2,8 +2,6 @@
 date: 2009-08-13T18:14:02.000Z
 slug: nachruf-gitarrenpionier-les-paul-gestorben
 path: /2009/08/nachruf-gitarrenpionier-les-paul-gestorben/
-type: Artikel
-typeName: Artikel
 title: Gitarrenpionier Les Paul gestorben
 seoTitle: Nachruf - Gitarrenpionier Les Paul gestorben
 ogTitle: Nachruf - Gitarrenpionier Les Paul gestorben

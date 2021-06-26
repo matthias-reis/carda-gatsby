@@ -2,8 +2,6 @@
 date: 2017-08-02T14:50:44.000Z
 slug: earth-overshoot-day-ein-tag-als-mahnmal
 path: /2017/08/earth-overshoot-day-ein-tag-als-mahnmal/
-type: Artikel
-typeName: Artikel
 title: Earth Overshoot Day 2017
 seoTitle: Earth Overshoot Day - Ein Tag als Mahnmal - Wir beuten unsere Erde aus
 ogTitle: Earth Overshoot Day - Ein Tag als Mahnmal - Wir beuten unsere Erde aus

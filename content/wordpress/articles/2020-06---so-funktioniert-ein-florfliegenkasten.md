@@ -2,8 +2,6 @@
 date: 2020-06-30T07:44:07.000+00:00
 slug: florfliegenkasten
 path: '/2020/06/florfliegenkasten/'
-type: Artikel
-typeName: Artikel
 title: So funktioniert ein Florfliegenkasten
 seoTitle: So funktioniert ein Florfliegenkasten - ein Zuhause für die Goldaugen
 ogTitle: So funktioniert ein Florfliegenkasten - ein Zuhause für die Goldaugen

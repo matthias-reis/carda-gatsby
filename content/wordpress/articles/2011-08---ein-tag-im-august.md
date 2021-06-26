@@ -2,8 +2,6 @@
 date: 2011-08-18T15:35:10.000Z
 slug: ein-tag-im-august
 path: /2011/08/ein-tag-im-august/
-type: Artikel
-typeName: Artikel
 title: Ein Tag im August
 seoTitle: Ein Tag im August - kurzer Tagebucheintrag
 ogTitle: Ein Tag im August - kurzer Tagebucheintrag

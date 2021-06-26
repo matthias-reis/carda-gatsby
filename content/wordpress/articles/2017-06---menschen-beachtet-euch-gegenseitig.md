@@ -2,8 +2,6 @@
 date: 2017-06-26T06:14:22.000Z
 slug: menschen-beachtet-euch-gegenseitig
 path: /2017/06/menschen-beachtet-euch-gegenseitig/
-type: Artikel
-typeName: Artikel
 title: Menschen beachtet Euch gegenseitig!
 seoTitle: Menschen beachtet Euch gegenseitig! Ich werde nie aufgeben
 ogTitle: Menschen beachtet Euch gegenseitig! Ich werde nie aufgeben

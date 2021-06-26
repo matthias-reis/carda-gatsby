@@ -2,8 +2,6 @@
 date: 2019-06-20T19:52:49.000+00:00
 slug: 12-songs-fuer-den-juli-2019
 path: '/2019/06/12-songs-fuer-den-juli-2019/'
-type: Artikel
-typeName: Artikel
 title: 12 Songs für den Juli 2019
 seoTitle: 12 Songs für den Juli - präsentiert von den drei von der Bande
 ogTitle: 12 Songs für den Juli - präsentiert von den drei von der Bande

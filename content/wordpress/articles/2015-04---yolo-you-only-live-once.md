@@ -2,8 +2,6 @@
 date: 2015-04-28T15:58:20.000Z
 slug: yolo-you-only-live-once
 path: /2015/04/yolo-you-only-live-once/
-type: Artikel
-typeName: Artikel
 title: YOLO - You only live once
 seoTitle: YOLO - You only live once
 ogTitle: YOLO - You only live once

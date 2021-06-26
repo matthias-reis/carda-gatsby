@@ -2,8 +2,6 @@
 date: 2014-04-09T09:08:29.000Z
 slug: st-patricks-day-in-london
 path: /2014/04/st-patricks-day-in-london/
-type: Artikel
-typeName: Artikel
 title: St. Patrick's Day in London
 seoTitle: St. Patrick's Day in London - Kunst und Kultur an der Themse
 ogTitle: St. Patrick's Day in London - Kunst und Kultur an der Themse

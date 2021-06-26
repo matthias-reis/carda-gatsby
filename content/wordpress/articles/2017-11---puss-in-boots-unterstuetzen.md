@@ -2,8 +2,6 @@
 date: 2017-11-20T17:54:33.000Z
 slug: herrenlose-pferde-heuspenden-puss-in-boots
 path: /2017/11/herrenlose-pferde-heuspenden-puss-in-boots/
-type: Artikel
-typeName: Artikel
 title: Puss in Boots unterstützen
 seoTitle: Heuspender für herrenlose Pferde gesucht - Unterstützt jetzt Puss in Boots!
 ogTitle: Heuspender für herrenlose Pferde gesucht - Unterstützt jetzt Puss in Boots!

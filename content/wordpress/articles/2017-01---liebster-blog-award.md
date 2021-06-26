@@ -2,8 +2,6 @@
 date: 2017-01-17T14:53:00.000Z
 slug: liebster-blog-award-2017-01
 path: /2017/01/liebster-blog-award-2017-01/
-type: Artikel
-typeName: Artikel
 title: Liebster Blog Award
 seoTitle: Liebster Blog Award - Ich wurde interviewt - Hamburg und mein Blog
 ogTitle: Liebster Blog Award - Ich wurde interviewt - Hamburg und mein Blog

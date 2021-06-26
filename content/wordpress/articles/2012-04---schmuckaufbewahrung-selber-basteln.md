@@ -2,8 +2,6 @@
 date: 2012-04-18T10:28:03.000Z
 slug: schmuckaufbewahrung-selber-basteln
 path: /2012/04/schmuckaufbewahrung-selber-basteln/
-type: Artikel
-typeName: Artikel
 title: Schmuckaufbewahrung selber basteln
 seoTitle: Schmuckaufbewahrung selber basteln
 ogTitle: Schmuckaufbewahrung selber basteln

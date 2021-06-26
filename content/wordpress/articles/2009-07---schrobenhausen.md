@@ -2,8 +2,6 @@
 date: 2009-07-14T08:06:39.000Z
 slug: schrobenhausen-die-lenbachstadt-im-spargelland
 path: /2009/07/schrobenhausen-die-lenbachstadt-im-spargelland/
-type: Artikel
-typeName: Artikel
 title: Schrobenhausen
 seoTitle: Schrobenhausen - Lenbachstadt im Spargelland
 ogTitle: Schrobenhausen - Lenbachstadt im Spargelland

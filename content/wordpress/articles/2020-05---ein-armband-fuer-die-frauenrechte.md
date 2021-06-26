@@ -2,8 +2,6 @@
 date: 2020-05-14T06:49:55.000Z
 slug: ein-armband-fuer-die-frauenrechte
 path: /2020/05/ein-armband-fuer-die-frauenrechte/
-type: Artikel
-typeName: Artikel
 title: Ein Armband für die Frauenrechte
 seoTitle: Ein Armband für die Frauenrechte - kenianische Kunst gegen Gewalt
 ogTitle: Ein Armband für die Frauenrechte - kenianische Kunst gegen Gewalt

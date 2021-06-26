@@ -2,8 +2,6 @@
 date: 2017-05-19T08:13:14.000+00:00
 slug: la-hierba-luisa-cocina-de-la-huerta
 path: '/2017/05/la-hierba-luisa-cocina-de-la-huerta/'
-type: Artikel
-typeName: Artikel
 title: La Hierba Luisa - Cocina de la Huerta
 seoTitle: La Hierba Luisa - Cocina de la Huerta - Eine vegane Oase im Herzen von Las Palmas
 ogTitle: La Hierba Luisa - Cocina de la Huerta - Eine vegane Oase im Herzen von Las Palmas

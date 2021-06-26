@@ -2,8 +2,6 @@
 date: 2016-05-25T07:00:51.000Z
 slug: international-towel-day-einmal-im-jahr-ist-handtuchtag
 path: /2016/05/international-towel-day-einmal-im-jahr-ist-handtuchtag/
-type: Artikel
-typeName: Artikel
 title: International Towel Day
 seoTitle: International Towel Day - Einmal im Jahr ist Handtuchtag
 ogTitle: International Towel Day - Einmal im Jahr ist Handtuchtag

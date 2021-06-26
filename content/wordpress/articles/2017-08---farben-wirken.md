@@ -2,8 +2,6 @@
 date: 2017-08-17T07:00:47.000Z
 slug: farben-wirken
 path: /2017/08/farben-wirken/
-type: Artikel
-typeName: Artikel
 title: Farben wirken
 seoTitle: Farben wirken - Was Rot und Grün im Gehirn auslösen
 ogTitle: Farben wirken - Was Rot und Grün im Gehirn auslösen

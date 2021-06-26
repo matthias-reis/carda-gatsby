@@ -2,8 +2,6 @@
 date: 2021-03-01T16:41:50.000Z
 slug: die-vegane-revolution
 path: /2021/03/die-vegane-revolution/
-type: Artikel
-typeName: Artikel
 title: Die vegane Revolution
 seoTitle: Die vegane Revolution – wie sich vegane Lebensmittel ausbreiten
 ogTitle: Die vegane Revolution – wie sich vegane Lebensmittel ausbreiten

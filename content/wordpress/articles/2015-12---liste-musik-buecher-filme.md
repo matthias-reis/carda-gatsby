@@ -2,8 +2,6 @@
 date: 2015-12-10T12:52:50.000Z
 slug: musik-buecher-und-filme
 path: /2015/12/musik-buecher-und-filme/
-type: Artikel
-typeName: Artikel
 title: 'Liste: Musik, Bücher, Filme'
 seoTitle: Musik, Bücher und Filme - Eine besondere Liste
 ogTitle: Musik, Bücher und Filme - Eine besondere Liste

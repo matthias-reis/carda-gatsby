@@ -2,8 +2,6 @@
 date: 2012-09-06T16:21:04.000Z
 slug: verlosung-exklusive-cd-t-shirts-und-vinyl-zu-gewinnen
 path: /2012/09/verlosung-exklusive-cd-t-shirts-und-vinyl-zu-gewinnen/
-type: Artikel
-typeName: Artikel
 title: Verlosung läuft noch bis einschließlich 30. September
 seoTitle: Verlosung läuft noch bis einschließlich 30. September
 ogTitle: Verlosung läuft noch bis einschließlich 30. September

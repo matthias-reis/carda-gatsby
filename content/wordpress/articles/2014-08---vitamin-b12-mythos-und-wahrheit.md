@@ -2,8 +2,6 @@
 date: 2014-08-26T10:58:00.000+00:00
 slug: vitamin-b12-mythos-und-wahrheit
 path: '/2014/08/vitamin-b12-mythos-und-wahrheit/'
-type: Artikel
-typeName: Artikel
 title: Vitamin B12 - Mythos und Wahrheit
 seoTitle: Vitamin B12 - Mythos und Wahrheit - das müssen Veganer beachten
 ogTitle: Vitamin B12 - Mythos und Wahrheit - das müssen Veganer beachten

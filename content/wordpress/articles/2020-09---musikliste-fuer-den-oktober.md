@@ -2,8 +2,6 @@
 date: 2020-09-21T10:28:56.000Z
 slug: musikliste-fuer-den-oktober-2020
 path: /2020/09/musikliste-fuer-den-oktober-2020/
-type: Artikel
-typeName: Artikel
 title: Musikliste für den Oktober
 seoTitle: Musikliste für den Oktober - Im Herbst auf unseren Plattentellern
 ogTitle: Musikliste für den Oktober - Im Herbst auf unseren Plattentellern

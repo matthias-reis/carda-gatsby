@@ -2,8 +2,6 @@
 date: 2012-08-02T19:31:48.000Z
 slug: burg-herzberg-festival-2012
 path: /2012/08/burg-herzberg-festival-2012/
-type: Artikel
-typeName: Artikel
 title: Burg Herzberg Festival 2012
 seoTitle: Burg Herzberg Festival 2012
 ogTitle: Burg Herzberg Festival 2012

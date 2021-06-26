@@ -2,8 +2,6 @@
 date: 2018-04-26T06:59:28.000+00:00
 slug: 5-alben-im-april
 path: '/2018/04/5-alben-im-april/'
-type: Artikel
-typeName: Artikel
 title: 5 Alben im April
 seoTitle: 5 Alben im April - Ich stelle Euch meine musikalischen Favoriten vor
 ogTitle: 5 Alben im April - Ich stelle Euch meine musikalischen Favoriten vor

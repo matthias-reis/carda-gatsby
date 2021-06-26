@@ -2,8 +2,6 @@
 date: 2012-09-26T16:55:52.000Z
 slug: herbstlaerm-tagebuch
 path: /2012/09/herbstlaerm-tagebuch/
-type: Artikel
-typeName: Artikel
 title: Herbstlärm
 seoTitle: Herbstlärm - ein Eintrag ins Tagebuch
 ogTitle: Herbstlärm - ein Eintrag ins Tagebuch

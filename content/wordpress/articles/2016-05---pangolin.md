@@ -2,8 +2,6 @@
 date: 2016-05-24T10:45:38.000Z
 slug: pangolin-ein-vergessenes-schuppentier
 path: /2016/05/pangolin-ein-vergessenes-schuppentier/
-type: Artikel
-typeName: Artikel
 title: Pangolin
 seoTitle: Pangolin - Ein vergessenes Schuppentier in Gefahr
 ogTitle: Pangolin - Ein vergessenes Schuppentier in Gefahr

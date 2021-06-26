@@ -2,8 +2,6 @@
 date: 2011-06-28T16:19:56.000Z
 slug: badetag
 path: /2011/06/badetag/
-type: Artikel
-typeName: Artikel
 title: Badetag
 seoTitle: Badetag - Tagebucheintrag
 ogTitle: Badetag - Tagebucheintrag

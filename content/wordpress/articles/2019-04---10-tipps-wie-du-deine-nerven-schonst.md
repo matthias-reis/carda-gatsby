@@ -2,8 +2,6 @@
 date: 2019-04-24T14:30:19.000Z
 slug: 10-tipps-wie-du-deine-nerven-schonst
 path: /2019/04/10-tipps-wie-du-deine-nerven-schonst/
-type: Artikel
-typeName: Artikel
 title: 10 Tipps, wie Du Deine Nerven schonst
 seoTitle: 10 Tipps, wie Du Deine Nerven schonst
 ogTitle: 10 Tipps, wie Du Deine Nerven schonst

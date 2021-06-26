@@ -2,8 +2,6 @@
 date: 2020-02-20T16:28:07.000Z
 slug: 12-songs-fuer-den-maerz-2020
 path: /2020/02/12-songs-fuer-den-maerz-2020/
-type: Artikel
-typeName: Artikel
 title: 12 Songs für den März
 seoTitle: 12 Songs für den März - frisch gehört und für gut befunden
 ogTitle: 12 Songs für den März - frisch gehört und für gut befunden

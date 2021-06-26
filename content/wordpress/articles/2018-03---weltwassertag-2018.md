@@ -2,8 +2,6 @@
 date: 2018-03-22T14:00:39.000Z
 slug: der-weltwassertag-2018
 path: /2018/03/der-weltwassertag-2018/
-type: Artikel
-typeName: Artikel
 title: Weltwassertag 2018
 seoTitle: Weltwassertag 2018 - Naturbasierte Lösungen für das Wasser
 ogTitle: Weltwassertag 2018 - Naturbasierte Lösungen für das Wasser

@@ -2,8 +2,6 @@
 date: 2021-03-29T10:59:23.000Z
 slug: save-ralph
 path: /2021/03/save-ralph/
-type: Artikel
-typeName: Artikel
 title: '"Save Ralph"'
 seoTitle: Save Ralph – Ricky Gervais und Zac Efron in Film über Tierversuche
 ogTitle: Save Ralph – Ricky Gervais und Zac Efron in Film über Tierversuche

@@ -2,8 +2,6 @@
 date: 2018-09-03T08:20:33.000Z
 slug: norden-festival-in-schleswig
 path: /2018/09/norden-festival-in-schleswig/
-type: Artikel
-typeName: Artikel
 title: NORDEN Festival in Schleswig
 seoTitle: NORDEN Festival in Schleswig - Einfach mal in der Hängematte liegen
 ogTitle: NORDEN Festival in Schleswig - Einfach mal in der Hängematte liegen

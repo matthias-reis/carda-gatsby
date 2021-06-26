@@ -2,8 +2,6 @@
 date: 2019-09-04T13:22:51.000Z
 slug: lieber-nackt-als-im-pelz
 path: /2019/09/lieber-nackt-als-im-pelz/
-type: Artikel
-typeName: Artikel
 title: '"Lieber nackt als im Pelz!"'
 seoTitle: '"Lieber nackt als im Pelz" - 25 Jahre Lieblingsplakat'
 ogTitle: '"Lieber nackt als im Pelz" - 25 Jahre Lieblingsplakat'

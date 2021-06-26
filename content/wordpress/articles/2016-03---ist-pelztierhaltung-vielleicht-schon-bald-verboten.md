@@ -2,8 +2,6 @@
 date: 2016-03-16T11:36:11.000Z
 slug: ist-pelztierhaltung-vielleicht-schon-bald-verboten
 path: /2016/03/ist-pelztierhaltung-vielleicht-schon-bald-verboten/
-type: Artikel
-typeName: Artikel
 title: Ist Pelztierhaltung vielleicht schon bald verboten?
 seoTitle: Ist Pelztierhaltung schon bald flächendeckend verboten?
 ogTitle: Ist Pelztierhaltung schon bald flächendeckend verboten?

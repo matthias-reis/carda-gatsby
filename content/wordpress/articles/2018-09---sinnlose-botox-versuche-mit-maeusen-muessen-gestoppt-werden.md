@@ -2,8 +2,6 @@
 date: 2018-09-26T06:14:17.000Z
 slug: peta-sinnlose-botox-versuche-mit-maeusen-stoppen
 path: /2018/09/peta-sinnlose-botox-versuche-mit-maeusen-stoppen/
-type: Artikel
-typeName: Artikel
 title: Sinnlose Botox-Versuche mit Mäusen müssen gestoppt werden
 seoTitle: Sinnlose Botox-Versuche mit Mäusen müssen gestoppt werden
 ogTitle: Sinnlose Botox-Versuche mit Mäusen müssen gestoppt werden

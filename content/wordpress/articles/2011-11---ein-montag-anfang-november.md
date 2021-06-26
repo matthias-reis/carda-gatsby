@@ -2,8 +2,6 @@
 date: 2011-11-07T08:23:13.000Z
 slug: ein-montag-anfang-november
 path: /2011/11/ein-montag-anfang-november/
-type: Artikel
-typeName: Artikel
 title: Ein Montag Anfang November
 seoTitle: Ein Montag Anfang November - kurzer Tagebucheintrag
 ogTitle: Ein Montag Anfang November - kurzer Tagebucheintrag

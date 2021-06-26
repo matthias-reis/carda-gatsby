@@ -2,8 +2,6 @@
 date: 2011-04-14T10:26:02.000Z
 slug: auf-der-startseite
 path: /2011/04/auf-der-startseite/
-type: Artikel
-typeName: Artikel
 title: Auf der Startseite bei jetzt.de
 seoTitle: Meine Kurzgeschichte auf der Startseite bei jetzt.de
 ogTitle: Meine Kurzgeschichte auf der Startseite bei jetzt.de

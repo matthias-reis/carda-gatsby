@@ -2,8 +2,6 @@
 date: 2012-08-03T12:04:19.000Z
 slug: produkte-mit-tierischen-inhalten-kennzeichnen
 path: /2012/08/produkte-mit-tierischen-inhalten-kennzeichnen/
-type: Artikel
-typeName: Artikel
 title: Produkte mit tierischen Inhalten kennzeichnen
 seoTitle: Produkte mit tierischen Inhalten kennzeichnen - Aktion von Foodwatch
 ogTitle: Produkte mit tierischen Inhalten kennzeichnen - Aktion von Foodwatch
@@ -50,7 +48,7 @@ Ich bin eindeutig FÜR eine eindeutige Kennzeichnung und habe mich bei dieser Ak
 
 Herzlichen Dank für die Aufmerksamkeit und ein schönes Wochenende.
 
-__So wird das Ganze übrigens in good old England gekennzeichnet, hübsch, oder?__
+**So wird das Ganze übrigens in good old England gekennzeichnet, hübsch, oder?**
 
 <Gallery
   images={[

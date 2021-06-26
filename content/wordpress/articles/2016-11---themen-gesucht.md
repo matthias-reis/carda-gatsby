@@ -2,8 +2,6 @@
 date: 2016-11-24T11:07:28.000Z
 slug: aufruf-themen-gesucht
 path: /2016/11/aufruf-themen-gesucht/
-type: Artikel
-typeName: Artikel
 title: Themen gesucht
 seoTitle: Themen gesucht - Aufruf an meine Leser - Interviewpartner gesucht!
 ogTitle: Themen gesucht - Aufruf an meine Leser - Interviewpartner gesucht!

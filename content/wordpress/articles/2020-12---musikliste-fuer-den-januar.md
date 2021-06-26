@@ -2,8 +2,6 @@
 date: 2020-12-22T17:12:17.000Z
 slug: musikliste-fuer-den-januar-2021
 path: /2020/12/musikliste-fuer-den-januar-2021/
-type: Artikel
-typeName: Artikel
 title: Musikliste für den Januar
 seoTitle: 12 Songs zum Start ins Jahr 2021 – Musikliste für den Januar
 ogTitle: 12 Songs zum Start ins Jahr 2021 – Musikliste für den Januar

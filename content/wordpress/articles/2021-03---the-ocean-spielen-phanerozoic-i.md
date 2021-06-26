@@ -2,8 +2,6 @@
 date: 2021-03-17T13:01:45.000Z
 slug: the-ocean-phanerozoic-bremen-live
 path: /2021/03/the-ocean-phanerozoic-bremen-live/
-type: Artikel
-typeName: Artikel
 title: The Ocean spielen "Phanerozoic I"
 seoTitle: The Ocean spielen "Phanerozoic I" – Jetzt zum Live-Event anmelden!
 ogTitle: The Ocean spielen "Phanerozoic I" – Jetzt zum Live-Event anmelden!

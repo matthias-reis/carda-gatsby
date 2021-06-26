@@ -2,8 +2,6 @@
 date: 2017-03-04T20:04:53.000Z
 slug: ein-schoenes-wochenende
 path: /2017/03/ein-schoenes-wochenende/
-type: Artikel
-typeName: Artikel
 title: Ein schönes Wochenende
 seoTitle: Ein schönes Wochenende - Der Frühling ist da - Denk mal drüber nach!
 ogTitle: Ein schönes Wochenende - Der Frühling ist da - Denk mal drüber nach!

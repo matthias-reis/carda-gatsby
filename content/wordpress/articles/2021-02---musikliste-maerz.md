@@ -2,8 +2,6 @@
 date: 2021-02-25T09:21:57.000Z
 slug: musikliste-maerz-2021
 path: /2021/02/musikliste-maerz-2021/
-type: Artikel
-typeName: Artikel
 title: Musikliste März
 seoTitle: Musikliste März – 12 Songs für den Frühlingsanfang
 ogTitle: Musikliste März – 12 Songs für den Frühlingsanfang

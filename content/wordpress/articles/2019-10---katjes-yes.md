@@ -2,8 +2,6 @@
 date: 2019-10-24T17:12:18.000Z
 slug: wie-ein-suessigkeitenhersteller-die-lobbyisten-stresst
 path: /2019/10/wie-ein-suessigkeitenhersteller-die-lobbyisten-stresst/
-type: Artikel
-typeName: Artikel
 title: Katjes? Yes!
 seoTitle: Wie der neue Werbespot von Katjes die Lobbyisten stresst
 ogTitle: Wie der neue Werbespot von Katjes die Lobbyisten stresst

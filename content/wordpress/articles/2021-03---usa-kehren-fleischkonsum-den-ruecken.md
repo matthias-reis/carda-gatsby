@@ -2,8 +2,6 @@
 date: 2021-03-12T15:57:35.000Z
 slug: usa-covid-vegan-fleisch
 path: /2021/03/usa-covid-vegan-fleisch/
-type: Artikel
-typeName: Artikel
 title: USA kehren Fleischkonsum den Rücken
 seoTitle: 'COVID-19: USA kehren Fleischkonsum den Rücken'
 ogTitle: 'COVID-19: USA kehren Fleischkonsum den Rücken'

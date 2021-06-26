@@ -2,8 +2,6 @@
 date: 2021-01-06T14:46:23.000Z
 slug: enes-kanter-vegan-nba
 path: /2021/01/enes-kanter-vegan-nba/
-type: Artikel
-typeName: Artikel
 title: Enes Kanter wird Veganer
 seoTitle: Enes Kanter wird Veganer – NBA Star stellt seine Ernährung um
 ogTitle: Enes Kanter wird Veganer – NBA Star stellt seine Ernährung um

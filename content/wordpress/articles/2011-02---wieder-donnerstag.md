@@ -2,8 +2,6 @@
 date: 2011-02-24T20:21:38.000Z
 slug: wieder-donnerstag
 path: /2011/02/wieder-donnerstag/
-type: Artikel
-typeName: Artikel
 title: Wieder Donnerstag
 seoTitle: Wieder Donnerstag - Tagebucheintrag
 ogTitle: Wieder Donnerstag - Tagebucheintrag

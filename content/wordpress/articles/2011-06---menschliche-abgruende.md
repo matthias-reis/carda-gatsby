@@ -2,8 +2,6 @@
 date: 2011-06-27T07:57:47.000Z
 slug: menschliche-abgrunde
 path: /2011/06/menschliche-abgrunde/
-type: Artikel
-typeName: Artikel
 title: Menschliche Abgründe
 seoTitle: Menschliche Abgründe - "Die Verlorene Tochter"
 ogTitle: Menschliche Abgründe - "Die Verlorene Tochter"

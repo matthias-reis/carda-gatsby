@@ -2,8 +2,6 @@
 date: 2018-04-18T08:00:12.000+00:00
 slug: dunkfest-2018-wir-kommen
 path: '/2018/04/dunkfest-2018-wir-kommen/'
-type: Artikel
-typeName: Artikel
 title: Dunk!festival 2018 wir kommen!
 seoTitle: Dunk!festival 2018 wir kommen - Post-Rock rund um die Uhr
 ogTitle: Dunk!festival 2018 wir kommen - Post-Rock rund um die Uhr

@@ -2,8 +2,6 @@
 date: 2012-07-26T14:35:51.000Z
 slug: hitzefrei
 path: /2012/07/hitzefrei/
-type: Artikel
-typeName: Artikel
 title: Hitzefrei
 seoTitle: Hitzefrei - mal wieder eine kleine Gedankenansammlung
 ogTitle: Hitzefrei - mal wieder eine kleine Gedankenansammlung

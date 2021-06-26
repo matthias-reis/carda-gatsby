@@ -2,8 +2,6 @@
 date: 2011-10-13T17:46:40.000Z
 slug: statusnachrichten-und-neugierige-nachbarn-oder-ist-der-schachtelsatz-vom-aussterben-bedroht
 path: /2011/10/statusnachrichten-und-neugierige-nachbarn-oder-ist-der-schachtelsatz-vom-aussterben-bedroht/
-type: Artikel
-typeName: Artikel
 title: Tweets und neugierige Nachbarn
 seoTitle: Tweets und Nachbarn - ist der Schachtelsatz vom Aussterben bedroht?
 ogTitle: Tweets und Nachbarn - ist der Schachtelsatz vom Aussterben bedroht?

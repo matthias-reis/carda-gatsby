@@ -2,8 +2,6 @@
 date: 2017-04-16T17:08:05.000+00:00
 slug: vergaenglichkeit-des-augenblicks
 path: '/2017/04/vergaenglichkeit-des-augenblicks/'
-type: Artikel
-typeName: Artikel
 title: Die Schönheit des Augenblicks
 seoTitle: Die Schönheit des Augenblicks - Vergänglichkeit gehört dazu
 ogTitle: Die Schönheit des Augenblicks - Vergänglichkeit gehört dazu

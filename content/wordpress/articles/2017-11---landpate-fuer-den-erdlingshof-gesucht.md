@@ -2,8 +2,6 @@
 date: 2017-11-19T13:10:17.000Z
 slug: landpatenschaft-erdlingshof
 path: /2017/11/landpatenschaft-erdlingshof/
-type: Artikel
-typeName: Artikel
 title: Landpate für den Erdlingshof gesucht
 seoTitle: Landpate für den Erdlingshof werden und Tieren in Not helfen
 ogTitle: Landpate für den Erdlingshof werden und Tieren in Not helfen

@@ -2,8 +2,6 @@
 date: 2015-09-13T10:18:53.000Z
 slug: meine-neue-handtasche
 path: /2015/09/meine-neue-handtasche/
-type: Artikel
-typeName: Artikel
 title: Meine neue Handtasche
 seoTitle: Meine neue Handtasche - Selbst genäht an einem Nachmittag
 ogTitle: Meine neue Handtasche - Selbst genäht an einem Nachmittag

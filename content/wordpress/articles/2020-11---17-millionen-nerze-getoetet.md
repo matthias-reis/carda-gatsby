@@ -2,8 +2,6 @@
 date: 2020-11-09T11:13:48.000Z
 slug: 17-millionen-nerze-getoetet
 path: /2020/11/17-millionen-nerze-getoetet/
-type: Artikel
-typeName: Artikel
 title: 17 Millionen Nerze getötet
 seoTitle: 17 Millionen Nerze getötet - Mutiertes COVID-19 Virus
 ogTitle: 17 Millionen Nerze getötet - Mutiertes COVID-19 Virus

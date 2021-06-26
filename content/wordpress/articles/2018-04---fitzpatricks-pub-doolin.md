@@ -2,8 +2,6 @@
 date: 2018-04-13T05:57:34.000+00:00
 slug: fitzpatricks-pub-doolin
 path: '/2018/04/fitzpatricks-pub-doolin/'
-type: Artikel
-typeName: Artikel
 title: Fitzpatrick's Pub Doolin
 seoTitle: Fitzpatrick's Pub Doolin - Veganes Essen und das beste Pale Ale
 ogTitle: Fitzpatrick's Pub Doolin - Veganes Essen und das beste Pale Ale

@@ -2,8 +2,6 @@
 date: 2012-08-06T10:39:53.000Z
 slug: nebengerausche
 path: /2012/08/nebengerausche/
-type: Artikel
-typeName: Artikel
 title: Nebengeräusche
 seoTitle: Nebengeräusche - Menschen in der Bahn - Prosa auf dem Heimweg
 ogTitle: Nebengeräusche - Menschen in der Bahn - Prosa auf dem Heimweg

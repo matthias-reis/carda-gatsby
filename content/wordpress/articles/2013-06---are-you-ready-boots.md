@@ -2,8 +2,6 @@
 date: 2013-06-18T09:57:55.000Z
 slug: are-you-ready-boots
 path: /2013/06/are-you-ready-boots/
-type: Artikel
-typeName: Artikel
 title: Are you ready boots?
 seoTitle: Are your ready boots? Auf zum Southside Festival!
 ogTitle: Are your ready boots? Auf zum Southside Festival!

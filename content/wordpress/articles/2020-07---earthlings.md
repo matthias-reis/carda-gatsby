@@ -2,8 +2,6 @@
 date: 2020-07-14T14:18:12.000Z
 slug: earthlings
 path: /2020/07/earthlings/
-type: Artikel
-typeName: Artikel
 title: '"Earthlings"'
 seoTitle: Earthlings - Der Film, der mein Leben veränderte
 ogTitle: Earthlings - Der Film, der mein Leben veränderte

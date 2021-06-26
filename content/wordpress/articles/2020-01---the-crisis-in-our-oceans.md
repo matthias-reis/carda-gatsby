@@ -2,8 +2,6 @@
 date: 2020-01-17T20:10:02.000Z
 slug: the-crisis-in-our-oceans
 path: /2020/01/the-crisis-in-our-oceans/
-type: Artikel
-typeName: Artikel
 title: '"The crisis in our oceans"'
 seoTitle: Greenpeace Kurzfilm "The crisis in our oceans"
 ogTitle: Greenpeace Kurzfilm "The crisis in our oceans"

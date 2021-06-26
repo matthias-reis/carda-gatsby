@@ -2,8 +2,6 @@
 date: 2017-08-04T15:30:21.000Z
 slug: erwartungsgebuegel-menschen-untereinander
 path: /2017/08/erwartungsgebuegel-menschen-untereinander/
-type: Artikel
-typeName: Artikel
 title: Erwartungsgebügel -  Menschen untereinander
 seoTitle: Erwartungsgebügel - Menschen untereinander - Nicht wertend gemeint
 ogTitle: Erwartungsgebügel - Menschen untereinander - Nicht wertend gemeint

@@ -2,8 +2,6 @@
 date: 2019-02-19T15:49:51.000Z
 slug: ein-hauch-von-fruehling-in-cuxhaven
 path: /2019/02/ein-hauch-von-fruehling-in-cuxhaven/
-type: Artikel
-typeName: Artikel
 title: Ein Hauch von Frühling in Cuxhaven
 seoTitle: Ein Hauch von Frühling in Cuxhaven - Besuch an der Nordsee
 ogTitle: Ein Hauch von Frühling in Cuxhaven - Besuch an der Nordsee

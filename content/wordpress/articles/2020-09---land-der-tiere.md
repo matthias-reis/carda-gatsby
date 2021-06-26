@@ -2,8 +2,6 @@
 date: 2020-09-02T09:40:25.000Z
 slug: land-der-tiere
 path: /2020/09/land-der-tiere/
-type: Artikel
-typeName: Artikel
 title: Land der Tiere
 seoTitle: Land der Tiere - Wo Tiere in Freiheit leben
 ogTitle: Land der Tiere - Wo Tiere in Freiheit leben

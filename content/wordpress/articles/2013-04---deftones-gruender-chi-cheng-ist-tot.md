@@ -2,8 +2,6 @@
 date: 2013-04-15T10:01:24.000Z
 slug: nachruf-deftones-grunder-chi-cheng-ist-tot
 path: /2013/04/nachruf-deftones-grunder-chi-cheng-ist-tot/
-type: Artikel
-typeName: Artikel
 title: Deftones-Gründer Chi Cheng ist tot
 seoTitle: Deftones-Gründer Chi Cheng ist tot
 ogTitle: Deftones-Gründer Chi Cheng ist tot

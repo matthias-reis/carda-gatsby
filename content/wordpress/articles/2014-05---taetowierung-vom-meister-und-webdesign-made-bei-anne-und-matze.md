@@ -23,8 +23,6 @@ labels:
   - Tättowierer
   - Tättowierung
   - Webdesign
-type: Artikel
-typeName: Artikel
 date: 2014-05-20T11:46:53.000Z
 status: publish
 isWerbung: false

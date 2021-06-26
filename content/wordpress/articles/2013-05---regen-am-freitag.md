@@ -2,8 +2,6 @@
 date: 2013-05-31T13:31:43.000Z
 slug: regen-am-freitag
 path: /2013/05/regen-am-freitag/
-type: Artikel
-typeName: Artikel
 title: Regen am Freitag
 seoTitle: Regen am Freitag - Mit musikalischer Untermalung
 ogTitle: Regen am Freitag - Mit musikalischer Untermalung

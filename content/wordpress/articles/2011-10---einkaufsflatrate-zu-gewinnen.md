@@ -2,8 +2,6 @@
 date: 2011-10-05T11:02:05.000Z
 slug: umweltschutz-und-preisbewusstsein-zum-weltspartag
 path: /2011/10/umweltschutz-und-preisbewusstsein-zum-weltspartag/
-type: Artikel
-typeName: Artikel
 title: Einkaufsflatrate zu gewinnen
 seoTitle: Umweltschutz und Preisbewusstsein zum Weltspartag
 ogTitle: Umweltschutz und Preisbewusstsein zum Weltspartag

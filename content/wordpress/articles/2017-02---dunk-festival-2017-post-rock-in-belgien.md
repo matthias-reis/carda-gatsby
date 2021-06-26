@@ -2,8 +2,6 @@
 date: 2017-02-28T18:26:43.000+00:00
 slug: dunkfestival-2016-wir-sind-auch-dabei
 path: '/2017/02/dunkfestival-2016-wir-sind-auch-dabei/'
-type: Artikel
-typeName: Artikel
 title: Dunk!festival 2017 - Post-Rock in Belgien
 seoTitle: Dunk!festival 2017 - Post-Rock in Belgien - Wir sind auch dabei!
 ogTitle: Dunk!festival 2017 - Post-Rock in Belgien - Wir sind auch dabei!

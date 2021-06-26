@@ -2,8 +2,6 @@
 date: 2018-03-28T06:37:06.000+00:00
 slug: bunratty-castle
 path: '/2018/03/bunratty-castle/'
-type: Artikel
-typeName: Artikel
 title: Bunratty Castle
 seoTitle: Bunratty Castle - Normannische Burg und Publikumsmagnet
 ogTitle: Bunratty Castle - Normannische Burg und Publikumsmagnet

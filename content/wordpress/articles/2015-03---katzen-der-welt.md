@@ -2,8 +2,6 @@
 date: 2015-03-11T09:23:22.000Z
 slug: katzen-der-welt
 path: /2015/03/katzen-der-welt/
-type: Artikel
-typeName: Artikel
 title: Katzen der Welt
 seoTitle: Katzen der Welt
 ogTitle: Katzen der Welt

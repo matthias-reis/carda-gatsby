@@ -2,8 +2,6 @@
 date: 2012-04-18T15:46:38.000Z
 slug: die-ultimative-festivalliste-2012
 path: /2012/04/die-ultimative-festivalliste-2012/
-type: Artikel
-typeName: Artikel
 title: Die ultimative Festivalliste 2012
 seoTitle: Meine Festivalliste 2012 - das solltet Ihr dabei haben
 ogTitle: Meine Festivalliste 2012 - das solltet Ihr dabei haben

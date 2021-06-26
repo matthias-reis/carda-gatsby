@@ -2,8 +2,6 @@
 date: 2019-07-29T16:44:44.000+00:00
 slug: wie-wildbienen-von-honigbienen-verdraengt-werden
 path: '/2019/07/wie-wildbienen-von-honigbienen-verdraengt-werden/'
-type: Artikel
-typeName: Artikel
 title: Wie Wildbienen von Honigbienen verdrängt werden
 seoTitle: Wie Honigbienen Wildbienen verdrängen - Artenschutz durch Wissen
 ogTitle: Wie Honigbienen Wildbienen verdrängen - Artenschutz durch Wissen

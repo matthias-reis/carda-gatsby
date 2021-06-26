@@ -2,8 +2,6 @@
 date: 2019-01-19T16:03:11.000Z
 slug: von-der-wichtigkeit-sich-zeit-zu-nehmen
 path: /2019/01/von-der-wichtigkeit-sich-zeit-zu-nehmen/
-type: Artikel
-typeName: Artikel
 title: Von der Wichtigkeit, sich Zeit zu nehmen
 seoTitle: Warum ich meinen Kaffee nicht mehr so oft im Gehen trinke
 ogTitle: Warum ich meinen Kaffee nicht mehr so oft im Gehen trinke

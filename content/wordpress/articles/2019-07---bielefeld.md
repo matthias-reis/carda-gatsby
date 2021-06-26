@@ -2,8 +2,6 @@
 date: 2019-07-24T10:33:45.000Z
 slug: bielefeld
 path: /2019/07/bielefeld/
-type: Artikel
-typeName: Artikel
 title: Bielefeld
 seoTitle: Bielefeld - eine kreative Stadt im Teutoburger Wald
 ogTitle: Bielefeld - eine kreative Stadt im Teutoburger Wald

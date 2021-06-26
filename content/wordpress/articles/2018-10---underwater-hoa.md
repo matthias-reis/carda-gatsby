@@ -2,8 +2,6 @@
 date: 2018-10-18T14:42:40.000Z
 slug: underwater-hoa
 path: /2018/10/underwater-hoa/
-type: Artikel
-typeName: Artikel
 title: Underwater HOA
 seoTitle: Underwater HOA - Künstler Xavier Cortada kämpft gegen den Klimawandel
 ogTitle: Underwater HOA - Künstler Xavier Cortada kämpft gegen den Klimawandel

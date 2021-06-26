@@ -2,8 +2,6 @@
 date: 2018-11-15T19:12:10.000Z
 slug: crowdfarming
 path: /2018/11/crowdfarming/
-type: Artikel
-typeName: Artikel
 title: CrowdFarming - Anbau auf Bestellung
 seoTitle: CrowdFarming - Anbau auf Bestellung - Eine neue Lieferkette
 ogTitle: CrowdFarming - Anbau auf Bestellung - Eine neue Lieferkette

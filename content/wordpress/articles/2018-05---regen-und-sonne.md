@@ -2,8 +2,6 @@
 date: 2018-05-30T06:25:02.000Z
 slug: regen-und-sonne
 path: /2018/05/regen-und-sonne/
-type: Artikel
-typeName: Artikel
 title: Regen und Sonne
 seoTitle: Regen und Sonne - Kleine Dystopie - Worte zum Klimawandel
 ogTitle: Regen und Sonne - Kleine Dystopie

@@ -2,8 +2,6 @@
 date: 2020-07-21T13:04:06.000Z
 slug: veganer-wein-cameron-diaz-avaline
 path: /2020/07/veganer-wein-cameron-diaz-avaline/
-type: Artikel
-typeName: Artikel
 title: Veganer Wein von Cameron Diaz
 seoTitle: Veganer Wein von Cameron Diaz - Die Geschichte von Avaline
 ogTitle: Veganer Wein von Cameron Diaz - Die Geschichte von Avaline

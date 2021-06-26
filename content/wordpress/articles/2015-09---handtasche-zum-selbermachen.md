@@ -2,8 +2,6 @@
 date: 2015-09-30T11:33:41.000Z
 slug: kleine-handtasche-zum-selbermachen
 path: /2015/09/kleine-handtasche-zum-selbermachen/
-type: Artikel
-typeName: Artikel
 title: Handtasche zum Selbermachen
 seoTitle: Kleine Handtasche zum Selbermachen
 ogTitle: Kleine Handtasche zum Selbermachen

@@ -2,8 +2,6 @@
 date: 2021-04-12T06:37:18.000Z
 slug: fleischatlas-2021
 path: /2021/04/fleischatlas-2021/
-type: Artikel
-typeName: Artikel
 title: Fleischatlas 2021
 seoTitle: Fleischatlas 2021 – Fakten und Daten rund um tierische Lebensmittel
 ogTitle: Fleischatlas 2021 – Fakten und Daten rund um tierische Lebensmittel

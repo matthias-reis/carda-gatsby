@@ -2,8 +2,6 @@
 date: 2011-07-20T15:16:19.000Z
 slug: nach-dem-regen
 path: /2011/07/nach-dem-regen/
-type: Artikel
-typeName: Artikel
 title: Nach dem Regen
 seoTitle: Nach dem Regen - Prosa ohne Wolken
 ogTitle: Nach dem Regen - Prosa ohne Wolken

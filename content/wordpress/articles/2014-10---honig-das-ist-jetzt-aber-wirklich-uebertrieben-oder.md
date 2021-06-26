@@ -2,8 +2,6 @@
 date: 2014-10-16T13:02:45.000+00:00
 slug: honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder
 path: '/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/'
-type: Artikel
-typeName: Artikel
 title: Honig? Das ist jetzt aber wirklich übertrieben, oder?
 seoTitle: Warum Veganer auf Honig verzichten und das nicht übertrieben ist
 ogTitle: Warum Veganer auf Honig verzichten und das nicht übertrieben ist

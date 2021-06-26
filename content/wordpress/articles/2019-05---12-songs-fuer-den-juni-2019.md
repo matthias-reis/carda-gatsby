@@ -2,8 +2,6 @@
 date: 2019-05-27T16:08:54.000Z
 slug: 12-songs-fuer-den-juni-2019
 path: /2019/05/12-songs-fuer-den-juni-2019/
-type: Artikel
-typeName: Artikel
 title: 12 Songs für den Juni 2019
 seoTitle: 12 Songs für den Juni - präsentiert von den drei von der Bande
 ogTitle: 12 Songs für den Juni - präsentiert von den drei von der Bande

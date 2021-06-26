@@ -2,8 +2,6 @@
 date: 2012-07-30T10:46:09.000Z
 slug: suchmaschinenoptimierung-und-suchmoeglichkeiten-im-netz
 path: /2012/07/suchmaschinenoptimierung-und-suchmoeglichkeiten-im-netz/
-type: Artikel
-typeName: Artikel
 title: Gesucht und gefunden
 seoTitle: Suchmaschinenoptimierung und Suchmaschinen im Netz
 ogTitle: Suchmaschinenoptimierung und Suchmaschinen im Netz

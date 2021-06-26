@@ -2,8 +2,6 @@
 date: 2017-05-21T14:21:24.000Z
 slug: march-against-monsanto-2017
 path: /2017/05/march-against-monsanto-2017/
-type: Artikel
-typeName: Artikel
 title: March Against Monsanto 2017
 seoTitle: March Against Monsanto 2017 - Hamburg geht gegen Konzerngiganten auf die Straße
 ogTitle: March Against Monsanto 2017 - Hamburg geht gegen Konzerngiganten auf die Straße

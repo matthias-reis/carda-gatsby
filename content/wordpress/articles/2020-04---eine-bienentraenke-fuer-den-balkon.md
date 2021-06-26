@@ -2,8 +2,6 @@
 date: 2020-04-09T15:39:13.000+00:00
 slug: bienentraenke
 path: '/2020/04/bienentraenke/'
-type: Artikel
-typeName: Artikel
 title: Eine Bienentränke für den Balkon
 seoTitle: Bienentränke für den Balkon DIY
 ogTitle: Bienentränke für den Balkon DIY

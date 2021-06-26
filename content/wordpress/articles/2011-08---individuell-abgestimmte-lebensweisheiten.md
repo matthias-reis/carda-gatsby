@@ -2,8 +2,6 @@
 date: 2011-08-07T19:49:24.000Z
 slug: individuell-abgestimmte-lebensweisheiten
 path: /2011/08/individuell-abgestimmte-lebensweisheiten/
-type: Artikel
-typeName: Artikel
 title: Individuell abgestimmte Lebensweisheiten
 seoTitle: Individuell abgestimmte Lebensweisheiten - Gedicht
 ogTitle: Individuell abgestimmte Lebensweisheiten - Gedicht

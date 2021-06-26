@@ -2,8 +2,6 @@
 date: 2019-12-09T18:12:57.000Z
 slug: die-12-songs-des-jahres-2019
 path: /2019/12/die-12-songs-des-jahres-2019/
-type: Artikel
-typeName: Artikel
 title: Die 12 Songs des Jahres 2019
 seoTitle: Die 12 Songs des Jahres 2019 - präsentiert von den drei von der Bande
 ogTitle: Die 12 Songs des Jahres 2019 - präsentiert von den drei von der Bande

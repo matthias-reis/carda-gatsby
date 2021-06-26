@@ -2,8 +2,6 @@
 date: 2021-01-04T16:50:32.000Z
 slug: of-mice-and-men-philip-manansala-vegan
 path: /2021/01/of-mice-and-men-philip-manansala-vegan/
-type: Artikel
-typeName: Artikel
 title: Of Mice & Men Gitarrist startet Vegan-Aufruf
 seoTitle: Of Mice & Men Gitarrist startet Vegan-Aufruf – "Ich glaube an Euch!"
 ogTitle: Of Mice & Men Gitarrist startet Vegan-Aufruf – "Ich glaube an Euch!"

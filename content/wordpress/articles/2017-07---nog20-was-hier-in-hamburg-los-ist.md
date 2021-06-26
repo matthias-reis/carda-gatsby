@@ -2,8 +2,6 @@
 date: 2017-07-07T16:45:05.000Z
 slug: nog20
 path: /2017/07/nog20/
-type: Artikel
-typeName: Artikel
 title: '#NoG20 - Was hier in Hamburg los ist'
 seoTitle: NoG20 - Was hier in Hamburg los ist - Statusmeldung einer Anwohnerin
 ogTitle: '#NoG20 - Was hier in Hamburg los ist - Statusmeldung einer Anwohnerin'

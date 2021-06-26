@@ -2,8 +2,6 @@
 date: 2011-08-15T19:59:58.000Z
 slug: lieder-am-ufer
 path: /2011/08/lieder-am-ufer/
-type: Artikel
-typeName: Artikel
 title: Lieder am Ufer
 seoTitle: Lieder am Ufer - mal wieder etwas Prosa
 ogTitle: Lieder am Ufer - mal wieder etwas Prosa

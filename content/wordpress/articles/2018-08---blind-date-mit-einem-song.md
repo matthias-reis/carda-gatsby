@@ -2,8 +2,6 @@
 date: 2018-08-20T15:27:38.000+00:00
 slug: gartenblogger-blind-date
 path: '/2018/08/gartenblogger-blind-date/'
-type: Artikel
-typeName: Artikel
 title: Blind Date mit einem Song
 seoTitle: Gartenblogger Blind Date Edition 5 - I Build This Garden For Us
 ogTitle: Gartenblogger Blind Date Edition 5 - I Build This Garden For Us

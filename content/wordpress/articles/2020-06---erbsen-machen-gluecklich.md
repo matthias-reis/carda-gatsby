@@ -2,8 +2,6 @@
 date: 2020-06-03T15:20:07.000Z
 slug: erbsen
 path: /2020/06/erbsen/
-type: Artikel
-typeName: Artikel
 title: Erbsen machen glücklich
 seoTitle: Erbsen machen glücklichlich - grüne Proteinlieferanten
 ogTitle: Erbsen machen glücklichlich - grüne Proteinlieferanten

@@ -2,8 +2,6 @@
 date: 2011-05-05T04:37:02.000Z
 slug: anne-bloggt-cardamonchai-auf-facebook
 path: /2011/05/anne-bloggt-cardamonchai-auf-facebook/
-type: Artikel
-typeName: Artikel
 title: Mein Blog bei Facebook
 seoTitle: Anne bloggt cardamonchai auf Facebook - Klickt mal rein!
 ogTitle: Anne bloggt cardamonchai auf Facebook

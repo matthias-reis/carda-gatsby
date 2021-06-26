@@ -2,8 +2,6 @@
 date: 2017-09-30T07:00:28.000+00:00
 slug: i-like-birds-blind-date-mit-einem-ganz-besonderen-song
 path: '/2017/09/i-like-birds-blind-date-mit-einem-ganz-besonderen-song/'
-type: Artikel
-typeName: Artikel
 title: Blind Date mit einem ganz besonderen Song
 seoTitle: '"I like birds" - Blind Date mit einem besonderen Song - Eels für die Seele'
 ogTitle: '"I like birds" - Blind Date mit einem besonderen Song - Eels für die Seele'

@@ -2,8 +2,6 @@
 date: 2013-07-01T17:33:37.000Z
 slug: southside-festival-2013
 path: /2013/07/southside-festival-2013/
-type: Artikel
-typeName: Artikel
 title: Southside Festival 2013
 seoTitle: Southside Festival 2013 - Die Bildergalerie ist fertig
 ogTitle: Southside Festival 2013 - Die Bildergalerie ist fertig

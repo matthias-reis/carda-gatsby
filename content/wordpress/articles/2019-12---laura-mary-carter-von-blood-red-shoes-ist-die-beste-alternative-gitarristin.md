@@ -2,8 +2,6 @@
 date: 2019-12-21T11:38:30.000Z
 slug: laura-mary-carter-von-blood-red-shoes-ist-die-beste-alternative-gitarristin
 path: /2019/12/laura-mary-carter-von-blood-red-shoes-ist-die-beste-alternative-gitarristin/
-type: Artikel
-typeName: Artikel
 title: Laura-Mary Carter von Blood Red Shoes ist die beste Alternative Gitarristin
 seoTitle: Laura-Mary Carter von Blood Red Shoes ist die beste Alternative Gitarristin
 ogTitle: Laura-Mary Carter von Blood Red Shoes ist die beste Alternative Gitarristin

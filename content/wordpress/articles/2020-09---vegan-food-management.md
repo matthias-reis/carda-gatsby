@@ -2,8 +2,6 @@
 date: 2020-09-01T06:00:28.000Z
 slug: vegan-food-management
 path: /2020/09/vegan-food-management/
-type: Artikel
-typeName: Artikel
 title: Vegan Food Management
 seoTitle: Vegan Food Management - der vegane Studiengang
 ogTitle: Vegan Food Management - der vegane Studiengang

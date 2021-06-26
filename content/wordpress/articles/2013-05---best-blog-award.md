@@ -2,8 +2,6 @@
 date: 2013-05-28T14:46:13.000Z
 slug: best-blog-award-wie-jetzt-ich-habe-was-gewonnen
 path: /2013/05/best-blog-award-wie-jetzt-ich-habe-was-gewonnen/
-type: Artikel
-typeName: Artikel
 title: Best Blog Award
 seoTitle: Best Blog Award - Wie jetzt, ich habe gewonnen?!
 ogTitle: Best Blog Award - Wie jetzt, ich habe gewonnen?!

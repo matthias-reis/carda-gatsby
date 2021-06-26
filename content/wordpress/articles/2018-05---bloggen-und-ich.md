@@ -2,8 +2,6 @@
 date: 2018-05-24T06:00:58.000Z
 slug: bloggen-und-ich
 path: /2018/05/bloggen-und-ich/
-type: Artikel
-typeName: Artikel
 title: Bloggen und ich
 seoTitle: Bloggen und ich - Warum es manchmal gar nicht so leicht ist
 ogTitle: Bloggen und ich - Warum es manchmal gar nicht so leicht ist

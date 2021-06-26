@@ -2,8 +2,6 @@
 date: 2021-02-08T11:54:17.000Z
 slug: the-dying-trade
 path: /2021/02/the-dying-trade/
-type: Artikel
-typeName: Artikel
 title: '"The Dying Trade"'
 seoTitle: '"The Dying Trade" – Neuer Film zeigt Arbeit im Schlachthof'
 ogTitle: '"The Dying Trade" – Neuer Film zeigt Arbeit im Schlachthof'

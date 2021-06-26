@@ -2,8 +2,6 @@
 date: 2013-11-14T18:10:09.000Z
 slug: da-ist-musik-drin
 path: /2013/11/da-ist-musik-drin/
-type: Artikel
-typeName: Artikel
 title: Da ist Musik drin
 seoTitle: Da ist Musik drin - Die Post war da
 ogTitle: Da ist Musik drin - Die Post war da

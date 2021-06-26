@@ -2,8 +2,6 @@
 date: 2020-05-25T06:43:23.000Z
 slug: 12-songs-fuer-den-juni-2020
 path: /2020/05/12-songs-fuer-den-juni-2020/
-type: Artikel
-typeName: Artikel
 title: 12 Songs für den Juni
 seoTitle: 12 Songs für den Juni - die drei von der Bande legen auf
 ogTitle: 12 Songs für den Juni - die drei von der Bande legen auf

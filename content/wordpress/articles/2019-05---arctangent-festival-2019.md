@@ -2,8 +2,6 @@
 date: 2019-05-20T12:36:53.000+00:00
 slug: arctangent-festival-2019
 path: '/2019/05/arctangent-festival-2019/'
-type: Artikel
-typeName: Artikel
 title: ArcTanGent Festival 2019
 seoTitle: ArcTanGent Festival Bristol 2019 - wir sind auch dabei!
 ogTitle: ArcTanGent Festival Bristol 2019 - wir sind auch dabei!

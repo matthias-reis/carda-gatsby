@@ -2,8 +2,6 @@
 date: 2020-07-29T15:47:23.000Z
 slug: buschfeuer-in-australien
 path: /2020/07/buschfeuer-in-australien/
-type: Artikel
-typeName: Artikel
 title: Buschfeuer in Australien
 seoTitle: Buschfeuer in Australien - 3 Milliarden Tiere getötet und vertrieben
 ogTitle: Buschfeuer in Australien - 3 Milliarden Tiere getötet und vertrieben

@@ -2,8 +2,6 @@
 date: 2015-02-25T19:30:18.000Z
 slug: vegan-hamwa
 path: /2015/02/vegan-hamwa/
-type: Artikel
-typeName: Artikel
 title: '"Vegan? Hamwa!"'
 seoTitle: Vegan? Hamwa! - Ökolatsche 2.0 - Ein Kommentar
 ogTitle: Vegan? Hamwa! - Ökolatsche 2.0 - Ein Kommentar

@@ -2,8 +2,6 @@
 date: 2021-02-01T16:10:00.000Z
 slug: neue-klima-umfrage-der-un
 path: /2021/02/neue-klima-umfrage-der-un/
-type: Artikel
-typeName: Artikel
 title: Neue Klima-Umfrage der UN
 seoTitle: Neue Klima-Umfrage der UN – Weltbevölkerung will Veränderung
 ogTitle: Neue Klima-Umfrage der UN – Weltbevölkerung will Veränderung

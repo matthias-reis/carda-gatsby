@@ -2,8 +2,6 @@
 date: 2013-09-09T15:45:07.000Z
 slug: mein-pakt-mit-dem-schweinehund
 path: /2013/09/mein-pakt-mit-dem-schweinehund/
-type: Artikel
-typeName: Artikel
 title: Mein Pakt mit dem Schweinehund
 seoTitle: Mein Pakt mit dem Schweinehund - Rauchen aufhören - Ein Selbstversuch
 ogTitle: Mein Pakt mit dem Schweinehund - Rauchen aufhören - Ein Selbstversuch

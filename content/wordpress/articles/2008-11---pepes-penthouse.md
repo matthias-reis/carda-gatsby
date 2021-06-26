@@ -2,8 +2,6 @@
 date: 2008-11-16T14:24:56.000Z
 slug: beitrag-vom-06-11-2008-pepes-penthouse-eine-augsburger-band
 path: /2008/11/beitrag-vom-06-11-2008-pepes-penthouse-eine-augsburger-band/
-type: Artikel
-typeName: Artikel
 title: Pepes Penthouse
 seoTitle: Pepes Penthouse - Indierock aus Augsburg
 ogTitle: Pepes Penthouse - Indierock aus Augsburg

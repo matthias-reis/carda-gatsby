@@ -2,8 +2,6 @@
 date: 2011-03-31T11:24:23.000Z
 slug: foo-fighters-bringen-neues-album-auf-den-markt
 path: /2011/03/foo-fighters-bringen-neues-album-auf-den-markt/
-type: Artikel
-typeName: Artikel
 title: '"Wasting Light"'
 seoTitle: Foo Fighters bringen neues Album auf den Markt!
 ogTitle: Foo Fighters bringen neues Album auf den Markt!

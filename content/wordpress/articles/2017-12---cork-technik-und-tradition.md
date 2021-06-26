@@ -2,8 +2,6 @@
 date: 2017-12-01T08:48:46.000+00:00
 slug: cork
 path: '/2017/12/cork/'
-type: Artikel
-typeName: Artikel
 title: Cork - Technik und Tradition
 seoTitle: Cork - Technik und Tradition - Rundgang durch eine jugendliche Stadt
 ogTitle: Cork - Technik und Tradition - Rundgang durch eine jugendliche Stadt

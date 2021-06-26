@@ -1,31 +1,27 @@
 ---
 date: 2016-12-05T09:54:05.000+00:00
 slug: meine-neue-vegane-handtasche-von-mattnat
-path: "/2016/12/meine-neue-vegane-handtasche-von-mattnat/"
-type: Artikel
-typeName: Artikel
+path: '/2016/12/meine-neue-vegane-handtasche-von-mattnat/'
 title: Ich habe gewonnen
 seoTitle: Meine neue vegane Handtasche von Matt&Nat - Danke, liebe zauberisch!
 ogTitle: Meine neue vegane Handtasche von Matt&Nat - Danke, liebe zauberisch!
-description: Kürzlich habe ich mal wieder bei einem Instagram-Gewinnspiel mitgemacht
-  und habe, Ihr werdet es kaum glauben, eine Matt&Nat Handtasche gewonnen! zauberisch
-excerpt: Kürzlich habe ich mal wieder bei einem Instagram-Gewinnspiel mitgemacht und
-  habe, Ihr werdet es kaum glauben, eine Matt&Nat Handtasche gewonnen!
+description: Kürzlich habe ich mal wieder bei einem Instagram-Gewinnspiel mitgemacht und habe, Ihr werdet es kaum glauben, eine Matt&Nat Handtasche gewonnen! zauberisch
+excerpt: Kürzlich habe ich mal wieder bei einem Instagram-Gewinnspiel mitgemacht und habe, Ihr werdet es kaum glauben, eine Matt&Nat Handtasche gewonnen!
 fileName: 2016-12---ich-habe-gewonnen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_12_31415931275_d2404ae657_b__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_12_31415931275_d2404ae657_b__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYFAv/EACwQAAIBAwIEBAYDAAAAAAAAAAECAwQFEQASBhQhMQcTQVEiI1JhccEkgZH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGxEBAQACAwEAAAAAAAAAAAAAAQACEQMSISL/2gAMAwEAAhEDEQA/AEWCs3uq+5xqE4JobrxZLcb3xPWXKONKqSno6OkYCOJoydxIPQgEBfuc9dc+JNbV2uz1PJyzQutWiGWIlWVck9x2z0Go7hbiO522pVeePJzyKs8c2GIycFxnsR6n176vMdfM+IH1nK91ZisdwkOciB+3uRj9616WTyaaKP6EC/4NTl+QtbmgxnzZoov6Mi/oa2Xk+NuvrpNEc3Wvp6SkK3CaRVq90JcDc3Vep7/caFwk1H/HrEUhsAMGDAj7EE6abjYE4klhppklMtOWZYqZl+XuAGZXIKjsOgydFXHdrfh++1NlkRHMDrLHUDIMiOgIyO3uMjHY6F9tOM0Tt4crJe+C7TPXTbvJzG20/GXiYqNx9Om3VfylAOhp4cj3GToa8CL/ADFbhZ2icwqvNpIFOFbIVgT26jaR+DpW80/So/OoyXc+u7//2Q==
-ogImage: 
+ogImage:
 labels:
-- Fair Fashion & Beauty
-- Handtasche
-- Liebe
-- Matt&Nat
-- vegane Handtasche
-- vegane Handtaschen
-- vegane Taschen
-- veganes Leder
-- zauberisch
+  - Fair Fashion & Beauty
+  - Handtasche
+  - Liebe
+  - Matt&Nat
+  - vegane Handtasche
+  - vegane Handtaschen
+  - vegane Taschen
+  - veganes Leder
+  - zauberisch
 focusKeyword: Matt&Nat
 status: publish
 isWerbung: false
@@ -34,8 +30,8 @@ language: de
 errors: {}
 subTitle: Meine neue vegane Handtasche von Matt&Nat
 advertisement: true
-
 ---
+
 Ich konnte mein Glück kaum fassen, als ich letzten Montag auf Instagram klickte und auf dem Profil von [@zauberisch](https://zauberisch.wordpress.com/)  aka Julia ein ganz besonderes Video fand. Zusammen mit ihrem lieben Kater Joshi, den ich seit ich ihn das erste Mal auf einem Bild gesehen habe, liebe, hat sie ausgerechnet meinen Namen aus dem Lostopf gezogen! Das Video musste ich mir wieder und wieder anschauen, zu süß, wie der Kleine ihr assistiert hat! &lt;3
 
 ## Zweihorn inklusive

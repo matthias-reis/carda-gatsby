@@ -2,8 +2,6 @@
 date: 2013-09-25T19:27:32.000Z
 slug: die-traurige-geschichte-eines-tapferen-katers
 path: /2013/09/die-traurige-geschichte-eines-tapferen-katers/
-type: Artikel
-typeName: Artikel
 title: Die traurige Geschichte eines tapferen Katers
 seoTitle: Die traurige Geschichte eines tapferen Katers - Teil I / IV
 ogTitle: Die traurige Geschichte eines tapferen Katers - Teil I / IV

@@ -2,8 +2,6 @@
 date: 2018-02-25T14:55:18.000+00:00
 slug: vegan-junk-food-bar-amsterdam
 path: '/2018/02/vegan-junk-food-bar-amsterdam/'
-type: Artikel
-typeName: Artikel
 title: Vegan Junk Food Bar Amsterdam
 seoTitle: Vegan Junk Food Bar Amsterdam - Kreative vegane Burger und mehr
 ogTitle: Vegan Junk Food Bar Amsterdam - Kreative vegane Burger und mehr

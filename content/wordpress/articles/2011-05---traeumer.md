@@ -2,8 +2,6 @@
 date: 2011-05-10T14:02:32.000Z
 slug: traeumer
 path: /2011/05/traeumer/
-type: Artikel
-typeName: Artikel
 title: Träumer
 seoTitle: Träumer - Stadtprosa
 ogTitle: Träumer - Stadtprosa

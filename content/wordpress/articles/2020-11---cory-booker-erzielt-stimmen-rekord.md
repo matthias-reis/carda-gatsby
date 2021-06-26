@@ -2,8 +2,6 @@
 date: 2020-11-16T15:31:04.000Z
 slug: veganer-us-senator-cory-booker
 path: /2020/11/veganer-us-senator-cory-booker/
-type: Artikel
-typeName: Artikel
 title: Cory Booker erzielt Stimmen-Rekord
 seoTitle: Veganer US-Senator Cory Booker erzielt Stimmen-Rekord
 ogTitle: Veganer US-Senator Cory Booker erzielt Stimmen-Rekord

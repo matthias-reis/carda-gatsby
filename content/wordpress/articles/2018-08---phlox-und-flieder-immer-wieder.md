@@ -2,8 +2,6 @@
 date: 2018-08-08T14:30:16.000+00:00
 slug: phlox-und-flieder-immer-wieder
 path: '/2018/08/phlox-und-flieder-immer-wieder/'
-type: Artikel
-typeName: Artikel
 title: Phlox und Flieder immer wieder
 seoTitle: Phlox und Flieder immer wieder 6 Balkontipps für den Hochsommer
 ogTitle: Phlox und Flieder immer wieder 6 Balkontipps für den Hochsommer

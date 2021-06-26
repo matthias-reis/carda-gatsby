@@ -2,8 +2,6 @@
 date: 2020-07-15T07:38:03.000Z
 slug: leder-pelz
 path: /2020/07/leder-pelz/
-type: Artikel
-typeName: Artikel
 title: Warum Leder so grausam wie Pelz ist
 seoTitle: Warum Leder so grausam wie Pelz ist
 ogTitle: Warum Leder so grausam wie Pelz ist

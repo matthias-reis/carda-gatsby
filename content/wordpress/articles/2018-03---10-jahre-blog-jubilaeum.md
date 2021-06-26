@@ -2,8 +2,6 @@
 date: 2018-03-19T18:08:11.000Z
 slug: 10-jahre-bloggen-jubilaeum
 path: /2018/03/10-jahre-bloggen-jubilaeum/
-type: Artikel
-typeName: Artikel
 title: 10 Jahre Blog-Jubiläum
 seoTitle: 10 Jahre Blog-Jubiläum
 ogTitle: 10 Jahre Blog-Jubiläum

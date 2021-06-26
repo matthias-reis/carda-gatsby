@@ -2,8 +2,6 @@
 date: 2020-03-18T10:10:21.000+00:00
 slug: corona-blick-auf-den-felsen-von-gibraltar
 path: '/2020/03/corona-blick-auf-den-felsen-von-gibraltar/'
-type: Artikel
-typeName: Artikel
 title: Blick auf den Felsen von Gibraltar
 seoTitle: Wie es war und wie es mit Corona ist
 ogTitle: Wie es war und wie es mit Corona ist

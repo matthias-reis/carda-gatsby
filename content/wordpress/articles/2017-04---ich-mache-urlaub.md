@@ -2,8 +2,6 @@
 date: 2017-04-21T13:28:55.000Z
 slug: ich-mache-urlaub
 path: /2017/04/ich-mache-urlaub/
-type: Artikel
-typeName: Artikel
 title: Ich mache Urlaub
 seoTitle: Urlaub wir kommen - Ich mache Pause - Kurze Auszeit auf Anne bloggt cardamonchai
 ogTitle: Urlaub wir kommen - Ich mache Pause - Kurze Auszeit auf Anne bloggt cardamonchai

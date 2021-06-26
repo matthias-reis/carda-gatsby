@@ -2,8 +2,6 @@
 date: 2017-08-25T15:50:12.000Z
 slug: auf-dich
 path: /2017/08/auf-dich/
-type: Artikel
-typeName: Artikel
 title: Auf Dich!
 seoTitle: Auf Dich! Danke, dass Du da bist! Du toller Mensch!
 ogTitle: Auf Dich! Danke, dass Du da bist! Du toller Mensch!

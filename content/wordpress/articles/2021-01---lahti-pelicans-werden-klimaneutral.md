@@ -2,8 +2,6 @@
 date: 2021-01-23T05:00:14.000Z
 slug: lahti-pelicans-klimaneutral-eishockey
 path: /2021/01/lahti-pelicans-klimaneutral-eishockey/
-type: Artikel
-typeName: Artikel
 title: Lahti Pelicans werden klimaneutral
 seoTitle: Lahti Pelicans werden klimaneutral – Eishockey fürs Klima
 ogTitle: Lahti Pelicans werden klimaneutral – Eishockey fürs Klima

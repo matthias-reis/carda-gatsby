@@ -2,8 +2,6 @@
 date: 2011-05-25T10:05:12.000Z
 slug: hitliste-der-suchbegriffe-die-auf-cardamonchai-gefuehrt-haben
 path: /2011/05/hitliste-der-suchbegriffe-die-auf-cardamonchai-gefuehrt-haben/
-type: Artikel
-typeName: Artikel
 title: Cardagoogle
 seoTitle: Suchbegriffe auf cardamonchai
 ogTitle: Suchbegriffe auf cardamonchai

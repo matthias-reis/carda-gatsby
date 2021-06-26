@@ -2,8 +2,6 @@
 date: 2015-09-14T14:29:26.000Z
 slug: bloggerfuergefluechtete
 path: /2015/09/bloggerfuergefluechtete/
-type: Artikel
-typeName: Artikel
 title: Blogger*innen für Geflüchtete
 seoTitle: '#Bloggerfuerfluechtlinge - Werdet aktiv!'
 ogTitle: '#Bloggerfuerfluechtlinge - Werdet aktiv!'

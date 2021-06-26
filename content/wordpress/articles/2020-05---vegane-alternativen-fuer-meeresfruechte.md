@@ -2,8 +2,6 @@
 date: 2020-05-06T10:14:36.000Z
 slug: vegane-alternativen-fuer-shrimps-tintenfisch-und-krabben
 path: /2020/05/vegane-alternativen-fuer-shrimps-tintenfisch-und-krabben/
-type: Artikel
-typeName: Artikel
 title: Vegane Alternativen für Meeresfrüchte
 seoTitle: Vegane Alternativen für Meeresfrüchte aus Kichererbsen
 ogTitle: Vegane Alternativen für Meeresfrüchte aus Kichererbsen

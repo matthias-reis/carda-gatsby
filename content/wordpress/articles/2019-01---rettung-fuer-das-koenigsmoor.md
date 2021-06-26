@@ -2,8 +2,6 @@
 date: 2019-01-31T16:52:50.000Z
 slug: koenigsmoor-moorfutures
 path: /2019/01/koenigsmoor-moorfutures/
-type: Artikel
-typeName: Artikel
 title: Rettung für das Königsmoor
 seoTitle: Rettung für das Königsmoor MoorFutures® - Klimaschutz durch Ausgleich
 ogTitle: Rettung für das Königsmoor - "MoorFutures®" - Klimaschutz durch Ausgleich

@@ -2,8 +2,6 @@
 date: 2012-08-02T11:01:09.000Z
 slug: von-unbekannten-songs-und-sonnigen-festivals
 path: /2012/08/von-unbekannten-songs-und-sonnigen-festivals/
-type: Artikel
-typeName: Artikel
 title: Von unbekannten Songs und sonnigen Festivals
 seoTitle: Von unbekannten Songs und sonnigen Festivals - Tagebucheintrag
 ogTitle: Von unbekannten Songs und sonnigen Festivals - Tagebucheintrag

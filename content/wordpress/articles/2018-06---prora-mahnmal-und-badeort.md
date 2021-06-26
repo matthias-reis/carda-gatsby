@@ -2,8 +2,6 @@
 date: 2018-06-13T05:09:43.000Z
 slug: prora-mahnmal-und-badeort
 path: /2018/06/prora-mahnmal-und-badeort/
-type: Artikel
-typeName: Artikel
 title: Prora - Mahnmal und Badeort
 seoTitle: Prora - Mahnmal und Badeort - Beton und Sand auf Rügen im Wandel
 ogTitle: Prora - Mahnmal und Badeort - Beton und Sand auf Rügen im Wandel

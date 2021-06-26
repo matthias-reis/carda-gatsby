@@ -2,8 +2,6 @@
 date: 2012-08-08T09:57:10.000Z
 slug: weltkatzentag
 path: /2012/08/weltkatzentag/
-type: Artikel
-typeName: Artikel
 title: Weltkatzentag
 seoTitle: Weltkatzentag - Tagebucheintrag bei 13 Grad im Schatten
 ogTitle: Weltkatzentag - Tagebucheintrag bei 13 Grad im Schatten

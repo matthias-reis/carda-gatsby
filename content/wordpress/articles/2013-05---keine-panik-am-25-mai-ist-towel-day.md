@@ -2,8 +2,6 @@
 date: 2013-05-24T07:00:09.000Z
 slug: towel-day
 path: /2013/05/towel-day/
-type: Artikel
-typeName: Artikel
 title: Keine Panik! Am 25. Mai ist Towel Day!
 seoTitle: Keine Panik! Am 25. April ist Towel Day!
 ogTitle: Keine Panik! Am 25. April ist Towel Day!

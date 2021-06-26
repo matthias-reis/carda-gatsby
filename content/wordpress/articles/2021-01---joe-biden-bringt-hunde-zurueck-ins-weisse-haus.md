@@ -2,8 +2,6 @@
 date: 2021-01-14T11:48:01.000Z
 slug: joe-biden-hunde
 path: /2021/01/joe-biden-hunde/
-type: Artikel
-typeName: Artikel
 title: Joe Biden bringt Hunde zurück ins Weiße Haus
 seoTitle: Joe Biden bringt Hunde zurück ins Weiße Haus – Indoguration am 17. 1.
 ogTitle: Joe Biden bringt Hunde zurück ins Weiße Haus – Indoguration am 17. 1.

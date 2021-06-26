@@ -2,8 +2,6 @@
 date: 2011-05-24T08:45:38.000Z
 slug: supergau-in-japan-und-opium-furs-volk
 path: /2011/05/supergau-in-japan-und-opium-furs-volk/
-type: Artikel
-typeName: Artikel
 title: Supergau in Japan
 seoTitle: Supergau in Japan - Opium für's Volk
 ogTitle: Supergau in Japan - Opium für's Volk

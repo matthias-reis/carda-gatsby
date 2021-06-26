@@ -2,8 +2,6 @@
 date: 2011-06-22T12:09:37.000Z
 slug: sommerregen-fernweh-und-wodkaverbot
 path: /2011/06/sommerregen-fernweh-und-wodkaverbot/
-type: Artikel
-typeName: Artikel
 title: Sommerregen, Fernweh und Wodkaverbot
 seoTitle: Sommerregen, Fernweh und Wodkaverbot - Tagebucheintrag
 ogTitle: Sommerregen, Fernweh und Wodkaverbot - Tagebucheintrag

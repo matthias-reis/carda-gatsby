@@ -2,8 +2,6 @@
 date: 2016-02-08T15:59:11.000Z
 slug: zentangle-malen-als-kreative-prokrastination
 path: /2016/02/zentangle-malen-als-kreative-prokrastination/
-type: Artikel
-typeName: Artikel
 title: Zentangle
 seoTitle: Zentangle - Malen als kreative Prokrastination
 ogTitle: Zentangle - Malen als kreative Prokrastination

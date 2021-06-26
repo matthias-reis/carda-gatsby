@@ -2,8 +2,6 @@
 date: 2019-07-10T10:14:46Z
 slug: kampf-gegen-das-bienensterben
 path: '/2019/07/kampf-gegen-das-bienensterben/'
-type: Artikel
-typeName: Artikel
 title: Kampf gegen das Bienensterben
 seoTitle: Kampf gegen das Bienensterben - Milben, Pflanzenschutzmittel, Honig
 ogTitle: Kampf gegen das Bienensterben - Milben, Pflanzenschutzmittel, Honig

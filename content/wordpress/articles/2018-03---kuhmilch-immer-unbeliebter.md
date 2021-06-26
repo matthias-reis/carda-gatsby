@@ -2,8 +2,6 @@
 date: 2018-03-27T08:15:50.000Z
 slug: kuhmilch-immer-unbeliebter
 path: /2018/03/kuhmilch-immer-unbeliebter/
-type: Artikel
-typeName: Artikel
 title: Kuhmilch immer unbeliebter
 seoTitle: Kuhmilch immer unbeliebter - Markt für pflanzliche Alternativen nimmt zu
 ogTitle: Kuhmilch immer unbeliebter - Markt für pflanzliche Alternativen nimmt zu

@@ -2,8 +2,6 @@
 date: 2011-04-08T07:53:52.000Z
 slug: freitag-8-april-kurz-vor-12
 path: /2011/04/freitag-8-april-kurz-vor-12/
-type: Artikel
-typeName: Artikel
 title: Freitag, 8. April kurz vor 12
 seoTitle: Freitag kurz vor 12 - Tagebucheintrag
 ogTitle: Freitag kurz vor 12 - Tagebucheintrag

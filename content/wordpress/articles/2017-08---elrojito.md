@@ -2,8 +2,6 @@
 date: 2017-08-11T10:09:32.000Z
 slug: elrojito
 path: /2017/08/elrojito/
-type: Artikel
-typeName: Artikel
 title: elrojito
 seoTitle: elrojito - Solidarischer Kaffee im Hamburger Stadtteil Ottensen
 ogTitle: elrojito - Solidarischer Kaffee im Hamburger Stadtteil Ottensen

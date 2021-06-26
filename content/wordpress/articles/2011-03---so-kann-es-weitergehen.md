@@ -2,8 +2,6 @@
 date: 2011-03-01T16:59:11.000Z
 slug: so-kann-es-weitergehen
 path: /2011/03/so-kann-es-weitergehen/
-type: Artikel
-typeName: Artikel
 title: So kann es weitergehen
 seoTitle: So kann es weitergehen - neuer Tagebucheintrag
 ogTitle: So kann es weitergehen - neuer Tagebucheintrag

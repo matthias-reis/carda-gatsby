@@ -2,8 +2,6 @@
 date: 2011-03-27T08:52:46.000Z
 slug: anti-akw-demo-26-03-2011-munchen
 path: /2011/03/anti-akw-demo-26-03-2011-munchen/
-type: Artikel
-typeName: Artikel
 title: Anti AKW Demo
 seoTitle: Anti AKW Demo in München - Atomkraft, nein Danke!
 ogTitle: Anti AKW Demo in München - Atomkraft, nein Danke!

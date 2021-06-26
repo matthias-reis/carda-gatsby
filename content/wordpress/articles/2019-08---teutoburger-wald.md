@@ -2,8 +2,6 @@
 date: 2019-08-01T14:57:48.000Z
 slug: teutoburger-wald
 path: /2019/08/teutoburger-wald/
-type: Artikel
-typeName: Artikel
 title: Teutoburger Wald
 seoTitle: Der Teutoburger Wald - Sehnsuchtsort und Wanderparadies
 ogTitle: Der Teutoburger Wald - Sehnsuchtsort und Wanderparadies

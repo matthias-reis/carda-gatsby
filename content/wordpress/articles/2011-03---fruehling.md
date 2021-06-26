@@ -2,8 +2,6 @@
 date: 2011-03-12T13:52:02.000Z
 slug: fruhling
 path: /2011/03/fruhling/
-type: Artikel
-typeName: Artikel
 title: Frühling
 seoTitle: Frühling - Tagebucheintrag
 ogTitle: Frühling - Tagebucheintrag

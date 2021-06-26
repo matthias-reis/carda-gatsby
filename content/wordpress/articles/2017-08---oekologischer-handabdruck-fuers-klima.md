@@ -2,8 +2,6 @@
 date: 2017-08-18T15:00:04.000Z
 slug: oekologischer-handabdruck
 path: /2017/08/oekologischer-handabdruck/
-type: Artikel
-typeName: Artikel
 title: Ökologischer Handabdruck fürs Klima
 seoTitle: Ökologischer Handabdruck fürs Klima - Optimismus und Nachhaltigkeit
 ogTitle: Ökologischer Handabdruck fürs Klima - Optimismus und Nachhaltigkeit

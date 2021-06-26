@@ -2,8 +2,6 @@
 date: 2017-09-22T16:47:41.000Z
 slug: ich-bin-wieder-da
 path: /2017/09/ich-bin-wieder-da/
-type: Artikel
-typeName: Artikel
 title: Ich bin wieder da!
 seoTitle: Ich bin wieder da! Es geht wieder los! Viele neue Bilder für Euch!
 ogTitle: Ich bin wieder da! Es geht wieder los! Viele neue Bilder für Euch!

@@ -2,8 +2,6 @@
 date: 2020-12-22T11:53:38.000Z
 slug: ricky-gervais-brian-adams-veganuary
 path: /2020/12/ricky-gervais-brian-adams-veganuary/
-type: Artikel
-typeName: Artikel
 title: Ricky Gervais und Brian Adams kämpfen für vegan
 seoTitle: Ricky Gervais und Brian Adams kämpfen für vegan – Veganuary
 ogTitle: Ricky Gervais und Brian Adams kämpfen für vegan – Veganuary

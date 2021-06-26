@@ -2,8 +2,6 @@
 date: 2019-05-21T05:55:35.000+00:00
 slug: dunkfestival-2019
 path: '/2019/05/dunkfestival-2019/'
-type: Artikel
-typeName: Artikel
 title: Dunk!festival 2019
 seoTitle: Dunk!festival 2019 - das Line-up steht fest - diese Band sind dabei
 ogTitle: Dunk!festival 2019- das Line-up steht fest

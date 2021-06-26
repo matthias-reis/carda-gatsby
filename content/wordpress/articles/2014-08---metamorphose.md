@@ -2,8 +2,6 @@
 date: 2014-08-11T11:50:10.000Z
 slug: metamorphose
 path: /2014/08/metamorphose/
-type: Artikel
-typeName: Artikel
 title: Metamorphose
 seoTitle: Metamorphose - Die Fliege - Prosa
 ogTitle: Metamorphose - Die Fliege - Prosa

@@ -2,8 +2,6 @@
 date: 2021-03-05T13:58:18.000Z
 slug: nachhaltig-kaffee-trinken
 path: /2021/03/nachhaltig-kaffee-trinken/
-type: Artikel
-typeName: Artikel
 title: Nachhaltig Kaffee trinken
 seoTitle: Nachhaltig Kaffee trinken – Koffein und Umweltschutz – geht das?
 ogTitle: Nachhaltig Kaffee trinken – Koffein und Umweltschutz – geht das?

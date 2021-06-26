@@ -2,8 +2,6 @@
 date: 2019-08-31T10:45:18.000Z
 slug: animal-rights-march-2019
 path: /2019/08/animal-rights-march-2019/
-type: Artikel
-typeName: Artikel
 title: Animal Rights March 2019
 seoTitle: Animal Rights March 2019 - Erfolg für das Tierrechtsaktivistenbündnis
 ogTitle: Animal Rights March 2019 - Erfolg für das Tierrechtsaktivistenbündnis

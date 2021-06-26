@@ -2,8 +2,6 @@
 date: 2012-05-29T12:22:17.000Z
 slug: rote-tinte
 path: /2012/05/rote-tinte/
-type: Artikel
-typeName: Artikel
 title: Rote Tinte
 seoTitle: Rote Tinte
 ogTitle: Rote Tinte

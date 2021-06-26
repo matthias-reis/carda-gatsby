@@ -2,8 +2,6 @@
 date: 2018-07-24T14:54:12.000Z
 slug: schweden-klimaziele
 path: /2018/07/schweden-klimaziele/
-type: Artikel
-typeName: Artikel
 title: Schweden zeigt, dass die EU-Klimaziele schaffbar sind
 seoTitle: Schweden zeigt, dass die EU-Klimaziele schaffbar sind
 ogTitle: Schweden zeigt, dass die EU-Klimaziele schaffbar sind

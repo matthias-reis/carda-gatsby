@@ -2,8 +2,6 @@
 date: 2013-04-03T14:10:26.000Z
 slug: der-herbst-im-april-ein-bild-ohne-seerosen
 path: /2013/04/der-herbst-im-april-ein-bild-ohne-seerosen/
-type: Artikel
-typeName: Artikel
 title: Der Herbst im April
 seoTitle: Der Herbst im April - Bild ohne Seerosen
 ogTitle: Herbst im April - Bild ohne Seerosen

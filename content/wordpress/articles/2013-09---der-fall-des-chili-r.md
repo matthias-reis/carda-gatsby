@@ -2,8 +2,6 @@
 date: 2013-09-26T18:53:13.000Z
 slug: der-fall-des-chili-r
 path: /2013/09/der-fall-des-chili-r/
-type: Artikel
-typeName: Artikel
 title: Der Fall des Chili R.
 seoTitle: Die traurige Geschichte eines tapferen Katers - Teil III / IV
 ogTitle: Die traurige Geschichte eines tapferen Katers - Teil III / IV

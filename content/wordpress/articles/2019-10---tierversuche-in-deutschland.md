@@ -2,8 +2,6 @@
 date: 2019-10-17T11:34:11.000Z
 slug: tierversuche-in-deutschland
 path: /2019/10/tierversuche-in-deutschland/
-type: Artikel
-typeName: Artikel
 title: Tierversuche in Deutschland
 seoTitle: Tierversuche in Deutschland - die grausame Realität
 ogTitle: Tierversuche in Deutschland - die grausame Realität

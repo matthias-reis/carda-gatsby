@@ -2,8 +2,6 @@
 date: 2018-05-17T15:04:11.000Z
 slug: nette-menschen
 path: /2018/05/nette-menschen/
-type: Artikel
-typeName: Artikel
 title: Zuckersüßes Lächeln und saurer Regen
 seoTitle: Zuckersüßes Lächeln und saurer Regen - Wir sind nette Menschen - und Du?
 ogTitle: Zuckersüßes Lächeln und saurer Regen - Wir sind nette Menschen - und Du?

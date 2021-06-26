@@ -2,8 +2,6 @@
 date: 2019-06-19T13:29:07.000Z
 slug: earthship
 path: /2019/06/earthship/
-type: Artikel
-typeName: Artikel
 title: Leben im Earthship
 seoTitle: Leben im Earthship - ein Haus aus Recyclingmaterial
 ogTitle: Leben im Earthship - ein Haus aus Recyclingmaterial

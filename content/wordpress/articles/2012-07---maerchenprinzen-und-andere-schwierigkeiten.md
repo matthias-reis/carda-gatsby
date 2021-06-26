@@ -2,8 +2,6 @@
 date: 2012-07-18T16:49:10.000Z
 slug: marchenprinzen-und-andere-schwierigkeiten
 path: /2012/07/marchenprinzen-und-andere-schwierigkeiten/
-type: Artikel
-typeName: Artikel
 title: Märchenprinzen und andere Schwierigkeiten
 seoTitle: Märchenprinzen und andere Schwierigkeiten - Tagebucheintrag
 ogTitle: Märchenprinzen und andere Schwierigkeiten - Tagebucheintrag

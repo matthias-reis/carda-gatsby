@@ -2,8 +2,6 @@
 date: 2020-07-28T10:55:54.000+00:00
 slug: 12-songs-fuer-den-august-2020
 path: '/2020/07/12-songs-fuer-den-august-2020/'
-type: Artikel
-typeName: Artikel
 title: 12 Songs für den August
 seoTitle: 12 Songs für den August - Die Sommer-Musikliste 2020
 ogTitle: 12 Songs für den August - Die Sommer-Musikliste 2020

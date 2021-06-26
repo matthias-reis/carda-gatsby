@@ -2,8 +2,6 @@
 date: 2012-07-16T12:30:19.000Z
 slug: webseiten-und-usability
 path: /2012/07/webseiten-und-usability/
-type: Artikel
-typeName: Artikel
 title: Webseiten und Usability
 seoTitle: Webseiten und Usability - nach allen Regeln der Kunst
 ogTitle: Webseiten und Usability - nach allen Regeln der Kunst

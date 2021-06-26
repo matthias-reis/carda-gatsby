@@ -2,8 +2,6 @@
 date: 2019-08-28T10:52:58.000+00:00
 slug: 12-songs-fuer-den-september-2019
 path: '/2019/08/12-songs-fuer-den-september-2019/'
-type: Artikel
-typeName: Artikel
 title: 12 Songs für den September 2019
 seoTitle: 12 Songs für den September - präsentiert von den drei von der Bande
 ogTitle: 12 Songs für den September - präsentiert von den drei von der Bande

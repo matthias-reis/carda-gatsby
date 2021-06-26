@@ -2,8 +2,6 @@
 date: 2014-11-28T10:22:16.000+00:00
 slug: fakepelz-echtpelz
 path: '/2014/11/fakepelz-echtpelz/'
-type: Artikel
-typeName: Artikel
 title: Fakepelz = Echtpelz
 seoTitle: Fakepelz = Echtpelz - warum Veganer auf Tierhaut verzichten
 ogTitle: Fakepelz = Echtpelz - warum Veganer auf Tierhaut verzichten

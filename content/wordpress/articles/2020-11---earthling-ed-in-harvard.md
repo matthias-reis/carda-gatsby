@@ -2,8 +2,6 @@
 date: 2020-11-10T13:42:54.000Z
 slug: earthling-ed-harvard
 path: /2020/11/earthling-ed-harvard/
-type: Artikel
-typeName: Artikel
 title: Earthling Ed in Harvard
 seoTitle: Earthling Ed in Harvard – Vegan-Aktivist referiert an Elite-Uni
 ogTitle: Earthling Ed in Harvard – Vegan-Aktivist referiert an Elite-Uni

@@ -2,8 +2,6 @@
 date: 2020-05-26T12:32:46.000+00:00
 slug: granada
 path: '/2020/05/granada/'
-type: Artikel
-typeName: Artikel
 title: Granada
 seoTitle: Granada - Besuch der Alhambra und Altstadt
 ogTitle: Granada - Besuch der Alhambra und Altstadt

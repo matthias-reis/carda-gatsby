@@ -2,8 +2,6 @@
 date: 2009-07-13T08:23:52.000Z
 slug: pfaffenhofen-an-der-ilm
 path: /2009/07/pfaffenhofen-an-der-ilm/
-type: Artikel
-typeName: Artikel
 title: Pfaffenhofen an der Ilm
 seoTitle: Pfaffenhofen an der Ilm
 ogTitle: Pfaffenhofen an der Ilm

@@ -1,37 +1,33 @@
 ---
 date: 2017-06-23T06:15:48.000+00:00
 slug: vegane-geldboersen-von-borderdog
-path: "/2017/06/vegane-geldboersen-von-borderdog/"
-type: Artikel
-typeName: Artikel
+path: '/2017/06/vegane-geldboersen-von-borderdog/'
 title: Vegane Geldbörsen
 seoTitle: Vegane Geldbörsen von Borderdog aus Hamburg - Der ultimative Produkttest
 ogTitle: Vegane Geldbörsen von Borderdog aus Hamburg - Der ultimative Produkttest
-description: Kennt Ihr schon Borderdog? Das kleine Hamburger Start-up stellt vegane
-  Geldbörsen her. Sie sind nicht nur schlank und schick, sondern auch noch nachhaltig.
-excerpt: Kennt Ihr schon Borderdog? Das kleine Hamburger Start-up stellt vegane Geldbörsen
-  her. Sie sind nicht nur schlank und schick, sondern auch noch nachhaltig.
+description: Kennt Ihr schon Borderdog? Das kleine Hamburger Start-up stellt vegane Geldbörsen her. Sie sind nicht nur schlank und schick, sondern auch noch nachhaltig.
+excerpt: Kennt Ihr schon Borderdog? Das kleine Hamburger Start-up stellt vegane Geldbörsen her. Sie sind nicht nur schlank und schick, sondern auch noch nachhaltig.
 fileName: 2017-06---vegane-geldboersen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_34518808804_9d2defc98e_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_34518808804_9d2defc98e_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAEH/8QAKxAAAQMDAwIEBwEAAAAAAAAAAQIDBAAFERIhMQYTBxRBYRUiMlFxgZGy/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIAAwT/xAAbEQACAwEBAQAAAAAAAAAAAAAAAQIDETEhEv/aAAwDAQACEQMRAD8AURZbj7yFqZY7rKsocIUpWfm3JJ32UcbbemKboJVGithDGmJjtENjIwOPf91KQpd0L7iU2phzSrGUyFJP8KTg+1UUWdcWdK3LPpKcKAXIaUk+xCtORUUI5waTe9OXvVcH2H5gQt6OdbRDaU6D+vxxWi1qgybYw0uSYtxhurdbOspKgcElJHBGP5t9qwXi/tOSFrlfCLapW+hyWCE/hKCf9UpDjr1wabgy5D8p7QloR4h0gu5S2oAgA53wScUkq04+LCuytWr5kyR62iiN1hMhRZEtuOh9tlKPMLIGUIJIGfUqO3pxXvXSfhXb+m4U2fIdj3QPsBCW5MX6D3E5OrWTuE42xzzRRWheA3SI8XW4jd0that0GOlMVxsNxWEtIGlZOQN8ZKieafdIzXu94aysNHzLbsNYUjKglkrCCFc8Hg5GwoooWcQ0en//2Q==
-ogImage: 
+ogImage:
 labels:
-- Borderdog
-- Fair Fashion & Beauty
-- Hamburg
-- Kiezmode
-- minimalism
-- Minimalismus
-- Mode
-- Moshen
-- Nachhaltigkeit
-- Snap Pap
-- St. Pauli
-- vegan
-- vegane Geldbörsen
-- vegane Mode
-- veganes Leder
+  - Borderdog
+  - Fair Fashion & Beauty
+  - Hamburg
+  - Kiezmode
+  - minimalism
+  - Minimalismus
+  - Mode
+  - Moshen
+  - Nachhaltigkeit
+  - Snap Pap
+  - St. Pauli
+  - vegan
+  - vegane Geldbörsen
+  - vegane Mode
+  - veganes Leder
 focusKeyword: Vegane Geldbörsen
 status: publish
 isWerbung: false
@@ -40,8 +36,8 @@ language: de
 errors: {}
 subTitle: Borderdog aus Hamburg
 advertisement: true
-
 ---
+
 **Kennt Ihr schon Borderdog? Das kleine Hamburger Start-up stellt vegane Geldbörsen her. Das Material: Papier. Dennoch sind die Portemonnaies stabil und belastbar.**
 
 <RemoteImage

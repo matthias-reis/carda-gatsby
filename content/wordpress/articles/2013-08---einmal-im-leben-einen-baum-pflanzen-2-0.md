@@ -2,8 +2,6 @@
 date: 2013-08-14T12:17:03.000Z
 slug: einmal-im-leben-einen-baum-pflanzen-2-0
 path: /2013/08/einmal-im-leben-einen-baum-pflanzen-2-0/
-type: Artikel
-typeName: Artikel
 title: Einmal im Leben einen Baum pflanzen 2.0
 seoTitle: Einmal im Leben einen Baum pflanzen 2.0
 ogTitle: Einmal im Leben einen Baum pflanzen 2.0

@@ -2,8 +2,6 @@
 date: 2021-01-21T05:00:29.000Z
 slug: musikliste-fuer-den-februar-2021
 path: /2021/01/musikliste-fuer-den-februar-2021/
-type: Artikel
-typeName: Artikel
 title: Musikliste für den Februar
 seoTitle: Musikliste für den Februar – 12 Songs von Post-Rock bis Pop
 ogTitle: Musikliste für den Februar – 12 Songs von Post-Rock bis Pop

@@ -2,8 +2,6 @@
 date: 2011-02-16T14:19:37.000Z
 slug: umzug-zu-wordpress
 path: /2011/02/umzug-zu-wordpress/
-type: Artikel
-typeName: Artikel
 title: Umzug zu Wordpress
 seoTitle: Mein Blog zieht um zu Wordpress - Tagebucheintrag
 ogTitle: Mein Blog zieht um zu Wordpress - Tagebucheintrag

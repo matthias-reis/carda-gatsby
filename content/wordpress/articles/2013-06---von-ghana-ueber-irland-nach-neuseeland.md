@@ -2,8 +2,6 @@
 date: 2013-06-14T16:16:53.000Z
 slug: von-ghana-uber-irland-nach-neuseeland
 path: /2013/06/von-ghana-uber-irland-nach-neuseeland/
-type: Artikel
-typeName: Artikel
 title: Von Ghana über Irland nach Neuseeland
 seoTitle: Von Ghana über Irland nach Neuseeland - Postkarten
 ogTitle: Von Ghana über Irland nach Neuseeland - Postkarten

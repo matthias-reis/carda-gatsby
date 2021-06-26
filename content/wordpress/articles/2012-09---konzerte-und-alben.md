@@ -2,8 +2,6 @@
 date: 2012-09-04T12:59:58.000Z
 slug: konzerte-und-alben
 path: /2012/09/konzerte-und-alben/
-type: Artikel
-typeName: Artikel
 title: Konzerte und Alben
 seoTitle: Konzerte und Alben
 ogTitle: Konzerte und Alben

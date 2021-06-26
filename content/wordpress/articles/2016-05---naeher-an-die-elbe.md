@@ -2,8 +2,6 @@
 date: 2016-05-26T09:00:07.000Z
 slug: an-die-elbe-wir-ziehen-um
 path: /2016/05/an-die-elbe-wir-ziehen-um/
-type: Artikel
-typeName: Artikel
 title: Näher an die Elbe
 seoTitle: Näher an die Elbe - Wir ziehen wieder um
 ogTitle: Näher an die Elbe - Wir ziehen um

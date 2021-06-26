@@ -2,8 +2,6 @@
 date: 2020-10-27T10:52:24.000Z
 slug: khary-payton-vegan
 path: /2020/10/khary-payton-vegan/
-type: Artikel
-typeName: Artikel
 title: Khary Payton
 seoTitle: 'Khary Payton: Walking Dead Star lebt seit einem Jahr vegan'
 ogTitle: 'Khary Payton: Walking Dead Star lebt seit einem Jahr vegan'

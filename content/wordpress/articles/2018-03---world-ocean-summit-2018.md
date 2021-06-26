@@ -2,8 +2,6 @@
 date: 2018-03-15T14:00:24.000Z
 slug: world-ocean-summit-2018
 path: /2018/03/world-ocean-summit-2018/
-type: Artikel
-typeName: Artikel
 title: World Ocean Summit 2018
 seoTitle: World Ocean Summit 2018 - Aufruf zur Säuberung der Meere
 ogTitle: World Ocean Summit 2018 - Aufruf zur Säuberung der Meere

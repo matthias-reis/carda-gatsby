@@ -2,8 +2,6 @@
 date: 2018-03-13T18:42:06.000+00:00
 slug: 10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste
 path: '/2018/03/10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste/'
-type: Artikel
-typeName: Artikel
 title: 10 Alben - Keine Erklärung - Teil 2/3
 seoTitle: 10 Alben - Keine Erklärung - Die Lieblingsplattenliste eines Gartenbloggers
 ogTitle: 10 Alben - Keine Erklärung - Die Lieblingsplattenliste eines Gartenbloggers

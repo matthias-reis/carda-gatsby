@@ -2,8 +2,6 @@
 date: 2017-12-16T08:39:47.000+00:00
 slug: die-ultimative-songliste-2017-musikalischer-jahresrueckblick
 path: '/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/'
-type: Artikel
-typeName: Artikel
 title: Die ultimative Songliste 2017
 seoTitle: Die ultimative Songliste 2017 - Musikalischer Jahresrückblick
 ogTitle: Die ultimative Songliste 2017 - Musikalischer Jahresrückblick

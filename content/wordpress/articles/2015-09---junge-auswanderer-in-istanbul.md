@@ -2,8 +2,6 @@
 date: 2015-09-05T18:31:39.000Z
 slug: junge-auswanderer-in-istanbul
 path: /2015/09/junge-auswanderer-in-istanbul/
-type: Artikel
-typeName: Artikel
 title: Junge Auswanderer in Istanbul
 seoTitle: Junge Auswanderer in Istanbul - Marie von Maviblau berichtet
 ogTitle: Junge Auswanderer in Istanbul - Marie von Maviblau berichtet

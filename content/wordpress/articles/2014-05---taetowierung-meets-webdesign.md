@@ -2,8 +2,6 @@
 date: 2014-05-20T11:46:53.000Z
 slug: tatoo-meets-webdesign
 path: /2014/05/tatoo-meets-webdesign/
-type: Artikel
-typeName: Artikel
 title: Tätowierung meets Webdesign
 seoTitle: Tätowierung vom Meister und Webdesign
 ogTitle: Tätowierung vom Meister und Webdesign

@@ -2,8 +2,6 @@
 date: 2015-10-24T16:00:40.000Z
 slug: gruener-kaffee
 path: /2015/10/gruener-kaffee/
-type: Artikel
-typeName: Artikel
 title: Grüner Kaffee
 seoTitle: Grüner Kaffee - gesund und gut für die Figur
 ogTitle: Grüner Kaffee - gesund und gut für die Figur

@@ -2,8 +2,6 @@
 date: 2015-06-11T15:51:20.000Z
 slug: laufen-mit-den-helden-meiner-jugend
 path: /2015/06/laufen-mit-den-helden-meiner-jugend/
-type: Artikel
-typeName: Artikel
 title: Laufen mit den Helden meiner Jugend
 seoTitle: Laufen mit den Helden meiner Jugend
 ogTitle: Laufen mit den Helden meiner Jugend

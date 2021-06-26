@@ -2,8 +2,6 @@
 date: 2016-05-19T13:03:14.000Z
 slug: naturschutzgebiet-boberger-niederung
 path: /2016/05/naturschutzgebiet-boberger-niederung/
-type: Artikel
-typeName: Artikel
 title: Naturschutzgebiet Boberger Niederung
 seoTitle: Naturschutzgebiet Boberger Niederung
 ogTitle: Naturschutzgebiet Boberger Niederung

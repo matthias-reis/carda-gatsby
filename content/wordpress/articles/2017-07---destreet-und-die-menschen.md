@@ -2,8 +2,6 @@
 date: 2017-07-04T09:13:18.000+00:00
 slug: destreet
 path: '/2017/07/destreet/'
-type: Artikel
-typeName: Artikel
 title: Destreet und die Menschen
 seoTitle: Destreet und die Menschen - Ein Ugandischer Künstler in Hamburg
 ogTitle: Destreet und die Menschen - Ein Ugandischer Künstler in Hamburg

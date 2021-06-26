@@ -2,8 +2,6 @@
 date: 2009-09-26T06:37:03.000Z
 slug: karlshuld
 path: /2009/09/karlshuld/
-type: Artikel
-typeName: Artikel
 title: Karlshuld
 seoTitle: Karlshuld - Eine Gemeinde mit vielen Teilen
 ogTitle: Karlshuld - Eine Gemeinde mit vielen Teilen

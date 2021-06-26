@@ -2,8 +2,6 @@
 date: 2019-01-16T07:16:44.000Z
 slug: der-stift
 path: /2019/01/der-stift/
-type: Artikel
-typeName: Artikel
 title: Der Stift
 seoTitle: Der Stift - Anfang einer Geschichte, die spannend werden könnte
 ogTitle: Der Stift - Anfang einer Geschichte, die spannend werden könnte

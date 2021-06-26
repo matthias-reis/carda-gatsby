@@ -1,29 +1,25 @@
 ---
 date: 2015-12-05T18:43:57.000+00:00
 slug: die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da
-path: "/2015/12/die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da/"
-type: Artikel
-typeName: Artikel
+path: '/2015/12/die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da/'
 title: Die sechste Ausgabe vom Welt Vegan Magazin ist da!
 seoTitle: Die 6. Ausgabe vom Welt Vegan Magazin ist da - Meine Artikel
 ogTitle: Die 6. Ausgabe vom Welt Vegan Magazin ist da - Meine Artikel
-description: Das neue Welt Vegan Magazin ist da - Auch aus meiner Feder sind wieder
-  zwei Artikel mit dabei. Das Cover ziert dieses Mal ein Aktfoto von Nova Meierhenrich
-excerpt: Das neue Welt Vegan Magazin ist da - Auch aus meiner Feder sind wieder zwei
-  Artikel mit dabei. Das Cover ziert dieses Mal ein Aktfoto von Nova Meierhenrich
+description: Das neue Welt Vegan Magazin ist da - Auch aus meiner Feder sind wieder zwei Artikel mit dabei. Das Cover ziert dieses Mal ein Aktfoto von Nova Meierhenrich
+excerpt: Das neue Welt Vegan Magazin ist da - Auch aus meiner Feder sind wieder zwei Artikel mit dabei. Das Cover ziert dieses Mal ein Aktfoto von Nova Meierhenrich
 fileName: 2015-12---die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23541563825_1145b80465_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23541563825_1145b80465_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACYQAAIBAwQCAQUBAAAAAAAAAAECAwQFEQAGEiETMVEHIjJCYUH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIFBv/EAB8RAAICAgIDAQAAAAAAAAAAAAECABESIQNRMUGRwf/aAAwDAQACEQMRAD8AlW3KCmlqWe6T+GiSNnZgjNjrC9AZ/IjTtt+y7XvEdQlve6V01PgTtTQDjHnOM8gCPXydJ1UFXbcohDszyRRt41DHGS3o+/w1QfpdaKXb+27lfKu5PBUV0Aljo2ZYgEVjwZwe8swPHBHWf81icYDcZYjdzocsXCBb+/hESLbT0lRc5+MEcyU1wCxdHjNCC5Xkpb2fH2OveNM31ek2dVWkNZqZoLlHJwjh8PjCIW5M2FPHHsd571k17Ub7o3Q9DE4iZY5CYowYshl+7mP2JZuv4dKl4IHkJLFnOWJbJJ/uk9BwAOjIUNjZPYmptuOluEE0FwjmkjSWOQCORV/Vxg8lb51QLFcIo9rLZqyB6s+QE1DyDlxGAqjKnAAAAGesaNGi61Aebi3WpLa6G7xxzs8NRyZl4hT6woJHRx79fOp/XyM2STo0aoHJrMTOzLR9an//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23541563825_1145b80465_z__l.jpg
 labels:
-- Freelancerin
-- Geschichten & Erlebtes
-- Redakteurin
-- Texterin
-- vegan
-- Welt Vegan Magazin
-- serie:Welt Vegan Magazin
+  - Freelancerin
+  - Geschichten & Erlebtes
+  - Redakteurin
+  - Texterin
+  - vegan
+  - Welt Vegan Magazin
+  - serie:Welt Vegan Magazin
 focusKeyword: Welt Vegan Magazin
 status: publish
 isWerbung: false
@@ -31,8 +27,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Zwei Artikel aus meiner Feder
-
 ---
+
 <RemoteImage
   alt={`Der Wohlfühl-Guide aus meiner Feder`}
   size="medium"

@@ -2,8 +2,6 @@
 date: 2009-09-26T06:52:48.000Z
 slug: manching
 path: /2009/09/manching/
-type: Artikel
-typeName: Artikel
 title: Manching
 seoTitle: Manching - Eine Gemeinde im Herzogtum Neuburg-Sulzbach
 ogTitle: Manching - Eine Gemeinde im Herzogtum Neuburg-Sulzbach

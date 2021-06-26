@@ -2,8 +2,6 @@
 date: 2017-03-20T12:02:14.000Z
 slug: katzenlogik-und-kaesekram
 path: /2017/03/katzenlogik-und-kaesekram/
-type: Artikel
-typeName: Artikel
 title: Katzenlogik und Käsekram
 seoTitle: Katzenlogik und Käsekram - Tagebucheintrag - Dann ist alles eskaliert
 ogTitle: Katzenlogik und Käsekram - Tagebucheintrag - Dann ist alles eskaliert

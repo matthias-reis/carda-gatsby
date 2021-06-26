@@ -2,8 +2,6 @@
 date: 2016-05-13T18:54:45.000Z
 slug: gegensaetze-hamburger-stadpark
 path: /2016/05/gegensaetze-hamburger-stadpark/
-type: Artikel
-typeName: Artikel
 title: Gegensätze ziehen sich an
 seoTitle: Gegensätze ziehen sich an - Kontraste im Hamburger Stadtpark
 ogTitle: Gegensätze ziehen sich an - Kontraste im Hamburger Stadtpark

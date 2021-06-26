@@ -2,8 +2,6 @@
 date: 2013-06-05T16:37:14.000Z
 slug: istanbul-mit-anderen-augen
 path: /2013/06/istanbul-mit-anderen-augen/
-type: Artikel
-typeName: Artikel
 title: Istanbul mit anderen Augen
 seoTitle: Istanbul mit anderen Augen - Mehr als eine Liebesgeschichte
 ogTitle: Istanbul mit anderen Augen - Mehr als eine Liebesgeschichte

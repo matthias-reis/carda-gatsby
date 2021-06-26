@@ -2,8 +2,6 @@
 date: 2012-02-02T10:30:07.000Z
 slug: wenn-die-holle-zufriert
 path: /2012/02/wenn-die-holle-zufriert/
-type: Artikel
-typeName: Artikel
 title: Wenn die Hölle zufriert
 seoTitle: Wenn die Hölle zufriert - ein winterlicher Tagebucheintrag
 ogTitle: Wenn die Hölle zufriert - ein winterlicher Tagebucheintrag

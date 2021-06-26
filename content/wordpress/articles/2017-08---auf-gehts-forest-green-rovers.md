@@ -2,8 +2,6 @@
 date: 2017-08-17T08:06:59.000Z
 slug: forest-green-rovers
 path: /2017/08/forest-green-rovers/
-type: Artikel
-typeName: Artikel
 title: Auf geht's, Forest Green Rovers!
 seoTitle: Auf geht's, Forest Green Rovers - Englands grüne Fußballer kicken vegan
 ogTitle: Auf geht's Green Rovers - Englands grüne Fußballer kicken vegan

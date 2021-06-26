@@ -2,8 +2,6 @@
 date: 2010-07-23T15:23:59.000Z
 slug: grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden
 path: /2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/
-type: Artikel
-typeName: Artikel
 title: Grausame Tierversuche in der Kosmetikindustrie
 seoTitle: Tierversuche in der Kosmetikindustrie - diese Produkte sind qualfrei
 ogTitle: Tierversuche in der Kosmetikindustrie - diese Produkte sind qualfrei

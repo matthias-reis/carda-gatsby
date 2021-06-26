@@ -2,8 +2,6 @@
 date: 2015-12-01T11:50:53.000Z
 slug: tierisch-hintergruendig-bilder-von-denise-slapansky
 path: /2015/12/tierisch-hintergruendig-bilder-von-denise-slapansky/
-type: Artikel
-typeName: Artikel
 title: Tierisch hintergründig
 seoTitle: Tierisch hintergründig - Bilder von Denise Slapansky
 ogTitle: Tierisch hintergründig - Bilder von Denise Slapansky

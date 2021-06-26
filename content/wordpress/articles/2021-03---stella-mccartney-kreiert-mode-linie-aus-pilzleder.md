@@ -2,8 +2,6 @@
 date: 2021-03-24T13:01:33.000Z
 slug: stella-mccartney-vegane-lederalternative-pilz
 path: /2021/03/stella-mccartney-vegane-lederalternative-pilz/
-type: Artikel
-typeName: Artikel
 title: Stella McCartney kreiert Mode-Linie aus Pilzleder
 seoTitle: Stella McCartney kreiert mit Bolt Threads Mode-Linie aus Pilzleder
 ogTitle: Stella McCartney kreiert mit Bolt Threads Mode-Linie aus Pilzleder

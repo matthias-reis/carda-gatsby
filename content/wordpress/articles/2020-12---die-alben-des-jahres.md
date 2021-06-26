@@ -2,8 +2,6 @@
 date: 2020-12-14T11:30:41.000Z
 slug: alben-des-jahres-2020
 path: /2020/12/alben-des-jahres-2020/
-type: Artikel
-typeName: Artikel
 title: Die Alben des Jahres
 seoTitle: Die Alben des Jahres – von Post-Rock bis Metal
 ogTitle: Die Alben des Jahres – von Post-Rock bis Metal

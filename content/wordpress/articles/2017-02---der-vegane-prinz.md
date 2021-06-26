@@ -2,8 +2,6 @@
 date: 2017-02-14T11:30:36.000Z
 slug: prinz-vegan-khaled-bin-alwaleed
 path: /2017/02/prinz-vegan-khaled-bin-alwaleed/
-type: Artikel
-typeName: Artikel
 title: Der vegane Prinz
 seoTitle: Der vegane Prinz Khaled bin Alwaleed kämpft für Solarstrom
 ogTitle: Der vegane Prinz Khaled bin Alwaleed kämpft für Solarstrom

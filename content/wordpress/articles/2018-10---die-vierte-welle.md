@@ -1,36 +1,31 @@
 ---
 date: 2018-10-09T05:04:51.000+00:00
 slug: kurzgeschichte-die-vierte-welle
-path: "/2018/10/kurzgeschichte-die-vierte-welle/"
-type: Artikel
-typeName: Artikel
+path: '/2018/10/kurzgeschichte-die-vierte-welle/'
 title: Die vierte Welle
 seoTitle: Die vierte Welle - Unsere Science-Fiction Kurzgeschichte ist veröffentlicht!
 ogTitle: Die vierte Welle - Unsere Science-Fiction Kurzgeschichte ist veröffentlicht!
-description: 'Heute lüfte ich endlich das Geheimnis: Matze und ich haben eine Science-Fiction
-  Kurzgeschichte veröffentlicht. Doch: "Die vierte Welle" ist erst der Anfang!'
-excerpt: 'Heute ist es endlich soweit und ich lüfte das Geheimnis: Matze und ich haben
-  eine Science-Fiction Kurzgeschichte veröffentlicht. Der Clou: "Die vierte Welle"
-  ist erst der Anfang!'
+description: 'Heute lüfte ich endlich das Geheimnis: Matze und ich haben eine Science-Fiction Kurzgeschichte veröffentlicht. Doch: "Die vierte Welle" ist erst der Anfang!'
+excerpt: 'Heute ist es endlich soweit und ich lüfte das Geheimnis: Matze und ich haben eine Science-Fiction Kurzgeschichte veröffentlicht. Der Clou: "Die vierte Welle" ist erst der Anfang!'
 fileName: 2018-10---die-vierte-welle.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_cover-image-only__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_cover-image-only__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAAqEAACAQMDAwQABwAAAAAAAAABAgMEBREAEiEHMVEGEyJBFCNhYnGRof/EABYBAQEBAAAAAAAAAAAAAAAAAAEEAP/EABwRAAMAAgMBAAAAAAAAAAAAAAABAjFBAxETUf/aAAwDAQACEQMRAD8AXsPTFJmRri8kUf2Ef5D/ADVmo6W2/wBnNLUS7weznIYeP0OrXu3alp5Zz6jgaB2Gyompw8UYOcKVA+J+9xJGAOfKS/jaiouTNIKqKmbdUGC4PGzoUAJQ7uQTkgD+O3Gq27eyVKPhJTpjET8m/pjrtL0tjUExzbuM4yRqxBcppJkWavutFRoEXLU53sMDJBCnsQR3Pn70nTXKGmSeomvdwrYVnKx1O90iz5YZBY/tAwMcA5J0L0eRb41gzNne5LX0UENqr6WZ/wAiNBCQrMQQAWIAGeeTxrb2+mtsLlYo2uVZT07s1PRyt7UTMNmxY9gOMMxBDDnJAxjRo03TYRKQxZ6i9UEFO88lyhSOIRR0TRxSRqxbLOx3ByMdgTx9Z1k7z6Tlq5Y5RTTNtqGljaleKH2A7HfmNyd4xtIAYY86NGtK2FZ6P//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2018_10_cover-image-only__l.jpg
 labels:
-- A. M. Reis
-- Autoren
-- Autorenehepaar
-- Bücher & Filme
-- Die vierte Welle
-- dievierteWelle
-- E-Book
-- Kindle
-- Kurzgeschichte
-- Schriftsteller
-- Science-Fiction
-- Science-Fiction Kurzgeschichte
-- Short Story
+  - A. M. Reis
+  - Autoren
+  - Autorenehepaar
+  - Bücher & Filme
+  - Die vierte Welle
+  - dievierteWelle
+  - E-Book
+  - Kindle
+  - Kurzgeschichte
+  - Schriftsteller
+  - Science-Fiction
+  - Science-Fiction Kurzgeschichte
+  - Short Story
 focusKeyword: Science-Fiction Kurzgeschichte
 status: publish
 isWerbung: false
@@ -40,8 +35,8 @@ errors: {}
 subTitle: Science-Fiction aus dem Hause Reis
 advertisement: true
 affiliate: true
-
 ---
+
 **Heute ist es endlich soweit und ich lüfte das Geheimnis, das ich so lange gehütet habe: Matze und ich haben zusammen eine Kurzgeschichte geschrieben. Doch "Die vierte Welle", so haben wir unser Werk getauft, ist erst der Anfang!**
 
 Das klingt spannend, oder? Ihr könnt Euch gar nicht vorstellen, wie sehr ich mich freue! **"Die vierte Welle"** wurde bereits veröffentlicht und das Tolle ist: Ihr könnt sie sofort lesen, wenn Ihr wollt!

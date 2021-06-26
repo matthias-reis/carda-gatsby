@@ -2,8 +2,6 @@
 date: 2013-01-08T14:03:51.000Z
 slug: tiere-auf-glas
 path: /2013/01/tiere-auf-glas/
-type: Artikel
-typeName: Artikel
 title: Tiere auf Glas
 seoTitle: Tiere auf Glas - Pfoten und Fell
 ogTitle: Tiere auf Glas - Pfoten und Fell

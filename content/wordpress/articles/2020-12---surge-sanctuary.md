@@ -2,8 +2,6 @@
 date: 2020-12-26T14:06:17.000Z
 slug: earthling-ed-surge-sanctuary
 path: /2020/12/earthling-ed-surge-sanctuary/
-type: Artikel
-typeName: Artikel
 title: Surge Sanctuary
 seoTitle: Surge Sanctuary – Tierrechtsaktivist Earthling Ed plant Hof für Tiere
 ogTitle: Surge Sanctuary – Tierrechtsaktivist Earthling Ed plant Hof für Tiere

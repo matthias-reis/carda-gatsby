@@ -2,8 +2,6 @@
 date: 2019-09-20T14:48:24.000Z
 slug: allefuersklima-hamburg
 path: /2019/09/allefuersklima-hamburg/
-type: Artikel
-typeName: Artikel
 title: '#allefuersklima - 100.000 demonstrieren in Hamburg'
 seoTitle: '#allefuersklima - 100.000 Menschen streiken in Hamburg fürs Klima'
 ogTitle: '#allefuersklima - 100.000 Menschen streiken in Hamburg fürs Klima'

@@ -2,8 +2,6 @@
 date: 2018-04-18T16:15:42.000Z
 slug: forscher-hoffen-auf-plastikfressendes-enzym
 path: /2018/04/forscher-hoffen-auf-plastikfressendes-enzym/
-type: Artikel
-typeName: Artikel
 title: Forscher hoffen auf plastikfressendes Enzym
 seoTitle: Forscher hoffen auf plastikfressendes Enzym - Serendipitiy Meeresretter?
 ogTitle: Forscher hoffen auf plastikfressendes Enzym - Serendipitiy vielleicht Retter der Weltmeere

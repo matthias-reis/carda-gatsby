@@ -2,8 +2,6 @@
 date: 2016-09-15T10:35:49.000Z
 slug: thomas-d-im-welt-vegan-magazin
 path: /2016/09/thomas-d-im-welt-vegan-magazin/
-type: Artikel
-typeName: Artikel
 title: Thomas D is in da house
 seoTitle: Thomas D im Interview - Das neue Welt Vegan Magazin ist da
 ogTitle: Thomas D im Interview - Das neue Welt Vegan Magazin ist da

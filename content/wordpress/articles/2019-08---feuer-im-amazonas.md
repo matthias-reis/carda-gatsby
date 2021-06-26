@@ -2,8 +2,6 @@
 date: 2019-08-26T12:38:32.000Z
 slug: feuer-im-regenwald-amazonas
 path: /2019/08/feuer-im-regenwald-amazonas/
-type: Artikel
-typeName: Artikel
 title: Feuer im Amazonas
 seoTitle: Feuer im Amazonas - Umweltkatastrophe durch Konsum
 ogTitle: Feuer im Amazonas - Umweltkatastrophe durch Konsum

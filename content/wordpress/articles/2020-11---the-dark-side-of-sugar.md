@@ -2,8 +2,6 @@
 date: 2020-11-18T09:53:32.000Z
 slug: the-dark-side-of-sugar-zucker-songs
 path: /2020/11/the-dark-side-of-sugar-zucker-songs/
-type: Artikel
-typeName: Artikel
 title: The Dark Side Of Sugar
 seoTitle: The Dark Side Of Sugar – Metal Band covert zuckrige Songs
 ogTitle: The Dark Side Of Sugar – Metal Band covert zuckige Pop-Songs

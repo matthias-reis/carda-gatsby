@@ -2,8 +2,6 @@
 date: 2019-09-05T14:40:37.000Z
 slug: zu-gast-in-flensburg
 path: /2019/09/zu-gast-in-flensburg/
-type: Artikel
-typeName: Artikel
 title: Zu Gast in Flensburg
 seoTitle: Zu Gast in Flensburg - veganer Wochenendtripp in den hohen Norden
 ogTitle: Zu Gast in Flensburg - veganer Wochenendtripp in den hohen Norden

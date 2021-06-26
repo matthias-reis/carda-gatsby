@@ -2,8 +2,6 @@
 date: 2019-12-02T08:25:21.000Z
 slug: 10-tipps-gegen-negativitaet
 path: /2019/12/10-tipps-gegen-negativitaet/
-type: Artikel
-typeName: Artikel
 title: 10 Tipps gegen Negativität
 seoTitle: 10 Tipps, wie Du Negativität loswirst
 ogTitle: 10 Tipps, wie Du Negativität loswirst

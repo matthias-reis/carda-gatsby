@@ -2,8 +2,6 @@
 date: 2016-05-06T08:46:35.000Z
 slug: david-bowie-shirt-upcycling-stickere
 path: /2016/05/david-bowie-shirt-upcycling-stickere/
-type: Artikel
-typeName: Artikel
 title: David Bowie Shirt gerettet
 seoTitle: David Bowie Shirt gerettet - Upcycling Stickerei für Musikfans
 ogTitle: David Bowie Shirt gerettet - Upcycling Stickerei für Musikfans

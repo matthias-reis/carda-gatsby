@@ -2,8 +2,6 @@
 date: 2017-10-17T15:42:56.000+00:00
 slug: guinness-ist-vegan-brauerei-besuch
 path: '/2017/10/guinness-ist-vegan-brauerei-besuch/'
-type: Artikel
-typeName: Artikel
 title: Guinness ist vegan!
 seoTitle: Guinness ist vegan! Wir haben die Brauerei in Dublin besucht
 ogTitle: Guinness ist vegan! Wir haben die Brauerei in Dublin besucht

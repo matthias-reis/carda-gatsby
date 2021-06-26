@@ -2,8 +2,6 @@
 date: 2015-09-25T15:00:18.000Z
 slug: diy-upcycling-umhaengetasche
 path: /2015/09/diy-upcycling-umhaengetasche/
-type: Artikel
-typeName: Artikel
 title: DIY Upcycling Umhängetasche
 seoTitle: DIY Upcycling Umhängetasche
 ogTitle: DIY Upcycling Umhängetasche

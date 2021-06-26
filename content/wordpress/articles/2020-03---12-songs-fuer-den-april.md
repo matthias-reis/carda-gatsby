@@ -2,8 +2,6 @@
 date: 2020-03-26T07:00:53.000Z
 slug: 12-songs-fuer-den-april-2020
 path: /2020/03/12-songs-fuer-den-april-2020/
-type: Artikel
-typeName: Artikel
 title: 12 Songs für den April
 seoTitle: 12 Songs für den April - frisch selektiert
 ogTitle: 12 Songs für den April - frisch selektiert

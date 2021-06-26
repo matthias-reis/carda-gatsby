@@ -2,8 +2,6 @@
 date: 2017-02-15T20:32:19.000Z
 slug: kosmetiktasche-zum-selbernaehen
 path: /2017/02/kosmetiktasche-zum-selbernaehen/
-type: Artikel
-typeName: Artikel
 title: Kosmetiktasche zum Selbernähen
 seoTitle: Kosmetiktasche zum Selbernähen - DIY-Anleitung für Dich
 ogTitle: Kosmetiktasche zum Selbernähen - DIY-Anleitung für Dich

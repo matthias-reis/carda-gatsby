@@ -2,8 +2,6 @@
 date: 2012-06-15T09:10:52.000Z
 slug: alte-tagebucheintrage-und-urlaub-auf-inseln
 path: /2012/06/alte-tagebucheintrage-und-urlaub-auf-inseln/
-type: Artikel
-typeName: Artikel
 title: Alte Tagebucheinträge und Urlaub auf Inseln
 seoTitle: Alte Tagebucheinträge und Urlaub auf Inseln
 ogTitle: Alte Tagebucheinträge und Urlaub auf Inseln

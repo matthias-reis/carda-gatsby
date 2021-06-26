@@ -2,8 +2,6 @@
 date: 2017-02-16T10:46:03.000Z
 slug: neue-bauernregeln
 path: /2017/02/neue-bauernregeln/
-type: Artikel
-typeName: Artikel
 title: Ab jetzt gelten neue Bauernregeln
 seoTitle: Ab jetzt gelten neue Bauernregeln - Das Deutsche Tierschutzbüro kämpft für Gesetzänderungen
 ogTitle: Ab jetzt gelten neue Bauernregeln - Das Deutsche Tierschutzbüro kämpft für Gesetzänderungen

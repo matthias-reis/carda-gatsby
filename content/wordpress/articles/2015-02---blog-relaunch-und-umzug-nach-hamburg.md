@@ -2,8 +2,6 @@
 date: 2015-02-11T11:59:34.000Z
 slug: blog-relaunch-und-umzug-nach-hamburg
 path: /2015/02/blog-relaunch-und-umzug-nach-hamburg/
-type: Artikel
-typeName: Artikel
 title: Blog-Relaunch und Umzug nach Hamburg
 seoTitle: Blog-Relaunch und Umzug nach Hamburg
 ogTitle: Blog-Relaunch und Umzug nach Hamburg

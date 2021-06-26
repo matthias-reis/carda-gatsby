@@ -2,8 +2,6 @@
 date: 2011-05-06T11:20:15.000Z
 slug: jubilaeum
 path: /2011/05/jubilaeum/
-type: Artikel
-typeName: Artikel
 title: Jubiläum
 seoTitle: 100 Beiträge auf cardamonchai - das ist ein Jubiläum!
 ogTitle: 100 Beiträge auf cardamonchai - das ist ein Jubiläum!

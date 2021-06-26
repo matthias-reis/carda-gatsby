@@ -2,8 +2,6 @@
 date: 2020-10-27T15:02:46.000Z
 slug: tierschutzkongress-2020
 path: /2020/10/tierschutzkongress-2020/
-type: Artikel
-typeName: Artikel
 title: Tierschutzkongress 2020
 seoTitle: Tierschutzkongress 2020 - Konferenz dieses Jahr digital
 ogTitle: Tierschutzkongress 2020 - Konferenz dieses Jahr digital

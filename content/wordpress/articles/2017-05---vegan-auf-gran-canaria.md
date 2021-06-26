@@ -2,8 +2,6 @@
 date: 2017-05-16T07:36:08.000+00:00
 slug: vegan-auf-gran-canaria
 path: '/2017/05/vegan-auf-gran-canaria/'
-type: Artikel
-typeName: Artikel
 title: Vegan auf Gran Canaria
 seoTitle: Vegan auf Gran Canaria - Willkommen im Paradies - Insel der süßen Früchte
 ogTitle: Vegan auf Gran Canaria - Willkommen im Paradies

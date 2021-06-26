@@ -2,8 +2,6 @@
 date: 2019-08-07T09:45:18.000Z
 slug: cradle-to-cradle-prinzip
 path: /2019/08/cradle-to-cradle-prinzip/
-type: Artikel
-typeName: Artikel
 title: Das Cradle-to-Cradle-Prinzip
 seoTitle: Das Cradle-to-Cradle-Prinzip - "Die Natur kennt keinen Müll"
 ogTitle: Das Cradle-to-Cradle-Prinzip - "Die Natur kennt keinen Müll"

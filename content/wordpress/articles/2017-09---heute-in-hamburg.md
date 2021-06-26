@@ -2,8 +2,6 @@
 date: 2017-09-23T14:22:45.000Z
 slug: heute-in-hamburg
 path: /2017/09/heute-in-hamburg/
-type: Artikel
-typeName: Artikel
 title: Heute in Hamburg
 seoTitle: Heute in Hamburg - Ein sonniger Tag - Gedanken und Bilder
 ogTitle: Heute in Hamburg - Ein sonniger Tag - Gedanken und Bilder

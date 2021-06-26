@@ -2,8 +2,6 @@
 date: 2021-03-10T13:46:37.000Z
 slug: oprah-winfrey-meghan-markle-prinz-harry
 path: /2021/03/oprah-winfrey-meghan-markle-prinz-harry/
-type: Artikel
-typeName: Artikel
 title: Meghan Markle setzt sich für vegane Projekte ein
 seoTitle: Oprah Winfrey Interview enthüllt Megan Markles Tierschutz-Engagement
 ogTitle: Oprah Winfrey Interview enthüllt Megan Markles Tierschutz-Engagement

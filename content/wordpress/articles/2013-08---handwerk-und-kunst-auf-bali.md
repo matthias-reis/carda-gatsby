@@ -2,8 +2,6 @@
 date: 2013-08-01T16:04:47.000+00:00
 slug: handwerk-und-kunst-auf-bali
 path: '/2013/08/handwerk-und-kunst-auf-bali/'
-type: Artikel
-typeName: Artikel
 title: Handwerk und Kunst auf Bali
 seoTitle: Handwerk und Kunst auf Bali - meine Bilderserie
 ogTitle: Handwerk und Kunst auf Bali

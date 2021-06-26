@@ -2,8 +2,6 @@
 date: 2018-03-21T08:15:39.000+00:00
 slug: curraghchase-caravan-camp-site
 path: '/2018/03/curraghchase-caravan-camp-site/'
-type: Artikel
-typeName: Artikel
 title: Curraghchase Caravan & Camp Site
 seoTitle: Curraghchase Caravan & Camp Site - Ein Hauch von Twin Peaks
 ogTitle: Curraghchase Caravan & Camp Site - Ein Hauch von Twin Peaks

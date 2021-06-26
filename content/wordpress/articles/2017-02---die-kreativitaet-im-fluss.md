@@ -2,8 +2,6 @@
 date: 2017-02-23T15:09:59.000Z
 slug: die-kreativitaet-im-fluss
 path: /2017/02/die-kreativitaet-im-fluss/
-type: Artikel
-typeName: Artikel
 title: Die Kreativität im Fluss
 seoTitle: Die Kreativität im Fluss - Eine Autorin bei der Arbeit
 ogTitle: Die Kreativität im Fluss - Eine Autorin bei der Arbeit

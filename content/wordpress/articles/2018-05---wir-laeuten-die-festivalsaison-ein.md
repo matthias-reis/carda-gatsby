@@ -2,8 +2,6 @@
 date: 2018-05-08T08:00:14.000+00:00
 slug: wir-laeuten-die-festivalsaison-ein
 path: '/2018/05/wir-laeuten-die-festivalsaison-ein/'
-type: Artikel
-typeName: Artikel
 title: Wir läuten die Festivalsaison ein
 seoTitle: Wir läuten die Festivalsaison ein - Kurze Auszeit im Blog
 ogTitle: Wir läuten die Festivalsaison ein - Kurze Auszeit im Blog

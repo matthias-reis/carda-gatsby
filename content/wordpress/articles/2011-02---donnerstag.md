@@ -2,8 +2,6 @@
 date: 2011-02-17T07:40:25.000Z
 slug: donnerstag
 path: /2011/02/donnerstag/
-type: Artikel
-typeName: Artikel
 title: Donnerstag
 seoTitle: Donnerstag - Umzug zu Wordpress - Tagebucheintrag
 ogTitle: Donnerstag - Umzug zu Wordpress - Tagebucheintrag

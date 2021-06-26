@@ -2,8 +2,6 @@
 date: 2018-07-04T15:12:38.000Z
 slug: wieder-da
 path: /2018/07/wieder-da/
-type: Artikel
-typeName: Artikel
 title: Wieder da
 seoTitle: Wieder da! Jetzt geht es richtig los! Ich melde mich zurück
 ogTitle: Wieder da! Jetzt geht es richtig los! Ich melde mich zurück

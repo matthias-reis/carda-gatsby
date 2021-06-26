@@ -2,8 +2,6 @@
 date: 2021-01-19T15:21:41.000Z
 slug: michelin-stern-origine-non-animale
 path: /2021/01/michelin-stern-origine-non-animale/
-type: Artikel
-typeName: Artikel
 title: Veganes Lokal erhält Michelin Stern
 seoTitle: Veganes Lokal erhält Michelin Stern – Origine Non Animale
 ogTitle: Veganes Lokal erhält Michelin Stern – Origine Non Animale

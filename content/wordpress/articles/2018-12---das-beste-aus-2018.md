@@ -2,8 +2,6 @@
 date: 2018-12-30T17:38:01.000Z
 slug: das-beste-aus-2018
 path: /2018/12/das-beste-aus-2018/
-type: Artikel
-typeName: Artikel
 title: Das Beste aus 2018
 seoTitle: Das Beste aus 2018 - mein Jahresrückblick
 ogTitle: Das Beste aus 2018 - mein Jahresrückblick

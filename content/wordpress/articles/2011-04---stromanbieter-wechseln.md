@@ -2,8 +2,6 @@
 date: 2011-04-06T11:19:34.000Z
 slug: stromanbieter-wechseln
 path: /2011/04/stromanbieter-wechseln/
-type: Artikel
-typeName: Artikel
 title: Stromanbieter wechseln!
 seoTitle: Atomkraft, nein danke! Stromanbieter jetzt wechseln!
 ogTitle: Atomkraft, nein danke! Stromanbieter jetzt wechseln!

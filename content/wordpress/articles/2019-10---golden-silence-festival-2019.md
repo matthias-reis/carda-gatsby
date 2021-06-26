@@ -2,8 +2,6 @@
 date: 2019-10-23T07:00:48.000Z
 slug: golden-silence-festival-skaters-palace-muenster
 path: /2019/10/golden-silence-festival-skaters-palace-muenster/
-type: Artikel
-typeName: Artikel
 title: Golden Silence Festival 2019
 seoTitle: Golden Silence Festival 2019 - Post-Rock im Skaters Palace Münster
 ogTitle: Golden Silence Festival 2019 - Post-Rock im Skaters Palace Münster

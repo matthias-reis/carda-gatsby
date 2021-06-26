@@ -2,8 +2,6 @@
 date: 2014-08-21T10:08:27.000Z
 slug: wie-picasso-nur-mit-strom
 path: /2014/08/wie-picasso-nur-mit-strom/
-type: Artikel
-typeName: Artikel
 title: Wie Picasso - nur mit Strom
 seoTitle: Wie Picasso - nur mit Strom
 ogTitle: Wie Picasso - nur mit Strom

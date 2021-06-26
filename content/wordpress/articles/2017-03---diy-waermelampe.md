@@ -2,8 +2,6 @@
 date: 2017-03-13T18:44:09.000Z
 slug: diy-waermelampe
 path: /2017/03/diy-waermelampe/
-type: Artikel
-typeName: Artikel
 title: DIY Wärmelampe
 seoTitle: DIY Wärmelampe zum Entspannen - Wellness für zu Hause
 ogTitle: DIY Wärmelampe zum Entspannen - Wellness für zu Hause

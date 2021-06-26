@@ -2,8 +2,6 @@
 date: 2015-09-09T16:38:28.000+00:00
 slug: ich-bleib-dabei-vegan-macht-spass
 path: '/2015/09/ich-bleib-dabei-vegan-macht-spass/'
-type: Artikel
-typeName: Artikel
 title: Ich bleib dabei! Vegan macht Spaß!
 seoTitle: Warum ich für immer vegan leben möchte - ich bleibe dabei!
 ogTitle: Warum ich für immer vegan leben möchte - ich bleibe dabei!

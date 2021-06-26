@@ -2,8 +2,6 @@
 date: 2017-08-15T14:44:30.000Z
 slug: doerrautomat
 path: /2017/08/doerrautomat/
-type: Artikel
-typeName: Artikel
 title: Unser Dörrautomat
 seoTitle: Unser Dörrautomat - Neueste Errungenschaft in der Küche
 ogTitle: Unser Dörrautomat - Neueste Errungenschaft in der Küche

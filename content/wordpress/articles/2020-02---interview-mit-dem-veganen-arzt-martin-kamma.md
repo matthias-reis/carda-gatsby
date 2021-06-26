@@ -2,8 +2,6 @@
 date: 2020-02-19T19:22:44.000Z
 slug: interview-mit-dem-veganen-arzt-martin-kamma
 path: /2020/02/interview-mit-dem-veganen-arzt-martin-kamma/
-type: Artikel
-typeName: Artikel
 title: Interview mit dem veganen Arzt Martin Kamma
 seoTitle: Interview mit dem veganen Arzt Martin Kamma
 ogTitle: Interview mit dem veganen Arzt Martin Kamma

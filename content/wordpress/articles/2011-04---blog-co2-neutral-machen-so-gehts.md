@@ -2,8 +2,6 @@
 date: 2011-04-06T07:13:01.000Z
 slug: blog-co2-neutral-machen
 path: /2011/04/blog-co2-neutral-machen/
-type: Artikel
-typeName: Artikel
 title: Blog CO2-neutral machen - so geht's
 seoTitle: Blog Co2-neutral machen - so geht's!
 ogTitle: Blog Co2-neutral machen - so geht's!

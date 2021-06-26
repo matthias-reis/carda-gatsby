@@ -1,32 +1,28 @@
 ---
 date: 2018-11-13T09:42:15.000+00:00
 slug: kuschelige-nachhaltige-wintermode-nicht-nur-fuer-veganerinnen
-path: "/2018/11/kuschelige-nachhaltige-wintermode-nicht-nur-fuer-veganerinnen/"
-type: Artikel
-typeName: Artikel
+path: '/2018/11/kuschelige-nachhaltige-wintermode-nicht-nur-fuer-veganerinnen/'
 title: Kuschelige nachhaltige Wintermode
 seoTitle: Kuschelige und nachhaltige Windermode nicht nur für Veganer*innen
 ogTitle: Kuschelige und nachhaltige Windermode nicht nur für Veganer*innen
-description: Wer beim Wintermode Shoppen Wert auf Nachhaltigkeit legt, sucht ab und
-  an schon etwas länger. Daher habe ich ein paar Tipps für Euch zusammengetragen.
-excerpt: Wer beim Wintermode Shoppen Wert auf Nachhaltigkeit legt, sucht ab und an
-  schon etwas länger. Daher habe ich ein paar Tipps für Euch zusammengetragen.
+description: Wer beim Wintermode Shoppen Wert auf Nachhaltigkeit legt, sucht ab und an schon etwas länger. Daher habe ich ein paar Tipps für Euch zusammengetragen.
+excerpt: Wer beim Wintermode Shoppen Wert auf Nachhaltigkeit legt, sucht ab und an schon etwas länger. Daher habe ich ein paar Tipps für Euch zusammengetragen.
 fileName: 2018-11---kuschelige-nachhaltige-wintermode.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_11_nachhaltige-wintermode__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_11_nachhaltige-wintermode__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBQYHBP/EACcQAAICAQMEAgIDAQAAAAAAAAECAwQRAAUGBxIhMRNRIkEjYZHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAbEQEAAgIDAAAAAAAAAAAAAAAAAQIRIRIxQf/aAAwDAQACEQMRAD8A13qhyADcKXHK1hIpbCmxZZmwEiUE/lj9eCSP3gar9OE7FyPa3gu1pQZoe8QoYmEcjBQWXJDA5xn351WeqW7V9s6r7byLa7cVxoq4FyojBmSMZUkkeMMr+PPtf70jfubx8q5hxnZdktAwtuNaWed1MY7VkUrH+QB8Aev2SBoCKu9RJ9piarM6zS17U1d+1u4HscrnP+aZv9SILVynOlKF5qw+d5p2VHdFBPxAkeSWKkAH7+9Z7cozXN6vpXgeRpLk5VEGTkyH/upTk3HZKu0BbMQhv1Ijaky6ntiyiBSF9Es2QT9aU2jpfHGzdZjc3HeLFj8nSF3A9DIKqPH0Brp26ulfqNtXxlsncKj5J85Lxk6NGmhNcWnkj5lahVv4zenUjA8j5XxrVN8oQnaJywJHxscePOFz796NGua87b+v/9k=
-ogImage: 
+ogImage:
 labels:
-- Fair Fashion & Beauty
-- Handschuhe
-- Hoodie
-- Mütze
-- Schal
-- vegan
-- vegane Mode
-- vegane Winterjacken
-- Winterjacke
-- Wintermantel
+  - Fair Fashion & Beauty
+  - Handschuhe
+  - Hoodie
+  - Mütze
+  - Schal
+  - vegan
+  - vegane Mode
+  - vegane Winterjacken
+  - Winterjacke
+  - Wintermantel
 focusKeyword: nachhaltige Wintermode
 status: publish
 isWerbung: false
@@ -35,8 +31,8 @@ language: de
 errors: {}
 subTitle: Nicht nur für Veganer*innen
 advertisement: true
-
 ---
+
 **Meinen Artikel mit Tipps für [nachhaltige Modelabels](/2018/02/faire-klamotten/) findet Ihr ja ziemlich gut. Vielen Dank an dieser Stelle für das positive Feedback! Ich habe mir aus diesem Grund überlegt, eine neue Ausgabe zum Thema "nachhaltige Wintermode" zu veröffentlichen.**
 
 Zwar ist der Winter noch nicht ganz in unseren Gefilden angekommen, Wintermode wird jedoch schon fleißig geshoppt. Wer dabei auf Nachhaltigkeit wert legt, sucht ab und an schon etwas länger. Daher habe ich ein paar Tipps für Euch zusammengetragen.

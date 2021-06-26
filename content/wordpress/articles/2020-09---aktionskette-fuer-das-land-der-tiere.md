@@ -2,8 +2,6 @@
 date: 2020-09-05T05:00:52.000Z
 slug: aktionskette-fuer-das-land-der-tiere
 path: /2020/09/aktionskette-fuer-das-land-der-tiere/
-type: Artikel
-typeName: Artikel
 title: Aktionskette für das Land der Tiere
 seoTitle: Aktionskette für das Land der Tiere von Bijou en Bois aus Hamburg
 ogTitle: Aktionskette für das Land der Tiere von Bijou en Bois aus Hamburg

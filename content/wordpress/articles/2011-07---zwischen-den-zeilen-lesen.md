@@ -2,8 +2,6 @@
 date: 2011-07-27T14:08:47.000+00:00
 slug: zwischen-den-zeilen-lesen
 path: '/2011/07/zwischen-den-zeilen-lesen/'
-type: Artikel
-typeName: Artikel
 title: Zwischen den Zeilen lesen
 seoTitle: Zwischen den Zeilen lesen - Prosa im Vorbeifahren
 ogTitle: Zwischen den Zeilen lesen - Prosa im Vorbeifahren

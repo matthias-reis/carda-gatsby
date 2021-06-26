@@ -2,8 +2,6 @@
 date: 2020-06-04T09:42:23.000Z
 slug: fleischfreie-ernaehrung-neuseeland
 path: /2020/06/fleischfreie-ernaehrung-neuseeland/
-type: Artikel
-typeName: Artikel
 title: Fleischfreie Ernährung
 seoTitle: Fleischfreie Ernährung - neuer Unterricht in Neuseelands Schulen
 ogTitle: Fleischfreie Ernährung - neuer Unterricht in Neuseelands Schulen

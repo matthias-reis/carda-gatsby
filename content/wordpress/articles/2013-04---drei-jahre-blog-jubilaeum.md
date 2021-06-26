@@ -2,8 +2,6 @@
 date: 2013-04-16T10:45:52.000Z
 slug: hoch-die-tassen-jubilaum
 path: /2013/04/hoch-die-tassen-jubilaum/
-type: Artikel
-typeName: Artikel
 title: Drei Jahre Blog-Jubiläum
 seoTitle: Drei Jahre Blog-Jubiläum
 ogTitle: Drei Jahre Blog-Jubiläum

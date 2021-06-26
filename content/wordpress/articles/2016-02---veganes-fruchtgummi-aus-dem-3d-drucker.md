@@ -2,8 +2,6 @@
 date: 2016-02-09T10:21:43.000Z
 slug: veganes-fruchtgummi-aus-dem-3d-drucker
 path: /2016/02/veganes-fruchtgummi-aus-dem-3d-drucker/
-type: Artikel
-typeName: Artikel
 title: Veganes Fruchtgummi aus dem 3D-Drucker
 seoTitle: Veganes Fruchtgummi aus dem 3D-Drucker - Katjes wird mit Preis geehrt
 ogTitle: Vegane Süßigkeiten aus dem 3D-Drucker - Katjes wird mit Preis geehrt

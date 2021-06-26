@@ -2,8 +2,6 @@
 date: 2021-04-07T04:00:13.000Z
 slug: support-feed
 path: /2021/04/support-feed/
-type: Artikel
-typeName: Artikel
 title: Support + Feed
 seoTitle: Support + Feed – Joaquin Phoenix verteilt veganes Essen an Bedürftige
 ogTitle: Support + Feed – Joaquin Phoenix verteilt veganes Essen an Bedürftige

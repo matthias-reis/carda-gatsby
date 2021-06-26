@@ -2,8 +2,6 @@
 date: 2020-10-26T08:09:02.000Z
 slug: musikliste-fuer-den-november-2020
 path: /2020/10/musikliste-fuer-den-november-2020/
-type: Artikel
-typeName: Artikel
 title: 12 Songs für den November
 seoTitle: Musikliste für den November - 12 Songs für den Spätherbst
 ogTitle: Musikliste für den November - 12 Songs für den Spätherbst

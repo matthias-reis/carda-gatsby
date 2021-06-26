@@ -2,8 +2,6 @@
 date: 2017-02-28T10:54:24.000Z
 slug: ecosia-regenwald-schuetzen-beim-googeln
 path: /2017/02/ecosia-regenwald-schuetzen-beim-googeln/
-type: Artikel
-typeName: Artikel
 title: Ecosia - Regenwald schützen beim Googeln
 seoTitle: Ecosia - Regenwald schützen beim Googeln mit der grünen Suchmaschine
 ogTitle: Ecosia - Regenwald schützen beim Googeln mit der grünen Suchmaschine

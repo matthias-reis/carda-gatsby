@@ -2,8 +2,6 @@
 date: 2016-01-28T09:52:25.000Z
 slug: ernaehrungsreport-2016
 path: /2016/01/ernaehrungsreport-2016/
-type: Artikel
-typeName: Artikel
 title: Ernährungsreport 2016
 seoTitle: Ernährungsreport 2016 - Umfrageergebnisse falsch dargestellt
 ogTitle: Ernährungsreport 2016 - Umfrageergebnisse falsch dargestellt

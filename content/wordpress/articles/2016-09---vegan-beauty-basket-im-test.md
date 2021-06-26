@@ -1,32 +1,28 @@
 ---
 date: 2016-09-25T11:24:48.000+00:00
 slug: vegan-beauty-basket-im-test
-path: "/2016/09/vegan-beauty-basket-im-test/"
-type: Artikel
-typeName: Artikel
+path: '/2016/09/vegan-beauty-basket-im-test/'
 title: Vegan Beauty Basket im Test
 seoTitle: Vegan Beauty Basket im Test - Unboxing Wellness
 ogTitle: Vegan Beauty Basket im Test - Unboxing Wellness
-description: Heute habe ich ein ganz besonderes Paket bekommen. Der aktuelle Vegan
-  Beauty Basket kam bei mir an und ich bin begeistert - Ich zeige Euch, was drin ist.
-excerpt: Heute habe ich ein ganz besonderes Paket bekommen. Der aktuelle Vegan Beauty
-  Basket kam bei mir an und ich bin begeistert - Ich zeige Euch, was drin ist.
+description: Heute habe ich ein ganz besonderes Paket bekommen. Der aktuelle Vegan Beauty Basket kam bei mir an und ich bin begeistert - Ich zeige Euch, was drin ist.
+excerpt: Heute habe ich ein ganz besonderes Paket bekommen. Der aktuelle Vegan Beauty Basket kam bei mir an und ich bin begeistert - Ich zeige Euch, was drin ist.
 fileName: 2016-09---vegan-beauty-basket-im-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_09_29837257706_c0621cf02a_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_09_29837257706_c0621cf02a_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgIHCP/EACkQAAEEAQMDAwQDAAAAAAAAAAECAwQRBQAGEiExQRMUURUigZEyYXH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAJhEAAgAFAgUFAAAAAAAAAAAAAQIAAwQRITFhEhNBUXEFIpGx8P/aAAwDAQACEQMRAD8Aa4uBgZYS+07JZIonGi+RWBQAPx8nvq+7ZwuEyTkgOY1bb7bY9aI4VcUm+ih1/qtUXY+4ZbiZCZkV33LDJWzKRGS48bUAUpKf5GiT2ugdG9snKYZgLRkHSZUVx5sKUUupCSnuq7APIiie4/GkpafnMBcZ2jf6pXtSSWdQTa2jb+PvO8Ot0tYGBmnI/wBKeEtAQGo7dhp3kL+7yAPOo+43F+3QMjhWHsh09u6lP2fmuhA+LrWiJ8hMt9P1t8uYsPceTj7pQh0hNlXC/HUFRruPnWGDkZN9uJGiSkZBHr1HbLbxSR5BSriehPjp1PXppZsnlk2PWGpK4T0QOvS+SSRjyMd+/wAR1RH24xDdW0hz1GuQBSttP7BABH70ryOydvqW5JcgJW88ilrUtSlkVdciSa0aNRluwewMCdLV5d2Go/YiC3snbjSHY8bGNtF1PEru771djrX+6SpaRt99+NjWYzVCg4GRzAoGrNnzo0arMwvENYjT+5uA6Wj/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2016_09_29578673560_1aab418caf_z__l.jpg
 labels:
-- Berlin
-- Fair Fashion & Beauty
-- Hamburg
-- vegan
-- vegan beauty
-- Vegan Beauty Basket
-- vegane Kosmetik
-- vegane Kosmetikprodukte
-- Wellness
-- serie:Vegan Beauty Basket
+  - Berlin
+  - Fair Fashion & Beauty
+  - Hamburg
+  - vegan
+  - vegan beauty
+  - Vegan Beauty Basket
+  - vegane Kosmetik
+  - vegane Kosmetikprodukte
+  - Wellness
+  - serie:Vegan Beauty Basket
 focusKeyword: Vegan Beauty Basket
 status: publish
 isWerbung: false
@@ -35,8 +31,8 @@ language: de
 errors: {}
 subTitle: Unboxing Wellness
 advertisement: true
-
 ---
+
 **Diese Woche habe ich ein ganz besonders tolles Paket bekommen. Es stammt von der lieben Ina, der Gründerin von Vegan Beauty Basket.**
 
 Ich hatte Euch die vegan lebende Beauty Queen bereits in meinem kleinen [Bericht](/2016/08/vegan-beauty-basket-gratis-aktion/) vor ein paar Tagen vorgestellt. Nun hat Sie mir die aktuelle Box zum Testen zur Verfügung gestellt und was soll ich sagen: Ich bin begeistert!
@@ -50,7 +46,6 @@ Sofort nach dem Öffnen fiel mir als Erstes ihre wunderschöne, selbstgezeichnet
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_29578673560_1aab418caf_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEFBgcIAv/EACYQAAEDAwMFAAMBAAAAAAAAAAECAwQABREGEiEHEyIxcUGBoRX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAdEQABBQEBAQEAAAAAAAAAAAABAAIDESEEExIx/9oADAMBAAIRAxEAPwCmbokRoLj6seKePv4pdO9PdQ6mDD1ogvJaIAVLeV2Wfu4+/wBA1xfpsmDcoLAaLcqO6JHbdR7KT4gg+wT+q1lpi4xZFpRepksNW2WgPsvyfFlppSUnZnISNpCh5c88UedliynO7cKzLrzRN70XChSVXaPdGHXFR31MoJTHfA3Bsk8nKeQeM4NT7o3Y1P2OPdHmkJff3ncBzt3EADPoeNOnVrqhpadZbtZ4DLl7EmOGkvISWGWVpJUlwKPKyk4xtSBjjPNSbR0ZFk0FHbcwFRreCr6G9x/pNDpDW18qwEn9VZzbjAkWJE67WODNCl9kowUHAP4Vzj5inpWhrJfbNE7BuUFloEMsCYp1prJydqFggckngCiihMPPWYjzuMhp+qB6t0GLG80r/SMhpS0gpUxtUQSMjIVj+U733qpJfZl2yLa2mW3u5GK1vFZAUCMjAA9UUVIiZAC/VrIPM01f/9k="
 />
-
 
 Zusätzlich zum eigentlichen Inhalt liegt jedem Basket ein Produktblatt bei, auf dem alle Artikel genau beschrieben und die Inhaltsstoffe aufgelistet sind. Außerdem hat mir Ina noch die aktuelle Vegan World dazugelegt.
 

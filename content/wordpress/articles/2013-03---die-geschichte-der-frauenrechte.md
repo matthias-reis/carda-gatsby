@@ -2,8 +2,6 @@
 date: 2013-03-08T13:30:13.000Z
 slug: die-geschichte-der-frauenrechte
 path: /2013/03/die-geschichte-der-frauenrechte/
-type: Artikel
-typeName: Artikel
 title: Die Geschichte der Frauenrechte
 seoTitle: Die Geschichte der Frauenrechte - Der Internationale Weltfrauentag
 ogTitle: Die Geschichte der Frauenrechte - Der Internationale Weltfrauentag

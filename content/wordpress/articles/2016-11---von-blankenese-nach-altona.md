@@ -2,8 +2,6 @@
 date: 2016-11-26T08:34:58.000Z
 slug: von-blankenese-nach-altona
 path: /2016/11/von-blankenese-nach-altona/
-type: Artikel
-typeName: Artikel
 title: Von Blankenese nach Altona
 seoTitle: Von Blankenese nach Altona - Winterlicher Spaziergang an der Elbe
 ogTitle: Von Blankenese nach Altona - Winterlicher Spaziergang an der Elbe

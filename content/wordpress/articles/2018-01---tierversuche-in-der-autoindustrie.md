@@ -2,8 +2,6 @@
 date: 2018-01-30T15:00:01.000Z
 slug: tierversuche-in-der-autoindustrie
 path: /2018/01/tierversuche-in-der-autoindustrie/
-type: Artikel
-typeName: Artikel
 title: Tierversuche in der Autoindustrie
 seoTitle: Tierversuche in der Autoindustrie - Affen mit Abgasen vergiftet
 ogTitle: Tierversuche in der Autoindustrie - Affen mit Abgasen vergiftet

@@ -2,8 +2,6 @@
 date: 2013-12-04T13:15:14.000Z
 slug: armut-ist-immer-noch-weiblich
 path: /2013/12/armut-ist-immer-noch-weiblich/
-type: Artikel
-typeName: Artikel
 title: '"Armut ist immer noch weiblich"'
 seoTitle: '"Armut ist immer noch weiblich"'
 ogTitle: '"Armut ist immer noch weiblich"'

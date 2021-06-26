@@ -2,8 +2,6 @@
 date: 2017-06-28T08:15:32.000Z
 slug: mein-smoothie-im-alpenwelt-magazin
 path: /2017/06/mein-smoothie-im-alpenwelt-magazin/
-type: Artikel
-typeName: Artikel
 title: Mein Smoothie im Alpenwelt Magazin
 seoTitle: Mein Smoothie im Alpenwelt Magazin - Rock'n'Roll vegan goes Berge
 ogTitle: Mein Smoothie im Alpenwelt Magazin - Rock'n'Roll vegan goes Berge

@@ -2,8 +2,6 @@
 date: 2018-08-15T15:07:00.000Z
 slug: replace-plastic-app-kueste-gegen-plastik
 path: /2018/08/replace-plastic-app-kueste-gegen-plastik/
-type: Artikel
-typeName: Artikel
 title: Verein Küste gegen Plastik
 seoTitle: Replace Plastic App soll Plastikmüllflut stoppen - Küste gegen Plastik
 ogTitle: Replace Plastic App soll Plastikmüllflut stoppen - Küste gegen Plastik

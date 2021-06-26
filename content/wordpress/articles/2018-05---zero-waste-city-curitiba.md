@@ -2,8 +2,6 @@
 date: 2018-05-29T16:00:39.000Z
 slug: zero-waste-city-curitiba
 path: /2018/05/zero-waste-city-curitiba/
-type: Artikel
-typeName: Artikel
 title: Zero Waste City Curitiba
 seoTitle: Zero Waste City Curitiba - Brasiliens grünste Stadt
 ogTitle: Zero Waste City Curitiba - Brasiliens grünste Stadt

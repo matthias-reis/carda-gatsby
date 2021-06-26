@@ -2,8 +2,6 @@
 date: 2015-08-17T09:39:09.000Z
 slug: ein-meer-aus-farben-fuer-die-tiere
 path: /2015/08/ein-meer-aus-farben-fuer-die-tiere/
-type: Artikel
-typeName: Artikel
 title: Ein Meer aus Farben für die Tiere
 seoTitle: Ein Meer aus Farben für die Tiere Bilder von Denise Slapansky
 ogTitle: Ein Meer aus Farben für die Tiere Bilder von Denise Slapansky

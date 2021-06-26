@@ -2,8 +2,6 @@
 date: 2013-11-14T17:48:43.000Z
 slug: wo-bleibt-eigentlich-der-versprochene-artikel
 path: /2013/11/wo-bleibt-eigentlich-der-versprochene-artikel/
-type: Artikel
-typeName: Artikel
 title: Wo bleibt eigentlich der versprochene Artikel?
 seoTitle: Wo bleibt der versprochene Artikel? Tagebucheintrag
 ogTitle: Wo bleibt der versprochene Artikel? Tagebucheintrag

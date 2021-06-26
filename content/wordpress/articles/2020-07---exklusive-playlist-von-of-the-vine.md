@@ -1,54 +1,50 @@
 ---
 date: 2020-07-10T15:17:53.000+02:00
 slug: of-the-vine-playlist
-path: "/2020/07/of-the-vine-playlist/"
-type: Artikel
-typeName: Artikel
+path: '/2020/07/of-the-vine-playlist/'
 title: Exklusive Playlist von Of the Vine
 seoTitle: Exklusive Playlist von Of the Vine - "Diese Musik hat uns geprägt"
 ogTitle: Exklusive Playlist von Of the Vine - "Diese Musik hat uns geprägt"
-description: Kein Geringerer als Samuel Laubscher von Of the Vine hat exklusiv eine
-  Playlist für meinen Blog zusammengestellt. Von Ben Frost bis Mogwai.
-excerpt: Kein Geringerer als Samuel Laubscher von Of the Vine hat exklusiv eine Playlist
-  für meinen Blog zusammengestellt. Von Ben Frost bis Mogwai.
+description: Kein Geringerer als Samuel Laubscher von Of the Vine hat exklusiv eine Playlist für meinen Blog zusammengestellt. Von Ben Frost bis Mogwai.
+excerpt: Kein Geringerer als Samuel Laubscher von Of the Vine hat exklusiv eine Playlist für meinen Blog zusammengestellt. Von Ben Frost bis Mogwai.
 fileName: 2020-07---exklusive-playlist-von-of-the-vine.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIDBAUH/8QAKBAAAgEDAwQBBAMAAAAAAAAAAQIDAAQREiFBBRMikTEUUWFxBqLx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwDwodQjSQpKbhycqe2PW5/FbLe/S2EyzWq3Ck6UkIwRoO3GORkc4FVMFjBMwuZWYkHZn06CT4tuN8cjFaT1ntfxybpKLE8L3XfE+Nw2gDb9gc+quYy5F11C4vYljlICIchVUAZPyQOKe8a3eIfT5LBgcdrToXSNied/v9vzTW5WVZ7uCCOOOKTyMjFlGRsv9T7q0/WcQJF09PpdceJWUAMTz5DcjPHFBKG5ks5pDbRpJcshVXUl8Z+diMHb1WO6upIJ4naIqAmCmMbYwP8AaKKUNLem+RnfSrq2yjbxIyP3g591S8W3iIitZBOCqs8pXHlj4GfgCiikI//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-facebook.png__l.jpg
 labels:
-- Aaron Turner
-- Ambient
-- Arvo Pärt
-- Bands
-- Baptists
-- Ben Frost
-- Brian Cook
-- Dunk Festival
-- Dunk Records
-- DUNK!festival
-- DUNK!records
-- Early Day Minors
-- Emma Ruth Rundle
-- English & German
-- Explosions In The Sky
-- Isis
-- Merigold Independent
-- Merigold Records
-- Mogwai
-- Nick Yacyshyn
-- Of the Vine
-- Phoebe Bridgers
-- Post-Rock
-- Rafael Anton Irisarri
-- Russian Circles
-- Samuel Laubscher
-- Sea Oleena
-- Stars Of The Lid
-- Sumac
-- The Twilight Sad
-- Unwed Sailor
-- Playlist
+  - Aaron Turner
+  - Ambient
+  - Arvo Pärt
+  - Bands
+  - Baptists
+  - Ben Frost
+  - Brian Cook
+  - Dunk Festival
+  - Dunk Records
+  - DUNK!festival
+  - DUNK!records
+  - Early Day Minors
+  - Emma Ruth Rundle
+  - English & German
+  - Explosions In The Sky
+  - Isis
+  - Merigold Independent
+  - Merigold Records
+  - Mogwai
+  - Nick Yacyshyn
+  - Of the Vine
+  - Phoebe Bridgers
+  - Post-Rock
+  - Rafael Anton Irisarri
+  - Russian Circles
+  - Samuel Laubscher
+  - Sea Oleena
+  - Stars Of The Lid
+  - Sumac
+  - The Twilight Sad
+  - Unwed Sailor
+  - Playlist
 focusKeyword: Of The Vine
 status: publish
 isWerbung: false
@@ -56,9 +52,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Diese Musik hat uns geprägt"'
-languageLink: "/2020/07/of-the-vine-playlist-en"
-
+languageLink: '/2020/07/of-the-vine-playlist-en'
 ---
+
 **Kein Geringerer als Of the Vine Gitarrist Samuel Laubscher hat eine Playlist für meinen Blog zusammengestellt. Es ist mir eine große Ehre, sie Euch heute präsentieren zu dürfen.**
 
 Vor ein paar Wochen lernte ich Sam bei [unserem Interview](/2020/05/of-the-vine/) kennen. Unser Gespräch und meine Fragen nach seinen musikalischen Wurzeln und seinen Lieblingsbands inspirierten ihn dazu, eine Playlist mit Songs zusammenzustellen, die ihm und seiner Band viel bedeuten.

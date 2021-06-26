@@ -2,8 +2,6 @@
 date: 2016-05-11T08:50:57.000Z
 slug: kater-oskar-freut-sich-auf-altona
 path: /2016/05/kater-oskar-freut-sich-auf-altona/
-type: Artikel
-typeName: Artikel
 title: Kater Oskar freut sich auf Altona
 seoTitle: Kater Oskar freut sich auf Altona - Meme
 ogTitle: Kater Oskar freut sich auf Altona

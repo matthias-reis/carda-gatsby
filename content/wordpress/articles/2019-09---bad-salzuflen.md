@@ -2,8 +2,6 @@
 date: 2019-09-17T14:51:45.000Z
 slug: bad-salzuflen
 path: /2019/09/bad-salzuflen/
-type: Artikel
-typeName: Artikel
 title: Bad Salzuflen
 seoTitle: Bad Salzuflen - Kurort und Wiege der Hamburger Schule
 ogTitle: Bad Salzuflen - Kurort und Wiege der Hamburger Schule

@@ -2,8 +2,6 @@
 date: 2020-07-08T15:28:56.000Z
 slug: affen-kokosnussernte-peta
 path: /2020/07/affen-kokosnussernte-peta/
-type: Artikel
-typeName: Artikel
 title: Affen ernten Kokosnüsse
 seoTitle: Affen ernten Kokosnüsse - PETA klärt auf
 ogTitle: Affen ernten Kokosnüsse - PETA klärt auf

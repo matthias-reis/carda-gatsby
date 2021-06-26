@@ -2,8 +2,6 @@
 date: 2020-06-24T14:46:24.000+00:00
 slug: 12-songs-fuer-den-juli-2020
 path: '/2020/06/12-songs-fuer-den-juli-2020/'
-type: Artikel
-typeName: Artikel
 title: 12 Songs für den Juli
 seoTitle: 12 Songs für den Juli - frisch auf Eurem Plattenteller
 ogTitle: 12 Songs für den Juli - frisch auf Eurem Plattenteller

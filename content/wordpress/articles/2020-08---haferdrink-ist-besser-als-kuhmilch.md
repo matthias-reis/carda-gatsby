@@ -2,8 +2,6 @@
 date: 2020-08-07T14:06:57.000Z
 slug: haferdrink-stiftung-warentest
 path: /2020/08/haferdrink-stiftung-warentest/
-type: Artikel
-typeName: Artikel
 title: Haferdrink ist besser als Kuhmilch
 seoTitle: Haferdrink ist besser als Kuhmilch - Stiftung Warentest überrascht
 ogTitle: Haferdrink ist besser als Kuhmilch - Stiftung Warentest überrascht

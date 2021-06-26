@@ -2,8 +2,6 @@
 date: 2021-01-01T16:15:38.000Z
 slug: fleisch-zu-billig-uni-augsburg
 path: /2021/01/fleisch-zu-billig-uni-augsburg/
-type: Artikel
-typeName: Artikel
 title: Fleisch bald teurer?
 seoTitle: Fleisch bald teurer? Neue Studie der Uni Augsburg
 ogTitle: Fleisch bald teurer? Neue Studie der Uni Augsburg

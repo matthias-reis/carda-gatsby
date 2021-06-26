@@ -2,8 +2,6 @@
 date: 2021-02-24T17:03:04.000Z
 slug: lady-freethinker-meldet-tierquaelerei
 path: /2021/02/lady-freethinker-meldet-tierquaelerei/
-type: Artikel
-typeName: Artikel
 title: Wie tierfreundlich sind Internetportale?
 seoTitle: Lady Freethinker meldet 2.000 YouTube Videos wegen Tierquälerei
 ogTitle: Lady Freethinker meldet 2.000 YouTube Videos wegen Tierquälerei

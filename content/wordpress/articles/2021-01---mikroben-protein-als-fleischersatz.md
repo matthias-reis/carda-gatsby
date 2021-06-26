@@ -2,8 +2,6 @@
 date: 2021-01-06T18:00:28.000Z
 slug: mikroben-protein-als-fleischersatz
 path: /2021/01/mikroben-protein-als-fleischersatz/
-type: Artikel
-typeName: Artikel
 title: Mikroben-Protein als Fleischersatz
 seoTitle: Mikroben-Protein als Fleischersatz – Das Nahrungsmittel der Zukunft?
 ogTitle: Mikroben-Protein als Fleischersatz – Das Nahrungsmittel der Zukunft?

@@ -2,8 +2,6 @@
 date: 2017-04-12T07:56:25.000Z
 slug: urgewald
 path: /2017/04/urgewald/
-type: Artikel
-typeName: Artikel
 title: 'urgewald klärt auf: Die Geschäfte der Banken'
 seoTitle: 'urgewald klärt auf: Fair Trade, Fair Banking? Was macht eigentlich mein Geld?'
 ogTitle: Fair Trade, Fair Banking? Was macht eigentlich mein Geld? - urgewald klärt auf

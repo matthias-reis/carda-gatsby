@@ -2,8 +2,6 @@
 date: 2009-07-24T07:35:02.000Z
 slug: ilmmuenster-bei-pfaffenhofen-an-der-ilm
 path: /2009/07/ilmmuenster-bei-pfaffenhofen-an-der-ilm/
-type: Artikel
-typeName: Artikel
 title: Ilmmünster bei Pfaffenhofen an der Ilm
 seoTitle: Ilmmünster bei Pfaffenhofen an der Ilm - Hier ist die Welt noch in Ordnung
 ogTitle: Ilmmünster bei Pfaffenhofen an der Ilm - Hier ist die Welt noch in Ordnung

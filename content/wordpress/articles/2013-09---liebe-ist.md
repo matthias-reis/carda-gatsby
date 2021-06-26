@@ -2,8 +2,6 @@
 date: 2013-09-24T07:55:55.000Z
 slug: von-guten-freunden-und-fotos
 path: /2013/09/von-guten-freunden-und-fotos/
-type: Artikel
-typeName: Artikel
 title: Liebe ist
 seoTitle: Liebe ist
 ogTitle: Liebe ist

@@ -2,8 +2,6 @@
 date: 2011-10-18T12:15:05.000Z
 slug: herbstgedanken
 path: /2011/10/herbstgedanken/
-type: Artikel
-typeName: Artikel
 title: Herbstgedanken
 seoTitle: Herbstgedanken - kurzer Tagebucheintrag
 ogTitle: Herbstgedanken - kurzer Tagebucheintrag

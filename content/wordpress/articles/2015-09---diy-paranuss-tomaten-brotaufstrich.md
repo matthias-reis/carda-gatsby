@@ -18,8 +18,6 @@ labels:
   - Vegane Rezepte
   - Veganer
   - veganer Brotaufstrich
-type: Artikel
-typeName: Artikel
 date: 2015-09-11T06:52:25.000Z
 status: publish
 isWerbung: false

@@ -2,8 +2,6 @@
 date: 2011-03-02T10:02:01.000Z
 slug: light-it-up-blood-red-shoes
 path: /2011/03/light-it-up-blood-red-shoes/
-type: Artikel
-typeName: Artikel
 title: Light It Up
 seoTitle: Song des Tages - Blood Red Shoes - "Light It Up"
 ogTitle: Song des Tages - Blood Red Shoes - "Light It Up"

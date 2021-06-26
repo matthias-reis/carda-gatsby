@@ -2,8 +2,6 @@
 date: 2020-03-03T19:05:54.000Z
 slug: post-punk
 path: /2020/03/post-punk/
-type: Artikel
-typeName: Artikel
 title: Post-Punk & Co.
 seoTitle: Post-Punk und Co. - Playlist von Joy Division bis Idles
 ogTitle: Post-Punk und Co. - Playlist von Joy Division bis Idles

@@ -2,8 +2,6 @@
 date: 2018-03-23T09:19:12.000Z
 slug: weinleder-vegan-und-nachhaltig
 path: /2018/03/weinleder-vegan-und-nachhaltig/
-type: Artikel
-typeName: Artikel
 title: 'Neuer Trend aus Italien: Weinleder'
 seoTitle: Weinleder - veganes und nachhaltiges Leder ohne Kunststoff
 ogTitle: Weinleder - veganes und nachhaltiges Leder ohne Kunststoff

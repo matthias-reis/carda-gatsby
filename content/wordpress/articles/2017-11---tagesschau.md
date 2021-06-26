@@ -2,8 +2,6 @@
 date: 2017-11-05T17:21:42.000Z
 slug: tagesschau-welt-in-worten
 path: /2017/11/tagesschau-welt-in-worten/
-type: Artikel
-typeName: Artikel
 title: Tagesschau
 seoTitle: Tagesschau - Die Welt in Worten - Heute, morgen, übermorgen
 ogTitle: Tagesschau - Die Welt in Worten - Heute, morgen, übermorgen

@@ -2,8 +2,6 @@
 date: 2021-03-25T20:32:30.000Z
 slug: the-ocean-live-club-100-bremen
 path: /2021/03/the-ocean-live-club-100-bremen/
-type: Artikel
-typeName: Artikel
 title: The Ocean live @ Club 100 Bremen
 seoTitle: The Ocean live @ Club 100 Bremen – Das erste Live-Konzert 2021
 ogTitle: The Ocean live @ Club 100 Bremen – Das erste Live-Konzert 2021

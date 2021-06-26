@@ -2,8 +2,6 @@
 date: 2009-07-25T08:01:41.000Z
 slug: sandizell
 path: /2009/07/sandizell/
-type: Artikel
-typeName: Artikel
 title: Sandizell
 seoTitle: Sandizell - Wasserschloss in Altbayern
 ogTitle: Sandizell - Wasserschloss in Altbayern

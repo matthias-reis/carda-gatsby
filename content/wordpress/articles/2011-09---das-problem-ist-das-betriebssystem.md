@@ -1,57 +1,53 @@
 ---
 date: 2011-09-02T10:46:34.000+00:00
 slug: das-problem-ist-das-betriebssystem
-path: "/2011/09/das-problem-ist-das-betriebssystem/"
-type: Artikel
-typeName: Artikel
+path: '/2011/09/das-problem-ist-das-betriebssystem/'
 title: Das Problem ist das Betriebssystem
 seoTitle: Das Problem ist das Betriebssystem
 ogTitle: Das Problem ist das Betriebssystem
-description: Das Problem ist das Betriebssystem - eine humoristische Unterhaltung
-  zwischen Sissi uns ihrem Franzl.
-excerpt: Das Problem ist das Betriebssystem - eine humoristische Unterhaltung zwischen
-  Sissi uns ihrem Franzl.
+description: Das Problem ist das Betriebssystem - eine humoristische Unterhaltung zwischen Sissi uns ihrem Franzl.
+excerpt: Das Problem ist das Betriebssystem - eine humoristische Unterhaltung zwischen Sissi uns ihrem Franzl.
 fileName: 2011-09---das-problem-ist-das-betriebssystem.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_09_sissi1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_09_sissi1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHCP/EACwQAAEDAwMDAwIHAAAAAAAAAAECAwQFBhEAEiEHMVETIkEUcQgVFjIzQmH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUBBP/EABwRAQACAwEBAQAAAAAAAAAAAAEAAgMRIWFB4f/aAAwDAQACEQMRAD8AXOlt0WbbtJjqrNHT+oC8pYqMqL9ShCf6hA52EAcnafPPw1UDqNVRYj9RvixYVXoj5K0uxmW0kNKcIAUjZtIGeCDnjJ750jUvpncVdnw4LMP6VK8rckrBWhlO08kDuTnAHGT409XlQZ9vdP4VItguuU1iOoSHFqAkhWfcE4I4UdxIwSOManOZpoJUrgrdVi31O6f2XHpj9VsuuCH6WxS4E8rSlW5QGGlqGcpzkp92PIxo1Iq5UHkuth5x11WDgvKKsfbPbRo+26Eyo1NLNZ0K72YlSKKe44sKSpDgXlKfYD2I7nII03XbU4tMoX5imDElXAuKt+FGS3vede2bwAkDPcZJx8aiP4abNqFTkm6pkt1EZhxxERC0BSHXz+5YHygZPPHu+2rrKt+Em64VdQwWam2s7vT/AIndycFR4yDg4/3RY6WDyJy2xjru/PvjMYG+JMl0LrtKjTEpVuQNiGSlRHnacjB7Y0asPVW7qtZ8ypUqbUJS2U4kxVBpCwplbqgkYPGU42nPjjRpXVQozp3TQtjvv5P/2Q==
-ogImage: 
+ogImage:
 labels:
-- Altersschwachsinn
-- Apple
-- Computer
-- Dachschaden
-- Daten
-- Datenverlust
-- Datenwiederherstellung
-- Dell
-- Dem Ärger Luft machen
-- Der Computer ist ein Arschloch
-- Der ewige Stenz
-- Dr. Watson
-- Festplatte
-- Foto
-- Fotolovestory
-- Fotos
-- Fotostory
-- Franz
-- Geeks
-- Geschichten & Erlebtes
-- Linux
-- Mac
-- Monaco Franze
-- Nerds
-- Realsatire
-- Romantik pur
-- Schlecht
-- Schundliteratur
-- Scotland Yard
-- Sherlock Holmes
-- Silicon Valley
-- SOKO
-- Steve Jobs
-- über sich selbst lachen
-- Windows
+  - Altersschwachsinn
+  - Apple
+  - Computer
+  - Dachschaden
+  - Daten
+  - Datenverlust
+  - Datenwiederherstellung
+  - Dell
+  - Dem Ärger Luft machen
+  - Der Computer ist ein Arschloch
+  - Der ewige Stenz
+  - Dr. Watson
+  - Festplatte
+  - Foto
+  - Fotolovestory
+  - Fotos
+  - Fotostory
+  - Franz
+  - Geeks
+  - Geschichten & Erlebtes
+  - Linux
+  - Mac
+  - Monaco Franze
+  - Nerds
+  - Realsatire
+  - Romantik pur
+  - Schlecht
+  - Schundliteratur
+  - Scotland Yard
+  - Sherlock Holmes
+  - Silicon Valley
+  - SOKO
+  - Steve Jobs
+  - über sich selbst lachen
+  - Windows
 focusKeyword: Betriebssystem
 status: publish
 isWerbung: false
@@ -59,8 +55,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Zurück in die Zukunft
-
 ---
+
 **In Ermangelung der Fotos, die die eigentlich geplante Fotostory über Franz und Sissi bebildern sollten, unterhalten sich die beiden Protagonisten nun über das mysteriöse Ereignis, welches zum Verlust eben jener Lichtbilder geführt hat.** **Der gezeigte Dialog trägt den ironischen Untertitel:**
 
 ## "Eine tragikomische, realistische Geschichte, in der ich mich nicht nur ein kleines Bisschen wiedererkenne."

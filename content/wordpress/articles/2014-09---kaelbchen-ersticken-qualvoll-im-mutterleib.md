@@ -2,8 +2,6 @@
 date: 2014-09-03T10:46:43.000Z
 slug: kaelbchen-ersticken-qualvoll-im-mutterleib
 path: /2014/09/kaelbchen-ersticken-qualvoll-im-mutterleib/
-type: Artikel
-typeName: Artikel
 title: Kälbchen ersticken qualvoll im Mutterleib
 seoTitle: Kälbchen ersticken qualvoll im Mutterleib - das unfassbare Leid der Kühe
 ogTitle: Kälbchen ersticken qualvoll im Mutterleib - das unfassbare Leid der Kühe

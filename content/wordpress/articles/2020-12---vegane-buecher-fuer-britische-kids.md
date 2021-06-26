@@ -2,8 +2,6 @@
 date: 2020-12-08T13:35:00.000Z
 slug: vegane-buecher-fuer-britische-kids
 path: /2020/12/vegane-buecher-fuer-britische-kids/
-type: Artikel
-typeName: Artikel
 title: Vegane Bücher für britische Kids
 seoTitle: Britische Schulkinder bekommen vegane Bücher zu Weihnachten
 ogTitle: Britische Schulkinder bekommen vegane Bücher zu Weihnachten

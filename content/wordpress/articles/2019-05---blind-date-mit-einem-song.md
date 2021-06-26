@@ -2,8 +2,6 @@
 date: 2019-05-30T09:00:28.000+00:00
 slug: papa-was-a-rolling-stone
 path: '/2019/05/papa-was-a-rolling-stone/'
-type: Artikel
-typeName: Artikel
 title: Blind Date mit einem Song
 seoTitle: Papa Was A Rolling Stone - Blind Date mit einem Song
 ogTitle: Papa Was A Rolling Stone - Blind Date mit einem Song

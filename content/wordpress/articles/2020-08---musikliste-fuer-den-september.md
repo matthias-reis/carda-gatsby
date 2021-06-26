@@ -2,8 +2,6 @@
 date: 2020-08-24T10:37:00.000Z
 slug: musikliste-september-2020
 path: /2020/08/musikliste-september-2020/
-type: Artikel
-typeName: Artikel
 title: Musikliste für den September
 seoTitle: Musikliste für den September - frisch selektiert und aufgelegt
 ogTitle: Musikliste für den September - frisch selektiert und aufgelegt

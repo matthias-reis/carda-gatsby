@@ -2,8 +2,6 @@
 date: 2020-05-19T10:24:27.000+00:00
 slug: dunk-festival-2020
 path: '/2020/05/dunk-festival-2020/'
-type: Artikel
-typeName: Artikel
 title: DUNK!festival 2020
 seoTitle: DUNK! Festival 2020 - 28 ganz besondere Songs
 ogTitle: DUNK! Festival 2020 - 28 ganz besondere Songs

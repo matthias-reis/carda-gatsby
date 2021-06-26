@@ -2,8 +2,6 @@
 date: 2017-07-05T15:01:53.000Z
 slug: g20
 path: /2017/07/g20/
-type: Artikel
-typeName: Artikel
 title: Was G20 mit unserer Stadt macht
 seoTitle: Was G20 mit unserer Stadt macht - Bestandsaufnahme einer Hamburgerin
 ogTitle: Was G20 mit unserer Stadt macht - Bestandsaufnahme einer Hamburgerin

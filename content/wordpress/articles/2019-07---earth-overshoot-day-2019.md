@@ -2,8 +2,6 @@
 date: 2019-07-28T15:47:29.000Z
 slug: earth-overshoot-day-2019
 path: /2019/07/earth-overshoot-day-2019/
-type: Artikel
-typeName: Artikel
 title: Earth Overshoot Day 2019
 seoTitle: 'Earth Overshoot Day 2019 - #MoveTheDate - wir müssen jetzt handeln!'
 ogTitle: 'Earth Overshoot Day 2019 - #MoveTheDate - wir müssen jetzt handeln!'

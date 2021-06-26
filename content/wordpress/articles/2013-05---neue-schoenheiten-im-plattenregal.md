@@ -2,8 +2,6 @@
 date: 2013-05-08T15:54:10.000Z
 slug: neue-schonheiten-im-plattenregal
 path: /2013/05/neue-schonheiten-im-plattenregal/
-type: Artikel
-typeName: Artikel
 title: Neue Schönheiten im Plattenregal
 seoTitle: Neue Schönheiten im Plattenregal - Morgen ist Feiertag!
 ogTitle: Neue Schönheiten im Plattenregal - Morgen ist Feiertag!

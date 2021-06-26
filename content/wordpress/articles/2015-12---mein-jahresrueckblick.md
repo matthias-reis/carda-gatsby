@@ -2,8 +2,6 @@
 date: 2015-12-23T17:27:47.000Z
 slug: jahresrueckblick
 path: /2015/12/jahresrueckblick/
-type: Artikel
-typeName: Artikel
 title: Mein Jahresrückblick
 seoTitle: Jahresrückblick - Anne bloggt cardamonchai
 ogTitle: Anne bloggt cardamonchai - Mein Jahresrückblick

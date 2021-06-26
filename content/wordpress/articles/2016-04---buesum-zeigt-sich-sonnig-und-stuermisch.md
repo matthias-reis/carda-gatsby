@@ -2,8 +2,6 @@
 date: 2016-04-06T14:05:41.000Z
 slug: buesum-zeigt-sich-sonnig-und-stuermisch
 path: /2016/04/buesum-zeigt-sich-sonnig-und-stuermisch/
-type: Artikel
-typeName: Artikel
 title: Büsum zeigt sich sonnig und stürmisch
 seoTitle: Büsum zeigt sich sonnig und stürmisch - Frühling an der Norsee
 ogTitle: Büsum zeigt sich sonnig und stürmisch - Frühling an der Norsee

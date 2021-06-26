@@ -2,8 +2,6 @@
 date: 2020-06-18T07:37:32.000Z
 slug: whoopi-goldberg-the-gigantic-change
 path: /2020/06/whoopi-goldberg-the-gigantic-change/
-type: Artikel
-typeName: Artikel
 title: Whoopi Goldberg in Extinction Rebellion Film
 seoTitle: Whoopi Goldberg im Klimafilm "The Gigantic Change"
 ogTitle: Whoopi Goldberg im Klimafilm "The Gigantic Change"

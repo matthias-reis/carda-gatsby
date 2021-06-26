@@ -2,8 +2,6 @@
 date: 2020-10-13T10:00:27.000Z
 slug: spaziergang-fuer-die-seele
 path: /2020/10/spaziergang-fuer-die-seele/
-type: Artikel
-typeName: Artikel
 title: Spaziergang für die Seele
 seoTitle: Spaziergang für die Seele – eine Runde um den Block
 ogTitle: Spaziergang für die Seele – eine Runde um den Block

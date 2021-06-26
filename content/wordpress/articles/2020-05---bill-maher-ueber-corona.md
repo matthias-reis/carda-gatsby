@@ -2,8 +2,6 @@
 date: 2020-05-11T09:31:27.000Z
 slug: bill-maher-ueber-corona
 path: /2020/05/bill-maher-ueber-corona/
-type: Artikel
-typeName: Artikel
 title: Bill Maher über Corona
 seoTitle: Bill Maher über Corona - Comedian spricht sich gegen Tierquälerei aus
 ogTitle: Bill Maher über Corona - Comedian spricht sich gegen Tierquälerei aus

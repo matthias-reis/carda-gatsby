@@ -2,8 +2,6 @@
 date: 2017-05-18T14:51:35.000Z
 slug: chris-cornell-nachruf
 path: /2017/05/chris-cornell-nachruf/
-type: Artikel
-typeName: Artikel
 title: Chris Cornell ist tot
 seoTitle: Chris Cornell ist tot - Ausnahmemusiker stirbt im Alter von 52 Jahren
 ogTitle: Chris Cornell ist tot - Ausnahmemusiker stirbt im Alter von 52 Jahren

@@ -2,8 +2,6 @@
 date: 2019-07-31T08:31:28.000Z
 slug: vincent-vegan-aus-hamburg
 path: /2019/07/vincent-vegan-aus-hamburg/
-type: Artikel
-typeName: Artikel
 title: Vincent Vegan aus Hamburg
 seoTitle: Vincent Vegan - vom Geheimtipp zum Fastfood Superstar
 ogTitle: Vincent Vegan - vom Geheimtipp zum Fastfood Superstar

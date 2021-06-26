@@ -2,8 +2,6 @@
 date: 2016-05-26T07:00:34.000Z
 slug: hamburger-stadttauben-e-v
 path: /2016/05/hamburger-stadttauben-e-v/
-type: Artikel
-typeName: Artikel
 title: Hamburger Stadttauben e. V.
 seoTitle: Hamburger Stadttauben e. V. - Verein rettet Tauben
 ogTitle: Hamburger Stadttauben e. V. - Verein rettet Tauben

@@ -2,8 +2,6 @@
 date: 2020-04-03T15:57:13.000Z
 slug: baumwipfelpfad-heidehimmel
 path: /2020/04/baumwipfelpfad-heidehimmel/
-type: Artikel
-typeName: Artikel
 title: Baumwipfelpfad Heidehimmel
 seoTitle: Baumwipfelpfad Heidehimmel - über den Bäumen wandeln
 ogTitle: Baumwipfelpfad Heidehimmel - über den Bäumen wandeln

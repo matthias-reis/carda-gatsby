@@ -2,8 +2,6 @@
 date: 2015-09-18T14:57:28.000Z
 slug: diy-koernerkissen-naehanleitung
 path: /2015/09/diy-koernerkissen-naehanleitung/
-type: Artikel
-typeName: Artikel
 title: DIY Körnerkissen
 seoTitle: DIY Körnerkissen - Meine Nähanleitung
 ogTitle: DIY Körnerkissen - Meine Nähanleitung

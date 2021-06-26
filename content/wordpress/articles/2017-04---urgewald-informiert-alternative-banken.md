@@ -2,8 +2,6 @@
 date: 2017-04-13T05:53:17.000Z
 slug: alternative-banken-urgewald-informiert
 path: /2017/04/alternative-banken-urgewald-informiert/
-type: Artikel
-typeName: Artikel
 title: 'urgewald informiert: Alternative Banken'
 seoTitle: Alternative Banken - urgewald informiert - Diese Banken machen es anders
 ogTitle: Alternative Banken - urgewald informiert - Diese Banken machen es anders

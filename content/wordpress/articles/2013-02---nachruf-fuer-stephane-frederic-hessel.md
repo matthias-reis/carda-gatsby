@@ -2,8 +2,6 @@
 date: 2013-02-28T11:29:18.000Z
 slug: stephane-frederic-hessel-nachruf
 path: /2013/02/stephane-frederic-hessel-nachruf/
-type: Artikel
-typeName: Artikel
 title: Nachruf für Stéphane Frédéric Hessel
 seoTitle: Nachruf für Stéphane Frédéric Hessel
 ogTitle: Nachruf für Stéphane Frédéric Hessel

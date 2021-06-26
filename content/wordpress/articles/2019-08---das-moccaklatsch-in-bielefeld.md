@@ -2,8 +2,6 @@
 date: 2019-08-02T13:24:38.000Z
 slug: das-moccaklatsch-in-bielefeld
 path: /2019/08/das-moccaklatsch-in-bielefeld/
-type: Artikel
-typeName: Artikel
 title: Das Moccaklatsch in Bielefeld
 seoTitle: Das Moccaklatsch in Bielefeld - "Kann ich bitte einfach hierbleiben?"
 ogTitle: Das Moccaklatsch in Bielefeld - "Kann ich bitte einfach hierbleiben?"

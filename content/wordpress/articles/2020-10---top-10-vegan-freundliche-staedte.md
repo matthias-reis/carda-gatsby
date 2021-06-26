@@ -2,8 +2,6 @@
 date: 2020-10-01T07:30:22.000Z
 slug: vegan-freundliche-staedte-top-10
 path: /2020/10/vegan-freundliche-staedte-top-10/
-type: Artikel
-typeName: Artikel
 title: Top 10 vegan-freundliche Städte
 seoTitle: Die Top 10 der vegan-freundlichen Städte – Veganes Europa
 ogTitle: Die Top 10 der vegan-freundlichen Städte – Veganes Europa

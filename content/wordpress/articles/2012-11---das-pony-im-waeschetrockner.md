@@ -2,8 +2,6 @@
 date: 2012-11-22T17:35:49.000Z
 slug: das-pony-im-waschetrockner-oder-wie-ich-meine-eltern-in-die-gesellschaft-einfuhrte
 path: /2012/11/das-pony-im-waschetrockner-oder-wie-ich-meine-eltern-in-die-gesellschaft-einfuhrte/
-type: Artikel
-typeName: Artikel
 title: Das Pony im Wäschetrockner
 seoTitle: Das Pony im Wäschetrockner - Die Einführung in die Gesellschaft
 ogTitle: Das Pony im Wäschetrockner - Die Einführung in die Gesellschaft

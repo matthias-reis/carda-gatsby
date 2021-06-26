@@ -2,8 +2,6 @@
 date: 2014-10-10T19:20:17.000+00:00
 slug: wolle-das-kann-doch-gar-nicht-so-schlimm-sein
 path: '/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/'
-type: Artikel
-typeName: Artikel
 title: Wolle? Das kann doch gar nicht so schlimm sein!
 seoTitle: Wolle und vegane Alternativen - darum verzichte ich auf Wolle
 ogTitle: Wolle und vegane Alternativen - darum verzichte ich auf Wolle

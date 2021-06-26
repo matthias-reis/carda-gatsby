@@ -2,8 +2,6 @@
 date: 2020-10-29T11:49:47.000Z
 slug: kuhmilch-brustkrebsrisiko
 path: /2020/10/kuhmilch-brustkrebsrisiko/
-type: Artikel
-typeName: Artikel
 title: Kuhmilch erhöht das Brustkrebsrisiko
 seoTitle: Kuhmilch erhöht das Brustkrebsrisiko - neue Studien decken auf
 ogTitle: Kuhmilch erhöht das Brustkrebsrisiko - neue Studien decken auf

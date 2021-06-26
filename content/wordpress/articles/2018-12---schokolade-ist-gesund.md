@@ -2,8 +2,6 @@
 date: 2018-12-10T14:00:24.000Z
 slug: schokolade-ist-gesund
 path: /2018/12/schokolade-ist-gesund/
-type: Artikel
-typeName: Artikel
 title: Schokolade ist gesund
 seoTitle: Schokolade ist gesund - Polyphenole in der Forschung
 ogTitle: Schokolade ist gesund - Polyphenole in der Forschung

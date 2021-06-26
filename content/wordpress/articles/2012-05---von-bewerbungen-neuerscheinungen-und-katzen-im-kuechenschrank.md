@@ -2,8 +2,6 @@
 date: 2012-05-18T08:46:04.000Z
 slug: von-bewerbungen-neuerscheinungen-und-katzen-im-kuchenschrank
 path: /2012/05/von-bewerbungen-neuerscheinungen-und-katzen-im-kuchenschrank/
-type: Artikel
-typeName: Artikel
 title: Von Bewerbungen, Neuerscheinungen und Katzen im Küchenschrank
 seoTitle: Von Bewerbungen, Neuerscheinungen und Katzen im Kühlschrank
 ogTitle: Von Bewerbungen, Neuerscheinungen und Katzen im Kühlschrank

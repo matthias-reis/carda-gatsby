@@ -2,8 +2,6 @@
 date: 2011-09-08T19:03:46.000Z
 slug: heimweggedanken
 path: /2011/09/heimweggedanken/
-type: Artikel
-typeName: Artikel
 title: Heimweggedanken
 seoTitle: Heimweggedanken - "Ihr könnt mich mal", sagte der Igel
 ogTitle: Heimweggedanken - "Ihr könnt mich mal", sagte der Igel

@@ -2,8 +2,6 @@
 date: 2017-08-24T10:37:08.000Z
 slug: klimaretter-sparbuch
 path: /2017/08/klimaretter-sparbuch/
-type: Artikel
-typeName: Artikel
 title: Anjas Siegesmund
 seoTitle: Anjas Klimaretter-Sparbuch - Grüne Politikerin stellt neues Projekt vor
 ogTitle: Anjas Klimaretter-Sparbuch - Grüne Politikerin stellt neues Projekt vor

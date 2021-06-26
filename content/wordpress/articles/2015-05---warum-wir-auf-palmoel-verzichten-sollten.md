@@ -2,8 +2,6 @@
 date: 2015-05-14T16:24:09.000Z
 slug: palmoel
 path: /2015/05/palmoel/
-type: Artikel
-typeName: Artikel
 title: Warum wir auf Palmöl verzichten sollten
 seoTitle: Warum wir auf Palmöl besser verzichten sollten - Regenwaldabholzung
 ogTitle: Warum wir auf Palmöl besser verzichten sollten - Regenwaldabholzung

@@ -2,8 +2,6 @@
 date: 2017-11-04T15:49:09.000Z
 slug: die-waffe-der-frau
 path: /2017/11/die-waffe-der-frau/
-type: Artikel
-typeName: Artikel
 title: Die Waffe der Frau
 seoTitle: Die Waffe der Frau - Dieser Umschlag war heute im Briefkasten
 ogTitle: Die Waffe der Frau - Dieser Umschlag war heute im Briefkasten

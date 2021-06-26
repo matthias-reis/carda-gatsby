@@ -2,8 +2,6 @@
 date: 2021-01-13T16:08:27.000Z
 slug: epaulettenhaie-klimawandel
 path: /2021/01/epaulettenhaie-klimawandel/
-type: Artikel
-typeName: Artikel
 title: Klimawandel beeinträchtigt Haie
 seoTitle: Epaulettenhaie von Klimaerwärmung in Entwicklung gestört
 ogTitle: Epaulettenhaie von Klimaerwärmung in Entwicklung gestört

@@ -2,8 +2,6 @@
 date: 2018-03-10T09:00:16.000+00:00
 slug: presidents-of-the-united-states-peaches
 path: '/2018/03/presidents-of-the-united-states-peaches/'
-type: Artikel
-typeName: Artikel
 title: Blind Date mit einem Song
 seoTitle: Blind Date mit einem Song - Presidents Of the United States -"Peaches"
 ogTitle: Blind Date mit einem Song - Presidents Of the United States -"Peaches"

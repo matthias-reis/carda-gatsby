@@ -2,8 +2,6 @@
 date: 2019-12-23T09:25:02.000Z
 slug: die-drei-alben-des-jahres
 path: /2019/12/die-drei-alben-des-jahres/
-type: Artikel
-typeName: Artikel
 title: Die drei Alben des Jahres 2019
 seoTitle: Die drei Alben des Jahres - präsentiert von den drei von der Bande
 ogTitle: Die drei Alben des Jahres - präsentiert von den drei von der Bande

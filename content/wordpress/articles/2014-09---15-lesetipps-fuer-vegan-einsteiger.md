@@ -2,8 +2,6 @@
 date: 2014-09-20T08:58:20.000Z
 slug: 15-lesetipps-fuer-vegan-einsteiger
 path: /2014/09/15-lesetipps-fuer-vegan-einsteiger/
-type: Artikel
-typeName: Artikel
 title: 15 Lesetipps für Vegan-Einsteiger
 seoTitle: 15 Lesetipps für Vegan-Neulinge - so gelingt der Einstieg ganz leicht
 ogTitle: 15 Lesetipps für Vegan-Neulinge - so gelingt der Einstieg ganz leicht

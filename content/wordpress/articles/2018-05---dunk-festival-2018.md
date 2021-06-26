@@ -2,8 +2,6 @@
 date: 2018-05-16T15:40:07.000+00:00
 slug: dunkfestival-2018-postrock-liebe-fuer-immer
 path: '/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/'
-type: Artikel
-typeName: Artikel
 title: Dunk!festival 2018
 seoTitle: Dunk!festival 2018 - 36 Post-Rock Bands in 3 Tagen
 ogTitle: Dunk!festival 2018 - Liebe für immer - 36 Post-Rock Bands in 3 Tagen

@@ -2,8 +2,6 @@
 date: 2016-05-08T08:41:32.000+00:00
 slug: hafengeburtstag-in-hamburg
 path: '/2016/05/hafengeburtstag-in-hamburg/'
-type: Artikel
-typeName: Artikel
 title: 827. Hafengeburtstag in Hamburg
 seoTitle: 827. Hafengeburtstag in Hamburg - Die Eröffnung
 ogTitle: 827. Hafengeburtstag in Hamburg

@@ -2,8 +2,6 @@
 date: 2015-12-28T18:57:20.000Z
 slug: silvester-auf-boeller-verzichten
 path: /2015/12/silvester-auf-boeller-verzichten/
-type: Artikel
-typeName: Artikel
 title: Silvester auf Böller verzichten
 seoTitle: Silverster auf Böller verzichten - Für Tiere und Menschen
 ogTitle: Silverster auf Böller verzichten - Für Tiere und Menschen

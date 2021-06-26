@@ -2,8 +2,6 @@
 date: 2017-10-29T15:19:35.000Z
 slug: mystery-blogger-award-mein-blog-ist-dabei
 path: /2017/10/mystery-blogger-award-mein-blog-ist-dabei/
-type: Artikel
-typeName: Artikel
 title: Mystery Blogger Award
 seoTitle: Mystery Blogger Award - Mein Blog ist dabei - Ein Interview mit mir
 ogTitle: Mystery Blogger Award - Mein Blog ist dabei - Ein Interview mit mir

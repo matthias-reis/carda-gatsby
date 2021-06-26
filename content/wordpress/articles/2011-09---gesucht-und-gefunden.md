@@ -2,8 +2,6 @@
 date: 2011-09-08T13:14:01.000Z
 slug: gesucht-und-gefunden
 path: /2011/09/gesucht-und-gefunden/
-type: Artikel
-typeName: Artikel
 title: Gesucht und gefunden?
 seoTitle: Gesucht und gefunden? Wo ist mein Song nur geblieben?
 ogTitle: Gesucht und gefunden? Wo ist mein Song nur geblieben?

@@ -2,8 +2,6 @@
 date: 2019-06-03T08:03:26.000Z
 slug: veraenderungen-sind-gut
 path: /2019/06/veraenderungen-sind-gut/
-type: Artikel
-typeName: Artikel
 title: Warum wir Veränderungen zulassen sollten
 seoTitle: Warum wir Veränderungen zulassen sollten - neu ist gut
 ogTitle: Warum wir Veränderungen zulassen sollten - neu ist gut

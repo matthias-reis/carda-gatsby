@@ -2,8 +2,6 @@
 date: 2014-07-24T12:15:29.000Z
 slug: my-vegan-diary-mein-veganes-tagebuch
 path: /2014/07/my-vegan-diary-mein-veganes-tagebuch/
-type: Artikel
-typeName: Artikel
 title: Mein veganes Tagebuch
 seoTitle: My Vegan Diary - Mein veganes Tagebuch
 ogTitle: My Vegan Diary - Mein veganes Tagebuch

@@ -2,8 +2,6 @@
 date: 2019-10-14T16:57:31.000Z
 slug: klimawandel-mittelmeerraum
 path: /2019/10/klimawandel-mittelmeerraum/
-type: Artikel
-typeName: Artikel
 title: 1,5 Grad Klimaerwärmung bereits erreicht
 seoTitle: Der Klimawandel im Mittelmeerraum - neue Studie der UfM
 ogTitle: Der Klimawandel im Mittelmeerraum - neue Studie der UfM

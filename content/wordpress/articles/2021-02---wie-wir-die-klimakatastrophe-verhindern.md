@@ -2,8 +2,6 @@
 date: 2021-02-16T13:23:36.000Z
 slug: bill-gates-wie-wir-die-klimakatastrophe-verhindern
 path: /2021/02/bill-gates-wie-wir-die-klimakatastrophe-verhindern/
-type: Artikel
-typeName: Artikel
 title: '"Wie wir die Klimakatastrophe verhindern"'
 seoTitle: 'Bill Gates: "Wie wir die Klimakatastrophe verhindern"'
 ogTitle: 'Bill Gates: "Wie wir die Klimakatastrophe verhindern"'

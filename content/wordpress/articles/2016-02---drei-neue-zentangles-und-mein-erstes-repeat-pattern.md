@@ -2,8 +2,6 @@
 date: 2016-02-21T17:54:43.000Z
 slug: mein-erstes-repeat-pattern
 path: /2016/02/mein-erstes-repeat-pattern/
-type: Artikel
-typeName: Artikel
 title: Drei neue Zentangles und mein erstes Repeat Pattern
 seoTitle: Repeat Pattern aus meiner Werkstatt
 ogTitle: Repeat Pattern aus meiner Werkstatt und drei neue Zentangles

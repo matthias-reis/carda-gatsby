@@ -2,8 +2,6 @@
 date: 2014-11-26T16:24:13.000Z
 slug: vega-und-das-chaos
 path: /2014/11/vega-und-das-chaos/
-type: Artikel
-typeName: Artikel
 title: Vega und das Chaos
 seoTitle: Vega und das Chaos - ein veganer Rapper auf dem Weg zum Erfolg
 ogTitle: Vega und das Chaos - ein veganer Rapper auf dem Weg zum Erfolg

@@ -2,8 +2,6 @@
 date: 2017-09-03T16:14:59.000Z
 slug: ahoi-urlaub-in-sicht
 path: /2017/09/ahoi-urlaub-in-sicht/
-type: Artikel
-typeName: Artikel
 title: Ahoi! Urlaub in Sicht!
 seoTitle: Ahoi! Urlaub in Sicht! Ich melde mich mal kurz ab...
 ogTitle: Ahoi! Urlaub in Sicht! Ich melde mich mal kurz ab...

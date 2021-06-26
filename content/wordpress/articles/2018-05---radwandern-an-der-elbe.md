@@ -2,8 +2,6 @@
 date: 2018-05-27T17:08:56.000Z
 slug: radwandern-an-der-elbe
 path: /2018/05/radwandern-an-der-elbe/
-type: Artikel
-typeName: Artikel
 title: Radwandern an der Elbe
 seoTitle: Radwandern mit Badepausen an der Elbe - Nur Urlaub ist schöner
 ogTitle: Radwandern mit Badepausen an der Elbe - Nur Urlaub ist schöner

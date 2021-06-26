@@ -2,8 +2,6 @@
 date: 2015-09-17T14:06:27.000Z
 slug: sonartests-eingestellt-ndrc-erfolg
 path: /2015/09/sonartests-eingestellt-ndrc-erfolg/
-type: Artikel
-typeName: Artikel
 title: Navy stellt gefährliche Sonartests ein
 seoTitle: Navy stellt gefährliche Sonartests ein Erfolg für NDRC
 ogTitle: Navy stellt gefährliche Sonartests ein Erfolg für NDRC

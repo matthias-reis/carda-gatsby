@@ -2,8 +2,6 @@
 date: 2017-08-29T14:43:25.000Z
 slug: kenia-sagt-plastiktueten-nein-danke
 path: /2017/08/kenia-sagt-plastiktueten-nein-danke/
-type: Artikel
-typeName: Artikel
 title: Plastiktüten - Nein danke!
 seoTitle: Plastiktüten - Nein danke! Kenia greift in Sachen Umweltschutz durch
 ogTitle: Plastiktüten - Nein danke! Kenia greift in Sachen Umweltschutz durch

@@ -2,8 +2,6 @@
 date: 2017-08-06T15:55:45.000Z
 slug: rocknroll-vegan-im-neuen-gewand-neuer-blog-und-neues-logo
 path: /2017/08/rocknroll-vegan-im-neuen-gewand-neuer-blog-und-neues-logo/
-type: Artikel
-typeName: Artikel
 title: Rock 'n' Roll vegan im neuen Gewand
 seoTitle: Rock ´n´ Roll vegan im neuen Gewand
 ogTitle: Rock ´n´ Roll vegan im neuen Gewand

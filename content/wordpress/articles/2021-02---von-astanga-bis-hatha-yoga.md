@@ -1,42 +1,38 @@
 ---
 date: 2021-02-10T18:20:58.000+00:00
 slug: yoga-stile
-path: "/2021/02/yoga-stile/"
-type: Artikel
-typeName: Artikel
+path: '/2021/02/yoga-stile/'
 title: Von Astanga bis Hatha Yoga
 seoTitle: Yoga-Stile in der Übersicht – Von Astanga bis Hatha Yoga
 ogTitle: Yoga-Stile in der Übersicht – Von Astanga bis Hatha Yoga
-description: Yoga-Stile gibt es viele. Welcher der Richtige für Euch ist, findet Ihr
-  durch Ausprobieren heraus. Ich habe ein paar Tipps für Euch.
-excerpt: Yoga-Stile gibt es viele. Welcher der Richtige für Euch ist, findet Ihr durch
-  Ausprobieren heraus. Ich habe ein paar Tipps für Euch zusammengestellt.
+description: Yoga-Stile gibt es viele. Welcher der Richtige für Euch ist, findet Ihr durch Ausprobieren heraus. Ich habe ein paar Tipps für Euch.
+excerpt: Yoga-Stile gibt es viele. Welcher der Richtige für Euch ist, findet Ihr durch Ausprobieren heraus. Ich habe ein paar Tipps für Euch zusammengestellt.
 fileName: 2021-02---von-astanga-bis-hatha-yoga.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_yoga-stile__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_yoga-stile__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgf/xAAoEAACAQMEAQMEAwAAAAAAAAABAgMEBREABhIhEyIxQQcUUWEVcbH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AH7tRW/btDTVNbRF0nkjpkkWFZF8zh+AbrPZUKfwG9tTNmUTbop6s+SnT7WqhVlo6TxRxyBV8sYbALYJAySc4/WuebnmnGybgIp6tngaOVMOTxKyD1e/WBnvT30+Nwp9t2mm8tXSTz1uWUMVZmaRQHIznJHyffGg5Ot4qaK6TlnaWHytyjLnBHL4Pxq5d6WhuVtNbQy8lYkkcTyQ+/E/vWivOxa25y0lPQ2+rljgL854RGAwLdKOTKesE5PyfbVe7bQo6Whnp7X929Ss60rSzYCsqrlgel5MobrHZCkd4Gg2tu/gN17X3BRW6309LWzUpRJ5GBUyMSUPpyV7Gc/7qxu6o2zaKm3VDUDNKzqkbxHpWUj35MOR9ROez1/WjRoMJt6/TLLIVutSCJXyvJRn1HrpdL/Uu5rfIYJpauOCeAEK6guSv47Ixg950aNRX//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_yoga-stile-fb.png__l.jpg
 labels:
-- Achtsamkeit
-- Achtsamkeit
-- Ashtanga Yoga
-- Bikram Yoga
-- Entspannung
-- Fitness
-- Hatha Yoga
-- Iyengar Yoga
-- Kundalini Yoga
-- Meditation
-- Viniyoga
-- Wellness
-- Yin Yoga
-- Yoga
-- Yoga Flow
-- Yoga Nidra
-- Yoga-Gurt
-- Yoga-Mode
-- Yogablock
-- Yogamatte
+  - Achtsamkeit
+  - Achtsamkeit
+  - Ashtanga Yoga
+  - Bikram Yoga
+  - Entspannung
+  - Fitness
+  - Hatha Yoga
+  - Iyengar Yoga
+  - Kundalini Yoga
+  - Meditation
+  - Viniyoga
+  - Wellness
+  - Yin Yoga
+  - Yoga
+  - Yoga Flow
+  - Yoga Nidra
+  - Yoga-Gurt
+  - Yoga-Mode
+  - Yogablock
+  - Yogamatte
 focusKeyword: Yoga-Stil
 status: publish
 isWerbung: false
@@ -46,8 +42,8 @@ errors: {}
 subTitle: Welcher Yoga-Stil ist der richtige für mich?
 advertisement: true
 affiliate: true
-
 ---
+
 **Yoga ist für mich nicht nur ein Hobby. Es ist meine Leidenschaft. Yoga holt mich runter, wenn ich genervt bin. Yoga erdet mich, es bringt mich an meine Grenzen und sorgt nach langen Schreibtischtagen für Bewegung. Welchen Yoga-Stil Ihr am liebsten mögt, findet Ihr am besten durch Ausprobieren heraus.**
 
 Ich liebe Yoga Flows und taste mich langsam an Entspannungsübungen mit Yoga Nidra heran. Wenn sich die Gelegenheit bietet, gehe ich unheimlich gerne hin und wieder zum Bikram Yoga – Asanas bei 35 bis 40 Grad bringen einen nicht nur zum Schwitzen – sie machen nachhaltig glücklich.

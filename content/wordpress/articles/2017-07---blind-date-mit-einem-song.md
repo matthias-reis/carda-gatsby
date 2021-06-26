@@ -2,8 +2,6 @@
 date: 2017-07-22T08:00:08.000+00:00
 slug: blind-date-summerwine
 path: '/2017/07/blind-date-summerwine/'
-type: Artikel
-typeName: Artikel
 title: Blind Date mit einem Song
 seoTitle: Blind Date mit einem Song - Summerwine von Nancy Sinatra
 ogTitle: Blind Date mit einem Song - Summerwine von Nancy Sinatra

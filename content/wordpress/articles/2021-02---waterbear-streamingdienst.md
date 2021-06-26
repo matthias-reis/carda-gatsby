@@ -1,12 +1,10 @@
 ---
 ogTitle: WaterBear Streamingdienst – Das Videoportal für modernen Aktivismus
-excerpt: WaterBear ist ein kostenloser Streamingdienst für Themen wie
-  Nachhaltigkeit, Tierrechte, Artenschutz und Klimaaktivismus.
+excerpt: WaterBear ist ein kostenloser Streamingdienst für Themen wie Nachhaltigkeit, Tierrechte, Artenschutz und Klimaaktivismus.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-fb.png__l.jpg
 isAffiliate: false
 path: /2021/02/waterbear-streamingdienst/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAJxAAAQMEAQMEAwEAAAAAAAAAAQIDBAAFESESBjFBEyJhcRQzQoH/xAAYAQEAAwEAAAAAAAAAAAAAAAABAAIDBP/EAB4RAAICAgMBAQAAAAAAAAAAAAECABEDEiEiMROx/9oADAMBAAIRAxEAPwDPyeqYE+5pamQrUzEXwShUeMVOcuYB5EtlOCddxjPeuf3213VEtz1YkrLa1fpSvijKieAGNU3dpknp26RFwZMiYy4tKjHe4todxnAPE5x8+av3+s7DGhwTDtN+/LWjlOWZDRSXdbbwNpyT332z5pDtUXRNiB5MLCvTkRtbM56QlHL1OKyo5IOhkgkgEfVTIv8Acro9HYt8h124KWEtMIBBWFd8qBGPHf57VbEW2Vbmpb8S8qLLRShRfjqSdkpz/SfnG/NbXpa33RuytOyen0SWXgX1rCWV5K9hOCckYHbxSzIw0yVUxGNlOyWZy9FxtYkui4RVvNA4ZCCSGzk6931TZi2KRbFyobZQ4wObiAotZ12SSd+4j/KKKb661LHnkye5RIMe0SJ1udeDTLYWkrdScqOgOJ9xGx4pS09SSYPTpaU62iLJc4LbSwS4EnRUhwnAIA0PqiiuRH+t7Dw1+SY8rdqn/9k=
-typeName: Artikel
 isWerbung: false
 fileName: 2021-02---waterbear-streamingdienst.md
 slug: waterbear-streamingdienst
@@ -20,8 +18,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02
 title: WaterBear Streamingdienst
 subTitle: Das Videoportal für modernen Aktivismus
 seoTitle: WaterBear Streamingdienst – Das Videoportal für modernen Aktivismus
-description: WaterBear ist ein kostenloser Streamingdienst für Themen wie
-  Nachhaltigkeit, Tierrechte, Artenschutz und Klimaaktivismus.
+description: WaterBear ist ein kostenloser Streamingdienst für Themen wie Nachhaltigkeit, Tierrechte, Artenschutz und Klimaaktivismus.
 language: de
 type: Artikel
 labels:
@@ -34,6 +31,7 @@ labels:
   - WaterBear
   - WaterBear Network
 ---
+
 **"We don't want you to Netflix &amp; chill. We want you to WaterBear and act!" – das sagte Lisa Rose, Head of Impact beim Nachhaltigkeits-Streamingdienst WaterBear gestern Abend in einer digitalen Konferenz.**
 
 WaterBear ist der Gegenentwurf zu Netflix, Prime und Co. Auf der Plattform wird Filmmaterial der unterschiedlichsten Aktivist⋆innen und NGOs gezeigt. Das Start-up aus England ist noch ganz jung und schon weltweit auf dem Vormarsch. Inzwischen gibt es nur noch wenige Länder, in denen das Programm nicht verfügbar ist.
@@ -71,4 +69,3 @@ Inzwischen arbeitet WaterBear weltweit mit über 80 Organisationen zusammen – 
 Die Plattform hat sich übrigens nach dem Bärtierchen (Tardigrada) – auch begannt als Wasserbär – benannt. Die meist unter einem Millimeter kleinen achtbeinigen Tierchen erinnern optisch an Teddybären. Ihr Lebensraum ist das Meer. Dort siedeln sie sich besonders gerne in Mooskissen an. Eine besondere Eigenart der Bärtierchen ist ein todesähnlicher Zustand, in dem sich extreme Umweltbedingungen überstehen können. Danach wachen sie auf und leben weiter.
 
 Wenn Ihr jetzt neugierig geworden seid und gerne mal reinschauen möchtet: [Hier geht es direkt zu WaterBear](https://www.waterbear.com/).
-

@@ -2,8 +2,6 @@
 date: 2018-03-26T06:10:10.000Z
 slug: vegane-kosmetik-und-naturkosmetik
 path: /2018/03/vegane-kosmetik-und-naturkosmetik/
-type: Artikel
-typeName: Artikel
 title: Vegane Kosmetik, Biokosmetik und Naturkosmetik
 seoTitle: Vegane Kosmetik, Naturkosmetik und Biokosmetik - Die Unterschiede
 ogTitle: Vegane Kosmetik, Naturkosmetik und Biokosmetik - Die Unterschiede

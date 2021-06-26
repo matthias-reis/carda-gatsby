@@ -2,8 +2,6 @@
 date: 2012-08-20T10:00:34.000Z
 slug: kernzeitverkuerzung-das-leben-im-sommer
 path: /2012/08/kernzeitverkuerzung-das-leben-im-sommer/
-type: Artikel
-typeName: Artikel
 title: Das Leben im Sommer
 seoTitle: Kernzeitverkürzung - das Leben im Sommer ist schön
 ogTitle: Kernzeitverkürzung - das Leben im Sommer ist schön

@@ -2,8 +2,6 @@
 date: 2015-09-01T18:09:40.000Z
 slug: arbeitsplatz-in-hamburg-gesucht
 path: /2015/09/arbeitsplatz-in-hamburg-gesucht/
-type: Artikel
-typeName: Artikel
 title: Arbeitsplatz in Hamburg gesucht
 seoTitle: Arbeitsplatz in Hamburg gesucht - Redakteurin / Texterin
 ogTitle: Arbeitsplatz in Hamburg gesucht - Redakteurin / Texterin

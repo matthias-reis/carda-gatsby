@@ -2,8 +2,6 @@
 date: 2018-03-02T08:08:35.000+00:00
 slug: meine-ultimative-lieblingsplatten-liste
 path: '/2018/03/meine-ultimative-lieblingsplatten-liste/'
-type: Artikel
-typeName: Artikel
 title: 10 Alben - Keine Erklärung - Teil 1/3
 seoTitle: 10 Alben - Keine Erklärung - Die ultimative Lieblingsplattenliste aller Zeiten
 ogTitle: 10 Alben - Keine Erklärung - Die ultimative Lieblingsplattenliste aller Zeiten

@@ -2,8 +2,6 @@
 date: 2015-12-02T13:08:38.000Z
 slug: tierpatenschaft-verschenken-und-kochbuch-bekommen
 path: /2015/12/tierpatenschaft-verschenken-und-kochbuch-bekommen/
-type: Artikel
-typeName: Artikel
 title: Tierpatenschaft verschenken und Kochbuch bekommen!
 seoTitle: Tierpatenschaft verschenken und Kochbuch bekommen
 ogTitle: Tierpatenschaft verschenken und Kochbuch bekommen

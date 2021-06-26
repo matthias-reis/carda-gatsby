@@ -2,8 +2,6 @@
 date: 2019-02-25T17:04:17.000+00:00
 slug: 10-songs-fuer-den-maerz
 path: '/2019/02/10-songs-fuer-den-maerz/'
-type: Artikel
-typeName: Artikel
 title: 10 Songs für den März 2019
 seoTitle: 10 Songs für den März - präsentiert von den drei von der Bande
 ogTitle: 10 Songs für den März - präsentiert von den drei von der Bande

@@ -2,8 +2,6 @@
 date: 2017-09-26T07:44:23.000Z
 slug: chelsea-handler-maenner-frauen-laecheln
 path: /2017/09/chelsea-handler-maenner-frauen-laecheln/
-type: Artikel
-typeName: Artikel
 title: Chelsea Handler
 seoTitle: 'Chelsea Handler sagt "Männer: Hört auf uns zu sagen, wir sollen lächeln!"'
 ogTitle: 'Chelsea Handler sagt "Männer: Hört auf uns zu sagen, wir sollen lächeln!"'

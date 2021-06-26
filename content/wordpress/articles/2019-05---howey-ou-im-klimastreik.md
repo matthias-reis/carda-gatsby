@@ -2,8 +2,6 @@
 date: 2019-05-29T09:33:36.000Z
 slug: howey-ou-klimastreik
 path: /2019/05/howey-ou-klimastreik/
-type: Artikel
-typeName: Artikel
 title: Howey Ou im Klimastreik
 seoTitle: Howey Ou im Klimastreik - 16-jährige Schülerin demonstriert in China
 ogTitle: Howey Ou im Klimastreik - 16-jährige Schülerin demonstriert in China

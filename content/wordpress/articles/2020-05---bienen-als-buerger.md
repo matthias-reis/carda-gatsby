@@ -2,8 +2,6 @@
 date: 2020-05-13T15:33:17.000+00:00
 slug: bienen-curridabat-costa-rica
 path: '/2020/05/bienen-curridabat-costa-rica/'
-type: Artikel
-typeName: Artikel
 title: Bienen als Bürger
 seoTitle: Bienen als Bürger - eine grüne Stadt in Costa Rica
 ogTitle: Bienen als Bürger - eine grüne Stadt in Costa Rica

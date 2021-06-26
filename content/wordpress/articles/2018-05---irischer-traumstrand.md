@@ -2,8 +2,6 @@
 date: 2018-05-20T15:57:05.000+00:00
 slug: irischer-traumstrand
 path: '/2018/05/irischer-traumstrand/'
-type: Artikel
-typeName: Artikel
 title: Irischer Traumstrand
 seoTitle: Irischer Traumstrand - Location wird nicht verraten
 ogTitle: Irischer Traumstrand - Location wird nicht verraten

@@ -2,8 +2,6 @@
 date: 2020-08-28T09:47:43.000Z
 slug: a-life-on-our-planet
 path: /2020/08/a-life-on-our-planet/
-type: Artikel
-typeName: Artikel
 title: '"A Life On Our Planet"'
 seoTitle: '"A Life On Our Planet" - der neue Klimafilm von David Attenborough'
 ogTitle: '"A Life On Our Planet" - der neue Klimafilm von David Attenborough'

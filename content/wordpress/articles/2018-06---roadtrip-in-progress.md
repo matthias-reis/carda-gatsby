@@ -2,8 +2,6 @@
 date: 2018-06-17T10:14:35.000Z
 slug: roadtrip-in-progress
 path: /2018/06/roadtrip-in-progress/
-type: Artikel
-typeName: Artikel
 title: Roadtrip in progress...
 seoTitle: Roadtrip in Progress - Meine sommerliche Auszeit
 ogTitle: Roadtrip in Progress - Meine sommerliche Auszeit

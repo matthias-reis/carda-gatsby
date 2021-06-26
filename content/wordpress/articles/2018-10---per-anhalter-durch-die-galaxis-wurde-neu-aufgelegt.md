@@ -2,8 +2,6 @@
 date: 2018-10-19T08:13:36.000Z
 slug: per-anhalter-durch-die-galaxis-wurde-neu-aufgelegt
 path: /2018/10/per-anhalter-durch-die-galaxis-wurde-neu-aufgelegt/
-type: Artikel
-typeName: Artikel
 title: Per Anhalter durch die Galaxis wurde neu aufgelegt!
 seoTitle: Per Anhalter durch die Galaxis wurde neu aufgelegt!
 ogTitle: Per Anhalter durch die Galaxis wurde neu aufgelegt!

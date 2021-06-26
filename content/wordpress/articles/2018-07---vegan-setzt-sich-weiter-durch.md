@@ -2,8 +2,6 @@
 date: 2018-07-30T07:13:16.000Z
 slug: produkteinfuehrungen-vegan
 path: /2018/07/produkteinfuehrungen-vegan/
-type: Artikel
-typeName: Artikel
 title: Vegan setzt sich weiter durch
 seoTitle: 'Neue Studie zeigt: Vegan setzt sich weiter durch - Produkteinführungen'
 ogTitle: 'Neue Studie zeigt: Vegan setzt sich weiter durch - Produkteinführungen'

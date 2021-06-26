@@ -2,8 +2,6 @@
 date: 2020-11-18T11:34:05.000Z
 slug: hidden-animals-in-the-anthropocene
 path: /2020/11/hidden-animals-in-the-anthropocene/
-type: Artikel
-typeName: Artikel
 title: '"Hidden: Animals in the Anthropocene"'
 seoTitle: '"Hidden: Animals in the Anthropocene" – Tierrechtsbuch zeigt die Wahrheit'
 ogTitle: '"Hidden: Animals in the Anthropocene" – Tierrechtsbuch zeigt die Wahrheit'

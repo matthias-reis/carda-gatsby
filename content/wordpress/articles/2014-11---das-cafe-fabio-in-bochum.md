@@ -2,8 +2,6 @@
 date: 2014-11-15T15:50:26.000Z
 slug: das-cafe-fabio-in-bochum
 path: /2014/11/das-cafe-fabio-in-bochum/
-type: Artikel
-typeName: Artikel
 title: Das Café Fabio in Bochum
 seoTitle: Das Café Fabio in Bochum - vegan essen im Ruhrgebiet
 ogTitle: Das Café Fabio in Bochum - vegan essen im Ruhrgebiet

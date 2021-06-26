@@ -2,8 +2,6 @@
 date: 2020-07-22T10:21:03.000Z
 slug: greta-thunberg-gulbenkian-preis
 path: /2020/07/greta-thunberg-gulbenkian-preis/
-type: Artikel
-typeName: Artikel
 title: Greta Thunberg spendet 1 Mio Euro
 seoTitle: Greta Thunberg spendet 1 Mio Euro - Gulbenkian-Preis
 ogTitle: Greta Thunberg spendet 1 Mio Euro - Gulbenkian-Preis

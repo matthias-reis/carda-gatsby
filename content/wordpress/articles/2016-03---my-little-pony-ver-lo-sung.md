@@ -2,8 +2,6 @@
 date: 2016-03-04T13:17:28.000Z
 slug: little-pony-verlosung-die-gewinner-stehen-fest
 path: /2016/03/little-pony-verlosung-die-gewinner-stehen-fest/
-type: Artikel
-typeName: Artikel
 title: My Little Pony Ver&shy;lo&shy;sung
 seoTitle: My Little Pony Verlosung - Die Gewinner stehen fest
 ogTitle: My Little Pony Verlosung - Die Gewinner stehen fest

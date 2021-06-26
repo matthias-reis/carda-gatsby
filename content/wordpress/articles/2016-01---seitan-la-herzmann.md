@@ -19,8 +19,6 @@ labels:
   - vegane Rezepte
   - Vegane Rezepte
   - Vleisch
-type: Artikel
-typeName: Artikel
 date: 2016-01-25T18:08:57.000Z
 status: publish
 isWerbung: false

@@ -2,8 +2,6 @@
 date: 2017-02-20T15:17:57.000Z
 slug: das-freie-wochenende
 path: /2017/02/das-freie-wochenende/
-type: Artikel
-typeName: Artikel
 title: Das freie Wochenende
 seoTitle: Das freie Wochenende - Fieber im Nebel - eine wahre Geschichte
 ogTitle: Das freie Wochenende - Nebel am Meer

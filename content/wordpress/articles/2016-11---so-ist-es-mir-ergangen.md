@@ -2,8 +2,6 @@
 date: 2016-11-27T11:45:03.000Z
 slug: tagebuch-dezember-2016
 path: /2016/11/tagebuch-dezember-2016/
-type: Artikel
-typeName: Artikel
 title: So ist es mir ergangen
 seoTitle: Tagebuch - So ist es mir ergangen - Arbeit und Vergnügen
 ogTitle: Tagebuch - So ist es mir ergangen - Arbeit und Vergnügen

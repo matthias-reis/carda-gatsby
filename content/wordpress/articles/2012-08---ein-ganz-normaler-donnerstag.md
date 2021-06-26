@@ -2,8 +2,6 @@
 date: 2012-08-09T09:20:20.000Z
 slug: sommersonne-gipfelkreuze
 path: /2012/08/sommersonne-gipfelkreuze/
-type: Artikel
-typeName: Artikel
 title: Ein ganz normaler Donnerstag
 seoTitle: Sommersonne und Gipfelkreuze
 ogTitle: Sommersonne und Gipfelkreuze

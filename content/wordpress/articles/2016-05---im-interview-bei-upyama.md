@@ -2,8 +2,6 @@
 date: 2016-05-24T14:09:33.000Z
 slug: upyama-interviewt-anne-von-cardamonchai-gruene-macher
 path: /2016/05/upyama-interviewt-anne-von-cardamonchai-gruene-macher/
-type: Artikel
-typeName: Artikel
 title: Im Interview bei Upyama
 seoTitle: Upyama interviewt cardamonchai - Grüne Macher
 ogTitle: Upyama interviewt cardamonchai - Grüne Macher

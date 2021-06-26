@@ -2,8 +2,6 @@
 date: 2017-02-08T21:03:41.000Z
 slug: fahrgast-aus-dem-bus-geschmissen-hamburger-hochbahn
 path: /2017/02/fahrgast-aus-dem-bus-geschmissen-hamburger-hochbahn/
-type: Artikel
-typeName: Artikel
 title: Hallo Hamburger Hochbahn! Gehts noch?
 seoTitle: Fahrgast aus dem Bus geschmissen - Hallo Hamburger Hochbahn! Geht's noch?
 ogTitle: Fahrgast aus dem Bus geschmissen - Hallo Hamburger Hochbahn! Geht's noch?

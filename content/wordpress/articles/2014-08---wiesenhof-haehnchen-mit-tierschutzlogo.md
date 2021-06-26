@@ -2,8 +2,6 @@
 date: 2014-08-06T14:35:32.000Z
 slug: wiesenhof-hahnchen-mit-tierschutzlogo
 path: /2014/08/wiesenhof-hahnchen-mit-tierschutzlogo/
-type: Artikel
-typeName: Artikel
 title: Wiesenhof-Hähnchen mit Tierschutzlogo
 seoTitle: Wiesenhof-Hähnchen mit Tierschutzlogo
 ogTitle: Wiesenhof-Hähnchen mit Tierschutzlogo

@@ -2,8 +2,6 @@
 date: 2015-11-18T19:32:52.000Z
 slug: diy-upcycling-armstulpen
 path: /2015/11/diy-upcycling-armstulpen/
-type: Artikel
-typeName: Artikel
 title: DIY Upcycling Armstulpen
 seoTitle: DIY Upcycling Armstulpen
 ogTitle: DIY Upcycling Armstulpen

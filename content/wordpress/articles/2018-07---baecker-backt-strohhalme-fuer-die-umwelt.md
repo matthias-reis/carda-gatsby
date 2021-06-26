@@ -2,8 +2,6 @@
 date: 2018-07-20T14:40:47.000Z
 slug: baecker-backt-strohhalme-fuer-die-umwelt
 path: /2018/07/baecker-backt-strohhalme-fuer-die-umwelt/
-type: Artikel
-typeName: Artikel
 title: Bäcker backt Strohhalme für die Umwelt
 seoTitle: Bäcker backt Strohhalme für die Umwelt - Nudeln statt Plastik
 ogTitle: Bäcker backt Strohhalme für die Umwelt - Nudeln statt Plastik

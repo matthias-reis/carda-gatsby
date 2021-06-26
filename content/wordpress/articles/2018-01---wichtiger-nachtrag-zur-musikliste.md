@@ -2,8 +2,6 @@
 date: 2018-01-31T18:34:46.000+00:00
 slug: wichtiger-nachtrag-zur-musikliste
 path: '/2018/01/wichtiger-nachtrag-zur-musikliste/'
-type: Artikel
-typeName: Artikel
 title: Wichtiger Nachtrag zur Musikliste
 seoTitle: Wichtiger Nachtrag zur Musikliste - Danke für Euer Feedback!
 ogTitle: Wichtiger Nachtrag zur Musikliste - Danke für Euer Feedback!

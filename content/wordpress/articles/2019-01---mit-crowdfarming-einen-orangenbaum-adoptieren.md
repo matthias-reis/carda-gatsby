@@ -2,8 +2,6 @@
 date: 2019-01-29T15:36:50.000Z
 slug: mit-crowdfarming-einen-orangenbaum-adoptieren
 path: /2019/01/mit-crowdfarming-einen-orangenbaum-adoptieren/
-type: Artikel
-typeName: Artikel
 title: Mit CrowdFarming einen Orangenbaum adoptieren
 seoTitle: Mit Crowdfarming einen Orangenbaum adoptieren - Obst vom Erzeuger
 ogTitle: Mit Crowdfarming einen Orangenbaum adoptieren - Obst vom Erzeuger

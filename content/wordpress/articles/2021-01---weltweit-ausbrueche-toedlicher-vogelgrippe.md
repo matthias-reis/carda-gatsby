@@ -2,8 +2,6 @@
 date: 2021-01-16T17:00:36.000Z
 slug: vogelgrippe-stopfleber
 path: /2021/01/vogelgrippe-stopfleber/
-type: Artikel
-typeName: Artikel
 title: Weltweit Ausbrüche tödlicher Vogelgrippe
 seoTitle: Ausbrüche tödlicher Vogelgrippe – Stopfleber-Hersteller fordern Keulung
 ogTitle: Ausbrüche tödlicher Vogelgrippe – Stopfleber-Hersteller fordern Keulung

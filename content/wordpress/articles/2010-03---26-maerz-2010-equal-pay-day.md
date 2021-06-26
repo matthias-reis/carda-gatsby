@@ -2,8 +2,6 @@
 date: 2010-03-26T18:26:13.000Z
 slug: 26-marz-2010-equal-pay-day-der-tag-der-roten-handtaschen
 path: /2010/03/26-marz-2010-equal-pay-day-der-tag-der-roten-handtaschen/
-type: Artikel
-typeName: Artikel
 title: 26. März 2010 Equal Pay Day
 seoTitle: 26. März 2010 Equal Pay Day
 ogTitle: 26. März 2010 Equal Pay Day

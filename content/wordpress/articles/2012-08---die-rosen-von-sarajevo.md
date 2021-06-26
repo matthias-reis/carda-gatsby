@@ -2,8 +2,6 @@
 date: 2012-08-24T11:40:35.000Z
 slug: die-rosen-von-sarajevo
 path: /2012/08/die-rosen-von-sarajevo/
-type: Artikel
-typeName: Artikel
 title: Die Rosen von Sarajevo
 seoTitle: Die Rosen von Sarajewo
 ogTitle: Die Rosen von Sarajewo

@@ -2,8 +2,6 @@
 date: 2017-03-22T11:30:27.000Z
 slug: der-internationale-weltwassertag-2017
 path: /2017/03/der-internationale-weltwassertag-2017/
-type: Artikel
-typeName: Artikel
 title: Der Internationale Weltwassertag 2017
 seoTitle: Der Internationale Weltwassertag 2017 - Abwasser als Ressource
 ogTitle: Der Internationale Weltwassertag 2017 - Abwasser als Ressource

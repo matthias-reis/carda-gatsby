@@ -2,8 +2,6 @@
 date: 2020-05-12T16:01:21.000Z
 slug: walfang-island
 path: /2020/05/walfang-island/
-type: Artikel
-typeName: Artikel
 title: Der letzte Wal
 seoTitle: Der letzte Wal - Ende des Walfangs in Island?
 ogTitle: Der letzte Wal - Ende des Walfangs in Island?

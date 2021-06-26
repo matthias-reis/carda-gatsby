@@ -2,8 +2,6 @@
 date: 2021-01-27T11:55:00.000Z
 slug: chevelle-niratias-titelliste
 path: /2021/01/chevelle-niratias-titelliste/
-type: Artikel
-typeName: Artikel
 title: Chevelle enthüllen Titelliste für "Niratias"
 seoTitle: Chevelle enthüllen Titelliste für "Niratias" – Neues Album am 5. März
 ogTitle: Chevelle enthüllen Titelliste für "Niratias" – Neues Album am 5. März

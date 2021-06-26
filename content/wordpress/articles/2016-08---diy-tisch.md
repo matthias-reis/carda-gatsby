@@ -2,8 +2,6 @@
 date: 2016-08-05T12:11:19.000Z
 slug: diy-tisch-aus-weinkiste
 path: /2016/08/diy-tisch-aus-weinkiste/
-type: Artikel
-typeName: Artikel
 title: DIY Tisch
 seoTitle: DIY Tisch aus Weinkiste - So funktioniert es
 ogTitle: DIY Tisch aus Weinkiste - So funktioniert es

@@ -2,8 +2,6 @@
 date: 2012-10-11T13:45:39.000Z
 slug: videotipps-am-donnerstag
 path: /2012/10/videotipps-am-donnerstag/
-type: Artikel
-typeName: Artikel
 title: Videotipps am Donnerstag
 seoTitle: Videotipps am Donnerstag
 ogTitle: Videotipps am Donnerstag

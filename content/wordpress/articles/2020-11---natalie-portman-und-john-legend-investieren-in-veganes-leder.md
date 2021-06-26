@@ -2,8 +2,6 @@
 date: 2020-11-24T10:07:01.000Z
 slug: natalie-portman-john-legend-veganes-leder
 path: /2020/11/natalie-portman-john-legend-veganes-leder/
-type: Artikel
-typeName: Artikel
 title: Natalie Portman und John Legend investieren in veganes Leder
 seoTitle: Natalie Portman und John Legend investieren in veganes Leder
 ogTitle: Natalie Portman und John Legend investieren in veganes Leder

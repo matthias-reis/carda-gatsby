@@ -2,8 +2,6 @@
 date: 2015-11-13T17:00:25.000Z
 slug: diy-upcycling-loopschal
 path: /2015/11/diy-upcycling-loopschal/
-type: Artikel
-typeName: Artikel
 title: DIY Upcycling Loopschal
 seoTitle: DIY Upcycling Loopschal
 ogTitle: DIY Upcycling Loopschal

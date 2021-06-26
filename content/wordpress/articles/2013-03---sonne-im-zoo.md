@@ -16,8 +16,6 @@ labels:
   - Sonne
   - Tiere
   - Zoo
-type: Artikel
-typeName: Artikel
 date: 2013-03-04T19:42:32.000Z
 status: publish
 isWerbung: false

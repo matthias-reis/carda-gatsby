@@ -2,8 +2,6 @@
 date: 2015-03-04T11:31:39.000Z
 slug: zum-abschied-sag-ich-ganz-laut-tschuess
 path: /2015/03/zum-abschied-sag-ich-ganz-laut-tschuess/
-type: Artikel
-typeName: Artikel
 title: Zum Abschied sag' ich ganz laut tschüss!
 seoTitle: Abschied von Wordpress
 ogTitle: Abschied von Wordpress

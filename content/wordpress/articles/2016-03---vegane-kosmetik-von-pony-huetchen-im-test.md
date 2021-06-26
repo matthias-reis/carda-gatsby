@@ -1,28 +1,24 @@
 ---
 date: 2016-03-16T10:00:20.000+00:00
 slug: vegane-kosmetik-von-pony-huetchen-im-test
-path: "/2016/03/vegane-kosmetik-von-pony-huetchen-im-test/"
-type: Artikel
-typeName: Artikel
+path: '/2016/03/vegane-kosmetik-von-pony-huetchen-im-test/'
 title: Vegane Kosmetik von Pony Hütchen im Test
 seoTitle: Vegane Kosmetik von Pony Hütchen im Test
 ogTitle: Vegane Kosmetik von Pony Hütchen im Test
-description: Wie angekündigt, habe ich die vegane Kosmetik aus dem Hause Pony Hütchen
-  getestet. Hier ist mein Fazit zu den veganen Kosmetikprodukten für Euch.
-excerpt: Wie angekündigt, habe ich die vegane Kosmetik aus dem Hause Pony Hütchen
-  getestet. Hier ist mein Fazit zu den veganen Kosmetikprodukten für Euch.
+description: Wie angekündigt, habe ich die vegane Kosmetik aus dem Hause Pony Hütchen getestet. Hier ist mein Fazit zu den veganen Kosmetikprodukten für Euch.
+excerpt: Wie angekündigt, habe ich die vegane Kosmetik aus dem Hause Pony Hütchen getestet. Hier ist mein Fazit zu den veganen Kosmetikprodukten für Euch.
 fileName: 2016-03---vegane-kosmetik-von-pony-huetchen-im-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_25645287896_5b9cf0dc94_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_25645287896_5b9cf0dc94_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcDBgIFCP/EAC0QAAIBAgQDBQkAAAAAAAAAAAECAwQRAAUSIQYxQRNRYYGxBxQVIjJScZHB/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAJBEAAQMDAwQDAAAAAAAAAAAAAQACAwQRIQUSQRMxYXGBsdH/2gAMAwEAAhEDEQA/AKhw1SiDMqR3B06wrbdG2Prhg1uXRiaaKcorkgRGQXCpp3ZVOxbV/OmJOD+BqfM8qp6mqrJIZJVD9mgU21XtcnkbWPnjPOM4jo8znpJffpjCbN21PHESb9F5kW5HrijqVRCXDYcjB7/ilaRDURtcJG4NiMjke/S1lXllTJl00FFG1WAgCy3GnXp+YDvF+7Yb4VlZkObQSNHVUMgZRfZfLHTVHlrvl8VdDK8SOnaaKqNoXQeKi4G2FpxjmYhnraMwMJYyYiBYrdfttbY359b4xpZpLnYLpVYyJ4HUweM8/KutM0cdPAojYIighVawAsNuXgP1ixfGGiEimIOFjb6yDslutr73wYMAJTmtBv4uoa3PZIwxEQJlbS12/A7vHCQ9p7seITNyNRErMBtuGaP0QHBgw7THEVFvBQtSjaaTcRncPpf/2Q==
-ogImage: 
+ogImage:
 labels:
-- Fair Fashion & Beauty
-- Kosmetik Beauty
-- Pony Hütchen
-- unboxing
-- vegan
-- vegane Kosmetik
+  - Fair Fashion & Beauty
+  - Kosmetik Beauty
+  - Pony Hütchen
+  - unboxing
+  - vegan
+  - vegane Kosmetik
 focusKeyword: Vegane Kosmetik
 status: publish
 isWerbung: false
@@ -31,8 +27,8 @@ language: de
 errors: {}
 subTitle: Natürliche Essenzen und traumhafte Düfte
 advertisement: true
-
 ---
+
 **Vor Kurzem habe ich die liebe Hendrike von Pony Hütchen kennengelernt. Im [Interview](/2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/) erzählte Sie mir von Ihrer Leidenschaft, vegane Kosmetik herzustellen. Im Anschluss an unser Gespräch hatte ich die Möglichkeit einige Sachen aus Ihrer Kosmetikküche zu testen, die ich noch nicht kannte.**
 
 Alle Produkte von Pony Hütchen sind vegan und frei von Konservierungsstoffen und werden nicht an Tieren getestet. Die Zutaten sind größtenteils bio. Ausprobiert habe ich ein Deo, ein Körperspray, eine feste Handcreme und ein Lippenbalsam.
