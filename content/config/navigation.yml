@@ -30,7 +30,7 @@ mainNavigation:
   - label: Slow Travel
     url: /tag/slow-travel
     children:
-      - { url: /tag/hamburg, label: Hamburg }
+      - { url: /tag/hamburg-ausflug, label: Hamburg }
       - { url: /tag/ausflug, label: Ausflug }
       - { url: /tag/skandinavien, label: Skandinavien }
       - { url: /tag/britische-inseln, label: Britische Inseln }
