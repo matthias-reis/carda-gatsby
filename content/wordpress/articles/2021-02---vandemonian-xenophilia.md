@@ -28,7 +28,6 @@ type: Artikel
 labels:
   - Bands
   - English & German
-  - Hamburg
   - Plätlin Mastering
   - Post-Prog
   - Post-Rock
