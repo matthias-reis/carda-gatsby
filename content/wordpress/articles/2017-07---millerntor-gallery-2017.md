@@ -1,35 +1,35 @@
 ---
-date: 2017-07-10T07:26:06.000Z
-slug: millerntor-gallery-2017
-path: /2017/07/millerntor-gallery-2017/
-type: Galerie
-typeName: Galerie
-title: Millerntor Gallery 2017
-seoTitle: Millerntor Gallery 2017 - Rundgang durch die Ausstellung
 ogTitle: Millerntor Gallery 2017 - Rundgang durch die Ausstellung
-description: Wir haben wundervolle Eindrücke mit nach Hause genommen von der Millerntor Gallery 2017, die ich heute gerne mit Euch teilen möchte.
-excerpt: Wir haben wundervolle Eindrücke mit nach Hause genommen von der Millerntor Gallery 2017, die ich heute gerne mit Euch teilen möchte.
-fileName: 2017-07---millerntor-gallery-2017.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35408507370_6a9ff91d1a_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35408507370_6a9ff91d1a_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQDBQIGB//EACcQAAICAgIBAwMFAAAAAAAAAAECAwQRIQASBRMiQTEyYQYUcaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMA/8QAJxEAAQIEBAYDAAAAAAAAAAAAAQIRAAMhMRJBUXETgZGh0fAEFGH/2gAMAwEAAhEDEQA/AOMEWZbogi2YsJIX+Dj6aHx/nHLtOT0lAkjliiYRqV9rN2Hbt0Puwc6OMcsvE+raW5P5RbtyeJZZZpoWUM8jDTFjoKDojHxjk/kGlvxQzxRTK8NeGGZe3q7iUdX0AApA+nxj88ukOCIMxUsqwIZx17b9NLRW+NoJZr3rM0MRlgiXq8khhVT2wSdYJxgb1vJ4tXmePzNaetWIgrkvBXsRhyUI1kKpV1/GD8cduu4jNCKOGaMWBMjgOMK2EJZD9yuOra1zY/F+Nl8dHNUu+LoW0iRY+03aVo5M9vVjHbK6KgADfXOOVCKMzix0O/tYnJWtsTYau99iAQW/QwD3rEXho/KTU2q2bwjq2Wj7ojh5SGyR9Pt0v9b4vSeqnjbNcwzWHlVSkk6BPdsYPX3YGj85zw4cExX18PDFxXm4gypKfk4hMyU+lmzvlGdhp7VJvWbDQwpBCK6iPp1OR2ztl9zD+Mch/T0dqHyV+x4+Sj46I2P3ArNJI8cCdT2Qu2+p1vGtcOHNOTRBe4fufEOWAviJUHDkcmHn0x//2Q==
+excerpt: Wir haben wundervolle Eindrücke mit nach Hause genommen von der
+  Millerntor Gallery 2017, die ich heute gerne mit Euch teilen möchte.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35408507370_6a9ff91d1a_z__l.jpg
+isAffiliate: false
+path: /2017/07/millerntor-gallery-2017/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQDBQIGB//EACcQAAICAgIBAwMFAAAAAAAAAAECAwQRIQASBRMiQTEyYQYUcaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMA/8QAJxEAAQIEBAYDAAAAAAAAAAAAAQIRAAMhMRJBUXETgZGh0fAEFGH/2gAMAwEAAhEDEQA/AOMEWZbogi2YsJIX+Dj6aHx/nHLtOT0lAkjliiYRqV9rN2Hbt0Puwc6OMcsvE+raW5P5RbtyeJZZZpoWUM8jDTFjoKDojHxjk/kGlvxQzxRTK8NeGGZe3q7iUdX0AApA+nxj88ukOCIMxUsqwIZx17b9NLRW+NoJZr3rM0MRlgiXq8khhVT2wSdYJxgb1vJ4tXmePzNaetWIgrkvBXsRhyUI1kKpV1/GD8cduu4jNCKOGaMWBMjgOMK2EJZD9yuOra1zY/F+Nl8dHNUu+LoW0iRY+03aVo5M9vVjHbK6KgADfXOOVCKMzix0O/tYnJWtsTYau99iAQW/QwD3rEXho/KTU2q2bwjq2Wj7ojh5SGyR9Pt0v9b4vSeqnjbNcwzWHlVSkk6BPdsYPX3YGj85zw4cExX18PDFxXm4gypKfk4hMyU+lmzvlGdhp7VJvWbDQwpBCK6iPp1OR2ztl9zD+Mch/T0dqHyV+x4+Sj46I2P3ArNJI8cCdT2Qu2+p1vGtcOHNOTRBe4fufEOWAviJUHDkcmHn0x//2Q==
+typeName: Galerie
+isWerbung: false
+fileName: 2017-07---millerntor-gallery-2017.md
+slug: millerntor-gallery-2017
+errors: {}
+date: 2017-07-10T07:26:06.000Z
+focusKeyword: Millerntor Gallery
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35408507370_6a9ff91d1a_z__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35408507370_6a9ff91d1a_z__m.jpg
+title: Millerntor Gallery 2017
+subTitle: Rundgang durch die Ausstellung
+seoTitle: Millerntor Gallery 2017 - Rundgang durch die Ausstellung
+description: Wir haben wundervolle Eindrücke mit nach Hause genommen von der
+  Millerntor Gallery 2017, die ich heute gerne mit Euch teilen möchte.
 labels:
-  - Hamburg
-  - Hamburg
   - Kunst
   - Millerntor Gallery
   - Solidarität
   - St. Pauli
   - Viva Con Agua
   - Viva con Agua de Sankt Pauli e. V.
-focusKeyword: Millerntor Gallery
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: Rundgang durch die Ausstellung
+type: Galerie
 ---
 
 **Vom 29. Juni bis einschließlich 2. Juli fand im Stadion des FC St. Pauli wieder die Millerntor Gallery statt. Thema war dieses Mal YOUTOPIC, mit dem der individuelle Willen zu positiver Veränderung beleuchtet wurde. Alle Teilnehmer nutzten dabei ihre Möglichkeiten und ihre Kreativität.**
