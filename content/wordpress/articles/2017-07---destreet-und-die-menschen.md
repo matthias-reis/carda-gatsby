@@ -1,24 +1,32 @@
 ---
-date: 2017-07-04T09:13:18.000+00:00
-slug: destreet
-path: '/2017/07/destreet/'
-title: Destreet und die Menschen
-seoTitle: Destreet und die Menschen - Ein Ugandischer Künstler in Hamburg
 ogTitle: Destreet und die Menschen - Ein Ugandischer Künstler in Hamburg
-description: Heute möchte ich Euch Destreet vorstellen. Seine ganz besondere Kunst trage ich jetzt direkt auf der Haut. Bei der Millerntor Gallery habe ich ihn getroffen
-excerpt: Heute möchte ich Euch Destreet vorstellen. Seine ganz besondere Kunst trage ich jetzt direkt auf der Haut. Bei der Millerntor Gallery habe ich ihn getroffen.
-fileName: 2017-07---destreet-und-die-menschen.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35671637186_668d97c7ec_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35671637186_668d97c7ec_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgAB0DASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQQCBv/EAC4QAAIBAwMCAwYHAAAAAAAAAAECAwQREgAFIRNBBgciMTJRYXGRF1JikqGx0f/EABgBAAIDAAAAAAAAAAAAAAAAAAQFAQMH/8QAJhEAAQMCBQMFAAAAAAAAAAAAAQIDEQAhBBIxQXFRYaGBscHw8f/aAAwDAQACEQMRAD8AJioisRDqBien8LHm/wDQ0aNqgpts3OpSL1VTw06iMgMfUDfk2vxpbx2slP4imoI81jE8ysFb2kubX+w0VCaiLwbGkxZIoM5JckyyCsptz3Cg201kHbas3Sw6gTm1UBHBPyPNQ1D0Me7tXi6B8lZpOOnKpZsGHbJO/wAQNJR7bBW1pZ0yQU0LKWFjZi5/zQ9FHCatq4yOYgpEBk46ktiFIAHIUEXPz0luNS0e69GMYFKODJfgTnx9raGeBU2YpzhMrGMbkmADJPGnpI/ZrpPMiGT8Ta6OBlSKaSN8nTIRykD1Dng2sfqp0ZuNPK1EqsaFXZLcQM9rh+eTa5xuTbuNU+aDFvMioUOUWQxqGzK2bphlPH6lYc/m0bUy1ssYapmfrIwUJa4Hpbvjz7x7W0Q3GWgcWpSHlQQLn3PY2+71BQ7WiSwTVNVO8iUXtVQATZiQODb3ew1raZFr9w3SslBkzmWNGbklUULf9wbWqhjTbBUy1E02UUOQaRntx2Hsv3A+uofBDvDDLHIpZ1hhLfJmDSH+X1AgEJqp5anW1uEyRbpaQbeK/9k=
+excerpt: Heute möchte ich Euch Destreet vorstellen. Seine ganz besondere Kunst
+  trage ich jetzt direkt auf der Haut. Bei der Millerntor Gallery habe ich ihn
+  getroffen.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35671637186_668d97c7ec_z__l.jpg
+isAffiliate: false
+path: /2017/07/destreet/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgAB0DASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQQCBv/EAC4QAAIBAwMCAwYHAAAAAAAAAAECAwQREgAFIRNBBgciMTJRYXGRF1JikqGx0f/EABgBAAIDAAAAAAAAAAAAAAAAAAQFAQMH/8QAJhEAAQMCBQMFAAAAAAAAAAAAAQIDEQAhBBIxQXFRYaGBscHw8f/aAAwDAQACEQMRAD8AJioisRDqBien8LHm/wDQ0aNqgpts3OpSL1VTw06iMgMfUDfk2vxpbx2slP4imoI81jE8ysFb2kubX+w0VCaiLwbGkxZIoM5JckyyCsptz3Cg201kHbas3Sw6gTm1UBHBPyPNQ1D0Me7tXi6B8lZpOOnKpZsGHbJO/wAQNJR7bBW1pZ0yQU0LKWFjZi5/zQ9FHCatq4yOYgpEBk46ktiFIAHIUEXPz0luNS0e69GMYFKODJfgTnx9raGeBU2YpzhMrGMbkmADJPGnpI/ZrpPMiGT8Ta6OBlSKaSN8nTIRykD1Dng2sfqp0ZuNPK1EqsaFXZLcQM9rh+eTa5xuTbuNU+aDFvMioUOUWQxqGzK2bphlPH6lYc/m0bUy1ssYapmfrIwUJa4Hpbvjz7x7W0Q3GWgcWpSHlQQLn3PY2+71BQ7WiSwTVNVO8iUXtVQATZiQODb3ew1raZFr9w3SslBkzmWNGbklUULf9wbWqhjTbBUy1E02UUOQaRntx2Hsv3A+uofBDvDDLHIpZ1hhLfJmDSH+X1AgEJqp5anW1uEyRbpaQbeK/9k=
+isWerbung: false
+fileName: 2017-07---destreet-und-die-menschen.md
+slug: destreet
+errors: {}
+date: 2017-07-04T09:13:18.000+00:00
+focusKeyword: Destreet
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35671637186_668d97c7ec_z__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35671637186_668d97c7ec_z__m.jpg
+title: Destreet und die Menschen
+subTitle: Kunst auf der Haut
+seoTitle: Destreet und die Menschen - Ein Ugandischer Künstler in Hamburg
+description: Heute möchte ich Euch Destreet vorstellen. Seine ganz besondere
+  Kunst trage ich jetzt direkt auf der Haut. Bei der Millerntor Gallery habe ich
+  ihn getroffen
 labels:
   - Antifaschismus & Feminismus
   - Art
   - Destreet
   - Destreet Art
-  - Hamburg
-  - Hamburg
   - Kunst
   - Menschen
   - Millerntor
@@ -32,13 +40,7 @@ labels:
   - Viva Con Agua
   - Viva con Agua de Sankt Pauli e. V.
   - Kunst
-focusKeyword: Destreet
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: Kunst auf der Haut
 ---
 
 <RemoteImage
@@ -94,6 +96,3 @@ Streetart und mehr aus der Affenfaustgalerie in Hamburg [findet Ihr hier](/2015/
   ]}
 />
 
-Merken
-
-Merken
