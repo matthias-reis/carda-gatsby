@@ -1,15 +1,11 @@
 ---
-date: 2021-04-02T11:16:32.351Z
+date: 2021-02-04T11:16:32.351Z
 slug: dave-pen-birdpen-archive-interview-en
 typeName: Interview
 title: '"All Function One"'
 subTitle: Interview with Dave Pen (Archive & BirdPen)
 seoTitle: '"All Function One" – Interview with Dave Pen (Archive & BirdPen)'
-description: I saw Dave Pen live on stage for the first time in 2004, shortly
-  after he had joined Archive. The music of his two projects Archive and BirdPen
-  fascinates me anew every time. Each new record picks me up exactly where I am
-  in my current stage of life. Without these two bands, my record collection and
-  taste in music wouldn't be complete.
+description: I saw Dave Pen live on stage for the first time in 2004, shortly after he had joined Archive. The music of his two projects Archive and BirdPen fascinates me anew every time. Each new record picks me up exactly where I am in my current stage of life. Without these two bands, my record collection and taste in music wouldn't be complete.
 image: /img/2021_02_dave-pen__l.jpeg
 copyrigt: Dave Penn
 ogImage: /img/2021_02_dave-pen-fb.png__l.jpg
@@ -34,6 +30,7 @@ affiliate: false
 language: en
 languageLink: /2021/02/dave-pen-birdpen-archive-interview
 ---
+
 **I saw Dave Pen live on stage for the first time in 2004, shortly after he had joined Archive. The music of his two projects Archive and BirdPen fascinates me anew every time. Each new record picks me up exactly where I am in my current stage of life. Without these two bands, my record collection and taste in music wouldn't be complete.**
 
 Dave Pen and Mike Bird aka BirdPen have recently released the second single from their upcoming new album "All Function One" which they are planning to release in March. As waiting to listen to the full album is getting more exciting every day, I spoke with the singer and guitarist about the production of the 12 new songs, his experiences with BirdPen and Archive, and life as a musician during the pandemic.

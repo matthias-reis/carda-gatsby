@@ -1,13 +1,11 @@
 ---
-date: 2021-06-04T10:41:38.064Z
+date: 2021-04-06T10:41:38.064Z
 slug: oslo-tapes-or-en
 typeName: Review
 title: Oslo Tapes – "Ør"
 subTitle: New Album In June
 seoTitle: Oslo Tapes – "Ør" – New Album In June
-description: On June 4th, Oslo Tapes will release their new album on Pelagic
-  Records. Especially fans of Nine Inch Nails, Massive Attack, My Bloody
-  Valentine, and Portishead should not miss it.
+description: On June 4th, Oslo Tapes will release their new album on Pelagic Records. Especially fans of Nine Inch Nails, Massive Attack, My Bloody Valentine, and Portishead should not miss it.
 image: /img/2021_04_oslo-tapes__l.jpeg
 copyrigt: Oslo Tapes
 ogImage: /img/2021_04_oslo-tapes.png__l.jpg
@@ -28,6 +26,7 @@ affiliate: false
 language: en
 languageLink: /2021/04/oslo-tapes-or
 ---
+
 **On June 4th, Oslo Tapes will release their new album on Pelagic Records. Especially fans of Nine Inch Nails, Massive Attack, My Bloody Valentine, and Portishead should not miss it.**
 
 Precise drums and playful basslines combined with New Wave synths and psychedelic guitar playing pull you into an impressive sonic maelstrom – the record really has it all. The sometimes shadowy, almost ghostly vocals round off the eight masterpieces on "Ør".
