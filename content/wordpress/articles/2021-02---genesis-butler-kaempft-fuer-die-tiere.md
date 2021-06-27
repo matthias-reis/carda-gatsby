@@ -18,7 +18,6 @@ labels:
   - SCIL
   - Social Compassion in Legislatio
   - Tierrechte
-  - Tierrechte
   - vegan
   - Vegane Aktivisten
 focusKeyword: Genesis Butler

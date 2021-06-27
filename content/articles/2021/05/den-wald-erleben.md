@@ -6,6 +6,7 @@ labels:
   - Achtsamkeits-Wandern
   - Achtsamkeits-Spaziergang
   - Meditation
+  - Ausflug
 language: de
 slug: den-wald-erleben
 typeName: ''

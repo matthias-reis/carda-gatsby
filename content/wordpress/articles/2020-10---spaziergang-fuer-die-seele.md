@@ -14,7 +14,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_10_spaziergang-fb.png__l.jpg
 labels:
   - Achtsamkeit
-  - Achtsamkeit
+  - Ausflug
   - Burn-out
   - Depressionen
   - Entspannung

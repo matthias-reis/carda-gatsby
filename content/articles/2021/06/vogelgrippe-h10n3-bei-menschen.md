@@ -1,10 +1,11 @@
 ---
 date: 2021-06-03T13:04:42+02:00
 labels:
-- H10N3
-- Vogelgrippe
-- Zoonosen
-- Virus
+  - H10N3
+  - Vogelgrippe
+  - Tierrechte
+  - Zoonosen
+  - Virus
 language: de
 slug: vogelgrippe-h10n3-bei-menschen
 typeName: ''
@@ -12,25 +13,22 @@ title: Vogelgrippe H10N3 bei Menschen
 subTitle: 41-Jähriger kommt ins Krankenhaus
 seoTitle: Vogelgrippe H10N3 bei Menschen – 41-Jähriger kommt ins Krankenhaus
 ogTitle: ''
-description: Das Virus der Vogelgruppe H10N3 wurde erstmals bei einem Menschen nachgewiesen.
-  Ein 41-Jähriger kam mit starkem Fieber ins Krankenhaus.
-excerpt: Das Virus der Vogelgruppe H10N3 wurde erstmals bei einem Menschen nachgewiesen.
-  Im chinesischen Jiangsu wurde ein 41-jähriger Mann mit starkem Fieber ins Krankenhaus
-  eingeliefert.
-image: "/img/vogelgrippe.jpg"
+description: Das Virus der Vogelgruppe H10N3 wurde erstmals bei einem Menschen nachgewiesen. Ein 41-Jähriger kam mit starkem Fieber ins Krankenhaus.
+excerpt: Das Virus der Vogelgruppe H10N3 wurde erstmals bei einem Menschen nachgewiesen. Im chinesischen Jiangsu wurde ein 41-jähriger Mann mit starkem Fieber ins Krankenhaus eingeliefert.
+image: '/img/vogelgrippe.jpg'
 copyright: ''
-ogImage: "/img/vogelgrippe-fb.jpg"
+ogImage: '/img/vogelgrippe-fb.jpg'
 focusKeyword: Vogelgrippe
 advertisement: false
 affiliate: false
 languageLink: ''
-
 ---
+
 **Das Virus der Vogelgruppe H10N3 wurde erstmals bei einem Menschen nachgewiesen. Im chinesischen Jiangsu wurde ein 41-jähriger Mann mit starkem Fieber ins Krankenhaus eingeliefert.**
 
 Weltweit hatten Virologi⋆innen davor gewarnt, nun gibt es tatsächlich einen Fall. Einige Wissenschaftler⋆innen halten weitere Pandemien für "unvermeidlich". Das geht aus einer Pressemitteilung hervor.
 
-## Virolog*innen halten eine Grippe-Pandemie für unvermeidlich
+## Virolog\*innen halten eine Grippe-Pandemie für unvermeidlich
 
 Der Erkrankte soll inzwischen stabil sein und kurz vor seiner Entlassung stehen. Er war vor ein paar Tagen mit Symptomen wie hohem Fieber in eine Klinik gekommen.
 
