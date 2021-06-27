@@ -1,35 +1,37 @@
 ---
-date: 2017-12-21T17:43:53.000Z
-slug: bahnfahren-am-wochenende-es-weihnachtet-sehr
-path: /2017/12/bahnfahren-am-wochenende-es-weihnachtet-sehr/
-title: Bahnfahren am Wochenende - Es weihnachtet sehr
-seoTitle: Bahnfahren am Wochenende - Es weihnachtet sehr - Achtsamkeit in Zügen
 ogTitle: Bahnfahren am Wochenende - Es weihnachtet sehr - Achtsamkeit in Zügen
-description: Ärgert Euch nicht übers Bahnfahren, das gibt nur Sorgenfalten. Bedankt Euch mal beim Paketboten. Streitet Euch nicht und habt eine schöne Zeit!
-excerpt: Ärgert Euch nicht übers Bahnfahren, das gibt nur Sorgenfalten. Bedankt Euch mal beim Paketboten. Streitet Euch nicht und habt eine schöne Zeit!
-fileName: 2017-12---bahnfahren-am-wochenende-es-weihnachtet-sehr.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_12_32895588482_a5935ca602_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_12_32895588482_a5935ca602_z__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAArEAACAgEDAgQFBQAAAAAAAAABAgMFBAARIQYSBxQxQRMVIiNCNFFxgZH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAAEC/8QAJhEAAgEDAwEJAAAAAAAAAAAAAQIRAAMhBBIxsRMjQVGRodHw8f/aAAwDAQACEQMRAD8AhOn+oseipoPlEaV8c8bQyTYka/GyJVbcFpZD3ouzEEKee0cDnSmOwy3tZ3r0Zsn4RDSzuJS2/qR7j3HB086NSwo8Cmx7GLyCeamaR8nDDKyMU272ZdlA2cbg7gj9tWlbmW+fVYcWLdrDPJNmOckRIrKsUSSJEwXgbkud/cAe3Ggh925QPU/Bpn1I2dm0+B+5HnXMcqj6gycNmrILMwdyFkghlI9D9XA2PoBpbNT2EizYticqCcRtkDzaGMdqDkAH3O4AA9Tq8tLi5vJFzq64WvgWojyjBJkMollX6W7CfUkgnbnfWzCs7SXw8sMm4mb5hhzR+WlddyC3B7e4e43/AM39t9cK76ZVNyCsgGOc9faluXF199mt4Zs5GOY5z0rp/T/UnUCZLYmM9bZJMxkWtzM4O0cW/EUUnZ9yQg/kxA2431oyaXw/60abCsaw0lu7ASRfo5+8cDZhsrHn0I/rRo1AmJFG6gmDSe58FXiRBUWrSY8eGcVIc2IdynuLLIJF/IMefpG441HZlT1bWVxrurenms69Czx5mL9/4bEckgckfzzo0ax+8AVvyq0otncmK//Z
+excerpt: Ärgert Euch nicht übers Bahnfahren, das gibt nur Sorgenfalten. Bedankt
+  Euch mal beim Paketboten. Streitet Euch nicht und habt eine schöne Zeit!
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_12_32895588482_a5935ca602_z__l.jpg
+isAffiliate: false
+path: /2017/12/bahnfahren-am-wochenende-es-weihnachtet-sehr/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAArEAACAgEDAgQFBQAAAAAAAAABAgMFBAARIQYSBxQxQRMVIiNCNFFxgZH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAAEC/8QAJhEAAgEDAwEJAAAAAAAAAAAAAQIRAAMhBBIxsRMjQVGRodHw8f/aAAwDAQACEQMRAD8AhOn+oseipoPlEaV8c8bQyTYka/GyJVbcFpZD3ouzEEKee0cDnSmOwy3tZ3r0Zsn4RDSzuJS2/qR7j3HB086NSwo8Cmx7GLyCeamaR8nDDKyMU272ZdlA2cbg7gj9tWlbmW+fVYcWLdrDPJNmOckRIrKsUSSJEwXgbkud/cAe3Ggh925QPU/Bpn1I2dm0+B+5HnXMcqj6gycNmrILMwdyFkghlI9D9XA2PoBpbNT2EizYticqCcRtkDzaGMdqDkAH3O4AA9Tq8tLi5vJFzq64WvgWojyjBJkMollX6W7CfUkgnbnfWzCs7SXw8sMm4mb5hhzR+WlddyC3B7e4e43/AM39t9cK76ZVNyCsgGOc9faluXF199mt4Zs5GOY5z0rp/T/UnUCZLYmM9bZJMxkWtzM4O0cW/EUUnZ9yQg/kxA2431oyaXw/60abCsaw0lu7ASRfo5+8cDZhsrHn0I/rRo1AmJFG6gmDSe58FXiRBUWrSY8eGcVIc2IdynuLLIJF/IMefpG441HZlT1bWVxrurenms69Czx5mL9/4bEckgckfzzo0ax+8AVvyq0otncmK//Z
+isWerbung: false
+fileName: 2017-12---bahnfahren-am-wochenende-es-weihnachtet-sehr.md
+slug: bahnfahren-am-wochenende-es-weihnachtet-sehr
+errors: {}
+date: 2017-12-21T17:43:53.000Z
+focusKeyword: Bahnfahren
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_12_32895588482_a5935ca602_z__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_12_32895588482_a5935ca602_z__m.jpg
+title: Bahnfahren am Wochenende - Es weihnachtet sehr
+subTitle: Achtsamkeit in Zügen
+seoTitle: Bahnfahren am Wochenende - Es weihnachtet sehr - Achtsamkeit in Zügen
+description: Ärgert Euch nicht übers Bahnfahren, das gibt nur Sorgenfalten.
+  Bedankt Euch mal beim Paketboten. Streitet Euch nicht und habt eine schöne
+  Zeit!
 labels:
   - Achtsamkeit
   - Familie
   - Feiertage
   - Geschichten & Erlebtes
   - Großstadt
-  - Hamburg
   - Jahreswechsel
   - Liebe
   - Streit
   - Weihnachten
-focusKeyword: Bahnfahren
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: Achtsamkeit in Zügen
 ---
 
 **Willkommen im Land der Dichter und Denker.** **Bahn fahren am Wochenende.** **Piktogramme und wackliges WLAN.**
