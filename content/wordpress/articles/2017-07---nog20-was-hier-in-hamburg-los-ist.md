@@ -1,17 +1,27 @@
 ---
-date: 2017-07-07T16:45:05.000Z
-slug: nog20
-path: /2017/07/nog20/
-title: '#NoG20 - Was hier in Hamburg los ist'
-seoTitle: NoG20 - Was hier in Hamburg los ist - Statusmeldung einer Anwohnerin
-ogTitle: '#NoG20 - Was hier in Hamburg los ist - Statusmeldung einer Anwohnerin'
-description: NoG20 ist letzte Nacht aus dem Ruder gelaufen. Ich gebe hiermit eine kleine Statusnachricht ab und erzähle Euch, wie sich das für uns Anwohner anfühlt.
-excerpt: NoG20 ist letzte Nacht aus dem Ruder gelaufen. Ich gebe hiermit eine kleine Statusnachricht ab und erzähle Euch, wie sich das für uns Anwohner anfühlt.
-fileName: 2017-07---nog20-was-hier-in-hamburg-los-ist.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-90__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-90__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYH/8QALBAAAQMDAwMCBQUAAAAAAAAAAgEDBAAREgUGIRMxQRRhIiU1UoGDkqLR0v/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAiEQABAwMDBQAAAAAAAAAAAAABAAIDBBESBRMxFCFBYfD/2gAMAwEAAhEDEQA/AOfRdF3Pl9Ke/aCov86cFt7cbcGO8EEXXXCJCji0nUaROxF8VrL4tUoqTW9EIXZMwZRsPWH1Qgt+mmHcuOVWrjYaiWx9ESUUo5rc4lcRt4TW2JWU1ReB7cL5VL96WMEQF7KozWa8uDd090hf0bc/PyR9f0h/3TGXou6tvaW89Ac02QkxBBxgGAU8VFb8ucJa6otl8+1W9RYMWmndSDV8uvZPRvJlj01tfn7sfP4rYbmkR4enRnpJMFiw+jfUjJJFx3BLDbxkt0y/usCONrcwEz1lbUTilfKXA+r+L8LMbb22/F0J2FMYZF155DNxggUxEURBxcJLp25S1MZu0okxgYrqunHUT6gnIHIsrInP4WiijZKHik+59lnqMWCEZiADsEBZaNXBBTb8qeKcle3K380buA4OxdBhGTSvRU6biNHdLoC9vaiihym7CFR0okVkZ+4K/9k=
+ogTitle: "#NoG20 - Was hier in Hamburg los ist - Statusmeldung einer Anwohnerin"
+excerpt: NoG20 ist letzte Nacht aus dem Ruder gelaufen. Ich gebe hiermit eine
+  kleine Statusnachricht ab und erzähle Euch, wie sich das für uns Anwohner
+  anfühlt.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-90__l.jpg
+isAffiliate: false
+path: /2017/07/nog20/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYH/8QALBAAAQMDAwMCBQUAAAAAAAAAAgEDBAAREgUGIRMxQRRhIiU1UoGDkqLR0v/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAiEQABAwMDBQAAAAAAAAAAAAABAAIDBBESBRMxFCFBYfD/2gAMAwEAAhEDEQA/AOfRdF3Pl9Ke/aCov86cFt7cbcGO8EEXXXCJCji0nUaROxF8VrL4tUoqTW9EIXZMwZRsPWH1Qgt+mmHcuOVWrjYaiWx9ESUUo5rc4lcRt4TW2JWU1ReB7cL5VL96WMEQF7KozWa8uDd090hf0bc/PyR9f0h/3TGXou6tvaW89Ac02QkxBBxgGAU8VFb8ucJa6otl8+1W9RYMWmndSDV8uvZPRvJlj01tfn7sfP4rYbmkR4enRnpJMFiw+jfUjJJFx3BLDbxkt0y/usCONrcwEz1lbUTilfKXA+r+L8LMbb22/F0J2FMYZF155DNxggUxEURBxcJLp25S1MZu0okxgYrqunHUT6gnIHIsrInP4WiijZKHik+59lnqMWCEZiADsEBZaNXBBTb8qeKcle3K380buA4OxdBhGTSvRU6biNHdLoC9vaiihym7CFR0okVkZ+4K/9k=
+isWerbung: false
+fileName: 2017-07---nog20-was-hier-in-hamburg-los-ist.md
+slug: nog20
+errors: {}
+date: 2017-07-07T16:45:05.000Z
+focusKeyword: nog20
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-90__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-90__m.jpg
+title: "#NoG20 - Was hier in Hamburg los ist"
+subTitle: Statusmeldung einer Anwohnerin
+seoTitle: NoG20 - Was hier in Hamburg los ist - Statusmeldung einer Anwohnerin
+description: NoG20 ist letzte Nacht aus dem Ruder gelaufen. Ich gebe hiermit
+  eine kleine Statusnachricht ab und erzähle Euch, wie sich das für uns Anwohner
+  anfühlt.
 labels:
   - Altona
   - Antifaschismus & Feminismus
@@ -19,8 +29,6 @@ labels:
   - Demonstration
   - Frieden
   - Geschichten & Erlebtes
-  - Hamburg
-  - Hamburg
   - LiebertanzichalsG20
   - nog20
   - nog20hh
@@ -28,13 +36,7 @@ labels:
   - riot
   - stpauli
   - welcometohell
-focusKeyword: nog20
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: Statusmeldung einer Anwohnerin
 ---
 
 **_NoG20 -_ Zu dem befreundeten Redakteur, der mich heute Morgen um einen Artikel zum Thema G20 für sein Online-Magazin bat, meinte ich noch "Im Moment schaffe ich es nicht, drüber zu schreiben". Ich fühlte mich kopfmäßig einfach nicht dazu in der Lage.**
