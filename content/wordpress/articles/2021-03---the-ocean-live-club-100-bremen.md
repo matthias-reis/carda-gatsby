@@ -1,32 +1,35 @@
 ---
-date: 2021-03-25T20:32:30.000Z
-slug: the-ocean-live-club-100-bremen
-path: /2021/03/the-ocean-live-club-100-bremen/
-title: The Ocean live @ Club 100 Bremen
-seoTitle: The Ocean live @ Club 100 Bremen – Das erste Live-Konzert 2021
 ogTitle: The Ocean live @ Club 100 Bremen – Das erste Live-Konzert 2021
-description: The Ocean haben heute Abend im Bremer Club 100 (Pier 21) das Album "Phanerozoic I" komplett gespielt. Ich war live dabei.
-excerpt: The Ocean haben heute Abend im Bremer Club 100 (Pier 21) das Album "Phanerozoic I" komplett gespielt. Ich war live dabei. Für mich war es nicht nur das erste Live-Konzert des Jahres, sondern auch eines meiner ersten Stream-Konzerte und ich war positiv überrascht.
-fileName: 2021-03---the-ocean-live-club-100-bremen.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean-club-100__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean-club-100__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYE/8QAKhAAAQMDAgQFBQAAAAAAAAAAAQIDBAAFEQYhEhMxYQcyQVFxFBUiodH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAEFBv/EABgRAAMBAQAAAAAAAAAAAAAAAAABAgMR/9oADAMBAAIRAxEAPwBR22JCYukb7g0t6JxjmttucKlJ9QDvg1uZFttTroNqSsR1eQL3I7HvS9VNBcJ2PrTB8Pr5aWbzFVc2HFwUH8m0Kyonh65+d8UDndop8pMZGkdNGT4fXmIhClfVuocSAnO6On7zSt1PZW7VKSzJGFuJK0gYOQOtd2rtarja6KbKy/HgoCmW20PqSXUrIJXgbZHoO1Y6ddBJufOcd52NgpfUjPf5NNvqKzjR8psxLUpCvKvB9lbVYRZqmiMKUPaiigjSuEid+cXJDTylnmt8JCs4PUj+VXvSsub+9FFIkyj/2Q==
+excerpt: The Ocean haben heute Abend im Bremer Club 100 (Pier 21) das Album
+  "Phanerozoic I" komplett gespielt. Ich war live dabei. Für mich war es nicht
+  nur das erste Live-Konzert des Jahres, sondern auch eines meiner ersten
+  Stream-Konzerte und ich war positiv überrascht.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean.png__l.jpg
+isAffiliate: false
+path: /2021/03/the-ocean-live-club-100-bremen/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYE/8QAKhAAAQMDAgQFBQAAAAAAAAAAAQIDBAAFEQYhEhMxYQcyQVFxFBUiodH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAEFBv/EABgRAAMBAQAAAAAAAAAAAAAAAAABAgMR/9oADAMBAAIRAxEAPwBR22JCYukb7g0t6JxjmttucKlJ9QDvg1uZFttTroNqSsR1eQL3I7HvS9VNBcJ2PrTB8Pr5aWbzFVc2HFwUH8m0Kyonh65+d8UDndop8pMZGkdNGT4fXmIhClfVuocSAnO6On7zSt1PZW7VKSzJGFuJK0gYOQOtd2rtarja6KbKy/HgoCmW20PqSXUrIJXgbZHoO1Y6ddBJufOcd52NgpfUjPf5NNvqKzjR8psxLUpCvKvB9lbVYRZqmiMKUPaiigjSuEid+cXJDTylnmt8JCs4PUj+VXvSsub+9FFIkyj/2Q==
+isWerbung: false
+fileName: 2021-03---the-ocean-live-club-100-bremen.md
+slug: the-ocean-live-club-100-bremen
+errors: {}
+date: 2021-03-25T20:32:30.000Z
+focusKeyword: The Ocean
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean-club-100__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean-club-100__m.jpg
+title: The Ocean live @ Club 100 Bremen
+subTitle: Das erste Live-Konzert des Jahres 2021
+seoTitle: The Ocean live @ Club 100 Bremen – Das erste Live-Konzert 2021
+description: The Ocean haben heute Abend im Bremer Club 100 (Pier 21) das Album
+  "Phanerozoic I" komplett gespielt. Ich war live dabei.
 labels:
   - Berlin
   - Bremen
   - Club 100
-  - Hamburg
   - Konzerte
   - Pier 21
   - The Ocean
-focusKeyword: The Ocean
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: Das erste Live-Konzert des Jahres 2021
 ---
 
 **The Ocean haben heute Abend im Bremer Club 100 (Pier 21) das Album "Phanerozoic I" komplett gespielt. Ich war live dabei. Für mich war es nicht nur das erste Live-Konzert des Jahres, sondern auch eines meiner ersten Stream-Konzerte und ich war positiv überrascht.**
