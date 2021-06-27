@@ -1,14 +1,12 @@
 ---
-date: 2021-06-25T13:33:55.863Z
+date: 2021-03-11T17:24:55.863Z
 slug: johan-g-winther-interview-en
 typeName: Interview
 title: Interview with Johan G. Winther
 subTitle: '"I Record My Music In A Cabin In The Woods"'
 seoTitle: Interview with Johan G. Winther – "I Record My Music In A Cabin In The Woods"
-ogTitle: ""
-description: Johan G. Winther's album "The Rupturing Sowle" will be released on
-  March 26th. I have arranged an interview with him to get some insights into
-  the record.
+ogTitle: ''
+description: Johan G. Winther's album "The Rupturing Sowle" will be released on March 26th. I have arranged an interview with him to get some insights into the record.
 image: /img/2021_03_johan-g-winter__l.jpeg
 copyrigt: Johan G. Winther
 ogImage: /img/2021_03_johan-g-winter-fb.png__l.jpg
@@ -36,6 +34,7 @@ affiliate: false
 language: en
 languageLink: /2021/03/johan-g-winther-interview
 ---
+
 **Johan G. Winther's album "The Rupturing Sowle" will be released on March 26th. I have arranged an interview with him to get some insights into the record.**
 
 Together with his band Scraps of Tape, the Gothenburg based musician has already recorded seven great albums. Many of you will also remember his hardcore group Blessings. He recorded two long players with them. He devoted himself to post-rock last March with his Barrens debut album and landed in numerous best-of lists. With his new solo album, too, he convinces with soulful and diverse songs. The process of its making was a very personal one.
