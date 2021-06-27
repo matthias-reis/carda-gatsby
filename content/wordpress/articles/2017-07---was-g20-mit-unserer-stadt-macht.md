@@ -1,17 +1,25 @@
 ---
-date: 2017-07-05T15:01:53.000Z
-slug: g20
-path: /2017/07/g20/
-title: Was G20 mit unserer Stadt macht
-seoTitle: Was G20 mit unserer Stadt macht - Bestandsaufnahme einer Hamburgerin
 ogTitle: Was G20 mit unserer Stadt macht - Bestandsaufnahme einer Hamburgerin
-description: Schon Wochen vor G20 fing Hamburg an, sich auf den Gipfel vorzubereiten. Inzwischen ist hier so einiges im Gange - Eine Bestandsaufnahme
-excerpt: Schon Wochen vor G20 fing Hamburg an, sich auf den Gipfel vorzubereiten. Inzwischen ist hier so einiges im Gange - Eine Bestandsaufnahme
-fileName: 2017-07---was-g20-mit-unserer-stadt-macht.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-8__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-8__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAgP/xAAtEAACAgECBAMHBQAAAAAAAAABAgMRBAASBSExQSJhgRMUMlFxofBDcpGx0f/EABcBAQEBAQAAAAAAAAAAAAAAAAIAAwT/xAAjEQABBAIBAwUAAAAAAAAAAAABAAIDEQQh8CIxURJBYYHB/9oADAMBAAIRAxEAPwCEzMqbikEGXPlpJkCNESFZApAHQk9z9NT8uRk4WQHMEUrMhVTIC1dbI5g6Z4MhfFiKFRGpZ2kI7k0qn17+fbXcq02XIrQGNiJBGiR/A2ygCfkfOhZ7aYhNdO/hAyj1dWvtRU+BlSBWSMMjg81rlRrmOx8tBZXB8gGQCWCQoapX8VVd16VWmnGo51ljjyY82KNVC0yqfEOVijXP7eeluXHEzAb8llVQF3BBX8aLmuaacKKTS1wsGwrOXEbDw5HbLYR7uSxgDcxNivXn6aGHEciNQw8NdCrEH7ao3gw8xFXiDbkVrURsQynp1HTQeRwSkb3XJWVR+nMLofuH+HXXhZUUYIfYJ9+4WGVjPkILACEkfNMk6sQXil+JWHfuT9OuiPdcfIwzIBTq21gOdH8rWYuGTx5ciZEfs4yd25GDX5Cv70WZEij2wIFReqlQa/PnqzshktBuz5/OdlYkDo7vQ8c4V//Z
+excerpt: Schon Wochen vor G20 fing Hamburg an, sich auf den Gipfel
+  vorzubereiten. Inzwischen ist hier so einiges im Gange - Eine Bestandsaufnahme
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-2__l.jpg
+isAffiliate: false
+path: /2017/07/g20/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAgP/xAAtEAACAgECBAMHBQAAAAAAAAABAgMRBAASBSExQSJhgRMUMlFxofBDcpGx0f/EABcBAQEBAQAAAAAAAAAAAAAAAAIAAwT/xAAjEQABBAIBAwUAAAAAAAAAAAABAAIDEQQh8CIxURJBYYHB/9oADAMBAAIRAxEAPwCEzMqbikEGXPlpJkCNESFZApAHQk9z9NT8uRk4WQHMEUrMhVTIC1dbI5g6Z4MhfFiKFRGpZ2kI7k0qn17+fbXcq02XIrQGNiJBGiR/A2ygCfkfOhZ7aYhNdO/hAyj1dWvtRU+BlSBWSMMjg81rlRrmOx8tBZXB8gGQCWCQoapX8VVd16VWmnGo51ljjyY82KNVC0yqfEOVijXP7eeluXHEzAb8llVQF3BBX8aLmuaacKKTS1wsGwrOXEbDw5HbLYR7uSxgDcxNivXn6aGHEciNQw8NdCrEH7ao3gw8xFXiDbkVrURsQynp1HTQeRwSkb3XJWVR+nMLofuH+HXXhZUUYIfYJ9+4WGVjPkILACEkfNMk6sQXil+JWHfuT9OuiPdcfIwzIBTq21gOdH8rWYuGTx5ciZEfs4yd25GDX5Cv70WZEij2wIFReqlQa/PnqzshktBuz5/OdlYkDo7vQ8c4V//Z
+isWerbung: false
+fileName: 2017-07---was-g20-mit-unserer-stadt-macht.md
+slug: g20
+errors: {}
+date: 2017-07-05T15:01:53.000Z
+focusKeyword: Was G20 mit unserer Stadt macht - Bestandsaufnahme einer Hamburgerin
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-8__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-8__m.jpg
+title: Was G20 mit unserer Stadt macht
+subTitle: Bestandsaufnahme einer Hamburgerin
+seoTitle: Was G20 mit unserer Stadt macht - Bestandsaufnahme einer Hamburgerin
+description: Schon Wochen vor G20 fing Hamburg an, sich auf den Gipfel
+  vorzubereiten. Inzwischen ist hier so einiges im Gange - Eine Bestandsaufnahme
 labels:
   - Altona
   - Antifaschismus & Feminismus
@@ -19,7 +27,6 @@ labels:
   - freie Meinung
   - G20
   - g20wegbassen
-  - Hamburg
   - Massencornern
   - nog20
   - Sankt Pauli
@@ -27,13 +34,7 @@ labels:
   - St. Pauli
   - Sternschanze
   - yeswecamp
-focusKeyword: Was G20 mit unserer Stadt macht - Bestandsaufnahme einer Hamburgerin
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: Bestandsaufnahme einer Hamburgerin
 ---
 
 <RemoteImage
@@ -138,12 +139,3 @@ Ich werde die Lage weiter beobachten, die Pressemeldungen stündlich abrufen und
   ]}
 />
 
-Merken
-
-Merken
-
-Merken
-
-Merken
-
-Merken
