@@ -25,7 +25,7 @@ labels:
   - Frühlingsboten
   - Frühlingserwachen
   - Gärten
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Krokus
   - Liebe

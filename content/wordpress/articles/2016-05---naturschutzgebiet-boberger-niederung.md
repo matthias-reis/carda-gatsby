@@ -18,7 +18,7 @@ labels:
   - Boberger Niederung
   - Boberger See
   - Düne
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Segelflug
   - Wandern

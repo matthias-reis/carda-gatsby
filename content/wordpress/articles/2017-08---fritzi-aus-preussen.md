@@ -25,7 +25,6 @@ labels:
   - Fritzi
   - Fritzi aus Preußen
   - FritziausPreußen
-  - Hamburg
   - Interview
   - Interviews
   - Langenhagen

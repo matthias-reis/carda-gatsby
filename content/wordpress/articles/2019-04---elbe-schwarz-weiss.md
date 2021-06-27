@@ -16,7 +16,7 @@ labels:
   - Altona
   - Ausflug
   - Elbe
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - schwarz-weiß
 focusKeyword: schwarz-weiß

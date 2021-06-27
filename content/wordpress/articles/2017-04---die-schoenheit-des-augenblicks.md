@@ -18,7 +18,6 @@ labels:
   - Geschichten & Erlebtes
   - Großstadt
   - Hamburg
-  - Hamburg
   - Hamburg meine Liebe
   - Liebe
   - Mr. Sprock

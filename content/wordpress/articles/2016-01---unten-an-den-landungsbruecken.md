@@ -17,7 +17,7 @@ ogImage: null
 labels:
   - Ausflug
   - hach Hamburg
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Landungsbrücken
   - Sonnenuntergang

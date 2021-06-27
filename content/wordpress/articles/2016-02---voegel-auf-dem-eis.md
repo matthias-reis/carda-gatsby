@@ -23,7 +23,6 @@ labels:
   - Enten
   - Fleet
   - Hamburg
-  - Hamburg
   - Möwen
   - Vögel
   - Winter

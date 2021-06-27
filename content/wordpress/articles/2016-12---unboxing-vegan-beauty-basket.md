@@ -16,7 +16,6 @@ labels:
   - Beauty Box
   - Berlin
   - Fair Fashion & Beauty
-  - Hamburg
   - Ina
   - kleinerdrei
   - Liebe

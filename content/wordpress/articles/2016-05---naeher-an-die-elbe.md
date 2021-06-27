@@ -18,7 +18,6 @@ labels:
   - Elbe
   - Geschichten & Erlebtes
   - Hamburg
-  - Hamburg
   - Umzug
 focusKeyword: an die Elbe
 status: publish

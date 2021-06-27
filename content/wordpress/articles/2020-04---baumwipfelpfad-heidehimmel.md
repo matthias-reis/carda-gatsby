@@ -17,6 +17,7 @@ labels:
   - Ausflug
   - Ausflugsziele
   - Baumwipfelpfad
+  - Hamburg Ausflug
   - Hamburg
   - Heide
   - Heidehimmel

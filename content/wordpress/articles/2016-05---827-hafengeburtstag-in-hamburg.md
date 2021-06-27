@@ -16,7 +16,7 @@ labels:
   - 827. Hafengeburtstag
   - Hafen
   - Hafengeburtstag
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - serie:Hafengeburtstag
 focusKeyword: 827. Hafengeburtstag

@@ -15,7 +15,6 @@ ogImage: null
 labels:
   - Bloggertreffen
   - Hamburg
-  - Hamburg
   - Hamburger Bloggertreffen
 focusKeyword: Hamburger Bloggertreffen
 status: publish

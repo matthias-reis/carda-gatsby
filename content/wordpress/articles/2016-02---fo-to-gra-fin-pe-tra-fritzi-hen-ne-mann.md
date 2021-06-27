@@ -20,7 +20,6 @@ labels:
   - Fotografin
   - Frau Schokolinse
   - Göttingen
-  - Hamburg
   - Hochzeit
   - Hochzeitsfotografin
   - Hochzeitsfotos

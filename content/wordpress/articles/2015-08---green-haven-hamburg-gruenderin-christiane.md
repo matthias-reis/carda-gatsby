@@ -17,7 +17,7 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2015_08_green-haven-
 labels:
   - Bed & Breakfast
   - Green Haven
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - vegan übernachten
   - Vegane Lokale

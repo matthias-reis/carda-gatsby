@@ -18,7 +18,7 @@ labels:
   - Art
   - Ausstellung
   - Geschichten & Erlebtes
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Kunst
   - MK & G

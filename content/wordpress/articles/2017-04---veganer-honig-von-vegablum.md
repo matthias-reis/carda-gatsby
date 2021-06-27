@@ -18,7 +18,6 @@ labels:
   - Ernährung
   - Ernährung & Gesundheit
   - govegan
-  - Hamburg
   - Honig vegan
   - Meerbusch
   - Vegablum

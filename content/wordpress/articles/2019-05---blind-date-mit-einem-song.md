@@ -21,7 +21,6 @@ labels:
   - diversity
   - Frank Zappa
   - Funk
-  - Hamburg
   - Ignoranz
   - Indie
   - Jazz

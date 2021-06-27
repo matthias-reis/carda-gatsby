@@ -18,7 +18,6 @@ labels:
   - Altona
   - Geschichten & Erlebtes
   - Hamburg
-  - Hamburg
   - Neubau
   - neue Mitte
   - neue Mitte Altona

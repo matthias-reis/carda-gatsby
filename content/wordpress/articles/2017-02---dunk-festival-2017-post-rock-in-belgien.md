@@ -39,7 +39,6 @@ labels:
   - Festivals
   - FLASH THE READIES
   - HALMA
-  - Hamburg
   - ILYDAEN
   - JAMBINAI
   - KOKOMO

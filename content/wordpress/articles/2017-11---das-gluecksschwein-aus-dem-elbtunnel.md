@@ -18,7 +18,6 @@ labels:
   - Erdlingshof
   - Glücksschwein
   - Hamburg
-  - Hamburg
   - Kollnburg
   - Schlachthof
   - Schwein

@@ -18,7 +18,7 @@ labels:
   - Andy Warhol
   - Edvard Munch
   - Galerie
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Hamburger Kunsthalle
   - Kunst

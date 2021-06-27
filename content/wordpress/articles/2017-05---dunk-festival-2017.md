@@ -36,7 +36,6 @@ labels:
   - FLASH THE READIES
   - God Is An Astronaut
   - HALMA
-  - Hamburg
   - ILYDAEN
   - Karen Willems And Aidan Baker
   - KOZMOTRON

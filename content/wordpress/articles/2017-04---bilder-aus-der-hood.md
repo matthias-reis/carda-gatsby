@@ -19,7 +19,6 @@ labels:
   - HalloKarlo
   - hallokarlo_
   - Hamburg
-  - Hamburg
   - Hamburger Ecken
   - hkdns
   - Hood

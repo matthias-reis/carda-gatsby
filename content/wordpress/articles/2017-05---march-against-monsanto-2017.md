@@ -29,7 +29,6 @@ labels:
   - Glyphosat
   - go vegan
   - Hamburg
-  - Hamburg
   - Klima- & Umweltschutz
   - Klimaschutz
   - Konsum

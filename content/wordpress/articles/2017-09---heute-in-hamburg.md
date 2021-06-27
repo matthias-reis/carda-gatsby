@@ -16,7 +16,7 @@ labels:
   - Altona
   - Bahnsteig
   - Flohschanze
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - iseefaces
   - Ölfarbe

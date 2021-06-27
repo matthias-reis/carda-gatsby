@@ -22,7 +22,6 @@ labels:
   - Fördertürmchen
   - Generationen
   - Graues Gold
-  - Hamburg
   - Interviews
   - Münsterland
   - NRW

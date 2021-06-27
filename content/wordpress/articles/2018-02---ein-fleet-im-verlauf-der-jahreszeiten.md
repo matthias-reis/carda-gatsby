@@ -22,7 +22,6 @@ labels:
   - Fluss
   - Geschichten & Erlebtes
   - Hamburg
-  - Hamburg
   - Jahreszeiten
   - Wasser
   - serie:Flarf-Gedichte

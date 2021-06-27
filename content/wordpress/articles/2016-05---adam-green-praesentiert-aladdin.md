@@ -22,7 +22,6 @@ labels:
   - Cinema
   - Folk
   - Hamburg
-  - Hamburg
   - Movie
 focusKeyword: Adam Green
 status: publish

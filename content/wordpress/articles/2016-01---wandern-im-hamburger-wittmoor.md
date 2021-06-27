@@ -17,7 +17,7 @@ ogImage: null
 labels:
   - Ausflug
   - El Nino
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Hamburger Wittmoor
   - Klima

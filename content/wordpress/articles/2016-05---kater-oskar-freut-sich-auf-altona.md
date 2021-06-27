@@ -17,7 +17,6 @@ labels:
   - Catcontent
   - Geschichten & Erlebtes
   - Hamburg
-  - Hamburg
   - Kater Oskar
   - Umzug
 focusKeyword: Kater Oskar

@@ -15,7 +15,6 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2017_03_9571503392_a
 labels:
   - go vegan
   - Guy Ryder
-  - Hamburg
   - Internationaler Weltwassertag
   - Kassel
   - Klima- & Umweltschutz

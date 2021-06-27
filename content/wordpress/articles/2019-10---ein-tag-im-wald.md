@@ -18,7 +18,7 @@ labels:
   - Ausflug
   - Einklang
   - Gesundheit
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Meditation
   - Regeneration

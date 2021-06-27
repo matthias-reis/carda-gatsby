@@ -21,7 +21,6 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2020_02_the-end-of-m
 labels:
 - Bücher & Filme
 - Ernährung & Gesundheit
-- Hamburg
 - Hildesheim
 - Marc Pierschel
 - Münster

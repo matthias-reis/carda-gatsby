@@ -18,7 +18,6 @@ labels:
   - Ernährung & Gesundheit
   - Essen
   - Essen bestellen
-  - Hamburg
   - pflanzlich
   - vegan
   - veganer Lieferdienst

@@ -14,7 +14,6 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: https://storage.googleapis.com/cardamonchai-images/2016_05_stadttauben.png__l.jpg
 labels:
   - Hamburg
-  - Hamburg
   - Hamburger Stadttauben
   - Hamburger Stadttauben e. V.
   - Stadttauben

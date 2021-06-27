@@ -23,7 +23,6 @@ labels:
   - Geschichten & Erlebtes
   - Graffiti
   - Hamburg
-  - Hamburg
   - Laube
   - Nächstenliebe
   - Schrebergarten

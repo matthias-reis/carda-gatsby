@@ -19,7 +19,6 @@ labels:
   - Empathie
   - firstworldproblems
   - Geschichten & Erlebtes
-  - Hamburg
   - Katzen
   - langweilig
   - missyou

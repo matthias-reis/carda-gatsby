@@ -15,7 +15,6 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2016_07_28480259571_
 labels:
   - Berlin
   - Fair Fashion & Beauty
-  - Hamburg
   - Hyaluron
   - Kosmetik
   - Lovely Day Botanicals

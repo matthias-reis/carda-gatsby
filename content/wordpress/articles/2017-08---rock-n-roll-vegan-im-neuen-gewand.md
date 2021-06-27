@@ -17,7 +17,6 @@ labels:
   - cardamonchai
   - Geschichten & Erlebtes
   - go vegan
-  - Hamburg
   - Hoch die Pommesgabel
   - Klimaschutz
   - Logo

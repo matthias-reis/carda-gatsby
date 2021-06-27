@@ -15,7 +15,6 @@ ogImage: null
 labels:
   - Autorin
   - Geschichten & Erlebtes
-  - Hamburg
   - Kreativität
   - schreiben
 focusKeyword: Kreativität

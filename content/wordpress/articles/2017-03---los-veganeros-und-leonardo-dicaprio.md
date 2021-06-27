@@ -17,7 +17,6 @@ labels:
   - Delikat Rayne
   - Geschichten & Erlebtes
   - go vegan
-  - Hamburg
   - Harald Ullmann
   - Israel
   - Klimaschutz

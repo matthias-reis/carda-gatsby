@@ -20,7 +20,7 @@ labels:
   - Elbe
   - Elbhöhenweg
   - Elbterassen
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Hamburg mal wieder
   - Rundgang

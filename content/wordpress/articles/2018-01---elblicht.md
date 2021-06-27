@@ -20,7 +20,6 @@ labels:
   - Gedicht
   - Geschichten & Erlebtes
   - Hamburg
-  - Hamburg
   - Happy New Year
   - Neues Jahr
   - Poesie

@@ -18,7 +18,6 @@ labels:
   - Curitiba
   - echtes Recycling
   - Europa
-  - Hamburg
   - Kinder
   - Klima- & Umweltschutz
   - less waste

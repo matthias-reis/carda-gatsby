@@ -17,6 +17,7 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22827822100_
 labels:
   - Emil Nolde
   - Galerie
+  - Hamburg Ausflug
   - Hamburg
   - Hamburger Kunsthalle
   - Kunst

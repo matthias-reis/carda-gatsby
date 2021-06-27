@@ -16,7 +16,7 @@ labels:
   - Ausflug
   - Ausflug
   - Fahrrad fahren
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Radtour
   - Radwandern

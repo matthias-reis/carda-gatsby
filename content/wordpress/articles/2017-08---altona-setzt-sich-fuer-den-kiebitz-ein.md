@@ -15,7 +15,6 @@ ogImage: null
 labels:
   - Altona
   - Hamburg
-  - Hamburg
   - ilikebirds
   - Kiebitz
   - Natur

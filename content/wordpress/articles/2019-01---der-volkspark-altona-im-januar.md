@@ -16,7 +16,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-06-volkspark_28__l.jpg
 labels:
   - Altona
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Hamburg Altona
   - Park

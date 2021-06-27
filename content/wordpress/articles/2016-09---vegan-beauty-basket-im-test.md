@@ -15,7 +15,6 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2016_09_29578673560_
 labels:
   - Berlin
   - Fair Fashion & Beauty
-  - Hamburg
   - vegan
   - vegan beauty
   - Vegan Beauty Basket

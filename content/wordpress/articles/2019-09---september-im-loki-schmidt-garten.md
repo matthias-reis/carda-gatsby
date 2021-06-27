@@ -19,6 +19,7 @@ labels:
   - Ausflug
   - Bienen
   - fotografieren
+  - Hamburg Ausflug
   - Hamburg
   - Insekten
   - Klein Flottbek

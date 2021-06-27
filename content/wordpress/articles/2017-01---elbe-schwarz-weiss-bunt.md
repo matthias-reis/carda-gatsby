@@ -22,7 +22,6 @@ labels:
   - Fotografie
   - Geschichten & Erlebtes
   - Hamburg
-  - Hamburg
   - schwarz-weiß
   - serie:Flarf-Gedichte
 focusKeyword: Elbe

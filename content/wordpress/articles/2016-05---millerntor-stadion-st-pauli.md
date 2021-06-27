@@ -17,7 +17,7 @@ ogImage: null
 labels:
   - FC St. Pauli
   - FCSP
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Millerntor
   - Millerntor-Stadion

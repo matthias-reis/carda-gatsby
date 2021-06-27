@@ -23,7 +23,6 @@ labels:
   - Hafen
   - Hafencity
   - Hamburg
-  - Hamburg
   - Hamburger Hafen
   - Internet
   - Kälte

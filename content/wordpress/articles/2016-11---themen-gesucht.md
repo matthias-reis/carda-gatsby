@@ -17,7 +17,6 @@ labels:
   - Blog
   - Bloggerin
   - Geschichten & Erlebtes
-  - Hamburg
   - Redakteurin
   - schreiben
   - Themen

@@ -24,7 +24,6 @@ labels:
   - Fernweh
   - Graffiti
   - Graffity
-  - Hamburg
   - Hip Hop
   - Kunst
   - London

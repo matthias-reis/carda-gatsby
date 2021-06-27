@@ -18,7 +18,6 @@ labels:
   - Gentrifizierung
   - Geschichten & Erlebtes
   - Hamburg
-  - Hamburg
   - Sankt Pauli
   - Schanze
   - Schanzenviertel

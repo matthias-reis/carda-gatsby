@@ -18,7 +18,6 @@ labels:
   - Frühling
   - Geschichten & Erlebtes
   - Hamburg
-  - Hamburg
   - kalt
   - Kälte
   - Park

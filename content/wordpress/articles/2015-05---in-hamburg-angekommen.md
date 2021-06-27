@@ -16,7 +16,6 @@ labels:
   - Angekommen
   - Geschichten & Erlebtes
   - Hamburg
-  - Hamburg
   - Hamburg meine Liebe
   - Neuhamburger
   - Server weg

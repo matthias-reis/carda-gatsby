@@ -25,7 +25,6 @@ labels:
   - Gefundenes Fressen
   - Gin
   - Hamburg
-  - Hamburg
   - Happy Hour
   - infusion
   - Interview

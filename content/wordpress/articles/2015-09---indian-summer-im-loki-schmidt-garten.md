@@ -21,6 +21,7 @@ labels:
   - Botanischer Garten Hamburg
   - botanischergarten
   - Flora
+  - Hamburg Ausflug
   - Hamburg
   - Herbst
   - Herbstblumen

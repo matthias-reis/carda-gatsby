@@ -15,7 +15,7 @@ ogImage: null
 labels:
   - Altona
   - Blankenese
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Spaziergang
   - Treppenviertel

@@ -15,7 +15,6 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2017_02_Gabenzaun-1_
 labels:
   - Antifaschismus & Feminismus
   - Hamburg
-  - Hamburg
   - Hamburger Gabenzaun
   - Hauptbahnhof
   - Obdachlose

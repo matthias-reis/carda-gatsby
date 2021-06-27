@@ -16,7 +16,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24310408846_2401e72222_z__l.jpg
 labels:
   - Ausflug
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Museum
   - Panoptikum

@@ -19,7 +19,7 @@ labels:
   - Botanik
   - Botanischer Garten
   - Gärten
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Loki Schmidt Garten
   - LokiSchmidtGarten

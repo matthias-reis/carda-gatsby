@@ -1,35 +1,32 @@
 ---
 date: 2018-02-09T07:28:29.000+00:00
 slug: neue-deocremes-von-pony-huetchen
-path: "/2018/02/neue-deocremes-von-pony-huetchen/"
+path: '/2018/02/neue-deocremes-von-pony-huetchen/'
 type: Artikel
 typeName: Produkttest
 title: Neue Deocremes von Pony Hütchen
 seoTitle: Neue Deocremes von Pony Hütchen - Beauty-Lieblinge im neuen Kleid
 ogTitle: Neue Deocreme von Pony Hütchen - Beauty-Lieblinge im neuen Kleid
-description: Was bei mir im Bad niemals fehlen darf, sind meine Lieblings-Deocremes
-  von Pony Hütchen. Jetzt gibt es davon eine Neuauflage, die ich getestet habe.
-excerpt: Was bei mir im Bad niemals fehlen darf, sind meine Lieblings-Deocremes von
-  Pony Hütchen. Jetzt gibt es davon eine Neuauflage, die ich getestet habe.
+description: Was bei mir im Bad niemals fehlen darf, sind meine Lieblings-Deocremes von Pony Hütchen. Jetzt gibt es davon eine Neuauflage, die ich getestet habe.
+excerpt: Was bei mir im Bad niemals fehlen darf, sind meine Lieblings-Deocremes von Pony Hütchen. Jetzt gibt es davon eine Neuauflage, die ich getestet habe.
 fileName: 2018-02---neue-deocremes-von-pony-huetchen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40130844772_857dfe5479_z-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40130844772_857dfe5479_z-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwP/xAAmEAABAwQBAwQDAAAAAAAAAAABAgMEAAURIRIxQWEGE1FxIjLw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAC/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAAwQREiExE//aAAwDAQACEQMRAD8AzW1hDihzUMfFWVvTDbZy4pA8qIFZjGuKY7RWsHA+K1qz3VNqgQm4LERxD8dp5x52OHS5zQFE5PYZwAPiituWocmj4uK+S3FJP3SZHU+GoyGzy17qjhJ+qWk2B522pmOcGG1kpSSpKhkZ67ykeSMHdcPXSIsG+Nv21ttxMtnmWgzwbSoEp/FJOgcZ8bxjski+RW47aWmErkAkrUVFSQfB7/260j8tEQ3q+bFG9Ego88xreoey25ITITh1Q7Y2MdN6qjh3m4pjJDcx1CueEDOUITxBwEnXXdFFVigkA+Q1Yq3RnSZcH5ry5ExZek9C4QB0GMAAAAeKQdeyP0A+qKK0Boakezuf/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40130844772_857dfe5479_z-1__l.jpg
 labels:
-- Bad Zurzach
-- beauty
-- Berlin
-- Deo
-- Duft
-- Fair Fashion & Beauty
-- Hamburg
-- Pony Hütchen
-- ponyhütchen
-- vegan beauty
-- vegane Deocreme
-- veganes Deo
-- Wellness
+  - Bad Zurzach
+  - beauty
+  - Berlin
+  - Deo
+  - Duft
+  - Fair Fashion & Beauty
+  - Pony Hütchen
+  - ponyhütchen
+  - vegan beauty
+  - vegane Deocreme
+  - veganes Deo
+  - Wellness
 focusKeyword: Pony Hütchen
 status: publish
 isWerbung: false
@@ -38,8 +35,8 @@ language: de
 errors: {}
 subTitle: Beauty-Lieblinge im neuen Kleid
 advertisement: true
-
 ---
+
 **Was bei mir im Bad niemals fehlen darf, sind meine Lieblings-Deocremes von [Pony Hütchen](/2016/03/vegane-kosmetik-von-pony-huetchen-im-test/). Jetzt gibt es davon eine Neuauflage, die ich auch Euch nicht vorenthalten möchte.**
 
 Ich bin schon lange sehr glücklich mit meinen Pony Hütchen Deos und war daher sehr gespannt, was mich mit der Umstellung auf die neue Rezeptur erwarten würde.

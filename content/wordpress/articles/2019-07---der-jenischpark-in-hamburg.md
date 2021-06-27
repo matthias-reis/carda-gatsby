@@ -18,7 +18,7 @@ labels:
   - Ausflug
   - Ausflug
   - frische Luft
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Hamburger Parks
   - Hohle Eiche

@@ -16,7 +16,6 @@ labels:
   - Birdwatching
   - Geschichten & Erlebtes
   - Hamburg
-  - Hamburg
   - Möwe
   - Möwen
   - Planten un Blomen

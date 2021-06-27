@@ -20,7 +20,6 @@ labels:
   - flyingcats
   - Frühstück
   - Hamburg
-  - Hamburg
   - Interviews
   - Katzen
   - Katzencafé

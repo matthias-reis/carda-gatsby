@@ -33,7 +33,6 @@ labels:
 - Grüner Tee
 - Grüntee Kapseln
 - Grüntee-Präparat
-- Hamburg
 - Interviews
 - Lebenseinstellung
 - mantra

@@ -21,7 +21,7 @@ labels:
   - Film in Hamburg
   - Flohmarkt
   - Güterbahnhof
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Hanseatische Materialverwaltung
   - Kaffeeklappe

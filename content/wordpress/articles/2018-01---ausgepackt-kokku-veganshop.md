@@ -19,7 +19,6 @@ labels:
   - Dresden
   - Ernährung & Gesundheit
   - From Bean To Bar
-  - Hamburg
   - Heißer Hirsch
   - Jackfruit
   - Kokku

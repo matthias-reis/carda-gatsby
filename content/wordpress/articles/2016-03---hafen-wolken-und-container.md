@@ -21,7 +21,7 @@ labels:
   - Hafen
   - Hafencity
   - Hafenrundfahrt
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Hamburger
   - Hamburger Hafen

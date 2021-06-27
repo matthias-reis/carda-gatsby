@@ -15,7 +15,6 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2017_02_bus-1-von-1_
 labels:
   - Antifaschismus & Feminismus
   - Hamburg
-  - Hamburg
   - Hochbahn
   - Menschen
   - Michel Arriens

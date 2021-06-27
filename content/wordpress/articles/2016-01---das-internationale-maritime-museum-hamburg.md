@@ -16,7 +16,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: null
 labels:
   - Das Internationale Maritime Museum
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Internationales Maritimes Museum
   - Maritimes Museum

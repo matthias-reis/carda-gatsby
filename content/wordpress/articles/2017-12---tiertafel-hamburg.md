@@ -14,7 +14,6 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Tiertafel__l.jpg
 labels:
   - Hamburg
-  - Hamburg
   - helfen
   - Kara Schott
   - Langenfelde

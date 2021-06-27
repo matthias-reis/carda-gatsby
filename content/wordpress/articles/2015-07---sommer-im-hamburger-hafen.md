@@ -22,7 +22,7 @@ labels:
   - Hafen Hamburg
   - Hafenrundfahrt
   - Hafenrundfahrt Hamburg
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Hamburger Hafen
   - Landungsbrücken

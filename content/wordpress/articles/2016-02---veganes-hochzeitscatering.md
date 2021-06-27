@@ -17,7 +17,6 @@ ogImage: null
 labels:
   - Aloha Cherie
   - Hamburg
-  - Hamburg
   - Hamburg vegan
   - Interviews
   - vegan

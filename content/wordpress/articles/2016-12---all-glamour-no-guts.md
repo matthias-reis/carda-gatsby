@@ -17,7 +17,6 @@ labels:
   - England
   - Fair Fashion & Beauty
   - govegan
-  - Hamburg
   - Hillside Animal Sanctuary
   - Kette Vegan
   - Norwich

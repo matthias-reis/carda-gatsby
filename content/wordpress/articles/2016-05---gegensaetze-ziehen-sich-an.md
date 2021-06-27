@@ -14,7 +14,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: null
 labels:
   - Gegensätze ziehen sich an
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Stadtpark
 focusKeyword: Gegensätze

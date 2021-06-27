@@ -19,7 +19,7 @@ labels:
   - Elbe
   - Elbe in Altona
   - Hafen
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Matrosen
   - Rose

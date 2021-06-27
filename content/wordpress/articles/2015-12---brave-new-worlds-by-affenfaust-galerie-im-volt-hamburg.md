@@ -20,7 +20,6 @@ labels:
   - Bilder
   - Galerie
   - Hamburg
-  - Hamburg
   - Kunst
 focusKeyword: Brave New Worlds
 status: publish

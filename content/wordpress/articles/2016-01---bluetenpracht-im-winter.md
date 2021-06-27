@@ -17,7 +17,7 @@ ogImage:
 labels:
   - Ausflug
   - Botanischer Garten
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Park
   - Planten un Blomen

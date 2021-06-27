@@ -25,7 +25,6 @@ labels:
   - Envy
   - Garage
   - grandson
-  - Hamburg
   - Hardcore
   - Incubus
   - Indie

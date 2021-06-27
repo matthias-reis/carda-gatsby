@@ -20,7 +20,7 @@ labels:
   - Botanischer Sondergarten
   - Botanischer Sondergarten Wandsbek
   - Gärten
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Herbst
   - Natur

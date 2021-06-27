@@ -18,7 +18,7 @@ labels:
   - Ausflug
   - Cap San Diego
   - Frachter
-  - Hamburg
+  - Hamburg Ausflug
   - Museumsschiff Hamburg
 focusKeyword: Cap San Diego
 status: publish

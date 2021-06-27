@@ -26,7 +26,6 @@ labels:
   - grenzenlose Solidarität
   - Guatemala
   - Hamburg
-  - Hamburg
   - Kaffee
   - Kaffeekultur
   - Kaffeerösterei

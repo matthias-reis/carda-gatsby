@@ -19,7 +19,7 @@ labels:
   - Altonaer Balkon
   - Hafen
   - Hafen Altona
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Holzhafen
   - Möwen

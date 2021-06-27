@@ -16,7 +16,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22915149450_dce6a2aaab_z__l.jpg
 labels:
   - Ausflug
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Instagram
   - Schnee

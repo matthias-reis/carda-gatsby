@@ -32,7 +32,6 @@ labels:
   - Fashion
   - Greenality
   - Grundstoff
-  - Hamburg
   - Merijula
   - Mode
   - Noah

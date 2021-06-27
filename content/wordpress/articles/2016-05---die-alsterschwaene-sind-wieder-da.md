@@ -15,7 +15,7 @@ ogImage: null
 labels:
   - Alster
   - Alsterschwäne
-  - Hamburg
+  - Hamburg Ausflug
   - Hamburg
   - Schwäne
 focusKeyword: Alsterschwäne
