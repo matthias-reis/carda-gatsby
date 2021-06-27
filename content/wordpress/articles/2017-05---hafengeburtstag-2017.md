@@ -1,60 +1,55 @@
 ---
-date: 2017-05-09T16:07:00.000+00:00
-slug: hafengeburtstag
-path: "/2017/05/hafengeburtstag/"
-type: Galerie
-typeName: Konzertbericht
-title: Hafengeburtstag 2017
-seoTitle: Hafengeburtstag 2017 - Wir haben mitgefeiert und Fahnenflucht live erlebt
 ogTitle: Hafengeburtstag 2017 - Wir haben mitgefeiert und Fahnenflucht live erlebt
-description: 'Was für ein schöner "Zufall": Wir kommen aus dem Urlaub nach Hause und
+excerpt: 'Was für ein schöner "Zufall": Wir kommen aus dem Urlaub nach Hause und
   der Hamburger Hafen feiert Geburtstag. Zeit für eine fette Bildergalerie.'
-excerpt: 'Was für ein schöner "Zufall": Wir kommen aus dem Urlaub nach Hause und der
-  Hamburger Hafen feiert Geburtstag. Zeit für eine fette Bildergalerie.'
-fileName: 2017-05---hafengeburtstag-2017.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34171350760_8d27df5e08_k__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34171350760_8d27df5e08_k__l.jpg
+ogImage: null
+isAffiliate: false
+path: /2017/05/hafengeburtstag/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAQME/8QAKhAAAQMDAwEHBQAAAAAAAAAAAQIDBAAFEQYSITEHFCIyQVFxE2GhwdH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQC/8QAHBEAAgMAAwEAAAAAAAAAAAAAAAECAzEREhNB/9oADAMBAAIRAxEAPwBxt1gStIUFAg+mKYY1iQS0SnAB5GP3UD0ter6u8OSrUq4SFrRsV9eRsbPJO7Kj7/b1ql6W1FqR+I07drpHjqcZ8iGklSXMnqCMfmqfWbwmdUFo9al1G5o7T8q4IgIl4UG9hVs6gnr8A8VGr/qiJq23quUl3uECO8ppph15KlKWEgleB5j4sDjgZ9TWntquMmMzYo7t1uMtuSHzvdWk7SnaMAJCcZCzyc+wqQtw7i7EK4sSY5HS6lAdaaUpJAHi5HU9KnVjVjQ9181pjDHfUcEjNMFokFTg8CetFFalgI5e2e4ux7fp19sALQt9HyClH8rOgp7kvRCy7knvj2OenCaKKR8Hdnh//9k=
-ogImage: 
-labels:
-- 828. Hafengeburtstag
-- aida
-- aidasol
-- Altona
-- Astra
-- Elbe
-- Fahnenflucht
-- FCSP
-- Fernweh
-- Graffity
-- Hafen
-- Hafengeburtstag
-- Hafenstraße
-- Hamburg
-- Hamburg
-- Konzerte
-- La Paloma
-- Liebe
-- Moewe
-- msc
-- Punk
-- Punkkonzert
-- Punkrock
-- Sehnsucht
-- St. Pauli
-- Streetart
-- Taube
-- Unicef
-- Waterkant
-- serie:Hafengeburtstag
+typeName: Konzertbericht
+isWerbung: false
+fileName: 2017-05---hafengeburtstag-2017.md
+slug: hafengeburtstag
+errors: {}
+date: 2017-05-09T16:07:00.000+00:00
 focusKeyword: Hafengeburtstag
 status: publish
-isWerbung: false
-isAffiliate: false
-language: de
-errors: {}
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34171350760_8d27df5e08_k__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34171350760_8d27df5e08_k__m.jpg
+title: Hafengeburtstag 2017
 subTitle: Ein Fest in Hamburg
-
+seoTitle: Hafengeburtstag 2017 - Wir haben mitgefeiert und Fahnenflucht live erlebt
+description: 'Was für ein schöner "Zufall": Wir kommen aus dem Urlaub nach Hause
+  und der Hamburger Hafen feiert Geburtstag. Zeit für eine fette Bildergalerie.'
+labels:
+  - 828. Hafengeburtstag
+  - Altona
+  - Astra
+  - Elbe
+  - Fahnenflucht
+  - FCSP
+  - Fernweh
+  - Graffity
+  - Hafen
+  - Hafengeburtstag
+  - Hafenstraße
+  - Konzerte
+  - La Paloma
+  - Liebe
+  - Moewe
+  - msc
+  - Punk
+  - Punkkonzert
+  - Punkrock
+  - Sehnsucht
+  - St. Pauli
+  - Streetart
+  - Taube
+  - Unicef
+  - Waterkant
+  - serie:Hafengeburtstag
+language: de
+type: Galerie
 ---
 **Was für ein schöner "Zufall": Wir kommen aus dem Urlaub nach Hause und der Hamburger Hafen feiert Geburtstag. Da muss ich Euch natürlich gleich mit einer Bildergalerie verzücken. Hach.**
 
