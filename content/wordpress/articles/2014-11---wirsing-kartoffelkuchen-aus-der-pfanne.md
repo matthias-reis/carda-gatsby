@@ -27,7 +27,7 @@ labels:
   - vegan
   - vegan kochen
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Wirsing
   - Wirsing anbraten
   - Wirsing-Kartoffelkuchen

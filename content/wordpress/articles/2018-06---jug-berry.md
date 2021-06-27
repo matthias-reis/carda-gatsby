@@ -24,7 +24,7 @@ labels:
   - Sommer
   - Strawberry
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Wodky is vegan
 focusKeyword: Jug Berry
 status: publish

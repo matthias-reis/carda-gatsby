@@ -15,7 +15,7 @@ labels:
   - Paranuss-Brotaufsstrich
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Veganer
   - veganer Brotaufstrich
 date: 2015-09-11T06:52:25.000Z

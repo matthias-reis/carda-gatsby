@@ -35,7 +35,7 @@ labels:
   - Trockenerbsen
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
   - veganerezepte
   - wheredoyougetyourprotein
   - Zwiebeln

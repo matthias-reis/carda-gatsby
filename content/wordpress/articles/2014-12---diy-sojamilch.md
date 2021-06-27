@@ -32,7 +32,7 @@ labels:
   - Sojamilch selber machen
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Veganer
 focusKeyword: DIY Sojamilch
 status: publish

@@ -19,7 +19,7 @@ labels:
   - ottoversand.at
   - Rezept
   - vegan
-  - Vegane Rezepte
+
   - Veganer
   - veganwerdenwaslosdigga
 date: 2017-04-19T12:18:11.000Z

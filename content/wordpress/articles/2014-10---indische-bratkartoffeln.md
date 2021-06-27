@@ -27,7 +27,7 @@ labels:
   - vegan
   - vegan kochen
   - vegane Rezepte
-  - Vegane Rezepte
+
 focusKeyword: Bratkartoffeln
 status: publish
 isWerbung: false

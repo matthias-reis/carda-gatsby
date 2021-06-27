@@ -40,7 +40,7 @@ labels:
   - vegan
   - vegan backen
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Veganer
   - veganer Kuchen
   - veganes Backen

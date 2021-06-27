@@ -23,7 +23,7 @@ labels:
   - Spätschicht in Hamburg
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Vollkornspaghetti
 focusKeyword: Vollkornspaghetti
 status: publish

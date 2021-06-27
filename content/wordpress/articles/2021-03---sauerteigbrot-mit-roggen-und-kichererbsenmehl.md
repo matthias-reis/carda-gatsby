@@ -23,7 +23,7 @@ labels:
   - Roggen
   - Sauerteig
   - vegane Rezepte
-  - Vegane Rezepte
+
 focusKeyword: Sauerteigbrot
 status: publish
 isWerbung: false

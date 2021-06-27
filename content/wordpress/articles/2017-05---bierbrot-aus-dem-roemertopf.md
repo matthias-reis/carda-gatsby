@@ -26,7 +26,7 @@ labels:
   - vegan
   - vegan backen
   - vegane Rezepte
-  - Vegane Rezepte
+
   - veganes Brot
   - Vollkorn
 focusKeyword: Römertopf

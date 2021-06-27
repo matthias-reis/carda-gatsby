@@ -23,7 +23,7 @@ labels:
   - Tom Yum
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Zitronengras
 focusKeyword: Tom Yum
 status: publish

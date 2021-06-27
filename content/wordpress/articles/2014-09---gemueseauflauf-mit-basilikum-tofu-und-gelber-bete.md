@@ -31,7 +31,7 @@ labels:
   - Tomaten
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Veganer
   - Zucchini
 focusKeyword: Gemüseauflauf

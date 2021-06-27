@@ -34,7 +34,7 @@ labels:
   - Superfruits
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Zuckerschoten
 focusKeyword: Kartoffelsalat
 status: publish

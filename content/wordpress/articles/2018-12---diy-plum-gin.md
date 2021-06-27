@@ -31,7 +31,7 @@ labels:
   - Tonic Water
   - Trester
   - vegane Rezepte
-  - Vegane Rezepte
+
 focusKeyword: Likör
 status: publish
 isWerbung: false

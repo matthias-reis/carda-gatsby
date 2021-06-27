@@ -29,7 +29,7 @@ labels:
   - vegane Dips
   - vegane Küche
   - vegane Rezepte
-  - Vegane Rezepte
+
 focusKeyword: Baba Ghanoush
 status: publish
 isWerbung: false

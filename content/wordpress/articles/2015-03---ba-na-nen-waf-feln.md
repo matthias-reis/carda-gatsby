@@ -27,7 +27,7 @@ labels:
   - vegan
   - vegan backen
   - vegane Rezepte
-  - Vegane Rezepte
+
   - vegane Waffeln
   - Veganer
   - veganes Frühstück

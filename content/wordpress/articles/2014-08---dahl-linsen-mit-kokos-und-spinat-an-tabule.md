@@ -32,7 +32,7 @@ labels:
   - Tabulé
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Veganer
   - Veganes Essen
 focusKeyword: Dahl-Linsen

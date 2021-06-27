@@ -26,7 +26,7 @@ labels:
   - vegan
   - vegan kochen
   - vegane Rezepte
-  - Vegane Rezepte
+
   - veganes Chili
 focusKeyword: Veganes Chili
 status: publish

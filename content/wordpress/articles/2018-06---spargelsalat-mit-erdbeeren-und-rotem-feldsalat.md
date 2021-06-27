@@ -26,7 +26,7 @@ labels:
   - Spargelsalat
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
   - veganes Spargelrezept
 focusKeyword: Spargelsalat
 status: publish

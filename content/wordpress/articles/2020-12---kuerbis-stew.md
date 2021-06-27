@@ -23,7 +23,7 @@ labels:
   - Resteverwertung
   - vegan kochen
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Zero Waste
   - Zero Waste Küche
   - Zero Waste Rezept

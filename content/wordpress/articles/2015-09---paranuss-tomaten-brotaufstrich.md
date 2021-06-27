@@ -23,7 +23,7 @@ labels:
   - Paranuss-Brotaufsstrich
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Veganer
   - veganer Brotaufstrich
 focusKeyword: Paranuss

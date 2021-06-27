@@ -26,7 +26,7 @@ labels:
   - vegan kochen
   - vegane Hollandaise
   - vegane Rezepte
-  - Vegane Rezepte
+
   - veganes Spargelrezept
 focusKeyword: Hollandaise
 status: publish

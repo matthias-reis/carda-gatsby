@@ -19,7 +19,7 @@ labels:
   - Ofenkartoffeln
   - Smashed Potatoes
   - vegane Rezepte
-  - Vegane Rezepte
+
 focusKeyword: Smashed Potatoes
 status: publish
 isWerbung: false

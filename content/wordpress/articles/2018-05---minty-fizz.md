@@ -22,7 +22,7 @@ labels:
   - vegan
   - vegan drinks
   - vegane Rezepte
-  - Vegane Rezepte
+
 focusKeyword: Fizz
 status: publish
 isWerbung: false

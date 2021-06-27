@@ -24,7 +24,7 @@ labels:
   - Rezepte für vegane Plätzchen
   - vegane Plätzchen backen
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Walnüsse
   - Weihnachten
 focusKeyword: Vegane Cranberry-Walnuss-Cookies - Rezept nicht nur für Advents-Naschkatzen

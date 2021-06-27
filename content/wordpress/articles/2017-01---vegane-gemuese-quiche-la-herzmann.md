@@ -14,7 +14,7 @@ labels:
   - Quiche
   - vegan
   - vegane Gemüse-Quiche
-  - Vegane Rezepte
+
 date: 2017-01-31T17:28:22.000Z
 status: publish
 isWerbung: false

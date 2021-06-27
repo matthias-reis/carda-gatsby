@@ -26,7 +26,7 @@ labels:
   - Rezept
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
   - veganen Käse selbstmachen
   - Veganer
   - veganer Auflauf

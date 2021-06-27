@@ -25,7 +25,7 @@ labels:
   - Kale Chips
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
 focusKeyword: Grünkohlchips
 status: publish
 isWerbung: false

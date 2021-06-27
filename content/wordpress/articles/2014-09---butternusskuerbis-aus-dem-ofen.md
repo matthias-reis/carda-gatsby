@@ -42,7 +42,7 @@ labels:
   - schlanke linie
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Veganer
 focusKeyword: Butternusskürbis
 status: publish

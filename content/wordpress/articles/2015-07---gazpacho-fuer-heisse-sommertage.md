@@ -23,7 +23,7 @@ labels:
   - vegan essen
   - vegane Gazpacho
   - vegane Rezepte
-  - Vegane Rezepte
+
 focusKeyword: Gazpacho
 status: publish
 isWerbung: false

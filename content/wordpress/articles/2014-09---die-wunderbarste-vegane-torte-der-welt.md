@@ -23,7 +23,7 @@ labels:
   - Torte ohne Backen
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Veganer
 focusKeyword: vegane Torte
 status: publish

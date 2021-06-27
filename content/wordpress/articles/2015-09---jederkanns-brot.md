@@ -22,7 +22,7 @@ labels:
   - Rezept Brot
   - Rezept Brot vegan
   - vegan
-  - Vegane Rezepte
+
   - veganes Brot
   - veganes Vollkornbrot
   - Vollkornbrot

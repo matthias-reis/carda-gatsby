@@ -22,7 +22,7 @@ labels:
   - Suppe Zucchini
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Zucchini
   - Zucchini-Suppe
   - Zucchinisuppe

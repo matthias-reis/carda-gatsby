@@ -24,7 +24,7 @@ labels:
   - vegan backen
   - vegane Linzer Torte
   - vegane Rezepte
-  - Vegane Rezepte
+
   - veganer Kuchen
 focusKeyword: Linzer Torte
 status: publish

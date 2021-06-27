@@ -1,28 +1,26 @@
 ---
 date: 2020-06-11T07:00:35.000+00:00
 slug: vegane-muffins
-path: "/2020/06/vegane-muffins/"
+path: '/2020/06/vegane-muffins/'
 type: Artikel
 typeName: Rezept
 title: Süße vegane Muffins
 seoTitle: Süße vegane Muffins mit weißer Schokolade und Banane
 ogTitle: Süße vegane Muffins mit weißer Schokolade und Banane
-description: Auf dieses Rezept für vegane Muffins greife ich immer wieder zurück,
-  wenn ich etwas mitbringen möchte oder schnell etwas Süßes brauche.
-excerpt: Auf dieses Rezept für vegane Muffins greife ich immer wieder zurück, wenn
-  ich etwas mitbringen möchte oder schnell etwas Süßes brauche.
+description: Auf dieses Rezept für vegane Muffins greife ich immer wieder zurück, wenn ich etwas mitbringen möchte oder schnell etwas Süßes brauche.
+excerpt: Auf dieses Rezept für vegane Muffins greife ich immer wieder zurück, wenn ich etwas mitbringen möchte oder schnell etwas Süßes brauche.
 fileName: 2020-06---suesse-vegane-muffins.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-01-muffins-11__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-01-muffins-11__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwT/xAAoEAACAgEEAQQBBQEAAAAAAAABAgMEEQAFEiExBhMiQVEUFTJCYWL/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUAAf/EAB0RAAIDAAMBAQAAAAAAAAAAAAECAAMREiEiBLH/2gAMAwEAAhEDEQA/ABdgq1NtgrwS1EmkdZJEnUN7iL5yD/XOM6YV9st7RYnSa7C9YqjCL3BwKk54gkcAv4PR+tKPSM+23dykja7udHeUc+/HJP7qnHS/BvKgY/j5H50//Ux7Vu89d6SfvFYkTRRQe5HOjYwWQj4lQAVbxg4ONR/oYvYTn7KdS4uGb2PTtbeFmbdIKNOIIVgWKUO6gZYp7bEKfOeQKk51M3vTfp+g1eOxuNiCeZJBLVsHjzP0eHeGGV8Y/wBzqiu73Eu5wtGYkjlhw8sAAIYH/n4kYIB68jrIGlXqDctpmo3UtB76M5IWRTIna44ghTwAyeiRjrr70K3lW0CKakE8N7kJU9T7TOiz3NpnlEYADrMpcfjyvWqq0tW/Ra5QszW6kaiOarYchq30CYweLDvHIeOsjRo0Y92Y0eFAXkOpwbhND7CHkIlUDiV64r46/wAxrfe/WNFYk26OjXgrwqwicPzX5L4kHeVbyQMHwc6NGtd5YZOEA9mf/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_suesse-vegane-muffins.png__l.jpg
 labels:
-- Backen mit Banane
-- Muffins
-- vegane Muffins
-- vegane Muffins backen
-- vegane Rezepte
-- Vegane Rezepte
+  - Backen mit Banane
+  - Muffins
+  - vegane Muffins
+  - vegane Muffins backen
+  - vegane Rezepte
+
 focusKeyword: vegane Muffins
 status: publish
 isWerbung: false
@@ -31,8 +29,8 @@ language: de
 errors: {}
 subTitle: Mit weißer Schokolade und Banane
 affiliate: true
-
 ---
+
 **Auf dieses süße Rezept für leckere vegane Muffins greife ich immer wieder zurück, wenn ich etwas mitbringen möchte oder ich noch schnell was Süßes für den Sonntagnachmittag haben will.**
 
 Es ist ganz einfach und gelingt wirklich immer. Ihr könnt den Teig mit den verschiedensten Toppings kombinieren. Auf den Bildern seht Ihr meine Variante mit weißer Schokolade.

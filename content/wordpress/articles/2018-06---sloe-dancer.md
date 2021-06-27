@@ -27,7 +27,7 @@ labels:
   - Sommer
   - Tanzen
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Vorglühen
 focusKeyword: Vorglüh
 status: publish

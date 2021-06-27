@@ -24,7 +24,7 @@ labels:
   - starchbased
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Winter
   - Winterspargel
   - Zubereitung Schwarzwurzel

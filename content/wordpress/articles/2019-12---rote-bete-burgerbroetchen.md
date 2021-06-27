@@ -28,7 +28,7 @@ labels:
   - vegane Burgerbrötchen
   - vegane Kochschule
   - vegane Rezepte
-  - Vegane Rezepte
+
   - veganes Brötchenrezept
 focusKeyword: Burgerbrötchen
 status: publish

@@ -25,7 +25,7 @@ labels:
   - Tomaten
   - vegan kochen
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Veganes Essen
   - veganes Rezept mit Bohnen
 focusKeyword: Aubergine

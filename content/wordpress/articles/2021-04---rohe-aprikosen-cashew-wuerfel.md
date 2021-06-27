@@ -19,7 +19,7 @@ labels:
   - Aprikosen-Cashew-Würfel
   - Cashew-Kerne
   - vegane Rezepte
-  - Vegane Rezepte
+
 focusKeyword: Aprikosen-Cashew-Würfel
 status: publish
 isWerbung: false

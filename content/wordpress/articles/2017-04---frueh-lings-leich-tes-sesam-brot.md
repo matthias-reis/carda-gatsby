@@ -33,7 +33,7 @@ labels:
   - Sesambrot
   - Sommerezept
   - vegan
-  - Vegane Rezepte
+
   - veganes Brot
 focusKeyword: Kichererbsenmehl
 status: publish

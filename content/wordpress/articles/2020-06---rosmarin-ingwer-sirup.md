@@ -1,33 +1,31 @@
 ---
 date: 2020-06-02T08:17:22.000+00:00
 slug: rosmarin-ingwer-sirup
-path: "/2020/06/rosmarin-ingwer-sirup/"
+path: '/2020/06/rosmarin-ingwer-sirup/'
 type: Artikel
 typeName: Rezept
 title: Rosmarin-Ingwer-Sirup
 seoTitle: Rosmarin-Ingwer-Sirup - leicht und sommerlich frisch
 ogTitle: Rosmarin-Ingwer-Sirup - leicht und sommerlich frisch
-description: Rosmarin-Ingwer-Sirup fügt Eurem Wasser das gewisse Etwas hinzu. Ganz
-  natürlich und in diesem Fall sogar kalorienarm. Ein Rezept mit Birkenzucker.
-excerpt: Rosmarin-Ingwer-Sirup fügt Eurem Wasser das gewisse Etwas hinzu. Ganz natürlich
-  und in diesem Fall sogar kalorienarm. Ein Rezept mit Birkenzucker.
+description: Rosmarin-Ingwer-Sirup fügt Eurem Wasser das gewisse Etwas hinzu. Ganz natürlich und in diesem Fall sogar kalorienarm. Ein Rezept mit Birkenzucker.
+excerpt: Rosmarin-Ingwer-Sirup fügt Eurem Wasser das gewisse Etwas hinzu. Ganz natürlich und in diesem Fall sogar kalorienarm. Ein Rezept mit Birkenzucker.
 fileName: 2020-06---rosmarin-ingwer-sirup.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-01-sirup-06__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-01-sirup-06__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYI/8QAKBAAAgEEAQIFBQEAAAAAAAAAAQIEAAMFERIhMQYiMkFRBxMUYZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGhEAAwADAQAAAAAAAAAAAAAAAAECAxESIf/aAAwDAQACEQMRAD8A6MsyuTa3SXibPx8Bi/zpZYWRet2jwUsxLtoAAAkn9AVXJINu8B169az/ANQ8jISFj2ho7XbctT5T1Ugg7A9yPasZL4l0KWzb4HLplsRHmoCguD0tsEH4IIBB+QRsHpTQlAtrdYvwnNmnGXbc9HWV99ySx9YOvN3PfdXMe83qJOjTD6lMGRvEdbiMg5a3vZ1VfksfevIpEYXnDlgOYGv73oopqU1pkmTwYchF21pbZ67Vm5H/ACnrEV1UctFh8dqKKZWvAZ//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_rosmarin-ingwer-sirup-fb.png__l.jpg
 labels:
-- Birkenzucker
-- Getränkesirup
-- Ingwer
-- Ingwer-Rosmarin-Sirup
-- Rosmarin
-- Sirup
-- vegane Rezepte
-- Vegane Rezepte
-- Wasser mit Geschmack
-- Xucker
-- Xylit
+  - Birkenzucker
+  - Getränkesirup
+  - Ingwer
+  - Ingwer-Rosmarin-Sirup
+  - Rosmarin
+  - Sirup
+  - vegane Rezepte
+
+  - Wasser mit Geschmack
+  - Xucker
+  - Xylit
 focusKeyword: Rosmarin-Ingwer-Sirup
 status: publish
 isWerbung: false
@@ -36,8 +34,8 @@ language: de
 errors: {}
 subTitle: Leicht und sommerlich frisch
 affiliate: true
-
 ---
+
 **Viel Trinken ist gesund. Gerade im Sommer, wenn wir bei Aktivitäten in der Sonne viel schwitzen. Wasser löscht den Durst perfekt. Rosmarin-Ingwer-Sirup fügt das gewisse Etwas hinzu - ganz natürlich und in diesem Fall sogar kalorienarm**
 
 Der Sirup lässt sich ganz leicht zubereiten. Ihr braucht nur eine halbe Stunde Zeit, eine Herdplatte, einen Löffel, eine Flasche, falls gewünscht einen kleinen Trichter und die folgenden Zutaten:

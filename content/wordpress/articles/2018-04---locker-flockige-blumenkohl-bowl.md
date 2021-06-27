@@ -27,7 +27,7 @@ labels:
   - vegan
   - vegane Bowl
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Vinaigrette
   - wenig Salz
 focusKeyword: Blumenkohl

@@ -17,7 +17,7 @@ labels:
   - Seitan Rezept
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Vleisch
 date: 2016-01-25T18:08:57.000Z
 status: publish

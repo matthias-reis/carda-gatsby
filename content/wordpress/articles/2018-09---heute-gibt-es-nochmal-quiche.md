@@ -22,7 +22,7 @@ labels:
   - vegan kochen
   - vegane Quiche
   - vegane Rezepte
-  - Vegane Rezepte
+
   - veganes Quiche Rezept
 focusKeyword: Quiche
 status: publish

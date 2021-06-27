@@ -33,7 +33,7 @@ labels:
   - Pudding vegan
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Veganer
   - veganer Pudding
 focusKeyword: Chiapudding

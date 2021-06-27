@@ -22,7 +22,7 @@ labels:
   - Sauerteig Grundrezept
   - Sauerteigbrot
   - vegane Rezepte
-  - Vegane Rezepte
+
 focusKeyword: Sauerteig
 status: publish
 isWerbung: false

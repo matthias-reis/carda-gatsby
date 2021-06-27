@@ -21,7 +21,7 @@ labels:
   - Smoothie selbst machen
   - Smoothie vegan
   - vegan
-  - Vegane Rezepte
+
   - veganer Smoothie
 focusKeyword: Smoothie
 status: publish

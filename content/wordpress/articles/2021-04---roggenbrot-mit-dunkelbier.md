@@ -24,7 +24,7 @@ labels:
   - Sauerteig
   - vegan backen
   - vegane Rezepte
-  - Vegane Rezepte
+
 focusKeyword: Roggenbrot mit Dunkelbier
 status: publish
 isWerbung: false

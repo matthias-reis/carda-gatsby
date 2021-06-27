@@ -21,7 +21,7 @@ labels:
   - vegan
   - vegane Gemüse-Quiche
   - vegane Rezepte
-  - Vegane Rezepte
+
 focusKeyword: Vegane Gemüse-Quiche
 status: publish
 isWerbung: false

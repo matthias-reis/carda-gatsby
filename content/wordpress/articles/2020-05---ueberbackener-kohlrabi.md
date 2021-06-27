@@ -21,7 +21,7 @@ labels:
   - Kohlrabi
   - Rezept
   - vegane Rezepte
-  - Vegane Rezepte
+
 focusKeyword: Kohlrabi
 status: publish
 isWerbung: false

@@ -22,7 +22,7 @@ labels:
   - Rezept
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
 focusKeyword: Butternut
 status: publish
 isWerbung: false

@@ -23,7 +23,7 @@ labels:
   - Rezept Frühstück
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Veganer
   - veganer Kaiserschmarrn
 focusKeyword: Veganer Kaiserschmarrn

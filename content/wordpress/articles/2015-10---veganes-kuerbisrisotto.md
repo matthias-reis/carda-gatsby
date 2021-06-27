@@ -32,7 +32,7 @@ labels:
   - Risotto vegan
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
 focusKeyword: Kürbisrisotto
 status: publish
 isWerbung: false

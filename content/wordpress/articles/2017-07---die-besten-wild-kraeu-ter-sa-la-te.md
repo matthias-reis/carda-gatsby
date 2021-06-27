@@ -57,7 +57,7 @@ labels:
   - Stachelbeeren
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
   - Walnüsse
   - Wildkräuter
   - Wildkräutersalat

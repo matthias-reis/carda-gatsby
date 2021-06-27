@@ -26,7 +26,7 @@ labels:
   - Salat
   - vegan
   - vegane Rezepte
-  - Vegane Rezepte
+
 focusKeyword: Glasnudelsalat
 status: publish
 isWerbung: false

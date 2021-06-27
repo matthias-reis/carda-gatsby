@@ -22,7 +22,7 @@ labels:
   - Rezept
   - Rezept Curry Ketchup
   - vegan
-  - Vegane Rezepte
+
 focusKeyword: Curry Ketchup
 status: publish
 isWerbung: false
