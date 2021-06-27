@@ -28,7 +28,6 @@ type: Artikel
 labels:
   - Bands
   - English & German
-  - Hamburg
   - Interview
   - Interviews
   - Post-Rock
