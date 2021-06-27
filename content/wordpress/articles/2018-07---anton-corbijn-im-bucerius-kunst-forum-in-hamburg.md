@@ -1,17 +1,27 @@
 ---
-date: 2018-07-25T14:06:17.000+00:00
-slug: anton-corbijn-im-bucerius-kunst-forum-in-hamburg
-path: '/2018/07/anton-corbijn-im-bucerius-kunst-forum-in-hamburg/'
-title: Anton Corbijn im Bucerius Kunst Forum in Hamburg
-seoTitle: Anton Corbijn zeigt seine Werke im Bucerius Kunst Forum Hamburg
 ogTitle: Anton Corbijn zeigt seine Werke im Bucerius Kunst Forum Hamburg
-description: 'Heute möchte ich Euch eines meiner größten Vorbilder vorstellen: Den Fotografen Anton Corbijn. Seine Bilder sind gerade im Bucerius Kunst Forum ausgestellt.'
-excerpt: 'Heute möchte ich Euch eines meiner größten Vorbilder vorstellen: Den Fotografen Anton Corbijn. Seine Bilder sind gerade im Bucerius Kunst Forum ausgestellt.'
-fileName: 2018-07---anton-corbijn-im-bucerius-kunst-forum-in-hamburg.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Anne-Reis-angeschnitten-1-von-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Anne-Reis-angeschnitten-1-von-1__l.jpg
+excerpt: "Heute möchte ich Euch eines meiner größten Vorbilder vorstellen: Den
+  Fotografen Anton Corbijn. Seine Bilder sind gerade im Bucerius Kunst Forum
+  ausgestellt."
+ogImage: null
+isAffiliate: false
+path: /2018/07/anton-corbijn-im-bucerius-kunst-forum-in-hamburg/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcCBAUGCP/EAC0QAAEDAgUDAgUFAAAAAAAAAAECAwQFEQAGEiExBxNBMlEUFSIzQmFxgZHC/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AF/kSiNZyziimSZ0qBAZbcfcdZOjS2i316uN7+dsNrp/BpkDqJSaNBqDlTZTrnR5DyLL7S47wKVGwuL6SD7Kwvulb0zLGYZk9KQ5HixltEJcG6VqvpSvey7p4O2384YDGY2WesVKqM56S4yiOYzaVqC1tDtLKuNjYk+ffAYnrmzF+a5gjhBafLiVIdacVpKktot3BawIBUbg8W2ONe6mZQp9BylCn0punQ5MENhEiK4suvawSNZKbElBv+ijYbYbNQo0DO9bzKJlWJp6pTTTbLSUlztobQtQBPpBUrkAnnFrNuVqFUqI7AeMllhQa0oQ99vt206QbjwL++A5qnZkNNgIYisw0G4Kgj1OCwulRHNxcG/JVx7QoeaWmZVLmvNvufCLcQtCSFL0lBSnc2BIvY/tgwYBt5N6w0SmF5p6i1N8ODUCiMypYV5/K9iLf1i7Wet9JcbW2zlytJv5VFaH+8GDAf/Z
-ogImage:
+isWerbung: false
+fileName: 2018-07---anton-corbijn-im-bucerius-kunst-forum-in-hamburg.md
+slug: anton-corbijn-im-bucerius-kunst-forum-in-hamburg
+errors: {}
+date: 2018-07-25T14:06:17.000+00:00
+focusKeyword: Anton Corbijn
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Anne-Reis-angeschnitten-1-von-1__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Anne-Reis-angeschnitten-1-von-1__m.jpg
+title: Anton Corbijn im Bucerius Kunst Forum in Hamburg
+subTitle: The Living And The Dead
+seoTitle: Anton Corbijn zeigt seine Werke im Bucerius Kunst Forum Hamburg
+description: "Heute möchte ich Euch eines meiner größten Vorbilder vorstellen:
+  Den Fotografen Anton Corbijn. Seine Bilder sind gerade im Bucerius Kunst Forum
+  ausgestellt."
 labels:
   - 33 STILL LIVES
   - A Most Wanted Man
@@ -22,8 +32,6 @@ labels:
   - David Bowie
   - FAMOUZ
   - Fotografie
-  - Hamburg
-  - Hamburg
   - Hasselblatt
   - Heart Shaped Box
   - Henry Rollins
@@ -43,13 +51,7 @@ labels:
   - Trent Reznor
   - U2
   - Kunst
-focusKeyword: Anton Corbijn
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: The Living And The Dead
 ---
 
 **Ich fotografiere ausgesprochen gerne. Was sich auch in meinem Blog wiederspiegelt. Mein größtes Vorbild und mein liebster Fotograf ist und bleibt Anton Corbijn. Jetzt hatte ich die Gelegenheit, seine Werke ganz aus der Nähe zu betrachten.**
