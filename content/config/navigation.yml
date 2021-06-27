@@ -12,7 +12,7 @@ mainNavigation:
       - { url: /tag/tierrechte, label: Tierrechte }
       - { url: /tag/klima-und-umweltschutz, label: Klima- & Umweltschutz }
       - { url: /tag/ernaehrung-und-gesundheit, label: Ernährung & Gesundheit }
-      - { url: /tag/rezepte, label: Vegane Rezepte }
+      - { url: /tag/vegane-rezepte, label: Vegane Rezepte }
       - { url: /tag/vegane-lokale, label: Vegane Lokale }
       - { url: /tag/vegan-celebrities, label: Vegan Celebrities }
   - label: Lifestyle
