@@ -1,19 +1,29 @@
 ---
-date: 2021-01-29T13:39:00.000Z
-slug: perry-frank-landforms
-path: /2021/01/perry-frank-landforms/
-type: Artikel
-typeName: Review
-title: '"Landforms"'
-seoTitle: '"Landforms" – Die neue Single von Perry Frank ist da'
 ogTitle: '"Landforms" – Die neue Single von Perry Frank'
-description: Perry Frank hat eine neue Single veröffentlicht! "Landforms" ist ab sofort auf allen Download-Plattformen verfügbar.
-excerpt: English & German – Perry Frank hat eine neue Single veröffentlicht! "Landforms" ist ab sofort auf allen Download-Plattformen verfügbar.
-fileName: 2021-01---landforms.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_landforms-perry-frank-2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_landforms-perry-frank-2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAYEAQIDBQf/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiEGMUETIlEHFGEjMkJSgf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEF/8QAHxEBAQACAgEFAAAAAAAAAAAAAQIAEQMSISJBUWGR/9oADAMBAAIRAxEAPwBOsC0AugSvpDGJcSekhOQO4H4Hg55xroNgr6yOjkulKk0NLaqn3wGfIkWXCMi/JAy3+dtQrFb/ALRKG73OpSKtNOIydo5UYPOfPzqvWNwqKEJdqBJ5bWzzo4hjRlEkscaktuVgAcN/HzjPOstmeRGnY4cBWTLzNRXy60ltoWuDhHMbz1BSISNyNshVQrcYAz3HbWmsXScVPXXMPE6iGeITRRsGYe1xlSc8nAGMcal/TLp+ZOj3kNRHVW+vq2jkopCBJSwAEbuezdm9v4xqy9XBRfmtEF5r5X2laqaKn9NZ6rC7SvfYhXBJ+Cx0o4KiqIrZ9/uTpvzjV0a81ymImp4p7Qv6Sz1G2N5nAALFPH7QSfOsHX9dZorVcKSjixUxOPW+xieRWlIIjRmGBgk5+cA40aNHEjJhjqB+cVelYEjsouECTVdbFKgiapCU8aS5A37/AOoz2DZPOmjryS3WKO1KZN7yTGP0wRJ6jt4ZhwAc85ydGjVcR3UfZxUeqXP/2Q==
+excerpt: Perry Frank hat eine neue Single veröffentlicht! "Landforms" ist ab
+  sofort auf allen Download-Plattformen verfügbar.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_perry-frank-landforms-fb.png__l.jpg
+isAffiliate: false
+path: /2021/01/perry-frank-landforms/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAYEAQIDBQf/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiEGMUETIlEHFGEjMkJSgf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEF/8QAHxEBAQACAgEFAAAAAAAAAAAAAQIAEQMSISJBUWGR/9oADAMBAAIRAxEAPwBOsC0AugSvpDGJcSekhOQO4H4Hg55xroNgr6yOjkulKk0NLaqn3wGfIkWXCMi/JAy3+dtQrFb/ALRKG73OpSKtNOIydo5UYPOfPzqvWNwqKEJdqBJ5bWzzo4hjRlEkscaktuVgAcN/HzjPOstmeRGnY4cBWTLzNRXy60ltoWuDhHMbz1BSISNyNshVQrcYAz3HbWmsXScVPXXMPE6iGeITRRsGYe1xlSc8nAGMcal/TLp+ZOj3kNRHVW+vq2jkopCBJSwAEbuezdm9v4xqy9XBRfmtEF5r5X2laqaKn9NZ6rC7SvfYhXBJ+Cx0o4KiqIrZ9/uTpvzjV0a81ymImp4p7Qv6Sz1G2N5nAALFPH7QSfOsHX9dZorVcKSjixUxOPW+xieRWlIIjRmGBgk5+cA40aNHEjJhjqB+cVelYEjsouECTVdbFKgiapCU8aS5A37/AOoz2DZPOmjryS3WKO1KZN7yTGP0wRJ6jt4ZhwAc85ydGjVcR3UfZxUeqXP/2Q==
+typeName: Review
+isWerbung: false
+fileName: 2021-01---landforms.md
+slug: perry-frank-landforms
+errors: {}
+date: 2021-01-29T13:39:00.000Z
+focusKeyword: Perry Frank
+languageLink: /2021/01/perry-frank-landforms-en
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_landforms-perry-frank-2__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_landforms-perry-frank-2__m.jpg
+title: '"Landforms"'
+subTitle: Die neue Single von Perry Frank
+seoTitle: '"Landforms" – Die neue Single von Perry Frank ist da'
+description: Perry Frank hat eine neue Single veröffentlicht! "Landforms" ist ab
+  sofort auf allen Download-Plattformen verfügbar.
+language: de
+type: Artikel
 labels:
   - Ambient
   - Bands
@@ -22,17 +32,7 @@ labels:
   - Perry Frank
   - Review
   - Valley View Records
-focusKeyword: Perry Frank
-status: publish
-isWerbung: false
-isAffiliate: false
-language: de
-errors: {}
-subTitle: Die neue Single von Perry Frank
 ---
-
-[🇬🇧 Click here for English version](#⋆)
-
 **Perry Frank hat eine neue Single veröffentlicht! "Landforms" ist ab sofort auf allen Download-Plattformen verfügbar. Hier kommt meine Empfehlung.**
 
 Ich habe Euch Perry Frank aka Francesco Perra ja vor Kurzem hier mit [meinem Interview](/2020/11/perry-frank-interview/) vorgestellt. Im Moment arbeitet er seinem neuen Album, dass voraussichtlich im Oktober erscheinen soll. Außerdem hat er im Januar auf Valley View records seine neue Single "Landforms" releast.
@@ -62,35 +62,5 @@ Neben Perry Frank hat Francesco noch ein weiteres erfolgreiches Musikprojekt. Er
 Ich bin schon sehr gespannt, auf alles, was Francesco musikalisch für 2021 angekündigt hat und werde auf jeden Fall dran bleiben. Für ihn scheint es auf jeden Fall ein hochkreatives Jahr zu werden.
 
 Bilder: Perry Frank
-
-<YouTube id="8WetGwZM3zU" />
-
----
-
-<div id="⋆">[⋆] _English version_ </div>
-
-## "Landforms" – New Single by Perry Frank
-
-**Perry Frank has released a new single! "Landforms" is available now on all download platforms. Here comes my recommendation.**
-
-I recently introduced Perry Frank aka Francesco Perra to you with [my interview](/2020/11/perry-frank-interview/). Currently, he is working on his new album, which he expects to release in October. He has also just put out his new single "Landforms" on Valley View Records.
-
-## "Landforms" on the turntable
-
-With the first notes of "Landforms", I am starting to dream myself into the landscape on the single artwork.
-
-With his enchanted atmospheric sounds, Francesco carries me away – far away into another time. The sun warms the asphalt. I can sense the smell of the cypresses in the air. From the bright daylight, I descend into the coolness of a gloomy cave. A drop falls and forms into something new.
-
-"Landforms" is an extraordinary piece of ambient for me. With his music, Francesco manages to bring the images to your head that we can all use so well at the moment: images of hope and happiness. Everything will get better. We just have to wait a little bit more.
-
-As long as it's grey outside and we can't hug each other or meet at concerts, Francesco's music immerses us in this beautiful open world that many of us are missing right now.
-
-## PCM and Perry Frank
-
-Besides Perry Frank, Francesco has another successful music project. He (P), Matteo Cantaluppi (C) and Matteo Milea (M) are together the ambient trio PCM. The three have announced a new record for May after "Attraverso" in October.
-
-I'm already very excited about everything Francesco has announced musically for 2021 and will stay tuned. It seems to become a highly creative year for him.
-
-Pictures: Perry Frank
 
 <YouTube id="8WetGwZM3zU" />
