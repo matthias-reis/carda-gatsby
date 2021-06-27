@@ -1,6 +1,6 @@
 ---
 date: 2021-03-15T15:18:00.000Z
-slug: rise-to-the-sky-let-me-drown-with-you
+slug: rise-to-the-sky-let-me-drown-with-you-en
 typeName: Review
 title: '"Let Me Drown With You"'
 subTitle: Rise To The Sky
