@@ -146,7 +146,8 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
   // first filter static pages
   const articles = edges
     .map((edge) => edge.node)
-    .filter((node) => node.fields.type !== 'article')
+    .filter((node) => node.fields.type !== 'page')
+    .filter((node) => node.frontmatter.language !== 'en')
     // the first 23 articles are displayed already
     // 3 above the fold, 20 below the fold
     // the rest will be loaded in chunks of 50
