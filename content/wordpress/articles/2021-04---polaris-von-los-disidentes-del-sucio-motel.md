@@ -1,19 +1,31 @@
 ---
-date: 2021-04-12T11:57:19.000Z
-slug: los-disidentes-del-sucio-motel-polaris-review
-path: /2021/04/los-disidentes-del-sucio-motel-polaris-review/
-type: Artikel
-typeName: Review
-title: '"Polaris" von Los Disidentes Del Sucio Motel'
-seoTitle: Los Disidentes Del Sucio Motel – "Polaris" – Musiktipp
 ogTitle: Los Disidentes Del Sucio Motel – "Polaris" – Musiktipp
-description: Los Disidentes Del Sucio Motel haben ihr viertes Album "Polaris" fertig. Es ist seit dem zweiten April verfügbar.
-excerpt: English & German – Los Disidentes Del Sucio Motel haben ihr viertes Album "Polaris" fertig. Am zweiten April war es endlich so weit. Das lange herbeigesehnte Werk erblickte auf Klonosphere Records/Ripple das Licht der Musikwelt. Von mir gibt es eine klare Empfehlung.
-fileName: 2021-04---polaris-von-los-disidentes-del-sucio-motel.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_Los-Disidentes-Del-Sucio-Motel-Polaris__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_Los-Disidentes-Del-Sucio-Motel-Polaris__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQf/xAAnEAACAgIBAwMFAQEAAAAAAAABAgMEBREAEiExBhNBIlFSYXEUMv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4TXpQy4S7cawyWIJI1WLp+llbse+ux+38PFw427PNWhgrySzWF64kQbZx47DjMjSmxd805JonMkcTdcTEoySKrr5APyDrXxzaydaxj/VVjHSZrrGHZkrTlCwcKN/Qqk68+N9u/gjhGVj8FbvYnL5CMxJDjAvvLIxDsSddKjXcjRJ3ri4cVPLg7WVEkAr15kgZGkAdmYb7L8j98rguWHhu1ZKXvWswY3CsjltsdoYwG0SersSG/XHNcwgxaQtWycVsK/+iuroIHmUkRt+Q0GII0f+R34EZaHIVKbz3Yatmt0VmMqsS8fV9DjQO+gEgjzoDW+T2Jqr5qxNL71qo1h3On6HlUtvuT46h5Pnvw4cKryXqG7e9QpmuivXswPE1eKCPpigWLXtoo/FQoH3Pc/PD1ffo5X1Nksji4GrVbkxsCAqFETMNso0T26urX94cOB//9k=
+excerpt: Los Disidentes Del Sucio Motel haben ihr viertes Album "Polaris"
+  fertig. Am zweiten April war es endlich so weit. Das lange herbeigesehnte Werk
+  erblickte auf Klonosphere Records/Ripple das Licht der Musikwelt. Von mir gibt
+  es eine klare Empfehlung.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_Los-Disidentes-Del-Sucio-Motel-Polaris-FB.png__l.jpg
+isAffiliate: false
+path: /2021/04/los-disidentes-del-sucio-motel-polaris-review/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQf/xAAnEAACAgIBAwMFAQEAAAAAAAABAgMEBREAEiExBhNBIlFSYXEUMv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4TXpQy4S7cawyWIJI1WLp+llbse+ux+38PFw427PNWhgrySzWF64kQbZx47DjMjSmxd805JonMkcTdcTEoySKrr5APyDrXxzaydaxj/VVjHSZrrGHZkrTlCwcKN/Qqk68+N9u/gjhGVj8FbvYnL5CMxJDjAvvLIxDsSddKjXcjRJ3ri4cVPLg7WVEkAr15kgZGkAdmYb7L8j98rguWHhu1ZKXvWswY3CsjltsdoYwG0SersSG/XHNcwgxaQtWycVsK/+iuroIHmUkRt+Q0GII0f+R34EZaHIVKbz3Yatmt0VmMqsS8fV9DjQO+gEgjzoDW+T2Jqr5qxNL71qo1h3On6HlUtvuT46h5Pnvw4cKryXqG7e9QpmuivXswPE1eKCPpigWLXtoo/FQoH3Pc/PD1ffo5X1Nksji4GrVbkxsCAqFETMNso0T26urX94cOB//9k=
+typeName: Review
+isWerbung: false
+fileName: 2021-04---polaris-von-los-disidentes-del-sucio-motel.md
+slug: los-disidentes-del-sucio-motel-polaris-review
+errors: {}
+date: 2021-04-12T11:57:19.000Z
+focusKeyword: Los Disidentes Del Sucio Motel
+languageLink: /2021/04/los-disidentes-del-sucio-motel-polaris-review-en
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_Los-Disidentes-Del-Sucio-Motel-Polaris__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_Los-Disidentes-Del-Sucio-Motel-Polaris__m.jpg
+title: '"Polaris" von Los Disidentes Del Sucio Motel'
+subTitle: Aufbruch in ein neues Zeitalter
+seoTitle: Los Disidentes Del Sucio Motel – "Polaris" – Musiktipp
+description: Los Disidentes Del Sucio Motel haben ihr viertes Album "Polaris"
+  fertig. Es ist seit dem zweiten April verfügbar.
+language: de
+type: Artikel
 labels:
   - Bands
   - English & German
@@ -21,17 +33,7 @@ labels:
   - Los Disidentes Del Sucio Motel
   - Prog
   - Review
-focusKeyword: Los Disidentes Del Sucio Motel
-status: publish
-isWerbung: false
-isAffiliate: false
-language: de
-errors: {}
-subTitle: Aufbruch in ein neues Zeitalter
 ---
-
-[🇬🇧 Click here for English version](#⋆)
-
 **Vor ein paar Tagen ist die neue Platte von Los Disidentes Del Sucio Motel erschienen. "Polaris" ist das vierte Album der Französischen Prog Band.**
 
 Am zweiten April war es endlich so weit. Das lange herbeigesehnte Werk erblickte auf Klonosphere Records/Ripple das Licht der Musikwelt. Von mir gibt es eine klare Empfehlung. Im Moment dreht die Platte gerade zum zweiten Mal wieder ihre Runden und mit jedem Ton wird mir bewusster, wie perfekt sie ist.
@@ -64,46 +66,5 @@ Mein Highlight ist das dritte Stück "Blue Giant". Ich mag die Verspieltheit und
 "Polaris" ist das bisher dynamischste Album der Gruppe aus Frankreich. Rémi Gettliffe hat die neuen Stücke in den White Bat Recorders Studios aufgenommen. Sie vollenden laut eigener Aussage die Vision, die die Band seit 15 Jahren verfolgt.
 
 Für mich eine neue Schönheit im Plattenregal, die Fans von Mastodon und Baroness gut gefallen sollte. Volle Punktzahl auf der Genuss-Skala.
-
-<YouTube id="40NZHZbu0dQ" />
-
----
-
-<div id="⋆">[⋆] _English version_ </div>
-
-## "Polaris" by Los Disidentes Del Sucio Motel
-
-**Los Disidentes Del Sucio Motel released their fourth album some days ago. "Polaris" is the fourth album by the French prog band.**
-
-<RemoteImage
-  alt={`Los Disidentes Del Sucio Motel`}
-  size="medium"
-  title={`Los Disidentes Del Sucio Motel`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_04_Los-Disidentes-Del-Sucio-Motel-Polaris-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_04_Los-Disidentes-Del-Sucio-Motel-Polaris-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQCAwUGB//EACUQAAMAAQMDBAMBAAAAAAAAAAECAxEABCESMUEFE1FxFBUigf/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAAP/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAIR/9oADAMBAAIRAxEAPwDwd651Gs7SjGtJUSVgxm7KQHAOD0nzg8aZ9S3F97bae6ZtRdvGCBXU/wAgYXt2PyDyNW2nuxu02tYrSno4oaTavUvTOnU45JXGTjjg510drAwFnTWlRQynSgmho5VSelR3Y/A5HOqmfOunjt6w327vC23/AFnqsrze03VFRMq7jpJByjFVx5IwudYHtThCiXkr2rNWRg/EjkHxwSRwR4zo97JyErn/AD6403ut4dwKO3uflWZjepcYoDg46QPkAk+To0avLDLqBjsM/WpeMaNGrG//2Q=="
-/>
-
-April 2nd was a big day for LDDSM when their long-awaited new record came to life on Klonosphere Records/Ripple. I highly recommend "Polaris" to you. As I am writing this, I'm listening to the record for the second time. With every note that comes to my ears, I am even more convinced about its perfection.
-
-It's been five years since the release of "Human Collapse". Now that it seems that we are more than ever near to a pretty similar state, the new album is finally ready. Which is more than good because LDDSM are managing to distract their listeners from the confusing worldwide situation with their music.
-
-## "A new coloured filter"
-
-The total of ten songs is putting a colourful filter over these grey times and is clearing away the old dust. With mighty riffs and melodic variety, the band is making a big step. Entering a new era – probably even heralding it themselves.
-
-"Polaris" sounds completely different from the previous LDDSM records. It seems the band finally has entered the post-age. They are leaving their stoner realms and break into progressive textures, psychedelic sound and multi-layered arrangements.
-
-## Infinite expanses
-
-The opener "Blood-Planet Child" immediately pulls me into a fast ride that I don't want to leave until the last note of the record.
-
-My highlight is the third track, "Blue Giant". I really like its playfulness and, at the same time, sonic expansiveness and thoughtfulness. Lush walls of guitars cushion the full vocals nicely and carry the piece along. Overall, much of the record revolves around celestial bodies and the phenomena of space – LDDSM have wonderfully translated its endless expanses into music.
-
-## Los Disidentes Del Sucio Motel are fulfilling their vision
-
-"Polaris" is the most dynamic album yet from the group from France. Rémi Gettliffe recorded the new tracks at White Bat Recorders Studios. By their own admission, they complete the vision the band has been pursuing for 15 years.
-
-For me, this is a new beauty on my record shelf – A full score on the excitement scale. If you are a fan of Mastodon and Baroness, you will probably like it.
 
 <YouTube id="40NZHZbu0dQ" />
