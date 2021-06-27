@@ -1,36 +1,38 @@
 ---
-date: 2021-02-12T05:00:38.000Z
-slug: god-is-an-astronaut-ghost-tapes-10-review
-path: /2021/02/god-is-an-astronaut-ghost-tapes-10-review/
-type: Artikel
-typeName: Review
-title: 'God Is An Astronaut – "Ghost Tapes #10"'
-seoTitle: 'God Is An Astronaut – "Ghost Tapes #10" – Review'
 ogTitle: 'God Is An Astronaut – "Ghost Tapes #10" – Review'
-description: 'Es ist so weit: Heute veröffentlichen God Is An Astronaut ihr zehntes Album "Ghost Tapes #10". Ich habe die Platte gehört und spannende Details entdeckt.'
-excerpt: 'English & German – Es ist so weit: Heute veröffentlichen God Is An Astronaut ihr zehntes Album "Ghost Tapes #10". Ich habe die Platte gehört und spannende Details entdeckt.'
-fileName: 2021-02---god-is-an-astronaut-ghost-tapes-10.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_god-is-an-astronaut-ghost-tapes-10__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_god-is-an-astronaut-ghost-tapes-10__l.jpg
+excerpt: 'Es ist so weit: Heute veröffentlichen God Is An Astronaut ihr zehntes
+  Album "Ghost Tapes #10". Ich habe die Platte gehört und spannende Details
+  entdeckt.'
+ogImage: /img/god-is-an-astronaut-ghost-tapes-fb.png
+isAffiliate: false
+path: /2021/02/god-is-an-astronaut-ghost-tapes-10-review/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAArEAABAwMCBAUFAQAAAAAAAAABAgMEAAYRBSEIEjFBMlFhhMMHExQjM1T/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQEBAQEAAAAAAAAAAAAAAAABACEx/9oADAMBAAIRAxEAPwBj4YA4W7sDKyhwiJhQAOP7ee1Um5rk1bQIDklelz5SWzkqbUyQRueg33GO3ap3wseO6dv8nzVRrks6HKfanae5+KG3fvPtoUotuhOTsnOAc5Hluaw9qXPsy8NUuqE1Kj6bqcVlxBWlx8xwhQHcbc2OnakXifDgatEPKKnMS+YnHX9PkMUz/SSwGY+gQ9Q1yQrUlPoRJjMuKWW2EqAUE8pOCRt6elLnFP1tX3fw1TsY4WPFdXtPmq3yg85zsFlC2XElKlBXLsQcjrmiiouws9PZXHix4iI6Y8ZlAaQOfPKlIASOvpiopxUHKrV938NFFB2N/9k=
-ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_God-Is-An-Astronaut-%E2%80%93-Ghost-Tapes-10-FB.png__l.jpg
+typeName: Review
+isWerbung: false
+fileName: 2021-02---god-is-an-astronaut-ghost-tapes-10.md
+slug: god-is-an-astronaut-ghost-tapes-10-review
+errors: {}
+date: 2021-02-12T05:00:38.000Z
+focusKeyword: God Is An Astronaut
+languageLink: /2021/02/god-is-an-astronaut-ghost-tapes-10-review-en
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_god-is-an-astronaut-ghost-tapes-10__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_god-is-an-astronaut-ghost-tapes-10__m.jpg
+title: 'God Is An Astronaut – "Ghost Tapes #10"'
+subTitle: Düsterer durchdachter Post-Rock
+seoTitle: 'God Is An Astronaut – "Ghost Tapes #10" – Review'
+description: 'Es ist so weit: Heute veröffentlichen God Is An Astronaut ihr
+  zehntes Album "Ghost Tapes #10". Ich habe die Platte gehört und spannende
+  Details entdeckt.'
+language: de
+type: Artikel
 labels:
   - Bands
-  - 'Ghost Tapes #10'
+  - "Ghost Tapes #10"
   - God Is An Astronaut
   - Jo Quail
   - Post-Rock
-focusKeyword: God Is An Astronaut
-status: publish
-isWerbung: false
-isAffiliate: false
-language: de
-errors: {}
-subTitle: Düsterer durchdachter Post-Rock
 ---
-
-[🇬🇧 Click here for English version](#⋆)
-
 **Es ist so weit: Heute veröffentlichen God Is An Astronaut ihr zehntes Album "Ghost Tapes #10". Ich habe die Platte gehört und dabei einige interessante Details entdeckt.**
 
 Diesen Moment habe ich sehnsüchtig erwartet. Heute steht sie endlich in den Plattenläden: die neue Scheibe von God Is An Astronaut.
@@ -58,47 +60,5 @@ Alles in allem ist die Platte eine sehr runde Sache. Sie wird mich sicher lange 
 Für einen gelungenen Abschluss sorgt ein Gastauftritt meiner heiß geliebten Lieblings-Cellisten Jo Quail. Im Song "Luminous Waves" sorgt sie nochmal für Gänsehautstimmung.
 
 Benannt ist die Platte übrigens nach dem während des Vietnam-Krieges aufgenommenen "Ghost Tape 10". Ingenieure des 6th Psychological Operations Battalion (PSYOP) hatten wochenlang in einem Nachhallraum unheimliche Laute und verzerrte Stimmen aufgenommen. Sie sollten die Stimmen de Geister gefallener Vietkong-Solddaten und Soldaten aus Nordvietnam darstellen. Man hörte auf den Bändern neben Geräuschen und stark verzerrten Gesprächen unter anderem auch buddhistische Bestattungsmusik. Mit dem Band wollte man damals den Feind zum Verlassen seiner Stellungen bringen.
-
-<YouTube id="_Jbc-e3I5eQ" />
-
----
-
-<div id="⋆">[⋆] _English version_ </div>
-
-## God Is An Astronaut - "Ghost Tapes #10"
-
-## Dark and thoughtful Post-Rock
-
-**Today is a good day: God Is An Astronaut released their tenth album "Ghost Tapes #10". How have we been longing for this moment? Today it is finally here and the new GIAA record is in the record shops and on the streaming platforms.**
-
-The newest piece by the Irish post-rock band tends to be raw and wild. Whether it really is the "most aggressive album" in the band's almost 20-year history, as the band announced in advance, everyone can decide for themselves.
-
-## "Ghost Tapes #10" is harder than its predecessor.
-
-<RemoteImage
-  alt={`God Is An Astronaut – Ghost Tapes #10`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_god-is-an-astronaut-ghost-tapes-10__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_god-is-an-astronaut-ghost-tapes-10__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAArEAABAwMCBAUFAQAAAAAAAAABAgMEAAYRBSEIEjFBMlFhhMMHExQjM1T/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQEBAQEAAAAAAAAAAAAAAAABACEx/9oADAMBAAIRAxEAPwBj4YA4W7sDKyhwiJhQAOP7ee1Um5rk1bQIDklelz5SWzkqbUyQRueg33GO3ap3wseO6dv8nzVRrks6HKfanae5+KG3fvPtoUotuhOTsnOAc5Hluaw9qXPsy8NUuqE1Kj6bqcVlxBWlx8xwhQHcbc2OnakXifDgatEPKKnMS+YnHX9PkMUz/SSwGY+gQ9Q1yQrUlPoRJjMuKWW2EqAUE8pOCRt6elLnFP1tX3fw1TsY4WPFdXtPmq3yg85zsFlC2XElKlBXLsQcjrmiiouws9PZXHix4iI6Y8ZlAaQOfPKlIASOvpiopxUHKrV938NFFB2N/9k="
-/>
-
-After 2018's almost fragile "Epitaph", "Ghost Tapes #10" comes off heavier from the start. The slightly creepy, blissful shiver that you hopes for when listening to GIAA records is nevertheless not absent. Even if a small light leads out of the gloom: The album seems somehow a bit more metal than its predecessors.
-
-In some tracks, even completely new tones are struck. "Adrift", for example, sounds almost hopeful in parts. "In Flux" is pleasantly rocking - without slipping into a strange track.
-
-Will "Epitaph" and "All Is Violent, All Is Bright" remain my favourites? I suspect so. However, I have to admit that God Is An Astronaut's new work takes me away quite a bit. I think it's one of those albums on which discover new subtleties with every listen. The skilful play with highs and lows, darkness and light, lightness and heaviness completely captivates me.
-
-## Post-rock how it should be
-
-For me, the record has everything that great post-rock needs: sound baths and drone flights, multifaceted melodies, unusual rhythms and surging waves. On top of that, on "Ghost Tapes #10" there are even quite skilful two-foot technique drum interludes - so friends of hardcore punk and metal also get what they need ("Spectres").
-
-Like all of us, the age of pandemics, climate change and political confusion has undoubtedly left its mark on GOIAA. When you're listening to "Ghost Tapes #10", you can well imagine that the impressions of the last months and years have flowed into the compositions. The breathy ambient moments have become less, but that's not bad.
-
-All in all, the record for me is very well composed. It will certainly accompany me for a long time and end up on my record player again and again. All in all, I recommend you listening to "Ghost Tapes #10" in one piece.  The thoughtful, well-considered overall impression will maybe get a bit lost otherwise. Even "Burial", the song I presented in the music list for February, only unfolds its full effect in the context of the LP - embedded between the meaningful opener "Adrift" and the also already mentioned, "In Flux".
-
-A guest appearance by my beloved favourite cellist Jo Quail provides a successful conclusion. In the song "Luminous Waves" she once again creates an atmosphere that is giving me goosebumps.
-
-GOIAA named their album after the "Ghost Tape 10" which was recorded during the Vietnam War. Engineers of the 6th Psychological Operations Battalion (PSYOP) had recorded eerie sounds and distorted voices in a reverberation room for weeks. They were supposed to be the voices of the ghosts of fallen Viet Cong soldiers and soldiers from North Vietnam. In addition to noises and highly distorted conversations, there was also Buddhist funeral music on the tapes. The USA military then played the recordings to make their enemies give up their positions.
 
 <YouTube id="_Jbc-e3I5eQ" />
