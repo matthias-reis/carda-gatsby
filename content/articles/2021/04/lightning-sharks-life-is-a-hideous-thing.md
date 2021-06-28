@@ -22,6 +22,9 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/04/lightning-sharks-life-is-a-hideous-thing
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QALhAAAQQBAwMCAgsAAAAAAAAAAQIDBBEFAAYxEhMhIlFBYQcUIyUycYGhscHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMf27lc2X/rECTkFQWnacabldRCeQKJ/fTSxuLeUVqTNyED7sZNrDrALoSeAKIJ+auNJm3MomBi5DMVIU+4oLcWQPsk0ASkX6vf+tMY3dDw7LkVxl7IokxlB5XdADyzws3x+nwrxoLS/pGiye2qRjJcaWy30sqjOJUQo2FEpIHiieTeoZXLRNwyMYIUNcda5KUuMdvpCh7XZu/N6SozT785l94oeVJQp5RYWFFs0T6uenwk2K8aa35DOGxj2UVcLJymEpjMGrYQrx1pQD+MgG74BGgzkIcNEpqiQOoULHIs/L+dOStpvyQrtP1MMRh94uU0y2FA+nq4PgAe93o0aChtltGKky8vKfQW4Sy20hpwHvLIIr8vj/muNlMjNmS3pM8IU8/ypSBYF+ADzQ0aNB//Z
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks-1__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks-1__m.jpg
 ---
 
 **Do you remember my interview with Lightning Sharks? You know, these noise core guys who would love to scream in Bolsonaro's face. Now the Bristol band has finished their debut EP. I have listened to it. Here is my recommendation for you.**
