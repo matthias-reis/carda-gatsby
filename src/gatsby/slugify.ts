@@ -21,6 +21,6 @@ export const getPath = (label: string) => {
     // it's a date like 2019/04
     return `/${label}`;
   } else {
-    return `/tag/${slugify(label)}`;
+    return `/tag/${label}`;
   }
 };

@@ -68,7 +68,11 @@ export const query = graphql`
     mdx(id: { eq: $id }) {
       body
       fields {
-        labels
+        labels {
+          slug
+          title
+          type
+        }
         path
       }
       frontmatter {

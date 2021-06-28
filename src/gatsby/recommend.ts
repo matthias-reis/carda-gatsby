@@ -6,7 +6,7 @@ export const recommend = (article: Article, labels: Labels) => {
   } = {};
   const articleLang = article.frontmatter?.language || 'de';
   for (const label of article.fields.labels || []) {
-    const articlesWithSameLabel = (labels[label] || []).filter((a) => {
+    const articlesWithSameLabel = (labels[label.slug] || []).filter((a) => {
       const otherLang = a.frontmatter?.language || 'de';
 
       return (

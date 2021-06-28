@@ -12,7 +12,7 @@ const Section = styled.nav`
 `;
 
 export const ArticleLabels: React.FC<{
-  labels: string[];
+  labels: { title: string; slug: string; type: string }[];
 }> = ({ labels }) => {
   if (labels) {
     return (

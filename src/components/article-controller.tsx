@@ -80,7 +80,11 @@ export const query = graphql`
       body
       fileAbsolutePath
       fields {
-        labels
+        labels {
+          slug
+          title
+          type
+        }
         path
       }
       frontmatter {

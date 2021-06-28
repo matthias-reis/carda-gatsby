@@ -78,7 +78,7 @@ export const query = graphql`
       sort: { fields: frontmatter___date, order: DESC }
       filter: {
         frontmatter: { language: { ne: "en" } }
-        fields: { labels: { eq: $label } }
+        fields: { labels: { elemMatch: { slug: { eq: $label } } } }
       }
     ) {
       edges {

@@ -5,7 +5,7 @@ export type ArticleImage = {
 };
 
 export type Fields = {
-  labels: string[];
+  labels: { title: string; slug: string; type: string }[];
   path: string;
   type: 'page' | 'article' | 'wordpress';
   recommendations: Recommendation[];

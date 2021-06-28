@@ -28,9 +28,8 @@ export const onCreateNode = async ({
     );
 
     const parentCategories = Object.fromEntries(
-      Object.values(indexedCategories).map(({ parentId, title }) => {
-        const parentTitle = indexedCategories[parentId || '']?.title;
-        return [title, parentTitle];
+      Object.values(indexedCategories).map(({ parentId, slug }) => {
+        return [slug, indexedCategories[parentId || '']];
       })
     );
 
@@ -59,16 +58,42 @@ export const onCreateNode = async ({
     let path = '';
     if (type === 'article' || type === 'wordpress') {
       path = node?.frontmatter?.path || `/${year}/${month}/${slug}/`;
-      const labels = new Set([
-        ...(node?.frontmatter?.labels || []),
-        `${year}`,
-        `${year}/${month}`,
-      ]);
-      (node?.frontmatter?.labels || []).forEach((l) => {
-        if (parentCategories[l]) {
-          labels.add(parentCategories[l]);
+      const labels: Record<string, Label> = {};
+      (node?.frontmatter?.labels || []).forEach((label) => {
+        const slug = slugify(label);
+        let [type, name] = label.split(':');
+        if (!name) {
+          name = type;
+          type = 'tag';
+        }
+        if (indexedCategories[slug]) {
+          type = 'category';
+        }
+        const title = indexedCategories[slug]?.title || name.trim();
+        labels[slug] = {
+          title,
+          slug,
+          type,
+        };
+        if (parentCategories[slug]) {
+          const parent = parentCategories[slug];
+          labels[parent.slug] = {
+            title: parent.title,
+            slug: parent.slug,
+            type: 'category',
+          };
         }
       });
+      labels[`${year}`] = {
+        title: `${year}`,
+        slug: `${year}`,
+        type: 'archive',
+      };
+      labels[`${year}/${month}`] = {
+        title: `${year}/${month}`,
+        slug: `${year}/${month}`,
+        type: 'archive',
+      };
       createNodeField({
         node,
         name: `fileSlug`,
@@ -77,7 +102,7 @@ export const onCreateNode = async ({
       createNodeField({
         node,
         name: `labels`,
-        value: Array.from(labels).map((l) => l.trim()),
+        value: Object.values(labels),
       });
       createNodeField({
         node,
@@ -118,6 +143,12 @@ type Node = {
     slug?: string;
     labels: string[];
   };
+};
+
+export type Label = {
+  title: string;
+  slug: string;
+  type: string;
 };
 
 type Category = {

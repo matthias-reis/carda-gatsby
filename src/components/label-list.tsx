@@ -5,15 +5,25 @@ import { Link } from 'gatsby';
 import { color, space, fontSize } from '../style';
 import { getPath } from '../gatsby/slugify';
 
-export const LabelList: React.FC<{ labels: string[] }> = ({ labels }) => {
-  const normalisedLabels = Array.from(new Set(labels));
+const labelTypes = {
+  category: 'Kategorie',
+  serie: 'Serie',
+  archive: 'Archiv',
+};
+
+export const LabelList: React.FC<{
+  labels: { title: string; slug: string; type: string }[];
+}> = ({ labels }) => {
   return (
     <StyledList>
-      {normalisedLabels.map((label: string) => {
-        const destination = getPath(label);
+      {labels.map((label) => {
+        const destination = getPath(label.slug);
         return (
-          <StyledLabel key={label} to={destination}>
-            {label}
+          <StyledLabel key={label.slug} to={destination}>
+            <small>
+              {label.type !== 'tag' && `${labelTypes[label.type]}: `}
+            </small>
+            {label.title}
           </StyledLabel>
         );
       })}
@@ -35,7 +45,6 @@ const StyledLabel = styled(Link)`
   margin: 0 ${space[1]} ${space[1]} 0;
   font-size: ${fontSize[2]};
   text-decoration: none;
-  text-transform: lowercase;
 
   &:hover {
     background: ${color.overlay40};

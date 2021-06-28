@@ -29,7 +29,9 @@ query AllPageQuery {
           month
           year
           type
-          labels
+          labels {
+            slug
+          }
         }
         frontmatter {
           title
@@ -80,19 +82,17 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
 
   for (const edge of edges) {
     const { fields } = edge.node;
-    for (const label of fields.labels || []) {
-      if (label.startsWith('serie:')) {
+    const labelSlugs = (fields.labels || []).map((l) => l.slug);
+    for (const labelSlug of labelSlugs || []) {
+      if (!labels[labelSlug]) {
+        labels[labelSlug] = [];
       }
-
-      if (!labels[label]) {
-        labels[label] = [];
-      }
-      labels[label].push(edge.node);
+      labels[labelSlug].push(edge.node);
     }
   }
 
-  for (const label in labels) {
-    const path = getPath(label);
+  for (const labelSlug in labels) {
+    const path = getPath(labelSlug);
 
     // ONE PAGE FOR EACH LABEL
     if (path) {
@@ -101,7 +101,7 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
         '../components',
         `list-controller.tsx`
       );
-      createPage({ path, component, context: { label } });
+      createPage({ path, component, context: { label: labelSlug } });
     }
   }
 
