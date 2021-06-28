@@ -1,7 +1,7 @@
 import * as React from 'react';
 import styled from '@emotion/styled';
 
-import { space, width } from '../style';
+import { space, width, breakpoints } from '../style';
 
 import itunesImage from '../assets/itunes.png';
 import spotifyImage from '../assets/spotify.png';
@@ -12,6 +12,10 @@ const PlaylistContainer = styled.div`
   display: flex;
   align-items: stretch;
   justify-content: space-between;
+  @media (max-width: ${breakpoints.navFold}) {
+    margin: 0 0 ${space[1]} 0;
+    flex-direction: column;
+  }
 `;
 
 const TypeContainer = styled.div`

@@ -1,6 +1,6 @@
 ---
 date: 2021-02-14T12:27:04.314Z
-slug: willebrant-coastal___-en
+slug: willebrant-coastal-en
 typeName: Review
 title: Willebrant – "Coastal___"
 subTitle: Ambient From Australia
