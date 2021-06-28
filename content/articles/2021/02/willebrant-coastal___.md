@@ -5,9 +5,7 @@ typeName: Review
 title: Willebrant – "Coastal___"
 subTitle: Ambient From Australia
 seoTitle: Willebrant – "Coastal___" – Ambient From Australia
-description: "The new EP by Willebrant is one thing above all: wonderfully
-  dreamy. The Australian's music invites you to drift off into the wide and just
-  be in the now."
+description: "The new EP by Willebrant is one thing above all: wonderfully dreamy. The Australian's music invites you to drift off into the wide and just be in the now."
 image: /img/2021_02_willebrant-1__l.jpeg
 copyrigt: Willebrant
 ogImage: /img/2021_02_willebrant.png__l.jpg
@@ -28,8 +26,9 @@ focusKeyword: Willebrant
 advertisement: false
 affiliate: false
 language: en
-languageLink: https://cardamonchai.gatsbyjs.io/2021/02/willebrant-coastal___
+languageLink: /2021/02/willebrant-coastal___
 ---
+
 **The new EP by Willebrant is one thing above all: wonderfully dreamy. The Australian's music invites you to drift off into the wide and just be in the now.**
 
 <RemoteImage

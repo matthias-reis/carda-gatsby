@@ -1,7 +1,6 @@
 ---
 ogTitle: Willebrant – "Coastal___" – Ambient aus Australien
-excerpt: "Die neue EP von Willebrant ist vor allem eins: Herrlich verträumt. Die
-  Musik des Australiers lädt dazu ein, einfach mal nur da zu sein."
+excerpt: 'Die neue EP von Willebrant ist vor allem eins: Herrlich verträumt. Die Musik des Australiers lädt dazu ein, einfach mal nur da zu sein.'
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant.png__l.jpg
 isAffiliate: false
 path: /2021/02/willebrant-coastal___/
@@ -13,15 +12,14 @@ slug: willebrant-coastal___
 errors: {}
 date: 2021-02-14T15:13:29.000Z
 focusKeyword: Willebrant
-languageLink: https://cardamonchai.gatsbyjs.io/2021/02/willebrant-coastal___-en
+languageLink: /2021/02/willebrant-coastal-en
 status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant-1__m.jpg
 title: Willebrant – "Coastal___"
 subTitle: Ambient aus Australien
 seoTitle: Willebrant – "Coastal___" – Ambient aus Australien
-description: "Die neue EP von Willebrant ist vor allem eins: Herrlich verträumt.
-  Die Musik des Australiers lädt dazu ein, einfach mal nur da zu sein."
+description: 'Die neue EP von Willebrant ist vor allem eins: Herrlich verträumt. Die Musik des Australiers lädt dazu ein, einfach mal nur da zu sein.'
 language: de
 type: Artikel
 labels:
@@ -38,6 +36,7 @@ labels:
   - Soundscape
   - Willebrant
 ---
+
 **Die neue EP von Willebrand ist vor allem eins: Herrlich verträumt. Die Musik des Australiers lädt dazu ein, in Gedanken in die Ferne zu Schweifen und einfach mal wieder nur da zu sein.**
 
 Karl Willebrand lernte ich vor Kurzem über [Perry Frank](/2020/11/perry-frank-interview/) kennen. Als Bewunderer seiner Musik war er auf meine Seite gestoßen. Ganz nebenbei erfuhr ich dann von seiner neuen EP, wofür ich wirklich dankbar bin – die Platte ist wirklich ein wunderbares Stück Ambient.
