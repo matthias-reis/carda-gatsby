@@ -52,31 +52,24 @@ export default {
               return allMdx.edges.map((edge: any) => ({
                 ...edge.node.fields,
                 ...edge.node.frontmatter,
-                description: `${
+                description: `<p style="font-size: 1.5em; color: #fff">${
+                  edge.node?.frontmatter?.subTitle
+                }</p>
+<p><img src="${
+                  site.siteMetadata.siteUrl +
+                  edge.node?.frontmatter?.image?.childImageSharp?.fluid?.src
+                }" alt="${edge.node?.frontmatter?.title}" /><p>
+<p style="font-size: 1.25em;  color: #f0ecee">${
                   edge.node.frontmatter?.excerpt ||
                   edge.node.frontmatter?.description
-                }`,
+                }</p>
+${
+  edge.node.frontmatter?.languageLink
+    ? '<p style="font-size: 1.1em;  color: #f0ecee">🇬🇧 English version available</p>'
+    : ''
+}`,
                 url: site.siteMetadata.siteUrl + edge.node.fields.path,
                 guid: site.siteMetadata.siteUrl + edge.node.fields.path,
-                custom_elements: [
-                  {
-                    'content:encoded': `<p style="font-size: 1.5em; color: #fff">${
-                      edge.node?.frontmatter?.subTitle
-                    }</p>
-<p><img src="${
-                      site.siteMetadata.siteUrl +
-                      edge.node?.frontmatter?.image?.childImageSharp?.fluid?.src
-                    }" alt="${edge.node?.frontmatter?.title}"/><p>
-<p style="font-size: 1.25em;  color: "#f0ecee">${
-                      edge.node.frontmatter?.excerpt ||
-                      edge.node.frontmatter?.description
-                    }</p>
-${
-  edge.node.frontmatter?.languageLink &&
-  '<p style="font-size: 1.1em;  color: "#f0ecee">🇬🇧 English version available</p>'
-}`,
-                  },
-                ],
               }));
             },
             query: `
