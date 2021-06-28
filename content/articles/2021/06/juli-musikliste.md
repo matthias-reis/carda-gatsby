@@ -5,14 +5,8 @@ typeName: Beitrag
 title: Juli-Musikliste
 subTitle: Acht Sommer-Songs
 seoTitle: Juli-Musikliste – Acht Sommer-Songs zum nie wieder vergessen
-description: Die Musikliste für den Juli ist etwas kürzer, als gewöhnlich, aber
-  nicht weniger gut. Mit Matze habe ich acht Songs rausgesucht, die uns nicht
-  nur die nächsten vier Wochen, sondern noch lange Zeit beschäftigen werden.
-excerpt: Die Musikliste für den Juli ist etwas kürzer, als gewöhnlich, aber
-  nicht weniger gut. Mit Matze habe ich acht Songs rausgesucht, die uns nicht
-  nur die nächsten vier Wochen, sondern noch lange Zeit beschäftigen werden.
-  Unter den Videos findet Ihr unsere Playlist wie immer fertig aufbereitet für
-  Spotify und iTunes.
+description: Die Musikliste für den Juli ist etwas kürzer, als gewöhnlich, aber nicht weniger gut. Mit Matze habe ich acht Songs rausgesucht, die uns nicht nur die nächsten vier Wochen, sondern noch lange Zeit beschäftigen werden.
+excerpt: Die Musikliste für den Juli ist etwas kürzer, als gewöhnlich, aber nicht weniger gut. Mit Matze habe ich acht Songs rausgesucht, die uns nicht nur die nächsten vier Wochen, sondern noch lange Zeit beschäftigen werden. Unter den Videos findet Ihr unsere Playlist wie immer fertig aufbereitet für Spotify und iTunes.
 image: /img/sommer-songs-1-.jpg
 ogImage: /img/sommer-songs-fb-1-.png
 labels:
@@ -41,6 +35,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Die Musikliste für den Juli ist etwas kürzer, als gewöhnlich, aber nicht weniger gut. Mit Matze habe ich acht Songs rausgesucht, die uns nicht nur die nächsten vier Wochen, sondern noch lange Zeit beschäftigen werden.**
 
 Von Post-Punk über Post-Rock und Blackgaze bis hin zu echt sommerlichem Rock-Festival-Sound wird den Ohren einiges geboten. Ich wünsche Euch viel Freude beim Hören. Am besten laut am Baggersee. Vergesst den Sonnenschirm nicht.
@@ -51,7 +46,7 @@ Unter den Videos findet Ihr unsere Playlist wie immer fertig aufbereitet für Sp
 
 Wundervolle Klaviermusik zum Nachdenken und gleichzeitig Loslassen kommt von Ólafur Arnalds. Das Stück "Saudade (When We Are Born)" symbolisiert für den Künstler eine Mischung verschiedener Emotionen: Verlangen, Melancholie, Unvollständigkeit und Liebe. "Saudade ist ohne Zweifel eines der schönsten Worte, die es gibt", schreibt er auf Twitter. Mit seiner aktuellen Single hat er das ganz wundervoll in Noten verpackt.
 
-<YouTube id="dQMSlOzFkyE" />
+<YouTube id="FOtfTcPIxXQ" />
 
 ## Deafheaven – "Great Mass Of Color"
 
@@ -61,17 +56,17 @@ Deafheaven haben neue Musik für uns. Bis jetzt gibt es "nur" die Single "Great 
 
 ## Lantlôs – "Magnolia"
 
-Irgendwie haben es mir diesen Monat wohl die Songs mit Lyrics besonders angetan. Dieser hier ist schon der zweite. Genau wie die befreundeten Alcest widmen sich Lantlôs heute dem Blackgaze. Was sich aus dem ursprünglich im Black Metal beheimateten Projekt entwickelt hat, ist ziemlich gut. Bandgründer Herbsts musikalisches Konzept geht voll auf. Die post-metallische Stimmung steht ihm gut zu Gesicht. Seit "Melting Sun" von 2014 sind die gerade erscheinenden Vorauskopplungen Single die ersten Lebenszeichen. Ich bin gespannt, wie es weitergeht. Das neue Album ist für den 30. Juli angekündigt.
+Irgendwie haben es mir diesen Monat wohl die Songs mit Lyrics besonders angetan. Dieser hier ist schon der zweite. Genau wie die befreundeten Alcest widmen sich Lantlôs heute dem Blackgaze. Was sich aus dem ursprünglich im Black Metal beheimateten Projekt entwickelt hat, ist ziemlich gut. Bandgründer Herbsts musikalisches Konzept geht voll auf. Die post-metallische Stimmung steht ihm gut zu Gesicht. Seit "Melting Sun" von 2014 sind die gerade erscheinenden Vorauskopplungen die ersten Lebenszeichen. Ich bin gespannt, wie es weitergeht. Das neue Album "Wildhund" ist für den 30. Juli angekündigt.
 
 <YouTube id="Sj_sELx_Lg4" />
 
 ## Outlander – "Sundowning"
 
-Schön düster, geräuschvoll und verwoben wirkt dieser Song aus dem Hause Outlander. Die Doomgaze/Shoegaze Gruppe aus dem britischen Birmingham schafft es, die Stimmung eines nebligen Tages in England wohl am weitesten vom erlösenden Horizontblick an der Küste entfernten Ort perfekt zu vertonen. Insgesamt sind auf der gerade veröffentlichten Platte zwei derartige Schönheiten zu finden. Das zweite Stück "Unconditional" wirkt fast noch etwas tragender als sein Vorgänger "Sundowning". Erschienen ist die Platte auf Church Road Records. Ihr könnt sie auch auf Vinyl bestellen.
+Schön düster, geräuschvoll und verwoben wirkt dieser Song aus dem Hause Outlander. Die Doomgaze/Shoegaze Gruppe aus dem britischen Birmingham schafft es, die Stimmung eines nebligen Tages im in England wohl am weitesten vom erlösenden Horizontblick an der Küste entfernten Ort perfekt zu vertonen. Insgesamt sind auf der gerade veröffentlichten Platte zwei derartige Schönheiten zu finden. Das zweite Stück "Unconditional" wirkt fast noch etwas tragender als sein Vorgänger "Sundowning". Erschienen ist die Platte auf Church Road Records. Ihr könnt sie auch auf Vinyl bestellen.
 
 <YouTube id="8GnhPQb9cMA" />
 
-## Zeal & Ardor - "Run" (Vorveröffentlichen aus ihrem selbst betitelten neuen Album)
+## Zeal & Ardor – "Run" (Vorauskopplung vom selbst betitelten neuen Album)
 
 Matze:
 
@@ -79,24 +74,33 @@ Matze:
 
 <YouTube id="Xep_SFdG7mE" />
 
-## Idles, Gang of Four - "Damaged Goods" (von der Compilation "The Problem of Leisure")
+## Idles, Gang of Four – "Damaged Goods" von der Compilation "The Problem of Leisure"
 
 Matze:
 
-> "Vom 'Problem of Leisure' Projekt, dem Tribute für Gang of Four haben wir ja schon mal durch die Vorauskopplung von Warpaint berichtet. Jetzt ist das ganze Album erschienen. Es ist gespickt mit prominenten Contributions. Unter anderem sind Tom Morello, Serj Tankian, Helmet, 3D von Massive Attack, Gary Numan, Grönemeyer, Dandy Warhols, Feld und John Frusciante von den Chili Peppers und Killing Joke mit dabei. Der Idles Song atmet wohl am meisten die Atmosphäre es Originals. Ein wirklich cooles Post-Punk Stück."
+> "Vom 'Problem of Leisure' Projekt, dem Tribute für Gang of Four [haben wir ja schon mal durch die Vorauskopplung von Warpaint berichtet](/2021/04/playlist-mai-2021/). Jetzt ist das ganze Album erschienen. Es ist gespickt mit prominenten Contributions. Unter anderem sind Tom Morello, Serj Tankian, Helmet, 3D von Massive Attack, Gary Numan, Grönemeyer, Dandy Warhols, Flea und John Frusciante von den Chili Peppers und Killing Joke mit dabei. Der Idles Song atmet wohl am meisten die Atmosphäre es Originals. Ein wirklich cooles Post-Punk Stück."
 
 <YouTube id="JyuItb3SX9o" />
 
-## Monster Magnet - "Learning To Die" (vom Album "A Better Dystopia")
+## Monster Magnet – "Learning To Die" vom Album "A Better Dystopia"
 
 Matze:
 
 > "Monster Magnet haben mit ihrem elften Werk ein komplettes Album mit ihren persönlichen Versionen bekannter Songs herausgebracht. Die gewählten Stücke folgen alle einem Thema: Dem Psych Rock der 60er und 70er. Sprich: Den Wurzeln des Monster-Magnet Sounds. 'Learning To Die' ist ein Dust Cover, also von einer der wenigen frühen US Heavy Metal Bands aus einer von britischen Bands dominieren Ära. Dennoch erkennt man alle Elemente der britischen Originale – Black Sabbath und Deep Purple hört man in jedem Takt heraus. Monster Magnet haben das Stück wirklich ziemlich originalgetreu kopiert und lediglich für ihren Stil typischer, also fetter produziert als die Version von Dust."
 
-## "Personal Shopper" - Biffy Clyro (Remix), Steven Wilson
+<YouTube id="dC-UwU8xK68" />
+
+## Steven Wilson – "Personal Shopper" (Biffy Clyro Remix)
 
 Matze:
 
-> Ich glaube, wir sind uns im Moment ziemlich einige, dass uns die Musik von Steven Wilson im Moment nicht mehr so richtig packt. Noch vor acht Jahren hielt ich ihn für das Beste, was die moderne Rockmusik zu bieten hat. Inzwischen hat er sich dazu entschieden, andere Wege einzuschlagen. Wege, denen ich leider nicht mehr folgen kann. Zeitweise habe ich sogar (was mit meinem Geschmack nicht kompatibel ist) Passagen aus Abba-Stücken aus seinen Songs herausgehört. Mit seinem letztem Werk 'The Future Bites' ist Wilsons wieder da, aber bei Weitem noch nicht zu seiner alten Stärke zurückgekehrt. Der diesen Monat erschiene Remix von Biffy Clyro, lässt mich den Song 'Personal Shopper' nochmal in einem anderen Licht sehen. Für mich macht er aus dem Original im im New Wave Synthi Pop Stil, das, was er meiner Meinung nach eigentlich von Anfang an sein wollte – einen ziemlich guten Upbeat-Poprock Song.
+> Ich glaube, wir sind uns ziemlich einig, dass uns die Musik von Steven Wilson im Moment nicht mehr so richtig packt. Noch vor acht Jahren hielt ich ihn für das Beste, was die moderne Rockmusik zu bieten hat. Inzwischen hat er sich dazu entschieden, andere Wege einzuschlagen. Wege, denen ich leider nicht mehr folgen kann. Zeitweise habe ich sogar (was mit meinem Geschmack nicht kompatibel ist) Passagen aus Abba-Stücken aus seinen Songs herausgehört. Mit seinem letztem Werk 'The Future Bites' ist Wilson wieder da, aber bei Weitem noch nicht zu seiner alten Stärke zurückgekehrt. Der diesen Monat erschienene Remix von Biffy Clyro, lässt mich den Song 'Personal Shopper' nochmal in einem anderen Licht sehen. Für mich macht er aus dem Original im New Wave Synthiepop Stil, das, was er meiner Meinung nach eigentlich von Anfang an sein wollte – einen ziemlich guten Upbeat-Poprock Song.
 
 <YouTube id="Md14BSuD18E" />
+
+## Unsere Sommer-Songs gibt es auch als Playlist
+
+<Playlist
+  spotify="4Lmw83YW1zB83RUvzMcLYv"
+  itunes="2021-06-25-rock-n-roll-vegan/pl.u-NNvWClxZ2Zy"
+/>
