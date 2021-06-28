@@ -16,6 +16,7 @@ excerpt: Die Musikliste für den Juli ist etwas kürzer, als gewöhnlich, aber
 image: /img/sommer-songs.jpg
 ogImage: /img/sommer-songs-fb.png
 labels:
+  - serie:Playlists
   - Sommer-Songs
   - Songs
   - Playlist
