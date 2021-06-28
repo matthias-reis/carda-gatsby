@@ -1,6 +1,21 @@
 ---
 date: 2021-05-25T17:43:42+02:00
+slug: musikliste-juni-2021
+typeName: ""
+title: Musikliste Juni
+subTitle: Von eisig bis dornig
+seoTitle: Musikliste für den Juni – von eisig bis dorning – Post-Rock bis Prog
+ogTitle: ""
+description: Die Musikliste, die wir diesen Monat für Euch selektiert haben, hat
+  es in sich. von Post-Rock bis Prog wird es dieses Mal eisig bis dornig.
+excerpt: Die Musikliste, die wir diesen Monat für Euch vorbereitet haben, hat es
+  in sich. von Post-Rock bis Prog wird es dieses Mal eisig bis dornig. Natürlich
+  gibt es auch wieder Videos und Playlists für Spotify und iTunes für Euch. Viel
+  Spaß mit der Musik!
+image: /img/12-songs-juni-blog.jpg
+ogImage: /img/12-songs-juni-fb.jpg
 labels:
+  - serie:Playlists
   - Bands
   - Musikliste
   - Playlist
@@ -27,22 +42,12 @@ labels:
   - Motorpsycho
   - Drone
   - Instrumental
-language: de
-slug: musikliste-juni-2021
-typeName: ''
-title: Musikliste Juni
-subTitle: Von eisig bis dornig
-seoTitle: Musikliste für den Juni – von eisig bis dorning – Post-Rock bis Prog
-ogTitle: ''
-description: Die Musikliste, die wir diesen Monat für Euch selektiert haben, hat es in sich. von Post-Rock bis Prog wird es dieses Mal eisig bis dornig.
-excerpt: Die Musikliste, die wir diesen Monat für Euch vorbereitet haben, hat es in sich. von Post-Rock bis Prog wird es dieses Mal eisig bis dornig. Natürlich gibt es auch wieder Videos und Playlists für Spotify und iTunes für Euch. Viel Spaß mit der Musik!
-image: '/img/12-songs-juni-blog.jpg'
-copyright: ''
-ogImage: '/img/12-songs-juni-fb.jpg'
-focusKeyword: Musikliste
 advertisement: false
+copyright: ""
+focusKeyword: Musikliste
 affiliate: false
-languageLink: ''
+language: de
+languageLink: ""
 ---
 
 **Die Musikliste, die wir diesen Monat für Euch vorbereitet haben, hat es in sich. Mit dabei sind einige besonders hochwertige Post-Rock Stücke und mal wieder mehr "hartes Zeug".**
