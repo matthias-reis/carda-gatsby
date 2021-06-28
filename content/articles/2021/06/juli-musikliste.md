@@ -13,8 +13,8 @@ excerpt: Die Musikliste für den Juli ist etwas kürzer, als gewöhnlich, aber
   nur die nächsten vier Wochen, sondern noch lange Zeit beschäftigen werden.
   Unter den Videos findet Ihr unsere Playlist wie immer fertig aufbereitet für
   Spotify und iTunes.
-image: /img/sommer-songs.jpg
-ogImage: /img/sommer-songs-fb.png
+image: /img/sommer-songs-1-.jpg
+ogImage: /img/sommer-songs-fb-1-.png
 labels:
   - serie:Playlists
   - Sommer-Songs
