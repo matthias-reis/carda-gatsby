@@ -1,8 +1,6 @@
 ---
 ogTitle: Rise to the Sky - das neue Album "Let Me Drown With You"
-excerpt: Rise to the Sky steht für starken Doom Metal mit Gefühl. Mit "Let Me
-  Drown With You" bringt Sergio die Trauer um seinen plötzlich verstorbenen
-  Vater zum Ausdruck.
+excerpt: Rise to the Sky steht für starken Doom Metal mit Gefühl. Mit "Let Me Drown With You" bringt Sergio die Trauer um seinen plötzlich verstorbenen Vater zum Ausdruck.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_rise-to-the-sky-fb.png__l.jpg
 isAffiliate: false
 path: /2021/03/rise-to-the-sky-let-me-drown-with-you/
@@ -14,15 +12,14 @@ slug: rise-to-the-sky-let-me-drown-with-you
 errors: {}
 date: 2021-03-15T15:18:21.000Z
 focusKeyword: Rise to the Sky
-languageLink: /rise-to-the-sky-let-me-drown-with-you-en
+languageLink: /2021/03/rise-to-the-sky-let-me-drown-with-you-en
 status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_rise-to-the-sky-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_rise-to-the-sky-1__m.jpg
 title: '"Let Me Drown With You"'
 subTitle: Das neue Album von Rise To The Sky ist da
 seoTitle: Rise to the Sky - das neue Album "Let Me Drown With You"
-description: Rise to the Sky steht für starken Doom Metal mit Gefühl. Mit "Let
-  Me Drown With You" bringt Sergio die Trauer um seinen Vater zum Ausdruck.
+description: Rise to the Sky steht für starken Doom Metal mit Gefühl. Mit "Let Me Drown With You" bringt Sergio die Trauer um seinen Vater zum Ausdruck.
 language: de
 type: Artikel
 labels:
@@ -36,6 +33,7 @@ labels:
   - Review
   - Rise to the Sky
 ---
+
 **Rise to the Sky ist ein One-Person Doom Metal Projekt aus Santiago, Chile. Sänger Sergio gründete die Band 2019 mit dem Release seines ersten Albums "Moonlight". Jetzt ist die neue Platte "Let Me Drown With You" da.**
 
 Sergios erste LP war ein musikalisches Wechselbad der Gefühle. Er spielte mit verschiedenen Atmosphären  und plötzlichen Wechseln zu schlichtem Screaming, von dem die Platte geprägt ist.

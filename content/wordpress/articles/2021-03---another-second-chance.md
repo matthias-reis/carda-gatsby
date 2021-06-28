@@ -1,7 +1,6 @@
 ---
 ogTitle: '"Another Second Chance" – Das neue Album von Baulta'
-excerpt: Baulta haben ihr neues Album "Another Second Chance" veröffentlicht.
-  Die Platte fasst viele Momentaufnahmen des letzten Jahres perfekt in Noten.
+excerpt: Baulta haben ihr neues Album "Another Second Chance" veröffentlicht. Die Platte fasst viele Momentaufnahmen des letzten Jahres perfekt in Noten.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_baulta-another-second-chance-fb.png__l.jpg
 isAffiliate: false
 path: /2021/03/another-second-chance/
@@ -13,16 +12,14 @@ slug: another-second-chance
 errors: {}
 date: 2021-03-09T09:58:31.000Z
 focusKeyword: Baulta
-languageLink: /2021/03/another-second-chance-en
+languageLink: /2021/03/baulta-another-second-chance-en
 status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_baulta-another-second-chance__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_baulta-another-second-chance__m.jpg
 title: '"Another Second Chance"'
 subTitle: Das neue Album von Baulta
 seoTitle: '"Another Second Chance" – Das neue Album von Baulta'
-description: Baulta haben ihr neues Album "Another Second Chance"
-  veröffentlicht. Die Platte fasst Momentaufnahmen des letzten Jahres perfekt in
-  Noten.
+description: Baulta haben ihr neues Album "Another Second Chance" veröffentlicht. Die Platte fasst Momentaufnahmen des letzten Jahres perfekt in Noten.
 language: de
 type: Artikel
 labels:
@@ -34,6 +31,7 @@ labels:
   - English & German
   - Post-Rock
 ---
+
 **Baulta haben ihr neues Album "Another Second Chance" veröffentlicht. Mit der Platte schaffen es die Finnen, alles, was wir in den letzten Monaten erlebt haben, zum Ausdruck zu bringen – auf höchst musikalische Art und Weise.**
 
 Für die insgesamt fünf Songs haben sich die Baulta Mitglieder von individuellen Erfahrungen der Orientierungslosigkeit und des Verlustes des eigenen Ichs inspirieren lassen. Für die Band ist das Album laut eigener Aussage eine Reise der Schönheit – von der Geburt bis zum Kampf der Selbsterkenntnis. Auf ihrer Bandcamp Seite schreiben Baulta:
