@@ -321,9 +321,9 @@ Zuhause? Mhhh... für mich ist das der Ort, an dem ich mich geborgen und sicher 
 
 **Anne:** Vielen Dank für das Interview!
 
-### ** [Das könnt Ihr tun, um die Proteste zu unterstützen. Bitte lesen! Dauert nur 5 Minuten!](http://blog.amnestyusa.org/europe/what-you-can-do-now-to-stop-the-abuse-of-protestors-in-turkey/) **
+[Das könnt Ihr tun, um die Proteste zu unterstützen. Bitte lesen! Dauert nur 5 Minuten!](http://blog.amnestyusa.org/europe/what-you-can-do-now-to-stop-the-abuse-of-protestors-in-turkey/)
 
-Hier geht es zum Filmprojekt der beiden:
+## Hier geht es zum Filmprojekt der beiden
 
 <RemoteImage
   alt={`Istanbul mit andern Augen`}

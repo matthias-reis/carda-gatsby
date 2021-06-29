@@ -49,26 +49,17 @@ errors: {}
 subTitle: Mit musikalischer Untermalung
 ---
 
-### Meine Lieben,
+## Meine Lieben,
 
 **ich wünsche Euch ein tolles Wochenende! Hierzulande regnet es, soweit das Auge reicht. Die Hoffnung, dass das diesen Sommer mit dem Wetter noch was wird, habe ich nur noch nicht verloren, weil mir Freunde aus dem Ausland immer wieder vom Sonnenbaden und anderen tollen Sommeraktivitäten berichten. Und irgendwann muss der blaue Himmel ja schließlich auch zu uns kommen.**
 
 <RemoteImage
   alt={`Die Nachbarn flüchten schon`}
-  size="medium"
+  size="full"
   title={`Die Nachbarn flüchten schon`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_5504__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_5504__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcD/8QALBAAAgEDAwMCBAcAAAAAAAAAAQIDBAURAAYhEjFBImETFFFxBxUjMjNigf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwBc31vK/W7eV5paO9VkUENUyJCj4VAAOO3bQlu3/uGSeNWutay5BOJAWP18a57htMFz/ErdjVq3FqeCrJ+Hb4lkmkdioVVBz7k4BOBphq9mWSluM8VF+ZIESFwtTKFfLxI5Denj93bHj21rWrUs712zbbKLqlHUS07I9Q7gFn+G4BBPkEdX2B0ZTpJS10FJ8/DPCsA9M0gaoc9OOs+TlgTntj7azM3U0236S1CClnpKbqMQkaTqBPUD6lA8Ow/3UrNfp7lu+31M0VMtUBBCrJGf4yXVl5P0J599GFVXPfqux733lLb7fJXVElQUUK3EZCnDMuQSPV3HjI0u3m7bhuz09Ux+RqSnw6mZWVFmwcI3QOzBcDvzjVluWx7jG+dwVlDZLlNBNVs8UsUXDjA5BzoqO03+tjMNdZblCxAPzAps5P8AcDv7kc/UNpCT5ae6tJ+tepZYlZgr9TdTKfJXOM+e5xonZNsVN9bellrZpZI6yPgqcHv5J1ZV20NxJI8Zsta2Dw0KdSt7jB1PaO2ty0u8rJUVVnuMdLFWI8kjxYVEGeTzqT//2Q=="
-/>
-
-<RemoteImage
-  alt={`Der Kater wärmt schon mal das Handtuch`}
-  size="medium"
-  title={`Der Kater wärmt schon mal das Handtuch`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_5505__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_5505__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUDBgcI/8QAKhAAAgEDAgYBAwUAAAAAAAAAAQIDBAUGABEHEiExQWETFCKhFiNxgbP/xAAYAQACAwAAAAAAAAAAAAAAAAAABAECA//EABoRAQEBAQEBAQAAAAAAAAAAAAECABEDMSH/2gAMAwEAAhEDEQA/ANZju7VVbexBXs9TSvOFhaRlUFN9l2HjoO2qDbuOImgiV7MRUlRzH6xuTm9dN9Znl97q7dnWVCmlaMvX1ce6kjoXYePWgMbsq1CNJWFkQ7fHseUj2fW2kzyJ605yZHdN4DcZ75bTUy1UryOWYpzn9vc9F7+B501niq4bjSulVPyfKoZS5IIJ6gjWN43f1xP6mmp6hHjn+6Nix5oj721cLRmVTV3uhoZ5UZ2ljDbfcCCw22J8HcddY1L3pprzQ7z83PfEGZf15k/q6VP+jaMslxjkpOdSrOPtHN2B1FxDxDLjxAyaSDGbzUU81xnmimgpHkjdHcsrBlBB3BGgbVhmWU6iVMfv0UzdwbfJsPxpygTEpntTVQPIJSiu67Dm5u/sjt40zsl2SfLsS6D5WuNNTEjwFmVh+GA/rVdrMbycwGNMVvpk67MKGU7/AM9NSYJiWXHiFjLy43eYKWC5QTyzT0jxxoiuGZmZgAOgOiQ+uvVDP3f/2Q=="
 />
 
 Außerdem habe ich das Wetter ja auch [vorgestern erst offiziell zur Nebensache erklärt](//2013/05/neues-nine-inch-nails-album-in-kurze-und-queens-of-the-stone-age-schon-auf-dem-weg/), interessiert also nicht. Und das ist gut so. Auch wenn ich bei Twitter noch darüber wettere, nehme ich es doch nicht allzu ernst.
@@ -81,9 +72,9 @@ Jetzt fragt Ihr Euch sicherlich "Was schwallt sie denn heute wieder? Hat sie den
 
 ## Josh Homme, Dave Grohl & Trent Reznor – "Mantra"
 
-[ <YouTube id="L2kGNdE0b5Q&amp;w=560&amp;h=315]" /> (https://www.youtube.com/watch?v=L2kGNdE0b5Q&amp;feature=player_detailpage)
+<YouTube id="L2kGNdE0b5Q" />
 
-_Viel Spaß damit! Und ein wundertolles Wochenende! Ich tauche jetzt mit der Musik von Dave, Trent und Josh in der Badewanne ab und lese ein paar Seiten in diesem wundervollen Buch:_
+Viel Spaß damit! Und ein wundertolles Wochenende! Ich tauche jetzt mit der Musik von Dave, Trent und Josh in der Badewanne ab und lese ein paar Seiten in diesem wundervollen Buch:
 
 <RemoteImage
   alt={`Stay home read a book`}
@@ -94,7 +85,6 @@ _Viel Spaß damit! Und ein wundertolles Wochenende! Ich tauche jetzt mit der Mus
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUEAAP/xAAqEAACAQMEAgAFBQEAAAAAAAABAgMEBREABhIhEzEUUWFxkQcWIkHBgf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAIhEAAgICAQMFAAAAAAAAAAAAAREAAgMhUQQS8CIxQYHx/9oADAMBAAIRAxEAPwDFf71uqp3xuMx3q8Rww3KeCOFK1440jRyqhUU+sAf7rf8ApXvCtvW6qykn3DcpY6OlmdxNUMsbfzVA3JmPrkME/wC6975boY96XapaijcRVkzo5lIIJZiTj17J0h2varfLcKONqCnFPNRzxSRADiycojjoDrIzjUKvWPMKEaJ15+S3lw0ri17qJbhUwyU6tUbganSNseSG6YJc5HFsfZvxobSwXe17usslDvC93SAVMXnjkuEcsfAyqhV0zkghj388aw7/AL5Ytt3pbdbbDbmhwpm5w9M6scAd/wBAkfc6dUdr2+KeiulmtlJTCaWD+SR8GC+ZDxP1BA6+Y086RcnrtEBX2uf933+ItIY1q3Uqq9cQxJz19dX9tV1Lb/h6quqEhp4oJucr5A7eMZ/6SPzoJuS1btp99XxobPenp5K+eSOSKGSSJo2fKspUYPRH271T2/a9z1NdW+WmulO0tEIkappHWNWE8TnGR7Kq2hnD66qoCLfOlx8xZLBsbthLzidvbbdvv25HrIrvTvTSKXmcOMqox/RA67xkZ/On1hrrTTUVFa7ZcqWomjljkKQOGbBlTJx8u8aiHbu4lppwAyzeQukkdOpLL4mAjOR0OZQn6KT71N2nZdy0u74PjLbIYcqPKtH4lUCZWJL8QCOAx79j13pX3DWIIn//2Q=="
 />
 
-_Bis bald! Tschüss!_
+Bis bald! Tschüss!
 
 <FestivalList />
-

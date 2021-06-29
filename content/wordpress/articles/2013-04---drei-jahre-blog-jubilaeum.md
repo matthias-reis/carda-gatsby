@@ -60,7 +60,7 @@ Ich bin damals mit meinen älteren Beiträgen umgezogen, weil ich unabhängiger 
 
 <RemoteImage
   alt={`Jubiläums-Duckface`}
-  size="thumbnail"
+  size="full"
   title={`Jubiläums-Duckface`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_521321_558557654166368_410771033_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_521321_558557654166368_410771033_n__l.jpg"
@@ -73,7 +73,7 @@ Die meisten Artikel in meinem Blog drehen sich natürlich um mein Lieblingsthema
 
 <RemoteImage
   alt={`Jubiläums-Luftsprung`}
-  size="medium"
+  size="full"
   title={`Jubiläums-Luftsprung`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_542296_460562973965837_258537226_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_542296_460562973965837_258537226_n__l.jpg"
@@ -86,7 +86,7 @@ Wenn man mich nach meiner Lieblings-Blogrubrik fragen würde, würde ich auf all
 
 <RemoteImage
   alt={`Jubiläums-Sonnenuntergang`}
-  size="medium"
+  size="full"
   title={`Jubiläums-Sonnenuntergang`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_294501_463496133672521_2123941963_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_294501_463496133672521_2123941963_n__l.jpg"

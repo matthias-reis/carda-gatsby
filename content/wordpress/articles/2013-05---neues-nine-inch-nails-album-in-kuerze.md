@@ -158,15 +158,4 @@ Eine von diesen kleinen schönen Vinylwundern ist übrigens schon wieder (zusamm
 
 Sensation No. 3: Morgen ist Feiertag. Das bedeutet, ich kann ausschlafen! Außerdem gibt es (Sensation No. 4) heute Abend jede Menge Sushi! So fühlt sich Glückseligkeit an! Ich weiß es!
 
-## Nine Inch Nails – "Closer" (Woodstock 1994)
-
-<YouTube id="bEdqqyxoWuA" />
-
-## Nine Inch Nails Osaka 2007
-
-<Vimeo id="/66919663" />
-
-_Dieser Artikel ist für Valentin_
-
 <FestivalList />
-

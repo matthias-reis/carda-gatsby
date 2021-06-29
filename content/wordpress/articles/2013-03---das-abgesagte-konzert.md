@@ -61,15 +61,6 @@ subTitle: Nächstes Mal wird es dafür doppelt schön
 
 **Heute erfahrt Ihr, warum ich leider nie erfahren werde, ob Amanda Palmer meine Frisur gefallen hätte. Das Konzert wurde leider abgesagt. Der Ticketshop ist überfordert und weiß nicht, was zu tun ist.**
 
-<RemoteImage
-  alt={`Konzert abgesagt`}
-  size="medium"
-  title={` Two tickets to paradise`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_amanda5__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_amanda5__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUGBwEDCP/EAC4QAAEDAwMBBgUFAAAAAAAAAAECAwQFBhEAEiExBxMUIkFRFTNxgZFCUmFykv/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADERIEEyEi/9oADAMBAAIRAxEAPwAGvXPMotyQaXAgUN9lUKG6UTITK3HnHmwogLUQoknd/AGNC12tXpSmC8um2s+hWVhMSkMuKbHsdyRuA9wM6W374pi+abLhIZfeFPpraGFDzKUplKcj/WftpLWX7lhzpCpMhL8R5zYw6HCWkjOAlKR5snjAGSfY6zszbeGXUAr6JhfajcKlHbDttHpj4Ixx+dS+wLprN2y5zc+jUZqlM0+S4ZMWnIYUX229ydqxzndjIHGOug7X7M1zpDdXu4OR4y1ZbpqMokSiP34+WnjoPN/XVpSERosh+LEjIhsN0qYhmOhIQEIDXokdBpe/LBRD0/JYyme0uryKTeTSohLb6qNTy26AMtq7jBIyMdONNeyWpx335rqIy5NQhNeKeeWU9+tnO10ICeUkBQUFJ54IJ5GtN/2ZVblr0apUqTRvDCnRIxEmptMLSttvaoFCjkc5+vX10vt6xrut+twatTZttomRFhaD8bYwofqQrnkEZB+unsr2BxFrs1xOhjMZaZQ2wmHEZZGWkrOxLTZG4qSMAZIP2PUnkarSJcXie0OsUxL3esLpU51kFBGxPcbgcnk5834GpFWVzZNMS6xUKQ9M2Z8O7VY5xk7tm4nCik8bjxjoBqAW3Qq/FvOdX7jl0Usrp0yOhEWpsvqCnGilCUoSSo+Y8n6k41Dj0kNlhLX2grhZ/9k="
-/>
-
 Gleich an erster Stelle: Lieber Antony, ich wünsche Dir alles Gute, wir hoffen, dass es Dir bald besser gehen wird. Amanda soll Dich von uns drücken. Wir denken hier an Euch!
 
 Zu Weihnachten wollte ich Matze eine ganz besondere Freude machen und schenkte ihm Eintrittskarten für ausgewählte Konzerte. Unter anderem eine für [Amanda Palmer](http://www.amandapalmer.net/). Das Konzert sollte gestern Abend im Ampere in München stattfinden.

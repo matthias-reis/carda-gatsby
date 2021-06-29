@@ -40,7 +40,7 @@ subTitle: Die Postkartengalerie
 
 **in den letzten Wochen hatte ich ständig tolle Post im Briefkasten, wenn ich nach Hause kam. Über Twitter und Facebook habe ich eine kleine Postkartenaktion ins Leben gerufen. Wer mir eine schickt, bekommt auch eine von mir. Dass sich so viele von Euch melden würden, hätte ich nicht gedacht. Heute möchte ich Euch die erste Bildergalerie präsentieren, die aus Euren Karten entstanden ist. Von Euch und für Euch. Denn sie besteht ja schließlich aus Euren tollen Postkarten.**
 
-## _Mein Dank geht an:_
+## Mein Dank geht an:
 
 _Sarah, Ali, Angelika, Ortwin, Kristina, Annett, Florian, Caro, Sandra die mir regelmäßig tolle Karten schickt, Karin, Rainer, Wolfgang, Lore, Resi, Salome, Christine, Erk, Ulla, Birgitt, Mattze, Melissa, Moni aka @nahlinse, Chris aka @chrismarquardt, die @Frau_mitKatze, @Loewenkram, @timmytommy, der mir gleich an ganzes Potpourri aus Karten schickte und noch weitere Lieferungen angekündigt hat, Daniel, Theresa, meine Oma, Annette aka @a_g_p, Wirre Welt Berlin, der mir gleich auch noch den Berliner Fernsehturm mitschickte, @wholehearted, Andi, Lui, Michele, Toni und aithir. Ihr seid großartig!_
 
@@ -50,9 +50,7 @@ Wer mitmachen möchte, kann ganz einfach per  [E-Mail](mailto:info@cardamonchai
 
 Hier noch ein dickes Sorry dafür, dass ich Euch heute bei [Instagram](http://instagram.com/anne_reko/)  so mit Bildern zuspammen musste, ich bin bei diesem derart hohen Postaufkommen einfach mit dem Abfotografieren nicht mehr hinterhergekommen. Dazu kam noch erschwerend hinzu, dass meine iPhone-Kamera vor ein paar Tagen die Grätsche gemacht hat und ich ja erstmal alles in Instagram sammeln wollte, um dem gewählten Stil treu zu bleiben. Also musste ich da heute eine ganze Menge nachholen.
 
-Wo wir gerade bei Stil sind, fällt mir ein: [Der werte Herr Arschhaarzopf](http://arschhaarzopf.wordpress.com) wollte mir doch noch eine Karte schicken? Die wird doch nicht etwa [auf dem Postweg verloren gegangen](/2013/06/neues-aus-der-servicewuste-die-post-hat-sich-schon-langst-abgeschafft/) sein?
-
-**_Aus diesen Winkeln der Erde haben mich Eure Postkarten erreicht:_**
+## Aus diesen Winkeln der Erde haben mich Eure Postkarten erreicht
 
 <RemoteImage
   alt={`Die Karte der Karten`}
@@ -63,7 +61,7 @@ Wo wir gerade bei Stil sind, fällt mir ein: [Der werte Herr Arschhaarzopf](http
   loadingUrl="data:image/jpeg;base64,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"
 />
 
-_ **Die Galerie der Karten** _
+## Eure Karten
 
 <Gallery
   images={[
@@ -309,7 +307,7 @@ _ **Die Galerie der Karten** _
   ]}
 />
 
-_ **Hier noch eine kleine Galerie aus Euren Briefmarken:** _
+## Eure Briefmarken
 
 <Gallery
   images={[

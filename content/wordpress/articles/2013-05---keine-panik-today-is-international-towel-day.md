@@ -43,7 +43,7 @@ Mit intergalaktischen Grüßen
 
 <RemoteImage
   alt={`Keine Panik! Das Handtuch ist gehisst!`}
-  size="medium"
+  size="full"
   title={`Das Handtuch ist gehisst! Seht, wie schön es von der Sonne beleuchtet wird!`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_5386__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_5386__l.jpg"
